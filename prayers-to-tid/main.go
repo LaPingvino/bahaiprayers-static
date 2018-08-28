@@ -17,6 +17,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"strconv"
+	"os"
 	"text/template"
 )
 
@@ -34,8 +35,9 @@ tags: [[{{.Category}}]] prayer-lang-{{.LanguageId}} Prayers [[Prayers by {{.Auth
 
 func (a Author) String() string {
 	if a > 0 && a < 4 {
-		return string{"Báb", "Bahá'u'lláh", "Abdu'l-Bahá"}[a-1]
+		return []string{"Báb", "Bahá'u'lláh", "Abdu'l-Bahá"}[a-1]
 	}
+	return "Unknown author"
 }
 
 type Prayer struct {
@@ -79,7 +81,7 @@ func main() {
 		var prayers = new(Prayerfile)
 		json.Unmarshal(b, prayers)
 		for _, prayer := range prayers.Prayers {
-			f, err := os.Create("prayerfile" + v + prayer.Id + ".tid")
+			f, err := os.Create("prayerfile" + prayer.LanguageId + "-" + prayer.Id + ".tid")
 			if err != nil {
 				panic(err)
 			}
