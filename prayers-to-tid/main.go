@@ -13,6 +13,7 @@
 package main
 
 import (
+	"log"
 	"encoding/json"
 	"io/ioutil"
 	"net/http"
@@ -41,9 +42,9 @@ func (a Author) String() string {
 }
 
 type Prayer struct {
-	Id         string
+	Id         int
 	Author     Author `json:"AuthorId"`
-	LanguageId string
+	LanguageId int
 	Text       string
 	Category   string `json:"FirstTagName"`
 }
@@ -77,11 +78,17 @@ func main() {
 		Prayers []Prayer
 	}
 	for _, v := range languages() {
-		b := GetFile("tags?languageid=" + strconv.Itoa(v))
-		var prayers = new(Prayerfile)
-		json.Unmarshal(b, prayers)
+		log.Printf("Language %d", v)
+		b := GetFile("prayersystembylanguage?html=false&languageid=" + strconv.Itoa(v))
+		var prayers = Prayerfile{}
+		err := json.Unmarshal(b, &prayers)
+		if err != nil {
+			panic(err)
+		}
+		log.Printf("%#v", prayers)
 		for _, prayer := range prayers.Prayers {
-			f, err := os.Create("prayerfile" + prayer.LanguageId + "-" + prayer.Id + ".tid")
+			log.Printf("Prayer %s", prayer.Id)
+			f, err := os.Create("prayerfile" + strconv.Itoa(v) + "-" + strconv.Itoa(prayer.Id) + ".tid")
 			if err != nil {
 				panic(err)
 			}
