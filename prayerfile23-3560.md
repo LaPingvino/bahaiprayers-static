@@ -1,0 +1,3 @@
+O min Gud! Jeg ber deg, ved ditt herligste navn, om å bistå meg i det som vil fremme dine tjeneres anliggender og få dine byer til å blomstre. Du har i sannhet makt over alle ting!
+
+-- Bahá'u'lláh

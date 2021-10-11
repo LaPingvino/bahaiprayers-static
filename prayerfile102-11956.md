@@ -1,0 +1,8 @@
+Hu’äl-Äbha
+    Eý jandan geçen binyşan ýar! Müňlerçe akyldar Onuň gözleginde, ýöne olar mahrum hem Onuň rugsaryndan uzakdadyrlar. Sen bolsa hem tapdyň hem tanadyň. Sen hyzmat oýnunda utulyp, öz işiňi bitirdiň. Sen ýeňiş we ýagşylyk baýdagyny göterdiň. Bu bir ajap hekaýat, görülmedik buşluk bu! Agtaranlar tapmady-da, oturanlar tapdylar. Ystahfyr’Alla gözleýişleri teşneleriň däl-de salgym görenleriň gözlegimiş, dilegleri aşyklaryň däl-de, akyllylar dilegimiş.
+   Hoşa çöplän akyllylar gapyldyr Leýli syryndan.
+   Bu keramatlar diňe harman otlan Mejnunyňdyr. 
+   Oturan aşyk hereketli akyllydan oňatdyr. 
+   Wel-Baha’u-eleýk.
+
+-- Abdu'l-Bahá

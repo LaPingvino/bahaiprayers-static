@@ -1,0 +1,3 @@
+Ô mon Dieu, aide ce serviteur à proclamer la parole et à réfuter ce qui est vain et faux, à établir la vérité et à faire connaître les saints versets, à révéler les splendeurs et à faire naître l’aurore dans le cœur des justes. En vérité, tu es le Généreux, l’Indulgent.
+
+-- Abdu'l-Bahá

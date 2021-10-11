@@ -1,0 +1,5 @@
+Naalagaq-aa! Nunarsuup inuiai tamaasa Upperisavit Paradiisianut isersinnaanissaannut periarfissaqartikkit, taamaalilluni pinngortitaq sunaluunniit Paaqqinninnerpit killeqarfiata avataaneeqqunagu. 
+
+Piffissami qangarsuarniilli Tassaasimavutit Piumasannik iliornissamut pissaanilik, sumilluunniit Kissaatigisannit qaffasinnerusoq.
+
+-- Báb

@@ -1,0 +1,5 @@
+¡Glorificado eres, oh mi Dios! Te doy gracias por haberme hecho conocer a Aquel que es la Aurora de Tu misericordia, el Alba de Tu gracia y el Depositario de Tu Causa. Te imploro, por Tu Nombre, por el cual los rostros de quienes están cerca de Ti han palidecido y los corazones de quienes están consagrados a Ti han emprendido su vuelo hacia Ti, que me permitas asirme a Tu cuerda en todo momento y bajo cualquier condición, y librarme de todo apego a cualquiera que no seas Tú, y mantener los ojos dirigidos hacia el horizonte de Tu Revelación y cumplir lo que me has prescrito en Tus Tablas.
+Atavía, oh mi Señor, mi ser interior y exterior con la vestidura de Tus favores y Tu cariñosa bondad. Protégeme, pues, de todo lo que Te sea detestable, y ayúdanos bondadosamente a mí y a mis familiares a obedecerte, y a eludir todo cuanto pueda suscitar algún deseo malo o corrupto en mí.
+Verdaderamente, Tú eres el Señor de toda la humanidad y el Poseedor de este mundo y del venidero. No hay Dios sino Tú, el Omnisciente, el Sapientísimo.
+
+-- Bahá'u'lláh

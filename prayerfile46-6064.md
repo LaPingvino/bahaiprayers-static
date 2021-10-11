@@ -1,0 +1,3 @@
+Penaune ngumaisapo ouzeu pendje naMukuru? Ii, oMukuru erike. Mukuru ngatangue! Eye oMukuru! Avehe ovakarere Ve. Avehe ngave Mukongorere, nu verikotamene ku Je!
+
+-- Báb

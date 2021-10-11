@@ -1,0 +1,4 @@
+O Lord!  Enable all the peoples of the earth to gain admittance into the Paradise of Thy Faith, so that no created being may remain beyond the bounds of Thy good-pleasure.
+From time immemorial Thou hast been potent to do what pleaseth Thee and transcendent above whatsoever Thou desirest.
+
+-- Báb

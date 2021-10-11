@@ -1,0 +1,3 @@
+Rugăciunile ce au fost revelate pentru a cere însănătoşire se referă atât la însănătoşirea fizică cât şi la cea spirituală. Recitaţi-le, deci, pentru a însănătoşi atât trupul cât şi sufletul...
+
+-- Abdu'l-Bahá
