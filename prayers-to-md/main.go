@@ -13,12 +13,12 @@
 package main
 
 import (
-	"log"
 	"encoding/json"
 	"io/ioutil"
+	"log"
 	"net/http"
-	"strconv"
 	"os"
+	"strconv"
 	"text/template"
 )
 
@@ -28,10 +28,9 @@ var Local string = APILINK
 
 type Author int
 
-var TMPLOUTPUT = template.Must(template.New("tiddler").Parse(`title: bpn-{{.LanguageId}}-{{.Id}}
-tags: [[{{.Category}}]] prayer-lang-{{.LanguageId}} Prayers [[Prayers by {{.Author}}]]
+var TMPLOUTPUT = template.Must(template.New("markdown").Parse(`{{.Text}}
 
-{{.Text}}
+-- {{.Author}}
 `))
 
 func (a Author) String() string {
@@ -87,8 +86,8 @@ func main() {
 		}
 		log.Printf("%#v", prayers)
 		for _, prayer := range prayers.Prayers {
-			log.Printf("Prayer %s", prayer.Id)
-			f, err := os.Create("prayerfile" + strconv.Itoa(v) + "-" + strconv.Itoa(prayer.Id) + ".tid")
+			log.Printf("Prayer %d", prayer.Id)
+			f, err := os.Create("prayerfile" + strconv.Itoa(v) + "-" + strconv.Itoa(prayer.Id) + ".md")
 			if err != nil {
 				panic(err)
 			}
