@@ -87,7 +87,9 @@ func main() {
 		log.Printf("%#v", prayers)
 		for _, prayer := range prayers.Prayers {
 			log.Printf("Prayer %d", prayer.Id)
-			f, err := os.Create("prayerfile" + strconv.Itoa(v) + "-" + strconv.Itoa(prayer.Id) + ".md")
+			dir := "prayers/" + strconv.Itoa(v)
+			os.MkdirAll(dir, os.ModePerm)
+			f, err := os.Create(dir + "/bpn" + strconv.Itoa(prayer.Id) + ".md")
 			if err != nil {
 				panic(err)
 			}
