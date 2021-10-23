@@ -1,83 +1,83 @@
-id,iso,iso_type,name,english,flag_link
-1,en,language,English,English,https://BahaiPrayers.net/Content/Images/Flags/English.png
-2,is,language,"Íslenska",Icelandic,"https://BahaiPrayers.net/Content/Images/Flags/Íslenska.png"
-3,de,language,Deutsch,German,https://BahaiPrayers.net/Content/Images/Flags/Deutsch.png
-4,es,language,"Español",Spanish,"https://BahaiPrayers.net/Content/Images/Flags/Español.png"
-5,fa,original,"فارسی",Persian,"https://BahaiPrayers.net/Content/Images/Flags/فارسی.png"
-6,ar,language,"العربية",Arabic,"https://BahaiPrayers.net/Content/Images/Flags/العربية.png"
-7,fr,language,"Français",French,"https://BahaiPrayers.net/Content/Images/Flags/Français.png"
-8,pt,language,"Português (BR)",Portuguese,"https://BahaiPrayers.net/Content/Images/Flags/Português (BR).png"
-9,zh-Hans,language,"简体中文","Chinese Simplified","https://BahaiPrayers.net/Content/Images/Flags/简体中文.png"
-10,it,language,Italiano,Italian,https://BahaiPrayers.net/Content/Images/Flags/Italiano.png
-11,nl,language,Nederlands,Dutch,https://BahaiPrayers.net/Content/Images/Flags/Nederlands.png
-12,ro,language,"România",Romanian,"https://BahaiPrayers.net/Content/Images/Flags/România.png"
-13,lv,language,"Latviešu",Latvian,"https://BahaiPrayers.net/Content/Images/Flags/Latviešu.png"
-14,be,language,"Беларускі",Belarusian,"https://BahaiPrayers.net/Content/Images/Flags/Беларускі.png"
-15,ru,language,"Русский",Russian,"https://BahaiPrayers.net/Content/Images/Flags/Русский.png"
-16,hu,language,Magyar,Hungarian,https://BahaiPrayers.net/Content/Images/Flags/Magyar.png
-17,sq,language,Shqip,Albanian,https://BahaiPrayers.net/Content/Images/Flags/Shqip.png
-18,cs,language,"Česky",Czech,"https://BahaiPrayers.net/Content/Images/Flags/Česky.png"
-19,ja,language,"日本語",Japanese,"https://BahaiPrayers.net/Content/Images/Flags/日本語.png"
-20,af,language,Afrikaans,Afrikaans,https://BahaiPrayers.net/Content/Images/Flags/Afrikaans.png
-21,ko,language,"한국어",Korean,"https://BahaiPrayers.net/Content/Images/Flags/한국어.png"
-22,bg,language,"български",Bulgarian,"https://BahaiPrayers.net/Content/Images/Flags/български.png"
-23,no,language,Norsk,Norwegian,https://BahaiPrayers.net/Content/Images/Flags/Norsk.png
-24,sv,language,Svenska,Swedish,https://BahaiPrayers.net/Content/Images/Flags/Svenska.png
-25,et,language,Eesti,Estonian,https://BahaiPrayers.net/Content/Images/Flags/Eesti.png
-26,sk,language,Slovensky,Slovakian,https://BahaiPrayers.net/Content/Images/Flags/Slovensky.png
-27,eo,language,Esperanto,Esperanto,https://BahaiPrayers.net/Content/Images/Flags/Esperanto.png
-28,hr,language,Hrvatski,Croatian,https://BahaiPrayers.net/Content/Images/Flags/Hrvatski.png
-29,ky,language,"Кыргыз",Kyrgyz,"https://BahaiPrayers.net/Content/Images/Flags/Кыргыз.png"
-30,sl,language,"Slovenščina",Slovene,"https://BahaiPrayers.net/Content/Images/Flags/Slovenščina.png"
-32,uk,language,"Україна",Ukranian,"https://BahaiPrayers.net/Content/Images/Flags/Україна.png"
-33,pl,language,Polski,Polish,https://BahaiPrayers.net/Content/Images/Flags/Polski.png
-34,tl,language,Filipino,Filipino/Tagalog,https://BahaiPrayers.net/Content/Images/Flags/Filipino.png
-35,hy,language,"հայերեն",Armenian,"https://BahaiPrayers.net/Content/Images/Flags/հայերեն.png"
-36,az,language,"Azərbaycan",Azerbaijan,"https://BahaiPrayers.net/Content/Images/Flags/Azərbaycan.png"
-37,bi,language,Vanuatu,"Vanuatu Regional",https://BahaiPrayers.net/Content/Images/Flags/Vanuatu.png
-38,vi,language,"Tiếng Việt",Vietnamese,"https://BahaiPrayers.net/Content/Images/Flags/Tiếng Việt.png"
-39,ta,language,"தமிழ்",Tamil,"https://BahaiPrayers.net/Content/Images/Flags/தமிழ்.png"
-40,id,language,"Bahasa Indonesia",Indonesian,"https://BahaiPrayers.net/Content/Images/Flags/Bahasa Indonesia.png"
-41,bs,language,Bosanski,Bosnian,https://BahaiPrayers.net/Content/Images/Flags/Bosanski.png
-42,cnr,language,Montenegrin,Montenegrin,https://BahaiPrayers.net/Content/Images/Flags/Montenegrin.png
-43,th,language,"ภาษาไทย",Thai,"https://BahaiPrayers.net/Content/Images/Flags/ภาษาไทย.png"
-44,ca,language,"Català",Catalan,"https://BahaiPrayers.net/Content/Images/Flags/Català.png"
-45,tpi,collection,"Papua New Guinea","Papua New Guinea","https://BahaiPrayers.net/Content/Images/Flags/Papua New Guinea.png"
-46,hz,collection,Namibia,Namibia,https://BahaiPrayers.net/Content/Images/Flags/Namibia.png
-47,ga,language,Irish,Irish,https://BahaiPrayers.net/Content/Images/Flags/Irish.png
-48,fy,language,Frysk,Frisian,https://BahaiPrayers.net/Content/Images/Flags/Frysk.png
-50,fo,language,"Føroyar","Faroe Islands","https://BahaiPrayers.net/Content/Images/Flags/Føroyar.png"
-51,srn,language,"Sranan Tongo",Suriname,"https://BahaiPrayers.net/Content/Images/Flags/Sranan Tongo.png"
-52,ch,language,Chamorro,"Guam/Marshall Is.",https://BahaiPrayers.net/Content/Images/Flags/Chamorro.png
-53,eu,language,Euskara,"Basque (Spain)",https://BahaiPrayers.net/Content/Images/Flags/Euskara.png
-54,gil,language,Kiribati,Kiribati,https://BahaiPrayers.net/Content/Images/Flags/Kiribati.png
-55,mh,language,Marshallese,"Marshall Is.",https://BahaiPrayers.net/Content/Images/Flags/Marshallese.png
-56,haw,language,Hawaiian,Hawaiian,https://BahaiPrayers.net/Content/Images/Flags/Hawaiian.png
-57,lg,language,Luganda,"Ugandin Regional",https://BahaiPrayers.net/Content/Images/Flags/Luganda.png
-58,da,language,Dansk,Danish,https://BahaiPrayers.net/Content/Images/Flags/Dansk.png
-59,mi,language,"Māori","Maori / New Zealand","https://BahaiPrayers.net/Content/Images/Flags/Māori.png"
-60,cy,language,Cymraeg,Welsh,https://BahaiPrayers.net/Content/Images/Flags/Cymraeg.png
-61,st,language,Sesotho,Lesotho,https://BahaiPrayers.net/Content/Images/Flags/Sesotho.png
-62,kl,language,Kalaallisut,"Greenlandic (Inuit)",https://BahaiPrayers.net/Content/Images/Flags/Kalaallisut.png
-63,hi,language,"हिंदी",Hindi,"https://BahaiPrayers.net/Content/Images/Flags/हिंदी.png"
-64,pap,language,Papiamentu,"Lesser Antilles",https://BahaiPrayers.net/Content/Images/Flags/Papiamentu.png
-65,fj,language,Fiji,"Fiji Islands",https://BahaiPrayers.net/Content/Images/Flags/Fiji.png
-66,ne,language,"नेपाली",Nepali,"https://BahaiPrayers.net/Content/Images/Flags/नेपाली.png"
-67,fi,language,Suomi,Finnish,https://BahaiPrayers.net/Content/Images/Flags/Suomi.png
-68,el,language,"ελληνικά",Greek,"https://BahaiPrayers.net/Content/Images/Flags/ελληνικά.png"
-69,mt,language,Malti,Maltese,https://BahaiPrayers.net/Content/Images/Flags/Malti.png
-70,ht,language,"Kreyol Ayisyen","Haitian Creole","https://BahaiPrayers.net/Content/Images/Flags/Kreyol Ayisyen.png"
-71,lt,language,"Lietuvių",Lithuanian,"https://BahaiPrayers.net/Content/Images/Flags/Lietuvių.png"
-72,lb,language,"Lëtzebuergesch",Luxembourg,"https://BahaiPrayers.net/Content/Images/Flags/Lëtzebuergesch.png"
-75,bn,language,"বাংলা",Bengali,"https://BahaiPrayers.net/Content/Images/Flags/বাংলা.png"
-76,ur,language,"اُردُو",Urdu,"https://BahaiPrayers.net/Content/Images/Flags/اُردُو.png"
-78,zh-Hant,language,"繁體中文","Chinese Traditional","https://BahaiPrayers.net/Content/Images/Flags/繁體中文.png"
-80,ik,collection,"Alaska Native","Alaska Native","https://BahaiPrayers.net/Content/Images/Flags/Alaska Native.png"
-81,km,language,"ភាសាខ្មែរ",Khmer/Cambodia,"https://BahaiPrayers.net/Content/Images/Flags/ភាសាខ្មែរ.png"
-82,mg,language,Malagasy,Malagasy,https://BahaiPrayers.net/Content/Images/Flags/Malagasy.png
-83,co,language,Corsica,Carsica,https://BahaiPrayers.net/Content/Images/Flags/Corsica.png
-84,kn,language,"ಕನ್ನಡ",Kannada,"https://BahaiPrayers.net/Content/Images/Flags/ಕನ್ನಡ.png"
-85,nai-CA,collection,"Canadian Indigenous","Canadian Indigenous","https://BahaiPrayers.net/Content/Images/Flags/Canadian Indigenous.png"
-86,nai-US,collection,"American Indian","American Indian","https://BahaiPrayers.net/Content/Images/Flags/American Indian.png"
-87,ml,language,"മലയാളം",Malayalam,"https://BahaiPrayers.net/Content/Images/Flags/മലയാളം.png"
-90,am,language,"አማርኛ.",Ethiopian/Amharic,"https://BahaiPrayers.net/Content/Images/Flags/አማርኛ..png"
+id,iso,iso_type,name,english,flag_link,rtl
+1,en,language,English,English,https://BahaiPrayers.net/Content/Images/Flags/English.png,
+2,is,language,"Íslenska",Icelandic,"https://BahaiPrayers.net/Content/Images/Flags/Íslenska.png",
+3,de,language,Deutsch,German,https://BahaiPrayers.net/Content/Images/Flags/Deutsch.png,
+4,es,language,"Español",Spanish,"https://BahaiPrayers.net/Content/Images/Flags/Español.png",
+5,fa,original,"فارسی",Persian,"https://BahaiPrayers.net/Content/Images/Flags/فارسی.png",rtl
+6,ar,language,"العربية",Arabic,"https://BahaiPrayers.net/Content/Images/Flags/العربية.png",rtl
+7,fr,language,"Français",French,"https://BahaiPrayers.net/Content/Images/Flags/Français.png",
+8,pt,language,"Português (BR)",Portuguese,"https://BahaiPrayers.net/Content/Images/Flags/Português (BR).png",
+9,zh-Hans,language,"简体中文","Chinese Simplified","https://BahaiPrayers.net/Content/Images/Flags/简体中文.png",
+10,it,language,Italiano,Italian,https://BahaiPrayers.net/Content/Images/Flags/Italiano.png,
+11,nl,language,Nederlands,Dutch,https://BahaiPrayers.net/Content/Images/Flags/Nederlands.png,
+12,ro,language,"România",Romanian,"https://BahaiPrayers.net/Content/Images/Flags/România.png",
+13,lv,language,"Latviešu",Latvian,"https://BahaiPrayers.net/Content/Images/Flags/Latviešu.png",
+14,be,language,"Беларускі",Belarusian,"https://BahaiPrayers.net/Content/Images/Flags/Беларускі.png",
+15,ru,language,"Русский",Russian,"https://BahaiPrayers.net/Content/Images/Flags/Русский.png",
+16,hu,language,Magyar,Hungarian,https://BahaiPrayers.net/Content/Images/Flags/Magyar.png,
+17,sq,language,Shqip,Albanian,https://BahaiPrayers.net/Content/Images/Flags/Shqip.png,
+18,cs,language,"Česky",Czech,"https://BahaiPrayers.net/Content/Images/Flags/Česky.png",
+19,ja,language,"日本語",Japanese,"https://BahaiPrayers.net/Content/Images/Flags/日本語.png",
+20,af,language,Afrikaans,Afrikaans,https://BahaiPrayers.net/Content/Images/Flags/Afrikaans.png,
+21,ko,language,"한국어",Korean,"https://BahaiPrayers.net/Content/Images/Flags/한국어.png",
+22,bg,language,"български",Bulgarian,"https://BahaiPrayers.net/Content/Images/Flags/български.png",
+23,no,language,Norsk,Norwegian,https://BahaiPrayers.net/Content/Images/Flags/Norsk.png,
+24,sv,language,Svenska,Swedish,https://BahaiPrayers.net/Content/Images/Flags/Svenska.png,
+25,et,language,Eesti,Estonian,https://BahaiPrayers.net/Content/Images/Flags/Eesti.png,
+26,sk,language,Slovensky,Slovakian,https://BahaiPrayers.net/Content/Images/Flags/Slovensky.png,
+27,eo,language,Esperanto,Esperanto,https://BahaiPrayers.net/Content/Images/Flags/Esperanto.png,
+28,hr,language,Hrvatski,Croatian,https://BahaiPrayers.net/Content/Images/Flags/Hrvatski.png,
+29,ky,language,"Кыргыз",Kyrgyz,"https://BahaiPrayers.net/Content/Images/Flags/Кыргыз.png",
+30,sl,language,"Slovenščina",Slovene,"https://BahaiPrayers.net/Content/Images/Flags/Slovenščina.png",
+32,uk,language,"Україна",Ukranian,"https://BahaiPrayers.net/Content/Images/Flags/Україна.png",
+33,pl,language,Polski,Polish,https://BahaiPrayers.net/Content/Images/Flags/Polski.png,
+34,tl,language,Filipino,Filipino/Tagalog,https://BahaiPrayers.net/Content/Images/Flags/Filipino.png,
+35,hy,language,"հայերեն",Armenian,"https://BahaiPrayers.net/Content/Images/Flags/հայերեն.png",
+36,az,language,"Azərbaycan",Azerbaijan,"https://BahaiPrayers.net/Content/Images/Flags/Azərbaycan.png",
+37,bi,language,Vanuatu,"Vanuatu Regional",https://BahaiPrayers.net/Content/Images/Flags/Vanuatu.png,
+38,vi,language,"Tiếng Việt",Vietnamese,"https://BahaiPrayers.net/Content/Images/Flags/Tiếng Việt.png",
+39,ta,language,"தமிழ்",Tamil,"https://BahaiPrayers.net/Content/Images/Flags/தமிழ்.png",
+40,id,language,"Bahasa Indonesia",Indonesian,"https://BahaiPrayers.net/Content/Images/Flags/Bahasa Indonesia.png",
+41,bs,language,Bosanski,Bosnian,https://BahaiPrayers.net/Content/Images/Flags/Bosanski.png,
+42,cnr,language,Montenegrin,Montenegrin,https://BahaiPrayers.net/Content/Images/Flags/Montenegrin.png,
+43,th,language,"ภาษาไทย",Thai,"https://BahaiPrayers.net/Content/Images/Flags/ภาษาไทย.png",
+44,ca,language,"Català",Catalan,"https://BahaiPrayers.net/Content/Images/Flags/Català.png",
+45,tpi,collection,"Papua New Guinea","Papua New Guinea","https://BahaiPrayers.net/Content/Images/Flags/Papua New Guinea.png",
+46,hz,collection,Namibia,Namibia,https://BahaiPrayers.net/Content/Images/Flags/Namibia.png,
+47,ga,language,Irish,Irish,https://BahaiPrayers.net/Content/Images/Flags/Irish.png,
+48,fy,language,Frysk,Frisian,https://BahaiPrayers.net/Content/Images/Flags/Frysk.png,
+50,fo,language,"Føroyar","Faroe Islands","https://BahaiPrayers.net/Content/Images/Flags/Føroyar.png",
+51,srn,language,"Sranan Tongo",Suriname,"https://BahaiPrayers.net/Content/Images/Flags/Sranan Tongo.png",
+52,ch,language,Chamorro,"Guam/Marshall Is.",https://BahaiPrayers.net/Content/Images/Flags/Chamorro.png,
+53,eu,language,Euskara,"Basque (Spain)",https://BahaiPrayers.net/Content/Images/Flags/Euskara.png,
+54,gil,language,Kiribati,Kiribati,https://BahaiPrayers.net/Content/Images/Flags/Kiribati.png,
+55,mh,language,Marshallese,"Marshall Is.",https://BahaiPrayers.net/Content/Images/Flags/Marshallese.png,
+56,haw,language,Hawaiian,Hawaiian,https://BahaiPrayers.net/Content/Images/Flags/Hawaiian.png,
+57,lg,language,Luganda,"Ugandin Regional",https://BahaiPrayers.net/Content/Images/Flags/Luganda.png,
+58,da,language,Dansk,Danish,https://BahaiPrayers.net/Content/Images/Flags/Dansk.png,
+59,mi,language,"Māori","Maori / New Zealand","https://BahaiPrayers.net/Content/Images/Flags/Māori.png",
+60,cy,language,Cymraeg,Welsh,https://BahaiPrayers.net/Content/Images/Flags/Cymraeg.png,
+61,st,language,Sesotho,Lesotho,https://BahaiPrayers.net/Content/Images/Flags/Sesotho.png,
+62,kl,language,Kalaallisut,"Greenlandic (Inuit)",https://BahaiPrayers.net/Content/Images/Flags/Kalaallisut.png,
+63,hi,language,"हिंदी",Hindi,"https://BahaiPrayers.net/Content/Images/Flags/हिंदी.png",
+64,pap,language,Papiamentu,"Lesser Antilles",https://BahaiPrayers.net/Content/Images/Flags/Papiamentu.png,
+65,fj,language,Fiji,"Fiji Islands",https://BahaiPrayers.net/Content/Images/Flags/Fiji.png,
+66,ne,language,"नेपाली",Nepali,"https://BahaiPrayers.net/Content/Images/Flags/नेपाली.png",
+67,fi,language,Suomi,Finnish,https://BahaiPrayers.net/Content/Images/Flags/Suomi.png,
+68,el,language,"ελληνικά",Greek,"https://BahaiPrayers.net/Content/Images/Flags/ελληνικά.png",
+69,mt,language,Malti,Maltese,https://BahaiPrayers.net/Content/Images/Flags/Malti.png,
+70,ht,language,"Kreyol Ayisyen","Haitian Creole","https://BahaiPrayers.net/Content/Images/Flags/Kreyol Ayisyen.png",
+71,lt,language,"Lietuvių",Lithuanian,"https://BahaiPrayers.net/Content/Images/Flags/Lietuvių.png",
+72,lb,language,"Lëtzebuergesch",Luxembourg,"https://BahaiPrayers.net/Content/Images/Flags/Lëtzebuergesch.png",
+75,bn,language,"বাংলা",Bengali,"https://BahaiPrayers.net/Content/Images/Flags/বাংলা.png",
+76,ur,language,"اُردُو",Urdu,"https://BahaiPrayers.net/Content/Images/Flags/اُردُو.png",rtl
+78,zh-Hant,language,"繁體中文","Chinese Traditional","https://BahaiPrayers.net/Content/Images/Flags/繁體中文.png",
+80,ik,collection,"Alaska Native","Alaska Native","https://BahaiPrayers.net/Content/Images/Flags/Alaska Native.png",
+81,km,language,"ភាសាខ្មែរ",Khmer/Cambodia,"https://BahaiPrayers.net/Content/Images/Flags/ភាសាខ្មែរ.png",
+82,mg,language,Malagasy,Malagasy,https://BahaiPrayers.net/Content/Images/Flags/Malagasy.png,
+83,co,language,Corsica,Carsica,https://BahaiPrayers.net/Content/Images/Flags/Corsica.png,
+84,kn,language,"ಕನ್ನಡ",Kannada,"https://BahaiPrayers.net/Content/Images/Flags/ಕನ್ನಡ.png",
+85,nai-CA,collection,"Canadian Indigenous","Canadian Indigenous","https://BahaiPrayers.net/Content/Images/Flags/Canadian Indigenous.png",
+86,nai-US,collection,"American Indian","American Indian","https://BahaiPrayers.net/Content/Images/Flags/American Indian.png",
+87,ml,language,"മലയാളം",Malayalam,"https://BahaiPrayers.net/Content/Images/Flags/മലയാളം.png",
+90,am,language,"አማርኛ.",Ethiopian/Amharic,"https://BahaiPrayers.net/Content/Images/Flags/አማርኛ..png",

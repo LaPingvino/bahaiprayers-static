@@ -29,7 +29,11 @@ var Local string = APILINK
 
 type Author int
 
-var TMPLOUTPUT = template.Must(template.New("markdown").Parse(`{{.Text}}
+var TMPLOUTPUT = template.Must(template.New("markdown").Parse(`+++
+title = '{{.Title}}'
+tags = ['lang-{{.LanguageCode}}', '{{.PrayerCode}}']
++++
+{{.Text}}
 
 -- {{.Author}}
 `))
@@ -42,11 +46,13 @@ func (a Author) String() string {
 }
 
 type Prayer struct {
-	Id         int
-	Author     Author `json:"AuthorId"`
-	LanguageId int
-	Text       string
-	Category   string `json:"FirstTagName"`
+	Id           int
+	LanguageCode string
+	PrayerCode   string
+	Author       Author `json:"AuthorId"`
+	LanguageId   int
+	Text         string
+	Category     string `json:"FirstTagName"`
 }
 
 func GetFile(name string) []byte {
@@ -74,11 +80,11 @@ func languages() []int {
 }
 
 var LCOnce sync.Once
-var LC = map[int]string{}
+var LC = map[int][]string{}
 var PCOnce sync.Once
 var PC = map[int]string{}
 
-func LanguageCode(lang int) (code string) {
+func Language(lang int) (code string, name string, rtl string) {
 	LCOnce.Do(func() {
 		f, err := os.Open("rel/lang.csv")
 		if err != nil {
@@ -95,12 +101,14 @@ func LanguageCode(lang int) (code string) {
 			if err != nil {
 				panic(err.Error())
 			}
-			LC[lc] = l[1]
+			LC[lc] = l
 		}
 	})
 	code = strconv.Itoa(lang)
 	if LC[lang] != "" {
-		code = LC[lang]
+		code = LC[lang][1]
+		name = LC[lang][2]
+		rtl = LC[lang][6]
 	}
 	return
 }
@@ -134,6 +142,8 @@ func PrayerCode(prayer int) (code string) {
 	return
 }
 
+var dirbase = "prayer/"
+
 func main() {
 	type Prayerfile struct {
 		Prayers []Prayer
@@ -149,10 +159,21 @@ func main() {
 		log.Printf("%#v", prayers)
 		for _, prayer := range prayers.Prayers {
 			log.Printf("Prayer %d", prayer.Id)
-			dir := "prayers/" + LanguageCode(v)
-			prayercode := PrayerCode(prayer.Id)
-			os.MkdirAll(dir, os.ModePerm)
-			f, err := os.Create(dir + "/" + prayercode + ".md")
+			prayer.LanguageCode, lname, rtl := Language(v)
+			os.Mkdir(dirbase + prayer.LanguageCode)
+			f, err := os.Create(dir + "/_index.md")
+			if err != nil {
+				panic(err)
+			}
+			fmt.Fprintln(f, `---
+title: "`+lname+`"
+rtl: "`+rtl+`"
+---`)
+			f.Close()
+			prayer.PrayerCode = PrayerCode(prayer.Id)
+			dir := dirbase + prayer.LanguageCode + "/" + prayer.PrayerCode
+			os.Mkdir(dir, os.ModePerm)
+			f, err = os.Create(dir + "/_index.md")
 			if err != nil {
 				panic(err)
 			}
