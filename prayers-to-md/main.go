@@ -90,7 +90,7 @@ func LanguageCode(lang int) (code string) {
 		if err != nil {
 			panic(err.Error())
 		}
-		for _, l := range ls {
+		for _, l := range ls[1:] {
 			lc, err := strconv.Atoi(l[0])
 			if err != nil {
 				panic(err.Error())
