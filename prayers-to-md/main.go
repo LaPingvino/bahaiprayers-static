@@ -1,6 +1,5 @@
 //A tool to download all Bahá'í prayers on bahaiprayers.net through the API
-// and save them locally in the format requested by tiddlywiki to be able to
-// manage them in tiddlywiki at bahaiprayers.tiddlyspot.com
+// and save them locally in Markdown format for usage in Devotional.gq and maybe other sites
 //
 // The bahaiprayers.net API documentation can be found at http://bahaiprayers.net/Developer
 // We only use the prayer part here for now, which uses the following 3 links:
@@ -13,12 +12,14 @@
 package main
 
 import (
+	"encoding/csv"
 	"encoding/json"
 	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
 	"strconv"
+	"sync"
 	"text/template"
 )
 
@@ -72,6 +73,67 @@ func languages() []int {
 	return r
 }
 
+var LCOnce sync.Once
+var LC = map[int]string{}
+var PCOnce sync.Once
+var PC = map[int]string{}
+
+func LanguageCode(lang int) (code string) {
+	LCOnce.Do(func() {
+		f, err := os.Open("rel/lang.csv")
+		if err != nil {
+			panic(err.Error())
+		}
+		c := csv.NewReader(f)
+		c.FieldsPerRecord = 6
+		ls, err := c.ReadAll()
+		if err != nil {
+			panic(err.Error())
+		}
+		for _, l := range ls {
+			lc, err := strconv.Atoi(l[0])
+			if err != nil {
+				panic(err.Error())
+			}
+			LC[lc] = l[1]
+		}
+	})
+	code = strconv.Itoa(lang)
+	if LC[lang] != "" {
+		code = LC[lang]
+	}
+	return
+}
+
+func PrayerCode(prayer int) (code string) {
+	PCOnce.Do(func() {
+		f, err := os.Open("rel/code.list")
+		if err != nil {
+			panic(err.Error())
+		}
+		c := csv.NewReader(f)
+		c.FieldsPerRecord = -1
+		ps, err := c.ReadAll()
+		if err != nil {
+			panic(err.Error())
+		}
+		for _, p := range ps {
+			for _, bpns := range p[1:] {
+				bpn, err := strconv.Atoi(bpns)
+				if err != nil {
+					panic(err.Error())
+				}
+				PC[bpn] = p[0]
+			}
+		}
+	})
+	code = "bpn" + strconv.Itoa(prayer)
+	if PC[prayer] != "" {
+		code = PC[prayer]
+	}
+	return
+}
+
 func main() {
 	type Prayerfile struct {
 		Prayers []Prayer
@@ -87,9 +149,10 @@ func main() {
 		log.Printf("%#v", prayers)
 		for _, prayer := range prayers.Prayers {
 			log.Printf("Prayer %d", prayer.Id)
-			dir := "prayers/" + strconv.Itoa(v)
+			dir := "prayers/" + LanguageCode(v)
+			prayercode := PrayerCode(prayer.Id)
 			os.MkdirAll(dir, os.ModePerm)
-			f, err := os.Create(dir + "/bpn" + strconv.Itoa(prayer.Id) + ".md")
+			f, err := os.Create(dir + "/" + prayercode + ".md")
 			if err != nil {
 				panic(err)
 			}
