@@ -21,6 +21,7 @@ import (
 	"strconv"
 	"sync"
 	"text/template"
+	"fmt"
 )
 
 const APILINK = "https://BahaiPrayers.net/api/prayer/"
@@ -47,6 +48,7 @@ func (a Author) String() string {
 
 type Prayer struct {
 	Id           int
+	Title        string
 	LanguageCode string
 	PrayerCode   string
 	Author       Author `json:"AuthorId"`
@@ -91,7 +93,7 @@ func Language(lang int) (code string, name string, rtl string) {
 			panic(err.Error())
 		}
 		c := csv.NewReader(f)
-		c.FieldsPerRecord = 6
+		c.FieldsPerRecord = 7
 		ls, err := c.ReadAll()
 		if err != nil {
 			panic(err.Error())
@@ -105,9 +107,9 @@ func Language(lang int) (code string, name string, rtl string) {
 		}
 	})
 	code = strconv.Itoa(lang)
-	if LC[lang] != "" {
+	if LC[lang] != nil {
 		code = LC[lang][1]
-		name = LC[lang][2]
+		name = LC[lang][3]
 		rtl = LC[lang][6]
 	}
 	return
@@ -159,9 +161,10 @@ func main() {
 		log.Printf("%#v", prayers)
 		for _, prayer := range prayers.Prayers {
 			log.Printf("Prayer %d", prayer.Id)
-			prayer.LanguageCode, lname, rtl := Language(v)
-			os.Mkdir(dirbase + prayer.LanguageCode)
-			f, err := os.Create(dir + "/_index.md")
+			var lname, rtl string
+			prayer.LanguageCode, lname, rtl = Language(v)
+			os.MkdirAll(dirbase + prayer.LanguageCode, os.ModePerm)
+			f, err := os.Create(dirbase + prayer.LanguageCode + "/_index.md")
 			if err != nil {
 				panic(err)
 			}
@@ -171,6 +174,7 @@ rtl: "`+rtl+`"
 ---`)
 			f.Close()
 			prayer.PrayerCode = PrayerCode(prayer.Id)
+			prayer.Title = "Prayer " + prayer.PrayerCode + " in " + lname
 			dir := dirbase + prayer.LanguageCode + "/" + prayer.PrayerCode
 			os.Mkdir(dir, os.ModePerm)
 			f, err = os.Create(dir + "/_index.md")
