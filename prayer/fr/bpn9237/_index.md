@@ -1,0 +1,10 @@
++++
+title = 'Prayer bpn9237 in Français'
+tags = ['lang-fr', 'bpn9237']
++++
+Il est Dieu ! Ô Seigneur, mon Dieu, mon Bien-Aimé, tes serviteurs que voici ont perçu ta voix, ils ont prêté l’oreille à ta parole et entendu ton appel. Ils ont cru en toi, ils ont vu tes merveilles, reconnu ta preuve et ton signe. Ils ont marché dans tes pas, ils ont suivi tes conseils, ils ont découvert tes mystères et saisi les secrets de ton livre, les versets de tes manuscrits et les nouvelles contenues dans tes épîtres et tes tablettes. Ils se sont agrippés au pan de ton vêtement et se sont accrochés au manteau de ta lumière et de ta grandeur. Ton alliance a rendu leurs pas plus sûrs et ton pacte a fortifié leur cœur. 
+Seigneur, dans leur cœur allume la flamme de l’attrait divin et fais chanter l’oiseau de l’amour et de la concorde. Qu’ils deviennent des signes puissants, des modèles resplendissants, aussi parfaits que ton Verbe ! Grâce à eux, exalte ta cause, déploie tes bannières et diffuse au loin tes merveilles. Grâce à eux, fais triompher ta parole, et fortifie les reins de tes aimés. Délie leur langue pour louer ton nom, et inspire-les pour accomplir ta sainte volonté et ton bon plaisir. Dans ton royaume de sainteté illumine leur visage, et exalte leur joie en les aidant à se lever pour le triomphe de ta cause.
+Seigneur, nous sommes faibles, fortifie-nous afin que nous diffusions les fragrances de ta beauté ; nous sommes pauvres, enrichis-nous des trésors de ta divine unité ; nous sommes nus, revêts-nous du manteau de ta générosité ; nous sommes pécheurs, pardonne-nous nos péchés par ta grâce, ta bonté et ta miséricorde. Tu es, en vérité, l’Aide, le Soutien, le Clément, le Fort, le Puissant.
+La gloire des gloires soit sur ceux qui sont fermes et résolus !
+
+-- Abdu'l-Bahá

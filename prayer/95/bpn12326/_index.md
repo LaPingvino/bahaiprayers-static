@@ -1,0 +1,7 @@
++++
+title = 'Prayer bpn12326 in '
+tags = ['lang-95', 'bpn12326']
++++
+E isi e Ave ne Ia a mea faigata na ko te Atua?  Fai atu: Vikia a te Atua! A Ia ko te Atua!  Katoa ko Ana tavini, kae katoa e fusi tasi i Ana faka-tonuuga!
+
+-- Báb

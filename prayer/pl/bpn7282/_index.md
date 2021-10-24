@@ -1,0 +1,11 @@
++++
+title = 'Prayer bpn7282 in Polski'
+tags = ['lang-pl', 'bpn7282']
++++
+O mój Panie! O mój Panie!
+   
+Jestem jedynie małym dzieckiem. Karm mnie piersią swojego miłosierdzia i wychowuj na łonie Twojej miłości. Kształć mnie w szkole Twojego przewodnictwa i pozwól mi rozwijać się w cieniu Twojej szczodrości. Uwolnij mnie od ciemności i uczyń jaśniejącym światłem. Uwolnij mnie od smutku i uczyń kwiatem w różanym ogrodzie. Dozwól mi stać się służebnikiem u Twego progu i obdarz usposobieniem i naturą sprawiedliwych. Uczyń mnie źródłem szczodrości dla świata ludzkości i uwieńcz moją skroń diademem wiecznego żywota.
+   
+Zaprawdę, Ty jesteś Mocnym, Potężnym, Widzącym, Słyszącym.
+
+-- Abdu'l-Bahá

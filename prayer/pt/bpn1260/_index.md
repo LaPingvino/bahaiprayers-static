@@ -1,0 +1,8 @@
++++
+title = 'Prayer bpn1260 in Português (BR)'
+tags = ['lang-pt', 'bpn1260']
++++
+Em Seu Nome, o Excelso, o Altíssimo, o Mais Sublime! Glorificado és Tu, ó Senhor meu Deus! Ó Tu que és o meu Deus, e o meu Mestre, e o meu Senhor, e o meu Apoio, e a minha Esperança, e o meu Refúgio, e a minha Luz. Peço-Te, pelo Teu Nome Oculto e Entesourado, desconhecido por todos além de Ti próprio, que protejas o portador desta Epístola, contra toda a calamidade e pestilência e contra a perversidade de qualquer homem ou mulher; contra o mal dos malfeitores, e contra as maquinações dos descrentes. Preserva-o também, ó meu Deus, de toda a dor e aflição, ó Tu em cuja mão se acha o império de tudo o que existe. Tu, veramente, és poderoso sobre todas as coisas. Fazes o que desejas e ordenas como Te apraz.
+Ó Tu, Rei dos Reis! Ó Tu Senhor bondoso! Ó Fonte de antigo favor, de graça, de generosidade e dádiva! Ó Tu que curas as enfermidades! Ó Tu que satisfazes as necessidades! Ó Luz da Luz! Ó Luz acima de todas as Luzes! Ó Tu, Revelador de todas as Manifestações! Ó Compassivo! Ó Misericordioso! Tem compaixão do portador desta Epístola através da Tua maior clemência e da Tua copiosa graça, ó Tu que és o Benévolo, o Generoso. Guarda-o, ademais, através da Tua proteção, de tudo o que for repugnante ao seu coração e mente. Daqueles dotados de poder, Tu, em verdade, és o mais poderoso. Que a glória de Deus repouse sobre ti, ó tu, sol do alvorecer! Dá testemunho daquilo que Deus testificou quanto ao Seu próprio Ser: que não há outro Deus senão Ele, o Todo-Poderoso, o Mais Amado.
+
+-- Bahá'u'lláh

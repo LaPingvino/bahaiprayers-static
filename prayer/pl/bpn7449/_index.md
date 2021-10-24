@@ -1,0 +1,11 @@
++++
+title = 'Prayer bpn7449 in Polski'
+tags = ['lang-pl', 'bpn7449']
++++
+O mój Boże! O Ty, który odpuszczasz grzechy, rozdajesz dary i usuwasz nieszczęścia!
+    
+Zaprawdę, błagam Cię, abyś przebaczył grzechy tym, którzy opuścili ziemską powłokę i wstąpili do świata duchowego.
+    
+O mój Panie! Oczyść ich z przewinień, rozwiej smutki i zamień ich ciemności w światło. Spraw, aby wkroczyli do ogrodu szczęścia, obmyj ich najczystszą wodą i pozwól, aby oglądali Twoje wspaniałości na najwznioślejszej górze.
+
+-- Abdu'l-Bahá

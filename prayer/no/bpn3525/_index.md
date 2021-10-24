@@ -1,0 +1,15 @@
++++
+title = 'Prayer bpn3525 in Norsk'
+tags = ['lang-no', 'bpn3525']
++++
+O du hvis ihukommelse er sjelens fryd for alle dem som lengter etter deg, hvis navn skaper jubel i hjertet hos alle som fullt og helt er din vilje tro, hvis lovprisning skattes høyt av slike som er kommet ditt kongesete nær, hvis åsyn er den brennende lengsel hos alle dem som har erkjent din sannhet, hvis prøvelse helbreder sykdommene hos dem som har sluttet seg til din Sak, hvis hjemsøkelse er det høyeste ønske hos slike som er fri for all tilknytning til noen annen enn deg!
+ 
+Forherliget, umåtelig forherliget er du, som i din hånd har den øverste myndighet over hva som enn er i himlene og hva som enn er på jorden, du som, ved bare ett ord fra din munn, bragte alle ting til å utånde og oppløse seg, og som, ved nok et ord, fikk hva som enn var blitt adskilt til å bli sammenføyet og gjenforenet! Lovpriset være ditt navn, o du som har makt over alle som er i himlene og alle som er på jorden, hvis herredømme omfatter hva som enn er i din åpenbarings himmel og din skapnings rike. Ingen kan lignes med deg i de verdener du har skapt; ingen kan sammenlignes med deg i det univers du har formet. Intet menneskes sinn har fattet deg, og ingen sjels streben har nådd deg. Jeg sverger ved din makt! Om noen skulle sveve, på hvilke som helst vinger, så lenge ditt eget vesen består, gjennom hele din kunnskaps uendelighet, ville han likevel ikke makte å overskride de grenser som den relative verden har satt for ham. Hvordan kan så et slikt menneske trakte etter å styre sin flukt inn i ditt uendelig opphøyede nærværs atmosfære?
+ 
+Den er i sannhet utstyrt med forstand som innrømmer sin maktesløshet og bekjenner sin syndefullhet, for skulle noen skapt ting gjøre krav på noen som helst eksistens, stilt overfor din åpenbarings uendelige undere, ville et så bespottelig krav være mer avskyelig enn noen annen forbrytelse i alle de riker som du har uttenkt og skapt. Hvem har kraft til å kreve noen som helst eksistens for seg selv, o min Herre, når du åpenbarer de første glimt av tegnene på din altoverskyggende overhøyhet og velde? Eksistensen selv er som intet når den stilles ansikt til ansikt med ditt uforlignelige Selvs veldige og mangfoldige undere.
+ 
+Høyt, uendelig høyt, er du hevet over alle ting, o du som er kongenes Konge! Jeg bønnfaller deg ved ditt Selv og ved dem som er din Saks manifestasjoner og din myndighets daglysninger, om å skrive ned for oss det som du har nedskrevet for dine utvalgte. Hold ikke tilbake fra oss det som du forordnet for dine elskede, som så snart de hørte deg kalle, ilte hen til deg, og som, da glansen av ditt åsyns lys ble utgytt over dem, straks falt ned i tilbedelse for ditt ansikt.
+ 
+Vi er dine tjenere, o min Herre, og er i din makt. Om du straffer oss med den straff som ble gitt fordums og den senere tids slekter, så vil din dom være absolutt rettferdig og din handling prisverdig. Mektig er du til å gjøre det som deg behager. Ingen annen Gud er der utenom deg, den allmektige, den overmåte herlige, hjelperen i fare, den selvbestående.
+
+-- Bahá'u'lláh

@@ -1,0 +1,13 @@
++++
+title = 'Prayer bpn5188 in Bahasa Indonesia'
+tags = ['lang-id', 'bpn5188']
++++
+Katakanlah: Ya Rabi Tuhanku, hiasilah kepala hamba dengan mahkota keadilan dan tubuh hamba dengan hiasan keinsyafan. Sesungguhnya, Engkaulah yang mempunyai segala pemberian dan kederma- wanan.
+
+*"... Kerohanian adalah pemberian Tuhan yang paling besar."
+*"... Berusahalah agar menjadi lebih rohani..."
+*"Pusatkanlah pikiran-pikiranmu pada perkembangan rohanimu sendiri dan tutuplah matamu terhadap kekurangan- kekurangan orang-orang lain"
+*"Sibukkanlah dirimu dalam hal-hal rohani, sehingga tiada apa- pun di dunia insani yang dapat mengganggu engkau"
+*"... Semua kesedihan dan kedukaan yang ada, berasal dari dunia fana; dunia rohani hanya memberikan kebahagiaan" - ‘Abdu’l-Bahá
+
+-- Bahá'u'lláh

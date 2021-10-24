@@ -1,0 +1,7 @@
++++
+title = 'Prayer bpn5879 in Català'
+tags = ['lang-ca', 'bpn5879']
++++
+Oh Déu! Guiem, protegeix-me, fes de mi una llàntia brillant i una estrella resplendent. Tu ets el Fort i el Poderós.
+
+-- Abdu'l-Bahá

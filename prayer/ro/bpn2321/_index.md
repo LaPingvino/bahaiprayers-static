@@ -1,0 +1,11 @@
++++
+title = 'Prayer bpn2321 in România'
+tags = ['lang-ro', 'bpn2321']
++++
+El este Cel Veşnic! Aceasta este mărturia Mea pentru cea care a auzit vocea mea şi s-a apropiat de Mine. Cu adevărat, ea este o frunză care a înmugurit din această Rădăcină preexistentă. Ea s-a făcut cunoscută în Numele Meu şi a gustat dulceaţa amintirii sfinţeniei Mele, a minunatei Mele bucurii. O dată i-am dat să bea din Gura Mea dulce ca mierea, altă dată am lăsat-o să se înfrupte din puterea Mea, din Kawtharul28 Meu luminos. Asupra ei odihneşte slava Numelui Meu şi mireasma veşmântului Meu scânteietor.
+
+Fie ca aceste cuvinte preaslăvite să fie cântecul tău de iubire în copacul Slavei, o, tu, frunză preasfântă şi strălucitoare: „Dumnezeu, în afară de Care nu există alt Dumnezeu, Stăpânul acestei lumi şi a celei ce va să vie!” Cu adevărat, te-am înălţat la rangul uneia dintre cele mai distinse printre cele de sexul tău şi ţi-am acordat, un loc pe care nici o altă femeie nu l-a întrecut, la curtea Mea. Astfel te-am preferat pe tine şi te-am ridicat deasupra celorlalte, ca un semn de bunăvoinţă din partea Celui care este Stăpânul tronului din înalturi şi al pământului de dedesupt. Noi am creat ochii tăi ca să privească lumina chipului Meu, urechile tale pentru a se grăbi să asculte melodia cuvintelor Mele, trupul tău pentru a aduce omagiu înaintea tronului Meu. Adu mulţumiri lui Dumnezeu, Stăpânul tău şi Stăpânul întregii lumi.
+
+Cât de distinsă este mărturia lui Sadratu’l-Muntahá29 pentru frunza Sa. Cât de slăvite sunt mărturiile Arborelui Vieţii pentru rodul Său! Prin pomenirea ei de către Mine s-a răspândit o mireasmă încărcată cu parfum de mosc. Bine este de cel carea inhalat-o şi a exclamat: „Toată lauda fie cu Tine, o, Dumnezeule, Stăpânul meu cel Preaslăvit!” Ce blândă este prezenţa ta înaintea Mea; cât de plăcut e să contemplu chipul tău, să revărs asupra ta bunătatea Mea duioasă, să te protejez cu blânda Mea grijă, să aduc mărturie despre tine în această Tabletă a Mea, o Tabletă pe care am hărăzit-o ca dovadă a harului Meu tăinuit şi desluşit către tine.
+
+-- Bahá'u'lláh

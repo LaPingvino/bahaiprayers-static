@@ -1,0 +1,8 @@
++++
+title = 'Prayer bpn11492 in Español'
+tags = ['lang-es', 'bpn11492']
++++
+De las perfumadas corrientes de Tu eternidad, dame de beber, oh mi Dios, y de los frutos del árbol de Tu ser, permíteme gustar, oh mi Esperanza. De los manantiales cristalinos de Tu amor, déjame beber, oh mi Gloria, y a la sombra de Tu eterna providencia, permíteme habitar, oh mi Luz. En las praderas de Tu proximidad, ante Tu presencia, haz que pueda vagar, oh mi Bienamado, y a la diestra del trono de Tu merced, hazme sentar, oh mi Deseo. De las fragantes brisas de Tu alegría, haz que un soplo llegue hasta mí, oh mi Objetivo, y en las alturas del paraíso de Tu realidad, permíteme entrar, oh mi Adorado. Las melodías de la paloma de Tu unicidad, déjame escuchar, oh Tú, el Resplandeciente, y mediante el espíritu de Tu fuerza y Tu poder, vivifícame, oh mi Proveedor. En el espíritu de Tu amor, mantenme constante, oh mi Auxiliador, y en el sendero de Tu complacencia, afianza mis pasos, oh mi Hacedor. Dentro del jardín de Tu inmortalidad, ante Tu semblante, déjame habitar eternamente, oh Tú que eres misericordioso conmigo, y en la sede de Tu gloria, permite que me establezca, oh Tú que eres mi Poseedor. Hacia el cielo de Tu amorosa bondad, elévame, oh mi Vivificador, y hacia el Sol de Tu guía, condúceme, oh mi Cautivador. Ante las revelaciones de Tu invisible espíritu, llámame a estar presente, oh Tú que eres mi Origen y mi elevadísimo Deseo, y hacia la esencia de la fragancia de Tu belleza, que has de manifestar, hazme volver, oh Tú que eres mi Dios.
+Potente eres Tú para hacer lo que Te place. Tú eres, en verdad, el Más Exaltado, el Todoglorioso, el Altísimo.
+
+-- Bahá'u'lláh

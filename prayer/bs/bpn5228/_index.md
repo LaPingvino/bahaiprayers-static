@@ -1,0 +1,7 @@
++++
+title = 'Prayer bpn5228 in Bosanski'
+tags = ['lang-bs', 'bpn5228']
++++
+OBože! Odgoji ovo dijete na njedrima Tvoje ljubavi i napoji ga mlijekom iz grudi Tvoga Proviđenja. Uzgoji ovaj izdanak u ružičnjaku Tvoje ljubavi i izljevima Svoje dobrote pomozi mu da raste. Učini ga djetetom Kraljevstva, i usmjeri ka Svom nebeskom carstvu. Ti si Moćni i Blagi. Ti si Darivalac, Velikodušni, Gospodar neizmjerne dobrote.
+
+-- Abdu'l-Bahá

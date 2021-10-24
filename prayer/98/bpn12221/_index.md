@@ -1,0 +1,7 @@
++++
+title = 'Prayer bpn12221 in '
+tags = ['lang-98', 'bpn12221']
++++
+Du namma lea mu buorideapmi, O Ipmil, ja Du muitin lea munnje dálkkas. Lagašvuohta Dutnje lea mu doaivu ja ráhkisvuohta Dutnje lea mu guoibmi. Du árbmu mu guovdu lea mu buorideapmi ja mu dorvu sihke dán máilmmis ja dan máilmmis, mii boahtá. Duođalaččat, Don leat buotveagalaš, buotdiehtti, buotviissis.
+
+-- Bahá'u'lláh

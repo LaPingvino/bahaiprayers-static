@@ -1,0 +1,8 @@
++++
+title = 'Prayer bpn11700 in English'
+tags = ['lang-en', 'bpn11700']
++++
+O God! Grant Thy favour, and bestow Thy blessing. Vouchsafe Thy grace, and give a portion of Thy bounty. Enable these men to witness during this year the fulfilment of their hopes. 
+Send down Thy heavenly rain, and provide Thy plenteousness and abundance. Thou art the Powerful, the Mighty.
+
+-- Abdu'l-Bahá

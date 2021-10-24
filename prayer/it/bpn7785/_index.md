@@ -1,0 +1,8 @@
++++
+title = 'Prayer bpn7785 in Italiano'
+tags = ['lang-it', 'bpn7785']
++++
+Ogni qual volta entrate nella sala del consiglio, recitate questa preghiera con cuore traboccante di amor di Dio e con lingua monda di tutto tranne del ricordo di Lui, affinché l’Onnipotente Si degni di aiutarvi a conseguire la suprema vittoria.
+O Dio! mio Dio! Noi siamo quei Tuoi servi che devotamente si sono volti verso il Tuo santo viso, che si sono distaccati da tutto fuorché da Te in questo glorioso Giorno. Ci siamo radunati in questa assemblea spirituale, uniti nei nostri intenti e nei nostri pensieri e con i nostri propositi concordi nell’esaltare il Tuo Verbo fra il genere umano. O Signore nostro Dio! Fa’ di noi segnacoli della Tua guida divina, vessilli della Tua eccelsa Fede fra gli uomini, servi del Tuo possente Patto, o Tu nostro Altissimo Signore! Fa’ di noi manifestazioni della Tua divina unicità nel Tuo Regno di Abhá, stelle risplendenti che brillano su tutte le regioni. Signore! Aiutaci a diventare mari fluttuanti con le onde della Tua meravigliosa grazia, rivoli scorrenti dalle Tue gloriosissime altezze, buoni frutti sull’albero della Tua Causa beata, alberi ondeggianti alle brezze nella Tua vigna celeste. O Dio! Fa’ che le nostre anime attingano ai versi della Tua divina unità, che i nostri cuori siano allietati dalla Tua grazia traboccante, affinché possiamo riunirci come le onde d’un unico mare e fonderci insieme come i raggi della Tua fulgente luce, affinché i nostri pensieri, i nostri intenti, i nostri sentimenti possano divenire un’unica realtà manifestante lo spirito dell’unio-ne in tutto il mondo. Tu sei il Clemente, il Munifico, il Generoso, l’Onnipossente, il Misericordioso, il Pietoso.
+
+-- Abdu'l-Bahá

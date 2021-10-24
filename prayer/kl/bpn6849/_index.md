@@ -1,0 +1,12 @@
++++
+title = 'Prayer bpn6849 in Kalaallisut'
+tags = ['lang-kl', 'bpn6849']
++++
+##Pinngitsoorani Qinnutissaq Naatsoq
+*Short Obligatory Prayer
+
+Guuti-aa nalunaajaatigaara Illit pinngortikkimma Ilinnik ilisimannileqqullunga Ilinnillu pallorfiginnittooqqullunga. Maannakkorpiarlu nalunaarutigaara sanngiissusera Illillu Sanngissutsit, piitsuussusera Illillu Pisuussutsit.
+
+Allamik Illiunngitsumik Guuteqanngilaq, ulorianartumi ikiortaasoq, Imminut napatittoq!
+
+-- Bahá'u'lláh

@@ -1,0 +1,45 @@
++++
+title = 'Prayer bpn8254 in English'
+tags = ['lang-en', 'bpn8254']
++++
+#Lawh-i-Náqús
+##Tablet of the Bell
+
+He is the All-Glorious.
+
+This is the garden of Paradise, wherein arise the anthems of God, the Help in Peril, the Self-Subsisting; wherein ascend the soul-entrancing melodies warbled by the Nightingale of Eternity upon the twigs of the Divine Lote-Tree; wherein abide the Maids of Heaven whom none hath touched save God, the All-Glorious, the Most Holy; and wherein lieth enshrined that which draweth the needy to the shores of the ocean of true wealth and guideth the people to the Word of God. And this, verily, is naught but the manifest truth.
+By Thy name “He”! Verily Thou art “He”, O Thou Who art “He”![12]
+O Monk of the Divine Unity! Ring out the bell, for the Day of the Lord is come and the Beauty of the All-Glorious hath ascended His blessed and resplendent throne. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O Húd, Prophet of the Divine Decree! Sound the clarion in the name of God, the All-Glorious, the Most Bountiful, for the Temple of holiness hath been established upon the seat of supernal glory. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O Countenance of immortality! Pluck with the fingers of the spirit the sacred and wondrous strings, for the Beauty of the Divine Essence hath appeared, arrayed in a silken vesture of light. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O Angel of light! Sound a blast upon the trumpet at the advent of this Revelation, for the letter Há’ hath been joined to the letter of ancient glory.[13] Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O Nightingale of heaven! Warble upon the boughs of this celestial garden in the name of the Beloved, for the beauty of the Rose hath appeared from behind an impenetrable veil. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O Songster of Paradise! Trill out upon the twigs in these wondrous days, for God hath cast His effulgent rays upon all created things. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O Bird of eternity! Soar aloft in these heights, for the Bird of faithfulness hath soared in the atmosphere of divine nearness. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O denizens of Paradise! Sing out and chant in the sweetest of tones, for the melody of God hath been raised within the Tabernacle of matchless sanctity. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O inmates of the Kingdom! Intone the name of the Beloved, for the beauty of His Cause hath shone forth from behind the veils, adorned with a luminous spirit. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O dwellers of the kingdom of names! Bedeck the furthest reaches of heaven, for the Most Great Name is come, riding upon the clouds of transcendent majesty. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O inhabitants of the Dominion of divine attributes in the Realm of Glory! Make ready to enter the presence of God, for the soft breezes of holiness have wafted from the sanctuary of the Divine Essence, and this, verily, is a conspicuous bounty. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O paradise of the Divine Unity! Rejoice within thyself, for the paradise of God, the Most Exalted, the All-Powerful, the All-Knowing, hath appeared. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O heaven of grandeur! Render thanks unto God within thine inmost being, for the heaven of holiness hath been upraised in the firmament of a heart of stainless purity. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O sun of worldly dominion! Eclipse thy face, for above the horizon of a resplendent morn there have shone the rays of the Day-Star of eternity. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O earth of knowledge! Swallow up thy learning, for the Earth of true knowledge hath been outspread through Him Who is the Self of God, the All-Glorious, the All-Bountiful, the Most High. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O lamp of earthly sovereignty! Put out thy light, for the Lamp of God hath been lit within the niche of eternity and hath illumined all that are in heaven and all that are on earth. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O seas of the world! Still the pounding of your waves, for a most wondrous Cause hath made to surge the Crimson Sea. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O Peacock of the Divine Unity! Utter thy plaintive cry amidst the thickets of the celestial world, for the melody of God hath sounded near on every side. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O Cockerel of eternity! Sound thy call in the forests of the empyrean heaven, for the Summoner of God hath cried out from every lofty height. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O concourse of ardent lovers! Rejoice in your souls, for the day of separation hath ended, and the Covenant hath been fulfilled, and the Beloved hath appeared arrayed in sublime and majestic beauty. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+O assemblage of mystic knowers! Let your hearts be filled with joy, for the time of remoteness hath passed, and the spirit of certitude hath appeared, and the countenance of the celestial Youth hath beamed forth, adorned with the ornament of holiness in the paradise of His name, the Almighty. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+Glorified art Thou, O Lord, my God! I beseech Thee by Thy Day through which Thou didst bring forth all other days, and in a single moment whereof Thou didst reckon up the appointed time of all that have been and all that shall be—Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!—
+And by Thy Name which Thou hast made the sovereign of the kingdom of names and the ruler of all who are in heaven and all who are on earth—Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!—
+To graciously enable Thy servants to dispense with all but Thee, to draw nigh unto Thee, and to become detached from aught else save Thee. Thou, verily, art the God of power, of might and mercy. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+Enable them then, O my God, to bear witness to Thy unity and to testify to Thy oneness in such wise that they may behold naught save Thee and shut their eyes to all else. Thou, in truth, art powerful to do what pleaseth Thee. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+Kindle, then, within their breasts, O my Beloved, the fire of Thy love, that it may burn away the mention of aught else, and that they may testify within themselves that from everlasting Thou hast dwelt within the inaccessible heights of Thine eternity, that Thou wert alone with none beside Thee, and that Thou wilt continue unto everlasting to be what Thou hast ever been. No God is there but Thee, the Lord of might and bounty. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+For were Thy servants who long to scale the heights of Thy unity to set their hearts upon aught except Thee, they could not be reckoned among such as have truly believed, nor would the sign of Thy singleness be found within them. Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+Glorified art Thou, O Lord my God! Such being the case, I implore Thee to send down from the clouds of Thy mercy that which shall purify the hearts of Thine ardent lovers and sanctify the souls of those who adore Thee. Raise them up, then, through Thy transcendent power, and render them victorious over all who dwell on earth. This, indeed, is that which Thou hast promised Thy loved ones through Thy word of truth: “And We desire to show favour to those who were brought low in the land, and to make them spiritual leaders among men, and to make of them Our heirs.”[14] Praise be to Thee, O Thou Who art “He”, O Thou besides Whom there is none but “He”!
+
+*12.    In the Tafsír-i-Hú Bahá’u’lláh explains that the name “He” (or Huva, consisting of the letters Há’ and Váv) is God’s Most Great Name, for it is a mirror in which all of God’s names and attributes are reflected together.
+*13.    That is, the letter “B” in the name “Bahá”.
+*14.    Qur’án 28:5.
+
+-- Bahá'u'lláh

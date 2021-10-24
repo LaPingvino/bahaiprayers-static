@@ -1,0 +1,7 @@
++++
+title = 'Prayer bpn11682 in Español'
+tags = ['lang-es', 'bpn11682']
++++
+¡En el Nombre de Quien ha sido prometido en los Libros de Dios, el Omnisciente, el Informado de todo! Han llegado los días de ayuno, en los que han ayunado los siervos que circulan alrededor de Tu trono y han alcanzado Tu presencia. Di: ¡Oh Dios de los nombres y creador del cielo y de la tierra! Te suplico, por Tu Nombre, el Todoglorioso, que aceptes el ayuno de quienes han ayunado por amor a Ti y por Tu complacencia, y han realizado lo que les has ordenado en Tus Libros y en Tus Tablas. Te imploro, por ellos, que me asistas en la promoción de Tu Causa y me hagas firme en Tu amor, para que mis pasos no vacilen ante el clamor de Tus criaturas. En verdad, Tú eres potente para hacer lo que desees. No hay Dios sino Tú, el Vivificador, el Omnipotente, el Más Generoso, el Anciano de Días.
+
+-- Bahá'u'lláh

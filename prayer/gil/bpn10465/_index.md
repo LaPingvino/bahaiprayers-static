@@ -1,0 +1,10 @@
++++
+title = 'Prayer bpn10465 in Kiribati'
+tags = ['lang-gil', 'bpn10465']
++++
+Atuau au Ai ao au Oota! Boong ake ko a tia n ingoanii bwa te Ayyám-i-Ha inanon am boki a bon tia ni moanaki O Ngkoe teuare Ueaia Aara ni Kabane, ao te aki mamatam are am Been ae moan baan te rietata e a tia ni kawenei kaetieti nakoia ni kabane ake inanon abanuean Am karikibwai bwa a na karaoa nanona e a uakaan. I bubuti nakoim, O au Uea, bwa man boong aikai ao mairouia ni kabane inanon te tai ae a bane n tinea kaon am kaetieti nako, ao n taua bain am kanoa n reirei, ni kataua nako aoia n tatabemaniia tamnei bwa a na anganaki te tabo inanon Oon am Marae, ao te kaintekateka n te Kaotioti ibukin raneanean Ootan Moam. 
+Aikai O au Uea, bon am toro ake akea te aananga ni babakaniwai are tauia rikaaki man are ko a bon tia ni karuoi inanon am boki. A bon tia ni boobaraaki Imatan am Waaki, ao ni karekea am boki ma te angimatoa are bungiaki mai iroum, ao ni karaoa nanon are ko a tia ni koreia nakoia ao rineia bwa a na iria n aron are ea tia ni karuoaki Mairoum. 
+Ko bon nooria, O au Uea, aroia ni Kinaa ao n taakinakoi ni kabane ake ko a tia Kaoti inanon am Koroboki. Anganiia bwa a na mooi, O au Uea, man bain am akoi te ran Mairoum ae akea tokina. Koreia ngkanne ibukin te kabomwi are katauaki ibukina are e a tia ni kainakoa inanon Marawan ae iai Ngkoe iai, ao ni karekea te wain ae te kabanea ni kangkang n te kaitibo ma ngkoe. 
+I bubuti nakoim, O Ngkoe Ueaia Ueea ao te tia nanoangaiia aika kataorikaakaki ni kataua nakoia raoiroin te aonnaba ae na roko. Koroia ibukia ao moarariki te bwai ae akea irouia am karikibwai ae e a tia ni kunea, ao warekia ibuakoia naake a tia ni katobibiiko ao are e mwamwainging irarikin am Kaintoka-n-uea ni katoai aonnaba n am aonnaba nako. Ngkoe ni koaua, Te Kabanea ni Mwaaka, te kabanea n atatai, te kabanea n ataibwai.
+
+-- Bahá'u'lláh

@@ -1,0 +1,4 @@
+---
+title: "Føroyar"
+rtl: ""
+---

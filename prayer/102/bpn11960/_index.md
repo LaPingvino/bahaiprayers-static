@@ -1,0 +1,10 @@
++++
+title = 'Prayer bpn11960 in '
+tags = ['lang-102', 'bpn11960']
++++
+Alladan başga, işlerde rowaçlyk döredýän barmy?
+    Sözle! Päk we Mukaddesdir Alla.
+    Sözle! Ol Taňrydyr.
+    Hemmeler onuň bendesidir. Hemmeler oňa sygynýandyrlar.
+
+-- Báb

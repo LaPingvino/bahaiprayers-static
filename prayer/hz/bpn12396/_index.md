@@ -1,0 +1,9 @@
++++
+title = 'Prayer bpn12396 in Namibia'
+tags = ['lang-hz', 'bpn12396']
++++
+Ai ti Elotse, /ûba-aots //oren ditse. /Khae aots !norasa mâti ditse. Tani-aots tsûgu ditse.
+	 Amase ta ge ra /khoma tsi /ûbare //oren //gansi soros go khaos ai //naxuna tsîge gagasi !hub-eib !oa khêina.
+	Ai Ti Elotse !û-≠amde xu !anu-!anu in re, //în !oaba ūbe re I //în !khaenaba !nâb !oa /khara-/khara re //îna ≠khîb !hanaba ≠gâ keire, !anure //îna sa !anusib //gami /kha, i //îna mâre in sa !gâisiba !khō- /gaibe /gawi !homi ai.
+
+-- Abdu'l-Bahá

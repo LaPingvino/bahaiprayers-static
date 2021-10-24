@@ -1,0 +1,10 @@
++++
+title = 'Prayer bpn10422 in Kiribati'
+tags = ['lang-gil', 'bpn10422']
++++
+Atuau ao au Toka! Bon Ngai Am toro ao ana nati te mwaane Am toro. I a tia n teirake mai aon nneu ni wene n te ai oota aio ngke e a tia n oota nako iai Itoin Ngainan Arom ae ti teuana man Koburaken Ngainan Nanom, ma n tia ni kaotaorababa nako ootana i aon te aonaaba ni kabutaa, n ai aron are e a tia ni motikaki bukina i nanon Bokin nako Am Kaetieti.
+Te nebonebo nakoim Ngkoe, Atuau, ngkai ti a tia ni uti i nanon mimitongin ootan Am ataibwai. Karuoa, ngkanne i aora, au Uea, are e na konaa ni buokiira ni kaaki taekan temanna i Rarikim, ao e na taeinako ni kabane mairoura mwaninganakora n te bwai teuana ma ti Ngkoe.  Ao i aon riki anne korobokiia i bukiu, ao i bukiia ake a tangiraki irou, ao i bukiia naba au utuu, te mwaane ma te aine ni kaboraoiia iai, raoiroin te aonaaba aio ao te aonaaba are e na roko. Kakamauriira ngkanne rinanon Am kakaawakin ae akea tootokina, Ngkoe ae Moan te Tangiraki irouia karikibwai nako ao are Maamatenanoia aonaaba ni bwaniniia, mairouia ake Ko a tia ni karaoia bwa kaotiotan te tia wiwi ae e Buakaka, ake a wirikiriki i nanon bwanibwaniia aomata.  Ko bon mwaaka ni karaoa are Ko kani karaoia.  Boni Ngkoe, ni koaua te Kabanea ni Mwaaka, te Buoka n te Kanganga, te Maiu i bon Irouna.
+Ngkoe te Uea ae Atuau, karaoiroa Teuare Ko na tia ni kateia i aona Aram aika a moamoa, ao Rinanona Ko a tia ni kaokoroia aika a raoiroi ma aika a buakaka, ao aakoira ni buokiira ni karaoa are Ko tangiria ma n nano iai.  Kakabwaiaia, riki, Atuau, naake bon Am Taeka ao Manin Am Taeka, ao naake a tia ni kainetii moaia Nakoim, ao n tia n rairaki nako Moam, ma n tia ni kakauongo n Am wewete.
+     Boni Ngkoe, ni koaua, aia Uea ao aia Toka aomata ni kabane, ao Ko Mwaaka i aon bwaai ni kabane.
+
+-- Bahá'u'lláh

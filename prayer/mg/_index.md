@@ -1,0 +1,4 @@
+---
+title: "Malagasy"
+rtl: ""
+---

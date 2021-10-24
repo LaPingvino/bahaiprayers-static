@@ -1,0 +1,7 @@
++++
+title = 'Prayer bpn2879 in Česky'
+tags = ['lang-cs', 'bpn2879']
++++
+Tvé Jméno mne hojí, ó můj Bože a vzpomínka na Tebe je mým lékem. Tvá blízkost je mou nadějí a láska k Tobě je mým průvodcem. Tvé milosrdenství mne léčí a pomáhá mi v obou světech, v tomto i příštím. Ty jsi vpravdě Přeštědrý, Vševědoucí, Nejmoudřejší.
+
+-- Bahá'u'lláh
