@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1330 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola De Visitação Do Báb E Bahá'u'lláh
@@ -10,5 +11,3 @@ Que os santos sopros dos Teus favores, ó meu Deus e meu Bem-Amado, me sejam emi
 Que sobre Ti repousem a lembrança de Deus e o Seu louvor, e a glória de Deus e o Seu brilho, ó Tu que és a Sua Beleza! Atesto que jamais os olhos da criação contemplaram um ser tão injuriado quanto Tu. Durante todos os dias da Tua vida, estiveste imerso num oceano de angústias; num tempo, acorrentado em grilhões; noutro, ameaçado pela espada dos Teus inimigos. No entanto, a despeito de tudo isso, exortaste todos os homens a observarem o que Te fora prescrito por Aquele que é o Omnisciente, a Suprema Sabedoria.
 Seja o meu espírito um sacrifício pelas injustiças por Ti sofridas, e a minh’alma um resgate pelas adversidades que sustentaste. Suplico a Deus, por Ti e por aqueles cujas faces foram iluminadas pelos esplendores da luz do Teu semblante - aqueles que observaram, por amor a Ti, tudo o que lhes fora mandado - suplico que Ele remova os véus interpostos entre Ti e as Tuas criaturas e me conceda o bem deste mundo e do vindouro. És, em verdade, o Omnipotente, o Excelso, o Todo-Glorioso, a Eterna Clemência, o Mais Compassivo.
 Abençoa Tu, ó Senhor meu Deus, a Árvore Divina e as suas folhas e os seus galhos e os seus ramos e as suas vergônteas e os seus renovos, enquanto durarem os Teus mais excelentes títulos e persistirem os Teus augustíssimos atributos. Protege-a, então, do dano proveniente do agressor e das hostes da tirania. Tu és, em verdade, o Omnipotente, o Mais Poderoso. E abençoa também, ó Senhor meu Deus, os Teus servos e as Tuas servas que atingiram a Tua Presença. És, verdadeiramente, o Todo-Generoso cuja graça é infinita. Nenhum outro Deus há salvo Tu, O que sempre perdoa, a Suma Bondade.
-
--- Bahá'u'lláh

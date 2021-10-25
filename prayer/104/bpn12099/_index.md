@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12099 in '
+author = 'Báb'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Kemuliaan bagi-Mu, Ya Tuhanku, Engkaulah yang telah mewujudkan segala benda tercipta melalui kekuatan perintah-Mu.
@@ -9,5 +10,3 @@ Ya Tuhan! Bantulah mereka yang telah              meninggalkan segala sesuatu ke
 Engkau adalah Raja mereka, Raja langit dan bumi, Raja segala alam. Kuatkanlah Akidah ini, Ya Tuhan, melalui kekuatan hamba-hamba ini, dan bolehkanlah mereka menang ke atas semua bangsa di dunia; kerana sesungguhnya mereka itu adalah hamba-Mu yang telah melepaskan diri daripada segala sesuatu melainkan Engkau, dan sesungguhnya Engkau adalah Pelindung bagi para penganut yang sejati.
 
 Bolehkanlah, Ya Tuhan, agar kalbu-kalbu mereka menjadi lebih kuat daripada apa pun yang ada di langit dan di bumi dan apa sahaja yang ada di antaranya, melalui kesetiaan kepada Akidah-Mu yang tak dapat dikalahkan; dan perkuatkanlah, Ya Tuhanku, tangan-tangan mereka dengan tanda-tanda kekuasaan-Mu yang menakjubkan agar mereka dapat menjelmakan kekuatan-Mu di   hadapan penglihatan semua manusia.
-
--- Báb

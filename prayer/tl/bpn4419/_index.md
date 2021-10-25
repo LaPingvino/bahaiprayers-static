@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4419 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Luwalhatiin Ka nawa, O Panginoon kong Diyos! Tuwing nangangahas akong banggitin Ka, ako’y pinipigilan ng aking malalaking mga kasalanan at malubhang mga pagkakasala laban sa Iyo, at namamalas ang aking sarili na lubos na pinagkakaitan ng Iyong pagpapala, at ganap na walang kakayahan na ipagdiwang ang pagpuri sa Iyo. Ang aking malaking tiwala sa Iyong kagandahang loob, gayunman, ang muling bumubuhay sa aking pag-asa sa Iyo, at ang aking katiyakan na pakikitunguhan Mo ako nang buong kasaganahan ay nagpalakas ng loob ko na Ikaw ay purihin, at hingin sa Iyo ang mga bagay na Iyong tinataglay.
@@ -11,5 +12,3 @@ Nagsusumamo ako sa Iyo, O Ikaw na Siyang Pinakamamahal ng mga puso na nananabik 
 Ikaw Siya na ang kapangyarihan ay mula sa walang hanggan hanggang sa walang hanggan. Walang nakaiiwas sa Iyong kaalaman. Ikaw, sa katunayan, ang Diyos ng kapangyarihan, ang Diyos ng kaluwalhatian at kadunungan.
 
 Purihin ang Diyos, ang Panginoon ng mga daigdig!
-
--- Bahá'u'lláh

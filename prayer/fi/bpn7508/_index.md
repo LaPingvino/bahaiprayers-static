@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7508 in Suomi'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Herra, minun Jumalani ja turvani hädässä! Kilpeni ja suojani vaikeuksissani! Kotini ja pakopaikkani hädän hetkellä ja kumppanini yksinäisyydessäni! Lohdutukseni tuskassani ja rakastava ystäväni yksin ollessani! Surun tuskieni karkottaja ja syntieni anteeksi antaja!
@@ -13,5 +14,3 @@ Oi Jumala, minun Jumalani! Älä epää minulta anteeksiantosi ja armosi lempeit
 Suojelevien siipiesi siimekseen suo minun painautua ja luo minuun kaikkisuojelevan silmäsi katse.
 Kirvota kieleni ylistämään nimeäsi kansasi keskuudessa, niin että ääneni  kuuluisi suurille joukoille ja huuliltani virtaisi ylistyksesi vuo. 
 Sinä olet toden totta Armollinen, Ylistetty, Mahtava, Kaikkivaltias.
-
--- Abdu'l-Bahá

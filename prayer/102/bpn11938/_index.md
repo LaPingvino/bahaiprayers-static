@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11938 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Şerif, Belent mertebe we Beýik Taňrynyň ady bilen.
@@ -12,5 +13,3 @@ tags = ['lang-102', 'bpn-unsorted']
     Eý görnüşleriň aýdyňlygy! Ýa Rahman, Ýa Rahym!
     Bu dogany ýanynda saklaýan ynsana ägirt uly Keremiň hem iň beýik Jomartlygyň bilen Merhemet et. Eý Geçirimli, Eý Bagyşlaýjy! Ony Öz gözegçiligiň bilen, köňlüniň islemeýän zatlaryndan goragyn. Dogrudanam Kadyrlaryň Kadyry Sensiň.
     Eý ykbalyň güneşi! Onda Allanyň ýalkymy Saňa saçylsyn. Onda sen hem güwä geç Allatagalanyň Öz ruhuna güwä geçen zatlaryna. Dogrudanam Ol Eziz we Mahbubdan başga tagzym etmeli Alla ýokdur.
-
--- Bahá'u'lláh

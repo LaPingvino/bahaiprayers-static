@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10255 in Māori'
+author = 'Bahá'u'lláh'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 Kia whakakōroriatia katoatia tēnei Rā, te Rā i horahia ai ngā kakara o te aroha tohu ki runga ki ngā mea katoa i waihangatia ai, te Rā nā te kaha o tōna whakapainga, kīhai i taea ai te whakataetae e ngā wā o mua, o neherā, te Rā e tahuri ai te mata o te Namata o Ngā Rā ki Tōna nōhanga tapu. Ina rā ngā reo o ngā mea katoa i waihangatia ai, i tua atu o ērā, ko ō te Huinga Kahurangi o Runga Rawa, ka rangona e karanga ana: “Kia horo koe, e Carmel, notemea, ko te rama o te mata o Te Atua, te Rangatira o te Kīngitanga o Ngā Ingoa me te Kaihanga o ngā rangi kua hīkina ki runga ki a koe.” 
@@ -11,5 +12,3 @@ Pāoro atu ana tōna reo ki taua Pokapū tapu, whakahokia ana e Au: “Whakamoem
 “Karanga ki a Hīona e Carmel, ka whakatātakina ai ngā rongo pai: kua tae mai a Ia i ngaro i te tirohanga kanohi! Kua tūria Tōna rangatiratanga raupatu-i-te-katoa; kua whakakitea tōna ahurei tākai-i-te-katoa. Kia tūpato kei whakaroa koe, kei kokekoke rānei. Kia tere ka āmio haeretia ai te Taonenui o Te Atua kua heke mai i te rangi, te Pokapū o te Kaingākaunui e karapotitia nei e ngā makau a Te Atua, ngā ngākau parakore, me te huinga o ngā anahera whaikorōria rawa. I ahau e, taku wawata ki te whakatātaki ki ngā wāhi katoa kei runga i te mata o te whenua, me te kawe ki tēnā ki tēnā o ōna taonenui, ngā rongo pai o tēnei Whakakitenga - he Whakakitenga kua autō i te manawa o Hinai, ā, i runga i Tōna ingoa kei te karanga te Rākau Mumura: ‘Nā Te Atua, te Ariki o ngā Ariki, ngā kīngitanga o te rangi me te whenua.’ Tūturu ko ia tēnei te Rā e harikoa ai te whenua me te moana tahi ki tēnei whakaaturanga, ko te Rā hei whakakite i aua tūāhuatanga i whakaritea e Te Atua, mā tētahi tōnui o tua kē atu o te mōhio a te hinengaro, a te pūmanawa o te ira tangata. Kāore e roa ka whakaterehia e Te Atua Tōna Āka ki a koe, ka whakamāramatia ai ngā iwi o Bahá kua whakahuatia ki te Pukapuka o Ngā Ingoa.” 
 
 Whakatapua ana te Ariki o ngā tāngata katoa, ki te whakatātakitanga o Tōna ingoa kua tōiriirihia ngā kongakonga katoa o te whenua, kua whakakōrerotia te Arero o te Whakahirahira ko tērā kua tākaia ki Tōna mātauranga, kua hunaia, kua takoto ki roto o te whare tahua o Tōna nui, Ko Ia tūturu, nā te kaha o Tōna ingoa, te Mananui, te Pūkaha-Katoa, te Teitei Rawa, ko Ia te ariki o te katoa kei roto o te rangi, kei runga o te whenua.
-
--- Bahá'u'lláh

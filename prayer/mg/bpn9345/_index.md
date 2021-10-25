@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9345 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Deraina Ianao, ry Andriamanitro ô! Ianao Ilay, tamin’ny teny indraim-bava monja, nampisafotofoto ny zavaboahary rehetra ary, tamin’ny tsipikin’ny penina iray, nampisaraka ny mpanomponao teo amin’izy ireo avy. Vavolombelona aho, ry Andriamanitro ô, fa amin’ity Fanambarana ity, amin’ny teny indraim-bava avy Aminao, ny zavaboahary rehetra nohariana dia natokana ho simba, ary amin’ny teny indraim-bava iray hafa, izay rehetra nofidianao, noho ny Fahasoavanao sy ny Fangorahanao, dia nahazo fiainam-baovao.
@@ -9,5 +10,3 @@ Aoka izy ireo, ry Tompoko ô, ho afaka hifikitra am-pikirizana fatratra amin’n
 Fantatrao, ry Andriamanitro ô, fa mahare ny vovoan’ny amboadia aho izay miseho amin’ny fitafian’ny mpanomponao. Arovy àry ny olon-tianao amin’ny asa ratsin’izy ireo ary ataovy izay hifikirany fatratra amin’izay nasehonao ao amin’ity Fanambarana ity, izay tsy misy na dia iray aza afaka nihoatra izany noho ny Fahalalanao avy any an-danitra.
 Atokany ho azy ireo, ry Andriamanitro ô, izay mety hahasoa azy. Hazavao izy amin’ny fahazavan’ny Fahalalanao mba ahazoany mahita miavaka tsara ny Fahambonianao eo amin’ny zavatra rehetra, ny Famirapiratrao eo amin’ireo voaharinao sy ny Fandresenao eo amin’ireo rehetra any an-danitra sy ety an-tany. Manam-pahefana hanao izay sitrakao Ianao. Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay tena be Voninahitra izay italahoan’ ny olon-drehetra famonjena.
 Deraina anie Ianao, ô Ianao Ilay Tompon’ny Fahariana rehetra.
-
--- Bahá'u'lláh

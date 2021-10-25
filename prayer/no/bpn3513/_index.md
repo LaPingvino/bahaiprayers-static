@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3513 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Han er helbrederen, fyldestgjøreren, hjelperen, den alt-tilgivende, den overmåte barmhjertige!
@@ -89,5 +90,3 @@ O fyldestgjører, jeg påkaller deg, o fyldestgjører! O helbreder, jeg påkalle
 Uforkrenkelig er du, o min Gud! Jeg bønnfaller deg ved ditt høysinn, hvorved din gavmildhets og nådes porter ble slått vidt opp, hvorved din hellighets tempel ble grunnfestet på evighetens trone; og ved din barmhjertighet hvorved du innbød alle skapte ting til dine gavers og foræringers taffel; og ved din nåde hvorved du svarte, i ditt eget Selv med ditt ord "Ja!" på vegne av alle i himmel og på jord, i den stund da din overhøyhet og din storhet stod åpenbart, i den demringstime da ditt herredømmes velde ble gitt klart til kjenne. Og atter bønnfaller jeg deg, ved disse overmåte fagre navn, ved disse overordentlig edle og ypperlige egenskaper, og ved din umåtelig opphøyede ihukommelse, og ved din rene og plettfrie Skjønnhet, og ved ditt skjulte lys i det mest forborgne paulun, og ved ditt navn, ikledd prøvelsens kappe hver morgen og aften, om å beskytte den som bærer denne velsignede tavle, og hvem som enn fremsier den, og hvem som enn kommer over den, og hvem som enn går rundt det hus hvor den befinner seg. Helbred du derfor ved den enhver som er hjemsøkt av sykdom, sott eller armod for enhver trengsel og vånde, for enhver vederstyggelig prøvelse og kval, og led du ved den hvem som enn ønsker å tre inn på din ledelses stier og din tilgivelses og nådes veier.
  
 Du er i sannhet den sterke, den evig fyldestgjørende, den helbredende, beskytteren, den givende, den medlidende, den uendelig høysinnede, den overmåte barmhjertige.
-
--- Bahá'u'lláh

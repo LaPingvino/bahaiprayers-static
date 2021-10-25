@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9754 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 *(Deze Tafel wordt gelezen bij de graftomben van Baha’u’llah  en Bab , en wordt ook vaak gebruikt bij Hun gedenkdagen.)
@@ -11,5 +12,3 @@ Laat dan, o mijn God en mijn Geliefde, uit de rechterhand van Uw barmhartigheid 
 Het gedenken van God en Zijn lof, en de heerlijkheid van God en Zijn luister rusten op U, o Gij die Zijn schoonheid zijt! Ik getuig dat het oog der schepping nimmer heeft gerust op iemand zo verguisd als Gij. Gij waart alle dagen van Uw leven ondergedompeld in een oceaan van beproevingen. Er was een tijd dat Gij geketend en geboeid waart; andermaal werd Gij bedreigd door het zwaard van Uw vijanden. Ondanks dit alles hebt Gij toch alle mensen bevolen na te komen hetgeen U werd voorgeschreven door Hem die de Alwetende, de Alwijze is.
 Moge mijn geest een offer zijn voor het onrecht dat Gij hebt ondergaan en mijn ziel een losgeld voor de tegenspoed die Gij hebt verduurd. Ik smeek God, bij U en bij hen wier gelaat is verlicht door de pracht van het licht van Uw aangezicht, en die uit liefde voor U al wat hun werd bevolen zijn nagekomen, om de sluiers die tussen U en Uw schepselen zijn gekomen weg te nemen, en mij te voorzien van het goede van deze wereld en de wereld die komen gaat. Gij zijt in waarheid de Almachtige, de Verhevenste, de Alglorierijke, de Immervergevende, de Meedogendste.
 Zegent Gij, o Heer mijn God, de goddelijke Lotusboom en zijn bladeren, zijn takken, zijn twijgen, zijn stammen en zijn uitlopers, zolang Uw voortreffelijkste namen en Uw verhevenste eigenschappen blijven bestaan. Bescherm hem dan tegen het kwaad van de aanvaller en de legers van tirannie. Gij zijt, in waarheid, de Almachtige, de Krachtigste. Zegent Gij eveneens, o Heer mijn God, Uw dienaren en Uw dienaressen die U bereikt hebben. Gij zijt waarlijk de Almilddadige, Wiens genade oneindig is. Geen God is er buiten U, de Immervergevende, de Edelmoedigste.
-
--- Bahá'u'lláh

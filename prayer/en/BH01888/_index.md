@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BH01888 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'BH01888']
 +++
 These are, O my God, the days whereon Thou didst enjoin Thy servants to observe the Fast.  With it Thou didst adorn the preamble of the Book of Thy Laws revealed unto Thy creatures, and didst deck forth the Repositories of Thy commandments in the sight of all who are in Thy heaven and all who are on Thy earth.  Thou hast endowed every hour of these days with a special virtue, inscrutable to all except Thee, Whose knowledge embraceth all created things.  Thou hast, also, assigned unto every soul a portion of this virtue in accordance with the Tablet of Thy decree and the Scriptures of Thine irrevocable judgment.  Every leaf of these Books and Scriptures Thou hast, moreover, alloted to each one of the peoples and kindreds of the earth.
@@ -11,5 +12,3 @@ Rain down, then, upon us, O my God, that which beseemeth Thy grace and befitteth
 Thou beholdest, O my God, what hath befallen Thy dear ones in Thy days.  Thy glory beareth me witness!  The voice of the lamentations of Thy chosen ones hath been lifted up throughout Thy realm.  Some were ensnared by the infidels in Thy land, and were hindered by them from having near access to Thee and from attaining the court of Thy glory. Others were able to approach Thee, but were kept back from beholding Thy face.  Still others were permitted, in their eagerness to look upon Thee, to enter the precincts of Thy court, but they allowed the veils of the imaginations of Thy creatures and the wrongs inflicted by the oppressors among Thy people to come in between them and Thee.
 This is the hour, O my Lord, which Thou hast caused to excel every other hour, and hast related to the choicest among Thy creatures.  I beseech Thee, O my God, by Thy Self and by them, to ordain in the course of this year what shall exalt Thy loved ones.  Do Thou, moreover, decree within this year what will enable the Daystar of Thy power to shine brightly above the horizon of Thy glory, and to illuminate by Thy sovereign might, the whole world.
 Render Thy Cause victorious, O my Lord, and abase Thou Thine enemies. Write down, then, for us the good of this life and of the life to come.  Thou art the Truth, Who knoweth the secret things.  No God is there but Thee, the Ever-Forgiving, the All-Bountiful.
-
--- Bahá'u'lláh

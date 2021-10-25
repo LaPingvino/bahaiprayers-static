@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9214 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Grâce te soit rendue, ô mon Dieu ! Tu m’as réveillé, tu m’as fait renaître et sortir de ma torpeur. Le visage tourné vers les splendeurs du Soleil de ta révélation qui illumine les cieux de ta puissance et de ta majesté, je me suis éveillé ce matin, reconnaissant tes signes, croyant en ton livre et accroché à ta corde.
@@ -9,5 +10,3 @@ Tu les manies comme il te convient. Il n’est pas d’autre Dieu que toi, le Fo
 Sur ton ordre, l’humiliation se change en gloire, la faiblesse en force, l’impuissance en pouvoir, la crainte en sérénité et le doute en certitude. 
 Il n’est pas d’autre Dieu que toi, le Puissant, le Bienfaisant.
 Tu ne déçois pas celui qui te cherche et tu n’écartes pas celui qui te désire. Ordonne pour moi ce qui convient aux cieux de ta générosité et à l’océan de ta munificence. Tu es, en vérité, le Tout-Puissant, l’Omnipotent.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2319 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 *(Această rugăciune revelată de ‘Abdu’l-Bahá se va citi la mormântul acestuia. Poate fi citită şi în alte momente.)
@@ -16,5 +17,3 @@ O, Doamne, Dumnezeul meu! Dă-mi harul Tău de a-i sluji pe cei iubiţi de Tine,
 Cu această rugăciune Te cheamă slujitorul Tău, la revărsatul zorilor şi la miez de noapte. Împlineşte-i dorinţa sufletului o, Doamne! Luminează-i inima, bucură-i străfundurile sufletului, aprinde lumina lui ca să poată servi Cauza Ta şi pe slujitorii Tăi.
 
 Tu eşti Cel Darnic, Cel Plin de Har, Cel Plin de Milă, Cel Mai Mărinimos, Cel Îndurător, Cel Milostiv.
-
--- Abdu'l-Bahá

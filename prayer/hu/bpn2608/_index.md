@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2608 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *Elmondandó minden nap reggel, délben és este
@@ -35,5 +36,3 @@ Tanúságot teszek egységedről és egyedüliségedről, és arról, hogy Te va
 *Mikor ez imát mondani kívánjátok, forduljatok Legszentebb Jelenlétem Udvara, e Szent Hely felé, melyet Isten azon Középponttá tett, mely körül kering a Magasságbéli Gyülekezet, és melyet az Imádás Pontjának[*] rendelt az Örökkévalóság Városaiban lakozók számára ... —Kitáb-i-Aqdas
 
 *[* A Qiblih, vagyis Bahjí, Akkó]
-
--- Bahá'u'lláh

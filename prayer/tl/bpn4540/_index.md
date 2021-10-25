@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4540 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 *Ang Naw-Rúz, Marso21, ay ang unang araw ng taon ng Bahá’í.
@@ -13,5 +14,3 @@ Ikaw Siya na namagitan sa pagkataas ng bandilang “Kapuri-puri Ka sa Iyong mga 
 Siya na Iyong Sanga at lahat ng Iyong kasama, O aking Panginoon, ay huminto sa araw na ito ng kanilang pag-aayuno pagkaraang maisagawa iyon sa loob ng mga kapaligiran ng Iyong liwasan, at sa kanilang kasabikang mabigyan Ka ng kasiyahan. Iatas Mo para sa Kaniya, at para sa kanila, at para sa lahat ng nagsipasok sa Iyong pagkamalas sa mga araw na ito, ang lahat na mabubuting itinakda Mo sa Iyong Aklat. Pagkalooban sila niyong pakikinabangan nila, maging sa buhay na ito at sa kabilang buhay.
 
 Ikaw, sa katotohanan, ang Nakababatid ng Lahat, ang Matalino sa Lahat.
-
--- Bahá'u'lláh

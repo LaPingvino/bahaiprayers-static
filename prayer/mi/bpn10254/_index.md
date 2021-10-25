@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10254 in Māori'
+author = 'Bahá'u'lláh'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 I runga i te Ingoa o Te Atua, te Namata, te Kaha Rawa. 
@@ -106,5 +107,3 @@ E ‘Alí-Akbar, kia whakamoemititia tō Ariki ki tēnei papatuhi e whai hā ai 
 
 
 Mā te pānuitanga e ngā pononga katoa, mā te aro ki a ia, kātahi ka ngiha ai ki roto i ō rātou iaia tetahi ahi e mumura ai ngā ao.
-
--- Bahá'u'lláh

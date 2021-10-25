@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8254 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Lawh-i-Náqús
@@ -41,5 +42,3 @@ Glorified art Thou, O Lord my God! Such being the case, I implore Thee to send d
 *12.    In the Tafsír-i-Hú Bahá’u’lláh explains that the name “He” (or Huva, consisting of the letters Há’ and Váv) is God’s Most Great Name, for it is a mirror in which all of God’s names and attributes are reflected together.
 *13.    That is, the letter “B” in the name “Bahá”.
 *14.    Qur’án 28:5.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12978 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 ##Naw Ruz
@@ -31,5 +32,3 @@ Thou art He through Whom the ensign "Praiseworthy art Thou in Thy works" hath be
 He Who is Thy Branch and all Thy company, O my Lord, have broken this day their fast, after having observed it within the precincts of Thy court, and in their eagerness to please Thee.  Do Thou ordain for him, and for them, and for all such as have entered Thy presence in those days all the good Thou didst destine in Thy Book.  Supply them, then, with that which will profit them, in both this life and in the life beyond. 
  
 Thou, in truth, art the All-Knowing, the All-Wise.
-
--- Bahá'u'lláh

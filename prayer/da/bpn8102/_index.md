@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8102 in Dansk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O Herre, min Gud og min tilflugt i min ulykke! Mit skjold og mit ly i min sorg! Mit asyl og mit fristed i nødens stund og i min ensomhed - min ledsager! Min trøst i smerten og i min forladthed en kærlig ven! Den der borttager lidelsen i mine sorger og den, der tilgiver mine synder!
@@ -21,5 +22,3 @@ Lad mig hvile trygt under skyggen af Dine beskyttende vinger og kast blikket fra
 Frigør min tunge til lovprisning af Dit navn blandt Dit folk, så min stemme kan løfte sig i store forsamlinger, og forherligelsen må strømme som en flod fra mine læber.
 
 Du er i sandhed Den Nådige, Den Herliggjorte, Den Mægtige, Den Almagtsfulde.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11919 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’Alla!
@@ -14,5 +15,3 @@ Laýyklyga ýa gadyra garama,
 Seret Sen Öz sahylygyňa Eý Jomart.
 Ganatlary gyrlan bu guşlara 
 Keremiňden balu-per, ganat döret.
-
--- Abdu'l-Bahá

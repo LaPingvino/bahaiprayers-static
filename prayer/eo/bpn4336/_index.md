@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4336 in Esperanto'
+author = 'Abdu'l-Bahá'
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 Ho Eternulo, mia Dio kaj mia Haveno en mia aflikto! Mia Ŝildo kaj mia Ŝirmo en miaj turmentoj! Mia Azilo kaj mia Rifuĝejo en horo de bezono, kaj en mia izoleco mia Kunulo! En mia angoro mia Konsolo, kaj en mia soleco amema Amiko! La Foriganto de la doloregoj de  miaj ĉagrenoj, kaj la Pardonanto de miaj pekoj! 
@@ -12,5 +13,3 @@ Ho Dio, mia Dio! Ne detenu de mi la brizojn de Via pardono kaj favoro kaj ne sen
 Sub la ombro de Viaj ŝirmantaj flugiloj lasu min nesti kaj ĵetu sur min la rigardon de Via ĉionprotektanta okulo. 
 Malligu mian langon por laŭdi Vian nomon inter Via homaro, ke mia voĉo leviĝu en grandaj kunvenoj, kaj el miaj lipoj senĉese fluu Via laŭdo. 
 Vere, Vi estas la Donema, la Glora, la Potenca, la Ĉio-pova.
-
--- Abdu'l-Bahá

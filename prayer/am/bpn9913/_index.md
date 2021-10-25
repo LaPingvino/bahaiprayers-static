@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9913 in አማርኛ.'
+author = 'Bahá'u'lláh'
 tags = ['lang-am', 'bpn-unsorted']
 +++
 *ሟች ወንድ ከሆነ፤ 
@@ -30,5 +31,3 @@ tags = ['lang-am', 'bpn-unsorted']
 አላህ-ኡ-አብሃ (አንድ ጊዜ)
        በእውነቱ፡ ሁላችንም በአምላክ እንታገሣለን፡፡
        (19 ጊዜ)
-
--- Bahá'u'lláh

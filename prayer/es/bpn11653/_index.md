@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11653 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Él es el Dios que escucha y que contesta las oraciones! 
@@ -8,5 +9,3 @@ Tú ves, oh Señor mi Dios, las lágrimas de Tus favorecidos derramadas a causa 
 Te pido, además, por las suaves lluvias de Tu gracia y las olas del océano de Tu favor, que ordenes para Tus santos aquello que dé solaz a sus ojos y consuelo a sus corazones. ¡Señor! Tú ves al arrodillado ansiando levantarse para servirte, al muerto suplicando vida eterna del océano de Tu favor y deseando remontarse hacia los cielos de Tu riqueza, al forastero anhelando su hogar de gloria bajo el dosel de Tu gracia, al buscador acudiendo presuroso, por Tu merced, a la puerta de Tu munificencia, al pecador volviéndose hacia el océano de la clemencia y del perdón.
 ¡Por Tu soberanía, oh Tú que eres glorificado en todos los corazones! Me he vuelto hacia Ti abandonando mi propia voluntad y deseo, para que Tu santa voluntad y agrado rijan dentro de mí y me guíen de acuerdo con lo que la pluma de Tu eterno decreto ha destinado para mí. Este siervo, oh Señor, aunque impotente, se vuelve hacia el Astro de Tu Poder; aunque humillado, acude presuroso hacia la Aurora de Tu Gloria; aunque indigente, anhela el Océano de Tu Gracia. Te imploro, por Tu favor y munificencia, que no lo abandones.
 Tú eres, verdaderamente, el Todopoderoso, el Perdonador, el Compasivo.
-
--- Bahá'u'lláh

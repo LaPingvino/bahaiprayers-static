@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11932 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’Alla.
@@ -9,5 +10,3 @@ Hu’Alla.
     Eý Mähriban Möwlam! Hemmäni birleşdir, dürli taýpalaryň arasynda ülpet döret. Bar milletler bir maşgalanyň agzalary bolup, ýer ýüzüni bir watan saýyp biler ýaly hem iň uly derejede agzybirlik we dostluk gözlener ýaly, baryny bir millete öwür.
     Barhudaýa! Adamlar dünýäsiniň birleşik baýdagyny dikelt hem olary iň uly parahatlyga ýetir.
     Eý meniň Taňrym, Eý Mähriban Atam! Ýüreklerimizi yşkyň ýakymly ysy bilen şatlandyr hem gözlerimizi salgy ýalkymy bilen röwşen et. Gulaklary jana ýakymly owazlar bilen doldur we Öz merhemetli goragyňda aman we pena ber. Dogrudanam Sensiň iň Güýçli we Başarjaň, Eý müýnleri Ýaşyryjy we Eý günäleri Bagyşlaýjy!
-
--- Abdu'l-Bahá

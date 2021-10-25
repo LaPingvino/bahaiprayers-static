@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12496 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-103', 'bpn-unsorted']
 +++
 Glory be to Thee, O King of eternity, and the Maker of nations,..
@@ -13,5 +14,3 @@ Lo’u Ali’i e, o lo’o o’u taofi mau i le ‘au o Lau foa’ialofa, ma pip
      Lo’u Ali’i e, ia lē fa’afitia  ia te a’u manogi O Lou ofu i Ou aso, ma ia le vavae’esea a’u mai manavaga o Lau Fa’aaliga i le fa’aalia mai o pupula o le malamalama o Ou fofoga. E mamana Oe e faia ai le mea e finagalo i ai Lau Afio. E leai se tasi e mafai ona tete’eina Lou finagalo, po’o le fa’aluafesasiina o mea sa fuafuaina e Lau Afio i Lou lava mana.
 
      E leai se tasi Atua iina na o Oe, o le Malos-uma, o le Poto-Uma.
-
--- Bahá'u'lláh

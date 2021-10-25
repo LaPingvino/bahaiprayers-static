@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7419 in Polski'
+author = 'Báb'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 W Imię Twego Pana, Stwórcy, Władcy, Wszechwystarczającego i Najwznioślejszego, o którego pomoc błagają wszyscy ludzie.
@@ -9,5 +10,3 @@ Powiedz: O mój Boże! O Ty, któryś jest Stwórcą nieba i ziemi, o Panie Kró
 O Ty, któryś jest Panem obfitych łask! Niech Twoja niebiańska pomoc otoczy tych, którzy Cię miłują, i obdarz nas darami i dobrodziejstwami, które posiadasz. Bądź dla nas wystarczającym ponad wszystko, przebacz nam nasze grzechy i zmiłuj się nad nami. Tyś jest naszym Panem i Panem wszystkich stworzonych rzeczy. Nikogo innego nie wzywamy, tylko Ciebie, i o nic nie prosimy, tylko o Twoje względy. Tyś jest Panem szczodrości i łaski, jesteś niepokonany w swojej mocy i nieprześcigniony w swoich zamierzeniach. Nie ma innego Boga poza Tobą, Wszechposiadającym, Najwznioślejszym.
     
 Udziel swych błogosławieństw, o mój Panie, Posłańcom, świętym i prawym. Zaiste, Tyś jest Bogiem, Niezrównanym, Zniewalającym.
-
--- Báb

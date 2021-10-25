@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11915 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 *(Her gün ertir, öýlän we agşam okalýar)
@@ -21,5 +22,3 @@ tags = ['lang-102', 'bpn-unsorted']
     
 *Onsoň dyzyna çöküp oturyp şeýle diýsin:
     Seniň birligiňe we taýsyzlygyňa, Seniň hakykatdan hem Alladygyňa we Senden özge Taňry ýokdugyna güwä geçýärin. Ynha Sen Öz Emriňi aýan eýlediň we Öz ähdiňe wepa etdiň, hem-de ýerde-gökde bolanlaryň baryna kerem gapysyny açdyň. Dünýe maly, olary Saňa tarap gönükmeden saklap bilmedik dostlaryňa we Seniň ýanyňdaky zatlara ýetmek üçin öz baýlyklaryndan geçen dostlaryňa salam, doga, tekbir we Äbha bolsun. Dogrudanam Ýalkaýjy we Jomart Sensiň.
-
--- Bahá'u'lláh

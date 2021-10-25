@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9123 in Kalaallisut'
+author = 'Abdu'l-Bahá'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *Kinaluunniit naalagaaffinni makkunani illoqarfitsigut nunaqarfitsigullu angalasoq Guutillu tipigissusianik naamajuminartumik siaruarterinissamik ilungersuuteqartoq ullaat tamaasa qinnummik uannga atuartassagaluarpoq.
@@ -18,5 +19,3 @@ ikiunnga, oqara Ilinnik nersorinnissummik appinniassammat, inuiannilu tamani Ill
 Illit tassaavutit Ajugaqanngitsoq, Namminerlu piumasaminik
 
 iliorsinnaasoq.
-
--- Abdu'l-Bahá

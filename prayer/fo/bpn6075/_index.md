@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6075 in Føroyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-fo', 'bpn-unsorted']
 +++
 Vælsignaður er tann blettur,
@@ -19,5 +20,3 @@ har Gud hevur verið nevndur
 og lovprísan 
 Hansara 
 dýrdargjørd.
-
--- Bahá'u'lláh

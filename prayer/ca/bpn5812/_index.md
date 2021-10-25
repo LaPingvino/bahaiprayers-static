@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5812 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Oració Per L’enterrament
@@ -41,5 +42,3 @@ Tots, en veritat, som pacients en Déu
 
 
    (Si el difunt és muller, diguis: ” Aquesta és la Teva serva i la filla de la Teva serva”,etc.)
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2219 in România'
+author = 'Báb'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Dumnezeule, Stăpânul nostru!
@@ -10,5 +11,3 @@ Providenţa Ta iubitoare a cuprins toate lucrurile create în ceruri şi pe păm
 O, Dumnezeule, Stăpânul nostru! Ocroteşte-ne cu puterea tăriei Tale, îngăduie-ne să intrăm în minunatul Tău ocean cu talazurile ridicate şi acordă-ne ceea ce ţi se cuvine.
 
 Tu eşti Cârmuitorul Suveran, Cel ce Înfăptuieşte, Cel Înălţat, Cel Atoateiubitor.
-
--- Báb

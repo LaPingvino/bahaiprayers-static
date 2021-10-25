@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3243 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 *Naw-Rúz, 21 Maart, is die eerste dag van die Bahá'í jaar.
@@ -15,5 +16,3 @@ U is Hy deur Wie die vaandel ,Prysenswaardig is U in U werke' opgehys is, em die
 Hy Wat U Tak is en al U deelgenootskap, o my Here, het hierdie dag hulle vas gebreek, nadat hulle dit binne die omgewing van U hof onderhou het, en in hulle ywer om U te behaag. Beskik U vir Hom, en vir hulle, en vir diegene wat U teenwoordigheid in daardie dae binnegegaan het, al die goeie wat U in U Boek bestem het. Voorsien hulle dan van dit wat hulle sal bevoordeel beide in hierdie lewe en in die lewe hiernamaals.
 
 U is in der waarheid die Alwetende, die Alwyse.
-
--- Bahá'u'lláh

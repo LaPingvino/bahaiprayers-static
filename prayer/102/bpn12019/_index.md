@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12019 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Bu namaz, jemagat bolup okalýan ýeke-täk namazdyr. Bu namazy başgalar ümsüm dik durka, bir bahai dindar okaýar.
@@ -24,5 +25,3 @@ Jynaza namazyň zikirleri
     Hemmämiz hakykatdan Hudaýy ýatlaýanlardan (19)
     Hemmämiz hakykatdan Hudaýa şükür edýänlerden (19) 
     Hemmämiz hakykatdan Hudaýda sabyrlydyrys (19)
-
--- Bahá'u'lláh

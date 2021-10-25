@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10243 in Māori'
+author = 'Bahá'u'lláh'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 Korōria ki a Koe e tōku Atua! Ko ahau tētahi o ō pononga, mea whakapono ki a Koe me Ō tohu. e kite nei Koe i tāku whakaahu i ahau ki te kūaha o Tōu atawhai, i tāku takahuri i tōku kanohi ki te ahunga o Tōu tohu atawhai. Ko tāku inoi ki a Koe, mā Ōu ingoa hirahira rawa, me Ōu tūāhua o runga rawa, kua whakatūwhera ki tōku kanohi ngā kūwaha o Āu tākoha. Nō reira rā, āwhinatia mai ahau, ki te mahi i te pai, e Ko Koe ngā ingoa katoa, e ko Koe ngā tūāhua katoa! 
@@ -13,5 +14,3 @@ Tangohia te ārai i aku mata, e tōku Ariki, kia mōhiotia ai e ahau ko Āu hiah
 E kūpapa ana ahau me aku whakamoemiti ki a Koe, e tōku Ariki, Nāu ahau i whakaara i tāku moe, Nāu ahau i whakaoreore, ka hangaia ai ki roto i ahau te hiahia kia kitea ko tērā rā kāore i te kitea e te nuinga o Ō pononga. Nō reira, whakakahahia mai ahau, e tōku Ariki, kia kite, mā te aroha ki a Koe me te take o Tāu e hiahia ai, ko Tāu nā e hiahia nei Koe, ko Koe Tērā e whakatātakitia nei e ngā mea katoa, ko Tōu kaha me Tōu rangatiratanga. 
 
 Kāore he Atua i tua atu i a Koe, te Kaha rawa, te Māhaki rawa.
-
--- Bahá'u'lláh

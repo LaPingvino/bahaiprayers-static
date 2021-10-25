@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10925 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E matagofie a Koe, O te Aliki toku Atua!  I taimi katoa e taumafai au o taku a Koe, au e fakalavegia ne aku agasala fulafula-aki mo aku soli-tuakoi tafasili i te masei kia Koe, ako au e iloa aka ne au ko seai a Tou alofa-kaimalie katoatoa ia au, kae e aunoa mo se maalosi o fakamanatu a Ou tavaeega.  A toku talitonu lasi i Tou mau-koloa, e ui iei, e fakaola ne ia a toku fakamoemoega ia Koe, a ko toku talitonu ia a Koe ka saga mai kia au i se auala gali kae faka-maukoloa kae fakamaalosi au ke sisi Koe ki luga, kae ka akai atu kia Koe ki mea kola e pule ne Koe.
@@ -7,5 +8,3 @@ E matagofie a Koe, O te Aliki toku Atua!  I taimi katoa e taumafai au o taku a K
      Au e akai kia Koe, O ko Koe Tela ko te Fagasele o loto kola e tagi kia Koe, mai i Faifekau o Tau Fakatokaaga mo Aso-malulu o Tau fakamaalosiga mo latou Fakamatala o Tau afioga, mo Fale-Tausi o Tou poto, ke sa liakina au keatea mai i Tou Koga-nofo kae mana, i Tou Tempolo mo Tou Tapaneki.  Lago mai kia au, O toku Aliki, ke maua ia au a Tou fale mana, kae ke tamilomilo ia Koe, kae ke tu mote loto maulalo i Tou mataloa.
      A Koe ko Ia a Tena maalosi e vau mai i te pilitakiiga ki te pilitakiiga.  E seai se mea e galo mai i Tena poto. A Koe, e tonu, ko te Atua o te maalosi, ko te Atua o te matagofie mo te atamai.
      E tavaeegia a te Atua, ko te Aliki o lalolagi!
-
--- Bahá'u'lláh

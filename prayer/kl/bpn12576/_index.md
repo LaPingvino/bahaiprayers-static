@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12576 in Kalaallisut'
+author = 'Abdu'l-Bahá'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guutiuvoq!
@@ -15,5 +16,3 @@ koraalit sapanngallu saqqummerligit. Ilumummi Illit tassaavutit taanna
 Pissaanermik tamarmik ulikkaartoq, Annerpaaq, Soraajuitsumik
 
 Isumakkeerfiginnittoq.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8184 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 *(Naw-Rúz , Nytår, 21. marts, er den første dag i bahá’í året.)
@@ -15,5 +16,3 @@ Han, der er Din gren, og alle Dine ledsagere, oh min Herre, har denne dag brudt 
 Forsyn dem da med det, der vil gavne dem både i dette liv og livet herefter.
 
 Du er i sandhed Den Alvidende, Den Alvise.
-
--- Bahá'u'lláh

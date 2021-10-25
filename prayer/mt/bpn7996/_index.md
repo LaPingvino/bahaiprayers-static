@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7996 in Malti'
+author = 'Bahá'u'lláh'
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 #TALBA OBLIGATORJA TWILA   
@@ -64,5 +65,3 @@ Tiħir lileK, O Alla tagħna, li bgħattilna hawn isfel dak li jqarribna lejK, u
 *Jerfa’ mbagħad rasu, u joqgħod bil-qiegħda, u jgħid:
 
 Jien xhud, O Alla tiegħi, għal dak li għalih xehdu il-magħżulin tiegħeK, u nistqarr dak li l-għammara ta’ l-ogħla Ġenna u dawk li daru madwar it-Tron setgħani tiegħeK marru jistqarru. Saltniet l-art u s-sema huma tiegħeK, O Sid tad-dinjiet!
-
--- Bahá'u'lláh

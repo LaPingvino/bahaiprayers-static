@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12866 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 ##TAKELAKY NY AFO
@@ -112,5 +113,3 @@ Mitomany ve hianao sa izaho no tsy maintsy handatsaka izany?, Izaho no tokony hi
 Eny, henoko ny antsonao, O ry Malala tena Be voninahitra! Ankehitriny ny hafanan’ny fanenjehana ary ny afon’ny teninao mamirapiratra dia mampirehitra ny Endrik’i Bahà., Indro izy, mahatoky, eo amin’ny toeram-panaovanan-tsorona, maniry fatratra ny hafalianao, ry Mpandahatra izao rehetra izao ô!
  
 Ry Ali-Akbar ô, Isaoro ny Tomponao noho ity takelaka ity. Azonao fohana ao ny hanitry ny fanetretenako hianao ary hitanao ao ny fijaliana izay nosedrainay tao amin’ny lalan’Andriamanitra, ilay lalain’ny olon-drehetra. Raha mamaky sy mandinika an’ity ny mpanompo rehetra, misy afo hirehitra ao anaty lalandrany, izay hampirehitra ny tany manontolo.
-
--- Bahá'u'lláh

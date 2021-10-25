@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8253 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Another letter of thine, which made mention of the hallowed and blessed days of Ridván, was received. Praise be to God, there wafted therefrom the sweet savours of the rose-garden of true knowledge and inner meaning. Should the people of the world resolve, one and all, to extol the days that We passed in the garden of Najíb Páshá, which hath been designated as the Garden of Ridván, they would find themselves utterly incapable thereof and would confess to their powerlessness.
@@ -11,5 +12,3 @@ This servant[11] besought his Lord to write down for His chosen ones the recompe
 “O ‘Alí! Call upon My loved ones on My behalf. Convey unto them My praise, My remembrance, and My greetings, that the sweet fragrances of the bounty of thy Lord may attract them and draw them nigh unto God, the Almighty, the All-Praised. We, moreover, call to remembrance My handmaidens and My leaves who have held fast to My Tree and clung to the hem of My mighty and luminous Robe. Upon thee, and upon them, man and woman alike, be the glory of God, the Compassionate, the Ever-Forgiving, the Most Merciful.”
 
 *11. Mírzá Áqá Ján, the amanuensis of Bahá’u’lláh, in whose voice the first part of this Tablet was revealed.
-
--- Bahá'u'lláh

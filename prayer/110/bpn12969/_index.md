@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12969 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 ##PAS I GO LONG AHMAD 
@@ -77,5 +78,3 @@ Learn well this Tablet, O Ahmad.  Chant it during thy days and withhold not thys
 By God!  Should one who is in affliction or grief read this Tablet with absolute sincerity, God will dispel his sadness, solve his difficulties and remove his afflictions. 
  
 Verily, He is the Merciful, the Compassionate.  Praise be to God, the Lord of all the worlds.
-
--- Bahá'u'lláh

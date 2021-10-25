@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12243 in '
+author = 'Báb'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Ko tavaeega katoa e io te Atua Tela ko ne leva ne Nofo-mai-i-Anamua loa tela ne kalagia a mea faiite katoa ke tu mai, i taimi tela e seai aka foki i Ou tafa vagana ko Koe.  A Ia ko te Tokotasi tela ko te Faka-Tumau-Katoatoa i taimi e seai lele loa se feitu e tasi o 
@@ -19,5 +20,3 @@ Talia mai ko au ke lele ki te tumu tafalagi i luga i te fakaoko atu kia Koe, kae
 se mea e manakogina vagana ko Tou Finagalo. A Koe ko te Tupu o aso mai I te pilitakiiga mot e Pule tafasili ite maluga.  Ko Tou mafi e maalosi atu i luga i mea katoa a ko mea faiite katoa e isi ona ko Tou Finagalo.  A tino katoa e iloa ne latou a te olotou tulaga faka-pologa kae e molimau ki olotou vaaivaiiga kae e seai aka e se fakamanau ne larou a Tou tavaeega.  
   
 Au e akai totuli kia Koe, O toku Atua, i te matagofie o Ou Mata alofafakamagalo mo te afioga o Tou Igoa mai loa ite favavau ke se liakina au mai i te manogi fakamaalosi fuaitino o fakamaoniiga o Ou Aso – ko Aso ko la ko Koe ia Koe ne fakatu kae faka-galue.
-
--- Báb

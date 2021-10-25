@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4800 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey Ruzi Verən! Sən Qərbdəki dostların üzərinə Müqəddəs Ruhun rahiyələrini əsdirdin və Sənin ilahi hidayətinin işığı ilə qərb səmasını nurlandırdın. Bir zaman Səndən uzaq olanları Sən Özünə yaxınlaşdırdın; Yadları sevgili dostlara çevirdin; yatanları oyatdın; qafilləri hüşyar etdin.
@@ -9,5 +10,3 @@ Sən Ey Ruzi Verən! Bu nəcib dostlarına kömək eylə ki, Sənin razılığı
 Sən Ey Ruzi verən! Sənin Astananın bəndəsinin ən əziz arzusu budur ki, şərqdən və qərbdən olan dostların qucaqlaşdıqlarını görsün; sanki suyun ayrı-ayrı damlaları bir dənizdə qovuşubmuş kimi, insan cəmiyyətinin bütün üzvlərinin böyük bir məclisdə məhəbbətlə toplandıqlarını görsün; onların hamısını bir gülşənin quşları, bir dəryanın inciləri, bir ağacın yarpaqları, bir günəşin şuaları kimi görsün.
 
 Sən Qüdrətlisən, Güclüsən, Sən qüvvət Allahısan, Qadirsən, hər şeyi Görənsən.
-
--- Abdu'l-Bahá

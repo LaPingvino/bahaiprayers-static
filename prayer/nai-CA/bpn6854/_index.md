@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6854 in Canadian Indigenous'
+author = 'Bahá'u'lláh'
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *"Blessed is the Spot"   in the Sliammon Language
@@ -21,5 +22,3 @@ kw ty ty nigit nons kw shet hegus.
 Yeech kw cheh hum.
 Hega tah nisheeyeok,
 helh awh nehs.
-
--- Bahá'u'lláh

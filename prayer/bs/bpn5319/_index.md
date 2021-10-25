@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5319 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Ploča Pohođenja Báb-a i Bahá’u’lláh -a 
@@ -14,5 +15,3 @@ Pošalji mi, o, moj Bože i Voljeni moj, sa desnog dlana Tvoje milosti i Tvoje
 Spomen na Boga i Njegova hvala, slava Božja i Njegov sjaj pripadaju Tebi, o, Ti koji si Njegova Ljepota! Svjedočim da oko čovječanstva nikada nije vidjelo ikoga kome je nanesena veća nepravda nego Tebi. Svaki dan Tvog života je bio uronjen u okean patnji. Jednom te sputaše lancima i okovima, drugi put Ti zaprijetiše dušmanski mačevi. Uprkos svemu tome si odredio svim ljudima da poštivaju ono što Ti je objavio Onaj koji je Sveznajući, Premudri.
 Dajem svoju dušu kao iskupljenje patnjama koje si iskusio, a duh moj neka bude otkup za nepravde koje si podnio. Zaklinjem Boga, Tobom i onima čija su lica ozarena sjajem svjetlosti Tvoga lika, i onima koji su Tebi za ljubav, poštivali sve što im je određeno, da ukloniš velove koji stadoše između Tebe i onih koje si stvorio, i da mi daruješ dobro ovoga svijeta i svijeta koji će doći. Ti si, uistinu, Svemoćni, Najuzvišeniji, Najslavniji, Vječiti Oprostitelj, Najmilosrdniji.
 Blagoslovi, o, Gospodaru, Bože moj, Božansko drvo Lot, njegovo lišće, granje i grančice, stablo i izdanke, sve dok traju Tvoja najdivnija imena i Tvoje najuzvišenije osobine. Zaštiti ih od zlodjela silnika i nasilja. Ti si, uistinu, Svemoćni, Najmoćniji. Blagoslovi, o, Gospodaru Bože moj, one sluge i vjernice koji se Tebi okrenuše. Ti si, uistinu, Najdarežljiviji, Onaj Čija je milost neiscrpna. Nema Boga osim Tebe, Koji Vječno Prašta, Najvelikodušnijeg.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12867 in Kalaallisut'
+author = 'Abdu'l-Bahá'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *Inuit Guutip tipigissusianik siaruarterisut ullaat tamaasa qinnut inna oqaatigisassavaat.
@@ -12,5 +13,3 @@ Naalagaq-aa! Allamik ikiorteqanngilanga taamaallaat Illit, allamik qimaaffeqanng
 Naalagara-aa! Sunit tamanit Illiunngitsumit kaanngartinnga, Tukkussutsivit annoraata mersornera tigummiinnarlara, Illit Upperisannut iluunngarlunga tunniusimalanga, Illillu asanninninni aalajaallanga nikisitassaanangalu, Illillu Atuagaatinni maleruaqqusatit naalallakka.
 
 Ilumut Illit tassaavutit Pissaaneqartoq, Pissaasoq Ajugaqanngitsorlu.
-
--- Abdu'l-Bahá

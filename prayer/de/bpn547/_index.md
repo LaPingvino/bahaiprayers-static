@@ -1,10 +1,9 @@
 +++
 title = 'Prayer bpn547 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Gelobt sei Dein Name, o Herr mein Gott! Du siehst mich Dir zugewandt, mein Angesicht auf Deine Gnadengaben gerichtet. Ich flehe Dich an bei Deinem Namen, durch den Du alle, die Deine Einheit anerkennen, am Weine Deines Erbarmens teilhaben und alle Dir Nahen in großen Zügen von den Lebenswassern Deiner Güte trinken lässest, mache mich völlig frei von leerem Wahn und führe mich zu Deiner Gnade, o Du Herr aller Menschen.
 Hilf mir gnädig, o mein Gott, in den Tagen der Manifestation Deiner Sache, in der Morgenröte Deiner Offenbarung die Schleier zu zerreißen, die mich hindern, Dich zu erkennen und in das Meer Deines Wissens unterzutauchen. Halte mich mit den Händen Deiner Macht und lass die Taube Deiner Einzigkeit mit ihren süßen Weisen mich so sehr entzücken, dass ich in der ganzen Schöpfung kein Angesicht mehr schaue denn das Deine, o Du Ziel meiner Sehnsucht, und in der sichtbaren Welt nichts mehr erkenne als die Beweise Deiner Macht, o Du Gott der Barmherzigkeit.
 Ich bin nur ein elendes Geschöpf, o mein Herr, und Du bist der Allbesitzende, der Höchste; reine Schwäche bin ich, und Du bist der Allmächtige, der Höchste Gesetzgeber am Anfang wie am Ende. Vorenthalte mir nicht die Düfte Deiner Offenbarung, lass meine Hoffnung auf die Schauer aus dem Himmel Deiner Gaben nicht zu Schanden werden. Verordne für mich, o mein Gott, das Gute dieser und der zukünftigen Welt, und verleihe mir, was mir in jeder Deiner Welten nützt; denn ich weiß nicht, was mir nützt oder schadet. Du bist wahrhaftig der Allwissende, der Allweise.
 Erbarme Dich sodann, o mein Gott, Deiner Diener, die versunken sind im Meere böser Einflüsterungen, und befreie sie durch die Macht Deiner höchsten Herrschaft, o Du Herr aller Namen und Eigenschaften! Du gebietest seit aller Ewigkeit, was Dir gefällt, und wirst immerdar derselbe bleiben. Es gibt keinen Gott außer Dir, dem Ewigvergebenden, dem Gnadenreichsten.
-
--- Bahá'u'lláh

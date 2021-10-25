@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8147 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 ##Lang Obligatorisk Bøn 
@@ -65,5 +66,3 @@ Priset være Du, o vor Gud, at Du har nedsendt det til os, der drager os nær ti
 *Derpå skal han løfte hovedet, sætte sig ned og sige:
 
 Jeg vidner, o min Gud, om det, som Dine udvalgte har vidnet om, og erkender det, som beboerne i det allerhøjeste paradis og de, der har kredset om Din mægtige trone, har erkendt. Jordens og himlens riger er Dine, o verdenernes Herre!
-
--- Bahá'u'lláh

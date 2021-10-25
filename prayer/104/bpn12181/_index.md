@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12181 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Engkau Tuhan yang baik hati! Engkau telah menciptakan semua manusia daripada baka yang sama. Engkau telah mentakdirkan bahawa semuanya sekeluarga. Dalam Hadirat Suci-Mu  mereka semua adalah hamba-Mu, dan semua manusia dilindungi di bawah Khemah-Mu; semua telah berkumpul di sekeliling Meja Kemurahan-Mu; semua diterangi melalui cahaya Kurnia-Mu.
@@ -16,5 +17,3 @@ Eratkanlah Engkau, Ya Tuhan, kalbu-kalbu bersama.
 Ya Engkau Bapa yang Baik Hati, Tuhan! Riangkanlah hati kami melalui keharuman cinta-Mu. Terangilah mata kami melalui Cahaya Bimbingan-Mu. Hiburkanlah telinga kami dengan  mendengar melodi Kalimat-Mu, dan lindungilah kami semua dalam Kubu Perlindungan-Mu.
 
 Engkau adalah Kuat dan Berkuasa, Engkau adalah Pemaaf dan Engkau Adalah Dia Yang tidak melihat kekurangan semua manusia.
-
--- Abdu'l-Bahá

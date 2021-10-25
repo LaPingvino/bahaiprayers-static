@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12400 in Namibia'
+author = 'Bahá'u'lláh'
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 *(Ne /gares ga sisen u-he //aib ai I ge /gui ≠gomsabee ni /gore tsin ge nou ≠gomsabena ni ma).
@@ -12,5 +13,3 @@ Sida hoada ge amase Elob //gara dawasen.
 Sida hoada ge amase Eloba ra gare.
 Sida hoada ge amase Eloba gangansa ra !ko-!ga.
 Sida hoada ge amase Elob !na ni tanixa.
-
--- Bahá'u'lláh

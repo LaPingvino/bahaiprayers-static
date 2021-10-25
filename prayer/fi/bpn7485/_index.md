@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7485 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *Lausuttavaksi päivittäin aamulla, keskipäivällä ja illalla
@@ -29,5 +30,3 @@ Oi Jumalani, älä tuota pettymystä sille, joka rukoilevin sormin on tarttunut 
 Minä tunnustan Sinun ykseytesi ja ainoutesi ja sen, että Sinä olet Jumala ja että ei ole muuta Jumalaa kuin Sinä. Sinä   totisesti olet ilmoittanut asiasi, toteuttanut liittosi ja avannut selkoselleen armosi oven kaikille, jotka taivaassa ja maan päällä asustavat. Siunaus ja rauha, tervehdys ja kirkkaus levätkööt Sinun rakkaittesi yllä, joita maailman muutokset ja sattumukset eivät ole estäneet kääntymästä puoleesi ja jotka ovat antaneet kaikkensa toivossa saada se, mikä Sinun luonasi on. Sinä toden totta olet Aina anteeksi antava, Kaikkiantelias.
 
 *(Jos joku haluaisi lausua pitkän säkeen sijasta nämä sanat: "Jumala todistaa, että ei ole muuta Jumalaa kuin Hän, Apu hädässä, Itseoleva", se riittäisi. Ja samoin riittäisi, jos hän istuessaan haluaisi lausua nämä sanat: "Minä tunnustan Sinun ykseytesi ja ainoutesi ja sen, että Sinä olet Jumala ja että ei ole muuta Jumalaa kuin Sinä."
-
--- Bahá'u'lláh

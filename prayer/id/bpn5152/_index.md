@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5152 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *"Orang yang berdosa bila dalam keadaan di mana ia menemukan dirinya bebas dan terpisahkan dari segala sesuatu kecuali Tuhan, harus memohon pemaafan dan pengampunan. Tidak dibolehkan untuk mengumumkan dosa dan pelanggaran seseorang dihadapan siapa pun karena hal ini tidak pernah dan tidak akan membawa pengampunan dari Tuhan. Demikian pula pengakuan dosa dihadapan orang akan membawa pada kerendahan diri dan penghinaan seseorang, dan Tuhan, dijunjung tinggilah kemuliaan-Nya, tak menghendaki penghinaan hamba-hamba-Nya. Sesungguh- nya, Ia Maha Pemurah dan Maha Dermawan!
@@ -13,5 +14,3 @@ Ya Rajaku! Engkau melihat hakikat kesalahan ini sedang maju menuju ke lautan pem
 Sayang! Sayang! Pelanggaran-pelanggaranku telah menghalangi daku dari mendekati Istana kesucian-Mu, dan dosa-dosaku telah menjauhkan daku dari Kemah keagungan-Mu. Sesungguhnya aku telah berbuat apa yang telah Engkau larang bagiku; dan aku telah mengabaikan apa yang telah Engkau perintahkan kepadaku!
 
 Aku memohon kepada-Mu demi Dia, Raja segala Nama yang berdaulat agar menetapkan bagiku dari Pena rahmat-Mu, apa yang akan mendekatkan daku kepada-Mu dan akan membersihkan daku dari dosa-dosaku yang telah menghalangi antara daku dan pemaafan-Mu dan pengampunan-Mu. Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Dermawan! Tiada Tuhan kecuali Engkau, Yang Maha Perkasa, Yang Maha Pengasih!
-
--- Bahá'u'lláh

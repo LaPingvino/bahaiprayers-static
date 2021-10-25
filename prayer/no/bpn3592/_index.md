@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3592 in Norsk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Gjør våre trinn faste på din vei, o Herre,
@@ -8,5 +9,3 @@ og styrk du våre hjerter i lydighet mot deg. Vend våre ansikter mot din enhets
 Herre! Dette er tjenere som er forblitt tro mot din Pakt og ditt Testamente, som har holdt fast ved troskapens bånd i din Sak og klynget seg til din storhets kjortelsøm. Hjelp dem, o Herre, med din nåde, skjenk fasthet ved din makt og styrk deres lender i lydighet mot deg.
 
 Du er den tilgivende, den nådige.
-
--- Abdu'l-Bahá

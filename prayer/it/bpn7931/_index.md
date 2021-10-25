@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7931 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 *L’Aqdas dice: «Vi abbiamo comandato di pregare e digiunare dall’inizio della maturità [15 anni]; questo è ordinato da Dio, vostro Signore e Signore dei vostri avi. Egli ne ha dispensato coloro che sono deboli per malattia o età. ... Viaggiatori, sofferenti, gestanti e nutrici non sono vincolati al digiuno. ... Astenetevi da cibi e bevande dall’aurora al tramonto e badate di non privarvi di questa grazia che è stabilita nel Libro».
@@ -20,5 +21,3 @@ T’imploro, o mio Dio, per il fuoco dell’Amor Tuo che fugò il sonno dagli oc
 T’imploro, o mio Dio, per la luce del Tuo sembiante che spinse coloro che Ti sono vicini ad accettare gli strali del Tuo decreto, e coloro che Ti sono devoti ad affrontare le spade dei Tuoi nemici sul Tuo sentiero, di vergare per me ciò che la Tua eccelsa Penna ha scritto per i Tuoi fedeli e i Tuoi prediletti. Tu vedi, o mio Dio che mi tengo al Tuo Nome, il Più Santo, il Più Luminoso, il Più Possènte, il Più Grande, il Più Eccelso, il Più Glorioso, e che mi aggrappo all’orlo della Tua veste alla quale tutti si sono aggrappati in questo mondo e nel mondo avvenire.
 T’imploro, o mio Dio, per il Tuo Nome per il quale desti ascolto al richiamo dei Tuoi adoratori, e ai sospiri di coloro che Ti bramano, e al pianto di coloro che sono a Te vicini, e al gemito di coloro che Ti sono devoti, e col quale appagasti i desideri di coloro che posero le loro speranze in Te, esaudendoli per mezzo della Tua grazia e dei Tuoi favori, e per il Tuo Nome per il quale l’oceano del Tuo perdono si gonfiò a Te dinanzi e le nuvole della Tua generosità piovvero sui Tuoi servi di vergare per coloro che si sono volti a Te e hanno osservato il digiuno da Te prescritto la ricompensa decretata per coloro che non parlano se non col Tuo permesso, e che per amor Tuo abbandonarono sul Tuo sentiero tutto ciò che possedevano. 
 T’imploro, o mio Signore, per Te Stesso, e per i Tuoi segni, e per i Tuoi chiari pegni, e per la fulgente luce della Stella Mattutina della Tua Bellezza, e per i Tuoi Rami, di rimettere i falli di coloro che si sono tenuti saldamente alle Tue leggi e hanno osservato ciò che hai loro prescritto nel Tuo Libro. Tu vedi, o mio Dio, che mi tengo al Tuo Nome, il Più Santo, il Più Luminoso, il Più Possente, il Più Grande, il Più Eccelso, il Più Glorioso, e che mi aggrappo all’orlo della Tua veste alla quale tutti si sono aggrappati in questo mondo e nel mondo avvenire.
-
--- Bahá'u'lláh

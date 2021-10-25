@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6341 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 I give praise to Thee, O my God, that the fragrance of Thy loving-kindness hath enraptured me, and the gentle winds of Thy mercy have inclined me in the direction of Thy bountiful favors. Make me to quaff, O my Lord, from the fingers of Thy bounteousness the living waters which have enabled every one that hath partaken of them to rid himself of all attachment to any one save Thee, and to soar into the atmosphere of detachment from all Thy creatures, and to fix his gaze upon Thy loving providence and Thy manifold gifts.
@@ -17,5 +18,3 @@ Whither shall I turn, O my God, powerless as I am to discover any other way exce
 Do Thou destine for me, O my God, what will set me, at all times, towards Thee, and enable me to cleave continually to the cord of Thy grace, and to proclaim Thy name, and to look for whatsoever may flow down from Thy pen. I am poor and desolate, O my Lord, and Thou art the All-Possessing, the Most High. Have pity, then, upon me through the wonders of Thy mercy, and send down upon me, every moment of my life, the things wherewith Thou hast recreated the hearts of all Thy creatures who have recognized Thy unity, and of all Thy people who are wholly devoted to Thee.
 
 Thou, verily, art the Almighty, the Most Exalted, the All-Knowing, the All-Wise.
-
--- Bahá'u'lláh

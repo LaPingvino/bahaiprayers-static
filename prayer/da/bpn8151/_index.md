@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8151 in Dansk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Denne bøn, åbenbaret af ’Abdu’l-Bahá læses ved hans gravmæle. Den benyttes også ved personlig bøn.
@@ -17,5 +18,3 @@ O Herre, min Gud! Skænk mig Din nåde til at tjene Dine elskede, styrk mig i mi
 Med denne bøn påkalder Din tjener Dig ved daggry og ved nattetide. Opfyld hans hjertes ønske, o Herre! Fryd hans hjerte, glæd hans indre, tænd hans lys, at han kan tjene Din sag og Dine tjenere.
 
 Du er Giveren, Den Medlidende, Den mest Gavmilde, Den Nådige, Den Barmhjertige, Den Medfølende.
-
--- Abdu'l-Bahá

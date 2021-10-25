@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12321 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *Ne fakaasi ki Bahá’ís o Canada   
@@ -14,5 +15,3 @@ Feasoasoani mai kia au mai i Au agelu o faka-salalau a Tou manogi mana kae ke fa
 O toku Aliki!  Sa liakina au ke motu mai i se isi mea aka na ko Koe, ke piki mmau ki te kapa o te gatu o Tou maukoloa, ke tapuaki katoatoa ki Tau Talitonuuga, ke tumau kae mautakitaki i Tou alofa kae ke tautali i te mea ko oti ne tusi mai ne Koe i tau Tusi.  
   
 E tonu, Koe ko te Maalosi, ko te Mafi, ko te Tafasili i te Maluga.
-
--- Abdu'l-Bahá

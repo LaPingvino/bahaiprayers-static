@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3534 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O Gud, min Gud! Din nåde har gjort meg dristig, og din rettferdighet har fylt meg med skrekk. Lykkelig er det menneske som du har skjenket din nåde, og ve den som mottar din rettferdighet.
@@ -9,5 +10,3 @@ Herre! Jeg har flyktet fra din rettferdighet og søkt din nåde, har vendt meg b
 Du er den som har fått alle ting til å tre frem og som har skint på dem med din omsorgs og ditt forsyns lys.
  
 Du er den overmåte gavmilde, den nådige.
-
--- Bahá'u'lláh

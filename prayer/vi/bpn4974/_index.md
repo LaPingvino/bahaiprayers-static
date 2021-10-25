@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4974 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Bản Kinh Cầu Nguyện Bắt Buộc
@@ -11,5 +12,3 @@ tags = ['lang-vi', 'bpn-unsorted']
 Lạy Thượng Đế của con, con xin chứng nhận rằng Ngài đã tạo nên con để hiểu biết Ngài và tôn thờ Ngài. Con xin thú nhận, ngay lúc này, con thật là bất lực trước uy lực của Ngài, và nghèo nàn trước sự phong phú của Ngài.
 
 Không có Thượng Đế nào khác ngoài Ngài, Đấng Cứu nạn, Đấng Tự tồn.
-
--- Bahá'u'lláh

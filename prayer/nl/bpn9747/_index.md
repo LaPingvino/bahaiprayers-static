@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9747 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Dit zijn, o mijn God, de dagen waarop Gij Uw dienaren hebt geboden te vasten. Daarmee hebt Gij de inleiding gesierd van Uw Wetboek dat aan Uw schepselen is geopenbaard, en de schatkamers van Uw geboden getooid voor het oog van allen die in Uw hemel en allen die op Uw aarde zijn. Gij hebt ieder uur van deze dagen begiftigd met een bijzondere kracht die ondoorgrondelijk is voor allen buiten U, Gij Wiens kennis al het geschapene omvat. Gij hebt tevens iedere ziel een deel van deze kracht toegekend in overeenstemming met de Tafel van Uw bevel en de Geschriften van Uw onherroepelijk oordeel. Elk blad van deze Boeken en Geschriften hebt Gij bovendien bestemd voor ieder van de volkeren en geslachten der aarde.
@@ -11,5 +12,3 @@ Laat dan op ons neerregenen, o mijn God, hetgeen Uw genade betaamt en Uw milddad
 Gij ziet, o mijn God, wat Uw geliefden in Uw dagen is overkomen. Uw glorie is mij tot getuige! De klaagzang Uwer uitverkorenen weerklinkt luide in Uw gehele rijk. Sommigen werden verlokt door de trouwelozen in Uw land en werden door hen verhinderd U nabij te komen en het hof van Uw glorie te bereiken. Anderen konden U naderen, maar werden ervan weerhouden Uw gelaat te aanschouwen. Weer anderen mochten, in hun vurig verlangen U te zien, de tuin van Uw hof betreden, maar zij lieten de sluiers van de inbeeldingen van Uw schepselen en het kwaad dat de onderdrukkers onder Uw volk aanrichtten tussen hen en U komen.
 Dit is het uur, o mijn Heer, dat Gij hebt verheven boven elk ander uur en dat Gij hebt verbonden met de voortreffelijksten onder Uw schepselen. Ik smeek U, o mijn God, bij Uzelf en bij hen, om in de loop van dit jaar te verordenen hetgeen Uw geliefden zal verheffen. Beschikt Gij daarbij dan in ditzelfde jaar hetgeen de dagster van Uw kracht zal laten stralen boven de horizon van Uw luister, en de gehele wereld door Uw soevereine macht zal verlichten.
 Laat Uw Zaak zegevieren, o mijn Heer, en vernedert Gij Uw vijanden. Bestem dan voor ons het goede van dit leven en van het leven dat komen gaat. Gij zijt de Waarheid, die alle geheimenissen kent. Geen God is er dan Gij, de Immervergevende, de Almilddadige.
-
--- Bahá'u'lláh

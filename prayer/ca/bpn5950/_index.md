@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5950 in Català'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Ajuda
@@ -15,5 +16,3 @@ Oh Déu, Deu meu! No allunyis de mi els suaus vents del teu perdó i gràcia i n
 A l’ombra de les Teves ales protectores permet-me aixoplugar-me i fixa en mi l’esguard del Teu ull que tot ho protegeix.
 Desferma la meva llengua per a que jo alabi el Teu Nom entre el Teu poble,  perquè la meva veu pugui aixecar-se en grans assemblees i ragi dels meus llavis el torrent de la Teva lloança.
 Tu ets veritablement el Benèvol, el glorificat, el Poderós, l’Omnipotent.
-
--- Abdu'l-Bahá

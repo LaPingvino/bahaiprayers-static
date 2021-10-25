@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6037 in Frysk'
+author = 'Bahá'u'lláh'
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 ##Naw-Ruz
@@ -15,5 +16,3 @@ Jo, yn wierheid, binne de Alwittende, de Alwize.
 
 * Jezus
 ** Mohammed
-
--- Bahá'u'lláh

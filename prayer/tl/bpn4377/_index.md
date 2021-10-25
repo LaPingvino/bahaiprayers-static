@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4377 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Dapat usalin sa umaga, sa tanghali at sa gabi
@@ -55,5 +56,3 @@ Saksi ako sa Iyong kaisahan at sa Iyong pagkakaisa, na Ikaw ang Diyos, at walang
  
 
 *(Kung nais ng sinuman na usalin, sa halip ng mahabang taludtod ang mga katagang ito: “Pinatutunayan ng Diyos na walang iba pang Diyos maliban sa Kaniya, ang Tulong sa Panganib, ang Sariling Ganap,” ito ay makasasapat. Gayundin, makasasapat na kung habang nakaupo ay usalin niya ang mga salitang ito: “Saksi ako sa Iyong kaisahan at sa Iyong pagkakaisa, na Ikaw ang Diyos, na walang iba pang Diyos liban sa Iyo.”
-
--- Bahá'u'lláh

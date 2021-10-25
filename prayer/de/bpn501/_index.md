@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn501 in Deutsch'
+author = 'Abdu'l-Bahá'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist Gott!
@@ -7,5 +8,3 @@ O Herr, mein Gott, mein Vielgeliebter! Hier sind Deine Diener, die Deine Stimme 
 Erleuchte ihre Angesichter in Deinem heiligen Reich, hilf ihnen, sich für den Sieg Deiner Sache zu erheben, und führe solchermaßen ihre Freude zur Vollendung.
 Herr! Wir sind schwach; stärke uns, Deiner Heiligkeit Düfte zu verbreiten. Arm sind wir, mache uns reich aus den Schatzkammern Deiner göttlichen Einheit. Wir sind nackt, kleide uns in das Gewand Deiner Großmut. Wir sind sündig, vergib uns unsere Schuld durch Deine Gnade, Deine Gunst und Verzeihung. Du bist wahrlich der Beistand, der Helfer, der Gnädige, der Mächtige, der Gewaltige.
 Die Herrlichkeit aller Herrlichkeiten ruhe auf denen, die fest und standhaft sind.
-
--- Abdu'l-Bahá

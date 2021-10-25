@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3176 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Geloof sy U, o Here my God! U sien en weet dat ek 'n beroep op U dienaars gedoen het om nêrens behalwe in die rigting van U skenkings te keer nie, en hulle gevra het om niks behalwe die dinge wat U in U duidelike Boek voorgeskryf het na te kom nie, die Boek wat neergestuur is volgens U ondeurgrondelike verordening en onherroeplike doeleinde.
@@ -11,5 +12,3 @@ Alle lof sy aan U, o my God, vir die dinge wat U vir my beskik het deur U verord
 Laat daal dus, o my Here, op my en op my bemindes dit wat ons sal beskerm teen die onheil van diegene wat U waarheid ontken en het en nie in U tekens geglo het nie.
 
 U is, voorwaar, die Alglorieryke, die Mees Goedertierende.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8270 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Most Holy, the Most Exalted, the Most Great.
@@ -10,5 +11,3 @@ O people of Bahá! Soar upon the wings of detachment into the atmosphere of the 
 It behoveth you to arise and acquaint the people with that which hath been sent down in the Book of their Lord, the Almighty, the Unconstrained. Say: Fear ye God and pay no heed to the vain imaginings of them that walk in the ways of doubt and iniquity. Turn ye with radiant hearts towards the throne of your Lord, the Possessor of all names. He, verily, shall aid you through the power of truth. No God is there but Him, the Almighty, the Most Bountiful.
 Would ye hasten towards a mere pond, whilst the Most Great Ocean is stretched out before your eyes? Turn ye wholly unto it, and follow not in the footsteps of every faithless deceiver. Thus doth the Bird of Eternity warble upon the branches of Our Divine Lote-Tree. By God! A single one of its melodies sufficeth to enrapture the Concourse on high, and beyond them the dwellers of the cities of names, and beyond them those who circle round His Throne at morn and eventide.
 Thus have the showers of utterance rained down from the heaven of the will of your Lord, the All-Merciful. Draw nigh unto them, O people, and renounce those who idly dispute the verses that God hath revealed, and who have disbelieved in their Lord when He came invested with proof and testimony.
-
--- Bahá'u'lláh

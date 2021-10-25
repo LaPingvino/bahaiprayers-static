@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5835 in Català'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu meu! Tu veus com la negra foscor envolta a totes les regions, com tots els països estan ardent amb la flama de la discòrdia i els focs de la guerra i la matança cremen a Orient i a Occident. La sang és vesada els cadàvers cobreixen el terra i els caps tallats són escampats sobre la pols del camp de batalla.
@@ -14,5 +15,3 @@ Oh Senyor! L’oceà de la rebel·lió s’està agitant i aquestes tempestes no
 Oh Senyor! En veritat la gent es troba a l’abisme de la passió i res pot salvar-les excepte les Teves infinites mercès.
 Oh Senyor! Dissipa l’obscuritat d’aquests desitjos corruptes i il·lumina els cors amb la llàntia del Teu amor, per mitjà de la qual tots els països seran il·luminats d’aquí a poc. Confirma, a més, als teus estimats, aquells què, abandonant la seva pàtria, família i fills, han viatjat a països estrangers per amor a la Teva Bellesa per difondre les Teves Ensenyances. Sigues Tu el seu auxiliador a terra estranya, el dissipador de les seves tristeses, el seu confortador en la calamitat. Sigues Tu el glop que els refresqui quan tinguin set, la medicina que els guareixi les malalties i el bàlsam per la cremor que abraça els seus cors.
 Veritablement, Tu ets el Més Generós, el Senyor de gràcia abundant i, veritablement, Tu ets el Compassiu i el Misericordiós.
-
--- Abdu'l-Bahá

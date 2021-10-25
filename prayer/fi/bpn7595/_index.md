@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7595 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *Bahá'u'lláh ilmaisi Pyhän merenkulkijan muistion Baghdádissa. Pyhä merenkulkija on viittaus Bahá'u'lláhiin itseensä, ja muistiossa mainittu arkki on Hänen asiansa arkki.
@@ -120,5 +121,3 @@ He kaikki kerääntyivät hänen ympärilleen ja katso: he näkivät hänen ruum
 Ylistetty olkoon Herramme, Kaikkein korkein!
 ja havaitessaan hänen tilansa ja käsittäessään sanasen Nuorukaisen kertomasta  tarinasta he paljastivat päänsä, repäisivät vaatteensa, hakkasivat kasvojansa, unhottivat riemunsa, vuodattivat kyyneleitä ja löivät käsin poskiansa, ja tämä totisesti on yksi arvoituksellisista raskaista koettelemuksista.
 Ylistetty olkoon Herramme, Kaikkein korkein!
-
--- Bahá'u'lláh

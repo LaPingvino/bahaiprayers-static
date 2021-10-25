@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4975 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Bản Kinh Cầu Nguyện 
@@ -43,5 +44,3 @@ Thượng Đế chứng nhận rằng không có Thượng Đế nào khác ngo�
 *(Hoặc có thể ngồi và đọc:)
 	
 	Con xin làm chứng về sự thống nhất và sự đơn nhất của Ngài; con xin làm chứng rằng Ngài là Thượng Đế và không có Thượng Đế nào khác ngoài Ngài.
-
--- Bahá'u'lláh

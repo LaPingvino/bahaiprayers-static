@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2639 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *[Ezt az imát olvassuk Bahá’u’lláh és a Báb Sírszentélyében, és gyakran használjuk az évfordulóikról való megemlékezésekben is.]
@@ -17,5 +18,3 @@ Isten emlékezete és dicsérete, az Ő dicsősége és ragyogása legyenek Vél
 Szellemem légyen az áldozat azokért a bántalmazásokért, melyeket el kellett szenvedned, s lelkem légyen a váltságdíj mindazon viszontagságért, mely Téged ért. Könyörgöm Istenhez, Teáltalad és azok által, kiknek arcát beragyogta orcád tündöklő fénye, s kik Irántad érzett szeretetükből megtartották mindazt, mit megparancsoltál nékik, hogy távolítsa el az Úr a fátylakat, melyek eltakarnak Téged teremtményeid szeme elől, és hogy részesítsen engem ezen és az eljövendő világ javaiban. Valóban, Te vagy a Mindenható, a Legmagasztosabb, a Mindenek Felett Dicsőséges, a Mindent Megbocsátó, a Legkönyörületesebb.
 
 Áldd meg, ó, Uram, én Istenem, az Isteni Lótuszfát, s annak leveleit, ágait és gallyait, valamint annak hajtásait és sarjait, egészen addig, míg legjelesebb címeid és fenséges tulajdonságaid el nem múlnak. Védd meg azt a támadók gonoszságától és a zsarnokok seregeitől. Valóban, Te vagy a Mindenható, a Leghatalmasabb. Áldd meg emellett, ó, Uram, én Istenem, azon szolgálóidat és szolgálóleányaidat, kik eljutottak Tehozzád. Valóban, Te vagy a Legbőkezűbb, Kinek kegyelme soha el nem fogy. Nincsen más Isten, csak Te, a Mindig Megbocsátó, a Legnagylelkűbb.
-
--- Bahá'u'lláh

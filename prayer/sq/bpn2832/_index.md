@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2832 in Shqip'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Zot, Perëndia im dhe Streha ime në hallet e mia! Mburoja ime dhe Tenda ime në mjerimet e mia! Azili e Strehimi im në rast nevoje, dhe Shoku im në izolimin tim! Ngushëllimi im në ankthin tim dhe mik i dashur në vetminë time! Larguesi i dhembjeve të mjerimeve të mia dhe Falësi i mëkateve të mia!
@@ -23,5 +24,3 @@ Nën hijen e krahëve të Tu mbrojtës më lejo ta bëj folenë dhe hidh mbi mua
 Zgjidhe gjuhën time për të lavdëruar Emrin Tënd midis njerëzve të Tu, që zëri im të ngrihet në kuvendet e mëdha dhe nga buzët e mia të burojë vërshimi i lavdërimeve për Ty.
 
 Ti je, me të vërtetë, i Hirshmi, i Lavdëruari, i Fuqishmi, Ai Që ka në dorë gjithçka!
-
--- Abdu'l-Bahá

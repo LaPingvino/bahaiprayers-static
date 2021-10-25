@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5257 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 On je Izlječitelj, Skrbnik, Pomoćnik, Oprostitelj, Najmilosrdniji.
@@ -48,5 +49,3 @@ O, Izlječitelju, Tebe dozivam, O, Izlječitelju!
 O, Vječni, Tebe dozivam, O, Vječni! Ti, Neprolazni, O, Vjekovječni!
 Posvećen si Ti, O, moj Bože! Zaklinjem Te velikodušnošću Tvojom, koja širom otvori kapije Tvoje darežljivosti i milosti, kojom se Hram Tvoje Svetosti ustoličio na prijestolju vječnosti; i Tvojom milošću kojom si sva stvorenja pozvao za sto Tvojih darova i blagoslova; i Tvojom blagonaklonošću kojom si unutar Sebe izgovorio riječ ‚Uistinu‛ u ime svega što je na nebu i na zemlji, u času kada je Tvoja Vrhovnost i Tvoja Nadmoć otkrivena, u svitanju kada je moć Tvoje vladavine objavljena. Ponovno Te preklinjem, ovim najljepšim imenima, Tvojim najplemenitijim i nauzvišenijim osobinama, Tvojim Najuznositijim Spomenom, Tvojom čistom i neokaljanom Ljepotom, Tvojim Svjetlom u najskrovitijem zaklonu, Tvojim Imenom zaogrnutim plaštom patnje svakog svitanja i sumraka, da čuvaš nositelja ove blagoslovljene Ploče, svakoga ko je izgovara, svakoga ko na nju naiđe, svakoga ko prođe pokraj kuće u kojoj se ona izgovara. Izliječi, tada, njome svakoga bolesnog i siromašnoga od svake tegobe i patnje, od svake mrske nevolje i tuge, i povedi njome svakoga ko želi stupiti na staze Tvoga vodstva i puteve Tvoga praštanja i milosti.
 Ti si uistinu Moćni, Udovoljitelj, Iscjeljitelj, Zaštitnik, Darivatelj, Samilosni, Velikodušni, Najmilosrdniji.
-
--- Bahá'u'lláh

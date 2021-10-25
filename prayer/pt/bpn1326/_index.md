@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1326 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola Do Fogo
@@ -52,5 +53,3 @@ Lamentas Tu, ou deverei Eu lamentar? Antes, chorarei Eu por serem tão poucos os
 Verdadeiramente, tenho ouvido o Teu Chamado, ó Bem-Amado Todo-Glorioso; e agora a face de Bahá flameja com o calor da tribulação, e com o fogo da Tua palavra resplandecente, e Ele levantou-se em fidelidade no lugar do sacrifício, esperando o Teu beneplácito, ó Tu que ordenas os mundos!
 Ó ‘Alí-Akbar, agradece ao teu Senhor por esta Epístola, donde podes inalar a fragrância da Minha humildade e saber o que Nos assediou no caminho de Deus, o Adorado de todos os mundos.
 Se todos os servos lessem esta Epístola e sobre ela ponderassem, acender-se-ia nas suas veias um fogo que faria flamejar os mundos!
-
--- Bahá'u'lláh

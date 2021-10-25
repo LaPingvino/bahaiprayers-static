@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11208 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-99', 'bpn-unsorted']
 +++
 Ee Mungu na Bwana wangu!  Mimi ni mutumishi Wako na Mwana wa mtumishi Wako.  Nimeamka kutoka kitandani mwangu kwenye mapambazuko haya wakati Nyota ya Mchana ya umoja Wako imemulika kutoka Mapambazuko ya amri yako, na imetoa mng’ao wake juu ya ulimwengu wote, kulingana na yale yaliyoamriwa katika Vitabu vya Amri Yako. 
@@ -9,5 +10,3 @@ Ee Mungu na Bwana wangu!  Mimi ni mutumishi Wako na Mwana wa mtumishi Wako.  Nim
    Mbariki, Ee Bwana Mungu wangu, Yeye Ambaye Umempa majina Yako bora kabisa, na ambaye kupitia kwake Wewe umewagawanya wamchao Mungu na waovu na utusaidie kwa rehema, tufanye Ulitakalo na Ulitamanilo.  Wabariki, tena, Ee Mungu wangu, wao ambao ni Maneno Yako na Herufi Zako, na wale ambao wamekazia nyuso zao kuelekea Kwako, na kugeukia kwenye uso Wako na kuitika kwenye Mwito Wako. 
  
  Wewe hakika, ndiye Bwana na Mfalme wa watu wote na una nguvu juu ya vitu vyote.
-
--- Bahá'u'lláh

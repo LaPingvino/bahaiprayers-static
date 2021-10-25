@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2211 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne, Dumnezeul meu!
@@ -8,5 +9,3 @@ Luminează frunţile celor ce Te iubesc cu adevărat, şi cu oştirile Tale îng
 O, Doamne! Hărăzeşte-le din plin partea ce li se cuvine şi orânduieşte-le o răsplată sigură.
 
 Tu eşti, cu adevărat, Cel Ce Sprijină, Cel Ce ajută, Cel Generos, Cel Plin de Har, Cel Darnic în veci.
-
--- Abdu'l-Bahá

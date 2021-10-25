@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7539 in Suomi'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Sinä hyvä Jumala! Olet luonut koko ihmiskunnan samoista esivanhemmista. Olet säätänyt, että kaikki kuuluvat samaan perheeseen. Sinun pyhässä läheisyydessäsi he ovat kaikki Sinun palvelijoitasi, ja koko ihmiskunta on Sinun pyhättösi suojassa, kaikki ovat kokoontuneet yhteen anteliaisuutesi pöytään, kaikki ovat valaistuneet kaitselmuksesi valosta.
@@ -17,5 +18,3 @@ Liitä sydämet lujasti yhteen, oi Jumala.
 Oi Sinä hyvä Isä, Jumala! Ilahduta sydäntämme rakkautesi sulotuoksulla. Kirkasta silmämme johdatuksesi valolla. Ilahduta korviamme sanasi sävelmällä ja anna meille kaikille turva Sinun kaitselmuksesi linnoituksessa.
 
 Sinä olet Mahtava ja Voimallinen, Sinä olet Anteeksi antava etkä katso ihmiskunnan vajavuuksiin.
-
--- Abdu'l-Bahá

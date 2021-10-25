@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9363 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 *(Ity takela ity dia vakiana eo amin’ny fasan’i Bahá’u’lláh sy i Báb. Vakiana matetika koa amin’ny fahatsiarovana ny fitsingerenan’ny taonany).
@@ -12,5 +13,3 @@ Alefaso amiko, noho izany, O ry Andriamanitro ô, sy Ilay Malalako, avy amin’n
 Ny filazana an’Andriamanitra sy ny fiderana Azy, ny voninahitr’Andriamanitra sy ny Famirapiratany ho Aminao, Ianao izay Hatsaran-tarehiny! Vavolombelona aho fa ny mason’ny nohariana rehetra dia mbola tsy nahita na oviana na oviana tamin’ny nampahoriana toa Anao. Nilentika nandritran’ny androm-piainanao rehetra Ianao tao anatin’ny ranomasimben’ny fahoriana. Nisy fotoana, nifatotra rojo vy Ianao; tamin’ny fotoana  hafa, norahonana tamin’ny sabatry ny fahavalonao Ianao. Kanefa na dia izany rehetra izany aza, dia nandidy ny olona rehetra Ianao hitandrina izay nandidiana Anao avy amin’Ilay Mpahalala ny zavatra rehetra, Ilay Hendry tokoa.
 Aoka ny fisainako atao sorona noho ny fijaliana izay niaretanao ary ny fanahiko atao antoka noho ny fahoriana izay nozakainao. Mitalaho amin’ Andriamanitra aho noho Ianao sy noho ireo izay nohazavaina ny endriny tamin’ny fanjelanjelatra manjopikan’ny Endrikao ary noho ireo izay, noho ny fitiavana Anao, dia nitandrina izay rehetra nandidiana azy, mba hanala ny voaly izay manelanelana Anao sy ny Voaharinao, ary mba hanome ahy ny soan’ity tany ity sy ny any ankoatra. Ianao marina tokoa Ilay Mahery Indrindra, Ilay Avo Indrindra, Ilay Be voninahitra Indrindra, Ilay mamela heloka mandrakariva, Ilay Be fangorahana Indrindra.
 Tahio, Ry Tompo Andriamanitro ô, ny “Hazo-Farany” masina, ny raviny, ny rantsany, ny sampany, ny tahony sy ny solofony, raha toa ka mbola maharitra koa ny Anaram-boninahitrao tsara indrindra sy ny toetranao tena mendrika. Arovy izy ireo, amin’ny asa ratsin’ny mahery setra sy ny tafiky ny mpanao didy jadona. Ianao marina tokoa Ilay Mahery Indrindra, Ilay Manam-pahefana Indrindra. Tahio koa ry Tompo Andriamanitro ô, ny mpanompolahy sy mpanompovavinao izay nahatratra Anao. Ianao marina tokoa Ilay Mpangoraka Indrindra, izay tsy manam-petra ny Fahasoavana. Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay mamela heloka mandrakariva, Ilay Mpiantra Indrindra.
-
--- Bahá'u'lláh

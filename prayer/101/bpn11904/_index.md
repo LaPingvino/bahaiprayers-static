@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11904 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Loh Bisaka tih nye basa ndu Karamat Baha’u’llah duoh Bab. Pun selalu geh obuah pakai daang ngenang onu-onu ayuh Bala tih.)
@@ -9,5 +10,3 @@ Oku ngin bukti nang nyaa dek mbok puant Ingan iyoh mbok puant Topa, bia nyaa dek
 Nyabui, adin, tudu oku, O Topa ku duoh Pangirindu ku, dek sok tongan to’uh pirasie Ingan bia tulut-budi Ingan, obus kudus pingungin Ingan, sak podo-podo dapod alih oku jua sok seniri odop bia sok dunya odi ki gilangang bilinok Ingan duoh pimonog Ingan. Ingan sija dek ogi gaya nai nunda dek suka odop Ingan. Ingan, sibonar eh, dek totap bikuasa ndu tunt sua onik.
 Panginatong daang Topa bia pimuji Iyoh, bia pimulia Topa duoh pangipaguh Iyoh, bisandal ndu tunt Ingan. O Ingan Nyaa dek jadin Pangisangon Iyoh! Oku ngin bukti nang boton manusia dik eh pernah ngiduang ndi polong dek salah koda Ingan. Ingan obuah nguluam selama idip Ingan ke tilasan laut pinisa. Ndi sidoh diyok sok kano Ingan obuah bilinguak duoh pasung; Ndi sidoh lagi takal noh Ingan yak obuah notok pakai podang musuh-musuh Ingan. Masih geh, sungu hal-hal tih bilaku, tuang ogi geh Ingan pilatas ndu sua manusia odak kilint onik dek mbok obuah bitolus tudu Ingan odak Iyoh Nyaa dek Pangipuant, dek Bijak-Ponai. Pod-pod jiwa ku jadin korban tudu salah-biyu dek ogi Ingan obuah, bia roh ku jadin tukal-gati bencana dek ogi Ingan nijon. Oku mitia tudu Topa, pakai Ingan bia pakai sok bala dek jowin-eh mbok bidonab pakai jawak jongon dek jul Ingan, bia nyaa dek, setegal pangirindu Ingan, mbok ninga sua sositing bala obuah merintah, odak kadi kitabak-kitabak dek ogi nog daang osah antara Ingan duoh pimotan-pimotan Ingan, bia nanggung oku pakai pangipaguh dunya tih bia dunya dek yak nog. Ingan leh, dek tok sebonar eh, Ayuh kuasa dek simomu, dek paling-Mulia, dek Selalu-Ngapunt, dek Paling- Penyayang. 
 Ingan nai leh odak kudus, O Raja Topa ku, Tongon Koyuh Lote Topa bia dowon-dowon eh, bia da’ant sokap eh, bia da’ant langai-eh, bia tongon-tongon eh, bia tilotad-tilotad kuk-eh, selagi gelaran Ingan dek paling kona tuui bijon bia sifat luhur Ingan adu-adu taant. Jaga leh, sok adin, sok yoh yak obuah mala petaka pinyolang, bia kabant dek zalim. Ingan leh, daang dek sibonar-eh, Ayuh Kuasa, dek Bigagah. Ingan nai odak kudus, bia, O Raja Topa ku, ulunt-ulunt Ingan duoh onak dayung Ingan dek mbok odi nog tudu Ingan. Ingan, totap leh, dek Pingungin. Budi Nyaa dek dik mudah obuak. Doie Topa dibokon jok eh Ingan, dek Selalu-Ngapunt, dek Paling Dermawan.
-
--- Bahá'u'lláh

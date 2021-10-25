@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9124 in Kalaallisut'
+author = 'Abdu'l-Bahá'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *Kikkulluunniit Guutip tipigissusianik naamajuminartumik siaruarterisut ullaat tamaasa qinnut inna oqaatigisarlissuk.
@@ -11,5 +12,3 @@ Naalagaq-aa! Anersaakkut Illernartukkut uppernarsaqqiiffiginnga, Illit Atikkut n
 
 
 Naalagaq-aa! Sanngiitsuuvunga, Illit nukittussutsikkut pissaanikkullu nakussatsinnga. Oqara ilaginnaavoq, Illit unnersiutigineqarnissannik eqqaaneqaatissannillu oqalullanga. Nikanartuuvunga, Illit Kunngeqarfinnut isersinnaanissannik ataqqinarsitinnga. Ungasippunga, Nallittuissutsivit alloriusaa qanilliartorlara. Naalagaq-aa! Qullertut qaammarissutut ilersinnga, ulloriaalanga uisorilasoq, orpillu pilluaqqusaasoq inerittunik avalequtinillu pinnersagaq nunanillu makkuninnga alanngiisoq. Ilumut tassaavutit Pissaasoq, Pissaaneqarluartoq Akornusigaanngitsorlu.
-
--- Abdu'l-Bahá

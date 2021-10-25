@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12973 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 O God bilong mi!  O God bilong mi!  Tru tumas. Ol dispela wokman i tanim i go long Yu na ol i askim strong long kingdom bilong marimari bilong Yu.  Tru tumas.  Pasin holi bilong Yu i wok long pulim ol i kam long Yu na ol i pulap long lait i kam long paia bilong bikpela laik long Yu.  Ol i painim blesing i kam long naispela kingdom bilong Yu na ol i gat bikpela laik long kamap long hap bilong heven bilong Yu. Tru tumas, ol i gat bikpela laik long lukim blesing bilong Yu i pundaun long ol.   Na ol i laikim bai lait bilong San bilong Trupela Laip i lait long ol.  O Bikpela!  Mekim olsem bai ol i kamap olsem ol lam i pulap long lait.  Inap bai ol i kamap mak bilong marimari.  Inap bai ol i 
@@ -7,5 +8,3 @@ kamap olsem ol diwai i karim planti kaikai.  Inap bai ol i lait olsem ol sta.  I
  
  
 O my God!  O my God!  Verily, these servants are turning to Thee, supplicating Thy kingdom of mercy.  Verily, they are attracted by Thy holiness and set aglow with the fire of Thy love, seeking confirmation from Thy wondrous kingdom, and hoping for attainment in Thy heavenly realm.  Verily, they long for the descent of Thy bestowal, desiring illumination from the Sun of Reality. O Lord!  Make them radiant lamps, merciful signs, fruitful trees and shining stars.  May they come forth in Thy service and be connected with Thee by the bonds and ties of Thy love, longing for the lights of Thy favor.  O Lord!  Make them signs of guidance, standards of Thine immortal kingdom, waves of the sea of Thy mercy, mirrors of the light of Thy majesty. Verily, Thou art the Generous.  Verily, Thou art the Merciful. Verily, Thou art the Precious, the Beloved.
-
--- Abdu'l-Bahá

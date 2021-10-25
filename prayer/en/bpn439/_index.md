@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn439 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Lauded be Thy name, O Lord my God! Darkness hath fallen upon every land, and the forces of mischief have encompassed all the nations. Through them, however, I perceive the splendors of Thy wisdom, and discern the brightness of the light of Thy providence.
@@ -9,5 +10,3 @@ They that are shut out as by a veil from Thee have imagined that they have the p
 Glorified be Thou, then, O my God! I beseech Thee by thy Most Great Name to assemble them that love Thee around the Law that streameth from the good pleasure of Thy will, and to send down upon them what will assure their hearts.
 
 Potent art thou to do what pleaseth Thee. Thou art, verily, the Help in Peril, the Self-Subsisting.
-
--- Bahá'u'lláh

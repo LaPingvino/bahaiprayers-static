@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11514 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Te rindo alabanzas, oh mi Dios, pues la fragancia de Tu bondad me ha cautivado y las suaves brisas de Tu misericordia me han inclinado hacia Tus muníficos favores. Hazme beber, oh mi Señor, de la mano de Tu munificencia, las aguas vivas que han permitido a todo el que ha gozado de ellas librarse del apego a quienquiera que no seas Tú, y elevarse hacia la atmósfera del desprendimiento de todas Tus criaturas, y fijar la mirada en Tu amorosa providencia y Tus múltiples dones.
@@ -10,5 +11,3 @@ Te imploro, oh mi Señor, por Tu nombre, cuyos resplandores han envuelto la tier
 ¿Adónde he de volverme, oh mi Dios, incapaz de descubrir ningún otro camino fuera del camino que Tú marcaste para Tus Elegidos? Todos los átomos de la tierra proclaman que Tú eres Dios, y atestiguan que no hay otro Dios fuera de Ti. Desde la eternidad, has sido poderoso para hacer lo que has querido y ordenar lo que has deseado.
 Destina para mí, oh mi Dios, aquello que me dirija en todo momento hacia Ti, y permite que me aferre constantemente a la cuerda de Tu gracia y proclame Tu nombre y busque todo lo que emane de Tu pluma. Estoy necesitado y desamparado, oh mi Señor, y Tú eres Quien todo lo posee, el Altísimo. Ten piedad, pues, de mí mediante las maravillas de Tu misericordia, y haz descender sobre mí, en cada momento de mi vida, las cosas con las que has creado de nuevo los corazones de todas Tus criaturas que han reconocido Tu unidad, y de todo Tu pueblo que está completamente consagrado a Ti.
 Tú, ciertamente, eres el Todopoderoso, el Más Exaltado, el Omnisciente, el Sapientísimo.
-
--- Bahá'u'lláh

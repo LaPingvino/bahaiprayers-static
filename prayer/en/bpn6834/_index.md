@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6834 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Exalted art Thou, O Lord my God!  I beseech Thee by those whom Thou hast bidden to observe the Fast for the sake of Thy love and good-pleasure, who have demonstrated their allegiance to Thy law and followed Thy verses and precepts, and who have broken their fast while enjoying near access to Thee and beholding Thy countenance.  By Thy glory!  Since they are turning to the court of Thy good-pleasure, all their days are days of fasting.  Were the mouth of Thy will to address them saying: “Observe, for My beauty's sake, the fast, O people, and set no limit to its duration,” I swear by the majesty of Thy glory, that every one of them will faithfully observe it, will abstain from whatsoever will violate Thy law, and will continue to do so until they yield up their souls unto Thee, for they have tasted the sweetness of Thy call, and become inebriated with Thy remembrance and praise and with the words proceeding from the lips of Thy command.
@@ -38,5 +39,3 @@ We testify, O my God, that these are servants who have believed in Thee and in T
 I beseech Thee, O Lord, by Him and by them, and by Him Whom Thou hast established on the throne of Thy Faith and caused to overshadow all the dwellers of earth and heaven, to purify us from our transgressions, to ordain for us a seat of truth in Thy presence and to cause us to associate with those whom the adversities of the world and its misfortunes have not hindered from turning toward Thee.  Thou art, verily, the All-Powerful, the Most Exalted, the Protector, the Ever-Forgiving, the Most Merciful.
 
 The Importance of Obligatory Prayer and Fasting, VI
-
--- Bahá'u'lláh

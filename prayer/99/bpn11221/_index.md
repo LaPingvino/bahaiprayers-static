@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11221 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-99', 'bpn-unsorted']
 +++
 Ee Mungu wangu!  Huyu ni mtumishi Wako na mwana wa mtumishi Wako ambaye amekuamini Wewe na ishara Zako, na kuelekeza uso wake Kwako, amejitenga kabisa kutoka kwa vyote ila Wewe.  Wewe hakika, ndiwe wa wale ambao huonyesha rehema, mwenye rehema kabisa. 
@@ -18,5 +19,3 @@ Sisi sote, hakika, twatoa shukrani kwa Mungu.
 Sisi sote, hakika, tu wenye subira katika Mungu. 
 
 *(Ikiwa marehemu ni mwanamke, hebu aseme: Huyu ni mtumishi Wako wa kike na binti wa mtumishi Wako wa kike, n.k. . . . )
-
--- Bahá'u'lláh

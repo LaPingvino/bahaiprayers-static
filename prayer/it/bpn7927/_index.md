@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7927 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 ##TAVOLA DEL FUOCO
@@ -55,5 +56,3 @@ Gemi Tu, o Io? Son Io Che piango al-l’esiguità del Tuoi eroi, o Tu Che hai tr
 In verità, ho udito il Tuo grido, o Gloriosissimo Diletto; e ora Bahá, il volto infiammato nella calura della tribolazione e nella vampa del Tuo fulgido verbo, S’erge fedele sull’ara del-l’olocausto, anelando a compiacerTi, Ordinator dei mondi.
 O ‘Alí-Akbar, rendi grazie al tuo Signore per questa Tavola donde ti è dato respirare la fragranza della Mia mitezza e apprendere quel che ci ha colti sulla via di Dio l’Adorato di tutti i mondi.
 E il servo che la legga e mediti s’infiammerà nelle sue vene un fuoco che arderà i mondi.
-
--- Bahá'u'lláh

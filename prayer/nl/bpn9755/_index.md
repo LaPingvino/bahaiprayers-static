@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9755 in Nederlands'
+author = 'Abdu'l-Bahá'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 *(Dit door Abdu’l-Baha geopenbaarde gebed wordt bij zijn graftombe gelezen. Het wordt ook voor persoonlijk gebed gebruikt.)
@@ -13,5 +14,3 @@ O Heer, mijn God! Schenk mij Uw genade om Uw geliefden te dienen, sterk mij in m
 Maak mij als stof op het pad van Uw geliefden, en vergun dat ik mijn ziel offere voor de aarde, geadeld door de voetstappen van Uw uitverkorenen op Uw pad, o Heer van Glorie in den Hoge.
 Met dit gebed roept Uw dienaar U aan bij het gloren van de dag en bij het vallen van de nacht. Vervul zijn hartsverlangen, o Heer! Verlicht zijn hart, verblijd zijn gemoed, ontsteek zijn licht, dat hij Uw Zaak en Uw dienaren mag dienen.
 Gij zijt de Schenker, de Medelijdende, de Almilddadige, de Genadige, de Barmhartige, de Meedogende.
-
--- Abdu'l-Bahá

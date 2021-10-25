@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8257 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Súriy-i-Ghusn
@@ -23,5 +24,3 @@ Say: O people! Spread not disorder on the earth nor dispute with your fellow men
 Thus have We imparted unto thee the gems of divine wisdom and utterance, that thou mayest fix thy gaze upon thy Lord and rid thyself of all attachment to the world. May His spirit rest upon thee and upon them that abide within the habitation of holiness and that are endued with true constancy in the Cause of their Lord.
 
 *19.    See Qur’án 4:51.
-
--- Bahá'u'lláh

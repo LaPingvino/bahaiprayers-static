@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2729 in Magyar'
+author = 'Abdu'l-Bahá'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *A Szellemi Tanács ülésének befejezésekor mondandó ima:
@@ -11,5 +12,3 @@ tags = ['lang-hu', 'bpn-unsorted']
 Ó, Urunk! Fordítsd arcunk irgalmas orcád felé, táplálj minket bőven áradó kegyeddel mennyei asztalodról, segíts minket legfőbb angyalaid seregeivel, és erősíts meg minket az Abhá Királyság szentjei által.
 
 Bizony, Te vagy a Nagylelkű, az Irgalmas. Te vagy a nagy bőség Birtokosa, és valóban Te vagy az Elnéző és a Kegyes.
-
--- Abdu'l-Bahá

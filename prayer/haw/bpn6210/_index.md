@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6210 in Hawaiian'
+author = 'Bahá'u'lláh'
 tags = ['lang-haw', 'bpn-unsorted']
 +++
 ##Pˆmaika'i i ke Kahua
@@ -19,5 +20,3 @@ a me ka moku,
 a me ke kula mau'u.
 na wahi i ˇolelo ˇia ai ka inoa o ke Akua,
 a ho'omaika'i ˇia Kona nani.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9300 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Tablette du Saint Nautonier
@@ -103,5 +104,3 @@ Elles se rassemblent autour d’elle ; et voyez, son corps gît dans la poussiè
 Glorifié soit notre Seigneur, le Très-Haut !
 Contemplant son état et comprenant d’un mot le récit de l’Adolescent, elles dénudent leur tête, déchirent leurs vêtements, se frappent le visage, oublient leur joie, fondent en larmes, se griffent les joues. Certes, voici l’une de ces afflictions profondes et mystérieuses.
 Glorifié soit notre Seigneur, le Très-Haut !
-
--- Bahá'u'lláh

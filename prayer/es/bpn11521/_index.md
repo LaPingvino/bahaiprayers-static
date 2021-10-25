@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11521 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Él es Dios! ¡Exaltado sea Él, el Señor de amorosa bondad y generosidad!
@@ -13,5 +14,3 @@ Permite, pues, oh mi Dios, que Tu siervo se asocie con Tus elegidos, Tus santos 
 ¡Oh mi Dios! Tu Tesoro Te ha sido devuelto. Corresponde a Tu gracia y a Tu generosidad, que han envuelto Tus dominios de la tierra y del cielo, conceder a Tu recién llegado Tus dádivas y Tus dones, y los frutos del árbol de Tu gracia. Potente eres Tú para hacer Tu voluntad. No hay más Dios que Tú, el Benévolo, el Más Generoso, el Compasivo, el Conferidor, el Perdonador, el Preciado, el Omnisciente.
 Atestiguo, oh mi Señor, que Tú has ordenado a las personas honrar a su huésped; y el alma que ha ascendido hacia Ti ha llegado verdaderamente hasta Ti y ha alcanzado Tu presencia. Trátala, pues, según Tu gracia y generosidad. Por Tu gloria, sé con certeza que Tú mismo no te abstendrás de hacer aquello que has ordenado a Tus siervos, ni excluirás a quien se ha asido a la cuerda de Tu munificencia y ha ascendido hacia la Aurora de Tu riqueza.
 No hay otro Dios más que Tú, el Único, el Indiviso, el Poderoso, el Omnisciente, el Generoso.
-
--- Bahá'u'lláh

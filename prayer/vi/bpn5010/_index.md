@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5010 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, xin cho con được giải khát bằng những làn nước ngát hương vĩnh cửu của Ngài. Lạy Đấng Hy vọng của con, xin cho con được nếm trái ngọt trên cây sinh tồn của Ngài.
@@ -20,5 +21,3 @@ Lạy Đấng Sinh động của con, xin nâng con lên bầu trời bác ái h
 
 Lạy Ngài là Đấng Nguyên thủy bản thể con và là Đấng Đối tượng Khát vọng lớn nhất của con, với những mặc khải Thánh linh Vô hình của Ngài, xin gọi con, khiến con quay về với Bản thể thấm nhuần vẻ Mỹ lệ mà Ngài muốn biểu hiện, lạy Ngài là Đấng Thượng Đế của con!
 Ngài có quyền năng làm điều Ngài muốn. Quả thật, Ngài là Đấng Chí tôn, Đấng Toàn vinh, Đấng Tối cao.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9362 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Andriamanitra Izy, Ilay Deraina, Ilay Tompon’ny Halemem-panahy sy ny fangorahana!
@@ -14,5 +15,3 @@ O Ry Tompoko, ity mahantra ity, marina tokoa, dia dodona ho eny amin’ny Fanjak
 Ry Andriamanitro ô, niverina tany Aminao ity Petrakao.  Anjaran’ny Fahasoavanao sy ny Fangorahanao, izay nihodidina ny Fanapahanao any an-danitra sy ety an-tany, ny manolotra ho an’ity vahiny vaovao tongasoa ity  ny Fanomezana sy Tolotra avy any Aminao, ary ny voan’ny Hazon’ny Fahasoavanao! Manam-pahefana hanao izay sitrakao Ianao. Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Manam-pitiavana, Ilay Be Fiantrana Indrindra, Ilay Be Fangorahana, Ilay Mpanome, Ilay Mpamela heloka, Ilay Sarobidy, Ilay Mpahalala ny zavatra rehetra.
 Vavolombelona aho, ry Tompoko ô, fa nandidy ny olona Ianao hanaja ny vahininy ary izay niakatra ho any Aminao, marina tokoa, dia tonga hatrany Aminao ary nanatratra ny Fanatrehanao. Ataovy aminy, noho izany izay mifanaraka amin’ny Fahasoavanao sy ny Fangorahanao. Noho ny Voninahitrao, mino marina aho fa tsy hanaisotra amin’izay nodidinao ho an’ny mpanomponao Ianao ary tsy handiso anjara ny Fanomezanao ho an’izay nifikitra tamin’ny rohim-pangorahanao sy nisandratra hatrany amin’ny Fiposahan’ny  Harenao.
 Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Tokana, Ilay tsy Manam-paharoa, Ilay Manampahefana, Ilay Mpahalala ny zavatra rehetra, Ilay onena olona.
-
--- Bahá'u'lláh

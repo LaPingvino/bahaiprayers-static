@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12929 in Français'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Si généreux, si plein de grâce, ô toi, Seigneur, 
@@ -19,5 +20,3 @@ Dans ta bienveillance, insuffle ton esprit en moi, Afin que ce qui ne fut jamais
 Ne considère ni notre mérite ni notre valeur, Mais seule ta grâce infinie, ô généreux Seigneur! 
  
 À ces oiseaux aux ailes brisées et au vol ralenti, Accorde des ailes nouvelles, dans ta tendre merci.
-
--- Abdu'l-Bahá

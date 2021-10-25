@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1461 in فارسی'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fa', 'bpn-unsorted']
 +++
 هُواللّه
@@ -19,5 +20,3 @@ tags = ['lang-fa', 'bpn-unsorted']
 بنگر ‌اندر‌ فضل ‌خود ای ‌ذوالعطا
 #ايــن طيور بـال و پــر اِشکسته را
 از کَرَم بـال و پری احسان نما
-
--- Abdu'l-Bahá

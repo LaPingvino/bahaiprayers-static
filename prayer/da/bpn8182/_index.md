@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8182 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Disse er, o min Gud, de dage hvor Du pålagde Dine tjenere at overholde fasten. Med den smykkede Du indledningen til Dine loves bog, åbenbaret for Dine skabninger, og afdækkede Dine buds skatkamre for øjnene af alle, der er i Din himmel, og alle, der er på Din jord. Du har forlenet hver time af disse dage med en særlig egenskab, uudgrundelig for alle undtagen Dig, hvis kundskab omfatter alle ting. Du har endvidere tildelt hver sjæl en del af denne kraft i overensstemmelse med brevet om Din lov og skrifterne om Din uomstødelige dom. Hvert blad i disse bøger og skrifter har Du ydermere tilegnet hvert folk og hver slægt på jorden.
@@ -21,5 +22,3 @@ Lyden af Dine udvalgtes klage har løftet sig op gennem Dit rige. Nogle blev ind
 Dette er timen, o min Herre, som Du har ladet overgå enhver anden time og knyttet til de mest udvalgte blandt Dine skabninger. Jeg bønfalder Dig, o min Gud, ved Dit selv og ved dem, om i løbet af dette år at forordne det, der skal ophøje Dine elskede. Bestem endvidere i dette år det, der skal få Din magts dagstjerne til at skinne klart over Din herligheds horisont og ved Din enerådende magt oplyse hele verden.
 
 Gør Din sag sejrrig, o min Herre, og ydmyg Dine fjender. Nedskriv da for os det gode i dette liv og i det kommende liv. Du er sandheden, der kender de hemmelige ting. Ingen Gud er der uden Dig, Den Evigt Tilgivende, Den Alnådige.
-
--- Bahá'u'lláh

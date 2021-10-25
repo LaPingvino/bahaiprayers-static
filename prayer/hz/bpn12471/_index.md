@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12471 in Namibia'
+author = 'Bahá'u'lláh'
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Lituleni Nye Vene Mefuta Le Ndyoyo Dange
@@ -13,5 +14,3 @@ Lituleni Nye Vene Mefuta Le Ndyoyo Dange
 
 
 	Oshinge shonale osha hoolola shimangwe nomalyenge opo omihoko dovanhu di mangululwe koupika, ndele ta itavele okutulwa modolongo oyo yenghono opo ounyuni aushe umone emanguluko lashili. Okwahepekwa molwao no kwanwa ekopi lomahepeko, opo ovanhu aveshe kombada yedu vamone ehafo tali kalelele, vo va yadifwe nenyaku. Eli olo efilonghenda lomwene weni. Omunefilongheda, Omunefilonghenda alishe, Otwaitavela tu lixupipike, avaitaveli mouli-umwe wa Kalunga, opo mufimanekwe, ndele tamuhepekwa omahepeko mahapu unene, opo mulonge ouwa tautandavele. Ye okweuya atungulule ounyuni euninge mupe, tala, aveshe ava vaitavela Kalunga ove mupula, akale apa pena ehanauko loilando!
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12865 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 ##VAVAKA FANGATAHAM-PAHASITRANANA LAVA
@@ -124,5 +125,3 @@ Ry Mpizara fahasoavana ô, miantso Anao aho, ry Mpizara fahasoavana ô! Ry Mpana
 Hohamasinina anie Ianao, Ry Andriamanitro ô! Mitalaho Aminao aho noho ny Fahalalatananao izay nanokafana midanadana ny varavaran’ny Halemem-panahinao sy ny Fahasoavanao, izay nanorenana ny Tempolin’ny Fahamasinana teo amin’ny Seza fiandrianan’ny mandrakizay; ary noho ny Famindram-ponao izay nanasanao ny zavatra nohariana rehetra ho eo amin’ny latabatry ny Hatsaram-panahinao sy ny Fanomezantsoanao; ary noho ny Indrafonao izay nahatonga anao hamaly, ao am-ponao mangina, hoe “Eny!” amin’ny anaran’ireo rehetra any an-danitra sy etỳ an-tany, amin’ny fotoana izay nanambarana ny Fiandriananao sy ny Fahalehibeazanao, vao mangirandratsy izay nanehoana ny herin’ny Fanapahanao.
 
 Ary mbola mitalaho Aminao aho, avy amin’ireo anarana soa indrindra ireo, avy amin’ireo toetra mendrika sy ambony indrindra ireo, ary avy amin’ny Fahatsiarovanao ankalazaina indrindra, ary avy amin’ny Hatsaran-tarehinao madio sy tsy misy pentina, ary avy amin’ny Hazavanao miafina ao amin’ny trano lay miafina indrindra, ary avy amin’ny Anaranao voarakotry ny akanjon’ny fangirifiriana isaky ny maraina sy hariva, mba hiarovana izay mitondra ity Takelaka voatahy ity, sy izay rehetra miventy azy, sy izay rehetra tojo azy, ary izay rehetra mandalo manodidina ny trano itehirizana azy. Sitrano avy amin’ny alalany, noho izany, izay rehetra marary, tratry ny aretina sy fadiranovana, amin’ny fangirifiriana sy ny famoizam-po rehetra, avy amin’ny fahoriana sy alahelo mahatsiravina rehetra, ary tariho avy amin’ny alalany izay rehetra maniry hiditra eo amin’ny lalan’ny Fitarihanao, sy ny lalan’ny Famelan-keloka sy ny Indrafonao. Ianao marina tokoa no ilay Mahery, ilay Tena Mahampy, ilay Mpanasitrana, ilay Mpiaro, ilay Mpanao soa, ilay Be fangorahana, ilay Tena malala-tanana, ilay Tena be famindram-po.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6119 in Chamorro'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##KONTRIBUSION I FONDO
@@ -16,5 +17,3 @@ O Yu’os-hu! Otdena giya siha i mineggai gra- sia, fiet na apas yan siguru na p
 O God, my God! Illumine the brows of Thy true lovers and support them with angelic hosts of certain triumph. Set firm their feet on Thy straight path, and out of Thine ancient bounty open before them the portals of Thy blessings; for they are expending on Thy pathway what Thou hast bestowed upon them, safeguard- ing Thy Faith, putting their trust in their remem- brance of Thee, offering up their hearts for love of Thee, and withholding not what they possess in adoration for Thy Beauty and in their search for ways to please Thee.
 O my Lord! Ordain for them a plenteous share, a destined recompense and sure reward.
 Verily, Thou art the Sustainer, the Helper, the Generous, the Bountiful, the Ever-Bestowing.
-
--- Abdu'l-Bahá

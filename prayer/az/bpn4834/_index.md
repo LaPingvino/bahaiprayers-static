@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4834 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, Ey bütün Zühurları Yaradan, bütün Mənbələrin Mənbəyi, bütün Vəhylərin Qaynağı, bütün Nurların Çeşməsi! Mən şəhadət verirəm ki, Sənin Adınla irfan səması zinətləndi, bəyan dəryası təlatümə gəldi və Sənin Əmrin bütün dinlərin ardıcılarına bəyan oldu.
@@ -9,5 +10,3 @@ Yalvarıram Sənə, məni elə zəngin eylə ki, Səndən başqa heç kəsə mö
 Bu Sənin bəndəndir, İlahi, bütün varlığı ilə Sənin kəramət üfüqünə, lütf dəryana və Sənin bəxşiş səmana dönüb. Sənin əzəmətinə və şanına, Sənin kərəminə və fəzlinə yaraşan tərzdə mənimlə rəftar eylə.
 
 Sən, həqiqətən, qüvvət və qüdrət Allahısan, Sənə dua edənlərə cavab verməyə hazırsan. Səndən başqa Allah yoxdur, Hər Şeyi Bilən, Ən Hikmətli.
-
--- Bahá'u'lláh

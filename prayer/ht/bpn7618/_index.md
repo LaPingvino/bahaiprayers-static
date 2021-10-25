@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7618 in Kreyol Ayisyen'
+author = 'Bahá'u'lláh'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##Priyè Vizitasyon pou Bahá’u’lláh e Le Báb 
@@ -16,5 +17,3 @@ Lwanj ki te soti nan pi wo Lespri Ou a, e glwa ki te klere depi Bote Ou ki pi br
 	Souvni Bondye ak lwanj Li, glwa Bondye ak gran limyè Li, rete sou Ou, O Ou menm Bèlte Li! Mwen temwen je kreyasyon an pa te janm gade yon lòt moun ki te maltrete tankou Ou menm. Chak jou nan lavi Ou, Ou te benyen nan yon oseyan mizè. Yon lè Ou te mare nan chenn; yon lòt lè, epe enmi Ou yo te menase Ou. Malgre sa, Ou te bay lòd pou lèzòm swiv preskripsyon Ou te jwenn nan men Sila a Ki Konnen Tout Bagay, Ki Genyen Tout Sajès la.
 	Mwen ofri lespri mwen kòm sakrifis pou lenjistis Ou te soufri, epi mwen ofri nanm mwen kòm ranson pou difikilte Ou te rankontre. Mwen sipliye Bondye - poutèt Ou menm e poutèt yo menm ki te reyisi gen figi yo limen avèk limyè ki te klere nan vizaj Ou, moun ki te swiv tout sa yo te jwenn lòd pou yo fè daprè lanmou yo te genyen pou Ou - mwen sipliye Bondye, pou Li retire vwal ki te separe Ou menm ak kreyati Ou yo, e pou Li ban mwen tout sa ki bon nan lemonn sa a ak nan mond k’ap vini an. An verite, Ou se Toupisan an, Sila a Ki Pi Egzalte a, Ki Tout Gloriye a, Ki Toujou Padone, Ki Genyen Plis Konpasyon.
 	O Senyè, Bondye mwen! Beni Pyebwa Diven an ak fèy li yo, ak twon li, ak branch li yo, ak tij li yo, ak boujon li yo, toutotan tit Ou ki pi bon yo ap kontinye e toutotan kalite mèveye Ou yo ap egziste. Epi, pwoteje li kont mechanste moun agresif yo e kont asanble opresè yo. An verite, Ou se Toupisan an, Sila a Ki Genyen Plis Pouvwa. O Senyè, Bondye mwen! Beni anplis, sèvitè ak sèvant Ou yo ki te rive jwenn prezans Ou. Vrèman, Ou Genyen Tout Bonte, e gras Ou p’ap janm fini. Pa gen lòt Bondye pase Ou, Sila a Ki Toujou Padone, Ki Plis Renmen Bay.
-
--- Bahá'u'lláh

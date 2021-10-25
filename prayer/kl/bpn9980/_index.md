@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9980 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Ullut makku, Guutiga-aa, tassaapput Illit kiffannut peqqusinikkut iisinnginniarnermik maleruaaffigeqqusatit. Taakku aqqutigalugit Illit Inatsisivit Atuagaata aallaqqaasernera pinnersarpat, Illit pinngortitannut saqqummersillugu, aammalu Illit Peqqusavit Erlinnartuusivii qulaarpatit kikkunnut tamanut Illit qilanniittunut tamanullu Illit nunanniittunut. Ulluni taakkunani nalunaaquttap akunneri tamaasa piginnaassutsinik immikkut ittunik pilersorsimavatit, tamanit paasissaanngitsunit taamaallaat Ilinnit, ilisimassutsivimmi suut tamaasa imarimmagit. Aammattaaq tarningit tamaasa nukiup taassuma ilaanik tuniorarsimavatit Illit Inatsisitit pillugit Allakkat aqqutigalugu aammalu Eqqartuussinerpit tunuartinneqarsinnaanngitsup Allagaatai tunaartaralugit. Atuakkat Allakkallu taakku qupperneri tamaasa Illit nunarsuarmi inuiannut kinguaariinnullu pigititassanngortissimavatit.
@@ -17,5 +18,3 @@ Isigivatit, Guutiga-aa, Illit ullunni Illit asasatit qanoq nalaataqarsimasut. Na
 Manna tassa nalunaaquttap akunnera, Naalagara-aa, Illit nalunaaquttap akunnerinut allanut tamanut qaangiisissimasat Illillu pinngortitanni toqqagaalluarnerpaanut atatissimasat. Qinnuigaakkit, Guutiga-aa, Ilikkut Namminikkut taakkunatigullu, ukiunni matumani Illit asasavit ataqqinarsisitaanissaannut peqqussusioqqullutit. Aammalu ilanngullugu aalajangeruk ukiumi matumani tamanna Illit pissaanerpit Ulluata ulloriaa Illit naalannassutsivit killingusaata qulaagut ersarissumik qinngornissaa aammalu Illit kisimiivillutit pissaaneqarsutsikkut silarsuaq tamaat qaammarsaqqullugu.
 
 Siunertat ajugaagajuttunngortiguk, Naalagara-aa, Illillu akeqqatit nikanartikkit. Taavami inuunermi maani inuunermilu aggersumi ajunngitsoq uatsinnut allaguk. Illit tassaavutit Sallusuissut, pinik isertortunik ilisimasoq. Guuteqanngilaq taamaallaalli Illit, taanna Soraajuitsumik Isumakkeerfiginnittoq, taanna Tamanik Tukkortoq.
-
--- Bahá'u'lláh

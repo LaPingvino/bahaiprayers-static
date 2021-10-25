@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7999 in Malti'
+author = 'Bahá'u'lláh'
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 ##JIEM INTERKALARI 
@@ -15,5 +16,3 @@ Inti tara, O Sid tiegħi, kif huma għarfu u stqarru kulma Inti kxift fl-iskritt
 Jien nitolboK, O Int is-Sultan tas-slaten u Dak li Titħassar lill-mirfusin, li tamar għalihom it-tajjeb ta’ din id-dinja u tad-dinja li ġejja. Ikteb għalihom, ukoll, dak li ħadd mill-ħlejjaq tiegħeK ma skopra, għoddhom ma’ dawk li daru madwareK, u li jitħarrku mat-tron tiegħeK f’kull dinja tad-dinjiet tiegħeK.
 
 Int, fis-sew, is-Setgħani, Li Jaf-Kollox, li Mgħarraf-b’Kollox.
-
--- Bahá'u'lláh

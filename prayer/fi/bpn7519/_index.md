@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7519 in Suomi'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Seuraavaa rukousta opettajien ja ystävien on tarkoitus lukea päivittäin:
@@ -7,5 +8,3 @@ Oi Sinä hyvä Herra! Ylistys olkoon Sinulle, että olet näyttänyt meille ohja
 Oi Sinä Kaikkivaltias! Olemme palvelijoitasi  ja Sinun köyhiäsi, olemme etäällä ja ikävöimme läheisyyttäsi, janoamme vettä lähteestäsi, olemme sairaita ja kaipaamme parannustasi. Kuljemme polkuasi, eikä meillä ole muuta päämäärää tai toivetta paitsi sulotuoksujesi levittäminen, niin että kaikki sielut voisivat kohottaa huudon "Oi Jumala, ohjaa meidät suoralle polulle." Avautukoot heidän silmänsä näkemään valon, ja vapautukoot he tietämättömyyden pimeydestä. Kokoontukoot he ohjauksesi valon ympärille. Saakoon jokainen osaton osuutensa. Tulkoot köyhät salaisuuksiesi uskotuiksi.
 Oi Kaikkivaltias! Katso meitä armeliain silmin. Anna meille taivaallista vahvistusta. Suo meille pyhän hengen henkäys, niin että saisimme apua palveluksessasi ja loistaisimme kirkkaiden tähtien tavoin näillä seuduilla ohjauksesi valoa.
 Totisesti Sinä olet Voimallinen, Mahtava, Viisas ja Näkevä.
-
--- Abdu'l-Bahá

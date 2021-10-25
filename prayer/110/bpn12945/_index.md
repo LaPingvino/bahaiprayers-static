@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12945 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 Glori i go long Yu, O God, long wanem Yu bin soimaut bikpela laik long ol manmeri!  O Yu, Husat i Laip na Lait bilong mipela.  Soim rot bilong Yu long ol wokmanmeri bilong Yu.  Mekim mipela i 
@@ -15,5 +16,3 @@ Glory be to Thee, O God, for Thy manifestation of love to mankind!  O Thou Who a
 O God, teach us Thy Oneness and give us a realization of Thy Unity, that we may see no one save Thee.  Thou art the Merciful and the Giver of bounty! 
  
 O God, create in the hearts of Thy beloved the fire of Thy love, that it may consume the thought of everything save Thee.  Reveal to us, O God, Thine exalted eternity - that Thou hast ever been and wilt ever be, and there is no God save Thee.  Verily, in Thee will we find comfort and strength.
-
--- Bahá'u'lláh

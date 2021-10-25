@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12147 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ##Dituliskan kepada rakan-rakan Bahá'í di Amerika Syarikat dan Kanada
@@ -10,5 +11,3 @@ Ya Tuhan, Tuhanku! Engkau melihatku terpesona dan tertarik kepada kerajaan-Mu ya
 Ya Tuhan! Perkuatkanlah belakangku, bolehkanlah daku mengabdi kepada-Mu dengan usaha tertinggi dan janganlah membiarkan daku kepada diriku sendiri, penuh kesepian dan tak berdaya di daerah-daerah ini. Ya Tuhan! Bolehkanlah daku berhubung dengan Engkau dalam kesunyianku, dan jadilah temanku di tempat yang asing ini.
 
 Sesungguhnya, Engkaulah Pengesah kepada sesiapa pun yang Engkau kehendaki dalam apa yang Engkau redai, dan sesungguhnya, Engkau Yang Maha Kuat, Yang Maha Kuasa.
-
--- Abdu'l-Bahá

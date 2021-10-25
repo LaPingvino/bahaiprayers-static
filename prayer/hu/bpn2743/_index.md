@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2743 in Magyar'
+author = 'Báb'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Isten, az ellenállhatatlan fenség Ura, a Mindeneknek Parancsoló Nevében.
@@ -9,5 +10,3 @@ Szenteltessék meg az Úr, Kinek kezében van az uralom forrása. Megteremt bár
 Mondd: az Úr ad megelégedést nekem, Ő az, Ki markában tartja a mindenség királyságát. A mennyei és földi és a kettő közötti seregeinek erejével azt védelmezi szolgái közül, akit kíván. Isten valóban őrködik mindenek fölött.
 
 Mérhetetlenül magasztos vagy, ó, Uram! Védj meg minket mindentől, ami előttünk áll és ami mögöttünk van, a fejünk fölött, a jobbunkon, a balunkon, a lábunk alatt, és minden más oldalunkon, ahol védtelenek vagyunk. Bizony, a Te minden dolgok feletti védelmed szüntelen.
-
--- Báb

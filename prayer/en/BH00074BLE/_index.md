@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BH00074BLE in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'BH00074BLE']
 +++
 Blessed is the spot, and the house,
@@ -11,5 +12,3 @@ and the sea, and the island,
 and the meadow where mention
 of God hath been made,
 and His praise glorified.
-
--- Bahá'u'lláh

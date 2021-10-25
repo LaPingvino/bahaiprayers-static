@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9985 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *“Umiartortoq Illernartoq ilinniaruk sallusuissut ilisimalerniassagassiuk aammalu eqqarsaatiginiassagassiuk Kusanassutsip Pilluaqqusaasup siunissami pisussat tamakkiisumik siulittuutigereersimammagit. Kikkut takunnittut mianersoqqusaalik." 
@@ -222,5 +223,3 @@ Unnersiutigisaagit Naalagara, Tamanit Qutsinnerusoq!
 Qanorlu issusia takugamikku Nukappissallu oqaluttuaani oqaaseq ataaseq paasigamikku niaqqutik nittarterpaat, atisatik alittorlugit, kiinartik persuttarlugu, nuannaarnertik puigorlugu, qullitik nakkaatillugit, assamminnik imminnut ulussamikkut isattarlutik, tamannalu ilumut tassaavoq misilinneqaatit paasissaanngitsut annilaanganaqisullu ilaat
 
 Unnersiutigisaagit Naalagara, Tamanit Qutsinnerpaaq!
-
--- Bahá'u'lláh

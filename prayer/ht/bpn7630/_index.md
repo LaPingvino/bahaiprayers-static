@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7630 in Kreyol Ayisyen'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Nenpòt moun ki kite lakay li pou ale nenpòt kote nan yon vwayaj ansèyman, se pou li resite priyè sa a jou e nwit pandan li nan peyi etranje yo. 
@@ -7,5 +8,3 @@ O Bondye, Bondye mwen! Ou wè jan mwen pèdi nan afeksyon mwen pou Ou, jan mwen 
 O Senyè! Ranfòse do mwen, pèmèt mwen sèvi Ou avèk pi gran efò a, pa lage mwen sou pwòp responsabilite mwen, pou kont mwen, san okenn èd, nan rejyon sa yo. 
 O Senyè! Pèmèt mwen kominike avèk Ou lè mwen santi m’ pou kont mwen, epi vin yon konpayon pou mwen nan peyi etranje sa yo. 
 An verite, se Ou menm Ki bay sipò ak nenpòt moun Ou chwazi nan tout sa Ou vle, e, an verite, se Ou menm Ki Gen Tout Pouvwa, Ki Toupisan an.
-
--- Abdu'l-Bahá

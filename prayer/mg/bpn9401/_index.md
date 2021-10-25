@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9401 in Malagasy'
+author = 'Abdu'l-Bahá'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 O Ianao, Andriamanitry ny famindrampo ô! Ianao Ilay Mahefa sy Mahery! Ô Ianao, Ray Mpihaino tena be fitiavana! Ireto mpanomponao ireto dia tafavory izao, mitodika any Aminao, mitalaho eo an-Tokonanao, maniry ny Fahasoavana tsy mety lany avy amin’ny Fanomezan-tokinao lehibe. Tsy manana tanjona hafa ankoatra ny Fahafinaretanao izy ireo. Tsy manana fikasana hafa afa-tsy ny fanompoana ho an’ny tontolon’ny zanak’olombelona.
@@ -9,5 +10,3 @@ Ry Ray tsara fanahy ô! Omeo anay ny Tsodranonao. Aza jerena ny fahadisoanay. Al
 Malemy izahay, mahery Ianao. Mahantra izahay, manankarena Ianao. Marary izahay, Ianao no Mpanasitrana.  Sahirana izahay, Ianao ilay malala-tanana indrindra. 
 Ry Andriamanitro ô! Arotsahy aminay ny Fitahianao.
 Ianao ilay Mahery. Ianao Ilay Mpanome. Ianao Ilay Mpanome soa.
-
--- Abdu'l-Bahá

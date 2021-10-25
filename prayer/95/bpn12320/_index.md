@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12320 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *Ne fakaasi ki Bahá’ís o Canada  
@@ -9,5 +10,3 @@ ka i lakau ola o Tou tokotasi, kae ko la ona mata e maina mai i te kiloga ki te 
 O te Aliki! Faka-matalatala a outou laulaufaiva ke faipati ne latou a Koe i vasia o Au tino, fai aka latou ke faipati ou Tavaeega i loto i Tou afloa mo te alofa atafai, feasoasoani a latou mo lukuuga o Au agelu, faka-maalosi a olotou fuaitino i Tau galeuga, kae fai latou pela me ne fakailoga o Tau takitaki i loto i Au mea-ola faiite.  
   
 E tonu, a Koe ko te Maalosi-Katoatoa, ko te Tafasili i te Maluga, ko te Fakamagalo-Katoatoa, ko te Alofa-Kaimalie Katoatoa.
-
--- Abdu'l-Bahá

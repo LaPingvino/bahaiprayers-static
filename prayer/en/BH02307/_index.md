@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BH02307 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'BH02307']
 +++
 ##Tablet of Visitation
@@ -19,5 +20,3 @@ The remembrance of God and His praise, and the glory of God and His splendor, re
 May my spirit be a sacrifice to the wrongs Thou didst suffer, and my soul be a ransom for the adversities Thou didst sustain. I beseech God, by Thee and by them whose faces have been illumined with the splendors of the light of Thy countenance, and who, for love of Thee, have observed all whereunto they were bidden, to remove the veils that have come in between Thee and Thy creatures, and to supply me with the good of this world and the world to come. Thou art, in truth, the Almighty, the Most Exalted, the All-Glorious, the Ever-Forgiving, the Most Compassionate.
 
 Bless Thou, O Lord my God, the Divine Lote-Tree and its leaves, and its boughs, and its branches, and its stems, and its offshoots, as long as Thy most excellent titles will endure and Thy most august attributes will last. Protect it, then, from the mischief of the aggressor and the hosts of tyranny. Thou art, in truth, the Almighty, the Most Powerful. Bless Thou, also, O Lord my God, Thy servants and Thy handmaidens who have attained unto Thee. Thou, truly, art the All-Bountiful, Whose grace is infinite. No God is there save Thee, the Ever-Forgiving, the Most Generous.
-
--- Bahá'u'lláh

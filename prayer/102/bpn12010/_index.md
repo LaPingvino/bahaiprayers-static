@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12010 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Bismi-el-Agzam!
@@ -9,5 +10,3 @@ Bismi-el-Agzam!
     Barhudaýa! Bular nebise we höwese däl-de, Kitabyňda ýollan buýruklaryňa uýan bendeleriňdir. Olar Seniň permanlaryňa baş egendirler hem Senden alan kuwwatlary bilen, Seniň Kitabyňy ellerine alyp, Seniň buýruklaryňy ýerine ýetirýärler.
     Ýa Reb! Olara näme ýazgyt eden bolsaň, boýun alýandyklaryny görýänsiň.
     Eý meniň Taňrym! Öz Merhemetli Eliň bilen olara Bakyýet çeşmesiniň suwuny içir. Olara didar deňzinde gark bolanlaryň hem wysal şerabyndan içenleriň sogabyny ýaz. Olary Seniň daşyňda aýlanýanlardan we bütin älemleriňde Seniň Tagtyň daşynda towaf edýänlerden eýle. Dogrudanam Sensiň Başarjaň, Dana we Ägä.
-
--- Bahá'u'lláh

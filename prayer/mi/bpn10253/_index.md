@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10253 in Māori'
+author = 'Bahá'u'lláh'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 *‘’Ko ēnei karakia o ia ata me taki, taea noatia ētahi atu mea motuhake, pērā me te Karakia mō te Whakaora, Te Papatuhi o A ḥ mad, nā Bahá’u’lláh i whatu ki tētahi mana motuhake nō reira me tautoko me whakatātaki e te hunga whakapono ki te whakapono me te whakamanawa e kore e pātaitia, mā reira rātou e uru ai kia tata kē te hono ki Te Atua, me tā rātou here i a rātou anō ki Āna Ture me Āna whakaritenga.” 
@@ -41,5 +42,3 @@ Kia āta ākona tēnei papatuhi, e Aḥmad. Kia tātakina ia kia kaua hoki koe e
 Nā Te Atua! Ki te pānuitia tēnei e tētahi kua pēhia, kua pāmamaetia rānei me te pono mārika, ko tā Te Atua he whakakore i tōna pāmamae, he whakatau i ōna pōraruraru, he tango i ōna pēpēhi. 
 
 Tūturu, ko Ia te Tohu Atawhai, te Mākoha. Korōria ki Te Atua, te Ariki o ngā ao katoa.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8152 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 *(Bønnen for den døde skal fremsiges for bahá’íer over femten år.)
@@ -25,5 +26,3 @@ Vi retter i sandhed alle vor tak til Gud.
 Vi er i sandhed alle tålmodige over for Gud.
 
 *(Hvis den afdøde er en kvinde skal man sige: Dette er Din tjenerinde og datter af Din tjenerinde...)
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7334 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Ci, którzy rozprzestrzeniają Boskie wonie, powinni recytować każdego ranka następującą modlitwę:
@@ -11,5 +12,3 @@ O Panie! Nie mam innej pomocy oprócz Ciebie, innego schronienia poza Tobą ani 
 O mój Panie! Spraw, abym stał się niezależny od wszystkiego oprócz Ciebie, trzymał się mocno rąbka Twojej łaskawości, abym całkowicie oddał się Twojej Wierze, był stały i umocniony w Twojej miłości i zachowywał wszystko to, coś nakazał w swojej Księdze.
    
 Zaprawdę, Tyś jest Potężnym, Mocnym, Wszechmogącym.
-
--- Abdu'l-Bahá

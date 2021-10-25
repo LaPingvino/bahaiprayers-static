@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12319 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *Ne fakaasi ki Bahá’ís o te Western States  A te talosaga tenei ke faitau i aso katoa:  
@@ -8,5 +9,3 @@ O te Atua! O te Atua!  Mea nei se manu eva e fati a tena kapakau a ko tena makag
  
 O te Aliki!  Au e tokotasi, seai se tino, kae faka-alofa. Au e seai se lago na ko Koe, e seai se feasoasoani na ko Koe kae e seai foki e faka-tummau ne ia na ko Koe.  Fakamanuia mai au i Tau galuega, feasoasoani mai au mo lukuuga o Au agelu, fai au ke 
 manumaalo i te faka-masikiiga o Tau Muna kae faka-mafai aka au ke faipati atu ki Tou atamai I vasia o Au mea ola faiite.  E tonu, a Koe ko te feasoasoani o latou vaaivai mo te tausi o latou foliki, kae e tonu ia Koe ko te Maalosi, ko te Mafi, mo te Se-MauaoTaofigia.
-
--- Abdu'l-Bahá

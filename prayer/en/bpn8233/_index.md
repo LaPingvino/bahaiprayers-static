@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8233 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Most Holy, the Most Mighty, the Most Exalted.
@@ -15,5 +16,3 @@ Thou art the One, O my God, to Whom every name is abashed to be related, and in 
 O Lord of all being and Educator of all things visible and invisible! Grant us ears that are pure, hearts that are sanctified, and eyes that see, so that we may discover the sweetness of Thine enthralling utterance, may fix our gaze upon Thy supreme horizon, and may come to know whatever hath been sent down through Thy bounty, O Thou Who art the King of Names! Kindle then the fire of Thy love in Thy lands, that the hearts of Thy creatures may be set ablaze thereby, that they may turn towards Thee, may recognize Thy unity and acknowledge Thy oneness. O Lord of all names! Rend asunder before their faces the veils of glory, and make known unto them the excellence of this Day which hath been adorned with Thy Name and illumined with the light of Thy Countenance. Thou, verily, art He Whom the good works of the people can never exalt nor their evil deeds deter, Whom the ascendancy of the rulers cannot humble nor the power of the mighty vanquish. Thou doest through Thy sovereignty whatsoever Thou willest. No God is there but Thee, the All-Powerful, the Most Exalted, the All-Knowing, the All-Wise.
 Send down, then, upon Thy loved ones, O my God, from the heaven of Thy bounty that which will cause them to fix their gaze upon Thee and to act in accordance with Thy will and behest. Ordain for them, then, what will profit them and preserve them, what will draw them nigh and set them free. Verily Thou art their Lord, their Creator, and their Helper. No God is there but Thee, the Ever-Forgiving, the Most Generous.
 I beseech Thee, moreover, O my God, to unite the hearts of Thy loved ones and to join them together in harmony and fellowship in Thy Cause, that naught may appear from them that would ill beseem them in Thy days. Thou, verily, art the All-Powerful, the Most Exalted, the Most High, the Most Great. Praise be to God, the Lord of the worlds!
-
--- Bahá'u'lláh

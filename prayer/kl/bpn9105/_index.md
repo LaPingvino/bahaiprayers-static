@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9105 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guutiuvoq, nersorneqangaarli asannilluni isumassuinerup tukkussutsillu Naalagaa!
@@ -23,5 +24,3 @@ Guutiga-aa, Paareqqusat Ilinnut utertinneqarsimavoq. Saammaannerit Tukkussutsill
 Uppernarsarpara, Naalagara-aa, inuit pisussaaffilersimagakkit pulaartuminnik pingaartitsissasut, Ilinnullu qullarsimasoq ilumut Ilinnut apuussimavoq Qanissusernullu anngussimalluni. Taamaammat Saammaannerit Tukkussutsillu aqqutigalugit iliuuseqarfiguuk! Naalannassutsit pillugu, qularnanga ilisimavara Kiffannut peqqussutigisimasatit Nammineq Ilinniit tunuarterutigiunnanngikkitit Tukkussutsivillu kiluanut najummatsersimasut Pissuujussutsivillu Qaammalerfianut qullarsimasut piiaaffigiunnanngikkitit.
 
 Allamik Illiunngitsumik Guuteqanngilaq, Ataasiusoq, Taannatuaasoq, Pissaaneqartoq, Tamanik Ilisimasoq Tukkortorlu.
-
--- Bahá'u'lláh

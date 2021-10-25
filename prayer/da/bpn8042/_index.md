@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8042 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Han er Gud, ophøjet er Han, kærlig omsorgs og gavmildheds Herre!
@@ -23,5 +24,3 @@ O min Gud, Din betroede gave er vendt tilbage til Dig. Det sømmer sig for Din n
 Jeg bevidner, o min Herre, at Du har pålagt mennesker at ære deres gæst, og den, der er steget op til Dig, er sandelig nået til Dig og har opnået Din nærværelse. Handl da med ham i overensstemmelse med Din nåde og gavmildhed! Ved Din herlighed, jeg ved med sikkerhed, at Du ikke vil holde Dig tilbage fra det, som Du har påbudt Dine tjenere, og ej heller vil Du afvise den, der har holdt fast ved Din gavmildheds reb og er steget op til Din rigdoms Daggry.
 
 Der er ingen anden Gud end Dig, Den Ene, Den Eneste, Den Magtfulde, Den Alvidende, Den Gavmilde.
-
--- Bahá'u'lláh

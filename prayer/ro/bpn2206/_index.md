@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2206 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slăvit fie numele Tău, o, Doamne
@@ -8,5 +9,3 @@ Dumnezeul meu! Priveşte ochiul meu ce aşteaptă să zăbovească asupra minuni
 Nu-i alunga, Te implor, o, Domnul meu, pe cei care Te-au căutat, şi nu-i întoarce înapoi pe cei care şi-au îndreptat paşii către Tine, şi nu-i lipsi de bunăvoinţa Ta pe toţi cei care Te iubesc. Tu eşti Acela, o, Domnul meu, care S-a numit pe Sine Însuşi Dumnezeul milostivirii, Cel Preaîndurător. Ai milă, atunci, de slujitoatea Ta care a căutat adăpostul Tău şi şi-a întors faţa spre Tine.
 
 Tu eşti, cu adevărat, Cel ce veşnic Iartă, Cel Preamilostiv.
-
--- Bahá'u'lláh

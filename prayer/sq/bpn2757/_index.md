@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2757 in Shqip'
+author = 'Bahá'u'lláh'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Të thuhet çdo ditë në mëngjes, në mesditë e në mbrëmje
@@ -27,5 +28,3 @@ Pastaj të ulet e të thotë:
 Unë dëshmoj për unitetin Tënd e për njëshmërinë Tënde, dëshmoj se Ti je Perëndia dhe se nuk ka Perëndi tjetër veç Teje. Ti, me të vërtetë, ke reveluar Kauzën, ke përmbushur Besëlidhjen Tënde dhe ua ke hapur gjerësisht portën e mirësisë Sate të gjithë atyre që janë në qiell e mbi tokë. Bekimi e paqja, përshëndetja e lavdia zbritshin mbi të dashurit e Tu, mbi ata që ndryshimet e rastet e botës nuk i kanë penguar ta kthejnë fytyrën ndaj Teje dhe që kanë dhënë gjithçka kishin, me shpresën për të fituar atë që është në Ty. Ti je, me të vërtetë, Gjithmonëfalësi, Bujariploti.
 
 *(Në rast se ndonjëri, në vend të vargut të gjatë, preferon të recitojë këto fjalë: "Perëndia dëshmon se nuk ka Perëndi tjetër veç Tij, Ndihmës në Rrezik, të Vetëqenëshmit", kjo do të ishte e mjaftueshme. Dhe po kështu, do të ishte e mjaftueshme që ai, ndërsa qëndron ndenjur, të recitonte këto fjalë: "Unë dëshmoj për unitetin Tënd e për njëshmërinë Tënde, dëshmoj se Ti je Perëndia dhe se nuk ka Perëndi tjetër veç Teje.")
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12200 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ##LOH ZIARAH
@@ -23,5 +24,3 @@ Semoga rohku menjadi korban bagi perlakuan-perlakuan tak adil yang Engkau derita
 Berkatilah, Ya Tuhan, Tuhanku, Sidratul Muntaha dan daun-daun-Nya dan ranting-ranting-Nya dan cabang-cabang-Nya, dan batang-batang-Nya, dan tunas-tunas-Nya, selagi berlangsungnya gelaran-Mu yang maha luhur dan sifat-sifat-Mu yang tertinggi. Maka, lindungilah semuanya itu daripada kekejaman para penyerang dan bala tentera kezaliman. Sesungguhnya, Engkaulah Yang Maha Besar, Yang Maha Kuasa.
 
 Berkatilah lagi, Ya Tuhan, Tuhanku, hamba-hamba-Mu dan dayang-dayang-Mu yang telah mencapai-Mu. Sesungguhnya, Engkau adalah Yang Maha Dermawan, Yang Kurnia-Nya tak terbatas. Tiada Tuhan melainkan Engkau, Yang Maha Pengampun, Yang Maha Dermawan.
-
--- Bahá'u'lláh

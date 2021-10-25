@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12197 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ##LOH RIḌVÁN
@@ -17,5 +18,3 @@ Tariklah kalbu-kalbu manusia, melalui panggilan Dia, Kekasih yang tunggal. Katak
 Sang Kekasih telah datang. Pada tangan kanan-Nya terletak Wain nama-Nya yang tertutup rapat. Gembiralah orang yang menghadap kepada-Nya dan meminum sepuas-puasnya dan berseru: "Pujian bagi-Mu, Ya Pewahyu tanda-tanda Tuhan!" Demi keadilan Yang Maha Kuasa! Setiap sesuatu yang tersembunyi telah dinyatakan melalui kuasa kebenaran. Semua anugerah Tuhan telah diturunkan sebagai tanda rahmat-Nya. Air kehidupan yang kekal telah dipersembahkan sepenuhnya kepada manusia. Setiap cawan telah ditawarkan oleh Tangan Sang Kekasih. Dekatilahnya dan janganlah teragak-agak, meskipun untuk sesaat.
 
 Bergembiralah dengan kebahagiaan yang amat, wahai umat Bahá, apabila engkau mengingati Hari Kegembiraan yang tertinggi, pada Hari Lidah Zaman Purba telah berbicara, ketika Dia keluar dari Rumah-Nya, menuju ke Tempat dari mana Dia mencurahkan kegemilangan nama-Nya, Yang Maha Pengasih pada seluruh ciptaan. Tuhan adalah saksi Kami.
-
--- Bahá'u'lláh

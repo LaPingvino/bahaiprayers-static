@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5834 in Català'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Qualsevol qui viatgi per diferents llocs per ensenyar, que llegeixi amb atenció aquesta súplica a la muntanya,el desert, la terra i la mar.
@@ -10,5 +11,3 @@ Oh Senyor! Apiada’t de la meva debilitat i enforteix-me amb el Teu poder. Oh S
 
 Oh Senyor! Si l’hàlit de l’Esperit Sant confirmés a la més dèbil de les criatures, aconseguiria tot allò al què aspirés i posseiria qualsevol cosa que desitgés. Certament, Tu has ajudat als teus serfs en el passat i, encara sent ells els més dèbils de les Teves criatures, els més humils dels Teus serfs i els més insignificants dels què viuen sobre la terra, mitjançant la Teva sanció i potència van prevaldre sobre els més gloriosos del Teu poble i els més nobles de la humanitat. Mentre que abans eren com arnes, es transformaren en falcons reials; mentre que abans eren com rierols, es convertiren en mars, mitjançant la Teva gràcia i misericòrdia. Es convertiren, pel Teu grandíssim favor, en estrelles que brillen a l’horitzó de guia, aucells que canten als roserars de la immortalitat, lleons què rugeixen a les selves del coneixement i saviesa, i balenes que neden als oceans de la vida.
 Veritablement Tu ets el Clement, el Potent, el Poderós i el Més Misericordiós dels misericordiosos.
-
--- Abdu'l-Bahá

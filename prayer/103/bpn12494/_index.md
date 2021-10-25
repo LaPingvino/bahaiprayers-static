@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12494 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O Thou Whose nearness is my wish, Whose presence is my hope,…
@@ -11,5 +12,3 @@ O Lau Afio e Ona le fa’alatalata mai o lo’u mo’omo’oga, e Ona le fa’at
 Lo’u Ali’i e, o a’u le tagata ua fa’agaloina mea uma vaganā Oe, ma liliu atu i le Puna-Aso o Lou alofa tunoa, ma ua fa’atōina mea uma vaganā Oe lava i le fa’amoemoe e fia fa’alatalata atu i Lou lotoā. Silasila mai ia te a’u, a o pupula a’e o’u mata i le Nofoali’i o lo’o susulu i pupula o le malamalama o Ou Fofoga. La’u Pele e! ‘auina mai i o’u luga le mea o le a fa’amalosia ai a’u e lotomau i Lau Fuata’iga, ina ia lē mafai ai e masalosaloga a tagata amio leaga ona taofia o a’u mai le liliu atu ia te Oe.
 
 E moni, o Lau Afio o le Atua o le Mana, le Fesoasoani i Puapuagā, le Mamalu-uma, o le Malosi-uma.
-
--- Bahá'u'lláh

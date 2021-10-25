@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4938 in Vanuatu'
+author = 'Bahá'u'lláh'
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O Masta we Yu kaen tumas! Yu Yu bin krieitem olgeta pipol blong wol aot long semfala stamba nomo. Yu Yu bin talem se evri pipol oli blong wan famle nomo. Long fored blong Yu, we i tabu tumas, mifala i ol wokman blong Yu nomo.  Ol pipol blong wol i haed andanit long tenet blong Yu nomo. Ol pipol oli kam tugeta raon long Teibol blong ol Blesing blong Yu.   Mo evri pipol i kasem laet tru long laet blong wanem Yu Yu givim.
@@ -10,5 +11,3 @@ O God! Plis Yu stanemap Bigfala Pis.
 O God!  Plis yu mekem se hart blong ol pipol i joen tugeta long wan strong fasin we i olsem simen.
 O God!  O Papa we Yu kaen tumas long mifala!  Plis Yu mekem se hart blong mifala i kasem glad filing tru long ol swit senta blong lav blong Yu.  Plis Yu mekem se ae blong mifala i saen tru long Laet blong Fasin we Yu Gaedem mifala.  Plis yu mekem se sorae blong mifala i kasem glad filing tru long ol naesfala singsing blong ol Wod blong Yu.  Mo plis yu givim proteksen long mifala insaed long Strong Haos blong Blesing blong Yu.
 Yu Yu gat bigfala paoa, Yu Yu fogivim ol man, mo Yu Yu no lukluk long ol mestek we olgeta pipol blong wol oli mekem.
-
--- Bahá'u'lláh

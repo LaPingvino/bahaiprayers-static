@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2244 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Tu a Cărui pomenire e desfătarea sufletelor tuturor celor care tânjesc după Tine, al Cărui nume e încântarea inimilor tuturor celor ce sunt cu totul devotaţi voinţei Tale, a Cărui laudă e încălzită la sânul celor ce s-au apropiat de curtea Ta, a Cărui faţă e dorinţa arzătoare a tuturor celor ce Ţi-au recunoscut adevărul, a Cărui încercare e vindecarea bolilor celor ce-au îmbrăţişat Cauza Ta, a Cărui năpastă e aspiraţia cea mai înaltă a celor ce s-au scuturat de orice ataşament în afară de Tine!
@@ -11,5 +12,3 @@ Acela care cu adevărat e înzestrat cu înţelegere e cel ce-şi recunoaşte ne
 Departe, nemăsurat de departe eşti Tu, înălţat deasupra tuturor lucrurilor, o, Tu Care eşti Regele Regilor! Te implor, prin Tine Însuţi şi prin Cei Ce sunt Manifestările Cauzei Tale şi Aurorele autorităţii Tale, să aşterni pentru noi ceea ce ai aşternut pentru aleşii Tăi. Nu îndepărta de la noi ceea ce ai hotărât pentru cei iubiţi de Tine, care, de îndată ce chemarea Ta i-a ajuns, au grăbit spre Tine, iar când splendorile luminii chipului Tău au fost revărsate asupra lor, pe dată s-au prosternat în adorare în faţa Ta.
 
 Noi suntem slujitorii Tăi, o, Domnul meu, şi în stăpânirea puterii Tale. Dacă ne pedepseşti cu pedeapsa abătută asupra generaţiilor de dinainte şi de după, verdictul Tău va fi cu siguranţă drept şi fapta Ta demnă de laudă. Tu ai puterea de a face tot ce ceea ce-Ţi place. Nu este alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Atotslăvit, Ajutorul în Primejdie, Cel de Sine Stătător.
-
--- Bahá'u'lláh

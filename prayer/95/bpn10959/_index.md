@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10959 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Aliki, toku Puipui, toku Fesoasoani i Mea Faigata!  E maulalo a taku akai fakamolemole kia Koe, e masaki kae vau kia Koe ke fakalei a toku masaki, e tagi akai atu kia Koe mo toku laulaufaiva, toku agaaga ola, mo toku mafaufau:
@@ -11,5 +12,3 @@ O toku Aliki, toku Puipui, toku Fesoasoani i Mea Faigata!  E maulalo a taku akai
      E tonu, mo se fiafia lasi, mo se loto mo te agaaga ola, ko mafai i ei ne latou masei kia Koe konei o fakagata a te taua mo te lei o tino i fenua katoa.  E lavea ne Koe a latou, O toku Aliki, e fanoanoa i loimata o Au tino, fakamasasau a te fanoanoa o Au fanau, fanoanoa tasi mo tagata, maua ne te tiagaina ona ko fakalavelave lasi e pokotia i ei e tino katoa o te lalolagi katoa.
      O toku Aliki, fakaeva latou mo te manumaalo ko te mea ke mafai ne latou o lele ki luga i te faolataga, faka-maalosi a olotou fuaitino i te galuega ki Au tino, mo olotou tua i te tavini i te Mataloa o te Mana.
      E tonu ia Koe ko te Lima-Mafola, e tonu ia Koe ko te Alofa-Kaimalie!  E seai aka se Atua na ko Koe, ko te Gali, ko te Onosai, ko te Favavau o Aso!
-
--- Abdu'l-Bahá

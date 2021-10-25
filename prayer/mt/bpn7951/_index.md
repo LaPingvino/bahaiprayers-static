@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7951 in Malti'
+author = 'Báb'
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 O Sid! Jien niġi għandeK għall-kenn, u mmexxi qalbi lejn l-egħliem tiegħeK kollha.
@@ -11,5 +12,3 @@ Agħtini mela biżżejjed l-għajnuna tiegħeK sabiex inkun indipendenti minn ko
 Agħtini sehemi, O Sid, kif jogħġob lileK, u ħallini nkun kuntent b’dak kollu li amart għalija.
 
 Tiegħek id-dritt assolut li tamar.
-
--- Báb

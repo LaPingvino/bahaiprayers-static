@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10112 in Slovensky'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Táto modlitba sa číta na záver stretnutia duchovnej rady.
@@ -7,5 +8,3 @@ Táto modlitba sa číta na záver stretnutia duchovnej rady.
 Ó náš Pane! Sme slabí, a Ty si Mocný a Silný. Sme bez života, a Ty si veľkým Duchom, ktorý dáva život. Sme núdzni, a Ty si Živiteľ, Mocný.
 Ó náš Pane! Obráť naše tváre k Svojej milosrdnej tvári a zo Svojho nebeského stolu nás nakŕm hojnou milosťou. Dopomáhaj nám zástupmi Svojich vyvolených anjelov a uisti nás pomocou svätých duší z Kráľovstva Abhá.
 Vskutku, Ty si Štedrý, Milosrdný. Ty si Vlastníkom veľkej štedrosti a vskutku, Ty si Zhovievavý a Milostivý.
-
--- Abdu'l-Bahá

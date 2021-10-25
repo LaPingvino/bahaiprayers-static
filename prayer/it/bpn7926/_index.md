@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7926 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 ##TAVOLA DI AḤMAD
@@ -25,5 +26,3 @@ Sii certo entro te stesso che in verità chi si allontana da questa Beltà si è
 Impara bene questa Tavola, o Aḥmad! Intonala durante le tue giornate e non te ne astenere. Poiché in verità Dio ha disposto, per colui che l’intona, la ricompensa di cento màrtiri e un benefizio da entrambi i mondi. Questi favori Noi abbiamo concesso a te come una grazia da parte Nostra e una misericordia dalla Nostra presenza, affinché tu possa essere fra coloro che sono grati. 
 Nel nome di Dio! Se uno che è nell’affli-zione o nel dolore leggerà questa Tavola con assoluta sincerità, Dio dissiperà la sua tristezza, risolverà le sue difficoltà e allontanerà le sue afflizioni. 
 In verità, Egli è il Misericordioso, il Compassionevole. Lode sia a Dio, il Signore di tutti i mondi.
-
--- Bahá'u'lláh

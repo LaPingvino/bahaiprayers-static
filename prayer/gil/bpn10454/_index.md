@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10454 in Kiribati'
+author = 'Bahá'u'lláh'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 #Te Tabureti Nakon Ahmad
@@ -24,5 +25,3 @@ Ko na ataia i nanom bwa n te koaua, teuare e rairaki nako man te Tamaroa aio e a
 Kamatenanoa raoi Te Bába ni Koroboki aio, Ahmad, Katakeia i nanon am bong nako ao tai tauraroako mai iai. Bwa n te koaua, E a tia te Atua ni motika kaniwangan are e katakenna n anaia maritire aika tebubua ao te beku n aonnaba ake uoua. Ti a tia n anganiko bwain akoi aikai bwa te bwai n tituaraoi ae te tibwa mai Iroura ao te ataataiaomata man ae iai Ngaira bwa ko aonga n raoniia ake a nano ni karabwarabwa.
 N aran te Atua! Ngkana iai temanna are e rekenako n te rainanoanga ke te rangi n nanokawaki ao e wareka Te Bába ni Koroboki aio ma ni kabanea nanona iai, ao te Atua E na bon kamaenakoa nanokaawakina ma n nikoi ana kangaanga ao ni kamwaawai rainanoanga.
 Bon Ngaia, ni koaua, te Ataataiaomata ao te Nanoanga. E na neboaki te Atua ae te Uea i Aonaaba ni kabane.
-
--- Bahá'u'lláh

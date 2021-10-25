@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5025 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Kinh Bản Carmel
@@ -16,5 +17,3 @@ Hỡi Carmel, hãy gọi Sion, và báo tin mừng này: “Đấng ẩn mình �
 Hãy lưu tâm kẻo ngươi lại chần chừ hoặc dừng bước. Hãy nhanh chân tiến tới và đi quanh Thành phố của Thượng Đế đã từ trời hạ xuống, đó là Ngôi đền Kaaba thiên thượng mà những người xúm quanh để thờ phượng là những người được Thượng Đế yêu chuộng, những người có lòng trong sạch, và tập đoàn những thiên thần cao cả nhất. Ôi, Ta khao khát biết bao được thông báo cho mọi nơi trên mặt đất và cho mỗi thành phố của địa cầu, tin mừng về Mặc khải này - một Mặc khải mà trái tim của Sinai đã bị thu hút, và nhân danh Mặc khải ấy mà Ngọn Lửa trong Bụi gai đã kêu gọi: “Các Vương quốc ở trên trời và dưới đất đều thuộc về Thượng Đế, Đấng Vua của các vua”. Quả thật, đây là Ngày mà đất và biển đều hân hoan với sự thông báo này, là Ngày vì đó Thượng Đế đã đặt để bao điều tiên định cho sự mặc khải, bởi lượng từ bi vượt khỏi khả năng hiểu biết của tâm hồn và trí óc con người. Không bao lâu nữa Thượng Đế sẽ dong Thuyền Giải cứu trên ngươi và sẽ biểu hiện những con dân của Đấng Baha như đã được nêu trong Thánh Kinh về các Danh.
 
 Cao cả thay Đấng Thượng Đế của cả nhân loại, mà mỗi khi Danh Ngài được nhắc đến thì tất cả các nguyên tử của trái đất đều rung động, và Ngọn Lưỡi Vĩ đại đã cảm động để tiết lộ điều từng phong kín trong thần thức của Ngài và cất giấu trong kho báu quyền lực của Ngài. Quả thực, Ngài là Đấng Cai quản tất cả những ai ở các cõi trời và tất cả những ai ở trên trái đất, bởi uy lực của Danh Ngài, Đấng Hùng mạnh, Đấng Toàn năng, Đấng Tối cao.
-
--- Bahá'u'lláh

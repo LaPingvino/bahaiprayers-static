@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5042 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Ridvan
@@ -14,5 +15,3 @@ Hỡi Ngòi bút, trong Ngày này ngươi có thể tìm thấy ai khác ngoài
 Đây là Ngày không ai còn thấy gì ngoài hào quang Ánh sáng chiếu rọi từ Thánh nhan của Thượng Đế, Đấng Từ huệ, Đấng Ban cho Dồi dào Nhất. Quả thật, Chúng Ta đã khiến mọi linh hồn tắt lịm bởi quyền tối thượng toàn lực và toàn thắng của Ta. Rồi Chúng Ta làm xuất hiện một tạo vật mới, như là dấu hiệu hồng ân của Ta đối với loài người. Quả thật, Ta là Đấng Đại lượng, Đấng Cố cựu của các Thời đại...
 
 *Trích Thánh thư Đức Baha’u’llah, trang 27
-
--- Bahá'u'lláh

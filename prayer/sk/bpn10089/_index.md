@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10089 in Slovensky'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Zjavené pre bahájov Kanady
@@ -7,5 +8,3 @@ Zjavené pre bahájov Kanady
 Ó Pane! Nemám pomocníka okrem Teba, žiadne útočisko okrem Teba a žiadnu oporu okrem Teba. Pomôž mi prostredníctvom Svojich anjelov rozptyľovať Tvoju svätú vôňu a medzi najvyberanejšími spomedzi Tvojho ľudu doďaleka šíriť Tvoje učenie.
 Ó môj Pane! Umožni mi byť odpútaný od všetkého okrem Teba, pevne sa držať lemu Tvojej štedrosti, byť úplne oddaný Tvojej viere, zostať pevný a verný v láske k Tebe a dodržiavať to, čo si vo Svojej knihe predpísal.
 Vskutku, Ty si Silný, Mocný, Všemocný.
-
--- Abdu'l-Bahá

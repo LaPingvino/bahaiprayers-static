@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5081 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Viếng Nơi Thánh
@@ -13,5 +14,3 @@ Lạy Ngài là Đấng Mỹ lệ! Nguyện xin sự nhắc nhở và sự chúc
 Nguyện xin tinh thần con được hiến dâng làm vật hy sinh cho những khổ đau Ngài đã chịu đựng, và linh hồn con làm của chuộc cho những tai ương Ngài đã nếm trải. Bởi Ngài và bởi những người mặt đã ngời sáng bởi vẻ huy hoàng rực rỡ của Thánh nhan Ngài và những người vì tình yêu đối với Ngài đã tuân giữ mọi điều được truyền phán, con cầu xin Thượng Đế vén lên những bức màn đã ngăn cách Ngài với tạo vật Ngài, và xin ban cho con những ân huệ trong đời này và đời sau. Quả thật, Ngài là Đấng Toàn năng, Đấng Tối cao, Đấng Đại Vinh quang, Đấng Tha thứ mãi mãi, Đấng Đại Từ bi.
 Lạy Ngài là Đấng Thượng Đế của con, xin ban phúc cho Cây Thiêng liêng, cho những lá, những cành, những nhánh, những thân, những chồi của Cây ấy, bao lâu còn tồn tại những tước hiệu ưu việt và những đặc tính cao cả nhất của Ngài. Xin che chở họ khỏi những việc ác của kẻ gây hấn và của những đạo binh cường bạo. Quả thật, Ngài là Đấng Toàn lực, Đấng Toàn năng. Lạy Ngài là Thượng Đế của con, xin Ngài cũng ban phước cho những tôi trai tớ gái Ngài là những người đã đến với Ngài. Quả thật, Ngài là Đấng Đại Bác ái mà ân phúc thật vô hạn.
 Không có Thượng Đế nào khác ngoài Ngài, Đấng luôn luôn tha thứ, Đấng Đại lượng.
-
--- Bahá'u'lláh

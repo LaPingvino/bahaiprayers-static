@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1762 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *„Þessar daglegu skyldubænir, ásamt nokkrum öðrum bænum, svo sem Lækningabæninni og Töflu Aḥmads, hefur Bahá’u’lláh gætt sérstökum mætti og merkingu, og því skyldu þær viðurkenndar sem slíkar og átrú­endurnir ættu að lesa þær með efunarlausri trú og fullvissu, svo að þeir megi með tilstuðlan þeirra komast í miklu nánara samneyti við Guð og geti samkennt sig í enn ríkari mæli lögum Hans og fyrirmælum.“ —Shoghi Effendi
@@ -18,5 +19,3 @@ Sem Guð lifir! Ef einhver sem ratað hefur í þján­ingu eða sorg les þessa
 Lof sé Guði, Drottni allra veraldanna.
 
 * *Þ.e. Hans heilagleiki Bábinn
-
--- Bahá'u'lláh

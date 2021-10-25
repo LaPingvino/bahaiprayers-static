@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1152 in Português (BR)'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Senhor, meu Defensor, meu Amparo no perigo! Com absoluta humildade suplico-te; enfermo, a Ti me volvo, esperando a Tua cura; a Ti clamo, humildemente, com a fala, a alma e o espírito:
@@ -11,5 +12,3 @@ Vinde e deitai ao chão as vossas armas de ira, até se conquistar a unidade! Vi
 Esses Teus oprimidos, veramente, com júbilo extremo, de corpo e alma, sacrificam as próprias vidas pela humanidade inteira, em todas as plagas. Tu os vês, ó meu Senhor, a prantear as lágrimas vertidas pelo Teu povo, aflitos pela dor dos Teus filhos, a condoer-se do género humano, a sofrer em virtude das calamidades que assediam todos os habitantes da terra.
 Ó meu Senhor! Dota-os com as asas da vitória, para que possam alçar voo até aos céus da salvação; fortalece-os no serviço ao Teu povo e fortifica-os na servitude ao Teu Limiar de Santidade.
 Tu, em verdade, és o Generoso, o Misericordioso! Nenhum outro Deus há senão Tu, o Clemente, o Compassivo, o Ancião dos Dias.
-
--- Abdu'l-Bahá

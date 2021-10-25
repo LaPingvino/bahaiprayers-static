@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1340 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó Senhor meu Deus! Estes são os dias em que ordenaste a todos os homens observarem o jejum para que, deste modo, purificassem as suas almas e se livrassem de tudo, menos do apego a Ti, e assim surgisse dos seus corações o que fosse digno da corte da Tua majestade e adequado à sede da revelação da Tua unidade. Permite, ó meu Senhor, que este jejum se torne um rio de águas vivificadoras e dele provenha a virtude da qual Tu o dotaste. E, por seu meio, purifica os corações dos Teus servos, os quais os males do mundo não puderam impedir de se volverem para o Teu Nome todo-glorioso - aqueles que se mantiveram imperturbáveis em face do clamor e do tumulto dos que repudiaram os Teus mais resplandecentes sinais - sinais esses que acompanharam o advento do Teu Manifestante, a Quem revestiste da Tua soberania, do Teu poder, da Tua majestade e glória. São estes os servos que se apressaram na direção da Tua misericórdia, assim que o Teu chamado os alcançou, não sendo impedidos de Ti pelas mudanças e vicissitudes deste mundo ou por quaisquer limitações humanas.
@@ -12,5 +13,3 @@ As transgressões cometidas por aqueles que se afastaram de Ti e mostraram desd�
 Proclama, pois, ó meu Deus, a sua grandeza e a grandeza dos que os rodearam, enquanto vivos, ou após a morte. Concede-lhes o que destinaste aos justos entre as Tuas criaturas. Poderoso és para tudo fazer. Nenhum outro Deus há, senão Tu, o Omnipotente, o Amparo no Perigo, o Todo-Poderoso, a Suma Bondade.
 Não deixes os nossos jejuns terminarem com este jejum, ó meu Senhor, nem com este convénio, os convénios que Tu fizeste. Aceita tudo o que temos feito por amor a Ti e para Teu prazer, e tudo o que deixámos inacabado em consequência da nossa sujeição aos nossos desejos maus e corruptos. Permite, pois, a nossa firme aderência ao Teu amor e à Tua aprovação, e preserva-nos do malefício dos que Te negaram repudiando os Teus sinais resplandecentes. Tu és, em verdade, o Senhor deste mundo e do vindouro. Nenhum outro Deus há, salvo Tu, o Excelso, o Altíssimo.
 Engrandece Tu, ó Senhor meu Deus, Aquele que é o Ponto Primaz, o Mistério Divino, a Essência Invisível, a Aurora da Divindade e a Manifestação da Tua Deidade, por cujo intermédio se revelou todo o conhecimento do passado e todo o conhecimento do futuro; através de Quem foram descobertas as pérolas da Tua sabed
-
--- Bahá'u'lláh

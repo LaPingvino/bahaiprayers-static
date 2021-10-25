@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12022 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Uly Durkuňdan äşgär bolan Alkyş we Äbha, Jemalyňdan saçylýan ýalkym Seniňdir Eý Beýiklik nyşany, Bakylygyň Soltany we ýerde-gökde bolan bar zatlaryň Eýesi!
@@ -13,5 +14,3 @@ Uly Durkuňdan äşgär bolan Alkyş we Äbha, Jemalyňdan saçylýan ýalkym Se
     Dogrudanam iň Başarjaň, Belent mertebe, Eziz, Merhemetli we Mähriban Sensiň.
     Barhudaýa! Öz ýagşy Atlaryň we gözel Sypatlaryň dowamynda, bu Agaja, Onuň ýapraklaryna hem şahalaryna, köklerine hem pudaklaryna şöhrat ýolla. Onsoň olary duşmanlaryň pitnesinden, zalymlaryň goşunyndan gorap sakla. Dogrudanam iň Başarjaň we Kadyr Sensiň.
     Eý Taňrym! Nesip edip Seniň ýanyňa gowşan bendeleriňe we kenizleriňe abraý hem bereket bagyş eýle. Dogrudanam iň Jomart, Dana we Uly Sensiň.
-
--- Bahá'u'lláh

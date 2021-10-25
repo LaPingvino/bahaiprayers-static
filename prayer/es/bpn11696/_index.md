@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11696 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Estudiad la Tabla del Santo Marinero para que conozcáis la verdad, y reparéis en que la Bendita Belleza ha predicho plenamente acontecimientos futuros. ¡Que los dotados de discernimiento estén advertidos! 
@@ -123,5 +124,3 @@ Todas se reunieron a su alrededor, y ¡he aquí! vieron su cuerpo caído sobre e
 ¡Glorificado sea nuestro Señor, el Altísimo! 
 Y, al contemplar su estado y comprender una palabra del relato contado por el Joven, se descubrieron la cabeza, se desgarraron las vestiduras, se golpearon el rostro, olvidaron su gozo, derramaron lágrimas y se azotaron las mejillas; y esta es, ciertamente, una de las penosas e insondables aflicciones.
 ¡Glorificado sea nuestro Señor, el Altísimo!
-
--- Bahá'u'lláh

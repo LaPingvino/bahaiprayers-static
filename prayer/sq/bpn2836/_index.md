@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2836 in Shqip'
+author = 'Báb'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Zot! Ty të drejtohem për strehë dhe ndaj të gjitha shenjave të Tua e ktheva zemrën.
@@ -11,5 +12,3 @@ Më jep, pra, ndihmën Tënde të mjaftueshme, që të më bësh të pavarur nga
 Jepmë mua pjesën time, O Zot, sa të dëshirosh Ti, dhe bëj që unë të kënaqem me atë që Ti ke caktuar për mua.
 
 Ty të takon autoriteti absolut për të urdhëruar.
-
--- Báb

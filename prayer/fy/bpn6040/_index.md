@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6040 in Frysk'
+author = 'Bahá'u'lláh'
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 ##Tafel Fan Ahmad
@@ -26,5 +27,3 @@ Lear dizze Tafel goed, o Ahmad. Sis har yn dyn dagen en ûntwyn dy der net oan. 
 datsto hearst ta harren dy't tankber binne.
 By God! Lêst immen dy't yn smert of kommer is, yn folsleine oprjochtens dizze Tafel, dan sil God syn fertriet ferdriuwe, syn swierrichheden oplosse en syn besikingen weinimme.
 Wierliken, Hy is de Genedige, de Meilydsume. Eare oan God, de Hear fan alle wrâlden.
-
--- Bahá'u'lláh

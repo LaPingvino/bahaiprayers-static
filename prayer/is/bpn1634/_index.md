@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1634 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er Guð, upphafinn er Hann, Drottinn ástúðar og örlætis!
@@ -13,5 +14,3 @@ Drottinn! Ég ber því vitni, að í þjón Þinn hefur Þú lagt vörslufé Þ
 Þú ert þess megnugur að gera það sem Þér þóknast. Enginn er Guð nema Þú, hinn náðugi og örlátasti, hinn vorkunnláti, gjafarinn, fyrirgefand­inn, hinn dýrmæti og alvitri.
 Ég ber því vitni, ó Drottinn minn, að Þú hefur boðið mönnunum að heiðra gesti sína, og hann sem hefur stigið upp til Þín hefur vissulega náð til Þín og komist í návist Þína. Ger því við hann það sem sæmir náð Þinni og hylli! Við dýrð Þína, ég veit með vissu, að Þú munt ekki sjálfur ganga í gegn því sem Þú hefur boðið þjónum Þínum né heldur láta þann afskiptan, sem heldur föstu taki í taug örlætis Þíns og hefur stigið upp til dagsbrúnar auðæfa Þinna.
 Enginn er Guð nema Þú, hinn eini og einstæði, hinn voldugi og alvitri, hinn gjafmildi.
-
--- Bahá'u'lláh

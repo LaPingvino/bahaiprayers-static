@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9978 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Ullut Tapiliussat, februarip 26-anniit martsip aallaqqaataanut, ullut taakku ilanngullugit, tassaassapput iisinnginniarnissamut ullut piareersarfissat, ullut, inororsaarfiullutillu ajunngitsuliorfiusut, tunissutinillu tunniussiffiit.
@@ -13,5 +14,3 @@ Takuat, Naalagara-aa, qanoq Illit Allagaatinni saqqummiussimasatit ilisaralugill
 Qinnuigaakkit, Illit-aa Kunngit Kunngiat naqisimaneqartunillu Nalliginnittutit, nunarsuup massumap tullissaatalu pitsaasortaanik taakku tuneqqullugit. Aammattaaq allaassutikkit Pinngortitavit suulluunniit siornatigut siumorsimanngisaannik, Ilinnillu qanittuinnarlutik kaajallaasimasunut ilaaqqukkit, Nunarsuannilu tamani suugaluartuni Issiavissaarsuarpit eqqaaniittuinnarsimasuulit.
 
 Ilumoortumik Tassaavutit Ajugaqanngitsoq, Tamanik-Ilisimannittoq, Tamanik-Paasisimannittoq.
-
--- Bahá'u'lláh

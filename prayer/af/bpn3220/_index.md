@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3220 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 ##LANG VERPLIGTE GEBED
@@ -65,5 +66,3 @@ Lof sy aan U, o onse God, dat U dit op ons laat daal het wat ons na aan U trek, 
 *Laat hom dan sy hoof ophef, gaan sit, en sê:
 
 Ek getuig, o my God, van dit waarvan U Verkorenes getuig het, en erken dit wat die huisgenote van die allerhoogste Paradys en diegene wat rondom U magtige Troon rondgedraai het, erken het. Die koninkryke van die aarde en hemel is die Uwe, o Here van die wêrelde!
-
--- Bahá'u'lláh

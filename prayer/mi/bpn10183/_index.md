@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10183 in Māori'
+author = 'Bahá'u'lláh'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 *KIA KOTAHI TE TĀKINA IA RUA TEKAU MĀ WHĀ HĀORA
@@ -58,5 +59,3 @@ Kia whakamoemititia Koe, e tō mātou Atua, kua tukuna iho ki a mātou tērā e 
 
 *Tukua ia ki te hiki i tōna pane, kia noho me te kī:
 Tēnei ahau te whakaatu nei e tōku Atua, ki tērā nā Ō Kōwhiringa i whakaatu, me te tautoko i tērā kua tautokona e ngā kainoho o te Wāhi Tau o runga rawa, me ērā e āmio haere nei i Tō Torōna nui. Ko ngā kīngitanga o te whenua o te rangi Nāu, e Te Ariki o ngā ao!
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2320 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 *Această Tabletă se citeşte la mormintele lui Báb şi Bahá’u’lláh. De asemenea este folosită frecvent şi pentru comemorarea Înălţării lui Báb şi Bahá’u’lláh
@@ -21,5 +22,3 @@ Binecuvântează, o, Doamne, Dumnezeul meu, Lotusul Divin cu frunzele, ramurile,
 Binecuvântează, apoi, o, Doamne, Dumnezeul meu pe robii Tăi şi pe roabele Tale care te-au slujit cu credinţă.
 
 Cu adevărat Tu eşti Cel Atotdarnic, a cărui bunăvoinţă este fără margini. Nu există alt Dumnezeu afară de Tine, Cel Atoateiertător, Cel Preamărinimos.
-
--- Bahá'u'lláh

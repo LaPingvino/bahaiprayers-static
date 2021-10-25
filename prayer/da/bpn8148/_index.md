@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8148 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 I Guds Navn, Den Allerældste, Den Største.
@@ -179,5 +180,3 @@ I sandhed, Jeg har hørt Din kalden, o Alherlige Elskede, Og nu blusser Bahás a
 O ’Ali-Akbar, tak Din Herre for denne epistel hvorfra du kan indånde duften af Min mildhed og vide, hvad der er overgået Os på Guds vej, alle verdenernes Tilbedte.
 
 Om alle tjenerne læste og overvejede dette, vil der i deres årer blive tændt en ild, der skal sætte verdenerne i brand.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10257 in Māori'
+author = 'Abdu'l-Bahá'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 *(Ko tēnei karakia, nā ‘Abdu’l-Bahá, i whakakite, he mea pānui ki Tōna Toma. He mea karakia anō mā te tangata ki tōna kotahi.)
@@ -16,5 +17,3 @@ E Te Ariki, tōku Atua! Hōmai Tō atawhai hei manaaki i ngā tau o Tōu ate, wh
 Mā tēnei karakia Koe e karangatia ai e Tāu pononga i te atatū i te atapō. Whakatutukitia te kōingo o tōna ngākau, e Te Ariki! Whakangihangia tōna ngākau, whakaharitia tōna tarauma, tahuna tōna rama, ka manaakitia ai e ia Tō Kaupapa me Āu pononga.
 
 Ko Koe te Poutuku, te Whaiaroha, Te Tino Poumanaaki, te Tohu Tūpore, te Tohu Atawhai, te Mākoha.
-
--- Abdu'l-Bahá

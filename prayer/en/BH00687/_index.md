@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BH00687 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'BH00687']
 +++
 ##Fire Tablet
@@ -105,5 +106,3 @@ Verily, I have heard Thy Call, O All-Glorious Beloved; and now is the face of Ba
 O ‘Alí-Akbar, thank thy Lord for this Tablet whence thou canst breathe the fragrance of My meekness, and know what hath beset Us in the path of God, the Adored of all the worlds.
 
 Should all the servants read and ponder this, there shall be kindled in their veins a fire that shall set aflame the worlds.
-
--- Bahá'u'lláh

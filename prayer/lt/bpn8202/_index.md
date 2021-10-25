@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8202 in Lietuvių'
+author = 'Abdu'l-Bahá'
 tags = ['lang-lt', 'bpn-unsorted']
 +++
 O maloningasis Viešpatie! Tu sutvėrei visą žmoniją iš vienų tėvų, norėdamas, kad visi būtų viena šeima. Jie yra Tavo šventosios Esybės tarnai ir visa žmonija yra Tavo globoje po Tavo Priedanga. Visi susibūrę prie Tavo dosnaus stalo ir visi apšviesti Tavo Apvaizdos spinduliuojančia šviesa. 
@@ -10,5 +11,3 @@ O maloningasis Viešpatie! Tu sutvėrei visą žmoniją iš vienų tėvų, norė
 	Sujunk visas širdis, o Dieve! 
 	O maloningasis Tėve, Dieve! Pradžiugink mūsų širdis Savo meilės aromatu! Apšviesk mūsų akis Savo Vadovavimo šviesa, pradžiugink mūsų klausą Savo Žodžio muzika ir suteik mums prieglobstį Tavo Apvaizdos Tvirtovėje. 
 	Tu esi Galingas ir Visagalis! Tu atleidi žmonių silpnybes.
-
--- Abdu'l-Bahá

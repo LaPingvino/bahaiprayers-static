@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2674 in Magyar'
+author = 'Báb'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Uram! Hozzád térek menedékért és a Te jeleidre figyelmez szívem.
@@ -11,5 +12,3 @@ Nyújtsd nékem hát elégséges segítséged, hogy mindentől függetlenné vá
 Add ki részemet tetszésed szerint, ó, Uram, és tedd, hogy megelégedjek azzal, mit nékem rendeltél.
 
 Tiéd minden hatalom a parancsolásra.
-
--- Báb

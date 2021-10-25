@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BH05849 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'BH05849']
 +++
 ##Intercalary Days
@@ -15,5 +16,3 @@ Thou, truly, art the Almighty, the All-Knowing, the All-Informed.
 
 
 *1. The Days of Há, Intercalary Days.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3165 in Afrikaans'
+author = 'Abdu'l-Bahá'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O U vergewende God! Hierdie dienaars wend hulle na U koninkryk, soekende na U genade en mildheid. O God! Maak hulle harte goed en suiwer sodat hulle U liefde waardig mag word. Reinig en heilig die geeste dat die lig van die Son van Werklikheid oor hulle mag skyn. Reinig en heilig die oë dat hulle U lig mag gewaar. Reinig en heilig die ore sodat hulle die roepstem van U koninkryk mag hoor.
@@ -11,5 +12,3 @@ O God, my God! Werp die blikke van U vriendelike goedheid op hierdie byeenkoms. 
 O Here! Skenk U goedgunstige hulp en bevestiging aan hierdie regverdige regering. Hierdie land lê onder die beskuttende skaduwee van U beskerming en sy mense is in U diens. O Here! Verleen U hemelse mildheid aan hulle en maak die uitstortings van U genade en guns volop en oorvloedig. Laat hierdie hooggeagte nasie in eer gehou word, en stel dit in staat om in U koninkryk toegelaat te word.
 
 U is die Magtige, die Alvermoënde, die Genadige, en U is die Vrygewige, die Liefdadige, die Here van oorvloeiende genade.
-
--- Abdu'l-Bahá

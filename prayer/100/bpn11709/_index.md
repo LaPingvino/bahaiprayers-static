@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11709 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-100', 'bpn-unsorted']
 +++
 *A cikin Kitābil Akdas, Ubangiji yā cē : ‘’Mun umurci mutun da yin azumi da zāran yā kai shēkara gōma shā biyar. Wannan umurnin Allah nē, Ubangijinku da Ubangijin uwāyenku. Māsu balāguro, marassa lāfiya, da māta masu jūnā biyu, kō māsu bāda nōnō, ba a umurce su da yin azumi ba. Idan kuna azumi, kada ku shā ruwa, ko ku ci abinci daga fitōwar rānā, zuwa fāɗuwarta, kuma kada ku yarda nishāɗi ya hana ku sāmun wannan ni’ima da aka rubūta a cikin littāfi. Ana azumi daga cikin watan Ālā.
@@ -30,5 +31,3 @@ Kana gani na, yā Allāna, ina sarƙafē ga sūnanka, mafi tsarki, mafi haske, m
 Yā Allāna, ta hanyar sūnanka dake saurāren kiran masōyanka, da ajjiyar zūcin waɗanda kē ƙaunar ka, da kūkan waɗanda suke kusa da kai, da nīshin mabiyanka, ta hanyar sūnanka da yake cinma gūrin waɗanda suka danganta da kai, suke kai ga jin dāɗinsu ta wajen alfurmarka da yalwarka, ta hanyar sūnanka dake sā tēkun gāfartāwa ya zāburo gaban fuskarka, kuma kyautarka ta zubo bisa māsu bautā maka. Zuwa ga duk waɗanda suka jūya wajenka, suna yin azumin da ka umurcē su da yi, ka rubūta lāda ga wanɗanda bā su magana sai da izininka, kuma suka yi wātsi da duka abūbūwan da garēsu, dōmin ƙaunarka bisa hanyarka.
 Ta hanyarka da alāmu da hujjōjinka, ta hanyar hasken rānar kyāwonka da rassunka, ina rōkon ka shāfe laifin waɗanda suke bin dōkōkinka, suna yin abūbūwan da ka umurcē su da yi cikin kitābinka.
 Kana gani na, yā Allāna, ina sarƙafē ga sūnanka, mafi tsarki, mafi haske, mafi īko, mafi yabo, mafi ɗaukaka, kuma ina riƙe da sāshen rīgarka da kōwa yake kāmāwa dūniya da lāhira.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9752 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 *”Deze dagelijkse verplichte gebeden en enkele andere speciale gebeden, zoals het Genezingsgebed en de Tafel van Aḥmad, zijn door Baha’u’llah met bijzondere kracht en betekenis bekleed en moeten daarom als zodanig worden aanvaard en door de gelovigen worden gereciteerd met onvoorwaardelijk geloof en vertrouwen, opdat zij steeds inniger in God zullen opgaan en zich steeds meer vereenzelvigen met Zijn wetten en voorschriften.” - Uit een brief geschreven namens Shoghi Effendi.
@@ -22,5 +23,3 @@ Wees er in uzelf van overtuigd dat hij die zich van deze Schoonheid afwendt, zic
 Leer deze Tafel goed, o Aḥmad. Zing haar gedurende uw dagen en laat dit niet na. Want God bestemde voor degeen die haar zingt waarlijk de beloning van honderd martelaren en het voorrecht te dienen in beide werelden. Deze gunsten hebben Wij u verleend als een weldaad van Onze kant en een genade van Onze tegenwoordigheid, dat gij moogt behoren tot hen die dankbaar zijn.
 Bij God! Leest iemand die in kommer of smart verkeert in volkomen oprechtheid deze Tafel, dan zal God zijn verdriet verdrijven, zijn moeilijkheden oplossen en zijn beproevingen wegnemen.
 Waarlijk, Hij is de Genadige, de Meedogende. Ere zij God, de Heer aller werelden.
-
--- Bahá'u'lláh

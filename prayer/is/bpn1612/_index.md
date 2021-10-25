@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1612 in Íslenska'
+author = 'Báb'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn! Hjá Þér leita ég athvarfs og sný hjarta mínu í átt til allra tákna Þinna.
@@ -7,5 +8,3 @@ tags = ['lang-is', 'bpn-unsorted']
 Veit mér hjálp Þína, sem ein nægir mér, svo að ég verði óháður öllu sem er, ó Þú sem ert óvið­jafnan­legur í miskunnsemi Þinni!
 Úthluta mér mínum skerfi, ó Drottinn, að vild Þinni, og gef að ég geri mér hvaðeina að góðu, sem Þú hefur ákvarðað mér.
 Óskorað er vald Þitt að skipa.
-
--- Báb

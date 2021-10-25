@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3198 in Afrikaans'
+author = 'Abdu'l-Bahá'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Hy is God!
@@ -9,5 +10,3 @@ O God, my God! Hierdie is dienaars aangetrek in U dae deur die geure van U heili
 Skuil hulle binnekant die vesting van U beskerming en veiligheid, behou hulle in U waaksame sorg, kyk op hulle met die oë van U voorsienigheid en genade, maak hulle die tekens van U goddelike eenheid wat dwarsdeur alle streke geopenbaar is, die standaarde van U mag wat bo-oor U wonings van grootheid waai, die skynende lampe wat met die olie van U wysheid in die gloeilampe van U leiding brand, die voëls van die tuin van U kennis wat op die hoogste takke in U beskuttende paradys sing, en die leviatans van die oseaan van U mildheid wat deur U opperste genade in die peillose dieptes plons.
 
 O Here, my God! Nederig is hierdie dienaars van U, verhef hulle met U opperste mag; verneder, bestee aan hulle U heerlikheid in U allerhoogste ryk; arm, verryk hulle in U groot gebied. Beskik U dan vir hulle al die goeie wat U in U wêrelde bestem het, sigbaar en onsigbaar, begunstig hulle in hierdie wêreld, verbly hulle harte met U besieling, o Here van alle wesens! Verlig hulle harte met U blye tydings, wat uit U alglorieryke Stand versprei is, maak hulle stappe stewig in U Allergrootste Verbond en versterk hulle lendene in U ferme Testament, deur U mildheid en beloofde barmhartigheid, o Goedgunstige en Genadige Een! U is, voorwaar, die Barmhartige, die Almilde.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1240 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é Deus, excelso é Ele, Senhor de misericórdia e bondade!
@@ -13,5 +14,3 @@ Permite, pois, ó meu Deus, que o Teu servo se associe ao Teus eleitos, santos e
 Ó meu Deus, a Tua Confiança regressou a Ti. De acordo com a Tua graça e bondade, as quais abrangem domínios na terra e no céu, concede ao Teu recém-chegado os Teus favores e dádivas, e os frutos da árvore da Tua graça. És poderoso para fazer o que Te apraz. Não há outro Deus senão Tu, o Benévolo, o Mais Generoso, o Compassivo, o Dispensador de Graças, o Supremo Perdão, o Precioso, o Omnisciente.
 Atesto, ó meu Senhor, que incumbiste os homens de honrarem o hóspede, e esse que ascendeu a Ti, atingiu-Te realmente e alcançou a Tua Presença. Acolhe-o, pois, em harmonia com a Tua graça e generosidade. Pela Tua glória! Sei com toda a certeza que a Ti próprio não negarás o que ordenaste aos Teus servos, nem deixarás destituído aquele que se segurou à corda da Tua bondade e ascendeu à Aurora da Tua riqueza.
 Não há outro Deus senão Tu, o Uno, o Único, o Poderoso, o Omnisciente, o Generosíssimo.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1337 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Suplico-Te, ó meu Deus, pelo Teu grande Sinal, e pela revelação da Tua graça entre os homens, que não me expulses dos portais da cidade da Tua presença, e não frustres as esperanças que depus nos manifestantes da Tua graça em meio às Tuas criaturas. Vês-me, ó meu Deus, apoiando-me no Teu Nome, o Mais Sagrado, o Mais Luminoso, o Potentíssimo, o Supremo, o Sublime, o Mais Glorioso, e segurando-me à orla das vestes à qual se seguraram todos deste mundo e do vindouro.
@@ -17,5 +18,3 @@ Suplico-Te, ó meu Deus, pelo fogo do Teu amor que, afugentou o sono dos olhos d
 Suplico-Te, ó meu Deus, pela luz do Teu semblante, que impeliu aqueles próximos de Ti a enfrentarem os dardos do Teu decreto, e os Teus devotos a fazerem face às espadas dos Teus inimigos, no Teu caminho, que escrevas para mim com a Tua excelsa Pena, o que escreveste para os Teus fiéis e os Teus eleitos. Vês-me, ó meu Deus, apoiando-me no Teu Nome, o Mais Sagrado, o Mais Luminoso, o Potentíssimo, o Supremo, o Sublime, o Mais Glorioso, e segurando-me à orla das vestes à qual se seguraram todos deste mundo e do vindouro.
 Suplico-Te, ó meu Deus, pelo Teu Nome, através do qual escutaste o apelo dos que Te amam, os suspiros dos que por Ti anseiam, a exclamação daqueles favorecidos com a Tua proximidade e os gemidos dos Teus devotos, e através do qual satisfizeste os desejos dos que em Ti depositaram as esperanças e, pela Tua graça e pelo Teu favor, lhes concedeste sua realização; e pelo Teu Nome, através do qual o oceano do Teu perdão surgiu diante da Tua face, e sobre os Teus servos choveram as graças das nuvens da Tua generosidade – decreta, eu Te suplico, para cada um que a Ti se volve e observa o jejum por Ti prescrito, a recompensa destinada aos que só falam pela Tua permissão, e que renunciaram a tudo o que possuíam, por amor a Ti e no Teu caminho.
 Suplico-Te, ó meu Senhor, por Ti mesmo, e pelos Teus sinais e pelas Tuas provas claras, pela luz brilhante do Sol da Tua Beleza, e pelos Teus Ramos, que anules os pecados dos que se seguraram às Tuas leis e observaram o que lhes prescreveste no Teu Livro. Vês-me, ó meu Deus, apoiando-me no Teu Nome, o Mais Sagrado, o Mais Luminoso, o Potentíssimo, o Supremo, o Sublime, o Mais Glorioso, e segurando-me à orla das vestes à qual se seguraram todos deste mundo e do vindouro.
-
--- Bahá'u'lláh

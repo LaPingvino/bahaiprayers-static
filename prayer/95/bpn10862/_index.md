@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10862 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 ##KE FAI FAKA-TASI I TE SEFULU-FA ITULA
@@ -64,5 +65,3 @@ Tavaeega kia Koe, O toku Atua, me ko oti ne aumai kia matou a feitu e mafai iei 
 
 Au e molimau, O toku Atua, ki mea ko la ko oti ne molimaugia ne Ou Tino Filifilia, kae fakatalitonu ne latou ko la ite Palataiso maluga pela foki mo te molimau a latou ko la ko oti ne tamilomilo ne latou a Tou Nofoaga-a-Tupu mafi.  A malo ote lalolagi mo te lagi ea Koe, O te Aliki o lalolagi!
 Bahá’u’lláh
-
--- Bahá'u'lláh

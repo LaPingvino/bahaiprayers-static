@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5760 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##ORACIÓ OBLIGATÒRIA LLARGA
@@ -67,5 +68,3 @@ Lloat siguis, oh Déu nostre, per quant has fet descendir sobre nosaltres allò 
 
 
 Testimonio, oh Déu meu, el què han testimoniat els Teus Escollits, i reconec el què han reconegut els habitants de l’altíssim Paradís i aquells què han girat al voltant del Teu imponent Tron. Els regnes de la terra i del cel són Teus, oh Senyor dels mons!
-
--- Bahá'u'lláh

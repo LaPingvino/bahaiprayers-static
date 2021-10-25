@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5771 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##DIES INTERCALATS
@@ -11,5 +12,3 @@ Aquests són, oh Senyor meu, els Teus serfs als quals cap inclinació corrupta h
 Tu veus, oh Senyor meu, com han reconegut i admès tot el què Tu has revelat a les Teves Escriptures. Dóna’ls-hi a beure, oh Senyor meu, de les mans de la Teva gràcia, les aigües de la Teva eternitat. Decreta, doncs, per a ells la recompensa ordenada per aquell qui s’ha submergit a l’oceà de la Teva presència i ha aconseguit el vi escollit del Teu encontre.
 T’imploro, oh Tu Rei de reis i Complanyidor dels oprimits, que ordenis per a ells el bé d’aquest món i del món venidor. Decreta per a ells, així mateix, el que cap de les Teves criatures ha descobert i compta’ls entre aquells què han circulat al Teu voltant i es mouen en torn al Teu tron a cada món dels Teus mons.
 Tu ets veritablement el Tot Poderós, l’Omniscient, l’Informa’t de tot.
-
--- Bahá'u'lláh

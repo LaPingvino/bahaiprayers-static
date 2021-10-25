@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7463 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 *Dni Międzykalendarzowe, zwane także dniami Ayyám-i-Há, bezpośrednio poprzedzają miesiąc postu i trwają, w zależności od roku, cztery lub pięć dni. Są one czasem przygotowania do Postu, dniami gościnności, dobroczynności i wręczania podarunków.
@@ -15,5 +16,3 @@ Ty widzisz, o mój Panie, jak uznają i wyznają wszystko to, coś objawił w sw
 Błagam Cię, o Ty, Królu królów, który litujesz się nad uciśnionymi, abyś przeznaczył dla nich dobro tego świata i świata, który nastąpi. Zapisz też dla nich to, czego nie odkryło żadne z Twoich stworzeń i zalicz ich do tych, którzy krążą wokół Ciebie i poruszają się wokół Twojego tronu w każdym z Twoich światów.
     
 Tyś prawdziwie jest Wszechmocnym, Wszechwiedzącym, o Wszystkim Poinformowanym.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12475 in Namibia'
+author = 'Bahá'u'lláh'
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 *Medina laau a dalwa mefiku eli , oo Kalunga e mu hoolola a ninge  Omufimanekifi wedina laye, Omunaghono-Adishe; Omunahole-Aishe
@@ -17,5 +18,3 @@ Oufiku ou omo edimba liwa loupopepi la kunguluka; oivelo yehanganifo ya mbwalang
 O, Oufiku ove wEeshalinghenda adishe! Omuove hatu diinine shili Embo Meme yetu eli. Hano eli Embo moshili, ile hano okaana ka dalwa?  Nokuli, naame Mwene!  Eendjovo odo  nomadina oo Kalunga mwene a yapula membo eli kombada yomadina aeshe. Nonande shi li Oshiholekwa noshikumwifa sha tuvukululwa. Nokulli, ame komwenyo wange! Omatumbulo a tumbulwa  mEmbo Meme yetu eli oku li kombada yaashishe. Eli olo ehololo tali holola kutya “Kaku na kalunga umwe kombada yaKalunga kashili, ou e dule oikalunga aishe. Nokuli, fimbo oinima aishe inai shiivifwa ovanhu, Ye, Kalunga mwene okwe i uda nomatwi aye. Nava nangekwe noupuna, ovanangekwanoupuna ovo va shilipalekelwa oinima ei.
 
 Omo Opena, ya mana omhata, yOmukombada tai ingida tai ti: “Oove ou wa tumbalekwa kombada yomadina aeshe.  Ame ohadi ku indile paenghono doye di dule eulu nedu, u likaleke nge ndi ku tumbule, shaashi ame onda holoka po keenghono deshito loye. Ohandi dulu ngahelipi okuholola kutya, oishitwa aishe kai na eenghono doku ku hokolola? Ndele ame ohandi ane metumbalo loye ndi udife kutya Oove wa twa nge omukumo  eshito alishe li kanduke po kehafo nokeshambuko, notashi ka dula ngahelipi  okukala po komesho yomukungu wefuta lomatumbulo oye monghalo ya tya ngaha? Dimine nge po, Omwene, Opena ei ya  fimana noi na efilonghenda kwaame, O, ove Mwene wange, Hamba yange. Ino valula omanyono ange koshipala shoye. Oshili, Oove Omwne wouyadi aushe / wewaneno alishe, Ove, Omunaengho-adishe, Omudiminipo waalushe, Omuyandji weeshali adishe.
-
--- Bahá'u'lláh

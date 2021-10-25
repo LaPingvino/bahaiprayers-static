@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9128 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Prière prescrite pour les morts
@@ -21,5 +22,3 @@ En vérité, tous nous rendons grâce à Dieu.
 En vérité, tous nous sommes patients devant la volonté de Dieu.
 
 * Note de traduction : Il faut comprendre: Répéter dix-neuf fois chacun des versets, en faisant précéder chaque série de dix-neuf versets par la formule « Alláh’u’Abhá ».
-
--- Bahá'u'lláh

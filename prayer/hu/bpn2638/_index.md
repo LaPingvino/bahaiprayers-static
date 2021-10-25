@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2638 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ő a Gyógyító, a Megelégítő, a Segítő, a Mindenek Felett Megbocsátó, a Mindenek Felett Irgalmas!
@@ -91,5 +92,3 @@ Szólítlak, ó, Te, Ki megölöd a Szerelmeseket, ó, a gonoszokhoz Kegyelmes I
 Szent vagy, ó, Istenem! Nagylelkűségedre kérlek, mely által szélesre tárultak bőséged s kegyed kapui, mely által Szentséged Temploma emeltetett az örökkévalóság trónusán, és irgalmadra kérlek, mely által minden teremtett dolgot meghívtál bőséged és ajándékaid asztalához. Kegyelmedre kérlek, mely által minden égben és földön lakozó nevében válaszoltál Önmagadban „Igen!” Szavaddal azon az órán, mikor uralmad és nagyságod egész fényében megnyilvánult, azon hajnali órán, mikor királyságod hatalma megmutatkozott. S újra esedezem Hozzád e legszebb nevekre, e legnemesebb és legmagasztosabb jegyekre, a Rólad való Legfenségesebb Megemlékezésre, tiszta és szeplőtlen Szépségedre, rejtett Fényedre a legbensőbb csarnokban, és Nevedre, mely minden reggel és este a kínok köpönyegét viseli, védd meg ez áldott Tábla hordozóját, és azt, aki olvassa, és aki véletlenül rábukkan, és aki elhalad a ház mellett, melyben e Tábla található. Gyógyíts ki általa minden beteget, elesettet és szegényt, minden bajából és bánatából, minden iszonyatos szenvedéséből és szomorúságából, és vezesd általa azt, ki vezérleted ösvényére és megbocsátásod és kegyelmed útjára lépni kíván.
 
 Mert bizony Te vagy a Hatalmas, a Mindeneket Megelégítő, a Gyógyító, a Védelmező, az Adakozó, a Könyörületes, a Mindenek Felett Bőkezű, a Mindenek Felett Irgalmas.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4816 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ey mənim Allahım! Yolunda çəkilən bəlalar olmasaydı, Sənin həqiqi aşiqlərin necə tanınardı; Eşqindən doğan müsibətlər olmasaydı, Sənin həsrətini çəkənlərin məqamı necə bilinərdi? Sənin qüdrətin mənə şəhadət verir! Sənə sitayiş edənlərin həmdəmi göz yaşlarıdır, Səni axtaranların təsəllisi könüllərin naləsidir və Səni görməyə tələsənlərin qidası onların sınmış ürəklərinin parçalarıdır.
@@ -9,5 +10,3 @@ Necə də şirin dadır, Sənin yolunda çəkilmiş ölüm acısı və nə qəd�
 Yalvarıram Sənə, Ey mənim Allahım, bu Zühura Sənin adına və hökmranlığına layiq köməkçilər meydana çıxar ki, onlar yaratdıqların arasında Səni xatırlasınlar və torpağında Sənin zəfər bayraqlarını ucaltsınlar.
 
 Sən istədiyini etməyə Qadirsən. Səndən başqa Allah yoxdur, Əzəmətli və Qəyyum Allah!
-
--- Bahá'u'lláh

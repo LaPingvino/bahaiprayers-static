@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7613 in Kreyol Ayisyen'
+author = 'Bahá'u'lláh'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##RESITE PRIYÈ SA A YON FWA CHAK VENKATRÈ
@@ -55,5 +56,3 @@ Bondye pi gran pase tout gran yo!
 	Lwanj pou Ou, O Bondye nou, poutèt Ou te fè desann sou nou sa k’ap atire nou bò kote Ou, epi Ou ban nou tout bon bagay Ou te voye nan Liv Ou yo ak Ekri Ou yo. Nou sipliye Ou, O Senyè mwen, pou pwoteje nou kont tout panse ki san valè ak imajinasyon initil. An verite, Ou Pisan, Ou Konnen Tout Bagay.
 *Se pou li leve tèt li, chita, epi di:
 	Mwen temwen, O Bondye mwen, sa Sila yo Ou te chwazi yo te temwen, e mwen admèt sa abitan nan Paradi ki pi wo a ak yo menm ki te antoure Twòn pisan Ou an te admèt. Wayòm tè a ak wayòm syèl la se pou Ou, O Senyè tout mond yo!
-
--- Bahá'u'lláh

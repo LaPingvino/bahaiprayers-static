@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1765 in Íslenska'
+author = 'Abdu'l-Bahá'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *(Þessi bæn, sem opinberuð er af ‘Abdu’l-Bahá, er lesin í grafhýsi hans. Hún er einnig notuð við önnur tækifæri.)
@@ -12,5 +13,3 @@ Drottinn! Hann er snauður og auðmjúkur þjónn Þinn, undirgefinn og sárbið
 Ó Drottinn, Guð minn! Veit mér náð Þína til að þjóna ástvinum Þínum, styrk mig í þjónustunni við Þig, upplýs brá mína með ljósi vegsömunar innan forgarðs heilagleika Þíns og í bæn til ríkis tignar Þinnar. Hjálpa mér að vera sjálflaus við himneskan inngang hliðs Þíns og aðstoða mig við að skiljast frá öllum hlutum innan heilagra mæra Þinna. Drottinn! Gef mér að drekka af bikar sjálfleysis, íklæð mig kyrtli þess og sökk mér í úthaf þess. Ger mig sem dustið á vegi ástvina Þinna og gef að ég megi fórna sálu minni fyrir jörðina sem göfgast hefur af skrefum Þinna útvöldu á vegi Þínum, ó Drottinn dýrðar í hæstu hæðum.
 Þjónn Þinn ákallar Þig með þessari bæn í dögun og á næturþeli. Uppfyll ósk hjarta hans, ó Drottinn! Uppljóma hjarta hans, gleð brjóst hans, tendra ljós hans, svo að hann megi þjóna málstað Þínum og þjónum Þínum.
 Þú ert gjafarinn, hinn vorkunnláti og gjaf­mild­asti, hinn náðugi og miskunnsami, hinn samúðarfulli!
-
--- Abdu'l-Bahá

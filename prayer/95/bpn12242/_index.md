@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12242 in '
+author = 'Báb'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Ko Koe ko te Atua, e seai aka foki se Atua na ko Koe.  
@@ -14,5 +15,3 @@ Au e akai fakamolemole kia Koe, O te Aliki toku Atua, mai i Tou Igoa tafasili i 
 omotou loto a te afi o te fiafia mo te fiafia sili i se auala tela ko loto o tagata katoa ke mafai o lata mai.  
   
 E tonu a Koe ko te Maalosi-Katoatoa, ko te Puipui, ko te Mafi-Katoatoa, ko te Ola-loa-ia-Ia.
-
--- Báb

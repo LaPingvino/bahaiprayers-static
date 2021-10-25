@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9367 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Izy no Mpanjaka, Ilay Mpahalala ny zavatra rehetra, Ilay Hendry!
@@ -18,5 +19,3 @@ Aoka Ianao hahatoky fa, marina tokoa, izay mihodina amin’io Hatsaran-tarehy io
 Ianaro tsara ity Takelaka ity, ry Ahmad ô! Hirao mandritry ny fiainanao ary aza mihataka aminy. Satria, marina tokoa, Andriamanitra dia nanokana ho an’izay mihira azy ny valim-pitian’ny maritiora zato sy fanompoana iray eto an-tany sy any an-danitra. Izany tombotsoa izany, dia nomenay ho anao ho marikin’ny Fahasoavana avy Aminay sy ny famindrampo avy amin’ny Fanatrehanay mba ahatonga anao ho isan’ireo izay mahay mankasitraka.
 Amin’ny alalan’Andriamanitra! Izay ao anatin’ny fahoriana sy ny alahelo ka mamaky ity Takelaka ity am-pahamarinana tokoa, Andriamanitra dia hampisava ny alahelony, handamina ny fahasahiranany ary hamonjy azy amin’ny fahoriany.
 Marina tokoa, Izy Ilay be Indrafo, Ilay Mpangoraka. Deraina anie Andriamanitra, Ilay Tompon’ny tontolo rehetra.
-
--- Bahá'u'lláh

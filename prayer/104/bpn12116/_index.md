@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12116 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Terpujilah Engkau, Ya Tuhanku! Aku salah seorang hamba-Mu, yang telah percaya kepada-Mu dan kepada tanda-tanda-Mu. Engkau melihat bagaimana aku telah menghadapkan diriku pada pintu rahmat-Mu dan mengarahkan wajahku pada kasih sayang-Mu. Aku memohon kepada-Mu, demi gelaran-Mu yang tertinggi dan sifat-sifat-Mu yang terluhur, agar membuka kepada wajahku gapura-gapura anugerah-Mu. Maka, tolonglah daku agar berbuat apa yang baik, Ya Engkau Pemilik segala nama dan sifat!
@@ -11,5 +12,3 @@ Bukalah tabir daripada mataku, Ya Tuhanku, agar, aku dapat mengenal apa yang tel
 
 Aku berterima kasih kepada-Mu, Ya Tuhanku, bahawa Engkau telah menyedarkanku daripada tidurku, dan telah membangkitkan daku, dan telah mewujudkan dalam diriku hasrat untuk memahami apa yang telah kebanyakan hamba-hamba-Mu gagal memahami. Bolehkanlah aku, Ya Tuhanku, untuk melihat, demi cintaku kepada-Mu dan demi keredaan-Mu, apa sahaja yang telah Engkau hasratkan. Engkaulah Dia yang kekuatan kuasa dan keagungan-Nya semua benda naik saksi.
 Tiada Tuhan lain kecuali Engkau, Yang Maha Berkuasa, Yang Dermawan.
-
--- Bahá'u'lláh

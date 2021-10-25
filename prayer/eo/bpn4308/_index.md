@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4308 in Esperanto'
+author = 'Bahá'u'lláh'
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 ##Epistolo al Aĥmad
@@ -23,5 +24,3 @@ Vere, Li estas la Mizerikorda, la Kompatema. Laŭdata estu Dio, la Sinjoro de ĉ
 
 *(1) Ali, la Ĝusta de Dio, t.e. Báb, la profeto heroldinta Bahá’u’lláh-on
 *(2) Bayán, la libro de Báb
-
--- Bahá'u'lláh

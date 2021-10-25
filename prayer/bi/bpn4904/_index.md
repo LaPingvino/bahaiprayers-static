@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4904 in Vanuatu'
+author = 'Bahá'u'lláh'
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 ##Hu we i wantem talemaot prea ia i mas stanap mo tanem hem long God.  Mo taem hem i stanap long ples blong hem, hem i mas luk long raet saed mo long lef saed, olsem hem i stap weit long Masta blong hem i soemaot bigfala sori.  God i gat fulap sori mo Hem i kaen tumas. 
@@ -62,5 +63,3 @@ Ol preis i go long Yu, O God blong mifala, from we Yu bin sendem i kam daon long
 *Naoia, hem i mas leftemap hed blong hem mo sidaon.  Hem i mas talemaot:
 
 Mi agri tumas, O God blong mi, wetem tru toktok we olgeta we Yu bin jusum i bin talem.  Mi luksave long ol samting we olgeta we i stap long Paradaes blong Yu antap, mo olgeta we oli go raon long Stamba Ples blong Yu, i bin luksave.  Ol kingdom blong wol mo blong heven i blong Yu, O Masta blong ol wol.
-
--- Bahá'u'lláh

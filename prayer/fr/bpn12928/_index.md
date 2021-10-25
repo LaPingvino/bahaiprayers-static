@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12928 in Français'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est Dieu. 
@@ -7,5 +8,3 @@ Il est Dieu.
  	 
 Ô Dieu, mon Dieu! Que ton antique gloire les exalte! Honore-les dans ton royaume de grandeur, et que les armées de tes faveurs les aident en ce grand jour! Ô Seigneur, mon Dieu! Dresse haut leur bannière, accorde-leur une plus grande part de ta protection, propage leurs signes et accrois leur éclat, afin qu’elles deviennent le verre de la lampe de tes multiples faveurs et qu’elles répandent ta bonté et tes bienfaits. 
 Ô Seigneur, mon Dieu! Sois leur compagnon dans leur solitude, et dans leurs moments de détresse, entoure-les de ton soutien. Lègue-leur ton Livre et accorde-leur la pleine mesure de tes faveurs et de tes dons. Tu es en vérité le Fort, le Puissant, le Clément, le Généreux, et en vérité, tu es le Miséricordieux, le Compatissant.
-
--- Abdu'l-Bahá

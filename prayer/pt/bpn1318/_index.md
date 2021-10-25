@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1318 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 #A SER RECITADA DIARIAMENTE, PELA MANHÃ, AO MEIO-DIA E AO ANOITECER
@@ -15,5 +16,3 @@ Não frustres as esperanças, ó meu Deus, de quem, com dedos suplicantes, se se
 *Que então se sente e diga:
 Atesto a Tua unidade e a Tua unicidade, que Tu és Deus e não há outro Deus além de Ti. Em verdade, revelaste a Tua Causa, cumpriste o Teu Convénio, e abriste de par em par a porta da Tua graça para todos os que habitam o céu e a terra. Bênção e paz, saudação e glória, estejam sobre os Teus amados, aos quais nenhuma vicissitude ou eventualidade do mundo impediu de se dirigirem a Ti, e que deram tudo na esperança de obter o que está Contigo. És, em verdade, O que sempre perdoa, o Generosíssimo.
 *(Se alguém quiser recitar, em vez do versículo longo, estas palavras: “Deus atesta que não há outro Deus salvo Ele, o Amparo no Perigo, o Absoluto”, isso será suficiente. E também seria bastante se a pessoa, enquanto sentada, quisesse recitar estas palavras: “Dou testemunho de Tua unidade e Tua unicidade, que Tu és Deus e não há outro Deus além de Ti.”)
-
--- Bahá'u'lláh

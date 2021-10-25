@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4280 in Esperanto'
+author = 'Bahá'u'lláh'
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 ##La mezlonga deviga preĝo
@@ -22,5 +23,3 @@ Ne senigu je siaj esperoj, ho mia Dio, tiun, kiu kun petegantaj fingroj sin kro�
 
 *Tiam li sidiĝu kaj diru: 
 Mi atestas Vian unuecon kaj Vian ununurecon, kaj ke Vi estas Dio kaj ke ne estas alia Dio krom Vi. Vi vere revelaciis Vian Aferon, plenumis Vian Interligon kaj larĝe malfermis la pordon de Via graco al ĉiuj, kiuj restadas en la ĉielo kaj sur la tero. Beno kaj paco, saluto kaj gloro estu sur Viaj amatoj, kiujn la ŝanĝiĝoj kaj hazardoj de la mondo ne sukcesis malhelpi turni sin al Vi kaj kiuj fordonis ĉion sian esperante ricevi tion Vian. Vere, Vi estas la Ĉiam-Pardonanta, la Plej Malavara.
-
--- Bahá'u'lláh

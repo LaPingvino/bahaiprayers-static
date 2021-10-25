@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10526 in Kalaallisut'
+author = 'Abdu'l-Bahá'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guuti-aa! Meeqqat uku ilinniartikkit. Meeqqat taakku Illit naatsiivinni
@@ -9,5 +10,3 @@ seqerna taakkununnga qinngortiguk. Anorsaalaannguit taakkununnga
 inuummarissisitsisoriuk, sungiussilluarsimaqqullugit, allillutik peroriartorlutik,
 pinnissuseq annerpaaq atorlugu saqqummerniassammata. Illit
 Tunniussisuuvutit, Illit Misiginneqataasuuvutit.
-
--- Abdu'l-Bahá

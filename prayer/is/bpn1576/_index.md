@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1576 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *„Daglegu skyldubænirnar eru þrjár talsins . . . Átrúandanum er frjálst að velja hverja sem er af þessum þremur bænum en honum er skylt að fara með eina þeirra í samræmi við þau sérstöku fyrirmæli sem fylgja henni.“ 
@@ -15,5 +16,3 @@ tags = ['lang-is', 'bpn-unsorted']
 Á SÓLARHRING, Á HÁDEGI
 Ég ber því vitni, ó Guð minn, að Þú hefur skapað mig til að þekkja Þig og tilbiðja Þig. Ég staðfesti á þessu andartaki vanmátt minn og mátt Þinn, fátækt mína og auðlegð Þína.
 Enginn er Guð nema Þú, hjálpin í nauðum, hinn sjálfumnógi.
-
--- Bahá'u'lláh

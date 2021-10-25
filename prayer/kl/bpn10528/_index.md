@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10528 in Kalaallisut'
+author = 'Báb'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Naalannartinneqarit Guuti-aa! Guutiuvutit suut tamaasa sioqqullugit piusimasoq,
@@ -13,5 +14,3 @@ qisuariarsimasunut tunniuguk. Kimulluunniit uannik aliasutsitsiniartumik
 ajortumilluunniit kissaateqartumik naammattumik Ikiortigilakkit. Ilumut
 tassaavutit pinngortitat tamarmik Naalagaat. Tamanut naammattuuvutit,
 kinaluunniit Illeqarani immini naammalersinnaanngilaq
-
--- Báb

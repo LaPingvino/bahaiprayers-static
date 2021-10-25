@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2683 in Magyar'
+author = 'Báb'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Urad nevében, Aki a Teremtő, az Uralkodó, a Mindeneket Megelégítő, a Legmagasztosabb, Kinek segítségét minden ember esdekelve kéri.
@@ -9,5 +10,3 @@ Mondd: Ó, Istenem! Ó, Te, Ki a mennyek és a föld Alkotója vagy, ó, a Kirá
 Ó, Te, Aki a kiáradó kegyelem Ura vagy! Engedd, hogy mennyei segítséged körülvegye azokat, akik Téged szeretnek, és adj nékünk ajándékaidból és bőségedből. Légy Te nékünk elégséges mindenben, bocsásd meg bűneinket, és légy irgalmas hozzánk. Te vagy a mi Urunk és minden teremtett dolog Ura. Senki mást nem hívunk, csak Téged, és semmi másért nem könyörgünk, csak a Te kegyeidért. Te vagy a bőkezűség és kegyelem Ura, hatalmadban legyőzhetetlen, és terveidben a legbiztosabb kezű. Nincsen más Isten, csak Te, a Mindent Birtokló, a Legmagasztosabb.
 
 Áldd meg, ó, Uram, Küldötteidet, a szenteket és az igazakat. Valóban, Te vagy az Isten, a Páratlan, a Mindeneket Lebíró.
-
--- Báb

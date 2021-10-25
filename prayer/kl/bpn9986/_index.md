@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9986 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *(Allagaq una Bahá'u'lláh-p Báb-illu ilerrisa eqqaanni atuarneqassaaq. Aamma Taakku eqqaaneqarfiini nalliuttorsiornartitsinermi akuttunngitsumik atorneqartassaaq.) 
@@ -16,5 +17,3 @@ Taamaattumik uannut ingerlatikkit, Guutiga-aa Asasaralu, Illit nallittuinerpit A
 Qanortoq anersaara pilliutaali Illit iluaatsuliorfigisaaninnut, tarnigalu anniaatinut Illit atukkannut akissaali. Guuti Ilikkut taakkunuunalu kiinaat Taattuit qaamarngata qinngornennit qaammarsagaasutigut aammalu Ilinnut asanninnermikkut imminnut peqqussutaasunik asiginnaasimanngitsutigut qinnuigaakkit saagoq Illit pinngortitavillu akornanniittoq peeqqullugu nunarsuarmilu maani takkuttussamilu ajunngitsunik pilersoqqullunga. Illit tassaavutit ilumoortumik Ajugaqanngitsoq, Naalannarsisitaanerpaaq, Tamanit Illernarnerusoq, Soraajuitsumik Isumakkeerfiginnittoq, Tamanit Misigittarnerpaaq.
 
 Pilluaqqujuk Illit, Naalagaq Guutiga-aa, Orpik Lotusi Nunamiorpalunngitsoq, taassumalu pilutai, avalequtai, avalequteerai, timitaa anneq, timitai saneraanit naasut, taaguutitit pitsaanerpaat atuukkallartillugit, Illit ataqqinangaarsutsinni piginnaasatit soraassanngillat. Illersoruk saassussisup ajortup saalersuussineranit qunutitsisullu sakkutoorpassuinit. Illit ilumut tassaavutit Ajugaqanngitsoq, Pissaaneqarnerpaaq. Aammattaaq Pilluaqqukkit, Naalagaq Guutiga-aa, kiffatit angutit arnallu, Ilinnut anngussimasut. Ilumoortumik tassaavutit Tukkornerpaaq isoqanngitsumik saammaasoq. Guuteqanngilaq Allamik Illiunngitsumik, soraajuitsumik Isumakkeerfiginnittoq, Tukkornerpaaq.
-
--- Bahá'u'lláh

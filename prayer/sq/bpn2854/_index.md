@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2854 in Shqip'
+author = 'Bahá'u'lláh'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 *Novruzi, 21 mars, është dita e parë e vitit Bahá'í dhe një ditë gëzimi e mikpritjeje.
@@ -17,5 +18,3 @@ Ti je Ai, nëpërmjet të Cilit flamuri ku shkruhet "I lëvduar je Ti në veprat
 Ai që është Dega Jote dhe gjithë shoqëria Jote, O Zoti im, e ka prishur këtë ditë agjërimin e tij, pasi e ka zbatuar atë brenda kufijve të oborrit Tënd në zellin e vet për të të kënaqur Ty. Urdhëro Ti për atë, dhe për ata, dhe për të gjithë njerëzit që kanë hyrë në praninë Tënde në këto ditë të gjitha të mirat që Ti ke destinuar në Librin Tënd. Jepu atyre, pra, gjithçka që do t'u sjellë përfitim, si në këtë jetë dhe në jetën e përtejme.
 
 Ti je, me të vërtetë, i Gjithëdijshmi, Urtiploti.
-
--- Bahá'u'lláh

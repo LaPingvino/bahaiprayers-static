@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn516 in Deutsch'
+author = 'Abdu'l-Bahá'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du verzeihender Gott! Diese Diener wenden sich Deinem Königreich zu und streben nach Deiner Gnade und Gunst. O Gott! Mache ihre Herzen gut und rein, dass sie Deiner Liebe würdig werden. Läutere und heilige ihren Geist, dass das Sonnenlicht der Wirklichkeit über ihnen scheine. Läutere und heilige ihre Augen, dass sie Dein Licht wahrnehmen. Läutere und heilige ihre Ohren, dass sie den Ruf Deines Königreiches hören.
@@ -7,5 +8,3 @@ O Herr! Wahrlich, wir sind schwach, Du aber bist machtvoll. Wahrlich, wir sind a
 O Gott, mein Gott! Richte Deinen gnädigen Blick auf diese Versammlung. Bewahre einen jeden in Deiner Hut und Deinem Schutz. Sende Deine himmlischen Segnungen auf diese Seelen herab. Tauche sie in das Meer Deines Erbarmens und belebe sie mit dem Odem des Heiligen Geistes.
 O Herr! Verleihe dieser rechtmäßigen Regierung Deine gnädige Hilfe und Bestätigung. Dieses Land liegt im schirmenden Schatten Deines Schutzes, dieses Volk steht in Deinem Dienst. O Herr! Gewähre ihnen Deine Himmelsgaben, Deine Gunstbezeigungen und Gnadenströme die Fülle. Gib, dass diese geschätzte Nation in Ehren gehalten wird und Zutritt in Dein Königreich erlangt.
 Du bist der Gewaltige, der Allmächtige, der Barmherzige; Du bist der Freigebige, der Wohltäter, der Herr überreicher Gnade.
-
--- Abdu'l-Bahá

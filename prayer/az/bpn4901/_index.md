@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4901 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 *Naxçıvanın Artuz kəndi
@@ -10,5 +11,3 @@ Ey benim sevgili Yaranım! Şəmsi-həqiqət nöqteyi-ehtirağdadır. Afaqe fəc
 Ey dərgahi-əhədiyyətə müqərrib olanlar! Həmd olsun ki, bu bahari-ruhaniyyədə fiyuzati-rəhmaniyyədən nəsibi-möfurə və əvatefe-rəhmaniyyei-həzrəti-qəfurə nail ola bildiniz. Riyazi-əhədiyyətə həmd olsun, nəxle bazeqsiniz. Üfüqi-məhəbbəti İlahiyə şükr olsun, mətləi-irfanda nuri-bariqsiniz. Rəbbim müvəffəq buyursun, sübhi-sadiqsiniz. Artıq bu necə neəm cəlileyi-ilaheyeyə məzhər olduğunuz halda şövq və tərəb etməli, fərəh və şadmani etməli, məssərrət və kamrani buyurmalı və gecə-gündüz nəğmeyi cansuz eylə, ahəng və təranə eylə, ta ki, oməme şərqiyye və meləle qərbiyye, bəlkə bütün cahaniyan heyrət və vələhə müstəqrəq olsunlar və ya buşar və ya tuba və ya fərəha və ya sürura, ahəng və həvası iyuğa çıxıb, ta ki, Mələyi-Əla zövq və tərəblə gülsünlər. Şad olasınız. Var olasınız. Yar olasınız.
 
 Ey Allahın dostları! Deyilir ki, Qafqaz əslində Qaf dağıdır və Qaf dağı ilahi və səmavi Simurğun yuvasıdır. Allahın dostları gərək cəhd etsinlər və fədakarlıq göstərsinlər ki, həqiqətən, o ölkə Camalı-Əbhanın məhəbbət Simurğunun və uca üfüqün mərifət Ənqasının yuvası olsun. Və Salam və Səna sizin üzərinizə olsun.
-
--- Abdu'l-Bahá

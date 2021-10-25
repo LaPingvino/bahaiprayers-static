@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7329 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Nauczający i przyjaciele powinni codziennie czytać następującą modlitwę:
@@ -11,5 +12,3 @@ O Ty, Wszechmocny! Jesteśmy sługami Twoimi i Twoimi ubogimi, przebywamy daleko
 O Wszechmocny! Spojrzyj na nas miłosiernym okiem. Ześlij nam niebiańskie umocnienie. Obdarz nas tchnieniem Ducha Świętego, tak abyśmy zostali wspomożeni w Twojej służbie i niczym promienne gwiazdy zabłysnęli w tych krainach światłem Twojego przewodnictwa.
    
 Zaprawdę, Tyś jest Mocnym, Potężnym, Mądrym i Widzącym.
-
--- Abdu'l-Bahá

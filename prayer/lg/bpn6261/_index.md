@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6261 in Luganda'
+author = 'Bahá'u'lláh'
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ayi Katonda wange era Mukama wange!  Ndi muddu Wo era omwana w'omuddu Wo.  Ngolokose okuva ku kigugu kyange ku makya gano nga omusana gw'obumu Bwo, gwase okuva ku kitangaala ky'okusiima kwo, era ne gwakiza ekitangaala kyagwo eri ensi yonna, okusinziira kwebyo ebyawandiikibwa mu Bitabo byokulagira Kwo.
@@ -7,5 +8,3 @@ Ettendo libe Gyoli, Ayi Katonda kubanga tugolokokedde mu kumasamasa kw'amagezi G
 Omuwe omukisa, Ayi Mukama Katonda wange, Oyo Ggwe gwewasukulumya mu bitiibwa Byo byonna.  Era nga mu ye mwoyawulira wakati w'abalungi n'ababi, era olw'ekisa Kyo, otuyambe okukola ekyo Ggwe kyoyagala era ky'osiima.
 Nate era, wa omukisa, Ayi Katonda wange, abo ebigambo Byo era n'ennukuta Zo, era abakyusiriza amaaso gaabwe eri Agago, ne bawulira eddoboozi Lyo.
 Ggwe mu mazima, Ggwe Mukama era Kabaka w'abantu bonna, era oli wa buyinza, eri ebintu byonna.
-
--- Bahá'u'lláh

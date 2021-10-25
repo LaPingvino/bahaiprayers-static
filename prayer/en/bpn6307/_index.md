@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6307 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 ##Birth of the Báb 
@@ -21,5 +22,3 @@ O night of the All-Bountiful! In thee do We verily behold the Mother Book. Is it
 Whereupon, dumbfounded, the Pen of the Most High cried out: “O Thou Who art exalted above all names! I adjure Thee by Thy might that encompasseth the heavens and the earth to exempt me from mentioning Thee, for I myself have been called into being by virtue of Thy creative power. How, then, can I depict that which all created things are powerless to describe? And yet, I swear by Thy glory, were I to proclaim that wherewith Thou hast inspired me, the entire creation would pass away from joy and ecstasy, how much more then would it be overwhelmed before the billows of the ocean of Thine utterance in this most luminous, most exalted and transcendent Spot! Absolve, O Lord, this faltering Pen from magnifying so august a station, and deal mercifully with me, O my Possessor and my King. Overlook then my trespasses in Thy presence. Thou, verily, art the Lord of bounty, the All-Powerful, the Ever-Forgiving, the Most Generous.”
 
 * Ayyám-i-Tis’ih, pp. 12–15
-
--- Bahá'u'lláh

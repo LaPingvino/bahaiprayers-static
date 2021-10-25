@@ -1,10 +1,9 @@
 +++
 title = 'Prayer bpn1281 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Magnificado seja o Teu Nome, ó Senhor de todos os seres e Desejo de todas as coisas criadas! Imploro-Te - pela Palavra que fez a Sarça Ardente levantar a sua Voz e a Rocha exclamar, por cuja Causa os favorecidos apressaram-se a atingir a corte da Tua presença, e os puros de coração, a aurora da luz do Teu semblante, e pelos suspiros dos que verdadeiramente Te amam, devido à sua separação dos Teus eleitos, e pelos lamentos daqueles que anseiam por contemplar a Tua face, diante do esplendoroso alvorecer da luz da Tua Revelação - que pela Tua graça capacites os Teus servos a reconhecerem o que Tu lhes ordenaste pela Tua bondade e pelo Teu favor. Para eles prescreve Tu, então, pela Tua Pena de Glória, o que possa dirigir os seus passos ao oceano da Tua generosidade e conduzi-los às águas vivificadoras da Tua reunião celestial.
 Ó Senhor! Não olhes Tu as coisas que eles cometeram; antes, contempla a sublimidade da Tua generosidade celestial que precedeu a todas as coisas criadas, visíveis e invisíveis. Ó Senhor! Ilumina-lhes os corações com a luz fulgente do Teu conhecimento e torna radiantes os seus olhos com o brilho esplendoroso do sol dos Teus favores.
 Suplico-Te, ó Senhor dos Nomes e Criador dos céus - pelo sangue derramado no Teu Caminho, e pelas cabeças erguidas em lanças pela Causa do Teu amor, e pelas almas que se dissolveram na sua separação dos Teus bem-amados e pelos corações fragmentados pela exaltação da Tua Palavra - permite que os habitantes do Teu reino se unam em fidelidade à Tua Palavra incomparável, de modo que todos reconheçam a Tua unidade e a Tua unicidade. Nenhum Deus há, senão Tu, o Todo-Poderoso, o Mais Excelso, o Omnisciente, o Sábio.
 Nutre a esperança de que Aquele que é o Todo-Suficiente, o Inatingível, venha a atender a súplica deste humilde servo, para que atavie o povo do mundo com as vestes das boas ações e os purifique de más inclinações. Ele é o Grande, o Poderoso, a Suma Sabedoria, O que tudo percebe. Ele ouve e vê; Ele é Quem tudo ouve, Quem tudo vê.
-
--- Bahá'u'lláh

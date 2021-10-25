@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12439 in Namibia'
+author = 'Abdu'l-Bahá'
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Vyashiri na kutanta, lino ndyo liyuva omo nga u vhura udjuni kukukeya Shipara, nakuyuvha Lijwi  lyaMutwenyidirwa. Lijwi lyaKarunga linayuvhiki, ano shite shaShipara Shendi shina twedere pawiru yavantu. Vya wapera kehe muntu mukudongonona po mukoka wankango yavinyami pavitafure vyamumushima wendi, nakuteghelikida namaghano ghamawa nagha ghamawa ghakupira ghoma paviyivito vyaLihoramo  lyendi, vineghedo vyaLitumo lyendi, naviyivito vyashikoda Shendi. 
@@ -12,5 +13,3 @@ Kudividenu umwenu mulikurukuro lyankongo Dande mposhi mufukure mahoramo ghayo, n
  Karenu muvatapi muviwapera nampandu muvivipira. Fumadeka lihuguvaro lyavaunyoye, nka mukenge nashipara shakuvembera  nakushepashepa. Kara ugavo kuvahutu, murondoli kuvantungi, mulimburuli kunkugho yavapiri, mupunguli waupongoki wamatwenyidiro ghoye.  Kara ghuhungiki muvipangura vyoye nakukuvora muvifutita vyoye. Kara kupira ghuhungiki kunaumweshi nka negheda ghulimburuki kuvantu navantje. Kara yira ramba kwavo vana kuyendauro mudovera. ruhafo rwavandundumani likurudiva lyavakakunotwera, liyenga lyavanadjo, muvateli namupopeli wavo vana ku fo mumahepeko. Renka ushiri naughungiki viyivite virughana vyoye navintje. Kara ghuturo kumugenda, mutondo kuvaveli nkunki kumutjwayuki. Kara mantjo kumutwiku, nashite shakupititira mpadi davarendarendi. Kara shiyengita kushipara shaushiri, likoli lyashiuhompa kushipara sha lihuguvaro, ngundi yantembeli yauhungiki, munku waliparu kughudjuni, lirembe kumbunga  yauhungiki, likenito kuwiruwiru yaudimiki, lime kulivhu lyamutjima wamuntu, likuruwato palikurukuro lyamayiviro, liyuva muliwiru lyaughomoki, likwarara mulikoli lyaghuhompa waukonentu, shite shakurwedima kuliwiru lyavanantjoka voye, nyango kushitondo shamaku didipito. 
 	
 Shikoda shakarenakare shapulire mukushimanga namalyenge mposhi  ghudjuni u yovoke kughupika wagho, nka kwa tambura mukukara nkwati munda yaUvando wakupama ngudu ashi ghudjuni nauntje ghumanguruke. Ghuye a nwine nkinda yarungako nange palitako ashi dimuhoko nadintje dapalivhu di wane ruhafo rwakukarerera, nakudiyuda ruhafo.Vino kuna kutunda kunkenda yaHompa wenu, Mufenkenda, Munankenda ngudu. Atwe twa tambura mukutudidipita, oh, vapuli muUmwe waKarunga, ashi ngava mu yerure, ano mwa hepa mwa vyavingi, ashi ngamu yende kumeho nakukura. Ogho a ya mukuyatunga ghudjuni paupe, kenga, ashi weni vahameni ovo vakupakiliro kumwe naKarunga vamutininikire muku ka tunga mumbara damarunda!
-
--- Abdu'l-Bahá

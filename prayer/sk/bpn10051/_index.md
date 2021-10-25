@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10051 in Slovensky'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Ty láskavý Pane! Celé ľudstvo si stvoril z rovnakej podstaty. Rozhodol si, že všetci budú náležať k rovnakému rodu. V Tvojej Svätej prítomnosti sú všetci Tvojimi služobníkmi a celé ľudstvo nachádza útočisko pod Tvojím svätostánkom. Všetci sa spolu zhromaždili pri Tvojom stole štedrosti. Všetkých rozjasňuje svetlo Tvojej prozreteľnosti.
@@ -10,5 +11,3 @@ tags = ['lang-sk', 'bpn-unsorted']
 Stmeľ srdcia, ó Bože!
 Ó Ty láskavý Otče, Bože! Poteš nám srdcia vôňou Svojej lásky! Rozžiar nám zrak svetlom Svojho vedenia. Poteš nám sluch nápevom Svojho slova a všetkých nás ochraňuj v pevnosti Svojej prozreteľnosti.
 Ty si Mocný a Silný, Ty si Odpúšťajúci a Ty si Ten, kto prehliada nedostatky celého ľudstva.
-
--- Abdu'l-Bahá

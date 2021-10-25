@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8165 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Han er Den Mægtige, Tilgiveren, Den Medfølende!
@@ -11,5 +12,3 @@ Jeg beder Dig, o Herre min Gud, ved stråleglansen fra Din kærlige omsorgs lys 
 Magtfuld er Du til at handle som Du vil. Der er ingen anden Gud end Dig, Den Alvidende, Den Alvise.
 
 Bestem for mig i kraft af Din nåde, o Herre, det, der skal gavne mig i denne verden og den næste, og drag mig nær til Dig, o Du, som er alle menneskers Herre. Der er ingen anden Gud end Dig, Den Ene, Den Mægtige, Den Forherligede.
-
--- Bahá'u'lláh

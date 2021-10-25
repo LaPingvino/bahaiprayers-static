@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7399 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Oddaję Ci cześć, o mój Boże, za to, że zachwycił mnie zapach Twojej serdecznej życzliwości, a łagodne powiewy Twojego miłosierdzia skłoniły mnie ku Twym szczodrym łaskom. Spraw, abym napił się, o mój Panie, z palców Twej szczodrobliwości, żywej wody, która pozwoliła wszystkim, którzy się nią pokrzepili, wyzbyć się wszelkiego przywiązania do kogokolwiek oprócz Ciebie, oraz wzbić się w sferę uniezależnienia od wszystkich Twoich stworzeń i utkwić wzrok w Twojej miłującej opatrzności i Twoich nieskończonych darach. 
@@ -17,5 +18,3 @@ Dokąd mam się skierować, o mój Boże, będąc bezsilny, by odkryć inną dro
 Przeznacz dla mnie, o mój Boże, to, co sprawi, że będę stale zwrócony ku Tobie, i dopomóż mi, abym nieustannie trzymał się więzi Twojej łaski i głosił Twoje imię, i wypatrywał tego, co może spłynąć z Twego pióra. Jestem ubogi i niepocieszony, o mój Panie, a Tyś jest Wszystko Posiadającym, Najwyższym. Miej litość zatem nade mną, poprzez cudowność swego miłosierdzia, i zsyłaj na mnie w każdej chwili mego życia rzeczy, za sprawą których na nowo stworzyłeś serca Twoich stworzeń, które rozpoznały Twoją jedność, i wszystkich Twoich ludzi, którzy są całkowicie oddani Tobie. 
     
 Tyś zaiste jest Wszechmogącym, Najbardziej Wywyższonym, Wszystkowiedzącym, Wszechmądrym.
-
--- Bahá'u'lláh

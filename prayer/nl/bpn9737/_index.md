@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9737 in Nederlands'
+author = 'Abdu'l-Bahá'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 *Gebed om bij de sluiting van de vergadering van de Geestelijke Raad te zeggen.
@@ -9,5 +10,3 @@ O God! O God! Zie vanuit Uw onzichtbare koninkrijk van één-zijn hoe wij in dez
 O onze Heer! Wij zijn zwak, en Gij zijt de Krachtige, de Machtige. Wij zijn levenloos en Gij zijt de grote levenschenkende Geest. Wij zijn behoeftig en Gij zijt de Schragende, de Krachtige.
 O onze Heer! Keer ons gelaat naar Uw barmhartig aangezicht, voed ons met Uw overvloedige genade van Uw hemelse dis, sta ons bij met Uw verheven engelenscharen en bekrachtig ons door de heiligen van het Koninkrijk van Abhá.
 Waarlijk, Gij zijt de Grootmoedige, de Barmhartige. Gij zijt de Bezitter van grote milddadigheid en waarlijk, Gij zijt de Goedertierene en de Genadige.
-
--- Abdu'l-Bahá

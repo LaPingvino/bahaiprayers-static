@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11708 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Shīnē Sarki, Masani, Mai hikima ! Ka saurāri sūdar aljanna dake bisa rassun itāciyar dawwama har abada. Tana rēra tsarkakakkiyar wāƙa mai dāɗi, tana ayyanāwa rāyuka na gari, bushārar kusantaka da Allah. Tana gayyatar waɗanda suka bāda gaskiya da kaɗaitakar Allah, su isō dandalin mayalwaci. Tana gayāwa waɗanda ba su sarƙafu da abun dūniya ba, sāƙon da ya sauko daga Allah sarki, maɗaukaki, da bā shi abōkin tārayya. Tana jāgōrar mumunai zuwa wajen gadon tsarkaka, kuma wajen wannan nagartacen kyāwo.
@@ -15,5 +16,3 @@ Ka tabbata cikin zurfin zūciyarka da cēwa, wanda ya yi wātsi da wannan kyāwo
 Kafa wannan āyā cikin zūciyarka, yā kai Ahmad ! kuma ka jā ta har mutuwarka, kada ka kēɓē daga bisa hanyar umurninta. Haƙīƙa, wanda ya jā wannan āyā, Allah yā ɗauki alkawarin bā shi lādan shāhidai ɗari, kuma da izinin kyautatāwa dūniya da lāhira. Wannan alhurmā, mun bā ka ita cikin rahamarmu da karāmarmu, dōmin ka zamana cikin māsu gōdiya.
 Nā rantse da Allah Ubangiji subahānahu wata ālā ! Duk tālikin dake cikin matsala, kō rūdāni, idan ya jā wannan āyā da zūciya guda, Allah nā sanyayā masa zūciyarsa, ya ƙēɓē masa azabar da yake ciki, kuma ya rabā shi da matsalōlin da suka addabē shi.
 A gaskiya, shīnē mai rahama, mai jin ƙai. Gōdiya ta tabbata ga Allah, Ubangijin duka dūniyōyi.
-
--- Bahá'u'lláh

@@ -1,8 +1,7 @@
 +++
 title = 'Prayer bpn7830 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Gloria sia a Te, o Signore mio Dio! T’imploro – per il Tuo Nome, per il quale elevasti le insegne della Tua guida e diffondesti la radiosità della Tua amorosa gentilezza e rivelasti la sovranità della Tua Signorìa; per il quale la lampada dei Tuoi Nomi è apparsa entro la nicchia dei Tuoi attributi e Colui Che è il Tabernacolo della Tua unità e la Manifestazione del distacco ha brillato; per il quale le vie della Tua, guida furono rese note e i sentieri del Tuo compiacimento segnati; per il quale le fondamenta dell’errore furono fatte tremare e i segni della malvagità aboliti; per il quale le fonti della saggezza sono scaturite e la tavola celestiale è stata inviata; per il quale preservasti i Tuoi servi e accordasti loro la Tua guarigione; per il quale mostrasti le Tue tenere misericordie ai Tuoi servi e rivelasti il Tuo perdono fra le Tue creature – io T’imploro di custodire colui che è rimasto costante ed è tornato a Te, aggrappato alla Tua misericordia e afferrato all’orlo della Tua amorosa provvidenza. Fa’ scendere su di lui il Tuo potere risanatore, rendilo sano e dotalo della costanza da Te accordata e della tranquillità elargita dalla Tua sovranità. 
 Tu sei, in verità, il Guaritore, il Protettore, il Soccorritore, l’Onnipotente, il Potente, il Gloriosissimo, l’Onnisciente.
-
--- Bahá'u'lláh

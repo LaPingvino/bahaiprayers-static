@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12192 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 #AYYÁM-I-HÁ
@@ -16,5 +17,3 @@ Engkau melihat, Ya Tuhanku, bagaimana mereka telah mengenal dan mengakui apa sah
 
 Aku memohon kepada-Mu, Ya Engkau Raja segala raja dan Pengasih mereka yang tertindas, agar menetapkan bagi mereka kebaikan dunia ini dan akhirat. Tambahan lagi, tulislah bagi mereka apa yang tak pernah ditemukan oleh makhluk-makhluk-Mu dan masukkanlah mereka ke dalam bilangan orang-orang yang telah mengelilingi-Mu, dan yang bergerak di sekitar singgahsana-Mu di setiap alam daripada alam-alam-Mu.    
 Engkau, sesungguhnya, adalah Yang Maha Kuat, Yang Maha Tahu, Yang Maha Arif.
-
--- Bahá'u'lláh

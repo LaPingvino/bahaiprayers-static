@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4760 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ey mənim Allahım! Mən Sənə və Sənin əlamətlərinə iman gətirmiş bir bəndənəm. Görürsən, Sənin mərhəmət qapına yönəlmiş və üzümü Sənin inayət sahilinə tutmuşam. Səni and verirəm ən gözəl adlarına və ən uca sifətlərinə - nemətlərinin qapısını mənim üzümə aç. Sonra isə yaxşı əməllərə müvəffəq eylə, Sən Ey bütün adlar və sifətlərin Sahibi!
@@ -11,5 +12,3 @@ Ey mənim Allahım, mənim gözlərimdən pərdəni qaldır ki, Sənin yaratdıq
 Mən Sənə şükrlər edirəm, Ey mənim Rəbbim, Sən məni qəflətdən oyatdın, ayıltdın və bəndələrinin əksəriyyətinin qafil olduqlarını anlamağa istək yaratdın. İndi isə Sənin məhəbbətin və razılığın xatirinə, istədiklərinin həqiqətini görməyə məni qadir eylə. Sən O Kəssən ki, hər şey Onun qüdrət və hökmranlığına şəhadət verir.
 
 Səndən başqa Allah yoxdur, Ən Qüdrətli və Ehsan Edən Allah.
-
--- Bahá'u'lláh

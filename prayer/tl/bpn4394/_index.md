@@ -1,9 +1,8 @@
 +++
 title = 'Prayer bpn4394 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Buhat sa humahalimuyak na mga batis ng Iyong kawalang-hanggan, bigyan Mo ako ng inumin, O aking Diyos, at sa mga bunga ng punong kahoy ng Iyong sarili, hayaan Mo akong tumikim, O aking Pag-asa! Sa mga kristal na bukal ng Iyong pag-ibig, tulutan Mo akong uminom, O aking Luwalhati, at sa lilim ng anino ng Iyong walang katapusang pagpapala, hayaan Mo akong manahan, O aking Liwanag! Sa loob ng mga pastulan ng Iyong kalapitan sa harap Mo, pahintulutan Mong ako’y makagala, O aking Mahal, at sa gawing kanan ng trono ng Iyong Habag ay iluklok ako, O aking Ninanais! Buhat sa mababangong hangin ng Iyong kaligayahan, hayaang may dumapyo sa akin na isang simoy, O aking Hantungan, at sa mga kataasan ng paraiso ng Iyong realidad, tulutan akong makapasok, O aking Sinasamba! Sa mga awitin ng kalapati ng Iyong kaisahan, tulutan Mo akong makapakinig, O Lubhang Maningning, at sa pamamagitan ng espiritu ng Iyong lakas at Iyong kapangyarihan buhayin Mo ako, O aking Tagapagtustos! Sa diwa ng Iyong pag-ibig loobin Mo akong maging matapat, O aking Tagasaklolo, at sa landas ng Iyong mabuting kasiyahan patatagin ang aking mga hakbang, O aking Manlilikha! Sa loob ng hardin ng Iyong kawalang-kamatayan, sa harap ng Iyong kaanyuan, tulutan Mo akong manahan magpakailanman, O Ikaw na Mahabagin sa akin, at sa luklukan ng Iyong kaluwalhatian itatag Mo ako, O Ikaw na aking Tagapagmay-ari! Sa langit ng Iyong mapagmahal na kabutihan itaas Mo ako, O aking Tagapagbuhay, at tungo sa Bituing-Araw ng Iyong pamamatnubay akayin Mo ako, O Ikaw na aking Taga-akit! Sa harap ng mga kahayagan ng Iyong di-nakikitang espiritu tawagin Mo ako’t paharapin, O Ikaw na aking Pinagmulan at aking Pinakamatayog na Hangarin, at sa buod ng kabanguhan ng Iyong kagandahan, na Iyong ihahayag, loobin Mo akong makabalik, O Ikaw na aking Diyos!
 
 May kakayahan Kang gumawa ng Iyong ninanais. Tunay na Ikaw ang Kataas-taasan, ang Maluwalhati sa Lahat, ang Matayog sa Lahat.
-
--- Bahá'u'lláh

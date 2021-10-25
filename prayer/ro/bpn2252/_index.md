@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2252 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Tu, bunule Dumnezeu! Tu ai făcut întreaga omenire din aceeaşi plămadă. Tu ai poruncit ca toţi să aparţină aceleiaşi familii. În Sfânta Ta prezenţă, toţi sunt slujitorii Tăi şi întreaga omenire se adăposteşte sub Tabernacolul Tău. Toţi s-au adunat în jurul mesei Tale îmbelşugate şi toţi sunt luminaţi de lumina Providenţei Tale.
@@ -17,5 +18,3 @@ O, Tu, Părinte bun, Doamne Dumnezeule! Desfată-ne inimile cu mireasma iubirii 
 Farmecă-ne urechile cu melodia Cuvântului Tău şi adăposteşte-ne în Citadela Providenţei Tale.
 
 Tu eşti Cel Tare şi Puternic, Tu eşti Cel Iertător şi Tu eşti Cel ce trece cu vederea lipsurile tuturor oamenilor.
-
--- Abdu'l-Bahá

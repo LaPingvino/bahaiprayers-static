@@ -1,5 +1,6 @@
 +++
 title = 'Prayer AB00241HIG in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'AB00241HIG']
 +++
 ##Revealed to the Bahá'ís of the Northeastern States
@@ -13,5 +14,3 @@ O Thou Almighty! We are Thy servants and Thy poor ones; we are remote and yearn 
 O Almighty! Look upon us with the glance of mercifulness. Grant us heavenly confirmation. Bestow upon us the breath of the Holy Spirit, so that we may be assisted in Thy service and, like unto brilliant stars, shine in these regions with the light of Thy guidance.
 
 Verily, Thou art the Powerful, the Mighty, the Wise and the Seeing.
-
--- Abdu'l-Bahá

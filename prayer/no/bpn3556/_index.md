@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3556 in Norsk'
+author = 'Báb'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Ære være deg, o Herre, du som har frembragt alle skapte ting, ved din befalings kraft.
@@ -9,5 +10,3 @@ O Herre! Bistå dem som har forsaket alt annet enn deg, og skjenk dem en stor se
 Du er deres Herre, himlenes og jordens Herre, alle verdeners Herre. Styrk denne tro, o Herre, gjennom disse tjeneres kraft, og gi dem å vinne seier over alle verdens folk; for de er i sannhet dine tjenere som har løsrevet seg fra alt annet enn deg, og du er sannelig de sanne troendes beskytter.
  
 Gi du, o Herre, at deres hjerter -gjennom troskap mot denne din ukrenkelige tro -kan bli sterkere enn noe annet i himmelen og på jorden og i hva som enn er mellom dem; og styrk, o Herre, deres hender med tegnene på din underfulle kraft slik at de kan åpenbare din kraft for hele menneskehetens øyne.
-
--- Báb

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer AB07709CON in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'AB07709CON']
 +++
 O my God! O my God! Glory be unto Thee for that Thou hast confirmed me to the confession of Thy oneness, attracted me unto the word of Thy singleness, enkindled me by the fire of Thy love, and occupied me with Thy mention and the service of Thy friends and maidservants.
@@ -9,5 +10,3 @@ O Lord, help me to be meek and lowly, and strengthen me in severing myself from 
 O God! Sanctify me from all else save Thee, purge me from the dross of sins and transgressions, and cause me to possess a spiritual heart and conscience.
 
 Verily, Thou art merciful and, verily, Thou art the Most Generous, Whose help is sought by all men.
-
--- Abdu'l-Bahá

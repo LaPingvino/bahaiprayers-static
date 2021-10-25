@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6790 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Glory be to Thee, O God, for Thy manifestation of love to mankind!  O Thou Who art our Life and Light, guide Thy servants in Thy way, and make us rich in Thee and free from all save Thee.  
@@ -11,5 +12,3 @@ O God, create in the hearts of Thy beloved the fire of Thy love, that it may con
 Reveal to us, O God, Thine exalted eternity - that Thou hast ever been and wilt ever be, and that there is no God save Thee.  Verily, in Thee will we find comfort and strength.
 
 *Bahá’í Prayers, UK, 58
-
--- Bahá'u'lláh

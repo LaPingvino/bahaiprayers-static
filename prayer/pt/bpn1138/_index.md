@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1138 in Português (BR)'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Senhor, meu Deus e meu Amparo na aflição! Meu Escudo e meu Abrigo nas tribulações! Meu Asilo e Refúgio em tempo de necessidade e, na solidão, meu Companheiro! Na angústia, meu Consolo; na minha solitude, um Amigo afetuoso! Aquele que remove as dores pungentes dos meus desgostos e perdoa os meus pecados!
@@ -13,5 +14,3 @@ Que o meu coração transborde de amor às Tuas criaturas e que me torne o sinal
 À sombra das Tuas asas protetoras possa eu aninhar-me, e sobre mim desça o Teu olhar de universal amparo.
 Rouba-me o silêncio para elogiar o Teu nome entre o Teu povo; faze a minha voz erguer-se em grandes assembleias e dos meus lábios emanar um dilúvio de palavras em Teu louvor.
 Tu és, em absoluta verdade, o Misericordioso, o Glorificado, o Grande, o Omnipotente.
-
--- Abdu'l-Bahá

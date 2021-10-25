@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12344 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 A Ia ko te Atua!  
@@ -11,5 +12,3 @@ maumea o Tou Fakatasitasi Faka-te-Lagi; seai ne lavalava, fakapei aka matou ki t
 motou agasala mai i luga i Tou alofakaimalie, Tou alofaga mo Tau faka seai o agasala.  A Koe, e tonu, ko te Lago, ko te Feasoasoani, ko te Atafai, ko te Mafi, ko te Maalosi.  
   
 Ko te matagofie o matagofie e nofo i luga ia latou ko la e mmau kae tumau.
-
--- Abdu'l-Bahá

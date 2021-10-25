@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1319 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 #A SER RECITADA UMA VEZ EM VINTE E QUATRO HORAS
@@ -32,5 +33,3 @@ Louvores a Ti, ó meu Deus, por me haveres ajudado a recordar-Te e a louvar-Te, 
 Louvores a Ti, ó nosso Deus, por nos teres enviado o que nos faça aproximar de Ti, e concedido todo o bem que ordenaste nos Teus Livros e nas Tuas Escrituras. Suplicamos-Te, ó meu Senhor, que nos protejas das hostes das vãs fantasias e das ideias fúteis. És, em verdade, o Poderoso, o Omnisciente.
 *Que em seguida levante a cabeça, se sente e diga:
 Atesto, ó meu Deus, aquilo de que deram testemunho os Teus Eleitos, e reconheço o que reconheceram os habitantes do mais alto Paraíso e aqueles que rodeiam o Teu Trono grandioso. Os reinos da terra e do céu são Teus, ó Senhor dos mundos!
-
--- Bahá'u'lláh

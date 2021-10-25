@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12198 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ##LOH AHMAD
@@ -38,5 +39,3 @@ Pelajarilah baik-baik Loh ini, wahai Ahmad. Nyanyikanlahnya selama hari-harimu d
 Demi Tuhan! Barangsiapa yang berada dalam kesukaran atau kesengsaraan membaca Loh ini dengan ketulusan yang mutlak, Tuhan akan menghapuskan kedukaannya, menyelesaikan kesukarannya dan melenyapkan kesengsaraannya.
 
 Sesungguhnya, Dia Yang Maha Pengasih, Maha Penyayang. Pujian bagi Tuhan, Raja sekalian alam.
-
--- Bahá'u'lláh

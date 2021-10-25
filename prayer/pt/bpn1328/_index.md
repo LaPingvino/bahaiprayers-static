@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1328 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola De Ridván
@@ -19,5 +20,3 @@ Este é o Dia em que o Revelador dos nomes de Deus saiu do Tabernáculo da Glór
 Esquece-te do mundo da criação, ó Pena, e volve-te para a face do teu Senhor, o Senhor de todos os nomes. Embeleza, então, o mundo com o ornamento dos favores do teu Senhor, o Rei dos dias eternos. Pois percebemos a fragrância do Dia em que Aquele, o Desejo de todas as nações, irradiou sobre os reinos do invisível e do visível o esplendor da luz dos Seus mais excelentes nomes, envolvendo-os na fulgência dos luminares dos Seus mais generosos favores - favores que ninguém pode estimar, salvo Ele, o Omnipotente Protetor da criação inteira.
 Não contemples as criaturas de Deus, a não ser com os olhos da benevolência e da mercê, pois a Nossa terna Providência abrangeu todas as coisas criadas e a Nossa graça cingiu a terra e os céus. Este é o Dia em que os verdadeiros servos de Deus participam das águas vivificadoras da reunião, o Dia em que aqueles que estão próximos d’Ele podem sorver do suave rio da imortalidade, e os que creem na Sua unidade, do vinho da Sua Presença, através do seu reconhecimento d’Aquele que é o Alvo Supremo e Final de todos, em Quem a Língua da Majestade e Glória pronuncia o chamado: “Meu é o Reino. Eu próprio sou, em virtude de direito Meu, o seu Governante.”
 Atrai os corações dos homens, através do chamado d’Aquele que é o único Bem-Amado. Dize: Esta é a Voz de Deus - se apenas escutardes. Este é o Amanhecer da Revelação de Deus - se apenas o soubésseis. Este é o Lugar donde raiou a Causa de Deus - fosseis reconhecê-lo. Esta é a Origem do mandamento de Deus - se apenas pudésseis julgar com equidade. Este é o Segredo manifesto e oculto; Oxalá o pudésseis perceber. Ó povos do mundo! Em Meu nome, o qual transcende
-
--- Bahá'u'lláh

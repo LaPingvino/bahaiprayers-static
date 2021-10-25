@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5027 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Lửa Thiêng
@@ -142,5 +143,3 @@ Quả thật, Con đã nghe Tiếng gọi, hỡi Đấng Baha Kính yêu, và Co
 
 Hỡi Ngài là Đấng Ali-Qubli-Akbar.
 Hãy ca ngợi Thượng Đế đã mặc khải bản Kinh này, để các ngươi hít thở được hương thơm kiên nhẫn của Ta và được biết sự gì đã vây phủ lấy Chúng Ta trên đường của Thượng Đế, Đấng Tôn thờ của toàn thế giới.
-
--- Bahá'u'lláh

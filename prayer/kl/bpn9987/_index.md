@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9987 in Kalaallisut'
+author = 'Abdu'l-Bahá'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *(Qinnut una, 'Abdu'l-Bahá-mit saqqummerneqarsimasoq Ilerfata eqqaani atuarneqartarpoq. Namminerlu kisimiilluni qinunermi atorneqartarluni.) 
@@ -19,5 +20,3 @@ Naalagaq-aa, Guutiga! Saammaannerit uannut tunniuguk Asasatit kiffartuuteqqullug
 Qinnummit matuminnga Kiffavit ullaakkut qaalernermi unnukkullu qaaqquaatit. Uummataata kipisassutaa piviusunngortiguk, Naalagaq-aa! Uummataa qaammarissunngortiguk, ilua qiimmatsileruk, qaamanera ikiguk, Siunertat Kiffatillu kiffartuunniassammagit.
 
 Tassaavutit Tunisisoq, Misiginneqataasoq, sunit tamanit Tukkunerpaasoq, Saammassisoq, Naakkinnittoq.
-
--- Abdu'l-Bahá

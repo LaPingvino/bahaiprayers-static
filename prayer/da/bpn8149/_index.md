@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8149 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 *”Disse daglige obligatoriske bønner, samt nogle få specielle, som Bønnen for Helbredelse og Brevet til Ahmad, er af Bahá’u’lláh blevet udrustet med en særlig kraft og betydning og skal derfor accepteres således og fremsiges af de troende med ubetinget tro og tillid, så de gennem dem kan komme i tættere forbindelse med Gud og identificere sig mere fuldstændigt med Hans love og forskrifter." - Fra et brev skrevet på Shoghi Effendis vegne.
@@ -39,5 +40,3 @@ Lær dette brev godt, o Ahmad. Fremsig det i dine dage og hold dig ikke tilbage 
 Ved Gud! Om et menneske, der lider eller sørger, læse dette brev med fuldkommen oprigtighed, vil Gud borttage hans sorg, løse hans vanskeligheder og fjerne hans lidelser.
 
 I sandhed, Han er Den Barmhjertige, Den Medfølende. Lovet være Gud, Herren over alle verdener.
-
--- Bahá'u'lláh

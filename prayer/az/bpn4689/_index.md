@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4689 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 ##İyirmi dörd saatda bir dəfə qılmali
@@ -63,5 +64,3 @@ Ey bizim Allahımız, bizi Sənə yaxınlaşdıran, Kitab və Səhifələrində 
 *Sonra o səcdədən başını qaldırsın və əyləşərək söyləsin:
 
 Ey mənim Allahım, Sənin seçilmişlərinin şəhadət verdiklərinə şəhadət verirəm və ən uca Cənnətin sakinlərinin və Sənin qüdrətli Taxtının ətrafında təvaf edənlərin etiraf etdiklərini etiraf edirəm. Mülk və Mələkut Sənindir, Ey aləmlərin Rəbbi!
-
--- Bahá'u'lláh

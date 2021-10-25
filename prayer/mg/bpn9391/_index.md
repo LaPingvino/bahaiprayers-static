@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9391 in Malagasy'
+author = 'Abdu'l-Bahá'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Dera ho Anao, ry Andriamanitro ô! Marina tokoa, ireto ny mpanomponao voasariky ny hanitry ny Famindramponao, miredareda amin’ny afo mirehitra eo amin’ny hazon’ny Firaisanao ary ny masony mamirapiratra mandinika ny fahazavana manjopika eo amin’ny Sinaï-n’ny maha-Iray Anao.
@@ -9,5 +10,3 @@ Ry Andriamanitro ô! Andriamanitro! Hitanao ity voahary malemy izay mitalaho ny 
 Ry Tompo ô! Tsy manan-kianteherana afa-tsy Aminao aho, tsy manana mpampionona na mpiahy aho afa-tsy Ianao! Ampio amin’ireo anjelinao aho amin’ny fampielezana ny Hanitrao masina sy ny fanapariahana ny Fampianaranao eo amin’ny olom-boafidinao.
 Ry Tompo ô! Aoka tsy hiraikitra amin’ny zavatra rehetra aho afa-tsy Aminao ary hifikitra mafy amin’ny rambon’akanjonao, aoka ho tso-po aho ao amin’ny Finoanao, ho mafy orina ao amin’ny Fitiavanao, ary ataovy izay hiainako mifanaraka amin’izay nolazainao tao amin’ny Bokinao.
 Marina tokoa, Ianao Ilay Mahery, Ilay Matanjaka, Ilay Mahefa ny zavatra rehetra.
-
--- Abdu'l-Bahá

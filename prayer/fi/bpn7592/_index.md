@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7592 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *... päivittäiset velvollisuusrukoukset sekä muutamat muut erityisrukoukset, kuten Parannusrukous ja Aḥmadin muistio, on Bahá'u'lláh varustanut aivan erityisellä voimalla ja merkityksellä. Uskovien tulisi sen vuoksi hyväksyä ne sellaisinaan ja empimättä lausua ne uskoen ja luottaen, että niiden kautta he voivat päästä paljon läheisempään yhteyteen Jumalan kanssa ja samastua entistä täydellisemmin Hänen lakeihinsa ja määräyksiinsä.
@@ -22,5 +23,3 @@ Ole varma siitä, että totisesti se, joka kääntyy pois tästä Kauneudesta, o
 Opettele hyvin tämä muistio, oi Aḥmad. Laula sitä elinaikanasi äläkä epää sitä itseltäsi, sillä totisesti Jumala on säätänyt sille, joka sitä laulaa, sadan marttyyrin palkkion sekä palvelun molemmissa maailmoissa. Nämä suopeuden osoitukset Me olemme suonut sinulle anteliaisuuden osoituksena puoleltamme ja armeliaisuutena tyköämme, että kuuluisit niihin, jotka ovat kiitollisia.
 Jumalan nimeen! Jos joku, joka on tuskainen tai murheinen, lukee tämän muistion ehdottoman vilpittömästi, Jumala karkottaa hänen surunsa, selvittää hänen vaikeutensa ja poistaa hänen tuskansa.
 Totisesti Hän on Armelias, Sääliväinen! Ylistys olkoon Jumalalle, kaikkien maailmojen Herralle!
-
--- Bahá'u'lláh

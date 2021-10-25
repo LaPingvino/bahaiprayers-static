@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7326 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Ktokolwiek wybiera się w podróż do jakiegoś miejsca, aby nauczać, niechaj w czasie swej podróży do obcych krajów odmawia tę modlitwę w dzień i w nocy:
@@ -11,5 +12,3 @@ O Panie! Wzmocnij moje barki, pozwól mi Ci służyć ze wszystkich sił i nie p
 O Panie! Pozwól mi obcować z Tobą w mej samotności i pozostań moim towarzyszem w tych obcych krajach.
    
 Zaprawdę, Ty umacniasz kogokolwiek zechcesz w tym, czego pragniesz, i zaprawdę, Tyś jest Wszechpotężnym, Wszechmocnym.
-
--- Abdu'l-Bahá

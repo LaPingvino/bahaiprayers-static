@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2265 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slavă ţie, o, Doamne Dumnezeul meu!
@@ -8,5 +9,3 @@ Nu-l coborî pe cel pe care l-ai ridicat prin puterea suveranităţii Tale nepie
 Slăvit, nemăsurat de slăvit eşti Tu! Tu eşti Cel ce din veşnicie a fost Regele întregii creaţii şi Animatorul ei primordial, şi Tu vei rămâne întru veşnicie Stăpânul tuturor lucrurilor create şi Orânduitorul lor. Slăvit eşti Tu, o, Dumnezeul meu! Dacă încetezi să fii milostiv cu slujitorii Tăi, cine atunci, le va arăta milostivire; iar dacă refuzi să-i ajuţi pe cei ce-i iubeşti, cine altcineva ar putea să-i ajute?
 
 Slăvit, nemăsurat de slăvit eşti Tu! Tu eşti adorat în adevărul Tău, şi pe Tine, cu adevărat, Te preamărim cu toţii; iar dreptatea este o formă de manifestare a Ta, şi cu adevărat, ţie îţi aducem cu toţii mărturie. Tu eşti, în adevăr, preaiubit în generozitatea Ta. Nu se află alt Dumnezeu afară de Tine, Ajutorul în Primejdie, Cel de Sine Stătător.
-
--- Bahá'u'lláh

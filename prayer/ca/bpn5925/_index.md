@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5925 in Català'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Tu, bondadosa i amant Providència; L’Orient està en moviment i l’Occident s’agita com les eternes ones de la mar. Es difonen les suaus brises de la santedat i, des del Regne Invisible brillen resplendents. S’entonen els himnes de la divina unitat i flamegen les ensenyes del poder celestial. Es fa sentir la Veu angelical i, igual que el bram del leviatan, entona la crida a l’abnegació i l’evanescència. La crida de triomf de Ya Bahá’u’l-Abhá ressona arreu, i en totes les regions s’anuncia la crida de Ya ‘Alíyyu’l-‘Alá . No hi ha commoció al món, tret d’aquella, de la Glòria de l’Únic Conqueridor de Cors, i no hi ha tumult tret de l’onatge de l’amor d’Ell l’Incomparable, el Benamat.
@@ -10,5 +11,3 @@ Oh Déu Omnipotent, escuda’ns i sigues nostre refugi i, oh Senyor del Ser, mos
 Oh Tu Senyor amorós, els promotors de sedició estan en moviment i actius en algunes regions, i nit i dia infligeixen greu mal.
 Com si fossin llops, els tirans, jauen a l’aguait, i el ramat, agreujat i innocent, no té ajuda ni socors. Una gossada segueix el rastre a les gaseles dels camps de la unitat divina; i el faisà de les muntanyes de guia divina és perseguit pels corbs de l’enveja.
 Oh Tu, Divina Providència, preserva’ns i protegeix-nos! Oh Tu qui ets el nostre Escut, salva’ns i defensa’ns! Guarda’ns a la Teva empara i, amb la Teva Ajuda, lliura’ns de tots els mals. Tu ets, realment, el Vertader Protector, el Guardià Invisible el Preservador Celestial, l’Amorós Senyor del Cel.
-
--- Abdu'l-Bahá

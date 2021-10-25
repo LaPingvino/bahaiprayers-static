@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4456 in Filipino'
+author = 'Abdu'l-Bahá'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Ikaw na mapagpatawad na Diyos! Ang mga tagapaglingkod na ito ay nagsisibaling sa Iyong Kaharian at nagsisipaghanap ng Iyong biyaya at pagpapala. O Diyos! Pabutihin at padalisayin ang kanilang mga puso upang sila’y maging karapat-dapat sa Iyong pag-ibig. Dalisayin at banalin ang kanilang mga espiritu upang ang liwanag ng Araw ng Katotohanan ay sumikat sa kanila. Dalisayin at banalin ang mga mata upang mamalas nila ang Iyong liwanag. Dalisayin at banalin ang mga tainga upang marinig nila ang tawag ng Iyong Kaharian. 
@@ -11,5 +12,3 @@ O Diyos, aking Diyos! Isabog Mo sa pagtitipong ito ang mga sulyap ng Iyong mapag
 O Panginoon! Ipagkaloob Mo ang magiliw na tulong at pagpapatibay sa makatarungang pamahalaang ito. Ang bansang ito ay nasa ilalim ng kumakanlong na anino ng Iyong pangangalaga at ang mga taong ito ay naglilingkod sa Iyo. O Panginoon! Pagkalooban sila ng Iyong makalangit na biyaya at gawin Mong ang buhos ng Iyong pagpapala at kaloob ay maging napakarami at masagana. Tulutan ang kagalang-galang na bansang ito ay kilalaning marangal at tulungang ito ay tanggapin sa Iyong kaharian.
 
 Ikaw ay Malakas; Ikaw ay Makapangyarihan sa Lahat; Ikaw ay Mahabagin; at Ikaw ay Pinakamapagbigay, ang Panginoong puspos ng biyaya.
-
--- Abdu'l-Bahá

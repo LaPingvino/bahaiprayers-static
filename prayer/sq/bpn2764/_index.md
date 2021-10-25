@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2764 in Shqip'
+author = 'Bahá'u'lláh'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 *(Lutje nga i nënti Lajm i Gëzuar i Bahá'u'lláh-ut)
@@ -16,5 +17,3 @@ Sa keq! Sa keq! Mëkatet e mia më kanë penguar t'i avitem Oborrit të shenjtë
 Të lutem Ty, për Atë që është Zoti sovran i Emrave, të shkruash për mua me Pendën e bujarisë Sate atë që do të më bëjë të aftë të avitem pranë Teje, dhe do të më pastrojë nga gabimet e mia, që kanë ndërhyrë midis meje dhe ndjesës Sate.
 
 Me të vërtetë, Ti je i Pushtetshmi, Bujari. Nuk ka Perëndi tjetër veç Teje, të Fuqishmit, të Hirshmit.
-
--- Bahá'u'lláh

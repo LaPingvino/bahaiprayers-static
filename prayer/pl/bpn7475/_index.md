@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7475 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Następującą modlitwę, objawioną przez ʿAbdu’l-Bahę, czyta się w Świątyni, gdzie jest pochowany. Jest ona także odmawiana jako modlitwa osobista.
@@ -17,5 +18,3 @@ O Panie, Boże mój! Obdarz mnie Twoją łaską służenia Twoim umiłowanym, um
 Tą modlitwą Twój sługa wzywa Cię o świtaniu i w porze nocy. Spełnij pragnienie jego serca, o Panie! Oświeć jego serce, rozraduj jego duszę, roznieć jego płomień, aby mógł służyć Twojej Sprawie i sługom Twoim.
     
 Tyś jest Obdarowującym, Litościwym, Najhojniejszym, Łaskawym, Miłosiernym, Współczującym.
-
--- Abdu'l-Bahá

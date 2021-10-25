@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11789 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Iyoh leh Topa, bigatung ayuh leh Iyoh, Raja perinduk – bitulut bait bia dek pingungin! 
@@ -12,5 +13,3 @@ O Raja ku! Iyoh dek botak tih mok totap bigaut odi tudu Pritah Topa pangikaya In
 O Topa ku, Amanah Ingan mbok palik tudu Ingan. Iyoh arap-arap budi Ingan duoh pingungin Ingan de mbok pilulung kuasa merintah ndu tanak duoh dek daang surga, odak murah otin ngin hadiah tudu tetamu ba’uh Ingan bia pangipisoh Ingan, bia buak- buak sok tongont koyuh budi Ingan! Bikuasa leh Ingan mana wat dek suka Ingan, doie Topa dibokon pak-eh Ingan, dek Bibudi, dek Doras ngin, dek Pinyukup, dek Pisoh, dek Pimaaf, dek Biloga, dek Paling Pu’ant. 
 Oku ngaku, O Raja ku, nang Ingan mbok merintah odak manusia pimodo duwoh tetamu, jek iyoh tih mbok ma’ad odi tudu Ingan mbok totap nog Ingan duoh so’ont Pimonog Ingan. Biloneng negeh duwoh iyoh adin bijodo dek tudu budi Ingan bia pingungin! Pak pimulia Ingan, oku pu’ant dengan pasti nang Ingan dik yak jaman Odop Ingan yak ngin onik dek mbok nitah Ingan tudu ulunt-ulunt Ingan, idoh geh dik Ingan yak pilusut iyoh dek mbok bipawoh tudu tolint pingungin Ingan bia mbok ma’ad tudu musim bunga pangikaya Ingan.
 Doie Topa dibokon pak-eh Ingan, dek Ndi, dek Sadik-Sadik, dek Bikuasa, dek Pu’ant Punuae, dek Pingungin.
-
--- Bahá'u'lláh

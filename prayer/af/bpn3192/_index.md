@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3192 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Hy is die Barmhartige, die Almilddadige!
@@ -9,5 +10,3 @@ O God, my God! U roepstem het my aangetrek en die stem van U Pen van Heerlikheid
 Ek getuig op hierdie oomblik, o my God, van my hulpeloosheid en U oppermag, my swakheid en U krag. Ek weet nie wat my baat of benadeel nie; U is, voorwaar, die Alwetende, die Alwyse. Beskik U vir my, o Here, my God en my Meester, dit wat my tevrede sal laat voel met U ewige verordening en my in elke wêreld van U sal laat floreer. U is in der waarheid die Goedgunstige, die Milddadige.
 
 Here! Keer my nie weg van die oseaan van U rykdom en van die hemel van U genade nie, en beskik vir my die goeie van hierdie wêreld en die hiernamaals. Voorwaar, U is die Here van die genadestoel, op die troon in die hoogste geplaas; daar is geen ander God behalwe U nie, die Een, die Alwetende, die Alwyse.
-
--- Bahá'u'lláh

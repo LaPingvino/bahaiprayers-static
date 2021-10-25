@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6988 in Fiji'
+author = 'Bahá'u'lláh'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 ##NA VEISIGA NI VEIVAKARAUTAKI KA VIRIKOTORI ME DA VAKANANUMA E NA VEIYABAKI
@@ -20,5 +21,3 @@ Sa i Kemuni, e dina, na Vu ni iGu Cecekia, na Vu ni Vuku, na Vu ni Vakatakila.
 
  
 *1.	Na Ayyam-i-Ha e kena i balebale na Veisign ni Veivakarautaki.
-
--- Bahá'u'lláh

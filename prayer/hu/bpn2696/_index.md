@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2696 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *[Részlet Bahá’u’lláh Ragyogások - Ishráqát című táblájából]:
@@ -9,5 +10,3 @@ Te látsz engem, ó, Istenem, kínban vergődni a porban, mint a partra vetett h
 Ó, Uram! Látod ez élettelent színed előtt; bőkezűséged és jóságos kegyed által ne hagyd, hogy megfosztasson a halhatatlan élet kelyhétől. És látod e szenvedőt trónod előtt állni; ne fordítsd őt el gyógyító erőd óceánjától. Kérve kérlek Téged, hogy add meg nékem minden időben és minden helyzetben, hogy Rád emlékezhessem, Neved magasztalhassam, és Ügyedet szolgáljam, bár jól tudom, hogy bármi ered is egy szolgától, az nem lépheti át saját lelke határait, sem nem lehet Istenségedhez illő, sem pedig méltó dicsőséged és fenséged udvarához.
 
 Hatalmad a tanúm! Ha nem a Te dicséretedet zengené, nyelvem nem lenne hasznomra, és ha nem Téged szolgálna, életem mit sem érne. Ha nem az örömért, hogy dicsőséges birodalmad fényességét megláthatom, mi másért örvendenék látásomnak? És ha nem a boldogságért, hogy a Te édes hangod hallhatom, mi más haszna volna hallásomnak?
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4886 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 *Novruz, 20 və bəzi illər 21 Martda başlanır və Azərbaycan bəhailəri üçün yeni ilin birinci günüdür
@@ -13,5 +14,3 @@ Sən O Allahsan ki, Onunla "Sən Öz əməllərində Tərifəlayiqsən" rəmzi y
 Sənin Budağın Olan Kəs və Sənin ətrafında olanlar, Ey mənim Rəbbim, bu gün öz oruclarını Sənin sarayının həndəvərində ona riayət etdikdən sonra və Səni razı salmaq şövqü ilə açmışlar. Ona və həm də onlara və o günlərdə Sənin hüzuruna yetişənlərə, Öz Kitabında qismət kimi yazdığın xeyirləri nəsib eylə. Sonra, bu dünyada və axirətdə onlara fayda verən şeylərdən ruzi ver.
 
 Sən, həqiqətən, Hər şeyi Bilən, Ən Hikmətlisən.
-
--- Bahá'u'lláh

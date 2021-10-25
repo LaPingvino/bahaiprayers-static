@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1714 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð. Minning Þín er unaður sálna allra þeirra er þrá Þig. Nafn Þitt vekur fögnuð í hjörtum þeirra sem eru heilshugar helgaðir vilja Þínum. Lof til Þín er hjartfólgið þeim sem hafa laðast að aðsetri Þínu. Ásýnd Þína þrá þeir heitt og innilega, sem hafa borið kennsl á sannleik Þinn. Prófraunir Þínar græða meinsemdir þeirra sem hafa viðurkennt málstað Þinn. Þrengingar Þínar þrá þeir heitast sem engum vilja fylgja nema Þér!
@@ -7,5 +8,3 @@ Upphafinn, ómælanlega upphafinn ert Þú! Í Þín­um höndum er vald alls á
 Sá er að sönnu gæddur skilningi sem viðurkennir vanmátt sinn og játar syndsemi sína, því ef nokkur sköp­uð vera gerði kröfu til tilvistar andspænis óend­an­legum undrum opinberunar Þinnar, þá væri slíkt guðlastandi tilkall svívirðilegra en nokkur annar glæp­ur í öllum ríkjum uppfinninga Þinna og sköp­unar. Hver er sá, ó Drottinn minn, sem hefur vald til að gera tilkall til verundar þegar Þú birtir fyrstu geisl­ana af táknum Þinna yfirskilvitlegu yfirráða og máttar? Tilveran sjálf er sem hjóm and­spænis miklum og margföldum undrum Þíns óvið­jafnanlega sjálfs.
 Hátt, óendanlega hátt, ert Þú hafinn yfir allt, ó Þú sem ert konungur konunga! Ég sárbæni Þig við Þitt eigið sjálf og við opinberendur málstaðar Þíns og dagsbrúnir yfirráða Þinna, að rita niður fyrir okkur það sem Þú ritaðir niður fyrir Þína útvöldu. Synja okkur ekki um það sem Þú ákvarðaðir Þínum útvöldu, sem hröðuðu sér til Þín jafnskjótt og þeim barst kall Þitt og vörpuðu sér niður í tilbeiðslu frammi fyrir augliti Þínu þegar ljóminn af birtu ásjónu Þinnar skein á þá.
 Við erum þjónar Þínir, ó Drottinn minn, og í höndum valds Þíns. Ef Þú hirtir okkur á sama hátt og fyrri og síðari kynslóðir, væri dómur Þinn vissu­lega réttlátur og gerð Þín lofsverð. Þú ert þess megnugur að gera það sem Þér líst. Enginn er Guð nema Þú, hinn almáttugi, hinn aldýrlegi, hjálpin í nauðum, hinn sjálfumnógi.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7603 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani! Tämä on palvelijasi ja palvelijasi poika, joka on uskonut Sinuun ja Sinun merkkeihisi ja kääntänyt kasvonsa Sinun puoleesi kokonaan irrottautuneena kaikesta paitsi Sinusta. Sinä totisesti olet armoa osoittavista kaikkein armeliain.
@@ -15,5 +16,3 @@ Toistakoon hän sitten kuusi kertaa tervehdyksen "Alláh-u-Abhá" ja niiden jäl
 	*Me kaikki totisesti olemme kärsivälliset Jumalassa.
 
 *(Jos kuollut on nainen, tulee sanoa: Tämä on palvelijattaresi ja palvelijattaresi tytär jne.)
-
--- Bahá'u'lláh

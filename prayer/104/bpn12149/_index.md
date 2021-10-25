@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12149 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Orang yang berdosa apabila dalam keadaan yang mana dia mendapati dirinya bebas dan terpisah daripada segala sesuatu kecuali Tuhan, harus memohon kemaafan dan                pengampunan. Tidak dibenarkan untuk mengaku dosa dan pelanggaran seseorang di hadapan sesiapa pun kerana ini tidak akan pernah membawa pengampunan daripada Tuhan. Demikian juga pengakuan dosa di hadapan orang akan membawa kepada kerendahan dan penghinaan seseorang, dan Tuhan, dijunjung tinggilah kemuliaan-Nya, tidak menghendaki penghinaan hamba-hamba-Nya. Sesungguhnya, Dia Maha Pemurah dan Maha Dermawan! Seorang yang berdosa harus memohon antara dirinya sendiri dan Tuhan, rahmat dari samudera kurnia dan memohon pengampunan dari Langit kedermawanan sambil berkata:
@@ -13,5 +14,3 @@ Sayang! Sayang! Dosa-dosaku telah menghalangi daku daripada mendekati Istana kes
 Aku memohon kepada-Mu demi Dia Yang adalah Raja segala Nama yang berdaulat agar menetapkan bagiku daripada Pena rahmat-Mu, apa yang akan mendekatkan daku kepada-Mu dan akan membersihkan diri daripada dosa-dosaku yang telah menghalang diriku daripada kemaafan-Mu dan pengampunan-Mu.
 
 Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Dermawan! Tiada Tuhan kecuali Engkau, Yang Maha Perkasa, Yang Maha Pengasih!
-
--- Bahá'u'lláh

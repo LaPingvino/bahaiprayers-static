@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10362 in Svenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Denna skrift läses vid Bahá’u’lláhs och Bábs gravhelgedomar. Den används även ofta på deras åminnelsedagar.
@@ -11,5 +12,3 @@ Sänd då till mig, o min Gud och min älskade, från Din nåds och Din barmhär
 Låt Guds hågkomst och Hans lovord och Guds härlighet och Hans prakt vila över Dig, o Du som är Hans skönhet! Jag bär vittnesbörd om att skapelsens öga aldrig har skådat en lika förorättad som Du. Alla Ditt livs dagar var Du nedsänkt i en ocean av vedermödor. En tid var Du i kedjor och i bojor, en annan tid hotades Du av Dina fienders svärd. Trots allt detta bjöd Du ändå alla människor att följa det som föreskrivits av Honom, som är den Allvetande, den Allvise.
 Må min ande bli offrad för de oförrätter Du fick lida och min själ utgöra försoningen för de motgångar Du fick utstå. Jag bönfaller Gud, vid Dig och vid dem, vars ansikten lysts upp av strålglansen hos ljuset från Ditt anlete och som av kärlek till Dig har iakttagit allt det vartill de var bjudna, att avlägsna de slöjor som har kommit mellan Dig och Dina skapade varelser och att förse mig med denna och den kommande världens goda. Du är i sanning den Allsmäktige, den mest Upphöjde, den Allhärlige, den evigt Förlåtande, den mest Medlidsamme.
 Välsigna, o Herre min Gud, det gudomliga Lotusträdet och dess blad, dess grenar, dess kvistar, dess bladskaft och dess sidoskott, så länge Dina mest framstående titlar varar och Dina mest vördnadsvärda egenskaper består. Skydda det då från angriparens åverkan och tyranniets härskaror. Du är i sanning den Allsmäktige, den Mäktigaste. Välsigna även, o Herre min Gud, Dina tjänare och Dina tjänarinnor vilka har nått fram till Dig. Sannerligen, Du är den Allvälgörande vars nåd är obegränsad. Ingen Gud finns utom Du, den evigt Förlåtande, den mest Givmilde.
-
--- Bahá'u'lláh

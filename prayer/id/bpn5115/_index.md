@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5115 in Bahasa Indonesia'
+author = 'Abdu'l-Bahá'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Aku hanyalah makhluk yang hina, ya Tuhanku, dan
@@ -12,5 +13,3 @@ segala nama dan sifat! Engkau adalah Dia yang dari keabadian telah mentakdirkan 
 *"Ini adalah Wahyu yang memberikan kekuatan kepada yang lemah..." - Bahá’u’lláh
 
 * "Kita tidak boleh melihat kelemahan kita sendiri; yang memberikan kekuatan untuk mengajar adalah kekuatan dari Roh Suci Cinta. Memikirkan kelemahan kita sendiri hanya akan membawa keputusasaan. Pandangan kita harus lebih tinggi dari segala pikiran duniawi." - ‘Abdu’l-Bahá
-
--- Abdu'l-Bahá

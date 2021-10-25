@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4874 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Odur Allah, Ucadır O, İnayət və kəramət Mövlası Odur! Sübhansan, Sən, Ey mənim Allhım, Qüdrətli Rəbb! Sənin qüdrətinə və qüvvətinə, səltənətinə və inayətinə, fəzlinə və iqtidarına, Sənin Varlığının vahidliyinə və Zatının birliyinə, paklığına və məxluqat aləmindən və onda olan hər şeydən müqəddəs və pak olmağına şəhadət verirəm.
@@ -17,5 +18,3 @@ Ey mənim Allahım, Sənin Əmanətin Sənə qayıtdı. Sənin Mülk və Mələk
 Şəhadət verirəm ki, Ey mənim Allahım, Sən insanlara qonaqpərvərliyi əmr etmisən, və o kəs ki, Sənin yanına yüksəldi, o həqiqətən, Sənə yetişdi. İndi onunla Öz fəzlinə və kərəminə layiq olan tərzdə rəftar eylə! And olsun Sənin izzətinə, mən yəqin bilirəm ki, Sən Özünü bəndələrinə əmr etdiyindən kənar tutmazsan və Sənin kərəm ipindən yapışanı və zənginlik üfüqünə yüksələni məyus etməzsən.
 
 Səndən başqa Allah yoxdur, Tək, Vahid, Qadir, Hər Şeyi Bilən və Kəramətli Allah.
-
--- Bahá'u'lláh

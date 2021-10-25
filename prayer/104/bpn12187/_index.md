@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12187 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 *Doa Jenazah ini adalah digunakan untuk orang Bahá'í yang telah mencapai lima belas tahun ke atas. “Ia adalah satu-satunya doa wajib Bahá'í yang harus dilafazkan dalam Jemaah; ia harus dilafazkan oleh seorang penganut sementara hadirin yang lain berdiri. Tidak mempunyai syarat untuk memandang ke arah Kiblat sewaktu melafazkan doa ini.”
@@ -24,5 +25,3 @@ Kami semua, sesungguhnya, bersyukur kepada Tuhan.
 Kami semua, sesungguhnya, bersabar demi Tuhan.
 
 [Jika yang meninggal itu seorang perempuan, biarlah dia melafazkan: Ya Tuhanku! Inilah dayang-Mu dan puteri dayang-Mu...]
-
--- Bahá'u'lláh

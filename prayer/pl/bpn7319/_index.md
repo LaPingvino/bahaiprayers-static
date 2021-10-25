@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7319 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Boże, któryś jest Autorem wszystkich Uosobień, Początkiem wszystkich Początków, Krynicą wszystkich Objawień i Źródłem wszystkich Świateł! Świadczę, że Twoje Imię upiększyło niebo zrozumienia, i sprawiło, że ocean wypowiedzi wezbrał, a zwiastowanie Twojej opatrzności zostało obwieszczone wierzącym wszystkich religii.
@@ -9,5 +10,3 @@ Błagam Cię, abyś wzbogacił mnie tak, bym nie potrzebował niczego prócz Cie
 Oto Twój sługa, o mój Panie, który zwrócił całą swoją istotę ku horyzontowi Twojej szczodrości, oceanowi Twojej łaski i niebu Twoich darów. Postępuj ze mną zatem, jak przystoi Twojemu majestatowi, Twojej chwale, hojności i łasce.
    
 Tyś zaprawdę jest Bogiem siły i mocy, który gotów jest odpowiedzieć tym, którzy się modlą do Ciebie. Nie ma innego Boga poza Tobą, Wszechwiedzącym, Wszechmądrym.
-
--- Bahá'u'lláh

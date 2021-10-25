@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5150 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Aku memberikan pujian kepada-Mu, ya Tuhan-ku, karena Engkau telah membangunkan daku dari kantukku dan telah memunculkan daku kembali setelah aku hilang, dan membangkitkan daku dari tidurku. Aku telah bangun pagi ini dengan wajahku diarahkan pada kecemerlangan Surya Wahyu-Mu, yang melaluinya langit kekuasaan-Mu dan keagungan-Mu telah diterangi, dengan mengakui tanda-tanda-Mu, beriman pada Kitab- Mu, dan berpegang erat pada Tali-Mu.
@@ -12,5 +13,3 @@ Engkau adalah Dia yang mengubah kehinaan menjadi kemuliaan dengan perintah-Nya, 
 Engkau tidak mengecewakan siapa pun yang telah mencari Dikau, tak pula Engkau menghalangi dari-Mu siapa pun yang menghasratkan Dikau. Tetapkanlah bagiku oleh-Mu apa yang layak bagi langit kederma- wanan-Mu dan samudera rahmat-Mu. Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Kuat.
 
 *"Sibukkanlah dirimu dalam mengingat keindahan Dia yang tak terbatas, pada waktu pagi sekali dan carilah hubungan dengan Dia pada waktu fajar ... mengingat Daku adalah suatu obat penyembuh jiwa-jiwa dan suatu cahaya bagi kalbu-kalbu manusia"
-
--- Bahá'u'lláh

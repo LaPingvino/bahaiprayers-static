@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2850 in Shqip'
+author = 'Bahá'u'lláh'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Ditët e shtuara (nga 26 shkurti deri më 1 mars) duhet të jenë ditë përgatitjeje për Agjërimin, ditë mikpritjeje, bamirësie e dhuratash.
@@ -14,5 +15,3 @@ Ti e shikon, O Zoti im, sesi ata kanë njohur e pranuar gjithçka që Ti ke reve
 Të lutem Ty, O Ti Mbret i mbretërve dhe Mëshirues i të shtypurve, të caktosh për ta të mirat e kësaj bote dhe të botës që do të vijë. Shkruaj për ta, veç kësaj, atë që asnjë nga krijesat e Tua nuk e ka zbuluar dhe radhiti ata midis atyre që janë mbledhur rreth Teje dhe që lëvizin pranë fronit Tënd në çdo botë të botëve të Tua.
 
 Ti, me të vërtetë, je Fuqiploti, i Gjithëdijshmi, i Gjithinformuari.
-
--- Bahá'u'lláh

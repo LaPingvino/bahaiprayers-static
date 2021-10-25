@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7635 in Kreyol Ayisyen'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Priyè pou di nan fen reyinyon Asanble Espirityèl la.
@@ -7,5 +8,3 @@ O Bondye! O Bondye! Depi nan wayòm linite Ou a ki envizib, voye yon rega sou no
 O Senyè nou! Nou fèb, se Ou menm Ki Pisan, Ki Plen Pouvwa. Nou manke lavi, se Ou menm Ki gran Lespri a, K’ap bay lavi. Nou nan nesesite, se Ou menm Ki Soutni tout bagay, Ki Plen Pouvwa.
 O Senyè nou! Fè nou vire figi nou nan direksyon vizaj mizèrikòdye Ou a, nouri nou nan tab selès Ou a avèk gras Ou k’ap debòde a, ede nou avèk lame zanj siprèm Ou yo epi fè nou fèm avèk sipò sen Ou yo ki nan Wayòm Abhá a. 
 An verite, se Ou menm Ki Renmen Bay, Ki Mizèrikòdye. Se Ou menm Ki Posede gran bonte a, e, an verite, se Ou menm Ki Padone, Ki Plen Gras.
-
--- Abdu'l-Bahá

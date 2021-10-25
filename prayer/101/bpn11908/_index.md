@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11908 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Naw-Ruz, 21 onu bulan Taluh, bungas onu daang sowak Baha’i)
@@ -10,5 +11,3 @@ Pakai sok Ingan leh Iyoh Nyaa dek toban lambang, “Tipuji manah leh Ingan daang
 Nai odak yoh tonga tudu bala, nang doie oni sija yak tikuab buu sok Pangisangon Ingan, daang onu-onu dimutik takal sok Christ ogi magah : “Sua kuasa Ingan dek kaku, O Ingan dek Pijadi Roh (Jesus)”, bia Dingan Ingan (Mohammad) ogi sobot: “Ingan dek Mulia, O Ingan dek Perindu, setegal Ingan mbok buka Pangisangon Ingan, bia mbok nulis sa’ant bala kekasih Ingan onik dek dapod odak bala tungang nog galas revelasi Ingan onik dek Ayuh Gagah Adon, sok inoh leh sua manusia mbok obuah nguwai suma jok eh dek mbok kadi odop eh odi nuju Iyoh Nyaa dek Nayam Odop Ingan bia jadin Bitolus sifat-sifat Ingan”.
 Iyoh leh Nyaa dek jadin Da’ant Sokap Ingan bia pingutuant Ingan dek sua-sua, O Raja ku, bala mbok buka puasa eh onu tih, selepas iyoh mit pakai eh daang tipalung gilangang Ingan, bia daang sukup ingin mitia pirasie Ingan. Ingan jul negeh saant Iyoh, bia sa’ant bala, bia saant dek sua-sua mana dek mbok molot ndu pimonog Ingan daang selama onu noh sua pangipaguh dek ogi Ingan nitah daang Kitab Ingan. Nangung bala, adin, pakai onik dek yak ngutung bala, daang sok duwoh pingdip tih bia pingidip dek yak nog.
 Ingan leh, daang dek sibonareh, dek Paling Puant, dek Paling Ponai.
-
--- Bahá'u'lláh

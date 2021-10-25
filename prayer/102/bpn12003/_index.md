@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12003 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Ebedi Alla.
@@ -7,5 +8,3 @@ Oldur Ebedi Alla.
     Onda Eý meniň Päk Taňrym! Bu hyjuwly hem şeýda bendäňi Öz penahyňda sakla we bu barlyk äleminde Öz söýgiňe wepadar hem berk eýle. Bu persiz-ganatsyz guşa Öz Rahmany höwürtgäňde we Ruhany pudagyňda jaý we pena bagyş eýle.
 
 Hezreti Abdul-Baha
-
--- Abdu'l-Bahá

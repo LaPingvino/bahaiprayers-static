@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12069 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhanku dan Rajaku! Aku adalah hamba-Mu dan putera hamba-Mu. Aku telah bangun dari tempat tidurku pada waktu fajar ini, ketika Suria Keesaan-Mu telah bersinar dari Subuh kehendak-Mu, dan telah memancarkan sinar-Nya ke seluruh dunia, sesuai dengan apa yang telah dirukunkan dalam Kitab-Kitab Perintah-Mu.
@@ -9,5 +10,3 @@ Pujian bagi-Mu, Ya Tuhanku, kerana kami telah bangun berkat kecemerlangan cahaya
 Berkatilah, Ya Tuhan, Tuhanku, Dia Yang telah Engkau kuasakan dengan Gelaran-Mu Yang maha luhur, dan Yang melalui Dia, telah Engkau bezakan antara orang-orang yang suci dan jahat, dan bantulah kami dengan rahmat-Mu untuk melakukan apa pun yang Engkau cintai dan kehendaki. Selain daripada itu, Ya Tuhanku,   berkatilah mereka yang merupakan Kata-Kata-Mu dan Huruf-Huruf-Mu, dan mereka yang mengarahkan wajahnya kepada-Mu, dan telah menghadap kepada wajah-Mu, dan menyahut seruan-Mu.
 
 Sesungguhnya, Engkau Tuhan dan Raja sekalian manusia dan berkuasa ke atas segala benda.
-
--- Bahá'u'lláh

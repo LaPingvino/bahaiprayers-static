@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12257 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E lavea ne Koe, O toku Atua, a Tau tavini tela e nofo i te fale-puipui tenei, e motu katoatoa mai i sose tino na ko Koe, ko ona mata e fuli atu ki te auala o te Aso-Malulu o Tou alofa-fakamagalo, ko tena loto e nnau ki faka-asiiga gali o Tou alofa-mana.  A Koe, O toku Aliki, ko oti ne luku fakatasi aka a famai ko la ne oko aka kia ia i Tou auala.  E lavea ne Koe a ia e salasala se auala mo Au meaola faiite ko la ne soli tuakoi kae teke atu kia Koe, kola e nofo i te va o ia mo Au fagasele, ko la ko oti ne fakatumau a tena koga-nofo i te fenua tenei kae agasala atu kia Koe, pela foki mot e faka-lavelave ki Au tavini mai ite fuli atu kia Koe.  
@@ -10,5 +11,3 @@ A sose tino taua e seai kae se pologa tela ko Tou lima ne mafua mai iei, kae ko 
  
 Ofa ki lalo, O toku Atua, a te veli o manatu e seai-ne-aoga kola ne fakalavelave ki te kiloga o Au tino, ko tino katoa ke fakavave ki mua ia Koe, ke mafai o sasale i te auala o Tou fiafiaaga, kae e sasale i auala o Tau Talitonuuga.  Matou, O toku Atua, ko Au tavini mo Au tino faigaluega.  A Koe ko lava loa kia matou ko te mea ke mafai ne matou o faka-se-aoga a te lalolagi pela foki mo latou kola i loto iei.  Matou e lotomalie katoatoa mo mea ko la ko to mai ki luga ia matou i Tou auala, kae fai atu penei: “Tavaeega e io 
 Koe, tela i Ou lima e maua iei a tulaga o te fakaasiiga mo te foafoaaga, pela foki mo maalo katoa i te lalolagi mo te lagi!”
-
--- Bahá'u'lláh

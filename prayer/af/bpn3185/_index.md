@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3185 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Lof sy aan U, o my God! Ek is een van U dienaars wat aan U en U tekens geglo het. U sien hoe ek my na die deur van U genade ingestel het, en my gesig in die rigting van U vriendelike goedheid gedraai het. Ek smeek U, by U mees voorteflike titels en by U mees verhewe eienskappe, om my gesig vir die poorte van U skenkings oop te maak. Help my dan, om dit te doen wat goed is, o U Wat die Besitter van alle name en eienskappe is!
@@ -11,5 +12,3 @@ Verwyder die sluier van my oë, o my Here, dat ek mag herken wat U vir U skepsel
 Ek betuig dank aan U, o my Here, dat U my uit my slaap wakker gemaak het, en my aangepor het, en in my die wens geskep het om te begryp wat die meeste van U dienaars versuim het om te verstaan. Bekwaam my dan, o my Here, om, vir liefde van U ter wille van U behae, te gewaar wat U ook al verlang het. U is Hy van Wie se mag en soewereiniteit alle dinge getuig.
 
 Daar is geen God behalwe U nie, die Almagtige, die Heilsame.
-
--- Bahá'u'lláh

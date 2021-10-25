@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12201 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ##LOH API
@@ -110,5 +111,3 @@ Sesungguhnya, Aku telah mendengar Panggilan-Mu, Ya Kekasih Yang Maha Mulia; dan 
 Wahai Ali-Akbar, berterima kasihlah kepada Tuhan-Mu atas Loh ini, kerana engkau telah menghirup keharuman kelembutan hati-Ku dan mengetahui apa yang telah menimpa Kami di jalan Tuhan, Sang Pujaan alam semesta.
 
 Seandainya semua hamba membaca dan merenungkan ini, maka dalam urat darah mereka akan berkobar api yang akan menyalakan alam semesta.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4895 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 *"Müqəddəs Dənizçi Lövhünü öyrən ki, sən həqiqəti biləsən və görəsən ki, Camal-i Mübarək gələcək hadisələri bütünlüklə öncədən xəbər vermişdir. Qoy bəsirəti olanlar bundan ibrət alsınlar." -Əbdül-Bəha Abbas
@@ -233,5 +234,3 @@ Sübhandır mənim Əbha Rəbbim!
 Və onlar onun bu halını görüb Gəncin danışdığı rəvayətdəki sözü başa düşəndə başlarını açdılar, paltarlarını cırdılar, üzlərinə döydülər, sevinclərini unutdular, göz yaşları tökdülər, yanaqlarına vurdular; və budur, həqiqətən, əsrarəngiz və ağır bir müsibət.
 
 Sübhandır Ucalar Ucası Rəbbimiz!
-
--- Bahá'u'lláh

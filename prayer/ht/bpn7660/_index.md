@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7660 in Kreyol Ayisyen'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *An verite, Mwen ban nou lòd pou fè yon fèt youn fwa chak mwa, menm si se dlo sèlman nou sèvi patisipan yo; paske Bondye te bay tèt Li objektif pou nou mare kè yo ansanm, ranfòse lyen zanmitay, malgre se avèk ni mwayen materyèl, ni mwayen espirityèl nou dwe sèvi.
@@ -10,5 +11,3 @@ tags = ['lang-ht', 'bpn-unsorted']
 O Bondye! Elimine tout bagay ki koz dezakò, epi prepare pou nou tout bagay ki koz linite ak antant! O Bondye! Fè desann sou nou Pafen Selès yo e fè rankont sa a tounen yon rankont Syèl la! Voye pou nou tout sa ki bon ak tout kalite manje. Prepare pou nou Manje Lanmou! Ban nou Manje Konesans lan! Voye pou nou Manje Limyè Selès la!
 
 *Sonje bagay sa yo nan kè nou, epi answit antre nan Fèt Linite a.
-
--- Abdu'l-Bahá

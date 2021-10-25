@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10114 in Slovensky'
+author = 'Bahá'u'lláh'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 ##Tabuľka pre Aḥmada
@@ -40,5 +41,3 @@ Dobre sa nauč túto tabuľku, ó Ahmad. Spievaj ju počas svojich dní a neodlu
 Pri Bohu! Ak bude ten, ktorý má strasti a žiaľ čítať túto Tabuľku s čistou úprimnosťou, Boh rozoženie jeho smútok, vyrieši jeho ťažkosti a odstráni jeho strasti.
 
 Vskutku, On je Milosrdný, Súcitný. Chvála Bohu, Pánovi všetkých svetov.
-
--- Bahá'u'lláh

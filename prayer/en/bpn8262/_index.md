@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8262 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Excerpt from the Súriy-i-Nush
@@ -19,5 +20,3 @@ No Prophet have We ever raised up except that He was repudiated by the divines w
 O people of the earth! Ponder the state of these workers of iniquity, what they have wrought in the past, and what they pursue in this day. Say: If He Who hath come unto you with clear verses be not the True One from God, even as ye proclaim this day from your seats of worldly honour, then by what proof can ye establish the truth of Muhammad, Whom we sent aforetime? Be fair in your judgement, O concourse of ill-wishers!
 
 *30.    The Báb.
-
--- Bahá'u'lláh

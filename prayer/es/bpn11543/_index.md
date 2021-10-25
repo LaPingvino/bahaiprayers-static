@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11543 in Español'
+author = 'Abdu'l-Bahá'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Oraciones para la enseñanza tomadas de las Tablas del Plan Divino
@@ -11,5 +12,3 @@ tags = ['lang-es', 'bpn-unsorted']
 ¡Oh Señor! Fortalece mi espalda, haz que pueda servirte con el máximo empeño, y no me dejes solo y desamparado en estas regiones.
 ¡Oh Señor! Concédeme comunión contigo en mi soledad, y sé Tú mi compañero en estas tierras lejanas.
 Verdaderamente, Tú confirmas a quien quieres en lo que Tú deseas y, en verdad, Tú eres el Todopoderoso, el Omnipotente.
-
--- Abdu'l-Bahá

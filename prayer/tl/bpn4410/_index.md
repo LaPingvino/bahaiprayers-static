@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4410 in Filipino'
+author = 'Abdu'l-Bahá'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Ikaw na Nagkakaloob! Ihininga Mo sa mga kaibigan sa Kanluran ang matamis na samyo ng Banal na Espiritu, at sa pamamagitan ng ilaw ng banal na pamamatnubay ay pinaliwanag Mo ang langit ng kanluran. Ginawa Mong mapalapit sa Iyong Sarili yaong dating mga malalayo; ginawa Mong mapagmahal na mga kaibigan yaong dating mga di-magkakilala; ginising Mo yaong mga natutulog; ginawa Mong maingat yaong dating pabaya.
@@ -7,5 +8,3 @@ O Ikaw na Nagkakaloob! Ihininga Mo sa mga kaibigan sa Kanluran ang matamis na sa
 O Ikaw na Nagkakaloob! Tulungan ang mga marangal na mga kaibigan na ito na makamtan ang Iyong mabuting kasiyahan, at gawin silang mga tagahangad ng kabutihan sa kapwa di-kilala at kaibigan. Papasukin sila sa daigdig na nananatili nang magpakailanman; pagkalooban sila ng bahagi ng makalangit na pagpapala; gawin silang mga tunay na Bahá’í, tunay na maka-Diyos; iligtas sila sa panlabas na mga anyo, at matibay na itatag sila sa katotohanan. Gawin silang mga sagisag at palatandaan ng Kaharian, nagniningning na mga bituin sa itaas ng sugpungang-guhit ng buhay na ito sa ibaba. Gawin silang kaginhawaan at kaaliwan para sa sangkatauhan at mga tagapaglingkod para sa kapayapaan ng daigdig. Gawing masayang-masaya sila sa pamamagitan ng alak ng Iyong payo, at tulutan na silang lahat ay makalakad sa landas ng Iyong mga utos. O Ikaw na Nagkakaloob! Ang pinakamimithing hangarin nitong tagapaglingkod ng Iyong Pintuan ay ang makita ang mga kaibigan sa Silangan at sa Kanluran na mahigpit na magkaakap; na makita ang lahat ng mga kasapi ng lipunan ng tao na may pag-ibig na natitipon sa isang malaking kalipunan, tulad ng bawat patak ng tubig na tinipon sa iisang malawakang dagat; na makita silang lahat na tulad ng mga ibon sa iisang hardin ng mga rosas, na tulad ng mga perlas ng iisang dagat, na tulad ng mga dahon ng iisang puno, na tulad ng mga silahis ng iisang araw.
 
 Ikaw ang Malakas, ang Makapangyarihan, at Ikaw ang Diyos ng kalakasan, ang Makapangyarihan sa Lahat, ang Nakakikita sa Lahat.
-
--- Abdu'l-Bahá

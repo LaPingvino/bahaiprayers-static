@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11238 in Kiribati'
+author = 'Bahá'u'lláh'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Ngaia te Tia Katoki Aoraki, te Tia Kataubobonga, te Tia Ibuobuoki, te Tia Kabwaraibuure nako, Moan te Nanoanga.
@@ -49,5 +50,3 @@ O te Tia Katoki Aoraki, I wewete Nakoim, O te Tia Katoki Aoraki!
 Ngkoe Ae Ko Teimatoa ma n Aki Bibitaki, O Ngkoe Are Ko Teimatoa ma n Aki Bibitaki!
 Ko Tabu, O Atuau! I bubutiko n Am Akoi ike mataroan Am Anganga ao Am akoi a kaukakinako ike Temboran Tabum e a tia ni kateaki iaon bwaoniuean te aki totoki, ao man Am kakabwarabure ike Ko a tia ni kaoia ni kabane ake a karikaki nakon taiboran Am tituaraoi ao Am bwaintangira; ao man Am tituaraoi ike Ko kaeka i bon i nanom ma Am taeka ae e kangai ‘’Eng!’’ ibukiia ni kabane  ake i karawa ao iaon te aba, n te aoa are Ueam ao Kakannatom a tei ni kaotaki, n aoan te karangaina ngke korakoran Am Tautaeka a kaotaki. Ao I a manga Butiko, rinanon aara aika a tamaroa aikai, rinanon anua aika a rine Uringakim ae Moan te Bura i eta, ao rinanon Tamaroam ae e itiaki ao n akea barekana ao rinanon Am auti n rianna ae te kabanea n tamaroa, ao rinanon Aram are e rabunaki ni kamwarain te karawawataaki ni katoa ingabong ao te tairiki, ni kamanoa te tia uota te Tabureti ae e kakabwaiaki aio, ao are e warekia, ao are e noria, ao are e otabwaniniia te auti are e kawakinaki iai. Ko na kamarurunga ngkanne, mai iai naake a aoraki ake a rotaki rabwataia ao ake a kainnano, man taian kanganga ao taian karawawata, man taian kabuanibwai aika a kammaira ao ni kananokawaki, ao rinanon te Tabureti aio Ko na kairia naake a nano iai bwa a na rinnako inanon kawain Am kairiiri ao ni kawain Am nanoanga ao Am tituaraoi. 
 Ngkoe ni koaua te Mwaaka, te Kabanea n Taubobonga, te Tia Katoki Aoraki, te Tia Kamanomano, te Tia Anganga, te Nanoanga, te Kabanea n Tituaraoi, te Tia Kakabwarai Buure.
-
--- Bahá'u'lláh

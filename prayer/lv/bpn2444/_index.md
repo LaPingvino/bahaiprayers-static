@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2444 in Latviešu'
+author = 'Abdu'l-Bahá'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Šo ‘Abdu’l-Bahá doto lūgsnu lasa Viņa Svētnīcā. To izmanto arī individuālās lūgšanās.
@@ -11,5 +12,3 @@ Ak Dievs, mans Dievs! Pazemīgs un asarās, es ceļu savas lūdzējas rokas uz T
 Kungs! Nabags un pazemīgs ir Tavs kalps, Tevis valdzināts, kvēli Tevi lūdzot, uz Tevi paļaujoties, asarām acīs viņš griežas pie Tevis un lūdzot saka:
 Ak Dievs, mans Kungs! Dāvā man žēlīgi to godu kalpot tiem, kurus Tu mīli, dod man spēku kalpot Tev, Savā galmā apgaismo manu pieri ar pielūgsmes gaismu un Savā diženajā Ķēniņvalstī – ar lūgšanām. Palīdzi man būt nesavtīgam Tavu vārtu dievišķā sliekšņa priekšā un Savā svētajā Lokā palīdzi man atraisīties no it visa, Kungs! Dod man dzert no nesavtības kausa, tērp mani pašaizliedzības tērpā, sirdsdāsnuma jūrā ļauj man ieslīgt. Pārvērt mani par puteklīti uz Tavu mīļoto takas un ļauj man savu dvēseli atdot par pasauli, kuru, Tavu ceļu ejot, ak Ķēniņ, godības augstumos, cēlāku ir padarījuši Tevis Izredzēto soļi.
 Tu esi Devējs, Žēlotājs, Visdāsnais, Svētītājs, Līdzjūtīgais.
-
--- Abdu'l-Bahá

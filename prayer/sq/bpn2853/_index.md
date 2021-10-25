@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2853 in Shqip'
+author = 'Bahá'u'lláh'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 *Agjërimi bie gjatë muajit 'Alá' (Lartësi) nga 2 marsi deri në 20 mars inkluzivisht. Gjatë këtyre ditëve asnjë ushqim ose pije nuk duhet përdorur që nga agimi deri në perëndim të diellit. Kjo është kohë lutjesh dhe përtëritjeje shpirtërore. Ata që janë nën pesëmbëdhjetë vjeç, udhëtarët, të sëmurët dhe të drobiturit, gratë shtatzëna dhe nënat me fëmijë gjiri përjashtohen nga Agjërimi.
@@ -33,5 +34,3 @@ Të përgjërohem Ty, O Perëndia im, për dritën e fytyrës Sate, që i detyro
 Të përgjërohem Ty, O Perëndia im, për Emrin Tënd, përmes të cilit Ti ke dëgjuar thirrjen e atyre që të duan Ty dhe psherëtimat e atyre që kanë mall për Ty, dhe për vajin e atyre që gëzojnë afrinë Tënde e për rënkimin e atyre që të janë besnikë Ty, me anë të të cilit Ti ke përmbushur dëshirat e atyre që i kanë mbështetur shpresat tek Ti dhe ua ke plotësuar kërkesat, përmes hirit Tënd e favoreve të Tua, dhe për Emrin Tënd përmes të cilit oqeani i ndjesës është dallgëzuar para fytyrës Sate dhe retë e bujarisë Sate kanë reshur mbi shërbëtorët e Tu, të shkruash për këdo që është kthyer ndaj Teje dhe ka zbatuar agjërimin që Ti ke urdhëruar, shpërblimin e dekretuar për ata që nuk flasin veçse me lejën Tënde dhe që kanë braktisur të gjitha ato që zotëronin në shtegun Tënd e për dashurinë për Ty.
 
 Të përgjërohem Ty, O Zoti im, për Veten Tënde, dhe për shenjat e Tua e provat Tuaja të qarta, dhe për dritën e shkëlqyeshme të Yllit të Ditës të Bukurisë Sate, dhe për Degët e Tua, t'i fshish shkeljet e atyre që janë mbajtur fort pas ligjeve të Tua dhe kanë zbatuar atë që Ti u ke urdhëruar atyre në Librin Tënd. Ti më sheh, O Perëndia im, tek mbahem pas Emrit Tënd, Më të Shenjtit, Më të Ndritshmit, Më të Fuqishmit, Më të Madhit, Më të Lartësuarit, Më të Lavdishmit, dhe tek kapem pas cepit të rrobës, pas së cilës janë kapur të gjithë në këtë botë dhe në botën që do të vijë.
-
--- Bahá'u'lláh

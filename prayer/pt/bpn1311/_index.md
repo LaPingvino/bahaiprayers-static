@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1311 in Português (BR)'
+author = 'Báb'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é Deus, o Soberano Governante, o Sempiterno, Aquele cujo auxílio é implorado por todos os homens. Alvo de louvor e glória és Tu, ó Senhor! Tanto o mundo existente, como as almas dos homens dão testemunho de que Tu és transcendente acima das revelações da obra das Tuas mãos, e os portadores dos Teus nomes e atributos proclamam que és imensuravelmente exaltado acima de qualquer louvor que os habitantes dos domínios da criação e da invenção Te possam render. Todas as aparências e realidades indicam a unicidade da Tua Essência, e todas as evidências e todos os Sinais refletem a verdade de que Tu és Deus e não há para Ti nenhum igual ou associado em todos os reinos do céu e da terra.
@@ -13,5 +14,3 @@ Tu és a Eterna Clemência, o Todo-Glorioso; és Quem concede favores e dádivas
 Santificado és Tu, ó Senhor, Tu a Quem todos rendem graças. Qualquer coisa que de Ti eu possa afirmar, nada mais seria que um crime abominável diante de Ti, e qualquer menção que de Ti eu possa desejar fazer, seria a essência da transgressão, e não importa qual seja o louvor com que eu Te possa glorificar, não passaria de simples blasfémia. Ninguém, senão Tu, jamais pôde, nem poderá sondar o Teu mistério, e pessoa alguma tem conseguido, nem conseguirá, em qualquer tempo, desvelar a Tua Essência.
 Magnificado és! Nenhum Deus há, salvo Tu. És, em verdade, o Governante Supremo, o Amparo no Perigo, o Altíssimo, o Incomparável, o Omnipotente, o Todo-Poderoso. Verdadeiramente, és grande em Tua proeza, o Senhor de transcendente glória e majestade.
 Protege Tu, ó Deus, quem memorizar esta oração e a recitar durante o dia e à noite. Em verdade, Tu és Deus, o Senhor da criação, o Todo-Suficiente. És fiel à Tua promessa e fazes qualquer coisa que Te apraza. És Aquele que nas Suas mãos segura os domínios da terra e do céu. Em verdade Tu és o Todo-Poderoso, o Inatingível, o Amparo no Perigo, o Predominante.
-
--- Báb

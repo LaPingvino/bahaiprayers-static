@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2187 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Multe inimi îngheţate, o, Dumnezeul meu, au fost aprinse cu focul Cauzei Tale şi mulţi adormiţi au fost treziţi de dulceaţa glasului Tău. Cât de mulţi sunt străinii care au căutat adăpost la umbra pomului unicităţii Tale şi cât de numeroşi cei însetaţi care au tânjit după fântâna apelor Tale vii în zilele Tale!
@@ -9,5 +10,3 @@ Binecuvântat este cel ce s-a îndreptat spre Tine şi s-a grăbit să atingă A
 Te implor, o Domnul meu, întru Cel care este Numele Tău, Cel care, prin puterea suveranităţii şi tăriei Tale s-a ridicat deasupra orizontului închisorii Sale, să porunceşti pentru fiecare ceea ce Ţi se cuvine şi se potriveşte suveranităţii Tale.
 
 Cu adevărat, tăria Ta, este la fel de mare înaintea tuturor lucrurilor.
-
--- Bahá'u'lláh

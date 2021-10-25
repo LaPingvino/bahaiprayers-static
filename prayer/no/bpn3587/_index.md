@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3587 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 I Guds, den eldstes, den størstes, navn.
@@ -103,5 +104,3 @@ Sannelig, jeg har hørt din kallen, o overmåte herlige elskede; og nå blusser 
 O 'Ali-Akbar, takk din Herre for denne tavle hvorfra du kan innånde duften av min saktmodighet og få vite hva som er vederfart oss på den vei som er forordnet av Gud, alle verdeners tilbedte.
  
 Skulle alle tjenerne lese og overveie dette, så vil det i deres årer tennes en ild som skal sette alle verdener i brann.
-
--- Bahá'u'lláh

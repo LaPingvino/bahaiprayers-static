@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9668 in Nederlands'
+author = 'Abdu'l-Bahá'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 ##Geopenbaard aan de bahá’ís van de Verenigde Staten en Canada
@@ -17,5 +18,3 @@ O Heer! De zee van oproer zwelt aan en deze zware stormen zullen alleen tot beda
 O Heer! De mensen bevinden zich waarlijk in de afgrond van hartstocht, en niets dan Uw oneindige milddadigheid kan hen redden.
 O Heer! Verdrijf het duister van deze verdorven begeerten en verlicht de harten met de lamp van Uw liefde die alle landen eerlang zal verlichten. Bekrachtig bovendien Uw geliefden, zij die hun vaderland, hun familie en hun kinderen achterlieten, en uit liefde voor Uw schoonheid naar vreemde landen zijn gereisd om Uw geuren te verspreiden en Uw leringen te verbreiden. Weest Gij hun metgezel in hun eenzaamheid, hun helper in vreemde landen, de verdrijver van hun verdriet, hun trooster bij rampspoed. Weest Gij een verfrissende dronk voor hun dorst, een geneesmiddel voor hun ziekten en een balsem voor hun brandend hartsverlangen.
 Waarlijk, Gij zijt de Grootmoedigste, de Heer van overvloedige genade en waarlijk, Gij zijt de Meedogende en de Barmhartige.
-
--- Abdu'l-Bahá

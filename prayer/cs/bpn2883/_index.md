@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2883 in Česky'
+author = 'Abdu'l-Bahá'
 tags = ['lang-cs', 'bpn-unsorted']
 +++
 On je Bůh!
@@ -17,5 +18,3 @@ A z obou moří se perly velké i malé loví.“²
 
 ¹ Korán 51:56
 ² Korán 55:19-22
-
--- Abdu'l-Bahá

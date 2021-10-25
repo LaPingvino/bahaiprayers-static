@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9299 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Tablette du feu
@@ -54,5 +55,3 @@ Quand jaillit l’épée, avance ; quand vole la flèche, force le pas, ô Sacri
 Verses-tu des larmes ou dois-je en verser ? Je devrais plutôt pleurer sur le petit nombre de tes défenseurs, ô toi, source des lamentations des mondes !
 Oui, j’entends ton appel, ô très-glorieux BienAimé ! Maintenant la chaleur des tribulations et le feu de ta parole étincelante enflamment le visage de Bahá. Il se présente, fidèle, au lieu du sacrifice, aspirant à ton bon plaisir, ô Ordonnateur des mondes !
 Ô ‘Alí-Akbar, remercie ton Seigneur pour cette tablette. Tu peux y respirer le parfum de mon humilité et y découvrir les tourments que nous avons subis dans le sentier de Dieu, celui que tous les mondes adorent. Si tous les serviteurs lisaient et méditaient ceci, un feu s’allumerait dans leurs veines, qui embraserait les mondes.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6435 in Cymraeg'
+author = 'Bahá'u'lláh'
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 *The Kitáb-i-Aqdas states: "We have commanded you to pray and fast from the beginning of maturity [15 year]; this is ordained by God, your Lord and the Lord of your forefathers.... The traveler, the ailing, those who are with child or giving suck, are not bound by the fast.... Abstain from food and drink, from sunrise to sundown, and beware lest desire deprive you of this grace that is appointed in the Book." The period of the Fast is March 2 through March 20.
@@ -64,5 +65,3 @@ I beseech Thee, O my God, by the light of Thy countenance which impelled them wh
 I beseech Thee, O my God, by Thy Name through which Thou hast hearkened unto the call of Thy lovers, and the sighs of them that long for Thee, and the cry of them that enjoy near access to Thee, and the groaning of them that are devoted to Thee, and through which Thou hast fulfilled the wishes of them that have set their hopes on Thee, and hast granted them their desires, through Thy grace and Thy favors, and by Thy Name through which the ocean of forgiveness surged before Thy face, and the clouds of Thy generosity rained upon Thy servants, to write down for every one who hath turned unto Thee, and observed the fast prescribed by Thee, the recompense decreed for such as speak not except by Thy leave, and who forsook all that they possessed in Thy path and for love of Thee.
 
 I beseech Thee, O my Lord, by Thyself, and by Thy signs, and Thy clear tokens, and the shining light of the Day-Star of Thy Beauty, and Thy Branches, to cancel the trespasses of those who have held fast to Thy laws, and have observed what Thou hast prescribed unto them in Thy Book. Thou seest me, O my God, holding to Thy Name, the Most Holy, the Most Luminous, the Most Mighty, the Most Great, the Most Exalted, the Most Glorious, and clinging to the hem of the robe to which have clung all in this world and in the world to come.
-
--- Bahá'u'lláh

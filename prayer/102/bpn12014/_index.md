@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12014 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Eziz hem Jomart.
@@ -16,5 +17,3 @@ Onda Eý älemiň Allasy we Eý ezeliň Eýesi we Eý illeriň Soltany! Seniň B
     Barhudaýa! Ruhlarymyz bilen Seniň “Jeberutyňda“, atlarymyz bilen Seniň “Melekutyňda“, läşlerimiz bilen Seniň goragly Gençleriňde we jisimlerimiz bilen Seniň saklanýan Hazynalaryňda, hatalardan daşda durup bilmek üçin gerekli zatlary, bize Öz Agla: Galamyň bilen ýazgyt eýle. Bolan zatlary we boljak zatlary başarýan diňe Sensiň.
     Barhudaýa! Rähmet we Kerem asmanyňa göterilen arzuwly ellerimi görýänsiň. Bu elleri diňe Öz Ýalkaýyş we Jomartlyk gençleriň bilen doldurarsyň diýip isleýärin. 
     Eý Taňrym! Biz üçin hem biziň enelerimiz we atalarymyz üçin “Ýalkaw“ sözüni ýaz. Onsoň maksat eden zatlarymyzy, Öz Rehimdarlyk we Keramat deňziňden merhemet eýle. Onda Eý biziň Mahbubymyz! Seniň ugruňda eden işlerimizi kabul et. Dogrudanam iň Başarjaň, Belent mertebe Taýsyz, Ýeke-Täk, Bagyşlaýjy hem Mähriban Sensiň.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2609 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *Elmondandó egyszer minden huszonnégy órában
@@ -55,5 +56,3 @@ Dicsőség Néked, ó, Istenünk, hogy leküldted hozzánk azt, mi közel vonz m
 
 *Majd emelje fel fejét, üljön fel, és mondja:
 Hitvallást teszek, ó, Istenem, amiről a Te választottaid tanuskodtak, és elismerem azt, mit a legmagasabb Paradicsomban lakozók és a Te hatalmas Trónusod körül járók elismertek. Tiéd a föld és menny királysága, ó, világok Ura!
-
--- Bahá'u'lláh

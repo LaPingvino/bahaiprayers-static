@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7615 in Kreyol Ayisyen'
+author = 'Bahá'u'lláh'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Li Ki Wa, Ki Konnen Tout Bagay, Ki Saj la!
@@ -19,5 +20,3 @@ Se Li Ki Wa, Ki Konnen Tout Bagay, Ki Saj la!
 	Grave Priyè sa a nan kè ou, O Ahmad. Chante li pandan jou pa ou yo e pa ekate li. Paske an verite, Bondye te rezève pou moun k’ap chante Priyè sa a yon rekonpans ki egal ak san mati avèk yon sèvis nan tou de mond yo. Mwen te ofri favè sa yo kòm yon bonte Mwen ba ou ak yon mizèrikòd ki soti nan prezans Mwen, pou pèmèt ou fè pati moun ki gen rekonesans.
 	Mwen pran Bondye kòm temwen! Si yon moun ki nan difikilte oubyen chagren ta resite Priyè sa a avèk yon senserite total, Bondye pral chanje tristès li, rezoud problèm li yo epi elimine soufrans li yo. 
 	An verite, se Li menm Ki Mizèrikodye a, Ki Gen Yon Kè Sansib. Lwanj pou Bondye, Senyè tout mond yo.
-
--- Bahá'u'lláh

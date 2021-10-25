@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn674 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 *„Studieret das Tablet vom Heiligen Seefahrer, damit ihr die Wahrheit erkennet, und bedenket, dass die Gesegnete Schönheit zukünftige Ereignisse klar vorausgesagt hat. Lasst die Verständigen gewarnt sein.“ —Abdu’l-Bahá
@@ -63,5 +64,3 @@ Verherrlicht sei mein Herr, der Allherrliche! Verherrlicht sei Er, der aus dem W
 Verherrlicht sei mein Herr, der Allherrliche! Dann eilten aus ihren Gemächern die Jungfrauen des Himmels, deren Antlitz kein Bewohner des höchsten Paradieses je erblickte.
 Verherrlicht sei unser Herr, der Höchste! Sie scharten sich um sie und siehe! sie fanden ihren Leib in den Staub gesunken.
 Verherrlicht sei unser Herr, der Höchste! Und als sie ihren Zustand schauten und ein Wort aus des Jünglings Erzählung begriffen, entblößten sie das Haupt, zerrissen ihre Gewänder, schlugen sich ins Gesicht, vergaßen alle Freude, vergossen bittere Tränen, und mit den Händen peitschten sie ihre Wangen
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7995 in Malti'
+author = 'Bahá'u'lláh'
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 #TALBA OBLIGATORJA MEDJA    (Medium Obligatory Prayer)
@@ -31,5 +32,3 @@ Twarrabx minn xewqtu, O Alla tiegħi, lil dak li, b’subgħajn jitolbu, iggranf
 Jien xhud tal-għaqda tiegħeK u tal-waħdan tiegħeK, u li Inti Alla, u li m’hemmx Alla ieħor ghajreK. Inti, fis-sewwa, kxift il-Kawża tiegħeK, u wettaqt il-Ftehim tiegħeK, u ftaħt beraħ il-bieb tal-grazzja tiegħeK lil dawk kollha li jgħixu fis-sema u fuq l-art. Il barka u s-sliem, il-merħba u l-glorja, iserrħu fuq dawk illi tħobb Inti, li t-tibdiliet u il-ġrajjiet tad-dinja ma żammewhomx lura milli jduru lejK, u li taw kulma kellhom, bit-tama li jiksbu dak li jagħmel minneK. Inti, fis-sewwa, Dak li Jaħfer-Dejjem, il-Ġid-Kollu.
 
 *(Jekk xi hadd jagħżel igħid minflok il-vers twil dawn il-kelmiet: “Alla xehed li m’hemmx Alla ieħor għajrU, l-Għajnuna fit-Tiġrib, li Tgħix Fik Innifsek,” ikun biżżejjed. U hekk ukoll, ikun biżżejjed jekk huwa, waqt li jkun bil qiegħda, jagħżel li jgħid dawn il kelmiet: “Jien xhud tal-għaqda tiegheK u tal-waħdan tiegħeK, u li Inti Alla, u li m’hemmx Alla ieħor għajreK.”)
-
--- Bahá'u'lláh

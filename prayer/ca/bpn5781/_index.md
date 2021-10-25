@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5781 in Català'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oració per a ser recitada en acabar la reunió de l’Assemblea Espiritual.
@@ -11,5 +12,3 @@ Oh Senyor nostre! Som dèbils i Tu ets el Fort, el Poderós. Estem sense vida, i
 
 Oh Senyor nostre! Gira els nostres rostres cap el Teu semblant misericordiós; per la Teva divina gràcia, alimenta’ns de la Teva taula celestial; ajuda’ns amb les hosts dels Teus àngels suprems i confirma’ns mitjançant els éssers sants del Regne d’Abhá.
 Veritablement Tu ets el Generós, el Misericordiós. Tu ets el Posseïdor de gran munificència i en veritat Tu ets el Climent i el Bondadós.
-
--- Abdu'l-Bahá

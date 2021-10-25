@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4443 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Luwalhatiin Ka, O aking Diyos! Ako ay isa sa Iyong mga tagapaglingkod na sumasampalataya sa Iyo at sa Iyong mga tanda. Nakikita Mo kung paano naitungo ko ang aking sarili sa pintuan ng Iyong kahabagan, at naibaling ko ang aking mukha sa kinaroroonan ng Iyong mapagmahal na kabaitan. Isinasamo ko sa Iyo, sa Iyong pinakamagaling na mga pamagat at sa Iyong pinakamaluwalhating mga katangian, na buksan sa harap ko ang mga pinto ng Iyong mga kaloob. Tulungan Mo ako, kung gayon, na makagawa ng mabuti, O ikaw na Nagmamay-ari ng lahat ng pangalan at katangian!
@@ -11,5 +12,3 @@ Alisin ang lambong sa aking mga mata, O aking Panginoon, upang makita ko yaong h
 Nagpapasalamat ako sa Iyo, O aking Panginoon, sapagkat ginising Mo ako sa pagkakatulog, at pinabangon Mo ako, at nilikha Mo sa akin ang paghahangad na mabatid yaong ang karamihan ng Iyong mga tagapaglingkod ay nabigong maunawaan. Bigyan Mo ako ng kakayahan, kung gayon, O aking Panginoon, na mamalas, alang-alang sa pag-ibig sa Iyo at sa Iyong ikasisiya, ang anumang ninais Mo. Ikaw Siya na ang lakas ng kapangyarihan at paghahari ay sinasaksihan ng lahat ng bagay.
 
 Walang iba pang Diyos liban sa Iyo ang Makapangyarihan sa Lahat, ang Mapagpala.
-
--- Bahá'u'lláh

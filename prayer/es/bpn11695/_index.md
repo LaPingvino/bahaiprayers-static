@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11695 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 En el Nombre de Dios, el Más Antiguo, el Más Grande.
@@ -53,5 +54,3 @@ Cuando centelleen las espadas, ¡avanza! Cuando vuelen los dardos, ¡sigue adela
 En verdad, he oído Tu llamada, oh Gloriosísimo Amado. Y ahora la faz de Bahá arde con el calor de la tribulación y con el fuego de Tu radiante palabra, y Se ha levantado con fidelidad en el lugar del sacrificio, anhelando Tu agrado, oh Ordenador de los mundos.
 Oh ‘Alí-Akbar. Da gracias a tu Señor por esta Tabla, de la que puedes aspirar la fragancia de Mi humildad y conocer aquello que Nos ha afligido en el camino de Dios, el Adorado de todos los mundos.
 Si todos los siervos leen y meditan sobre esto, se les encenderá en las venas un fuego que incendiará los mundos.
-
--- Bahá'u'lláh

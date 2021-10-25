@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn458 in Deutsch'
+author = 'Abdu'l-Bahá'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, o Gott! Du siehst, wie schwarze Finsternis alle Lande umfängt, wie alle Lande brennen in der Zwietracht Flamme, wie mörderisch in Ost und West des Krieges Feuer lodert. Blut wird vergossen, Leichen bedecken ringsum die Erde, und abgeschlagen liegen Häupter im Staub des Schlachtfelds.
@@ -15,5 +16,3 @@ O Herr! Das Meer des Aufruhrs wogt, und diesen Sturm stillt allein Deine grenzen
 O Herr! Wahrlich, die Menschen schmachten im Abgrund der Leidenschaft; nur Deine unendlichen Gnadengaben können sie daraus retten.
 O Herr! Vertreibe die Finsternis dieser verderbten Begierden, erhelle die Herzen mit der Lampe Deiner Liebe, die bald alle Lande erleuchten wird. Stärke Deine Geliebten, die aus Liebe zu Deiner Schönheit Heim und Herd, Mann, Weib und Kind verlassen und in fremde Lande reisen, Deine Düfte zu verbreiten und Deine Lehren zu künden. Sei Du ihr Gefährte in der Einsamkeit, ihrer Sorgen Tilger und ihr Trost im Unglück. Sei Du ihrem Durst ein frischer Trunk, ihren Gebrechen eine Arznei, ein Balsam der verzehrenden Glut ihrer Herzen.
 Wahrlich, Du bist der Freigebigste, der Herr überfließender Gnade, und wahrlich, Du bist der Mitleidvolle, der Gnadenreiche.
-
--- Abdu'l-Bahá

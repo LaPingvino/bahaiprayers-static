@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3572 in Norsk'
+author = 'Báb'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Du er Gud, ingen annen Gud er der enn deg.
@@ -13,5 +14,3 @@ Forherliget er du, o min Gud! Jeg påkaller deg ved ditt Største Navn hvorved d
 Jeg ber deg inntrengende, o Herre min Gud, ved ditt herligste navn hvorved ditt herredømme er blitt opprettet og tegnene på din makt er blitt åpenbart, og hvorved livets og den hellige henrykkelses oseaner har bølget for å gjenopplive alle dine skapningers hensmuldrende ben og for å inngi lemmene ny kraft hos dem som har sluttet seg til din Sak -jeg ber deg inntrengende om nådigst å forordne for oss det som er godt i denne verden og i den neste, om å gjøre det mulig for oss å oppnå adgang til din barmhjertighets og miskunnhets kongesete og om å tenne gledens og henrykkelsens ild i våre hjerter på en slik måte at alle menneskers hjerter derved kan tiltrekkes.
  
 Sannelig, du er den overmåte sterke, beskytteren, den allmektige, den selvbestående.
-
--- Báb

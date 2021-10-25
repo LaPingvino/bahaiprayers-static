@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2318 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 *Studiaţi Tableta Marinarului Sfânt ca să puteţi afla adevărul, şi luaţi seama că Frumuseţea Binecuvântată a prezis în întregime evenimentele viitoare. Fie ca cei ce înţeleg să ia aminte! - ‘Abdu’l-Bahá
@@ -178,5 +179,3 @@ Slăvit fie Stăpânul nostru, Cel Preaînalt!
 şi de cum o priviră, înţeleseseră un cuvânt din povestea spusă de Tânăr; şi-au descoperit capetele, şi-au sfâşiat veşmintele, s-au lovit peste feţe; şi-au uitat bucuria, au vărsat lacrimi şi şi-au lovit obrajii cu palmele, iar aceasta este, pe drept, una dintre durerile misterioase şi cumplite.
 
 Slăvit fie Stăpânul nostru, Cel Preaînalt!
-
--- Bahá'u'lláh

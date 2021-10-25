@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4976 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Bản Kinh 
@@ -76,5 +77,3 @@ Lạy Thượng Đế của chúng con, Ngài thật đáng chúc tụng vì Ng�
 *(Ngước đầu lên, ngồi tại chỗ và đọc:)
 
 Lạy Thượng Đế của con, con xin làm chứng cho những điều mà các Đấng tuyển chọn của Ngài đã làm chứng, và con nhận biết những điều đã được tiếp thụ bởi các cư dân của Thiên đàng tối cao, cũng như bởi những người đã chầu hầu quanh Ngôi uy lực của Ngài. Các vương quốc của cõi đất và cõi trời đều thuộc về Ngài, lạy Ngài là Đấng Thượng Đế của các thế giới!
-
--- Bahá'u'lláh

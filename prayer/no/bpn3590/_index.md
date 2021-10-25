@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3590 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 *I "Kitab-i-Aqdas" sier Bahá'u'lláh: "Vi har pålagt dere å be og faste fra modenhetsalderens begynnelse; dette er forordnet av Gud, deres Herre og deres forfedres Herre.
@@ -16,5 +17,3 @@ Jeg er den, o min Herre, som har holdt fast ved din miskunnhets bånd og klynget
 Dette er, o min Herre, de dager da du har pålagt dine tjenere å holde fasten. Velsignet er den som holder fasten helt for din skyld og fullstendig løsrevet fra alt unntatt deg. Hjelp meg og hjelp dem, o min Herre, å adlyde deg og overholde dine forordninger. Du har i sannhet makt til å gjøre det du bestemmer.
  
 Der er ingen annen Gud enn deg, den allvitende, den allvise. All ære være Gud, Herren over alle verdener.
-
--- Bahá'u'lláh

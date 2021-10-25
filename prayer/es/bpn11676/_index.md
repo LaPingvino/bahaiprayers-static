@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11676 in Español'
+author = 'Abdu'l-Bahá'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Oración para ser recitada al terminar la reunión de la Asamblea Espiritual
@@ -8,5 +9,3 @@ tags = ['lang-es', 'bpn-unsorted']
 ¡Oh Señor nuestro! Somos débiles y Tú eres el Fuerte, el Poderoso. Estamos sin vida, y Tú eres el gran Espíritu vivificador. Estamos necesitados, y Tú eres el Sustentador, el Poderoso.
 ¡Oh Señor nuestro! Vuelve nuestros rostros hacia Tu semblante compasivo, aliméntanos de Tu mesa celestial con Tu abundante gracia, ayúdanos con las huestes de Tus ángeles supremos y confírmanos mediante los seres santos del Reino de Abhá.
 Verdaderamente, Tú eres el Generoso, el Misericordioso. Tú eres el Poseedor de gran munificencia y, en verdad, Tú eres el Clemente y el Magnánimo.
-
--- Abdu'l-Bahá

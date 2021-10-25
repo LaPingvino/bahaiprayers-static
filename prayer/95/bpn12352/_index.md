@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12352 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Te Matagofie e ia Koe, O toku Atua!  Tokotasi o Au tavini fafine, teka ne talitonu ia Koe mo Au failoga, ko oti ne ulu atu ki lalo o 
@@ -10,5 +11,3 @@ Nei la ko oti ne fakaasi ne Koe kia ia a te poto o Koe, O toku Aliki, sa-liakina
 Moi fai e fakaeke aka ki luga i se tasi o Au mea faiite a te tusa o maalo o te lalolagi o mo te lagi, e se mafai foki loa o galo ifo pe la me se foititi kii loa a te pooko o Tou maalo.  E lasi atu a Koe i te Tasi o Mea Tafasili i te Lasi ko tagata ko manako faeloa o kalaga atu kia Koe, auaa i te igoa tena ko te tasi fua mai i Ou igoa katoa ko la ne faiite mai i te manakoga foliki o Tou finagalo.  
   
 E seai aka foki se Atua na ko Koe, ko te Atua o te maalosi, ko te Atua o te matagofie, ko te Atua o te poto mo te atamai.
-
--- Bahá'u'lláh

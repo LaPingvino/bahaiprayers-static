@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12932 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 Em I God Bilong Marimari, Em I Save Givim Olgeta Blesing! 
@@ -11,5 +12,3 @@ pulap long lav long Yu.  Inap Yu lukautim em bai em i no ken lus.  Yu stap Spiri
 O God, my God!  Thou seest me, Thou knowest me; Thou art my Haven and my Refuge.  None have I sought nor any will I seek save Thee; no path have I trodden nor any will I tread but the path of Thy love.  In the darksome night of despair, my eye turneth expectant and full of hope to the morn of Thy boundless favour, and at the hour of dawn my drooping soul is refreshed and strengthened in remembrance of Thy beauty and perfection.  He whom the grace of Thy mercy aideth, though he be but a drop, shall become the boundless ocean, and the merest atom which the outpouring of Thy loving-kindness assisteth shall shine even as the radiant star. 
  
 Shelter under Thy protection, O Thou Spirit of Purity, Thou Who art the All-Bountiful Provider, this enthralled, enkindled servant of Thine.  Aid him in this world of being to remain steadfast and firm in Thy love and grant that this broken-winged bird may attain a refuge and shelter in Thy Divine Nest, that abideth upon the Celestial Tree.
-
--- Abdu'l-Bahá

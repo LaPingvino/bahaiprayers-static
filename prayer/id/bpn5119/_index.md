@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5119 in Bahasa Indonesia'
+author = 'Abdu'l-Bahá'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Dialah Tuhan!
@@ -12,5 +13,3 @@ Ya Tuhan! Isilah telinga-telinga mereka dengan ayat-ayat bantuan Ilahi dan ayat-
 Ya Tuhan! Perkuatlah mereka dengan rahmat-Mu oleh suatu semangat baru; terangilah mata mereka agar dapat melihat tanda-tanda-Mu yang menakjubkan dalam kegelapan malam; tentukanlah bagi mereka segala kebaikan yang berlimpah-limpah dalam Kerajaan rahasia-rahasia abadi-Mu; jadikanlah mereka laksana bintang-bintang cemerlang yang menyinari seluruh wilayah, pohon-pohon rimbun dengan buah-buah dan cabang-cabangnya yang bergerak oleh hembusan fajar. Sesungguhnya, Engkau Sang Pemurah, Maha Kuat, Maha Kuasa, Yang Tak Terbatas. Tiada Tuhan lain kecuali Engkau, Tuhan cinta dan kasih sayang, Yang Maha Mulia, Yang Maha Pengampun.
 
 * "Jikalau kesengsaraan tak menimpa dirimu di jalan-Ku, bagai-manakah engkau dapat mengikuti jejak mereka yang puas dengan kerelaan-Ku? Jikalau cobaan-cobaan tak menimpa diri-mu dalam kerinduanmu untuk menjumpai-Ku, bagaimanakah engkau akan mencapai cahaya-Nya dalam kasihmu akan keindahan-Ku?" - Bahá’u’lláh
-
--- Abdu'l-Bahá

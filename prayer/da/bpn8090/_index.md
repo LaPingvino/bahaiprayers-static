@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8090 in Dansk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O Du tilgivende Gud! Disse tjenere vender sig til Dit rige og søger Din nåde og gavmildhed. O Gud! Gør deres hjerter gode og rene, at de kan blive værdige til Din kærlighed. Rens og helliggør sjælene, at lyset fra virkelighedens sol kan skinne på dem. Rens og helliggør deres øjne at de kan opfatte Dit lys. Rens og helliggør deres øren at de kan høre Dit riges kalden.
@@ -11,5 +12,3 @@ O Gud, min Gud! Kast Din kærlige omsorgs blik på dette møde. Bevar hver og é
 O Herre! Skænk Din nåderige hjælp og bekræftelse til denne retfærdige regering. Dette land ligger under Din beskyttelses skærmende skygge, og dette folk er i Din tjeneste. O Herre! Giv dem Din himmelske gavmildhed og skænk i overflod Din nådes og begunstigelses strømme. Lad denne værdige nation blive holdt i ære og lad den få adgang til Dit rige.
 
 Du er Den Magtfulde, Den Almægtige, Den Barmhjertige, og Du er Den Godgørende, Herren af rig nåde.
-
--- Abdu'l-Bahá

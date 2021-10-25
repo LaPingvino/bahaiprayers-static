@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2307 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Te implor, o, Dumnezeul meu, pe Semnul
@@ -30,5 +31,3 @@ Te implor, o, Dumnezeul meu, pe lumina chipului Tău ce i-a îndemnat pe cei ce 
 Te implor, o, Dumnezeul meu, pe Numele Tău prin care Te-ai grăbit la chemarea adoratorilor Tăi, la suspinele celor ce năzuiesc spre Tine, la ţipătul celor care se bucură de apropierea de Tine, la gemetele celor care Îţi sunt devotaţi şi prin care ai îndeplinit dorinţele celor care şi-au pus speranţele în Tine şi le-ai îngăduit îndeplinirea dorinţelor lor, prin harul şi favorurile Tale, şi întru Numele Tău prin care oceanul iertării şi-a înălţat talazurile înaintea feţei Tale, şi norii generozităţii Tale s-au scuturat asupra slujitorilor Tăi, să aşterni pentru oricine s-a întors spre Tine şi a respectat postul orânduit de Tine, răsplata hotărâtă pentru cei care nu vorbesc decât la porunca Ta, şi care au părăsit tot ce au avut în calea Ta şi din iubire pentru Tine.
 
 Te implor, o, Dumnezeul meu, întru Tine Însuţi şi pe semnele Tale, pe dovezile Tale limpezi, pe lumina strălucitoare a Aurorei Frumuseţii Tale şi pe Ramurile Tale, să ştergi greşelile celor ce s-au ţinut strâns de legile Tale şi au respectat ceea ce le-ai poruncit în Cartea Ta. Tu mă vezi, o, Doamne, Dumnezeul meu, ţinându-mă de Numele Tău, Cel Mai Sfânt, Cel Mai Luminos, Cel Mai Puternic, Cel Măreţ, Cel Înălţat, Cel Glorios şi agăţându-mă de poala veşmântului de care s-au agăţat toţi în lumea aceasta şi ce va să vie.
-
--- Bahá'u'lláh

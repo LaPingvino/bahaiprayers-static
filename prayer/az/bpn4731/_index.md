@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4731 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ey əbədiyyət Sultanı, ümmətlərin Xaliqi və hər bir çürümüş sümüyə şəkil Verən! Sənin O Adına and verirəm ki, Onunla bütün insanları Öz əzəmət və cəlal üfüqünə çağırdın və bəndələrini fəzl və lütfünün sarayına hidayət etdin – məni o kəslərlə bir sıraya yaz ki, Səndən başqa hər şeydən özlərini ayırdılar, üzlərini Sənə tutdular və qəzavü-qədərin müsibətləri onların Sənin bəxşişlərinə can atmalarına mane olmadı.
@@ -9,5 +10,3 @@ Mən Sənin kəramət dəstəyindən yapışmışam, İlahi, Sənin lütfünün 
 Sənin günlərində Öz libasının şirin rayihələrindən məni binəsib qoyma, İlahi və Camalının nurunun aşkara çıxdığı Zühurunun nəfəsindən məni məhrum etmə. Sən istədiyini etməyə Qadirsən. Heç nə Sənin iradənə qarşı çıxa və Sənin Öz qüdrətinlə istədiyinə mane ola bilməz.
 
 Səndən başqa Allah yoxdur, Sən Qüdrət və Hikmət Sahibisən.
-
--- Bahá'u'lláh

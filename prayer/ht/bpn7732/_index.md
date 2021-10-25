@@ -1,9 +1,8 @@
 +++
 title = 'Prayer bpn7732 in Kreyol Ayisyen'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Ou menm Senyè Ki Gen Kè Dou! Sèvant Ou sa a ki chè pou nou te vle avanse nan direksyon Ou, e li te sèvi avèk panse li ak jijman li pou chèche jwenn prezans Ou e antre nan wayòm Ou yo. Avèk dlo nan je li, li te vire rega li sou Wayòm Mistè a. Li te pase anpil nwit nan fon lapriyè avèk Ou, e li te viv anpil jou avèk panse li yo ki plen lanmou fikse sou Ou. Chak maten li t’ap sonje Ou, epi chak lanjelis li t’ap mete panse li yo sou Ou. Li te chante vèsè sakre yo tankou yon wosinyòl, e li te chèche reflete limyè Ou tankou yon glas.
 O Ou menm Ki Padone peche yo! Ouvri chemen an pou pèmèt nanm ki reveye sa a ta kapab antre nan Wayòm Ou an, e fè zwazo sa a Ou te antrene avèk men Ou reyisi vole nan jaden woz ki p’ap janm fini an. Li gen gran anvi pou avanse pi pre Ou; pèmèt li rive jwenn prezans Ou. Li twouble e li ajite nan separasyon li ak Ou menm; ba li dwa antre nan Kay Selès Ou a.
 O Senyè! Nou se pechè, men se Ou menm Ki Padone. Nou plonje nan oseyan defo nou yo, men se Ou menm Ki Eskize, Ki Janti. Efase peche nou yo e beni nou avèk gras Ou k’ap debòde a. Pèmèt nou jwenn bonte gade Figi Ou, epi ban nou bwè nan kalis jwa ak kontantman an. Nou prizonye nan pwòp erè nou yo, e se Ou menm Ki Wa favè yo ki plen bonte. N’ap nwaye nan lanmè dezobeyisans nou yo, e se Ou menm Ki Senyè mizèrikòd ki pa gen limit la. Se Ou menm Ki Bay, Ki Gloriye, K’ap Kontinye Egziste pou Tout Tan, Ki Plen Bonte; e se Ou menm Ki Gen Tout Gras, Ki Plen Mizèrikòd, Ki Gen Tout Pouvwa, Sila a K’ap Voye Favè yo e K’ap Padone peche yo. An verite, se Ou menm nou tout ap vire jwenn pou chèche padon Li poutèt mankman nou yo, Sila a Ki Senyè senyè yo.
-
--- Abdu'l-Bahá

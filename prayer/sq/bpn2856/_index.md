@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2856 in Shqip'
+author = 'Bahá'u'lláh'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 *Kjo Tabelë u vesh prej Bahá'u'lláh-ut me fuqi e rëndësi të posaçme.
@@ -36,5 +37,3 @@ Mësoje mirë këtë Tabelë, O Ahmad. Këndoje atë gjatë ditëve të tua dhe 
 Për Perëndi! po qe se ndokush që është i brengosur ose i hidhëruar do ta lexojë këtë Tabelë me sinqeritet absolut, Perëndia do t'ia heqë trishtimin, do t'i zgjidhë vështirësitë e tij dhe do t'ia largojë vuajtjet.
 
 Me të vërtetë, Ai është i Mëshirshmi, i Dhembshuri. Lëvduar qoftë Perëndia, Zoti i të gjitha botëve.
-
--- Bahá'u'lláh

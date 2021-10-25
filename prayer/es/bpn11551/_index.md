@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11551 in Español'
+author = 'Abdu'l-Bahá'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Oraciones para la enseñanza tomadas de las Tablas del Plan Divino
@@ -11,5 +12,3 @@ tags = ['lang-es', 'bpn-unsorted']
 ¡Oh Señor! No tengo otro auxiliador sino Tú, ni otro amparo salvo Tú, ni otro sostenedor más que Tú. Ayúdame con Tus ángeles a difundir Tus santas fragancias y a diseminar Tus enseñanzas entre los más selectos de Tu pueblo.
 ¡Oh mi Señor! Permíteme desprenderme de todo excepto de Ti, asirme fuertemente del borde de Tu generosidad, consagrarme totalmente a Tu Fe, permanecer firme y seguro en Tu amor y observar lo que Tú has prescrito en Tu Libro.
 Verdaderamente, Tú eres el Fuerte, el Poderoso, el Omnipotente.
-
--- Abdu'l-Bahá

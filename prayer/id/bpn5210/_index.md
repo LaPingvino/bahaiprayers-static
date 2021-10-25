@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5210 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Aku memohon kepada-Mu, ya Tuhanku, demi
@@ -18,5 +19,3 @@ Aku memohon kepada-Mu, ya Tuhanku, demi cahaya wajah-Mu yang menggerakkan mereka
 Aku memohon kepada-Mu, ya Tuhanku, demi Nama- Mu yang melaluinya Engkau telah mendengarkan seruan para kekasih-Mu dan keluhan mereka yang rindu akan Dikau dan tangisan mereka yang dekat kepada- Mu dan rintihan mereka yang ikhlas pada-Mu, dan melaluinya Engkau telah memenuhi keinginan- keinginan mereka yang telah meletakkan harapan- harapannya pada-Mu, dan telah mengabulkan hasrat mereka melalui karunia-Mu dan rahmat-Mu, dan demi Nama-Mu yang melaluinya samudera pengampunan bergelora dihadapan wajah-Mu, dan awan-awan kemurahan-Mu menghujani hamba- hamba-Mu, agar menuliskan bagi setiap orang yang menghadap pada-Mu dan berpuasa karena perintah- Mu, ganjaran yang ditetapkan bagi mereka yang tak akan berbicara kecuali atas izin-Mu dan mereka yang telah meninggalkan segala sesuatu yang mereka miliki di jalan-Mu dan demi cinta akan Dikau.
 Aku memohon kepada-Mu, ya Tuhanku, demi Diri- Mu Sendiri, dan demi tanda-tanda-Mu, dan bukti-bukti- Mu yang jelas, dan cahaya yang bersinar dari Surya Keindahan-Mu, dan Dahan-dahan-Mu, agar menghapuskan pelanggaran-pelanggaran mereka yang
 berpegang kuatkepadaperintah-perintah-Mudantelah melaksanakan apa yang telah Engkau tetapkan bagi mereka dalam Kitab-Mu. Engkau melihat daku, ya Tuhanku, berpegang pada Nama-Mu, Yang Maha Suci, Yang Maha Cemerlang, Yang Maha Kuasa, Yang Maha Agung, Yang Maha Luhur, Yang Maha Mulia, dan berpegang teguh pada ujung jubah, yang mana semua yang berada di dunia ini dan di akhirat berpegang kepadanya.
-
--- Bahá'u'lláh

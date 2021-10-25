@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BH03109KIN in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'BH03109KIN']
 +++
 He is God, exalted is He, the Lord of loving-kindness and bounty!
@@ -13,5 +14,3 @@ O My Lord, the poor one hath verily hastened unto the Kingdom of Thy wealth, the
 O my God, Thy Trust hath been returned unto Thee.  It behooveth Thy grace and Thy bounty that have compassed Thy dominions on earth and in heaven, to vouchsafe unto Thy newly welcomed one Thy gifts and Thy bestowals, and the fruits of the tree of Thy grace!  Powerful art Thou to do as Thou willest, there is none other God but Thee, the Gracious, the Most Bountiful, the Compassionate, the Bestower, the Pardoner, the Precious, the All-Knowing.
 I testify, O my Lord, that Thou hast enjoined upon men to honor their guest, and he that hath ascended unto Thee hath verily reached Thee and attained Thy Presence.  Deal with him then according to Thy grace and bounty!  By Thy glory, I know of a certainty that Thou wilt not withhold Thyself from that which Thou hast commanded Thy servants, nor wilt Thou deprive him that hath clung to the cord of Thy bounty and hath ascended to the Dayspring of Thy wealth.
 There is none other God but Thee, the One, the Single, the Powerful, the Omniscient, the Bountiful.
-
--- Bahá'u'lláh

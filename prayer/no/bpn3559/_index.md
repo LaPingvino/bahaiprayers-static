@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3559 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O Gud, som er opphavet til alle manifestasjoner, kilden til alle kilder, opprinnelsen til alle åpenbaringer, utspringet for alle lys! Jeg bevitner at ved ditt navn er forståelsens himmel blitt prydet, og ytringens osean bragt til å bølge, og ditt forsyns forordninger kunngjort for alle religioners tilhengere.
@@ -9,5 +10,3 @@ Jeg bønnfaller deg om å gjøre meg så rik at jeg kan gi avkall på alt uten d
 Dette er din tjener, o min Herre, som med hele sitt vesen har vendt seg mot din gavmildhets horisont og din nådes osean og dine gavers himmel. Gjør da med meg som det anstår seg din velde, og din herlighet, og din gavmildhet og din nåde.
  
 Du er i sannhet styrkens og maktens Gud, som er den rette til å svare dem som bønnfaller deg. Der er ingen Gud uten deg, den allvitende, den allvise.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2236 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Tu Dumnezeule milostiv!
@@ -11,5 +12,3 @@ O, Dumnezeule! Fă această adunare radioasă. Fă inimile milostive. Dăruieşt
 O, Părinte bun! Dăruieşte binecuvântările Tale. Nu lua în seamă lipsurile noastre. Adăposteşte-ne sub ocrotirea Ta. Nu pomeni păcatele noastre. Tămăduieşte-ne cu milostivirea Ta. Noi suntem slabi; Tu eşti tare. Noi suntem săraci; Tu eşti bogat. Noi suntem bolnavi; Tu eşti Tămăduitorul. Noi suntem nevoiaşi; Tu eşti prea generos.
 
 O, Dumnezeule! Înzestrează-ne cu chibzuinţa Ta. Tu eşti Cel Puternic. Tu eşti Cel ce Dăruieşte. Tu eşti Cel Binefăcător.
-
--- Abdu'l-Bahá

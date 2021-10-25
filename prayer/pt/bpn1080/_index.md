@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1080 in Português (BR)'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó bondosa e amorosa Providência! O Oriente está agitado e o Ocidente encapela-se como as vagas eternas do mar. As suaves brisas de santidade difundem-se e, do Reino Invisível, os raios do Sol da Verdade rutilam resplendentes. Os hinos da unicidade divina estão a ser entoados, e os pendões do poder celestial estão a tremular. A Voz angélica enche os ares e, como o rugido do leviatã, faz soar o chamamento à abnegação e à evanescência. O brado triunfal Yá Bahá’u’l-Abhá retumba por todas as plagas, e o chamado de Yá ’Alíyyú’l-’Alá ecoa por todas as regiões. Não há agitação no mundo a não ser a da Glória do Arrebatador de Corações, e tumulto algum existe salvo o encapelar do amor a Ele, o Incomparável, o Bem-Amado.
@@ -10,5 +11,3 @@ Protege-nos, ó Deus Omnipotente, e sê o nosso refúgio. Manifesta, ó Senhor d
 Ó Senhor Amoroso! Os instigadores de sedição acham-se em plena atividades em certas regiões e dia e noite estão a perpetrar maldades cruéis.
 Assim como lobos, os opressores estão emboscados à espera, e o rebanho atormentado e inocente não tem quem o ajude ou socorra. Cães ferozes rastreiam as gazelas dos campos da unicidade divina e o faisão das montanhas da guia celestial é perseguido pelos corvos da inveja.
 Ó Divina Providência! Preserva-nos! Protege-nos! Ó Tu que és o nosso Escudo! Salva-nos! Defende-nos! Abriga-nos à sombra do Teu Refúgio e, através do Teu Amparo, livra-nos de todos os males. Deveras, és o Protetor Verdadeiro, o Defensor Invisível, o Preservador que está nos céus, o amoroso Senhor Celestial.
-
--- Abdu'l-Bahá

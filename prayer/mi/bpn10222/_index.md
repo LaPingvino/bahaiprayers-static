@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10222 in Māori'
+author = 'Abdu'l-Bahá'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 *“Ko te mārena Bahá’i he kotahitanga me te whakaipo mahana o waenga o te tokorua. Heoti noa me āta mahi, me mārama pai rāua ki ō rāua ake tūāhuatanga. Ko te hononga mutungakore me here ki te kawenata mauroa, ko tāna he poipoi i te āhuru o te whakahoatanga me te kotahitanga kia taea ai te oranga mutungakore.” 
@@ -17,5 +18,3 @@ E Koe Te Ariki atawhai! Kia meinga e Koe tēnei mārena kia whai hua ā-kāoa ā
 
 *† Qur’án 3:67 
 *‡ Qur’án 56:62
-
--- Abdu'l-Bahá

@@ -1,7 +1,0 @@
-+++
-title = 'Prayer bpn10834 in '
-tags = ['lang-94', 'bpn-unsorted']
-+++
-O Ambuye Wachisoni! Inu Amene Muli Wopatsa ndi Wachifundo! Ife tiri woperekera zikho pakhomo lanu ndipo tiri pansi pa chitetezo cha chifundo Chanu.  Dzuwa la ubwino Wanu likuwalira pa onse, ndipo mitambo ya chifundo Chanu iphimba onse.  Mphatso Zanu zizungulira onse, ubwino Wanu uli ndi mphamvu yochotsa zonse; chitetezo Chanu chiphimba onse, maonekedwe a zabwino Zanu awalira onse.  O Ambuye! Tipatseni ife zaulere Zanu zosatha ndipo lolani kuti nyali ya chitsogozo Chanu iwale.  Walitsani maso athu, sangalatsani miyoyo yathu ndipo perekani mzimu watsopano m’mitima yonse.  Tipatseni moyo wosatha.  Tsegulani zitseko za nzeru Zanu; lolani nyali ya chikhulupiliro iwale.  Lumikizani ndi kubweretsa anthu onse pansi pa m’thunzi umodzi, kunsi kwa mbendera ya chitetezo Chanu, kuti akhale ogwirizana ngati mafunde a nyanja imodzi, ngati masamba ndi nthambi za mtengo umodzi, asonkhane pansi pa chithunzithunzi cha hema imodzi.  Aloleni kuti amwe pa kasupe m’modzi.  Atsitsimutsidwe ndi mvumbi umodzi. Alandire kuwala kochokera kumalo amodzi a nyali ndi moyo.  Inu ndinu wopatsa, wachifundo.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3193 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Hy is die gebed-horende, gebed-verhorende God!
@@ -13,5 +14,3 @@ En weer eens vra ek U by die soet buie van U genade en by die golwe van die osea
 By U oppermag, o U Wat in die harte van die mense verheerlik is! Ek het na U toe gekeer, my eie wil en begeerte verlatende, sodat U heilige wil en welbehae in my mag regeer en my rigting mag gee in ooreenstemming met dit wat die pen van U ewige verordening vir my bestem het. Hierdie dienaar, o Here, alhoewel hulpeloos, keer na die Sfeer van U Mag, alhoewel verneder, maak haas na die Daeraad van Heerlikheid, alhoewel behoeftig, verlang na die Oseaan van U Genade. Ek smeek U by U guns en mildheid, werp hom nie weg nie.
 
 U is voorwaar die Almagtige, die Vergewer, die Medelydende.
-
--- Bahá'u'lláh

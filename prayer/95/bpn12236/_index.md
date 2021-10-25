@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12236 in '
+author = 'Báb'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Atua! E seai aka se tokotasi vagana ko Koe e kave keatea a tigaina o toku agaaga ola, kae ko Koe ko toku fakamoemoega maluga, O toku Atua.  Toku loto e pikki mmau kit e seai aka foki na ko Koe mo latou ko e alofa Koe kiei.  Au e fakaasi tonu me I toku ola mot e mate e mo a Koe.  E tonu a Koe ko te se-fakatusagia kae e seai se nafa.  
@@ -12,5 +13,3 @@ Tou nofo-mai, kae puipui mai au mai ite lolo keatea o aku mafaufauga ki ne isi m
  
  
 O te Atua, toku Atua, taku Fagasele, te Manakoga o toku loto.
-
--- Báb

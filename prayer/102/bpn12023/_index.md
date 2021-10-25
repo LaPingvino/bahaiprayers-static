@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12023 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Gadym we Ägirt uly bolan Allanyň Ady bilen. 
@@ -52,5 +53,3 @@ Gadym we Ägirt uly bolan Allanyň Ady bilen.
     Bela howrundan we Seniň parlak Kelamyň ýalkymyndan, Baha: Rugsary ýagtylan wagty, dogrudanam Seniň owazyňy eşitdim, Eý Äbhanyň Mahbuby.
     Ol wepadarlyk bilen, şehitlik mekanynda gurban bolmak üçin aýaga galanda, Onuň nazary Saňa tarapdy, Eý älemleriň takdyryny Belleýän”.
     Onda eý Aly Ekber! Meniň mazlumlygymyň ýakymly ysyny duýdurýan we älemlere Magbut bolan Taňrynyň ugrunda başyma nämeler gelenini bildirýän bu Ýazgy üçin, Allanyň dergähine minnetdar bol. Eger-de ähli bendeler bu Ýazgyny okap, ol hakda oýlansalar, damarlar ot alyp, bütin älemleri ýakjak şöhle dörär.
-
--- Bahá'u'lláh

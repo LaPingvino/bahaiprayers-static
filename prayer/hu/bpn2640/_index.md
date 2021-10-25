@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2640 in Magyar'
+author = 'Abdu'l-Bahá'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *[Ezt az imát `Abdu’l-Bahá Sírszentélyében mondjuk, de lehet használni csendes imában otthon is.]
@@ -16,5 +17,3 @@ tags = ['lang-hu', 'bpn-unsorted']
 Ezen imával hív Téged szolgád hajnal hasadásakor és éjnek évadján. Teljesítsd be szíve kívánságát, ó, Uram! Világosítsd meg szívét, örvendeztesd meg keblét, erősítsd fényét, hogy szolgálhassa a Te Ügyedet és a Te szolgáidat.
 
 Te vagy az Adományozó, a Megszánó, a Legbőkezűbb, a Kegyes, az Irgalmas, a Könyörületes.
-
--- Abdu'l-Bahá

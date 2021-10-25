@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5090 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##SEMBAHYANG MENENGAH
@@ -38,5 +39,3 @@ Sendiri.
 *Dan begitu juga pada waktu duduk, akan mencukupi jika ia memilih untuk membaca ayat berikut ini:
 
 *Hamba naik saksi atas keesaan-Mu dan ketunggalan-Mu, dan bahwasanya Engkaulah Tuhan, dan tiada Tuhan selain Engkau.]
-
--- Bahá'u'lláh

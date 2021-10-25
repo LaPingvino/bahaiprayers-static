@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3903 in Hrvatski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 O, Bože moj! O, Bože moj! Doista zazivam te i preklinjem na pragu Tvome i molim da sve Tvoje milosti siđu na ove duše. Usmjeri ih ka Tvojoj naklonosti i Tvojoj istini.
@@ -11,5 +12,3 @@ O, Bože, Ti posjedniče beskrajne milosti! O, Gospode oprosta! Otpusti nam grij
 O, Gospode Bože! Učini nas valovima mora, cvijećem u vrtu, ujedinjenima, izmirenima milošću ljubavi Tvoje. O, Gospode! Ispuni nam grudi znacima Tvoje jednosti i učini da čovječanstvo bude poput zvijezda koje sjaju s istog vrhunca slave, poput savršenih plodova koji rastu na Tvom drvetu života.
 
 Doista, Ti si Svemogući, Samodovoljni, Darovatelj, Oprostitelj, Ti Praštaš, Sveznajući, Tvorac Jedini.
-
--- Abdu'l-Bahá

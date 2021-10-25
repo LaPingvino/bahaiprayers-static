@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9989 in Slovensky'
+author = 'Bahá'u'lláh'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Prednáša sa každý deň ráno, na poludnie a večer
@@ -16,5 +17,3 @@ Si povznesený nad chválu moju i chválu každého okrem mňa, nad popis môj i
 *Potom sa posaďte a rieknite:
 Dosvedčujem Tvoju jednotu a Tvoju jedinosť a to, že Ty si Boh a že niet iného Boha okrem Teba. Vskutku, zjavil si Svoju vec, naplnil Svoju Zmluvu a dokorán otvoril dvercia Svojej milosti pre všetkých, ktorí prebývajú na nebesiach i na zemi. Požehnanie a pokoj, pozdrav a sláva nech spočinú na Tvojich milovaných, ktorých zmeny a náhody sveta neodradili od toho, aby sa k Tebe obrátili, a ktorí venovali úplne všetko, čo mali, v nádeji, že získajú to, čo Ti patrí. Ty si v pravde, nadovšetko Odpúšťajúci, nadovšetko Štedrý.
 *(Bude postačujúce, keby ste sa namiesto dlhého verša rozhodli vyrieknuť len tieto slová: „Boh dosvedčuje, že niet iného Boha okrem Neho, Pomocníka v nebezpečí, Sebedostačujúceho.“ A rovnako postačí, keby ste sa v sede rozhodli vyriecť tieto slová: „Dosvedčujem Tvoju jednotu a Tvoju jedinosť a to, že Ty si Boh a že niet iného Boha okrem Teba.“)
-
--- Bahá'u'lláh

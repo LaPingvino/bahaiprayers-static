@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12580 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Unnersiutigisaagit Illit, Naalagaq Guutiga-aa!
@@ -9,5 +10,3 @@ Qinnuigaakkit Illit, Saqqummerneq una aqqutigalugu, taarneq qaamanermut sangutit
 Uku tassa, Naalagara-aa, Ullut Illit kiffannut iisinnginniarfiup naalannissaanut peqqussutigisatit. Pilluaqquneqarli taanna Illit kisivit pillutit iisinnginniarfimmik maleruaasoq aammalu Illiunngitsumik allanut tamanut qilerussaarsimasoq. Ikiunnga ikiukkillu, Naalagara-aa, Illit naalaqqullutit peqqussutinnullu maleruaqqulluta. Ilumummi Illit nammineq piumasat malillugu qanoq iliorsinnaavutit.
 
 Allamik Guuteqanngilaq taamaallaat Illit, Tamanik Ilisimasalik, Tamanik Ilisimasoq. Unnersiutiginninneq tamaat Guutip pigaa, silarsuarnut tamanut Naalagaq.
-
--- Bahá'u'lláh

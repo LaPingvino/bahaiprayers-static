@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9365 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 *Vavaka tsy maintsy atao in-telo isan’andro: ny maraina, ny tolakandro, sy ny hariva hatramin’ny ora roa aorian’ny fiposahan’ny masoandro.
@@ -26,5 +27,3 @@ Mijoro vavolombelona aho ny maha-Iray sy ny maha-Tokana Anao, ary Ianao dia Andr
 “Andriamanitra dia vavolombelona fa tsy misy Andriamanitra hafa afa-tsy Izy, Izay mamonjy amin’ny loza, Izay mampisy ny tenany amin’ny alalan’ny tenany ihany.” 
 * Torak’izany koa, eo am-pipetrahana, ampy ny misafidy hanonona ireto teny ireto : 
 “Vavolombelona aho ny maha-Iray sy ny Maha-Tokana Anao, ary Ianao dia Andriamanitra, ary tsy misy Andriamanitra hafa afa-tsy Ianao”
-
--- Bahá'u'lláh

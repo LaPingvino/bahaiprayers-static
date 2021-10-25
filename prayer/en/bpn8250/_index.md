@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8250 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 In Thy name, the Most Wondrous, the Most Glorious!
@@ -26,5 +27,3 @@ Protect, moreover, O my Beloved, through Thy love for them and through the love 
 Lauded be Thy name, O Thou Who art the Goal of my desire! I swear by Thy glory! How great is my wish to attain unto a detachment so complete that were there to appear before me those countenances which are hid within the chambers of chastity, and the beauty of which Thou didst veil from the eyes of the entire creation, and whose faces Thou didst sanctify from the sight of all beings, and were they to unveil themselves in all the glory of the splendours of Thine incomparable beauty, I would refuse to look upon them, and would behold them solely for the purpose of discerning the mysteries of Thy handiwork, which have perplexed the minds of such as have drawn nigh unto Thee, and awed the souls of all them that have recognized Thee. I would, by Thy power and Thy might, soar to such heights that nothing whatsoever would have the power to keep me back from the manifold evidences of Thy transcendent dominion, nor would any earthly scheme shut me out from the manifestations of Thy Divine holiness.
 Glorified, immeasurably glorified art Thou, O my God, and my Beloved, and my Master, and my Desire! Shatter not the hopes of this lowly one to attain the shores of Thy glory, and deprive not this wretched creature of the immensities of Thy riches, and cast not away this suppliant from the doors of Thy grace, and Thy bounty, and Thy gifts. Have mercy, then, upon this poor and desolate soul who hath sought no friend but Thee, and no companion except Thee, and no comforter save Thee, and no beloved apart from Thee, nor cherished any desire but Thyself.
 Cast, then, upon me, O my God, the glances of Thy mercy, and forgive me my trespasses and the trespasses of them that are dear to Thee, and which come in between us and the revelation of Thy triumph and Thy grace. Cancel Thou, moreover, our sins which have shut off our faces from the splendours of the Day-Star of Thy favours. Powerful art Thou to do Thy pleasure. Thou ordainest what Thou willest, and art not asked of what Thou wishest through the power of Thy sovereignty, nor canst Thou be frustrated in whatsoever Thou prescribest through Thine irrevocable decree. No God is there save Thee, the Almighty, the Most Powerful, the Ever-Living, the Most Compassionate.
-
--- Bahá'u'lláh

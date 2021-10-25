@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4761 in Azərbaycan'
+author = 'Báb'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ya Rəbb! Sənə pənah gətirirəm və könlümü büsbütün Sənin nişanələrinə verirəm.
@@ -11,5 +12,3 @@ Sənin kifayətedici yardımını mənə bəxş eylə ki, heç nədən asılı o
 Öz istədiyin kimi mənə ruzi nəsib eylə, İlahi və mənə qismət etdiklərinlə məni qane eylə.
 
 Mütləq hökm etmək ixtiyarı Səndədir.
-
--- Báb

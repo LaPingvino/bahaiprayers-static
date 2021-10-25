@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6387 in Cymraeg'
+author = 'Bahá'u'lláh'
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 Pa fodd y gallaf gysgu, O Dduw, fy Nuw, pan fo llygaid y rhai a hiraethant amdanat yn effro oherwydd eu hymnieulltuaeth oddi wrthyt; a pha fodd y gallaf orwedd i orffwys pan fo eneidiau Dy anwyliaid yn eu pellter oddi wrthyt?
@@ -12,5 +13,3 @@ How can I choose to sleep, O God, my God, when the eyes of them that long for Th
 I have committed, O my Lord, my spirit and my entire being into the right hand of Thy might and Thy protection, and I lay my head on my pillow through Thy power, and lift it up according to Thy will and Thy good-pleasure. Thou art, in truth, the Preserver, the Keeper, the Almighty, the Most Powerful.
 
 By Thy might! I ask not, whether sleeping or waking, but that which Thou dost desire. I am Thy servant and in Thy hands. Do Thou graciously aid me to do what will shed forth the fragrance of Thy good pleasure. This, truly, is my hope and the hope of them that enjoy near access to Thee. Praised be Thou, O Lord of the worlds!
-
--- Bahá'u'lláh

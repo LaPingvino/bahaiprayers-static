@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5322 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Ahmadova Ploča 
@@ -21,5 +22,3 @@ Budi duboko uvjeren da onaj koji se okreće od ove Ljepote, okrenuo se i od Gla
 Dobro nauči ovu ploču, o, Ahmade. Uči je u svojim danima i ne suzdržavaj se od toga. Jer, uistinu, Bog je odredio za onoga koji je izgovara, nagradu stotine mučenika i službu u oba svijeta. Ove blagoslove smo Ti podarili kao znak milosti Naše prisutnosti, da bi mogao biti od onih koji su zahvalni.
 Tako mi Boga! Pročita li ovu Ploču krajnje iskreno onaj koji je u nevolji ili patnji, Bog će mu rastjerati tugu, riješiti njegove nevolje i otkloniti patnje.
 Uistinu, On je Milosrdni, Saosjećajni. Hvaljen Bog, Gospodar svih svjetova.
-
--- Bahá'u'lláh

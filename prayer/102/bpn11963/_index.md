@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11963 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 *(Soňky deminde ýatan ynsanlar hem aýrylandan soň jaýlanýança okalýan doga)
@@ -15,5 +16,3 @@ Oldur enaýaty we merhemeti köp bolan Alla.
     Barhudaýa! Onuň öňünden Jomartlyk saçagyňy we Sahawatly nygmatlaryňy egsile ýygnama. Dogrudanam Sensiň Başarjaň, Merhemetli we Geçirimli.
     Ýa Reb! Amanadyň Saňa sary öwrüldi. Mülk we Melekutyňy gurşap alan geçirimli we keremli asmanyň hatyrasy üçin, Öz täze myhmanyňa, Jomartlyk agajyň miwelerinden, nygmatlaryndan hem sowgatlaryndan hödür edersiň diýip, ýalbarýaryn. Sebäbi Sen islän zadyňy başarýansyň we Senden özge Keremli we Mähriban, Geçirimli we Ýalkaýjy, Merhemetli we Dana bolan Alla ýokdur.
     Ýa Ylahy! Myhmanlary sylamalydyr diýip ynsanlara buýruk berendigiňe şaýatdyryn. Onsoň bu Saňa tarap uçan we gapyňdan giren ynsany, Öz geçirimlilik asmanyňa we kerem deňziňe laýyk garşy al. Seniň ululygyňa ant içýärin hem-de bendeleriňe buýran zatlaryňy, Özüňe-de rowa bilýändigiňe ynanýaryn we Seniň Ýalkaýyş ornuňy tapan hem Binyýazlyk şapagyňa tarap uçan bu bendäňi mahrum etmersiň. Senden özge Taýsyz, Ýeke-Täk, Başarjaň, Dana we Ýalkaýjy bolan Alla ýokdur. Wessalam.
-
--- Bahá'u'lláh

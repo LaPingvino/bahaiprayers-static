@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5324 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Post
@@ -19,5 +20,3 @@ Hvalim Te, o, Gospodaru, Bože moj! Zaklinjem Te Objavom koja tamu pretvori u s
 Ja sam onaj, o, moj Gospodaru, koji se čvrsto drži uzda Tvoje plemenitosti i koji se priljubio uz skute Tvoje milosti i blagonaklonosti. Odredi za mene, i za moje voljene, dobro ovoga svijeta i svijeta koji će doći. Podari im, onda, Skriveni Dar koji si odredio za najvrijednije među Svojim stvorenjima.
 Ovo su dani, Gospodaru moj, koje si Svojim slugama namijenio za poštivanje posta. Blagoslovljen je onaj koji posti samo Tebi za ljubav u potpunoj odvojenosti od svega sem od Tebe. Pomozi mi i pomozi im, o moj Gospodaru, da ti se pokore i da poštivaju Tvoja pravila. Ti, zaista, imaš moć činiti ono što izabereš.
 Nema Boga osim Tebe, Sveznajućeg, Najmudrijega. Sva hvala pripada Bogu, Gospodaru svih svjetova.
-
--- Bahá'u'lláh

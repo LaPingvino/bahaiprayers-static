@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9392 in Malagasy'
+author = 'Abdu'l-Bahá'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitro ô! Ry Andriamanitro! Marina tokoa, miantso Anao aho sy mitalaho eo an-Tokonanao masina, mangataka Aminao mba hampidina ny Fahasoavanao rehetra amin’ireto fanahy ireto. Tendreo manokana izy ireo mba handray ny Fankasitrahanao sy ny Fahamarinanao.
@@ -8,5 +9,3 @@ Ry Tompo, Ianao Ilay Tompon’ny famindrampo tsy hita lany. Ry Tompon’ny famel
 Ry Tompo Andriamanitra! Ataovy toy ny onjan-dranomasina izahay, toy ny voninkazon’ny zaridaina, miray sy mifanaraka noho ny hasoan’ny Fitiavanao.
 Ry Tompo! Ampifalio ny fo noho ny famantarana ny maha-Iray Anao ary ataovy ho toy ny kintana samy mamiratra avy amin’ny tendron’ny voninahitra ny olon-drehetra, ho toy ny voankazo tonga lafatra mitombo eo amin’ny hazom-piainanao.
 Marina tokoa, Ianao Ilay Tsitoha, Izay mampisy ny Tenany amin’ny alalan’ny Tenany, Ilay Mpanome, Ilay Mpamela heloka, Ilay Mpamindra fo, Ilay Mahalala ny zavatra rehetra, Ilay Mpamorona tokana.
-
--- Abdu'l-Bahá

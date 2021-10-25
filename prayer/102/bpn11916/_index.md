@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11916 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 *(Uly namazy haçan-da ynsan özünde isleg we pespällik halatyny duýanda, gije-gündiziň dowamynda bir gezek ýerine ýetirip biler.)
@@ -62,5 +63,3 @@ tags = ['lang-102', 'bpn-unsorted']
 
 *Onsoň oturyp şeýle diýsin:
     Eý Taňrym! Seniň saýlanlaryň güwä geçenine şaýatlyk edýärin we Seniň uly arşyň daşyndan aýlanyp duran gözel Behişdiň we beýik jennetiň ýaşaýjylarynyň ykrar edýän zatlaryny ykrar edýärin. Ýeriň hem asmanyň Patyşasy diňe Sensiň, Eý älemiň Magbudy.
-
--- Bahá'u'lláh

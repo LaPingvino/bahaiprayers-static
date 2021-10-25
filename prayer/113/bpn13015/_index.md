@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn13015 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-113', 'bpn-unsorted']
 +++
 *Taaza vilaanaande la maskan a xulutung ka na raraf, kun a vaavis- faaruing ma di na ramaraat.
@@ -35,5 +36,3 @@ Kalxal di vaaulaai zin a Nakmai.
 Alláh-u-Abhá!
 
 Kalxal di zi marangingit saxot a Nakmai. (Fazangaaflu ma vizikfaat.)
-
--- Bahá'u'lláh

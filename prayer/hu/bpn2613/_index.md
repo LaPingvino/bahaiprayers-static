@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2613 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Úgy zengd, ó, szolgám, az Isten verseit,
@@ -22,5 +23,3 @@ hogy változtassa lelkét.
 Így rendeltettek el Isten Kinyilatkoztatásának
 misztériumai Annak Akarata által,
 Aki az erő és bölcsesség forrása.
-
--- Bahá'u'lláh

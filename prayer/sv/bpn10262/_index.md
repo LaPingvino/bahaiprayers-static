@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10262 in Svenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 ##KORT OBLIGATORISK BÖN
@@ -17,5 +18,3 @@ Det finns ingen Gud utom Du, Hjälpen i farans stund, Den i sig själv varande.
 
 *”När ’morgon’, ’middagstid’ och ’afton’ nämns i samband med de obligatoriska bönerna menas tidsperioderna mellan soluppgång och middagstid, mellan middagstid och solnedgång, respektive solnedgång till två timmar efter solnedgång.”
 *Sammanställning och kodifiering av Kitáb-i-Aqdas
-
--- Bahá'u'lláh

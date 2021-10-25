@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8249 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Lawh-i-‘Áshiq va Ma‘shúq
@@ -12,5 +13,3 @@ Behold how the manifold grace of God, which is being showered from the clouds of
 Hear Me, ye mortal birds! In the Rose-Garden of changeless splendour a Flower hath begun to bloom, compared to which every other flower is but a thorn, and before the brightness of Whose glory the very essence of beauty must pale and wither. Arise, therefore, and, with the whole enthusiasm of your hearts, with all the eagerness of your souls, the full fervour of your will, and the concentrated efforts of your entire being, strive to attain the paradise of His presence, and endeavour to inhale the fragrance of the incorruptible Flower, to breathe the sweet savours of holiness, and to obtain a portion of this perfume of celestial glory. Whoso followeth this counsel will break his chains asunder, will taste the abandonment of enraptured love, will attain unto his heart’s desire, and will surrender his soul into the hands of his Beloved. Bursting through his cage, he will, even as the bird of the spirit, wing his flight to his holy and everlasting nest.
 Night hath succeeded day, and day hath succeeded night, and the hours and moments of your lives have come and gone, and yet none of you hath, for one instant, consented to detach himself from that which perisheth. Bestir yourselves, that the brief moments that are still yours may not be dissipated and lost. Even as the swiftness of lightning your days shall pass, and your bodies shall be laid to rest beneath a canopy of dust. What can ye then achieve? How can ye atone for your past failure?
 The everlasting Candle shineth in its naked glory. Behold how it hath consumed every mortal veil. O ye moth-like lovers of His light! Brave every danger, and consecrate your souls to its consuming flame. O ye that thirst after Him! Strip yourselves of every earthly affection, and hasten to embrace your Beloved. With a zest that none can equal make haste to attain unto Him. The Flower, thus far hidden from the sight of men, is unveiled to your eyes. In the open radiance of His glory He standeth before you. His voice summoneth all the holy and sanctified beings to come and be united with Him. Happy is he that turneth thereunto; well is it with him that hath attained, and gazed on the light of so wondrous a countenance.
-
--- Bahá'u'lláh

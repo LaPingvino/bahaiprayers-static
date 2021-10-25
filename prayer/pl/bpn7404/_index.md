@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7404 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, przebaczający Boże! Ci oto słudzy zwracają się w stronę Twojego królestwa, pragnąc Twej łaski i szczodrości. O Boże! Uczyń ich serca dobrymi i czystymi, tak aby stali się godni Twojej miłości. Oczyść i uświęć dusze, aby opromieniła je światłość Słońca Rzeczywistości. Oczyść i uświęć ich oczy, aby mogli dostrzec Twój blask. Oczyść i uświęć ich słuch, aby usłyszeli wołanie Twojego królestwa.
@@ -11,5 +12,3 @@ O Boże, mój Boże! Obdarz to zgromadzenie spojrzeniem swej serdecznej dobroci.
 O Panie! Obdarz ten sprawiedliwy rząd swoją łaskawą pomocą i umocnieniem. Kraj ten spoczywa w osłaniającym cieniu Twojej opieki, a lud ten służy Tobie. O Panie! Obdarz ich swoimi niebiańskimi darami i zapewnij rzęsiste i obfite potoki swojej łaski i życzliwości. Spraw, aby ten ceniony naród darzony był szacunkiem i dopomóż mu uzyskać wstęp do Twojego Królestwa.
     
 Tyś jest Mocnym, Wszechmogącym, Miłosiernym, i Tyś jest Hojnym, Dobroczynnym, Panem niepomiernych łask.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3909 in Hrvatski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 O, Gospodine, Bože moj i Nebo moje u mojoj boli! Štite moj i Zaklone u mojim brigama! Utočište moji i Pribježište u doba siromaštva i Pratioče moj u mojoj usamljenosti! Utjeho moja u mojoj muci i u samoći Prijatelju koji voliš! Otklonitelju boli mojih patnji i Oprostitelju mojih grijeha!
@@ -21,5 +22,3 @@ O, Bože, Bože moj! Ne uskrati mi nježnih lahora Tvog oprosta i milosti i ne l
 U sjenci okrilja Tvoje zaštite pusti da se ugnijezdim i svrni na me pogled Svog oka koje sve štiti.
 
 Oslobodi jezik moj da bi hvalio Tvoje Ime među Tvojim narodom, da bi se moj glas podigao na velikim skupovimai da s usana mojih poteče bujica Tvoje hvale. Ti jesi, zaist, Milostivi, Slavljeni, Moćni, Svemogući!
-
--- Abdu'l-Bahá

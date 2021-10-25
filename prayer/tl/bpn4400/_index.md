@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4400 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ang Diyos na dumidinig sa dalangin, ang Diyos na tumutugon sa dalangin!
@@ -11,5 +12,3 @@ Nakikita Mo, O Panginoon, Diyos ko, ang luha ng Iyong mga itinatangi, na natigis
 At muli, hinihiling ko sa Iyo sa matatamis na mga ulan ng Iyong biyaya at sa malalaking mga alon ng karagatan ng Iyong pagtatangkilik, na iatas para sa Iyong mga banal yaong makapagbibigay lugod sa kanilang mga mata at makapagbibigay-ginhawa sa kanilang mga puso. Panginoon! Nakikita Mo siyang nakaluhod na naghahangad na tumindig at maglingkod sa Iyo, ang mga patay na humihingi ng walang-hanggang buhay buhat sa karagatan ng Iyong pagtatangkilik at nagnanais na makalipad sa mga langit ng Iyong kayamanan, ang di-kilala na nagnanais ng kaniyang tahanan ng luwalhati sa lilim ng bubong ng Iyong biyaya, ang naghahanap na sa pamamagitan ng Iyong kahabagan ay nagmamadali patungo sa Iyong pintuan ng pagpapala, ang makasalanang bumabaling sa karagatan ng pagpapatawad at pagpapaumanhin.
 
 Saksi ang Iyong kapangyarihan, O Ikaw na niluwalhati sa mga puso ng mga tao, ako ay bumaling sa Iyo, tinalikuran ang aking sariling kalooban at hangarin, upang ang Iyong banal na kalooban at kasiyahan ay maghari sa loob ng aking sarili at mag-atas sa akin alinsunod sa ipinasiya para sa akin ng panulat ng Iyong walang-hanggang kautusan. Ang tagapaglingkod na ito, O Panginoon, kahima’t walang-kakayahan ay humaharap sa Buntala ng Iyong lakas, kahima’t hamak ay nagmamadaling patungo sa Pamimitak ng kaluwalhatian, kahima’t nangangailangan ay naghahangad ng karagatan ng Iyong biyaya. Isinasamo ko sa Iyo sa Iyong pagtatangkilik at pagpapala, na huwag Mo siyang ilayo sa Iyo. Tunay na Ikaw ang Makapangyarihan sa Lahat, ang Nagpapatawad, ang Maawain.
-
--- Bahá'u'lláh

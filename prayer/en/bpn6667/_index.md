@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6667 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O God, my God! Thy grace hath emboldened me, and Thy justice filled me with terror. Happy is that man whom Thou hast endued with Thy grace and woe to him that receiveth Thy justice.
@@ -10,5 +11,3 @@ Thou art the One that hath caused all things to be made manifest and hath shone 
 
 
 *Star of the West, volume 14, issue 9, p. 257
-
--- Bahá'u'lláh

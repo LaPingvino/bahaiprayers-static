@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2106 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O,  Dumnezeule! O, Dumnezeule!
@@ -10,5 +11,3 @@ O, Stăpânul nostru! Noi suntem slabi şi Tu eşti Cel Tare, Cel Puternic. Noi 
 O, Stăpânul nostru! Întoarce-ne feţele către chipul Tău milostiv, hrăneşte-ne la masa Ta cerească cu harul Tău îmbelşugat, ajută-ne cu oştirile îngerilor Tăi şi confirmă-ne printre cei sfinţi din Împărăţia Abhá.
 
 Cu adevărat, Tu eşti Cel Generos, Cel Milostiv. Tu eşti Stăpânul marii dărnicii şi, cu adevărat, Tu eşti Cel Îndurător şi Cel Îngăduitor.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11646 in Español'
+author = 'Abdu'l-Bahá'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Tú, bondadosa y amorosa Providencia! El Oriente está en movimiento y el Occidente se agita como las eternas olas del mar. Soplan las suaves brisas de la santidad y, desde el Reino Invisible, brillan resplandecientes los rayos del Astro de la Verdad. Se entonan los himnos de la unidad divina y ondean las enseñas del poder celestial. Se hace oír la Voz angelical que, como bramido del leviatán, lanza el llamamiento a la abnegación y a la evanescencia. La voz triunfal de Yá Bahá’u’l-Abhá resuena por doquier y en todas las regiones se oye el llamado de Yá Alíyyu’l-A‘lá.  No hay revuelo en el mundo salvo el de la Gloria del Único Conquistador de Corazones, ni agitación salvo el del oleaje del amor de Aquel que es el Incomparable, el Bienamado.
@@ -10,5 +11,3 @@ Los amados del Señor, con alientos almizclados, arden como cirios luminosos en 
 ¡Oh amoroso Señor! Los promotores de sedición están agitados y activos en algunas regiones, y día y noche infligen un penoso daño.
 Los tiranos están al acecho como lobos, y el rebaño, agraviado e inocente, no tiene ayuda ni socorro. La jauría sigue el rastro de las gacelas de los prados de la unidad divina, y los cuervos de la envidia persiguen al faisán de las montañas de la guía celestial.
 ¡Oh divina Providencia! Resguárdanos y protégenos. ¡Oh Tú que eres nuestro Escudo! Sálvanos y defiéndenos. Guárdanos bajo Tu Amparo y líbranos de todos los males con Tu ayuda. Tú eres, ciertamente, el Verdadero Protector, el Guardián Invisible, el Guarda Celestial y el Amoroso Señor del Cielo.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2287 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slava fie cu Tine, o, Rege al veşniciei,
@@ -10,5 +11,3 @@ M-am ţinut strâns, o, Domnul meu, de cârma mărinimiei Tale şi m-am agăţat
 Nu mă lipsi, o, Domnul meu, de miresmele veşmântului Tău în zilele Tale şi nu mă lipsi de adierile Revelaţiei Tale la apariţia splendorilor luminii feţei Tale. Tu ai puterea de a face ceea ce Îţi place. Nimic nu poate rezista voinţei Tale şi nici nu poate zădărnici ceea ce prin puterea Ta ţi-ai propus.
 
 Nu există alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Atotînţelept.
-
--- Bahá'u'lláh

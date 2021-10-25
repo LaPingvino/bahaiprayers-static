@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8153 in Dansk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Alle Guds venner... bør så vidt muligt bidrage, lige meget hvor beskeden deres gave måtte være.
@@ -13,5 +14,3 @@ Thi de yder på Din vej det, som Du har skænket dem for at bevare Din tro, og s
 O min Herre! Fastsæt en rigelig andel til dem, en forudbestemt fyldestgørelse og sikker belønning.
 
 Sandelig, Du er Opretholderen, Hjælperen, Den Gavmilde, Den Nådige, Den evigt Givende.
-
--- Abdu'l-Bahá

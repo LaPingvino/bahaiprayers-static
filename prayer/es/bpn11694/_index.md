@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11694 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Bahá’u’lláh ha dotado a estas oraciones obligatorias, y a otras oraciones concretas como la Oración de Curación y la Tabla de Aḥmad, de una fuerza y relevancia especiales y, por tanto, deben ser aceptadas como tales y recitadas por los creyentes con fe y confianza incuestionables, para que mediante ellas puedan entrar en comunión mucho más íntima con Dios e identificarse más plenamente con Sus leyes y preceptos. 
@@ -21,5 +22,3 @@ Ten por cierto que, en verdad, aquel que da la espalda a esta Belleza ha dado ta
 Aprende bien esta Tabla, oh Aḥmad. Recítala durante tus días y no te prives de ella. Pues, en verdad, Dios ha ordenado para aquel que la recite la recompensa de cien mártires y un auxilio en ambos mundos. Estos favores te los hemos conferido como una dádiva de Nuestra parte y una merced de Nuestra presencia, para que seas de los agradecidos.
 ¡Por Dios! Si alguien que esté afligido o con pena lee esta Tabla con absoluta sinceridad, Dios disipará su tristeza, resolverá sus dificultades y eliminará sus aflicciones.
 Verdaderamente, Él es el Misericordioso, el Compasivo. ¡Alabado sea Dios, el Señor de todos los mundos!
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7928 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 ##TAVOLE DELLA VISITAZIONE
@@ -14,5 +15,3 @@ Il ricordo di Dio e la Sua lode, la gloria di Dio e il Suo splendore riposino su
 Possa il mio spirito essere sacrificato per le ingiustizie che hai sofferto e l’anima mia riscattare le avversità che hai sopportato. Imploro Dio, per Te e per coloro i cui volti sono stati illuminati dagli splendori della luce del Tuo sembiante e che per amor Tuo hanno osservato tutto ciò che era stato loro comandato, di rimuovere i veli che si sono frapposti fra Te e le Tue creature e di concederrni il bene di questo mondo e di quello avvenire.
 Tu sei, in verità, l’Onnipotente, l’Eccelso, il Gloriosissimo, Colui Che Sempre Perdona, il Compassionevole. 
 Benedici, o Signore mio Dio, il Divino Albero di Loto e le sue foglie e i suoi virgulti, i suoi rami, i suoi fusti e i suoi germogli fin quando dureranno i Tuoi più eccellenti titoli e i Tuoi più augusti attributi. Proteggilo, adunque, dalle insidie dell’aggressore e dalle schiere della tirannide. Tu sei, in verità, il Possente, l’Onnipo-tente. Benedici anche, o Signore mio Dio, i Tuoi servi e le Tue ancelle che sono venuti a Te. Tu, in verità, sei il Munifico, la Cui misericordia è infinita. Non v’è altro Dio che Te, Colui Che Sempre Perdona, il Generosissimo.
-
--- Bahá'u'lláh

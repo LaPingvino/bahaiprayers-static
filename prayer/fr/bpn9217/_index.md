@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9217 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est Dieu ! Loué soit Dieu, le Seigneur de tendre bonté et de générosité ! Gloire à toi, ô mon Dieu, Seigneur omnipotent ! Je témoigne de ta toutepuissance et de ton pouvoir, de ta souveraineté et de ta tendre bonté, de ta grâce et de ton autorité, de l’unicité de ton être et de l’unité de ton essence, de ta sainteté et de ta grandeur, par-delà le monde de l’existence et tout ce qu’il renferme.
@@ -11,5 +12,3 @@ Seigneur, je témoigne que tu as placé en ce serviteur ton dépôt, et par cet 
 Ô mon Dieu, ton dépôt est retourné vers toi, il convient à ta grâce et à ta générosité qui embrassent tes possessions sur terre comme au ciel, d’accorder à ton nouveau venu tes dons, tes faveurs et les fruits de l’arbre de ta grâce. Tu as le pouvoir d’agir selon ta volonté. Il n’est pas d’autre Dieu que toi, le Bienveillant, le Très-Généreux, le Compatissant, le Dispensateur, l’Indulgent, l’Inestimable, l’Omniscient.
 Ô mon Seigneur, j’atteste que tu as enjoint aux hommes d’honorer leur hôte, et que celui qui s’élève vers toi te rejoint et atteint ta présence. Aussi traite-le selon ta grâce et ta générosité. Par ta gloire, j’ai la certitude que tu ne manqueras pas de faire ce que tu commandes à tes serviteurs, ni ne dépouilleras celui qui s’accroche à la corde de ta générosité et s’élève jusqu’à la source de ta richesse.
 Il n’est pas d’autre Dieu que toi, l’Unique, le Puissant, l’Omniscient, le Généreux.
-
--- Bahá'u'lláh

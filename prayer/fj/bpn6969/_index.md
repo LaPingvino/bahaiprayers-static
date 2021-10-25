@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6969 in Fiji'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 O Koya na Kalou!
@@ -11,5 +12,3 @@ O i Kemuni na Turaga yalo vinaka! Ni vakalougatataka na vakamau oqo me vure mai 
 *	`Abdu'l-Bahá
 *1. Qur’an 51:56
 *2. Qur’an 55:19-22
-
--- Abdu'l-Bahá

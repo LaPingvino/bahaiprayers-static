@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4896 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 *Bu Lövh Həzrət Bəhaullahın və Həzrət Babın Məqamlarında, habelə Onların süud ildönümlərində istifadə olunur.
@@ -17,5 +18,3 @@ Allahın zikri və Onun tərifi, Allahın Cəlalı və Onun nuru Sənin üzərin
 Ruhum Sənin çəkdiyin məzlumiyyətlərə fəda olsun və canım Sənin məruz qaldığın bəlaların qurbanı olsun. Səninlə və Sənin üzünün nuru ilə üzləri işıqlanan və Sənə məhəbbət naminə onlara əmr olunanları yerinə yetirən kəslərlə Allaha and verirəm ki, Səninlə Sənin yaratdıqların arasında maneə yaradan pərdələri aradan qaldırsın və mənə bu dünyanın və o biri dünyanın nemətini versin. Sən, həqiqətən, Qüdrətli, Ən Uca, Ən Cəlallı, həmişə Bağışlayan və Ən Şəfqətlisən.
 
 Ey mənim Rəbbim Allah, İlahi Sidrəyə, onun yarpaqlarına, budaqlarına, pöhrələrinə, onun gövdələrinə və onun qol-budaqlarına, Sənin ən yüksək adların durduqca və Sənin ən uca sifətlərin qaldıqca xeyir-dua ver. Sonra onu, təcavüzkarın şərindən və zülmün qoşunlarından hifz eylə. Sən, həqiqətən, Qüdrətli və ən Qüvvətlisən. Ey mənim Rəbbim Allah, Sənin hüzuruna yetişən bəndələrinə və kənizlərinə də xeyir-dua ver. Sən, həqiqətən, Kəramət Sahibisən ki, fəzli sonsuzdur. Səndən başqa Allah yoxdur, Sən həmişə Bağışlayan və Ən Səxavətlisən.
-
--- Bahá'u'lláh

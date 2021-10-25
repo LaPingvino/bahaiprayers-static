@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4838 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ey aləmin Rəbbi və millətlərin Məqsudu, Sən Ey Ən Böyük Adla zühur edən, o Ad ki, Onunla hikmət və bəyan gövhərləri Sənin irfan dənizinin sədəflərindən aşkara çıxdı və Sənin ilahi vəhy səmaların Sənin üzünün günəşinin şəfəqlərilə zinətləndi.
@@ -11,5 +12,3 @@ Ey mənim Rəbbim! Sən onları görürsən, Sənin fəzlinin ipindən tutublar 
 Yalvarıram Sənə, Sən Ey mövcudatın Hökmdarı, görünən və görünməyənlərin Qoruyucusu, Sənin Əmrinə xidmətə qalxan hər kəsi Sənin istəyinlə hərəkətə gələn dənizə çevir, Müqəddəs Ağacının Sənin iradə üfüqündən parlayan odu ilə alovlandır.
 
 Sən, həqiqətən Qüdrətlisən, O Kəssən ki, Onu nə bütün dünyanın qüvvəsi, nə də millətlərin gücü zəiflədə bilər. Səndən başqa Allah yoxdur, Tək Misilsiz, Qoruyan və Qəyyum.
-
--- Bahá'u'lláh

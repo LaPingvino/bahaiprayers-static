@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3589 in Norsk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 *(Denne bønnen, åpenbart av Abdu'l-Bahá, blir lest ved hans grav. Den blir også brukt i personlig bønn.)
@@ -17,5 +18,3 @@ O Herre, min Gud! Skjenk meg din nåde, så jeg kan tjene dem du elsker, styrk m
 Med denne bønn kaller din tjener på deg, ved daggry og ved nattetid. Oppfyll hans hjertes ønske, o Herre! Opplys hans hjerte, fyll hans bryst med glede, tenn hans lys, så at han kan tjene din Sak og dine tjenere.
  
 Du er giveren, den medfølende, den mest gavmilde, den nådige, den barmhjertige, den medlidende.
-
--- Abdu'l-Bahá

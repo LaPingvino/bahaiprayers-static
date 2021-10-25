@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8243 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 In the name of God, the Almighty, the All-Bountiful!
@@ -10,5 +11,3 @@ I beseech Thee moreover, O my God, by Thy Name which Thou hast made to be the tr
 O Lord! We bear witness that Thou art God and that there is none other God but Thee. We testify that Thou hast from everlasting occupied so transcendent a station as to elude the grasp of even them that have recognized Thee, and that Thou wilt abide unto everlasting in heights of glory so inaccessible that the birds of the hearts of Thy devoted servants will forever fail to soar into the atmosphere of Thy knowledge.
 O Lord! All things bear witness to Thy unity, and whatsoever can be said to exist, whether visible or invisible, testifieth to Thy oneness. Thou, verily, hast sanctified Thy Self beyond the knowledge of aught save Thee, and hast exalted Thine Essence above the mention of all else. All the words and meanings that have been created in the realm of existence return, in the end, to that Word which hath flowed from the pen of Thy Command and the fingers of Thy Decree. Every great one is as naught before the evidences of Thy greatness, and every mighty one is as a thing forgotten before the revelations of Thy transcendent might.
 O Lord! Thou seest Thy loved ones encircled by the workers of iniquity. I beseech Thee by that name of Thine whereby the fire of Thy wrath was kindled and the flames of Thine anger were made to blaze, to lay hold upon them that have oppressed Thy loved ones. Send down then upon us all that we have besought of the wonders of Thy grace and favour, and suffer us not to be debarred from turning towards Thee and drawing nigh unto the sanctuary of Thy transcendent oneness. Thou, verily, art that omnipotent One to Whose might all the atoms of the earth have from all eternity borne witness, and to Whose majesty all created things will ever testify. Thou, in truth, art the Lord of might and grandeur, and the Ruler of earth and heaven. No God is there but Thee, the Almighty, the All-Glorious, Whose help is implored by all.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8131 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Han er Den Nådige, den Algavmilde!
@@ -11,5 +12,3 @@ Jeg vidner i denne stund, o min Gud, om min hjælpeløshed og Dit herredømme, m
 Herre! Jag mig ikke bort fra Din rigdoms hav og Din barmhjertigheds himmel og bestem for mig det gode i denne verden og den hinsidige. I sandhed, Du er nådestolens Herre, tronsat i det højeste;
 
 der er ingen anden Gud end Dig, Den Ene, Den Alvidende, Den Alvise.
-
--- Bahá'u'lláh

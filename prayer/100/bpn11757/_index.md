@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11757 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-100', 'bpn-unsorted']
 +++
 *Wannan āyā, ana jan ta a ƙabarin Baha’u’llah, kō na Bab (tsīra da aminci su tabbata a garēsu). Wanda yake sō, yana iya karantā ta, rānēkun haifuwarsu.
@@ -14,5 +15,3 @@ Ambatar Ubangiji Allah, da yabonsa, ɗaukakarsa da girmansa su tabatta a garēka
 Ina rokon Ubangiji, da ya karɓi rūhūna, tamkar tōshi, dōmin wahalōlin da ka gabāta, kuma ya amshi raina sabōda adāwar da aka maka. Ina roƙon ka, don darajarka da waɗanda fuskarsu ta sāmu ƙyalƙyalin hasken fuskarka, waɗanda don matuƙar ƙaunarka, suka karɓi duk abūbūwan da ka umarcē su da yi, ka kēta lābilen da ya raba ka da halittarka, kuma ka bā ni alhērin dūniya da na lāhira. A gaskiya, kai nē al’azīzu, kai nē al’alīyu, mafi ɗaukaka, mai gāfartāwa har kullun, mai jin-ƙai.
 Yā Ubangiji Allāna, ka albarkatar da itāciyar Ubangiji, da ganyenta, da rassunta, da tsironta, da karanta, da ƴāƴanta, har iyākar tsawon sūnāyenka māsu martaba, da laƙanunka mafi ɗaukaka. Ka kāre su, da harin maƙiya, da rundunōnin azzālumai. A gaskiya, kai nē al’azīzu, al ƙādiru. Yā Allāna, ka albarkatar da bāyinka maza da māta, da suka isō garēka. A gaskiya, kai nē mai rahama, wanda alfarmarsa bā ta da iyāka.
 Bābu wani Allah illa kai, mai gāfartāwa a kullun, mayalwaci.
-
--- Bahá'u'lláh

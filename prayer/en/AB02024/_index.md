@@ -1,5 +1,6 @@
 +++
 title = 'Prayer AB02024 in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'AB02024']
 +++
 He is God!
@@ -10,5 +11,3 @@ O Lord!  These souls have tasted bitter agony in this earthly life and have, as 
 O Lord!  Fill their ears with the verses of divine assistance and of a speedy victory, and deliver them from the oppression of such as wield terrible might.  Withhold the hands of the wicked and leave not these souls to be torn by the claws and teeth of fierce beasts, for they are captivated by their love for Thee, entrusted with the mysteries of Thy holiness, stand humbly at Thy door and have attained to Thine exalted precinct.
 O Lord!  Graciously reinforce them with a new spirit; illumine their eyes by enabling them to behold Thy wondrous evidences in the gloom of night; destine for them all good that aboundeth in Thy Kingdom of eternal mysteries; make them as brilliant stars shining over all regions, luxuriant trees laden with fruit and branches moving in the breezes of dawn.
 Verily, Thou art the Bountiful,the Mighty, the Omnipotent, the Unconstrained.  There is none other God but Thee, the God of love and tender mercy, the All-Glorious, the Ever-Forgiving.
-
--- Abdu'l-Bahá

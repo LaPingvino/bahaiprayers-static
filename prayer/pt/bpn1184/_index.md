@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1184 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é Quem cura, o Suficiente, o Amparo, a Suma Clemência, o Todo-Misericordioso.
@@ -49,5 +50,3 @@ A Ti invoco, ó Tu que matas Aqueles que amam, ó Deus de Graça ao malfeitor!
 Tu, o Sempiterno, ó Tu, o Eterno!
 Santificado és Tu, ó meu Deus! Suplico-Te pela Tua generosidade, através da qual os portais da Tua bondade e da Tua graça se abriram de par em par, e o Templo de Tua Santidade se estabeleceu sobre o trono da eternidade; e pela Tua misericórdia, através da qual Tu convidaste todas as coisas criadas para a mesa dos Teus favores e das Tuas dádivas; e pela Tua graça, através da qual Tu respondeste, em Teu próprio Ser com a Tua palavra “Sim!” em nome de todos no céu e na terra, na hora em que se viram reveladas a Tua soberania e a Tua grandeza, no alvorecer, quando o poder do Teu domínio se tornou manifesto. E novamente suplico-Te - por estes, os mais belos nomes, por estes atributos, os mais nobres e sublimes, pela Tua Lembrança Excelsa, pela Tua pura e imaculada Beleza, pela Tua Luz oculta no pavilhão mais oculto e pelo Teu Nome envolvido nas vestes da aflição, toda manhã e noite – que protejas o portador desta abençoada Epístola e a quem a recitar e a qualquer um que a encontre, e a quem andar pela casa em que ela estiver. Através desta Epístola, pois, cura Tu cada pessoa enferma, todos os doentes e pobres, de toda a tribulação e angústia, de toda a penosa aflição e tristeza, e guia Tu por ela qualquer um que deseje entrar nas veredas da Tua guia e nos caminhos do Teu perdão e da Tua graça.
 Tu és, em verdade, o Poderoso, o Todo-Suficiente; és Quem cura, Quem protege, o Benéfico, o Compassivo, o Todo-Generoso, o Todo-Misericordioso.
-
--- Bahá'u'lláh

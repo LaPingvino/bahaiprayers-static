@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10466 in Kiribati'
+author = 'Bahá'u'lláh'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 *(Naw-Ruz, Maati 20 ke 21, bon moan bongin te ririki ni Baha’i.)
@@ -8,5 +9,3 @@ Man te tai are Ko katamaroaiia Ngkoe au Uea, n tamaroan te Aki Mamatam are e kat
 Boni Ngkoe Te Atua, te Manua are e a tiotio i aora ao ti noora iai ae kaanga Ko bon riai n neboaki n Am mwakuri ao te waaki ae kaangai E na ongeaaba te aba nakon Am tua, are e taekinaki.  Katanoata taekan Am tabo, Ngkoe Atuau, tuangiia Am toro, bwa a na atai raoi kakannaton bwaai nako bwa a bon tine i aan Am tua ao Am taeka, ao raoiroin mwakuri ao are e tamaroa n te kukurei ni motin nanoia are e na kinaaki bwa te kairiiri man aia beku aomata bon man Am kariaia, ao maaniia ni kainaki n Am raoiroi, i nanon boong aikai are E taku iai Kristo: Boni Ngkoe Uean tautaeka nako, Ngkoe are Taman te Tamnei (Iesu); ao Raom (Mwaometa) are E takaarua: Boni Ngkoe te Mimitong, Ngkoe are Moan te Tangiraki, bwa Ko a tia n aki rabuna Tamaroam, ao ni korei baike a na riki naake Ko rineiia bwa a na karekea kaintekatekan kaotiotin Aram ae moan te Kakannato, are mai iai aomata ni kabane a tanginiwenei ma ti ngkana a motiki bukiia man bwaai nako ma ti Ngkoe ao ni waaki Nakoina Ngaia ae te Tia Kaotiotiko ao te Tia Kaotai Arom nako.
 Teuare bon Ngaia Am Mwaanga ao Am botaki ni kabane, Ngkoe au Uea, a tia ni katoka aia Aki Mamatam n te bong aei, i mwiin tian tauana irouia i aon robwan Am botaki, ma ingaingaia ni Kakukureiko.  Ko na kataua i bukina ao i bukiia ni kabane ake a tia ni bane n rin ni Kaaniam ni boong akekei ake a bane n raraoi are Ko a tia ni baaireia n Am Boki.  Anganiia ngkanne baike a tau i bukiia, i bukin te maiu ae e na roko.
 Boni Ngkoe ni koaua, te Ataibwai ni kabane, te Kabanea ni Wanawana.
-
--- Bahá'u'lláh

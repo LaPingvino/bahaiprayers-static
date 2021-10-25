@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9741 in Nederlands'
+author = 'Abdu'l-Bahá'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Hij is God!
@@ -10,5 +11,3 @@ O Heer! Deze zielen hebben in dit aardse leven bittere zielensmart geproefd en h
 O Heer! Laat de verzen van goddelijke bijstand en van een spoedige overwinning in hun oren weerklinken en bevrijd hen van de onderdrukking door hen die een verschrikkelijke macht uitoefenen. Houd de handen van de verdorvenen tegen en laat deze zielen niet door de klauwen en tanden van woeste beesten worden verscheurd, want hun liefde voor U heeft hen bekoord, de mysteriën van Uw heiligheid zijn hun toevertrouwd, zij staan nederig aan Uw deur en hebben Uw verheven voorhof bereikt.
 O Heer! Bekrachtig hen genadiglijk met een nieuwe geest; verlicht hun ogen door hen Uw wonderbare bewijzen te laten aanschouwen in het duister van de nacht; bestem voor hen al het goede dat overvloedig aanwezig is in Uw koninkrijk van eeuwige mysteriën; maak hen gelijk schitterende sterren die stralen boven alle gebieden, weelderige bomen beladen met vruchten, en takken die bewegen in de ochtendbries.
 Waarlijk, Gij zijt de Milddadige, de Machtige, de Almogende, de Onbeperkte. Er is geen ander God dan Gij, de God van liefde en tedere barmhartigheid, de Alglorierijke, de Immervergevende.
-
--- Abdu'l-Bahá

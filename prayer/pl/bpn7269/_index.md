@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7269 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##DŁUGĄ MODLITWĘ OBOWIĄZKOWĄ NALEŻY ODMAWIAĆ RAZ NA DOBĘ.
@@ -58,5 +59,3 @@ Chwała niech Ci będzie, o Boże nasz, żeś zesłał nam to, co przybliża nas
 *Niechaj modlący się podniesie głowę, usiądzie i powie
 
 Daję świadectwo, o mój Boże, temu, o czym świadczyli Twoi wybrani i uznaję to, co uznali mieszkańcy najwyższego raju i ci, którzy otaczają Twój potężny Tron. Królestwa ziemi i nieba należą do Ciebie, o Panie światów!
-
--- Bahá'u'lláh

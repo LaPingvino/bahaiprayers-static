@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3575 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Jeg vet ikke, o min Gud, hva slags ild du tente i ditt land. Jord kan aldri fordunkle dens glans, ei heller vann slukke dens flamme. Alle verdens folkeslag mangler styrke til å stå imot dens kraft. Storlig velsignet er den som har nærmet seg ilden og hørt dens bulder.
@@ -9,5 +10,3 @@ Noen, o min Gud, satte du, ved din styrkende nåde, i stand til å komme den næ
 Jeg bønnfaller deg, o min Herre, ved denne ild som luer og raser i skapningens verden, om å sønderrive de slør som har hindret meg fra å tre frem for din veldes trone og fra å stå ved din inngangs portal. Bestem du for meg, o min Herre, enhver god ting som du sendte ned i din Bok, og tillat meg å ikke forbli langt borte fra din barmhjertighets vern.
  
 Mektig er du til å gjøre det som deg behager. Du er i sannhet den allmektige, den mest gavmilde.
-
--- Bahá'u'lláh

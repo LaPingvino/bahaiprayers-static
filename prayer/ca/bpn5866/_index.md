@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5866 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Oració Llarga De Guariment
@@ -96,5 +97,3 @@ Tu el què perdures per sempre, oh Tu el Perdurable!
 Santificat siguis Tu, oh Déu meu! Jo T’imploro per la Teva generositat –per mitjà de la qual els portals de la Teva Munificència i la Teva Gràcia s’obriren de bat a bat, pel qual el Temple de la Teva Santedat, fou establert al tron de l’eternitat; per la Teva Misericòrdia, per mitjà de la qual Tu enviares a totes les coses creades a la taula dels Teus dons i els Teus presents; i per la Teva Gràcia ,per mitjà de la qual Tu respongueres en el Teu propi Ésser amb la paraula “Sí!” en nom de tots els qui estan al cel i a la terra, a l’hora en que la Teva sobirania i la Teva grandesa foren revelades en l’albada en què el poder del Teu Domini es manifestà. I novament jo T’imploro per aquests hermosíssims noms i molt sublims atributs, pel Teu Més Exaltat Record, per la Teva Llum oculta en el Pavelló Més ocult, pel Teu Nom, abillat amb la capa de l’aflicció cada matí i cada tarda, que protegeixis al portador d’aquesta benaurada Taula, i a qui la reciti, a qui la trobi i a qui circuli pel voltant de la casa en què estigui. Guareix Tu doncs, mitjançant ella a tots els malalts, dolguts i pobres de tota tribulació o pesar de tota aflicció i tristesa detestable i dolor, guia mitjançant  ella a qualsevol que vulgui entrar en els senders de la teva guia i els camins de la teva Misericòrdia i la Teva Gràcia. 
 
 Tu ets en veritat el Poderós, el Tot Suficient, el Guaridor, el Protector, el Donador, el Compassiu, el Tot Generós, el Tot Misericordiós.
-
--- Bahá'u'lláh

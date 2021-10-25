@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10105 in Slovensky'
+author = 'Bahá'u'lláh'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Úpenlivo Ťa prosím, ó môj Bože, pri Tvojom mocnom Znamení a pri prejavení Tvojej milosti medzi ľuďmi, neodháňaj ma od brány mesta Tvojej prítomnosti a nesklam nádeje, ktoré som uprel na prejavy Tvojej milosti medzi Tvojimi stvoreniami. Vidíš ma, ó môj Bože, ako sa držím Tvojho Mena, Najsvätejšieho, Najžiarivejšieho, Najmocnejšieho, Najväčšieho, Najvznešenejšieho, Najslávnejšieho a ako sa pridržiavam lemu šatu, ku ktorému priľnuli všetci z tohto ako i budúceho sveta.
@@ -29,5 +30,3 @@ tags = ['lang-sk', 'bpn-unsorted']
 Úpenlivo Ťa prosím, ó môj Bože, pri Tvojom Mene, Prostredníctvom ktorého si počul volanie tých, ktorí Ta milujú a povzdychy tých, ktorí po Tebe túžia a plač tých, ktorí sa tešia z Tvojej blízkosti a stony tých, ktorí sú Ti oddaní. Prostredníctvom ktorého si vyplnil želania tých, čo na Teba upreli svoje nádeje a splnil si ich túžby Svojou milosťou a priazňou a pri Tvojom Mene, prostredníctvom ktorého sa pred Tvojou Tvárou rozbúril oceán odpustenia a na Tvojich služobníkov sa rozpršali oblaky štedrosti, aby si určil pre každého, kto sa k Tebe obrátil a kto dodržiaval pôst Tebou predpísaný, odmenu určenú pre tých, ktorí hovoria len s Tvojím dovolením a ktorí na Tvojej ceste pre lásku k Tebe zanechali všetko, čo vlastnili.
 
 Úpenlivo Ťa prosím, ó môj Pane, pri Tebe a pri Tvojich znameniach a pri Tvojich jasných dôkazoch a pri žiariacom svetle Denice Tvojej krásy a pri Tvojich Vetvách, aby si vymazal prehrešky tých, ktorí sa pridržiavali Tvojich zákonov a dodržiavali to, čo si im predpísal vo Svojej Knihe. Vidíš ma, ó môj Bože, ako sa držím Tvojho Mena, Najsvätejšieho, Najžiarivejšieho, Najmocnejšieho, Najväčšieho, Najvznešenejšieho, Najslávnejšieho a ako sa pridržiavam lemu šatu, ku ktorému priľnuli všetci z tohto ako i budúceho sveta.
-
--- Bahá'u'lláh

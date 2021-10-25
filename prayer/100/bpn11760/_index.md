@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11760 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-100', 'bpn-unsorted']
 +++
 ##Rānar haifuwar Bab (aminci ya tabbata a garēshi)
@@ -12,5 +13,3 @@ A wannan dare nē, ƙamshin turāren kusanta ya bazu, ƙōfōfin haɗuwa a rān�
 Yā kai daren Al’karīmu ! A gaskiya, a garēka muna ganin umul kitābi. Shin, kitābi nē, kō kuma haifaffan ɗā nē ? Āā, nī da kaina nā shaida cēwa ! waɗannan batūtuwa na daular sūnāye nē alhāli kuwa, Allah Ubangiji yā ɗaukaka wannan kitābi sama da duka sūnāye. Ta wannan kitābī nē, gaibu ɓōyeyye da ingantaccen sirri suka bayyana. Nā rantsē da rāyuwāta cēwa, duk abun da aka ambata na daular laƙani nē, alhāli umul kitābi nā sama da duk waɗannan abūbūwa. A garēshi nē alāmun « Bābu wani Allah sai Allah » suka bayyana sama ga kōmi. Nā shaida cēwa, kō da yake kōwa yā san da haka, kamar yanda Ubangijinka ya sanar, kunnansa nē kawai yake iya jin su. Murna ta tabbata ga wanɗanda suka amince da wannan !
 Sai cikin māmāki, alƙalamin Mai sama ya yi kira cēwa : « Yā kai wanda kai nē ɗaukakakke sama ga duka sūnāye ! īnā rōƙon ka, don girman īkonka da ya mallaki sama da ƙasa, ka sauke mani nauyin ambatar ka, sabōda nī kaina, nā kasance don īkonka mai rāyāwa. Ta ƙāƙā zan iya kwatanta duka abūbuwan da duk halitta ta kāsa kwatantāwa ? Amā fa, nā rantse da ɗaukakarka, idan na furta ilhāmar da ka sā a raina, duk halitta gabāɗayanta, zā ta mutu don murna da jin dāɗi, abun dake nūna cēwa, a wannan haskekken wuri maɗaukaki wanda ya wuce kōmi, wannan halitta zā ta gamsu gaban tēkun kalmarka. Yā Ubangiji, ka yardēwa wannan alƙalami mai wata-wata, ya dēna kirārin wannan muhimmin matsayi, kuma ka dūbē ni da idon rahama, yā kai Sarkīna Ubangijina. Ka manta da kuskurēna a gabanka. A gaskiya kai nē Ubangijin falalā, Mai īkō, mai gāfartāwa kullun, Al’karīmu.
 (Ayyan-i-Tis’ih shāfi 12 zuwa 15)
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5578 in 日本語'
+author = 'Bahá'u'lláh'
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 ##故人のための必須の祈り
@@ -17,5 +18,3 @@ tags = ['lang-ja', 'bpn-unsorted']
 　アラホ・アブハ            　我らみな、まことに神を賛美いたします。
 　アラホ・アブハ            　我らみな、まことに神に感謝いたします。
 　アラホ・アブハ            　我らみな、まことに神のもとに、耐え忍びます。
-
--- Bahá'u'lláh

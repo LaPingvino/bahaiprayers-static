@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8181 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 *I Kitáb-i-Aqdas fastslås de:. "Vi har befalet jer at bede og faste fra begyndelsen af modenheden, dette er forordnet af Gud, din Herre og dine forfædres Herre. Han har herfra fritaget dem, der er svækket af sygdom eller alder, som en gavmildhed fra Hans nærvær, og Han er tilgivende og gavmild.... Afhold jer fra mad og drikke fra solopgang til solnedgang, og vogt jer for, at ikke begær berøver jer denne nåde, som er bestemt i Bogen.”
@@ -35,5 +36,3 @@ Jeg bønfalder Dig, o min Gud, ved lyset fra Dit åsyn der tilskyndede dem, der 
 Jeg bønfalder Dig, o min Gud, ved Dit Navn ved hvilket Du har lyttet til Dine elskedes kalden og sukkene fra dem, der længes efter Dig, og råbet fra dem, der glædes ved at være Dig nær, og klagen fra dem, der er Dig hengivne, og ved hvilket Du har opfyldt ønskerne hos dem, der har sat deres håb til Dig og har tilfredsstillet deres længsel, ved Din nåde og Dine gaver og ved Dit navn, ved hvilket tilgivelsens hav brusede foran Dit ansigt, og Din ædelmodigheds skyer regnede på Dine tjenere, om at nedskrive for enhver, der har vendt sig mod Dig og overholdt fasten foreskrevet af Dig, belønningen bestemt for dem, der ikke taler undtagen med Din tilladelse, og som forsagede alt, hvad de ejede, på Din vej og af kærlighed til Dig.
 
 Jeg bønfalder Dig, o min Herre, ved Dig selv og ved Dine tegn og Dine klare vidnesbyrd og de strålende lys fra Din skønheds dagstjerne og Dine grene, om at slette overtrædelserne fra dem, der har holdt fast ved Dine love og har overholdt, hvad Du har foreskrevet dem i Din Bog. Du ser mig, o min Gud, holde fast ved Dit Navn, Det Mest Hellige, Det Mest Strålende, Det Mest Magtfulde, Det Allerstørste, Det Mest Ophøjede, Det Mest Herlige, og klynge mig til sømmen af den klædning, hvortil alle har klynget sig i denne verden og i verden, der skal komme.
-
--- Bahá'u'lláh

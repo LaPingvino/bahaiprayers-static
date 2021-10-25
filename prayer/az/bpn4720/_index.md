@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4720 in Azərbaycan'
+author = 'Báb'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey bizim Rəbbimiz Allah! Sənin razı qalmadığın hər şeydən Öz fəzlinlə bizi qoru və bizə sənə layiq olanı bəxş eylə. Öz kərəmindən bizə bol pay ver və bizi bəxtiyar eylə. Törətdiklərimizə görə bizi əfv et, günahlarımızı sil və bağışlayıcılığınla günahımızdan keç. Həqiqətən Sən Ən Uca və Qəyyumsan.
@@ -9,5 +10,3 @@ Sənin inayətin göydə və yerdə olan bütün yaranmışları əhatə edib v�
 Ey bizim Rəbbimiz Allah! Öz qüdrətinin gücü ilə bizi qoru, bizi Sənin ecazkar, təlatümlü dənizinə daxil olmağa qadir eylə və Sənə yaraşanı bizə əta eylə.
 
 Sənsən Hökmran Hakim, Qüdrətli Xaliq, Uca və Ən Sevimli.
-
--- Báb

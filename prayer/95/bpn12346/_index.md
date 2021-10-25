@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12346 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Atua! O toku Atua! E tonu, e tagi atu au kia Koe kae akai totuli i mua o Tou mataloa, o fai atu kia Koe ko Au mea-alofa katoa ke tuku ifo ki luga i agaaga ola konei. Faka-patino a latou ki Au alofaaga mo Tau mea-tonu.   
@@ -11,5 +12,3 @@ O te Aliki, ko Koe a te pule o te alofa e se gata mai!  O te Aliki o te fakamaga
 O te Aliki te Atua!  Fai a matou ke pela me ne galu o te tai, pela me pula lakau o te fatoaaga, fealofani, kae lotomalie i luga i alofaaga o Tou alofa.  O te Aliki! Faka-maatala aka a fatafata i luga i fakailoga o Tou tafatasi, kae fai aka a tino katoa ke pe la me ne fetu e pula mai i te koga maluga o te matagofie, pela loa me ne lakau kaina e ola i luga i te Tau lakau o te ola. 
  
 E tonu, a Koe ko te Mafi-Katoatoa, ko te Ola-ia-Ia-loa, ko te Foai, ko te Faka-magalo, ko te Fakaseai o Agasala, ko te Poto-Katoatoa, ko te Tasi ne Faiite ne Ia a te Lalolagi.
-
--- Abdu'l-Bahá

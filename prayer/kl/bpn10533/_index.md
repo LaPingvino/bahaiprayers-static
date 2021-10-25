@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10533 in Kalaallisut'
+author = 'Báb'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guutip Aqqani, ataqqinartorsuup ajugaqanngitsup Naalagaa, Tamanik Ajugaaffiginnittoq. 
@@ -7,5 +8,3 @@ Naalagaq illernarsisitaali, Assaani ippoq naalagaaffimmut aallaavik. Sumilluunni
 Qilaap nunallu naalagaaffii, suullu tamaasa taakkua akorniniittut, Guutip pigai. Pissaaneralu tamanik qulangiivoq. Suut qilaap nunallu erlinnartuutaat, suullu tamaasa taakkua akorniniittut, Taassuma pigai, Taassumalu illersuinera tamanut atorpoq. Taanna tassaavoq qilammik nunamillu Pinngortitsisoq, taakkulu tamarmik akornanniittunik, Taannalu tassaavoq ilumoortumik tamanik uppernarsaasoq. Kikkunnut tamanut, qilammi nunamilu najugalinnut, taakkulu tamarmik akorniniittunut Naatsorsuinerup Naalagaraa, ilumoortumillu, Guuti naatsorsuinissamut kinguartiterineq ajorpoq. Uuttortaat kikkunnut tamanut, qilammiittunut nunamiittunullu, sunullu tamanut taakkua akorniniittunut tamanut aalajangeriigaq agguaatereerpaa. Ilumummi Taanna tassaavoq Illersuisoq Annerpaaq. Tigummisarai qilammut nunamullu, sunullu tamanut taakkua akorniniittunut, matuersaatit. Nammineq iluarisani atorlugu tunniukkumasani tunniuttarpai naalakkiutimi nakuussusiisigut. Nallittuinera ilumoortumik tamanut atavoq, Taanna tassaavoq Tamanik ilisimannittoq. 
 Oqarit: Guuti uannik naammattuuvoq; Taanna tassatuaavoq tigummisamini suut tamarmik naalagaafiinik tigummisoq. Qilammi nunamilu katersaarsuarmi pissaaneqarnerinik, taakkulu tamarmik akorniniittunut, kikkulluunniit kiffami akorniniittut piumasani illersorpai. Ilumummi Guutip suut tamaasa nakkutigai.
 Killeqanngitsumik ataqqinarputit Illit, Naalagaq-aa! Siunitsinniittunut kingunitsinniittunullu, niaqqutta qulaanniittunut, talerpitta saamittalu nalaanniittunut, isikkatta ataanmittunut sammivinnilu tamani tamaaniittunut tamanut illersortigut. Ilumoortumimmi, tamanik illersuinerit kukkunngisaannarpoq
-
--- Báb

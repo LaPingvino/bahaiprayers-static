@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12237 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Aliki, toku Atua mo toku Lafiiga in toku fanoanoa!  Toku Pui mo Toku Malu i oku fanoanoa!  Toku Afeega mo Toku Puipuiiga i taimi o te mativa mo taimi o toku nofo-toko-tasi ko toku Taugasoa!  I toku mmae ko toku Tapuu, kae i toku nofo-toko-tasi ko Taugasoa fapelepele!  Ko te Kavekeatea o te mmae mo te fanoanoa mo te Faka-seai o agasala!  
@@ -13,5 +14,3 @@ O te Atua, toku Atua!  Sa taodfiga mai ia au a galu foliki o Tau fakamagalo mo t
 MaI i lalo i te malu o Ou kapakau puipui tuku mai au ke moe, kae pei mai ki luga ia au a te kilo o Tou mata puipui-katoatoa.  
 Faka-mafai aka a toku laulaufaiva ke fakamaluga a Tou igoa i vasia o Ou tino, ko toku leo ke sae aka ki luga i lukuuga lasi kae mai i oku laugutu e mafai o tafe mai iei a te lolo o Ou tavaeega.  
 A Koe, i te tonuuga, ko te Atafai, ko te Silisiliese, ko te Mafi, ko te Tafasili i te Maluga.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4453 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ang Tagalunas, ang Nagbibigay ng Sapat, ang Katulong, ang Laging Nagpapatawad, ang Pinaka Maawain.
@@ -93,5 +94,3 @@ Ikaw na Laging Walang-maliw, O Ikaw na Siyang W alang-maliw!
 Ikaw ay Banal, O aking Diyos! Sinasamo ko sa Iyo sa pamamagitan ng Iyong kagandahang-loob, na dahil dito ay nabuksan nang maluwang ang mga pintuan ng Iyong biyaya at pagpapala, na dahil dito ay naitatag sa trono ng kawalang-hanggan ang Templo ng Iyong Kabanalan; at sa pamamagitan ng Iyong awa, na dahil dito ay inanyayaan Mo ang lahat ng nilalang na bagay sa hapag ng Iyong pagpapala, na dahil dito ay tinugunan Mo sa Iyong Sarili ng Iyong kataga “Oo” sa ngalan ng lahat ng nasa langit at lupa, sa oras na ang Iyong kapangyarihan at ang Iyong Kadakilaan ay maliwanag na nakabunyag na, sa madaling-araw na ang lakas ng Iyong nasasakupan ay ipinahayag. At muli akong nagsusumamo sa Iyo, sa pamamagitan nitong lubos na magagandang mga pangalan, sa pamamagitan nitong lubos na marangal at dakilang mga katangian, at sa pamamagitan ng Iyong Pinakamataas na Alaala, at sa pamamagitan ng Iyong Dalisay at walang-batik na Kagandahan, at sa pamamagitan ng Iyong natatagong Liwanag sa pinakanatatagong kandungan, at sa pamamagitan ng Iyong Pangalan, na binibihisan ng damit ng paghihirap tuwing umaga at gabi, na pangalagaan ang maydala nitong banal na Tableta, at sinumang bumigkas nito, at sinumang makatagpo nito, at sinuman ang dumaang palibot sa tahanang kinaroroonan nito. Pagalingin Mo kung gayon, sa pamamagitan nito ang bawat may damdamin, maysakit at nakaaawa sa bawat kahirapan at gambala, sa bawat nakasusuklam na sakit at kalungkutan, at patnubayan Mo sa pamamagitan nito ang sinumang magnanais na pumasok sa mga landas ng Iyong patnubay, at sa mga pamamaraan ng Iyong pagpapatawad at pagpapala.
 
 Ikaw sa katunayan ang Pinakamalakas, ang Laging may Kasapatan, ang Lumulunas, ang Tagapangalaga, ang Nagbibigay, ang Mapagmalasakit, ang Laging Bukas-Palad, ang Maawain sa Lahat.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1678 in Íslenska'
+author = 'Abdu'l-Bahá'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn, Guð minn og athvarf mitt í nauð­um mínum! Skjöldur minn og skjól í ógæfu minni! Hæli mitt og höfn í þrengingum og félagi í einmanaleik mínum. Í kvíða huggun mín og ást­ríkur vinur í einveru. Þú eyðir sársauka sorgar minnar og fyrirgefur syndir mínar.
@@ -12,5 +13,3 @@ Lát hjarta mitt fyllast kærleika til allra sem Þú hefur skapað og gef að �
 Lof mér að hverfa í skjól verndarvængja Þinna og lít á mig augum Þínum, sem allt vernda.
 Leys tungu mína svo hún geti lofað nafn Þitt meðal fólks Þíns, að ég megi hefja rödd mína á miklum samkomum og frá vörum mínum megi streyma elfur hróðurs um Þig.
 Þú ert í sannleika hinn náðugi og vegsamaði, hinn máttugi og alvaldi.
-
--- Abdu'l-Bahá

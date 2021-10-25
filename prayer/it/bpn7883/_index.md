@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7883 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Glorificato sei Tu, Signore mio Dio! Vedi la mia umile condizione e la casa ove dimoro e sei testimone delle mie difficoltà, delle mie urgenti necessità, dei miei travagli e delle afflizioni che subisco fra i Tuoi servi che recitano i Tuoi versetti e ne rifiutano il Rivelatore, che invocano i Tuoi nomi e cavillano con il loro Creatore, che cercano di avvicinarsi a Colui Che è il Tuo Amico e mettono a morte Colui Che è il Prediletto dei mondi.
@@ -8,5 +9,3 @@ La gloria della Tua potenza, o mio Dio, mi è testimone! Ogni qual volta mi atte
 Guarda, dunque, Tu Che sei il Benamato di Bahá, le lagrime che versa davanti a Te, vedi i sospiri che emette, Tu Che sei il Desìo del suo cuore! Giuro per la Tua potenza, la Tua maestà e la Tua gloria! Se ereditassi da Te tutte le delizie del Paradiso e le tenessi in mio possesso tanto a lungo quanto il Tuo Essere perdura, ma poi trascurassi per meno di un attimo il Tuo ricordo, certamente le respingerei lungi da me e cesserei di considerarle. O mio Dio, sono colui che per amor Tuo ha abbandonato il mondo e tutti i suoi benefici ed è stato disposto ad accettare ogni tribolazione per amor del Tuo ricordo. 
 Ti supplico, Tu Che sei il mio Compagno e Prediletto, di sollevare il velo che si è intromesso fra Te e i Tuoi servi, sì che Ti riconoscano con i Tuoi occhi e si liberino da ogni attaccamento ad altri che Te. In verità, sei l’Onnipo-tente, Colui Che Sempre Perdona, il Più Compassionevole. Non v’è altro Dio che Te, l’Ec-celso, Colui Che Esiste da Sé, Colui Che Esalta Se Stesso, il Gloriosissimo, il Più Saggio.
 Lode a Te, perché in verità sei il Signore della terra e del cielo.
-
--- Bahá'u'lláh

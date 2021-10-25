@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1175 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Rendo louvores a Ti, ó meu Deus, porque me fizeste despertar do meu sono, ressurgir após o meu desaparecimento e ressuscitar da minha letargia. Acordei esta manhã com a face voltada para os esplendores do Sol da Tua Revelação, pelos quais são iluminados os céus do Teu poder e da Tua majestade, reconhecendo os Teus sinais, acreditando no Teu Livro, e segurando-me firmemente à Tua Corda.
@@ -7,5 +8,3 @@ Suplico-Te pela força da Tua vontade e pelo poder supremo do Teu desígnio – 
 Destina-me, ó meu Senhor, através da Tua Pena excelsa, o bem deste mundo e do vindouro. Atesto que nas Tuas mãos está o domínio sobre todas as coisas. Tudo alteras como Te apraz. Nenhum outro Deus há salvo Tu, o Forte, o Fiel.
 És Quem transforma, pelo Seu mando, a humilhação em glória, a fraqueza em força, a debilidade em poder, o medo em calma, a dúvida em certeza. Não há outro Deus além de Ti, o Poderoso, o Benévolo.
 Jamais faltas a quem Te haja buscado, nem Te afastas daquele que por Ti anseia. Destina-me o que for digno do céu da Tua generosidade e do oceano do Teu favor. És, verdadeiramente, o Todo-Poderoso, o Potentíssimo.
-
--- Bahá'u'lláh

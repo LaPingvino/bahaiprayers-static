@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5244 in Bosanski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 *Izgovarajte ovu molitvu na kraju sastanka Duhovnog vijeća:
@@ -9,5 +10,3 @@ O Gospodaru naš! Slabi smo, a Ti si Moćni i Snažni. Beživotni smo, a Ti 
 
 O Gospodaru naš! Usmjeri naša lica prema Tvome milosrdnom liku, nahrani nas Svojom obilnom milošću sa Svog nebeskog stola, pomozi nam vojskama svojih najviših anđela i učvrsti nas svetima iz Abhá Kraljevstva.
 Uistinu, Ti si Velikodušni, Milosrdni. Ti Posjeduješ silnu dobrotu i, uistinu, Ti si Blagi i Milostivi.
-
--- Abdu'l-Bahá

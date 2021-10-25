@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8258 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Lawh-i-Rasúl
@@ -18,5 +19,3 @@ As to thee, O Rasúl, shouldst thou wish to take flight in the atmosphere of My 
 
 *20.    “Deadly foes” (lit., “Shimrs”) and “tyrant kings” (lit., “Nimrods”): Shimr dealt the blow that killed Imám Ḥusayn, and Nimrod was the persecutor of Abraham.
 *21.    Cf. Qur’án 71:14.
-
--- Bahá'u'lláh

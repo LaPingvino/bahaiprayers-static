@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2751 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ezek a napok, ó, Istenem, melyeken szolgáidnak böjtöt rendeltél el. Ezzel díszítetted teremtményeidnek kinyilatkoztatott Törvénykönyved előszavát, és ékesítetted parancsolataid Kincstárát mindenek szeme előtt, kik mennyországodban és a földön lakoznak. E napok minden óráját különleges erénnyel ruháztad fel, kifürkészhetetlen mindenki számára Rajtad kívül, Kinek tudása minden teremtett dolgot felölel. Ezen erényből kijelölted minden léleknek a részét is rendelkezésed Táblája és visszavonhatatlan ítéleted Írásai szerint. Továbbá, e Könyvek és Írások minden lapját kiosztottad a föld minden egyes népének és nemzetségének.
@@ -19,5 +20,3 @@ Látod, ó, Istenem, mi történt szeretteiddel a Te napjaidban. Dicsőséged a 
 Íme az óra, ó, Uram, melyet felmagasztaltál minden más óra felett, és melyet legnemesebb teremtményeiddel kötöttél össze. Könyörgök Hozzád, ó, Istenem, Önmagadra és rájuk, rendeld el ez év folyamán azt, mi felmagasztalja szeretteidet. Parancsold meg továbbá, kérlek, még ez éven belül, hogy hatalmad Napcsillaga fényesen felragyogjon dicsőséged látóhatárán, és uralmad erejével bevilágítsa az egész világot.
 
 Tedd Ügyedet győzedelmessé, ó, Uram, és alázd meg ellenségeidet. Rendeld el aztán számunkra ezen és az eljövendő élet javát. Te vagy az Igazság, Ki minden titkot ismer. Nincsen más Isten csak Te, az Örökké Megbocsátó, a Mindenek Felett Bőkezű.
-
--- Bahá'u'lláh

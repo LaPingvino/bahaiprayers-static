@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6327 in Namibia'
+author = 'Bahá'u'lláh'
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 #KOVAFE
@@ -18,5 +19,3 @@ tags = ['lang-hz', 'bpn-unsorted']
 	Natuvenye, yousili, mwa Karunga tuna kudidimikira.
 
 *(Nsenesi mufe mukadi, muninka a uyunge asi: Ogu Mupikakadi Goge nomunwakadi gomupikakadi goge..)
-
--- Bahá'u'lláh

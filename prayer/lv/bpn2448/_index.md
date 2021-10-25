@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2448 in Latviešu'
+author = 'Bahá'u'lláh'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Vissvētākajā Grāmatā (Kitáb-i-Aqdas) ir teikts: “Mēs esam likuši Tev lūgt un gavēt no pilngadības sākuma (no 15 gadiem). To ir noteicis Dievs, Tavs Kungs un Tavu sentēvu Kungs. Ceļiniekam, sirdzējam, grūtniecei vai sievietei, kas baro bērniņu, gavēnis nav saistošs. No saullēkta līdz saulrietam atturies no ēdiena un dzēriena, un raugi, lai iekāre nelaupa Tev to žēlastību, kas ir apsolīta Grāmatā.”
@@ -21,5 +22,3 @@ Pie Tavas mīlestības uguns, kas padzina miegu no Tavu Izraudzīto un Tavu Mī�
 Pie Tava vaiga gaismas, kas lika Taviem mīļajiem nevairīties bultu, ko lēmi tiem, un Tev uzticīgajiem stāt uz Tava ceļa pretī Tavu naidnieku zobeniem, es Tevi lūdzu, ak mans Dievs, ar Savu Visaugsto Spalvu piešķir man to, ko Tu esi piešķīris tiem, kam Tu uzticējies un kurus Tu izraudzīji. Tu redzi mani, ak mans Dievs, turamies pie Tava Vārda, Vissvētā, Visgaišā, Visvarenā, Visdiženā, Visaugstā, Visslavētā Vārda, un tveramies pie Tava tērpa maliņas, pie kuras ir tvērušies visi šajā pasaulē un tversies tajā, kas nāks.
 Pie Tava Vārda, caur kuru Tu esi sadzirdējis saucam tos, kas Tevi mīl, un nopūšamies tos, kas tevis ilgojas, un lūdzam tos, kas cer Tev tuvu kļūt, un vaidam tos, kas Tev ir ziedojušies, pie Tava Vārda, caur kuru Tu esi piepildījis to vēlmes, kas bija likuši savas cerības uz Tevi, un devis viņiem to, ko viņi ir ilgojušies, pie Tavas žēlastības un labvēlības un pie Tava Vārda, caur kuru Tava vaiga priekšā uzbangoja piedošanas jūra un Tava dāsnuma lietus lija pār Taviem kalpiem, es Tevi lūdzu, ak mans Dievs, piešķir ikvienam, kas ir Tev pievērsies un Tevis noteikto gavēni ievērojis, to atlīdzību, ko esi lēmis tiem, kas runā tikai tad, kad Tu viņiem to ļauj, un kas, Tavu ceļu ejot, aiz mīlas uz Tevi ir atteikušies no visa, kas viņiem piederējis.
 Pie Tevis Paša un pie Tavām zīmēm, un pie nepārprotamiem Taviem apliecinājumiem, un pie Tavas Dailes Saules mirdzošās gaismas, un pie Taviem Zariem, es Tevi lūdzu, ak mans Dievs, piedod parādus tiem, kas ir stingri pie Taviem likumiem turējušies un ievērojuši to, ko Tu viņiem Savā Grāmatā esi licis ievērot. Tu redzi mani, ak mans Dievs, turamies pie Tava Vārda, Vissvētā, Visgaišā, Visvarenā, Visdiženā, Visaugstā, Visslavētā Vārda, un tveramies pie Tava tērpa maliņas, pie kuras ir tvērušies visi šajā pasaulē un tversies tajā, kas nāks.
-
--- Bahá'u'lláh

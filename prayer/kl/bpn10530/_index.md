@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10530 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guuti-aa, Guutiga! Angerlarsimaffiga qimassimavara, Asanninnerpilli qilerutaa
@@ -12,5 +13,3 @@ Tukkussutsikkut Naakkinnissutsikkullu ajornanga ernumananngitsumut
 peqqullunga. Angerlarsimaffinnullu uteqqeqqunnga Illit nukittussutsit
 pissaanerillu ikiortigalugit. Ilumoortumimmi tassaavutit Pissaaneqarnerpaaq,
 Ajornartorsiornermi Ikiorti, Imminut-Atatittoq.
-
--- Bahá'u'lláh

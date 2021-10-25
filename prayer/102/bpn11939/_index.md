@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11939 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’ Alla
@@ -8,5 +9,3 @@ Hu’ Alla
     Eý Perwerdigär! Öz hemaýat mekanyňda aman ber we Öz mähir gowagyňda pena hem jaý ber.
     Eý Mähriban! Eger çalsaň, wepa jöwherini jomartlyk hakykatydyr. Eger-de goýberseň, jepa we azaba laýykdyr. Dergähiňe mynasyp zady we hakykatlara sezewar zady bagyş eýle. Bir zelili Öz mähriň bilen Melekutyň ezizi kyl we bu pahyry Öz tükeniksiz Merhemetiň bilen, Lahutda danalygyň nyşany eýle. 
     Eý Perwerdigär! Ädimler sarsmaz ýaly, pes derejä düşmez ýaly goragyn, saklagyn. Gudratly, Eziz we Başarjaň Sensiň. Alym, Görüji hem Dana Sensiň. Dogrudanam Sensiň Ýalkaýjy we Bagyşlaýjy.
-
--- Abdu'l-Bahá

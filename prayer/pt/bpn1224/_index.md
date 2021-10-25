@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1224 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glorificado és Tu, ó Senhor meu Deus! A minha língua, tanto a do corpo como a do coração, os meus órgãos e membros, todas as veias que pulsam dentro de mim e cada fio de cabelo – tudo proclama que Tu és Deus e não há outro Deus além de Ti. Desde a eternidade, Tu estás imensuravelmente elevado acima de toda a comparação e de toda a semelhança, e santificado de tudo o que pertence à criação por Ti moldada. Desde toda a eternidade estás só, não havendo quem possa partilhar da Tua majestosa unicidade, e permaneces muito acima das mudanças e vicissitudes às quais estão sujeitas todas as Tuas criaturas.
@@ -10,5 +11,3 @@ Toda a existência, seja visível ou invisível, ó meu Senhor, atesta que a Tua
 Tu, ó meu Deus, sabes que sou apenas um dos Teus servos. Saboreei a doçura das Tuas palavras, confessei a Tua unidade e a Tua unicidade, volvi a face para a Fonte dos Teus mais excelentes nomes e para a Aurora dos Teus atributos transcendentes, desejoso de ser por Ti capacitado para me imergir no oceano da Tua unidade, nas poderosas águas da Tua unicidade.
 Ajuda-me pela Tua graça fortalecedora, ó meu Senhor, a fazer o que Tu ordenaste e não me negues as coisas que possuis. Extasia-me com as maravilhas das Tuas palavras a tal ponto que o ruído e as distrações deste mundo não tenham o poder de impedir que eu me volva para Ti, nem possam abalar a minha constância na Tua Causa ou desviar os meus olhos do horizonte da Tua graça. Que eu faça, pois, com o Teu auxílio, ó meu Deus, o que Te agrade, e cumpra a Tua vontade. Destina-me, ainda mais, o bem deste mundo e do vindouro e ordena-me um assento de verdade na Tua presença. Potente és para fazer o que desejas e reger como Te apraz. Nenhum Deus há senão Tu, o Inatingível, o Todo-Glorioso, o Supremo.
 Todo o louvor a Ti, ó Senhor dos mundos e objeto de adoração de todos os seres criados!
-
--- Bahá'u'lláh

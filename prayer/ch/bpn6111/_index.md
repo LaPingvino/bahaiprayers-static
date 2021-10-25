@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6111 in Chamorro'
+author = 'Bahá'u'lláh'
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##I AYUNAT
@@ -14,5 +15,3 @@ I am the one, O my Lord, who hath held fast the cord of Thy loving-kindness, and
 These are, O my Lord, the days in which Thou hast bidden Thy servants to observe the fast. Blessed is he that observeth the fast wholly for Thy sake and with absolute detachment from all things except Thee. Assist me and assist them, O my Lord, to obey Thee and to keep Thy precepts. Thou, verily, hast power to do what Thou choosest.
 
 There is no God but Thee, the All-Knowing, the All-Wise. All praise be to God, the Lord of all worlds.
-
--- Bahá'u'lláh

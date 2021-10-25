@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11239 in Kiribati'
+author = 'Bahá'u'lláh'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 *‘‘Kamatebwaia te Tabureti ibukin te Holy Mariner bwa ko aonga n at ate koaua, ao karaua iangoia bwa te Tamaroa Ae E Kakabwaiaki E a tia n taetae ni burabeti n tabwaninna taekan bwaai aika a na riki nakon taai aika a na roko. A riai naake a noraba n taua bwa te kauring nakoia.’’ ’Abdu’l-Bahá
@@ -116,5 +117,3 @@ A bane n ikotaki n otabwaniniia ao akea, a kunea rabwatana ae e bwaka iaon te bu
 E na kamimitongaki ara Uea, ae Moan te Rietata!
 Ao ngke a noria n arona arei ao a ota n te taeka teuana man Ana karaka te Roronrikirake, a kanakoi rabunan atuuia, a taekii kunnikaia, a orooroi ubuia, a mwaninga kukureia, a bwaka rannimataia ao a orei tabaia ni baia, ao ni koaua aio teuana mai buakon taian karawawataki ae e miterio man rangi ni kaakaiaki arona –
 E na kamimitongaki ara Uea, ae Moan te Rietata!
-
--- Bahá'u'lláh

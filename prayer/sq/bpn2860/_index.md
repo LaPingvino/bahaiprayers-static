@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2860 in Shqip'
+author = 'Bahá'u'lláh'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Ai është Shëruesi, i Mjaftueshmi, Ndihmuesi,
@@ -175,5 +176,3 @@ Ti i Përherëpranishmi, O Ti i Vetmi i Përhershëm!
 I shenjtëruar je Ti, O Perëndia im! Unë të lutem, për zemërgjerësinë Tënde, nga e cila portat e bujarisë e të mirësisë janë hapur tërësisht dhe Tempulli i Shenjtërisë Sate është vendosur mbi fronin e përjetësisë; dhe për mëshirën Tënde, me të cilën Ti i ftove të gjitha krijesat në tryezën e bujarive e të dhurëtive të Tua; dhe për hirin Tënd, me të cilin Ti Vetë u përgjigje me fjalën Tënde "Po!" në emër të të gjithë atyre që janë në qiell e në tokë, në orën kur sovraniteti Yt dhe madhështia Jote u reveluan, në atë agim kur fuqia e sundimit Tënd u bë e dukshme. Dhe përsëri unë të lutem, për këta emra kaq të hijshëm, për këto atribute kaq fisnike e sublime, dhe për Kujtimin Tënd më të Lavdëruar, dhe për Bukurinë Tënde të kulluar e të panjollë, dhe për Dritën Tënde të fshehur në tendën më të fshehtë, dhe për Emrin Tënd të veshur me rrobën e vuajtjes çdo mëngjes e mbrëmje, ta mbrosh bartësin e kësaj Tabele të bekuar, dhe cilindo që e thotë atë, dhe cilindo që vjen tek ajo, dhe cilindo që kalon pranë shtëpisë ku ndodhet ajo. Shëro Ti, pra, me të çdo të sëmurë e të varfër nga çdo telash e hidhërim, nga çdo mërzi cfilitëse e brengë, dhe udhëhiq me anë të tij cilindo që dëshiron të hyjë në shtigjet e udhërrëfimit Tënd, dhe në rrugët e faljes e të mirësisë Sate.
 
 Ti je me të vërtetë i Fuqishmi, i Gjithëmjaftueshmi, Shëruesi, Mbrojtësi, Dhuruesi, Zemërdhembshuri, Bujariploti, i Gjithëmëshirshmi.
-
--- Bahá'u'lláh

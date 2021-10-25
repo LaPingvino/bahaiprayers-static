@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2641 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 „Tanulmányozzátok a Szent Tengerész Tábláját, hogy megismerhessétek az igazságot, és megfontolhassátok, hogy az Áldott Szépség teljes körűen megjövendölt jövőbeli eseményeket. Vigyázzanak, kik értők!”   —`Abdu’l-Bahá
@@ -174,5 +175,3 @@ Dicsőíttessék Urunk, a Legmagasabb!
 És amint látták állapotát és megértettek egyetlen szót abból a történetből, mit az Ifjú mesélt, fejüket felfedték, megszaggatták ruhájukat; arcukat csapkodták, elfeledték örömüket, könnyeket hullattak, és kezükkel orcájukat ütötték, és ez bizony az egyik titokzatos, szörnyű megpróbáltatás.
 
 Dicsőíttessék Urunk, a Legmagasabb!
-
--- Bahá'u'lláh

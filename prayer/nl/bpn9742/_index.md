@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9742 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Geprezen zijt Gij, o mijn God, dat Gij Naw-Rúz hebt ingesteld als een feestdag voor hen die de Vasten hebben gehouden uit liefde voor U en zich hebben onthouden van al wat U weerzinwekkend is. Vergun, o mijn Heer, dat het vuur van Uw liefde en de gloed die de door U opgelegde Vasten teweeg heeft gebracht hen in vlam zet voor Uw Zaak, en laat hen zich bezighouden met het U eren en gedenken.
@@ -7,5 +8,3 @@ Daar Gij hen hebt getooid, o mijn Heer, met het sieraad van de door U voorgeschr
 Gij zijt Degeen door Wie het vaandel “Loffelijk zijt Gij in Uw werken” is geheven, en de banier “Gehoorzaamd wordt Gij naar Uw bevel” is ontrold. Maak Uw staat aan Uw dienaren bekend, o mijn God, zodat zij gaan beseffen dat de voortreffelijkheid van alle dingen afhankelijk is van Uw gebod en Uw woord, en de verdienste van iedere handeling wordt bepaald door Uw goedkeuring en het welbehagen van Uw wil, en zij mogen erkennen dat de teugels van ‘s mensen daden in de greep van Uw aanvaarding en Uw gebod liggen. Maak dit aan hen bekend, opdat niets hen ooit zal uitsluiten van Uw Schoonheid in deze dagen waarin de Christus uitroept: “Alle heerschappij is aan U, o Gij de Verwekker van de Geest (Jezus)”, en Uw Vriend (Mohammed) uitroept: “Glorie zij U, o Gij de Welbeminde, want Gij hebt Uw Schoonheid onthuld, en voor Uw uitverkorenen neergeschreven hetgeen hen de zetel van de openbaring van Uw Allergrootste Naam zal doen bereiken, die alle mensen deed weeklagen behalve hen die zich hebben onthecht van alles buiten U en zich hebben gericht op Hem die de Openbaarder is van Uzelf en de Manifestatie van Uw eigenschappen.”
 Hij die Uw tak is en allen die met U zijn, o mijn Heer, hebben op deze dag hun vasten gebroken nadat zij zich eraan hebben gehouden binnen de grenzen van Uw hof, in hun vurig verlangen U te behagen. Bepaalt Gij voor hem, en voor hen, en voor allen die in deze dagen Uw tegenwoordigheid hebben bereikt, al het goede dat Gij in Uw Boek hebt beschikt. Voorzie hen dan van hetgeen hen ten goede zal komen, zowel in dit leven als in het leven hierna.
 Gij zijt in waarheid de Alwetende, de Alwijze.
-
--- Bahá'u'lláh

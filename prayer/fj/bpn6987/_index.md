@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6987 in Fiji'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 *(Na masu oqo, e vakaraitaki mai vei `Abdu’l-Bahá, ka vakayagataki e na Nona iBulubulu Tabu. E rawa tale ga ni cavuta e dua e na nona masu vakai koya ga, e vale.)
@@ -20,5 +21,3 @@ Ni vukei au me u tu rawa vakataki au e na i curucuru vakalomalagi ki na Nomuni m
 E na masu oqo sa kacivi tiko kina na Nomuni dauveiqaravi oqo, e na kabu ni mataka kei na lomaloma ni bogi. Ni vakavotukanataka mada na gagadre ni lomana, I Turaga! Ni serauna na yalona, vakamarautaka na utona, vakacaudreva na nona cina, me rawa kina ni qarava na Nomuni iNaki kei ira na Nomuni dauveiqaravi.
 
 Sa i Kemuni ga na Dauveisaututaki, na Dauveinanumi, na Dauloloma Soli wale Duadua ga, na Lagilagi, na Dauveivosoti, na Dauloloma.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5138 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *"Barangsiapa berangkat kemana saja untuk menyebarkan Firman Tuhan, biarlah dia membaca doa ini pada siang dan malam hari selama perjalanannya ke daerah-daerah asing."
@@ -9,5 +10,3 @@ Ya Tuhan! Tuhanku! Engkau melihat hamba terpesona dan tertarik kepada kerajaan-M
 Ya Tuhan! Kuatkanlah punggung hamba, mungkinkanlah hamba sungguh-sungguh berusaha mengabdi kepada Agama-Mu dan janganlah membiarkan hamba pada hamba sendiri, kesepian dan tak berdaya di daerah-daerah ini.
 
 Ya Tuhan mungkinkanlah daku berhubungan dengan Engkau dalam kesepianku dan temanilah hamba di daerah-daerah yang asing ini. Sesungguhnya, Engkaulah yang menguatkan siapa pun yang Engkau kehendaki dalam apa yang Engkau sukai, dan sesungguhnya, Engkau Yang Maha Kuat, Yang Maha Kuasa.
-
--- Bahá'u'lláh

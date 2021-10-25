@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12223 in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O MY Lord! I have drawn nigh unto Thee, in the depths of this darksome night, confiding in Thee with the tongue of my heart, trembling with joy at the sweet scents that blow from Thy realm, the All-Glorious, calling unto Thee, saying:
@@ -41,5 +42,3 @@ Wherefore, O beloved of the Lord, strive ye with heart and soul to receive a sha
 I swear by the true Teacher that if ye will act in accord with the admonitions of God, as revealed in His luminous Tablets, this darksome dust will mirror forth the Kingdom of heaven, and this nether world the realm of the All-Glorious.
 
 O ye loved ones of the Lord! Praise be to Him, the unseen, welling bounties of the Sun of Truth encompass you on every side, and from every direction the portals of His mercy stand ajar. Now is the time to take advantage of these bestowals, and benefit therefrom. Know ye the value of this time, let not this chance escape you. Stay ye entirely clear of this dark world’s concerns, and become ye known by the attributes of those essences that make their home in the Kingdom. Then shall ye see how intense is the glory of the heavenly Daystar, and how blinding bright are the tokens of bounty coming out of the invisible realm.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8003 in American Indian'
+author = 'Bahá'u'lláh'
 tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 ##O God Guide Me
@@ -25,5 +26,3 @@ Wakȟáŋ Tȟáŋka waŋžíla k’uŋ hé niyé, wókȟokipȟe ičh
 ##Remover of Difficulties
 Wakȟáŋ Tȟáŋka kiŋ išnála wótheȟi yuȟéyab ičú. Heyá po: Wakȟáŋ Tȟáŋka yawášte po. Wakȟáŋ Tȟáŋka kiŋ hé é.
 Tuwé ke éyaš tȟawówaši héčhapi, tuwé kiŋ iyúha iyé tȟawáčhiŋ ognáyaŋ úŋpi.
-
--- Bahá'u'lláh

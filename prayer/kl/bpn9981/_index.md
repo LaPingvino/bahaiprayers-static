@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9981 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Ataqqinartitaagit Illit, Naalagaq Guutiga-aa! Makku tassaapput ullut Illit inunnut tamanut iisinnginniarfissatut peqqusatit, taamaaliornermikkut tarnitik eqqiarniassammatigik, atassuteqarnernullu sunulluunniit Illiunngitsunut qilerussaarniassammata, aammalu taakkua uummataannit pilerniassammat Illit ataqqinassutsivit inaanm naleqquttoq aammalu Illit saqqummernerpit ataasiussusiata issiavianut iluarinartoq. Tunniuguk, Naalagara-aa iisinnginniarnerup matuma imermik inuunartumik kuulluarnissaa, aammalu ileqqorissaarutit Illit taassuminnga pisuunngortitsinensavit saqqummersinnissaat.Taassuma ikiuutissaatigut eqqiakkit Illit kiffavit uummataat, taakku silarsuarmi ajortunit Illit Aterpit, tamanit illernarnerpaasup, alarnissaanut akornusigaanngitsoorsimasut, aammalu Illit nalunaaqqutinnik ajasoornarnerpaanik, Illit saqqummernerpit takkunneranik malittaasunik Illit Naalagaffmnik, Pissaaninnik, Ataqqinassutsinnik Illernassutsinnillu peqatiginnilersissimasannik, uppensaqanngitsut nipiliornersuinit eqqissiviinnerinillu sunnigaanngitsoorsimasut. Makku tassa kiffatit, Illit qaaqqusinerit tusarniariarlugu Illit nallittuissutsinnut tuaviinnaq aggersut aammalu silarsuup matuma allanngornerinik nalaatsornerinillu imaluunniit inuit killilersuutigisaannit unitsitaasimanngitsut.
@@ -27,5 +28,3 @@ Ilanngullugillu illernarsakkit Taassuminnga, Taassumalu nalunaaqqutaanik upperin
 Unnersiutigisaagit Illit, Guutiga-aa, Taanna miserratigiunnaarsillugulu asalersissimagakku. Taamaattumik Tassuuna tamakkunatigullu Illit Qilammiuussutsinnut Ullaanngulersutigut aammalu Naalagaaffippit Saqqummernerisigut, Saqqummernerpit Erlinnartuusiviisigut aammalu IIlit isumassarsisitsinerpit Toqqorsiviisigut qinnuigaakkit uatsinnik Tassunga kiffartortunngorteqqulluta naalattunngortillutalu, nukissatsinnillu tunisigut Taassuma Siunertaanik ikiuisunngoqqulluta Taassumalu akeraanik nungusaasunngoqqulluta.
 
 Pissaaneqarputit Illit iluarisat malillugu iliuuseqarsinnaanissamut. Allamik Guuteqanngilaq Illit kisivit, Ajugaqanngitsoq, taanna Illernartoq, inunnit tamanit ikioqqusunit ujagaajuartoq!
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2353 in Latviešu'
+author = 'Bahá'u'lláh'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Viņš ir Dievs, cildens Viņš ir, mīloši žēlīgais un dāsnais Kungs!
@@ -14,5 +15,3 @@ Ak mans Dievs! Tavs aizbildināmais ir nu pie Tevis atgriezies. Savā žēlsird�
 Tev ir tas spēks piepildīt Savu gribu. Nav cita Dieva bez Tevis, Visžēlīgā, Visdāsnā, Līdzjūtīgā, Devēja, Piedēvēja, Neaizstājamā, Visu Zinātāja.
 Es apliecinu, ak mans Kungs, ka Tu cilvēkiem esi mācījis godāt savus viesus un tas, kas pie Tevis ir pacēlies, ir tiešām Tevi sasniedzis un Tavu tuvību iemantojis. Tad esi pret viņu žēlsirdīgs un vēlīgs. Pie Tavas godības, es esmu drošs, ka pieņemsi viņu tāpat, kā esi Saviem kalpiem mācījis viņu pieņemt, kā arī neatstumsi to, kas ir turējies pie Tavas dāsnuma saites un pacēlies līdz Tavas Gaismas Avota pilnībai.
 Nav neviena cita Dieva bez Tevis, Viena Vienīgā, Varenā, Zinošā, Dāsnā!
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer AB00049RAP in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'AB00049RAP']
 +++
 ##Revealed to the Bahá’ís of the United States and Canada
@@ -13,5 +14,3 @@ O Lord! Strengthen my back, enable me to serve Thee with the utmost endeavor, an
 O Lord! Grant me communion with Thee in my loneliness, and be my companion in these foreign lands.
 
 Verily, Thou art the Confirmer of whomsoever Thou willest in that which Thou desirest, and, verily, Thou art the All-Powerful, the Omnipotent.
-
--- Abdu'l-Bahá

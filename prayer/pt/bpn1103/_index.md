@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1103 in Português (BR)'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, meu Deus! Vês que intensa escuridão envolve todas as regiões, como todos os países ardem com a chama da discórdia, e o fogo da guerra e da carnificina flameja no Oriente e no Ocidente. O sangue está a correr, os cadáveres espalham-se pelo chão e cabeças decepadas estão caídas sobre o pó do campo de batalha.
@@ -14,5 +15,3 @@ tags = ['lang-pt', 'bpn-unsorted']
 Ó Senhor! Verdadeiramente, as almas estão nos abismos da paixão e nada poderá resgatá-las a não ser as Tuas infinitas graças.
 Ó Senhor! Dissipa as trevas desses desejos corruptos e ilumina as almas com a lâmpada do Teu amor através do qual, dentro em breve, todos os países serão esclarecidos. Confirma, além disso, os Teus amados, aqueles que, por amor à Tua Beleza, deixaram os seus lares, as famílias e os filhos e viajaram a outros países a fim de difundir as Tuas fragrâncias e promulgar os Teus ensinamentos. Sê o seu companheiro na sua solidão, o seu amparo numa terra estranha, Aquele que remove a sua tristeza e os conforta na adversidade. Sê um alívio para a sua sede, um remédio para os seus males e um bálsamo para o ardor dos seus corações.
 Em verdade, Tu és o Mais Generoso, o Senhor de graça abundante e, verdadeiramente, Tu és o Compassivo e o Misericordioso.
-
--- Abdu'l-Bahá

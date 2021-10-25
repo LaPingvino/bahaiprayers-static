@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7582 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *(Tätä muistiota luetaan Bahá'u'lláhin ja Bábin hautapyhäköissä. Sitä käytetään usein myös heidän muistojuhliaan vietettäessä.)
@@ -11,5 +12,3 @@ Henkäise sitten päälleni, oi Jumalani ja Rakastettuni, armeliaisuutesi ja lau
 Jumalan muistaminen ja Hänen ylistyksensä sekä Jumalan kirkkaus ja Hänen loistonsa olkoot päälläsi, oi Sinä, joka olet Hänen kauneutensa! Tunnustan,  että luomakunnan silmä ei ole koskaan nähnyt ketään, joka olisi kärsinyt sellaista vääryyttä kuin Sinä. Koko elinaikasi olit upotettuna kärsimysten valtamereen. Milloin olit kahleissa ja raudoissa, milloin taas vihollistesi miekan uhkaamana. Kaikesta tästä huolimatta Sinä kuitenkin velvoitit kaikki ihmiset noudattamaan sitä, minkä oli määrännyt Hän, joka on Kaikkitietävä, Kaikkiviisas.
 Olkoon henkeni uhrina kärsimillesi vääryyksille ja sieluni lunnaina kestämillesi vastoinkäymisille. Rukoilen Jumalaa Sinun nimeesi ja niiden nimeen, joiden kasvoja Sinun kasvojesi valon kirkkaus on valaissut ja jotka rakkaudesta Sinuun ovat noudattaneet kaikkea, mihin heitä oli käsketty, poistamaan verhot, jotka ovat tulleet Sinun ja luotujesi väliin, ja suomaan minulle sekä tämän että tulevan maailman hyvyyttä. Sinä olet toden totta Kaikkivaltias, Kaikkein ylevin, Kaikkein kirkkain, Aina anteeksi antava, Sääliväisin. 
 Siunaa, oi Herra minun Jumalani, jumalallista Lootuspuuta ja sen lehviä, sen haaroja ja oksia, sen varsia ja vesoja niin kauan, kuin Sinun oivallisimmat arvonimesi pysyvät ja ylhäisimmät ominaisuutesi kestävät. Suojele sitä sitten hyökkääjän ilkivallalta ja sortovallan joukoilta. Sinä olet toden totta Kaikkivaltias, Kaikkein voimallisin. Siunaa, oi Herra, minun Jumalani, myös palvelijoitasi ja palvelijattariasi, jotka ovat päässeet tykösi. Sinä olet todellakin Kaikkiantelias, jonka armo on rajaton. Ei ole muuta Jumalaa kuin Sinä, Aina anteeksi antava, Jalomielisin.
-
--- Bahá'u'lláh

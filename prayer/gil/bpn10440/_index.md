@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10440 in Kiribati'
+author = 'Abdu'l-Bahá'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada 
@@ -14,5 +15,3 @@ O te Uea!  Ni koaua, a bon mamara, ao Ngkoe bon te Mwaaka ao te Korakora; akea a
 O te Uea!  Marawan te kaitara a uti naoia, ao taian mangaongao aikai a na bon aki taona rongoana ma tii rinanon Am Tamaroa ae Akea Tiana are e rabwatii mwakoro n aono ni kabane.
 O te Uea!  Ni koaua, aomata a bon mena inanon te nono ni kaibwabwaru ae akea kabina, ao akea riki ae na kamaiuia ma bon tii Am kakabwaia aika akea tokia.
 O te Uea!  Taenakoa te rotongitong man naano aika bakairae aikai, ao kaotai naano nako ma tauran Am tangira rinanona ike ni kabane aono n te tai ae aki maan a na kaotaaki.  Kamatoaia, e a moamoa riki, naake Ko tangiria, naake, a kitani abaia, aia utu ao natiia,  a tia, ibukin tangiran Tamaroam, a mwananga nakon aono aika ianena ni kauamaea Am boiarara ao ni katanoatai Am reirei nako.  Riiki Ngkoe bwa raoia inanon maroaia, aia tia ibuobuoki inanon aaba aika a ianena, te tia kanakoi rawawataia, te tia kamwengaraoia inanon tain te kanganga.  Riiki Ngkoe bwa te tia ukiia n te ang ni kamaiu ibukin takaia, te bwai n aoraki ibukin aorakia ao te kabira nakon buen korakain nanoia.
-
--- Abdu'l-Bahá

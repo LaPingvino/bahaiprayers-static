@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7480 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 W Imię Boga, Odwiecznego, Największego.
@@ -103,5 +104,3 @@ Zaprawdę, usłyszałem Twoje Wołanie, o Najchwalebniejszy Umiłowany, a teraz 
 O, ʿAlí-Akbar, podziękuj twemu Panu za tę Tablicę, z której możesz wdychać woń Mojej łagodności i dowiedzieć się, co spotkało Nas na ścieżce Boga, Uwielbianego wszystkich światów.
      
 Jeżeli wszyscy służebnicy przeczytają i rozważą to, w ich żyłach zapłonie ogień, który rozpłomieni światy.
-
--- Bahá'u'lláh

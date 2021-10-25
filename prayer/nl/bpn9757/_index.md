@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9757 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 ##Het lange Verplichte Gebed
@@ -65,5 +66,3 @@ Ere zij U, o onze God, dat Gij tot ons hebt neergezonden hetgeen ons U doet nade
 *Laat hij dan zijn hoofd oprichten, gaan zitten en zeggen:
 
 Ik betuig, o mijn God, hetgeen Uw uitverkorenen betuigen en erken hetgeen de bewoners van het allerhoogste Paradijs en zij die Uw machtige Troon omringen erkennen. De koninkrijken van hemel en aarde zijn de Uwe, o Heer der werelden!
-
--- Bahá'u'lláh

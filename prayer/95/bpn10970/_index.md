@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10970 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *(A aso fiafia faopoopo, Fepulai 26 kia Mati 1, fakatasi, ko aso e fakatokatoka i ei ki te Anapogi, ko aso o te fai kaiga, fesoasoani mo te ave mea-alofa.)
@@ -9,5 +10,3 @@ Toku Atua, Toku Afi mo toku Mainaaga!  Ko aso konei ko oti ne fakaigoa ne Koe ki
      E lavea ne Koe, O toku Aliki, me ne lavea ne latou a Koe pefea kae fakaasi tonu a so se mea tela ko oti ne folafola mai i Au Mataupu Silisili.  Avatu kia latou ke inu, O toku Aliki, mai i lima o Tou alofa a te vai o Tou favavau.  Tusi ifo ki lalo, tena, mo latou a te taui ko oti ne fakaeke mo ia te la ko galo ifo a ia i te vasa o Tou nofo-mai, kae maua ne ia a te uaina filifilia i Tau feiloaiiga.
      Au e akai totuli kia Koe, O koe ko te Tupu o tupu mo te Atafai o latou ko maua ne faka-lavelave, ke fakaeke kia latou a te lei o te lalolagi tenei mo te lalolagi ma vau.  Tusi ifo mo latou, tena, te la e seai aka foki i Au mea ola faiite ko oti ne maua ne latou, kae lau a latou mo niisi o latou ko la e tamilomilo ia Koe, kae gasuesue i Tou noofoga-a-tupu i lalolagi katoa o Ou lalolagi.
      A Koe, e tonu, ko te Mafi-Katoatoa, ko te Poto-Katoatoa, ko te Iloa-Katoatoa.
-
--- Bahá'u'lláh

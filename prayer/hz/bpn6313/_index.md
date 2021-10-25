@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6313 in Namibia'
+author = 'Bahá'u'lláh'
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 #NDAPERO ZOHEPERO*
@@ -11,5 +12,3 @@ Kutupu ko Karunga nage peke ntudi Nyove, Muvateli oMaudigu, Mukalipo pwaNyamoge.
  
 
 * (Bahá’u’lláh kwa udisa nondapero ntatu dohepero, zimwe zado kuzihorowora nokuziraperera nkenye mupuli mwankenye noviri dokusika ko 24, mukutwara mositambo sankenye ndapero. Mpangero zokuhamena ko ndapero ezi vana gava keguru, yizo zonsupi po pwedi ntatu, zahepa kuziraperera rumwe tupu mezuva pokatji komutenya nongurova.)
-
--- Bahá'u'lláh

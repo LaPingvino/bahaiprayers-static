@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10460 in Kiribati'
+author = 'Bahá'u'lláh'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Aikai boong, Atuau, are Ko a tia ni katauia Am toro bwa a na taua bukin te akimamatam. Are iai are Ko katamaroa iai moan abokan Am Boki n Tua ake a karuoaki i bukiia Am karikibwai, ao ni kaota tamaroan Umwan Am kaetieti nako i mataia ni kabane ake n Am karawa ao ni kabane aika i aon te aonaaba.  Ko a tia ni kataua auan nako boong aikai ma te anua ae e okoro, are e aki kona ni warekaki irouia ni kabane ma ti Iroum, are Rabakauna e rabwati karikibwai ni kabane.  Ko a bon tia, naba, ni kataua mwakoron te anua aei n aron taekan Taburetin Am kaetieti ma Am koroboki are Ko a tia iai, n aron anne, n reke tibwaia iai n tatabemaniia aomatan nako ma utuun nako te aonaaba.
@@ -11,5 +12,3 @@ Kabwaka ni karau ngkanne i aora, Atuau, are e bootau ni koaua ma Am raoiroi ao n
 Ko bon noora, Atuau, are a tia ni bwaka iai ake a tangiraki Iroum n Am bong nako. Mimitongim are I kakoaua iai!  Bwanaaia ni bwaebwaeti naake a tangiraki Iroum e a bon tia ni mwemwe rake nakon Ueam.  Tabeman ake a irarang irouia naake a nanoro i nanon Baim, ao a bon tuukiia i bon irouia n roko ni kaan Nakoim ao man karekean botakin Mimitongim.  Ake tabeman ake a kona ni waaki Nakoim, ma a tauaki man nooran Moam.  Iai riki ake tabeman ake a katauaki, n ingaingaia ni kan taraa Moam, n rin n aban nako Am botaki, ma a bon kataui taian rabunanimata are bon katautauaiia iai Am karikibwai ao kaairua ake a reke mairouia taan kamangao i buakoia Am aomata bwa a na roko i marenaia ma Ngkoe.
 Bon aio te aua, Au Uea, are ko a tia ni karikia bwa e na raka i aon aua nako, ao n tia ni kaitomanna bwa ngaia are e rineaki i buakoia Am karikibwai.  I bubuti Nakoim, Ngkoe Atuau, i bon Iroum ao irouia, ni kataua waakin te ririki aei bwa e na karietaiia ake Ko tangiriia.  Ko na baaireia, ngkanne, i nanon te ririki aei ni kataua n, Itoin Ngainan Mimitongim, ao ni kaoota, ni Mwaakam ni uea, n te aonaaba ae bwanin.
 Karika Am Waaki bwa e na totokanikai, au Uea, ao kamangoriia Am kairiribai.  Koroia, ngkanne, i bukira are e raoiroi n te maiu aei ao te maiu ae e na roko.  Boni Ngkoe te Koaua, are Ko atai bwaai aika a raba.  Bon akea riki Te Atua bwa ti Ngkoe, te Tia Kakabwarai buure, te Kabanea ni Kakabwaia.
-
--- Bahá'u'lláh

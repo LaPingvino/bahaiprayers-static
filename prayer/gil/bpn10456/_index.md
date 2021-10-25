@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10456 in Kiribati'
+author = 'Bahá'u'lláh'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 *(E wawarekaki te Tabureti aio i Bangotaia Bahá’u’lláh ao te Báb. E kakabonganaki naba n Aia bong ni kauring.)  
@@ -10,5 +11,3 @@ Uoti ma te aabebete nakoiu, Atuau ao Au Tangira, ikeiken Am nanoanga aika a tabu
 Uringan te Atua ma Kamoamoaana, Mimitongina ma Tamaroana, a tiku i Aom, Ngkoe ae bon Tamaroana! I kaotia ma te koaua bwa matan te karikibwai e tuai man tataraa temanna ae e a tia ni karaoaki te aki eti nakoina n ai Arom. Ni kabane bongin Maium ko a bon tia ni iinako ibuakon marawan te karawawataaki. N te taina Ko bon kabaeaki n taian taurekereke; n te taina naba ao Ko taboraaki n aia kabaang Am kairiribai. N aki mutiakin baikai ni kabane, Ko bon waaki n tuangia aomata nako bwa a na karaoa are Ko a tia n tuangaki mairoun Teuare Ngaia Moaia Ataibwai, te Katoki ni Wanawana.
 E bia riki tamneiu bwa te karea nakon aki-eti ake Ko a tia kamarakaki ibukiia, ao oin aomatau bwa boon mwiin kaangaanga ake ko a tia n rinanoi. I bubuti nakon te Atua, Rinanom ao rinanoia ake a tia ni kaootaki moaia n tamaroan ootan Moam, ao te koraki naba ake a tia ni irii nanon taeka ake a tuangaki, ibukin Tangiram, bwa a na bane ni kamwaawaaki rabuna ni mata ake a mena i Marenam ma Am aomata, ao ni kareerekea nakoiu raoiroin te aonaaba aei ao are e na roko. Boni Ngkoe ni koaua, Moan te Mwaaka, te Katoki ni Kamoamoaaki, te Kabanea ni Mimitong te Kakabwara bure, te Karaunano.
 Te Uea ae Atuau, kakabwaiaa te Kai-te-Rote ni Karawa ma baana nako, bwebwena ma mwangana nako ao tirina ni kabane, bwa a na teimatoa ni irii teimatoan Anuam nako aika moan te Raraoi. Kamanoa man aia mwakuri ni ioawawa taani kakiriwe ma taani motibuaka. Ngkoe ni koaua, Moan te Mwaaka, te Kabanea ni Korakora. Te Uea ae Atuau, kakabwaiaia naba Am toro mwaane ao am tabonibai aine ake a tia ni karokoia Iroum. Boni Ngkoe ni koaua, te Ataataiaomata, ae akea tokin Ana tituaraoi. Akea riki te Atua bwa bon ti Ngkoe, Moan te Nanoanga, te Katoki n Tituaraoi.
-
--- Bahá'u'lláh

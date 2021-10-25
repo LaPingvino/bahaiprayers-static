@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12473 in Namibia'
+author = 'Bahá'u'lláh'
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Oye Okuyapuki-elela, Omutumbalekwa-elela, Omunene-elela
@@ -16,5 +17,3 @@ Omolwashike tamu ke lihakana okandobe komeva kongaho-ngaho, manga Efuta linenene
 PuKalunga! Okangovela kamwe, komoungovela vaye oka wana okutamununina Olupale linene alishe pombada yovakali vomoilando yomadina aeshe, osho yo komombada yaavo va kundukila Oshitrone shaye (olukalwa lwaye), ongula nonguloshi.
 
 Hano tambuleni oihomo yomatumbulo aye, taa loko okudja meulu; oihomo yehalo lOmwene weni, Omunefilonghenda-alishe. Ehena popepi navo; O, popepi novanhu, ndele liteeka ovo tava pataneke eendjovo daKalunga naavo inava itavela Omwene wavo eshi e uya a holole oshili
-
--- Bahá'u'lláh

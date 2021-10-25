@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9939 in አማርኛ.'
+author = 'Bahá'u'lláh'
 tags = ['lang-am', 'bpn-unsorted']
 +++
 *Tablet of the Holy Mariner
@@ -26,5 +27,3 @@ tags = ['lang-am', 'bpn-unsorted']
 “ እናንት ሞግዚት መላእክት ሆይ”
 ንዑዱ ጌታዬ የተወደሰ ይሁን!
 “ የእነዚያ ለመረዳት ሚችሉት አዕምሮወወች ሊገነዘቡት የማይችሉት ከእውነት የራቀ እምነት መርከብ እንቅስቃሴ አልባ ሆና ወደቆመችበት አካባቢ፤
-
--- Bahá'u'lláh

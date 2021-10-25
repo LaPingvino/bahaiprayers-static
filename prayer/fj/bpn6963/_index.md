@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6963 in Fiji'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 O i Kemuni na Turaga yalololoma! O ni sa buli ira na tamata mai na dua vata ga na i vurevure. O ni sa vakarota me ra sa okati me duabau ga na matavuvale. E na Nomuni Tutu Tabu era sa Nomuni dauveiqaravi kece ga, ka ra vakarurugi kece ga na tamata e na ruku ni nomuni iVakaruru Tabu; era sa soqoni vata kece e na Nomuni Teveli ni Sautu; era sa vakararamataki kece e na i serau ni Nomuni Veivakarautaki.
@@ -17,5 +18,3 @@ Ni dregata mada, O i Kemuni na Kalou, na utodra na tamata kece ga.
 O i Kemuni na Tamai keimami dauloloma, na Kalou! Ni vakamarautaka mada na utoi keimami e na i boi taleitaki ni Nomuni loloma. Ni vakararamataka na matai keimami e na i Serau ni Nomuni Dauveituberi. Vakamarautaka na daligai keimami e na rorogo ni Nomuni vosa, ka vakarurugi keimami kece e na Baivatu ni Nomuni Dauveitaqomaki.
 
 Sa i Kemuni na iGu Cecekia kei na kaukauwa, sa i Kemuni na Dauveivosoti ka sa i Kemuni Duabau ga na dau rai sivita na nodra malumalumu na tamata kece ga.
-
--- Abdu'l-Bahá

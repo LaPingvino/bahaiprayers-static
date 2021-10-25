@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9756 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 In Naam van God, de Aloude, de Allergrootste.
@@ -53,5 +54,3 @@ Weeklaagt Gij of zal Ik weeklagen? Veeleer zal Ik wenen over het geringe aantal 
 Voorzeker, ik heb Uw roep gehoord, o Alglorierijke Geliefde, en nu gloeit het gelaat van Bahá door de hitte van beproeving en door het vuur van Uw stralend woord, en Hij is getrouwelijk verschenen op de offerplaats, ziende naar Uw welbehagen, o Beschikker der werelden.
 O ‘Alí-Akbar, dank Uw Heer voor deze Tafel waaruit gij de zoete geur van Mijn zachtmoedigheid kunt inademen en weet wat Ons is overkomen op het pad van God, de Aanbedene aller werelden.
 Zouden alle dienaren dit lezen en overdenken, dan zal in hun aderen een vuur ontbranden dat de werelden in vuur en vlam zal zetten.
-
--- Bahá'u'lláh

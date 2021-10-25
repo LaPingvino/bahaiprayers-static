@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2446 in Latviešu'
+author = 'Abdu'l-Bahá'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Lūgšana, kas jāskaita garīgajai sanāksmei noslēdzoties.
@@ -8,5 +9,3 @@ Ak Dievs! Ak Dievs! Tu raugies uz mums no Savas neredzamās vienesmes Ķēniņva
 Ak mūsu Kungs! Mēs esam vāji, bet Tu esi stiprs un varens. Mēs esam mirstīgi, bet Tu esi lielais, dzīvību nesošais Gars. Mēs esam nabadzīgi, bet Tu esi mūsu Uzturētājs!
 Ak mūsu Kungs! Liec mums acis celt uz Tavu dievišķo vaigu, Savā dievišķā žēlastībā baro mūs pie Sava debesu galda, palīdzi mums ar Saviem augsto eņģeļu pulkiem, un liec Abhá Ķēniņvalsts svētajiem atzīt mūs!
 Patiesi, Tu esi Augstsirdīgais un Žēlīgais! Tu esi Labdarīgais, un, patiesi, Tu esi Maigais un Dāsnais.
-
--- Abdu'l-Bahá

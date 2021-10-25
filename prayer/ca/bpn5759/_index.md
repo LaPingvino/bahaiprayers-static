@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5759 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##ORACIÓ OBLIGATÒRIA MITJANA
@@ -31,5 +32,3 @@ No desil·lusionis, oh Déu meu, a aquell qui, amb dits suplicants, s’ha aferr
 Dono testimoni de la Teva Unitat i la Teva Unicitat, i de que Tu ets Déu i no hi ha altre Déu més que Tu. Vertaderament, has revelat la Teva Causa, has acomplert la Teva Aliança i has obert de bat a bat la porta de la Teva gràcia a tots els qui habiten al cel i la terra. Benediccions i pau, salutació i glòria siguin amb els Teus estimats, als qui ni els canvis ni atzars del món han pogut dissuadir de girar-se cap a Tu, els qui tot ho han donat amb l’esperança d’obtenir allò que és al Teu costat. Tu ets, en veritat, Qui sempre perdona, el Tot Generós.
 
 *( Si algú recités, en lloc del versicle llarg, aquestes paraules: “Déu testimonia que no hi ha altre Déu tret d’Ell, Qui ajuda en el perill, Qui subsisteix per Si mateix”, seria suficient. Així mateix, bastaria si, estant assegut, recités les següents paraules: “Dono testimoni de la Teva unitat i la Teva unicitat, i de que Tu ets Déu i no hi ha altre Déu tret de Tu”).
-
--- Bahá'u'lláh

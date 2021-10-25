@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9115 in Kalaallisut'
+author = 'Abdu'l-Bahá'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *Una qinnut ullut tamaasa atuarneqartariaqarpoq. . .
@@ -9,5 +10,3 @@ Guuti-aa! Guuti-aa! Una tassa timmiaq isarorsimasoq, timmineralu arriitsorujussu
 Naalagara! Kisimiippunga, kiserliorlunga annikitsuullungalu. Uannut allamik tapersersuisoqanngilaq Illiunngitsumik, allamillu ikiuisoqarani Illiunngitsumik, atasoqarsinnaanngilarlu Illeqartinnak. Kiffartuunnerni nukittorsannga Inngilivillu katersaarsuit ikiorlinnga Oqaatsivit siaruarterniarnerannik ajugaasinnaanngoqqunnga Ilisimassutsillu pinngortitavit akornanni oqaatigilara.
 
 Ilumut sanngiitsut ikiortigaatsit, minnerusunillu Illersortaallutit, ilumullu tassaavutit Pissaanilik, Annerpaaq, Ajugaaffigineqarsimanngisaannartoq.
-
--- Abdu'l-Bahá

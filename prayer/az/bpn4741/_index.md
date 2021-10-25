@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4741 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Təriflər olsun Sənə, Ya Rəbb, mənim Allahım! Sən görürsən və bilirsən, mən Sənin bəndələrini dəvət etdim ki, Sənin bəxşişlərindən başqa heç bir tərəfə üz tutmasınlar və onlara əmr etdim ki, Sənin dərkolunmaz hökmünə və qəti məqsədinə uyğun olaraq nazil olmuş aydın Kitabında yazdıqlarından başqa bir şeyə riayət etməsinlər.
@@ -11,5 +12,3 @@ Ey mənim Allahım, Öz hökmünlə və hökmranlığının gücü ilə mənə q
 Ona görə də, Ey mənim Allahım, mənə və mənim sevimlilərimə o şeyləri nazil eylə ki, bizi Sənin həqiqətini inkar edənlərin və Sənin əlamətlərinə inanmayanların şərindən qorusun.
 
 Sənsən, həqiqətən, Ən Cəlallı, Ən Kəramətli.
-
--- Bahá'u'lláh

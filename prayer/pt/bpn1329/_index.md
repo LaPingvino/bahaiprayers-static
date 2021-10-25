@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1329 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola Do Sagrado Marinheiro 
@@ -119,5 +120,3 @@ Todas se reuniram ao redor dela e, eis! Acharam o seu corpo caído no pó;
 Glorificado seja o nosso Senhor, o Altíssimo!
 E quando contemplaram o estado dela e compreenderam uma palavra do relato do Jovem, então descobriram-se, rasgaram-se as vestes, golpearam-se os rostos, perderam a alegria, derramaram lágrimas e castigaram-se as faces; e esta é veramente uma das misteriosas aflições atrozes.
 Glorifi
-
--- Bahá'u'lláh

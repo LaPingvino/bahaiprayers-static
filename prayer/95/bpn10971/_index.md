@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10971 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *(Naw-Rúz, Mati 21, ko tea so mua o tausaga Bahá'í)
@@ -8,5 +9,3 @@ E tavaeegina a Koe, O toku Atua. Ona ko oti ne  fakatonu mai ne Koe ko Naw-Ruz k
     Koe ko Ia te la mai Iei ate fuka “E aogaa Koe i Au galuega: ko oti ne sau aka ki luga, a ko te fuafuaaga “Fakalogogina Koe i Tau faka-tonuuga” ko oti ne fola mai.  Fakailoa atu a Tou tulaga, O toku Atua, ki Au tavini, ko te mea ke iloa ne latou a te tafasili i te lei o mea katoa e fakana kia luga i Tau ikuuga mo Tau muna, a ko te uiga lei o so se galuega e pogai mai i Tau taliaaga mo te lei fiafia o Tou finagalo, kae e mafai o lavea a gasuesueega a tagata e aofia katoa i te lima o Tau taliaaga mo Tau fakatonuuga.  Fakailoa atu kia latou, me e seai se mea e mafai o motu latou mai i Tou Gali, i aso konei ko la ne fapatigina ne Keriso: A maalo katoa i o Koe, O Koe ko te Tamana o te Agaaga (Iesu)”; mo Tou Taugasoa (Muhammad) e tagi atu ki luga “Te Mana kia Koe, O Koe ko te Tafasili i te Fagasele, me ia Koe ko oti ne taala a Tou Gali, kae tusi mo Au fagasele filifilia a te mea te la ka fai i ei latou ke oko atu ki te nofoga o te fakaasiiga o Tou Igoa Tafasili ite Lasi, mai i ei ne maua ne tino katoa ate fanoanoa vagana ko latou ko oti ne motu mai ia latou na loa ko Koe, kae fuli atu latou kia Koe Tela Ko te Folafola o Koe mot e Faifekau o Ou uiga lei.”
      A Ia Tela ko Tau Kaula mo latou e fakatasi mo Koe, O te Aliki, ko oti ne fakagata i te aso nei te olotou anapgi, mai taimi ne tautali latou ki ei i loto ite laumanafa o Tou fale, mo te olotou loto-nnau o fakafiafia Koe.  Fakaeke ne Koe mo Ia, mo latou foki, pe la foki a latou katoa ko la ne ulufale atu i Tou nofo-mai i aso katoa a mea lei katoa ko oti ne fakasino ne Koe i Tau Tusi.  Avatu kia latou, na la, a mea ko la ka silia ite lei o latou i ei, i te olaaga nei mo te olaaga mai i tua atu. 
     Koe, i te tonuuga, ko te Iloa-Katoatoa, te Atamai-Katoatoa.
-
--- Bahá'u'lláh

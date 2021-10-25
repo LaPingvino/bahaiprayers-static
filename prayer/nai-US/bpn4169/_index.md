@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4169 in American Indian'
+author = 'Bahá'u'lláh'
 tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Shidiyin nilíinii!  Shidiyin nilíinii!
@@ -8,5 +9,3 @@ Diyin nílinii! Doo t’áá sáhí Bidíílnih da, ‘ééhózinii bee ‘adini
 T’áá “aaníí, Ni bíká ‘anánílwo’í í Nílí áádóó Binanit’a’í Nílí.
 
 *O my God! O my God! Unite the hearts of Thy servants, and reveal to them Thy great purpose. May they follow Thy commandments and abide in Thy law. Help them, O God, in their endeavour, and grant them strength to serve Thee.  O God! Leave them not to themselves, but guide their steps by the light of Thy knowledge, and cheer their hearts by Thy love. Verily, Thou art their helper and their Lord.
-
--- Bahá'u'lláh

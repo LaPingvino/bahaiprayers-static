@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2716 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Istenem és Mesterem! Szolgád vagyok, és a Te szolgád fia. Ím, felkeltem én kerevetemről e hajnali órán, mikor egyedüliséged Napcsillaga világlott elő akaratod Hajnalpontjából, és ragyogta be az egész világot, miként ez elrendeltetett Parancsolatod Könyveiben.
@@ -9,5 +10,3 @@ Dicséret Néked, ó, Istenem, hogy megismerésed fényének ragyogására ébre
 Áldd meg, ó, Uram, én Istenem, Azt, Kit legnagyszerűbb Címeid fölé helyeztél, és Ki által elválasztottad az istenfélőket a gonoszoktól, és kegyesen segíts nékünk, hogy azt cselekedjük, amit szeretsz és kívánsz. Áldd meg továbbá, ó, Istenem, azokat, Kik Szavaid és Betűid, és azokat, kik arcukat Feléd fordították, és a Te orcád felé tekintenek és figyelmeznek Hívásodra.
 
 Valóban, Te vagy minden ember Ura és Királya, és hatalmad van minden dolgok fölött.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5139 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *"Barangsiapa yang mengadakan perjalanan ke berbagai daerah untuk Anugerah Terbesar biarlah ia membaca permohonan ini di gunung, di padang pasir, di daratan dan di lautan".
@@ -13,5 +14,3 @@ Melalui kurnia-Mu yang maha besar mereka menjadi bintang cemerlang di ufuk bimbi
 
 *"Demi kebenaran Tuhan, jika seseorang sendirian bangkit atas nama Bahá
 dan mengenakan perisai cinta-Nya, maka Yang Maha Kuasa akan membuatnya menang meskipun kekuatan bumi dan langit berbaris melawannya" . -Bahá’u’lláh
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9979 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *Kitáb-i-Aqdasimi manna nalunaarneqarpoq: "Peqqusimavatsigit qinusaqqullusi inersimassutsillu aallartinnerani [15-inik ukioqalernermi] iisinnginniartaqqullusi; tamanna Guutimit Naalakkassinnit siulissilu Naalagaannit peqqussutaavoq. . . . Kikkut angalasut, napparsimasut, naartusut imaluunniit milutsitsisut, iisinnginniarnermik qilersugaanngillat. . . . Seqernup nuineranit tarrinneranut nerisassat imigassallu pinaveersaarsigik mianersuutigisiullu pilerisunnerup saammaannermik Atuakkami aalajangersimasumi taassuminnga arsaanngimmasi.” 
@@ -31,5 +32,3 @@ Qinnuigaakkit Illit, Guutiga-aa, Kiinnavit qaammanera Ilinnut qanittut Peqqussut
 Qinnuigaakkit Illit, Guutiga-aa, Atikkut Illit asasavit torlulaarutiginninnerisigut Ilinnullu kipisasut anersaarulunnerisigut tusarnaarsimasutit, Ilinnullu qanittut nuannarinnillutik torlulaartarnerisigut, Ilinnut tunniusimasut kappialaataasigut, neriuumminnillu Ilinnut tutsitsisimasut kissaataannik, kipisanerminnilu naammassisitaasukkut, Illit piviusunngortitsisimanikkut, Saammaannikkut Tunissutikkullu aammalu Atikkut isumakkeerfiginninnerup imarsua Kiinnavit saani qaputtunngorsimasoq, Isumassuingaarnerpillu nuiai Illit kiffannut siallilersimasutigut, kimulluunniit allaqqullugu Ilinnut saassimasumut Illillu maleruaqqusat malillugu iisinnginniarnermik naalassimasumut, akissarsiassaq taakkununnga Illit akuersinerit aatsaat malillugu oqaluttunut aammalu pigisaminnik tamanik asiginnaasinnut Illit aqqutinni aammalu Ilinnut asanninnerminni.
 
 Qinnuigaakkit Illit, Naalagara-aa, Ilikkut namminikkut Illillu nalunaaqqutikkut Illillu nalunaajaatikkut ersarissukkut aammalu Illit Kusanassutsivit Ulluata ulloriaagut akisuguttumik qaamasukkut aammalu Illit Avalequtikkut, qaangiisimanerit Illit inatsisinnik iperaanaveersaarsimasinni aammalu Illit Atuagaatinni maleruaqqusanik naalassimasunut piiaqqullugit. Isigaarma, Guutiga-aa, Illit Aqqit, Tamanit Illernarnerpaaq, Tamanit Qaammarinnerpaaq, Tamanit Pissaaneqarnerpaaq, Tamanit Kusanarnerpaaq, Tamanit Nersornarnerpaaq, Tamanit Nuannernerpaaq aalajangiussimagiga, atisavillu mersorneranut, tamarmik nunarsuarmi maani takkuttussamilu katersuuffiannut peqataasunga.
-
--- Bahá'u'lláh

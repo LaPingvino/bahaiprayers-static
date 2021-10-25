@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7387 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Bogiem, który słucha modlitw i na modlitwy odpowiada!
@@ -13,5 +14,3 @@ Proszę Cię także na słodkie deszcze Twoich łask i fale oceanu Twojej przych
 Na Twoją wszechwładzę, o Ty, któryś jest wysławiany w sercach ludzi! Zwróciłem się ku Tobie, wyzbywszy się własnej woli i pragnień, aby Twoja święta wola i zadowolenie panowały we mnie i kierowały mną wedle tego, co zostało mi przeznaczone piórem Twoich odwiecznych wyroków. Ten sługa, o Panie, choć bezradny, zwraca się ku Słońcu Twojej Mocy, choć poniżony, spieszy do Świtu Chwały, choć w potrzebie, łaknie Oceanu Twojej Łaski. Błagam Cię na Twoją życzliwość i szczodrobliwość, abyś go nie odprawiał.
     
 Tyś zaprawdę jest Wszechmogącym, Wybaczającym, Współczującym.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7462 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Bogiem!
@@ -9,5 +10,3 @@ O Panie, mój Boże, mój Umiłowany! Oto są Twoi słudzy, którzy usłyszeli T
 Panie! Jesteśmy słabi – wzmocnij nas, abyśmy mogli rozpraszać wonie Twojej Świętości; biedni – wzbogać nas ze skarbnic swojej Boskiej Jedności; nadzy – okryj nas szatą swej szczodrości; grzeszni – przebacz nam nasze grzechy dzięki swojej łasce, swoim względom i swemu odpuszczeniu. Tyś jest zaprawdę Wspierającym, Pomagającym, Łaskawym, Potężnym, Mocnym.
     
 Chwała chwał spoczywa na tych, którzy są stali i mocni.
-
--- Abdu'l-Bahá

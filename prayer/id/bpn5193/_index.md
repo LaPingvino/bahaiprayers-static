@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5193 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Terpujilah Engkau, ya Tuhanku! Bagaimanakah aku dapat bersyukur kepada-Mu karena Engkau telah mengkhususkan daku dan memilih daku di atas semua hamba-hamba-Mu untuk menyatakan Diri-Mu ketika semua telah berpaling dari keelokan-Mu! Aku naik saksi, ya Tuhanku, bahwa seandainya aku diberi seribu kehidupan oleh-Mu dan mempersembahkan semuanya itu di Jalan-Mu, aku masih tetap gagal membalas pemberian-pemberian yang paling kecil pun yang telah Engkau anugerahkan kepadaku melalui rahmat-Mu.
@@ -10,5 +11,3 @@ Sesungguhnya, Engkaulah Penolong Dalam Bahaya, Yang Berdiri Sendiri.
 *"Berdermawanlah dalam kemakmuran dan bersyukurlah dalam kesukaran".
 *"Hakikat kemurahan hati bagi seorang hamba adalah menghitung kembali rahmat-rahmat Tuhannya dan bersyukur kepada-Nya pada setiap waktu dan dalam segala keadaan". - Bahá’u’lláh
 *"Apakah engkau menyadari betapa banyak engkau harus bersyukur atas berkat-Nya? Seandainya engkau berterimakasih kepada-Nya seribu kali dengan setiap napas, itu pun tidak akan cukup..." - ‘Abdu’l-Bahá
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6137 in Euskara'
+author = 'Bahá'u'lláh'
 tags = ['lang-eu', 'bpn-unsorted']
 +++
 Zeure betikotasunezko ur garden eta gozoetatik edaten emaidazu,ene Jauna,
@@ -19,5 +20,3 @@ Zeure hilezinezko baratzean,Zeure arpegiaren aurrean betirako bizitzen utzi ezad
 niganako errukior zaren Horrek!
 Zeure ontasun maitakorrezko zerurantz jaso nazazu,ene Bizkortzaile Horrek,eta Zeure bidargiko Eguzkirantz eroan nazazu,Zeureganatzen nauzun Horrek! Zeure gogo ikusezinaren agerraldietara deitu erakutsiko duzun Zeure edertasunaren lurrin muinera itzultzen utzi ezadazu, neure Jainkoa Zaitudan Horrek!
 Nahi duzuna egiteko Ahaltsua zara Zu,benetan Goralduena, Aintzaguztiduna, Gorengoa.
-
--- Bahá'u'lláh

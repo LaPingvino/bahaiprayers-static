@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8246 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 In the name of God, the Almighty, the Unconstrained!
@@ -15,5 +16,3 @@ Praise be to Thee, O solace of the hearts of the people of Bahá! I testify, O m
 
 *7. A reference to tea.
 *8. Haifa.
-
--- Bahá'u'lláh

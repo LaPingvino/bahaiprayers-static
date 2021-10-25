@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3161 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Geloof sy U Naam, o Here my God! Duisternis het op elke land geval, en die magte van onheil het al die nasies omring. Deur hulle gewaar ek, egter, die prag van U wysheid, en onderskei die luister van die lig van U voorsiening.
@@ -9,5 +10,3 @@ Hulle wat as 't ware deur 'n sluier van U uitgesluit is, het gemeen dat hulle di
 Verheerlik sy U, o my God! Ek smeek U by U Allergrootste Naam, om diegene wat U bemin bymekaar te maak rondom die Wet wat vanaf die welbehae van U wil uitvloei, end dit op hulle te laat daal wat hulle harte verseker.
 
 Magtig is U om te doen wat U behaag. U is, voorwaar, die Hulp in Gevaar, die Selfbestaande.
-
--- Bahá'u'lláh

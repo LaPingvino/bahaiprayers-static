@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7479 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 *„Te codzienne modlitwy obowiązkowe oraz niektóre wybrane, takie jak Długa modlitwa o uzdrowienie czy Tablica Aḥmada zostały obdarzone przez Bahá’u’lláha wyjątkową mocą i znaczeniem i dlatego powinny być uznane za takowe i odmawiane przez wiernych z niezachwianą wiarą i ufnością, że dzięki nim mogą wejść w znacznie bliższą komunię z Bogiem i pełniej utożsamić się z Jego prawami i przykazaniami.”
@@ -39,5 +40,3 @@ Naucz się dobrze tej Tablicy, Aḥmadzie. Recytuj ją w ciągu dni swoich i nie
 Na Boga! Jeśli ten, kto znajdzie się w niedoli lub smutku, przeczyta tę Tablicę z całkowitą szczerością, Bóg rozwieje jego smutek, rozwiąże jego trudności i usunie jego nieszczęścia.
      
 Zaprawdę, On jest Miłosiernym, Litościwym. Chwała niech będzie Bogu, Panu wszystkich światów.
-
--- Bahá'u'lláh

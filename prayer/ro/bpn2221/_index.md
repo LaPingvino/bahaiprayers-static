@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2221 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Cu cât vei întâmpina mai multe greutăţi în lume, cu atât vei deveni mai desăvârşit.
@@ -13,5 +14,3 @@ Cu cât vei ţine mai mult aurul în foc, cu atât acesta va deveni mai pur.
 Cu cât vei ascuţi mai mult oţelul prin şlefuire, cu tât mai bine va tăia.
 
 De aceea, cu cât ai mai multe suferinţe, cu atât devii mai desăvârşit.
-
--- Abdu'l-Bahá

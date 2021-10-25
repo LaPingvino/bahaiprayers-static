@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1577 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 **FARA Á MEÐ ÞESSA BÆN AÐ MORGNI, Á HÁDEGI OG AÐ KVÖLDI
@@ -16,5 +17,3 @@ Bregst Þú ekki, ó Guð minn, vonum þess sem hefur tekið biðjandi fingrum �
 *Síðan setjist hann og segi:
 Ég ber vitni um einingu Þína og einstakleika, að Þú ert Guð og að enginn er Guð nema Þú. Þú hefur vissulega opinberað málstað Þinn, uppfyllt sáttmála Þinn og opnað dyr náðar Þinnar á gátt í augsýn allra sem dvelja á himni og á jörðu. Blessun og friður, heill og dýrð hvíli yfir Þínum elskuðu, sem hver­ful­leiki þessa heims hefur ekki hindrað frá því að leita til Þín og gefið hafa allt sitt í von um að eignast það sem er af Þér. Þú ert í sannleika sá sem ætíð fyrirgefur, hinn örlátasti.
 *(Óski einhver í stað hins langa vers að mæla þessi orð: „Guð ber því vitni að enginn er Guð nema Hann, hjálpin í nauðum, hinn sjálfumnógi“, nægir það. Sömuleiðis myndi það nægja ef hann hefði yfir þessi orð meðan hann situr: „Ég ber vitni um einingu Þína og einstakleika, að Þú ert Guð og að enginn er Guð nema Þú“.)
-
--- Bahá'u'lláh

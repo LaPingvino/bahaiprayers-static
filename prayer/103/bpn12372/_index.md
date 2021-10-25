@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12372 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-103', 'bpn-unsorted']
 +++
 He is God, exalted is He, the Lord of loving-kindness and bounty……
@@ -14,5 +15,3 @@ Lo’u Alii e, ua faataalise atu nei lenei tagata mativa i le Malo o Lou tamaoai
 Lo’u Atua e, ua toe foi atu nei Lou Sui ia te Oe.  Ua tuuina atu ai lava i Lou alofa tunoa ma Lau foaifua o loo tapasa ai Ou malo i le lagi ma le lalolagi, ina ia foai mai i le alofa i Lau tagatamalo fou lenei Au meaalofa ma Lau faaoloaga, atoa ma fua o le laau o Lou alofa tunoa, e leai se isi Atua na o Oe, o le Alofa tunoa, o le Foaifua Silisili, o le Mutimutialofa, o le Foai, o le Faamagalo, o le Tāua, o le Silafia—Uma.
 Lo’u Alii e, ou te molimau atu, na faatonuina e Lau Afio i tagata ia faaaloalo i o latou uso a malo, ma o ia lenei ua alu a’e i Lau Afio ua oo lelei atu ia teOe ma taunuu atu i Lou Faatasi mai.  Ia faia iate ia e tusa ma Lou alofa tunoa ma le foaialofa!  Ona o Lou mamalu, ua ou iloa ai ma le mautinoa o le a le taofia e Lau Afio Oe lava mai le mea na faatonuina e Oe i Au auauna, po o le aveesea foi e Lau Afio lenei tagata o loo pipii atu i le manoa o Lau foaialofa ma ua alu a’e i le Punaaso o Lou tamaoaiga.
 E leai lava se i si Atua na o Oe, o le Tasi, o le Tafatasi, o le Mamana, o le Silafaga Ati, o le Foa’ialofa.
-
--- Bahá'u'lláh

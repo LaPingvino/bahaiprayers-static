@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12484 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-103', 'bpn-unsorted']
 +++
 Lauded be Thy name, o my God and the God of all things…
@@ -11,5 +12,3 @@ Ia vi’ia Lou Suafa lo’u Atua e, ma le Atua o mea uma, i lo’u Pupula ma le 
     Lo’u ali’i e, e leai se tasi mea e aogā mo a’u vaganā Oe, ma o le fa’alatalata i so o se tasi vaganā Oe, e leai se mea ou te maua ai. Ou te ole atu i Lau Afio i le faula’i o Lou tamaoaiga, lea na foa’iina atu ai e Oe mea uma lava vaganā Oe lava, ina ia faitauina a’u fa’atasi ma i latou ua taula’i atu o latou mata ia te Oe, ma tūla’i a’e e auauna atu i Lau Afio.
 
 Lo’u Ali’i e, fa’amagaloina Au auauna tane ma Au auauna fafine.E moni, o Lau Afio o le Fa’amagalo—Fa’avavau, o le Mutimutialofa Silisili.
-
--- Bahá'u'lláh

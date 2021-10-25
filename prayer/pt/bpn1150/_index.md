@@ -1,10 +1,9 @@
 +++
 title = 'Prayer bpn1150 in Português (BR)'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Vês-me, ó meu Deus, prostrado em submissão, humilde ante os Teus mandamentos, submisso ante a Tua soberania, estremecendo frente ao poder de Teu domínio, fugindo de Tua ira, suplicando Tua graça, confiando no Teu perdão e trémulo de temor ante a Tua fúria. Imploro-te, com o coração a palpitar, os olhos plenos de lágrimas, a alma anelante e com absoluto desprendimento de tudo, que faças daqueles que Te amam raios de luz através dos Teus reinos e que auxilies os Teus servos eleitos a exaltarem a Tua Palavra, para que suas frontes se façam formosas e resplandecentes, os seus corações fiquem repletos de mistérios, e toda a alma se livre do fardo dos seus pecados. Protege-os então, do agressor, daquele que se tornou um blasfemo e imprudente perpetrador de iniquidades.
 Ó meu Senhor! Em verdade, aqueles que Te amam estão sequiosos; guia-os ao manancial da bondade e da graça. Verdadeiramente, têm fome; faze descer para eles o Teu banquete celestial. Em verdade, estão despojados; adorna-os com as vestes do conhecimento e do saber.
 Eles são heróis, ó meu Senhor; conduze-os ao campo de batalha. São dos que guiam; fá-los clamar com argumentos e provas. Servos dedicados é o que são; faze com que ofereçam a todos o cálice a transbordar com o vinho da certeza. Ó meu Deus! Torna-os cantores que formam um coral em belos jardins, leões que repousam nos bosques, e baleias a imergirem no vasto oceano.
 Verdadeiramente, és Aquele de graça abundante. Nenhum outro Deus há a não ser Tu, o Grande, o Poderoso, o Dispensador de dádivas.
-
--- Abdu'l-Bahá

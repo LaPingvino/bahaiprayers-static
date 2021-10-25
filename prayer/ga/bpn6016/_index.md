@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6016 in Irish'
+author = 'Bahá'u'lláh'
 tags = ['lang-ga', 'bpn-unsorted']
 +++
 ##Blessed is the Spot
@@ -12,5 +13,3 @@ agus an gleann, agus an tír,
 agus an mhuir, agus an t-oileán,
 agus an móinéar inar tráchtadh ar aimn Dé
 agus inar móradh a ghlóir.
-
--- Bahá'u'lláh

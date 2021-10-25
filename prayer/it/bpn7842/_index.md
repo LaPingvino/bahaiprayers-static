@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7842 in Italiano'
+author = 'Abdu'l-Bahá'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 ##RIVELATA AI BAHÁ’Í DEL CANADA
@@ -9,5 +10,3 @@ O  Dio, mio Dio! Tu vedi questa debole creature che invoca la forza celestiale, 
 O Signore! Non ho altro aiuto che Te, altro rifugio che Te, altro sostegno fuorché Te. Aiutami con i Tuoi angeli a diffondere le Tue sante fragranze e a propagare i Tuoi insegnamenti in altri paesi fra gli eletti del Tuo popolo.
 O mio Signore! Fa’ ch’io mi distacchi da tutto tranne Te, che mi aggrappi saldamente al-l’orlo della Tua munificenza, che mi dedichi completamente alla Tua Fede, che rimanga saldo e fermo nel Tuo amore e osservi ciò che Tu hai prescritto nel Tuo Libro.
 In verità, Tu sei il Forte, il Possente, l’Onnipotente.
-
--- Abdu'l-Bahá

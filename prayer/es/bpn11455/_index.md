@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11455 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Se recita una vez cada veinticuatro horas.
@@ -64,5 +65,3 @@ Alabado seas, oh nuestro Dios, por cuanto has hecho descender sobre nosotros aqu
 *Que luego levante la cabeza, se siente y diga:
 
 Atestiguo, oh mi Dios, lo que han atestiguado Tus Elegidos, y reconozco lo que han reconocido los moradores del altísimo Paraíso y aquellos que han girado alrededor de Tu imponente Trono. ¡Los reinos de la tierra y el cielo son Tuyos, oh Señor de los mundos!
-
--- Bahá'u'lláh

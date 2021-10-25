@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11836 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Sa’ant Dayung)
@@ -8,5 +9,3 @@ Dayung tih monam, O Topa ku, iyoh mbok molot geh ndu ribua adung Pu’unt pimini
 Pilaon onak dayung tih, tilanan kedaulatan Ingan bia tulut rinduk Ingan, O Topa ku duoh Buak Otin ku pakai pakaian inyua param Ingan duoh piminian Ingan, bia nai odak dayung tih buak-gogah sok sakil pirasie Ingan duoh pingodah Ingan. Ngirawan iyoh, duoh lagi, dek sok setiap pinusah duoh onam, sok sua dek monam duoh tiboie, bia sok oni sija dek pama-pama pangisisil tudu Ingan. 
 
 Ingan, daang dek sibonar-eh, dek bigatung simomu sok sua dibokon jok-eh Odop Ingan. Ingan leh, totap, dek Pinoduh, dek Paling-Pinyukup, dek Paliara, dek Selalu-Pingapunt, dek Paling Masik.
-
--- Bahá'u'lláh

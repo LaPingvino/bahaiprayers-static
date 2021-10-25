@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11454 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Se recita diariamente, por la mañana, a mediodía y al atardecer
@@ -29,5 +30,3 @@ Dios atestigua que no hay otro Dios sino Él. Suyos son los reinos de la Revelac
 Doy testimonio de Tu unidad y Tu unicidad, y de que Tú eres Dios y no hay otro Dios más que Tú. Verdaderamente, has revelado Tu Causa, has cumplido Tu Alianza y has abierto de par en par la puerta de Tu gracia a todos los que habitan en el cielo y en la tierra. Bendiciones y paz, salutación y gloria sean con Tus amados, a quienes ni los cambios ni los azares del mundo han podido disuadir de volverse hacia Ti, quienes todo lo han dado con la esperanza de obtener lo que está junto a Ti. Tú eres, en verdad, Quien siempre perdona, el Todogeneroso.
 
 *(Si alguien recitara, en lugar del versículo largo, estas palabras: «Dios atestigua que no hay otro Dios sino Él, Quien ayuda en el peligro, Quien subsiste por Sí mismo», sería suficiente. Asimismo, bastaría si, estando sentado, recitara las siguientes palabras: «Doy testimonio de Tu unidad y Tu unicidad, y de que Tú eres Dios y no hay otro Dios sino Tú»).
-
--- Bahá'u'lláh

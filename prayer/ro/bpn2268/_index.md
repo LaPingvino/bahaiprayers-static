@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2268 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Tu Dumnezeule neasemuit! O, Tu Stăpâne al Împărăţiei! Aceste suflete sunt armia Ta cerească. Ajută-le, şi cu cohortele Adunării Supreme, fă-le victorioase, astfel încât fiecare să devină asemeni unui regiment şi să cucerească aceste ţări prin iubirea faţă de Dumnezeu şi lumina divinelor învăţături.
@@ -7,5 +8,3 @@ O, Tu Dumnezeule neasemuit! O, Tu Stăpâne al Împărăţiei! Aceste suflete su
 O, Dumnezeule! Fii Tu sprijinul şi ajutorul lor, şi în pustie, în munte, în vale, în codrii, în câmpie şi pe mări, fii Tu confidentul lor, pentru ca ei să poată vesti, prin puterea Împărăţiei şi adierea Sfântului Spirit.
 
 Cu adevărat, Tu eşti Cel Puternic, Cel Tare, Cel Omnipotent şi Tu eşti Cel ce Aude şi Cel ce Vede.
-
--- Abdu'l-Bahá

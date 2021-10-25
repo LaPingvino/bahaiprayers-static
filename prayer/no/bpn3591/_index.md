@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3591 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 De innskutte dager, fra og med 26. februar til og med 1. mars, bør være en tid viet forberedelse til fasten, en gjestfrihetens, nestekjærlighetens og gavenes tid.
@@ -15,5 +16,3 @@ Jeg bønnfaller deg, o du som er kongenes Konge og har medlidenhet med de undert
  
 Du er i sannhet den allmektige, den allvitende, den best underrettede.
 *(*) Ha-dagene, innskutte dager.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2668 in Magyar'
+author = 'Abdu'l-Bahá'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ő az Isten!
@@ -9,5 +10,3 @@ tags = ['lang-hu', 'bpn-unsorted']
 
 *[1 Korán 51:56]
  *[2 Korán 55:19-22]
-
--- Abdu'l-Bahá

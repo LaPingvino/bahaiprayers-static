@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn13024 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-114', 'bpn-unsorted']
 +++
 *Ya eia, Baha'i nga ik tengpi atenga wingti e wamp pora tek rakdok molk wei.  Wamp on e angtinangti molk ken wamp tenta ti ent wanka, wamp we pora angelek molk kumtei.  Wamp kolom e amp dam, ya ik mong kägl “nemnga kentmant wä enga kangem” e kelken “nemnga kentmant amp enga bäglam kentamant ampe” i nei.
@@ -33,5 +34,3 @@ Ten pora kopa Anatu ken aenge nenemon.(19)
 Alláh-u-Abhá!
 
 Ten pora kopa Anatu ken raka nemp moromon.(19)
-
--- Bahá'u'lláh

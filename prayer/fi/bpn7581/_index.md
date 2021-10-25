@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7581 in Suomi'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Ylistys ja kunnia olkoon Sinun, oi Herra minun Jumalani! 
@@ -7,5 +8,3 @@ Tämä on valiotaimi, jonka olet istuttanut rakkautesi niityille ja jota olet ra
 Oi Herra! Tee tästä taimesta vehreä, veres ja kukoistava erityisen anteliaisuutesi ja suosiosi vuodatuksilla, joilla olet täyttänyt pyhyyden pyhätöt ikuisessa valtakunnassasi ja koristanut ykseyden olemukset jälleenyhdistymisen kentällä.  
 Oi Herra! Auta häntä näkymättömän valtakuntasi vahvistavalla armolla, tue häntä palvelijoittesi silmiltä kätketyin joukoin ja suo hänelle vakaa sija läheisyydessäsi. Kirvoita hänen kielensä mainitsemaan Sinua ja ilahduta hänen sydäntänsä ylistämään Sinua. Valaise hänen kasvonsa kuningaskunnassasi, ole hänelle suosiollinen taivaan valtakunnassa ja armollisesti vahvista häntä asiasi palveluksessa.
 Sinä olet Kaikkivoimainen, Kaikkein kirkkain, Kaikkivaltias.
-
--- Abdu'l-Bahá

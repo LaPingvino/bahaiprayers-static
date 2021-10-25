@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12492 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O Thou forgiving God! These servants are turning to Thy kingdom and seeking Thy grace and bounty.
@@ -13,5 +14,3 @@ O Lau Afio o le Atua fa’amagalo! O au auauna nei ua liliu atu i Lou malō ma 
           Le Ali’i e! Foa’i mai Lau Fesoasoani mutimutialofa ma le fa’amautuūga i luga o lenei malō. O lo’o ta’oto lenei atunu’u i lalo ifo o le ata o Lau fa’amalumaluga ma Lau puipuiga, ma o nei tagata o lo’o i totonu o Lau galuega. Le Ali’i e, ia tu’uina i luga o i latou Lau foa’ifua fa’alelagi atoa ma le foa’ialofa o Lou alofa tunoa ma le agalelei tele atoa ma le tamāo’āiga. Fa’apologaina feutaga’ina a lenei malō ina ia taofi mau atu i le fa’amamaluina, ma mafai ona sao atu ma taliaina i totonu o Lou malo.
 
      O Lau Afio o le Mamana Uma, o le Malosi, o le Alofa Mutimutivale, ma o Lau Afio lava o le Foa’ifua, o le Agalelei, o le Ali’i o le alofa tunoa agalelei.
-
--- Abdu'l-Bahá

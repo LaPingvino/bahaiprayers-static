@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4532 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Sa Ngalan ng Diyos, ang Napakatanda, ang Pinakadakila.
@@ -105,5 +106,3 @@ Tunay na narinig Ko ang Iyong Tawag, O Luwalhati sa Lahat na Minamahal; at ngayo
 O ‘Alí-Akbar, pasalamatan ang iyong Panginoon sa Tabletang ito na kung saan ay malalanghap mo ang halimuyak ng Aking kaamuan, at malalaman kung ano ang sumapit sa Amin sa landas ng Diyos, ang Sinasamba ng lahat ng mga daigdig.
 
 Kung babasahin at pagninilay-nilayan ito ng lahat ng mga tagapaglingkod, magniningas sa kanilang mga ugat ang isang apoy na magpapaliyab sa mga daigdig.
-
--- Bahá'u'lláh

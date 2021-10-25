@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn676 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 *Wer immer dieses Gebet demütig und inbrünstig spricht, wird das Herz dieses Dieners mit Freude und Glück erfüllen: Es wird sein, als begegne er Ihm von Angesicht zu Angesicht.Er ist der Allherrliche!
@@ -10,5 +11,3 @@ Mit diesem Gebet ruft Dein Diener zu Dir im Morgengrauen und zur Nachtzeit. Erf�
 Du bist der Schenkende, der Mitleidige, der Allgütige, der Gnadenreiche, der Barmherzige, der Erbarmer.
 
 *Dieses von Abdu’l-Baha offenbarte Gebet wird an Seinem Schrein gelesen. Es wird auch als privates Gebet gebraucht.
-
--- Bahá'u'lláh

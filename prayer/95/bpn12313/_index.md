@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12313 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *Ne fakaasi ki Bahá’ís o te United States and Canada  
@@ -8,5 +9,3 @@ O te Atua, toku Atua!  E lavea mai ne Koe au e ufi kae fiafai ki Tou maalo gali,
 O te Aliki! Fakamaalosi mai a toku tua, ke mafai ne au o tavini fakapalele a toku maalosi kia Koe, kae sa liakina mai au kia au loa, i koga-fenua konei e seai ne tino e iloa ne au kae se seai soku aoga. 
 O te Aliki!  Talia mai au ke sautala mo Koe i toku noga e seai lele ne tino, kae ke fai Koe mo toku taugasoa i fenua kese konei.  
 E tonu, a Koe ko te Fakammau o so se tino e manako Koe ki ei i mea ko la e manako Koe ki ei, kae e tonu, a Koe ko te MaalosiKatoatoa, ko te Tafasili i te Maluga.
-
--- Abdu'l-Bahá

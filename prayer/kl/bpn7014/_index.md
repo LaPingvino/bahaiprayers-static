@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7014 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Ilisimanngilara, Guutiga-aa, Inneq sunaanersoq Illit Nunanni ikissimasat. Nunarsuup taassuma akisunnera assersinnaanngilaa, erngulluunniit ikumanera qamissinnaanagu. Nunarsuup innuttaasa Taassuma pissaanera qanoq ilisukkulluunniit akiorsinnaanngilaat. Tassunga qanillisumut, sakkortungaarneranillu tusarsimasumut pilluaqqusaaneq annertoqaaq.
@@ -9,5 +10,3 @@ Ilaannik, Guutiga-aa, Illit naakkinnissutsit nukittortitsisoq aqqutigalugu qanil
 Qinnuigaakkit, Naalagara-aa, Innerup massuma pinngortitaanerup nunarsuaani naaralalluni ikualaneratigut, assiaqutit Ataqqinangaassutsivit issiavissaarsuata saavanut anngunnissannut Isaarissavillu matuata eqqaani qeqqinnissannut akornutaasimasut peeqqullugit. Naalagara-aa, Illit Atuakkanni ajunngitsoq sunaluunniit saqqummiussat uannut peqqujuk, Saammaannerpillu paaqqinninneranik ungasissuutinnangatoq.
 
 Illit iluarisannik sumilluunniit pinissamik Pissaaneqarputit. Illimmi ilumut Tassaavutit Tamanut Pissaanilik, Tamanik tukkunerpaaq.
-
--- Bahá'u'lláh

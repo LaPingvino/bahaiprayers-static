@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6991 in Fiji'
+author = 'Bahá'u'lláh'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 #NA I MATAI NI SIGA NI DUA NA YABAKI VAKA-BAHÁ’Í
@@ -15,5 +16,3 @@ Sa i Kemuni ga e na gauna sa laveti kina na Nomuni kuila, ka volai kotu kina vak
 O Koya na Tabamuni kei ira kece era dau Nomuni i tokani, O i Kemuni na noqu Turaga, era sa tinia e na siga e daidai na nodra lolo, ni oti na nodra vakamuria voli mai e na lomanibai ni Nomuni valenilewa, me vaka na nodra sasaga me ra vakayalomarautaki Kemuni. Ni lewa mada Vua, kei ira kece tale ga, era curuma rawa na Nomuni itikotiko e na veisiga sa oti oqo na veika vinaka kece O ni sa vota tu me vaka sa tu e na Nomuni iVola. Solia gona, vei ira, na veika e na vakasaututaki ira, e na bula oqo, kei na bula e sa bera mai.
 
 Sa i Kemuni, e dina, na Vu ni Kilaka, na Vu ni Vuku.
-
--- Bahá'u'lláh

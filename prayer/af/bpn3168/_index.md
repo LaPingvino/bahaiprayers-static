@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3168 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Ek gee lof aan U, o my God, dat U my uit my slaap wakker gemaak het, en my ná my verdwyning voortgebring het, en my uit my slaap opgehef het. Ek het vanoggend ontwaak met my gesig na die luister van die Dagster van U Openbaring gerig. Waardeur die hemele van U mag en U majesteit verlig is, erken U tekens, glo in U Boek, en hou vas aan U koord.
@@ -11,5 +12,3 @@ Beskik U vir my deur U mees verhewe Pen, o my Here, die goeie van hierdie wêrel
 U is Hy Wat deur Sy gebod vernedering in glorie verander, en swakheid in sterkte, en magteloosheid in mag, en vrees in kalmte, en twyfel in sekerheid. Geen God is daar behalwe U, die Magtige, die Liefdadige.
 
 U stel niemand teleur wat U gesoek het nie, nòg hou U terug van U iemand wat U begeer. Beskik U dit vir my wat die hemel van U vrygewigheid en die oseaan van U mildheid betaam. U is, voorwaar, die Almagtige, die Kragtigste.
-
--- Bahá'u'lláh

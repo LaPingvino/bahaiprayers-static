@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5216 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Loh Karmel 
@@ -13,5 +14,3 @@ mencintai tempat yang telah dijadikan tempat duduk takhta-Nya, tempat di mana la
 Maha Sucilah Raja sekalian umat manusia, yang apabila menyebut nama-Nya, semua atom bumi telah digetarkan, dan Lidah Kebesaran telah di-gerakkan untuk membukakan apa yang telah diselubungi dalam ilmu-Nya dan tersembunyi di dalam khazanah kekuasaan-Nya. Sesungguhnya, Dialah penguasa segala yang ada di langit dan segala yang ada di bumi melalui kekuatan nama-Nya, Yang Maha Kuasa, Yang Maha Kuat, Yang Maha Luhur.
 
 *"Inilah hari tatkala Ia yang bercakap-cakap dengan Tuhan telah mencapai cahaya dari Kepurbaan Zaman, dan meneguk air murni perpaduan kembali dari Cawan yang telah menyebabkan lautan-lautan bergelombang. Katakanlah: Demi Allah Yang Maha Benar! Sinai sedang berputar mengelilingi Tempat-terbit Wahyu, sedangkan dari puncak-puncak Kerajaan, Suara Ruh'u'llah sedang terdengar mengumumkan: "Bergeraklah engkau, wahai orang-orang sombong di bumi, dan bersegeralah engkau kepada-Nya.' Pada hari ini, Karmel bergegas-gegas dalam pemujaan dengan kerinduan untuk mencapai istana-Nya, sedangkan dari inti Sahyun telah datang seruan: 'Janjinya telah terpenuhi. Apa yang telah diumumkan dalam Loh-loh Allah, Yang Maha Luhur, Yang Maha Kuasa, Sang Kekasih, telah dijelmakan.' "
-
--- Bahá'u'lláh

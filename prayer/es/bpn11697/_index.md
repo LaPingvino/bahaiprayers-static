@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11697 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Esta Tabla, revelada por Bahá’u’lláh, se lee en los Santuarios de Bahá’u’lláh y del Báb. También se lee con frecuencia al conmemorar Sus aniversarios.
@@ -11,5 +12,3 @@ Exhala, entonces, sobre mí, oh mi Dios y mi Bienamado, de la diestra de Tu mise
 El recuerdo de Dios y Su alabanza, y la gloria de Dios y Su esplendor descansen sobre Ti, oh Tú que eres Su belleza. Atestiguo que el ojo de la creación nunca ha contemplado a nadie tan agraviado como Tú. Tú estuviste todos los días de Tu vida sumido en un océano de tribulaciones. En cierta ocasión, estuviste con cadenas y grillos; en otra, fuiste amenazado por la espada de Tus enemigos. Sin embargo, a pesar de todo esto, ordenaste que todos observaran lo que Te había sido prescrito por Aquel que es el Omnisciente, el Sapientísimo.
 ¡Que mi espíritu sea sacrificado por los agravios que Tú sufriste y mi alma sirva de redención por las adversidades que Tú soportaste! Suplico a Dios, por Ti y por aquellos cuyos rostros han sido iluminados por los resplandores de la luz de Tu semblante y que, por amor a Ti, han observado todo lo que les ha sido ordenado, que levante los velos que se han interpuesto entre Tú y Tus criaturas, y que me provea con el bien de este mundo y del mundo venidero. Tú eres, en verdad, el Todopoderoso, el Exaltadísimo, el Todoglorioso, Quien siempre perdona, el Más Compasivo.
 Bendice, oh Señor, mi Dios, el divino Árbol del Loto, y sus hojas, y sus vástagos, y sus ramas, y sus tallos y sus renuevos, tanto tiempo como duren Tus muy excelentes títulos y perduren Tus muy augustos atributos. Protégelo, pues, de la maldad del agresor y de las huestes de la tiranía. Tú, en verdad, eres el Todopoderoso, el Más Potente. Bendice también, oh Señor, mi Dios, a Tus siervos y a Tus siervas que han alcanzado Tu presencia. Tú eres, verdaderamente, el Todogeneroso, Cuya gracia es infinita. No hay Dios sino Tú, Quien siempre perdona, el Más Generoso.
-
--- Bahá'u'lláh

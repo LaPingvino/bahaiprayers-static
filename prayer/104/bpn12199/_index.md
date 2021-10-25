@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12199 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ##LOH ZIARAH 'ABDU’L-BAHÁ
@@ -19,5 +20,3 @@ Ya Tuhan, Tuhanku! Berikanlah kepadaku kurnia-Mu agar dapat berkhidmat kepada ke
 Dengan doa ini hamba-Mu memanggil-Mu pada waktu fajar dan pada waktu malam. Tunaikanlah hasrat hatinya, Ya Tuhan! Terangilah hatinya, riangkanlah dadanya, nyalakanlah cahayanya, agar dia dapat mengabdi kepada Akidah-Mu dan kepada hamba-hamba-Mu.
 
 Engkau Penganugerah, Yang Mengasihani, Yang Maha Dermawan, Yang Maha Rahim, Yang Maha Pengasih, Yang Penyayang.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10438 in Kiribati'
+author = 'Abdu'l-Bahá'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada 
@@ -9,5 +10,3 @@ Te Atua, Atuau! Ko noorai ngkai e otab¬wanini¬aki nanou ao ni katikaki nakon A
 Te Uea! Kako¬rakora nuukau ao karikai bwa Nna kona ni beku Ibukim ma te nanoko¬rakora, ao tai katukai n ti ngai, ni maroaa ao n aki kon¬ab¬wai n taabo aikai. 
 Te Uea! Kari¬aia bwa Nna ireken¬rao ma Ngkoe n tain maroaau, ao riiki bwa Raou n taabo aika a ia-nena aikai.
 Ni koaua, bon Ngkoe te Tia kam¬a¬toaia naake Ko bon taku bwa Ko nano irouia ake ko bon tan¬giria ao ni koaua, bon Ngkoe te Ko¬rakora, te Maiu i bon Irouna.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7610 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *"Ullut tamaasa pinngitsoorani qinnutigisartakkat allallu immikkut ittut, soorlu Ajorunnaarnissamut Qinnut, Ahmad-imut allakkat, Bahá’u’lláh-mit immikkut pissaanermik pingaassutsimillu tunineqarsimapput, taamatullu akuerineqassallutik uppertunillu tatiginninnermik uppernermillu miserratigineqarsinnaanngitsumik pilimmik atuarneqartassallutik. Taamaalillutik taakku aqqutigalugit Guutimut qaninnerusumik atassuteqarniassagamik, inatsisai maleruaqqusaalu suussusaasigut annerusumik paasinnilluarnerussammata." – Allakkamit Shoghi Effendi sinnerlugu allatamit tigusaq
@@ -33,5 +34,3 @@ Ahmad-iaa, Allakkat uku ilikkarluarniarniakkit. Inuutillutit oqaatigisarniakkit,
 Guuti pillugu! Kialluunniit ajorsaateqangaartup aliasuuteqartulluunniit ilumoorluinnartumik uummateqarluni Allakkat uku atuarpagit, taava Guutip aliasuutaanik oqilisaatissavaa, ajornartorsiutaarutitillugu anniaataalu peersillugit.
 
 Ilumut, Taanna Naakkinnittuuvoq, Misiginneqataasoq. Guuti naalannarsili, silarsuarnut tamanut Naalagaasoq.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11759 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Da sūnan Allah, madawwami, mafi girma. A gaskiya, zūkācen aminnai nā tōyēwa cikin wutar rabuwa: Inā ƙyalƙyalin hasken fuskarka, yā kai abun ƙaunar dūniyōyi?
@@ -51,5 +52,3 @@ Idan an zāro maka takōbi, kada ka jā da bāya: idan an halbō maka kibiya, ka
 Kai zā ka zubda hawāye, kō nī zan zubda? Yā cancanta in yi kūka gaban māsu kārē ka dake ƙalīlan, yā kai tūshen kōke-kōken dūniyōyi!
 Hakīka, ina jin kiranka, yā kai mafi ɗaukaka, abun ƙauna! Yanzu zāfin azāba da wutar kalmarka mai armashi nā haskaka fuskar Bahā. Sai ya gabāci wurin sadaukarwa cikin amāna, yana son kaiwa ga abun da kake sō, yā kai mai shirya dūniyōyi!
 Ya kai Ali Akbar, ka gōdēwa Ubangijinka dōmin wannan allo. Kana iya jin ƙamshin tawālina, kuma ka gāne da rūdānin da muka gabāta bisa hanyar Ubangiji Allah subahānahu wa ta āla, wanda kōwa yake wā ibāda. Bāwan da ya jā, kuma ya yi nazari bisa wannan āyā, wuta nā kunnuwā cikin jījīyar jininsa, da zā ta māmāye dūniyōyi.
-
--- Bahá'u'lláh

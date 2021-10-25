@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5204 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##LOH PENYEMBUHAN PANJANG
@@ -204,5 +205,3 @@ Dan sekali lagi hamba memohon kepada-Mu, demi nama-nama yang terindah ini, demi 
 
 terluhur dan maha mulia ini, dan demi Kenangan-Mu Yang Maha Agung, dan demi Keindahan-Mu yang murni dan tak bernoda, dan demi Cahaya-Mu yang tersembunyi dalam ruangan yang paling tersembunyi dan demi Nama-Mu, yang mengenakan jubah penderitaan setiap pagi dan petang agar melindungi pembawa Loh yang diberkati ini, dan siapa yang mengucapkannya, dan siapa yang menemukannya, dan siapa yang mengelilingi rumah yang di dalamnya Loh ini berada. Kemudian sembuhkanlah oleh-Mu dengan Loh ini setiap orang yang sakit, yang berpenyakit dan yang malang, dari setiap penderitaan dan kesengsaraan, dari setiap kesedihan dan penyakit yang menjijikkan, dan bimbinglah oleh-Mu dengan Loh ini barangsiapa yang meng-inginkan memasuki jalan-jalan bimbingan-Mu dan arah-arah pengampunan dan kurnia-Mu.
 Sesungguhnya, Engkaulah Yang Maha Kuasa, Maha Mencukupi, Sang Penyembuh, Pelindung, Penganu- gerah, Yang Maha Pengasih, Yang Maha Dermawan, Yang Maha Penyayang.
-
--- Bahá'u'lláh

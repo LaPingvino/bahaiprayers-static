@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7437 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Bogiem, wywyższony jest On, Pan potęgi i majestatu!
@@ -27,5 +28,3 @@ We wzniosłej siedzibie wszelka hojność jest Twoja, o Ty, poza którym nie ma 
 W więzieniu wszelka wierność jest Twoja, o Ty, Zsyłający dary, i w niewoli cała wieczność jest Twoja, o Ty, któryś jest wiecznie trwającym Królem! 
      
 Wszelka łaska jest Twoja, o Ty, który jesteś Panem łaski i Władcą łaski, i Królem łaski! Daję świadectwo, że należy Cię wielbić w Twoich poczynaniach, o Ty, Źródło łaski, i być posłusznym Twoim żądaniom, o Ty, Oceanie łaski, Ty, od którego wszelka łaska pochodzi i do którego wszelka łaska powraca!
-
--- Bahá'u'lláh

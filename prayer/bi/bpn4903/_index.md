@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4903 in Vanuatu'
+author = 'Bahá'u'lláh'
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 ##PREA IA I BLONG TALEMAOT EVRI DEI, LONG MONING, LONG  MEDEL  DEI  MO  LONG  NAET
@@ -34,5 +35,3 @@ tags = ['lang-bi', 'bpn-unsorted']
 
 *Mo tu, i oraet nomo sipos, taem we hem i stap sidaon, hem i disaed blong talem tisfala toktok:  
 "Mi talem tru se Yu Yu wan nomo, Yu Yu God, mo i no gat wan narafala God be Yu.”)
-
--- Bahá'u'lláh

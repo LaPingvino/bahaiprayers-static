@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5761 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##TAULES DE VISITACIÓ
@@ -13,5 +14,3 @@ Exhala llavors sobre meu, oh Déu meu i el meu Benamat, de la destra de la Teva 
 El record de Déu i la Seva lloança, la glòria de Déu i la Seva esplendor descansin sobre Teu, oh Tu, qui ets la Seva bellesa! Testimonio que l’ull de la creació mai ha contemplat a ningú tan agreujat com Tu. Tu estigueres tots els dies de la Teva vida immers en un oceà de tribulacions. En certa època estigueres amb cadenes i grillons; en altra fores amenaçat per l’espasa dels Teus enemics. No obstant això, Tu ordenares que tots els homes observessin el què T’havia estat prescrit per Aquell Qui és l’Omniscient, el Tot Savi.
 Que el meu esperit sia sacrificat pel greuges què Tu patires i la meva ànima serveixi de redempció per les adversitats que suportares! Suplico a Déu, per Tu i per aquells els rostres dels quals han estat il·luminats per les resplendors de la llum del Teu semblant i que per amor a Tu han observat tot el què els ha estat ordenat, que separi els vels què s’han interposat entre Tu i les Teves criatures, i que em proveeixi amb el bé d’aquest món i del venidor. Tu ets en veritat el Tot Poderós, el; és Exaltat, el Tot Gloriós, Qui sempre perdona, el Més Compassiu.
 Beneeix Tu, oh Senyor Déu meu, al diví Arbre del Lotus, a llurs fulles als seus brots, a llurs branques, a llurs tiges i a llurs tanys, mentre durin els Teus molt excel·lents títols i perdurin els Teus molt augustos atributs. Protegeix-lo, doncs, del mal de les hosts de la tirania. Tu en veritat, ets el Tot Poderós, el Més Potent. Beneeix també, oh Senyor, Déu meu, als Teus serfs i a les Teves serves què han arribat a Tu. Tu ets veritablement el Munífic, la gràcia del Qual és infinita. No hi ha Déu tret de Tu, Qui sempre perdona, el Més Generós.
-
--- Bahá'u'lláh

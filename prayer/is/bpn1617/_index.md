@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1617 in Íslenska'
+author = 'Abdu'l-Bahá'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *Haft yfir í lok fundar andlega ráðsins:
@@ -7,5 +8,3 @@ tags = ['lang-is', 'bpn-unsorted']
 Ó Drottinn okkar! Við erum veikburða, og Þú ert hinn máttugi og voldugi. Við erum líflaus og Þú ert hinn mikli, lífgefandi andi. Við erum þurfandi, og Þú ert sá sem viðheldur, hinn voldugi.
 Ó Drottinn okkar! Bein augum okkar að mis­kunn­samri ásýnd Þinni, gef okkur fæðu af himn­esku matborði Þínu af ríkulegri náð Þinni, aðstoða okkur með herskörum Þinna æðstu engla og staðfest okkur með fulltingi hinna heilögu í ríki dýrðarinnar.
 Sannlega ert Þú hinn örláti og miskunnsami. Þú ert eigandi mikillar hylli og Þú ert sannlega hinn mildi og náðugi.
-
--- Abdu'l-Bahá

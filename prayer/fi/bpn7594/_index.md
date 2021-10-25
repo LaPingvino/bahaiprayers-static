@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7594 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Hän on Parantaja, Tyydyttäjä, Auttaja, Kaiken anteeksi antava, Kaikkein armeliain.
@@ -49,5 +50,3 @@ Oi Olija, minä vetoan Sinuun, oi Olija!
 Sinä Alati oleva, oi Sinä Olevainen!
 Pyhitetty olet Sinä, oi Jumalani! Rukoilen Sinua anteliaisuutesi kautta, jolla laupeutesi ja armosi portit avattiin selkoselleen ja jolla pyhyytesi temppeli asetettiin ikuisuuden valtaistuimelle, sekä armeliaisuutesi kautta, jolla kutsuit kaikki luodut lahjojesi ja antiesi pöydän ääreen, sekä armosi kautta, jolla Sinä sanallasi "aivan!" omassa itsessäsi vastasit kaikkien taivaassa ja maanpäällä olevien puolesta sillä hetkellä, kun herruutesi ja suuruutesi kävivät ilmi ¬ aamun koitteessa, kun valtiutesi mahti ilmaistiin. Ja edelleen rukoilen minä Sinua näiden kauneimpien nimien kautta, näiden jaloimpien ja ylhäisimpien ominaisuuksien kautta, ja kaikkein ylevöityneimmän  muisteluksesi kautta sekä puhtaan ja tahrattoman kauneutesi kautta sekä kätketyimpään käytävääsi kätketyn valosi kautta sekä koettelemuksen peitteen aamuin ja illoin verhoaman nimesi kautta varjelemaan tämän siunatun muistion haltijaa ja sen lausujaa ja sen esiin ottajaa ja ketä tahansa, joka kulkee sen talon luona, jossa se on. Paranna Sinä sitten sen kautta jokainen sairas, vaivainen ja köyhä kaikista ahdingoista ja vaivoista, kaikista vastenmielisistä kärsimyksistä ja murheista ja johdata Sinä sen avulla jokaista, joka haluaa astua johdatuksesi polulle ja anteeksiantosi ja armosi väylille.
 Sinä olet totisesti Voimakas, Kaikkiriittoisa, Parantava, Varjeleva, Antava, Myötätuntoinen, Kaikkiantelias, Kaikessa armelias.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8269 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Lawh-i-Mawlúd
@@ -23,5 +24,3 @@ Dost thou not witness, O Pen, what a clamour the hypocrites have raised througho
 
 *44.    Cf. Qur’án, súrih 97.
 *45.    Jibt, Manát, and ‘Uzzá are the names of idols worshipped in the days of the pagan Arabs and mentioned in the Qur’án (4:51 and 53:19–20).
-
--- Bahá'u'lláh

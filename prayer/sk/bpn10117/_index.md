@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10117 in Slovensky'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 ##Tabuľka navštívenia,‘Abdu’l¬ Baháa
@@ -13,5 +14,3 @@ Pane! Je Tvojím úbohým a poníženým služobníkom, ktorý Ťa vrúcne pros�
 Ó Pane, môj Bože! Obdar ma Svojou milosťou, aby som mohol slúžiť Tvojim milovaným a posilni ma v Tvojej službe, ožiar moje čelo svetlom uctievania na Svojom dvore svätosti a svetlom modlitby k Tvojmu kráľovstvu veľkosti. Pomôž mi, aby som zabudol na seba pri nebeskom vchode Tvojej brány a pomôž mi, aby som bol na Tvojom svätom nádvorí odpútaný od všetkých vecí. Pane! Daj mi piť z kalicha sebazabudnutia, jeho rúchom ma odej a ponor ma do jeho oceánu. Učiň ma prachom na ceste Svojich milovaných a daj, aby som mohol obetovať svoju dušu za zem, ozdobenú krokmi Tvojich vyvolených na Tvojej ceste, ó Pane Slávy na Výsostiach.
 Touto modlitbou sa k Tebe Tvoj služobník obracia na úsvite i v noci. Splň túžbu jeho srdca, ó Pane! Osvieť jeho srdce, poteš jeho vnútro, zapáľ v ňom svetlo tak, aby mohol slúžiť Tvojej Veci a Tvojim služobníkom.
 Ty si Darca, Súcitný, Najštedrejší, Milostivý, Milosrdný, Zľutovný.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5024 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Kinh Ahmad
@@ -19,5 +20,3 @@ Tự ngươi hãy tin chắc rằng, sự thực ai từ bỏ Đấng Mỹ lệ 
 Hãy học kỹ Bản Kinh này, hỡi Ahmad. Hãy tụng trong những ngày của ngươi và đừng rời bỏ nó. Vì sự thật Thượng Đế đã ấn định cho kẻ đọc kinh này phần thưởng của một trăm người tử đạo và ơn phụng sự trong cả hai thế giới. Chúng Ta hậu ân cho ngươi như thế là bởi lòng từ ái của Chúng Ta, là ơn khoan thứ bởi sự hiện diện của Chúng Ta, để ngươi có thể ở vào hàng ngũ những kẻ tri ân.
 Nhân danh Thượng Đế! Hể ai sầu não phiền muộn mà đọc Kinh này với lòng chân thành tuyệt đối, Thượng Đế sẽ giải trừ phiền muộn, phá hết khó khăn, xóa bỏ hoạn nạn. 
 Sự thực, Ngài là Đấng Khoan dung, Đấng Từ bi. Lành thay Thượng Đế, Đấng Vua của tất cả các thế giới.
-
--- Bahá'u'lláh

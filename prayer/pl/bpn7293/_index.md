@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7293 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O mój Boże! O mój Boże! Zaprawdę, wzywam Cię i błagam u Twego progu, prosząc Cię, aby wszystkie Twoje łaski mogły zstąpić na te dusze. Przeznacz je łasce Twej i prawdzie Twej.
@@ -11,5 +12,3 @@ O Panie! Ty, obdarzony bezgranicznym miłosierdziem! O Panie przebaczenia i odpu
 O Panie Boże! Uczyń nas falami morza, kwiatami ogrodu, zjednoczonymi i zgodnymi dzięki łasce Twojej miłości. O Panie! Otwórz serca znakami swej jedności i uczyń całą ludzkość gwiazdami jaśniejącymi z tej samej wyżyny chwały i doskonałymi owocami rosnącymi na Twym Drzewie życia.
    
 Zaiste, Tyś jest Wszechmocnym, Samoistnym, Dającym, Przebaczającym, Odpuszczającym, Wszechwiedzącym, Jedynym Stwórcą.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7478 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Modlitwę tę należy odmawiać na zakończenie zebrania Zgromadzenia Duchowego.
@@ -11,5 +12,3 @@ O Panie nasz! Jesteśmy słabi, a Tyś jest Mocnym i Potężnym. Jesteśmy bez �
 O Panie nasz! Zwróć nasze twarze ku swemu miłosiernemu obliczu, nakarm nas obfitą łaską ze swego niebiańskiego stołu, wspomóż nas zastępami swoich najznamienitszych aniołów i umocnij nas za pośrednictwem świętych z Królestwa Abhá.
     
 Zaprawdę, Tyś jest Hojnym, Miłosiernym. Ty posiadasz wielkie łaski i zaprawdę, Tyś jest Łagodnym i Życzliwym.
-
--- Abdu'l-Bahá

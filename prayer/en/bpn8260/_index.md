@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8260 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Kitáb-i-‘Ahd
@@ -22,5 +23,3 @@ That which is conducive to the regeneration of the world and the salvation of th
 
 *28.    Qur’án 104:1–2.
 *29.    This translation of the Kitáb-i-‘Ahd was first published in Tablets of Bahá’u’lláh Revealed after the Kitáb-i-Aqdas.
-
--- Bahá'u'lláh

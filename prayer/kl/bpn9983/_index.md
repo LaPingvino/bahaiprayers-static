@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9983 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *(Naw-Ruz, martsip 20-at imaluunniit 21-at, tassaavoq Bahá’í-t ukiuata ulluisa siullersaat)
@@ -13,5 +14,3 @@ Tassaavutit "Illit Suliakkut Unnersiutigineqarit"-mik ilisarnaatip qullarneqarfi
 Taanna, tassaasoq Avalequtit Illillu ilagisatit Naalagara-aa, ullumi maani iisinngiffitsik kipisimavaat Najukkavit eqqaamiuiniissimallutik Ilinnillu nuannaartitisinissaminnik ilungersoreersimallutik. Taamaammat Tassunga taakkununngalu, aammattaaq ulluni makkunani Ilinnut qanillisimasunut Atuakkanni aalajangeriikkatit ajunngitsut tamaasa tunniutikkit. Pilersukkillu taava inuunermi maani inuunerullu tulliani iluaqutis saannik.
 
 Illit ilumut Tassaavutit Tamanik Ilisimannittoq, Tamanut Sianisoq.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7472 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Chwała bądź Tobie, o Panie, Boże mój! Oto są dni, w których nakazałeś wszystkim ludziom zachowywać Post, aby dzięki niemu oczyścili swoje dusze i oswobodzili się z przywiązania do kogokolwiek oprócz Ciebie i aby z ich serc wzniosło się to, co godne jest dworu Twojego majestatu i odpowiednie przed tronem objawienia Twojej jedyności. Spraw, o mój Panie, aby ten post stał się rzeką życiodajnych wód i ukazał przymioty, jakimiś go obdarzył. Z jego pomocą oczyść serca swoich służebników, którym zło tego świata nie przeszkodziło w zwróceniu się ku Twemu Najchwalebniejszemu Imieniu, którzy pozostali niewzruszeni pomimo zgiełku i wrzawy tych, którzy odrzucili Twoje najjaśniejsze znaki towarzyszące nadejściu Twojego Objawiciela, którego Tyś obdarzył swoją wszechwładzą, swoją mocą, swoim majestatem i chwałą. Oto są ci słudzy, którzy, gdy tylko usłyszeli Twoje wołanie, pospieszyli ku Twemu miłosierdziu, i których nie oddaliły od Ciebie ani przemiany, ani przypadki tego świata, ani żadne ludzkie ograniczenia.
@@ -27,5 +28,3 @@ Wywyższyj Tego, o mój Boże, który jest Pierwotnym Punktem, Boskim Misterium,
 Wywyższyj także tych, którzy uwierzyli w Niego i w Jego znaki i zwrócili się ku Niemu, pośród tych, którzy uznali Twoją jedność w Jego ostatnim Objawieniu; Objawieniu, o którym wspominał On w swoich Tablicach i w swoich Księgach, i w swoich Pismach, i we wszystkich cudownych wersetach i drogocennych wypowiedziach, które zostały Mu zesłane. To jest to samo Objawienie, którego przymierze Tyś nakazał Mu ustanowić, zanim On sam ustanowił swoje własne przymierze. On Ten, którego chwałę święcił Bayán, wysławiając Jego doskonałość, dowodząc Jego prawdy, głosząc Jego panowanie i umacniając Jego Sprawę. Błogosławiony jest człowiek, który zwrócił się ku Niemu i wypełniał to, co On nakazał, o Ty, któryś jest Panem świata i Upragnieniem tych, którzy Cię poznali!
      
 Pochwalony bądź, o mój Boże, za to, żeś nam pomógł Go rozpoznać i umiłować. Błagam Cię przeto, na Niego samego i na Tych, którzy są Świtami Twojej Boskości, Oznakami Twojego Panowania, Skarbnicami Twojego Objawienia i Składnicami Twojego natchnienia, abyś pomógł nam służyć Mu i być Mu posłusznymi oraz byś umocnił nas, tak abyśmy stali się pomocnikami Jego Sprawy i pogromcami Jego przeciwników. Tyś mocen jest czynić wszystko, co Tobie miłe. Nie ma innego Boga poza Tobą, Wszechmocnym, Wszechchwalebnym, Tyś jest Tym, którego pomocy szukają wszyscy ludzie!
-
--- Bahá'u'lláh

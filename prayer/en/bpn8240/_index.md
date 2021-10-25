@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8240 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 The day-star of words, dawning above the horizon of the utterance of Him Who is the Lord of all names and attributes, hath, at this most blessed of hours, shone forth in all truth with the splendours of the light of God. The spirit of understanding, flowing from the Pen of the All-Glorious, hath, by virtue of His grace, been conferred upon all created things. The mystery of all mysteries, emerging from behind the veils of concealment, hath, in very truth, been revealed to the righteous, as bidden by God, the Almighty, the Unconstrained.
@@ -38,5 +39,3 @@ As He departed, a cry of sorrow ascended from the garden, and its trees, and lea
 Thus did the Beauty of the All-Glorious establish Himself upon the lofty heights of eternity, inasmuch as His gaze was fixed upon the decree which the Finger of God, the Most Exalted, the Most Glorious, had inscribed upon the blessed and snow-white Tablet. And thus do We relate unto you the account of the day of Our Manifestation and the circumstances of Our banishment by reason of the machinations of such seditious souls as had disbelieved in and joined partners with God, the All-Powerful, the Almighty, the Most Bountiful.
 
 *4. The angel who will sound the trumpet on the Day of Resurrection.
-
--- Bahá'u'lláh

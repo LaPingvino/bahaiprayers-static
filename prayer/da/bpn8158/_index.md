@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8158 in Dansk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Den følgende bøn skal læsesdagligt af lærerne og vennerne.
@@ -13,5 +14,3 @@ Vi vandrer ad Din sti og har ikke noget mål eller håb undtagen udbredelse af D
 O Almægtige! Betragt os med barmhjertighedens blik. Skænk os himmelsk bekræftelse. Skænk os åndepustet fra Din Helligånd, at vi kan blive støttet i Din tjeneste og som strålende stjerner skinne i disse egne med Din ledelses lys.
 
 Sandelig, Du er Den Magtfulde, Den Mægtige, Den Vise og Den Seende.
-
--- Abdu'l-Bahá

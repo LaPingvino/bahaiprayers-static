@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7747 in Kreyol Ayisyen'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Senyè, Bondye mwen ak Fòterès mwen nan soufrans mwen! Defans mwen ak Abri mwen nan difikilte mwen yo! Azil mwen ak Refij mwen lè mwen nan nesesite e Konpayon mwen lè mwen chagren! Soulajman mwen lè mwen nan gran doulè, e Zanmi mwen Ki plen lanmou lè mwen pou kont mwen! Sila a K’ap elimine doulè tristès mwen e Li menm K’ap padone peche mwen yo!
@@ -13,5 +14,3 @@ O Bondye, Bondye mwen! Pa sispann voye sou mwen dous briz padon ak gras Ou yo, e
 Kite mwen repoze nan lonbraj ki anba pwoteksyon zèl Ou yo, e voye sou mwen rega je Ou k’ap bay tout sekirite.
 Libere lang mwen pou li kapab louwe non Ou pami pèp Ou yo, pou pèmèt vwa mwen leve nan gran asanble yo e kite yon inondasyon lwanj pou Ou koule soti nan bouch mwen.
 An verite, se Ou menm Ki Plen Gras, Glorifye a, Pisan an, Sila a Ki Gen Tout Otorite.
-
--- Abdu'l-Bahá

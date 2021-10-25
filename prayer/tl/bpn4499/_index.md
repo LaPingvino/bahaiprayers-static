@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4499 in Filipino'
+author = 'Abdu'l-Bahá'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 *Dalangin na uusalin sa pagtatapos ng pagpupulong ng Spiritual Assembly.
@@ -11,5 +12,3 @@ O aming Panginoon! Kami ay mahina at Ikaw ang Makapangyarihan, ang Malakas. Kami
 O aming Panginoon! Ibaling ang aming mga mukha sa Iyong banal na mukha, pakainin kami sa Iyong makalangit na hapag sa pamamagitan ng Iyong maka-Diyos na biyaya; tulungan kami sa pamamagitan ng mga hukbong Iyong kataas-taasang mga anghel at pagtibayin kami sa pamamagitan ng mga banal sa Kaharian ng ‘Abhá.
 
 Tunay na Ikaw ang Magandang-loob, ang Mahabagin! Ikaw ang Nagmamay-ari ng malaking pagpapala at tunay na Ikaw ang Mapagbigay at Mapagkaloob-biyaya!
-
--- Abdu'l-Bahá

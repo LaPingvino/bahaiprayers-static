@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12977 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 Litimapim Nem bilong Yu, O Bikpela, God bilong mi!  Mi askim strong long dispela Tokaut, em tokaut i bin mekim tudak i kamap lait.  Na em i bin mekim Haus Lotu i kamap, na em i bin raitim Pas Holi, na em i bin mekim Tok Holi i kamap ples klia.  Olsem na mi askim strong long en long salim ol gutpela samting i kam daun long mi wantaim ol lain husat i stap wantaim mi.  Em ol dispela gutpela samting i ken helpim mipela long flai antap long heven bilong bikpela glori bilong Yu, bai ol dispela gutpela samting i ken rausim mak bilong ol kain kain wari tingting o tubel long bel bilong mipela.  Ol dispela kain tingting nogut i bin pasim ol man, husat i save tubel, long kam kamap long tempel bilong wanbel bilong Yu. 
@@ -17,5 +18,3 @@ I am the one, O my Lord, who hath held fast the cord of Thy loving-kindness, and
 These are, O my Lord, the days in which Thou hast bidden Thy servants to observe the fast.  Blessed is he that observeth the fast wholly for Thy sake and with absolute detachment from all things except Thee.  Assist me and assist them, O my Lord, to obey Thee and to keep Thy precepts.  Thou, verily, hast power to do what Thou choosest. 
  
 There is no God but Thee, the All-Knowing, the All-Wise.  All praise be to God, the Lord of all worlds.
-
--- Bahá'u'lláh

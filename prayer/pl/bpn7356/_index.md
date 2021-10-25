@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7356 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Wysławiam Cię, o mój Boże, za to, żeś przebudził mnie ze snu, przywrócił mi świadomość i podniósł mnie z mojego posłania. Obudziłem się tego ranka z twarzą zwróconą w stronę wspaniałości Jutrzenki Twego Objawienia, który oświetlił niebiosa Twojej mocy i Twojego majestatu, uznając Twoje znaki, wierząc w Twoją Księgę i trzymając się mocno Twojej Więzi. 
@@ -11,5 +12,3 @@ Zapisz dla mnie swoim najwznioślejszym Piórem, o mój Panie, dobra tego i przy
 Tyś jest Tym, który swoim rozkazem zmienia poniżenie w chwałę, słabość w siłę, bezsilność w moc, bojaźń w ukojenie, a wątpliwość w pewność. Nie ma innego Boga poza Tobą, Mocnym, Dobroczynnym.
    
 Ty nie zawiedziesz nikogo, kto Cię szuka, ani nie oddalisz tego, kto Ciebie pragnie. Przeznacz dla mnie to, co przystoi niebu Twojej hojności i oceanowi Twoich darów. Tyś zaiste jest Wszechmocnym, Najpotężniejszym.
-
--- Bahá'u'lláh

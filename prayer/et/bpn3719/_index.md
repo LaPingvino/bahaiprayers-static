@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3719 in Eesti'
+author = 'Bahá'u'lláh'
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Tema on Jumal, ülendatud on Tema, armastava headuse ja helduse Issand!
@@ -13,5 +14,3 @@ Oo mu Issand, see vaene on tõesti rutanud Sinu jõukuse Kuningriiki, muulane om
 Oo mu Jumal, Sinu usaldusalune on loovutatud Sulle tagasi. Sinu valdusi maa peal ja taevas ümbritsevale armule ja heldusele sobib, et Sa annaksid sellele äsja vastuvõetule lahkelt oma kingitusi ja ande ning oma armupuu vilju! Sinul on võim toimida nii, nagu Sa soovid. Pole muud Jumalat kui Sina, Armuline, Heldeim, Kaastundlik, Annetaja, Andestaja, Kallis, Kõiketeadja.
 Tunnistan, oo mu Issand, et Sa oled kohustanud inimesi austama nende külalisi, ning tema, kes on nüüd tulnud üles Sinu juurde, on tõesti jõudnud Sinuni ja saavutanud Su läheduse. Talita siis temaga oma armu ja helduse kohaselt! Sinu auhiilguse nimel, ma tean kindlalt, et Sa ei hoia ennast tagasi sellest, mida Sa oled käskinud teha oma teenritel ega hülga teda, kes on klammerdunud Sinu helduse köie külge ja tõusnud Sinu rikkuse Päevaallika juurde.
 Pole muud Jumalat kui Sina, Üks, Ainus, Võimas, Kõiketeadev, Helde.
-
--- Bahá'u'lláh

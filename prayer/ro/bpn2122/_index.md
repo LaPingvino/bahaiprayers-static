@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2122 in România'
+author = 'Báb'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 În Numele lui Dumnezeu, Stăpânul
@@ -22,5 +23,3 @@ Spune: Dumnezeu îmi este de ajuns; El este Cel Ce ţine în mâinile Sale împ�
 Cu adevărat Dumnezeu, veghează asupra tuturor lucrurilor.
 
 Nemăsurat de solemn eşti Tu, o, Doamne! Ocroteşte-ne de ceea ce ne stă înainte şi înapoi, deasupra capetelor noastre, la dreapta, la stânga, sub picioarele noastre, şi pe oricare altă parte unde suntem descoperiţi. Căci cu adevărat, ocrotirea Ta asupra tuturor lucrurilor nu dă niciodată greş.4
-
--- Báb

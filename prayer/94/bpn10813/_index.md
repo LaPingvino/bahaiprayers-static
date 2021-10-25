@@ -1,7 +1,0 @@
-+++
-title = 'Prayer bpn10813 in '
-tags = ['lang-94', 'bpn-unsorted']
-+++
-O Ambuye! Muwalitseni mnyamatayu ndipo mupatseni wolengedwa wosakayu chaulere Chanu.  M’ninkheni iye nzeru, mupatseni mphamvu zoonjezereka pakucha pa m’mawa uliwonse ndipo msungeni mkati mwatchinga la chitetezo Chanu mwakuti apulumutsidwe ku zolakwa, achirimike pakutumikira ntchito Yanu, alangize osokera, atsogoze okhumudwa, amasule a m’ndende ndikudzutsa onyalanyaza, kuti onse adalitsidwe ndi chikumbukiro ndi chitamando Chanu.  Inu Ndinu Wamphamvu ndi Wanyonga.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9335 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Eo amin’ny alon-drano mamerovero ny Mandrakizainao, avelao aho hiala hetaheta, ry Andriamanitro ô, ary mamelà ahy hanandrana amin’ny voan’ny hazon’ny Fisianao, ry Fanantenako ô.
@@ -13,5 +14,3 @@ Eny amin’ny lanitry ny Hatsaram-ponao be fitiavana, asandrato aho, ô Ianao, I
 Manoloana ny fanehoana ny Fanahinao tsy hita maso, meteza hiantso ahy, ô Ianao izay Anton’ny Fisiako ary Faniriako fatratra ary any amin’ny votoatin’ny hanitry ny Hatsaran-tarehinao izay hirinao aseho, ataovy izay hiverenako, ô Ianao, Ilay Andriamanitro!
 
 Manampahefana hanao izay Sitrakao Ianao. Ianao marina tokoa, Ilay Avo Indrindra, Ilay be Voninahitra Indrindra, Ilay Faratampony.
-
--- Bahá'u'lláh

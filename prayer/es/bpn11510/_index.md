@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11510 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Oración larga de curación
@@ -51,5 +52,3 @@ tags = ['lang-es', 'bpn-unsorted']
 ¡Tú, Quien perduras por siempre, oh Tú, el Perdurable!
 ¡Excelso eres Tú, oh mi Dios! Yo Te imploro, por Tu generosidad, por medio de la cual se abrieron de par en par los portales de Tu munificencia y Tu gracia, mediante la cual el Templo de Tu Santidad fue establecido sobre el trono de la eternidad; y por Tu misericordia, por medio de la cual invitaste a todas las cosas creadas a la mesa de Tus dones y Tus dádivas; y por Tu gracia, por medio de la cual respondiste en Tu propio Ser con Tu palabra «¡Sí!» en nombre de todos los que están en el cielo y en la tierra, en la hora en que quedaron reveladas Tu soberanía y Tu grandeza, en la alborada en que se hizo manifiesto el poder de Tu dominio; y, nuevamente, Te imploro, por estos hermosísimos nombres, por estos nobilísimos y muy sublimes atributos, y por Tu muy Exaltado Recuerdo, y por Tu Belleza pura e inmaculada, y por Tu Luz oculta en el pabellón más oculto, y por Tu Nombre, ataviado con el manto de la aflicción cada mañana y cada atardecer, que protejas al portador de esta bendita Tabla, y a quien la recite, y a quien se cruce con ella, y a quien transite por los alrededores de la casa en que esté. Cura, pues, mediante ella a todo enfermo, doliente y pobre de cualquier tribulación y pesar, de toda aflicción y tristeza aborrecibles, y guía mediante ella a quienquiera que desee entrar en las sendas de Tu guía y en los caminos de Tu clemencia y de Tu gracia.
 Tú eres, en verdad, el Poderoso, el Suficiente, el Sanador, el Protector, el Dador, el Compasivo, el Todogeneroso, el Todomisericordioso.
-
--- Bahá'u'lláh

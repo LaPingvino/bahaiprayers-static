@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4718 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış olsun Sənə, Ey Allah, mənim Allahım! Hər dəfə mən Səni zikr etməyə cəsarət edəndə Sənə qarşı işlətdiyim böyük günahlarım və ağır xətalarım mənə mane olur və mən özümün Səndən məhrum olduğumu və Səni zikr etməkdə acız olduğumu görürəm. Lakin Sənin kəramətınə mənim böyük inamım mənim ümidimi yenidən canlandırır və mənimlə iltifatla davranacağına yəqinliyim məni cürətləndirir ki, Səni tərif edim və Sənin malik olduqlarını Səndən rica edim.
@@ -11,5 +12,3 @@ Yalvarıram sənə, Ey müştaq qəlblərin Məhbubu! Sənin Əmrinin Məzhərl�
 Sən o Kəssən ki, qüdrəti əzəldən ədəbiyyətə qədərdir. Heç bir şey Sənin elmindən gizli qala bilməz. Sən həqiqətən, qüdrət Allahı, cəlal və hikmət Allahısan.
 
 Şükrlər olsun Allaha – aləmlərin Rəbbinə!
-
--- Bahá'u'lláh

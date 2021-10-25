@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10256 in Māori'
+author = 'Bahá'u'lláh'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 *(Pānuitia ai tēnei ki ngā Toma o Bahá’u’lláh rāua ko te Báb. Whakamahia ai anō hoki ki Ō Rāua huritau whakamaumahara.) 
@@ -17,5 +18,3 @@ Ko te maumahara ki Te Atua me Tōna aumihi, me te korōria o Te Atua me Tōna ā
 Ko tōku wairua hei whakahere mō nga aupēhitanga ki runga i a Koe, ko tōku wairua ora hei utu mō ngā pēpēhinga i mau i a Koe. Ko tāku inoi ki Te Atua, Māu, mā rātou ō rātou kanohi kua ngiha mai i ngā hahana o te rama o Tōu mata, ā mā te aroha ki a Koe, kua whai i te katoa i tukuna ki a rātou, ki te tango i ngā ārai kei waenga i a Koe me Āu kīrehe, ki te hōmai ki ahau te pai o tēnei ao me te ao kei te haere mai. Ko Koe, tūturu, te Kaharawa, te Tino Kairangi. te Korōria-Katoa, te Poumurunga-Hara i ngā Wā Katoa, te Mākoha Rawa. 
 
 Kia whakapaingia Koe, e te Ariki tōku Atua, te Rākau-Rote Tapu me ōna raurau, me ōna peka, ōna manga, ōna pūnga, ōna rerenga, ki te roa o te pūmau ki Ōu taitara whai hiranga, o te haere tonu a Ōu āhua tū rangatira. Kia tiakina ia mai i te rāwekeweke a te kaiwhakaeke me ngā tini o te aupēhi. Ko Koe, tūturu, te Kaharawa, te Whaikorōria Rawa. Kia whakapaingia Koe, e te Ariki tōku Atua, me Āu pononga, me Āu hawini kua tae atu ki a Koe. Ko Koe tūturu, te Whairawanui-Katoa, Nōu hoki te tohu aroha mutungakore. Kāore he Atua i tua atu i a Koe, te Poumuru-i-te-Hara, te Marere Rawa.
-
--- Bahá'u'lláh

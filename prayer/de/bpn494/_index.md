@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn494 in Deutsch'
+author = 'Abdu'l-Bahá'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Herr, mein Gott, Du mein Hafen in meinem Elend, mein Schild und Schirm in meinem Leid, meine Zuflucht und Freistatt zur Zeit der Not, mein Gefährte in der Einsamkeit! Du mein Trost in meiner Qual, mein liebevoller Freund in meiner Verlassenheit! Du Tilger meiner Sorgenpein, Du Vergeber meiner Sünden!
@@ -13,5 +14,3 @@ O Gott, mein Gott! Halte die sanften Winde Deiner Verzeihung und Deiner Gnade ni
 Herberge mich im Schatten Deiner schützenden Schwingen und lasse Dein allbeschirmendes Auge auf mir ruhen.
 Löse meine Zunge, dass ich Deinen Namen vor Deinem Volk preise, dass sich meine Stimme in großen Versammlungen erhebe und die Flut Deines Lobpreises meinen Lippen entströme.
 Du bist wahrhaftig der Gnädige, der Verherrlichte, der Machtvolle, der Allmächtige.
-
--- Abdu'l-Bahá

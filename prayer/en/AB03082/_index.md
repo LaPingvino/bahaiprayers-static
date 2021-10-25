@@ -1,5 +1,6 @@
 +++
 title = 'Prayer AB03082 in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'AB03082']
 +++
 ##Tablet of Visitation
@@ -16,5 +17,3 @@ Lord!  He is a poor and lowly servant of Thine, enthralled and imploring Thee, c
 O Lord, my God!  Give me Thy grace to serve Thy loved ones, strengthen me in my servitude to Thee, illumine my brow with the light of adoration in Thy court of holiness, and of prayer to Thy kingdom of grandeur.  Help me to be selfless at the heavenly entrance of Thy gate, and aid me to be detached from all things within Thy holy precincts.  Lord!  Give me to drink from the chalice of selflessness; with its robe clothe me, and in its ocean immerse me.  Make me as dust in the pathway of Thy loved ones, and grant that I may offer up my soul for the earth ennobled by the footsteps of Thy chosen ones in Thy path, O Lord of Glory in the Highest.
 With this prayer doth Thy servant call Thee, at dawntide and in the night-season.  Fulfill his heart's desire, O Lord!  Illumine his heart, gladden his bosom, kindle his light, that he may serve Thy Cause and Thy servants.
 Thou art the Bestower, the Pitiful, the Most Bountiful, the Gracious, the Merciful, the Compassionate.
-
--- Abdu'l-Bahá

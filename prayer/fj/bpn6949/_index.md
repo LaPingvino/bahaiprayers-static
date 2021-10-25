@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6949 in Fiji'
+author = 'Bahá'u'lláh'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 #NA MASU VAKAROTI BALAVU
@@ -66,5 +67,3 @@ Mo ni vakacaucautaki, Oi Kemuni na neimami Kalou, ni O ni sa dau vakauta sobu ti
 *Me sa qai tucake, dabe sobu, ka kaya:
 
 Au sa vakadinata, O i Kemuni na noqu Kalou, na veika era sa vakadinadinataka na Nomuni Digitaki, ka vakadinata na veika era sa vakadinata o ira na lewe i Parataisi mai cake kei ira era vakavolivolita na Nomuni iTikotiko cecere. Sa Nomuni na veimatanitu e vuravura kei lomalagi, O i Kemuni na Kalou ni veivuravura kece ga!
-
--- Bahá'u'lláh

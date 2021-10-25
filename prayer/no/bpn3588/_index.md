@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3588 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 *Bahá'u'lláh bestemmer i "Kitab-i-Aqdas" at denne bønnen skal fremsies, i sin helhet, for den avdøde ved en bahá'í-begravelse. Den leses før jordfestelsen av en person mens de øvrige står.
@@ -22,5 +23,3 @@ Sannelig, vi er alle tålmodige i Gud.
  
 *(Hvis avdøde er en kvinne, la ham si: "Dette er din tjenerinne og datter av din tjenerinne osv.")
 *(Det universelle rettferdighetens hus presiserer i et brev av 1. juli 2001 at gjentakelsen av setningene foregår på følgende måte: "Alláh-u-Abhá" [en gang], "Sannelig, vi tilber alle Gud." [19 ganger], "Alláh-u-Abhá" [en gang], "Sannelig, vi bøyer oss alle for Gud." [19 ganger] og så videre.)
-
--- Bahá'u'lláh

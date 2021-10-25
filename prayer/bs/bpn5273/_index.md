@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5273 in Bosanski'
+author = 'Báb'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 U ime Gospodara, Stvoritelja, Vrhovnog, Samodovoljnog, Najuzvišenijeg, Onoga čiju pomoć traži cijelo čovječanstvo.
@@ -7,5 +8,3 @@ Recite: o moj Bože! Ti si Stvoritelj nebesa i zemlje, Gospodaru Kraljevstva! T
 Gospodaru neizmjerne milosti! Neka Tvoja nebeska potpora okruži one koji Te vole, i udijeli im darove koje posjeduješ. Od svih stvari nam Ti budi dovoljan, oprosti nam grijehe i smiluj se na nas. Ti si naš Gospodar i Gospodar svih stvorenih stvari. Ne dozivamo nikoga osim Tebe i ne tražimo ništa sem Tvoje naklonosti. Ti si Gospodar dobrote i milosti, nenadmašan u Svojoj moći i najmudriji u Svojim namjerama. Nema Boga osim Tebe, Sveposjedujećeg, Najuzvišenijega.
 O moj Gospodaru, blagoslovi Glasnike, svete i pravedne. Uistinu, Ti si Bog, Neuporedivi,
 Svepokoravajući.
-
--- Báb

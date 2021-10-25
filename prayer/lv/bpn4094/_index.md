@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4094 in Latviešu'
+author = 'Abdu'l-Bahá'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Lai šo lūgšanu lasa ikviens, kas ceļo uz dažādām pusēm mācīt, lai lasa to kalnos, tuksnešos, uz zemes un uz jūras.
@@ -11,5 +12,3 @@ Ak Kungs! Iežēlojies par manu vārgumu un ar Savu spēku stiprini mani! Ak Kun
 Ak Kungs! Ja Svētā Gara elpa dotu svētību vājākajam no visas radības, viņš būtu iemantojis to, uz ko viņš tiecas, un viņam būtu it viss, pēc kā viņš ilgojas.
 Patiesi, Tu esi palīdzējis Saviem kalpiem pagājībā un, lai gan tie bija vājākie no Tavas radības, zemākie no Taviem kalpiem, visnenozīmīgākie starp tiem, kas uz zemes dzīvo, ar Tavu svētību un Tavu spēku viņi pacēlās augstāk par visaugstāk dzimušajiem un cēlākajiem cilvēkiem. Ja pirms tam viņi bija kā naktstauriņi, tad tagad viņi ir kļuvuši kā karaliskie vanagi, un, ja agrāk tie bija tik kā strautiņi, caur Tavu žēlastību un vēlību viņi kļuva kā jūras. Caur Tavu visaugstāko labvēlību viņi kļuva kā ceļa zvaigznes debesu malā un kā putni, kas dzied nemirstības rožu dārzos, kā lauvas, kuru balss atskan jo stipra gudrību un zināšanu silos, un kā vaļi, kas peld dzīvības okeānā.
 Patiesi, Tu esi Maigais, Spēcīgais, Varenais, Visžēlīgais no Žēlīgajiem!
-
--- Abdu'l-Bahá

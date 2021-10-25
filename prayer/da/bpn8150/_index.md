@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8150 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 *Dette epistel læses ved Bahá’u’lláhs og Bábs gravmæler. Det benyttes også hyppigt ved højtideligholdelsen af Deres mindedage.
@@ -19,5 +20,3 @@ Må min ånd blive et offer for den uret Du led og min sjæl blive løsepenge fo
 Jeg bønfalder Gud ved Dig og ved dem, hvis ansigter er blevet oplyst af strålerne fra Dit åsyns lys og som af kærlighed til Dig har overholdt alt, hvad der blev dem pålagt, om at fjerne de slør, der er kommet mellem Dig og Dine skabninger og forsyne mig med det gode i denne verden og den kommende. Du er i sandhed Den Almægtige, Den Mest Ophøjede, Den Alherlige, Den Evigt Tilgivende, Den Mest Medfølende.
 
 Velsign Du, o Herre min Gud, Det Guddommelige Lotustræ og dets blade og dets grene og dets kviste og dets hovedskud og dets sideskud, sålænge Dine mest fremragende betegnelser vil bestå og Dine mest majestætiske egenskaber vil vare. Beskyt det da mod angriberens onde anslag og tyranniets hærskarer. Du er i sandhed Den Almægtige, Den Mest Magtfulde. Velsign Du også, O Herre min Gud, Dine tjenere og Dine tjenerinder, der er nået frem til Dig. Du er i sandhed Den Mest Gavmilde, hvis nåde er uendelig. Ingen Gud er der uden Dig, Den Evigt Tilgivende, Den Mest Gavmilde.
-
--- Bahá'u'lláh

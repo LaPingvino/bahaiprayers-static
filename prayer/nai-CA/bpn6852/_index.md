@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6852 in Canadian Indigenous'
+author = 'Bahá'u'lláh'
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *(Na  Ité ithui, ethui ninghinta sothan eyínjyái Hutsha-dun, itsua, iney, imiua, ijya:
@@ -20,5 +21,3 @@ chui,
 tl'ok caüa
 Jáüa úzhi Ilé ilsi, 
 Ilé uhuaná sulhan.
-
--- Bahá'u'lláh

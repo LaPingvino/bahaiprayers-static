@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10980 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *“A talo fakapitoa ko la e fai i aso taki tasi, fakatasi mo naai isi talo fakamatea aka, pela mo te Talo o te Fakagata Masaki, te Tapeleti a Ahmad, ko oti ne fakaeke ne Baha’u’llah a maalosi fakapitoa kae taaua, tela la e tau o talia me ko oti ne fai pena kae e tau o fai talosaga ne taugasoa mo te talitonu katoatoa mote mautinoa, me e auala mai i talosaga konei e mafai ne latou o ulu ki se tulaga fakapilipili atu kite Atua, kae lavea fakalei ne latou Ana tulafono mo Ana fakatonuuga. – From a letter written on behalf of Shoghi Effendi
@@ -19,5 +20,3 @@ Ke mautinoa ia koe i te tonuuga, a ia te la e fuli tua mai i te Gali tenei ko ot
 Tauloto fakallei a te Tapeleti tenei, O Ahmad.  Lagi ne koe i ou aso kae sa-liakina a koe mai iei.  Me i te tonuuga, a te Atua ko oti ne faka-mana mo ia te la e lagi ne ia a te taui o te selau matulo mo te galuega i lalolagi e lua konei.  Mea-alofa faka-pitoa konei ne tuku atu ne Matou ki luga ia koe pela me se faka-manuiaaga mai ia Matou mo se alofa mai i te Motou fofoga ko koe ke mafai o fai pela mo latou e fakafetai mo te fiafia.
 Mai i te Atua! So se tino tela e nofo mo se faka-lavelave io me se fanoanoa e faitau i te Tapeleti mo te tinaa faka-maoni, a te Atua ka fakaseai ne Ia ona fakanoanoa, mo ana fakalavelave kae ave keatea ona puapuaaga.
 E tonu , a Ia ko te Atua, ko te Atafai. Tavaeega ki te Atua, ko te Aliki o lalolagi katoa.
-
--- Bahá'u'lláh

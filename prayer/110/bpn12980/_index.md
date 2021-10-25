@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12980 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 ##TABLET OF VISITATION - 'Abdul-Bahá’í 
@@ -35,5 +36,3 @@ Thee, illumine my brow with the light of adoration in Thy court of holiness, and
 With this prayer doth Thy servant call Thee, at dawn-tide and in the night-season.  Fulfill his heart’s desire, O Lord!  Illumine his heart, gladden his bosom, kindle his light, that he may serve Thy Cause and Thy servants.   
  
 Thou art the Bestower, the Pitiful, the Most Bountiful, the Gracious, the Merciful, the Compassionate!
-
--- Abdu'l-Bahá

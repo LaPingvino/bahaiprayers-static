@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2758 in Shqip'
+author = 'Bahá'u'lláh'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Të thuhet një herë në njëzet e katër orë
@@ -62,5 +63,3 @@ Lëvduar qofsh Ti, O Perëndia ynë, që na ke dërguar atë që na afron pranë
 *Pastaj ta ngrejë kokën, të ulet dhe të thotë:
 
 Unë dëshmoj, O Perëndia im, për atë që kanë dëshmuar të Zgjedhurit e Tu dhe njoh atë që kanë njohur banorët e Parajsës më të lartë dhe ata që janë mbledhur rreth Fronit Tënd të fuqishëm. Mbretëritë e tokës e të qiellit janë të Tuat, O Zot i botëve!
-
--- Bahá'u'lláh

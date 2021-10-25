@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12410 in Namibia'
+author = 'Bahá'u'lláh'
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Amase tara miba du: Neb ge tseb //ib eidu aisa ni !gawaba, tsi doma ni //nouba, mi maihe hab diba. Elob di ≠gai domi gege !awa, tsi !nab //ib ais dib ge khoesib ai ge //goaxa. Ma khoei hoae harebe has ge //ie ≠gaob ae xu ma //ou gowa !noai hoae /ari ≠uisa, tsi //khowa-amsa tsi !khohe //oasa //khoreb /kha mute !gawasa //gou-//goudi ≠Hai-≠hais di di /ga. Tsi !kho-!gati //ib di Si ≠uis tsi Saoti //ib ≠khaisib di di //ga.
@@ -15,5 +16,3 @@ Khaisib gege !gai-!on gaisen, khoesib ni //ib di tsab !na !norasasiba hoga. Tsi 
 
 Abdu’l Baha di ≠haweba xu ≠gae-khaiheha /Guib-/guib:
 Ai Sats ia Sa isiba Elob //gage unutse, Sa mute nouxun !aroma ≠gan am tsi Elob hoa /gaixab di gaosib //ga //khowa-amre, Sa //khoresa /guise //ib //ga ≠ganre, Oats tae /guise //ib //ga oare Mus /awirob khemib Ta /oadi si //khorete di /oa-/oa tsi /oadisi /ae-aina ≠uru gai, !noesaseb ta /hawina ≠gou-≠gou tsi !haeseb ta !gae !non hehana !nora-!noratsugu tsi tsagaxu. Elob ge //ib ≠ais !oa di, tsi sada ge //nasa ra !kho-!ga. //ib ge ≠ais aba ra sisen ≠ui. Tsi //ib ta turaera mada. //nas !aromai ge ≠habasa //ib tanas !naga //guisensa tsi sa ≠gom !gasa Hoa-/gaixa Hui-aob !naga maisa.
-
--- Bahá'u'lláh

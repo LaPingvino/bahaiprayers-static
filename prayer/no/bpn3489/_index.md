@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3489 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 *Fremsies daglig, morgen, middag og aften.
@@ -24,5 +25,3 @@ Jeg vitner om din enhet og om at du er en, og om at du er Gud og at der ikke er 
  
 *(Om noen i stedet for det lengre vers skulle velge å fremsi disse ord: "Gud bevitner at der ikke er noen annen Gud enn ham, hjelperen i fare, den selvbestående," så ville det være tilstrekkelig. Det vil likeledes være tilstrekkelig om vedkommende mens han sitter velger å fremsi disse ord: "Jeg vitner om din enhet og om at du er en, og om at du er Gud og at der ikke er noen annen Gud utenom deg.")
 *(*) Tilbedelsens punkt, dvs. Bahjí, Akka.
-
--- Bahá'u'lláh

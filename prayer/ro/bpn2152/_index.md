@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2152 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Ţie îţi aduc laudă, o, Dumnezeul meu, pentru că mireasma bunătăţii Tale duioase m-a desfătat şi blândele adieri ale milostivirii Tale m-au înclinat în direcţia mărinimoaselor Tale favoruri. Fă-mă să beau, o, Domnul meu, din mâinile dărniciei Tale, apa vie ce i-a îngăduit fiecărui om ce s-a împărtăşit din ea să se cureţe de ataşamentul pentru oricine în afară de Tine; şi să-şi înalţe zborul în atmosfera detaşării de toate făpturile Tale; şi să-şi aţintească privirea asupra providenţei Tale iubitoare şi a nenumăratelor Tale daruri.
@@ -17,5 +18,3 @@ Te implor, o, Domnul meu, întru numele Tău ale cărui splendori au cuprins pă
 Hărăzeşte-mi, o, Doamne Dumnezeul meu, ceea ce mă va îndrepta mereu către Tine şi îngăduie-mi să mă ţin neîncetat de funia harului Tău, să proclam numele Tău şi să caut tot ceea ce poate izvorî din pana Ta. Sunt sărac şi dezolat, o, Domnul meu, şi Tu eşti Cel Atotstăpânitor, Cel Preaînalt. Ai, atunci, milă de mine prin minunile milostivirii Tale şi pogoară asupra mea, în fiece clipă a vieţii mele, lucrurile prin care ai recreat inimile tuturor făpturilor Tale ce ţi-au recunoscut unitatea, şi ale tuturor oamenilor Tăi ce-ţi sunt cu totul devotaţi.
 
 Tu eşti, cu adevărat, Cel Tare, Cel Preaînălţat, Cel Atotştiutor, Cel Atotînţelept.
-
--- Bahá'u'lláh

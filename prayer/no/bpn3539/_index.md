@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3539 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O min Gud og min Mester! Jeg er din tjener og sønn av din tjener. Jeg stod opp fra mitt leie i denne morgenstund da din enhets sol skinte frem fra din viljes daggry og kastet sin stråleglans ut over hele verden, slik det var forordnet i din befalings Bøker.
@@ -9,5 +10,3 @@ Lovet være du, o min Gud, for at vi har våknet opp til glansen av din kunnskap
 Velsign du, o Herre min Gud, ham som du har satt over dine ypperste titler, og ved hvem du har sondret mellom de gudfryktige og de onde, og hjelp oss nådigst til å gjøre det som du elsker og attrår. Velsign du enn videre, o min Gud, dem som er dine Ord og dine Bokstaver, og dem som har festet sitt blikk på deg, og vendt seg mot ditt åsyn, og lyttet når du kalte.
  
 Du er i sannhet alle menneskers Herre og Konge og har makt over alle ting.
-
--- Bahá'u'lláh

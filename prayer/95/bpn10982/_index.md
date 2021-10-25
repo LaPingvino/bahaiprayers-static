@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10982 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *“Tauloto a te Tapeleti o te Ia Fai Malaga Mana ke iloa ne Koe a te mea tonu, kae mafaufau i te Gali Faka-manuiagina ko oti ne valo mai a mea tupu mai i mua.  Fakailoa atu kia a latou ko la e atafia e latou, ke faeteete!” –
@@ -121,5 +122,3 @@ Ko nofo fakatasi katoa latou siomia ia ia fafine, kae tena la, ne maua ne latou 
 Ke fakamana kae malu ki toku Aliki, ko te Matagofie Silisiliese-Katoatoa!
 Kae koi taofi ne latou a ia fafine a tena tulaga kae faka-maina latou ite muna o te tala ne talaatu ne te Talavou, ne tala olotou ulu, pei a olotou gatu ki lalo, laupa a olotou mata, puli ia latou a te olotou fiafia, fulu a olotou loimata kae ki olotou lima ki luga i olotou kalafou, kae e tenei i te tonuuga a te tasi o masaki tafasili i te masei fakaofoofogina -
 Ke fakamana kae malu ki te motou Aliki, ko te Tafasili i te Maluga!
-
--- Bahá'u'lláh

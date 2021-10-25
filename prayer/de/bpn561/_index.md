@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn561 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist Gott, erhaben ist Er, der Herr der Güte und Großmut!
@@ -13,5 +14,3 @@ O mein Herr, der Arme ist wahrlich zum Königreich Deines Reichtums geeilt, der 
 O mein Gott! Dein Unterpfand wurde Dir zurückgegeben. Es entspricht Deiner Gnade und Deiner Großmut, die Deine Herrschaft auf Erden und im Himmel umfangen, dem, den Du nun aufgenommen, Deine Gaben und Geschenke und die Früchte vom Baume Deiner Gnade zu gewähren! Mächtig bist Du, zu tun wie Du willst. Es gibt keinen Gott außer Dir, dem Gnädigen, dem Freigebigsten, dem Erbarmer, dem Wohltäter, dem Verzeihenden, dem Kostbaren, dem Allwissenden.
 Ich bezeuge, o mein Herr: Du hast den Menschen zur Pflicht gemacht, ihren Gast zu ehren, und der zu Dir emporgestiegen ist, gelangte wahrlich in Deine Gegenwart. Verfahre nun mit ihm nach Deiner Gnade und Großmut! Bei Deiner Herrlichkeit! Ich weiß gewiss, dass Du selbst nicht versagen wirst, was Du Deinen Dienern befohlen hast, und dass Du den nicht ausschließest, der sich an das Seil Deiner Großmut klammert und zu Deines Reichtums Morgenröte aufgestiegen ist.
 Es gibt keinen Gott außer Dir, dem Einen, dem Einzigen, dem Mächtigen, dem Allwissenden, dem Freigebigen.
-
--- Bahá'u'lláh

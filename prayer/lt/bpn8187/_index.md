@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8187 in Lietuvių'
+author = 'Abdu'l-Bahá'
 tags = ['lang-lt', 'bpn-unsorted']
 +++
 O Viešpatie! Tavyje aš ieškau prieglobsčio ir visų Tavo ženklų link aš kreipiu savo širdį.
@@ -10,5 +11,3 @@ O Viešpatie! Kelyje ir namie, darbe ir visuose poelgiuose aš visiškai pasitik
  Babas
 
 	O Dieve, vesk mane, saugok mane, paversk mane šviečiančiu žiburiu ir spindinčia žvaigžde. Tu esi Galingas ir Stiprus
-
--- Abdu'l-Bahá

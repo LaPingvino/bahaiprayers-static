@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4964 in Vanuatu'
+author = 'Bahá'u'lláh'
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 *Yumi ridim prea ia long Shrine blong Báb mo Shrine blong Bahá'u'lláh. Yumi save ridim prea ia tu long ol Holi Dei we i markem samfala samting long laef blong Tufala.  Yumi save yusum long narafala taem tu.
@@ -14,5 +15,3 @@ Memori mo preis blong God, mo glori mo laet blong God, i stap wetem Yu, we Yu so
 Plis Yu letem spirit blong mi i kam wan sakrafaes long olgeta rong samting we i bin kasem Yu. Letem se mi pem praes blong ol hadtaem we Yu bin fesem. Mi askem God blong tekemaot ol kaliko we i mekem se ol pipol i no save lukim Yu. Mi askem samting ia tru long Yu, mo tru long olgeta we fes blong ol i saen wetem laet blong fes blong Yu, mo olgeta we i folem evri samting we Yu Yu askem, from we oli lavem Yu. Mo mi askem God blong letem se mi save kasem evri gud samting blong wol ia, mo blong wol we bambae i kam. I tru se Yu Yu gat fulap paoa, Yu Yu naes tu mas, Yu Yu gat fulap glori, Yu Yu fogiv oltaem, mo Yu Yu gat bigfala sori. 
 
 O God blong mi! Plis Yu blesem Tri blong Yu, wetem ol lif, ol branis, mo ol smol branis blong hem. Blesem olgeta long taem we ol hae nem blong Yu mo ol naes fasin blong Yu i stap. Protektem tri ia long trabol we ol rabis man i save karem. I tru se Yu nao Yu gat paoa long evri samting. Mo plis Yu blesem ol wokman mo ol wokwoman blong Yu, we oli bin kam kasem Yu. Yu Yu givim evri gudfala samting oltaem. I no gat wan narafala God be Yu. Yu Yu fogiv oltaem, mo Yu Yu kaen tumas.
-
--- Bahá'u'lláh

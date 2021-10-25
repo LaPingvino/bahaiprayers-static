@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3183 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Menige verkoelde hart, o my God, is met die vuur van U Saak aan die brand gesteek, en menige sluimeraar is deur die soetheid van U stem wakker gemaak. Hoeveel is die vreemdelinge wat skuilplek in die skaduwee van die boom van U eenheid nie gesoek het nie, en hoe talryk die dorstiges wat na die fontein van U lewende waters in U dae nie gehunker het nie!
@@ -9,5 +10,3 @@ Geluksalig is hy wat homself na U ingestel het, en haas gemaak het om die Daeraa
 Ek smeek U, o my Here, by Hom Wat U Naam is, Wat, deur die krag van U opperheerskappy en mag, bo-oor die horison van Sy gevangenis verrys het, om vir elkeen te beskik wat U betaam en U verhewenheid pas.
 
 U mag is, in der waarheid, tot alle dinge in staat.
-
--- Bahá'u'lláh

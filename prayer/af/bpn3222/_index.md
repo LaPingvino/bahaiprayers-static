@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3222 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 *"Hierdie daaglikse verpligte gebede, saam met nog 'n paar spesifiekes, soos die Genesingsgebed, die Tafel van Ahmad, is deur Bahá'u'lláh beklee met 'n besondere krag en betekenis, en daarom behoort as sodanig aanvaar te word, en deur die gelowiges met geloof en vertroue en sonder twyfel gesê te word, sodat hulle deur middel daarvan 'n veel nouer verbinding met God kan aanknoop, en hulle vollediger met Sy wette en insettinge kan vereenselwig." - Uit 'n brief geskryf namens Shoghi Effendi
@@ -39,5 +40,3 @@ Leer hierdie Tafel goed, o Ahmad. Sing dit gedurende jou dae en weerhou jouself 
 Voor God! Sou iemand wat in beproewing of verdriet hierdie Tafel met volkome opregtheid lees, sou God sy droefheid verdryf, sy moeilikhede oplos en sy beproewings verwyder.
 
 Waarlik, Hy is die Genadige, die Medelydende. Geloof sy God, die Heer van al die wêrelde.
-
--- Bahá'u'lláh

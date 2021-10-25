@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12240 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 T avaeega katoa e io Koe, O te Aliki, toku Atua!  E seiloa ne au o usu pefea a Ou tavaeega, o fakamatala a Tou matagofie, o kalaga ki luga i Tou Igoa.  Kafai e kalaga ki luga i Tou Igoa, ko te Pule-Katoatoa, Au e futiigia ke lavea a Ia Tela e puke i Tena lima a kogaa-koga e fakaoti kiei a mea faiite katoa e seai na se atigi mea fua e fakana ki luga ia Koe, kae se mea ne faiite mai ite muna e tasi ne puna mai i tou muagutu.  Kae kafai e faka-salalau ne au a Koe i Tou igoa Tela ko te Tuku-fakatasi-katoatoa, e maua ne au fakavave me ia Ia e seai na ko te to ki lalo I luga I te pefu, ite mataku ona ko Tou mafi-kaitaua, ko Tou nofoaiga-a-tupu mot e maalosi.  Kae kafai e taumafai au o faka-matala a Koe mai i te fakamana o te tafatasi o Koe, e iloa ne au fakavave i se mafaufauga pena ne manatu fua o oku ne faiite mai i oku manatu faka-supasupa, a ko Koe mai i anamua loa e silia atu a te maluga mai i luga i 
@@ -11,5 +12,3 @@ Mai i te otiiga ne molimau, tena, ki toku vaaivai mo te seiloa mo te vaaivai mo 
   
 Talia, tena, O toku Atua, ko Tau tavini tela ko oti ne fuli atu kia Koe, ko oti ne fakammau a tena kilo ki luga ia Koe, kae piki mmau ki te kafanoa o Tou alofa-fakamagalo mo alofaaga, ke mafai o kau-fakatasi i te vai o te ola o Tou alofa-fakamagalo mo te alofatauanoa.  Fai aka a ia, tena, ke fanaka ki luga ki te tumu o te koga tela e faka-moemoegia, kae sa-taofigia a ia mai i mea ko la e 
 pule ne Koe.  A Koe, e tonu, ko te Faka-magalo-Katoatoa, ko te Tafasili ite Maukoloa.
-
--- Bahá'u'lláh

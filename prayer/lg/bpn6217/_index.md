@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6217 in Luganda'
+author = 'Bahá'u'lláh'
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 ##ESSALA EY'ETTEEKA EY'EKIGERO
@@ -29,5 +30,3 @@ Tolebula Ayi Katonda wange, oyo eyekutte n'engalo ezegayirira, ku mukugiro gw'ok
 Mpa obujulizi ku bumu Bwo, n'obwa namunigina Bwo, nti Ggwe Katonda, era nti tewali Katonda mulala wabula Ggwe.  Ddala ddala, Ggwe wenyini wabikula enzikiriza Yo, watuukiriza endagaano Yo, era n'oggulawo olujji lw'emikisa Gyo, eri abo bonna ababeera mu ggulu ne kunsi. Emikisa n'emirembe, okulamusa n'ekitiibwa bibeera eri abagalwa Bo, emikisa n'enkyukakyuka z'ensi be bitaziyizanga kukyukira Gyoli, era abawaddeyo ebyabwe byonna nga basuubira okufuna ekyo ekiri Gyoli. Mu mazima Ggwe bulijjo oli musonyiyi, era Omugabi wa byonna.
 
 *Singa omuntu yenna alondawo okuddamu ebigambo binno wamanga mu kifo ky'okusoma ennyiriri empanvu ezo: "Katonda akakasa nti tewali Katonda mulalu wabula Ye Yekka, Omuyambi mu kabi, eyemaririra".  Kibakimala alondawo okuddamu ebigambo bino wamanga nga atudde wansi; “Mpa obujulizi ku bumu Bwo n'obwa namunigina Bwo, era nti Ggwe Katonda, tewali Katonda mulala okugyako Ggwe wekka".
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9298 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Tablette à Ah∂mad
@@ -21,5 +22,3 @@ Sois-en assuré au plus profond de toi-même, celui qui se détourne de cette Be
 Grave en ton cœur cette épître, ô Ahmad. Chante-la durant tes jours et ne t’en écarte pas. En vérité Dieu réserve à celui qui la chante la récompense de cent martyrs et le privilège de servir dans les deux mondes. Ces faveurs, nous te les avons accordées, en signe de clémence et de générosité afin que tu sois de ceux qui sont reconnaissants.
 Par Dieu ! Que celui qui est dans l’affliction et le chagrin lise cette épître avec une absolue sincérité et Dieu dissipera sa tristesse, résoudra ses difficultés et le libèrera de ses malheurs !
 En vérité, il est le Miséricordieux, le Compatissant. Loué soit Dieu, le Seigneur de tous les mondes !
-
--- Bahá'u'lláh

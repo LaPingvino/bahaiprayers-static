@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5129 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Aku tak tahu, ya Tuhanku, Api apakah yang Engkau nyalakan di negeri-Mu. Bumi tak dapat menyuramkan cahayanya, dan tak ada pula air yang dapat memadamkan nyalanya. Semua bangsa di dunia ini tak berdaya melawan kekuatannya. Besarlah kurnia dia yang mendekatinya dan men-dengarkan gemuruhnya.
@@ -14,5 +15,3 @@ Yang Maha Dermawan.
 
 *
 "Semoga engkau mengetahui betapa tinggi kedudukannya yang ditakdirkan bagi jiwa-jiwa yang terlepas dari dunia dan tertarik kepada Agama serta menyebarkan Agama-Nya di bawah naungan Hazrat Bahá’u’lláh." - ‘Abdu’l-Bahá
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BH02022 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'BH02022']
 +++
 **Tablet of Aḥmad
@@ -43,5 +44,3 @@ By God! Should one who is in affliction or grief read this Tablet with absolute 
 Verily, He is the Merciful, the Compassionate. Praise be to God, the Lord of all the worlds.
 
 [1] The Báb
-
--- Bahá'u'lláh

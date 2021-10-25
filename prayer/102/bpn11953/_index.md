@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11953 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Ýa Kerim, Ýa Rahym! 
@@ -7,5 +8,3 @@ tags = ['lang-102', 'bpn-unsorted']
     Eý Perwerdigär! Bir garyp Seniň baýlyk bähriňe ýüz tutupdyr we bir saýyl Seniň Keremli saýaňy maksat edinipdir. Ony mahrum eýleme. Sen şeýle bir Jomart ki, älemiň bar zerreleri Seniň Merhemetiňe güwä geçýärler, Sen şeýle bir sahy ki, ähli barlyklar Seniň keremiňi boýun alýarlar.
     Bu bende bar zatdan geçip, Seniň Merhemet tanabyňdan we Seniň kerem donuň eteginden asylşyp, Saňa ýalbarýar we her halda Saňa ýüz tutup, Saňa şükür edýär. Eger ýalkasaň, sygynylýan Sensiň, eger-de gargasaň, hökümiňe baş egilýän Sensiň. Sen şeýle bir gudratly ki Seniň huzuryňda başgalar natuwan we ejiz görünýärler.
     Eý Kerim! Bu bendäni Öz erkinde goýma. Sensiň Kadyr we Başarjaň, Sensiň Rehimdarlygyň we Keremiň Eýesi.
-
--- Bahá'u'lláh

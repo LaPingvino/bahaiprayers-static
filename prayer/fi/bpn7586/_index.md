@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7586 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Nämä ovat ne päivät, oi Jumalani, joina olet velvoittanut palvelijasi noudattamaan paastoa. Sen kautta kaunistit luoduillesi ilmaistun lakiesi kirjan esipuheen ja katoit esille käskyjesi kätköt kaikkien taivaassasi ja kaikkien maasi  päällä olevien nähtäville. Olet varustanut näiden päivien jokaisen hetken erityisellä hyveellä, joka on tutkimaton kaikille paitsi Sinulle, jonka tietämys käsittää kaikki luodut asiat. Sinä olet myös myöntänyt jokaiselle sielulle osan tästä hyveestä säädöksesi muistion ja lopullisen tuomiovaltasi kirjoitusten mukaisesti. Jokaisen lehden näistä kirjoista ja kirjoituksista olet lisäksi osoittanut kullekin maan kansoista ja sukukunnista.
@@ -11,5 +12,3 @@ Vuodata sitten päällemme, oi Jumalani, sitä, mikä sopii armollesi ja on sove
 Sinä näet, oi Jumalani, mikä on kohdannut rakkaitasi Sinun päivinäsi. Sinun kirkkautesi on todistajani! Valittujesi vaikerrus on kohonnut ilmoille kaikkialla valtakunnassasi. Toiset joutuivat uskottomien pauloihin maassasi ja estyivät siksi pääsemästä läheiseen yhteyteen kanssasi ja saavuttamasta kirkkautesi esikartanoa. Toiset kykenivät Sinua lähestymään, mutta heitä estettiin katsomasta kasvoihisi. Ja toisten sallittiin, koska he olivat innokkaita näkemään Sinut, astua esikartanosi piiriin, mutta he antoivat luotujesi kuvitteluiden kutomien verhojen ja kansasi keskuudessa olevien sortajien tekemien vääryyksien tulla itsensä ja Sinun välille.
 Tämä on se hetki, oi Herrani, jonka olet tehnyt kaikkia muita hetkiä jalommaksi ja kuvaillut parhaille luoduistasi. Rukoilen Sinua, oi Jumalani, oman itsesi kautta ja heidän kauttaan, säätämään tämän  vuoden kuluessa sitä, mikä ylentää rakkaitasi. Määrää myös tänä vuonna sellaista, mikä saa valtiutesi Päiväntähden loistamaan kirkkaasti kunniasi taivaanrannan yllä ja valaisemaan ylivaltaisella mahdillasi koko maailman.
 Saata asiasi voitokkaaksi, oi Herrani, ja alenna vihollisesi. Säädä sitten meille sekä tämän että tulevan elämän hyvyyttä. Sinä olet Totuus, joka tietää salatut asiat. Ei ole muuta Jumalaa kuin Sinä, Aina anteeksi antava, Kaikkiantelias.
-
--- Bahá'u'lláh

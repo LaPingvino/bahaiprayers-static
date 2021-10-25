@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5209 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Puasa 
@@ -19,5 +20,3 @@ Kemudian, hujanilah kami, ya Tuhanku, dengan apa yang sesuai dengan kurnia-Mu da
 Ya Tuhanku, Engkau melihat apa yang menimpa kekasih-kekasih-Mu pada hari-hari-Mu. Kemuliaan-Mu adalah saksiku! Suara ratap tangis orang-orang pilihan- Mu telah diangkat di seluruh kerajaan-Mu. Beberapa orang telah terjerat oleh orang-orang kafir di negeri-Mu, serta dihalangi oleh mereka dari mendekati-Mu dan dari mencapai istana kemuliaan-Mu. Yang lainnya dapat mendekati Dikau, akan tetapi dihalang-halangi melihat wajah-Mu. Yang lainnya lagi karena kerinduannya, telah diizinkan untuk melihat Dikau, untuk memasuki lingkungan istana-Mu, namun mereka membiarkan tabir-tabir khayalan makhluk-makhluk-Mu dan kelaliman-kelaliman yang dijatuhkan oleh kaum penindas di antara rakyat-Mu untuk memisahkan mereka dari Dikau.
 Inilah saat, ya Tuhanku, yang telah Engkau jadikan saat yang terbaik, dan telah Engkau hubung-kan dengan mereka yang terpilih di antara makhluk- makhluk-Mu. Aku memohon kepada-Mu, ya Tuhanku, demi Engkau Sendiri dan demi mereka, agar menetapkan dalam tahun ini apa yang akan memuliakan kekasih-kekasih-Mu. Selain daripada itu, tetapkanlah dalam tahun ini apa yang akan me-mungkinkan Surya kekuasaan-Mu bersinar terang benderang di atas ufuk kemuliaan-Mu, dan menerangi seluruh dunia dengan kekuasaan-Mu yang berdaulat.
 Berilah kemenangan pada Agama-Mu, ya Tuhanku, dan tundukkanlah musuh-musuh-Mu. Kemudian tulislah bagi kami kebaikan kehidupan di dunia ini dan di akhirat. Sesungguhnya, Engkaulah Kebenaran yang mengetahui semua rahasia. Tiada Tuhan melainkan Engkau, Yang Maha Pengampun, Yang Maha Dermawan.
-
--- Bahá'u'lláh

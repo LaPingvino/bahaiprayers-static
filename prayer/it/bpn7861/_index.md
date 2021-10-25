@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7861 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 ##PREGHIERA OBBLIGATORIA BREVE
@@ -14,5 +15,3 @@ Non v’è altro Dio all’infuori di Te, l’Aiuto nel pericolo, Colui Che esis
 Da una lettera scritta a nome di Shoghi Effendi
 
 *«I termini “mattina”, “mezzogiorno” e “sera”, menzionati a proposito delle Preghiere Obbligatorie, significano rispettivamente gli intervalli di tempo compresi tra l’aurora e mezzogiorno, tra mezzogiorno e il tramonto e fra il tramonto e due ore dopo il tramonto». - Il Kítáb-i-Aqdas, ed. 1995, pag. 132
-
--- Bahá'u'lláh

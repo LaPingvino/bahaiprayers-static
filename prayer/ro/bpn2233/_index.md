@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2233 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne, Dumnezeul meu! Te implor,
@@ -8,5 +9,3 @@ O, Doamne, Dumnezeul meu! Te implor,
 Tu îl vezi, o, Doamne, Dumnezeule, pe slujitorul Tău rugându-se la poarta mărinimiei Tale şi pe cel ce şi-a pus speranţa în Tine ţinându-se strâns de funia generozităţii Tale. Nu-i refuza, Te implor, lucrurile pe care le caută de la oceanul harului Tău şi de la Luceafărul bunătăţii Tale duioase.
 
 Tu ai puterea de a face ceea ce-ţi place. Nu există alt Dumnezeu în afară de Tine, Cel ce Veşnic Iartă, Cel Neasemuit de Generos.
-
--- Bahá'u'lláh

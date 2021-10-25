@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9984 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guutip Aqqani, Taanna Pisoqarsuusoq, Anginersaasoq. 
@@ -104,5 +105,3 @@ Aa ila 'Ali-Akbar, Naalakkat allagaq manna pillugu qutsaviguuk suli Sallaassutsi
 
 
 Kiffat tamarmik manna atuassagaluarpassuk eqqarsaatigilluarlugulu, taava taqaanni inneq ikinneqassaaq silarsuarnik tamanik ikummatitsisussaq.
-
--- Bahá'u'lláh

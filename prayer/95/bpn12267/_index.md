@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12267 in '
+author = 'Báb'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 I te Igoa o te Atua, te Aliki ko silia kese a te malu mo te matagofie, te  Fakaikuuga-Katoatoa.  
@@ -12,5 +13,3 @@ omotou ulu, i omotou fakaata-mai, i omotou sema, mai lalo i omotou vae mo so se 
  
   
 ¹ The original of this prayer for protection is written in the Báb's own hand, in the form of a pentacle.
-
--- Báb

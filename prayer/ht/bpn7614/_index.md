@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7614 in Kreyol Ayisyen'
+author = 'Bahá'u'lláh'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Priyè pou moun ki mouri a se sèl pami priyè obligatwa Bahá’í yo nou sipoze resite nan gwoup; yon kwayan ap resite li pandan tout lòt moun ki prezan yo kanpe an silans. Bahá’u’lláh te di priyè sa a obligatwa sèlman lè Bahá’í ki mouri an gen omwen kenz an; nou dwe resite li jis anvan nou antere moun nan, e, pandan n’ap resite li, pa gen obligasyon pou nou vire nan direksyon Qiblih a (Tonbo Bahá’u’lláh). Di ‘Alláh’u’Abhá’ yon fwa; epi premye nan sis vèsè yo ap resite diznèf fwa. Answit di ‘Alláh’u’Abhá’ yon fwa ankò, epi di dèzyèm vèsè a ki repete diznèf fwa, epi kontinye konsa.
@@ -16,5 +17,3 @@ tags = ['lang-ht', 'bpn-unsorted']
 	An verite, nou tout louwe Bondye.
 	An verite, nou tout rekonesan devan Bondye.
 	An verite, nou tout pasyan nan Bondye.
-
--- Bahá'u'lláh

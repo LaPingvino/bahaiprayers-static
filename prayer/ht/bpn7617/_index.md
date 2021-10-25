@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7617 in Kreyol Ayisyen'
+author = 'Bahá'u'lláh'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Li menm Ki Konn Geri, Ki Sifi pou tout moun, Ki Toujou Ede, K’ap Toujou Padone, Ki Gen Tout Mizèrikòd.
@@ -49,5 +50,3 @@ Se Li menm Ki Konn Geri, Ki Sifi pou tout moun, Ki Toujou Ede, K’ap Toujou Pad
 	Ou menm Ki p’ap janm pa la, O Ou menm Sila a K’ap Toujou la!
 	Ou sanntifye, O Bondye mwen! Mwen priye Ou poutèt jenewozite Ou, ki te fè pòt bonte ak gras Ou ouvri byen laj, kote Tanp Sentente Ou a te etabli sou twòn etènite a; e mwen priye Ou poutèt mizèrikòd Ou ki te fè Ou envite tout bagay ki te kreye sou tab bonte ak favè Ou yo; e poutèt gras Ou ki te fè Ou te reponn “Wi!” nan non tout sa ki nan syèl la ak sou tè a, nan moman kote souverènte Ou ak grandè Ou te devwale, nan douvanjou a kote pisans otorite Ou te vin manifeste. E ankò mwen priye Ou, poutèt pi bèl non sa yo, poutèt kalite sa yo ki pi gloriye ak pi wo, e poutèt Souvni Ou Ki pi Egzalte a, e poutèt Bèlte Ou ki pafè e san tach, e poutèt Limyè Ou ki kache nan tabènak ki pi kache a, e poutèt Non Ou, ki abiye ak rad soufrans chak maten ak chak swa, mwen priye Ou pou pwoteje moun ki pote Priyè beni sa a, pou pwoteje nenpòt moun ki resite li, ak nenpòt moun ki rive pase tou pre li, nenpòt moun ki menm pase nan alantou kay kote li ye. Sèvi ak Priyè sa a, O Bondye, pou geri sila a ki malad, k’ap soufri e ki nan bezwen, pou li elimine chak difikilte ak soufrans, tout move maladi ak tristès, e pèmèt Priyè sakre sa a sèvi kòm yon gid pou ede nenpòt moun ki gen anvi antre nan wout konsèy Ou yo, ak chemen padon ak gras Ou.
 	An verite, se Ou menm Ki Plen Pouvwa, Sila a K’ap Sifi pou tout moun, Li menm K’ap Geri, Pwotektè a, Ki Byenfezan an, Sila a Ki Gen Konpasyon, Sila a Ki Toujou Renmen Bay, Ki Gen Plis Mizèrikòd la.
-
--- Bahá'u'lláh

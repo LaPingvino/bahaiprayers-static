@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9306 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Gloire à toi, ô Seigneur, mon Dieu ! En ces jours, tu enjoins à tous les hommes d’observer le jeûne. Que ce jeûne purifie leur âme et les affranchisse de tout attachement à un autre que toi, que de leur cœur s’élève ce qui est digne de la cour de ta majesté et du siège de la révélation de ton unité !
@@ -22,5 +23,3 @@ Que nos jeûnes ne se terminent pas avec ce jeûne, ô mon Seigneur, ni tes alli
 
 Glorifie de même ceux qui crurent en lui et en ses signes, qui se tournèrent vers lui, parmi ceux qui reconnaissent ton unité dans cette dernière Manifestation, Manifestation dont il fit mention dans ses tablettes, livres et écrits, et dans tous les versets merveilleux et les paroles étincelantes qui lui furent révélés. C’est cette même Manifestation dont tu lui as demandé d’établir l’alliance avant qu’il n’ait établi sa propre alliance. C’est elle que célèbre le Bayán. Il loue son excellence, établit sa vérité, proclame sa souveraineté et parfait sa cause. Heureux qui se tourne vers lui et accomplit ce qu’il demande, ô toi, Seigneur des mondes, Désir de tous ceux qui t’ont connu !
 Loué sois-tu, ô mon Dieu, car tu nous aides à le reconnaître et à l’aimer. Par lui et les Orients de ta divinité, par les Manifestations de ta souveraineté, les Trésors de ta révélation et les Réceptacles de ton inspiration, je te supplie. Permets-nous de le servir et de lui obéir, d’aider sa cause et de disperser ses adversaires. Tu as le pouvoir de faire ce qui te plaît. Il n’est pas d’autre Dieu que toi, le Tout-Puissant, le Très-Glorieux, celui dont tous les hommes implorent le secours.
-
--- Bahá'u'lláh

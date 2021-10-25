@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6849 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 ##Pinngitsoorani Qinnutissaq Naatsoq
@@ -8,5 +9,3 @@ tags = ['lang-kl', 'bpn-unsorted']
 Guuti-aa nalunaajaatigaara Illit pinngortikkimma Ilinnik ilisimannileqqullunga Ilinnillu pallorfiginnittooqqullunga. Maannakkorpiarlu nalunaarutigaara sanngiissusera Illillu Sanngissutsit, piitsuussusera Illillu Pisuussutsit.
 
 Allamik Illiunngitsumik Guuteqanngilaq, ulorianartumi ikiortaasoq, Imminut napatittoq!
-
--- Bahá'u'lláh

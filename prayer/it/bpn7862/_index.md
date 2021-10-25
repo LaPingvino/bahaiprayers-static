@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7862 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 ##PREGHIERA OBBLIGATORIA MEDIA
@@ -32,5 +33,3 @@ Faccio testimonianza della Tua unità e della Tua unicità e che Tu sei Dio e ch
 Dio all’infuori di Te. Tu hai, in verità, rivelato la Tua Causa, adempiuto il Tuo Patto e spalancata la porta della Tua grazia a tutti coloro che dimorano in cielo e sulla terra. La benedizione e la pace, il saluto e la gloria discendano sui Tuoi beneamati ai quali i mutamenti e gli eventi del mondo non hanno impedito di volgersi a Te e che hanno dato tutto nella speranza di ottenere ciò che è presso di Te. Tu sei in verità Colui Che Sempre Perdona, il Munifico.
 
 *(Se qualcuno, invece del lungo versetto, preferisce recitare queste parole: «Dio attesta che non v’è altro Dio che Lui, l’Aiuto nel Pericolo, Colui Che Esiste da Sé» sarà sufficiente. Similmente sarebbe pure sufficiente che, mentre è seduto, recitasse queste parole: «Faccio testimonianza della Tua unità e della Tua unicità e che Tu sei Dio e che non v’è altro Dio all’infuori di Te»).
-
--- Bahá'u'lláh

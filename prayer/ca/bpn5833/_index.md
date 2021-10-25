@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5833 in Català'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Qualsevol què emprengui un viatge d’ensenyança a qualsevol lloc, que reciti aquesta oració dia i nit durant els seus viatges a l’estranger.
@@ -8,5 +9,3 @@ Oh Déu, Déu meu! Tu em veus extasiat i atret cap al Teu gloriós regne, encès
 Oh Senyor! Enforteix la meva esquena, capacita’m per servir-te amb el màxim afany i no em deixis sol i abandonat en aquests països.
 Oh Senyor! Concedeix-me comunió amb Tu en la meva solitud i sigues Tu el meu company en aquestes terres estrangeres.
 Veritablement Tu ets qui confirmes a qui Tu vols i en veritat Tu ets el Tot Poderós, l’Omnipotent.
-
--- Abdu'l-Bahá

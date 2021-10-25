@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1759 in Íslenska'
+author = 'Báb'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Í nafni Guðs, Drottins yfirþyrmandi tignar, hins alknýjandi.
@@ -9,5 +10,3 @@ Seg: Guð nægir mér. Hann er sá sem hefur í hendi sér ríki alls sem er. Ha
 
 
 * *Upprunalegt handrit þessarar bænar fyrir vernd er skrifað með eigin hönd Bábsins í formi fimmodda stjörnu.
-
--- Báb

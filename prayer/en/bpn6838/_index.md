@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6838 in English'
+author = 'Báb'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Glory be unto Thee, O Lord!  Although Thou mayest cause a person to be destitute of all earthly possessions, and from the beginning of his life until his ascension unto Thee he may be reduced to poverty through the operation of Thy decree, yet wert Thou to have brought him forth from the Tree of Thy love, such a bounty would indeed be far better for him than all the things Thou hast created in heaven and earth and whatsoever lieth between them; inasmuch as he will inherit the heavenly home, through the revelation of Thy favours, and will partake of the goodly gifts Thou hast provided therein; for the things which are with Thee are inexhaustible.  This indeed is Thy blessing which according to the good-pleasure of Thy Will Thou dost bestow on those who tread the path of Thy love.
@@ -19,5 +20,3 @@ Protect me, O my Lord, from every evil that Thine omniscience perceiveth, inasmu
 There is no power nor strength except in God, the Most Exalted, the Most Mighty.
 
 *Selections from the Writings of The Báb, pg. 189-191
-
--- Báb

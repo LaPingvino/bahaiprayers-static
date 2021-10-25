@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5763 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##TAULA DEL SAGRAT MARINER
@@ -65,5 +66,3 @@ Glorificat sigui el meu Senyor el Més Elevat! i mentre la contemplaven i compre
 Glorificat sigui el meu Senyor el Més Elevat!
 
                                                                                                    Bahá’u’ll
-
--- Bahá'u'lláh

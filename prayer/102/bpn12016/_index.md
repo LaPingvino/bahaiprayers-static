@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12016 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Allanyň Jomart we Baý Ady bilen.
@@ -15,5 +16,3 @@ Allanyň Jomart we Baý Ady bilen.
 
 
   *  (Nika hutbasy okalandan soň, Kitab-i-Akdasda ýazylşy ýaly, iň azy ruhany ýygnagynyň kabul eden iki sany şaýadyň ýanynda Gelin: “Hakykatdan barymyz Alladan razydyrys” sözlerini aýtmalydyr.)
-
--- Bahá'u'lláh

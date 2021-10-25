@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8271 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is God.
@@ -26,5 +27,3 @@ By God! The veils have been burned away, the clouds have been rent asunder, the 
 Let your hearts be filled with joy, but conceal this closely guarded, this most hidden secret, lest the stranger become apprised of that which ye have quaffed of the wine that imparteth rapture and delight. And this, verily, is from the grace of God, the Most Exalted, the Most Bountiful.
 O concourse of the Bayán! God beareth Me witness that His favour is complete, His mercy is perfected, and His countenance is beaming with joy and radiance. And this, verily, is from the grace of God, the Most Exalted, the Most Bountiful.
 Drink your fill, O My companions, from this sparkling and luminous stream, and rejoice therein, O My friends! And this, verily, is from the grace of God, the Most Exalted, the Most Bountiful.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4505 in Filipino'
+author = 'Abdu'l-Bahá'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ang Diyos! 
@@ -9,5 +10,3 @@ O Panginoon, aking Diyos, aking Pinakamamahal! Ito ang Iyong mga tagapaglingkod 
 Panginoon! Mahina kami, palakasin kami upang maikalat ang mga halimuyak ng Iyong Kabanalan; dukha, payamanin kami mula sa mga kayamanan ng Iyong Banal na Kaisahan; hubad, kami ay damtan ng baro ng Iyong biyaya; makasalanan, patawarin Mo ang aming mga kasalanan sa pamamagitan ng Iyong pagpapala, Iyong kagandahang-loob at Iyong pagpapatawad. Ikaw ay sa katunayan ang Tagatulong, ang Tumutulong, ang Mapagmahal, ang Makapangyarihan, ang Malakas.
 
 Ang luwalhati ng mga kaluwalhatianay mapasakanilang mga matibay at matatag.
-
--- Abdu'l-Bahá

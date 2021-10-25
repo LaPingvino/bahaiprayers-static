@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5202 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##LOH AHMAD
@@ -28,5 +29,3 @@ Sesungguhnya, Ia Yang Maha Pengasih dan Maha Penyayang. Pujian bagi Tuhan, Raja 
 
 *Sifat orang yang telah lepas dari segala keduniawian.
 *Hazrat Báb
-
--- Bahá'u'lláh

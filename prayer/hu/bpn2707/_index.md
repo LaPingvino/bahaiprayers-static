@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2707 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 A Reád áhítozó szívekben az Érted égő vágy tüze izzik, ó, Istenem, s az udvarodtól való elszakíttatás fájdalmában keserves könnyet hullatnak azok szemei, kik Téged szeretnek. Országaidat az ő siralmuk zokogása járja be, azoké, akik Benned reménykednek.
@@ -11,5 +12,3 @@ Dicsőséged a tanúm! Minden egyes reggelen szenvedések kelyhe áll azok szeme
 Könyörögve kérlek hát, ó, Istenem, segítsd őket erősítő kegyelmed által, hogy Téged szeretvén tűrhessék tovább kínjaikat, és fedd föl szemeik előtt azt, mit biztos oltalmad Szentélye mögött számukra elrendeltél, hogy elébe futhassanak annak, ami nékik a Te utadon elrendeltetett, hogy az Irántad érzett szeretetük indítsa őket versengésre e megpróbáltatásokért. Vagy legalább bontsd ki előttük fölényed lobogóit és tedd őket győzedelmesekké ellenségeid felett, hogy a Te korlátlan uralmad megmutatkozzon birodalmad valamennyi lakója előtt, s hogy hatalmad ereje teremtményeid előtt megnyilvánulhasson. Hatalmadban áll, hogy azt tedd, amit akarsz. Nincs más Isten, csak Te, a Mindentudó, a Mindenek Felett Bölcs.
 
 Tedd, ó, Istenem, Benned hívő és Ügyedet támogató szolgádat rendíthetetlenné, oltalmazd őt gondviselésed és védelmed erődítményében minden veszedelemtől ebben és az eljövendő életben. Bizony, úgy uralkodsz, ahogy Néked tetszik. Nincs más Isten csak Te, a Mindig Megbocsátó, a Legnagylelkűbb.
-
--- Bahá'u'lláh

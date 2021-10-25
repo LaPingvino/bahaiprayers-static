@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5318 in Bosanski'
+author = 'Báb'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 U ime Boga, Gospodara nedokučive veličanstvenosti, Svepokoravajućeg.
@@ -9,5 +10,3 @@ Recite: Bog mi je dovoljan; On je Onaj u Čijem su ruci sva kraljevstva. On put
 Neizmjerno si uzvišen, o, Gospodaru! Zaštiti nas od onoga što je pred nama i iza nas, što nam je nad glavama, od svega sa desna i lijeva, od onoga što nam je pod nogama, i svaku stranu kojoj smo izloženi. Uistinu, Tvoja zaštita nad svim stvarima je nenadmašna.
 
 *(originalnu molitvu je Báb ispisao vlastitom rukom, u vidu petougla)
-
--- Báb

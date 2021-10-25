@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6106 in Chamorro'
+author = 'Bahá'u'lláh'
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 #TINAITAI OPBLIGASION
@@ -12,5 +13,3 @@ Taya’ mas Yu’os ki Hagu, i Ayudu gi Piligru, i Lala’la’-Maisa.
 
 I bear witness, O my God, that Thou hast cre- ated me to know Thee and to worship Thee. I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth.
 There is none other God but Thee, the Help in Peril, the Self-Subsisting.
-
--- Bahá'u'lláh

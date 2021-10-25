@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10163 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is God, exalted is He, the Lord of might and grandeur! 
@@ -15,5 +16,3 @@ In my homeland, all bounty is Thine, O Thou besides Whom there is none other God
 Under the sword, all munificence is Thine, O Thou besides Whom there is none other God, and in the safety of home, all perfection is Thine, O Thou besides Whom there is none other God!  In the lofty mansion, all generosity is Thine, O Thou besides Whom there is none other God, and upon the lowly dust, all favour is Thine, O Thou besides Whom there is none other God!  
 In prison, all fidelity is Thine, O Thou the Bestower of gifts, and in confinement, all eternity is Thine, O Thou Who art the ever-abiding King! 
 All bounty is Thine, O Thou Who art the Lord of bounty, and the Sovereign of bounty, and the King of bounty!  I bear witness that Thou art to be praised in Thy doings, O Thou Source of bounty, and to be obeyed in Thy behests, O Thou Ocean of bounty, He from Whom all bounty doth proceed, He to Whom all bounty doth return!
-
--- Bahá'u'lláh

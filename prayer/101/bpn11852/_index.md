@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11852 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *Ngudung (Kabant Uluk Rohani)
@@ -8,5 +9,3 @@ O Topa! O Topa! Sok pritah pinyindi Ingan dek dik-eh tonga ninga leh koih bigupu
 O Raja koih! Koih dimutik lemah, jek Ingan leh dek Doras, dek Bikuasa. Koih dimutik doie semangat, jek Ingan leh dek paling ayuh ngin-pingidip Roh. Koih dimutik sotok, jek Ingan leh dek Tukang Tangung, dek Bikuasa. 
 O Raja koih! Kos jowin koih tudu jowin perasie Ingan, ma’ant koih sok mija surga Ingan pakai tugung budi Ingan, tulung koih pakai hos hos malaikat ayuh Ingan bia notap koih pakai sok bala dek kudus ndu Pritah Abha.
 Totap, Ingan leh dek Murah otin, dek Pirasie. Ingan leh Pemilik budi paling ayuh, duoh lagi, totap, Ingan leh dek Sonang Mudah duoh lagi dek Bibudi.
-
--- Abdu'l-Bahá

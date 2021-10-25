@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4093 in Latviešu'
+author = 'Abdu'l-Bahá'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Ikviena dvēsele, kas dodas mācīšanas ceļā un dzīvo svešās zemēs, var lasīt sekojošo lūgšanu gan dienu, gan nakti:
@@ -9,5 +10,3 @@ Ak Dievs! Ak Dievs! Tu redzi, kā es tvīkstu, Tavas Ķēniņvalsts valdzināts,
 Ak Kungs! Stiprini mani un ļauj man Tev kalpot ar visu savu būtni, un neatstāj mani vienu tālajās zemēs.
 Ak Kungs! Esi ar mani manā vientulībā un pavadi mani svešu zemju ceļos.
 Patiesi, Tu dod svētību, kam vien Tu gribi, darbiem, kurus Tu izvēlies. Patiesi, Tu esi Visspēcīgais, Visvarenais.
-
--- Abdu'l-Bahá

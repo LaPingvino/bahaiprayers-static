@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4885 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Bunlar, Ey mənim Allahım, Öz bəndələrinə oruc tutmağı fərz buyurduğun günlərdir. Bununla Sən yaratdıqlarına nazil olmuş Qanunlar Kitabının müqəddiməsini bəzədin, göydə və yerdə olanların gözləri qarşısında hökmlərinin Xəzinələrini zinətləndirdin. Sən bu günlərin hər saatına Səndən, elmi bütün yaranmış şeyləri əhatə edən Kəsdən başqa heç kəsin dərk edə bilmədiyi xüsusi bir fəzilət əta etmisən. Sən həm də hər bir ruha bu fəzilətdən Sənin əmr Lövhünə və Sənin qəti hökm Kitablarına uyğun olaraq bir pay ayırmısan. Bundan başqa, bu Kitabların və bu Lövhlərin hər bir vərəqini yerdə olan xalqların və tayfaların hər birinə həsr etmisən.
@@ -21,5 +22,3 @@ Sən görürsən, Ey mənim Allahım, Sənin günlərində Sənin əzizlərinin 
 Bu saat, İlahi, Sənin hər saatdan üstün etdiyin saatdır və onu Sənin məxluqatın arasında ən seçilmişlərinə aid etmisən. Səni and verirəm, Ey mənim Allahım, Sənin Özünə və onlara - bu il Sənin sevimlilərinu ucaldan şeyləri nəsib eylə. Bundan başqa, bu ilin ərzində o şeyləri hökm ver ki, Sənin iqtidar Günəşini cəlal üfüqündə parlaq şəfəq saçmağa və Sənin hökmran qüdrətnlə bütün dünyanı işıqlandırmağa qadir etsin.
 
 Öz Əmrini müzəffər eylə, İlahi, Sənin düşmənlərini isə tabe et. Sonra bizə bu dünyanın və o biri dünyanın xeyirlərini yaz. Sən bütün gizli şeyləri bilən Haqqsan. Səndən başqa Allah yoxdur, Həmişə Bağışlayan, Kəramət Sahibi.
-
--- Bahá'u'lláh

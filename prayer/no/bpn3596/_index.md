@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3596 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 *Naw-rúz, den 21. mars, er den første dag i bahá'í året, en gledens dag.
@@ -15,5 +16,3 @@ Han som er din Gren, og hele ditt følge, o min Herre, har i dag brutt sin faste
  
 Du er i sannhet den allvitende, den allvise.
 *(*) Jesus (**) Muhammed
-
--- Bahá'u'lláh

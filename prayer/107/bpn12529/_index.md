@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12529 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-107', 'bpn-unsorted']
 +++
 ##Orasaun Obrigatóriu
@@ -8,5 +9,3 @@ Laiha Maromak seluk tan só Ita-Boot de’it, Tulun-na’in iha susar laran, Ita
  
 
 *Molok halo orasaun, fase oin no liman. Hamriik fila oin ba Baha’u’llah nia santuáriu. Hasa’e orasaun ne’e mesak loroloron entre meiudia no loron-monu.
-
--- Bahá'u'lláh

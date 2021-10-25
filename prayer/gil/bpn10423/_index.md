@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10423 in Kiribati'
+author = 'Abdu'l-Bahá'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Au Uea, ao Atuau ao au Tabo ni Motirawa man korakaiu! Otangau ao te Tia Kakaawakin man  korakaiu!  Au nono ao au Tabo ni Kakaawakin n tain te kangaanga ao n tain te maroaa bon iriau, n au tai n rawawata bon karauan nanou ao ngkana ti ngai bon raou ae e tangiraki.  Te Tia Kamwaawai kananokaawaki nako ao te Tia Kabwarai au bure!
@@ -13,5 +14,3 @@ Atuau, Atuau, tai tuuka nakoiu kamaeun angin Am kabwarabure ao Am aakoi ao tai k
 I aan nuun bain Am kakaawakin kamenaai bwa  Nna motirawa, ao karekea nakoiu Am taratara ae e kakaawakin.
 Kariaia neweu bwa e na takaruaa Aram i buakoia Am aomata, bwa e aonga n irakeaki i nanon baronga aika a korakora ao koburaken karaangan Neboam.
 Bon Ngkoe, ni koaua, te Tamaroa, te Mimitong, te Mwaaka, te Konai Bwaai nako!
-
--- Abdu'l-Bahá

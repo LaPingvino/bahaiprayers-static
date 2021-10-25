@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12316 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 •	
@@ -19,5 +20,3 @@ saoloto mai I te pouliga o te valea.  Ke mafai ne latou p luku kit e lamepa ko T
 O ko te Mafi-Katoatoa!  Kilo mai kia matou mot e kiloga alofa.  Uku mai kia matou a faka-manuiaaga faka-te-lagi.  Fakaeke mai kia matou a te manavaaga o te Agaaga Tapu, ko te mea ke mafai ne matou o maua se fesoasoani i Tau galuega kae, pe la loa mo fetu pula, e pula i kogaa-fenua konei mo te mainaaga o Tau takitakiiga.  
   
 E tonu, a Koe ko te Maalosi, ko Mafi, ko te Atamai mo te Lavea.
-
--- Abdu'l-Bahá

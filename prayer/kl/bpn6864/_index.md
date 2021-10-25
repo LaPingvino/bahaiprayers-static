@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6864 in Kalaallisut'
+author = 'Abdu'l-Bahá'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 #Ilinniartitsinissamut qinnutit Pilersaarutip Guuterpaluttup Allagaanit
@@ -11,5 +12,3 @@ tags = ['lang-kl', 'bpn-unsorted']
 Nersorneqarit Illit, Guutiga-aa! Makku tassaapput kiffatit nallittuissutsivit tipigissusianut kajungilersimasut, ataasiussutsivit orpianit ikumasumit ikinneqarsimasut aammalu isaat qaamanerup Illit ataasiussutsivit Sinaianit akisuguttup qinngornerata tupinnartup qaammarsagai.
 Naalagaq-aa! Oqaat qilerussaakkit Illit pillutit innuttavit akornanni oqaluuseqarniassammata, Illillu saammaassutsikkut asanninnikkullu Ilinnik unnersiutiginninneq oqaatigilissuk, inngilinnik katersaarsuarnik ikiukkit, Ilinnullu kiffartuussinerminni makisii nakussatsikkit tassaalersikkillu Illit pinngortitavit akornanni siulersuininnut nalunaaqqutit.
 Ilumoortumik Illit Ajugaqanngitsuuvutit, Tamanit Nersornarnerusoq, Soraajuitsumik Isumakkeerfiginnittoq, Tamanik Nallittuisoq.
-
--- Abdu'l-Bahá

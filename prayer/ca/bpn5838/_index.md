@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5838 in Català'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Revelat Als Bahá’ís Dels Estats Centrals
@@ -10,5 +11,3 @@ Oh Senyor, Déu meu! La lloança i l’agraïment siguin per Tu, doncs m’has g
 Oh Senyor! Confirma’m amb l’Esperit Sant, perquè en el Teu Nom faci una crida entre les nacions i doni les bones noves de la Manifestació del Teu Regne entre la humanitat.
 Oh Senyor! Soc dèbil, enforteix-me amb el Teu poder i potència. La meva llengua vacil·la, permet-me expressar la Teva commemoració i lloança. Soc humil, honra’m admetent-me en el Teu regne. Estic allunyat, fes que m’acosti al llindar de la Teva misericòrdia, 
 Oh Senyor! Fes de mi una llàntia brillant, un estel resplendent i un arbre beneït, guarnit amb fruits, estenent les branques sobre aquestes regions. Veritablement Tu ets el Fort, el Poderós i el Lliure.
-
--- Abdu'l-Bahá

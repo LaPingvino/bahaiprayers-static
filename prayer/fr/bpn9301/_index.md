@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9301 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 *Cette prière est lue aux tombeaux de Bahá’u’lláh et du Báb. On la récite aussi fréquemment pour commémorer leurs anniversaires.
@@ -12,5 +13,3 @@ Que la mention de Dieu et sa louange, la gloire de Dieu et sa splendeur reposent
 Puisse mon esprit être offert en sacrifice pour les injustices dont tu as souffert, et mon âme servir de rançon pour les adversités que tu as endurées. Par toi et par ceux dont le visage est illuminé par les splendeurs de la lumière de ta présence, et qui, par amour pour toi, observent tout ce qui leur est commandé, je supplie Dieu d’enlever les voiles qui s’interposent entre toi et tes créatures, et de me donner les biens de ce monde et du monde à venir. En vérité, tu es le Tout-Puissant, le Suprême, le Très-Glorieux, le Magnanime, le Très-Compatissant.
 Ô Seigneur, mon Dieu, bénis l’Arbre divin, ses feuilles, ses branches, ses rameaux, ses tiges et ses rejets, tant que dureront tes titres les plus excellents et tes attributs les plus augustes. Protège-le des méfaits de l’agresseur et des armées de la tyrannie. En vérité, tu es le Tout-Puissant, l’Omnipotent. 
 Ô Seigneur, mon Dieu, bénis aussi tes serviteurs et tes servantes qui sont parvenus jusqu’à toi. Tu es, en vérité, le Très-Miséricordieux dont la grâce est infinie. Il n’est pas d’autre Dieu que toi, le Magnanime, le Très-Généreux.
-
--- Bahá'u'lláh

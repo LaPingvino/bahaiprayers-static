@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2607 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *Elmondandó minden nap dél és napnyugta között
@@ -16,5 +17,3 @@ Nincs más Isten, csak Te, a Veszélyben Oltalmazó, az Önmagától Való.
 *Mikor ez imát mondani kívánjátok, forduljatok Legszentebb Jelenlétem Udvara, e Szent Hely felé, melyet Isten azon Középponttá tett, mely körül kering a Magasságbéli Gyülekezet, és melyet az Imádás Pontjának[*] rendelt az Örökkévalóság Városaiban lakozók számára ... —Kitáb-i-Aqdas
 
 *[* A Qiblih, vagyis Bahjí, Akkó]
-
--- Bahá'u'lláh

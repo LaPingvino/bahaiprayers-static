@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6242 in Luganda'
+author = 'Bahá'u'lláh'
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 *...Okwejusa ebibi n'ebyonono eri abantu, tekiki rizibwa... Omwonoonyi alina okuda eri Katonda we, olwo n'awanjagira ekisa, ky'Oyo, nnyini nnyanja ey'ekisa, n'asaba ekusonyiyibwa okuva mu Ggulu ly'obugobi bwe, ayatule nti:
@@ -8,5 +9,3 @@ Ayi Mukama! Ggwe olabira ddala omwonoonyi ono nga akyukidde eri ennyanja y'ekisa
 Woowe! Woowe! Ebibi byange bingaanye okutuuka mu mbuga ey'obutukuvu Bwo, era ebyonono byange bimbuziza ne ngenda wala okuva ku weema ey'obwakabaka Bwo.  Nkoze ekyo Ggwe kye wangaana okukola, era, ne nteeka ku bbali, ekyo Ggwe kye wandagira okutuukiriza.  
 Nkusaba kulw'Oyo Mukama ow'Amannya gonna, ompandikire n'akafumo ak'omukisa Gwo, ekyo ekinanyamba okutuuka okumpi Nawe, era n'okunkokoolamu ebyonoono byange, ebyekiika wakati wange n'okusaalira Kwo n'okusonyiwa Kwo.
 Ddala ddala, Ggwe oti wa maanyi, Omugabi.  Tewali Katonda mulala wabula Ggwe, Ayinza byonna, ow'ekisa.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn672 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist der König, der Allwissende, der Weise.
@@ -35,5 +36,3 @@ Lerne diese Tafel gut, o Ahmad. Singe sie in deinen Tagen und enthalte dich dess
 Bei Gott! Sollte jemand, der bedrängt oder bekümmert ist, diese Tafel aufrichtigen Herzens lesen, so wird Gott seinen Kummer vertreiben, seine Schwierigkeiten lösen und seine Bedrängnis hinwegtun.
 
 Wahrlich, Er ist der Barmherzige, der Mitleidvolle. Preis sei Gott, dem Herrn aller Welten!
-
--- Bahá'u'lláh

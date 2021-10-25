@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12225 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E maluga a Tou igoa, O te Aliki toku Atua!  E molimau ne Koe me ia Koe e silia atu mai i luga o mea faiite katoa, a ko Tou alofakaimalie e sopoia atu i tino katoa i te lagi mo te lalolagi.  Kae kafai ko tonu ia Koe ke suke a te veli o Tou nofoaiga-a-aliki, kae ke vikia a Tau muna, kae ke fakaasi a Tou maukoloa mo te alofa-kaimalie, ne avaka ne Koe a Tau tavini tokotasi, kae fili a Ia mai i luga i Au mea faiite katoa, kae fakamatea aka loa a Ia tokotasi ona ko Tau pogai, kae fakapei a Ia ki te gatu o Tau takitakiiga, kae ufi a Ia i lalo i te tai o Tau aifioga mo te matagofie, kae faka-mmalu a Ia mai i mea katoa ko la seai ko te taua o Tou matagofie mo te maalosi o Tou mafi, kae fai atu kia Ia ke kalaga atu ki mua o latou katoa i te lagi mo te lalolagi, kae kami mai ate toko-ukega o tinio ki te Faifekau a Koe mo te Fakaasiiga o Au failoga.  
@@ -9,5 +10,3 @@ Koe.  Ko nisi ne kilo fakatauemu kia Koe, kae fuli a olotou tua mai ia Koe, kae 
 Au e akai kia Koe, O ko Koe Te la ko te Aliki o igoa katoa, ke leoleo Au fagasele mai i Ou fili, kae ke fak-maalosi a latou i te olotou alofa kia Koe mo te faka-taunuuga a te mea e fiafia Koe ki ei.  Puipui ne Koe a latou, ko olotou laga-a-vae ke se seke keatea, ko olotou loto ke se punitia pe la me ne pono ne se veli mai ia Koe, ko olotou mata ke se mae i te kiloga ki se mea vagana loa ko Koe.  Fai aka latou ke lasi i te fiafia mai i te magalogalo o Tou sikuleo faka-te-lagi te la ko motu i ei latou mai i kopikopiiga katoa vagana ko Koe, kae ka fuli katoatoa kia Koe, kae fakamaluga Koe i fakanofonofoga katoa, kae fai atu penei:  “Vikiiga e o Koe, O te Aliki te motou Atua, pe la loa mo Koe ko oti ne faka-mafai ko matou ke lavea a Koe a te tafasili i te matagofie mo te maluga.  
 Matou, mai i luga i Tou alofa-kaimalie, ka piki mmau kia Koe, kae ka motu matou mai i so se mea na ko Koe.  Ko talitonu matou ia Koe ko te Fagasele o lalolagi mo te Tufuga o te lalolagi mo te lagi!”  
 Te silisiliese io te Atua, ko te Aliki o te foafoaaga katoatoa!
-
--- Bahá'u'lláh

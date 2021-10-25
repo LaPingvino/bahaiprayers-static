@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3503 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Lovet være du, o min Gud! Du er den som ved et ord fra din munn fullstendig har omformet hele skaperverket, og ved et strøk av din penn har skilt dine tjenere fra hverandre. Jeg bevitner, o min Gud, at ved et ord talt av deg i denne åpenbaring ble alle skapte ting bragt til å utånde, og ved atter et annet ord ble alle slike som du ønsket, skjenket nytt liv ved din nåde og barmhjertighet.
@@ -13,5 +14,3 @@ Du er vel vitende, o min Herre, om at jeg hører ulingen fra de ulver som fremtr
 Bestem du for dem, o min Herre, det som vil være dem til gavn. Opplys så deres øyne med din kunnskaps lys, slik at de kan se deg klart opphøyet over alle ting, og strålende midt iblant dine skapninger, og som seierherre over alle som i din himmel og alle som er på din jord. Mektig er du til å handle etter ditt behag. Ingen annen Gud er der enn deg, den overmåte herlige, som alle mennesker bønnfaller om hjelp.
  
 Lovet være du, som er hele skapningens Herre.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8237 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He it is Who is established upon this luminous Throne.
@@ -17,5 +18,3 @@ O company of the Concourse on high, and O denizens of the immortal city! Hasten 
 Drink deep, O ye dwellers of earth and heaven, from the chalice of eternal life that the hand of Bahá proferreth in this most lofty and exalted Paradise. By God! Whoso partaketh but a drop thereof shall neither suffer the vicissitudes of time nor fall prey to the wiles of the Evil One, but the Lord shall send him forth in every Dispensation adorned with a hallowed and wondrous beauty. All hail then to this, the Festival of the Lord, that hath been made manifest from the seat of the Lord of all wisdom!
 Sanctify your souls from the world, O people, and hasten unto the Divine Lote-Tree in this furthermost sanctuary, that ye may hearken unto the voice of your Lord, the All-Merciful, calling from this Paradise which hath been created at the behest of God, the All-Praised, and before whose portals the inmates of the pavilion of sanctity bow down in adoration. All hail then to this, the Festival of the Lord, that hath shone forth above the horizon of majesty and grandeur!
 Take heed, O people, lest ye deprive yourselves of the breezes of these days wherein the fragrance of the divine Robe is being wafted at every moment from the presence of this glorious and radiant Youth. All hail then to this, the Festival of the Lord, that hath shone from the dayspring of His name, the Most High!
-
--- Bahá'u'lláh

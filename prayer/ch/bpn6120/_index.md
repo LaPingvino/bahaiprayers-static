@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6120 in Chamorro'
+author = 'Bahá'u'lláh'
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##PARA I MANMATAI
@@ -35,5 +36,3 @@ We all, verily, yield thanks unto God.
 We all, verily, are patient in God.
 
 *(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden, etc....)
-
--- Bahá'u'lláh

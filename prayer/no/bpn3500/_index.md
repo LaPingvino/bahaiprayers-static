@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3500 in Norsk'
+author = 'Báb'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 I Guds navn, den overveldende storhets Herre, den altbetvingende.
@@ -10,5 +11,3 @@ Si: Gud er meg nok; han er den som i sitt grep holder altets rike. Gjennom kraft
  
 Umåtelig opphøyet er du, o Herre! Beskytt oss mot det som ligger foran oss og bak oss, over våre hoder, til høyre, til venstre, under våre føtter og på enhver annen side av oss. Sannelig, din beskyttelse av alle ting svikter aldri. [1]
 * 1. Originalen til denne bønn for beskyttelse er skrevet med Bábs egen hånd i form av et pentagram.
-
--- Báb

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12024 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Şypakär, Binyýaz, Goldaýjy, Ýalkaýjy we Mähriban.
@@ -89,5 +90,3 @@ Oldur Şypakär, Binyýaz, Goldaýjy, Ýalkaýjy we Mähriban.
     Päk we Mukaddes Sen, Eý meniň Taňrym! Jomartlyk we Sahylyk gapylaryny açan we Päk Peýkeriňi Bakylyk arşynda diken sahylygyň üçin ähli ýaradanlaryňy Keramatly hem Bereketli saçagyňa çagyrdan Rähmetiň üçin Seniň Ululygyň hem Patyşalygyň äşgär bolup, Seniň hökümetiň doglan çagy, Öz Ruhuňda bütin ýer şarynyň hem asmanyň barlyklarynyň tarapyndan Saňa “lepbeýk” diýdiren, Enaýatyň üçin bu ýagşy hem şerif Atlar we Ylahy uly Sypatlar üçin iň gözel hem päk Jemalyň hatyrasy üçin pynhan çadyryňda ýaşyrylan ýagtylygyň hatyrasy üçin we görgi lybasyny geýen Adyň hatyrasy üçin her säher, her şam şeýle dileg bilen Saňa ýalbarýaryn: Bu Ýazgyny ýanynda göterýän kişini hem ony okaýan adamy, ýa-da bu Ýazgy onuň üçin okalýan adamy, hem-de bu Ýazgy ýerleşen öýe ýoly düşen adamy gorap saklagyn.
     Bu Ýazgy bilen her hassany, dertlini hem mätäji, ähli bela-beterlerden we gam-gussalardan halas eýle.
      Onsoň bu Ýazgy bilen Seniň Hedaýat ýollaryňa hem-de Seniň kemal beriji we Ýalkaýjy ugurlaryňa girmek isleýän kişini ýola sal. Dogrudanam iň Eziz, Binyýaz, Şypakär, Goraýjy, Jomart, Mähriban, Kerim we Rehimdar Sensiň.
-
--- Bahá'u'lláh

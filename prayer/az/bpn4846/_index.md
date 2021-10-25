@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4846 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, mənim Allahım! Sən görürsən, qara zülmət bütün diyarları necə bürüyür. Bütün ölkələr ixtilaf atəşində necə yanırlar, müharibə və qətliyam Şərq və Qərbi necə oda qalayıb. Qanlar tökülür, bədənlər torpağa sərilib, üzülümüş başlar savaş meydanında toz-torpağa düşüb.
@@ -25,5 +26,3 @@ Ya Rəbb! Həqiqətən, insanlar ehtiras uçurumuna yuvarlanıblar və Sənin so
 Ya Rəbb! Bu azmış nəfs qaranlığını qov və Sənin məhəbbətinin tezliklə bütün ölkələri nurlandıracaq çırağıyla ürəkləri nurlandır. Sənin rahiyələrini yaymaq və Sənin Təlimlərini bəyan etmək üçün vətənlərini, ailələrini və uşaqlarını tərk edərək Sənin Camalına məhəbbətləri xatirinə qürbət diyarlara yayılmış dostlarını müvəffəq eylə. Yalqızlıqlarında onların həmdəmi, yad torpaqlarda onların köməyi və kədərlərini dağıdan ol, bəla zamanı isə onların təsəlli verəni ol. Susuzluqlarında sərinləşdirici içkisi, xəstəliklərində şəfaverici dərmanı və ürəklərinin həsrət atəşinə məlhəm ol.
 
 Həqiqətən, Sən Ən Səxavətli, bol fəzl Sahibisən, həqiqətən, Sən Şəfqətli və Mərhəmətlisən.
-
--- Abdu'l-Bahá

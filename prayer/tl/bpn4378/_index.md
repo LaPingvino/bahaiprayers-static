@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4378 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Dapat usalin minsan sa dalawampu't apat na oras
@@ -63,5 +64,3 @@ Purihin Ka nawa, O aming Diyos, pagka't Iyong inihulog sa amin yaong naglalapit 
 *Hayaang itaas niya ang kaniyang ulo, iupo ang kaniyang sarili at sabihin:
 
 Pinatutunayan ko, O aking Diyos, yaong pinatunayan ng Iyong mga hinirang, at tinatanggap yaong tinanggap ng mga nanananhan sa pinakamataas sa lahat na Paraiso at yaong mga tinanggap ng mga lumilibot sa Iyong makapangyarihang Trono. Ang mga kaharian ng kalupaan at kalangitan ay Iyo, O Panginoon ng mga daigdig!
-
--- Bahá'u'lláh

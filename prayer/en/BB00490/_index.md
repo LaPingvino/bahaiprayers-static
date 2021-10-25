@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BB00490 in English'
+author = 'Báb'
 tags = ['lang-en', 'BB00490']
 +++
 In the Name of God, the Lord of overpowering majesty, the All-Compelling.
@@ -12,5 +13,3 @@ Immeasurably exalted art Thou, O Lord! Protect us from what lieth in front of us
 
 
 *1. The original of this prayer for protection is written in the Báb’s own hand, in the form of a pentacle.
-
--- Báb

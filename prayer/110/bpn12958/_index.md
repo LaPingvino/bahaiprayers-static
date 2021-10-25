@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12958 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 O man, husat i painim Trupela Tok!  Sapos yu laikim bai God i opim ai bilong yu, orait yu mas askim strong long God, prea long En na tingting strong long En long biknait na tok: 
@@ -14,5 +15,3 @@ O seeker of Truth!  If thou desirest that God may open thine eye, thou must supp
 O Lord, I have turned my face unto The kingdom of oneness and am immersed in the sea of Thy mercy.  O Lord, enlighten my sight by beholding Thy lights in this dark night, and make me happy by the wine of Thy love in this wonderful age. O Lord, make me hear Thy call, and open before my face the doors of Thy heaven, so that I may see the light of Thy glory and become attracted to Thy beauty. 
  
 Verily, Thou art the Giver, the Generous, the Merciful, the Forgiving.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2316 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 În numele Domnului, Cel Străvechi, Cel Măreţ.
@@ -102,5 +103,3 @@ Cu adevărat am auzit chemarea Ta, Cel Atotslăvit şi Mult Iubit, iar acum chip
 O, ‘Alí-Akbar, mulţumeşte Domnului tău pentru această tabletă, din care adie parfumul umilinţei Mele, căci prin ea cunoşti ce Ne-a adus pe calea Domnului, a Celui Adorat de lumile toate.
 
 şi dacă toţi slujitorii noştri vor citi şi vor medita la toate acestea, în vinele lor se va aprinde un rug ce pune în flăcări lumile toate.
-
--- Bahá'u'lláh

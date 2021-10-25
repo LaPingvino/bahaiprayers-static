@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5208 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Ayyami-Ha (Hari-Hari Sisipan) 
@@ -15,5 +16,3 @@ Sesungguhnya Engkaulah Yang Maha Kuat, Yang Maha Tahu, Yang Maha Arif.
 *"Seharusnya umat Bahá, selama hari-hari itu, menyediakan jamuan yang baik untuk mereka sendiri, sanak saudara mereka, kemudian fakir miskin dan yang memerlukan, dan dengan riang dan gembira, memuji dan memuliakan Rabi mereka..."
 
 *"Sesungguhnya, Kami perintahkan kepada semua orang agar pada hari-hari ini memberikan pemberian kepada dirinya dan kepada orang-orang yang menghadap pada Tuhan... Kami telah menetapkan hari-hari itu sebelum puasa sebagai rahmat dari pihak Kami ... Berbahagialah orang-orang yang menjalankan apa yang diperintahkan Tuhan dan celakalah bagi mereka yang melalaikannya".
-
--- Bahá'u'lláh

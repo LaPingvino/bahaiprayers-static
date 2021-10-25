@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2308 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slavă ţie, Doamne, Stăpâne, Dumnezeul
@@ -10,5 +11,3 @@ Doamne, eu sunt acela care s-a ţinut strâns de funia bunătăţii Tale duioase
 Iată, o, Stăpânul meu, zilele în timpul cărora Tu le-ai prescris slujitorilor Tăi să ţină post. Binecuvântat este cel care ţine post numai din iubire pentru Tine şi într-o detaşare absolută de tot ce nu eşti Tu. Ajută-ne, Doamne, pe mine şi pe ei, să-ţi dăm ascultare şi să păzim poruncile Tale. Tu ai, cu adevărat, puterea de a face precum ţi-e placul.
 
 Nu există alt Dumnezeu în afară de Tine, Atotştiutorul, Cel Atotînţelept. Toată lauda fie cu Dumnezeu, Stăpânul tuturor lumilor.
-
--- Bahá'u'lláh

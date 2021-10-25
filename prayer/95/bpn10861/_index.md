@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10861 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 ##KE FAI I ASO KATOA, ITE TAEAO, TUTONU, MOTE AFIAFI
@@ -32,5 +33,3 @@ Au e molimau ki Tou fakatasitasi mo Tou tafatasi, ia Koe ko te Atua, tela e seai
 
 *“Te Atua e molimau me e seai aka foki se Atua na ko Koe, te Fesoasoani i Fakalavelave, te Ola-fua-ia-Ia” ko lava li ei.  E pena foki, e lei mafai a ia, koi sagasaga, kae fili ne ia o fai atu penei “Au e molimau ki Tou fakatasitasi mo Tou tafatasi, a ko Koe ko te Atua, kae e seai aka foki se Atua na ko Koe.”)
 Bahá’u’lláh
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9224 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Glorifié sois-tu, ô Seigneur, mon Dieu ! Chaque fois que j’ose te mentionner, le poids de mes péchés et la gravité de mes offenses à ton encontre m’en empêchent, et je me sens entièrement privé de ta grâce, incapable de célébrer ta louange. 
@@ -8,5 +9,3 @@ La grande confiance que j’ai en ta bonté ravive toutefois l’espoir que je p
 Ô Aimé des cœurs qui languissent après toi, par les manifestations de ta cause, les aurores de ton inspiration, les interprètes de ta majesté et les trésors de ta connaissance, ne m’exclus pas de ta sainte demeure, de ton temple, de ton tabernacle. 
 Ô mon Seigneur, permets que je gagne sa sainte cour, que je gravite autour de sa personne, que je me tienne humblement devant sa porte.
 Ton pouvoir demeure de toute éternité. Rien n’échappe à ta connaissance. Tu es, en vérité, le Dieu de pouvoir, le Dieu de gloire et de sagesse. Loué soit Dieu, le Seigneur des mondes !
-
--- Bahá'u'lláh

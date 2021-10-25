@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3238 in Afrikaans'
+author = 'Abdu'l-Bahá'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 *Gebed wat by die afsluiting van 'n vergadering van die Geestelike Raad behoort gesê te word.
@@ -11,5 +12,3 @@ O ons Here! Ons is swak, en U is die Magtige, die Kragtige. Ons is lewensloos, U
 O ons Here! Wend ons gesigte na U genadige gelaat, voed ons van U hemelse tafel met oorvloedige guns, help ons met die skares van U opperste engele en bevestig ons deur die heiliges van die Koninkryk van Abhá.
 
 Voorwaar, U is die Vrygewige, die Barmhartige, U is die Besitter van groot mildheid, en, voorwaar, U is die Genadige en die Goedgunstige.
-
--- Abdu'l-Bahá

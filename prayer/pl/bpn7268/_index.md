@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7268 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##ŚREDNIĄ MODLITWĘ OBOWIĄZKOWĄ NALEŻY ODMAWIAĆ CODZIENNIE RANO, W POŁUDNIE I WIECZOREM.
@@ -27,5 +28,3 @@ Nie zawiedź, o mój Boże, tego, który błagającymi palcami uchwycił się r�
 Daję świadectwo Twojej jedności i Twojej jedyności oraz temu, że Tyś jest Bogiem i że nie ma innego Boga poza Tobą. Tyś, zaiste, objawił swoją Sprawę, wypełnił swe Przymierze i szeroko rozwarł wrota łaski swojej dla wszystkich, którzy zamieszkują niebo i ziemię. Błogosławieństwo i pokój, szacunek i chwała Twoim umiłowanym, którym ani zmiany, ani przypadki tego świata nie przeszkodziły w zwróceniu się ku Tobie, i którzy oddali wszystko w nadziei otrzymania tego, co jest u Ciebie. Zaprawdę, Tyś jest Zawsze Przebaczającym, Wszechdobroczynnym.
 
 *(Jeśli ktoś woli, zamiast tego długiego wersetu może powiedzieć następujące słowa: „Bóg świadczy o tym, iż nie ma innego Boga poza Nim, Pomocą w Niebezpieczeństwie, Samoistnym”. Wystarczy nawet, jeśli siedząc, modlący się powie: „Daję świadectwo Twojej jedności i Twojej jedyności oraz temu, że Tyś jest Bogiem i że nie ma innego Boga poza Tobą”.)
-
--- Bahá'u'lláh

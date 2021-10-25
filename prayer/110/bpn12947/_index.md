@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12947 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 O gutpela Papa!  Yu bin mekim kamap olgeta manmeri long wanpela papa na wanpela mama tasol.  Yu bin tokaut olsem olgeta i mas i stap insait long wanpela haus tasol.  Long ai bilong Yu, olgeta man i wokman bilong Yu na Yu lukautim olgeta insait long Haus Holi bilong Yu.  Olgeta i bung wantaim long Tebol bilong Blesing bilong Yu.  Olgeta i kisim lait long lait bilong Marimari bilong Yu.  
@@ -36,5 +37,3 @@ Cement Thou, O God, the hearts together.
 O Thou kind Father, God!  Gladden our hearts through the fragrance of Thy love.  Brighten our eyes through the Light of Thy Guidance.  Delight our ears with the melody of Thy Word, and shelter us all in the Stronghold of Thy Providence. 
  
 Thou art the Mighty and Powerful, Thou art the Forgiving and Thou art the One Who overlooketh the shortcomings of all mankind.
-
--- Abdu'l-Bahá

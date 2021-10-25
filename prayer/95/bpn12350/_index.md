@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12350 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Faka-lauefa a Tou igoa, O te Aliki toku Atua!  Taofi aka ne Koe toku mata e faka-moemoe ke kilo ki luga i mea faka-ofoofogia o 
@@ -9,5 +10,3 @@ Sa liakina ki tua, au e akai totuli kia Koe, O toku Aliki, latou ko la e saala k
 Tau tavini fafine tela ko oti ne saala atu ki Tou maluuga, kae faka agai ona mata kia Koe.  
  
 Ko Koe, e tonu, ko te Fakamagalo-Katoatoa, ko te Tafasili i te AtafaiKaimalie.
-
--- Bahá'u'lláh

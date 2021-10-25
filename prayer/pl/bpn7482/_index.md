@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7482 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##LAWH-I-AQDAS
@@ -36,5 +37,3 @@ Błogosławiony człowiek, którego poruszyły słodkie wonie ponownego spotkani
 
 [1] Jezusa
 [2] Jezusa
-
--- Bahá'u'lláh

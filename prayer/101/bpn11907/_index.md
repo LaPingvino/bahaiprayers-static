@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11907 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Onu Pingosah, 26 onu bulan 2 nog 1 onu bulan 3 jadin eh geh, onu bisitak yak Puasa, onu-onu sikadud, ngenang bia ngin hadiah.)
@@ -8,5 +9,3 @@ Dimuntik, O Raja ku, kabant ulunt Ingan bala dek doie niat ja’at dek yak tilig
 Ingan ninga leh, O Raja ku, main wat bala tih mbok piluh bia ngakon oni mun sija onik dek bikulia Ingan daang Sina Joja Ingan. Ngin odak koih nuak, O Raja ku, sok tongan budi Ingan, pi’in pinolee odop Ingan. Nulis, adin sa’ant koih ganjaran totap sa’ant bala dek mbok suluam odop eh daang laut pimonog Ingan, bia tungang nog tudu arak tipilih bitapod duwoh Ingan.
 Oku mitia tudu, Ingan, O Ingan Raja daang sua Raja bia Pimasie ndu dek obuah munyad, odak notap sa’ant bala dek mbok nai pangipaguh tudu dunya bia dunya dek yak nog. Nulis sa’ant bala bia geh lagi, onik dek pimotan Ingan tungang tapod bia ngibilang bala tih samah kodae bala dibokon dek mbok pilulung Ingan, bia nyaa dek toban kapah pritah Ingan daang sositing dunya dunya Ingan.
 Ingan, sibonar eh, dek Bikuasa, dek Paling Pu’ant, dek Lilieg Ngin Pu’ant.
-
--- Bahá'u'lláh

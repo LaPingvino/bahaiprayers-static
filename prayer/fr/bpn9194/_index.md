@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9194 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est celui qui guérit, qui suffit, qui secourt, qui toujours pardonne, l’Infiniment Miséricordieux. 
@@ -51,5 +52,3 @@ Sanctifié es-tu, ô mon Dieu ! Je t’implore par ta générosité qui ouvrit t
 Je t’implore par la miséricorde qui te fit convier toutes choses créées à la table de tes générosités et de tes dons, par la grâce qui te fit répondre en toi-même « oui ! » pour tous ceux qui sont au ciel et sur la terre, à l’heure de la révélation de ta souveraineté et de ta grandeur, à l’aube de la manifestation de la puissance de ton empire.
 Et à nouveau je t’implore chaque matin et chaque soir par ces noms les plus beaux, par ces attributs les plus sublimes et les plus nobles, par ton souvenir le plus célébré, par ta beauté pure et sans tache, par la lumière dissimulée dans le pavillon secret, par ton nom enveloppé du vêtement de l’affliction. Protège le porteur de cette prière bénie ainsi que celui qui la récite, la découvre, ou passe près de la maison où elle se trouve. Grâce à elle, guéris les malades, les personnes souffrantes, les pauvres, de toute affliction et de toute détresse, de toute infirmité détestable et de tout chagrin ; grâce à elle, guide celui qui désire pénétrer dans les sentiers de ta providence et dans les voies de ton pardon et de ta grâce.
 Tu es en vérité le Puissant, le Dispensateur, Celui qui guérit, le Protecteur, le Bienfaiteur, le Compatissant, le Très-Généreux, le Très Miséricordieux.
-
--- Bahá'u'lláh

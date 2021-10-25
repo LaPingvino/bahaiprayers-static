@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6076 in Sranan Tongo'
+author = 'Bahá'u'lláh'
 tags = ['lang-srn', 'bpn-unsorted']
 +++
 Blesi fu na kontren,
@@ -17,5 +18,3 @@ nanga na tabiki,
 nanga na wei
 pe den e kari a Nen fu Gado
 èn den e singi a grani fu En.
-
--- Bahá'u'lláh

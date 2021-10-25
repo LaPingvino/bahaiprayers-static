@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7335 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Chwała bądź Tobie, o Panie, Boże mój! Ty widzisz i wiesz, że nawoływałem Twoje sługi, aby nie kierowali się w żadną inną stronę, jedynie ku Twoim darom, i nakazałem im, aby przestrzegali wyłącznie tego, coś przepisał w swojej Zrozumiałej Księdze, w Księdze, która została zesłana zgodnie z Twoim niezgłębionym wyrokiem i nieodwołalnym celem.
@@ -11,5 +12,3 @@ Wszelka chwała bądź Tobie, o mój Boże, za wszystko, coś dla mnie przeznacz
 Ześlij więc, o mój Panie, na mnie i na moich umiłowanych to, co uchroni nas od szkody ze strony tych, którzy wyparli się Twojej prawdy i zwątpili w Twoje znaki.
    
 Tyś jest zaprawdę Najchwalebniejszym, Najłaskawszym.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4708 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, Mənim Allahım! Sənin bu kənizin Səni çağırır, Sənə inanır, üzünü Sənə tutub yalvarır ki, Öz səmavi lütflərini onun üzərinə yağdırasan, ruhani sirlərini ona açasan və Sənin İlahilik işıqlarını onun üzərinə saçasan.
@@ -9,5 +10,3 @@ Ey Allah, Mənim Allahım! Sənin bu kənizin Səni çağırır, Sənə inanır,
 İlahi! Onun gözü önündəki pərdəni qaldır. Onun üzərinə bol bəxşişlərini yağdır, Sənə məhəbbətin şərabından onu məst eylə, onu ayağı yerdə gəzən, ruhu göylərdə uçan mələklərindən eylə. Onu parlaq bir çıraq eylə ki, insanların arasında Sənin hikmətinin nuru ilə işıq saçsın.
 
 Həqiqətən, Sən Əziz, Həmişə Əta Edən və əli açıq Olansan.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8145 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 ##Kort Obligatorisk Bøn 
@@ -13,5 +14,3 @@ Der er ingen anden Gud end Dig, hjælpen i fare, Den Selvbestående.
 *”De daglige obligatoriske bønner udgør tre.... Den troende er helt fri i sit valg af en af disse tre bønner, men er forpligtet til at fremsige en af dem, i overensstemmelse med enhver særlig forskrift, der måtte knytte sig til dem.” - fra et brev skrevet på Shoghi Effendis vegne.
 
 *”Med ”morgen”, ”middag” og ”aften”, der nævnes i forbindelse med de obligatoriske bønner, menes henholdsvis tiden mellem solopgang og middag, mellem middag og solnedgang og fra solnedgang til to timer efter solnedgang.” - Kitáb-i-Aqdas s.140
-
--- Bahá'u'lláh

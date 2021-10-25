@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10979 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Talo ke fai i te ponoga o te fonotaga a te Lukuuga Faka-te-Agaaga.
@@ -7,5 +8,3 @@ O te Atua! O te Atua!  Mai i te maalo e se-lavea o Tou tafatasi e lavea mai a ma
      O te motou Aliki!  Matou e vaaivai, a ko Koe ko te Mafi, te Maalosi.  Matou e seai se ola, a ko Koe kote Agaaga tafasili i te taaua e aumai ne Ia a te ola.  Matou e mativa, a ko Koe ko te Tumau o Ola ia Ia, te Maalosi.
      O te motou Aliki! Fakasaga a motou mata ki Ou mata alofa-kaimalie, fagai mai matou mai i Tau taipola faka-te-lagi mai i Tou alofa lausa, fesoasoani kia matou mo lukuuga o Au agelu tafasili ite sili kae faka-mmau mai matou e auala atu i latou ko la mana o te Maalo o Abha.
      E tonu, a Koe ko te Alofa, te Alofa-Kaimalie.  Ko Koe te Pule o te alofa se laausia, kae, e tonu, ko Koe ko te Atafai mot e Alofa-Fesoasoani.
-
--- Abdu'l-Bahá

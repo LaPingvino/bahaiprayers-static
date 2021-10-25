@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2749 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *[A Szökőnapok – Ayyám-i-Há, február 26–március l. – a Böjtre való felkészülés, a vendégszeretet, a jótékonykodás és az ajándékozás napjai.]
@@ -16,5 +17,3 @@ Látod, ó, Uram, miként ismerték fel és tettek hitvallást mindarról, mit �
 Könyörgöm Hozzád, ó, Királyok Királya, és az eltaposottakon Megkönyörülő, rendeld nékik ezen és az eljövendő világ javát. Add meg nékik továbbá azt, mit egyik teremtményed sem fedett fel soha, és számítsd őket azok közé, kik Körötted keringenek, és kik világaid mindegyikében trónusod körül szolgálnak.
 
 Te vagy, valóban, a Mindenható, a Mindenek Tudója, Ki előtt nem marad rejtve semmi.
-
--- Bahá'u'lláh

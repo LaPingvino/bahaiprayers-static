@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3224 in Afrikaans'
+author = 'Abdu'l-Bahá'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 *Hierdie gebed, deur 'Abdu'l-Bahá geopenbaar, word by Sy Heiligdom gelees. Dit word ook by private gebed gebruik.
@@ -17,5 +18,3 @@ O Here my God! Gee my U genade om U bemindes te dien, versterk my in my diensbaa
 Met hierdie gebed roep U dienaar U by die aanbreek van die dag en in die nagtyd. Vervul die verlange van sy hart, o Here! Verlig sy hart, verbly sy boesem, steek sy lig aan, sodat hy U Saak en U dienaars mag dien.
 
 U is die Skenker, die Jammerhartige, die Mees Milddadige, die Liefderyke, die Genadige, die Medelydende.
-
--- Abdu'l-Bahá

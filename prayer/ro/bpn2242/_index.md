@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2242 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slăvit fii Tu, o, Doamne Dumnezeul meu!
@@ -8,5 +9,3 @@ Slăvit fii Tu, o, Doamne Dumnezeul meu!
 Tu eşti Cel Atotputernic, Cel Preaînalt, Cel Atotslăvit, Cel Atotiubitor.
 
 -
-
--- Bahá'u'lláh

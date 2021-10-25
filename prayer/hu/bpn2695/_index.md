@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2695 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Dicsőíttessél, ó, Uram, én Istenem! Akárhányszor csak említeni merészellek, hatalmas bűneim és súlyos, Ellened való cselekedeteim visszatartanak, és kegyelmedtől megfosztottnak és teljesen erőtlennek érzem magam, hogy dicséreted zengjem. És mégis, nagy bizodalmam jóságodban új reménnyel tölt el, és a bizonyosság, hogy bőséged kezét nyújtod felém, arra bátorít, hogy magasztaljalak Téged, és olyan dolgokért esedezzem, melyekkel csak Te rendelkezel.
@@ -11,5 +12,3 @@ Esedezem Hozzád, ó, Te, Ki az Utánad vágyódó szívek Imádottja vagy, Ügy
 Te vagy Az, Kinek hatalma öröktől fogva örökké tart. Semmi nem kerüli el tudomásodat. Bizony Te vagy a hatalom Istene, a dicsőség és a bölcsesség Istene.
 
 Dicsőítessék Isten, minden világok Ura!
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn13016 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-113', 'bpn-unsorted']
 +++
 Naan be a Xalxaal, ka mazaam a mun saan mumupis ma a mazampes.  Ei mbasaan, a Roxis i Liaa xa dodor rataangis put laaur wan a rangaana a yaai tapal, pana a ling faarala ma xa raangis maaluf.  Ka pitfiaat sin a mun ubina si nis a doring na nanaming kuna a Nakmai xa vaasilik pan naande.  Ka viring naande di vaarungtungaai wana a Nakmai be Azaxei, akula la Bikabar a i naxam Maalufing.  Ka vaze nis naande di milung, kuna viaat aang a doring sina a Nakmai, a Xalxaal, a Maravas a Owaari.  Ka pinaowing lis si nis naande di i naxam maaluf akula la burburaai na vaaralaing ka matmari doxo marase.
@@ -28,5 +29,3 @@ Farviraai daxo a Vaaratulaaiing aang ka re, aai Ahmád.  Faaxubul la maskan a mu
 Pan a Iza na a Nakmai!  Tamon nis ka wizik la maskan a waraing ka vaazalavaai wan a gizing ma xa na vira va’uling naan pan a vaartulaaiing aang ka re pan a vaarungtungaaiing dikdik marase.  A Nakmai xa na wukpizin a i naxam maskalusing Sina, ka na klis fatok a mun maravaning Sina, ma xa na zavgaleou a mun paraing Sina.
 
 Faaratunaan marase, Naan a Baraai a Varamaalufing ma Naan ka i puuk saait.  Saaule Nakmai, a Piraan a mun bikabar vaagdul.
-
--- Bahá'u'lláh

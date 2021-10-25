@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4687 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 ##Gündə bir dəfə gün ortasında qılmali
@@ -9,5 +10,3 @@ tags = ['lang-az', 'bpn-unsorted']
 *Namazla əlaqədar işlədilən “səhər”, “günorta” və “axşam” ifadələrinin mənası müvafiq olaraq, günçıxandan saat on ikiyədək, saat on ikidən gün batanədək və gün batandan iki saat keçənədək olan vaxtı bildirir.
 
 Ey mənim Allahim, Səni tanımaq və Sənə ibadət etmək üçün məni yaratdığına şəhadət verirəm. Bu anda öz acizliyimə və Sənin qüdrətinə, öz zəifliyimə və Sənin qüvvətinə, öz fəqirliyimə və Sənin zənginliyinə şəhadət verirəm. Səndən başqa Allah yoxdur. Sən Əzəmətli və Qəyyumsan.
-
--- Bahá'u'lláh

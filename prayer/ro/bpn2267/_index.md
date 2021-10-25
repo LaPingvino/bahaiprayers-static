@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2267 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Dumnezeule! O, Dumnezeule!
@@ -8,5 +9,3 @@ Cu adevărat, slujitorul Tău, umil în faţa supremaţiei Tale divine, smerit l
 O, Doamne, slăveşte rangul său, adăposteşte-l sub pavilionul milostivirii Tale supreme, ajută-l să intre în paradisul Tău de glorie şi fă-i veşnică existenţa în grădina Ta slăvită de trandafiri, astfel încât să poată intra în marea de lumină a lumii misterelor.
 
 Cu adevărat, Tu eşti Cel Generos, Cel Puternic, Cel Darnic şi Iertător.
-
--- Abdu'l-Bahá

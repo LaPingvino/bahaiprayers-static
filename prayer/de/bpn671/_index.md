@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn671 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Gepriesen seiest Du, o mein Gott, da Du Naw-Rúz denen zum Fest bestimmt hast, die das Fasten aus Liebe zu Dir hielten und alles mieden, was Du verabscheust. Gib, o mein Gott, dass das Feuer Deiner Liebe und die Glut, die das von Dir befohlene Fasten erzeugte, sie in Deiner Sache entflamme und sie bestimme, sich Deinem Lobpreis und Deinem Gedenken hinzugeben.
@@ -7,5 +8,3 @@ Da Du sie schmücktest mit der Zier des von Dir vorgeschriebenen Fastens, so sch
 Du hast das Banner „Preis sei Dir in Deinen Werken“ erhoben und die Standarte „Gehorcht werde Dir in Deinem Gebot!“ entfaltet. Mache, o mein Gott, Deinen Rang Deinen Dienern bekannt, damit ihnen bewusst werde, dass aller Dinge Vortrefflichkeit von Deinem Befehl und Deinem Worte abhängt und dass der Wert jeder Tat durch die Erlaubnis und das Wohlgefallen Deines Willens bestimmt ist, und dass sie erkennen, dass im Griff Deiner Annahme und Deines Befehls die Zügel aller Taten des Menschen liegen. Mache ihnen dies wohlbekannt, auf dass sie durch nichts von Deiner Schönheit ferngehalten werden in diesen Tagen, von denen Christus verkündet: „Alle Herrschaft ist Dein, o Du Vater des Geistes“ und von denen Dein Freund (Muhammad) ausruft: „Preis sei Dir, o Vielgeliebter, denn Du hast Deine Schönheit enthüllt und für Deine Erwählten niedergeschrieben, was sie zum Thron der Offenbarung Deines Größten Namens gelangen lässt, eines Namens, der alle Völker wehklagen ließ außer jenen, die sich von allem außer Dir gelöst und zum Offenbarer Deiner Selbst und der Manifestation Deiner Eigenschaften begeben haben.“
 O Gott, Dein Zweig und alle Deine Gefährten haben heute ihr Fasten beendet, das sie in ihrem Eifer, Dir zu gefallen, im Bereiche Deines Hofes hielten. Verordne Du ihm, ihnen und allen, die in diesen Tagen in Deine Gegenwart gelangten, all das Gute, das Du in Deinem Buche bestimmt hast. Versorge sie alsdann mit dem, was ihnen in diesem und im jenseitigen Leben Nutzen bringt.
 Du bist wahrhaftig der Allwissende, der Allweise.
-
--- Bahá'u'lláh

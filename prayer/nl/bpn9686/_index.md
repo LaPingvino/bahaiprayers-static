@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9686 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 #Gebed voor de doden
@@ -19,5 +20,3 @@ Waarlijk, wij allen wijden ons aan God.
 Waarlijk, wij allen loven God.
 Waarlijk, wij allen danken God.
 Waarlijk, wij allen zijn geduldig in God.
-
--- Bahá'u'lláh

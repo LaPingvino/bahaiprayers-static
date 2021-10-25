@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4539 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Ang mga ito, O aking Diyos, ang mga araw na ang Iyong mga tagapaglingkod ay inatasan Mong magsagawa ng pag-aayuno. Sa pamamagitan niyon pinalamutihan Mo ang paunang-bahagi ng Aklat ng Iyong mga Batas na inihayag sa Iyong mga nilalang, at ginayakan ang mga Taguan ng Iyong kautusan sa paningin ng lahat ng nasa Iyong langit at lahat ng nasa Iyong lupa. Pinagkalooban Mo ang bawat oras ng mga araw na ito ng isang natatanging kabutihan, na hindi mauunawaan ng sinuman liban sa Iyo, na ang Kaniyang kaalaman ay sumasaklaw sa lahat ng nilalang na bagay. Naglaan Ka rin sa bawat kaluluwa ng isang bahagi ng kabutihang ito alinsunod sa Tableta ng Iyong kautusan at sa mga Kasulatan ng Iyong di mababaling Hatol. Bawat dahon ng mga Aklat at Kasulatang ito ay inilaan Mo rin sa bawat isa sa mga mamamayan at mga kaanak ng lupa.
@@ -19,5 +20,3 @@ Namamalas Mo, O aking Diyos, ang naganap sa Iyong mga minamahal sa Iyong mga ara
 Ito ang oras, O aking Panginoon, na tinulutan Mong makahigit sa bawat iba pang oras, at iniugnay Mo ito sa pinakapili sa Iyong mga nilalang. Isinasamo ko sa Iyo, O aking Diyos, sa Iyong Sarili at sa kanila, na iatas sa buong taon na ito, yaong magluluwalhati sa Iyong mga minamahal. Iatas Mo rin sa loob ng taong ito yaong makapagtutulot na ang Araw-Bituin ng Iyong lakas ay makasikat nang maningning sa itaas ng sugpungang-guhit ng Iyong kaluwalhatian, at makatanglaw, sa pamamagitan ng Iyong kataas-taasang kapangyarihan, sa buong daigdig.
 
 Pagtagumpayin Mo ang Iyong Kapakanan, O aking Panginoon, at gapiin ang Iyong mga kaaway. Isulat Mo, kung gayon, para sa amin ang kabutihan ng buhay na ito at ng buhay na darating. Ikaw ang Katotohanan, na nakababatid ng mga lihim na mga bagay. Walang Diyos liban sa Iyo, ang Laging Nagpapatawad, ang Mapagpala sa Lahat.
-
--- Bahá'u'lláh

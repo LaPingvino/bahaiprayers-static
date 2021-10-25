@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2310 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slavă ţie, o, Doamne, Dumnezeul meu!
@@ -28,5 +29,3 @@ Preamăreşte Tu, o, Doamne Dumnezeul meu, pe Cel care este Punctul Primordial, 
 Mai mult, preamăreşte-i Tu pe cei care au crezut în El şi în semnele Sale şi s-au întors către El, dintre cei care au adeverit unitatea Ta în Manifestarea Sa Ulterioară, o Manifestare pe care a pomenit-o în Tabletele Sale, şi în Cărţile Sale, şi în Scripturile Sale, şi în toate versetele minunate şi rostirile asemenea nestematelor ce s-au pogorât asupra Sa. Aceasta este aceeaşi Manifestare al Cărei legământ Tu i-ai poruncit să-l întemeieze înainte de a fi întemeiat propriul Său legământ. El este Cel a cărei laudă a celebrat-o Bayánul22. În el excelenţa Sa a fost preamărită şi adevărul Său întemeiat, suveranitatea Sa proclamată şi Cauza Sa desăvârşită. Binecuvântat este omul care s-a întors către El şi a îndeplinit lucrurile pe care El le-a poruncit, o, Tu care eşti Stăpânul lumilor şi Dorinţa tuturor celor care Te-au cunoscut!
 
 Lăudat fii Tu, o, Dumnezeul meu, întrucât Tu ne-ai ajutat să-L recunoaştem şi să-L iubim. De aceea, Te implor, prin El şi prin Cei care sunt Aurorele Divinităţii Tale şi Manifestările Stăpânirii Tale, şi Comorile Revelaţiei Tale, şi Tezaurele inspiraţiei Tale, să ne îngădui să-L slujim şi să ne supunem Lui, şi acordă-ne puterea să devenim ajutoare ale Cauzei Sale şi să-i risipim pe vrăjmaşii Săi. Tu ai puterea de a face tot ceea ce îţi place. Nu există alt Dumnezeu în afară de Tine, Cel Tare, Cel Atotslăvit, Cel al Cărui ajutor este căutat de toţi oamenii!
-
--- Bahá'u'lláh

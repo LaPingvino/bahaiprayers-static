@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2395 in Latviešu'
+author = 'Abdu'l-Bahá'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Viņš ir Dievs, Kas uzklausa lūgšanas un atbild uz tām!
@@ -9,5 +10,3 @@ Un vēl, pie Tavas līdzjūtības liegajiem lietiem un Tavas vēlības jūras vi
 Tik tiešām, kā Tu valdi pār visu, es griežos pie Tevis, Kam cilvēku sirdis dzied slavu, atmezdams savas iegribas un iekāres, lai Tava svētā griba varētu valdīt manī un vadīt mani uz to, ko man ir piešķīrusi Tava mūžīgā lēmuma Spalva. Tavs kalps, ak Kungs, būdams bezspēcīgs, griežas pie Tavas varenības Saules pēc spēka, būdams pazemots, viņš trauc pie Tavas Gaismas Avota, vajadzības mākts, viņš ilgojas Tavas nebeidzamās žēlastības.
 Piesaucot Tavu labestību un dāsnumu, es lūdzu Tevi, neatstum viņu.
 Patiesi, Tu esi Visvarenais, visu Piedevējs, Līdzjūtīgais.
-
--- Abdu'l-Bahá

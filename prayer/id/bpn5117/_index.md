@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5117 in Bahasa Indonesia'
+author = 'Báb'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Kemuliaan bagi-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu agar mengampuni daku dan mereka yang membantu Agama-Mu. Sesungguhnya, Engkaulah Raja yang berdaulat, Pengampun, Yang Maha Dermawan.
@@ -11,5 +12,3 @@ Ya Tuhanku! Biarkanlah curahan-curahan dari pemberian dan rahmat-Mu turun kepada
 * "Diberkatilah rumah yang telah mencapai rahmat-Mu yang mesra, yang di dalamnya peringatan-Ku dirayakan; yang menjadi mulia karena kehadiran kekasih-kekasih-Ku yang mengumandangkan pujian-Ku, yang berpegang erat pada tali kurnia-Ku dan yang diberi kehormatan karena menyanyikan ayat-ayat-Ku". - Bahá’u’lláh
 
 * "Perhatikanlah olehmu, di mana kesatuan terwujud dalam satu keluarga, betapa mudahnya urusan-urusan keluarga itu dapat dilaksanakan, dan perhatikanlah kemajuannya yang akan dicapai oleh anggota-anggota keluarga itu, dan betapa makmur mereka itu di dunia. Urusan-urusan mereka tertib, mereka me-nikmati kegembiraan dan ketenangan, mereka merasa aman, kedudukan mereka terjamin, mereka menjadi teladan bagi semua orang. Keluarga demikian dari hari ke hari akan ber-tambah ketinggian moralnya dan kehormatannya yang abadi." - ‘Abdu’l-Bahá
-
--- Báb

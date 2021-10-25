@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4534 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Ang Tabletang ito ay binabasa sa mga Dambana ni Bahá’u’lláh at ng Báb. Ito ay malimit ding gamitin sa paggunita sa Kanilang mga anibersaryo.
@@ -17,5 +18,3 @@ Ang pag-alaala sa Diyos at ang pagpuri sa Kaniya at ang kaluwalhatian ng Diyos a
 Ang aking espiritu ay maging hain nawa sa mga kasamaang pinagdusa Mo, at ang aking kaluluwa ay maging panubos nawa sa mga kasawiang-palad na dinanas Mo. Sumasamo ako sa Diyos sa pamamagitan Mo at nila na ang mga mukha ay tinanglawan ng kaluningningan ng liwanag ng Iyong kaanyuan, at sila na sa pag-ibig sa Iyo ay nagsagawa ng lahat ng iniatas sa kanila, na alisin ang mga lambong na nakapagitan sa Iyo at sa Iyong mga nilalang, at dulutan ako ng mabubuting bagay sa daigdig na ito at sa daigdig na darating. Ikaw sa katotohanan, ang Makapangyarihan sa Lahat, ang Kataas-taasan, ang Maluwalhati sa Lahat, ang Laging-Nagpapatawad, ang Pinakamahabagin.
 
 Pagpalain Mo, Panginoon kong Diyos, ang Banal na Punong-Lote at ang mga dahon niyon, at ang mga malalaking sanga niyon at ang mga maliliit na sanga niyon, at ang mga tangkay niyon, at ang mga supang niyon, hanggaang ang Iyong pinakamagagaling na pamagat at ang Iyong kamahal-mahalang mga katangian ay mananatili. Ipag-adya iyon, kung gayon, sa pamiminsala ng mapanunggali at sa mga pangkat ng manlulupig. Tunay na Ikaw ang Makapangyarihan sa Lahat, ang Pinakamalakas. Pagpalain Mo rin, O Panginoon kong Diyos, ang Iyong mga tagapaglingkod at ang Iyong mga kawaksing babae na nakarating sa Iyo. Tunay na Ikaw ang Mapagpala sa Lahat, na ang biyaya ay walang hanggan. Walang Diyos liban sa Iyo, ang Laging-Nagpapatawad, ang Pinakamagandang-loob.
-
--- Bahá'u'lláh

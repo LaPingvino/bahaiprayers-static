@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11453 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Las oraciones obligatorias diarias son tres. El creyente es completamente libre de escoger cualquiera de estas tres oraciones, pero está obligado a recitar una de ellas y de acuerdo con todas las indicaciones específicas que las acompañan.   
@@ -11,5 +12,3 @@ tags = ['lang-es', 'bpn-unsorted']
 
 Soy testigo, oh mi Dios, de que Tú me has creado para conocerte y adorarte. Soy testigo, en este momento, de mi impotencia y de Tu poder, de mi pobreza y de Tu riqueza.
 No hay otro Dios sino Tú, Quien ayuda en el peligro, Quien subsiste por Sí mismo.
-
--- Bahá'u'lláh

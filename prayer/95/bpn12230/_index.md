@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12230 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Vikiiga i Tou igoa, O te Aliki toku Atua!  Au e molimau ia Koe se Kope funa e ufi i loto ia Koe mai loa ite vavau kae se Mea Fakaofoofogina e se mafai o matafi e nofo loto i Tou kanoloto o Tou faiitega.  E manakomia o fakaasi a Koe, a ko Koe ne kalaga atu ke mafua mai a te Lalolagi Matalasi mo te Lalolagi Foliki, kae fili ne Koe a Tagata mai i luga i mea faiite katoa, kae fai a ia pela me ko te failoga o lalolagi e lua kona, O Koe ko te motou Aliki, ko te Tafasili i te Alofa!  
@@ -18,5 +19,3 @@ Taofi ne Koe a te lima o ia tena e salasala tela ko oti ne fakatonu ona mata kia
 Au e akai kia Koe, O toku Atua, mai i Tau Muna tafasili ite maluga te la ko oti ne fakeke ne Koe me ko te Foo Masaki Faka-te-lagi ki luga i tagata katoa i loto i tou maalo, te Foo Masaki te la a tena maalosi ne fuli i ei a te fiti o te olaga o tagata ki te tina aulo piua. O ko Koe i Ou lima e i ai a maalo e lavea mo te se lavea, ke fakatonu ko taku filifiliga ke olo tonu mo Tau filifiliga a ko toku manakoga ko Tou manakoga, a ko au ke lotomalie katoatoa mo te mea tela e manako Koe ki ei, kae ke fiafia katoatoa au mo te mea ko oti ne fakatonu ne Koe mo au mai i Tou maukoloa mo alofaga.  E tonu a Koe e fai a te mea e loto Koe ki ei.  Koe, i te tonuuga, ko te Matagofie-Katoatoa, ko te Atamai-Katoatoa.  
 E fiafia a te tagata ko oti ne lavea, kae maua ne ia a te suamalie o Tou manogi kae fakasaga a ia ki Tou maalo, kae tami foki a ia i mea ko la ko oti ne fakapatonu i Tou gali mo te alofa. E lasi lasi a te faka-manuiaaga mo ia ko oti ne talia ne ia a Tou afioga tafasili i te maluga, ko la a veli ne pono i ei a maalo mai ia Koe ne seki mafai o ponotia a ia mai i te kilo o ona mata kia Koe, O ko Koe Tela ko te Tupu o te vavau mo te Fakaola o so se ivi vaaivai!  Fakamanuia, foki, a ia tela ne manava ne ia Ou manaogi gali, kae ko aveia ne Tau faipatiga i Ou aso.  Fakamanuia, foki, a te tagata tela ko oti ne fuli atu kia Koe, kae faka-fanoanoa kia ia tela ne fuli tua kia Koe.  
 E vikia a Koe, ko te Aliki o lalolagi!
-
--- Bahá'u'lláh

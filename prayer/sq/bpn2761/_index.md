@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2761 in Shqip'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Lutje që duhet thënë në mbyllje të mbledhjes së Asamblesë Shpirtërore:
@@ -12,5 +13,3 @@ O Zoti ynë! Ne jemi të dobët dhe Ti je i Fuqishmi, i Pushtetshmi. Ne jemi të
 O Zoti ynë! Ktheji fytyrat tona ndaj fytyrës Sate të mëshirshme, na ushqe nga tryeza Jote qiellore me mirësinë Tënde të begatë, na ndihmo me ushtritë e engjëjve të Tu më të lartë dhe na mbështet nëpërmjet shenjtorëve të Mbretërisë Abhá.
 
 Me të vërtetë, Ti je Fisniku, i Mëshirshmi. Ti je Zotëruesi i bujarisë së madhe dhe, me të vërtetë, Ti je Zemërbuti e i Hirshmi.
-
--- Abdu'l-Bahá

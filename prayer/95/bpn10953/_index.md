@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10953 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 A Ia ko te Fakagata Masaki, ko te Lava-fua-ia-Ia, ko te Feasoasoani, ko te Fakamagalo-Katoatoa, ko te Kaimalie-Katoatoa.
@@ -49,5 +50,3 @@ A Ia ko te Fakagata Masaki, ko te Lava-fua-ia-Ia, ko te Feasoasoani, ko te Fakam
      Koe ko te Fakatuanaki-Tumau Katoatoa, O Koe ko te Fakatuanaki-Tumau Tokotasi!
      E mana a Koe, O toku Atua!  Au e akai totuli kia Koe mai i Tou kaimalie, te la ne tala ne Koe a mataloa o Tou maukoloa mo te alofa ke matala kii loa, te la ne fakatu a te Tempolo o Tou Mana i lunga i te nofoga-a-tupu o te se gata mai; kae mai iluga i Tou alofa-kaimalie te la ne kami ne Koe a mea faiite katoa ki luga i te taipola o Au maukoloa mo mea-alofa; kae mai i Tou alofa ne tali atu ne Koe, i Tou Tino tonu loa mo Tau pati penei “Yea” mo latou katoa i te lagi mo te lalolagi, i te itula ko fakaasi i ei a Tou nofoaiga-a-aliki mo Tou matagofie, i te fakavave-ao te la ne fakaasi i ei ate mafi o Tau puleega.  Kae e toe akai totuli atu au kia Koe, mai i luga i igoa tafasili i te gali, mai i luga i uiga tafasili i te lei mo te mautua, mo te Tafasili ite Maluga o Tou Masausauaga, mo te piua mo te ma takalekale o Tou Gali, kae mai i luga i Tou Mainaaga funa i te fale tafasili i te funa, kae mai i luga i Tou Igoa, e pei i te gatu o fakalavelave i tafataeao mo afiafi katoa, ke puipui a ia e kave ne ia a te Tapeleti fakamanuiagina tenei, mo ia tela e faitau ne ia, pe la foki mo ia te la e iloa ne ia, ke oko foki kia ia te la e fakaseke i se fale te la e tuku i ei.  Fakalei ne Koe, na la, mai i ei a so se masaki, vaaivaiiga kae mativa, mai i fakalavelave mo mea se faka-fiafia, mai i so se faklavelave faigata kae faka-fanoanoa, kae takitaki ne Koe a latou ko la e manako o ulu ki te auala o Tau takitakiiga, mo auala o Tau fakamagaloga mo te mata-onomea.
      Koe e tonu ko te Maalosi, ko te Lava ia-Ia Katoatoa, ko te Fakaleiiga o Masaki, ko te Puipuiiga, ko te Foai, ko te Atafai, ko te Kaimalie-Katoatoa, ko te Akofa-Kaimalie Katoatoa.
-
--- Bahá'u'lláh

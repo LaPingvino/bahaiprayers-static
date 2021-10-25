@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7420 in Polski'
+author = 'Báb'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie! U Ciebie szukam schronienia i ku wszystkim Twoim znakom kieruję serce moje.
@@ -11,5 +12,3 @@ Udziel mi zatem dostatecznej pomocy, abym mógł uniezależnić się od wszystki
 Przyznaj mi moją część wedle swojej woli, o Panie, i spraw, abym zadowolił się tym, co dla mnie przeznaczyłeś.
     
 Twoją jest wszelka władza rozkazywania.
-
--- Báb

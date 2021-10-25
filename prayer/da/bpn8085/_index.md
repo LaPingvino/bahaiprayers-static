@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8085 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Jeg priser Dig, o min Gud, fordi Du har vækket mig af min søvn og draget mig frem efter mit fravær og løftet mig af min slummer. Jeg er vågnet denne morgen med mit ansigt vendt mod glansen fra Din åbenbarings dagstjerne, hvorigennem Din magts og majestæts himle er blevet oplyst, i erkendelse af Dine tegn og i tro på Din Bog, medens jeg holder fast ved Dit reb.
@@ -13,5 +14,3 @@ Du er Ham, der på sin befaling forandrer nedværdigelse til ære, og svaghed ti
 Du skuffer ingen, der har søgt Dig, ej heller holder Du nogen borte fra Dig, som har attrået Dig.
 
 Bestem Du for mig det der sømmer sig for Din gavmildheds himmel og Din nådes hav. Du er i sandhed Den Almægtige, Den Mest Magtfulde.
-
--- Bahá'u'lláh

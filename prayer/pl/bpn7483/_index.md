@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7483 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##TARAZÁT 
@@ -105,5 +106,3 @@ Niechaj Nasza Chwała spoczywa na ludziach Bahá, których ani tyrania ciemięż
 
 
 Cytaty z Koranu: Koran, PWN Warszawa 1986
-
--- Bahá'u'lláh

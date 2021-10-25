@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7467 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 *Naw-Rúz jest pierwszym dniem roku bahaickiego obchodzonym w dniu marcowej równonocy.
@@ -15,5 +16,3 @@ Tyś jest Tym, dzięki któremu został wzniesiony sztandar „Godny chwały jes
 Ten, który jest Twoim Konarem i wszyscy, którzy Ci towarzyszą, o mój Panie, przerwali dzisiaj post, który zachowywali w bliskości Twojego dworu w pragnieniu zadowolenia Ciebie. Przeznacz dla Niego, dla nich oraz dla wszystkich, którzy dostąpili Twojej obecności w tych dniach, całe dobro, któreś zarządził w swojej Księdze. Zaopatrz ich zatem w to, co przyniesie im korzyść w tym życiu i w życiu, które nastąpi.
     
 Tyś zaprawdę jest Wszechwiedzącym, Wszechmądrym.
-
--- Bahá'u'lláh

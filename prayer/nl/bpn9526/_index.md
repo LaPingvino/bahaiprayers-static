@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9526 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 *Dagelijks te reciteren, ’s ochtends, ‘s middags en ’s avonds.
@@ -30,5 +31,3 @@ Stel, o mijn God, hem die zich met smekende vingers aan de zoom van Uw genade en
 Ik getuig van Uw eenheid en Uw één-zijn, en dat Gij God zijt, en dat er geen ander God is dan Gij. Waarlijk, Gij hebt Uw Zaak geopenbaard, Uw Verbond vervuld en de deur van Uw barmhartigheid wijd geopend voor allen die in de hemel en op aarde verwijlen. Zegen en vrede, heil en heerlijkheid rusten op Uw geliefden die door het wel en wee der wereld niet zijn weerhouden zich tot U te wenden en die alles geven in de hoop te verkrijgen hetgeen bij U is. Gij zijt in waarheid de Immervergevende, de Almilddadige.
 
 *(Als iemand in plaats van het lange vers de volgende woorden verkiest te reciteren: “God betuigt dat er geen ander God is dan Hij, de Helper in nood, de Bij-zich-bestaande”, zal dit voldoende zijn. Ook zal het voldoende zijn als hij zittende deze woorden zegt: “Ik getuig van Uw eenheid en Uw één-zijn, en dat Gij God zijt, en dat er geen ander God is dan Gij.”)
-
--- Bahá'u'lláh

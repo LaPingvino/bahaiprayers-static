@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8185 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Han er Helbrederen, Den Fyldestgørende, Hjælperen, Den Alttilgivende, Den Albarmhjertige.
@@ -95,5 +96,3 @@ Du Den Evigt Blivende, o Du Den Blivende!
 Helliggjort er Du, o min Gud! Jeg bønfalder Dig ved Din ædelmodighed, hvorved portene til Din gavmildhed og nåde blev vidt åbnet, hvorved Din helligheds tempel blev rejst på evighedens trone; og ved Din barmhjertighed, hvorved Du indbød alt skabt til Din gavmildheds og Dine gavers bord; og ved din nåde, hvorigennem Du svarede i Dit eget selv med Dit ord "Ja!" for alle i himlen og på jorden ved den time, da Dit herredømme og Din storhed stod afsløret ved dæmringstimen, da Dit riges magt blev gjort åbenbar. Og atter anråber jeg Dig, ved disse mest skønne navne, ved disse mest ædle og høje egenskaber, og ved Din Mest Ophøjede Ihukommelse, og ved Din rene og pletfri skønhed, og ved Dit skjulte lys i den mest skjulte pavillon, og Dit navn, iklædt lidelsens klædning hver morgen og aften om at beskytte bæreren af dette velsignede brev, og hver den, der siger det, og hver den, der træffer på det, og hver den, der færdes om det hus, hvori det er. Helbred Du da igennem det enhver syg, elendig og forarmet fra enhver hæslig lidelse og sorg, og led Du igennem det, hver den der ønsker at betræde Din ledelses stier og Din tilgivelses og nådes veje.
 
 Du er i sandhed Den Magtfulde, Den Alt Fyldestgørende, Den Helbredende, Den Beskyttende, Den Givende, Den Medfølende, Den Algavmilde, Den Albarmbjertige.
-
--- Bahá'u'lláh

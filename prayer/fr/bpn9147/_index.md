@@ -1,10 +1,9 @@
 +++
 title = 'Prayer bpn9147 in Français'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô toi, mon Dieu, tu conduis le chercheur vers le droit chemin, tu délivres des affres de la perdition l’âme en détresse et aveugle, tu accordes bénédictions et faveurs aux sincères, tu protèges le craintif dans ton invincible refuge et tu réponds du haut de ton lointain horizon, au cri de ceux qui t’implorent. Loué sois-tu, ô mon Seigneur ! 
 Tu évites aux égarés la mort de l’incroyance et tu conduis au terme de leur voyage ceux qui se rapprochent de toi. Tu réjouis ceux de tes serviteurs qui sont constants en répondant à leurs vœux les plus chers. Du haut de ton royaume de beauté, tu ouvres les portes de la réunion devant ceux qui se languissent de toi et tu les sauves des flammes de la privation et de l’égarement. Aussi se hâtent-ils vers toi et accèdent-ils à ta présence, parviennentils à ta porte accueillante et reçoivent-ils une part abondante de tes dons. 
 Ô mon Seigneur, ils étaient assoiffés et tu as porté à leurs lèvres desséchées les eaux de la réunion. Ô Tendre, ô Bienfaiteur, tu as apaisé leur souffrance du baume de ta générosité et de ta grâce, tu as guéri leurs maux du souverain remède de la compassion. Ô Seigneur, fortifie leurs pas dans ton droit chemin, agrandis pour eux le chas de l’aiguille, fais-les marcher à tout jamais dans la gloire, vêtus de leurs atours royaux.
 Tu es en vérité, le Généreux, l’éternel Dispensateur, l’Inestimable, le Très-Généreux. Il n’est pas d’autre Dieu que toi, le Fort, le Puissant, le Suprême, le Victorieux.
-
--- Abdu'l-Bahá

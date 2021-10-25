@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5214 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *Naw-Ruz
@@ -14,5 +15,3 @@ Engkaulah Dia yang melalui-Nya panji "Terpujilah Engkau dalam perbuatan-perbuata
 Ia yang menjadi Cabang-Mu dan semua mereka yang ada di sekeliling-Mu, ya Tuhanku, telah membuka puasanya pada hari ini setelah mereka berpuasa dalam lingkungan istana-Mu karena kerinduannya akan kerelaan-Mu. Tetapkanlah baginya dan bagi mereka, dan bagi semua yang telah memasuki kehadiran-Mu pada hari-hari itu, segala kebaikan yang telah Engkau takdirkan dalam Kitab-Mu. Kemudian, berikanlah kepada mereka itu apa yang menguntungkan mereka, baik dalam dunia ini maupun di akhirat. Sesungguhnya, Engkaulah Yang Maha Mengetahui dan Maha Bijaksana.
 
 *"Berbahagialah orang yang memasuki hari pertama bulan Bahá, yaitu hari yang telah Allah sucikan bagi Nama Terbesar ini. Dan diberkatilah dia, yang pada hari ini memperlihatkan pemberian-pemberian Allah yang telah dianugerahkan kepadanya. Sesungguhnya, ia termasuk mereka yang bersyukur kepada Allah melalui perbuatan-perbuatannya yang menandakan kurnia-kurnia Allah telah meliputi seluruh dunia. Katakanlah: Sesungguhnya, hari ini adalah mahkota semua bulan dan sumber daripadanya, hari di mana hembusan kehidupan ditiupkan di atas segala sesuatu yang diciptakan. Besarlah berkat dia yang menyambutnya dengan berseri-seri dan riang gembira". - Bahá’u’lláh
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11545 in Español'
+author = 'Abdu'l-Bahá'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Oraciones para la enseñanza tomadas de las Tablas del Plan Divino
@@ -17,5 +18,3 @@ tags = ['lang-es', 'bpn-unsorted']
 ¡Oh Señor! En verdad, las gentes se encuentran en el abismo de la pasión y nada puede salvarlas excepto Tus infinitas mercedes.
 ¡Oh Señor! Disipa la oscuridad de estos deseos corruptos y alumbra los corazones con la lámpara de Tu amor, por medio de la cual todos los países serán pronto iluminados. Confirma, además, a Tus amados, a aquellos que, abandonando su patria, su familia y sus hijos, han viajado a países distantes por amor a Tu Belleza para difundir Tus fragancias y promulgar Tus Enseñanzas. Sé Tú su compañero en su soledad, su auxiliador en tierras lejanas, el que disipe sus tristezas, su consuelo en la calamidad. Sé Tú el sorbo fresco que apacigüe su sed, la medicina que cure sus enfermedades y el bálsamo para el ardor que abrasa sus corazones.
 Verdaderamente, Tú eres el Más Generoso, el Señor de gracia abundante y, verdaderamente, Tú eres el Compasivo y el Misericordioso.
-
--- Abdu'l-Bahá

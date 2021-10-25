@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn13002 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-112', 'bpn-unsorted']
 +++
 *Bop U’uraewa ma orup bodu muga aonagaet nani yambun uon tan (15) mugenat den wain amba wa munain.  U’ura ma megenat Bahá’í uruga iyam iyam ta wain.  Ma orup daiton megenat wapi amba uruga ao paina yonain.  At bowarewa gambena eya toenta nain.  (Kitáb-i-Aqdas)
@@ -32,5 +33,3 @@ Nu uruga ipiri gaun Maman inap waiyanit. (19)
 Alláh-u-Abhá!
 
 Nu uruga ipiri Kwataem momon Maman inap taiyanit. (19)
-
--- Bahá'u'lláh

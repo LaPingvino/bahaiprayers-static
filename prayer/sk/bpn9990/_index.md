@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9990 in Slovensky'
+author = 'Bahá'u'lláh'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 *Prednáša sa raz za dvadsaťštyri hodín
@@ -33,5 +34,3 @@ Buď pochválený, ó môj Bože, za to, že si mi pomohol, aby som Ťa spomína
 Buď pochválený, ó náš Bože, za to, že si nám zoslal to, čo nás k Tebe približuje a poskytuje nám všetko dobré, čo si zoslal vo Svojich knihách a písmach. Úpenlivo Ťa prosíme, ó môj Pane, ochraňuj nás pred prívalom planých výmyslov a márnych predstáv. V pravde, Ty si Mocný, Vševediaci.
 *Potom zdvihnite hlavu, sadnite si a rieknite:
 Dosvedčujem, ó môj Bože, to, čo dosvedčili Tvoji vyvolení, a uznávam to, čo uznali obyvatelia najvyššieho raja a tí, ktorí krúžili okolo Tvojho mocného Trónu. Kráľovstvá zeme a nebies patria Tebe, ó Pane svetov!
-
--- Bahá'u'lláh

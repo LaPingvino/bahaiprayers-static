@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8491 in Esperanto'
+author = 'Bahá'u'lláh'
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 Estas Li la Saniganto, la Sufiĉanto, la Helpanto, la Ĉion-Pardonanta, la Ĉiel-Kompatema.
@@ -49,5 +50,3 @@ Ho Konstanta, alvokas mi vin, ho Konstanta!
 Vi la Eterne Konstanta, ho Vi la Eternulo!
 Sanktigata estas Vi, ho Mia Dio! Mi petegas al Vi je Via malavaro, per kiu la pordegoj de Via grandanimeco kaj graco estis vaste malferm-itaj, per kiu la Templo de Via Sankteco estis starigita sur la trono de l' eterneco; kaj je Via kompato per kiu Vi invitis ĉion kreitan al la tablo de Viaj malavaroj kaj donacoj; kaj je Via graco per kiu Vi respondis en Vi Mem per Via vorto "Jes!" nome de ĉiuj en la ĉielo kaj sur la tero, je la horo kiam Via suvereneco kaj Via grandeco estis revelaciitaj, je la temp' aŭrora kiam la potenco de Via dominado fariĝis manifesta. Kaj denove mi petegas Vin, je tiuj ĉi nomoj plej belaj, je tiuj ĉi atributoj plej noblaj kaj sublimaj, kaj je Via plej Ekzaltita Rememoro, kaj je Via pura kaj senmakula Beleco, kaj je Via kaŝita Lumo en la plej kaŝita pavilono, kaj je Via Nomo, vestita per la vesto de l' aflikto ĉiumatene kaj ĉiuvespere, protektu la posedanton de tiu ĉi benita Epistolo, kaj kiu ajn recitas ĝin, kaj kiu renkontas ĝin, kaj kiu ĉirkaŭas la domon en kiu troviĝas ĝi. Kuracu Vi, do, per ĝi ĉiun malsanulon, suferanton kaj povrulon de ĉia sufero kaj malbonfarto, de ĉia abomena aflikto kaj zorgo, kaj gvidu Vi per ĝi ĉiun ajn kiu deziras ekiri sur la padoj de Via gvidado kaj la vojoj de Via pardono kaj graco.
 Vi vere estas la Potenca, la Ĉion-Sufiĉanta, la Kuracanta, la Protektanto, la Donanta, la Kompatema, la Ĉiel-Malavara, la Ĉiel-Grandanima.
-
--- Bahá'u'lláh

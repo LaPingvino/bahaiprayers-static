@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12959 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 Bikpela!  Mipela i tarangu tru.  Inap Yu marimari long mipela.  Yes, mipela i rabis pinis.  Inap Yu blesim mipela wantaim hap samting i kam long solwara bilong ol gutpela samting bilong Yu.  Mipela i sot long olgeta samting.  Inap Yu inapim mipela.  Mipela i stap daunbilo.  Inap Yu apim mipela wantaim glori bilong Yu.  Ol pisin bilong skai wantaim ol abus bilong graun, olgeta i save kisim kaikai long han bilong Yu long olgeta wan wan de.  Yu save lukautim ol wantaim gutpela lav bilong Yu. 
@@ -14,5 +15,3 @@ Lord!  Pitiful are we, grant us Thy favor; poor, bestow upon us a share from the
 Deprive not this feeble one of Thy wondrous grace and vouchsafe by Thy Might unto this helpless soul Thy Bounty. 
  
 Give us our daily bread and grant Thy increase in the necessities of life, that we may be dependent on none other but Thee, may commune wholly with Thee, may walk in Thy ways and declare Thy mysteries.  Thou art the Almighty and Loving and the Provider of all mankind.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9336 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Omem-boninahitra Ianao, ry Tompo Andriamanitro ô! Misaotra Anao aho noho izay niantsoanao ahy tamin’ny fahavelomana amin’ny Andronao, ary noho izay namenoanao ny Fitiavanao sy ny Fahalalanao ao amiko.
@@ -8,5 +9,3 @@ Indreto ny andro fiandohan’ny fiainako, ry Andriamanitro ô, izay nampiraisana
 
 Ry Andriamanitro, tsy inona akory aho fa voatsinampy kely izay nafafinao tamin’ny Tanim-pitiavanao sy izay natosakao tamin’ny Tanam-pangorahanao. Io voa io dia mangetaheta, noho izany, hatrany amin’ny vololon’ainy, ny ranom-pamindramponao sy ny loharano velon’ny Fahasoavanao. Arotsahy aminy avy any an-danitry ny Hamoramponao be fitiavana izay hampamelana azy eo ambanin’ny Alokao sy ao anatin’ny Lapanao. Ianao Ilay izay manondraka ny fon’izay rehetra nanaiky Anao, avy amin’ny ranon’ny Reniranonao mahenika sy ny Loharanonao velona.
 Deraina anie Andriamanitra, Ilay Tompon’ny tontolo rehetra.
-
--- Bahá'u'lláh

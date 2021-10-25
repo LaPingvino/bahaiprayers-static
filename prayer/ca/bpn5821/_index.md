@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5821 in Català'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Dona Embarassada 
@@ -9,5 +10,3 @@ Senyor meu! Senyor meu! T’alabo i Et dono gràcies per allò amb que has afavo
 Oh Senyor meu! Et dedico el que està al meu si. Fes, doncs, d’ell un infant digne d’elogi en el Teu Regne i un agraciat pel Teu favor i generositat; fes que es desenvolupi i creixi sota la cura de la Teva educació.
 
 Veritablement, Tu ets el generós. Veritablement, Tu ets el Senyor de Gran Favor.
-
--- Abdu'l-Bahá

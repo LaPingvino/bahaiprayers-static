@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8268 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Eternal, the One, the Single, the All-Possessing, the Most Exalted.
@@ -13,5 +14,3 @@ Thou art, in truth, the Forgiving, the Bountiful.[43]
 
 *42.    Of the Bab.
 *43.    This selection, with the exception of the invocation, was first published in Tablets of Bahá’u’lláh Revealed after the Kitáb-i-Aqdas.
-
--- Bahá'u'lláh

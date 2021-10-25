@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7593 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Jumalan, Ikiaikaisimman, Suurimman, nimeen.
@@ -53,5 +54,3 @@ Vaikeroitko Sinä, vai pitääkö Minun vaikeroida? Ennemmin itken puolustajiesi
 Totisesti olen kuullut kutsusi, oi Kaikkein loistavin rakastettu; ja nyt Bahán kasvot liekehtivät kärsimyksen kuumuudesta ja hohtavan sanasi tulesta, ja Hän on noussut uskollisena uhripaikalla kääntäen katseensa tahtosi puoleen, oi maailmain Säätäjä. 
 Oi ‘Alí-Akbar, kiitä Herraasi tästä muistiosta, josta voit hengittää pitkämielisyyteni sulotuoksua ja tietää, mikä on koetellut Meitä Jumalan, kaikkien maailmojen Palvotun polulla. 
 Jos kaikki palvelijat lukevat ja pohtivat tätä, heidän suonissaan syttyy tuli, joka saa maailmat liekehtimään.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1164 in Português (BR)'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Senhor bondoso! Criaste toda a humanidade dos mesmos pais. Desejaste que todos pertencessem ao mesmo lar. Em Tua Santa Presença, todos são Teus servos e todo o género humano se abriga sob o Teu Tabernáculo. Todos se têm reunido à Tua Mesa de Graças e brilham pela luz da Tua Providência.
@@ -10,5 +11,3 @@ tags = ['lang-pt', 'bpn-unsorted']
 Enlaça os corações, ó Deus!
 Ó Tu, Pai bondoso, Deus! Extasia os corações com a fragrância do Teu amor; ilumina os olhos com a Luz da Tua Guia; alegra os ouvidos com as melodias da Tua Palavra e abriga-nos no Recinto da Tua Providência.
 Tu és o Grande e o Poderoso! És o Clemente - Aquele que perdoa as faltas de toda a humanidade.
-
--- Abdu'l-Bahá

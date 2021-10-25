@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3143 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Hy is God, verhewe is Hy, die Here van vriendelike goedheid en mildheid!
@@ -23,5 +24,3 @@ O my God, U Pand is aan U teruggebring. Dit betaam U genade en U mildheid, wat U
 Ek verklaar, o my Here, dat U aan die mense voorgeskryf het om hulle gas te eer, en hy wat na U opgevaar het, het voorwaar U bereik en U teenwoordigheid behaal. Handel met hom dan ooreenkomstig U genade en mildheid! By U glorie, ek weet stellig dat U Uself nie sal terughou van wat U U dienaars beveel het nie, nòg U hom ontsê wat aan die koord van U mildheid vasgehou het en na die Daeraad van U rykdom opgestyg het.
 
 Daar is geen ander God behalwe U nie, die Een, dier Enige, die Magtige, die Alwetende, die Milddadige.
-
--- Bahá'u'lláh

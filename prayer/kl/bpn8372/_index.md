@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8372 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Tassaavoq Ajorunnaarsitsisoq, taanna Naammassisitsisoq, Ikiorti, Tamanik Isumakkeerfiginnittoq, Tamanik Nallittuisoq. 
@@ -97,5 +98,3 @@ Illit taanna Soraajuitsumik Taamaattuartoq, Illit Taamaattuartoq-aa!
 Illernarsisitaavutit Illit, Guutiga-aa! Torlorfigaakkit Illit isumassuingaarnikkut, tassuunakkut Illit tukkussutsinnut saammaanninnullu isaaffiit qiverluarlugit ammarneqarput, tassuunakkut Illit Illernassutsivit Naalaffia soraajuitsup kunngeqarfiani napparneqarpoq; aammalu Illit nallittuissutsikkut, tassuunakkut Illit pinngortitat tamaasa tukkussutsivit tunissutivillu nerriviinut qaaqquatit: aammalu Illit saammaannikkut, tassuunalu Illit nammineq Imminiussutsinni Illit oqaatsinnik akissutigaat "Aap!" qilammiittunut nunamiittunullu tamanut nalunaaquttap akunnerani, taamani Illit naalagaaffiit Illillu angissutsit qaammalerfiata nalaani ersersinneqarmata, taamani Illit naalagaaffippit pissaanera saqqumisunngortinneqarmat. Aammalu kingumut Torlorfigaakkit Illit, atitigut ukunuuna kusanarnerpaakkut, piginnaasatigut ukunuuna ileqqorinnerpaakkut pikkorinnerpaakkullu, aammalu Illit Eqqaaneqaatikkut Nersornarnerpaakkut, aammalu Illit Kusanassutsikkut sukuloqannginnerpaakkullu, aammalu Illit Qaamanikkut Isertortukkut illuaqqanni isertornerpaamiittukkut, aammalu Illit atikkut, ullaami unnummilu anniarnerup atisaanik atisisimasukkut Allakkanik pilluaqqusaasunik ukunannga tigumiartoq sernigeqqullugu, aamma kinaluunniit taassuminnga taasisoq, kinaluunniit taassuminnga siumuisoq, aammalu kina illumi taassuma iffiani saqisoq. Taamaattumik Illit tassuunakkut kinaluunniit napparsimasoq, nallinnartoq, piitsunngorsimasorlu anniaammit maajunnarnerpaamit sumilluunniit aliasuummillu pigisaqartoq ajorunnaarsiguk, siulersorullu tassuuna kialuunniit Illit siulersuinerpit aqqusinnersimaneratigut ingerlanissamut aammalu illit isumakkeerfiginninnerpit saammaannerpillu aqqusernisigut ingerlanissamut kissaateqartoq aqqutigineqqullugu.
 
 Illit ilumoortumik tassaavutit Pissaaneqarluartoq, taanna Tamanik-Naammassinnittoq, Ajorunnaarsitsisoq, taanna Sernissuisoq, Tunisisoq, taanna Misiginneqatiginnittoq, Tamanik – Tukkortoq, taanna Tamanik Nallittuisoq.
-
--- Bahá'u'lláh

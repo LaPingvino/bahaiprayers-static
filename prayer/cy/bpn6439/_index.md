@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6439 in Cymraeg'
+author = 'Abdu'l-Bahá'
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Arglwydd, fy Nuw, a’m Noddfa yn fy mlinder! Fy Nharian a’m Cysgod yn fy nhrallod!  Fy Ngobaith a’m Lloches yn nydd fy angen!  Ti yw fy Niddanydd mewn dyddiau o wae, fy Nghydymaith yn y tywyllwch, a’m
@@ -39,5 +40,3 @@ O God, my God! Stay not from me the gentle gales of Thy pardon and grace, and de
 Loose my tongue to laud Thy name amidst Thy people that my voice may be raised in great assemblies and from my lips may stream the flood of Thy praise.
 
 Thou art, in all truth, the Gracious, the Glorified, the Mighty, the Omnipotent.
-
--- Abdu'l-Bahá

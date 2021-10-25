@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2442 in Latviešu'
+author = 'Bahá'u'lláh'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *“...Obligātajām ikdienas lūgšanām kopā vēl ar dažām citām īpašām lūgšanām, tādām kā, piemēram, Dziedināšanas Lūgšanai, Vēstulei Ahmadam, Bahá’u’lláh ir piešķīris sevišķu spēku un nozīmi, un ticīgajiem tās jāpieņem nešaubīgā ticībā un paļāvībā, lai caur tām viņi varētu tuvoties Dievam un labāk pildīt Viņa priekšrakstus un likumus.” -Shoghi Effendi
@@ -21,5 +22,3 @@ Nešaubies savā sirdī, ka patiesi tas, kas novēršas no šīs Dailes, ir nov�
 Iegaumē labi šo vēstuli, ak Ahmad! Skandē to ikkatru dienu un neatturi sevi no tā, jo patiesi ikvienam, kurš skandēs to, Dievs ir noteicis simts mocekļu atalgojumu un palīdzību abās pasaulēs. Šādu labvēlību mēs esam dāvājuši tev kā balvu no Savas puses un kā žēlastību no Mūsu klātesamības, lai tu nokļūtu pateicīgo vidū.
 Dieva vārdā! Ja postā vai bēdās kāds lasītu šo vēstuli ar pilnīgu pārliecību, tad Dievs izkliedēs viņa skumjas, atrisinās viņa grūtības un atņems viņa ciešanas.
 Patiesi, Viņš ir Žēlīgais, Viņš ir Līdzcietīgais. Slava Dievam, visu Pasauļu Kungam!
-
--- Bahá'u'lláh

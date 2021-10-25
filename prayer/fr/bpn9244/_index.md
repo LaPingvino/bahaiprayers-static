@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9244 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Tu es glorifié, ô Seigneur, mon Dieu ! Par ton nom, Celui qui fixe les limites, je te supplie de nous garder de la malveillance de tes adversaires qui refusent ton alliance et contestent ta beauté.
@@ -13,5 +14,3 @@ Par ton nom, le Protecteur, protège-les de la tyrannie de l’oppresseur, de la
 Par ton nom, le Protecteur, abrite-les dans la forteresse de ta puissance et de ton pouvoir afin qu’ils soient à l’abri des flèches du doute décochées par ceux qui se rebellent contre toi.
 Par ton nom béni au-delà de tous les noms, objet de ta faveur et révélateur de ta beauté, sanctifie pour tes serviteurs ces jours que mentionne clairement la plume de ton décret et qui sont prédéterminés dans ton irrévocable tablette, selon ton vouloir et ta sagesse.
 Et par ton nom, le Conquéreur, soumets à ta loi les habitants de ton royaume afin que tous se tournent vers ta face et renoncent à tout, par amour pour toi, et pour ton bon plaisir.
-
--- Bahá'u'lláh

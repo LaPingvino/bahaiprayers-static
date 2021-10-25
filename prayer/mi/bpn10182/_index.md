@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10182 in Māori'
+author = 'Bahá'u'lláh'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 *KIA TĀKINA IA RĀ, I TE ATA, I TE RĀNUI, I TE  AHIAHI PŌ
@@ -21,5 +22,3 @@ Kaua rā e kawea kia pāpōuri, e tōku Atua, te tangata, me ōna matimati pīno
 *Kātahi ia ka tukua kia noho me te kī:
 Tēnei ahau te kaiwhakaatu o Tōu kotahitanga pū, ā, ko Koe Te Atua, kāhore hoki tētahi Atua i tua atu i a Koe. Tūturu, Nāu Tō Kaupapa i whakaatu mai, Tō Kawenata i tutuki, te kūwaha ki Tō atawhai i whakatūwheratia ai ki te katoa kei te rangi me te whenua. Kia whakapaingia, kia tau te rangimārie, kia whakamihia, kia korōriatia ngā tau o Tōu ate, rātou hei aha koa ngā piki me ngā heke o te ao kāhore kau i tahuri atu i a Koe, kua whakapau i ō rātou kaha katoa, me te whakapono ka riro i a rātou ko tērā Nāu. Tūturu ko Koe, te PoumurungaHara i Ngā Wā Katoa, te Whairawanui-Katoa.
 *(Ki te hiahia tētahi ki te whakatātaki kē atu o te whiti roa ko ēnei kupu: “ Ko Te Atua pū e whakaatu ana kāhore he Atua i tua atu i a Ia, te Pouāwhina i te Mōrearea, te Matua-Kore,” ka ea. He pērā rā anō, ka ea hoki ki tāna kōwhiri, i a ia e noho ana, ki te whakatātaki i ēnei kupu: “Tēnei ahau te kaiwhakaatu i Tō kotahitanga pū, ā ko Koe Te Atua, kāhore hoki tētahi Atua i tua atu i a Koe.”)
-
--- Bahá'u'lláh

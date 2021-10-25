@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8105 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Forherliget være Dit navn, o Herre min Gud! Jeg bønfalder Dig ved Din magt, der har omsluttet alle skabte ting, og ved Dit herredømme, der er hævet over hele skabelsen, og ved Dit ord, der var skjult i Din visdom, og hvorved Du skabte Din himmel og Din jord, om både at gøre os faste i vor kærlighed til Dig og i vor lydighed mod Dit ønskeog fæste vort blik på Dit ansigt og prise Din herlighed. Giv os da styrke, o min Gud, til at udbrede Dine tegn blandt Dine skabninger og vogte over Din tro i Dit rige. Du har altid levet uafhængigt af Dine skabningers omtale og vil forblive således, som Du har været til evig tid.
@@ -15,5 +16,3 @@ Bahá'lláh O Du, hvis nærhed er mit ønske, hvis tilstedeværelse er mit håb,
 Jeg er den, o min Herre, der har glemt alt undtagen Dig og har vendt mig til Din nådes daggry, der har forsaget alt undtagen Dig i håbet om at drage Din bolig nær. Se mig da med mine øjne løftet mod det sæde, der skinner med strålerne fra Dit ansigts lys. Nedsend da til mig, o min Elskede, det der vil gøre mig trofast i Din sag, at de vantros tvivl ikke skal hindre mig i at vende mig til Dig.
 
 Du er i sandhed Magtens Gud, Hjælpen i Fare, den Alherlige, den Almægtige.
-
--- Bahá'u'lláh

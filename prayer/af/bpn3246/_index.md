@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3246 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 ##GEBED VIR DIE DOOIES
@@ -23,5 +24,3 @@ Ons almal, voorwaar, betuig ons dank aan God.
 Ons almal, voorwaar, is geduldig in God.
 
 *Indien die oorledene 'n vrou is laat hom sê: Dit is U diensmaagd en die dogter van U diensmaagd, ens. . . .
-
--- Bahá'u'lláh

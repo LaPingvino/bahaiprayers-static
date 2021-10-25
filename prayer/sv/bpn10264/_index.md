@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10264 in Svenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 ##LÅNG OBLIGATORISK BÖN
@@ -36,5 +37,3 @@ Låt honom sedan upprepa det Största namnet tre gånger, knäböja med pannan m
 Prisad vare Du, o vår Gud, att Du har sänt ned till oss det som närmar oss till Dig och förser oss med alla goda ting, som nedsänts av Dig i Dina böcker och Dina skrifter. Beskydda oss, bönfaller vi Dig, o min Herre, från mängden av gagnlösa påfund och fåfänga inbillningar. Du är i sanning den Mäktige, den Allvetande.
 *Låt honom sedan lyfta huvudet, sätta sig och säga:
 Jag vittnar, o min Gud, om det varom Dina utvalda har vittnat och erkänner det, som det högsta paradisets invånare och de som har kretsat kring Din mäktiga tron har erkänt. Jordens och himmelens riken är Dina, o världarnas Herre!
-
--- Bahá'u'lláh

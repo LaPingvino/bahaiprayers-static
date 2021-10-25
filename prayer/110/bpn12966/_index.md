@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12966 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 Em I Givim Planti Samting!  Em i Save Blesim Oltaim! 
@@ -24,5 +25,3 @@ Tru tumas, dispela wokman na dispela wokmeri bilong Yu, tupela i bung aninit lon
  
 Glory be unto Thee, O my God!  Verily this Thy servant and this Thy maid-servant have gathered under the shadow of Thy mercy and they are united through Thy favor and generosity.  O Lord!  Assist them in this Thy world and Thy kingdom and destine for them every good through Thy bounty and grace.  O Lord!  Confirm them in Thy servitude and assist them in Thy service.  Suffer them to become the signs of Thy Name in Thy world and protect them through Thy bestowals, which are inexhaustible in this world and the world to come.  O Lord! They are supplicating toward the Kingdom of Thy mercifulness and invoking toward the realm of Thy singleness.  Verily they are married in obedience to Thy command.  Cause them to become the signs of harmony and unity until the end of time.  
 Verily Thou art the Omnipotent, the Omnipresent and the Almighty!
-
--- Bahá'u'lláh

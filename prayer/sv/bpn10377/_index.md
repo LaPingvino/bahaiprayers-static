@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10377 in Svenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 I Guds, den Uråldriges, den Störstes namn.  I sanning, de uppriktigas hjärtan förtärs i åtskiljandets eld – var är glansen från Ditt anletes ljus, o världarnas Älskade?
@@ -52,5 +53,3 @@ Klagar Du, eller skall Jag klaga? Snarare skall Jag gråta över Dina förkämpa
 Sannerligen, Jag har hört Din kallelse,  o allhärlige Älskade, och nu flammar Bahás anlete av vedermödornas hetta och av                        Ditt lysande ords eld, och Han har trofast stått upp på offerplatsen med blicken fäst på Ditt välbehag, o världarnas Förordnare.
 O ‘Alí-Akbar, tacka din Herre för denna skrift, från vilken du kan inandas Mitt saktmods väldoft och få kunskap om vad som drabbat Oss på vägen till Gud, alla världars Dyrkade.
 Skulle alla tjänare läsa och begrunda detta, så skall i deras ådror tändas en eld som skall sätta världarna i brand.
-
--- Bahá'u'lláh

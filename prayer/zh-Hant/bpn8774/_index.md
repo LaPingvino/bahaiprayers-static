@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8774 in 繁體中文'
+author = 'Bahá'u'lláh'
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 *每日吟誦一次
@@ -48,5 +49,3 @@ tags = ['lang-zh-Hant', 'bpn-unsorted']
 *祈禱者起身就坐，然後吟誦：
 
 我的上帝啊，祢揀選者證實的，我也予以證實。至高天庭之居民，簇擁於祢的威權御座之人，他們所承認的，我也予以承認。萬千世界之主啊，天地諸王國皆屬於祢！
-
--- Bahá'u'lláh

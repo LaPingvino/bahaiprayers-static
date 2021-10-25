@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10308 in Svenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Han är Gud, upphöjd vare Han, den kärleksfulla godhetens och frikostighetens Herre!
@@ -13,5 +14,3 @@ O min Herre! Den fattige har sannerligen hastat till Ditt överflöds rike, frä
 O min Gud! Din gåva, som här har förvaltats, har återlämnats till Dig. Det tillkommer Din nåd och Din frikostighet, som omsluter Dina riken på jorden och i himmelen, att förunna denne Din nyligen välkomnade Dina gåvor och Dina skänker och frukterna på Din nåds träd! Mäktig är Du att göra vad Dig behagar. Det finns ingen Gud utom Du, den Nåderike, den mest Givmilde,  den Medlidsamme, Förlänaren, den Förlåtande,  den Dyrbare, den Allvetande.
 Jag betygar, o min Herre, att Du ålagt människorna att ära sina gäster, och han som har uppstigit till Dig har sannerligen nått fram till Dig och uppnått Din närvaro. Behandla honom då i enlighet med Din nåd och givmildhet! Vid Din härlighet! Förvisso vet jag att Du icke skall underlåta att göra det som Du befallt Dina tjänare och att Du ej heller skall utestänga den människa som klamrat sig fast vid Din frikostighets band och uppstigit till Din rikedoms morgongryning.
 Det finns ingen Gud utom Du, den Ende,  den Allenarådande, den Starke, den Allvetande,  den Givmilde.
-
--- Bahá'u'lláh

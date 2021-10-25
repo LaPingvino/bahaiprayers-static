@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4875 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey mənim Allahım! Sən Ey günahları Bağışlayan, bəxşişlər Əta Edən, qəm-qüssəni Dağıdan!
@@ -7,5 +8,3 @@ Ey mənim Allahım! Sən Ey günahları Bağışlayan, bəxşişlər Əta Edən,
 Həqiqətən, yalvarıram Sənə, cismani libaslarını tərk edib, ruhani aləmə yüksələnlərin günahlarını bağışla.
 
 Ey Mənim Rəbbim! Onları günahlardan pak eylə, kədərlərini dağıt və zülmətini nura çevir. Onları ruhani şadlıq bağına daxil eylə, hamısını ən saf su ilə pak eylə və ən uca zirvədə Sənin şəfəqlərini görməyi onlara nəsib eylə.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12315 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 •	 
@@ -34,5 +35,3 @@ O te Aliki!  Faka-seai ate pogia o manakoga se llei konei kae fakamaina a olotou
 olotou fanoanoa, ko te olotou faka-mafanafana i taimi faigata.  Ko Koe e aumai ate faka-maalosiiga i taimi o te tau-la mo olotou inu, se vailakau fakalei masaki mo olotou masakiiga kae pe la foki mo se sinu mo te fakallei i ei a olotou loto e ka i te afi.  
   
 E toku a Koe ko te tafasili i te Atafai, ko te Aliki! o te alofa e seai ne tuakoi, kae, e tonu, a Koe ko te Atafai mo te Kaimalie.
-
--- Abdu'l-Bahá

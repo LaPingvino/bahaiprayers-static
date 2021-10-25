@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12115 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Dia adalah Penyembuh, Yang Mencukupi, Penolong, Yang Maha Pengampun, Yang Maha Rahim.
@@ -94,5 +95,3 @@ Engkau Yang Maha Mencukupi, Ya Engkau Yang Maha Abadi!
 Tersucilah Engkau, Ya Tuhanku! Aku memohon kepada-Mu demi kedermawanan-Mu, yang melaluinya, gapura-gapura anugerah dan kurnia-Mu telah terbuka lebar, yang melaluinya Haikal Kesucian-Mu telah didirikan atas takhta keabadian; dan demi rahmat-Mu yang melaluinya Engkau telah mengundang semua yang diciptakan ke meja anugerah-anugerah dan pemberian-pemberian-Mu; dan demi kurnia-Mu, yang melaluinya Engkau telah menjawab, dalam Diri-Mu Sendiri dengan kata "Ya!" atas nama semua di langit dan di bumi, pada saat kedaulatan-Mu dan kebesaran-Mu dinyatakan, pada waktu fajar ketika kekuatan kekuasaan-Mu dijelmakan. Dan sekali lagi aku memohon kepada-Mu, demi nama-nama yang terindah ini, demi sifat-sifat yang terluhur dan maha mulia ini, dan demi Kenangan-Mu Yang Maha Agung, dan demi Keindahan-Mu yang murni dan tak ternoda, dan demi Cahaya-Mu yang tersembunyi dalam ruangan yang paling tersembunyi dan demi Nama-Mu, yang memakai jubah penderitaan setiap pagi dan petang, agar melindungi pembawa Loh yang diberkati ini, dan sesiapa yang mengucapkannya, dan sesiapa yang menemukannya, dan sesiapa yang mengelilingi rumah yang di dalamnya Loh ini berada. Kemudian sembuhkanlah oleh-Mu dengan Loh ini setiap orang yang sakit, yang berpenyakit dan yang malang, daripada setiap penderitaan dan kesengsaraan, daripada setiap kesedihan dan penyakit yang menjijikkan, dan bimbinglah oleh-Mu dengan Loh ini barangsiapa yang ingin memasuki jalan-jalan bimbingan-Mu dan arah-arah pengampunan dan kurnia-Mu.
 
 Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Mencukupi, Sang Penyembuh, Pelindung, Pemberi, Yang Maha Pengasih, Yang Maha Dermawan, Yang Maha Penyayang.
-
--- Bahá'u'lláh

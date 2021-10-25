@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9959 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 ##PINNGITSOORANI QINNUTISSAQ TAKINEQ
@@ -80,5 +81,3 @@ Unnersiutigineqarit Guuterput-aa, uagutsinnut aallartitsisimagavit Ilinnut qanil
 *Taavalu niaqqi qullarliuk, ingillunilu oqarli: 
 
 Guutiga-aa, nalunaajaatigaara toqqakkavit nalunaajaatigisimasaat, akuersissutigalugulu Paradisip qutsinnerussaartup innuttaasa Issiavissaarsuarpillu eqqaani kaavissimasut akuersissutigisimasaat. Nunarsuup qilaallu Naalagaaffii Illit pigaatit, Illit-aa silarsuit Naalagaat!
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4880 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 *Əlavə Günlər, Fevralın 26-dan Martın 1-dək, hər iki tarix daxil olmaqla, Orucluğa hazırlaşmaq gunləri, qonaqpərvərlik günləri, xeyriyyə və hədiyyələr bağışlamaq günləridir
@@ -13,5 +14,3 @@ Sən görürsən, İlahi, onlar Sənin Lövhlərində zahir etdiklərini necə i
 Rica edirəm Səndən, Ey sultanların Sultanı və əzilənlərə Rəhmi gələn, onlara bu dünyanın və o dünyanın xeyrini qismət eylə. Onlara Sənin yaratdıqlarından hələ heç kəsin bilmədiyini tanıtdır və onları o kimsələrin cərgəsinə yaz ki, Sənin ətrafına toplaşıblar və Sənin bütün aləmlərində Sənin taxtının ətrafında dolanırlar.
 
 Sən, həqiqətən, Ən Qüdrətli, Hər Şeyi Bilən və Hər şeydən Xəbərdarsan.
-
--- Bahá'u'lláh

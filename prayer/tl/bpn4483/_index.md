@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4483 in Filipino'
+author = 'Báb'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Iukol sa akin, O aking Panginoon, at sa mga naniniwala sa Iyo, ang siyang ipinalagay Mong pinakamabuti para sa amin sa Iyong paningin, sang­ayon sa nakasaad sa Inang-Aklat, dahil sa hawak ng Iyong kamay ay natatanganan Mo ang tiyak na sukat ng lahat ng mga bagay.
@@ -9,5 +10,3 @@ Ang Iyong mabubuting mga kaloob ay walang-patid na umaambon sa kanilang mga nagm
 Ipag-adya Mo ako, O aking Panginoon, sa lahat ng kasamaan na nababatid ng Iyong walang hanggang kaalaman, dahil sa walang kapangyarihan o lakas maliban sa Iyo, walang tagumpay ang darating maliban kung naroon Ka, at nasa Iyo lamang ang mag-utos. Ang anumang ginusto ng Diyos ay natupad, at ang anumang hindi Niya ginusto ay hindi matutupad.
 
 Walang Kapangyarihan o lakas mali­ ban sa Diyos, ang Pinakamataas, ang Pinakamakapangyarihan.
-
--- Báb

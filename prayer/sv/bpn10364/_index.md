@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10364 in Svenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Skottdagarna, Ayyám-i-Há, 26 februari - 1 mars, bör ägnas åt förberedelser inför fastan, åt gästfrihet, välgörenhet och utdelande av gåvor.
@@ -8,5 +9,3 @@ Dessa, o min Herre, är Dina tjänare, vilka ingen otillbörlig böjelse har hå
 Du ser, o min Herre, hur de har erkänt och bekänt sig till vadhelst Du har uppenbarat i Dina skrifter. Giv dem, o min Herre, att dricka av Din evighets vatten från Din givmildhets händer. Nedskriv då för dem den lön som bestämts för den som har nedsänkt sig i Din närvaros ocean och förvärvat det utsökta vin som är att möta Dig.
 Jag bönfaller Dig, o Du, konungarnas Konung och de förtrycktas förbarmare, att förordna för dem det goda i denna världen och i den kommande. Nedskriv dessutom för dem det som ingen av Dina varelser har upptäckt, och räkna dem till dem som har kretsat kring Dig och som rör sig kring Din tron i var och en av Dina världar.
 Du är sannerligen den Allsmäktige, den Allvetande, den Allunderrättade.
-
--- Bahá'u'lláh

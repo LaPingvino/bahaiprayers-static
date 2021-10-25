@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12034 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 *Dilafazkan tiga kali sehari: pagi, tengah hari dan petang.
@@ -29,5 +30,3 @@ tags = ['lang-104', 'bpn-unsorted']
 
 *Dan begitu juga pada waktu duduk, akan mencukupi jika dia memilih untuk membaca ayat yang berikut:
 *”Aku naik saksi atas keesaan-Mu dan ketunggalan-Mu, dan bahawasanya Engkaulah Tuhan, dan tiada Tuhan yang lain selain Engkau.
-
--- Bahá'u'lláh

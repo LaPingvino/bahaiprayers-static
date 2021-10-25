@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8265 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Excerpt from the Súriy-i-Dhikr
@@ -32,5 +33,3 @@ Grieve not on account of Our adversity, but be patient even as We have been pati
 *37.    The numerical value of the letters of the word Ḥín is 68. “After Ḥín” is thus an allusion to the year after A.H. 1268, which was 1269 (A.D. 1852–3), the year that marked the birth of the Bahá’í Revelation.
 *38.    The letters Ḥá’ and Bá’ spell the word ḥubb (love), while Há’ and Váv constitute the word Huva (He).
 *39.    These invocations come from a Tablet of the Báb addressed to Mullá Báqir-i-Tabrízí about Him Whom God shall make manifest.
-
--- Bahá'u'lláh

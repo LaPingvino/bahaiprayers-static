@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9569 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Hij is de God die gebeden verhoort en beantwoordt!
@@ -8,5 +9,3 @@ Gij ziet, o Heer mijn God, de tranen die Uw uitverkorenen plengen om hun geschei
 En nogmaals vraag ik U bij de zoete regens van Uw genade en de golven van de oceaan van Uw gunst, om voor Uw heiligen datgene te bestemmen wat hun ogen zal vertroosten en hun hart zal bemoedigen. Heer! Gij ziet deze geknielde hunkeren om op te staan en U te dienen, de dode roepen om het eeuwige leven uit de oceaan van Uw gunst en smachten om naar de hemel van Uw rijkdom op te wieken, de vreemdeling verlangen naar zijn glorieuze woning onder het baldakijn van Uw genade, de zoeker zich door Uw erbarmen haasten naar de deur van milddadigheid, de zondige zich wenden tot de oceaan van vergeving en gratie.
 Bij Uw soevereiniteit, o Gij die verheerlijkt wordt in het hart der mensen! Ik heb mij tot U gewend, mijn eigen wil en wens verzakend opdat Uw heilige wil in mij mag heersen en mij zal leiden in overeenstemming met hetgeen de pen van Uw eeuwige beschikking voor mij heeft bestemd. Al is deze dienaar hulpeloos, o mijn Heer, hij keert zich naar de Hemelbol van Uw kracht, al is hij vernederd, hij spoedt zich naar de dageraad van glorie, al is hij behoeftig, hij smacht naar de oceaan van Uw genade. Ik smeek U bij Uw gunst en milddadigheid hem niet af te wijzen.
 Gij zijt waarlijk de Almachtige, de Verontschuldiger, de Meedogende.
-
--- Bahá'u'lláh

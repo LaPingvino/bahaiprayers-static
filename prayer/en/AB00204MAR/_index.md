@@ -1,5 +1,6 @@
 +++
 title = 'Prayer AB00204MAR in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'AB00204MAR']
 +++
 ##Tablet of the Holy Mariner
@@ -237,5 +238,3 @@ Glorified be our Lord, the Most High!
 And as they beheld her state and comprehended a word of the tale told by the Youth, they bared their heads, rent their garments asunder, beat upon their faces, forgot their joy, shed tears and smote with their hands upon their cheeks, and this is verily one of the mysterious grievous afflictions—
 
 Glorified be our Lord, the Most High!
-
--- Bahá'u'lláh

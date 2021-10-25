@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2693 in Magyar'
+author = 'Abdu'l-Bahá'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ő az Isten.
@@ -16,5 +17,3 @@ Kimondhatatlan alázattal emelem esengő kezem szépséged királysága felé, �
 Ó, Urunk! Erősítsd meg őket kegyesen új lélekkel, ragyogd be szemüket, hogy az éjszaka sötétjében megláthassák csodás bizonyságaidat. Rendeld nékik az összes jót, mi örök misztériumaid Királyságában rejtezik, tedd őket a világrészek fölött ragyogó fényes csillagokká, gyümölcstől roskadozó fákká, s a hajnali szellőben hajladozó ágakká.
 
 Bizony, Te vagy a Nagylelkű, a Hatalmas, a Mindenható, a Korlátozatlan. Nincsen más Isten, csak Te, a szeretet és gyengéd kedvesség Istene, a Mindenek Felett Dicső, a Mindig Megbocsátó.
-
--- Abdu'l-Bahá

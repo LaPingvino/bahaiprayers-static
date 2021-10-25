@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2876 in Česky'
+author = 'Abdu'l-Bahá'
 tags = ['lang-cs', 'bpn-unsorted']
 +++
 Ó ty, jenž obracíš svou tvář k Bohu! Zavři oči před vším ostatním a otevři je říši Nadevše Slavného.
@@ -16,5 +17,3 @@ On činí, jak činí, a co nám zbývá?
 On uskutečňuje Svou Vůli a nařizuje, co si přeje.
 Pak je pro tebe lepší sklonit hlavu v odevzdanosti
 a vložit svou důvěru v Nadevše Milosrdného Pána.
-
--- Abdu'l-Bahá

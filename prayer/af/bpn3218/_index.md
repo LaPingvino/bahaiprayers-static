@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3218 in Afrikaans'
+author = 'Abdu'l-Bahá'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O my God! O my God! Voorwaar, ek roep aan en smeek U voor U drumpel, en vra U dat al U barmhartigehede op hierdie siele mag neerdaal. Onderskei hulle vir U guns en U waarheid.
@@ -11,5 +12,3 @@ O Here, U die besitter van oneindige genade! O Here van vergifnis en van kwytske
 O Here God! Maak ons soos golwe van die see, soos blomme van die tuin, verenig, in samestemming deur die mildhede van U liefde. O Here! Swel die borste uit deur die tekens van U eenheid en maak die hele mensdom soos sterre wat skyn uit dieselfde hoogte van heerlikheid, soos volmaakte vrugte wat groei aan U boom van die lewe.
 
 Voorwaar, U is die Almagtige, die Selfbestaande, die Skenker, die Vergewer, die Kwytskelder, die Alwetende, die Een Skepper.
-
--- Abdu'l-Bahá

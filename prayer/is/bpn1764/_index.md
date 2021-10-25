@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1764 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *(Þessi tafla er lesin við heilög grafhýsi Bahá’u’lláh og Bábsins. Hún er einnig iðulega notuð við minn­ing­ar­hátíðir þeirra.)
@@ -17,5 +18,3 @@ Megi anda mínum verða fórnað sakir rang­indanna sem Þú máttir þola og s
 Þú ert í sannleika hinn almáttugi, hinn upp­hafn­asti, hinn aldýrðlegi, sá sem ætíð fyrirgefur, hinn samúðarfyllsti.
 Blessa Þú, ó Drottinn Guð minn, hið guð­dóm­lega Lótustré, lauf þess og greinar, kvisti þess, stilka og nýgræðinga, svo lengi sem ágætustu nafnbætur Þínar vara og tignustu eigindir endast. Vernda það einnig gegn misgjörðum árásarmanna og her­skörum kúgunar. Þú ert í sannleika hinn almáttugi og voldugasti. Blessa Þú einnig, ó Drottinn Guð minn, þjóna Þína og þjónustumeyjar sem hafa komist til Þín. Þú ert vissulega sá sem allt gefur og náð Þín er takmarkalaus.
 Enginn er Guð nema Þú, sá sem ætíð fyrirgefur, hinn örlátasti.
-
--- Bahá'u'lláh

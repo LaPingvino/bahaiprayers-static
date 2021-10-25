@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1769 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Þessir eru þeir dagar, ó Guð minn, er Þú hefur boðið þjónum Þínum að halda föstuna. Með henni prýddir Þú inngang lagabókar Þinnar sem Þú opinberaðir skepnum Þínum og reiddir fram úr hirslum boða Þinna í augsýn allra á himni Þínum og jörðu. Þú hefur gætt hverja klukkustund þessara daga sérstakri dyggð, sem er órannsakanleg öllum nema sjálfum Þér. Þekking Þín umlykur allt sem er. Þú hefur einnig úthlutað sérhverri sál ákveðnum skerfi þessarar dyggðar í samræmi við töflu ákvörðunar Þinnar og ritningar Þíns óaftur­kallan­lega dóms. Sérhverju blaði þessara bóka og ritninga hefur Þú einnig úthlutað sérhverri þjóð og kynkvísl jarðar.
@@ -11,5 +12,3 @@ Lát því rigna yfir okkur, ó Guð minn, sem sæmir náð Þinni og er verðug
 Þú sérð, ó Guð minn, hvað fallið hefur ástvinum Þínum í hlut á dögum Þínum. Dýrð Þín ber mér vitni! Kveinstafir Þinna útvöldu hafa hljómað um allt ríki Þitt. Sumir voru leiddir í gildru af trú­villingunum í landi Þínu og þeim meinað um náið samneyti við Þig og aðgang að forgarði dýrðar Þinnar. Aðrir gátu nálgast Þig en var varnað að líta ásýnd Þína. Enn öðrum var í löngun sinni að líta Þig veittur aðgangur að forgarði Þínum en þeir leyfðu blæjum ímyndana skepna Þinna og rang­indunum sem kúgararnir meðal fólks Þíns beittu að koma á milli sín og Þín.
 Þetta er stundin, ó Drottinn minn, sem Þú hefur gert ágætari öllum öðrum stundum og tengt hinum fremstu meðal skepna Þinna. Ég sárbæni Þig, ó Guð minn, við sjálf Þitt og við þá, að fyrirskipa það á þessu ári sem upphefur ástvini Þína. Ákvarða einnig á þessu ári það sem lætur sól valds Þíns skína glatt yfir sjónarhring dýrðar Þinnar og upplýsa allan heim­inn með allsráðandi mætti Þínum.
 Ger málstað Þinn sigursælan, ó Drottinn minn, og niðurlæg óvini Þína. Skrifa síðan niður fyrir okkur hið góða í þessu lífi og því sem kemur. Þú ert sannleikurinn sem þekkir hið leynda. Enginn er Guð nema Þú, sá sem ætíð fyrirgefur, sá sem allt gefur.
-
--- Bahá'u'lláh

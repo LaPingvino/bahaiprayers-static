@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11956 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’äl-Äbha
@@ -8,5 +9,3 @@ Hu’äl-Äbha
    Bu keramatlar diňe harman otlan Mejnunyňdyr. 
    Oturan aşyk hereketli akyllydan oňatdyr. 
    Wel-Baha’u-eleýk.
-
--- Abdu'l-Bahá

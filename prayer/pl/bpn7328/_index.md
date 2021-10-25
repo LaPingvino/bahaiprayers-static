@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7328 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Boże, mój Boże! Ty widzisz, jak głębokie ciemności ogarnęły wszystkie krainy, jak wszystkie kraje gorzeją płomieniami waśni, a ogień wojny i rzezi szaleje na Wschodzie i na Zachodzie. Krew się leje i ciała zabitych zaściełają ziemię, a ścięte głowy padają w pył pola bitwy.
@@ -25,5 +26,3 @@ O Panie! Zaprawdę, ludzie pogrążyli się w otchłani namiętności i nic nie 
 O Panie! Usuń ciemności tych niegodnych żądz i oświeć serca kagankiem swojej miłości, która wkrótce oświeci wszystkie kraje. Umocnij również swoich umiłowanych, tych, którzy opuszczając swoje ojczyste kraje, swoje rodziny i dzieci, podróżują z miłości do Twojego Piękna w obcych krajach, aby rozprzestrzeniać Twoje aromaty i szerzyć Twoje Nauki. Bądź im towarzyszem w ich osamotnieniu i pomocą na obcej ziemi, bądź tym, który usuwa ich smutki i pociesza w nieszczęściach. Bądź orzeźwiającym napojem gaszącym pragnienie, uzdrawiającym lekarstwem na ich schorzenia i balsamem na płonący w ich sercach ogień.
     
 Zaprawdę, Tyś jest Najhojniejszym, Panem obfitych łask i zaprawdę Tyś jest Współczującym i Miłosiernym.
-
--- Abdu'l-Bahá

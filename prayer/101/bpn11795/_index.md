@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11795 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Ngubul Ndu Kobont Bunga)
@@ -23,5 +24,3 @@ Sua koih, totap, ngin pimudi tudu Topa (19 x)
 Sua koih, totap, ngin terima kasih tudu Topa (19x)
 	Allah’u’Abha
 Sua koih, totap, mbok sabar daang Topa (19x)
-
--- Bahá'u'lláh

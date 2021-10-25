@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2694 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *[Ima Bahá’u’lláh kilencedik Örömhíréből]:
@@ -14,5 +15,3 @@ tags = ['lang-hu', 'bpn-unsorted']
 Kérve kérlek Téged, Őreá, Ki a Nevek korlátlan Ura, írd le számomra jóságod Tollával azt, mi engem közeledbe vezet és mi megtisztít bűneimtől, melyek közém és megbocsátásod és kegyelmed közé állottak.
 
 Valóban, Te vagy az Erős, a Jóságos. Nincsen Isten Rajtad kívül, Ki a Hatalmas, a Kegyes.
-
--- Bahá'u'lláh

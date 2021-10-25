@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12284 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Mai i Tou matagofie, O te Fagasele Tokotasi, Koe ko te tuku atu ote mainaaga ki te lalolagi!  A ka’aga ote afi o te mavae ko sunu ia au, ako toku se-faka-logo ko oti ne liua i ei a toku loto i loto ia au.  Au e sili atu kia Koe, i Tou Igoa Tafasili i te Takutakua, O ko Koe ko te Manakoga o te lalolagi mo te Fapelepele o tino katoa, ke talia mai ko laumatagi o Tau musumusuuga kae faka-tummau a toku agaaga, ko Tou leo gali ke lagona ki toku taliga, ko oku mata ke lavea a Au failoga ako Tou mainaaga ke fakaasi mai i 
@@ -13,5 +14,3 @@ nnau a olotou loto ke lele latou ki lagi o Tou maukoloa, a ia tela e fenua kese 
 Mai i Tou nofoaiga-a-tupu, O ko Koe Tela e faka-aloalaogia i loto o tagata!  Au ko oti ne fuli kia Koe, liakina a toku loto mo manakoga, ko Tou loto mana mo te fiafia ke pule i loto ia au kae fakasino mai kia au pela mo te mea ne tusi mai ne te pene o Tau fakatonuuga e seai-se-gataaga ko oti ne fakaeke maim o au.  Ko te tavini tenei, O te Aliki, e uilea e faka-alofa kae e fuli atu loa ki te Tamilosaga o Tou Maalosi, e uilea e fakatauemu- gina kae fakavave atu ki te Aso Malulu o te Matagofie, e uilea e  se-lava kae kkeu atu loa ki te Vasa o Tou Alofa-Fakamagalo.  Au e akai totuli kia Koe mai i Ou alofaaga mo maukoloa, sa liakina a ia keatea.  
   
 A Koe e tonu ko te Mafi-Katoatoa, ko te Fakamagalo, ko te Atafai.
-
--- Bahá'u'lláh

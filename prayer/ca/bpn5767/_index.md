@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5767 in Català'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##MARTIRS I LLURS FAMÍLIES
@@ -11,5 +12,3 @@ Oh Senyor! Aquestes ànimes han conegut amarga agonia en aquesta vida terrenal  
 Oh Senyor! Sadolla llurs oïdes amb els versicles de l’ajuda divina i d’una prompta victòria, i lliura’ls de l’opressió d’aquells què ostenten poder tan terrible. Retè les mans dels malvats i no permetis que aquestes ànimes siguin destrossades per les urpes i ullals de les ferotges bèsties, car estan captius pel seu amor a Tu i havent-los estat confiats els misteris de la Teva santedat es troben humils i dempeus davant la Teva porta i han aconseguit el Teu exaltat recinte.
 Oh Senyor! Enforteix-los, bondadosament, amb un nou esperit; il·lumina llurs ulls permetent que contemplin els Teus meravellosos signes a la foscor de la nit; destina per a ells tot el bé què abunda al Teu regne de misteris, fes que siguin com estrelles brillants què resplendeixen sobre aquestes regions, com frondosos arbres plens de fruits i branques gronxant-se amb les brises de l’alba.
 Veritablement, Tu ets el Munífic, el Fort, el Poderós, l’Omnipotent, el Lliure. No hi ha Déu sinó Tu, el Déu d’amor i tendra misericòrdia, el Tot Gloriós, Qui sempre perdona.
-
--- Abdu'l-Bahá

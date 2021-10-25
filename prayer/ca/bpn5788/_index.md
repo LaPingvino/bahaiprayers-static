@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5788 in Català'
+author = 'Báb'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Lloat sigui el Teu Nom, oh Senyor nostre Déu! Tu ets, en veritat el Coneixedor de coses invisibles. Ordena per a nosaltres tot el bé que el Teu coneixement que tot ho abraça pugui concebre. Tu ets el Senyor Sobirà, el Tot Poderós, el Més Estimat.
@@ -10,5 +11,3 @@ Digues: “Déu és en veritat el Faedor de totes les coses. Ell dóna suport en
  
 
 Oh Déu meu Senyor i el meu Mestre! M’he després de la meva família i a través Teu he buscat ser independent de tots els que habiten a la terra i estar sempre disposat a rebre el que és digne als Teus ulls. Concedeix Tot el bé que em faci independent de tot el que no siguis Tu i atorga’m una porció més àmplia dels Teus il·limitats favors. En veritat Tu ets el Senyor d’abundant gràcia.
-
--- Báb

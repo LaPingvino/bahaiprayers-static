@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5958 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Nous Creients
@@ -13,5 +14,3 @@ Aquests són els primers dies de la meva vida, oh Déu meu, què Tu has vinculat
 Oh Déu meu! No soc més que una petita llavor que Tu has sembrat en el sòl del Teu amor i has fet brollar per la mà de la Teva bondat. Per tant, aquesta llavor anhela, en el seu íntim ser, les aigües de la Teva mercè i de la font viva de la Teva gràcia. Fes baixar sobre ella, des del cel de la Teva amorosa bondat, allò que li permeti florir sota l’ombra i als confins de la Teva cort. Tu ets qui rega els cors de tots els que T’han reconegut, amb el cabalós corrent i amb la font de les Teves aigües vives.
 
 Lloat sigui Déu, Senyor dels mons.
-
--- Bahá'u'lláh

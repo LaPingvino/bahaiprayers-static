@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6851 in Canadian Indigenous'
+author = 'Bahá'u'lláh'
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *"Blessed is the Spot" in the language of the Gwich'in First Nations.
@@ -21,5 +22,3 @@ ts'at chuu choo
 ts'at njuu,
 K'agwaadhat nijin nanh chyah gwaltsaii,
 ts'at yinji'gwichil'ee ts'at ch'agwahdit.
-
--- Bahá'u'lláh

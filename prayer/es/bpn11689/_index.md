@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11689 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Los Días Intercalares, aproximadamente del 26 de febrero al 1 de marzo, deben ser días de preparación para el ayuno, días de hospitalidad, para obras benéficas y para ofrecer regalos.
@@ -9,5 +10,3 @@ Estos son, oh mi Señor, Tus siervos a quienes ninguna inclinación corrupta ha 
 Tú ves, oh mi Señor, cómo han reconocido y admitido todo lo que has revelado en Tus Escrituras. Dales de beber, oh mi Señor, de las manos de Tu munificencia, las aguas de Tu eternidad. Decreta, pues, para ellos, la recompensa ordenada para aquel que se ha sumergido en el océano de Tu presencia y ha alcanzado el vino selecto de Tu encuentro.
 Te imploro, oh Rey de reyes y Compadecedor de los oprimidos, que ordenes para ellos el bien de este mundo y del mundo venidero. Decreta para ellos, además, lo que ninguna de Tus criaturas ha descubierto, y cuéntalos entre aquellos que han circulado alrededor de Ti y se mueven en torno a Tu trono en cada mundo de Tus mundos.
 Tú eres, verdaderamente, el Todopoderoso, el Omnisciente, el Informado de todo.
-
--- Bahá'u'lláh

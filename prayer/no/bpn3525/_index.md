@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3525 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O du hvis ihukommelse er sjelens fryd for alle dem som lengter etter deg, hvis navn skaper jubel i hjertet hos alle som fullt og helt er din vilje tro, hvis lovprisning skattes høyt av slike som er kommet ditt kongesete nær, hvis åsyn er den brennende lengsel hos alle dem som har erkjent din sannhet, hvis prøvelse helbreder sykdommene hos dem som har sluttet seg til din Sak, hvis hjemsøkelse er det høyeste ønske hos slike som er fri for all tilknytning til noen annen enn deg!
@@ -11,5 +12,3 @@ Den er i sannhet utstyrt med forstand som innrømmer sin maktesløshet og bekjen
 Høyt, uendelig høyt, er du hevet over alle ting, o du som er kongenes Konge! Jeg bønnfaller deg ved ditt Selv og ved dem som er din Saks manifestasjoner og din myndighets daglysninger, om å skrive ned for oss det som du har nedskrevet for dine utvalgte. Hold ikke tilbake fra oss det som du forordnet for dine elskede, som så snart de hørte deg kalle, ilte hen til deg, og som, da glansen av ditt åsyns lys ble utgytt over dem, straks falt ned i tilbedelse for ditt ansikt.
  
 Vi er dine tjenere, o min Herre, og er i din makt. Om du straffer oss med den straff som ble gitt fordums og den senere tids slekter, så vil din dom være absolutt rettferdig og din handling prisverdig. Mektig er du til å gjøre det som deg behager. Ingen annen Gud er der utenom deg, den allmektige, den overmåte herlige, hjelperen i fare, den selvbestående.
-
--- Bahá'u'lláh

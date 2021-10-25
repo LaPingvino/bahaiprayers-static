@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12033 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 * Dilafazkan sekali dalam dua puluh empat jam antara tengah hari sehingga matahari terbenam. Disarankan orang yang melafazkannya harus berdiri.
@@ -21,5 +22,3 @@ tags = ['lang-104', 'bpn-unsorted']
 *Sebelum melaksanakan Doa Wajib hendaklah melakukan wuduk (membasuh tangan dan muka) terlebih dahulu. Sewaktu berdoa haruslah menghadap ke arah Kiblat.
 
 *~ Kodifikasi Kitáb-i-Aqdas
-
--- Bahá'u'lláh

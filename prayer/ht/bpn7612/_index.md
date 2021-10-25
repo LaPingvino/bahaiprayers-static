@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7612 in Kreyol Ayisyen'
+author = 'Bahá'u'lláh'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##RESITE PRIYÈ SA A CHAK JOU, NAN MATEN, MIDI E ALANJELIS.
@@ -29,5 +30,3 @@ tags = ['lang-ht', 'bpn-unsorted']
 	Mwen sèten gen yon sèl Bondye e Ou pa gen parèy, se Ou menm Ki Bondye, e pa gen lòt Bondye pase Ou. An verite, Ou te revele Koz Ou a, Ou te respekte angajman Alyans Ou, e Ou te ouvri pòt gras Ou byen laj devan tout sa ki abite nan syèl la e sou tè a. Benediksyon ak lapè, salitasyon ak glwa, rete sou byeneme Ou yo, yo menm ki pa te kite chanjman ak chans ki genyen nan lemonn anpeche yo vire nandireksyon Ou, e ki te abandone tout sa yo te genyen, avèk espwa yo t’ap jwenn sa Ou posede a. An verite, se Ou menm K’ap Toujou Padone, Ki Gen Tout Bonte a. 
 
 *Nan plas vèsè long lan, sa t’ap sifi si yon moun ta deside resite mo sa yo: “Bondye temwen pa gen lòt Bondye esepte Li menm, Sila a Ki Pote Sekou nan Danje, Ki Egziste pou kont Li.” E menm jan an, li t’ap sifi, pandan l’ap chita, si li ta deside resite mo sa yo: “Mwen sèten gen yon sèl Bondye e Ou pa gen parèy, se Ou menm Ki Bondye, e pa gen lòt Bondye pase Ou.”
-
--- Bahá'u'lláh

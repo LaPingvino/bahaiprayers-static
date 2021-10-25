@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7787 in Italiano'
+author = 'Abdu'l-Bahá'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Preghiera da dirsi alla fine della seduta dell’As-semblea Spirituale.
@@ -8,5 +9,3 @@ O Dio! O Dio! Dal Regno invisibile della Tua unicità guardaci raccolti in quest
 O nostro Signore! Noi siamo deboli e Tu sei il Forte, il Potente. Noi siamo morti e Tu sei il grande Spirito datore di vita. Noi siamo bisognosi e Tu sei il Sostenitore, il Potente.
 O nostro Signore! Volgi i nostri visi verso il Tuo sembiante misericordioso, alimentaci dalla Tua mensa celeste con la Tua abbondante grazia, assistici con gli eserciti dei Tuoi angeli supremi e confermaci per mezzo dei santi del Regno di Abhá.
 In verità, Tu sei il Generoso, il Misericordioso. Tu sei il Possessore di grande munificenza e, in verità, Tu sei il Clemente e il Benigno.
-
--- Abdu'l-Bahá

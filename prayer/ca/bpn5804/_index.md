@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5804 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Ell és Déu! Exaltat sigui Ell, Senyor d’amorosa bondat i generositat!
@@ -23,5 +24,3 @@ Oh Déu meu! El teu dipòsit t’ha estat retornat. Correspon a la Teva gràcia 
 Testimonio, oh Senyor meu, que Tu has ordenat als homes honorar al seu hoste; i a aquell que ha ascendit cap a Tu, ha arribat veritablement fins a Tu i ha aconseguit la Teva presència. Tracta’l, doncs segons la Teva gràcia i generositat. Per la Teva glòria, se amb certesa que Tu no deixaràs de fer allò  que Tu vas ordenar als Teus serfs ni exclouràs a qui s’ha agafat al cordó de la Teva bondat i ha pujat cap a l’aurora de la Teva riquesa.
 
 No hi ha més Déu que Tu, l’Un l’Únic, el Poderós, l’Omniscient, el Generós.
-
--- Bahá'u'lláh

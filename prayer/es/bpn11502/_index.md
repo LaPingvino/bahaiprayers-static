@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11502 in Español'
+author = 'Abdu'l-Bahá'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Señor, mi Dios y mi Refugio en la aflicción! ¡Mi Escudo y mi Amparo en mis desdichas! ¡Mi Asilo y Protección en momentos de necesidad y, en mi soledad, mi Compañero! ¡En mi angustia, mi Consuelo, y en mi desamparo, un Amigo cariñoso! ¡El que elimina el dolor de mis tristezas y el que perdona mis pecados!
@@ -13,5 +14,3 @@ Haz que mi corazón rebose de amor por Tus criaturas, y permite que me convierta
 Permite que me cobije a la sombra de Tus alas protectoras, y fija en mí la mirada de Tu ojo que todo lo protege.
 Desata mi lengua para que alabe Tu nombre en medio de Tu pueblo, para que mi voz se eleve en grandes asambleas y de mis labios brote el torrente de Tu alabanza.
 Tú eres, verdaderamente, el Benévolo, el Glorificado, el Poderoso, el Omnipotente.
-
--- Abdu'l-Bahá

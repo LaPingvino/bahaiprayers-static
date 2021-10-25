@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12297 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua, toku Atua!  Ko oti au ne fuli atu i toku salamo kia Koe, kae e tonu a Koe ko te Fakagamalo o agasala, ko te Alofa-Atafai.  
@@ -15,5 +16,3 @@ O te Atua, toku Atua! Au e fia inu kit e uaina tafa maluga o Tou alofakaimalie, 
 O te Atua, toku Atua!  Au e molimau me ko oti ne fakaasi ne Koe a Tau Faka-tokaaga, fakataunu a Tau feagaiga kae tuku ifo mai I te lagi o Tou alofa-kaimalie tela ne futi mai kia Koe a loto o Au fagasele.  E llei kia ia te la ne piki mmau ki Tau kafanoa kae mmau ki te kapa o Tou gatu malifalifa.  
   
 Au e akai kia Koe, O te Aliki of mea katoa mot e Tupu o mealavea mot e se lavea, mai i Tou maalosi,Tou afioga mo Tou nofoaigaa-tupu, ke talia ko toku igoa ke fakamau ki lalo ne Tau pene o te matagofie i vasia o Au taugasoa lotommau, ko latou ko la a tapeleti o tino agasala e se mafai o taofi a latou mai ite fuli atu ki te mainaaga o Ou mata, O koe ko te Atua e logo i o motou talosaga,e tali foki a omotou talosaga!
-
--- Bahá'u'lláh

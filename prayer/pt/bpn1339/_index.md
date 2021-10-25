@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1339 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Estes são os dias, ó meu Deus, em que ordenaste aos Teus servos observarem o jejum, o qual fizeste o adorno ao preâmbulo do Livro das Tuas Leis, revelado às Tuas criaturas, e a decoração dos Santuários dos Teus mandamentos, aos olhos de todos os que estão no Teu céu e sobre a Tua terra. Cada hora destes dias, Tu a tens dotado de uma virtude especial, insondável a todos, menos a Ti, cujo conhecimento abrange todas as coisas criadas. A cada alma, também, designaste uma porção dessa virtude, de acordo com a Epístola do Teu decreto e as Escrituras do Teu juízo irrevogável. E ainda mais, para cada um dos povos e raças da terra, especificaste cada folha desses Livros e Escrituras.
@@ -11,5 +12,3 @@ Faze chover sobre nós, ó meu Deus, o que for digno da Tua graça e da Tua gene
 Vês, ó meu Deus, o que sobreveio aos Teus bem-amados nos Teus dias. A Tua glória dá-me testemunho! A voz da lamentação dos Teus eleitos ergueu-se por todo o Teu domínio. Alguns foram enredados pelos infiéis na Tua terra e por eles impedidos de se aproximar de Ti e de atingir a corte da Tua glória. Outros puderam acercar-se, mas foram obstados de contemplar o Teu semblante. Outros ainda, na sua ansiedade por Te ver, puderam entrar na Tua corte, mas permitiram que, entre Ti e eles, interviessem os véus das fantasias das Tuas criaturas e as injúrias infligidas pelos opressores dentre o Teu povo.
 Esta é a hora, ó meu Senhor, que fizeste superar a todas as horas e a relacionaste aos eleitos dentre as Tuas criaturas. Suplico-Te, ó meu Deus, por Ti próprio e por eles, que ordenes, no decorrer deste ano, o que há de enaltecer os Teus bem-amados. E ainda mais, dentro do presente ano, decreta o que possa tornar luzente e esplendoroso o Sol do Teu poder, sobre o horizonte da Tua glória, e, pela Tua soberana grandeza, iluminar o mundo inteiro.
 Concede vitória à Tua Causa, ó meu Senhor, e humilha os Teus inimigos. Destina-nos, então, o bem desta vida e da vindoura. Tu és a Verdade; és Quem conhece as coisas secretas. Nenhum outro Deus há, senão Tu, o Eterno Perdão, o Todo-Generoso.
-
--- Bahá'u'lláh

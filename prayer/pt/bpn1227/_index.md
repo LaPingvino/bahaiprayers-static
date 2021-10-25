@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1227 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado sejas Tu, ó Senhor meu Deus! Todas as vezes que me vem a lembrança de Ti e me ponho a refletir nas Tuas virtudes, tal êxtase e enlevo se apoderam de mim que me vejo sem o poder de fazer menção do Teu nome e de Te louvar. Sou transportado a tais alturas que reconheço o meu próprio ser como idêntico à lembrança de Ti no Teu reino, e à essência do Teu louvor entre os Teus servos. Enquanto durar este ser, o Teu louvor continuará a difundir-se entre as Tuas criaturas e a Tua lembrança a ser glorificada pelo Teu povo.
@@ -8,5 +9,3 @@ Elevado, imensuravelmente elevado és Tu, acima de qualquer tentativa de medir a
 E ao determinares tornar-Te conhecido aos homens, revelaste sucessivamente os Manifestantes da Tua Causa, ordenando que cada um fosse sinal da Tua Revelação entre o Teu povo e a Aurora do Teu Ser invisível em meio às Tuas criaturas, até ao tempo em que, segundo o Teu decreto, todas as Revelações anteriores culminassem n’Aquele que Tu apontaste como o Senhor de todos os que estão no céu da revelação e no reino da existência, n’Aquele que Tu estabeleceste como o Senhor soberano de todos no céu e na terra. Ele foi Quem designaste Arauto da Tua Mais Grandiosa Revelação, o Anunciador da Tua Antiquíssima Glória. Nisso, outro desígnio não tiveste senão o de experimentar aqueles que manifestaram os Teus mais excelentes títulos a todos os que estão no céu e na terra. Ele foi Quem mandaste estabelecer o Seu convénio com todos os seres criados.
 E quando veio o tempo predeterminado e a Tua promessa se cumpriu, Aquele que é o Possuidor de todos os Nomes e Atributos manifestou-se aos homens. Com isto, todos os que estavam nos céus e na terra pasmaram-se, salvo aqueles que Tu guardaste sob a Tua proteção e preservaste no abrigo do Teu poder e do Teu amoroso cuidado. Sucedeu-Lhe, nas mãos de Tuas criaturas que transgrediram contra Ti, aquilo que a língua de nenhum dos Teus servos pode contar.
 Dirige-lhes, pois, ó meu Deus, o olhar da Tua terna misericórdia. Faze descer sobre Ele e sobre todos os que O amam, todo o bem por Ti ordenado no céu da Tua vontade e na Epístola do Teu decreto. Concede-lhes, então, a Tua ajuda, pois Tu és, em verdade, o Omnipotente, o Sublime, o Todo-Glorioso, o Predominante.
-
--- Bahá'u'lláh

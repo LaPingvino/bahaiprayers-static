@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4893 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ən Qədim, Ən Böyük Allahın Adı ilə!
@@ -103,5 +104,3 @@ Həqiqətən, eşitdim Sənin nidanı, Ey Əbhanın Məhbubu; və indi Bəhanın
 Ey Əli-Əkbər! Bu lövhə görə öz Rəbbinə şükr eylə ki, Mənim məzlumiyyətimin ətrini ondan duyasan və aləmlərin Məbudu Allahın yolunda Bizim başımıza gələnlərdən agah olasan.
 
 Əgər bütün bəndələr bu lövhü oxusalar və üzərində düşünsələr, onların damarlarında elə atəş yanar ki, aləmləri oda qalayar.
-
--- Bahá'u'lláh

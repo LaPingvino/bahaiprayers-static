@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2314 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Naw-Rúz, 21 martie, este prima zi a anului Bahá’í, o zi de bucurie şi ospitalitate
@@ -13,5 +14,3 @@ Tu eşti Cel prin care semnul: „Demn de laudă eşti Tu întru faptele Tale”
 Cel care este Ramura Ta şi întreaga Ta suită, o, Domnul meu, şi-au întrerupt în această zi postul, după ce l-au ţinut între hotarele curţii Tale, din dorinţa lor de a-ţi face pe plac. Orânduieşte pentru El şi pentru ei, şi pentru toţi cei care au intrat în prezenţa Ta în aceste zile, tot binele hărăzit de Tine în Cartea Ta. şi dă-le apoi ceea ce le va fi de folos în această viaţă şi în cea de dincolo.
 
 Tu eşti cu adevărat Cel Atotştiutor, Cel Atotînţelept.
-
--- Bahá'u'lláh

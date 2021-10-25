@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10015 in Slovensky'
+author = 'Bahá'u'lláh'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Povinná modlitba za zosnulých
@@ -11,5 +12,3 @@ My všetci, vskutku, uctievame Boha.
 My sa všetci, vskutku, skláňame pred Bohom. My sa všetci, vskutku, oddávame Bohu. My všetci, vskutku, chválime Boha. My všetci, vskutku, ďakujeme Bohu.
 My všetci, vskutku, zostávame trpezliví v Bohu.
 *(Ak zomrela žena, nech je prednesené: Toto je Tvoja služobníčka a dcéra Tvojej služobníčky…)
-
--- Bahá'u'lláh

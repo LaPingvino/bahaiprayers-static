@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8134 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Han er den bønhørende Gud, den der besvarer bønner.
@@ -13,5 +14,3 @@ Og atter beder jeg Dig ved Dine blide nådestrømme og bølgerne i Din begunstig
 Ved Dit herredømme, o Du, som er forherliget i menneskers hjerter! Jeg har vendt mig til Dig og forsaget min egen vilje og attrå for at Din hellige vilje og Dit velbehag må herske i mig og lede mig i overensstemmelse med det, som Dit evige buds pen har bestemt for mig. Denne tjener, o Herre, vender sig i sin hjælpeløshed mod Din styrkes himmellegeme, iler i sin nedværdigelse til herlighedens daggry, attrår i sin armod Din nådes ocean. Jeg bønfalder Dig ved Din gunst og gavmildhed, vis ham ikke bort.
 
 Du er sandelig Den Almægtige, Den Tilgivende, Den Medfølende.
-
--- Bahá'u'lláh

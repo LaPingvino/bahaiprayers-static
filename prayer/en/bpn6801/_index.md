@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6801 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 My God, the Object of my adoration, the Goal of my desire, the All-Bountiful, the Most Compassionate! All life is of Thee and all power lieth within the grasp of Thine omnipotence. Whosoever Thou exaltest is raised above the angels, and attaineth the station: “Verily, We uplifted him to a place on high!”; and whosoever Thou dost abase is made lower than dust, nay, less than nothing.
@@ -12,5 +13,3 @@ We beg of Thee, O Providence, to show Thy way unto all men, and to guide them ar
 
 
 *Epistle to the Son of the Wolf, p. 9-10, Prayers and Meditations, CLX
-
--- Bahá'u'lláh

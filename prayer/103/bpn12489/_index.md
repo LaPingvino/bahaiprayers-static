@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12489 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-103', 'bpn-unsorted']
 +++
 Magnified be Thy name, O Lord my God! Thou art He Whom all things worship…
@@ -13,5 +14,3 @@ O lau Afio o Ia lea e tapua’i i ai mea uma a o Le e lē tapua’i i se tasi ,
    Ou te ole atu i Lau Afio, i le upu lava lenei na fa’aalia mai i luga o le tafa’ilagi o Lou finagalo, ina ia fa’amalosia a’u e inu malosi i vai ola na avatua ai e Lau Afio le ola i loto o Ou tagata filifilia ma fanaufouina ai agaga o i latou e alolofa ia te Oe, ina ia ou mafai ai i taimi uma i lalo o so o se tulaga, ona liliu atu ‘ato’atoa o’u mata ia te Oe.
 
 O Lau afio o le Atua o le mana, o le mamalu ma le foa’ialofa. E leai se tasi Atua iina na o Oe, o le Tupu Silisili, le Mamalu-Uma, o le Silafaga Ati.
-
--- Bahá'u'lláh

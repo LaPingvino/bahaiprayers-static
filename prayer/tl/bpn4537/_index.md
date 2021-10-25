@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4537 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 *Sinasabi ng Aqdas: “Inuutusan Namin kayo na manalangin at mag-ayuno mula sa pagsapit sa hustong gulang (15 taon); ito ay iniuutos ng Diyos, ang inyong Panginoon at ang Panginoon ng inyong mga ninuno... Ang manlalakbay, ang may karamdaman, yaong nagdadalantao o nagpapasuso, ay hindi nasasaklaw ng Pag-aayuno... Huwag kumain at uminom mula sa pagsikat ng araw hanggang sa paglubog ng araw, at mag-ingat na baka ang hangarin ay pagkaitan kayo ng pagpapala na ito na itinakda sa Aklat.” Ang panahon ng Pag-aayuno ay buhat sa Marso 2 hanggang Marso 20.
@@ -31,5 +32,3 @@ Isinasamo ko sa Iyo, O aking Diyos, sa liwanag ng Iyong kaanyuan na nagbunsod sa
 Isinasamo ko sa Iyo, O aking Diyos, sa Iyong pangalan na sa pamamagitan nito ay Iyong narinig ang pagtawag ng mga umiibig sa Iyo, at sa daing nilang naghahangad sa Iyo, at sa tawag nilang nagtatamasa ng pagkalapit sa Iyo, at ang pagdaing nilang matapat sa Iyo, at sa pamamagitan nito ay Iyong natupad ang mga kahilingan nilang nag-ukol ng kanilang pag-asa sa Iyo, at Iyong ipinagkaloob ang kanilang mga hinahangad, sa pamamagitan ng Iyong biyaya at Iyong mga pagtatangkilik, at sa Iyong Pangalang namagitan sa pagdagsa ng karagatan ng pagpapatawad sa harap ng Iyong mukha at ang mga alapaap ng Iyong kagandahang-loob ay umulan sa Iyong mga tagapaglingkod, na isulat para sa bawat isang bumaling sa Iyo, at nagsagawa ng pag-aayunong iniatas Mo, ang yaong gantimpalang itinalaga para sa mga hindi nagsisipagsalita nang hindi Mo ipinahihintulot, at nag-iwan ng lahat nilang pag-aari, alang-alang sa Iyong landas at sa pag-ibig sa Iyo.
 
 Isinasamo ko sa Iyo, O aking Panginoon, sa Iyong Sarili, at sa Iyong mga tanda, at sa Iyong malilinaw na alaala, at sa maningning na liwanag ng Araw-Bituin ng Iyong Kagandahan, at sa Iyong mga Sanga, na burahin ang mga pagkakamali ng mga nagsitupad nang mahigpit sa Iyong mga batas at tinupad yaong Iyong iniatas sa kanila sa Iyong Aklat. Nakikita Mo ako, O aking Diyos, na nakahawak sa Iyong Pangalan, ang Pinakabanal, ang Pinakamaningning, ang Pinakamakapangyarihan, ang Pinakadakila, ang Pinakamataas, ang Pinakamaluwalhati, at nakapangapit sa laylayan ng damit na pinangapitan ng lahat sa daigdig na darating.
-
--- Bahá'u'lláh

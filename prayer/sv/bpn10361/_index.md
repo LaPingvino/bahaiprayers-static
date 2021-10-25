@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10361 in Svenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 ##SKRIFTEN TILL AHMAD
@@ -37,5 +38,3 @@ Lär denna skrift väl, o Ahmad. Läs den under dina dagar och låt ingenting hi
 Vid Gud! Skulle någon plågad eller sorgsen i fullkomlig uppriktighet läsa denna skrift, skall Gud skingra hans sorg, lösa hans svårigheter och avlägsna hans lidande.
 
 Sannerligen, Han är den Barmhärtige, den Medlidsamme. Pris vare Gud, alla världars Herre.
-
--- Bahá'u'lláh

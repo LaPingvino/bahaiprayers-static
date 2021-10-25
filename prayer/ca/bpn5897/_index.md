@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5897 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Alba
@@ -11,5 +12,3 @@ Lloat siguis Tu, oh Senyor, per haver-nos despertat als resplendors de la llum d
 Beneeix, oh Senyor Déu meu, Aquell a qui Tu has col·locat per sobre dels teus més excel·lents títols i mitjançant el qual Tu has separat els piadosos dels perversos, i ajuda’ns bondadosament a fer allò què Tu estimes i desitges. Beneeix a més, oh Déu meu, als qui són les Teves Paraules i les Teves Lletres i els qui  han dirigit els seus rostres cap a Tu, s’han girat cap el Teu semblant i han escoltat la Teva crida.
 
 Tu ets en veritat el Senyor i el Rei de tots els homes i ets poderós per sobre de totes les coses.
-
--- Bahá'u'lláh

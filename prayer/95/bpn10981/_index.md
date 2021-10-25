@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10981 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 I te Igoa o te Atua, ko te Tafasili i te Favavau, ko te tafasili i te Lasi.  E tonu i loto o au fagasele ko velasia ne te afi o te mavae: Te fea a te mainaaga o te moli o Ou mata, O te Fakasele o lalolagi?
@@ -53,5 +54,3 @@ Ko Koe e tagi, io me ko Au ka tagi?  Io me ko Au ka tagi-fanoanoa i te mutana o 
 E tonu, ko oti ne lagona ne Au a Tau kalaga, O te Fagasele-Katoatoa; kae nei ko mata o Baha ko ka valevale i te vela o mea tupu mo te afi o Tau muna maina, kae ko oti a Ia ne tu aka ki luga i te fakatuanaki o te koga o te nofo-mae, taumata atu ki mua i Tou fiafiaaga, O ko Koe te Fakaeke o lalolagi.
 O Alí-Akbar, fakafetai ki tou Aliki e uiga mo te Tapeleti tenei te la ko mafai ne Koe o manava a te manogi gali o Toku filemu, kae ke iloa a mea ko oti ne pakuu i luga ia Tatou i te auala o te Atua, O te Fiafaiiga o lalolagi katoa.
 A tavini katoa ka faitau kae mafaufau ki te mea tenei, ka maua ne kalokalo afi i olotou uaua ko la ka mafai o ula i ei a lalolagi.
-
--- Bahá'u'lláh

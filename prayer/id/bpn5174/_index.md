@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5174 in Bahasa Indonesia'
+author = 'Abdu'l-Bahá'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *[Doa ini dapat dibaca pada penutup Pertemuan]
@@ -10,5 +11,3 @@ Ya Tuhan kami! Hadapkanlah wajah kami pada wajah kasih sayang-Mu; beri makanlah 
 Sesungguhnya, Engkaulah Maha Dermawan, Maha Pemurah! Engkaulah Pemilik anugerah besar, dan sesungguhnya, Engkaulah Maha Pengasih dan Maha Penyayang.
 
 *"Musyawarahlah satu sama lain dalam segala urusan, karena musyawarah adalah lampu petunjuk yang menunjukkan jalan dan memberi pengertian". - Bahá’u’lláh
-
--- Abdu'l-Bahá

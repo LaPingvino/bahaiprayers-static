@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2263 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 *Această rugăciune se foloseşte pentru bahá'íi care au împlinit vârsta de cincisprezece ani. „Este singura rugăciune obligatorie Bahá'í care se recită în congregaţie; trebuie recitată de un singur credincios, în timp ce toţi cei prezenţi stau în picioare. Nu e nevoie să se întoarcă spre Qiblih în timp ce recită această rugăciune.” - Bahá'u'lláh, Kitáb-i-Aqdas
@@ -24,5 +25,3 @@ Noi toţi, cu adevărat, aducem mulţumiri lui Dumnezeu.
 Noi toţi, cu adevărat, suntem răbdători în Dumnezeu.
 
 *(Dacă cel defunct este o femeie, să se spună: „Aceasta este slujitoarea Ta şi fiica slujitoarei Tale” etc.)
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11704 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-100', 'bpn-unsorted']
 +++
 *Idan an zāɓi yin wannan salla, a bāyan an yi arwalla, a tāshi, a jūya gabā gabas maso arēwa, a dūbi dāma da hauni, tamkar mai nēman rahamar Ubangiji, ar-rahamane, mai jinƙai, kuma a cē :
@@ -43,5 +44,3 @@ Yabo ya tabbata a garēka, yā Allah! Kana bayyana muna abun da yake kusantar mu
 Yā Ubangijinmu, muna rōƙon ka kāre mu da rundunar tunāninmu na wōfi, da ra’āyōyinmu na shirme. A gaskiya, kai nē mai ƙudura, masanin kōmi.
 *A tāshi tsaye a ce:
 Yā Allāna, nā shaida abūbūwan da gātāyanka suka shaida, kuma nā faɗakar da abun da mazaunan aljanna, da waɗanda suke kēwaye da karagar fādarka, suka faɗakar. Daulōlin ƙasa da na sama duka nāka ne, yā Ubangijin dūniyōyi.
-
--- Bahá'u'lláh

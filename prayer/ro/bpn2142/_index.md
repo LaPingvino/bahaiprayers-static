@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2142 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Dumnezeu este Cel care aude rugăciunea şi răspunde rugăciunii! Pe slava Ta, o, Preaiubitule, Tu dătătorule de lumină lumii! Flăcările despărţirii de Tine m-au mistuit şi îndărătnicia mea a topit inima din mine. Te rog, întru Cel Mai Mare Nume al Tău, o, Tu Dorinţa lumii şi Preaiubitul omenirii, să îngădui ca adierea inspiraţiei Tale să poată susţine sufletul meu, ca vocea Ta minunată să poată ajunge la urechea mea, ca ochii mei să poată privi semnele Tale şi lumina Ta, aşa cum este revelată în manifestările numelor şi atributelor Tale, o, Tu în a cărui mână se află toate lucrurile!
@@ -11,5 +12,3 @@ Tu vezi, o, Doamne, Dumnezeul meu, lacrimile celor privilegiaţi de Tine, vărsa
 Pe suveranitatea Ta, o, Tu care eşti glorificat în inimile oamenilor! M-am întors spre Tine, uitând propria mea voinţă şi dorinţă, ca sfânta Ta vrere şi plăcere să poată cârmui în mine şi să mă călăuzească potrivit cu ceea ce pana veşnicei Tale porunci a hărăzit pentru mine. Acest slujitor, o, Doamne, deşi neajutorat se întoarce spre Astrul Puterii Tale, deşi înjosit grăbeşte spre Aurora Gloriei, deşi nevoiaş este plin de dor pentru Oceanul Bunăvoinţei Tale. Te implor, prin favoarea şi mărinimia Ta, nu-l alunga de la Tine.
 
 Tu eşti cu adevărat Cel Tare, Cel Îngăduitor, Cel Plin de Compasiune.
-
--- Bahá'u'lláh

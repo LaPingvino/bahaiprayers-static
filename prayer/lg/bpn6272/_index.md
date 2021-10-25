@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6272 in Luganda'
+author = 'Abdu'l-Bahá'
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ye ye Katonda, Ayi Mukama, Katonda wange!  Ayi Ggwe omuyambi w'abanafu, omukubagiza w'abanaku, era omununuzi wa bakateyamba abo abakyukira Gyoli.
@@ -9,5 +10,3 @@ Ayi Mukama!  Emyoyo gino gileze ku bibonyobonyo by'obulamu obwo munsi munno, nga
 Ayi Mukama jjuza amatu gaabwe, n'ennyiriri z'obuyambi Bwo obutukuvu, era n'obuwanguzi Bwo obwamangu, era obasumulule okubajja mu nvuba z'abalabe bano abamaanyi.  Bajjeeko emikono gyo'mutabe, era toleka myoyo gino kutaagulwataagulwa manyo na njala ez'ensolo zino enkambwe kubanga bano basibe mu kwagala Kwo, era bakwasibbwa ebyamagero eby'obutukuvu Bwo, bayimirira n'obuwombeefu mu maaso Go, era batuuka ku buggwe Wo omutukuvu.
 Ayi Mukama!  Kulw'ekisa Kyo, banyweze n'omwoyo omugya; basobozese okulaba ebyamagero Byo eby'ekyewunyo mu kizikiza eky'ekiro, obategekere ebirungi eby'omujjirano ebiri mu bwakabaka Bwo obw'ebyamagero eby'olubeerera.  Obafuule nga emmunyenye ez'akayakana buli wantu, emiti emigimu egirembedde ebibala, nga amatabi gagyo ganyenyezebwa empewo ezoku makya.
 Ddala ddala, Ggwe Oli Mugabi, Ggwe Oli wa maanyi, Ayinza byonna, Atakugirwa.  Tewali Katonda mulala wabula Ggwe, Katonda ow'okwagala, n'ekisa ekingi, Nnyini kitiibwa, Asonyiwa bulijjo.
-
--- Abdu'l-Bahá

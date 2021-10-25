@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12459 in Namibia'
+author = 'Bahá'u'lláh'
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Nafimanekwe, Kalunga, omo lwo vatumwa vaye vo hole Ovo hetu tu mine! Ove ou uli omwenyo nouyelele wetu, yukifa ovapiya voYe mendyila doYe, ndele tu pa oupuna tu ku kalele auke. 
@@ -8,5 +9,3 @@ Kalunga, shitila omundilo wohole momitima do vapiya voYe; wo uxuikemo omadila-di
 	Kalunga, tu likila oukwalushe woYe ou waliko nale no taukala ko alushe fiyo alushe, osheshe Kapena Kalunga ehefi ove.
 	 Ove auke Kalunga. Oshili, mwove ohatu mono enghono nehekeleko ta li di kwoVe.
 Bahá̓u̓lláh
-
--- Bahá'u'lláh

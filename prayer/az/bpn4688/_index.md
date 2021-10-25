@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4688 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 ##Gündə səhər, günorta, və axşam bir dəfə qılmali
@@ -29,5 +30,3 @@ Ey mənim Allahım, yalvaran barmaqlarla Sənin rəhmət və fəzl ətəyindən 
 Sənin birliyinə və təkliyinə, Sənin Allah olduğuna və Səndən başqa Allah olmadığına şəhadət verirəm. Sən həqıqətən, Öz Əmrini aşkar etdin, Əhdinə vəfa etdin və fəzl qapını göydə və yerdə onların üzünə açdın. Xeyir-dua və əmin-amanlıq, salam və Bəha Sənin dostlarının üzərinə olsun ki, dünyanın dəyişiklikləri və hadisələri onların Sənə tərəf yönəlmələrinə mane ola bilmədi və onlar Sənin yanında olanları əldə etmək ümidi ilə bütün malik olduqlarından keçdilər. Sən, həqiqətən, Bağışlayan və Səxavətlisən.
 
 *(Əgər kimsə uzun ayənin əvəzinə “Allah şəhadət verir ki, Ondan başqa Allah yoxdur, O, Əzəmətli və Qəyyumdur” söyləsə, bu kifayət edər. Eynilə də bu kifayət olardı ki, əyləşdiyi zaman bu ayəni oxusun: “Sənin birliyinə və təkliyinə və ona səhadət verirəm ki, sən Allahsan, Səndən başqa Allah yoxdur.”)
-
--- Bahá'u'lláh

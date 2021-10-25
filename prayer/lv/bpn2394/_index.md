@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2394 in Latviešu'
+author = 'Abdu'l-Bahá'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Viņš ir Žēlīgais, Visdāsnais!
@@ -7,5 +8,3 @@ Ak Dievs, mans Dievs! Tavs aicinājums ir sasniedzis mani un Tavas Godības Spal
 Šai brīdī es apliecinu, ak mans Dievs, savu nevarību un Tavu varenību, savu vārgumu un Tavu spēku. Es nezinu, kas man nāk par labu, un es nezinu, kas man nāk par ļaunu. Patiesi, Tu esi Viszinošais un Visgudrais. Liec man, ak mans Kungs un Valdniek, būt mierā ar Tavu mūžīgo likumu, ļauj man zelt ikvienā no Tavām pasaulēm. Patiesi, Tu esi Žēlīgais, Dāsnais.
 Kungs! Neatgrūd mani no Savas pilnības dzīlēm un Savas žēlastības debesīm, un piešķir man labu šajā un nākamajā pasaulē.
 Patiesi, Tu sēdi Savā visaugstās žēlastības tronī, nav cita Dieva bez Tevis, Vienīgā, Viszinošā, Visgudrā.
-
--- Abdu'l-Bahá

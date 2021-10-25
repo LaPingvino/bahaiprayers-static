@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8245 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 In the name of God, Who hath cast His splendour over all creation!
@@ -29,5 +30,3 @@ O Lord! Give them to drink, from the hands of Thy mercy, a draught from that riv
 
 *5. Jesus.
 *6. The Báb.
-
--- Bahá'u'lláh

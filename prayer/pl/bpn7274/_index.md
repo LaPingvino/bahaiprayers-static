@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7274 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie, Boże mój i Przystani moja w niebezpieczeństwie! Moja Tarczo i Schronienie moje w nieszczęściu! Moja Ostojo i Ucieczko w potrzebie i Towarzyszu w mej samotności! Mój Pocieszycielu w chwilach niepokoju i serdeczny Przyjacielu w mym osamotnieniu! Wybawicielu od przypływów mego smutku i Przebaczający moje grzechy!
@@ -23,5 +24,3 @@ Dozwól mi spocząć w cieniu Twoich opiekuńczych skrzydeł i skieruj na mnie s
 Rozwiąż mój język, by głosił chwałę Twego imienia pośród Twojego ludu, aby mój głos rozbrzmiewał pośród wielkich zgromadzeń, a z mych ust płynęły potoki sławiące Ciebie.
    
 Tyś wszakże jest Łaskawym, Wysławianym, Potężnym, Wszechmogącym.
-
--- Abdu'l-Bahá

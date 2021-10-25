@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3140 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O my God en my Meester! Ek is U dienaar en die seun van U dienaar. Ek het met hierdie dagbreek van my kooi af opgestaan toe die Môrester van U eenheid uit die Daeraad van U wil voortgeskyn het, en sy glans oor die hele wêreld gegooi het, ooreenkomstig wat in die Boeke van U Verordening bepaal is.
@@ -9,5 +10,3 @@ Lof sy aan U, o my God, dat ons vir die luister van die lig van U kennis waker g
 Seën U, o Here my God, Hom Wat U oor U mees voortreflike Titels geplaas het, en deur Wie U tussen die vrome en goddelose geskei het, en help ons genadiglik om te doen wat U liefhet en begeer. Seën U, bowendien, o my God, hulle Wat U Woorde en U Letters is, en hulle wat hulle aangesigte na U ingestel het, er na U gesig gedraai het, en U geroep gehoor het.
 
 U is, waarlik, die Here en Koning van alle mense, en is magtig oor alle dinge.
-
--- Bahá'u'lláh

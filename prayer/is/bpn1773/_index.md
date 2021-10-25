@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1773 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er hinn náðugi og ástfólgni!
@@ -118,5 +119,3 @@ Síðan þustu meyjar himinsins út úr vistarverum sínum. Enginn íbúi hinnar
  Dýrlegur sé Drottinn minn, hinn aldýrlegi!
 Og þegar þær sáu hvernig hún var á sig komin og skildu orð af frásögn Æskumannsins beruðu þær höfuð sín, rifu klæði, slógu sér á höfuð, gleymdu gleði sinni, úthelltu tárum og börðu sér á vanga með höndunum, og þetta er að sönnu ein hinna dulhelgu og sáru þjáninga–
  Dýrlegur sé Drottinn minn, hinn aldýrlegi!
-
--- Bahá'u'lláh

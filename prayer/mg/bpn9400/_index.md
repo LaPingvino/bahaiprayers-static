@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9400 in Malagasy'
+author = 'Abdu'l-Bahá'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 *Ity vavaka ity, nambaran’i ‘Abdu’l-Bahá, ity dia vakiana eo anoloan’ny Fasany. Vakiana koa ity amin’ny vavaky ny tena samirery. 
@@ -12,5 +13,3 @@ Ry Tompo! Ity ny mpanomponao mahantra sy tsotra, mankatò sy mitalaho Aminao, ba
 Ry Tompo, ampisotroy amin’ny kapoakan’ny fandavan-tena aho, ampitafio ny fitafiany aho ary arobohy lalina ao amin’ny ranomasimbeny. Ataovy toy ny vovoka eny amin’ny lalan’ny Olo-malalanao aho ary aoka mba hanolotra ny fanahiko ho amin’ny tany feno fahamendrehana izay nodiavin’ny Olom-boafidinao eo amin’ny Lalanao, ry Tompon’ny Voninahitra avo indrindra”. 
 Miantso Anao amin’ity vavaka ity, amin’ny mangirandratsy sy amin’ny alina ny mpanomponao. Tanteraho ny fanirian’ny fony, ry Tompo ô! Hazavao ny fony, ampifalio ny fanahiny, areheto ny fanaovanjirony, mba hanompoany ny Fototrao sy ny Mpanomponao.
 Ianao Ilay Mpanome, Ilay Mpangoraka, Ilay Onena olona, Ilay Mpamindra fo, Ilay Be Indrafo, Ilay Mangoraka.
-
--- Abdu'l-Bahá

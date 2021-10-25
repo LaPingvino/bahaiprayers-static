@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3536 in Norsk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O du gode Herre! Du har frembragt hele menneskeslekten fra samme stamfar. Du har bestemt at alle skal tilhøre den samme husstand. I ditt hellige nærvær er de alle dine tjenere, og hele menneskeheten lever i ly av ditt tabernakel; alle har samlet seg ved ditt gavmilde bord; alle blir opplyst ved ditt forsyns lys.
@@ -17,5 +18,3 @@ Knytt du, o Gud, hjertene sammen.
 O du gode Far, Gud! Gled våre hjerter ved din kjærlighets duft. Gjør våre øyne strålende ved din ledelses lys. Fryd våre ører med ditt Ords melodi, og gi oss alle ly i ditt forsyns borg.
  
 Du er den mektige og sterke, du er den tilgivende, og du er den som bærer over med alle menneskers feil.
-
--- Abdu'l-Bahá

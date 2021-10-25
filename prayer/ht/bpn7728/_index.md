@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7728 in Kreyol Ayisyen'
+author = 'Bahá'u'lláh'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Li menm Ki Bondye, Sila a Ki egzalte, Senyè a Ki gen yon jantiyès ki plen lanmou ak bonte!
@@ -13,5 +14,3 @@ O Senyè mwen, li menm ki pòv la te vrèman prese pou jwenn Wayòm richès Ou a
 O Bondye mwen, Trezò Ou a gen tan retounen al’ jwenn Ou. Gras Ou ak bonte Ou ki te antoure wayòm Ou yo sou tè a e nan syèl la mande pou Ou akeyi nouvo vini sa a avèk favè Ou yo ak benediksyon Ou yo, e pataje avèk li fwi pyebwa gras Ou a! Ou gen pouvwa pou fè tout sa Ou vle, pa genyen lòt Bondye pase Ou, Sila a Ki Plen Gras, Ki Gen Plis Bonte a, Ki Gen Konpasyon, Ki Toujou Bay, Ki Padone, Ki Gen Anpil Valè, Ki Konnen Tout Bagay.
 Mwen temwen, O Bondye mwen, Ou te bay lòd pou lèzòm bay onè pou moun k’ap vizite lakay yo, epi li menm ki te monte pou jwenn Ou an te vrèmen rive devan Ou epi li te antre nan Prezans Ou. Poutèt sa, trete li daprè gras ak bonte Ou! Avèk glwa Ou, mwen sèten Ou pa pral neglije fè sa Ou te mande sèvitè Ou yo fè, ni Ou p’ap manke bay favè Ou pou sila a ki te kenbe fèm nan kòd bonte Ou a e ki te monte nan Sous richès Ou a.
 Pa genyen lòt Bondye pase Ou menm, Sila a Ki pa gen parèy, Ki pou kont Li, Ki Plen Pouvwa, Ki Konnen Tout Bagay, Ki Plen Bonte.
-
--- Bahá'u'lláh

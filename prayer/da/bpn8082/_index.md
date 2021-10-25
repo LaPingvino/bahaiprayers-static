@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8082 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O min Gud og min Mester! Jeg er Din tjener og søn af Din tjener. Jeg har rejst mig fra mit leje i denne morgenstund, hvor Din enheds dagstjerne har skinnet frem fra Din viljes daggry og har kastet sin stråleglans på hele verden i overensstemmelse med, hvad der er forudbestemt i Din forordnings bøger.
@@ -9,5 +10,3 @@ Lovpriset være Du, o min Gud, at vi er vågnet til glansen fra Din kundskabs ly
 Velsign Du, o Herre min Gud, Ham Du har sat højere end Dine mest fremragende Benævnelser, og gennem hvem Du har gjort skel mellem de gudfrygtige og de onde og hjælp os nådigt at gøre det, Du elsker og attrår. Velsign ydermere, o min Gud, dem der er Dine ord og bogstaver og dem, der har vendt deres ansigter mod Dig og vendt sig til Dit åsyn og lyttet til Din kalden.
 
 Du er i sandhed Herren og Kongen over alle mennesker, og Du har magt over alt.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2614 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Áldott az a pont, az a ház,
@@ -10,5 +11,3 @@ az a hely, és a város,
 és a víz, és a sziget,
 és a rét is, hol Isten nevét említék,
 és zengék dicséretét.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4375 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 **FARA Á MEÐ ÞESSA BÆN EINU SINNI
@@ -34,5 +35,3 @@ Lof sé Þér, Ó Guð minn, að Þú hefur hjálpað mér að muna Þig og lofa
 Lof sé Þér, ó Guð okkar, að Þú hefur sent það niður til okkar sem færir okkur nær Þér og birgir okkur upp af öllu því góða sem sent er niður í bókum Þínum og ritningum. Vernda okkur, þess biðjum við Þig ó Drottinn minn, gegn sæg hégóm­legra dutt­lunga og fánýtra ímyndana. Þú ert að sönnu hinn máttugi, sá sem allt þekkir.
 *Síðan rétti hann sig upp, setjist og segi:
 Ég ber því vitni, Ó Guð minn, sem Þínir útvöldu hafa vitnað um og viðurkenni það sem íbúar al­hæstu paradísar og þeir sem umkringja Þinn vold­uga veldisstól hafa viðurkennt. Ríki jarðar og himins eru Þín, ó Drottinn veraldanna!
-
--- Bahá'u'lláh

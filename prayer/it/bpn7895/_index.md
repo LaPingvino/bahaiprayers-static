@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7895 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Egli è Dio Che ascolta ed esaudisce le preghiere !
@@ -8,5 +9,3 @@ Vedi, o Signore mio Dio, le lacrime che i Tuoi prediletti versano a causa della 
 E ancora Ti chiedo, per le soavi effusioni della Tua grazia e per le onde dell’oceano del Tuo favore, di ordinare per i Tuoi santi ciò che rallegrerà i loro occhi e conforterà i loro cuori. Signore! Vedi colui che piega le ginocchia bramoso di levarsi a servirTi, vedi il morto invocare la vita eterna dall’oceano del Tuo favore e anelare a librarsi verso il paradiso della Tua ricchezza, lo straniero agognare la sua dimora di gloria sotto il baldacchino della Tua grazia, il cercatore affrettarsi, per la Tua misericordia, alla porta della Tua generosità, il peccatore volgersi all’oceano della Tua indulgenza e del Tuo perdono. 
 Per la Tua sovranità, o Tu Che i cuori degli uomini glorificano! Mi sono rivolto a Te obliando il mio volere e il mio desiderio, così che il Tuo santo volere e compiacimento governino entro di me e mi guidino secondo quanto la penna del Tuo eterno decreto ha per me destinato. Questo servo, o Signore, pur impotente si volge verso l’Astro del Tuo Potere, pur umiliato si affretta verso l’Oriente della Gloria, pur bisognoso brama l’Oceano della Tua Grazia. T’imploro, per il Tuo favore e la Tua generosità, di non respingerlo.
 Tu sei, in verità, l’Onnipotente, il Perdonatore, il Compassionevole.
-
--- Bahá'u'lláh

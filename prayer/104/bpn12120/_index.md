@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12120 in '
+author = 'Báb'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhan! Kepada Engkau aku mencari perlindungan dan menuju ke semua tanda-Mu aku arahkan hatiku.
@@ -11,5 +12,3 @@ Berikanlah daku, bantuan-Mu yang mencukupi agar menjadikan daku tidak bergantung
 Anugerahkanlah ke atas daku bahagianku, Ya Tuhan, seperti yang Engkau redai, dan sebabkanlah daku untuk berpuas dengan apa jua yang Engkau perintahkan bagiku.
 
 Engkaulah memiliki kekuasaan mutlak untuk memerintahkan.
-
--- Báb

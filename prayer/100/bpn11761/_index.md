@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11761 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-100', 'bpn-unsorted']
 +++
 ##Rānar haifuwar Baha’u’llah (aminci ya tabbata a garēshi)
@@ -12,5 +13,3 @@ Ka cē: ka ji tsōron Allah, kuma kada ka kula da zatūttukan wōfi da waɗanda 
 Yana yiyuwa ka gaugauta zuwa ga ƙaramin tabki, alhāli gā babban tēku nan gaban idonka? Ka jūyā gabādayanka wajensa, kada ka bi sāwun kōwanne daga cikin kāfirai maƙaryata. Tsuntu madawwami nā wāƙā bisa rassun itāciyarmu ta Ubangiji. Nā rantse da Ubangiji Allah! wāƙarta guda ɗaya tak, tā isa ta shāwar da majalasar samāniya, har mā, mazaunan birānen sūnāye, kuma har mā waɗanda suke zāgayāwa, suna kēwaya gadon mulki sāfe da marēce.
 Haka nē, ruwan kalmōmi yake zubōwa daga samāniyar ƙudirin Ubangijinka, mai rahama. Ku jākuɗo kusanta, yā ku al’umma, ku yi wātsi da waɗanda suke gardama ta wōfi da banza bisa āyōyin da Allah ya sauko, kuma da suka ƙi yarda da Ubangijinsu da ya zō musu ɗauke da hujja da shaida.
 (Ayyam-i-Tis’ih shāfi 45-47)
-
--- Bahá'u'lláh

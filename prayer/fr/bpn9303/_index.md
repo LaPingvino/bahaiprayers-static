@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9303 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Ayyám-i-Há
@@ -13,5 +14,3 @@ Voici, ô mon Seigneur, ceux de tes serviteurs qui reçoivent, malgré leurs inc
 Vois, ô mon Seigneur, ils reconnaissent et confessent tout ce que tu leur révèles dans tes Écritures. Ô mon Seigneur, des mains de ta générosité, donne-leur à boire les eaux de ton éternité. Assigne-leur la récompense réservée à celui qui se plonge dans l’océan de ta réalité et qui goûte le nectar de ta rencontre.
 Ô Roi des rois, toi qui as pitié de l’opprimé, daigne leur attribuer les biens de ce monde et du monde à venir. Révèle-leur ce qu’aucune de tes créatures n’a découvert, compte-les parmi ceux qui gravitent autour de toi et qui évoluent autour de ton trône en chacun de tes mondes.
 Tu es vraiment l’Omnipotent, l’Omniscient, l’Informé.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4535 in Filipino'
+author = 'Abdu'l-Bahá'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Ang dalanging ito, na inihayag ni ‘Abdu’l-Bahá, ay binabasa sa Kaniyang Dambana. Ginagamit din ito sa pansariling panalangin.
@@ -15,5 +16,3 @@ O Panginoon, aking Diyos! Bigyan Mo ako ng Iyong biyaya nang upang makapaglingko
 Sa pamamagitan ng dalanging ito ay tumatawag sa Iyo ang tagapaglingkod Mo, sa bukang-liwayway at sa panahon ng magdamag. Bigyang-katuparan ang hangarin ng kaniyang puso, O Panginoon. Tanglawan ang kaniyang puso, pagalakin ang kaniyang dibdib, paningasin ang kaniyang tanglaw, nang upang mapaglingkuran niya ang Iyong Kapakanan at ang Iyong mga tagapaglingkod.
 
 Ikaw ang Tagapagkaloob, ang Maawain, ang Pinakamapagpala, ang Mapagbigay-biyaya, ang Mahabagin, ang Madamayin!
-
--- Abdu'l-Bahá

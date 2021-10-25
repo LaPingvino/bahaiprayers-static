@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6462 in Sesotho'
+author = 'Abdu'l-Bahá'
 tags = ['lang-st', 'bpn-unsorted']
 +++
 Oho Uena Morena Ea Moa! Ke Uena Ea bopileng batho bohla kaofela batsoaling ba le bang ba pele. U rerile hore bohle e be ba ntlo e le ‘ngoe. Ka pele ho Uena Ea halalelang, bohle ke bank aba Hau, ‘me lichaba tsohle li tlas’a tšireletso ea Tabernekel Ea Hau; bohle ba phuthehile Tafoleng Ea Limpho tsa Hau. Bohle ba phatsima ka leseli la pheliso ea Hau. 
@@ -9,5 +10,3 @@ Oho Molimo! Hloma bonngoe ba batho bohle ba lefatše.
 Oho Molimo! Theha Khotso E Kholo-Kholo. Rokahanya lipelo ‘moho, Oho Molimo!
 Oho Uena Ntate Ea Mosa, Molimo! Nyakalatsa lipelo ka monko o monate oa lerato la Hau; elisa mahlo ka leseli la tataiso ea Hau; thabisa litsebe tsa rona ka meloli ea lentsoe La Hau ‘me U re sireletse lehaheng la poloko ea Hau.
 U Ea Matla le Senatla, U Ea Tšoarelang hap eke Uena Ea Iphapanyetsang mefokolo ea batho.
-
--- Abdu'l-Bahá

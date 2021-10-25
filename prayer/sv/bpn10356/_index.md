@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10356 in Svenska'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Må var och en som beger sig ut på en undervisningsresa till någon plats, läsa denna bön dag och natt under sina resor i främmande trakter:
@@ -7,5 +8,3 @@ O Gud! O Gud! Du ser mig hängiven och dragen till Ditt härliga rike, tänd av 
 O Herre! Gör min rygg stark, gör det möjligt för mig att tjäna Dig av hela min förmåga och lämna mig ej åt mig själv, ensam och hjälplös i dessa områden.
 O Herre! Låt mig få samtala med Dig i  min ensamhet och var min ledsagare i dessa främmande trakter.
 Sannerligen, Du är Den som skänker bekräftelse åt vemhelst Du vill för det Du önskar, och sannerligen, Du är den Allstarke, den Allsmäktige.
-
--- Abdu'l-Bahá

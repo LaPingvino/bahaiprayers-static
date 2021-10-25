@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6663 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Unto Thee be praise, O Lord my God! I entreat Thee, by Thy signs that have encompassed the entire creation, and by the light of Thy countenance that hath illuminated all that are in heaven and on earth, and by Thy mercy that hath surpassed all created things, and by Thy grace that hath suffused the whole universe, to rend asunder the veils that shut me out from Thee, that I may hasten unto the Fountainhead of Thy mighty inspiration, and to the Dayspring of Thy Revelation and bountiful favors, and may be immersed beneath the ocean of Thy nearness and pleasure.
@@ -12,5 +13,3 @@ Thou art the Great Giver, the Ever-Forgiving, the Most Compassionate.
 
 
 *Prayers and Meditations, II
-
--- Bahá'u'lláh

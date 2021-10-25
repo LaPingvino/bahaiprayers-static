@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2305 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Kitáb-i-‘Ahd
@@ -28,5 +29,3 @@ Tot ce poate conduce la renaşterea lumii şi salvarea popoarelor şi neamurilor
 O, voi cei pe care Domnul îi iubeşte şi sunt Depozitarii lui Dumnezeu! Regii sunt manifestări ale puterii şi izvoarele forţei şi bogăţiilor divine. Dumnezeu le-a încredinţat conducerea pământului, în timp ce pentru Sine, ca tărâm al Său, a păstrat inimile omeneşti.
 
 Neînţelegerile şi vrăjmăşia sunt cu desăvârşire interzise de Cartea Sa. Aceasta este o hotărâre a lui Dumnezeu din Preamărita Sa Revelaţie. Divină fiind, ea nu poate fi anulată ci, dimpotrivă, este binecuvântată de către El cu splendoarea confirmării Sale. Cu adevărat, El este Cel Atotştiutor şi Atotînţelept.
-
--- Bahá'u'lláh

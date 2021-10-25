@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7341 in Polski'
+author = 'Báb'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 W Imię Boga, Pana przemożnego majestatu, Nieodpartego!
@@ -9,5 +10,3 @@ Uświęcony niechaj będzie Pan, z którego rąk bierze początek panowanie. On 
 Powiedz: Bóg mi wystarcza; On jest Tym, który w swych rękach dzierży królestwo wszelkiego stworzenia. On ochrania, kogo zechce spośród sług swoich potęgą swych zastępów w niebie i na ziemi i we wszystkich miejscach pomiędzy nimi. Bóg, zaprawdę, sprawuje pieczę nad wszelkim stworzeniem.
    
 Niezmiernie wywyższony jesteś, o Panie! Ochraniaj nas przed wszystkim, co jest przed nami i za nami, ponad nami oraz z naszej prawej i lewej strony, pod naszymi stopami i z każdej innej strony, z której jesteśmy narażeni. Zaprawdę, Twoja ochrona wszelkiego stworzenia jest niezawodna.
-
--- Báb

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7570 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Hän on Jumala, ylistetty olkoon Hän, laupeuden ja anteliaisuuden Herra!
@@ -13,5 +14,3 @@ Oi Herrani, köyhä on totisesti rientänyt rikkautesi valtakuntaan, muukalainen
 Oi Jumalani, talletuksesi on luovutettu Sinulle takaisin. Sinun armoosi ja anteliaisuuteesi, jotka ovat käsittäneet maan ja taivaan valtakuntasi, kuuluu suoda  tälle hiljan vastaanotetulle lahjojasi ja antejasi ja armosi puun hedelmiä. Voimallinen olet Sinä tekemään niin, kuin tahdot. Ei ole muuta Jumalaa kuin Sinä, Armollinen, Anteliain, Sääliväinen, Lahjoittaja, Armahtaja, Kallisarvoinen, Kaikkitietävä.
 Todistan, oi Herrani, että olet velvoittanut ihmiset kunnioittamaan vieraitansa, ja se, joka on kohonnut luoksesi, on totisesti saavuttanut Sinut ja päässyt läheisyyteesi. Menettele hänen kanssaan armosi ja anteliaisuutesi mukaisesti. Kirkkautesi nimeen, tiedän varmasti, että et itse kieltäydy siitä, minkä olet määrännyt palvelijoillesi, etkä jätä osatta sitä, joka on tarttunut anteliaisuutesi nuoraan ja kohonnut rikkautesi päivänkoittoon.
 Ei ole muuta Jumalaa kuin Sinä, Yksi, Ainoa, Voimallinen, Kaiken tietävä, Antelias.
-
--- Bahá'u'lláh

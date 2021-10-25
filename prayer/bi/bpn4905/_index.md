@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4905 in Vanuatu'
+author = 'Bahá'u'lláh'
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 *Tisfala prea i gat spesal paoa sipos yu ridim long taem we yu stap long trabol or yu karem sori no gud long hart blong yu. 
@@ -21,5 +22,3 @@ Yu mas save sua long hart blong yu se man we i tanem fes blong hem long tisfala 
 Stadi gud long tisfala toktok, O Ahmad! Ridimaot toktok ia oltaem long laef blong yu, mo yu no ronwei long hem. From i tru tumas se God i givim wan presen long evri man we hem i talemaot tisfala toktok. Presen ia i sem mak long presen we wan handred man we oli givim laef blong ol long Fet oli kasem. Mo God bambae i givim janis long man ia blong wok insaed long tisfala wol mo long nekis wol tu. Olgeta samting ia Mifala i bin givim long yu olsem wan presen mo wan saen blong lav blong Mifala, blong mekem se yu yu glad.
 Long nem blong God! Sipos wan man i filim no gud long hart blong hem, or hem i kasem trabol, mo sipos hem i ridimaot tisfala toktok wetem wan klin hart, bambae God i save karemaot ol sori blong hem, stretem ol problem blong hem, mo tekemaot ol trabol blong hem.
 I tru tumas se Hem nao Hem i gat bigfala lav, mo Hem i gat bigfala sori. Yumi mas preisem God, we Hem i Masta blong evri wol.
-
--- Bahá'u'lláh

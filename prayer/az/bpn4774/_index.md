@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4774 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey üzü Sənin həsrətini çəkənlərin sitayiş yeri, liqası Sənin iradənə büsbütün tabe olanların ümidi, yaxınlığı Sənin sarayına yaxın olanların arzusu, siması Sənin həqiqətini etiraf edənlərin munisi, adı Sənin üzünü görmək üçün yananların qəlblərini titrədən, nidası Sənin aşiqlərinin həqiqi həyatı, sözü yerdə və göydə olanlar üçün həyat suyu olan Kəs!
@@ -9,5 +10,3 @@ Səni and verirəm Sənin çəkdiyin zülmə və zalımların qoşunlarının S�
 İlahi, Sənin ətrafında olan kənizlərin və üzərlərinə Sənin gözəlliyinin işığının və Sənin üzünün şualarının davamlı düşdüyü kəslər üçün müəyyən etdiyin şeyləri məndən əsirgəmə. Sən O Kəssən ki, əzəldən Səni axtaranlara yardım etmisən və səndən istəyənlərə kəramətlə lütf etmisən.
 
 Səndən başqa Allah yoxdur, Qüdrətli, Dəyişməz, Kəramət Sahibi, Ən Səxavətli Allah.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3507 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Han er Gud, opphøyet er han, miskunnhetens og gavmildhetens Herre!
@@ -23,5 +24,3 @@ O min Gud, din betrodde skatt er bragt tilbake til deg. Det anstår seg din nåd
 Jeg bevitner, o min Herre, at du har pålagt menneskene å ære sin gjest, og den som har steget opp til deg har i sannhet nådd frem til deg og oppnådd ditt nærvær. Ta deg så av ham i samsvar med din nåde og gavmildhet! Ved din herlighet, jeg vet med sikkerhet at du ikke vil avholde deg fra det som du har pålagt dine tjenere, heller ikke vil du berøve den noe som har klynget seg til din gavmildhets bånd og steget opp til din rikdoms daglysning.
  
 Der er ingen annen Gud enn deg, den ene, den eneste, den sterke, den allvitende, den gavmilde.
-
--- Bahá'u'lláh

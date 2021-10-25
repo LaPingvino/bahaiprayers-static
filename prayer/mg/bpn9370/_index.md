@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9370 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Dera ho Anao, ry Andriamanitro ô, noho ny nandidianao ny Naw-Rúz ho androm-piravoravoana ho an’ireo izay nitandrina ny fifadian-kanina noho ny fitiavana Anao ary nifady izay rehetra tsy Tianao. Aoka, ry Tompoko ô, ny afon’ny Fitiavanao sy ny hafanana naterakin’ny fifadian-kanina izay nodidianao mba hampiredareda azy ao amin’ny Fototrao ary ahatonga azy hifantoka amin’ny Fiderana Anao sy ny fahatsiarovana Anao.
@@ -8,5 +9,3 @@ Ianao, Ilay izay avy Aminy no nanandratana ny fanevan’ny “Mendri-piderana Ia
 Ampahafantaro ny mpanomponao rehetra ity Laharana izay Anao ity, ry Andriamanitro ô, mba ahazoany mahafantatra fa ny fahatsaran’ny zava-drehetra dia miankina amin’ny Fandaharanao sy ny Teninao, ary ny fahatsaran’ny asa rehetra dia miankina amin’ny Fahafinaretanao sy ny Sitraponao; ary mba hanekeny fa ny fanjakan’ny asan’ olombelona dia eo an-tanan’ny Fanekenao sy ny Didinao. Ampahafantaro azy fa tsy misy na inona na inona eto an-tany afaka hanakana azy amin’ny Hatsaranao, amin’izao andro izao, izay nilazan’i Kristy hoe: “Anao ny fanapahana rehetra, o Ianao izay Rain’ny Fanahy”, ary izay niantsoan’ny Sakaizanao (Muhammad) hoe: “Voninahitra ho Anao, o Ianao Ilay Tiana Fatratra, satria ianao no naneho ny Hatsaranao ary nanoratra ho an’izay nofidinao izay ahatonga azy ireo hanatratra ny sezan’ny fanambarana ny Anaranao Lehibe Indrindra, Anarana izay nampitaraina ny vahoaka afatsy ireo izay tsy niraikitra tamin’ny zavatra hafa afa-tsy Taminao sy nametraka ny tenany Aminy izay Mpanambara ny Tenany sy Fanehoana ny Hatsaranao”.
 Ireo Sampanao sy ireo mpiara-dia Aminao, ry Tompoko ô, dia nitsahatra nifady androany, rehefa avy nitandrina izany tao amin’ny manodidina ny Kianjanao,  ary tamin’ny fahamaizany hahafaly Anao. Didio ho azy, sy ho azy ireo, ary koa ho an’ireo rehetra niditra teo amin’ny Fanatrehanao amin’izao andro izao, ny soa rehetra izay nalahatra tao amin’ny Bokinao. Omeo azy ireo, noho izany, izay rehetra mahasoa amin’ity fiainana ity sy any ankoatra.
 Marina tokoa fa Ianao Ilay Mahalala ny zavatra rehetra, Ilay tena Hendry.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7997 in Malti'
+author = 'Bahá'u'lláh'
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 ##IT-TAVLA TA’ AḤMAD 
@@ -39,5 +40,3 @@ Itgħallem sewwa din it-Tavla, O Aḥmad. Għanniha matul il-jiem tiegħek u ż�
 F’ġieh Alla! Jekk wieħed li jinsab f’xi saram jew niket jaqra din it-Tavla bl-akbar sinċeritá, Alla jkeċċilu id-diqa tiegħu, iħoll il-għawġ tiegħu u jneħħilu n-niket tiegħu.
 
 Fis-sew, Hu il-Hanin, li Jagħder. Tifħir lil Alla, is-Sid tad-dinjiet kollha.
-
--- Bahá'u'lláh

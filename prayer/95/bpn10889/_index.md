@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10889 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 A Ia ko te Atua, e maluga a Ia, ko te Aliki o te alofa-atafai mo te maukoloa!
@@ -13,5 +14,3 @@ A Ia ko te Atua, e maluga a Ia, ko te Aliki o te alofa-atafai mo te maukoloa!
      O toku Atua, a Tau Tina Mea-To-Tino ko oti ne fakafoki atu kia Koe.  E ttau ko Tou alofa mo Tou kaimalie te la e siomia i ei Ou maalo i te lalolagi mo te lagi, ke tuku atu kia ia ne toe oko mai Au mea-alofa mo Au faka-manuiaaga, pe la foki mo fuataga o te lakau o Tou alofa-kaimalie!  E maalosi a Koe o fai ate mea e loto Koe ki ei, e seai aka foki se Atua na ko Koe, ko te Alofa, ko te Tafasili ite Kaimaalie, ko te Atafai, ko te Iloa-Katoatoa.
      Au e molimau, O toku Aliki, me ia Koe ko oti ne fakatonu mai ki tagata ke fakaaloalo a te olotou tino kami, mo ia tela ko oti ne fanaka ki luga ia Koe e tonu ko oti ne oko atu kia Koe kae ko oti foki ne maua ne ia a Tou Nofo-mai.  Fai a te mea e ttau ki iei pe la loa mo Tou alofa mo te kaimalie!  I tou matagofie, e iloa faka-patonu ne au me ka se taofi ne Koe a Koe a te mea te la ko oti ne fakatonu ki Au tavini, io me fakaseai a ia tela ko oti ne piki mmau ki te kafanoa o Tou alofa kae fanatu ki luga ki te Aso Malulu o Tou maumea. 
       E seai aka foki se Atua na ko Koe, ko te Tasi, ko te Tokotasi, ko te Maalosi, ko te OIa i Mea-Katoa, ko te Alofa-Lauefa.
-
--- Bahá'u'lláh

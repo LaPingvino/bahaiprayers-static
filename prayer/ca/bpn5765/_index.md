@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5765 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##TAULA D’AHMAD
@@ -24,5 +25,3 @@ Aprèn bé aquesta Taula, oh Ahmad. Recita-la durant els teus dies i no et separ
 Aquests favors te’ls hem conferit amb una generositat de part nostra i una misericòrdia de nostra presència, per tal que siguis dels agraïts.
 Per Déu! Si algú que estigui afligit o amb pena llegeix aquesta Taula amb absoluta sinceritat, Déu dissiparà la seva tristesa, resoldrà les seves dificultats i allunyarà les seves afliccions.
 Vertaderament Ell és el Misericordiós, el Compassiu. Lloat sia Déu, senyor de tots els mons.
-
--- Bahá'u'lláh

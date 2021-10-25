@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9393 in Malagasy'
+author = 'Abdu'l-Bahá'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ô Ianao, ry Tompon’ny Hatsaram-panahy! Zavatra iray ihany no manoronanao ny zanak’olombelona rehetra. Ianao no namoaka didy fa ny rehetra dia avy amin’ny fianakaviana iray. Eo anoloan’ny Fanatrehanao Masina dia mpanomponao izy rehetra ary mialoka eo ambanin’ny taberinakelinao ny zanak’olombelona rehetra; mivondrona manodidiana ny latabatry ny Famindramponao izy rehetra; ary samy hazavain’ny fahazavan’ny Fitahianao izy rehetra.
@@ -9,5 +10,3 @@ Ry Andriamanitro ô! Aoka hiofaofa ambonin’izao rehetra izao ny fanevan’ny f
 Ry Andriamanitro ô! Aoreno ny Fandriampahalemana Lehibe Indrindra. Ampiraiso ho iray ny fon’ny olon-rehetra, ry Andriamanitro ô! 
 Ô Ianao Ray Tsara fanahy! Andriamanitra! Ampiravoravoy ny fonay amin’ny hanitry ny Fitiavanao, ampamirapirato ny masonay noho ny fahazavan’ny Fitarihanao. Aoka ho finaritra ny sofinay amin’ny hakanton’ny Teninao ary alofy izahay ao anaty fialofan’ny Fitahianao.
 Ianao Ilay Matanjaka, Ilay Mahery. Ianao Ilay Mpamela heloka ary Ianao Ilay Mamindra fo amin’ny fahalemen’ny zanak’olombelona rehetra.
-
--- Abdu'l-Bahá

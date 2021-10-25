@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2213 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 ... Mărturisirea păcatelor şi greşelilor înaintea fiinţelor omeneşti nu e îngăduită... Păcătosul trebuie, singur în faţa lui Dumnezeu, să implore milostivire de la oceanul miliostivirii, să implore iertare de la Raiul generozităţii şi să spună:
@@ -16,5 +17,3 @@ Vai mie! Păcatele m-au împiedicat să mă apropii de curtea sfinţeniei Tale, 
 Te rog în numele Celui care este Domnul Suprem al Numelor să orânduieşti cu Pana dărniciei Tale ceea ce mă va face să mă apropii de Tine şi mă va curăţi de greşelile ce s-au interpus între mine şi iertarea şi îndurarea Ta.
 
 Cu adevărat Tu eşti Cel Puternic şi Darnic. Nu există alt Dumnezeu în afară de Tine, Cel Plin de Tărie, Cel Binevoitor.
-
--- Bahá'u'lláh

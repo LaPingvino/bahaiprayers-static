@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7484 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *"Päivittäisiä velvollisuusrukouksia on määrältään kolme. ... Uskova on täysin vapaa valitsemaan minkä tahansa näistä kolmesta rukouksesta, mutta hän on velvollinen lausumaan yhden niistä ja niiden erityisohjeiden mukaisesti, jotka siihen liittyvät.  Velvollisuusrukousten yhteydessä mainitut "aamu", "keskipäivä" ja "ilta" tarkoittavat vastaavasti aikoja auringonnoususta keskipäivään, keskipäivästä auringonlaskuun ja auringonlaskusta kaksi tuntia eteenpäin. Kitáb-i-Aqdas, Yleiskatsaus ja koonnos
@@ -65,5 +66,3 @@ Ylistys olkoon Sinun, oi Jumalamme, että olet meille alas lähettänyt sen, mik
 *Kohottakoon hän sitten päänsä, istuutukoon ja sanokoon:
 
 Todistan siitä, oi Jumalani, mistä valittusi ovat todistaneet, ja tunnustan sen, minkä kaikkein korkeimman paratiisin asukkaat ja mahtavan valtaistuimesi ympärillä kiertäneet ovat tunnustaneet. Maan ja taivaan valtakunnat ovat Sinun, oi maailmain Herra!
-
--- Bahá'u'lláh

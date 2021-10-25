@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1763 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Í nafni Guðs, hins aldna, hins æðsta.
@@ -53,5 +54,3 @@ Kveinar þú, eða á Ég að kveina? Fremur skyldi Ég gráta fæð kappa þinn
 Vissulega hef ég heyrt kall Þitt, ó aldýrlegi ást­vinur, og nú brennur ásjóna Bahá af hita þján­inganna og eldi skínandi orðs Þíns og hann hefur risið upp í trúfesti á fórnarstaðnum og leitar vel­þóknunar Þinnar, ó yfirbjóðandi veraldanna.
 Ó Alí-Akbar, þakka Þú Drottni Þínum fyrir þessa töflu, sem ber þér ilm auðmýktar Minnar, og vit hvað fallið hefur Oss í skaut á vegi Guðs, hins dásamaða allra veraldanna.
 Ef allir þjónarnir lesa og hugleiða þetta, verður glæddur eldur í æðum þeirra, sem tendra mun bál í veröldunum.
-
--- Bahá'u'lláh

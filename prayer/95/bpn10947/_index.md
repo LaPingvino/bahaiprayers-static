@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10947 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O God my God! I beg of Thee...
@@ -8,5 +9,3 @@ O te Atua toku Atua!  Au e akai kia Koe i te vasa o Tau fakaleiiga o masaki, mo 
      E maalosi a Koe o fai ate mea e fiafia Koe ki ei.  E seai aka foki se Artua na ko Koe, ko te Fagamagalo-Katoatoa, ko te Tafasili-i-te-Kaimalie.
 Bahá’u’lláhTou igoa ko te fakagataaga o toku masaki, O toku Atua 
 Tou igoa ko te fakagataaga o toku masaki, O toku Atua, a ko te masausauaga o Koe ko te vailakau fakagata o toku masaki.  Te pili kia Koe ko toku fakamoemoeega, a ko te alofa mo Koe ko toku taugasoa.  Tou alofa kaimalie kia au ko te fakagataaga o toku masaki mo toku fesoasoani i te lalolagi nei mo te sua lalolagi. A Koe, e tonu, ko te Maumea-Lauefa Katoatoa, te Iloa-Katoatoa, te Atamai-Katoatoa.
-
--- Bahá'u'lláh

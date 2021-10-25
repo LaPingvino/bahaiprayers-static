@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12478 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-103', 'bpn-unsorted']
 +++
 *TO BE RECITED ONCE IN TWENTY-FOUR HOURS
@@ -140,5 +141,3 @@ Le Atua e, lo’u Atua, ua no’u lo’u tua i le avega o a’u agasala, ma o lo
  
 
  Lo’u Atua e, ou te molimau atu i le mea na molimau mai ai Ou Tagata filifilia, ma fa’ailoa atu le mea sa fa’ailoaina mai e tagata o le Parataiso silisili uma, ma i latou o ē o lo’o fa’ata’amilo fa’ata’ali’o i Lou Nofoali’i mata’utia. Le Ali’i e, o lalolagi uma, e Ōu malō o le lagi ma le lalolagi!
-
--- Bahá'u'lláh

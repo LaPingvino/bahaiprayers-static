@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6159 in Euskara'
+author = 'Bahá'u'lláh'
 tags = ['lang-eu', 'bpn-unsorted']
 +++
 *(Egunean behin esan behar da eguerditik iluntzen duen artean)
@@ -9,5 +10,3 @@ Nire ezintasuna eta Zure ahaltasuna
 Nire txirotasona eta zure aberastasuna
 aitortzen ditut une honetan.
 Zeure izatez irauten duzuna, arriskuan laguntzailea, ez dago Zu ez beste Jainkorik.
-
--- Bahá'u'lláh

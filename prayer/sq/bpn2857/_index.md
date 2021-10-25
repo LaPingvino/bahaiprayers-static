@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2857 in Shqip'
+author = 'Bahá'u'lláh'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 *Kjo Tabelë lexohet në Mauzoletë e Bahá'u'lláh-ut dhe të Báb-it. Ajo, gjithashtu, përdoret shpesh në përkujtimin e përvjetorëve të Tyre.
@@ -18,5 +19,3 @@ Kujtimi i Perëndisë e lavdërimi i Tij, dhe Lavdia e Perëndisë e shkëlqimi 
 Shpirti im u bëftë fli për të këqijat që ke vuajtur Ti, dhe shpirti im qoftë haraç për fatkeqësitë që Ti ke pësuar. I përgjërohem Perëndisë, për Ty dhe për ata, fytyrat e të cilëve janë ndriçuar nga shkëlqimet e dritës së fytyrës Sate dhe që, për hir të dashurisë për Ty, kanë zbatuar gjithçka që u ishte urdhëruar, t'i largojë perdet që janë vendosur midis Teje e krijesave të Tua, dhe të më japë mirësitë e kësaj bote e të botës që do të vijë. Ti je, me të vërtetë, Fuqiploti, Më i Lavdëruari, Lavdiploti, Gjithmonëfalësi, Më i dhembshuri.
 
 Bekoje, O Zot Perëndia im, Pemën Hyjnore të Lotosit dhe gjethet e saj dhe degëzat e saj, dhe degët e saj, dhe trungun e saj, dhe filizat e saj, për aq kohë sa do të jetojnë titujt e Tu më të shkëlqyer dhe do të jenë atributet e Tua më madhështore. Mbroje, pra, atë nga ligësitë e agresorit dhe nga hordhitë e tiranisë. Ti je, me të vërtetë, Fuqiploti, Më i Pushtetshmi. Bekoji, gjithashtu, O Zot Perëndia im, shërbëtorët dhe shërbëtoret e Tua, që kanë arritur tek Ti. Ti je, me të vërtetë, Bujariploti, hiri i të Cilit është i pafund. Nuk ka Perëndi tjetër veç Teje, Gjithmonëfalësit, Më Bujarit.
-
--- Bahá'u'lláh

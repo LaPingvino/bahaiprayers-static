@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6218 in Luganda'
+author = 'Bahá'u'lláh'
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 ##ESSALA EMPAVU ETTEEKWA OKUSOMEBWA
@@ -68,5 +69,3 @@ Ettendo libe Gyoli Ayi Mukama waffe.  Nga Ggwe eyatuweereza ekyo ekitusobozesa o
 *Olwo ayimuse omutwe gwe, atuule wansi, ayatule nti:
 
 Mpa obujulirizi, Ayi Katonda wange, kwekyo abalonde Bo kyebajulira, era nzikiriza ekyo abantu bomu lusuku lwa Katonda oli waggulu ennyo, era nabo abetoolodde Nnamulondo y'oBuyinza Bwo bye byebakkiriza.   Obwakabaka bw'ensi neggulu buBwo, Ayi Ggwe Mukama owensi zonna!
-
--- Bahá'u'lláh

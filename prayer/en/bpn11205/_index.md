@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11205 in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 ##Revealed to the Bahá’ís of Canada and Greenland
@@ -13,5 +14,3 @@ O God, my God!  Thou beholdest this weak one begging for celestial strength, thi
 O Lord!  I have no helper save Thee, no shelter besides Thee, and no sustainer except Thee.  Assist me with Thine angels to diffuse Thy holy fragrances and to spread abroad Thy teachings amongst the choicest of Thy people.
 O my Lord!  Suffer me to be detached from aught else save Thee, to hold fast to the hem of Thy bounty, to be wholly devoted to Thy Faith, to remain fast and firm in Thy love and to observe what Thou hast prescribed in Thy Book.
 Verily, Thou art the Powerful, the Mighty, the Omnipotent.
-
--- Abdu'l-Bahá

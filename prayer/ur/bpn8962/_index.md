@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8962 in اُردُو'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ur', 'bpn-unsorted']
 +++
 اے خدا ! مجھے ہدایت دے
@@ -10,5 +11,3 @@ tags = ['lang-ur', 'bpn-unsorted']
 تو ہی قدرت
 و قوّت والاہے۔۔۔۔
 حضرت عبدالبہآء
-
--- Abdu'l-Bahá

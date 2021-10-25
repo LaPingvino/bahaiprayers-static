@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4894 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 *"Bu gündəlik namazlara, şəfa Duası, Əhməd Lövhü kimi digər bir neçə xüsusi dualarla yanaşı, Həzrət Bəhaullah tərəfindən fövqəladə güc və əhəmiyyət əta edilmişdir və ona görə də onları belə qəbul etmək lazımdır. Möminlər onları şübhəsiz iman və inamla oxumalıdırlar ki, onların vasitəsilə Allahla daha yaxın ünsiyyətə girə bilsinlər və özlərini Onun qanun və hökmləri ilə daha tam uyğunlaşdırsınlar.
@@ -37,5 +38,3 @@ Yaxşı öyrən bu lövhü, ey Əhməd. Öz günlərində onu avazla oxu və öz
 Allaha and olsun! Çətinliyə və ya qəm-qüssəyə düşən bir kimsə bu Lövhü sidq ürəklə oxusa, Allah onun kədərini dağıdar, çətinliyini qaldırar və dərdini yox edər.
 
 Həqiqətən, O Rəhmlidir, Şəfqətlidir. Alqış olsun Allaha, aləmlərin Rəbbinə.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4889 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Odur Allah! Ya Rəbb mənim Allahım! Sən Ey Sənə üz tutan zəiflərin Köməyi, fəqirlərin Yardımçısı, çarəsizlərin Nicatı!
@@ -15,5 +16,3 @@ Ya Rəbb! Onların qulaqlarını ilahi yardım və yaxın qələbə səsləri il
 Ya Rəbb! Onları yeni ruhla qüvvətləndir; gecənin qaranlığında Sənin ecazkar dəlillərini görmək üçün onların gözlərini işıqlandır; Sənin əbədiyyət sirləri Səltənətindəki bol xeyirləri onlara qismət eylə; onları bütün diyarlarda parlaq ulduzlar və meyvəli, qollu-budaqlı, səhər yelləri ilə titrəşən büsatlı ağaclar eylə.
 
 Həqiqətən, Sən Kəramətlisən, Qüdrətlisən, hər şeyə Qadirsən, İxtiyar Sahibisən. Səndən başqa Allah yoxdur, məhəbbət və inayət Allahı, Ən Cəlallı, Həmişə Bağışlayan Allah.
-
--- Abdu'l-Bahá

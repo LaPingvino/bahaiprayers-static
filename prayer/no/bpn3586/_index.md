@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3586 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Denne tavlen leses ved Bahá'u'lláhs og Bábs gravmæler. Den brukes også ofte på deres årlige minnedager.
@@ -17,5 +18,3 @@ Måtte Guds ihukommelse og hans lovprisning, og Guds herlighet og hans glans, hv
 Måtte min ånd bli et offer for den urett du led og min sjel bli en løsepenge for de lidelser du gjennomgikk. Jeg bønnfaller Gud, ved deg og ved dem hvis ansikter er blitt forklaret av glansen fra ditt åsyns lys, og som av kjærlighet til deg har overholdt alt som ble dem pålagt, om å fjerne de slør som er kommet mellom deg og dine skapninger, og om å skjenke meg det som er godt i denne verden og den kommende verden. Du er i sannhet den allmektige, den mest opphøyede, den overmåte herlige, den evig tilgivende, den mest medlidende.
  
 Velsign du, o Herre min Gud, det Guddommelige Lotustre og dets blader og dets grener og dets kvister, og dets stammer og dets hovedgrener, så lenge som dine ypperste titler vil eksistere og dine uendelig opphøyede egenskaper vil bestå. Beskytt det så mot angriperens ondskap og tyranniets skarer. Du er i sannhet den allmektige, den sterkeste. Velsign du også, o Herre min Gud, dine tjenere og dine tjenerinner som har nådd frem til deg. Du er sannelig den overmåte gavmilde, hvis nåde er uten ende. Ingen Gud er der uten deg, den evig tilgivende, den mest gavmilde.
-
--- Bahá'u'lláh

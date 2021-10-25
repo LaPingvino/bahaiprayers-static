@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7466 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Bogiem!
@@ -17,5 +18,3 @@ O Panie! Napełnij ich uszy wersetami o Boskiej pomocy i rychłym zwycięstwie o
 O Panie! Wzmocnij ich łaskawie nowym duchem; oświeć ich oczy, aby mogli dostrzec Twoje wspaniałe oznaki pośród tej ponurej nocy, przeznacz dla nich wszelkie dobro, w które obfituje Twoje Królestwo wiecznych tajemnic; spraw, aby stali się jak lśniące gwiazdy oświecające wszelkie rejony, jak bujne drzewa uginające się od owoców i gałęzi kołyszących się na porannym wietrze. 
     
 Zaprawdę, Tyś jest Hojnym, Potężnym, Wszechmogącym, Nieograniczonym. Nie ma innego Boga poza Tobą, Bogiem miłości i czułego miłosierdzia, Najchwalebniejszym, Zawsze Przebaczającym.
-
--- Abdu'l-Bahá

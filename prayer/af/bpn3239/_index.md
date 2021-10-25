@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3239 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 *Die Aqdas verklaar: ,Ons het julle gebied om te bid en te vas vanaf die begin van rypheid [15 jaar]; dit is deur God verorden, julle Here en die Here van julle voorvaders. . . .Die reisiger, die sieke, diegene wat swanger is of wat soog, word nie deur die vas verplig nie. . . .Bly weg van voedsel en drink niks nie, van sonop tot sonsondergang, en wees op julle hoede dat begeerlikheid julle nie beroof van hierdie genade wat in die Boek bepaal is nie.'
@@ -35,5 +36,3 @@ Ek smeek U, o my God, by die lig van U gelaat wat diegene wat na aan U is aanges
 Ek smeek U, o my God, by U Naam waardeur U na die roepstem van U bemindes geluister het, en die sugte van diegene wat na U verlang, en die geroep van diegene wat nabye toegang tot U geniet, en die gekreun van hulle wat aan U toegewy is, en waardeur U die begeertes van hulle vervul het wat hul verwagtinge op U gesit het, en hulle verlange toegestaan het, deur U genade en gunste, en by U Naam waardeur die oseaan van vergifnis voor U aangesig gegolf het, en die wolke van U milddadigheid op U dienaars afgereent het, om vir elkeen wat na U gekeer het, en die vas deur U voorgeskryf onderhou het, dié vergoeding neer te skryf wat vir diegene beskik is wat nie praat behalwe met U toestemming nie, en wat alles wat hulle besit het in U weg en uit liefde vir U verlaat het.
 
 Ek smeek U, o my Here, by Uself, en by U tekens, en by U helder kentekens, en by die skynende Lig van die Dagster van U Prag, en U Takke, om die oortredings uit te wis van diegene wat aan U wette vasgehou het, en onderhou het wat U vir hulle in U Boek voorgeskryf het. U sien my, o my God, hou vas aan U Naam, die Mees Heilige, die Mees Liggewende, die Mees Magtige, die Mees Grote, die Mees Verhewe, die Mees Roemryke, en kleef vas aan die soom van die mantel waaraan almal in die wêreld en in die wêreld wat kom vasgekleef het.
-
--- Bahá'u'lláh

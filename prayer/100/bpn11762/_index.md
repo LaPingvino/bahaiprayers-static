@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11762 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-100', 'bpn-unsorted']
 +++
 ##Rānar haifuwar Baha’u’llah (aminci ya tabbata a garēshi)
@@ -8,5 +9,3 @@ Cikin wannan watā nē, aka haifi wanda yake ɗauke da sūnā mafi girma, wanda 
 A cikin wannan watan nē, ita kanta aljanna ta sāmu ado da ƙyalƙyalin fuskar Ubangijinta, mai rahama, sūdar samāniya ta rēra wākarta bisa itāciyar Ubangiji, kuma zukācen gātāye suka ji dāɗi. Sai dai inā, yawancin mutāne ba su kula ba. Murna ta tabbata ga wanda ya yarda da Shi, kuma ya gāne da alkawalin dake cikin kitābin Ubangiji, mai īko, wanda shīnē abun yabo, kuma rūɗāni ya tabbata ga wanda ya jūwa bāya ga wanda majalasar samāniya ta kafa kallonta a garēshi, wanda ya ƙaryatar da kāfirai ɓatattu.
 Idan ka sāmu wannan allō, ka wāƙe shi da iyākar zāƙin murya, kuma ka cē : Yā Ubangijīna mai rahama, yabo ya tabbata a garēka, da ka tuna da ni cikin wannan allō wanda ta garēshi ƙamshin rīgar saninka ya fitō, kuma ka malālō tēkunan alfarmarka. Nā shaida da cēwa, kana da īkon yin abun da ka ga dāma. Bābu wani Allah illā kai, mai īko, masanin kōmi da kōwa, mai hikima.
 (Ma’idiy-i-Asmani kundi na 4 shāfi 342)
-
--- Bahá'u'lláh

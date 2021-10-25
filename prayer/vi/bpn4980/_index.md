@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4980 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, con xin dâng lời cảm tạ vì Ngài đã thức tỉnh con và đem con về với lương tri. Sáng nay con thức dậy, mặt hướng về ánh huy hoàng Vầng Thái dương Mặc khải của Ngài đang chiếu sáng các bầu trời uy lực và uy lịnh của Ngài, nhận biết các dấu hiệu của Ngài, tin tưởng Thánh kinh của Ngài và gắn bó chặt chẽ với Dây yêu thương của Ngài.
@@ -10,5 +11,3 @@ Ngài là Đấng dùng thiên mệnh biến cải sự tủi nhục thành vinh
 Không có Thượng Đế nào khác ngoài Ngài. Đấng Toàn năng, Đấng Ban ân phúc.
 Ngài không bao giờ làm thất vọng những kẻ tìm kiếm Ngài và không bao giờ bỏ rơi kẻ khao khát Ngài. Xin Ngài ban cho con bất cứ điều gì thích hợp với lượng khoan dung cao cả của Ngài và với đại dương từ ái của Ngài. Quả thực, Ngài là Đấng Toàn lực, Đấng Toàn năng.
 Đức Baha’u’llah
-
--- Bahá'u'lláh

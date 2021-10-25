@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9688 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Hij is God, verheven is Hij, de Heer van goedertierenheid en milddadigheid!
@@ -13,5 +14,3 @@ O mijn Heer, de arme heeft zich waarlijk naar het Koninkrijk van Uw rijkdom geha
 O mijn God, Uw pand is tot U weergekeerd. Het past Uw genade en Uw milddadigheid die Uw rijken in de hemel en op aarde omvatten, de pas door U verwelkomde Uw giften en Uw gaven en de vruchten van de boom van Uw genade te schenken! Machtig zijt Gij te doen naar Uw Wil, er is geen ander God dan Gij, de Genadige, de Almilddadige, de Meedogende, de Schenker, de Verontschuldiger, de Dierbare, de Alwetende.
 Ik betuig, o mijn Heer, dat Gij de mensen hebt geboden hun gast te eren, en dat hij die naar U is opgestegen waarlijk tot U is gekomen en Uw tegenwoordigheid heeft bereikt. Bejegen hem dan naar Uw genade en milddadigheid! Bij Uw heerlijkheid, ik weet zeker dat Gijzelf niet achterwege zult laten hetgeen Gij Uw dienaren hebt bevolen, noch dat Gij hem die zich aan het koord van Uw goedheid heeft geklemd en naar de dageraad van Uw rijkdom is opgestegen iets zult onthouden.
 Er is geen ander God dan Gij, de Ene, de Enige, de Machtige, de Alwetende, de Milddadige.
-
--- Bahá'u'lláh

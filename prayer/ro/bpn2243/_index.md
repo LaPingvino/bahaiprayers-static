@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2243 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lăudat fie Numele Tău, o, Dumnezeul meu şi Dumnezeul tuturor lucrurilor, Slava mea şi Slava tuturor lucrurilor, Dorinţa mea şi Dorinţa tuturor lucrurilor, Puterea mea şi Puterea tuturor lucrurilor, Regele meu şi Regele tuturor lucrurilor, Stăpânul meu şi Stăpânul tuturor lucrurilor, Ţinta mea şi Ţinta tuturor lucrurilor, Forţa mea şi Forţa tuturor lucrurilor! Îngăduie-mi, Te implor, să nu fiu ţinut departe de oceanul milostivirilor Tale duioase şi să nu fiu îndepărtat de la ţărmurile apropierii de Tine.
@@ -9,5 +10,3 @@ Nimic în afară de Tine, o, Doamne, Dumnezeule, nu-mi este de nici un folos şi
 Iartă-i, apoi, o, Doamne, Dumnezeule, pe slujitorii şi slujitoarele Tale. Tu eşti, cu adevărat, Cel ce veşnic Iartă, Cel mai Milostiv dintre Milostivi.
 
 -
-
--- Bahá'u'lláh

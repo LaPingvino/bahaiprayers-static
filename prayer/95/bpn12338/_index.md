@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12338 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Tavaeega maluga e i Tou igoa, O te Aliki toku Atua!  A te pogisa koi i luga i fenua katoa, ako te maalosi o te amio masei ko siomia i fenua katoa.  Mai ia latou, e atafia ne au a mea gali o Tou atamai, kae matea a te maina o te molii o Tou atamai.  
@@ -10,5 +11,3 @@ Tou atamai ko la e tuku aliali i mua o oku, a puilega o Ou fili e maofaofa ki la
 Ko te matagofie e ia Koe, tena, O toku Atua!  Au e akai totuli kia Koe mai i Tou Igoa Tafasili i te Lasi ke luku fakatasi a latou ko la e alofa kia Koe fakapukupuku i te Tulafono te la e sofi mai i te fiafia llei o Tou finagalo, kae tuku ifo ki lalo ia latou a te mea te la a molimau tonu ki olotou loto.  
   
 E maalosi a Koe o fai ate mea e fiafia Koe ki ei.  A Koe, e tonu, ko te Feasoasoani I Mea Faigata, ko te Ola-fua-ia-Ia.
-
--- Bahá'u'lláh

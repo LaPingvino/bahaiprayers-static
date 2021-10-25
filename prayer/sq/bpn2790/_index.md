@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2790 in Shqip'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Ai është Perëndia
@@ -16,5 +17,3 @@ O Zot! Mbushi veshët e tyre me vargjet e ndihmës hyjnore e të një fitoreje t
 O Zot! Forcoji mirësisht ata me një frymë të re; ndriçoji sytë e tyre, duke i bërë të aftë të sodisin provat e Tua mahnitëse në errësirën e natës; cakto për ta çdo gjë të mirë që është me bollëk në Mbretërinë Tënde të mistereve të përjetshme; bëji ata të shkëlqyer si yjet që ndriçojnë mbi të gjitha vendet, pemë të begata plot fruta e degëza që lëvizin nga flladet mëngjesore.
 
 Në të vërtetë, Ti je Bujari, i Fuqishmi, Ai që ka në dorë gjithçka, i Padetyruari. Nuk ka Perëndi tjetër veç Teje, Perëndisë së dashurisë e të mëshirës së dhembshur, Lavdiplotit, Gjithmonëfalësit.
-
--- Abdu'l-Bahá

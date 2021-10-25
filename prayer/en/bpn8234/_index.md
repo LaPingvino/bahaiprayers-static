@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8234 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Ever-Living, the Ever-Abiding, the Self-Subsisting.
@@ -19,5 +20,3 @@ Praise be to Thee, O Lord, my God, my Master, my Possessor, my King. Now that I 
 By the glory of Thy might, O my God! Wert Thou to set me king over Thy realms, and to establish me upon the throne of Thy sovereignty, and to deliver, through Thy power, the reins of the entire creation into my hands, and wert Thou to cause me, though it be for less than a moment, to be occupied with these things and be oblivious of the wondrous memories associated with Thy most mighty, most perfect, and most exalted Name, my soul would still remain unsatisfied, and the pangs of my heart unstilled. Nay, I would, in that very state, recognize myself as the poorest of the poor, and the most wretched of wretches.
 Magnified be Thy name, O my God! Now that Thou hast caused me to apprehend this truth, I beseech Thee by Thy Name which no scroll can bear, which no heart can imagine and no tongue can utter—a Name which will remain concealed so long as Thine own Essence is hidden, and will be glorified so long as Thine own Being is extolled—to unfurl, ere the present year draw to a close, the ensigns of Thine undisputed ascendancy and triumph, that the whole creation may be enriched by Thy wealth, and may be exalted through the ennobling influence of Thy transcendent sovereignty, and that all may arise and promote Thy Cause.
 Thou art, verily, the Almighty, the All-Highest, the All-Glorious, the All-Subduing, the All-Possessing.
-
--- Bahá'u'lláh

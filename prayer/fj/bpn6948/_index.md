@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6948 in Fiji'
+author = 'Bahá'u'lláh'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 #NA MASU VAKAROTI KA VAKARAUTA GA NA KENA BALAVU
@@ -34,5 +35,3 @@ Ni kakua ni vakayalolailaitaki koya, I noqu Kalou, na liga malumalumu oqori, ka 
 Au sa kune i vakadinadina e na Nomuni duavata kei na Nomuni duabau, ka ni O ni sa Kalou, ka ni sega tale ni dua na Kalou e tiko veitikivi kei Kemuni. Ni O ni sa vakaraitaka vakaidina, na Nomuni i Naki ka vakavotukanataka na Nomuni Veiyalayalati, ka dolava vakarabailevu tale ga na Nomuni katuba ni loloma vei ira kece na tiko e lomalagi kei vuravura. Na veivakalougatataki kei na bula veilomani, na veikidavaki kei na lagilagi, me vakacegui ira era sa soli ira vakatabakidua tu, e na nodra vakanuinui ni ra na ciqoma na veika sa mai vei Kemuni. O i Kemuni, e dina sara, na Dauveivosoti e Veigauna kece ga na Vu ni Loloma solisoli wale.
 
 *(Ke vaka e dua e digitaka me cavuqaqataka me i sosomi ni masu balavu na kena oqo: ‘E vakadinadinataka na Kalou ni sega tale e dua na Kalou ia o Koya duadua ga, na Dauveivukei e na Gauna ni Leqa, na Bula Vakai Koya,’ e sa rauta vakavinaka oqori. E vaka kina, se daumaka cake sara ke vaka, me dabe tiko, ka digitaka me cavuqaqataka na veivosa oqo: ‘Au sa kune i vakadinadina e na Nomuni duavata kei na Nomuni duabau, ka ni O ni sa Kalou, ka ni sega tale ni dua na Kalou e tiko veitikivi kei Kemuni.’)
-
--- Bahá'u'lláh

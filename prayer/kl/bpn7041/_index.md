@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7041 in Kalaallisut'
+author = 'Abdu'l-Bahá'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Naalagaq-aa, Guutiga naalliunnermit nalaarneqaraangama qimarravigisartagara. Aliasukkuma Eqqornaveeqqutigalugulu Qimarravigisartagara! Eqqissarfiga ajorsaruma Qimarravigisagara kiserliorumalu Aappersuisora. Anniaateqaruma Tuppallersaasiga avinngarusimaninnilu asannitsigalugu Ikinngutigisagara. Aliasuutimma anniaataannik peersitsisartoq ajortuliannillu Isumakkeerisoq. 
@@ -12,5 +13,3 @@ Guuti-aa, Guutiga! Isumakkeerfiginninnerpit Saammaannerpillu anorai sallaatsut u
 Suluppit tamanut illersuisuusut ataanni eqqissilangatoq, Isivit naassaanngitsussamut isigisut piggattuarilinngatoq. 
 Innuttavit akornanni oqqannik Illit aqqit unnersiuitigilara katersaarsuit akornanni nipiga tusarneqarsinnaanngortillugu qanortorlu unnersiutiginninnera qaninnit eqqissinermik nassataqarluni aniagili.
 Ilumut tassaavutit Saammaassisoq, Iluartoq, Pissarsuaq Ajugaqanngitsoq.
-
--- Abdu'l-Bahá

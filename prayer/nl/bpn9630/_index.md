@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9630 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij, Wien te gedenken de zielsverrukking is van allen die naar U hunkeren, Wiens naam de jubelende vreugde is van allen die zich geheel aan Uw wil wijden, Wiens eer en lof wordt gekoesterd door hen die Uw hof nabij zijn, Wiens gelaat het vurige verlangen is van allen die Uw waarheid erkennen, Wiens beproeving de genezing is van hen die Uw Zaak omhelzen, Wiens bezoeking het hoogste verlangen is van hen die bevrijd zijn van alle gehechtheid aan eenieder buiten U!
@@ -7,5 +8,3 @@ Verheerlijkt, onmetelijk verheerlijkt zijt Gij, in Wiens hand de heerschappij li
 Hij die zijn machteloosheid erkent en zijn zonden belijdt is waarlijk met inzicht begiftigd, want mocht enig schepsel, wanneer hij voor de oneindige wonderen van Uw Openbaring staat, aanspraak maken op enig bestaan, dan was een dergelijke godslasterlijke aanmatiging gruwelijker dan enige andere misdaad in alle gebieden van de door U vormgegeven schepping. Wie is er, o mijn Heer, die, wanneer Gij de eerste schittering van de tekenen van Uw alles te boven gaande soevereiniteit en macht openbaart, de kracht heeft voor zichzelf enige vorm van bestaan op te eisen? Het bestaan zelf is als niets tegenover de machtige en menigvuldige wonderen van Uw onvergelijkelijk Wezen.
 Ver, onmetelijk ver zijt Gij verheven boven alle dingen, o Gij die de Koning der koningen zijt! Ik smeek U, bij Uzelf en bij Hen die de Manifestaties van Uw Zaak en het ochtendgloren van Uw gezag zijn, voor ons neer te schrijven hetgeen Gij voor Uw uitverkorenen hebt neergeschreven. Onthoud ons niet hetgeen Gij hebt beschikt voor Uw geliefden, die zich zodra Uw roep hen bereikte tot U hebben gehaast, en die zich toen de luister van het licht van Uw gelaat over hen werd uitgestort onmiddellijk in aanbidding hebben neergeworpen voor Uw aangezicht.
 Wij zijn Uw dienaren, o mijn Heer, in de greep van Uw macht. Indien Gij ons kastijdt met de kastijding toegebracht aan vroegere en latere geslachten, dan is Uw vonnis voorzeker rechtvaardig en Uw daad prijzenswaardig. Machtig zijt Gij te doen naar Uw behagen. Er is geen ander God dan Gij, de Almachtige, de Alglorierijke, de Helper in nood, de Bij-zich-bestaande.
-
--- Bahá'u'lláh

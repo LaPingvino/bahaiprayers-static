@@ -1,9 +1,8 @@
 +++
 title = 'Prayer bpn12132 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Dimuliakanlah nama-Mu, Ya Tuhan, Tuhanku! Engkau melihat bagaimana pandanganku telah diarahkan pada rahmat-Mu yang mesra, dan bagaimana mataku dipusatkan pada ufuk kurnia-Mu, dan kasih sayang-Mu, dan bagaimana tanganku dihulurkan ke syurga pemberian-Mu. Kekuatan-Mu menjadi saksiku! Setiap anggota badanku merayu kepada-Mu dan mengatakan: "Ya Engkau yang adalah Kekasih seluruh alam, dan Raja segala yang ada di syurga dan di bumi, dan satu-satunya Hasrat bagi kalbu-kalbu yang mencintai Engkau! Aku memohon kepada-Mu, demi Samudera-Mu di mana Engkau telah memanggil para penghuni syurga dan para penduduk di bumi, untuk membantu hamba-hamba-Mu yang telah dihalangi dari menghadap kepadanya dan mendekati pantainya. Oleh sebab itu, Ya Tuhanku, jadikanlah mereka tak terikat kepada segala sesuatu kecuali Engkau dan bolehkanlah mereka mengucapkan pujian kepada-Mu dan menjunjung tinggi sifat-sifat-Mu. Selain daripada itu, Ya Tuhanku, berilah mereka Wain terpilih daripada kurnia-Mu, agar dapat menyebabkan mereka melupakan sesiapa pun kecuali Engkau dan agar dapat bangkit mengabdi kepada Akidah-Mu dan tetap teguh dalam cinta mereka kepada-Mu. Sesungguhnya, Engkau Raja kehidupan mereka dan Tujuan pemujaan mereka. Jika mereka diusir oleh-Mu, siapakah yang akan memelihara mereka; dan jika mereka dijauhkan daripada-Mu, siapakah yang dapat menolong mereka untuk mendekati Kehadiran-Mu? Aku bersumpah demi kekuatan-Mu! Tiada tempat untuk berlindung kecuali Engkau, dan tiada naungan yang dicari kecuali naungan-Mu, dan tidak ada perlindungan kecuali perlindungan-Mu. Malang akan menimpa dia yang telah menjadikan sesiapa pun sebagai Tuhan selain Engkau dan diberkatilah mereka yang telah menjauhkan diri daripada segala ikatan kepada semua penduduk bumi-Mu dan melekat pada jubah kedermawanan-Mu. Inilah! umat Bahá, di hadapan semua yang ada di syurga dan semua yang ada di bumi. Tiada Tuhan kecuali Engkau, Yang Maha Tahu, Yang Maha Arif."
 
 Segala pujian bagi Tuhan, Raja sekalian alam.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2643 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *... a napi kötelező imákat, néhány további különleges imával egyetemben, mint a Gyógyító ima, a Tábla Ahmedhez, Bahá’u’lláh különleges erővel és jelentőséggel ruházta fel, és a hívőknek ezeket ekként kell elfogadniuk és megkérdőjelezhetetlen hittel és bizalommal kell mondaniuk, hogy ezek által sokkal közelebbi kapcsolatba lépjenek Istennel, és még teljesebben azonosítsák magukat az Ő törvényeivel és utasításaival. —egy Shogi Effendi nevében írt levélből
@@ -36,5 +37,3 @@ Tanuld meg ezt a Táblát jól, ó, Ahmed! Mondogasd ezt napjaidban és ne tart�
 Istenre! Ha valaki, aki bajban van vagy bánatos, teljes őszinteséggel olvassa ezt a Táblát, akkor Isten az ő szomorúságát eloszlatja, nehézségeit megoldja és fájdalmát eltávolítja tőle.
 
 Bizony, Ő az Irgalmas, a Könyörületes. Magasztaltassék Isten, minden világok Ura!
-
--- Bahá'u'lláh

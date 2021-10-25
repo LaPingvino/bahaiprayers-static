@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10983 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *(Te Tapeleti tenei e faitau i Tanu o Bahá’u’lláh mo te Báb.  E faitaugina saale foki i fakamanatuga o te katoaaga o tausaga takitasi o La galo.)
@@ -11,5 +12,3 @@ Ko vikiiga ne tafe mai i Tou Afio tafasili i te malu, mo te matagofie e sulu mai
      Ate faka-masausauga o te Atua mo Ona tavaeega, mo te matagofie o te Atua ko Tena gali, e nofo i luga ia Koe, O ko Koe Te la ko Tena Gali!  Au e molimau i te mata o te foafoaga e seki taumata aka loa ki se tokotasi ko oti ne fakase pe la mo Koe.  A Koe ne galo ifo i aso katoa o Tou olaga mai lalo ote vasa o faka-lavelave lasi. I te taimi e tasi a Koe e saisai ki filifili mo sekelo; kae i sua taimi a Koe ne puapuaga i pelu-tau o Ou fili.  Kae, e ui iei, ne fakatonu ne Koe a tagata katoa ke tautali i mea ko la ko oti ne fakaasi mai kia Koe ne Ia Te la ko te Iloa-Katoatoa, ko te Atamai-Katoatoa.
      Ke fai a toku agaaga mo fai a taulaga ki mea see katoa ne pokotia a Koe i ei, mo toku agaaga ola (soul) ke pe la me se togi o mea faigataa katoa ne pokotia kia Koe.  Au e akai totuli ki te Atua pela foki mo latou ko la olotou mata ko oti ne faka-maina ki te gali o te mainaaga o Ou mata, mo latou, ona kote alofa mo Koe, ko oti ne tautali katoa kia mea ko oti ne fai atu kia latou, o fakaseai a veli kola e pono i te va o Koe mo Au mea faiite, kae ke aumai kia au a mea lei katoa o te lalolagi tenei mo te lalolagi ma vau.  A Koe, e tonu, ko te Mafi-Katoatoa, ko te Tafasili i te Maluga, te Matagofie-Katoatoa, ko te Fakamagalo-Katoatoa, ko te Tafasili i te Atafai.
      Fakamanuia ne Koe, O te Aliki toku Atua, te Lakau Ola Faka-te-Lagi mo ona lau, mo ona kaula foliki, mo ona kaula lasi, mo ona lito foliki, pela foki mo ona somo ola, me pefea loa ate leva e tumau i ei a Ou igoa tafasili i te lei mo uiga tafasili i te maualuga.  Puipui ate mea, tena, mai i te amio se lei o ia faitaua mo lukuuga o te masei.  A Koe, e tonu, ko te Mafi-Katoatoa, te Tafasili i te Maalosi.  Fakamanuia foki ne Koe, O te Aliki toku Atua, Au tavini mo Au tavini fafine ko ko ti ne oko atu kia Koe.  A Koe, e tonu, ko te Maumea-Lauefa Katoatoa, Te la a Tena alofa e seai se gataaga.  E seai aka se Atua na ko Koe, ko te Fakamagalo-Katoatoa, ko te Tafasili i te Kaimalie.
-
--- Bahá'u'lláh

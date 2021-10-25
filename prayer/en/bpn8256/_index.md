@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8256 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Ever-Abiding, the Most Exalted, the Most Great.
@@ -14,5 +15,3 @@ Having revealed this Tablet on this night, We desire to send it unto thee as a t
 
 *17.    Bahá’u’lláh.
 *18.    The Báb.
-
--- Bahá'u'lláh

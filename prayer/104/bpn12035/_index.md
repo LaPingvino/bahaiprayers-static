@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12035 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 *Dilaksanakan sekali dalam dua puluh empat jam.
@@ -56,5 +57,3 @@ Ya Tuhan, Tuhanku! Belakangku telah dibongkokkan oleh beban dosaku dan kelalaian
 
 *Kemudian biarlah dia mengangkat kepalanya, dan duduk lalu mengucapkan:
        Aku naik saksi, Ya Tuhanku, kepada apa yang disaksikan oleh Hamba-hamba-Mu yang terpilih dan aku mengakui apa yang telah diakui oleh penghuni-penghuni Syurga Tertinggi dan oleh mereka yang telah mengelilingi Istana-Mu yang agung. Kerajaan-kerajaan di bumi dan di syurga adalah milik-Mu, Ya Tuhan sekalian alam!
-
--- Bahá'u'lláh

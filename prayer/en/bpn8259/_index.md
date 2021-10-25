@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8259 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Lawh-i-Maryam
@@ -31,5 +32,3 @@ O Maryam, We have called this Tablet “the choicest of lamentations” and “t
 *25.    Náṣiri’d-Dín Sháh.
 *26.    Joseph.
 *27.    Cf. Qur’án 22:54.
-
--- Bahá'u'lláh

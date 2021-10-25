@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6989 in Fiji'
+author = 'Bahá'u'lláh'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 *E volai e na i Vola Tabu ni Lawa (Na Kitab-i-Aqdas): “Keimami sa vakaroti kemuni mo ni masu ka lolo e na gauna e dodonu mo ni sa yalomatua kina (yabaki 15); oqo e sa vakarota na Kalou, na nomu Kalou ka nodra Kalou na nomuni qase.... O ira era lako e na dua na i lakolako yawa, o ira na tauvimate, o ira na vakasucu kei ira na tiko bibi era sega ni okati e na lolo.... Mo kakua ni kana se gunu, mai na cadra ni matanisiga me yacova ni sa dromu, ka qarauna mo kakua ni rawai e na veivakatovolei ni gagadre ni yalomu ka vakaleqa na veivakalougatataki e sa virikotori tu e na iVolatabu oqo."
@@ -46,5 +47,3 @@ Au masuti Kemuni, I noqu Kalou, e na vuku ni rarama ni Matamuni o koya ka vakauq
 Au masuti Kemuni, I noqu Kalou, e na vuku ni Yacamuni ka O ni sa dau vakarogoya mai kina na nodra kaci na dau taleitaki Kemuni, kei na nodra vuturi o ira era dau gadrevi Kemuni, kei na nodra tagi o ira era dau marautaka na tiko veivolekati kei Kemuni, kei na nodra kudru o ira era sa dina vei Kemuni, me vaka ni O ni sa vakayacora na veika era gadreva tu o ira era sa dau vakanuinui vakatabakidua vei Kemuni, ka ni O ni sa yalataka vei ira na ka era gadreva, e na vuku ga ni Nomuni loloma uasivi kei na Nomuni veivuke, kei na vuku ni Yacamuni e na loma ni wasawasa ni veivosoti e ua baleta yani na Matamuni, kei na o ni Nomuni loloma ka sobuti ira na Nomuni dauveiqaravi, me volai vakayadua kina vei ira era sa vuki yani vei Kemuni, ka ra vakamuria na lolo O ni a virikotora, me saumi kina na nodra cakacaka o ira era sega ni vosa rawa vakavo ga e na Nomuni veitawasei kei ira, ka ra biuta laivi na veika vakavuravura era taukena e na nodra sala vei Kemuni kei na nodra Iomani Kemuni.
  
 Au masuti Kemuni, I noqu Kalou, e na Vukumuni kei na vuku ni Nomuni vakatakilakila, kei na Nomuni veivukei dina, kei na i serau ramase ni iVola Siga ni Nomuni iUkuuku, kei na Nomuni Veitabanikau Tabu, me ra vosoti mada kina o ira era sa taura matua tu na Nomuni lawa, ka vakamuria vakadodonu na ka O ni sa vakarautaka vei ira e na Nomuni iVola. Ni raici au mai, I noqu Kalou, ni u sa tautauri matua tiko ki na Yacamuni, na Ka Tabu Duadua, na Ka Serau Duadua, na Ka kaukauwa Duadua, na Ka Uasivi Duadua, na Ka Vakacerecerei Duadua, na Ka Lagilagi Duadua, ka u tatakube tale tiko ga e na bele ni sulu ka ra kubeta tiko o ira kece sara era tiko e na vuravura oqo kei na vuravura sa bera mai.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7591 in Suomi'
+author = 'Báb'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *(Bábin syntymän vuosipäivä vietetään 20. lokakuuta.)
@@ -10,5 +11,3 @@ Minä pyydän Sinua hartaasti ilmaisijasi kirkkauden kautta ja mahtisi, yliherru
 Tämä loistokas muistio on ilmaistu Hänen  syntymänsä vuosipäivänä, että voisit lausua sitä nöyryyden ja hartauden hengessä ja antaa kiitosta Herrallesi, Kaiken tietävälle, Kaiken tuntevalle. Tee kaikkesi palvellaksesi Jumalaa, että sinusta tulisi esiin se, mikä tekee muistostasi kuolemattoman Hänen kirkkaassa ja ylevässä taivaassansa.
 Sano: Ylistetty olet Sinä, oi Jumalani! Pyydän Sinua hartaasti merkkiesi sarastuspaikan ja selvien näyttöjesi ilmaisijan   kautta suomaan, että voin kaikissa oloissa pitää tiukasti kiinni rakastavan kaitselmuksesi nuorasta ja tarttua lujasti jalomielisyytesi helmaan. Lue minut sitten niihin, joita maailman muutokset ja sattumukset eivät ole voineet pidättää palvelemasta Sinua ja olemasta uskollinen Sinulle, joita ihmisten ankara hyökkäys on ollut voimaton estämään kiittämästä nimeäsi ja lausumasta ylistystäsi. Armollisesti auta minua, oi Herrani, tekemään, mitä ikinä Sinä rakastat ja halajat. Tee minut sitten kykeneväksi toteuttamaan se, mikä ylevöittää Sinun nimeäsi ja sytyttää rakkautesi tulen ilmiliekkiin.
 Sinä olet toden totta Anteeksi antava, Antelias.
-
--- Báb

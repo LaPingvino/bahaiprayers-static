@@ -1,5 +1,6 @@
 +++
 title = 'Prayer AB00032DAR in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'AB00032DAR']
 +++
 ##Revealed to the Bahá’ís of the United States and Canada
@@ -16,5 +17,3 @@ O Lord!  The ocean of rebellion is surging, and these tempests will not be still
 O Lord!  Verily, the people are in the abyss of passion, and naught can save them but Thine infinite bounties.
 O Lord!  Dispel the darkness of these corrupt desires, and illumine the hearts with the lamp of Thy love through which all countries will erelong be enlightened.  Confirm, moreover, Thy loved ones, those who, leaving their homelands, their families and their children, have, for the love of Thy Beauty, traveled to foreign countries to diffuse Thy fragrances and promulgate Thy Teachings.  Be Thou their companion in their loneliness, their helper in a strange land, the remover of their sorrows, their comforter in calamity.  Be Thou a refreshing draught for their thirst, a healing medicine for their ills and a balm for the burning ardor of their hearts.
 Verily, Thou art the Most Generous, the Lord of grace abounding, and, verily, Thou art the Compassionate and the Merciful.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2309 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Acestea sunt, o Dumnezeul meu, zilele în care Tu le-ai prescris slujitorilor Tăi să ţină post. Cu el Tu ai împodobit prefaţa Cărţii Legilor Tale revelată făpturilor Tale, şi ai înveşmântat Păstrătorii poruncilor Tale dinaintea ochilor tuturor celor ce se află în cerul şi pe pământul Tău. Tu ai înzestrat fiecare ceas al acestor zile cu o virtute deosebită, ascunsă tuturor în afară de Tine, Cel a cărui cunoaştere cuprinde toate lucrurile create. De asemenea, Tu ai atribuit fiecărui suflet o parte din această virtute potrivit Tabletei poruncii Tale şi Scripturilor Judecăţii Tale irevocabile. Mai mult, fiecare pagină a acestor Cărţi şi Scripturi ai hărăzit-o fiecăruia dintre popoarele şi neamurile pământului.
@@ -19,5 +20,3 @@ Tu priveşti, o, Dumnezeul meu, ceea ce s-a abătut asupra celor dragi ţie în 
 Acesta este ceasul, o, Domnul meu, pe care l-ai făcut să întreacă fiecare alt ceas, şi l-ai înrudit cu cele mai alese dintre făpturile Tale. Te implor, o, Dumnezeul meu, prin Tine Însuţi şi prin ei, să porunceşti în timpul acestui an ceea ce îi va înălţa pe cei iubiţi de Tine. Ba mai mult, porunceşte în acest an ceea ce va permite Luceafărului puterii Tale să strălucească cu tărie deasupra orizontului slavei Tale şi să lumineze prin puterea Ta suverană întreaga lume.
 
 Fă victorioasă Cauza Ta, o, Domnul meu şi înjoseşte-i pe vrăjmaşii Tăi. Aşterne, atunci, pentru noi, binele acestei vieţi şi a vieţii ce va să vină. Tu eşti Adevărul, Cel care ştie lucrurile tăinuite. Nu există alt Dumnezeu în afară de Tine, Cel Veşnic Iertător, Cel Atotmărinimos.
-
--- Bahá'u'lláh

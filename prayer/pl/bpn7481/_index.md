@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7481 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 *„Wczytajcie się w Tablicę Świętego Żeglarza, abyście poznali prawdę i pamiętali, że Błogosławione Piękno w pełni przepowiedziało przyszłe wypadki. Niech będzie to przestrogą dla tych, którzy są świadomi.”  - ʿAbdu’l-Bahá
@@ -236,5 +237,3 @@ Wysławiony niech będzie nasz Pan, Przenajwyższy!
 A gdy ujrzały stan, w jakim się znajdowała, i zrozumiały słowo z opowieści Młodziana, odsłoniły swoje głowy, rozdarły szaty, biły się po twarzach, zapominały o radości, roniły łzy i uderzały dłońmi po policzkach, albowiem, zaprawdę, jest to jedno z niezgłębionych bolesnych nieszczęść —
       
 Wysławiony niech będzie nasz Pan, Przenajwyższy!
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4814 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Sənə şükr edirəm, Ey mənim Allahım! Sən məni yuxudan oyatdın, yoxluğumdan aşkara çıxardın və qəflətimdən qaldırdın. Mən bu səhər oyanmışam və Sənin əlamətlərini qəbul edərək, Kitabına iman gətirərək, Sənin ipindən möhkəm yapışaraq üzümü Sənin qüvvət və əzəmət səmalarını nurlandırmış Zühur Günəşinin şəfəqlərinə çevirmişəm.
@@ -11,5 +12,3 @@ Uca Qələminlə, İlahi, bu dünyanın və o biri dünyanın xeyr-bərəkətini
 Əmri ilə zilləti izzətə, zəifliyi gücə, acizliyi qüdrətə, qorxunu sakitliyə, şübhəni yəqinliyə çevirən Kəs Sənsən. Səndən başqa Allah yoxdur, Qüdrətli, Rəhmli.
 
 Səni axtaranı Sən məyus etmirsən, nə də Səni arzulayanı uzaq tutursan. Sənin səxavət səmana və kəramət dəryana yaraşanları mənə qismət eylə. Həqiqətən, Sənsən Müqtədir və Ən Qüvvətil.
-
--- Bahá'u'lláh

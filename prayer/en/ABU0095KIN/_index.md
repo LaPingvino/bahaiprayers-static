@@ -1,5 +1,6 @@
 +++
 title = 'Prayer ABU0095KIN in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'ABU0095KIN']
 +++
 O Thou forgiving God! These servants are turning to Thy kingdom and seeking Thy grace and bounty. O God! Make their hearts good and pure in order that they may become worthy of Thy love. Purify and sanctify the spirits that the light of the Sun of Reality may shine upon them. Purify and sanctify the eyes that they may perceive Thy light. Purify and sanctify the ears in order that they may hear the call of Thy kingdom.
@@ -11,5 +12,3 @@ O God, my God! Cast upon this gathering the glances of Thy loving-kindness. Keep
 O Lord! Bestow Thy gracious aid and confirmation upon this just government. This country lieth beneath the sheltering shadow of Thy protection, and this people is in Thy service. O Lord! Confer upon them Thy heavenly bounty and render the outpourings of Thy grace and favor copious and abundant. Suffer this esteemed nation to be held in honor, and enable it to be admitted into Thy kingdom.
 
 Thou art the Powerful the Omnipotent, the Merciful, and Thou art the Generous, the Beneficent, the Lord of grace abounding.
-
--- Abdu'l-Bahá

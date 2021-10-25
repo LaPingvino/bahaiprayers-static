@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6383 in Cymraeg'
+author = 'Báb'
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Arglwydd!
@@ -10,5 +11,3 @@ O Lord!
  Unto Thee I repair for refuge, and toward all Thy signs I set my heart.
 
 O Lord! Whether travelling or at home, and in my occupation or in my work, I place my whole trust in Thee.
-
--- Báb

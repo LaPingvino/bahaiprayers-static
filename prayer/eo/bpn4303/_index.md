@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4303 in Esperanto'
+author = 'Bahá'u'lláh'
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 ##La longa deviga preĝo
@@ -58,5 +59,3 @@ Gloron al Vi, ho nia Dio, ke Vi malsuprensendis al ni tion, kio proksimigas nin 
 *Tiam li levu la kapon kaj sidiĝu kaj diru:
 
 Mi atestas, ho mia Dio, kion Viaj Elektitoj atestis, kaj rekonas, kion la loĝantoj de la plejalta Paradizo kaj tiuj ĉirkaŭantaj Vian potencan Tronon rekonis. La regnoj de l’ tero kaj ĉielo estas Viaj, ho Sinjoro de la mondoj!
-
--- Bahá'u'lláh

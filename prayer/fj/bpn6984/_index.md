@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6984 in Fiji'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 O i Kemuni na Turaga, na noqu Kalou ka noqu i Vakavakacegu e na noqu lomabibi! O ni sa noqu i Sasabai ka noqu i Vakavakaruru e na gauna ni leqa ka noqu i Tokani Lomani e na noqu galili! O ni sa noqu i Vakavakacegu e na noqu rarawa, ka noqu i Tokani e na noqu tiko duadua voli! O ni sa dau veivakacegui ka kauta tani na noqu leqa kece ga ka Dauvosota na noqu i valavala ca.
@@ -23,5 +24,3 @@ Ni laivi au me u vakacegu e na ruku ni Tabamuni dauveitaqomaki ka Mo ni wanonovi
 Ni vakayavalata na yamequ me u vakacaucautaka na Yacamuni e na kedra maliwa na Nomuni tamata, ka me rogo na domoqu e na veisoqo levu ka me taladrodro mai e gusuqu na uasivi ni Nomuni veivakacaucautaki.
 
 Sa i Kemuni, e na dina taucoko, sa Dauloloma, na Lagilagi, na iGu Cecekia, na kaukauwa Duadua ga.
-
--- Abdu'l-Bahá

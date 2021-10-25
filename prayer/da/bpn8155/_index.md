@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8155 in Dansk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Den der begiver sig ud på en undervisningsrejse til et hvilket som helst sted skal på sin rejse i fremmede lande fremsige denne bøn dag og nat.
@@ -11,5 +12,3 @@ O Herre! Styrk min ryg, lad mig af yderste evne tjene Dig og overlad mig ikke ti
 O Herre! Skænk mig samvær med Dig i min ensomhed og vær min ledsager i disse fremmede lande.
 
 Sandelig, Du er Bekræfteren, for hvem Du end vil det, i hvad Du ønsker, og sandelig, Du er Den Almagtsfulde, Den Almægtige.
-
--- Abdu'l-Bahá

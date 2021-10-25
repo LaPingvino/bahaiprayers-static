@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7868 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Il peccatore, quando si sente completamente distaccato e libero da tutto fuorché Dio, deve implorare la Sua indulgenza e il Suo perdono. La confessione di peccati e colpe davanti a creature umane non è permessa, perché ciò non ha mai condotto né mai condurrà al perdono di Dio... 
@@ -10,5 +11,3 @@ O Signore! Tu vedi questa essenza di iniquità volgersi all’oceano del Tuo fav
 Ahimé! Ahimé! I miei peccati mi hanno impedito di avvicinarmi alla Corte della Tua santità e le mie colpe mi hanno fatto smarrire lungi dal Tabernacolo della Tua maestà. Ho commesso ciò che mi proibisti e trascurato ciò che mi ordinasti. 
 Ti prego, per Colui Che è il sovrano Signore dei Nomi, di decretare per me, con la Penna della Tua munificenza, ciò che mi permetterà di avvicinarmi a Te e mi purificherà dai miei misfatti che si sono interposti tra me e la Tua indulgenza e il Tuo perdono. 
 In verità, Tu sei il Potente, il Munifico. Non v’è altro Dio all’infuori di Te, il Possente, il Benigno.
-
--- Bahá'u'lláh

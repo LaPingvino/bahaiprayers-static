@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6378 in Cymraeg'
+author = 'Bahá'u'lláh'
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 O fy Nuw a’m Meistr!  Dy was ydwyf a mab Dy was.  Codais o’m gorweddfan y bore hwn pan fo Seren-Ddydd Dy uniondeb wedi dsigleirio ymaith oddi wrth Ffynnon-Ddydd Dy ewyllys, ac wedi tywallt ei lewyrch dros yr holl fyd, yn ôl yr hyn a ordeiniwyd yn Llyfrau Dy Orchymyn.
@@ -18,5 +19,3 @@ Praise be unto Thee, O my God, that we have wakened to the splendors of the ligh
 Bless Thou, O Lord my God, Him Whom Thou hast set over Thy most excellent Titles, and through Whom Thou hast divided between the godly and the wicked, and graciously aid us to do what Thou lovest and desirest. Bless Thou, moreover, O my God, them Who are Thy Words and Thy Letters, and them who have set their faces towards Thee, and turned unto Thy face, and hearkened to Thy Call.
 
 Thou art, truly, the Lord and King of all men, and art potent over all things.
-
--- Bahá'u'lláh

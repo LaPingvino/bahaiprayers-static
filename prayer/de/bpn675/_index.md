@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn675 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 *Dieses Gebet wird an den Schreinen des Báb und Bahá’u’lláhs gelesen, außerhalb der Schreine nur anlässlich des Hinscheidens Bahá’u’lláhs und des Märtyrertodes des Báb.
@@ -10,5 +11,3 @@ So lass denn, o mein Gott und mein Geliebter, von der rechten Hand Deines Erbarm
 Das Gedenken Gottes und Sein Lobpreis, die Herrlichkeit Gottes und Sein Glanz ruhen auf Dir, o Du, der Du Seine Schönheit bist! Ich bezeuge, dass der Schöpfung Auge niemals einen Unterdrückten Deinesgleichen sah. Alle Tage Deines Lebens warst Du in einem Meer von Leiden versunken. Einmal lagst Du in Ketten und Banden, ein andermal bedrohte Dich Deiner Feinde Schwert. Und dennoch machtest Du allen Menschen zur Pflicht einzuhalten, was Dir von Ihm, dem Allwissenden, dem Allweisen, verordnet ward.
 Möge mein Geist ein Opfer sein für das Unrecht, das Du erlitten, und meine Seele ein Lösegeld für die Trübsal, die Du ertragen. Ich flehe zu Gott bei Dir und bei denen, deren Angesicht durch den Lichterglanz Deines Antlitzes erleuchtet wird und die aus Liebe zu Dir alles tun, was ihnen befohlen ist, beseitige die Schleier, die sich zwischen Dich und Deine Geschöpfe legen, und versorge mich mit dem Guten dieser Welt und der künftigen. Du bist wahrlich der Allmächtige, der Höchsterhabene, der Allherrliche, der Immervergebende, der Mitleidvolle.
 Segne, o Herr mein Gott, den göttlichen Lotosbaum, seine Blätter, seine Äste und Zweige, seine Stengel und Ableger, solange Deine höchsterhabenen Eigenschaften währen. Schütze ihn alsdann vor dem Unheil der Angreifer und den Scharen der Tyrannei. Du bist wahrlich der Allmächtige, der Allgewaltige. Segne, o Herr mein Gott, auch Deine Diener und Dienerinnen, die zu Dir gelangt sind. Du bist wahrlich der Allgütige, Dessen Gnade unendlich ist. Es gibt keinen Gott außer Dir, dem Immervergebenden, dem Allgroßmütigen.
-
--- Bahá'u'lláh

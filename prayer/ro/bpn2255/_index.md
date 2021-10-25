@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2255 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne! Cu adevărat, noi suntem
@@ -10,5 +11,3 @@ O, Doamne! Cu adevărat, ochii oamenilor sunt acoperiţi de un văl, iar ei sunt
 O, Doamne! Călăuzeşte sufletele oamenilor, ca ele să se poată îndepărta de războaie şi bătălii, să poată deveni iubitoare şi blânde unul cu celălalt, să se poată alătura şi să slujească unicitatea şi solidaritatea umanităţii.
 
 O, Doamne: orizonturile lumii sunt întunecate de aceste neînţelegeri. O, Dumnezeule! Înseninează-le, şi prin luminile iubirii Tale fă ca inimile să devină strălucitoare. Prin binecuvântarea darurilor Tale înviorează spiritele până când fiecare suflet va simţi şi se va purta în armonie cu învăţăturile Tale. Tu eşti Cel Atotputernic. Tu eşti Cel Atotştiutor. Tu eşti Cel Ce Vede. O, Doamne, fii îndurător cu toţi.
-
--- Abdu'l-Bahá

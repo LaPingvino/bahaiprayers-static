@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5148 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *[Dapat dibaca baik selama masa Puasa maupun pada waktu fajar.]
@@ -12,5 +13,3 @@ Berkatilah, ya Rabi Tuhanku, Dia yang telah Engkau kuasakan dengan Gelar-gelar-M
 *"Seringkali pada waktu fajar hembusan kasih sayang-Ku bertiup di atasmu dan mendapatkan engkau di atas tempat tidur ketakacuhan, tidur dengan nyenyaknya. Sambil menangisi keadaanmu Ia kembali ke tempat asalnya".
 
 *"Sering pada waktu fajar, Aku berpaling dari Kerajaan-kerajaan Tak Bertempat ke tempat tinggalmu, dan menemukan engkau di tempat tidur kesenangan sibuk dengan yang lain-lain, selain daripada Aku Sendiri. Setelah itu, bahkan sebagai kilat roh, Aku kembali ke kerajaan-kerajaan surgawi yang mulia dan Aku tak membisikkannya kepada para penghuni kesucian di tempat tinggal-Ku di atas".
-
--- Bahá'u'lláh

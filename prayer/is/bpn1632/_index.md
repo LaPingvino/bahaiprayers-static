@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1632 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *(Bæn fyrir látnum er lesin fyrir bahá’ía eldri en 15 ára. „Þetta er eina bahá’í skyldubænin sem lesa á í hóp. Einn átrúandi annast lesturinn en viðstaddir rísi á fætur og standi á meðan lesið er. Ekki er skylda að snúa til Qiblih (í bænarátt, til Bahjí) meðan bænin er lesin.“	—Yfirlit og skráning laganna í Kitáb-i-Aqdas)
@@ -18,5 +19,3 @@ Sannlega erum við öll þolinmóð í Guði.
 * *Kveðjan Alláh-u-Abhá er lesin einu sinni á undan hverju ritningarorði en hvert ritningarorð er endur­tekið nítján sinnum.
 
 *(Ef hinn látni er kona, segi sá sem les: „Þetta er þjón­ustu­mey Þín og dóttir þjónustumeyjar Þinnar, o.s.frv.)
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2278 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Laudă ţie, o, Doamne Dumnezeul meu!
@@ -10,5 +11,3 @@ Membrele trupului meu adeveresc unitatea Ta, şi părul capului meu declară put
 Hărăzeşte-mi mie, o, Dumnezeul meu, ceea ce se cuvine măreţiei maiestăţii Tale, şi ajută-mă, cu harul Tău întăritor, să propovăduiesc Cauza Ta astfel încât morţii să iasă afară din mormintele lor şi să se grăbească către Tine, punându-şi toată încrederea în Tine şi aţintindu-şi privirea asupra răsăritului Cauzei Tale, şi aurorei Revelaţiei Tale.
 
 Cu adevărat, Tu eşti, Cel Atotputernic, Cel Prea Înalt, Cel Atotştiutor, Cel Atotînţelept.
-
--- Bahá'u'lláh

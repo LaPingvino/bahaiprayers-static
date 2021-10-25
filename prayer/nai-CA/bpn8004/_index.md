@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8004 in Canadian Indigenous'
+author = 'Bahá'u'lláh'
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 ##Nuts’amat
@@ -16,5 +17,3 @@ Ts’ow’tuns thu Tsitsulh Siem
 Swe’s ‘eelhtun tho Tsitsulh Siem. 
 
 O my God!  O my God!  Unite the hearts of Thy servants, and reveal to them Thy great purpose.  May they follow Thy commandments and abide in Thy law.  Help them, O God, in their endeavor, and grant them strength to serve Thee.  O God!  Leave them not to themselves, but guide their steps by the light of Thy knowledge, and cheer their hearts by Thy love.  Verily, Thou art their Helper and their Lord.
-
--- Bahá'u'lláh

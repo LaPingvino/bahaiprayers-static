@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7947 in Malti'
+author = 'Bahá'u'lláh'
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 O Alla tiegħi! Dan huwa l-qaddej tiegħeK u iben il-qaddej tiegħeK li kien emmen fiK u fl-egħliem tiegħeK, u dawwar wiċċu lejK, maqtugħ għal kollox minn kollox barra minneK. Inti, fis-sewwa, minn dawk li juru ħniena l-aktar ħanin. 
@@ -16,5 +17,3 @@ Aħna lkoll, fis-sew, niżżu ħajr lil Alla.
 Aħna lkoll, fis-sew, nistabru f’Alla.
 
 *(Jekk il-mejta hi mara, igħid: Din hija il-qaddejja tiegħek u bint il-qaddejja tiegħek, eċċ...)
-
--- Bahá'u'lláh

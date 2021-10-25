@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8169 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 *”Studer Den Hellige Søfarer, at I kan kende sandheden og tænke på, at Den Velsignede Skønne til fulde har forudsagt fremtidige begivenheder. Lad dem, der ser være advaret.” – 'Abdu'l-Bahá
@@ -225,5 +226,3 @@ De samledes alle om hende og se! De fandt hende styrtet om i støvet Lovpriset v
 Og da de så hendes tilstand og fattede et ord af Ynglingens beretning blottede de deres hoveder,
 
 sønderrev deres klæder, slog sig i ansigtet, glemte deres glæde, udgød tårer, slog sig på kinderne med hænderne og dette er sandelig en af de mystiske, frygtelige prøvelser - Lovpriset være vor Herre, Den Allerhøjeste!
-
--- Bahá'u'lláh

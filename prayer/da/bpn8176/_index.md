@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8176 in Dansk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Han er Gud!
@@ -13,5 +14,3 @@ Herre! Tænd Du i deres hjerter Din guddommelige tiltræknings flamme og giv, at
 *Koranen 28:2 
 
 *Koranen 76:5
-
--- Abdu'l-Bahá

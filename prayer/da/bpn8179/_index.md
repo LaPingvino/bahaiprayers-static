@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8179 in Dansk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Bøn til afslutning af møde i det åndelige råd:
@@ -11,5 +12,3 @@ O vor Herre! Vi er svage, og Du er Den Mægtige, Den Stærke. Vi er livløse, og
 O vor Herre! Vend vore ansigter mod Dit barmhjertige åsyn, giv os næring fra Dit himmelske bord med Din rige nåde. Hjælp os ved Dine højeste engles skarer og bekræft os gennem de hellige i Abhá riget.
 
 I sandhed, Du er Den Storsindede, Den Barmhjertige. Du er Besidderen af stor gavmildhed, og Du er i sandhed Den Milde og den Nådige.
-
--- Abdu'l-Bahá

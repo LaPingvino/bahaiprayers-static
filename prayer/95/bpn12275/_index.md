@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12275 in '
+author = 'Báb'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Te matagofie e ia Koe, O te Aliki!  E uiloa a Koe e mafai o fai se tino ke mativa mai i mea katoa faka-te-lalolagi, mai i te kamataga o tena ola ke oko ki taimi ko fanatu ia ki luga ia Koe, e mafai a ia o tuku ifo ki lalo i te mativa mai i luga i te faka-galueega o Tau tonu, kae e uiloa mo fai ke aumai ne Koe mai ki mua i te Lakau Ola o Tou alofa, a te manuia tena e lei fakafia atu i mea katoa ko oti ne faite ne Koe ite lagi mote lalolagi mo so se mea e nofo i te vasia o laua; pe la loa mo ia ka maua ne ia a te fale faka-te-lagi, mai i luga i fakaasiiga o Au mea-alofa, kae ka kau atu a ia i mea-alofa lei ko oti ne fakatoka ne Koe, auaa i mea ko la ia Koe e see mafai o oti.  Mea nei e tonu se faka-manuiaaga te la ona ko Tau Ikuuga faka-fiafia lei ko oti ne tuku ifo mo latou e sasaale ite auala o Tou alofa.  
@@ -9,5 +10,3 @@ Fakaeke kia au, O toku Aliki, pe la foki mo latou e talitonu ia Koe a mea tafasi
 Au mea-alofa llei e tumau a te maligi ifo kia latou ko la e fiafia ki Tou alofa mo Au fakaasiiga o Tou alofa-lauefa faka-te-lagi e oko faeloa kia latou ko la e atafia ne latou a Tou tafatasi faka-te-lagi.  E tuku atu matou ki Tau tausi a so se mea tela ko oti ne fakasino mai mo matou ne Koe, kae akai totuli atu kia Koe ke tuku ifo kia matou a mea lei katoa ko la ko oti ne maua ne Tou poto.  
 Puipui mai au, O toku Aliki, mai i so se masei te la e lavea ne Tou iloa mana, pela loa mo te seai-se-maalosi io me se mafi na i luga ia Koe, seaise-manumaalo e maua vagana mai i Tou nofo-mai, kae ia Koe tokotasi e fakatonu.  So se mea ko oti ne manako ki ei a te Atua ko oti, a ko te mea tela e seki manako ki ei a Ia e see mafai lele loa. 
 E seai aka se maalosi io mese mafi na ko te Atua, ko te Tafasili i te Maluga, ko te Tafasili i te Mafi.
-
--- Báb

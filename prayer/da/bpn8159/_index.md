@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8159 in Dansk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Hver sjæl, som rejser gennem byerne og landsbyerne i disse stater og er optaget af at sprede Guds vellugte, bør læse denne bøn hver morgen.
@@ -11,5 +12,3 @@ Hvordan kan det lykkes for mig, medmindre Du støtter mig med åndepustet fra He
 O min Herre! Hjælp mig med Din sejrrige og virkningsfulde kraft, at min tunge må synge Din pris og lovprise Dine egenskaber blandt alle folkeslag og min sjæl strømme over af Din kærligheds og kundskabs vin.
 
 Du er Den Almægtige og den der gør, hvad Du vil.
-
--- Abdu'l-Bahá

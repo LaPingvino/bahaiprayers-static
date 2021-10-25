@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11871 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Mulia manah Ingan, O Raja dunia duoh Pinyoot negara, O Ingan Nyaa dek ogi tonga daang Adon Maha Agung, luban mutiara-mutiara bijaksana bia pingunang mbok tomus nog sok tiga’ant laut luwas ilmu pangipu’ant Ingan bia longit revelasi ilahi mbok obuah ngabunt pakai towa boton onu dek bitanga rupa Ingan. 
@@ -7,5 +8,3 @@ Oku mitia mujok Ingan, pakai Bang sina noh leh sok bukti Ingan dianggap sempurna
 O Raja ku! Ingan ninga bala bikagient tudu tolint budi Ingan bia ngaguam togap tudu tipulont bolut amal Ingan. Nitah sa’ant bala onik dek dapod nalik bala odak sinok tudu Ingan, bia naan bala sok sua jok eh Ingan. 
 
 Oku mitia mujok Ingan, O Ingan Raja pinimul bia jadin Sinung Sabal dek bitolus duoh dik-eh bitolus, nai odak osi sija jogia ngin khidmat tudu Agama Ingan tutuas kodae laut dek bibiluad pakai hasrat Ingan, bidudue odak opui Tongon Pingudus Ingan, bitowa sok talis longit pinyuka Ingan. Totap, Ingan leh Nyaa de Doras, Nyaa dek samada kuasa sua dunya dik –eh mau pun kekuatan negara-negara tungang odak dodot. Doie Topa dibokon pak-eh Ingan, dek ndi, dek doie banding, dek jadin Sinung Sabal, dek Biginong Sadik.
-
--- Bahá'u'lláh

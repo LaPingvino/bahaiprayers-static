@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5146 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Kemuliaan bagi-Mu, ya Rabi Tuhanku! Janganlah merendahkan dia yang telah Engkau luhurkan dengan kekuasaan kedaulatan-Mu yang abadi, dan jangan- lah dia yang telah Engkau izinkan untuk memasuki kemah keabadian-Mu, dijauhkan dari Engkau. Apakah Engkau akan menyisihkan dia, ya Tuhanku, yang telah Engkau lindungi dengan Ketuhanan-Mu, dan apakah Engkau akan menjauhkan dari-Mu, ya Hasratku, dia yang baginya Engkau menjadi perlindungan?
@@ -12,5 +13,3 @@ Dimuliakanlah, dimuliakanlah Engkau setinggi- tingginya! Engkau dipuja karena ha
 
 *"...Janganlah berputus asa, janganlah merana, janganlah mengeluh, dan jangan pula meratap atau menangis karena kegelisahan dan kesedihan mempengaruhi arwahnya di alam Ilahi...".
 ‘Abdu’l-Bahá
-
--- Bahá'u'lláh

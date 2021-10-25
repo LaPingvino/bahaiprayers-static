@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9588 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 ##Het lange genezingsgebed
@@ -52,5 +53,3 @@ O Blijvende, ik roep U aan, o Blijvende!
 Gij de Immerblijvende, o Gij de Blijvende!
 Geheiligd zijt Gij, o mijn God! Ik smeek U bij Uw edelmoedigheid waardoor de poorten van Uw gaven en gunsten wijd geopend werden, waardoor de Tempel van Uw heiligheid gevestigd werd op de troon van eeuwigheid, en bij Uw barmhartigheid waardoor Gij al het geschapene tot de tafel van Uw milddadigheid en gaven hebt genood en bij Uw genade, waardoor Gij Zelf, uit naam van allen in de hemelen en op aarde, hebt geantwoord met Uw woord “Ja!” ten tijde van de openbaring van Uw soevereiniteit en grootheid, bij het ochtendgloren toen de macht van Uw heerschappij duidelijk werd. En wederom smeek ik U bij deze allerschoonste namen, bij deze zeer edele en sublieme hoedanigheden en bij Uw verhevenste Gedachtenis en bij Uw zuivere en vlekkeloze Schoonheid en bij Uw verborgen Licht in het verborgenste paviljoen, en bij Uw Naam, iedere ochtend en iedere avond gehuld in het gewaad van smarten, om de drager van deze gezegende Tafel, en al wie hem reciteert, en al wie hem aantreft, en al wie rond het huis gaat waar deze Tafel zich bevindt te beschermen. Geneest Gij hiermee dan iedere zieke, lijdende en arme van iedere beproeving en tegenspoed, van iedere afschuwelijke bezoeking en smart, en leidt Gij hierdoor al wie het pad van Uw leiding en de weg van Uw vergeving en genade verlangt te betreden.
 Gij zijt waarlijk de Krachtige, de Altoereikende, de Genezer, de Beschermer, de Gever, de Meedogende, de Algrootmoedige, de Albarmhartige.
-
--- Bahá'u'lláh

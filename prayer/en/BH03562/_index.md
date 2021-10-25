@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BH03562 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'BH03562']
 +++
 He is the prayer-hearing, prayer-answering God!
@@ -8,5 +9,3 @@ Thou seest, O Lord my God, the tears of Thy favored ones, shed because of their 
 And, again, I ask Thee by the sweet showers of Thy grace and the billows of the ocean of Thy favor, to ordain for Thy saints that which shall solace their eyes and comfort their hearts.  Lord!  Thou seest him that kneeleth yearning to arise and serve Thee, the dead calling for eternal life from the ocean of Thy favor and craving to soar to the heavens of Thy wealth, the stranger longing for his home of glory 'neath the canopy of Thy grace, the seeker hastening by Thy mercy to Thy door of bounty, the sinful turning to the ocean of forgiveness and pardon.
 By Thy sovereignty, O Thou Who art glorified in the hearts of men!  I have turned to Thee, forsaking mine own will and desire, that Thy holy will and pleasure may rule within me and direct me according to that which the pen of Thy eternal decree hath destined for me.  This servant, O Lord, though helpless turneth to the Orb of Thy Power, though abased hasteneth unto the Dayspring of Glory, though needy craveth the Ocean of Thy Grace.  I beseech Thee by Thy favor and bounty, cast him not away.
 Thou art verily the Almighty, the Pardoner, the Compassionate.
-
--- Bahá'u'lláh

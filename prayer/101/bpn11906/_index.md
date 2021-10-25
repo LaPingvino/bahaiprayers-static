@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11906 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Iyoh leh Raja, dek Paling Pu’ant, dek Bijak Ponai! Ninga leh Manuk Bulbul Shorga bilagu ndu da’ant-da’ant Tongon Koyuh Nolee. Daang ngilobuk duoh kudus, ngin pimagah tudu bala dek ikhlas pimoon pasal Topa mbok ogik sinok, mogan bala dek bisaya dek ogi daang pinyindi kudus odak odi tudu gilangang Pimonog Nyaa dek Bait, ngin puant tudu bala dek potod pasal kabar berita dek mbok obuah bitanga odak Topa, dek jadin Raja, dek Mulia, dek Doie Banding, ngotag bala kekasih tudu galas pingudus bia tudu Pangisangon dek bigonga tih. 
@@ -18,5 +19,3 @@ Bisayak leh daang odop mu, totap nang, yoh wat nyaa noh buu sok Pangisangon tih 
 Bilajar bonar-bonar eh Surat Bisaka tih neh, O Ahmad. Ngayong nye selama idip mu bia mbak ngadod odop mu sok eh. Sebab sebonar eh, Topa mbok nitah sa’ant nyaa dek ngayong, nikan pah pala seratus kobos shahid bia pibitai daang sok duwoh-duwoh dunya. Pinubil-pinubil tih koih mbok ngisik tilanan mu odak jadin duman sok Koih duoh pangipisoh sok pimonog Koih, sak pod-pod muu jadin kodae bala dibokon dek mbok utung.
 Dek sok Topa! Nyam tadah nyaa noh daang sisa sengsara ato ngopok mit basa Surat Bisaka tih dengan pinumas ikhlas, totap Topa ngisuk suwant ulid noh, noduh susah payah-eh bia kadi sengsara eh.
 Totap, Iyoh dek Paling Bait, dek Pinyayang. Mudi Topa, Raja daang sua dunya.
-
--- Bahá'u'lláh

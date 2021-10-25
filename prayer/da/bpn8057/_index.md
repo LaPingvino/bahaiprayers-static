@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8057 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Lovet være Du, o min Gud! Jeg er en af Dine tjenere, der har troet på Dig og på Dine tegn. Du ser, hvordan jeg har stillet mig foran Din barmhjertigheds dør og vendt mit ansigt mod Din kærlige omsorg. Jeg bønfalder Dig ved Dine mest udsøgte navne og Dine mest ophøjede egenskaber om at åbne portene til Dine gaver for mit ansigt. Hjælp mig da at gøre det som er godt, o Du, der er Besidderen af alle navne og egenskaber!
@@ -13,5 +14,3 @@ Jeg retter min tak mod Dig, o min Herre, fordi Du har vækket mig af min søvn o
 Gør mig derfor, o min Herre, i stand til af kærlighed til Dig og for Din glædes skyld at se alt, hvad Du har ønsket. Du er Ham, hvis magt og herredømme alle ting vidner om.
 
 Der er ingen anden Gud end Dig, Den Almægtige, Den Godgørende.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5279 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 *‚ Ko god ustane na ovaj Dan da pomogne našoj Vjeri i u pomoć pozove vojske dobrih i pravednih ljudi, uticaj koji proističe iz tog čina će se proširiti cijelim svijetom.‛ –Bahá’u’lláh
@@ -10,5 +11,3 @@ Bože, Ti znaš i svjedok si mi da u srcu nemam druge želje već da budem u
 Bože! Spreman sam podnijeti svaku muku na Tvome putu i svim srcem i dušom se želim suočiti sa svakom nevoljom.
 Bože! Poštedi me iskušenja! Ti dobro znaš da sam se okrenuo od svih stvari i oslobodio svih misli. Nemam drugog zanimanja sem da Tebe spominjem i nemam druge težnje sem da Tebi
 služim.
-
--- Bahá'u'lláh

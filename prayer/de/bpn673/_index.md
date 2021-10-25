@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn673 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Im Namen Gottes, des Altehrwürdigen, des Größten.
@@ -53,5 +54,3 @@ Klagst Du oder soll Ich wehklagen! Nein, laut weine Ich, weil so wenige Dich ver
 Wahrlich, Ich habe Deinen Ruf vernommen, Du Geliebter des Allherrlichen. Nun erstrahlt Bahás Antlitz durch der Drangsal Glut und durch Deines leuchtenden Wortes Feuer. In Treue erhebt Er sich an der Opferstätte und blickt auf Dein Gefallen, Du Verordner der Welten.
 O ’Alí-Akbar, danke Gott für diese Tafel, aus der du den Duft Meiner Verfolgung spürst und erkennst, was Mich auf dem Pfade Gottes, des Angebeteten aller Welten, befiel.
 Wenn alle Diener es lesen und bedenken, so wird in ihren Adern ein Feuer entfacht, das die Welten in Flammen setzt.
-
--- Bahá'u'lláh

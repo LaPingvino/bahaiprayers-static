@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8009 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Lovet være Du, o Herre min Gud! Du ser og ved, at jeg har opfordret Dine tjenere til ikke at vende sig til noget andet end til Dine gaver og påbudt dem ikke at adlyde noget ud over det, Du foreskrev dem i Din utvetydige bog, den bog der er blevet nedsendt i overensstemmelse med Dit uudgrundelige bud og Din uigenkaldelige hensigt.
@@ -15,5 +16,3 @@ Rustet med styrken i Dit navn kan intet nogensinde såre mig, og med Din kærlig
 Nedsend derfor, o min Herre, til mig og til mine elskede det, der vil beskytte os mod misgerningerne fra dem, der har fornægtet Din sandhed og tvivlet på Dine tegn.
 
 Du er i sandhed Den Alherlige, Den Mest Gavmilde.
-
--- Bahá'u'lláh

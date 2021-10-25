@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5195 in Bahasa Indonesia'
+author = 'Abdu'l-Bahá'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 * "Sesungguhnya telah diperintahkan bagimu agar menyelenggarakan selamatan sekali sebulan walaupun yang dihidangkan hanya air saja; karena Allah telah bertujuan untuk menjalin kalbu-kalbu meskipun melalui cara-cara duniawi maupun surgawi ". Bahá’u’lláh
@@ -14,5 +15,3 @@ Ya Tuhan! Hilangkanlah semua hal-hal yang menjadi penyebab perselisihan, dan sed
 *"Engkau masing-masing harus memikirkan bagaimana menggembirakan dan menyenangkan orang lain dalam pertemuan-mu. Setiap orang di antaramu harus menganggap orang lain yang hadir di situ lebih baik dan lebih besar dari dirimu sendiri dan masing-masing harus menganggap dirinya lebih rendah dari yang lain. Anggaplah kedudukan mereka tinggi dan kedudukan dirimu sendiri rendah. Jika engkau berbuat dan hidup sesuai dengan nasihat-nasihat ini , ketahuilah dengan pasti kebenaran ini bahwa Selamatan itu adalah Hidangan Surgawi. Pesta itu adalah 'Pesta Ilahi!' Aku sendiri adalah Hamba kumpulan itu."
 
 *"...Bahkan seandainya ada perasaan sekecil-kecilnya di antara beberapa jiwa yaitu perasaan kekurangan kasih sayang, perasaan itu harus dihilangkan sama sekali ..." ‘Abdu’l-Bahá
-
--- Abdu'l-Bahá

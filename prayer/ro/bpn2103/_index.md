@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2103 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 De spus o dată pe zi
@@ -61,5 +62,3 @@ Lăudat fii Tu, o, Dumnezeul nostru, că ai coborât către noi ceea ce ne va ap
 
 *Să-şi ridice capul, să se aşeze şi să spună:
 Mărturisesc, o, Doamne, Dumnezeul meu, ceea ce au afirmat aleşii Tăi şi recunosc ceea ce au acceptat locuitorii Celui Mai Înalt Paradis, cât şi cei ce se rotesc în jurul Tronului Tăriei Tale. Împărăţiile cerului şi ale pământului sunt ale Tale, o, Stăpânul lumilor!
-
--- Bahá'u'lláh

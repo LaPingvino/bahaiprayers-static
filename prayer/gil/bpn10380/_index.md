@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10380 in Kiribati'
+author = 'Bahá'u'lláh'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 *(Are e tangiria n atonga te tataro aio, ke e tei ao n rairaki nakon Te Atua, ao, ngke e tei i aon ana tabo, e na taraa te angaatai ao te angamaing, n aron ae e tataninga Ana nanoanga te Uea, te Kabanea n Nanoanga, te Moamoaaomata. Ngkanne ke e atonga aei:)
@@ -32,5 +33,3 @@ Te Atua, ae Atuau!  E a bwaoua nuukau n rawawatan au bure, ao e a uruanai au aki
 Te nebonebo Nakoim, O Ngkoe Atuara, bwa Ko a tia ni karuoa nakoiira are e na uotiira ni kaniira Nakoim, ao ni kakatauraoi i bukira ma baike a raraoi ake a tia ni karuoaki mai Iroum n Am Boki nako ao Am Reirei.  Kamanoira, ti Butiiko, O Ngkoe au Uea, mairouia naake akea nanon aia koaua ma aia katautau aika akea uaaia.  Boni Ngkoe, ni koaua, te Korakora, te Kabanea n Ataibwai.
 *(Ke e tabekarake atuuna, ao ni kainetia n tekateka, ao e atonga aei):
 I kakoaua, O Ngkoe Atuau, nakon are a tia ni kakoaua naba iai naake Ko rineiia, ao are a tia ni kaota kakoauaan are a tia ni kakoauaa naba naake kaain te Baretaiti are te kabanea n rietaata ao naake a rarauniia Am Kaintokanuea ae mwaaka.  Bon Am bwai abanuean te aonaaba ao karawa, Ngkoe Uean aonaaba nako!
-
--- Bahá'u'lláh

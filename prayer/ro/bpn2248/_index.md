@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2248 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lăudat şi slăvit eşti Tu, O, Doamne Dumnezeul meu! Cum aş putea vorbi eu de Tine când sunt sigur că nici o făptură oricât de mare ar fi înţelepciunea ei, nu Ţi poate preamări Numele aşa cum se cuvine; şi nici pasărea inimii omeneşti, oricât de mare i ar fi dorul, nu poate nădăjdui să se înalţe în cerul maiestăţii şi cunoaşterii Tale.
@@ -13,5 +14,3 @@ Fereşte mă, O, Doamne, să rostesc cuvinte care în mod necesar implică exist
 Departe, departe de slava Ta fie tot ce muritorul poate spune despre Tine sau Îţi poate atribui, sau laudele cu care Te poate preamări! Oricare ar fi obligaţia pe care ai prescris o slujitorilor Tăi de a-ţi preamări maiestatea şi gloria este doar un semn al harului Tău pe care l ai acordat lor ca să se poată înălţa până la treapta conferită fiinţei lor lăuntrice, treapta cunoaşterii propriului lor eu.
 
 Nimeni, în afară de Tine, n a fost vreodată în stare să înţeleagă taina Ta sau să slăvească aşa cum se cuvine măreţia Ta. De nepătruns şi mult deasupra elogiilor oamenilor vei rămâne în veci. Nu există alt Dumnezeu în afară de Tine, Cel Inaccesibil, Cel Omnipotent, Cel Atotştiutor, Sfântul Sfinţilor.
-
--- Bahá'u'lláh

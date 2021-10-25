@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2794 in Shqip'
+author = 'Bahá'u'lláh'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Perëndia im dhe Mjeshtri im! Unë jam shërbëtori Yt e bir i shërbëtorit Tënd. Unë u ngrita nga shtrati në këtë vakt mëngjesi, kur Ylli i Ditës i Njëshmërisë Sate ka shkëlqyer nga Agimi i vullnetit Tënd, duke derdhur shkëlqimin e vet mbi botën mbarë, në përputhje me atë që është urdhëruar në Librat e Dekretit Tënd.
@@ -9,5 +10,3 @@ Lëvduar qofsh Ti, O Perëndia im, që u zgjuam për shkëlqimet e dritës së d
 Bekoje, O Zot Perëndia im, Atë Që Ti e ke vendosur mbi Titujt e Tu më të shkëlqyer dhe nëpërmjet të Cilit Ti ke ndarë të mirët e të liqtë dhe na ke ndihmuar me dashamirësi të bëjmë atë që do e dëshiron Ti. Bekoji, gjithashtu, O Perëndia im, ata Që janë Fjalët e Shkronjat e Tua dhe ata që i kanë kthyer fytyrat ndaj Teje, që janë kthyer nga fytyra Jote dhe kanë dëgjuar Thirrjen Tënde.
 
 Ti je, me të vërtetë, Zoti e Mbreti i gjithë njerëzve dhe ke pushtet mbi të gjitha gjërat.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12992 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-111', 'bpn-unsorted']
 +++
 *Na vatang ra varvagai a laptikai nae Allah-u-Abha! Ma na vatang gono ra umana pakana tinata ta vinun ma a lavuvat nae. 
@@ -18,5 +19,3 @@ Allah-u-Abha:
 Ave! par, ave tar tavua tuna ma pite pa u Luluai (a vinun ma a lavuvat nae) 
 Allah-u-Abha! 
 Avet par, ave kivovon ma kiung varpa upi ra Luluai (a vinun ma a lavuvat nae)
-
--- Bahá'u'lláh

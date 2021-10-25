@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12477 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-103', 'bpn-unsorted']
 +++
 *TO BE RECITED DAILY, IN THE MORNING, AT NOON, AND IN THE EVENING
@@ -56,5 +57,3 @@ Lo’u Atua e, ia le fa’apologaina o ia o lo’o pipi’i atu ma tamatama’il
  
 
      Ou te molimau atu i Lau aufa’atasiga ma Lou tafatasi, ma o Oe lava o le Atua, ma e leai lava se tasi Atua i tala atu o Oe. E moni sa fa’aalia e Oe Lau Fuata’iga, fa’ataunuuina Lau Feagaiga, ma tatalaina faalautele le faitoto’a o Lou alofa tunoa i tagata uma o nonofo i le Lagi ma luga o le lalolagi. O le faamanuiaga ma le filemu, le faaneetaga ma le mamalu, ia i luga lea o Au pele, o i latou ia e le i mafai ona taofia mai fesuia’iga ma avanoa o le lalolagi mai le liliu atu ia te Oe, ma o ē sa tu’uina atu a latou mea uma i le faamoemoe e maua mai ai le mea o lo’o ia te Oe. E moni, o Oe o le fa’amagalo–Fa’avavau, o le Foa’ialofa–Uma.
-
--- Bahá'u'lláh

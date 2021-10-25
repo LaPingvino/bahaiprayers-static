@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5197 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Dimuliakanlah Nama-Mu, Ya Rabi Tuhanku.
@@ -8,5 +9,3 @@ Engkau melihat hamba wanita-Mu, ya Tuhanku, berdiri di depan takhta rahmat-Mu da
 Aku memohon kepada-Mu, ya Tuhanku, janganlah menyingkirkan mereka yang telah mencari Engkau, dan janganlah menolak mereka yang telah mengarahkan langkah-langkahnya pada-Mu, dan janganlah menjauhkan dari rahmat-Mu, mereka yang cinta pada- Mu.
 
 Ya Tuhanku, Engkau adalah Dia yang telah menamakan Dirinya Tuhan Yang Maha Pengasih, Yang Maha Penyayang. Kasihanilah hamba wanita-Mu yang telah mencari perlindungan pada-Mu dan yang telah menghadapkan wajahnya kepada-Mu. Tiada Tuhan kecuali Engkau, Yang Maha Pengampun, Yang Maha Rahim.
-
--- Bahá'u'lláh

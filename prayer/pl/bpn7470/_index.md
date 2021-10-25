@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7470 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Błagam Cię, o mój Boże, na Twój potężny Znak i na objawienie się Twojej łaski pośród ludzi, abyś nie odpędzał mnie od wrót miasta Twojej obecności i nie zawiódł nadziei, które złożyłem w oznakach Twej łaski pośród Twoich stworzeń. Ty widzisz, o mój Boże, jak trzymam się Twego Imienia: Najświętszy, Najjaśniejszy, Najpotężniejszy, Największy, Najwznioślejszy, Najchwalebniejszy, i jak przylgnąłem do rąbka szaty, do której przylgnęli wszyscy w tym świecie i w świecie, który nastąpi.
@@ -29,5 +30,3 @@ Błagam Cię, o mój Boże, na światło Twego oblicza, które skłoniło tych, 
 Błagam Cię, o mój Boże, na Imię Twoje, przez któreś wysłuchał wołania miłujących Ciebie i westchnień tych, którzy za Tobą tęsknią, i płaczu tych, którzy cieszą się Twoją bliskością, i jęków tych, którzy są Ci oddani, na Imię, przez któreś spełnił życzenia tych, którzy w Tobie złożyli swoje nadzieje, i pozwolił na spełnienie ich pragnień dzięki swojej łasce i swoim dobrodziejstwom, i na Imię, dzięki któremu wezbrał ocean przebaczenia przed Twoim obliczem, a obłoki Twojej hojności zrosiły Twe sługi, abyś zapisał każdemu, kto zwrócił się ku Tobie i zachował nakazany przez Ciebie Post, nagrodę przeznaczoną dla tych, którzy przemawiają jedynie za Twoim pozwoleniem, którzy porzucili wszystko, co posiadają na Twojej ścieżce i z miłości do Ciebie
      
 Błagam Cię, o mój Panie, przez wzgląd na Ciebie samego i na Twoje znaki i Twoje jawne dowody i jaśniejące światło Jutrzenki Twego Piękna i na Twoje Gałęzie, abyś wymazał wykroczenia tych, którzy trzymali się mocno Twoich praw i przestrzegali tego, coś nakazał im w swojej Księdze. Ty widzisz, o mój Boże, że trzymam się Twego Imienia: Najświętszy, Najjaśniejszy, Najpotężniejszy, Największy, Najwznioślejszy, Najchwalebniejszy, i że przylgnąłem do rąbka szaty, do której przylgnęli wszyscy w tym świecie i w świecie, który nastąpi.
-
--- Bahá'u'lláh

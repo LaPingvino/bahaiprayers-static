@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11546 in Español'
+author = 'Abdu'l-Bahá'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Oraciones para la enseñanza tomadas de las Tablas del Plan Divino
@@ -11,5 +12,3 @@ tags = ['lang-es', 'bpn-unsorted']
 ¡Oh Todopoderoso! Somos Tus siervos y Tus pobres; estamos alejados y anhelamos Tu presencia; estamos sedientos del agua de Tu fuente; estamos enfermos y ansiamos Tu curación. Caminamos por Tu sendero y no tenemos otro objetivo ni esperanza que no sea la difusión de Tu fragancia para que todas las almas puedan exclamar: «¡Oh Dios, guíanos al camino recto!». Que sus ojos se abran para ver la luz y sean librados de la oscuridad de la ignorancia. Que se reúnan alrededor de la lámpara de Tu guía. Que los necesitados reciban su parte. Que los desposeídos se conviertan en los confidentes de Tus misterios.
 ¡Oh Todopoderoso! Dirígenos Tu mirada de misericordia. Otórganos confirmación divina. Concédenos el hálito del Espíritu Santo, para que seamos ayudados en Tu servicio y, como estrellas resplande-cientes, brillemos en estas regiones con la luz de Tu guía.
 En verdad, Tú eres el Potente, el Poderoso, el Sabio y el que ve.
-
--- Abdu'l-Bahá

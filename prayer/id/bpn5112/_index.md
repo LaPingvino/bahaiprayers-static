@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5112 in Bahasa Indonesia'
+author = 'Abdu'l-Bahá'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhan, Tuhanku! Engkau adalah Harapanku dan Kekasihku, Tujuanku dan Hasratku yang tertinggi! Dengan sangat rendah hati dan pengabdian sepenuhnya aku berdoa kepada-Mu agar menjadikan daku menara cinta-Mu di negeri-Mu, lampu pengetahuan-Mu di antara makhluk-makhluk-Mu dan panji rahmat keilahian di kerajaan-Mu.
@@ -15,5 +16,3 @@ Biarlah aku berbesar hati dengan kebahagiaan melalui roh kekuatan dari kerajaan-
 *"Berbahagialah mereka yang telah berdiri teguh dalam Agama ini dan menolak untuk berpaling dari kebenaran-Nya pada hari-hari di mana cobaan-cobaan meliputi seluruh dunia".
 
 *"Berbahagialah orang yang telah mendengar suara Kami, dan menjawab panggilan Kami." -- Bahá’u’lláh
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12314 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *Ne fakaasi ki Bahá’ís o te United States mo Canada  
@@ -16,5 +17,3 @@ O te Aliki! Ka fai a te manavaaga o te agaaga Tapu ke fakmmau a te toe mea faiit
 taimi ko teka, ka e ui iei a latou ko toe tafasili i te vaaivai i Au mea ola faiite, ko Au tavini pito sili i te tafalalo kae maulalo seai ne aoga o latou ko la ne ola ite lalolagi, kae ona ko Tau pulega mo te maalosi ne faka-tomua a latou i luga i Ou tino tafasili i te matagofie mo te sili ite maluga ma i tino katoa.  Kae e ui iei a latou pela me ne manu eva foliki, kae mafuli aka a latou pe la me ne ikale mai i kaaiga o tupu, pe la me ne pupugaloto foliki, kae mafuli aka latou pe la ne koga tai, mai i luga i Tau faka-ekeega mo Tou alofa-kaimalie.  Ne fai a latou, ona ko Ou alofaaga tafasili ite takutakua, a fetu ko pula i luga i te sikulagi o takitakiiga, manu eva ko usu usu i te losa o fatoaaga o te ola se gata mai, leona ko pa-kalaga i te toga-vao o te poto mo te atamai, a ko tafola ko kkau i loto i vasa o te ola.  
   
 E tonu, a Koe ko te Maalulu, ko te Maalosi, ko te Mafi, mo te Tafasili i te Kaimalie o te kaimalie.
-
--- Abdu'l-Bahá

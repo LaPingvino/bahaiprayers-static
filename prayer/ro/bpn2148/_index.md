@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2148 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 El este Dumnezeu! O, Doamne
@@ -8,5 +9,3 @@ Dumnezeul meu! Aceştia sunt slujitori care în vremea zilelor Tale au fost atra
 Adăposteşte-i în fortăreaţa ocrotirii şi pazei Tale, apără-i cu grija Ta vigilentă, priveşte-i cu ochii providenţei şi milostivirii tale, fă-i semne ale unităţii Tale divine ce se arată în toate ţinuturile, stindarde ale tăriei Tale ce flutură deasupra palatelor măririi, lămpi strălucitoare ce ard uleiul înţelepciunii Tale în globurile călăuzirii Tale, păsări ale grădinii cunoaşterii Tale ciripind pe ramurile cele mai înalte din paradisul Tău protector şi uriaşi ai oceanului mărinimiei Tale, cufundându-se prin suprema Ta milostivire în adâncuri de nepătruns.
 
 O, Doamne Dumnezeul meu! Umili sunt aceşti slujitori ai Tăi, ridică-i în împărăţia Ta din înalturi; sunt plăpânzi, întăreşte-i prin puterea Ta suverană; sunt înjosiţi, acordă-le glorie în tărâmul Tău cel preaînalt; sunt săraci, îmbogăţeşte-i în marea Ta stăpânire. Hărăzeşte-le, apoi, tot binele pe care l-ai sorocit lumilor Tale, văzute şi nevăzute, fă-i să prospere în această lume pământească, bucură-le inimile cu inspiraţia Ta, o, Stăpâne a tuturor fiinţelor! Luminează-le inimile cu veştile Tale pline de bucurie răspândite prin Rangul Tău Atotslăvit, fă paşii lor statornici în măreţul Tău Legământ şi întăreşte-i în fermul Tău Testament prin mărinimia Ta şi harul Tău făgăduit, o, Tu Cel Milostiv şi Plin de Har! Tu eşti, cu adevărat, Cel Îngăduitor, Cel Atotmărinimos.
-
--- Abdu'l-Bahá

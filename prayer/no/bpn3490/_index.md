@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3490 in Norsk'
+author = 'Bahá'u'lláh'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 *Fremsies en gang i døgnet.
@@ -48,5 +49,3 @@ Lovet være du, o vår Gud, for at du har sendt ned til oss det som drar oss næ
 *La ham derpå løfte hodet, sette seg, og si:
 Jeg vitner, o min Gud, om det som dine utvalgte har vitnet om, og erkjenner det som beboerne av det aller høyeste paradis og de som har kretset rundt din mektige Trone, har erkjent. Jordens og himmelens riker er dine, o Herre over alle verdener!
 *(*) Alláh-u-Abhá.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8251 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Súriy-i-Qalam
@@ -32,5 +33,3 @@ Thus the summons of the Pen regarding this blessed and fated account endeth, in 
 
 *9. Cf. Qur’án 76:1.
 *10. Here begins a dialogue between the Maid of Heaven and Bahá’u’lláh, alternating from paragraph to paragraph.
-
--- Bahá'u'lláh

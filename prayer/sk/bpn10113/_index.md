@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10113 in Slovensky'
+author = 'Bahá'u'lláh'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 ##Tabuľka navštívenia 
@@ -11,5 +12,3 @@ Ovej ma, ó môj Bože a môj Milovaný, z pravej ruky Svojho milosrdenstva a mi
 Spomienka Božia a Jeho chvála, sláva Božia a Jeho nádhera nech spočinú na Tebe, ó Ty, ktorý si Jeho Krásou! Svedčím, že oko stvorenia ešte nikdy nepohliadlo na tak ukrivdeného ako si Ty. Všetky dni Svojho života si bol ponorený do oceánu súženia. Raz si bol v reťaziach a putách, inokedy Ťa ohrozovali meče Tvojich nepriateľov. Napriek tomu si však všetkým ľuďom nariadil, aby dodržiavali to, čo Ti predpísal Ten, ktorý je Vševedúci, Najmúdrejší.
 Nech je môj duch obeťou za všetky krivdy, ktoré si pretrpel a moja duša nech je vykúpením za všetky protivenstvá, ktoré si prestál. Úpenlivo prosím Boha, pri Tebe a pri tých, ktorých tváre boli osvietené nádherou svetla Tvojej tváre a pri tých, ktorí pre lásku k Tebe dodržiavali všetko, čo im bolo prikázané, aby odstránil závoje, ktoré sa dostali medzi Teba a Tvoje stvorenie, a aby si ma obdaril dobrom tohto ako i budúceho sveta. Ty si, vskutku, Všemocný, Najvznešenejší, Najslávnejší, vždy Odpúšťajúci, Najsúcitnejší.
 Žehnaj, ó Pane môj Bože, božskému Lotosovému stromu, jeho listom, vetvám a vetvičkám, kmeňu a výhonkom, tak dlho pokiaľ budú pretrvávať Tvoje najvyššie prídomky a pokiaľ budú trvať Tvoje najvznešenejšie tituly. Ochraňuj ho od zla útočníkov a zástupov tyranie. Ty si, vskutku, Všemocný, Najsilnejší. Požehnaj taktiež, ó Pane môj Bože, Svojim služobníkom a služobníčkam, ktorí Ťa dosiahli. Ty si, vskutku, Najštedrejší, Ten, ktorého milosť je nekonečná. Niet Boha okrem Teba, vždy Odpúšťajúceho, Najštedrejšieho.
-
--- Bahá'u'lláh

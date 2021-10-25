@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10521 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guutiga-aa, tassaannaavunga naatsiiassannguaq, asanninnerpit nunaani Assannit
@@ -11,5 +12,3 @@ Tarravit ataani Ungaluukkavit iluani sikkeralersitsisinnaasumik. Tassaavutit
 puilasuit ernginik uumanartunit tukkusunit kuuttunit Ilinnut uppertut
 uummataannik imerterisoq.
 Guuti unnersiutigineqarli, silarsuit Naalagaat!
-
--- Bahá'u'lláh

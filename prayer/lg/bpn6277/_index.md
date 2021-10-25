@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6277 in Luganda'
+author = 'Abdu'l-Bahá'
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 *Essaala eno, esomwa okugalawo olukungaana lw'ekibiina Ky'omwoyo.
@@ -7,5 +8,3 @@ Ayi Katonda!  Ayi Katonda!  Okuva mu bw'aKabaka bw'obumu Bwo, tutunulire ffe ab'
 Ayi Katonda waffe!  Tuli banafu, Ggwe Oli w'amaanyi, Ow'obuyinza Tuli Bafu, era Ggwe Oli Omwoyo Ogw'ekitiibwa oguwa obulamu!  Tuli betaavu, naye Ggwe atuwa byetwetaaga era ow'amaanyi!
 Ayi Mukama waffe!  Amaaso gaffe gakyuse gatunuulire obwenyi Bwo, obw'obwakabaka; otuliise okuva ku meeza Yo eyo mu Ggulu, n'ekisa Kyo ekingi; Otuyambe wamu n'ekibiina eky'abamalayika Bo abakulu, era otukakase nga oyita mu batukuvu Bo ab'obwakabaka obwomu ggulu.
 Ddala ddala, Ggwe Oli Mugabi, atukwatirwa ekisa, Ggwe alina ebirungi byonna, era ddala Oli Musonyiyi, era ow'ekisa.
-
--- Abdu'l-Bahá

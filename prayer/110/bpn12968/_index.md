@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12968 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 O God bilong mi!  O Yu, Husat i save pogivim ol rong!  O Yu, Husat i save givim ol gutpela presen!  O Yu, Husat i save rausim ol bikpela hevi! 
@@ -13,5 +14,3 @@ O my God!  O Thou forgiver of sins!  Bestower of gifts! Dispeller of afflictions
 Verily, I beseech Thee to forgive the sins of such as have abandoned the physical garment and have ascended to the spiritual world. 
  
 O my Lord! Purify them from trespasses, dispel their sorrows, and change their darkness into light.  Cause them to enter the garden of happiness, cleanse them with the most pure water, and grant them to behold Thy splendors on the loftiest mount.
-
--- Abdu'l-Bahá

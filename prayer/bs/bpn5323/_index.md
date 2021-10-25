@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5323 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Naw-Rúz 
@@ -13,5 +14,3 @@ Ti si Onaj kroz Kojega je podignut znak «Slavljen da si Ti u Svojim djelima», 
 
 Onaj Koji je Tvoj izdanak i svo Tvoje društvo, o, moj Gospodaru, je prekinuo post na ovaj dan nakon što ga je ispoštovao unutar zidova Tvoga dvora, a u žudnji svojoj da Ti udovolji. Namijeni njemu, njima i svima koji su stupili u Tvoje prisustvo u ovim danima, svako dobro koje si odredio u Tvojoj Knjizi. Daruj im, tad, ono što će im koristiti u oba života, u ovom i u onom poslije.
 Ti si, uistinu, Sveznajući, Premudri.
-
--- Bahá'u'lláh

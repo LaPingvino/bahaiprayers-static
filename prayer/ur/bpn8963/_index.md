@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8963 in اُردُو'
+author = 'Bahá'u'lláh'
 tags = ['lang-ur', 'bpn-unsorted']
 +++
 مبارک ہے وہ مقام،
@@ -11,5 +12,3 @@ tags = ['lang-ur', 'bpn-unsorted']
 کی حمد وثناء کی
 جاتی ہے۔
 ۔۔۔حضرت بہآء اﷲ
-
--- Bahá'u'lláh

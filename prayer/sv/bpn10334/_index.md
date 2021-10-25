@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10334 in Svenska'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Du gode Herre! Du har skapat hela mänskligheten av samma ursprung. Du  har bestämt att alla skall tillhöra samma familj.  I Din heliga närvaro är de alla Dina tjänare och hela mänskligheten är i skydd av Ditt tabernakel.  Alla är församlade vid Ditt nådabord och alla är upplysta av Din försyns ljus.
@@ -11,5 +12,3 @@ O Gud, foga alla hjärtan samman.
 O Du gode Fader, Gud! Uppfriska våra hjärtan genom Din
 kärleks vällukt. Upplys våra ögon genom Din lednings ljus. Gläd våra öron med Ditt ords melodi och bevara oss i Din försyns skydd.
 Du är den Mäktige och Starke, Du är den Förlåtande och Du är Den som överser med mänsklighetens brister.
-
--- Abdu'l-Bahá

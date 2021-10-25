@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7565 in Suomi'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Hän on Jumala!
@@ -10,5 +11,3 @@ Oi Herra! Nämä sielut ovat saaneet osakseen katkeraa tuskaa tässä maanpääl
 Oi Herra! Täytä heidän korvansa jumalallisen avun ja nopean voiton säkeillä ja päästä heidät niiden sorrosta, joilla on hirvittävä mahti. Pidätä syntisten käsiä äläkä jätä näitä sieluja raivokkaiden petojen kynsien ja hampaiden raadeltaviksi, sillä he ovat vankeina rakkaudestansa Sinuun, heille on uskottu pyhyytesi salaisuudet ja he seisovat nöyrinä ovellasi ja ovat saavuttaneet ylevät esipihasi.
 Oi Herra! Armollisesti vahvista heitä uudella hengellä ja valaise heidän silmänsä paljastamalla heille yön pimeydessä ihmeiset todistuksesi. Määrää heidän osakseen kaikkea hyvää ikuisten salaisuuksien valtakuntasi runsaudesta, tee heistä kaikkien seutujen yllä säteileviä kirkkaita tähtiä, runsaasti hedelmää kantavia kukoistavia puita, joiden oksia aamunkoiton tuulenviri liikuttaa.
 Sinä totisesti olet Antelias, Mahtava, Kaikkivoipa, Kahlitsematon. Ei ole muuta  Jumalaa kuin Sinä, rakkauden ja laupeuden Jumala, Kaikkein kirkkain, Aina anteeksi antava.
-
--- Abdu'l-Bahá

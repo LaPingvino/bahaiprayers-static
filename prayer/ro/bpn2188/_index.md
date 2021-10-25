@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2188 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Eu nu ştiu, o, Dumnezeul meu, ce este focul pe care l-ai aprins în ţinutul Tău. Pământul nu va putea să-i întunece vreodată splendoarea, nici apa să-i stingă flacăra. Toate popoarele pământului sunt neputincioase în a rezista forţei sale. Mare e binecuvântarea celui ce s-a apropiat de el şi i-a auzit trăznetul.
@@ -9,5 +10,3 @@ Câtorva, o, Dumnezeul meu, le-ai îngăduit, prin harul Tău întăritor, să s
 Te implor, o, Domnul meu, întru acest Foc ce s-a dezlănţuit şi s-a revărsat în lumea creaţiei, să sfâşii vălurile care m-au împiedicat să apar înaintea tronului maiestăţii Tale şi să stau pe pragul porţii Tale. Hărăzeşte-mi, o, Domnul meu, fiecare lucru bun pe care l-ai pogorât în Cartea Ta şi îngăduie-mi să nu fiu îndepărtat de adăpostul milostivirii Tale.
 
 Tu ai puterea de a face ceea ce Îţi place. Tu eşti, cu adevărat, Cel Atotputernic, Cel Preageneros.
-
--- Bahá'u'lláh

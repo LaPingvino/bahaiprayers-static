@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3159 in Afrikaans'
+author = 'Abdu'l-Bahá'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O U vriendelike Here! U het die hele mensheid van dieselfde oorspronklike stam geskape. U het verorden dat almal aan dieselfde huishouding sal behoort. In U Heilige Teenwoordigheid is hulle almal U dienaars, en die hele mensdom word onder U Tabernakel beskut; almal het aan U Tafel van Mildheid bymekaar gekom; almal is verlig deur die lig van U Voorsiening.
@@ -15,5 +16,3 @@ O God! Bring die Allergrootste Vrede tot stand. Bind U, o God, die harte aanmeka
 O U vriendelike Vader, God! Verheug ons harte deur die geur van U liefde. Verhelder ons oë deur die Lig van U Leiding. Verbly ons ore met die melodie van U Woord, en beskerm ons almal in die Vesting van U Voorsienigheid.
 
 U is die Magtige en Kragtige, U is die Vergewende en U is die Een Wat die tekortkominge van die hele mensheid oor die hoof sien.
-
--- Abdu'l-Bahá

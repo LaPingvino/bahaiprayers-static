@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9753 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 *“Bestudeer de Tafel van de Heilige Zeevaarder, opdat u de waarheid leert kennen, en beseft dat de Gezegende Schoonheid toekomstige gebeurtenissen volledig heeft voorzegd. Laat hen die waarnemen gewaarschuwd zijn”  - Abdu’l-Baha
@@ -121,5 +122,3 @@ Allen verzamelden zich rond haar, en zie, zij troffen haar lichaam neergevallen 
 Geprezen zij onze Heer, de Allerhoogste!
 en toen zij haar toestand aanschouwden en slechts één woord begrepen van het door de Jongeling vertelde verhaal, ontblootten zij hun hoofd, scheurden hun gewaad, sloegen zich op het hoofd, vergaten hun vreugde, vergoten tranen en sloegen zich met de handen op de wangen, en dit is waarlijk één van de verborgen smartelijke kwellingen.
 Geprezen zij onze Heer, de Allerhoogste!
-
--- Bahá'u'lláh

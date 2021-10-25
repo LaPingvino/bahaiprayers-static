@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1325 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola De Ahmad
@@ -20,5 +21,3 @@ Tem tu certeza de que, em verdade, quem se afastou desta Beleza afastou-se tamb�
 Aprende bem esta Epístola, ó Ahmad. Entoa-a durante os teus dias e não te abstenhas disso. Pois, verdadeiramente, Deus ordenou a quem a entoasse a recompensa de cem mártires e um serviço em ambos os mundos. Estes favores, Nós te concedemos por generosidade da Nossa parte e mercê da Nossa presença, para que tu sejas dos gratos.
 Por Deus! Se alguém em aflição ou tristeza recitar esta Epístola com sinceridade absoluta, Deus banir-lhe-á o desgosto, resolverá as dificuldades e removerá as aflições.
 Verdadeiramente, Ele é o Misericordioso, o Compassivo. Louvores a Deus, o Senhor de todos os mundos.
-
--- Bahá'u'lláh

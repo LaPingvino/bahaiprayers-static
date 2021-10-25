@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2311 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 ##Rugăciunea lungă de însănătoşire
@@ -52,5 +53,3 @@ Sanctificat eşti Tu, o, Dumnezeul meu! Te rog fierbinte pe generozitatea Ta, pr
 Şi iarăşi Te rog fierbinte, pe aceste cele mai frumoase nume, pe aceste cele mai nobile şi sublime atribute, şi pe Amintirea Ta Cea mai Înălţată, pe Frumuseţea Ta pură şi fără de prihană, şi pe Lumina Ta tăinuită în pavilionul cel mai tainic, şi pe Numele Tău, învăluit în veşmântul nenorocirii în fiece dimineaţă şi seară, să‑l ocroteşti pe purtătorul acestei Tablete binecuvântate, şi pe oricine o recită, şi pe oricine o găseşte, şi pe oricine trece prin preajma casei în care se află ea. 
 Tămăduieşte Tu, atunci, prin ea pe orice bolnav, beteag şi sărman, de orice necaz şi frământare, de orice nenorocire cumplită şi mâhnire, şi călăuzeşte Tu prin ea pe oricine doreşte să păşească pe căile călăuzirii Tale, şi pe cărările iertării şi harului Tău.
 Tu eşti cu adevărat Cel Plin de Forţă, Cel Atotdeajuns, Tămăduirea, Ocrotitorul, Dăruitorul, Cel Plin de Compasiune, Cel Atotgeneros, Cel Atotmilostiv.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3223 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 *Hierdie Tafel by die Heiligdomme van Bahá'u'lláh en die Báb gelees. Dit word ook dikwels gebruik om Hulle jaardae te gedenk.
@@ -19,5 +20,3 @@ Die aandenking aan God en Sy lof, en die heerlikheid van God en Sy luister, rus 
 Mag my gees 'n offer wees vir die onregte wat U gely het, en my siel 'n losprys vir die teenspoede wat U verduur het. Ek smeek God, by U en by hulle wie se gesigte verlig is deur die luister van die lig van U gelaat, en wat, uit liefde vir U, alles nagekom het wat hulle beveel is, om die sluiers te verwyder wat tussen U en U skepsels gekom het, en om my te voorsien van die goeie van hierdie wêreld en die wêreld wat kom. U is, in der waarheid, die Almagtige, die Verhewenste, die Alglorieryke, die Altyd-Vergewende, die Barmhartigste.
 
 Seën U, o Here my God, die Goddelike Lotusboom en sy blare, en sy takke, en sy lote, en sy stamme, en sy spruite, solank U voortreflikste titels sal bly bestaan en U verhewenste eienskappe sal duur. Beskerm dit dan teen die onheil van die aanvaller en die skares van geweldenary. U is, in der waarheid, die Almagtige, die Kragtigste. Seën U, ook, o Here my God, U diensknegte en U diensmaagde wat U bereik het. U is, voorwaar, die Almilddadige, Wie se genade oneindig is. Geen God is daar behalwe U nie, die Ewig-Vergewende, die Vrygewigste.
-
--- Bahá'u'lláh

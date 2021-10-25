@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4854 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey Mərhəmətli Allah! Sən Ey Qüdrətli və Qüvvətli! Sən Ey Ən Mehriban Ata! Bu bəndələr bir yerə toplaşıblar, Sənə dönüblər, Sənin astanana yalvarırlar, Sənin böyük vədindən sonsuz nemətlərini arzulayırlar. Sənin razılığından başqa məqsədləri, insanlıq aləminə xidmətdən savayı niyyətləri yoxdur.
@@ -9,5 +10,3 @@ Ey Allah! Bu toplantını işıqsaçan eylə. Ürəkləri mərhəmətli eylə. M
 Ey Mehriban Ata! Lütflərini əta et, qüsurlarımıza baxma. Himayəndə bizə pənah ver. Günahlarımızı anma. Şəfqətinlə bizə şəfa ver. Biz zəifik; Sən Qüdrətlisən. Biz fəqirik; Sən Zənginsən. Biz xəstəyik; Sən Həkimsən. Biz möhtacıq; Sən Kərimsən.
 
 Ey Allah! Bizə Öz inayətini əta eylə. Sən Qüvvətlisən. Sən Bəxşedənsən. Sən Şəfqətlisən.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6131 in Chamorro'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 Asaina! Manna’ma’ase’ ham, na’i ham ni fabot-Mu; mamopble ham, na’i ham patte ginen i tasen i guinaha-Mu; meggai in nisisita, Hagu Un satesfecho ham; manmagacha’; na’i ham ni gloria-Mu. I paharo gi aire yan i ga’ga’ gi tano’ ma risisibi i aggon-ñiha kada diha ginen Hagu ya todu i manaotao mañasaonao gi inadahi-Mu yan gi yine’ase’ ginefli’e’-Mu.
@@ -11,5 +12,3 @@ Lord! Pitiful are we, grant us Thy favor; poor, bestow upon us a share from the 
 Deprive not this feeble one of Thy wondrous grace and vouchsafe by Thy might unto this helpless soul Thy bounty.
 
 Give us our daily bread, and grant Thine increase in the necessities of life, that we may be dependent on none other but Thee, may commune wholly with Thee, may walk in Thy ways and de- clare Thy mysteries. Thou art the Almighty and the Loving and the Provider of all mankind.
-
--- Abdu'l-Bahá

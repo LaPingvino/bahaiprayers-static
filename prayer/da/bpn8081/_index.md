@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8081 in Dansk'
+author = 'Abdu'l-Bahá'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O Du gode Herre! Du har skabt hele menneskeheden fra den samme stamme. Du har bestemt, at alle skal tilhøre den samme slægt. I Din hellige nærværelse er de alle Dine tjenere, og hele menneskeslægten er skærmet under Dit tabernakel; alle er samlet ved Din gavmildheds bord; alle er oplyst af Dit forsyns lys.
@@ -17,5 +18,3 @@ Knyt Du hjerterne fast sammen, o Gud.
 O Du gode Fader, Gud! Glæd vore hjerter med Din kærligheds duft. Gør vore øjne klare ved hjælp af lyset i Din ledelse. Fryd vore øren med Dit Ords musik og skærm os alle i Dit forsyns fæstning.
 
 Du er Den Mægtige og Magtfulde, Du er Den Tilgivende, og Du er den der bærer over med menneskeslægtens brist.
-
--- Abdu'l-Bahá

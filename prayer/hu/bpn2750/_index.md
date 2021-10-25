@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2750 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 A böjt
@@ -17,5 +18,3 @@ Dicsőség Néked, ó, Uram, én Istenem! Könyörgöm Hozzád ezen Kinyilatkozt
 Ezek a napok, ó, Uram, melyekben megparancsoltad szolgáidnak a böjtöt. Áldott, ki azt teljesen a Te kedvedért tartja meg, tökéletesen elfordulva minden mástól Rajtad kívül. Segíts engem, ó, Uram, és őket is, hogy engedelmeskedjünk Néked és megtartsuk rendeléseidet. Valóban, hatalmad van megtenni, amit csak kívánsz.
 
 Nincsen más Isten, csak Te, a Mindenek Tudója, a Mindenek Felett Bölcs. Minden dicsőség Istennek, minden világok Urának!
-
--- Bahá'u'lláh

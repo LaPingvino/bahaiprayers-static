@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2349 in Latviešu'
+author = 'Bahá'u'lláh'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Skaitāma ik dienas no rīta, pusdienā un vakarā
@@ -36,5 +37,3 @@ Es apliecinu Tavu vienību un vienesmi, un to, ka Tu esi Dievs un ka nav cita Di
 *Un tāpat arī pietiktu, ja viņš sēžot sacītu:
 
 “Es apliecinu Tavu vienību un vienesmi un to, ka Tu esi Dievs un ka bez Tevis nav cita Dieva.”
-
--- Bahá'u'lláh

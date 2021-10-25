@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2443 in Latviešu'
+author = 'Bahá'u'lláh'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Šo vēstuli lasa Bahá’u’lláh un Báb svētnīcās. To bieži izmanto, atzīmējot Viņu piemiņas dienas.
@@ -12,5 +13,3 @@ Dieva pieminēšana un Viņa slavināšana, un Dieva godība, un Viņa gaišums 
 Lai mans gars kļūst par upuri tām pārestībām, kādas izcieti Tu, un lai mana dvēsele izpērk tās nelaimes, kādām tiki pakļauts Tu. Es lūdzu Dievu, piesaucot Tevi un tos, uz kuru sejām ir atspīdējis Tava vaiga gaismas spožums un kas aiz mīlas pret Tevi ir ievērojuši visu, kas viņiem tika likts, lai Viņš norauj tos plīvurus, kas ir nākuši starp Tevi un Tavu radību, un dod man šīs pasaules un nākamās pasaules labumus. Tu esi, patiesi, Visvarenais, Viscēlais, mūžam Piedodošais, Vislīdzjūtīgais.
 Svētī, ak Dievs, mans Kungs, Dievišķo Lota Koku un tā lapas, un tā zarus un stumbru, un tā atvases tik ilgi, kamēr pastāvēs Tavi visdižākie tituli, un tik ilgi, kamēr spēkā būs Tavas viscildenākās īpašības. Tad pasargi to no agresoru tīkojumiem un tirānu pulkiem. Tu esi, patiesi, Visvarenais un Visspēcīgais. Tāpat svētī, ak Dievs, mans Kungs, Savus kalpus un Savas kalpones, kas ir iemantojuši Tavu tuvumu.
 Patiesi, Tu esi Visdāsnais, un Tava žēlastība ir nebeidzama. Nav cita Dieva bez Tevis, mūžam Piedodošā, Visaugstsirdīgā.
-
--- Bahá'u'lláh

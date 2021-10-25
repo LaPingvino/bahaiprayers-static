@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12101 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ”Gembiralah orang yang merenungkan dalam kalbunya apa yang telah diwahyukan dalam Kitab-Kitab Tuhan, Penolong dalam Bahaya, Yang Berdiri Sendiri.”
@@ -11,5 +12,3 @@ tags = ['lang-104', 'bpn-unsorted']
 
 
 ”Gembiralah orang yang telah berdiri teguh dalam Akidah ini dan menolak untuk berpaling daripada kebenaran-Nya pada hari-hari ketika cubaan-cubaan meliputi seluruh dunia.”
-
--- Bahá'u'lláh

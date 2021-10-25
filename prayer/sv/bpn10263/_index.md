@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10263 in Svenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 ##MEDELLÅNG OBLIGATORISK BÖN
@@ -30,5 +31,3 @@ O min Gud, svik ej honom, som med bönfallande fingrar har klamrat sig fast vid 
 Jag bär vittnesbörd om Din odelbarhet och Din enhet, att Du är Gud och att det ej finns någon Gud jämte Dig. Du har sannerligen uppenbarat Din sak, fullbordat Ditt förbund och ställt Din nåds dörr vidöppen för alla som dväljs i himmel och på jord. Låt välsignelse och frid, hyllning och ära vila över Dina älskade, vilka världens förändringar och tillfälligheter ej avhållit från att vända sig till Dig, och vilka givit sitt allt i hopp om att uppnå det som är hos Dig. Du är i sanning den evigt Förlåtande, den Allvälgörande.
 
 Om någon i stället för den långa versen väljer att läsa dessa ord: ”Gud betygar att det ej finns någon annan Gud än Han, Hjälpen i farans stund, Den i sig själv varande,” vore det tillräckligt. Likaså vore det tillräckligt om han sittande väljer att läsa dessa ord: ”Jag bär vittnesbörd om Din odelbarhet och  Din enhet, att Du är Gud och att det ej finns någon Gud jämte Dig.”
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12476 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-103', 'bpn-unsorted']
 +++
 ##SHORT OBLIGATORY PRAYER
@@ -23,5 +24,3 @@ E leai lava se tasi Atua na o Oe, o le Fesoasoani i Puapugā, o le Puna– o–
 *“O le uiga o taimi; ‘taeao’, ‘aoauli’, ma le ‘afiafi’ e pei ona tā’ua mo le faia ai o Tatalo e fa’apenei. O le ‘taeao’, e amata mai i na ua oso le lā seia oo i le aoauli, o le ‘aoauli’, e amata mai i le tu tonu o le la seia oo i le goto o le la, a’o le ‘afiafi’ e mai le uma o le goto o le la seia maea le lua itula talu mai le la goto”.
 
 *- Oto’otoga mai Tusi Tulafono itulau 36
-
--- Bahá'u'lláh

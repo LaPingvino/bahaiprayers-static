@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4897 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 *Həzrət Əbdül-Bəha tərəfindən nazil olmuş bu dua, Onun Astanasında oxunur. Bu həmçinin şəxsi dua kimi də oxuna bilər.
@@ -17,5 +18,3 @@ Ya Rəbb, mənim Allahım! Fəzlini mənə bağışla ki, Sənin sevimlilərinə
 Bu münacat ilə Sənin bu bəndən səhər və axşam Sənə üz tutur. Onun ürəyinin arzusunu yerinə yetir, İlahi! Onun ürəyini nurlandır, könlünü sevindir və çırağını yandır ki, Sənin Əmrinə və Sənin bəndələrinə xidmət etsin.
 
 Sən Bəxşedən, Mərhəmətli, Kəramətli, Fəzl Sahibi, Rəhmli və Şəfqətlisən.
-
--- Abdu'l-Bahá

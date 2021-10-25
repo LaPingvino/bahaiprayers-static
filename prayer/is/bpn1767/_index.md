@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1767 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *Í Kitáb-i-Aqdas segir: „Vér höfum boðið yður að biðja og fasta frá upphafi fullþroska (15 ára aldri); þetta er ákvarðað af Guði, Drottni yðar og Drottni feðra yðar. . . . Ferðalangurinn, hinn sjúki, konur sem eru barns­hafandi eða hafa barn á brjósti, þurfa ekki að fasta. . . . Neytið hvorki matar né drykkjar frá sólarupprás til sól­seturs, og varist að láta ástríðu svipta yður þeirri náð, sem áformuð er í þessari bók.“
@@ -19,5 +20,3 @@ tags = ['lang-is', 'bpn-unsorted']
 Ég sárbæni Þig, ó Guð minn, við ljós ásýndar Þinnar sem knýr þá sem eru nálægir Þér til að mæta skeytum ákvörðunar Þinnar og þá sem eru helgaðir Þér að mæta sverði óvina Þinna á vegi Þínum, að rita niður fyrir mig með upphafnasta penna Þínum það sem Þú hefur ritað niður fyrir trúnaðarvini Þína og Þína útvöldu. Þú sérð mig, ó Guð minn, halda í nafn Þitt, hið helgasta og skærasta, máttugasta og æðsta, upphafnasta og dýrlegasta, og taka föstu taki um fald þess kyrtils sem allir í þessum heimi og þeim sem kemur hafa tekið í.
 Ég sárbæni Þig, ó Guð minn, við nafn Þitt sem Þú hefur látið hlýða á kall ástvina Þinna og andvörp þeirra sem þrá Þig og hróp þeirra sem njóta návista við Þig og kveinstafi þeirra sem eru helgaðir Þér og sem Þú hefur látið uppfylla óskir þeirra sem hafa sett vonir sínar á Þig og gefið þeim það sem þeir báðu um vegna náðar Þinnar og hylli og við nafn Þitt sem hefur látið úthaf fyrirgefningar brima frammi fyrir ásýnd Þinni og rigna úr skýjum örlætis Þíns yfir þjóna Þína, að rita niður fyrir hvern þann sem hefur snúið sér til Þín og haldið föstuna sem Þú fyrirskipaðir, endurgjaldið sem ákvarðað er þeim sem ekki mæla nema þeir hafi fengið leyfi Þitt og sem yfirgáfu allt sem þeir áttu á vegi Þínum og vegna ástar á Þér.
 Ég sárbæni Þig, ó Drottinn minn, við sjálfan Þig og tákn Þín og skýr ummerki og skínandi ljós sólar fegurðar Þinnar og greinar Þínar, að ógilda mis­gerðir þeirra sem hafa haldið fast við lög Þín og gætt þess sem Þú hefur boðið þeim í bók Þinni. Þú sérð mig, ó Guð minn, halda í nafn Þitt, hið helgasta og skærasta, máttugasta og æðsta, upp­hafnasta og dýrlegasta, og taka föstu taki um fald þess kyrtils sem allir í þessum heimi og þeim sem kemur hafa tekið í.
-
--- Bahá'u'lláh

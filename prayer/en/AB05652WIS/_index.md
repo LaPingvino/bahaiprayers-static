@@ -1,5 +1,6 @@
 +++
 title = 'Prayer AB05652WIS in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'AB05652WIS']
 +++
 He is God!
@@ -8,5 +9,3 @@ O Thou kind Lord!  Make Thou this marriage to bring forth coral and pearls.  Tho
 
 *1. Qur'án 3:67.
 *2. Qur'án 56:62.
-
--- Abdu'l-Bahá

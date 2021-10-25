@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3917 in Hrvatski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 O, Bože! U Tebi tražim utočište i prema Tvom znamenju upravljam svoje srce.
@@ -15,5 +16,3 @@ O Bože, moj Bože! Ti si moja Nada i moj Ljubljeni, moj najviši Cilj i Želja!
 Pribroj me onim Tvojim slugama koji su se odvojili od svega osim od Tebe, koji su se očistili od prolaznih stvari ovoga svijeta i oslobodili se šapta podsticatelja jalovih maštanja.
 
 Neka se moje srce ispuni radošću i duhom potvrde iz Tvog Kraljevstva, a moje oči razvedre pogledom na vojske božanske pomoći koje se neprekidno spuštaju na mene iz Kraljevstva Tvoje svemoguće slave. Ti si, uistinu, Svemoćni, Sveslavljeni i Svemogući.
-
--- Abdu'l-Bahá

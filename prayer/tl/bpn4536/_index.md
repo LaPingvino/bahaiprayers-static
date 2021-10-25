@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4536 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 *Ang Paningit na mga Araw, Pebrero 26 hanggang Marso 1, ay mga araw ng paghahanda para sa Pag-aayuno, mga araw ng magiliw na pagtanggap sa mga panauhin, pagkakawanggawa at pagbibigay ng mga handog.
@@ -13,5 +14,3 @@ Nakikita Mo, O aking Panginoon, kung paano nila kinilala at isinaysay ang anuman
 Isinasamo ko sa Iyo, O Ikaw na Hari ng mga Hari at Mahabagin sa mga api, na iatas para sa kanila ang mabuti ng daigdig na ito at ng daigdig na darating. Isulat din para sa kanila yaong hindi natuklasan ng sinuman sa Iyong mga nilalang at ibilang sila sa mga nakapaligid sa Iyo at nagsisikilos na palibot sa Iyong trono sa bawat daigdig ng Iyong mga daigdig.
 
 Ikaw, tunay, ang Makapangyarihan sa Lahat, ang Nakababatid ng Lahat, ang Nakatatalos ng Lahat.
-
--- Bahá'u'lláh

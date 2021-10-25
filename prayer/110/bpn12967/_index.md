@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12967 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 Wanpela man o meri i mas kolim dispela prea taim olgeta i bung na sanap.  Bihain long prea ol i ken planim bodi.  Sapos dispela Bahá’í , husat i dai, em meri, orait senisim prea na tok olsem: "Dispela em wokmeri bilong Yu na pikinini meri bilong wokmeri bilong Yu..." 
@@ -34,5 +35,3 @@ We all, verily, are devoted unto God. (19 times) AllÆh-u-AbhÆ!
 We all, verily, give praise unto God. (19 times) AllÆh-u-AbhÆ! 
 We all, verily, yield thanks unto God. (19 times) AllÆh-u-AbhÆ! 
 We all, verily, are patient in God. (19 times)
-
--- Bahá'u'lláh

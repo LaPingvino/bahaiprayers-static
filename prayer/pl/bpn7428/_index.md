@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7428 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Uzdrowicielem, Wystarczającym, Pomagającym, Wszystko Przebaczającym, Wszechmiłosiernym.
@@ -173,5 +174,3 @@ O Ty, wiecznie Trwający, o Ty, który Trwasz!
 Przenajświętszy jesteś, o mój Boże! Błagam Cię na Twoją hojność, przez którą rozpostarły się wrota Twojej szczodrości i łaski, przez którą Świątynia Twojej Świętości została ustanowiona na tronie wieczności, i na Twoje miłosierdzie, przez któreś zaprosił wszystkie stworzone rzeczy do stołu swoich szczodrości i dobrodziejstw, i na Twoją łaskę, przez którą Tyś w swojej własnej Osobie odpowiedział swoim słowem „Tak” w imieniu wszystkich, którzy są w niebie i na ziemi, w godzinie, w której objawiły się Twoja wszechwładza i Twoja wspaniałość, o świcie, o którym ujawniła się potęga Twojego panowania. I jeszcze raz błagam Cię na te najpiękniejsze imiona i te najszlachetniejsze i najwspanialsze przymioty oraz na Twoje najwznioślejsze Wspomnienie i na Twoje czyste i nieskalane Piękno, i na Twoją utajoną Światłość w najbardziej utajonym przybytku, i na Twoje Imię przyodziane co rano i co wieczór szatą nieszczęść, abyś chronił tego, który posiada tę błogosławioną Tablicę, i tego, który ją recytuje, i tego, który ją znajdzie, i tego, który przechodzi obok domu, w którym się ona znajduje. Ulecz zatem dzięki niej każdego cierpiącego, chorego, i biednego z każdej udręki i cierpienia, z każdej przykrej dolegliwości i smutku, i z jej pomocą poprowadź każdego, ktokolwiek tego pragnie, na ścieżki Twojego przewodnictwa i na drogi Twojego przebaczenia i łaski.
      
 Tyś zaprawdę jest Potężnym, Wszechwystarczającym, Uzdrawiającym, Ochraniającym, Dającym, Współczującym, Najhojniejszym, Najmiłosierniejszym.
-
--- Bahá'u'lláh

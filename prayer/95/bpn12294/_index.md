@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12294 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O Koe ko te Fakasoasoa!  Ko oti a Koe ne manava mai i luga i taugasoa i te Togala a te manogi gali o te Agaaga Tapu, kae mai i te mainaaga o te takitakiiga faka-te-lagi ko oti ne fakamaina ne koe a te lagi ite toigala.  Ko oti ne fai ne Koe a latou ko la ne mao ke fakapilipili atu kia Koe; latou ko la ne tino foou ke fai pe la me ne taugasoa fakapelepele; Ko oti ne fago aka ne Koe a latou ko la ne moe; Ko oti ne fai ne koe a latou ko la se fakalogo ke fakalogo.  
@@ -9,5 +10,3 @@ O Koe ko te Fakasoasoa!  Fesoasoani Koe ki taugasoa e maua ne latou a Tou fiafia
 O Koe kote Faka-soasoa! A te manakoga faka-pelepele o te tavini tenei o Tau Mataloa ko te sai fakatasi a taugasoa mai ite Saegala mo te Togala; ke lavea katoa a tino o te kaaiga o tagata e luku fakatasi ise lukuuga takutakua i te alofa, pe la loa mo motimotiiga o vai e sali ki te koga tai tafasili i te lasi; ke fusi tasi katoa pe la mo manu eva i te fatoaaga o pula losa, pe la mo penina o te vasa e tasi, pe la mo lau lakau o te lakau ola e tasi, pela foki mo kavei o te laa e tasi.  
   
 Koe ko te Mafi, ko te Maalosi, mo Koe ko te Atua o te maalosi, ko te SiliKatoatoa, ko te Lavea-Katoatoa.
-
--- Abdu'l-Bahá

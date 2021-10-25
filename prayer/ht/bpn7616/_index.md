@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7616 in Kreyol Ayisyen'
+author = 'Bahá'u'lláh'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Nan Non Bondye, Sila a Ki Pi Ansyen an, Pi Gran an. 
@@ -53,5 +54,3 @@ Nan Non Bondye, Sila a Ki Pi Ansyen an, Pi Gran an.
 	An verite, Mwen te tande apèl Ou, O Byeneme Tout-Gloriye a; e kounyeya figi Bahá a anflame avèk chalè difikilte e avèk dife pawòl Ou k’ap klere; Li te leve avèk fidelite nan lotèl sakrifis la, pandan L’ap gade nan direksyon bon plezi Ou, O Ou menm Ki Bay Lòd nan tout mond yo. 
 	O ‘Alí-Akbar, remèsye Senyè Ou poutèt Epit sa a kote ou kapab respire pafen dousè Mwen an, e kote ou kapab konprann sa ki te rive Mwen sou chemen Bondye, Sila a yo Adore a nan tout mond yo. 
 	Si tout sèvitè yo ta li epi reflechi sou Epit sa a, pral gen yon dife ki limen nan venn yo ki pral mete dife nan tout mond yo.
-
--- Bahá'u'lláh

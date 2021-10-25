@@ -1,5 +1,6 @@
 +++
 title = 'Prayer AB02866 in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'AB02866']
 +++
 O Lord, my God and my Haven in my distress!  My Shield and my Shelter in my woes!  My Asylum and Refuge in time of need and in my loneliness my Companion!  In my anguish my Solace, and in my solitude a loving Friend!  The Remover of the pangs of my sorrows and the Pardoner of my sins!
@@ -13,5 +14,3 @@ O God, my God!  Stay not from me the gentle gales of Thy pardon and grace, and d
 ‘Neath the shade of Thy protecting wings let me nestle, and cast upon me the glance of Thine all-protecting eye.
 Loose my tongue to laud Thy name amidst Thy people, that my voice may be raised in great assemblies and from my lips may stream the flood of Thy praise.
 Thou art, in all truth, the Gracious, the Glorified, the Mighty, the Omnipotent.
-
--- Abdu'l-Bahá

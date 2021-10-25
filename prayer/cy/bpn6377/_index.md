@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6377 in Cymraeg'
+author = 'Bahá'u'lláh'
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 ##Long Obligatory Prayer 
@@ -66,5 +67,3 @@ Moliant fyddo i Ti, O ein Duw, am fod wedi anfon i lawr atom yr hyn sydd yn ein 
 *Yna bydded iddo godi ei ben, ac eistedd, a dweud:
 
 Tystiaf, O fy Nuw, i’r hyn y mae Dy Etholedigion wedi tystiolaethu iddo, a chydnabdyddaf yr hyn y mae trigolion yr holl-uchel Baradwys a’r rhai sydd wedi amgylchynu Dy Orseddfainc nerthol wedi cydnabod.  Eiddo Ti yw teyrnasoedd nef a daear, O Arglwydd y bydoedd!
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10365 in Svenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 *Ur Kitáb-i-Aqdas:
@@ -20,5 +21,3 @@ Jag bönfaller Dig, o min Gud, vid Din kärleks eld, vilken jagade sömnen ur ö
 Jag bönfaller Dig, o min Gud, vid ljuset från Ditt anlete, vilket drev dem som är Dig nära att möta Ditt påbuds pilar och dem som är Dig hängivna att möta Dina fienders svärd på Din väg, att nedskriva för mig med Din mest upphöjda penna vad Du nedskrivit för Dina betrodda och Dina utvalda. Du ser mig, o min Gud, hålla fast vid Ditt namn, det heligaste, det mest lysande, det mäktigaste, det största, det mest upphöjda, det härligaste och klamra mig fast vid fållen till den klädnad, vid vilken alla i denna världen och i den kommande världen har hållit fast.
 Jag bönfaller Dig, o min Gud, vid Ditt namn varigenom Du har lyssnat till ropen från dem som älskar Dig och suckarna från dem som längtar efter Dig, ropen från dem som har kommit Dig nära och jämmern från dem som är Dig hängivna, och genom vilket Du har uppfyllt önskningarna från dem, som har ställt hoppet till Dig och har givit dem vad de åstundade genom Din nåd och Din ynnest, och vid Ditt namn, varigenom förlåtelsens ocean svallade inför Ditt anlete och Din givmildhets moln lät sitt regn strömma ned över Dina tjänare, att nedskriva för var och en som vänt sig till Dig och iakttagit fastan som föreskrivits av Dig, belöningen påbjuden för dem som ej talar utom med Din tillåtelse och som försakat allt de ägde på Din väg av kärlek till Dig.
 Jag bönfaller Dig, o min Herre, vid Dig och vid Dina tecken och Dina tydliga bevis och vid det strålande ljuset från Din skönhets Morgonstjärna och vid Dina grenar, att bortse från överträdelserna av dem som har hållit fast vid Dina lagar och iakttagit vad Du föreskrivit dem i Din bok. Du ser mig, o min Gud, hålla fast vid Ditt namn, det heligaste, det mest lysande, det mäktigaste, det största, det mest upphöjda, det härligaste och klamra mig fast vid fållen till den klädnad, vid vilken alla i denna världen och i den kommande världen har hållit fast.
-
--- Bahá'u'lláh

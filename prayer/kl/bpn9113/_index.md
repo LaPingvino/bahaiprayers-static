@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9113 in Kalaallisut'
+author = 'Bahá'u'lláh'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 ##Pinngitsoorani qinnut takkajaaq
@@ -34,5 +35,3 @@ Ataasiussutsinnik Ilivitsuussutsinnillu nalunaajaavunga, Illillu Guutiuninnik, a
 *(Kinaluunniit versip taassuma takisuup oqaatiginissaa pinnagu kissaateqaruni oqaatsit uku oqaatigiumallugit: “Guutip nalunaajarpaa, allamik Namminiunngitsumik Guuteqanngitsoq, Ajornartorsiorfimmi Ikiorti, Imminut-Napatittoq” taava tamanna naammassaaq.
 
 *Aammattaaq taamatut naammassaaq issialluni oqaatsit uku oqaatigerusukkunigit: “Ataasiussutsinnik Ilivitsuussutsinnillu nalunaajaavunga, aammalu Illit Guutiusutit, allamittaaq Guuteqanngitsoq taamaallaat Illit.”)
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11518 in Español'
+author = 'Báb'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Señor! A Ti acudo en busca de amparo, y hacia todos Tus signos oriento el corazón.
@@ -7,5 +8,3 @@ tags = ['lang-es', 'bpn-unsorted']
 Concédeme, pues, Tu ayuda suficiente para hacerme independiente de todas las cosas, oh Tú a Quien nadie supera en misericordia.
 Otórgame mi parte, oh Señor, como sea de Tu agrado, y haz que me sienta satisfecho con lo que hayas decretado para mí.
 Tú tienes autoridad absoluta para ordenar.
-
--- Báb

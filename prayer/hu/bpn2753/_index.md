@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2753 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *„A Naw-Rúz ünnepséget tartsátok március 21-én napnyugta előtt. Nincs semmi köze a Tizenkilenc Napi Ünnephez. Az utóbbi adminisztratív jelentőségű, míg a Naw-Rúz az újévi ünnepségünk, a vendégszeretet és az öröm ünnepe.” —egy Shoghi Effendi nevében írt levélből
@@ -13,5 +14,3 @@ Miként felékesítetted őket a Tőled rendelt böjt díszével, ó, Uram, úgy
 A Te Ágad és minden kísérőd, ó, Uram, befejezte ma böjtjét, miután megtartotta azt a Te udvarodban, lelkesen, hogy örömöt szerezzen Néked. Rendeld Néki és nékik és mindenkinek, kik ama napokban közeledbe jutottak, mindazt a jót, amit nékik szántál Könyvedben. Majd lásd el őket mindazzal, ami hasznos számukra úgy ebben, mind az eljövendő életben.
 
 Valóban, Te vagy a Mindenek Tudója, a Mindenek Felett Bölcs.
-
--- Bahá'u'lláh

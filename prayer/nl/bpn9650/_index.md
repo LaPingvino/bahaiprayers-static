@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9650 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Ik loof U, o mijn God, dat Gij mij uit mijn slaap deed ontwaken en mij uit mijn verzonken-zijn hebt geroepen en mij uit mijn sluimer deed verrijzen. Ik ben deze morgen ontwaakt met mijn gelaat geheven naar de pracht van de Dagster van Uw Openbaring, die de hemelen van Uw macht en Uw majesteit heeft verlicht; ik erken Uw tekenen, geloof in Uw Boek en houd vast aan Uw koord.
@@ -7,5 +8,3 @@ Ik smeek U, bij de macht van Uw wil en de dwingende kracht van Uw doel, om hetge
 Bestemt Gij met Uw verhevenste Pen voor mij, o mijn Heer, het goede van deze wereld en van de volgende. Ik betuig dat de teugels aller dingen in Uw greep liggen. Gij verandert ze naar Uw behagen. Geen God is er buiten U, de Sterke, de Getrouwe.
 Gij zijt Degeen die door Zijn gebod vernedering in heerlijkheid verandert en zwakte in kracht, machteloosheid in macht, vrees in rust en twijfel in zekerheid. Geen God is er dan Gij, de Machtige, de Weldadige.
 Gij stelt niemand die U zoekt teleur noch houdt Gij iemand die naar U verlangt van U af. Bestemt Gij voor mij hetgeen de hemel van Uw edelmoedigheid en de oceaan van Uw milddadigheid past. Gij zijt waarlijk de Almachtige, de Krachtigste.
-
--- Bahá'u'lláh

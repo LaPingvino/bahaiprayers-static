@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn665 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 #EINMAL IN 24 STUNDEN ZU SPRECHEN
@@ -34,5 +35,3 @@ O Gott, mein Gott! Mein Rücken ist gebeugt von der Bürde meiner Sünden, und m
 Preis sei Dir, o unser Gott, dass Du auf uns herabsandtest, was uns Dir nahebringt, und uns mit allem Guten versorgtest, was Du in Deinen Büchern und Schriften auf uns niederkommen ließest. Beschütze uns - so flehen wir Dich an, o mein Herr - vor den Scharen eitlen Wahns und leeren Trugs. Du bist in Wahrheit der Mächtige, der Allwissende.
 *Dann erhebe er das Haupt, setze sich und spreche:
 Ich bezeuge, o mein Gott, was Deine Erwählten bezeugen, und bekenne, was die Bewohner des höchsten Paradieses bekennen und die, die Deinen mächtigen Thron umkreisen: Dein sind die Reiche der Erde und des Himmels, o Herr der Welten!
-
--- Bahá'u'lláh

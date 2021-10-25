@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11684 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh mi Dios! Tú has ordenado a Tus siervos observar el ayuno durante estos días. Con él adornaste el preámbulo del Libro de Tus Leyes revelado a Tus criaturas, y engalanaste a los Depositarios de Tus mandamientos ante la vista de todos los que están en Tu cielo y todos los que están en Tu tierra. Tú has dotado cada hora de estos días con una virtud especial, inescrutable para cualquier otro que no seas Tú, Cuya sabiduría abarca todo lo creado. También has asignado a cada alma una porción de esta virtud, de acuerdo con la Tabla de Tu decreto y las Escrituras de Tu juicio irrevocable. Además, has asignado cada página de estos Libros y de estas Escrituras a cada uno de los pueblos y razas de la tierra.
@@ -11,5 +12,3 @@ Haz descender, pues, sobre nosotros, oh mi Dios, lo que sea propio de Tu gracia 
 Tú ves, oh mi Dios, lo que les ha sucedido a Tus amados en Tus días. ¡Tu gloria es mi testigo! El clamor de los lamentos de Tus elegidos se ha elevado por todo Tu reino. Algunos fueron presa de las intrigas de los infieles de Tu tierra, quienes les impidieron gozar de Tu cercanía y alcanzar la corte de Tu gloria. Otros pudieron acercarse a Ti, pero se les impidió contemplar Tu rostro. Y a otros, en su anhelo por verte, se les permitió entrar en los recintos de Tu corte, pero dejaron que los velos de las imagina-ciones de Tus criaturas y los males infligidos por los opresores de entre Tu pueblo se interpusieran entre ellos y Tú.
 Esta es la hora, oh mi Señor, que Tú has hecho que supere a cualquier otra hora, y la has vinculado a las más escogidas de entre Tus criaturas. Te imploro, oh mi Dios, por Ti mismo y por ellas, que ordenes a lo largo de este año lo que enaltezca a Tus amados. Decreta, además, en este año, lo que permita que el Sol de Tu poder resplandezca sobre el horizonte de Tu gloria e ilumine al mundo entero mediante Tu soberano poder.
 Haz victoriosa a Tu Causa, oh mi Señor, y humilla a Tus enemigos. Decreta, pues, para nosotros el bien de esta vida y de la venidera. Tú eres la Verdad, Quien conoce las cosas secretas. No hay Dios sino Tú, Quien siempre perdona, el Todogeneroso.
-
--- Bahá'u'lláh

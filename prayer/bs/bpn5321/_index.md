@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5321 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Ploča Vatre 
@@ -56,5 +57,3 @@ Jadikuješ li Ti, ili ću ja kukati? Prije ću ja zaplakati zbog malog broja 
 Uistinu, čuo sam Tvoj Zov, o, Sveslavljeni, Ljubljeni i sada lice Bah{ (Slave) gori žarom patnje i vatrom Tvoje blistave riječi, i On se podigao u vjernosti na mjestu žrtve radi Tvoga zadovoljstva; o, Zapovjedniče svjetova.
 O, ’Ali-Akbar, zahvali Bogu na ovoj ploči iz koje možeš udahnuti miris Moje blagosti i saznati šta Nas je snašlo na putu Boga, Obožavanoga u svim svjetovima.
 Kada bi sve sluge ove riječi pročitale i o njima razmislile, u njihovim venama bi zaiskrila vatra koja bi zapalila svjetove.
-
--- Bahá'u'lláh

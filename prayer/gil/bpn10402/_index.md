@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10402 in Kiribati'
+author = 'Bahá'u'lláh'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Te tataro ibukin te mate e kakabonganaaki i bukiia kaain te Baha’i ake e a tia ni koro 15 aia ririki. “Ti aio te tataro ni Baha’i ae e kabaebae are e ananaaki n te bwanin; e na anaaki iroun temanna te tia onimaki ao ni kabane ake a roko a na tei. Akea baaireakina bwa e na kaitaraaki te Qiblih n anaaki te tataro aio.” A Synopsis & Codification of the Kitáb-i-Aqdas
@@ -13,5 +14,3 @@ Ni koaua, ti bon bane n anga te nebonebo nakon Te Atua.
 Ni koaua, ti bon bane n takaarua ni katituaraoi nakon Te Atua.
 Ni koaua, ti bon bane ni kaantaninga iroun Te Atua.
 [Ngkana te mate te aine, ke e na atonga: Bon Am tabonibai te aine aio ao te nati te aine ae natin Am tabonibai, etc…]
-
--- Bahá'u'lláh

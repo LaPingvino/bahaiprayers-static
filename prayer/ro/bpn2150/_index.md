@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2150 in România'
+author = 'Báb'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slăvit fie Numele Tău, o, Doamne!
@@ -8,5 +9,3 @@ La cine să caut refugiu când Tu eşti cu adevărat Dumnezeul meu preaiubit; sp
 Te implor, o, Doamne, Dumnezeul meu, pe cea mai luminoasă splendoare a Ta în faţa strălucirii căreia fiecare suflet se pleacă umil şi se prosternează în adorare pentru Tine - o splendoare în faţa sclipirii căreia focul se preschimbă în lumină, morţii învie şi orice dificultate e uşurată. Te implor, pe această măreaţă şi minunată splendoare şi pe gloria stăpânirii Tale preamărite, o, Tu care eşti Domnul puterii de neînvins, să ne transformi prin dărnicia Ta întru ceea ce Tu Însuţi posezi şi să ne ajuţi ca să fim în stare să devenim izvoarele luminii Tale şi cu bunăvoinţa Ta să ne acorzi ceea ce convine maiestăţii domeniului Tău transcedental. Căci către Tine am ridicat mâinile, o, Doamne, şi în Tine am găsit apărare şi adăpost, o, Doamne, Ţie mă supun, o, Doamne, şi în Tine îmi pun toată încrederea, o, Doamne, şi Tu mă întăreşti, o, Doamne.
 
 Adevărat, nu există nici putere şi nici tărie decât în Tine.
-
--- Báb

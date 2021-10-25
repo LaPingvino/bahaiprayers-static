@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6971 in Fiji'
+author = 'Bahá'u'lláh'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 Mo ni vakalagilagi ga, O i Kemuni na noqu Kalou! O i au e dua vei ira na Nomuni dauveiqaravi, ka u sa dau vakabauti Kemuni kei na Nomuni veivakatakilakila. O ni sa raica ni u sa vakanamata yani ki na katuba ni Nomuni veivosoti, ka vagolea na mataqu ki na gaunisala ni Nomuni dauloloma ka yalovinaka. Au masuti Kemuni, e na Nomuni veiyaca buli uasivi duadua kei na Nomuni i tovo cecere duadua me dolava mada ki na mataqu na toba ni Nomuni i solisoli loloma. Ni vukei au, gona kina, me u vakayacora na veika sa vinaka, O i Kemuni na i Taukei ni vei yaca kece ga kei na i vakarau vinaka kece ga.
@@ -11,5 +12,3 @@ Ni kauta laivi mada na i ubi mai na mataqu, O i Kemuni na noqu Turaga, ka me u r
 Au sa vakaraitaka yani na noqu vakavinavinaka, O i Kemuni na noqu Turaga, e na Nomuni sa vakayadrati au mai na moce, vakauqeti au, ka vakavurea vei au e dua na gagadre me u kila na ka era sega ni kila rawa e vuqa na Nomuni Dauveiqavavi. O koya gona, Mo ni vakarawarawataka vei au, O i Kemuni na noqu Turaga, me raici mada, e na vu ni loloma e na Vukumuni kei na vuku ni Nomuni yalomarau, me baleta na veika O ni gadreva ka taleitaka. Sa i Koya ga, e na levu ni Nona kaukauwa kei na Nona i tutu cecere, era sa vakadinadinataka na veika kece ga.
 
 Sa sega tale ni dua na Kalou O i Kemuni ga, na Vu ni iGu Cecekia, na Dauveivakalougatataki.
-
--- Bahá'u'lláh

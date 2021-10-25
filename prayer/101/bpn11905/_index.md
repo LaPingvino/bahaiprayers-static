@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11905 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Doa itih, obuah bikirien odak Abdu’l-Baha, basa dek totok Kubur Iyoh. Dapod geh doa tih obuah basa takar nye bidoa sadie.)
@@ -9,5 +10,3 @@ Iyoh leh dek Paling Mulia!
 O Raja, Topa ku! Ngin tudu oku kebesaran Ingan pakai ku nai kroja saant bala perinduk Ingan, nogap oku daang ngan ku ngulunt batak odop ku tudu Ingan, pijawak ligied boton ku pakai pangijawak muja-malam daang gilangang pingudus Ingan, bia dek pakai doa tudu printah moson Ingan. Tulung oku odak dik eh pinyoot ndu aluang shorga pimolot pagar Ingan, bia ngin pibatue tudu oku odak bilopas sok sua onik dek ogi daang tipalung kudus Ingan. Topa! Ngin odak oku nuak sok makup kudus dik eh penting seniri odop; pakai jubah noh kibalui oku, bia daang laut noh nguluam oku. Nai odak oku koda dobu daang olant pimonu bala perindu Ingan, bia ngibonar sak oku gadia jiwa ku tudu tanak dek pernah luhur odak tiggieng bala dek obuah pilih odak Ingan daang olant Ingan, O Raja Pimulia dek Bikuasa.
 Pakai doa tih leh ulunt Ingan mogan Ingan, takal aob pagi bia daang onu ngalom. Ngisik leh niat otin eh, O Raja! Pijawak otin eh, kanuas kila eh, tung odak bidudue lapu eh, sak iyoh tungang nai kroja Toga Ingan bia ulunt-ulunt Ingan.
 Ingan leh, dek Bikanyad, dek Masie, dek Selalu-Ngin, dek Bibudi, dek Bait, dek Pinyayang.
-
--- Abdu'l-Bahá

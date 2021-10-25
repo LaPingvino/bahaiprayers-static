@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BH00870 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'BH00870']
 +++
 ##Long Healing Prayer 
@@ -189,5 +190,3 @@ Sanctified art Thou, O my God!  I beseech Thee by Thy generosity, whereby the po
  
 
 Thou art verily the Powerful, the All-Sufficing, the Healing, the Protector, the Giving, the Compassionate, the All-Generous, the All-Merciful.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2754 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *(Részletek)
@@ -28,5 +29,3 @@ Ez az a Nap, mikor Az, Ki Isten neveinek Kinyilatkoztatója, előlépett a dics�
 Örvendezz túláradó szívvel, ó, Bahá népe, mikor emlékezetedbe idézed a legnagyobb boldogság Napját, a Napot, mikor az Időtlen Úr Nyelve megnyilatkozott, útra kelvén Hajlékából a Hely felé, ahonnan az egész teremtésre alázáporoztatta nevének, a Mindenek Felett Irgalmasnak ragyogását. Isten a tanúnk. Ha feltárnánk e Nap rejtett titkait, mindenki, ki a földön és a mennyekben lakozik, elalélna és elmúlna, kivéve azokat, kiket Isten, a Mindenható, a Mindenek Tudója, a Mindenek Felett Bölcs megóv.
 
 Oly mámorító Isten szavainak hatása Arra, Ki kétségtelen bizonyítékainak Kinyilatkoztatója, hogy Tolla nem mozdulhat tovább. E szavakkal fejezi be Tábláját: „Nincs más Isten csak Én, a Legmagasztosabb, a Leghatalmasabb, a Legkiválóbb, a Mindenek Tudója.”
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2228 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne, Dumnezeul meu şi Adăpostul meu în primejdie! Scutul meu în nenorociri! Căminul şi refugiul meu în ceasul de nevoie şi însoţitorul meu în izolarea mea! În chinurile mele mângâiere şi în singurătatea mea un prieten duios! Tu eşti Cel ce-mi alini suferinţele şi care-mi ierţi păcatele.
@@ -21,5 +22,3 @@ Lasă-mă să-mi fac cuib sub aripile Tale protectoare şi îndreaptă-Ţi spre 
 Dezleagă-mi limba ca să Te preamăresc în mijlocul poporului Tău, ca glasul meu să se ridice în marile adunări şi de pe buzele mele să curgă cuvinte de laudă pentru Tine.
 
 Tu eşti, cu adevărat, Cel Plin de Har, Cel Preamărit, Cel Tare şi Atotputernic.
-
--- Abdu'l-Bahá

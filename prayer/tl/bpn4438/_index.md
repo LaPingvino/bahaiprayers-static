@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4438 in Filipino'
+author = 'Abdu'l-Bahá'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O aking Diyos! O aking Diyos! Tunay na tinatawagan Kita at naninikluhod ako sa Iyong pintuan at humihiling sa Iyo na ang lahat ng awa Mo ay ipagkaloob sa mga kaluluwang ito. Dalubhasain Mo sila para sa Iyong tangkilik at sa Iyong katotohanan.
@@ -11,5 +12,3 @@ O Panginoon, Ikaw na nagtataglay ng walang-hanggang kahabagan! O Panginoon ng pa
 O Panginoong Diyos! Kami ay gawing tulad ng mga alon ng dagat, tulad ng mga bulaklak sa hardin, nagkakaisa, nagkakasundo sa pamamagitan ng mga pagpapala ng Iyong pag-ibig. O Panginoon! Buksan ang mga dibdib sa pamamagitan ng mga tanda ng Iyong pagkakaisa at ang buong sangkatauhan ay gawing gaya ng mga bituing nagniningning mula sa magkasingtaas na kaluwalhatian, gaya ng mga walang kapintasang bunga sa Iyong Punungkahoy ng Buhay.
 
 Tunay na Ikaw ang Makapangyarihan sa Lahat, ang Sariling-Ganap, ang Tagapagkaloob, ang Mapagbigay, ang Mapagpatawad, ang Nakababatid ng Lahat, ang Iisang Manlilikha!
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn509 in Deutsch'
+author = 'Abdu'l-Bahá'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist Gott!
@@ -10,5 +11,3 @@ O Herr! Diese Seelen haben in ihrem irdischen Leben des Todes bitteren Trank gek
 O Herr! Lass in ihren Ohren die Verse göttlichen Beistands und nahen Sieges erklingen, errette sie aus der Unterdrückung jener, die eine Schreckensherrschaft üben. Falle den Bösen in den Arm, lass diese Seelen nicht in den Klauen und Zähnen wilder Tiere zerfleischt werden, sind sie doch im Bann Deiner Liebe, betraut mit den Mysterien Deiner Heiligkeit; demütig stehen sie vor Deinem Tor, zu Deinem erhabenen Hofe sind sie gelangt.
 O Herr! Stärke sie gnädiglich mit neuem Geiste. Erleuchte ihre Augen, damit sie Deine wundersamen Zeichen schauen in dunkler Nacht. Bestimme ihnen alles Gute aus der Fülle Deines Reiches ewiger Mysterien. Lass sie strahlende Sterne werden, die über alle Lande leuchten, prächtige Bäume, mit Früchten beladen, und Zweige, die sich im Morgenwind neigen.
 Wahrlich, Du bist der Gabenreiche, der Mächtige, der Allgewaltige, der Unbedingte. Es gibt keinen Gott außer Dir, dem Gott der Liebe und des Erbarmens, dem Allherrlichen, dem allzeit Vergebenden.
-
--- Abdu'l-Bahá

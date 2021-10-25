@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn677 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Ich flehe Dich an, o mein Gott, bei Deinem mächtigen Zeichen und bei der Enthüllung Deiner Huld unter den Menschen, weise mich nicht ab vom Tore zur Stadt Deiner Gegenwart und enttäusche nicht die Hoffnungen, die ich in die Offenbarungen Deiner Gnade unter Deinen Geschöpfen setze.
@@ -29,5 +30,3 @@ Du siehst mich, o mein Gott, an Deinem Namen festhalten, dem Heiligsten, dem Str
 Ich flehe Dich an, o mein Gott, bei Deinem Namen, durch den Du hörest auf den Ruf Deiner Geliebten, auf die Seufzer derer, die sich nach Dir sehnen, auf den Schrei derer, die sich des Zutritts zu Deiner Nähe erfreuen, und auf das Stöhnen derer, die Dir ergeben sind, bei Deinem Namen, durch den Du die Bitten derer erfüllst, die ihre Hoffnung auf Dich setzen, deren Sehnsüchte Du stillst durch Deine Gnade und Gunst, und bei Deinem Namen, durch den das Meer der Vergebung vor Deinem Angesicht wogt und die Wolken der Freigebigkeit auf Deine Diener herabregnen, schreibe für jeden, der sich Dir zuwendet und das vorgeschriebene Fasten einhält, den Lohn derer nieder, die nicht sprechen außer mit Deiner Erlaubnis und die auf Deinem Pfade aus Liebe zu Dir auf alles verzichteten, was sie besaßen.
 Ich flehe Dich an, o mein Herr, bei Dir und Deinen Zeichen, bei Deinen deutlichen Beweisen, bei dem strahlenden Sonnenlicht Deiner Schönheit und bei Deinen Zweigen, lösche die Sünden derer, die sich fest an Dein Gesetz halten und befolgen, was Du ihnen in Deinem Buche vorgeschrieben hast.
 Du siehst mich, o mein Gott, an Deinem Namen festhalten, dem Heiligsten, dem Strahlendsten, dem Mächtigsten, dem Größten, dem Höchsten, dem Herrlichsten, und mich klammern an den Saum Deines Gewandes, daran sich alle halten in dieser und der zukünftigen Welt.
-
--- Bahá'u'lláh

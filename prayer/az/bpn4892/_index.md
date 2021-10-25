@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4892 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 ##Bu münacat Ruhani Məhfilin görüşünün sonunda oxunur.
@@ -10,5 +11,3 @@ Ey Rəbbimiz! Biz zəifik, Sən isə Qüdrətlisən, Qüvvətlisən. Biz ölüy�
 Ey Rəbbimiz! Bizim üzümüzü Öz mərhəmətli üzünə çevir, Öz tükənməz fəzlinlə bizi Sənin səma süfrəndən qidalandır, uca mələklərinin qoşunu ilə bizə yardım eylə və Əbha Mələkutundakı müqəddəslərlə bizə dəstək ver.
 
 Həqiqətən, Sən Səxavətli və Mərhəmətlisən. Sən böyük kəramət Sahibisən və həqiqətən, Sən Rəhmli və Fəzl Sahibisən.
-
--- Abdu'l-Bahá

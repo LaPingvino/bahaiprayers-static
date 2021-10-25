@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5118 in Bahasa Indonesia'
+author = 'Báb'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Kemuliaan bagi-Mu, ya Tuhanku, Engkaulah yang telah mewujudkan segala sesuatu yang diciptakan melalui kekuatan perintah-Mu. Ya Tuhan! Bantulah mereka yang telah meninggalkan segala sesuatu kecuali Engkau dan berilah kepada mereka kemenangan yang hebat. Turunkanlah kepada mereka, ya Tuhan, rombongan malaikat-malaikat di surga dan di bumi dan segala yang ada di antara-nya, agar dapat membantu hamba-hamba-Mu, dan menolong serta menguatkan mereka, agar memungkinkan mereka mencapai keberhasilan, mendukung mereka dan menganugerahi mereka dengan kemuliaan, agar memberikan kepada mereka kehormatan dan keluhuran, serta menjadikan mereka kaya dan memenangkan mereka dengan kemenangan yang menakjubkan.
@@ -13,5 +14,3 @@ Mungkinkanlah ya Tuhan, kalbu-kalbu mereka menjadi lebih kuat dari apa pun yang 
 *"Janganlah bersedih hati karena jumlah mu sedikit, dan ber-syukurlah kepada Tuhan atas kekuatan rohmu. Ia akan menolongmu dengan bantuan sedemikian rupa, sehingga pikiran-pikiran akan takjub dan jiwa-jiwa akan tercengang."
 
 *"Janganlah mengingat pada keterbatasan-keterbatasanmu sendiri; pertolongan Tuhan akan datang kepadamu. Lupakanlah dirimu sendiri. Pertolongan Tuhan pasti akan datang." - ‘Abdu’l-Bahá
-
--- Báb

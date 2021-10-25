@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3715 in Eesti'
+author = 'Abdu'l-Bahá'
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo Issand, mu Jumal ja mu varjupaik hädas! Mu kilp ja kaitse raskusis! Mu asüül ja pelgupaik mure hetkel ning kaaslane mu üksinduses! Mu ahastuse trööst ja armastav sõber mu üksilduses! Mu kurbusevalude kõrvaldaja ja mu pattude andestaja!
@@ -13,5 +14,3 @@ Oo Jumal, mu Jumal! Ära hoia oma andestuse ja heasoovlikkuse õrnu puhanguid mi
 Oma kaitsvate tiibade varju alla lase mul peituda ning langeta mu peale oma kõikekaitsev pilk.
 Vallanda mu keel ülistamaks Sinu nime Su rahva keskel, et mu hääl võiks kõlada suurtel kogunemistel ja mu huultelt võiks voolata Su kiituse tulv.
 Sina oled tõepoolest Armuline, Ülistatud, Vägev, Kõikvõimas.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BH03447 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'BH03447']
 +++
 #Medium Obligatory Prayer
@@ -31,5 +32,3 @@ I bear witness to Thy unity and Thy oneness, and that Thou art God, and that the
 *(If anyone choose to recite instead of the long verse these words: "God testifieth that there is none other God but Him, the Help in Peril, the Self-Subsisting," it would be sufficient. And likewise, it would suffice were he, while seated, to choose to recite these words: "I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee.")
 
 *"The daily obligatory prayers are three in number. ... The believer is entirely free to choose any one of these three prayers, but is under the obligation of reciting either one of them, and in accordance with any specific directions with which they may be accompanied." - from a letter written on behalf of Shoghi Effendi "By 'morning,' 'noon' and 'evening,' mentioned in connection with the Obligatory Prayers, is meant respectively the intervals between sunrise and noon, between noon and sunset, and from sunset till two hours after sunset." - Synopsis and Codification of the Kitáb-i-Aqdas, p. 36
-
--- Bahá'u'lláh

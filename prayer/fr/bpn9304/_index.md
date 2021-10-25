@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9304 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Prières pour le jeûne
@@ -34,5 +35,3 @@ Vois, ô mon Dieu : je m’attache à ton Nom, le plus saint, le plus lumineux, 
 Je t’implore, ô mon Dieu, par ton nom qui écoute l’appel de tes amants, par les soupirs de ceux qui te désirent, les pleurs de ceux qui sont proches de toi et les plaintes de ceux qui te sont dévoués, par ton nom qui comble les vœux de ceux qui ont placé leurs espoirs en toi, et qui réalise leurs désirs par ta grâce et ta générosité, et par ton nom qui fait surgir l’océan du pardon devant ton visage et pleuvoir ta générosité sur tes serviteurs. Pour chacun de ceux qui se tournent vers toi et qui suivent le jeûne que tu as prescrit, inscris la récompense accordée à ceux qui ne parlent qu’avec ta permission et qui abandonnent, en ton chemin, tout ce qu’ils possèdent et le font par amour pour toi.
 Je t’implore, ô mon Dieu, par toi-même, par tes signes et par tes preuves, par l’éclat du Soleil de ta beauté et par tes Branches. Efface les offenses de ceux qui obéissent à tes lois et observent ce que tu leur ordonnes dans ton livre. 
 Vois, ô mon Dieu : je m’attache ton Nom, le plus saint, le plus lumineux, le plus puissant, le plus éminent, le plus élevé, le plus glorieux et je saisis le pan du vêtement auquel tous s’agrippent dans ce monde et dans le monde à venir.
-
--- Bahá'u'lláh

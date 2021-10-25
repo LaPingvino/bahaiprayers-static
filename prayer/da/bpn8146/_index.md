@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8146 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 ##Middellang Obligatorisk Bøn 
@@ -35,5 +36,3 @@ Jeg vidner om Din enhed og Din helhed, og at Du er Gud, og at der ingen Gud er f
 Du har i sandhed åbenbaret Din sag, fuldbyrdet Din pagt og åbnet Din nådes dør vidt for alle, der bor i himlen og på jorden. Velsignelse og fred, hilsen og ære til Dine elskede, som verdens omskiftelser og tilfældigheder ikke har hindret i at vende sig mod Dig, og som har givet alt, hvad de ejer, i håb om at opnå det, der er hos Dig. Du er i sandhed Den Evigt Tilgivende, Den Algavmilde.
 
 *(Hvis nogen fremfor det lange vers ønsker at sige disse ord: “Gud bevidner, at der er ingen anden Gud end Ham, hjælpen i fare, Den Selvbestående” vil det være tilstrækkeligt. Og det ville ligeledes være tilstrækkeligt, hvis han siddende vælger at sige disse ord: “Jeg vidner om Din enhed og Din helhed og om at Du er Gud, og at der ingen Gud er foruden Dig”)
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9559 in Nederlands'
+author = 'Bahá'u'lláh'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Ik prijs U, o mijn God, aangezien de geur van Uw goedertierenheid mij in vervoering heeft gebracht, en de zachte bries van Uw barmhartigheid mij in de richting van Uw milddadige gaven heeft doen neigen. Laat mij, o mijn Heer, uit de hand van Uw goedertierenheid drinken van het levende water waardoor eenieder die ervan gedronken heeft zich heeft kunnen ontdoen van alle gehechtheid aan iemand buiten U, en zijn vlucht heeft kunnen nemen naar de sferen van onthechting van al Uw schepselen, en zijn oog heeft kunnen vestigen op Uw liefdevolle voorzienigheid en Uw veelvuldige gaven.
@@ -10,5 +11,3 @@ Ik smeek U, o mijn Heer, bij Uw Naam welks luister de hemelen en de aarde omvat,
 Waarheen zal ik mij wenden, o mijn God, waar ik immers niet bij machte ben enige andere weg te ontdekken dan de weg die Gij Uw uitverkorenen hebt gewezen? Alle atomen der aarde verkondigen dat Gij God zijt en getuigen dat er geen God buiten U is. Gij zijt van oudsher bij machte te doen hetgeen Gij wilt en te beschikken naar Uw behagen.
 Bestemt Gij dan voor mij, o mijn Heer, wat mij te allen tijde op U gericht zal doen zijn, en laat mij me voortdurend aan het koord van Uw genade vasthouden en Uw Naam verkondigen en mijn blik richten op hetgeen uit Uw pen vloeit. Ik ben arm en alleen, o mijn Heer, en Gij zijt de Albezitter, de Allerhoogste. Heb dan medelijden met mij door het wonder van Uw barmhartigheid, en zend ieder moment van mijn leven die dingen tot mij neer waarmee Gij het hart hebt herschapen van al diegenen Uwer schepselen die Uw eenheid hebben erkend en van al Uw mensen die U geheel zijn toegewijd.
 Gij zijt waarlijk de Almachtige, de Verhevenste, de Alwetende, de Alwijze.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8119 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Forherliget være Dit navn, o min Gud, fordi Du har manifesteret den dag, der er dagenes konge, den dag, som Du bekendtgjorde for Dine udvalgte og Dine profeter i Dine ypperste breve, den dag, da Du kastede glansen fra alle Dine navnes herlighed på alt skabt. Stor er velsignelsen for enhver, der har vendt sig til Dig og er kommet Dig nær og har opfanget Din stemmes tonefald.
@@ -15,5 +16,3 @@ Mine legemsdele vidner om Din enhed, og mine hovedhår forkynder om styrken i Di
 Bestem Du for mig, o min Gud, hvad der anstår sig storheden i Din majestæt og hjælp mig ved Din styrkende nåde at berette om Din sag, således at de døde må haste ud af deres gravkamre og ile mod Dig i fuld tillid til Dig og med deres blik rettet mod Din sags opgående sol og Din åbenbarings dæmringssted.
 
 Du er i sandhed Den Mest Magtfulde, Den Højeste, Den Alvidende, Den Alvise.
-
--- Bahá'u'lláh

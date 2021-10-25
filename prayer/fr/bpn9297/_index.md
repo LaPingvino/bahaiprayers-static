@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9297 in Français'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô toi, Seigneur de bonté, tu as créé toute l’humanité d’une seule et même souche. Tu as décrété que tous les hommes seraient de la même famille. En ta sainte présence, ils sont tes serviteurs et toute l’humanité s’abrite sous ton tabernacle ; ils sont tous réunis autour de la table de ta générosité, illuminés de la lumière de ta providence.
@@ -10,5 +11,3 @@ tags = ['lang-fr', 'bpn-unsorted']
 Ô Dieu, cimente les cœurs.
 Ô toi, Père bienfaisant, Dieu, réjouis nos cœurs du parfum de ton amour. Éclaire nos yeux de la lumière de ta providence. Enchante nos oreilles de la mélodie de ta parole et abrite-nous dans la forteresse de ta sollicitude.
 Tu es le Fort, le Puissant, tu es le Clément, l’Indulgent qui pardonne les faiblesses des hommes.
-
--- Abdu'l-Bahá

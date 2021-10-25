@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7652 in Kreyol Ayisyen'
+author = 'Bahá'u'lláh'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen, kè moun ki debòde ak dezi pou antre nan prezans Ou boule poutèt dife anvi yo genyen pou jwenn Ou, e je moun ki renmen Ou koule anpil dlo poutèt yo kraze avèk chay separasyon yo ak lakou Ou, epi vwa soufrans lan pou moun ki fikse espwa yo sou Ou leve patou nan wayòm Ou yo.
@@ -7,5 +8,3 @@ Se Ou menm, O Bondye mwen, avèk pisans siprèm Ou an, Ki te pwoteje sila yo kon
 Glwa Ou se temwen mwen! Chak douvanjou, moun ki renmen Ou reveye pou jwenn tas lamizè devan figi yo, poutèt yo te kwè nan Ou, e yo te rekonèt siyn Ou yo. Mwen kwè ak tout fòs mwen, Ou genyen yon pi gran pitye pou yo pase sa yo genyen pou pwòp tèt pa yo. Mwen rekonèt Ou fè yo soufri pou gaye Koz Ou a epi pou yo ta monte nan syèl etènite Ou a ak nan lakou prezans Ou an. Malgre sa, Ou konnen trè byen feblès kèk pami yo genyen, e Ou rekonèt enpasyans yo lè y’ap soufri.
 Mwen priye Ou, O Bondye mwen, pou pwoteje yo avèk gras Ou ki ban nou fòs, pou yo kapab soufri avèk pasyans poutèt lanmou yo genyen pou Ou; devwale devan je yo sa Ou te chwazi pou yo dèyè Tabènak pwoteksyon Ou an ki pa janm echwe, pou pèmèt yo prese jwenn sa Ou te sere pou yo nan chemen Ou an, e pou yo chak ta tante pran premye plas nan chèche tribilasyon poutèt lanmou yo genyen pou Ou. Oubyen, si non, revele banyè otorite Ou, e fè yo jwenn laviktwa devan enmi Ou yo, pou pouvwa Ou kapab parèt klè devan je tout abitan wayòm Ou an, e pou montre fòs pisans Ou pami tout kreyati Ou yo. Ou genyen pouvwa pou fè tout sa Ou vle. Pa gen lòt Bondye pase Ou, Ou menm Ki Konnen Tout Bagay, Ki Genyen Tout Sajès la.
 O Bondye mwen! Fè sèvitè Ou ki te kwè nan Ou rete fidèl pou li kapab ede Koz Ou a, e pwoteje li nan fòterès swen Ou ak pwoteksyon Ou kont tout danje ki genyen ni nan lavi sa a ni nan lòt lavi k’ap vini an. An verite, Ou dirije daprè bon plezi Ou. Pa genyen lòt Bondye pase Ou, Sila a Ki Toujou Padone, Ki Plis Renmen Bay.
-
--- Bahá'u'lláh

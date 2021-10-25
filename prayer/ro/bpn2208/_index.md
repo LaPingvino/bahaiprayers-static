@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2208 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lăudat fii Tu, o, Doamne Dumnezeule!
@@ -10,5 +11,3 @@ Te implor întru Numele Tău Cel Atotslăvit, prin care i-ai împodobit pe toţi
 Spală-mă cu apele milostivirii Tale, o, Domnul meu, şi fă-mă pe de-a-ntregul a Ta, şi fă-mă să mă apropii de Tabernacolul Cauzei Tale şi Sanctuarul adorat al Prezenţei Tale. Porunceşte, atunci, pentru mine, toate lucrurile pe care le-ai poruncit pentru slujitoarele Tale alese şi revarsă asupra mea ceea ce îmi va lumina chipul şi inima.
 
 Tu ai puterea de face ceea ce doreşti şi Tu porunceşti ceea ce Îţi place.
-
--- Bahá'u'lláh

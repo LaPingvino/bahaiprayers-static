@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10192 in Māori'
+author = 'Bahá'u'lláh'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 Ko Ia Te Atua, korōria ki a Ia, ko Ia Te Ariki o te aroha me te tōnui!
@@ -25,5 +26,3 @@ Kei tōku Atua, kua whakahokia Tō Whakawhirinaki ki a Koe. He tau rā ki Tō at
 Tēnei ahau e whakaatu nei, Kei tōku Ariki, kua ākina e Kōe kia manaakitia e te tangata tana manuwhiri, ā i a ia hoki kua piki ake ki a Koe tūturu kua tae ake ki Tō Aroaro. Meinga ko tāna ki Tāu e pai ai, ki Tō atawhai, tōnui hoki! Mā Tō korōria, tūturu ahau te mātau e kore rawa Koe e whakapupuru i a Koe mai i Tāu i akiaki ai i Ō pononga, e kore rawa rā ano Koe e tupe i a ia kua piri ki te taura o Tō tōnui kua piki ake hoki ki te pae o te Pūaotanga, ki te mātāpuna o Tō whairawa.
 
 Kāore he Atua i tua atu i a Koe, te Kotahi, te Takitahi, te Pūkaha, te Mātau-Katoa, te Whairawa.
-
--- Bahá'u'lláh

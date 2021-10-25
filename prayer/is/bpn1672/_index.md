@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1672 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er græðarinn, nægjandinn, hjálparinn, sá sem allt fyrirgefur, hinn almiskunnsami.
@@ -49,5 +50,3 @@ Hann er græðarinn, nægjandinn, hjálparinn, sá sem allt fyrirgefur, hinn alm
 Þú sem varir að eilífu, ó Þú ævarandi!
 Helgaður ert Þú, ó Guð minn! Ég grátbæni Þig vegna örlætis Þíns, sem Þú opnaðir með á gátt hlið hylli Þinnar og náðar og grundvallaðir musteri heilagleika Þíns á veldisstóli eilífðarinnar, og vegna miskunnar Þinnar, sem Þú bauðst með öllu sem skapað er að borði gjafa Þinna og hylli, og sakir náðar Þinnar, er Þú svaraðir með í Þínu eigin sjálfi með orði Þínu „Já!“ af hálfu allra á himnum og jörðu á þeirri stundu, er yfirráð Þín og tign voru birt, í dagrenningu þegar máttur veldis Þíns var opinberaður. Og aftur grátbæni ég Þig við þessi fegurstu nöfn Þín, við þessar göfugustu og æðstu eigindir og við upphöfnustu minningu Þína og við hreina og flekklausa fegurð Þína og við hulið ljós Þitt í huldustu höll Þinni og við nafn Þitt, íklætt þjáningu á hverjum morgni og hverju kvöldi, að vernda þann sem ber þessa blessuðu töflu, og þann sem les hana, og þann sem á hana rekst, og þann sem fer hjá húsinu sem geymir hana. Græð fyrir hennar orð alla sjúka, lasburða og fátæka, af allri þrenging og harmi, af öllum illum raunum og sorg, og leiðbein Þú fyrir orð hennar hverjum þeim sem óskar að ganga stigu leiðsagnar Þinnar og vegu fyrirgefningar Þinnar og náðar.
 Þú ert vissulega hinn voldugi, sá sem öllum nægir, græðandinn, verndarinn, gjafarinn, hinn vor­kunnláti og gjafmildasti, hinn almiskunnsami.
-
--- Bahá'u'lláh

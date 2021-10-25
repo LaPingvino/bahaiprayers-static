@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn568 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist der Heiler, der Genügende, der Helfer, der Allvergebende, der Allbarmherzige.
@@ -46,5 +47,3 @@ Ich rufe Dich an, o Du, der die Liebenden tötet, o Gott der Gnade für die Sün
 O Genügender, ich rufe Dich an, o Genügender! O Heiler, ich rufe Dich an, o Heiler! O Bestehender, ich rufe Dich an, o Bestehender! Du ewig Beständiger, o Du Beständiger!
 Heilig bist Du, o mein Gott! Ich flehe Dich an bei Deiner Großmut, welche weit die Tore Deiner Gnadengaben auftut und den Tempel Deiner Heiligkeit über dem Throne der Ewigkeit errichtet, bei Deinem Erbarmen, durch das Du alle erschaffenen Dinge an die Tafel Deiner Gaben und Wohltaten ludest, und bei Deiner Gnade, durch die Du Antwort gabst in Dir selbst mit Deinem Worte „ja“ um aller willen, die im Himmel und auf Erden sind, zur Stunde, da Deine höchste Gewalt und Hoheit enthüllt ward, am Morgen, da die Macht Deiner Herrschaft offenbar ward. Und wieder flehe ich Dich an bei diesen schönsten Namen, bei diesen edelsten und höchsten Eigenschaften, bei Deinem höchst erhabenen Gedenken, bei Deiner reinen, unbefleckten Schönheit, bei Deinem verborgenen Licht im verborgensten Zelte, und bei Deinem Namen, der jeden Morgen und Abend in das Gewand des Leides gehüllt ist, beschütze den Träger dieser gesegneten Tafel und den, der sie spricht, und den, der ihr begegnet, und den, der an dem Haus vorübergeht, in dem sie aufbewahrt ist. So heile denn durch diese Tafel jeden Kranken, Leidenden und Bedürftigen von aller Trübsal und Pein, von allem Kummer und Elend. Lenke durch diese Tafel jeden, der auf die Pfade Deiner Führung und auf die Wege Deiner gnädigen Vergebung zu gelangen sucht.
 Du bist wahrlich der Machtvolle, der Allgenügende, der Heilende, der Beschützer, der Gebende, der Mitleidvolle, der Großmütigste, der Allbarmherzigste.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8236 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 In the name of Him Who hath cast His splendour over the entire creation!
@@ -24,5 +25,3 @@ The Best-Beloved is come. In His right hand is the sealed Wine of His name. Happ
 Blessed are they that have soared on the wings of detachment and attained the station which, as ordained by God, overshadoweth the entire creation, whom neither the vain imaginations of the learned, nor the multitude of the hosts of the earth have succeeded in deflecting from His Cause. Who is there among you, O people, who will renounce the world, and draw nigh unto God, the Lord of all names? Where is he to be found who, through the power of My name that transcendeth all created things, will cast away the things that men possess, and cling, with all his might, to the things which God, the Knower of the unseen and of the seen, hath bidden him observe? Thus hath His bounty been sent down unto men, His testimony fulfilled, and His proof shone forth above the Horizon of mercy. Rich is the prize that shall be won by him who hath believed and exclaimed: “Lauded art Thou, O Beloved of all worlds! Magnified be Thy name, O Thou the Desire of every understanding heart!”
 Rejoice with exceeding gladness, O people of Bahá, as ye call to remembrance the Day of supreme felicity, the Day whereon the Tongue of the Ancient of Days hath spoken, as He departed from His House, proceeding to the Spot from which He shed upon the whole of creation the splendours of His name, the All-Merciful. God is Our witness. Were We to reveal the hidden secrets of that Day, all they that dwell on earth and in the heavens would swoon away and die, except such as will be preserved by God, the Almighty, the All-Knowing, the All-Wise.
 Such is the inebriating effect of the words of God upon Him Who is the Revealer of His undoubted proofs, that His Pen can move no longer. With these words He concludeth His Tablet: No God is there but Me, the Most Exalted, the Most Powerful, the Most Excellent, the All-Knowing.
-
--- Bahá'u'lláh

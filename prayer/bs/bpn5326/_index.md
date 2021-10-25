@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5326 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Ovo su, o, moj Bože, dani koje si odredio Svojim slugama da poštivaju post. Njime si ukrasio uvod Svoje Knjige Zakona koja je objavljena onima koje si stvorio i uljepšao Riznice Svojih zapovijedi naočigled svih koji na nebu i svih koji su na zemlji. Svaki čas u ovim danima si obdario posebnom vrlinom, nedokučivom bilo kome sem Tebi Čije znanje obuhvata sve stvoreno. Svakoj duši si dodijelio dio ove vrline, u skladu sa Pločom i Spisima Tvoje neosporive odredbe. Štaviše, svaki list iz ovih Knjiga i Spisa si posvetio ljudima i svim narodima svijeta.
@@ -11,5 +12,3 @@ Podari nam, o, moj Bože, ono što priliči Tvojoj milosti i dolikuje Tvojoj 
 Ti vidiš, o, moj Bože, šta je snašlo Tvoje voljene u Tvojim danima. Tvoja slava mi je svjedok! Patnje Tvojih odabranika odjekuju Tvojim kraljevstvom. Neke ljude okovaše nevjernici iz Tvoje zemlje i spriječiše ih da Ti se približe i dosegnu dvore Tvoje slave. Neki Ti se uspješe približiti, ali ne mogoše vidjeti Tvoj lik. Drugima, u njihovoj čežnji da te ugledaju, bi dozvoljeno da kroče u odaje Tvoga dvora, ali oni dopustiše da se umišljeni velovi onih koje si stvorio i zlodjela tlačitelja među Tvojim ljudima, ispriječe između njih i Tebe.
  Gospodaru moj, ovo je čas koji nadmašuje svaki drugi čas, a koji je obznanjen samo rijetkima. Zaklinjem Te, Gospodaru moj, Tobom i njima, da za ovu godinu odrediš ono što će uzvisiti Tvoje voljene. Odredi za ovu godinu i ono što će omogućiti Svitanju Tvoje moći da jasno zasja nad obzorjem Tvoje slave i da Tvojom vrhovnom moći obasja cijeli svijet.
 Učini Svoju Vjeru pobjedonosnom, Gospodaru moj, i pokori Svoje neprijatelje. Daruj nam dobro u ovome životu i životu koji će doći. Ti si Istina, Onaj koji poznaje tajne stvari. Nema Boga osim Tebe, Koji Vječno Prašta i Sve Daruje.
-
--- Bahá'u'lláh

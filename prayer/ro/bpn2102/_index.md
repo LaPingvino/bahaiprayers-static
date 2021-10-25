@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2102 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 De spus în fiecare zi, dimineaţa, la amiază şi seara.
@@ -31,5 +32,3 @@ Nu dezamăgi, o, Doamne, Dumnezeul meu, pe cel care, cu mâini rugătoare s-a ag
 Stau mărturie unităţii Tale şi unicităţii Tale, că Tu eşti Dumnezeu şi că nu există alt Dumnezeu în afară de Tine. Cu adevărat, Tu ai făcut cunoscută Cauza Ta, ai împlinit Legământul Tău şi ai deschis larg porţile harului Tău pentru toţi cei ce sălăşluiesc în ceruri şi pe pământ. Binecuvântarea şi pacea, onoarea şi slava fie cu cei iubiţi de Tine, pe care schimbările şi întâmplările lumii nu i-au împiedicat să se îndrepte spre Tine şi care au părăsit tot ce aveau, cu speranţa de a obţine ceea ce vine de la Tine. Tu eşti, cu adevărat, Pururea Iertător, Cel Nemărginit de Darnic.
 
 *(În locul acestui lung verset, cel ce doreşte poate spune doar aceste cuvinte:„Dumnezeu adevereşte că nu există alt Dumnezeu decât El, Ajutorul în Primejdie, Cel de Sine Stătător” şi-i va fi de-ajuns. Sau, după ce s-a aşezat, este suficient să spună aceste cuvinte: „Stau mărturie unităţii Tale şi unicităţii Tale, că Tu eşti Dumnezeu şi că nu există alt Dumnezeu în afară de Tine.”)
-
--- Bahá'u'lláh

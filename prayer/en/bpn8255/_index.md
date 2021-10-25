@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8255 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Lawh-i-Ghulámu’l-Khuld
@@ -51,5 +52,3 @@ Thus do We bestow upon the dwellers of the mystic realm that which shall draw th
 
 *15.    See Qur’án 7:107.
 *16.    Cf. Qur’án 12:31.
-
--- Bahá'u'lláh

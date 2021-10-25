@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12289 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Atua! O toku Atua!  Te matagofie i luga ia Koe aua ia au ko oti ne faka-talitonu ne Koe kite fakaasiiga o Tou faka-tasitasi, fakapilipili atu au kite muna o Tou tokotasi, kae faka-ka mai au kit e afi o Tou alofa, kae fakalavelave mai au ki tetakutakuuga o Koe mo te tavini ko Au taugasoa mo tavini fafine.  
@@ -9,5 +10,3 @@ O te Aliki, feasoasoani mai kia au ke se-fia lavea kae ke loto maulalo, kae faka
 O te Atua! Faka-mana mai au mai i mea katoa na ko Koe, kave au keatea mai i lau-kaiga o te agasala mo te soli-tuakoi, kae fai aka au ke nofo ia au a te loto faka-te-agaaga mo te mafaufau llei.  
   
 E tonu, a Koe ko te alofa-fakamagalo kae, e tonu, a Koe ko e Tafasili ite Alofa-Atafai, ko Tena feasoasoani e manakogia ne tino katoa.
-
--- Abdu'l-Bahá

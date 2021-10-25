@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6798 in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O my God! O my God! I am a servant attracted to Thee, humbly drawing near to the door of Thy Oneness and supplicating the Kingdom of Thy mercy.
@@ -12,5 +13,3 @@ Thou art the Protector, the Watcher, the Compassionate and the Merciful!
 
 
 *Bahá’í Prayers, UK, 79
-
--- Abdu'l-Bahá

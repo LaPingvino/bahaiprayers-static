@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2200 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Locuinţa mea este căminul păcii.
@@ -12,5 +13,3 @@ Acesta e căminul luminii; oricine intră aici trebuie să devină iluminat.
 Aceasta e locuinţa cunoaşterii; oricine intră în el trebuie să primească cunoaştere.
 
 Aceasta e locuinţa iubirii:cei ce vin înăuntru trebuie să înveţe lecţia iubirii; astfel ei pot să ştie cum să se iubească unul pe celălalt.
-
--- Abdu'l-Bahá

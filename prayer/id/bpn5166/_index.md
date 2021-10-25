@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5166 in Bahasa Indonesia'
+author = 'Abdu'l-Bahá'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ialah Tuhan!
@@ -16,5 +17,3 @@ Ya Tuhan Yang Penyayang! Jadikanlah perkawinan ini melahirkan mutiara dan ratna.
 *"Perkawinan Bahá’í adalah perjanjian antara kedua belah pihak, dan saling kasih sayang satu sama lain. Akan tetapi masing-masing harus memperhatikan dengan sangat agar benar-benar mengenal sifat-sifat satu sama lain, sehingga perjanjian yang mengikat mereka dapat menjadi suatu ikatan yang akan berlangsung untuk selama-lamanya. Tujuan mereka harus sebagai berikut: Menjadi kawan dan sahabat yang saling mencintai dan bersatu untuk selama-lamanya....
 
 *Perkawinan sejati umat Bahá’í adalah bahwa suami dan istri harus bersatu baik secara lahiriah maupun secara rohaniah, sehingga mereka selalu memperbaiki kehidupan rohani satu sama lain dan dapat menikmati kesatuan abadi di seluruh alam-alam Tuhan, inilah perkawinan Bahá’í". - ‘Abdu’l-Bahá
-
--- Abdu'l-Bahá

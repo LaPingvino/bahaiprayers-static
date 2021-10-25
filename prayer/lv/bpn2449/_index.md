@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2449 in Latviešu'
+author = 'Bahá'u'lláh'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Šīs, ak mans Dievs, ir tās dienas, kurās Tu Saviem kalpiem esi licis ievērot gavēni. Ar to Tu rotāji Savas Likumu Grāmatas ievadu, ko Tu atklāji Savai radībai, un greznoji Savu baušļu krājumus, lai tos skata visi, kas ir Tavās debesīs, un visi, kas ir uz Tavas zemes. Katrai stundai šajās dienās Tu esi piešķīris īpašu spēku, kas bez Tevis nav izzināms nevienam, jo Tava zināšana ietver visu, kas ir radīts. Tāpat Tu katrai dvēselei esi piešķīris daļiņu no šī spēka saskaņā ar Sava likuma Vēstuli un Sava neatsaucamā sprieduma Rakstiem. Vēl jo vairāk, ikvienu šo Grāmatu un Rakstu lapu Tu esi veltījis ikvienai no zemes tautām un ciltīm.
@@ -11,5 +12,3 @@ Lai līst pār viņiem, ak mans Dievs, Tava žēlastība un Tavs dāsnums. Palī
 Ak mans Dievs! Tu redzi, kāds liktenis ir nācis pār Tev dārgajiem Tavās dienās. Mana lieciniece ir Tava godība. Tavā Valstībā vaimanās ir pacēlušās Tavu Izredzēto balsis. Daži krita Tavas zemes neticīgo slazdos, kas traucēja tiem iemantot Tavu tuvumu un iekļūt Tavas godības galmā. Dažiem gan bija iespēja Tev tuvoties, bet tika liegts skatīt Tevi vaigā. Vēl citiem dedzīgajiem tika dota iespēja skatīt Tevi un ieiet Tavā galmā, bet tie atļāva Tavas radības iedomu un Tavas tautas apspiedēju nodarīto pārestību plīvuram nolaisties starp viņiem un Tevi.
 Šī ir tā stunda, ak mans Kungs, kurai Tu esi licis būt pārākai par ikvienu citu stundu un dāvājis to izredzētajiem Savas radības vidū. Piesaucot Tevi Pašu un piesaucot viņus, es Tevi lūdzu, lai šī gada gaitā paaugstināti tiek tie, kas ir Tev mīļi. Vēl jo vairāk, lem jel šim gadam to, kas ļaus Tavas varas Saulei pacelties spožai pie Tavas godības apvāršņa un caur Tavu visaugsto spēku apgaismot visu pasauli.
 Savai Mācībai nes uzvaru, ak mans Kungs, un liec Taviem naidniekiem krist. Tad piešķir mums to labo, kas ir šai dzīvē un tai dzīvē, kas nāks. Tu esi Patiesība, Tu zini to, kas ir slēpts. Nav cita Dieva bez Tevis, Mūžam Piedodošā, Mūžam Devīgā.
-
--- Bahá'u'lláh

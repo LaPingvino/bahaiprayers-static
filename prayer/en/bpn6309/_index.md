@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6309 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 ##Birth of Bahá’u’lláh
@@ -13,5 +14,3 @@ This is the month wherein Paradise itself was decked forth with the splendours o
 When once thou hast received this Tablet, intone it in the sweetest of melodies and say: Praise be to Thee, O my most merciful Lord, for remembering me in this Tablet whereby the fragrance of the garment of Thy knowledge was diffused and the oceans of Thy grace were made to surge. I bear witness that Thou art potent to do as Thou pleasest. No God is there but Thee, the Almighty, the All-Knowing, the All-Wise.
 
 * Má’idiy-i-Ásmání, vol. 4, p. 342
-
--- Bahá'u'lláh

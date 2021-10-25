@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5030 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Nawruz
@@ -11,5 +12,3 @@ Lạy Thượng Đế của con, vì Ngài đã tô điểm họ với vật tra
 Ngài là Đấng đã khiến biểu hiệu này được nêu cao: “Ngài đáng ca ngợi trong các công trình của Ngài”; đã khiến linh kỳ này tung bay: “Tất cả vâng phục mệnh lệnh Ngài”. Lạy Thượng Đế của con, xin tỏ rõ cương vị của Ngài để họ được biết sự ưu tú của mọi vật đều tùy thuộc lệnh Ngài và lời Ngài, và đức hạnh của mọi hành động đều được định đoạt bởi uy phép Ngài và bởi sự vui thỏa của ý chí Ngài; xin Ngài giúp họ nhận biết rằng giềng mối mọi hành động của loài người đều ở trong nắm tay ưng chuẩn của Ngài và nơi mệnh lệnh Ngài. Xin khiến họ biết điều này, để cho không gì có thể khiến họ mù lòa trước Vẻ đẹp của Ngài, trong những ngày này khi Đấng Christ (Ki-tô) công bố: “Tất cả quyền ngự trị, thuộc về Ngài, hỡi Ngài là Đấng đã sinh ra Đấng Thánh thần (Jesus)”; những ngày mà Đấng Bạn hữu Ngài (Muhammad) đã tuyên dương: “Vinh quang thuộc về Ngài, hỡi Ngài là Đấng Kính yêu Nhất vì Ngài đã khải hiện Vẻ đẹp của Ngài và đã giáng bút cho những kẻ lựa chọn của Ngài điều khiến họ đạt tới ngôi mặc khải Tối Đại Danh của Ngài, Danh đã khiến mọi dân tộc phải khóc than, ngoại trừ những kẻ đã dứt bỏ hết mọi sự ngoài Ngài, và cùng hướng về Đấng là Đấng Mặc khải chính Ngài và là Đấng Biểu hiện các đặc tính của Ngài”.
 Lạy Thượng Đế của con, Đấng là Cành của Ngài và tất cả tín đồ của Ngài đã chấm dứt trai giới ngày hôm nay sau khi đã tuân giữ nó trong khuôn khổ Luật pháp của Ngài và trong nhiệt tình làm vui lòng Ngài. Xin ấn định cho Đấng ấy, cho họ, cho tất cả những ai bước vào cõi hiện diện của Ngài trong những ngày này tất cả những điều thiện mà Ngài đã hứa hẹn trong Thánh Kinh Ngài. Xin Ngài ban cho họ điều gì ích lợi cho họ trong đời này và đời sau.
 Quả thật, Ngài là Đấng Toàn tri, Đấng Toàn trí.
-
--- Bahá'u'lláh

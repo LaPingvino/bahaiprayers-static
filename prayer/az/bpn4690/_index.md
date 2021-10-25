@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4690 in Azərbaycan'
+author = 'Báb'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 ##Alqış Sənə, Ey Rəbbim
@@ -9,5 +10,3 @@ Alqış Sənə, Ey Rəbbim, mənim Allahım! Yalvarıram Sənə, məni və Səni
 Ey mənim Allahım! Qoy Sənin yanından nemətlərin və xeyr-bərəkətin, Sənin mərhəmətinin bir nişanəsi və inayətinin bir əlaməti kimi, sakinləri Sənin Əmrini qəbul etmiş evlərin üzərinə yağsın. Həqiqətən, bağışlamaqda Səndən ucası yoxdur. Sənin mərhəmətin bir kimsədən kəsilsə, Sənin Günündə o Sənin Dininin ardıcılları arasında necə sayıla bilər?
 
 Mənə, Ey mənim Allahım, təyin olunmuş Gündə Sənin əlamətlərinə iman gətirəcək kəslərə və ürəklərində mənim məhəbbətimi bəsləyənlərə xeyir-dua ver – o məhəbbət ki, Sən onların ürəyinə salmısan. Həqiqətən, Sənsən adil Sultan və Ən Uca.
-
--- Báb

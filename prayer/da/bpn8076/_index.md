@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8076 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Lovpriset være Dit navn, o Herre min Gud! Du er Ham, som alle ting tilbeder, og som ikke tilbeder nogen, som er alle tings Herre og ikke er slave af nogen, som kender alt og ikke kendes af nogen.
@@ -17,5 +18,3 @@ Du er Den Almægtige, Den Mest Ophøjede, Den Alherlige, Den Mest Elskende.
 Bahá'lláh Priset være Du, o Herre min Gud! Hver gang jeg forsøger at tale om Dig, hindres jeg af Dit stades ophøjethed og den overvældende storhed i Din magt. Thi skulle jeg prise Dig gennem hele Dit riges udstrækning, så længe Dit herredømme varer, ville jeg opdage, at min lovprisning af Dig alene sømmer sig for dem, der er mig lig, der selv er Dine skabninger, og som er blevet kaldt til live ved kraften i Dit bud og er blevet formet ved Din viljes magt. Og når som helst min pen forherliger nogle af Dine navne, synes det mig, at jeg kan høre stemmen fra dens klagesang i dens fjernhed fra Dig og opfanger dens skrig over dens adskillelse fra Dit selv. Jeg bevidner, at alt ud over Dig kun er Din skabelse og holdes i Din hule hånd. At Du har godtaget nogen gerning eller lovprisning fra Dine skabninger er kun et tegn på underne i Din nåde og gavmilde gunst og et vidne om Din ædelmodighed og Dit forsyn.
 
 Jeg bønfalder Dig, o min Herre, ved Dit største Navn, hvorved Du adskilte lys fra ild og sandhed fra fornægtelse, om at nedsende til mig og til dem blandt mine kære, der er sammen med mig, det gode i denne verden og i den næste. Forsyn os da med Dine underfulde gaver, der er skjult for menneskers øjne. Du er i sandhed hele skabelsens Former. Ingen Gud er der uden Dig, Den Almægtige, Den Alherlige, Den Højeste!
-
--- Bahá'u'lláh

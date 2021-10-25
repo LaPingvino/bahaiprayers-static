@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5215 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Loh Ridwan 
@@ -33,5 +34,3 @@ Demikianlah pengaruh mabuk dari firman-firman Tuhan terhadap Dia, Pewahyu bukti-
 
 *[Hari Raya Ridwan dan Pengumuman Hazrat Báb] 
 *[Hari Lahir Hazrat Bahá’u’lláh dan Hari Lahir Hazrat Báb].
-
--- Bahá'u'lláh

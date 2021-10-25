@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6980 in Fiji'
+author = 'Bahá'u'lláh'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 O i Kemuni na Kalou, na noqu Kalou! Na Nomuni loloma e sa vakayaloqaqataki au, kei na Nomuni lewa dodonu e vakasinaiti au e na rere. Sa ka ni marau vua na tamata me vakaivotavotataki e na Nomuni loloma, ia e na veivutuni o koya e ciqoma na Nomuni lewa dodonu.
@@ -9,5 +10,3 @@ Turaga! Au a dro tani mai e na Nomuni lewa dodonu, ka u sa vakataroga lesu tale 
 O i Kemuni duadua ga O ni vakavuna na veika kece ga me vakaraitaki ka vakararamataki keimami e nai serau ni Nomuni veitaqomaki kei na Nomuni veivukei.
 
 O i Kemuni dina ga na Vu ni Sautu, na Dauloloma.
-
--- Bahá'u'lláh

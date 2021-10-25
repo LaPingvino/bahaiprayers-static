@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11531 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh mi Dios!
@@ -18,5 +19,3 @@ Todos, en verdad, damos gracias a Dios.
 Todos, en verdad, somos pacientes en Dios.
 
 *(Si el difunto es mujer, dígase: Esta es Tu sierva y la hija de Tu sierva, etc.)
-
--- Bahá'u'lláh

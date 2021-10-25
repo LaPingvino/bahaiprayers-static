@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7773 in Kreyol Ayisyen'
+author = 'Bahá'u'lláh'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen! Jou sa yo se jou kote Ou te mande sèvitè Ou yo pou yo fè Jèn nan. Ou te fè kòmansman Liv Lwa Ou a bèl avèk lwa Jèn nan, yon Liv Ou te revele pou kreyati Ou yo, e, nan lide tout sa yo ki nan syèl la ak tout sa yo ki sou latè, Ou te dekore Trezò kòmandman Ou yo avèk lwa sa a. Ou te bay chak moman nan Jou sa yo yon bonte espesyal, yon bonte pèsonn pa kapab dekouvri, se sèl Ou menm, O Ou menm Ki gen yon konesans ki antoure tout bagay ki te kreye. Ou te mete pou chak nanm yon pòsyon nan bonte sa a daprè Epit lwa Ou a ak Pawòl jijman Ou yo ki pa kapab chanje. Anplis, Ou revele chak fèy nan Liv sa yo e chak paj nan Pawòl sa yo pou chak nan pèp ak tribi ki sou tè a.
@@ -11,5 +12,3 @@ Epi, voye desann sou nou, O Bondye mwen, sa ki diyn pou gras Ou, sa ki kòrèk p
 O Bondye mwen! Ou wè sa ki te rive byeneme Ou yo nan jou pa Ou yo. Glwa Ou pote mwen temwayaj! Vwa soufrans moun Ou te chwazi yo te leve toupatou nan wayòm Ou an. Kèk pami yo te tonbe nan pyèj enkredil yo nan peyi Ou, e sa te anpeche yo jwenn kontak avèk Ou e rive nan lakou glwa Ou. Genyen lòt pami yo ki te reyisi avanse pi pre Ou, men yo pa t’ gen chans gade figi Ou. Genyen lòt ankò ki te tèlman antouzyas pou wè Ou, yo te reyisi jwenn posibilite antre nan lakou twòn Ou, men yo te kite vwal ki genyen yo separe yo ak Ou menm - vwal ki se lide san valè kreyati Ou yo genyen ak enjistis opresè yo pami pèp Ou yo te fè Ou.
 O Bondye mwen! Sa se epòk la Ou te fè pi bon pase tout lòt epòk yo, epi Ou te rakonte li pou kreyati Ou te chwazi yo. Mwen sipliye Ou, O Bondye mwen, poutèt Ou menm, e poutèt kreyati Ou te chwazi yo, pou kòmande sa ki pral egzalte byeneme Ou yo pandan ane sa a. Anplis, mwen mande Ou deside pandan ane sa a, O Bondye mwen, sa ki pral pèmèt Solèy pisans Ou klere fò nan syèl glwa Ou a, e pou li limen tout latè daprè pouvwa souveren Ou. 
 Bay Koz Ou laviktwa, O Bondye mwen, e bese enmi Ou yo. Epi, ekri pou nou tout sa k’ap bon nan lavi sa a ak nan lòt lavi a. Ou se Laverite, Sila a Ki konnen bagay ki sekrè yo. Pa gen lòt Bondye pase Ou, Sila a K’ap Toujou Padone, Ki Gen Tout Bonte a.
-
--- Bahá'u'lláh

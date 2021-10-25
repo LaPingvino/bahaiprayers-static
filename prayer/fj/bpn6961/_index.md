@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6961 in Fiji'
+author = 'Bahá'u'lláh'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 Noqu Kalou ka noqu i Vakavuvuli! O i au na Nomuni tamata ka u luve ni Nomuni tamata. Au sa qai duri cake mai oqo e na noqu i davodavo e na kida ni mataka ni sa vakaraitaki tu mai oqo na i Vola Siga ni Nomuni Duavata e na vuku ni kaukauwa ni Tovure ni Siga ni Nomuni lewa, ka sa qai cila yani oqo e na kena i serau e na dela i vuravura raraba me vaka ga e sa yalataki oti tu e na i Vola ni Nomuni Lewa.
@@ -9,5 +10,3 @@ Noqu Kalou, keimami sa vakacaucautaki Kemuni, ni keimami sa qai yadra mai e na m
 Ni vakalougatataki ira, Turaga na noqu Kalou, o Koya O ni sa solia vua na Nomuni Yacabuli cecere duadua, kei Koya O ni sa wasea tani mai vei ira sa sega ni kilai Kemuni, ka mai vukei keimami mada me keimami vakayacora na veika O ni marautaka ka gadreva. Mo ni vakalougatataki ira tale ga, vaka kina, O i Kemuni na noqu Kalou, na Nomuni Gusunivosa kei na Nomuni Matanivola, kei ira era sa vakanamata tiko yani vei Kemuni,kei ira era sa tavuki oti tu yani vei Kemuni, ka vakarorogo ki na Nomuni Kaci.
 
 O i Kemuni, dina, na Turaga kei na Tui ni matatamata kece ga, ka kaukauwa vei ira na ka kece ga.
-
--- Bahá'u'lláh

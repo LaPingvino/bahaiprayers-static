@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1327 in Português (BR)'
+author = 'Bahá'u'lláh'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola De Naw-Rúz
@@ -8,5 +9,3 @@ Desde que Tu os ornamentaste, ó meu Senhor, com o adorno do jejum prescrito por
 És Aquele através de Quem se ergueu a insígnia “Digno de louvor és Tu em Tuas obras” e se desfraldou o estandarte “Obedecido és Tu em Tuas ordens”. Torna conhecida aos Teus servos essa Tua posição, ó meu Deus, para que saibam ser a excelência de todas as coisas dependente da Tua autorização e da Tua palavra, e a virtude de todo o ato condicionada à Tua permissão e à Tua vontade, a fim de reconhecerem que as rédeas das atividades humanas se acham nas mãos da Tua aprovação e do Teu mandamento. Que isto lhes seja conhecido para que nada em absoluto os possa excluir da Tua Beleza, nestes dias em que o Cristo exclama: “Todo o domínio é Teu, ó Tu que geraste o Espírito”; e o Teu Amigo exclama: “Glória a Ti, ó Tu, o Mais Amado, pois desvelaste a Tua Beleza e inscreveste para os Teus eleitos o que os fará atingirem a sede da revelação do Teu Nome Supremo, através do qual lamentaram todos os povos exceto aqueles que se desprenderam de tudo, menos de Ti, e se voltaram para Ele, o Revelador do Teu próprio Ser e o Manifestante dos Teus atributos.”
 Aquele que é o Teu Ramo e toda a Tua companhia, ó meu Senhor, quebraram hoje o seu jejum, após o terem observado nos recintos da Tua corte, em seu anseio de fazer o que Te apraz. Ordena-Lhe e a eles, e a todos os que entraram na Tua presença, nesses dias, todo o bem que destinaste no Teu Livro. Concede-lhes, então, o que seja de benefício, tanto nesta vida como na do além.
 Tu és, em verdade, o Omnisciente, a Suma Sabedoria.
-
--- Bahá'u'lláh

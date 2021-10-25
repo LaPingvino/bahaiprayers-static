@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8641 in 简体中文'
+author = 'Abdu'l-Bahá'
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 任何至异域传导的人，均可日夜诵读以下祷文。
@@ -7,5 +8,3 @@ tags = ['lang-zh-Hans', 'bpn-unsorted']
 主啊！求祢扶持我，使我全心全意地为祢服务，切莫让我在这些地区孤立无援。
 主啊！请允许我在寂寞时与祢恳谈，并做我异国之旅的伙伴。
 诚然，祢随心所欲，确认祢的任何意欲之人。诚然，祢是全能者，万能者。
-
--- Abdu'l-Bahá

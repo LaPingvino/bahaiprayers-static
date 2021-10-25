@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12140 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhan, Engkaulah Pencipta semua Manifestasi, Sumber kepada segala Sumber, Sumber segala Wahyu, dan Sumber segala Cahaya! Aku naik saksi bahawa dengan Nama-Mu syurga pengertian telah dihiasi, dan samudera ujaran telah bergelora, dan dispensasi-dispensasi pemeliharaan-Mu telah diumumkan kepada semua pengikut segala agama.
@@ -9,5 +10,3 @@ Aku memohon kepada-Mu untuk memperkaya daku agar aku dapat mengetepikan semua be
 Hamba-Mu ini, Ya Tuhanku, yang dengan seluruh kewujudannya telah berpaling ke ufuk rahmat-Mu, dan samudera kurnia-Mu, dan syurga pemberian-Mu. Tetapkan bagiku apa yang sesuai dengan kebesaran-Mu, dan kemuliaan-Mu, dan kerahmatan-Mu, dan kurnia-Mu.
 
 Sesungguhnya, Engkau adalah Tuhan kekuatan dan kekuasaan, Yang layak untuk menjawab kepada mereka yang berdoa kepada-Mu. Tiada Tuhan melainkan Engkau, Yang Maha Tahu, Yang Maha Arif.
-
--- Bahá'u'lláh

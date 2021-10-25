@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11692 in Español'
+author = 'Abdu'l-Bahá'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Él es Dios!
@@ -9,5 +10,3 @@ tags = ['lang-es', 'bpn-unsorted']
 ¡Oh Señor! Colma sus oídos con los versículos de la ayuda divina y de una pronta victoria, y líbralos de la opresión de los que ostentan poder tan terrible. Retén las manos de los malvados y no dejes que estas almas sean destrozadas por las garras y los colmillos de las bestias feroces, pues son cautivas de su amor por Ti, depositarias de los misterios de Tu santidad, se presentan humildemente ante Tu puerta, y han llegado a Tu exaltado recinto.
 ¡Oh Señor! Fortalécelos bondadosamente con un nuevo espíritu; ilumina sus ojos permitiendo que contemplen Tus maravillosas señales en la oscuridad de la noche; destina para ellos todo el bien que abunda en Tu Reino de misterios eternos; haz de ellos estrellas brillantes que resplandecen sobre todas las regiones, árboles frondosos cargados de frutos, y ramas que se mecen con las brisas del amanecer.
 Verdaderamente, Tú eres el Munífico, el Poderoso, el Omnipotente, el Libre. No hay Dios sino Tú, el Dios de amor y tierna misericordia, el Todoglorioso, Quien siempre perdona.
-
--- Abdu'l-Bahá

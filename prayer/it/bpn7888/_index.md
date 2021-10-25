@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7888 in Italiano'
+author = 'Abdu'l-Bahá'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Signore, mio Dio e mio Porto nel dolore! Mio Scudo e Ricovero nelle sventure! Mio Asilo e Rifugio nel momento del bisogno e nel-l’isolamento mio Compagno! Nell’angoscia mio Sollievo e nella solitudine Amico amoroso! Co-lui Che allontana gli spasimi dei miei dolori e perdona i miei peccati! 
@@ -12,5 +13,3 @@ Fa’ che il mio cuore trabocchi d’amore per le Tue creature e concedimi di di
 O Dio, mio Dio! Non allontanare da me le soavi brezze del Tuo perdono e della Tua grazia e non privarmi delle sorgenti del Tuo aiuto e del Tuo favore. Ponimi all’ombra delle Tue ali protettrici e guardami con lo sguardo dei Tuoi occhi che tutto proteggono. 
 Sciogli la mia lingua per lodare il Tuo nome fra le Tue genti, fa’ che la mia voce si levi in grandi adunanze e che dalle mie labbra irrompa il torrente della Tua lode. 
 Tu sei, in verità, il Benigno, il Glorificato, il Forte, l’Onnipotente.
-
--- Abdu'l-Bahá

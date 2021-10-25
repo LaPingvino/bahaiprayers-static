@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5865 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Dones
@@ -8,5 +9,3 @@ Glòria sia a Tu, oh Senyor Déu meu! Et prego pel Teu Nom, mitjançant el qual 
 Ella està malalta, oh Déu meu, i s’ha posat a l’ombra de l’arbre del Teu guariment; està afligida i ha fugit cap a la ciutat de la Teva protecció; està abatuda i s’ha apressat cap a la deu de la Teva tranquil·litat; està carregada de pecats i ha dirigit el seu rostre cap a la cort de la Teva misericòrdia.
 Abilla-la, per la Teva sobirania i amorosa bondat, oh Déu meu i estimat, amb la vestidura del Teu bàlsam i guariment, i dóna-li a beure del calze de la teva misericòrdia i favors. Protegeix-la, a més, de tota aflicció i dolença, i de tot dolor i malaltia i de tot allò que et sigui detestable.
 Tu en veritat, estàs immensament exaltat per sobre de tot el que no siguis Tu mateix. Tu ets veritablement el Guaridor, el qui és suficient per a tot, el Preservador, Qui sempre perdona, el Més Misericordiós.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3241 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Hierdie, o my Here, is die dae waarop U U dienaars gelas het om die vas te onderhou. Daarmee het U die voorrede van die Boek van U Wette versier wat aan U skepsels bekend gemaak is, en die Bewaarplekke van U gebooie opgeskik in die sig van almal wat in U hemel en almal wat op U aarde is. U het elke uur van hierdie dae met 'n spesiale deug bedeel, ondeurgrondelik vir almal behalwe U, Wie se kennis alle geskape dinge omhels. U het ook aan elke siel 'n deel van hierdie deug toegeken ooreenkomstig die Tafel van U verordening en die Geskrifte van U onherroeplike oordeel. Elke blad van hierdie Boeke en Geskrifte het U, bowendien, aan elkeen van die volke en soortgenote van die aarde toegeken.
@@ -19,5 +20,3 @@ U aanskou, o my God, wat U dierbares in U dae oorgekom het. U heerlikheid getuig
 Dit is die uur, o my Here, wat U elke ander uur laat oortref het en in verband gebring het met die uitgesogtes onder U skepsels. Ek smeek U, o my God, by U Self en by hulle, om in die loop van hierdie jaar dit te beskik wat U bemindes sal verhef. Verorden U boonop, gedurende hierdie jaar, dit wat die Môrester van U krag helder oor die horison van U heerlikheid sal laat skyn, en die hele wêreld deur U oppermag sal verlig.
 
 Maak U Saak seëvierend, o my Here, en verneder U vyande. Teken dan aan vir ons die goeie van hierdie lewe en van die lewe wat kom. U is die Waarheid, Wat die geheime dinge weet. Geen God is daar behalwe U nie, die Altyd-Vergewende, die Almilddadige.
-
--- Bahá'u'lláh

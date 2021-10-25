@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5203 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##LOH API
@@ -125,5 +126,3 @@ Sesungguhnya, Aku telah mendengar Panggil-an-Mu, ya Kekasih Yang Maha Mulia; dan
 kepada keridoan-Mu, ya Penakdir semesta alam.
 Wahai Ali-Akbar, berterima kasihlah kepada Tuhan-Mu atas Loh ini, karena engkau dapat menghirup keharuman kelembutan hati-Ku dan mengetahui apa yang menimpa Kami di jalan Tuhan, Pujaan semesta alam.
 Seandainya semua hamba membaca dan merenung- kan ini, maka dalam urat darah mereka akan berkobar api yang akan menyalakan Semesta Alam.
-
--- Bahá'u'lláh

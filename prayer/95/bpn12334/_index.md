@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12334 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E maluga e ia Koe, O te Aliki toku Atua!  E tuku atu ne au kia Koe a te fakafetai auaa ko oto ne fai ne Koe au pe la me se taketi o 
@@ -11,5 +12,3 @@ Au e akai faka-molemole kia Koe, O ko Koe Te la e kalaga mai ki loto o latou kat
 mua o mata o latou katoa ko la e nofo i Tou lagi mo Tou lalolagi, i se auala atamai ko la e amio mataga a Falaoa ne fai ki lua i te kau teke i loto i Au tavini e se mafai o manumaalo o taofi a latou mai ia Koe.  
   
 A Koe, e tonu, ko te Atua o te maalosi, ko te Atua o te matagofie, ko te Atua o te tupu ola mo te atamai.
-
--- Bahá'u'lláh

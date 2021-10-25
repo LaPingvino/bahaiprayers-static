@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2350 in Latviešu'
+author = 'Bahá'u'lláh'
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Skaitāma ik pa divdesmit četrām stundām
@@ -64,5 +65,3 @@ Lai slava Tev, ak mans Dievs, ka Tu mums esi dāvājis gribu pēc Tevis tiekties
 *Tad jāpaceļ galva, jāapsēžas un jāsaka:
 
 Es apliecinu, ak mans Dievs, to, ko apliecinājuši ir Tavi Izredzētie, un es atzīstu to, ko ir atzinuši tie, kas mājo Tavā Visaugstākajā Paradīzē un tie, kas lokā stāv ap Tavu varenības troni. Tev pieder debesu un zemes ķēniņvalstis, ak pasauļu Kungs!
-
--- Bahá'u'lláh

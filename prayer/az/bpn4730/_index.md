@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4730 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey mənim Allahım! Ey mənim Allahım! Doğurdan da, Səni çağırıram və Sənə iltimas edirəm, Sənin astananda diləyirəm ki, Sənin bütün mərhəmətin bu ruhların üzərinə yağsın. Onları Öz lütf və həqiqətin üçün hazırla.
@@ -11,5 +12,3 @@ Ya Rəbb, Ey nəhayətsiz mərhəmət Sahibi! Ey bağışlama və əfv Mövlası
 Ya Rəbb Allah! Bizi bir dənizin dalğaları, bir bağçanın gülləri kimi Öz məhəbbətinin bəxşişləri ilə birləşdir, bizi yekdil eylə. İlahi! Sənin təkliyinin nişanələri ilə qəlbləri aç, bütün bəşəri eyni bir cəlal yüksəkliyində parlayan ulduzlar və Sənin həyat ağacında yetişən gözəl mevələr eylə.
 
 Həqiqətən, Sən Qüdrətli, Qəyyum, Əta Edən, Bağışlayan, Əfvedən, Hər Şeyi Bilən və Tək Yaradansan.
-
--- Abdu'l-Bahá

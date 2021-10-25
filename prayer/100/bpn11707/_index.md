@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11707 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Igiyar dake ɗaure zūkāce yanda ya kamāta, ita cē, biyayya. Idan sun haɗu, yā cancanta masōyā, su gwadāwa jūna amānā matuƙa.
@@ -18,5 +19,3 @@ Ku tsaya tsayin daka, bisa hanyar sōyayya.
 Ku shinshina ƙamshin furannin sōyayya.
 Gūrinku, ya ƙunshi karāmar abincin sōyayya, kuma batūtuwanku, su zama tamkar jērin farāren lu’u’lu’un tēkun sōyayya.
 Ku shā matuƙa, ruwan sōyayya, sabōda ku rāyu har kullun cikin ƙaunar Allah Ubangiji.
-
--- Abdu'l-Bahá

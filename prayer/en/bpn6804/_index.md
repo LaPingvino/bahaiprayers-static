@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6804 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Lauded be Thy name, O Thou in Whose hands is the kingdom of all names, and in the grasp of Whose might are all that are in heaven and all that are on earth! I entreat Thee, by Him Who is Thy Most Effulgent Name Whom Thou hast made a target for the darts of Thy decree in Thy path, O Thou the King of eternity, to rend asunder the veils that have shut off Thy creatures from the horizon of Thy glory, that haply they may turn their faces in the direction of Thy mercy, and draw nigh unto the Dayspring of Thy loving-kindness.
@@ -12,5 +13,3 @@ Potent art Thou to do what Thou willest, and to rule as Thou pleasest. There is 
 
 
 *Prayers and Meditations, LXXII
-
--- Bahá'u'lláh

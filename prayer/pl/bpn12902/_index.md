@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12902 in Polski'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie tak bogaty szczodrością, tak łaską przepełniony,
@@ -25,5 +26,3 @@ Lecz łask potokami obdarzaj nas w swej szczodrości.
 
 Tym ptakom o złamanych skrzydłach, które lecą powoli już
 Z miłosierdzia swego czułego skrzydła nowe stwórz.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2280 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Dumnezeule, care eşti Autorul
@@ -10,5 +11,3 @@ Te implor să mă îmbogăţeşti în aşa măsură încât să mă pot lipsi de
 Acesta este slujitorul Tău, o, Domnul meu, care cu întreaga sa fiinţă s-a întors către orizontul mărinimiei Tale, către oceanul harului Tău şi cerul darurilor Tale. Fă cu mine aşa după cum se cuvine maiestăţii Tale, gloriei Tale şi mărinimiei şi harului Tău.
 
 Tu eşti, cu adevărat, Dumnezeul tăriei şi al puterii, care răspunzi celor ce Te roagă. Nu există alt Dumnezeu în afară de Tine, Cel Atotştiutor, Cel Atotînţelept.
-
--- Bahá'u'lláh

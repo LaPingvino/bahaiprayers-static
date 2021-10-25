@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11237 in Kiribati'
+author = 'Bahá'u'lláh'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 N aran te Atua, Bwain Ngkoa Ngkoa, te Kabanea ni Korakora.
@@ -101,5 +102,3 @@ Ko na tang, ke Nna tang? Ni bon arona, Nna tang ibukin karakoia ara tiambion, O 
 
 O Ali Akbar, karabwa am Uea ibukin te Tabureti aio ike ko kona n ikeikena boiararan Au kamangori, ao atai bwai ake Ti a tia n aitara ma ngaai inanon kawain Te Atua, te Rangin Tangiraki inanon taian aonnaba nako. 
 Ngkana a bane tooro nako ni wareka ao ni karaua n iangoa aio, ao e na kakiaaki inanon iaia te ai ae e na kaurarakei taian aonnaba.
-
--- Bahá'u'lláh

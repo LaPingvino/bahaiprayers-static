@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6846 in American Indian'
+author = 'Bahá'u'lláh'
 tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Gichi-tawaawan maanpii, 
@@ -34,5 +35,3 @@ and the sea,
 and the island, 
 and the meadow where mention of God 
 hath been made, and His praise glorified.
-
--- Bahá'u'lláh

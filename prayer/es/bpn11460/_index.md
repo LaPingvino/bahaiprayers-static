@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11460 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Él es Dios! ¡Exaltado es Él, el Señor de la fuerza y la grandeza!
@@ -15,5 +16,3 @@ Bajo la espada, toda munificencia es Tuya, oh Tú, fuera de Quien no hay otro Di
 En la noble mansión, toda generosidad es Tuya, oh Tú, fuera de Quien no hay otro Dios, y en el humilde polvo, todo favor es Tuyo, oh Tú, fuera de Quien no hay otro Dios.
 En la prisión, toda fidelidad es para contigo, oh Tú Otorgador de dones, y en el encarcelamiento, toda eternidad es Tuya, oh Tú que eres el Rey sempiterno.
 Toda generosidad es Tuya, oh Tú que eres el Señor de la generosidad, y el Soberano de la generosidad, y el Rey de la generosidad! Atestiguo que Tú has de ser alabado por Tus hechos, oh Tú, Fuente de la generosidad, y obedecido en Tus mandatos, oh Tú, Océano de la generosidad, Aquel de Quien procede toda generosidad, Aquel a Quien retorna toda generosidad.
-
--- Bahá'u'lláh

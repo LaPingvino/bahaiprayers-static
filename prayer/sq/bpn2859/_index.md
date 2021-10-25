@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2859 in Shqip'
+author = 'Bahá'u'lláh'
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 *Tabelë e reveluar nga Bahá'u'lláh-u me titull "Qad-Ihtaraqua'l-Mukhlihún"
@@ -174,5 +175,3 @@ Me të vërtetë, unë e kam dëgjuar Thirrjen Tënde, O i Shumëdashuri Lavdipl
 O Ali-Akbar, falëndero Zotin tënd për këtë Tabelë, prej së cilës ti mund të nuhatësh aromat e butësisë Sime dhe të mësosh se ç'na ka ndodhur Neve në shtegun e Perëndisë, të Adhuruarit të të gjitha botëve.
 
 Sikur të gjithë shërbëtorët ta lexojnë e të thellohen në të, në damarët e tyre do të ndizet një zjarr që do t'i përflakë botët.
-
--- Bahá'u'lláh

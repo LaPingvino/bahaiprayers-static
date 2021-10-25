@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9666 in Nederlands'
+author = 'Abdu'l-Bahá'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 ##Geopenbaard aan de bahá’ís van de Verenigde Staten en Canada
@@ -11,5 +12,3 @@ O God, mijn God! Gij ziet mij in vervoering, en aangetrokken tot Uw glorierijke 
 O Heer! Sterk mijn rug, geef dat ik U met volledige inzet kan dienen, en laat mij in deze gebieden niet eenzaam en hulpeloos aan mijzelf over.
 O Heer! Wees met mij in mijn eenzaamheid en weest Gij mijn metgezel in deze vreemde landen.
 Waarlijk, Gij bekrachtigt al wie Gij wilt in hetgeen Gij verlangt, en waarlijk, Gij zijt de Almogende, de Almachtige.
-
--- Abdu'l-Bahá

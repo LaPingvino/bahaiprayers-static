@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12064 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ”Dalam segala sesuatu ada tandanya. Tanda kasih adalah keteguhan hati di bawah perintah-Ku dan kesabaran di bawah cubaan-cubaan-Ku.”               
@@ -11,5 +12,3 @@ tags = ['lang-104', 'bpn-unsorted']
 
 
 ”Jikalau kemakmuran datang kepadamu, janganlah bergembira, dan jikalau penghinaan menimpa dirimu, janganlah berduka, kerana kedua-duanya akan berlalu dan tidak ada lagi.”
-
--- Bahá'u'lláh

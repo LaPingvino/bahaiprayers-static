@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3230 in Afrikaans'
+author = 'Abdu'l-Bahá'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O God, my God! U sien hoe die swart donkerheid alle streke omhul, hoe alle lande met die vlam van verdeeldheid brand, en die vuur van oorlog en slagting oor die Ooste en die Weste brand. Bloed vloei, lyke bestrooi die grond, en afgekapte koppe is in die stof van die slagveld geval.
@@ -25,5 +26,3 @@ O Here! Voorwaar, die mense is in die afgrond van hartstog, en niks behalwe U on
 O Here! Verdryf die donkerheid van hierdie verdorwe begeerlikhede, en verlig die harte met die lamp van U liefde waardeur alle lande eersdaags verlig sal word. Bevestig, daarbenewens, U bemindes, hulle wat hulle tuislande, hulle families en hulle kinders verlaat het, en, uit liefde vir U prag, na vreemde lande gereis het om U geure te versprei en U Leer te verkondig. Wees U hulle metgesel in hulle eensaamheid, hulle helper in 'n vreemde land, die verwyderaar van hulle droefhede, hulle trooster in rampspoed. Wees U 'n verfrissende teug vir hulle dors, 'n genesende medisyne vir hulle siektes en 'n balsam vir die brandende ywer van hulle harte.
 
 Voorwaar, U is die Vrygewigste, die Here van oorvloeiende genade, en, voorwaar, U is die Medelydende en die Barmhartige.
-
--- Abdu'l-Bahá

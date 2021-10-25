@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12874 in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is God.
@@ -11,5 +12,3 @@ Thus have the hearts of Thy loved ones overflowed with joy and rapture and been 
 O God, my God! O Thou Who art the Goal of my desire! Unlock before the faces of Thy loved ones the portals of Thy favours on this perspicuous day. Hoist the sails of guidance above their heads in the Crimson Ark. Cause them to be gathered beneath the standard of Thy bounty and generosity, and send down upon them the sign of Thy grace in the midmost heart of creation. O Lord my God! Make them radiant stars, resplendent lamps, brilliant orbs, and blazing meteors, so that they may arise to serve Thee amongst Thy creatures, kindle the fire of Thy love in the hearts of Thy people, scatter abroad Thy signs throughout Thy realms, and edify the souls of all that dwell on earth. Then shall Thy heavenly repast be outspread throughout the world, this contingent plane become the Abhá Paradise by the power of Thy might, and this nether dust be made the envy of the high heavens through the outpourings of Thy wisdom.
 
 O Lord! Make of Thy loved ones celestial angels who inhabit Thine earth, and enable Thy chosen ones to become heavenly people who reside in Thy realm. This, indeed, is the highest aspiration of Thy servant who hath humbled himself before Thy sovereignty, bowed down in adoration before Thy door, prostrated himself before Thy glory, and fallen upon the dust before the power of Thy sovereign might. Thou art the Bestower, the Compassionate, the Almighty, the All-Bountiful.
-
--- Abdu'l-Bahá

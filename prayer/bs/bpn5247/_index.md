@@ -1,10 +1,9 @@
 +++
 title = 'Prayer bpn5247 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 UIme Boga, Najuzvišenijeg! Veličan i slavljen si Ti, Gospodaru, Svemoćni Bože! Ti pred čijom mudrošću mudri poklekoše i zanijemiše, pred čijim znanjem učeni priznaše svoju neukost, suočeni sa čijom snagom jaki posustaše, pred čijom se svjetlošću prosvijetljeni izgubiše u tami, oko hrama čijeg znanja se okreće osnova svog razumijevanja i pred svetištem čijeg prisustva kruže duše cijelog čovječanstva.
 Kako govoriti o Tvojoj Suštini, kada je mudrost mudrih i znanje učenih nisu uspjeli spoznati. Čovjek ne može pjevati o onome što ne razumije, niti pripovijedati o onome što mu je nedokučivo, a Ti si oduvijek bio Nedostupan i Nedokučiv. Mada sam nemoćan vinuti se prema nebesima Tvoje slave i uspeti se ka visinama Tvoga znanja, mogu samo nabrajati Tvoja znamenja koja govore o Tvojoj veličanstvenoj rukotvorini.
 Tvoje mi slave! O Čežnjo svih srca, jedino Ti možeš utihnuti jecaje žudnje za Tobom! Ako se svi žitelji neba i zemlje ujedine u veličanju najmanjeg od Tvojih obilježja kojim Se javljaš i obznanjuješ, oni ne mogu u tome uspjeti; kako bi tek onda mogli uzdići Tvoju svetu Riječ, tvorca svih Tvojih znakova.
 Sva hvala i slava pripada Tebi, o, Ti o kojem je sve što postoji posvjedočilo da si Jedini i da nema drugog Boga osim Tebe, koji je od vječnosti uzvišen iznad poređenja i sličnosti bilo kome, i koji će dovijeka ostati takav. Svi kraljevi su Ti sluge, a sva vidljiva i nevidljiva bića su ništavna u poređenju s Tobom. Nema Boga osim Tebe, Milostivog, Moćnog, Najuzvišenijeg.
-
--- Bahá'u'lláh

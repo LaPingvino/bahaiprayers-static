@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11706 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-100', 'bpn-unsorted']
 +++
 *Ginshiƙin aure a cikin addinin baha’i shīnē, haɗin kai da shiri tsakānin ango da amarya. Amma, yā cancanta su yi hattara matuƙa, kuma su kōyi bin hanyar sanin jūna da kyau. Yā kamata wannan igiya wadda bā ta cirēwa, ta danganta bisa ma’āmala mai ƙwāri, dōmin shinfiɗa shiri, aminci da haɗin kai, sabōda kaiwa ga rāyuwar har abada.
@@ -19,5 +20,3 @@ Don haka, ka haɗa, cikin samāniyar rahamarka, waɗannan tsuntsāyen gidan ƙau
 *«Yā garwaya tēku biyu suna haɗuwa. A tsakāninsu, yā kurta iyāka da bai cancanta ba su ƙētare. Waɗanne daga cikin ni’imōmin Ubangijinku zā ku wātsar ? Ya nā fitar daga kōwannensu, lu’ulu’u manyā da ƙanānā.»
 Yā kai Ubangiji mayalwaci ! Ka sā kyaukyāwar haifuwa ta sāmu daga wannan aure.
 Kai nē bā shakka, mabuwāyi, mafi girma, mai gāfara da bā ta da iyāka.
-
--- Abdu'l-Bahá

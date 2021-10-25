@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7837 in Italiano'
+author = 'Abdu'l-Bahá'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 ##RIVELATA AI BAHÁ'Í DEGLI STATI NORD-ORIENTALI
@@ -9,5 +10,3 @@ O Tu Signore benevolo! Lode a Te Che ci hai indicato la strada maestra della ret
 Onnipotente Iddio! Siamo i Tuoi servi bisognosi; siamo lontani e aneliamo alla Tua presenza, siamo assetati dell’acqua della Tua fonte siamo infermi e agogniamo da Te la guarigione. Camminiamo sul Tuo sentiero e non abbiamo altro scopo o speranza tranne la diffusione delle Tue fragranze, sì che tutte le anime esclamino: «O Dio, guidaci sulla retta via!». Possano i loro occhi aprirsi per vedere la luce, siano liberati dalle tenebre dell’ignoranza e riuniti attorno alla lampada della Tua guida. Possano gli sventurati ricevere la loro parte e i diseredati divenire depositari dei Tuoi misteri.
 Onnipotente! Volgi a noi il Tuo sguardo misericordioso. Accordaci la confermazione celeste. Dispensaci l’alito dello Spirito Santo, sì che possiamo essere assistiti nel Tuo servizio e, simili a stelle risplendenti, irradiare in queste regioni la luce della Tua guida.
 In verità, Tu sei il Potente, il Forte, il Saggio, il Veggente.
-
--- Abdu'l-Bahá

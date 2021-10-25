@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10958 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O ko Koe a te Aliki alofa!  Ko oti ne faite ne Koe a tino katoa mai i te itukaaiga e tasi.  Ko oti ne fakatonu mai ne Koe ko tino katoa ke kau i se fale e tasi.  I Ou Mua Mana, a latou katoa ko Au tavini, a ko tino katoa e malu mai lalo i Tou Tapanekolo; katoa ko oti ne luku fakatasi i Tau Taipola o te Maukoloa; katoa e faka-mainagina mai i te mainaaga o Tou alofa atamai.
@@ -14,5 +15,3 @@ O ko Koe a te Aliki alofa!  Ko oti ne faite ne Koe a tino katoa mai i te itukaai
 
      O ko Koe ko te Tamana alofa, te Atua!  Fakafiafia olotou loto mai i te manogi gali o Tou alofa. Faka-pula a olotou mata mai i te Mainaaga o Tau Takitakiiga.  Faka-fiafia a omotou taliga ki te leo o Tau Muna, kae fakamalu a latou katoa i te Fale-maalosi o Tau Fuafuaaga-tau.
      A Koe ko te Mafi mo te Maalosi, a Koe ko te Fakamagalo mo Koe ko te Tokotasi Tela e se-saga ki mea se a tino katoa.
-
--- Abdu'l-Bahá

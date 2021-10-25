@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4792 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 O duanı Eşidən, ona cavab Verən Allahdır! And olsun cəlalına, Ey Məhbub, Sən Ey aləmi Nurlandıran! Hicran atəşi məni yandırdı, asiliyim ürəyimi əritdi. Sənin Ən Böyük Adına and verirəm, Sən Ey aləmin Məqsudu və bəşərin Məhbubu, izn ver ki, nəfəsinin rahiyəsi mənim ruhumu qidalandırsın, ecazkar Nidan qulağıma yetişsin, gözlərim Sənin adlarının və sifətlərinin məzhərlərində təzahür edən əlamətlərini və Sənin nurunu görsün, Sən Ey ovcunda bütün şeylərin cilovunu Saxlayan!
@@ -11,5 +12,3 @@ Və yenə də, Səni and verirəm, Sənin fəzlinin yağışlarına və lütf d�
 And olsun Sənin hökmranlığına, Sən Ey ürəklərdə Alqışlanan! Öz iradə və istəyimi unudaraq mən Sənə tərəf dönmüşəm ki, Sənin müqəddəs iradən və razılğın məni idarə etsin və Sənin tale və təqdir qələminin mənə yazdığı qismətə uyğun məni yönəltsin. Bu bəndə, İlahi, köməksizdir, amma Sənin Qüdrət üfüqünə dönür, zillətdədir, ancaq Sənin izzət Məşriqinə tələsir, möhtacdır, lakin Sənin fəzl Dəryanı arzulayır. Yalvarıram Sənə, onu Öz lütf və kəramətindən rədd etmə.
 
 Sən həqiqətən, Qüdrətli, Bagışlayan, Şəfqətlisən.
-
--- Bahá'u'lláh

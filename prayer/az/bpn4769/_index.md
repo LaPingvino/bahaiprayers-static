@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4769 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 İlahi! Çarəsizik, lütf eylə; fəqirik, sərvət dəryandan pay ver; möhtacıq, qane eylə; zəlilik, izzətini əta eylə. Göydəki quşlar və yerdəki heyvanlar öz yemini hər gün Səndən alır, bütün varlıqlar Sənin inayət feyzindən bəhrələnir.
@@ -7,5 +8,3 @@ tags = ['lang-az', 'bpn-unsorted']
 Bu acizi ecazkar fəzlindən binəsib qoyma və qüdrətinlə bu çarəsizi bəxşişinə layiq gör.
 
 Gündəlik ruzimizi ver və bərəkətini ehsan et, ta ki, Səndən başqa heç kəsə möhtac olmayaq, ancaq Səninlə ünsiyyətdə olaq, Sənin yollarınla gedək və Sənin sirlərini açıqlayaq. Sənsən Qüdrətli, Mehriban, bəşərə Ruzi Verən.
-
--- Abdu'l-Bahá

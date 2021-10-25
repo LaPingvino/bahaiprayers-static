@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6235 in Luganda'
+author = 'Bahá'u'lláh'
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 *Essaala eno esomerwa abo abasussizza emyaka ekumi n'ettano.  Ye ssaala ya Baha'i yokka e'yeteeka esomebwa mu lujjuddee.  Essoomebwa omukiriza omu nga abalala bonna bayimiridde.  Tekyetaagisa kutunula mu nsi ntukuvu [Qjblih] nga essaala eno esomebwa. - Byava mu Kitáb'i'Aqdas –
@@ -18,5 +19,3 @@ Mazima ffena ddala twebaza Katonda. ( x19)
 Mazima ffena ddala tuli baguminkiriza mu Katonda. ( x19)
 
 *(Omufu bwaba nga mukazi, olwo asoma agambe nti, ono muzaana wo, era omwano w'omuzaana wo, ...)
-
--- Bahá'u'lláh

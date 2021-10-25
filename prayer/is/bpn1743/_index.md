@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1743 in Íslenska'
+author = 'Abdu'l-Bahá'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð, Guð minn! Lof sé Þér fyrir að glæða eld himneskrar ástar í hinum helga meið á tindi hins hæsta fjalls, sem „hvorki er af austri eða vestri¹“, eldinn sem funar uns logar hans ná til herskaranna á hæðum, og frá Honum fengu þessir veruleikar ljós leiðsagnar og hrópuðu: „Sannlega höfum við séð eldinn í hlíðum Sinaí!²“
@@ -9,5 +10,3 @@ Sannlega ert Þú gjafarinn, fyrirgefandinn, sá sem allt gefur. Sannlega ert Þ
 *¹ Kóraninn 24:35 
 *² Kóraninn 28:29
 *³ Kóraninn 76:5
-
--- Abdu'l-Bahá

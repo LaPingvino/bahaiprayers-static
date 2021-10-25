@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9368 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 *(Ny andro manelanelana, ….. , dia andro fiomanana ho amin’ny fifadiankanina. Natokana izy ireo mba anaovana fampiantranoana, fiantràna sy fanomezana na fahatsiarovana).
@@ -11,5 +12,3 @@ Indreto, ry Tompoko ô, ireo mpanomponao izay tsy misy fironana ratsy hanakana a
 Hitanao, ry Tompoko ô, fa nahafantatra sy niaiky izay nambaranao tao amin’ny Soratrao izy ireo. Omeo ho sotroiny, ry Tompoko ô, avy amin’ny tanan’ny Fangorahanao, ny ranon’ny Mandrakizainao. Soraty ho azy ireo, noho izany, ny valisoa nodidiana ho an’izay niroboka tao amin’ny ranomasimben’ny Fanatrehanao sy  izay nahatratra ny divay voafantin’ny Fihaonana Aminao.
 Mitalaho Aminao aho, ô Ianao Ilay Mpanjakan’ny Mpanjaka sy Mpiantra ny ampahoriana, mba handidy ho azy ireo ny soan’ity tontolo ity sy ny tontolo ho avy. Soraty ho azy ireo koa izay tsy mbola nisy nahita tamin’ireo voaharinao ary ataovy ho isan’ireo izay nihodidina Anao izy ireo, sy ireo izay mandeha manodidina ny sezam-piandriananao ao amin’ny tontolo tsirairain’ireo Tontolonao.
 Ianao marina tokoa, Ilay Mahefa ny zavatra rehetra, Ilay Mahafantatra ny zavatra rehetra, Ilay Mahalala ny zavatra rehetra.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10345 in Svenska'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Herre, min Gud och min tillflykt i min sorg! Mitt värn och mitt skydd i mitt lidande! Min fristad och mitt fäste i tider av nöd och min ledsagare i ensamheten! Min tröst i min vånda och en vän, som älskar mig i min ensamhet! Befriaren från mina sorgers kval  och förlåtaren av mina synder!
@@ -14,5 +15,3 @@ O Gud, min Gud! Förvägra mig icke Din förlåtelses och nåds milda vindar och
 Låt mig få dväljas i skuggan av Dina beskyddande vingar och blicka ned på mig med Ditt allbeskyddande öga.
 Lossa min tungas band att den må prisa Ditt namn bland Ditt folk, att min röst må ljuda inför stora skaror och att lovprisandet av Dig må strömma från mina läppar.
 Du är i sanning den Nådefulle, den Förhärligade, den Starke, den Allsmäktige!
-
--- Abdu'l-Bahá

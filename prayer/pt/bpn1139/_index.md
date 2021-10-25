@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1139 in Português (BR)'
+author = 'Abdu'l-Bahá'
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é Deus! Ó Senhor, meu Deus! Ó Tu, que ajudas o fraco, socorres o pobre e salvas o desamparado que para Ti se volta.
@@ -9,5 +10,3 @@ Com a maior humildade ergo as minhas mãos suplicantes ao Teu reino de beleza e 
 Ó Senhor! Enche os seus ouvidos com os versos da ajuda divina e de uma rápida vitória e liberta-os da opressão daqueles que comandam terrível poder. Detém as mãos do malfeitor e livra estas almas de serem dilaceradas pelas garras e dentes de bestas ferozes. Em seu amor por Ti ficaram fascinadas e a elas foram confiados os mistérios da Tua santidade. Permanecem humildemente à Tua porta, tendo atingido o Teu exaltado limiar.
 Ó Senhor! Generosamente revigora-as com um novo espírito; ilumina os seus olhos para que possam contemplar as Tuas maravilhosas evidências na escuridão da noite; destina-lhes todo o bem que existe no Teu Reino de eternos mistérios; torna-as como estrelas brilhantes, irradiando-se sobre todas as regiões; árvores frondosas carregadas de frutos e ramos, movendo-se sob as brisas do alvorecer.
 Verdadeiramente, Tu és o Generoso, o Poderoso, o Omnipotente, o Irrestrito. Não existe outro Deus senão Tu, o Deus de amor e amorosa compaixão, o Todo-Glorioso, O que sempre perdoa.
-
--- Abdu'l-Bahá

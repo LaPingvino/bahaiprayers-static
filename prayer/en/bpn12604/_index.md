@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12604 in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is God.
@@ -9,5 +10,3 @@ O God, my God!  With utter lowliness and fervour, humility and devotion, I implo
 O God, my God!  Exalt them by Thine ancient glory, honour them in Thy Kingdom of grandeur, and assist them with the hosts of Thy favours in this great Day.  O Lord, my God!  Raise aloft their banner, grant them an ampler share of Thy protection, spread abroad their signs, and increase their radiance, that they may become a glass for the lamp of Thy manifold favours and spreaders of Thy loving-kindness and bounties.
 
 O Lord, my God!  Be Thou their companion in their loneliness, and in their moments of anguish surround them with Thine aid.  Bequeath unto them Thy Book and vouchsafe unto them the full measure of Thy gifts and bestowals.  Thou art in truth the Mighty, the Powerful, the Gracious, the Bountiful, and verily, Thou art the Merciful, the Compassionate.
-
--- Abdu'l-Bahá

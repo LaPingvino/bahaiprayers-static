@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12571 in Kalaallisut'
+author = 'Abdu'l-Bahá'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Anersaakkut Isumasioqatigiiffiup ataatsimeereernerani qinnut: 
@@ -12,5 +13,3 @@ Naalagarput-aa! Sanngiippugut, Tassaavutillu Angisooq, Nukittooq. Uummaatsuuvugu
 Naalagarput-aa! Kiinnavut Kiinnavit naakkinnittup tungaanut saatikkit, Nerrivimmiillu qilammiorpaluttumit Saammaannikkut peqangaartukkut inuussutissatsinnik tunisigut. Inngilivit qutsinnersaasut katersaarsuisigut ikiortigut, Abhá-llu Naalagaaffiani illernartut aqqutigalugit uppernarsartigut. 
 
 Ilumut, Tunisisuuvutit, Naakkinnittoq. Tukkussutsimik angingaartumik piginnittoq, ilumullu Sallaatsuuvutit Saammaassisuullutillu.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7929 in Italiano'
+author = 'Abdu'l-Bahá'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 *(Questa preghiera è stata rivelata da ‘Abdu’l-Bahá. Viene letta alla Sua Tomba. é anche recitata come pre-ghiera personale). 
@@ -12,5 +13,3 @@ O Signore! Egli è un povero ed umile Tuo servo, schiavo ed implorante, prigioni
 Signore, mio Dio! Concedimi la grazia di servire coloro che Tu ami, rafforzami nella mia servitù verso di Te, illumina la mia fronte con la luce dell’adorazione alla Tua santa corte e della preghiera al Tuo maestoso Regno. Aiutami a dimenticare me stesso al celeste ingresso della Tua porta e a distaccarmi da tutto quand’io sia entro i Tuoi sacri domini. Signore! Dammi da bere dal calice dell’abnegazione, vestimi del suo manto e immergimi nel suo oceano. Fa’ di me la polvere sulla via di coloro che ami e concedi che io offra l’anima mia per la terra nobilitata dalle orme dei passi dei Tuoi eletti lungo il Tuo sentiero, o Signore di Gloria nei Sommi Cieli. 
 Con questa preghiera il Tuo servo T’invoca all’alba e al tramonto. Appaga il desiderio del suo cuore, o Signore! Illumina il suo cuore, allieta il suo seno, ravviva la sua luce, affinché egli possa servire la Tua Causa e i Tuoi servi. 
 Tu sei il Dispensatore, il Pietoso, il Munifico, il Benigno, il Misericordioso, il Compassionevole.
-
--- Abdu'l-Bahá

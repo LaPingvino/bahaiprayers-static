@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3527 in Norsk'
+author = 'Báb'
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O Herre! Hen til deg tyr jeg for å finne tilflukt, og henimot alle dine tegn vender jeg mitt hjerte.
@@ -11,5 +12,3 @@ Gi meg derfor din fyldestgjørende hjelp for således å gjøre meg uavhengig av
 Skjenk meg min del, o Herre, slik du behager, og gjør meg tilfreds med hva du enn har forordnet for meg.
  
 Hos deg ligger den absolutte myndighet til å befale.
-
--- Báb

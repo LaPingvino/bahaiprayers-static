@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12296 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O Koe ko Tou pili mai ko toku manakoga…  
@@ -9,5 +10,3 @@ O Koe ko Tou pili mai ko toku loto, ko Tou nofo-mai ko toku fakamoemoega, ko Ten
 Au ko ia, O te Aliki, ko oti ne fakapuli a mea katoa na ko Koe, kae fuli atu kite Asofoou o Tou alofa kaimalie, te la ko oti ne fakaseai a mea katoa na ko Koe mo te faka-moemoega ke pilipili atu ki Tou fale. Kilo mai kia au, mo oku mata e avaka ki luga ki te Nofoga te la e sulu maina atu mo te gali o te mainaaga o Ou mata.  Tuku ifo ki luga ia au, O toku Fagasele, ke mafai ne au o lotommau i Tau Fakatokaaga, ko faka-lotoloto-lua o tino se lei ke see fai mo mea e faka-lavelave ki toku fuli atu kia Koe.  
   
 Koe, e tonu, ko te Atua o te Maalosi, ko te Feasoasoani i Mea Faigata, ko te Matagofie Katoatoa, ko te Mafi Katoatoa.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4396 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ang Magandang-loob, ang Mapagpala sa Lahat!
@@ -9,5 +10,3 @@ O Diyos, aking Diyos! Ang Iyong Tawag ay nakaakit sa akin at ang Tinig ng Iyong 
 Saksi ako, sa sandaling ito, O aking Diyos, sa aking kawalang-kakayahan at sa Iyong paghahari, sa aking kahinaan at sa Iyong kalakasan. Hindi ko talos kung ano yaong nakabubuti o nakapipinsala sa akin; tunay na Ikaw ang Nakababatid ng Lahat, ang Matalino sa Lahat. Iatas Mo para sa akin, O aking Kamahalan, aking Diyos, at aking Panginoon, yaong makapagpapadama sa akin ng kasiyahan sa Iyong walang-hanggang kautusan at makapagpapasagana sa akin sa bawat daigdig Mo. Ikaw sa katotohanan ang Mapgbigay-biyaya, ang Mapagpala.
 
 Panginoon! Huwag Mo akong ilayo sa karagatan ng Iyong kayamanan at sa langit ng Iyong kahabagan, at iatas Mo para sa akin ang mabubuti ng daigdig na ito at ng darating. Tunay, Ikaw ang Panginoon ng luklukang-habag, nakaluklok sa pinakamataas; walang iba pang Diyos liban sa Iyo, ang Isa, ang Nakababatid ng Lahat, ang Matalino sa Lahat.
-
--- Bahá'u'lláh

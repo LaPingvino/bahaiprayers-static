@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8266 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Excerpt from the Súriy-i-Ahzán
@@ -15,5 +16,3 @@ When We heard this call, We ceased Our account of these sorrows and returned to 
 
 *40.    The Báb.
 *41.    The Súriy-i-Aḥzán was revealed for Mírzá ‘Alíy-i-Sayyáḥ-i-Marághih’í.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8917 in 繁體中文'
+author = 'Abdu'l-Bahá'
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 任何至異域傳導的人，均可日夜誦讀以下禱文。
@@ -8,5 +9,3 @@ tags = ['lang-zh-Hant', 'bpn-unsorted']
 主啊！求祢扶持我，使我全心全意地為祢服務，切莫讓我在這些地區孤立無援。
 主啊！請允許我在寂寞時與祢懇談，並做我異國之旅的伙伴。
 誠然，祢隨心所欲，確認祢的任何意欲之人。誠然，祢是全能者，萬能者。
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4753 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış söyləyirəm Sənə, Ey mənim Allahım, Sənin inayətinin rayihələri məni bihuş etdi və mərhəmətinin nəvazişli nəsimləri məni bol lütflərinə yönəltdi. Səxavət barmaqlarınla, İlahi, mənə o dirilik çeşməsindən içir ki, ondan dadan hər kəsi Səndən başqa bütün bağlılıqlardan azad olmağa, Sənin inqita fəzana uçmağa və nəzərlərini Sənin inаyətinə və bol bəxşişlərinə dikməyə qabil etdi.
@@ -17,5 +18,3 @@ Mən kimə üz tutum, İlahi, Sənin Seçilmişlərinə göstərdiyin yoldan ba�
 Mənə elə bir qismət yaz ki, Ey mənim Allahım, hər zaman üzümü Sənə tutum, daima Sənin fəzlinin ipindən yapışım, Sənin adını elan edim, Sənin qələmindən süzülənləri arayım. Mən fəqir və kimsəsizəm, İlahi, Sən isə hər şeyə Malik və Ən Ucasan. Elə isə, mərhəmət möcüzələrinlə mənə rəhm eylə və həyatımın hər bir anında mənə o şeyləri nazil eylə ki, onunla Sən Sənin birliyini tanıyanların və Sənə vəfalı qalanların ürəklərini yenidən yaratmısan.
 
 Sən, həqiqətən, Qüdrətli, Ən Uca, Hər şeyi Bilən və Hikmət Sahibisən.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10974 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Aliki toku Atua! O Koe ko te Fesoasoani ki tino vaaivai, ko te Atafai o latou mativa mo te Fakaola o latou ko la taka-seasea ko fuli atu kia Koe.
@@ -10,5 +11,3 @@ ligi mai kia au a se tusaga lasi o te talitonu katoatoa mo te faka-salasalauga, 
      O te Aliki!  Fakafonu olotou taliga ki kupu o te fesoasoani faka-te-lagi kae fakavave atu a te manumaalo, kae faksao mai a latou mai i te tanumia ne latou kona masei.  Taofi a lima o latou masei kae sa liakina a agaaga ola konei ke saesae ne lima mo nifo o manu fekai, auaa ia latou ko nofo mot e ofo I te olotou alofa mo Koe, talitonu ki mea lilo o Tou mana, tu mote maulalo i Tou mataloa kae oko atu latou ki Tou laukele tafasili i te maluga.
      O te Aliki!  I te alofa faka-maalosi a latou mo te agaaga foou; faka-maina a olotou mata ke mafai ne latou o lavea Au faka-maoniiga gali i te fanoanoa o te valuapo; fakasino mo latou a mea lei katoa ko la e fonu a Tou Maalo i mea lilo seai se gataaga; fai a latou pela me ne fetu pula i luga o kogaa koga katoa, pela me ne lakau ola kae fua i fuataga kaina mo olotou kauala e gasuesue i te iliili o te matagi fakavaveao.
      E tonu, a Koe ko te Maumea-Lauefa, te Mafi, te Maalosi-Katoatoa, te Saoloto katoatoa.  E seai aka foki se Atua na ko Koe, ko te Atua o te alofa mo te alofa atafai, ko te Silisiliese-Katoatoa, ko te Fakamagalo-Katoatoa.
-
--- Abdu'l-Bahá

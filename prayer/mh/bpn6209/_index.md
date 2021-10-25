@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6209 in Marshallese'
+author = 'Bahá'u'lláh'
 tags = ['lang-mh', 'bpn-unsorted']
 +++
 O ao Anij im ao Master! Na ij dri jelkam im nejin dri jelkam. Emoj ao ruj tok jen ion kinio ilo jimarokin rainin einwot an Iju Ran in juon wot eo Am moj an romak tok jen jorantak in konan eo Am, im emoj an romak ion aolepen lal, ekkar nan ta eo emoj je im kakien kake ilo Buk ko Am.
@@ -9,5 +10,3 @@ Nebar Yuk, O ao Iroij, einwot am rujtok iumin meram in jelalokjen eo Am. Jilikin
 Kejramon, O Iroij ao Anij, Eo im Kwar likit Ion aolepen Title ko Am remon tata, im ilo E Kwar kejbel emmon jen nana, im jiban kim bwe kemin kommane ta eo Kwokonan. Kejramon, bareinwot, O ao Anij, Ro im rej Naan im Leta ko Am, im ro im emoj air oktak im rewaj nan Yuk, im ronjake kir eo Am.
 
 Emol, Kwoj Iroij im King an armij otemjij, im maron ion aolep men otemjij.
-
--- Bahá'u'lláh

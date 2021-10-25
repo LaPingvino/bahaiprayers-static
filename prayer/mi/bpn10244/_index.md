@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10244 in Māori'
+author = 'Abdu'l-Bahá'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 ##KARAKIA MŌ TE AKO MAI I NGĀ PAPATUHI O TE KAUPAPA TAPU 
@@ -11,5 +12,3 @@ E Te Atua! Ko Koe hei poutautoko, hei pouāwhina, ā, ki te kōraha, ki te maung
 
 
 Tūturu, ko Koe te Pūkaha, te Mananui me te Kaha Rawa me te Pūkaha Nui, ā ko Koe te Whakaaronui te Rongo me te Kite.
-
--- Abdu'l-Bahá

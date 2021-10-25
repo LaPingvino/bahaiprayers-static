@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4997 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 #Chữa Bệnh 
@@ -202,5 +203,3 @@ Ngài là sự Thường hằng, lạy Ngài là Đấng Hằng hữu.
 Ngài cao cả thay, lạy Thượng Đế của con! Con khẩn cầu Ngài, bởi lượng khoan dung của Ngài mà các cửa thiên phúc và thiên ân đều rộng mở, mà Ngôi đền Thánh thiện của Ngài được thiết lập trên ngai vĩnh cửu; và bởi lượng bác ái của Ngài mà Ngài mời gọi tất cả tạo vật vào bàn tiệc từ huệ và ân sủng của Ngài; bởi đức sủng ái của Ngài mà Ngài đáp ứng, trong chính Bản thể Ngài bằng Thánh ngôn Ngài “chấp thuận!” lời cầu xin của tất cả những ai ở cõi trời và cõi đất, vào giờ mà quyền tối thượng của Ngài, và sự hùng vĩ của Ngài khải lộ, lúc bình minh mà uy lực ngự trị của Ngài biểu hiện. Và bởi các Danh đẹp nhất ấy, bởi những Đặc tính tôn quý và cao cả nhất ấy, bởi Đấng Hoài vọng Cao quý Nhất, bởi Đấng Mỹ lệ tinh khiết và không tì vết, bởi Đấng Ánh sáng của Ngài đầy huyền nhiệm ở trong thánh điện nhiệm mầu nhất, và bởi Danh Ngài được phủ bằng chiếc áo tai ương mỗi buổi sáng chiều, con cũng cầu xin Ngài che chở người mang Kinh bản ân phúc này, người đọc kinh này, người gặp được kinh này và người đi quanh ngôi nhà trong đó có kinh này. Cũng bằng kinh này, xin Ngài chữa lành mọi người đau yếu, bệnh tật, nghèo nàn, giúp họ thoát khỏi mọi tai ương, phiền não khủng khiếp và bằng kinh này xin Ngài dìu dắt ai tùy thích vào những con đường hướng dẫn của Ngài, vào những lối ngỏ tha thứ và khoan dung của Ngài.
 
 Quả thật, Ngài là Đấng Hùng mạnh, Đấng Đầy đủ Nhất, Đấng Chữa bệnh, Đấng Phù trợ, Đấng Ban cho, Đấng Phúc hậu, Đấng Độ lượng, Đấng Đại Từ bi.
-
--- Bahá'u'lláh

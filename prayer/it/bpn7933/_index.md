@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7933 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Questi sono, o mio Dio, i giorni durante i quali ingiungesti ai Tuoi servi di osservare il digiuno. Con esso adornasti il preambolo del Libro delle Tue Leggi rivelato alle Tue creature e abbellisti i Ricettacoli dei Tuoi comandamenti agli occhi di tutti coloro che sono nel Tuo cielo e sulla Tua terra. Hai dotato ogni ora di questi giorni di una virtù speciale, inscrutabile a tutti fuorché a Te, la Cui sapienza abbraccia tutto il creato. Hai pure assegnato ad ogni anima una parte di questa virtù in armonia con le Tavole del Tuo decreto e con le Scritture del Tuo irrevocabile Giudizio. Hai altresì assegnato ogni pagina di questi Libri e Scritture a ciascuno dei popoli e delle tribù della terra.
@@ -11,5 +12,3 @@ Fa’ piovere, adunque, su di noi, o mio Dio, quel che s’addice alla Tua grazi
 Tu vedi, o mio Dio, cos’è accaduto ai Tuoi cari nei Tuoi giorni. La Tua gloria mi è testimone! La voce del lamento dei Tuoi favoriti si è levata in tutto il Tuo reame. Alcuni vennero irretiti dagli infedeli nella Tua terra e furono ostacolati dal giungere vicino a Te e dal pervenire alla corte della Tua gloria. Altri riuscirono ad avvicinarsi a Te, ma furono trattenuti dal mirare il Tuo viso. Ad altri ancora fu permesso, per la loro ansia di vederTi, di entrare nei recinti della Tua corte, ma essi lasciarono che i veli delle fantasie delle Tue creature e i torti inflitti dagli oppressori fra la Tua gente si frapponessero fra Te e loro.
 Di quest’ora, o mio Signore, che hai fatto eccellere su ogni altra Tu hai fatto l’ora dei prediletti fra le Tue creature. T’imploro, o mio Dio, per Te Stesso e per loro di disporre nel corso di quest’anno ciò che esalterà i Tuoi amati. Decreta inoltre, entro quest’anno, ciò che permetterà alla Stella Mattutina del Tuo potere di brillare fulgidamente all’orizzonte della gloria e di illuminare con il Tuo sovrano potere il mondo intero. 
 Rendi vittoriosa la Tua Causa, o mio Signore, e confondi i Tuoi nemici. Decreta, dunque, per noi il bene di questa vita e della vita avvenire. Tu sei la Verità, Che conosce gli arcani. Non v’è altro Dio che Te, il Perdonatore, il Più Munifico.
-
--- Bahá'u'lláh

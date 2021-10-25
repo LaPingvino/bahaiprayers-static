@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10379 in Kiribati'
+author = 'Bahá'u'lláh'
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 E na anaaki ni katoa bong, n te ingaabong, te tawanou ao te tairiki
@@ -16,5 +17,3 @@ O Ngkoe Te Atua, tai kabwara nanon teuare e a tia ma tabonibaina ni bubuti, n ni
 *(Ngkanne, ke e tekateka, ao n atonga aei):
 I kaotia ni kakoaua Am katiteuana ao ae ti temanna Ngkoe, ao bwa boni Ngkoe Te Atua, ao bon akea riki Te Atua temanna i Rarikim. Ni koaua, ko a bon tia ni kaota Am Waaki, ni kakoroa nanon Am Boraraoi, ao ni kaukaa nako mataroan Am raoiroi nakoia ni kabane ake a maeka i karawa ao i aon te aba. Te kakabwaia ao te rau, te kamauri ao te mimitong, bwa e na mena i aoia ake Ko tangiriia, ake a tia n aki rootaki man rairakiia nako Mairoum man bibitaki ao angaraoi n te aonaaba, ao n tia n anga bwaai nako, n te kaantaninga ni karekean are iai iroum.  Boni Ngkoe, ni koaua, te Kakabwarabure, te Kabanea n Ataataiaomata.
 *(Ngkana iai temanna are e rineia n atonga te kibu aei nakon are te kibu are e abwabwaki n taekana aei: “E a tia ni kaotia Te Atua bwa bon akea riki Te Atua ma ti Ngaia, te Buoka n te Kanganga, ao te Maiu i bon Irouna,” e na bon tau.  Ao n te aro anne, e na bon tau naba ike e mena iai, ngke e tekateka, n rineia n atonga te kibu aei:  “I kaotia ma te koaua n Am katiteuana ao n ti temanna Ngkoe, bwa boni Ngkoe Te Atua, ao bon akea riki Te Atua i Rarikim.”)
-
--- Bahá'u'lláh

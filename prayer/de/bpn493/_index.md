@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn493 in Deutsch'
+author = 'Abdu'l-Bahá'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du gütiger Herr! Du hast die ganze Menschheit aus dem gleichen Stamm erschaffen. Du hast bestimmt, dass alle der gleichen Familie angehören. In Deiner heiligen Gegenwart sind alle Deine Diener, die ganze Menschheit findet Schutz in Deinem Heiligtum. Alle sind um Deinen Gabentisch versammelt; alle sind erleuchtet vom Lichte Deiner Vorsehung.
@@ -10,5 +11,3 @@ O Gott! Errichte den Größten Frieden.
 Schmiede Du, o Gott, die Herzen zusammen.
 O Du gütiger Vater, Gott! Erfreue unsere Herzen durch den Duft Deiner Liebe. Erhelle unsere Augen durch das Licht Deiner Führung. Erquicke unsere Ohren mit dem Wohlklang Deines Wortes und beschütze uns alle in der Feste Deiner Vorsehung.
 Du bist der Mächtige und der Kraftvolle, Du bist der Vergebende und Du bist der, welcher die Mängel der ganzen Menschheit übersieht.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5218 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Srednja Obavezna Molitva 
@@ -31,5 +32,3 @@ Neka, zatim, sjedne i kaže:
 Svjedočim o Tvom jedinstvu i Tvojoj jednosti, i da Ti si Bog, i da nema nijednog drugog Boga osim Tebe. Ti si, zaista, objavio Tvoj Put, ispunio Svoju Pogodbu, i širom otvorio vrata Tvoje naklonosti svim stanovnicima neba i zemlje. Blagoslov i mir, pozdrav i slava Tvojim voljenima, koje promjene i izmjene u svijetu ne mogu sputati od okretanja ka Tebi, i koji sve dadoše, u nadi da će dobiti ono što je sa Tobom. Ti si, uistinu, Onaj koji vječno prašta, Svedarežljivi.
 
 *(Ako se odrecituju, umjesto dugog stiha, ove riječi: "Bog svjedoči da nema drugog Boga osim Njega, Pomoći u nevolji, Samoopstojnog", bit će dovoljno. Isto tako, bit će dovoljno ako se, dok se sjedi, odrecituju ove riječi: "Svjedočim o Tvom jedinstvu i Tvojoj jednosti, i da si Ti Bog i da nema drugog Boga osim Tebe.")
-
--- Bahá'u'lláh

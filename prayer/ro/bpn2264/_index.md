@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2264 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 El este Dumnezeu, slăvit este El, Stăpânul dărniciei şi al duioasei bunătăţi! Slava fie cu Tine, O, Tu, Dumnezeul meu, Stăpâne Atotputernic. Adeveresc omnipotenţa şi tăria Ta, suveranitatea Ta şi bunătatea Ta duioasă, harul Tău şi puterea Ta, unicitatea fiinţei Tale şi unitatea esenţei Tale, sanctitatea Ta şi înălţarea Ta deasupra lumii existenţei şi a tot ce se află în ea.
@@ -21,5 +22,3 @@ O, Dumnezeul meu! Comoara Ta ţi-a fost înapoiată. Se cuvine generozităţii �
 Aduc mărturie, o, Domnul meu, că Tu ai prescris oamenilor să-şi cinstească oaspetele, iar cu adevărat cel ce s-a înălţat la Tine Te-a ajuns şi a atins prezenţa Ta. Poartă-Te deci cu el după cum se cuvine harului şi dărniciei Tale! Pe slava Ta! ştiu cu certitudine că Tu nu vei încălca ceea ce ai poruncit slujitorilor Tăi, nici nu-l vei lipsi pe cel ce s-a ţinut de funia dărniciei Tale şi s-a urcat la Aurora bogăţiei Tale.
 
 Nu există alt Dumnezeu afară de Tine, Cel Unic, Singurul, Cel Puternic, Cel Atotştiutor, Cel Mărinimos.
-
--- Bahá'u'lláh

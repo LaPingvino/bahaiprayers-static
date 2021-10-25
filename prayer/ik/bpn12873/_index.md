@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12873 in Alaska Native'
+author = 'Bahá'u'lláh'
 tags = ['lang-ik', 'bpn-unsorted']
 +++
 ** Obligatory Prayer for the Dead
@@ -31,5 +32,3 @@ We all, verily, yield thanks unto God.
 We all, verily, are patient in God.
 *Instructions from Bahá'u'lláh:
 *(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden etc.…)
-
--- Bahá'u'lláh

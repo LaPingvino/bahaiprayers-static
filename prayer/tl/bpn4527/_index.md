@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4527 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 *(Ang Dalangin para sa Yumao ay ginagamit para sa mga Bahá’í na higit sa labinlimang gulang. Ito ay “ang natatanging panalanging Bahá’í na katungkulang bigkasin ng kongregasyon; ito ay dapat usalin ng isang mananampalataya samantalang ang lahat ng naroroon ay tahimik na nakatayo. Nilinaw ni Bahá’u’lláh na ang Dalangin para sa Yumao ay kailangan lamang kung ang yumao ay nasa hustong gulang, na ang pag-usal ay dapat mauna sa paglilibing ng pumanaw, at hindi kinakailangang humarap sa Qiblih kapag inuusal ang panalanging ito.” — AngKitáb-i-Aqdas)
@@ -19,5 +20,3 @@ Kaming lahat, sa katunayan ay nagbibigay pasasalamat sa Diyos
 Kaming lahat, sa katunayan, ay mapagtiyaga sa Diyos.
 
 *(Kung ang yumao ay isang babae, hayaang sabihin niya: Ito ang Iyong tagapaglingkod na babae at anak ng Iyong tagapaglingkod na babae . . .)
-
--- Bahá'u'lláh

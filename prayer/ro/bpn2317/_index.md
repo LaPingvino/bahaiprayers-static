@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2317 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 El este Regele, Atotştiutorul, Cel Înţelept!
@@ -32,5 +33,3 @@ Fii bine încredinţat, căci cu adevărat, cel care-şi întoarce faţa de la a
 Pe Dumnezeu! Dacă acestă Tabletă este citită cu o sinceritate absolută de cel care este cufundat în durere şi necazuri, Dumnezeu îi va risipi tristeţea, îi va rezolva greutăţile şi-l va slobozi din încercările sale.
 
 Cu adevărat, El este Cel Milostiv şi Bun. Lăudat fie Dumnezeu, Stăpânul tuturor lumilor!
-
--- Bahá'u'lláh

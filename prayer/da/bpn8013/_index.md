@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8013 in Dansk'
+author = 'Báb'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Bestem for mig, O min Herre, og for dem der tror på Dig det, der synes bedst for os i Dine øjne, som fremlagt i Moderbogen, thi i Din hånd holder Du den forudbestemte målestok for alle ting.
@@ -11,5 +12,3 @@ Vi overgiver i Din varetægt alt, hvad Du har bestemt for os, og bønfalder Dig 
 Beskyt mig, o min Herre, imod alt ondt som Din alvidenhed opfatter, eftersom der ikke findes nogen kraft eller styrke undtagen hos Dig, ingen sejr undtagen fra Din nærværelse, og det alene tilkommer Dig at befale. Hvad Gud end har villet, det er blevet, og det, Han ikke har villet, skal ikke blive.
 
 Der er ingen magt eller styrke undtagen hos Gud, Den Mest Ophøjede, Den Mægtigste.
-
--- Báb

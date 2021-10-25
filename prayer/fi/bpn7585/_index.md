@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7585 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *Kitáb-i-Aqdasissa sanotaan: "Me olemme käskenyt teitä kypsyysiän alusta  alkaen rukoilemaan ja paastoamaan. Näin on säätänyt Jumala, teidän Herranne ja esi-isäinne Herra. ... Matkustavaiset, sairastavat, raskaana olevat tai lasta imettävät eivät ole velvolliset paastoamaan. ... Pidättykää ruoasta ja juomasta auringon noususta auringon laskuun ja varokaa, että halu ei riistä teiltä tätä armoa, joka on Kirjassa määrätty."
@@ -10,5 +11,3 @@ Ylistys olkoon Sinulle, oi Herra minun Jumalani! Rukoilen Sinua tämän ilmoituk
 Minä olen se, oi Herrani, joka on pitänyt kiinni Sinun rakastavan laupeutesi nuorasta ja tarttunut Sinun armeliaisuutesi ja suopeutesi helmaan. Suo minulle ja rakkailleni sekä tämän että tulevan maailman hyvyyttä. Varusta heidät sitten sillä kätketyllä lahjalla, jonka olet määrännyt parhaille luoduistasi. 
 Oi Herrani, olet määrännyt palvelijasi paastoamaan näinä päivinä. Siunattu on se, joka Sinun vuoksesi noudattaa paastoa irrottautuen ehdottomasti kaikesta muusta paitsi Sinusta. Auta minua ja auta heitä, oi Herrani, tottelemaan Sinua ja noudattamaan määräyksiäsi. Sinulla totisesti on valta tehdä niin, kuin haluat.
 Ei ole muuta Jumalaa kuin Sinä, Kaikkitietävä, Kaikkiviisas. Kaikki ylistys Jumalalle, kaikkien maailmojen Herralle.
-
--- Bahá'u'lláh

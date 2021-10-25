@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6199 in Marshallese'
+author = 'Báb'
 tags = ['lang-mh', 'bpn-unsorted']
 +++
 O Iroij! Ilo Kwe ij bukot kejbarok eo Am, im nan aolepen kokkale ko Am ij aje waj buruo.
@@ -11,5 +12,3 @@ Letok nan io bareinwot jiban eo Am elab bwe in maron mour im anemkoj jen jabrewo
 Letok nan io kij eo ao, O Iroij, ekkar nan Am konan, im komman bwe en bo buruo kin jabrewot men otemjij emoj Am karok nan io.
 
 Aolep maron rej Am ekkar nan Ankilam.
-
--- Báb

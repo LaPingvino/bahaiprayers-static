@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7584 in Suomi'
+author = 'Bahá'u'lláh'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *(Välipäivien, 26. päivästä helmikuuta 1. päivään maaliskuuta, tulisi olla paastoon valmistautumisen, vieraanvaraisuuden, hyväntekeväisyyden ja lahjojen antamisen päiviä.)
@@ -9,5 +10,3 @@ Nämä, oi Herrani, ovat palvelijoitasi, joita mikään turmeltunut taipumus ei 
 Sinä näet, oi Herrani, kuinka he ovat käsittäneet ja tunnustaneet kaiken, minkä Sinä olet ilmaissut pyhissä kirjoituksissasi. Anna heidän, oi Herrani, juoda laupeutesi käsistä ikuisuutesi vettä. Anna heidän siis saada osakseen se hyvitys, joka on määrätty sille, joka on upottautunut Sinun läsnäolosi valtamereen ja saanut osakseen Sinun kohtaamisesi valioviinin.
 Rukoilen Sinua hartaasti, oi Sinä kuningasten  Kuningas ja poljettujen Säälijä, määräämään heidän osakseen sekä tämän että tulevan maailman hyvyyttä. Anna heille lisäksi sitä, mistä kukaan Sinun luoduistasi ei ole päässyt perille, ja lue heidät niihin, jotka ovat kiertäneet Sinua ja kulkevat valtaistuimesi ympärillä kaikissa Sinun maailmoissasi.
 Sinä olet todellakin Kaikkivaltias, Kaiken tietävä, Kaiken tunteva.
-
--- Bahá'u'lláh

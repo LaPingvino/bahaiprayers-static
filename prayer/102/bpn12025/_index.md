@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12025 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Gadyrly, Belent mertebe we Uly.
@@ -9,5 +10,3 @@ Oldur Gadyrly, Belent mertebe we Uly.
     Eý pany bilbiller! Bakylyk gülzarynda bir gül açyldy. Bar güller onuň ýanynda tiken ýalydyr we gözellik jöwheri onuň ýanynda bimukdardyr. Onda, jandan joşuň, köňülden ýaňlanyň, ruhdan içiň we göwre bilen hümmet ediň. Belki wysal bossanyna girersiňiz, deňi-taýy bolmadyk mysalsyz güli ysgarsyňyz, tükeniksiz didardan ganarsyňyz. Belki bu ruhany hem päk ysdan nesipsiz galmarsyňyz. Bu nesihat, böwetleri ýykar hem yşk däliliginiň zynjyryny sarsdyrar. Köňülleri didara gowşurar, janlary janana tabşyrar, kapasy syndyrar we ruh guşy ýaly päk höwürtgä tarap ýüwürer.
     Näçe gijeler ötdi, niçe gündizler geçdi, wagtlar soňuna ýetdi we sagatlar gutardy. Şonda-da diňe pany dünýe ugrunda dem alyndy. Bu galanja demi batyl etmejek boluň. Ömürler ýyldyrym ýaly geçýändir we başlar toprak ýassygynda ýerleşýändir. Çäreler elden gider, bar zat goldan çykar. Ebedilik çyrasy çüýşesiz ýagtylyp nurana bolýar, pany ýaşmaklaryň baryny ýakýar.
     Eý perwanalar! Perwaýsyz uçuň, özüňizi oda atyň eý jansyz-köňülsiz aşyklar! Magşuga geliň we rakypsyz Mahbubyň ýanyna baryň. Pynhan gül bazara geldi, ýaşmaksyz-perdesiz gelip, ähli päk ruhlara wysal aýdymyny ýaňlatdy. Gör nähili oňatdyr ykbalyna gowşanlar. Onsoň bu, ýagşy hem üýtgeşik ýalkymlar gowşanlara mübärek bolsun.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12245 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Ko matafi nei ko mea katoa ko oti ne ola llei kii anamua i te Palataiso o Tou tafatasi maalosi, O toku Atua!  Ko fea a kaumana vaiua o Tou alofafakamagalo?  Ko oti ne kati a kaula o te Lakau Ola o Tou fakatasitasi o te gatu o Tou afioga mo te atamai; tefea a te taimi-malulu o Au mea-alofa mo maukoloa?  E takato a te Ake o Tau Fakatokaaga aunoa se gasuesue i luga i te tai o Tau foafoaaga; ko fea a matagi o Tou alofa kaimalie mo alofa tauanoa?  E ufi mai i feitu katoa ko Tau Lamepa mai i kaumatagi o te sefealofani e agi mai i fenua taki tasi, e tefea a te lalolagi o Tou alofa-kaimalie mo te puipuiiga?    
@@ -14,5 +15,3 @@ So se tino ko oti ne lavea a Koe ka fuli ki te seai aka foki na ko Koe, kae ka s
 sose tino tela e fakatuanaki kia Koe. 
  
 E seai aka se Atua na ko Koe, ko te Mafi-Katoatoa, ko te Feasoasoani-iMea-Faigata, ko te Matagofie-Katoatoa, ko te Tafasili i te Maalosi.
-
--- Bahá'u'lláh

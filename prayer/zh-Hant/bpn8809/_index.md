@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8809 in 繁體中文'
+author = 'Báb'
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 我的主啊！我向祢尋求庇護，對祢的一切徵象全神貫注。
@@ -7,5 +8,3 @@ tags = ['lang-zh-Hant', 'bpn-unsorted']
 請賜我充裕的援助，使我能自立於一切，祢的慈悲無與倫比。
 主啊！如祢所願，賞賜我應得的份額；祢命定給我的一切，我都意滿心悅。
 祢擁有絕對權威，祢統領一切。
-
--- Báb

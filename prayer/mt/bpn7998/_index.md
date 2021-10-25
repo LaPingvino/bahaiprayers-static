@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7998 in Malti'
+author = 'Bahá'u'lláh'
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 ##IT-TWAVEL TAL-VIŻITAZZJONI 
@@ -19,5 +20,3 @@ It-Tifkira t’Alla u t-tifkira tiegħU, u l-glorja t’Alla u d-dija tagħammex
 Jalla l-ispirtu tiegħi ikun sagrifiċċju għan-nuqqasijiet li Int ġarrabt, u ruħi tkun rahan għall-kuntrarji li kellek issofri. Nitlob lil Alla, permezz tiegħeK u dawk li wiċċhom kien imdawwal bid-dijiet tad-dawl ta’ wiċċeK, u li, għall-imħabba tiegheK, osservaw kollox dwar ’il fejn kienu imsejħa, biex tneħħi l-istarijiet li ġew bejneK u l-ħlejjaq tiegħeK, u biex tfornini bit-tajjeb ta’ din id-dinja u tad-dinja li ġejja. Int, fis-sew, is-Setgħani, l-Aktar Għoli, il-Glorjuż-f’Kollox, Dak li Jaħfer Dejjem, Dak li Jagħder l-Aktar.
 
 Bierek Int, O Sid Alla tiegħi, is-Siġra Divina tal-Lotu u l-weraq tagħha, u l-friegħi tagħha, u z-zkuk tagħha, u l-egħruq tagħha, sakemm it-titli l-aktar eċċellenti tiegħeK idumu u l-attributi l-aktar awgust tiegheK idumu. Ħarisha, immela, mis-saram tal-għadu u l-armati tat-tirannija. Int, fis-sew, is-Setgħani, l-Aktar Qawwi. Bierek Int, O Sid Alla tiegħi, il-qaddejja tiegheK irġiel u nisa li qarrbu lejK. Int, fis-sew, it-Tajjeb-f’Kollox, li l-grazzja tiegħeK hija bla tarf. M’hemmx Alla għajr Int, li Jaħfer-Dejjem, l-Aktar Ġeneruż.
-
--- Bahá'u'lláh

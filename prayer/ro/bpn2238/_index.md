@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2238 in România'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Tu Dumnezeule iertător! Aceşti slujitori se întorc către împărăţia Ta şi caută bunăvoinţa şi mărinimia Ta. O, Doamne! Fă inimile lor bune şi curate pentru ca ei să poată deveni demni de iubirea Ta. Purifică şi sfinţeşte spiritele astfel încât lumina Soarelui Realităţii să poată străluci asupra lor. Purifică şi sfinţeşte ochii ca să poată desluşi lumina Ta. Purifică şi sfinţeşte urechile ca să poată auzi chemarea împărăţiei Tale.
@@ -13,5 +14,3 @@ O, Doamne! Acordă ajutorul şi confirmarea Ta plină de har acestui guvern drep
 Tu eşti Cel Puternic, Cel Omnipotent, Cel Milostiv şi Tu eşti Cel Generos, Cel Binefăcător, Domnul harului îmbelşugat.
 
 -
-
--- Abdu'l-Bahá

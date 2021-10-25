@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4965 in Vanuatu'
+author = 'Abdu'l-Bahá'
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 *Hemia wan spesal prea we yumi save ridim taem yumi visitim Shrine blong ‘Abdu’l-Bahá, o long ol miting we yumi holem long memori blong pasawei blong Hem.  Yumi save yusum long ol narafala taem tu.
@@ -16,5 +17,3 @@ O Masta, O God blong mi! Plis Yu givim mi ol blesing blong Yu blong mi save serv
 Tisfala wokman blong Yu i stap singaotem Yu tru long prea ia, long eli moning mo long naet. O Masta! Plis Yu givim hem wanem hart blong hem i wantem. Plis Yu laetemap hart blong hem mo Yu mekem se hem i kam moa glad.  Plis Yu laetemap faea blong hem.  Hemia i blong hem i save servem Fet blong Yu mo hem i save servem ol wokman blong Yu.
 
 Yu Yu givim olgeta gudfala samting, Yu Yu sori long mifala, Yu Yu givim ol blesing long mifala, Yu Yu fogivim mifala, mo Yu Yu tingbaot mifala wetem bigfala lav.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8242 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Húr-i-‘Ujáb
@@ -35,5 +36,3 @@ And from Her lips there streamed these words of warning and rebuke—how astound
 “O my friends,” She said, “We shall not come again,”—how wondrous a return, how wondrous indeed!—
 “But will conceal God’s secrets in His Scriptures and His Books,” as bidden by One mighty and bounteous indeed!
 “Nor shall ye find Me till the Promised One appear on Judgement Day.” By My life! How astounding an abasement, how astounding indeed!
-
--- Bahá'u'lláh

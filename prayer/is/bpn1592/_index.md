@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn1592 in Íslenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er Guð, sá sem heyrir bænir og svarar þeim.
@@ -8,5 +9,3 @@ Við dýrð Þína, ó ástvinur, Þú sem gefur heim­in­um ljós. Eldur aðsk
 Og enn bið ég Þig við ljúfar regnskúrir náðar Þinnar og öldurnar á hafi hylli Þinnar að ákvarða Þínum heilögu það sem færir augum þeirra fró og hjörtum þeirra hugsvölun. Drottinn! Þú sérð þann sem krýpur fullan löngunar til að rísa upp til að þjóna Þér, hinn dauða hrópa á eilíft líf frá úthafi hylli Þinnar og þrá að svífa til himins auðæfa Þinna, hinn ókunna sárþarfn­ast heimkynna dýrðar undir tjaldhimni náðar Þinnar, leitandann hraða för sinni vegna náðar Þinnar til hliðs örlætis Þíns, hinn synduga leita til úthafs fyrir­gefningar og afláts.
 Við yfirráð Þín, ó Þú sem ert vegsamaður í hjörtum manna! Ég hef leitað til Þín, yfirgefið minn eigin vilja og löngun svo að Þinn heilagi vilji og velþóknun megi ríkja í mér og leiða mig í sam­ræmi við það sem penni eilífrar ákvörðunar Þinn­ar hefur fyrirhugað mér. Þessi þjónn, ó Drottinn, er hjálpar­vana en snýr sér til himinhnattar valds Þíns, niður­lægður en hraðar sér til dagsbrúnar dýrðar Þinnar, þurfandi en þráir úthaf náðar Þinnar. Ég bið Þig við hylli Þína og örlæti að varpa honum ekki frá Þér.
 Þú ert vissulega hinn almáttugi, fyrirgefandinn, hinn vorkunnláti.
-
--- Bahá'u'lláh

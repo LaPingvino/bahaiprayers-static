@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8180 in Dansk'
+author = 'Bahá'u'lláh'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 *(Indskudsdagene 26. februar - 1. marts bør være dage til forberedelse af fasten, gæstfrihedens, velgørenhedens og gavegivningens dage.)
@@ -17,5 +18,3 @@ Jeg bønfalder Dig, o Du Kongernes Konge og Den Medfølende med de undertrykte, 
 Du er sandelig Den Almægtige, Den Alvidende, Den Altoplyste.
 
 *1 Há’s dage, indskudsdage
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5942 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Ell és el Déu què escolta i contesta les oracions!
@@ -8,5 +9,3 @@ Tu veus, oh Senyor Déu meu, les llàgrimes dels Teus afavorits, vessades a caus
 Et demano, a més, per les dolces pluges de la Teva gràcia i les ones de l’oceà del Teu favor, que ordenis pels Teus sants allò què doni solaç a llurs ulls i consol a llurs cors. Senyor! Tu veus al què s’agenolla anhelant aixecar-se per servir-te; al mort demanant vida eterna de l’oceà del Teu favor i anhelant remuntar-se cap els cels de la Teva gràcia; al buscador apressant-se per la Teva mercè cap a la porta de la Teva munificència; al pecador tornant-se cap a l’oceà de clemència i perdó.
 Per la Teva sobirania, oh Tu qui ets glorificat als cors dels homes! M’he girat cap a Tu abandonant la meva pròpia voluntat i desig, perquè la Teva santa voluntat i grat puguin regnar dins meu i dirigir-me d’acord amb el què la ploma del Teu etern decret ha destinat per mi. Aquest serf, oh Senyor, encara que impotent, es gira cap al Sol del Teu Poder; encara que humiliat, s’apressa cap a l’Aurora de la Teva Glòria; encara que indigent, anhela l’Oceà de la Teva Gràcia. Jo T’imploro pel Teu favor i munificència que no l’abandonis.
 Tu ets veritablement el Tot Poderós, el Perdonador, el Compassiu.
-
--- Bahá'u'lláh

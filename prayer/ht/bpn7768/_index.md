@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7768 in Kreyol Ayisyen'
+author = 'Abdu'l-Bahá'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##Priyè pou Ayyám-i-Há
@@ -17,5 +18,3 @@ O Senyè mwen! Sila a yo se sèvitè Ou ki pa t’ kite okenn move dezi separe y
 Ou wè, O Senyè mwen, jan yo te rekonèt epi asepte tout sa Ou te revele nan Ekri Ou yo. Kite yo bwè nan men gras Ou, O Senyè mwen, dlo etènite Ou a. Epi, ekri pou yo rekonpans Ou te chwazi pou moun ki te plonje nan lanmè prezans Ou an - moun ki te rive jwenn vrè bwason diven Ou te chwazi a ki soti nan rankont avèk Ou menm.
 Mwen priye Ou fò, O Ou menm Ki Wa pou tout wa yo, Sila a Ki Gen Pitye pou tout moun ki sibi enjistis yo, pou sere pou yo sa ki bon nan lemonn sa a ak nan lòt mond k’ap vini an. Anplis, ekri pou yo sa okenn nan kreyati Ou yo pa te janm dekouvri, epi konte yo pami moun ki te antoure Ou, e ki te viv pre twòn Ou an nan chak mond pami tout mond Ou yo. 
 An verite, Ou se Toupisan an, Ki Konnen Tout Bagay, Ki Gen Tout Sajès.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2325 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Dumnezeul meu, Focul meu şi Lumina
@@ -12,5 +13,3 @@ Tu vezi, o, Stăpânul meu, cum Te-au recunoscut şi au stat mărturie ceea ce T
 Te implor, o, Tu Regele Regilor şi Alinătorul celor asupriţi, să porunceşti pentru ei binele acestei lumi şi a celei ce va să vie. Mai mult, aşterne pentru ei ceea ce nici una dintre făpturile Tale n-a descoperit şi numără-i printre cei ce s-au rotit în jurul Tău şi se mişcă în preajma Tronului Tău în fiecare dintre lumile Tale.
 
 Tu eşti, cu adevărat, Cel Tare, Cel Atotştiutor, Cel Atotcunoscător.
-
--- Bahá'u'lláh

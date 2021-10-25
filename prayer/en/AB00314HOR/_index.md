@@ -1,9 +1,8 @@
 +++
 title = 'Prayer AB00314HOR in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'AB00314HOR']
 +++
 O Thou kind Lord!  From the horizon of detachment Thou hast manifested souls that, even as the shining moon, shed radiance upon the realm of heart and soul, rid themselves from the attributes of the world of existence and hastened forth unto the kingdom of immortality.  With a drop from the ocean of Thy loving-kindness Thou didst oft-times moisten the gardens of their hearts until they gained incomparable freshness and beauty.  The holy fragrance of Thy divine unity was diffused far and wide, shedding its sweet savors over the entire world, causing the regions of the earth to be redolent with perfume.
 Raise up then, O spirit of Purity, souls who, like those sanctified beings, will become free and pure, will adorn the world of being with a new raiment and a wondrous robe, will seek no one else but Thee, tread no path except the path of Thy good pleasure and will speak of naught but the mysteries of Thy Cause.
 O Thou kind Lord!  Grant that this youth may attain unto that which is the highest aspiration of the holy ones.  Endow him with the wings of Thy strengthening grace—wings of detachment and divine aid—that he may soar thereby into the atmosphere of Thy tender mercy, be able to partake of Thy celestial bestowals, may become a sign of divine guidance and a standard of the Concourse on high.  Thou art the Potent, the Powerful, the Seeing, the Hearing.
-
--- Abdu'l-Bahá

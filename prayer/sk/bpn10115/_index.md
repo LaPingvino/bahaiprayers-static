@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10115 in Slovensky'
+author = 'Bahá'u'lláh'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 ##Tabuľka ohňa
@@ -102,5 +103,3 @@ Vskutku, počul som Tvoje Volanie, ó Najslávnejší Milovaný. A teraz horí t
 Ó Alí¬ Akbar, ďakuj svojmu Pánovi za túto Tabuľku, z ktorej môžeš vdychovať vôňu Mojej pokory a spoznať to, čo Nás postihlo na ceste Boha, Zbožňovaného všetkými svetmi.
 
 Keby ju čítali všetci služobníci a zamýšľali sa nad ňou, v ich žilách by zahorel oheň, ktorý zachváti svety.
-
--- Bahá'u'lláh

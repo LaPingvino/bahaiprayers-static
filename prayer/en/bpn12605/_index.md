@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12605 in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O Lord so rich in bounty, so replete with grace,
@@ -25,5 +26,3 @@ O Lord of bounty, but the grace Thou pourest forth.
 
 Upon these broken-winged birds whose flight is slow
 Out of Thy tender mercy newfound wings bestow.
-
--- Abdu'l-Bahá

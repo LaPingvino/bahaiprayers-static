@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7474 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Tablica ta bywa czytana w Świątyniach, w których Bahá’u’lláh i Báb są pochowani. Często odmawia się ją także podczas obchodów świąt rocznicowych związanych z Ich życiem.
@@ -17,5 +18,3 @@ Wspominanie Boga, Jego wysławianie, chwała Boga i Jego wspaniałość spoczywa
 Niechaj duch mój będzie ofiarą za niesprawiedliwości, któreś wycierpiał, a dusza moja okupem za przeciwności, któreś znosił. Błagam Boga poprzez Ciebie i tych, których twarze rozjaśniła wspaniałość światła Twojego oblicza, i którzy z miłości ku Tobie przestrzegali wszystkiego, co zostało im nakazane, aby usunął zasłony, które oddzieliły Cię od Twoich stworzeń, i zapewnił dla mnie dobra tego świata i świata, który nastąpi. Tyś jest, zaprawdę Wszechmocnym, Najwznioślejszym, Najchwalebniejszym, Zawsze Przebaczającym, Najbardziej Współczującym.
     
 Błogosław, o Panie, mój Boże, Boskie Drzewo Lote oraz jego liście, i jego konary, i jego gałęzie, i jego łodygi, i jego pędy tak długo, jak długo istnieć będą Twoje najdoskonalsze tytuły i trwać będą Twoje najdostojniejsze przymioty. Chroń je zatem przed niegodziwością najeźdźcy i orszakiem tyranii. Tyś jest zaprawdę Wszechmocnym, Najpotężniejszym. Błogosław także, o Panie, Boże mój, swoich służebników i swoje służebnice, którzy osiągnęli Twoją obecność. Tyś jest, zaiste Wszechszczodrym, którego łaska jest niepomierna. Nie ma Boga poza Tobą, Zawsze Przebaczającym, Najhojniejszym.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9118 in Kalaallisut'
+author = 'Abdu'l-Bahá'
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guuti-aa, Guutiga! Isigaat qanoq taarnersuup nunat tamaasa ulissimagai, nunat tamarmik qanoq akersuunnerup inneranik ikumatiginersut, sorsunnerullu aammillu kuisinerup innera Kangiani Kitaanilu ikumasorsuusoq. Aak kuuppoq, timit nunamut eqqagaapput, niaquinnaallu akiuuffiup pujoralaanut nakkartarput.
@@ -15,5 +16,3 @@ Naalagaq-aa! Akerliuniarnerup imarsua qapuppoq, anorersuillu taakku qatsornavian
 Naalagaq-aa! Ilumut, inuit pileritsaassaqarsutsip qunnersuani ipput, allamillu annaassisissaqanngillat taamaallaat Illit saamaannikkut tunissutinnik killeqanngitsutigut.
 Naalagaq-aa! Pileritsaassat ajortut tamakkua taarmik siaruaaffigikkit uummatilli qaammarsakkit Illit asanninnerpit qullianik ungasinngitsukkut nunanik tamanik qaammarsaajumaartukkut. Annerusumilli Asasatit nukittorsakkit, taakkua Illit kusanassutsinnik asanninnertik peqqutigalugu nunaminnik, ilaquttaminnik meeqqaminnillu qimatsisut, nunanullu takornartanut aallarsimasut Illit tipiginnerit naamajuminartoq siaruarteriartorlugu Ajoqersuutillu siammartikkumallugu. Kiserliornerini Illit tassaagit taakkua ingiallortaat, nunami takornartami ikiortaat, aliasuutaannik piiaasoq, pilluaannerannilu tuppallersaasoq. Imerusunneranni imigassaagit inuummarissinartoq, nappaataannut katsorsaataagit peqqissinartoq uummataasalu ikumallutik kissarulunneranni nipaallisaataasoq.
 Ilumoortumik, Illit tassaavutit Tukkornerpaasoq, Naalagaq saammaalluartoq, aammalu ilumoortumik Illit tassaavutit Misigittarnerpaaq Nallittuinerpaasorlu.
-
--- Abdu'l-Bahá

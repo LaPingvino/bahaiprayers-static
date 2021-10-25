@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7416 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Wiele oziębłych serc, o mój Boże, rozpalił ogień Twojej Sprawy i wielu uśpionych obudziła słodycz Twojego głosu. Iluż to obcych szukało schronienia w cieniu drzewa Twojej jedności i iluż spragnionych łaknęło w dniach Twoich zdroju Twojej wody życia!
@@ -9,5 +10,3 @@ Błogosławiony jest ten, który skierował się ku Tobie i pospieszył, aby dot
 Błagam Cię, o mój Panie, na Tego, który jest Twoim Imieniem, który siłą Twojej wszechwładzy i mocy wzniósł się ponad horyzont swojego więzienia, abyś zarządził dla wszystkich to, co godne jest Ciebie i przystoi Twojej wzniosłości.
     
 Twoja moc, zaiste, może wszystko sprawić.
-
--- Bahá'u'lláh

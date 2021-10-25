@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BH03908 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'BH03908']
 +++
 ##Naw-Rúz
@@ -11,5 +12,3 @@ Since thou hast adorned them, O my Lord, with the ornament of the Fast prescribe
 Thou art He through Whom the ensign “Praiseworthy art Thou in Thy works” hath been lifted up, and the standard “Obeyed art Thou in Thy behest” hath been unfurled.  Make known this Thy station, O my God, unto Thy servants, that they may be made aware that the excellence of all things is dependent upon Thy bidding and Thy word, and the virtue of every act is conditioned by Thy leave and the good pleasure of Thy will, and may recognize that the reins of men's doings are within the grasp of Thine acceptance and Thy commandment.  Make this known unto them, that nothing whatsoever may shut them out from Thy Beauty, in these days whereon the Christ exclaimeth: “All dominion is Thine, O Thou the Begetter of the Spirit (Jesus)”; and Thy Friend (Muhammad) crieth out: “Glory be to Thee, O Thou the Best-Beloved, for that Thou hast uncovered Thy Beauty, and written down for Thy chosen ones what will cause them to attain unto the seat of the revelation of Thy Most Great Name, through which all the peoples have lamented except such as have detached themselves from all else except Thee, and set themselves towards Him Who is the Revealer of Thyself and the Manifestation of Thine attributes.”
 He Who is Thy Branch and all Thy company, O my Lord, have broken this day their fast, after having observed it within the precincts of Thy court, and in their eagerness to please Thee.  Do Thou ordain for Him, and for them, and for all such as have entered Thy presence in those days all the good Thou didst destine in Thy Book.  Supply them, then, with that which will profit them, in both this life and in the life beyond.
 Thou, in truth, art the All-Knowing, the All-Wise.
-
--- Bahá'u'lláh

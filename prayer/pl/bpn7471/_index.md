@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7471 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 To są, o mój Boże, te dni, w których Tyś nakazał sługom swoim zachowywać Post. Tyś ozdobił nim wstęp do Księgi swoich Praw, objawionej Twoim stworzeniom i przystroił Skarbnice swoich przykazań wobec wszystkich, którzy są w Twoim niebie, i wszystkich, którzy są na Twej ziemi. Tyś obdarzył każdą godzinę tych dni wyjątkową zaletą, nieprzeniknioną dla nikogo poza Tobą, którego wiedza ogarnia wszystkie stworzone rzeczy. Tyś także przydzielił każdej duszy cząstkę tej zalety, zgodnie z Tablicą swego wyroku i Pismami swojego nieodwołalnego orzeczenia. Ponadto, każdą stronicę tych Ksiąg i Pism przeznaczyłeś dla każdego z ludów i rodów ziemi.
@@ -19,5 +20,3 @@ Ty widzisz, o mój Boże, co spotkało Twoich umiłowanych w ciągu dni Twoich. 
 Oto wybiła godzina, o mój Panie, którą Tyś wywyższył ponad każdą inną godzinę i którą Tyś przeznaczył dla najdoskonalszych spośród Twoich stworzeń. Błagam Cię, o mój Boże, przez wzgląd na nich i na Ciebie samego, abyś ustanowił w ciągu tego roku to, co wywyższy Twoich umiłowanych. Zarządź ponadto w ciągu tego roku to, co pozwoli Jutrzence Twojej mocy zaświecić jasno ponad horyzontem Twojej chwały i rozjaśnić cały świat Twoją królewską mocą.
     
 Uczyń Twoją Sprawę zwycięską, o mój Panie, a poniż Twoich nieprzyjaciół. Zapisz dla nas zatem dobro tego świata i świata który nastąpi. Tyś jest Prawdą, która zna utajone rzeczy. Nie ma Boga poza Tobą, Zawsze Przebaczającym i Wszechdobroczynnym.
-
--- Bahá'u'lláh

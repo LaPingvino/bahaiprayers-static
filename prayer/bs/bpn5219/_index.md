@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5219 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Duga Obavezna Molitva 
@@ -68,5 +69,3 @@ od nasrtaja zablude i taštih umišljanja. Ti si, uistinu, Moćni, Sveznajuc�
 *Neka onda digne glavu, sjedne i kaže:
 
 Svjedočim, moj Bože, ono što su potvrdili Tvoji Odabrani, i priznajem ono što su stanovnici najvišeg Raja, i oni koji kruže okolo Tvog moćnog Prijestolja, potvrdili. Tvoje je kraljevstvo kako na zemlji, tako i na nebu, Gospodaru svjetova!
-
--- Bahá'u'lláh

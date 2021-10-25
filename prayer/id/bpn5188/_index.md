@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5188 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Katakanlah: Ya Rabi Tuhanku, hiasilah kepala hamba dengan mahkota keadilan dan tubuh hamba dengan hiasan keinsyafan. Sesungguhnya, Engkaulah yang mempunyai segala pemberian dan kederma- wanan.
@@ -9,5 +10,3 @@ Katakanlah: Ya Rabi Tuhanku, hiasilah kepala hamba dengan mahkota keadilan dan t
 *"Pusatkanlah pikiran-pikiranmu pada perkembangan rohanimu sendiri dan tutuplah matamu terhadap kekurangan- kekurangan orang-orang lain"
 *"Sibukkanlah dirimu dalam hal-hal rohani, sehingga tiada apa- pun di dunia insani yang dapat mengganggu engkau"
 *"... Semua kesedihan dan kedukaan yang ada, berasal dari dunia fana; dunia rohani hanya memberikan kebahagiaan" - ‘Abdu’l-Bahá
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10375 in Svenska'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Han är Gud! 
@@ -9,5 +10,3 @@ O Herre! Dessa själar har smakat bittra kval i detta jordiska liv och som ett t
 O Herre! Låt deras öron fyllas med det gudomliga biståndets verser, giv dem en snar seger och rädda dem undan förtrycket från dem som styr med förgörande makt. Håll tillbaka de ondskefullas händer och lämna ej dessa själar att slitas sönder av de rasande bestarnas klor och tänder, ty de är fångna i sin kärlek till Dig, anförtrodda Din helighets mysterier, står ödmjukt framför Din dörr och har nått Din upphöjda förgård.
 O Herre! Stärk dem nåderikt med en ny ande, lys upp deras ögon och låt dem få se Dina underbara bevis i nattens mörker, föreskriv dem allt det goda som finns i överflöd i Ditt eviga mysteriums rike, gör dem till strålande stjärnor lysande över alla nejder, träd fyllda av frukter och grenar som rör sig i gryningens vindar.
 Sannerligen, Du är den Givmilde, den Mäktige, den Allsmäktige, den Obundne. Det finns ingen annan Gud än Du, kärlekens och den milda barmhärtighetens Gud, den Allhärlige, den evigt Förlåtande.
-
--- Abdu'l-Bahá

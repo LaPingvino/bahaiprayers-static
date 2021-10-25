@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2139 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 El este Cel Îngăduitor, Cel Atotmărinimos!
@@ -10,5 +11,3 @@ O, Doamne, Dumnezeul meu! Chemarea Ta m-a atras şi vocea Condeiului Tău de Sla
 Stau mărturie în clipa aceasta, o, Dumnezeul meu, neputinţei mele şi suveranităţii Tale, slăbiciunii mele şi puterii Tale. Eu nu ştiu ceea ce îmi foloseşte sau îmi dăunează; Tu eşti, cu adevărat, Cel Atotştiutor, Cel Atotînţelept. Porunceşte pentru mine, o, Doamne, Dumnezeul şi Stăpânul meu, ceea ce mă va face să fiu mulţumit cu veşnica Ta poruncă şi-mi va fi de folos în fiecare dintre lumile Tale. Tu eşti în adevăr Cel Îngăduitor, Cel Mărinimos.
 
 Doamne! Nu mă îndepărta de oceanul bogăţiei Tale şi de raiul milostivirii Tale, şi orânduieşte pentru mine binele acestei lumi şi a celei ce va să vie. Cu adevărat, Tu eşti Stăpânul sălaşului milostivirii întronat în înalturi; nu există alt Dumnezeu în afară de Tine, Cel Unic, Cel Atotştiutor, Cel Atotînţelept.
-
--- Bahá'u'lláh

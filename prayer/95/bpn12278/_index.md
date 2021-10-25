@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12278 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Au e vikia a Koe, O toku Atua, i te manogi gali o Tou alofa-kaimalie ko piki vakevale au i ei, mo matagi ili malie o Tou alofa-atafai ko takitaki ne latou au ki Au mea-alofa e lausa.  Fai aka au ke inu, O toku Aliki, mai maikao o te vai ola o Tou alofa-lauefa te la ne mafai i ei a tino taki tokotasi o kau atu ki ei o ave keatea mai ia ia a te piki ki mea katoa na loa ko Koe, kae ke eva atu ki luga i se kogaa-koga o te motu mai i Au mea ola katoa, kae ke kilo tonu a ia ki luga i Tau kilooga-alofa mo Au mea-alofa tafasili ite uke.  Fakatoka aka au, i faka-nofonofoga katoa, O toku Aliki, ke tavini a Koe kae fuli atu au ki te agamalu o Tau Fakaaliga mo Tou Gali.  Ka fai ko Tou fiafiaaga, fai aka au ke tupu pe la me se lakau ola foliki i te lauelele o Tou alofa-kaimalie, ko te matagi malie o Tou loto ka fago ne ia au kae ma ofe atu au ke olo tonu mo Tou fiafiaaga, i se faka-nofooga te la so se gasuesuega io me se ai e tuku katoatoa kia Koe.  
@@ -10,5 +11,3 @@ Ka fuli au ki fea, O toku Aliki, seai lele soku maalosi o maua se isi auala aka 
 Fakaeke mai mo au, O toku Atua, a mea ko la ka fakatonu i ei au, i taimi katoa, o fanatu kia Koe, kae fai aka ke mafai au o pikki mmau i taimi katoa ki te kafanoa o Tou alofa, kae faka-salalau atu a Tou igoa, kae ke kilokilo foki ki so se mea te la e tafe mai i Tau pene.  Au e faka-alofa kae mativa, O toku Aliki, a ko Koe ko te Pule-Katoatoa, ko te Tafasiili i te Maluga.  Kilo alofa mai kia au, na la, mai i mea faka-ofoofogina o Tou alofa-kaimalie, kae tuku ifo ki luga ia au, i minute taki tasi katoa o toku ola, a mea ko la ne toe faiite ne Koe a loto o latou o Au mea ola faiite katoa ke lavea ne latou a Tou faka-tasitasi mo Au tino katoa ko la e tapuaki katoatoa kia Koe.  
   
 A Koe, e tonu, ko te Mafi-Katoatoa, ko te tafasili ite Maluga, ko te IloaKatoatoa, ko te Atamai-Katoatoa.
-
--- Bahá'u'lláh

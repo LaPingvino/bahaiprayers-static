@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4523 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O aking Diyos at aking Panginoon! Ako ay Iyong tagapaglingkod at anak ng Iyong tagapaglingkod. Nagbangon ako buhat sa aking higaan sa madaling araw na ito na ang Araw-Bituin ng Iyong kaisahan ay sumikat na buhat sa Pamimitak ng Iyong kalooban, at nagsasabog na ng kaniyang ningning sa buong daigdig, ayon sa iniatas sa mga Aklat ng Iyong Kautusan.
@@ -9,5 +10,3 @@ Purihin Ka, O aking Diyos, sa pagkagising namin sa mga karingalan ng liwanag ng 
 Pagpalain Mo, O Panginoon kong Diyos, Siya na iniluklok Mo sa Iyong pinakamahusay na pamagat, na sa pamamagitan Niya ay pinagbukod Mo ang maka-Diyos at masasama at buong kagandahang-loob na tulungan kami na magawa namain ang Iyong iniibig, at ninanais. Higit pa dito, pagpalain Mo, O aking Diyos, silang Iyong mga Salita at Iyong mga Titik, at silang nagtuon ng kanilang mukha sa Iyo, at tumugon sa Iyong Tawag.
 
 Tunay na Ikaw ang Panginoon at Hari ng lahat ng tao, at makapangyarihan sa lahat ng bagay.
-
--- Bahá'u'lláh

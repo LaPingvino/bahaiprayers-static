@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6813 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Magnified art Thou, O Lord my God! I ask Thee by Thy Name which Thou hast set up above all other names, through which the veil of heaven hath been split asunder and the Daystar of Thy beauty hath risen above the horizon, shining with the brightness of Thy Name, the Exalted, the Most High, to succor me with Thy wondrous help and to preserve me in the shelter of Thy care and protection.
@@ -12,5 +13,3 @@ No God is there beside Thee, the All-Glorious, the Great Giver, the Forgiving, t
 
 
 *Prayers and Meditations, LXXXIV
-
--- Bahá'u'lláh

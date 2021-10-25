@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7447 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 *Modlitwa za zmarłych jest jedyną obowiązkową modlitwą bahaicką, w której uczestniczą wszyscy zebrani. Odmawia ją jeden z wiernych, podczas gdy pozostali stoją w milczeniu. Bahá’u’lláh wyjaśnił, że modlitwa za zmarłych jest wymagana jedynie, gdy zmarły miał więcej niż piętnaście lat, i że jej odmówienie powinno poprzedzać pochówek oraz że zwrócenie się w stronę Qiblih nie jest konieczne. ‚Alláh-u-Abhá’ wypowiada się jednokrotnie, następnie dziewiętnaście razy recytuje się pierwszy z sześciu wersów. Wtedy ponownie wypowiada się ‚Alláh-u-Abhá’, po czym dziewiętnaście razy recytuje się drugi wers, i tak dalej.
@@ -24,5 +25,3 @@ Zaprawdę, wszyscy dzięki składamy Bogu.
 Zaprawdę, wszyscy jesteśmy cierpliwi w Bogu. 
      
 *(Jeżeli zmarłą jest kobieta, niech modlący się powie: „Oto Twoja służebnica i córka Twojej służebnicy” itd.)
-
--- Bahá'u'lláh

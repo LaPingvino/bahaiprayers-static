@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7776 in Kreyol Ayisyen'
+author = 'Bahá'u'lláh'
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##Priyè pou Naw-Rúz
@@ -9,5 +10,3 @@ Pliske Ou te abiye kwayan yo, O Senyè mwen, avèk bijou Jèn nan Ou te kòmande
 Se Ou menm Ki te monte drapo pawòl sa yo ki di: “Ou merite lwanj pou tout sa Ou fè,” e se Ou menm Ki te dewoule bandwòl pawòl sa yo: “Tout moun obeyi ak volonte Ou.” O Bondye mwen! Fè tout sèvitè Ou yo rekonèt grandè ran Ou ki parèt nan pawòl sa yo pou yo kapab konprann se desizyon Ou ak pawòl Ou ki bay tout bagay valè, e se pèmisyon Ou ak bon plezi volonte Ou ki deside ki valè chak aksyon pral genyen, epi fè yo rekonèt se Ou menm Ki kenbe nan men Ou kòd desten an ki gen kontwòl sou aksyon lèzòm daprè volonte Ou ak kòmandman Ou. Fè yo konnen sa, O Bondye mwen, pou pa gen anyen ditou k’ap egziste pou anpeche yo wè Belte Ou nan jou sa a yo. Nan jou sa a, Jezi Kri di: “Tout otorite se pou Ou, O Ou menm Ki te Sous la pou Lespri a (Jezi Kri).” E nan jou sa a Zanmi Ou (Mahomè) di: “Glwa pou Ou, O Ou menm Ki Pi Byeneme a, paske Ou te devwale Bèlte Ou, e Ou te ekri pou moun Ou te chwazi yo sa ki pral fè yo rive jwenn syèj revelasyon Pi Gran Non Ou an. Se Pi Gran Non sa a ki te fè tout pèp yo boulvèse, sof sila yo ki te detache ak tout bagay esepte Ou menm, e ki te vire bò kote Li menm Ki Revele Ou Menm menm, e Ki Manifeste kalite Ou yo.”
 O Senyè mwen, Li menm Ki se Branch Ou ak tout lòt zanmi Ou yo te mete fen nan jèn pa yo jodiya, aprè yo te fin swiv li bò kote lakou Ou, e daprè dezi yo te genyen pou fè Ou plezi. Chwazi pou Li menm, ak pou yo menm, e pou tout moun ki te antre nan prezans Ou pandan jounen sa yo tout sa ki bon Ou te sere pou yo nan Liv Ou a. Epi, O Senyè mwen, fè yo jwenn tout sa ki pral ba yo avantaj ni nan lavi sa a, ni nan lavi aprè a. 
 An verite, se Ou menm Ki Konnen Tout Bagay, Ki Genyen Tout Sajès la.
-
--- Bahá'u'lláh

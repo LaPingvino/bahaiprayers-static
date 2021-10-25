@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7992 in Malti'
+author = 'Abdu'l-Bahá'
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 O Alla tiegħi! O Alla tiegħi! Fis-sew, jien insejjaħleK u nitlob quddiem il-għatba tiegħeK, nitolboK li-l-ħniena kollha tiegħeK tinżel fuq dawn l-erwieħ. Irfinahom għall-għoġba tiegħeK u għas-sewwa tiegħeK. 
@@ -11,5 +12,3 @@ O Sid, Int li għandek ħniena bla qies! O Sid tal-maħfra u tal-mogħdrija! Aħ
 O Sid Alla! Agħmilna bħal mewġ il-baħar, bħal fjuri tal-ġnien, magħquda, naqblu bejnietna bit-tjieba ta’ mħabbteK. O Sid! Wassa’ l-isdra bl-egħliem ta’ waħdaneK, u agħmel lill-bnedmin kollha kwiekeb jiddu mill-istess għoli ta’ glorja, bħal frott perfett jikber fuq is-siġra tiegħeK tal-ħajja.
 
 Fis-sew, Int is-Setgħani, Li Tgħix Fik InnifseK, Li Tagħti, Li Taħfer, Li Tagħder, Li Taf  Kollox, il-Ħallieq Waħdani.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10116 in Slovensky'
+author = 'Bahá'u'lláh'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 ##Tabuľka Svätého Moreplavca
@@ -65,5 +66,3 @@ Nech je velebený Ten, ktorý ju stvoril z podstaty lásky v samom srdci Svojho 
 Na to zo svojich komnát náhlivo vybehli nebeské devy, na ktorých ešte nikdy nespočinul zrak žiadneho obyvateľa najvyššieho raja, sláva buď nášmu Pánovi Najvyššiemu.
 A všetky sa zhromaždili okolo nej a hľa! našli jej telo povalené v prachu! Sláva buď nášmu Pánovi Najvyššiemu!
 A ako ju zazreli v tomto stave a pochopili slovo z príbehu, ktorý vyrozprával Mladík, odkryli si hlavy, roztrhali svoj šat na kusy, udierali sa do tvárí, zabudli na všetku radosť, ronili slzy a bili sa rukami po lícach. A toto je, vskutku, jedno zo záhadných a strastiplných súžení. Sláva buď nášmu Pánovi Najvyššiemu!
-
--- Bahá'u'lláh

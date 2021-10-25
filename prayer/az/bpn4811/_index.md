@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4811 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey mənim Allahım və mənim Mövlam! Mən Sənin bəndənəm və bəndənin oğluyam. Mən bu sübh çağı yatağımdan qalxmışam, o zaman ki, Sənin təklik şəfəqin Sənin iradənin günəşindən parladı və Sənin Hökm Kitablarında əmr etdiyin kimi, Öz işığını bütün dünyaya saldı.
@@ -9,5 +10,3 @@ Təriflər olsun Sənə, Ey mənim Allahım, biz Sənin irfan nurunun parıltıs
 Mübarək eylə, Ey Rəbbim, mənim Allahım, O Kəsi ki, Ona ən uca və ali adlarını verdin, O Kəs ki, Onun vasitəsilə mömini günahkardan ayırdın. Sənin bəyəndiyin və razı qaldıqlarını etməkdə bizə lütfünlə kömək eylə. Bundan başqa, Sənin Kəlmən və Hərflərin olan Kəsləri mübarək eylə, Ey mənim Allahım, və o kəsləri mübarək eylə ki, üzlərini Sənə tutdular, nəzərlərini Sənin üzünə dikdilər və Sənin Çağırışına qulaq asdılar.
 
 Sən, həqiqətən, bütün insanların Rəbbi və Sultanısan və hər şeyin üzərində Hakimsən.
-
--- Bahá'u'lláh

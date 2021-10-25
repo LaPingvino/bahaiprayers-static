@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12011 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Ägirt Uly.
@@ -9,5 +10,3 @@ Oldur Ägirt Uly.
     “Sen edýän işiň bilen söýülýänsiň” Kelamynyň baýdagy Seniň bilen dikeldilip, “Sen Öz buýruklaryňa sygynýany kabul edýänsin” sözüniň tugy Seniň bilen asmanda parlaýandyr. 
     Eý meniň Taňrym! Her zadyň oňatdygy Seniň Emriňe hem Kelamyňa baglydygyny we her işiň ýagşylygy Seniň Rugsadyňa we Erkiňe baglydygyny biler ýaly, Öz bendeleriňi bu uly Orun bilen tanyş et. Işler hataryny Seniň Razylyk permanyň gollarynda görmelidir. Isanyň “Bu ýurt Seniňdir Eý ruhy ýaradan” Kelamy we Muhammediň “Alkyş diňe Saňa laýykdyr” diýen sözi eşidilýän bu günlerde, hiç zat olary Seniň Jemalyňy görmekden saklamasyn. Sebäbi Sen Öz Gözelligiňi aýdyň etdiň we Öz dostlaryňa “Ismi Agzamyň“ aýan bolan ornuna ýetmäge, gerek zatlary ýazdyň. Şonuň bilen ähli adamlar aglady. Diňe Senden özgelerden üzülen kişi, Seniň Jöwheriň doglan tarapyna we Seniň sypatlaryň aýdyň bolan ýerine ýüz tutdy. 
     Ýa Reb! Ynha bu gün Seniň pudagyň we daşyňdakylaryň bary, Seniň razylygyň üçin oraza tutup, agyz açýarlar. Oňa, olara we Seniň dergähiňe baran ähli ynsanlara, Kitabyňda ýazylan bar ýagşylyklary ýazgyt et. Onsoň bulara dünýe we ahyrýetde ýagşy bolan zatlardan rysgal ber. Dogrudanam iň Dana we Hekim Sensiň.
-
--- Bahá'u'lláh

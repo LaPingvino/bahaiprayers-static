@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10860 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 ##KE FAI FAKATASI I TE LUASEFULU FA ITULA, I TUTONU 
@@ -12,5 +13,3 @@ E seai aka se Atua na ko Koe, ko te Feasoasoani i Mea Faigata, ko te Ola-fua ia 
 
 
 *A pati ‘taeao’, ‘tutonu’, mo te ‘afiafi’, ko la e fai mai i Talo Faka-pitoa, e faka-uiga ki manavaaga ite va o te saeega o te laa mo tutonu, ite va o tu tonu mote toga o te laa, pela foki mo te toga o te laa mo te lua o itula mai tua ifo i te toga ote laa. - Synopsis and Codification of the Kitáb-i-Aqdas, p. 36
-
--- Bahá'u'lláh

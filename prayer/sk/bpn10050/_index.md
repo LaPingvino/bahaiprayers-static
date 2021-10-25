@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10050 in Slovensky'
+author = 'Bahá'u'lláh'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Dlhá modlitba za uzdravenie
@@ -49,5 +50,3 @@ Volám k Tebe, ó Ty, ktorý zabíjaš Milujúcich, ó Bože Milosrdenstva pre h
 Ty vždy Stály, ó Ty Stály!
 Si posvätený, ó môj Bože! Úpenlivo ťa prosím, pri Tvojej štedrosti, ktorou sa dokorán otvorili brány Tvojich darov a milosti, ktorou bol na tróne večnosti ustanovený Chrám Tvojej Svätosti a pri Tvojom milosrdenstve, ktorým si pozval všetky stvorené veci k stolu Svojich darov a štedrosti a pri Tvojej milosti, ktorou si odpovedal v Sebe Samom Svojím vlastným slovom „áno“ za všetkých v nebi i na zemi v hodine, kedy bola prejavená Tvoja zvrchovanosť a Tvoja veľkosť a na úsvite; za ktorého bola zjavená moc Tvojho panovania. Úpenlivo ťa prosím, pri týchto najspanilejších menách, pri týchto najvznešenejších a najušľachtilejších prídomkoch a pri Tvojej najvznešenejšej Spomienke a pri Tvojej čistej a nepoškvrnenej Kráse a pri Tvojom skrytom Svetle v najskrytejšom pavilóne a pri Tvojom Mene, každé ráno i každý večer odenom v rúchu súženia, aby si ochraňoval vlastníka tejto požehnanej Tabuľky a každého, kto ju prednáša a každého, kto si ju vypočuje alebo prechádza okolo domu, kde sa nachádza. Uzdrav ňou každého chorého, neduživého a úbohého od všetkého trápenia a súženia, od každého neznesiteľného zármutku a smútku a veď ňou každého, kto si želá vstúpiť na cestu Tvojho vedenia a na cestu Tvojho odpustenia a milosti.
 Ty si, vskutku, Mocný, všetkému Dostačujúci, Uzdravujúci, Ochranca, Dávajúci, Súcitný, nadovšetko Štedrý, nadovšetko Milostivý.
-
--- Bahá'u'lláh

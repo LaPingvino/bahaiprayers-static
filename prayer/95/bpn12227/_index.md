@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12227 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Vikiiga e Koe, O te Aliki toku Atua!  I taimi katoa e masaua ne au a Koe kae mafaufau ki Ou uiga lei, Au e poko saale i se laumatagi kae fonu au i te fiafia ia Koe te la ko se maua ne au o faipati a Tou igoa kae fakamaluga a Koe.  Au ko lele ki tua ki koga maluga te la ko lavea i ei ne au me e pau mo te masausauga o Koe i Tou lalolagi, mo te tina vikiiga o Koe i vasia o Au tavini.  Me e pefea a te leva o te ola o Koe, me e pefea a te leva o te tumau o fakaoko atu Ou tavaeega ki tua atu i vasia o Au mea ola faiite mo Tou masausauaga ka vikia ne Au tagata a Koe.  
@@ -10,5 +11,3 @@ Kae kafai a Koe e loto ke fakailoa a Koe ki tagata, ne fakaasi mai a Koe i te fa
 Kae i taimi ne fakataunu i ei a Tau valoaga mo te taimi tela ne tusia mai, a Ia Tela ko te Pule o Igoa mo Uiga llei katoa ko fakaasi atu ki tagata.  Mai i kona a mea katoa i lagi mo mea katoa ite lalolagi ne polepole i te mataku vagana ko latou ko la ne tausi ne 
 Koe mai lalo i Tau puipuiiga kae tausi mai lalo i te maluuga o Tou maalosi mo Tau fuafuaga alofa.  I kona ne siga atu kia luga ia Ia, mai i lima o Au mea ola ko la ko oti ne agasala atu kia Koe, te la e seai se laulaufaiva o se isi o Au tavini e mafai o toe fakamatala.  
 Kilo ifo, tena, kia Ia, O toku Atua, se kiloga o Tou alofa-kaimalie, kae tuku ifo ki lalo ia Ia mo latou ko la e alofa kia Ia a mea lei katoa ko oti ne fakatoka i te lagi o Tou finagalo mo te Tapeleti o Tau fakatonuuga.  Feasosoani kia latou, tena, mo Tau fakamafanafanaaga, me ia Koe, e tonu, ko te MafiKatoatoa, ko te Tafasili i te Maluga, ko te Matagofie-Katoatoa, ko te FakaofoofoginaKatoatoa.
-
--- Bahá'u'lláh

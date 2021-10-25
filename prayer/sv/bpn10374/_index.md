@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10374 in Svenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 När denna bön läses vid bahá’í-begravningar, skall alla de närvarande stå upp.
@@ -16,5 +17,3 @@ Vi lovprisar alla i sanning Gud.
 Vi frambär alla i sanning tack till Gud.
 Vi är alla i sanning tålmodiga inför Gud.
 (Om den döda skulle vara en kvinna, låt honom säga: Detta är Din tjänarinna och Din tjänarinnas dotter, o.s.v.)
-
--- Bahá'u'lláh

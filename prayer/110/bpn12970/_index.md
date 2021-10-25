@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12970 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 O God, God bilong mi!  Givim lait long poret bilong ol lain manmeri, husat i laikim Yu tru.  Na helpim ol wantaim ol bikpela lain ensel bilong Yu, em ol ensel i save win oltaim.  Strongim lek bilong ol long wokabaut long stretpela rot bilong Yu.  Opim ol dua inap bai ol i ken lukim ol gutpela presen bilong Yu, em ol presen i kam long Blesing bilong Yu bilong oltaim.  Mekim ol dispela samting long ol, long wanem ol i save givim bek ol samting Yu bin givim long ol taim ol i bihainim rot bilong Yu.  Ol i save lukautim Lotu bilong Yu.  Ol i save tingim Yu, olsem ol i bilip tru long Yu.  Ol i makim lewa bilong ol long Yu, long wanem ol i laikim Yu tumas.  Ol i no holimpas moa long ol gutpela samting bilong ol, long wanem ol i laikim Yu tumas. Ol i no holimpas moa long ol gutpela samting bilong ol, long wanem ol i save laikim tru Naispela bilong Yu na ol i painim sampela rot bilong amamasim Yu. 
@@ -15,5 +16,3 @@ O God, my God!  Illumine the brows of Thy true lovers and support them with the 
 O my Lord!  Ordain for them a plenteous share, a destined recompense and sure reward. 
  
 Verily, Thou art the Sustainer, the Helper, the Generous, the Bountiful, the Ever-Bestowing.
-
--- Abdu'l-Bahá

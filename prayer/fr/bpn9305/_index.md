@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9305 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, en ces jours tu enjoins à tes serviteurs d’observer le jeûne. Aux yeux de tous, sur la terre comme au ciel, tu en fais un ornement du préambule du Livre des lois révélé pour tes créatures et une parure du précieux recueil de tes commandements. Tu dotes chaque heure de ces jours d’une vertu que toi seul discernes, toi dont la connaissance embrasse toute la création. Tu assignes également à chaque âme une part de cette vertu, en accord avec le livre de ton décret et les écrits de ton jugement irrévocable. Plus encore, tu alloues à chaque peuple de la terre une page de ces livres et de ces écrits.
@@ -13,5 +14,3 @@ Tu es notre Seigneur et le Seigneur de tous les mondes, le Dieu de tous ceux qui
 Ô mon Dieu, tu vois ce qui est advenu à tes aimés en tes jours. Ta gloire m’en est témoin ! Les lamentations de tes élus s’élèvent dans tout ton royaume. Certains furent capturés par les infidèles de ton pays qui les empêchèrent de s’approcher de toi et d’atteindre la cour de ta gloire. D’autres t’approchèrent, mais ne purent contempler ton visage. D’autres encore, dans leur ardent désir de te contempler, purent pénétrer dans l’enceinte de ta cour, mais laissèrent se placer entre eux et toi les voiles de l’imagination humaine et les maux infligés par les oppresseurs au sein de ton peuple.
 Ô mon Seigneur, voici l’heure que tu places au-dessus des autres heures et que tu relies à tes créatures les meilleures. Ô mon Dieu, par toi-même et par elles, je te supplie. Ordonne pour cette année ce qui exaltera tes bien-aimés et permettra au Soleil de ta puissance de briller au-dessus de l’horizon de ta gloire et d’illuminer le monde entier par ta volonté souveraine.
 Rends ta cause victorieuse, ô mon Seigneur, et abaisse tes ennemis. Décrète pour nous le bien de cette vie et de la vie à venir. Tu es la Vérité qui connaît les mystères. Il n’est pas d’autre Dieu que toi, le Magnanime, le Très-Généreux.
-
--- Bahá'u'lláh

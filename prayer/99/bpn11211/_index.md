@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11211 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-99', 'bpn-unsorted']
 +++
 Ee Mungu wangu, Bwana wangu, Lengo la shauku yangu!  Mtumishi wako huyu, atazamia kusinzia katika kivuli cha rehema Yako na kupumzika chini ya chandalua cha rehema Yako, akiomba uangalizi Wako na ulinzi Wako. 
@@ -7,5 +8,3 @@ Ee Mungu wangu, Bwana wangu, Lengo la shauku yangu!  Mtumishi wako huyu, atazami
 Ninakuomba, Ee Bwana wangu, kwa jicho Lako ambalo halisinzii, kuyalinda macho yangu yasitazame mwingine kando Yako.  Imarisha, basi, kuona kwayo ili yaweze kutambua ishara Zako, na kutazama Upeo wa Ufunuo Wako.  Wewe ndiye Yule Ambaye mbele ya ufunuo wa ukuu Wake kipeo cha nguvu kimetetemeka. 
 
 Hayupo Mungu ila Wewe, Mwenyezi, mtiisha kabisa, Asiyeshurutishwa.
-
--- Bahá'u'lláh

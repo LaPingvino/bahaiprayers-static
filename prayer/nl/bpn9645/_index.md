@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9645 in Nederlands'
+author = 'Abdu'l-Bahá'
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Heer, mijn God en mijn schuilplaats in mijn wanhoop! Mijn schild en mijn beschutting in mijn leed! Mijn vrijplaats en mijn toevlucht in tijden van nood en in mijn eenzaamheid mijn metgezel! In mijn smart mijn trooster en in mijn verlatenheid een liefdevol vriend! Degeen die de pijn mijner droefenis wegneemt en mijn zonden verontschuldigt!
@@ -13,5 +14,3 @@ O God, mijn God! Houd de zachte bries van Uw vergiffenis en genade niet bij mij 
 Laat mij onder de schaduw van Uw beschermende vleugels nestelen en laat Uw albeschermende blik over mij gaan.
 Maak mijn tong los om Uw Naam onder Uw volk te verheerlijken, opdat mijn stem in grote bijeenkomsten klinke en een vloed van lof te Uwer ere mij van de lippen strome.
 Gij zijt waarlijk de Genadige, de Verheerlijkte, de Machtige, de Alvermogende.
-
--- Abdu'l-Bahá

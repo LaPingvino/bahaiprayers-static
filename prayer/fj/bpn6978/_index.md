@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6978 in Fiji'
+author = 'Bahá'u'lláh'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 O i Kemuni na Kalou, O i Kemuni ka vakaivolataki ira na Parofita Lumuti kece ga, na i Vurevure ni vei Vurevure kece ga, na Uluvatu ni i Vola Tabu kece ga, kei na Waivure ni vei Rarama kece ga! Au vakadinata ni Yacamuni ga e vakaiukuukutaka na veikilai vakayalo, ka vuabale kina na titobu ni vosa mana, kei na rabailevu ni Nomuni veitaqomaki e sa kilai raraba vei ira na lewe ni veimatalotu kece ga.
@@ -9,5 +10,3 @@ Au sa masuti Kemuni Mo ni sa vakavutuniyautaki au mada me u biuta laivi na veika
 Oqo na Nomuni dauveiqaravi, O i Kemuni na noqu Turaga, o koya mai na vu ni yalona taucoko e sa vakanamata tu yani ki na vunilagi ni Nomuni loloma soli Wale, kei na wasawasa ni Nomuni veivukei, kei na i solisoli kece ga vakalomalagi. O koya gona Mo ni vakacolati au mada mai kina e na veika e vu ni Nomuni cecekia, ka Nomuni lagilagi, ka Nomuni veisaututaki, kei na Nomuni loloma.
 
 Sa i Kemuni, dina ga, na Kalou ni qaqa kei na kaukauwa, o Koya sa dau sotava ka sauma na nodra masu na dau masuti Kemuni. Sa sega tale ni dua na Kalou sa i Kemuni ga, na Vu ni Kilaka, na Vu ni Vuku.
-
--- Bahá'u'lláh

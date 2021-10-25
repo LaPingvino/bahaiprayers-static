@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7848 in Italiano'
+author = 'Báb'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Come posso lodarTi, o Signore, per i segni del Tuo possente fulgore e per le meravigliose, dolci fragranze che Mi hai elargito in questa fortezza, talché nei cieli o sulla terra non v’è nulla che possa reggere confronto? Hai vegliato su Me nelle viscere di questo monte dove tutt’intorno sono circondato da montagne: una Mi sovrasta, altre si ergono a dritta e a manca e un’altra M’incombe innanzi. Gloria a Te, non v’è altro Dio all’infuori di Te. Quante rocce ho visto precipitare su Me da questo monte, ma Tu Me ne hai protetto, preservandoMi nel baluardo della Tua Unità divina. 
@@ -13,5 +14,3 @@ In verità, Tu sei la suprema aspirazione di ogni assiduo cercatore e la Mèta d
 O Tu Che a tutto provvedi! Tu Mi basti in ogni angustia che Mi colga e in ogni afflizione che Mi incalzi. Sei il Mio solo Compagno nella solitudine, la Delizia del Mio cuore nell’isola-mento e il Mio Benamato nella Mia prigione e nella Mia Dimora. Non v’è altro Dio che Te! 
 Non sarà mai messo in distretta colui cui Tu provvedi; né mai perirà chi Tu proteggi; né sarà mai confuso chi Tu assisti; né si ritroverà mai lungi da Te colui cui Tu volgi lo sguardo. 
 Disponi per noi dunque tutto ciò che è presso Te e perdonaci per ciò che siamo. In verità Tu sei il Signore possente, glorioso, il Signore di tutti i mondi. «Lungi sia la gloria del Tuo Signore, il Signore di ogni possanza, da quanto essi Gli attribuiscono! E la pace sia con i Suoi Apostoli, e lode a Dio, il Signore di tutti i mondi!» .
-
--- Báb

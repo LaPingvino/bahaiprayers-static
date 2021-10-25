@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5206 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Loh Ziarah 
@@ -20,5 +21,3 @@ Tiada Tuhan melainkan Engkau, Yang Maha Pengampun, Yang Maha Dermawan.
 
 *Sidrat berarti Pohon Ilahi
 *Ma'bud berarti Yang Disembah
-
--- Bahá'u'lláh

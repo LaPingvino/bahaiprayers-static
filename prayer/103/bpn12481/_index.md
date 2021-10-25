@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12481 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-103', 'bpn-unsorted']
 +++
 How can I choose to sleep, O God, my God
@@ -11,5 +12,3 @@ Lo’u Alii e, ou te tuuina atu lo’u agaga ma lo’u tagata atoa i le aao taum
 Ona o Lou Malosi, pe ou te mo pe ala ou te le siligia Oe ae faia le mea e finagalo i ai Lau Afio. O a’u o Lau auauna i Ou aao. Fesoasoani alofa mai Oe ia te a’u e faia ai le mea e faasasalaina atu ai le manogi o Lou finagalo lelei. E moni, o lo’u faamoemoega tonu lenei atoa ma i latou o loo fiafia ina ua latalata atu i Lau Afio.
 
 Ia viia Oe, le Alii o Lalolagi!
-
--- Bahá'u'lláh

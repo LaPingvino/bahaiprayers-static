@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9155 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Louange à toi, ô mon Dieu ! Je suis l’un de tes serviteurs, je crois en toi et en tes signes. Vois ! je me dirige vers la porte de ta miséricorde et je tourne mon visage vers ton affectueuse bonté. Par tes titres les plus admirables et tes attributs les plus éminents, je te supplie d’ouvrir devant moi les portes de tes bienfaits. Aide-moi à faire ce qui est bon, ô toi, le possesseur de tous les noms et de tous les attributs !
@@ -8,5 +9,3 @@ Je suis pauvre, ô mon Seigneur, et toi, tu es riche. J’ai tourné mon visage 
 Ô mon Dieu, je te rends grâce de m’avoir tiré de mon sommeil, de m’avoir ranimé et d’avoir suscité en moi le désir de percevoir ce que la plupart de tes serviteurs n’ont pu appréhender. 
 Ô mon Seigneur, donne-moi la force de discerner tout ce que tu désires, guidé par ton amour et ton bon plaisir. C’est au pouvoir de ta puissance et de ta souveraineté que toutes choses rendent témoignage.
 Il n’est de Dieu que toi, le Tout-Puissant, le Bienfaisant.
-
--- Bahá'u'lláh

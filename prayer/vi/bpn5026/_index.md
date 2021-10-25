@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5026 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Kinh Bản Giao Ước
@@ -19,5 +20,3 @@ Hỡi các ngươi là những Aghsan (Cành), những Afnan (Nhánh) và nhữn
 Hãy phán: Hỡi các tôi tớ! Đừng để cho những phương tiện của trật tự biến thành nguyên nhân của sự rối loạn, và công cụ của đoàn kết biến thành cơ hội bất hòa. Chúng Ta hằng hy vọng rằng các con dân của Đấng Baha được hướng dẫn bởi những lời chúc phúc này: “Hãy phán: Mọi vật đều thuộc về Thượng Đế”. Lời cao cả này giống như nước để dập tắt lửa ghen ghét và hận thù nung nấu trong tim, trong ngực loài người. Chỉ nhờ lời này, các dân tộc và các dòng giống thù nghịch sẽ đạt tới ánh sáng thống nhất thực sự. Ngài quả đã phán lẽ thật và dẫn đường. Ngài là Đấng Hùng mạnh Nhất, Đấng Cao cả, Đấng Độ lượng.
 Mọi người phải bày tỏ sự lịch thiệp và tôn kính đối với các Aghsan (Cành) để nhờ đó Chánh Đạo của Thượng Đế được tôn vinh và Thánh ngôn của Ngài được nêu cao. Lệnh truyền này đã nhiều lần được nhắc đến và ghi chép trong Thánh thư. Tốt phước cho ai hoàn tất điều mà Đấng An bài, Đấng Cố cựu của các Thời đại truyền dạy mình. Hơn nữa, các ngươi còn được lệnh phải tôn kính những người trong Gia đình Thánh, những Afnan (Nhánh) và những người trong thân tộc. Ngoài ra Chúng Ta cũng kêu gọi các ngươi phụng sự tất cả các nước và cố gắng cải thiện thế giới. 
 Điều dẫn tới sự hồi sinh thế giới và giải thoát các dân tộc và các giống nòi trên mặt đất đã được ban xuống từ thiên đàng thánh ngôn của Ngài là Đấng Khát khao của thế giới. Các ngươi hãy lắng nghe lời khuyên của Ngòi Bút Vinh quang. Đối với các ngươi điều này tốt hơn mọi thứ trên trái đất. Điều này đã được chứng nhận trong Thánh kinh Vinh quang và Kỳ diệu của Ta.
-
--- Bahá'u'lláh

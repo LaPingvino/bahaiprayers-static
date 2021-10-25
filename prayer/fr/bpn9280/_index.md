@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9280 in Français'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Seigneur, mon Dieu et mon havre dans la détresse ! Mon bouclier et mon abri dans les tribulations ! Mon asile et mon refuge à l’heure du besoin, mon compagnon dans l’isolement ! 
@@ -14,5 +15,3 @@ Laisse mon cœur déborder d’amour pour tes créatures. Accorde-moi de devenir
 Sous tes ailes bienveillantes, laisse-moi nicher, et tourne vers moi ton regard protecteur.
 Délie ma langue pour louer ton nom parmi ton peuple afin que ma voix s’élève dans les grandes assemblées et que, de mes lèvres, s’écoule ta louange.
 Tu es, en vérité, le Miséricordieux, le Glorifié, le Puissant, l’Omnipotent !
-
--- Abdu'l-Bahá

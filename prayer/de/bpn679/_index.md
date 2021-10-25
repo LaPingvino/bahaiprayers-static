@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn679 in Deutsch'
+author = 'Bahá'u'lláh'
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Dies sind die Tage, o mein Gott, da Du Deinen Dienern das Fasten gebotest. Mit ihm ziertest Du das Vorwort zum Buche Deiner Gesetze, das Du Deinen Geschöpfen offenbartest, mit ihm schmücktest Du die Schatztruhen Deiner Gebote vor den Augen aller, die in Deinem Himmel und auf Deiner Erde sind. Jede Stunde dieser Tage hast Du mit einer besonderen Wirkkraft ausgestattet, unerforschlich allen außer Dir, Dessen Wissen alles Erschaffene umfasst. Auch hast Du jede Seele an dieser Wirkkraft teilhaben lassen gemäß der Tafel Deines Ratschlusses und den Schriften Deines unwiderruflichen Urteils. Jedes Blatt dieser Bücher und Schriften hast Du zudem einem jeden Volk und Stamm der Erde zugewiesen.
@@ -11,5 +12,3 @@ Lasse sodann auf uns herabregnen, o mein Gott, was Deiner Gnade entspricht und D
 Du siehst, o mein Gott, was Deinen Geliebten in Deinen Tagen widerfuhr. Deine Herrlichkeit ist mein Zeuge! Lautes Wehklagen Deiner Auserwählten erhebt sich und erfüllt Dein Reich. Etliche wurden von den Ungläubigen in Deinem Lande verführt und daran gehindert, sich Dir zu nähern und an Deiner Herrlichkeit Hof zu gelangen. Einige vermochten sich Dir zu nähern, wurden jedoch davon abgehalten, Dein Antlitz zu schauen. Anderen ward in ihrem Eifer, Dich zu sehen, erlaubt, in die Umfriedung Deines Hofes einzutreten, doch ließen sie die trügerischen Schleier Deiner Geschöpfe und die Missetaten der Unterdrücker in Deinem Volke zwischen sich und Dich treten.
 Dies ist die Stunde, o mein Herr, die Du über jede andere Stunde erhoben und mit den edelsten Deiner Geschöpfe verbunden hast. Ich flehe Dich an, o mein Gott, bei Dir und bei ihnen, verordne im Verlaufe dieses Jahres, was Deine Geliebten erhöhen wird. Bestimme überdies, dass innerhalb dieses Jahres die Sonne Deiner Macht glänzend über dem Horizont Deiner Herrlichkeit erstrahle und durch Deine höchste Macht die ganze Welt erleuchte.
 Mache Deine Sache siegreich, o mein Herr, und demütige Deine Feinde. Alsdann schreibe nieder für uns das Gute in diesem und im zukünftigen Leben, Du bist die Wahrheit, Du kennst alle geheimen Dinge. Es gibt keinen Gott außer Dir, dem Immervergebenden, dem Allgütigen.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12930 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-110', 'bpn-unsorted']
 +++
 ##SOTPELA PREA BILONG KOLIM LONG OLGETA WAN WAN DE 
@@ -17,5 +18,3 @@ I no gat narapela God. Yu tasol i stap. Yu Save Helpim Long Taim Bilong Bikpela 
 Every Baha'i must say this prayer once each day, between noon and sunset. Before saying this prayer you should wash your hands and face and then stand and turn towards the Shrine of Baha'u'llah in the Holy Land (in Papua New Guinea this is towards the northwest). 
  
 I bear witness, O my God, that Thou hast created me to know Thee and to worship Thee.  I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth. There is none other God but Thee, the Help in Peril, the Self-Subsisting.
-
--- Bahá'u'lláh

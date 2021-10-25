@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8015 in Dansk'
+author = 'Báb'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 I Guds Navn, Herren af overvældende majestæt, Den Almagtsfulde.
@@ -9,5 +10,3 @@ Helliget være Herren, kilden til herredømme er i Hans hånd. Han skaber, hvad 
 Sig: Gud er fyldestgørende for mig; Han er Den Ene, der i sin hånd holder alle tings rige. VedH^p	 sine hærskarers styrke i himlen og på jorden, og hvad der end er dem imellem, beskytter Han enhver blandt sine tjenere, Han vil. Gud våger i sandhed over alt.
 
 Uendelig ophøjet er Du, o Herre! Beskærm os mod det, der ligger foran os og bag ved os, oven over vore hoveder, på vor højre og på vor venstre side, under vore fødder og i alle andre retninger. I sandhed, Din beskyttelse af alt er ufejlbarlig!
-
--- Báb

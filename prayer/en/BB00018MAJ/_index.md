@@ -1,5 +1,6 @@
 +++
 title = 'Prayer BB00018MAJ in English'
+author = 'Báb'
 tags = ['lang-en', 'BB00018MAJ']
 +++
 All majesty and glory, O my God, and all dominion and light and grandeur and splendor be unto Thee.  Thou bestowest sovereignty on whom Thou willest and dost withhold it from whom Thou desirest.  No God is there but Thee, the All-Possessing, the Most Exalted.  Thou art He Who createth from naught the universe and all that dwell therein. There is nothing worthy of Thee except Thyself, while all else but Thee are as outcasts in Thy holy presence and are as nothing when compared to the glory of Thine Own Being.
@@ -8,5 +9,3 @@ Glory be unto Thee, Thou art exalted above the description of anyone save Thysel
 
 
 * 1. Qur'án 6:103
-
--- Báb

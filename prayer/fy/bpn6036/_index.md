@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6036 in Frysk'
+author = 'Bahá'u'lláh'
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 Ik priizgje Jo, o myn God, dat Jo my út 'e sliep wekker makke hawwe en my út myn fuort-wêzen oproppen hawwe en my út myn slomme ferrize litten hawwe. Ik bin dizze moarn wekker wurden mei myn antlit heve nei de pracht fan de Dei-Stjer fan Jo iepenbiering dêr't de himelen fan Jo macht en Jo majesteit troch ferljochte wurden binne; ik erken Jo tekens, leau yn Jo Boek en hâld fêst oan Jo koarde.
@@ -10,5 +11,3 @@ Jo, de Sterke, de Trouwe.
 Jo binne Dejinge, dy't troch Syn gebod fernedering feroaret yn hearlikens en swakte yn krêft, machteleazens yn macht, freze yn rêst en twifel yn wissichheid. Gjin God is der as Jo, de Machtige, de Woldiedige.
 Jo stelle nimmen teloar dy't Jo siket, noch hâlde Jo immen fan Jo ôf dy't nei Jo ferlanget. Ornearje Jo foar my itjinge de himel fan Jo edelmoedigens en de oseaan fan Jo goederjouskens past.
 Jo binne, wierliken, de Almachtige, de Almogende.
-
--- Bahá'u'lláh

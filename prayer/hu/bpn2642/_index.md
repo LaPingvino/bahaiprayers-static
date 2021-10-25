@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2642 in Magyar'
+author = 'Bahá'u'lláh'
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Isten, a Legősibb, a Legnagyobb Nevében!
@@ -103,5 +104,3 @@ Bizony, meghallottam Hívásodat, ó, Legdicsőbb Szeretett, s Bahá arca a gyö
 Ó, Ali-Akbar, mondj köszönetet Uradnak ezen Tábláért, melyből belélegezheted szelídségem illatát és megtudhatod, mi esett meg Vélünk Isten, a minden világok Imádottjának ösvényén.
 
 Ha minden szolga elolvassa és megfontolja magában ezen sorokat, olyan tűz gyúl ki ereikben, mely lángba borítja a világokat.
-
--- Bahá'u'lláh

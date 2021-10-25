@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn2189 in România'
+author = 'Bahá'u'lláh'
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lauda fie cu Tine, o, Dumnezeul meu!
@@ -12,5 +13,3 @@ Eu sunt sărac, o, Domnul meu, şi Tu eşti Cel Bogat. Mi-am întors faţa spre 
 Îţi mulţumesc, o, Domnul meu, că m-ai trezit din somnul meu, m-ai răscolit şi ai creat în mine dorinţa de a înţelege ceea ce cei mulţi dintre slujitorii Tăi n-au reuşit să cuprindă. Dă-mi, aşadar, putinţa, o Domul meu, de a privi, din iubire pentru Tine şi de dragul plăcerii Tale, orice ai dorit. Tu eşti Cel a cărui putere şi suveranitate toate lucrurile au mărturisit-o.
 
 Nu se află alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Binefăcător.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8069 in Dansk'
+author = 'Báb'
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Priset være Dit navn, o herre vor Gud! Du er i sandhed den, der har viden om usete ting. Bestem for os det gode som Din altomfattende kundskab kan udmåle. Du er Den Suveræne Herre, Den Almægtige, Den Mest Elskede.
@@ -11,5 +12,3 @@ O Gud! Beløn dem der holder tålmodigt ud i Din tid og styrk deres hjerter i at
 Sig: Gud er sandelig alle tings skaber. Han giver støtte i overmål til hvem, Han vil. Han er Skaberen, oprindelsen til alle væsener, formeren, Den Almægtige, Den Alvise. Han er den, der bærer de mest strålende navne overalt i himlene og på jorden, og hvad der end ligger mellem dem.
 
 Alle udfører Hans bud, og alle jordens og himlens beboere fejrer Hans pris, og til Ham skal alle vende tilbage.
-
--- Báb

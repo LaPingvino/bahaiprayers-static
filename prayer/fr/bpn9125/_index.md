@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9125 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Les prières journalières
@@ -14,5 +15,3 @@ tags = ['lang-fr', 'bpn-unsorted']
 
 *Les termes « matin », « midi » et « soir » se référant aux prières prescrites, signifient respectivement la durée entre le lever du soleil et midi, entre midi et le coucher du soleil, et entre le coucher du soleil et deux heures après celui-ci.
 *--Kitáb-i-Aqdas, Maison d’éditions bahá’íes, Bruxelles, 1996, p.150).
-
--- Bahá'u'lláh

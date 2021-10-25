@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7521 in Suomi'
+author = 'Abdu'l-Bahá'
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *Jokainen opetusmatkalle lähtevä lausukoon vieraissa maissa matkatessaan tätä harrasta rukousta päivin ja öin:
@@ -8,5 +9,3 @@ Oi Jumala, minun Jumalani! Sinä näet minut Sinun loistavaan valtakuntaasi hurm
 Oi Herra! Tue minua, tee minut kykeneväksi palvelemaan Sinua kaikin voimin äläkä jätä minua yksin ja oman onneni nojaan näille seuduille. 
 Oi Herra! Yksinäisyydessäni suo minun olla yhteydessä Sinuun ja ole kumppanini näissä vieraissa maissa.
 Totisesti Sinä vahvistat ketä vain halunnetkin siinä, minkä tahdot, ja totisesti Sinä olet Kaikkivoimainen, Kaikkivaltainen.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6434 in Cymraeg'
+author = 'Bahá'u'lláh'
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 *(The Intercalary Days, February 26 to March 1, inclusive, should be days of preparation for the Fast, days of hospitality, charity and the giving of present.)
@@ -16,5 +17,3 @@ These, O my Lord, are Thy servants whom no corrupt inclination hath kept back fr
 Thou seest, O my Lord, how they have recognized and confessed whatsoever Thou hast revealed in Thy Scriptures. Give them to drink, O my Lord, from the hands of Thy graciousness the waters of Thine eternity. Write down, then, for them the recompense ordained for him that hath immersed himself in the ocean of Thy presence, and attained unto the choice wine of Thy meeting.
 I implore Thee, O Thou the King of kings and the Pitier of the downtrodden, to ordain for them the good of this world and of the world to come. Write down for them, moreover, what none of Thy creatures hath discovered, and number them with those who have circled round Thee, and who move about Thy throne in every world of Thy worlds.
 Thou, truly, art the Almighty, the All-Knowing, the All-Informed.
-
--- Bahá'u'lláh

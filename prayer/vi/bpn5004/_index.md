@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5004 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 *(Những ngày xen kẽ  - dư nhật  - từ 26 tháng 2 đến hết 1 tháng 3, gồm thành thời kỳ chuẩn bị Trai giới. Những ngày này dành cho việc ái hữu, bác ái và tặng quà).
@@ -9,5 +10,3 @@ Lạy Thượng Đế của con, đây là những tôi tớ Ngài mà không xu
 Lạy Thượng Đế của con, Ngài thấy họ đã nhận biết và tin tưởng tất cả những điều Ngài mặc khải trong các Thánh thư của Ngài. Lạy Thượng Đế của con, xin cho họ uống nước trường tồn của Ngài từ bàn tay độ lượng của Ngài. Xin ban cho họ phần thưởng dành cho kẻ đắm mình trong đại dương hiện diện của Ngài và kẻ đã tìm được rượu tuyển nơi sự tương ngộ cùng Ngài.
 Lạy Ngài là Đấng Vua của các Vua, Đấng Xót thương kẻ bị áp bức, con cầu xin Ngài cấp phát cho họ những của cải trong đời này và đời sau. Hơn nữa, cũng xin ban cho họ điều mà không tạo vật nào của Ngài khám phá được, và xin kể họ vào hàng những kẻ chầu hầu quanh Ngài và những kẻ tiến hóa quanh ngôi báu của Ngài trong mỗi thế giới của Ngài.
 Ngài thực sự là Đấng Toàn năng, Đấng Toàn tri, Đấng Toàn giác.
-
--- Bahá'u'lláh

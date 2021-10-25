@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5764 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##TAULA DEL FOC
@@ -104,5 +105,3 @@ En veritat, he sentit la Teva crida, Oh Gloriosíssim Benaurat. I ara la faç de
 Oh, ‘Alí-Akbar, dóna gràcies al Teu Senyor per aquesta Taula, de la què pots aspirar la fragància de la Meva humilitat i conèixer allò què ens ha assetjat al camí de Déu, Adora’t de tots els mons.
 
 Si tots els serfs llegeixen i mediten sobre això se’ls encendrà a les venes un foc que incendiarà els mons.
-
--- Bahá'u'lláh

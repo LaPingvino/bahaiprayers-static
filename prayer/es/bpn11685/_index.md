@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11685 in Español'
+author = 'Bahá'u'lláh'
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Te imploro, oh mi Dios, por Tu poderoso Signo y por la revelación de Tu gracia entre los hombres, que no me eches de la puerta de la ciudad de Tu presencia, ni frustres las esperanzas que he puesto en las manifestaciones de Tu gracia entre Tus criaturas. Tú me ves, oh mi Dios, aferrado a Tu Nombre, el Más Santo, el Más Luminoso, el Más Poderoso, el Más Grande, el Más Exaltado, el Más Glorioso, y adherido al borde del manto al cual se han aferrado todos, en este mundo y en el venidero.
@@ -16,5 +17,3 @@ Te imploro, oh mi Dios, por el fuego de Tu amor que despejó el sueño de los oj
 Te imploro, oh mi Dios, por la luz de Tu semblante que ha impulsado a quienes están cerca de Ti a recibir los dardos de Tu decreto, y a quienes están consagrados a Ti a enfrentarse a las espadas de Tus enemigos en Tu sendero, que decretes para mí, mediante Tu exaltadísima Pluma, aquello que has de-cretado para Tus fieles y Tus elegidos. Tú me ves, oh mi Dios, aferrado a Tu Nombre, el Más Santo, el Más Luminoso, el Más Poderoso, el Más Grande, el Más Exaltado, el Más Glorioso, y adherido al borde del manto al cual se han aferrado todos, en este mundo y en el venidero.
 Te imploro, oh mi Dios, por Tu Nombre, mediante el cual has escuchado la llamada de Tus amantes, los suspiros de quienes Te anhelan, el llanto de quienes gozan de Tu cercanía, y el gemido de quienes están consagrados a Ti, y mediante el cual has concedido los deseos de quienes han puesto sus esperanzas en Ti y has cumplido sus anhelos por Tu gracia y Tus favores, y por Tu Nombre, mediante el cual el océano de la misericordia se agitó ante Tu rostro y las nubes de Tu generosidad derramaron su lluvia sobre Tus siervos, que decretes para todo el que se haya vuelto hacia Ti, y haya observado el ayuno prescrito por Ti, la recompensa decretada para aquellos que no hablan sino con Tu permiso, y quienes han renunciado a todo lo que poseían en Tu camino y por amor a Ti.
 Te imploro, oh mi Señor, por Ti mismo, por Tus señales, por Tus claros testimonios, por la brillante luz del Sol de Tu Belleza y por Tus Ramas, que absuelvas las faltas de quienes se han mantenido firmes en Tus leyes y han observado aquello que Tú les has prescrito en Tu Libro. Tú me ves, oh mi Dios, aferrado a Tu Nombre, el Más Santo, el Más Luminoso, el Más Poderoso, el Más Grande, el Más Exaltado, el Más Glorioso, y adherido al borde del manto al cual se han aferrado todos, en este mundo y en el venidero.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4884 in Azərbaycan'
+author = 'Bahá'u'lláh'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ya Rəbb, mənim Allahım! Bunlar o günlərdir ki, Sən bütün insanlara Oruc tutmağı hökm etmisən, ta ki, bununla onlar öz qəlblərini təmizləsinlər, Səndən başqa hər şeyə bağlılıqdan qurtulsunlar və onların ürəklərindən elə şeylər yüksəlsin ki, Sənin əzəmət sarayına layiq olsun və Sənin birliyinin təzahürünün taxtına yaraşsın. İzn ver, İlahi, qoy bu oruc abi-həyat çeşməsi olsun və Sənin ona əta etdiyin bəhrəni versin. Bununla Sən bəndələrinin ürəklərini təmizlə, o bəndələr ki, dünyanın şəri onların Sənin Əbha Adına yönəlməsinə mane ola bilmədi, o kəslər ki, Sənin Öz hökmranlığını, qüdrətini, əzəmətini və şərəfini əta etdiyin Zühurunun gəlişini müşayiət edən Sənə məxsus ən parlaq əlamətləri inkar edənlərin çaxnaşması və hay-küyü onları sarsıda bilmədi. Bunlar o bəndələrdir ki, Sənin nidan onlara yetişən kimi, Sənin mərhəmətinə doğru tələsdilər və bu dünyanın qəzavü-qədəri və ya bəşəri məhdudiyyətləri onları Səndən saxlaya bilmədi.
@@ -27,5 +28,3 @@ Ya Rəbb, mənim Allahım, O Kəsi ucalt ki, İlkin Nöqtədir, İlahi Sirdir, G
 Bundan başqa, Onun Sonrakı Zühurunda Sənin birliyini tanıyanların arasından Ona və Onun əlamətlərinə iman gətirənləri, Ona tərəf dönənləri ucalt, O Zühur ki, Onun barəsində O Öz Lövhlərində, Kitablarında, Səhifələrində və Ona nazil olan bütün ecazkar ayələrində və gövhər kimi bəyanlarında xatırlatmışdı. Bu həmin o Zühurdur ki, Onun əhdini Sən Ona Öz əhdini bağlayandan əvvəl bərqərar etməyi hökm etmişdin. Bu O Kəsdir ki, Bəyan Onun tərifini ucaldıb. Bunda (Bəyanda) Onun aliliyi vəsf olunub, Onun həqiqəti təsbit olunub, Onun hökmranlığı bəyan edilib və Onun Əmri təkmil olub. Xoş o kəsin halına ki, Ona tərəf dönüb, Onun hökm etdiklərini yerinə yetirib, Sən ey bu dünyanın Rəbbi və Səni tanıyanların Məqsudu!
 
 Təriflər olsun Sənə, Ey mənim Allahım, çünki Sən bizə kömək etdin ki, Onu tanıyaq və sevək. Ona görə də, Səni and verirəm, Ona və O Kəslərə ki, Sənin Allahlığının Məşriqləri və Sənin Rəbliyinin Məzhərləri, Sənin Vəhyinin Xəzinələri və ilhamının Dəfinələridir – bizi qabil et ki, Ona xidmət edək və Ona itaət edək, bizi qadir et ki, Onun əmrinin köməkçiləri olaq və Onun düşmənlərini pərən-pərən salaq. Sən istədiyin bütün şeyləri etməyə Qadirsən. Səndən başqa Allah yoxdur, Qüdrətli, Ən Cəlallıl, O Allah ki, hamı Onun köməyini diləyir!
-
--- Bahá'u'lláh

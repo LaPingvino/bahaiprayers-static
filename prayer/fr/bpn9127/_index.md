@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9127 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Longue prière à réciter une fois par jour.
@@ -54,5 +55,3 @@ Loué sois-tu, ô notre Dieu ! Tu nous révèles ce qui nous rapproche de toi, e
 
 *Qu’il redresse le buste, s’assoie et dise :
 Ô mon Dieu, j’atteste ce que tes élus attestent, et confesse ce que confessent les habitants du très haut paradis et ceux qui gravitent autour de ton Trône de puissance. Les royaumes de la terre et du ciel sont à toi, ô Seigneur des mondes !
-
--- Bahá'u'lláh

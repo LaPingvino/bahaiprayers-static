@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11767 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *Obuah nai taluh sidoh, sipagi, uunt onu, bia onu ngumi.
@@ -19,5 +20,3 @@ Topa ngin bukti nang doie Topa di bokon pakeh Iyoh. Iyoh dek kakue pritah Revela
 Mbak leh ngibola, O Topa ku, iyoh dek mbok, dengan jugan tongan pimujok, bipawoh tudu jubah pirasie duoh budi Ingan, O Ingan Nyaa dek jadin nyaa dek bikirien pirasie dek paling masie!. 
 *Lasu iyoh, adin, gulue bia nang in neh:
 Oku ngakont tudu kesatuan Ingan duoh pinyindi Ingan, bia Ingan noh leh Topa, duoh lagi doie leh Topa dibokon jok eh Ingan, Ingan mbok totap, ogi bitanga Toga Ingan, pijadi Janji Ingan, bia mbok bidolai tiban budi Ingan tudu sua pinokont daang shorga duoh ndu tanak. Rahmat duoh aman damai, nyaa dek toban pingubah duoh peluang dunya dik eh tungang mapak – jaman tikokos nuju Ingan, bia nyaa dek mbok ngin sua asong eh, daang niat yoh yak tungang so’ont onik de ogi tudu Ingan, Ingan leh, sebonar eh, dek selalu Ngapunt dek selalu Ngin. (Koda inoh geh, tuang sukup geh tudu iyoh, semasa guluk, iyoh pilih basa ayat tih: “oku ngin bukti tudu kesatuan Ingan bia pinyindi Ingan, duoh lagi Ingan leh Topa, bia doie leh Topa di bokon luar dek sok Ingan.”)
-
--- Bahá'u'lláh

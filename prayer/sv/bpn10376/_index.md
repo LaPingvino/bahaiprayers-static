@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10376 in Svenska'
+author = 'Bahá'u'lláh'
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Han är Helaren, den Tillräcklige, Hjälparen, den allt Förlåtande, den Allbarmhärtige.
@@ -49,5 +50,3 @@ O Bestående, jag åkallar Dig, o Bestående.
 Du den evigt bestående, o Du som är den bestående!
 Helgad vare Du, o min Gud! Jag bönfaller Dig vid Din givmildhet, varigenom Din frikostighets och nåds portar öppnades vida, varigenom Din Helighets tempel upprättades på evighetens tron, och vid Din barmhärtighet varigenom Du inbjöd allt skapat till Dina rikliga gåvors bord, och vid Din nåd, varigenom Du i Ditt eget Jag svarade med ordet ”Ja!”, företrädande alla som är i himmelen och på jorden, i den stund då Din överhöghet och Din storhet avslöjades, i gryningens tid då Ditt herraväldes makt uppenbarades. Och återigen bönfaller jag Dig, vid dessa de skönaste av namn, vid dessa de ädlaste och mest upphöjda egenskaper, vid Din mest upphöjda åminnelse, vid Din rena och fläckfria skönhet, vid Ditt fördolda ljus i den mest fördolda paviljongen och vid Ditt namn, iklätt bedrövelsens mantel var morgon och afton, att beskydda bäraren av denna välsignade skrift och vemhelst som läser den, vemhelst som finner den och vemhelst som går förbi det hus vari den finns. Bota då genom den, var och en som är opasslig, sjuk och arm från varje bedrövelse och trångmål, från varje avskyvärt lidande och kval, och vägled genom den vemhelst som åstundar att inträda på Din lednings stigar och Din förlåtelses och nåds vägar.
 Du är sannerligen den Mäktige, den Allförsörjande, den Helande, Beskyddaren, den Givande, den Medlidsamme, den Allgivande, den Allbarmhärtige.
-
--- Bahá'u'lláh

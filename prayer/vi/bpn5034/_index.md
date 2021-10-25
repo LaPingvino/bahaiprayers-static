@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5034 in Tiếng Việt'
+author = 'Bahá'u'lláh'
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, Ngài thật đáng ca tụng! Ngài là Đấng mà chỉ có một tiếng thốt ra khỏi môi cũng đủ làm đảo lộn cả tạo vật, mà chỉ một nét phát ra từ ngọn bút của Ngài cũng đủ khiến các tôi tớ Ngài bị phân rẽ. Lạy Thượng Đế của con, trong Mặc khải này con làm chứng rằng chỉ do một tiếng của Ngài, mọi vật thọ tạo đều chịu hủy diệt và do một tiếng khác nữa, tất cả những kẻ Ngài lựa chọn đều được ban cho đời sống mới, nhờ ân phúc và lượng bao dung của Ngài.
@@ -9,5 +10,3 @@ Lạy Thượng Đế của con, xin giúp họ đủ sức gắn bó vào Chán
 Lạy Thượng Đế của con, con đã nghe tiếng tru lũ lang sói phát ra dưới lốt các tôi tớ Ngài. Xin Ngài che chở những kẻ thân yêu Ngài trước việc làm xấu xa của họ và giúp những kẻ thân yêu ấy bám víu thật chắc vào Đấng mà Ngài đã biểu hiện trong Mặc khải này, mà theo tri thức thiêng liêng của Ngài, không Mặc khải nào vượt hơn được.
 Lạy Thượng Đế của con, xin an bài cho họ điều lợi ích đối với họ. Xin soi sáng họ bởi ánh sáng trí huệ Ngài để họ thấy rõ sự ưu việt của Ngài ở trên vạn vật, sự huy hoàng của Ngài trước các tạo vật Ngài và sự chiến thắng của Ngài đối với mọi người ở cõi trời và cõi đất. Ngài có quyền năng hành động theo ý Ngài. Không có Thượng Đế nào khác ngoài Ngài, Đấng Toàn vinh mà mọi người đều xin sự cứu giúp.
 Ngài thật đáng ca tụng, lạy Ngài là Đấng Thượng Đế của tạo vật.
-
--- Bahá'u'lláh

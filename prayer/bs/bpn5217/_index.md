@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5217 in Bosanski'
+author = 'Bahá'u'lláh'
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Kratka Obavezna Molitva 
@@ -12,5 +13,3 @@ tags = ['lang-bs', 'bpn-unsorted']
 Svjedočim, o, moj Bože, da si me stvorio da spoznam i obožavam Tebe. Svjedočim, u ovom trenutku, o mojoj nemoći i Tvojoj moći, o mom siromaštvu i Tvom bogatstvu.
 
 Nema drugog Boga osim Tebe, Pomoći u nevolji, Samopostojnog.
-
--- Bahá'u'lláh

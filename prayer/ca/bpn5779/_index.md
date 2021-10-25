@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5779 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 T’imploro, oh Déu meu, pel Teu poderós signe i per la revelació de la Teva gràcia entre els homes, que no m’allunyis de la porta de la ciutat de la Teva presència, ni frustris les esperances que he posat en les manifestacions de la Teva gràcia entre les Teves criatures. Tu em veus, oh Déu meu, agafant-me al Teu Nom, el Més Gran, el Més Lluminós, el Més Poderós, el Més Exaltat, el Més Gloriós i adherint-me a la vora del mantell al qual s’han adherit tots, en aquest món i el venidor.
@@ -29,5 +30,3 @@ T’imploro, oh Déu meu, per la llum del Teu semblant què ha impulsat als qui 
 T’imploro, oh Déu meu, pel Teu Nom, (mitjançant el qual has escoltat la invocació dels Teus amants, els sospirs dels qui t’anhelen, el plor dels qui gaudeixen de la Teva proximitat, el gemec dels qui estan consagrats a Tu i mitjançant el qual has acomplert els desitjos dels qui han posat les seves esperances en Tu i has realitzat els seus anhels per mitjà de la Teva gràcia i favors), i pel Teu Nom mitjançant el qual l’oceà de la misericòrdia es va agitar davant el Teu rostre, i els núvols de la Teva generositat abocaren la seva pluja sobre els Teus serfs, que decretis per a tothom què s’ha girat cap a Tu i hagi observat el dejuni què Tu has prescrit, la recompensa decretada per aquells què no parlen sinó amb el Teu permís i per aquells què han rebutjat tot el què posseeixen en el Teu camí per amor a Tu.
 
 T’imploro, oh Senyor meu, per Tu mateix, pels Teus signes, pels Teus clars senyals, per la refulgent llum del sol de la Teva Bellesa i per les Teves Branques, que absolguis les faltes dels qui s’han mantingut ferms a les Teves lleis i han observat allò què Tu els has prescrit al Teu Llibre. Tu em veus, oh Déu meu, agafant-me al Teu Nom, el Més Gran, el Més Lluminós, el Més Poderós, el Més Exaltat, el Més Gloriós i adherint-me a la vora del mantell al qual s’han adherit tots, en aquest món i el venidor.
-
--- Bahá'u'lláh

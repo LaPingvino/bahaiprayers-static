@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6793 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O Thou Whose remembrance is the delight of the souls of all them that yearn after Thee, Whose name is the exultation of the hearts of all who are wholly devoted to Thy will, Whose praise is cherished by such as have drawn nigh unto Thy court, Whose face is the ardent desire of all them that have recognized Thy truth, Whose trial is the healer of the sicknesses of them who have embraced Thy Cause, Whose calamity is the highest aspiration of such as are rid of all attachment to any one but Thyself!
@@ -13,5 +14,3 @@ Far, immeasurably far, art Thou exalted above all things, O Thou Who art the Kin
 We are Thy servants, O my Lord, and in the grasp of Thy power. If Thou chastisest us with the chastisement inflicted upon the former and the latter generations, Thy verdict would be assuredly just and Thine act praiseworthy. Powerful art Thou to do what pleaseth Thee. None other God is there beside Thee, the Almighty, the All-Glorious, the Help in Peril, the Self-Subsisting.
 
 *Prayers and Meditations, LXXX
-
--- Bahá'u'lláh

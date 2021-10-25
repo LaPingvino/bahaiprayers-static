@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10237 in Māori'
+author = 'Bahá'u'lláh'
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 Ko Ia te Atua rongo-i-te-inoi, te whakutui-te-inoi! Mā Tōu korōria, e Te Tau, Koe te kaihōmai o te mārama ki te ao! Kua tāwerahia ahau ki ngā mura o te tauwehe, ko taku kōtiti kua whakarewa i tōku ngākau. Tēnei ahau te inoi ki a Koe, mā Tōu ingoa Nui Whakaharahara, e Koe te Kōingo o te ao me te Tino Tau o te ira tangata, te tuku kia whaiora tōku wairua ora i te hau o Tōu whakaawe, kia tae mai Tōu reo mīharo ki tōku taringa, kia kitea ai e ōku karu Ōu Tohu me Tōu rama kua whakakitea ki ngā whakatinanatanga o ōu ingoa me Ōu āhua, e Koe ko ngā mea katoa kei te kapu o Ōu ringa! 
@@ -11,5 +12,3 @@ E kite nei Koe, e Te Ariki tōku Atua, i ngā roimata o Ōu mea tau, kua ringihi
 Mā Tōu tino rangatiratanga, e Koe kua whakakorōriatia ki ngā ngākau o te tangata! Kua tahuri ahau ki a Koe, me te whakarere i āku hiahia me āku wawata, kia uru mai ki ahau ko Tāu e hiahia ai, ko Tāu e wawata ai, e ai ki te pene o Tāu nā whakahau mōku. Ko tēnei pononga, e Te Ariki, ahakoa he kahakore kua tahuri ki te Ao o Tōu Mana, ahakore kua whakahāweangia, e tere ana ki te Rā o te Korōria, ahakoa pōhara, e hemokai ana ki te Moananui o Tō atawhai. Ko tāku inoi ki a Koe mā tō manako me Tōu tōnui, kaua ia e whakarērēna. 
 
 Ko Koe tūturu te Kaharawa, te Poumuru hara, te Mākoha.
-
--- Bahá'u'lláh

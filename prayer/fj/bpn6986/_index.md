@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6986 in Fiji'
+author = 'Bahá'u'lláh'
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 *“Na vei masu vakaroti e na veisiga, kei na so tale sa macala vinaka tu na kenu i naki, me vaka na Masu ni Veivakabulai, Na iVola nei Ahmad, e sa vakalougatataka oti tu o Bahá'u'lláh e na dua na i vakatagedegede talei, e kaukauwa ka bibi tale ga, ka dodonu gona kina me ciqomi vakavinaka ka me ra vakayagataka na lewe ni vakabauta e na yalo ni vakanuinui dina kei na tudei ka sega ni dau tarogi lesu, ka me rawa kina vei ira me ra tiko veivolekati sara kei na Kalou, ka me rawa tale ga ni ra kila vakavinaka na Nona lawa kei na Nona i naki.”
@@ -39,5 +40,3 @@ Mo vulica vakavinaka tiko na Masu oqo, Isa Ahmad, cavuta e na veigauna ka mo kak
 E na vukuna na Kalou! Ke vaka e dua e vakaleqai se loma ocaoca se yalo rarawa e wilika na iVola Tabu oqo e na yalona dina taucoko, e kauta tani na Kalou na nona rarawa, ka walia na nona leqa ka vakaseavutaka na nona loma ocaoca.
 
 E dina, sa i Koya ga na Dauveivosoti, na Dauloloma. Me vakacaucautaki tiko ga na Kalou, na Turaga ni vuravura kece ga.
-
--- Bahá'u'lláh

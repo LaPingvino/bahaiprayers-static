@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9366 in Malagasy'
+author = 'Bahá'u'lláh'
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 *Tonom-bavaka lava izay vakiana indray mandeha isan’andro. 
@@ -50,5 +51,3 @@ Deraina Ianao, ry Andriamanitray ô, noho ny namelanao hidina ety aminay izay ma
 *Mitraka amin’izay, mipetraka ary milaza hoe:
 Manamarina aho, ry Andriamanitro ô, izay namafisin’ny olom-boafidinao ary mahafantatra aho izay neken’ny mponin’ny Paradisa tena Avo sy ireo izay mihodidina ny Seza fiandriananao.
 Anao ny fanjakan’ny tany sy ny lanitra, ry Ilay Andrian’izao tontolo izao ô.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5089 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##SEMBAHYANG PANJANG
@@ -75,5 +76,3 @@ Pujian bagi-Mu ya Tuhan kami, karena Engkau telah menurunkan kepada kami apa yan
 Aku naik saksi, ya Tuhanku, pada apa yang disak-sikan oleh Hamba-hamba-Mu yang terpilih dan aku mengakui pada apa yang telah diakui oleh penghuni- penghuni Surga Tertinggi dan oleh mereka yang telah mengelilingi Arasy-Mu yang agung. Kerajaan-kerajaan di bumi dan di langit kepunyaan-Mu, ya Tuhan sekalian alam!
 
 *"Ketahuilah olehmu bahwa di dalam setiap kata dan gerakan dari sembahyang wajib, terpendam makna-makna, rahasia-rahasia dan hikmah yang tak dapat dipahami oleh manusia dan tak dapat terkandung dalam huruf-huruf dan ayat-ayat." -- ‘Abdu’l-Bahá
-
--- Bahá'u'lláh

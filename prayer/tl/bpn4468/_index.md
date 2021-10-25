@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4468 in Filipino'
+author = 'Abdu'l-Bahá'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Diyos! O Diyos! Nakikita Mo na ang maitim na karimlan ay kumukubkob sa lahat ng pook, lahat ng bansa ay nasisilab sa sunog ng kasuwailan at ang apoy ng digmaan at pagpatay ay nagsiklab sa mga silangan ng lupa at mga kanluran niyon. Ang dugo ay nabububo, at ang mga bangkay ay nagratay sa lupa at ang mga pugot na ulo ay nagsibagsakan sa alabok ng larangan ng digmaan.
@@ -27,5 +28,3 @@ O Panginoon! Tunay na ang mga tao ay nasa malalim na bangin ng pagnanasa at wala
 O Panginoon! Pawiin ang mga karimlan nitong balakyot na mga hangarin at liwanagan ang mga puso ng tanglaw ng Iyong pag-ibig, na nagbibigay ng liwanag sa lahat ng mga bansa. Pagtibayin, gayundin, ang Iyong mga minamahal, yaon na lumisan sa kanilang mga bansa, sa kanilang mga pamilya, at sa kanilang mga anak, naglalakbay sa mga banyagang lupa nang dahil sa pag-ibig sa Iyong kagandahan, sa pagkakalat ng Iyong mga kabanguhan, at sa pagpapalaganap ng Iyong mga turo. Ikaw ang maging kasama nila sa kanilang pangungulila, katulong nila sa isang banyagang lupa, tagapawi ng kanilang kalungkutan, kanilang tagaaliw sa kalamidad. Ikaw ay maging tagatighaw ng kanilang pagkauhaw, tagapagpagaling ng kanilang karamdaman at pang-alo ng apoy ng kanilang paghahangad.
 
 Tunay na Ikaw ang Pinaka Bukas Palad, ang Panginoon ng Masaganang Biyaya, at tunay na Ikaw ang Madamayin at ang Mahabagin.
-
--- Abdu'l-Bahá

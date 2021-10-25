@@ -1,5 +1,6 @@
 +++
 title = 'Prayer AB00787SPL in English'
+author = 'Abdu'l-Bahá'
 tags = ['lang-en', 'AB00787SPL']
 +++
 O God, O Thou Who hast cast Thy splendor over the luminous realities of men, shedding upon them the resplendent lights of knowledge and guidance, and hast chosen them out of all created things for this supernal grace, and hast caused them to encompass all things, to understand their inmost essence, and to disclose their mysteries, bringing them forth out of darkness into the visible world! “He verily showeth His special mercy to whomsoever He will.”¹
@@ -10,5 +11,3 @@ Thou verily art the Powerful, the Protector, the Potent, the Defender, the Might
 
 *1. Qur'án 51:56.
 *2. Qur'án 55:19-22.
-
--- Abdu'l-Bahá

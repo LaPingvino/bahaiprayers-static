@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6855 in Canadian Indigenous'
+author = 'Bahá'u'lláh'
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *Short Obligatory Prayer
@@ -14,5 +15,3 @@ tá7a han szugwzúgwt, ta ts'íya wus ha skwankwánt ta tákmus ha7 szugwzugwt.
 
 I bear witness, O my God, that Thou has created me to know Thee and to worship Thee. I testify at this moment to my powerlessness and to Thy might, to my poverty and to Thy wealth.
 There is none other God but Thee, the Help in Peril, the Self-subsisting.
-
--- Bahá'u'lláh

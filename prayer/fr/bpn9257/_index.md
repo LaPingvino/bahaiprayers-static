@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9257 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Aux flots parfumés de ton éternité, laisse-moi m’abreuver, ô mon Dieu, et aux fruits de l’arbre de ton existence, permets-moi de goûter, ô mon Espoir ! 
@@ -12,5 +13,3 @@ Dans le jardin de ton immortalité, en ta présence, laisse-moi demeurer à jama
 Au ciel de ta tendre bonté élève-moi, ô mon Animateur, et vers le Soleil de ta providence conduis-moi, ô toi qui m’attires !
 Lors des révélations de ton invisible esprit, convoque-moi, ô toi qui es ma source première et ma plus noble aspiration, et vers l’essence embaumée de ta beauté que tu voudras manifester, fais que je retourne, ô toi qui es mon Dieu !
 Tu as le pouvoir de faire ce qui te plaît. Tu es, en vérité, le Très-Élevé, le Très-Glorieux, le Suprême.
-
--- Bahá'u'lláh

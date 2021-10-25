@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7863 in Italiano'
+author = 'Bahá'u'lláh'
 tags = ['lang-it', 'bpn-unsorted']
 +++
 ##PREGHIERA OBBLIGATORIA LUNGA 
@@ -62,5 +63,3 @@ Lodato Tu sia, o nostro Dio, Tu Che hai fatto scendere su di noi ciò che ci att
 *Alzi il capo e sedendosi dica:
 
 Io attesto, o mio Dio, ciò che i Tuoi Eletti hanno attestato e riconosco ciò che gli abitatori dell’altissimo Paradiso e coloro che si sono volti attorno al Tuo potente Trono hanno riconosciuto. I regni della terra e del cielo sono Tuoi, o Signore dei mondi!
-
--- Bahá'u'lláh

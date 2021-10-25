@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn13013 in '
+author = 'Bahá'u'lláh'
 tags = ['lang-113', 'bpn-unsorted']
 +++
 ##BAHA´I MARRIAGE:
@@ -14,5 +15,3 @@ Saaule Nakmai, a Xulmu, a Baraai a Vaatrulaaiing, a vit a kinbuking aang Naan ka
 
 Bulaai Naan ka i zi laaur ma xa luyaasaat laaur la paarmaleng. A vaaratulaaiing a vaaralaiing Sina. Ka i zi marangingit di na pen saraxaai wan Naan. La raan Naan ka saxot ka na vazi yaavus a bina pan a i naxam maalufing Sina, ka vamaravaas a rutaawok a iziing ma xa nol a ngeiwulut. La maskana xa rasin a ngeiwulut kun a daxoing ma vabulus aang di pan a raksaating. Ka rasin a lus sindi la maskan a doring ka wut la bina xoxok i la maskan a Buk Faarala Zina. Naan ka pitfiaat a dikdik a maravaasna “Basaan! Moxos, avuna nim naagu na vabalos a vuaainim kuna raain fakilaan aang Ni la walao a mun yaanakilaaiing Surugo. Naare a za lus Surugo ku nim. Falos kuna vilaan aang nim nanga.”
 Bahá'u'lláh
-
--- Bahá'u'lláh

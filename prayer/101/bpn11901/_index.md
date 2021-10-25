@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11901 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Boli ku romin aman damai.
@@ -17,5 +18,3 @@ Itih leh romin pongirinduk, bala nyaa
 dek molot kaang-eh mesti bilajar ajar pangirinduk;
 wat noh wat ngan bala ingan yak puant wat gaya
 nye cinta nyaa dibokon.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4810 in Azərbaycan'
+author = 'Abdu'l-Bahá'
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey mənim Allahım, Ey axtaranları doğru yola Yönəldən, Ey sərgərdanları və korları həlakolma biyabanından Xilas Edən, Sən Ey səmimi olanlara böyük bəxşişlər və nemət Əta Edən, Ey qorxudulmuşları Öz alınmaz sığınacağında Qoruyan, Səni göz yaşları içində çağıranlara Öz uca üfüqündən Cavab Verən. Həmd olsun Sənə, Ya Rəbb! Sən azdırılmışları imansızlığın ölüm səhrasından dogru yola yönəltdin, Sənə yaxın olanları səfərlərinin mənzilinə yetirdin, bəndələrin arasında yəqinliyə çatanları ən böyük arzularına qovuşdurmaqla sevindirdin və Gözəllik Səltənətindən Sənin həsrətini çəkənlərin üzünə vüsal qapılarını açdın və onları məhrumiyyət və binəsiblik odundan xilas etdin - belə ki, onlar Sənə dogru tələsdilər, Sənin hüzuruna yetişdilər, Sənin qonaqpərvər qapına çatdılar və bol-bol bəxşişlər aldılar.
@@ -9,5 +10,3 @@ Ya Rəbb, onlar susamış idilər, Sən onların qurumuş dodaqlarına vüsal su
 Həqiqətən, Sən Səxavətli, həmişə Bəxşedən, Əziz, Ən Kərimsən.
 
 Səndən başqa Allah yoxdur, Qüdrətli, Qüvvətli, Uca və Qabiliyyətli.
-
--- Abdu'l-Bahá

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn10100 in Slovensky'
+author = 'Abdu'l-Bahá'
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó môj Bože! Ó môj Bože! Vskutku ťa vzývam a zbožne sa modlím pri Tvojom prahu a prosím ťa, aby si tieto duše obdaril všetkou Svojou milosťou. Zvoľ si ich pre udelenie Svojej priazne a pravdy.
@@ -9,5 +10,3 @@ O Pane, Ty, ktorý si Vlastníkom nekonečného milosrdenstva! Ó Pane odpusteni
 Odpusť nám naše hriechy, prepáč nám naše chyby a dovoľ nám obrátiť sa k ríši Tvojej zhovievavosti a vzývať kráľovstvo moci a sily, stáť pokorne pri Tvojej svätyni a ponížene sa skloniť pred slávou Tvojich znamení.
 O Pane Bože! Urob nás vlnami jedného mora, kvetmi jednej záhrady, zjednoť a zosúlaď nás pomocou darov Svojej lásky. O Pane! Ozdob naše hrude znameniami Svojej jedinosti a daj, aby sa každý človek stal hviezdou žiariacou z rovnakej výšky slávy a ovocím rastúcim na Tvojom strome života.
 Vskutku, Ty si Všemohúci, skrze Seba Jestvujúci, Darca, Odpúšťajúci, Vševediaci, Jediný Stvoriteľ.
-
--- Abdu'l-Bahá

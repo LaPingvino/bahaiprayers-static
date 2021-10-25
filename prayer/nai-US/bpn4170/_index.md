@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4170 in American Indian'
+author = 'Bahá'u'lláh'
 tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Yízhí bee Ni’dóójíinii ‘éí náshííldzii’, shi Diyin Nílíinii, áádóó bee nééhanihii ‘éí bee náádiisdzá.
@@ -8,5 +9,3 @@ nashííldzíí’ ‘áádóó ‘éí náásdóó shiká ‘anánílwo’ dí�
 Ni, t’áá ‘aní, t’áá ‘altsoní Baanidlee’ t’áá ‘altsóní  Nil Bééhózin, t’áá ‘altsoní bee Honíyá.
 
 *Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness to Thee is my hope, and love for Thee is my companion. Thy mercy to me is my healing and my succour in both this world and the world to come. Thou, verily, art the All-Bountiful, the All-Knowing, the All-Wise.
-
--- Bahá'u'lláh

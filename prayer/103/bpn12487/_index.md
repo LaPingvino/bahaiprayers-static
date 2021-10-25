@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12487 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O Lord, my God and my Heaven in my distress
@@ -27,5 +28,3 @@ Ia ou lafi i lalo o le paolo o Ou apa’au malu, ma sisila mai i o’u luga le s
      Tatalaina lo’u laulaufaiva e vi’ia ai Lou suafa i totonu o Ou tagata, ina ia mafaia e lo’u leo ona fa’atūina ni fa’apotopotoga tetele ma mafai e o’u laugutu ona tafe atu ai lologa tetele o Lou vi’iga.
 
 E moni o Lau Afio o le Alofa Tunoa, o le Fa’aneetaga, o le Malosi, o le Malosi uma lava.
-
--- Abdu'l-Bahá

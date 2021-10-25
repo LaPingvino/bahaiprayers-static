@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11220 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-99', 'bpn-unsorted']
 +++
 *Marafiki wote wa Mungu . . . lazima wachangie kwa uwezo wao wote, hata mchango wao uwe mdogo kiasi gani.  Mungu haitwishi mzigo roho kupita uwezo wake.  Michango kama hiyo ni lazima itoke kwa vituo vyote na waamini.  Enyi marafiki wa Mungu!  Muwe na hakika kwamba badala ya michango hii, kilimo chenu, viwanda vyenu, na biashara zenu vitabarikiwa kwa nyongeza nyingi, kwa thawabu nzuri na Baraka.  Yule ajaye na kitendo kimoja kizuri, atapata thawabu mara kumi.  Hakuna shaka kwamba Bwana Aliye hai Atawathibitisha kwa wingi wale wanaotumia mali yao katika njia Yake. 
@@ -9,5 +10,3 @@ Ee Mungu, Mungu wangu!  Ng’arisha nyuso za wapenzi Wako wa kweli na uwafariji 
 Ee Bwan wangu!  Amuru kwa ajili yao fungu tele, tuzo lililokusudiwa) na zawadi ya uhakika. 
 
 Hakika Wewe ndiye Mhifadhi, Msaidizi, Karimu, Mwenye Baraka, Mpaji daima.
-
--- Abdu'l-Bahá

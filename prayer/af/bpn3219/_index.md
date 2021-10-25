@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn3219 in Afrikaans'
+author = 'Bahá'u'lláh'
 tags = ['lang-af', 'bpn-unsorted']
 +++
 ##MIDDELBARE VERPLIGTE GEBEDE
@@ -35,5 +36,3 @@ Ek getuig van U eenheid en U enkelvoudigheid, en dat U God is, en dat daar geen 
 Sou iemand verkies om pleks van die lang vers hierdie woorde te sê:
 God getuig dat daar geen ander God behalwe Hom is nie, die Hukp in Gevaar, die Selfbestaande, sou dit toereikend wees. En op dieselfde manier, sou dit voldoende wees sou hy, terwyl hy sit, verkies om hierdie woorde te sê: 
 Ek getuig van U eenheid en U enkelvoudigheid, en dat U God is, en dat daar geen ander God behalwe U is nie.
-
--- Bahá'u'lláh

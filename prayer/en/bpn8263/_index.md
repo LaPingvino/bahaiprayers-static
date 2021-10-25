@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn8263 in English'
+author = 'Bahá'u'lláh'
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Excerpt from the Súriy-i-Mulúk
@@ -18,5 +19,3 @@ And when ye took away His life, one of His followers arose to avenge His death. 
 *32.    Qur’án 40:28.
 *33.    The Báb.
 *34.    Imám Ḥusayn.
-
--- Bahá'u'lláh

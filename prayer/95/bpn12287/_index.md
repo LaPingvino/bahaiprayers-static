@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn12287 in '
+author = 'Báb'
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Tuku mai kia au, O toku Atua, a Tou alofa katoatoa mo Tou fiafiaaga-lei, tela mai i ei a Tou mainaaga malifalifa ko pokotia katoa i ei a motou loto, O Koe Tela ko te Faka-talitonuuga Maluga mo te Matagofie-Katoatoa.  Tuku ifo ki luga ia au, a se vaega foliki o Tou alofa-kaimalie, Tau matagi fakaolaola, i te ao mo te po katoa, O te Aliki o te lava i mea katoa.  
@@ -10,5 +11,3 @@ Ko vikiiga ke ia Koe, O Koe Te la e seai aka foki se Atua. Mo te alofa fakamafai
 nofo pili kia Koe, kae ke maua se fealofani mo Koe fua.  E seai aka foki se Atua na ko Koe.  
   
 E tonu kafai a Koe e manako o fakaeke a faka-manuiaaga ki luga i se tavini ka fakaseai lele ne Koe mai i tena loto a so se faipatiiga io me se uiga na fua ko te takutakuga o Koe, kae ka fai e fakaeke mai ne Koe a te se lei ki se tavini ona ko galuega e se tonu ne fai i mua o Ou mata, ka toofo ne Koe a ia mo mea lei o te lalolagi tenei pe la foki mo te sua lalolagi ko te mea ke saga tonu a ia ki mea kona kae fakapuli a Tou masausauaga.
-
--- Báb

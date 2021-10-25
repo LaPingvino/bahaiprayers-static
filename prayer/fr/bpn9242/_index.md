@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9242 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Loué sois-tu, ô mon Dieu, toi qui, d’un mot de tes lèvres, bouleverses toute la création, et qui, d’un trait de ta plume, sépares tes serviteurs les uns des autres ! 
@@ -9,5 +10,3 @@ Aussi je te rends grâce et te loue au nom de tous ceux qui te sont chers, car t
 Ô mon Seigneur, tu sais que j’entends le hurlement des loups qui se présentent sous les traits de tes serviteurs. Préserve tes bien-aimés de leurs méfaits, permets-leur de se tenir fermement à ce que tu manifestes en cette révélation que n’a surpassé aucune révélation au sein de ta connaissance.
 Ô mon Seigneur, accorde-leur ce qui leur est profitable. Éclaire leurs yeux de la lumière de ton savoir afin qu’ils discernent ta suprématie sur toutes choses, ta splendeur parmi tes créatures et ta victoire sur tout ce qui est au ciel et sur la terre.
 Tu as le pouvoir d’agir comme il te plaît. Il n’est de Dieu que toi, le Très-Glorieux dont tous les hommes implorent le secours. Loué sois-tu, ô Seigneur de toute la création !
-
--- Bahá'u'lláh

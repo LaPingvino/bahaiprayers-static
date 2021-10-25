@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn6844 in Filipino'
+author = 'Bahá'u'lláh'
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ay Diyos, nasa kaluwalhatian Siya, ang Panginoon ng mapagmahal na kabutihang-loob at pagpapala!
@@ -23,5 +24,3 @@ O aking Diyos, ang Iyong ipinagkatiwala ay naibalik na sa Iyo. Nararapat sa Iyon
 Sumasaksi ako, O aking Panginoon, na iniatas Mo sa mga tao na parangalan ang kanilang panauhin, at siyang umakyat patungo sa Iyo ay tunay na nakarating sa Iyo at nakaabot sa Iyong kinaroroonan. Pakitunguhan Mo siya, kung gayon, nang ayon sa Iyong biyaya at pagpapala! Sa pamamagitan ng Iyong kaluwalhatian, natitiyak kong hindi Mo ililingid ang Iyong Sarili doon sa ipinag-utos Mo sa Iyong mga tagapaglingkod, ni hindi Mo pagkakaitan siyang nakahawak sa kuldon ng Iyong pagpapala at nakaakyat sa Pamimitak ng Iyong kayamanan.
 
 Walang ibang Diyos liban sa Iyo, ang Isa, ang Nag-iisa, ang Makapangyarihan, ang Nakababatid ng lahat, ang Mapagpala.
-
--- Bahá'u'lláh

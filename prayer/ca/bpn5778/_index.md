@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5778 in Català'
+author = 'Bahá'u'lláh'
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Aquests són, oh Déu meu, els dies en què Tu vas ordenar als Teus serfs observar el dejuni. Amb ell ordenares el preàmbul del Llibre de les Teves Lleis revelat a les Teves criatures i guarnires als dipositaris dels Teus manaments a la vista de tots els què estan en el Teu cel i en la Teva terra. Tu has proveït cada hora d’aquests dies amb una virtut especial, inescrutable per a qualsevol altre què no siguis Tu, la saviesa del Qual abraça tota la creació. Tu també has designat per a cada ànima una porció d’aquesta virtut d’acord amb la taula del Teu decret i les escriptures del Teu judici irrevocable. Tu, a més a més, has assignat totes les pàgines d’aquests llibres i d’aquestes escriptures a cadascun dels pobles i races de la terra. 
@@ -20,5 +21,3 @@ Tu veus, oh Déu meu, el què els a succeït als Teus estimats als Teus dies. La
 Aquesta és l’hora, oh Senyor meu, què Tu has fet que destaqui sobre totes les demés i l’has vinculat a les més escollides de les Teves criatures. T’imploro, oh Déu meu, pel Teu Ser i per elles, que durant aquest any ordenis el què enalteixi els Teus estimats. Decreta, a més, en aquest any, el què permeti al sol del Teu poder resplendir sota l’horitzó de la Teva glòria i il·luminar pel Teu sobirà poder el món sencer.
 
 Fes victoriosa a la Teva causa, oh Senyor meu, i humilia els Teus enemics. Decreta, per tant, per nosaltres el bé d’aquesta vida i la venidora. Tu ets la Veritat, qui coneix les coses secretes. No hi ha Déu sinó Tu el què sempre perdona, el Tot Generós.
-
--- Bahá'u'lláh

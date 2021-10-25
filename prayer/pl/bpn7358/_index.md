@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn7358 in Polski'
+author = 'Bahá'u'lláh'
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Chwała Ci, o mój Boże! Gdyby nie udręki doznawane na Twojej ścieżce, jak można by rozpoznać prawdziwie miłujących Ciebie, a gdyby nie trudy znoszone z miłości do Ciebie, jak mogłaby objawić się ranga tych, którzy tęsknią za Tobą? Twoja potęga jest mi świadkiem! Towarzyszami wszystkich, którzy Cię wielbią, są ronione przez nich łzy, a pocieszycielami tych, którzy Cię szukają, są wydawane przez nich jęki, zaś pokarmem tych, którzy spieszą na spotkanie z Tobą, są okruchy ich złamanych serc.
@@ -9,5 +10,3 @@ Jakże słodka jest mi gorycz śmierci poniesionej na Twojej ścieżce i jak dro
 Błagam Cię, o mój Boże, powołaj jako pomocników tego Objawienia tych, którzy będą uznani za godnych Twojego imienia i Twojej wszechwładzy, aby wspominali mnie pośród Twoich stworzeń i wznieśli w Twoim kraju zwycięskie chorągwie.
    
 Mocen jesteś czynić wedle swego upodobania. Nie ma Boga poza Tobą, Pomocą w Niebezpieczeństwie, Samoistnym.
-
--- Bahá'u'lláh

@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn9126 in Français'
+author = 'Bahá'u'lláh'
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Prière moyenne, à réciter trois fois par jour, matin, midi et soir.
@@ -35,5 +36,3 @@ Je témoigne de ton unité et de ton unicité, que tu es Dieu et qu’il n’est
 En vérité, tu es Celui qui pardonne, le TrèsGénéreux.
 
 *.* le Point d’adoration, c’est-à-dire Bahjí, près d’Acre.
-
--- Bahá'u'lláh

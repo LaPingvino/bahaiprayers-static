@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn4142 in American Indian'
+author = 'Bahá'u'lláh'
 tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Wakȟáŋ Tȟáŋka mitȟáwa kiŋ, slolčhíyiŋ na wakȟáŋčhila kta čha mayákaǧe k’uŋ hé blaátȟaŋiŋ.
@@ -13,5 +14,3 @@ Wakȟáŋ Tȟáŋka waŋžíla k’uŋ hé niyé, wókȟokipȟe ičhúŋhaŋ waw
 *I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth.
 
 *The is none other God but Thee, the Help in Peril, the Self-Subsisting.
-
--- Bahá'u'lláh

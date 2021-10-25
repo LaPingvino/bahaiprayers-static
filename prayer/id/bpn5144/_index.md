@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn5144 in Bahasa Indonesia'
+author = 'Bahá'u'lláh'
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhan, diluhurkanlah Dia, Tuhan kasih sayang dan kedermawanan! Kemuliaan bagimu, ya Engkau Tuhanku, Tuhan Yang Maha Kuasa. Aku naik saksi atas kemahakuasaan-Mu dan kekuatan-Mu, kedaulatan- Mu dan kasih sayang-Mu, kurnia-Mu dan kekuatan-Mu, ketunggalan Wujud-Mu dan keesaan Hakikat-Mu, kesucian dan keluhuran-Mu di atas dunia wujud dan segala yang ada di dalam-nya.
@@ -18,5 +19,3 @@ Ya Tuhanku, orang miskin ini sesungguhnya telah bergegas ke Kerajaan kekayaan-Mu
 Ya Tuhanku, Amanat-Mu telah dikembalikan kepada- Mu. Layak bagi kurnia-Mu dan rahmat-Mu yang meliputi kerajaan-kerajaan-Mu di bumi dan di langit, agar memberi kepada tamu baru ini pemberian-pemberian- Mu dan anugerah-anugerah-Mu dan buah-buah dari pohon kurnia-Mu! Berkuasalah Engkau untuk berbuat apa yang Engkau kehendaki. Tiada Tuhan kecuali Engkau, Yang Maha Pengasih, Yang Maha Dermawan, Yang Maha Penyayang, Pemberi, Pengampun, Yang Berharga, Yang Maha Tahu.
 
 Aku naik saksi, ya Tuhanku, bahwa Engkau telah memerintahkan kepada manusia untuk menghormati tamu mereka, dan dia yang telah naik kepada-Mu sesungguhnya telah sampai kepada-Mu dan mencapai Kehadiran-Mu. Maka, perlakukanlah dia sesuai dengan karunia dan rahmatMu! Demi kemuliaan-Mu, aku yakin bahwa Engkau tidak akan menahan dari Diri-Mu apa yang telah Engkau perintahkan kepada hamba-hamba- Mu, tak pula Engkau akan menjauhkan dia yang telah berpegang erat kepada tali rahmat-Mu dan telah naik ke Fajar kekayaan-Mu. Tiada Tuhan kecuali Engkau, Yang Esa, Yang Tunggal, Yang Maha Kuasa, Yang Maha Ada, Yang Maha Dermawan.
-
--- Bahá'u'lláh

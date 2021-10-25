@@ -1,5 +1,6 @@
 +++
 title = 'Prayer bpn11815 in '
+author = 'Abdu'l-Bahá'
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Doa Dayung Saan Bonon-eh)
@@ -8,5 +9,3 @@ O Raja ku! Nai odak boton bonon ku suki. Ingan nai odak otin iyoh doont pakai la
 O Raja ku! Ingan kulah leh silokuab sok sulung boton iyoh. Duwient pingungin Ingan dek bogok-bogok noh tudu iyoh, odak iyoh ngilayang odak arak pangirinduk setegal Ingan, nai odak iyoh salah ndi sok malaikat Ingan sungu po’ont eh ponu tunt tanak tih pak-eh, jiwa iyoh bikibow tibotas longit bigatung. Nai odak iyoh jadin nikan lapu dek cemerlang, jawak bilingieng pakai pangijawak bijaksana Ingan daang uunt uluk rakyat Ingan.
 
 Totap, Ingan leh dek Biloga, dek Selalu-Pangipisoh, Tongan dek Tibukak.
-
--- Abdu'l-Bahá
