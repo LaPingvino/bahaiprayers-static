@@ -14,6 +14,7 @@ package main
 import (
 	"encoding/csv"
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -21,7 +22,6 @@ import (
 	"strconv"
 	"sync"
 	"text/template"
-	"fmt"
 )
 
 const APILINK = "https://BahaiPrayers.net/api/prayer/"
@@ -32,7 +32,7 @@ type Author int
 
 var TMPLOUTPUT = template.Must(template.New("markdown").Parse(`+++
 title = '{{.Title}}'
-tags = ['lang-{{.LanguageCode}}', '{{.PrayerCode}}']
+tags = ['lang-{{.LanguageCode}}', '{{.PrayerCodeTag}}']
 +++
 {{.Text}}
 
@@ -47,14 +47,15 @@ func (a Author) String() string {
 }
 
 type Prayer struct {
-	Id           int
-	Title        string
-	LanguageCode string
-	PrayerCode   string
-	Author       Author `json:"AuthorId"`
-	LanguageId   int
-	Text         string
-	Category     string `json:"FirstTagName"`
+	Id            int
+	Title         string
+	LanguageCode  string
+	PrayerCode    string
+	PrayerCodeTag string
+	Author        Author `json:"AuthorId"`
+	LanguageId    int
+	Text          string
+	Category      string `json:"FirstTagName"`
 }
 
 func GetFile(name string) []byte {
@@ -163,7 +164,7 @@ func main() {
 			log.Printf("Prayer %d", prayer.Id)
 			var lname, rtl string
 			prayer.LanguageCode, lname, rtl = Language(v)
-			os.MkdirAll(dirbase + prayer.LanguageCode, os.ModePerm)
+			os.MkdirAll(dirbase+prayer.LanguageCode, os.ModePerm)
 			f, err := os.Create(dirbase + prayer.LanguageCode + "/_index.md")
 			if err != nil {
 				panic(err)
@@ -174,6 +175,10 @@ rtl: "`+rtl+`"
 ---`)
 			f.Close()
 			prayer.PrayerCode = PrayerCode(prayer.Id)
+			prayer.PrayerCodeTag = prayer.PrayerCode
+			if (prayer.PrayerCodeTag + "   ")[0:3] == "bpn" {
+				prayer.PrayerCodeTag = "bpn-unsorted"
+			}
 			prayer.Title = "Prayer " + prayer.PrayerCode + " in " + lname
 			dir := dirbase + prayer.LanguageCode + "/" + prayer.PrayerCode
 			os.Mkdir(dir, os.ModePerm)
