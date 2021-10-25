@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8044 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O min Gud! O min Gud! I sandhed, din tjener har, ydmyg over for overmagten i Din guddommelige majestæt, beskeden ved Din enheds dør, troet på Dig og på Dine vers, bevidnet Dit ord, er blevet optændt af ilden i Din kærlighed, er blevet opslugt i dybet af Din kundskabs hav, er blevet draget af Dine briser, har sat sin lid til Dig, vendt sit ansigt til Dig, har udsendt sine anråbelser til Dig og er blevet forvisset om Din tilgivelse og forladelse. Han har opgivet dette dødelige liv og er fløjet til udødelighedens rige i længsel efter den gunst at møde Dig.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6844 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Siya ay Diyos, nasa kaluwalhatian Siya, ang Panginoon ng mapagmahal na kabutihang-loob at pagpapala!
 

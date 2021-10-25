@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn448 in Deutsch'
 author = "Abdu'l-Bahá"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Gott, mein Gott! Wahrlich, ich rufe Dich an und flehe an Deiner Schwelle, lass alle Deine Gnadengaben auf diese Seelen herabkommen. Mache sie empfänglich für Deine Gunst und Deine Wahrheit.
 O Herr! Vereinige und verbinde die Herzen, bringe alle Seelen in Einklang und erheitere die Gemüter mit den Zeichen Deiner Heiligkeit und Einheit. O Herr! Lass diese Gesichter strahlen im Lichte Deiner Einheit. Stärke Deinen Dienern die Lenden im Dienst an Deinem Königreich!

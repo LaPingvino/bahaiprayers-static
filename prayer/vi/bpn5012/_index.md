@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5012 in Tiếng Việt'
 author = "Abdu'l-Bahá"
-tags = ['lang-vi', 'bpn-unsorted']
+tags = ['lang-vi', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *(Hỡi kẻ đi tìm chân lý! Nếu ngươi ước muốn được Thượng Đế khai mở linh nhãn, ngươi hãy van nài Thượng Đế, nguyện cầu và thông công với Ngài vào lúc nửa đêm, như sau:)
 

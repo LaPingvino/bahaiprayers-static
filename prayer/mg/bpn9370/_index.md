@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9370 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', 'bpn-unsorted']
+tags = ['lang-mg', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dera ho Anao, ry Andriamanitro ô, noho ny nandidianao ny Naw-Rúz ho androm-piravoravoana ho an’ireo izay nitandrina ny fifadian-kanina noho ny fitiavana Anao ary nifady izay rehetra tsy Tianao. Aoka, ry Tompoko ô, ny afon’ny Fitiavanao sy ny hafanana naterakin’ny fifadian-kanina izay nodidianao mba hampiredareda azy ao amin’ny Fototrao ary ahatonga azy hifantoka amin’ny Fiderana Anao sy ny fahatsiarovana Anao.
 Satria nohaingonao izy ireo, ry Tompoko ô, tamin’ny ravakin’ny fifadian-kanina izay nodidianao, haingoy koa izy ireo, amin’ny ravakin’ny Fanekena Anao, avy amin’ny Fahasoavanao sy ny Famindramponao. Koa satria ny asan’ny olona dia miankina amin’ny Fahafinaretanao avokoa, ary miankina amin’ny didinao. Raha heverinao fa ny olona iray izay nampiato ny fifadian-kanina dia toy ny nitandrina izany, izany olona izany dia nisaina ho isan’ireo nitandrina ny fifadian-kanina hatrizay. Ary raha toa ka nandidy Ianao fa izay nitandrina ny fifadian-kanina dia nampitsahatra izany, izany olona izany kosa dia isaina ho isan’ireo nahatonga ny Akanjon’ny Fanehoanao ho voloton’ny vovoka, ary nesorina lavitry ny rano mangatsakatsak’ity Loharanom-piainana ity.

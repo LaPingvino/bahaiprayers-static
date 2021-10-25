@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9595 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Glorie zij U, o mijn God! De eerste tekenen van de lente van Uw genade zijn verschenen en hebben Uw aarde met pril groen bedekt. De wolken van de hemel van Uw milddadigheid hebben hun regen uitgestort over deze stad, binnen wier muren Hij die ernaar verlangt Uw schepselen te redden gevangen gehouden wordt. Daardoor is de grond van deze stad met bloemen bedekt, zijn haar bomen met gebladerte bekleed en haar inwoners verblijd.
 Het hart van Uw geliefden kan zich echter slechts verheugen in de goddelijke lentetijd van Uw tedere barmhartigheid, die het hart nieuw leven schenkt, de ziel vernieuwt en de boom van ‘s mensen bestaan vrucht doet dragen.

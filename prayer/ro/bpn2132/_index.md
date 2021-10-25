@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2132 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Slavă Ţie, o, Dumnezeul meu! Te implor întru numele Tău, Cel Preamilostiv, să-i ocroteşti pe slujitorii şi slujitoarele Tale atunci când furtunile încercărilor vor trece peste ei şi nenumăratele Tale încercări îi vor asalta. Îngăduie-le atunci, o, Dumnezeul meu, să caute refugiu în fortăreaţa iubirii şi revelaţiei Tale, astfel încât nici duşmanii Tăi şi nici răufăcătorii dintre slujitorii Tăi care au încălcat Legământul şi Testamentul Tău şi s-au întors cu dispreţ de la Aurora Esenţei Tale şi Cel care a dezvăluit slava Ta, să nu poată birui înaintea lor.
 

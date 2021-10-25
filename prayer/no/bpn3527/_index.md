@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3527 in Norsk'
 author = "Báb"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Báb"]
 +++
 O Herre! Hen til deg tyr jeg for å finne tilflukt, og henimot alle dine tegn vender jeg mitt hjerte.
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12599 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 He is the All-Glorious.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10613 in Монгол хэл'
 author = "Bahá'u'lláh"
-tags = ['lang-mn', 'bpn-unsorted']
+tags = ['lang-mn', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Энэ мөргөлийг үйлдэхийг хүссэн хэн боловч гараа угааг, угааж байхдаа тэрээр ийнхүү хэлэг:
 

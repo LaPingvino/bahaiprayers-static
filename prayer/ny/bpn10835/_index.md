@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10835 in Chichewa'
 author = "Bahá'u'lláh"
-tags = ['lang-ny', 'bpn-unsorted']
+tags = ['lang-ny', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(Pempheroli liyenera kugwiritsidwa kwa a Bahá’í okha amene ali ndi zaka zoyambila  “Ndi pemphero lokhali lokakamiza la chiBahá’í limene limanenedwa pa gulu; liyenera kunenedwa ndi modzi mwa okhulupilira pamene onse abwerapo atayima…” –Kitáb-I-Aqdas) 
 

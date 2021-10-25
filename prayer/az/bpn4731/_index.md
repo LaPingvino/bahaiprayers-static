@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4731 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Alqış Sənə, Ey əbədiyyət Sultanı, ümmətlərin Xaliqi və hər bir çürümüş sümüyə şəkil Verən! Sənin O Adına and verirəm ki, Onunla bütün insanları Öz əzəmət və cəlal üfüqünə çağırdın və bəndələrini fəzl və lütfünün sarayına hidayət etdin – məni o kəslərlə bir sıraya yaz ki, Səndən başqa hər şeydən özlərini ayırdılar, üzlərini Sənə tutdular və qəzavü-qədərin müsibətləri onların Sənin bəxşişlərinə can atmalarına mane olmadı.
 

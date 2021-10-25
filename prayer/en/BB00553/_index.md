@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00553 in English'
 author = "Báb"
-tags = ['lang-en', 'BB00553']
+tags = ['lang-en', 'BB00553', "Báb"]
 +++
 Lauded be Thy Name, O Lord our God!  Thou art in truth the Knower of things unseen.  Ordain for us such good as Thine all-embracing knowledge can measure.  Thou art the sovereign Lord, the Almighty, the Best-Beloved. 
 All praise be unto Thee, O Lord!  We shall seek Thy grace on the appointed Day and shall put our whole reliance in Thee, Who art our Lord.  Glorified art Thou, O God!  Grant us that which is good and seemly that we may be able to dispense with everything but Thee.  Verily, Thou art the Lord of all worlds. 

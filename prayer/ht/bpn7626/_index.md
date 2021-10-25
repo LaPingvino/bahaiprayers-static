@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7626 in Kreyol Ayisyen'
 author = "Abdu'l-Bahá"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Nenpòt moun k’ap vwayaje nan divès kote pou anseye, se pou li resite priyè sa a sou mòn yo, nan dezè yo, sou tè a ak sou lanmè a.
 O Bondye! O Bondye! Ou wè feblès mwen, jan mwen manke enpòtans, jan mwen mete mwen ba devan kreyati Ou yo; malgre sa, mwen te mete konfyans mwen nan Ou e mwen te leve pou fè avanse ansèyman Ou yo pami sèvitè Ou yo ki fò, epi mwen depann sou pouvwa Ou ak pisans Ou. 

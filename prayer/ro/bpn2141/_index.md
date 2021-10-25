@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2141 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O, Dumnezeul meu, Dumnezeul mărinimiei şi al milostivirii! Tu eşti acel Rege prin al Cărui cuvânt poruncitor întreaga creaţie a fost chemată în fiinţă; şi Tu eşti Acel Atotmărinimos pe care faptele slujitorilor Săi nu L-au împiedicat vreodată să-şi arate bunăvoinţa şi nici n-au zădărnicit revelările mărinimiei Sale.
 

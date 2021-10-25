@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6426 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Tydi yr Hwn wyt Arglwydd yr Arglwyddi!  Tystiolaethaf mai Tydi yw Arglwydd yr holl greadigaeth, ac Addysgwr pob creadur, gweledig ac anweledig.  Rwy’n dyst fod Dy Nerth wedi amgylchu’r holl fydysawd, ac na all lluoedd y ddaear fyth Dy siomi, na rheolaeth y bobloedd na’r cenhedloedd Dy atal rhag gweithredu Dy ewyllys. Cyfaddefaf nad oes i Ti ddymuniad ond ailenedigaeth yr holl fyd, a sefydliad undod ei bobloedd, ac iachawdwriaeth yr oll a drig ynddo.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10089 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', 'bpn-unsorted']
+tags = ['lang-sk', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Zjavené pre bahájov Kanady
 Ó Bože, môj Bože! Hľadíš na tohto slabého, žiadajúceho o nebeskú silu, tohto núdzneho, žiadostiaceho po Tvojich nebeských pokladoch, tohto žízniaceho, túžiaceho po žriedle večného života, tohto sužovaného, dychtiaceho po Tvojom prisľúbenom uzdravení prostredníctvom Tvojho bezhraničného milosrdenstva, ktoré si určil pre Svojich vyvolených služobníkov vo Svojom kráľovstve na výšinách.

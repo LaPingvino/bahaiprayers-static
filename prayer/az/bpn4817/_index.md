@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4817 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Alqış Sənə, Ya Rəbb, mənim Allahım! Hər bir bəsirət sahibi Sənin səltənətini və hökmranlığını etiraf edir, hər bir görən göz Sənin əzəmətinin böyüklüyünü və Sənin qüdrətinin yenilməz qüvvətini anlayır. Sınaq tufanları gücsüzdür ki, Sənə yaxınlıqdan həzz alanların üzlərini Sənin cəlal üfüqünə tutmasına mane olsun; imtahan fırtınaları acizdir ki, Sənə vəfalı olanları Sənin dərgahına yaxınlaşmaqdan uzaq salsın və mane olsun.
 

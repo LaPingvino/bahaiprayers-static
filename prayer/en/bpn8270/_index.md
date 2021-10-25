@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8270 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 He is the Most Holy, the Most Exalted, the Most Great.
 

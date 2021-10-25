@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH03111 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH03111']
+tags = ['lang-en', 'BH03111', "Bahá'u'lláh"]
 +++
 In the Name of God, the Most High!  Lauded and glorified art Thou, Lord, God Omnipotent!  Thou before Whose wisdom the wise falleth short and faileth, before Whose knowledge the learned confesseth his ignorance, before Whose might the strong waxeth weak, before Whose wealth the rich testifieth to his poverty, before Whose light the enlightened is lost in darkness, toward the shrine of Whose knowledge turneth the essence of all understanding and around the sanctuary of Whose presence circle the souls of all mankind.
 How then can I sing and tell of Thine Essence, which the wisdom of the wise and the learning of the learned have failed to comprehend, inasmuch as no man can sing that which he understandeth not, nor recount that unto which he cannot attain, whilst Thou hast been from everlasting the Inaccessible, the Unsearchable.  Powerless though I be to rise to the heavens of Thy glory and soar in the realms of Thy knowledge, I can but recount Thy tokens that tell of Thy glorious handiwork.

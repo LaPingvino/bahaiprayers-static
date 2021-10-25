@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2276 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O, Dumnezeule, Dumnezeul meu!
 Tu îl vezi pe acest slabănog implorând tărie celestă, pe acest sărac tânjind după comorile Tale cereşti, pe acest însetat tânjind după fântâna vieţii veşnice, pe acest suferind nădăjduind la vindecarea făgăduită prin milostivirea Ta fără de margini pe care ai hărăzit-o slujitorilor Tăi aleşi în împărăţia din înalturi.

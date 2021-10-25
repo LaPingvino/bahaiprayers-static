@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11696 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Estudiad la Tabla del Santo Marinero para que conozcáis la verdad, y reparéis en que la Bendita Belleza ha predicho plenamente acontecimientos futuros. ¡Que los dotados de discernimiento estén advertidos! 
 *‘Abdu’l-Bahá

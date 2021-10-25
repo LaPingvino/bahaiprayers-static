@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7585 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', 'bpn-unsorted']
+tags = ['lang-fi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Kitáb-i-Aqdasissa sanotaan: "Me olemme käskenyt teitä kypsyysiän alusta  alkaen rukoilemaan ja paastoamaan. Näin on säätänyt Jumala, teidän Herranne ja esi-isäinne Herra. ... Matkustavaiset, sairastavat, raskaana olevat tai lasta imettävät eivät ole velvolliset paastoamaan. ... Pidättykää ruoasta ja juomasta auringon noususta auringon laskuun ja varokaa, että halu ei riistä teiltä tätä armoa, joka on Kirjassa määrätty."
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4428 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Diyos, aking Diyos! Buong pagbabalik-loob na nagbaling ako sa Iyo at tunay na Ikaw ang Nagpapatawad, ang Mahabagin.
 

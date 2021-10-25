@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2252 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O, Tu, bunule Dumnezeu! Tu ai făcut întreaga omenire din aceeaşi plămadă. Tu ai poruncit ca toţi să aparţină aceleiaşi familii. În Sfânta Ta prezenţă, toţi sunt slujitorii Tăi şi întreaga omenire se adăposteşte sub Tabernacolul Tău. Toţi s-au adunat în jurul mesei Tale îmbelşugate şi toţi sunt luminaţi de lumina Providenţei Tale.
 

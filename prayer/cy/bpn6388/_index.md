@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6388 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O fy Arglwydd, rwyf wedi ymddiried fy ysbryd a'm holl fodolaeth i ddeheulaw Dy nerth a Dy amddiffyn, a rhoddaf fy mhen ar fy ngobennydd trwy dy rym,a'i godi yn ôl Dy ewyllys a Dy fodd daionus Di. Tydi, yn wir,yw'r Amddiffynnwr, y Ceidwad,yr Hollalluog, y Mwyaf Grymus.
 

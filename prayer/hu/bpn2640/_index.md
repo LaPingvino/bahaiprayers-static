@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2640 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *[Ezt az imát `Abdu’l-Bahá Sírszentélyében mondjuk, de lehet használni csendes imában otthon is.]
 

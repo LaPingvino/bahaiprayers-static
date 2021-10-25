@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7594 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', 'bpn-unsorted']
+tags = ['lang-fi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Hän on Parantaja, Tyydyttäjä, Auttaja, Kaiken anteeksi antava, Kaikkein armeliain.
 Vetoan Sinuun, oi Ylevöitynyt, oi Uskollinen, oi Loistelias! Sinä Tyydyttävä, Sinä Parantava, Sinä Oleva, oi Sinä Olevainen!

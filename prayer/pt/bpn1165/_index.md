@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1165 in Português (BR)'
 author = "Abdu'l-Bahá"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ó meu Deus! Ó meu Deus! Verdadeiramente, invoco-Te, e ante o Teu limiar, imploro pedindo que todas as Tuas graças desçam sobre estas almas. Elege-as para o Teu favor e a Tua verdade.
 Ó Senhor! Une e enlaça firmemente os corações; harmoniza todas as almas e extasia os espíritos com os sinais da Tua santidade e da Tua unicidade. Ó Senhor! Torna estas faces radiantes com a luz da Tua unicidade. Fortalece os Teus servos em dedicação ao Teu reino.

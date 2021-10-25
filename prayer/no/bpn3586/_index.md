@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3586 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Denne tavlen leses ved Bahá'u'lláhs og Bábs gravmæler. Den brukes også ofte på deres årlige minnedager.
  

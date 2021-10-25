@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4424 in Filipino'
 author = "Báb"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Báb"]
 +++
 Luwalhati sa Iyo, O Diyos! Paano ako makababanggit ng ukol sa Iyo samantalang Ikaw ay di-maaabot ng papuri ng buong sangkatauhan. Dakilain nawa ang Iyong Pangalan, O Diyos, Ikaw ang Hari, ang Walang Hanggang Katotohanan; nalalaman Mo kung ano ang nasa mga kalangitan at sa lupa, at sa Iyo lahat ay babalik. Ipinadala Mo ang Iyong banal na itinakdang Rebelasyon sang-ayon sa malinaw na panukat. Purihin Ka, O Panginoon! Sa Iyong kautusan pinagtatagumpay Mo ang sinumang nais Mo, sa pamamagitan ng mga hukbo ng langit at lupa at anumang naroroon sa pagitan nila. Ikaw ang Makapangyarihan, ang Walang-hanggang Katotohanan, ang Panginoon ng Dimalupig na Kalakasan.
 

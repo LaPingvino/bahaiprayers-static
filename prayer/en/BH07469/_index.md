@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH07469 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH07469']
+tags = ['lang-en', 'BH07469', "Bahá'u'lláh"]
 +++
 He is the Mighty, the Pardoner, the Compassionate!
 O God, my God!  Thou beholdest Thy servants in the abyss of perdition and error; where is Thy light of divine guidance, O Thou the Desire of the world?  Thou knowest their helplessness and their feebleness; where is Thy power, O Thou in Whose grasp lie the powers of heaven and earth?

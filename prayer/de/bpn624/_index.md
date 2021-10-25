@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn624 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Gelobt sei Dein Name, o mein Gott! Hilf Du mit Deiner stärkenden Gnade Deinen Dienern und Dienerinnen, Deine Tugenden zu künden und standhaft zu sein in ihrer Liebe zu Dir. Wieviele Blätter haben die Stürme der Anfechtung zu Boden geweht, und wieviele sind es doch, die fest am Baume Deiner Sache haften, unerschütterlich in all den Prüfungen, die über sie kamen, o Du unser Herr, der Allerbarmer!
 Ich sage Dir Dank, dass Du mich solche Deiner Diener kennen ließest, die kraft Deiner Macht und höchsten Herrschaft die Götzen ihrer verderbten Lüste zertrümmert haben, die aller Besitz Deiner Geschöpfe nie davon abhielt, sich Deiner Gnade zuzuwenden. So ungestüm haben sie die Schleier zerrissen, dass in den Städten der Selbstsucht die Bewohner weinen und das Volk des Neids und der Bosheit in Furcht erschauert, jenes Volk, das sich Haupt und Leib mit dem Schmuck der Gelehrsamkeit behängt und doch in seinem Dünkel Dich verwirft, von Deiner Schönheit sich abkehrend.

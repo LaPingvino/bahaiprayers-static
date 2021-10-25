@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10794 in Srpski српски'
 author = "Bahá'u'lláh"
-tags = ['lang-sr', 'bpn-unsorted']
+tags = ['lang-sr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(Odlomci)
 

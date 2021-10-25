@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2444 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', 'bpn-unsorted']
+tags = ['lang-lv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Šo ‘Abdu’l-Bahá doto lūgsnu lasa Viņa Svētnīcā. To izmanto arī individuālās lūgšanās.
 

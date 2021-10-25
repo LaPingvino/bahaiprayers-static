@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1358 in فارسی'
 author = "Bahá'u'lláh"
-tags = ['lang-fa', 'bpn-unsorted']
+tags = ['lang-fa', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *بگو ای آقای من و مولای من و اِله من و پَديد آورندۀ من)
 

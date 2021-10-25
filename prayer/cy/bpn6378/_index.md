@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6378 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O fy Nuw a’m Meistr!  Dy was ydwyf a mab Dy was.  Codais o’m gorweddfan y bore hwn pan fo Seren-Ddydd Dy uniondeb wedi dsigleirio ymaith oddi wrth Ffynnon-Ddydd Dy ewyllys, ac wedi tywallt ei lewyrch dros yr holl fyd, yn ôl yr hyn a ordeiniwyd yn Llyfrau Dy Orchymyn.
 

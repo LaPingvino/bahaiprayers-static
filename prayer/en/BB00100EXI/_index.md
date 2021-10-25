@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00100EXI in English'
 author = "Báb"
-tags = ['lang-en', 'BB00100EXI']
+tags = ['lang-en', 'BB00100EXI', "Báb"]
 +++
 Glory be to Thee, O God! Thou art the God Who hath existed before all things, Who will exist after all things and will last beyond all things. Thou art the God Who knoweth all things, and is supreme over all things. Thou art the God Who dealeth mercifully with all things, Who judgeth between all things and Whose vision embraceth all things. Thou art God my Lord, Thou art aware of my position, Thou dost witness my inner and outer being.
 

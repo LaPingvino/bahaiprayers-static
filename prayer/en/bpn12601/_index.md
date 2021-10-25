@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12601 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 He is the All-Glorious, the Most Effulgent.
 

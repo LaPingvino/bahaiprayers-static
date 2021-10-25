@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7821 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Gloria sia a Te, o Re dell’eternità, Artefice delle nazioni e Vivificatore di ogni osso in dissoluzione! Ti prego, per il Tuo Nome per il quale chiamasti tutta l’umanità all’orizzonte della Tua maestà e della Tua gloria e guidasti i Tuoi servi alla corte della Tua grazia e dei Tuoi favori, di annoverarmi fra coloro che si sono liberati da tutto tranne Te, che si sono volti verso di Te e ai quali le sventure, da Te decretate, non hanno impedito di dirigersi verso i Tuoi doni. 
 Mi sono aggrappato, o mio Signore, al sostegno della Tua liberalità e mi sono tenuto tenacemente all’orlo del manto del Tuo favore. Fa’, adunque, scendere su di me, dalle nubi della Tua generosità, ciò che mi purificherà dal ricordo di tutto tranne Te e rendimi capace di volgermi a Colui Che è l’Oggetto dell’adorazione di tutta l’umanità, contro Cui si sono schierati i fomentatori di sedizione, che hanno violato il Tuo patto e mancato di fede in Te e nei Tuoi segni. 

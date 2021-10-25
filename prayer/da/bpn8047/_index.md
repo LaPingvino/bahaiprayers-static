@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8047 in Dansk'
 author = "Báb"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Báb"]
 +++
 Æret være Du, o Herre min Gud! Jeg beder Dig tilgive mig og dem, der støtter Din tro. I sandhed, Du er Den Enerådende Herre, Tilgiveren, Den Mest Gavmilde. O min Gud! Lad dem af Dine tjenere, der mangler kundskab, få adgang til Din sag, Thi har de én gang hørt om Dig, vil de vidne om sandheden om dommens dag og ikke bestride åbenbarelserne af Din gavmildhed. Nedsend tegnene på Din nåde til dem, hvor de end befinder sig, og skænk dem en rigelig andel af det, som Du har bestemt for de fromme blandt Dine tjenere. Du er i sandhed Den Øverste Hersker, Den Algavmilde, Den Mest Godgørende.
 

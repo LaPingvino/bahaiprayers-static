@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4273 in American Indian'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-US', 'bpn-unsorted']
+tags = ['lang-nai-US', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O mita Wakan Tanka! O mita Wakan tanka! Nita woyaka wicacante ki wica lucangleska nahan wokonze tanka nitawa ki wicayecipazo. Woahope Nitawa ki waanaguptanyan ikuseya iyapi nahan woope Nitawa ki ounyan yankapikte. O Waken Tanka, waeconpi kin han owicayakiyinkte, na wa-s aqwicayaye ca ilagnyoupikte. O Wakan Tanka!
 Awicalustanpiktesni, tka, Nita wooslolye oiyoyanpa ogna siowepi cankuwicayayinkte, naha Nita waunsila ogna cantepi ki wicaliokipi. Wawokiye naha Hancanyapi he Niye.

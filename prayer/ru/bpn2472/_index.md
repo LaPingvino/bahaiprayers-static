@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2472 in Русский'
 author = "Abdu'l-Bahá"
-tags = ['lang-ru', 'bpn-unsorted']
+tags = ['lang-ru', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *(Молитва открыта для бахаи северо-восточных штатов)
 *Пусть распространители Божиего благоухания возносят сию молитву каждое утро:

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6553 in 한국어'
 author = "Báb"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Báb"]
 +++
 어려움을 없애주시는 분에 하느님 밖에
 

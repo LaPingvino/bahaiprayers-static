@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7766 in Kreyol Ayisyen'
 author = "Báb"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Báb"]
 +++
 Glwa pou Ou, O Senyè, Ou menm Ki te fè tout bagay ki te kreye parèt avèk pouvwa volonte Ou.
 O Senyè! Asiste sila yo ki te renonse ak tout bagay esepte Ou menm, e ba yo yon gran viktwa . Voye desann sou yo, O Senyè, asanble zanj ki nan syèl la e ki sou tè a, e ki nan tout sa ki nan mitan yo, pou ede sèvitè Ou yo, pou soutni yo ak ranfòse yo, pou pèmèt yo jwenn siksè, pou ba yo sipò, pou plen yo ak glwa, pou ba yo onè ak lajwa, pou anrichi yo e pou fè yo viktorye ak yon viktwa mèveye. 

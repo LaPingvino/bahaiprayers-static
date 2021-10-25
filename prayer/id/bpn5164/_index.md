@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5164 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Ayat Perjanjian Perkawinan, yaitu ayat yang harus diucapkan oleh mempelai laki-laki dan perempuan dihadapan dua saksi sebagaimana tertulis dalam Kitab-i-Aqdas:
 

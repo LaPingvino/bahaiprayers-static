@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7698 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Nan Non Bondye, Pi Wo a! Se Ou menm Ki louwe ak glorifye, Senyè a, Bondye Toupisan an! Devan sajès Ou, sajès moun ki saj la rate bi a e li echwe, devan konesans Ou, moun ki edike a oblije admèt inyorans li, devan pisans Ou, moun ki fò a parèt fèb, devan richès Ou, moun ki rich la bay temwayaj sou povrete li, devan limyè Ou, moun ki eklere a pèdi nan fènwa. Vrè nati tout konprann vire li nan direksyon tanp konesans Ou epi nanm tout limanite antoure tabènak prezans Ou.
 O Bondye, kòman pou mwen ta kapab chante ak pale sou Lespri Ou, malgre sajès moun ki te gen anpil lespri yo ansanm ak konesans moun ki te edike yo pa t’ janm kapab konprann Ou, paske, an reyalite, pèsonn moun pa kapab chante sa li pa konprann, ni li pa kapab rakonte sa lespri li pa kapab wè, poutan Ou te rete depi tout etènite Sila a Ki nan otè yo pèsonn pa kapab rive jwenn nan, Li menm pèsonn moun pa kapab konprann. Menm si mwen manke pouvwa pou monte nan syèl glwa Ou ak vole nan wayòm konesans Ou yo, sa ki rete posib pou mwen se pale sou siyn Ou te revele yo, ki montre travay gloriye Ou a. 

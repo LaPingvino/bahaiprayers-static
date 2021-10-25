@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7375 in Polski'
 author = "Báb"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Báb"]
 +++
 Jestem świadom, o Panie, że przewinienia moje okryły twarz moją wstydem w Twojej obecności i obciążyły moje barki przed Tobą, i stanęły na przeszkodzie pomiędzy mną a Twoim cudownym obliczem, otoczyły mnie zewsząd i ze wszystkich stron odcięły mi dostęp do objawień Twojej niebiańskiej mocy. 
     

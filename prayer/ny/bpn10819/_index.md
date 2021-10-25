@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10819 in Chichewa'
 author = "Abdu'l-Bahá"
-tags = ['lang-ny', 'bpn-unsorted']
+tags = ['lang-ny', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ambuye! Ife ndife womvetsa chisoni, tipatseni chifundo Chanu; ndife wosauka, tipatseni gawo kuchokera ku nyanja ya chuma Chanu; ndife wosowa, tikwaniritseni; wosayenera, tipatseni ulemelero Wanu.  Mbalame zamlengalenga ndi nyama za mu thengo zimalandira zakudya zawo tsiku ndi tsiku kuchokera kwa Inu ndipo za moyo zonse zimalandira chisamaliro ndi chikondi Chanu. 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2618 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ó, Isten, én Istenem! Téged szólít szolgálóleányod, Tebenned bízik, Feléd fordítja arcát és Hozzád esedezik: záporoztasd reá mennyei áldásaidat, fedd fel előtte szellemi misztériumaidat és sugározd le reá Istenséged fényét.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10281 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Gud, min Gud! Du är mitt hopp och min älskade, mitt åsyftade mål och min längtan! Med stor ödmjukhet och fullkomlig hängivenhet bönfaller jag Dig att göra mig till Din kärleks minaret i Ditt rike, Din kunskaps ljus bland Dina skapelser och Din gåvas baner i Ditt konungadöme.
 Räkna mig till de av Dina tillbedjare, som har avskilt sig från allt utom Dig, som renat sig från denna världs förgängliga ting och som vänt sig bort från uppmaningarna från de fåfänga inbillningarnas förespråkare.

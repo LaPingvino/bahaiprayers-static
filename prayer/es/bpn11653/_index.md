@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11653 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ¡Él es el Dios que escucha y que contesta las oraciones! 
 ¡Por Tu gloria, oh Bienamado, Tú que das luz al mundo! Las llamas de la separación me han consumido y mi rebeldía me ha fundido el corazón dentro de mí. Te pido, por Tu Más Grande Nombre, oh Deseo del mundo y Bienamado de la humanidad, que concedas que la brisa de Tu inspiración sostenga mi alma, que Tu voz maravillosa llegue a mi oído, que mis ojos contemplen Tus señales y Tu luz, reveladas en las manifestaciones de Tus nombres y atributos, oh Tú en Cuya mano están todas las cosas.

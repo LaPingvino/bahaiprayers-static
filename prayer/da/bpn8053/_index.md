@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8053 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Forherliget være Du, o min Gud! Jeg skænker Dig tak, fordi Du har givet mig kendskab til Ham, der er daggryet for Din barmhjertighed og dæmringsstedet for Din nåde og gemmestedet for Din sag. Jeg bønfalder Dig ved Dit navn, hvorved ansigterne hos dem, der er Dig nær, blev hvide og hjerterne hos dem, der er Dig hengivne, har rettet deres vingeflugt mod Dig, om at give at jeg til evig tid og under alle forhold kan holde fast ved Dit reb og være løsrevet fra al tilknytning til nogen anden end Dig og lade mine øjne være rettet mod Din åbenbarings horisont og udføre, hvad Du har foreskrevet mig i Dine breve.
 

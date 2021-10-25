@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3911 in Hrvatski'
 author = "Abdu'l-Bahá"
-tags = ['lang-hr', 'bpn-unsorted']
+tags = ['lang-hr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O, Bože, Bože moj! Ova Te službenica Tvoja zaziva, vjeruje u Tebe, okreće lice svoje k Tebi, preklinje Te da izliješ na nju Svoju nebesku dobrotu i otkriješ joj duhovne tajne Svoje i obasjaš je svijetlom Svog božanskog lika.
 

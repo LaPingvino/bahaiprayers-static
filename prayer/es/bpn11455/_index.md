@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11455 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Se recita una vez cada veinticuatro horas.
 

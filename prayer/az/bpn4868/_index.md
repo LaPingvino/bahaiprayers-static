@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4868 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ey mənim Allahım, Ey mənim Allahım! Sən bu uşaqları görürsən – onlar həyat ağacının budaqları, nicat bağçasının quşları, Sənin mərhəmət dənizinin gövhərləri və hidayət bağının qızılgülləridir.
 

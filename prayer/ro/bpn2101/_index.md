@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2101 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 A fi recitată o dată în intervalul de douăzeci şi patru de ore, la amiază
 Stau mărturie, o, Dumnezeul meu, că m‐ai creat ca să Te cunosc şi să te slăvesc.  Adeveresc, în clipa aceasta, neputinţa mea şi puterea Ta, sărăcia mea şi bogăţia Ta. Nu există niciun alt Dumnezeu înafară de Tine, Ajutorul în Primejdie, Cel De Sine  Stătător.

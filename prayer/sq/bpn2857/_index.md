@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2857 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Kjo Tabelë lexohet në Mauzoletë e Bahá'u'lláh-ut dhe të Báb-it. Ajo, gjithashtu, përdoret shpesh në përkujtimin e përvjetorëve të Tyre.
 

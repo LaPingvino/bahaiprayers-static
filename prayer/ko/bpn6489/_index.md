@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6489 in 한국어'
 author = "Abdu'l-Bahá"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##제 남편의 눈을 뜨게
 

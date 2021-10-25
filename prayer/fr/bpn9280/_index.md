@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9280 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ô Seigneur, mon Dieu et mon havre dans la détresse ! Mon bouclier et mon abri dans les tribulations ! Mon asile et mon refuge à l’heure du besoin, mon compagnon dans l’isolement ! 
 Ma consolation dans mon angoisse, et un tendre ami dans ma solitude ! Tu apaises mes tourments et tu pardonnes mes péchés.

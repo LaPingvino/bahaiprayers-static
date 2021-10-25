@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6612 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 주님의 빛을 제 눈으로 보게, 그들을 지켜주소서. 주님의 성자들을
 

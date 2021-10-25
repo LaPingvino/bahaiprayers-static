@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2668 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ő az Isten!
 Ó, páratlan Úr! Mindenható bölcsességedben házasságot parancsoltál a népeknek, hogy az emberi nemzedékek egymást követhessék ebben az esetleges világban, és hogy mindaddig, míg a világ világ, egyedüliséged Küszöbén szolgálattal és imádattal, tisztelgéssel és dicsőítéssel foglalatoskodjanak. „Egyedül azért teremtettem szellemeket és embereket, hogy Engem imádjanak.”[1] Ezért hát, add össze irgalmad mennyországában szereteted fészkének e két madarát, és tedd őket szüntelen kegyelmed vonzásának eszközeivé, hogy a szerelem e két tengerének egyesüléséből a gyengédség hulláma csapjon fel, és a tiszta és jó dolgok gyöngyeit vesse az élet partjára. „Ő hagyta a két tengert folyni, hogy találkozzanak egymással: közöttük akadály van, melyet nem hágnak át. Uratok mely jótéteményét tagadjátok hát? Mindkettőből nagyobb és kisebb gyöngyöket hoz Ő fel.”[2]

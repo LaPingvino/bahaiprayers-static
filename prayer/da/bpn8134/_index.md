@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8134 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Han er den bønhørende Gud, den der besvarer bønner.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7516 in Suomi'
 author = "Báb"
-tags = ['lang-fi', 'bpn-unsorted']
+tags = ['lang-fi', 'bpn-unsorted', "Báb"]
 +++
 Ylistetty olkoon nimesi, oi Herra meidän Jumalamme! Sinä olet toden totta näkymättömien  asioiden Tietäjä. Määrää meille sellaista hyvää, kuin Sinun kaiken kattava tietosi voi mitata. Sinä olet ylivaltainen Herra, Kaikkivaltias, Kaikkein rakastetuin.
 Kaikki ylistys olkoon Sinulle, oi Herra! Me etsimme armoasi säädettynä päivänä ja asetamme koko luottamuksemme Sinuun, joka olet meidän Herramme. Ylistetty olet Sinä, oi Jumala! Suo meille sitä, mikä on hyvää ja soveliasta, jotta voisimme luopua kaikesta muusta paitsi Sinusta. Totisesti Sinä olet kaikkien maailmojen Herra.

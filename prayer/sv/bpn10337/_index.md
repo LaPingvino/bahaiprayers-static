@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10337 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Du förlåtande Gud! Dessa tjänare vänder sig till Ditt rike och söker Din nåd och frikostighet. O Gud! Gör deras hjärtan goda och rena, så att de kan bli värdiga Din kärlek. Rena och helga själarna, så att ljuset från Verklighetens sol må lysa över dem. Rena och helga ögonen, så att de kan uppfatta Ditt ljus. Rena och helga öronen, så att de kan höra kallelsen från Ditt rike.
 O Herre! I sanning, vi är svaga men Du är stark. I sanning, vi är fattiga men Du är rik. Vi är sökare och Du är den som sökts. O Herre! Ha medlidande med oss och förlåt oss. Skänk oss förmåga och beredvillighet, så att vi kan bli värdiga Din ynnest och dras till Ditt rike, att  vi måtte dricka djupt av livets vatten, må bli upptända av Din kärleks eld och återupplivas genom den heliga andens andedräkt i detta strålande århundrade.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4145 in American Indian'
 author = "Báb"
-tags = ['lang-nai-US', 'bpn-unsorted']
+tags = ['lang-nai-US', 'bpn-unsorted', "Báb"]
 +++
 #For the Departed
 Kiyawun wámi wucshák Manto, qá yaqi nákum mus kuputukimun.

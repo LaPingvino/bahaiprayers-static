@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4634 in հայերեն'
 author = "Abdu'l-Bahá"
-tags = ['lang-hy', 'bpn-unsorted']
+tags = ['lang-hy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 #(Աղոթքը հայտնված է ԱՄՆ – ի ու Կանադայի Բահայիների համար)
 

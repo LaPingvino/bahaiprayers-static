@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2694 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *[Ima Bahá’u’lláh kilencedik Örömhíréből]:
 *A bűnök és vétkek megvallása emberek előtt nem megengedhető, mivel az soha nem vezetett és soha nem is fog az isteni megbocsátáshoz vezetni. … A bűnösnek egyedül Isten előtt kell irgalomért könyörögnie az irgalom Óceánjától, megbocsátásért esedezni a nagylelkűség Egétől emígyen:

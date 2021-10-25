@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7864 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Glorificato sei Tu, o Signore mio Dio! T’imploro, per i Tuoi Eletti e i Latori del Tuo Pegno e per Colui Che designasti quale Suggello dei Tuoi Profeti e dei Tuoi Messaggeri, di fare che il Tuo ricordo sia il mio compagno, il Tuo amore il mio scopo, il Tuo volto la mia mèta, il Tuo nome la mia lampada, la Tua volontà il mio desiderio e il Tuo compiacimento la mia delizia.
 Sono un peccatore, o mio Signore e Tu sei Colui Che Sempre Perdona: appena Ti riconobbi, mi affrettai a raggiungere l’eccelsa corte della Tua amorosa benevolenza. Perdona, o mio Signore, i miei peccati che mi hanno impedito di percorrere le vie del Tuo compiacimento e di giungere ai lidi dell’oceano della Tua unicità. 

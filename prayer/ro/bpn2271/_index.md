@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2271 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O, Tu Stăpâne bun! Lauda fie cu Tine căci mi-ai arătat magistrala călăuzirii, ai deschis uşile împărăţiei şi Te-ai arătat prin Soarele Realităţii. Celor orbi Tu le-ai dat vedere; celor surzi Tu le-ai acordat auzul; Tu i-ai înviat pe cei morţi; Tu i-ai îmbogăţit pe cei săraci; Tu le-ai arătat calea celor ce s-au rătăcit; Tu i-ai condus pe cei cu buzele însetate către fântâna călăuzirii; Tu i-ai îngăduit peştelui însetat să atingă oceanul realităţii; Tu ai invitat păsările rătăcitoare către grădina de trandafiri a harului.
 

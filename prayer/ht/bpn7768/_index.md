@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7768 in Kreyol Ayisyen'
 author = "Abdu'l-Bahá"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##Priyè pou Ayyám-i-Há
 

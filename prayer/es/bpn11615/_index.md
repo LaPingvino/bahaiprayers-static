@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11615 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ¡Oh Tú, Dios bondadoso!
 Desde Estados Unidos, ese distante país, viajamos a la Tierra Santa y nos dirigimos a este santo Lugar. Llegamos a los dos benditos y sagrados Umbrales, y obtuvimos de ellos gracia ilimitada. Hemos venido ahora al Monte Carmelo, que es Tu sagrado jardín. La mayoría de los Profetas se dirigieron a Ti en oración en esta santa montaña, y estuvieron en comunión contigo, con la mayor humildad, a la hora de la medianoche. 

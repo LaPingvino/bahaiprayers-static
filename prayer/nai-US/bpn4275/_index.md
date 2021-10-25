@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4275 in American Indian'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-US', 'bpn-unsorted']
+tags = ['lang-nai-US', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Waayantanin bluha
 Wakantanka mitawa

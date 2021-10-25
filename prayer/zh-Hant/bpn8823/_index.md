@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8823 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 祂是大能者，赦免者，慈悲者！
 上帝啊，我的上帝！祢看到祢的僕役們正陷入那沉淪與謬誤的深淵，祢的神聖導引之光在何處？世人的渴望啊！祢知曉他們的無助與脆弱，祢的威力在何處？天地諸權的掌握者啊！

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12608 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #SAMBIANG OBLIGATORI Tl PANDAK
 ##DISEBUT SEKALI DALAM KANDANG DUA PULUH EMPAT JAM, MAYA TENGAH HARI.

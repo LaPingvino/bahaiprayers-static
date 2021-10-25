@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4073 in Кыргыз'
 author = "Bahá'u'lláh"
-tags = ['lang-ky', 'bpn-unsorted']
+tags = ['lang-ky', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 О, Теңир, айланайын Кудайым, ылайым, Сенин ысмың даңктангандай болсун!
 

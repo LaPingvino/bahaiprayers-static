@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6849 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Pinngitsoorani Qinnutissaq Naatsoq
 *Short Obligatory Prayer

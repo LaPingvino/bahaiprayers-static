@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5549 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *「会議室に入る度に、神の愛に高鳴る心と神を思うこと以外のすべてのもから清められた舌をもってこの祈りを唱えよ。されば、御力に満ち給う神が最高の勝利を達成できあなたがたを恩寵深く助け給うであろう」
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8082 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O min Gud og min Mester! Jeg er Din tjener og søn af Din tjener. Jeg har rejst mig fra mit leje i denne morgenstund, hvor Din enheds dagstjerne har skinnet frem fra Din viljes daggry og har kastet sin stråleglans på hele verden i overensstemmelse med, hvad der er forudbestemt i Din forordnings bøger.
 

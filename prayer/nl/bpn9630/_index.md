@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9630 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Gij, Wien te gedenken de zielsverrukking is van allen die naar U hunkeren, Wiens naam de jubelende vreugde is van allen die zich geheel aan Uw wil wijden, Wiens eer en lof wordt gekoesterd door hen die Uw hof nabij zijn, Wiens gelaat het vurige verlangen is van allen die Uw waarheid erkennen, Wiens beproeving de genezing is van hen die Uw Zaak omhelzen, Wiens bezoeking het hoogste verlangen is van hen die bevrijd zijn van alle gehechtheid aan eenieder buiten U!
 Verheerlijkt, onmetelijk verheerlijkt zijt Gij, in Wiens hand de heerschappij ligt over al hetgeen in de hemelen en op aarde is. Gij die door een enkel woord uit Uw mond alle dingen hebt doen vergaan en uiteenvallen en die, door weer een ander woord, al wat gescheiden was hebt samengevoegd en herenigd! Verheerlijkt zij Uw Naam, o Gij die macht hebt over allen die in de hemelen en allen die op aarde zijn, Wiens heerschappij alles omvat wat in de hemel van Uw Openbaring en in het koninkrijk van Uw schepping bestaat. Niemand kan U evenaren in de door U geschapen rijken; niemand kan zich in het heelal dat Gij hebt gevormd met U meten. Geen enkel verstand heeft U begrepen en geen enkel menselijk streven heeft U bereikt. Ik zweer bij Uw macht! Zou iemand al die tijd dat Uw eigen Wezen voortduurt op welke wieken ook door de onmetelijkheid van Uw kennis zweven, dan nog was hij niet bij machte de beperkingen die de vergankelijke wereld hem stelt te overstijgen. Hoe kan dan zulk een mens zijn vlucht pogen te nemen naar de sferen van Uw verhevenste tegenwoordigheid?

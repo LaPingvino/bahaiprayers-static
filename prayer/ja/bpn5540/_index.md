@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5540 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 神の芳香ほうこうを広める者は、毎朝この祈りを唱えよ。
  

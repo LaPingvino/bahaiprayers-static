@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3322 in български'
 author = "Bahá'u'lláh"
-tags = ['lang-bg', 'bpn-unsorted']
+tags = ['lang-bg', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Средна задължителна молитва
 *Казва се всеки ден, сутрин, по обед и вечер

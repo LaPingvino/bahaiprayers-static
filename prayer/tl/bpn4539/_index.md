@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4539 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ang mga ito, O aking Diyos, ang mga araw na ang Iyong mga tagapaglingkod ay inatasan Mong magsagawa ng pag-aayuno. Sa pamamagitan niyon pinalamutihan Mo ang paunang-bahagi ng Aklat ng Iyong mga Batas na inihayag sa Iyong mga nilalang, at ginayakan ang mga Taguan ng Iyong kautusan sa paningin ng lahat ng nasa Iyong langit at lahat ng nasa Iyong lupa. Pinagkalooban Mo ang bawat oras ng mga araw na ito ng isang natatanging kabutihan, na hindi mauunawaan ng sinuman liban sa Iyo, na ang Kaniyang kaalaman ay sumasaklaw sa lahat ng nilalang na bagay. Naglaan Ka rin sa bawat kaluluwa ng isang bahagi ng kabutihang ito alinsunod sa Tableta ng Iyong kautusan at sa mga Kasulatan ng Iyong di mababaling Hatol. Bawat dahon ng mga Aklat at Kasulatang ito ay inilaan Mo rin sa bawat isa sa mga mamamayan at mga kaanak ng lupa.
 

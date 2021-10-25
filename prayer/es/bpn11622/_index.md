@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11622 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *¡Oh buscador de la Verdad! Si deseas que Dios abra tus ojos, debes suplicarle, orar y comulgar con Él a medianoche diciendo:
 

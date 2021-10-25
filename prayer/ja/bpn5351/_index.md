@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5351 in 日本語'
 author = "Bahá'u'lláh"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #長い日々の必須の祈り
 ##(24時間に一度、唱える)

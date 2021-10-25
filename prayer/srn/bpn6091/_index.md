@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6091 in Sranan Tongo'
 author = "Bahá'u'lláh"
-tags = ['lang-srn', 'bpn-unsorted']
+tags = ['lang-srn', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##NDETI 
 Unfa mi sa winsi fu duumi, ke Gadu, mi Gadu, 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9653 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Glorie zij U, o Gij Heer van de wereld en het Verlangen der natiën, o Gij die openbaar geworden zijt in de Grootste Naam, waarbij de parelen van wijsheid en woorden uit de schelpen van de grote zee Uwer kennis te voorschijn zijn gekomen en de hemelen van goddelijke Openbaring werden getooid met het licht van de opkomst van de zon Uws aanschijns.
 Ik smeek U – bij dat Woord waardoor Uw bewijs onder Uw schepselen werd vervolmaakt en Uw getuigenis onder Uw dienaren werd voltooid – om Uw volk te sterken in hetgeen waardoor het aanzicht van de Zaak in Uw rijk zal stralen, en de vaandels van Uw macht onder Uw dienaren zullen worden geplant en de banieren van Uw leiding in al Uw rijken zullen worden geheven.

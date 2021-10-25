@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH07775 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH07775']
+tags = ['lang-en', 'BH07775', "Bahá'u'lláh"]
 +++
 O God, my God!  I have turned in repentance unto Thee, and verily Thou art the Pardoner, the Compassionate.
 O God, my God!  I have returned to Thee, and verily Thou art the the Ever-Forgiving, the Gracious.

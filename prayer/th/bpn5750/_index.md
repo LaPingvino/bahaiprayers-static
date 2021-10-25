@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5750 in ภาษาไทย'
 author = "Bahá'u'lláh"
-tags = ['lang-th', 'bpn-unsorted']
+tags = ['lang-th', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##บทอธิษฐานวันอัยยัมมีฮา
 

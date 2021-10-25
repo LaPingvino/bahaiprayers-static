@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2853 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Agjërimi bie gjatë muajit 'Alá' (Lartësi) nga 2 marsi deri në 20 mars inkluzivisht. Gjatë këtyre ditëve asnjë ushqim ose pije nuk duhet përdorur që nga agimi deri në perëndim të diellit. Kjo është kohë lutjesh dhe përtëritjeje shpirtërore. Ata që janë nën pesëmbëdhjetë vjeç, udhëtarët, të sëmurët dhe të drobiturit, gratë shtatzëna dhe nënat me fëmijë gjiri përjashtohen nga Agjërimi.
 

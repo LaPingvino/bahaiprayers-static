@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6858 in Canadian Indigenous'
 author = "Abdu'l-Bahá"
-tags = ['lang-nai-CA', 'bpn-unsorted']
+tags = ['lang-nai-CA', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *O God Guide Me (in the Shuswap Language)
 

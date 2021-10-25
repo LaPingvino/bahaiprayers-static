@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4375 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 **FARA Á MEÐ ÞESSA BÆN EINU SINNI
 Á SÓLARHRING

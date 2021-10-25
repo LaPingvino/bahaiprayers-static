@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12693 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ke Anakmit
  	Nuan endang Iya, O Petara aku, ti bempu Nama ke ulih nyuman sereta mulaika pengerai iya ti sakit, lalu iya ti aus diberi ngirup, lalu iya ti merampau nyadi lantang; lalu iya ti limpang diiring, lalu iya ti dikemaruh nyadi tinggi, lalu iya ti seranta diberi pengaya, lalu iya ti lansang bulih pemandai, lalu iya ti lindung nyadi terang, lalu iya ti tusah bulih pengaga, lalu iya ti chelap diberi pengangat, lalu iya ti diindik diangkat. Ngena nama Nuan, O Petara aku, semua utai tempa nyadi regas, lalu serega dikerembai, lalu dunya didudukka lalu mua-hari niki sereta ujan diasuh labuh ngagai tanah. Tu, amat bendar, nyadi ke tanda penelap Nuan ngagai semua utai tempa Nuan.

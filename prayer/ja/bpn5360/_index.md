@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5360 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 おお神よ、わが神よ。まことに私はあなたの御敷居おんしきいに額ぬかずき心から祈り、嘆願いたします。
 あなたの大いなる慈悲をこれらの人々に注ぎ給え。あなたの格別なご愛顧あいこと真理を彼らに授け給え。

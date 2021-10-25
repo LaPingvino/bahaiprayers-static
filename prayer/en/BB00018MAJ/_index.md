@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00018MAJ in English'
 author = "Báb"
-tags = ['lang-en', 'BB00018MAJ']
+tags = ['lang-en', 'BB00018MAJ', "Báb"]
 +++
 All majesty and glory, O my God, and all dominion and light and grandeur and splendor be unto Thee.  Thou bestowest sovereignty on whom Thou willest and dost withhold it from whom Thou desirest.  No God is there but Thee, the All-Possessing, the Most Exalted.  Thou art He Who createth from naught the universe and all that dwell therein. There is nothing worthy of Thee except Thyself, while all else but Thee are as outcasts in Thy holy presence and are as nothing when compared to the glory of Thine Own Being.
 Far be it from me to extol Thy virtues save by what Thou hast extolled Thyself in Thy weighty Book where Thou sayest, “No vision taketh in Him, but He taketh in all vision.  He is the Subtile, the All-Perceiving.”¹  Glory be unto Thee, O my God, indeed no mind or vision, however keen or discriminating, can ever grasp the nature of the most insignificant of Thy signs.  Verily, Thou art God, no God is there besides Thee.  I bear witness that Thou Thyself alone art the sole expression of Thine attributes, that the praise of no one besides Thee can ever attain to Thy holy court nor can Thine attributes ever be fathomed by anyone other than Thyself.

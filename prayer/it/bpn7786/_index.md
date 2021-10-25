@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7786 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Riunitevi in perfetta letizia e all’inizio della riunione recitate questa preghiera:
 

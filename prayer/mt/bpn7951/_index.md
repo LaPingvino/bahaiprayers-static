@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7951 in Malti'
 author = "Báb"
-tags = ['lang-mt', 'bpn-unsorted']
+tags = ['lang-mt', 'bpn-unsorted', "Báb"]
 +++
 O Sid! Jien niġi għandeK għall-kenn, u mmexxi qalbi lejn l-egħliem tiegħeK kollha.
 

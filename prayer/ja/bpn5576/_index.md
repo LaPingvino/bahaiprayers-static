@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5576 in 日本語'
 author = "Bahá'u'lláh"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##ノー・ルーズの祈り
  

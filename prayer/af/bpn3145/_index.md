@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3145 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O my God, my Meester, die Doel van my begeerte! Hierdie dienskneg van U verlang om te slaap in die skuiling van U ontferming en te rus onder die dak van U genade, smekend om U sorg en U beskerming.
 

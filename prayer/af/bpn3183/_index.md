@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3183 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Menige verkoelde hart, o my God, is met die vuur van U Saak aan die brand gesteek, en menige sluimeraar is deur die soetheid van U stem wakker gemaak. Hoeveel is die vreemdelinge wat skuilplek in die skaduwee van die boom van U eenheid nie gesoek het nie, en hoe talryk die dorstiges wat na die fontein van U lewende waters in U dae nie gehunker het nie!
 

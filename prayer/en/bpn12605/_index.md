@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12605 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Lord so rich in bounty, so replete with grace,
 Whose knowledge doth mine inmost heart and soul embrace!

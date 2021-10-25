@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11617 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Bebés
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6498 in 한국어'
 author = "Báb"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Báb"]
 +++
 땅위의 모든 백성들이
 

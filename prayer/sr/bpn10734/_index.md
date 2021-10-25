@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10734 in Srpski српски'
 author = "Abdu'l-Bahá"
-tags = ['lang-sr', 'bpn-unsorted']
+tags = ['lang-sr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Mlada i mladoženja, svaki za sebe, izgovaraju sledeći stih kao bračnu zakletvu u prisustvu najmanje dva svedoka odobrenih od strane Duhovne skupštine, kao što je utvrđeno u Kitabi Akdasu (Najsvetijoj knjizi):
 

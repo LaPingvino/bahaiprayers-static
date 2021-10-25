@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10137 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Thou kind Lord!
 Graciously bestow a pair of heavenly wings unto each of these fledglings and give them spiritual power that they may wing their flight through this limitless space and may soar to the heights of the Abhá Kingdom.

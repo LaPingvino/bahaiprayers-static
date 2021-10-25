@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6973 in Fiji'
 author = "Bahá'u'lláh"
-tags = ['lang-fj', 'bpn-unsorted']
+tags = ['lang-fj', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Me vakacaucautaki na Yacamuni, O i Kemuni na noqu Kalou! Au sa vakadinata ni sega na vakanananu me baleti Kemuni, veitalia na kena lagilagi, e yacova rawa yani na cecere ni Nomuni kilaka, ka sega tale ga ni dua na vakacaucau me baleti Kemuni, veitalia na kena cecekia, e na rawa ni voleka yani ki na maliwa lala ni Nomuni vuku. Mai na bula tawamudu O ni sa tiko yawa sara mai na vanua era na rawa ni kila ka vakasamataki Kemuni kina na Nomuni tamata, kei na Nomuni vakalagilagi sa rawa ga mai na nodra sasaga na Nomuni tamata me ra vakamacalataka na Nomuni veivakurabuitaki. Na kaukauwa cava sa taukena na veika buli e na nodrau veisotari mata kei koya sa Tawabuli?
 

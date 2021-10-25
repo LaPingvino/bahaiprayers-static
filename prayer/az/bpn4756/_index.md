@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4756 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Sübhansan Sən, Ey mənim Allahım! Sənə şükr edirəm ki, mənə Zühurunun Məşriqi, Mərhəmətinin Məzhəri, Əmrinin Xəzinəsi olan Kəsi tanıtdırdın. Yalvarıram Sənə, o Adınla ki, onunla yaxınların üzləri ağ oldu və sadiqlərin könulləri Sənə tərəf qanad açdı- mənə qismət eylə ki, mən hər zaman və hər bir halda Sənin ipindən yapışım, Səndən başqa hər kəsdən əlimi üzüm, gözlərimi Sənin Vəhy üfüqünə dikim, Lövhlərində mənə əmr etdiklərini yerinə yetirim.
 

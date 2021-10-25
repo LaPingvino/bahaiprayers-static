@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11198 in नेपाली'
 author = "Bahá'u'lláh"
-tags = ['lang-ne', 'bpn-unsorted']
+tags = ['lang-ne', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *यो प्रार्थना दुःख वा संकटमा पाठ गर्यौ भने यसको अत्यन्त ठूलो प्रभाव पर्नेछ । 
 

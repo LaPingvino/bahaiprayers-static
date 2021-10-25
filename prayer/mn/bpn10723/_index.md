@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10723 in Монгол хэл'
 author = "Bahá'u'lláh"
-tags = ['lang-mn', 'bpn-unsorted']
+tags = ['lang-mn', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(Мацаг барих хугацаа нь 3 дугаар сарын 2-ноос 3 дугаар сарын 20-ныг дуустал үргэлжилнэ.)
 

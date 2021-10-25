@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7791 in Italiano'
 author = "Báb"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Báb"]
 +++
 Lodato sia il Tuo Nome, o Signore Iddio nostro! In verità Tu sei il Conoscitore di cose invisibili. Disponi per noi il bene che la Tua universale conoscenza può pesare. Tu sei il sovrano Signore, l’Onnipotente, l’Amatissimo.
 Ogni lode a Te, o Signore! Il Giorno stabilito cercheremo la Tua grazia e riporremo tutta la fiducia in Te, Che sei nostro Signore. Glorificato sei Tu, o Dio! Concedici ciò che è buono e conveniente, sì che possiamo fare a meno d’ogni cosa fuorché Te. In verità sei il Signore di tutti i mondi.

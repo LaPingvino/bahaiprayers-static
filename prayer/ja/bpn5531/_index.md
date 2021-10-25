@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5531 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##「聖なる計画の書簡」のティーチングの祈り
  

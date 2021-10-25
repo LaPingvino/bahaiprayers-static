@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7414 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Pochwalony bądź, o mój Boże! Dzięki Ci składam za to, żeś dał mi poznać Tego, który jest Brzaskiem Twego miłosierdzia, Miejscem Świtania Twojej łaski i Skarbnicą Twojej Sprawy. Błagam Cię na Twoje Imię, przez które pobladły oblicza bliskich Tobie, a serca Tobie oddanych poszybowały ku Tobie, spraw, abym zawsze i we wszystkich okolicznościach trzymał się Twojej więzi i uwolnił od wszelkiego przywiązania do kogokolwiek oprócz Ciebie, i aby oczy moje zawsze skierowane były w stronę horyzontu Twojego Objawienia oraz abym wykonywał to, coś przykazał mi w swoich Tablicach.
     

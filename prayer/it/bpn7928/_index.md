@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7928 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##TAVOLE DELLA VISITAZIONE
 

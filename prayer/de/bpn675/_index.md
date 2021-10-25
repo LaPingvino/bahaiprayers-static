@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn675 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Dieses Gebet wird an den Schreinen des Báb und Bahá’u’lláhs gelesen, außerhalb der Schreine nur anlässlich des Hinscheidens Bahá’u’lláhs und des Märtyrertodes des Báb.
 Der Ruhm, der aus Deinem höchsterhabenen Selbst dämmert, und die Herrlichkeit, die aus Deiner strahlenden Schönheit hervorscheint, seien mit Dir, der Du die Offenbarung überragender Größe bist, der König der Ewigkeit, Herr über alle Himmel und auf Erden! Ich bezeuge, dass durch Dich Gottes Herrschaft und Hoheit, Gottes Erhabenheit und Größe offenbart sind, die Sonnen urewiger Pracht ihren Glanz auf den Himmel Deines unwiderruflichen Ratschlusses ergießen und die Schönheit des Unsichtbaren über dem Horizont der Schöpfung erstrahlt. Ich bezeuge ferner, dass durch eine einzige Bewegung Deiner Feder Dein Gebot „Sei!“ vollzogen, Gottes Verborgenes Geheimnis enthüllt, alles Erschaffene ins Sein gerufen und alle Offenbarungen herabgesandt sind.

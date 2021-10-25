@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8094 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lovpriset være Du, O Herre min Gud! Hvert menneske med indsigt erkender Dit herredømme og Din herskermagt, og hvert klarsynet øje opfatter storheden i Din majestæt og den betvingende styrke i Din magt. Prøvelsens vinde magter ikke at tilbageholde dem, der glædes ved nærhed til Dig, i at vende deres ansigter mod Din herligheds horisont, og prøvelsens storme må opgive at fjerne og hindre dem, der fuldstændig har helliget sig Din vilje, i at nærme sig Din bolig.
 

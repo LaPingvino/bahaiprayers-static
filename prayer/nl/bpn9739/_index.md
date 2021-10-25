@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9739 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Ḥuqúqu'lláh is waarlijk een grootse wet. Iedereen is verplicht dit offer te brengen omdat dit een bron is van genade, van overvloed en van al het goede. Het is een milddadigheid die bij iedere ziel zal blijven in elke wereld van de werelden van God, de Albezittende, de Almilddadige. Bahá'u'lláh
 

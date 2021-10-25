@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5274 in Bosanski'
 author = "Abdu'l-Bahá"
-tags = ['lang-bs', 'bpn-unsorted']
+tags = ['lang-bs', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Omoj Bože! O moj Bože!
 Slavljen si jer si me učvrstio u priznanju Tvoje jednosti, jer si me privukao Tvojoj riječi jedinstvenosti, jer si me potakao vatrom Tvoje ljubavi, zaokupirao me spomenom na Tebe i služenjem Tvojih vjernika. Gospodaru, pomozi mi da budem blag i skroman, ojačaj me da se odvojim od svega i pripijem uz skute Tvoje slave, da se srce ispuni Tvojom ljubavlju i ne ostavi prostora za ljubav prema svijetu i privrženosti njegovim odlikama.

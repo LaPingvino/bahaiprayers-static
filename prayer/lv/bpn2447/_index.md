@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2447 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', 'bpn-unsorted']
+tags = ['lang-lv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Iestarpinātās dienas (Ayyám-i-Há) ir no 26. februāra līdz 1.martam ieskaitot, un tām vajadzētu būt dienām, kad gatavojas gavēnim, tām jābūt viesmīlības, labdarības un dāvanu došanas dienām.
 

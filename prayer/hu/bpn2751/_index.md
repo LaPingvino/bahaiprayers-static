@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2751 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ezek a napok, ó, Istenem, melyeken szolgáidnak böjtöt rendeltél el. Ezzel díszítetted teremtményeidnek kinyilatkoztatott Törvénykönyved előszavát, és ékesítetted parancsolataid Kincstárát mindenek szeme előtt, kik mennyországodban és a földön lakoznak. E napok minden óráját különleges erénnyel ruháztad fel, kifürkészhetetlen mindenki számára Rajtad kívül, Kinek tudása minden teremtett dolgot felölel. Ezen erényből kijelölted minden léleknek a részét is rendelkezésed Táblája és visszavonhatatlan ítéleted Írásai szerint. Továbbá, e Könyvek és Írások minden lapját kiosztottad a föld minden egyes népének és nemzetségének.
 

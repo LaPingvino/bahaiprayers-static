@@ -1,6 +1,0 @@
-+++
-title = 'Prayer bpn10932 in '
-author = "Abdu'l-Bahá"
-tags = ['lang-95', 'bpn-unsorted']
-+++
-O ko Koe ko te Aliki fakamagalo!  A Koe ko te fakamalu o Au tavini katoa konei.  E iloa ne Koe a mea funa kae e iloa foki a mea katoa.  Matou katoa e faka-alofa, a ko Koe ko te Mafi, ko te Tafasili i te Maluga.  Matou katoa ne tino agasala, a ko Koe ko te Fakamagalo o agasala, ko te Alofa-Fakamagalo, ko te Atafai.  O te Aliki!  Sa kilo mai ki omotou vaaivaiiga.  Fai mai kia matou a te mea tela e ttau ki Tou alofa mo te mau-koloa.  A omotou se-lava e uke, ka ko te vasa o Tou fakamagalo e seai-se-tuakoi. A omotou vaaivaiiga e pa-mafa, ka ko fakatalitonuuga o Tou lago mo te feasoasoani e manino.  Tela la, fakatummau kae fakamaalosi mai matou.  Faka-mafai aka matou ke mafai o fai a mea ko la e ttau ki Tou Mataloa mana.  Fakamaina mai a omotou loto, kae tuku mai omotou mata pulapula mo taliga fakalogo.  Fakaola a latou ko mate kae foo aka a latou masaki.  Fakaeke mai ki luga ia latou mativa a te maukoloa kae tuku mai a te filemu mo te tokaaga seai-ne-fakalavelave ki latou ko la e nofo mataku.  Talia mai a matou ki Tou maalo kae sulu mai matou ki te mainaaga o te takitakiiga.  Ko Koe ko te Maalosi mo te Tafasili i te Maluga.  Ko Koe ko te Kaimalie.  Ko Koe ko te Atafai.  Ko Koe ko te Alofa.

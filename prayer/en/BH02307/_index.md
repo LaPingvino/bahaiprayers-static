@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH02307 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH02307']
+tags = ['lang-en', 'BH02307', "Bahá'u'lláh"]
 +++
 ##Tablet of Visitation
 

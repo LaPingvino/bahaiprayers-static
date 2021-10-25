@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1281 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Magnificado seja o Teu Nome, ó Senhor de todos os seres e Desejo de todas as coisas criadas! Imploro-Te - pela Palavra que fez a Sarça Ardente levantar a sua Voz e a Rocha exclamar, por cuja Causa os favorecidos apressaram-se a atingir a corte da Tua presença, e os puros de coração, a aurora da luz do Teu semblante, e pelos suspiros dos que verdadeiramente Te amam, devido à sua separação dos Teus eleitos, e pelos lamentos daqueles que anseiam por contemplar a Tua face, diante do esplendoroso alvorecer da luz da Tua Revelação - que pela Tua graça capacites os Teus servos a reconhecerem o que Tu lhes ordenaste pela Tua bondade e pelo Teu favor. Para eles prescreve Tu, então, pela Tua Pena de Glória, o que possa dirigir os seus passos ao oceano da Tua generosidade e conduzi-los às águas vivificadoras da Tua reunião celestial.
 Ó Senhor! Não olhes Tu as coisas que eles cometeram; antes, contempla a sublimidade da Tua generosidade celestial que precedeu a todas as coisas criadas, visíveis e invisíveis. Ó Senhor! Ilumina-lhes os corações com a luz fulgente do Teu conhecimento e torna radiantes os seus olhos com o brilho esplendoroso do sol dos Teus favores.

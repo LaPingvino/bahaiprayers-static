@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2156 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 M-am trezit prin harul Tău în dimineaţa aceasta, o, Dumnezeul meu, şi cu o neclintită încredere în Tine am plecat de acasă, lăsându-mă în grija Ta. Coboară aşadar asupra mea, din cerul milostivirii Tale, o binecuvântare din partea Ta şi îngăduie-mi să mă întorc în siguranţă la căminul meu, aşa cum mi-ai îngăduit să plec, sub ocrotirea Ta, cu toate gândurile mele ferm aţintite spre Tine.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12733 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(Naw-Rúz meh hari keterubah ba taun Bahá’í)
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6865 in Papiamentu'
 author = "Bahá'u'lláh"
-tags = ['lang-pap', 'bpn-unsorted']
+tags = ['lang-pap', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Short Obligatory Prayer
 

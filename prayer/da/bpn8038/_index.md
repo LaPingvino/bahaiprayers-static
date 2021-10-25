@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8038 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O min Herre, o min Herre!
 

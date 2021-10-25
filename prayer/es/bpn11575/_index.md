@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11575 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ¡Oh bondadoso Señor!
 Permite que estos árboles lleguen a ser el adorno del Paraíso de Abhá. Haz que crezcan por medio de Tu dádiva celestial. Hazlos verdes y lozanos y humedécelos con gotas del rocío del paraíso. Atavíalos con mantos de radiante belleza y corona sus cabezas con preciosas flores. Adórnalos con excelentes frutos y esparce sobre ellos Tus dulces aromas.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9214 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Grâce te soit rendue, ô mon Dieu ! Tu m’as réveillé, tu m’as fait renaître et sortir de ma torpeur. Le visage tourné vers les splendeurs du Soleil de ta révélation qui illumine les cieux de ta puissance et de ta majesté, je me suis éveillé ce matin, reconnaissant tes signes, croyant en ton livre et accroché à ta corde.
 Par la puissance de ta volonté et l’irrésistible pouvoir de tes desseins, je te supplie. Fais de tes révélations durant mon sommeil les plus sûres fondations des demeures de ton amour, enfouies dans le cœur de tes bien-aimés, et le meilleur instrument pour la révélation des preuves de ta grâce et de ta tendre bonté.

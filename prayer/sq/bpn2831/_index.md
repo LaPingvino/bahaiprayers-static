@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2831 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Zoti im! Ti e di se njerëzit janë të rrethuar me dhembje e fatkeqësi dhe janë të pushtuar nga vështirësi e telashe. Gjithfarë sprovash e sulmojnë njeriun dhe gjithfarë gjëmash të frikshme e godasin atë si kafshim i një gjarpri. Nuk ka strehë e mbrojtje për të, veçse nën krahun e mbrojtjes, të ruajtjes, të kujdesit e të strehës që jep Ti.
 

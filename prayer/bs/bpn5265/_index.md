@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5265 in Bosanski'
 author = "Abdu'l-Bahá"
-tags = ['lang-bs', 'bpn-unsorted']
+tags = ['lang-bs', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 OBože, moj Bože! Tvoja vjernica Te doziva, uzdajući se u Tebe, usmjerivši svoje lice ka Tebi, preklinje Te da je obaspeš Svojim nebeskim darovima, da joj otkriješ duhovne tajne i da je obasjaš Svojim božanskim sjajem.
 O moj Gospodaru! Učini da oči moga muža progledaju. Razveseli mu srce svjetlošću Svoje spoznaje, privuci svijest njegovu Svojoj blistavoj ljepoti, razveseli mu dušu otkrivenjem Svojih jasne blagonaklonosti.

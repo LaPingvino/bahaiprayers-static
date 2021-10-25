@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2448 in Latviešu'
 author = "Bahá'u'lláh"
-tags = ['lang-lv', 'bpn-unsorted']
+tags = ['lang-lv', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Vissvētākajā Grāmatā (Kitáb-i-Aqdas) ir teikts: “Mēs esam likuši Tev lūgt un gavēt no pilngadības sākuma (no 15 gadiem). To ir noteicis Dievs, Tavs Kungs un Tavu sentēvu Kungs. Ceļiniekam, sirdzējam, grūtniecei vai sievietei, kas baro bērniņu, gavēnis nav saistošs. No saullēkta līdz saulrietam atturies no ēdiena un dzēriena, un raugi, lai iekāre nelaupa Tev to žēlastību, kas ir apsolīta Grāmatā.”
 

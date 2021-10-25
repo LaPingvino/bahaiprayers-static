@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2213 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ... Mărturisirea păcatelor şi greşelilor înaintea fiinţelor omeneşti nu e îngăduită... Păcătosul trebuie, singur în faţa lui Dumnezeu, să implore milostivire de la oceanul miliostivirii, să implore iertare de la Raiul generozităţii şi să spună:
 

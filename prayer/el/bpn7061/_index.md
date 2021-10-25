@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7061 in ελληνικά'
 author = "Báb"
-tags = ['lang-el', 'bpn-unsorted']
+tags = ['lang-el', 'bpn-unsorted', "Báb"]
 +++
 Ω Κύριε! Σε Σένα καταφεύγω για άσυλο και προς όλα τα σηµεία Σου κατευθύνω την καρδιά µου.
 

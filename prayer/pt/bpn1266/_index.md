@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1266 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Louvor a Ti, ó Tu que inclinas os Teus ouvidos para os suspiros dos que de todo o apego se livraram, exceto de Ti, e escutas a voz da lamentação daqueles que só a Ti se dedicam! Vês tudo o que lhes sobreveio nas mãos daquelas criaturas Tuas que transgrediram e se rebelaram contra Ti. A Tua grandeza dá-me testemunho, ó Tu que és o Rei dos domínios da justiça e o Governante das cidades da mercê! Tais foram as tribulações por eles sofridas, que nenhuma pena em toda a criação as pode contar. Fosse alguém tentar mencioná-las, achar-se-ia incapaz de as descrever.
 Desde que essas tribulações, entretanto, foram suportadas no Teu caminho e por amor a Ti, os assim afligidos agradecem-Te sob todas as condições, dizendo: “Ó Tu, que és o Deleite dos nossos corações, o Objetivo da nossa adoração! Se as nuvens do Teu decreto chovessem sobre nós os dardos da tribulação, recusaríamos, em nosso amor por Ti, a ser impacientes. Dar-Te-íamos louvor e graças, pois reconhecemos e persuadimos-nos de que Tu ordenaste somente o que fosse melhor para nós. Se sobre os nossos corpos pesam algumas vezes os desgostos, as nossas almas, no entanto, regozijam-se com grande alegria. A Tua grandeza dá-nos testemunho, ó Tu que és o Desejo dos nossos corações e o Júbilo das nossas almas! Todo o desgosto que nos atinge em nosso amor por Ti, evidencia a Tua mercê; toda a provação de fogo é sinal do esplendor da Tua luz; cada tribulação penosa, um alívio; cada faina, um repouso deleitável; cada angústia, uma fonte de contentamento.”

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6390 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Deffroais yn Dy loches, O fy Nuw, a gweddus i’r hwn a geisia’r lloches honno yw trigo yn Noddfa Dy Ddiogelwch a Chaer Dy Amddiffyniad.  Gloywa fy mod mewnol, O fy Arglwydd, gydag ysblanderau Ffynnon-Ddydd Dy Ddatguddiad, megis y gloywaist fy mod allanol â golau boreol Dy ffafr.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH00009HOW in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH00009HOW']
+tags = ['lang-en', 'BH00009HOW', "Bahá'u'lláh"]
 +++
 How can I choose to sleep, O God, my God, when the eyes of them that long for Thee are wakeful because of their separation from Thee; and how can I lie down to rest whilst the souls of Thy lovers are sore vexed in their remoteness from Thy presence?
 I have committed, O my Lord, my spirit and my entire being into the right hand of Thy might and Thy protection, and I lay my head on my pillow through Thy power, and lift it up according to Thy will and Thy good pleasure.  Thou art, in truth, the Preserver, the Keeper, the Almighty, the Most Powerful.

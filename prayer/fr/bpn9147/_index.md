@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9147 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ô toi, mon Dieu, tu conduis le chercheur vers le droit chemin, tu délivres des affres de la perdition l’âme en détresse et aveugle, tu accordes bénédictions et faveurs aux sincères, tu protèges le craintif dans ton invincible refuge et tu réponds du haut de ton lointain horizon, au cri de ceux qui t’implorent. Loué sois-tu, ô mon Seigneur ! 
 Tu évites aux égarés la mort de l’incroyance et tu conduis au terme de leur voyage ceux qui se rapprochent de toi. Tu réjouis ceux de tes serviteurs qui sont constants en répondant à leurs vœux les plus chers. Du haut de ton royaume de beauté, tu ouvres les portes de la réunion devant ceux qui se languissent de toi et tu les sauves des flammes de la privation et de l’égarement. Aussi se hâtent-ils vers toi et accèdent-ils à ta présence, parviennentils à ta porte accueillante et reçoivent-ils une part abondante de tes dons. 

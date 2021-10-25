@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5536 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 これらの州の都市や町や村を旅し、
             神の芳香ほうこうを放散させようとする者は毎朝この祈りを熟読せよ。

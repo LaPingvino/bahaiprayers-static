@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1327 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Epístola De Naw-Rúz
 Louvado seja tu, ó meu Deus, por haveres ordenado o Naw-Rúz como um festival para aqueles que observaram o jejum por amor a Ti e se abstiveram de tudo o que Tu desaprovas. Permite, ó meu Senhor, que o fogo do Teu amor e o ardor causado pelo jejum por Ti prescrito, os inflamem em Tua Causa e os façam ocuparem-se com o Teu louvor e a Tua menção.

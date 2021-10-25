@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2233 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O, Doamne, Dumnezeul meu! Te implor,
 întru oceanul însănătoşirii Tale, întru splendorile Luceafărului harului Tău, întru Numele Tău care i-a cucerit pe slujitorii Tăi, întru puterea plină de pătrundere a Cuvântului Tău preaslăvit, întru forţa slăvitei Tale Pene şi întru milostivirea Ta care a precedat creaţia a tot ce există în cer şi pe pământ, să mă cureţi cu apele generozităţii Tale de orice suferinţă şi boală, de orice slăbiciune şi debilitate.

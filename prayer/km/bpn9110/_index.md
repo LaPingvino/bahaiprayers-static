@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9110 in ភាសាខ្មែរ'
 author = "Bahá'u'lláh"
-tags = ['lang-km', 'bpn-unsorted']
+tags = ['lang-km', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *ធម’អធិដ្ឋានប្រចាំថ្ងៃ 
 

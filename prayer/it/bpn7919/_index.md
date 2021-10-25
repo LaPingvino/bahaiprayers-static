@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7919 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O ricercatore della verità! Se desideri che Dio ti apra gli occhi devi supplicarLo, pregarLo e a Lui volgere lo spirito a mezzanotte dicendo: 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6198 in Marshallese'
 author = "Bahá'u'lláh"
-tags = ['lang-mh', 'bpn-unsorted']
+tags = ['lang-mh', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Jiban io, O ao Anij, bwe in bed ebake Yuk, im jokwe iloan melan ko ilo oror eo Am, bwe ilo ao etolok jen Kwe ekkoman bwe ao en maron jako. Komman bwe in bed im kakije ilo ailurlur in ba ko bein tiriamo eo Am, bwe kijeek in ao jenelok jen Kwe emoj an tile im kaonlok buruo. Kebak waj io nan river in mour, bwe ao eurur kin an maro im jab kakije in bukot Yuk. Ao jan, O ao Anij, ej kwalok kin jonan an buruo entan im buromoj, im drenin kemjalal retorlok jen meja ilo ao kwalok jonan yokwe eo ao nan Yuk.
 

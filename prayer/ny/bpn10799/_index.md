@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10799 in Chichewa'
 author = "Bahá'u'lláh"
-tags = ['lang-ny', 'bpn-unsorted']
+tags = ['lang-ny', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ndichitira umboni, O Mulungu wanga, kuti Munandilenga ine, kuti ndikudziweni ndi kukupembedzani.  Nditsimikizira, panthawi ino, kufooka kwanga ndi kukula kwa mphamvu Zanu, kusauka kwanga ndi kulemera Kwanu. 
 

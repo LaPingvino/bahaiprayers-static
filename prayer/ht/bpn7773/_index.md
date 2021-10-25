@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7773 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Bondye mwen! Jou sa yo se jou kote Ou te mande sèvitè Ou yo pou yo fè Jèn nan. Ou te fè kòmansman Liv Lwa Ou a bèl avèk lwa Jèn nan, yon Liv Ou te revele pou kreyati Ou yo, e, nan lide tout sa yo ki nan syèl la ak tout sa yo ki sou latè, Ou te dekore Trezò kòmandman Ou yo avèk lwa sa a. Ou te bay chak moman nan Jou sa yo yon bonte espesyal, yon bonte pèsonn pa kapab dekouvri, se sèl Ou menm, O Ou menm Ki gen yon konesans ki antoure tout bagay ki te kreye. Ou te mete pou chak nanm yon pòsyon nan bonte sa a daprè Epit lwa Ou a ak Pawòl jijman Ou yo ki pa kapab chanje. Anplis, Ou revele chak fèy nan Liv sa yo e chak paj nan Pawòl sa yo pou chak nan pèp ak tribi ki sou tè a.
 O Ou menm Ki Dirijan dirijan yo! Ou te sere pou byeneme devwe Ou yo, daprè lòd Ou, pou yo sonje Ou chak lè solèy la leve. Nanm sa yo se yo menm ki te tèlman soule avèk bwason gran sajès Ou a, yo kite kabann yo nan dezi pou yo chante lwanj Ou ak rakonte kalite Ou yo, e yo prese kite dòmi yo poutèt tout anvi yo genyen pou avanse pi pre Ou ak pataje nan bonte Ou yo. Nan tout moman, je yo fikse sou Solèy jantiyès Ou a ki plen lanmou, e figi yo vire bò kote sous Fontèn revelasyon Ou an. O Bondye mwen! Fè mizèrikòd Ou desann tankou lapli sou nou e sou nanm sa yo, fè li soti nan nyaj mizèrikòd Ou yo daprè sa k’ap diyn pou syèl bonte ak gras Ou. 

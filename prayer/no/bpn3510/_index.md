@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3510 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O min Gud! O min Gud! Sannelig, jeg påkaller deg og bønnfaller foran din terskel, og ber deg om at alle dine velsignelser må senke seg over disse sjeler. Utse dem til å motta din gunst og din sannhet.
  

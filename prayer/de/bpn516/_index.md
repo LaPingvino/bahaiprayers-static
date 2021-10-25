@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn516 in Deutsch'
 author = "Abdu'l-Bahá"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Du verzeihender Gott! Diese Diener wenden sich Deinem Königreich zu und streben nach Deiner Gnade und Gunst. O Gott! Mache ihre Herzen gut und rein, dass sie Deiner Liebe würdig werden. Läutere und heilige ihren Geist, dass das Sonnenlicht der Wirklichkeit über ihnen scheine. Läutere und heilige ihre Augen, dass sie Dein Licht wahrnehmen. Läutere und heilige ihre Ohren, dass sie den Ruf Deines Königreiches hören.
 O Herr! Wahrlich, wir sind schwach, Du aber bist machtvoll. Wahrlich, wir sind arm, Du aber bist reich. Wir sind die Sucher, Du aber bist der Gesuchte. O Herr! Habe Mitleid mit uns und vergib uns. Verleihe uns solche Fähigkeit, solche Fassungskraft, dass wir Deines Wohlwollens würdig und hingezogen werden zu Deinem Königreich; dass wir in diesem strahlenden Jahrhundert tief aus dem Wasser des Lebens trinken, im Feuer Deiner Liebe aufflammen und vom Odem des Heiligen Geistes neu belebt werden.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4456 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Ikaw na mapagpatawad na Diyos! Ang mga tagapaglingkod na ito ay nagsisibaling sa Iyong Kaharian at nagsisipaghanap ng Iyong biyaya at pagpapala. O Diyos! Pabutihin at padalisayin ang kanilang mga puso upang sila’y maging karapat-dapat sa Iyong pag-ibig. Dalisayin at banalin ang kanilang mga espiritu upang ang liwanag ng Araw ng Katotohanan ay sumikat sa kanila. Dalisayin at banalin ang mga mata upang mamalas nila ang Iyong liwanag. Dalisayin at banalin ang mga tainga upang marinig nila ang tawag ng Iyong Kaharian. 
 

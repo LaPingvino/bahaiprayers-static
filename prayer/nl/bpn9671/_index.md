@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9671 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##Geopenbaard aan de bahá’ís in de centraal gelegen staten
 

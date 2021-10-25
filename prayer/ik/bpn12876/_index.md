@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12876 in Alaska Native'
 author = "Bahá'u'lláh"
-tags = ['lang-ik', 'bpn-unsorted']
+tags = ['lang-ik', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 **Blessed is the Spot 
 Quviatchaktauli ini, iglulu, nalunaitchuaq inilu, suli iniqpak, uummanlu, iġġiļu, annagvigļu, qaanaaġlu, naqsraġlu, nunalu, taġiuġlu, qikiqtaġlu, nunaraaġlu, tavra tammatkunani God taiļaktuniunnii qutchiksuaġilugu nanġapiaġataġaat.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11665 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Tú ves, oh mi Dios, cómo Tus amados han sido rodeados por los rebeldes de entre Tus criaturas y los malvados de entre Tu pueblo. No queda lugar en que no se haya elevado el lamento de Tus amados y el gemido de Tus escogidos. Te imploro, por Tu Más Grande Nombre, que saques la mano del poder del seno de Tu fuerza y asistas con ella a todos los que Te aman.
 Tú ves, oh mi Dios, sus ojos vueltos hacia Ti, su mirada puesta en la Aurora de Tu poder y Tu amorosa providencia.

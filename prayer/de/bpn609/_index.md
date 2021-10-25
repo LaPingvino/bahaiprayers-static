@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn609 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Gott, mein Gott! Voll Reue wende ich mich Dir zu, und wahrlich, Du bist der Vergeber, der Mitleidige.
 O Gott, mein Gott! Zu Dir kehre ich zurück, und wahrlich, Du bist der Immervergebende, der Gnädige.

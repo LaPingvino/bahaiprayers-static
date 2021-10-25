@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7954 in Malti'
 author = "Báb"
-tags = ['lang-mt', 'bpn-unsorted']
+tags = ['lang-mt', 'bpn-unsorted', "Báb"]
 +++
 Glorja lileK, O Sid Alla tiegħi! NitolboK  taħfirli u lil dawk li jgħinu l-Fidi tiegħeK. Fis-sew, Inti s-Sid sultani, li Taħfer, l’Aktar Ġeneruż. O Alla tiegħi! Ħalli qaddejja hekk tiegħeK li huma mċaħħdin mill għarfien jiddaħħlu fil-Kawża tiegħeK; għax darba jsiru jafu biK, ikunu xhieda tas-sewwa f’Jum il-Ħaqq u ma jħaqqux il-kixfiet ta’ tjubiteK. Niżżel fuqhom l-għotjiet tal-grazzja tiegħeK, u agħtihom, qegħdin fejn qegħdin, sehem kotran minn dak li Int amart għat-twajbin fost il-qaddejja tiegħeK. Inti fis-sewwa il-Ħakkiem Suprem, it-Tajjeb f’Kollox, l-Aktar Ta’ Qalb Tajba.
 

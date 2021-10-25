@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2464 in Русский'
 author = "Bahá'u'lláh"
-tags = ['lang-ru', 'bpn-unsorted']
+tags = ['lang-ru', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Пост бахаи соблюдается в течение месяца Ала (Возвышенность) календаря бахаи, со 2-го по 20-е марта включительно.
 

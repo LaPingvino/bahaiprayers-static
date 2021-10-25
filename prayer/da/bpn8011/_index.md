@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8011 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Priset være Dit navn, o Herre min Gud! Jeg bønfalder Dig ved Dit navn, hvorved timen er kommet, og genopstandelsen skete, og frygt og skælven greb alle, der er i himlen, og alle, der er på jorden, om at lade det regne ned fra Din barmhjertigheds himmel og Din milde medfølelses skyer med det, der vil glæde hjertet hos dem af Dine tjenere, der har vendt sig til Dig og støttet Din sag.
 

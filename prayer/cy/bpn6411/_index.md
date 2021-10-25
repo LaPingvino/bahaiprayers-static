@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6411 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Efe yw’r Tosturiol, yr Haelionus!
 O Dduw, fy Nuw! Ti a’m gweli, Ti a’m adnabyddi; Ti yw fy Hafau a’m Noddfa.  Ni cheisiais ac ni cheisiaf neb ond Tydi. Ni cherddais ac ni cherddaf lwybr ond llwybr Dy gariad.  Yn nyfnder nos anobaith fy llgad a dry yn eiddgar ac yn llawn gobaith at fore Dy ffafr ddiderfyn, a chyda’r wawr fy enaid llaes a adfywhâ ac a gryfhâ yng nghoffadwriaeth o’th harddwch a’th berffeithrwydd.  Yr hwn a gymhorthir gan ras Dy faddeuant, er nad ydyw ond diferyn, bydd megis eigion diderfyn; a’r mymryn lleiaf a gymhorthir gan ffrwd Dy drugaredd a ddisgleira megis seren ddisglair.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10308 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Han är Gud, upphöjd vare Han, den kärleksfulla godhetens och frikostighetens Herre!
 Ärad vare Du, o Du min Gud och allsmäktige Herre. Jag vittnar om Din allmakt och Din styrka, Din överhöghet och Din kärleksfulla godhet, Din nåd och Din kraft, Ditt varandes och Ditt väsens enhet, Din okränkbarhet och upphöjdhet över tillvarons värld och allt som finns däri.

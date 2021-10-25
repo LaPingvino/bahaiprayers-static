@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8907 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 主啊，我的上帝！扶助祢所垂愛的人，讓他們堅定於祢的信仰，行走祢的道路，堅奉祢的聖道。賜予他們恩典，以抵擋私心與情慾的陣陣來襲，以追隨神聖引導之光。祢是大力者，寬仁者，自在自存者，施恩者，慈悲者，全能者，普施者。

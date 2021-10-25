@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9095 in Alaska Native'
 author = "Bahá'u'lláh"
-tags = ['lang-ik', 'bpn-unsorted']
+tags = ['lang-ik', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 **Morning Prayer
 

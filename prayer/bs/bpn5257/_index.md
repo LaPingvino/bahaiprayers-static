@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5257 in Bosanski'
 author = "Bahá'u'lláh"
-tags = ['lang-bs', 'bpn-unsorted']
+tags = ['lang-bs', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 On je Izlječitelj, Skrbnik, Pomoćnik, Oprostitelj, Najmilosrdniji.
 Dozivam Tebe, O, Uzvišeni, O, Vjerni, O, Slavni! Ti Udovoljavaš, Ti Liječiš, Ti si Vječni, O Vjekovječni!

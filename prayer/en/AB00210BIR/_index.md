@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00210BIR in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB00210BIR']
+tags = ['lang-en', 'AB00210BIR', "Abdu'l-Bahá"]
 +++
 ##Revealed to the Bahá'ís of the Western States
 *The following commune is to be read ... every day:

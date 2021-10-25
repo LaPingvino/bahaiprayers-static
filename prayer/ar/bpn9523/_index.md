@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9523 in العربية'
 author = "Bahá'u'lláh"
-tags = ['lang-ar', 'bpn-unsorted']
+tags = ['lang-ar', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 قَدْ نُزِّلَتْ مِنْ مَلَكُوْتِ العِزَّةِ لأَيَّامِ الهاءِ
 بِسْميَ الغَرِيْبِ المَظْلُوْمِ

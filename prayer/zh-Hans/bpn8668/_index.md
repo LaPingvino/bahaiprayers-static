@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8668 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', 'bpn-unsorted']
+tags = ['lang-zh-Hans', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *习读圣航者书简，你将认知真理，深思神圣美尊预见的未来事件。让明悟者警惕。
 *--阿博都-巴哈

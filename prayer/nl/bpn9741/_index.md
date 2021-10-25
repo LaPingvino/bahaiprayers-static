@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9741 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Hij is God!
 O Heer mijn God! O Gij Helper van de zwakken, Steun van de armen en Verlosser van de hulpelozen die zich tot U keren.

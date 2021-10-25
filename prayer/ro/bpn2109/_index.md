@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2109 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dumnezeul meu Cel Adorat, Regele meu, Dorinţa mea! Ce limbă ar putea da glas mulţumirilor mele pentru Tine? Am fost nesocotit şi Tu m-ai trezit. Mi-am întors faţa de la Tine şi Tu m-ai ajutat, cu bunăvoinţă, să mă întorc spre Tine. Am fost asemenea unui mort iar Tu m-ai însufleţit cu apa vieţii. Am fost slăbit, iar Tu m-ai înviorat cu şuvoiul ceresc al rostirii Tale, ce a ţâşnit din Pana Celui Atotmilostiv.
 

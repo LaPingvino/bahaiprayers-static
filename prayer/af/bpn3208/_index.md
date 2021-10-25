@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3208 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Geprys en verheerlik word U, o my God! Ek smeek U by die sugtinge van U liefhebbers en by die trane deur diegene vergiet wat verlang om U te sien, om nie U tere genade van my in U Dag weg te hou nie, nòg my die melodieë te ontneem van die Duif wat U eenheid loof voor die lig wat van U aangesig skyn. Ek is die een wat in ellende is, o God! Aanskou my, ek hou vas aan U Naam, die Alles-Besittende. Ek is die een wat sekerlik sal vergaan; aanskou my ek kleef vas aan U Naam, die Onverganklike. Ek smeek U dus, by U Self, die Verhewene, die Allerhoogste, om my nie aan my self en aan die begeertes van 'n bedorwe neiging oor te gee nie. Hou U my hand met die hand van U krag, en verlos my uit die dieptes van my versinsels en ydele inbeeldings, en reinig my van alles wat vir U afstootlik is.
 

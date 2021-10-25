@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10317 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Han är den Mäktige, den Förlåtande, den Medlidsamme!
 O Gud, min Gud! Du ser Dina tjänare i fördärvets och villfarelsens avgrund. Var finns Din gudomliga lednings ljus, o Du världens åstundan? Du känner deras hjälplöshet och svaghet. Var finns Din kraft, o Du, i vars grepp himmelens och jordens krafter är inneslutna?

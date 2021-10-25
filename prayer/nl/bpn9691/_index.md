@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9691 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O mijn God! O Gij die zonden vergeeft, gaven schenkt en kwellingen verdrijft!
 Waarlijk, ik smeek U de zonden te vergeven van hen die het stoffelijk gewaad hebben afgelegd en naar de geestelijke wereld zijn opgestegen.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6409 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Clodforer Dy Enw Di, O fy Nuw, tystiaf na all unrhyw amgyffred ohonot Ti, pa mor rhyfeddol bynnag y bo, esgyn i nefoedd Dy wybodaeth, ac na all unrhyw foliant ohonot Ti, pa mor aruchel bynnag y bo, ehedeg i awyrgylch Dy ddoethineb.  Buost erioed ymhell uwchlaw cyrraedd a dirnadaeth amgyffred Dy weision, ac wedi Dy ddyrchafu yn anfesuradwy goruwch ymdrechion Dy gaethweision i fynegi Dy ddirgelwch.  Beth yn wir yw gallu creadur wyneb yn wyneb â’r Hwn nas crëwyd?  Tystio ‘rwyf mai ffrwyth yr hyn a gynhyrchwyd gan Dy ewyllys a’r hyn a genhedlwyd yn unol â’th orchymyn yw meddyliau mwyaf canoladwy pawb sydd yn caru Dy undod a myfyrdodau dwysaf yr holl rai sydd wedi Dy adnabod.  Tyngaf wrth Dy ogoniant, Ti yr hwn wyt Anwylyd Fy enaid a Ffynnon fy mywyd!  Gwn na allaf fyth dy ddirnad na’th ganmol Di mewn modd sydd yn gweddu hyn, eto yr wyf yn Dyras, sydd yn cynnwys yr holl greadigaeth, i dderbyn gan Dy weision yr hyn a allant osod o’th flaen Di.  Cynorthwya ni, felly drwy Dy ras sydd yn cynnal, i ddyrchafu Dy Enw ac i ddatgan Dy fawl.
 

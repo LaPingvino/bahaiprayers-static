@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9597 in Nederlands'
 author = "Báb"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Báb"]
 +++
 Geloofd zij Uw Naam, o Heer onze God! Gij zijt waarlijk de Kenner van het ongeziene. Beschik voor ons het goede naar de maat van Uw alomvattende kennis. Gij zijt de soevereine Heer, de Almachtige, de Meestgeliefde.
 Alle lof zij U, o Heer! Op de aangewezen dag zullen wij Uw gunst zoeken en ons volle vertrouwen stellen in U die onze Heer zijt. Verheerlijkt zijt Gij, o God! Verleen ons wat goed en betamelijk is, opdat wij niets buiten U van node zullen hebben. Waarlijk, Gij zijt de Heer aller werelden.

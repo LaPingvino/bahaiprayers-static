@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10531 in Kalaallisut'
 author = "Báb"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Báb"]
 +++
 Uannut aalajangeruk, Naalagara-aa, Ilinnullu upperinnittunut Illit isinni uatsinnut pitsaanerpaatitat, Pileqqaarnerata Atuagaani saqqummiussaasoq, Illimmi Assanniitippat sunut tamanut uuttortaat siumut aalajangeriigaq. 
 Tunissutitit pitsaasut unissanatik Illit Asanninninnik pingaartitsisunut tikiussorput, tunissutivit qilammiorpaluttut nalunaaqqutaat tupinnartut Illit qilammiorpaluttumik Ataasiussutsinnik miserratiginninngitsunut iluatigisaanatik tunniussugaapput. Paarisassatut Ilinnut inaalippavut uagutsinnut aalajangiussatit tamaasa, qinnuigaatsigillu tuneqqulluta ajunngitsunik tamanik Ilisimassutsivit imarisaanik. 

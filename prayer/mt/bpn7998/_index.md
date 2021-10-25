@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7998 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', 'bpn-unsorted']
+tags = ['lang-mt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##IT-TWAVEL TAL-VIŻITAZZJONI 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8163 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 De, der spreder Guds dufte, skal fremsige denne bøn hver morgen.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11497 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ¡Él es Dios!
 ¡Oh Dios, mi Dios! Estos son siervos atraídos en Tus días por las fragancias de Tu santidad, encendidos por la llama que arde en Tu árbol santo, que responden a Tu voz y pronuncian Tu alabanza; han sido despertados por Tu brisa y avivados por Tus dulces aromas; contemplan Tus señales, comprenden Tus versículos, escuchan Tus palabras, creen en Tu Revelación y están seguros de Tu bondad. Sus ojos, oh Señor, miran fijamente Tu reino de gloria refulgente, y sus rostros están orientados hacia Tu dominio de lo alto; sus corazones laten con el amor de Tu radiante y gloriosa belleza; sus almas se consumen con la llama de Tu amor, oh Señor de este mundo y del mundo venidero; sus vidas arden de anhelo por Ti, y sus ojos derraman lágrimas por Tu causa.

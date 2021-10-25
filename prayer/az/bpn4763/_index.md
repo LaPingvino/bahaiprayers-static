@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4763 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ey Allah, mənim Allahım! Sən mənim Ümidim və Məhbubumsan. Mənim Məqsudum və Arzumsan! Böyük itaətkarlıq və tam təslimiyyətlə Sənə dua edirəm, məni Öz diyarında məhəbbətinin minarəsi, məxluqatın arasında elminin çırağı, səltənətində ilahi bəxşiş bayrağı eylə.
 

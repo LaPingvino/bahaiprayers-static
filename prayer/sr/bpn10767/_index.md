@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10767 in Srpski српски'
 author = "Abdu'l-Bahá"
-tags = ['lang-sr', 'bpn-unsorted']
+tags = ['lang-sr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Gospode! Ništavni smo mi, podari nam naklonost Svoju; siroti smo, daruj nam deo Svog okeanskog bogatstva; nemamo šta nam treba, Ti nas zadovolji; uniženi smo, daj nam Svoju slavu. Ptice na nebu i zveri na polju svakoga dana primaju hranu od Tebe, i sva bića imaju udela u Tvojoj brizi i blagonaklonosti.
 

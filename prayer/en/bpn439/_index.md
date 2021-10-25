@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn439 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lauded be Thy name, O Lord my God! Darkness hath fallen upon every land, and the forces of mischief have encompassed all the nations. Through them, however, I perceive the splendors of Thy wisdom, and discern the brightness of the light of Thy providence.
 

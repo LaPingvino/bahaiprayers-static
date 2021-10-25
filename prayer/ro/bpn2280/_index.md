@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2280 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O, Dumnezeule, care eşti Autorul
 tuturor Manifestărilor, Izvorul tuturor Izvoarelor, Fântâna tuturor Revelaţiilor, şi Izvorul nesecat al tuturor luminilor! Aduc mărturie că prin Numele Tău, Cerul înţelegerii a fost împodobit şi oceanul înţelegerii şi-a înălţat talazurile, şi dispensaţiile providenţei Tale au fost proclamate adepţilor tuturor religiilor.

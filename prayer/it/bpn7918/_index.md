@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7918 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Come dispormi a dormire, o Dio mio Dio, quando gli occhi di coloro che Ti bramano vegliano perché separati da Te; e come coricarmi per riposare, mentre le anime dei Tuoi amanti spasimano per la lontananza dalla Tua presenza?
 Ho affidato, o mio Signore, il mio spirito e il mio intero essere alla mano destra della Tua possanza e della Tua protezione, poso la testa sul guanciale per il Tuo potere e la levo secondo la Tua volontà e il Tuo beneplacito. In verità, Tu sei il Custode, il Reggitore, l’Onnipotente, il Più Possente.

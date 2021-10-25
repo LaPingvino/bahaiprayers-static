@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10356 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Må var och en som beger sig ut på en undervisningsresa till någon plats, läsa denna bön dag och natt under sina resor i främmande trakter:
 O Gud! O Gud! Du ser mig hängiven och dragen till Ditt härliga rike, tänd av Din kärleks eld bland människorna, en budbringare för ditt rike i dessa omfattande och vidsträckta trakter, frigjord från allt utom Dig, i förlitan på Dig, försakande vila och bekvämlighet, långt från min hemtrakt, en vandrare i dessa områden, en främling som fallit till marken, ödmjuk inför Din upphöjda tröskel, lydig inför Din allsmäktiga härlighets himmel, åkallande Dig vid midnatt och vid dagbräckningen, bönfallande och ödmjukt bedjande Dig morgon och afton att nådefullt bistå mig att tjäna Din sak, att sprida Din lära och att förhärliga Ditt ord i öst och  i väst.

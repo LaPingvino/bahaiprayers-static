@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6405 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Dydi drugarog Arglwydd!  Ti yr Hwn sydd haelionus a galluog!  Nyni yw Dy weision, a gysgodir dan Dy ragluniaeth.  Bwrw ffafr Dy olwg arnom.  Rho oleuni i’n llygaid, clyw i’n clustiau, a deall a chariad i’n calonnau.  Gwna ein heneidiau yn llawen a dedwydd trwy dy newyddion da.  O Arglwydd!  Dangos i ni lwybr Dy deyrnas ac adfywhâ ni trwy anadl yr Ysbryd Glân.  Dyro i ni fywyd tragwyddol, a chyflwyna arnom Dy anrhydedd di-baid.  Una ddynolryw a goleua fyd dynoliaeth.  Bydded i ni oll ddilyn Dy lwybr, dyheu am Dy foddhad, a cheisio dirgelion Dy deyrnas.  O Dduw!  Una ni a chysyllta ein calonnau â’th rwymyn annatod.  Yn wir, Tydi yw’r Rhoddwr, Tydi yw’r Un Caredig, a Thydi yw’r Hollalluog.
 

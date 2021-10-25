@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6412 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ef yw’r Trugarog, yr Haelionus! O Dduw fy Nuw! Ti a’m gweli, Ti a’m hadnebydd.  Ti yw fy hafan a’m noddfa.  Ni cheisiais ac ni cheisaf ne ond Tydi; llwybr ni throediais ac ni throediaf ond llwybr Dy gariad Di.  Yn nyfnder nos anobaith fy ngolwg a dry yn eiddgar ac yn llawn gobaith at fore Dy ffafr diderfyn, a chyda’r wawr fy enaid llesg a adfywhâ ac a gryfhâ yng nghoffadwriaeth Dy harddwch a’th berffeithrwydd.  Yr hwn a gynorthwyir gan râs Dy faddeuant, er mai diferyn yw, a fydd yn eigion diderfyn; a’r atom symlaf a gynorthwyir gan lif Dy garediggariad a ddisgleiria fel y seren danbaid.
 

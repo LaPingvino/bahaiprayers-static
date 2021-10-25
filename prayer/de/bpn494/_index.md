@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn494 in Deutsch'
 author = "Abdu'l-Bahá"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Herr, mein Gott, Du mein Hafen in meinem Elend, mein Schild und Schirm in meinem Leid, meine Zuflucht und Freistatt zur Zeit der Not, mein Gefährte in der Einsamkeit! Du mein Trost in meiner Qual, mein liebevoller Freund in meiner Verlassenheit! Du Tilger meiner Sorgenpein, Du Vergeber meiner Sünden!
 Dir wende ich mich ganz und gar zu, Dich flehe ich inbrünstig an von ganzem Herzen, aus ganzer Seele und mit ganzer Zunge, bewahre mich vor allem, was Deinem Willen in diesem Zyklus Deiner göttlichen Einheit zuwider ist, und läutere mich von aller Befleckung, die mich hindert, rein und makellos den Schatten des Baumes Deiner Gnade aufzusuchen.

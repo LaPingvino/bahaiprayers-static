@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7442 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Boże, mój Boże! Zwróciłem się do Ciebie ze skruchą, a Tyś zaprawdę jest Odpuszczającym, Współczującym.
     

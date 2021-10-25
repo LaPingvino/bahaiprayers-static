@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12893 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 On jest Najświętszy, Najchwalebniejszy!
 W imię Boga, Współczującego, Miłosiernego! Chwała niechaj będzie Bogu, Panu wszystkich światów!

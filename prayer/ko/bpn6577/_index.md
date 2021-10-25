@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6577 in 한국어'
 author = "Báb"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Báb"]
 +++
 제가 용서를
 

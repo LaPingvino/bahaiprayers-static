@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2317 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 El este Regele, Atotştiutorul, Cel Înţelept!
 Iată, Privighetoarea paradisului cântă, pe ramurile Copacului Eternităţii, melodii sfinte şi dulci, anunţând sufletelor sincere vestea cea bună a apropierii lui Dumnezeu, invitându-i pe cei care cred în Unitatea Divină la curtea Prezenţei Celui Generos, informându-i pe cei detaşaţi de mesajul revelat de Dumnezeu, Regele, Cel Slăvit, Cel Fără de Seamăn, călăuzindu-i pe adoratori spre lăcaşul de sfinţire şi spre această strălucitoare Frumuseţe. Cu adevărat, iată Frumuseţea sublimă, anunţată în Cărţile Mesagerilor, prin Care adevărul se va distinge de eroare şi prin care înţelepciunea fiecărei porunci va fi dovedită. Cu adevărat, El este Arborele vieţii care poartă roadele lui Dumnezeu, Cel Atotslăvit, Cel Puternic, Cel Mare.

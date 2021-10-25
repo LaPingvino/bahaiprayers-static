@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9071 in اُردُو'
 author = "Bahá'u'lláh"
-tags = ['lang-ur', 'bpn-unsorted']
+tags = ['lang-ur', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 اے وہ کہ تیرا چہرہ ہی میرا کعبہ ہے۔
 اور تیرا جمال میرا حرم ہے۔

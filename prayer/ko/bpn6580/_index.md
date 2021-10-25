@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6580 in 한국어'
 author = "Báb"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Báb"]
 +++
 저희들의 죄를, 믿은 이들을
 

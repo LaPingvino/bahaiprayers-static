@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2760 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Mblidhuni së bashku me gëzim të pastër dhe, në fillim të mbledhjes, thoni këtë lutje:
 

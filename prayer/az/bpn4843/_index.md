@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4843 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Sən Ey Bənzərsiz Allah! Sən Ey Mələkutun Rəbbi! Bu ruhlar Sənin səmavi qoşunundur. Onlara kömək eylə, Uca Səma Sakinlərinin dəstəsi ilə onlara zəfər bəxş eylə, ta ki, onlardan hər biri bir alay olsun və Allahın məhəbbəti və ilahi təlimlərin nuru ilə bu ölkələri fəth etsin.
 

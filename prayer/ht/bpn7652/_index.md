@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7652 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Bondye mwen, kè moun ki debòde ak dezi pou antre nan prezans Ou boule poutèt dife anvi yo genyen pou jwenn Ou, e je moun ki renmen Ou koule anpil dlo poutèt yo kraze avèk chay separasyon yo ak lakou Ou, epi vwa soufrans lan pou moun ki fikse espwa yo sou Ou leve patou nan wayòm Ou yo.
 Se Ou menm, O Bondye mwen, avèk pisans siprèm Ou an, Ki te pwoteje sila yo kont de danje sa yo. Si se pa t’ pou dife nanm yo ak soupi kè yo, yo t’ap nwaye nan mitan dlo k’ap koule nan je yo. Si se pa t’ pou gwo dlo k’ap koule nan je yo, yo t’ap boule nan dife kè yo e nan chalè nanm yo genyen. Mwen panse yo tankou zanj Ou te kreye avèk nèj ak dife. O Bondye mwen! Èske Ou ap anpeche yo rive nan prezans Ou, malgre yo debòde ak dezi pou jwenn Ou? Oubyen, malgre tout pasyon yo genyen pou Ou, èske Ou ap fòse yo kite pòt mizèrikòd Ou a? Tout espwa preske fin elimine nan kè moun Ou te chwazi yo, O Bondye mwen! Kote dous briz gras Ou a? Enmi yo antoure yo nan tout direksyon; kote drapo viktwa Ou te pwomèt nan Epit Ou yo?

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10379 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 E na anaaki ni katoa bong, n te ingaabong, te tawanou ao te tairiki
 *(Are e kan tataro, e na teboki baina, ao ngke e tabe n teboki, e atonga aei):  

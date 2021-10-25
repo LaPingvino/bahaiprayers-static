@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH08363 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH08363']
+tags = ['lang-en', 'BH08363', "Bahá'u'lláh"]
 +++
 O God, Who art the Author of all Manifestations, the Source of all Sources, the Fountainhead of all Revelations, and the Wellspring of all Lights!  I testify that by Thy Name the heaven of understanding hath been adorned, and the ocean of utterance hath surged, and the dispensations of Thy providence have been promulgated unto the followers of all religions.
 I beseech Thee so to enrich me as to dispense with all save Thee, and be made independent of anyone except Thyself.  Rain down, then, upon me out of the clouds of Thy bounty that which shall profit me in every world of Thy worlds.  Assist me, then, through Thy strengthening grace, so to serve Thy Cause amidst Thy servants that I may show forth what will cause me to be remembered as long as Thine own kingdom endureth and Thy dominion will last.

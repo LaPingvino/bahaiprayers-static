@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5551 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 （精神行政会の閉会時に唱えるお祈り）
  

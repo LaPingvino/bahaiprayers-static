@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8133 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O min Gud, gavmildheds og barmhjertigheds Gud! Du er den konge, på hvis bud hele skabelsen er blevet kaldt til live; og Du er Den Ene Alnådige, der aldrig af sine tjeneres gerninger har ladet sig hindre i at vise sin nåde, ej heller har de tilbageholdt åbenbarelserne af Hans gavmildhed.
 

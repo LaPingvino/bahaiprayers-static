@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8941 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 以萬古永恆、至偉的上帝之名。
 確然，隔離之火正將誠摯者之心焚燼，萬千世界的仰慕者啊！祢那聖容的光輝何在？

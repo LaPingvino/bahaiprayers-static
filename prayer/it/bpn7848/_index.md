@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7848 in Italiano'
 author = "Báb"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Báb"]
 +++
 Come posso lodarTi, o Signore, per i segni del Tuo possente fulgore e per le meravigliose, dolci fragranze che Mi hai elargito in questa fortezza, talché nei cieli o sulla terra non v’è nulla che possa reggere confronto? Hai vegliato su Me nelle viscere di questo monte dove tutt’intorno sono circondato da montagne: una Mi sovrasta, altre si ergono a dritta e a manca e un’altra M’incombe innanzi. Gloria a Te, non v’è altro Dio all’infuori di Te. Quante rocce ho visto precipitare su Me da questo monte, ma Tu Me ne hai protetto, preservandoMi nel baluardo della Tua Unità divina. 
 Glorificato e magnificato sei Tu: lode a Te per tutto quello che ami e desideri, e grazie a Te per ciò che hai decretato e preordinato. Da tempo immemorabile hai effuso la Tua tenera misericordia e il processo del Tuo creare è stato sempre ed è incessante. La Tua opera è differente dall’opera d’altri che Te e tra i doni d’altri che Te non ve n’è alcuno che possa eguagliare i Tuoi buoni doni. 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4690 in Azərbaycan'
 author = "Báb"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Báb"]
 +++
 ##Alqış Sənə, Ey Rəbbim
 

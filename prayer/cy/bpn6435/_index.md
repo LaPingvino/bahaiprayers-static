@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6435 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *The Kitáb-i-Aqdas states: "We have commanded you to pray and fast from the beginning of maturity [15 year]; this is ordained by God, your Lord and the Lord of your forefathers.... The traveler, the ailing, those who are with child or giving suck, are not bound by the fast.... Abstain from food and drink, from sunrise to sundown, and beware lest desire deprive you of this grace that is appointed in the Book." The period of the Fast is March 2 through March 20.
 

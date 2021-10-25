@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10194 in Māori'
 author = "Abdu'l-Bahá"
-tags = ['lang-mi', 'bpn-unsorted']
+tags = ['lang-mi', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 E Te Ariki, e ko Koe Nāu te tohu aroha e karapoti nei i te katoa, Nāu te murunga hara mārama pai, Nāu te whakahirahira, Nāu te murunga hara me te manakitanga ki te katoa, me ngā rama o Tāna murunga hara he mea tuku ki te ao katoa! e Te Ariki o te Korōria! Tēnei ahau te kaha inoi atu nei ki a Koe me te whiu roimata kia ūwhia tāu hāwini, kua piki ake nei ki a Koe, ko ngā tirohanga mai i te whatu o Tāu tohu atawhai. Kākahuria a ia ki te pueru o Tō atawhai e hahana ana ki ngā whakarei o te Wāhi Pai Rawa i te rangi, ā, kia whai maru a ia ki raro o te rākau o Tō kotahitanga whakahahanatia tana kanohi ki ngā rama o Tāu tohu aroha me Tō ngākau māhaki.
 

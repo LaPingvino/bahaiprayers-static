@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6200 in Marshallese'
 author = "Abdu'l-Bahá"
-tags = ['lang-mh', 'bpn-unsorted']
+tags = ['lang-mh', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Anij, ao Anij! Kwoj ao Kejatdrikdrik im ao Jitenburu, ao Kotobar eo Eutiej tata im ao Konan! Ilo etta im buru emol ij jar nan Yuk bwe Kwon likit io bwe in juon kokkalen yokwe eo Am eutiej ilo lal eo Am, juon lamp in jelalokjen eo Am ilubiljin menin komanman ko Am, im juon flag in jeramon eo ekwojarjar ilo ailin eo Am.
 

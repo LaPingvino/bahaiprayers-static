@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH03562 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH03562']
+tags = ['lang-en', 'BH03562', "Bahá'u'lláh"]
 +++
 He is the prayer-hearing, prayer-answering God!
 By Thy glory, O Beloved One, Thou giver of light to the world!  The flames of separation have consumed me, and my waywardness hath melted my heart within me.  I ask of Thee, by Thy Most Great Name, O Thou the Desire of the world and the Well-Beloved of mankind, to grant that the breeze of Thine inspiration may sustain my soul, that Thy wondrous voice may reach my ear, that my eyes may behold Thy signs and Thy light as revealed in the manifestations of Thy names and Thine attributes, O Thou within Whose grasp are all things!

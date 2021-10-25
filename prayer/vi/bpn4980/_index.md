@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4980 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', 'bpn-unsorted']
+tags = ['lang-vi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lạy Thượng Đế của con, con xin dâng lời cảm tạ vì Ngài đã thức tỉnh con và đem con về với lương tri. Sáng nay con thức dậy, mặt hướng về ánh huy hoàng Vầng Thái dương Mặc khải của Ngài đang chiếu sáng các bầu trời uy lực và uy lịnh của Ngài, nhận biết các dấu hiệu của Ngài, tin tưởng Thánh kinh của Ngài và gắn bó chặt chẽ với Dây yêu thương của Ngài.
 Với sức mạnh của ý chí Ngài và với quyền năng không ai cưỡng nỗi ý muốn của Ngài, con cầu xin Ngài biến những biểu lộ Ngài đã ban trong giấc ngủ của con thành nền móng vững chắc nơi ngự trị Tình thương của Ngài trong trái tim những kẻ yêu mến Ngài, và biến thành dụng cụ tốt nhất để chứng minh ân phúc và lòng từ bi vô lượng của Ngài.

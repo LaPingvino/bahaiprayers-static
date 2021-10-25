@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4816 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Alqış Sənə, Ey mənim Allahım! Yolunda çəkilən bəlalar olmasaydı, Sənin həqiqi aşiqlərin necə tanınardı; Eşqindən doğan müsibətlər olmasaydı, Sənin həsrətini çəkənlərin məqamı necə bilinərdi? Sənin qüdrətin mənə şəhadət verir! Sənə sitayiş edənlərin həmdəmi göz yaşlarıdır, Səni axtaranların təsəllisi könüllərin naləsidir və Səni görməyə tələsənlərin qidası onların sınmış ürəklərinin parçalarıdır.
 

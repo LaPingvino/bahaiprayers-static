@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5118 in Bahasa Indonesia'
 author = "Báb"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Báb"]
 +++
 Kemuliaan bagi-Mu, ya Tuhanku, Engkaulah yang telah mewujudkan segala sesuatu yang diciptakan melalui kekuatan perintah-Mu. Ya Tuhan! Bantulah mereka yang telah meninggalkan segala sesuatu kecuali Engkau dan berilah kepada mereka kemenangan yang hebat. Turunkanlah kepada mereka, ya Tuhan, rombongan malaikat-malaikat di surga dan di bumi dan segala yang ada di antara-nya, agar dapat membantu hamba-hamba-Mu, dan menolong serta menguatkan mereka, agar memungkinkan mereka mencapai keberhasilan, mendukung mereka dan menganugerahi mereka dengan kemuliaan, agar memberikan kepada mereka kehormatan dan keluhuran, serta menjadikan mereka kaya dan memenangkan mereka dengan kemenangan yang menakjubkan.
 

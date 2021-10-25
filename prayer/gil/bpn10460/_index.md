@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10460 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Aikai boong, Atuau, are Ko a tia ni katauia Am toro bwa a na taua bukin te akimamatam. Are iai are Ko katamaroa iai moan abokan Am Boki n Tua ake a karuoaki i bukiia Am karikibwai, ao ni kaota tamaroan Umwan Am kaetieti nako i mataia ni kabane ake n Am karawa ao ni kabane aika i aon te aonaaba.  Ko a tia ni kataua auan nako boong aikai ma te anua ae e okoro, are e aki kona ni warekaki irouia ni kabane ma ti Iroum, are Rabakauna e rabwati karikibwai ni kabane.  Ko a bon tia, naba, ni kataua mwakoron te anua aei n aron taekan Taburetin Am kaetieti ma Am koroboki are Ko a tia iai, n aron anne, n reke tibwaia iai n tatabemaniia aomatan nako ma utuun nako te aonaaba.
 I bukiia taan tangira aika a babane nanoia Ko a bon tia, n taekin Am kaetieti, ni kaawakinna i bukiia, ni katoaa te karangaina, ma mwangkon Uringam, O Ngkoe te Tia Tautaekaniia taan tautaeka!  Bon naakai ake a tia ni manging ni wainin Niniwanam aika a bati ngaia are a kaaki aia tabo ni wene i bukin nanoia ni kan karaoa Neboam ao ni kaotiotii Anuam nako, ao ni mwaawa man matuuia ni korakoran nanoia ni kan waaki nakon Kaaniam ao ni uataboa Am kakabwaia.  N taai nako a bon tia ni kabaraakii mataia nakon Rikiraken Bongin Am tangira n aakoi, ao ni katokai moaia nako Taberan Koburaken ranin Am Nanoanga are e tau n Am kakabwaia ni karawa ao te raoiroi.

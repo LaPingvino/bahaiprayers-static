@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10774 in Srpski српски'
 author = "Abdu'l-Bahá"
-tags = ['lang-sr', 'bpn-unsorted']
+tags = ['lang-sr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Obaveza vam je da održavate Svetkovinu jednom u svakom mesecu, pa makar da samo voda bude poslužena, Bog je uistinu namerio da zajedno okupi ljudska srca, pa makar to zahtevalo sva sredstva koja postoje na zemlji i na nebu.
                                                                  

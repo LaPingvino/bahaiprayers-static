@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9126 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Prière moyenne, à réciter trois fois par jour, matin, midi et soir.
 

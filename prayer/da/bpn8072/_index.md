@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8072 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Du gode Herre! Vi er tjenere ved Din tærskel, der søger ly ved Din hellige dør. Vi søger ingen anden tilflugt end denne stærke søjle, vi søger ingen havn undtagen din varetægt. Beskyt os, velsign os, hjælp os, få os alene til at elske Dit velbehag, tale til Din pris, alene følge sandhedens vej, at vi må blive rige nok til at kunne undvære alt undtagen Dig og modtage vore gaver fra Dit velgørende hav, at vi altid skal stræbe efter at ophøje Din sag og sprede Dine vellugte vidt og bredt, at vi må blive selvforglemmende og kun beskæftige os med Dig og skille os fra alt andet og blive grebet af Dig.
 

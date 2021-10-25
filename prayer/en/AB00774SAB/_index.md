@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00774SAB in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB00774SAB']
+tags = ['lang-en', 'AB00774SAB', "Abdu'l-Bahá"]
 +++
 *Come ye together in gladness unalloyed, and at the beginning of the meeting, recite ye this prayer:
 

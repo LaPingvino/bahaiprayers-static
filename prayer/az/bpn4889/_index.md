@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4889 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Odur Allah! Ya Rəbb mənim Allahım! Sən Ey Sənə üz tutan zəiflərin Köməyi, fəqirlərin Yardımçısı, çarəsizlərin Nicatı!
 

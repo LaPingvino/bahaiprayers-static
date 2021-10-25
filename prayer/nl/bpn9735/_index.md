@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9735 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Reciteer dit gebed telkens als u de raadskamer binnengaat met een hart dat bonst van liefde voor God en een tong die is gezuiverd van alles buiten het Hem gedenken, opdat de Almachtige u genadiglijk zal bijstaan om de hoogste overwinning te behalen.
 

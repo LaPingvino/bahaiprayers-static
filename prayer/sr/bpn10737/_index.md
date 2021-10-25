@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10737 in Srpski српски'
 author = "Abdu'l-Bahá"
-tags = ['lang-sr', 'bpn-unsorted']
+tags = ['lang-sr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Ti dobri Gospode! Sa horizonta nezavisnosti doneo si duše, koje poput sjajnog meseca obasjaše prostore srca i duše, i slobodne od atributa sveta postojanja pohitaše ka carstvu besmrtnosti. Kapima okeana Svoje ljubavi kvasio bi često vrtove njihovih srca sve dok ne bi zadobili neuporedivu svežinu i lepotu. Sveti dah Tvog božanskog jedinstva širio se nadaleko, sipajući svoju slast po celom svetu, opojnim mirisom ispunjavajući predele zemaljske.
 

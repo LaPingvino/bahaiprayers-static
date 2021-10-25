@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4414 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Lahat ng mga kaibigan ng Diyos. . . ay dapat na magbigay ng kanilang abot-kaya, gaanuman kaliit ang kanilang handog. Ang Diyos ay hindi nagpapapasan ng higit sa kakayahan ng bawat kaluluwa. Ang mga abuloy na ito ay dapat na magbuhat sa lahat ng mga sentro at sa lahat ng mga mananampalataya. . . O mga Kaibigan ng Diyos! Tiyakin na bilang kapalit ng mga ambag na ito, ang inyong agrikultura, ang inyong industriya at ang inyong pangangalakal ay pagpapalain ng maraming karagdagan, at mga mabubuting mga biyaya at mga kaloob. Sinumang gumawa ng isang mabuting bagay ay tatanggap ng sampung-ulit na gantimpala. Walang alinlangan na ang buhay na Panginoon ay bukas-palad na magpapatibay doon sa mga gumugugol ng kanilang kayamanan para sa Kaniyang landas.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9904 in አማርኛ.'
 author = "Bahá'u'lláh"
-tags = ['lang-am', 'bpn-unsorted']
+tags = ['lang-am', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *‹‹ዕለታዊ  የግዴታ ፀሎቶች በቁጥር ሶስት ናቸው፡፡ ምዕመኑ ከእነዚህ ከሶስቱ ፀሎቶች የፈለገውን እንዱን ለመምረጥ ሙሉ በሙሉ ነፃ ነው፤ ግን ከእነዚህ አንዱን አብረውት በሚሄዱት መመሪያዎች መሠረት የመድገም ግዴታ አለበት፡፡
 

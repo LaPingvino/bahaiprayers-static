@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7545 in Suomi'
 author = "Báb"
-tags = ['lang-fi', 'bpn-unsorted']
+tags = ['lang-fi', 'bpn-unsorted', "Báb"]
 +++
 Oi Herra! Sinulta etsin turvapaikkaa ja kaikkia Sinun merkkejäsi kohti viritän sydämeni. 
 Oi Herra! Olenpa matkalla tai kotona, askareissani tai työssäni, asetan koko luottamukseni Sinuun. 

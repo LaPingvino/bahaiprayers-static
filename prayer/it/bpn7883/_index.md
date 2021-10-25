@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7883 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Glorificato sei Tu, Signore mio Dio! Vedi la mia umile condizione e la casa ove dimoro e sei testimone delle mie difficoltà, delle mie urgenti necessità, dei miei travagli e delle afflizioni che subisco fra i Tuoi servi che recitano i Tuoi versetti e ne rifiutano il Rivelatore, che invocano i Tuoi nomi e cavillano con il loro Creatore, che cercano di avvicinarsi a Colui Che è il Tuo Amico e mettono a morte Colui Che è il Prediletto dei mondi.
 Apri i loro occhi, o mio Dio e mio Maestro, sì che vedano la Tua bellezza oppure fa’ che ritornino negli infimi abissi del fuoco. Il potere Tu hai di fare quello che vuoi. In verità, sei il Gloriosissimo, il Sapientissimo.

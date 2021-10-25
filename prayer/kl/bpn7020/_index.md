@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7020 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Guuti-aa, Guutiga! Peqqissimillunga Ilinnut saassimavunga, ilumullu Illit tassaavutit Isumakkeerisoq, Misiginneqataasoq. 
 Guuti-aa, Guutiga! Ilinnut uteqqissimavunga, ilumullu Illit tassaavutit Isumakkeeriuartoq, Saammaassisoq.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9267 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ô mon Dieu, ô mon Dieu, gloire à toi ! Tu as confirmé ma foi en ton unité, tu m’as attiré vers l’affirmation de ton unicité, tu m’as embrasé du feu de ton amour, tu m’as incité à te mentionner, à servir tes serviteurs et tes servantes.
 Ô Seigneur, aide-moi à faire preuve de modestie et d’humilité, renforce ma volonté de me détacher de tout et de me tenir au pan de ton vêtement de gloire afin que mon cœur s’emplisse de ton amour, ne laisse aucune place pour l’attrait du monde et l’attachement à ses attributs.

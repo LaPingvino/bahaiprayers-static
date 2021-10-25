@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3242 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Roem sy aan U, o Here my God! Dit is die dae waarop U alle mense gebied het om die vas te onderhou, dat hulle daardeur hulle siele mag reinig en hulself van alle gehegtheid aan iemand behalwe U mag vrystel, en dat dít uit hulle harte mag opstyg wat die hof van U majesteit waardig sal wees, en die setel van die openbaring van U eenheid goed mag pas. Vergun, o my Here, dat hierdie vas 'n rivier van lewegewende waters mag word, en die deug mag oplewer waarmee U dit bedeel het. Reinig U deur sy middel die harte van U dienaars wat die euwels van die wêreld gefaal het om te verhinder om hulle na U alglorieryke Naam te wend, en wat onbewoë gebly het deur die geraas en rumoer van diegene wat U mees luisterryke tekens ontken het, wat die koms van U Openbaarwording vergesel het, Wat U met U oppermag, U krag, U majesteit en heerlikheid beklee het. Hierdie is die dienaars wat, sodra U roepstem hulle bereik het, in die rigting van U genade gehaas het en nie van U teruggehou is deur die lotswisselinge van hierdie wêreld of deur enige menslike beperkings nie.
 

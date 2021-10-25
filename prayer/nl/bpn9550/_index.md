@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9550 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Gij barmhartig God! O Gij die machtig en krachtig zijt! O Gij allervriendelijkste Vader! Deze dienaren zijn bijeengekomen, keren zich tot U, smeken aan Uw drempel en verlangen naar Uw oneindige milddadigheid volgens Uw grootse belofte. Zij hebben geen ander doel dan Uw welbehagen. Zij hebben geen andere bedoeling dan het dienen van de wereld der mensheid.
 O God! Laat dit gezelschap stralen. Maak de harten mild. Schenk de gaven van de Heilige Geest. Begiftig hen met hemelse kracht. Zegen hen met hemels verstand. Vergroot hun oprechtheid, zodat zij zich volkomen nederig en boetvaardig tot Uw koninkrijk mogen wenden en zich inzetten voor dienstbaarheid aan de wereld der mensheid. Moge ieder een stralende kaars worden. Moge ieder een fonkelende ster worden. Moge ieder prachtig van kleur en welriekend van geur worden in Gods koninkrijk.

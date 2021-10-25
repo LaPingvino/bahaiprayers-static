@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10440 in Kiribati'
 author = "Abdu'l-Bahá"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada 
 O te Atua, Atuau!  Ko noora aron roroon te rotongitong ae rabuni mwakoro n aono ni kabane, aroia ni kabane aono aika a urarake ma ain te kauntaeka, ao ain te buaka ao te tiritiri e a urababa rinanon nako te aono ni Mainiku ao Maeao.  Rara a waanako, maate a raea iaontano, taian ata aika korouaaki a bwaka iaon bubuntanon te marae ni buaka.

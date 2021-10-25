@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB02024 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB02024']
+tags = ['lang-en', 'AB02024', "Abdu'l-Bahá"]
 +++
 He is God!
 O Lord my God!  O Thou Helper of the feeble, Succorer of the poor and Deliverer of the helpless who turn unto Thee.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00169FRA in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB00169FRA']
+tags = ['lang-en', 'AB00169FRA', "Abdu'l-Bahá"]
 +++
 ##Revealed to the Bahá'ís of Canada and Greenland
 Praise be to Thee, O my God! These are Thy servants who are attracted by the fragrances of Thy mercifulness, are enkindled by the fire burning in the tree of Thy singleness, and whose eyes are brightened by beholding the splendors of the light shining in the Sinai of Thy oneness.

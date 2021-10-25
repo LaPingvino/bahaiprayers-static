@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3593 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O du barmhjertige Gud! O du  end t mektig og sterk! O du kjærligste Far! Disse tjenere har samlet  end t vender seg mot deg, bønnfaller din terskel og lengter etter dine utallige gaver fra den faste forvissning de har om deg. De har intet annet mål enn ditt velbehag. De har intet annet til hensikt enn å tjene menneskehetens verden.
  

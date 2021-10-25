@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9307 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Naw-Rúz
 

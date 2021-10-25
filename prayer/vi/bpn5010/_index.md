@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5010 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', 'bpn-unsorted']
+tags = ['lang-vi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lạy Thượng Đế của con, xin cho con được giải khát bằng những làn nước ngát hương vĩnh cửu của Ngài. Lạy Đấng Hy vọng của con, xin cho con được nếm trái ngọt trên cây sinh tồn của Ngài.
 

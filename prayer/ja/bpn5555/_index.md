@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5555 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 おお神よ、　わが神よ。   　私は胸を弾はずませ、　　　涙しながら嘆願いたします。　毎朝、毎夕、あなたの
 御名が述べられるこの礼拝堂、この建物を造り上げるために力を尽くす者みなを援助し給うように。

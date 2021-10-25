@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11175 in नेपाली'
 author = "Abdu'l-Bahá"
-tags = ['lang-ne', 'bpn-unsorted']
+tags = ['lang-ne', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *शिक्षण कार्यको लागि विभिन्न स्थानमा भ्रमण गर्ने व्यक्तिले पर्वत, मैदान, मरुभूमि तथा समुद्रमा यो प्रार्थना पाठ गरोस् । 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10340 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Förhärligad vare Du, o Herre min Gud!  Varje insiktsfull människa erkänner Din överhöghet och Ditt herravälde, och varje klarsynt öga uppfattar Ditt majestäts storhet och Din makts betvingande kraft. Prövningarnas vindar är oförmögna att hålla tillbaka dem som åtnjuter Din närhet från att vända ansiktet mot Din härlighets horisont, och vedermödornas stormar kan endast misslyckas med att föra bort och hindra dem, som är helt hängivna Din vilja, från att närma sig Din förgård.
 Det synes mig som om Din kärleks lampa brinner i deras hjärtan och som om Din ömhets ljus är tänt i deras bröst. Motgångar kan ej lyckas med att fjärma dem från Din sak, och ödets skiftningar kan aldrig förmå dem att förirra sig bort från Ditt välbehag.

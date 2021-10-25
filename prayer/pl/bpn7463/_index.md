@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7463 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Dni Międzykalendarzowe, zwane także dniami Ayyám-i-Há, bezpośrednio poprzedzają miesiąc postu i trwają, w zależności od roku, cztery lub pięć dni. Są one czasem przygotowania do Postu, dniami gościnności, dobroczynności i wręczania podarunków.
    

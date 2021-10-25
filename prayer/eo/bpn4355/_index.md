@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4355 in Esperanto'
 author = "Báb"
-tags = ['lang-eo', 'bpn-unsorted']
+tags = ['lang-eo', 'bpn-unsorted', "Báb"]
 +++
 Gloro estu al Vi, ho Eternulo, Vi Kiu ekzistigis ĉion kreitan per la potenco de Via ordono. Ho Eternulo! Asistu tiujn, kiuj abnegaciis ĉion alian krom Vi, kaj donu al ili grandan venkon. Sendu sur ilin, ho Eternulo, la tutan aron da anĝeloj en la ĉielo kaj sur la tero kaj ĉie inter tiuj, por helpi Viajn servantojn, por asisti kaj fortigi ilin, por igi ilin kapablaj atingi sukceson, por subteni ilin, por kroni ilin per gloro, por doni al ili honoron kaj altecon, por riĉigi ilin kaj por igi ilin triumfantaj en brila venko. Vi estas ilia Sinjoro, la Sinjoro de la ĉieloj kaj de la tero, la Sinjoro de ĉiuj mondoj. Plifortigu tiun ĉi Kredon, ho Eternulo, per la forto de ĉi tiuj servantoj kaj ebligu al ili superi ĉiujn popolojn de la mondo; ĉar, vere, ili estas Viaj servantoj malligitaj de ĉio alia krom Vi, kaj Vi vere estas la protektanto de la fidelaj kredantoj. Permesu Vi, ho Eternulo, ke iliaj koroj, per lojaleco al tiu ĉi Via nerompebla Kredo, plifortiĝu super ĉio en la ĉielo kaj sur la tero kaj kio ajn estas inter ili; fortigu, ho Eternulo, iliajn manojn per la signoj de Via majesta potenco, por ke ili manifestu Vian potencon antaŭ la okuloj de la tuta homaro.

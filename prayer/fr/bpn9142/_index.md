@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9142 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dieu, mon Dieu, je me tourne en repentir vers toi et tu es en vérité l’Indulgent, le Compatissant.
 Ô Dieu, mon Dieu, je reviens à toi et tu es en vérité le Magnanime, le Clément.

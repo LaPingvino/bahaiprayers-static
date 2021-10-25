@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9561 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O mijn God! O mijn God! Waarlijk, ik roep U aan en smeek aan Uw drempel, en vraag U om al Uw barmhartigheid tot deze zielen te laten neerdalen. Maak hen geschikt voor Uw gunst en Uw waarheid.
 O Heer! Verenig en verbind de harten, breng alle zielen in harmonie, en verblijd aller geest door de tekenen van Uw heiligheid en één-zijn. O Heer! Laat deze gezichten stralen met het licht van Uw één-zijn. Sterk de lendenen van Uw dienaren in dienstbaarheid aan Uw koninkrijk.

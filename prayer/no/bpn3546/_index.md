@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3546 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Han er den medlidende, den overmåte gavmilde!
  

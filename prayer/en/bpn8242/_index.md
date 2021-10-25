@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8242 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #Húr-i-‘Ujáb
 ##Tablet of the Wondrous Maiden

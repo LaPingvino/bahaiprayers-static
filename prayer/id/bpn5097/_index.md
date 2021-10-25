@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5097 in Bahasa Indonesia'
 author = "Abdu'l-Bahá"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ya Tuhan! Jadikanlah anak-anak ini pohon-pohon yang tiada banding taranya. Biarkanlah mereka tumbuh dan berkembang di Taman Perjanjian-Mu dan anuge- rahilah mereka dengan kesegaran dan keindahan melalui curahan-curahan awan dari Kerajaan Abhá.
 

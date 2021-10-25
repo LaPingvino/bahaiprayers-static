@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4792 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O duanı Eşidən, ona cavab Verən Allahdır! And olsun cəlalına, Ey Məhbub, Sən Ey aləmi Nurlandıran! Hicran atəşi məni yandırdı, asiliyim ürəyimi əritdi. Sənin Ən Böyük Adına and verirəm, Sən Ey aləmin Məqsudu və bəşərin Məhbubu, izn ver ki, nəfəsinin rahiyəsi mənim ruhumu qidalandırsın, ecazkar Nidan qulağıma yetişsin, gözlərim Sənin adlarının və sifətlərinin məzhərlərində təzahür edən əlamətlərini və Sənin nurunu görsün, Sən Ey ovcunda bütün şeylərin cilovunu Saxlayan!
 

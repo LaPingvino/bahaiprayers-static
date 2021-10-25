@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2244 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O, Tu a Cărui pomenire e desfătarea sufletelor tuturor celor care tânjesc după Tine, al Cărui nume e încântarea inimilor tuturor celor ce sunt cu totul devotaţi voinţei Tale, a Cărui laudă e încălzită la sânul celor ce s-au apropiat de curtea Ta, a Cărui faţă e dorinţa arzătoare a tuturor celor ce Ţi-au recunoscut adevărul, a Cărui încercare e vindecarea bolilor celor ce-au îmbrăţişat Cauza Ta, a Cărui năpastă e aspiraţia cea mai înaltă a celor ce s-au scuturat de orice ataşament în afară de Tine!
 

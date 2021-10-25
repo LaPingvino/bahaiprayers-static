@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2777 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Të gjithë miqtë e Perëndisë... duhet të kontribuojnë sa të kenë mundësi, sado modeste qoftë oferta e tyre. Perëndia nuk e ngarkon njeriun tej asaj që ky ka mundësi. Kontribute të tilla duhet të vijnë nga të gjitha qendrat e nga të gjithë besimtarët...O miq të Perëndisë! Të jeni të sigurt se, pas këtyre kontributeve, bujqësia juaj, industria dhe tregtia juaj do të bekohen me rritje të shumëfishta, me dhunti e dhurata të mëdha. Ai që vjen me një vepër të mirë do të marrë shpërblim të dhjetëfishtë. Nuk ka dyshim që Zoti i gjallë do t'i mbështesë pakursim ata që shpenzojnë pasurinë e tyre në rrugën e Tij.
 

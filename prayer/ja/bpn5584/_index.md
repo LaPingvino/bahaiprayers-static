@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5584 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##女性のための故人の祈り
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6415 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dy enw Di yw fy iachâd O fy Nuw, a choffadwriaeth amdanat Ti yw fy meddyginiaeth. Agosrwydd atat Ti yw fy ngobaith, a chariad atat Ti yw fy nghydymaith. Dy drugaredd tuag ataf fi yw fy iachâd a’m cymorth yn y byd hwn a’r byd i ddyfod.  Tydi, yn wir, wyt yr Holl Haelionus, a’r Holl Wybodol, a’r Holl Ddoeth.
 

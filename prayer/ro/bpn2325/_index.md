@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2325 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dumnezeul meu, Focul meu şi Lumina
 mea! Zilele pe care Tu le-ai numit Ayyám-i-Há30 în Cartea Ta au început, o, Tu, Care eşti Regele numelor, şi postul pe care Pana Ta prea slăvită a poruncit să-l ţină toţi cei ce sunt în împărăţia creaţiei Tale se apropie. Te implor, o, Domnul meu, prin aceste zile şi prin cei care în această perioadă s-au agăţat de funia poruncilor Tale şi au ţinut cu străşnicie cârma preceptelor Tale, să îngădui ca fiecărui suflet să-i fie hărăzit un lăcaş înlăuntrul hotarelor curţii Tale şi un loc la revelarea splendorilor luminii chipului Tău.

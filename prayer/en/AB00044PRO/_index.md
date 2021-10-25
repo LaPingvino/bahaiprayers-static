@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00044PRO in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB00044PRO']
+tags = ['lang-en', 'AB00044PRO', "Abdu'l-Bahá"]
 +++
 O Thou Provider! Thou hast breathed over the friends in the West the sweet fragrance of the Holy Spirit, and with the light of divine guidance Thou hast lit up the western sky. Thou hast made those who were once remote to draw near unto Thyself; Thou hast turned strangers into loving friends; Thou hast awakened those who slept; Thou hast made the heedless mindful.
 

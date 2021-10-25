@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8945 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 此書簡在巴哈歐拉和巴孛的陵殿前吟誦用。也常作為祂們週年紀念的禱文。
 

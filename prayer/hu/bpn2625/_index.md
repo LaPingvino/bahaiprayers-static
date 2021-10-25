@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2625 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ó, könyörületes Isten! Köszönet Néked, mert megébresztettél és öntudatra keltettél. Látó szemet adtál nékem, és halló füllel tiszteltél meg, elvezettél királyságodba, és ösvényedre irányítottad lépteim. Megmutattad nékem a helyes utat, és Általad beléphettem a Szabadulás Bárkájába. Ó, Isten! Tarts meg állhatatosságban, és tégy engem szilárddá és hűségessé. Védj meg az erőszakos próbáktól, és óvj és oltalmazz engem Szövetséged és Testamentumod gránitfalú erődjében. Te vagy az Erős. Te vagy a Látó. Te vagy a Halló.
 

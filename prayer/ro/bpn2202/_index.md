@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2202 in România'
 author = "Báb"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Báb"]
 +++
 Slavă ţie, Doamne, Dumnezeul meu! Te rog să mă ierţi pe mine şi pe aceia ce sprijină Credinţa Ta. Cu adevărat, Tu eşti Domnul suveran, Cel Iertător, Cel Preageneros. O, Dumnezeul meu! Ajută-i pe slujitorii Tăi lipsiţi de cunoaştere să fie acceptaţi în Cauza Ta; căci de îndată ce vor afla de Tine, vor mărturisi adevărul Judecăţii de Apoi şi nu vor tăgădui revelaţiile generozităţii Tale. Trimite asupra lor mărturiile harului Tău şi acordă-le, oriunde s-ar afla, o parte mărinimoasă din ceea ce Tu ai hotărât pentru slujitorii Tăi devotaţi. Tu eşti, cu adevărat, Cârmuitorul Suprem, Atotdarnicul, Cel Nesfârşit de Bun.
 

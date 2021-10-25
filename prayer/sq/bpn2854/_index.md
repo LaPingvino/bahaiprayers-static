@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2854 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Novruzi, 21 mars, është dita e parë e vitit Bahá'í dhe një ditë gëzimi e mikpritjeje.
 

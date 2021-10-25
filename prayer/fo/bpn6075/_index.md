@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6075 in Føroyar'
 author = "Bahá'u'lláh"
-tags = ['lang-fo', 'bpn-unsorted']
+tags = ['lang-fo', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Vælsignaður er tann blettur,
 og tað hús, 

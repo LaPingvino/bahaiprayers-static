@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10727 in Монгол хэл'
 author = "Bahá'u'lláh"
-tags = ['lang-mn', 'bpn-unsorted']
+tags = ['lang-mn', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(Навруз буюу 3 дугаар сарын 21-ний өдөр бол Бахайн жилийн эхний өдөр бөгөөд баяр цэнгэл, найр наадмын өдөр юм.)
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10413 in Kiribati'
 author = "Abdu'l-Bahá"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Te Atua ae E Nanoanga! Tooro aikai a rairaki nakon Am abanuea n ukoukora Am tituaraoi ao am bwai n aakoi. Te Atua! Karikii nanoia bwa a na raoiroi ao n itiaki n te aro bwa a aonga ni kona n butimwaea Am tangira. Kaitiaki ao katabui tamnei bwa e aonga otan Taain te Koaua n otanako irouia. Kaitiakii ao kamwawai maata bwa a aonga n nora Otam. Kaitiakii ao kamwawai taninga bwa a aonga n ongo ana wewete Am abanuea.
 Te Uea! Ti bon ngore, ma ko bon korakora. Ni koaua, ti bon kainnano, ma ko bon kaubwai. Ngaira taan ukeuke, ao Ngkoe bon Ngaia are ti Ukoukoriko. Te Uea! Nanoangaira ao kabwarai ara bure, anganira te konabwai ao te nano n tauraoi bwa ti aonga n tau ni butimwaea nanom ao ni katikaki nakon Am abanuea, bwa ti aonga ni moi man Am ran ni kamaiu ae akea tokina, bwa ti na niniaki n ain Am tangira, ao ni kamaiuaki man ikeiken te Tamnei ae e Raoiroi n te tienture ae e ota aio.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2456 in Русский'
 author = "Bahá'u'lláh"
-tags = ['lang-ru', 'bpn-unsorted']
+tags = ['lang-ru', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##краткая обязательная молитва
 *Произносится единожды в сутки, в полдень

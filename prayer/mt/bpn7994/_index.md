@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7994 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', 'bpn-unsorted']
+tags = ['lang-mt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #TALBA OBBLIGATORJA QASIRA    
 ##TINGĦAD DARBA F’ERBGHA U GĦOXRIN SIEGĦA, F’NOFS IN-NHAR

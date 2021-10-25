@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4846 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ey Allah, mənim Allahım! Sən görürsən, qara zülmət bütün diyarları necə bürüyür. Bütün ölkələr ixtilaf atəşində necə yanırlar, müharibə və qətliyam Şərq və Qərbi necə oda qalayıb. Qanlar tökülür, bədənlər torpağa sərilib, üzülümüş başlar savaş meydanında toz-torpağa düşüb.
 

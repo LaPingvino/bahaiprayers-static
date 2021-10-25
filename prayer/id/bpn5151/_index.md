@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5151 in Bahasa Indonesia'
 author = "Abdu'l-Bahá"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ya Tuhan! Jadikanlah pemuda ini cemerlang dan kurniakanlah rahmat-Mu pada insan miskin ini. Anugerahilah ilmu padanya, tambahlah kekuatan padanya setiap fajar dan jagalah ia di bawah naungan perlindungan-Mu agar ia dapat dibebaskan dari kesalahan-kesalahan, dapat mengabdikan diri untuk berbakti kepada Agama-Mu, dapat membimbing orang- orang yang membangkang, memberi petunjuk kepada mereka yang malang, serta membebaskan yang tertawan dan membangunkan orang-orang yang lalai agar semuanya dapat diberkati dengan mengingat dan memuji Engkau. Engkaulah Yang Maha Kuasa dan Maha Kuat.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5581 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 おおわが神よ、罪を許し給う御方よ。賜物たまものを授け給う御方よ。苦しみをぬぐいさり給う御方よ。
 　肉体の衣ころもを捨て、霊の世界にのぼった人々の罪を許し給うよう切に嘆願いたします。

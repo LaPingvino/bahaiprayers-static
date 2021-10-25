@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3563 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O du gode Herre! Lovet være du for at du har vist oss ledelsens vei, åpnet rikets dører og åpenbart deg gjennom virkelighetens sol. Til de blinde har du gitt syn; til de døve har du skjenket hørsel; du har gjenoppvekket de døde; du har gjort de fattige rike; du har vist veien for dem som er kommet på avveier; du har ledet dem som har uttørrede lepper til ledelsens kilde; du har tillatt de tørstende fisker å nå virkelighetens osean; og du har innbudt de flakkende fugler til nådens rosenhave.
  

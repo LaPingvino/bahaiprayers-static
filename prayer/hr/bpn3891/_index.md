@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3891 in Hrvatski'
 author = "Bahá'u'lláh"
-tags = ['lang-hr', 'bpn-unsorted']
+tags = ['lang-hr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *"Baha'i brak je sjedinjenje i duboka naklonost dvoje ljudi. Ipak, oni moraju biti krajnje oprezni i upoznati naravi jedno drugoga. Ova vječna veza treba se osigurati čvrstom pogodbom čiji bi cilj bio: njegovati sklad, prijateljstvo i jedinstvo, te dostići vječni život."
 

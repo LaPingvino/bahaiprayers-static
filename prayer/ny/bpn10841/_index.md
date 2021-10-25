@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10841 in Chichewa'
 author = "Bahá'u'lláh"
-tags = ['lang-ny', 'bpn-unsorted']
+tags = ['lang-ny', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Pemphero lowululidwa ndi Bahá′u′lláh lotchedwa “Qad-Ihtaraqa ‘I-Mukhlisun” 
 

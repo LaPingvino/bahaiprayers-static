@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5925 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', 'bpn-unsorted']
+tags = ['lang-ca', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Oh Tu, bondadosa i amant Providència; L’Orient està en moviment i l’Occident s’agita com les eternes ones de la mar. Es difonen les suaus brises de la santedat i, des del Regne Invisible brillen resplendents. S’entonen els himnes de la divina unitat i flamegen les ensenyes del poder celestial. Es fa sentir la Veu angelical i, igual que el bram del leviatan, entona la crida a l’abnegació i l’evanescència. La crida de triomf de Ya Bahá’u’l-Abhá ressona arreu, i en totes les regions s’anuncia la crida de Ya ‘Alíyyu’l-‘Alá . No hi ha commoció al món, tret d’aquella, de la Glòria de l’Únic Conqueridor de Cors, i no hi ha tumult tret de l’onatge de l’amor d’Ell l’Incomparable, el Benamat.
 Els estimats del Senyor, amb el Seu hàlit almescat, resplendeixen com lluminoses candeles en tots els climes, i els amics del Tot Misericordiós com flors què s’obren, es troben en totes les regions. Ni per un moment descansen, no respiren sinó en la recordació de Tu, i no anhelen sinó servir a la Teva Causa. En els prats de la veritat són com rossinyols de dolç cant, i en el jardí de guia són com poncelles d’encesos colors. Amb flors místiques adornes els passejos del Jardí de la Realitat; com ondulants xipresos flanquegen les ribes de la Voluntat Divina. Com brillants estels fulguren sobre l’horitzó de l’existència; com astres resplendents brillen al firmament del món. Són manifestacions de la gràcia celestial, i aurores de llum de l’existència divina.

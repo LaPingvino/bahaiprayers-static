@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9131 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Prière à dire à la fin de la réunion de l’assemblée spirituelle.
 Ô Dieu, ô Dieu ! du royaume invisible de ton unité, regarde-nous réunis en cette assemblée spirituelle, croyants en toi, confiants en tes signes, fermes en ton alliance et en ton pacte, attirés vers toi, embrasés par le feu de ton amour et sincères en ta cause. Nous sommes des serviteurs en ta vigne, des apôtres de ta religion, de dévoués adorateurs de ta face, humbles envers tes bienaimés, soumis devant ta porte. Nous t’implorons de nous confirmer dans le service de tes élus et de nous soutenir par tes armées invisibles, de ceindre nos reins pour te servir, de faire de nous des sujets obéissants et fervents qui communient avec toi.

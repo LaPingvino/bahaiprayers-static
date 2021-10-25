@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6798 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O my God! O my God! I am a servant attracted to Thee, humbly drawing near to the door of Thy Oneness and supplicating the Kingdom of Thy mercy.
 

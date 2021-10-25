@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7634 in Kreyol Ayisyen'
 author = "Abdu'l-Bahá"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Reyini nou ansanm avèk yon jwa ki pa gen tach, e nan kòmansman reyinyon an, resite priyè sa a:
 O Ou menm Senyè Wayòm nan! Menm si kò nou rasanble isi a ansanm, men fòs lanmou Ou ap lemante kè nou pote yo ale, epi reyon limyè figi Ou genyen ap transpòte lespri nou ale. Menm si nou fèb, n’ap tann revelasyon pisans ak pouvwa Ou. Menm si nou pòv, e nou pa gen byen materyèl ni mwayen, kanmenm nou pran richès nan trezò Wayòm Ou an. Menm si nou tankou gout dlo yo, men nou toujou ap pran nan pwofondè Oseyan Ou yo. Malgre se lonbraj nou ye, kanmenm nou klere nan glwa Solèy briyan Ou an.

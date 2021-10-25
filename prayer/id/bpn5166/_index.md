@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5166 in Bahasa Indonesia'
 author = "Abdu'l-Bahá"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ialah Tuhan!
 Ya Tuhan yang tiada banding tara-Nya! Dalam kearifan-Mu yang maha kuasa, Engkau telah memerintahkan perkawinan kepada manusia, supaya keturunan-keturunan manusia saling susul menyusul dalam dunia fana ini, dan supaya senantiasa selama dunia ini ada, mereka dapat menyibukkan diri di Ambang Pintu ketunggalan-Mu dengan pengabdian dan penyembahan, dengan pujaan dan pujian.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7358 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Chwała Ci, o mój Boże! Gdyby nie udręki doznawane na Twojej ścieżce, jak można by rozpoznać prawdziwie miłujących Ciebie, a gdyby nie trudy znoszone z miłości do Ciebie, jak mogłaby objawić się ranga tych, którzy tęsknią za Tobą? Twoja potęga jest mi świadkiem! Towarzyszami wszystkich, którzy Cię wielbią, są ronione przez nich łzy, a pocieszycielami tych, którzy Cię szukają, są wydawane przez nich jęki, zaś pokarmem tych, którzy spieszą na spotkanie z Tobą, są okruchy ich złamanych serc.
    

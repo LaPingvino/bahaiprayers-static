@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4875 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ey mənim Allahım! Sən Ey günahları Bağışlayan, bəxşişlər Əta Edən, qəm-qüssəni Dağıdan!
 

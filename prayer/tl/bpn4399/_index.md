@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4399 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O aking Diyos, ang Diyos ng pagpapala at kahabagan! Ikaw yaong Haring sa pamamagitan ng Kaniyang nag-uutos na salita ay nalikha ang buong santinakpan; at Ikaw yaong Mapagpala sa Lahat na ang mga gawa ng Kaniyang mga tagapaglingkod ay hindi nakahadlang sa Kaniyang biyaya, ni hindi nagbigay kabiguan sa mga pagpapahayag ng Kaniyang pagpapala.
 

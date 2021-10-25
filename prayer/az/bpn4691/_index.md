@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4691 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ey mənim Allahım, mənim Mövlam, mənim Məqsudum! Sənin bu bəndən Sənin qayğı və hifzini diləməklə Sənin Rəhmətinin sıgınacağında və Sənin fəzl çadırının kölgəsində dincəlmək istəyir.
 

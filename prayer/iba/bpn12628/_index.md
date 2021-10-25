@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12628 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Petara, Petara aku! Tu pengasuh- indu Nuan minta ngagai Nuan, arap ba Nuan, nungaka mua iya ngadap
 Nuan,	minta	enggau	bebendar	ngagai	Nuan	ngambika nibarka pemeri serega Nuan ba iya, lalu madah ngagai iya misteri spiritual Nuan, lalu tenggau ba iya panchar KuasaPetara ba Nuan.

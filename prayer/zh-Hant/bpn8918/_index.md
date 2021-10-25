@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8918 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 任何為傳導而旅行各地者，在跨越高山、沙漠、陸地、海洋時皆應詳讀這一禱文。
 

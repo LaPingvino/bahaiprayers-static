@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6189 in Marshallese'
 author = "Bahá'u'lláh"
-tags = ['lang-mh', 'bpn-unsorted']
+tags = ['lang-mh', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##JAR EO EKADU
 

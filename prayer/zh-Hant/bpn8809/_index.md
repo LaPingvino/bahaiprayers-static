@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8809 in 繁體中文'
 author = "Báb"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Báb"]
 +++
 我的主啊！我向祢尋求庇護，對祢的一切徵象全神貫注。
 主啊！無論居家或旅行，從事職業或工作，我都全心全意，對祢無比信從。

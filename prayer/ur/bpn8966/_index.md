@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8966 in اُردُو'
 author = "Bahá'u'lláh"
-tags = ['lang-ur', 'bpn-unsorted']
+tags = ['lang-ur', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##بڑی دُعائے شفا
 اس خدا کے نام سے جو شافی ہے، کافی ہے، ناصر ہے، رحمان ہے اور رحیم ہے

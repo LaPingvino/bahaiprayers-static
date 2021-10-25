@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6857 in Canadian Indigenous'
 author = "Abdu'l-Bahá"
-tags = ['lang-nai-CA', 'bpn-unsorted']
+tags = ['lang-nai-CA', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 * Stó:lõ Shxweli Halq'eméylem, the language of the Soowahlie People
 

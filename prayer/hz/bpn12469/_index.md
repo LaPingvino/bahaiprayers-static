@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12469 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', 'bpn-unsorted']
+tags = ['lang-hz', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Oshili Ohaiti, Eli olo efiku
 (Verily I Say, this is the Day)

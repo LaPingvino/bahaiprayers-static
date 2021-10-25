@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2664 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ó, Isten, én Istenem! Gyógyító erőd óceánjára és kegyelmed ragyogó Napcsillagára könyörgöm Hozzád, és Nevedre esedezem, mely által lebírtad Te minden szolgádat, és magasztos Szavad mindent átható erejére és fenséges Tollad hatalmára kérlek, s csakúgy irgalmadra, mely már azelőtt létezett, hogy megteremtettél mindeneket a mennyben és a földön, tisztíts meg engem kegyelmed áradó vizével minden szenvedéstől és lelki bajtól, gyengeségtől és erőtlenségtől.
 

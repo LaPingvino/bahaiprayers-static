@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9633 in Nederlands'
 author = "Báb"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Báb"]
 +++
 Alle majesteit en heerlijkheid, o mijn God, en alle heerschappij en licht en grootsheid en pracht zij U. Gij verleent soevereiniteit aan wie Gij wilt en onthoudt haar aan wie Gij wenst. Geen God is er dan Gij, de Albezitter, de Verhevenste. Gij zijt Degeen die uit het niets het universum en allen die er in verkeren hebt geschapen. Niets buiten Uzelf is U waardig en allen buiten U zijn als verworpenen in Uw heilige tegenwoordigheid en als niets naast de heerlijkheid van Uw eigen Wezen.
 Verre zij het van mij Uw deugden te prijzen met iets anders dan dat waarmee Gij Uzelf hebt geprezen in Uw gezaghebbend Boek, waarin Gij zegt: “Ogen kunnen Hem niet bereiken, doch Hij bereikt alle ogen. Want Hij is de Scherpzinnige, de Alziende.”  Ere zij U, o mijn God, want geen enkel verstand of inzicht, hoe scherp of oordeelkundig ook, kan ooit de aard van het onbeduidendste Uwer tekenen bevatten. Waarlijk, Gij zijt God, geen God is er buiten U. Ik getuig dat alleen Gijzelf de enige uitdrukking zijt van Uw eigenschappen, dat de lof van niemand buiten U ooit Uw heilige hof kan bereiken noch Uw eigenschappen ooit door iemand buiten Uzelf kunnen worden doorgrond.

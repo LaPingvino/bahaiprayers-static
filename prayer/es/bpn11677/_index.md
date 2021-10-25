@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11677 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Reuníos con verdadera alegría, y recitad esta oración al principio de la reunión
 

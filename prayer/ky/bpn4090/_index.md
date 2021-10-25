@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4090 in Кыргыз'
 author = "Bahá'u'lláh"
-tags = ['lang-ky', 'bpn-unsorted']
+tags = ['lang-ky', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Скрижаль Бахаулланын жана Бабдын Ыйык жайында окулат. Аны ошодой эле Алардын жылдыгынын күндөрүндө да окулат.
 

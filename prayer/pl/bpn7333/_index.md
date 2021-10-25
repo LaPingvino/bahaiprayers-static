@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7333 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Chwała bądź Tobie, o Boże mój! Oto są Twoi słudzy, zwabieni wonią Twojej łaskawości, rozgorzali ogniem płonącym w Drzewie Twojej jedyności, których oczy rozjaśnił widok wspaniałości światła bijącego od Synaju Twojej jedności.
    

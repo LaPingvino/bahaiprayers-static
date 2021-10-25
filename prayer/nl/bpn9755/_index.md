@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9755 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *(Dit door Abdu’l-Baha geopenbaarde gebed wordt bij zijn graftombe gelezen. Het wordt ook voor persoonlijk gebed gebruikt.)
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4853 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ucasan Sən, Ya Rəbb, mənim Allahım! Səni and verirəm Sənin fəzl yellərinə və Sənin məqsədinin Məşriqləri və İlhamının Məzhərləri olan Kəslərə - mənə və Sənin üzünü axtaran Kəslərə, Sənin bol fəzlinə yaraşanları, bəxşiş və lütflərinə layiq olanları nazil eylə; mən yoxsul və tənhayam, İlahi! Öz zənginlik dəryanda məni qərq eylə; təşnəyəm, mənə Öz inayətinin dirilik suyundan içir.
 

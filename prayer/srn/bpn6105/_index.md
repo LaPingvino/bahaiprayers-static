@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6105 in Sranan Tongo'
 author = "Abdu'l-Bahá"
-tags = ['lang-srn', 'bpn-unsorted']
+tags = ['lang-srn', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##BEGI FU DEDE SEMBE 
 Ke mi Gaangadu! Ke Ju di ta puu zonu, Ju di ta da u bunu, Ju di ta puu fuka. Tuutuu, mi ta begi Ju fu puu hii zonu da de sëmbë di go disa di dotisinki aki, 

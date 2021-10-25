@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5082 in தமிழ்'
 author = "Bahá'u'lláh"
-tags = ['lang-ta', 'bpn-unsorted']
+tags = ['lang-ta', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##சுருக்கமான கட்டாயப்பிரார்த்தனை
  

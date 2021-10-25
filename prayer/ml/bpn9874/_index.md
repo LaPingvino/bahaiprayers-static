@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9874 in മലയാളം'
 author = "Bahá'u'lláh"
-tags = ['lang-ml', 'bpn-unsorted']
+tags = ['lang-ml', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ദൈവം എനിക്കുമതിയായവനാകുന്നു. അവന്‍ സത്യമായും എല്ലാം തികഞ്ഞവനാകുന്നു. വിശ്വാസമര്‍പ്പിക്കുന്നവരവനില്‍ വിശ്വസിക്കട്ടെ.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4498 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Magtipon kayo sa dalisay na kagalakan, at sa simula ng pagpupulong, bigkasin ninyo ang panalanging ito:
 

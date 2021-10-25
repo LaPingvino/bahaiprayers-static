@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH00154FIR in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH00154FIR']
+tags = ['lang-en', 'BH00154FIR', "Bahá'u'lláh"]
 +++
 *The Kitáb-i-Aqdas states: “We have commanded you to pray and fast from the beginning of maturity [15 years]; this is ordained by God, your Lord and the Lord of your forefathers...  The traveler, the ailing, those who are with child or giving suck, are not bound by the fast... Abstain from food and drink from sunrise to sundown, and beware lest desire deprive you of this grace that is appointed in the Book.”
 

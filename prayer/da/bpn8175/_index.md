@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8175 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Gud, min Gud! Lovpriset være Du for at have tændt den guddommelige kærligheds ild i det hellige træ på toppen af det højeste bjerg: Det træ som "hverken er fra øst eller vest,”
 

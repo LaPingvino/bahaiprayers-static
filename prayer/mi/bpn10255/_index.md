@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10255 in Māori'
 author = "Bahá'u'lláh"
-tags = ['lang-mi', 'bpn-unsorted']
+tags = ['lang-mi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Kia whakakōroriatia katoatia tēnei Rā, te Rā i horahia ai ngā kakara o te aroha tohu ki runga ki ngā mea katoa i waihangatia ai, te Rā nā te kaha o tōna whakapainga, kīhai i taea ai te whakataetae e ngā wā o mua, o neherā, te Rā e tahuri ai te mata o te Namata o Ngā Rā ki Tōna nōhanga tapu. Ina rā ngā reo o ngā mea katoa i waihangatia ai, i tua atu o ērā, ko ō te Huinga Kahurangi o Runga Rawa, ka rangona e karanga ana: “Kia horo koe, e Carmel, notemea, ko te rama o te mata o Te Atua, te Rangatira o te Kīngitanga o Ngā Ingoa me te Kaihanga o ngā rangi kua hīkina ki runga ki a koe.” 
 

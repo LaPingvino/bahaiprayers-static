@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12649 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Diambi ari Papan Tulis Pelen Petara
  

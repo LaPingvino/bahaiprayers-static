@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7792 in Italiano'
 author = "Báb"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Báb"]
 +++
 Gloria a Te, o Signore, Che in forza del Tuo decreto hai tratto all’esistenza tutte le cose crea-te.
 O Signore! Assisti coloro che hanno rinunziato a tutto fuor che a Te e concedi loro una possente vittoria. Manda loro, o Signore, le schiere degli angeli in cielo e in terra e tutto quel che v’è frammezzo, affinché aiutino i Tuoi servi, li soccorrano e li rafforzino, li conducano al successo, li sorreggano, li ammantino di gloria, li coprano di onore ed esaltazione, li arricchiscano e li guidino a stra-biliante trionfo.

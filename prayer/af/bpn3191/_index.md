@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3191 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Geloof sy U Naam, o Here my God! Ek is U dienaar wat die koord van U tere seëninge vasgegryp het, en aan die soom van U mildheid gekleef het. Ek soebat U by U Naam, waardeur U alle geskape dinge, beide die sigbare en die onsigbare, onderwerp het, en waardeur die asem wat die lewe inderdaad is, oor die hele skepping gewaai is, om my versterk met U krag wat die hemele en die aarde omvat het, en my te beskerm teen alle siektes en beproewinge. Ek getuig dat U die Here van alle name is, en die Bepaler is van alles wat U mag behaag. Daar is geen God behalwe U nie, die Almagtige, die Alwetende, die Alwyse.
 

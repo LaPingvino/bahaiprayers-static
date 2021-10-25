@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5784 in Català'
 author = "Bahá'u'lláh"
-tags = ['lang-ca', 'bpn-unsorted']
+tags = ['lang-ca', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 En el Nom de Déu, l’Altissim! Lloat i Glorificat ets Tu, Senyor Déu Omnipotent! Tu davant la saviesa del Qual l’erudit es queda curt i fracassa; davant el poder del qual el fort es debilita; davant la riquesa del Qual el ric testifica la seva pobresa; davant la llum del Qual l’il·lumina’t està perdut a la foscor, cap a l’altar de coneixement del Qual es gira l’essència de tot enteniment i al voltant del santuari de la presència del Qual circulen les ànimes de tota la humanitat.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7129 in ελληνικά'
 author = "Bahá'u'lláh"
-tags = ['lang-el', 'bpn-unsorted']
+tags = ['lang-el', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Αυτός είναι ο Θεός, εξυψωµένος είναι Αυτός, ο Κύριος της στοργικής καλοσύνης και της γενναιοδωρίας!
 

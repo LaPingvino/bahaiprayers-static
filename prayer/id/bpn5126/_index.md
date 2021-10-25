@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5126 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Kami berdoa kepada Tuhan agar sudilah membantu mereka yang telah disesatkan supaya menjadi insaf dan adil, dan agar menyadarkan mereka atas apa yang telah dilalaikannya. Ia sesungguhnya, Yang Maha Pemberi, Yang Maha Dermawan. Janganlah menghalangi hamba-hamba-Mu, ya Tuhanku, dari pintu kurnia-Mu dan janganlah mereka diusir dari istana kehadiran-Mu. Bantulah mereka untuk menghilangkan kabut angan-angan kosong, dan merobekkan tabir-tabir khayalan-khayalan dan harapan- harapan yang sia-sia. Sesungguhnya, Engkaulah Yang Maha Memiliki, Yang Maha Tinggi. Tiada Tuhan kecuali Engkau, Yang Maha Kuasa, Yang Maha Penyayang.
 

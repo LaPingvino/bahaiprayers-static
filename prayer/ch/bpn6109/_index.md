@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6109 in Chamorro'
 author = "Bahá'u'lláh"
-tags = ['lang-ch', 'bpn-unsorted']
+tags = ['lang-ch', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Makmata yo’ este na ogga’an ginen i grasia- Mu, O Yu’os-Hu, ya hu dingu i saga-hu ya hu pega todu i inangokko-ku giya Hagu, ya hu entrega yo’ guatu gi katgo-Mu.
 Na’tunokgue gi hilo’-hu, ginen i langet i mina’ase’-Mu, bendision ni ginen Hagu, ya kosaki siña tuma’lo yo’ tatte gi saga-hu gi sinafo’ taiguihi nai Un na’hanao yo’ gi papa’ i proteksion-Mu yan i hinasso-ku ni chetton giya Hagu.

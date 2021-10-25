@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3553 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Jeg er, o min Herre, den som har vendt sitt ansikt mot deg og satt sitt håp til din nådes undere og din gavmildhets åpenbaringer. Jeg ber deg om at du ikke vil tillate at jeg vender meg skuffet bort fra din barmhjertighets dør, ei heller overlate meg til slike av dine skapninger som har fornektet din Sak.
  

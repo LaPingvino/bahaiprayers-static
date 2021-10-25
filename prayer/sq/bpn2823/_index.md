@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2823 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Perëndi, freskoje e gëzoje shpirtin tim. Dëlire zemrën time. Ndriçoji aftësitë e mia. Unë i lë të gjitha punët e mia në dorën Tënde. Ti je Udhërrëfyesi dhe Streha ime. Unë nuk do të jem më i trishtuar e i brengosur; do të jem një qenie e lumtur dhe e gëzuar. O Perëndi! Unë nuk do të jem më tërë ankth, dhe as do t'i lejoj telashet të më shqetësojnë. Unë nuk do të jetoj me gjërat e pakëndshme të jetës.
 

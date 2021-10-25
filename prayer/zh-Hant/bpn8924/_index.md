@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8924 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 我的上帝啊！讚美歸於祢。這些是祢的僕役，他們受祢慈愛芬芳的吸引，被祢獨一聖樹上的烈火燃燒；看見祢獨尊之西奈山的閃耀之光，他們的目光變得更加明亮。
 主啊！讓他們在祢子民中放聲念記祢，將祢的恩寵與慈悲加以讚頌。讓祢的眾天使協助他們，使他們挺直腰桿為祢服務，成為祢引導萬物的表徵。

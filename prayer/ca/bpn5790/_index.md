@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5790 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', 'bpn-unsorted']
+tags = ['lang-ca', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Senyor! Dignes de llàstima som, concedeix-nos, el teu favor; pobres som; concedeix-nos una part de l’oceà de la teva riquesa; estem necessitats, satisfés-nos; estem humiliats, dóna’ns la Teva glòria. Els ocells de l’aire i les bestioles dels camps reben jorn rere jorn el seu aliment de Tu i tots els éssers participen  de la Teva cura i amorós afecte.
 

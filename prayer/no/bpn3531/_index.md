@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3531 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Tillat meg, o min Gud, å komme deg nær og å dvele innenfor ditt kongesetes enemerker, for min fjernhet fra deg har nesten fortært meg. Gi meg å hvile i skyggen av din nådes beskyttende vinger, for adskillelsens ild har svidd meg i hjertet. Før meg nærmere den elv som i sannhet er liv, for min sjel brenner av tørst i sin uavlatelige søken etter deg. Mine sukk, o min Gud, kunngjør hvor bitter min smerte er, og de tårer jeg feller bevitner min kjærlighet til deg.
  

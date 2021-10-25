@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9686 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #Gebed voor de doden
 

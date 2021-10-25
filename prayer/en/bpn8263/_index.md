@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8263 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #Excerpt from the Súriy-i-Mulúk
 ##Súrih of the Kings

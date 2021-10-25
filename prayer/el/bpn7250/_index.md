@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7250 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', 'bpn-unsorted']
+tags = ['lang-el', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *(Κάθε ψυχή που ταξιδεύει και ασχολείται µε τη διάχυση των ευωδιών του Θεού, να διαβάζει προσεκτικά αυτή τη συνοµιλία κάθε πρωί):
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12873 in Alaska Native'
 author = "Bahá'u'lláh"
-tags = ['lang-ik', 'bpn-unsorted']
+tags = ['lang-ik', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ** Obligatory Prayer for the Dead
 * Instructions for recitation:

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9747 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dit zijn, o mijn God, de dagen waarop Gij Uw dienaren hebt geboden te vasten. Daarmee hebt Gij de inleiding gesierd van Uw Wetboek dat aan Uw schepselen is geopenbaard, en de schatkamers van Uw geboden getooid voor het oog van allen die in Uw hemel en allen die op Uw aarde zijn. Gij hebt ieder uur van deze dagen begiftigd met een bijzondere kracht die ondoorgrondelijk is voor allen buiten U, Gij Wiens kennis al het geschapene omvat. Gij hebt tevens iedere ziel een deel van deze kracht toegekend in overeenstemming met de Tafel van Uw bevel en de Geschriften van Uw onherroepelijk oordeel. Elk blad van deze Boeken en Geschriften hebt Gij bovendien bestemd voor ieder van de volkeren en geslachten der aarde.
 Voor Uw vurige minnaars hebt Gij, volgens Uw bevel, bij elke dageraad de kelk van het U gedenken bestemd, o Gij die de Heerser der heersers zijt! Dit zijn degenen die zo bedwelmd zijn door de wijn van Uw veelvuldige wijsheid dat zij hun sponde verlaten in hun verlangen Uw lof te verheerlijken en Uw deugden te prijzen, en de slaap ontvluchten in hun geestdrift Uw tegenwoordigheid te naderen en deel te hebben aan Uw milddadigheid. Hun ogen zijn te allen tijde gericht op het ochtendgloren van Uw goedertierenheid en hun gelaat is gekeerd naar de Bron van Uw bezieling. Laat dan vanuit de wolken van Uw barmhartigheid op ons en op hen neerregenen wat de hemel van Uw vrijgevigheid en genade past.

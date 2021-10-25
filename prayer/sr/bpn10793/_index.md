@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10793 in Srpski српски'
 author = "Bahá'u'lláh"
-tags = ['lang-sr', 'bpn-unsorted']
+tags = ['lang-sr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Slavljen da si, O moj Bože, jer si odredio da No Ruz bude svetkovina onima koji su poštovali post iz ljubavi prema Tebi i uzdržavali se od svega Tebi gnusnog. Daj, O moj Gospode, da ih vatra Tvoje ljubavi i vrelina proistekla iz posta koji si Ti odredio, zapali u Veri Tvojoj, i učini da postanu zaokupljeni slavljenjem i spominjanjem Tebe.
 Ako si ih okitio, O moj Gospode, ukrasom posta koji si propisao, onda ih milošću i velikodušnošću Svojom obdari i ukrasom Tvoga prihvatanja. Jer dela ljudi sva zavise od Tvoje volje, i uslovljena su Tvojim nalogom. Budeš li Ti gledao na onoga koji prekrši post jednako kao i na onoga koji je post izvršio, takav čovek će se ubrajati među one koji se od pamtiveka pridržavaše posta. A budeš li odredio da je onaj koji je izvršio post isti kao i da ga je prekršio, ta osoba će se ubrajati među one koji prašinom ukaljaše Odoru Tvoga Otkrovenja, i biše udaljeni daleko od kristalnih voda ovog životvornog Izvora.

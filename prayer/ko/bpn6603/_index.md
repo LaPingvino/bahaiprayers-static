@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6603 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 주님의 이 종은
 

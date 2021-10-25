@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6402 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Arglwydd! Gwan ydym; cryfhâ ni. O Dduw! Anwybodus ydym, dyro i ni wybodaeth. O Arglwydd! Tlawd ydym; gwna ni’n gyfoethog. O Dduw! Rydym feirw; dyro fywyd ynom. O Arglwydd! Yr ydym yn llwyr ddarostyngedig; yn Dy Deyrnas gogonedda ni. Pe cawn Dy gymorth, O Dduw, byddwn fel sêr yn pefrio. Pen a chawn Dy gymorth, byddwn yn is na’r llawr. O Arglwydd! Cryfhâ ni. O Dduw! Dyro fuddugoliaeth i ni. O Dduw! Galluoga ni i goncro hunanoldeb a gorchfygu chwant. O Arglwydd! Gwared ni rhag caethiwed y byd materol. O Arglwydd! Dyro fywyd i ni drwy anadl yr Ysbryd Glân, fel y cyfodwn i’th wasanaethu, ymgymryd a’th addoli Di, ac ymegnïo’n ddidwyll yn Dy Deyrnas. O Arglwydd, Grymus wyt! O Dduw, Maddeugar wyt! O Arglwydd, Trugarog wyt!
 

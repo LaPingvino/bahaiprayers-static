@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3577 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lovet være du, o min Gud! Jeg er en av dine tjenere, som har trodd på deg og på dine tegn. Du ser hvordan jeg har vendt meg mot din barmhjertighets dør og rettet blikket mot din miskunn. Jeg bønnfaller deg, ved dine ypperste titler og dine uendelig opphøyede egenskaper, om å åpne dine gavers porter for mitt ansikt. Hjelp meg derfor til å gjøre det som er godt, o du som er besitteren av alle navn og egenskaper!
  

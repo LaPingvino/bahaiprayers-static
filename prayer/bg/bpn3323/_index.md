@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3323 in български'
 author = "Bahá'u'lláh"
-tags = ['lang-bg', 'bpn-unsorted']
+tags = ['lang-bg', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Дълга задължителна молитва
 *Казва се веднъж на двадесет и четири часа

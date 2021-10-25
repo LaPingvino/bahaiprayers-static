@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6084 in Sranan Tongo'
 author = "Bahá'u'lláh"
-tags = ['lang-srn', 'bpn-unsorted']
+tags = ['lang-srn', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##GENEZING 
 Uw Naam is mijn genezing, o mijn God, en het U gedenken is mijn medicijn. U nabij te zijn is mijn hoop en liefde voor U is mijn metgezel. 

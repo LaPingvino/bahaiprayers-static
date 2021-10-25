@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2236 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O, Tu Dumnezeule milostiv!
 O, Tu Care eşti tare şi puternic!

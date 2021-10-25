@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1769 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Þessir eru þeir dagar, ó Guð minn, er Þú hefur boðið þjónum Þínum að halda föstuna. Með henni prýddir Þú inngang lagabókar Þinnar sem Þú opinberaðir skepnum Þínum og reiddir fram úr hirslum boða Þinna í augsýn allra á himni Þínum og jörðu. Þú hefur gætt hverja klukkustund þessara daga sérstakri dyggð, sem er órannsakanleg öllum nema sjálfum Þér. Þekking Þín umlykur allt sem er. Þú hefur einnig úthlutað sérhverri sál ákveðnum skerfi þessarar dyggðar í samræmi við töflu ákvörðunar Þinnar og ritningar Þíns óaftur­kallan­lega dóms. Sérhverju blaði þessara bóka og ritninga hefur Þú einnig úthlutað sérhverri þjóð og kynkvísl jarðar.
 Einlægum ástvinum Þínum hefur Þú samkvæmt ákvörðun Þinni áskilið í dögun hverri bikar minn­ingar Þinnar, ó Þú sem ert leiðtogi leiðtoga! Þetta eru þeir sem eru svo ölvaðir af víni margfaldrar visku Þinnar að þeir yfirgefa beði sína í löngun til að færa Þér lof og vegsama dyggðir Þínar og flýja svefninn í innilegri þrá sinni að nálgast Þig og hljóta skerf af hylli Þinni. Augu þeirra hafa ætíð beinst að dagsbrún ástúðar Þinnar og andlit þeirra að brunni innblásturs Þíns. Lát þess vegna rigna yfir þá, og yfir okkur, úr skýjum náðar Þinnar því sem sæmir himni örlætis Þíns og náðar.

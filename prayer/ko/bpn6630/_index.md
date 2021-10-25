@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6630 in 한국어'
 author = "Báb"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Báb"]
 +++
 모든 장엄과 모든 영광이, 제가 주님을 안 것은
 

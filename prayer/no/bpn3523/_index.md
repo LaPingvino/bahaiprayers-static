@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3523 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Gud bevitner at han er en i sin guddommelighet og ett i sitt vesen. Fra evighetens trone, fra hans stillings utilgjengelige høyder, forkynner hans tunge at der ikke er noen annen Gud enn ham. Han selv har, uavhengig av alt annet, alltid vitnet om sin egen enhet, åpenbart sin egen natur og forherliget sitt eget innerste vesen. Han er sannelig den overmåte sterke, den allmektige, den fagre.
  

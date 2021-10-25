@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7582 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', 'bpn-unsorted']
+tags = ['lang-fi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(Tätä muistiota luetaan Bahá'u'lláhin ja Bábin hautapyhäköissä. Sitä käytetään usein myös heidän muistojuhliaan vietettäessä.)
 

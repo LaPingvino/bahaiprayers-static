@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6421 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O fy Nuw! O faddeuwr pechodau! Cyflwynwr rhoddion! Gwasgarwr cystuddiau!
 Yn wir, yn wir, erfyniaf arnat Ti i faddau pechodau’r rhai sydd wedi diosg eu gwisg gorfforol ac wedi esgyn i’r byd ysbrydol.

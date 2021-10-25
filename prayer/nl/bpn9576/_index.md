@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9576 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O mijn God! O mijn God! Glorie zij U daar Gij mij hebt bevestigd in het belijden van Uw één-zijn, mij hebt aangetrokken tot het woord van Uw enig-zijn, in vlam hebt gezet met het vuur van Uw liefde en mij vervuld hebt van het U noemen en het dienen van Uw vrienden en dienaressen.
 O Heer, help mij deemoedig en nederig te zijn en sterk mij om mijzelf los te maken van alle dingen en mij vast te houden aan de zoom van de mantel van Uw glorie, zodat mijn hart vervuld mag worden van Uw liefde en er geen ruimte meer is voor liefde voor de wereld en gehechtheid aan haar eigenschappen.

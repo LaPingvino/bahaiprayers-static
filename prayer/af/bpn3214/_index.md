@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3214 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Hy is die Medelydende, die Goedertierendste!
 

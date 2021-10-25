@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8178 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Mød hinanden i ren glæde og fremsig ved mødets indledning denne bøn:
 

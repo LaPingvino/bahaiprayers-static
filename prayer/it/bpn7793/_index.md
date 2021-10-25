@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7793 in Italiano'
 author = "Báb"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Báb"]
 +++
 O Signore! Presso Te cerco riparo e verso tutti i Tuoi segni volgo il mio cuore.
 O Signore! In viaggio o in casa, nelle occupazioni o nel lavoro, ripongo ogni fiducia in Te.

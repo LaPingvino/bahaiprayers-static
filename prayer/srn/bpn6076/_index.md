@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6076 in Sranan Tongo'
 author = "Bahá'u'lláh"
-tags = ['lang-srn', 'bpn-unsorted']
+tags = ['lang-srn', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Blesi fu na kontren,
 nanga na oso,

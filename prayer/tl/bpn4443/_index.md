@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4443 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Luwalhatiin Ka, O aking Diyos! Ako ay isa sa Iyong mga tagapaglingkod na sumasampalataya sa Iyo at sa Iyong mga tanda. Nakikita Mo kung paano naitungo ko ang aking sarili sa pintuan ng Iyong kahabagan, at naibaling ko ang aking mukha sa kinaroroonan ng Iyong mapagmahal na kabaitan. Isinasamo ko sa Iyo, sa Iyong pinakamagaling na mga pamagat at sa Iyong pinakamaluwalhating mga katangian, na buksan sa harap ko ang mga pinto ng Iyong mga kaloob. Tulungan Mo ako, kung gayon, na makagawa ng mabuti, O ikaw na Nagmamay-ari ng lahat ng pangalan at katangian!
 

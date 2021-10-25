@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB11094 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB11094']
+tags = ['lang-en', 'AB11094', "Abdu'l-Bahá"]
 +++
 O my God!  O Thou forgiver of sins, bestower of gifts, dispeller of afflictions!
 Verily, I beseech thee to forgive the sins of such as have abandoned the physical garment and have ascended to the spiritual world.

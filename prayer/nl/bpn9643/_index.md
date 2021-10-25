@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9643 in Nederlands'
 author = "Báb"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Báb"]
 +++
 O mijn God! Er is niemand dan Gij om mijn zielenleed te verzachten, en Gij zijt mijn grootste verlangen, o mijn God. Mijn hart is verknocht aan niemand buiten U en aan degenen die Gij liefhebt. Ik verklaar plechtig dat mijn leven en mijn sterven U toebehoren. Gij zijt waarlijk onvergelijkelijk en hebt geen deelgenoot.
 O mijn Heer! Ik smeek U mij te vergeven dat ik mij van U afgesloten heb. Bij Uw glorie en majesteit, ik heb U niet op passende wijze kunnen erkennen en aanbidden, terwijl Gij Uzelf toch aan mij kenbaar maakt en mij oproept U te gedenken naar het Uw rang waardig is. Groot onheil zou mij treffen, o mijn Heer, indien Gij mij zou grijpen vanwege mijn wandaden en overtredingen. Ik ken geen ander helper dan U. Ik kan naar geen andere schuilplaats vluchten dan naar U. Geen van Uw schepselen durft zonder Uw instemming voorspraak bij U te doen. Voor Uw hof houd ik vast aan Uw liefde, en naar Uw gebod aanbid ik U vurig zoals het Uw glorie betaamt. Ik smeek U naar mijn roepen te luisteren zoals Gij mij beloofd hebt. Gij zijt waarlijk God; geen God is er dan Gij. Alleen en zonder hulp zijt Gij onafhankelijk van al het geschapene. De toewijding van Uw minnaars kan U niet baten, noch kunnen de wandaden van de ongelovigen U schaden. Waarlijk, Gij zijt mijn God, die Zijn belofte altijd zal nakomen.

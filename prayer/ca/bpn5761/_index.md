@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5761 in Català'
 author = "Bahá'u'lláh"
-tags = ['lang-ca', 'bpn-unsorted']
+tags = ['lang-ca', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##TAULES DE VISITACIÓ
 

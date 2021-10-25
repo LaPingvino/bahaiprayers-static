@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9977 in Kalaallisut'
 author = "Abdu'l-Bahá"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Guuti-aa, Guutiga! Naalannarsisitaagit asanninnerup guuterpaluttup innera Orpimmi Illernartumi Qaqqat portunersaata qaavaniittoq ikissimagakku: Orpik taanna "Kangianiinnanilu Kitaaneersuunngitsoq", inneq taanna naarallassimasoq ikumanera allaat qummut Katersaarsuarnut qutsinnerpaamiittunut anngussimavoq, tassanngaanniillu piviussutsit taakku siulersorneqarnerup qaamanera pissarsiansimavaat torlulalerlutillu: "Ilumut Sinai-ip qaqqaata sivingarnani innermik takusimavugut.”
 Guuti-aa, Guutiga! Inneq manna annertusiartortiguk ullut taarseraannerisuulli, ikummarissinerata nunarsuaq tamakkerlugu aallartinniassammagu. Illit-aa Naalagara! Asanninnerpit qaamanera uummatini tamani ikiguk, inuit tarninginnut Ilisimassutsivit anersaava supujuk, sakiaat Ataasiussutsivit versiinik nuannaarsakkit.

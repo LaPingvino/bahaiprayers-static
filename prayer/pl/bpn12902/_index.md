@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12902 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Panie tak bogaty szczodrością, tak łaską przepełniony,
 Którego wiedza obejmuje mego serca i duszy najskrytsze strony!

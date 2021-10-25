@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10050 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', 'bpn-unsorted']
+tags = ['lang-sk', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dlhá modlitba za uzdravenie
 On je Uzdravujúci, Postačujúci, Pomocník, vždy Odpúšťajúci, Najmilosrdnejší.

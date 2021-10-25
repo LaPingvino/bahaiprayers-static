@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11174 in नेपाली'
 author = "Abdu'l-Bahá"
-tags = ['lang-ne', 'bpn-unsorted']
+tags = ['lang-ne', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *धर्मको शिक्षा दिनको लागि कुनै पनि स्थानमा शिक्षण यात्रामा निस्केको व्यक्तिले दिन–रात यो प्रार्थना पाठ गर्नुपर्दछ । 
 

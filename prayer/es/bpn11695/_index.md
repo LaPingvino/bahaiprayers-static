@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11695 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 En el Nombre de Dios, el Más Antiguo, el Más Grande.
 En verdad, los corazones de los sinceros están consumidos por el fuego de la separación. ¿Dónde está el resplandor de la luz de Tu Semblante, oh Bienamado de los mundos?

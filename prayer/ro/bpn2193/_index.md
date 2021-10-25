@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2193 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O, Doamne, Dumnezeul meu! Tu eşti Speranţa şi Iubitul meu, ţelul şi Dorinţa mea cea mai înaltă! Cu adâncă smerenie şi cu întreaga devoţiune Te rog să mă preschimbi într-un minaret al iubirii Tale în ţinutul Tău, o lampă a cunoaşterii Tale între creaturile Tale şi un stindard al mărinimiei divine în împărăţia Ta.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9207 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Le mariage bahá’í se fonde sur l’union et l’harmonie entre les deux conjoints. Ils doivent cependant se montrer extrêmement vigilants et apprendre à se connaître véritablement. Ce lien impérissable devra être établi sur une alliance solide dans l’intention de favoriser l’harmonie, l’amitié et l’unité, et d’atteindre la vie éternelle.
 *--‘Abdu’l-Bahá

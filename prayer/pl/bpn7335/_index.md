@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7335 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Chwała bądź Tobie, o Panie, Boże mój! Ty widzisz i wiesz, że nawoływałem Twoje sługi, aby nie kierowali się w żadną inną stronę, jedynie ku Twoim darom, i nakazałem im, aby przestrzegali wyłącznie tego, coś przepisał w swojej Zrozumiałej Księdze, w Księdze, która została zesłana zgodnie z Twoim niezgłębionym wyrokiem i nieodwołalnym celem.
    

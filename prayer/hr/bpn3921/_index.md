@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3921 in Hrvatski'
 author = "Bahá'u'lláh"
-tags = ['lang-hr', 'bpn-unsorted']
+tags = ['lang-hr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Budi strpljiv u svim okolnostima i daj svo svoje povjerenje i pouzdanje Bogu. Baha'u'llah
 

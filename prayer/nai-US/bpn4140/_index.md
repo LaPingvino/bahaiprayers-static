@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4140 in American Indian'
 author = "Báb"
-tags = ['lang-nai-US', 'bpn-unsorted']
+tags = ['lang-nai-US', 'bpn-unsorted', "Báb"]
 +++
 Wakȟáŋ Tȟáŋka kiŋ išnála wótheȟi yuȟéyab ičú.  Heyá po: Wakȟáŋ Tȟáŋka yawášte po. Wakȟáŋ Tȟáŋka kiŋ hé é. Tuwé ke éyaš tȟawówaši héčhapi, tuwé kiŋ iyúha iyé tȟawáčhiŋ ognáyaŋ úŋpi. 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7457 in Polski'
 author = "Báb"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Báb"]
 +++
 Chwała bądź Tobie, o Panie, o Ty, któryś mocą swego rozkazu powołał do życia wszystkie stworzone rzeczy.
     

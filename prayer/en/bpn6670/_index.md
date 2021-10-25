@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6670 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Glorified art Thou, O Lord my God! I pray Thee, by Him Who is the Dayspring of Thy signs and the Manifestation of Thy names, and the Treasury of Thine inspiration, and the Repository of Thy wisdom, to send upon Thy loved ones that which will enable them to cleave steadfastly to Thy Cause, and to recognize Thy unity, and to acknowledge Thy oneness, and to bear witness to Thy divinity. Raise them up, O my God, to such heights that they will recognize in all things the tokens of the power of Him Who is the Manifestation of Thy most august and all-glorious Self.
 

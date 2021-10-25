@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6965 in Fiji'
 author = "Bahá'u'lláh"
-tags = ['lang-fj', 'bpn-unsorted']
+tags = ['lang-fj', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Mo ni sa vakalagilagi O i Kemuni, l Turaga na noqu Kalou! Ni kakua ni guilecavi koya sa laveti cake e na vuku ni kaukauwa ni Nomuni itutu dei vakatui ka sa tawa cava; ka Mo ni kakua ni tosoi koya vakayawa mai vei Kemuni o koya O ni solia me curu yani ki na Nomuni vale laca tabu ni bula tawamudu. E na rawa beka Mo ni vakasava tani, I noqu Kalou, o koya O ni dau vakaruruga e na Nomuni iTutu Vakaturaga, e na rawa tale beka ga Mo ni vakatalai koya tani mai vei Kemuni, O i Kemuni na noqu gagadre, me vaka ni o koya e dau vakarurugi mai vei Kemuni?
 

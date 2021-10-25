@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11449 in தமிழ்'
 author = "Bahá'u'lláh"
-tags = ['lang-ta', 'bpn-unsorted']
+tags = ['lang-ta', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 அதி தொன்மையும், அதி மேன்மையும் வாய்ந்த இறைவனின் பெயரால். 
 

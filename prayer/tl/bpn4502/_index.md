@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4502 in Filipino'
 author = "Báb"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Báb"]
 +++
 O Panginoon! Gawing matagumpay ang Iyong mapagtiis na mga tagapaglingkod sa Iyong mga araw sa pamamagitan ng pagkakaloob sa kanila ng isang karapat-dapat na tagumpay, dahil sa pinili nila ang pagkakamartir sa Iyong landas. Ipagkaloob sa kanila yaong magbibigay ng kaginhawahan sa kanilang mga isip, magpapaligaya sa kanilang panloob na sarili, magbibigay ng katiyakan sa kanilang mga puso at katahimikan sa kanilang mga katawan at magbibigay ng kakayahan sa kanilang mga kaluluwa na umakyat sa kinaroroonan ng Diyos, ang Pinakamataas, at upang makamit nila ang katas-taasang Paraiso at yaong mga pahingahan ng kaluwalhatian na itinadhana Mo para sa mga taong may tunay na kaalaman at kabutihan. Sa katunayan nalalaman Mo ang lahat ng bagay, samantalang kami ay Iyong mga tagapaglingkod lamang, Iyong mga sakop, Iyong mga takdang katulong at Iyong mga dukha. Walang ibang Panginoon maliban sa Iyo ang aming tinatawagan, O Diyos, aming Panginoon, ni hindi kami nagsusumamo ng mga biyaya o kaloob mula sa kanino man maliban sa Iyo, O Ikaw na Siyang Diyos ng habag sa daigdig na ito at sa susunod. Kami ay siya lamang mga larawan ng karukhaan, ng kawalaan, ng kawalang kakayahan at ng kapahamakan, samantalang ang Iyong buong Sarili ay sumasagisag sa kayamanan, kasarinlan, kaluwalhatian, kamahalan at walang-hanggang pagpapala.
 

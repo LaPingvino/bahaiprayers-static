@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2859 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Tabelë e reveluar nga Bahá'u'lláh-u me titull "Qad-Ihtaraqua'l-Mukhlihún"
 

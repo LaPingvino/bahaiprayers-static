@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB04980HOP in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB04980HOP']
+tags = ['lang-en', 'AB04980HOP', "Abdu'l-Bahá"]
 +++
 O God, my God!  Thou art my Hope and my Beloved, my highest Aim and Desire!  With great humbleness and entire devotion I pray to Thee to make me a minaret of Thy love in Thy land, a lamp of Thy knowledge among Thy creatures, and a banner of divine bounty in Thy dominion.
 Number me with such of Thy servants as have detached themselves from everything but Thee, have sanctified themselves from the transitory things of this world, and have freed themselves from the promptings of the voicers of idle fancies.

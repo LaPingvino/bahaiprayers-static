@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3566 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Gud! O Gud! Du ser min svakhet, beskjedenhet og ydmykhet overfor dine skapninger; likevel har jeg satt min lit til deg og reist meg for å fremme din lære blant dine sterke tjenere, i tillit til din kraft og makt.
 O Herre! Jeg er en vingestekket fugl og ønsker inderlig å sveve oppover i ditt uendelige rom. Hvordan er det mulig for meg å gjøre dette uten ved ditt forsyn og din nåde, din bestyrkelse og hjelp?

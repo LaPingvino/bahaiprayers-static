@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11555 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ¡Él es el Poderoso, el Perdonador, el Compasivo!
 ¡Oh Dios, mi Dios! Tú ves a Tus siervos en el abismo de la perdición y del error; ¿dónde está Tu luz de guía divina, oh Deseo del mundo? Tú conoces su impotencia y su debilidad; ¿dónde está Tu poder, oh Tú, en Cuya mano están los poderes del cielo y de la tierra?

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8003 in American Indian'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-US', 'bpn-unsorted']
+tags = ['lang-nai-US', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##O God Guide Me
 

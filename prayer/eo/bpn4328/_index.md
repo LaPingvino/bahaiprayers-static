@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4328 in Esperanto'
 author = "Abdu'l-Bahá"
-tags = ['lang-eo', 'bpn-unsorted']
+tags = ['lang-eo', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Li estas la Kompatema, la Ĉion-Donacanta! 
 Ho Dio, mia Dio! Vi vidas min, Vi konas min; Vi estas mia Haveno kaj mia Rifuĝejo. Neniun mi serĉis nek celos krom Vi; neniun vojon mi paŝis nek paŝos krom tiun de Via amo. En la senluma nokto de malespero mia okulo turnas sin atendema kaj esperplena al la tagiĝo de Via senlima korfavoro, kaj en la tagiĝa horo mia velkanta animo refresiĝas kaj fortikiĝas je rememoro pri Viaj beleco kaj perfekteco. Tiu, kiun la graco de Via kompatemo helpas, kvankam li estu nur guto, fariĝos senlima oceano, kaj la plej eta atomo, kiun asistas la alfluado de Via bonkoreco, brilegos kiel radianta stelo. 

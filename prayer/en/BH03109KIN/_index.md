@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH03109KIN in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH03109KIN']
+tags = ['lang-en', 'BH03109KIN', "Bahá'u'lláh"]
 +++
 He is God, exalted is He, the Lord of loving-kindness and bounty!
 Glory be unto Thee, Thou, O my God, the Lord Omnipotent.  I testify to Thine Omnipotence and Thy might, Thy sovereignty and Thy loving-kindness, Thy grace and Thy power, the oneness of Thy being and the unity of Thine Essence, Thy sanctity and exaltation above the world of being and all that is therein.

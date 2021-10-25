@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4150 in Canadian Indigenous'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-CA', 'bpn-unsorted']
+tags = ['lang-nai-CA', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Kitsíneh’ka-seemee tóXta-sókimoX-see, áh-yoh Apistotokee, ki ikúmoks-tay-ksím-stay-neekee tákoXt-seets.
 Keetóta-powáX-kaX-see noXtóh-tamee-túkee ki eh’tóX-pokow-op keeta-wákomin-oX-sinee. Kitsee-kím-oX-sinee nitoX-

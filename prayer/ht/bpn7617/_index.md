@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7617 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Se Li menm Ki Konn Geri, Ki Sifi pou tout moun, Ki Toujou Ede, K’ap Toujou Padone, Ki Gen Tout Mizèrikòd.
 	Mwen sipliye Ou O Sila a Ki Egzalte, O Sila a Ki Fidèl, O Sila a Ki Gloriye! Ou menm K’ap Sifi pou tout moun, Ou menm Ki Geri, Ou menm Ki Toujou la, O Ou menm Sila a K’ap Toujou la!

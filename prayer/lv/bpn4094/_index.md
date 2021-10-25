@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4094 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', 'bpn-unsorted']
+tags = ['lang-lv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Lai šo lūgšanu lasa ikviens, kas ceļo uz dažādām pusēm mācīt, lai lasa to kalnos, tuksnešos, uz zemes un uz jūras.
 

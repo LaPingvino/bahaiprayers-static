@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8771 in العربية'
 author = "Bahá'u'lláh"
-tags = ['lang-ar', 'bpn-unsorted']
+tags = ['lang-ar', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 الصّلاة الوسطى
  *تؤدى يومياً في الصّباح والزّوال والمساء

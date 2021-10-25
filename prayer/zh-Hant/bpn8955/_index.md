@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8955 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 祂是上帝！
 主啊，我的上帝！祢是弱者之扶助，貧者之援軍，無助皈依者之救星。

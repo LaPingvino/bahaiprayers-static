@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH06026 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH06026']
+tags = ['lang-en', 'BH06026', "Bahá'u'lláh"]
 +++
 He is the Gracious, the All-Bountiful!
 

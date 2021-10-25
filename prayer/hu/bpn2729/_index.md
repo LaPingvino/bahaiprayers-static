@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2729 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *A Szellemi Tanács ülésének befejezésekor mondandó ima:
 

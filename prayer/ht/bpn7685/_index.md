@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7685 in Kreyol Ayisyen'
 author = "Báb"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Báb"]
 +++
 Asepte voye pou mwen, O Bondye mwen, tout pòsyon pa mwen nan lanmou Ou ak bon volonte Ou, epi pote kè nou ale avèk leman ki anndan bèl limyè Ou a, O Ou menm Ki Pi Gran Prèv la ak Tout Gloriye a. O Senyè bonte a, kòm yon siyn gras Ou, voye desann sou mwen, pandan tout jounen an e pandan lanwit, souf Ou yo k’ap bay lavi.
 Mwen pa te akonpli okenn aksyon, O Bondye mwen, ki ta fè mwen merite gade vizaj Ou, e mwen sèten menm si mwen ta viv toutotan lemonn t’ap kontinye, mwen pa t’ap kapab akonpli yon zèv ki ta fè mwen merite favè sa a, paske ran yon sèvitè pral toujou two ba pou li merite antre nan lakou sakre Ou a, sof si bonte Ou ta rive jwenn mwen epi dous mizèrikòd Ou ta ranpli mwen, epi jantiyès Ou ki plen lanmou a ta antoure mwen.

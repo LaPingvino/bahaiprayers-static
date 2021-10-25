@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1389 in فارسی'
 author = "Bahá'u'lláh"
-tags = ['lang-fa', 'bpn-unsorted']
+tags = ['lang-fa', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 صلات كبير
  *صلات كبير كه تلاوت آن در شب و روز يك بار كافى است.

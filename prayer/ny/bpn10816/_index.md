@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10816 in Chichewa'
 author = "Abdu'l-Bahá"
-tags = ['lang-ny', 'bpn-unsorted']
+tags = ['lang-ny', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Inu Wamphamvu zonse! Ine ndine wochimwa, koma Inu Ndinu Wokhululukira! Ine ndiri wosakwanira, koma Inu muli wachisoni! Inde ndiri mumdima wa uchimo koma Inu Ndinu nyali ya Chikhululukiro! 
 

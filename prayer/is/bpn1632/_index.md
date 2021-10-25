@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1632 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(Bæn fyrir látnum er lesin fyrir bahá’ía eldri en 15 ára. „Þetta er eina bahá’í skyldubænin sem lesa á í hóp. Einn átrúandi annast lesturinn en viðstaddir rísi á fætur og standi á meðan lesið er. Ekki er skylda að snúa til Qiblih (í bænarátt, til Bahjí) meðan bænin er lesin.“	—Yfirlit og skráning laganna í Kitáb-i-Aqdas)
 

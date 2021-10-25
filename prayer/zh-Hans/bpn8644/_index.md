@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8644 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', 'bpn-unsorted']
+tags = ['lang-zh-Hans', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 教友及传导者应每日诵读此祷文。
 仁慈的主啊！赞美归于祢。祢已向我们昭示导引之路，敞开天国之门，借实在之阳彰显自身。祢赐盲者以视觉，予聋者以听力，赋亡者以生命，赐穷人以富裕，给迷途者以方向。祢带领干渴者到达导引之泉源，使涸辙之鱼抵达实在之汪洋，邀约漂泊之鸟飞达恩慈的玫瑰园。

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7895 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Egli è Dio Che ascolta ed esaudisce le preghiere !
 Per la Tua gloria, o Benamato, Tu dispensatore di luce al mondo! Le fiamme della separazione mi hanno consumato e la caparbietà m’ha roso il cuore. Ti chiedo, per il Tuo Più Grande Nome, o Tu Desìo del mondo e Benamato dell’umanità, di far sì che la brezza della Tua ispirazione sostenga la mia anima, che la Tua mirabile voce giunga al mio orecchio, che i miei occhi contemplino i Tuoi segni e la Tua luce, rivelàti nelle manifestazioni dei Tuoi nomi e dei Tuoi attributi, o Tu nella Cui stretta sono tutte le cose! 

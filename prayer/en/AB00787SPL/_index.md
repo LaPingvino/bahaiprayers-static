@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00787SPL in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB00787SPL']
+tags = ['lang-en', 'AB00787SPL', "Abdu'l-Bahá"]
 +++
 O God, O Thou Who hast cast Thy splendor over the luminous realities of men, shedding upon them the resplendent lights of knowledge and guidance, and hast chosen them out of all created things for this supernal grace, and hast caused them to encompass all things, to understand their inmost essence, and to disclose their mysteries, bringing them forth out of darkness into the visible world! “He verily showeth His special mercy to whomsoever He will.”¹
 

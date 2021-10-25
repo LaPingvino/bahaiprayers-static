@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2297 in România'
 author = "Báb"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Báb"]
 +++
 Slava fie cu Tine, o, Doamne, Tu Cel care, prin puterea poruncii Tale, ai chemat întru fiinţă toate lucrurile create.
 

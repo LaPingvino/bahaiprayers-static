@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7422 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Boże, mój Boże! Ty jesteś moją Nadzieją i moim Umiłowanym, moim najwyższym Celem i Upragnieniem! Z wielką pokorą i całkowitym oddaniem błagam Cię, abyś uczynił mnie minaretem Twojej miłości w Twojej krainie, kagankiem Twojej wiedzy pośród Twoich stworzeń i sztandarem Boskiej łaski w Twoim królestwie.
     

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3143 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Hy is God, verhewe is Hy, die Here van vriendelike goedheid en mildheid!
 

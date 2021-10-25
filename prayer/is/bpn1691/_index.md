@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1691 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ó Guð, sem ert höfundur allrar birtingar, upp­spretta allrar uppsprettu, brunnur allrar opin­berunar og lind allra ljósa. Ég ber því vitni að vegna nafns Þíns var himinn skilnings prýddur skarti, úthaf orðsins brimaði og trúarkerfi forsjónar Þinnar voru kunngerð meðal fylgjenda allra trúar­bragða.
 Ég sárbæni Þig að auðga mig svo að ég komist af án alls nema Þín og verði engum háður nema Þér. Lát því rigna yfir mig úr skýjum örlætis Þíns sem kemur mér að liði í öllum veröldum Þínum. Hjálpa mér því af styrkjandi náð Þinni að þjóna svo málstað Þínum meðal þjóna Þinna að ég megi sýna það sem heldur minningu minni á lofti jafn lengi og ríki Þitt endist og veldi Þitt varir.

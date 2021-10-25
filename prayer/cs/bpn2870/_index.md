@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2870 in Česky'
 author = "Báb"
-tags = ['lang-cs', 'bpn-unsorted']
+tags = ['lang-cs', 'bpn-unsorted', "Báb"]
 +++
 Ó Pane! K Tobě se utíkám pro přístřeší a své srdce obracím ke všem Tvým znamením.
 

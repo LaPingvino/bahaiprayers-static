@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10100 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', 'bpn-unsorted']
+tags = ['lang-sk', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ó môj Bože! Ó môj Bože! Vskutku ťa vzývam a zbožne sa modlím pri Tvojom prahu a prosím ťa, aby si tieto duše obdaril všetkou Svojou milosťou. Zvoľ si ich pre udelenie Svojej priazne a pravdy.
 Ó Pane! Zjednoť a spevni putom srdcia, zosúlaď duše a obveseľ duchov znameniami Svojej svätosti a jednoty.

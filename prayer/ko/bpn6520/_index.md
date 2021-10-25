@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6520 in 한국어'
 author = "Abdu'l-Bahá"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 이 사람은 날개가 꺾인 새, 저를
 

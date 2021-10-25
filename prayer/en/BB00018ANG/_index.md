@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00018ANG in English'
 author = "Báb"
-tags = ['lang-en', 'BB00018ANG']
+tags = ['lang-en', 'BB00018ANG', "Báb"]
 +++
 O my God!  There is no one but Thee to allay the anguish of my soul, and Thou art my highest aspiration, O my God.  My heart is wedded to none save Thee and such as Thou dost love.  I solemnly declare that my life and death are both for Thee.  Verily Thou art incomparable and hast no partner.
 O my Lord!  I beg Thee to forgive me for shutting myself out from Thee.  By Thy glory and majesty, I have failed to befittingly recognize Thee and to worship Thee, while Thou dost make Thyself known unto me and callest me to remembrance as beseemeth Thy station. Grievous woe would betide me, O my Lord, wert Thou to take hold of me by reason of my misdeeds and trespasses.  No helper do I know of other than Thee.  No refuge do I have to flee to save Thee.  None among Thy creatures can dare to intercede with Thyself without Thy leave.  I hold fast to Thy love before Thy court, and, according to Thy bidding, I earnestly pray unto Thee as befitteth Thy glory.  I beg Thee to heed my call as Thou hast promised me.  Verily Thou art God; no God is there but Thee.  Alone and unaided, Thou art independent of all created things.  Neither can the devotion of Thy lovers profit Thee, nor the evil doings of the faithless harm Thee.  Verily Thou art my God, He Who will never fail in His promise.

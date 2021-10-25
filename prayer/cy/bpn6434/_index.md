@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6434 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(The Intercalary Days, February 26 to March 1, inclusive, should be days of preparation for the Fast, days of hospitality, charity and the giving of present.)
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9172 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Gloire à toi, ô Seigneur du monde et Désir des nations ! Tu t’es manifesté dans le PlusGrand-Nom qui, des huîtres de l’océan de ta connaissance, a fait naître les perles de la sagesse et de la parole et qui, de l’éclat du soleil de ton visage, a diapré les cieux de la révélation divine.
 Par ton Verbe qui parachève ta preuve parmi tes créatures et accomplit ta promesse parmi tes serviteurs, je te supplie de fortifier ton peuple afin qu’il fasse resplendir ta cause dans ton empire, qu’il plante les étendards de ton pouvoir parmi tes serviteurs et lève les bannières de ta providence dans tous tes royaumes.

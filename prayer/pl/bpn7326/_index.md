@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7326 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ktokolwiek wybiera się w podróż do jakiegoś miejsca, aby nauczać, niechaj w czasie swej podróży do obcych krajów odmawia tę modlitwę w dzień i w nocy:
    

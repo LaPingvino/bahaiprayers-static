@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7491 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', 'bpn-unsorted']
+tags = ['lang-fi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ylistetty olet Sinä, oi Herra minun Jumalani! Rukoilen Sinua valittujesi ja uskottujesi kautta sekä Hänen kauttaan, jonka olet määrännyt profeettojesi ja sanansaattajiesi sinetiksi, että antaisit muistelemisesi  olla seuralaiseni, rakastamisesi tavoitteeni, kasvosi päämääräni, nimesi valaisimeni, toiveesi haluni ja mielisuosiosi iloni.
 Olen syntinen, oi Herrani, ja Sinä olet Aina anteeksi antava! Heti Sinut tunnettuani kiiruhdin laupeutesi ylevään esikartanoon. Oi Herrani, suo minulle anteeksi syntini, jotka ovat estäneet minua kulkemasta Sinun mielisuosiosi teitä ja pääsemästä Sinun ykseytesi valtameren rannoille.

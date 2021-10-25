@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00184KIN in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB00184KIN']
+tags = ['lang-en', 'AB00184KIN', "Abdu'l-Bahá"]
 +++
 ##Revealed to the Bahá'ís of the Central States
 *Let the spreaders of the fragrances of God recite this prayer every morning:

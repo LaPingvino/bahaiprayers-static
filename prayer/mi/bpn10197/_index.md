@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10197 in Māori'
 author = "Bahá'u'lláh"
-tags = ['lang-mi', 'bpn-unsorted']
+tags = ['lang-mi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 E Te Atua! Ko ngā whakawaitanga Nāu i tuku mai he pani ki ngā hakihaki o te katoa e koropiko ana ki Tāu e hiahia ai; ko te maharatanga i a Koe he rongoā mō ngā manawa o te iwi kua whakatata ki Tāu kōti; ko te pātata ki a Koe te oranga tūturu o Āu ipo; Ko Tō Aroaro e kōingotia ana e te iwi e kaimomotu ana kia kite i Tōu kanohi; ko te matara mai i a Koe he autō ki te iwi kua whakanui i Tōu kotahitanga, ko te tauwehenga i a Koe te hemotanga o te iwi e mōhio ana ki Tō pono! 
 

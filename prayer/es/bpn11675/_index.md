@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11675 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Cuando entréis en la cámara del consejo, recitad esta oración con el corazón palpitante de amor a Dios y la lengua purificada de todo lo que no sea Su recuerdo, para que el Todopoderoso os ayude bondadosamente a lograr la victoria suprema.
 

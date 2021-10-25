@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8546 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', 'bpn-unsorted']
+tags = ['lang-zh-Hans', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 祂是大能者，赦免者，慈悲者！
 上帝啊，我的上帝！祢看到祢的仆役们正陷入那沉沦与谬误的深渊，祢的神圣导引之光在何处？世人的渴望啊！祢知晓他们的无助与脆弱，祢的威力在何处？天地诸权的掌握者啊！

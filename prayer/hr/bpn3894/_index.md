@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3894 in Hrvatski'
 author = "Abdu'l-Bahá"
-tags = ['lang-hr', 'bpn-unsorted']
+tags = ['lang-hr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 "O, Ti blagi Bože! Stvorio si sve ljude iz iste tvari. Odredio si da svi pripadaju istom domu. U Tvojoj su Svetoj Prisutnosti svi oni Tvoji sluge i cijelo je čovječanstvo zaštićeno u Tvom zaklonu; svi su oni okupljeni zajedno za Tvojim Stolom Obilja; svi su obasjani svjetlom Tvoje Providnosti.
 

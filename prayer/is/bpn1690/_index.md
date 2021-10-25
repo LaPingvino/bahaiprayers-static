@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1690 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dýrð sé Þér, ó Drottinn heimsins og þrá þjóð­anna, ó Þú sem hefur birst í hinu mesta nafni, sem hefur látið perlur visku og tjáningar birtast í skeljunum í reginhafi þekkingar Þinnar og skrýtt himna guðlegrar opinberunar með ljósinu frá sól ásýndar Þinnar.
 Ég bið Þig við orðið sem fullnaði sönnun Þína meðal skepna Þinna og uppfyllti lögmál Þitt meðal þjóna Þinna, að styrkja fylgjendur Þína svo að ásýnd málstaðarins ljómi í ríki Þínu, merki valds Þíns verði reist meðal þjóna Þinna og fánar leið­sagnar Þinnar dregnir að hún um gervöll ríki Þín.

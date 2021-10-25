@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2693 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ő az Isten.
 Ó, Uram, én Istenem! Ó, Te, a gyengék Segítője, a szegények Támasza, és a Hozzád forduló elhagyottak Szabadítója.

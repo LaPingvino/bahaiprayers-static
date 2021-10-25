@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4900 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Hüvəllah! Ey Ələst piyaləsindən məst
 

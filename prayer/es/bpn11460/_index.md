@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11460 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ¡Él es Dios! ¡Exaltado es Él, el Señor de la fuerza y la grandeza!
 ¡Oh Dios, mi Dios! Te doy gracias en todo momento y Te ofrezco alabanza en toda condición.

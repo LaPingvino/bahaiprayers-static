@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5538 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 この祈りを毎日唱えよ。
  

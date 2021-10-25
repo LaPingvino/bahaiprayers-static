@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1186 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Tu és Aquele, ó meu Deus, através de cujos nomes os enfermos são curados e os feridos restaurados, e aos sedentos é dado de beber, e os aflitos são tranquilizados, e os desorientados são guiados, e os degradados são exaltados, e os pobres, enriquecidos, e os ignorantes, instruídos, e os desanimados, iluminados, e os sofredores, confortados, e aquecidos os que padecem de frio, e soerguidos os espezinhados. Através do Teu nome, ó meu Deus, todas as coisas criadas foram abaladas, os céus foram agitados, a terra foi estabelecida, e as nuvens foram elevadas e transformadas em chuva sobre a terra. Isso, verdadeiramente, é um sinal da Tua graça a todas as Tuas criaturas.
 Imploro-Te, portanto, pelo Teu nome, através do qual Tu manifestaste o Teu Mensageiro e exaltaste a Tua Causa sobre toda a criação, e por um a um dos Teus mais excelentes títulos e mais augustos atributos, e por todas as virtudes pelas quais o Teu transcendente e sublime Ser é louvado, que faças descer, esta noite, das nuvens da Tua misericórdia as chuvas da Tua cura sobre este bebezinho, a quem Tu relacionaste com o Teu Ser todo-glorioso no reino da Tua criação. Cobre-o, então, ó meu Deus, pela Tua graça, com o manto do bem-estar e saúde, e guarda-o, ó meu Bem-Amado, de toda a aflição e tumulto, e de tudo o que Te for odioso. O Teu poder, verdadeiramente, é superior a tudo. Tu, em verdade, és o Mais Poderoso, O que subsiste por Si próprio. Faze descer sobre ele, ainda mais, ó meu Deus, o bem deste mundo e do vindouro, e o bem de antigas e futuras gerações. O Teu poder e a Tua sabedoria são, em verdade, iguais a isso.

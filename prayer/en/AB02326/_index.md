@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB02326 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB02326']
+tags = ['lang-en', 'AB02326', "Abdu'l-Bahá"]
 +++
 He is God!
 O God, my God! These are servants attracted in Thy days by the fragrances of Thy holiness, enkindled with the flame burning in Thy holy tree, responding to Thy voice, uttering Thy praise, awakened by Thy breeze, stirred by Thy sweet savors, beholding Thy signs, understanding Thy Revelation and assured of Thy loving-kindness. Their eyes, O Lord, are fixed upon Thy kingdom of effulgent glory and their faces turned toward Thy dominion on high, their hearts beating with the love of Thy radiant and glorious beauty, their souls consumed with the flame of Thy love, O Lord of this world and the world hereafter, their lives seething with the ardor of their longing for Thee, and their tears poured forth for Thy sake.

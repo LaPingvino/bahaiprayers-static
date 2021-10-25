@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9509 in ಕನ್ನಡ'
 author = "Bahá'u'lláh"
-tags = ['lang-kn', 'bpn-unsorted']
+tags = ['lang-kn', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *ದೀರ್ಘ ಅನಿವಾರ್ಯ ಪ್ರಾರ್ಥನೆ  (24 ಗಂಟೆಗಳಲ್ಲಿ ಒಂದು ಸಲ ಹೇಳಬೇಕಾಗಿರುವುದು)
 

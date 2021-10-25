@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1430 in فارسی'
 author = "Abdu'l-Bahá"
-tags = ['lang-fa', 'bpn-unsorted']
+tags = ['lang-fa', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 هو
 پروردگارا، مرا مستقيم بر امرت بدار و در امتحان ثابت بر محبّت کن و در دريای عنايتت مستغرق فرما. توئی دهنده و مهربان.

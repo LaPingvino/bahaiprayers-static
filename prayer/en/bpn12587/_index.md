@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12587 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O God of Mercy!  O Thou Omnipotent One!  I am but a feeble servant, weak and helpless, but I have been nurtured within the shelter of Thy grace and favour, nourished from the breast of Thy mercy, and reared in the bosom of Thy loving-kindness.  O Lord!  Poor and needy though I be, yet every needy one is made prosperous through Thy bounty, while every wealthy one, if bereft of Thy favours, is indeed poor and desolate.
 

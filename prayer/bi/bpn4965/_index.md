@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4965 in Vanuatu'
 author = "Abdu'l-Bahá"
-tags = ['lang-bi', 'bpn-unsorted']
+tags = ['lang-bi', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Hemia wan spesal prea we yumi save ridim taem yumi visitim Shrine blong ‘Abdu’l-Bahá, o long ol miting we yumi holem long memori blong pasawei blong Hem.  Yumi save yusum long ol narafala taem tu.
 

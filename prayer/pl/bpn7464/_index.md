@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7464 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *„Ḥuqúqu’lláh jest w istocie wielkim prawem. Powinnością wszystkich jest czynić tę ofiarę, gdyż stanowi ona źródło łaski, obfitości i wszelkiego dobra. Jest to dar, który pozostanie z każdą duszą w każdym ze światów Boga, Wszechposiadającego, Wszechszczodrego.” 
 

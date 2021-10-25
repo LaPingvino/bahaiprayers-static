@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5326 in Bosanski'
 author = "Bahá'u'lláh"
-tags = ['lang-bs', 'bpn-unsorted']
+tags = ['lang-bs', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ovo su, o, moj Bože, dani koje si odredio Svojim slugama da poštivaju post. Njime si ukrasio uvod Svoje Knjige Zakona koja je objavljena onima koje si stvorio i uljepšao Riznice Svojih zapovijedi naočigled svih koji na nebu i svih koji su na zemlji. Svaki čas u ovim danima si obdario posebnom vrlinom, nedokučivom bilo kome sem Tebi Čije znanje obuhvata sve stvoreno. Svakoj duši si dodijelio dio ove vrline, u skladu sa Pločom i Spisima Tvoje neosporive odredbe. Štaviše, svaki list iz ovih Knjiga i Spisa si posvetio ljudima i svim narodima svijeta.
 Svojim posvećenim sljedbenicima si, prema Svojoj odredbi, svakim svitanjem namijenio pehar spomena na Tebe, o, Vladaru nad vladarima! Ovo su oni koji su do te mjere opijeni vinom Tvojih beskrajnih mudrosti, da su iz kreveta ustali sa željom da Tebe hvale i uzdižu vrline Tvoje, i zanemarili san da Ti se približe i da se napoje Tvojom dobrotom. Njihove su oči, u svako doba, usmjerene ka Vrelu Tvoje blagonaklonosti, a njihova su lica okrenuta ka Izvoru Tvoga nadahnuća. Zato iz oblaka milosrđa izlij na njih, i na nas, ono što dolikuje nebu Tvoje darežljivosti i milosti.

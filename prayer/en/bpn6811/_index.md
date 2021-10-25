@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6811 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O God! The trials Thou sendest are a salve to the sores of all them who are devoted to Thy will; the remembrance of Thee is a healing medicine to the hearts of such as have drawn nigh unto Thy court; nearness to Thee is the true life of them who are Thy lovers; Thy presence is the ardent desire of such as yearn to behold Thy face; remoteness from Thee is a torment to those that have acknowledged Thy oneness, and separation from Thee is death unto them that have recognized Thy truth!
 

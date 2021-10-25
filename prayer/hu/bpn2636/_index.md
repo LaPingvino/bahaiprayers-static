@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2636 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Miként aludhatnék, ó, Isten, én Istenem, mikor az Utánad sóvárgók szeme le nem csukódhat, mert távol vannak Tőled? És miként térhetnék nyugovóra, mikor a Téged szeretők lelkét elemészti a Te jelenlétedtől való távollét?
 

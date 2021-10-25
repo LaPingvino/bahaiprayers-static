@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5141 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *"Patutlah bagi hamba Tuhan, setelah setiap Sembahyang harus memohon kepada Tuhan agar Tuhan mengampuni orang tuanya. Setelah itu panggilan Tuhan akan dikumandangkan: 'Beribu-ribu dari apa yang telah engkau mohon bagi orang tuamu akan menjadi ganjaranmu' ". - Báb
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4833 in Azərbaycan'
 author = "Báb"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Báb"]
 +++
 Bütün əzəmət və bəha, Ey mənim Allahım, bütün hökmranlıq və nur, ehtişam və cəlal Sənin üzərinə olsun. Sən kimə istəsən, ona sultanlıq əta edirsən və kimi istəsən, ondan məhrum qoyursan. Səndən başqa Allah yoxdur, Hər şeyə Malik, Ən Uca. Sən O Kəssən ki, yoxdan kainatı və onda olan bütün məxluqatı yaradıb. Sənin özündən başqa heç nə Sənə layiq deyil, Səndən başqa hər şey Sənin müqəddəs hüzurunda səfildir və Sənin Öz Varlığının cəlalı ilə müqayisədə bir heçdir.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5223 in Bosanski'
 author = "Abdu'l-Bahá"
-tags = ['lang-bs', 'bpn-unsorted']
+tags = ['lang-bs', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Oblagi Bože! Stvorio si sve ljude iz istog roda. Odredio si da svi pripadaju istom domu. U Tvom Svetom Prisustvu svi su oni Tvoje sluge a cijelo čovječanstvo je pod Tvojom zaštitom. Svi su okupljeni za stolom Tvoga Izobilja. Svi su obasjani svjetlom Tvoga Proviđenja.
 O Bože! Ti si blag i brineš Se o svima, štitiš sve, svemu daruješ život. Svakoga si obdario talentima i sposobnostima. Svi su uronjeni u Okean Tvoje Milosti.

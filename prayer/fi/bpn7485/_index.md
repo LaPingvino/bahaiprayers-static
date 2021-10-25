@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7485 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', 'bpn-unsorted']
+tags = ['lang-fi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Lausuttavaksi päivittäin aamulla, keskipäivällä ja illalla
 

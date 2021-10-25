@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4142 in American Indian'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-US', 'bpn-unsorted']
+tags = ['lang-nai-US', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Wakȟáŋ Tȟáŋka mitȟáwa kiŋ, slolčhíyiŋ na wakȟáŋčhila kta čha mayákaǧe k’uŋ hé blaátȟaŋiŋ.
 

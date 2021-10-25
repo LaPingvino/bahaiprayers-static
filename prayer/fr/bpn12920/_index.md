@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12920 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Il est le Très-Saint, le Très-Glorieux. 
 Au nom de Dieu, le Compatissant, le Miséricordieux! Louange à Dieu, le Seigneur de tous les mondes! 

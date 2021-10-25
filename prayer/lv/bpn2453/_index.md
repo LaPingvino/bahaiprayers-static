@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2453 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', 'bpn-unsorted']
+tags = ['lang-lv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *"Bet bahājiešiem saderināšanās ir abu pušu pilnīga saprašanās un vienošanās. Viņiem tomēr ir jābūt ļoti uzmanīgiem un jāiepazīst vienam otra raksturs, un viņu starpā noslēgtajām stingrajām derībām ir jākļūst par mūžīgu saiti, un viņu nolūkam ir jāietver mūžīga radniecība, draudzība, vienotība un dzīve."
 

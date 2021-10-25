@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12577 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(Toqusimasunut qinnut atorneqartartussaavoq Bahá’í-nut 15-nik ukioqalereersimasunut. "Tassaavoq Bahá’í-t pinngitsoorani qinnutigisartagaanni katersuussimasut akornanni oqaatigineqarsinnaasutuaq: atuarneqartussaavoq uppertumit ataatsimit najuuttut tamarmik nikorfaneranni. Pisariaqartitaanngilaq Qiblih [Qinunermi Sammivik] saassallugu qinnut atuarneqartillugu"  —Kitáb-i-Aqdas-imit tigusaq)
 

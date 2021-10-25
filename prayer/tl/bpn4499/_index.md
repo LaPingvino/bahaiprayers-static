@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4499 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Dalangin na uusalin sa pagtatapos ng pagpupulong ng Spiritual Assembly.
 

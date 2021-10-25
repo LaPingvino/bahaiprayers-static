@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10798 in Srpski српски'
 author = "Bahá'u'lláh"
-tags = ['lang-sr', 'bpn-unsorted']
+tags = ['lang-sr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 On je Iscelitelj, Udovoljitelj, Pomagač, Svepraštajući, Svemilosrdni.
 

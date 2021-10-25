@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2177 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 - ‘Abdu’l-Bahá
 O, Tu Dumnezeule preacurat! Sunt un mic copil; îngăduie ca sânul ce-l îndrăgesc să fie sânul bunătăţii Tale duioase; îngăduie să fiu hrănit cu mierea şi cu laptele iubirii Tale; creşte-mă la pieptul cunoaşterii Tale şi dăruieşte-mi nobleţe şi înţelepciune cât sunt încă copil.

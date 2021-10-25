@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7965 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', 'bpn-unsorted']
+tags = ['lang-mt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Hu Dak li Jagħti, Ta’ Qalb Kbira!
 Tifħir lil Alla, il-Qadim, Li Jgħammar-Dejjem, Li Ma Jinbidilx, Li Ma Jintemmx! Hu li kien xehed fl-Essenza tiegħU li fis-sewwa Huwa Hu, il-Waħdani, il-Qatt Imxekkel, il-Għoli. Aħna xhieda li fis-sewwa m’hemmx Alla għajru, nagħrfu li Huwa, nistqarru waħdanU. Hu għex minn dejjem f’għoljiet ma jintlaħqux, fil-qċaċet ta-għoli tiegħU, imqaddes minn kull titrif għajr Huwa Nnifsu, ħieles minn kull tifsir għajr Huwa.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4417 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ako siya, O aking Panginoon, na nagtuon ng Kaniyang mukha tungo sa Iyo, at nagpako ng aking pag-asa sa kamanghaan ng Iyong biyaya at sa mga kapahayagan ng Iyong pagpapala. Idinadalangin ko sa Iyo na hindi Mo tutulutang tumalikod ako nang bigo sa pintuan ng Iyong habag, ni hindi ako pababayaan sa gayong mga nilikha Mo na hindi tumanggap sa Iyong Kapakanan.
 

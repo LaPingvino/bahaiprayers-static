@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8183 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Æret være Du, o Herre min Gud! Disse er de dage, hvorpå Du har pålagt alle mennesker at overholde fasten, at de derved kan rense deres sjæle og løsrive sig fra al tilknytning til nogen undtagen Dig, og for at der fra deres hjerter må opstå det, der er værdigt for Din majestæts bolig og sømmer sig for Din åbenbarings enheds sæde. Giv, o min Herre, at denne faste må blive en flod af livgivende vande og vil fremdrage de dyder, hvormed Du har beriget den. Rens ved dens hjælp Dine tjeneres hjerter hvem det onde i verden ikke har kunnet hindre i at vende sig til Dit alherlige navn, og som er forblevet uberørte af støjen og uroen fra dem, der har afvist Dine mest strålende tegn, der har ledsaget Din manifestations komme, som Du har forlenet med Dit herredømme, Din magt, Din majestæt og herlighed. Disse er de tjenere, der så snart Din kalden nåede dem ilede mod Din barmhjertighed og ikke blev tilbageholdt af denne verdens forandringer og tilfældigheder eller af nogle menneskelige begrænsninger.
 

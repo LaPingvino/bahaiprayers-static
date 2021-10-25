@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4489 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Sa Pangalan ng Diyos, ang Kataas-taasan! Purihin at luwalhatiin Ka, Panginoon, Diyos na Makapangyarihan sa Lahat! Ikaw na sa harap ng Iyong kadunungan ang madunong ay hindi nakapantay at nabigo, sa harap ng Iyong kaalaman ang marunong ay umamin ng kaniyang kamangmangan, sa harap ng Iyong lakas ang malakas ay nanghina, sa harap ng Iyong kasaganaan ang mayaman ay sumasaksi sa kaniyang kahirapan, sa harap ng Iyong liwanag ang naliliwanagan ay nawawala sa karimlan, tungo sa dambana Iyong kaalaman ay bumaling ang diwa ng lahat ng pag-unawa at palibot ng santuwaryo ng Iyong kinaroroonan ay umiikot ang mga kaluluwa ng sangkatauhan.
 

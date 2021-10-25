@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7330 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Każdy, kto podróżuje poprzez miasta, wioski i osady (…) rozsiewając Boskie aromaty, powinien każdego ranka uważnie przeczytać tę oto modlitwę:
    

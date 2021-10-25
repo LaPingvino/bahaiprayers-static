@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8917 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 任何至異域傳導的人，均可日夜誦讀以下禱文。
 

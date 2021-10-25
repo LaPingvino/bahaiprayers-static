@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4307 in Україна'
 author = "Bahá'u'lláh"
-tags = ['lang-uk', 'bpn-unsorted']
+tags = ['lang-uk', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Промовляється раз на добу, між полуднем і заходом сонця
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9544 in Nederlands'
 author = "Báb"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Báb"]
 +++
 Beschik voor mij en voor hen die in U geloven, o mijn Heer, hetgeen naar Uw oordeel het beste voor ons is, zoals beschreven in het Moederboek, want Gij houdt de vastgestelde maat van alle dingen in Uw greep.
 Uw goede gaven worden onophoudelijk uitgestort over hen die Uw liefde koesteren, en de wondere tekenen van Uw hemelse genadegaven worden overvloedig geschonken aan hen die Uw goddelijke eenheid erkennen. Wat Gij ook maar voor ons bestemt vertrouwen wij toe aan Uw zorg, en wij smeken U ons al het goede dat Uw kennis behelst te schenken.

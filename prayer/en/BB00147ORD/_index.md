@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00147ORD in English'
 author = "Báb"
-tags = ['lang-en', 'BB00147ORD']
+tags = ['lang-en', 'BB00147ORD', "Báb"]
 +++
 Ordain for me, O my Lord, and for those who believe in Thee that which is deemed best for us in Thine estimation, as set forth in the Mother Book, for within the grasp of Thy hand Thou holdest the determined measures of all things.
 Thy goodly gifts are unceasingly showered upon such as cherish Thy love, and the wondrous tokens of Thy heavenly bounties are amply bestowed on those who recognize Thy divine Unity.  We commit unto Thy care whatsoever Thou hast destined for us, and implore Thee to grant us all the good that Thy knowledge embraceth.

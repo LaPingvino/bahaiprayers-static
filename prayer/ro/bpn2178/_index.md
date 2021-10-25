@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2178 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 - ‘Abdu’l-Bahá
 O, Doamne! Fă din aceşti copii plante desăvârşite. Îngăduie-le şi dăruieşte-le prospeţime şi frumuseţe prin revărsările norilor Împărăţiei Abhá8.

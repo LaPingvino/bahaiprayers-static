@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5309 in Bosanski'
 author = "Bahá'u'lláh"
-tags = ['lang-bs', 'bpn-unsorted']
+tags = ['lang-bs', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Oizabrana ženo! On je Bog; slavljena neka je divota Njegovog svjetla.
 Riječi ove molitve objavljene su onoj koja je vjerovala u znake svoga Gospodara i koja je ubrojana među one koji su Mu potpuno posvećeni. Posvjedoči da uistinu nema Boga osim Njega, koji je i moj i tvoj Gospodar, te da drugi Bog osim Njega ne postoji; On je Dobrostivi, Svemogući.

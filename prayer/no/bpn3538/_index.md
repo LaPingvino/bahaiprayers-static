@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3538 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Morgen
  

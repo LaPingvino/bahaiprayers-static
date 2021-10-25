@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2111 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lăudat fie numele Tău, o, Doamne
 Dumnezeul meu! Tu vezi cum m-am întors către Tine şi mi-am îndreptat faţa spre harul şi darurile Tale. Te implor, întru numele Tău prin care le-ai îngăduit tuturor celor ce ţi-au recunoscut unitatea să se împărtăşească din vinul milostivirii Tale, şi tuturor celor ce s-au apropiat de Tine să soarbă din apele vii ale bunătăţii Tale duioase, să mă cureţi pe de-a întregul de toate închipuirile deşarte şi să mă înclini înaintea harului Tău, o, Tu care eşti Stăpânul tuturor oamenilor!

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8921 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 為傳播上帝芬芳而穿梭於城鎮、村莊的教友，每天早晨都應細讀這篇禱文。
 

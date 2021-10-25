@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2158 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Legământul căsătoriei, versetul ce trebuie rostit în mod individual de către mire şi mireasă în prezenţa a cel puţin doi martori acceptaţi de Adunarea Spirituală, este stipulat în Kitáb-i-Aqdas:
 

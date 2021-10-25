@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7675 in Kreyol Ayisyen'
 author = "Abdu'l-Bahá"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Lwanj ak glwa pou Ou, O Senyè Bondye mwen! Sa a se yon jèn pyebwa espesyal Ou te plante nan plèn lanmou Ou epi Ou te ba li swen avèk dwèt Otorite Ou. Ou te wouze li avèk sous lavi etènèl la ki koule nan jaden linite Ou yo e Ou te fè nyaj dous mizèrikòd Ou yo voye favè Ou yo desann sou li. Kounyeya li gen tan pouse ak devlope anba pwoteksyon benediksyon Ou yo ki soti nan Sous lespri diven Ou. Li kouvri ak fèy ak flè, li chaje ak fwi akoz pwoteksyon Ou ki soti nan kado ak bonte mèveye Ou yo e li balanse nan dous briz pafime ki soti nan direksyon jantiyès Ou a ki plen lanmou.
 O Senyè! Fè jèn pyebwa sa vin vèt, frèch e flerisan avèk grandè bonte ak favè espesyal Ou yo - yon bonte ak favè Ou te sèvi pou abiye tabènak sentete yo nan Wayòm Ou an ki p’ap janm fini e pou dekore manifestasyon linite yo nan chan rankont lan.

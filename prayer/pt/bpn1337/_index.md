@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1337 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Suplico-Te, ó meu Deus, pelo Teu grande Sinal, e pela revelação da Tua graça entre os homens, que não me expulses dos portais da cidade da Tua presença, e não frustres as esperanças que depus nos manifestantes da Tua graça em meio às Tuas criaturas. Vês-me, ó meu Deus, apoiando-me no Teu Nome, o Mais Sagrado, o Mais Luminoso, o Potentíssimo, o Supremo, o Sublime, o Mais Glorioso, e segurando-me à orla das vestes à qual se seguraram todos deste mundo e do vindouro.
 Suplico-Te, ó meu Deus, pela Tua dulcíssima Voz e pela Tua mais sublime Palavra, que me aproximes, cada vez mais, do limiar da Tua porta, e não permitas que eu me retire para longe da sombra da Tua mercê e do pálio da Tua generosidade. Vês-me, ó meu Deus, apoiando-me no Teu Nome, o Mais Sagrado, o Mais Luminoso, o Potentíssimo, o Supremo, o Sublime, o Mais Glorioso, e segurando-me à orla das vestes à qual se seguraram todos deste mundo e do vindouro.

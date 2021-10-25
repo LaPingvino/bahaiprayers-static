@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH08852 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH08852']
+tags = ['lang-en', 'BH08852', "Bahá'u'lláh"]
 +++
 Glory to Thee, O my God!  One of Thy handmaidens, who hath believed in Thee and in Thy signs, hath entered beneath the shadow of the tree of Thy oneness.  Give her to quaff, O my God, by Thy Name, the Manifest and the Hidden, of Thy choice sealed Wine that it may take her away from her own self, and make her to be entirely devoted to Thy remembrance, and wholly detached from any one beside Thee.
 Now that Thou hast revealed unto her the knowledge of Thee, O my Lord, deny her not, by Thy bounty, Thy grace; and now that Thou hast called her unto Thyself, drive her not away from Thee, through Thy favor. Supply her, then, with that which excelleth all that can be found on Thine earth.  Thou art, verily, the Most Bountiful, Whose grace is immense.

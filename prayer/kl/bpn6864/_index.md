@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6864 in Kalaallisut'
 author = "Abdu'l-Bahá"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 #Ilinniartitsinissamut qinnutit Pilersaarutip Guuterpaluttup Allagaanit
 ##Canadami Kalaallillu Nunaanni Bahá'í-nut

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5138 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *"Barangsiapa berangkat kemana saja untuk menyebarkan Firman Tuhan, biarlah dia membaca doa ini pada siang dan malam hari selama perjalanannya ke daerah-daerah asing."
 

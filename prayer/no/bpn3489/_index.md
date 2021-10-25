@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3489 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Fremsies daglig, morgen, middag og aften.
 *La den som ønsker å be, vaske hendene, og mens han vasker dem, la ham si:

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8269 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #Lawh-i-Mawlúd
 ##Tablet of the Birth

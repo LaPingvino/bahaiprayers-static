@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00431PIT in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB00431PIT']
+tags = ['lang-en', 'AB00431PIT', "Abdu'l-Bahá"]
 +++
 Lord!  Pitiful are we, grant us Thy favor; poor, bestow upon us a share from the ocean of Thy wealth;needy, do Thou satisfy us; abased, give us Thy glory.  The fowls of the air and the beasts of the field receive their meat each day from Thee and all beings partake of Thy care and loving kindness.
 Deprive not this feeble one of Thy wondrous grace and vouchsafe by Thy might unto this helpless soul Thy bounty.

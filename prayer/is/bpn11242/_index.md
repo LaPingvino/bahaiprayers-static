@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11242 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Fara má 19 sinnum með eftirfarandi bæn þegar taka þarf ákvörðun um brýnt málefni:
 

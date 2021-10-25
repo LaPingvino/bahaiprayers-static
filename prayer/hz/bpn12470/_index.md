@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12470 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', 'bpn-unsorted']
+tags = ['lang-hz', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Unona Nye Vo Vanhu
 (O Children of men)

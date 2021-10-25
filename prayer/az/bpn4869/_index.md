@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4869 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ya Rəbb! Mən bir uşağam; Məni Öz inayət kölgəndə böyüt. Mən zərif bir bitkiyəm, məni Öz feyz buludlarının yağışları ilə bəslə. Mən məhəbbət bağının fidanıyam, məni bəhrəli bir ağac eylə.
 

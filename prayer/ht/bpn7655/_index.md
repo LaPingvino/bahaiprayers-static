@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7655 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Se Li Ki Pisan an, Ki Padone, Ki Gen Kè Sansib!
 O Bondye, Bondye mwen! Ou wè sèvitè Ou yo nan falèz lanfè ak erè; O Ou menm Dezi mond la, ki kote limyè direksyon diven Ou? Ou konnen kòman yo pa kapab ede tèt yo e jan yo fèb; ki kote siyn pouvwa Ou, O Ou menm Ki kenbe nan men Ou tout pouvwa syèl la ak tè a?

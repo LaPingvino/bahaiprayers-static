@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9751 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Gij ziet, o God van Barmhartigheid, Gij Wiens kracht al het geschapene doordringt, deze dienaren van U, Uw slaven, die overeenkomstig het welbehagen van Uw wil overdag de door U voorgeschreven vasten nakomen, die bij het krieken van de dag opstaan om van Uw Naam te gewagen en Uw lof te bezingen, in de hoop hun deel te verkrijgen van de voortreffelijkheden die bewaard liggen in de schatkamers van Uw genade en milddadigheid. Ik smeek U, o Gij die de teugels van de gehele schepping in Uw handen houdt en in Wiens greep het ganse koninkrijk van Uw namen en hoedanigheden ligt, om Uw dienaren in Uw Dag niet de stromen te onthouden die neerdalen uit de wolken van Uw barmhartigheid, en hen niet te weerhouden hun deel uit de oceaan van Uw welbehagen te nemen.
 Alle atomen van de aarde getuigen, o mijn Heer, van de grootsheid van Uw kracht en Uw heerschappij, en alle tekenen van het heelal bevestigen de heerlijkheid van Uw majesteit en Uw macht. O Gij die de oppermachtige Heer van allen zijt, de Koning van eeuwige dagen en Heerser over alle natiën, heb dan mededogen met deze dienaren van U, die zich vastklemmen aan het koord van Uw geboden, die het hoofd buigen voor de openbaring van Uw wetten die zijn neergezonden uit de hemel van Uw Wil.

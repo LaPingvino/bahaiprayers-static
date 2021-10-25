@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7853 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Dio, mio Dio! Questa Tua ancella Te invoca, in Te confida, verso Te rivolge il viso, implorandoTi di concederle le Tue grazie celesti, di svelare i Tuoi misteri spirituali e di avvolgerla nelle luci della Tua Divinità.
 O mio Signore! Fa’ che gli occhi del mio consorte vedano. Allieta il suo cuore con la luce del conoscerTi, trai la sua mente alla Tua luminosa beltà, ristora il suo spirito rivelandogli i Tuoi palesi splendori.

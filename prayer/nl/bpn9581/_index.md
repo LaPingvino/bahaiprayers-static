@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9581 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Hij is God!
 O God, mijn God! Dit zijn dienaren die in Uw dagen bekoord zijn door de geuren van Uw heiligheid, die aangestoken zijn door de vlam die brandt in Uw heilige boom, gehoor geven aan Uw stem, Uw lof uiten, gewekt zijn door Uw bries, geroerd zijn door Uw zoete geuren, Uw tekenen aanschouwen, Uw verzen begrijpen, Uw woorden beluisteren, in Uw Openbaring geloven en zeker zijn van Uw goedertierenheid. O Heer, hun blik is gevestigd op Uw koninkrijk van luisterrijke glorie en hun gelaat is gekeerd naar Uw rijk in den hoge, hun hart klopt van liefde voor Uw stralende en glorierijke schoonheid, hun ziel wordt verteerd door de vlam van Uw liefde, o Heer van deze wereld en de wereld hierna, hun leven ziedt met het vuur van hun verlangen naar U en hun tranen stromen voor U.

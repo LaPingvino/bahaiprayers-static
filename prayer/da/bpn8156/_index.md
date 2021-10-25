@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8156 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Lad enhver, der rejser i forskellige egne for at undervise læse denne bøn over bjerg, ørken, land og hav.
 

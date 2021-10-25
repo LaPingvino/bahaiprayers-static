@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8801 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 祂是崇高的上帝，慈愛與慷慨之主！
 我的上帝，全能的主啊，榮耀歸於祢！我見證祢的全能和偉大，祢的權威和慈愛，祢的恩典和威力，祢存在的唯一，祢本質的同一。祢的神聖和崇高超乎存在界，凌駕於萬物之上。

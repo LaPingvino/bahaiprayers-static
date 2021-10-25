@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5197 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dimuliakanlah Nama-Mu, Ya Rabi Tuhanku.
 Lihatlah mataku yang dengan penuh harapan ingin melihat keajaiban-keajaiban rahmat-Mu, dan telingaku rindu akan mendengar lagu-lagu merdu-Mu dan kalbuku berhasrat keras pada air hidup ilmu-Mu.

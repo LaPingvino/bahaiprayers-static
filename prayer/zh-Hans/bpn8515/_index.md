@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8515 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', 'bpn-unsorted']
+tags = ['lang-zh-Hans', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 圣洁的上帝啊！我是一个幼儿，请让祢施惠的胸怀成为我舒适温馨的憩息园地。请助我茁壮成长，以祢爱的琼浆蜜乳滋养我，在祢知识之汪洋中训练我；在我孩提时，就赐我自由与卓越！
 无与伦比者啊！让我确信那不可见之王国！诚然，祢是大能者，强力者。

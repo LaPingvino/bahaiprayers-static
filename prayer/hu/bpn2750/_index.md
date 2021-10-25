@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2750 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 A böjt
 *[A tizenkilenc napos böjti időszak egybeesik az ‘Alá’ hónappval, vagyis általában a március 2-20. közötti időszakkal, közvetlenül a Szökőnapok végetérte után következik, és a Naw-Rúz ünnep követi.]

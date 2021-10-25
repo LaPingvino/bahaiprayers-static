@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2281 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O, Doamne Dumnezeul meu, ajută-l pe
 slujitorul Tău să preamărească

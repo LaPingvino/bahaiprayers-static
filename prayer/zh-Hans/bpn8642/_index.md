@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8642 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', 'bpn-unsorted']
+tags = ['lang-zh-Hans', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 任何为传导而旅行各地者，在跨越高山、沙漠、陆地、海洋时皆应详读这一祷文。
 上帝啊，上帝！在祢创造的万物面前，祢看到我的弱点、卑下和谦让；然我信赖祢，凭借祢的权威和力量，我已挺身而起，在祢忠仆中传导信仰。

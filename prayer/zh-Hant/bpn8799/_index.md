@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8799 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 這是唯一的一篇用於集體祈禱的巴哈伊必誦禱文。由一人吟誦，餘者靜立。吟誦時不須朝向吉卜利。巴哈歐拉諭示離世者須滿十五歲方可為之吟誦此禱文，且要在入殮前吟誦。
 

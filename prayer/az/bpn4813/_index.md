@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4813 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Sənin mərhəmətinlə bu səhər yuxudan qalxmışam, Ey mənim Allahım. Bütünlüklə Sənə təvəkkül edərək və özümü Sənin himayənə təslim edərək evimdən çıxmışam. İndi Öz mərhəmət göylərindən Sənin yanında olan xeyr-bərəkətləri mənim üzərimə göndər və fikrimdə yalnız Sən olmaqla məni Öz hifzin altında evdən çıxardığın kimi, sağ-salamat da evimə qaytar.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12728 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Puji meh Nuan, O Tuhan Petara aku! Aku minta ngagai
 Nuan nengah Revelasyen tu ke alai pemetang udah ditukar enggau penampak, ke alai Kaaba Penyuah udah didirika, lalu Papan Tulis udah dipegarika, lalu Gulung Pengerembai udah dibuka, ngirum ke baruh ngagai aku enggau ngagai sida ti dalam raban aku utai ti deka ngasuh kami terebai ngagai serega ngelui mulia Nuan, lalu deka meresi kami ari pechik pengakang ti udah nekul orang ti sangka masuk ngagai panggau penyerakup Nuan.

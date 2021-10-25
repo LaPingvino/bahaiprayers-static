@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11521 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ¡Él es Dios! ¡Exaltado sea Él, el Señor de amorosa bondad y generosidad!
 ¡Gloria sea a Ti, oh mi Dios, Señor Omnipotente! Soy testigo de Tu omnipotencia y Tu poder, de Tu soberanía y Tu bondad, de Tu gracia y Tu fuerza, de la unicidad de Tu Ser y la unidad de Tu Esencia, de Tu santidad y Tu exaltación sobre el mundo de la existencia y todo cuanto hay en él.

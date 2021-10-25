@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4746 in Azərbaycan'
 author = "Báb"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Báb"]
 +++
 Ey mənim Rəbbim, mənə və Sənə inananlara, Ana Kitabda müəyyən olunduğu kimi, Sənin nəzərində bizim üçün xeyirli olanları qismət eylə, çünki bütün şeylərin ölçüsünü Sən Öz ovcunda tutursan.
 

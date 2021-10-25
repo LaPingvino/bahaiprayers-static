@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4407 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Diyos, aking Diyos! Ito ang Iyong nagniningning na tagapaglingkod, ang Iyong espiritwal na alipin, na lumapit sa Iyo at sumapit sa Iyong kinaroroonan. Ibinaling niya ang kaniyang mukha sa Iyo, kinikilala ang Iyong pagkakaisa, sumasaksi sa Iyong pag-iisa, at isinigaw niya ang Iyong pangalan sa mga bansa, at inakay ang mga tao patungo sa dumadaloy na mga tubig ng Iyong habag, O Ikaw na Pinakabukas-Palad na Panginoon! Sa mga nagtanong pinainom Niya buhat sa kalis ng pamamatnubay na umaapaw sa alak ng Iyong di masusukat na biyaya.
 

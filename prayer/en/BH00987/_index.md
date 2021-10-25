@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH00987 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH00987']
+tags = ['lang-en', 'BH00987', "Bahá'u'lláh"]
 +++
 #Long Obligatory Prayer
 ##To be recited once in twenty-four hours

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5280 in Bosanski'
 author = "Báb"
-tags = ['lang-bs', 'bpn-unsorted']
+tags = ['lang-bs', 'bpn-unsorted', "Báb"]
 +++
 *‚Budi strpljiv u svim okolnostima i daj svo svoje povjerenje i pouzdanje Bogu.‛ –Bahá’u’lláh
 

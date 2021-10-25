@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9103 in Alaska Native'
 author = "Báb"
-tags = ['lang-ik', 'bpn-unsorted']
+tags = ['lang-ik', 'bpn-unsorted', "Báb"]
 +++
 **Remover of Difficulties
 

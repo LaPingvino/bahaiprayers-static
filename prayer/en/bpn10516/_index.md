@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10516 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Thou beloved of my heart and soul!  I have no refuge save Thee.  I raise no voice at dawn save in Thy commemoration and praise.  Thy love encompasseth me and Thy grace is perfect.  
 My hope is in Thee. 

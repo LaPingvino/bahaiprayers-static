@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10215 in Māori'
 author = "Bahá'u'lláh"
-tags = ['lang-mi', 'bpn-unsorted']
+tags = ['lang-mi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ko Ia ko Koe, e tōku Atua, Mā Ōu ingoa te hunga e māuiuingia ana me te hunga e matengia ana e whakaora, te hunga hiainu e whai wai, te hunga manawapā e whakangā, te hunga matawhawhati e whai arataki, te hunga whakahaurarotia e whaikorōria, te hunga pōhara e whairawa, te hunga kūware e whakamātautia, te hunga pāpōuri e whakaharikoatia, te hunga māeke e whakamahanatia, ā, ko te hunga e pēpehitia ana e whakahikitia. Nā Tōu ingoa e tōku Atua, ngā hanganga katoa i whakaoreoretia ai, ngā rangi i whakahoratia ai, te whenua i whakatūria ai, ngā kapua i hikitia ai me te whenua kia uātātāngia ai. Tūturu, koia tēnei te tohu o Tō atawhai ki runga ki Āu kīrehe koiora katoa. 
 

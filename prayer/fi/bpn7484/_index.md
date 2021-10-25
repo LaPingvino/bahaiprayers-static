@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7484 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', 'bpn-unsorted']
+tags = ['lang-fi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *"Päivittäisiä velvollisuusrukouksia on määrältään kolme. ... Uskova on täysin vapaa valitsemaan minkä tahansa näistä kolmesta rukouksesta, mutta hän on velvollinen lausumaan yhden niistä ja niiden erityisohjeiden mukaisesti, jotka siihen liittyvät.  Velvollisuusrukousten yhteydessä mainitut "aamu", "keskipäivä" ja "ilta" tarkoittavat vastaavasti aikoja auringonnoususta keskipäivään, keskipäivästä auringonlaskuun ja auringonlaskusta kaksi tuntia eteenpäin. Kitáb-i-Aqdas, Yleiskatsaus ja koonnos
 

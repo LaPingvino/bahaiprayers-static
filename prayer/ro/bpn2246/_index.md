@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2246 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Slăvit fii Tu, o, Doamne Dumnezeul meu! Te implor, întru Străvechea Ta Frumuseţe şi întru Cel Mai Mare Nume al Tău, pe care L-ai sacrificat pentru ca toţi locuitorii cerului şi pământului Tău să se poată naşte din nou, şi pe care L-ai aruncat în temniţă, ca o dovadă a mărinimiei şi tăriei Tale suverane, pentru ca omenirea să poată fi eliberată din sclavia patimilor deşarte şi a dorinţelor corupte, să mă numeri printre cei care au inhalat atât de adânc mireasma milostivirii Tale, şi s-au grăbit cu asemenea repeziciune către apele vii ale harului Tău, încât nici o săgeată nu i-a putut împiedica de-a se întoarce dinspre Tine şi nici o suliţă nu i-a oprit de a-şi îndrepta feţele către orizontul Revelaţiei Tale.
 

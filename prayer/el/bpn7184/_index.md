@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7184 in ελληνικά'
 author = "Báb"
-tags = ['lang-el', 'bpn-unsorted']
+tags = ['lang-el', 'bpn-unsorted', "Báb"]
 +++
 Στο Όνοµα του Θεού, του Κυρίου υπέρτερου µεγαλείου, του Επιβλητικού στα πάντα.
 

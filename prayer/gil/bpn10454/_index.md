@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10454 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #Te Tabureti Nakon Ahmad
 

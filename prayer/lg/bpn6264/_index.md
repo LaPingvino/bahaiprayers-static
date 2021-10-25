@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6264 in Luganda'
 author = "Bahá'u'lláh"
-tags = ['lang-lg', 'bpn-unsorted']
+tags = ['lang-lg', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Nyinza ntya okusatawo okw'ebaka, Ayi Katonda wange, nga abo abegomba okubeera naawe tebebaka olw'okwawukana naawe; era nyinza ntya okweganzika n'empumula nga emyoyo gy'abaagalwa Bo girumwa obujiji, olw'okubeera ewata okuva Gyoli?
 Omwoyo gwange, n'obulamu bwange bwonna, mbutadde mu mukono Gwo ogwadyo, ogw'amaanyi g'obukuumi Bwo, era nganzika omutwe gwange ku mutto kulw'amaanyi Go, era ngolokokera mu kusiima Kwo n'essanyu Lyo eddungi.  Ggwe mu mazima Ggwe mukuumi, Alabirira, Ayinza byonna, Asinga bonna amaanyi.

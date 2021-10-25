@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2712 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ó, Uram, Istenem, bajban Menedékem! Csapások záporában Pajzsom és Védelmem! Te vagy szükségben Óvóhelyem és Mentsváram, Társam magányomban! Te vagy Vigasztalóm a szenvedésben és szerető Barátom az egyedüllétben! Gyötrelmeim Eltávolítója és bűneim Megbocsátója!
 

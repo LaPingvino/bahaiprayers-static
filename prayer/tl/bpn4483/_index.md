@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4483 in Filipino'
 author = "Báb"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Báb"]
 +++
 Iukol sa akin, O aking Panginoon, at sa mga naniniwala sa Iyo, ang siyang ipinalagay Mong pinakamabuti para sa amin sa Iyong paningin, sang­ayon sa nakasaad sa Inang-Aklat, dahil sa hawak ng Iyong kamay ay natatanganan Mo ang tiyak na sukat ng lahat ng mga bagay.
 

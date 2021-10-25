@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8179 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Bøn til afslutning af møde i det åndelige råd:
 

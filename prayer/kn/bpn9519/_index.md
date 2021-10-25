@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9519 in ಕನ್ನಡ'
 author = "Bahá'u'lláh"
-tags = ['lang-kn', 'bpn-unsorted']
+tags = ['lang-kn', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##ಅಗ್ನಿಶಾಸನ
 ಪರಮ ಪ್ರಾಚೀನನೂ ಮಹಾಮಹಿಮನೂ ಆದ ದೇವರ ಹೆಸರಿನಲ್ಲಿ.  

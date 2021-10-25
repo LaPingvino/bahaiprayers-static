@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH09085 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH09085']
+tags = ['lang-en', 'BH09085', "Bahá'u'lláh"]
 +++
 *The Prayer for the Dead is the only Bahá’í obligatory prayer that is to be recited in congregation; it is to be recited by one believer while all present stand in silence.  Bahá’u’lláh has clarified that this prayer is required only when the deceased is over the age of fifteen, that its recital must precede interment, and that there is no requirement to face the Qiblih during its recitation.  “Alláh-u-Abhá” is said once; then the first of the six verses is recited nineteen times.  Then “Alláh-u-Abhá” is said again, followed by the second verse, which is recited nineteen times, and so on.
 

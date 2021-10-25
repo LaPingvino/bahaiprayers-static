@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6385 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Dduw, arwain fi, gwarchod fi, gwna fi yn lamp olau a seren ddisglair.  Ti yw’r Nerthol a’r Grymus.
 

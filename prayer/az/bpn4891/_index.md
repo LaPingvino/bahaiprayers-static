@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4891 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Həqiqi sevinc və şadlıqla bir yerə toplaşın və görüşün əvvəlində bu münacatı oxuyun:
 

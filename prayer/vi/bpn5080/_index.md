@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5080 in Tiếng Việt'
 author = "Abdu'l-Bahá"
-tags = ['lang-vi', 'bpn-unsorted']
+tags = ['lang-vi', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Lạy Thượng Đế, lạy Thượng Đế của con!
 Đây là con chim bị gãy cánh và bay rất chậm chạp. Xin hãy giúp đỡ nó, để nó có thể bay đến nơi cao điểm của sự thịnh vượng và cứu rỗi, tung cánh bay lên với niềm hoan lạc và hạnh phúc tuyệt đỉnh trong bầu trời vô hạn, hót lên những âm thanh du dương của Tối Đại Danh Ngài đến khắp mọi nơi trong vũ trụ, làm thỏa thích đôi tai bằng lời kêu gọi này, và làm sáng chói đôi mắt bằng những dấu hiệu của sự hướng dẫn!

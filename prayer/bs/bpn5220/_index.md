@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5220 in Bosanski'
 author = "Bahá'u'lláh"
-tags = ['lang-bs', 'bpn-unsorted']
+tags = ['lang-bs', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *"Bahá’i brak je ujedinjenje dvoje ljudi u iskrenoj ljubavi. Ipak, oni moraju biti krajnje oprezni i dobro poznavati narav partnera. Ova vječna spona se mora osigurati čvrstim zavjetom s ciljem da se uspostavi sklad, prijateljstvo i jedinstvo i da se dosegne vječni život.‛ - ’Abdu’l-Bahá
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3588 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Bahá'u'lláh bestemmer i "Kitab-i-Aqdas" at denne bønnen skal fremsies, i sin helhet, for den avdøde ved en bahá'í-begravelse. Den leses før jordfestelsen av en person mens de øvrige står.
  

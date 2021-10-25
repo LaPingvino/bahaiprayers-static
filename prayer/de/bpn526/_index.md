@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn526 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Mein Gott, Du meiner Anbetung und meiner Sehnsucht Ziel, Du Allgütiger, Mitleidvollster! Alles Leben kommt von Dir, und alle Gewalt ruht in Deiner Allmacht Griff. Wen immer Du erhebst, der ist über die Engel erhoben und erreicht die Stufe des: „Wahrlich, Wir erhoben ihn zu hohem Rang“, und wen Du erniedrigst, der wird niedriger denn Staub, nein, geringer als das Nichts.
 O göttliche Vorsehung! Böse, sündig und haltlos wie wir sind, suchen wir dennoch bei Dir einen „Sitz der Wahrheit“ und sehnen uns, das Antlitz des Allmächtigen Königs zu schauen. Dein ist der Befehl, Dein ist alle Herrschaft, und das Reich der Macht beugt sich vor Deinem Geheiß. Alles, was Du tust, ist reine Gerechtigkeit, nein, Inbegriff der Gnade. Ein Strahl vom Glanze Deines Namens, der Allbarmherzige, genügt, jede Spur von Sündhaftigkeit aus der Welt zu bannen und zu tilgen, und ein Hauch der sanften Winde vom Tag Deiner Offenbarung reicht aus, die ganze Menschheit mit einem neuen Gewande zu schmücken.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2122 in România'
 author = "Báb"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Báb"]
 +++
 În Numele lui Dumnezeu, Stăpânul
 maiestăţii copleşitoare, Cel Atotbiruitor. Slăvit fie Domnul în mâna Căruia este izvorul stăpânirii. El aduce în fiinţă tot ceea ce doreşte prin cuvântul poruncii Sale „Fii”, şi este.

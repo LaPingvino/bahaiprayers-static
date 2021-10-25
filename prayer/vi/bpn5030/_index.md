@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5030 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', 'bpn-unsorted']
+tags = ['lang-vi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Nawruz
 *(Thánh Lễ Naw-ruz, 21-3, là ngày đầu năm Baha'i và là ngày vui mừng)

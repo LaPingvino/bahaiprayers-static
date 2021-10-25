@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12645 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Mulia	meh	ke	Nuan,	O	Tuhan	ke	dunya	enggau
 Pengingin ke semua menua, O Nuan ti udah dipegari dalam Nama ti Pemadu Tebangkar, ke alai mutiara pemintar enggau sada nyawa udah pansut ari kerubung tasik penemu Nuan ti besai, lalu revelasyen ti kudus udah diyas ngena penampak penatai matahari rampa-mua Nuan.

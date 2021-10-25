@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4065 in Кыргыз'
 author = "Bahá'u'lláh"
-tags = ['lang-ky', 'bpn-unsorted']
+tags = ['lang-ky', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Маркумду жайга коёр адыңга окулуучу жаназа
 

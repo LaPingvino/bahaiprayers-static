@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7992 in Malti'
 author = "Abdu'l-Bahá"
-tags = ['lang-mt', 'bpn-unsorted']
+tags = ['lang-mt', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Alla tiegħi! O Alla tiegħi! Fis-sew, jien insejjaħleK u nitlob quddiem il-għatba tiegħeK, nitolboK li-l-ħniena kollha tiegħeK tinżel fuq dawn l-erwieħ. Irfinahom għall-għoġba tiegħeK u għas-sewwa tiegħeK. 
 

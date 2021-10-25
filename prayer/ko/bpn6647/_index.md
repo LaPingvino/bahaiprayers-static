@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6647 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 제가 확고부동하게 할 것을 내려 주시와
 

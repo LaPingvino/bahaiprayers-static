@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2176 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 - ‘Abdu’l-Bahá
 O, Doamne! Ocroteşte copiii care se nasc în Ziua Ta, sunt crescuţi la sânul iubirii Tale şi sunt îngrijiţi la pieptul harului Tău.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11494 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ¡Glorificado eres Tú, oh Señor, mi Dios! Te doy gracias, pues me has dado la existencia en Tus días y me has infundido Tu amor y Tu conocimiento. Te imploro, por Tu Nombre, mediante el cual las delicadas perlas de Tu sabiduría y Tu expresión fueron extraídas de los erarios de los corazones de aquellos de Tus siervos que están cerca de Ti, y por medio del cual el Sol de Tu Nombre, el Compasivo, ha derra-mado su resplandor sobre todos los que están en Tu cielo y en Tu tierra, que me brindes, por Tu gracia y munificencia, Tus dádivas ocultas y maravillosas.
 Estos son los primeros días de mi vida, oh mi Dios, que Tú has vinculado a Tus propios días. Ya que me has conferido tan grande honor, no me prives de las cosas que has ordenado para Tus elegidos.

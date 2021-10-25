@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8646 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', 'bpn-unsorted']
+tags = ['lang-zh-Hans', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 上帝福音的传播者可于每天清晨吟诵此祷文。
 主啊，我的上帝！赞美与感恩归于祢，因祢引导我走向天国大道，准许我步入这笔直绵延之途，让我的眼因注视祢煌煌圣光而明亮，使我的耳因听闻神秘王国的圣鸟之妙音而聪慧，让我因心仪祢的爱而置身于义人之中。

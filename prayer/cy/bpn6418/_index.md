@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6418 in Cymraeg'
 author = "Báb"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Báb"]
 +++
 Clod i Ti, O Arglwydd. Maddau i ni ein pechodau, bydd yn raslon tuag atom a galluoga ni i ddychwelyd atat Ti... Yn wir, Ti yw'r Cymorth mewn Perygl, yr Hunan-gynhaliol.
 

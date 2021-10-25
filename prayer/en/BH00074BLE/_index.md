@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH00074BLE in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH00074BLE']
+tags = ['lang-en', 'BH00074BLE', "Bahá'u'lláh"]
 +++
 Blessed is the spot, and the house,
 and the place, and the city,

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6659 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##「아흐마드」의 서한
 

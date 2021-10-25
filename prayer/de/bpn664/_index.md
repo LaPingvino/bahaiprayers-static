@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn664 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #TÄGLICH MORGENS, MITTAGS UND ABENDS ZU SPRECHEN
 

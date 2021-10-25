@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4091 in Кыргыз'
 author = "Abdu'l-Bahá"
-tags = ['lang-ky', 'bpn-unsorted']
+tags = ['lang-ky', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *(Абдул-Баха аркылуу ачылган бул текс анын ыйык жайында окулат. Аны ошондой эле өздүк сыйынуу катарында да окууга болот.)
 

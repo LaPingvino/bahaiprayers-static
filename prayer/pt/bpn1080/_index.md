@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1080 in Português (BR)'
 author = "Abdu'l-Bahá"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ó bondosa e amorosa Providência! O Oriente está agitado e o Ocidente encapela-se como as vagas eternas do mar. As suaves brisas de santidade difundem-se e, do Reino Invisível, os raios do Sol da Verdade rutilam resplendentes. Os hinos da unicidade divina estão a ser entoados, e os pendões do poder celestial estão a tremular. A Voz angélica enche os ares e, como o rugido do leviatã, faz soar o chamamento à abnegação e à evanescência. O brado triunfal Yá Bahá’u’l-Abhá retumba por todas as plagas, e o chamado de Yá ’Alíyyú’l-’Alá ecoa por todas as regiões. Não há agitação no mundo a não ser a da Glória do Arrebatador de Corações, e tumulto algum existe salvo o encapelar do amor a Ele, o Incomparável, o Bem-Amado.
 Os amados do Senhor, com hálito almiscarado, ardem como velas radiantes em cada clima, e os amigos do Misericordiosíssimo encontram-se em todas as terras, tal qual flores a desabrochar. Nem por um momento sequer buscam repouso; não respiram senão em lembrança de Ti e a nada aspiram a não ser a servir a Tua Causa. Nos prados da verdade, eles são rouxinóis de doce cantar, e no jardim da guia, flores de vívidas cores. Adornam com rosas místicas as aleias do Jardim da Realidade; como ciprestes a balouçar, alinham-se ao longo das margens do rio da Vontade Divina. No horizonte da existência, cintilam qual estrelas fúlgidas; no firmamento do mundo, luzem com o brilho de orbes esplêndidos. Manifestações da graça celestial é o que são, e auroras da luz da assistência divina.

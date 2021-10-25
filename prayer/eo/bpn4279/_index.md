@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4279 in Esperanto'
 author = "Bahá'u'lláh"
-tags = ['lang-eo', 'bpn-unsorted']
+tags = ['lang-eo', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##La Mallonga Deviga Preĝo 
 *(Citenda unufoje dum diurno tagmeze, t.e. inter tagmezo kaj sunsubiro.)

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9963 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Aqqit unnersiutigisaali, Guutiga-aa suut tamarmik Guutiat, Naalannassutaatiga suut tamarmik Naalannassutaataat, Pilerigisara suut tamarmik Pilerigisaat, Nakuussutiga suut tamarmik Nakuussutaat, Kunngera suut tamarmik Kunngiat, Piginnitsera sunik tamanik Piginnittoq, Anguniagara suut tamarmik Anguniagaat, Aallartitaqaasitsisiga sunik tamanik Aallartitaqaasitsisoq! Nallittuinerpit saamasup imavianit, qinnuigaakkit, nigorsimateqinanga imaluunniit qanissutsivit sineriaanit avinngarusimateqinanga. 
 

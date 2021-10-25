@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7943 in Malti'
 author = "Abdu'l-Bahá"
-tags = ['lang-mt', 'bpn-unsorted']
+tags = ['lang-mt', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Sid! Aħna nġibu ħniena, urina l-għoġba tiegħeK; foqra, agħtina sehem mill-oċejan tal-ġid tiegħeK; fil-bżonn, xebbagħna Inti; imkejna, agħtina l-glorja tiegħeK. It-tjur tas-sema u l-bhejjem tal-għalqa jingħataw l-ikel kuljum mingħandeK, u l-ħlejjaq kollha jieħdu sehemhom mill-ħsieb u mill-ħanina mħabbteK.
 

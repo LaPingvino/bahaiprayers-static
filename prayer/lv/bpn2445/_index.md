@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2445 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', 'bpn-unsorted']
+tags = ['lang-lv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Vienmēr, ieejot padomes zālē, skaitiet šo lūgšanu, jūsu sirdīm sitot mīlestībā uz Dievu, un ar mēli, kas ir šķīsta un piemin Viņu vien. Lai Visvarenais palīdz jums gūt uzvaru.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10402 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Te tataro ibukin te mate e kakabonganaaki i bukiia kaain te Baha’i ake e a tia ni koro 15 aia ririki. “Ti aio te tataro ni Baha’i ae e kabaebae are e ananaaki n te bwanin; e na anaaki iroun temanna te tia onimaki ao ni kabane ake a roko a na tei. Akea baaireakina bwa e na kaitaraaki te Qiblih n anaaki te tataro aio.” A Synopsis & Codification of the Kitáb-i-Aqdas
 Atuau!  Bon Am toro aio ae te nati te mwaane ae natin Am toro are e a tia ni Kakoauako ma Am kanikina, ao ni kaineta moana Nakoim, ni kabwaninaki ni kamwaawaaki man bwaai nako ma bon ti Ngkoe. Bon Ngkoe, ni koaua, te kabanea n ataataiaomata mai buakoia naake a kaota te ataataiaomata.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1239 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *“A Oração de Finados é a única oração obrigatória bahá’í que deve ser recitada em congregação; deve ser lida apenas por um crente enquanto todos os presentes permanecem em pé e em silêncio. Bahá’u’lláh esclareceu que a Oração de Finados é exigida somente na morte de um adulto (maior de 15 anos), que a recitação deve preceder o sepultamento do corpo, e que não é obrigatório volver-se ao Qiblih quando ela for recitada.”
 *(Caso a pessoa morta seja mulher, que se diga: Esta é Tua serva e filha da Tua serva,...)Ó meu Deus! Este é Teu servo e filho do Teu servo, que acreditou em Ti e nos Teus sinais e a Ti dirigiu a face, desprendido completamente de tudo, salvo de Ti. Dos que mostram clemência, és Tu, em verdade, o mais clemente.

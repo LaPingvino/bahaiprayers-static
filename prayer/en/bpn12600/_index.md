@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12600 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O my kind Lord, O Thou the desire of my heart and soul!  Bestow upon Thy friends Thy loving-kindness, and grant them Thine unfailing mercy.  Be Thou a solace to Thine ardent lovers, and a friend, a comforter, and a loving companion to them who yearn for Thee.  Their hearts are ablaze with the fire of Thy love, and their souls are consumed with the flame of devotion to Thee.  They long, one and all, to hasten unto the altar of love, that they may willingly lay down their lives.
 

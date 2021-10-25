@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5425 in 日本語'
 author = "Bahá'u'lláh"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 幼子おさなごのための治癒ちゆの祈り
  

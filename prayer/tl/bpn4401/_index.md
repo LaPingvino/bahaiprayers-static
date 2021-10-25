@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4401 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Luwalhati Ka nawa, O Panginoon kong Diyos! Nagpapasalamat ako sa Iyo dahil nilikha Mo ako sa Iyong mga araw, at isinalin Mo sa akin ang Iyong pag-ibig at ang Iyong kaalaman. Nagsusumamo ako sa Iyo, sa Iyong pangalan na sa pamamagitan nito ang mabubuting mga perlas ng Iyong karunungan at Iyong mga salita ay inilabas mula sa mga kabanyaman ng mga puso nilang mga tagapaglingkod Mo na malalapit sa Iyo, at sa pamamagitan nito ang Pamimitak ng Iyong pangalan, ang Mapagmalasakit, ay nagbigay ng liwanag sa lahat ng nasa Iyong kalangitan at sa ibabaw ng Iyong lupa, na ipagkaloob sa akin sa pamamagitan ng Iyong biyaya at pagpapala, ng Iyong kamangha-mangha at natatagong mga biyaya.
 

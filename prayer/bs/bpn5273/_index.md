@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5273 in Bosanski'
 author = "Báb"
-tags = ['lang-bs', 'bpn-unsorted']
+tags = ['lang-bs', 'bpn-unsorted', "Báb"]
 +++
 U ime Gospodara, Stvoritelja, Vrhovnog, Samodovoljnog, Najuzvišenijeg, Onoga čiju pomoć traži cijelo čovječanstvo.
 Recite: o moj Bože! Ti si Stvoritelj nebesa i zemlje, Gospodaru Kraljevstva! Ti dobro poznaješ tajne moga srca dok je Tvoja Bit nedokučiva ikome sem Tebi samome. Ti znaš sve o meni, a niko drugi sem Tebe to ne može znati. Propiši mi milošću Svojom ono što će mi omogućiti da se odvojim od svega sem od Tebe, i odredi mi ono što će me učiniti nezavisnim od bilo koga sem od Tebe. Dozvoli da uberem plodove ovog i narednog života. Pred mojim licem otvori kapije Svoje milosti, i milosrdno mi dodijeli Svoju nježnu milost i blagoslove.

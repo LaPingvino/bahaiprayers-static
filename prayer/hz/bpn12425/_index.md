@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12425 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', 'bpn-unsorted']
+tags = ['lang-hz', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Hompa, Karunga wande! Ove mudongononi po ndjo, muyambeki vitapa, mutunditipo liguvo! 
 	Vyashiri, ame kuna kukushungida mukughupira po ndjo dauno ogho ana shuvo shidwata sharutu a kanduke mughudjuni wapampepo. 

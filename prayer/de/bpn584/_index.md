@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn584 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ich weiß nicht, o mein Gott, was für ein Feuer Du in Deinem Lande entzündet hast. Erde kann niemals seinen Glanz verdunkeln noch Wasser seine Flamme löschen. Alle Völker der Welt sind machtlos, seiner Gewalt zu widerstehen. Groß ist die Seligkeit dessen, der ihm nahekommt und sein Tosen hört.
 Einigen, o mein Gott, gabst Du durch Deine stärkende Gnade die Kraft, sich Deinem Feuer zu nähern, während Du andere zurückhieltest wegen der Taten, die ihre Hände in Deinen Tagen begangen. Wer immer ihm zueilt und es erreicht im brennenden Verlangen, Deine Schönheit zu schauen, gibt sein Leben auf Deinem Pfade hin und steigt zu Dir empor in völliger Loslösung von allem außer Dir.

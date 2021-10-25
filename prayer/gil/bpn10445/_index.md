@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10445 in Kiribati'
 author = "Abdu'l-Bahá"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Kaotaki nakoia kaain te Bahá’í iaon Canada ao i Greenland
 Ko na neboaki Ngkoe, O Atuau!  Aikai Am toro aika a katikaki nakon boiararan Am nanoanga, a kakiaki man ain te aroka are ura are bon Mairoum n tii Ngkoe, ao mataia a kakukureiaki man taraakin raneanean te oota are otanako mai Sinai are bon Mairoum n tii Ngkoe.

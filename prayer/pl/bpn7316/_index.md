@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7316 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ogólne modlitwy o pomoc w nauczaniu 
   

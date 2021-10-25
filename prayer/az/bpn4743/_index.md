@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4743 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ucalsın Sənin Adın, Ya Rəbb, mənim Allahım! Səni and verirəm O Adına ki, onunla Məşhər gəldi, Qiyamət qopdu, göydə və yerdə olanları qorxu və dəhşət bürüdü – Sənin mərhəmət səmandan və şəfqət buludlarından Sənə üz tutan və Əmrinə kömək edən bəndələrinin könüllərini sevindirən şeyləri nazil eylə.
 

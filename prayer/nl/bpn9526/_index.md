@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9526 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Dagelijks te reciteren, ’s ochtends, ‘s middags en ’s avonds.
 

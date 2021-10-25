@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10318 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Gud, min Gud! Jag har i ånger vänt mig  till Dig och sannerligen, Du är Förlåtaren, den Medlidsamme.
 O Gud, min Gud! Jag har återvänt till Dig  och sannerligen, Du är den evigt Förlåtande,  den Nåderike.

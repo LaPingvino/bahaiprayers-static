@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10528 in Kalaallisut'
 author = "Báb"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Báb"]
 +++
 Naalannartinneqarit Guuti-aa! Guutiuvutit suut tamaasa sioqqullugit piusimasoq,
 suut tamaasa kingoqqullugit piusussaq suullu tamaasa qaangerlugit atasussaq.

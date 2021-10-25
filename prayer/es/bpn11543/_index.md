@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11543 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##Oraciones para la enseñanza tomadas de las Tablas del Plan Divino
 ##Reveladas para los bahá’ís de los Estados Unidos y Canadá

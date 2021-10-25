@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2744 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ezen ima eredetije a Báb saját keze által íródott pentagram formában.
 

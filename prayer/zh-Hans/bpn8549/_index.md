@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8549 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', 'bpn-unsorted']
+tags = ['lang-zh-Hans', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 我的主啊，我的希望！佑助祢的钟爱者，让他们坚定地恪守祢强大圣约，永远忠诚于祢昭然圣道，履行祢光辉圣书中为他们规定的诫命。他们就能成为导引之旗帜，上天众灵的华灯，祢无穷智慧的源泉，指导正路的明星——光辉普照，高挂苍穹。
 诚然，祢是无敌者，全能者，万能者。

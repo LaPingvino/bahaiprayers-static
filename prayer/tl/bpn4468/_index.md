@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4468 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Diyos! O Diyos! Nakikita Mo na ang maitim na karimlan ay kumukubkob sa lahat ng pook, lahat ng bansa ay nasisilab sa sunog ng kasuwailan at ang apoy ng digmaan at pagpatay ay nagsiklab sa mga silangan ng lupa at mga kanluran niyon. Ang dugo ay nabububo, at ang mga bangkay ay nagratay sa lupa at ang mga pugot na ulo ay nagsibagsakan sa alabok ng larangan ng digmaan.
 

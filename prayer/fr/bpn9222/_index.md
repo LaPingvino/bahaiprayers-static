@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9222 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ô 
 mon Seigneur, j’ai dirigé vers toi mon visage et placé mon espoir dans les merveilles de ta grâce et les révélations de ta générosité. Ne souffre pas, je t’en prie, que je m’éloigne, déçu, du seuil de ta miséricorde et ne m’abandonne pas aux mains de ceux qui ont répudié ta cause.

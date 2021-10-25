@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12430 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', 'bpn-unsorted']
+tags = ['lang-hz', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Mfumwa koye ove Karunga kulimonikito lyashihoro shoye kumbunga! Oh, Ove ghuLiparu naUkenu wetu, pititira vapikoye mundjira yoye, tu renke tu ragopare mumoye nakutushutura kunavintje kwandi Koye.
 	 Hi, Karunga, tu shonge Umwe ghoye, tu pe nka lidimbururo lyaUmwe ghoye, ashi naumweshi tu kenga kwandi Ove. Ove Mufenkenda naMutapinkenda!

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11638 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ¡En Su Nombre, el Exaltado, el Altísimo, el Sublime!
 ¡Glorificado eres, oh Señor, mi Dios! ¡Oh Tú que eres mi Dios y mi Amo, y mi Señor, y mi Apoyo, y mi Esperanza, y mi Refugio, y mi Luz! Te pido, por Tu Nombre Oculto y Atesorado que nadie conoce sino Tu propio Ser, que protejas al portador de esta Tabla de toda calamidad y pestilencia, de toda persona malvada, del daño de los malhechores y de las intrigas de los descreídos. Resguárdalo, asimismo, oh Dios mío, de todo dolor y vejación, oh Tú que sostienes en Tu mano el imperio de todas las cosas. Verdaderamente, Tú eres poderoso sobre todas las cosas. Tú haces Tu voluntad y ordenas lo que deseas. 

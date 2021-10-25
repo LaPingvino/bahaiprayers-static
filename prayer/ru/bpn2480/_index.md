@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2480 in Русский'
 author = "Abdu'l-Bahá"
-tags = ['lang-ru', 'bpn-unsorted']
+tags = ['lang-ru', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 О Боже, направляй меня, защищай меня, сделай меня светильником ярким и лучезарной звездой. Ты Могуществен и Силен.

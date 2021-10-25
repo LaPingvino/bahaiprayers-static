@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2711 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ó, Uram! Te előtted nyilvánvaló, hogy az embereket fájdalom és balsors veszi körül, hogy bajok és nehézségek környezik őket. Minden megpróbáltatás és minden szörnyű csapás úgy éri az embert, mint a kígyó harapása. Nincsen más menedékhely és mentsvár számára, mint a Te védőszárnyaid alatti védelem, oltalom, őrizet és gondoskodás.
 

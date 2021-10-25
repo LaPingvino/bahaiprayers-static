@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2810 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Zot! Për të të ardhur keq jemi ne, dhurona favorin Tënd; të varfër jemi, jepna një pikë nga oqeani i pasurisë Sate; të skamur jemi, plotësona nevojat; të poshtëruar jemi, jepna lavdinë Tënde. Shpendët e ajrit dhe egërsirat e fushës marrin çdo ditë ushqimin prej Teje dhe të gjitha qëniet gëzojnë kujdesin dhe dashamirësinë Tënde.
 

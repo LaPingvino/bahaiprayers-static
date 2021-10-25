@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6662 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 윤일 기도
 월26일부터 3월1일까지의 윤일은 단식을 위 한 준비기간이고, 이 동안에 접대와 자선을 하고 선물을 주기도 한다.

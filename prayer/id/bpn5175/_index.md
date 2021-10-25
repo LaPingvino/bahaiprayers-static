@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5175 in Bahasa Indonesia'
 author = "Abdu'l-Bahá"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ya Engkau Tuhan Yang Maha Pengasih! Ya Engkau Yang Maha Kuasa dan Maha Kuat! Ya Engkau Tuhan Yang Maha Pemurah! Hamba-hamba ini telah berkumpul bersama, menghadap kepada-Mu, memohon kepada ambang pintu-Mu, meng-hasratkan pemberian- pemberian-Mu yang tak ada habisnya dari jaminan-Mu yang agung. Tiada tujuan bagi mereka melainkan keridhoan-Mu. Tiada maksud yang lain bagi mereka kecuali pengabdian kepada dunia insani.
 Ya Tuhan! Jadikanlah kumpulan ini cemerlang. Jadikanlah kalbu-kalbu penuh dengan kasih sayang. Anugerahkanlah pemberian-pemberian dari Roh Suci. Berilah kepada mereka kekuatan dari surga. Berkatilah mereka dengan pikiran yang surgawi. Tambahlah keikhlasan mereka sehingga mereka dapat menghadap ke kerajaan-Mu dengan penuh rendah hati dan tobat, dan menyibukkan diri dengan pengabdian ke dunia insani. Semoga setiap orang menjadi lilin yang bersinar. Semoga setiap orang menjadi bintang yang cemerlang. Semoga setiap orang menjadi indah dengan beraneka warna dan harum dari wangi kerajaan Tuhan.

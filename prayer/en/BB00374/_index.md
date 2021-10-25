@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00374 in English'
 author = "Báb"
-tags = ['lang-en', 'BB00374']
+tags = ['lang-en', 'BB00374', "Báb"]
 +++
 Vouchsafe unto me, O my God, the full measure of Thy love and Thy good-pleasure, and through the attractions of Thy resplendent light enrapture our hearts, O Thou Who art the Supreme Evidence and the All-Glorified.  Send down upon me, as a token of Thy grace, Thy vitalizing breezes, throughout the daytime and in the night season, O Lord of bounty.
 No deed have I done, O my God, to merit beholding Thy face, and I know of a certainty that were I to live as long as the world lasts I would fail to accomplish any deed such as to deserve this favor, inasmuch as the station of a servant shall ever fall short of access to Thy holy precincts, unless Thy bounty should reach me and Thy tender mercy pervade me and Thy loving-kindness encompass me.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5859 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', 'bpn-unsorted']
+tags = ['lang-ca', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Tots els amics de Déu... haurien de contribuir en la mesura de les seves possibilitats, per molt modesta que sigui la seva ofrena. Tals contribucions han de venir de tots els centres i de tots els creients... Oh amics de Déu! Estem segurs de que en lloc d’aquestes contribucions, vostra agricultura, vostra industria i vostre comerç seran beneïts amb múltiples progressos, amb bons dons i presents. Aquell qui ve amb un acte bo rebrà deu vegades més en recompensa. No hi ha dubte de que el Senyor vivent confirmarà en abundància a aquells que gastin la seva riquesa en el seu camí.
 

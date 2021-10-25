@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00004REN in English'
 author = "Báb"
-tags = ['lang-en', 'BB00004REN']
+tags = ['lang-en', 'BB00004REN', "Báb"]
 +++
 Glory be unto Thee, O Lord, Thou Who hast brought into being all created things, through the power of Thy behest.
 O Lord!  Assist those who have renounced all else but Thee, and grant them a mighty victory.  Send down upon them, O Lord, the concourse of the angels in heaven and earth and all that is between, to aid Thy servants, to succor and strengthen them, to enable them to achieve success, to sustain them, to invest them with glory, to confer upon them honor and exaltation, to enrich them and to make them triumphant with a wondrous triumph.

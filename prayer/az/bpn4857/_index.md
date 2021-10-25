@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4857 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Sən Ey Bağışlayan Allah! Bu bəndələr Sənin Mələkutuna üz tutublar, Sənin fəzl və kəramətini diləyirlər. İlahi! Onların ürəklərini saf və təmiz eylə ki, Sənin məhəbbətinə layiq olsunlar. Ruhlarını pak və təmiz eylə ki, Həqiqət Günəşi onların üzərinə saçsın. Gözlərini pak və təmiz eylə ki, Sənin işığını görə bilsinlər. Qulaqlarını pak və təmiz eylə ki, Sənin mələkutunun nidasını eşidə bilsinlər.
 

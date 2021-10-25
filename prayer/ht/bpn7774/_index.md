@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7774 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Bondye Mizèrikòdye a, Ou menm Ki genyen pouvwa ki antoure tout bagay ki kreye, Ou wè sèvitè sa yo ki koube yo nèt devan Ou, ki, daprè bon plezi Volonte Ou, ap swiv pandan jounen an jèn nan Ou te kòmande a. Yo leve menm anvan douvanjou a pou site Non Ou, e pou chante lwanj Ou, avèk espwa y’ap jwenn pòsyon pa yo nan bon bagay Ou te sere nan trezò gras ak bonte Ou yo. O Ou menm Ki kenbe nan men Ou kòd k’ap dirije tout kreyasyon an, O Ou menm Ki sere tout wayòm non Ou yo ak kalite Ou yo, mwen sipliye Ou, nan Jou Ou a, pou pa kite sèvitè Ou yo manke jwenn lapli k’ap soti nan nyaj mizèrikòd Ou yo, ni pa anpeche yo pran pòsyon pa yo nan oseyan bon plezi Ou a.
 Tout bagay ki tou piti sou latè bay temwayaj sou grandè pouvwa Ou ak souverènte Ou, O Senyè mwen; e tout siyn nan linivè a pwouve glwa majeste Ou ak pisans Ou. O Ou menm Ki se Senyè souveren tout bagay, Ou menm Ki Wa jou ki p’ap fini yo, ak Dirijan tout nasyon yo! Mwen lapriyè Ou, O Senyè, pou genyen mizèrikòd pou sèvitè sa yo, yo menm ki te kenbe fèm ak kòd kòmandman Ou an, yo menm ki te bese tèt yo devan revelasyon lwa Ou yo ki te desann nan syèl Volonte Ou.

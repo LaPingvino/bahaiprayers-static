@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9705 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Hij is God!
 O Heer, mijn God, mijn Inniggeliefde!

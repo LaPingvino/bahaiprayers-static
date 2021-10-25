@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3536 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O du gode Herre! Du har frembragt hele menneskeslekten fra samme stamfar. Du har bestemt at alle skal tilhøre den samme husstand. I ditt hellige nærvær er de alle dine tjenere, og hele menneskeheten lever i ly av ditt tabernakel; alle har samlet seg ved ditt gavmilde bord; alle blir opplyst ved ditt forsyns lys.
  

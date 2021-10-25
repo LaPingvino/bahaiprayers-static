@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2439 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', 'bpn-unsorted']
+tags = ['lang-lv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Ak patiesības meklētāj, ja tu vēlies, lai Dievs atdara tava gara acis, tev Viņš ir jālūdz, tev ar Viņu jārunā pusnakts stundā un jāsaka:
 

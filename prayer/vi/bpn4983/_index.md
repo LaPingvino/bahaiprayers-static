@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4983 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', 'bpn-unsorted']
+tags = ['lang-vi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lạy Thượng Đế của con, lạy Đấng Tôn sư của con, Ngài là Tôn chỉ hoài vọng của con!
 Kẻ tôi tớ này khao khát được mơ màng dưới bóng từ bi của Ngài và được an nghỉ dưới bầu trời ân phúc của Ngài, tìm kiếm sự chăm sóc và sự phò trợ của Ngài.

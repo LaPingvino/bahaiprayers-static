@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2459 in Русский'
 author = "Bahá'u'lláh"
-tags = ['lang-ru', 'bpn-unsorted']
+tags = ['lang-ru', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Во имя Бога, Предвечного, Наивеличайшего.
 Воистину, чистейшие сердца снедает огнь разлуки. Где отблеск света Лика Твоего,

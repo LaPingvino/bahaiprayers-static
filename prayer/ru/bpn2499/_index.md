@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2499 in Русский'
 author = "Abdu'l-Bahá"
-tags = ['lang-ru', 'bpn-unsorted']
+tags = ['lang-ru', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Молитва произносится по окончании встречи Духовного Собрания
 

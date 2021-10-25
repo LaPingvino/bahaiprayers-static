@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12721 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *"Tikah Bahá’í ianya tampil pengerindu enggau penyerakup ba dua piak.Taja pia, sida mesti berati enggau bejimat lalu beteleba enggau perangai pangan diri. Tanggam ti meruan tu patut diikat enggau sempekat ti teguh, lalu tuju ia patut kena ngemansangka pemaik, bekaban enggau penyerakup lalu tulihka pengidup ti meruan belama.”
 

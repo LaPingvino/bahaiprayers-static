@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2292 in România'
 author = "Báb"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Báb"]
 +++
 Lauda fie cu Tine, o, Doamne, Preaiubitul
 meu! Fă-mă statornic în Cauza Ta şi îngăduie să fiu numărat printre cei care n-au încălcat Legământul Tău, nici n-au urmat zeii propriilor lor închipuiri deşarte. Îngăduie-mi, atunci, să obţin un loc de adevăr în prezenţa Ta, dăruieşte-mi mărturia milostivirii Tale şi lasă-mă să mă alătur acelor slujitori ai Tăi ce nu vor fi cuprinşi de teamă şi nici nu vor fi daţi pradă suferinţei. Nu mă părăsi mie însumi, o, Domnul meu, nici nu mă lipsi de a-L recunoaşte pe Cel care este Manifestarea Propriului Tău Sine şi nu mă socoti printre aceia ce s-au întors de la sfânta Ta prezenţă. Numără-mă, o, Dumnezeul meu, printre cei care au privilegiul de a-şi aţinti privirea asupra Frumuseţii Tale şi care sunt atât de încântaţi de aceasta încât n-ar schimba un singur astfel de moment pentru suveranitatea împărăţiei cerurilor şi pământului sau pentru întregul tărâm al creaţiei. Ai milă de mine, o, Domnul meu, în aceste zile când oamenii pământului Tău au greşit cumplit; dă-mi, atunci, ceea ce în aprecierea Ta e bun şi potrivit. Tu eşti, cu adevărat, Cel Atotputernic, Cel Plin de Har, Cel Mărinimos, Cel ce veşnic Iartă.

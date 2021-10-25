@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3948 in Hrvatski'
 author = "Bahá'u'lláh"
-tags = ['lang-hr', 'bpn-unsorted']
+tags = ['lang-hr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Bože moj, Predmete mojeg obožavanja, Cilju moje Čežnje, Svemilostivi, Presamilosni! Sav život od Tebe potječe i sva snaga počiva nadohvat tvoje svemoći. Koga Ti uzvisiš uzdignut je iznad anđela i doseže ovaj položaj: "Doista, podigli Smo ga do mjesta u visini!"; a koga Ti poniziš postaje niži od prašine, ah, niži od ničega.
 

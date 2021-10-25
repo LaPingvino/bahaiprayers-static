@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9215 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *La mort tend à chaque croyant sincère la coupe qui est la vraie vie. Elle dispense la joie et apporte le bonheur. Elle confère le don de la vie éternelle.
 

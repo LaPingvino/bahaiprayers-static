@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2241 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Preamărit fie Numele Tău, o, Doamne, Dumnezeul meu! Tu eşti Cel venerat de tot ce există şi care nu venerează pe nimeni; Tu eşti Domnul tuturor lucrurilor şi vasalul nimănui, Cel ce cunoaşte toate lucrurile şi e tuturor necunoscut. Tu ai dorit să Te faci cunoscut oamenilor şi de aceea printr-un cuvânt rostit de Tine, ai creat lumea şi ai zidit universul. Nu există alt Dumnezeu în afară de Tine, Ziditorul, Creatorul, Cel Atotputernic, Cel plin de Tărie.
 

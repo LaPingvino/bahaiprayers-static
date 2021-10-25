@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4685 in հայերեն'
 author = "Abdu'l-Bahá"
-tags = ['lang-hy', 'bpn-unsorted']
+tags = ['lang-hy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Աբդուլ-Բահայի կողմից բացահայտված այս աղոթքն արտասանվում է Նրա Տաճարում: Այն կարելի է կարդալ նաև ինչպես անձնական աղոթք:
 

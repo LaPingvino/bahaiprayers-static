@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5117 in Bahasa Indonesia'
 author = "Báb"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Báb"]
 +++
 Kemuliaan bagi-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu agar mengampuni daku dan mereka yang membantu Agama-Mu. Sesungguhnya, Engkaulah Raja yang berdaulat, Pengampun, Yang Maha Dermawan.
 Ya Tuhanku! Perkenankanlah hamba-hamba-Mu yang terjauhkan dari pengetahuan agar memasuki Agama-Mu; karena setelah mereka mengenal Dikau, mereka naik saksi akan kebenaran Hari Kiamat dan tidak akan membantah penjelmaan-penjelmaan rahmat- Mu. Turunkanlah kepada mereka tanda-tanda kurnia- Mu, dan berikanlah kepada mereka di mana saja mereka berada, bagian yang besar dari apa yang telah Engkau tetapkan bagi hamba-hamba-Mu yang suci. Sesungguhnya, Engkaulah Raja Yang Agung, Yang Maha Pemberi, Maha Dermawan.

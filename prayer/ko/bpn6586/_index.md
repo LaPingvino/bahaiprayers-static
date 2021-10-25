@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6586 in 한국어'
 author = "Báb"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Báb"]
 +++
 제가 주님 밖에는 아무에게도 의존하지 않게
 

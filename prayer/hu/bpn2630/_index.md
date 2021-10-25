@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2630 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dicsőség Néked, ó, Uram, én Istenem! Ne alázd meg azt, kit felemeltél örökkön tartó uralmad erejével, és ne vesd távolra Magadtól, kinek megengedted, hogy belépjen Örökkévalóságod frigysátrába. Elveted-é, ó, Istenem, kit beborítottál Istenséged hűs árnyával, és elfordítod-é Magadtól, ó, Vágyam, kinek oltalmat adtál? Letaszítod-é, kit felemeltél, vagy elfeledkezel-é arról, kit képessé tettél arra, hogy megemlékezzen Rólad?
 

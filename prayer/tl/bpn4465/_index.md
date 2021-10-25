@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4465 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Ikaw na walang kahambing na Diyos! O Ikaw na Panginoon ng Kaharian! Ang mga kaluluwang ito ang Iyong hukbo sa langit. Tulungan sila at sa pamamagitan ng mga pangkat ng Kataas-taasang Kalipunan ay pagtagumpayin sila; upang ang bawat isa sa kanila ay maging tulad ng isang rehimyento at masakop ang mga bansang ito sa pamamagitan ng pag-ibig ng Diyos at pagtanglaw ng mga banal na aral.
 

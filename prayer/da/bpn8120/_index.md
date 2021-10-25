@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8120 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Forherliget er Du, o verdens Herre og nationernes attrå, o Du, der er blevet manifesteret i Det Største Navn, hvorved perlerne i visdom og tale er kommet til syne i muslingeskallerne i Din kundskabs store hav, og guddommelig åbenbarings himle er blevet smykket med lyset i tilsynekomsten af Dit åsyns sol.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2114 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lăudat fii Tu, o, Doamne Dumnezeul meu, Stăpânul meu! Tu auzi suspinele celor care, deşi năzuiesc să privească faţa Ta, sunt totuşi despărţiţi de Tine şi departe de curtea Ta. Tu adevereşti tânguirile celor ce Te-au recunoscut, din pricina pribegiei lor de lângă Tine şi a dorului lor de a Te întâlni. Te implor, întru acele inimi ce nu cuprind nimic în afară de comorile pomenirii şi laudei Tale, şi care proclamă doar dovezile măreţiei Tale şi mărturiile tăriei Tale, să acorzi slujitorilor Tăi care Te doresc puterea de a se apropia de locul revelaţiei splendorii gloriei Tale şi să-i ajuţi pe cei care şi-au pus speranţa în Tine să intre în tabernacolul bunăvoinţei şi milostivirii Tale transcendente.
 

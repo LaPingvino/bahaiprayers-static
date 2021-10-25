@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11471 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 No sé, oh mi Dios, qué Fuego es el que encendiste en Tu tierra. El polvo no podrá jamás nublar su resplandor, ni el agua apagar su llama. Todas las gentes del mundo son impotentes para resistir su fuerza. Grande es la bendición de quien se ha acercado a él y ha oído su fragor.
 A algunos, oh mi Dios, les permitiste que se aproximaran a él mediante Tu gracia fortalecedora, en tanto que a otros los retuviste en virtud de lo que sus manos han llevado a cabo en Tus días. Quien haya ido presuroso y haya llegado hasta él ha entregado su vida en Tu camino, en su anhelo por contemplar Tu belleza, y ha ascendido a Ti completamente desprendido de todo cuanto no seas Tú.

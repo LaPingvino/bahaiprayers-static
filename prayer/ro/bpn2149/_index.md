@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2149 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O, Tu Cel ce Dăruieşti! Tu ai suflat asupra prietenilor din vest dulcile miresme ale Sfântului Spirit şi cu lumina divinei călăuziri ai luminat cerul occidentului. Tu i-ai făcut pe cei ce odată au stat departe să se apropie de Tine; Tu i-ai preschimbat pe străini în prieteni iubitori; Tu i-ai trezit pe cei care dormeau; Tu i-ai făcut pe cei nesocotiţi să ia aminte.
 

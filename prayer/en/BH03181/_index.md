@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH03181 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH03181']
+tags = ['lang-en', 'BH03181', "Bahá'u'lláh"]
 +++
 He is the Bestower, the Bounteous!
 Praise be to God, the Ancient, the Ever-Abiding, the Changeless, the Eternal!  He Who hath testified in His Own Being that verily He is the One, the Single, the Untrammelled, the Exalted.  We bear witness that verily there is no God but Him, acknowledging His oneness, confessing His singleness.  He hath ever dwelt in unapproachable heights, in the summits of His loftiness, sanctified from the mention of aught save Himself, free from the description of aught but Him.

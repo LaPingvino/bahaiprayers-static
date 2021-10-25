@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2245 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O, Tu Dăruitorule iubitor! Aceste suflete s-au grăbit la îndemnurile împărăţiei şi au privit slava Soarelui Adevărului. Ei s-au ridicat către cerurile înviorătoare ale iubirii. Ei sunt îndrăgostiţi de natura Ta şi preamăresc frumuseţea Ta. Ei s-au întors către Tine, vorbind despre Tine, căutând sălaşul Tău şi însetaţi de pârâiaşele tărâmului Tău ceresc.
 

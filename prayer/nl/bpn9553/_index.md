@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9553 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Gij vergevingsgezinde God! Deze dienaren richten zich tot Uw koninkrijk en verlangen naar Uw genade en milddadigheid. O God! Maak hun hart zuiver en goed opdat zij Uw liefde waardig mogen worden. Zuiver en heilig hun geest opdat het licht van de Zon van Werkelijkheid op hen mag schijnen. Zuiver en heilig hun ogen opdat zij Uw licht mogen waarnemen. Zuiver en heilig hun oren opdat zij de roep van Uw koninkrijk mogen horen.
 O Heer! Wij zijn waarlijk zwak, doch Gij zijt machtig. Wij zijn waarlijk arm, doch Gij zijt rijk. Wij zijn zoekende, en Gij zijt de Gezochte. O Heer! Heb mededogen met ons en vergeef ons; verleen ons dat vermogen en die ontvankelijkheid waardoor wij Uw gaven waardig zullen zijn en tot Uw koninkrijk worden aangetrokken, opdat wij met diepe teugen van het water des levens zullen drinken, in vlam gezet mogen worden door het vuur van Uw liefde en weer tot leven gewekt door de adem van de Heilige Geest in deze stralende eeuw.

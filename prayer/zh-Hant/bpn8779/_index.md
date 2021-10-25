@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8779 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 主啊！我們可憐，懇請祢施與恩寵；我們貧窮，懇請祢惠賜富裕汪洋之一份；我們匱乏，懇請祢滿足我們；我們卑下，懇請祢賞賜榮耀。空中的飛禽、地上的走獸，每天都有賴祢賜膳；眾生百類，全蒙祢慈愛惠顧。
 切莫中斷祢賜予這弱者的美妙恩寵，以祢的神力施惠於這無助的靈魂。

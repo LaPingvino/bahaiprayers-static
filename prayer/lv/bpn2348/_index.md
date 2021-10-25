@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2348 in Latviešu'
 author = "Bahá'u'lláh"
-tags = ['lang-lv', 'bpn-unsorted']
+tags = ['lang-lv', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Skaitāma reizi dienā starp pusdienas laiku un saules rietu
 

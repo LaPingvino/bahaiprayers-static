@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7331 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Niechaj ci, którzy rozsiewają Boskie aromaty, recytują każdego ranka tę oto modlitwę:
    

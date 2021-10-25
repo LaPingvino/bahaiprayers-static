@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7120 in ελληνικά'
 author = "Báb"
-tags = ['lang-el', 'bpn-unsorted']
+tags = ['lang-el', 'bpn-unsorted', "Báb"]
 +++
 ∆όξα σε Σένα, ω Κύριε, Εσύ ο Οποίος έφερες στην ύπαρξη όλα τα δηµιουργήµατα, µέσω της δύναµης της διαταγής Σου.
 

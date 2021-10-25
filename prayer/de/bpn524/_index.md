@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn524 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Gerühmt sei Dein Name, o Herr mein Gott! Du bist es, den alle Dinge anbeten und der selbst niemanden anbetet, der Herr über alle Dinge und niemandem untertan ist, der alle Dinge kennt und von niemandem erkannt wird. Du wünschtest Dich den Menschen bekannt zu machen, darum hast Du durch ein Wort Deines Mundes die Schöpfung werden lassen und das Weltall geformt. Es gibt keinen Gott außer Dir, dem Bildner, dem Schöpfer, dem Allmächtigen, dem Allgewaltigen.
 Gelobt sei Dein Name, o mein Gott! Ich bezeuge, dass kein Gedanke an Dich, sei er noch so wundersam, jemals zum Himmel Deiner Erkenntnis aufzusteigen vermag und dass kein noch so erhabener Lobpreis sich in die Sphären Deiner Weisheit aufschwingen kann. Seit aller Ewigkeit bist Du jenseits der Fassungskraft und der Erkenntnis Deiner Diener, unermesslich erhaben über die Versuche Deiner Knechte, Dein Mysterium in Worte zu fassen. Welcher Macht kann das schattengleiche Geschöpf sich rühmen im Angesicht Dessen, der der Unerschaffene ist?

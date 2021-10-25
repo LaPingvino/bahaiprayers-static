@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4974 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', 'bpn-unsorted']
+tags = ['lang-vi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Bản Kinh Cầu Nguyện Bắt Buộc
 *Ngắn Nhất

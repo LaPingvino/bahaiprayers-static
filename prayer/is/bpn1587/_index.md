@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1587 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Hann er hinn náðugi og veglyndi.
 Ó Guð, Guð minn! Kall Þitt hefur heillað mig og rödd dýrðar penna Þíns vakið mig. Straum­ur heilagra orða Þinna hefur hrifið mig og vín inn­blásturs Þíns gert mig hugfanginn. Þú sérð mig, ó Drottinn, fráhverfan öllu nema Þér, halda í líftaug hylli Þinnar og þrá undur náðar Þinnar. Ég bið Þig við eilífar öldur ástúðar Þinnar og skínandi ljós blíðrar umhyggju Þinnar og hylli að veita það sem laðar mig nær Þér og auðgar mig af ríkidæmi Þínu. Tunga mín, penni, öll verund mín ber vitni valdi Þínu, mætti, náð og hylli, að Þú ert Guð og enginn er Guð nema Þú, hinn voldugi og máttugi.

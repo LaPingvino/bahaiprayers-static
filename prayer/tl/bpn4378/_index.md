@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4378 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dapat usalin minsan sa dalawampu't apat na oras
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9361 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', 'bpn-unsorted']
+tags = ['lang-mg', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *“Ny vavaka ho an’ny Maty... no hany vavaka Bahá’í tsy maintsy atao izay tononona ampahibe-maso; tokony ho tononon’ny mpino iray izy io ary ny rehetra manatrika dia mitsangana am-pahanginana. Bahá’u’lláh dia nanazava fa ity Vavaka ho an’ny maty ity dia takiana raha olon-dehibe ilay maty (mihoatra ny dimy ambinifolo taona), ary ny fanononana azy dia tsy maintsy mialohan’ny fanitrihana, ary tsy misy ny fitakiana ny fitodihana any amin’ny Qiblih mandritra izany.” Kitab-i-Aqdas .
 

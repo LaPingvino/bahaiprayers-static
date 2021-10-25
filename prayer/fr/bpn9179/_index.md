@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9179 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Gloire à toi, ô mon Dieu ! Sans les tribulations endurées dans ton chemin, comment pourrait-
 on reconnaître tes vrais amants, et sans les épreuves subies par amour pour toi, comment le rang de ceux qui te désirent pourrait-il être révélé ? Ta puissance m’en est témoin ! Ceux qui t’adorent ont pour compagnon les pleurs qu’ils versent, ceux qui te cherchent ont pour consolateurs les gémissements qu’ils poussent, et ceux qui courent à ta rencontre ont pour nourriture les fragments de leur cœur brisé.

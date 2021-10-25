@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4292 in Україна'
 author = "Abdu'l-Bahá"
-tags = ['lang-uk', 'bpn-unsorted']
+tags = ['lang-uk', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 О Неперевершений Господи! Сій безпорадній дитині стань Заступником; сьому немічному й грішному – добрим і прощаючим.
 

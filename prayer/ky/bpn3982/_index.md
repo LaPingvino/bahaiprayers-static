@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3982 in Кыргыз'
 author = "Abdu'l-Bahá"
-tags = ['lang-ky', 'bpn-unsorted']
+tags = ['lang-ky', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Диний Жыйындын чогулушун жабуу учурунда окуу үчүн багышталган келме.
 

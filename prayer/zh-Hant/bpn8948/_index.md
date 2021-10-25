@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8948 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 閏日，公曆大約是二月二十五日至三月一日之間的四或五天，為準備齋戒、款待賓客、樂善好施及互贈禮物的時期。
 

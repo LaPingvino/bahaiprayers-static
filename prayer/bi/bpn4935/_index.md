@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4935 in Vanuatu'
 author = "Bahá'u'lláh"
-tags = ['lang-bi', 'bpn-unsorted']
+tags = ['lang-bi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O God!  O God blong mi!  Mi bin tanem mi i go long Yu, from we mi sem mo mi sori long ol rabis samting we mi bin mekem long laef blong mi.  I tru se Yu Yu fogivim mifala mo Yu Yu sori long mifala.
 O God!  O God blong mi!  Mi bin kam bak long Yu. I tru se Yu Yu fogivim mifala oltaem mo Yu Yu lavem mifala.

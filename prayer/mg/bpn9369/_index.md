@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9369 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', 'bpn-unsorted']
+tags = ['lang-mg', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Dera ho Anao ry Tompo Andriamanitro ô! 
 Mitalaho Aminao aho, noho ity Fanambarana ity  izay nanova ny haizina ho fahazavana sy nananganana ny Tempoly faleha, ary nanambarana ny Takelaka voasoratra, sy nanokafana ny Horonan-taratasy; mba hampidina amiko sy amin’ireo mpiaradia amiko izay ahazoanay misondrotra eny amin’ny lanitry ny Voninahitrao ambony indrindra, ary hanadio anay amin’ny loton’ny fiahiahiana izay nisakana ireo be ahiahy tsy hiditra ao amin’ny taberinakelin’ny Firaisanao.

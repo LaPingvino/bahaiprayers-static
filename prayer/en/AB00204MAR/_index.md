@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00204MAR in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'AB00204MAR']
+tags = ['lang-en', 'AB00204MAR', "Bahá'u'lláh"]
 +++
 ##Tablet of the Holy Mariner
 *“Study the Tablet of the Holy Mariner that ye may know the truth, and consider that the Blessed Beauty hath fully foretold future events. Let them who perceive, take warning!”  —‘Abdu’l-Bahá

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3438 in български'
 author = "Abdu'l-Bahá"
-tags = ['lang-bg', 'bpn-unsorted']
+tags = ['lang-bg', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##Разкрита за бахаите от северозападните щати
 

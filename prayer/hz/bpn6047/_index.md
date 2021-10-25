@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6047 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', 'bpn-unsorted']
+tags = ['lang-hz', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ndjambi wandje, omutatua, Oove nguri ondero jomuinjo wandje! Omukarere wOye mapaha okurara meha rotjari tjOye,  no kusuva mohange kehi jounyanutima wOye, ametanga otjari no ndjeverero yOye. 
 

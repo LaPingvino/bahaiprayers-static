@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2613 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Úgy zengd, ó, szolgám, az Isten verseit,
 amelyeket kaptál,

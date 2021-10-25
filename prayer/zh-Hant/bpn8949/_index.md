@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8949 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *《亞格達斯經》規定：“我令諭爾等自成熟期（十五歲）始，即應祈禱與齋戒，這是上帝，爾等及爾等祖先之主所命定的……旅行者、病患、孕婦或哺乳者不必齋戒。從日出到日落，禁絕飲食，謹慎勿讓慾念使你失去聖典所賜之恩惠。”
 *齋戒從三月一日或二日起至三月十九日或二十日止。

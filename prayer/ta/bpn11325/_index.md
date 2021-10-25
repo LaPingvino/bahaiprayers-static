@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11325 in தமிழ்'
 author = "Abdu'l-Bahá"
-tags = ['lang-ta', 'bpn-unsorted']
+tags = ['lang-ta', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 கருணைமிக்க இறைவா! வலிமையும் சக்தியும் மிக்கவரே! அதியன்புமிக்கத் தந்தையே! 
 

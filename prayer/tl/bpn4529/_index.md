@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4529 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O aking Diyos! O Ikaw na nagpapatawad ng mga kasalanan! Tagapagkaloob ng mga handog! Tagapawi ng mga paghihirap!
 

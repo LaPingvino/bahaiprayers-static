@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6399 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Dduw! Adfer a llonna fyn ysbryd.
 Pura fy nghalon. Goleua fy ngalluoedd. Gosodaf fy holl faterion yn Dy law. Tydi yw fy Arweinydd a'm Lloches. Ni fyddaf bellach yn drist a gofidus; Byddaf yn berson hapus a llawen. O Dduw! Ni fyddaf bellach yn llawn pryder,ac ni  adawaf i drafferthion fy mhoeni. Ni oedaf gyda phethau diflas bywyd. O Dduw! Rwyt yn fwy o gyfaill i mi nac ydwyf i mi fy hun. Cysegraf fy hun i Ti, O Arglwydd.

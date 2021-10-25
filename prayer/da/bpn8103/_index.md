@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8103 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Han er Den Medfølende, Den Alnådige!
 

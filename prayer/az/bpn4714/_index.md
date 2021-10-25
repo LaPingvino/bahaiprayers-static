@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4714 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Odur Şəfqətli, Ən Səxavətli! Ey Allah, mənim Allahım! Sən görürsən məni, Sən tanıyırsan məni; Sənsən mənim Pənahım və Sığınacağım. Heç kəsi axtarmadım Səndən başqa, nə də bir kəsi axtaracağam Səndən qeyri; Sənin məhəbbətinin yolundan başqa bir yolda addımlamadım, nə də ayrı bir yola qədəm qoyacağam. Ümidsizliyin zülmət gecələrində mənim intizar və ümid dolu gözlərim, Sənin hüdudsuz fəzlinin səhərinə dönür, sübh çağı isə üzülmüş qəlbim Sənin gözəlliyin və kamilliyinin zikri ilə təravətlənır və güclənir. Sənin mərhəmət fəzlinin kömək etdiyi kəs, hətta o bir damla da olsa, sahilsiz bir ümmana çevrilər, Sənin inayət yağışlarının yardım etdiyi kiçicik bir zərrə, parlaq ulduz kimi şölə saçar.
 

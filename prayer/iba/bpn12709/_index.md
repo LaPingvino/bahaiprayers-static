@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12709 in Iban'
 author = "Báb"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Báb"]
 +++
 Dipuji meh Nama Nuan, O Tuhan Petara kami! Nuan endang dalam pengamat Pengelala semua utai ti enda dipeda. Letak ba kami semua pemanah baka ke ulih disukat penemu Nuan ti mungkur semua. Nuan meh
 Tuhan	kuasa-raja,	ti	Pemadu	Tegap,	Siku	Amat

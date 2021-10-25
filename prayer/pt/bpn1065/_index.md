@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1065 in Português (BR)'
 author = "Abdu'l-Bahá"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Não removas, ó Senhor, a mesa festiva que se estendeu em Teu Nome, nem apagues a chama ardente, acesa com o Teu fogo inextinguível. Que as Tuas águas vivas, murmurando com a melodia da Tua glória e da Tua lembrança, não deixem de fluir, e que os Teus servos não sejam privados da fragrância dos Teus doces aromas, donde emana o perfume do Teu amor.
 Senhor! Transforma a angústia dos Teus santos em sossego, as suas durezas em conforto; muda-lhes a humilhação em glória, e a tristeza em júbilo e êxtase, ó Tu que seguras nas mãos as rédeas de toda a humanidade!

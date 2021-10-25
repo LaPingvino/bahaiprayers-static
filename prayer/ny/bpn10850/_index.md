@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10850 in Chichewa'
 author = "Bahá'u'lláh"
-tags = ['lang-ny', 'bpn-unsorted']
+tags = ['lang-ny', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ulemelero ukhale kwa Inu, O Mulungu, chifukwa chakuwonetsa chikondi Chanu kwa mtundu wa anthu! O Inu Amene Muli Moyo wathu ndi Kuwunika kwathu, tsogolereni a ntchito Anu mu njira Yanu, ndipo mutipatse kukhala wolemera mwa Inu ndi kukhala omasuka ku ziri zonse kupatula Inu Nokha. 
 

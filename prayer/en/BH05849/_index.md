@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH05849 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH05849']
+tags = ['lang-en', 'BH05849', "Bahá'u'lláh"]
 +++
 ##Intercalary Days
 *(The Intercalary Days, February 26 to March 1, inclusive, should be days of preparation for the Fast, days of hospitality, charity and the giving of presents.)

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11671 in Español'
 author = "Báb"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Báb"]
 +++
 Gloria sea a Ti, oh Señor, Tú que has traído a la existencia todas las cosas creadas, mediante el poder de Tu mandato.
 ¡Oh Señor! Ayuda a aquellos que han renunciado a todo cuanto no seas Tú, y confiéreles una gran victoria. ¡Oh Señor! Haz descender sobre ellos el concurso de los ángeles del cielo y de la tierra y de todo cuanto hay entre ellos, para que asistan a Tus siervos, los socorran y los fortalezcan, les faciliten el éxito, los apoyen, los invistan de gloria, les confieran honor y exaltación, los enriquezcan y les hagan triunfar con una maravillosa victoria.

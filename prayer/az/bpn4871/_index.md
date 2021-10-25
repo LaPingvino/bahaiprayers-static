@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4871 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Alqış Sənə, Ey mənim Rəbbim Allah! Bu körpəni Öz mərhəmət və inayət döşündən qidalandır və onu Öz səmavi ağacının meyvələri ilə bəslə. Onu Səndən başqa bir kimsənin himayəsinə buraxma, çünki Sən Özün onu Öz iradə və qüdrətinin hökmü ilə yaratmısan və həyata gətirmisən. Səndən başqa Allah yoxdur, Sən Ən Qüdrətli və Hər Şeyi Bilənsən.
 

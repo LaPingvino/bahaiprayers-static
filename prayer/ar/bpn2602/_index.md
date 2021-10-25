@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2602 in العربية'
 author = "Bahá'u'lláh"
-tags = ['lang-ar', 'bpn-unsorted']
+tags = ['lang-ar', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 الصّلاة الصّغرى
 * تُقرأ مرّة كلّ أربع وعشرين ساعة، حين الزّوال

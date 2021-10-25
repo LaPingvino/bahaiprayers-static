@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11493 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ¡Él es el Bondadoso, el Todogeneroso!
 ¡Oh Dios, mi Dios! Tu llamada me ha atraído y la voz de Tu Pluma de Gloria me ha despertado. El torrente de Tu santa palabra me ha arrobado y el vino de Tu inspiración me ha extasiado. Tú me ves, oh Señor, desprendido de todo menos de Ti, aferrándome a la cuerda de Tu munificencia y anhelando las maravillas de Tu gracia. Te pido, por las incesantes olas de Tu amorosa bondad y las resplandecientes luces de Tu tierno cuidado y favor, que me concedas aquello que me acerque a Ti y me enriquezca con Tu riqueza. Mi lengua, mi pluma, todo mi ser, atestiguan Tu fuerza, Tu poder, Tu gracia y Tu munificencia, que Tú eres Dios y que no hay más Dios que Tú, el Fuerte, el Poderoso.

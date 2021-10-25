@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1747 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ó Guð, Guð minn! Ég hef leitað í iðran til Þín og sannlega ert Þú fyrirgefandinn, hinn vor­kunnláti.
 Ó Guð, Guð minn! Ég hef snúið aftur til Þín og sannlega ert Þú sá sem ætíð fyrirgefur, hinn náðugi.

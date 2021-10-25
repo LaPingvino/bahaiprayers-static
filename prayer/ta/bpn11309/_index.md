@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11309 in தமிழ்'
 author = "Bahá'u'lláh"
-tags = ['lang-ta', 'bpn-unsorted']
+tags = ['lang-ta', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 அவரே குணப்படுத்துபவர், போதுமானவர், உதவுபவர், சகலத்தையும் மன்னிப்பவர், கருணை மயமானவர். 
 

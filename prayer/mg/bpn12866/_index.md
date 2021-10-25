@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12866 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', 'bpn-unsorted']
+tags = ['lang-mg', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##TAKELAKY NY AFO
 

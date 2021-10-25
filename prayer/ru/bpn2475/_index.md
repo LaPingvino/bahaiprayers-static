@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2475 in Русский'
 author = "Abdu'l-Bahá"
-tags = ['lang-ru', 'bpn-unsorted']
+tags = ['lang-ru', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *(Молитва открыта для бахаи Канады)
 *Те, что распространяют благоухания Божии, должны возносить сию молитву каждое утро:

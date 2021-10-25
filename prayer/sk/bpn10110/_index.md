@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10110 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', 'bpn-unsorted']
+tags = ['lang-sk', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(Naw rúz, 21. marec, je prvým dňom bahájskeho roku.)
  

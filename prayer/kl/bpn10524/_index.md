@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10524 in Kalaallisut'
 author = "Abdu'l-Bahá"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Naalagara! Naalagara! Meeraavunga pinngorlaaq. Naakkinnissutsivit sakiaanit
 inuussutissalinnga, Asannissutsivit pakkussinerani ilinniartitarinnga.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8856 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 以純然愉快的心情前來聚會，在聚會開始時吟誦此禱文：
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4093 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', 'bpn-unsorted']
+tags = ['lang-lv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Ikviena dvēsele, kas dodas mācīšanas ceļā un dzīvo svešās zemēs, var lasīt sekojošo lūgšanu gan dienu, gan nakti:
 

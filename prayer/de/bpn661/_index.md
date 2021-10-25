@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn661 in Deutsch'
 author = "Báb"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Báb"]
 +++
 Verherrlicht seiest Du, o Herr, der Du alles Erschaffene durch die Macht Deines Befehls ins Dasein gerufen hast.
 O Herr! Stehe denen bei, die allem außer Dir entsagt haben, und gewähre ihnen einen überwältigenden Sieg. Sende hernieder auf sie, o Herr, die Schar der Engel im Himmel und auf Erden und in allem, was dazwischen ist, damit sie Deinen Dienern helfen, ihnen beistehen, sie stärken, sie zum Erfolg befähigen, sie stützen, sie mit Herrlichkeit umgeben, ihnen Ehre und Erhöhung verleihen, sie reich machen und in einem herrlichen Sieg frohlocken lassen.

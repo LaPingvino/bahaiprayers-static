@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7169 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', 'bpn-unsorted']
+tags = ['lang-el', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ώ Θεέ µου! Αναζωογόνησε και χαροποίησε το πνεύµα µου! Εξάγνισε την καρδιά µου.
 

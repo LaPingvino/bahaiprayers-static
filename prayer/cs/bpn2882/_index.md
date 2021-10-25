@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2882 in Česky'
 author = "Abdu'l-Bahá"
-tags = ['lang-cs', 'bpn-unsorted']
+tags = ['lang-cs', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Můj Pane! Můj Pane! Vzdávám Ti chválu a díky za to, čím jsi vyznamenal Svou pokornou služebnici, Svou snažně prosící a pokorně se modlící otrokyni, neboe jsi ji vpravdě uvedl do Svého zjeveného království a dal jsi jí uslyšet Své vznešené volání a spatřit Svá znamení, jež dokazují, že je nade všemi věcmi ustanovena Tvá vítězná vláda.
 

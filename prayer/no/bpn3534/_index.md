@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3534 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Gud, min Gud! Din nåde har gjort meg dristig, og din rettferdighet har fylt meg med skrekk. Lykkelig er det menneske som du har skjenket din nåde, og ve den som mottar din rettferdighet.
  

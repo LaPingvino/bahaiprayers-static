@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7196 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', 'bpn-unsorted']
+tags = ['lang-el', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ω Θεέ, Θεέ µου! Έχω στραφεί µε µετάνοια προς Εσένα και αληθινά, Εσύ είσαι ο Συγχωρών, ο Οικτίρµων.
 

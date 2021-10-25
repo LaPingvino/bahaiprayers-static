@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8259 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #Lawh-i-Maryam
 ##Tablet to Maryam

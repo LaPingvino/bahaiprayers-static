@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1350 in فارسی'
 author = "Bahá'u'lláh"
-tags = ['lang-fa', 'bpn-unsorted']
+tags = ['lang-fa', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 بِسْمه المُهيمن القَيُّوم
 #"ای كنيزِ من، به‌اين بيان كه از مَشرِقِ فَمِ رحمن اشراق نموده ناطق باش"

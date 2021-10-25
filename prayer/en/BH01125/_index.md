@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH01125 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH01125']
+tags = ['lang-en', 'BH01125', "Bahá'u'lláh"]
 +++
 I beseech Thee, O my God, by Thy mighty Sign, and by the revelation of Thy grace amongst men, to cast me not away from the gate of the city of Thy presence, and to disappoint not the hopes I have set on the manifestations of Thy grace amidst Thy creatures.  Thou seest me, O my God, holding to Thy Name, the Most Holy, the Most Luminous, the Most Mighty, the Most Great, the Most Exalted, the Most Glorious, and clinging to the hem of the robe to which have clung all in this world and in the world to come.
 I beseech Thee, O my God, by Thy most sweet Voice and by Thy most exalted Word, to draw me ever nearer to the threshold of Thy door, and to suffer me not to be far removed from the shadow of Thy mercy and the canopy of Thy bounty.  Thou seest me, O my God, holding to Thy Name, the Most Holy, the Most Luminous, the Most Mighty, the Most Great, the Most Exalted, the Most Glorious, and clinging to the hem of the robe to which have clung all in this world and in the world to come.

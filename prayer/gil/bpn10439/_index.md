@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10439 in Kiribati'
 author = "Abdu'l-Bahá"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada 
 *Are e mwamwananga nakon iteran mwakoro nako ni kabuta te reirei, iaon maunga, rereua, aaba ao taari ke wareka raoi te bubuti aei:

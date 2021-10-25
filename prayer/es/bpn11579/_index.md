@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11579 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Te doy gracias, oh mi Dios, por haberme despertado de mi sueño, por haberme traído a la luz después de mi desaparición y por haberme sacado de mi letargo. He despertado esta mañana con el rostro vuelto hacia los resplandores del sol de Tu Revelación, por medio del cual se han iluminado los cielos de Tu poder y Tu majestad, reconociendo Tus signos, creyendo en Tu Libro y aferrándome a Tu Cuerda.
 Te imploro, por la potencia de Tu voluntad y el poder irresistible de Tu propósito, que hagas de lo que me revelaste en mi sueño los cimientos más seguros para las mansiones de Tu amor que están en el corazón de tus amados, y el mejor instrumento para la revelación de las muestras de Tu gracia y Tu bondad.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4479 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Aking Panginoon! Aking Panginoon! Pinupuri Kita at pinasasalamatan Kita para doon sa mga bagay na pinagkaloob Mo sa Iyong mapagkumbabang kawaksing babae, ang Iyong tagapaglingkod na nagsusumamo at nagmamakaawa sa Iyo, sapagkat sa katunayan ay inakay Mo siya sa Iyong malinaw na Kaharian at itinulot Mong marinig niya ang Iyong kataas-taasang Tawag sa lumilipas na mundong ito at upang mamalas niya ang Iyong mga Tanda na nagpapatunay sa pagdating ng Iyong matagumpay na pamamahala sa lahat ng mga bagay.
 

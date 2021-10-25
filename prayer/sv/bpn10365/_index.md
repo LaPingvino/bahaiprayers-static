@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10365 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Ur Kitáb-i-Aqdas:
 *”Vi har befallt er att bedja och fasta från mogenhetens början (15 år); detta är påbjudet av Gud, er Herre och era förfäders Herre ... Resenären, den sjuke, de som är gravida eller ammar är icke bundna av fastan … Avstå från mat och dryck från soluppgång till solnedgång och tag er i akt att icke begäret berövar er denna nåd, som är utfäst i Boken.”

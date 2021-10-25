@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9757 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Het lange Verplichte Gebed
 *Eens in de vierentwintig uur te reciteren.

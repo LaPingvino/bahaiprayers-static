@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3717 in Eesti'
 author = "Bahá'u'lláh"
-tags = ['lang-et', 'bpn-unsorted']
+tags = ['lang-et', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 -Bahá’u’lláh
 

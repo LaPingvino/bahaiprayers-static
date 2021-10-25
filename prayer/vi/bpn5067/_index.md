@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5067 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', 'bpn-unsorted']
+tags = ['lang-vi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ngài thật đáng ca ngợi, lạy Ngài là Thượng Đế của con. Bởi quyền năng Ngài, con xin đoan quyết như thế. Những tai họa dồn dập đã ngăn trở Ngòi Bút Đấng Tối cao phô bày điều đã được giấu kín đối với mắt tạo vật Ngài và những thử thách không ngừng đã ngăn trở lưỡi Đấng An bài thiêng liêng công bố những kỳ công của sự tôn vinh Ngài và sự ca tụng Ngài. Lạy Thượng Đế của con, với ngọn lưỡi ấp úng con cầu khẩn Ngài và với ngòi bút đớn đau này con xin hiến dâng vào việc tôn vinh Danh Ngài.
 Đâu là kẻ được ban cho nhãn quan sắc bén để biết chiêm ngưỡng Ngài bằng chính mắt Ngài, và đâu là kẻ khát khao biết hướng mặt về làn sinh thủy tình yêu Ngài? Lạy Thượng Đế của con, con là kẻ đã xóa khỏi tâm hồn mình sự tưởng nhớ bất cứ ai khác ngoài Ngài và đã khắc cẩn vào đó những bí ẩn tình yêu Ngài. Chính quyền năng Ngài làm chứng cho con! Nếu không có những tai ương thì làm sao phân biệt được người xác tín với kẻ nghi hoặc trong vòng các tôi tớ Ngài? Quả thật, những ai đã say với rượu tri thức Ngài, đều vội vã chạy đến với nghịch cảnh, trong khát vọng nhiệt thành là đạt tới Thánh nhan Ngài. Lạy Đấng Kính yêu của tâm hồn con và Đấng Đối tượng tôn thờ của linh hồn con, con cầu xin Ngài giữ cho những kẻ yêu thương con khỏi rơi vào dục vọng xấu xa và đồi trụy. Xin ban cho họ những điều thiện của đời này và đời sau.

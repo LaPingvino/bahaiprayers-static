@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3205 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lof sy aan U, o Here van die wêreld en die Begeerte van die nasies, o U Wat in die Grootste Naam openbaar geword het, waardeur die pêrels van wysheid en uitspraak uit die skulpe van die groot see van U kennis te voorskyn gekom het, en die hemele van goddelike openbaring met die lig van die verskyning van die son van U gelaat versier is.
 

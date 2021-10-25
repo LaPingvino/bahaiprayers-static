@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5081 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', 'bpn-unsorted']
+tags = ['lang-vi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Viếng Nơi Thánh
 *(Bản Kinh này được đọc nơi Thánh Lăng của Đức BAHA'U'LLAH và Đức BAB. Thường cũng được đọc vào các Thánh Lễ hằng năm để tưởng niệm các Ngài).

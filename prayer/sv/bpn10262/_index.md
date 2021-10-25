@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10262 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##KORT OBLIGATORISK BÖN
 Att läsas dagligen från middagstid till solnedgång.

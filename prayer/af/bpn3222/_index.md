@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3222 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *"Hierdie daaglikse verpligte gebede, saam met nog 'n paar spesifiekes, soos die Genesingsgebed, die Tafel van Ahmad, is deur Bahá'u'lláh beklee met 'n besondere krag en betekenis, en daarom behoort as sodanig aanvaar te word, en deur die gelowiges met geloof en vertroue en sonder twyfel gesê te word, sodat hulle deur middel daarvan 'n veel nouer verbinding met God kan aanknoop, en hulle vollediger met Sy wette en insettinge kan vereenselwig." - Uit 'n brief geskryf namens Shoghi Effendi
 

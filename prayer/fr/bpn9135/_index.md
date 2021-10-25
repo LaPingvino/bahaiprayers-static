@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9135 in Français'
 author = "Báb"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Báb"]
 +++
 Loué soit ton nom, ô Seigneur, notre Dieu ! En vérité, tu connais ce qui est invisible. Accorde-nous tout le bien que peut mesurer ton savoir infini. Tu es le Seigneur souverain, le Tout-Puissant, le Bien-Aimé.
 Toute louange soit à toi, ô Seigneur ! Nous rechercherons ta grâce au jour fixé et placerons toute notre confiance en toi qui es notre Seigneur. Glorifié sois-tu, ô Dieu ! Accorde-nous ce qui est bon et bienséant ; ainsi nous pourrons nous passer de tout sauf de toi. En vérité, tu es le Seigneur de tous les mondes.

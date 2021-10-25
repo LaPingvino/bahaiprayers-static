@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6103 in Sranan Tongo'
 author = "Abdu'l-Bahá"
-tags = ['lang-srn', 'bpn-unsorted']
+tags = ['lang-srn', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##TE FUKA MÖÖ JU 
 Ke mi Gadu! Hopo mi akaa. Limbo mi hati. Limbo mi jeeje. Mi ta buta hii sondi a Ju mau dendu. Ju ta tjai mi; Ju ta tjubi mi. 

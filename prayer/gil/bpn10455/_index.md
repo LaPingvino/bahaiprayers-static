@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10455 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #Tabureti ibukin Karamera
 

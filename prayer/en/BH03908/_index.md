@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH03908 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH03908']
+tags = ['lang-en', 'BH03908', "Bahá'u'lláh"]
 +++
 ##Naw-Rúz
 *(Naw-Rúz, March 21, is the first day of the Bahá'í year.)

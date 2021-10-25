@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2851 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *"...ky agjërim trupor është një shenjë e jashtme e agjërimit shpirtëror; është simbol i vetëpërmbajtjes, i të përmbajturit të vetvetes nga të gjitha orekset e Unit, duke marrë karakteristikat e shpirtit, duke u rrëmbyer nga frymëmarrjet e qiellit dhe duke marrë zjarr nga dashuria e Perëndisë." - Kitáb-i Akdas
 

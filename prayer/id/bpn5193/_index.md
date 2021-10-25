@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5193 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Terpujilah Engkau, ya Tuhanku! Bagaimanakah aku dapat bersyukur kepada-Mu karena Engkau telah mengkhususkan daku dan memilih daku di atas semua hamba-hamba-Mu untuk menyatakan Diri-Mu ketika semua telah berpaling dari keelokan-Mu! Aku naik saksi, ya Tuhanku, bahwa seandainya aku diberi seribu kehidupan oleh-Mu dan mempersembahkan semuanya itu di Jalan-Mu, aku masih tetap gagal membalas pemberian-pemberian yang paling kecil pun yang telah Engkau anugerahkan kepadaku melalui rahmat-Mu.
 Aku telah tidur pada dipan keakuan sewaktu Engkau membangunkan daku dengan nada-nada keilahian suara-Mu, dan telah membuka kepadaku keelokan-Mu, dan telah memungkinkan daku mendengar ucapan- ucapan-Mu dan mengenali Diri-Mu, dan mengucapkan pujian-Mu dan menjunjung tinggi kebajikan-Mu dan berteguh hati dalam cinta-Mu. Akhirnya aku jatuh tertahan di tangan orang-orang keras kepala di antara hamba-hamba-Mu. 

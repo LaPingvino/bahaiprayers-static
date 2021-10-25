@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3182 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Geloof sy U Naam, o my God! Ek smeek U by die geure van die Gewaad van u guns, wat op U gebod en in ooreenstemming met U wens deur die hele skepping versprei is, en by die Dagster van U wil wat helder skyn, deur die krag van U mag en U soewereiniteit, bo die horison van U genade, om alle nuttelose inbeeldinge en ydele verbeeldinge uit my hart te wis, sodat ek met al my toegeneentheid my na U toe mag wend, o U die Here van die hele mensdom!
 

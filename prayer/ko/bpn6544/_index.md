@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6544 in 한국어'
 author = "Abdu'l-Bahá"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 왕국의 이 딸에게, 그를
 

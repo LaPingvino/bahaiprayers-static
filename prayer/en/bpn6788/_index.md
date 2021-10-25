@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6788 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Glorified art Thou, O Lord my God! Rain down, I beseech Thee, from the clouds of Thine overflowing grace, that which shall cleanse the hearts of Thy servants from whatever may prevent their beholding Thy face, or may prevent them from turning unto Thee, that they may all recognize Him Who is their Fashioner and Creator. Help them, then, O God, to reach forth, through the power of Thy sovereign might, towards such a station that they can readily distinguish every foul smell from the fragrance of the raiment of Him Who is the Bearer of Thy most lofty and exalted name, that they may turn with all their affections toward Thee, and may enjoy such intimate communion with Thee that if all that is in heaven and on earth were given them they would regard it as unworthy of their notice, and would refuse to cease from remembering Thee and from extolling Thy virtues.
 

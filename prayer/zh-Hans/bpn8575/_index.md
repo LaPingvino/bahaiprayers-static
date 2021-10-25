@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8575 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', 'bpn-unsorted']
+tags = ['lang-zh-Hans', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 新娘和新郎的婚姻宣誓要在至少两位经巴哈伊灵理会批准的证婚人前进行，誓词由《亚格达斯经》（《至圣经》）规定：
 “诚然，我们都要忠于上帝的旨意。”

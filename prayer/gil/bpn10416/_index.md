@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10416 in Kiribati'
 author = "Abdu'l-Bahá"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ngkoe ara Uea ae e aakoi! Ko a tia ni karika te botannaomata nako man te riki ae ti te aekana, Ko a tia ni katauia bwa kaain te mweenga ae ti teuana, ao a tei i Matam ae Moan te Tabu, bwa Am toro ao te botannaomata a bane ni kaawakinaki i aan Umwam. Natim a uaia ni botaki i aon Am taibora n ataataiaomata ao n tia n riki n oota man tauran Am bwai ni kakaawakin.
 	Te Atua! Ko aakoi nakoia ni kabane, Ko a tia ni kakaawakiniia ni kabane. Ko anga te maiu nakoia ni kabane, Ko a tia n anganiia ni kabane aomata te konabwai ao te wanawana ao ni kateboa te botannaomata inanon marawan Am nanoanga.

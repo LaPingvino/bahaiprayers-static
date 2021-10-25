@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn490 in Deutsch'
 author = "Abdu'l-Bahá"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Wer die süßen Düfte Gottes verbreitet, soll jeden Morgen dieses Gebet sprechen:O Gott, mein Gott! Du siehst, wie dieser Schwache bittet um himmlische Kraft, wie dieser Arme fleht um Deine himmlischen Schätze, wie dieser Dürstende schmachtet nach dem Quell ewigen Lebens, wie dieser Leidende sich sehnt nach der verheißenen Heilung durch Dein grenzenloses Erbarmen, das Du Deinen erwählten Dienern in Deinem Königreich der Höhe bestimmt hast.
 O Herr! Ich habe keinen Helfer als Dich, keine Zuflucht außer Dir, keinen Erhalter denn Dich. Stehe mir mit Deinen Engeln bei, Deine heiligen Düfte zu verbreiten und Deine Lehren überall bei den Besten Deines Volkes bekannt zu machen.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8992 in اُردُو'
 author = "Bahá'u'lláh"
-tags = ['lang-ur', 'bpn-unsorted']
+tags = ['lang-ur', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ہواللہ
 اے مقبلان، اے موقنان، بارگار نیاز میں شکرانے کا ہاتھ بلند کرو اور اس ترانے کا آغاز کرو۔

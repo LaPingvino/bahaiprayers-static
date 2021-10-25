@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6204 in Marshallese'
 author = "Abdu'l-Bahá"
-tags = ['lang-mh', 'bpn-unsorted']
+tags = ['lang-mh', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Anij in tiriamo! Lewoj kamolol nan Kwe bwe Kwar karuj im kemour io. Emoj am letok meja bwe in lolokjen im letok lojilnu bwe in ronlokjen, im tel io nan ailin eo Am im kwalok nan io ial eo Am. Emoj Am kwalok nan io ial eo ejimwe im komman bwe in drelone wan lomor eo. O Anij! Komman bwe in bin im kajur. Kejbarok io jen melejon ko rekajur im kejbarok im wonake io ilo jikin likibejnak ilo Bujen im Kallimur eo Am. Kwe Dri lolokjen. Kwe Dri ronjake.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10309 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O min Gud! O Du syndernas förlåtare, gåvornas givare, bedrövelsens förjagare.
 Sannerligen, jag bönfaller Dig att ge syndernas förlåtelse till dem, som lagt av den jordiska klädnaden och uppstigit till den andliga världen.

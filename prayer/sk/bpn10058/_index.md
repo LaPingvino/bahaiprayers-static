@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10058 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', 'bpn-unsorted']
+tags = ['lang-sk', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 On je Zhovievavý, nadovšetko Štedrý!
 Ó Bože, môj Bože! Ty ma vidíš a poznáš, Ty si moja Záchrana a moje Útočisko. Nikoho okrem Teba som nehľadal a hľadať nebudem a na žiadnu cestu okrem cesty Tvojej lásky som nevkročil a ani nevkročím. V temnej noci zúfalstva sa môj zrak v nádejnom očakávaní obracia k ránu Tvojej nesmiernej priazne a v hodine úsvitu moju sklesnutú dušu osviežuje a posilňuje spomienka na Tvoju Krásu a dokonalosť. Ten, komu napomáha priazeň Tvojho milosrdenstva, hoci by bol len kvapkou, stane sa bezhraničným oceánom a obyčajný atóm, ktorému pomáhajú prúdy Tvojej milujúcej láskavosti, sa rozsvieti ako jasná hviezda.

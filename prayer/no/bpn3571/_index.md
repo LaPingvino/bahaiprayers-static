@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3571 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ære være deg, o min Gud! Du hører dem som inderlig elsker deg jamre seg i sin adskillelse fra deg og slike som har anerkjent deg klage seg fordi de er langt borte fra ditt nærvær. Slå du din nådes porter opp for deres øyne, slik at de kan tre inn gjennom dem med din tillatelse og etter din vilje, og kan stå for din veldes trone, og høre din røst tale, og bli opplyst av glansen fra ditt åsyns lys.
  

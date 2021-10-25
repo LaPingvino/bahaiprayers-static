@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1258 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Louvado seja o Teu nome, ó Tu em cujas mãos está o reino de todos os nomes, nos dedos de cujo poder se acham todos os que estão no céu e na terra! Suplico-Te – por Aquele que é o Teu Nome Mais Esplendoroso, a Quem fizeste o alvo dos dardos do Teu decreto no Teu caminho, ó Tu, Rei da eternidade – rompe os véus que excluíram as Tuas criaturas do horizonte da Tua glória, para que talvez se volvam na direção à Tua misericórdia e se aproximem do Alvorecer da Tua terna bondade.
 Não abandones os Teus servos a si próprios, ó meu Senhor! Atrai-os pela influência das Tuas palavras, à Aurora da Tua inspiração, à Fonte da Tua Revelação e ao Tesouro da Tua sabedoria. És aquele de cuja fortaleza e poder todas as coisas têm dado testemunho. De tudo o que foi criado no Teu céu e sobre a Tua terra, nada, em absoluto, pode frustrar o Teu Desígnio.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2763 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *"...Administratorët Kryesorë të Komunitetit Botëror embrional të Bahá'u'lláh-ut, që janë veshur nga Penda e pagabueshme e Qendrës së Besëlidhjes së Tij me funksionin e dyfishtë për të ruajtur sigurinë dhe për të siguruar përhapjen e Besimit të Atit të Tij". - Shoghi Effendi (Messages to the Bahá'í World [Mesazhe për Botën Bahá'í])
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11699 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O my God! O Thou Who endowest every just power and equitable dominion with abiding glory and everlasting might, with permanence and stability, with constancy and honour! Aid Thou by Thy heavenly grace every government that acteth justly towards its subjects and every sovereign authority, derived from Thee, that shieldeth the poor and the weak under the banner of its protection.
 

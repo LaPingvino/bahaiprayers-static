@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2295 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O, Tu, Dumnezeul meu, care-l călăuzeşti pe căutător la calea ce-a dreaptă, care-l eliberezi pe cel cu sufletul pierdut şi orb din pustiurile pierzaniei, o, Tu care acorzi celor sinceri mari daruri şi favoruri, care-l păzeşti pe cel speriat în refugiul Tău de neînvins, care răspunzi, din orizontul Tău cel preaînalt, strigătului celor care Te cheamă. Lăudat fii Tu, o, Domnul meu! Tu l-ai călăuzit pe cel rătăcit din moartea necredinţei; şi i-ai adus pe cei ce se apropie de Tine la capătul drumului lor; şi i-ai bucurat pe cei încredinţaţi dintre slujitorii Tăi împlinindu-le dorinţele lor cele mai dragi; şi ai deschis, din Împărăţia Ta de frumuseţe, înaintea feţelor celor ce tânjesc după Tine, porţile reuniunii şi i-ai salvat din focurile nevoilor şi pieirii - astfel încât ei s-au grăbit spre Tine şi au atins prezenţa Ta; şi au ajuns la uşa Ta primitoare; şi au primit o porţie îmbelşugată din darurile Tale.
 

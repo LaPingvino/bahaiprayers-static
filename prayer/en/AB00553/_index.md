@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00553 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB00553']
+tags = ['lang-en', 'AB00553', "Abdu'l-Bahá"]
 +++
 O God, my God!  Fill up for me the cup of detachment from all things, and in the assembly of Thy splendors and bestowals, rejoice me with the wine of loving Thee.  Free me from the assaults of passion and desire, break off from me the shackles of this nether world, draw me with rapture unto Thy supernal realm, and refresh me amongst the handmaids with the breathing of Thy holiness.
 

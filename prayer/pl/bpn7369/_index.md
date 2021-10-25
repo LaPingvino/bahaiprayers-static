@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7369 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Bądź pochwalony, Panie Boże mój! Za każdym razem, gdy ośmielam się wspominać o Tobie, powstrzymują mnie moje potężne grzechy i ciężkie przewinienia przeciwko Tobie i odkrywam, żem doszczętnie pozbawiony Twojej łaski i całkowicie niezdolny, aby święcić Twoją chwałę. Wszelako moja głęboka ufność w Twoją szczodrość ożywia mą nadzieję pokładaną w Tobie, a pewność, że postąpisz ze mną łaskawie, ośmiela mnie, by wysławiać Ciebie i prosić o dobra, które posiadasz.
     

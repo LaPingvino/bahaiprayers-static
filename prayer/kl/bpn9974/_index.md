@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9974 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Guutiga-aa, Naalagara, kipisanerma Anguniagaa! Una kiffat naakkinnissuserpit oqquiffiani siniffissarsiorpoq Saammaannerpillu Issiavissaarsuata qilaannguusaani qasuerserusulluni, qinnutigalugu Paaqqinninnerit Sernissuinerillu. 
 

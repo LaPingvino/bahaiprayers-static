@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11590 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ¡Magnificado sea Tu nombre, oh Tú en Cuyo puño están las riendas de las almas de todos los que Te han reconocido, y en Cuya diestra se halla el destino de todos los que están en el cielo y todos los que están en la tierra! Mediante la fuerza de Tu poder, Tú haces lo que deseas, y, mediante Tu volición, ordenas lo que Te place. La voluntad de la persona más decidida no es nada comparada con las imperiosas pruebas de Tu voluntad, y la determinación de la más inflexible de Tus criaturas queda disipada ante las múltiples revelaciones de Tu propósito.
 Tú eres Aquel que, con una palabra de Su boca, ha extasiado a tal punto los corazones de Sus escogidos que, en su amor por Ti, se han desprendido de todo excepto de Ti mismo, y han ofrecido sus vidas y han sacrificado sus almas en Tu camino, y han soportado, por Tu amor, lo que no ha soportado ninguna de Tus criaturas.

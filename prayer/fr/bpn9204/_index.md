@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9204 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Gloire à toi, ô toi qui es le Seigneur de tous les mondes et le Bien-Aimé de ceux qui t’ont reconnu ! Tu me vois assis sous un glaive suspendu à un fil, et tu sais qu’un tel état ne m’empêche ni d’accomplir mon devoir envers ta cause, ni de propager ta louange, ni de proclamer tes vertus, ni de diffuser tout ce que tu m’as prescrit dans tes écrits. Ce glaive s’apprête à tomber sur ma tête, et pourtant j’appelle ceux que tu aimes avec des accents tels que les cœurs sont transportés à l’horizon de ta majesté et de ta grandeur.
 Ô mon Seigneur, purifie leurs oreilles afin qu’ils entendent les douces mélodies s’élevant de la droite du trône de ta gloire. Je le jure par ta puissance ! Quiconque accorderait son oreille à cette harmonie s’envolerait jusqu’au royaume de ta révélation où toute chose créée proclame que tu es Dieu et qu’il n’est d’autre Dieu que toi, l’Omnipotent, le Secours, l’Absolu. 

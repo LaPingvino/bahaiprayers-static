@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2143 in România'
 author = "Báb"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Báb"]
 +++
 Acordă-mi, o, Dumnezeul meu, întreaga măsură a iubirii Tale şi a bunului Tău plac, iar prin farmecul luminii Tale strălucitoare vrăjeşte-ne inimile, o, Tu Ce eşti Dovada Supremă şi Cel Atotslăvit. Pogoară asupra mea, ca o mărturie a harului Tău, adierile Tale înviorătoare, în timpul zilei şi la vreme de noapte, o Stăpân al dărniciei.
 

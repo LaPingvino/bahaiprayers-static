@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1196 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Louvado sejas Tu, ó Senhor meu Deus! Imploro-Te, pelo Teu Nome, o qual jamais foi devidamente reconhecido, cuja significação nenhuma alma sondou, e suplico-Te, por Aquele que é o Manancial da Tua Revelação e o Alvorecer dos Teus sinais, que faças do meu coração um recetáculo do Teu amor e da Tua lembrança. Liga-o, pois, ao Teu mais grandioso Oceano para que assim por ele fluam as águas vivas da Tua sabedoria e as correntes cristalinas da Tua glorificação e do Teu louvor.
 Os membros do meu corpo atestam a Tua Unidade; os fios do meu cabelo declaram o poder da Tua soberania e grandeza. Detive-me à porta da Tua graça, com humildade absoluta e abnegação completa; toquei a orla das vestes da Tua generosidade, e os meus olhos fitaram o horizonte das Tuas dádivas.

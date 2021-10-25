@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7728 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Se Li menm Ki Bondye, Sila a Ki egzalte, Senyè a Ki gen yon jantiyès ki plen lanmou ak bonte!
 Glwa pou ou, O Bondye mwen, Ou menm Senyè Siprèm nan. Mwen temwaye Ou gen tout otorite ak pisans, Ou gen souverènte ak jantiyès ki plen lanmou, Ou plen gras ak pouvwa, Lespri Ou rete pou kont Li e linite Ou pa kapab divize, Ou sanntifye e Ou pi wo pase tout mond kreyasyon an ak tout sa ki egziste anndan li.

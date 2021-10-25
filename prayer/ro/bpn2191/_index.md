@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2191 in România'
 author = "Báb"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Báb"]
 +++
 O, Doamne! Întru Tine caut refugiu şi către toate semnele Tale îmi îndrept inima.
 

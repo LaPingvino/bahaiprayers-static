@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6384 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Dydi Arglwydd digymar! Bydded i’r plentyn sugno hwn ei fagu o fron Dy drugaredd, amddiffyn ef o fewn crud Dy ddiogelwch a’th nawdd, a bydded iddo gael ei fagu ym mreichiau Dy gariad tyner.
 

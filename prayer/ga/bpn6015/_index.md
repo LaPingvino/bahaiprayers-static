@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6015 in Irish'
 author = "Báb"
-tags = ['lang-ga', 'bpn-unsorted']
+tags = ['lang-ga', 'bpn-unsorted', "Báb"]
 +++
 ##Remover of Difficulties 
 

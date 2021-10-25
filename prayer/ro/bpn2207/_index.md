@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2207 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O, Tu a cărui faţă e obiectul adoraţiei tuturor celor care tânjesc după Tine, a Cărui prezenţă e speranţa celor care sunt întru totul devotaţi voinţei Tale, a Cărui apropiere e speranţa tuturor celor care s-au apropiat de curtea ta, al Cărui chip este tovarăşul celor care ţi-au recunoscut adevărul, al Cărui nume este mişcătorul sufletelor care tânjesc să-ţi privească faţa, a Cărui voce este adevărata viaţă a iubitorilor Tăi, ale Cărui cuvinte sunt precum apa vie pentru toţi cei ce sunt în cer şi pe pământ!
 

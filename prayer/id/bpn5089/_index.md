@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5089 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##SEMBAHYANG PANJANG
 *Dilaksanakan sekali dalam dua puluh empat jam.

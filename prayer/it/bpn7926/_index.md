@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7926 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##TAVOLA DI AḤMAD
 

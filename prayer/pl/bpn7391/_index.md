@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7391 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O mój Boże! O mój Boże! Chwała bądź Tobie, za to żeś upewnił mnie, bym wyznał Twoją jedność, żeś przyciągnął mnie do słowa Twojej pojedynczości, rozpalił mnie ogniem Twojej miłości, zajął mnie wspominaniem Ciebie i służeniem Twoim przyjaciołom i służebnicom.
     

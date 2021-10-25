@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11685 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Te imploro, oh mi Dios, por Tu poderoso Signo y por la revelación de Tu gracia entre los hombres, que no me eches de la puerta de la ciudad de Tu presencia, ni frustres las esperanzas que he puesto en las manifestaciones de Tu gracia entre Tus criaturas. Tú me ves, oh mi Dios, aferrado a Tu Nombre, el Más Santo, el Más Luminoso, el Más Poderoso, el Más Grande, el Más Exaltado, el Más Glorioso, y adherido al borde del manto al cual se han aferrado todos, en este mundo y en el venidero.
 Te imploro, oh mi Dios, por Tu dulcísima voz y por Tu muy exaltada Palabra, que me acerques cada vez más al umbral de Tu puerta y no permitas que esté alejado de la sombra de Tu misericordia ni del dosel de Tu generosidad. Tú me ves, oh mi Dios, aferrado a Tu Nombre, el Más Santo, el Más Luminoso, el Más Poderoso, el Más Grande, el Más Exaltado, el Más Glorioso, y adherido al borde del manto al cual se han aferrado todos, en este mundo y en el venidero.

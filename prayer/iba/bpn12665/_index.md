@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12665 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Petara aku enggau Tuan aku! Aku tu pengasuh Nuan lalu anak pengasuh Nuan. Aku udah angkat ari padung peninduk aku pagi tu lebuh maya Bintang- Siang penyatu Nuan manchar ari Terebak-tawas peneka Nuan, lalu udah mancharka penampak ia di selampur dunya tu, nitihka ti udah diletak dalam Bup Letak-Tangkan Nuan.
 Puji meh Nuan, O Petara aku, laban kami udah angkat ngagai penampak panchar penemu Nuan. Nya alai, turun ngagai kami, O Tuhan aku, utai ti tau dikena kami ngelengka diri ari sebarang orang kelimpah ari Nuan, lalu ngelepaska kami ari semua tanggam tang semina Nuan. Nambahka nya, tulis ba aku, enggau ba sida ti dikerindu aku, sereta ba kaban belayan aku, bela sebaka ba indu enggau lelaki, pemanah ba dunya tu enggau dunya ti deka datai. Nangkan nya, enggau likun ibun kami, ngena jaga Nuan ti meruan, O Nuan ti Dikerindu semua utai tempa enggau ti Dikingin selampur dunya, ari sida ti udah diasuh Nuan ngayanka Telai Sitan ke betelai ngagai ati mensia. Bekuasa meh Nuan ngereja peneka Nuan. Nuan amat bendar ti Chukup Tegap, Penulung lebuh Tusah, Pengibun Diri.

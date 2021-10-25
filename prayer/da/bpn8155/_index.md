@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8155 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Den der begiver sig ud på en undervisningsrejse til et hvilket som helst sted skal på sin rejse i fremmede lande fremsige denne bøn dag og nat.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6497 in 한국어'
 author = "Báb"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Báb"]
 +++
 주님의 종들을
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2308 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Slavă ţie, Doamne, Stăpâne, Dumnezeul
 meu! Te implor, pe această Revelaţie care a schimbat întunericul în lumină şi prin care a fost ridicat Templul cu ardoare vizitat, prin care Tableta Scrisă a fost revelată şi Sulul manuscrisului a fost desfăşurat şi dezvăluit, pogoară asupra Mea şi a celor ce-mi sunt alături, ceea ce ne va ajuta să ne ridicăm în zbor spre cerurile slavei Tale transcendente şi ne va curăţa de pata îndoielilor ce i-au împiedicat pe cei neîncrezători să intre în tabernacolul unităţii Tale.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3281 in العربية'
 author = "Abdu'l-Bahá"
-tags = ['lang-ar', 'bpn-unsorted']
+tags = ['lang-ar', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 # هُوَ الأَقْدَسُ الأَبهى
 بِسْمِ الله الرَّحْمنِ الرَّحِيمِ، الحَمْدُ للهِ رَبِّ العَالَمِينَ.

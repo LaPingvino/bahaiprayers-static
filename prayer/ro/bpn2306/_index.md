@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2306 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Vam poruncit să vă rugaţi şi să postiţi de la începutul maturităţii... Reţineţi-vă de la mâncare şi băutură de la răsărit până la asfinţit şi păziţi-vă ca nu cumva dorinţa să vă lipsească de acest har ce a fost desemnat în Carte... - Bahá'u'lláh
 

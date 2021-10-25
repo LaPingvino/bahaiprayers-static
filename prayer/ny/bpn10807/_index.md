@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10807 in Chichewa'
 author = "Báb"
-tags = ['lang-ny', 'bpn-unsorted']
+tags = ['lang-ny', 'bpn-unsorted', "Báb"]
 +++
 O Mulungu wanga, Okondedwa wanga, chofuna cha mtima wanga. 
 

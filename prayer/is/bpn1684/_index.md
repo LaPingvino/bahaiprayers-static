@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1684 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *„Bahá’í hjónaband er eining og hjartanleg ástúð beggja aðila. Þau verða þó að sýna ítrustu gætni og kynnast lunderni hvort annars. Þetta eilífa band ætti að tryggja með stöðugum sáttmála og tilgangurinn á að vera að rækta samstillingu, vináttu og einingu og öðlast eilíft líf.“		—‘Abdu’l-Bahá
 

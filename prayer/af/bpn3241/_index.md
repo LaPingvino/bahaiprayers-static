@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3241 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Hierdie, o my Here, is die dae waarop U U dienaars gelas het om die vas te onderhou. Daarmee het U die voorrede van die Boek van U Wette versier wat aan U skepsels bekend gemaak is, en die Bewaarplekke van U gebooie opgeskik in die sig van almal wat in U hemel en almal wat op U aarde is. U het elke uur van hierdie dae met 'n spesiale deug bedeel, ondeurgrondelik vir almal behalwe U, Wie se kennis alle geskape dinge omhels. U het ook aan elke siel 'n deel van hierdie deug toegeken ooreenkomstig die Tafel van U verordening en die Geskrifte van U onherroeplike oordeel. Elke blad van hierdie Boeke en Geskrifte het U, bowendien, aan elkeen van die volke en soortgenote van die aarde toegeken.
 

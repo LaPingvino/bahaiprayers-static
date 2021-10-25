@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8169 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *”Studer Den Hellige Søfarer, at I kan kende sandheden og tænke på, at Den Velsignede Skønne til fulde har forudsagt fremtidige begivenheder. Lad dem, der ser være advaret.” – 'Abdu'l-Bahá
 

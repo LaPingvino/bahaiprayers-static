@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3173 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 God getuig van die eenheid van Sy Godheid en van die enkelvoudigheid van Sy eie Wese. Op die troon van die ewigheid, uit die onbereikbare hoogtes van Sy stand, roep Sy tong uit dat daar geen ander God behalwe Hom is nie. Hy self, onafhanklik van alle andere, was altyd 'n getuie gewees van Sy eenheid, die bekendmaker van Sy eie natuur, die verheerliker van Sy eie wese. Hy is, voorwaar, die Alsterke, di Almagtige, die Skone.
 

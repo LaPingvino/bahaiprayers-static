@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7696 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Nenpòt moun ki vin soule nan gran lajwa ki soti nan adore Non Mwen, Sila Ki Gen Kè Ki Pi Sansib la, pral resite vèsè Bondye yo yon jan pou kapte kè sila yo ki toujou andòmi.
  

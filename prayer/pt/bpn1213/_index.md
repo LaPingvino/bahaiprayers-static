@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1213 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Louvado sejas, ó Senhor meu Deus! Dou testemunho de que Tu, desde toda a eternidade, estás elevado em Tua transcendente majestade e grandeza e por toda a eternidade permanecerás em Teu supremo poder e glória. Nos reinos da terra como do céu não há quem possa frustrar o Teu desígnio; nem existe, em todos os domínios da revelação e da criação, quem possa prevalecer contra Ti. Segundo a Tua Vontade, realizas o que desejas e, através do poder da Tua soberania, reges como Te apraz.
 Imploro-Te, ó Tu que causas o alvorecer - pela Tua lâmpada, a qual acendeste com o fogo do Teu amor, diante de todos no céu e na terra, e cuja chama alimentas com o óleo da Tua sabedoria, no reino da Tua criação - torna-me um dos que voaram em Tua proximidade e que ao Teu decreto submeteram a sua vontade.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4476 in Filipino'
 author = "Báb"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Báb"]
 +++
 Sumasamo ako sa Iyong kapatawaran, O aking Diyos, at nagsusumamo ng paumanhin tulad ng pamamaraan na ninanais Mo mula sa Iyong mga tagapaglingkod sa kanilang pagbaling sa Iyo. Isinasamo ko sa Iyo na hugasan ang aming mga kasalanan na naaangkop sa Iyong pagka-Panginoon at patawarin ako, ang aking mga magulang, at sila na sa Iyong panantiya ay nakapasok sa tahanan ng Iyong pagmamahal sa pamamaraang karapat-dapat sa Iyong nangingibabaw na kadakilaan at naaayon sa kaluwalhatian ng Iyong makalangit na kapangyarihan.
 

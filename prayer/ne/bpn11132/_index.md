@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11132 in नेपाली'
 author = "Bahá'u'lláh"
-tags = ['lang-ne', 'bpn-unsorted']
+tags = ['lang-ne', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *बहाई विवाह दुवै पक्षको सुमधुर सम्बन्ध र पूर्ण सहमति हो । 
 

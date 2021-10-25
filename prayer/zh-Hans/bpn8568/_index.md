@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8568 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', 'bpn-unsorted']
+tags = ['lang-zh-Hans', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 祂是神医，满足者，救助者，赦免者，大慈大悲者。
 我祈求祢，尊贵者，诚信者，荣耀者啊！祢是满足者，祢是医治者，祢永恒不变，万古如一！

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3918 in Hrvatski'
 author = "Bahá'u'lláh"
-tags = ['lang-hr', 'bpn-unsorted']
+tags = ['lang-hr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(Molitva iz Devete Blagovijesti Baha'u'llaha) …Ispovijedanje grijeha i prekršaja pred ljudima nije dopušteno. Griješnik treba, između sebe i Boga, zamoliti milost iz Oceana milosti i moliti oproštaj iz Nebesa velikodušja i reći:
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH07113 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH07113']
+tags = ['lang-en', 'BH07113', "Bahá'u'lláh"]
 +++
 Praise be to Thee, O Lord my God!  Thou seest and knowest that I have called upon Thy servants to turn nowhere except in the direction of Thy bestowals, and have bidden them observe naught save the things Thou didst prescribe in Thy Perspicuous Book, the Book which hath been sent down according to Thine inscrutable decree and irrevocable purpose.
 I can utter no word, O my God, unless I be permitted by Thee, and can move in no direction until I obtain Thy sanction.  It is Thou, O my God, Who hast called me into being through the power of Thy might, and hast endued me with Thy grace to manifest Thy Cause.  Wherefore I have been subjected to such adversities that my tongue hath been hindered from extolling Thee and from magnifying Thy glory.

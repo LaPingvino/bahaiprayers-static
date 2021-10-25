@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9308 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Il est Dieu ! Ô Seigneur, mon Dieu, toi qui aides le faible, secours le pauvre et soutiens le désemparé qui se tourne vers toi ! Dans la plus grande humilité, je lève des mains suppliantes vers ton royaume de beauté et je t’appelle avec ferveur de ma voix intérieure : Ô Dieu, mon Dieu, aidemoi à t’adorer, affermis mes reins en ton service, que ta grâce renforce ma servitude envers toi et que je reste fidèle en mon obéissance. Verse sur moi les effusions libérales de ta générosité, tourne le regard de ta tendre bonté vers moi et plonge-moi dans l’océan de ton pardon. Fortifie mon allégeance à ta foi et accrois ma certitude et mon assurance afin que je me détache du monde et tourne mon visage avec dévotion vers ton visage, afin que, conforté par le pouvoir irrésistible des preuves et des témoignages, j’aille au-delà des régions de la terre et du ciel, investi de majesté et de pouvoir. En vérité, tu es le Miséricordieux, le Très-Glorieux, le Bon, le Compatissant.
 Ô Seigneur, voici ceux qui survivent aux martyrs, cette assemblée d’âmes saintes. Ils ont supporté toutes les épreuves et manifesté de la patience devant une cruelle injustice. Abandonnant confort et prospérité ils se sont volontairement soumis aux pires souffrances et adversités dans le sentier de ton amour ; ils sont encore entre les griffes de tes ennemis qui sans cesse les accablent d’atroces tourments et les oppriment parce qu’ils marchent fermement dans ton droit chemin. Personne pour les aider, personne pour être leur ami ; personne pour s’associer à eux et leur tenir compagnie hormis l’ignoble et le méchant !

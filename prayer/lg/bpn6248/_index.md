@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6248 in Luganda'
 author = "Bahá'u'lláh"
-tags = ['lang-lg', 'bpn-unsorted']
+tags = ['lang-lg', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *" ...Abakuumi abakulu ab'enzikiriza ya Bahá’u’lláh, ekyali ento, baweereddwa emirimu ebiri, okuvo mu kafumu akatakola nsobi aka 'Abdu'l-Bahá.  Ogw'okubunyisa n'ogw'okukuuma Enzikiriza ya Kitaawe. "- Shoghi Effendi -Messages to the Bahá'í World
  

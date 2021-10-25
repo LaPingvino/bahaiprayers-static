@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7810 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Egli è Dio, esaltato Egli sia, il Signore amoroso e generoso! Gloria a Te, o mio Dio, Signore Onnipotente. Io fo’ testimonianza della Tua onnipotenza e della Tua forza, della Tua sovranità e del Tuo tenero amore, della Tua grazia e del Tuo potere, dell’unicità del Tuo Essere e dell’unità della Tua Essenza, della Tua santità e della Tua supremazia sul mondo dell’esistenza e su tutto ciò che è in esso.
 O mio Dio, mi vedi distaccato da tutto fuorché da Te, avvinghiato a Te e rivolto verso l’oceano della Tua munificenza, verso il cielo del Tuo favore, verso la Stella Mattutina della Tua grazia. 

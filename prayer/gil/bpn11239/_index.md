@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11239 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *‘‘Kamatebwaia te Tabureti ibukin te Holy Mariner bwa ko aonga n at ate koaua, ao karaua iangoia bwa te Tamaroa Ae E Kakabwaiaki E a tia n taetae ni burabeti n tabwaninna taekan bwaai aika a na riki nakon taai aika a na roko. A riai naake a noraba n taua bwa te kauring nakoia.’’ ’Abdu’l-Bahá
 Ngaia te Tituaraoi, Moan te Tangiraki! O Mariner ae e Tabu!

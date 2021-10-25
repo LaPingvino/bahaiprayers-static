@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6488 in 한국어'
 author = "Abdu'l-Bahá"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##이 아들은,  저의 아버지를
 

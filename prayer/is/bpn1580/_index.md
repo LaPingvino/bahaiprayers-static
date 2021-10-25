@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1580 in Íslenska'
 author = "Báb"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Báb"]
 +++
 Lofað sé nafn Þitt, ó Drottinn Guð okkar! Þú þekkir í sannleika hið óséða. Ákvarða okkur þau gæði, sem alltumlykjandi þekking Þín getur út­hlutað. Þú ert yfirbjóðandi Drottinn, hinn al­máttugi og ástkærasti.
 Allt lof sé Þér, ó Drottinn! Við leitum náðar Þinnar á hinum tiltekna degi og setjum allt okkar traust á Þig sem ert Drottinn okkar. Dýrlegur ert Þú, ó Guð! Gef okkur það sem gott er og sæmandi, svo að við megum hafna öllu nema Þér. Vissulega ert Þú Drottinn allra veraldanna.

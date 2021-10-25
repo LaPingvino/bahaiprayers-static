@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7609 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', 'bpn-unsorted']
+tags = ['lang-fi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Oi Navváb! ... Oi lehvä, joka on versonut Minun puustani ja ollut Minun kumppanini! Olkoot ylläsi kirkkauteni ja laupeuteni ja armeliaisuuteni, joka on ylittänyt kaikki olennot. Me kuulutamme sinulle sen, mikä ilahduttaa silmääsi ja rauhoittaa sieluasi ja riemastuttaa sydäntäsi. Totisesti Herrasi on Sääliväinen,  Kaikkiantelias. Jumala on ollut ja on oleva sinuun mieltynyt ja on poiminut sinut omakseen ja valinnut sinut palvelijatartensa joukosta palvelemaan itseään ja on tehnyt sinusta Henkilönsä kumppanin päiväsaikaan ja yön hetkenä.
 Kuule Minua vielä kerran ... Jumala on sinuun mielistynyt armonsa osoituksena ja armeliaisuutensa merkkinä. Hän on tehnyt sinusta kumppaninsa jokaisessa maailmoistansa ja ravinnut sinua kohtaamisellaan ja läsnäolollaan, niin kauan kuin Hänen nimensä ja muistamisensa ja valtakuntansa ja herruutensa ovat kestävä. Onnellinen on se palvelijatar, joka on maininnut sinut ja tavoitellut mielisuosiotasi ja nöyrtynyt edessäsi ja pitänyt lujasti kiinni rakkautesi nuorasta. Voi sitä, joka kieltää ylevän asemasi ja ne asiat, jotka sinulle on säätänyt Jumala, kaikkien nimien Herra, ja sitä, joka on kääntynyt pois sinusta ja kieltänyt asemasi Jumalan, mahtavan valtaistuimen Herran, edessä. 

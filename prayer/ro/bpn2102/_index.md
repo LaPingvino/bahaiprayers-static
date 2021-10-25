@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2102 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 De spus în fiecare zi, dimineaţa, la amiază şi seara.
 

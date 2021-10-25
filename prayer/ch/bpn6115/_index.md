@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6115 in Chamorro'
 author = "Abdu'l-Bahá"
-tags = ['lang-ch', 'bpn-unsorted']
+tags = ['lang-ch', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN
 *PRAYERS FOR CHILDREN AND YOUTH

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8207 in Lietuvių'
 author = "Bahá'u'lláh"
-tags = ['lang-lt', 'bpn-unsorted']
+tags = ['lang-lt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Trumpa privalomoji malda
 

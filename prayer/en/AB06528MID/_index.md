@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB06528MID in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB06528MID']
+tags = ['lang-en', 'AB06528MID', "Abdu'l-Bahá"]
 +++
 #Midnight
 

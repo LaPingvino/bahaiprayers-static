@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9149 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', 'bpn-unsorted']
+tags = ['lang-fr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Prière pour le Hquqúqu’lláh (le droit de Dieu).
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8187 in Lietuvių'
 author = "Abdu'l-Bahá"
-tags = ['lang-lt', 'bpn-unsorted']
+tags = ['lang-lt', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Viešpatie! Tavyje aš ieškau prieglobsčio ir visų Tavo ženklų link aš kreipiu savo širdį.
 O Viešpatie! Kelyje ir namie, darbe ir visuose poelgiuose aš visiškai pasitikiu Tavimi.

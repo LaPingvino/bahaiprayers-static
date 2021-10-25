@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1198 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ó Deus, que és o Autor de todos os Manifestantes, a Origem de todas as Origens, o Manancial de todas as Revelações e a Fonte de todas as Luzes! Dou testemunho que, pelo Teu Nome, o céu da compreensão foi adornado, o oceano das palavras surgiu e as dispensações da Tua Providência foram promulgadas entre os seguidores de todas as religiões.
 Enriquece-me, eu Te imploro, de tal modo que, dispensando tudo, eu não Te dispense, nem dependa senão de Ti mesmo. Faze chover sobre mim, das nuvens da Tua generosidade, o que me possa beneficiar em cada mundo dos Teus mundos. Ajuda-me, assim, pela Tua graça fortalecedora, a servir a Tua Causa entre os Teus servos, para que eu possa manifestar aquilo em virtude do qual eu seja lembrado enquanto o Teu próprio reino durar e o Teu domínio existir.

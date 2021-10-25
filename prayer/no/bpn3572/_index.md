@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3572 in Norsk'
 author = "Báb"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Báb"]
 +++
 Du er Gud, ingen annen Gud er der enn deg.
  

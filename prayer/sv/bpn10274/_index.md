@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10274 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Han är den Nåderike, den Allgivande!       	 
 O Gud, min Gud! Ditt kallelserop har lockat mig och rösten från Din härlighets penna har väckt mig. Ditt heliga yttrandes strömmar har hänfört mig och Din ingivelses vin har hänryckt mig. Du ser mig, o Herre, frigjord från allt utom Dig, fastklamrad vid Din givmildhets band, bedjande om Din nåds under. Jag bönfaller Dig vid Din milda vänskaps eviga vågor och vid de strålande ljusen från Din kärleksfulla omsorg och ynnest, att bestämma för mig det som skall draga mig närmare Dig och göra mig rik i Din rikedom. Min tunga, min penna, hela mitt väsen vittnar  om Din styrka, Din makt, Din nåd och Din givmildhet, att Du är Gud och att det icke finns någon Gud utom Du, den Starke, den Mäktige.

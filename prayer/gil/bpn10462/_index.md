@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10462 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Te Huqúqu’lláh bon te tua ae kakannato. Bon te bwai ae taabangaki iaoia aomata nako karekean te angabwai aei, kioina ngkai boni mwiokon te karaoiroi, te kaubwai, ao baika a raraoi ni kabane. Bon te tituaraoi are a na tiku ma ngaia takanoi ni kabane ni katoai aonaaban Ana aonaaba nako Te Atua, Te Tia Bwaibwai ni Bwaai-nako, Te Tituaraoi.
  

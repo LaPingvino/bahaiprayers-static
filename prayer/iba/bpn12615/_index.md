@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12615 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Tuhan aku, O Tuhan aku!
 Aku tu anakmit ti agi biak. Tupi aku ari dada pengasih Nuan, latih aku dalam ruang dada pengerindu Nuan, asuh aku belajar dalam sekula iring Nuan lalu kemansangka aku di baruh kelamayang pemeri Nuan. Pansutka aku ari pemetang, gaga aku nyadi panchar ti perenching; lepaska aku ari penusah, gaga aku nyadi bungai ba kebun ros, asuh aku nyadi pengasuh ba pemetung Nuan lalu beri ke aku pendiau enggau gaya ulah ti rentang; gaga aku nyadi ke pemansut pemisi ngagai dunya mensia lalu iyas pala aku ngena intan pengidup ti meruan!

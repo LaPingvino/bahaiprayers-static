@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8061 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Gud, min Gud! Fyld mit bæger med løsrivelse fra alt og til forsamlingen til Din pragt og Dine tildelinger glæd mig med den vin at elske Dig. Befri mig fra angreb af lidenskab og begær, bryd denne nedre verdens lænker for mig, drag mig i lyksalighed til Dit himmelske rige og forfrisk mig blandt Dine tjenerinder med Din helligheds åndedrag.
 

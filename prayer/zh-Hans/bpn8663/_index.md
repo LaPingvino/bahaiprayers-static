@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8663 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', 'bpn-unsorted']
+tags = ['lang-zh-Hans', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 我的上帝啊！我的上帝！我真诚地在祢门前祈求和恳请，求祢将一切仁恩降予这些灵魂，特选他们承享祢的真理与恩宠。
 主啊！以祢圣洁与独一性的征象，团结和联结各色人群，让所有的人协调一致，让精神振奋激昂。主啊！借祢独一性之光，使这些人容光焕发。力挺祢仆人腰杆，侍奉于祢的王国。

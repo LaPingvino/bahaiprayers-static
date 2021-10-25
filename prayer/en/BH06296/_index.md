@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH06296 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH06296']
+tags = ['lang-en', 'BH06296', "Bahá'u'lláh"]
 +++
 From the sweet-scented streams of Thine eternity give me to drink, O my God, and of the fruits of the tree of Thy being enable me to taste, O my Hope!  From the crystal springs of Thy love suffer me to quaff, O my Glory, and beneath the shadow of Thine everlasting providence let me abide, O my Light!  Within the meadows of Thy nearness, before Thy presence, make me able to roam, O my Beloved, and at the right hand of the throne of Thy mercy, seat me, O my Desire!  From the fragrant breezes of Thy joy let a breath pass over me, O my Goal, and into the heights of the paradise of Thy reality let me gain admission, O my Adored One!  To the melodies of the dove of Thy oneness suffer me to hearken, O Resplendent One, and through the spirit of Thy power and Thy might quicken me, O my Provider!  In the spirit of Thy love keep me steadfast, O my Succorer, and in the path of Thy good pleasure set firm my steps, O my Maker!  Within the garden of Thine immortality, before Thy countenance, let me abide for ever, O Thou Who art merciful unto me, and upon the seat of Thy glory stablish me, O Thou Who art my Possessor!  To the heaven of Thy loving-kindness lift me up, O my Quickener, and unto the Daystar of Thy guidance lead me, O Thou my Attractor!  Before the revelations of Thine invisible spirit summon me to be present, O Thou Who art my Origin and my Highest Wish, and unto the essence of the fragrance of Thy beauty, which Thou wilt manifest, cause me to return, O Thou Who art my God!
 Potent art Thou to do what pleaseth Thee.  Thou art, verily, the Most Exalted, the All-Glorious, the All-Highest.

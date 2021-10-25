@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4454 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Ikaw na maawaing Diyos! O Ikaw na makapangyarihan at malakas! O Ikaw na pinakamabuting Ama! Ang mga tagapaglingkod na ito ay nagsipag-ipun-ipon, bumabaling sa Iyo, nananawagan sa Iyong pintuan, naghahangad ng Iyong walang katapusang pagpapala buhat sa Iyong dakilang katiyakan. Wala silang layunin liban sa Iyong mabuting kasiyahan. Wala silang adhikain liban sa paglilingkod sa daigdig ng sangkatauhan.
 

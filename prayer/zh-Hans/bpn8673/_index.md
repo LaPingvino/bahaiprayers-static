@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8673 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', 'bpn-unsorted']
+tags = ['lang-zh-Hans', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 《亚格达斯经》规定：“我令谕尔等自成熟期（十五岁）始，即应祈祷与斋戒，这是上帝，尔等及尔等祖先之主所命定的……旅行者、病患、孕妇或哺乳者不必斋戒。从日出到日落，禁绝饮食，谨慎勿让欲念使你失去圣典所赐之恩惠。”
 斋戒从三月一日或二日起至三月十九日或二十日止。

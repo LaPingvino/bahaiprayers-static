@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4438 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O aking Diyos! O aking Diyos! Tunay na tinatawagan Kita at naninikluhod ako sa Iyong pintuan at humihiling sa Iyo na ang lahat ng awa Mo ay ipagkaloob sa mga kaluluwang ito. Dalubhasain Mo sila para sa Iyong tangkilik at sa Iyong katotohanan.
 

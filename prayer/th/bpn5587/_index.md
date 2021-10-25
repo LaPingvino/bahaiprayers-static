@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5587 in ภาษาไทย'
 author = "Bahá'u'lláh"
-tags = ['lang-th', 'bpn-unsorted']
+tags = ['lang-th', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##บทอธิษฐานบังคับประจำวันบทสั้น
 *สำหรับใช้สวดหนึ่งครั้งทุก 24 ชั่วโมงเวลาเที่ยงวัน

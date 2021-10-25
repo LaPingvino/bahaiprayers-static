@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4453 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Siya ang Tagalunas, ang Nagbibigay ng Sapat, ang Katulong, ang Laging Nagpapatawad, ang Pinaka Maawain.
 

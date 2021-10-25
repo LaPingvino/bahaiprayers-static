@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7263 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Guuti, Saqqummersitanik tamanik Pinngortitsisoq, Aallaavinnullu tamanut Aallaavik. Saqqummersitanut tamanut nagguik, Qaamanernullu tamanut Aallarnerfik! Nalunaajaatigaara Atikkut paasinninnerup qilaa pinnersarneqarsimasoq, aammalu oqalunnerup imaa qorlorsimalluni, Isumaginninnerpillu nalunaajaataat siaruarterneqarsimallutik upperisat tamarmik malinnittuinut. 
 Qinnuigaakkit imatut pisuutigileqqullunga sunaluunniit Illiunngitsoq tunussinnaaleqqullugu, sumilluunniit tamanit kiffaanngitsooqqullunga Illiunngitsumik. Tukkussutsivillu nuiaanit siallerfiginnga sumiluunniit silarsuarni iluaqqutigisinnaasannik. Saammaassinernik nakussannartumik ikiunnga Siunertat kiffavit akornanni kiffartuutigeqqullugu, taamaalillunga uannik eqqaamanninneq ingerlaqqullugu Naalagaaffippit ataneratut sivisutigisumik.

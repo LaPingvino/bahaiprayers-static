@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6133 in Chamorro'
 author = "Abdu'l-Bahá"
-tags = ['lang-ch', 'bpn-unsorted']
+tags = ['lang-ch', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Yu’os, Yu’os-hu. Pattang i manangokkuyon na setbente-Mu gi i baba i tinailayen yan i sensen, protehi siha ni gof inatan yo’ase’ na guinaiya-Mu gi minala’et, chinatli’e’ yan inembidia, na’fanliheng siha gi lugat ni ti siña mahatme sa’ pot i inadahi-Mu, yan safo’ gi i flechan dinida, siha Un na’fanmanu’i i gloriosu na siñat-Mu, na’manila’ i matan-ñiha ni i mina’lak i ininan i Be’bo’ Ha’anen i Yini’usan na Dinaña’-Mu, na’fanmagof i korason-ñiha ni i fino’ ni’ mafatta ginen i Sinantusan na Raino-Mu, na’fanmetgot i sinturan-ñiha ginen i todu gainina’siñan na mi- netgot-Mu ni mafatto ginen i Gloriosu na Raino- Mu. Hagu i Todu-Geftao, i A’adahi, i Tagahlo’, i Grasiosu.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3522 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Forherliget være du, o min Gud! Se -mitt hode er rede til å falle for din viljes sverd, min hals er beredt til å bære ditt ønskes lenker, mitt hjerte lengter etter å bli gjort til skyteskive for din forordnings piler, mine øyne venter på å skue din underfulle barmhjertighets merker og tegn. For hva som enn kan vederfares meg fra deg er det kjæreste ønske for dem som tørster etter å møte deg, og den sterkeste lengsel hos slike som har nærmet seg ditt kongesete.
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3525 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O du hvis ihukommelse er sjelens fryd for alle dem som lengter etter deg, hvis navn skaper jubel i hjertet hos alle som fullt og helt er din vilje tro, hvis lovprisning skattes høyt av slike som er kommet ditt kongesete nær, hvis åsyn er den brennende lengsel hos alle dem som har erkjent din sannhet, hvis prøvelse helbreder sykdommene hos dem som har sluttet seg til din Sak, hvis hjemsøkelse er det høyeste ønske hos slike som er fri for all tilknytning til noen annen enn deg!
  

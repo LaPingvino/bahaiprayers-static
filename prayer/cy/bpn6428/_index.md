@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6428 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O fy Nuw! O fy Nuw! Una galonnau dy weision a datgela iddynt Dy bwrpas mawr. Bydded iddynt ddilyn Dy orchmynion a thrigo yn dy Gyfraith. Cynorthwya nhw, O Dduw, yn eu hymdrech,a rho iddynt nerth i Dy wasanaethu Di. O Dduw! Paid â'u gadael yn unig, yn hytrach, arwain eu camau wrth oleuni Dy wybodaeth,a llonna eu calonnau trwy Dy gariad. Yn wir, Ti yw eu cynorthwywr a'u Harglwydd.
 

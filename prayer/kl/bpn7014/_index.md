@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7014 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', 'bpn-unsorted']
+tags = ['lang-kl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ilisimanngilara, Guutiga-aa, Inneq sunaanersoq Illit Nunanni ikissimasat. Nunarsuup taassuma akisunnera assersinnaanngilaa, erngulluunniit ikumanera qamissinnaanagu. Nunarsuup innuttaasa Taassuma pissaanera qanoq ilisukkulluunniit akiorsinnaanngilaat. Tassunga qanillisumut, sakkortungaarneranillu tusarsimasumut pilluaqqusaaneq annertoqaaq.
 

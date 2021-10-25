@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4708 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ey Allah, Mənim Allahım! Sənin bu kənizin Səni çağırır, Sənə inanır, üzünü Sənə tutub yalvarır ki, Öz səmavi lütflərini onun üzərinə yağdırasan, ruhani sirlərini ona açasan və Sənin İlahilik işıqlarını onun üzərinə saçasan.
 

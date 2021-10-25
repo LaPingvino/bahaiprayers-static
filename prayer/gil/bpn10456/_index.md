@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10456 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(E wawarekaki te Tabureti aio i Bangotaia Bahá’u’lláh ao te Báb. E kakabonganaki naba n Aia bong ni kauring.)  
 Kamoamoaam are e a tia ni ing ootana man Rabwatam ae moan te kakannangaki, ao te mimitong are e a tia n ootanako man Tamaroam ae raneanea, e na mena Iroum, O Ngkoe ae riki-ni bwain te Kakannato, ao Uean te Aki-Totoki, ao aia Uea kaain karawa ni kabane ao kaain te aonaaba ni kabane! I kaotia ma te koaua bwa Rinanom are a kaotaki iai rietaatan te Atua ma Ana tautaeka, ao inauean te Atua ma Ana tamaroa, ao Itoiningainan nako taai ake a bwakanako a tia ni kaotanakoi ootaia aika a raneanea ni karawan Am babaaire ae aki kona ni bibitaki, ao Tamaroan te Aki-nooraki e a tia n ootanako iaon oraitanin te karikibwai. I manga kaotia riki ma te koaua, bwa ni ingin Am Kainikoroboki n anga Am kaetieti are “Riiki Ngkoe” e a bon tia ni kamatoaaki, ao Ana karaba te Atua e a tia ni kaotaki, bwaai ni kabane a bane ni karikaki, ao n tia naba ni karuoaki Kaotioti nako ibukina.

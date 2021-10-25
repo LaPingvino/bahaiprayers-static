@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4144 in American Indian'
 author = "Báb"
-tags = ['lang-nai-US', 'bpn-unsorted']
+tags = ['lang-nai-US', 'bpn-unsorted', "Báb"]
 +++
 Iwásh: Manto wustô tapi cáqansh wámi wáwápi cáqansh wámi qa mucáq ayômi kisuquk qa akiki wipi Manto wástwaunash tapi. Wáyômwáti isuw wahakák Wáhtôk, Kotunihtôk, Mihkikut wuci wami.
 

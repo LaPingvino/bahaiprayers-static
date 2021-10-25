@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4738 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Sən Ey mehriban Allah! Bu mələkut qızına Öz səmavi təyidini bəxş eylə və mərhəmətlə ona kömək eylə ki, Sənin Əmrində möhkəm və səbatlı qalsın, əsrarəngiz gülşənin bülbülü kimi Əbha Mələkutunda ecazkar avazla oxusun və bununla hamıya şadlıq və sevinc gətirsin.
 

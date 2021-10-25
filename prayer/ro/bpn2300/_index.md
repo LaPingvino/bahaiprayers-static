@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2300 in România'
 author = "Báb"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Báb"]
 +++
 O, Doamne! Îngăduie tuturor popoarelor pământului să intre în Paradisul Credinţei Tale, astfel nici un lucru creat să nu rămână dincolo de hotarele bunului Tău plac.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6235 in Luganda'
 author = "Bahá'u'lláh"
-tags = ['lang-lg', 'bpn-unsorted']
+tags = ['lang-lg', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Essaala eno esomerwa abo abasussizza emyaka ekumi n'ettano.  Ye ssaala ya Baha'i yokka e'yeteeka esomebwa mu lujjuddee.  Essoomebwa omukiriza omu nga abalala bonna bayimiridde.  Tekyetaagisa kutunula mu nsi ntukuvu [Qjblih] nga essaala eno esomebwa. - Byava mu Kitáb'i'Aqdas –
 

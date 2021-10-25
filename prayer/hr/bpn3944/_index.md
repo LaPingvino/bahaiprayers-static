@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3944 in Hrvatski'
 author = "Bahá'u'lláh"
-tags = ['lang-hr', 'bpn-unsorted']
+tags = ['lang-hr', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Hvaljeno neka je Ime Tvoje, o, Gospode Bože moj! Tama se spustila na sve zemlje i sile zla preplavile su sve narode, pa ipak ja nazirem divote tvoje mudrosti i razabirem jasnost svjetla Tvoje providnosti.
 

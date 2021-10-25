@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10444 in Kiribati'
 author = "Abdu'l-Bahá"
-tags = ['lang-gil', 'bpn-unsorted']
+tags = ['lang-gil', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Kaotaki nakoia kaain te Bahá’í n Aonon Maeao 
 *Te maroro ae inano e kona ni warekaki irouia ni katoa bong:

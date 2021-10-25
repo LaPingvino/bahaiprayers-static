@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8129 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Fra Din evigheds sødt duftende strømme giv mig at drikke, o min Gud, og af frugterne på Dit livets træ lad mig smage, o mit Håb! Af Din kærligheds krystalklare kilder lad mig drikke, o min Herlighed, og under skyggen af Dit evige forsyn lad mig bo, o mit lys! På Din nærheds enge i Dit nærvær lad mig strejfe om, o min Elskede, og ved Din barmhjertigheds trones højre side lad mig sidde, o min Længsel! Fra Din glædes duftende briser send et pust hen over mig, o mit Mål, og til højderne i Din virkeligheds paradis giv mig adgang, o min Tilbedte! Til Din enheds dues toner lad mig lytte, o Du strålende, og ved ånden i Din magt og Din styrke genopliv mig, o min Forsørger! I Din kærligheds ånd gør mig standhaftig, o min Hjælper, og på Din glædes vej gør mine trin faste, o min Skaber! I Din udødeligheds have, foran Dit åsyn lad mig for evigt dvæle, o Du som er barmhjertig imod mig, og sæt mig på Din herligheds sæde, o Du som jeg tilhører; til Din omsorgs himmel løft mig op, o min Livgiver, og til Din ledelses dagstjerne før mig, o Du som drager mig til Dig! Foran åbenbaringen af Din usynlige ånd byd mig være til stede, o Du som er min Oprindelse og mit højeste Ønske og til essensen af duften fra Din skønhed, som Du vil afsløre, lad mig vende tilbage, o Du som er min Gud! Magtfuld er Du til at gøre, hvad der behager Dig. Du er i sandhed Den Mest Ophøjede, Den Allerherligste, Den Allerhøjeste.

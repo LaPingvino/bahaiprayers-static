@@ -1,0 +1,8 @@
++++
+title = 'Prayer bpn10913 in Tuvalu'
+author = "Báb"
+tags = ['lang-tvl', 'bpn-unsorted', "Báb"]
++++
+Matagofie e io Koe, O te Aliki toku Atua! Au e akai kia Koe ke fakamagalo mai au mo latou ko la e lago ki Tau Talitonuuga.  E tonu, a Koe ko te Aliki silisiliese, ko te Fakamagalo, ko Tafasili i te Kaimalie.  O toku Atua!  Faka-mafai aka ko Au tavini ko la e se-oko kia latou a te poto ke mafai o aofia ki loto i Tau Fakatokaaga; ke mafai i ei ne latou o tauloto e uiga mo Koe, e molimau ki te meatonu o te Aso o te Fakamasinoga kae ke se-teke a fakaasiiga o Tou alofa.  Tuku ifo ki lalo ia latou a masauaga o Tou alofa-kaimalie, kae talia a latou, i so se koga e nofo iei a latou, a se tusaga lasi mai i mea ko la ko oti ne fakaeke ne Koe ki Au tavini maalosi.  A Koe e tonu ko te Pule Silisili, ko te Maumea-Katoatoa, ko te Tafasili i te Atafai.
+     O toku Atua!  Tuku ifo a fakamanuiaaga o Tou alofa mo te manuia ke olo ifo ki luga i fale o latou ko la ko oti ne talia ne latou a Tau Fakatokaaaga, pela me se masauaga o Tou alofa kae pela me se maka o te alofa-atafai mai i Tou nofo-mai. E tonu, e silisili a Koe i te fakamagalo.  Kafai a Tou maumea e taofigina mai i so se tino, e mafai pefea a ia o laveagina a ia i vasia o taugasoa o te Fakatokaaga i Ou Aso.
+     Fakamanuia mai au, O toku Atua, mo latou foki ko la ka talitonu i Au fakaasiiga i te aso ko oti ne fakasinogia, pe la loa mo te fiafia o toku alofa i olotou loto – se alofa te la ne fakaeke ne Koe kia latou.  E tonu, a Koe ko te Aliki o te amio tonu, ko te tafasili i te Maluga.

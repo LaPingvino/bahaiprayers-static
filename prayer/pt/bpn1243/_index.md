@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1243 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O pecador, quando se encontra completamente desprendido e liberto de tudo, salvo de Deus, deve pedir-Lhe clemência e perdão. Não é permissível a confissão de pecados e transgressões perante seres humanos, pois isso jamais conduziu, nem haverá de conduzir ao perdão divino. Essa confissão diante de uma pessoa, além disso, resulta na humilhação e no rebaixamento, e Deus – exaltada seja a Sua glória – não deseja a humilhação dos Seus servos. Em verdade, Ele é o Compassivo, o Misericordioso. O pecador deve, entre ele e Deus, implorar misericórdia do Oceano da misericórdia, suplicar perdão do Céu da generosidade e dizer:Ó Deus, meu Deus! Imploro-Te pelo sangue dos que verdadeiramente Te amam e a tal ponto se extasiaram com as Tuas doces palavras que se apressaram ao Pináculo da Glória, sítio do mais glorioso martírio e suplico-Te pelos mistérios que jazem encerrados no Teu conhecimento e pelas pérolas entesouradas no oceano da Tua generosidade, que me concedas perdão e ao meu pai e à minha mãe. Entre aqueles que mostram misericórdia, Tu és, em verdade, o Mais Misericordioso. Nenhum Deus há, salvo Tu, Quem sempre perdoa, o Todo-Generoso.
 Ó Senhor! Tu vês esta essência da iniquidade volver-se para o oceano do Teu favor, este ser débil devotar-se à busca do reino do Teu poder divino, e esta criatura pobre inclinar-se para o sol da Tua riqueza. Pela Tua misericórdia e pela Tua graça, não a desapontes, ó Senhor, nem a excluas das revelações da Tua generosidade nos Teus dias, nem a expulses da Tua porta, inteiramente aberta diante de todos os que habitam no Teu céu e sobre a Tua terra.

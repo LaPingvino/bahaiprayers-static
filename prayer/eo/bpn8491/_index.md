@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8491 in Esperanto'
 author = "Bahá'u'lláh"
-tags = ['lang-eo', 'bpn-unsorted']
+tags = ['lang-eo', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Estas Li la Saniganto, la Sufiĉanto, la Helpanto, la Ĉion-Pardonanta, la Ĉiel-Kompatema.
 Alvokas mi Vin, ho Ekzaltita, ho Fidela, ho Glora! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!

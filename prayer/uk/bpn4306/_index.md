@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4306 in Україна'
 author = "Abdu'l-Bahá"
-tags = ['lang-uk', 'bpn-unsorted']
+tags = ['lang-uk', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 О деревця й саджанці, довершені й ніжні, що зростають у лугах керівництва! О ви, новоприбульці до Братства Істини!
 

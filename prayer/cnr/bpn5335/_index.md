@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5335 in Montenegrin'
 author = "Abdu'l-Bahá"
-tags = ['lang-cnr', 'bpn-unsorted']
+tags = ['lang-cnr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Gospode! Jadni smo, podari nam naklonost Svoju; siroti smo, udijeli nam iz okeana blaga Svoga; nemamo šta nam je potrebno, Ti zadovolji naše potrebe; poniženi smo, podaj nam Svoju slavu. Ptice na nebu i zvijeri u polju svakoga dana dobijaju hranu od Tebe i sva bića imaju udjela u Tvojoj brizi i božanskoj ljubavi.
 

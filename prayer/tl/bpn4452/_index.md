@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4452 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Luwalhati sa Iyo, O Panginoon kong Diyos! Ipinamamanhik ko sa Iyo sa Iyong Pangalan na sa pamamagitan niyon ay naitatag ang Iyong kagandahan sa trono ng Iyong Kapakanan, at sa Iyong Pangalan na sa pamamagitan niyon ay binago Mo ang lahat ng bagay, at inipon Mo ang lahat ng bagay, at ginantimpalaan ang lahat ng bagay, at iningatan ang lahat ng bagay, at pinanatili ang lahat ng bagay—ipinamamanhik ko sa Iyo na tanuran ang kawaksing babaing ito na tumakas patungo sa kublihan Mo, at humanap ng kanlungan sa Kaniya na kung Kanino Ikaw Mismo ay nahahayag, at naglagak ng kaniyang buong pagtitiwala at pag-asa sa Iyo.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6215 in Hawaiian'
 author = "Abdu'l-Bahá"
-tags = ['lang-haw', 'bpn-unsorted']
+tags = ['lang-haw', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##Pule no ka Moana PakÔpika
 *Prayer for the Pacific

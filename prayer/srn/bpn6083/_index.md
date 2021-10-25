@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6083 in Sranan Tongo'
 author = "Bahá'u'lláh"
-tags = ['lang-srn', 'bpn-unsorted']
+tags = ['lang-srn', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##DRESI 
 Yu Nen na mi betre, o mi Gado, èn a memre fu Yu na mi dresi. Krosbe fu Yu na mi hopu, èn lobi fu Yu na mi kompe. 

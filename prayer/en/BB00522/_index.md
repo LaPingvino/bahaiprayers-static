@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00522 in English'
 author = "Báb"
-tags = ['lang-en', 'BB00522']
+tags = ['lang-en', 'BB00522', "Báb"]
 +++
 O Lord! Unto Thee I repair for refuge, and toward all Thy signs I set my heart.
 O Lord!  Whether traveling or at home, and in my occupation or in my work, I place my whole trust in Thee.

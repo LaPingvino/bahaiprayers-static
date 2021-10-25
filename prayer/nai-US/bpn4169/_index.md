@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4169 in American Indian'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-US', 'bpn-unsorted']
+tags = ['lang-nai-US', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Shidiyin nilíinii!  Shidiyin nilíinii!
 Ná Nidaala’í danilíinii bejéí yee lá’í nilíigo ánílééh áádóó ‘Aláahdi Biniiyé ‘Anít’íinni bil’ííshja ‘anílééh ‘dooleel. Bee  Nahwííni’áanii bik’ehgo náádeiikáah dooleel áádóó Nibee haz’áanii bik’ehgo ‘ádaat’éedo. Biká  anánílwo’, Diyin nílíinii, binidaanish ‘ádayósinígíí ‘aadoo bee ‘adziilii baa diní’aahgo ‘éí yee Ná nidaal’a’ do.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7860 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', 'bpn-unsorted']
+tags = ['lang-it', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lodato Tu sia, o mio Dio, ché mi hai svegliato dal sonno e tratto dall’assenza e scosso dal sopore. Mi sono destato stamane col viso rivolto agli splendori della Stella Mattutina della Tua Rivelazione per la Quale sono stati illuminati i cieli della Tua potenza e della Tua maestà, riconoscendo i Tuoi segni, credendo nel Tuo Libro, tenendomi saldamente alla Tua Corda. 
 T’imploro, per il potere della Tua volontà e per la forza obbligante del Tuo proposito, di fare di ciò che mi rivelasti nel sonno le salde fondamenta delle magioni del Tuo amore racchiuse nei cuori dei Tuoi amati e lo strumento migliore per rivelare i pegni della Tua grazia e della Tua amorosa premura. 

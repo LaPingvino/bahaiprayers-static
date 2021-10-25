@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3269 in العربية'
 author = "Bahá'u'lláh"
-tags = ['lang-ar', 'bpn-unsorted']
+tags = ['lang-ar', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 * مقتطفات من لوح الحكمة
 # بِسْمِهِ المُبدِعِ العَليمِ الحَكِيمِ

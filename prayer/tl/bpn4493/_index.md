@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4493 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Aking Diyos, na dinadalanginan ko at sinasamba! Saksi ako sa Iyong kaisahan at sa Iyong pagkaisa, at kinikilala ko ang Iyong mga kaloob, sa nakaraan at sa kasalukuyan. Ikaw ang Mapagpala sa Lahat, na ang nag-uumapaw na mga ulan ay pumatak sa matataas at gayon din sa mabababang lugar, at ang ningning ng Iyong biyaya ay nasabog sa mga masunurin at gayon din sa mga mapaghimagsik.
 

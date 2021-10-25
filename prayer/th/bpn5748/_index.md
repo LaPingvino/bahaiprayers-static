@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5748 in ภาษาไทย'
 author = "Abdu'l-Bahá"
-tags = ['lang-th', 'bpn-unsorted']
+tags = ['lang-th', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##บทอธิษฐาน ณ สถูปของพระอับดุลบาฮา
 *(ใช้สวดเป็นการส่วนตัวได้ด้วยเช่นกัน)

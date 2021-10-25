@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5834 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', 'bpn-unsorted']
+tags = ['lang-ca', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Qualsevol qui viatgi per diferents llocs per ensenyar, que llegeixi amb atenció aquesta súplica a la muntanya,el desert, la terra i la mar.
 

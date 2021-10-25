@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4739 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Alqış və şükrlər olsun Sənə, Ya Rəbb, mənim Allahım! Bu seçilmiş bir fidandır ki, Sənin məhəbbət çəmənliyində Özün əkmisən və Rəbbanilik əlləri ilə bəsləmisən. Sən Öz vahidlik bağçandan axan əbədi həyat çeşməsindən onu suvarmısan və onun üzərinə Öz buludlarından nemət yağışları yağdırmısan. O indi Sənin İlahi Zühur Məşriqindən doğan lütflərinin kölgəsində böyüyüb, boy atıb. Sənin səxavət və kəramətinin ecazkar bəxşişləri sayəsində yarpaqlayıb, çiçək açıb, bar verib və Sənin inayətinin yelləri ilə əsməkdədir.
 

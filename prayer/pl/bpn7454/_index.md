@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7454 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Ty, Życzliwy Panie! Ta oto wielce umiłowana służebnica w Tobie znalazła upodobanie i przez rozważanie i poznanie pragnęła dostąpić Twojej obecności i wejść do Twoich światów. Z oczyma pełnymi łez utkwiła wzrok w Królestwie Tajemnic. Wiele nocy spędziła w głębokiej komunii z Tobą i wiele dni żyła bliskim wspominaniem Ciebie. Każdego ranka była pomna Ciebie, a każdego wieczoru skupiała swoje myśli na Tobie. Niczym słowik śpiewała Twoje święte wersety i niczym lustro pragnęła odbijać Twoje światło. 
     

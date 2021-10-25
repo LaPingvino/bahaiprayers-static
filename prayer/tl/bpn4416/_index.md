@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4416 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Nasa kaluwalhatian Ka, O Panginoon kong Diyos! Ipinamamanhik Ko sa Iyo, sa pamamagitan ng Iyong mga Pinili, at sa pamamagitan ng mga Tagapagdala ng Iyong Tiwala, at sa pa­mamagitan Niya na inatasan Mong maging Selyo ng Iyong mga Propeta at ng Iyong mga Tagapagbalita, na ipahintulot Mong ang Iyong gunita ang aking maging kasama, at ang Iyong pag-ibig ang aking maging layunin, at ang Iyong mukha ang aking maging hantungan, at ang Iyong pangalan ang aking maging tanglaw, at ang Iyong kalooban ang aking maging hangarin, at ang Iyong kasiyahan ang aking maging kaligayahan.
 

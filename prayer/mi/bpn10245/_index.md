@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10245 in Māori'
 author = "Abdu'l-Bahá"
-tags = ['lang-mi', 'bpn-unsorted']
+tags = ['lang-mi', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##MEA WHAKAATU KI NGĀ BAHÁ’Í O TE TONGA O AMERIKA
 

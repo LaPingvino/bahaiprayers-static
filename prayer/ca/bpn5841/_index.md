@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5841 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', 'bpn-unsorted']
+tags = ['lang-ca', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Els qui difonguin les fragàncies de Déu han de recitar aquesta oració cada matí.
 

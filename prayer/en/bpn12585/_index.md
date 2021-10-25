@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12585 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Thou kind Lord!  These souls are Thy friends who are gathered together and are carried away by Thy love.  They are transported by the rays of Thy beauty and captivated by Thy musk-laden locks.  They have surrendered their hearts to Thee and, lowly and helpless, wander in Thy path.  They have forsaken friend and stranger alike and have laid hold of Thy unity, bowing in adoration before Thee.
 

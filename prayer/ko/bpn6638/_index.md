@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6638 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 주님의 종들을 자비로이 보아주시와 그들이
 

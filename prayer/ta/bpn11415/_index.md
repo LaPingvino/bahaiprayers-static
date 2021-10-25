@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11415 in தமிழ்'
 author = "Abdu'l-Bahá"
-tags = ['lang-ta', 'bpn-unsorted']
+tags = ['lang-ta', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *மேற்குமாநிலங்களிலுள்ள பஹாய்களுக்காக வெளிப்படுத்தப்பட்டது
 

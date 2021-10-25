@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8008 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O du sandhedssøgende! Hvis du ønsker, at Gud skal åbne dine øjne, må du anråbe Gud, bede til Ham og samtale med Ham ved midnat og sige:
 

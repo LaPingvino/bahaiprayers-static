@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn509 in Deutsch'
 author = "Abdu'l-Bahá"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Er ist Gott!
 O Herr, mein Gott! Du Helfer der Schwachen, Beistand der Bedürftigen, Erretter der Hilflosen, die sich hinwenden zu Dir.

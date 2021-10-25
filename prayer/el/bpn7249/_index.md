@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7249 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', 'bpn-unsorted']
+tags = ['lang-el', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Η ακόλουθη ικεσία διαβάζεται από τους δασκάλους και τους φίλους καθηµερινά:
 

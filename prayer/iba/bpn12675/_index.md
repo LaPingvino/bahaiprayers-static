@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12675 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', 'bpn-unsorted']
+tags = ['lang-iba', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Sambiang bukai ke Orang ti udah Mati
  

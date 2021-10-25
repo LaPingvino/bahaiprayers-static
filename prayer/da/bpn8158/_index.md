@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8158 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Den følgende bøn skal læsesdagligt af lærerne og vennerne.
 

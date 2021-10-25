@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1707 in Íslenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Ó leitandi sannleikans! Ef þú vilt að Guð opni augu þín, verður þú að ákalla Guð, biðja til Hans og sam­neyta Honum á miðnætti með svofelldum orðum:
 

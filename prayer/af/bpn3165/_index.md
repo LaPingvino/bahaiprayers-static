@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3165 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', 'bpn-unsorted']
+tags = ['lang-af', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O U vergewende God! Hierdie dienaars wend hulle na U koninkryk, soekende na U genade en mildheid. O God! Maak hulle harte goed en suiwer sodat hulle U liefde waardig mag word. Reinig en heilig die geeste dat die lig van die Son van Werklikheid oor hulle mag skyn. Reinig en heilig die oë dat hulle U lig mag gewaar. Reinig en heilig die ore sodat hulle die roepstem van U koninkryk mag hoor.
 

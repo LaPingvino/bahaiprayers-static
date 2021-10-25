@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4280 in Esperanto'
 author = "Bahá'u'lláh"
-tags = ['lang-eo', 'bpn-unsorted']
+tags = ['lang-eo', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##La mezlonga deviga preĝo
 *(Citenda kaj matene, kaj tagmeze kaj vespere. “Matene”, “tagmeze” kaj “vespere”, menciitaj je la Devigaj Preĝoj, signifas respektive la intervalojn inter sunleviĝo kaj tagmezo, inter tagmezo kaj sunsubiro, kaj de sunsubiro ĝis du horojn poste.)

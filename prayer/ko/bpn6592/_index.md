@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6592 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 모든 사람들의 이마 위에
 

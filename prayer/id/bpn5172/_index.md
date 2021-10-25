@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5172 in Bahasa Indonesia'
 author = "Abdu'l-Bahá"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ya Tuhan Yang Maha Pengasih! Engkau telah menjadikan semua manusia dari keturunan yang sama. Engkau telah mentakdirkan bahwa semuanya sekeluarga. Di Hadirat-Mu Yang Suci mereka itu hamba-Mu semuanya, dan sekalian manusia berlindung di bawah Kemah Kemurahan-Mu; semuanya berkumpul di sekeliling Meja Kedermawanan-Mu; semuanya diterangi oleh cahaya Kurnia-Mu.
 Ya Tuhan! Engkau kasih pada semua orang. Engkau telah memelihara semuanya, melindungi semuanya, menghidupkan semuanya. Engkau telah mengkurniai setiap hamba-Mu dengan bakat dan kesanggupan dan semuanya diliputi samudera rahmat-Mu. Ya Engkau, Tuhan Yang Maha Dermawan! Satukanlah mereka itu semuanya! Jadikanlah Agama bersatu semuanya dan jadikanlah semua bangsa satu bangsa, agar mereka itu dapat melihat satu sama lain, sebagai satu keluarga

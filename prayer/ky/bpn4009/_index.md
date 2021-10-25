@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4009 in Кыргыз'
 author = "Báb"
-tags = ['lang-ky', 'bpn-unsorted']
+tags = ['lang-ky', 'bpn-unsorted', "Báb"]
 +++
 О, Теңир! Сенден мен жашырыңар жай издейм жана Сенин жышаандарыңа карай өзүмдүн жүрөгүмдү багыттайм.
 

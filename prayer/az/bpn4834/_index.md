@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4834 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ey Allah, Ey bütün Zühurları Yaradan, bütün Mənbələrin Mənbəyi, bütün Vəhylərin Qaynağı, bütün Nurların Çeşməsi! Mən şəhadət verirəm ki, Sənin Adınla irfan səması zinətləndi, bəyan dəryası təlatümə gəldi və Sənin Əmrin bütün dinlərin ardıcılarına bəyan oldu.
 

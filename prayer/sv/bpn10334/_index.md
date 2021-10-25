@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10334 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', 'bpn-unsorted']
+tags = ['lang-sv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Du gode Herre! Du har skapat hela mänskligheten av samma ursprung. Du  har bestämt att alla skall tillhöra samma familj.  I Din heliga närvaro är de alla Dina tjänare och hela mänskligheten är i skydd av Ditt tabernakel.  Alla är församlade vid Ditt nådabord och alla är upplysta av Din försyns ljus.
 O Gud! Du är god mot alla, Du drar försorg om alla, beskyddar alla och skänker liv åt alla.  Du förlänar alla och envar begåvning och fallenhet och alla är försänkta i Din nåds ocean.

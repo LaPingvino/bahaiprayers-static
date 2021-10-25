@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9756 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 In Naam van God, de Aloude, de Allergrootste.
 De harten van de oprechten worden voorwaar verteerd in het vuur van scheiding: waar is de glans van het licht van Uw aangezicht, o Geliefde der werelden?

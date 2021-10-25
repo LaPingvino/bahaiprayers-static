@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7960 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', 'bpn-unsorted']
+tags = ['lang-mt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Inti glorifikat, O Sid Alla tiegħi! Nitolbok f’ġieh l-irjieħ neffieħa tal-grazzja tiegħeK, u f’ġieh dawk Li huma l-Egħjun il-Jum tal-għan tiegħeK u Mkejjen is-Sebħ tal-lehma tiegħeK, biex tibgħat fuqi u fuq dawk kollha li fittxew wiċċeK dak li jidhrilhom it-tjieba tiegħeK u l-grazzja kotrana, u xieraq għal għotjieteK u għoġbateK. Imsejken u kiebi jien, O Sid tiegħi!
 Għaddasni fl-oċejan tal-ġid tiegħeK; bil-għatx, ħallini nixrob mill-ilma ħaj ta’ mhabbteK- ħanina.

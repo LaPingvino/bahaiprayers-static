@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1319 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #A SER RECITADA UMA VEZ EM VINTE E QUATRO HORAS
 *Aquele que deseja recitar esta oração deve ficar em pé e volver-se a Deus. Enquanto permanece no seu lugar, que olhe à direita e à esquerda, como se esperasse a misericórdia do seu Senhor, o Mais Clemente, o Compassivo. Então diga:Ó Tu que és o Senhor de todos os nomes e o Criador dos céus! Imploro-Te, por Aqueles que são as Auroras da Tua Essência invisível, a Excelsa, a Toda-Gloriosa, que faças da minha prece um fogo para queimar os véus que me excluíram da Tua beleza, e uma luz que me guie ao oceano da Tua Presença.

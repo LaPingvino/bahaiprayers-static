@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8963 in اُردُو'
 author = "Bahá'u'lláh"
-tags = ['lang-ur', 'bpn-unsorted']
+tags = ['lang-ur', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 مبارک ہے وہ مقام،
 اور وہ گھر، اور وہ جگہ، اور وہ شہر، اور وہ دل،

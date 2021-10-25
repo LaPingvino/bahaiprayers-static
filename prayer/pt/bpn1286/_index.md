@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1286 in Português (BR)'
 author = "Báb"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Báb"]
 +++
 Glória a Ti, ó Senhor, Tu que trouxeste à existência todas as coisas criadas, através do poder do Teu mando.
 Ó Senhor! Ajuda aqueles que a tudo, menos a Ti, renunciaram, e concede-lhes uma grande vitória. Faze descer sobre eles, ó Senhor, a assembleia dos anjos nos céus e na terra e tudo o que entre eles está, para auxiliar os Teus servos, para os socorrer e fortalecer, para os capacitar a alcançar êxito, para os sustentar, investir de glória, lhes conferir honra e exaltação, os enriquecer e fazer triunfar com um triunfo admirável.

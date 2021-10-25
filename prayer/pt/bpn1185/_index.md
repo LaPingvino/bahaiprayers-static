@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1185 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', 'bpn-unsorted']
+tags = ['lang-pt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Glória a Ti, ó Senhor meu Deus! Peço-Te, pelo Teu Nome, através do qual Aquele que é a Tua Beleza se estabeleceu sobre o trono da Tua Causa – Nome esse através do qual tudo transformas, tudo reúnes, tudo chamas a prestar contas, tudo recompensas, tudo preservas e sustentas – protege, eu Te peço, esta serva que buscou o Teu refúgio e o amparo d’Aquele que é o Teu próprio Manifestante, esta serva que em Ti depôs a sua inteira confiança.
 Ela está enferma, ó meu Deus, e entrou na sombra da Árvore da Tua cura; aflita, refugiou-se na Cidade de Tua proteção; doente, dirigiu-se ao Manancial dos Teus favores; atribulada em extremo, apressou-se para alcançar a Fonte da Tua tranquilidade; e oprimida com pecados, volveu-se à corte do Teu perdão.

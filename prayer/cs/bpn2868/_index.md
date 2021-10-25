@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2868 in Česky'
 author = "Bahá'u'lláh"
-tags = ['lang-cs', 'bpn-unsorted']
+tags = ['lang-cs', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ó můj Bože, ó můj Bože!
 

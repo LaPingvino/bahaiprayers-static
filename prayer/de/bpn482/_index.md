@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn482 in Deutsch'
 author = "Abdu'l-Bahá"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Du unvergleichlicher Gott! O Du Herr des Königreiches! Diese Seelen sind Dein himmlisches Heer. Hilf ihnen, führe sie mit der Macht der himmlischen Heerscharen zum Sieg, so dass eine jede von ihnen einem Regimente gleichkomme und diese Länder durch die Liebe Gottes und die Erleuchtung göttlicher Lehren erobere.
 O Gott! Sei Du ihr Beistand und ihr Helfer, und in der Wildnis, im Gebirg, im Tal und in den Wäldern, auf den Steppen und den Meeren sei Du ihr Vertrauter, damit sie durch die Macht des Gottesreiches und den Odem des Heiligen Geistes ihren Ruf erschallen lassen.

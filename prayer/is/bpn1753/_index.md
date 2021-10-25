@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1753 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lof sé Þér, ó Drottinn Guð minn! Þú sérð og veist að ég hef hvatt þjóna Þína til að snúa sér ekki að neinu nema gjöfum Þínum og boðið þeim að gæta aðeins þess sem Þú hefur ákvarðað í skýrri bók Þinni, bókinni sem var send niður í samræmi við órannsakanlega ákvörðun Þína og óafturkallan­legt áform.
 Ég fæ ekki mælt orð frá munni, ó Guð minn, nema Þú leyfir það og ég get hvergi farið nema með Þinni heimild. Þú ert sá, ó Guð minn, sem hefur gefið mér líf með valdi máttar Þíns og leyft mér af náð Þinni að birta málstað Þinn. Sakir þess hefur slíkt mótlæti fallið mér í skaut að tungu minni hefur verið varnað að vegsama Þig og mikla dýrð Þína.

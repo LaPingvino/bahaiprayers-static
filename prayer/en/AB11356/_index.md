@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB11356 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB11356']
+tags = ['lang-en', 'AB11356', "Abdu'l-Bahá"]
 +++
 ##Infants
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn571 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Er ist der Spender, der Gabenreiche!
 Preis sei Gott, dem Urewigen, dem Immerbestehenden, dem Unveränderlichen, dem Ewigen; Ihm, der durch Sein eigenes Sein bezeugt, dass Er wahrlich der Eine ist, der Einzige, der Ungehinderte, der Erhabene. Wir bezeugen, dass es fürwahr keinen Gott gibt außer Ihm, wir anerkennen Seine Einheit und bekennen Seine Einzigkeit. Seit aller Ewigkeit wohnt Er in unnahbaren Höhen, auf den Gipfeln Seiner Erhabenheit, geheiligt über die Erwähnung jedes anderen, frei von aller Beschreibung außer der Seinen.

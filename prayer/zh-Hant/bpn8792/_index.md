@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8792 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 上帝啊！培育這些孩子吧。他們是祢果園裡的幼苗，祢草原上的花朵，祢花園裡的玫瑰。用祢的甘霖澆灑他們；讓實在之陽帶著祢的愛照耀他們。讓祢的微風激發他們，使他們得到培育、成長和發展，使他們表現出最美好的狀態。祢是博施濟眾者，大慈大悲者。

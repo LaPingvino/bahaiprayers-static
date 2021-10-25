@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2118 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Nu îndepărta, o, Doamne, masa sărbătorească pe care ai aşternut-o în Numele Tău, şi nu stinge flacăra arzătoare aprinsă de focul Tău nepotolit. Nu opri apa Ta vie ce murmură melodia slavei şi pomenirii Tale, şi nu-i lipsi pe slujitorii Tăi de mireasma dulcilor Tale arome ce adie parfumul iubirii Tale.
 

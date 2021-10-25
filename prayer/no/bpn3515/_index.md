@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3515 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Gud, min Gud! Jeg bønnfaller deg, ved din helbredelses osean, og ved glansen fra din nådes dagstjerne, og ved ditt navn hvorved du bragte dine tjenere til underkastelse, og ved den gjennomtrengende kraft av ditt ypperste Ord, og ved styrken av din umåtelig opphøyede Penn, og ved din barmhjertighet som var til før skapelsen av alle som er i himmel og på jord, om å rense meg med din godhets vann for enhver lidelse og sykdom og for all svakhet og skrøpelighet.
  

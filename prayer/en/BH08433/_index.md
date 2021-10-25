@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH08433 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH08433']
+tags = ['lang-en', 'BH08433', "Bahá'u'lláh"]
 +++
 Magnified be Thy name, O my God, for that Thou hast manifested the Day which is the King of Days, the Day which Thou didst announce unto Thy chosen Ones and Thy Prophets in Thy most excellent Tablets, the Day whereon Thou didst shed the splendor of the glory of all Thy names upon all created things.  Great is his blessedness whosoever hath set himself towards Thee, and entered Thy presence, and caught the accents of Thy voice.
 I beseech Thee, O my Lord, by the name of Him round Whom circleth in adoration the kingdom of Thy names, that Thou wilt graciously assist them that are dear to Thee to glorify Thy word among Thy servants, and to shed abroad Thy praise amidst Thy creatures, so that the ecstasies of Thy revelation may fill the souls of all the dwellers of Thine earth.

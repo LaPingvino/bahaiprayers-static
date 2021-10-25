@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4420 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Purihin nawa ang Iyong Pangalan, O aking Diyos at Diyos ng lahat ng bagay, aking Luwalhati at Luwalhati ng lahat ng bagay, aking Hangarin at Hangarin ng Lahat ng bagay, aking Lakas at Lakas ng lahat ng bagay, aking Hari at Hari ng lahat ng bagay, aking Tagapagmay-ari at Tagapagmay-ari ng lahat ng bagay, aking Layunin at Layunin ng lahat ng bagay, aking Tagapagpakilos at Tagapagpakilos ng lahat ng bagay! Huwag Mong tulutan, isinasamo ko sa Iyo, na ako’y mapigilan mula sa karagatan ng Iyong mga masuyong kahabagan, ni huwag Mong itulot na ako ay maging malayo sa mga dalampasigan ng pagkakalapit sa Iyo.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9565 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', 'bpn-unsorted']
+tags = ['lang-nl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Hij is de Genadige, de Almilddadige!
 O God, mijn God! Uw roep trok mij aan en de stem van Uw Pen van heerlijkheid heeft mij gewekt. De stroom van Uw heilige woorden heeft mij betoverd en de wijn van Uw bezieling heeft mij in vervoering gebracht. Gij ziet mij, o Heer, onthecht van alles buiten U, mij vastklemmend aan het koord van Uw milddadigheid en hunkerend naar de wonderen van Uw genade. Ik vraag U, bij de eeuwige golven van Uw goedertierenheid en het glanzende licht van Uw liefdevolle zorg en genegenheid, mij datgene te verlenen wat mij nader tot U zal brengen en mij rijk zal maken in Uw overvloed. Mijn spraak, mijn pen en mijn gehele wezen getuigen van Uw kracht, Uw macht, Uw genade en Uw milddadigheid, dat Gij God zijt en er geen God is buiten U, de Krachtige, de Machtige.

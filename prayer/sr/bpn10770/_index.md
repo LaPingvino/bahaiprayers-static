@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10770 in Srpski српски'
 author = "Abdu'l-Bahá"
-tags = ['lang-sr', 'bpn-unsorted']
+tags = ['lang-sr', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O moj Bože! O Ti, koji praštaš grehe! Darodavče! Ti Koji odagnavaš patnju!
 Iskreno Ti se molim da oprostiš grehe onima koji su napustili svoje fizičko ruho i vinuli se u duhovni svet.

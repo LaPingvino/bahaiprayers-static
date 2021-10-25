@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2801 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##Reveluar Bahá'í-ve të Shteteve Qendrore
 

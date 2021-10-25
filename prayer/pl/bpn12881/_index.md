@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12881 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Ty życzliwy Panie! Dusze te są Twoimi przyjaciółmi, którzy zgromadzili się razem i są uniesieni Twoją miłością. Porwani są promieniami Twego piękna i urzeczeni Twoimi piżmowymi lokami. Oddali Ci swoje serca i pokorni i bezradni błąkają się po Twojej ścieżce. Porzucili przyjaciela i nieznajomego i uchwycili się Twej jedności, skłaniając się przed Tobą w uwielbieniu.
 Należeli do tego świata doczesnego; Ty przyjąłeś ich do swego Królestwa. Byli jak zwiędłe rośliny na pustyni niedostatku i zagubienia; uczyniłeś ich sadzonkami ogrodu wiedzy i zrozumienia. Głosy ich były uciszone; sprawiłeś, że przemówili. Byli przygnębieni; obdarzyłeś ich natchnieniem. Byli jako ziemia spieczona i jałowa; przemieniłeś ich w różany ogród wewnętrznych znaczeń. Byli jako dzieci w świecie ludzkości; umożliwiłeś im osiągnięcie niebiańskiej dojrzałości.

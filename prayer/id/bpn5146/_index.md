@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5146 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Kemuliaan bagi-Mu, ya Rabi Tuhanku! Janganlah merendahkan dia yang telah Engkau luhurkan dengan kekuasaan kedaulatan-Mu yang abadi, dan jangan- lah dia yang telah Engkau izinkan untuk memasuki kemah keabadian-Mu, dijauhkan dari Engkau. Apakah Engkau akan menyisihkan dia, ya Tuhanku, yang telah Engkau lindungi dengan Ketuhanan-Mu, dan apakah Engkau akan menjauhkan dari-Mu, ya Hasratku, dia yang baginya Engkau menjadi perlindungan?
 Dapatkah Engkau menghinakan dia yang telah Engkau muliakan atau melupakan dia yang telah Engkau beri kesanggupan untuk mengingat-Mu? Dimuliakanlah Engkau sebesar-besarnya! Engkau adalah Dia yang untuk selama-lamanya menjadi Raja seluruh alam ciptaan dan Penggerak Utamanya, dan Engkau akan tetap selama-lamanya menjadi Tuhan segala makhluk dan menjadi pula Pengatur mereka. Dimuliakanlah Engkau, ya Tuhanku! Jika Engkau tidak lagi mengasihani hamba-hamba-Mu, lalu siapakah yang akan menunjukkan kasih sayang pada mereka? Dan jikalau Engkau menolak untuk menolong para kekasih- Mu, siapakah yang dapat menolong mereka?

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8255 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 #Lawh-i-Ghulámu’l-Khuld
 ##Tablet of the Immortal Youth

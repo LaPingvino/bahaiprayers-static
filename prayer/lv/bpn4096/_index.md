@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4096 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', 'bpn-unsorted']
+tags = ['lang-lv', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Sekojošā lūgšana skolotājiem un draugiem ir jālasa katru dienu.
 

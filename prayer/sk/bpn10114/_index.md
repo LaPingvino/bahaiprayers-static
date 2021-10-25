@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10114 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', 'bpn-unsorted']
+tags = ['lang-sk', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Tabuľka pre Aḥmada
 *„Tieto povinné modlitby spolu s niektorými ďalšími, ako napríklad modlitbu za uzdravenie a tabuľku pre Ahmada, Bahá’u’lláh obdaril zvláštnou silou a významom. A tak musia byť týmto spôsobom veriacimi aj prijímané. Mali by ich čítať s pevnou Vierou a presvedčením, že ich prostredníctvom môžu ustúpiť do bližšieho vzťahu s Bohom a plnšie sa stotožniť Jeho zákonmi a nariadeniami.“

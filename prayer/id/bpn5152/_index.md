@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5152 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *"Orang yang berdosa bila dalam keadaan di mana ia menemukan dirinya bebas dan terpisahkan dari segala sesuatu kecuali Tuhan, harus memohon pemaafan dan pengampunan. Tidak dibolehkan untuk mengumumkan dosa dan pelanggaran seseorang dihadapan siapa pun karena hal ini tidak pernah dan tidak akan membawa pengampunan dari Tuhan. Demikian pula pengakuan dosa dihadapan orang akan membawa pada kerendahan diri dan penghinaan seseorang, dan Tuhan, dijunjung tinggilah kemuliaan-Nya, tak menghendaki penghinaan hamba-hamba-Nya. Sesungguh- nya, Ia Maha Pemurah dan Maha Dermawan!
 

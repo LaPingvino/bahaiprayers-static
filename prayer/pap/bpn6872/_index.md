@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6872 in Papiamentu'
 author = "Abdu'l-Bahá"
-tags = ['lang-pap', 'bpn-unsorted']
+tags = ['lang-pap', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Oh, God! Educate these children.  
 

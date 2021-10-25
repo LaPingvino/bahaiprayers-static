@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8244 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'bpn-unsorted']
+tags = ['lang-en', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Praise be to Thee, O my God, for having cast in this Day the radiance of all Thy names upon all created things, O Thou Who art the Lord of glory, majesty, and grandeur; of power, might, and blessings! This is the Day whereon He Who is the Mouthpiece of God, the All-Possessing, the Inaccessible, the Most High, hath called out from the realm of eternity, saying: “The Kingdom is God’s, the Almighty, the Most Exalted, the Most Glorious!”
 Lauded be Thy name, O Thou Who causest the winds to blow and the dawn to break, Who revealest the verses and unveilest the proofs! All things proclaim that Thou art God, and that there is none other God but Thee, the Sovereign, the All-Powerful, the Most Exalted, the Most Great. Magnified be Thy name, O Thou Who art the Fashioner of the heavens and the Creator of all names, Who sheddest Thy splendour upon all things through the power of Thy Most Great Name. This, verily, is the name whereby the Mystic Dove hath warbled upon the celestial bough, proclaiming: “All dominion belongeth forever unto God, our Lord, the Most Merciful!”

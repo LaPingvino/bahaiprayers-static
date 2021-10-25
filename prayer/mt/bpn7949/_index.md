@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7949 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', 'bpn-unsorted']
+tags = ['lang-mt', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Kemm-il qalb inġazzata, O Alla tiegħi, itkebbset bin-nar tal-Kawża tiegħeK, u kemm-il rieqed tqajjem mill ħlewwa tal-leħen tiegħeK. Kemm huma l-barranin li fittxew il-kenn taħt id-dell tas-siġra ta’ waħdaneK, u kemm kotrana dawk bil-għatx li lehġu għall-għajn ta’ ilmijiet il-ħajja tiegħeK fil-jiem tiegħeK!
 

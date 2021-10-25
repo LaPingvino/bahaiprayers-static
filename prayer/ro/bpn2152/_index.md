@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2152 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Ţie îţi aduc laudă, o, Dumnezeul meu, pentru că mireasma bunătăţii Tale duioase m-a desfătat şi blândele adieri ale milostivirii Tale m-au înclinat în direcţia mărinimoaselor Tale favoruri. Fă-mă să beau, o, Domnul meu, din mâinile dărniciei Tale, apa vie ce i-a îngăduit fiecărui om ce s-a împărtăşit din ea să se cureţe de ataşamentul pentru oricine în afară de Tine; şi să-şi înalţe zborul în atmosfera detaşării de toate făpturile Tale; şi să-şi aţintească privirea asupra providenţei Tale iubitoare şi a nenumăratelor Tale daruri.
 

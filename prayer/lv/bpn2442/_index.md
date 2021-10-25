@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2442 in Latviešu'
 author = "Bahá'u'lláh"
-tags = ['lang-lv', 'bpn-unsorted']
+tags = ['lang-lv', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *“...Obligātajām ikdienas lūgšanām kopā vēl ar dažām citām īpašām lūgšanām, tādām kā, piemēram, Dziedināšanas Lūgšanai, Vēstulei Ahmadam, Bahá’u’lláh ir piešķīris sevišķu spēku un nozīmi, un ticīgajiem tās jāpieņem nešaubīgā ticībā un paļāvībā, lai caur tām viņi varētu tuvoties Dievam un labāk pildīt Viņa priekšrakstus un likumus.” -Shoghi Effendi
 

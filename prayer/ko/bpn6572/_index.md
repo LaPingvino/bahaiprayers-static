@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6572 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 저는 집을 나왔사오며... 집으로 돌아갈 수 있게
 

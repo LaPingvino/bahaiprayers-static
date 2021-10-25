@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6618 in 한국어'
 author = "Abdu'l-Bahá"
-tags = ['lang-ko', 'bpn-unsorted']
+tags = ['lang-ko', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 이 시종들과 시녀들은,
 

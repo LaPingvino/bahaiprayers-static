@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8889 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', 'bpn-unsorted']
+tags = ['lang-zh-Hant', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 我的上帝啊，寬大仁慈的上帝！
 祢是君王，祢的聖諭令萬物滋生，祢是那滿懷萬恩者，祢僕人的所作所為從未阻擾祢普施仁惠，也從未阻撓祢恩典的曉諭。

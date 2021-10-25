@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1682 in Íslenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-is', 'bpn-unsorted']
+tags = ['lang-is', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ó Guð! Ó Guð! Þú sérð veikleika minn, smæð og auðmýkt frammi fyrir skepnum Þínum, samt hef ég reitt mig á Þig og hafist handa um að efla kenningar Þínar meðal staðfastra þjóna Þinna í trausti á vald Þitt og mátt!
 Ó Drottinn! Ég er vængbrotinn fugl og þrái að svífa í Þínum takmarkalausa geimi. Hvernig er mér það fært nema með handleiðslu Þinni og náð, staðfestingu og aðstoð?

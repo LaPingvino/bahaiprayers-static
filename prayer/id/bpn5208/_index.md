@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5208 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', 'bpn-unsorted']
+tags = ['lang-id', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Ayyami-Ha (Hari-Hari Sisipan) 
 *[26 Februari - 1 Maret, hari-hari persiapan untuk Puasa]

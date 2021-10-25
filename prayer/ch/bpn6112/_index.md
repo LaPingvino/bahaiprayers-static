@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6112 in Chamorro'
 author = "Abdu'l-Bahá"
-tags = ['lang-ch', 'bpn-unsorted']
+tags = ['lang-ch', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ##KASAMIENTO
 *MARRIAGE

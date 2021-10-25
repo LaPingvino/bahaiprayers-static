@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6382 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Arglwydd fy Nuw! Cynorthwya Dy anwyliaid i fod yn gadarn yn Dy Ffydd, i rodio yn Dy ffyrdd, i fod yn ddiymod yn Dy achos. Dyro iddynt Dy ras i wrthsefyll ymosodiad hunan a nwyd, i ddilyn golau cyfarwyddwyd dwyfol. Tydi wyt y Nerthol, y Graslawn, yr Hunan-Gynhaliol, y Rhoddwr, y Tosturiol, yr Hollalluog, yr Holl-Ddigonol.
 

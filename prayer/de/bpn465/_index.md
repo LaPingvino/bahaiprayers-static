@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn465 in Deutsch'
 author = "Abdu'l-Bahá"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O mein Gott! Du Vergeber der Sünden, Verleiher der Gaben, Verbanner der Not!
 Wahrlich, ich flehe Dich an, vergib die Sünden derer, die das irdische Gewand abgelegt haben und zur geistigen Welt aufgestiegen sind.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2108 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Preamărit fie numele Tău, o, Tu în ale Cărui mâini sunt frâiele sufletelor tuturor celor ce Te-au recunoscut, şi în a Cărui mână dreaptă se află destinele tuturor celor ce sunt în cer şi a tuturor celor ce sunt pe pământ! Tu faci, prin puterea tăriei Tale, ceea ce voieşti, şi porunceşti, printr-un act al voinţei Tale, ceea ce Îţi place. Voinţa celor mai hotărâţi dintre oameni este asemenea neantului atunci când este asemuită cu dovezile biruitoare ale voinţei Tale, şi hotărârea celor mai neclintite dintre făpturile Tale se risipeşte în faţa revelaţiilor multiple ale scopului Tău.
 

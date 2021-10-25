@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7498 in Suomi'
 author = "Abdu'l-Bahá"
-tags = ['lang-fi', 'bpn-unsorted']
+tags = ['lang-fi', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Oi Jumalani! Oi Jumalani! Totisesti rukoilen Sinua ja kynnykselläsi anon nöyrästi pyytäen, että kaikki siunauksesi laskeutuisivat näiden sielujen päälle. Valmista  heidät suosiotasi ja totuuttasi varten. 
 Oi Herra! Yhdistä ja sido yhteen sydämet, saata kaikki sielut sopusointuun ja ilahduta mielet pyhyytesi ja ykseytesi merkeillä. Oi Herra! Tee nämä kasvot säteileviksi ykseytesi valon avulla. Vahvista palvelijoittesi kupeet valtakuntasi palveluksessa. 

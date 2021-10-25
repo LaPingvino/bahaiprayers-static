@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11692 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', 'bpn-unsorted']
+tags = ['lang-es', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 ¡Él es Dios!
 ¡Oh Señor, mi Dios! ¡Oh Auxiliador de los débiles, Socorredor de los pobres y Liberador de los desvalidos que se vuelven hacia Ti! Con la mayor humildad, levanto las manos suplicantes hacia Tu reino de belleza y Te invoco fervorosamente con mi lengua interior, diciendo: ¡Oh Dios, mi Dios! Ayúdame a adorarte; fortalece mi espalda para servirte; asísteme con Tu gracia en mi servidumbre hacia Ti; haz que permanezca firme en mi obediencia hacia Ti; derrama sobre mí las abundantes efusiones de Tu generosidad; permite que las miradas de Tu bondad se dirijan hacia mí y sumérgeme en el océano de Tu perdón. Permite que sea confirmado en mi lealtad a Tu Fe, y otórgame un mayor grado de certeza y convicción para que pueda prescindir completamente del mundo, volver mi rostro hacia el Tuyo con entera devoción, ser fortalecido por el poder irresistible de las pruebas y testimonios e, investido con majestad y fuerza, atravesar cada región del cielo y de la tierra. Verdaderamente, Tú eres el Misericordioso, el Todoglorioso, el Benévolo, el Compasivo.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2243 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Lăudat fie Numele Tău, o, Dumnezeul meu şi Dumnezeul tuturor lucrurilor, Slava mea şi Slava tuturor lucrurilor, Dorinţa mea şi Dorinţa tuturor lucrurilor, Puterea mea şi Puterea tuturor lucrurilor, Regele meu şi Regele tuturor lucrurilor, Stăpânul meu şi Stăpânul tuturor lucrurilor, Ţinta mea şi Ţinta tuturor lucrurilor, Forţa mea şi Forţa tuturor lucrurilor! Îngăduie-mi, Te implor, să nu fiu ţinut departe de oceanul milostivirilor Tale duioase şi să nu fiu îndepărtat de la ţărmurile apropierii de Tine.
 

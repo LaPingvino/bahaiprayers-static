@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00963IMP in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'AB00963IMP']
+tags = ['lang-en', 'AB00963IMP', "Abdu'l-Bahá"]
 +++
 #Mother Temple of the West
 O God, my God!  I implore Thee with a throbbing heart and streaming tears to aid whosoever expendeth his energy for the erection of this House, and the construction of this Building wherein Thy name is mentioned every morn and every eve.

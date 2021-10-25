@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7315 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Cześć i chwała niechaj będą Tobie, o Panie, mój Boże! Oto przednie drzewko, któreś zasadził na łąkach swej miłości i pielęgnował palcami swej władzy. Tyś je wodą ze źródła wiecznego życia podlewał, co z ogrodów Twojej jedności wypływa, i Tyś sprawił, że obłoki Twojego czułego miłosierdzia zrosiły je deszczem łask Twoich. Wzrastało ono i rozwijało się w cieniu Twych błogosławieństw objawionych ze Źródła Twojej Boskiej istoty. Wybuchło ono zielenią i pąkami, ciężkie jest od owoców, dzięki opatrzności Twych cudownych darów i szczodrości i porusza nim wonny powiew Twej miłującej życzliwości. 
    

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8121 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 O Gud, som er Skaberen af alle manifestationer, kilden til alle kilder, oprindelsen til alle åbenbaringer og udspringet for alle lys! Jeg bevidner, at ved Dit navn er forståelsens himmel blevet smykket, og talens hav har bruset, og Dit forsyns tilskikkelser blevet kundgjort for alle religionernes tilhængere.
 

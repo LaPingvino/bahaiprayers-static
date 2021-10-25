@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2497 in Русский'
 author = "Abdu'l-Bahá"
-tags = ['lang-ru', 'bpn-unsorted']
+tags = ['lang-ru', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 О мой Боже! О мой Боже! Я, очарованный Тобою слуга, смиренно приближаюсь к вратам Единственности Твоей и обращаюсь к царствию Твоей милости.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2150 in România'
 author = "Báb"
-tags = ['lang-ro', 'bpn-unsorted']
+tags = ['lang-ro', 'bpn-unsorted', "Báb"]
 +++
 Slăvit fie Numele Tău, o, Doamne!
 La cine să caut refugiu când Tu eşti cu adevărat Dumnezeul meu preaiubit; spre cine să mă îndrept pentru adăpost când Tu eşti Dumnezeul şi Stăpânul meu; şi la cine să alerg când Tu eşti cu adevărat Comoara şi ţinta dorinţei mele; şi de la cine altul să cer când Tu eşti aspiraţia mea cea mai înaltă şi dorinţa mea supremă? Orice speranţă a fost spulberată afară de dorul pentru harul Tău ceresc şi orice uşă e închisă afară de poarta ce duce către izvorul binecuvântărilor Tale.

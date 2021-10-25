@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7329 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Nauczający i przyjaciele powinni codziennie czytać następującą modlitwę:
    

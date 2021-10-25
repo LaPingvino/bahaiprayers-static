@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6869 in Papiamentu'
 author = "Báb"
-tags = ['lang-pap', 'bpn-unsorted']
+tags = ['lang-pap', 'bpn-unsorted', "Báb"]
 +++
 *Is there any remover of difficulties save God… 
 

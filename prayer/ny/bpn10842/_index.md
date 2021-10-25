@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10842 in Chichewa'
 author = "Abdu'l-Bahá"
-tags = ['lang-ny', 'bpn-unsorted']
+tags = ['lang-ny', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Inu Ambuye wokoma mtima! Inu mwalenga mtundu wonse wa anthu kuchokera kwa kholo limodzi.  Inu mwalamulira kuti onse adzakhala abanja limodzi. Pamaso panu poyera iwo ali antchito Anu, ndipo mtundu wonse wa anthu wafungatiridwa pansi pa Chihema Chanu; onse asonkhana pamodzi ku Gome la Kuolowamanja Kwanu; onse awalitsidwa kupyolera mu kuwala kwa chisamaliro Chanu. 
 

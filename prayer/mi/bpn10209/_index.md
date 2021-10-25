@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10209 in Māori'
 author = "Abdu'l-Bahá"
-tags = ['lang-mi', 'bpn-unsorted']
+tags = ['lang-mi', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 E Te Ariki! Meinga ēnei tamariki hei hua papai. Tukua rātou kia tupu, kia puāwai ki te Māra o Tāu Kawenata, ūwhia hoki te kaha mohou me te ātaahua mā te tātā mai i ngā kapua o te Kīngitanga korōria-katoa.
 

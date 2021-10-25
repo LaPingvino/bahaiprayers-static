@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5753 in ภาษาไทย'
 author = "Bahá'u'lláh"
-tags = ['lang-th', 'bpn-unsorted']
+tags = ['lang-th', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##บทอธิษฐานระหว่างถือศีลอด
 *(ช่วงเวลาถือศีลอดอยู่ระหว่าง 2-20 มีนาคม)

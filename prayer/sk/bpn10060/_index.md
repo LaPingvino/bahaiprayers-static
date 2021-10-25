@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10060 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', 'bpn-unsorted']
+tags = ['lang-sk', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 V mene Boha, Najvyššieho! Chválený a ovenčený slávou si Ty, ó Pane, Bože Všemohúci! Ty, ktorého múdrosti sa múdri nevyrovnajú, pred ktorého poznaním učení priznávajú svoju nevedomosť pred ktorého mocou silní zoslabnú, pred ktorého bohatstvom bohatí doznávajú svoju chudobu, pred ktorého svetlom sú osvietení stratení v temnote, k chrámu poznania ktorého sa obracia podstata všetkého porozumenia a okolo svätyne prítomnosti ktorého krúžia duše celého ľudstva.
 Ako teda môžem spievať a hovoriť o Tvojej Podstate, ktorú nebola schopná pochopiť ani múdrosť múdrych a učenosť učených. Nikto predsa nemôže vyspievať to, čomu nerozumie ani opísať to, čo nemôže dosiahnuť, lebo Ty si odjakživa, Nedosiahnuteľný, Nenájditelný. Keďže som akokoľvek bezmocný vystúpiť na nebesá Tvojej slávy a vznášať sa v ríši Tvojho poznania, môžem aspoň vymenovať Tvoje znamenia, ktoré rozprávajú o Tvojom diele plnom slávy.

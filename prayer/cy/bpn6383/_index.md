@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6383 in Cymraeg'
 author = "Báb"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Báb"]
 +++
 O Arglwydd!
 Atat Ti yr ymgiliaf am lochs ac am Dy holl arwyddion rwy'n dyheu. O Arglwydd! Pa un ai'n teithio neu yn fy nghartref,wrth fy ngalwedigaeth neu yn fy ngwaith, rhoddaf fy holl ymddiriedaeth ynot Ti.

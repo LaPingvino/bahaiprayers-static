@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4910 in Vanuatu'
 author = "Bahá'u'lláh"
-tags = ['lang-bi', 'bpn-unsorted']
+tags = ['lang-bi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Evri taem yu go long rum blong miting, yu mas ridim prea ia wetem hart we i fulap long lav blong God. Yu mas tekemaot evri samting long tingting blong yu be memori blong God nomo. Yu mas mekem hemia blong Hem we i holem ol Paoa i save helpem yu blong winim wan bigfala viktori.
 

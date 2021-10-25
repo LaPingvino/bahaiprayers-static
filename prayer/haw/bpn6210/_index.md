@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6210 in Hawaiian'
 author = "Bahá'u'lláh"
-tags = ['lang-haw', 'bpn-unsorted']
+tags = ['lang-haw', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##Pˆmaika'i i ke Kahua
 

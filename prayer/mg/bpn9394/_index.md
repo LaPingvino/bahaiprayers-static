@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9394 in Malagasy'
 author = "Abdu'l-Bahá"
-tags = ['lang-mg', 'bpn-unsorted']
+tags = ['lang-mg', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *“… ny fanambadiana bahá’í dia fifanekena eo amin’ny andaniny sy ny ankilany ary firaiketam-po sy saina. Ny tsirairay, na izany aza, dia tokony hitandrina fatratra mba hifankafantatra tsara amin’ny toetran’ny iray, ka ny fifanekena eo amin’izy ireo dia ho fifamatorana maharitra mandrakizay. Ny tanjon’izy ireo dia ity: ho lasa  mpinamana feno fitiavana sy mpisakaiza ary ho an’ny iray ny tsirairay amin’ny fotoana rehetra sy ho  mandrakizay”.
 ‘Abdu’l-Bahá.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6861 in हिंदी'
 author = "Bahá'u'lláh"
-tags = ['lang-hi', 'bpn-unsorted']
+tags = ['lang-hi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 ##अहमद की पाती
 

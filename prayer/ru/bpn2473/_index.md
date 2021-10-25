@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2473 in Русский'
 author = "Abdu'l-Bahá"
-tags = ['lang-ru', 'bpn-unsorted']
+tags = ['lang-ru', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *(Молитва открыта для бахаи центральных штатов)
 *Молитву сию надлежит читать … ежедневно:

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7476 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Kiedykolwiek wkraczacie do izby narad, odmawiajcie tę modlitwę z sercem tętniącym Bożą miłością i językiem wolnym od wszystkiego z wyjątkiem wspominania Boga, aby Wszechmogący łaskawie wspomagał was w osiągnięciu największego zwycięstwa.
     

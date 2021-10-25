@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn545 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', 'bpn-unsorted']
+tags = ['lang-de', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Er ist der Mächtige, der Vergeber, der Mitleidvolle!
 O Gott, mein Gott! Du siehst Deine Diener im Abgrund des Verderbens und des Irrtums - wo ist Dein Licht göttlicher Führung, o Du Sehnsucht der Welt! Du kennst ihre Schwäche und Hilflosigkeit - wo ist Deine Macht, o Du, der Du die Mächte des Himmels und der Erde im Griff hältst!

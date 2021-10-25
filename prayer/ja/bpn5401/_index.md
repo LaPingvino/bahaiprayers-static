@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5401 in 日本語'
 author = "Báb"
-tags = ['lang-ja', 'bpn-unsorted']
+tags = ['lang-ja', 'bpn-unsorted', "Báb"]
 +++
 圧倒的な威厳いげんの主におわし、抵抗しがたい御方にまします神の御名において。
 　すべての主権の源みなもとを手中におさめ給う主に誉ほまれあれ。主は、存在せよ、という命令の一

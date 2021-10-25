@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7987 in Malti'
 author = "Báb"
-tags = ['lang-mt', 'bpn-unsorted']
+tags = ['lang-mt', 'bpn-unsorted', "Báb"]
 +++
 O Sid! Ħalli lill-ġnus kollha tad-dinja jiksbu d-dħul fil-Ġenna tal-Fidi tiegħeK, biex l-ebda maħluq ma jibqa’ lil hinn mill-fruntieri tal-għoġba-tajba tiegħeK.
 

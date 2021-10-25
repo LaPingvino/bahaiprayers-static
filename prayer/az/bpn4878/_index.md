@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4878 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ya Rəbb! Sən Ey mərhəməti hamını saran, rəhmi böyük, kəraməti yüksək, əfvi və səxavətli hamını burüyən, bağışının işığı bütün dünyanı tutan! Ey Cəlal Sahibi! Hərarət və göz yaşlarımla Sənə yalvarıram, Sənə doğru yüksəlmiş bu kənizinə mərhəmət gözü ilə bax; Ona Uca Cənnətin zinətləri ilə parlayan mərhəmət xalatı geyindir və vahidlik ağacının kölgəsində sığınacaq verməklə onun üzünü mərhəmət nuru ilə işıqlandır.
 

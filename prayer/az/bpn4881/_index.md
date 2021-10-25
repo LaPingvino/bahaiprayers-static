@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4881 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *Kitabi-Əqdəsdə buyrulur: "Biz sizə hökm etmişik ki, kamala çatandan (15 yaş) namaz qılıb oruc tutasınız; Bu Allah tərəfindən, Sizin Rəbbiniz və babalarınızın Rəbbi tərəfindən hökm olunmuşdur.... Səfərdə olana, xəstəyə, uşaqlı və ya süd verən analara Oruc tutmaq hökmü şamil edilmir... Yeməkdən və içməkdən günçıxandan günbatana qədər pəhriz edin və məbada Kitabda təyin olunmuş bu nemətdən özünüzü məhrum edəsiniz" Orucluq müddəti Martın 2-dən 20-sinə qədərdir. Xahış olunur Bəhai təqviminə müraciə edəsiniz.
 

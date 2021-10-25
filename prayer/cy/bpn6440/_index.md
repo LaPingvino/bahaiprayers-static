@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6440 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', 'bpn-unsorted']
+tags = ['lang-cy', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Arglwydd Rhadlon!  Ti, yr Hwn wyt yn hael ac yn drugarog!  Nyni ydym weision Dy drothwy, ydym dan nodded Dy drugaredd.  Mae Haul Dy ragluniaeth Di yn disgleirio ar bawb ohonom, a chymylau Dy dosturi Di yn glawio arnom oll. Mae Dy roddion yn amgylchynnu pawb, Dy ragluniaeth yn cynnal pawb, Dy nodded yn cysgodi pawb a thremiau Dy ffafr Di yn goleuo pawb.  O Arglwydd!   Dyro i ni Dy roddion diderfyn a gad i oleuni Dy arweiniad Di lewyrchu arnom.  Goleua’r llygaid, gwna’r eneidiau’n llawen a dyro ysbryd newydd ar y calonnau.  Dyro iddynt fywyd tragwyddol; Agor ddrysau Dy wybodaeth; gad i oleuni ffydd lewyrchu.
 Una ddynoliaeth a thyrd â hi i un lloches dan faner Dy nodded Di, fel y daw dynion yn debyg i donnau un môr, i ddail a brigau un goeden, ac ymgynnull yng nghysgod yr un babell.  Boed i’r un ffynhonnell o oleuni a bywyd eu goleuo hwy.  Ti yw’r Rhoddwr, y Duw Trugarog

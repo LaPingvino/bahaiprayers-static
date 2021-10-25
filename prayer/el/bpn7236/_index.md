@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7236 in ελληνικά'
 author = "Bahá'u'lláh"
-tags = ['lang-el', 'bpn-unsorted']
+tags = ['lang-el', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Αυτός είναι ο Γενναιόδωρος, ο Ευεργετικός!
 

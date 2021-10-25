@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8007 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Hvordan kan jeg vælge at sove, o Gud, min Gud, når de, der længes efter Dig, er søvnløse, fordi de er adskilt fra Dig; og hvordan kan jeg lægge mig til hvile, når Dine elskeres sjæle er dybt ulykkelige i deres fjernhed fra Din nærværelse?
 

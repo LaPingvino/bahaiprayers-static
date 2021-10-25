@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4170 in American Indian'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-US', 'bpn-unsorted']
+tags = ['lang-nai-US', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Yízhí bee Ni’dóójíinii ‘éí náshííldzii’, shi Diyin Nílíinii, áádóó bee nééhanihii ‘éí bee náádiisdzá.
 Níighahgii anísht’é dooleel ‘éí laanaa nisin ‘áádóó shee ayóó’ó’ó’ni Nil hólóó ‘éí bee náás yiisháál. Bee shaajíníba’ígíí ‘éí    

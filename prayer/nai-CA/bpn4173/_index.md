@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4173 in Canadian Indigenous'
 author = "Báb"
-tags = ['lang-nai-CA', 'bpn-unsorted']
+tags = ['lang-nai-CA', 'bpn-unsorted', "Báb"]
 +++
 gayΛgΛ ne? elΛ ayódyehde ne?n ga?nigulhaláksla?, deheja? dugóhdak lawΛniyo jilú ecΛnowánat loyanél laulhá ne?n loyanel. agwegú laulhá laonhácli? agwegú uni luwáswanst ji? nugwá ne?n laolihwadog Λhdi.
 

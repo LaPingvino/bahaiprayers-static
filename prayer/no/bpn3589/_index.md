@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3589 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', 'bpn-unsorted']
+tags = ['lang-no', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *(Denne bønnen, åpenbart av Abdu'l-Bahá, blir lest ved hans grav. Den blir også brukt i personlig bønn.)
 *Den som fremsier denne bønnen med ydmykhet og inderlighet, vil skape glede og fryd i denne tjeners hjerte; det vil endog være som å møte ham ansikt til ansikt.

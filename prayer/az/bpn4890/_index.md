@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4890 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', 'bpn-unsorted']
+tags = ['lang-az', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Məşvərət otağına daxil olan zaman, bu duanı Allah sevgisi ilə döyünən bir ürəklə və Onun zikrindən başqa hər şeydən pak olmuş bir dillə oxuyun ki, Qüvvət Sahibi Sizə ən uca qələbə qazanmaqda kömək etsin.
 

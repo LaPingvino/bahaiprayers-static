@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7780 in Kreyol Ayisyen'
 author = "Abdu'l-Bahá"
-tags = ['lang-ht', 'bpn-unsorted']
+tags = ['lang-ht', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *Rankont yo 
 

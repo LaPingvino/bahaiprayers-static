@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8751 in हिंदी'
 author = "Bahá'u'lláh"
-tags = ['lang-hi', 'bpn-unsorted']
+tags = ['lang-hi', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 *(अधिदिवस उपवास माह के पहले आते हैं और उपवास की तैयारी के दिन होते हैं, ये अतिथि-सत्कार, दान और उपहार देने के दिन होते हैं।)
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8107 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Forherliget være Du, o Herre min Gud! Jeg bønfalder Dig ved ham, der er Dit Allerstørste Navn, der er blevet smerteligt hjemsøgt af dem af Dine skabninger, der har afvist Din sandhed, og som er blevet omringet af sorger, som ingen tunge kan beskrive, om at give at jeg må ihukomme Dig og lovsynge Din pris i disse dage, hvor alle har vendt sig bort fra Din skønhed, har kæmpet imod Dig og vendt sig bort med ringeagt fra Ham, der er Din sags åbenbarer. Der findes ingen, O min Herre, der kan hjælpe Dig undtagen Du selv og ingen magt til at støtte Dig undtagen Din egen magt.
 

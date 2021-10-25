@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7338 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', 'bpn-unsorted']
+tags = ['lang-pl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 W Imię Jego, Wywyższonego, Najwyższego, Najbardziej Wzniosłego!
    

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4532 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Sa Ngalan ng Diyos, ang Napakatanda, ang Pinakadakila.
 

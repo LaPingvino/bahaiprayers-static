@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2735 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', 'bpn-unsorted']
+tags = ['lang-hu', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Ó, Isten! Ó, Isten! Ímé, egy törött szárnyú madár, röpte nagyon lassú – segíts néki, hogy a jólét és megváltás csúcsa felé repülhessen, a legnagyobb örömben és boldogságban szárnyalhasson a határtalan térben, Legfőbb Nevedben szólhasson éneke minden vidék felett, örvendeztethesse meg a füleket e hívással, és ragyogtathassa fel a szemeket az útmutatás jeleivel.
 

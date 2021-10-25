@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4521 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', 'bpn-unsorted']
+tags = ['lang-tl', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Siya ang Mahabagin, ang Mapagpala sa Lahat!
 

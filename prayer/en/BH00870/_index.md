@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH00870 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', 'BH00870']
+tags = ['lang-en', 'BH00870', "Bahá'u'lláh"]
 +++
 ##Long Healing Prayer 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11435 in தமிழ்'
 author = "Abdu'l-Bahá"
-tags = ['lang-ta', 'bpn-unsorted']
+tags = ['lang-ta', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 *கலப்பற்ற மகிழ்வுடன் ஒன்றுகூடுங்கள்; பின்னர் கூட்டத்தின் ஆரம்பத்தில், தூய்மையுடன் இப்பிரார்த்தனையைக் கூறுங்கள். 
 

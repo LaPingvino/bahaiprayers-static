@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8056 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', 'bpn-unsorted']
+tags = ['lang-da', 'bpn-unsorted', "Bahá'u'lláh"]
 +++
 Jeg ved ikke, o min Gud, hvad det er for en ild Du har antændt i Dit land. Jord kan aldrig skygge for dens lysende glans, og vand kan ikke slukke dens flamme. Alle folkeslagene i verden er ude af stand til at modstå dens kraft. Stor er velsignelsen for den, der er draget den nær og hørte dens buldren.
 

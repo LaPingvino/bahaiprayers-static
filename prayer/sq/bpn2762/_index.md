@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2762 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 O Perëndi, Perëndia im! Kjo shërbëtore Jotja të thërret Ty, beson në Ty, e kthen fytyrën ndaj Teje, të lutet Ty të lëshosh mbi të bujaritë e Tua qiellore, t'i shfaqësh asaj misteret e Tua shpirtërore dhe të hedhësh mbi të dritat e Hyjnisë Sate.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2761 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', 'bpn-unsorted']
+tags = ['lang-sq', 'bpn-unsorted', "Abdu'l-Bahá"]
 +++
 Lutje që duhet thënë në mbyllje të mbledhjes së Asamblesë Shpirtërore:
 
