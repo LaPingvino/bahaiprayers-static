@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5256 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Slava Tebi, o Gospodaru, Bože moj! Zaklinjem Te Tvojim Imenom kroz koje je Tvoja Ljepota zasjala na prijestolju Tvoje Vjere i Tvojim Imenom kojim mijenjaš sve što postoji, okupljaš, pozivaš na odgovornost, nagrađuješ, štitiš i održavaš - da zaštitiš ovu vjernicu koja je pobjegla Tebi u zaklon, utočište zatražila u Onome kojim si Ti objavljen, i položila svu svoju vjeru i nadu u Tebe.

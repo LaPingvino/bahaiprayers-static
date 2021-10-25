@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10084 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 #Modlitby za učenie Viery z Tabuliek Božského Plánu

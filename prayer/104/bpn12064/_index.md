@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12064 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ”Dalam segala sesuatu ada tandanya. Tanda kasih adalah keteguhan hati di bawah perintah-Ku dan kesabaran di bawah cubaan-cubaan-Ku.”               

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7543 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Ylistys olkoon Sinun, oi Herra, minun Jumalani! Pyydän Sinua hartaasti nimeesi, jota kukaan ei ole soveliaasti tunnustanut ja jonka merkitystä yksikään sielu ei ole luodannut. Rukoilen Sinua Hänen kauttaan, joka on Sinun ilmoituksesi alkulähde ja Sinun merkkiesi päivänkoitto, tekemään sydämestäni rakkautesi ja muistamisesi maljan. Liitä se sitten suurimpaan valtamereesi, niin että siitä virtaisivat Sinun viisautesi elävät vedet ja Sinun ylistämisesi ja kiittämisesi kristallinkirkkaat virrat.

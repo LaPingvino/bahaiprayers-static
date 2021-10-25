@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9583 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, mijn God! Ik smeek U bij de oceaan van Uw genezing en de pracht van de Dagster van Uw genade, bij Uw Naam waarmee Gij Uw dienaren onderwerpt en bij de doordringende kracht van Uw verhevenste Woord, bij de macht van Uw verhevenste Pen en bij Uw genade die aan de schepping van allen in de hemel en op aarde vooraf is gegaan, mij met de wateren van Uw milddadigheid te verlossen van iedere kwelling en kwaal en van alle zwakte en krachteloosheid.

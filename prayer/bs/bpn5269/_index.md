@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5269 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Dozvoli mi, moj Gospodaru, da Ti se približim i da boravim unutar zidova Tvog dvora jer me je udaljenost od Tebe skoro uništila. Dopusti da se odmorim u sjenci krila Tvoje milosti jer je plamen razdvojenosti od Tebe rastopio moje srce. Približi me rijeci života jer moja duša izgara od žeđi u neprestanom traganju za Tobom. Moji uzdasi, moj Bože, objavljuju gorčinu moje boli, a suze svjedoče o ljubavi koju gajim za Tebe.

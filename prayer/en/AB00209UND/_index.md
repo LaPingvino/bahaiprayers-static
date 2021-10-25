@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB00209UND in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB00209UND']
 +++
 ##Revealed to the Bahá'ís of the Southern States

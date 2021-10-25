@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5533 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 布教のため各地に旅する者は、

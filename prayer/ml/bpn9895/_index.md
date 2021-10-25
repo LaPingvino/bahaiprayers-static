@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9895 in മലയാളം'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ml', 'bpn-unsorted']
 +++
 അവന്‍ ദൈവമാകുന്നു! 

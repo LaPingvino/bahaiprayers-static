@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12652 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Petara, Petara aku! Nuan meda bakani pemetang ngeleti udah mungkur semua tempat, bakani semua menua udah ditunu enggau api penyarut, lalu api perang enggau bebunuh udah demurung di selampur Timur enggau Barat. Darah anyut, bangkai betegaring sebelah tanah, lalu pala ti dipumpung udah labuh ba debu menalan perang.

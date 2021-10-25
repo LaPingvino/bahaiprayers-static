@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12966 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 Em I Givim Planti Samting!  Em i Save Blesim Oltaim! 

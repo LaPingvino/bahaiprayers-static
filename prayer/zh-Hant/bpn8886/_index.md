@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8886 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 祂是寬仁者，普施者！

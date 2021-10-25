@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8919 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！祢看見黑暗籠罩大地，紛爭的戰火在各國燃燒，殺戮遍及東西方。血流成河，屍橫遍野，頭顱落地，戰塵飛揚。

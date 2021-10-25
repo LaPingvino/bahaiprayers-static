@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12419 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Hompa, Karunga wande, Mushongi wande, Shitambo shalitokomeno lyande! Mupikoye uno, kuna kushana kurara mughuvando waliferonkenda lyoye nakupwiyumuka munda yankenda yoye, nakushungida lipakeroshinka nalipopero lyoye.

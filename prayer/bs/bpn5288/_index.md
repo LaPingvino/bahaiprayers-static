@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5288 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 O Gospodaru! Jadni smo, daruj nam Svoju naklonost; siromašni smo, daj nam udio iz okeana Tvoga blaga; slabi smo, udovolji nam; poniženi smo, daj nam Svoju slavu. Ptice u zraku i zvijeri u divljini svakog dana primaju hranu od Tebe, sva bića su pod Tvojom brigom i zaštitom.

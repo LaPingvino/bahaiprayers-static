@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11579 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Te doy gracias, oh mi Dios, por haberme despertado de mi sueño, por haberme traído a la luz después de mi desaparición y por haberme sacado de mi letargo. He despertado esta mañana con el rostro vuelto hacia los resplandores del sol de Tu Revelación, por medio del cual se han iluminado los cielos de Tu poder y Tu majestad, reconociendo Tus signos, creyendo en Tu Libro y aferrándome a Tu Cuerda.

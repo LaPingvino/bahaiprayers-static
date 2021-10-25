@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12364 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Vikiiga mo te matagofie e ia Koe, O te Aliki toku Atua! A te mea nei se tega filifilia te la ko oti ne toki ne Koe i te laufenua o Tou alofa kae ko oti ne puti aka ne maikao o Tou faka-Aliki.  Ko oti ne fakasiusiu ne Koe mai i te vai-keli o te ola se gata mai te la e tafe mai i fatoaaga o Tou tafatasi kae ko oti ne fai ne Koe a kaumana o Tou alofa atafai ke maligi mai Au mea-alofa ki luga i ei.  A 

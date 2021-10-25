@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9786 in മലയാളം'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ml', 'bpn-unsorted']
 +++
 *(ബഹാഉള്ളയുടെ ഒമ്പതാമത്തെ സുവിശേഷങ്ങളില്‍ നിന്നുള്ള പ്രാര്‍ത്ഥന.)

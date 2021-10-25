@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9217 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est Dieu ! Loué soit Dieu, le Seigneur de tendre bonté et de générosité ! Gloire à toi, ô mon Dieu, Seigneur omnipotent ! Je témoigne de ta toutepuissance et de ton pouvoir, de ta souveraineté et de ta tendre bonté, de ta grâce et de ton autorité, de l’unicité de ton être et de l’unité de ton essence, de ta sainteté et de ta grandeur, par-delà le monde de l’existence et tout ce qu’il renferme.

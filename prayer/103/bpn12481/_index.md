@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12481 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 How can I choose to sleep, O God, my God

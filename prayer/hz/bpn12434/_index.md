@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12434 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Ghamb: Ove Karunga, Karunga wande! Ntura mutwe wande nashipangura sha ghushili, ntani ntembeli yande na ghurenka waghuwa. Ove ghushili, wawaparo, ove mutapi wanavintje vyaviwa.

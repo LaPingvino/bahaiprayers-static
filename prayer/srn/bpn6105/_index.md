@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6105 in Sranan Tongo'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##BEGI FU DEDE SEMBE 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11521 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Él es Dios! ¡Exaltado sea Él, el Señor de amorosa bondad y generosidad!

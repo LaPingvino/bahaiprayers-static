@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12724 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Dikemulia meh Nuan, O Tuhan aku ti penyinu ! Aku minta kasih Nuan nengah gelinggang tasik sada kudus Nuan, enggau nengah pemayuh tanda kuasa-raja Nuan ti pemadu tinggi, enggau kelai Pengudus Nuan ti nyemetak, enggau misteri lalai ti dipelam dalam penemu Nuan, beri ngagai aku berekat Nuan gawaka Nuan enggau bala ti dipilih Nuan, lalu kemendarka aku ngasi meri ngagai Huqúq Nuan ke udah diletak Nuan dalam Bup Nuan.

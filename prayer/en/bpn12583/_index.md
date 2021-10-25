@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12583 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O Thou peerless and loving Lord!  Though capacity and worthiness are lacking, and it is infinitely hard to withstand tribulations, yet worthiness and capacity are gifts vouchsafed by Thee.  O Lord!  Give us capacity and make us worthy, that we may evince the most great steadfastness, renounce this world and all its people, kindle the fire of Thy love, and even as candles, burn bright with a consuming flame and shed abroad our radiance.

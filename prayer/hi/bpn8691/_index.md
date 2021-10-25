@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8691 in हिंदी'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hi', 'bpn-unsorted']
 +++
 *(ईश्वर की सुरभि का प्रसार करने वालों को प्रत्येक सुबह इस प्रार्थना का पाठ करना चाहिये।)

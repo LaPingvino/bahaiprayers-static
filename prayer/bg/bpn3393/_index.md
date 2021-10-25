@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3393 in български'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bg', 'bpn-unsorted']
 +++
 Той е Лечителят, Удовлетворяващият, Помагащият, Всепрощаващият, Всемилостивият.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn452 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Mein Herr! Mein Herr! Preis und Dank sei Dir für die Gnade, die Du Deiner ergebenen Dienerin erwiesen hast, Deiner Magd, die demütig bittend zu Dir fleht; denn Du hast sie wahrlich zu Deinem offenbaren Königreich geleitet, hast sie Deinen erhabenen Ruf in der Welt des Zufalls hören und Deine Zeichen sehen lassen, die das Kommen Deiner siegreichen Herrschaft über alle Dinge beweisen.

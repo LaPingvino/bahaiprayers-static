@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9278 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Par ta puissance je t’adjure, ô mon Dieu ! 

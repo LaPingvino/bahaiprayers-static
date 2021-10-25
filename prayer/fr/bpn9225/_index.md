@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9225 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Loué soit ton nom, ô mon Dieu et le Dieu de toutes choses, ma gloire et la gloire de toutes choses, mon désir et le désir de toutes choses, ma force et la force de toutes choses, mon roi et le roi de toutes choses, mon possesseur et le possesseur de toutes choses, mon but et le but de toutes choses, mon animateur et l’animateur de toutes choses ! Je t’en supplie, ne me retiens pas loin de l’océan de ta miséricorde ni des rivages de ta proximité.

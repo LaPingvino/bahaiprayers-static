@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5343 in Montenegrin'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-cnr', 'bpn-unsorted']
 +++
 O moj Bože! O Ti, koji praštaš grijehe! Darodavče! Ti Koji odaginješ patnje!

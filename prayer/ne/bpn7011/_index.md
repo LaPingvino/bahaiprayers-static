@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7011 in नेपाली'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ne', 'bpn-unsorted']
 +++
 हे मेरा ईश्वर ! हे तिमी जसले पापहरूलाई क्षमा गर्दछौ, उपहारहरूको वृष्टि गर्दछौ अनि पीडाहरूको हरण गर्दछौ ! 

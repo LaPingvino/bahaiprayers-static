@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2423 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Es teicu Tevi, ak mans Dievs, ka Tu esi modinājis mani no miega un aizmirstības snaudas. Es esmu atmodies šorīt ar skatu pret Tavas Atklāsmes Saules spožo mirdzumu, kas apgaismo Tavas varenības un cēluma debesis. Es atzīstu Tavas zīmes, es ticu Tavai Grāmatai un stingri turos pie Tevis.

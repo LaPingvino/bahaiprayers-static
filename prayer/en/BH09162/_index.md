@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH09162 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH09162']
 +++
 O Thou Whose face is the object of the adoration of all that yearn after Thee, Whose presence is the hope of such as are wholly devoted to Thy will, Whose nearness is the desire of all that have drawn nigh unto Thy court, Whose countenance is the companion of those who have recognized Thy truth, Whose name is the mover of the souls that long to behold Thy face, Whose voice is the true life of Thy lovers, the words of Whose mouth are as the waters of life unto all who are in heaven and on earth!

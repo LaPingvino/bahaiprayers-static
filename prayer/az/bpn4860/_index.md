@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4860 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Rəbbim, mənim Allahım! Bu bir uşaqdır ki, Sənin bəndələrinin birindən törəyib, o kimsə ki, Sən onun üçün Özünün tale Lövhələrində və təqdir səhifələrində yüksək məqamlardan birini müəyyən etmisən.

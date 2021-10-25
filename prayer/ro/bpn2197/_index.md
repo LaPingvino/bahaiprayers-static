@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2197 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Dumnezeul şi Stăpânul meu! Eu sunt slujitorul Tău şi fiul slujitorului Tău. M-am ridicat din aşternut în zorii zilei, când Luceafărul unicităţii Tale s-a ridicat din Aurora voinţei Tale revărsându-şi scânteierea asupra întregii lumi, aşa după cum a fost scris în Cărţile poruncii Tale.

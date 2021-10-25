@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1579 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Guð minn, Þú sem ég tilbið, konungur minn, þrá mín! Hvaða tunga fær tjáð Þér þakkir mínar? Ég var gálaus, Þú vaktir mig. Ég hafði snúið við Þér baki, Þú hjálpaðir mér af náð Þinni að leita aftur til Þín. Ég var andvana, Þú vaktir mig með vatni lífsins. Ég var visnaður, Þú endurlífgaðir mig með himneskum straumi orðs Þíns sem flæddi úr penna hins almiskunnsama.

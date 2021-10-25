@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11121 in नेपाली'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ne', 'bpn-unsorted']
 +++
 हे क्षमाशील प्रभु ! यी सेवकहरू तिम्रो साम्राज्यतर्फ अभिमुख छन् र तिम्रो अनुग्रह तथा दयाका अभिलाषी छन् । 

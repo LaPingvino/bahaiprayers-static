@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9614 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Heer! Maak deze kinderen tot voortreffelijke planten. Laat hen groeien en zich ontwikkelen in de Tuin van Uw Verbond en maak hen fris en mooi door de uitstortingen vanuit de wolken van het Alglorierijke Koninkrijk.

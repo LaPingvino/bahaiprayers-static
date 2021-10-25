@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5943 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu de munificència i misericòrdia! Tu ets aquell Rei, la paraula imperativa del Qual, ha donat l’existència a tota la creació; Tu ets aquell Ser Tot Poderós a Qui les accions dels Seus serfs mai Li han impedit mostrar la Seva gràcia ni han frustrat les revelacions de la Seva munificència.

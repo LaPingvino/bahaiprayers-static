@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10959 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Aliki, toku Puipui, toku Fesoasoani i Mea Faigata!  E maulalo a taku akai fakamolemole kia Koe, e masaki kae vau kia Koe ke fakalei a toku masaki, e tagi akai atu kia Koe mo toku laulaufaiva, toku agaaga ola, mo toku mafaufau:

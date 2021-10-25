@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1313 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Tu bem sabes, ó meu Deus, que sobre mim têm chovido tribulações de todas as direções e que ninguém, a não ser Tu, as pode dissipar ou alterar. Sei com toda a certeza, em virtude do meu amor por Ti, que Tu jamais farás tribulações sobrevirem a qualquer alma, a não ser que desejes exaltar-lhe a posição no Teu Paraíso celestial e fortalecer o coração, nesta vida terrena, com o baluarte do Teu poder predominante, a fim de que se não incline para as vaidades deste mundo. Em verdade, Tu bem percebes que eu, sob todas as condições, muito mais estimaria a lembrança de Ti do que a possessão de tudo o que está nos céus e na terra.

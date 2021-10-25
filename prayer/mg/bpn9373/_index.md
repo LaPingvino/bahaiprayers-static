@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9373 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Tompoko ô! Ry Tompoko ô! Ity dia jiro iray nazavaina tamin’ny afon’ny Fitiavanao sy narehitra  tamin’ny lelafo nirehitra teo amin’ny hazon’ny Famindramponao.

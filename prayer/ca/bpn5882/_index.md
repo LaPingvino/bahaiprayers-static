@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5882 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Senyor! Fes d’aquests infants plantes excel·lents. Fes que creixin i es desenvolupin en el jardí de la Teva Aliança, i atorga’ls-hi frescor i bellesa mitjançant les efusions dels núvols del Regne d’Abhá.

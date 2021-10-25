@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8932 in 繁體中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 主啊，榮耀歸於祢！祢以令諭之力量，創生了一切造物。

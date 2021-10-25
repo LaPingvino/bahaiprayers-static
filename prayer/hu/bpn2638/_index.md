@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2638 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ő a Gyógyító, a Megelégítő, a Segítő, a Mindenek Felett Megbocsátó, a Mindenek Felett Irgalmas!

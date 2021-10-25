@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2406 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Tu vienīgais nesalīdzināmais Dievs! Ak Tu Ķēniņvalsts Valdniek! Šīs dvēseles ir Tava debesu armija. Palīdzi tām ar Augstajiem Debesu Pulkiem, nes tām uzvaru, lai ikviena no tām kļūst kā pulks, un pakļauj šīs zemes ar Dieva mīlestību un dievišķo mācību gaismu.

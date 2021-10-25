@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12017 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Eý Perwerdigär! Bu baglan ýanýoldaşlyk nikaňy berk et we bu bendäň bilen bu keniziň arasynda ruhy hem jismi baglanşyk miýesser eýle. Bu birleşigi düşümli we bu öýlenmegi şatlyga sebäpkär bolar ýaly et.

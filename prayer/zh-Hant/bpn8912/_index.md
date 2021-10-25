@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8912 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 上帝啊！祢創造了所有顯聖者，祢是萬千聖源之本，一切神聖啟示之泉源，所有神聖大光之來源！我見證：藉由祢的聖名，理解之天得以裝點，宣說之洋因而澎湃。在所有宗教的信徒中間，祢天佑慈恩已廣為流傳。

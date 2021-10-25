@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1335 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Em Nome do nosso Senhor, o Mais Sagrado, o Maior, o Sublime, o Mais Glorioso!

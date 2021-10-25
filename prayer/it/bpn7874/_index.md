@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7874 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Lodato sia il Tuo Nome, o Signore mio Dio! Ti supplico per il Tuo Nome per mezzo del quale l’Ora è scoccata e la Resurrezione è avvenuta, e timore e tremore hanno colto tutti coloro che sono in cielo e in terra, di far piovere dal cielo della Tua misericordia e dalle nubi della Tua tenera compassione, ciò che rallegrerà i cuori dei Tuoi servi che si sono volti verso di Te e hanno aiutato la Tua Causa.

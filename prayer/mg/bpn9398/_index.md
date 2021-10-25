@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9398 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Tompoko ô! Ry Tompoko ô! Zaza mbola kely aho. Velomy amin’ny tratran’ny Famindramponao aho, tezao ao amin’ny tratran’ny Fitiavanao, ampianaro ao amin’ny sekolin’ny Fitarihinao ary halehibiazo eo ambanin’ny aloky ny Hatsaranao.

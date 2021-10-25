@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5098 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhan Yang Maha Penyayang! Ya Rabi Sarwa Sekalian Alam! Pujian bagi-Mu karena Engkau lebih menyukai anak-anak kecil ini daripada orang dewasa, telah menganugerahi mereka dengan rahmat- Mu yang istimewa, telah membimbing mereka, telah memberikan cahaya-Mu kepada mereka dan telah menganugerahi mereka dengan kerohanian.

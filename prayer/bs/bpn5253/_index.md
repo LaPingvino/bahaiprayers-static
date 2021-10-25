@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5253 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Slava Tebi, o, moj Bože! Da nije teškoća podnesenih na Tvom putu, kako bi se Tvoji iskreni vjernici mogli raspoznati; da nije iskušenja kojim ljudi odolijevaju Tebi za ljubav, kako bi se otkrio položaj onih koji žude za Tobom? Tvoja moć mi je svjedok! Pratioci svima koji Te obožavaju njihove su prolivene suze, utjeha onima koji tragaju za Tobom njihovi su uzdisaji, hrana onima koji hitaju Tebi u susret krhotine su njihovih slomljenih srca.

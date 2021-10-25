@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn458 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, o Gott! Du siehst, wie schwarze Finsternis alle Lande umfängt, wie alle Lande brennen in der Zwietracht Flamme, wie mörderisch in Ost und West des Krieges Feuer lodert. Blut wird vergossen, Leichen bedecken ringsum die Erde, und abgeschlagen liegen Häupter im Staub des Schlachtfelds.

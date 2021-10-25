@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5236 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Slavljen si, o Gospodaru moj Bože! Zahvaljujem Ti jer si me dozvao u život u Svojim danima i što si u mene utisnuo Svoju ljubav i spoznaju. Zaklinjem te Tvojim imenom kojim su se biseri Tvoje mudrosti rasuli iz riznice srca Tvojih najbliskijih sluga, i kroz koje je Danica Tvoga imena, Saosjećajnog, obasjala sve što je na nebu i na zemlji, da me Svojom milošću i dobrotom opskrbiš sa Svojim čudesnim i skrivenim darovima.

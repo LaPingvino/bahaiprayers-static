@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1199 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado seja o Teu nome, ó meu Deus! Vês quão severamente tenho sido atribulado entre os Teus servos, e presencias asminhas vicissitudes no Teu caminho. Bem sabes que jamais proferi uma palavra que não fosse com a Tua permissão, nem abri os meus lábios salvo a Teu mando e de acordo com o Teu beneplácito, que todo o meu sopro foi animado pelo Teu louvor e pela Tua lembrança, que não convoquei todos os homens senão para aquilo para que os Teus eleitos foram convocados desde toda a eternidade, e que ordenei que observassem apenas as coisas que os fizessem aproximar do Alvorecer da Tua benevolência, do Amanhecer dos Teus favores, do Horizonte das Tuas riquezas e do Manifestante da Tua inspiração e da Tua revelação.

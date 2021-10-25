@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9945 in العربية'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ar', 'bpn-unsorted']
 +++
 هُوَ الحَيُّ الْبَاقي الْقَيُّوْمُ

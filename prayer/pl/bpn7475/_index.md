@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7475 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Następującą modlitwę, objawioną przez ʿAbdu’l-Bahę, czyta się w Świątyni, gdzie jest pochowany. Jest ona także odmawiana jako modlitwa osobista.

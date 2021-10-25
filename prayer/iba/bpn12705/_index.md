@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12705 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Tuhan aku! Nuan nemu mensia udah dikelulung pemedis enggau rabat besai lalu dibalut penusah enggau pengachau. Tiap penguji nyerang mensia lalu tiap penanggul ti balat nyambar iya baka serang naga. Nadai pengelindung enggau pengenduh bukai ke iya kelimpah ari di baruh sayap penyaga, pengenan, pengibun enggau impun Nuan.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8086 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Lovpriset være Du, o Herre min Gud! Jeg bønfalder Dig ved Din nådes frembrusende vinde og ved dem, der er Din hensigts daggry og dæmringsstederne for Din inspiration, om at nedsende, til mig og til alle der har søgt Dit åsyn, det der sømmer sig for Din ædelmodighed og gavmilde nåde og er Din gunst og Dine gaver værdigt. Fattig og ensom er jeg, o min Herre! Nedsænk mig i Din rigdoms hav; tørstende, lad mig drikke af Din kærlige omsorgs levende vande.

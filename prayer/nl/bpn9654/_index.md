@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9654 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, Gij die de Auteur van alle Manifestaties zijt, de Bron aller bronnen, de Wel aller openbaringen en de Oorsprong aller lichten! Ik betuig dat door Uw Naam de hemel van begrip werd getooid, en de oceaan van woorden is aangezwollen, en de beschikkingen van Uw voorzienigheid aan de volgelingen van alle religies zijn verkondigd.

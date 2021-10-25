@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5211 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Terpujilah Engkau, ya Rabi Tuhanku! Aku memohon kepada-Mu, demi Wahyu ini, yang melaluinya

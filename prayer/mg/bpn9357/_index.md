@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9357 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Anao ny voninahitra, ry Andriamanitro ô, ary Anao ny laza, ry Tompoko ô!

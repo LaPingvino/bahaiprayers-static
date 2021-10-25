@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9234 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Seigneur, pendant tes jours, accorde à tes patients serviteurs une victoire méritée, car ils recherchent le martyre en ton chemin. Envoie-leur ce qui réconfortera leur esprit, réjouira leur être intérieur, confirmera leur cœur, tranquillisera leur corps, et permettra à leur âme de s’élever jusqu’en la présence de Dieu, l’Éminent, et d’atteindre le paradis suprême ainsi que les havres de gloire que tu as réservés aux hommes de vrai savoir et de vertu. En vérité, tu connais toutes choses alors que nous ne sommes que tes serviteurs, tes captifs, tes serfs et tes pauvres. Nous n’invoquons nul autre seigneur que toi, ô Dieu, notre Seigneur ! Nous n’implorons de bénédictions ou de faveurs de nul autre que toi, ô Dieu de miséricorde pour ce monde et pour l’autre ! Nous ne sommes que des incarnations de la pauvreté, du néant, de la faiblesse et de la perdition, alors que tout ton être manifeste richesse et indépendance, gloire, majesté et grâce infinie.

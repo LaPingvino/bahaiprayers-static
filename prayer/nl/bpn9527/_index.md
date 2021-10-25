@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9527 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O mijn God, mijn Meester, Doel van mijn verlangen! Deze dienaar van U zoekt de slaap in de beschutting van Uw erbarmen en de rust onder het baldakijn van Uw genade, smekend om Uw zorg en Uw bescherming.

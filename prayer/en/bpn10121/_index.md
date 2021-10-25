@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10121 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Thou art He, O my God, through Whose names the sick are healed and the ailing are restored, and the thirsty are given drink, and the sore-vexed are tranquillized, and the wayward are guided, and the abased are exalted, and the poor are enriched, and the ignorant are enlightened, and the gloomy are illumined, and the sorrowful are cheered, and the chilled are warmed, and the downtrodden are raised up. Through Thy name, O my God, all created things were stirred up, and the heavens were spread, and the earth was established, and the clouds were raised and made to rain upon the earth. This, verily, is a token of Thy grace unto all Thy creatures.

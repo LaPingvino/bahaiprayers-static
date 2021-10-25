@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4999 in Tiếng Việt'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, lạy Đấng Thỉnh cầu của kẻ yếu hèn, Đấng Cứu giúp của người nghèo khó, Đấng Cứu rỗi của những linh hồn không nơi nương tựa đang hướng về Ngài. Với lòng kính cẩn vô biên, con chắp tay khẩn cầu về Vương quốc mỹ lệ của Ngài. Lạy Thượng Đế, Thượng Đế của con, với tâm thành, con khẩn cầu Ngài xin ban cho con ân huệ được làm tôi tớ Ngài; xin cho phép con được vững vàng hơn trong sự tuân tùng Ngài, xin tuôn đổ xuống cho con những khoan dung chan chứa; xin làm cho tia nhìn ân sủng dịu hiền của mắt Ngài được đến với con; xin cho con được ngụp lặn trong đại dương tha thứ của Ngài. Xin Ngài chấp nhận con là kẻ trung thành với Chánh Đạo của Ngài và xin ban cho con đầy đủ hơn mức độ xác tín, và bảo đảm cho con hoàn toàn thoát khỏi trần tục, để con luôn hướng mặt con về Ngài với niềm tin trọn vẹn, để nhờ những bằng chứng và chứng tích của Ngài mà con được khẳng định bằng uy quyền bất khả kháng, được trang phục bởi sự uy nghiêm và quyền lực của Ngài, để có thể vượt qua mọi vùng của thiên quốc và trần gian. Quả thật, Ngài là Đấng Từ bi, Đấng Tối Vinh quang, Đấng Bác ái và Khoan dung.

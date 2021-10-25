@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7436 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Pochwalony bądź, o Panie, mój Boże! Ilekroć próbuję Cię wspominać, powstrzymuje mnie wzniosłość Twego stanu i obezwładniająca wspaniałość Twojej mocy. Gdybym Cię sławił w całym Twoim królestwie i tak długo, jak długo trwa Twoje panowanie, zobaczyłbym, że moje wysławianie Ciebie stosowne jest jedynie dla takich jak ja, którzy sami są Twoimi stworzeniami powstałymi mocą Twojego rozkazu i ukształtowanymi potęgą Twojej woli. A kiedy tylko moje pióro przypisuje chwałę któremukolwiek z Twoich imion, to zdaje mi się, że słyszę głos jego lamentu z powodu oddalenia od Ciebie i poznaję jego płacz spowodowany rozłąką z Tobą. Świadczę, że wszystko, co nie jest Tobą, jest jedynie Twoim stworzeniem, które trzymasz w zagłębieniu swojej dłoni. To, że przyjmujesz jakikolwiek czyn lub pochwałę od swoich stworzeń, jest jedynie dowodem cudów Twojej łaski i szczodrych dobrodziejstw oraz przejawem Twojej wspaniałomyślności i opatrzności.

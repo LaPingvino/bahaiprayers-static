@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1278 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glorificado és Tu, ó Senhor meu Deus! Imploro-Te, pelos ventos impetuosos da Tua graça e por Aqueles através de Quem desponta a Aurora do Teu desígnio e alvorece a Tua inspiração, que faças descer sobre mim e sobre todos os que se dirigiram ao Teu semblante, o que for próprio da Tua generosidade e copiosa graça, e digno das Tuas dádivas e dos Teus favores. Sou pobre e desolado, ó meu Senhor! Imerge-me no oceano da Tua Riqueza. Estou sedento: deixa-me sorver das águas vivas da Tua misericórdia.

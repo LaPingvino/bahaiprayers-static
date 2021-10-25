@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10061 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Velebené buď Tvoje meno, ó Pane, môj Bože! To Teba všetko uctieva, pričom Ty neuctievaš nikoho; si Pán všetkého, a pritom nikoho poddaný; znáš všetko, a pritom nie si nikým poznaný. Chcel si sa dať ľuďom poznať, preto si slovom Svojich úst dal život stvoreniu a vytvoril si vesmír. Niet iného Boha okrem Teba, Tvorcu, Stvoriteľa, nadovšetko Mocného, Najsilnejšieho.

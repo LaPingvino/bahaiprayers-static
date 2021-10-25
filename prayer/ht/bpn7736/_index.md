@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7736 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Nan Non Bondye, Senyè a Ki gen yon majeste k’ap domine tout bagay, Sila a Ki Dirije Tout Bagay.

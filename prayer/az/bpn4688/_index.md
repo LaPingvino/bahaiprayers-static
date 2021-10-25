@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4688 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 ##Gündə səhər, günorta, və axşam bir dəfə qılmali

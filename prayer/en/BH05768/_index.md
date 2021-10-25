@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH05768 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH05768']
 +++
 Glorified art Thou, O Lord my God!  Every time I venture to make mention of Thee, I am held back by my mighty sins and grievous trespasses against Thee, and find myself wholly deprived of Thy grace, and utterly powerless to celebrate Thy praise.  My great confidence in Thy bounty, however, reviveth my hope in Thee, and my certitude that Thou wilt bountifully deal with me emboldeneth me to extol Thee, and to ask of Thee the things Thou dost possess.

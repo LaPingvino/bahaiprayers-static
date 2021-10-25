@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11971 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 *Jan dili bilen jahan Mahbubyny şeýdip çagyr: 

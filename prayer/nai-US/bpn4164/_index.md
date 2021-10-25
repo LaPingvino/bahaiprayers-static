@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4164 in American Indian'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Nu vo ada han e cuda e Tanawa Tanawa e wap pie-it nush ta Weed cada my a too Wee a Ma tu queet me quash  me quash cada e auta quan eada we how ta quan Kaden ought to quan qua e hoeta quan sa Wee e whan e cua Cada oo we qad me on ich, e Wab wut e Na did quay, e New casa e wa nu in.

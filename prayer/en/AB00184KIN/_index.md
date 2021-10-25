@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB00184KIN in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB00184KIN']
 +++
 ##Revealed to the Bahá'ís of the Central States

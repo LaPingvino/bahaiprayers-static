@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn678 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Preis sei Dir, o Herr mein Gott! Ich flehe Dich an bei dieser Offenbarung, durch die Finsternis in Licht verwandelt, der viel besuchte Tempel errichtet, die Beschriebene Tafel offenbart und die Entfaltete Schriftrolle enthüllt wurde, sende hernieder auf mich und alle, die mit mir sind, was uns befähigt, in die Himmel Deiner höchsten Herrlichkeit aufzusteigen, und was uns rein macht vom Makel solcher Zweifel, wie sie die Misstrauischen abhalten, das Zelt Deiner Einheit zu betreten.

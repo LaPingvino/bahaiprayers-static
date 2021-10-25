@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12660 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Dipuji meh nama Nuan, O Petara aku! Aku minta Nuan ngena rengut Kelambi berekat Nuan ti nitihka pinta Nuan sereta	senutuk	enggau	pengingin	Nuan	udah dikerembaika	ba	selampur	utai	tempa,	lalu	ngena Bintang-siang	peneka	Nuan	ti	udah	manchar	enggau terang, nengah kuasa	penegap Nuan enggau kuasa-raja Nuan,	ari	atas	bingkai-langit	pengasih	Nuan,	ngendas lengis ari ati aku semua pengelebu ngapa enggau igau sengapa, awakka enggau naka penyayau aku tau nguing ngadap Nuan, O Nuan Tuhan ke semua mensia!

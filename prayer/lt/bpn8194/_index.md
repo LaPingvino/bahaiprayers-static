@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8194 in Lietuvių'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lt', 'bpn-unsorted']
 +++
 Jis yra Gailiaširdis, Maloningiausiasis! 

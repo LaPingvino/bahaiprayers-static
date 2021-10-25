@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH05894 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH05894']
 +++
 I know not, O my God, what the Fire is which Thou didst kindle in Thy land.  Earth can never cloud its splendor, nor water quench its flame. All the peoples of the world are powerless to resist its force.  Great is the blessedness of him that hath drawn nigh unto it, and heard its roaring.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4693 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış olsun Sənə, Ey mənim Allahım! Hərarətli aşıqlərinin Sənin hicranından ötrü fəryadını və Səni tanıyanların Sənin hüzürundan uzaq düşdükləri üçün naləsini eşidirsən. Onların üzünə, Ey mənim Allahım, Öz fəzl qapılarını aç ki, onlar Sənin izninlə və Sənin iradənə uyğun olaraq bu qapılardan daxil olsunlar, Sənin əzəmət taxtının qarşısında dursunlar, Sənin səsinin ahəngini tutsunlar və Sənin üzünün nuru ilə işıqlansınlar.

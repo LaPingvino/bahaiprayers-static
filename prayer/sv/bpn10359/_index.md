@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10359 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Var och en som reser genom städerna, samhällena och byarna i dessa stater, verksamma med spridandet av Guds väldofter bör läsa denna bön varje morgon:

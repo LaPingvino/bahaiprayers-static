@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11829 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Ngin Mulia tudu Ingan, O Topa. Wat ki ku yak sobot Ingan sodang Ingan noh sikia lalu bisig sok pimudi sua manusia. Tipuji Adon Ingan, O Topa, Inganleh Raja, Pangibonar dek Nogond, Ingan pu’ant oni dek ogi daang surga bia ndu tunt tanak, bia tudu Ingan dek sua-sua mesti palik. Ingan mbok ogi pimuun Revelasi Ingan dek obuah nitah dengan kudus bijodo tudu tindakan dek jawak. Mudi Ingan, O Raja! Dek daang pingodak Ingan, Ingan ogi jugan kejayaan tudu osi sija dek suka Ingan, pakai sok tuan boli surga duoh tanak bia osi-sija dek ogi diantara bala noh. Inganleh Maha Agung, Pangibonar Nogond, jadin Raja gagah dek dik-eh tonga. 

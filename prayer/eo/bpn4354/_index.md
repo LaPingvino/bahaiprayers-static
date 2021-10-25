@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4354 in Esperanto'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 Laŭdegata estu Via nomo, ho mia Dio, ĉar Vi manifestis tiun Tagon, kiu estas la Reĝo de la Tagoj, la Tagon, kiun Vi anoncis al Viaj Elektitoj kaj Viaj Profetoj en Viaj plej elstaraj Epistoloj, la Tagon, en kiu Vi elverŝis la lumon de la gloro de ĉiuj Viaj nomoj super la tuta kreitaro. Granda estas la beniteco de ĉiu ajn, kiu direktis sin al Vi kaj eniris Vian ĉeeston kaj kaptis la sonojn de Via voĉo. Mi petegas Vin, ho mia Eternulo, je la nomo de Tiu, Kiun adorplene ĉirkaŭas la regno de Viaj nomoj, ke bongrace Vi volu asisti al tiuj karaj al Vi, por ke ili gloru Vian vorton inter la servantoj Viaj kaj disverŝu la laŭdadon al Vi inter Viaj kreitoj, por ke Via revelacio rave plenigu la animojn de ĉiuj vivantaj sur Via tero. 

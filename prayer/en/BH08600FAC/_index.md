@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH08600FAC in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH08600FAC']
 +++
 I am he, O my Lord, that hath set his face towards Thee, and fixed his hope on the wonders of Thy grace and the revelations of Thy bounty.  I pray Thee that Thou wilt not suffer me to turn away disappointed from the door of Thy mercy, nor abandon me to such of Thy creatures as have repudiated Thy Cause.

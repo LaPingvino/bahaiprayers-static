@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5128 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhanku, biarkanlah aku mendekati-Mu, dan berdiam di lingkungan istana-Mu, karena jauh dari Engkau telah hampir menghancurkan daku. Izinkanlah aku beristirahat di bawah naungan sayap-sayap rahmat- Mu, karena terpisah dari-Mu laksana api yang telah melelehkan hatiku dalam diriku. Dekatkanlah daku pada sungai yang bagaikan kehidupan sejati karena jiwaku terbakar oleh dahaga dalam usaha yang tak habis-habisnya untuk mencari Dikau. Keluh kesahku, ya Tuhanku, menyatakan pahitnya kepedihanku, dan air mataku yang berlinang membuktikan kasihku pada-Mu.

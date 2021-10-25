@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12879 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, niezrównany i miłujący Panie! Choć brakuje zdolności i prawości i niezmiernie trudno jest wytrzymać cierpienia, to jednak prawość i zdolność są darami udzielonymi przez Ciebie. O Panie! Daj nam zdolność i uczyń nas prawymi, abyśmy mogli przejawiać największą wytrwałość, wyrzec się tego świata i wszystkich jego ludzi, rozpalić ogień Twojej miłości i jak świece płonąć jasno intensywnym płomieniem i roztaczać wokół nasz blask.

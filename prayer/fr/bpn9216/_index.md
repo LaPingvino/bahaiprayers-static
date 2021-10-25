@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9216 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Dis : ô Dieu, mon Dieu, tu m’as confié ce gage et selon ta volonté, tu as voulu le rappeler à toi. Il ne m’appartient pas, à moi qui ne suis que ta servante, de me dire : « D’où vient ceci ou pourquoi cela ? » car tu es glorifié en tous tes actes et selon ton décret tu dois être obéi.

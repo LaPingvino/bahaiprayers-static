@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3739 in Eesti'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Võimalda mul, oo mu Jumal, saada täies mõõdus Sinu armastust ja heasoovlikkust ning vaimusta meie südameid oma särava valguse kütkestusega, oo Sina, kes Sa oled Ülim Tõend ja Kõikülistatud. Saada alla minu peale oma elustavaid tuulepuhanguid nii päeval kui ööl oma armulisuse märgiks, oo helduse Issand.

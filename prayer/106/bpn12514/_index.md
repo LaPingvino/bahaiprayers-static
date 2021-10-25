@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12514 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-106', 'bpn-unsorted']
 +++
 हे माझ्या परमेश्वरा! हे पापांच्या क्षमाकर्त्या, देणग्यांच्या वरदात्या आणि दुःखहर्त्या!

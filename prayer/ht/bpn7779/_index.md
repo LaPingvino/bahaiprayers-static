@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7779 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *sipò

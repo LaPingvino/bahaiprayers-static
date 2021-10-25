@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11854 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Iyoh leh dek bibudi, dek Paling-Pingungin! O Topa, Topa ku! Bogan Ingan mbok mikat oku, bia ayong Pen Pimulia Ingan mbok odak oku bingoon. Aluang pingunang kudus Ingan mbok kanuas oku, duoh lagi arak pimajak Ingan kibalot oku. Ingan ninga leh oku, O Raja, bitogan sok sua onik pak-eh Ingan, bipawoh tudu tolint budi Ingan bia so’ot budi Ingan dek pilipuang. Oku mitia Ingan, pakai gelumbang muluas rinduk- tulut Ingan bia sokad jawak ingat jaga Ingan duoh pingodak, odak ngibonar onik dek harus nalik oku sinok tudu Ingan bia nai odak oku kaya daang kaya raya Ingan. Jolae ku, pen ku, seluruag-ruag dotin ku, ngin bukti tudu Kuasa Ingan, kekuatan Ingan, budi Ingan bia pingungin Ingan, nang Ingan leh Topa, duoh lagi doie Topa dibokon jok-eh Ingan, dek Bikuasa, dek Doras.

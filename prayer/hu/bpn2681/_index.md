@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2681 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Istenem, Imádottam, Királyom, Vágyam! Mily nyelv mondhatná el köszönetemet Néked? Nemtörődöm voltam, s Te megébresztettél. Elfordultam Tőled, s Te nagylelkűen segítettél Feléd fordulnom. Olyan voltam, mint a holt, s Te az élet vizével megélesztettél. Hervadoztam, s Te újra életre keltettél Igéd mennyei folyamával, mely a Mindenek Felett Irgalmas Tollából áradt.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9579 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, mijn God! Dit is Uw stralende dienaar, Uw geestelijke slaaf die U nabij is gekomen en Uw tegenwoordigheid is genaderd. Hij heeft zijn gelaat naar het Uwe gekeerd, erkent Uw één-zijn en belijdt Uw enig-zijn, en hij heeft in Uw Naam de volkeren opgeroepen en de mensen naar de stromende wateren van Uw barmhartigheid geleid, o Gij edelmoedigste Heer! Hij heeft hen die er om vroegen te drinken gegeven uit de beker van leiding die overvloeit van de wijn van Uw onbegrensde genade.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4835 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Söylə: Ucalsın Sənin Adın, Ya Rəbb, mənim Allahım. Səni and verirəm o Adına ki, onunla müdriklik işığının şüaları parladı, o zaman ki, İlahi bəyan göyləri bəşərin arasında hərəkətə gətirildi – Öz səmavi təyidinlə mənə kömək eylə və bəndələrin arasında Sənin Adını ucaltmağa məni qadir eylə.

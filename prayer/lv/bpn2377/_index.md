@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2377 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Mans Dievs, dievinātais un pielūgtais! Es apliecinu, ka Tu esi viens un vienīgs. Es apstiprinu, ka esmu saņēmis no Tevis veltes kā pagātnē, tā tagad. Tu esi Visdāsnais, un Tava žēlastība savā pārpilnībā līst vienlīdz pār augstiem un zemiem, un Tava cēlā vēlība apņem kā paklausīgos, tā arī nepakļāvīgos.

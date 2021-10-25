@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6041 in Frysk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 O Hear, myn God! Help Jo leafsten sterk te stean yn Jo Leauwe, Jo wegen te bewanneljen en stânfêstich te wêzen yn Jo Saak.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1299 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Através de Tua Revelação, ó meu Deus, capacitaste-me para Te conhecer e, pela irradiação do Teu fulgente esplendor, inspiraste-me com a Tua lembrança. Tu és Aquele mais próximo de mim, sem coisa alguma entre Ti e mim, e és Aquele cujo poder nada em absoluto haverá de frustrar. Longe esteja, pois, da Tua Essência, que as mais fortes aves das almas dos homens, ou das imaginações humanas, em tempo algum escalem as suas alturas, e demasiado enaltecido está o Teu santo Ser, para que os mais elevados sentimentos dos homens de compreensão a Ti atinjam. Nunca, desde toda a eternidade, pessoa alguma compreendeu o Teu próprio Ser, e para todo o sempre haverás Tu de permanecer o que és desde tempos imemoriais, sem nenhum outro, senão Tu.

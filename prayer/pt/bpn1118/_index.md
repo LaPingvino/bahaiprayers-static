@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1118 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, meu Deus! Enche para mim o cálice do desprendimento de tudo e, na assembleia dos Teus esplendores e dádivas, regozija-me com o vinho do amor por Ti. Livra-me das investidas da paixão e do desejo, e liberta-me dos grilhões deste mundo inferior. Faze-me ascender em êxtase ao Teu reino superno e, dentre as servas, refresca-me com as brisas da Tua santidade.

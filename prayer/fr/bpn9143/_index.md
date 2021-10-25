@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9143 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Loué sois-tu, ô Seigneur, mon Dieu ! Par celui qui est ton Plus-Grand-Nom, qui a été cruellement éprouvé par ceux qui ont répudié ta vérité, et qui a été accablé de souffrances telles qu’aucune langue ne peut les exprimer, je te supplie. Permets-moi de me souvenir de toi et de te louer en ces jours où tous s’éloignent de ta beauté, te contredisent et se détournent dédaigneusement de celui qui est le révélateur de ta cause. Nul ne peut t’aider, ô mon Dieu, si ce n’est toi-même, aucun pouvoir ne peut te secourir si ce n’est ton propre pouvoir.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11734 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yabo ya tabbata a garēka, yā Ubangiji Allāna, nī nē bāwanka wanda ya sarƙahu ga igiyar rahamarka. Ina rōƙon ka, da sūnanka wanda ya mallaƙi kōmi, a cikin waɗanda ake gani da na ɓōye, sūnanka wanda daga shīnē, rāyuwar gaskiya ta bayyana bisa kōmi da kōwa. Ka ƙarfafā ni a cikin mulkinka wanda ya wanzama sama da ƙasa, kuma ka kāre ni da duk wata cūta kō wahala.

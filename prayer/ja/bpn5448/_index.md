@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5448 in 日本語'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお主よ、私はあなたのもとに避難所を求め、あなたの御しるしのすべてに心をかけております。

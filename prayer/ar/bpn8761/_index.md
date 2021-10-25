@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8761 in العربية'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ar', 'bpn-unsorted']
 +++
 هو العفو الغفور

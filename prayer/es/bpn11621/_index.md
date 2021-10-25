@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11621 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¿Cómo puedo querer dormir, oh Dios, mi Dios, cuando los ojos de aquellos que Te anhelan están en vela por su separación de Ti? ¿Y cómo puedo reposar mientras las almas de Tus amantes están desconsoladas por su lejanía de Ti?

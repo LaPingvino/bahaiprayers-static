@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9480 in ಕನ್ನಡ'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-kn', 'bpn-unsorted']
 +++
 *(ಅಧ್ಯಾತ್ಮಿಕ ಸಭೆ ಮುಕ್ತಾಯಗೊಳ್ಳುವ ಸಮಯದಲ್ಲಿ ಮಾಡತಕ್ಕ ಪ್ರಾರ್ಥನೆ ಹೀಗೆ)

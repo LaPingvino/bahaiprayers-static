@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn673 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Im Namen Gottes, des Altehrwürdigen, des Größten.

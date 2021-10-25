@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5963 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Tu, Déu misericordiós! Oh Tu qui ets fort i poderós! Oh Tu bondadosíssim Pare! Aquests serfs s’han reunits tornant-se cap a Tu, implorant davant el Teu llindar, desitjant els dons infinits procedents de la Teva gran seguretat. Ells no tenen altre propòsit sinó el Teu grat. No tenen altra intenció sinó servir al món de la humanitat.

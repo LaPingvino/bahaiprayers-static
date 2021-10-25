@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10873 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Aliki, toku Atua! Mea nei se tamaliki ne vau i kanofi o se isi o Au tavini tela ko oti ne avatu ne Koe ki ei se tulaga maluga i Tapeleti o tau faka-nofoga e se mafai o fakagasue i loto i Tusi o Au fakatonuuga.

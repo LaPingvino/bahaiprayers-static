@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6016 in Irish'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ga', 'bpn-unsorted']
 +++
 ##Blessed is the Spot

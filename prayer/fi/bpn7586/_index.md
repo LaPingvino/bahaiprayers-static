@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7586 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Nämä ovat ne päivät, oi Jumalani, joina olet velvoittanut palvelijasi noudattamaan paastoa. Sen kautta kaunistit luoduillesi ilmaistun lakiesi kirjan esipuheen ja katoit esille käskyjesi kätköt kaikkien taivaassasi ja kaikkien maasi  päällä olevien nähtäville. Olet varustanut näiden päivien jokaisen hetken erityisellä hyveellä, joka on tutkimaton kaikille paitsi Sinulle, jonka tietämys käsittää kaikki luodut asiat. Sinä olet myös myöntänyt jokaiselle sielulle osan tästä hyveestä säädöksesi muistion ja lopullisen tuomiovaltasi kirjoitusten mukaisesti. Jokaisen lehden näistä kirjoista ja kirjoituksista olet lisäksi osoittanut kullekin maan kansoista ja sukukunnista.

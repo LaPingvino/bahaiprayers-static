@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2283 in România'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Tu mă vezi, o, Dumnezeul meu, plecat cu

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5935 in Català'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu meu! A ningú tinc tret de a Tu què pugui calmar l’ànsia de la meva ànima i Tu ets la meva més cara aspiració, oh Déu meu. La meva ànima sols està esposada a Tu i a aquells als qui Tu estimes. Declaro solemnement que tant la meva vida com la meva mort estan dedicades a Tu. en veritat Tu ets incomparable i no tens igual.

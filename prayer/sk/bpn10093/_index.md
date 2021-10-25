@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10093 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Rozptýľ môj zármutok Svojou štedrosťou šľachetnosťou, ó Bože, môj Bože, a zažeň moju úzkosť Svojou vládou a mocou. Vidíš, ó môj Bože, ako obraciam svoju tvár k Tebe v dobe, kedy som zo všetkých strán skľučovaný bolesťou a zármutkom. Vrúcne ťa prosím, ó Ty, ktorý si Pánom všetkých bytostí a zatieňuješ všetky veci viditeľné a neviditeľné, pri Tvojom Mene, ktorým si si podmanil srdcia a duše ľudí a pri vlnách Oceánu Tvojej milosti a žiariacej nádhere Denice Tvojej štedrosti, aby si ma započítal medzi tých, ktorým nikdy nič nezabráni obrátiť tvár k Tebe, ó Pane všetkých mien a Stvoriteľ nebies.

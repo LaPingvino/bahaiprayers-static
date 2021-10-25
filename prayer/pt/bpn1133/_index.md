@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1133 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Senhor clemente! És o amparo de todos estes servos Teus. Conheces os segredos e mistérios de todas as coisas. Estamos necessitados, e Tu és o Poderoso, o Omnipotente. Nós todos somos pecadores, e Tu és Quem absolve os pecados, o Misericordioso, o Clemente. Ó Senhor! Não olhes as nossas faltas. Trata-nos de acordo com a Tua graça e a Tua generosidade. As nossas faltas são numerosas, mas o oceano do Teu perdão é ilimitado. A nossa fraqueza é grave, mas as evidências da Tua ajuda e assistência são claras.

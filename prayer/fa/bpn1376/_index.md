@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1376 in فارسی'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fa', 'bpn-unsorted']
 +++
 اِلهَا مَعبُودا مَلِكا

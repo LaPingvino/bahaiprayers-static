@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11794 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 (Sesuai Takal Nomi Kobont Bunga)

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5326 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Ovo su, o, moj Bože, dani koje si odredio Svojim slugama da poštivaju post. Njime si ukrasio uvod Svoje Knjige Zakona koja je objavljena onima koje si stvorio i uljepšao Riznice Svojih zapovijedi naočigled svih koji na nebu i svih koji su na zemlji. Svaki čas u ovim danima si obdario posebnom vrlinom, nedokučivom bilo kome sem Tebi Čije znanje obuhvata sve stvoreno. Svakoj duši si dodijelio dio ove vrline, u skladu sa Pločom i Spisima Tvoje neosporive odredbe. Štaviše, svaki list iz ovih Knjiga i Spisa si posvetio ljudima i svim narodima svijeta.

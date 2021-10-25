@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11805 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa ku, Guru ku, Topat tujuan niat ku! Itih, ulunt Ingan, kalik yak bo’os daang gadang pirasie Ingan, bia yak ngilonah ndu ribuak adung budi Ingan, ngugai kingat bia sinung sabal Ingan. 

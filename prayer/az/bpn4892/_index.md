@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4892 in Azərbaycan'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 ##Bu münacat Ruhani Məhfilin görüşünün sonunda oxunur.

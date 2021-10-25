@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn496 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du Allmächtiger! Ich bin ein Sünder, doch Du bist der Vergeber! Ich bin voller Mängel, doch Du bist der Mitleidvolle! Ich bin in des Irrtums Finsternis, doch Du bist der Vergebung Licht!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5932 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Dissipa els meus pesars per la Teva munificència i generositat, oh Déu, el meu Déu, i treu-me l’angoixa mitjançant la Teva sobirania i el Teu poder. Tu em veus, oh Déu meu, amb la faç dirigida a Tu, ara que les afliccions m’han envoltat pertot arreu. Et demano, oh Tu qui ets el Senyor de tots els éssers i protegeixes totes les coses visibles i invisibles, pel Teu Nom, mitjançant el qual Tu has sotmès els cors i les ànimes dels homes, i per les ones de l’oceà de la Teva misericòrdia i les fulgències del sol de la Teva generositat que, entre aquells a qui per res no els ha estat impedit de dirigir el seu semblant cap a Tu, m’hi comptis, oh Tu Senyor de tots els Noms i Faedor dels cels.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12567 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-107', 'bpn-unsorted']
 +++
 Oh Na’i Maromak! Halo ami hotu hanesan laloran tasi nian, hanesan ai-funan jardín nian, ho unidade, ne’ebé konkorda liuhosi domin husi Ita-Boot nia laran-luak. Oh Na’i! Haluan ami nia laran liuhosi Ita-Boot nia sinál unidade nian, no halo umanidade hotu-hotu hanesan fitun sira ne'ebé esklarese husi tutun Gloriozu ida de’it, hanesan ai-fuan perfeitu sira ne’ebé buras iha Ita-Boot nia ai-hun moris nian.

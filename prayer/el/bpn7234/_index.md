@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7234 in ελληνικά'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 *“Προσευχή που απαγγέλλεται στο τέλος της συνάντησης του Πνευµατικού Συµβουλίου”

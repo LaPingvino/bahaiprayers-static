@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9292 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Mon Dieu que je vénère et que j’adore !  J’atteste ton unité et ton unicité, et je reconnais tes dons passés et présents. Tu es le très Généreux, tu déverses les flots de ta miséricorde sur les petits comme sur les grands et tu répands les splendeurs de ta grâce sur le docile comme sur le rebelle.

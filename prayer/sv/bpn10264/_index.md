@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10264 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 ##LÅNG OBLIGATORISK BÖN

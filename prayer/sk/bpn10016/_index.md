@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10016 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Velebený si, ó Pane môj Bože! Nepokor toho, ktorého si povýšil silou Svojej večnej zvrchovanosti a neodožeň od Seba toho, ktorému si umožnil vstúpiť do svätostánku Svojej večnosti. Vari by si, ó môj Bože, zavrhol toho, koho si zatienil Svojím Panstvom a vari by si od Seba odvrhol, ó moja Túžba, toho, komu si bol útočiskom? Môžeš azda, ponížil toho, koho si pozdvihol či zabudnúť na toho, komu si umožnil, aby Ta spomínal?

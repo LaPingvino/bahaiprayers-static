@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn591 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O mein Gott und Meister! Ich bin Dein Diener und Deines Dieners Sohn. Zur Morgenstunde habe ich mich von meinem Lager erhoben, da die Sonne Deiner Einheit aus der Dämmerröte Deines Willens emporstieg und ihren Strahlenglanz über die Welt ergoss, wie es in den Büchern Deines Gebotes bestimmt ist.

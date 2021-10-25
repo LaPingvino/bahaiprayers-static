@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9221 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Glorifié sois-tu, ô Seigneur, mon Dieu ! Par tes élus, par les dépositaires de ta confiance et par celui que tu as désigné pour être le Sceau de tes prophètes et de tes messagers, je te supplie de permettre que ton souvenir soit mon compagnon, ton amour mon but, ta face l’objet de mon aspiration, ton nom ma lampe, ton souhait mon désir et ton bon plaisir mon bonheur.

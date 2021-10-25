@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1066 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Senhor! Lastimáveis somos nós: concede-nos o Teu favor. Somos pobres: dá-nos uma fração do oceano da Tua riqueza. Satisfaze as nossas necessidades e livra-nos da humilhação, através da Tua glória. As aves do céu, como os animais do campo, recebem de Ti o seu sustento diário, e todos os seres são objeto dos Teus cuidados e da Tua mercê.

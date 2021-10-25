@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5753 in ภาษาไทย'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-th', 'bpn-unsorted']
 +++
 ##บทอธิษฐานระหว่างถือศีลอด

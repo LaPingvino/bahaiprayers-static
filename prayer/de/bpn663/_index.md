@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn663 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 #EINMAL IN 24 STUNDEN, MITTAGS, ZU SPRECHEN

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2403 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Viņš ir Līdzjūtīgais, Viņš ir Augstsirdīgais.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5813 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ¡Oh Tu el rostre del Qual és l’objecte d’adoració de tots els que T’anhelen, la presència del Qual és l’esperança dels qui es troben completament consagrats a la Teva voluntat, la proximitat del Qual és el desig dels qui s’han acostat a la Teva cort, el semblant del Qual és el company dels qui han reconegut la Teva veritat, el nom del Qual és impulsor de les ànimes què anhelen contemplar el Teu rostre, la veu del Qual és la vertadera vida dels Teus amants, les paraules de la Teva boca són com aigües de vida per tots els qui estan al cel i la terra!

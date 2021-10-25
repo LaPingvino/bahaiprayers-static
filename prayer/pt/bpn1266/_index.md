@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1266 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvor a Ti, ó Tu que inclinas os Teus ouvidos para os suspiros dos que de todo o apego se livraram, exceto de Ti, e escutas a voz da lamentação daqueles que só a Ti se dedicam! Vês tudo o que lhes sobreveio nas mãos daquelas criaturas Tuas que transgrediram e se rebelaram contra Ti. A Tua grandeza dá-me testemunho, ó Tu que és o Rei dos domínios da justiça e o Governante das cidades da mercê! Tais foram as tribulações por eles sofridas, que nenhuma pena em toda a criação as pode contar. Fosse alguém tentar mencioná-las, achar-se-ia incapaz de as descrever.

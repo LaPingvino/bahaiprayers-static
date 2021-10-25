@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6131 in Chamorro'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 Asaina! Manna’ma’ase’ ham, na’i ham ni fabot-Mu; mamopble ham, na’i ham patte ginen i tasen i guinaha-Mu; meggai in nisisita, Hagu Un satesfecho ham; manmagacha’; na’i ham ni gloria-Mu. I paharo gi aire yan i ga’ga’ gi tano’ ma risisibi i aggon-ñiha kada diha ginen Hagu ya todu i manaotao mañasaonao gi inadahi-Mu yan gi yine’ase’ ginefli’e’-Mu.

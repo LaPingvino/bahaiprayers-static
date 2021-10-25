@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6276 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 *Mukungaanire wamu, mu ssanyu eritalinaamu nnyike, Olwo ku ntandikwo Y'olukkungaano lwamwe musome essaala eno:

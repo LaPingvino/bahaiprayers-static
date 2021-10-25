@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9107 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó góði Guð. Þú ert mér betri en ég sjálfur og kærleikur Þinn meiri og eldri. Hvenær sem ég er minntur á gjafir Þínar fyllist ég gleði og von. Hafi sál mín verið í uppnámi hlýt ég frið í sálu og hjarta. Hafi veikindi þjáð mig fæ ég eilíft heilbrigði. Hafi ég verið ótrúr verð ég trúr. Hafi ég verið vonlaus fyllist ég von.

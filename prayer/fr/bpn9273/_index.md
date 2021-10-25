@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9273 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô toi, le Bienfaiteur, tu souffles sur les amis d’occident les doux effluves de l’Esprit saint, et la lumière de ta providence éclaire leur ciel. Tu ramènes à toi ceux qui s’étaient éloignés. Tu transformes des inconnus en amis bienveillants. Tu éveilles ceux qui dorment. Tu rends attentifs les insouciants.

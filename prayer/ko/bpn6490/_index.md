@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6490 in 한국어'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 ##제 뱃속에 있는 아이를

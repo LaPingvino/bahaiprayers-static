@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8079 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O Du medfølende Herre, Du som er storsindet og har magt! Vi er Dine tjenere, skærmet af Dit forsyn. Kast Din nådes blik på os. Skænk lys til vore øjne, hørelse til vore øren og forståelse og kærlighed til vore hjerter. Gør vore sjæle glade og lykkelige ved Dine glade tidender. O Herre!

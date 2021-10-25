@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11079 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-97', 'bpn-unsorted']
 +++
 *બહાઈ વર્ષનો પહેલો દિવસ નવરોઝ 21મી માર્ચ આનંદમંગળનો દિવસ છે.

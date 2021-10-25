@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7615 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Li Ki Wa, Ki Konnen Tout Bagay, Ki Saj la!

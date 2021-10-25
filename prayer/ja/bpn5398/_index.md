@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5398 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 最も崇高なる御方、最高の御方、最も荘厳そうごんなる御方の御名にかけて。

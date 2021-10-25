@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5560 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 ## 火の書簡　

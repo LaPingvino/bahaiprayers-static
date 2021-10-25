@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10969 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E malu e o Koe, O te Aliki toku Atua!  Au e akai totuli kia Koe ona ko latou ko oti ne fakatonu ne Koe ke tautali ite Anapogi ona ko Tou alofa mo te fiafia lei, ko la ko oti ne fakaasi a te olotou tautali ki Tau tulafono kae usiusitai ki Au kupu mo akokaoga, kae ko la ko oti ne faka-gata a te olotou anapogi kae e fiafia ite olotou pili atu kia Koe kae lavea Ou mata.  I te matagofie o Koe!  Ona ko fuli atu latou ki kogaa-mea o Tou fiafia-lei, aso katoa o latou ne aso o te anapogi.  Moi fai ke muagutu atu a Tou finagalo kia latou kae fai atu penei: “Tautali, ona ko Au, a te anapogi, O tino, kae e se faka-tapulagia a tona leva,”  Au e molimau ite afioga o Tou matagofie, me ia latou katoa taki tokotasi ka tautali i ei mo te fakamaoni, ka se fai ne latou mea ko la ka soli a Tau tulafono, kae ka tumau o fai ne latou ke oko ki taimi a olotou agaaga ola ka tuku atu kia Koe, auaa ko oti latou ne tami ite suamalie o Tau kalaga, kae ko konaa latou i Tou masausauaga mo taveega mo muna e aumai i laugutu o Tau fakatonuuga.

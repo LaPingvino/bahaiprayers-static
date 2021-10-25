@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10305 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Min Gud, min älskade, min konung, min åstundan! Vilken tunga kan uttrycka  min tacksägelse till Dig? Jag var tanklös,  Du väckte mig. Jag hade vänt mig ifrån Dig, Du bistod mig i Din nåd att vända mig till Dig. Jag var som död, Du väckte mig med livets vatten. Jag var förtvinad, Du gav mig liv med det himmelska flödet av Dina ord som har strömmat från den Allbarmhärtiges penna.

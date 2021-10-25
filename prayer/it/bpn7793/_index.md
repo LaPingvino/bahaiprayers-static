@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7793 in Italiano'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Signore! Presso Te cerco riparo e verso tutti i Tuoi segni volgo il mio cuore.

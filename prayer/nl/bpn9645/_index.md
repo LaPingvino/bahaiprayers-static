@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9645 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Heer, mijn God en mijn schuilplaats in mijn wanhoop! Mijn schild en mijn beschutting in mijn leed! Mijn vrijplaats en mijn toevlucht in tijden van nood en in mijn eenzaamheid mijn metgezel! In mijn smart mijn trooster en in mijn verlatenheid een liefdevol vriend! Degeen die de pijn mijner droefenis wegneemt en mijn zonden verontschuldigt!

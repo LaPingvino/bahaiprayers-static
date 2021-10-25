@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8748 in हिंदी'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hi', 'bpn-unsorted']
 +++
 हे परम उदार! तू परिपूरक, तू रोगनिवारक, तू चिरन्तन, हे तू चिरन्तन !

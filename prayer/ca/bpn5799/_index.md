@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5799 in Català'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 En nom del Teu Senyor, el Creador, el Sobirà, el que a Tot és Suficient, el Més exaltat, Aquell l’ajuda del Qual tots els homes imploren.

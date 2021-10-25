@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11813 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Oku ngugai pingapunt Ingan, O Topa ku, bia mitia maaf tudu wat ulah gaya dek ingin Ingan tudu ulunt-ulunt Ingan ngan iyoh tanon odop-eh tudu Ingan. Oku ngugai Ingan odak mamiak ngisuk dosa-dosa koih samah timosok duwoh pritah Raja Ingan, bia ngapunt oku, pingoma-pingoma ku, bia osi sija nyaa dek fikir Ingan nang mbok molot boli pangirinduk Ingan daang ulah gaya dek layak daang kuasa ayuh Ingan bia dek dapod obuah terima ndu kuasa pingudus Ingan dek tipuji. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12455 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Hambelelwa, Omwene Kalunga kange! Ohandi kwilikana omo lwe hololo loYe eli la shitukifa Omulaulu uninge ouyelele, ou muwo ongulu yalushe yo ku linyongamena ya tungwa, no mwa tu likwa oshipelende shendyovo doYe, no muyo embo lendyovo doYe lapa ndyulwa, tuma kombada yange, no kombada ya veshe ava veli pamwe name yo itu ninge tu dule oku tukila keulu loshinge shoYe osho shidule endunge detu, tu kosha komanyono aeshe etu no komalimbililo oo tae twimbi tu kale kumwe mombili youli-umwe woYe.

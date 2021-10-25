@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12254 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E maluga a Tou Igoa, O ko Koe Tela e lavea a mea katoa kae e lilo foki mai i mea katoa!  Mai I fenua katoa e lagona ne Koe a fanoanoa o latou ko la e alofa kia Koe, kae mai i sose auala e sala atu ki tagitagi o latou kola ne iloa ne latou a Tou nofoaiga-aTupu.  Moi fai a latou kola e teke e fakafesili atu penei:  “Sea a la a te uiga ne teke iei kia latou kae taofi a latou faka-pafgota i 

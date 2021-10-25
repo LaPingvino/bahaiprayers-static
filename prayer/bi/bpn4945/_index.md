@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4945 in Vanuatu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 Ol preis i go long Yu, O God mo Masta blong mi!  Naoia wan niufala Mesej i kam we i mekem se ol dak ples i kasem laet. Mesej ia i mekem se Tabu Haos blong God i stanap, ol Raeting i klia, mo niufala Rod i open. Mi askem Yu blong givim long mi, mo long olgeta we i stap klosap long mi, evri samting we i save helpem mifala blong flae long heven blong glori blong Yu, we i hae tumas. Mo plis Yu givim ol samting we i save klinimaot long mifala ol nogud tingting we i mekem se sam man i no biliv long yuniti blong Yu.

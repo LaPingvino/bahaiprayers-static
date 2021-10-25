@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3153 in Afrikaans'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O God, my God! Ek smeek U by die oseaan van U genesing, en by die luister van die Dagster van U guns, en by U Naam waardeur U U diensknegte getem het, en by die deurdringende mag van U mees verhewe Woord en die krag van U mees grootse Pen, en by U genade, wat die skepping van almal wat in die hemel en op die aarde is, vooruitgegaan het, om my met die waters van U mildheid te suiwer van elke kwelling en aandoening, en van alle swakte en kragteloosheid.

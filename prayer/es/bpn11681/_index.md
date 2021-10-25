@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11681 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Alabado seas, oh Señor, mi Dios! Te imploro, por esta Revelación, mediante la cual la oscuridad ha sido convertida en luz, se ha erigido el Frecuentado Templo, se ha revelado la Tabla Escrita y se ha descubierto el Rollo Desplegado, que hagas descender sobre mí y sobre quienes están en mi compañía aquello que nos permita remontarnos a los cielos de Tu trascendente gloria y nos purifique de la mancha de las dudas que han impedido a los desconfiados entrar en el tabernáculo de Tu unidad.

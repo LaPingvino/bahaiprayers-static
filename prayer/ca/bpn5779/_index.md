@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5779 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 T’imploro, oh Déu meu, pel Teu poderós signe i per la revelació de la Teva gràcia entre els homes, que no m’allunyis de la porta de la ciutat de la Teva presència, ni frustris les esperances que he posat en les manifestacions de la Teva gràcia entre les Teves criatures. Tu em veus, oh Déu meu, agafant-me al Teu Nom, el Més Gran, el Més Lluminós, el Més Poderós, el Més Exaltat, el Més Gloriós i adherint-me a la vora del mantell al qual s’han adherit tots, en aquest món i el venidor.

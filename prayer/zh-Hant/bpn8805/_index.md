@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8805 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 我的上帝啊！許多冰冷的心已為祢聖道之火點燃，許多昏睡的人已被祢甜蜜之聲喚醒。多少異鄉客在祢獨一性之樹蔭下尋求庇護，多少干渴者期盼祢聖日活水甘泉的噴湧！

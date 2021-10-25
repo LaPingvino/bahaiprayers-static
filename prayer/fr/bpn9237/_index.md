@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9237 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est Dieu ! Ô Seigneur, mon Dieu, mon Bien-Aimé, tes serviteurs que voici ont perçu ta voix, ils ont prêté l’oreille à ta parole et entendu ton appel. Ils ont cru en toi, ils ont vu tes merveilles, reconnu ta preuve et ton signe. Ils ont marché dans tes pas, ils ont suivi tes conseils, ils ont découvert tes mystères et saisi les secrets de ton livre, les versets de tes manuscrits et les nouvelles contenues dans tes épîtres et tes tablettes. Ils se sont agrippés au pan de ton vêtement et se sont accrochés au manteau de ta lumière et de ta grandeur. Ton alliance a rendu leurs pas plus sûrs et ton pacte a fortifié leur cœur. 

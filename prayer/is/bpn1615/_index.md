@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1615 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *Í hvert sinn, sem þér gangið inn í ráðstefnuherbergið, hafið yfir þessa bæn með hjarta, sem slær af ást til Guðs, og tungu, sem er hrein af öllu nema minningu Hans, til þess að Hinn almáttugi megi náðarsamlega aðstoða yður við að vinna æðstan sigur:

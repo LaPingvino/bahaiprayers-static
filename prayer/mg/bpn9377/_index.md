@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9377 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitro ô, Andriamanitro! Fanantenako Ianao ary Malalako, Faniriako ambony indrindra sy Tanjoko! Amim-panetren-tena tanteraka sy am-panoloran-tena manontolo, mivavaka Aminao aho mba hanao ahy ho tilikambon’ny Fitiavanao ao amin’ny Taninao, jiron’ny Fahalalanao eo amin’ireo Voaharinao ary fanevan’ny Fahasoavan-danitrao ao amin’ny Fanjakanao.

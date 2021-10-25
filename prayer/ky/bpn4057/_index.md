@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4057 in Кыргыз'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ky', 'bpn-unsorted']
 +++
 Ал Куч-кубаттуунун өзү, Кечиримдүү , Бооркер!

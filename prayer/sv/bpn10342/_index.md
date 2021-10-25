@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10342 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Förhärligat vare Ditt namn, o Du som har vägledningens tyglar i Ditt grepp för alla de själar som har erkänt Dig, och i vars högra hand ödet vilar för alla dem som är i himlarna och på jorden! Du 

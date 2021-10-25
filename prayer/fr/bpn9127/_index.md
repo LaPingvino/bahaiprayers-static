@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9127 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Longue prière à réciter une fois par jour.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12034 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 *Dilafazkan tiga kali sehari: pagi, tengah hari dan petang.

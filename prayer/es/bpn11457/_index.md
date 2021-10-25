@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11457 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡En el Nombre de Dios, el Altísimo! ¡Alabado y glorificado eres Tú, Señor, Dios Omnipotente, ante Cuya sabiduría el sabio está falto de conocimiento y fracasa, ante Cuyo conocimiento el erudito confiesa su ignorancia, ante Cuyo poder el fuerte se debilita, ante Cuya riqueza el rico atestigua su pobreza, ante Cuya luz el iluminado está perdido en la oscuridad, hacia el templo de Cuyo conocimiento se vuelve la esencia de todo entendimiento, y en torno al santuario de Cuya presencia circulan las almas de toda la humanidad!

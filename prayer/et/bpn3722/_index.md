@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3722 in Eesti'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo Jumal, mu Jumal! See Sinu ümmardaja kutsub Sind, pannes oma usalduse Sinule, pöörates oma palge Sinu poole, anudes Sind, et Sa valaksid tema peale oma taevalikke ande ning avaldaksid talle oma vaimseid saladusi ja heidaksid tema üle oma Jumaluse valgust.

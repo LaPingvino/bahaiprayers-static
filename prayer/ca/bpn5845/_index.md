@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5845 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu meu! M’he girat penedit cap a Tu i veritablement Tu ets el Perdonador, el Compassiu.

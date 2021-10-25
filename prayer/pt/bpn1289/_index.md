@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1289 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ordena para mim, ó Senhor, todas as coisas boas que criaste, ou que criarás, e protege-me de qualquer mal que Tu abomines dentre as coisas que tens causado ou causarás a existir. Em verdade, o Teu conhecimento abrange todas as coisas. Louvado sejas Tu! Verdadeiramente, nenhum Deus há além de Ti, e nada, em absoluto, nos céus ou na terra e em tudo o que entre eles existe, jamais poderá frustrar o Teu Desígnio. Em verdade, potente és Tu sobre todas as coisas.

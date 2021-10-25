@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5175 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Engkau Tuhan Yang Maha Pengasih! Ya Engkau Yang Maha Kuasa dan Maha Kuat! Ya Engkau Tuhan Yang Maha Pemurah! Hamba-hamba ini telah berkumpul bersama, menghadap kepada-Mu, memohon kepada ambang pintu-Mu, meng-hasratkan pemberian- pemberian-Mu yang tak ada habisnya dari jaminan-Mu yang agung. Tiada tujuan bagi mereka melainkan keridhoan-Mu. Tiada maksud yang lain bagi mereka kecuali pengabdian kepada dunia insani.

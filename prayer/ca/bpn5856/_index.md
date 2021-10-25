@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5856 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu compassiu! Et dono gràcies per haver-me despertat i fet conscient. Tu m’has donat un ull què veu i m’has afavorit amb una oïda què escolta, m’has conduït al Teu regne i m’has guiat cap al Teu camí. Tu has indicat el camí vertader i m’has fet entrar a l’arca d’alliberament.

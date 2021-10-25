@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5289 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Gospodaru, ne sklanjaj sto svečano postavljen u Tvoje Ime i ne gasi žarki plamen zapaljen Tvojom neugasivom vatrom. Ne zaustavljaj Svoju živu vodu koja pjevuši stihove Tvoje slave i Tvog spomena i ne lišavaj sluge Svoje opojnog mirisa udahnutog Tvojom ljubavlju.

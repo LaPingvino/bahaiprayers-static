@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12127 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhanku, Rajaku, Tujuan hasratku. Hamba-Mu ini, hendak tidur di bawah perlindungan rahmat-Mu, dan beristirahat di bawah kubah kurnia-Mu, memohon pemeliharaan-Mu serta perlindungan-Mu.

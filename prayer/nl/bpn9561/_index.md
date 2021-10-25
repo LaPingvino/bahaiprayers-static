@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9561 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O mijn God! O mijn God! Waarlijk, ik roep U aan en smeek aan Uw drempel, en vraag U om al Uw barmhartigheid tot deze zielen te laten neerdalen. Maak hen geschikt voor Uw gunst en Uw waarheid.

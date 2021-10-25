@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10145 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O thou verdant plant of the Abhá Paradise! O thou tender sapling of the rose-garden of immortality!

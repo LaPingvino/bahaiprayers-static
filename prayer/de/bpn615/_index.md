@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn615 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Gelobt sei Dein Name, o Herr mein Gott! Finsternis hat sich auf alle Länder gesenkt, die Kräfte des Unheils umfangen alle Völker. Und doch erkenne ich darin Deiner Weisheit Glanz und Deiner Vorsehung strahlendes Licht.

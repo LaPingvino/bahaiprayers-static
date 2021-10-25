@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9681 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 In naam van Uw Heer, de Schepper, de Heerser, de Altoereikende, de Verhevenste, Hij Wiens hulp wordt afgesmeekt door alle mensen.

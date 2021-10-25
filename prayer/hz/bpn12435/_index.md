@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12435 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Hompa! Ghushuntu atwe, tu pe ko ufenkenda ghoye, ghepwe, tu pe ko ruha rwaungaro walikukukuro lyoye; vahepwe, tu hafite; twa didipitwa, tu pe shikoda shoye. Vidira vyamuwiru navikorama vyamuwiya kwa wananga kehe liyuva ndya davyo Koye, vishitwa navintje kwa hamena kulirero lyoye nkuunongo ghoye wakutekura.

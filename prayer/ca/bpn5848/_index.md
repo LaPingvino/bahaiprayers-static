@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5848 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh tu la proximitat del Qual és el meu desig, la presència del Qual és la meva esperança, el record del Qual és el meu anhel, la cort del Qual és el meu objectiu, l’habitacle del Qual és el meu propòsit, el nom del Qual és el meu guariment, l’amor del Qual és l’esplendor del meu cor, el servei del Qual és la meva elevada aspiració. T’imploro pel Teu Nom, mitjançant el qual has permès que aquells que t’han reconegut es remuntin a les més sublims altures del Teu coneixement i has facultat els qui T’adoren amb devoció perquè ascendeixin als recintes de la cort dels Teus sagrats favors, que m’ajudis a girar el meu rostre cap el Teu semblant, a fixar els meus ulls en Tu i a fer menció de la Teva glòria.

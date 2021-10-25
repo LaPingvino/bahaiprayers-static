@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn474 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O mein Herr! O mein Herr!

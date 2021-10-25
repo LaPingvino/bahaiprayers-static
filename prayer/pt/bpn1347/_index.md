@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1347 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Deus, dou testemunho de que Tu, desde toda a eternidade, nada fizeste descer sobre os Teus servos senão aquilo que causasse a sua elevação, a sua aproximação de Ti e a sua ascensão ao céu da Tua transcendente Unidade. Estabeleceste os Teus limites entre eles, ordenando que fossem como evidências da Tua justiça e sinais da Tua misericórdia entre as Tuas criaturas, a cidadela da Tua proteção em meio ao Teu povo, a fim de que homem algum no Teu reino transgredisse contra o seu próximo. Como é grande a bem-aventurança daquele que por amor a Tua beleza e a Teu prazer, reprimiu os desejos de uma inclinação corrupta e observou os preceitos fixados pela Tua Pena excelsa! Ele, em verdade, há de ser incluído no número dos que atingiram todo o bem e seguiram o caminho apontado por Ti.

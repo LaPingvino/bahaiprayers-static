@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2438 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Kā gan man gulēt, ak Dievs, mans Dievs, ja acis ir nomodā tiem, kas atšķirtībā ilgojas pēc Tevis, un kā gan iet man pie miera, ja dvēseles ir gauži satrauktas tiem, kas tālumā no Tevis Tevi mīl?

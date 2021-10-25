@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3181 in Afrikaans'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Verheerlik is U, o my God! Ek lewer U dank dat U Hom Wat die Daeraad van U barmhartigheid is en die Bron van u genade, en die Bewaarplek van U Saak, aan my bekend gemaak het. Ek smeek U by U Naam, waardeur die gelate van diegene wat naby is wit geword het, en die harte van dié wat toegewyd aan U is na U gevlieg het, om te vergun dat ek te alle tye en onder alle omstandighede aan U koord mag vashou, en ontslae mag wees van alle gehegtheid aan enigeen behalwe U, en my oë in die rigting van die horison van U Openbaring gevestig mag hou, en uitvoering mag gee aan wat U vir my in U Tafels voorgeskryf het.

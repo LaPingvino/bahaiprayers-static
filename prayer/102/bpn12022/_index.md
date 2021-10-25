@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12022 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Uly Durkuňdan äşgär bolan Alkyş we Äbha, Jemalyňdan saçylýan ýalkym Seniňdir Eý Beýiklik nyşany, Bakylygyň Soltany we ýerde-gökde bolan bar zatlaryň Eýesi!

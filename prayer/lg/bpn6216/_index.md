@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6216 in Luganda'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 ##ESSALA EY'ETTEEKA ENYIMPI

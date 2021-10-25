@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7312 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, dobry Panie! Łaskawie obdarz parą niebiańskich skrzydeł każde z tych piskląt i daj im duchową moc, aby mogły poszybować przez bezkresną przestrzeń i wznieść się na wyżyny Królestwa Abhá. 

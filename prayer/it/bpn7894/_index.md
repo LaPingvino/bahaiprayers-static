@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7894 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Egli è il Benevolo, il Generosissimo!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12908 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô toi, Seigneur de bonté! Ces âmes qui t’aiment sont rassemblées et enivrées par ton amour. Ta beauté rayonnante les transporte et tes boucles embaumées de musc les fascinent. Elles t’abandonnent leur cœur et, humbles et sans défense, elles errent en ton chemin. Elles délaissent amis comme étrangers et s’attachent à ton unicité, s’inclinant en adoration devant toi. 

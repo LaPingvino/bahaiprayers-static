@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6848 in हिंदी'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hi', 'bpn-unsorted']
 +++
 हे मेरे परमेश्वर!

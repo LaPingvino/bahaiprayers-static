@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6589 in 한국어'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 주님의 종들, 주님의 성자들을

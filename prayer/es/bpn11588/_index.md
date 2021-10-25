@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11588 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Gloria sea a Ti, oh mi Dios! Una de Tus siervas, que ha creído en Ti y en Tus señales, se ha puesto a la sombra del árbol de Tu unicidad. Dale de beber, oh mi Dios, por Tu Nombre, el Manifiesto y el Oculto, de Tu selecto Vino sellado, para que la aleje de sí misma y haga que esté enteramente consagrada a Tu recuerdo y completamente desprendida de cualquiera que no seas Tú.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11865 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Mulia manah adon Ingan, O Raja Topa ku! Oku nguwai Ingan pakai kuasa Ingan dek mbok pilulung sua onik dek obuah motan, bia pakai kedaulatan Ingan dek mbok ngilobih seginap dek obuah motan, bia pakai Bang Sina Ingan dek bisukant daang bijakponai Ingan bia lugan inoh Ingan ogi nai surga Ingan duoh tanak Ingan, soduwoh-duwoh noh ngan-eh odak koih ponai binaan daang pangirinduk koih sa’ant Ingan bia daang kepatuhan koih tudu paguh moon Ingan, bia ngibotoh ninga ndu jowin Ingan, bia ngaluh mulia Ingan. Ngin kuasa tudu koih, adin, O Topa ku, pakai kapah katik kanih tanda-tanda Ingan diantara manusia Ingan, bia pakai ngan-eh jaga Agama Ingan daang alam Ingan. Ingan mbok pernah wujud pak sadik ndu sina bobak simun-mun pimotan Ingan, bia totap Ingan wat inoh –inoh sok dek mula bia dek adu-adu.

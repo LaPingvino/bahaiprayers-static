@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12482 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O Lord, I have turned my face unto Thy kingdom of oneness

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7560 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Sinä tosi Jumala! Suo, että näistä ohjauksesi virran rannalla versoneista nuorista puista tulisi kukoistavia ja viheriöiviä laupeutesi pilvien sateiden avulla. Anna ykseytesi niityiltä puhaltavien lempeitten tuulten innoittaa heitä ja salli Todellisuuden auringon säteiden virkistää heitä, niin että he voisivat alati kasvaa ja kukoistaa sekä puhjeta kukkaan ja kantaa hedelmää.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11747 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Daukaka ta tabbata a garēka yā Ubangiji Allah! Ina rōƙon ka ɗaga gizāgizan cikakkiyar rahamarka, ka zubo ruwan da zai wanke zukācen bāyinka da duka dauɗar da zā ta kāre huskarsu da dūbin wajenka, dōmin dukan gabāɗayansu, su bāda gaskiya a garēka, kai da ka rāyā su, ka halicce su. Ka taimake su yā Allah! Ta wajen girman īkonka, su sāmu dāmar shiga cikin hālin da zā su iya bambanta ƙamshin turāren tufāfin wanda ka ɗaukakā da sūnanka, maɗaukaki, don su sāmu dāmar ƙaunar ka, kuma su ɗanɗana dāɗin sāduwa da kai, ta yanda, kō dā zā su sāmu duka dūkiyar da kē sama da ƙasa, bā zā su daina yabon ka ba, kō su daina ɗaukaka sūnanka.

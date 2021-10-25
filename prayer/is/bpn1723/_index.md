@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1723 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð, ó Þú sem hefur varpað ljóma Þínum á geislandi veruleika mannanna, úthellt yfir þá skínandi ljósi þekkingar og leiðsagnar og útvalið þá úr allri sköpun fyrir þessa guðdómlegu náð og látið þá bera skyn á alla hluti skapaða, skilja innsta kjarna þeirra, afhjúpa leyndardóma þeirra og leitt þá út úr myrkrinu inn í sýnilega heiminn. „Hann sýnir vissulega sérstaka náð sína hverjum sem Honum þóknast.“¹

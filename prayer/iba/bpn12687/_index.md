@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12687 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Lebuh orang ti bedosa nemu diri empu diingkas lengis sereta lepas ari semua utai kelimpah ari Petara, iya patut minta ampun enggau tembang ari Iya. Madahka dosa enggau penyalah diri ngagai mensia bukai endang enda dikemendar, laban utai ti baka nya nadai sereta enda deka pulai ke pemanah ampun suchi. Tambah mega madahka penyalah baka nya ba mua mensia semina ngemalu sereta ngemaruhka diri, lalu Petara—tinggi meh mulia Iya—enggai ke bala pengasuh Iya dikemalu. Amat bendar Iya meh ti Penyinu, ti Pengasih. Orang ti bedosa patut, antara iya empu enggau Petara, minta enggau pemaruh ati ari Tasik pengasih, minta ampun ari Serega pementas lalu nyebut:

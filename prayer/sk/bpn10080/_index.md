@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10080 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Bože, ktorý si Pôvodcom všetkých Prejavov, Prameňom Prameňov, Žriedlom všetkých Zjavení a Zdrojom všetkých Svetiel! Dosvedčujem, že Tvojím menom boli ozdobené nebesá porozumenia, prostredníctvom neho sa vzdul oceán prejavu a nasledovníkom všetkých náboženstiev bolo prehlásené to, čo zoslala Tvoja prozreteľnosť.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7742 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Ou menm Bondye Ki plen mizèrikòd la! O Ou menm Ki rete pisan e plen pouvwa! O Ou menm Papa Ki pi janti a! Sèvitè sa yo reyini ansanm, yo vire nan direksyon Ou, y’ap sipliye nan papòt Ou a, yo anvi jwenn favè san limit Ou yo ki soti nan gran garanti Ou. Yo pa gen okenn objektif sof bon plezi Ou. Yo pa gen okenn dezi esepte sèvi limanite. 

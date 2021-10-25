@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5367 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 彼こそは祈りを聞き、祈りに答え給う神におわします。

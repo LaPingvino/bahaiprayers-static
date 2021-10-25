@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn550 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Preis sei Dir, o mein Gott! Ich bin Dein Diener, der an Dich und Deine Zeichen glaubt. Du siehst, wie ich mich dem Tor Deines Erbarmens zuwende und mein Antlitz auf Deine Gnade richte. Ich flehe Dich an bei Deinen höchsten Namen und Deinen erhabensten Eigenschaften, öffne meinen Blicken die Pforten Deiner Gaben. Hilf mir sodann zu tun, was recht ist, o Du, dem alle Namen und Eigenschaften eigen sind!

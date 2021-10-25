@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10789 in Srpski српски'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 *Postoje  tri dnevne obavezne molitve…Vernik je slobodan da odabere bilo koju od ove tri molitve, ali je u obavezi da deklamuje jednu od njih u skladu sa uputstvima datim uz nju.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6867 in Papiamentu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pap', 'bpn-unsorted']
 +++
 *Lord! Pitiful are we, grant us Thy favor… 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10801 in Chichewa'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ny', 'bpn-unsorted']
 +++
 *Iye amene afuna kunena Pempheroli, ayenera kuyimirira ndipo atembenukire kwa Mulungu, ndipo poimirira pamalo akewo, iye ayang’ane kudzanja lamanja ndi lamanzere, ngati kuti akuyembekezera chifundo cha Ambuye Wake, Wachifundo-Choposa, Womvera Chisoni. 

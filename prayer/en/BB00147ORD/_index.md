@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BB00147ORD in English'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-en', 'BB00147ORD']
 +++
 Ordain for me, O my Lord, and for those who believe in Thee that which is deemed best for us in Thine estimation, as set forth in the Mother Book, for within the grasp of Thy hand Thou holdest the determined measures of all things.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7832 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Gloria sia a Te, o Tu Dio del mondo e Desìo, delle nazioni, o Tu Che Ti sei manifestato nel Più Grande Nome, per il quale le perle della saggezza e dei detti sono emerse dalle conchiglie del vasto oceano del Tuo sapere e i cieli della rivelazione divina sono stati adornati con la luce dell’apparizione del sole del Tuo sembiante!

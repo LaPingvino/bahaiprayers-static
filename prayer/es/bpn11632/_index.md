@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11632 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Soy consciente, oh Señor, de que mis transgresiones me han cubierto el rostro de vergüenza en Tu presencia, y han cargado mi espalda ante Ti, se han interpuesto entre Tu hermoso semblante y mi ser, me han circundado y me han impedido por todos lados el acceso a las revelaciones de Tu poder celestial.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH03181 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH03181']
 +++
 He is the Bestower, the Bounteous!

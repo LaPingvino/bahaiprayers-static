@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1752 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn, Guð minn! Lof og þökk sé Þér að Þú hefur leitt mig að þjóðbraut ríkisins, leyft mér að ganga þennan langa og beina veg, upplýst auga mitt með birtunni af ljósi Þínu, seitt eyra mitt með söngljóðum fugla heilagleika úr dularheimum og fangað hjarta mitt með ást Þinni meðal hinna réttlátu.

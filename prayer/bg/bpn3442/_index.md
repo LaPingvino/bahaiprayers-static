@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3442 in български'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bg', 'bpn-unsorted']
 +++
 ##Разкрита за бахаите от канада и гренландия

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9252 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Dieu atteste l’unité de sa divinité et l’unicité de son Etre. Du trône de l’éternité, des hauteurs inaccessibles de son rang, sa langue proclame qu’il n’est de Dieu que lui. Indépendamment de tout autre, il a toujours témoigné de son unité, révélé sa nature et glorifié son essence. Il est, en vérité, le Très-Fort, le Tout-Puissant, le Magnifique.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7893 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O mio Dio, Dio di munificenza e di misericordia! Tu sei il Re dalla Cui parola sovrana l’intera creazione è stata chiamata al-l’esistenza e sei il Munifico, Cui le azioni dei Suoi servi non hanno mai impedito di mostrare la Sua grazia e di rivelare la Sua munificenza.

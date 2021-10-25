@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6328 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Hompa, Karunga gwange! Ove Mudongononipononzo, mutungike yigava, mutundisipo ruguwo!

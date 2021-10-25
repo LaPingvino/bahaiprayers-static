@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2825 in Shqip'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Perëndi, Perëndia im! Ti je Shpresa ime dhe i Shumëdashuri im, Qëllimi dhe Dëshira ime më e lartë! Me përunjësinë më të madhe e me përkushtim të plotë, të lutem Ty më bëj mua minare të dashurisë Sate në tokën Tënde, dritë të dijes Sate midis krijesave të Tua dhe flamur të bujarisë hyjnore në mbretërinë Tënde.

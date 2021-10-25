@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn545 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist der Mächtige, der Vergeber, der Mitleidvolle!

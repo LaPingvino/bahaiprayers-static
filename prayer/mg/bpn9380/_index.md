@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9380 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Tompoko ô! Fantatrao fa voahodidin’ny fijaliana sy ny lozabe ny olombelona, ao anaty zava-tsarotra sy  fikorontanana. Ny fitsapana rehetra dia samy mamely ny olona ary ny fahoriana mahamay rehetra dia manafika azy toy ny fanafihan’ny menarana. Tsy misy fialofana sy fierena ho azy afa-tsy eo ambany elatry ny Fiarovanao, ny Fiahianao, ny Fiambenanao sy ny Fikarakaranao.

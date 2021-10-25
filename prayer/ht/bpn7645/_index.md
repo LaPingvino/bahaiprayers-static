@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7645 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Nou ba Ou lwanj ak glwa, O Bondye mwen! Mwen sipliye Ou, poutèt soupi amoure Ou yo e poutèt dlo k’ap koule nan je moun ki anvi wè Ou, pou pa anpeche mwen jwenn dous mizèrikòd Ou yo nan Jou Ou a, ni pou pa anpeche mwen tande melodi zwazo Kolonb la k’ap chante lwanj sou linite Ou devan limyè a k’ap klere nan figi Ou. Mwen se yon moun ki nan soufrans, O Bondye! Gade jan m’ap kenbe fèm ak Non Ou, Sila a Ki Posede Tout Bagay. Mwen konnen mwen pral peri; gade jan mwen kenbe fèm ak Non Ou, Sila a Ki p’ap janm peri a. Poutèt sa, mwen sipliye Ou poutèt Ou menm, Egzalte a, Ki Pi Wo a, pou pa abandone mwen pou kont mwen ni pa kite mwen tonbe nan dezi ki soti nan yon move anvi. Kenbe men mwen avèk men pouvwa Ou, sove mwen anba tout panse lejè ak imajinasyon initil mwen yo, epi pwòpte mwen kont tout sa Ou rayi. 

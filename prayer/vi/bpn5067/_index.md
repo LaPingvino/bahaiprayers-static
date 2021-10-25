@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5067 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Ngài thật đáng ca ngợi, lạy Ngài là Thượng Đế của con. Bởi quyền năng Ngài, con xin đoan quyết như thế. Những tai họa dồn dập đã ngăn trở Ngòi Bút Đấng Tối cao phô bày điều đã được giấu kín đối với mắt tạo vật Ngài và những thử thách không ngừng đã ngăn trở lưỡi Đấng An bài thiêng liêng công bố những kỳ công của sự tôn vinh Ngài và sự ca tụng Ngài. Lạy Thượng Đế của con, với ngọn lưỡi ấp úng con cầu khẩn Ngài và với ngòi bút đớn đau này con xin hiến dâng vào việc tôn vinh Danh Ngài.

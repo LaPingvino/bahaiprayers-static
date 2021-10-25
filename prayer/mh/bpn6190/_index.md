@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6190 in Marshallese'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mh', 'bpn-unsorted']
 +++
 ##BAMLE 

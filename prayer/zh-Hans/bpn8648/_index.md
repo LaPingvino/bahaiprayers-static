@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8648 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的上帝啊！赞美归于祢。这些是祢的仆役，他们受祢慈爱芬芳的吸引，被祢独一圣树上的烈火燃烧；看见祢独尊之西奈山的闪耀之光，他们的目光变得更加明亮。

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5018 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Ngài là Đấng Đại lượng, Đấng Thượng Đế Từ ái hoàn toàn! Lời chúc tụng xin dâng lên Thượng Đế, Đấng Cố cựu, Đấng Bất di Bất dịch, Đấng Bất biến, Đấng Vĩnh cửu! Bởi chính Bản thể Ngài, Ngài chứng nhận rằng Ngài là Đấng Đơn nhất, Đấng Duy nhất, Đấng Độc lập, Đấng Tối cao.

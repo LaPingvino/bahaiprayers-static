@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11810 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Takal Aluak Dik Nye Yak Bo’os)

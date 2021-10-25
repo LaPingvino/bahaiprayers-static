@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8531 in 简体中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 以我主——造物主、至高君王、满足一切者、至尊者、万民求助者的名义。

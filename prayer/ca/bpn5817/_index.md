@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5817 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Tu, davant la terrible majestat del Qual totes les coses s’han estremit, en el poder del Qual estan els assumptes de tots els homes, cap a la gràcia i misericòrdia del Qual es giren els rostres de totes les Teves criatures! Jo et suplico, pel Teu Nom, el qual has ordenat que sigui l’esperit de tots els noms que estan en el regne dels noms, que ens protegeixis de les murmuracions d’aquells que s’han apartat de Tu, i han repudiat la veritat del Teu molt august i exaltadíssim Ser, en aquesta Revelació que ha fet estremir el regne dels Teus noms.

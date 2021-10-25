@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11620 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh mi Dios, mi Maestro, el Objeto de mi deseo! Este siervo Tuyo busca dormir al amparo de Tu misericordia y reposar bajo el dosel de Tu gracia, implorando Tu cuidado y Tu protección.

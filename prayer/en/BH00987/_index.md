@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH00987 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH00987']
 +++
 #Long Obligatory Prayer

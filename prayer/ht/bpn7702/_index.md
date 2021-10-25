@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7702 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *“Maryaj Bahá’í se yon angajman ant de moun, youn pou lòt, epi atachman yo, youn pou lòt, lespri ak kè. Kanmenm, chak nan yo ta dwe pote anpil atansyon pou yo chèche rekonèt karaktè lòt la, pou pèmèt angajman fèm ant yo ta tounen yon relasyon ki pral kontinye pou tout tan. Bi yo ta dwe: vin konpayon ki plen lanmou ak bon zanmi, ini ansanm pandan lavi sa a e pou tout tan ….

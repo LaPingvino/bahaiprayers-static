@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7847 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 In nome di Dio l’Altissimo! Lodato e glorificato sei Tu, o Signore Onnipotente Iddio! Tu, innanzi alla Cui saggezza il saggio è menomato e inetto, innanzi al Cui sapere il sapiente confessa la propria ignoranza, innanzi alla Cui potenza il forte si fa debole, innanzi alla Cui ricchezza il ricco attesta la propria povertà, innanzi alla Cui luce l’illuminato è sperso nel buio, verso il reliquiario del Cui sapere si volge l’essenza di ogni comprensione, e intorno al santuario della Cui presenza gravitano adoranti le anime di tutta l’umanità. 

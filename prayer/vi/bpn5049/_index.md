@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5049 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con! Đây là tôi tớ Ngài, và là con của tôi tớ Ngài, đã đặt tin tưởng nơi Ngài và nơi các dấu hiệu của Ngài, đã hướng mặt về Ngài và hoàn toàn dứt bỏ mọi sự ngoài Ngài. Quả thật Ngài là Đấng Bác ái nhất trong những Đấng Bác ái.

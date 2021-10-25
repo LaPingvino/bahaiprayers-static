@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10025 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Bože, môj Bože! Naplň pre mňa pohár odpútanosti od všetkých vecí a v záplave Svojej žiary a darov ma rozveseľ vínom lásky k Tebe. Osloboď ma od útokov vášne a túžob, prelom vo mne putá tohto pozemského sveta, priveď ma v duchovnom vytržení do Svojej nebeskej ríše a medzi Svojimi služobníčkami ma osviež vánkom Svojej svätosti.

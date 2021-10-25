@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5782 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Reuniu-vos amb alegria sens màcula, i reciteu aquesta oració al principi de la reunió:

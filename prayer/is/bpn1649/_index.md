@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1649 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Drottinn minn! Drottinn minn! Ég vegsama Þig og þakka Þér fyrir það, sem Þú hefur af örlæti Þínu gefið auðmjúkri þernu Þinni og ambátt, sem biður til Þín og sárbænir Þig sakir þess að Þú hefur sannlega leitt hana til Þíns augljósa konungs­ríkis og leyft henni að hneigja eyru sín að upphöfnu kalli Þínu í hinni jarðnesku veröld og líta táknin, sem sanna birtingu Þíns sigursæla herradóms yfir öllu sem skapað er.

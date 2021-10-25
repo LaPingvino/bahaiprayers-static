@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1251 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é o Deus que ouve e atende as orações! Pela Tua glória, ó meu Bem-Amado, Tu que dispensas luz ao mundo! As chamas da separação consumiram-me e a minha desobediência dissolveu o meu coração. Peço-Te, pelo Teu Nome Supremo, ó Tu, Desejo do mundo e Bem-Amado dos homens! Permite que os sopros da Tua inspiração sustentem a minha alma, a Tua Voz maravilhosa atinja os meus ouvidos e os meus olhos contemplem os Teus sinais e a Tua luz, revelados nas manifestações dos Teus nomes e atributos, ó Tu em cujas mãos se acham todas as coisas!

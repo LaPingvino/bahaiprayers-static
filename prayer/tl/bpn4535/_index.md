@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4535 in Filipino'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Ang dalanging ito, na inihayag ni ‘Abdu’l-Bahá, ay binabasa sa Kaniyang Dambana. Ginagamit din ito sa pansariling panalangin.

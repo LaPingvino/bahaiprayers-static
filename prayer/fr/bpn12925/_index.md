@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12925 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est le Très-Glorieux, le Très-Lumineux. 

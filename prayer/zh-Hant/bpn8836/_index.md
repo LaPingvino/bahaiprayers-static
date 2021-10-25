@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8836 in 繁體中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 主啊，我明白：我的罪過讓我在祢尊前滿面羞愧，它們使我的背脊不堪重負，並攪擾我朝見祢的聖美容顏，它們將我團團圍住，從四面八方將我截堵，使我難以獲得祢神聖威權的啟示。

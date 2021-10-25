@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9559 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Ik prijs U, o mijn God, aangezien de geur van Uw goedertierenheid mij in vervoering heeft gebracht, en de zachte bries van Uw barmhartigheid mij in de richting van Uw milddadige gaven heeft doen neigen. Laat mij, o mijn Heer, uit de hand van Uw goedertierenheid drinken van het levende water waardoor eenieder die ervan gedronken heeft zich heeft kunnen ontdoen van alle gehechtheid aan iemand buiten U, en zijn vlucht heeft kunnen nemen naar de sferen van onthechting van al Uw schepselen, en zijn oog heeft kunnen vestigen op Uw liefdevolle voorzienigheid en Uw veelvuldige gaven.

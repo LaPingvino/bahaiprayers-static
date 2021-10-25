@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5918 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Lloat siguis, oh Senyor Déu meu! Tu veus i saps què he cridat als Teus serfs a tornar-se sols cap els Teus dons, i els hi he demanat que observin sols allò què Tu vas prescriure al Teu perspicaç Llibre, el Llibre què ha estat enviat d’acord amb el Teu inescrutable decret i el Teu irrevocable propòsit.

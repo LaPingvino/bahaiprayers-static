@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7350 in Polski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O mój Boże, mój Panie i mój Mistrzu! Odłączyłem się od mych bliskich i w Tobie szukałem niezależności od wszystkich, którzy zamieszkują ziemię, zawsze gotowy przyjąć wszystko, co jest godne pochwały w Twoich oczach. Obdarz mnie takim dobrem, które uczyni mnie niezależnym od wszystkiego prócz Ciebie i udziel mi obfitszej miary Twoich nieograniczonych darów. Zaprawdę, Ty jesteś Panem łaski bez końca.

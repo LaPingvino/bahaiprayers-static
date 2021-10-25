@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8241 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Manifest, the Hidden, the All-Glorious, the All-Knowing, the Ever-Forbearing.

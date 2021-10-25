@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4899 in Azərbaycan'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 *Bakı Bəhailərinin-Allahın nuru üzərlərinə olsun-nəzərinə!

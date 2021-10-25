@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9350 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Voninahitra ho Anao, ry Andriamanitro ô! Raha tsy ny fijaliana izay iaretany eo amin’ny lalanao, amin’ny fomba ahoana no ahazoana mahafantatra ny tena tia  Anao; ary raha tsy ny fizahan-toetra nozakaina noho ny fitiavana Anao, ahoana no ahazoana maneho ny laharan’ireo izay maniry fatratra Anao? Ny Herinao no vavolombelona amin’izany! Ny mpiara-dalana amin’ireo rehetra izay mitsaoka Anao dia ny ranomaso izay arotsany, ary ny mpampionona ireo izay mitady Anao dia ny fitolokoany ary ny sakafon’ireo izay dodona amin’ny fihaonana Aminao dia ny singan’ny fony torotoro.

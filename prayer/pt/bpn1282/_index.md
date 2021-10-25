@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1282 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó Senhor meu Deus! Nada, em absoluto, escapa ao Teu conhecimento, nem há coisa alguma que de Ti possa evadir-se ou que possa frustrar o Teu Desígnio, quer nos céus ou na terra, do passado ou do futuro.

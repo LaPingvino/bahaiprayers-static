@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5486 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお神よ、この子らを養い給え。この子らはあなたの果樹園の若木であり、あなたの

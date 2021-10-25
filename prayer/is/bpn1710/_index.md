@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1710 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Vegsamað sé nafn Þitt, ó Drottinn Guð minn! Þú ert sá sem tilbeðinn er af öllu, en ekki til­biður neitt, Drottinn alls en ekki þjónn neins, þekkir allt en ert öllu dulinn. Þú vildir kunngera Þig mönnunum. Því gafst Þú sköpuninni líf með orði af vörum Þér og mótaðir alheiminn. Enginn er Guð nema Þú, völundurinn, skaparinn, hinn al­máttugi og voldugasti.

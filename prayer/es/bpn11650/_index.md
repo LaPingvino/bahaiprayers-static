@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11650 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Glorificado eres, oh Señor, mi Dios! Toda persona de discernimiento confiesa Tu soberanía y Tu do-minio, y todo ojo perspicaz percibe la grandeza de Tu majestad y la fuerza irresistible de Tu poder. Los vientos de las pruebas son incapaces de impedir que quienes gozan de Tu cercanía vuelvan el rostro hacia el horizonte de Tu gloria, y las tempestades de las tribulaciones no podrán alejar a quienes están totalmente consagrados a Tu voluntad ni evitar que se acerquen a Tu corte.

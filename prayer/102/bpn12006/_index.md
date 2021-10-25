@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12006 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Päk we Mukaddes Sen Eý meniň Taňrym.

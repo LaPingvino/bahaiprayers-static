@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB04620 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB04620']
 +++
 *Prayer to be said at the close of the meeting of the Spiritual Assembly.

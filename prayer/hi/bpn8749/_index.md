@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8749 in हिंदी'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hi', 'bpn-unsorted']
 +++
 *(यह पाती बाब और बहाउल्लाह की सामधियों पर पढ़ी जाती है। उनकी बरसी पर भी अक्सर इस पाती का पाठ किया जाता है।)

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8138 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O min Gud! O min Gud! Æret være Du fordi Du har bekræftet mig i erkendelsen af Din enhed, har draget mig til Dit enestående ord, optændt mig med ilden i Din kærlighed og beskæftiget mig med tale om Dig og med at tjene Dine venner og tjenerinder.

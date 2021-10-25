@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1767 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *Í Kitáb-i-Aqdas segir: „Vér höfum boðið yður að biðja og fasta frá upphafi fullþroska (15 ára aldri); þetta er ákvarðað af Guði, Drottni yðar og Drottni feðra yðar. . . . Ferðalangurinn, hinn sjúki, konur sem eru barns­hafandi eða hafa barn á brjósti, þurfa ekki að fasta. . . . Neytið hvorki matar né drykkjar frá sólarupprás til sól­seturs, og varist að láta ástríðu svipta yður þeirri náð, sem áformuð er í þessari bók.“

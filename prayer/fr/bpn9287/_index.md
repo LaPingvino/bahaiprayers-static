@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9287 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu de clémence, tournés vers ton royaume ces serviteurs recherchent ta miséricorde et ta bonté. Ô Dieu, pour qu’ils soient dignes de ton amour, rends leur cœur bon et pur. Pour que le Soleil de réalité brille sur eux, purifie et sanctifie leur esprit. Pour qu’ils perçoivent ta lumière, purifie et sanctifie leurs yeux. Pour qu’ils entendent l’appel de ton royaume, purifie et sanctifie leurs oreilles.

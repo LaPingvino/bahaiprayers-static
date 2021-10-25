@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12632 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Nuan Tuhan ti nelap! Tu bala pengasuh Nuan ti udah begempuru ba aum tu, ngadap perintah Nuan lalu begunaka pemeri enggau berekat Nuan. O Nuan Petara! Ayan sereta pandangka tanda penyatu Nuan ti udah ditukuh ba semua realiti pengidup. Pegari sereta kerembaika pemanah ti udah ditaruh sereta dipelam Nuan dalam semua realiti mensia tu.

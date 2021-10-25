@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12651 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Uji barang sapa ti deka bejalai ngajar ngagai tempat bukai, bacha enggau silik sambiang tu baika nya ba bukit, ba padang pasir, ba tanah enggau ba tasik:

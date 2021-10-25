@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11724 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Ka cē : ɗaukaka ta tabbata a garēka, kai da ka sā duka waliyyai suka yarda da kāsāwarsu gaban cikakken īkonka, kuma ka sā kōwane manzonka, ya tabbata cēwa, shi bā kōmi nē ba gaban managartacciyar ɗaukakarka marar iyāka.

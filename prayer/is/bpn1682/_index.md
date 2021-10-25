@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1682 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð! Ó Guð! Þú sérð veikleika minn, smæð og auðmýkt frammi fyrir skepnum Þínum, samt hef ég reitt mig á Þig og hafist handa um að efla kenningar Þínar meðal staðfastra þjóna Þinna í trausti á vald Þitt og mátt!

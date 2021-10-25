@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9306 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Gloire à toi, ô Seigneur, mon Dieu ! En ces jours, tu enjoins à tous les hommes d’observer le jeûne. Que ce jeûne purifie leur âme et les affranchisse de tout attachement à un autre que toi, que de leur cœur s’élève ce qui est digne de la cour de ta majesté et du siège de la révélation de ton unité !

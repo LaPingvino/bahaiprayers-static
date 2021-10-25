@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1739 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrð sé Þér, ó Drottinn, sem kallað hefur til verundar allt sem skapað er í krafti skipunar Þinnar.

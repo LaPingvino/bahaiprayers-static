@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10015 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Povinná modlitba za zosnulých

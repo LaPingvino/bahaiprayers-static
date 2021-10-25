@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9525 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 *Eens in de vierentwintig uur te reciteren, in de middag

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8746 in हिंदी'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hi', 'bpn-unsorted']
 +++
 परम प्राचीन परम महान ईश्वर के नाम पर !

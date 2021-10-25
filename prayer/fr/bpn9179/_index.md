@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9179 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Gloire à toi, ô mon Dieu ! Sans les tribulations endurées dans ton chemin, comment pourrait-

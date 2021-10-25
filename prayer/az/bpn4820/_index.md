@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4820 in Azərbaycan'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən yaxşı bilirsən, Ey mənim Allahım, bəlalar hər tərəfdən mənim üstümə yağır və Səndən başqa heç kim onları nə qova, nə də dəf edə bilər. Mənsə Sənə olan eşqimin gücü ilə yəqin bilirəm ki, Sən bir kəsin məqamını Öz səmavi Cənnətində yüksəltmək və onun qəlbini bu dünyada Öz yenilməz qüdrətinin dayağı ilə möhkəmləndirmək istəməsən, onun heç vaxt bəlaya düşməsinə izn verməzsən, ta ki, o bu dünyanın bihudəliyinə meyl etməsin. Doğrudan da, Sən yaxşı bilirsən ki, bütün şəraitlərdə mənim üçün Sənin zikrin göylərdə və yerdə olanlara sahib olmaqdan nə qədər əzizdir.

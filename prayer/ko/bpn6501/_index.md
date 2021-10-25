@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6501 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 그분은 하느님이시고 자애와 박애의 주이신, 지극히 높으신 분이시옵나이다!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4854 in Azərbaycan'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey Mərhəmətli Allah! Sən Ey Qüdrətli və Qüvvətli! Sən Ey Ən Mehriban Ata! Bu bəndələr bir yerə toplaşıblar, Sənə dönüblər, Sənin astanana yalvarırlar, Sənin böyük vədindən sonsuz nemətlərini arzulayırlar. Sənin razılığından başqa məqsədləri, insanlıq aləminə xidmətdən savayı niyyətləri yoxdur.

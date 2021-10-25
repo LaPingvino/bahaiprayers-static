@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11708 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Shīnē Sarki, Masani, Mai hikima ! Ka saurāri sūdar aljanna dake bisa rassun itāciyar dawwama har abada. Tana rēra tsarkakakkiyar wāƙa mai dāɗi, tana ayyanāwa rāyuka na gari, bushārar kusantaka da Allah. Tana gayyatar waɗanda suka bāda gaskiya da kaɗaitakar Allah, su isō dandalin mayalwaci. Tana gayāwa waɗanda ba su sarƙafu da abun dūniya ba, sāƙon da ya sauko daga Allah sarki, maɗaukaki, da bā shi abōkin tārayya. Tana jāgōrar mumunai zuwa wajen gadon tsarkaka, kuma wajen wannan nagartacen kyāwo.

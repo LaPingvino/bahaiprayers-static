@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn461 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O mein Gott! O mein Gott! Ruhm sei Dir, dass Du mich stärkst, Deine Einheit zu bekennen, dass Du mich hinziehst zum Wort Deiner Einzigkeit, mich entflammst durch das Feuer Deiner Liebe, so dass ich mich Deinem Gedenken hingebe und dem Dienst an Deinen Freunden und Dienerinnen.

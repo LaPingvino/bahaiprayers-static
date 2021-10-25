@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7920 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Mio Dio Che venero e adoro! Attesto la Tua unità e la Tua unicità e riconosco i Tuoi doni sia nel passato sia nel presente. Tu sei il Munifico, le Cui traboccanti piogge di misericordia sono riversate tanto sui grandi quanto sugli umili, e gli splendori della Cui grazia sono stati diffusi sugli ubbidienti e sui ribelli.

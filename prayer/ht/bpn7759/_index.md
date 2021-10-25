@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7759 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen! O Bondye mwen! Ou wè timoun sa yo ki se tij nan pyebwa lavi a, zwazo nan forè delivrans lan, koki nan lanmè gras Ou, ak woz nan jaden flè konsèy Ou.

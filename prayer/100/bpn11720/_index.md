@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11720 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Wā bāya ga Allah kē kauda matsalōli ?

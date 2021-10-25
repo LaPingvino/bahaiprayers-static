@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8849 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 仁慈的主啊！祢曾由同一血統，造生了普世萬民，宣告了天下一家。在祢的聖容尊前，他們都是祢的僕人，全人類皆蒙祢天幕的庇蔭。萬民匯聚於祢恩典之靈宴，借祢天恩之光照亮所有世人。

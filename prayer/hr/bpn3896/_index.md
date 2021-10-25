@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3896 in Hrvatski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 DJECA

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10770 in Srpski српски'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 O moj Bože! O Ti, koji praštaš grehe! Darodavče! Ti Koji odagnavaš patnju!

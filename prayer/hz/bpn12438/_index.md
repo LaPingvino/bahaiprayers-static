@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12438 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Oh Karunga! Shino shidira shalivava lyakuremana, ano kutuka kwasho maranga ngudu - shi vatere ashi shi vhure kutuka nange ka tika kundagha-ndagha yauwa naliyovoro,  mavava mukutuka kwasho naruhafo nalirago muliterembo lyasho muwiru yakupira uhura, yeyura ngoghera yasho muLidina lyoye lyakundagha-ndagha mu virongo navintje, hafita matwi naliywi lino, kenita mantjo mukukukeya viyivito vyalipititiro!

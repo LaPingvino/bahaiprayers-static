@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6398 in Cymraeg'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Dduw, adfywha a llonna f’ysbryd. Pura fy nghalon. Goleua fy ngallu. Gosodaf fy holl weithredoedd yn Dy law. Ti yw f’Arweinydd a’m Noddfa. Ni fyddaf drist na galurus mwyach; byddaf hapus a llawen. O Dduw! Ni fyddaf mwyach yn llawn pryder, ac na pheraf i drwbl fy mhoeni. Ni phreswyliaf  â phethau annymunol bywyd. O Dduw, R’wyt Ti yn well cyfaill i mi na mi fy hunan. Cysegraf fy hun i Ti, O Arglwydd.

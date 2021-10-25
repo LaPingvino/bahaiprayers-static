@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1208 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, de Quem desejo aproximar-me, cuja presença é minha esperança e cuja lembrança é o que almejo! A Tua corte de glória é o meu alvo, e a Tua morada o que aspiro alcançar. O Teu Nome é a minha cura, o Teu amor irradia no meu coração, servir-Te é o meu mais elevado ideal! Imploro-Te, pelo Teu Nome - através do qual concedeste, aos que Te reconheceram, o poder de se elevarem às mais sublimes alturas do conhecimento de Ti e tornaste possível, aos que Te adoram devotamente, ascenderem ao recinto da corte dos Teus santos favores - ajuda-me a volver a minha face para a Tua face, a pousar os meus olhos em Ti e a falar da Tua glória.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9708 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, mijn God! Ik keer mij berouwvol tot U, en Gij zijt waarlijk de Vergevende, de Meedogende.

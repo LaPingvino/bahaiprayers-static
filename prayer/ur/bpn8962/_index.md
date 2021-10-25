@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8962 in اُردُو'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ur', 'bpn-unsorted']
 +++
 اے خدا ! مجھے ہدایت دے

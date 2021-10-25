@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11902 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Nai odak kudus boli dek mbok ngaduap tudu rahmat Ku, dano leh ponginatong Ku obuah ngaluh bia yoh mbok jadin mulia odak pimonog bala kekasih Ku, nyaa dek mbok magah pimudi Ku ponu nyiyak totod nuju tolint budi Ku bia totap ogi pah pala setegal ngayong pingunang-pingunang Ku. 

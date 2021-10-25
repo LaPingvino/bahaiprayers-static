@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11656 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¿Hay quien nos libre de las dificultades salvo Dios?

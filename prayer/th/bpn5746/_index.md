@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5746 in ภาษาไทย'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-th', 'bpn-unsorted']
 +++
 ##บทอธิษฐาน ณ สถูปของพระบาฮาอุลลาห์ และพระบ๊อบ

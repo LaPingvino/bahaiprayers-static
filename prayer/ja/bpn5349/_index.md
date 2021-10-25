@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5349 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 #短い日々の必須の祈り

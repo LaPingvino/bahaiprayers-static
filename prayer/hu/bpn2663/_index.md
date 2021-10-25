@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2663 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 * „A gyógyulást kérő imák a lelki és a testi gyógyulásra egyaránt vonatkoznak. Mondjátok hát őket azért, hogy lelketek és testetek egyaránt meggyógyulhassék.”  —`Abdu’l-Bahá

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn638 in Deutsch'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Alle Herrlichkeit und Majestät, o mein Gott, alle Herrschaft, alle Erhabenheit und aller Lichtglanz seien Dein. Du verleihest Herrschaft, wem Du willst, und Du entziehst sie, wem Du wünschest. Es gibt keinen Gott außer Dir, dem Allbesitzenden, dem höchst Erhabenen. Du hast das Weltall aus dem Nichts erschaffen und alles, was darinnen ist. Nichts ist Deiner wert außer Dir selbst, sind doch alle außer Dir wie Ausgestoßene in Deiner heiligen Gegenwart, wie ein Nichts im Vergleich zur Herrlichkeit Deines Wesens..

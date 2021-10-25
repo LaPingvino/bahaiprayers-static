@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7646 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Elimine nan ou menm tout atachman ak tout bagay esepte Bondye, anrichi ou nan Bondye pandan ou ap abandone tout bagay sof Li, epi resite priyè ki swiv la:

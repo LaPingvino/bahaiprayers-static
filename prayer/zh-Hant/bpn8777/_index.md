@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8777 in 繁體中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 主啊，我們的上帝！讚美歸於祢的聖名。祢確然洞悉不可見之物。求祢命定給我們如此佳美，只有祢包羅萬象的知識才能權衡。祢是威權之上帝，全能唯祢，至愛唯祢。

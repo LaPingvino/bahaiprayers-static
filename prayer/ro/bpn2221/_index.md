@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2221 in România'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Cu cât vei întâmpina mai multe greutăţi în lume, cu atât vei deveni mai desăvârşit.

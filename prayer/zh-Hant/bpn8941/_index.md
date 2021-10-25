@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8941 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 以萬古永恆、至偉的上帝之名。

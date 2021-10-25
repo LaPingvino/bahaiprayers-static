@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7917 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O mio Dio, mio Signore, Mèta del mio desìo! Questo Tuo servo cerca di dormire al riparo della Tua misericordia e di riposare sotto il baldacchino della Tua grazia, implorando le Tue cure e la Tua protezione.

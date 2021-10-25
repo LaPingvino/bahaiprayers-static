@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4852 in Azərbaycan'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, mənim Allahım! Sən bu zəif kimsəni görürsən ki, səmavi qüvvə üçün yalvarır, bu fəqir varlığı görürsən ki, əbədi həyat çeşməsi diləyir, bu xəstəni görürsən ki, Sənin sonsuz mərhəmətindən vəd etdiyin şəfanı diləyir, o mərhəmət ki, Sən onu Özünün göydəki məlakutunda seçilmiş bəndələrərinə qismət etmisən.

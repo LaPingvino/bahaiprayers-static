@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6121 in Chamorro'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 O Yu’os-hu! Hagu i manasisi’i ni’ isao, i mannana’i guinaha, yan sasatba gi chinat- saga siha.

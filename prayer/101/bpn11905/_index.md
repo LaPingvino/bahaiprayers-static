@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11905 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Doa itih, obuah bikirien odak Abdu’l-Baha, basa dek totok Kubur Iyoh. Dapod geh doa tih obuah basa takar nye bidoa sadie.)

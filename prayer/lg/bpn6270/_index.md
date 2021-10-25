@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6270 in Luganda'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Erinya lyo ligulumizibwe , Ayi Mukama Katonda wange!  Nkusaba kulw'erinya lyo, mu lyo essaawa endaagaanye etuuse , era n'okuzuukira ne kutuuka , era n'okutya n'okukankana ne kubuna eri abo bonna abali mu ggulu ne kunsi, empereze, okuva mu ggulu ly'ekisa Kyo, era n'ebire by'ekisa ky'okwagala kwo, ebyo ebinasanyusa emitima gy'abaddu bo, abo abakyukfdde gyoli era ne bayamba Enzikiriza Yo.

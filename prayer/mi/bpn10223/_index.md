@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10223 in Māori'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 E Koe Te Kaharawa! He tangata hara ahau, engari ko Koe te Poumurunga Hara! He nui aku poka tata, engari ko Koe te Mea Mākoha! Kei roto ahau i te pōuri o te hē, engari ko Koe te Rama o te Wete Hara! 

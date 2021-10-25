@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8536 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 上帝，我的上帝啊！当渴慕祢的双目因与祢分离而无法成眠，我又怎能入睡？当祢垂爱的灵魂因远离祢而悲恸万分，我又怎能成寐？

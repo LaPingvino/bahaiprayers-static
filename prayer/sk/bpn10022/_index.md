@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10022 in Slovensky'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Pane! K Tebe sa utiekam o útočisko a ku všetkým Tvojim znameniam smerujem srdce.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7898 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O  mio Dio! O mio Dio! Gloria sia a Te, perché mi hai confermato nel riconoscimento della Tua unicità, mi hai attratto alla parola della Tua singolarità, mi hai acceso col fuoco del Tuo amore e mi hai occupato nella menzione di Te e nel servizio dei Tuoi amici e delle Tue an-celle.

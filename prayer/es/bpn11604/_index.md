@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11604 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Señor! Haz de estos niños plantas excelentes. Permite que crezcan y se desarrollen en el Jardín de Tu Alianza, y otórgales lozanía y belleza mediante las efusiones de las nubes del Reino de Abhá.

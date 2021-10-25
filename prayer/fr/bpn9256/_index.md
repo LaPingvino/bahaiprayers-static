@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9256 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Seigneur, tu sais de combien de souffrances et de calamités, de tribulations et d’afflictions, est entourée l’humanité. Les épreuves et les infortunes s’attaquent à l’homme tels des serpents. Il n’est pour lui ni abri ni refuge si ce n’est sous l’aile de ta protection et de ton assistance, de ta garde et de ta tutelle.

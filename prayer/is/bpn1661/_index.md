@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1661 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð, Guð minn. Náð Þín hefur fyllt mig hug­rekki og réttlæti Þitt vakið mér ótta. Sæll er sá sem Þú hefur auðsýnt náð Þína og vei þeim er hlýtur dóm Þinn.

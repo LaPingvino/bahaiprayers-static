@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11518 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Señor! A Ti acudo en busca de amparo, y hacia todos Tus signos oriento el corazón.

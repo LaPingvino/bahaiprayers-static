@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7887 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Egli è il Compassionevole, il Munifico!

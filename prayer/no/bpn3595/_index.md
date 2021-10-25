@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3595 in Norsk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O Gud, min Gud! Vi er dine tjenere som har  end toss

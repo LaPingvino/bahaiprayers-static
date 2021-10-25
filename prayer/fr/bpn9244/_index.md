@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9244 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Tu es glorifié, ô Seigneur, mon Dieu ! Par ton nom, Celui qui fixe les limites, je te supplie de nous garder de la malveillance de tes adversaires qui refusent ton alliance et contestent ta beauté.

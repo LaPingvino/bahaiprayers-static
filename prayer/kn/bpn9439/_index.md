@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9439 in ಕನ್ನಡ'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kn', 'bpn-unsorted']
 +++
 .

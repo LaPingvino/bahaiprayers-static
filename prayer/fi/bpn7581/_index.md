@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7581 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Ylistys ja kunnia olkoon Sinun, oi Herra minun Jumalani! 

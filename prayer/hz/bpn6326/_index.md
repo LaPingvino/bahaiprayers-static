@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6326 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 #MBATERO ZOYIGAVA

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12848 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-108', 'bpn-unsorted']
 +++
 ##(ສໍາລັບເດັກນ້ອຍ)

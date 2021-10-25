@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1184 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é Quem cura, o Suficiente, o Amparo, a Suma Clemência, o Todo-Misericordioso.

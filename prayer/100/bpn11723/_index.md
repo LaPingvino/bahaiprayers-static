@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11723 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Allāna, abun ƙaunāta, majibincīna, abun bukātāta! Da wane irin halshē zan iya bayyana iyākacin gōdiyāta zuwa  garēka ? Ina cikin duhu, kā wāyar da ni. Nā huta daga hanyarka, kā maidō ni cikin alfurmarka. Nā zamana kamar matacce, kā rāyar da ni da ruwanka mai rāyarwa. Nā ƙēƙashe, ka falfaɗō ni da ruwan samāniyar kalmarka da suka zubo daga alkalamin rāhimi.

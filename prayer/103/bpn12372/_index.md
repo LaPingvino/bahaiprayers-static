@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12372 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 He is God, exalted is He, the Lord of loving-kindness and bounty……

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11928 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 *(Bu dogany bäbek doglanda, onuň sag gulagyna üç gezek okamaly.)

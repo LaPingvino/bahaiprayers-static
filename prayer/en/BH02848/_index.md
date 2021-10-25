@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH02848 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH02848']
 +++
 O my God and my Master!  I am Thy servant and the son of Thy servant. I have risen from my couch at this dawntide when the Daystar of Thy oneness hath shone forth from the Dayspring of Thy will, and hath shed its radiance upon the whole world, according to what had been ordained in the Books of Thy Decree.

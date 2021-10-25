@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11958 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Sensiň Alla we Senden başga Alla ýokdur.

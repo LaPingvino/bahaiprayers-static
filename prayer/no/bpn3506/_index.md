@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3506 in Norsk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Ære være deg, o Herre min Gud! Bring ikke fornedrelse over ham som du har opphøyet ved styrken av ditt evigvarende herredømme, og før ikke langt bort fra deg ham som du har gitt å tre inn i din evighets tabernakel. Vil du, o min Gud, forstøte ham som du har skjermet ved ditt herredømme, og vil du vise bort fra deg, o min lengsel, ham som har funnet tilflukt hos deg? Kan du fornedre ham som du har opphøyet, eller glemme ham som du gav evnen til å minnes deg?

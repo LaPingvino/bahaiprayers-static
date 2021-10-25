@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1189 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Inúmeras vezes, ó meu Deus, um coração enregelado veio a flamejar com o fogo da Tua Causa, e um adormecido a despertar com a doçura da Tua voz. Quantos estranhos vieram em busca de abrigo à sombra da árvore da Tua unicidade e quantos sedentos suspiraram pela fonte das Tuas águas vivas, em Teus dias!

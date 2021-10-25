@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6628 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 주님께 찬송, 주님의 종들의 얼굴을

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10377 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 I Guds, den Uråldriges, den Störstes namn.  I sanning, de uppriktigas hjärtan förtärs i åtskiljandets eld – var är glansen från Ditt anletes ljus, o världarnas Älskade?

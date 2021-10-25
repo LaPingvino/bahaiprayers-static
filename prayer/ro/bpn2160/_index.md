@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2160 in România'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 El este Dumnezeu! O, Dumnezeule Neasemuit!

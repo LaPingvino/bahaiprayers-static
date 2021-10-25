@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3226 in Afrikaans'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Hy is die Magtige, die Vryspreker, die Medelydende!

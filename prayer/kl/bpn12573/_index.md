@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12573 in Kalaallisut'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Illit-aa Naalagaq ajunngitsoq! Uku tassa kiffatit, ataatsimiinnermut matumunnga katersuuttut, Illit naalagaaffinnut saassimasut Illillu tunissutinnut pilluaqqussutinnullu pisariaqartitsipput. Illit-aa Guutiusutit! Ataasiussutsit inuunerup piviussusiini tamani allassimasoq saqqummersiguk nalunaaqqutitillu qulaarlugit. Piginnaassutsit inuttut inuunerup piviussusiini ittut pisinnaalersillugillu toqqorsimasatit qulaajakkit nittarterlugillu. 

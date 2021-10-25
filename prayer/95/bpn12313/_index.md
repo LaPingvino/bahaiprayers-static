@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12313 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *Ne fakaasi ki Bahá’ís o te United States and Canada  

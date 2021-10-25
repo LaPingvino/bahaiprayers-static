@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11947 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 (Saçak başynda okalýan dogalar)

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6974 in Fiji'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 Me sa vakalevulevui na Yacamuni, O i Kemuni na Turaga na noqu Kalou! Sa i Kemuni o Koya ka ra sa masuta na veika kece ga, ka O ni sa sega ni masuta e dua, O ni sa nodra Turaga na veika kece ga, ka O ni sa sega ni vakararavi vua e dua, o Koya sa kila na veika kece ga ka sega e dua sa kilai Koya. Sa Nomuni gagadre Mo ni kilai vei ira na tamata; sa i koya gona, O ni sa vakayacora kina, e na duabulu ga na vosa mai na Gusumuni, ka sa yaco kina me bula na tamata ka vakaiukuukutaki kina na vuravura. Sa sega tale ni dua na Kalou sa i Kemuni ga, na Daunilewa, na Dauniveibuli,na Cecekia, na kaukauwa Duabau.

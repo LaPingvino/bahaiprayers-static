@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7596 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *Aina kun astutte neuvotteluhuoneeseen, lausukaa tätä rukousta Jumalan rakkautta sykkivin sydämin ja kaikesta paitsi Jumalan muistelosta puhdistetuin kielin, jotta Kaikkivoimainen armollisesti auttaisi teitä saavuttamaan ylhäisimmän voiton.

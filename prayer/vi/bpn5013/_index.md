@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5013 in Tiếng Việt'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế! Con hướng về Ngài để tìm nơi trú ẩn và con đặt tâm hồn con nơi những dấu hiệu của Ngài.

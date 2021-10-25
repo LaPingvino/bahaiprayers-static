@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3366 in български'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bg', 'bpn-unsorted']
 +++
 Молитва, която да се казва при закриване на събранието на духовния съвет

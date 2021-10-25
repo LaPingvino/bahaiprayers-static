@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9542 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 In Naam van Hem, de Verhevene, de Allerhoogste, de Subliemste!

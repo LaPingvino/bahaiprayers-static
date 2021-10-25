@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11878 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Junyung adon Ingan, O Raja Topa ku! Mopung mbok ngilokuab siginap topat, bia kuasa pangirugi mbok nyokuab sua negara. Pakai sok bala, alo watki pun, oku kilint timogah ayuh bijak ponai Ingan, bia tiluti daras jawak lingieng pangilaan Ingan.

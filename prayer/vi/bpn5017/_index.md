@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5017 in Tiếng Việt'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế, Đấng Khoan dung! Lạy Đấng Giáo dục Thiêng liêng! Cuộc họp này được tô điểm bởi sự nhắc nhở đến Thánh Danh Ngài. Các tôi con Ngài đang hướng mặt về Vương quốc Ngài, với tâm hồn vui sướng, với linh hồn bình an.

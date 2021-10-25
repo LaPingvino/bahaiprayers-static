@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12620 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Nuan Tuhan ti nelap! Enggau pengasih sikap sepasang sayap serega ngagai tiap anak biak ti baru ada tu, lalu beri sida pengering spiritual ngambika sida ulih terebai nengah langit ti nadai sekat lalu tau niki ngagai semua peninggi Perintah Abhá.

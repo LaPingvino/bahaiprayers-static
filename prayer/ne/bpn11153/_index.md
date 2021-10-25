@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11153 in नेपाली'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ne', 'bpn-unsorted']
 +++
 तिमी नै हौ सबैको प्रार्थना सुन्ने र मञ्जूर गर्ने । 

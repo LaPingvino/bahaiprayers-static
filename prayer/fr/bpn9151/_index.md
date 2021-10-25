@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9151 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Glorifié sois-tu, ô mon Dieu ! Je te rends grâce de m’avoir fait connaître celui qui est l’aurore de ta miséricorde, l’aube de ta grâce, le dépositaire de ta cause. Par ton nom qui a fait pâlir le visage de ceux qui te sont proches et s’envoler vers toi le cœur de ceux qui te sont dévoués, je te supplie. Permets qu’en tous temps et en toutes circonstances, je tienne fermement ta corde, me détache de tous sauf de toi, garde mes yeux fixés sur l’horizon de ta révélation et exécute ce que tu m’as prescrit dans tes écrits.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12242 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Ko Koe ko te Atua, e seai aka foki se Atua na ko Koe.  

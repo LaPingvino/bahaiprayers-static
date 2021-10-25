@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9345 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Deraina Ianao, ry Andriamanitro ô! Ianao Ilay, tamin’ny teny indraim-bava monja, nampisafotofoto ny zavaboahary rehetra ary, tamin’ny tsipikin’ny penina iray, nampisaraka ny mpanomponao teo amin’izy ireo avy. Vavolombelona aho, ry Andriamanitro ô, fa amin’ity Fanambarana ity, amin’ny teny indraim-bava avy Aminao, ny zavaboahary rehetra nohariana dia natokana ho simba, ary amin’ny teny indraim-bava iray hafa, izay rehetra nofidianao, noho ny Fahasoavanao sy ny Fangorahanao, dia nahazo fiainam-baovao.

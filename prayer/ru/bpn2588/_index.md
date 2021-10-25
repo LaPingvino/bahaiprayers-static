@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2588 in Русский'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ru', 'bpn-unsorted']
 +++
 О Ты, Господь прощающий!

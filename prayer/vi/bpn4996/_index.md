@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4996 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Vinh quang thuộc về Ngài, lạy Ngài là Đấng Thượng Đế của con! Con cầu xin Tối Đại Danh mà Ngài đã làm sinh động các tôi tớ Ngài và tạo dựng các thành phố, con cầu xin các Tôn hiệu ưu việt và các Đặc tính tối cao của Ngài, giúp con dân Ngài hướng về vô số ân huệ của Ngài và quay về Thánh điện Minh triết của Ngài. Xin chữa lành những căn bệnh, từ mọi phía, đã tấn công các linh hồn và ngăn trở họ hướng tầm mắt về cõi Thiên đàng dưới bóng Thánh Danh phò trợ của Ngài, mà theo phán lệnh Ngài, Danh ấy là Vua các Danh đối với tất cả cư dân cõi trời và cõi đất. Ngài có quyền năng làm điều Ngài muốn. Quyền lực của tất cả các Danh nằm trong tay Ngài. Không có Thượng Đế nào khác ngoài Ngài, Đấng Toàn năng, Đấng Toàn trí.

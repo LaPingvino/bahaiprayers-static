@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8551 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的主啊！我就是那仰望祢、祈愿祢美妙恩宠和恩典的人。求祢不要令我失望地离开祢那慈悲之门，更不要离弃我，如同离弃否认圣道之人。

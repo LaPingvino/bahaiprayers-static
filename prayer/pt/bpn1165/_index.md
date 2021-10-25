@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1165 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Deus! Ó meu Deus! Verdadeiramente, invoco-Te, e ante o Teu limiar, imploro pedindo que todas as Tuas graças desçam sobre estas almas. Elege-as para o Teu favor e a Tua verdade.

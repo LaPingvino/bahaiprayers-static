@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3500 in Norsk'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 I Guds navn, den overveldende storhets Herre, den altbetvingende.

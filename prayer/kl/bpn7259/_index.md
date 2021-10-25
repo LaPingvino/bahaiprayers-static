@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7259 in Kalaallisut'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Naalannartitaagit, Naalagaq-aa Guutiga! Qinnuigaakkit uanga Upperisavillu tapersertai isumakkeerfigeqqulluta. Ilumut, tassaavutit Naalagaq naalakkiinissamut Kisiartaasoq, Isumakkeerisoq, Tukkornerpaaq,. Guutiga-aa! Kiffavit akornanni ilisimaatsut Siunertaannut aqqutissaqalerlit, ilami ataasiaannarlutik Illit pillutit tusarunik ilumuussuseq Ullormi eqqartuussivissami nalunaatigiumaarpaat Tukkussuserpillu saqqummerneri akiussanngilaat. Sumiikkaluarpataluunniit Saammaannerpit ilisarnaatai taakkununnga aqqartikkit, Kiffavillu akornanni piuaatsunut pissarititarnik naammattunik tunikkit. Ilumoortumik tassaavutit Naalakkiisussat Qutsinnerpaartaat, tamanit Tukkornerpaaq, Ikiuiumatunerpaaq.

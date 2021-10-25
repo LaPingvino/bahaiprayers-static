@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10363 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Denna bön, uppenbarad av ‘Abdu’l-Bahá, läses vid Hans gravhelgedom. Den används även i enskild andakt.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn581 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O mein Gott! O mein Gott! Ich danke Dir, dass Du mich hin zu Dir lenkst, dass Du mich zu Deinem Horizonte hinführst, mir Deinen Pfad zeigst, mir Dein Zeugnis enthüllst und mich befähigst, mein Angesicht auf Dich zu richten, während die meisten Gelehrten und Geistlichen unter Deinen Dienern samt allen, die ihnen nachfolgen, ohne den geringsten Beweis und ohne jedes Zeugnis von Dir sich abkehren. Preis sei Dir, o Herr der Namen, und Ruhm sei Dir, o Schöpfer der Himmel, dass Du mir durch die Macht Deines Namens, der Selbstbestehende, von Deinem versiegelten Weine zu trinken gibst, mich Dir nahe kommen und den Morgen Deines Wortes, die Manifestation Deiner Zeichen, den Springquell Deiner Gesetze und Gebote, den Urgrund Deiner Weisheit und Deiner Gnadengaben erkennen lässest. Selig ist das Land, das Deine Fußstapfen adeln, darauf der Thron Deiner Allgewalt steht und darin der Duft Deines Gewandes sich verbreitet. Bei Deiner Herrlichkeit und Majestät, Deiner Macht und Kraft, ich wünsche mir mein Sehvermögen nur, um Deine Schönheit zu schauen, und mein Gehör allein, um Deinen Ruf und Deine Verse zu vernehmen.

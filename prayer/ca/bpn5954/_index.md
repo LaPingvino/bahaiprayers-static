@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5954 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Alegria I Pau

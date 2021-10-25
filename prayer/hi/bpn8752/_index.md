@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8752 in हिंदी'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hi', 'bpn-unsorted']
 +++
 *परम पावन ग्रंथ ”किताब-ए-अक़दस“ में लिखा है:

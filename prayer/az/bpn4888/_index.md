@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4888 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ey mənim Şəfqətli Rəbbim! Səni and verirəm Sənin müqəddəs bəyan dəryanın təlatümünə və Sənin ali hökmranlığının saysız nişanələrinə, Sənin Allahlığının qəti dəlillərinə və Sənin elmində gizli qalan sirlərinə - mənə Sənə və Sənin seçilmişlərinə xidmət etmək fəzli əta eylə və məni qadir et ki, Kitabında hökm etdiyin Hüququnu lazımınca ödəyim.

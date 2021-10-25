@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7548 in Suomi'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Jumalan, ylivoimaisen majesteettiuden Herran, Kaikkivoittavan nimeen.

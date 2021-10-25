@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9308 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est Dieu ! Ô Seigneur, mon Dieu, toi qui aides le faible, secours le pauvre et soutiens le désemparé qui se tourne vers toi ! Dans la plus grande humilité, je lève des mains suppliantes vers ton royaume de beauté et je t’appelle avec ferveur de ma voix intérieure : Ô Dieu, mon Dieu, aidemoi à t’adorer, affermis mes reins en ton service, que ta grâce renforce ma servitude envers toi et que je reste fidèle en mon obéissance. Verse sur moi les effusions libérales de ta générosité, tourne le regard de ta tendre bonté vers moi et plonge-moi dans l’océan de ton pardon. Fortifie mon allégeance à ta foi et accrois ma certitude et mon assurance afin que je me détache du monde et tourne mon visage avec dévotion vers ton visage, afin que, conforté par le pouvoir irrésistible des preuves et des témoignages, j’aille au-delà des régions de la terre et du ciel, investi de majesté et de pouvoir. En vérité, tu es le Miséricordieux, le Très-Glorieux, le Bon, le Compatissant.

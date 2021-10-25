@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7663 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Glwa pou Ou, O Wa etènite a, Kreyatè nasyon yo, ak Mèt Ki fòme chak zo k’ap dekonpoze! Mwen priye Ou, nan Non Ou, Non an Ou te sèvi pou rele tout limanite vin jwenn syèl grandè Ou ak glwa Ou, Non an Ou te sèvi pou gide sèvitè Ou yo nan lakou gras Ou ak favè Ou yo, mwen priye Ou pou konte mwen pami sila yo ki te libere yo ak tout bagay esepte Ou menm, ki te mete yo nan direksyon Ou, e ki pa t’ kite difikilte Ou te voye reyisi anpeche yo vire nan direksyon benediksyon Ou yo.

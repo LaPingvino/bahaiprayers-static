@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7003 in नेपाली'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ne', 'bpn-unsorted']
 +++
 चौबिस घण्टामा एक पटक मध्यान्हमा पाठ गर्नुपर्ने 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8543 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！祢的女仆正呼唤祢，她信赖祢，面向祢，祈求祢降赐天恩，为她揭开祢灵性的奥秘，向她倾洒祢神圣的光辉。

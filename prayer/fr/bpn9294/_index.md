@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9294 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, ô mon Dieu, en vérité, je t’invoque et te supplie devant ton seuil, te demandant de faire pleuvoir toutes tes bénédictions sur ces âmes. Désigne-les spécialement pour recevoir tes faveurs et ta vérité.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7634 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Reyini nou ansanm avèk yon jwa ki pa gen tach, e nan kòmansman reyinyon an, resite priyè sa a:

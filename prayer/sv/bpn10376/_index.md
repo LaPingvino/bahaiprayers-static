@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10376 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Han är Helaren, den Tillräcklige, Hjälparen, den allt Förlåtande, den Allbarmhärtige.

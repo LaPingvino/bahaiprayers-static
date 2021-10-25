@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3488 in Norsk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 *Fremsies en gang i døgnet, ved middagstider.

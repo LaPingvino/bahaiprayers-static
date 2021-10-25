@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7339 in Polski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Przeznacz dla mnie, o mój Panie, i dla tych, którzy wierzą w Ciebie, to, co wedle swojej oceny uznajesz dla nas za najlepsze, tak jak zostało ustanowione w Księdze Matce, albowiem Ty w swoich rękach trzymasz określone miary wszystkich rzeczy.

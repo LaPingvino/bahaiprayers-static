@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1768 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Lof sé Þér, ó Drottinn Guð minn! Ég bið Þig við þessa opinberun, sem hefur snúið myrkri í ljós, reist hið fjölsótta musteri, opinberað hina skráðu töflu og afhjúpað hið opna bókfell, að senda það niður yfir mig og þá, sem eru í félagsskap mínum, sem gerir okkur fært að stíga upp til himna yfirskilvitlegrar náðar Þinnar og hreinsar okkur af saurgun þeirra efasemda, sem aftrað hafa hinum tortryggnu frá því að stíga inn í tjaldbúð einingar Þinnar.

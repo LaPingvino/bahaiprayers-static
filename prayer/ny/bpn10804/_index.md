@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10804 in Chichewa'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ny', 'bpn-unsorted']
 +++
 O Mulungu wanga, Mbuye wanga, mathero Achofuna 

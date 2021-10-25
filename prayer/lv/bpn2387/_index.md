@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2387 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Esi slavēts, ak Dievs, mans Kungs! Piesaucot Tavu vārdu, caur kuru Tava Daile sēdās uz Tavas Mācības troņa, caur kuru Tu ievies pārvērtības pasaulē un pulcini visus, un sauc visus pie atbildības, un atalgo visus, un uzturi visus, un dod spēku visiem – es Tevi lūdzu, pasargā Savu kalponi, kas meklē pie Tevis patvērumu un tīko atrast miera ostu pie Tā, Kurš ir Tava Izpausme, kas pilnībā paļaujas uz Tevi un uzticas Tev.

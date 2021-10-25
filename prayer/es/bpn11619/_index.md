@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11619 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Bebés

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4895 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 *"Müqəddəs Dənizçi Lövhünü öyrən ki, sən həqiqəti biləsən və görəsən ki, Camal-i Mübarək gələcək hadisələri bütünlüklə öncədən xəbər vermişdir. Qoy bəsirəti olanlar bundan ibrət alsınlar." -Əbdül-Bəha Abbas

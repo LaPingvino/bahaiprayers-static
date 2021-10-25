@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11841 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *“ Kahwent Baha’i yoh leh gabungan duoh bigaul kasih sayang diantara soduwoh pihak. Iyoh mesti, alo watki, ngamal doras bibait bia jadin konyat rapat duwoh perangai si odop-eh. Bokos pinoli tih harus obuah nogap pakai janji dek togap, duoh lagi dengan niat harus yak toban bitanga bitamonk, tilukum duoh kesatuan bia yak tungang so’ont pingidip taant adu-adu” – Abdu’l-Baha –

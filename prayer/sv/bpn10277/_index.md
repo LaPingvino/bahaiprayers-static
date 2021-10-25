@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10277 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Gud, min Gud. Dessa är Dina svaga tjänare, Dina trofasta arbetare och tjänarinnor, som har bugat sig inför Ditt upphöjda yttrande, ödmjukat sig vid Ditt ljus tröskel och burit vittnesbörd om Din enhet, genom vilken solen har kommit att lysa i sin middagsglans. De har lyssnat till den kallelse Du utfärdade från Ditt dolda rike och med hjärtan skälvande av kärlek och hänryckning har de svarat på Din maning.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9238 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Louange à toi, ô Seigneur, mon Dieu ! Tu sais que j’ai appelé tes serviteurs à se tourner vers tes seules faveurs et que je leur ai ordonné de n’observer que ce que tu as prescrit dans ton livre manifeste, révélé selon ton irrévocable dessein et ton inscrutable décret.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1751 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Þú Guð minn, sem leiðir leitandann á hinn rétta veg, frelsar hina týndu og blindu sál frá auðnum tortímingar, Þú sem veitir hinum einlægu miklar gjafir og hylli, skýlir hinum óttaslegnu í óvinnandi virki Þínu og svarar frá alhæsta sjónar­hring Þínum hrópi þeirra sem hrópa á Þig. Lofaður sért Þú, ó Drottinn minn! Þú hefur leitt hina villu­ráfandi frá dauða vantrúar, fært þá á leiðarenda sem hafa nálgast Þig, glatt hina fullvissuðu meðal þjóna Þinna með því að uppfylla dýrmætustu óskir þeirra, opnað frá ríki fegurðar Þinnar hlið endur­funda í ásýnd þeirra sem þrá Þig og bjargað þeim frá eldi skorts og missis svo þeir hröðuðu sér til Þín, gengu í návist Þína, komu að opnum dyrum og fengu ríkulegan skerf gjafa.

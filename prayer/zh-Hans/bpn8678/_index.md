@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8678 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 诺鲁孜——公历三月二十日或二十一日——为巴哈伊新年。

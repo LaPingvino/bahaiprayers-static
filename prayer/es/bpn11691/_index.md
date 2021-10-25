@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11691 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Glorificado seas, oh mi Señor compasivo! Te suplico, por el agitado océano de Tu santa expresión, y por las múltiples muestras de Tu suprema soberanía, y por las convincentes pruebas de Tu Divinidad, y por los misterios ocultos que se esconden en Tu conocimiento, que me concedas Tu gracia para servirte a Ti y a Tus escogidos y me permitas ofrecer obedientemente Tu Ḥuqúq, el cual has prescrito en Tu Libro.

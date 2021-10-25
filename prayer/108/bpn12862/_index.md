@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12862 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-108', 'bpn-unsorted']
 +++
 ##ບົດອະທິຖານສໍາລັບສວດໃນວັນສະຫລອງ

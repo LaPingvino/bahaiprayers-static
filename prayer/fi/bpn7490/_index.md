@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7490 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Minä olen se, oi Herrani, joka on kääntänyt kasvonsa Sinua kohti ja kiinnittänyt   toivonsa armosi ihmeisiin ja anteliaisuutesi ilmentymiin. Rukoilen Sinua, että et anna minun kääntyä pettyneenä pois armeliaisuutesi ovelta etkä jätä minua sellaisten luotujesi haltuun, jotka ovat kieltäneet asiasi. 

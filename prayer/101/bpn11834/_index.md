@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11834 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Sa’ant Dali)

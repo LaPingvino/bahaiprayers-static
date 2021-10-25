@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5200 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhan! Ya Tuhan! Aku memuji dan bersyukur kepada-Mu, sebab Engkau telah memberkati hamba wanita-Mu yang rendah ini, yang sedang memohon dan meminta dengan sangat kepada-Mu, karena sesung- guhnya Engkau telah membimbing dia ke Kerajaan-Mu yang nyata dan membiarkannya mendengar-kan panggilan-Mu yang mulia di dunia wujud ini, serta memandang tanda-tanda-Mu yang membuktikan kedaulatan-Mu yang jaya di atas segala sesuatu.

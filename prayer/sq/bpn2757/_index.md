@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2757 in Shqip'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Të thuhet çdo ditë në mëngjes, në mesditë e në mbrëmje

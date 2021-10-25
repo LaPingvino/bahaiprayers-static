@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2327 in Беларускі'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-be', 'bpn-unsorted']
 +++
 *(Творыцца штосуткі паміж поўднем і захадам сонца)

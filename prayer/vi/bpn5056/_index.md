@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5056 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, là Đấng con tôn kính và thờ phượng! Con xin chứng nhận sự thống nhất và sự đơn nhất của Ngài; con nhận biết những ơn huệ Ngài, xưa cũng như nay. Ngài là Đấng Đại lượng! Những làn sóng tràn đầy ơn khoan thứ của Ngài tuôn đổ xuống kẻ nhỏ cũng như người lớn, và ánh huy hoàng thiên ân Ngài được rãi khắp cho kẻ phản nghịch cũng như người nhu mì.

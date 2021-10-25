@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10817 in Chichewa'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ny', 'bpn-unsorted']
 +++
 O Ambuye wanga! Inu Mudziwa kuti wanthu azunguliridwa ndi zowawa ndi matsoka ndipo adzazidwa ndi zolemetsa ndi mabvuto.  Yeso lirilonse limtsata munthu ndipo chobvuta chilichonse chikumlonda ngati kuluma kwa njoka.  Palibe chinga ndi pothawira kwa iye koma pansi pa phiko la chitetezo, kusamala, kulonda ndi kusunga Kwanu. 

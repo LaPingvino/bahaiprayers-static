@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn603 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Deine Gnade macht mir Mut, doch Deine Gerechtigkeit versetzt mich in Schrecken. Glücklich der Diener, der von Deiner Gnade erfüllt ist, wehe aber dem, der Deine Verdammnis verdient. Herr, ich fliehe Deine Gerechtigkeit und suche Dein Erbarmen. Ich wende mich ab von Deinem Zorn, Deine Vergebung zu erflehen.

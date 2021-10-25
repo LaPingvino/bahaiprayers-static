@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7531 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi totuuden etsijä! Jos halajat, että Jumala avaa silmäsi, sinun on anottava Jumalaa, rukoiltava Häntä ja oltava yhteydessä Häneen keskiyöllä sanoen:

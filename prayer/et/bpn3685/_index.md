@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3685 in Eesti'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Kiidetud olgu Sinu nimi, oo Issand, meie Jumal! Sina oled tõepoolest nähtamatute asjade Teadja. Määra meile sellist head, mida Sinu kõikehõlmav tarkus suudab mõõta. Sina oled kõrgeim Issand, Kõigevägevam, Armastatuim.

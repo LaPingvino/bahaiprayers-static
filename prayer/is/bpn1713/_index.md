@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1713 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Þú Drottinn hins sýnilega og ósýnilega og sá, sem uppfræðir alla sköpunina. Ég sárbæni Þig við yfirráð Þín, sem hulin eru sjónum manna, að opinbera á alla vegu tákn Þinna margföldu blessana og ummerki ástúðar Þinnar, svo að ég megi rísa upp fagnandi og frá mér numinn og lofa undur­samlegar dyggðir Þínar, ó Þú hinn mis­kunnsamasti, og hreyfa með nafni Þínu við öllu sem skapað er og glæða svo eld lofgjörðar Þinnar meðal skepna Þinna, að gjörvallur alheimurinn megi fyllast birtunni frá ljósi dýrðar Þinnar og öll veröldin upptendrist af eldi málstaðar Þíns.

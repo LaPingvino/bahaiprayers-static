@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7233 in ελληνικά'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 “Συγκεντρωθείτε µαζί µε αγνή καρδιά, και στην αρχή της συγκέντρωσης διαβάστε αυτή την προσευχή”:

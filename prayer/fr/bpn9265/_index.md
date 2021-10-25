@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9265 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, accorde-moi la pleine mesure de ton amour et de ton bon plaisir et, par l’attrait de ta lumière rayonnante, ravis nos cœurs, ô toi, Évidence suprême, le Très-Glorifié ! Ô Seigneur de bonté, en signe de ta grâce, souffle sur moi tes brises vivifiantes, jour et nuit.

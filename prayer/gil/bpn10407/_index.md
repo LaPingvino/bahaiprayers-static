@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10407 in Kiribati'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 *(Te tia ukora te Koaua!  Ngkana ko tangira kaurean matam n tamnei iroun Te Atua, ko na riai n tangi Nakoina, tataro ao Kaaitaraa n te nukanibong ao kaangai:)

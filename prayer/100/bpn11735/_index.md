@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11735 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yabo ya tabbata ga sūnanka, yā Allāna, Ubangijin kōwa da kōmi, madōgarāta, madōgarar kōwa da kōmi, abin ƙaunāta, abun ƙaunar kōwa da kōmi, ƙarfīna, ƙarfin kōwa da kōmi, sarkīna, sarkin kōwa da kōmi, mamallakīna, mamallakin kōwa da kōmi, maƙārashīna, ƙarshen kōwa da kōmi, kai nē mai faɗaƙar da ni, mai faɗaƙar da kōwa da kōmi. Ina rōƙon ka yā Allah, kada ka amince da in yi nīsa da tēkun rahamarka, ka kiyāye ni da abun da zai nīsanta ni da gēfenka.

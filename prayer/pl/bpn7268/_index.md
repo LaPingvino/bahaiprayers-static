@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7268 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##ŚREDNIĄ MODLITWĘ OBOWIĄZKOWĄ NALEŻY ODMAWIAĆ CODZIENNIE RANO, W POŁUDNIE I WIECZOREM.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1640 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð minn! Ó Guð minn! Sannlega ákalla ég Þig og sárbæni við fótskör Þína, biðjandi þess að allar miskunnsemdir Þínar megi stíga niður yfir þessar sálir. Útvel þær fyrir hylli Þína og sannleika.

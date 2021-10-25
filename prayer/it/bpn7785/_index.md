@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7785 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Ogni qual volta entrate nella sala del consiglio, recitate questa preghiera con cuore traboccante di amor di Dio e con lingua monda di tutto tranne del ricordo di Lui, affinché l’Onnipotente Si degni di aiutarvi a conseguire la suprema vittoria.

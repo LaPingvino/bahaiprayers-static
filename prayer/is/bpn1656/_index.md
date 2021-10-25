@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1656 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrlegur ert Þú, ó Drottinn Guð minn. Ég bið Þig við Þína útvöldu, þá sem varðveita trúnað Þinn og þann sem Þú hefur gert að innsigli spá­manna Þinna, að gera minningu Þína að félaga mínum, ást Þína að markmiði mínu, ásýnd Þína takmark mitt, nafn Þitt lampa minn, ósk Þína að þrá minni og velþóknun Þína unað minn.

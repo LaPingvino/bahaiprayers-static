@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10978 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Aumai fakatasi koutou i te fiafia matakalekale mo te kamataaga o te fonotaga, fai a te talo tenei:

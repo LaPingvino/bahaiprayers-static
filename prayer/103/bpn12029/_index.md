@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12029 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 *Is there any Remover of difficulties 

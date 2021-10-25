@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9680 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Geprezen zijt Gij, o mijn God! Ik ben een van Uw dienaren die in U en in Uw tekenen gelooft. Gij ziet hoe ik mij naar de deur van Uw barmhartigheid begeef en mijn gelaat in de richting van Uw goedertierenheid heb gekeerd. Ik smeek U bij Uw voortreffelijkste benamingen en Uw verhevenste eigenschappen om de poorten van Uw gaven voor mij te openen. Help mij dan het goede te doen, o Gij die de Bezitter zijt van alle namen en eigenschappen!

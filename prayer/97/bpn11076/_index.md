@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11076 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-97', 'bpn-unsorted']
 +++
 એ સમ્રાટ છે સર્વજ્ઞ છે, પ્રજ્ઞાનિઘિ છે. 

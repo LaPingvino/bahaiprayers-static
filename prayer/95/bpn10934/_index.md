@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10934 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *A taugasoa katoa o te Atua... e ttau o ll=afo kit e mea e mafai, me pefea loa ate foliki o te olotou taulaga.  A te Atua e se-fakamafa a so se agaaga ola mai i luga atu o te mea ne ia o mafai.  A feasoasoani konei e ttau o aumai I centres katoa mo taugasoa taki tokotasi katoa…. O Taugasoa o te Atua!  Ke mautinoa ia koe me mai i tafa o lafoga konei, au fatoaga, tau galuega, mo tau pisinisi ka fakamanuia gina faka fia katoa ate fanaka, mo mea-alofa mo alofaaga.  A ia tela e vau mo se mea llei e tasi e maua faka-sefulu atu a te taui.  E seai se fakalotoloto-lua i te Aliki e ola ka fakamanuia atu fakauke kia latou ko la e fakamaumau a olotou koloa i Tena auala.  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10910 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E mafai pefea ne au o manako o moe, O te Atua, toku Atua, i mata o latou kola e finafinau kia Koe e alaala faeloa ona ko te olotou mavae mai ia Koe; kae e mafai pefea au o takato ki lalo o malolo ako agaaga o Au fagasele e fitaa i te olotou mao mai mo Tou nofo-mai?

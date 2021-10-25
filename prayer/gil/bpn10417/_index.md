@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10417 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 *Te mare ni Baha’i bon te bonnano ao te iraorao imarenaia itera aika uoua. E ngae n anne ma a riai ni bwaina te rangi ni karaurau ao n riki n ikikinai anuaia i bon irouia. E riai te itoman ae e aki tootoki aio ni kamwaneauaaki n te boraraoi ae e nene, ao e riai n ae te kaantaninga bon te karikirakea te bonnano, te iraorao, ao te katiteuanaaki ao n roota te maiu ae akea tokina. 

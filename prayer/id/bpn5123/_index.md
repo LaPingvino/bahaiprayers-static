@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5123 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Engkau yang kedekatan-Nya adalah keinginanku, yang kehadiran-Nya adalah harapanku, yang pengingatan-Nya adalah hasratku, yang istana kemuliaan-Nya adalah tujuanku, yang tempat kediaman- Nya adalah cita-citaku, yang nama-Nya adalah kesembuhanku, yang kasih-Nya adalah cahaya hatiku, yang pengabdian kepada-Nya adalah aspirasiku yang tertinggi! Aku memohon kepada-Mu demi Nama-Mu yang melaluinya Engkau telah memungkinkan mereka yang mengakui Dikau untuk membubung ke ketinggian- ketinggian pengetahuan tentang-Mu yang teragung, dan yang melaluinya Engkau telah memberikan kekuatan pada mereka yang menyembah Dikau dengan ikhlas untuk naik ke lingkungan istana kurnia-Mu yang suci, agar membantu daku untuk menghadapkan wajahku ke arah wajah-Mu, dan memusatkan pandanganku kepada-Mu serta berbicara tentang kemuliaan-Mu.

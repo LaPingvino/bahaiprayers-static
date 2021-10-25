@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5941 in Català'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Tu coneixes, oh Déu meu les tribulacions què han plogut sobre meu des de totes direccions i que ningú pot dissipar o canviar excepte Tu. Certament se,  en virtut del meu amor per Tu, que mai probes a cap ànima a no ser que desitgis elevar la seva posició en el Teu celestial Paradís, i enfortir el seu cor en aquesta vida terrenal amb el baluard del Teu imponent poder, perquè no s’inclini cap a les vanitats d’aquest món. Tu certament saps que en tota circumstància anhelo molt més el Teu record que la possessió de tot el què existeix als cels i a la terra.

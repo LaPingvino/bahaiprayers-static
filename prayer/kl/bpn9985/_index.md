@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9985 in Kalaallisut'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *“Umiartortoq Illernartoq ilinniaruk sallusuissut ilisimalerniassagassiuk aammalu eqqarsaatiginiassagassiuk Kusanassutsip Pilluaqqusaasup siunissami pisussat tamakkiisumik siulittuutigereersimammagit. Kikkut takunnittut mianersoqqusaalik." 

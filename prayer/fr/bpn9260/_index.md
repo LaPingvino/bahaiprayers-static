@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9260 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est le Miséricordieux, le Très-Généreux ! Ô Dieu, mon Dieu, ton appel m’attire et la voix de ta Plume de gloire m’éveille. Le flux de ta sainte parole m’envoûte et le vin de ton inspiration me grise. Tu me vois, ô Seigneur, détaché de tout sauf de toi, saisissant la corde de ta bonté et implorant les merveilles de ta grâce. Par les flots éternels de ta tendre bonté et par les feux resplendissants de ta sollicitude et de ta bonté, accorde-moi ce qui me rapprochera de toi et m’enrichira de tes richesses. Ma langue, ma plume, tout mon être attestent ton pouvoir et ta puissance, ta grâce et ta bonté, attestent aussi que tu es Dieu, qu’il n’est pas d’autre Dieu que toi, le Puissant, le Fort.

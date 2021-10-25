@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12072 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ”Katakanlah: Janganlah bergembira dalam benda yang engkau miliki; malam ini ianya kepunyaanmu, keesokan hari orang lain akan memilikinya.”

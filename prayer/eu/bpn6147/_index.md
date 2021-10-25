@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6147 in Euskara'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-eu', 'bpn-unsorted']
 +++
 Ene Jainkoa! Ez zaitez nigandik urrundu, zoritxarrez inguraturik bait nago. Ene Jainkoa! Ez nazazu bakarrik utzi, ezbeharrik gorrienak heldu dit eta. Zure ontasun maitakorrezko bularretik darion ugatz gardenez edaten emaidazu, egarriz errea bait nago. Zeure errukitasunezko hegoen itzalpean babestu nazazu, ditudan etsai guztiak bat eginik eraso bait naute. Zeure handitasunezko jarlekuaren hurrean jagon nazazu, Zeure aintzaren zantzua agertzen deneko aurrean, ezbeharrak larriki jo nauelako. Zeure erukortasun samurrezko eskuz eskainitako poztasun txolkadaz elikatu nazazu, nahigabe askok gogorki heldu didatelako. Zeure aginte ahalguztidunaren soingaineko azpatuaz jantzi nazazu, txirotasunak bilutsik utzi nauelako. Zeure Betikotasun Usoaren urrugaz gozaturik lo egiten utzi ezadazu, zoritxarrik latzenak heldu zaizkidalako. Zeure batasunaren jarleku aurrean, Zeure arpegiaren edertasun dizdiratien erdian, utzi ezadazu bizitzen, beldurrak eta ikarak zeharo larritu nautelako. Aintzaren lebiatan delakoaren urduritasunari begira, Zeure barkamen itsasoan murgildurik nazazu, neure bekatuek guztiz galdu nautelako.

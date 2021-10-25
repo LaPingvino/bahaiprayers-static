@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8582 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 仁慈的主啊！祢的仆人在此团聚，转向祢的王国，渴求祢的恩赐和福音。上帝啊！显明祢那深植于所有生命实在中的独一性之征象，开启祢潜藏于人性实在中的美德。

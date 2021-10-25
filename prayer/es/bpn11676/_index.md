@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11676 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Oración para ser recitada al terminar la reunión de la Asamblea Espiritual

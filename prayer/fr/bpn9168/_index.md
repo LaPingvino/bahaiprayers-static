@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9168 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Seigneur incomparable, sois un refuge pour ce pauvre enfant, un maître bon et indulgent pour cette âme errante et malheureuse.

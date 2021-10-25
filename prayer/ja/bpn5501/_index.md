@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5501 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお、優しき主よ。一対の天なる翼をこれらの雛鳥ひなどりの一人一人に恵み深く授け給え。そして、この無限の空間を飛んでいき、アブハ王国の最高点まで舞い上がれますよう、彼らに精神的な力を授け給え。

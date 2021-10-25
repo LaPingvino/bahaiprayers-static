@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11532 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, Quien eres el Autor de todas las Manifestaciones, el Origen de todos los Orígenes, la Fuente de todas las Revelaciones y el Manantial de todas las Luces! Atestiguo que, mediante Tu Nombre, el cielo de la comprensión ha sido adornado, y se ha encrespado el océano de la expresión, y las dispensaciones de Tu providencia han sido promulgadas a los seguidores de todas las religiones.

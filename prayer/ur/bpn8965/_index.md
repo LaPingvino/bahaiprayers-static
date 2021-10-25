@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8965 in اُردُو'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ur', 'bpn-unsorted']
 +++
 وہ سب کا نگراں اور قائم رکھنے والا ہے۔

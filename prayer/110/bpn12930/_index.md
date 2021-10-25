@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12930 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 ##SOTPELA PREA BILONG KOLIM LONG OLGETA WAN WAN DE 

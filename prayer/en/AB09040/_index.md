@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB09040 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB09040']
 +++
 O my Lord! O my Lord!

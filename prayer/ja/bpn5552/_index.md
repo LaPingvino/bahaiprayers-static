@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5552 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 まことにホゴゴラは偉大な法である。それは恩寵おんちょうと、

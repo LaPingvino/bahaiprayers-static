@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12289 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Atua! O toku Atua!  Te matagofie i luga ia Koe aua ia au ko oti ne faka-talitonu ne Koe kite fakaasiiga o Tou faka-tasitasi, fakapilipili atu au kite muna o Tou tokotasi, kae faka-ka mai au kit e afi o Tou alofa, kae fakalavelave mai au ki tetakutakuuga o Koe mo te tavini ko Au taugasoa mo tavini fafine.  

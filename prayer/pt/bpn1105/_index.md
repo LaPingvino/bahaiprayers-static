@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1105 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Que os Difusores das Fragrâncias de Deus recitem esta Prece todas as Manhãs:Ó Senhor, meu Deus! Louvores e graças a Ti por me haveres guiado ao caminho do reino e permitido andar nessa estrada reta e longa; por haveres iluminado os meus olhos pela contemplação dos esplendores da Tua luz e por haveres inclinado os meus ouvidos às melodias das aves de santidade do reino dos mistérios e atraído o meu coração com o Teu amor entre os retos.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9979 in Kalaallisut'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *Kitáb-i-Aqdasimi manna nalunaarneqarpoq: "Peqqusimavatsigit qinusaqqullusi inersimassutsillu aallartinnerani [15-inik ukioqalernermi] iisinnginniartaqqullusi; tamanna Guutimit Naalakkassinnit siulissilu Naalagaannit peqqussutaavoq. . . . Kikkut angalasut, napparsimasut, naartusut imaluunniit milutsitsisut, iisinnginniarnermik qilersugaanngillat. . . . Seqernup nuineranit tarrinneranut nerisassat imigassallu pinaveersaarsigik mianersuutigisiullu pilerisunnerup saammaannermik Atuakkami aalajangersimasumi taassuminnga arsaanngimmasi.” 

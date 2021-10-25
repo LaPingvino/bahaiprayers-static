@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn517 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O mein Gott, mein Meister, Du Ziel meiner Sehnsucht. Dein Diener möchte schlafen im Schutze Deines Erbarmens und ruhen im Zelte Deiner Gnade. Er fleht um Deine sorgende Acht und Deinen Schutz.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4790 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 O Fəzl Sahibi, Ən Səxavətlidir! Ey Allah, mənim Allahım! Sənin nidan məni cəzb etdi və Şərəf Qələminin səsi məni oyatdı. Müqəddəs bəyanının kövsəri məni məst etdi və ilhamının şərabı məni ovsunladı. Görürsən məni, Ya Rəbb, Səndən başqa hər şeydən inqita etmişəm, Sənin əta ipindən yapışmışam, fəzlinin möcüzələrini diləyirəm. Səni and verirəm Sənin inayət dənizinin əbədi dalğalarına və Sənin nəvaziş və lütfünün parıldayan şəfəqlərinə, mənə o şeyləri bəxş eylə ki, məni Sənə cəzb etsin və Sənin sərvətinlə məni zənginləşdirsin. Mənim dilim, mənim qələmim, mənim bütün varlığım Sənin qüdrətinə, Sənin qüvvətinə şəhadət verir ki, Sən Allahsan, Səndən başqa Allah yoxdur, Qüdrətli və Qadir Allah.

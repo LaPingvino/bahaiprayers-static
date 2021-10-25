@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2696 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *[Részlet Bahá’u’lláh Ragyogások - Ishráqát című táblájából]:

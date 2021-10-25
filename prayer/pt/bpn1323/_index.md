@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1323 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Agradece a Deus por te haver capacitado a entrar no Seu Reino de poder. Dentro em breve as graças do Teu Senhor descerão sobre ti, uma após a outra, e Ele fará de ti sinal para cada um que busca a verdade.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10081 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Vrav: Blahorečené buď Tvoje meno, ó Pane môj Bože! Úpenlivo Ťa prosím pri Tvojom mene, skrze ktoré jasne zažiarila nádhera svetla múdrosti, keď sa medzi ľudstvom dali do pohybu nebesia božského prehovoru, aby si mi milostivo pomohol Svojím nebeským utvrdením a umožnil mi, aby som medzi Tvojimi služobníkmi chválorečil Tvoje meno.

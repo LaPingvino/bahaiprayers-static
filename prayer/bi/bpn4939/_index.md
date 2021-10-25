@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4939 in Vanuatu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O Masta we Yu fogivim ol man oltaem! Yu Yu olsem wan sef ples we ol wokman blong Yu oli save haed long hem. Yu Yu save gud long olgeta tingting we mifala i stap haedem long hart blong mifala. Yu Yu save evri samting. Mifala i no gat paoa, be Yu nomo Yu gat bigfala paoa.  Mifala evriwan i fulap long ol sin, be Yu Yu fogivim ol sin mo Yu Yu sori long mifala oltaem.  O Masta, plis Yu no lukluk long ol mestek blong mifala.  Plis yu jajem mifala folem lav mo blesing blong Yu.  Ol mestek blong mifala i plante tumas, be bigfala solwora blong fogivnes blong yu i no gat en blong hem.  Mifala i no strong nating, be ol saen blong help blong Yu i klia tumas.   From hemia, plis Yu save sapotem mo givim paoa long mifala.  Plis Yu helpem mifala blong wokem olgeta aksen we i stret wetem Tabu Ples blong Yu.   Plis Yu laetemap hart blong mifala.  Plis Yu helpem mifala blong lukluk long wan klia fasin, mo blong harem gud ol toktok.  Plis Yu givim laef bakagen long ol ded man, mo plis Yu tekemaot ol sik blong ol sik man.  Plis Yu givim ol rijis long ol poa man, mo Yu helpem olgeta we oli fraet blong oli save stap sef mo kwaet.  Plis Yu letem mifala i kam insaed long kingdom blong Yu mo plis Yu laetemap mo soemaot stret rod long mifala.  Yu Yu hae tumas mo Yu Yu gat evri paoa.  Yu Yu givim ol gudfala samting long mifala oltaem. Yu Yu sori long mifala oltaem. Yu Yu kaen tumas.

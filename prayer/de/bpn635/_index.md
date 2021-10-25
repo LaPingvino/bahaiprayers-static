@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn635 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O mein Gott! Du siehst, wie wir nach Deinem Willen streben, den Blick auf den Horizont Deines Erbarmens gerichtet, wie wir um Dein Licht beten und Deine Erleuchtung suchen.

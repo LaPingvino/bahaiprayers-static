@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1146 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Deus! Ó meu Deus! Glória a Ti por me haveres confirmado na confissão de que Tu és uno, e atraído para a palavra da Tua unicidade; por me haveres feito arder com o fogo do Teu amor e ocupado em Te mencionar e em servir os Teus amigos e as Tuas servas.

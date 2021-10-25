@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10974 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Aliki toku Atua! O Koe ko te Fesoasoani ki tino vaaivai, ko te Atafai o latou mativa mo te Fakaola o latou ko la taka-seasea ko fuli atu kia Koe.

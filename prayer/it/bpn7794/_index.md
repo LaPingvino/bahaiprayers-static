@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7794 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O mio Signore! Mi sono avvicinato a Te, nel profondo di questa notte tenebrosa, confidando in Te con la lingua del mio cuore, fremente di gioia ai dolci aromi spiranti dal Tuo regno, il Più Glorioso, e Ti invoco così dicendo:

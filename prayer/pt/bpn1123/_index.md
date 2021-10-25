@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1123 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Meu Senhor! Meu Senhor! Louvo-Te e agradeço-Te por aquilo com que favoreceste a Tua humilde serva, a Tua escrava que a Ti implora e suplica, porque a guiaste verdadeiramente ao Teu Reino óbvio e a fizeste ouvir o Teu Chamado excelso no mundo contingente e contemplar os Teus Sinais, que provam o aparecimento do Teu reinado vitorioso sobre todas as coisas.

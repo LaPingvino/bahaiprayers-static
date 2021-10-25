@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7508 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Herra, minun Jumalani ja turvani hädässä! Kilpeni ja suojani vaikeuksissani! Kotini ja pakopaikkani hädän hetkellä ja kumppanini yksinäisyydessäni! Lohdutukseni tuskassani ja rakastava ystäväni yksin ollessani! Surun tuskieni karkottaja ja syntieni anteeksi antaja!

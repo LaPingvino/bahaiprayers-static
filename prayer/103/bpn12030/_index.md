@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12030 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 *Blessed is the Spot 

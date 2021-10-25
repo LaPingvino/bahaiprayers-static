@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12053 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Engkau Tuhan yang Penyayang! Dengan kemurahan hati kurniailah sepasang sayap syurgawi kepada setiap anak burung ini, dan berikanlah mereka kuasa rohani agar mereka dapat terbang melalui ruang yang tak terbatas ini dan mencapai puncak-puncak Kerajaan Abhá.

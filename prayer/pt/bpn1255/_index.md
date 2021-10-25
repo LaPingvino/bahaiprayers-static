@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1255 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado seja o Teu nome, ó meu Deus! Vês como o vento tempestuoso das provações fez tremer mesmo os fiéis, e o sopro das tribulações agitou até os corações dos que se haviam tornado firmes, salvo aqueles que participaram do Vinho que é a verdadeira vida, oferecido pelas mãos do Manifestante do Teu nome, o Mais Misericordioso. São aqueles sobre quem palavra alguma pode exercer influência senão a Tua palavra excelsa; os quais nada, em absoluto, extasia, a não ser o suave aroma das vestes da Tua lembrança, ó Tu que és o Possuidor de todos os nomes e o Criador da terra e do céu!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7881 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Gloria a Te, o mio Dio! Se non fosse per le tribolazioni sopportate sul Tuo cammino, come si potrebbero riconoscere coloro che veramente Ti amano? E se non fosse per le prove sopportate per amor Tuo, come potrebbe essere rivelato il grado di coloro che Ti bramano? La Tua potenza mi è testimone! Compagne di coloro che Ti adorano sono le lacrime che essi versano, e consolatori di coloro che Ti cercano sono i gemiti che emettono, e cibo di coloro che si affrettano a incontrarTi sono i frammenti dei loro cuori spezzati. 

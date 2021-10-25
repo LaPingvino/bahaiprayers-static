@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8894 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！一切榮耀歸於祢！祢使我確信祢的同一，吸引我傾聽祢獨一的話語。祢用愛火點燃了我，使我全心讚頌祢，服務於祢的朋友和僕人。

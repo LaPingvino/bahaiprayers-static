@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9355 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitro ô! Ianao Ilay Mpamorona ny Fanehoana rehetra, Loharanon’ny loharano rehetra, Fiandohan’ny Fanambarana rehetra sy Lohataonan’ny Fahazavana rehetra! Vavolombelona aho, fa noho ny Anaranao, ny lanitry ny fahatakarana dia noravahana, ny ranomasimben’ny fanambarana dia nisamboaravoara, ary ny fotoanan’ny Fitahianao dia nambara ampahibemaso tamin’ireo mpanara-dian’ny Finoana rehetra.

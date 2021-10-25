@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12933 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 O God bilong mi.  Mi laikim tumas yu.  Yu King bilong mi.  Mi gat bikpela laik long stap wantaim 

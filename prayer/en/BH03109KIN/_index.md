@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH03109KIN in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH03109KIN']
 +++
 He is God, exalted is He, the Lord of loving-kindness and bounty!

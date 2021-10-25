@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10077 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Velebený si, ó Pane môj Bože! Úpenlivo ťa prosím pri Tom, ktorý je Tvojím Najväčším Menom, ktorý bol ťažko sužovaný tými z Tvojich stvorení, ktoré popreli Tvoju pravdu a ktorý bol skľúčený takým zármutkom, aký žiaden jazyk nemôže popísať, umožni mi spomínať ťa a oslavovať Tvoju chválu v týchto dňoch, kedy sa všetci odvrátili od Tvojej krásy, preli sa s Tebou a pohŕdavo sa odvrátili od Toho, ktorý je Zjaviteľom Tvojej Veci. Okrem Teba Samého niet nikoho, ó môj Pane, kto by Ti pomohol a žiadna iná moc okrem Tvojej moci nemôže Ta podporiť.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3424 in български'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bg', 'bpn-unsorted']
 +++
 О Боже, Боже мой! Обърнах се с разкаяние към Теб и наистина Ти си Опрощаващият, Състрадателният.

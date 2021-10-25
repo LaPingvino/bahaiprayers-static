@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3719 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Tema on Jumal, ülendatud on Tema, armastava headuse ja helduse Issand!

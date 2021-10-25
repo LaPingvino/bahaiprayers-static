@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7662 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Senyè! Vwazinaj Ou se espwa mwen, prezans Ou se rèv mwen, souvni Ou se dezi mwen, lakou glwa Ou se bi mwen, abitasyon Ou se objektif mwen, non Ou se gerizon mwen, lanmou Ou se limyè kè mwen, epi reyisi sèvi Ou se pi gran entansyon mwen! Mwen sipliye Ou poutèt Non Ou, ki te pèmèt moun ki te rekonèt Ou vole nan pi wo otè konesans Ou yo, e ki te fè Ou bay moun ki adore ou avèk devouman pouvwa pou monte bò lakou sen favè Ou yo, mwen sipliye Ou pou ede mwen vire figi mwen nan direksyon figi Ou, pou mwen fikse je mwen sou Ou, epi pale sou glwa Ou. 

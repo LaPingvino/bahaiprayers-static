@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10101 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Môj Pane! Môj Pane! Vzdávam Ti chválu a vďaku za to, čím si obdaril Svoju pokornú služobníčku, Svoju úpenlivo prosiacu a pokorne sa modliacu otrokyňu, lebo si ju vskutku uviedol do Svojho zjaveného Kráľovstva, dal si jej začuť Svoje vznešené Volanie v tomto pominuteľnom svete a uzrieť Svoje Znamenia, ktoré dokazujú, že nad všetkými vecami je ustanovená Tvoja víťazná vláda.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12279 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Mai i te manogi gali o te vai e tafe o Tou favavau tuku mai kia au ke inu, O toku Atua, mo fuaga kaina o te lakau ola o Tou fuaitino ke mafai au o tami, O toku Fakamoemoega!  Mai i punaaga vai manino o Tou alofa fai aka ke inu au, O toku Matagofie, kae mai i lalo o te malu o Tou atamai favavau seai se gataaga ko au ke nofo i ei, O toku Mainaaga!  Mai i loto i te laufenua o Tou nofo pili mai, mai i Tou nofo-mai, fai aka au ke mafai o gasuesue, O toku Fagasele, kae i te lima faka-ata-mai o te nofoaiga-a-tupu o Tou alofakaimalie, fakanofo aka au i ei, O toku Manakoga!  Mai i lau matagi manogi gali ili malielie o Tou fiafiaaga, fai aka se laumatagi ke fano i luga ia au, O toku Koulu, kae ki malugaga o te palataiso o Tau mea tonu, fakasaoloto aka au ki ei, O toku 

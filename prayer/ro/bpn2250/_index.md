@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2250 in România'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, căutător al Adevărului! De vrei ca Dumnezeu să-ţi deschidă ochii, trebuie să-L implori, să I te rogi şi să fii în comuniune cu El la miezul nopţii, spunând:

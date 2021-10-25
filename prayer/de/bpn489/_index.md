@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn489 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Preis sei Dir, o mein Gott! Dies sind Deine Diener, angezogen von den Düften Deiner Barmherzigkeit, entflammt durch das Feuer, das im Baum Deiner Einzigkeit lodert, die Augen erleuchtet durch den Anblick des Strahlenglanzes vom Sinai Deiner Einheit.

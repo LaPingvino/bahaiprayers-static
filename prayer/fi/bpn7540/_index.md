@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7540 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani, Mestarini, kaipuuni Kohde. Tämä palvelijasi halajaa nukkua Sinun armeliaisuutesi huomassa ja levätä armosi katoksessa anoen huolenpitoasi ja suojelustasi.

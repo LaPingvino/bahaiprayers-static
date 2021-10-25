@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH00687 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH00687']
 +++
 ##Fire Tablet

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10864 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Toku Atua, toku Atua Fagasele, toku Tupu, toku Fakamoemoega!  Se a ate laulaufaiva e mafai o tuku atu a fakafetai kia Koe?  Au ne se fakalogo, a ko au ne fago ne Koe.  Ne fuli tua atu au kia Koe, kae ne fesoasoani alofa mai Koe ke fuli atu au kia Koe.  Au ko mate, kae ne fakaola au ne Koe ki te vai ote ola.  Au ko vaaivai, kae ne fakaola au ne Koe ki te vaai faka-te-lagi o Tau faipatiiga te la e tafe mai ite Pene o te Alofa-Kaimalie Katoatoa.

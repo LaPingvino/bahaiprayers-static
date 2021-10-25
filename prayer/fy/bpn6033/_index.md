@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6033 in Frysk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 O Jo, leafderyk Hear! Jo hawwe it hiele minskdom út deselde stam skepen. Jo hawwe foarbeskikt dat wy allegearre ta deselde famylje hearre. Foar Jo hillich Antlit binne allegearre Jo tsjinners en it hiele minskdom wurdt fan Jo Tabernakel beskerme. Wy allegearre binne gearkommen om Jo Tafel fan Oerfloed en wurde ferljochte troch it ljocht fan Jo foarsjennichheid.

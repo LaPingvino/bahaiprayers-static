@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1642 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrð sé Þér, ó Guð minn! Ef ekki væri fyrir þjáningarnar sem þolaðar eru á vegi Þínum, hvernig mætti þekkja Þína sönnu elskendur? Og væri það ekki vegna mótlætisins sem borið er vegna ástar á Þér, hvernig mætti opinbera stöðu þeirra er þrá Þig? Vald Þitt ber mér vitni! Förunautar allra sem tilbiðja Þig eru tárin sem þeir fella, huggarar þeirra sem leita Þín eru andvörp þeirra og næring þeirra sem hraða sér á Þinn fund er agnirnar úr sundruðum hjörtum þeirra.

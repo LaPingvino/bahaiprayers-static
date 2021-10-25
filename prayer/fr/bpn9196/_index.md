@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9196 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, tu es celui dont les noms guérissent les malades, soignent les infirmes, désaltèrent les assoiffés, apaisent les âmes tourmentées, guident les égarés, relèvent les humiliés, enrichissent les pauvres, instruisent les ignorants, réconfortent les désespérés, consolent les affligés, raniment les cœurs glacés et soulagent les opprimés. Ô mon Dieu, par ton nom, toute chose créée s’anima, les cieux se déployèrent, la terre fut créée, les nuages se formèrent, la pluie se déversa sur la terre. Ce sont, en vérité, des signes de ta grâce envers toutes tes créatures.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9582 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij Verzorger! Gij hebt de zoete geur van de Heilige Geest over de vrienden in het Westen geademd en met het licht van goddelijke leiding de westelijke hemel verlicht. Gij hebt hen die ooit veraf waren nader tot Uzelf gebracht; Gij hebt vreemden in liefdevolle vrienden veranderd; Gij hebt de slapenden doen ontwaken; Gij hebt de achtelozen opmerkzaam gemaakt.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5294 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 O neuporedivi Bože! Gospodaru Kraljevstva! Ove duše su Tvoja nebeska vojska. Pomozi im i grupama Vrhovnog Skupa učini ih

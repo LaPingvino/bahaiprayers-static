@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1235 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Deus, meu Mestre, Alvo do meu desejo! Este servo Teu quer dormir à sombra da Tua misericórdia e repousar sob o pálio da Tua graça, implorando o Teu cuidado e a Tua proteção.

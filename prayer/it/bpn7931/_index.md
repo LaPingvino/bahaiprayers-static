@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7931 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 *L’Aqdas dice: «Vi abbiamo comandato di pregare e digiunare dall’inizio della maturità [15 anni]; questo è ordinato da Dio, vostro Signore e Signore dei vostri avi. Egli ne ha dispensato coloro che sono deboli per malattia o età. ... Viaggiatori, sofferenti, gestanti e nutrici non sono vincolati al digiuno. ... Astenetevi da cibi e bevande dall’aurora al tramonto e badate di non privarvi di questa grazia che è stabilita nel Libro».

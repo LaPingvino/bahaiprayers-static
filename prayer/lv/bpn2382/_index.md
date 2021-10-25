@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2382 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai daudzināts top Tavs Vārds, ak mans Dievs, par to, ka esi darījis zināmu to Dienu, kas pār visām dienām ir tā visaugstākā, to Dienu, kuru Tu Savās brīnumainajās Vārsmās pavēstīji Saviem Izredzētajiem un Saviem Praviešiem, to Dienu, kurā Tu pāri visai radībai lēji Savu Vārdu slavas mirdzumu. Liela ir svētlaime visiem tiem, kas pievēršas Tev, kas ienāk Tava tuvuma lokā un uztver Tavas balss melodiju.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1745 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *Allir vinir Guðs . . . ættu að leggja af mörkum það sem þeir geta, hversu fábrotin sem sú fórn kann að vera. Guð leggur ekki meiri byrðar á sálina en hún getur borið. Slík framlög verða að koma frá öllum mið­stöðvum og öllum átrúendum . . . Ó vinir Guðs! Verið þess fullvissir, að vegna þessara framlaga hlýtur jarðyrkja yðar, iðnaður og verslun margfalda blessun með liðveislu og góðum gjöfum. Sá sem vinnur eitt gott verk hlýtur tífalda umbun. Enginn vafi er á því, að hinn lifandi Drottinn mun ríkulega staðfesta þá sem gefa auð sinn á vegi Hans.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5822 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Oració Pel Marit

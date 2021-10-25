@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4376 in Filipino'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 *Dapat usalin sa tanghali

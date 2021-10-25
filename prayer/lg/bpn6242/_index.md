@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6242 in Luganda'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 *...Okwejusa ebibi n'ebyonono eri abantu, tekiki rizibwa... Omwonoonyi alina okuda eri Katonda we, olwo n'awanjagira ekisa, ky'Oyo, nnyini nnyanja ey'ekisa, n'asaba ekusonyiyibwa okuva mu Ggulu ly'obugobi bwe, ayatule nti:

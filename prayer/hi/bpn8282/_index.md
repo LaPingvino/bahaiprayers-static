@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8282 in हिंदी'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hi', 'bpn-unsorted']
 +++
 *(आध्यात्मिक सभा की बैठक की समाप्ति पर यह प्रार्थना करें)

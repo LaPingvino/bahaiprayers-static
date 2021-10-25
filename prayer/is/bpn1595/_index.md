@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1595 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð! Endurnýja og gleð anda minn. Skír hjarta mitt. Auk hæfni mína. Í Þínar hendur fel ég allar athafnir mínar. Þú ert leiðarljós mitt og athvarf. Ég mun ekki framar verða sorgmæddur og hryggur. Ég mun verða hamingjusamur og fagn­andi. Ó Guð! Ég mun ekki framar verða áhyggju­fullur né láta erfiðleika íþyngja mér. Ég mun ekki framar festa hugann við skuggahliðar lífsins.

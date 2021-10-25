@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn526 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Mein Gott, Du meiner Anbetung und meiner Sehnsucht Ziel, Du Allgütiger, Mitleidvollster! Alles Leben kommt von Dir, und alle Gewalt ruht in Deiner Allmacht Griff. Wen immer Du erhebst, der ist über die Engel erhoben und erreicht die Stufe des: „Wahrlich, Wir erhoben ihn zu hohem Rang“, und wen Du erniedrigst, der wird niedriger denn Staub, nein, geringer als das Nichts.

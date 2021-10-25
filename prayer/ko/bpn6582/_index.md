@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6582 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 저에게 현세와 내세의 좋은 것들을

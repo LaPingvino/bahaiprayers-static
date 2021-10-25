@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10861 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 ##KE FAI I ASO KATOA, ITE TAEAO, TUTONU, MOTE AFIAFI

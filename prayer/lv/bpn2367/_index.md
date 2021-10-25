@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2367 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak mans Dievs un mans Valdniek! Es esmu Tavs kalps un Tava kalpa dēls. Es esmu cēlies no dusas šai ausmas stundā, kad no Tavas gribas Gaismas Avota ir iemirdzējusies Tavas vienesmes Rīta Zvaigzne un lej savus starus pār visu pasauli, kā tas nolemts Tavās Likumu Grāmatās.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8124 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Du ser mig, O min Gud, nedbøjet i min ringhed, ydmyg over for Dine bud, idet jeg underkaster mig Dit herredømme, skælver ved magten i Dit rige, på flugt fra Din vrede, bønfaldende om Din nåde, i tillid til Din tilgivelse, medens jeg ryster af ærefrygt for Din rasen. Jeg bønfalder Dig med bankende hjerte, med strømmende tårer og en længselsfuld sjæl, fuldstændig løsrevet fra alt, om at gøre Dine elskede til lys, der stråler ud over Dine riger og at hjælpe Dine udvalgte tjenere med at ophøje Dit ord, at deres ansigter må blive smukke og udstråle klart lys, at deres hjerter kan blive opfyldt af mysterier og hver sjæl afkaste sin byrde af synd. Beskyt dem mod angriberen, fra ham der er blevet en skamløs og bespottelig misdæder.

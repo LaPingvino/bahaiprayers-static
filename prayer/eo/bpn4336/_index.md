@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4336 in Esperanto'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 Ho Eternulo, mia Dio kaj mia Haveno en mia aflikto! Mia Ŝildo kaj mia Ŝirmo en miaj turmentoj! Mia Azilo kaj mia Rifuĝejo en horo de bezono, kaj en mia izoleco mia Kunulo! En mia angoro mia Konsolo, kaj en mia soleco amema Amiko! La Foriganto de la doloregoj de  miaj ĉagrenoj, kaj la Pardonanto de miaj pekoj! 

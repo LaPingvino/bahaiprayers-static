@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1733 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ég vegsama Þig, ó Guð minn, fyrir að vekja mig af svefni mínum og leiða mig fram eftir að ég var horfinn og reisa mig upp af móki mínu. Ég hef vaknað þennan morgun og beint ásjónu minni að dýrð sólar opinberunar Þinnar sem lýst hefur upp himna valds Þíns og tignar, viðurkennt tákn Þín, trúað á bók Þína og haldið fast í líftaug Þína.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6115 in Chamorro'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN

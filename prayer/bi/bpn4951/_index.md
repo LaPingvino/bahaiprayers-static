@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4951 in Vanuatu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O God!  Yu save gud mo Yu lukluk se hart blong mi i wantem nomo se Yu Yu glad long mi.  Mo hart blong mi i wantem se mi save stap strong blong servem yu, mi save givim laef blong mi long servis blong yu, mi save wok long bigfala plantesen blong yu, mo mi save sakrifaesem evri samting long rod blong Yu.   Yu Yu save evri samting, mo Yu Yu lukim evri samting!

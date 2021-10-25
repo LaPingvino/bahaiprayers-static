@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9140 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Glorifié soit ton nom, ô Seigneur, mon Dieu ! 

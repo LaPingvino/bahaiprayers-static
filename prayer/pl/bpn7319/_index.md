@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7319 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Boże, któryś jest Autorem wszystkich Uosobień, Początkiem wszystkich Początków, Krynicą wszystkich Objawień i Źródłem wszystkich Świateł! Świadczę, że Twoje Imię upiększyło niebo zrozumienia, i sprawiło, że ocean wypowiedzi wezbrał, a zwiastowanie Twojej opatrzności zostało obwieszczone wierzącym wszystkich religii.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2395 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Viņš ir Dievs, Kas uzklausa lūgšanas un atbild uz tām!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6495 in 한국어'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 주님의 진실한 애인들의 이마를, 그들에게 풍족히

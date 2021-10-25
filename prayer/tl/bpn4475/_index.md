@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4475 in Filipino'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Luwalhatiin Ka, O Panginoon kong Diyos! Isinasamo ko sa Iyo na patawarin Mo ako at yaong mga nagtataguyod sa Iyong Pananampalataya. Tunay, Ikaw ang pinakadakilang Panginoon, ang Tagapagpatawad, ang Mapagpala sa Lahat. O aking Diyos! Tulutan ang yaong mga tagapaglingkod Mo na pinagkaitan ng kaalaman ay matanggap sa Iyong Kapakanan: sapagkat kung kilala Ka na nila nagpapatunay sila sa katotohanan ng Araw ng Paghukom at hindi sila tumututol sa mga palatandaan ng Iyong pagpapala, at pagkalooban sila, saan man sila nananahan, ng masaganang bahagi ng mga bagay na Iyong iniatas para sa mga banal sa Iyong mga tagapaglingkod. Ikaw sa katotohanan ang kataas-taasang Pinuno, ang Laging-Mapagpala, ang Pinakamapagkawanggawa.

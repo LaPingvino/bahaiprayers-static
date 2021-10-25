@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7791 in Italiano'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Lodato sia il Tuo Nome, o Signore Iddio nostro! In verità Tu sei il Conoscitore di cose invisibili. Disponi per noi il bene che la Tua universale conoscenza può pesare. Tu sei il sovrano Signore, l’Onnipotente, l’Amatissimo.

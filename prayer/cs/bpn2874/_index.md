@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2874 in Česky'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-cs', 'bpn-unsorted']
 +++
 Je nějaký Vysvoboditel z těžkostí kromě Boha?

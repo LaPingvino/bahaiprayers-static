@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10927 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua ko te omotou Aliki!  Puipui mai matou i Tou alofa fataua mai i so se mea tela e masei kia Koe, kae tuku mai kia matou a mea ko la e ttau mo Koe.  Tuku mai kia matou se tusaga e tai uke atu mai i Tou mau-koloa, kae fakamanuia mai matou.  Solo keatea a omotou se i mea ko la ne fai ne matou, kae fuku keatea a omotou agasala, kae fakamagalo mai matou i Tou fakamagalo-alofa.  E tonu, a Koe ko te tafasili i te Maluga, ko te Ola-ia-Ia.

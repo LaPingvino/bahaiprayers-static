@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10877 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Atua! O toku Atua! E lavea ne Koe a tamaliki konei ko aka ote lakau ote ola, ko manu eva o te vai ote fakaolataga, ko penina ote vasa o Tou alofa, ko losa ote fatoaaga o Tau takitakiiga.

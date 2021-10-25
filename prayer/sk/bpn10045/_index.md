@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10045 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó môj Bože! Ó môj Bože! Vskutku, Tvoji služobníci sa obracajú k Tebe, pokorne prosiac Tvoje kráľovstvo milosti. Vskutku, sú vábení Tvojou svätosťou a planú ohňom Tvojej lásky, vyhľadávajú utvrdenie z Tvojho úžasného kráľovstva a dúfajú v dosiahnutie Tvojej nebeskej ríše. Vskutku, túžia po udelení Tvojich darov a prahnú po osvietení zo Slnca skutočnosti. 54

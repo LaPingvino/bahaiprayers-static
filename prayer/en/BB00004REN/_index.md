@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BB00004REN in English'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-en', 'BB00004REN']
 +++
 Glory be unto Thee, O Lord, Thou Who hast brought into being all created things, through the power of Thy behest.

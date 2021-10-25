@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn620 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Ruhm sei Dir, o Herr aller Welten, Du Geliebter aller, die Dich erkannt haben! Du siehst mich unter einem Schwerte sitzen, das an einem Faden hängt, und bist dessen gewahr, dass ich in solcher Lage meine Pflicht Deiner Sache gegenüber nicht vernachlässigte, noch versäumte, Dein Lob zu preisen, Deine Tugenden zu verkünden und alles auszurichten, was Du mir auf Deinen Tafeln geboten hast. Kann auch das Schwert jederzeit auf mein Haupt fallen, rufe ich dennoch Deine Geliebten so eindringlich, dass ihre Herzen hingerissen werden zum Horizont Deiner Majestät und Größe.

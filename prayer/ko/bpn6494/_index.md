@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6494 in 한국어'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 이 두 밝은 달이, 이 결혼이

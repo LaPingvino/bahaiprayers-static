@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11872 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa, Nyaa dek jadin Susud sua Manifestasi, Otak ndu sua Otak, Bak Pinobol ndu sua Revelasi, Tilaga ndu sua Pangijawak! Oku ngaku nang pakai Adon Ingan longit ilmu pangipu’ant mbok obuah ngabunt, bia bagih pangilaan Ingan mbok obuah ngabar tudu sua pengikut-pengikut sua agama.

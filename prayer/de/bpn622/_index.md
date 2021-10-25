@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn622 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du, Dessen Nähe mein Verlangen, Dessen Gegenwart meine Hoffnung, Dessen Gedenken mein Wunsch, dessen Hof der Herrlichkeit und Dessen Wohnung mein Ziel ist, Dessen Name meine Heilung, Dessen Liebe die Leuchte meines Herzens und dessen Dienst meine tiefste Sehnsucht ist. Ich flehe Dich an bei Deinem Namen, durch den Du allen, die Dich erkennen, die Kraft gibst, sich zu den höchsten Höhen Deiner Erkenntnis emporzuschwingen, und durch den Du die Dich inbrünstig Anbetenden befähigst, in die Bereiche des Hofes Deiner heiligen Gunst aufzusteigen - hilf mir, mein Angesicht Deinem Antlitz zuzuwenden, meine Augen fest auf Dich zu richten und von Deiner Herrlichkeit zu künden.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12035 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 *Dilaksanakan sekali dalam dua puluh empat jam.

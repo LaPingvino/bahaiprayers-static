@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11081 in नेपाली'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ne', 'bpn-unsorted']
 +++
 *यसो भनोस्ः

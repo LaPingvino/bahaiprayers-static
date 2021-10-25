@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9125 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Les prières journalières

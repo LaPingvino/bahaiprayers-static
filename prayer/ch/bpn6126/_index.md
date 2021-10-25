@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6126 in Chamorro'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 Yu’os na’huyong na i kandet dinaña’ u inina todu i tano’, ya i fino’, “iyon Yu’os i Raino,” u matugge’ gi ha’en todu i taotao.

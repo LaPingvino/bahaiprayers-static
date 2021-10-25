@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12529 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-107', 'bpn-unsorted']
 +++
 ##Orasaun Obrigatóriu

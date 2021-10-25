@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12338 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Tavaeega maluga e i Tou igoa, O te Aliki toku Atua!  A te pogisa koi i luga i fenua katoa, ako te maalosi o te amio masei ko siomia i fenua katoa.  Mai ia latou, e atafia ne au a mea gali o Tou atamai, kae matea a te maina o te molii o Tou atamai.  

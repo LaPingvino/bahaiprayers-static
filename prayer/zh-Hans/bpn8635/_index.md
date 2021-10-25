@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8635 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 全世界的主宰，万国的希望啊，荣耀归于祢！祢已在至伟圣名里彰显自己，借由祢的圣名，智慧及宣示之珍珠从祢知识大海的贝壳里显现；那神圣启示的天穹，因祢圣容之日的光耀而大放异彩。

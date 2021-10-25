@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3743 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Au olgu Sulle, oo Jumal, et Sa oled avaldanud armastust inimkonna vastu. Oo Sina, kes Sa oled meie elu ja valgus, juhi oma teenreid oma rajal ja tee meid rikkaiks Sinus ning vabaks kõigest muust peale Sinu.

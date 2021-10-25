@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10909 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua, toku Matai, te Koulu o toku Faka-moemoeega!  Mea nei, ko Tau tavini, ko salasala o moe i te fale o Tou alofa-kaimalie, kae ka malolo mai o Tou gali, kae akai atu ki Tau tausiiga mo Tau leoleooga.

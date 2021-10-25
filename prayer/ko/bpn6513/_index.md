@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6513 in 한국어'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 주께서 신임하시는 종들을

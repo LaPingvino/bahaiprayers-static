@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10332 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Min Gud som jag tillber och dyrkar! Jag bär vittnesbörd om Din enhet och erkänner Dina gåvor, både i det förflutna och i denna tid. Du är den Allgivande, vars barmhärtighets rikliga regn har strömmat ned över hög och låg lika, och vars nåds härlighet utgjutits över både hörsamma och ohörsamma.

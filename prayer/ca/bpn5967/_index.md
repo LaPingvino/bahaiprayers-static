@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5967 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Tu veus, oh Déu meu, com els Teus estimats han estat envoltats pels rebels entre les Teves criatures i els malvats entre el Teu poble. No hi ha lloc on no s’hagi elevat el lament dels Teus estimats i els gemecs dels Teus escollits. T’imploro pel Teu Més Gran Nom que treguis la mà de poder del pit de la Teva força i assisteixis amb ella a tots els què T’estimen.

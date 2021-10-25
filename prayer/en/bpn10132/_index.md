@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10132 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O Lord! Guard Thou the children that are born in Thy day, are nurtured at the breast of Thy love, and fostered in the bosom of Thy grace.

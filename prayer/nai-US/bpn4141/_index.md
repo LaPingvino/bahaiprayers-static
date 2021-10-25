@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4141 in American Indian'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Wakȟáŋ Tȟáŋka, kašká mayúza yo, awáŋmaglaka yo, pȟetížaŋžaŋ wíyakpa na wičháȟpi iléǧa čha makáǧa yo.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12032 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 *Say God sufficeth 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11811 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Doa Tuluap Ngalom)

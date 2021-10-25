@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB11094 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB11094']
 +++
 O my God!  O Thou forgiver of sins, bestower of gifts, dispeller of afflictions!

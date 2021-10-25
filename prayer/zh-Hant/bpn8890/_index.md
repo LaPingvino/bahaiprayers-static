@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8890 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 祂是聆聽禱告、回應禱告的上帝！

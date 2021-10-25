@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11952 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Gorky hem umyt berýäniň ady bilen.

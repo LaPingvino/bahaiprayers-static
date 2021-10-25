@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2374 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slava Tev, ak mans Dievs! Tu esi majestātiskuma un slavas, diženuma un goda, varas un valdīšanas, cēluma un žēlastības, godbijības un spēka Avots. Savus izredzētos Tu tuvini Vislielajam Okeānam, un Saviem nolūkotajiem Tu piešķir godu iepazīt Savu Senseno vārdu. Neviens debesīs un uz zemes nespēj pretoties Tavai augstajai gribai. No mūžīgiem laikiem Tu valdi pār visu radību, un uz mūžīgiem laikiem Tu turpināsi valdīt pār visām Tevis radītajām būtnēm. Nav cita Dieva bez Tevis, Visvarenā, Visaugstā, Visspēcīgā, Visgudrā.

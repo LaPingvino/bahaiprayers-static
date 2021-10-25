@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12027 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-97', 'bpn-unsorted']
 +++
 મહામારીથી સંરક્ષણ માટે 

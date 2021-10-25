@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4903 in Vanuatu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 ##PREA IA I BLONG TALEMAOT EVRI DEI, LONG MONING, LONG  MEDEL  DEI  MO  LONG  NAET

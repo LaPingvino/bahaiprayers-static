@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10746 in Srpski српски'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 *Kadagod uđete u salu za savetovanje, izgovorite ovu molitvu srcem koje bije ljubavlju prema Bogu i jezikom pročišćenim od svega osim Njegovog pomena, kako bi vam Svemoćni milostivo pomogao da ostvarite vrhunsku pobedu.

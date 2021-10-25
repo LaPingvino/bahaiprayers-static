@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5248 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Veličano je ime Tvoje, Gospodaru moj Bože! Ti si Onaj Kojeg svi obožavaju i Koji se nikom ne klanja, Koji je svima Gospodar a ničiji sluga, Koji zna sve a nije znan nikome. Ti se htjede obznaniti ljudima, pa Svojom rječju pokrenu stvaranje i uobliči postojanje. Nema Boga osim Tebe, Uobličitelja, Stvoritelja, Svemogućega, Najmoćnijeg.

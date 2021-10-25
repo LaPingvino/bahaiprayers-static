@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7697 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Lwanj pou non Ou, O Senyè Bondye mwen! Se Ou menm tout bagay adore men Ou menm Ou pa adore anyen, Ou menm Ki Senyè tout bagay men Ou pa depann sou pèsonn, Ou menm Ki konnen tout bagay men pa gen anyen ki konnen Ou. Ou te vle fè lèzom rekonèt Ou; poutèt sa, avèk yon sèl mo ki te soti nan bouch Ou, Ou te fè kreyasyon an parèt e Ou te bay linivè a fòm li. Pa gen okenn lòt Bondye esepte Ou, Atizan an, Kreyatè a, Toupisan an, Li menm Ki Gen Plis Pouvwa. 

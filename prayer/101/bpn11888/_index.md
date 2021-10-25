@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11888 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Ngin mudi tudu Ingan, O Raja Topa ku! Ingan ogi kilint duoh pu’ant nang oku ngijak ulunt-ulunt Ingan dik-eh tikos tudu dibokon jok-eh daang olant pinuju pah pala Ingan , bia mbok nunuak bala odak pilati botul-botul doie dibokon jok-eh onik dek ogi Ingan nerang tanon daang Buk Nanonk Ingan, Buk dek mbok obuah pimuun bitundae duwoh  titah ajaib Ingan bia maksud dek muktamad. 

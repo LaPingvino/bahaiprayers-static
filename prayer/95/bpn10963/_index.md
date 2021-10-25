@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10963 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Ke Tavaegina Koe, O te Aliki toku Atua! Au e akai faka-maulalo kia Koe i te Faka-asiga nei te la ne fuli te pogisa kite mainaaga, tela ne faite a te Fakatokaaga Faka-fokifoki tenei mo te faka-asiiga o te Tapeleti Tusia, mo te sukeega o te Epa Mafola-lauefa, ke tuku ifo ki luga ia au kae ki luga foki ia latou ko la e fakatasi mai te la ka mafai ne matou o eva ki loto i lagi o Tou matagoefie maluga, kae fakamaa matou mai i pisipisiiga o fifiiga ko la ko oti ne faka-lavelave ne latou a tino fa-lotolotolua mai i te ulu ki te tapaneko o Tou tafatasi.

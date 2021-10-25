@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2463 in Русский'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ru', 'bpn-unsorted']
 +++
 *(Навруз, 21 марта,— первый день года бахаи.)

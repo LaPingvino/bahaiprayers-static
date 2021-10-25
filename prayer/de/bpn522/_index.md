@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn522 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht sei Dein Name, o Du, in Dessen Griff die Zügel aller Seelen sind, die Dich erkennen, und in Dessen Rechter die Geschicke aller im Himmel und auf Erden ruhen. Kraft Deiner Macht tust Du, was Du willst, und vermittels Deines Willens bestimmst Du, was Dir gefällt. Der Wille des entschiedensten Menschen ist nichts im Vergleich mit den zwingenden Beweisen Deines Willens, und der Vorsatz des unbeugsamsten Geschöpfes schwindet dahin vor den mannigfachen Offenbarungen Deines Ratschlusses.

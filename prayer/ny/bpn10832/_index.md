@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10832 in Chichewa'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ny', 'bpn-unsorted']
 +++
 Kuwala ndi ulemelero, malonje ndi mayamiko zikhale pa 

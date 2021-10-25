@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6027 in Frysk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 Kom by elkoar yn suvere blydskip en sis dit gebed by it begjin fan de gearkomste.

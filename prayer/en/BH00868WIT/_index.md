@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH00868WIT in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH00868WIT']
 +++
 My God, Whom I worship and adore!  I bear witness unto Thy unity and Thy oneness, and acknowledge Thy gifts, both in the past and in the present.  Thou art the All-Bountiful, the overflowing showers of Whose mercy have rained down upon high and low alike, and the splendors of Whose grace have been shed over both the obedient and the rebellious.

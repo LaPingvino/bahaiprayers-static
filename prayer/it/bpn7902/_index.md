@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7902 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Provvidente! Tu hai alitato sugli amici in Occidente la soave fragranza dello Spirito Santo e con la luce della guida divina hai rischiarato il cielo occidentale. Tu hai permesso che coloro che un tempo erano lontani Ti si facessero vicini; gli stranieri hai trasformato in amici amorevoli; hai ridestato i dormienti; hai dato consapevolezza ai disattenti.

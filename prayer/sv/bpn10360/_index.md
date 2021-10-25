@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10360 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Följande bön är avsedd att läsas ... varje dag:

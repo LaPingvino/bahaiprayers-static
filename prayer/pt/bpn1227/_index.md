@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1227 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado sejas Tu, ó Senhor meu Deus! Todas as vezes que me vem a lembrança de Ti e me ponho a refletir nas Tuas virtudes, tal êxtase e enlevo se apoderam de mim que me vejo sem o poder de fazer menção do Teu nome e de Te louvar. Sou transportado a tais alturas que reconheço o meu próprio ser como idêntico à lembrança de Ti no Teu reino, e à essência do Teu louvor entre os Teus servos. Enquanto durar este ser, o Teu louvor continuará a difundir-se entre as Tuas criaturas e a Tua lembrança a ser glorificada pelo Teu povo.

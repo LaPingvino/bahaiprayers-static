@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10937 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E fakamalugina a Koe, O te Aliki toku Atua! Au e fakamolemole kia Koe ki te matagi o Tou alofa, pe la foki mo latou ko la ko Aso foou o Tou fingalo mo Malumalu ne vini mai i ei a Tau musumusuga, ke aumai ki au mo latou katoa ko la e sala ki Ou mata a te mea te la e tau mo Tou Kaimalie mo fakamanuiaaga alofa, kae aogaa mo Au mea-alofa mo alofaaga.  Au e mativa kae nofo tokotasi, O toku Aliki! Fakagoto ifo aka au ki loto i te vasa o Tou maumea; fia inu, fai aka ke inu au mai i te vai ola o Tou alofa-kaimalie.

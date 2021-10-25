@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn508 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Du bist meine Hoffnung und mein Geliebter, mein höchstes Ziel und mein Verlangen! In tiefer Demut und völliger Hingabe bitte ich Dich, mache mich zum Minarett Deiner Liebe in Deinem Lande, zur Leuchte Deines Wissens unter Deinen Geschöpfen und zu einem Banner göttlicher Großmut in Deinem Reiche.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1329 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola Do Sagrado Marinheiro 

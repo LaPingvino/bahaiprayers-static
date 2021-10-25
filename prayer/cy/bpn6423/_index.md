@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6423 in Cymraeg'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Ti, y Duw Dihafal!  O Ti Brenin y Deyrnas!  Yr eneidiau hyn yw Dy fyddin nefol.  Cynorthwya hwynt, a chyda minteiau’r Llu Goruchaf, gwna hwynt yn fuddugol; fel y bo pob un ohonynt megis catrawd, a gorchfyga’r gwledydd hyn yn rhinwedd cariad Duw a goleuni’r ddysgeidiaeth ddwyfol.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1151 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, meu Deus! Estes são os Teus servos fracos, os Teus leais escravos e as Tuas servas que se curvaram diante das Tuas Palavras excelsas e se humilharam no Teu Limiar de luz, e deram testemunho da Tua unicidade, através da qual se fez brilhar o sol em esplendor meridiano. Escutaram o chamado que levantaste do Teu Reino Oculto e, com corações trémulos de amor e êxtase, responderam à Tua convocação.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1217 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Meu Deus, Tu a Quem adoro e venero, Tu que és o Mais Poderoso! Dou testemunho que nenhuma descrição feita por qualquer criatura, jamais Te poderá revelar, ou louvor pronunciado por ser algum, Te expressar. Nem a compreensão de qualquer um no mundo inteiro, nem a inteligência de qualquer dos seus povos poderá, de um modo que seja digno de Ti, conseguir acesso à corte da Tua santidade ou desvendar o Teu mistério. Qual o pecado dos habitantes da cidade dos Teus nomes que tanto os afastou do Teu Horizonte todo-glorioso, e os impediu de se aproximarem do Teu grande Oceano? Uma só letra do Teu Livro é a mãe de toda a expressão, e uma palavra daí procedente gerou todas as criaturas. Qual a ingratidão mostrada pelos Teus servos, para Tu os haveres impedido, a todos eles, de Te reconhecerem? Uma gota do oceano da Tua misericórdia é suficiente para extinguir as chamas do inferno, e uma centelha do fogo do Teu amor basta para incendiar um mundo inteiro.

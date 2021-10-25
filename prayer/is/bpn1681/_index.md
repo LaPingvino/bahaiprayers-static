@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1681 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð minn! Ó Guð minn! Ég er þjónn sem laðast að Þér. Af auðmýkt nálgast ég dyr eindar Þinnar og bið til ríkis miskunnar Þinnar. Ó Guð minn, leyf mér að tilheyra Þér af heilum huga, að hugsa aðeins um Þig, logandi af eldi ástar Þinnar, aðskilinn frá öllu nema Þér, svo ég fái unnið að málstað Þínum, útbreitt visku Þína, flutt þekkingu Þína og miðlað gleðinni af að þekkja Þig.

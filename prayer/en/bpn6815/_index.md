@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6815 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Lauded be Thy name, O my God! Aid Thou by Thy strengthening grace Thy servants and Thy handmaidens to recount Thy virtues and to be steadfast in their love towards Thee. How many the leaves which the tempests of trials have caused to fall, and how many, too, are those which, clinging tenaciously to the tree of Thy Cause, have remained unshaken by the tests that have assailed them, O Thou Who art our Lord, the Most Merciful!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6272 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ye ye Katonda, Ayi Mukama, Katonda wange!  Ayi Ggwe omuyambi w'abanafu, omukubagiza w'abanaku, era omununuzi wa bakateyamba abo abakyukira Gyoli.

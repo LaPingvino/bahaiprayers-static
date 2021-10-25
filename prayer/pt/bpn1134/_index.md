@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1134 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, meu Deus! Vês-me imerso num oceano de angústias, cingido pelos fogos da opressão, em prantos na escuridão da noite. Insone, agito-me no leito e os meus olhos lutam para avistar a luz matinal da fidelidade e da fidedignidade. Estou agonizante como um peixe cujas entranhas ardem ao debater-se aterrorizado sobre a areia e, todavia, guardo sempre a esperança de que Tuas dádivas surjam de todos os lados.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2362 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai cildināts top Tavs Vārds, ak mans Dievs! Tik tiešām, kā uz Tavu pavēli un saskaņā ar Tavu vēlmi visu radību pārņēma Tava labestības tērpa smaržas, un caur Tavu valdīšanu, varenību un spēku virs Tavas žēlastības apvāršņa atmirdzēja Tavas Gribas Saule, es lūdzu Tevi, izdzēs no manas sirds jebkādu dīku iztēli un jebkādas tukšas iedomas, lai ar visu savu jūtu spēku es pievēršos Tev, ak Tu visas cilvēces Valdniek!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10962 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Au e akai totuli kia Koe, O toku Atua, ona ko Tau Fakailoga mafi, mo te fakaasiiga o Tou alofa i vasia o tagata, ke se ave au keatea mai ite mataloa o te fakai lasi o Tou nofo mai, kae ke se faka-fanoanoa oku faka-moemoeega ko oti ne faka-saga ki luga i faka-asiiga o Tou alofa kaimalie i vasia o Au mea faiite.  E lavea ne Koe au, O toku Atua, e taofi ki Tou Igoa, ko te Toe Tafasili i te Mana, ko te Toe Tafasili i te Maina, ko te Toe Tafasili i te Mafi, ko te Toe Tafasili ite Lasi, koTe Toe Tafasili i te Maluga, ko te Toe Tafasili i te Silisili-ese, kae piki mmau ki te kapa o te gatu te la ne piki katoa ki ei a tino ite lalolagi nei mo te lalolagi ma vau.

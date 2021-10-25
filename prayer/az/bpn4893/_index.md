@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4893 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ən Qədim, Ən Böyük Allahın Adı ilə!

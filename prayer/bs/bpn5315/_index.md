@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5315 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 OBože! Iskušenja koja šalješ su spas dušama onih koji su posvećeni Tvojoj volji. Spomen na Tebe je melem srcima onih koji su se približili Tvome dvoru. Blizina Tebi je istinski život onima koji su Tvoji ljubljeni, Tvoja prisutnost je najveća želja onih koji žude da ugledaju Tvoje lice, udaljenost od Tebe je mučenje onima koji su priznali Tvoju jednost, razdvojenost od Tebe znači smrt onima koji su spoznali Tvoju istinu!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10279 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Jag vet icke, o min Gud, vad den eld är som Du har tänt i Ditt land. Jord kan aldrig dölja dess glans eller vatten släcka dess låga. Alla världens folk är oförmögna att motstå dess kraft. Stor är välsignelsen för honom som har närmat sig den och hört dess dån.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6337 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Hompa, ose usuntu, tu pa ufenkenda Woge, Uhepwe, tupa ruha rwekurudiva Lyoge, tuhafesa, twa digopa, tupa sikoda Soge. Yidira yemeguru noyikorama yomowiza kugwana nkenye ezuva nondya Koge, yisitwa nayinye kwa hamena kerero Lyoge lyokounongo Woge wokutekura.

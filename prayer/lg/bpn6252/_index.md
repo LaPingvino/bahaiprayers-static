@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6252 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ayi Katonda, Katonda wange!  Omuzaana Wo ono akukowoola nga akwesiga, nga akyusiriza ekyenyi kye Gyoli, nga akwegayirira omufukeko emikisa Gyo egyomu ggulu era omubikkulire ebi rungi Byo eby'omwoyo, era omumulisize omusana ogw'obwakatonda Bwo.  Ayi Mukama wange!  Ozibule amaaso ga baze wange.  Osanyuse omutima gwe n'amagezi g'okukumanya, ebirowoozo bye obize kw'ebyo ebikusanyusa, sanyusa omwoyo gwe, nga omubikulira omusana Gwoogw'ekitiibwa.

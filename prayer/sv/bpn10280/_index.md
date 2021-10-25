@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10280 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Månget modfällt hjärta, o min Gud, har  satts i brand av Din saks eld och mången slumrande har väckts av Din stämmas ljuvhet. Hur många är icke de främlingar som sökt skydd i skuggan av Din enhets träd, och hur talrika är icke de törstande som längtat efter Ditt levande vattens källa i Dina dagar.

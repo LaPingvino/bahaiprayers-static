@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7616 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Nan Non Bondye, Sila a Ki Pi Ansyen an, Pi Gran an. 

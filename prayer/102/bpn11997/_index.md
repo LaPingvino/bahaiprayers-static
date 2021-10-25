@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11997 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Ylahym, Ylahym! Seniň Baýlyk gapyňy maksat edinen bu garyby görýänsiň. Seniň Derman deňziňde ýüzmäge gelýän bu bimary görýänsiň. Seniň Adalatyňa we Rähmetiňe wasyl bolmagy niýet edinen bu mazlumy görýänsiň. Seniň Aýdyňlyk daňyň ýalkymynyň we Seniň saýlanlaryň göwnüni tapan Kelamyň hatyrasy üçin meni Öz Döwranyň baýlygyndan hem Öz Aýatlaryň hoş ysyndan mahrum eýleme. 

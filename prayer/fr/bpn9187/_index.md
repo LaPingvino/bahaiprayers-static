@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9187 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Gloire à toi, ô Roi de l’éternité, Bâtisseur de nations et Façonneur de tout ce qui retombe en poussière ! Par ton Nom qui convie toute l’humanité à se tourner vers l’horizon de ta majesté et de ta gloire, et qui mène tes serviteurs à la cour de ta grâce et de tes faveurs, je te prie de me compter parmi ceux qui se détachent de tout sauf de toi, se dirigent vers toi et se tournent vers tes bienfaits malgré les malheurs que tu infliges.

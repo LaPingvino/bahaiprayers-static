@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5237 in Bosanski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Udijeli mi, Bože moj, obilni udio Svoje ljubavi i blagonaklonosti, a sjajem Svog blistavog svjetla privuci nam srca, o, Ti koji si Najočigledniji i Sveslavljeni. Neprestano mi tokom dana i noći, kao znak Svoje milosti šalji Svoje okrepljujuće lahore, dobri Gospodaru.

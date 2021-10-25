@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11846 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Ingan Raja dek tulut! Dimutik ulunt-ulunt Ingan nyaa dek mbok bigupul daang udung tih, mbok tikos tudu pritah Ingan bia bonar-bonar pilelu pah pala duoh berkat Ingan. O Ingan Topa! Bitanga duoh nai odak tibukti tanda-tanda pinyindi Ingan dek pernah obuah panyal daang sua-sua: hakikat pingidip. Buka duoh nguliak nilai-nilai murni dek mbok nai Ingan odak timolam bia bisukant daang hakikat manusia.

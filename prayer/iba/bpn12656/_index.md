@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12656 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Petara! O Petara! Tu siku burung ti patah sayap lalu penerebai iya kelalu lubah—tulung iya awakka iya ulih terebai ngagai tuchung pemansang enggau penyelamat, terebaika iya enggau naka pengaga sereta pengelantang dalam langit ti luas , nyariska pelandai iya dalam Nama Nuan ti Pemadu Tinggi ba selampur menua, kelantangka pending enggau kangau tu lalu terangka mata merening tanda pengiring.

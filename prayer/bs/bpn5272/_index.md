@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5272 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 OBože, moj Bože! Ti si moja Nada i moj Voljeni, moja najviša Težnja i Želja! Skroman i potpuno posvećen Te molim da me učiniš minaretom Tvoje ljubavi u Tvojoj zemlji, svjetiljkom Tvog znanja među Tvojim stvorenjima, i zastavom božanske darežljivosti pod Tvojom vlašću.

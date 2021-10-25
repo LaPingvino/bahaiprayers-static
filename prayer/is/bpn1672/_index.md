@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1672 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er græðarinn, nægjandinn, hjálparinn, sá sem allt fyrirgefur, hinn almiskunnsami.

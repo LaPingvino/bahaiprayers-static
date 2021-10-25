@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10334 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Du gode Herre! Du har skapat hela mänskligheten av samma ursprung. Du  har bestämt att alla skall tillhöra samma familj.  I Din heliga närvaro är de alla Dina tjänare och hela mänskligheten är i skydd av Ditt tabernakel.  Alla är församlade vid Ditt nådabord och alla är upplysta av Din försyns ljus.

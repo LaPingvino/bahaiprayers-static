@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8114 in Dansk'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O Gud vor Herre! Beskyt os gennem Din nåde mod alt hvad der må være Dig imod, og skænk os det der sømmer sig for Dig. Giv os mere ud af Din gavmildhed og velsign os. Forlad os det vi har gjort og bortvask vore synder og tilgiv os med Din nådige tilgivelse. I sandhed, Du er Den Mest Ophøjede, Den Selvbestående.

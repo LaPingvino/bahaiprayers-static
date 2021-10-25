@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10291 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Du fullkomlige Gud! Jag är ett litet barn, giv att Din gåvas famn blir till en kär och behaglig viloplats, låt mig växa och födas upp med Din kärleks mjölk och honung, fostra mig vid Din kunskaps bröst och gör mig ädel och vis redan i min barndom.

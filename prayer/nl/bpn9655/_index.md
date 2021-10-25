@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9655 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Zeg: Verheerlijkt zij Uw Naam, o Heer mijn God! Ik smeek U bij Uw Naam waardoor de pracht van het licht van wijsheid luisterrijk heeft geschenen toen de hemelen van goddelijke uiting onder de mensheid in beweging zijn gebracht, om mij genadiglijk te helpen door Uw hemelse bevestiging en mij in staat te stellen Uw Naam onder Uw dienaren te verheerlijken.

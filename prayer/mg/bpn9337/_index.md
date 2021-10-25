@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9337 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Voninahitra ho Anao, o Ianao izay Tompon’izao rehetra izao sy Malalan’ireo izay nanaiky Anao! Hitanao aho eo ambanin’ny sabatra mihantona amin’ny singan-kofehy, ary fantatrao fa amin’izany fepetra izany, tsy nanadino ny andraikitro manoloana ny Fototrao sy hampiely ny fankalazana Anao, hanambara ny Fahatanterahanao ary hilaza izay rehetra nandidianao ahy tao amin’ny Takelakao. Na dia efa akaiky hianjera eo amin’ny lohako aza ny sabatra, dia miantso ireo izay tianao aho,  tamin’ny lantom-peo izay nitondra ny fon’izy ireo  ho  eny amin’ny faravodilanitry ny Fiandriananao sy ny Fahalehibeazanao.

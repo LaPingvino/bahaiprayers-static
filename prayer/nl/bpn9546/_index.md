@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9546 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 In Naam van God, de Heer van overweldigende majesteit, de Algebiedende.

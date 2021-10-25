@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9399 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitro ô! O Ianao izay mamela heloka, izay mizara ny soa, izay manaisotra ny alahelo!

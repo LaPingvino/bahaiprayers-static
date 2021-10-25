@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11773 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Ingan Raja dek masik! Koih dimutik ulunt Pinutuab Ingan, ro’o ngilukuh ndu Tiban kudus Ingan. Koih doie kalik ngilawan madas jok-eh tiang dek togap tih, doie dibokon dek ngaduap koih setegal surga  pak-eh tudu pangilikont Ingan dek selamat. Ngilawan koih, ngin berkat tudu koih, gimbal koih, ngosa koih mana wat singan koih harus rinduk pak-eh suka-kila Ingan, jok eh nyoja pimudi Ingan, jok eh kodog olant pangibonar, podo-podo koih ponai sukup biotak daya bibagih duwoh dek sua-sua soma jok-eh Ingan, bia terima hadiah koih sok laut amal bait Ingan, sak koih alit bijuwang ngan koih pakat Agama Ingan bia kapah puate osiak Ingan odak popah duoh luwas, sak koih alit bingoon duoh tilisik jok-eh duwoh Ingan, bia dik koih tiyak bilakuk dibokon pak eh bikaum daang Ingan. 

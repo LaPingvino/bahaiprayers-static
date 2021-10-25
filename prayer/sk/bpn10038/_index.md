@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10038 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Chválorečené buď Tvoje meno, ó môj Bože a Boh všetkého, moja Sláva a Sláva všetkého, moja Túžba a Túžba všetkého, moja Sila a Sila všetkého, môj Kráľu a Kráľ všetkého, môj Vlastník a Vlastník všetkého, môj Zámer a Zámer všetkého, môj Hýbateľ a Hýbateľ všetkého! Úpenlivo Ťa žiadam, aby som nebol zadržiavaný od oceánu Tvojho nežného milosrdenstva a  aby som tiež nebol oddialený od brehov blízkosti k Tebe.

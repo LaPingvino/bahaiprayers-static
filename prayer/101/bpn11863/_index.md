@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11863 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa, Topa ku! Dimutik leh ulunt Ingan dek solut; bala dimutik yoh leh onak dali bia onak dayung Ingan dek setia, nyaa dek mbok guluk ngoluab odop-eh ngaduap Pingunang simomu Ingan bia pidouk odop-eh ndu jawak Pinutuab Ingan, bia ngakon ndu pinyindik Ingan pakai dek sok Boton Onu dek mbok obuah nai bidonang jawak u’unt onu. Bala tih mbok ngojit tudu bogant pinanon dek ogi Ingan bitamus sok Alam Ingan dek dik-eh tonga, bia daang otin simodup odak pangirinduk duoh munuas do’ont, bala tih mbok sangup terima bogan Ingan.

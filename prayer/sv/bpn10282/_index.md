@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10282 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Gud, min Gud! Fyll åt mig den bägare som är avskiljandet från allt, och i Din storslagenhets och Dina gåvors mångfald, gläd mig med det vin som är att älska Dig. Befria mig från lidelse och begär, bryt sönder mina bojor till denna lägre värld, drag mig i hänryckning till Ditt överjordiska land och vederkvick mig i skaran av tjänarinnor med Din helighets andedräkt.

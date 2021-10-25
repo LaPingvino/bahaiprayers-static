@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4557 in հայերեն'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hy', 'bpn-unsorted']
 +++
 Նա է Գթասիրտն, Ամենաառատաձեռնը:

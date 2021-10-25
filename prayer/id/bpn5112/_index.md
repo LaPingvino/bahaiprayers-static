@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5112 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhan, Tuhanku! Engkau adalah Harapanku dan Kekasihku, Tujuanku dan Hasratku yang tertinggi! Dengan sangat rendah hati dan pengabdian sepenuhnya aku berdoa kepada-Mu agar menjadikan daku menara cinta-Mu di negeri-Mu, lampu pengetahuan-Mu di antara makhluk-makhluk-Mu dan panji rahmat keilahian di kerajaan-Mu.

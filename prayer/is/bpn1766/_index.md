@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1766 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *(Aukadagarnir eru fjórir síðustu dagar fyrir bahá’í föstuna – fimm í hlaupári. Þá á að nota til undir­búnings fyrir föstuna. Þeir eru dagar gestrisni, gjafa og kærleiksverka.)

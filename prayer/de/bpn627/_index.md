@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn627 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht bist Du, o Herr mein Gott! Ich bete zu Dir bei Ihm, der Morgenröte Deiner Zeichen, der Manifestation Deines Namens, der Schatzkammer Deiner Eingebung und dem Speicher Deiner Weisheit, sende auf Deine Geliebten herab, was sie befähigt, Deiner Sache standhaft anzuhangen, Deine Einheit zu erkennen, Deine Einzigkeit zu bestätigen und Zeugnis abzulegen für Deine Göttlichkeit. Erhebe sie zu solchen Höhen, o mein Gott, dass sie die Zeichen der Macht der Manifestation Deines erhabensten, allherrlichen Selbstes in allen Dingen erkennen.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1230 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus! As provações mandadas por Ti são um bálsamo para as feridas de todos aqueles que se devotam à Tua vontade; a lembrança de Ti é um remédio que alivia o coração de quem se aproximou da Tua corte; a Tua proximidade é a verdadeira vida para aqueles que Te amam; a Tua presença é o ardente desejo dos que aspiram contemplar o Teu semblante; o seu afastamento de Ti é um suplício para todos os que admitiram a Tua unidade, e a separação de Ti é morte para aqueles que reconhecem a Tua verdade!

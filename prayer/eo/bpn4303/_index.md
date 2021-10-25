@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4303 in Esperanto'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 ##La longa deviga preĝo

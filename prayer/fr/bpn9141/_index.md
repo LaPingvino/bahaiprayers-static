@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9141 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô toi dont je souhaite la proximité, dont j’espère la présence et dont je désire me souvenir, toi dont le glorieux parvis est mon but, la demeure mon objectif, le nom ma guérison, l’amour le rayonnement de mon cœur, toi que j’aspire d’abord à servir ! Par ton nom, qui a permis à ceux qui te reconnaissent de s’élever vers les sommets suprêmes de la connaissance de toi et à ceux qui te vénèrent de s’élever jusqu’à l’enceinte de la cour de tes saintes faveurs, je te supplie de m’aider à tourner mon visage vers ta face, à fixer mes yeux sur toi, à proclamer ta gloire.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7477 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Zgromadźcie się w niezmąconej radości i na początku każdego zebrania odmówcie następującą modlitwę:

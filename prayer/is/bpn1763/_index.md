@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1763 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Í nafni Guðs, hins aldna, hins æðsta.

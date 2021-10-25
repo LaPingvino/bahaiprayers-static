@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8475 in বাংলা'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bn', 'bpn-unsorted']
 +++
 তুমিই আরোগ্যকারী, পর্যাপ্তকারী, সাহায্যকারী, সর্ব -ক্ষমাশীল, পরম করুণাময়।

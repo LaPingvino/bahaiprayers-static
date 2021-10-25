@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1691 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð, sem ert höfundur allrar birtingar, upp­spretta allrar uppsprettu, brunnur allrar opin­berunar og lind allra ljósa. Ég ber því vitni að vegna nafns Þíns var himinn skilnings prýddur skarti, úthaf orðsins brimaði og trúarkerfi forsjónar Þinnar voru kunngerð meðal fylgjenda allra trúar­bragða.

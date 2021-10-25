@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12227 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Vikiiga e Koe, O te Aliki toku Atua!  I taimi katoa e masaua ne au a Koe kae mafaufau ki Ou uiga lei, Au e poko saale i se laumatagi kae fonu au i te fiafia ia Koe te la ko se maua ne au o faipati a Tou igoa kae fakamaluga a Koe.  Au ko lele ki tua ki koga maluga te la ko lavea i ei ne au me e pau mo te masausauga o Koe i Tou lalolagi, mo te tina vikiiga o Koe i vasia o Au tavini.  Me e pefea a te leva o te ola o Koe, me e pefea a te leva o te tumau o fakaoko atu Ou tavaeega ki tua atu i vasia o Au mea ola faiite mo Tou masausauaga ka vikia ne Au tagata a Koe.  

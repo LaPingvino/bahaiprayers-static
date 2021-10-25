@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn563 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Ich bitte Dich bei dem Weltmeer Deiner Heilung, bei Deiner Gnade Sonnenglanz, bei Deinem Namen, durch den Du Deine Diener beherrschest, bei der durchdringenden Kraft Deines heiligsten Wortes, bei der Macht Deiner erhabensten Feder und bei Deinem Erbarmen, das der Schöpfung aller im Himmel und auf Erden voranging, reinige mich mit den Wassern Deiner Großmut von allen Leiden und Gebrechen, von aller Schwäche und Kraftlosigkeit.

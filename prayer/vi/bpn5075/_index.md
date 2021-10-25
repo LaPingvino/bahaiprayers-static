@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5075 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, sự gần gũi Ngài là điều mong muốn của con, sự hiện diện của Ngài là niềm hy vọng của con, sự tưởng nhớ đến Ngài là khát vọng của con, triều đường vinh quang của Ngài là mục đích của con, nơi ở của Ngài là định hướng của con, Danh Ngài là sự chữa bệnh cho con, tình yêu Ngài là hào quang của tâm hồn con, phụng sự Ngài là ước vọng cao nhất của con! Con khẩn cầu Ngài bởi Danh Ngài, qua Danh ấy Ngài đã giúp những người nhận biết Ngài bay vút lên những tầm cao tột đỉnh của tri thức Ngài, và ban sức mạnh cho những người thành tâm tôn thờ Ngài để họ vượt lên tới chốn thánh vi trong triều đường ân huệ thiêng liêng của Ngài, xin giúp con hướng mặt về Thánh nhan Ngài, gắn cái nhìn của con vào Ngài, và rao giảng về vinh quang của Ngài.

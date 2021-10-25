@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5471 in 日本語'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 あなたに栄光あれ、おお主よ、ご命令の力により万物を生じさせ給うた御方よ。

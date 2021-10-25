@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11646 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Tú, bondadosa y amorosa Providencia! El Oriente está en movimiento y el Occidente se agita como las eternas olas del mar. Soplan las suaves brisas de la santidad y, desde el Reino Invisible, brillan resplandecientes los rayos del Astro de la Verdad. Se entonan los himnos de la unidad divina y ondean las enseñas del poder celestial. Se hace oír la Voz angelical que, como bramido del leviatán, lanza el llamamiento a la abnegación y a la evanescencia. La voz triunfal de Yá Bahá’u’l-Abhá resuena por doquier y en todas las regiones se oye el llamado de Yá Alíyyu’l-A‘lá.  No hay revuelo en el mundo salvo el de la Gloria del Único Conquistador de Corazones, ni agitación salvo el del oleaje del amor de Aquel que es el Incomparable, el Bienamado.

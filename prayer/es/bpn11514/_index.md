@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11514 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Te rindo alabanzas, oh mi Dios, pues la fragancia de Tu bondad me ha cautivado y las suaves brisas de Tu misericordia me han inclinado hacia Tus muníficos favores. Hazme beber, oh mi Señor, de la mano de Tu munificencia, las aguas vivas que han permitido a todo el que ha gozado de ellas librarse del apego a quienquiera que no seas Tú, y elevarse hacia la atmósfera del desprendimiento de todas Tus criaturas, y fijar la mirada en Tu amorosa providencia y Tus múltiples dones.

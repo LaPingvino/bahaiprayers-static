@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5038 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Danh Ngài thật đáng tán tụng, lạy Ngài, Đấng Thượng Đế của con! Ngài quả là Đấng mà muôn loài phải tôn thờ và không tôn thờ ai. Ngài là Đấng Chúa tể muôn loài nhưng không ai biết Ngài. Ngài muốn tỏ cho loài người biết Ngài; vì vậy bằng một lời phán ra từ thần khẩu Ngài, Ngài đã làm cho vạn vật hiện hình và tạo dáng vũ trụ. Không có Thượng Đế nào khác ngoài Ngài, Đấng Tạo hình, Đấng Sáng lập, Đấng Toàn năng, Đấng Đại Quyền uy.

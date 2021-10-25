@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9366 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 *Tonom-bavaka lava izay vakiana indray mandeha isan’andro. 

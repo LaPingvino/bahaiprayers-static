@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8240 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 The day-star of words, dawning above the horizon of the utterance of Him Who is the Lord of all names and attributes, hath, at this most blessed of hours, shone forth in all truth with the splendours of the light of God. The spirit of understanding, flowing from the Pen of the All-Glorious, hath, by virtue of His grace, been conferred upon all created things. The mystery of all mysteries, emerging from behind the veils of concealment, hath, in very truth, been revealed to the righteous, as bidden by God, the Almighty, the Unconstrained.

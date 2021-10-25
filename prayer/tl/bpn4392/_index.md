@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4392 in Filipino'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O aking Panginoon! O aking Panginoon!

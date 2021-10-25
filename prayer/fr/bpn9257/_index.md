@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9257 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Aux flots parfumés de ton éternité, laisse-moi m’abreuver, ô mon Dieu, et aux fruits de l’arbre de ton existence, permets-moi de goûter, ô mon Espoir ! 

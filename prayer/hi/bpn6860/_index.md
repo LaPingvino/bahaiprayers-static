@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6860 in हिंदी'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hi', 'bpn-unsorted']
 +++
 ##आरोग्य के लिये लम्बी प्रार्थना 

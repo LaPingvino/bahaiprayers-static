@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12700 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Puji ngagai Nuan, O Tuhan Petara aku! Nuan meda sereta nemu ianya Aku udah ngangauka bala pengasuh Nuan anang nunga ke bukai semina nuju penyikap Nuan, lalu udah nangkan sida awakka nadai berati ke bukai tang utai ti udah ditulis dalam Bup Nuan ti Nyemetak , Bup ti udah dikirum ke baruh nitihka letak-tangkan ti enda ulih dipereti enggau tuju Nuan ti enda ulih diubah.

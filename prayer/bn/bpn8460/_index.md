@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8460 in বাংলা'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bn', 'bpn-unsorted']
 +++
 (যখন বাহা’ই অন্তেষ্টিক্রিয়ার সময় এই প্রার্থনা পঠিত হয়, তখন সকলকে দাঁড়াইতে হইবে)

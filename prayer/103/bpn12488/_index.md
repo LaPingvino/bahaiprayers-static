@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12488 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 I adjure Thee by Thy might, O my God! Let no harm beset me..

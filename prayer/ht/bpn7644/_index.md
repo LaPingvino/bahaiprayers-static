@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7644 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Chase chagren mwen avèk fòs bonte Ou ak gran favè Ou yo, O Bondye, Bondye mwen, epi fè soufrans mwen disparèt avèk souverènte Ou ak pisans Ou. Ou wè mwen, O Bondye mwen, avèk figi mwen ki vire bò kote Ou nan yon moman kote tristès antoure mwen nan tout direksyon. O Ou menm Ki se Senyè tout sa ki egziste, Ki domine tout bagay vizib ak envizib, mwen sipliye Ou, poutèt Non Ou ki te fè Ou kapte kè ak nanm lèzòm, poutèt gran vag yo ki nan Oseyan mizèrikòd Ou a e poutèt limyè Solèy bonte ou, mwen sipliye Ou pou konte mwen pami moun ki pa te kite anyen ditou anpeche yo vire figi yo nan direksyon Ou, O Ou menm Senyè tout non yo ak Kreyatè Syèl la! 

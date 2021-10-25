@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2705 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Magasztaltassék a Te Neved, ó, Uram, én Istenem! Nem tudom, miféle vízből teremtettél engem, milyen tüzet gyújtottál bennem, vagy milyen agyagból gyúrtál. Minden tenger nyugtalansága lecsendesedett, de nem csitult el ezen Óceán, amelyet a Te akaratod szélfúvása tart mozgásban. Minden tűz lángja kioltatott, kivéve azt a Tüzet, amelyet a Te mindenható kezed gyújtott meg, és amelynek sugarait Neved hatalma által szórtad mindenekre egedben és földeden. Amint a megpróbáltatások súlyosbodnak, heve úgy lesz mind forróbb és forróbb.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4927 in Vanuatu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O God blong mi! Yu Yu fogivim ol sin! Yu Yu givim ol presen! Yu Yu tekemaot ol trabol!

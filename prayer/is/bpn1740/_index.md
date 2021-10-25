@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1740 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn! Lát tré Þinnar himnesku einingar vaxa hratt. Vökva það því, ó Drottinn, með streymandi vatni velþóknunar Þinnar og lát það bera þesskonar ávexti frammi fyrir opinberunum Þinnar himnesku fullvissu sem Þú þráir Þér til dýrðar og vegsemdar, lofs og þakkargjörðar, til að mikla nafn Þitt, lofa einleika kjarna Þíns og dásama Þig, því allt er í Þínum höndum og einskis annars.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6379 in Cymraeg'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 A oes unrhyw Symudwr anawsterau ond Duw? Dywedwch: Clod i Dduw! Ef yw Duw! Mae pawb yn weision Iddo, a phawb yn cadw Ei orchmynion!

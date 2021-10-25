@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11512 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Glorificado eres, oh mi Dios! Te doy gracias por haberme hecho conocer a Aquel que es la Aurora de Tu misericordia, el Alba de Tu gracia y el Depositario de Tu Causa. Te imploro, por Tu Nombre, por el cual los rostros de quienes están cerca de Ti han palidecido y los corazones de quienes están consagrados a Ti han emprendido su vuelo hacia Ti, que me permitas asirme a Tu cuerda en todo momento y bajo cualquier condición, y librarme de todo apego a cualquiera que no seas Tú, y mantener los ojos dirigidos hacia el horizonte de Tu Revelación y cumplir lo que me has prescrito en Tus Tablas.

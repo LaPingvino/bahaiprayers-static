@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8160 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Lad dem, der spreder Guds vellugte, fremsige denne bøn hver morgen.

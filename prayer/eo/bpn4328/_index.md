@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4328 in Esperanto'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 Li estas la Kompatema, la Ĉion-Donacanta! 

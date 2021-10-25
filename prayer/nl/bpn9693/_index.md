@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9693 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij vergevingsgezinde Heer!

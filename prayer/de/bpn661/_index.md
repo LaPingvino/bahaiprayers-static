@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn661 in Deutsch'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht seiest Du, o Herr, der Du alles Erschaffene durch die Macht Deines Befehls ins Dasein gerufen hast.

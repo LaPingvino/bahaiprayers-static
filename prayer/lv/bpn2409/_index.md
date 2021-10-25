@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2409 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slava Tev, visas pasaules Dievs un visu tautu Ilgojums! Ak Tu, Kas atklājies Visdiženākajā Vārdā, caur kuru no Tavas lielās gudrības jūras gliemežnīcām skatam pavērušās zināšanu un runas pērles, un Ticības apvāršņi tikuši rotāti ar Tavas parādīšanās saules gaismu.

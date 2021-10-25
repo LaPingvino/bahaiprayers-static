@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3322 in български'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bg', 'bpn-unsorted']
 +++
 ##Средна задължителна молитва

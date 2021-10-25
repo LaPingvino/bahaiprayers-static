@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5317 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Bože moj, Predmetu mog obožavanja, Cilju moje čežnje, Svedarežljivi, Najsaosjećajniji! Zivot od Tebe potiče i sva snaga počiva nadohvat Tvoje moći. Onaj koga Ti uzvisiš je iznad anđela i doseže ovaj položaj: ‚Zaista, podigli smo ga do mjesta u visini!‛, a onaj koga Ti poniziš je niži od prašine, niži od ničega.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7431 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O ty, który poszukujesz Prawdy! Jeżeli pragniesz, aby Bóg otworzył ci oczy, powinieneś błagać Go, modlić się do Niego i łączyć się z Nim o północy, mówiąc:

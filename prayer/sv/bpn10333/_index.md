@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10333 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Lovat vare Ditt namn, o Herre min Gud! Mörker har fallit över varje land och fördärvets makter omger alla nationer. Men genom dem uppfattar jag Din lysande visdom  och urskiljer Din försyns klara ljus.

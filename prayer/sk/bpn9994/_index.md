@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9994 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ty láskavý Pane! Zošli nebeskú pomoc tejto dcére Kráľovstva a milostivo jej dopomôž, aby zostala pevná a neochvejná v Tvojej Veci a aby tak, ako spieva slávik v ružovej záhrade tajomstiev, aj ona mohla spievať v Abhá Kráľovstve melódie v prekrásnych tónoch, a tým každému prinášala šťastie.

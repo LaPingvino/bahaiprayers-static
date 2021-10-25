@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10260 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du gütiger Herr! Verleihe gnädiglich jedem dieser jungen Vögel himmlische Flügel und gib ihnen die geistige Kraft, den unendlichen Raum zu durchfliegen und sich in die Höhen des Reiches Abhá aufzuschwingen.

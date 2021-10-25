@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2790 in Shqip'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Ai është Perëndia

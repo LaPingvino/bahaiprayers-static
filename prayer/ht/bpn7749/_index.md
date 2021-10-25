@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7749 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Ou menm Ki Gloriye, O Senyè Bondye mwen! Chak fwa mwen eseye site Non Ou, mwen gen yon anpechman poutèt gwo peche mwen yo ak dezobeyisans grav mwen fè kont volonte Ou, e mwen remake mwen anpeche tèt mwen jwenn gras Ou, e sa fè mwen vrèman manke fòs pou selebre lwanj Ou. Kanmenm, akoz mwen gen anpil konfyans nan bonte Ou, sa renouvle espwa mwen nan Ou, ak fèm konesans mwen genyen Ou pral trete mwen avèk bonte Ou, ki ban mwen kouraj pou chante lwanj Ou, epi mande Ou voye pou mwen bagay Ou posede yo. 

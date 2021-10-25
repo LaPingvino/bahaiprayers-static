@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10116 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 ##Tabuľka Svätého Moreplavca

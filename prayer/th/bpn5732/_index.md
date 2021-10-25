@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5732 in ภาษาไทย'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-th', 'bpn-unsorted']
 +++
 *(สำหรับเด็กทารก)

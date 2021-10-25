@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12870 in Alaska Native'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ik', 'bpn-unsorted']
 +++
 ** Invocation of The Báb

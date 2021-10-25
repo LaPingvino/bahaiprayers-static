@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn675 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 *Dieses Gebet wird an den Schreinen des Báb und Bahá’u’lláhs gelesen, außerhalb der Schreine nur anlässlich des Hinscheidens Bahá’u’lláhs und des Märtyrertodes des Báb.

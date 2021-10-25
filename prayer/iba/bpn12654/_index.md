@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12654 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Genap iku semengat ti bejalai nengah nengeri, tumpuk enggau genturung pendiau ba menua tu lalu kiruh ngerekaika bau rengut Petara, patut nguna sambiang tu tiap pagi

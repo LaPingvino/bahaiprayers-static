@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1753 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Lof sé Þér, ó Drottinn Guð minn! Þú sérð og veist að ég hef hvatt þjóna Þína til að snúa sér ekki að neinu nema gjöfum Þínum og boðið þeim að gæta aðeins þess sem Þú hefur ákvarðað í skýrri bók Þinni, bókinni sem var send niður í samræmi við órannsakanlega ákvörðun Þína og óafturkallan­legt áform.

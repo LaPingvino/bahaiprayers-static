@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12273 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Vikiiga kia Koe, O te Aliki toku Atua! Au ko te tasi ne sala atu ki fiafiaaga lei o Tou loto, kae fakasino toku auala kit e nofoga o Au mea-alofa taaua.  Au ko ia te la ko oti ne liakina katoa aku mea, kae tele kia Koe o lafi, tela ko ti ne tuku ana mata ki te tapaneki o 

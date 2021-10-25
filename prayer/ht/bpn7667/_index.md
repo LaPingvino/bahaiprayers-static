@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7667 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Ou menm, Bondye mwen, Ou menm K’ap gide chèchè a pou li jwenn chemen k’ap mennen li kòrèkteman, Ou menm K’ap delivre nanm nan ki pèdi, ki avèg, pou li soti nan dezè destriksyon an, Ou menm K’ap voye sou sensè yo gran bonte ak favè Ou yo, K’ap pwoteje moun ki nan perèz anndan refij solid Ou a, Ou menm Ki rete nan pi wo paradi Ou, Ki reponn kri moun ki lanse apèl pou Ou. Lwanj pou Ou menm, O Senyè mwen! Ou te gide moun ki kite chemen an fè yo soti nan lamò manke kwayans, epi Ou te mennen moun ki vle apwoche Ou fè yo jwenn objektif vwayaj la, Ou te rejwi sila yo pami sèvitè Ou yo ki gen konfyans paske Ou te pèmèt yo jwenn dezi yo ki te pi chè a, epi, depi nan Wayòm bèlte Ou a, Ou te ouvri baryè rankont lan devan figi moun ki anvi jwenn Ou, e Ou te retire yo nan dife dezespwa ak peche - pou fè yo prese pou avanse nan direksyon Ou, jwenn prezans Ou, rive nan pòt Ou k’ap ofri akèy, epi resevwa yon bon pòsyon nan kado Ou yo. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9627 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Verheerlijkt zij Uw Naam, o Heer mijn God! Gij zijt Degeen die door alle dingen wordt aanbeden en die Zelf niemand aanbidt, die de Heer is van alle dingen en niemands vazal, die alle dingen kent en door niemand wordt gekend. Gij wenste Uzelf aan de mensen kenbaar te maken; daarom deed Gij, door één woord uit Uw mond, de schepping ontstaan en vormde Gij het heelal. Er is geen ander God dan Gij, de Vormer, de Schepper, de Almachtige, de Krachtigste.

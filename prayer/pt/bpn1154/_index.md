@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1154 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Senhor bondoso! Estes são os Teus servos congregados nesta reunião, dirigindo-se ao Teu Reino e necessitando das Tuas dádivas e da Tua bênção. Ó Tu, Deus! Manifesta e torna visíveis os sinais da Tua unicidade, existentes em todas as realidades da vida. Revela e desdobra as virtudes que deixaste latentes e ocultas nessas realidades humanas.

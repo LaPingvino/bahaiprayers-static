@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10306 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Herre! Vi är ömkansvärda, giv oss Din ynnest. Vi är fattiga, bestå oss av Din rikedoms hav. Vi är behövande, tillfredsställ oss. Vi är förnedrade, skänk oss Din ära. Luftens fåglar och fältens djur får varje dag sin föda från Dig och alla varelser delar Din omsorg och kärleksfulla godhet.

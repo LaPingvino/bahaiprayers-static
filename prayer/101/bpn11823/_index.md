@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11823 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Oku leh, nyaa, O Raja ku, dek mbok nak jowin-eh nuju Ingan, bia notap pingarap-eh tudu keajaiban budi Ingan bia pingungin Ingan dek obuah bikirient. Oku bidoa tudu Ingan sak Ingan dik-eh odak oku susah tikokos buu daang otin dek luluh sok tiban pirasie Ingan, ato supiah oku tutuas kodae ngan Ingan supiah pimotan pimotan Ingan dek mbok doliak terima Agama Ingan. 

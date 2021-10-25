@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6623 in 한국어'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 여기 모인 저희들은 주님의 종들

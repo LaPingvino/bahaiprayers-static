@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5929 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glòria sia a Tu, oh Déu meu! Si no fos per les tribulacions patides al Teu camí, com podrien ser reconeguts els qui veritablement T’estimen?, i si no fos per les proves patides per amor a Tu, com podria revelar-se la posició d’aquells què T’anhelen? El Teu poder m’ho testimonia! Les llàgrimes vessades són la companyia de tots aquells que T’adoren; els laments proferits, el consol d’aquells que Et busquen; i els trossos dels seus trencats cors l’aliment d’aquells que s’apressen per trobar-te.

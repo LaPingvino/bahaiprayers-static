@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2435 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Dievs, mans Dievs! Es esmu griezies pie Tevis grēku nožēlā, un, patiesi, Tu esi Piedevējs, Tu esi Līdzjūtīgais!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7651 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Ou menm Ki Glorifye, O Senyè Bondye mwen! Chak moun ki konprann ap deklare souverènte Ou ak otorite Ou, chak je ki kapab wè ap rekonèt grandè majeste Ou ak fòs pouvwa pisans Ou. Gwo van eprèv yo pa gen pouvwa pou anpeche moun ki pre Ou fikse figi yo nan direksyon syèl glwa Ou, epi, pou moun ki dedye tèt yo avèk tout kè yo nan volonte Ou, tanpèt difikilte yo pa kapab detounen yo ak anpeche yo nan pwogrè y’ap fè pou jwenn lakou prezans Ou. 

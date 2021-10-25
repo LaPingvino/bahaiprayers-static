@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1293 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado seja o Teu Nome, ó Senhor nosso Deus! Tu és, em verdade, o Conhecedor de coisas não percebidas. Ordena para nós um bem que possa ser medido pelo Teu conhecimento, o qual a tudo abrange. És o Senhor soberano, o Todo-Poderoso, o Mais Amado.

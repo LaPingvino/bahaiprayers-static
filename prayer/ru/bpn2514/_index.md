@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2514 in Русский'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ru', 'bpn-unsorted']
 +++
 Он есть Целитель, Оделяющий, Помогающий, Всепрощающий, Всемилостивый.

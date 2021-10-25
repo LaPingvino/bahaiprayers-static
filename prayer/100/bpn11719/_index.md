@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11719 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Dukan yabo ya tabbata a garēka yā Ubangiji Allāna ! Ina rōƙon ka, da sūnanka mai martaba da aka tsare cikin kurkukun birnin Akka, wanda ya fāɗā hannun maƙiyansa, kuma la’anannu suka zāre masa takubbansu, ka bā ni ƙarfin da zan zama tsayayye cikin addininsa, kuma in jūya kallōna wajensa, ta yanda bā wanda ya isa ya karkatar da ni.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10383 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 First line: O Thou Whose face is the object of my adoration

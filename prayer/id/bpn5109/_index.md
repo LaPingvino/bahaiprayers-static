@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5109 in Bahasa Indonesia'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Aku memohon kepada-Mu demi kekuatan-Mu, ya

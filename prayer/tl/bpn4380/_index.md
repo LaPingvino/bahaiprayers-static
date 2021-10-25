@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4380 in Filipino'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ang Makapangyarihan, ang Nagpapatawad, ang Mahabagin!

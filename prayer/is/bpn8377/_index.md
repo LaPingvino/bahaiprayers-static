@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8377 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Þú góði Drottinn! Frá sjónarhring andlegrar lausnar hefur Þú birt sálir sem eins og skín­andi máni varpa ljósi yfir ríki hjarta og sálar, losa sig við veraldlega eiginleika og hraða sér til ríkis ódauðleikans. Með dropa úr hafi ástríkis Þíns döggvaðir Þú oftsinnis garða hjartna þeirra uns þeir báru af öðrum í fegurð og ferskleika. Heilagur ilmur guðdómlegrar einingar Þinnar barst víða vegu, gaf frá sér ljúfa angan um alla veröld og veitti ilman yfir öll héruð jarðar.

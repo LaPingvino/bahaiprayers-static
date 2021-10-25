@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9329 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Lazao: Voninahitra ho Anao izay nahatonga ny olona masina rehetra hiaiky ny fahalemeny eo anatrehan’ireo fanehoana ny Fahefanao marobe, ary ny tsirairay amin’ireo Mpaminany hahafantatra fa tsinontsinona izy eo anatrehan’ ny famirapiratan’ny Voninahitrao tsy manam-piovana.

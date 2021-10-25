@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12288 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua! Fakafou kae faka-fiafia toku agaaga.  Fakamaa toku loto.  Fakamaina toku maalosi.  E tuku atu katoa ki Ou lima aku mea.  A Koe ko ko toku Takitaki mo toku Lafiiga.  Au ka se toe fanoanoa kae se-fiafia; Au ka fai me se tino fiafia kae lifu.  O te 

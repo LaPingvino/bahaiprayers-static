@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5550 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 *（全くの喜びの精神で集まり、会合の始まりにこの祈りを唱えよ）

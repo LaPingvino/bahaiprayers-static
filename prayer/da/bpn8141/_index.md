@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8141 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O Gud, min Gud! Dette er Din lyksalige tjener, Din åndelige træl, der er draget Dig nær og har nærmet sig Din tilstedeværelse. Han har vendt sit ansigt til Dit, i erkendelse af Din enhed, bekender sig til Din helhed, og han har råbt Dit navn ud blandt nationerne og ledet folket til Din barmhjertigheds strømmende vande, o Du Mest gavmilde Herre! Til dem, der bad, har han givet dem at drikke af ledelsens bæger, der strømmer over med Din uendelige nådes vin.

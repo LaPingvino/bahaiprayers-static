@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4700 in Azərbaycan'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ya Rəbb! Sənin ilahi Birlik Ağacının tez böyüməsinin qayğısına qal; sonra, Sənin razılığının axar suları ilə onu sula, Ya Rəbb, Sənin ilahi təminatının təzahürləri qarşısında izn ver ki, Səni alqışlamaq və vəsf etmək, Səni tərif etmək və Sənə şükr etmək, Sənin Adını ucaltmaq, Sənin Zatının vahidliyini yüksəltmək və Sənə pərəstiş etmək üçün Sənin istədiyin meyvələri versin, çünki bütün bunlar Sənin əlindədir və başqa hec kəsin əlində deyil.

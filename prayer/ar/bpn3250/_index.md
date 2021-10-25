@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3250 in العربية'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ar', 'bpn-unsorted']
 +++
 * (لِكُلِّ واحِدٍ أَنْ يَقُولَ مُقْبِلاً إِلى كَعْبَةِ اللهِ)

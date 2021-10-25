@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9382 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Aza esorina, ry Tompo ô, ny latabatrin’ny fanasana izay novelarina tamin’ny Anaranao ary aza vonoina ny lelafo mivaivay izay narehitra tamin’ny Afonao tsy mety maty. Aza sakanana tsy hikoriana ity ranon’aina avy Aminao ity, izay mibitsibitsika ny antsan’ny Voninahitrao sy ny Fahatsiarovanao, ary aza atao ho diso anjara amin’ny hanitra mamerovero izay nivoaka avy tamin’ny hanitrin’ny Fitiavanao ny mpanomponao.

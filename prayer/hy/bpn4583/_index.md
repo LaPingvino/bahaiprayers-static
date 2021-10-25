@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4583 in հայերեն'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hy', 'bpn-unsorted']
 +++
 Ո՜վ Աստված, իմ Աստված: Զղջումով ես Քեզ դիմեցի և Դու, հիրավի, Ներող ես, Կարեկից:

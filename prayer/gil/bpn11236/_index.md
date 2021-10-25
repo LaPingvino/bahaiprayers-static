@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11236 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Te mimitong Nakoim, O te Uea Atuau! Aikai bong are Ko a tia ni kataua bwa ni kabane aomata a na katabua te aki mamatam, bwa rinanona a na kona ni kaitiaki tamneia ao ni kakeaa mai irouia taian kabaebae nakoia aomata ma ti Ngkoe, ao bwa man nanoia e na kona n rierake te baere e na botau ma nnen Karineam ao ni katauaki nakon kaintekatekan kaotiotin Am katiteuana. Kariaia, O au Uea, bwa te karemo aio e na riki n ai aron te karanga are e anga te ran ni kamaiu ao ni kona ni kaotinakoa te anua ni maiu ae e tamaroa are e Ko a tia ni kaonrakea iai. Rinanona ao Ko na kaitiaka nanoia Am toro are a tia buakakan te aonnaba ni konaaki n totokoia man rairakiia nakon Aram ae te kabanea ni mimitong, ao man tiku n aki kamwaingaki ni kaberoroia ao kakiriweia naake a tia ni kaitarai Am kanikina aika a rangin otanako ake irian kaotin Am Tia Uarongorongo are Ko a tia ni kanoaia ni Ueam, Mwaakam, Karineam ni Uea ao Mimitongim. Aikai tooro ake, n te tai are e roko te wewete irouia, a kawaekoaia ni kaineta Am nanoanga ao a aki totokoaki mai Iroum ni bibitakin ao bwaai aika a riki n te aonnaba aio ke man tiatianakin aia konabwai n aomata. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2865 in Česky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cs', 'bpn-unsorted']
 +++
 Dosvědčuji, ó můj Bože, že jsi mne stvořil, abych Tě znal a uctíval.

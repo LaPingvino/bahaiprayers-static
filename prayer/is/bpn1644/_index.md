@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1644 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Þú veist vel, ó Guð minn, að þrengingar hafa steðjað að mér úr öllum áttum og enginn getur eytt þeim eða umbreytt nema Þú. Ég veit með fullri vissu vegna ástar minnar á Þér, að Þú munt aldrei láta þrengingu verða á vegi neinnar sálar nema Þú viljir upphefja stöðu hennar í himneskri paradís Þinni og styrkja hjarta hennar í þessu jarðneska lífi með virkismúrum Þíns allsráðandi valds til þess að það hneigist ekki að hégóma þessa heims. Þú veist að sönnu fullvel að hvernig sem á stendur myndi ég miklu fremur varðveita minningu Þína en eignast allt sem er á himnum og jörðu.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2716 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Istenem és Mesterem! Szolgád vagyok, és a Te szolgád fia. Ím, felkeltem én kerevetemről e hajnali órán, mikor egyedüliséged Napcsillaga világlott elő akaratod Hajnalpontjából, és ragyogta be az egész világot, miként ez elrendeltetett Parancsolatod Könyveiben.

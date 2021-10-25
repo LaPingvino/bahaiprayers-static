@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB00314HOR in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB00314HOR']
 +++
 O Thou kind Lord!  From the horizon of detachment Thou hast manifested souls that, even as the shining moon, shed radiance upon the realm of heart and soul, rid themselves from the attributes of the world of existence and hastened forth unto the kingdom of immortality.  With a drop from the ocean of Thy loving-kindness Thou didst oft-times moisten the gardens of their hearts until they gained incomparable freshness and beauty.  The holy fragrance of Thy divine unity was diffused far and wide, shedding its sweet savors over the entire world, causing the regions of the earth to be redolent with perfume.

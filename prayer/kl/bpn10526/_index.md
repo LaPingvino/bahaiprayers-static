@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10526 in Kalaallisut'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guuti-aa! Meeqqat uku ilinniartikkit. Meeqqat taakku Illit naatsiivinni

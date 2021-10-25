@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5193 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Terpujilah Engkau, ya Tuhanku! Bagaimanakah aku dapat bersyukur kepada-Mu karena Engkau telah mengkhususkan daku dan memilih daku di atas semua hamba-hamba-Mu untuk menyatakan Diri-Mu ketika semua telah berpaling dari keelokan-Mu! Aku naik saksi, ya Tuhanku, bahwa seandainya aku diberi seribu kehidupan oleh-Mu dan mempersembahkan semuanya itu di Jalan-Mu, aku masih tetap gagal membalas pemberian-pemberian yang paling kecil pun yang telah Engkau anugerahkan kepadaku melalui rahmat-Mu.

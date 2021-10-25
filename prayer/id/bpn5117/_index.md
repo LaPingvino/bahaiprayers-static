@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5117 in Bahasa Indonesia'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Kemuliaan bagi-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu agar mengampuni daku dan mereka yang membantu Agama-Mu. Sesungguhnya, Engkaulah Raja yang berdaulat, Pengampun, Yang Maha Dermawan.

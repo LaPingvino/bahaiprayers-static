@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12771 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-108', 'bpn-unsorted']
 +++
 ຂ້າແດ່ພຣະຜູ້ເປັນນາຍ  ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້າພະອົງ!

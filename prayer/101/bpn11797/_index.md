@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11797 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Ingan leh dek Mulia, O Topa ku! Oku ngin Ingan terima kasih sebab Ingan mbok ngin pu’ant tudu oku Iyoh Nyaa dek jadin Musim Bunga pirasie Ingan, bia jadin Topat Pinusak budi Ingan, bia jadin Godang Agama Ingan. Oku nguwai Ingan pakai Adon Ingan, pakai sok jowin bala dimuno dek ngaduah tudu Ingan mbok bitukar mopuk, bia otin bala dimuno dek mbok setia tudu Ingan mbok ngilad timilib nuju Ingan, ngibonar oku pod-pod setiap masa, bia daang sua keadaan, bikagont ndu tolint bokos Ingan, bia nonant sua bisamah tudu osi sija jok-eh Ingan, bia sak ku ninga tolonk-tolonk nuju talis Revelasi Ingan, bia alit nai nunda oni sija pinanon Ingan tudu oku daang Loh-Loh Ingan. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10926 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E maluga a Tou Igoa, O toku Atua mote Atua o mea katoa, toku Matagofie mo te Matagofie o mea katoa, toku Manakoga mo te Manakoga o mea katoa, toku Maalosi mo te Maalosi o mea katoa, toku Tupu mo te Tupu o mea katoa, toku Aofiaaga mo te Aofiaaga o mea katoa, toku Fakagasuega mo te Fakagasuega o mea katoa!  Sa fakapokotiagina au, Au e akai fakamolemole kia Koe, ke se taofi mai au mai i te vasa o Ou alofa atafai, io me e faka-mao mai au i matafaga o te pili atu kia Koe.

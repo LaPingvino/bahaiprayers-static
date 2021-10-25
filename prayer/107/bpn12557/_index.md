@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12557 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-107', 'bpn-unsorted']
 +++
 Oh ha’u nia Maromak! Oh ha’u nia Maromak! Ita-Boot haree labarik sira ne’e hanesan lutu ai-moris nian, manu husi du’ut-laran salvasaun nian, pérola husi oseanu husi Ita-Boot nia grasa, ai-funan roza husi jardín husi Ita-Boot nia konsellu.

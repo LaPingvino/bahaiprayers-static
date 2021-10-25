@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4982 in Tiếng Việt'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế Đại Từ bi, con cảm tạ Ngài đã thức tỉnh con và đem con về với lương tri. Ngài đã ban cho con đôi mắt tinh anh và đôi tai thính nhạy, đã đưa con đến Vương quốc của Ngài và dắt dẫn con vào Chánh Đạo của Ngài, Ngài đã chỉ cho con nẻo chánh và đưa con lên Thuyền Giải thoát. Lạy Thượng Đế, xin giúp con vững tin, bền dạ và trung tín. Xin che chở con trước những thử thách dữ dội và xin gìn giữ con, bảo bọc con trong thành trì kiên cố của Giao ước Ngài. Ngài là Đấng Toàn lực! Ngài là Đấng thấy khắp! Ngài là Đấng nghe khắp!

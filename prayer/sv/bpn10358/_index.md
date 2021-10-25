@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10358 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Följande bön är avsedd att läsas dagligen av vännerna och av dem som undervisar om tron:

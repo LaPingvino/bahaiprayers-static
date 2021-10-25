@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7948 in Malti'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 O Alla tiegħi! O Int li taħfer id-dnubiet, li tagħti d-doni, li tkeċċi l-mard!

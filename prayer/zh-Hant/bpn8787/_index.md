@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8787 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 主啊，我的上帝！祢是我危難時的避風港，悲痛時的庇護所和避難處，匱乏時的收容所和安身地。祢是我孤獨時的伴侶，哀慟時的慰藉，寂寞時的知己。祢解除我的憂傷悲痛，赦免我的諸般罪過！

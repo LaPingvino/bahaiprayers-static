@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2410 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Dievs, Tu esi visu Savu Izpausmju Cēlonis, visu Pirmsākumu Pirmsākums, visu Atklāsmju Pirmavots, visas Gaismas Sākums! Es apliecinu, ka Tavs Vārds ir rota pie izpratnes debesīm, ka caur To ir uzvirmojusi Mācības vārdu jūra un Tava likteņa veltes ir dāvātas visu ticību ticīgajiem.

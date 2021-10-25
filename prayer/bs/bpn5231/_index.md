@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5231 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 O najslavniji Gospodaru! Učini ovu malenu vjernicu blagoslovljenom i sretnom; odgoji je na pragu Svoje jednosti i dozvoli da se napije

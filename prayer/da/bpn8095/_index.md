@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8095 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Få min sorg til at svinde ved Din nåde og gavmildhed, o Herre min Gud, og fjern min fortvivlelse gennem Dit herredømme og Din magt. Du ser mig, o min Gud, med mit ansigt vendt mod Dig i en tid, hvor sorger har indkredset mig på alle sider. Jeg bønfalder Dig, o Du som er alle skabningers Herre og overskygger alt synligt og usynligt, ved Dit navn, hvorved Du har underlagt Dig menneskers hjerter og sjæle, og ved bølgerne i Din barmhjertigheds hav og stråleglansen fra Din gavmildheds dagstjerne, om at regne mig blandt dem, som intet har hindret i at vende deres ansigter mod Dig, o Du alle navnes Herre og himlenes Skaber!

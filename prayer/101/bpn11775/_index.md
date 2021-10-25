@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11775 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Mudi Ingan, O Raja Topa ku! Sudi leh ngibonar onak ilak tih obuah ma’an sok sisun binulut masie Ingan bia pangidiya rinduk bia obuah ngilaan pakai buak tongont pingudus Ingan. Mbak nusah iyoh odak ngaku pangijaga nya’a dibokon jok-eh Ingan, kodae ngan Ingan, Siniri Odop Ingan, pakai sok kebolehan gagah hasrat Ingan duoh kuasa, ogi motan bia mbok odak ogi idip. Doie Topa dibokon pak-eh Ingan, dek Doras Manah, dek Paling Pu’ant.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5267 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Brojna se hladna srca, o, moj Bože zapališe iskrom Tvoje Vjere i mnoge je uspavane iz drijemeža otrgla milozvučnost Tvog glasa. Koliko li je mnogo stranaca potražilo sklonište u hladu drveta Tvoje jednosti, i kako li su brojni žedni koji su žudjeli za vrelom Tvojih živih voda u Tvojim danima!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12441 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Ondi shi shi, Kalunga kange, kutya Ove wa shitange ndi ku shive ndikulinyongamene. Oha ndi hokolola, pefimbo eli, moungone wange, no mo lwenghono doYe, moluhepo lange, omo lwoupuna woYe. 

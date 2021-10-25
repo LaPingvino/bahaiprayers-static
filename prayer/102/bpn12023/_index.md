@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12023 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Gadym we Ägirt uly bolan Allanyň Ady bilen. 

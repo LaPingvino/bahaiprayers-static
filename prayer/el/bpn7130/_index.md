@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7130 in ελληνικά'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 Ω Θεέ µου! Ω Συ που συγχωρείς τις αµαρτίες, δωρητή των αγαθών, λυτρωτή στις συµφορές!

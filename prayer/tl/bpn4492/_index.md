@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4492 in Filipino'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Lahat ng kamaharlikaan at kaluwalhatian, O aking Diyos, at lahat ng pamamahala at liwanag at kadakilaan at kaningningan ay suma-Iyo. Ipinagkakaloob Mo ang kapangyarihan sa kanino mang Iyong gustuhin at ipinagkakait ito sa sinumang Iyong naisin. Walang ibang Diyos liban sa Iyo, ang Nag-aangkin ng Lahat, ang Pinakadakila. Ikaw yaong lumikha mula sa kawalan ng santinakpan at lahat ng naninirahan dito. Walang karapat-dapat sa Iyo maliban sa Iyong Sarili, samantalang ang lahat maliban sa Iyo ay mga itinakwil sa Iyong harapan at mga walang halaga kung ihahambing sa luwalhati ng Iyong Sarili.

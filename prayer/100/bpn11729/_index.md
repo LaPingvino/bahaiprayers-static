@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11729 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Allāna, kai nē, wanda sūnayenka kē warkar da māsu cūta, kē sauko lāfiya ga masākai, kē ƙōsar da māsu ƙishurwa, kē kwantar da hankalin firgitattu, kē jāgōrar ɓatattu, kē ɗaukaka wanɗanda aka ƙasƙanta, kē arzita matalauta, kē wāyar da kan jāhilai, kē haskaka zukācen māsu duhun rai, kē sā murna ga māsu hushi, kē sā kuzāri ga zukācen da suka yi sanyi, kē karɓo hakin waɗanda aka zālunta. 

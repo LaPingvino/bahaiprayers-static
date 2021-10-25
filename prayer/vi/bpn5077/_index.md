@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5077 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, Danh Ngài thật đáng ca ngợi! Bởi hương thơm chiếc áo ân phúc của Ngài và theo ý muốn của Ngài, và bởi Vầng Thái dương ý chí Ngài chiếu sáng rực rỡ trên chân trời bác ái của Ngài, con khẩn cầu Ngài xóa khỏi tâm hồn con mọi ảo vọng biếng lười và mọi tưởng tượng vô bổ, để con có thể hướng về Ngài với tất cả thiện ý của con, lạy Ngài là Đấng Thượng Đế của nhân loại!

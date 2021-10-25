@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2187 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Multe inimi îngheţate, o, Dumnezeul meu, au fost aprinse cu focul Cauzei Tale şi mulţi adormiţi au fost treziţi de dulceaţa glasului Tău. Cât de mulţi sunt străinii care au căutat adăpost la umbra pomului unicităţii Tale şi cât de numeroşi cei însetaţi care au tânjit după fântâna apelor Tale vii în zilele Tale!

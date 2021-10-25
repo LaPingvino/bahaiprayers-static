@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2415 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Neatņem mums, ak Kungs, to svētku galdu, kas ir Tavā vārdā klāts, un neslāpē to spožo liesmu, kas ir iedegusies no Tavas neizdzēšamās uguns. Neliedz plūst Saviem dzīvības ūdeņiem, kuru melodiskās šalkas vēstī Tavu slavu un atgādina par Tevi, un nelaupi Saviem kalpiem Savu saldo elpu, kas vieš Tavas mīlestības smaržu.

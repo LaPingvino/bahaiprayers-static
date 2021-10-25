@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7579 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Ylistetty olkoon Sinun nimesi, oi Herra minun Jumalani! Todistan, että olit kätketty Aarre kietoutuneena ikimuistoiseen olevaisuuteesi ja selittämätön Mysteeri verhoutuneena omaan ydinolemukseesi. Toivoen ilmaisevasi itsesi kutsuit olevaisuuteen suuremmat ja pienemmät maailmat ja kaikkien luotujesi yläpuolelle nostit Ihmisen ja teit Hänet molempien näiden maailmojen merkiksi, oi Sinä, joka olet meidän Herramme, Kaikkein sääliväisin!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11890 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Mudi adon Ingan, O Raja Topa ku! Oku nguwai Ingan pakai Adon Ingan pakai sok noh Waktu mbok nog, jek Mokat Idip Bauh mbok lopus obuak, tolu duoh kimudab tawant sua dek ogi daang surga bia sua dek ogi pirasie Ingan bia sok sidatak bitulut bitubuas Ingan, onik dek odak otin ulunt-ulunt Ingan doont, nyaa dek mbok tikos nuju Ingan bia dek tulung Agama Ingan. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4716 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Mən o kəsəm ki, İlahi, üzünü Sənə tutub, ümidini Sənin fəzlinin möcüzələrinə və kəramətinin təzəhürlərinə bağlayıb. Səndən diləyim budur ki, məni mərhəmət qapından peşiman qaytarmayasan və Əmrini inkar edənlərin ixtiyarına buraxmayasan.

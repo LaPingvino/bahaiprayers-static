@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10085 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 „Ó Bože! Ó Bože! Vidíš moju slabosť, poníženosť a pokoru medzi tvojimi stvoreniami. Napriek tomu som Ti dôveroval a povstal som, aby som šíril Tvoje učenie medzi Tvojimi pevnými služobníkmi, spoliehajúc sa na Tvoju moc a silu!“

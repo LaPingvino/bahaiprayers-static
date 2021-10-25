@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3909 in Hrvatski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 O, Gospodine, Bože moj i Nebo moje u mojoj boli! Štite moj i Zaklone u mojim brigama! Utočište moji i Pribježište u doba siromaštva i Pratioče moj u mojoj usamljenosti! Utjeho moja u mojoj muci i u samoći Prijatelju koji voliš! Otklonitelju boli mojih patnji i Oprostitelju mojih grijeha!

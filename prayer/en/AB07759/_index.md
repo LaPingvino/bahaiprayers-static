@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB07759 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB07759']
 +++
 O my Lord!  Thou knowest that the people are encircled with pain and calamities and are environed with hardships and trouble.  Every trial doth attack man and every dire adversity doth assail him like unto the assault of a serpent.  There is no shelter and asylum for him except under the wing of Thy protection, preservation, guard and custody.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5080 in Tiếng Việt'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế, lạy Thượng Đế của con!

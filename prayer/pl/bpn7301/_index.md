@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7301 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Matki oczekujące dziecka

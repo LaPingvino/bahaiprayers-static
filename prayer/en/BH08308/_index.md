@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH08308 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH08308']
 +++
 Glory be to Thee, O Lord my God!  Abase not him whom Thou hast exalted through the power of Thine everlasting sovereignty, and remove not far from Thee him whom Thou hast caused to enter the tabernacle of Thine eternity.  Wilt Thou cast away, O my God, him whom Thou hast overshadowed with Thy Lordship, and wilt Thou turn away from Thee, O my Desire, him to whom Thou hast been a refuge?  Canst Thou degrade him whom Thou hast uplifted, or forget him whom Thou didst enable to remember Thee?

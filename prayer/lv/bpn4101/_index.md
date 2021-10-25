@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4101 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Dieva Mācības sludinātājiem šī lūgšana būtu jāskaita katru rītu.

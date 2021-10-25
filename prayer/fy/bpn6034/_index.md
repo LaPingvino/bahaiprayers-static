@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6034 in Frysk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 O myn God, myn Master. Doel fan myn langstme! Dizze Jo tsjinner besiket te sliepen yn de beskutting fan Jo genede en te rêsten ûnder it baldakyn fan Jo geunst, smeekjende om Jo soarch en Jo beskerming.

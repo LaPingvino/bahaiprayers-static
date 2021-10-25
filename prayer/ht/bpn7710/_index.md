@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7710 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Senyè mwen! Se mwen menm ki te vire figi mwen nan direksyon Ou, ki te fikse espwa mwen sou mèvèy gras Ou yo ak siyn bonte Ou yo. Mwen priye Ou pou Ou pa t’ap pèmèt mwen vire kite pòt mizèrikòd Ou san satisfaksyon, ni pa abandone mwen nan men kreyati sila Ou yo ki te rejte Koz Ou a. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12617 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Tuhan! Gaga bala anakmit tu nyadi kayu ti lati. Asuh sida tumbuh sereta mansang dalam Kebun Sempekat Nuan, lalu beri pengalak enggau pemanah nengah ujan mua-hari Perintah ti pemadu bemulia.

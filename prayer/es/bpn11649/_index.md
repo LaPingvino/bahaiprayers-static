@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11649 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Gloria sea a Ti, oh mi Dios! Si no fuera por las tribulaciones sufridas en Tu camino, ¿cómo podría reconocerse a quienes verdaderamente Te aman? Y, si no fuera por las pruebas sufridas por amor a Ti, ¿cómo podría revelarse la posición de aquellos que Te anhelan? ¡Tu poder me lo atestigua! Las lágrimas que derraman son la compañía de todos cuantos Te adoran, y los lamentos que profieren, el consuelo de los que Te buscan, y los pedazos de sus corazones rotos, el alimento de los que se apresuran por encontrarte.

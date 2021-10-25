@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2694 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *[Ima Bahá’u’lláh kilencedik Örömhíréből]:

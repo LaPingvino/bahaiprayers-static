@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7328 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Boże, mój Boże! Ty widzisz, jak głębokie ciemności ogarnęły wszystkie krainy, jak wszystkie kraje gorzeją płomieniami waśni, a ogień wojny i rzezi szaleje na Wschodzie i na Zachodzie. Krew się leje i ciała zabitych zaściełają ziemię, a ścięte głowy padają w pył pola bitwy.

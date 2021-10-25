@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8644 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 教友及传导者应每日诵读此祷文。

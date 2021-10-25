@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5825 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glòria a Tu, oh Senyor del món i Desig de les nacions, oh Tu què T’has fet manifest en el Més Gran Nom, per mitjà del qual les perles de la saviesa i l’expressió han aparegut de les ostres del gran mar del Teu coneixement i els cels de la revelació divina han estat adornats amb la llum de l’aparició del sol del Teu semblant.

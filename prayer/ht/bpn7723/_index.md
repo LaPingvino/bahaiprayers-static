@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7723 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye, Bondye mwen! Ranpli pou mwen tas lespri ki detache ak tout bagay, e rejwi mwen nan asanble glwa ak bonte Ou avèk bwason diven lanmou Ou. Libere mwen anba atak pasyon ak dezi yo, kase pou mwen chenn lemonn materyèl sa a, atire mwen avèk gran kontantman pou wayòm Ou ki anwo a, epi rafrechi mwen, pami sèvant yo, avèk souf sentete Ou yo. 

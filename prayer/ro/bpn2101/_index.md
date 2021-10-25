@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2101 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 A fi recitată o dată în intervalul de douăzeci şi patru de ore, la amiază

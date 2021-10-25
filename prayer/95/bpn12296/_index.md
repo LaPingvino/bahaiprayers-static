@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12296 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O Koe ko Tou pili mai ko toku manakoga…  

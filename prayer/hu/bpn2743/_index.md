@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2743 in Magyar'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Isten, az ellenállhatatlan fenség Ura, a Mindeneknek Parancsoló Nevében.

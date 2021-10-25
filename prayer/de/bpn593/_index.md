@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn593 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Ruhm sei Dir, o mein Gott! Wie könnten Deine wahren Geliebten erkannt werden ohne die Heimsuchungen, die sie auf Deinem Pfade zu erdulden haben, und wie könnte die Stufe derer, die nach Dir verlangen, enthüllt werden, gäbe es keine Prüfungen, die sie aus Liebe zu Dir ertragen? Deine Macht ist mein Zeuge! Tränen sind die Gefährten der Dich Anbetenden, Seufzer sind der Trost der Dich Suchenden und die Splitter ihrer gebrochenen Herzen sind die Speise derer, die zur Begegnung mit Dir eilen.

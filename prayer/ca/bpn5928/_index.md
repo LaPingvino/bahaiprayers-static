@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5928 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Lloat i glorificat siguis, oh Déu meu! Et suplico pels sospirs dels Teus amants i per les llàgrimes vessades per aquells què anhelen contemplar-te, que no em privis de les Teves tendres mercès en el Teu dia, ni de les melodies del Colom què exalta la Teva unicitat davant la llum què irradia del Teu rostre, Jo sóc aquell qui és dissortat oh Déu mira’m aferrat al Teu Nom, Qui tot ho posseeix. Jo sóc aquell qui amb seguretat perirà; mira’m agafat al Teu Nom, Imperible. T’imploro, llavors, pel Teu Ser, l’Exaltat, l’Altíssim, que no m’abandonis a mi mateix ni als desitjos d’una inclinació corrupta. Renten la meva mà a la mà del Teu poder, lliura’m de les profunditats de les meves fantasies i vanes imaginacions i purifica’m de tot el què Tu detestes.

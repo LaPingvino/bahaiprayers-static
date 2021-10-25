@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6117 in Chamorro'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 O Asaina! Na’fanma’lak este na hoben, yan na’i ni’ guinaha-Mu este na popblen prohimu. Na’i gue’ tiningo, na’i gue’ kada ogga’an mas minetgot ya Un pulan gi papa’ i liheng i proteksion-Mu kosa ki u libre gi linachi, u na’facho’cho’ gue’ gi i setbisio-Mu, giha mo’na i manlalachi, ayuda i mandimalas, na’libre i manmapopongle yan na’fanmakmata i ti manmanatetende, kosaki todu u fambinendisi ni’ mimorias-Mu yan i matuna-Mu. Hagu i Metgot yan Gainina’siña.

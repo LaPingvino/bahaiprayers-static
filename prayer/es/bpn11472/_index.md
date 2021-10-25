@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11472 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Gloria sea a Ti, oh mi Dios! Tú oyes el lamento de Tus fervorosos amantes, debido a su separación de Ti, y el llanto de quienes Te han reconocido, causado por su lejanía de Tu presencia. Ábreles, oh mi Señor, las puertas de Tu gracia, para que entren por ellas con Tu venia y conforme a Tu voluntad, y se presenten ante el trono de Tu majestad, y perciban los acentos de Tu voz, y sean iluminados con los resplandores de la luz de Tu rostro.

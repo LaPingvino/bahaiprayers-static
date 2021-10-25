@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9606 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij vriendelijk Heer! Van de horizon van onthechting hebt Gij zielen doen voortkomen die, als de lichtende maan, hun glans hebben verspreid over het rijk van hart en ziel, zich van de eigenschappen van de wereld van het bestaan hebben ontdaan en zich naar het koninkrijk van onsterfelijkheid hebben gespoed. Met een druppel uit de oceaan van Uw goedertierenheid hebt Gij de tuin van hun hart menigmaal bevochtigd, tot die weergaloos fris en prachtig werd. De heilige geur van Uw goddelijke eenheid werd wijd en zijd verbreid, waarbij haar zoete geuren over de gehele wereld werden uitgestort, en alle gebieden op aarde met parfum doordrenkt raakten.

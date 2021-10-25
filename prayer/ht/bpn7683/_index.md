@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7683 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Li menm Ki Plen Gras, Ki Gen Tout Bonte a!

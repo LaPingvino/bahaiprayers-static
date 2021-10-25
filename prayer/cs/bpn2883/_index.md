@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2883 in Česky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-cs', 'bpn-unsorted']
 +++
 On je Bůh!

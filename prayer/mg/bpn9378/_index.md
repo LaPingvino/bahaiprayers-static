@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9378 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Tompo mpamindra fo ô! Ianao no Fialofan’ny mpanomponao rehetra. Ianao mahalala ny tsiambaratelo ary ianao  mahafantatra ny zavatra rehetra. Tsy manana ianteherana avokoa izahay, ary Ianao no Mahery Indrindra, Mahefa ny zavatra rehetra. Mpanota avokoa izahay, ary Ianao no Mpamela heloka, Ilay be indrafo, Ilay Mpangoraka.

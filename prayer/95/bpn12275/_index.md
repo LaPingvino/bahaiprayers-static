@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12275 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Te matagofie e ia Koe, O te Aliki!  E uiloa a Koe e mafai o fai se tino ke mativa mai i mea katoa faka-te-lalolagi, mai i te kamataga o tena ola ke oko ki taimi ko fanatu ia ki luga ia Koe, e mafai a ia o tuku ifo ki lalo i te mativa mai i luga i te faka-galueega o Tau tonu, kae e uiloa mo fai ke aumai ne Koe mai ki mua i te Lakau Ola o Tou alofa, a te manuia tena e lei fakafia atu i mea katoa ko oti ne faite ne Koe ite lagi mote lalolagi mo so se mea e nofo i te vasia o laua; pe la loa mo ia ka maua ne ia a te fale faka-te-lagi, mai i luga i fakaasiiga o Au mea-alofa, kae ka kau atu a ia i mea-alofa lei ko oti ne fakatoka ne Koe, auaa i mea ko la ia Koe e see mafai o oti.  Mea nei e tonu se faka-manuiaaga te la ona ko Tau Ikuuga faka-fiafia lei ko oti ne tuku ifo mo latou e sasaale ite auala o Tou alofa.  

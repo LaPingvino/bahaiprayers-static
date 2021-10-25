@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3741 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo mu Jumal, mu Meister, mu ihalduse Siht! See Sinu teener tahab magada Sinu halastuse varjus ja puhata Sinu armu taevalaotuse all, anudes Su hoolt ja kaitset.

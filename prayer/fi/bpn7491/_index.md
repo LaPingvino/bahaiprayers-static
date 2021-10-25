@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7491 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Ylistetty olet Sinä, oi Herra minun Jumalani! Rukoilen Sinua valittujesi ja uskottujesi kautta sekä Hänen kauttaan, jonka olet määrännyt profeettojesi ja sanansaattajiesi sinetiksi, että antaisit muistelemisesi  olla seuralaiseni, rakastamisesi tavoitteeni, kasvosi päämääräni, nimesi valaisimeni, toiveesi haluni ja mielisuosiosi iloni.

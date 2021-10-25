@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6856 in Canadian Indigenous'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *"O God, Guide Me" in Sm'algyax, the language of the Tsimshian Peoples.

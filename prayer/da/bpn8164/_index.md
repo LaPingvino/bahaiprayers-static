@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8164 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Æret være Du, o evigheds Konge og nationernes Skaber og Skaberen af hvert smuldrende ben! Jeg beder Dig ved Dit navn, hvorved Du kaldte hele menneskeheden til Din majestæts og herligheds horisont og ledte Dine tjenere til Din nådes og Dine gavers bolig, om at regne mig til dem, der har befriet sig for alt undtagen Dig og har vendt sig til Dig, og som ikke af de ulykker, der blev bestemt af Dig, er blevet holdt tilbage fra at vende sig mod Dine gaver.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6201 in Marshallese'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mh', 'bpn-unsorted']
 +++
 Ekijkan ao maron kiki, O Anij, ao Anij, elane mej ko mejen ro rej on kake Yuk rej ruj wot kin air bed etto lok jen Kwe; im ekijkan ao maron Bábu im kakije ak jitob an ro rej yokwe Yuk reburomij ilo air bed ettolok jen Turum?

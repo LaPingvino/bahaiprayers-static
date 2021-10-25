@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10117 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 ##Tabuľka navštívenia,‘Abdu’l¬ Baháa

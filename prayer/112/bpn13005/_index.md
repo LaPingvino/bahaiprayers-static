@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13005 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-112', 'bpn-unsorted']
 +++
 *Ewat virip tapen siragam `Alá (Aigap) wam derewa (2) gapan aepi wam apane daiton (20) gapan uon tata.  Yaumak ap gapan ewat go kaum da marek eya dotauvepi gapan nata aepi wam geyarepi pauwa.  Yaumak ma guwanu aro wanapen, ao wasupen wamewa.  Orup en muga (15) gauwarap virip eya tain, waen bagurenawa, orup am nainiwa vek denawa, amba waenapan tanewa den.

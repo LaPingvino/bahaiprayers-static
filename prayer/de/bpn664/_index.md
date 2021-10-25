@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn664 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 #TÄGLICH MORGENS, MITTAGS UND ABENDS ZU SPRECHEN

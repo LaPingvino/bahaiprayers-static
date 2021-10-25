@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2684 in Magyar'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Esdekelve kérlek dicsőséges arcod fényének ragyogására, időtlen nagyságod fenségére és mindent meghaladó uralmad erejére, hogy rendelj most számunkra mértéket mindenből, mi jó és illő, és rendelj nékünk részt kegyelmed kiáradásának minden részéből. Mert ajándékok osztása Néked veszteséget nem okoz, sem a kegyek adása nem csökkenti a Te gazdagságodat.

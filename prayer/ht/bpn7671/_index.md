@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7671 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Ou menm, O Bondye mwen, Li menm Ki sèvi ak non Li yo pou geri malad yo ak retabli sila yo ki nan move sante, non ki fè yo menm ki swaf bwè e ki kalme yo menm ki byen ajite, ki gide moun ki pèdi yo, ki leve yo menm ki byen ba, ki anrichi pòv yo, ki edike inyoran yo, ki klere yo menm ki nan fènwa, ki pote lajwa pou moun ki nan tristès, ki rechofe sila a yo ki fwèt, ki leve moun sa yo ki oprese. O Bondye mwen, avèk non Ou, tout bagay ki te kreye te jwenn lavi, epi syèl la te fòme, lemonn te etabli, nyaj yo te monte epi yo te jwenn lòd pou voye lapli sou latè. An verite, sa a se youn nan siyn gras Ou genyen pou tout kreyati Ou yo.

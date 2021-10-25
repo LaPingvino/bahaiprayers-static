@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3380 in български'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bg', 'bpn-unsorted']
 +++
 Той е Бог, възвишен е Той, Господарят на любящата доброта и щедрост!

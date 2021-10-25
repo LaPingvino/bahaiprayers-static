@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12891 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie! Jakimże to potokiem szczodrobliwości obdarowałeś i jakąż powódź obfitej łaski zesłałeś! Sprawiłeś, że wszystkie serca stały się jako jedno serce, a wszystkie dusze połączyły się w jedną duszę. Obdarzyłeś bezwładne ciała życiem i uczuciem i tchnąłeś świadomość ducha w te pozbawione życia ramy. Dzięki świetlistym promieniom padającym z Jutrzenki Wszechmiłosiernego obdarzyłeś te atomy pyłu widzialnym istnieniem, a dzięki falom oceanu jedyności te ulotne krople pienią się i grzmią.

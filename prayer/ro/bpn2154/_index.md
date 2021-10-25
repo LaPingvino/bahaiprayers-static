@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2154 in România'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne, suntem slabi: întăreşte-ne!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10426 in Kiribati'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Au Uea!  Ko bon ataia bwa aomata a bane n otabwaniniaki n taian kammaraki ao n taian tekebuaka ao ni katomimiaki ma kangaanga ao kakumekume.  Ni katoa nako te kataitai ao e bon eweka te aomata, ao ni katoa nako te kangaanga aika a kakamaaku aikai n ai aron ana ewaewa te naeta.  Bon akea te tabo ni kamanomano ao ni kaawakin ma ti i aan bain Am kakaawakin, Am kamanomano, Am kairiiri ao Am tararua.

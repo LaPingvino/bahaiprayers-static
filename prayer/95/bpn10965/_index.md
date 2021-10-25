@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10965 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Te Matagofie ea ia Koe, O te Aliki toku Atua!   Mea nei ko aso ko la ko oti ne fakatonu ne Koe a tagata katoa ke tautali ite Anapogi, tela ona koi a ka fakama a olotou agaaga kae fakamaa katoa latou mai i te piki ki so se tino na loa ko Koe, te la ma i olotou loto ka mafai ne latou o olo atu ki luga auaa ko ttau ki te fale o tau afioga kae e mafai foki o ttau ki te nofoga ote faka-asiiga o Tou tafatasi.  Aumai, O toku Aliki, ko te anapogi tenei ke fai pela me se vaitaafe o te vai-ola kae ke fua mai i ei ate uiga tela ko oti ne fakaeke aka ne Koe.  Fakamaa aka ne Koe i te mea e mafai a loto o Au tavini ko la ne see mafai ne te masei o te lalolagi o fakatuai mai i te fuli atu ki Tou Igoa Matagofie-Katoatoa, kae ko la ko nofo aunoa mo se mafuli ne te logoaa mo te pakalaga o latou ko la ko fulitua mai i Au faka-iloga tafasili i te malifalifa ko la ne aumai tasi mo te oko mai o Au Faifekau ko la ko oti ne fa-uu mo Tou nofoga-a-aliki, Tou maalosi, Tou afioga mo Tou matagofie.  Mea nei ko tavini, ko la ite taimi loa tena ne logo i Tau kalaga, e tele atu kite koga e vau iei a Tou alofa-kaimalie kae seki talave lele loa ona ko mafulifuliiga mo avanoaaga o te lalolagi nei io me ko nisi faka-lavelave aka o tagata.

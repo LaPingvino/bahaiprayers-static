@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9660 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Zeg: O God, mijn God! Gij ziet mij rond Uw Wil cirkelen met mijn ogen gericht op de horizon van Uw genade, vurig verlangend naar de openbaring van de schitterende pracht van de zon Uwer gunsten.

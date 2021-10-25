@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9321 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitra ô sy Tompoko! Mpanomponao aho ary zanakin’ny mpanomponao. Nifoha teo amin’ny fandriam-pialan-tsasatro aho amin’izao mangirandratsy izao raha indro ny Kintana Marainan’ny mahatokana Anao mamiratra ery amin’ny marainan’ny Sitraponao ary nanapariaka ny tarany eo amin’izao tontolo izao, araka izay nandidiana an’izany ao amin’ny Bokin’ny Didinao.

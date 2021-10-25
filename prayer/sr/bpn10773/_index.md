@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10773 in Srpski српски'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 Sva slava, O moj Bože, pripada Tebi Koji si Izvor svega divnog i uzvišenog, veličine i časti, carstva i vladavine, dostojanstva i milosti, strahopoštovanja i moći. Koga god hoćeš, možeš privući u svoj Nepregledni Okean, i kome god želiš možeš dodeliti čast da prepozna Tvoje Najdrevnije Ime. Niko od onih koji obitavaju na nebesima i na zemlji, ne može se odupreti delovanju Tvoje vrhovne Volje. Od vajkada Ti vladaš svim stvorenim bićima, i nastavićeš zauvek da sprovodiš svoju vlast nad svime što postoji. Nema drugog Boga osim Tebe, Svemoćnog, Najuzvišenijeg, Najsilnijeg, Najmudrijeg.

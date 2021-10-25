@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13013 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-113', 'bpn-unsorted']
 +++
 ##BAHA´I MARRIAGE:

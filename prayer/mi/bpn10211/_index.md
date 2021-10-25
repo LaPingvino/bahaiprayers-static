@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10211 in Māori'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 E Te Ariki! He tamaiti noa iho au; tukua ahau kia tupu i raro o te ataata o Tōu kaingākau-nui. He kākano kau; meinga ahau kia whāngaia ki ngā uatātā mai i ngā kapua o Tāu manaaki. He pihinga noa iho ahau o te māra o te aroha; meinga ahau kia tupu kia puāwai. 

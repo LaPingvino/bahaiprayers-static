@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12622 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Tuhan! Asuh anembiak tu terang, lalu chirika pemisi

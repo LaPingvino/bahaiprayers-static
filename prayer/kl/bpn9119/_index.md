@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9119 in Kalaallisut'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Kiffaq-aa, Guutimit taallat ilinnut saqqummiunneqarsimasut appikkit, soorlu Guutimut kajungilerlutik qanillisimasut appissimagaat, erinarsornerpit tungusunnissusiata tarnerit ikinniassammagu inuillu tamarmik uummataat kajungilersissallugit.

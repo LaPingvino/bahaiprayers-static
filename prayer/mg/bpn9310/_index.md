@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9310 in Malagasy'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Iza, afa-tsy Andriamanitra, no manaisotra ny fahasahiranana?

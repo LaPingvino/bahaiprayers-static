@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5835 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu meu! Tu veus com la negra foscor envolta a totes les regions, com tots els països estan ardent amb la flama de la discòrdia i els focs de la guerra i la matança cremen a Orient i a Occident. La sang és vesada els cadàvers cobreixen el terra i els caps tallats són escampats sobre la pols del camp de batalla.

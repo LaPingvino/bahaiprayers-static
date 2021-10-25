@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2188 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Eu nu ştiu, o, Dumnezeul meu, ce este focul pe care l-ai aprins în ţinutul Tău. Pământul nu va putea să-i întunece vreodată splendoarea, nici apa să-i stingă flacăra. Toate popoarele pământului sunt neputincioase în a rezista forţei sale. Mare e binecuvântarea celui ce s-a apropiat de el şi i-a auzit trăznetul.

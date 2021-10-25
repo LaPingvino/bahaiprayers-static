@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6458 in Sesotho'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-st', 'bpn-unsorted']
 +++
 Ke ‘na Oho Morena, ea behileng sefahleho sa ka ho Uena, ea tiisitseng tšepo ea hae holim’a limakatso tsa khanya ea Hau.  Kea U rapela hore U se nkutloise bohloko ka ho nkhutlisa ke soabile mosikong oa mohau oa Hau kapa ho ntlohella libupuoa tsa Hau tse seng li koenehetse tšebetso ea Hau.

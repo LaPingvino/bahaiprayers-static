@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9689 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Vergun, o mijn Heer, dat zij die naar U zijn opgestegen zich naar Hem die de verhevenste Metgezel is mogen begeven, en onder de schaduw van de tabernakel van Uw majesteit en het heiligdom van Uw heerlijkheid mogen verblijven.

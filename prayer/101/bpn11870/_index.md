@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11870 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Adon Ingan dek obuah bilagah, O Topa ku, setegal Ingan mbok bitanga Onu dek mok jadin Raja Onu, Onu dek ogi Ingan magah tudu Bala tipilih Ingan bia Nabi-Nabi Ingan daang Loh- Loh Ingan dek paling timogah ponai, Onu dek sok Ingan nguliak mulia dek timogah daang sua adon Ingan tudu sua onik dek obuah motan. Ayuh manah leh berkat simun-mun nyaa dek nak odop-eh nuju Ingan, bia ngaluh pimonog Ingan, bia terima aton ayong sina Ingan.

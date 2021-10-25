@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7829 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Lodato sii Tu, o Signore mio Dio! T’imploro per il Tuo Più Grande Nome con cui hai destato i Tuoi servi e costruito le Tue città, e per i Tuoi più eccellenti titoli e i Tuoi più augusti attributi, di assistere il Tuo popolo a dirigersi verso le Tue molteplici generosità e a volgere il viso verso il Tabernacolo della Tua saggezza. 

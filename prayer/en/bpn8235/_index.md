@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8235 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Sovereign King, the Holy of Holies.

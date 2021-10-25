@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11461 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Toda majestad y gloria, oh mi Dios, y todo dominio, luz, grandeza y esplendor sean para Ti. Tú otorgas soberanía a quien quieres y se la niegas a quien deseas. No hay Dios sino Tú, Quien todo lo posee, el Exaltadísimo. Tú eres Quien crea de la nada el universo y a todos cuantos lo habitan. No existe nada digno de Ti salvo Tú mismo, mientras que todos los demás son como proscritos ante Tu santa presencia y son como la nada comparados con la gloria de Tu propio Ser.

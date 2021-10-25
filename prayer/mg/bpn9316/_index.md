@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9316 in Malagasy'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Voninahitra ho Anao, ry Tompo Andriamanitro! Tsy misy afaka amin’ny Fahalalanao, toa izay tsy afaka ihany koa amin’ny Herinao miafina na hanohitra ny Fikasanao, na any an-danitra izany na eto an-tany, na tamin’ny lasa na amin’ny ho avy.

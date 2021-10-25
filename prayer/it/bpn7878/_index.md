@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7878 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Dìssipa il mio dolore con la Tua munificenza e la Tua generosità, o Dio, mio Dio, e bandisci la mia angoscia con la Tua sovranità e la Tua potenza. Mi vedi, o mio Dio, col viso rivolto a Te mentre il dolore m’incalza da ogni parte. T’imploro, o Tu Che sei il Signore di tutti gli esseri e sovrasti tutte le cose visibili e invisibili, per il Tuo Nome con cui soggiogasti i cuori e le anime degli uomini, pei flutti dell’Oceano della Tua misericordia e gli splendori della Stella Mattutina della Tua munificenza, di annoverarmi tra coloro che assolutamente nulla ha distolto dal volgere il viso verso di Te, o Signore di tutti i nomi e Artefice dei cieli!

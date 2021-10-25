@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5767 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##MARTIRS I LLURS FAMÍLIES

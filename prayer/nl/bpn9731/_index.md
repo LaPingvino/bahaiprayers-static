@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9731 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij, voor Wiens ontzaglijke majesteit alle dingen beven, in Wiens greep de aangelegenheden van alle mensen liggen, naar Wiens genade en barmhartigheid het gelaat van al Uw schepselen is gericht! Ik smeek U, bij Uw Naam die Gij hebt verordend tot de geest van alle namen die in het koninkrijk van namen bestaan, ons in deze Openbaring die het koninkrijk van Uw namen heeft doen beven af te schermen van de influisteringen van hen die zich van U hebben afgekeerd en de waarheid van Uw grootste en verhevenste Wezen hebben verworpen.

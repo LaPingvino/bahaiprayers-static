@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6851 in Canadian Indigenous'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *"Blessed is the Spot" in the language of the Gwich'in First Nations.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5136 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *"Doa berikut ini sebaiknya dibaca ...tiap hari"

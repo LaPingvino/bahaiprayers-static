@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3507 in Norsk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Han er Gud, opphøyet er han, miskunnhetens og gavmildhetens Herre!

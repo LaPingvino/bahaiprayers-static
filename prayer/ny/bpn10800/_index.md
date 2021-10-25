@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10800 in Chichewa'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ny', 'bpn-unsorted']
 +++
 *Amene akufuna kupempherayo, asambe manja ake, ndipo pamene ali kusamba, anene kuti: 

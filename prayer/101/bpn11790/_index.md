@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11790 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Ngin Pimudi tudu Ingan, O Raja Topa ku! Mbak nadah iyoh nya’a dek mbok pa’ad Ingan pakai kuasa kedaulatan nolee Ingan, bia mbak kadi odak juok sok Ingan iyoh dek mbok nai Ingan odak molot ki balai noggond Ingan. Yak pibuu Ingan keh, O Topa ku, iyoh dek ngadung ndu ribuak Kuasa Pritah Ingan, bia iyoh keh dek yak buu Ingan toggant, O Harapan ku, iyoh leh dek mbok pernah ngilukuh ndu Ingan? Idoh dik Ingan yak ponai pilabuk iyoh tih dek pernah Ingan pakat, ato yak komut iyoh dek ogi Ingan odak tungang natong Ingan? 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12162 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Terpujilah Engkau, Ya Tuhanku! Aku merayu kepada-Mu demi nama-Mu, Yang Paling Berbelas Kasihan, untuk melindungi hamba-hamba-Mu dan dayang-dayang-Mu apabila ribut kesukaran melanda mereka, dan cubaan-cubaan-Mu yang berlipat-ganda menyerang mereka. Maka, bolehkanlah mereka, Ya Tuhanku, untuk mencari perlindungan di dalam kubu cinta-Mu dan Wahyu-Mu, sehinggakan tidak dapat diatasi musuh-Mu mahupun penjahat dalam kalangan hamba-Mu, yang telah melanggar Waadat-Mu dan Testamen-Mu, dan telah berpaling dengan amat hina daripada Suria Inti-Mu dan Pewahyu kemuliaan-Mu.

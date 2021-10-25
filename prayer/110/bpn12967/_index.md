@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12967 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 Wanpela man o meri i mas kolim dispela prea taim olgeta i bung na sanap.  Bihain long prea ol i ken planim bodi.  Sapos dispela Bahá’í , husat i dai, em meri, orait senisim prea na tok olsem: "Dispela em wokmeri bilong Yu na pikinini meri bilong wokmeri bilong Yu..." 

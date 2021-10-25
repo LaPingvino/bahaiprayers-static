@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2301 in România'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne, Dumnezeul meu! Lauda fie cu Tine pentru că ai aprins focul iubirii Tale divine în Pomul Sfânt de pe vârful celui mai înalt munte: acel Pom „care nu este nici al răsăritului nici al apusului”10, acel foc care arde până ce flacăra lui se ridică la Adunarea Cerească, şi de la care acele realităţi şi-au luat lumina călăzirii şi au strigat: „Cu adevărat noi am desluşit un foc pe coasta Muntelui Sinai.”

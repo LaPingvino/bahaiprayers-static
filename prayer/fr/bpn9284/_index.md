@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9284 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu de miséricorde, toi qui es fort et puissant ! 

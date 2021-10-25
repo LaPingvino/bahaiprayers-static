@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1194 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Enaltecido seja o Teu Nome, ó meu Deus, por haveres manifestado o Dia que é o Rei dos Dias, o Dia que anunciaste aos Teus eleitos e aos Teus Profetas nas Tuas mais excelentes Epístolas, o Dia em que difundiste sobre toda a criação o esplendor da glória de todos os Teus nomes. Grande é a felicidade de quem se dirigiu a Ti, entrou na Tua presença e percebeu os tons da Tua voz.

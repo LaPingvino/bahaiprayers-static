@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3485 in български'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bg', 'bpn-unsorted']
 +++
 *Ноу Руз — 21 март, е първият ден от бахайската година.

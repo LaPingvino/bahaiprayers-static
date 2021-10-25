@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn658 in Deutsch'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, unser Herr! Beschütze uns durch Deine Gnade vor allem, was Du verabscheust, und gewähre uns, was Deiner würdig ist. Gib uns reichen Anteil an Deiner Gabenfülle und segne uns. Verzeihe uns, was wir getan, wasche unsere Sünden hinweg und vergib uns mit Deiner gnädigen Vorsehung. Wahrlich, Du bist der höchst Erhabene, der Selbstbestehende.

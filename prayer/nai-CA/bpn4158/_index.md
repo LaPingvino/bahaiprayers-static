@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4158 in Canadian Indigenous'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 Sah-sén-na ne se-wa-kie-wen-tá-kwa O a-ge-Ni-yo, ta-non, ji-kon-yeh-ya-ráh-kwa ne a-ke-nonh-kwa-i-ken. Ak-ta ni-séh-ke ne na-ke-rha-rá-je-ra ta-non ne a-kwa-wen skah-ne Te-te-ni-yah-se-há-tíe. Sen-ten-ni-ten-réh-se-ra 

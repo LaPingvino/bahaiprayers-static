@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1678 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn, Guð minn og athvarf mitt í nauð­um mínum! Skjöldur minn og skjól í ógæfu minni! Hæli mitt og höfn í þrengingum og félagi í einmanaleik mínum. Í kvíða huggun mín og ást­ríkur vinur í einveru. Þú eyðir sársauka sorgar minnar og fyrirgefur syndir mínar.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3573 in Norsk'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Forherliget være ditt navn, o Herre! Hos hvem skal jeg finne tilflukt når du i sannhet er min Gud og min elskede? Hos hvem skal jeg søke ly når du er min Herre og min besitter? Og til hvem skal jeg flykte når du i sannhet er min Mester og mitt tilfluktssted? Og hvem skal jeg bønnfalle når du i sannhet er min skatt og min lengsels mål? Og gjennom hvem skal jeg fremføre min bønn til deg når du i sannhet er min sterkeste higen og mitt høyeste ønske? Hvert et håp er gjort til intet unntatt lengselen etter din himmelske nåde, og hver en dør er sperret uten den portal som fører til dine velsignelsers kildevell.

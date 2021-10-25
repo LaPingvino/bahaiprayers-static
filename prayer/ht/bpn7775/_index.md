@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7775 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Glwa pou Ou, O Senyè, Bondye mwen! Men jou Ou te kòmande pou tout moun swiv jèn nan, pou li ta kapab pwòpte nanm yo epi fè yo detache ak tout bagay esepte Ou menm, e pou li ta fè monte nan syèl la sa ki ta merite lakou grandè Ou ak sa ki ta kòrèk pou Syèj revelasyon inite Ou a. Asepte, O Senyè mwen, pou jèn sa a kapab tounen yon rivyè dlo lavi e pou li bay rekòlt tout bonte Ou te fè li posede. Fè jèn nan pwòpte kè sèvitè Ou yo, yo menm ki pa t’ kite mechanste nan mond sa a anpeche yo vire nan direksyon Non Ou ki genyen tout glwa a. Se sèvitè sa yo ki te rete fèm malgre tout bwi ak konfizyon ki te soti nan moun ki te rejte pi gran siyn Ou yo. Siyn sa yo te parèt lè Manifestasyon Ou an te parèt, Sila a Ou te bay souverènte Ou, pouvwa Ou, majeste Ou ak glwa Ou. Sèvitè sa yo se yo menm ki te prese pou jwenn mizèrikòd Ou imedyatman aprè yo te tande apèl Ou, e se yo menm ki pa t’ kite okenn chanjman ak chans nan mond sa a ni limit imen yo genyen anpeche yo jwenn Ou. 

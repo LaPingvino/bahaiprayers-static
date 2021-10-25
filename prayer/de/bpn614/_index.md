@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn614 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht seiest Du, o Herr mein Gott! Ich bitte Dich bei Deinem Namen, den Du über alle anderen Namen erhoben hast, durch den des Himmels Vorhang zerrissen ward und Deiner Schönheit Sonne sich am Horizont erhob im Strahlenglanz Deines Namens, der Erhabene, der Höchste, stehe mir bei mit Deiner wundersamen Hilfe und behüte mich unter dem Obdach Deiner Fürsorge und Deines Schutzes.

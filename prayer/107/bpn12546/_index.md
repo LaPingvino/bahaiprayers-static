@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12546 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-107', 'bpn-unsorted']
 +++
 Oh Na'i, ha’u-nia Maromak! Ha’u hahi’i no agradese Ita-Boot, tanba Ita-Boot gia ona ha'u iha diresaun ba reinu lalehan nian, permite ona ha'u hodi la’o iha dalan loos no naruk ida ne’e, haroman ona ha’u-nia matan hodi haree nabilan husi Ita-Boot nia naroman, se ona ha’u-nia tilun ba melodia husi manu-fuik santu sira husi reinu mistériu no dada ona ha’u-nia fuan ho Ita-Boot nia domin iha ema laran-santu sira leet.

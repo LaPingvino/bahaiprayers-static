@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11594 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Mi Señor! ¡Mi Señor! Te alabo y Te doy gracias por aquello con que has favorecido a Tu humilde sierva, a Tu esclava que Te ruega y Te suplica, pues, en verdad, Tú la has guiado a Tu Reino manifiesto y has hecho que oiga Tu sublime Llamamiento en el mundo contingente y que perciba Tus Señales que demuestran el advenimiento de Tu reino victorioso sobre todas las cosas.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12432 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Hi Hompa wande. Ogho nahora, Muvhuruki wande! Kara muholi wande muliyana omo nakara. Tunditapo ruguvo rwande. Ndenke ni pure Kughuwa Ghoye. Nture muigwanekero lyaUhompa Ghoye nava vaghara navyopeke vakukarere Ove, navantje ava vakukarero vakuruwaneneve. Ndenke ni kare mupika Ghoye. Vyaghushili ove Ghumufenkenda wanavantje.

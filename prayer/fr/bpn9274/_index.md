@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9274 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, mon Dieu, dissipe ma peine par ta bonté et ta générosité, et chasse mon angoisse par ta souveraineté et ta puissance. Ô mon Dieu, tu me vois le visage tendu vers toi, alors que les souffrances m’accablent de toutes parts. Ô toi, Seigneur de toute existence, toi qui abrites toutes choses visibles et invisibles, par ton nom qui a conquis les cœurs et les âmes des hommes, par les flots de l’océan de ta miséricorde et les splendeurs du soleil de ta bonté, je t’implore. Quoiqu’il advienne, compte-moi au nombre de ceux qui dirigent leur visage vers toi, ô Seigneur de tous les noms et Créateur des cieux !

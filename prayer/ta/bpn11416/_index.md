@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11416 in தமிழ்'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ta', 'bpn-unsorted']
 +++
 *கனடாவிலுள்ள பஹாய்களுக்காக வெளிப்படுத்தப்பட்டது

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3526 in Norsk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Priset være ditt navn, o min Gud! Jeg bevitner at ingen forestilling om deg, hvor vidunderlig den enn måtte være, noensinne kan nå opp til din kunnskaps himmel, og at ingen lovprisning av deg, likegyldig hvor opphøyet den måtte være, kan stige opp til din visdoms atmosfære. Fra evighet har du vært høyt hevet over å kunne nås eller fattes av dine tjeneres forstand, og umåtelig opphøyet over dine trellers bestrebelser på å finne uttrykk for ditt mysterium. Hvilken kraft kan den forgjengelige skapning gjøre krav på å besitte ansikt til ansikt med ham som er den uskapte?

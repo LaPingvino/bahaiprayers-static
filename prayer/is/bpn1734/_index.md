@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1734 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrð sé Þér, ó konungur eilífðar, skapari þjóð­anna og sá sem mótar hvert fúnandi bein! Ég bið Þig við nafn Þitt, sem Þú lést kalla allt mann­kyn til sjónarhrings tignar Þinnar og hylli og leiðbeina þjónum Þínum að telja mig með þeim sem hafa varpað frá sér öllu nema Þér og haldið til Þín, og ekki látið þær þrengingar sem Þú hefur ákvarðað aftra sér frá að leita til Þín.

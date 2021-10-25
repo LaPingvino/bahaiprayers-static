@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9392 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitro ô! Ry Andriamanitro! Marina tokoa, miantso Anao aho sy mitalaho eo an-Tokonanao masina, mangataka Aminao mba hampidina ny Fahasoavanao rehetra amin’ireto fanahy ireto. Tendreo manokana izy ireo mba handray ny Fankasitrahanao sy ny Fahamarinanao.

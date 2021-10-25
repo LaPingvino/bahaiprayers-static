@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5064 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Vinh quang thuộc về Ngài, lạy Thượng Đế của Con! Làm sao người ta nhận biết được những kẻ thật sự tôn thờ Ngài nếu họ không chịu đựng tai họa trên đường Ngài? Làm sao hàng ngũ những kẻ khao khát Thánh nhan Ngài được tỏ rõ nếu họ không vui nhận thử thách bởi tình yêu Ngài? Quyền năng Ngài làm chứng cho Con về điều này! Bạn đường những kẻ thờ phượng Ngài là những giọt lệ tuôn rơi từ mắt họ; nguồn an ủi của những kẻ tìm kiếm Ngài là tiếng rên siết của chính họ, và thức ăn của những kẻ hối hả tìm gặp Ngài là những mảnh vỡ tim họ.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8812 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 我的上帝啊，我的主宰，我所嚮往的目標！這僕人懇求祢的照顧與保護，盼望在祢恩典的蔭庇下酣睡，在祢仁惠的華蓋下安宿。

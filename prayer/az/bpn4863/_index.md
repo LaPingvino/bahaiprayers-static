@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4863 in Azərbaycan'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ya Rəbb! Bu uşaqları ən gözəl fidanlar eylə. Onları Öz Əhdi-Peyman bağçanda böyüt və yetişdir, Əbha Mələkutunun feyz yağışları ilə onlara gözəllik və lətafət bəxş eylə.

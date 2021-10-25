@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8076 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Lovpriset være Dit navn, o Herre min Gud! Du er Ham, som alle ting tilbeder, og som ikke tilbeder nogen, som er alle tings Herre og ikke er slave af nogen, som kender alt og ikke kendes af nogen.

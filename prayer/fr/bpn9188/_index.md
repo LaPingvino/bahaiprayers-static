@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9188 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est le Puissant, le Clément, le Compatissant Ô Dieu, mon Dieu, tu vois tes serviteurs dans l’abîme de la perdition et de l’erreur ; où est la lumière de ta providence, ô Désir du monde ? Tu connais leur impuissance et leur faiblesse ; où est ta force, ô toi qui détiens les pouvoirs du ciel et de la terre ?

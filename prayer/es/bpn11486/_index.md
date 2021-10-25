@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11486 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh mi Dios, Tú que conduces al buscador hacia el camino recto, que rescatas al alma ciega y extraviada de los páramos de la perdición; Tú que confieres a los sinceros grandes dádivas y favores, que proteges a los temerosos dentro de Tu inexpugnable refugio, que respondes desde Tu altísimo horizonte al lamento de aquellos que Te elevan sus súplicas! ¡Alabado seas, oh mi Señor! Tú has rescatado a los distraídos de la muerte de la incredulidad, y a los que se acercan a Ti los has llevado hasta la meta del viaje; a los que tienen certeza de entre Tus siervos los has alegrado concediéndoles sus más preciados deseos, y, desde Tu Reino de Belleza, has abierto ante la faz de los que Te anhelan las puertas de la reunión, y los has salvado del fuego de la pérdida y la privación, de modo que han corrido hacia Ti, han alcanzado Tu presencia, han llegado a Tu puerta acogedora y han recibido una porción abundante de dádivas.

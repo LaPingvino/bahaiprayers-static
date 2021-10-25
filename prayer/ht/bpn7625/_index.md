@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7625 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Lwanj pou Ou, O Bondye mwen! Sa yo se sèvitè Ou ki atire avèk pafen mizèrikòd Ou, ki chofe akoz dife k’ap boule nan pyebwa linite Ou, e ki gen je k’ap klere akoz y’ap gade ekla limyè k’ap briye nan Sinayi linite Ou. 

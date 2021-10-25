@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10981 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 I te Igoa o te Atua, ko te Tafasili i te Favavau, ko te tafasili i te Lasi.  E tonu i loto o au fagasele ko velasia ne te afi o te mavae: Te fea a te mainaaga o te moli o Ou mata, O te Fakasele o lalolagi?

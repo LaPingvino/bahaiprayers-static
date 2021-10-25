@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6411 in Cymraeg'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 Efe yw’r Tosturiol, yr Haelionus!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer ABU0003DIS in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'ABU0003DIS']
 +++
 ##The Nineteen Day Feast

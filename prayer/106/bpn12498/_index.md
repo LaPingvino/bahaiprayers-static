@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12498 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-106', 'bpn-unsorted']
 +++
 *(प्रतिदिन प्रातः, मध्यान्ह आणि सायंकाळी स्तवन करावी)

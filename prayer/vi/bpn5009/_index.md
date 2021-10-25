@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5009 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Tất cả những lời ca tụng xin dâng lên Ngài, lạy Ngài là Đấng Thượng Đế của con! Đấng Tối Đại Danh của Ngài đã bị giam cầm trong thành phố lao tù Akka, và lạy Thượng Đế của con, như Ngài đã thấy, Đấng ấy rơi vào tay kẻ thù và bị đe dọa bởi đao kiếm kẻ hung dữ, con van xin Ngài củng cố đức tin con trong Chánh Đạo của Đấng ấy và luôn luôn hướng tầm mắt về thánh điện của Ngài, để không gì có thể khiến con rời xa Ngài.

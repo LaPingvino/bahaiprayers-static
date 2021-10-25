@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn669 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Ein Gebet, zum Abschluss einer Sitzung des Geistigen Rates zu sprechen:O Gott! O Gott! Vom unsichtbaren Reiche Deiner Einheit schaust Du auf uns herab, die wir in dieser geistigen Versammlung zusammenkamen, an Dich glaubend, Deinen Zeichen vertrauend, standhaft in Deinem Bund und Testament, hingezogen zu Dir, erglühend in den Flammen Deiner Liebe und getreu Deiner Sache. Wir sind Diener in Deinem Weinberg, Boten Deiner Religion, ergebene Anbeter vor Deinem Angesicht, demütig vor Deinen Geliebten, ergeben an Deinem Tor. So flehen wir Dich an: Bestätige uns im Dienste für Deine Erwählten, hilf uns mit Deinen unsichtbaren Heerscharen, stärke unsere Lenden in Deinem Dienst und mache uns zu ergebenen Anbetern, die mit Dir Gemeinschaft pflegen.

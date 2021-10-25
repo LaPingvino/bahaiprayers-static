@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn572 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht seiest Du, o Herr mein Gott! Ich danke Dir, dass Du mich in Deinen Tagen ins Leben gerufen und mich mit Deiner Liebe und Deiner Erkenntnis erfüllt hast. Ich bitte Dich bei Deinem Namen, der die kostbaren Perlen Deiner Weisheit und Deines Wortes aus den Schatzkammern der Herzen Deiner Diener hervorbringt, die Dir nahe sind, und durch den die Sonne Deines Namens, der Mitleidvolle, ihren Glanz auf alle im Himmel und auf Erden ergießt, versorge mich durch Deine Gnade und Großmut mit Deinen wundersamen, verborgenen Gaben.

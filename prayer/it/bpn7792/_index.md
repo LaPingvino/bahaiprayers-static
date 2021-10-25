@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7792 in Italiano'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Gloria a Te, o Signore, Che in forza del Tuo decreto hai tratto all’esistenza tutte le cose crea-te.

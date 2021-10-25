@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12952 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 O God bilong mi.  Nem bilong Yu i helpim mi long winim sik. Sapos mi tingim Yu, dispela tingting i olsem marasin bilong mi.  Sapos mi stap klostu long Yu, orait, bai mi wetim ol gutpela samting i kamap.   Mi laikim tumas Yu na dispela lav i stap olsem poroman bilong mi.  Marimari bilong Yu i 

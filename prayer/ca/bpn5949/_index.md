@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5949 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu meu, oh Déu meu! Glòria a Tu per quant m’has atret cap a la paraula de la Teva singularitat, m’has encès amb el foc del Teu amor i has fet que m’ocupi de la Teva menció i del servei als Teus amics i serves.

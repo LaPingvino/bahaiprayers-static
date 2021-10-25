@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10463 in Kiribati'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 *(N te tai are kam rin iai n te ruu ni bowii, anaa te tataro aio ma te manawa ae e bukibuki n tangiran Te Atua ao te newe ae e itiaki ni kaakeai bwaai ni kabane i rarikin Ururingana, bwa e bia te Kabanea ni Mwaaka n aakoi ni buokingkami ni karekea te tokanikai ae e riao.)

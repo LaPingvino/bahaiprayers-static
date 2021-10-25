@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2817 in Shqip'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 *"Vdekja i ofron çdo besimtari besnik kupën që është jeta e vërtetë...Ajo dhuron dhuntinë e jetës së përjetshme." - Bahá’u’lláh

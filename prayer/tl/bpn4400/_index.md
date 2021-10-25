@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4400 in Filipino'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ang Diyos na dumidinig sa dalangin, ang Diyos na tumutugon sa dalangin!

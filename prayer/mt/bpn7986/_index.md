@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7986 in Malti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 Ikun imfaħħar l-isem tiegħeK, O Sid Alla tiegħi! Id-dlam infirex fuq kull art, u l-qawwiet tal-ħażen dawru lin-nazzjonijiet kollha. Minnhom, madankollu, jien nara dijiet il-għerf tiegħeK, u nilmaħ tagħmix id-dwal tal-providenza tiegħeK. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9548 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O mijn Heer! Gij weet dat de mensen omringd worden door pijn en rampen en omgeven worden door tegenspoed en moeilijkheden. Allerlei beproevingen vallen de mens ten deel en iedere verpletterende tegenslag komt als de aanval van een slang. Er is geen schuilplaats of toevluchtsoord voor hem dan onder de vleugels van Uw bescherming, behoud, hoede en zorg.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1206 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado sejas Tu, ó Senhor meu Deus! És Aquele cuja excelsa glória enalteceu os que são fontes de autoridade e honra, cuja potente grandeza fortaleceu aqueles que são os mananciais de força e poder, cuja vontade predominante elevou os Expoentes da Tua Causa acima de todos os que estão no céu e na terra, e cuja Pena, com suas efusões vivificadoras, animou as almas dos que habitam no reino da criação.

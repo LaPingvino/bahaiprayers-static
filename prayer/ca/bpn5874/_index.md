@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5874 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Senyor, Déu meu! Aquest és un nen què ha nascut del ventre d’una de les Teves serves a la què has conferit una posició distingida a les Taules del Teu irrevocable decret contingudes als Llibres del Teu mandat.

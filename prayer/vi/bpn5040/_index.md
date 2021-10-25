@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5040 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, Ngài thật vinh quang! Ngài thấy đó, đầu con sẵn sàng chịu rơi xuống trước thanh kiếm của Ý chí Ngài, cổ con sẵn sàng mang xiềng xích của Khát vọng Ngài, tim con ước ao được làm mục tiêu cho những mũi tên chỉ dụ của Ngài, mắt con mong mỏi được nhìn những biểu tượng và dấu hiệu đức bác ái huyền diệu của Ngài. Bởi vì bất cứ điều gì từ Ngài tuôn đổ xuống cho con đều là khát vọng tha thiết của những người thèm khát được gặp Ngài, và là ước vọng tối cao của những người tiến tới gần triều đường của Ngài.

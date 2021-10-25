@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1598 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð minn! Ó Guð minn! Þessi þjónn Þinn hefur nálgast Þig, reikar löngunarfullur í eyði­­mörk kærleika Þíns, gengur vegu þjónustu Þinnar, væntir hylli Þinnar, vonast eftir örlæti Þínu, treystir á ríki Þitt og ölvast af víni gjafar Þinnar. Ó Guð minn! Auk ástarhita hans til Þín, staðfestu lofs hans og hita elsku hans á Þér.

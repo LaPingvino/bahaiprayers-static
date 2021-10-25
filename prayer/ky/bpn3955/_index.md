@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3955 in Кыргыз'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ky', 'bpn-unsorted']
 +++
 *Кимде-ким Кудайга сыйынса, колун жууганда мындай деш керек/:

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4963 in Vanuatu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O God! O God! Hemia wan pijin we han blong hem i brok, mo hem i flae i go sloslo. Helpem hem blong hem i save flae antap go kasem ples we hem i sef mo we hem save winim ol gud samting. Letem hem i fri blong flae olbaot wetem glad filing. Helpem hem blong singaot Hae Nem blong Yu long evri ples. Helpem singsing blong hem i mekem se ol sora i glad. Mo mekem se ol ae blong ol man i open big wan, from we oli lukluk ol saen we i soem rod long olgeta.

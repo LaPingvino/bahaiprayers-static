@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn601 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht sei Dein Name, o Herr mein Gott! Ich weiß nicht, welcher Art das Wasser ist, daraus Du mich erschaffen, noch das Feuer, das Du in mir entfacht, noch der Lehm, aus dem Du mich geformt. Eines jeden Meeres Unruhe legt sich, nicht aber die Ruhelosigkeit des Weltmeers in mir, das da wogt, wie es die Winde Deines Willens gebieten. Eines jeden Feuers Flamme verlöscht, nicht aber die Flamme, welche die Hände Deiner Allmacht entfacht haben, und deren Licht Du durch Deines Namens Macht über alle ergießest, die in Deinem Himmel und auf Deiner Erde wohnen. Je schwerer die Heimsuchungen werden, desto heißer wird sie.

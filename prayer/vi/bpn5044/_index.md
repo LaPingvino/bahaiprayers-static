@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5044 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Ngài thật đáng ca ngợi, lạy Thượng Đế của Con! Con cảm tạ Ngài biết bao vì Ngài đã tách riêng Con và chọn Con trên tất cả các tôi tớ Ngài để mặc khải Chánh Đạo của Ngài, ở vào thời điểm mà mọi người đều từ bỏ vẻ Mỹ lệ của Ngài! Lạy Thượng Đế của Con, Con xin chứng nhận rằng nếu Con được Ngài ban cho một ngàn đời sống, và dâng hiến hết cả ngàn đời sống đó trên đường Ngài, Con vẫn không báo đáp được chút nào những hồng ân mà Ngài đã ban cho Con bởi lượng từ bi của Ngài.

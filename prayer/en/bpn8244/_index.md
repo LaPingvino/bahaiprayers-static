@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8244 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Praise be to Thee, O my God, for having cast in this Day the radiance of all Thy names upon all created things, O Thou Who art the Lord of glory, majesty, and grandeur; of power, might, and blessings! This is the Day whereon He Who is the Mouthpiece of God, the All-Possessing, the Inaccessible, the Most High, hath called out from the realm of eternity, saying: “The Kingdom is God’s, the Almighty, the Most Exalted, the Most Glorious!”

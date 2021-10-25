@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4811 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey mənim Allahım və mənim Mövlam! Mən Sənin bəndənəm və bəndənin oğluyam. Mən bu sübh çağı yatağımdan qalxmışam, o zaman ki, Sənin təklik şəfəqin Sənin iradənin günəşindən parladı və Sənin Hökm Kitablarında əmr etdiyin kimi, Öz işığını bütün dünyaya saldı.

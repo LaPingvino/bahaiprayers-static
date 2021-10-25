@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5843 in Català'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Suplico la Teva misericòrdia, oh Déu meu, i imploro perdó segons la manera en què Tu desitges que els Teus serfs es dirigeixin a Tu. Et prego que netegis els nostres pecats com correspon al Teu Senyoriu, i que em perdonis, a mi, als meus pares i als qui al Teu judici hagin entrat en la llar del Teu amor d’una manera què sigui digna de la Teva transcendent sobirania i adequada a la glòria del Teu poder celestial.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5127 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Terpujilah Engkau, ya Tuhanku! Aku seorang hamba-Mu, yang telah percaya akan Dikau, dan akan tanda-tanda-Mu. Engkau melihat bagaimana aku telah menghadapkan diriku pada pintu rahmat-Mu dan mengarahkan wajahku pada kasih sayang-Mu. Aku memohon kepada-Mu, demi gelar-gelar-Mu yang tertinggi dan sifat-sifat-Mu yang terluhur, agar membuka pada wajahku gapura-gapura anugerah-Mu. Maka, tolonglah aku agar berbuat apa yang baik, ya Engkau Pemilik segala nama dan sifat!

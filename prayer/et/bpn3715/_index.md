@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3715 in Eesti'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo Issand, mu Jumal ja mu varjupaik hädas! Mu kilp ja kaitse raskusis! Mu asüül ja pelgupaik mure hetkel ning kaaslane mu üksinduses! Mu ahastuse trööst ja armastav sõber mu üksilduses! Mu kurbusevalude kõrvaldaja ja mu pattude andestaja!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8151 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Denne bøn, åbenbaret af ’Abdu’l-Bahá læses ved hans gravmæle. Den benyttes også ved personlig bøn.

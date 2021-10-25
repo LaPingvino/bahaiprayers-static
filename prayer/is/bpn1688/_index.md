@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1688 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Miklað sé nafn Þitt, ó Guð minn, að Þú hefur birt daginn sem er konungur daga, daginn sem Þú boðaðir Þínum útvöldu og spámönnum Þínum í Þínum ágætustu töflum, þann dag er Þú lést dýrðarljóma allra nafna Þinna lýsa yfir allt sem skapað er. Mikil er blessunin sem hlotnast þeim er hefur leitað til Þín, komist í návist Þína og heyrt óminn af rödd Þinni.

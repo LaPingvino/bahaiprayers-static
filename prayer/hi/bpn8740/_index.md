@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8740 in हिंदी'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hi', 'bpn-unsorted']
 +++
 *(अल्लाह-ओ-आभा) तीन बार कहे और तब प्रभु के समक्ष अपने घुटनों पर हाथ रखकर वह कमर के

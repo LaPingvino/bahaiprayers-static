@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10329 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Ärad vare Du, o Herre min Gud! Jag ber Dig vid Ditt namn genom vilket Han som är Din skönhet har installerats på Din saks tron, och vid Ditt namn genom vilket Du förändrar allt, för samman allt, ställer alla till svars, belönar alla, bevarar allt och vidmakthåller allt – jag ber Dig beskydda denna tjänarinna som har sökt sin tillflykt hos Dig, har sökt skydd hos Honom i vilken Du själv är uppenbarad och förtröstar och förlitar sig helt på Dig.

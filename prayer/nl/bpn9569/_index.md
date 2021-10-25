@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9569 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Hij is de God die gebeden verhoort en beantwoordt!

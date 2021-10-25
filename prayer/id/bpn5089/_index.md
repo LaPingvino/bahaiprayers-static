@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5089 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##SEMBAHYANG PANJANG

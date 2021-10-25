@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5187 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Segala Pujian bagi-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu demi tanda-tanda-Mu yang meliputi seluruh ciptaan, dan demi cahaya wajah-Mu yang telah menyinari segala yang ada di langit dan di bumi, dan demi rahmat-Mu yang melebihi sekalian makhluk, dan demi kurnia-Mu yang meliputi seluruh alam semesta, agar merobekkan tabir-tabir yang memisahkan daku dari Engkau, supaya hendaknya aku dapat segera sampai ke Sumber ilham-Mu yang agung dan ke Tempat Terbit Wahyu-Mu serta anugerah- Mu yang berlimpah-limpah, dan supaya hendaknya aku dapat menyelam di dalam samudera kedekatan dan keridhoan-Mu. Ya Tuhanku, janganlah membiarkan daku di-jauhkan dari pengetahuan tentang Engkau dalam hari-hari-Mu, dan janganlah menanggalkan jubah

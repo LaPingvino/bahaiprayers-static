@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9640 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, o Gij die Uw luister over de schitterende werkelijkheid der mensen hebt uitgestort, hen met het luisterrijke licht van kennis en leiding hebt beschenen, hen uit al het geschapene voor deze hemelse genade hebt uitverkoren en hebt gezorgd dat zij alle dingen bevatten, de diepste essentie ervan begrijpen en hun mysteriën onthullen door ze uit de duisternis in de zichtbare wereld te brengen! “Hij toont Zijn bijzondere genade waarlijk aan al wie Hij wil.” 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9198 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Au nom du Seigneur, le Suprême, tu es loué et glorifié, Seigneur, Dieu omnipotent ! Devant ta sagesse, le sage reconnaît ses limites et s’incline ; devant ta connaissance, le savant confesse son ignorance ; devant ta puissance, l’homme fort vacille ; devant ton opulence, le riche atteste sa pauvreté ; devant ta lumière, l’homme éclairé se trouve perdu dans les ténèbres ; vers le temple de ta connaissance se tourne l’essence de toute compréhension, et autour du sanctuaire de ta présence gravitent les âmes de l’humanité tout entière.

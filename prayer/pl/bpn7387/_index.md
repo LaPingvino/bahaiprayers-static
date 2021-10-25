@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7387 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Bogiem, który słucha modlitw i na modlitwy odpowiada!

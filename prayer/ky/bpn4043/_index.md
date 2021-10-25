@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4043 in Кыргыз'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ky', 'bpn-unsorted']
 +++
 *Сыйынуу Кошмо Штаттардагы жана Канададагы бахаилер учун ачылган/

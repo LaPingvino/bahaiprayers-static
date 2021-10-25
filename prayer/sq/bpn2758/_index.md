@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2758 in Shqip'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Të thuhet një herë në njëzet e katër orë

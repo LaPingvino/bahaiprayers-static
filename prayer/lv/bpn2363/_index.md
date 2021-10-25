@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2363 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak mans Dievs! Tava Mācība ir iekvēlinājusi daudz vēsu siržu, un Tavas balss saldme ir atmodinājusi daudz snaudā slīgušo. Cik daudz ir to ceļinieku, kas ir meklējuši patvērumu Tavas vienesmes Koka pavēnī, un cik liels ir to izslāpušo skaits, kas ir alkuši Tava avota dzīvinošo ūdeņu Tavās Dienās!

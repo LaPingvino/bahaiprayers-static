@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH00438 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH00438']
 +++
 My God, my Adored One, my King, my Desire!  What tongue can voice my thanks to Thee?  I was heedless, Thou didst awaken me.  I had turned back from Thee, Thou didst graciously aid me to turn towards Thee.  I was as one dead, Thou didst quicken me with the water of life.  I was withered, Thou didst revive me with the heavenly stream of Thine utterance which hath flowed forth from the Pen of the All-Merciful.

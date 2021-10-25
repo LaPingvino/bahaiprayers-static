@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6215 in Hawaiian'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-haw', 'bpn-unsorted']
 +++
 ##Pule no ka Moana PakÔpika

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2774 in Shqip'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Zoti im! O Zoti im!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8773 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 *每日早上、中午和晚上吟誦

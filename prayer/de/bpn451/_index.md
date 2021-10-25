@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn451 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Deine Magd ruft Dich an, wendet vertrauensvoll ihr Angesicht Dir zu mit Bitten und Flehen: Ergieße über sie Deine himmlischen Gnadengaben, enthülle ihr Deine geistigen Geheimnisse und wirf auf sie das Licht Deiner Göttlichkeit.

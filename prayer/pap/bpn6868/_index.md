@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6868 in Papiamentu'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pap', 'bpn-unsorted']
 +++
 *Say: God sufficeth all things above all things… 

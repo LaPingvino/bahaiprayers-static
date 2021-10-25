@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8883 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 於靈理會會議結束時誦讀此篇禱文。

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7817 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Non so, o mio Dio, cosa sia questo Fuoco che accendesti nelle Tue regioni. La terra non può velarne lo splendore, né l’acqua soffocarne la fiamma. Tutti i popoli del mondo sono impo-tenti a resistere alla sua forza. Grande è la benedizione di colui che gli si è accostato e ha udito il suo crepitare.

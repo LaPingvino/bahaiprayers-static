@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7589 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Ylistetty olet Sinä, oi Jumalani, että olet määrännyt Naw-Rúzin juhlapyhäksi niille, jotka ovat noudattaneet paastoa rakkaudesta Sinuun ja pysytelleet erillään kaikesta, mikä ei ole Sinulle mieleen. Suo, oi Herrani, että Sinun rakkautesi tuli ja säätämäsi paastoamisen synnyttämä kuumuus sytyttäisivät heidät asiassasi ja valtaisivat heidän mielensä, niin että he aina ylistäisivät ja muistelisivat Sinua.

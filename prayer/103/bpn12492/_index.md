@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12492 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O Thou forgiving God! These servants are turning to Thy kingdom and seeking Thy grace and bounty.

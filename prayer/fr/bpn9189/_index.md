@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9189 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Affermis nos pas dans ton sentier, ô Seigneur, et en nos cœurs renforce notre obéissance. Tourne nos visages vers la beauté de ton unicité et réjouis-nous par les signes de ta divine unité. Pare nos corps du manteau de ta munificence, écarte de nos yeux le voile du péché et tends-nous le calice de ta grâce, pour que tous les êtres, du tréfonds d’eux-mêmes, chantent ta louange à la vue de ta grandeur. Révèle-toi, ô Seigneur, par ta parole miséricordieuse et par le mystère de ton être divin, afin que la sainte extase de la prière comble nos âmes. Que cette prière s’élève au-delà des lettres et des mots, transcende le murmure des syllabes et des sons, et que tout se fonde dans le néant devant la révélation de ta splendeur !

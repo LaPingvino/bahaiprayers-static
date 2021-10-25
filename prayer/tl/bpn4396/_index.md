@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4396 in Filipino'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ang Magandang-loob, ang Mapagpala sa Lahat!

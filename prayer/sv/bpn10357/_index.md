@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10357 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Må vemhelst som reser till olika platser för att undervisa, i begrundan läsa denna bön på berg och i öken, på land och på hav:

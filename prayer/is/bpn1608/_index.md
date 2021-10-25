@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1608 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Lof sé Þér, ó Guð minn! Ég er einn þjóna Þinna sem hafa trúað á Þig og tákn Þín. Þú sérð hvernig ég hef leitað dyra náðar Þinnar og beint ásjónu minni að ástríki Þínu. Ég sárbæni Þig við ágætustu nafnbætur Þínar og upphöfnustu eigindir að opna fyrir mér hlið gjafa Þinna. Aðstoða mig síðan við að gera það sem gott er, ó Þú sem ert eigandi allra nafna og eiginda.

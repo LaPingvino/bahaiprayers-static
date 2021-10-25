@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6669 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Magnified be Thy name, O Thou in Whose grasp are the reins of the souls of all them that have recognized Thee, and in Whose right hand are the destinies of all that are in heaven and all that are on earth! Thou doest, through the power of Thy might, what Thou willest, and ordainest, by an act of Thy volition, what Thou pleasest. The will of the most resolute of men is as nothing when compared with the compelling evidences of Thy will, and the determination of the most inflexible among Thy creatures is dissipated before the manifold revelations of Thy purpose.

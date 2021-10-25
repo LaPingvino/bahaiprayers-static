@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4404 in Filipino'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O aking Diyos! O aking Diyos! Luwalhatiin Ka dahil sa pinagtibay Mo ako sa paghahayag ng Iyong kaisahan, inakit Mo ako sa salita ng Iyong pagkaisa, pinagningas Mo ako sa apoy ng Iyong pag-ibig, at ginawa Mo akong abala sa pagbanggit sa Iyo at sa paglilingkod sa Iyong mga kaibigan at mga babaing kawaksi.

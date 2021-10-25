@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH00778 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH00778']
 +++
 Glory be to Thee, O Lord my God!  These are the days whereon Thou hast bidden all men to observe the Fast, that through it they may purify their souls and rid themselves of all attachment to anyone but Thee, and that out of their hearts may ascend that which will be worthy of the court of Thy majesty and may well beseem the seat of the revelation of Thy oneness.  Grant, O my Lord, that this fast may become a river of life-giving waters and may yield the virtue wherewith Thou hast endowed it.  Cleanse Thou by its means the hearts of Thy servants whom the evils of the world have failed to hinder from turning towards Thine all-glorious Name, and who have remained unmoved by the noise and tumult of such as have repudiated Thy most resplendent signs which have accompanied the advent of Thy Manifestation Whom Thou hast invested with Thy sovereignty, Thy power, Thy majesty and glory.  These are the servants who, as soon as Thy call reached them, hastened in the direction of Thy mercy and were not kept back from Thee by the changes and chances of this world or by any human limitations.

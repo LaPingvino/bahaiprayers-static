@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10265 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O min Gud, min Mästare, min längtans mål. Denne Din tjänare söker sin sömn i skyddet av Din barmhärtighet och sin vila under Din nåds himlavalv, bedjande om Din vård och Ditt beskydd.

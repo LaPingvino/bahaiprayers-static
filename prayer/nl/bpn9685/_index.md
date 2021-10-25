@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9685 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, mijn God! Schenk voor mij de kelk van onthechting van alle dingen vol, en verblijd mij te midden van Uw pracht en Uw gaven met de wijn van het U liefhebben. Bevrijd mij van de aanvallen van hartstocht en begeerte, ontdoe mij van de boeien van dit ondermaanse, voer mij in verrukking naar Uw hemels rijk en verkwik mij met de ademtochten van Uw heiligheid te midden van de dienaressen.

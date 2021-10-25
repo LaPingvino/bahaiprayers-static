@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11712 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Allāna, Ubangijina! Nī bāwanka ne, kuma ɗan bāwanka. Nā bar mabartata tun assuba, a lōkacin da tarmāmuwar kaɗaitakarka take ɓullōwa a cikin yardarka, tana wātsa haskenta a sararin dūniya gabāɗaya, bisa umurnin da ka bāda a cikin littāfin ƙaddararka. 

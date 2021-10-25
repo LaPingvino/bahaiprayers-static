@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5247 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 UIme Boga, Najuzvišenijeg! Veličan i slavljen si Ti, Gospodaru, Svemoćni Bože! Ti pred čijom mudrošću mudri poklekoše i zanijemiše, pred čijim znanjem učeni priznaše svoju neukost, suočeni sa čijom snagom jaki posustaše, pred čijom se svjetlošću prosvijetljeni izgubiše u tami, oko hrama čijeg znanja se okreće osnova svog razumijevanja i pred svetištem čijeg prisustva kruže duše cijelog čovječanstva.

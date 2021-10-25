@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9748 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Glorie zij U, o Heer mijn God! Dit zijn de dagen waarop Gij alle mensen hebt geboden te vasten, dat zij daardoor hun ziel kunnen zuiveren en zich van alle gehechtheid aan iemand buiten U kunnen ontdoen, en datgene uit hun hart omhoog mag komen wat het hof van Uw majesteit waardig is en de zetel van de openbaring van Uw één-zijn past. Geef, o mijn God, dat deze vasten een rivier van levengevend water moge worden en de deugd moge voortbrengen waarmee Gij hem hebt begiftigd. Reinigt Gij het hart van Uw dienaren daarmee, zij die zich niet door het kwaad van de wereld hebben laten weerhouden zich tot Uw alglorierijke Naam te wenden, en die onberoerd blijven onder het roerige tumult van hen die Uw luisterrijke tekenen hebben afgewezen, tekenen die gepaard gingen met de komst van Uw Manifestatie die Gij hebt bekleed met Uw soevereiniteit, Uw kracht, Uw majesteit en Uw glorie. Dit zijn die dienaren die zich, zodra Uw roep hen bereikte, onmiddellijk naar Uw barmhartigheid hebben gehaast en zich niet van U hebben laten weerhouden door de wisselvalligheden van deze wereld of door enige menselijke beperking.

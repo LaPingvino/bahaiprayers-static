@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3902 in Hrvatski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 Slava tebi, o, Bože, zbog Tvoje objave ljubavi čovječanstvu! O, Ti, Koji si naš Život i Svjetlo, vodi Svoje sluge Tvojim putem i učini nas bogatima u Tebi i oslobodi nas svega osim Tebe.

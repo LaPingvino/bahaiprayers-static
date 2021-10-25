@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7404 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, przebaczający Boże! Ci oto słudzy zwracają się w stronę Twojego królestwa, pragnąc Twej łaski i szczodrości. O Boże! Uczyń ich serca dobrymi i czystymi, tak aby stali się godni Twojej miłości. Oczyść i uświęć dusze, aby opromieniła je światłość Słońca Rzeczywistości. Oczyść i uświęć ich oczy, aby mogli dostrzec Twój blask. Oczyść i uświęć ich słuch, aby usłyszeli wołanie Twojego królestwa.

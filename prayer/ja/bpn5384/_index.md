@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5384 in 日本語'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお主よ。あなたのお喜びの境内けいだいの外に残された創造物はないよう、地上のすべての

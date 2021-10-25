@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9370 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Dera ho Anao, ry Andriamanitro ô, noho ny nandidianao ny Naw-Rúz ho androm-piravoravoana ho an’ireo izay nitandrina ny fifadian-kanina noho ny fitiavana Anao ary nifady izay rehetra tsy Tianao. Aoka, ry Tompoko ô, ny afon’ny Fitiavanao sy ny hafanana naterakin’ny fifadian-kanina izay nodidianao mba hampiredareda azy ao amin’ny Fototrao ary ahatonga azy hifantoka amin’ny Fiderana Anao sy ny fahatsiarovana Anao.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9218 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, toi qui pardonnes les péchés, dispenses les bienfaits, dissipes les afflictions ! En vérité, je te supplie de pardonner les péchés de ceux qui ont abandonné l’enveloppe physique et se sont élevés vers le monde spirituel.

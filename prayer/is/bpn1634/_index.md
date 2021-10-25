@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1634 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er Guð, upphafinn er Hann, Drottinn ástúðar og örlætis!

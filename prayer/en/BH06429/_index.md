@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH06429 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH06429']
 +++
 Glorified art Thou, O Lord my God!  Thou art He the fire of Whose love hath set ablaze the hearts of them who have recognized Thy unity, and the splendors of Whose countenance have illuminated the faces of such as have drawn nigh unto Thy court.  How plenteous, O my God, is the stream of Thy knowledge!  How sweet, O my Beloved, is the injury which, in my love for Thee, and for the sake of Thy pleasure, I suffer from the darts of the wicked doers!  How pleasing are the wounds which, in Thy path and in order to proclaim Thy Faith, I sustain from the swords of the infidels!

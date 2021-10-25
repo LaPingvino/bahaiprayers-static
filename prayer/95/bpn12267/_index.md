@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12267 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 I te Igoa o te Atua, te Aliki ko silia kese a te malu mo te matagofie, te  Fakaikuuga-Katoatoa.  

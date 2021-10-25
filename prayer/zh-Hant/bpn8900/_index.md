@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8900 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 供應者啊！祢將聖靈的甜蜜芳香，吹送給西方之友；祢借神聖導引之光，將西方之天照亮。祢使疏遠者親近祢，讓陌生者成為知己；祢使沉睡者甦醒，讓疏失者警覺。

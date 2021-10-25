@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3210 in Afrikaans'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Lof sy aan U, o my God! Was dit nie vir die beproewinge at in U weg opgedoen word nie, hoe sou U ware liefhebbers herken word; en was dit nie vir die toetse wat ter wille van liefde vir U gedra word nie, hoe sou die stand van diegene wat U verlang blootgelê kon word? U mag getuig van my! Die metgeselle van almal wat U vereer is die trane wat hulle stort, en die troosters van dié wat U soek is die kreune wat hulle uiter, en die voedsel van diegene wat haas maak om U te ontmoet is die brokstukke van hulle gebroke harte.

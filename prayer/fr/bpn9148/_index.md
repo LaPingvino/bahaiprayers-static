@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9148 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 *Tous les amis de Dieu ... doivent contribuer aux fonds, dans la mesure du possible, aussi modeste que soit leur offrande. Dieu ne charge pas une âme au-delà de ses capacités. De telles contributions doivent venir de tous les centres et de tous les croyants... Ô amis de Dieu, soyez assurés que grâce à ces dons, vos activités agricoles, industrielles et commerciales seront bénies par de multiples apports et autres largesses. Celui qui accomplit une bonne action sera récompensé dix fois autant. Il ne fait point de doute que le Dieu vivant confirmera généreusement ceux qui dépensent leurs richesses dans son sentier.

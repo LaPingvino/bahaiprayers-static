@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5976 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu meu, oh Déu meu Veritablement T’invoco i suplico davant el Teu llindar, pregant que totes les Teves mercès descendeixin sobre aquestes ànimes. Prepara-les pel Teu favor i la Teva veritat.

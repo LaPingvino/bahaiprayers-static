@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3912 in Hrvatski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 Kako da zaspim, o, Bože, moj Bože, kad su oči onih koji čeznu za Tobom budne zbog odvojenosti od Tebe; i kako da legnem otpočinuti dok su duše Tvojih voljenih bolno uznemirene zbog udaljenosti od Tvoga prisustva?

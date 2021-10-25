@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2309 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Acestea sunt, o Dumnezeul meu, zilele în care Tu le-ai prescris slujitorilor Tăi să ţină post. Cu el Tu ai împodobit prefaţa Cărţii Legilor Tale revelată făpturilor Tale, şi ai înveşmântat Păstrătorii poruncilor Tale dinaintea ochilor tuturor celor ce se află în cerul şi pe pământul Tău. Tu ai înzestrat fiecare ceas al acestor zile cu o virtute deosebită, ascunsă tuturor în afară de Tine, Cel a cărui cunoaştere cuprinde toate lucrurile create. De asemenea, Tu ai atribuit fiecărui suflet o parte din această virtute potrivit Tabletei poruncii Tale şi Scripturilor Judecăţii Tale irevocabile. Mai mult, fiecare pagină a acestor Cărţi şi Scripturi ai hărăzit-o fiecăruia dintre popoarele şi neamurile pământului.

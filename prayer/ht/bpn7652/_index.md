@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7652 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen, kè moun ki debòde ak dezi pou antre nan prezans Ou boule poutèt dife anvi yo genyen pou jwenn Ou, e je moun ki renmen Ou koule anpil dlo poutèt yo kraze avèk chay separasyon yo ak lakou Ou, epi vwa soufrans lan pou moun ki fikse espwa yo sou Ou leve patou nan wayòm Ou yo.

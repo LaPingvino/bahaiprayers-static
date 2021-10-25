@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7708 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Mwen ba Ou lwanj, O Bondye mwen, poutèt Ou te reveye mwen fè mwen soti nan dòmi, Ou te fè mwen parèt aprè mwen te disparèt, e Ou te fè mwen leve soti nan somèy mwen. Mwen reveye maten an avèk figi mwen fikse nan direksyon limyè Solèy Revelasyon Ou - yon Revelasyon Ki te limen syèl pouvwa ak majeste Ou - epi mwen rekonèt siyn Ou yo, mwen kwè nan Liv Ou a e mwen kenbe fèm nan Kòd Ou a. 

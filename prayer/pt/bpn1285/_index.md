@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1285 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Imploro-Te, pelo esplendor da luz da Tua face gloriosa, pela majestade da Tua antiquíssima grandeza e pelo poder da Tua soberania transcendente, que nos ordenes, neste momento, a plena medida daquilo que é bom e condigno, e nos destines toda a porção dos eflúvios da Tua graça. Pois ao concederes dádivas, Tu não sofres prejuízo, nem a Tua riqueza diminui, ao conferires favores.

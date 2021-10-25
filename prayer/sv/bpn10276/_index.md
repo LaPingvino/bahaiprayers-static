@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10276 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O min Gud, o min Gud! Ärad vare Du för att Du har styrkt mig att erkänna Din enhet, dragit mig till Din enhets ord, upptänt mig med Din kärleks eld och sysselsatt mig med omnämnandet av Dig och tjänandet av Dina vänner och tjänarinnor.

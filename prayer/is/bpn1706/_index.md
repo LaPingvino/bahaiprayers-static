@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1706 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Hvernig get ég óskað mér svefns, ó Guð, Guð minn, meðan augu þeirra sem þrá Þig eru svefn­vana vegna aðskilnaðar frá Þér, og hvernig get ég lagst til hvíldar þegar sálir elskenda Þinna eru sármæddar vegna fjarlægðar frá návist Þinni?

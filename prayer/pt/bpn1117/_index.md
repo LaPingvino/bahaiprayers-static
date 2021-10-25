@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1117 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, meu Deus! Este é o Teu servo radiante, o Teu cativo espiritual que se acercou de Ti e se aproximou da Tua presença. Ele volveu a face para a Tua e reconheceu a Tua unidade, confessou a Tua unicidade e em Teu nome ergueu o chamado entre as nações, guiando o povo às águas transbordantes da Tua misericórdia, ó Tu, Generosíssimo Senhor! Aos que pedem, Ele tem dado de beber do cálice da guia, pleno do vinho da Tua imensurável graça.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7734 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se pou non Ou louwe, O Senyè Bondye mwen! Mwen sipliye Ou avèk Non Ou ki te fè Jou a sone, e ki te fè Rezireksyon an rive, epi perèz ak boulvès domine tout sila yo ki nan syèl la ak tout sa yo ki sou latè, mwen sipliye ou pou voye desann sou nou, soti nan syèl mizèrikòd Ou ak nyaj dous jantiyès Ou yo, sa ki pral rejwi kè sèvitè Ou yo, sila yo ki te vire nan direksyon Ou e ki te ede Koz Ou a.

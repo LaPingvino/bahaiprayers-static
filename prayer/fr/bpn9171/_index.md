@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9171 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Loué sois-tu, ô Seigneur, mon Dieu ! Je te supplie par ton Nom que personne n’a reconnu comme il convient et dont aucune âme n’a pénétré le sens. Je te supplie par celui qui est la source de ta révélation et l’aurore de tes signes. Fais de mon cœur un réceptacle de ton amour et de ton souvenir. Unis-le à ton très grand Océan, qu’il déverse les eaux vives de ta sagesse et les flots cristallins de ta gloire et de ta louange.

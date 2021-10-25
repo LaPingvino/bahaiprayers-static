@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3365 in български'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bg', 'bpn-unsorted']
 +++
 Съберете се заедно с искрена радост и в началото на събранието кажете тази молитва:

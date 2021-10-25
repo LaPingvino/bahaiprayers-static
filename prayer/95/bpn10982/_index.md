@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10982 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *“Tauloto a te Tapeleti o te Ia Fai Malaga Mana ke iloa ne Koe a te mea tonu, kae mafaufau i te Gali Faka-manuiagina ko oti ne valo mai a mea tupu mai i mua.  Fakailoa atu kia a latou ko la e atafia e latou, ke faeteete!” –

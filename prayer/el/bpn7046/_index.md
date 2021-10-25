@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7046 in ελληνικά'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 ΜΕΓΑΛΗ ΥΠΟΧΡΕΩΤΙΚΗ ΠΡΟΣΕΥΧΗ *- Απαγγέλλεται µια φορά το εικοσιτετράωρο –

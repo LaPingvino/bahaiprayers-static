@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10267 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O sanningssökare! Om du önskar att Gud skall öppna ditt öga, måste du bönfalla Gud, bedja till och samtala med Honom vid midnatt och säga:

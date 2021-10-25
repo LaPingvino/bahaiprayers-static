@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5137 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Engkau, Tuhan Yang Tiada Banding Taranya! Ya Engkau, Raja Kerajaan! Jiwa-jiwa ini adalah bala tentara surgawi-Mu. Tolonglah mereka itu, dan menangkanlah mereka dengan bantuan dari Penghuni Tertinggi, sehingga masing-masing mereka akan menjadi bagaikan satu rombongan dan menaklukkan daerah-daerah ini dengan cinta Tuhan dan cahaya ajaran-ajaran Ilahi.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5480 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おおわが神よ、わが師よ、わが望みの的よ。この僕しもべは、あなたのご加護と保護を願いつつ、御恵みめぐみの隠れ家に眠り、あなたのご慈悲の天蓋てんがいのもとに休息を得ようとしております。

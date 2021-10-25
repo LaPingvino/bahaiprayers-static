@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10118 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er gjafarinn, hinn veglyndi!

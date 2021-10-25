@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13046 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-115', 'bpn-unsorted']
 +++
 *Ic mêŋŋê ac hêla hocmac.  imuac kewu nêŋ uŋa kicga aumac zêma gi kewu selia nec qesi mima niŋ selima hêmbipia iguc tacma qesi mina:

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9311 in Malagasy'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Lazao: Andriamanitra no sahaza amin’ny zavatra rehetra, ambonin’ny zavatra rehetra. Tsy misy na any an-danitra na ety an-tany, afa-tsy Andriamanitra no manana ny ampy.

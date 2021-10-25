@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6195 in Marshallese'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mh', 'bpn-unsorted']
 +++
 O Iroij! Komman bwe ajri rein ren menin edrok ko reweppen. Komman bwe ren edrok im wonmanlok ilo jikin kallib in Bujen eo Am, im lelok nan ir mour kaal im aibuijuij jen dren ko rej wotlok tok jen koro ko ilo Abha Kingdom.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7592 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *... päivittäiset velvollisuusrukoukset sekä muutamat muut erityisrukoukset, kuten Parannusrukous ja Aḥmadin muistio, on Bahá'u'lláh varustanut aivan erityisellä voimalla ja merkityksellä. Uskovien tulisi sen vuoksi hyväksyä ne sellaisinaan ja empimättä lausua ne uskoen ja luottaen, että niiden kautta he voivat päästä paljon läheisempään yhteyteen Jumalan kanssa ja samastua entistä täydellisemmin Hänen lakeihinsa ja määräyksiinsä.

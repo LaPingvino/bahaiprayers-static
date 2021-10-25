@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12715 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Tuhan, Petara aku enggau Pengenduh aku lebuh maya penusah	aku!	Terabai	aku	enggau	Pengelindung	aku lebuh	maya	aku	kena	penusah!	Pengintu	enggau Penyelamat	aku	lebuh	maya	suntuk	lalu	lebuh pengelengau aku nyadi ke Kaban aku! Lebuh maya aku merampau nyadi ke Pengaum aku, lalu lebuh maya aku silu-ilu Nuan nyadi ke Pangan ti rindu! Nuan nyadi ke Pemuai ipuh penusah ati aku sereta Pengampun dosa aku!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12365 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O my Lord! O my Lord! This is the lamp lighted by the fire of Thy love……

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10525 in Kalaallisut'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guuti-aa! Meerannguaq una Asanninnerpit pakkussinerata iluani perorsaruk, Siulersuinerpillu sakiaanit immuttortillugu. Una naasoq pilerlaaq Asanninnerpit ruusaanik naatsiiviani naatiguk.

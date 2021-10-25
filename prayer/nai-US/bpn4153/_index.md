@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4153 in American Indian'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 O Myha! O Myah!

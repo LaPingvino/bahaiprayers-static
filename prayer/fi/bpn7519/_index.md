@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7519 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Seuraavaa rukousta opettajien ja ystävien on tarkoitus lukea päivittäin:

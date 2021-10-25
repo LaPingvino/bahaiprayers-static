@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13074 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-116', 'bpn-unsorted']
 +++
 Lauegu Lohia e! Lauegu Lohia e!

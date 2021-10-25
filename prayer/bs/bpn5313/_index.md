@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5313 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Slava Tebi, moj Bože! Moje lice je okrenuto prema Tvome licu, a moje lice je zapravo Tvoje lice, moj poziv je Tvoj poziv, moja Objava je Tvoja objava, moje ja je Tvoje Ja, moja Vjera je Tvoja Vjera, moja volja je Tvoja volja, moje Postojanje je Tvoje Postojanje, moja vrhovnost je Tvoja vrhovnost, moja slava je Tvoja slava, a moja moć je Tvoja moć.

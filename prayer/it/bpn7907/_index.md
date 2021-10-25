@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7907 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O mio Dio! O mio Dio! In verità, questi servi si volgono verso di Te, supplicando il Tuo regno di misericordia. In verità, essi sono attratti dalla Tua santità e sono infiammati dal fuoco del Tuo amore, cercano la confermazione dal Tuo mirabile regno e sperano di acquisire il sapere nel Tuo celeste reame. In verità, essi bramano ardentemente la discesa dei Tuoi doni e agognano d’essere illuminati dal Sole della Realtà.

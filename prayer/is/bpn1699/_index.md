@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1699 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Þú sérð mig, ó Guð minn, lúta í undirgefni, auðmýkja mig frammi fyrir boðum Þínum, gefa mig á vald herradómi Þínum, skjálfandi and­spænis mætti veldis Þíns, flýja reiði Þína, sárbiðja um náð Þína, treysta á fyrirgefningu Þína, nötra af lotningu gagnvart heiftarreiði Þinni. Ég bið Þig með bifandi hjarta, tárfellandi og með löngunar­fullri sál, full­komlega aðskilinn öllu sem er, að gera ástvini Þína að geislum sem lýsa yfir ríki Þín og hjálpa Þínum útvöldu þjónum að upphefja orð Þitt, svo að andlit þeirra megi verða fögur og geislandi, hjörtu þeirra fyllast leyndardómum og sérhver sál varpa af sér syndabyrðinni. Vernda þá síðan gegn árásarmann­inum, þeim sem hefur orðið blygð­unarlaus og guð­lastandi misgerðarmaður.

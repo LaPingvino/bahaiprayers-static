@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12412 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Ame kuna kuvitongonona, Ove Karunga wande, ashi Ove wa ntjito ni ku yive nakukutongamena. Napura, paruvede runo, ghupironkondo wande nkondo doye, uhutu wande nauntungi ghoye.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1254 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado sejas Tu, ó Senhor meu Deus! Este é o Teu servo que sorveu o vinho da Tua mercê, oferecido pelas mãos da Tua graça, e saboreou a doçura do Teu amor em Teus dias. Imploro-Te – por aqueles que encarnam os Teus nomes, aos quais nenhuma tristeza pode impedir de se regozijarem em Teu amor ou de contemplarem o Teu semblante, nem as hostes dos desatentos podem desviar do caminho do Teu prazer – concede a este servo o que de bom Tu possuis e eleva-o a uma altura tal que ele venha a ver o mundo como uma simples sombra que se desvanece mais veloz que um piscar de olhos.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12202 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 *Setiap jiwa yang mengadakan perjalanan melalui kota-kota, kampung-kampung dan desa-desa... dan sibuk menyebarkan keharuman Tuhan, seharusnya membaca doa ini setiap pagi.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1719 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Guð minn sem ég tilbið og dái! Ég ber vitni einingu Þinni og einstæði og viðurkenni gjafir Þínar bæði fyrr og nú. Örlæti Þitt er takmarkalaust. Miskunn Þín hefur fallið sem regn yfir háa sem lága og ljós náðar Þinnar skinið á hlýðna sem upp­reisnargjarna.

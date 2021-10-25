@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5814 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glòria sia a Tu, oh Déu meu! El meu rostre s’ha dirigit cap al Teu rostre, i el meu rostre és, veritablement, el Teu rostre; i la meva crida és la Teva crida; i la meva Revelació, la Teva Revelació; i el meu ser ,el Teu Ser; i la meva Causa, la teva Causa; i el meu mandat, el Teu mandat; i la meva Existència, la Teva Existència; i la meva sobirania, la Teva sobirania; i la meva glòria, la Teva glòria; i el meu poder, el Teu poder.

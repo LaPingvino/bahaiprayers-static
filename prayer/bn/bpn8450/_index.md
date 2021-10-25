@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8450 in বাংলা'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bn', 'bpn-unsorted']
 +++
 তিনি পরম দয়ালু, সর্ব বদান্যতাপূর্ণ।

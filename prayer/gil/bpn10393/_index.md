@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10393 in Kiribati'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Tai kamwawaanako, O te Uea, te taibora ni kimwareirei are e a tia ni katauraoaki inanon Aram, ao tai tiringa te ai ae e ura are e a tia ni kauraaki man Am ai ae e aki maamate. Tai tuuka waanakon Am ran ni kamaiu ae e waawanako ma tangiraoin Mimitongim ao Ururingakim, ao tai kaakeai mai irouia Am toro taian boiarara man karewerewen Kukurein Nanom bwa a na ikeikena boiararan Am tangira. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1757 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ákvarða mér, ó Drottinn minn, og þeim sem á Þig trúa það sem er okkur fyrir bestu að Þínu mati, eins og mælt er fyrir um í móðurbókinni, því í hendi Þinni hefur Þú ákvarðaðan mæli alls sem er.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9290 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, mon Dieu, comment puis-je préférer le sommeil, alors que l’éloignement tient éveillés ceux qui aspirent à toi ? Et comment puis-je me reposer tandis que les âmes de ceux qui t’aiment souffrent cruellement de demeurer loin de ta présence ?

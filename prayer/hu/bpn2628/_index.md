@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2628 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Dicsőség Néked, ó, Isten, az emberiség iránti szereteted megnyilvánításáért! Ó, Te, Ki Létünk és Világosságunk vagy, vezesd szolgáidat a Te utadon, tégy minket gazdaggá Tebenned, és szabadíts meg bennünket mindentől Rajtad kívül.

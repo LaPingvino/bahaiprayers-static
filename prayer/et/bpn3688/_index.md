@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3688 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Ülistatud oled Sina, oo Issand mu Jumal! Anun Sind Sinu Väljavalitute ja Su Usalduse Kandjate ning Tema nimel, kelle Sa oled määranud oma prohvetite ja sõnumitoojate Pitseriks, et Sa lubaksid oma meenutamisel olla minu kaaslane, oma armastusel minu eesmärk, oma palgel minu siht, oma nimel minu valgusallikas, oma soovil minu ihaldus ja oma meeleheal minu rõõm.

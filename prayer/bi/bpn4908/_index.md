@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4908 in Vanuatu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O God blong mi mo Masta blong mi! Mi mi wan wokman blong Yu, mo pikinini blong wokman blong Yu. Naoia, we san i jes stat blong kam antap, mi bin gerap long bed blong mi. Long taem ia, laet blong san blong yuniti blong Yu i bin kamaot long stamba ples, olsem we Yu Yu wantem, mo hem i bin saenem hol wol. Hemia i folem ol Loa we i stap long ol Buk blong Yu.

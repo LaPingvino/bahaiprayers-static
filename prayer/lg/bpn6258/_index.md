@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6258 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 *Buli abantu lwe bakungaanira awamu ne batendereza Katonda era neboogera ku matendo Ge, awatalikubuusabuusa, empewo za mwoyo mutukuvu zijja kubafuuwako, era buli omu kubo afuneko omugabo.  Abdu’l-Baha

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5207 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Rabi Tuhanku! Dengan rendah hati dan mencucurkan air mata, aku mengangkat tangan permohonanku kepada-Mu dan menutup wajahku dengan debu Ambang pintu-Mu, yang tinggi di atas pengetahuan orang-orang pandai, dan pujian semua orang yang memuliakan Dikau. Dengan rahman, pandanglah hamba-Mu yang rendah hati dan hina di depan pintu-Mu dengan pandangan mata rahmat-Mu, dan selamkanlah dia dalam Samudera kurnia-Mu yang abadi.

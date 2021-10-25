@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1771 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *(Naw-rúz, fyrsti dagur bahá’í nýársins, hefst sama dag og jafndægur á vori verða í Teheran, fæðingarborg Bahá’u’lláh.)

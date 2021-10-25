@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn442 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Hier ist Dein strahlender Diener, Dein geistiger Knecht, der sich Dir zukehrt und sich Deiner Gegenwart nähert. Dir wendet er sein Angesicht zu, Deine Einheit und Einzigkeit bekennend. In Deinem Namen ruft er die Völker, führt er die Menschen zu den strömenden Wassern Deines Erbarmens, o Du großmütigster Herr! Denen, die darum bitten, gibt er zu trinken aus der Führung Kelch, der überfließt vom Weine Deiner unermesslichen Gnade.

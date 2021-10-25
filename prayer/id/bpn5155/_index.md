@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5155 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Terpujilah Nama-Mu, ya Tuhanku dan Tuhan alam semesta, Kejayaanku dan Kejayaan sekalian makhluk, Hasratku dan Hasrat sekalian makhluk, Kekuatanku dan Kekuatan sekalian makhluk, Rajaku dan Raja sekalian makhluk, Pemilikku dan Pemilik sekalian makhluk, Tujuanku dan Tujuan sekalian makhluk, Penggerakku dan Penggerak sekalian makhluk! Aku memohon kepada-Mu, janganlah Engkau membiarkan daku terpisah dari samudera kasih sayang-Mu yang mesra, dan janganlah pula dijauhkan dari pantai kedekatan-Mu.

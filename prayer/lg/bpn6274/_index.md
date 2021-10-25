@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6274 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ye Musaasizi, Omugabi wa byonna.  Ayi Katonda, Katonda wange!  Ggwe ondaba Ggwe omanyi, Ggwe oli kiddukiro kyange era obubudamo bwange.  Tewali n'omu gwenali nonyeza era tewali nomugwendinonya okujjako Ggwe.  Tewali kkubo nelimu lyenali mpiseemu era tewaliba kkubo lyendiyitamu wabula ekkubo ery'okwagala Kwo.  Mu kkiro eky'akazigizigi eky'obutasuubira, eriiso lyange likyuse nga lijjudde okusuubira emambya ey'okukwatiirwa Kwo ekisa, mu ssaawa ey'omumattuluttulu, omwoyo gwange ogukenenye gufuna endasi era ne guddamu amaanyi mu kujjukira obulungi Bwo n'obutukirivu Bwo.  Oyo obulungi obw'ekisa Kyo gw'ebuYamba, n'ewankubadde nga alinganga ettondo, alifuuka ennyanja etalinako kkoma.  Ate akantu akasirikitu, akayambibwa okufukirirwa kw'okwagala Kwo, kalimasamasa nga emmunyenye eyakayakana.  

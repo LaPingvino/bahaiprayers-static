@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3995 in Кыргыз'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ky', 'bpn-unsorted']
 +++
 Узун айыктыруучу келме (ден соолук) Даба

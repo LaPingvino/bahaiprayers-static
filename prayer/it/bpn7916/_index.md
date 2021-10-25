@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7916 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Dio compassionevole! Ti siano rese grazie per avermi destato e reso cosciente. Tu mi hai donato un occhio che vede e un orecchio che ode, mi hai condotto al Tuo regno guidandomi per il Tuo sentiero, mi hai additato la retta via permettendomi d’entrare nell’arca della liberazione. O Dio! Mantienimi costante e rendimi fermo e saldo. Preservami da prove violente, riparami e custodiscimi nella fortezza inespugnabile del Tuo Patto e del Tuo Testamento. Tu sei il Potente, Tu sei il Veggente, Tu sei Colui Che Ode.

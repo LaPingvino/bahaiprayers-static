@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11663 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Proveedor amoroso! Estas almas han prestado oído al llamamiento del Reino y han contemplado la gloria del Sol de la Verdad. Se han elevado hacia los reconfortantes cielos del amor; están enamorados de Tu esencia y adoran Tu belleza.

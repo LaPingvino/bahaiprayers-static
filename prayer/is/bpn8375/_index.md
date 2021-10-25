@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8375 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *Eftirfarandi bæn er fyrir nýfæddum börnum.

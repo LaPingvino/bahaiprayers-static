@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1087 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus! Guarda as crianças que nascem no Teu Dia, são nutridas no peito do Teu amor e são acariciadas no regaço da Tua graça.

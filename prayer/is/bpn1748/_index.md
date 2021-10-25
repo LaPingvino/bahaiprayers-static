@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1748 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Lof sé Þér, ó Drottinn, besti ástvinur minn! Ger mig staðfastan í málstað Þínum og gef að ég megi teljast til þeirra sem ekki hafa rofið sáttmála Þinn né fylgt hjáguðum sinna eigin fánýtu ímynd­ana. Ger mér því kleift að taka sæti sann­leikans í návist Þinni, gef mér tákn um miskunn Þína og lát mig ganga í flokk þeirra þjóna Þinna sem ekki verða slegnir ótta og enginn fær bakað hryggð. Gef mig ekki á vald sjálfs mín, ó Drottinn minn, og meina mér ekki um þekkingu á Honum sem opinberar Þitt eigið sjálf og tel mig ekki til þeirra sem hafa snúið frá heilagri návist Þinni. Tel mig, ó Guð minn, með þeim sem njóta þeirra forréttinda að festa sjónir á fegurð Þinni og hafa af því slíkt yndi að þeir myndu ekki skipta á einu andartaki þess unaðar fyrir ríki himins og jarðar né gjörvallt sköpunarverkið. Sjá aumur á mér, ó Drottinn, á þessum dögum þegar þjóðir jarðar Þinnar hafa ratað í hörmulega villu. Veit mér því, ó Guð minn, það sem er gott og sæmandi að Þínu mati. Þú ert vissulega hinn alvoldugi og náðugi, hinn örláti, sá sem ætíð fyrirgefur.

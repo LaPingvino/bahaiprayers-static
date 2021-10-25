@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8882 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 當你們進入會議室時，以熱愛上帝的激情，除感謝上帝外，摒除一切雜念，以純淨之舌吟誦這篇禱文，全能上帝將惠賜神恩，助你成就至高的勝利。

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12427 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 *Pakungena nka anwe mundjugho yaNdango, rapererenu ndapero yino namutjima wakuyuma nashihoro shakwaKarunga naruraka rwakukushuka kunavintje kwandi livhuruko kwendi, mposhi Munankondonadintje a mu vatere mukuketerera.

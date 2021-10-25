@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn511 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du Mitleidvoller, Du Allmächtiger! Die hier versammelten Seelen wenden ihr Angesicht in Anbetung zu Dir. In tiefster Demut und Ergebenheit schauen sie auf Dein Reich und bitten Dich um Vergebung und Verzeihung. O Gott! Sei dieser Versammlung zugetan. Heilige diese Seelen und wirf die Strahlen Deiner Führung auf sie. Erleuchte ihre Herzen, erfreue ihren Geist mit Deiner frohen Botschaft. Heiße sie alle in Deinem heiligen Reiche willkommen, verleihe ihnen Deine unerschöpflichen Gnadengaben und mache sie glücklich in dieser und der zukünftigen Welt.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7366 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Wysławiony jesteś, o Panie, Boże mój! Błagam Cię na Twoich Wybrańców i na powierników Twego zaufania i na Tego, któremuś nakazał być Pieczęcią Twoich Proroków, i na Twoich Posłańców, byś pozwolił, aby pamięć o Tobie była moim towarzyszem, Twoja miłość moim dążeniem, Twoje oblicze moim celem, Twoje Imię moją latarnią, Twoje życzenie moim pragnieniem, a Twoje zadowolenie moją rozkoszą.

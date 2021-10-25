@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4931 in Vanuatu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O God!  O God blong Mi!  Plis Yu lukluk long tisfala man we hem i no gat paoa, hem i go daon long Yu, mo hem i askem Yu blong Yu givim paoa blong heven long hem.  Plis Yu lukluk long poa man ia we hem i wantem tumas blong kasem ol rijis blong heven blong Yu.  Plis Yu lukluk long man ia we hem i tosta mo hem i wantem tumas blong kasem wora blong laef we i gohed oltaem.  Plis Yu lukluk long sik man ia we hem i wantem tumas se Yu tekemaot sik blong hem, olsem we Yu bin promisim.  Hemia i kamaot tru long ol blesing mo sori blong Yu we Yu wantem givim long ol wokman we Yu bin jusum long hae kingdom blong Yu.

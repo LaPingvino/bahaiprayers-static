@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11716 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Ubangiji, nā jūya huskāta wajen fādar ɗayantakarka, kuma nā nutsa kaina cikin tēkun rahamarka. Yā Ubangiji, ka wāye idānuwāna cikin wannan duhun, don tsinkāyen haskenka mai cikakken haskēwa, ka mayar da ni maji dāɗi a wannan zāmani mai abun al’ajabi ta wajen ɗanɗanon ƙaunarka.

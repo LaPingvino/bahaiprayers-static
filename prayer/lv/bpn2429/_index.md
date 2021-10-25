@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2429 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slava Tev, Mūžības Ķēniņ, tautu Radītāj, ikviena mirstīgā miesas Veidotāj! Tā vārdā, caur kuru Tu visu cilvēci aicināji uz Savas valdīšanas un godības apvārsni un virzīji Savu kalpu soļus uz Savas svētības un labvēlības Galmu, es Tevi lūdzu, uzņem mani to pulkā, kas ir atraisījušies no visa, tik no Tevis vien nē, kas ir pievērsušies Tev un kurus Tevis lemtās nelaimes nav spējušas atturēt no Tavām veltēm.

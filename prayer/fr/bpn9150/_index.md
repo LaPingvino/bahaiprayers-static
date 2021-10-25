@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9150 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, souffre que je m’approche de toi et que je vive dans l’enceinte de ta cour, 

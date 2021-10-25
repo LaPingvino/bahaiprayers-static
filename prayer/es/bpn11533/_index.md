@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11533 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Gloria sea a Ti, oh Señor del mundo y Deseo de las naciones; oh Tú que Te has hecho manifiesto en el Más Grande Nombre, por medio del cual las perlas de la sabiduría y de la expresión han aparecido en las conchas del gran mar de Tu conocimiento, y los cielos de la revelación divina han sido adornados con la luz de la aparición del Sol de Tu semblante. 

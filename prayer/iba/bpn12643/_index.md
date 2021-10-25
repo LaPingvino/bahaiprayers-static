@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12643 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Nuan Tuhan ti nelap! Nuan udah nempa semua mensia ari asal ti sama. Nuan udah ngeletak-tangkan semua endang deka diempu ruang bilik ti sama. Ba Mua Pengudus Nuan sida endang semua pengasuh Nuan, lalu semua mensia dilindung di baruh Panggau Nuan; semua udah sama begempuru ba Mija Pemisi Nuan; lalu semua diperenching nengah penampak Penabat Nuan.

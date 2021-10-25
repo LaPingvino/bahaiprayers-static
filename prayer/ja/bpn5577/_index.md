@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5577 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 ##レズワンの祈り

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4712 in Azərbaycan'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey mənim Allahım! Səndən başqa bir kimsə yoxdur ki, mənim qəlbimin möhnətini azaltsın. Sən mənim ən yüksək arzumsan, Ey mənim Allahım. Səndən və Sənin sevdiklərindən başqa mənim ürəyim heç kimə bağlanmayıb. Mən təntənə ilə bəyan edirəm ki, mənim həyatım da, ölümüm də Sənin üçündür. Həqiqətən, Sən Bənzərsiz və Şəriksizsən.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11476 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh mi Dios! No hay quien alivie la pena de mi alma sino Tú, y Tú eres mi más elevada aspiración, oh mi Dios. Mi corazón está unido solo a Ti y a aquellos a quienes Tú amas. Declaro solemnemente que mi vida y mi muerte están dedicadas a Ti. En verdad, Tú eres incomparable y no tienes igual.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12232 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Au ko oti ne ala i Tou malu, O toku Atua, kae ko fai a ia tela e salasala ke nofo i loto i te Lafiiga o Tau puipui mo te Olo-Maalosi o 

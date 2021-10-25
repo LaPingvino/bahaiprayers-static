@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11555 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Él es el Poderoso, el Perdonador, el Compasivo!

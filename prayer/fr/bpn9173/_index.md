@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9173 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, toi qui es l’Auteur de toutes les manifestations, la Source de toutes les sources, la Source de toutes les révélations, la Source de toutes les lumières ! Je témoigne que ton Nom auréole le ciel de la compréhension, fait surgir l’océan de la parole et promulgue les décrets de ta providence pour tous les disciples de toutes les religions.

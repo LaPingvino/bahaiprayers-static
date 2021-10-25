@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7353 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Nie usuwaj, o Panie, świątecznego stołu, który został nakryty w Imię Twoje, i nie tłum palącego się płomienia, wznieconego przez Twój nieujarzmiony ogień. Nie zatrzymuj strumienia Twej żywej wody, szemrzącej melodie Twojej chwały i pamięci o Tobie i nie pozbawiaj sług swoich woni Twoich słodkich zapachów niosących aromat Twojej miłości.

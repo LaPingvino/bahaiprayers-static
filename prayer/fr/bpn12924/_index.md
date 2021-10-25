@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12924 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Seigneur de bonté, toi, le désir de mon cœur et de mon âme! Sois bienveillant envers tes amis et accorde-leur ton inépuisable miséricorde. Sois un réconfort pour ceux qui t’aiment ardemment et un ami, un consolateur et un compagnon aimant pour ceux qui ont soif de ta présence. Le feu de ton amour embrase leur cœur et la flamme de leur dévotion envers toi consume leur âme. Tous aspirent à se hâter vers l’autel de l’amour afin de donner volontairement leur vie. 

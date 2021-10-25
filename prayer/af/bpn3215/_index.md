@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3215 in Afrikaans'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O Here, my God en my Hawe in my nood! My Skild en my Skuilplek in my smarte! My Heenkome en my Toevlug in tyd van behoefte en in my eensaamheid my Metgesel! In my benoudheid my Troos, en in my verlatenheid 'n toegeneë Vriend! Die Verwyderaar van die kwellinge van my verdriet en die Vergewer van my sondes!

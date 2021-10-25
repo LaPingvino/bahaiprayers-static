@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1167 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, meu Deus! Louvores a Ti por haveres ateado o fogo do amor divino na Árvore Sagrada - a qual “não é nem do Oriente nem do Ocidente”, sita no cume da mais elevada montanha; fogo esse que se abrasou até a sua flama se elevar e atingir a Assembleia do alto, cujas realidades dela colheram a luz da guia e bradaram: “Percebemos, verdadeiramente, um fogo na encosta do Monte Sinai”.

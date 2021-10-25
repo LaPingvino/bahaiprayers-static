@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8090 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O Du tilgivende Gud! Disse tjenere vender sig til Dit rige og søger Din nåde og gavmildhed. O Gud! Gør deres hjerter gode og rene, at de kan blive værdige til Din kærlighed. Rens og helliggør sjælene, at lyset fra virkelighedens sol kan skinne på dem. Rens og helliggør deres øjne at de kan opfatte Dit lys. Rens og helliggør deres øren at de kan høre Dit riges kalden.

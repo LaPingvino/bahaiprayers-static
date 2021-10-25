@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10743 in Srpski српски'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 O Samilosni Bože! Hvala Ti što si me probudio i osvestio. Podario si mi oči koje vide i uši koje čuju; poveo si me do Svog Carstva i usmerio me ka Tvojoj Stazi. Pokazao si mi ispravan put i uveo me u Barku Izbavljenja. O Bože! Daj da budem postojan i čvrst u veri. Zaštiti me od nasilnih iskušenja, zakloni me i sačuvaj iza čvrstih bedema u tvrđavi Tvog Zaveta i Tvoje Oporuke. Ti si Silan. Ti sve vidiš. Ti sve čuješ.

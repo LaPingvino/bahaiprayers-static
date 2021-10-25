@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11627 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Alabado sea Tu Nombre, oh mi Dios y el Dios de todas las cosas, mi Gloria y la Gloria de todas las cosas, mi Deseo y el Deseo de todas las cosas, mi Fuerza y la Fuerza de todas las cosas, mi Rey y el Rey de todas las cosas, mi Poseedor y el Poseedor de todas las cosas, mi Objetivo y el Objetivo de todas las cosas, mi Motor y el Motor de todas las cosas! No permitas, Te lo imploro, que quede apartado de Tus tiernas mercedes, ni alejado de las orillas de Tu proximidad.

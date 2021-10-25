@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10457 in Kiribati'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 *(Te tataro aio ae e kaotaki iroun ‘Abdu’l-Bahá e wawarekaki ni Bangotana. E kona ni kabonganaaki naba n te tataro iroun te aomata i bon irouna).

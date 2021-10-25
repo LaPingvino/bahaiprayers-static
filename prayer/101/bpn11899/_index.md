@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11899 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa ku! Odak negeh soyuak pingungin Ingan bia berkat muun ndu boli senada bala dimuno dek mbok dokuap Agama Ingan, jadin nikan pingodak budi Ingan bia jadin tanda rindu tulut dek sok pimonog Ingan. Totap Ingan leh dek dik kangan kangan ngibonar apunt maaf. Harus keh Ingan naan pingungin Ingan sok simun mun nyaa, oni ngopak iyoh dek obuah milak-miliae diantara pengikut-pengikut Agama daang Onu Ingan?

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1228 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Em Nome de Deus, o Supremo! Enaltecido e glorificado és, Senhor, Deus Omnipotente! Tu, diante de cuja sabedoria o sábio falha e se vê frustrado, ante cujo conhecimento o erudito confessa a sua ignorância, e diante de cujo poder o forte se afigura como fraco. O rico, em face da Tua riqueza, atesta a sua indigência; o esclarecido, ante a Tua luz, perde-se nas trevas; a essência de toda a compreensão volve-se para o relicário do Teu conhecimento e ao redor do santuário da Tua presença circulam as almas de toda a humanidade.

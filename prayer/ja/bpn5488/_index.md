@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5488 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお主よ。この子どもたちを優れた草木となし給え。あなたの聖約の庭園で育て、成長させ、栄光の御国の雲から降り注ぐ雨を通して生気と美を授け給え。

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1175 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Rendo louvores a Ti, ó meu Deus, porque me fizeste despertar do meu sono, ressurgir após o meu desaparecimento e ressuscitar da minha letargia. Acordei esta manhã com a face voltada para os esplendores do Sol da Tua Revelação, pelos quais são iluminados os céus do Teu poder e da Tua majestade, reconhecendo os Teus sinais, acreditando no Teu Livro, e segurando-me firmemente à Tua Corda.

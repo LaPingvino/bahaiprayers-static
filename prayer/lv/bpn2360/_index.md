@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2360 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Atļauj man, ak mans Dievs, tiekties Tava tuvuma un mājot Tava Galma lokā, jo tālums no Tevis ir nomocījis mani. Ļauj man atspirgt Tavas žēlastības spārnu vēdās, jo atšķirtība no Tevis dedzina man sirdi. Ļauj man tuvoties dzīvības upei, jo mana dvēsele kalst slāpēs, Tevi bez mitas meklējot.

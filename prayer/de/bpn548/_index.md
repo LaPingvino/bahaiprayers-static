@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn548 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Preis sei Dir, o Herr mein Gott! Ich flehe Dich an bei Deinen Zeichen, welche die ganze Schöpfung umfangen, bei dem Lichte Deines Antlitzes, das alles erleuchtet, was im Himmel und auf Erden ist, bei Deinem Erbarmen, das alles Erschaffene übertrifft, und bei Deiner Gnade, die das ganze Weltall erfüllt, zerreiße die Schleier, die mich von Dir trennen, auf dass ich zum Urquell Deiner machtvollen Eingebungen, zur Morgenröte Deiner Offenbarung und großmütigen Gunst eile und eingetaucht werde in das Meer Deiner Nähe und Deines Wohlgefallens.

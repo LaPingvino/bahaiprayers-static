@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9348 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Tariho, Andriamanitra, ireo mpanomponao hatrany androvan’ny Fahasoavanao sy ny Fitiavanao ary aoka tsy ho diso anjara amin’ireo zava-mahagagan’ny Fitiavanao sy ny habetsahan’ny tsodranonao.

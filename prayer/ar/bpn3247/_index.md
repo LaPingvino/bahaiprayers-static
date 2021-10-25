@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3247 in العربية'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ar', 'bpn-unsorted']
 +++
 # هُو اللهُ تَعَالى شَأنُهُ العَظَمَةُ والاقْتِدَارُ

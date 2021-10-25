@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11595 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, mi Dios! Esta Tu sierva Te invoca, confiando en Ti, volviendo el rostro hacia Ti, implorando que derrames Tus dones celestiales sobre ella, le reveles Tus misterios espirituales y viertas sobre ella las luces de Tu Divinidad.

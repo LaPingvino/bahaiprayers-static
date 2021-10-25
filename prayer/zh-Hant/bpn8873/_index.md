@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8873 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 主啊，我的上帝！讚美歸於祢，祢看見並知曉我呼籲祢眾僕，讓他們除祢恩賜外不尋他途。我還囑咐他們切莫他顧，只專注於祢那明晰的聖書——它降自祢那神秘令諭，其旨意萬古不朽。

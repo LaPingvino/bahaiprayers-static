@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8031 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Lovet være Du, o Herre min Gud! Giv nådigt at dette spæde barn må få næring fra Din milde barmhjertigheds og kærlige omsorgs bryst og blive styrket med frugten fra Dine himmelske træer.

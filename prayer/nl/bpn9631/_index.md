@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9631 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Lof zij U, o mijn God, daar Gij het gelaat van Uw dienaren naar de rechterzijde van de troon van Uw gaven hebt gekeerd en hen onthecht deed zijn van alles buiten U, opdat zij Uw oppermacht en Uw heerlijkheid zullen erkennen. Ik getuig van de kracht van Uw Zaak, de alles doordringende invloed van Uw gebod, de onveranderlijkheid van Uw wil, de oneindigheid van Uw bedoeling. Alle dingen liggen gevangen in de greep van Uw macht en de gehele schepping is armzalig tegenover de tekenen van Uw rijkdom.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12130 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Dibesarkanlah nama-Mu, Ya Tuhanku, kerana Engkau telah menjelmakan Hari yang merupakan Raja Segala Hari, Hari yang telah Engkau umumkan kepada Orang-orang pilihan-Mu dan para Nabi-Mu dalam Loh-Loh-Mu yang unggul, Hari yang mana Engkau telah memancarkan cahaya kemuliaan segala nama-Mu pada semua yang diciptakan. Besarlah berkatnya barangsiapa yang telah mengarahkan dirinya kepada-Mu, dan telah memasuki kehadiran-Mu dan mendengar nada suara-Mu.

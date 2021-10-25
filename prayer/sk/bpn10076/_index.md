@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10076 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Bože môj Bože! Kajúcne som sa k Tebe obrátil a vskutku, Ty si Odpúšťajúci, Súcitný.

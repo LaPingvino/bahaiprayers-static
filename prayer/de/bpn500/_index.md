@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn500 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Preis sei Dir, da Du das Feuer göttlicher Liebe im Heiligen Baum auf den Gipfeln des erhabensten Berges entzündet hast: jenem Baum, der „weder des Ostens noch des Westens ist“, und jenes Feuer, das lichterloh brannte, bis seine Flamme die himmlischen Heerscharen erreichte, die das Licht der Führung einfingen und ausriefen: „Wahrlich, wir gewahrten ein Feuer am Hang des Berges Sinai.“

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12657 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Puji meh ngagai Nuan, O Petara aku! Tu bala pengasuh

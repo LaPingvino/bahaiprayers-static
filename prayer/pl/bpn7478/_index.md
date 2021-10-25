@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7478 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Modlitwę tę należy odmawiać na zakończenie zebrania Zgromadzenia Duchowego.

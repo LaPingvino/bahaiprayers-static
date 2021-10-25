@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1140 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é o Compassivo, o Mais Generoso! Ó Deus, meu Deus! Tu me vês, Tu me conheces; és o meu Amparo e o meu Refúgio.

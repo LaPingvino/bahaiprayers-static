@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11851 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *Nog samah tikuluk da’ang do’ont dek tulen, bia takal su’ud ngudung, nang leh doa tih:

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6383 in Cymraeg'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Arglwydd!

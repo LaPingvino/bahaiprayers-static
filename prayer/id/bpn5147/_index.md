@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5147 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *"Sembahyang untuk mayat hanyalah satu-satunya Sembahyang wajib Bahá’í yang dilakukan dengan berjamaah, diucapkan oleh seorang mukmin, sedangkan semua yang hadir berdiri diam. Hazrat Bahá’u’lláh telah menerangkan bahwa Salát Jenazah hanya diperlukan bila yang meninggal itu seorang dewasa, dan Sembahyang ini harus dibaca sebelum penguburan jenazah. Tidak wajib menghadap ke Kiblat ketika membaca Sembahyang ini." [Penjelasan dari Kitab-i-Aqdas catatan No 10]

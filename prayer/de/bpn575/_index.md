@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn575 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Preis sei Dir, o Herr mein Gott! Ich flehe Dich an bei Deinem Namen, den niemand gebührend erkannt und dessen Bedeutung noch keine Seele ergründet hat. Ich flehe Dich an bei Ihm, dem Urquell Deiner Offenbarung und der Morgenröte Deiner Zeichen, mache mein Herz zu einem Gefäß Deiner Liebe und Deines Gedenkens. Vereinige es alsdann mit Deinem größten Meer, so dass ihm die Lebenswasser Deiner Weisheit und die kristallklaren Fluten Deiner Verherrlichung und Deines Lobpreises entströmen.

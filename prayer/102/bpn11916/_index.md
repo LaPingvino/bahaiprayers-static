@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11916 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 *(Uly namazy haçan-da ynsan özünde isleg we pespällik halatyny duýanda, gije-gündiziň dowamynda bir gezek ýerine ýetirip biler.)

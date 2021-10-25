@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1693 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Vegsamaður ert Þú, ó Drottinn Guð minn. Ég bið til Þín við Hann sem er dagsbrún tákna Þinna, birting nafna Þinna, fjárhirsla innblásturs Þíns og forðabúr visku Þinnar, að senda það yfir Þína elskuðu sem gerir þeim megnugt að fylgja málstað Þínum af staðfestu, viðurkenna einingu Þína og ein­stæði og bera guðdómi Þínum vitni. Reis þá upp, ó Guð minn, til slíkra hæða að þeir sjái í öllu tákn um vald Hans sem opinberar Þitt æðsta og aldýrlega sjálf.

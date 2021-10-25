@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9630 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij, Wien te gedenken de zielsverrukking is van allen die naar U hunkeren, Wiens naam de jubelende vreugde is van allen die zich geheel aan Uw wil wijden, Wiens eer en lof wordt gekoesterd door hen die Uw hof nabij zijn, Wiens gelaat het vurige verlangen is van allen die Uw waarheid erkennen, Wiens beproeving de genezing is van hen die Uw Zaak omhelzen, Wiens bezoeking het hoogste verlangen is van hen die bevrijd zijn van alle gehechtheid aan eenieder buiten U!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7896 in Italiano'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Glorificato sia il Tuo Nome, o Signore! In chi troverò rifugio, se in verità Tu sei il mio Dio e il mio Diletto? E a chi chiederò riparo, se in verità Tu sei il Mio Signore e Padrone? E presso chi fuggirò, se in verità, Tu sei il mio Maestro e Sacrario? E chi implorerò, se in verità Tu sei il mio Tesoro e la Mèta del mio desìo? E tramite chi mi discolperò davanti a Te, se in verità Tu sei la mia somma aspirazione e il mio supremo anelito? È stata delusa ogni speranza che non sia la brama della Tua grazia celestiale e sbarrata ogni porta tranne il portale d’accesso alla fonte delle Tue benedizioni.

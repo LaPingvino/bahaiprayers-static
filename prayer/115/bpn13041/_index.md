@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13041 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-115', 'bpn-unsorted']
 +++
 *Hêna ara yomuhuc.  Qamoc haiwing imi walac Kewu mosoc zêtecgêmu.  Andia iguc qamoc haimu, qamoc imi, Embacŋŋê waŋŋu zêmu.  Ai Embac youmi ai embac gawac merac.  Imi zêma qamoc baec iguc haimu.

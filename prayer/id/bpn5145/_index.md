@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5145 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhanku! Ya Engkau Pengampun dosa-dosa, Penganugerah pemberian-pemberian, Penghalau kesukaran-kesukaran! Sesungguhnya hamba memohon kepada-Mu agar mengampuni dosa-dosa mereka yang telah meninggalkan jasad fana dan telah naik ke alam kerohanian.

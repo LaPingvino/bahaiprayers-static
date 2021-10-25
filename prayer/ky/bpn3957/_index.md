@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3957 in Кыргыз'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ky', 'bpn-unsorted']
 +++
 Күн сайын бир жолу окулат

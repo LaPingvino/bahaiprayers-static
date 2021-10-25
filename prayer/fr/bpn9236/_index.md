@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9236 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, mon Dieu, loué sois-tu, car au sommet du mont le plus élevé, tu as allumé le feu de l’amour divin dans l’Arbre béni : cet Arbre ne provient « ni de l’Orient ni de l’Occident ».* 

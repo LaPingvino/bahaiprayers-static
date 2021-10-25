@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12737 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 #Papan Tulis Ahmad

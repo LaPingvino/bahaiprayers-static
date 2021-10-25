@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8656 in 简体中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 主啊，荣耀归于祢！祢以令谕之力量，创生了一切造物。

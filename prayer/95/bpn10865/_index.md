@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10865 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E vikia Tou Igoa, O te Aliki te motou Atua!  A Koe i te tonuuga ko te Iloa o mea se laavea.  Aumai kia matou a te llei ko Tou poto katoatoa e mafai o iloa.  A Koe ko te Aliki maluga, ko te Mafi-Katoatoa, ko te Toe Fagasele.

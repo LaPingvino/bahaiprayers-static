@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10403 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Am bwai te mimitong te Uea ae Atuau! Tai kamangora teuare Ko a tia ni karietaata ni mwaakan Inaomatam n tautaeka ae akea tokina, ao tai kamwaawa ni kararoaa mai Iroum teuare Ko a tia ni karinna n te umwanrianna n Am aki tootoki. Atuau, Ko na kanga ni karenakoa teuare ngaia are Ko a tia ni kanuua n Rikiam n Uea, ao Ko na kangaa, Maamaten nanou, ni katannakoa mai Iroum teuare Ko a bon tia n riiriki bwa ana tabo ni kamauri? Ko na kangaa ni karinanoa teuare ngaia are Ko a tia ni tabekiarake ke ni mwaninga taekan teuare ngaia are ko a tia ni karikia ni konaa n Uringko?

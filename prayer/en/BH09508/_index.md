@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH09508 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH09508']
 +++
 Glorified art Thou, O my God!  I yield Thee thanks that Thou hast made known unto me Him who is the Dayspring of Thy mercy, and the Dawning-Place of Thy grace, and the Repository of Thy Cause.  I beseech Thee by Thy Name, through which the faces of them that are nigh unto Thee have turned white, and the hearts of such as are devoted to Thee have winged their flight towards Thee, to grant that I may, at all times and under all conditions, lay hold on Thy cord, and be rid of all attachment to anyone except Thee, and may keep mine eyes directed towards the horizon of Thy Revelation, and may carry out what Thou hast prescribed unto me in Thy Tablets.

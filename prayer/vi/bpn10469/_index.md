@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10469 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, lạy Đấng Tôn sư của con! Con là tôi tớ Ngài và là con của tôi tớ Ngài. Khi hừng đông con thức dậy, thì Vầng Thái dương thống nhất của Ngài soi sáng chân trời ý chí của Ngài và tỏa ánh sáng khắp hoàn cầu như đã được truyền phán trong các Thánh kinh Thiên mệnh của Ngài.

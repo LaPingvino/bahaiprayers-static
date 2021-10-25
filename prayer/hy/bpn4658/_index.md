@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4658 in հայերեն'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hy', 'bpn-unsorted']
 +++
 Նա է Աստված` բարձրյալ, քնքուշ խնամքի ու առատաձեռնության Տերը:

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6471 in Sesotho'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-st', 'bpn-unsorted']
 +++
 Oho Molimo! Oho Molimo! Enoa mohanka oa Hauk e nonyana-ea-serobeha-lepheo, ‘me ho fofa ha hae hoe a fokola—Mo thuse hore a rurele tlhorong ea katleho le polokeho, Mo fufisetse hohle sebakeng se senang meeli a tletse thabo le nyakallo e khaphatsehang. Phahamisa meloli ea hae ka Lebitso la Hau Le Lehlohonolo likarolog tsohle, nyakallatsa litsebe ka  pitso ea hae ‘me U bule mahlo ka ho bona matšoao a tataiso!

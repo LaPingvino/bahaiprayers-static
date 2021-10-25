@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn556 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht bist Du, o Herr mein Gott! Ich flehe Dich an, lass aus den Wolken Deiner überströmenden Gnade herabregnen, was die Herzen Deiner Diener reinigt von allem, was sie abhält, Dein Antlitz zu schauen und sich Dir zuzukehren, damit sie alle Ihn erkennen, der ihr Gestalter und ihr Schöpfer ist. Hilf ihnen alsdann, o Gott, mit der Stärke Deiner höchsten Macht, eine Stufe zu erreichen, auf der sie faulen Geruch leicht unterscheiden können vom Duft aus dem Gewand des Trägers Deines höchsterhabenen Namens. Hilf ihnen, dass sie mit all ihrer Liebe sich Dir zuwenden, und lass sie so vertraute Gemeinschaft mit Dir genießen, dass sie alles im Himmel und auf Erden, wäre es ihnen zu eigen, für wertlos hielten und sich weigerten, von Deinem Gedenken und dem Lobpreis Deiner Tugenden abzulassen.

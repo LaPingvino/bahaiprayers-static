@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2357 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slavēts top Tavs Vārds, ak Dievs, mans Kungs! Piesaucot Tavu Vārdu, kas lika stundai sist un vēstīt Augšāmcelšanos, un bailēm un trīsām pārņemt visus, kas ir debesīs un uz zemes, es lūdzu Tevi, no Savas žēlastības debesīm un Savas maigās līdzjūtības mākoņiem, liec pār Saviem kalpiem prieka lietum līt un spirdzināt to sirdis, kas ir Tev pievērsušies un Tavu Mācību stiprinājuši.

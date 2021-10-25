@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10304 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Ärad vare Du, o min Gud! En av Dina tjänarinnor som har trott på Dig och Dina tecken har trätt in i skuggan av Din enhets träd. Giv henne ymnigt att dricka, o min Gud, vid Ditt uppenbara och fördolda namn, av Ditt utvalda förseglade vin, att detta må avlägsna henne från hennes eget jag och göra henne helt hängiven åminnelsen av Dig och helt frigjord från alla utom Dig.

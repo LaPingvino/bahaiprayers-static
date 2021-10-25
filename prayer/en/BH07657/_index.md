@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH07657 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH07657']
 +++
 Praise be to Thee, O Lord my God!  I beseech Thee by this Revelation whereby darkness hath been turned into light, through which the Frequented Fane hath been built, and the Written Tablet revealed, and the Outspread Roll uncovered, to send down upon me and upon them who are in my company that which will enable us to soar into the heavens of Thy transcendent glory, and will wash us from the stain of such doubts as have hindered the suspicious from entering into the tabernacle of Thy unity.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2728 in Magyar'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *Gyűljetek össze tiszta örömben, és az ülés kezdetén imádkozzátok az alábbi imát:

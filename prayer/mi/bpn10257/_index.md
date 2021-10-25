@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10257 in Māori'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 *(Ko tēnei karakia, nā ‘Abdu’l-Bahá, i whakakite, he mea pānui ki Tōna Toma. He mea karakia anō mā te tangata ki tōna kotahi.)

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7773 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen! Jou sa yo se jou kote Ou te mande sèvitè Ou yo pou yo fè Jèn nan. Ou te fè kòmansman Liv Lwa Ou a bèl avèk lwa Jèn nan, yon Liv Ou te revele pou kreyati Ou yo, e, nan lide tout sa yo ki nan syèl la ak tout sa yo ki sou latè, Ou te dekore Trezò kòmandman Ou yo avèk lwa sa a. Ou te bay chak moman nan Jou sa yo yon bonte espesyal, yon bonte pèsonn pa kapab dekouvri, se sèl Ou menm, O Ou menm Ki gen yon konesans ki antoure tout bagay ki te kreye. Ou te mete pou chak nanm yon pòsyon nan bonte sa a daprè Epit lwa Ou a ak Pawòl jijman Ou yo ki pa kapab chanje. Anplis, Ou revele chak fèy nan Liv sa yo e chak paj nan Pawòl sa yo pou chak nan pèp ak tribi ki sou tè a.

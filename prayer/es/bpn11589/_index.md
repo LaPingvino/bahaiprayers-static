@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11589 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Tú ves, oh mi Dios, cómo los males cometidos por aquellas de Tus criaturas que Te han vuelto la espalda se han interpuesto entre Aquel en Quien Tu Deidad está manifiesta y Tus siervos. Haz descender sobre ellos, oh mi Señor, aquello que haga que se ocupen en sus propios afanes. Haz, pues, que su violencia se limite a ellos mismos, para que la tierra y los que en ella habitan encuentren paz.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2356 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slava Tev, ak Dievs, mans Kungs! Tu redzi un zini, ka es esmu aicinājis Tavus kalpus tiekties tik pēc Tavām veltēm, ka es esmu licis viņiem ievērot vien to, ko Tu viņiem esi noteicis Savā viedajā Grāmatā, kas nonākusi līdz mums pēc Tavas neizdibināmās Gribas un negrozāmā Nodoma.

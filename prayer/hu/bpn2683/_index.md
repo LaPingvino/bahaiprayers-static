@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2683 in Magyar'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Urad nevében, Aki a Teremtő, az Uralkodó, a Mindeneket Megelégítő, a Legmagasztosabb, Kinek segítségét minden ember esdekelve kéri.

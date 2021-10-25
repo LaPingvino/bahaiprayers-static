@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6988 in Fiji'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 ##NA VEISIGA NI VEIVAKARAUTAKI KA VIRIKOTORI ME DA VAKANANUMA E NA VEIYABAKI

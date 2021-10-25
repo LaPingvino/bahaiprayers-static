@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9177 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, toi qui répands ta splendeur sur les réalités lumineuses des hommes, les éclairant des feux resplendissants de ta connaissance et de ta sagesse, et qui les as choisis parmi toutes les créatures pour bénéficier de cette grâce divine, toi qui les amènes à saisir toutes choses, à comprendre leur essence profonde et à dévoiler leurs mystères, les tirant de l’ombre vers le monde visible ! « La grâce est dans la main de Dieu : il la donne à qui il veut ».*

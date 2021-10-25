@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7934 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Gloria sia a Te, o Signore mio Dio! Questi sono i giorni in cui comandasti a tutti gli uomini di osservare il digiuno, così che per suo mezzo possano purificare le loro anime e liberarsi da ogni attaccamento ad altri che a Te, e dai loro cuori possa ascendere ciò che è degno della corte della Tua maestà e si addice al seggio della rivelazione della Tua unicità. Concedi, o mio Signore, che questo digiuno divenga un fiume di acque vivificatrici e produca la virtù di cui lo dotasti. Purifica per suo mezzo i cuori dei Tuoi servi che i mali del mondo non hanno potuto trattenere dal volgersi verso il Tuo gloriosissimo Nome e che non sono stati scossi dal clamore e dal tumulto di coloro che hanno ripudiato i Tuoi più splendidi segni che hanno accompagnato l’avvento della Tua Manifestazione, da Te investita della Tua sovranità, del Tuo potere, della Tua maestà e della Tua gloria. Questi sono quei servi che, non appena il tuo richiamo 1i raggiunse, si affrettarono a rivolgersi alla Tua misericordia e non furono trattenuti lungi da Te dalle vicende e dai casi di questo mondo o da umane limitazioni.

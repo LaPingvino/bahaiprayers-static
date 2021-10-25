@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9170 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Magnifié soit ton nom, ô mon Dieu, car tu as révélé le jour qui est le roi des jours, le jour annoncé à tes élus et à tes prophètes dans tes épîtres les plus merveilleuses, le jour où tu as répandu la splendeur de la gloire de tous tes noms sur toutes choses créées. Béni celui qui avance vers toi, parvient en ta présence et perçoit les intonations de ta voix.

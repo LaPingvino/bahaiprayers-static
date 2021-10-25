@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10391 in Kiribati'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Te Uea! Ti nanorawawata, anganiira nanom; ti kainnano, kamenaa i aora te tibwanga man marawan Am kaubwai; ti tangira buokara, Ko na bon karauakiira; ti mangori, anganiira Mimitongim. Mannikiba i eta ao maan n te tawaana a karekei kanaia Mairoum ni katoa bong ao are a bon bane n reke i aan Am kakaawakin ao Am tangira n tituaraoi.

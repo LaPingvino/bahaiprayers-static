@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7872 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Lode sia a Te, o Signore mio Dio! Tu vedi e sai che ho invitato i Tuoi servi a non volgersi verso altra direzione fuorché quella delle Tue elargizioni e ho comandato loro di osservare unicamente ciò che Tu prescrivesti nel Tuo perspicuo Libro, Libro che è stato inviato secondo il Tuo inscrutabile decreto e irrevocabile scopo.

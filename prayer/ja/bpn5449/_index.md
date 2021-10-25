@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5449 in 日本語'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 言挙げよ。神はすべてのものを超えてすべてに満ち足り給う。天上にも地上にも神の

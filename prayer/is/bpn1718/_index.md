@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1718 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Miklað sé nafn Þitt, ó Þú sem hefur í greip Þér stjórntauma sálna allra þeirra sem borið hafa kennsl á Þig. Í hægri hendi Þinni eru örlög allra á himnum og jörðu. Í krafti máttar Þíns breytir Þú að vild Þinni og ákvarðar í krafti vilja Þíns það sem Þér þóknast. Vilji einbeittustu manna verður að engu sé hann borinn saman við knýjandi sann­indamerki um vilja Þinn, og staðfesta hinna ósveigjanlegustu meðal skepna Þinna er sem hjóm andspænis margföldum opinberunum áforms Þíns.

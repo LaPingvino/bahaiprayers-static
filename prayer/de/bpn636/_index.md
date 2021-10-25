@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn636 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist Gott, der die Gebete hört und darauf antwortet!

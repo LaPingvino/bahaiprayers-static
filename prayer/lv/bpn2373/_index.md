@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2373 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slavēts Tavs vārds, ak Dievs, mans Kungs! Tevi visi pielūdz, bet Tu nepielūdz nevienu. Tu valdi pār visiem un nekalpo nevienam. Tu zini visu, bet Tevi nezin neviens. Tu vēlējies, lai Tevi iepazīst, un tādēļ ar vienu vārdu no Savām lūpām Tu radīji visas būtnes un izveidoji Visumu. Nav cita Dieva bez Tevis, Radītāja, Visspēcīgā, Visvarenā.

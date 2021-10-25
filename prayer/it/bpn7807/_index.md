@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7807 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Tu Signore compassionevole! O Signore degli eserciti! Che agli adulti e ai maturi hai preferito questi fanciulli, Che hai elargito loro la Tua speciale grazia, Che li hai guidati, Che hai dispensato loro la Tua luce e donato spiritualità. 

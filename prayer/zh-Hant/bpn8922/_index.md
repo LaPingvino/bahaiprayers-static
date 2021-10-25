@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8922 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 上帝福音的傳播者可於每天清晨吟誦此禱文。

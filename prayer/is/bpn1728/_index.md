@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1728 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Í nafni Drottins Þíns, skaparans, yfirbjóðandans, þess sem öllum nægir, hins upphafnasta, þess sem allir leita hjálpar hjá. Seg: Ó Guð minn! Ó Þú, sem ert smiður himnanna og jarðarinnar, ó Drottinn konungsríkisins! Þú þekkir gjörla leynd­ar­­mál hjarta míns, en verund Þín er órannsakanleg öllum nema sjálfum Þér. Þú sérð hvaðeina, sem er af mér, og engum er það megnugt nema Þér. Veit mér sakir náðar Þinnar það sem gerir óháðan öllu nema Þér. Gef að ég megi uppskera ábata lífs míns í þessum heimi og hinum næsta. Opna fyrir ásjónu minni hlið náðar Þinnar og veit mér af mildi Þinni blíða miskunn Þína og gjafir.

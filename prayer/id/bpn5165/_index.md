@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5165 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Kemuliaan kepunyaan-Mu, ya Tuhanku! Sesungguhnya hamba-Mu ini dan hamba wanita-Mu ini telah berkumpul di bawah naungan rahmat-Mu dan mereka telah bersatu melalui kemurahan dan kedermawanan-Mu. Ya Tuhan! Tolonglah mereka di dunia-Mu ini dan di kerajaan-Mu, dan takdirkanlah bagi mereka segala kebaikan melalui anugerah dan kurnia- Mu. Ya Tuhan! Teguhkanlah mereka dalam pengabdian kepada-Mu dan bantulah mereka dalam berbakti kepada-Mu. Perkenankanlah mereka agar menjadi tanda-tanda Nama-Mu di alam-Mu dan lindungilah mereka melalui pemberian-pemberian-Mu, yang tak akan habis di dunia ini dan di akhirat.

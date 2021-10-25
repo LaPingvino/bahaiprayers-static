@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9425 in ಕನ್ನಡ'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kn', 'bpn-unsorted']
 +++
 “ಪ್ರತಿಯೊಂದು ಪರಿಸ್ಥಿತಿಗಳಲ್ಲೂ ಸಹನೆಯಿಂದಿರಿ ಮತ್ತು ನಿಮ್ಮ ಸಂಪೂರ್ಣ ಭರವಸೆ ಹಾಗೂ ವಿಶ್ವಾಸವನ್ನು ದೇವರ ಮೇಲಿಡಿ.”

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11520 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, mi Dios! ¡Tú eres mi Esperanza y mi Bienamado, mi más elevado Propósito y Deseo! Con gran humildad y entera devoción Te suplico que hagas de mí un minarete de Tu amor en Tu tierra, una lámpara de Tu conocimiento entre Tus criaturas y un estandarte de munificencia divina en Tu dominio.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9515 in ಕನ್ನಡ'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kn', 'bpn-unsorted']
 +++
 ##ದೀರ್ಘ ಗುಣಕಾರಿ ಪ್ರಾರ್ಥನೆ

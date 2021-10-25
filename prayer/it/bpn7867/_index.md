@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7867 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Lodato sia il Tuo Nome, o mio Dio e Dio di tutte le cose, mia Gloria e Gloria di tutte le cose, mio Desìo e Desìo di tutte le cose, mia Forza e Forza di tutte le cose, mio Re e Re di tutte le cose, mio Possessore e Possessore di tutte le cose, mia Mèta e Mèta di tutte le cose, mio Impulso e Impulso di tutte le cose! Non permettere, T’imploro, che io sia tenuto lungi dall’oceano delle Tue tenere misericordie, o che io rimanga discosto dalle sponde della Tua vicinanza. 

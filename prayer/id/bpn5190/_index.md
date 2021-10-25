@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5190 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Pujian bagi-Mu, ya Rabi, Tuhanku! Aku naik saksi bahwa dari keabadian, Engkau dimuliakan dalam keagungan dan kekuasaan-Mu yang luhur, dan untuk selama-lamanya akan tetap berdiam dalam kekuasaan dan kebesaran-Mu yang melebihi segala-galanya. Tiada apa pun dalam Kerajaan- kerajaan bumi dan langit yang dapat merintangi tujuan- Mu; tiada apa pun di seluruh alam-alam wahyu dan alam ciptaan yang dapat menentang Engkau. Atas perintah-Mu Engkau berbuat apa yang Engkau kehendaki dan dengan kekuasaan kedaulatan-Mu Engkau memerintah sebagaimana Engkau kehendaki.

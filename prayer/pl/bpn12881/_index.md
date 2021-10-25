@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12881 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty życzliwy Panie! Dusze te są Twoimi przyjaciółmi, którzy zgromadzili się razem i są uniesieni Twoją miłością. Porwani są promieniami Twego piękna i urzeczeni Twoimi piżmowymi lokami. Oddali Ci swoje serca i pokorni i bezradni błąkają się po Twojej ścieżce. Porzucili przyjaciela i nieznajomego i uchwycili się Twej jedności, skłaniając się przed Tobą w uwielbieniu.

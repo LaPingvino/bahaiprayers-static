@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9651 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Verheerlijkt zij Uw Naam, o mijn God, dat Gij de Dag die de Koning der Dagen is hebt geopenbaard, de Dag die Gij in Uw voortreffelijke Tafelen hebt aangekondigd aan Uw uitverkorenen en Uw profeten, de Dag waarop Gij de pracht van de glorie van al Uw namen over al het geschapene hebt uitgestort. Groot is de zegening van hem die zich tot U heeft gekeerd en Uw tegenwoordigheid heeft bereikt, en de klank van Uw stem heeft gehoord.

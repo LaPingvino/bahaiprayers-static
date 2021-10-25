@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11535 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Di: ¡Magnificado sea Tu Nombre, oh Señor mi Dios! Te ruego, por Tu Nombre, mediante el cual brilló resplandeciente la luz de la sabiduría cuando los cielos de la expresión divina se pusieron en movimiento entre la humanidad, que me ayudes generosamente con Tus confirmaciones celestiales y me permitas exaltar Tu Nombre entre Tus siervos.

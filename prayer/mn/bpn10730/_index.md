@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10730 in Монгол хэл'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mn', 'bpn-unsorted']
 +++
 *(Энэхүү мөргөлийг Абдул-Бахагийн Бунханд уншдаг бөгөөд мөн хүн ганцаар байх үедээ уншиж болдог.)

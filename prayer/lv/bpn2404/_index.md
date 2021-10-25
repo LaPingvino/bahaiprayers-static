@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2404 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Dievs, mans Kungs, un mana Osta ciešanu vētrā. Mans Vairogs un mans Aizsegs bēdās, mans Patvērums grūtā stundā un mans Ceļabiedrs manā vientulībā, mans Mierinājums manās bailēs, mans mīlošs Draugs manā atstātībā, mans Sāpju Remdētājs raizēs un manu grēku Piedevējs!

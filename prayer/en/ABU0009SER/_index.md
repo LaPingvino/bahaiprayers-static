@@ -1,6 +1,6 @@
 +++
 title = 'Prayer ABU0009SER in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'ABU0009SER']
 +++
 O Thou compassionate Lord, Thou Who art generous and able!  We are servants of Thine sheltered beneath Thy providence.  Cast Thy glance of favor upon us.  Give light to our eyes, hearing to our ears, and understanding and love to our hearts.  Render our souls joyous and happy through Thy glad tidings.  O Lord!  Point out to us the pathway of Thy kingdom and resuscitate all of us through the breaths of the Holy Spirit.  Bestow upon us life everlasting and confer upon us never-ending honor.  Unify mankind and illumine the world of humanity.

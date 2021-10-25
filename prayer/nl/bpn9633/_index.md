@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9633 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Alle majesteit en heerlijkheid, o mijn God, en alle heerschappij en licht en grootsheid en pracht zij U. Gij verleent soevereiniteit aan wie Gij wilt en onthoudt haar aan wie Gij wenst. Geen God is er dan Gij, de Albezitter, de Verhevenste. Gij zijt Degeen die uit het niets het universum en allen die er in verkeren hebt geschapen. Niets buiten Uzelf is U waardig en allen buiten U zijn als verworpenen in Uw heilige tegenwoordigheid en als niets naast de heerlijkheid van Uw eigen Wezen.

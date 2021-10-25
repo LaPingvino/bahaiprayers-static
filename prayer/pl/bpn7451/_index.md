@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7451 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, przebaczający Panie!

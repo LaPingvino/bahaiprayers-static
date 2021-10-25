@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5274 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Omoj Bože! O moj Bože!

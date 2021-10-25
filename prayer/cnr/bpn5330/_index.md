@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5330 in Montenegrin'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cnr', 'bpn-unsorted']
 +++
 Neka je sva hvala Tebi, O moj Bože, koji si Izvor svake slave i uzvišenosti, veličine i časti, vlasti i gospodstva, dostojanstva i milosti, strahopoštovanja i moći. Ti privlačiš koga hoćeš do blizine Najuzvišenijeg Okeana, i kome god že- liš ukazuješ čast da prepozna Tvoje Najdrevnije Ime. Niko na nebu i na zemlji, ne može odoljeti djelovanju Tvoje vrhovne Volje. Od vječnosti Ti vladaš čitavim stvorenim svijetom i zauvjek ćeš gospodariti svime što je stvoreno. Nema drugog Boga osim Tebe, Svemoćnog, Najuzvišenijeg, Najsilnijeg, Najmudrijeg.

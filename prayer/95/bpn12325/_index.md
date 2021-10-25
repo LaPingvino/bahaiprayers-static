@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12325 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E maluga kae e matagofie a Koe, O toku Atua!  Au e akai faka-molemole kia Koe i manavaaga o Au fagasele mo loimata ko maligi ne latou ko la e faitali ke lavea ne latou a Koe, ke sa taofigina mai ia au Ou alofaaga-atafai i Tou Aso, io me e fakaseai au mai i sikuleo o te Lupe tela e faka-malugagia a Tou tafatasi mai I mua o te mainaaga tela e sulu maina mai i Ou mata.  Au ko te tokotasi tela e nofo i te puapuagatia, o Te Atua! Puke mai kia au e piki mmau ko Toi Igoa, ko te Pule-Katoatoa.  Au ko te tokotasi tela e mautinoa me e fano o galo; puke mai kia e piki mmau ki Tou Igoa, ko Te Tumau ki te se gata mai.  Au e akai kia Koe, tena, kia Koe loa, ko te Maluga, ko te Tafasili i te Maluga, ke sa liakina au kia au loa ki oku manakoga faitogafiti.  Puke aka ne Koe a toku lima ki te lima o Tou maalosi, kae fakasao mai au mai i te pokooga o oku manatu seai ne aoga mo manatu faka-supasupa, kae fakama mai au i mea katoa kola e se-fakafiafia kia Koe.  

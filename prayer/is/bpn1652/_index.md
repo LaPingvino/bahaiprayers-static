@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1652 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Þú góði Drottinn! Þetta eru þjónar Þínir, samankomnir á þessum fundi. Þeir hafa leitað til ríkis Þíns og þarfnast veitinga Þinna og bless­ana. Ó Þú Guð! Birt og ger auðsæ tákn eindar Þinnar sem búa í öllum veruleika lífsins. Opinbera og afhjúpa þær dyggðir sem Þú hefur fólgið í þessum mannlega veruleika.

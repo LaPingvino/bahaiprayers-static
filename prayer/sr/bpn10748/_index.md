@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10748 in Srpski српски'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 O Gospode! Tebi se obraćam za utočište, i ka svim Tvojim znacima usmeravam srce.

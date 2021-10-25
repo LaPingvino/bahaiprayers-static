@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11758 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 *Wannan āyā, ana jan ta a ƙabarin Abdul Baha, amma kuma mutun yana iya jan ta, don rāɗin kansa.

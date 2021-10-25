@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1294 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Senhor! A Ti recorro para refúgio e a todos os Teus sinais dirijo o meu coração.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2862 in Shqip'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 I bekuar është trualli, dhe shtëpia,

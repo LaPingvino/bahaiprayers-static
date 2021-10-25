@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5461 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお主よ、わが神よ。愛し給う者らが信仰を固め、あなたの道を進み、あなたの大業に

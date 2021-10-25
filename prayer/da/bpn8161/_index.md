@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8161 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Den følgende bøn skal læses... hver dag.

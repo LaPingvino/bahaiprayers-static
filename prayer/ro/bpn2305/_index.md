@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2305 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Kitáb-i-‘Ahd

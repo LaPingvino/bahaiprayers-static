@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3693 in Eesti'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo Sina kõikvõimas! Ma olen patune aga Sina oled Andestaja! Ma olen täis puudusi aga Sina oled Kaasatundja! Ma elan eksimuste pimeduses aga Sina oled Andestamise Valgus!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5409 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おおわが主よ。あなたは、私の顔があなた以外のすべてから離れ、ご恩恵の天とご恵沢けいたく

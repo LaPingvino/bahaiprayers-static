@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11906 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Iyoh leh Raja, dek Paling Pu’ant, dek Bijak Ponai! Ninga leh Manuk Bulbul Shorga bilagu ndu da’ant-da’ant Tongon Koyuh Nolee. Daang ngilobuk duoh kudus, ngin pimagah tudu bala dek ikhlas pimoon pasal Topa mbok ogik sinok, mogan bala dek bisaya dek ogi daang pinyindi kudus odak odi tudu gilangang Pimonog Nyaa dek Bait, ngin puant tudu bala dek potod pasal kabar berita dek mbok obuah bitanga odak Topa, dek jadin Raja, dek Mulia, dek Doie Banding, ngotag bala kekasih tudu galas pingudus bia tudu Pangisangon dek bigonga tih. 

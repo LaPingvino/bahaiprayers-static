@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3140 in Afrikaans'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O my God en my Meester! Ek is U dienaar en die seun van U dienaar. Ek het met hierdie dagbreek van my kooi af opgestaan toe die Môrester van U eenheid uit die Daeraad van U wil voortgeskyn het, en sy glans oor die hele wêreld gegooi het, ooreenkomstig wat in die Boeke van U Verordening bepaal is.

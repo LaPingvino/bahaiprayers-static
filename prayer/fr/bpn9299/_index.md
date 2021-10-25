@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9299 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Tablette du feu

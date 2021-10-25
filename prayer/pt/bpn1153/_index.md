@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1153 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus de misericórdia! Tu que és poderoso e grande! Ó mais benévolo Pai! Estes servos aqui reunidos dirigem-se a Ti, suplicando ante o Teu limiar, desejando as infinitas graças de Quem tudo assegura. Só aspiram à Tua aprovação. Nada têm em mira senão servir ao mundo humano.

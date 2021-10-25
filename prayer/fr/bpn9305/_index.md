@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9305 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, en ces jours tu enjoins à tes serviteurs d’observer le jeûne. Aux yeux de tous, sur la terre comme au ciel, tu en fais un ornement du préambule du Livre des lois révélé pour tes créatures et une parure du précieux recueil de tes commandements. Tu dotes chaque heure de ces jours d’une vertu que toi seul discernes, toi dont la connaissance embrasse toute la création. Tu assignes également à chaque âme une part de cette vertu, en accord avec le livre de ton décret et les écrits de ton jugement irrévocable. Plus encore, tu alloues à chaque peuple de la terre une page de ces livres et de ces écrits.

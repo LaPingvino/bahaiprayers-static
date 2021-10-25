@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1333 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glorificado és Tu, ó meu Senhor compassivo! Suplico-Te pelo tumulto do oceano da Tua santa elocução, pelas múltiplas dádivas da Tua soberania suprema, pelas evidências da Tua Divindade que a tudo compelem e pelos mistérios ocultos que jazem guardados dentro do Teu conhecimento, que me concedas a Tua graça para Te servir e aos Teus eleitos, e que me capacites a conscienciosamente oferecer o Teu Huqúq que Tu ordenaste no Teu Livro.

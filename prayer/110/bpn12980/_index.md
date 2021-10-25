@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12980 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 ##TABLET OF VISITATION - 'Abdul-Bahá’í 

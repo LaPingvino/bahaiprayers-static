@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8256 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Ever-Abiding, the Most Exalted, the Most Great.

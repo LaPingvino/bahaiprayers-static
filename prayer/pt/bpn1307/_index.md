@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1307 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Deus! Ninguém há, senão Tu, para me aliviar a angústia da alma, e Tu és a minha mais alta aspiração, ó meu Deus. O meu coração com nenhum outro se une, senão Contigo e com aqueles a quem Tu amas. Declaro solenemente ser para Ti, tanto a minha vida, como a minha morte. Em verdade, Tu és incomparável, e nenhum companheiro tens.

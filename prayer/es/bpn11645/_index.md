@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11645 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh mi Señor! Tú sabes que la gente está rodeada de dolor y calamidades, y envuelta en privaciones y dificultades. Toda prueba asedia al hombre, y toda adversidad acuciante lo asalta como el ataque de una serpiente. No hay refugio ni asilo para él sino bajo el ala de Tu protección, de Tu preservación, resguardo y cuidado.

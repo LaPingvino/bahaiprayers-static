@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12658 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Bala ti ngerembaika rengut Petara patut nyampika sambiang tu tetiap pagi.

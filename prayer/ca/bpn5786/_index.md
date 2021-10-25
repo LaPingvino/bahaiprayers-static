@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5786 in Català'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Tota majestat i glòria, oh Déu meu, i tot domini, llum, grandesa i esplendor siguin amb Tu. Tu atorgues sobirania a qui vols i li negues a qui desitges. No hi ha Déu tret de Tu, el Tot Posseïdor, l’Excels. Tu ets Qui del no- res creà l’univers i a tots els que hi habiten. No existeix res digne de Tu tret de Tu mateix, mentre que davant la teva sagrada presència tots els demés són com proscrits i són com no-res comparats amb la glòria del teu propi Ser.

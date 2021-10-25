@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3705 in Eesti'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Au olgu Sulle, oo Jumal! Sina oled Jumal, kes oli olemas enne kõiki asju, kes eksisteerib pärast kõiki asju ja jääb kestma kõikide asjade järel. Sina oled Jumal, kes teab kõiki asju ning on kõrgemal kõikidest asjadest. Sina oled Jumal, kes kohtleb halastavalt kõiki, mõistab kohut kõigi üle ja kelle nägemus hõlmab kõike. Sina oled Jumal, minu Issand; Sina oled teadlik minu olukorrast ning tunnistajaks mu seesmisele ja välisele olemusele.

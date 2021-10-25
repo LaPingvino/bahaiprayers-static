@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4710 in Azərbaycan'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 *Ey həqiqət axtaran! Əgər Allahın sənin gözünü açmasını istəyirsənsə, Sən gecəyarası Allaha yalvarmalı, Ona dua etməli və Onunla ünsiyyət edərək söyləməlisən:

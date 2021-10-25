@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7833 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Dio, Che sei Autore di tutte le Manifestazioni, Sorgente di tutte le Sorgenti, Fonte di tutte le Rivelazioni e Origine di tutte le Luci! 

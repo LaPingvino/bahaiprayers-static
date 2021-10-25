@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10400 in Kiribati'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Te Uea ae akea Kabotauana! I bukin Te teei are e aki konabwai naba Ngkoe te Tia Kaawakinna, ao i bukin are e mamaara ae bubure aei bwa Ko na aakoi ao Ko na kabwaraa ana bure.

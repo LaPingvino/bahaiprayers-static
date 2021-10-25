@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8468 in বাংলা'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bn', 'bpn-unsorted']
 +++
 *(এই ফলকলিপি আব্দুল বাহা কর্তৃক অবতীর্ণ, তাঁহার সমাধি-স্থানে পঠিত হয়। ব্যক্তিগত প্রার্থনায়ও ইহা ব্যবহৃত হয়।)

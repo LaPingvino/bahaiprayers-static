@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9558 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, en de God aller namen, en de Maker der hemelen! Ik smeek U bij Uw Naam waardoor Hij die het ochtendgloren van Uw macht en de dageraadsplaats van Uw kracht is werd gemanifesteerd, waardoor alles van vaste stof vloeibaar werd, en elk levenloos lichaam tot leven kwam, en iedere bezielende geest bevestigd werd – ik smeek U mij in staat te stellen mij van alle gehechtheid aan iemand buiten U te ontdoen, en Uw Zaak te dienen, en te wensen hetgeen Gij door de kracht van Uw soevereiniteit wenst, en te volvoeren hetgeen Uw wil behaagt.

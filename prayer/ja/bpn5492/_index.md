@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5492 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おおわが神よ、おおわが神よ。ご覧のようにこの子どもたちは、生命の木の枝であり、

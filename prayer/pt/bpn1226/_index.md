@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1226 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Todo o louvor a Ti, ó Senhor meu Deus! Não sei cantar o Teu louvor; não sei descrever a Tua glória nem invocar o Teu Nome. Se eu Te invocar pelo Teu Nome, o Possuidor de tudo, serei impelido a reconhecer que Aquele que segura na mão os destinos imediatos de todas as coisas criadas é apenas um vassalo dependente de Ti e é a criação de uma simples palavra que procedeu dos Teus lábios. E se eu Te proclamar pelo nome d’Aquele que é o Predominante, eu logo descobrirei ser Ele apenas um suplicante caído no pó, atónito em face da Tua temível grandeza, da Tua soberania e do Teu poder. E se eu tentar descrever-Te glorificando a unicidade do Teu Ser, em breve perceberei que tal conceito não passa de uma noção tecida pela minha própria imaginação, e que Tu sempre foste imensuravelmente elevado acima das vãs fantasias elaboradas pelos corações dos homens.

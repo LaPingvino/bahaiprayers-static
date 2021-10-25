@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1245 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Sou Aquele, ó meu Senhor, que a Ti dirigiu o seu olhar, fixando a sua esperança nas maravilhas da Tua graça e nas revelações da Tua generosidade. Não me deixes voltar frustrado da porta da Tua clemência, eu Te suplico, nem me abandones àquelas de Tuas criaturas que repudiaram a Tua Causa.

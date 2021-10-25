@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8488 in বাংলা'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bn', 'bpn-unsorted']
 +++
 চব্বিশ ঘন্টার মধ্যে একবার মাত্র এই প্রার্থনা আবৃত্তি করিতে হইবে।

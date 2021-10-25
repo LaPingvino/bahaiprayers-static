@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11488 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh mi Dios, Dios de munificencia y misericordia! Tú eres aquel Rey Cuya palabra imperativa ha dado la existencia a toda la creación; y Tú eres aquel Ser Todogeneroso a Quien las acciones de Sus siervos nunca Le han impedido mostrar Su gracia ni han frustrado las revelaciones de Su munificencia.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10315 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Ärad vare Du o Gud, för Ditt uppenbarande av kärlek till mänskligheten! O Du, som är vårt liv och ljus, led Dina tjänare på Din väg och gör oss rika i Dig och fria från allt utom Dig.

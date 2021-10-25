@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10366 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 *Naw-Rúz, den 21 mars, är årets första dag i bahá’í-kalendern.

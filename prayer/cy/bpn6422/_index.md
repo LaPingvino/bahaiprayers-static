@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6422 in Cymraeg'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Dydi, y Duw Digymar! O Arglwydd y Deyrnas! Yr eneidiau hyn yw Dy fyddin nefol.  Cynorthwya hwynt, a chyda minteioedd Llu’r Goruchaf dyro iddynt fuddugoliaeth; fel y byddont oll megis catrawd, a gorchfygant y gwledydd hyn drwy gariad Duw a goleuni’r ddysgeidiaeth ddwyfol.

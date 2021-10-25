@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10844 in Chichewa'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ny', 'bpn-unsorted']
 +++
 O Mulungu! Chotsani izo zonse zoyambitsa kusagwirizana, ndipo tikonzereni ife tonse izo zimene zili zoyambitsa umodzi ndi mgwirizano! O Mulungu! 

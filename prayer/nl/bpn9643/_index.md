@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9643 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O mijn God! Er is niemand dan Gij om mijn zielenleed te verzachten, en Gij zijt mijn grootste verlangen, o mijn God. Mijn hart is verknocht aan niemand buiten U en aan degenen die Gij liefhebt. Ik verklaar plechtig dat mijn leven en mijn sterven U toebehoren. Gij zijt waarlijk onvergelijkelijk en hebt geen deelgenoot.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7982 in Malti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 O Alla, Alla tiegħi! Jiena dort niedem lejK, u fis-sew Int Dak li Jaħfer, li Jħenn. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6146 in Euskara'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-eu', 'bpn-unsorted']
 +++
 Aienatu itzazu nire nahigabeak Zeure adeiaren eta Zure emankortasunaren bidez, Ene Jainkoa, eta uxatu ezazu nire axanpa Zeure agintearen eta Zure ahalaren bidez. Zeuk ikusten nauzu, ene Jainkoa, neure arpegia Zeuganantz itzultzen, atsekabeak alde guztietatik erasoka ditudan une honetan.

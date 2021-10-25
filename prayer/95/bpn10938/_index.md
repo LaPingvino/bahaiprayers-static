@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10938 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O ko Koe ko te Atua alofa-kaimalie

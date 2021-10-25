@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3566 in Norsk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O Gud! O Gud! Du ser min svakhet, beskjedenhet og ydmykhet overfor dine skapninger; likevel har jeg satt min lit til deg og reist meg for å fremme din lære blant dine sterke tjenere, i tillit til din kraft og makt.

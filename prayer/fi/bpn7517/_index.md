@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7517 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Älä korjaa pois, oi Herra, juhlapöytää, joka on katettu Sinun nimeesi, äläkä tukahduta palavaa liekkiä, joka on sytytetty Sinun sammumattomalla tulellasi. Älä estä virtaamasta sitä elävää vettäsi, joka solisee kunniasi ja muistamisesi sävelmää, äläkä riistä palvelijoiltasi rakkautesi viehkeyttä leyhyvien suloisten tuoksujen ihanuutta.

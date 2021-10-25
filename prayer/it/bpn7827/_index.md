@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7827 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Dio, mio Dio! T’imploro per l’oceano del Tuo potere risanatore, per gli splendori della Stella Mattutina della Tua grazia, pel Tuo Nome, mercè il quale soggiogasti i Tuoi servi, per il potere penetrante della Tua Parola eccelsa, per la possanza della Tua augustissima Penna e per la Tua misericordia che ha preceduto la creazione di tutti coloro che sono in cielo e in terra, di purificarmi con le acque della Tua generosità da ogni afflizione e malanno, da ogni debolezza e fralezza. 

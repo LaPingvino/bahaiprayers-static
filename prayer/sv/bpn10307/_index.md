@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10307 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Ärad vare Du, o Herre min Gud! Förödmjuka ej honom, som Du har upplyft i kraft av Din eviga överhöghet och sänd icke långt bort från Dig honom , som Du låtit inträda i Din evighets tabernakel. Vill Du, o min Gud, förskjuta honom som Du har överskyggat med Ditt herravälde, och vill Du, o min åstundan, vända bort från Dig honom, för vilken Du varit en tillflykt? Kan Du förringa honom som Du har upphöjt eller glömma honom, som Du gjort i stånd att minnas Dig?

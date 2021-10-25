@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5161 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Kemuliaan bagi-Mu ya Rabi Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang melaluinya Engkau telah mengangkat panji-panji bimbingan-Mu dan telah memancarkan cahaya kasih sayang-Mu, dan telah menyatakan kedaulatan Ketuhanan-Mu; yang melaluinya lampu nama-nama-Mu telah muncul dalam relung sifat-sifat-Mu, dan Ia yang menjadi Kemah kesatuan-Mu dan Perwujudan keterlepasan-Mu telah bersinar; yang melaluinya jalan bimbingan-Mu ditunjukkan, dan jalan keridhoan-Mu ditandai; yang melaluinya dasar kesalahan telah digetarkan, dan tanda-tanda kejahatan telah dimusnahkan; yang melaluinya sumber kearifan telah memancar dan meja surgawi telah diturunkan; yang melaluinya Engkau telah memelihara hamba-hamba-Mu dan telah menganugerahi penyembuhan-Mu; yang melaluinya Engkau telah memperlihatkan rahmat-Mu yang mesra kepada hamba-hamba-Mu dan menyatakan pengampunan-Mu di antara makhluk-makhluk-Mu. Aku memohon kepada-Mu agar menyelamatkan dia yang telah berpegang teguh dan telah kembali kepada-Mu, dan memegang jubah kasih sayang-Mu. Maka turunkanlah penyembuhan-Mu kepadanya, sembuhkan- lah dia dan anugerahilah dia keteguhan yang diberikan oleh-Mu, dan ketenangan yang dianugerahkan oleh Yang Mulia.

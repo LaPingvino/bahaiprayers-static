@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2739 in Magyar'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Tudod, ó, Isten, és tanúskodsz mellettem, hogy nem él más vágy a szívemben, mint hogy tetszésedet elnyerjem, megerősíttessem az Előtted való szolgaságban, szolgálatodnak szentelhessem magam, nagyszerű szőlőskerted művelhessem, és mindent feláldozhassak ösvényeden. Te vagy a Mindentudó, a Mindent Látó. Nincsen más kívánságom, mint, hogy Irántad való szeretetből lépteimet a hegyek és sivatagok felé irányítsam, hangosan hirdessem Királyságod eljövetelét, és hívásodat zengjem az emberek között. Ó, Isten! Nyiss utat ez elhagyatott előtt, adj gyógyírt e betegnek, és gyógyítsd meg e szenvedőt. Égő szívvel és könnyes szemmel könyörgöm Hozzád Küszöbödön.

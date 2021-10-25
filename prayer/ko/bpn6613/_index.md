@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6613 in 한국어'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 저에게, 저희들의 마음을

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6853 in Canadian Indigenous'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *The prayer "Blessed is the Spot"  in Stó:lõ Shxweli Halq'eméylem, the language of the Soowahlie People.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9346 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Fo mangatsiaka firifiry, ry Andriamanitro, no niredareda tamin’ny afon’ny Fototrao ary fanahy sondriana firifiry no nifoha tamin’ny antso malefakin’ny Feonao! Marobe ireo vao tonga izay nitady fialofana eo amin’ny aloky ny Firaisanao ary ireo mangetaheta izay naniry, amin’ity andro ity, izay Andronao, ny loharanon’ny Ranonao mamelombelona!

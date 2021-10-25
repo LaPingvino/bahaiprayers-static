@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9729 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij, Wiens gelaat het voorwerp van aanbidding is van allen die naar U smachten, Wiens tegenwoordigheid de hoop is van hen die Uw wil geheel zijn toegewijd, Wiens nabijheid het verlangen is van allen die Uw hof zijn genaderd, Wiens aangezicht de metgezel is van hen die Uw waarheid hebben erkend, Wiens Naam de drijfveer is van de zielen die ernaar hunkeren Uw gelaat te aanschouwen, Wiens stem het ware leven is van Uw minnaars, de woorden uit Wiens mond als levend water zijn voor allen in de hemel en op aarde!

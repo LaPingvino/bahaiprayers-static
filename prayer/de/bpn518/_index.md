@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn518 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Wie kann ich den Schlaf suchen, o Gott, mein Gott, da die Augen derer, die sich nach Dir sehnen, keine Ruhe finden, weil sie von Dir getrennt sind, und wie kann ich mich zur Ruhe niederlegen, da Schmerz die Seelen Deiner Geliebten erfüllt, weil sie Deiner Gegenwart so fern sind!

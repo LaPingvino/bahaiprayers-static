@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10918 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 A Ia ko te Mafi, ko te Fakamagalo, ko te Atafai!

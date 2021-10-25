@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8136 in Dansk'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Skænk mig, o min Gud, det fulde mål af Din kærlighed og Din glæde og lyksaliggør mit hjerte gennem dragelsen fra Dit strålende lys, o Du, som er det øverste tegn og Den Alforherligede. Send som et tegn på Din nåde Dine genoplivende briser ned over mig ved dag og ved nat, o gavmildheds Herre.

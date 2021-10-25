@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11648 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Alabado y glorificado seas, oh mi Dios! Te suplico, por los suspiros de Tus amantes y por las lágrimas derramadas por aquellos que anhelan contemplarte, que no me niegues Tus tiernas mercedes en Tu Día, ni me prives de las melodías de la Paloma que exalta Tu unicidad ante la luz que irradia Tu rostro. Soy un desdichado, oh Dios; mírame aferrado a Tu Nombre, Quien todo lo posee. Estoy seguro de perecer; mírame asido a Tu Nombre, el Imperecedero. Te imploro, pues, por Tu Ser, el Exaltado, el Altísimo, que no me dejes a merced de mí mismo ni de los deseos de una inclinación corrupta. Retén mi mano con la mano de Tu poder, líbrame de las profundidades de mis fantasías y vanas imaginaciones, y purifícame de todo lo que Tú detestas.

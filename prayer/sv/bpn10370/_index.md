@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10370 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Närhelst ni inträder i rådslokalen, läs denna bön med ett hjärta skälvande av kärlek till Gud och en tunga renad från allt utom hågkomsten av Honom, på det att den Allsmäktige nådefullt måtte bistå er att uppnå den största seger.

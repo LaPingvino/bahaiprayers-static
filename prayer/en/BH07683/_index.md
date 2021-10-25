@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH07683 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH07683']
 +++
 Glory be to Thee, O King of eternity, and the Maker of nations, and the Fashioner of every moldering bone!  I pray Thee, by Thy Name through which Thou didst call all mankind unto the horizon of Thy majesty and glory, and didst guide Thy servants to the court of Thy grace and favors, to number me with such as have rid themselves from everything except Thyself, and have set themselves towards Thee, and have not been kept back by such misfortunes as were decreed by Thee, from turning in the direction of Thy gifts.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9602 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 *”Het bahá’í-huwelijk is de verbintenis en hartelijke genegenheid tussen twee partijen. Zij moeten echter uiterst zorgvuldig zijn en elkanders karakter leren kennen. Deze eeuwige verbintenis moet geborgd worden door een hecht verbond en moet erop gericht zijn harmonie, kameraadschap en eenheid aan te kweken en eeuwig leven te bereiken.” – Abdu’l-Baha

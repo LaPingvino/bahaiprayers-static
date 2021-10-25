@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9529 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 *O zoeker naar Waarheid! Indien gij wenst dat God uw ogen opent, moet gij Hem aanroepen en u om middernacht in gebed tot Hem keren met de woorden:

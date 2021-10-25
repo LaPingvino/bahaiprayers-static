@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12229 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Vikia a Koe, O te Aliki toku Atua! Au e akai kia Koe mai ia Latou Ko la ko Tapanekolo o Tou mana Faka-te-Lagi, Ko la ko Faifekau o Tou tafatasi tafasili i te gali mo Aso-Malulu o Au musumusuga faka-maalosi mo fakaasiiga, ke talia ko Au tavini ke se taofigia mai i te Tulafono Faka-te-Lagi tenei te la, i Tou loto mo tou fiafiaaga, ko maga atu mai i Tou vasa tafasili i te lasi.  Ko fakaeke aka ne Koe mo latou a mea ko la ko oti ne fakaeke ne Koe mo Au tino filifilia fakatasi mo latou fai mea tonu i vasia o Au mea faiite, ko la ko te tumau o latou i te Fakatokaaga ne seki maua ne matagi maalosi o lue,  kae ko la foki a gateteega o tofotofooga ne seai se maalosi lele o taofi a latou mai ite faka-lauefaga o Tau Muna tafasili ite maluga – te Muna tela mai i ei i lagi o manatu fakasupasupa mo mafaufauga seai ne aoga o tagata ne malepelepe mai lalo.  Ko Koe e tonu ko te Mafi-Katoatoa, ko te MatagofieKatoatoa, ko te Iloa Katoatoa.  

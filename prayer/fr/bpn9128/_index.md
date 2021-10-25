@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9128 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Prière prescrite pour les morts

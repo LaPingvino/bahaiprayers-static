@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7824 in Italiano'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Imploro la Tua indulgenza, o mio Dio, e invoco il Tuo perdono, come Tu desideri che i Tuoi servi si rivolgano a Te. Ti prego di cancellare i nostri peccati come s’addice alla Tua Signorìa e di perdonare me, i miei genitori e coloro che a Tuo giudizio sono entrati nella magione del Tuo amore, in maniera degna della Tua trascendente sovranità e confacente alla gloria della Tua celestiale potenza. 

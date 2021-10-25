@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5826 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Magnificat sigui el teu nom, oh Déu meu, per quant has manifestat el Dia que és el Rei dels Dies; Dia què Tu anunciares als Teus Elegits i als Teus Profetes en les Teves més excelses Taules; dia en què Tu abocares l’esplendor de la glòria de tots els Teus Noms sobre totes les coses creades. Gran és la benedicció de qualsevol que s’hagi dirigit a Tu, hagi aconseguit la Teva presència i hagi captat l’accent de la Teva veu.

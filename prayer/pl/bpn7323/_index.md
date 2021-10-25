@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7323 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Ty widzisz mnie, o mój Boże, pokornie pochylonego, ukorzonego przed Twoimi przykazaniami, uległego wobec Twojej wszechwładzy, poruszonego mocą Twojego panowania, uciekającego przed Twoim gniewem, błagającego o Twoją łaskę, liczącego na Twoje przebaczenie i drżącego z lęku przed Twoim wzburzeniem. Błagam Cię z mocno bijącym sercem, płynącymi łzami i stęsknioną duszą, w całkowitym uniezależnieniu od wszystkich rzeczy, byś sprawił, by Twoi umiłowani stali się jak promienie światła w Twoich Królestwach, i byś wspomógł swoich wybranych służebników w wywyższaniu Twojego Słowa, aby ich twarze stały się piękne i jaśniejące blaskiem, ich serca napełniły się tajemnicami, a każda dusza zrzuciła ciężar swoich grzechów. Ustrzeż ich więc od napastnika, tego, który stał się bezwstydnym i bluźnierczym złoczyńcą.

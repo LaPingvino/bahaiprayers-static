@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6980 in Fiji'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 O i Kemuni na Kalou, na noqu Kalou! Na Nomuni loloma e sa vakayaloqaqataki au, kei na Nomuni lewa dodonu e vakasinaiti au e na rere. Sa ka ni marau vua na tamata me vakaivotavotataki e na Nomuni loloma, ia e na veivutuni o koya e ciqoma na Nomuni lewa dodonu.

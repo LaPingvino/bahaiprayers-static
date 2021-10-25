@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2609 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *Elmondandó egyszer minden huszonnégy órában

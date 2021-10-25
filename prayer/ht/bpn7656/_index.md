@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7656 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Lwanj pou Ou, O Senyè, Byeneme mwen an! Fè mwen fèm nan Koz Ou a, e pa kite mwen konte pami sila yo ki te vyole Alyans Ou e ki te swiv idòl ki soti nan imajinasyon initil yo. Alò, pèmèt mwen jwenn yon syèj laverite nan prezans Ou, voye sou mwen yon siyn mizèrikòd Ou e asepte pou mwen rasanble avèk yo menm pami sèvitè Ou yo ki pa pral gen perèz e ki pa pral tonbe nan chagren. Pa abandone mwen pou kont mwen, O Senyè mwen, e pa anpeche mwen rekonèt Sila a Ki se Manifestasyon Pwòp Lespri Ou, ni pa konte mwen pami yo menm ki te vire do bay prezans sakre Ou a. Konte mwen, O Bondye mwen, pami moun ki jwenn privilèj pou fikse rega yo sou Bote Ou e ki tèlman jwenn kontantman nan Bote sa a yo pa t’ap chanje yon sèl moman ladann li pou souverènte syèl la ak tè a ni pou tout wayòm kreyasyon an. Gen mizèrikòd pou mwen, O Senyè, nan jou sa yo kote pèp ki viv sou tè Ou a te plonje nan erè; epi voye pou mwen, O Bondye mwen, sa ki bon e kòrèk daprè Ou menm. An verite, se Ou menm Ki Gen Tout Pouvwa, Ki Plen Gras, Ki Plen Bonte, K’ap Toujou Padone. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5973 in Català'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glòria sia a Tu, oh Senyor, Tu has donat vida a totes les coses creades, mitjançant el poder de la Teva voluntat.

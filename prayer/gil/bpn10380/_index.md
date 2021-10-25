@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10380 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 *(Are e tangiria n atonga te tataro aio, ke e tei ao n rairaki nakon Te Atua, ao, ngke e tei i aon ana tabo, e na taraa te angaatai ao te angamaing, n aron ae e tataninga Ana nanoanga te Uea, te Kabanea n Nanoanga, te Moamoaaomata. Ngkanne ke e atonga aei:)

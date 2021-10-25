@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn554 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht seiest Du, o Herr mein Gott! Ich flehe Dich an bei den heranbrausenden Winden Deiner Gnade und bei ihnen, die die Sonnen Deines Ratschlusses, die Aufgangsorte Deiner Eingebung sind, sende hernieder auf mich und auf alle, die Dein Angesicht suchen, was Deiner Großmut und Deiner freigebigen Gnade entspricht und was Deiner Gaben und Deiner Gunst würdig ist. Arm und verlassen bin ich, o mein Herr! Lass mich versinken im Meer Deines Reichtums; durstig bin ich, lass mich trinken vom Lebenswasser Deiner Gnade.

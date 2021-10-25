@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10906 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua, toku Atua, Fakafonu aka mo au ate ipu o te motu mai i mea katoa, kae i te lukuuga fakatasi o Tou gali mo mea-alofa, faka-fiafia aka au i te uaina o te alofa mo Koe.  Saoloto mai i manakoga mo fiafiaaga ote loto, motu gina mai au mai i fifiiga o te lalolagi ko teka atu, kae futi atu au mote lifu ki Tou nofoga maluga, kae fakafou au mai i vasia o tagata ki se manavaaga o Tou mana.

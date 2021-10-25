@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7841 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 ##RIVELATA AI BAHÁ’ÍDEL CANADA E GROENLANDIA

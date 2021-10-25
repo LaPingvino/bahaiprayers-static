@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11574 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Alabanza y gloria sean para Ti, oh Señor, mi Dios! Este es un retoño selecto que has plantado en las praderas de Tu amor y has nutrido con los dedos de Tu Señorío.

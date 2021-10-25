@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9154 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, je ne sais quel est ce feu que tu as allumé en tes domaines. Jamais la terre ne pourra occulter sa splendeur ni l’eau éteindre sa flamme. Nul ne peut résister à sa force. Grande est la félicité de celui qui s’en approche et l’entend gronder.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5800 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu meu! Tu ets la meva esperança i el meu Benamat, el meu més elevat Propòsit i el meu Desig! Amb gran humilitat i completa devoció Et suplico que em facis un minaret del Teu amor en la Teva terra, una làmpada del Teu coneixement entre les Teves criatures i un estendard de divina generositat en el Teu domini.

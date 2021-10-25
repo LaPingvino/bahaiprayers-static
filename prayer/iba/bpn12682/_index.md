@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12682 in Iban'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Tuhan!	Bekal	ke	penyampat	pemansang	Kayu

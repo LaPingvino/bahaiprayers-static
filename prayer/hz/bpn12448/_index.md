@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12448 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Kalunga kange, omwene wange, efikilo le halo lange! Ame, omupiya woYe, onda hala oku kofa metwali lo nghenda yoYe, no ndi tu lumukwe ko mbete ya tuvikwa ne filonghenda loYe oha ndi kwindile ekwafo neameno loYe lame nenge. 

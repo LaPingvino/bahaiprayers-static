@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1089 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Senhor! Faze com que estas crianças sejam como plantas excelentes. Permite-lhes crescerem e desenvolverem-se no Jardim do Teu Convénio, e concede-lhes frescor e beleza através das emanações das nuvens do Reino Todo-Glorioso.

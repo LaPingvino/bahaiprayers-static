@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4541 in հայերեն'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hy', 'bpn-unsorted']
 +++
 արտասանվում է օրը մեկ անգամ` կեսօրից մինչև մայրամուտ

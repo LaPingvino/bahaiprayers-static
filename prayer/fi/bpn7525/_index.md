@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7525 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumala, minun Jumalani! Tämä palvelijattaresi kutsuu Sinua luottaen Sinuun, kääntäen kasvonsa Sinun puoleesi, pyytäen hartaasti Sinua vuodattamaan hänelle taivaalliset lahjasi ja paljastamaan hänelle henkiset salaisuutesi ja suomaan hänelle jumaluutesi valoa.

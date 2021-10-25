@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12119 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Aku tidak mengetahui, Ya Tuhanku, apakah Api yang telah Engkau nyalakan di bumi-Mu. Bumi tidak akan pernah dapat menutupi kegemilangannya, mahupun sebarang air dapat memadamkan sinarannya. Semua manusia di dunia tidak berupaya untuk menahan kuasanya. Besarlah berkat dia yang telah mendekatinya, dan mendengar laungannya.

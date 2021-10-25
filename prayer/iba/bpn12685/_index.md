@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12685 in Iban'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Dipuji sereta dimuliaka meh Nuan, O Petara!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11671 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Gloria sea a Ti, oh Señor, Tú que has traído a la existencia todas las cosas creadas, mediante el poder de Tu mandato.

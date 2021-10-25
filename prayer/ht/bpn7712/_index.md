@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7712 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se pou Non Ou louwe, O Bondye mwen ak Bondye tout bagay, Glwa mwen ak Glwa tout bagay, Dezi mwen ak Dezi tout bagay, Sipò mwen ak Sipò tout bagay, Wa mwen ak Wa tout bagay, Mèt mwen ak Mèt tout bagay, Bi mwen ak Bi tout bagay, Fòs mwen ak Fòs tout bagay! Mwen sipliye Ou pou pa anpeche mwen jwenn oseyan dous mizèrikòd Ou a, ni rete lwen bòrivaj prezans Ou an. 

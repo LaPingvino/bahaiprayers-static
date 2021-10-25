@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11615 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Tú, Dios bondadoso!

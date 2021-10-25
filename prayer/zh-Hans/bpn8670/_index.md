@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8670 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 这篇由阿博都—巴哈所启示的祷文应在祂陵殿前吟诵，也可以作为私用祷文。

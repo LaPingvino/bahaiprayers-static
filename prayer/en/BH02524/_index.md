@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH02524 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH02524']
 +++
 Glory to Thee, O my God!  But for the tribulations which are sustained in Thy path, how could Thy true lovers be recognized; and were it not for the trials which are borne for love of Thee, how could the station of such as yearn for Thee be revealed?  Thy might beareth me witness! The companions of all who adore Thee are the tears they shed, and the comforters of such as seek Thee are the groans they utter, and the food of them who haste to meet Thee is the fragments of their broken hearts.

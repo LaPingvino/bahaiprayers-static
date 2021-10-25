@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4389 in Filipino'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Panginoon! Gawin ang mga batang ito na maging napakagaling na mga halaman. Hayaan silang lumaki at yumabong sa Hardin ng Iyong Banal na Kasunduan, at ipagkaloob ang kasariwaan at kagandahan sa tulong ng mga ulan ng mga ulap sa Kahariang Abhá.

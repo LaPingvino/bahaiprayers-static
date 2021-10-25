@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1704 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Þú góði Drottinn! Lof sé Þér að Þú hefur sýnt okkur þjóðbraut leiðsagnar, opnað dyr ríkisins og birt Þig í sól veruleikans. Blindum hefur Þú gefið sjón og daufum heyrn, Þú hefur vakið dauða og auðgað snauða. Villtum hefur Þú sagt til vegar. Þú hefur leitt þá sem höfðu skrælnaðar varir að lind leiðsagnar. Þú hefur leyft hinum þyrsta fiski að ná til úthafs veruleikans og boðið förufuglunum til rósagarðs náðarinnar.

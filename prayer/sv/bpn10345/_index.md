@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10345 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Herre, min Gud och min tillflykt i min sorg! Mitt värn och mitt skydd i mitt lidande! Min fristad och mitt fäste i tider av nöd och min ledsagare i ensamheten! Min tröst i min vånda och en vän, som älskar mig i min ensamhet! Befriaren från mina sorgers kval  och förlåtaren av mina synder!

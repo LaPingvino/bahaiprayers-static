@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9254 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Gloire à toi, ô Dieu ! Tu existas avant toutes choses, tu existeras après toutes choses, tu dureras au-delà de toutes choses. Tu connais toutes choses, tu as la suprématie sur toutes choses. 

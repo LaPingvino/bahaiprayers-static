@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11463 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Glorificado seas, oh Señor mi Dios! Te imploro, por los impetuosos vientos de Tu gracia, y por Aquellos que son las Auroras de Tu propósito y los Puntos de Amanecer de Tu inspiración, que me envíes a mí y a todos los que han buscado Tu semblante aquello que sea propio de Tu generosidad y de Tu munífica gracia y sea digno de Tus dádivas y Tus favores. Estoy necesitado y desolado, oh mi Señor; sumérgeme en el océano de Tu riqueza. Estoy sediento; permíteme beber de las aguas vivas de Tu amorosa bondad.

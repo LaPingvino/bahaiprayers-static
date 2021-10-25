@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10010 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó môj Bože! Ó môj Bože! Vidíš tieto deti, ktoré sú vetvičkami stromu života, vtáčatami lúčin spasenia, perlami oceánu Tvojej milosti, ružami záhrady Tvojho vedenia.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5034 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, Ngài thật đáng ca tụng! Ngài là Đấng mà chỉ có một tiếng thốt ra khỏi môi cũng đủ làm đảo lộn cả tạo vật, mà chỉ một nét phát ra từ ngọn bút của Ngài cũng đủ khiến các tôi tớ Ngài bị phân rẽ. Lạy Thượng Đế của con, trong Mặc khải này con làm chứng rằng chỉ do một tiếng của Ngài, mọi vật thọ tạo đều chịu hủy diệt và do một tiếng khác nữa, tất cả những kẻ Ngài lựa chọn đều được ban cho đời sống mới, nhờ ân phúc và lượng bao dung của Ngài.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12880 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O mój wieczny Ukochany i mój uwielbiony Przyjacielu! Jak długo jeszcze pozbawiony będę Twej obecności i cierpieć będę z powodu oddalenia od Ciebie? Prowadź mnie do ustroni swego niebiańskiego Królestwa, a w miejscu pojawienia się Twej niebieskiej Krainy skieruj na mnie spojrzenie swej miłościwej życzliwości.

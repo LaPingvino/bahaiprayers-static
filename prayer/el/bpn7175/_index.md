@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7175 in ελληνικά'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 Αυτός είναι ο Θεός!

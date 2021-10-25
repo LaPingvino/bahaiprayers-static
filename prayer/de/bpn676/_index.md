@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn676 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 *Wer immer dieses Gebet demütig und inbrünstig spricht, wird das Herz dieses Dieners mit Freude und Glück erfüllen: Es wird sein, als begegne er Ihm von Angesicht zu Angesicht.Er ist der Allherrliche!

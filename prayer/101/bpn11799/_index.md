@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11799 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Bogok otin dek obow, O Topa ku, mbok obuah kibangoh pakai opui Agama Ingan, bia bogok geh dek loloe bo’os mbok ngooh odak sina mosiak Ingan. Mbok kudu tiyak nyaa dek saluh saluh mbok mitia ngilukuh ndu ribuak adung tongon koyuh Ingan dek ndi, bia main kiyang dek bodoh asong mbok balingap kalik tobol pi’in pingidip Ingan daang onu onu Ingan!

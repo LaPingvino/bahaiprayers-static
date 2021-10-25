@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7401 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, miłosierny Boże! O Ty, któryś jest mocny i potężny! O Ty, najżyczliwszy Ojcze! Ci słudzy zebrali się, zwracając się ku Tobie, zanosząc prośby u Twego progu, pragnąc Twoich bezgranicznych łask, któreś wspaniałomyślnie przyobiecał. Nie mają innego celu niż Twoje zadowolenie. Nie mają innego zamiaru niż służenie światu ludzkości. 

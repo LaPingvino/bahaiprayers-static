@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11395 in தமிழ்'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ta', 'bpn-unsorted']
 +++
 பிரபுவே, எனதாண்டவரே, உந்தன் நாமம் மேன்மைப்படுத்தப்படுமாக! 

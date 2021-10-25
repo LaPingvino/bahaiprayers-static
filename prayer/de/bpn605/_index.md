@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn605 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Ich flehe Dich an beim Blute derer, die Dich wahrhaft liebten, die so hingerissen waren von Deinen lieblichen Worten, dass sie zum Gipfel der Herrlichkeit, zur Stätte des ruhmreichsten Martyriums eilten, und bitte Dich bei den Geheimnissen, die Dein Wissen verwahrt, und bei den Perlen, die das Meer Deiner Großmut birgt, vergib mir, meinem Vater und meiner Mutter! Von allen, die Barmherzigkeit bezeigen, bist Du in Wahrheit der Barmherzigste. Es gibt keinen Gott außer Dir, dem Ewig-Vergebenden, dem Allgütigen.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10369 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Ärad vare Du, o min Gud! Sannerligen, denne Din tjänare och 

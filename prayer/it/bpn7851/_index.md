@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7851 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O gni lode a Te, o Signore mio Dio! Quale mistero nel Fuoco che accendesti nel mio cuore! Le mie stesse membra attestano l’intensità del suo calore e mostrano il potere distruttore della sua fiamma. Se mai la lingua del mio corpo si attentasse a descriverTi come Colui la Cui forza è sempre stata superiore alla forza del più potente uomo, la lingua del cuore mi direbbe: «Non sono altro che parole adeguate solamente a cose che siano della stessa specie e natura. Ma Lui, per la verità, è infinitamente esaltato al di sopra della menzione di tutte le Sue creature».

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1635 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð minn. Ó Þú, sem fyrirgefur syndir okkar, gefur okkur gjafir, eyðir sorgum okkar. Sann­lega bið ég Þig að fyrirgefa syndir þeirra, sem hafa yfirgefið jarðneska líkama sína og haldið til æðri heims.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5412 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 自らの犯した罪や過あやまちを他人に告白することは許されない。

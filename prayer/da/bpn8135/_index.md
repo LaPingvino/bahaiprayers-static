@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8135 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Forherliget er Du, o Herre min Gud! Jeg takker Dig for at Du har givet mig liv i Dine dage, og indgydt i mig Din kærlighed og Din viden. Jeg bønfalder Dig ved Dit navn, hvorved Din visdoms og Din ytrings prægtige perler blev bragt frem fra de af Dine tjeneres hjerter, som er Dig nær, og gennem hvilke dagstjernen for Dit navn, Det Medfølende, har kastet sin stråleglans på alle, der er i Din himmel og på Din jord, til ved Din gavmildhed og nåde at give mig Dine underfulde og skjulte nådegaver.

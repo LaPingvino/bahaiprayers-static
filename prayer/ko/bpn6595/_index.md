@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6595 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 제가 고백하오니 주님께는 온 세계를 다시 소생시키는 일과 인류통합을 확립하는 일과

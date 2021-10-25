@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7895 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Egli è Dio Che ascolta ed esaudisce le preghiere !

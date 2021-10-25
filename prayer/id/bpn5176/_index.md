@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5176 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Engkau Tuhan Yang Pengasih! Kami telah berkumpul dalam pertemuan kerohanian ini dengan penuh rendah hati; kami telah menghadapkan wajah kami ke arah kerajaan-Mu dan memohon penguatan dan bantuan-Mu, agar kami dapat bersatu dan selaras, agar kami dapat bergaul satu sama lain dengan kemanisan susu dan madu, dan agar kami dapat menjadi sebab datangnya ke-satuan kerajaan manusia. Kabulkanlah bahwa dengan hati murni dan jiwa gilang gemilang kami dapat berdoa kepada-Mu dan memohon dari Engkau terpenuhinya keinginan-keinginan kami yang keras.

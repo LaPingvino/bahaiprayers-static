@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9157 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Seigneur, en toi je cherche refuge et vers tes signes je tourne mon cœur. Ô Seigneur, en voyage ou chez moi, durant mes activités ou dans mon travail, je place en toi mon entière confiance. 

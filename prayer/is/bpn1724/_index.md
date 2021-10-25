@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1724 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrð sé Þér, ó Guð, fyrir að opinbera mannkyni ást Þína! Ó Þú sem ert líf okkar og ljós, leið­bein Þú þjónum Þínum á vegi Þínum, ger okkur auðug í Þér og frelsa okkur frá öllu nema Þér.

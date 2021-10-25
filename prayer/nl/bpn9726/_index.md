@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9726 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Glorie zij U, o God. Hoe kan ik U noemen terwijl Gij toch geheiligd zijt van de lof der gehele mensheid. Verheerlijkt zij Uw Naam, o God, Gij zijt de Koning, de Eeuwige Waarheid; Gij kent de hemelen en de aarde, en tot U moeten allen wederkeren. Gij hebt Uw goddelijk beschikte Openbaring neergezonden naar een duidelijke maat. Geprezen zijt Gij, o Heer! Naar Uw bevel doet Gij wie Gij wilt zegevieren door de scharen van hemel en aarde en al wat daartussen is. Gij zijt de Soeverein, de Eeuwige Waarheid, de Heer van onoverwinnelijke macht.

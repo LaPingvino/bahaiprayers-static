@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12430 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Mfumwa koye ove Karunga kulimonikito lyashihoro shoye kumbunga! Oh, Ove ghuLiparu naUkenu wetu, pititira vapikoye mundjira yoye, tu renke tu ragopare mumoye nakutushutura kunavintje kwandi Koye.

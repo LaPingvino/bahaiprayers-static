@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BB00490 in English'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-en', 'BB00490']
 +++
 In the Name of God, the Lord of overpowering majesty, the All-Compelling.

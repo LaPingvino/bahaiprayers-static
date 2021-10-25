@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6855 in Canadian Indigenous'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *Short Obligatory Prayer

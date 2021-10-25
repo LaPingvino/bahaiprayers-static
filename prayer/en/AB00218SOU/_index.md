@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB00218SOU in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB00218SOU']
 +++
 ##Revealed to the Bahá’ís of the United States and Canada

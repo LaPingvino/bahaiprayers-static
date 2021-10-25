@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12491 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O Thou kind Lord! These are Thy servants who have gathered in this meeting,…

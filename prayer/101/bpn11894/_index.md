@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11894 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Pakai Adon Topa, Raja dek ayuh lagi lobih kuasa, dek Sukup.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8858 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 仁慈的主啊！祢的僕人在此團聚，轉向祢的王國，渴求祢的恩賜和福音。上帝啊！顯明祢那深植於所有生命實在中的獨一性之徵象，開啟祢潛藏於人性實在中的美德。

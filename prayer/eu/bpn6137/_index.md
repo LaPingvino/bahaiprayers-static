@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6137 in Euskara'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-eu', 'bpn-unsorted']
 +++
 Zeure betikotasunezko ur garden eta gozoetatik edaten emaidazu,ene Jauna,

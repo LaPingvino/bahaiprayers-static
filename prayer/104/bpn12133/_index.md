@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12133 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhan! Ya Tuhan! Ini seekor burung yang patah sayapnya dan terbangnya sangat lambat—bantulah dia agar dia dapat terbang ke mercu kesejahteraan dan keselamatan, melayang dengan penuh keriangan dan kegembiraan di seluruh ruang yang tak terbatas, menyanyikan melodinya demi Nama-Mu Yang Tertinggi di seluruh wilayah,               menggembirakan semua telinga dengan seruan ini, dan menerangi mata dengan memandang tanda-tanda bimbingan.

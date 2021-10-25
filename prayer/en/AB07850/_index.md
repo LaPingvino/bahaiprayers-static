@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB07850 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB07850']
 +++
 ##For Women

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5948 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu meu! Aquests són els Teus dèbils serfs; ells són els Teus esclaus lleials i les Teves serves, què s’han inclinat davant la Teva exaltada Expressió, s’han humiliat davant el Teu Llindar de llum i han donat testimoni de la Teva unicitat, mitjançant la qual s’ha fet brillar el Sol amb esplendor Zenital. Ells han escoltat la crida què Tu elevares des del Teu Regne ocult i han contestat amb llurs cors bategant  d‘amor i embadaliment.

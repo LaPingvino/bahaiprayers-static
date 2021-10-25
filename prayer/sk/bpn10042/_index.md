@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10042 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Všetci priatelia Boží… by mali do fondu prispievať podľa svojich možnosti, nech by obetovaná čiastka bola akokoľvek skromná. Boh nezaťažuje dušu nad jej mieru. Je potrebné, aby príspevky prichádzali zo všetkých miest a od všetkých veriacich… Ó priatelia Boží! Buďte uistení, že vďaka týmto príspevkom bude vaše poľnohospodárstvo, priemysel či obchod štedro požehnaný mnohonásobným nárastom a nemalými darmi. Ten, kto vykoná jediný malý skutok, dostane desaťnásobnú odmenu. Niet pochýb o tom, že Žijúci Boh zošle hojné uistenie tým, ktorí vydávajú svoje bohatstvo na Jeho ceste.

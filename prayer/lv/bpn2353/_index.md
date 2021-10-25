@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2353 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Viņš ir Dievs, cildens Viņš ir, mīloši žēlīgais un dāsnais Kungs!

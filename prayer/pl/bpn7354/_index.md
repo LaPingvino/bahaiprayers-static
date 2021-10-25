@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7354 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Boże mój i mój Mistrzu! Jestem Twoim sługą i synem Twojego sługi. Podniosłem się o świtaniu z mego posłania, gdy Jutrzenka Twej jedności zajaśniała ze Świtu Twojej Woli i rozlała blask po całym świecie, zgodnie z tym, co zostało nakazane w Księgach Twoich Wyroków.

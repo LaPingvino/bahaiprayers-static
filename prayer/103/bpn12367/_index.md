@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12367 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 Lord! Pitiful are we, grant us Thy favor;…

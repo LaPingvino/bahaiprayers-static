@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10905 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua, toku Atua! Koe ko toku Fakamoemoega mo taku Fagasele, taku Kiloga mo toku Manakoga.  I se tulaga tafasili i te maulalo mo te fakapalelega o fakanuanaki e talo au kia Koe ke fai au pela me se leo o Tou alofa i Tou fenua, se moli o Tou poto i vasia o Au mea faiite, se fuka o te alofa faka-te-lagi i Tou malo.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12693 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Ke Anakmit

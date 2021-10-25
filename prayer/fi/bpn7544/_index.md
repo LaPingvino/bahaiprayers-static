@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7544 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani, moni viilentynyt sydän on saatettu hehkumaan Sinun asiasi tulella ja äänesi suloisuus on herättänyt monen uinailevan. Kuinka monet ovatkaan ne  muukalaiset, jotka ovat etsineet suojaa Sinun ykseytesi puun siimeksestä, ja kuinka lukuisat ne janoiset, jotka ovat kaihonneet elävien vettesi lähdettä Sinun aikanasi.

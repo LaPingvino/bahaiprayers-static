@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10316 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Ärad vare Du, o Evighetens konung, folkens danare och utformaren av varje förvittrande ben! Jag ber Dig vid Ditt namn, genom vilket Du kallade hela mänskligheten till Ditt majestäts och Din härlighets horisont och ledde Dina tjänare till Din nåds och ynnests förgård, att räkna mig till dem som frigjort sig från allt utom Dig och öppnat sig inför Dig och icke hållits tillbaka av sådana olyckor som förordnats av Dig, utan vänt sig mot Dina gåvor.

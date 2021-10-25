@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8857 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 滿懷恩德的上帝啊！大能強力的尊者啊！至為仁慈的聖父啊！這些僕人在此團聚並轉向祢，在祢門檻前祈求，渴望那源於祢偉大允諾的無量恩惠。他們別無所圖，只為使祢喜悅；他們別無所願，只為服務人類世界。

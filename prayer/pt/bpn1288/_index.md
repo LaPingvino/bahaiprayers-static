@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1288 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Concede-me, ó meu Deus, a plena medida do Teu amor e da Tua aprovação e, pelas atrações da Tua luz resplendente, extasia os nossos corações, ó Tu que és a Evidência Suprema e o Todo-Glorificado. Faze descerem sobre mim, como sinal da Tua graça, as Tuas brisas vitalizadoras, durante o dia e à noite, ó Senhor de generosidade.

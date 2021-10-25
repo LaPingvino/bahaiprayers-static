@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11856 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Mudi Adon Ingan, O Raja Topa ku! Oku tih ulunt Ingan dek mbok kagient nunda tunt tolint masik binulut Ingan, bia bikagient togap tudu piet pingungin Ingan. Oku nguwai Ingan pakai adon Ingan sibilint Ingan mbok nguwasa sua onik dek obuah motan, soduwoh-duwoh dek tonga bia dek dik-eh tonga, bia pakai dek sok asong dek memang pingidip mbok bigoyuang tudu siginap dek obuah nai, odak nogap oku pakai kuasa Ingan dek mbok nyokuab longit duoh tanak, bia lagi jaga oku sok sua tiboie duoh pinusah dek po’it. Oku ngakon nang Ingan leh Raja ndu sua adon, bia jadin Pinotap ndu sua nunda dek suka Ingan. Doie Topa dibokon pak-eh Ingan, dek Bigagah, dek Paling-Pangipu’ant dek Paling-Arif.

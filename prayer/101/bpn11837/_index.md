@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11837 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Topa ku, Nyaa dek nyombah ku duoh obuah puja! Oku ngakon tudu kesatuan Ingan duoh pinyindi Ingan, bia ngin terima kasih ndu hadiah Ingan, sok duwoh duwoh-eh dek diyok sok kanok bia dek adin. Ingan leh dek Paling-Pingungin, pirasie Iyoh dek mepel paman nyongag dengan bogok mbok soyank tudu dek ayuh duoh dek isok samah rata, bia timogah ayuh budi Iyoh mbok obuah piluruh ndu tunt sok duwoh-duwoh dek nunda sina bia dek netang.

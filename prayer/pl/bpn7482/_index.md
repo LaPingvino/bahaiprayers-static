@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7482 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##LAWH-I-AQDAS

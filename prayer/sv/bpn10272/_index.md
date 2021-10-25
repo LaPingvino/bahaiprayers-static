@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10272 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Förhärligat vare Ditt namn, o Herre min Gud, varigenom träden i Din uppenbarelses trädgård har klätts i grönska och gjorts i stånd att frambära helighetens frukter i denna vårtid, och den ljuva doften av Dina gåvor och välsignelser har fläktat över allt och låtit dem frambringa vadhelst, som blivit dem förordnat i Ditt oåterkalleliga påbuds rike och i Ditt oföränderliga syftes himmel. Jag bönfaller Dig vid detta Namn att ej låta mig vara fjärran från Din helighets hov eller utestängd från Din enighets och enhets upphöjda helgedom.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11943 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Senden özge tagzym etmeli Alla ýokdur!

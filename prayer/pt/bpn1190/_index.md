@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1190 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Não sei, ó meu Deus, que Fogo é este que acendeste no Teu domínio. Jamais poderá a terra nublar o seu esplendor, ou a água extinguir a sua chama. Nem terão todos os povos do mundo o poder de resistir à sua força. Grande é a bem-aventurança de quem se haja aproximado e ouvido o seu rugir.

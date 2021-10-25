@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12633 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Nuan Petara ti Pengampun! Bala pengasuh tu ngadap perintah Nuan lalu ngiga pengasih enggau pemeri Nuan. O Petara! Gaga ati sida manah sereta tuchi awakka sida tau lumau nerima pengerindu Nuan. Tuchi sereta kuduska roh sida awakka penerang Matahari Pengamat tau manchar ba sida. Tuchi sereta kuduska mata sida awakka sida tau ngelala penerang Nuan. Tuchi sereta kuduska pending sida awakka sida tau ninga kangau perintah Nuan.

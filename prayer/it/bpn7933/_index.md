@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7933 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Questi sono, o mio Dio, i giorni durante i quali ingiungesti ai Tuoi servi di osservare il digiuno. Con esso adornasti il preambolo del Libro delle Tue Leggi rivelato alle Tue creature e abbellisti i Ricettacoli dei Tuoi comandamenti agli occhi di tutti coloro che sono nel Tuo cielo e sulla Tua terra. Hai dotato ogni ora di questi giorni di una virtù speciale, inscrutabile a tutti fuorché a Te, la Cui sapienza abbraccia tutto il creato. Hai pure assegnato ad ogni anima una parte di questa virtù in armonia con le Tavole del Tuo decreto e con le Scritture del Tuo irrevocabile Giudizio. Hai altresì assegnato ogni pagina di questi Libri e Scritture a ciascuno dei popoli e delle tribù della terra.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5316 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Ti vidiš, Gospodaru moj, kako se zlodjela koja počiniše oni koji su Ti leđa okrenuli, ispriječiše između Njega, u kome je Tvoje božanstvo očigledno, i Tvojih sluga. Pošalji im, o, moj Gospodaru, ono što će učiniti da se jedni drugima pozabave. Daj da se njihovo nasilje ograniči na njih same, kako bi mirna bila zemlja na kojoj borave.

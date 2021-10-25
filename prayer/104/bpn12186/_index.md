@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12186 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Untuk Wanita Yang Meninggal Dunia

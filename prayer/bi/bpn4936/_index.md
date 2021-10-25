@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4936 in Vanuatu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O God blong mi, Yu we mi lavem tumas, Yu we Yu King blong mi, Yu we mi wantem tumas!   Mi no gat wan toktok we i inaf blong talem tangkyu long Yu.  Mi bin lusum stret rod olsem wan man we i silip, be Yu Yu bin wekemap mi. Mi bin tanem bak blong mi long Yu, be Yu Yu bin helpem mi long wan gudfala fasin blong mi save tanem fes blong mi i go bak long Yu.  Mi bin ded, be Yu Yu bin givim laef long mi bakagen wetem wora blong laef. Mi bin slak tumas, be Yu Yu bin mekem se mi kam strong bakagen tru long ol Tabu toktok blong Yu we i ron olsem wan riva aot long Pen blong Sori blong Yu.

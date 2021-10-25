@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1225 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Evanescente encontra-se agora tudo o que floresceu no Paraíso da Tua transcendente unidade, ó meu Deus! Onde estão as nuvens das quais jorram a chuva da Tua misericórdia? A secar estão os ramos da árvore da Tua unidade, a perder as folhas da Tua majestade e sabedoria; onde está a primavera das Tuas dádivas e generosidade? Imóvel encontra-se a Arca da Tua Causa sobre o mar da Tua criação; onde estão os ventos da Tua graça e dos Teus favores? Encoberta por todos os lados encontra-se a Tua Lâmpada pelas tempestades da discórdia que sopram de todas as terras; onde está o globo da Tua benevolência e proteção?

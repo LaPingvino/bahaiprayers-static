@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10352 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Gud, som är upphovet till alla uppenbarare, ursprunget till alla källor, upprinnelsen till alla uppenbarelser och källan till alla  ljus! Jag vittnar om att genom Ditt namn har förståelsens himmel smyckats och yttrandets hav satts i svallning och Din försyns förordningar blivit kungjorda för alla religioners efterföljare.

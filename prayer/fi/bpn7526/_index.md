@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7526 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Herrani! Herrani! Minä ylistän Sinua ja kiitän Sinua siitä, millä olet suosinut nöyrää palvelijatartasi, Sinun orjaasi, joka hartaasti anoo ja rukoilee Sinua, koska Sinä totisesti olet johdattanut hänet ilmettyyn valtakuntaasi ja saanut hänet kuulemaan ylevän kutsusi ehdonalaisessa maailmassa ja näkemään merkkisi, jotka osoittavat kaiken voittavan valtasi ilmaantuneen.

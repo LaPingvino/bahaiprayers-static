@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12470 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Unona Nye Vo Vanhu

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3513 in Norsk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Han er helbrederen, fyldestgjøreren, hjelperen, den alt-tilgivende, den overmåte barmhjertige!

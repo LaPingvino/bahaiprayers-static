@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7611 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##RESITE PRIYÈ SA A CHAK JOU A MIDI.

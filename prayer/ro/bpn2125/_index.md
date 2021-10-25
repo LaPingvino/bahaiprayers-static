@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2125 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lauda fie cu Tine, o, Doamne Dumnezeul meu! Tu vezi şi ştii că i-am îndemnat pe slujitorii Tăi să nu-şi întoarcă faţa decât înspre darurile Tale şi i-am rugat să se supună lucrurilor pe care le-ai poruncit în Cartea Ta cea clară, Carte pe care ai pogorât-o în lumina poruncii Tale indiscutabile şi a scopului Tău irevocabil.

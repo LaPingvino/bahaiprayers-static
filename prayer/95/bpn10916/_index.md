@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10916 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua, toku Atua!  A ia tenei ko Tau tavini fafine e kalaga atu kia luga ia Koe, e fakanaa kia Koe, e fuli atu ona mata kia Koe, o akai totuli kia Koe ke tufa mai a Tou koloa faka-te-lagi kia luga ia ia, kae ke fakaasi atu kia ia Au mea funa faka-te-agaaga, kae ke tuku atu ki luga ia ia a mainaaga o Tou Ulu-Aliki. 

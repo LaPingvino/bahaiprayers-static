@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9742 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Geprezen zijt Gij, o mijn God, dat Gij Naw-Rúz hebt ingesteld als een feestdag voor hen die de Vasten hebben gehouden uit liefde voor U en zich hebben onthouden van al wat U weerzinwekkend is. Vergun, o mijn Heer, dat het vuur van Uw liefde en de gloed die de door U opgelegde Vasten teweeg heeft gebracht hen in vlam zet voor Uw Zaak, en laat hen zich bezighouden met het U eren en gedenken.

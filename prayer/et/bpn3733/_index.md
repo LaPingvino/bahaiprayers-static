@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3733 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Sina oled see, oo mu Jumal, kelle nimedega tervendatakse haigeid ja kosutatakse põduraid, antakse juua janustele ja rahustatakse haavunuid, juhatatakse eksinuid ja ülendatakse alandatuid, rikastatakse vaeseid ja õpetatakse rumalaid, valgustatakse süngeid ja rõõmustatakse kurbi, soojendatakse külmunuid ja tõstetakse üles rõhutud. Sinu nime läbi, oo mu Jumal, elustati kõik loodud asjad ning laotati laiali taevas ja loodi maa, ning kergitati üles pilved ja pandi need maa peale vihma sadama. See on tõesti Sinu armu märk kõikide oma olendite vastu.

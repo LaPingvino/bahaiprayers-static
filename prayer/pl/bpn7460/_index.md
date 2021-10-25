@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7460 in Polski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie! Pozwól wszystkim ludziom na ziemi osiągnąć wstęp do Raju Twojej Wiary, tak aby żadna stworzona istota nie pozostała poza granicami Twojego upodobania.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn596 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist der Barmherzige, der Allgütige!

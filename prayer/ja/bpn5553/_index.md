@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5553 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお全創造物の主よ、万物が向かうべき御方よ。あなたに誉ほまれあれ。私は、あなたが

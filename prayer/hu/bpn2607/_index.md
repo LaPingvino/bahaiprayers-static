@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2607 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *Elmondandó minden nap dél és napnyugta között

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9344 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ankalazaina Ianao, ry Tompo Andriamanitro ô! Mitalaho Aminao aho, noho ny Anaranao Lehibe Indrindra izay namelombelona ny mpanomponao sy nanangana ny tanànanao, noho ny Anaram-boninahitrao tsara indrindra sy ireo fiantsoana Anao Mendrika Indrindra, mba hanampy ny vahoakanao hampitodika ny lalany eny amin’ireo fahasoavanao tsy tambo isaina, hampitràka ny endriny eny amin’ny tabernakelin’ny Fahendrenao. Sitrano ny aretina izay mamely ny fanahy hatraiza hatraiza sy nisakana azy hampihodina ny fijeriny any amin’ny Paradisa miorina eo amin’ny aloky ny Anaranao Mpiaro izay nodidinao ho Mpanjakan’ny Anarana rehetra ho an’ny mponina any an-danitra sy ety an-tany. Manam-pahefana hanao izay sitrakao Ianao. Eo am-pelatananao no misy ny fanapahan’ny anarana rehetra. Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Mahery, Ilay Hendry.

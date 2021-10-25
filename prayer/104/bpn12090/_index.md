@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12090 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Terpujilah Engkau, Ya Tuhanku! Engkau mendengar kekasih-Mu yang sejati meratap dalam perpisahan mereka daripada-Mu, dan mereka yang telah mengenali Engkau sedang menangis kerana kejauhan mereka daripada kehadiran-Mu. Bukakanlah ke hadapan wajah mereka, Ya Tuhanku, pintu gerbang kurnia-Mu, agar mereka dapat memasukinya dengan kebenaran daripada-Mu dan sesuai dengan kehendak-Mu, dan memahami loghat suara-Mu, dan diterangi dengan sinaran cahaya wajah-Mu.

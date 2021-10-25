@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9099 in Alaska Native'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Short Healing Prayer

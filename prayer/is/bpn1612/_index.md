@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1612 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn! Hjá Þér leita ég athvarfs og sný hjarta mínu í átt til allra tákna Þinna.

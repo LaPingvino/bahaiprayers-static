@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7620 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Glwa pou Ou, O Senyè tout mond la e Dezi tout nasyon yo, O Ou menm Ki te vin manifeste nan Pi Gran Non an, kote bijou sajès ak pawòl yo te parèt nan koki ki soti nan gran lanmè konesans Ou an, epi syèl revelasyon diven an te vin bèl lè limyè vizaj Ou te parèt tankou yon solèy.

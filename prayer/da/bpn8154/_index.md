@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8154 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O Du uforlignelige Gud! O Du Kongerigets Herre! Disse sjæle er Din himmelske hær. Støt dem og gør dem sejrrige ved hjælp af den højeste forsamlings styrker, at enhver af dem kan blive som et regiment og erobre disse lande ved Guds kærlighed og oplysningen fra guddommelig lære.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11000 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-96', 'bpn-unsorted']
 +++
 ఓ నా దేవా! దుష్కృతాలను క్షమించేవాడివీ, బహుమతులను అనుగ్రహించేవాడివీ, వ్యధలను నివారించేవాడివీ అయిన ఓ దేవా!

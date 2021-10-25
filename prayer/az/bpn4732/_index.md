@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4732 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 O, Qüdrətli, Əfv Edən və Şəfqətlidir! Ey Allah, mənim Allahım! Sən bəndələrinin azğınlıq və xəta çölündə sərgərdan qaldığını görürsən; haradadır Sənin hidayətinin nuru, Sən, Ey aləmin Məqsudu? Sən onların acız və köməksiz olduğunu görürsən; haradadır Sənin qüdrətin, Sən Ey göyün və yerin qüvvələrini ovcunda Saxlayan?

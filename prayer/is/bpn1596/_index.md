@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1596 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð minn! Ó Guð minn! Dýrð sé Þér fyrir að hafa gefið mér staðfestu til að viðurkenna einingu Þína, laðað mig að orði einstakleika Þíns, upptendrað mig með eldi ástar Þinnar og látið mig festa hugann við minningu Þína og þjónustu við vini Þína og þjónustumeyjar.

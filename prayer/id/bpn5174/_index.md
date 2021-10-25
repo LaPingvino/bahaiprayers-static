@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5174 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *[Doa ini dapat dibaca pada penutup Pertemuan]

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10973 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E maluga silisili a Koe, O toku Aliki alofa atafai!

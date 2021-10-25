@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10758 in Srpski српски'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 O moj Bože, moj Učitelju, Odredištu za kojim žudim! Ovaj Tvoj sluga čezne da zaspi u skloništu Tvoje milosti, i da otpočine ispod baldahina Tvoje božanske dobrote, preklinjući Te da se o njemu brineš i da ga zaštitiš.

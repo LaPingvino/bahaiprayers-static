@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1770 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrð sé Þér, ó Drottinn Guð minn! Þetta eru þeir dagar er Þú hefur boðið öllum mönnum að halda föstuna svo þeir megi með henni hreinsa sálir sínar og leysast úr viðjum alls nema Þín og úr hjörtum þeirra megi það stíga upp sem er verðugt forgarði tignar Þinnar og sæmir aðsetri opin­berunar einleika Þíns. Gef, ó Drottinn minn, að þessi fasta megi verða elfur lífgefandi vatns og gefi af sér dyggðina sem Þú hefur gætt hana. Hreinsa Þú með fulltingi hennar hjörtu þjóna Þinna, sem mein­semdir þessa heims hafa ekki megnað að snúa frá aldýrlegu nafni Þínu og ekki hafa látið truflast af háreysti og uppnámi þeirra sem höfnuðu dýrlegustu táknum Þínum, er fylgdu komu opin­beranda Þíns, Honum sem Þú fékkst í hendur yfirráð Þín, vald, tign og dýrð. Þetta eru þeir þjónar sem flýttu sér í átt til náðar Þinnar jafnskjótt og kall Þitt barst þeim til eyrna og létu ekki hver fulleika heimsins né nokkrar mannlegar tak­mark­anir koma á milli sín og Þín.

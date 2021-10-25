@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8532 in 简体中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的主啊！我向祢寻求庇护，对祢的一切征象全神贯注。

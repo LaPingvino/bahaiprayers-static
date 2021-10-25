@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1166 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Provedor! Sopraste sobre os amigos no Ocidente a doce fragrância do Espírito Santo e, com a luz da guia divina, iluminaste o céu ocidental. Fizeste com que os outrora remotos se aproximassem de Ti próprio; transformaste estranhos em afetuosos amigos; despertaste aqueles que dormiam; tornaste atentos os negligentes.

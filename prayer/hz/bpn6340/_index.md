@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6340 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Hompa Karunga! Hompa Karunga! Esi sidira sevava lyokuremana, ano kutuka kwaso maranga, si vatera si vhure kutuka dogoro kondaga-ndaga zouwa nezoworo, mavava mokutuka kwaso noruhafo nerago mokuteremba meguru, zerura ukaro waso kondaga-ndaga medina Lyoge moyirongo nayinye, hafesamatwi nezwi, zeresa meho mokukutara kepitisiro!

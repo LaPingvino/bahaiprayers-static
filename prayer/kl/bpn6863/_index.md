@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6863 in Kalaallisut'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *Refresh and gladden my spirit...

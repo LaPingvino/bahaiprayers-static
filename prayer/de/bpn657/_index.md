@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn657 in Deutsch'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verordne für mich, o mein Herr, und für die, so an Dich glauben, was nach Deinem Urteil das Beste für uns ist, wie es im Mutterbuch geschrieben steht; denn mit fester Hand hältst Du das allen Dingen bestimmte Maß.

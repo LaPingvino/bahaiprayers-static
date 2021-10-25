@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1714 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð. Minning Þín er unaður sálna allra þeirra er þrá Þig. Nafn Þitt vekur fögnuð í hjörtum þeirra sem eru heilshugar helgaðir vilja Þínum. Lof til Þín er hjartfólgið þeim sem hafa laðast að aðsetri Þínu. Ásýnd Þína þrá þeir heitt og innilega, sem hafa borið kennsl á sannleik Þinn. Prófraunir Þínar græða meinsemdir þeirra sem hafa viðurkennt málstað Þinn. Þrengingar Þínar þrá þeir heitast sem engum vilja fylgja nema Þér!

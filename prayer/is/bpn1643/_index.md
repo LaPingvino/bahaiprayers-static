@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1643 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrlegur ert Þú, ó Drottinn Guð minn! Sér­hver maður sem gæddur er innsæi viðurkennir yfir­ráð Þín og vald og sérhvert skilningsríkt auga skynjar mikilleika tignar Þinnar og knýjandi vald máttar Þíns. Vindar prófrauna geta ekki aftrað þeim sem njóta návista við Þig að beina augum að sjónarhring dýrðar Þinnar og stormar mótlætis hnika þeim ekki úr stað, sem eru fullkomlega helgaðir vilja Þínum né varna þeim að nálgast forgarð Þinn.

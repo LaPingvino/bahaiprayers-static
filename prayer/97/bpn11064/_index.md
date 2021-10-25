@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11064 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-97', 'bpn-unsorted']
 +++
 હે મારા નાથ ! હે મારા સ્વામી !   

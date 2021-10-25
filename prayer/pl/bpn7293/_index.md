@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7293 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O mój Boże! O mój Boże! Zaprawdę, wzywam Cię i błagam u Twego progu, prosząc Cię, aby wszystkie Twoje łaski mogły zstąpić na te dusze. Przeznacz je łasce Twej i prawdzie Twej.

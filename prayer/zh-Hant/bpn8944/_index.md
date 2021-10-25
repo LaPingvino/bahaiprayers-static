@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8944 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 習讀聖航者書簡，你將認知真理，深思神聖美尊預見的未來事件。讓明悟者警惕。

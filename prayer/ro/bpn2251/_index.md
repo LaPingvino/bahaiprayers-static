@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2251 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne Dumnezeul meu! Bunăvoinţa Ta mi-a dat curaj şi dreptatea Ta m-a umplut de spaimă. Fericit e omul pe care l-ai înzestrat cu bunăvoinţa Ta şi vai de cel ce primeşte dreptatea Ta.

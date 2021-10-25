@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1705 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð minn, meistari minn, takmark þrár minn­ar! Þessi þjónn Þinn óskar þess að sofa í skjóli miskunnar Þinnar og hvílast undir tjaldhimni náðar Þinnar. Hann biður um umönnun Þína og vernd.

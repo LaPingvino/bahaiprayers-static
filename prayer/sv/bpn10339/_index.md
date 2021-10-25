@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10339 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Ärad vare Du, o min Gud! Vore det icke för vedermödorna som uthärdas på Din stig, hur skulle de som verkligen älskar Dig kunna kännas igen? Och vore det ej för prövningarna som bäres av kärlek till Dig, hur skulle ställningen hos sådana som längtar efter Dig kunna uppenbaras! Din makt är mitt vittne! Följeslagarna till alla dem som dyrkar Dig är tårarna de fäller, och trösten för sådana som söker Dig är suckarna de utstöter, och födan för dem som skyndar att möta Dig är spillrorna av deras brustna hjärtan.

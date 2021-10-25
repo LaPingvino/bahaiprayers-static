@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3219 in Afrikaans'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 ##MIDDELBARE VERPLIGTE GEBEDE

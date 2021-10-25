@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7758 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Senyè! Fè timoun sa yo vin tankou bèl flè yo. Pèmèt yo pouse ak devlope nan Jaden Alyans Ou an, epi fè yo fre e bèl avèk gwo lapli ki soti nan nyaj Wayòm Abhá a.

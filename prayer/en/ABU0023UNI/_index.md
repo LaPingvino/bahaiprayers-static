@@ -1,6 +1,6 @@
 +++
 title = 'Prayer ABU0023UNI in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'ABU0023UNI']
 +++
 O my God!  O my God!  Verily, I invoke Thee and supplicate before Thy threshold, asking Thee that all Thy mercies may descend upon these souls.  Specialize them for Thy favor and Thy truth.

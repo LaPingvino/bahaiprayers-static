@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8766 in العربية'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ar', 'bpn-unsorted']
 +++
 هو الابهی

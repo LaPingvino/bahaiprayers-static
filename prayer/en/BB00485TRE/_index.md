@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BB00485TRE in English'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-en', 'BB00485TRE']
 +++
 I am aware, O Lord, that my trespasses have covered my face with shame in Thy presence, and have burdened my back before Thee, have intervened between me and Thy beauteous countenance, have compassed me from every direction and have hindered me on all sides from gaining access unto the revelations of Thy celestial power.

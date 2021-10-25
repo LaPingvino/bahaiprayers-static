@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11789 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Iyoh leh Topa, bigatung ayuh leh Iyoh, Raja perinduk – bitulut bait bia dek pingungin! 

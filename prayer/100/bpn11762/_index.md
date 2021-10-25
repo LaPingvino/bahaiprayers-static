@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11762 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 ##Rānar haifuwar Baha’u’llah (aminci ya tabbata a garēshi)

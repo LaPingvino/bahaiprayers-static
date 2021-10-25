@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2270 in România'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Dumnezeule! O, Dumnezeule! Tu vezi slăbiciunea mea, smerenia şi umilinţa mea înaintea creaturilor Tale. Cu toate acestea, am avut încredere în Tine şi m-am ridicat pentru promovarea învăţăturilor Tale între slujitorii Tăi puternici, bizuindu-mă pe puterea şi tăria Ta.

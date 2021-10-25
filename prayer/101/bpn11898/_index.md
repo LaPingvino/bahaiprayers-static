@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11898 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Takar Ponu Sok Boli)

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10912 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *(O te tino te la e saala ki te Mea Tonu! Kafaie manako koe ko te Atua ke fakapula ne Ia ou mata, e tau mo koe o ifo ma talo atu kit e Atua, talo kae sautala fakatasi mo Ia I te valuapo, penei:}

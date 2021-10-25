@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9326 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ataoko ahoana no hisafidy ny hatory, ry Andriamanitra, ry Andriamanitro ô, raha toa ny mason’ireo izay maniry Anao tonga saina nohon’ny fisarahana Aminao; ary ataoka ahoana no mba hiala sasatra, nefa ny fanahin’ireo izay tia Anao dia mangahiahy noho ny fanalavitana ny Fanatrehanao?

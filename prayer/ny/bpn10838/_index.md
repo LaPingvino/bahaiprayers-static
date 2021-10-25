@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10838 in Chichewa'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ny', 'bpn-unsorted']
 +++
 O Mulungu wanga! O Inu wokhululukira machimo, Wopereka mphatso, Wochotsa masautso! 

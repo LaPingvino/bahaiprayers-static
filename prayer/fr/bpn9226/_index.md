@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9226 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, notre Seigneur, par ta grâce, protègenous de ce qui te répugne et octroie-nous ce qui te sied. Donne-nous une part plus grande de ta bonté et accorde-nous ta bénédiction. Pardonne nos actes, lave nos péchés et, en ta bienveillante clémence, sois indulgent envers nous. En vérité, tu es le Suprême, l’Absolu.

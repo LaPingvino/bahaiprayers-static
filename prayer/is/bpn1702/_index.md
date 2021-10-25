@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1702 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð! Ó Guð! Þetta er vængbrotinn fugl og flugi hans miðar lítt. Aðstoða hann svo hann geti flogið upp á hátind velmegunar og frelsunar, þreytt flug sitt í fögnuði og sælu um allan hinn endalausa geim, hafið upp söng sinn í Þínu æðsta nafni í hverju héraði, glatt eyrun með þessu kalli og uppljómað augun með táknum leiðsagnar!

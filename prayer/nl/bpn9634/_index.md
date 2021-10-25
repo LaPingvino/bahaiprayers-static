@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9634 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Verheerlijkt zij Uw Naam, o Heer! Tot wie zal ik mijn toevlucht nemen terwijl Gij in waarheid mijn God en mijn beminde zijt; bij wie zal ik beschutting zoeken terwijl Gij mijn Heer en mijn bezitter zijt; naar wie zal ik vluchten terwijl Gij in waarheid mijn meester en mijn toevluchtsoord zijt; tot wie zal ik smeken terwijl Gij in waarheid mijn schat en het doel van mijn verlangen zijt; en door wie zal ik bij U pleiten terwijl Gij in waarheid mijn hoogste streven en grootste verlangen zijt? Alle hoop is weggevaagd, slechts het verlangen naar Uw hemelse genade blijft bestaan, en iedere deur is vergrendeld behalve de poort die leidt naar de bron van Uw zegeningen.

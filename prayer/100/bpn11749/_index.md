@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11749 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Allāna! Yā kai mai gafarta zunubi, mai saukar da ni’ima, mai kaudar da matsalōli. Lalle nē, ina rōƙon jin-ƙanka, ga waɗanda suka huta daga gangar jikinsu, kuma su ka nufi samāniya wajen makōmar rūhu.

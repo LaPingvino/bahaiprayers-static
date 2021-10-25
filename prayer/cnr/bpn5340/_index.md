@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5340 in Montenegrin'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cnr', 'bpn-unsorted']
 +++
 O moj Bože, Učitelju moj, Odredištu za kojim žudim! Ovaj Tvoj sluga čezne da zaspi u skloništu tvoga milosrđa, i da otpočine pod baldahinom Tvoje milosti, preklinjući Te da se o njemu brineš i da ga štitiš.

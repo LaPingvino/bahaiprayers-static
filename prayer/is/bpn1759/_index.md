@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1759 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Í nafni Guðs, Drottins yfirþyrmandi tignar, hins alknýjandi.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7541 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Kuinka voin nukkua, oi Jumala, minun Jumalani, kun Sinua kaipaavien silmät valvovat sen tähden, että ovat erossa Sinusta, ja kuinka voin asettua levolle, kun Sinua rakastavien sielut ovat tuskaisat ollessaan etäällä Sinusta? 

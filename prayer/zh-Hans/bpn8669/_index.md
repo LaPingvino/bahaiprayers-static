@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8669 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 此书简在巴哈欧拉和巴孛的陵殿前吟诵用。也常作为祂们周年纪念的祷文。

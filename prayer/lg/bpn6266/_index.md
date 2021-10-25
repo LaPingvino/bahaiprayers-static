@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6266 in Luganda'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 *"Alina omukisa oyo, aiukira bazadde be, bwaba nga asaba Katonda we". - The Bab

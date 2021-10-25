@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10147 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O thou hyacinth which hast sprung up beside the heavenly stream!

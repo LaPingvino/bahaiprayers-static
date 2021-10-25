@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5279 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 *‚ Ko god ustane na ovaj Dan da pomogne našoj Vjeri i u pomoć pozove vojske dobrih i pravednih ljudi, uticaj koji proističe iz tog čina će se proširiti cijelim svijetom.‛ –Bahá’u’lláh

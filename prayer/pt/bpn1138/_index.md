@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1138 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Senhor, meu Deus e meu Amparo na aflição! Meu Escudo e meu Abrigo nas tribulações! Meu Asilo e Refúgio em tempo de necessidade e, na solidão, meu Companheiro! Na angústia, meu Consolo; na minha solitude, um Amigo afetuoso! Aquele que remove as dores pungentes dos meus desgostos e perdoa os meus pecados!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10456 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 *(E wawarekaki te Tabureti aio i Bangotaia Bahá’u’lláh ao te Báb. E kakabonganaki naba n Aia bong ni kauring.)  

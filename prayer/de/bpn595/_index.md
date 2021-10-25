@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn595 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Zerstreue meinen Kummer durch Deine Güte und Großmut, o Gott, mein Gott, und banne meinen Schmerz durch Deine höchste Herrschaft und Deine Macht. Du siehst o mein Gott, wie ich Dir mein Angesicht zuwende zu einer Zeit, da Sorgen mich von allen Seiten umgeben. Ich flehe Dich an, o Du, der Du der Herr allen Seins bist und alles Sichtbare und Unsichtbare überschattest, bei Deinem Namen, durch den Du die Herzen und Seelen der Menschen beherrschest, bei den Meereswogen Deines Erbarmens und dem Sonnenglanze Deiner Großmut, zähle mich zu denen, die nichts hindern konnte, ihr Antlitz Dir zuzuwenden, Du Herr aller Namen und Schöpfer der Himmel!

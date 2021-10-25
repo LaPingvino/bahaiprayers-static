@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3600 in Norsk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 *"Bahá'í ekteskap er forening og inderlig hengivenhet mellom de to ter. De må imidlertid utvise den største omhu og lære hverandres karakter å kjenne. Dette evige bånd bør stadfestes av en fast pakt, og hensikten bør være å frembringe harmoni, vennskap og enhet og å oppnå evig liv." - Abdu'l-Bahá -Ekteskapsløftet - de ord som skal sies av bruden og brudgommen enkeltvis i nærvær av minst to vitner godkjent av det Lokale Råd -er, som foreskrevet i "Ki-i-Aqdas" ("Den Helligste Bok"): "Sannelig, vi vil alle holde fast ved Guds vilje."

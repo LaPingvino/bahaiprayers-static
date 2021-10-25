@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn616 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Preis sei Dir, o Herr mein Gott! Du siehst und weißt, ich habe Deinen Dienern geboten, dass sie sich nirgendwo hinwenden als zu Deinen Gaben, und habe ihnen befohlen, nichts zu beachten, als was Du in Deinem deutlichen Buche bestimmtest, dem Buche, das nach Deinem unergründlichen Ratschluss und Deiner unwiderruflichen Absicht herniedergesandt ist.

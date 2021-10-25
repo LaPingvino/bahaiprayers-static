@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9185 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, mon Dieu, ta servante t’invoque, plaçant sa confiance en toi et tournant son visage vers toi. Elle t’implore de répandre sur elle tes célestes bienfaits, de lui révéler tes mystères spirituels et de diriger vers elle les lumières de ta divinité.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12139 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Dimuliakanlah Engkau, Ya Raja dunia dan Hasrat segala bangsa, Ya Engkau Yang telah dijelmakan dalam Nama Teragung, melaluinya mutiara-mutiara kearifan dan ujaran telah muncul daripada kerang-kerangan dari samudera kebesaran pengetahuan-Mu, dan syurga-syurga revelasi ketuhanan telah dihiasi cahaya kemunculan suria wajah-Mu.

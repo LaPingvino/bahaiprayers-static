@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5246 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Sva hvala, O moj Bože, pripada Tebi Koji si Izvor sve slave i veličanstva, veličine i časti, vrhovnosti i vlasti, uzvišenosti i milosti, strahopoštovanja i moći. Ti biraš koga ćeš privući Najvećem Okeanu, a onome koga Ti odabereš daruješ čast prepoznavanja Tvog Najdrevnijeg Imena. Niko na nebu ni na zemlji ne može odoljeti dejstvu Tvoje nadmoćne Volje. Oduvijek si vladao nad svime i zauvijek ćeš imati vlast nad svima koje si stvorio. Nema drugog Boga osim Tebe, Svemoćnog, Najuzvišenijeg, Svemogućeg, Najmudrijeg.

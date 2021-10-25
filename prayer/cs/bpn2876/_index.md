@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2876 in Česky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-cs', 'bpn-unsorted']
 +++
 Ó ty, jenž obracíš svou tvář k Bohu! Zavři oči před vším ostatním a otevři je říši Nadevše Slavného.

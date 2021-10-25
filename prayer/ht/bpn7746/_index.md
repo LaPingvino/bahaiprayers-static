@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7746 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye, Bondye tout Non yo, ak Kreyatè syèl yo! Mwen sipliye Ou avèk Non Ou te sèvi pou fè Sous pisans Ou ak Douvanjou pouvwa Ou parèt, Non Ou te sèvi pou fè tout bagay solid tounen likid e koule, pou fè chak kadav jwenn lavi, e pou fè chak lespri ki an mouvman jwenn fidelite - mwen sipliye Ou pou pèmèt mwen elimine nan mwen menm tout atachman ak tout moun, pou mwen atache sèlman ak Ou menm, e pou mwen sèvi Koz Ou a, epi vle sa Ou te vle avèk pouvwa otorite Ou, e pou mwen akonpli sa ki mache avèk bon plezi volonte Ou. 

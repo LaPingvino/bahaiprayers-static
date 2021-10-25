@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn472 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Herr! Lass diese Kinder zu prachtvollen Pflanzen werden. Lass sie wachsen und gedeihen im Garten Deines Bundes. Verleihe ihnen Frische und Schönheit durch die Wasser aus den Wolken des Reiches Abhá.

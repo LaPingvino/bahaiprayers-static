@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6429 in Cymraeg'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 Gogoniant fyddo i Ti, O Dduw, am Dy amlygiad o gariad i ddynolryw!  O Dydi yr Hwn wyt Fywyd a Goleuni i ni, tywys Dy weision yn Dy ffordd, a chyfoethoga ni ynot Ti, a rhyddhâ ni oddi wrth bopeth ond Tydi.

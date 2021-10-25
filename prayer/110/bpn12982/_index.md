@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12982 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 *PRAYER FOR YOUTH (FEAST OF ASMA, 20 AUGUST 2000) 

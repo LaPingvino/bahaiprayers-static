@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11767 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *Obuah nai taluh sidoh, sipagi, uunt onu, bia onu ngumi.

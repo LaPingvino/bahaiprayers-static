@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6287 in Luganda'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Malawo obuyinike bwange kulw'ekisa Kyo n'obugabi Bwo, Ayi Katonda wange, era ogyirewo ddala okulumwa obujjiji, kulw'obuyinza Bwo, n'amaanyi Go.  Ggwe ondabira ddala Ayi Katonda wange, nga amaaso gange ngatunuzza Gyoli, mu kaseera kano, nga obuyinike bunetoolodde ku buli luuyi.  Nkwegayirira, Ayi Ggwe Mukama ow'ebintu byonna, era Asinga ebintu byonna, ebirabika n'ebitalabika, kulw'erinya Lyo mwewafugira emitima n'emyoyo gy'abantu bonna, era n'amayengo g'ennyanja y'okusaasira Kwo, n'ekitiibwa ky'emunnyenye ey'ekisa Kyo, ombalire mwabo abataziyizibwa kintu kyonna okukyusiza obwenyi bwabwe Gyoli, Ayi Ggwe Mukama ow'amanya gonna Eyakola eggulu.

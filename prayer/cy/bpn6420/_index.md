@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6420 in Cymraeg'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 O fy Nuw, mae gwrthrych Dy ymddiriedaeth wedi ei ddychwelyd atat. Mae'n gweddu i Dy ras a Dy gyfoeth,

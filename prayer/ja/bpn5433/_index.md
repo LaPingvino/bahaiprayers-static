@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5433 in 日本語'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おおわが神よ、御力により懇願いたします。試練の時、いかなる害悪も私を包囲する

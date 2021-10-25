@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7241 in ελληνικά'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 Μάθε καλά την πινακίδα αυτή, ω Αχµάντ. Ψάλλε την στις µέρες σου και µην την στερείσαι.

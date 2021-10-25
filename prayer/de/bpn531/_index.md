@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn531 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Ruhm sei Dir, o mein Gott! Du lässt die, welche Dich inbrünstig lieben, wehklagen ob ihrer Trennung von Dir, und jene, die Dich erkennen, jammern über ihre Ferne von Deiner Gegenwart. Stoße vor ihren Angesichtern die Tore Deiner Gnade auf, o mein Herr, damit sie mit Deiner Erlaubnis und nach Deinem Willen eintreten, vor dem Thron Deiner Majestät stehen, Deine Stimme in all ihren Nuancen vernehmen und erleuchtet werden vom Lichtglanz Deines Antlitzes.

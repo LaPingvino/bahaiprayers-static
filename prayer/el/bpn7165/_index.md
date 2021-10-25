@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7165 in ελληνικά'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 Αυτός είναι ο Θεός, ο Οποίος ακούει και απαντά στις προσευχές!

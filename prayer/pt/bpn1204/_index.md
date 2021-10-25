@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1204 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Senhor do visível e do invisível, e Luz de toda a criação! Suplico-Te, pela Tua soberania, velada dos olhos dos homens, que reveles em toda parte os sinais das Tuas múltiplas bênçãos e da Tua benevolência, para que eu me possa levantar com regozijo e êxtase, elogiando as Tuas maravilhosas virtudes, ó Tu, o Mais Misericordioso, e comovendo, em Teu nome, todas as coisas criadas, a tal ponto acendendo o fogo da Tua glorificação entre as Tuas criaturas que o mundo inteiro se torne pleno da esplendorosa luz da Tua glória e toda a existência incandesça com o ardor da Tua Causa.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4692 in Azərbaycan'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ey Rəbbim, mənim Allahım! Yalvarıram Sənə, məni və Sənin Əmrinə kömək edənləri bağışla. Həqiqətən, Sən hökmran Allahsan, Bağışlayan və Ən Səxavətlisən. Ey mənim Allahım! Bixəbər qalmış bəndələrini Öz Əmrinə daxil olmağa qabil eylə; çünki onlar Sənin haqqında bilən kimi, Qiyamət Gününün doğruluğuna şəhadət verər və Sənin fəzlinin təzahürləri ilə mübahisə etməzlər. Onlara Sənin fəzlinin nişanələrini nazil eylə və Sənin bəndələrin arasında ən möminlərinə müəyyən etdiyindən onlara, harada yaşasalar da, bol pay əta eylə. Sən, həqiqətən, Ali Hökmran, Ən Kəramətli və Ən Comərdsən.

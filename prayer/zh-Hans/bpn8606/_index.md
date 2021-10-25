@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8606 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 当你们进入会议室时，以热爱上帝的激情，除感谢上帝外，摒除一切杂念，以纯净之舌吟诵这篇祷文，全能上帝将惠赐神恩，助你成就至高的胜利。

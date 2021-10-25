@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6862 in हिंदी'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hi', 'bpn-unsorted']
 +++
 ##अग्नि पाती

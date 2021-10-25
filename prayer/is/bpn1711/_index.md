@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1711 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Lofaður sért Þú, ó Drottinn, Guð minn! Í hvert sinn sem ég reyni að nefna Þig, er mér varnað máls vegna upphafningar stöðu Þinnar og yfir­þyrm­andi mikilleika máttar Þíns. Þótt ég lofaði Þig um alla víðáttu ríkis Þíns jafn lengi og yfirráð Þín vara, kæmist ég að raun um að lofgjörð mín til Þín hæfði aðeins þeim sem líkjast mér, eru sjálfir skepnur Þínar sem hafa orðið til fyrir vald ákvörð­unar Þinnar og verið mótaðir af mætti vilja Þíns.

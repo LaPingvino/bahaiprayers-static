@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12897 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O mój życzliwy Panie, o Ty, pragnienie duszy i serca mego! Obdarz swych przyjaciół miłościwą dobrocią i udziel im swego niezawodnego miłosierdzia. Bądź pociechą dla swych żarliwych miłośników i przyjacielem, pocieszycielem i miłującym towarzyszem dla tych, którzy za Tobą tęsknią. Ich serca rozpalił ogień Twojej miłości, a ich dusze ogarnął płomień oddania Tobie. Pragną oni wszyscy pospieszyć do ołtarza miłości, aby ochoczo oddać swoje życie.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11832 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa, Topa ku! Oku mitia mujok Ingan pakai laut piminien Ingan, bia pakai timogah ayuh Bitang Singonu Ingan dek bibudi, bia pakai Adon Ingan sok inoh Ingan nguwasa ulunt-ulunt Ingan, bia pakai kuasa bisorap Bang Sina paling simomu Ingan, bia pakai nyiet ngasi Pen paling luhur Ingan, bia pakai pirasie Ingan dek siluang nyaa dek ogi obuah nai ndu daang surga bia ndu tanak, odak kisig oku pakai pi’in pingungin Ingan dek sok sua-sua pinusah duoh kusut birusah, bia sok sua onam tiboie duoh doie otak gaya. 

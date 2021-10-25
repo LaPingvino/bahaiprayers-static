@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1613 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð, Guð minn! Þú ert von mín og ástvinur, æðsta þrá mín og takmark! Af mikilli auð­mýkt og algjörri helgun bið ég til Þín að gera mig að bænaturni ástar Þinnar í landi Þínu, lampa þekkingar Þinnar meðal skepna Þinna og fána guðlegs örlætis í ríki Þínu.

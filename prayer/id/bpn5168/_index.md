@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5168 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Diluhurkanlah nama-Mu, Ya Rabi Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang melalui- Nya Saatnya telah tiba, dan Hari Kebangkitan telah datang, dan ketakutan dan gemetar meliputi semua yang ada di bumi, agar menghujani dari langit rahmat- Mu dan awan-awan kasih sayang-Mu yang mesra, apa yang akan menggembirakan kalbu-kalbu mereka yang telah menghadap ke-pada-Mu dan membantu Agama- Mu.

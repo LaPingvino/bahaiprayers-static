@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5201 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Aku memohon kepada-Mu, ya Engkau Pembentuk bangsa-bangsa dan Raja keabadian, untuk menjaga hamba-hamba wanita-Mu dalam kemah Ifat dan Ismat, dan agar membatalkan perbuatan-perbuatan mereka yang tak layak bagi hari-hari-Mu. Maka hilangkanlah dari mereka, ya Tuhanku, se-gala keraguan dan khayalan-khayalan kosong, dan sucikanlah mereka dari apa pun yang tidak patut bagi hubungan mereka dengan-Mu, ya Engkau Raja segala nama dan Sumber ucapan. Engkau adalah Dia yang dalam genggaman- Nya terletak kendali seluruh ciptaan. Tiada Tuhan kecuali Engkau, Yang Maha Kuasa, Yang Maha Luhur, Yang Maha Mulia, Yang Berdiri Sendiri.

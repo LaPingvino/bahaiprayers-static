@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5794 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Lloat sigui el teu Nom, oh Déu meu! T’imploro per les fragàncies de la vestidura de gràcia que pel Teu mandat i en conformitat amb el Teu desig foren difosos per tota la creació, i pel sol de la Teva voluntat, que he resplendit mitjançant la força del Teu poder i sobirania sobre l’horitzó de la Teva misericòrdia, que esborris del meu cor tota ociosa fantasia i vana imaginació, per a que amb tot el meu afecte em giri cap a Tu,oh Tu, Senyor de tota la humanitat.

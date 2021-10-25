@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6372 in Cymraeg'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 Gwynfydedig yw’r llecyn, a’r tŷ  a’r fangre, a’r ddinas, a’r galon, a’r mynydd, a’r noddfa, a’r ogof, a’r dyffryn, a’r tir, a’r môr, a’r ynys, a’r ddôl lle bu sôn am Dduw ac y gogoneddwyd ei glod.

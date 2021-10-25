@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5035 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, biết bao tâm hồn băng giá đã được nung nấu bởi lửa Chánh Đạo Ngài và biết bao tinh thần mê ngủ đã được đánh thức bởi âm sắc dịu ngọt của giọng nói Ngài! Trong những Ngày này là những Ngày của Ngài, biết bao kẻ mới đến đã tìm kiếm sự ẩn náu dưới bóng Thống nhất của Ngài và biết bao kẻ khát khao đã khổ công dò tìm giếng nước hồi sinh của Ngài.

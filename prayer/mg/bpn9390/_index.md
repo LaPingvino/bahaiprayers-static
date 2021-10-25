@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9390 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitra ô! Andriamanitro! Hitanao ny fahalemeko, ny fanadinoako ny tenako sy ny fanetren-tenako eo amin’ireo voaharinao, nefa napetrako Taminao ny fahatokiako ary mahatoky ny Fahefanao sy ny Herinao nitsangana aho mba hampiroborobo ny Fampianaranao eo amin’ireo mpanomponao tapa-kevitra.

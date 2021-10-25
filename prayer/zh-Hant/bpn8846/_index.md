@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8846 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 我所仰慕而熱愛的上帝啊！我見證祢的同一與唯一，感謝祢古往今來的贈禮。祢是滿懷萬恩者，祢將恩典的雨露普降眾人，無分貴賤尊卑；祢以同樣恩典的燦爛光輝，照耀那些服膺或反叛的人。

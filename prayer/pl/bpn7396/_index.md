@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7396 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Bogiem!

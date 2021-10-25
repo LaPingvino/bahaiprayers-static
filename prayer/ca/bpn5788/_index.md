@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5788 in Català'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Lloat sigui el Teu Nom, oh Senyor nostre Déu! Tu ets, en veritat el Coneixedor de coses invisibles. Ordena per a nosaltres tot el bé que el Teu coneixement que tot ho abraça pugui concebre. Tu ets el Senyor Sobirà, el Tot Poderós, el Més Estimat.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7818 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Lode sia a Te, o mio Dio! Sono uno dei Tuoi servi che ha creduto in Te e nei Tuoi segni. Vedi che mi sono avviato verso la porta della Tua misericordia e ho volto il viso in direzione della Tua amorosa gentilezza. T’im-ploro, per i Tuoi più eccellenti titoli e per i Tuoi più eccelsi attributi, di aprire dinanzi a me le porte delle Tue elargizioni. Aiutami, dunque, a fare quello che è bene, o Tu Che sei il Possessore di tutti i nomi e gli attributi.

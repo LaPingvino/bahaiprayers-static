@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1137 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Meu Senhor! Tu sabes que o género humano está cercado de pesares e calamidades, de aflições e desgostos. Toda a provação ataca o homem e toda a adversidade temível o assalta, como se fosse a investida de uma serpente. Não há abrigo ou asilo para ele salvo sob as asas da Tua proteção e custódia, do Teu cuidado e amparo.

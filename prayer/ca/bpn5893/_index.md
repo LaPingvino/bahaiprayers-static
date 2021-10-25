@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5893 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Lloança i glòria siguin per Tu, ho Senyor, Déu meu! Aquest és un selecte arbret que has plantat als prats del Teu amor i has criat amb els dits del Teu Senyoriu.

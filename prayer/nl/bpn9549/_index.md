@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9549 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij vriendelijke en liefhebbende Voorzienigheid! Het oosten is in beweging en het westen woelt als de eeuwige golven van de zee. De zachte bries van heiligheid verspreidt zich, en de stralen van de hemelbol van waarheid schijnen luisterrijk vanuit het ongeziene koninkrijk. De hymnen van goddelijke eenheid weerklinken en de vlaggen van hemelse macht wapperen. De engelenstem wordt aangeheven en roept als het gebulder van de leviathan op tot onbaatzuchtigheid en zelfuitwissing. De triomferende uitroep Yá Bahá’u’l-Abhá weerklinkt van alle kanten, en de roep Yá ‘Alíyyu’l-‘Alá  galmt door alle streken. Er beweegt niets in de wereld dan de glorie van de Betoveraar des harten, en buiten het aanzwellen van liefde voor Hem, de Onvergelijkelijke, de Welbeminde is er geen rumoer.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6079 in Sranan Tongo'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##WÖUTU FU GADU 

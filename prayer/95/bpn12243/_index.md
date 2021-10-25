@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12243 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Ko tavaeega katoa e io te Atua Tela ko ne leva ne Nofo-mai-i-Anamua loa tela ne kalagia a mea faiite katoa ke tu mai, i taimi tela e seai aka foki i Ou tafa vagana ko Koe.  A Ia ko te Tokotasi tela ko te Faka-Tumau-Katoatoa i taimi e seai lele loa se feitu e tasi o 

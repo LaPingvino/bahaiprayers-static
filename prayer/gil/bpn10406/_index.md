@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10406 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Atuau!  Atuau!  Nna kanga n rinea matuu ngkai a taratara mataia naake a mate ni kan Nooriko i bukin raureia ma Ngkoe ao Nna kanga ni wene ni motirawa ngkai a maraki n raraoma tamneia naake a Tangiriko i bukin Raroam mairouia?  

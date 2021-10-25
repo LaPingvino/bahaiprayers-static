@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6655 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 주님은 저를 보시옵나이다

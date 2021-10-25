@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3716 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Kõik kiitus olgu Sulle, oo mu Jumal, kes Sa oled kogu hiilguse ja majesteetlikkuse, suuruse ja au, ülemvõimu ja valitsuse, ülevuse ja armulisuse, aukartuse ja jõu Algallikas. Kel iganes Sa tahad, lased Sa läheneda oma Suurimale Ookeanile ning kellele iganes Sa soovid, osutad Sa au tunda oma Iidseimat Nime. Kõigist, kes on taevas ja maa peal, ei suuda keegi vastu seista Sinu sõltumatu tahte mõjule. Igavesest ajast oled Sa valitsenud kogu loodut ning säilitad igavesti oma ülemvalitsuse kõigi loodud asjade üle. Ei ole muud Jumalat kui Sina, Kõigevägevam, Ülevaim, Kõikvõimas, Kõiges Tark.

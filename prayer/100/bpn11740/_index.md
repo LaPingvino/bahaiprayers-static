@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11740 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Ya kai Allah, mafi kwatamci, yā kai Ubangijin tālikai! Rāyukan nan sū ne jāruman nan nāka na samāniya. Ka dāfa musu, yanda da taimakon malla’ikun samāniyarka, zā su ci nasara. Ka sā kōwane rai, ya ciyō kan wannan karkara, da ƙaunar Allah, kuma da hasken wa’azin Ubangiji. Yā Allah ! Ka zama kai nē madōgari da mataimaki a garēsu cikin hamāda, tudunnai kō fadama, ƙunci kō shāya, kō tēku, ka amince da su, don su sā a ji kiranka a cikin hikimarka da īkonka.

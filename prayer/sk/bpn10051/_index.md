@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10051 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Ty láskavý Pane! Celé ľudstvo si stvoril z rovnakej podstaty. Rozhodol si, že všetci budú náležať k rovnakému rodu. V Tvojej Svätej prítomnosti sú všetci Tvojimi služobníkmi a celé ľudstvo nachádza útočisko pod Tvojím svätostánkom. Všetci sa spolu zhromaždili pri Tvojom stole štedrosti. Všetkých rozjasňuje svetlo Tvojej prozreteľnosti.

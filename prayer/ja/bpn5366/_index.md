@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5366 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おおわが神よ、ご恩恵とご慈悲の神よ。あなたはご命令の言葉により全創造を生じさ

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7738 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Glwa pou Ou, O Bondye! Se Ou menm Bondye Ki te egziste anvan tout bagay, Ki ap egziste aprè tout bagay e Ki pral kontinye pi lontan pase tout bagay. Se Ou menm Bondye Ki konnen tout bagay, Ki gen otorite sou tout bagay. Se Ou menm Bondye Ki trete tout bagay avèk mizèrikòd, Ki jije ant tout bagay e Ki gen yon konesans ki anbrase tout bagay. Se Ou menm Bondye Senyè mwen, se Ou menm Ki konprann pozisyon mwen, se Ou menm Ki temwaye egzistans espirityèl ak materyèl mwen an. 

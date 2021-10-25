@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7505 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Kunnia olkoon Sinulle, oi Herra, minun Jumalani! Älä alenna sitä, jonka iankaikkisen yliherruutesi voimalla olet korottanut, äläkä loitonna kauas luotasi sitä, jonka olet suonut päästä ikuisuutesi pyhättöön. Hylkäätkö, oi Jumalani, sen, jota herraudellasi olet suojannut, ja torjutko, oi Kaivattuni, luotasi sen, jonka turvana olet ollut? Voitko alentaa sen, jonka olet ylentänyt, tai unohtaa sen, jonka teit kykeneväksi muistamaan Sinut?

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9438 in ಕನ್ನಡ'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kn', 'bpn-unsorted']
 +++
 ಈ ಪ್ರಾರ್ಥನೆಗಳನ್ನು ಹದಿನೈದು ವರ್ಷ ಮೇಲ್ಪಟ್ಟ ಬಹಾಯಿಗಳಗಾಗಿ ಉಪಯೋಗಿಸಬೇಕು.

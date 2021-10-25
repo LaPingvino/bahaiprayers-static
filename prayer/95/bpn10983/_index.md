@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10983 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *(Te Tapeleti tenei e faitau i Tanu o Bahá’u’lláh mo te Báb.  E faitaugina saale foki i fakamanatuga o te katoaaga o tausaga takitasi o La galo.)

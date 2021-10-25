@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13051 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-116', 'bpn-unsorted']
 +++
 Noho Natuna e!

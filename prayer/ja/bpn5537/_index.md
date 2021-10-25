@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5537 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 神の芳香ほうこうを伝え広める者は、毎朝この祈りを唱えよ。

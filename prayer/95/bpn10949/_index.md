@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10949 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atamai Kilo-Mao faka-te-lagi!

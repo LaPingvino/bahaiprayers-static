@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn491 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Fülle mir den Kelch völliger Loslösung, und umgeben von Deinen herrlichen Gaben, erfreue mich mit dem Wein der Liebe zu Dir. Feie mich gegen die Stürme der Leidenschaft und der Begierde und löse mich aus den Fesseln der niederen Welt. Ziehe mich verzückt hinan zu Deinem hehren Reich, und belebe mich im Kreise Deiner Mägde mit Deiner Heiligkeit Odem.

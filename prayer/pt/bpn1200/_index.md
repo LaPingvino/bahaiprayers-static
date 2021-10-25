@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1200 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glorificado és Tu, ó Senhor meu Deus! Em Teu supremo Paraíso, designaste para os Teus servos posições de tal honra que, se qualquer delas fosse revelada aos olhos dos homens, todos os que estão no céu e na terra ficariam estupefactos. Pelo Teu poder! Fossem os reis presenciar tão grande glória, eles, seguramente, livrar-se-iam dos seus domínios e adeririam àqueles dos seus súbditos que tivessem entrado na sombra da Tua imensurável mercê e procurado o abrigo do Teu nome todo-glorioso.

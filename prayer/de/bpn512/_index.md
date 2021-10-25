@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn512 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du barmherziger Gott! O Du, der Du mächtig und gewaltig bist! O Du allgütiger Vater! Diese Diener haben sich versammelt; sie wenden sich Dir zu und flehen an Deiner Schwelle im Verlangen nach Deinen unendlichen Gaben aus Deiner großen Verheißung. Sie haben nur ein Ziel: Dein Wohlgefallen; sie haben nur eine Absicht: den Dienst an der Menschenwelt.

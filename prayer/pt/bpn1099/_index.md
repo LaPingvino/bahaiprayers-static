@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1099 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Deus incomparável! Ó Tu, Senhor do Reino! Estas almas são o Teu exército celestial. Ajuda-as e, com as hostes da Assembleia Suprema, fá-las vitoriosas, para que cada uma delas se torne igual a um regimento e conquiste estes países através do amor de Deus e da iluminação dos ensinamentos divinos.

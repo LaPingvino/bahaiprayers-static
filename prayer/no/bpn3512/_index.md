@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3512 in Norsk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Du er den, o min Gud, ved hvis navn de syke blir helbredet, og de svakelige finner legedom, og de tørstende blir gitt å drikke, og de forpinte blir skjenket hvile, og de egensindige blir veiledet, og de fornedrede blir opphøyet, og de fattige blir beriket, og de uvitende blir opplyst, og de tungsindige fylles av lys, og de sørgmodige blir oppmuntret, og de kalde blir varmet, og de undertrykte blir oppreist. Ved ditt navn, o min Gud, ble alle skapte ting opplivet, og himmelen ble utspent, og jorden ble grunnfestet, og skyene ble hevet og bragt til å regne på jorden. Dette, i sannhet, er et tegn på din nåde mot alle dine skapninger.

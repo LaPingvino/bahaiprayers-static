@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6057 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Mukuru  wandje! ingwi omukarere  wOye na wina omuatje omuzandu ngwa kwatua iyomukarere wOye, eye wari  no ngamburiro  mOve no movitjitwa vyOye,  nambano eye eyengo meya kOve waitavera mOve tjinene mena ro kutja Oove  omunandjenda. 

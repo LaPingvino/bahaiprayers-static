@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1244 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glorificado és, ó Senhor meu Deus! Suplico-Te, pelos Teus Eleitos e pelos Portadores da Tua Verdade, e por Aquele que ordenaste fosse o Selo dos Teus Profetas e dos Teus Mensageiros, que faças da Tua lembrança, a minha companheira; do Teu amor, o meu objetivo e do Teu semblante, o meu alvo. Seja o Teu nome, a minha lâmpada; a Tua vontade, o meu desejo; a Tua aprovação, o meu deleite.

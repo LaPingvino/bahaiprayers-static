@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8586 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的上帝啊，我的主！我是祢的仆人，也是祢仆人之子。遵照祢所谕令的经典，祢唯一性的圣阳在祢意志的黎明中照耀，并且光耀人寰。此刻，我已在晨曦中起身。

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5482 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお真理の探究者よ。もし汝、開眼(かいがん)を神に願うならば、

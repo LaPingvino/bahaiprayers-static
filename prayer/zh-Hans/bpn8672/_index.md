@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8672 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 闰日，公历大约是二月二十五日至三月一日之间的四或五天，为准备斋戒、款待宾客、乐善好施及互赠礼物的时期。

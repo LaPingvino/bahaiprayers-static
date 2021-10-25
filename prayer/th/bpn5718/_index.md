@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5718 in ภาษาไทย'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-th', 'bpn-unsorted']
 +++
 *(เที่ยงคืน)

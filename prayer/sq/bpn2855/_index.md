@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2855 in Shqip'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 *Festa e Ridván-it [Rizvan], 21 prill - 2 maj, përkujton Deklarimin e Misionit të Bahá'u'lláh-ut pasuesve të Tij. Bahá'u'lláh-u e shpalli atë si "Mbretin e Festave", dhe i referohet asaj në Kitáb-i Akdas si Dita në të cilën "të gjitha gjërat e krijuara u zhytën në detin e pastrimit".

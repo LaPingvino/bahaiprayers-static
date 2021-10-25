@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12350 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Faka-lauefa a Tou igoa, O te Aliki toku Atua!  Taofi aka ne Koe toku mata e faka-moemoe ke kilo ki luga i mea faka-ofoofogia o 

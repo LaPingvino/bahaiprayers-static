@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9883 in മലയാളം'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ml', 'bpn-unsorted']
 +++
 *(ഇരുപത്തിനാലു മണിക്കൂറിലൊരിക്കല്‍ ചൊല്ലേണ്ടത്)

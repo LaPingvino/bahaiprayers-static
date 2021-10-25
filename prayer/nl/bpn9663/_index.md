@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9663 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Gij ziet mij nederig geknield, o mijn God, deemoedig voor Uw geboden, onderworpen aan Uw soevereiniteit, huiverend voor de macht van Uw heerschappij, vluchtend voor Uw gramschap, smekend om Uw genade, vertrouwend op Uw vergiffenis, bevend van ontzag voor Uw toorn. Ik smeek U met bonzend hart, stromende tranen en smachtende ziel, en in volledige onthechting van alle dingen, om Uw minnaars te maken als lichtstralen door al Uw rijken, en Uw uitverkoren dienaren te helpen Uw Woord te verheerlijken, opdat hun gelaat mag stralen van pracht en schoonheid, hun hart vervuld mag worden van mysteriën, en iedere ziel zijn zondenlast mag afleggen. Bescherm hen dan tegen de belager, tegen hem die een schaamteloze en boosaardige godslasteraar is geworden.

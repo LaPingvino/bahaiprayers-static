@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11731 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Allāna, zukāce da yawa masu sanyi, sun zāzāfa kusa da gumin addīninka. Hankulla da yawa masu gyangyaɗi, sun wartsake da suka ji zāƙin muryarka. Sabbin zuwa da yawa, sun nēmi mafaƙa a ƙalƙashin ɗayantakarka. Ma jī ƙishirwa da yawa, sun nēmi ɗanɗana ruwan rījiyarka mai rāyarwa, a wannan rānar rānaikunka!

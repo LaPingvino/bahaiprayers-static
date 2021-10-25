@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4942 in Vanuatu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O God blong mi! Tru long ol nem blong Yu, ol sik blong ol sik man i finis, ol wik pipol i kam strong bakagen, olgeta we oli tosta i kasem wora, olgeta we oli wari oli kasem pis long hart blong olgeta, olgeta we oli lus i faenem rod, olgeta we oli stap daon i kam antap, olgeta we oli poa i kasem ol rijis, olgeta we oli no gat save i kam moa waes,  olgeta we oli stap long daknes i kasem laet, olgeta we oli sori i kasem glad filing, olgeta we oli kolkol i kam klosap long faea, mo olgeta we ol man i fosem olgeta blong stap daon i gerap bakagen.  O God blong mi!   Tru long nem blong Yu, olgeta samting we Yu bin krieitem i kasem laef, mo skae i spred, mo graon i stanap, mo ol klaod i raesap mo i givim ren long graon.  I tru se hemia i wan saen blong ol blesing blong Yu we Yu givim long olgeta we Yu bin krietem.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9342 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitra ô, ry Andriamanitro! Mangataka Aminao aho, noho ny ranomasimben’ny Fanasitrananao, noho ny famirapiratry ny Kintana Marainan’ny Fahasoavanao, noho ny Anaranao izay mandresy lahatra ny mpanomponao, noho ny hery mahasinton’ny Teninao be Voninahitra indrindra, noho ny herin’ny Peninao mendrikaja indrindra, ary noho ny Famindramponao izay nialoha ny fahariana ireo izay any an-danitra sy ety an-tany, mba hanadio ahy amin’ny ranon’ny Hamoramponao amin’ny fahoriana sy ny fikorontanana rehetra, ny fahalemena sy ny fahosana rehetra.

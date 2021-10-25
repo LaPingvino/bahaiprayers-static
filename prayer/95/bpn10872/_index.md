@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10872 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua, toku Atua!  Au e akai kia Koe mo te loto polepole mo loimata e to ki lalo ke feasoasoani mai ki sose mea tela e mafai iei o fakamaumau a tena maalosi kit e fakatuuga o te Fale tenei, pela foki mot e faiitega o te Fale tenei tela mai i loto a Tou igoa ka taku-takugia i tafataeao katoa mo afiafi katoa.

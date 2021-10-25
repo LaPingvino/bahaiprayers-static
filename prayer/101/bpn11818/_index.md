@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11818 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Iyoh leh dek Gagah, dek Pimaaf, dek Pinubuas! O Topa, Topa ku! Ingan kilint ulunt-ulunt Ingan daang lubang patuab rubuh duoh salah biyuk, daki leh sok lapu pingulu kudus Ingan, O Ingan dek jadin Hasrat dunia? Ingan pu’ant geh nang iyoh doie oni-oni duoh doie otak daya, daki leh sok kuasa surga duoh tanak?

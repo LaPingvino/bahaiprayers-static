@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1152 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Senhor, meu Defensor, meu Amparo no perigo! Com absoluta humildade suplico-te; enfermo, a Ti me volvo, esperando a Tua cura; a Ti clamo, humildemente, com a fala, a alma e o espírito:

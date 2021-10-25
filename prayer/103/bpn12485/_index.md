@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12485 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O Thou forgiving Lord! Thou art the shelter of all these Thy servants…

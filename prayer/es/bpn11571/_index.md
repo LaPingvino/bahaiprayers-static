@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11571 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh bondadoso Señor! Confiere, por Tu gracia, un par de alas celestiales a cada uno de estos pajarillos, y concédeles poder espiritual para que levanten el vuelo por este espacio ilimitado y se remonten a las alturas del Reino de Abhá.

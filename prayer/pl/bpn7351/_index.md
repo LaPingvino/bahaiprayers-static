@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7351 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie! Jesteśmy godni pożałowania, udziel nam swoich łask; jesteśmy biedni, obdarz nas cząstką z oceanu swoich bogactw; żyjemy w niedostatku, zaspokój nasze potrzeby; jesteśmy poniżeni, udziel nam swojej chwały. Ptaki w powietrzu i zwierzęta w polu otrzymują codziennie posiłek od Ciebie i wszystkie stworzenia doznają Twojej opieki i życzliwości.

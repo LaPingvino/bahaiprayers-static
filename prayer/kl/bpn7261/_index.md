@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7261 in Kalaallisut'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guuti-aa, Guutiga! Kiffat manna arnaq Ilinnik qaaqqusivoq, Ilinnik tatiginnilluni, kiinnani Ilinnut saatsillugu, Ilunnut torlulavoq Tunniussatit qilammiorpaluttut taassuma issusiannut siammarteqqullugit anersaakkut Paasissaalluanngitsuutitit taassumunnga saqqummerlugit, Guuterpalunnerpillu qaamanerinik seqerfigeqqulluni.

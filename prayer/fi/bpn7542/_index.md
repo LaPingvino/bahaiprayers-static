@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7542 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Sinä olet se, oi Jumalani, jonka nimien kautta sairaat parannetaan, vaivaiset vahvistetaan, janoiset juotetaan, tuskastuneet tyynnytetään, harhautuneet opastetaan, alennetut ylennetään, köyhät rikastutetaan, tietämättömät valistetaan, alakuloiset valaistaan, murheiset ilahdutetaan, viluiset lämmitetään ja poljetut  nostetaan. Sinun nimesi kautta, oi Jumalani, kaikki luodut herätettiin, taivaat aukenivat, maa muodostettiin, pilvet kohotettiin ja pantiin satamaan maan päälle. Tämä totisesti on armosi osoitus kaikille luoduillesi.

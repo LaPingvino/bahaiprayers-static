@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB10701 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB10701']
 +++
 O Lord!  Make these children excellent plants.  Let them grow and develop in the Garden of Thy Covenant, and bestow freshness and beauty through the outpourings from the clouds of the all-glorious Kingdom.

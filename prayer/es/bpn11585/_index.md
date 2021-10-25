@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11585 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Tú, Cuyo rostro es el objeto de la adoración de todos los que Te anhelan, Cuya presencia es la esperanza de quienes están completamente consagrados a Tu voluntad, Cuya proximidad es el deseo de cuantos se han acercado a Tu corte, Cuyo semblante es el compañero de aquellos que han reconocido Tu verdad, Cuyo nombre es el impulsor de las almas que ansían contemplar Tu rostro, Cuya voz es la verdadera vida de Tus amantes, las palabras de Cuya boca son como aguas de vida para todos los que están en el cielo y en la tierra!

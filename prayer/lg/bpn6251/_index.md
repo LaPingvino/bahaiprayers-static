@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6251 in Luganda'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ggwe Oyo, Ayi Katonga wange, nga oyita mu manya Go, abalwadde bawonyezzebwa, era n'abayi ne basuuka, abayonta ne banywa, era n'abawotose, ne batojjera, ababuze ne balungamizibwa, era n'abakopi, nebaweebwa ekitiibwa, abawejere, bagaggawazibwa era n'ababuya ne n'ebayiga, nabanyikaavu basanyusibwa era n'abalina ennaku n'ebabudabuddibwa, abanyogoze babuguumizibwa era n'abalinyirirwa bafuna eddembe.  Mu linya Lyo, Ayi Katonda wange, ebitonde byonna byafu'na essanyu, era n'eggulu lyabikuka, n'ensi yonna nebeerawo, n'ebire byonna ne byekulumuulula, ne biretera enkuba okutonyera ensi yonna.  Kino mu mazima ddala kabonero akalaga ekisa Kyo, eri ebitonde Byo byonna.

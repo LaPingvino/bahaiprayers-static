@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9156 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Au nom de ton Seigneur, le Créateur, le Souverain, Celui qui suffit à tout, le Suprême, Celui dont tous les hommes implorent le secours ! Dis : Ô mon Dieu, toi, le Créateur du ciel et de la terre, le Seigneur du royaume, tu connais les secrets de mon cœur, mais ton essence reste impénétrable à tout autre que toi. Tu vois ce qui est en moi, ce que nul autre ne peut voir. Par ta grâce, accordemoi ce qui me permettra de me passer de tout sauf de toi et me rendra indépendant de tout autre que toi. Laisse-moi recueillir les bénéfices de ma vie dans ce monde et dans l’autre. Ouvre-moi la porte de ta grâce et dispense-moi ta tendre miséricorde et tes bienfaits.

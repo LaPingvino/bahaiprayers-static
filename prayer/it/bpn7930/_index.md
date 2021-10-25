@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7930 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 *(I Giorni Intercalari, dal 26 febbraio al 10 marzo inclusi, sono giorni di preparazione al Digiuno, giorni dedicati all’ospitalità, a opere di bene e allo scambio di doni).

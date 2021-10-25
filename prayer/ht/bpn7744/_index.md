@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7744 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Ou menm Senyè Ki gen kè sansib! Sèvitè Ou sa yo te reyini nan rankont sa a, yo te vire nan direksyon wayòm Ou an e yo bezwen sipò Ou ak benediksyon Ou. O Ou menm Bondye! Devwale epi fè siyn linite Ou yo vin klè - siyn Ou te mete nan tout reyalite lavi a. Revele epi devlope tout kalite Ou te etabli yo e kache nan reyalite imen sa yo.

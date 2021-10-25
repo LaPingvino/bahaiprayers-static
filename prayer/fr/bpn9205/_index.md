@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9205 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Toute gloire et majesté, toute autorité et lumière, toute grandeur et splendeur t’appartiennent, ô mon Dieu ! Tu octroies la souveraineté à qui tu veux, tu la refuses à qui tu désires. Il n’est pas d’autre Dieu que toi, le Possesseur de toutes choses, le Suprême. Du néant tu créas l’univers et tout ce qui s’y trouve. Rien n’est digne de toi, si ce n’est toi-même, tout autre que toi est un paria en ta sainte présence et il n’est rien, comparé à la gloire de ton Être.

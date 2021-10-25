@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6098 in Sranan Tongo'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##PIKIN 

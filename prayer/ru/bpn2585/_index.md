@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2585 in Русский'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ru', 'bpn-unsorted']
 +++
 Он есть Бог, возвышенный, Господь нежной заботы и щедрости!

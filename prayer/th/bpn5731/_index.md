@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5731 in ภาษาไทย'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-th', 'bpn-unsorted']
 +++
 ##บทอธิษฐานสำหรับหญิงมีครรภ์

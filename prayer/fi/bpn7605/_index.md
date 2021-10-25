@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7605 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Hän on ikuinen! Tämä on todistukseni hänestä, joka on kuullut ääneni ja vetäytynyt Minua lähelle. Totisesti hän on lehvä, joka on versonut tästä ennalta olevasta Juuresta. Hän on ilmaissut itsensä Minun nimessäni ja maistanut pyhän, ihmeisen mielisuosioni ihania tuoksuja. Kerran annoimme hänen juoda hunajaiselta Suultani, toisen kerran sallimme hänen siemaista Minun mahtavasta ja hohtavasta Kawtharistani. Levätkööt nimeni kirkkaus ja loistavan viittani tuoksu hänen yllään.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9183 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, je sollicite ta clémence et j’implore ton pardon ainsi que tu souhaites entendre tes serviteurs s’adresser à toi. Lave-nous de nos péchés, je t’en supplie, comme il sied à ton empire et accorde-moi ton pardon, ainsi qu’à mes parents et à ceux qui, à tes yeux, se sont réfugiés en ton amour, comme il convient à ta souveraineté transcendante et à la gloire de ton pouvoir céleste.

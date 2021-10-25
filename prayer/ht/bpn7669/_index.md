@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7669 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye, Bondye mwen! Mwen sipliye Ou poutèt oseyan gerizon Ou ak gran limyè ki soti nan Solèy gras Ou a, e poutèt Non Ou - yon non Ou te sèvi pou domine tout sèvitè Ou yo, e poutèt pouvwa Pawòl egzalte Ou a ki antoure tout bagay, ak pisans Plim Ou an ki pi wo, ak mizèrikòd Ou ki te egziste anvan kreyasyon tout sa ki nan syèl la ak tout sa ki sou tè a, mwen sipliye Ou pou byen pwòpte mwen ak dlo bonte Ou yo kont tout maladi ak dezòd, kont tout feblès ak enkapasite. 

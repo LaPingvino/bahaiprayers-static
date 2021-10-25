@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1091 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Senhor compassivo! Ó Senhor dos Exércitos! Louvado sejas Tu por haveres preferido estas crianças àquelas pessoas que atingiram pleno desenvolvimento e maturidade, por as teres dotado de Tuas graças especiais, por as teres guiado, por lhes teres concedido a Tua Luz e dado espiritualidade.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9391 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Dera ho Anao, ry Andriamanitro ô! Marina tokoa, ireto ny mpanomponao voasariky ny hanitry ny Famindramponao, miredareda amin’ny afo mirehitra eo amin’ny hazon’ny Firaisanao ary ny masony mamirapiratra mandinika ny fahazavana manjopika eo amin’ny Sinaï-n’ny maha-Iray Anao.

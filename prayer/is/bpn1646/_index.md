@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1646 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ég bið Þig fyrirgefningar, ó Guð minn, og sár­bæni um aflausn með þeim hætti sem Þú vilt að þjónar Þínir viðhafi er þeir snúa sér til Þín. Ég bið Þig um að hreinsa okkur af syndum okkar eins og sæmir yfirráðum Þínum og fyrirgefa mér, for­eldrum mínum og þeim sem að Þínu mati hafa gengið inn í híbýli ástar Þinnar eins og hæfir yfirskilvitlegum yfirráðum Þínum og sæmir dýrð Þíns himneska valds.

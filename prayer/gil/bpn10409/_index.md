@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10409 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Ko na neboaki, te Uea n aki toki ao te Tia Karikiia tautaeka, ao te Tia Katamaroai mwakuri.  I bubutii ma te nanorinano Nakoim, i nanon Aram are Ko weteia iai kaain aonaaba nako nanon mimitongin Raoiroim, are Ko kairiia nako iai n Am tangira ma Am aakoi; karikai bwa temanna naba aroia ake a kaaki tangiran bwaai i Bukim, ao a tia n tei i nanon Kaaniam ma n aki kamwaeieiaki ni kangaanga nako ake a bwakariia i Bukim, ni kaantaningaa Am bwai n aakoi.

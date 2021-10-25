@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9999 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Môj Bože, môj Zbožňovaný, môj Kráľ, moja Túžba! Ktorýže jazyk sa Ti dokáže poďakovať? Bol som nedbalý, Ty si ma zobudil. Odvrátil som sa od Teba, milostivo si mi pomohol, aby som sa obrátil k Tebe.  Bol som sťa mŕtvy, oživil si ma vodou života. Uvädol som, vzkriesil si ma nebeským prúdom Svojho prehovoru, ktorý plynie z Pera nadovšetko Milosrdného.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8605 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的主啊！如祢所知：万民被痛苦和灾难包围，与艰难和困苦相伴，每一种考验及可怕的灾祸，都如侵袭人类的毒蛇一般。除了祢保卫、看守及监护之羽翼，他们别无避难所和救济院。

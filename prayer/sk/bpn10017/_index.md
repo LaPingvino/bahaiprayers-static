@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10017 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó môj Bože! Ó Ty, kto odpúšťaš hriechy, udeľuješ dary, rozptyľuješ súžobu!

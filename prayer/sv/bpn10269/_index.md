@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10269 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Du, inför vars oerhörda majestät alla har bävat, i vars grepp alla människors angelägenheter vilar, mot vars nåd och barmhärtighet alla Dina skapelsers ansikten vänder sig! Jag bönfaller Dig, vid Ditt namn, vilket Du har förordnat att vara alla namns ande i namnens rike att skydda oss mot viskningarna från dem som har vänt sig bort från Dig och förkastat sanningen i Ditt mest majestätiska och upphöjda Jag i denna uppenbarelse, vilken har fått Dina namns rike att skälva.

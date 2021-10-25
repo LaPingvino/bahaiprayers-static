@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1305 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Estou ciente, ó Senhor, de que na Tua presença as minhas transgressões cobriram de vergonha a minha face, fazendo curvarem-se as costas diante de Ti, e interpuseram-se entre mim e o Teu belo semblante, cercaram-me em todas as direções e, de todos os lados, impediram-me de obter acesso às revelações do Teu poder celestial.

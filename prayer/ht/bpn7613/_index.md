@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7613 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##RESITE PRIYÈ SA A YON FWA CHAK VENKATRÈ

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12265 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Fakaeke mai kia au, O toku Aliki, mo latou foki ko la e talitonu ia Koe a te mea tela i Tau fakatau e tafasili i te llei mo au, pela mo te mea ko oti ne tusi mai i te Matua o Tusi, auaa me i loto i Tou alofi-lima e puke ne Koe a fuafuaaga o mea katoa.  

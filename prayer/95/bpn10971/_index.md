@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10971 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *(Naw-Rúz, Mati 21, ko tea so mua o tausaga Bahá'í)

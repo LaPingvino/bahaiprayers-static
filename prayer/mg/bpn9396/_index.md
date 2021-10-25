@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9396 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitra! Beazo ireto zaza ireto. Ireo zaza ireo dia volin’ny Saham-boankazonao, voninkazon’ ny Tanin’ahitrao, raozin’ny Zaridainanao.

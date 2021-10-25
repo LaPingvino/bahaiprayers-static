@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5395 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 あなたに賛美あれ、おお主よ、わが神よ。この僕しもべは、御恵みめぐみの手からご慈悲の美酒を飲

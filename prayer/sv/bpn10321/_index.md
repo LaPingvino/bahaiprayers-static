@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10321 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Gör våra steg fasta på Din väg, o Herre, och stärk våra hjärtan i lydnad inför Dig. Vänd våra ansikten mot Din enhets skönhet och gläd våra hjärtan genom Din gudomliga enhets tecken. Smycka oss med Din givmildhets klädnad, avlägsna från våra ögon syndens slöja och skänk oss Din nåds kalk, så att alla varelsers innersta  må lovsjunga Dig inför åsynen av Din prakt. Uppenbara Dig då, o Herre, genom Ditt barmhärtiga ord och Ditt  gudomliga väsens mysterium, så att bönens heliga hänförelse må uppfylla våra själar – en bön, som skall lyfta sig över ord och bokstäver och höja sig över stavelser och ljud – så att allt må smälta samman i intet inför Din härlighets uppenbarelse.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1240 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é Deus, excelso é Ele, Senhor de misericórdia e bondade!

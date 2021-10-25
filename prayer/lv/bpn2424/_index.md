@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2424 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Esi slavēts, ak Dievs, mans Kungs! Pie Tavas visaptverošās žēlsirdības vēju šalkām, pie Tava Nodoma Izpausmēm, pie Tavas iedvesmas Apvāršņa, es lūdzu, sūti man un visiem tiem, kas tiecas skatīt Tavu vaigu, veltes atbilstoši Tavai augstsirdībai un dāsnajai vēlībai.

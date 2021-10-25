@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH09399 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH09399']
 +++
 Glory be to Thee, O my God!  My face hath been set towards Thy face, and my face is, verily, Thy face, and my call is Thy call, and my Revelation Thy Revelation, and my self Thy Self, and my Cause Thy Cause, and my behest Thy behest, and my Being Thy Being, and my sovereignty Thy sovereignty, and my glory Thy glory, and my power Thy power.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1234 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 (... a mãe é a primeira educadora da criança. É ela quem deve, desde os primeiros dias, amamentar o recém-nascido no seio da Fé e da Lei de Deus, de modo que nele penetre o amor divino ao mesmo tempo que o leite materno, e nele permaneça até ao último suspiro.)Louvado sejas Tu, ó Senhor meu Deus! Benevolamente permite que esta criança seja alimentada do peito da Tua terna misericórdia e carinhosa providência, e nutrida com o fruto das Tuas árvores celestiais. Não a deixes ser entregue ao cuidado de outro, senão de Ti, desde que Tu próprio, através da potência da Tua vontade soberana e do Teu supremo poder, a criaste e chamaste à existência. Nenhum outro Deus há, salvo Tu, o Todo Poderoso, o Omnisciente.

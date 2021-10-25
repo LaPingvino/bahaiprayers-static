@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4497 in Filipino'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 *Kailanma’t pumasaok ka sa silid sanggunian, usalin ang dalanging ito nang ang puso ay tumitibok ng pag-ibig sa Diyos at ang dila ay walang taglay ng anuman liban sa paggunita sa Kaniya, at nang ang Makapangyarihan sa Lahat ay buong kabaitang tumulong sa iyo na nakapagtamo ng sukdulang tagumpay.

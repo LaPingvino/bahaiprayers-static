@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8150 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 *Dette epistel læses ved Bahá’u’lláhs og Bábs gravmæler. Det benyttes også hyppigt ved højtideligholdelsen af Deres mindedage.

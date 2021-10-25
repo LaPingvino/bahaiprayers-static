@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5903 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ¿Com puc jo desitjar dormir, oh Déu, Déu meu, quan els ulls d’aquells què T’anhelen estan desperts a causa de la seva separació de Tu? ¿I com puc jo reposar, mentre les ànimes dels qui T’estimen estan tan afligides degut a la seva llunyania de la Teva presència?

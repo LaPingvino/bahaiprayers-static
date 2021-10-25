@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5139 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *"Barangsiapa yang mengadakan perjalanan ke berbagai daerah untuk Anugerah Terbesar biarlah ia membaca permohonan ini di gunung, di padang pasir, di daratan dan di lautan".

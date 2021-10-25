@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3696 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Kiitus olgu Sulle, oo mu Jumal! Ma olen üks Sinu teenritest, kes on uskunud Sinusse ja Su märkidesse. Sina näed, kuidas ma olen pöördunud Sinu armu ukse poole ja pööranud oma palge Sinu armastava lahkuse suunas. Ma palun Sind Su kõige suurepärasemate tiitlite ja kõige ülevamate omaduste nimel, et Sa avaksid minu ees oma andide väravad. Aita mul siis teha seda, mis on hea, oo Sina, kes Sa oled kõikide nimede ja omaduste Omaja.

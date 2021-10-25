@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH09809 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH09809']
 +++
 Thou seest, O my God, how Thy loved ones have been encompassed by the rebellious amongst Thy creatures and the wicked amidst Thy people.  No land remaineth but the lamentation of Thy lovers and the wailing of Thy chosen ones were lifted up therein.  I beseech Thee by Thy Most Great Name to draw forth the hand of power from the bosom of Thy might and to assist therewith all them that love Thee.

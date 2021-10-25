@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5074 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, Ngài là Đấng mà các Danh đem lại sự cứu chữa cho những kẻ đau yếu, sức khoẻ cho những kẻ tật nguyền, sự thỏa mãn cho những kẻ khao khát, sự bình an cho những tâm hồn rối loạn, sự chỉ đường cho những kẻ lạc lầm, sự tôn vinh cho những kẻ tủi nhục, sự giàu có cho những kẻ nghèo nàn, sự minh giải cho những kẻ dốt nát, ánh sáng cho những tâm hồn sầu muộn, niềm vui cho những kẻ đớn đau, hơi ấm cho những cõi lòng băng giá, sự phục quyền cho những kẻ bị áp bức. Lạy Thượng Đế của con, bởi Danh Ngài vạn vật trở nên sinh động, các cõi trời rộng mở, trái đất được dựng nên, mây bốc lên cao và mưa đổ xuống đất. Quả thật, đây là bảo chứng của hồng ân Ngài đối với vạn vật.

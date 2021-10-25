@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11907 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Onu Pingosah, 26 onu bulan 2 nog 1 onu bulan 3 jadin eh geh, onu bisitak yak Puasa, onu-onu sikadud, ngenang bia ngin hadiah.)

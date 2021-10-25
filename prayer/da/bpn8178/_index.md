@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8178 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Mød hinanden i ren glæde og fremsig ved mødets indledning denne bøn:

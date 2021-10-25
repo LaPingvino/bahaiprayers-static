@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10449 in Kiribati'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Ko ataia ni koaua, Ngkoe Atuau, bwa a bon tia ni bwakarai taian kangaanga man itera nako, ao bon akea ae e kona ni kamaunai ke ni bitii ma bon ti Ngkoe. I ataia ni koaua, bwa ni koauan Tangiram irou, bwa Ko aki kona ni karika te kangaanga bwa e na bwakara te tamnei temanna ma ti ngkana Ko tangiria ni karietaata nnena inanon Am Baretaiti are i eta ma ni kanonoa nanona inanon te maiu i aon te aba aio n nonon Mwaakam ae rotii bwai nako, bwa e na aki katan nakon bwain te aonaaba aei ae akea nanoia. Ko bon ataia ni koaua i aan aroaro nako bwa I nabea riki Ururingam nakon bwainakin ni kabane ake n taian karawa ao i aon te aba. 

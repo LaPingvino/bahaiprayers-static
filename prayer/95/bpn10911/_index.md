@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10911 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Aliki!  Au ko fakapilipili atu kia Koe, i te pokooga o te valuapo pouli tenei, talitonu ia Koe mo te laulaufaiva o toku loto, e sapolepole i te fiafia i manogi gali ko la e agiagi mai i Tou maalo, ko te Matagofie-Katoatoa, e kalaga atu kia Koe, o fai penei:

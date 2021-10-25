@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7513 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Hän on Jumala!

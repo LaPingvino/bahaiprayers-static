@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn445 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Räume die festliche Tafel nicht ab, o Herr, die in Deinem Namen gedeckt ist, und ersticke die brennende Flamme nicht, die Dein unauslöschliches Feuer entzündet hat. Halte das Strömen Deines belebenden Wassers nicht auf, das die Weisen Deiner Herrlichkeit und Deines Gedächtnisses murmelt, und beraube Deine Diener nicht des Wohlgeruchs, den der Hauch Deiner Liebe verströmt.

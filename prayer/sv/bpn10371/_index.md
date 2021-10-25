@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10371 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Församla er i renaste glädje och läs denna bön vid mötets början:

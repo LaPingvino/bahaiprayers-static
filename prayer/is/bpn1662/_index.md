@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1662 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð, Drottinn okkar! Vernda okkur sakir náð­ar Þinnar gegn öllu, sem kann að vekja andúð Þína, og veit okkur það, sem sæmir Þér vel. Gef okkur enn ríflegar af örlæti Þínu og blessa okkur. Fyrirgef okkur það sem við höfum gert, hreinsa okkur af syndum okkar og veit okkur af­lausn með mildri fyrirgefningu Þinni. Sannlega ert Þú hinn háleitasti, hinn sjálfumnógi.

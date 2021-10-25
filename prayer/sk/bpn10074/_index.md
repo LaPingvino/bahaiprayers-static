@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10074 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Oslávené buď Tvoje meno, ó Pane, môj Bože! Úpenlivo Ťa prosím pri Tvojej sile, ktorá obklopila všetko stvorené, a pri Tvojom mocnárstve, ktoré presahuje celé stvorenie, a pri Tvojom Slove, ktoré bolo ukryté v Tvojej múdrosti a prostredníctvom ktorého si stvoril Svoje nebo a Svoju zem, aby si nám umožnil byť neochvejnými v láske k Tebe a v poslušnosti voči Tvojmu rozhodnutiu a zároveň aby sme mohli uprieť zrak na Tvoju tvár a oslavovať Tvoju slávu. Daj nám teda silu, ó môj Bože, aby sme medzi Tvojimi stvoreniami doďaleka mohli šíriť Tvoje znamenia a chrániť Tvoju vieru v Tvojej ríši. Vždy si jestvoval nezávisle od zmienky ktoréhokoľvek z Tvojich stvorení a na večné veky zostaneš taký, aký si bol.

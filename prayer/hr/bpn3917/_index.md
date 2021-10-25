@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3917 in Hrvatski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 O, Bože! U Tebi tražim utočište i prema Tvom znamenju upravljam svoje srce.

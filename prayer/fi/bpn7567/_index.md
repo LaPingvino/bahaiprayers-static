@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7567 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Kaikki ylistys olkoon Sinulle, oi Jumalani, joka olet kaiken kirkkauden ja majesteettiuden, suuruuden ja kunnian, yliherruuden ja valtiuden, ylhäisyyden ja armon sekä kunnioituksen ja voiman lähde. Kenet ikinä tahtonetkin Sinä johdatat suurimmalle valtamerellesi ja kenelle tahansa halunnetkin suot kunnian  tuntea ikiaikaisen nimesi. Ei kukaan taivaassa eikä maan päällä voi vastustaa riippumattoman tahtosi toimintaa. Ikuisuudesta asti olet hallinnut koko luomakuntaa ja iankaikkisesti olet vallitseva kaikkia luotuja. Ei ole muuta Jumalaa kuin Sinä, Kaikkivaltias, Kaikkein ylevin, Kaikkivoimainen, Kaikkiviisas.

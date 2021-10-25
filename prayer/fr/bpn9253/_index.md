@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9253 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Seigneur, puisque tu détiens la mesure préétablie de toutes choses, ordonne pour moi et pour ceux qui croient en toi ce que tu juges nous convenir le mieux, selon ce que prescrit le LivreMère. 

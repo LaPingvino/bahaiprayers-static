@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8643 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！祢看见黑暗笼罩大地，纷争的战火在各国燃烧，杀戮遍及东西方。血流成河，尸横遍野，头颅落地，战尘飞扬。

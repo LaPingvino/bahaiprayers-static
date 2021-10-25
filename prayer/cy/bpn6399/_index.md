@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6399 in Cymraeg'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Dduw! Adfer a llonna fyn ysbryd.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5867 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Déu meu, a qui venero i adoro! Soc testimoni de la Teva unitat i de la Teva unicitat, i reconec els teus dons tant del passat com del present. Tu ets el Tot Generós i les regants pluges de la Teva Misericòrdia han estat vessades igualment damunt dels pobres com dels rics, i els resplendors de la Teva Gràcia s’han vessat tant sobre els obedients com damunt els rebels.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1722 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Þú góði Drottinn! Þú hefur skapað allt mann­kynið af sama stofni. Þú hefur ákvarðað, að allir tilheyri sömu fjölskyldu. Í heilagri návist Þinni eru þeir allir þjónar Þínir og allt mannkynið á sér athvarf í tjaldbúð Þinni. Allir hafa safnast saman við nægtaborð Þitt, allir eru upplýstir af ljósi forsjónar Þinnar.

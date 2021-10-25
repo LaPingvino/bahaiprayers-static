@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8903 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！我已悔改並轉向祢。誠然！祢是寬恕者，憐憫者。

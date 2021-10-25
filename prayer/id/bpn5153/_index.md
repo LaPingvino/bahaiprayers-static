@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5153 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Dimuliakanlah Engkau, ya Rabi Tuhanku! Setiap kali aku berusaha untuk menyebut Dikau, aku tertahan oleh dosa-dosaku yang besar dan pelanggaran- pelanggaran terhadap-Mu yang menyedihkan, dan menemukan diriku sangat terjauhkan dari rahmat-Mu, dan sama sekali tak berdaya untuk meluhurkan pujian- Mu. Akan tetapi keyakinanku yang besar terhadap rahmat-Mu memberanikan daku untuk memuji Engkau dan meminta dari-Mu apa saja yang Engkau miliki.

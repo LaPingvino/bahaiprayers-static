@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10422 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Atuau ao au Toka! Bon Ngai Am toro ao ana nati te mwaane Am toro. I a tia n teirake mai aon nneu ni wene n te ai oota aio ngke e a tia n oota nako iai Itoin Ngainan Arom ae ti teuana man Koburaken Ngainan Nanom, ma n tia ni kaotaorababa nako ootana i aon te aonaaba ni kabutaa, n ai aron are e a tia ni motikaki bukina i nanon Bokin nako Am Kaetieti.

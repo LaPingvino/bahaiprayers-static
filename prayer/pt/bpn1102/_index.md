@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1102 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 A seguinte Súplica é para ser lida pelos Instrutores e Amigos diariamente:Ó Tu, Senhor bondoso! Louvores a Ti porque nos mostraste o caminho certo, abriste as portas do reino e Te manifestaste através do Sol da Realidade. Ao cego deste visão e, ao surdo, ouvido; ressuscitaste o morto; concedeste riqueza ao pobre; mostraste o caminho àqueles que se desviaram; conduziste os sequiosos à fonte da guia; permitiste que o peixe sedento alcançasse o oceano da realidade e convidaste a ave errante ao jardim da graça.

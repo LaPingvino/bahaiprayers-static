@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12231 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Atua mo toku Matai!  Au ko Tau tavini mo te tama tagata a Tau tavini.  Au ko ala mai i toku moega ite vaveao tenei i taimi te la a te Fetuao o Tou tafatasi ko oti ne sulu maina mai i te Asomalulu o Tou finagalo, kae ko oti ne maina atu a tena mainaaga ki te lalolagi katoa, pe la loa mo te mea ko oti ne fakasino i loto i Tusi o Tau Fakamasinoga.  

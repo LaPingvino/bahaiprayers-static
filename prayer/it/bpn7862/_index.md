@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7862 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 ##PREGHIERA OBBLIGATORIA MEDIA

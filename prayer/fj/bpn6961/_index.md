@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6961 in Fiji'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 Noqu Kalou ka noqu i Vakavuvuli! O i au na Nomuni tamata ka u luve ni Nomuni tamata. Au sa qai duri cake mai oqo e na noqu i davodavo e na kida ni mataka ni sa vakaraitaki tu mai oqo na i Vola Siga ni Nomuni Duavata e na vuku ni kaukauwa ni Tovure ni Siga ni Nomuni lewa, ka sa qai cila yani oqo e na kena i serau e na dela i vuravura raraba me vaka ga e sa yalataki oti tu e na i Vola ni Nomuni Lewa.

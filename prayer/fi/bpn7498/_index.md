@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7498 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani! Oi Jumalani! Totisesti rukoilen Sinua ja kynnykselläsi anon nöyrästi pyytäen, että kaikki siunauksesi laskeutuisivat näiden sielujen päälle. Valmista  heidät suosiotasi ja totuuttasi varten. 

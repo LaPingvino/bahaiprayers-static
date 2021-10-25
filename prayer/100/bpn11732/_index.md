@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11732 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yabo ya tabbata a garēka, yā Ubangiji Allāna. Ga bāwanka, wanda a cikin hannunka, ya shā ruwan rahamarka, kuma ya ɗanɗana dāɗin ƙaunarka a wannan rānā wadda take tāka. 

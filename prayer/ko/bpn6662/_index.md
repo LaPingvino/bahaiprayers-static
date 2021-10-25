@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6662 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 윤일 기도

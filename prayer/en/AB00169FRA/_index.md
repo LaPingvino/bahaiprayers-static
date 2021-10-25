@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB00169FRA in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB00169FRA']
 +++
 ##Revealed to the Bahá'ís of Canada and Greenland

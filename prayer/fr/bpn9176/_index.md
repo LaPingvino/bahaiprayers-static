@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9176 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, tu vois, je me prosterne en signe d’humilité, je m’incline devant tes commandements et me soumets à ta souveraineté, je tremble devant la puissance de ton royaume et fuis ta colère, je supplie ta grâce, confiant en ton pardon et frémissant de crainte devant ta fureur. Le cœur palpitant, en larmes, l’âme ardente, détaché de toutes choses, je t’implore. Fais de tes adorateurs des rayons de lumière parcourant tes royaumes, aide tes élus à promouvoir ta parole afin que leurs visages s’illuminent et resplendissent, que leurs cœurs s’emplissent des mystères et que chaque âme dépose son fardeau de péchés. Préserve-les de l’agresseur et de celui qui est devenu un méchant impudent et impie.

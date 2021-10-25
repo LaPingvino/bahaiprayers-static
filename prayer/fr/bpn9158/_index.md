@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9158 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, mon Dieu, tu es mon espoir et mon aimé, ma fin et ma plus haute aspiration. En toute humilité et avec entière dévotion, je te prie de faire de moi un phare de ton amour sur terre, une lampe de ta connaissance parmi les créatures et une bannière de la grâce divine en ton royaume.

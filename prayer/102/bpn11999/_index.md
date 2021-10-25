@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11999 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Eý dostlar! Hudaýa şükür, söýgi çölünde awara, Alla yşkynda sergezdansyňyz. Ýar köýüne bendiwan, Onuň müşk saçýan saçyna perişansyňyz. Alla ýolunda binowa bolduňyz hem Mübärek Jemalyň yşkynda ryswa hem bikararsyňyz. Sergeşte hem mejnun siz, awara hem şeýda siz. Bu ykbalyň gadyryny biliň hem bu Jomartlygyň, bu Keremiň gymmatyna düşüniň.

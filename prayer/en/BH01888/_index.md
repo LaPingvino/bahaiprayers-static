@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH01888 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH01888']
 +++
 These are, O my God, the days whereon Thou didst enjoin Thy servants to observe the Fast.  With it Thou didst adorn the preamble of the Book of Thy Laws revealed unto Thy creatures, and didst deck forth the Repositories of Thy commandments in the sight of all who are in Thy heaven and all who are on Thy earth.  Thou hast endowed every hour of these days with a special virtue, inscrutable to all except Thee, Whose knowledge embraceth all created things.  Thou hast, also, assigned unto every soul a portion of this virtue in accordance with the Tablet of Thy decree and the Scriptures of Thine irrevocable judgment.  Every leaf of these Books and Scriptures Thou hast, moreover, alloted to each one of the peoples and kindreds of the earth.

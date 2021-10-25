@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12876 in Alaska Native'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Blessed is the Spot 

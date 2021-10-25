@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10079 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Sláva buď Tebe, ó Pane sveta a Túžba národov, ó Ty, ktorý si sa prejavil v Najväčšom mene, prostredníctvom ktorého sa z lastúr šíreho mora Tvojho poznania objavili perly múdrosti a prehovoru a nebesia božského zjavenia ozdobilo svetlo zjavu Slnca Tvojho obličaja.

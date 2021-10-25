@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6391 in Cymraeg'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 Dihunais yn Dy gysgod, O fy Nuw, ac y mae'n gweddu i'r hwn sy'n ceisio'r cysgod hwnnw i drigo o fewn Noddfa Dy ddiogelwch a Chadarnle dy amddiffyn. Goleua fy enaid, O fy Nuw, â godidowgrwydd Gwawr Dy  datguddiad, fel y goleuaist fy nghorff â golau boreol Dy ffafr.

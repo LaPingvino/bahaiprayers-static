@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11464 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Loado sea Tu Nombre, oh Señor nuestro Dios! Tú eres, en verdad, el Conocedor de lo invisible. Ordena para nosotros todo el bien que determine Tu conocimiento que todo lo abarca. Tú eres el supremo Señor, el Todopoderoso, el Bienamado.

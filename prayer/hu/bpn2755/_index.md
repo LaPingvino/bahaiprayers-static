@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2755 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 A Holtak Imája az egyetlen bahá’í kötelező ima, melyet gyülekezetben együtt kell mondani; az egyik hívő mondja, míg a többiek csendben állnak. Bahá’u’lláh meghatározása szerint a Holtak Imáját csak akkor kell elmondani, ha az elhunyt felnőtt volt, az ima elmondásának meg kell előznie a halott sírba való leeresztését, és az ima elmondása közben nem kell a Qiblih felé fordulni. — Kitáb-i-Aqdas, Jegyzetek

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8202 in Lietuvių'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lt', 'bpn-unsorted']
 +++
 O maloningasis Viešpatie! Tu sutvėrei visą žmoniją iš vienų tėvų, norėdamas, kad visi būtų viena šeima. Jie yra Tavo šventosios Esybės tarnai ir visa žmonija yra Tavo globoje po Tavo Priedanga. Visi susibūrę prie Tavo dosnaus stalo ir visi apšviesti Tavo Apvaizdos spinduliuojančia šviesa. 

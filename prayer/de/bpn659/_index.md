@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn659 in Deutsch'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Herr! Lass alle Völker der Erde eintreten in das Paradies Deines Glaubens, so dass kein Geschöpf jenseits der Umfriedung Deines Wohlwollens bleibe.

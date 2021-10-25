@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2426 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Tu žēlīgais Kungs! Šie ir Tavi kalpi, kas pulcējušies šai saietā, pievērsušies Tavai Valstībai, kam vajadzīga Tava vēlība un svētība. Ak Dievs! Ļauj mums skatīt Tavas vienesmes zīmes, kas izpaužas visās dzīves parādībās. Atklāj un atraisi tos tikumus un spējas, kurus Tu esi neredzami ietvēris cilvēces dzīvē.

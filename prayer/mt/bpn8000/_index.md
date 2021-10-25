@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8000 in Malti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 ##Is-Sawm 

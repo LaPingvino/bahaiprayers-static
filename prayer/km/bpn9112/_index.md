@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9112 in ភាសាខ្មែរ'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-km', 'bpn-unsorted']
 +++
 ធម’អធិដ្ឋានសំរាប់ការខមាទេាស 

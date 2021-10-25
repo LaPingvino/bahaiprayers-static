@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12391 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Ai, ti Elotse, ti //kha-//kha-aotse, ti //khoreb di !oa-≠ûi tse! Nē !gab sab, ge ra //khore Sa /khomi di sôub !nâ //ōmsa tsî Sa !gâib !naga sâsa, Sa !ûis tsî sâusa ra /khomase. /khōma tsî ta ra , Ae ti Elōtse sa mûs //ōm tamas dawa its ga ti mûra a !ûi tsî sats /guitsa mûsa.

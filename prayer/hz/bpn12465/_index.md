@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12465 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Omwene! Tu filonghenda, tu pa ehalo loYe liwa; fye ovafyona, tu pa ou puna tau di mefuta loupuna woYe; otuna omhumbwe, tu pu nika; otwe li xupipika, tu pa efimano loYe. Oudila vo momhepo noifitukuti yomofuka ohai mono okulya kwayo keshe fiku ta ku di kwoVe noishitwa aishe ohai mono eameno ta li di kwoVe no hole yonghenda yoYe.

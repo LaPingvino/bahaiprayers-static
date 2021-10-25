@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7836 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 ##RIVELATA AI BAHÁ'Í DEGLI STATI UNITI E DEL CANADA

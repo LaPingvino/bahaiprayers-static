@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8152 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 *(Bønnen for den døde skal fremsiges for bahá’íer over femten år.)

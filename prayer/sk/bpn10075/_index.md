@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10075 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Ty, koho blízkosť je mi prianím, koho prítomnosť je mi nádejou, na koho spomienka je mi túžbou, koho dvor slávy je mi cieľom, koho príbytok mi je zámerom, koho meno je mi uzdravením, koho láska je mi žiarou srdca, komu služba je mi najvyššou túhou! Úpenlivo Ťa prosím pri Tvojom Mene, vďaka ktorému si umožnil tým, ktorí Ťa spoznali, aby sa vzniesli do najvelebnejších výšav poznania Teba, a dal si silu tým, ktorí Ťa oddane uctievajú, aby vystúpili do blízkosti dvora Tvojej svätej priazne, pomôž mi obrátiť tvár k Tvojej tvári, upriamiť na Teba zrak a prevrávať o Tvojej sláve.

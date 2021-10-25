@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8636 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 上帝啊！祢创造了所有显圣者，祢是万千圣源之本，一切神圣启示之泉源，所有神圣大光之来源！我见证：借由祢的圣名，理解之天得以装点，宣说之洋因而澎湃。在所有宗教的信徒中间，祢天佑慈恩已广为流传。

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11730 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yabo ya tabbata a garēka, yā Allāna! Kai nē wanda daga būɗa bāki, sai duka dūniya ta yi gilgiza, wanda daga kurta alƙalaminka, ka rarraba bāyunka. Nā shaida yā Allāna, da cēwa, a wannan wahayi, kalmarka guda ɗaya tā sā duk halitta tā zama mai hallaka, kuma da wata kalmar, duk wanɗanda ka zāɓā, suka rāyu da sābuwar rāyuwa, dōmin alfurmarka da karāmarka. Sabōda haka, nike maka gōdiya da yabo, don darajar duk waɗanda kake ƙauna, waɗanda ka sāke rāyāwa da ruwa māsu rāyarwa, da suka ɓullo daga marmaron yardarka. 

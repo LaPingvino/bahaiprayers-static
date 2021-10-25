@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5252 in Bosanski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Ti dobro znaš, O moj Bože, da su na mene navukle poteškoće sa svih strana i da ih niko sem Tebe ne može riješiti. Znam sa sigurnošću, zbog moje ljubavi za Tebe, da nikad nijednoj duši nećeš poslati nedaće osim ako ne namjeravaš uzvisiti njen položaj u Tvome nebeskom Kraljevstvu, i da ćeš mi tokom života poduprijeti srce bedemima Tvoje svepokoravajuće moći da ne postanem naklonjen svjetovnim ispraznostima. Ti si, zaista, u potpunosti svjestan da bih pod svim uslovima više vrednovao spomen na Tebe radije nego posjedovao sve što je na nebu i na zemlji.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn565 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 In Deinem Namen, der Genügende, der Heiler, der Vollender, der Erhabenste, der Hehre, Bahá’u’l-Abhá!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1332 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola De Visitação Do Ramo Mais Puro - Mírzá Míhdi

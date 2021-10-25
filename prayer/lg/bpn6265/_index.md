@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6265 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 *Ayi ggwe anoonya amazima, bwobeera wegomba Katonda okuzibula amoaso go, oteekwa okwegayira Katonda omusabe era nga omwegayirira ettumbi nga ogamba nti:

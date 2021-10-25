@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8514 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 主啊！让这些孩子长成栋梁之才吧。借祢阿卜哈天国甘霖之浇洒，让他们生机勃勃、美丽动人，在祢圣约之园里成长壮大。

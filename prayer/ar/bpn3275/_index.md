@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3275 in العربية'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ar', 'bpn-unsorted']
 +++
 * لوح ليلة البعث

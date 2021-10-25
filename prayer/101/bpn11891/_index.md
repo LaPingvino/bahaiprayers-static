@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11891 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Ponu sositing topat)

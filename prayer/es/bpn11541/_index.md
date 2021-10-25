@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11541 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Tú me ves, oh mi Dios, inclinado en sumisión, humilde ante Tus mandamientos, sometido a Tu soberanía, temblando ante el poder de Tu dominio, huyendo de Tu ira, implorando Tu gracia, confiando en Tu perdón, estremecido de temor ante Tu furia. Te imploro con corazón palpitante, con un torrente de lágrimas y con el alma llena de anhelo, y completamente desprendido de todas las cosas, que hagas de Tus amantes rayos de luz que atraviesen Tus dominios, y que ayudes a Tus siervos escogidos a exaltar Tu Palabra, de modo que sus rostros se vuelvan hermosos y radiantes de esplendor, sus corazones se llenen con los misterios, y cada alma deponga su carga de pecados. Protégelos, pues, del agresor, de aquel que se ha convertido en un desvergonzado y blasfemo malhechor.

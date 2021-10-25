@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12561 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-107', 'bpn-unsorted']
 +++
 Oh Ita-Boot Na’i laran-di’ak! Sira ne’e mak Ita-Boot nia atan ne’ebé halibur ona iha soru-mutu ne’e, fila oin ba Ita-Boot nia reinu no presiza tebes Ita-Boot nia grasa no bensa. Oh Ita-Boot Maromak! Fó sai no hamosu sinál sira ne’ebé hatuur ona iha realidade hotu-hotu husi moris katak Ita-Boot mesak ida de’it. Loke no hatudu virtude sira ne’ebé Ita-Boot subar no helik ona iha ema sira ne’e nia laran.

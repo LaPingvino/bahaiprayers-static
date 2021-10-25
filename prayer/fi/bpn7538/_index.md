@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7538 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Sinä hyvä Herra! Nämä ovat palvelijoitasi, jotka ovat tulleet yhteen tähän kokoukseen, kääntyneet valtakuntasi puoleen ja tarvitsevat anteliaisuuttasi ja siunaustasi. Oi Sinä Jumala! Ilmaise ja tuo julki ykseytesi merkit, jotka on talletettu elämän kaikkiin todellisuuksiin. Paljasta ja tuo esiin ne hyveet, jotka olet tehnyt piileviksi ja kätkenyt näihin ihmistodellisuuksiin.

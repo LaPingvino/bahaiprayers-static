@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1725 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Lof sé Þér, ó Drottinn Guð minn, meistari minn! Þú heyrir andvörp þeirra sem eru að­skildir Þér og víðsfjarri aðsetri Þínu þótt þeir þrái að líta ásýnd Þína. Þú ert vitni að harmatölum þeirra sem þekkja Þig vegna útlegðar frá Þér og brennandi löngunar að finna Þig. Ég sárbæni Þig við þessi hjörtu, sem geyma ekkert annað en fjársjóð minningar Þinnar og lofgerðar, og lýsa aðeins vitnisburði mikilleika Þíns og táknum mátt­ar Þíns, að veita þjónum Þínum sem þrá Þig styrk til að nálgast sæti opinberunar ljómans af dýrð Þinni, og aðstoða þá sem setja von sína á Þig að ganga inn í helgidóm yfirskilvitlegrar hylli Þinnar og náðar.

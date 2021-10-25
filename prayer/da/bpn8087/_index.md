@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8087 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O Du barmhjertige Gud! O Du som er mægtig og stærk! O Du mest kærlige Fader! Disse tjenere er forsamlet og vender sig til Dig, bønfaldende ved Din tærskel, med ønsket om Din store forvisnings grænseløse nådegaver. De har intet formål ud over Dit velbehag. De har intet formål undtagen tjeneste for menneskehedens verden.

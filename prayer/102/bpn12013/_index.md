@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12013 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Dogrudanam budur, Jomartlygyň belent mertebe şapagyndan aýdyň bolan Ylahy baýram.

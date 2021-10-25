@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7701 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen, tout majeste ak glwa, tout otorite ak limyè, tout grandè ak bèlte se pou Ou.Ou voye souverènte sou moun Ou vle, e moun Ou pa vle, Ou anpeche yo jwenn li. Pa gen okenn Bondye esepte Ou menm, Ki Posede Tout Bagay, Ki Pi Egzalte a. Se Ou menm Sila a Ki te pran kote ki pa te genyen anyen an pou kreye linivè a ak tout sa ki abite ladann li. Pa gen anyen ki diyn pou rive jwenn Ou sof Ou Menm menm, pandan nan sen prezans Ou an tout bagay esepte Ou menm rete tankou moun ki egzile epi yo parèt tankou yo pa anyen lè nou konpare yo ak glwa Pwòp Lespri pa Ou. 

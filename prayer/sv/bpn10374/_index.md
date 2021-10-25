@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10374 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 När denna bön läses vid bahá’í-begravningar, skall alla de närvarande stå upp.

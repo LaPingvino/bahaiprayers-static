@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1575 in فارسی'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fa', 'bpn-unsorted']
 +++
 اين مناجات را هر نفسی به کمالِ تَضَرّع و ابتهال بخواند سببِ روح و ريحانِ قلبِ اين عبد گردد و حُکمِ ملاقات دارد.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3508 in Norsk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O min Gud! O du som tilgir synd, som skjenker gaver, som fordriver lidelser!

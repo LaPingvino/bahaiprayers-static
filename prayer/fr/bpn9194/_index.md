@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9194 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est celui qui guérit, qui suffit, qui secourt, qui toujours pardonne, l’Infiniment Miséricordieux. 

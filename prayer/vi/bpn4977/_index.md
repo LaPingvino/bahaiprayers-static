@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4977 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế! Xin Ngài làm cho tâm hồn con tươi mát, thảnh thơi. Xin thanh tẩy trái tim con. Xin soi sáng năng lực con. Con đặt mọi việc của con trong tay Ngài. Ngài là Đấng Dìu dắt con, Đấng Che chở con. Con sẽ không còn lo âu và phiền muộn nữa. Nhưng con sẽ là người hạnh phúc và vui tươi.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12228 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E maluga a Tou igoa, O toku Atua!  Au ko to kavegina ne te agiagi malielie o te matagi mai i Tou nofo-mai te la ko puli ia au aku mo mea katoa ko la e nofo mo au.  Mea nei se fakailoga o te faka-ofoofogina o Tou alofa-kaimalie mo alofaaga mataefa e tuku mai kia au.  Au e vikia a Koe, O toku Atua, me ko oti au ne fili ne Koe mai ia Au mea ola katoa, kae fai au pe la me ko te AsoMalulu o Tou maalosi mo te Faifekau o Tou mafi, kae fakamaalosi ke fakaasi atu Au failoga mo mea-alofa o Tau afioga mo te maalosi te la e seki ai aka loa, i Tou lagi io me ko Tou lalolagi, ne mafai o fai.  

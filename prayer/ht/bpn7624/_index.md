@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7624 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Chak nanm k’ap travèse vil yo, vilaj yo ak bouk yo ki nan Eta sa yo e ki angaje nan gaye pafen Bondye, ta dwe fè lekti priyè sa a chak maten:

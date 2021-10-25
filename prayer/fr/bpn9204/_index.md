@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9204 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Gloire à toi, ô toi qui es le Seigneur de tous les mondes et le Bien-Aimé de ceux qui t’ont reconnu ! Tu me vois assis sous un glaive suspendu à un fil, et tu sais qu’un tel état ne m’empêche ni d’accomplir mon devoir envers ta cause, ni de propager ta louange, ni de proclamer tes vertus, ni de diffuser tout ce que tu m’as prescrit dans tes écrits. Ce glaive s’apprête à tomber sur ma tête, et pourtant j’appelle ceux que tu aimes avec des accents tels que les cœurs sont transportés à l’horizon de ta majesté et de ta grandeur.

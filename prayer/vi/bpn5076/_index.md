@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5076 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế, Ngài là Đấng Phát sinh mọi Biểu hiện, là Nguyên thủy của mọi Cội nguồn, là Căn gốc của mọi Mặc khải và mọi Ánh sáng. Bởi Danh Ngài đã điểm tô rực rỡ bầu trời tri thức, con xin chứng nhận rằng đại dương Thánh ngôn Ngài đã dâng lên và những ban phát thiên ân Ngài đã tuôn đổ xuống cho tín đồ mọi tôn giáo.

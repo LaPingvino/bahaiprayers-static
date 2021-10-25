@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10157 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O God, my God!  Glory be to Thee for having guided me unto the horizon of Thy Revelation, illumined me with the splendours of the light of Thy grace and mercy, caused me to speak forth Thy praise, and given me to behold that which hath been revealed by Thy Pen.   

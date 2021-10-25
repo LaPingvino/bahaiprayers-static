@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1761 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn minn! Þú veist að fólkið er um­kringt þjáningum og ógæfu, býr við þreng­ingar og mæðu. Sérhver raun herjar á manninn og hvers kyns ógn ræðst að honum eins og naðra. Hvergi á hann sér skjól né hæli, nema undir væng verndar Þinnar og varðveislu, gæslu og forsjár.

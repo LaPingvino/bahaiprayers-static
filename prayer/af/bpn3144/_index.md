@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3144 in Afrikaans'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O my God! O U de vergewer van sondes, skenker van gawes, verdrywer van smart!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1131 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Senhor, ó Tu cuja misericórdia circundou a todos, cujo perdão é transcendente, cuja bondade é sublime, cuja absolvição e generosidade envolve a todos, e as luzes de cujo perdão estão difundidas por toda parte! Ó Senhor da glória! Suplico-Te fervorosamente e em lágrimas, para que lances os brilhos do olhar da Tua misericórdia sobre a Tua serva que a Ti ascendeu. Envolve-a com o manto da Tua graça, resplandecente com os ornamentos do Paraíso celestial, e, abrigando-a sob a árvore da Tua unicidade, ilumina a sua face com as luzes da Tua misericórdia e compaixão.

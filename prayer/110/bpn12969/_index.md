@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12969 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 ##PAS I GO LONG AHMAD 

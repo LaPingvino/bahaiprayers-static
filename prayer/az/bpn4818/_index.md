@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4818 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, mənim Allahım! Öz səxavətin və bəxşişinlə mənim kədərimi dağıt və hökmranlığın və qüdrətinlə mənim həyəcanımı qov. Görürsən, İlahi, məni hər tərəfdən kədər bürüdüyü bir zamanda üzümü Sənə tutmuşam. Ey bütün mövcudatın Rəbbi, görünən və görünməyən bütün şeylərə kölgə Salan, Səni and verirəm insanların ürəyini və qəlbini fəth etdiyin Adına, Sənin mərhəmət dəryanın dalğalarına və səxavət Günəşinin şualarına – məni o kəslərin sırasına yaz ki, heç nə onların üzünü Sənə tərəf tutmalarına mane ola bilmədi, Sən Ey bütün adların Rəbbi və göylərin Qurucusu!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11592 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, mi Dios! Lléname la copa del desprendimiento de todas las cosas, y regocíjame con el vino del amor a Ti en la reunión de Tus esplendores y dádivas. Líbrame de los asaltos de la pasión y del deseo, desátame de los grilletes de este mundo inferior, atráeme con arrobamiento a Tu dominio celestial y vivifícame entre tus siervas con los hálitos de Tu santidad.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9990 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 *Prednáša sa raz za dvadsaťštyri hodín

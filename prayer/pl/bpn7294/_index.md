@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7294 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, którego oblicze jest przedmiotem uwielbienia wszystkich tęskniących za Tobą; którego obecność jest nadzieją całkowicie oddanych Twojej woli; którego bliskość jest pragnieniem wszystkich, którzy zbliżyli się do Twego dworu; którego oblicze jest towarzyszem tych, co rozpoznali Twoją prawdę; którego imię jest poruszycielem dusz gorąco pragnących oglądać Twoją twarz; którego głos jest prawdziwym życiem Ciebie miłujących, z ust którego słowa są wodą życia dla wszystkich znajdujących się w niebie i na ziemi!

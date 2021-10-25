@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6017 in Frysk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 ##It Koarte Ferplichte

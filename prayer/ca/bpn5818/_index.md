@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5818 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glòria a Tu, oh Déu meu! Una de les Teves serves, què ha cregut en Tu i en els Teus signes, ha entrat  sota l’ombra de l’arbre de la Teva unicitat. Dóna-li a beure, oh Déu meu, pel Teu Nom, el Manifest i Ocult, del Teu escollit i segellat Vi, perquè es pugui lliurar de si mateixa, i estar completament consagrada al Teu record, i completament despresa de qualsevol que no siguis Tu.

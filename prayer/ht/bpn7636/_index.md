@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7636 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen, Mèt mwen, Bi dezi mwen yo! Men sèvitè Ou, ki ta renmen dòmi nan lonbraj mizèrikòd Ou a, epi repoze anba tonèl gras Ou a, k’ap sipliye Ou pou jwenn swen Ou ak pwoteksyon Ou.

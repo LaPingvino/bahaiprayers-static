@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9476 in ಕನ್ನಡ'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-kn', 'bpn-unsorted']
 +++
 ಓ ಪ್ರಭು ನನ್ನ ದೇವರೇ! ದುರ್ಬಲರ ಸಹಾಯಕನೂ, ಬಡವರ ಆಧಾರಿಯೂ ಹಾಗೂ ನಿನ್ನೆಡೆಗೆ ತಿರುಗುವ ಅಸಹಾಯಕರ ಉದ್ಧಾರಕನೂ ನೀನೇ.

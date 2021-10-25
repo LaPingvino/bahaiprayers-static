@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3381 in български'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bg', 'bpn-unsorted']
 +++
 О Боже мой! О, Ти, опростителю на грехове, дарителю на дарове, утешителю на скърби!

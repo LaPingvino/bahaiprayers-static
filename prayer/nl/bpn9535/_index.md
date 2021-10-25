@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9535 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Gij weet zeer wel, o mijn God, dat ik vanuit alle richtingen word overstelpt door rampspoed en dat niemand dan Gij deze kan verdrijven of omvormen. Vanuit mijn liefde voor U ben ik er vast van overtuigd dat Gij geen ziel ooit rampspoed zal doen overkomen tenzij Gij zijn rang in Uw hemels Paradijs wenst te verhogen en zijn hart in dit aardse leven wenst te schragen met de schans van Uw algebiedende kracht, opdat het niet zal neigen naar de ijdelheden van deze wereld. Gij zijt zekerlijk gewaar dat Uw gedachtenis mij onder alle omstandigheden veel dierbaarder is dan het bezit van al wat in de hemelen en op aarde is.

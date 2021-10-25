@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6263 in Luganda'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ayi Katonda wange, Mukama wange, ekigendererwa kyange era okw'egomba kwange!  Omuddu wo ono, anoonya okuwumulira mu kisiikirize ky'ekisa Kyo era n'okwebakira wansi wa weema ey'ekisa Kyo nga yegayirira obukuumi Bwo n'okulabirira Kwo.

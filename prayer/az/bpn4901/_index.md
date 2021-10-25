@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4901 in Azərbaycan'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 *Naxçıvanın Artuz kəndi

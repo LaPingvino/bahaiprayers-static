@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8624 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 供应者啊！祢将圣灵的甜蜜芳香，吹送给西方之友；祢借神圣导引之光，将西方之天照亮。祢使疏远者亲近祢，让陌生者成为知己；祢使沉睡者苏醒，让疏失者警觉。

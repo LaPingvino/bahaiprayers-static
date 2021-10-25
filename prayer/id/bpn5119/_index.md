@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5119 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Dialah Tuhan!

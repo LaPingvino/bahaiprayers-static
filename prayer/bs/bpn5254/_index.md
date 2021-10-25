@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5254 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 *“Molitve objavljene za izlječenje odnose se na tjelesno i duhovno izlječenje. Izgovarajte ih da bi ste iscijelili dušu i tijelo...” –‟Abdu‟l-Bahá

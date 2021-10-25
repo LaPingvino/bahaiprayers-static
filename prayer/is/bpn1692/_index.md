@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1692 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð, Guð allra nafna og skapari himnanna! Ég bið til Þín við nafn Þitt, sem opinberaði þann sem er dögun máttar Þíns og dagsbrún valds Þíns, bræddi allt sem stirnað var, lífgaði dauða og staðfesti sérhvern snortinn anda. Ég sárbæni Þig að hjálpa mér að leysast frá öllu nema Þér og þjóna málstað Þínum, óska þess sem Þú hefur óskað í krafti yfirráða Þinna og framfylgja þóknun Þinni.

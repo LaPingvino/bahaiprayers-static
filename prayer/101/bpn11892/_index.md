@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11892 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Notap sa’ant ku, O Raja ku, bia sa’ant bala dek bisayak daang Ingan onik dek patut paguh sa’ant koih daang dek kila Ingan, kodae dek ogi luwah daang Sindok Buk, tilanan daang aguam tongan Ingan leh Ingan kagient pinotu sukat sua-sua onik.

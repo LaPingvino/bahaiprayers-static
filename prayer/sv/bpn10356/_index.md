@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10356 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Må var och en som beger sig ut på en undervisningsresa till någon plats, läsa denna bön dag och natt under sina resor i främmande trakter:

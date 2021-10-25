@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11770 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Mudi Adon Ingan, O Raja Topa koih! Inganleh sibonar-eh dek Pu’ant sua-sua onik dek dik eh tonga. Notap sa’ant koih pangipaguh dimuno kidu-ung Ingan pu’ant nga-ki pangipu’ant dek pakuak Ingan. Ingan leh Raja dek bigagah, dek Ayuh Kuasa, Perinduk dek Sinunuh. 

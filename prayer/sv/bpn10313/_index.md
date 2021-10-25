@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10313 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Bön för föräldrar

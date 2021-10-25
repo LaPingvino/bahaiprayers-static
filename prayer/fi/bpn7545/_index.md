@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7545 in Suomi'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Herra! Sinulta etsin turvapaikkaa ja kaikkia Sinun merkkejäsi kohti viritän sydämeni. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4984 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế, Thượng Đế của con, làm sao con có thể an nghỉ trong khi biết bao người khao khát Ngài đang thao thức vì xa cách Ngài; và làm sao con có thể nằm yên trong khi biết bao linh hồn yêu mến Ngài đang sầu khổ vì xa rời sự hiện diện của Ngài?

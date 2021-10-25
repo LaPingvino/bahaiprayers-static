@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11489 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Te imploro, oh mi Dios, por toda la gloria trascendente de Tu Nombre, que atavíes a Tus amados con el manto de la justicia e ilumines su ser con la luz de la honradez.

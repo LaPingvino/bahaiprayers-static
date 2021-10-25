@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8261 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Give ear, O My servant, unto that which is being sent down unto thee from the Throne of thy Lord, the Inaccessible, the Most Great. There is none other God but Him. He hath called into being His creatures, that they may know Him, Who is the Compassionate, the All-Merciful. Unto the cities of all nations He hath sent His Messengers, Whom He hath commissioned to announce unto men tidings of the Paradise of His good-pleasure, and to draw them nigh unto the Haven of abiding security, the Seat of eternal holiness and transcendent glory.

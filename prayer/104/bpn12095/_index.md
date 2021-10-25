@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12095 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Maha Mulialah Engkau, Ya Tuhanku! Aku bersyukur kepada-Mu kerana Engkau telah   membolehkan daku mengenal Dia, Fajar  rahmat-Mu dan Tempat Terbit kurnia-Mu dan Sumber Akidah-Mu. Aku memohon kepada-Mu demi nama-Mu, yang melalui-Nya wajah-wajah mereka yang dekat kepada-Mu telah menjadi putih, dan kalbu-kalbu mereka yang mencintai-Mu telah terbang kepada-Mu, agar mengizinkan daku untuk berpegang teguh kepada tali-Mu pada setiap waktu dan dalam segala keadaan, dan terlepas daripada ikatan sesiapa pun kecuali Engkau, dan membolehkan mataku diarahkan ke ufuk Revelasi-Mu, dan dapat menjalankan apa yang telah Engkau tentukan bagiku dalam Loh-Loh-Mu.

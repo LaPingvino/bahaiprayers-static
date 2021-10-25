@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5309 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Oizabrana ženo! On je Bog; slavljena neka je divota Njegovog svjetla.

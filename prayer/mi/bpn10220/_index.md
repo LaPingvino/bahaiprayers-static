@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10220 in Māori'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 E tōku Atua! e tōku Atua! Tūturu, tāku karanga ki a Koe me tāku inoi ki mua i Tōu aroaro kia tukua mai Ōu tohu aroha ki runga ki ēnei wairua ora. Whakamotuhakehia rātou ki Tāu manako me Tāu pono. 

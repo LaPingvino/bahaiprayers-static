@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7536 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani! Oi Jumalani! Olen palvelija, joka Sinuun viehättyneenä lähestyy nöyränä ykseytesi ovea ja rukoilee armosi valtakuntaa.

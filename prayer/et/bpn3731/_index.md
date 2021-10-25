@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3731 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo Jumal, mu Jumal! Ma anun Sind Sinu tervenduse ookeani ja Sinu armu Päevatähe hiilguste ja Sinu Nime juures, mille läbi Sa alistasid oma teenrid, ning Sinu ülevaima Sõna läbitungiva jõu ja Sinu austusväärseima Sule võimsuse ja Sinu halastuse nimel, mis eelneb kogu loodule taevas ja maa peal, et Sa puhastaksid mind oma helduse veega igast kannatusest ja haigusest ning kõigest nõrkusest ja jõuetusest.

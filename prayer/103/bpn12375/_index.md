@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12375 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 Many a chilled heart, Om my God, hath been set ablaze with the fire……

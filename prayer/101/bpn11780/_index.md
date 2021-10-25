@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11780 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Raja! Nai odak onak opot dimutik pimuluah dek cemerlang. Odak negeh iyoh tumue duoh maju daang kobont Waadat Ingan, bia jugan sikadud duoh pangisangon pakai sok tatieg abunt Pritah Abha.

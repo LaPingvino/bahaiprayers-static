@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3236 in Afrikaans'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O God, my God! U sien hierdie swak een om hemelse sterkte smeek, hierdie arm een verlang na U hemelse skatte, hierdie dors een verlang na die fontein van die ewige lewe, hierdie geteisterde een smag na U beloofde genesing deur middel van U grenslose genade, wat U bestem het vir U verkose dienaars in U koninkryk in die hoogte.

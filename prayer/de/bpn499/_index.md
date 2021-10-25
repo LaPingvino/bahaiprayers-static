@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn499 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O mein Gott! Du weißt, dass die Menschen von Kummer und Unglück umzingelt, von Mühsal und Sorgen umgeben sind. Jegliche Prüfung fällt den Menschen an, und schreckliches Leid kommt über ihn wie der Angriff einer Schlange. Es gibt kein Obdach, keine Zuflucht für ihn, es sei denn unter dem Fittich Deines Schutzes, Deiner Bewahrung, Deiner Hut und Deiner Wacht.

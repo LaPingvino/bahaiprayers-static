@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9334 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ho Anao ny fiderana, ry Tompo Andriamanitro ô! Mitalaho Aminao aho noho ny Anaranao Lehibe Indrindra izay notanana an-tranomaizina tao amin’ny tanànam-pigadran’i Akora, nianjera teo an-tanan’ny fahavalony - araka izay hitanao ry Andriamanitro ô – ary norahonan’ny sabatry ny ratsy fanahy. Hanamafiso aho ao amin’ny Fototrany ary tariho mandrakariva ny fijeriko ho any amin’ny Lapany mba tsy hisy hanana fahefana hampitodika ny fijeriko tsy ho any Aminy.

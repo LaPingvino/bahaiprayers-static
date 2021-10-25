@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5851 in Català'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Lloances Et siguin dades, oh Senyor, el meu benamat! Fes-me ferm en la Teva Causa i permet que pugui ser contat entre els qui no han violat la Teva Aliança ni seguit els deus de llurs vanes fantasies. Permet-me, doncs, obtenir un setial en la Teva presència, concedeix-me una mostra de la Teva misericòrdia i deixa que m’uneixi a aquells serfs Teus què ni tindran temor ni seran castigats. No m’abandonis a mi mateix, oh Senyor meu, ni em privis de reconèixer a Aquell qui és la Manifestació del Teu propi Ser, ni em comptis entre els qui s’han apartat de la Teva Santa presència. Tinguem present, oh Déu meu, entre aquells què tenen el privilegi de fixar els seu esguard en la Teva Bellesa i els qui senten tal goig per això que no canviarien ni un sol d’aqueixos moments per la sobirania del regnats dels cels i la terra ni per tot el  regne de la creació. Tingués misericòrdia de mi, oh Senyor, en aquests dies en que la gent de la Teva terra han errat greument; proveeix-me, doncs, oh Déu meu, amb allò que al Teu judici sigui bo i decorós, Tu ets veritablement el Tot Poderós, el Generós, el bondadós, Qui sempre perdona.

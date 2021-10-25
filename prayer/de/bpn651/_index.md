@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn651 in Deutsch'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Ruhm sei Dir, o Gott! Wie kann ich von Dir sprechen, da Du heilig bist über den Lobpreis der ganzen Menschheit! Verherrlicht sei Dein Name, o Gott! Du bist der König, die ewige Wahrheit. Du weißt, was in den Himmeln und auf Erden ist, und zu Dir müssen alle zurückkehren. Nach deutlichem Maße hast Du Deine göttlich bestimmte Offenbarung herabgesandt. Gelobt seiest Du, o Herr! Kraft Deines Befehls machst Du siegreich, wen Du willst, durch die Heerscharen des Himmels, der Erde und dessen, was dazwischen ist. Du bist der höchste Herrscher, die Ewige Wahrheit, der Herr unüberwindlicher Macht.

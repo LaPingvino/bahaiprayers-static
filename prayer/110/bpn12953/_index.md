@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12953 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 O God, O God bilong mi!  Mi askim strong long Yu long solwara bilong Yu bilong winim sik. Na long bikpela lait bilong San bilong marimari bilong Yu.  Na long Nem bilong Yu, em Nem i save bosim ol wokman bilong Yu.  Na long strongpela pawa bilong Tok bilong Yu, em Tok i stap antap tru long olgeta samting.  Na long pawa bilong Ing na Pen bilong Yu, em Pen i gutpela tru.  Na long marimari bilong Yu, em i bin stap bipo long taim Yu bin mekim kamap olgeta samting long heven na long graun.  Long ol dispela gutpela samting mi askim strong long Yu long wasim mi wantaim wara bilong blesing bilong Yu, inap ol kain kain sik na ol kain kain samting i laik bagarapim mi bai lusim mi na mi stap strong gen. 

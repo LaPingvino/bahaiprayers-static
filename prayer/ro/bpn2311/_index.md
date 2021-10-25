@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2311 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 ##Rugăciunea lungă de însănătoşire

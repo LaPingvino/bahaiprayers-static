@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5404 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おおご親切にして愛情ある摂理せつりの御方よ。久遠くおんの大海の大波のごとく、東方はざわめき、

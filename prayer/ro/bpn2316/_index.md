@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2316 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 În numele Domnului, Cel Străvechi, Cel Măreţ.

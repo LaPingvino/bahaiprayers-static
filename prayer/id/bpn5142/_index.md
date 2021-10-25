@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5142 in Bahasa Indonesia'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Aku memohon pemaafan-Mu, Ya Tuhanku, dan meminta dengan sangat pengampunan-Mu, sebagai- mana Engkau menginginkan hamba-hamba-Mu menghadap kepada-Mu. Aku memohon kepada-Mu agar menghapuskan dosa-dosa kami sesuai dengan martabat Keilahian-Mu, dan agar mengampuni daku,orang tuaku dan mereka yang menurut perhitungan-Mu telah memasuki tempat kediaman cinta-Mu, dengan cara yang layak bagi kedaulatan-Mu yang luhur dan patut bagi kekuasaan surgawi-Mu yang mulia.

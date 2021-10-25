@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn525 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Gott bezeugt die Einheit Seiner Gottheit und die Einzigartigkeit Seines Wesens. Auf dem Thron der Ewigkeit, von den unzugänglichen Höhen Seiner Stufe verkündet Seine Zunge, dass es keinen Gott gibt außer Ihm. Unabhängig ist Er von allen anderen und seit je Zeuge Seiner Einzigkeit, Offenbarer und Verherrlicher Seines Wesens. Wahrlich, Er ist der Allgewaltige, der Allmächtige, der vollendet Schöne.

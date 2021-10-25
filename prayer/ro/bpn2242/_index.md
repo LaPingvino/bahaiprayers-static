@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2242 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slăvit fii Tu, o, Doamne Dumnezeul meu!

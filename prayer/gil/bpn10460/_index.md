@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10460 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Aikai boong, Atuau, are Ko a tia ni katauia Am toro bwa a na taua bukin te akimamatam. Are iai are Ko katamaroa iai moan abokan Am Boki n Tua ake a karuoaki i bukiia Am karikibwai, ao ni kaota tamaroan Umwan Am kaetieti nako i mataia ni kabane ake n Am karawa ao ni kabane aika i aon te aonaaba.  Ko a tia ni kataua auan nako boong aikai ma te anua ae e okoro, are e aki kona ni warekaki irouia ni kabane ma ti Iroum, are Rabakauna e rabwati karikibwai ni kabane.  Ko a bon tia, naba, ni kataua mwakoron te anua aei n aron taekan Taburetin Am kaetieti ma Am koroboki are Ko a tia iai, n aron anne, n reke tibwaia iai n tatabemaniia aomatan nako ma utuun nako te aonaaba.

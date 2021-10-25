@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7801 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Tu purissimo Dio! Sono un piccolo bimbo; concedimi di desiderare il seno della Tua amorosa gentilezza; fa’ ch’io sia nutrito col miele e col latte del Tuo amore; allevami al cuore del Tuo sapere e concedimi nobiltà e saggezza mentre sono ancora fanciullo. 

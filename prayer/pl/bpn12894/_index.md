@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12894 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie, Boże nasz! Jesteśmy bezradni; Ty jesteś Panem siły i mocy. Jesteśmy nieszczęśnikami; Ty jesteś Wszechmocnym, Wszechchwalebnym. Jesteśmy ubodzy; Ty jesteś Wszystko Posiadającym, Najhojniejszym. Wspomagaj nas łaskawie w służbie u Twego świętego Progu i dopomóż nam swą umacniającą łaską wielbić Cię w miejscach świtania Twej chwały. Pozwól nam rozsiewać Twoje święte wonności wśród Twych stworzeń i wzmocnij nas, abyśmy mogli Ci służyć pośród sług Twoich, prowadzić wszystkie narody do Twego Największego Imienia i doprowadzić wszystkie ludy do brzegów chwalebnego oceanu Twej jedyności.

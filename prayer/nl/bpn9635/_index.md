@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9635 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Ik smeek U bij de glans van het licht van Uw heerlijk gelaat, bij de majesteit van Uw aloude grootheid en bij de macht van Uw alles te boven gaande soevereiniteit, op dit ogenblik al wat goed en gepast is voor ons te beschikken en al Uw genadegiften voor ons te bestemmen. Het schenken van gaven levert U immers geen verlies op, noch vermindert het verlenen van gunsten Uw rijkdom.

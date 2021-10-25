@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11859 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa ku! O Topa ku! Mulia manah Ingan setegal Ingan mbok notap oku odak ngaku pinyindi Ingan, pilipuang oku tudu bangsina Ingan dek sadik, mbok odak oku bidudue pakai opui pangirinduk Ingan, bia kanuae oku pakai pingunang-pingunang Ingan bia khidmat bala dingan Ingan duoh onak dayung ulunt Ingan. 

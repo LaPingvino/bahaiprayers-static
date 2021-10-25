@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11657 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Tú bien sabes, oh mi Dios, que las tribulaciones han llovido sobre mí desde todos lados y que nadie puede disiparlas ni transmutarlas sino Tú. Sé con toda seguridad, en virtud de mi amor por Ti, que jamás harás que le sobrevengan tribulaciones a ningún alma a menos que desees ensalzar su posición en Tu Paraíso Celestial, y reforzar su corazón en esta vida terrenal con el baluarte de Tu irresistible poder, para que no se sienta inclinada hacia las vanidades de este mundo. Tú sabes muy bien que, en cualquier circunstancia, yo acariciaría el recuerdo de Ti mucho más que la posesión de todo lo que existe en los cielos y en la tierra.

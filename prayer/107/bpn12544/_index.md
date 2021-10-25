@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12544 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-107', 'bpn-unsorted']
 +++
 Oh Na’i! Ha’u fila oin ba Ita-Boot hodi buka protesaun, no tau ha’u-nia laran iha Ita-Boot nia sinál hotu-hotu. Oh Na’i! Karik iha viajen ka iha uma, no karik iha ha’u-nia okupasaun ka iha ha’u-nia serbisu, ha’u tau ha’u-nia fiar tomak iha Ita-Boot.

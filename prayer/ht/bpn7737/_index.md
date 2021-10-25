@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7737 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Voye pou mwen, O Senyè mwen, ak pou moun ki kwè nan Ou, sa Ou estime k’ap pi bon pou nou, jan li prezante nan Manman Liv la, paske Ou kenbe anba kontwòl Ou pòsyon ki etabli pou tout bagay. 

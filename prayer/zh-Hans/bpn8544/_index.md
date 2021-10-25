@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8544 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的主啊！我的主！我赞美祢，感谢祢，因祢已赐恩于这卑微的女仆。祢的女仆恳求祢，因祢确已引导她进入祢昭然的国度，在这偶然红尘中听到祢的崇高呼召，看到祢的天兆——它们证实了祢胜利地统御万物。

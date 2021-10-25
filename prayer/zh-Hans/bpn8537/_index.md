@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8537 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 真理的探求者啊！你若渴望上帝开启你灵性之眼，你就须在午夜恳求上帝，向祂祈祷并与之交谈。你可以如是说：

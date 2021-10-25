@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12540 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-107', 'bpn-unsorted']
 +++
 Oh ha’u-nia Maromak! Oh Ita-Boot perdua-na’in ba sala sira, haraik-na’in ba prémiu sira, kasu-na’in ba terus sira!

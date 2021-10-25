@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11495 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Concédeme, oh mi Dios, la plenitud de Tu amor y Tu complacencia, y, con la atracción de Tu luz resplandeciente, extasía nuestros corazones, oh Tú que eres la Evidencia Suprema y el Todoglorificado. Como señal de Tu gracia, sopla sobre mí Tus brisas vivificadoras durante el día y por la noche, oh Señor de munificencia.

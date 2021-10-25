@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11831 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Oto dek sua-sua eh dingan Topa, oto patut ngin Sugu sak to dapod maju, sungu wat inoh, pingungin to’ harus leh nunda wat dek tungang. Topa idoh dik-eh nusah/paksa simo oto bonar-bonar doie daya. Sua Pusat Baha’i bia sua pinganut leh dek ngin Sugu. Sok noh leh sok Sugu nog. O dingan Topa! Ogi totok Topa gati Sugu dek mala oto ngin, kodae pimuluah dagang ingan bia pingunai ingan obuah ngin berkat dengan bitamah berlipat ganda, dengan hadiah kona duoh pangipisoh. Nyaa noh dek ogi ngin dengan nikan pingunai dek kona totap terima balasan simoong sidoh ganda. Doie masalah bahawa Raja dek idip totap dengan lu’ad lobih notap bala dek nyongah pangikaya-eh daang olant Topa.)

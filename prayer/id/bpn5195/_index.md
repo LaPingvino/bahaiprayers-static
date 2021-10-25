@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5195 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 * "Sesungguhnya telah diperintahkan bagimu agar menyelenggarakan selamatan sekali sebulan walaupun yang dihidangkan hanya air saja; karena Allah telah bertujuan untuk menjalin kalbu-kalbu meskipun melalui cara-cara duniawi maupun surgawi ". Bahá’u’lláh

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12699 in Iban'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Kati bisi Pemuai pemerinsa bukai kelimpah ari Petara?

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5823 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Lloat siguis, oh Senyor Déu meu! T’imploro pel Teu Nom, que ningú ha reconegut dignament i el significat del qual cap ànima ha pogut sondejar; et suplico per Aquell qui és la Font de la revelació i l’Aurora dels Teus signes, que facis del meu cor un receptacle dels Teu amor i del Teu record, Uneix-lo al Teu gran oceà, perquè d’ell emanin les aigües vives de la Teva saviesa i els corrents cristal·lins de la Teva glorificació i lloança.

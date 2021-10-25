@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10000 in Slovensky'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Pochválené buď Tvoje meno, ó Pane môj Bože! Vskutku, Ty si Ten, ktorý pozná veci nikým nevidené. Urči pre nás toľko dobra, koľko len Tvoje všetko objímajúce poznanie dokáže zmerať. Ty si zvrchovaný Pán, Všemohúci, nadovšetko Milovaný.

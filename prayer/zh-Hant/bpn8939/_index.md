@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8939 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 我的上帝啊！我的上帝！我真誠地在祢門前祈求和懇請，求祢將一切仁恩降予這些靈魂，特選他們承享祢的真理與恩寵。

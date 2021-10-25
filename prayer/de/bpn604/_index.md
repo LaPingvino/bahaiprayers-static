@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn604 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Du siehst mich, wie ich vor der Tür Deiner Güte und Vergebung stehe, wie ich meinen Blick auf den Himmelssaum Deiner großmütigen Gunst und Deines mannigfachen Segens richte. Ich bitte Dich bei Deiner süßen Stimme und bei dem schrillen Laut Deiner Feder, o Du Herr der ganzen Menschheit, hilf gnädig Deinen Dienern, wie es Deinen Tagen entspricht und der Herrlichkeit Deiner Manifestation und Deiner Majestät ansteht. Wahrlich, Du bist mächtig zu tun, was Du willst. Alle Bewohner der Himmel und der Erde bezeugen Deine Kraft und Deine Macht, Deine Herrlichkeit und Deine Freigebigkeit. Preis sei Dir, Du Herr der Welten, Du Einziggeliebter für das Herz jedes Einsichtsvollen!

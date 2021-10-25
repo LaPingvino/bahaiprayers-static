@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12003 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Ebedi Alla.

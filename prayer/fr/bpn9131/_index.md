@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9131 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 *Prière à dire à la fin de la réunion de l’assemblée spirituelle.

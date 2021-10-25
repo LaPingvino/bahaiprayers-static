@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1715 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Guð vitnar um einingu guðdóms síns og ein­stæði eigin verundar. Frá hásæti eilífðar og úr ótilkvæmilegum hæðum stöðu Hans, lýsir rödd Hans því yfir, að enginn sé Guð nema Hann. Hann sjálfur, óháður öllu öðru, hefur ætíð vitnað um eigið einstæði, birt eigið eðli og vegsamað kjarna sinn. Hann er vissulega hinn alvoldugi og almáttugi, hinn alfagri.

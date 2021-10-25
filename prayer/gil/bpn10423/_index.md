@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10423 in Kiribati'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Au Uea, ao Atuau ao au Tabo ni Motirawa man korakaiu! Otangau ao te Tia Kakaawakin man  korakaiu!  Au nono ao au Tabo ni Kakaawakin n tain te kangaanga ao n tain te maroaa bon iriau, n au tai n rawawata bon karauan nanou ao ngkana ti ngai bon raou ae e tangiraki.  Te Tia Kamwaawai kananokaawaki nako ao te Tia Kabwarai au bure!

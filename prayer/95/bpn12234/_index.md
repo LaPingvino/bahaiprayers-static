@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12234 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Ko te Matagofie e io Koe, O toku Atua!  E lagona ne Koe a Au tavini maalosi e tagi fanoanoa i te olotou mavae mai mo Koe, pela mo latou foki kola ko oti ne iloa ne latou a Koe ko tagi lotulotu ona ko te olotou mao maim o Tou nofo-mai.  Tala atu ne Koe a olootu mata faka-te-fuaitino, O toku Aliki, a mataloa o Tou alofa-kaimalie, ko te mea ke mafai ne laou o ulu mai I Tau taliaaga kae pela mot e mea e tusa mo Tou finagalo, kae ke mafai o tu mai mua o tou kalauna-a-tupu o Tou afioga, kae pouke ne latou a gauga-leo o Tou leo, kae ke faka-maina a latou ki te gali silisili o te mainaaga o Ou mata.  

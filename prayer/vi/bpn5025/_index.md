@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5025 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Kinh Bản Carmel

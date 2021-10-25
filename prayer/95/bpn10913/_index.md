@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10913 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Matagofie e io Koe, O te Aliki toku Atua! Au e akai kia Koe ke fakamagalo mai au mo latou ko la e lago ki Tau Talitonuuga.  E tonu, a Koe ko te Aliki silisiliese, ko te Fakamagalo, ko Tafasili i te Kaimalie.  O toku Atua!  Faka-mafai aka ko Au tavini ko la e se-oko kia latou a te poto ke mafai o aofia ki loto i Tau Fakatokaaga; ke mafai i ei ne latou o tauloto e uiga mo Koe, e molimau ki te meatonu o te Aso o te Fakamasinoga kae ke se-teke a fakaasiiga o Tou alofa.  Tuku ifo ki lalo ia latou a masauaga o Tou alofa-kaimalie, kae talia a latou, i so se koga e nofo iei a latou, a se tusaga lasi mai i mea ko la ko oti ne fakaeke ne Koe ki Au tavini maalosi.  A Koe e tonu ko te Pule Silisili, ko te Maumea-Katoatoa, ko te Tafasili i te Atafai.

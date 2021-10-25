@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5485 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお神よ、わが神よ、私の頭こうべを正義の冠かんむりで、私のこめかみを公平の装飾で飾り給え。

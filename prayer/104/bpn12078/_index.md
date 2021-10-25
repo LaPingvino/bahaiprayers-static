@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12078 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhan, Tuhanku! Ini adalah anak yang telah dilahirkan daripada loin salah seorang hamba-Mu yang telah Engkau kurniakan kedudukan yang istimewa dalam Loh-Loh perintah-Mu yang muktamad dalam Kitab-Kitab perintah-Mu.

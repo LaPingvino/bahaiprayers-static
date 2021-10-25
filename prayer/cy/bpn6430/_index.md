@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6430 in Cymraeg'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Dydi Garedig Arglwydd!  Ti a greaist yr holl ddynoliaeth o’r un llinach.  Ti a orchmynaist i bawb fod yn eiddo i’r un tylwyth.  Yn Dy Bresenoldeb Sanctaidd, Dy weision ydynt oll, a’r holl ddynolryw a gysgodir o dan Dy Dabernacl; y maent oll wedi ymgynnull ger Fwrdd Dy Haelioni; goleuir hwynt oll â goleuni Dy ragluniaeth.  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9528 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Hoe kan ik wensen te slapen, o God, mijn God, wanneer zij die naar U hunkeren niet kunnen slapen omdat zij van U gescheiden zijn, en hoe kan ik mij te rusten leggen terwijl de zielen van Uw minnaars gekweld worden doordat zij veraf zijn van Uw tegenwoordigheid?

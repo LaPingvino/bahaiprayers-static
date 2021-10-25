@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2431 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Tu, Kā tuvums ir mana vēlēšanās, Kā klātbūtne ir mana cerība, Kā pieminēšana ir mans ilgojums, Kā godības Galms ir mans ceļa mērķis, Kā mājoklis ir mana tiecība, Kā vārds ir mana dziedināšana, Kā mīlestība ir manas sirds starojums, Kuram kalpot ir manas karstākās alkas. Piesaucot Tavu Vārdu, caur kuru Tu ļāvi tiem, kas Tevi atzinuši, pacelties Tavas zināšanas cildenajos augstumos un devi spēku tiem, kas no visas sirds pielūdz Tevi, tuvoties Tavas svētās vēlības Galmam, es lūdzu Tevi, palīdzi man vērst seju uz Tavu vaigu, celt skatu uz Tevi un daudzināt Tavu slavu.

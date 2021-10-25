@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10005 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Pane! Učiň tieto deti nádhernými rastlinkami. Umožni im rásť a rozvíjať sa v záhrade Svojej zmluvy a udeľ im sviežosť a krásu prostredníctvom dažďa padajúceho z oblakov nadovšetko slávneho kráľovstva.

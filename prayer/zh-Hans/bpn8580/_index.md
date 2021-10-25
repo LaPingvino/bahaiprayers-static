@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8580 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 以纯然愉快的心情前来聚会，在聚会开始时吟诵此祷文：

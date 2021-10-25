@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11433 in தமிழ்'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ta', 'bpn-unsorted']
 +++
 *இருபத்து நான்கு மணி நேரத்திற்கு ஒரு முறை கூறப்படவேண்டும்.   

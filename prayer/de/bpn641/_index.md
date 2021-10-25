@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn641 in Deutsch'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Im Namen Deines Herrn, des Schöpfers, des Herrschers, des Allgenügenden, des Erhabensten, Dessen Hilfe alle Menschen erflehen.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9743 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Mijn God, mijn Vuur en mijn Licht! De dagen die Gij in Uw Boek de Ayyám-i-Há hebt genoemd zijn begonnen, o Gij die de Koning van namen zijt, en de Vasten die Uw verhevenste Pen heeft opgelegd aan allen die in het rijk van Uw schepping zijn nadert. Ik smeek U, o mijn Heer, bij deze dagen en bij al diegenen die zich gedurende deze periode aan het koord van Uw geboden hebben vastgeklemd en de handgreep van Uw voorschriften hebben gevat, te geven dat aan iedere ziel een plek wordt toebedeeld binnen de grenzen van Uw hof, en een zetel bij de openbaring van de luister van het licht van Uw aangezicht.

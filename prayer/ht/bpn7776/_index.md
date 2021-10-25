@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7776 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##Priyè pou Naw-Rúz

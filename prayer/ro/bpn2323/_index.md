@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2323 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, credincioşi! De va fi să vizitaţi locul de odihnă al Celei Mai Slăvite Frunze, ce s-a înălţat către Tovarăşul Sfânt, staţi în picioare şi spuneţi:

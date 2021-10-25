@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10294 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Du gode Herre! Från frigörelsens horisont har Du uppenbarat själar som likt månens sken sprider sin strålglans över hjärtats och själens rike, och har befriat sig från egenskaperna i tillvarons värld och hastat åstad mot evighetens konungarike. Med en droppe från Din godhets ocean har Du mången gång vattnat deras hjärtans trädgårdar tills de förlänades en oförliknelig friskhet och skönhet. Din gudomliga enhets heliga vällukter spreds därmed vida omkring och utsände sin ljuvhet över hela världen och fick jordens nejder att fyllas av sötma. 

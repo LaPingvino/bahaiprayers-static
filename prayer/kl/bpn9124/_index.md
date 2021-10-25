@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9124 in Kalaallisut'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 *Kikkulluunniit Guutip tipigissusianik naamajuminartumik siaruarterisut ullaat tamaasa qinnut inna oqaatigisarlissuk.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4804 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey yaxınlığı muradım, vüsalı ümidim, zikri diləyim, əzəmət dərgahı məqsədim, məkanı mətləbim, adı dərmanım, məhəbbəti könlümün nuru, xidmətində durmaq ən yüksək arzum! And verirəm Sənin o Adına ki, Sən onunla Səni tanıyanları Öz irfanının ən yüksək zirvələrinə uçurdun və sədaqətlə Sənə sitayiş edənləri müqəddəs lütflərinin sarayına yüksəlmələrinə yardım etdin - kömək eylə, üzümü Sənin üzünə çevirim, gözlərimi Sənə dikim və Sənin cəlalını vəsf edim.

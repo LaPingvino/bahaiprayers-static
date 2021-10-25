@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8821 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 我的主啊！我的主！我讚美祢，感謝祢，因祢已賜恩於這卑微的女僕。祢的女僕懇求祢，因祢確已引導她進入祢昭然的國度，在這偶然紅塵中聽到祢的崇高呼召，看到祢的天兆——它們證實了祢勝利地統御萬物。

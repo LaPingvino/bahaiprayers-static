@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2318 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 *Studiaţi Tableta Marinarului Sfânt ca să puteţi afla adevărul, şi luaţi seama că Frumuseţea Binecuvântată a prezis în întregime evenimentele viitoare. Fie ca cei ce înţeleg să ia aminte! - ‘Abdu’l-Bahá

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9619 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O mijn God! O mijn God! Gij ziet deze kinderen die de twijgen van de boom des levens zijn, de vogels van de weiden van verlossing, de parelen in de oceaan van Uw genade, de rozen in de tuin van Uw leiding.

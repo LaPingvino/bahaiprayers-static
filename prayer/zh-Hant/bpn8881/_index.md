@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8881 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 我的主啊！如祢所知：萬民被痛苦和災難包圍，與艱難和困苦相伴，每一種考驗及可怕的災禍，都如侵襲人類的毒蛇一般。除了祢保衛、看守及監護之羽翼，他們別無避難所和救濟院。

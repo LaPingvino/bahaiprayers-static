@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10900 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Seiloa ne au, O toku Atua, me sea ate Afi tenei e fakaka ne Koe i Tou fenua.  A te lalolagi se mafai lele ne ia o pono tena mainaaga, io me ko te vai e mafai o fakagata a tena ulaaaga.  A tagata katoa o te lalolagi e see kafi o teke tena maalosi.  Sili i te lasi o te faka-manuiaaga o ia tela e fakapilipili kiei, kae lagona ne ia a tena ulaaga.

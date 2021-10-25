@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10957 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua, O ko Koe Tela ne tuku atu a Tou gali ki luga i te mainaaga o te tina mea tonu ki tagata, e tufa atu ki luga ia latou a molii malifalifa o te poto mo te takitakiiga, kae ko oti ne filigina a latou mai i mea faiite katoa mo te alofaaga maluga tenei, kae ko pokotia a latou o aofia iei a mea katoa, ke malamalama i olotou uiga poko, kae ke fakaasi atu a olotou mea lilo, e aumai iei ne latou ki mua mai ite pouliga ki te lalolagi matea!  A Ia e tonu e ligi mai a Tena alofa fakapitoa ki so se tino e loto a Ia ki ei!” (1)

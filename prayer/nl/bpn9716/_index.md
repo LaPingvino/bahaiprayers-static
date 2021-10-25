@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9716 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Hij is de Machtige, de Verontschuldiger, de Meedogende!

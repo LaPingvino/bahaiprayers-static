@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6019 in Frysk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 O Jo, suvere God! Ik bin in lyts bern; meitsje de skurte fan Jo jefte ta in leaflik rêstplak fan treast, lit my groeie en fied wurde mei de hunnich en de molke fan Jo leafde en bring my grut mei Jo kennis; lit my frij wêze salang't ik in bern bin en jou my ealens!

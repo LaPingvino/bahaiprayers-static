@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5375 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお神よ、わが神よ。これらはあなたのか弱い僕しもべらであり、あなたの忠実な奴隷どれいであ

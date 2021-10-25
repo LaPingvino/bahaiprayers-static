@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5301 in Bosanski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Molim za oprost, Moj Bože, a molim Te onako kako Ti želiš da Ti se sluge obraćaju. Molim Te da spereš naše grijehe onako kako priliči Tvojoj plemenitosti, i da oprostiš meni, mojim roditeljima i onima koji Tvojom voljom uđoše pod svod Tvoje ljubavi, onako kako priliči Tvojoj Najvećoj Vrhovnosti i dostojno je slave Tvoje nebeske moći.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7642 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Senyè! Bò kote Ou mwen chèche refij, e mwen fikse kè mwen nan direksyon tout siyn Ou yo. 

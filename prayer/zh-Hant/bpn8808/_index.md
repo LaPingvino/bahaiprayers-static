@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8808 in 繁體中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 以我主——造物主、至高君王、滿足一切者、至尊者、萬民求助者的名義。

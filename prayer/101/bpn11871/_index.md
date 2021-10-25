@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11871 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Mulia manah Ingan, O Raja dunia duoh Pinyoot negara, O Ingan Nyaa dek ogi tonga daang Adon Maha Agung, luban mutiara-mutiara bijaksana bia pingunang mbok tomus nog sok tiga’ant laut luwas ilmu pangipu’ant Ingan bia longit revelasi ilahi mbok obuah ngabunt pakai towa boton onu dek bitanga rupa Ingan. 

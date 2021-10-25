@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2408 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slava Tev, ak Dievs, mans Kungs! Es lūdzu Tevi un piesaucu Tavu Vārdu, kura nozīmi neviena dvēsele vēl nav izdibinājusi un kuru pienācīgi apjautis vēl nav neviens. Es lūdzu Tevi pie Tavas Atklāsmes Pirmavota un Tavu zīmju Gaismas, padari manu dvēseli par Savas mīlas un pieminēšanas trauku. Tad iepludini to Savā bezgalīgajā okeānā, lai no tā plūstu Tavas gudrības dzīvinošie ūdeņi un kristālskaidri skanētu Tevis cildināšana un slavināšana.

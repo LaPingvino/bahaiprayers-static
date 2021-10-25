@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10351 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Ärad vare Du, o Du världens Gud och folkens åstundan, o Du som har blivit uppenbarad i det Största namnet, varigenom visdomens och talets pärlor har kommit fram ur musslorna i Din kunskaps stora hav, och den gudomliga uppenbarelsens himlar har smyckats med ljuset från framträdandet av Ditt anletes sol!

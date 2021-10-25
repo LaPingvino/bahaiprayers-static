@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6660 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 이 서한은 바하올라와 바압의 영묘에서 낭송한 다. 그분들의 성일 봉축시에도 자주 낭송된다.

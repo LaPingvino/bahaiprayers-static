@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12999 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-112', 'bpn-unsorted']
 +++
 * Nop ma nainit wamewa gapan waen ge apan mu dere, waenapan dere den wagup namumup yona wain, ma yogup kanamawa gwanap wan.  (Kitáb-i-Aqdas)

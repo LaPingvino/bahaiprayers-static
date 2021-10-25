@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1338 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvor a Ti, ó Senhor meu Deus! Suplico-Te, por esta Revelação, através da qual a escuridão se transformou em luz, se construiu o Templo Frequentado e revelou a Epístola Escrita, desvelando-se o Pergaminho Estendido, que faças descer sobre mim, e sobre aqueles em minha companhia, o que nos possa elevar aos céus da Tua transcendente glória, e nos purifique da mácula das dúvidas que impediram os desconfiados de entrarem no tabernáculo da Tua unidade.

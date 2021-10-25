@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH08363 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH08363']
 +++
 O God, Who art the Author of all Manifestations, the Source of all Sources, the Fountainhead of all Revelations, and the Wellspring of all Lights!  I testify that by Thy Name the heaven of understanding hath been adorned, and the ocean of utterance hath surged, and the dispensations of Thy providence have been promulgated unto the followers of all religions.

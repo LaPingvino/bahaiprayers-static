@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9715 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Glorie zij U, o Koning der eeuwigheid en de Maker van natiën, en de Vormer van ieder vermolmd gebeente! Ik smeek U, bij Uw Naam waardoor Gij de gehele mensheid tot de horizon van Uw majesteit en glorie hebt geroepen, en Uw dienaren tot het hof van Uw genade en gaven hebt geleid, mij te rekenen tot hen die zich van alles buiten U ontdaan hebben, en zich tot U gericht hebben, en zich door de tegenspoed die Gij hebt beschikt niet hebben laten weerhouden zich in de richting van Uw gaven te wenden.

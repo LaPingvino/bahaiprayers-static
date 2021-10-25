@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9682 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Heer! Bij U zoek ik mijn toevlucht en naar al Uw tekenen richt ik mijn hart.

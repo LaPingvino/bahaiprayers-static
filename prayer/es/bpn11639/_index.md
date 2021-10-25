@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11639 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Alabado sea Tu Nombre, oh Señor mi Dios! Soy Tu siervo que se ha asido a la cuerda de Tus tiernas mercedes y se ha aferrado al borde del manto de Tu munificencia. Te suplico, por Tu Nombre, mediante el cual has sometido a todas las cosas creadas, visibles e invisibles, y por el cual se ha difundido por toda la creación el hálito que es, en verdad, la vida, que me fortalezcas con Tu poder, que ha envuelto los cielos y la tierra, y me protejas de toda enfermedad y tribulación. Atestiguo que Tú eres el Señor de todos los nombres y Quien ordena todo lo que Le place. No hay otro Dios sino Tú, el Todopoderoso, el Omnisciente, el Sapientísimo.

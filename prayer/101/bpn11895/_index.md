@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11895 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa ku duoh Guru ku! Oku ulunt Ingan duoh onak ulunt Ingan. Oku mbok mokat sok bo’os ku ngan suam pagi itih takar Bitang Singonu pinyindi Ingan mbok timul tonga sok Musim Bunga hasrat Ingan, bia mbok nyokab jawak-eh tudu siluruag dunya, nunda dek mbok obuah nitah daang Buk Titah Ingan. 

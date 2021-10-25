@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2378 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slavēts ir Tavs Vārds, ak Dievs, mans Kungs!

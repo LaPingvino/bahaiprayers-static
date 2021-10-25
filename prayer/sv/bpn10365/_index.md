@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10365 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 *Ur Kitáb-i-Aqdas:

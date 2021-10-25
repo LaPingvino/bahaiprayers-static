@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9359 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Izy Ilay Mpanome, Ilay Onena olona!

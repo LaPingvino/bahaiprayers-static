@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11473 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, mi Dios! Glorificado seas por cuanto me has guiado al horizonte de Tu Revelación, me has iluminado con los esplendores de la luz de Tu gracia y misericordia, has hecho que declare Tu alabanza y me has dejado contemplar lo que ha sido revelado por Tu Pluma. 

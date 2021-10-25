@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12397 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Gares a Sa, Ae Elō ti !Khutse! /Khoma Tsi tagera ne ≠hai≠hais !kaenaba !nâb !nage /kara-/kara dawa, //îs !nu-ub ge //hûi-≠tuisa Tempela omhe, tsî xoa-//guiba ≠hai-≠haihe, tsî khora !āhe hāse ≠kanisa //khowa-am-//guihesa, tsî sî-//gôaxa gaiba tita tsî ti /ka /hûhan hoan ai, êda huihe tsî Sa êsa ≠kaisa /homi !na //kana-!awa //ka, tsî ni !anu-!anudaba ≠naos êga-/geb disa xu, Sa /gui-!naxasib di Tabernakela dani ≠gâ-!nasara ≠hani daba..

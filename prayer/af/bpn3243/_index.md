@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3243 in Afrikaans'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 *Naw-Rúz, 21 Maart, is die eerste dag van die Bahá'í jaar.

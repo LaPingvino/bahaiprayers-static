@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1186 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Tu és Aquele, ó meu Deus, através de cujos nomes os enfermos são curados e os feridos restaurados, e aos sedentos é dado de beber, e os aflitos são tranquilizados, e os desorientados são guiados, e os degradados são exaltados, e os pobres, enriquecidos, e os ignorantes, instruídos, e os desanimados, iluminados, e os sofredores, confortados, e aquecidos os que padecem de frio, e soerguidos os espezinhados. Através do Teu nome, ó meu Deus, todas as coisas criadas foram abaladas, os céus foram agitados, a terra foi estabelecida, e as nuvens foram elevadas e transformadas em chuva sobre a terra. Isso, verdadeiramente, é um sinal da Tua graça a todas as Tuas criaturas.

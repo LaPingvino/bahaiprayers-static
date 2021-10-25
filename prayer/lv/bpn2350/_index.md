@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2350 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Skaitāma ik pa divdesmit četrām stundām

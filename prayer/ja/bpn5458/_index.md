@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5458 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 あなたに誉ほまれあれ、おお主よ、わが神よ。最大なる御名である御方、あなたの真理を

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8485 in বাংলা'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bn', 'bpn-unsorted']
 +++
 *[দ্বিপ্রহরের পর হইতে সূর্যাস্তের পূর্ব পর্যন্ত সময়ে প্রত্যহ একবার পড়িতে হইবে]

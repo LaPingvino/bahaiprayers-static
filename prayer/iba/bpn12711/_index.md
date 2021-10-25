@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12711 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Semua puji, O Petara aku, ngagai Nuan ti Pun Penatai semua kuasa-perintah enggau kuasa-raja, ke pemesai enggau basa, ke pemerintah enggau pegai-kuasa, ke peninggi enggau berekat, ke pengerawan enggau kuasa. Sebarang sapa ti dikedeka Nuan, Nuan ngasuh iya tebatak semak ngagai Tasik ti Pemadu Besai, lalu ba sebarang sapa ti dikinginka Nuan, Nuan meri basa ngelala Nama Nuan ti Pemadu Jeman. Ari semua ti di serega enggau ba tanah, nadai siku ulih nagang pejalai Peneka perintah Nuan. Ari semua jeman Nuan merintah semua utai tempa, lalu Nuan deka meruan belama bejalaika pegai- kuasa Nuan atas semua utai tempa. Nadai Petara bukai tang Nuan, ti Pemadu Tegap, ti Pemadu Tinggi, ti Pemadu Bekuasa, ti Pemadu Pintar.

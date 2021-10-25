@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1121 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, meu Deus! Esta Tua serva invoca-Te, depositando em Ti confiança, volvendo a Ti a face e implorando-Te que sobre ela derrames as Tuas graças celestiais, que lhe reveles os Teus mistérios espirituais, e irradies sobre ela as luzes da Tua Deidade.

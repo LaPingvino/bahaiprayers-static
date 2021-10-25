@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10796 in Srpski српски'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 U ime Boga, Najdrevnijega, Najvećega.

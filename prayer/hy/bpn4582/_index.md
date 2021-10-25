@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4582 in հայերեն'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hy', 'bpn-unsorted']
 +++
 Նա Ապաքինող է, Շնորհող, Օգնող, Ամենաներող, Ամենաողորմած:

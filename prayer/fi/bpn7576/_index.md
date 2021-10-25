@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7576 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Korotettu olkoon Sinun nimesi, oi Herra minun Jumalani! Sinä olet Hän, jota kaikki palvovat ja joka ei palvo ketään, joka on kaiken Herra eikä ole kenenkään alamainen, joka tietää kaiken ja  jota ei tunne kukaan. Tahdoit ihmisten tuntevan Sinut, siksi yhdellä lausumallasi sanalla loit luomakunnan ja muodostit maailmankaikkeuden. Ei ole muuta Jumalaa kuin Sinä, Muodostaja, Luoja, Kaikkivaltias, Kaikkein voimallisin.

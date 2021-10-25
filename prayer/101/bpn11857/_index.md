@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11857 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Murah otin bih tudu oku, O Topa ku, singant-ngant sukat pangirinduk Ingan bia paguh-moon Ingan duoh lagi pakai dek sok pimikat doras sokab jawak Ingan pirami otin koih, O Ingan Nyaa dek Tibukti Agung duoh dek Paling-Mulia. Pimuun tudu oku, dek yak jadin lambang budi Ingan, obus idip bidaya, sok daang dek singonu bia daang dek singalom, O Raja dek bibudi. Doie pingunai dek mbok nai ku, O Topa ku, dek yak obuah noga pakai ninga jowin Ingan, bia jawak ku pu’ant nang mo ku idip sitiyant nog piobuae dunia oku totap gagal pijadi sikamun pingunai nyam tadah dek berhak terima pingodah tih, setegal stesen dek ndi na’an ulunt alit potod olant tudu pagar Kudus Ingan, jok-eh simo pingungin Ingan harus nog oku duoh lagi binulut perasie Ingan nyolap oku bia rindu-tulut Ingan nyokuab oku. 

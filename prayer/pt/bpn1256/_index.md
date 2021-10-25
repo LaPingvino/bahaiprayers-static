@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1256 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvores a Ti, ó Senhor meu Deus! Vês e sabes que exortei os Teus servos a volverem-se somente na direção das Tuas graças, e nada ordenei que observassem, a não ser as coisas por Ti prescritas no Teu Livro Manifesto – Livro este que desceu segundo o Teu decreto misterioso e o Teu irrevogável propósito.

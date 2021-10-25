@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9516 in ಕನ್ನಡ'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kn', 'bpn-unsorted']
 +++
 *(ಕಷ್ಟದಲ್ಲಿದ್ದಾಗ ಅಥವಾ ತೊಂದರೆಯಲ್ಲಿದ್ದಾಗ ಇದನ್ನು ಪಠಿಸಿದರೆ ಪರಿಹಾರ ನೀಡುವ ವಿಶೇಷ ಶಕ್ತಿ ಈ ಶಾಸನಕ್ಕಿದೆ.)

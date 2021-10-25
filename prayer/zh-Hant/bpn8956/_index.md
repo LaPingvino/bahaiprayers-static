@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8956 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！我心情激動，淚流如雨，求祢佑助為這聖堂的屹立、為此神聖建築的崛起而盡力之人。而今，在這座建築物內，每個黎明，每個黃昏，都迴盪著對祢聖名的讚美。

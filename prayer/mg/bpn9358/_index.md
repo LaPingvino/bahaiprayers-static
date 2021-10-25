@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9358 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Lazao: Ry Andriamanitra ô! Ry Andriamanitro! 

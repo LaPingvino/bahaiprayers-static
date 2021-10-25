@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12300 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Tavaeega mo te matagofie e ia Koe, O te Atua!  Talia mai ko te aso e oko atu i ei ki Tou nofo-mai mana ko pilipili mai. Fakafiafia a omotou loto mai I te maalosi o Tou alofa mo te fiafia llei, kae tuku mai ki luga ia matou a te lotommau ko te mea ko matou k 

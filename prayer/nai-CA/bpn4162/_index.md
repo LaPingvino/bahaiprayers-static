@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4162 in Canadian Indigenous'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 O NISKAMINU! O NISKAMINU! MAWA’TU UKKAMLAMUNWAL KTLUKOWINUMK, AQQ KINUA’TU TAN TELIESPE’K TA’N KETU’TLA’TEKEN WIJE’MI’TIJ KJIKINA’MATINEWE’L AQQ KTLAMSUMUTITIJ

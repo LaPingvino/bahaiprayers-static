@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12630 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Dimuliaka meh Nuan, O Tuhan Petara aku! Aku minta ngagai Nuan ngena pangka ribut pengasih Nuan, enggau sida Bala Terebak-tawas ke tuju Nuan enggau Palan Penatai peransang Nuan, kirum ke baruh ngagai aku enggau semua sida ti udah ngiga mua Nuan utai ti ngakun ke pementas pemisi pengasih Nuan, lalu lumau ke penyikap enggau pengasih Nuan. Umang sereta kediri meh aku tu, O Tuhan aku! Selamka aku dalam tasik pengaya Nuan; aus, asuh aku ngirup ari ai pengidup pengerindu-penelap Nuan.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7499 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Kunnia Sinulle, oi Jumalani! Yksi palvelijattaristasi, joka on uskonut Sinuun ja merkkeihisi, on astunut ykseytesi puun siimekseen. Anna hänen maistaa, oi Jumalani, Sinun nimesi, Näkyvän ja Kätketyn, kautta sinetöityä valioviiniäsi, jotta se vieroittaisi hänet hänen omasta itsestään ja saisi hänet kokonaan pyhittäytymään Sinun muistelemisellasi ja täysin irrottautumaan kaikista paitsi Sinusta.

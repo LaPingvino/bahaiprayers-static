@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1709 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Í nafni Guðs, hins hæsta! Vegsamaður og dýr­legur sért Þú, Drottinn, Guð alvaldur. And­spænis visku Þinni fallast hinum vitru hendur, frammi fyrir þekkingu Þinni játa hinir lærðu fá­fræði sína, gagnvart mætti Þínum verða hinir sterku van­megna, gegnt auðlegð Þinni bera hinir ríku vitni fátækt sinni, frammi fyrir ljósi Þínu týnast hinir upplýstu í myrkri, í átt til helgireits þekkingar Þinnar snýr kjarni alls skilnings og um griðastað návistar Þinnar hringsóla sálir alls mann­kyns.

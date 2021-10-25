@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB10324 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB10324']
 +++
 O my God!  O my God!  Thou seest these children who are the twigs of the tree of life, the birds of the meads of salvation, the pearls of the ocean of Thy grace, the roses of the garden of Thy guidance.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10335 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Förhärligad vare Du, o Herre min Gud! Jag bönfaller Dig vid Din nåds stormande vindar och vid Dem, som är dagbräckningarna för Ditt syfte och gryningsplatserna för Ditt inflytande, att sända ned över mig, och över alla som har sökt Ditt anlete, allt det som anstår Din givmildhet och frikostiga nåd och som är värdigt Dina gåvor och Din ynnest. Fattig och övergiven är jag, o min Herre! Sänk mig ned i Din rikedoms ocean. Jag är törstande, låt mig dricka av Din kärleksfulla godhets levande vatten. 

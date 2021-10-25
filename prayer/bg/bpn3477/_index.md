@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3477 in български'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bg', 'bpn-unsorted']
 +++
 В Името на Бога, Най-древния, Най-великия.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5510 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 万物は、畏おそれを抱かせるあなたのご威厳いげんの前で震え、すべての人間の諸事しょじはあなたの

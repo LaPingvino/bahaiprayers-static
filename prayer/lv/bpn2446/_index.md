@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2446 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Lūgšana, kas jāskaita garīgajai sanāksmei noslēdzoties.

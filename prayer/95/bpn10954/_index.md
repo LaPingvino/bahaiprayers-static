@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10954 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Toku Atua Tela e tapuaki kae ifo ne au!  E molimau au ki Tou tafatasi mo Tou fakatasitasi, kae e fakamaonia au ki Au mea-alofa, i taimi ko teka mo taimi nei.  Ko Koe ko te Kaimalie-Katoatoa, tela a Tou alofa-kaimalie ko ligi ifo pela me ne vaiua lotu ki tino maluga mo tino malalo katoa, mo te gali o Tena alofa ko oti ne fakaasi ki luga ia latou fakalogo pela foki mo latou teke.

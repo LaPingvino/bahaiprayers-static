@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4061 in Кыргыз'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ky', 'bpn-unsorted']
 +++
 О,Теңир! Сенин кудайлык Бирдигиңдин Дарагынын тез өсүмүн бер;

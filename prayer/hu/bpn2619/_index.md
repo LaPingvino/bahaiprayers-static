@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2619 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Dicsőíttessék a Te Neved, ó, Uram, Istenem! Te vagy, Kit imád minden dolog és Ki maga nem hajol meg senki előtt, Ki mindenek Ura és senkinek sem alattvalója, Ki mindent tud és Kit senki sem ismer. Azt kívántad, hogy felismerjenek Téged, ezért egyetlen kimondott szavaddal életre hívtad a teremtést, és megalkottad a világegyetemet. Nincsen más Isten, csak Te, az Alkotó, a Teremtő, a Mindenható, a Leghatalmasabb.

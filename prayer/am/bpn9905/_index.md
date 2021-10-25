@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9905 in አማርኛ.'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-am', 'bpn-unsorted']
 +++
 በየዕለቱ ጧት እኩለ ቀንና ማታ የሚደረግ፣ ለመፀለይ የሚሻ ሁሉ እጁን ይታጠብ በመታጠብም ላይ ሳለ እንዲህ ይበል፡፡ 

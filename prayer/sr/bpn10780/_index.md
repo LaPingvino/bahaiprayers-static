@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10780 in Srpski српски'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 O Gospode, moj Bože i moje Utočište u nevolji! Moj Štitu i Zaklonu od jada! Ti si moje Pribežište i Sklonište kad nastupe neprilike i moj Sadrug u samoći! U patnji si mi Uteha, i u usamljenosti brižni Prijatelj! Ti uklanjaš žaoku tuge i praštaš mi grehe!

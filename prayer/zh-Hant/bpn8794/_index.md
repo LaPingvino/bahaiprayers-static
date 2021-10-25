@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8794 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 主啊！讓這些孩子長成棟樑之才吧。借祢阿卜哈天國甘霖之澆灑，讓他們生機勃勃、美麗動人，在祢聖約之園裡成長壯大。

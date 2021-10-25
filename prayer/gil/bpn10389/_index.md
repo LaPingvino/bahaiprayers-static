@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10389 in Kiribati'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 First line: Laude be Thy Name, O Lord, our God! Thou art in truth the Knower

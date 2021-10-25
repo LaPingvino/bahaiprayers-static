@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9335 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Eo amin’ny alon-drano mamerovero ny Mandrakizainao, avelao aho hiala hetaheta, ry Andriamanitro ô, ary mamelà ahy hanandrana amin’ny voan’ny hazon’ny Fisianao, ry Fanantenako ô.

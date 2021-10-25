@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1216 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvor a Ti, ó meu Deus, por haveres volvido as faces dos Teus servos para a mão direita do trono das Tuas dádivas e haveres feito com que se desprendam de tudo, menos de Ti, para que reconhecessem a Tua soberania e a Tua glória. Testifico a potência da Tua Causa, a força predominante do Teu decreto; dou testemunho de ser imutável a Tua vontade e infinito o Teu desígnio. Todas as coisas jazem aprisionadas na mão do Teu poder, e a criação inteira mostra-se destituída quando face a face com as evidências da Tua riqueza.

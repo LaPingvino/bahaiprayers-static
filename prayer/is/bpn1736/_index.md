@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1736 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ger skref okkar stöðug, ó Drottinn, á vegi Þín­um og styrk hjörtu okkar í hlýðni við Þig. Bein ásjónum okkar að fegurð eindar Þinnar og gleð brjóst okkar með táknum Þinnar guðlegu einingar. Skrýð líkami okkar kyrtli örlætis Þíns, tak hulu syndar frá augum okkar og fær okkur bikar náðar Þinnar, svo að kjarni allra vera fái sungið Þér lof frammi fyrir sýn tignar Þinnar. Birt því sjálfan Þig, ó Drottinn, í Þinni miskunnsömu tjáningu og dulúð Þinnar guðdómlegu veru, svo heilög leiðsla bænar megi fylla sálir okkar – bænar sem rísi yfir orð og bókstafi og hefjist yfir klið samstöfu og hljóðtákna – svo að allt hverfi andspænis birtingu dýrðar Þinnar.

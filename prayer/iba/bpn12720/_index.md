@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12720 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Gaga teguh singkang kami, O Tuhan dalam menasan

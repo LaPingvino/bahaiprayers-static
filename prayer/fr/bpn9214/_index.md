@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9214 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Grâce te soit rendue, ô mon Dieu ! Tu m’as réveillé, tu m’as fait renaître et sortir de ma torpeur. Le visage tourné vers les splendeurs du Soleil de ta révélation qui illumine les cieux de ta puissance et de ta majesté, je me suis éveillé ce matin, reconnaissant tes signes, croyant en ton livre et accroché à ta corde.

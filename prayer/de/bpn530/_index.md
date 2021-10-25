@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn530 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Auf Dich, o mein Gott, richte ich mein Angesicht, auf die Wunder Deiner Gnade und die Offenbarungen Deiner Großmut setze ich meine Hoffnung. Ich bitte Dich, lass mich nicht enttäuscht am Tore Deiner Barmherzigkeit umkehren, und überlasse mich nicht solchen Deiner Geschöpfe, die Deine Sache zurückweisen.

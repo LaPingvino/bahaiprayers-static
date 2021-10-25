@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1636 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð minn! Ó Guð minn! Vissulega hefur þjónn Þinn, auðmjúkur frammi fyrir tign Þíns himneska fullveldis og undirgefinn við dyr einleika Þíns, trúað á Þig og ritningar Þínar, borið orði Þínu vitni, upptendrast af eldi ástar Þinnar, sokkið í hafdjúp þekkingar Þinnar, laðast að andvara Þínum, treyst á Þig, beint til Þín augliti sínu, beðið til Þín og fengið fullvissu um fyrirgefningu Þína og aflausn. Hann hefur yfirgefið þetta dauð­lega líf, flogið til ríkis ódauðleikans og þráð þá hylli að komast á fund Þinn.

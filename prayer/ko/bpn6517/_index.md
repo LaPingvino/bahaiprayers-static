@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6517 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 주님의 백성들에게 힘을

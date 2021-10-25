@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7622 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye, Ou menm Ki Pa Gen Parèy! O Ou menm Senyè Wayòm nan! Se nanm sa yo ki fòme lame selès Ou a. Ba yo èd Ou, epi fè yo jwenn viktwa avèk sipò twoup ki nan Fòs Siprèm nan, pou yo chak ta vin tankou yon rejiman solda k’ap pote viktwa sou peyi sa yo akoz lanmou yo gen pou Bondye ak limyè ki nan ansèyman diven yo.

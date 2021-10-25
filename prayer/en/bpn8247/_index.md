@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8247 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 In the name of God, the Most Glorious!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6159 in Euskara'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-eu', 'bpn-unsorted']
 +++
 *(Egunean behin esan behar da eguerditik iluntzen duen artean)

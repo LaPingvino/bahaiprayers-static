@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4044 in Кыргыз'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ky', 'bpn-unsorted']
 +++
 *Бул сыйынуу күндөлүк окуу үчүн окутуучуларга жана досторгоберилген./

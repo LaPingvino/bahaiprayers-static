@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5144 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhan, diluhurkanlah Dia, Tuhan kasih sayang dan kedermawanan! Kemuliaan bagimu, ya Engkau Tuhanku, Tuhan Yang Maha Kuasa. Aku naik saksi atas kemahakuasaan-Mu dan kekuatan-Mu, kedaulatan- Mu dan kasih sayang-Mu, kurnia-Mu dan kekuatan-Mu, ketunggalan Wujud-Mu dan keesaan Hakikat-Mu, kesucian dan keluhuran-Mu di atas dunia wujud dan segala yang ada di dalam-nya.

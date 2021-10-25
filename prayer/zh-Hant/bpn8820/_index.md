@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8820 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！祢的女僕正呼喚祢，她信賴祢，面向祢，祈求祢降賜天恩，為她揭開祢靈性的奧秘，向她傾灑祢神聖的光輝。

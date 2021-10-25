@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3272 in العربية'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ar', 'bpn-unsorted']
 +++
 # بِسْمِ المَوْلُودِ الَّذِي جَعَلَهُ اللهُ مُبَشِّرًا لاسْمِهِ العَزِيزِ الوَدُودِ

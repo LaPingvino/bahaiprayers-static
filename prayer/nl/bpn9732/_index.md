@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9732 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Glorie zij U, o mijn God! Een van Uw dienaressen, die in U en in Uw tekenen gelooft, heeft zich onder de schaduw van de boom van Uw één-zijn begeven. Geef haar, o mijn God, bij Uw Naam, de Kenbare en de Verborgene, volop te drinken van Uw uitgelezen verzegelde wijn, dat die haar zal wegvoeren van haar eigen wezen, en maak haar geheel toegewijd aan het U gedenken en geheel onthecht van eenieder buiten U.

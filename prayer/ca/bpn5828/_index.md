@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5828 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Tu saps, oh Déu, i ets el  meu testimoni de que no alimento cap desig al meu cor tret d’atènyer la Teva complaença, ser confirmat en el Teu servei, treballar en la Teva gran vinya i sacrificar-ho al Teu camí.

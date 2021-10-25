@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11653 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Él es el Dios que escucha y que contesta las oraciones! 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2364 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Es nezinu, ak mans Dievs, kas tā ir par uguni, ko Tu esi iededzis Savā zemē. Nedz zemes putekļi spēs jebkad aptumšot tās spožumu, nedz ūdens tās liesmu izdzēst. Tai pretī stāties nav pa spēkam nevienai pasaules tautai. Augsti svētīts ir tas, kas ir nācis tai tuvu un saklausījis tās šalkas.

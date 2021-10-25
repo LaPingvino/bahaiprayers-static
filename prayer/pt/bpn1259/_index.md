@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1259 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Magnificado seja o Teu nome, ó Senhor meu Deus, porque inclinaste os meus ouvidos à Tua voz, chamaste-me a Ti próprio e abriste os meus olhos para contemplar a Tua beleza, e por haveres iluminado o meu coração com o Teu conhecimento e o haveres santificado das dúvidas dos infiéis em Teus dias. Sou aquele, ó meu Deus, que estava profundamente adormecido no seu leito, quando eis, Tu fizeste descer sobre mim os mensageiros das Tuas múltiplas graças e os suaves ventos da Tua benevolência sobre mim sopraram, despertando-me e fazendo-me volver a face para o santuário do Teu conhecimento e fixar a vista nos esplendores da luz do Teu semblante.

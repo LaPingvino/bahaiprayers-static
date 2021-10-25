@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH10076 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH10076']
 +++
 O Lord, my God!  This is a child that hath sprung from the loins of one of Thy servants to whom Thou hast granted a distinguished station in the Tablets of Thine irrevocable decree in the Books of Thy behest.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5068 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế, Thượng Đế của con, bởi đức từ ái và lượng khoan dung Ngài đã xóa bỏ nỗi khổ não của con, xin lấy quyền tối thượng và uy lực Ngài loại trừ sự phiền muộn của con. Lạy Thượng Đế của con, Ngài thấy con đã hướng mặt về Ngài trong khi những sầu khổ vây phủ con khắp mọi phía. Lạy Ngài là Đấng Thượng Đế của vạn vật, Đấng Che chở vạn vật hữu hình và vô hình, con cầu xin Ngài lấy Thánh Danh mà Ngài đã chế ngự tâm hồn và linh hồn mọi người và lấy những đợt sóng Đại dương khoan dung của Ngài và vẻ huy hoàng Ngôi Sao Mai ân phúc Ngài, kể con trong số những kẻ không gì có thể ngăn họ quay mặt về Ngài, lạy Ngài là Vua của tất cả các Danh và là Đấng Sáng tạo các cõi trời.

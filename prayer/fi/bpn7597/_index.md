@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7597 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 *(Rukous lausuttavaksi henkisen neuvoston kokouksen päättyessä.)

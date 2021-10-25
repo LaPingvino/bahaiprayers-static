@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9575 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Verleen mij, o mijn God, de volle maat van Uw liefde en Uw welbehagen, en breng ons hart in vervoering door de bekoring van Uw schitterend licht, o Gij die het Hoogste Bewijs en de Allerheerlijkste zijt. Zend mij, als teken van Uw genade, bij dag en bij nacht Uw levenschenkende bries, o Heer van milddadigheid.

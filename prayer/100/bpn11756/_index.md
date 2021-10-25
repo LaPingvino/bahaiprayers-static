@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11756 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Ya jalla, Ubangiji Allāna ! Ina maka gōdiya da ka sā a cikin yardarka, na bāda gaskiya da tabbatarka, ka kubtar da ni daga cikin maƙiyanka, ka būɗe idānūna har na gāne da mummūnan abūbūwan da suke aikatāwa, ka kēɓē ni da duk wata rātaya da su, ka sā na maida duk al’amurrāna zuwa ga alhurmarka da karāmarka.

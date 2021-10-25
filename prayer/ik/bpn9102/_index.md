@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9102 in Alaska Native'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Prayer for the Departed (Short)

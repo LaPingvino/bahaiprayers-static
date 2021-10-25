@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9249 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, Dieu de tous les noms et créateur des cieux, par ton nom qui manifeste celui qui est l’Aurore de ta puissance et l’Aube de ton pouvoir, liquéfie tout élément solide, ranime tout corps sans vie et conforte tout âme vivante, permets-moi, je t’en supplie, de me libérer de tout attachement à un autre que toi, de servir ta cause, de désirer ce que désire ton pouvoir souverain et d’accomplir ta volonté.

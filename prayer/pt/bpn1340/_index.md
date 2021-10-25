@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1340 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó Senhor meu Deus! Estes são os dias em que ordenaste a todos os homens observarem o jejum para que, deste modo, purificassem as suas almas e se livrassem de tudo, menos do apego a Ti, e assim surgisse dos seus corações o que fosse digno da corte da Tua majestade e adequado à sede da revelação da Tua unidade. Permite, ó meu Senhor, que este jejum se torne um rio de águas vivificadoras e dele provenha a virtude da qual Tu o dotaste. E, por seu meio, purifica os corações dos Teus servos, os quais os males do mundo não puderam impedir de se volverem para o Teu Nome todo-glorioso - aqueles que se mantiveram imperturbáveis em face do clamor e do tumulto dos que repudiaram os Teus mais resplandecentes sinais - sinais esses que acompanharam o advento do Teu Manifestante, a Quem revestiste da Tua soberania, do Teu poder, da Tua majestade e glória. São estes os servos que se apressaram na direção da Tua misericórdia, assim que o Teu chamado os alcançou, não sendo impedidos de Ti pelas mudanças e vicissitudes deste mundo ou por quaisquer limitações humanas.

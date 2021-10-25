@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7865 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Io sono, o mio Signore, colui che ha volto il viso verso di Te e posto le sue speranze nelle meraviglie della Tua grazia e nelle rivelazioni della Tua generosità. Ti prego di non permettere che io mi allontani deluso dalla porta della Tua misericordia e di non abbandonarmi a quelle Tue creature che hanno ripudiato la Tua Causa. 

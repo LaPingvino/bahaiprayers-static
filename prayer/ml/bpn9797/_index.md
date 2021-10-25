@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9797 in മലയാളം'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ml', 'bpn-unsorted']
 +++
 എന്‍റെ ദൈവമേ! എന്‍റെ പ്രിയനേ! എന്‍റെ അഭിലാഷമേ!

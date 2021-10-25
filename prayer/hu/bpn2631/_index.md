@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2631 in Magyar'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Istenem! Te, a vétkek Megbocsátója, az Adakozó, a megpróbáltatások Elhárítója!

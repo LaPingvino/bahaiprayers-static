@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9881 in മലയാളം'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ml', 'bpn-unsorted']
 +++
 മദ്ധ്യാഹ്നത്തിനും സൂര്യാസ്തമയത്തിനുമിടയ്ക്ക് ഇരുപത്തിനാലു മണിക്കൂറിലൊരിക്കല്‍ ചൊല്ലേണ്ടത്.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7798 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Tu sei Colui, o mio Dio, per i Cui nomi gl’infermi sono risanati, i sofferenti guariti, agli assetati è dato da bere, gli angosciati sono tranquillizzati, gli ostinati guidati, gli umiliati esaltati, i poveri arricchiti, gl’ignoranti illuminati, i mesti rasserenati, gli addolorati rallegrati, i raggelati riscaldati e gli oppressi risollevati. Per il Tuo nome, o mio Dio, tutte le cose create sono state vivificate, i cieli sono stati dispiegati, la terra è stata fondata e le nuvole sollevate e riversate in pioggia sulla terra. In verità, questo è un segno della Tua grazia a tutte le Tue creature.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6036 in Frysk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 Ik priizgje Jo, o myn God, dat Jo my út 'e sliep wekker makke hawwe en my út myn fuort-wêzen oproppen hawwe en my út myn slomme ferrize litten hawwe. Ik bin dizze moarn wekker wurden mei myn antlit heve nei de pracht fan de Dei-Stjer fan Jo iepenbiering dêr't de himelen fan Jo macht en Jo majesteit troch ferljochte wurden binne; ik erken Jo tekens, leau yn Jo Boek en hâld fêst oan Jo koarde.

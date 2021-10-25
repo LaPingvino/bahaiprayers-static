@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5583 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお許し給う主なる御方よ。

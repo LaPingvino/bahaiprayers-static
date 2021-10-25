@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB07709CON in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB07709CON']
 +++
 O my God! O my God! Glory be unto Thee for that Thou hast confirmed me to the confession of Thy oneness, attracted me unto the word of Thy singleness, enkindled me by the fire of Thy love, and occupied me with Thy mention and the service of Thy friends and maidservants.

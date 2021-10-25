@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6587 in 한국어'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 저희들에게...,주님을 믿은 이들의 가정에... 축복을

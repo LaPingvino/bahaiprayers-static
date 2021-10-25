@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8170 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Lovet være Dit navn, o Herre min Gud! Mørke er faldet over alle lande, og onde magter har indkredset alle nationerne. Men gennem dem ser jeg Din visdoms stråleglans og skelner klarheden i Dit forsyns lys.

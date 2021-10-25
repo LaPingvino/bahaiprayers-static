@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2459 in Русский'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ru', 'bpn-unsorted']
 +++
 Во имя Бога, Предвечного, Наивеличайшего.

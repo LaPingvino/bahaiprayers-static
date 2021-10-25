@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10903 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Aliki! Kia Koe e fuli atu au mo se lafiiga, kae ko oti ne fakasino a toku loto ki Au fakailoga katoa.

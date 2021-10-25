@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1322 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola De Visitação De 'Abdu'l-Bahá

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9153 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Que de cœurs glacés s’embrasent au feu de ta cause, ô mon Dieu, et que d’esprits somnolents s’éveillent aux doux accents de ta voix ! Nombreux sont les étrangers qui cherchent refuge à l’ombre de l’arbre de ton unicité et innombrables les assoiffés qui soupirent en tes jours après la fontaine de tes eaux vivifiantes.

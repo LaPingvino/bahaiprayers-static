@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8971 in اُردُو'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ur', 'bpn-unsorted']
 +++
 وہ دُعا سنتا اور قبول فرماتا ہے۔

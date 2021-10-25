@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12304 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Tavaeega e ia Koe, Te Aliki toku Atua!  Au e fakamolemole kia Koe, mai i Tou Igoa te le e seki ai aka loa se tino kai ttau o lavegia, kae ko tena taaua e seki ai se agaaga ola kai maua ne ia o fua, Au e akai totuli kia Koe, mai i luga a Ia Te la Ko te Ulu o te Vai o Tau Fakaasiiga mo te Aso malulu o Au fakailoga, ke fai a toku loto mo fai a te koga nofo o Tou alofa mo te masausau o Koe.  Sui aka, i ei, ki Tou Vasa tafasili i te takutakua, te la mai i ei ka tafe mai a te vai ola o Tou atamai mo vaitafe foliki manino o te fakamalugaga o Koe mo te tavaeega.  

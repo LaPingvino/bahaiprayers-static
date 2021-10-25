@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12859 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-108', 'bpn-unsorted']
 +++
 *(ໃຊ້ສວດເວລາສ່ວນຕົວໄດ້ດ້ວຍເຊັ່ນກັນ)

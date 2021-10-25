@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12278 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Au e vikia a Koe, O toku Atua, i te manogi gali o Tou alofa-kaimalie ko piki vakevale au i ei, mo matagi ili malie o Tou alofa-atafai ko takitaki ne latou au ki Au mea-alofa e lausa.  Fai aka au ke inu, O toku Aliki, mai maikao o te vai ola o Tou alofa-lauefa te la ne mafai i ei a tino taki tokotasi o kau atu ki ei o ave keatea mai ia ia a te piki ki mea katoa na loa ko Koe, kae ke eva atu ki luga i se kogaa-koga o te motu mai i Au mea ola katoa, kae ke kilo tonu a ia ki luga i Tau kilooga-alofa mo Au mea-alofa tafasili ite uke.  Fakatoka aka au, i faka-nofonofoga katoa, O toku Aliki, ke tavini a Koe kae fuli atu au ki te agamalu o Tau Fakaaliga mo Tou Gali.  Ka fai ko Tou fiafiaaga, fai aka au ke tupu pe la me se lakau ola foliki i te lauelele o Tou alofa-kaimalie, ko te matagi malie o Tou loto ka fago ne ia au kae ma ofe atu au ke olo tonu mo Tou fiafiaaga, i se faka-nofooga te la so se gasuesuega io me se ai e tuku katoatoa kia Koe.  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7282 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O mój Panie! O mój Panie!

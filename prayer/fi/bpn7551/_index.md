@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7551 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Kunnia olkoon Sinun, oi Jumalani! Mistä muusta kuin Sinun tielläsi koetuista kärsimyksistä voitaisiin Sinun todelliset rakastajasi tuntea, ja jos ei olisi Sinun rakkautesi vuoksi kestettyjä koettelemuksia, miten voitaisiin paljastaa sellaisten asema, jotka ikävöivät Sinua? Mahtisi on todistukseni! Kaikkien niiden seuralaisina, jotka Sinua palvovat, ovat heidän vuodattamansa kyynelet, ja sellaisten lohduttajina, jotka Sinua etsivät, ovat heidän vaikerointinsa, ja niiden ravintona, jotka rientävät kohtaamaan Sinut, ovat heidän särkyneen sydämensä sirpaleet.

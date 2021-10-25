@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5307 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 O moj Bože! Oprostitelju grijeha, udjelitelju darova, otklonitelju tuge!

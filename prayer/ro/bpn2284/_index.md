@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2284 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne, Dumnezeul şi Stăpânul meu, ţinta dorinţei mele! Acest slujitor al Tău caută să adoarmă la adăpostul îndurării Tale şi să se odihnească în baldachinul milostivirii Tale, implorând grija şi ocrotirea Ta.

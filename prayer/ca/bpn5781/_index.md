@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5781 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oració per a ser recitada en acabar la reunió de l’Assemblea Espiritual.

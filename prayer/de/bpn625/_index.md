@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn625 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht seiest Du, o Herr mein Gott! Ich flehe Dich an bei Ihm, der Dein Größter Name ist, Der tief betrübt wird von solchen Deiner Geschöpfe, die Deine Wahrheit verwerfen, Der von Leiden umzingelt ist, die keine Zunge beschreiben kann - gestatte, dass ich Deiner gedenke und Deinen Lobpreis verkünde in diesen Tagen, da alle sich von Deiner Schönheit abwenden, mit Dir hadern und sich vom Offenbarer Deiner Sache verächtlich abkehren. Niemand, o mein Herr, steht Dir bei außer Deinem eigenen Selbst, und keine Macht kommt Dir zu Hilfe denn Deine eigene.

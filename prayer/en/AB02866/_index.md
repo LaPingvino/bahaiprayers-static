@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB02866 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB02866']
 +++
 O Lord, my God and my Haven in my distress!  My Shield and my Shelter in my woes!  My Asylum and Refuge in time of need and in my loneliness my Companion!  In my anguish my Solace, and in my solitude a loving Friend!  The Remover of the pangs of my sorrows and the Pardoner of my sins!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7748 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Glwa pou Ou, O Bondye, poutèt Siyn Lanmou Ou bay limanite! O Ou menm, Ki se Lavi nou ak Limyè nou, gide sèvitè Ou yo pou yo kapab jwenn Chemen Ou, rann yo rich nan Ou menm epi libere yo ak tout bagay esepte Ou menm.

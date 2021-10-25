@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11705 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Shīnē mai yalwa, mai kyauta ! Yabo ya tabatta ga Allah, mai dawwama, maras sauyāwa, maras gōcēwa, mai rayuwa har abada, wanda zātinsa yake shaidar cēwa, haƙīƙan, Shī kaɗai yake, bā Shi abōkin tārayya, mai ƴanci, mafi girma ! A gaskiya, mun shaida cēwa, bābu wani Allah illa Shi, mun yarda da kaɗaitakarsa, kuma mun tabbata da ɗayantakarsa, bā wani Allah sai Shi. Har kullum, Yā wuce gaban a kai garēshi, girmanshi bā ya da iyāka, kuma yā fi ƙarfin kwatamci.

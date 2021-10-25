@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12476 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 ##SHORT OBLIGATORY PRAYER

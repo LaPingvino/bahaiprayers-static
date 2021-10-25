@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1214 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado sejas, ó Senhor meu Deus! Imploro-Te pela Tua Antiga Beleza e pelo Teu Nome Supremo, a Quem sacrificaste a fim de que todos os habitantes da Tua terra e do Teu céu nascessem de novo e lançaste na prisão para que o género humano, em sinal da Tua generosidade e do Teu soberano poder, fosse libertado das cadeias das más paixões e dos desejos corruptos - inclui-me no número dos que tanto inalaram da fragrância da Tua misericórdia e tão velozmente se apressaram às águas vivas da Tua graça, que nenhum dardo os pôde impedir de a Ti se volverem, nem espada, de se dirigirem ao oriente da Tua Revelação.

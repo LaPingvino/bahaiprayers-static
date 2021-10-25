@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4451 in Filipino'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Purihin Ka, O Panginoon kong Diyos! Sa pamamagitan ng Iyong Pinakadakilang Pangalan na ginamit Mo sa pagpukaw sa Iyong mga tagapaglingkod at pagtatayo ng Iyong mga lunsod, at sa pamamagitan ng Iyong mga pinakadakilang katangian, isinasamo ko sa Iyo na tulungan Mo ang Iyong mga tao na bumaling sa kinaroroonan ng masagana Mong pagpapala, at iharap ang kanilang mga mukha sa Tabernakulo ng Iyong dunong. Pagalingin Mo ang mga karamdamang nagpapahirap sa mga kaluluwa sa bawat panig at nakapigil sa kanila sa pag-uukol ng kanilang paningin sa Paraisong naroon sa lilim ng Iyong lumulukob na Pangalan, na iniatas Mong maging Hari ng lahat ng nasa lupa. May kakayahan Kang gumawa ng minamarapat Mo. Nasa Iyong mga kamay ang imperyo ng lahat ng pangalan. W alang ibang Diyos liban sa Iyo, ang Makapangyarihan, ang Madunong.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11513 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Muchos corazones yertos, oh mi Dios, han sido encendidos con el fuego de Tu Causa, y muchos de cuantos estaban dormidos han sido despertados por la dulzura de Tu voz. ¡Cuántos son los extraños que han buscado abrigo a la sombra del árbol de Tu unicidad, y cuán numerosos los sedientos que han anhelado en Tus días la fuente de Tus aguas vivas!

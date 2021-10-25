@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9950 in العربية'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ar', 'bpn-unsorted']
 +++
 نَزَّلَهُ عَزَّ كِبْرِيَائُهُ فِي آخِرِ شَهْرِ ٱلصِّيَامِ

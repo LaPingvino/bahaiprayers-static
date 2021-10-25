@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7318 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Chwała niechaj będzie Tobie, o Panie świata i Upragnienie narodów, o Ty, któryś objawił się w Największym Imieniu, mocą którego perły mądrości i wypowiedzi wyłoniły się z muszli wspaniałego morza Twojej wiedzy, a niebiosa Boskiego objawienia zostały przystrojone światłem ukazania się słońca Twojego oblicza.

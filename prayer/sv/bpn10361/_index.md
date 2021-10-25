@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10361 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 ##SKRIFTEN TILL AHMAD

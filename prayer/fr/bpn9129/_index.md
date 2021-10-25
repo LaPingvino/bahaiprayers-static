@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9129 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 *Chaque fois que vous entrez dans la salle du conseil, récitez cette prière d’un cœur vibrant d’amour pour Dieu, l’esprit purifié de tout ce qui n’est pas son souvenir, afin que, dans sa bienveillance, le ToutPuissant vous aide à remporter la victoire suprême.

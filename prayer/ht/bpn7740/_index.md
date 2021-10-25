@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7740 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Senyè mwen! Ou konnen pèp yo ansèkle ak doulè ak kalamite epi soufrans ak difikilte ap antoure yo. Chak eprèv ap atake lòm epi chak malè difisil ap frape li tankou atak yon sèpan. Pa gen okenn abri oubyen refij pou li esepte anba zèl pwoteksyon Ou, defans Ou, siveyans Ou ak swen Ou.

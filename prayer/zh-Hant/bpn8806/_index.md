@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8806 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 我的上帝啊！我不知道在祢的王國，祢所點燃的是何種聖火，塵土遮蓋不了它的光輝，水也無法熄滅它的火焰，世人無能抗拒它的力量，接近它並聽其烈烈燃燒之聲者，必蒙福佑。

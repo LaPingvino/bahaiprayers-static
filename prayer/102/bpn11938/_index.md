@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11938 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Şerif, Belent mertebe we Beýik Taňrynyň ady bilen.

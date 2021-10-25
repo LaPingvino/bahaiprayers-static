@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9304 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Prières pour le jeûne

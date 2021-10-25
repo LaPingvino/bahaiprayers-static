@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7307 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 *„Małżeństwo bahaitów jest związkiem i serdecznym uczuciem między dwiema osobami. Osoby te jednak powinny zachowywać jak największą ostrożność i dobrze wzajemnie poznać swoje charaktery. Ten wieczny związek musi być zabezpieczony mocnym przymierzem, a jego celem winno być pielęgnowanie harmonii, przyjaźni i jedności oraz osiągnięcie życia wiecznego.”

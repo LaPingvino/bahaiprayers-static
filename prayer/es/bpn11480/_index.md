@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11480 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Glorificado eres, oh Señor mi Dios! Te imploro, por Aquel que es Tu Más Grande Nombre, Quien ha sido penosamente afligido por aquellas de Tus criaturas que han repudiado Tu verdad, y Quien ha estado rodeado de tales infortunios que ninguna lengua puede describir, que me permitas recordarte y celebrar Tu alabanza en estos días en que todos se han apartado de Tu belleza, han disputado contigo y se han alejado desdeñosamente de Aquel que es el Revelador de Tu Causa. No hay nadie, oh mi Señor, que Te ayude salvo Tu propio Ser, ni poder alguno que Te socorra excepto Tu propio poder.

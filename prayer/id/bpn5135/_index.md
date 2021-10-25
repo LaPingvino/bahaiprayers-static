@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5135 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *"Penyebar-penyebar keharuman Tuhan sebaiknya membaca doa ini setiap pagi."

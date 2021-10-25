@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1077 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é o Poderoso, o Supremo Perdão, o Compassivo! Ó Deus, meu Deus! Vês os Teus servos no abismo da perdição e do erro: onde está a luz da Tua divina orientação, ó Tu, Desejo do mundo? Conheces o seu desamparo e a sua fraqueza: onde está o Teu poder, ó Tu em cujas mãos estão os poderes do céu e da terra?

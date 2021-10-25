@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9270 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Voici que ton serviteur radieux, ton captif spirituel vient vers toi et se rapproche de ta réalité. Il tourne son visage vers ton visage, reconnaissant ton unité, attestant ton unicité ; il lance un appel en ton nom parmi les nations et conduit les hommes vers la source jaillissante de ta miséricorde, ô toi Seigneur très généreux ! À ceux qui le demandent, il offre de boire à la coupe de la providence, débordant du vin de ta grâce infinie.

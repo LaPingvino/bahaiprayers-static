@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12147 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ##Dituliskan kepada rakan-rakan Bahá'í di Amerika Syarikat dan Kanada

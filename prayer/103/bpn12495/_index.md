@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12495 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O Lord my God! Assist Thy loved ones to be firm in Thy Faith,…

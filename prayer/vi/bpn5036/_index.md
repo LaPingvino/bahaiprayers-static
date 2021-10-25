@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5036 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Ngài thật đáng ca tụng, lạy Ngài là Đấng Thượng Đế của con!

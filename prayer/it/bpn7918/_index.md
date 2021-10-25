@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7918 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Come dispormi a dormire, o Dio mio Dio, quando gli occhi di coloro che Ti bramano vegliano perché separati da Te; e come coricarmi per riposare, mentre le anime dei Tuoi amanti spasimano per la lontananza dalla Tua presenza?

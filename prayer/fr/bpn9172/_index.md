@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9172 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Gloire à toi, ô Seigneur du monde et Désir des nations ! Tu t’es manifesté dans le PlusGrand-Nom qui, des huîtres de l’océan de ta connaissance, a fait naître les perles de la sagesse et de la parole et qui, de l’éclat du soleil de ton visage, a diapré les cieux de la révélation divine.

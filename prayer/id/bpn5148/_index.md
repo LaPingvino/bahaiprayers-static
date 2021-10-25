@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5148 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *[Dapat dibaca baik selama masa Puasa maupun pada waktu fajar.]

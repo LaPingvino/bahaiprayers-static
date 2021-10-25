@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12191 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Kemuliaan kepada-Mu, Ya Tuhan, Tuhanku! Aku merayu kepada-Mu demi Nama-Mu yang melaluinya Dia Yang adalah Keindahan-Mu telah didirikan di atas takhta Akidah-Mu, dan demi Nama-Mu yang melaluinya Engkau mengubah segala sesuatu, dan mengumpulkan segala sesuatu, dan mengadili segala sesuatu, dan membalas segala sesuatu, dan memelihara segala sesuatu, dan mengekalkan segala sesuatu—aku memohon kepada-Mu untuk menjaga dayang-Mu ini yang telah mencari perlindungan daripada-Mu, dan telah mencari perlindungan daripada Dia yang telah menjelmakan Diri-Mu Sendiri, dan yang telah meletakkan seluruh kepercayaan dan keyakinan kepada-Mu.

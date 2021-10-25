@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB00963IMP in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB00963IMP']
 +++
 #Mother Temple of the West

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1319 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 #A SER RECITADA UMA VEZ EM VINTE E QUATRO HORAS

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6257 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 *Mu ndagaano y' obufumbo, Olunyiriri, olwatulwa, omuntu kin'omu, kwe kugamba, nti, omugole omukazi n'omugole, omusaja nga waliwo n'abajulirwa babiri nga bano bakirizibbwa akakiiko ka Local Assembly, zirambikiddwa bulungi mu Kitabo Ekisingira Ddala obutukuvu, Kitab-i-Aqdas, nti:

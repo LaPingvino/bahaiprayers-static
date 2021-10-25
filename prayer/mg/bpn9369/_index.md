@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9369 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Dera ho Anao ry Tompo Andriamanitro ô! 

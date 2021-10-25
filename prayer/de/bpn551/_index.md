@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn551 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Ruhm sei Dir, o Gott, für Deine Offenbarung der Liebe zur Menschheit. O Du, der Du unser Leben bist und unser Licht, führe Deine Diener auf Deinen Pfad, mache uns reich in Dir und frei von allem außer Dir.

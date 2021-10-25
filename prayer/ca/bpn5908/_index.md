@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5908 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glorificat ets Tu, oh Déu meu Senyor! Cada vegada que goso de fer esment de Tu, m’ho impedeixen els meus grans pecats i les meves grans transgressions contra Tu, i em trobo completament incapaç de celebrar la Teva lloança. Tanmateix, la meva gran confiança en la Teva generositat reviu la meva esperança en Tu, i la meva certesa que em tractaràs muníficament em dóna ànims per enaltir-te i per demanar-te allò què Tu posseeixes.

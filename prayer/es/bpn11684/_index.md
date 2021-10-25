@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11684 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh mi Dios! Tú has ordenado a Tus siervos observar el ayuno durante estos días. Con él adornaste el preámbulo del Libro de Tus Leyes revelado a Tus criaturas, y engalanaste a los Depositarios de Tus mandamientos ante la vista de todos los que están en Tu cielo y todos los que están en Tu tierra. Tú has dotado cada hora de estos días con una virtud especial, inescrutable para cualquier otro que no seas Tú, Cuya sabiduría abarca todo lo creado. También has asignado a cada alma una porción de esta virtud, de acuerdo con la Tabla de Tu decreto y las Escrituras de Tu juicio irrevocable. Además, has asignado cada página de estos Libros y de estas Escrituras a cada uno de los pueblos y razas de la tierra.

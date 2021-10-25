@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6224 in Luganda'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ettendo libe gyoli, Ayi Mukama Katonda wange! Kulw'ekisa kyo, kiriza omuwere ono okuyonka ku mabeere ag'ekisa ky'okusaasira Kwo n'okwagala Kwo, era omukulirize ku bibala eby'omuti ogw,omuggulu.  Tomuganya kubeera mu bukuumi bwa mulala yenna, wabula Ggwe, Ggwe kenyini, nga bwe wamutonda n'omuwa obulamu nga oyita mu maanyi g'obwakabaka Bwo.  TewaliKatonda mulala wabula Ggwe, Asingira ddala amaanyi, Amanyi byonna.

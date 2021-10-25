@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12616 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Nuan Tuhan ti pemadu bemulia! Gaga pengasuh indu

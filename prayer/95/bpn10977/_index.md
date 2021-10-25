@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10977 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *I so se taimi e ulufale atu koe ki loto i te potu fono, fai ate talo tenei mo tou loto finafinau i te alofa o te Atua mo te laulaufaiva e matakalekale mai I meakatoa na ko Tena masauuga, ko te Maalosi-Katoatoa ke aumai a te alofaaga fesoasoani ke maua ne koe a te manumaalo tafasili ite maluga.

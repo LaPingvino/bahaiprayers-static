@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2199 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Îţi aduc laudă ţie, o, Dumnezeul meu, că m-ai trezit din somnul meu şi m-ai scos la iveală după absenţa mea, şi m-ai ridicat din adormirea mea. M-am trezit în această dimineaţă cu faţa îndreptată către splendorile Luceafărului Revelaţiei Tale, prin care cerurile puterii şi maiestăţii Tale au fost luminate, adeverind semnele Tale, crezând în Cartea Ta şi ţinându-mă strâns de funia Ta.

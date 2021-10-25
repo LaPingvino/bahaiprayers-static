@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6212 in Hawaiian'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-haw', 'bpn-unsorted']
 +++
 ##Ka Ho'oku'u Popilikia

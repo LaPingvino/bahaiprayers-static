@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3701 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo mu Jumal ja mu Meister! Olen Sinu teener ja Su teenri poeg. Olen tõusnud oma voodist sel koidutunnil, mil Sinu ainsuse Päevatäht on kiiranud Su tahte Koidikust ja valanud oma sära üle kogu maailma, nii nagu on määratud Su Seadluse Raamatutes.

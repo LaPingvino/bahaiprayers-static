@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9684 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, mijn God! Gij zijt mijn hoop en mijn geliefde, mijn hoogste doel en verlangen! Met grote nederigheid en algehele toewijding smeek ik U mij tot een minaret van Uw liefde in Uw gebied te maken, een lamp van Uw kennis onder Uw schepselen en een vaandel van goddelijke milddadigheid in Uw koninkrijk.

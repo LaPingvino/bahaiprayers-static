@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9376 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitra! Velombelomy sy ampiravoravoy ny fanahiko. Diovy ny foko. Hazavao ny saiko. Apetrako eo am-Pelatananao ny raharahako rehetra. Ianao no Mpitarika ahy sy Fialofako. Tsy te ho be alahelo sy fahoriana intsony aho, fa te ho sambatra sy ho feno hafaliana kosa.

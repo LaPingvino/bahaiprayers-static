@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2411 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Mans Dievs, mans Pielūgtais, mans Ķēniņš, mana karstākā Vēlēšanās! Kāda gan mēle var izteikt manu pateicību Tev? Es biju vienaldzīgs, Tu mani modināji. Es biju novērsies no Tevis, Tu visžēlīgi ļāvi man atgriezties pie Tevis. Es biju kā miris, Tu mani atdzīvināji ar dzīvības ūdeni. Es biju kā novītis zieds, Tu mani atveldzēji ar Savu vārdu dievišķo straumi, kas plūda no Visžēlīgās Spalvas.

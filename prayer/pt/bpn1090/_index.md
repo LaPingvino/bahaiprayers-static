@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1090 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Deus! Ó meu Deus! Tu vês estas crianças que são os rebentos da árvore da vida, as aves dos prados da salvação, as pérolas do oceano da Tua graça, as rosas do jardim da Tua guia.

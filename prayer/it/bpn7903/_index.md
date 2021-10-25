@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7903 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Dio, mio Dio! Questo è il Tuo servo radioso, il Tuo schiavo spirituale, che si è avvicinato a Te e si è accostato alla Tua presenza. Egli ha rivolto il viso a Te, riconoscendo la Tua unicità, confessando la Tua unità, e ha chiamato il Tuo nome fra le nazioni, e ha guidato le genti alle acque scorrenti della Tua misericordia, o Tu generosissimo Signore! A chi chiedeva ha pòrto da bere dalla coppa della guida, traboccante del vino della Tua infinita grazia.

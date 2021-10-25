@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn528 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Mein Gott, dem ich diene und den ich anbete! Ich bezeuge Deine Einheit und Einzigkeit und anerkenne Deine Gnadengaben, die Du uns heute wie in vergangenen Tagen schenkest. Du bist der Allfreigebige, Du lässest Deines Erbarmens reichen Regen auf hoch und niedrig strömen und Deiner Gnade Glanz auf Gehorsame und Empörer strahlen.

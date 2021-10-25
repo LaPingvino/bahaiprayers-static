@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2474 in Русский'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ru', 'bpn-unsorted']
 +++
 *(Молитва открыта для бахаи западных штатов)

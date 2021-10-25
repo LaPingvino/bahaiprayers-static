@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12179 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhan, Tuhanku! Dayang-Mu ini sedang memanggil-Mu, percaya kepada-Mu, menghadapkan wajahnya kepada-Mu, memohon kepada-Mu agar mencurahkan kepadanya  pemberian syurgawi-Mu, dan membuka kepadanya rahsia-rahsia rohani-Mu, serta memancarkan kepadanya cahaya Keilahian-Mu.

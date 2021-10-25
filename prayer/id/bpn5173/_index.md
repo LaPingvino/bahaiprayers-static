@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5173 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 *"Apabila engkau memasuki ruangan pertemuan, ucapkanlah doa ini dengan hati yang berdebar-debar dengan cinta Tuhan dan lidah yang telah disucikan dari apa pun kecuali mengingat kepada-Nya agar Yang Maha Kuasa akan membantu engkau dengan kasih sayang untuk mencapai kemenangan yang tertinggi."

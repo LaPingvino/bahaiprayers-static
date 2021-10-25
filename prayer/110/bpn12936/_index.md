@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12936 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 O God bilong mi!  Inap Yu salim traipela blesing na gutpela presen bilong Yu i kam daun long ol haus bilong ol manmeri husat i kam insait long Lotu bilong Yu.  Dispela samting em mak bilong marimari na gutpela lav i kam long Yu. 

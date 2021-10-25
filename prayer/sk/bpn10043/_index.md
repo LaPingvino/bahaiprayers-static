@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10043 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó ty milosrdný Bože! Ó Ty, ktorý si mocný a silný! Ó Ty najláskavejší Otče! Títo služobníci sa spolu stretli, obracajúc sa k Tebe, pokorne prosiac pri Tvojom prahu a túžiac po nekonečnej štedrosti Tvojho veľkého uistenia. Nemajú iný cieľ než Tvoje potešenie. Nemajú iný úmysel než slúžiť celému ľudstvu.

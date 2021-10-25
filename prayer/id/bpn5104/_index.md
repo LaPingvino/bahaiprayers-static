@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5104 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Engkau adalah Dia, ya Tuhanku, yang berkat nama-nama-Nya si sakit menjadi sembuh, yang menderita menjadi baik; yang dahaga menjadi puas, yang duka menjadi tenang, yang melawan memperoleh bimbingan, yang hina menjadi mulia, yang miskin menjadi kaya, yang bodoh menjadi pandai, yang suram menjadi terang, yang sedih menjadi gembira, yang dingin menjadi panas dan yang tertindas menjadi bebas. Berkat nama-Mu, ya Tuhanku, semua makhluk digerakkan, langit dibentangkan, dan bumi didirikan, dan awan-awan dinaikkan supaya menghujani bumi. Sesungguhnya, inilah tanda rahmat-Mu bagi semua makhluk-Mu.

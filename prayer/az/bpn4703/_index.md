@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4703 in Azərbaycan'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ya Rəbb, Sən Ey bütün yaranmış şeyləri Öz əmrinin qüdrəti ilə xəlq edən Allah!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11929 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Ylahy, Ylahy! Bendeleriň köňüllerini bir-birine bagla hem olaryň öz isleglerini özlerine aýan et. Goý olar Seniň buýruklaryňa sygynsynlar we Seniň permanlaryňda berk bolsunlar.

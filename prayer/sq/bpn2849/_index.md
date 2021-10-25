@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2849 in Shqip'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Udhëheqje për ata që shkojnë në rrugë të gabuar

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2860 in Shqip'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Ai është Shëruesi, i Mjaftueshmi, Ndihmuesi,

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9626 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 In Naam van God, de Allerhoogste! Geprezen en verheerlijkt zijt Gij, Heer, Almachtig God! Gij, voor Wiens wijsheid de wijze tekort schiet en faalt, voor Wiens kennis de geleerde zijn onwetendheid bekent, voor Wiens macht de sterke zwak wordt, voor Wiens rijkdom de rijke zijn armoede betuigt, voor Wiens licht de verlichte in duisternis dwaalt, naar de tempel van Wiens kennis de kern van alle begrip zich keert en rondom het heiligdom van Wiens tegenwoordigheid de zielen van de gehele mensheid cirkelen.

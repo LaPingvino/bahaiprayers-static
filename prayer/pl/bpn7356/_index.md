@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7356 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Wysławiam Cię, o mój Boże, za to, żeś przebudził mnie ze snu, przywrócił mi świadomość i podniósł mnie z mojego posłania. Obudziłem się tego ranka z twarzą zwróconą w stronę wspaniałości Jutrzenki Twego Objawienia, który oświetlił niebiosa Twojej mocy i Twojego majestatu, uznając Twoje znaki, wierząc w Twoją Księgę i trzymając się mocno Twojej Więzi. 

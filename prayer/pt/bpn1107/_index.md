@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1107 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvor a Ti, ó meu Deus! Estes são os Teus servos, atraídos pelas fragrâncias da Tua misericórdia, ardentes com o fogo aceso na árvore da Tua singularidade, com os seus olhos a brilhar ao contemplar os esplendores da luz que brilha no Sinai da Tua unicidade!

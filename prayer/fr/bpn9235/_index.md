@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9235 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Seigneur, permets à tous les peuples de la terre d’accéder au paradis de ta foi afin qu’aucune créature ne demeure hors des limites de ton bon plaisir.

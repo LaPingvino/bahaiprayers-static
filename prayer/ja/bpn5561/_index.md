@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5561 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 ## 参堂の書(二)

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5055 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Thượng Đế chứng nhận rằng thần tính của Ngài là duy nhất và bất khả phân. Từ trên Ngai Vĩnh cửu, từ những đỉnh cao không ai vượt tới của cương vị tối cao của Ngài, lưỡi Ngài công bố rằng không có Thượng Đế nào khác ngoài Ngài. Chính Ngài, độc lập đối với bất cứ ai khác, đã là Nhân chứng về sự đơn nhất riêng Ngài, Đấng mặc khải bản thể riêng Ngài, là Đấng tôn vinh tinh hoa riêng Ngài. Sự thật, Ngài là Đấng Toàn năng, Đấng Tối cao, Đấng Mỹ lệ.

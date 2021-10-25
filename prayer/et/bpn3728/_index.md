@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3728 in Eesti'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Mu Issand! Mu Issand! Ma kiidan Sind ja tänan Sind selle eest, millega Sa oled soosinud oma alandlikku ümmardajat, oma orjatari, kes anub ja palub Sind härdalt, sest Sina oled tõesti juhatanud ta oma ilmsesse kuningriiki ning pannud ta kuulma oma ülevat kutset ses juhuslikus maailmas ning nägema Sinu märke, mis tõendavad Su võidurikka valitsuse ilmumist kõikide asjade üle.

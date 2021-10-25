@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8040 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O Herre! Gør dette unge menneske strålende og skænk Din gavmildhed til denne ringe skabning.

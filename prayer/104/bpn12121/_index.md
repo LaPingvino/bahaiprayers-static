@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12121 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ”Lepaskanlah dirimu daripada segala sesuatu kecuali Aku dan hadapkanlah wajahmu kepada wajah-Ku, kerana lebih baiklah ini bagimu daripada segala  sesuatu yang engkau miliki.”

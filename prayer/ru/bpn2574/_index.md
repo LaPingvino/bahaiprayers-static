@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2574 in Русский'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ru', 'bpn-unsorted']
 +++
 Он есть Могущественный, Прощающий, Сострадательный!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5792 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Déu meu, el meu Adorat el meu Rei, el meu desig! Quina llengua pot expressar el meu agraïment a Tu? Jo era negligent, Tu em despertares. Jo t’havia donat l’esquena, Tu bondadosament  m’ajudares a tornar-me cap a Tu. Jo era com un mort, Tu em vivificares amb l’aigua de vida. Jo estava marcit,Tu em vas reanimar amb el corrent celestial de la teva Paraula que ha fluït  de la Ploma del Tot Misericordiós.

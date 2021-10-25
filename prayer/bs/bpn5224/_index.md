@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5224 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Moj Bože, kojeg poštujem i obožavam! Svjedočim o Tvome jedinstvu i jednosti, zahvaljujem Ti na darovima prošlim i sadašnjim. Ti si Najdobrostiviji, onaj Čiji nepresušni pljusak milosti napaja velikane i slabe, sjaj Čije plemenitosti obasjava pokorne i odmetnike.

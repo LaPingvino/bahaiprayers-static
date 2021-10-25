@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4724 in Azərbaycan'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Anlayiram mən, Ya Rəbb, xətalarım Sənin hüzurunda üzümü xəcalətlə qaraldıb, Sənin qarşında belimi əyib, mənimlə Sənin camalın arasında pərdəyə çevrilib, hər yandan məni əhatə edərək və hər tərəfdən məni bürüyərək, Sənin qüdrətinin təzahürlərinə yetişməyimə mane olub.

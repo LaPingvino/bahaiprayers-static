@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7834 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Non so, o mio Dio, se devo proclamare le meraviglie della Tua lode fra i Tuoi servi e svelare dinnanzi a loro i segreti della Tua misericordia e i misteri della Tua Causa oppure tenerli rinchiusi nel ricettacolo del cuore. Benché l’amante sia restio a condividere con chiunque l’intima conversazione con l’amato, pure ogni qualvolta mi giungerà il Tuo ineludibile comandamento di dichiarare la Tua Causa, io lo obbedirò senza esitare. Ti proclamerei senza lasciarmi distogliere da dardi di afflizione che piovano su di me dalle nuvole del Tuo decreto.

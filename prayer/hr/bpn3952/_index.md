@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3952 in Hrvatski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 O, moj Bože! Ti znaš da su ljudi okruženi bolom i nedaćama i opkoljeni teškoćama i nevoljom. Svaka kušnje čovjeka napada i svaki jad zlosretni na njega nasrće poput nasrtaja zmije. Nema mu zaklona ni utočišta osim ispod krila Tvoje zaštite, sigurnosti, čuvanja i brige.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2605 in العربية'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ar', 'bpn-unsorted']
 +++
 # بِسْمِهِ المُهَيْمِنِ عَلَى الأَسْماءِ

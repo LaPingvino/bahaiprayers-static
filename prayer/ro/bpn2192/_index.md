@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2192 in România'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Dumnezeul meu, Domnul meu şi

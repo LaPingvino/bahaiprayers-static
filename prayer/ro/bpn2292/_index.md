@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2292 in România'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lauda fie cu Tine, o, Doamne, Preaiubitul

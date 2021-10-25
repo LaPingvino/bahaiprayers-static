@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12910 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu de miséricorde! Ô toi, l’Omnipotent! Je ne suis qu’un faible serviteur, frêle et sans défense, mais j’ai été éduqué à l’ombre de ta grâce et de ta faveur, nourri au sein de ta miséricorde et élevé dans le giron de ta bienveillance. Ô Seigneur! Je suis pauvre et nécessiteux, mais tout nécessiteux est rendu prospère par ta bonté tandis que le riche, s’il est privé de tes faveurs, est en fait pauvre et abandonné. 

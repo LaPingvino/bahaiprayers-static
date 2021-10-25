@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9611 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Heer mijn God! Dit is een kind dat is voortgekomen uit de lendenen van een van Uw dienaren die Gij een onderscheiden staat hebt verleend in de Tafelen van Uw onherroepelijke bevel in de boeken van Uw beschikking.

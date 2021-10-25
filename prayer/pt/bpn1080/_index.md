@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1080 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó bondosa e amorosa Providência! O Oriente está agitado e o Ocidente encapela-se como as vagas eternas do mar. As suaves brisas de santidade difundem-se e, do Reino Invisível, os raios do Sol da Verdade rutilam resplendentes. Os hinos da unicidade divina estão a ser entoados, e os pendões do poder celestial estão a tremular. A Voz angélica enche os ares e, como o rugido do leviatã, faz soar o chamamento à abnegação e à evanescência. O brado triunfal Yá Bahá’u’l-Abhá retumba por todas as plagas, e o chamado de Yá ’Alíyyú’l-’Alá ecoa por todas as regiões. Não há agitação no mundo a não ser a da Glória do Arrebatador de Corações, e tumulto algum existe salvo o encapelar do amor a Ele, o Incomparável, o Bem-Amado.

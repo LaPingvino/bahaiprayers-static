@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9696 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij vriendelijk Heer! Deze innig gekoesterde dienares werd tot U aangetrokken, en verlangde er door overdenking en inzicht naar om Uw tegenwoordigheid te bereiken en Uw rijken te betreden. Met tranen in de ogen vestigde zij haar blik op het Koninkrijk van mysteriën. Vele nachten bracht zij door in diepe verbondenheid met U, en vele dagen leefde zij met het U innig gedenken. Elke morgenstond was zij U indachtig, en elke avond richtte zij haar gedachten op U. Gelijk een zingende nachtegaal zong zij Uw heilige verzen, en gelijk een spiegel trachtte zij Uw licht te weerkaatsen.

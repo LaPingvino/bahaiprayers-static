@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3742 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Kuidas võin ma uinuda, oo Jumal mu Jumal, kui Sind igatsevate silmad on ärkvel Sinust lahusoleku tõttu, ja kuidas võin ma heita puhkama, kui valust vaevatud, olles kaugel Sinu lähedusest?

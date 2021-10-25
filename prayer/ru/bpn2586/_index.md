@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2586 in Русский'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ru', 'bpn-unsorted']
 +++
 О мой Боже! О Ты, Кто прощает грехи, ниспосылает дары, развеивает скорби!

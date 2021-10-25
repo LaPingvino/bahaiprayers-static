@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5020 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, Danh Ngài đáng được ca ngợi! Bởi thiên ân tăng lực của Ngài, xin giúp cho các tôi trai tớ gái của Ngài kể lại những thánh đức của Ngài và kiên định trong tình yêu đối với Ngài. Biết bao chiếc lá mà bão tố tai ương đã làm rơi, và còn biết bao lá khác bám chắc vào Cây Chánh Đạo của Ngài, không hề lay chuyển bởi bao thử thách tấn công, lạy Ngài là Đấng Thượng Đế của con, Đấng Đại Từ bi!

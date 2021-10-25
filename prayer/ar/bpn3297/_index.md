@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3297 in العربية'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ar', 'bpn-unsorted']
 +++
 * مناجاة بعد الطعام

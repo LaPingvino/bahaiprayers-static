@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8601 in 简体中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的主啊！将经书之母所宣布的、祢所看重的最有裨益之物，赐予我及祢的信徒。因为只有祢，手握定夺万物的尺度。

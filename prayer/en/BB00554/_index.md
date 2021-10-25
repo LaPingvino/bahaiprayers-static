@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BB00554 in English'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-en', 'BB00554']
 +++
 Praise be to Thee, O Lord, my Best Beloved!  Make me steadfast in Thy Cause, and grant that I may be reckoned among those who have not violated Thy Covenant nor followed the gods of their own idle fancy.

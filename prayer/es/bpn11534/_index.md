@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11534 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Magnificado sea Tu nombre, oh mi Dios, por cuanto has manifestado el Día que es el Rey de los Días, el Día anunciado a Tus Elegidos y a Tus Profetas en Tus muy excelsas Tablas, el Día en que derramaste el esplendor de la gloria de todos Tus Nombres sobre todas las cosas creadas. Grande es la bendición de quienquiera que se haya dirigido hacia Ti, haya alcanzado Tu presencia y haya percibido los acentos de Tu voz.

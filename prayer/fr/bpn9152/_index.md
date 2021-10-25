@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9152 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Loué soit ton nom, ô mon Dieu ! Par les fragrances du manteau de ta grâce qui, sur ton ordre et selon ton désir, furent répandues à travers la création tout entière, par le soleil de ta volonté qui resplendit au-dessus de l’horizon de ta miséricorde, et par le pouvoir de ta puissance et de ta souveraineté, je t’implore. Efface de mon cœur toute folle chimère et vaine imagination afin que je me tourne avec ferveur vers toi, ô Seigneur de toute l’humanité !

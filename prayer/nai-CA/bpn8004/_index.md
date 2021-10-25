@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8004 in Canadian Indigenous'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 ##Nuts’amat

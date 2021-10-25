@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3937 in Hrvatski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 Molim Tvoje oproštenje, o, Bože moj, i tražim oproštaj, onako kako Ti želiš da čine sluge Tvoje kada Ti se obraćaju. Molim Te da spereš sve naše grijehe onako kako dolikuje Tvojoj Uzvišenosti i da oprostiš meni, mojim roditeljima i onima za koje Ti smatraš da su ušli u stan ljubavi Tvoje na način dostojan Tvoje nadmoćne vladavine i kako pristaje slavi Tvoje nebeske moći.

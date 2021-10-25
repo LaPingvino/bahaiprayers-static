@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12912 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est Dieu. 

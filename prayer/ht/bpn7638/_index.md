@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7638 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *O chèchè Laverite a! Si ou ta vle Bondye ouvri je ou, ou dwe sipliye Li, priye Bondye ak kominike avèk Li nan lè minwi, epi di:

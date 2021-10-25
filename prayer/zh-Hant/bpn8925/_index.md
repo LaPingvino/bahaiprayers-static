@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8925 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 播撒上帝之芬芳者應每日清晨誦讀以下禱文。

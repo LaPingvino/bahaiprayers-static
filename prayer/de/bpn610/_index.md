@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn610 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht bist Du, o Herr mein Gott! Ich flehe Dich an bei Deinen Auserwählten, bei Deinen Vertrauten und bei Ihm, den Du zum Siegel Deiner Propheten und Boten bestimmt hast, lasse Dein Gedenken meinen Gefährten sein, Deine Liebe mein Streben, Dein Antlitz mein Ziel, Deinen Namen meine Leuchte, Deinen Wunsch mein Verlangen und Dein Wohlgefallen meine Freude.

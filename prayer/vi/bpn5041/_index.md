@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5041 in Tiếng Việt'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Bóng tối của đêm sầu thảm này rồi sẽ qua đi. 

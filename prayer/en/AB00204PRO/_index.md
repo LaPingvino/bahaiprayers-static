@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB00204PRO in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB00204PRO']
 +++
 O Thou kind and loving Providence!  The east is astir and the west surgeth even as the eternal billows of the sea.  The gentle breezes of holiness are diffused and, from the Unseen Kingdom, the rays of the Orb of Truth shine forth resplendent.  The anthems of divine unity are being chanted and the ensigns of celestial might are waving.  The angelic Voice is raised and, even as the roaring of the leviathan, soundeth the call to selflessness and evanescence.  The triumphal cry Yá Bahá’u’l-Abhá resoundeth on every side, and the call Yá ‘Alíyyu’l-‘Alá¹ ringeth throughout all regions.  No stir is there in the world save that of the Glory of the One Ravisher of Hearts, and no tumult is there save the surging of the love of Him, the Incomparable, the Well-Beloved.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1772 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrlegur ert Þú, ó vorkunnláti Drottinn minn. Ég bið Þig við ólgandi úthaf heilagra orða Þinna og margvísleg tákn Þinnar æðstu tignar og knýjandi vitnisburði guðdóms Þíns og leyndar­dómana sem þekking Þín varðveitir, að leyfa af náð Þinni að ég megi þjóna Þér og Þínum útvöldu og gera mér kleift að inna samviskusamlega af hendi Rétt Guðs sem Þú hefur ákvarðað í bók Þinni.

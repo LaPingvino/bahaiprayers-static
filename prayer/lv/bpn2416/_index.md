@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2416 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Tu, Kā vaigs ir manas pielūgsmes tēls, Kā skaistums ir mans patvērums, Kā miteklis ir mans mērķis, Kā uzslava ir mana cerība, Kā liktenis ir mans līdzgaitnieks, Kā mīlestība ir manas esamības cēlonis, Kā pieminēšana ir mans mierinājums, Kā tuvums ir mans ilgojums, Kā klātbūtne ir mana dziļākā vēlēšanās un mana augstākā tiecība, es Tevi lūdzu, neliedz man to, ko Tu esi lēmis Saviem izraudzītajiem kalpiem. Tad dod jel man visu labo šai pasaulē un tajā, kas nāks.

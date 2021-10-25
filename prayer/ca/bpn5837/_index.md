@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5837 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Revelat Als Bahá’ís Dels Estats Meridionals

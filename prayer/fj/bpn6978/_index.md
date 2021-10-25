@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6978 in Fiji'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 O i Kemuni na Kalou, O i Kemuni ka vakaivolataki ira na Parofita Lumuti kece ga, na i Vurevure ni vei Vurevure kece ga, na Uluvatu ni i Vola Tabu kece ga, kei na Waivure ni vei Rarama kece ga! Au vakadinata ni Yacamuni ga e vakaiukuukutaka na veikilai vakayalo, ka vuabale kina na titobu ni vosa mana, kei na rabailevu ni Nomuni veitaqomaki e sa kilai raraba vei ira na lewe ni veimatalotu kece ga.

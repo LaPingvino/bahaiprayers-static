@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10941 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O Koe ko te Atua fakamagalo!  Au tavini konei ko fuli atu ki Tou maalo kae salasala ki Tou alofa mo te kaimalie.  O te Atua!  Fai aka a olotou loto ke llei kae piua ko te mea ke mafai ne latou o ttau ki Tou alofa.  Faka-piua kae faka-mana a agaaga ko te mainaaga o te Laa-ote-Meatonu ke mafai o maina I luga ia latou.  Faka-piua kae faka-mana a olotou mata ko te mea ke kite ne latou a Tou mainaaga.  Faka-piua kae fakamana aka a olotou taliga ko te mea mafai ne latou o lagona a te kalaga ki Tou maalo.

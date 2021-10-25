@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7717 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye Senyè nou! Pwoteje nou avèk gras Ou kont tout bagay Ou rayi, e voye pou nou sa ki t’ap diyn pou grandè Ou. Ban nou plis nan bonte Ou, epi beni nou. Efase tout bagay nou te fè yo, lave nou retire tach peche nou yo, epi padone nou avèk padon Ou ki plen gras. An verite, se Ou menm Ki Pi Egzalte a, K’ap Rete pou kont Ou. 

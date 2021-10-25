@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7446 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, mój Boże, który prowadzisz poszukującego na właściwą drogę, który wybawiasz zagubioną i oślepłą duszę od pustyni zatracenia, Ty, który obdarowujesz prawych wielkimi darami i względami, który strzeżesz bojaźliwych w swoim niezdobytym schronieniu, który odpowiadasz na wołanie wzywających Ciebie ze swojego najwyższego horyzontu. Bądź pochwalony, o mój Panie! Tyś wybawił nieuważnych od śmierci niewiary, Tyś przywiódł tych, którzy lgną do Ciebie do celu podróży i rozradował przekonanych pośród sług swoich, spełniając ich najgorętsze pragnienia, i ze swojego Królestwa piękna Tyś otworzył bramy zjednoczenia przed obliczem tęskniących za Tobą i ocalił ich od ognia niedostatku i utraty, tak że pospieszyli oni do Ciebie i dostąpili Twojej obecności i przybyli do Twoich gościnnych bram i otrzymali obfitą część darów.

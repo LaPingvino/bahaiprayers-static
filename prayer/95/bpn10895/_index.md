@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10895 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O Koe te Aliki Alofa!  A tau tavini fafine faka-alofa ne manako kia Koe, kae mai i luga i tena toe fakatau mo tena mafaufau ne manako ko ia ke oko atu ki Ou mua kae ke ulufale atu a ia ki Ou lalolagi.  Mo ana mata e kanovai ne tuku tonu a tena kilo ki luga i te Maalo o Mea-Lilo.  I po e fia ne tapuaki kia Koe, kae e fia aso ne nofo a ia o masausau kia Koe.  I tafataeao katoa e masaua ne ia a Koe, a ko afiafi katoa ne tuku tonu ona mafaufauga ki luga ia Koe.  Pe la loa mote usuusu a te nainitinikale ne fakalagi ne ia Au kupu, kae pe la mo te kilo ne manako a ia ke toe faka-foki atu a Tou mainaaga.

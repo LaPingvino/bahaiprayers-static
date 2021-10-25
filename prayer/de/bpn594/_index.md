@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn594 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott! Die Prüfungen, die Du sendest, sind Balsam für die Wunden aller, die Deinem Willen ergeben sind. Deiner zu gedenken, ist heilende Arznei für die Herzen derer, die Deinem Hofe nahe sind. Die Nähe zu Dir ist das wahre Leben aller, die Dich lieben. Deine Gegenwart ist der brennende Wunsch derer, die sich danach sehnen, Dein Antlitz zu schauen. Ferne von Dir wird denen zur Qual, die Deine Einheit erkennen, und Trennung von Dir ist denen Tod, die Deine Wahrheit anerkennen.

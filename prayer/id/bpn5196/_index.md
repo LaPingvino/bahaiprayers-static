@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5196 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Hamba wanita-Mu ini sedang memanggil-Mu, sedang percaya kepada-Mu, sedang menghadapkan wajahnya kepada-Mu, memohon kepada-Mu, agar mencurahkan kepadanya pemberian-pemberian-Mu yang surgawi dan membuka kepadanya rahasia- rahasia kerohanian-Mu serta memancarkan kepadanya cahaya-cahaya Keilahian-Mu.Ya Tuhanku! Jadikanlah mata suamiku terbuka. Gembirakanlah hati dia dengan

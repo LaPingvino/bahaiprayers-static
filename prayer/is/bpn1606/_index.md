@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1606 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Mörg eru þau köldu hjörtu, ó Guð minn, sem hafa upptendrast af eldi málstaðar Þíns og margur sofandinn hefur risið upp við sætleika raddar Þinnar. Hve margir eru ekki þeir ókunnu sem leituðu skjóls í forsælunni af tré einleika Þíns og hve fjölmargir þeir sem brunnu af þorsta eftir lind lifandi vatns Þíns á dögum Þínum!

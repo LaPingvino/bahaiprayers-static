@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10408 in Kiribati'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Te Atua ae Atuau! Am tabonibai te aine aio e Tabotaboiko, e Onimakiniko, e raira moana Nakoim, ma ni Bubutiiko bwa Ko na kabwaroi Am bwaintituaraoi mai karawa nako aona, ma ni kaotia nakoina Am bwai n tamnei aika a raba, ma ni kaootaa n ootan Aroarom n Atua.

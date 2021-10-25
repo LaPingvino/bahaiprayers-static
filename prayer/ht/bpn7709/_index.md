@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7709 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen, Mèt mwen! Mwen se sèvitè Ou ak pitit sèvitè Ou. Mwen kite kabann mwen nan douvanjou sa a pandan Solèy inite Ou a te klere depi nan Syèl volonte Ou, e gaye limyè li sou tout latè, daprè sa ki te ekri nan Liv Desizyon Ou yo.

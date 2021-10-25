@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9540 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Geloofd zij Uw Naam, o Heer mijn God! Ik smeek U bij Uw Naam waardoor het uur heeft geslagen en de wederopstanding is geschied, en angst en beven allen die in de hemel zijn en allen die op aarde zijn heeft gegrepen, om vanuit de hemel van Uw erbarmen en de wolken van Uw tedere mededogen datgene te laten neerregenen wat het hart van Uw dienaren zal verblijden, zij die zich tot U hebben gekeerd en Uw Zaak hebben geholpen.

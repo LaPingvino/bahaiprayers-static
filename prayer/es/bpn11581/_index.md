@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11581 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Desposaos, oh pueblo, para que engendréis a quien haga mención de Mí en medio de Mis siervos. Este es Mi mandato para vosotros. Asíos firmemente a él como ayuda para vosotros mismos.

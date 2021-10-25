@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7853 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Dio, mio Dio! Questa Tua ancella Te invoca, in Te confida, verso Te rivolge il viso, implorandoTi di concederle le Tue grazie celesti, di svelare i Tuoi misteri spirituali e di avvolgerla nelle luci della Tua Divinità.

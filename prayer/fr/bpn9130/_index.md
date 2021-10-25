@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9130 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 *Unissez-vous dans la joie la plus intense et récitez cette prière en début de réunion :

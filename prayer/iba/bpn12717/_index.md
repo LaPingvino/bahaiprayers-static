@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12717 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Mulia meh ke Nuan, O Raja ti meruan belama, enggau

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8159 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Hver sjæl, som rejser gennem byerne og landsbyerne i disse stater og er optaget af at sprede Guds vellugte, bør læse denne bøn hver morgen.

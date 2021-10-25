@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10654 in Монгол хэл'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mn', 'bpn-unsorted']
 +++
 Тэрээр Анагаагч, Хангагч, Туслагч, Бүхнийг өршөөгч, Бүхнээс энэрэлт билээ.

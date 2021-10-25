@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn443 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du gütiger Herr! Wir sind Diener an Deiner Schwelle, die an Deinem heiligen Tor Obdach nehmen. Wir suchen keine Zuflucht als zu dieser starken Säule und wenden uns nach keinem Port als Deinem sicheren Gewahrsam. Beschütze uns, segne uns, hilf uns; lass uns nur Dein Wohlgefallen lieben, nur Dein Lob anstimmen, nur auf dem Pfad der Wahrheit wandeln, bis wir so reich werden, dass wir alles außer Dir entbehren können, unsere Gaben aus dem Meer Deiner Wohltätigkeit empfangen und allezeit danach trachten, Deine Sache zu erheben und Deine süßen Düfte nah und fern zu verbreiten, auf dass wir unser Selbst vergessen und, nur mit Dir befasst, alles für wertlos erachten und ganz in Dir aufgehen.

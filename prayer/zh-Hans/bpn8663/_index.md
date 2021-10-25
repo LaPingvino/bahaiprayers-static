@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8663 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的上帝啊！我的上帝！我真诚地在祢门前祈求和恳请，求祢将一切仁恩降予这些灵魂，特选他们承享祢的真理与恩宠。

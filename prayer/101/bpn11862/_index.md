@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11862 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa, Topa ku! Itih leh ulunt Ingan dek bikilap, ulunt batak rohani Ingan, nyaa dek mbok odi tudu Ingan bia nyaduak pimonog Ingan. Iyoh mbok kos jowin-eh tudu Ingan, terima pinyindi Ingan, ngakuk Ingan dek sadik, bia iyoh mbok bibogan daang adon Ingan diantara negara-negara, bia siluang manusia tudu aluang pi’in pirasie Ingan, O Ingan Raja dek Paling-Murah Otin! Tudu bala nyaa dek sikien Iyoh totap ngin odak nuok sok makup pingotag dek punuae mepel odak pi’in pirinduk budi Ingan dek dik-eh tinyukat.

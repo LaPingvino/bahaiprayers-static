@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8581 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 满怀恩德的上帝啊！大能强力的尊者啊！至为仁慈的圣父啊！这些仆人在此团聚并转向祢，在祢门槛前祈求，渴望那源于祢伟大允诺的无量恩惠。他们别无所图，只为使祢喜悦；他们别无所愿，只为服务人类世界。

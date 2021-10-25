@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12875 in Alaska Native'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Say: God Sufficeth 

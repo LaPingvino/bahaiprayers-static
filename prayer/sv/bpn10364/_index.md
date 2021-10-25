@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10364 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Skottdagarna, Ayyám-i-Há, 26 februari - 1 mars, bör ägnas åt förberedelser inför fastan, åt gästfrihet, välgörenhet och utdelande av gåvor.

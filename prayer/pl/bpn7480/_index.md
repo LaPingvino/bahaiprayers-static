@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7480 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 W Imię Boga, Odwiecznego, Największego.

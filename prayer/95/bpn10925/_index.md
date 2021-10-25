@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10925 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E matagofie a Koe, O te Aliki toku Atua!  I taimi katoa e taumafai au o taku a Koe, au e fakalavegia ne aku agasala fulafula-aki mo aku soli-tuakoi tafasili i te masei kia Koe, ako au e iloa aka ne au ko seai a Tou alofa-kaimalie katoatoa ia au, kae e aunoa mo se maalosi o fakamanatu a Ou tavaeega.  A toku talitonu lasi i Tou mau-koloa, e ui iei, e fakaola ne ia a toku fakamoemoega ia Koe, a ko toku talitonu ia a Koe ka saga mai kia au i se auala gali kae faka-maukoloa kae fakamaalosi au ke sisi Koe ki luga, kae ka akai atu kia Koe ki mea kola e pule ne Koe.

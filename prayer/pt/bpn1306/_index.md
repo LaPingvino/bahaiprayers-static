@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1306 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó Deus! És o Deus que existiu antes de todas as coisas, que existirá após todas as coisas e que perdurará além de todas as coisas. Tu és o Deus que conhece todas as coisas e sobre todas as coisas é supremo. És o Deus que com misericórdia trata todas as coisas, que julga entre todas as coisas, e cuja visão a tudo abrange. Tu és Deus, o meu Senhor; Tu estás ciente da minha posição, Tu testemunhas o meu ser interior, bem como o exterior.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6275 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 *Bwe mutuuka awakungaanirwa musame essaala eno nga emitima gyamwe gittuja, n'okwagala Kwa Katonda, era n'olulimi olutayatula kirata kyonna wabula okumujjukira, olwo, Nyini buyinza bwonna anabayambo nekisa okutuuka ku buwonguzi.

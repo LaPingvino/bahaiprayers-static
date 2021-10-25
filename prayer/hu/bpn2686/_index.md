@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2686 in Magyar'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Dicsőíttessék a Te Neved, ó, Urunk, Istenünk! Te vagy, valóban, a láthatatlan dolgok Ismerője. Rendelj számunkra olyan javakat, melyeket a Te mindent átfogó tudásod tud kimérni. Te vagy a korlátlan hatalmú Úr, a Mindenható, a Legimádottabb.

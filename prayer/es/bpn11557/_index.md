@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11557 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios compasivo! Te doy gracias por haberme despertado y hecho consciente. Tú me has dado ojos que ven y me has favorecido con oídos que oyen, me has conducido a Tu reino y me has guiado hacia Tu sendero. Me has indicado el camino correcto y me has hecho entrar en el arca de la liberación. 

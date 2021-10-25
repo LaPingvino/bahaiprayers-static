@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10254 in Māori'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 I runga i te Ingoa o Te Atua, te Namata, te Kaha Rawa. 

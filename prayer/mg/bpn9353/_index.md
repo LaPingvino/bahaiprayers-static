@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9353 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Esory ny fahasahiranako noho ny Halemem-panahinao sy ny Fangorahanao, ry Andriamanitra, Andriamanitro ô, ary foany ny famoizam-poko noho ny Fiandriananao sy ny Herinao. Hitanao aho, ry Andriamanitro ô! Ny endrika mibanjina Anao, amin’ny fotoana izay ihodidinan’ny alahelo ahy. Mitalaho Aminao aho, ô Ianao Ilay Tompon’ny Voahary rehetra sy mpanome alokaloka ny zavatra rehetra na ny hita na ny tsy hita, noho ny Anaranao izay nambabo ny fo sy ny fanahin’ny olon-drehetra, ary noho ny halalin’ny ranomasimben’ny Famindramponao sy ny famirapiratry ny Kintana Marainan’ny Halemem-panahinao, mba hanokana ahy ho isan’ireo izay tsy voasakan’inona na inona hanandratra ny endriny eny Aminao, ry Tompon’ny Anarana rehetra ô  sy Mpamorona ny Lanitra rehetra.

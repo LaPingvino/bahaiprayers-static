@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2515 in Русский'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ru', 'bpn-unsorted']
 +++
 О Боже, мой Боже! В раскаянии я обратился к Тебе, и Ты поистине Прощающий, Сострадательный.

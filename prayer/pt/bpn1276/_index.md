@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1276 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Afasta a minha tristeza, pela Tua bondade e pelo Teu favor, ó Deus, meu Deus, e desvanece a minha angústia através da Tua soberania e do Teu poder. Vês-me, ó meu Deus, com a face voltada para Ti num tempo em que os desgostos me cercam de todos os lados. Imploro-Te, ó Tu que és o Senhor de toda a existência e amparas todas as coisas visíveis e invisíveis - pelo Teu Nome, pelo qual subjugaste os corações e as almas dos homens, e pelas ondas encapeladas do Oceano da Tua misericórdia, e pelos esplendores do Alvorecer da Tua generosidade – que me incluas no número dos que por coisa alguma foram impedidos de a Ti se dirigir, ó Tu, Senhor de todos os nomes e Criador dos céus!

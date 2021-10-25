@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5270 in Bosanski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 O moj Bože, moj Gospode i Gospodaru! Odvojio sam se od svoje rodbine i kroz Tebe nastojim postati nezavisan od svega na svijetu

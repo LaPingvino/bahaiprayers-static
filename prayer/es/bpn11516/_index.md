@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11516 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡La alabanza sea para Ti, oh mi Dios! Soy uno de Tus siervos, que ha creído en Ti y en Tus señales. Tú ves cómo me he dirigido hacia la puerta de Tu misericordia y he vuelto el rostro hacia Tu tierna bondad. Te imploro, por Tus muy excelentes títulos y por Tus muy exaltados atributos, que abras ante mi rostro las puertas de Tus dádivas. Ayúdame, pues, a hacer lo que es bueno, oh Tú que eres el Poseedor de todos los nombres y atributos.

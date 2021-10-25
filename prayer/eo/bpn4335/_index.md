@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4335 in Esperanto'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 *Kiu ekas al vojaĝo ien por diskonigi la kredon, tiu citu tiun ĉi preĝon tage kaj nokte dum siaj vojaĝoj tra fremdaj landoj: 

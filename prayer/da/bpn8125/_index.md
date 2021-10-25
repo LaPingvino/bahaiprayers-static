@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8125 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 *”Bahá'í ægteskab er forening og hjertelig hengivenhed mellem de to parter. De skal dog udvise den største omhu og blive fortrolige med hinandens karakter. Denne evige forbindelse skal sikres med en fast pagt, og hensigten må være at fremelske harmoni, fællesskab og enhed og at få evigt liv.” - ‘Abdu’l-Bahá 

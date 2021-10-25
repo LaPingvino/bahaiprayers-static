@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7673 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Ou menm Ki glorifye, O Senyè Ki Gen Yon Kè Sansib! Mwen sipliye Ou avèk boulvès oseyan diskou sakre Ou te fè, e avèk tout siyn souverènte siprèm Ou an, avèk prèv Divinite Ou yo ki pa kapab diskite, e avèk mistè kache yo ki rete dèyè vwal anndan konesans Ou, pou ban mwen gras reyisi gen chans sèvi Ou e sèvi sila a yo Ou te chwazi yo, e pou pèmèt mwen ofri avèk devouman ak disiplin Huqúq Ou a, sa Ou te bay kòmandman sou li nan Liv Ou a.

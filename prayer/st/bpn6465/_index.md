@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6465 in Sesotho'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-st', 'bpn-unsorted']
 +++
 Ho tlotlisoe Lebitso La Hau, Oho Molimo Oa ka! Ke Uena Eo lintho tsohle li  U rapelang Le Ea sa rapeleng letho, Eo E leng monghali oa lintho tsohle le Eo e seng mohlanka le hoa e le ‘ngoe ea tsona. Ea tsebang lintho tsohle le E oho seng letho le Mo tsebang. U ratile ho itsebisa batho; ‘me la lebaka leo, U hlahisitse tlholehong tsohle tse teng ka lentsoe la molomo oa Hau; ha ho Molimo o mong kantle ho Uena, Moqapi, E Moholo, le Ea Matla ka ho fetesisa. 

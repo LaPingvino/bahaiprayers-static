@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2727 in Magyar'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 *Valahányszor a tanácskozóterembe léptek, mondjátok el ez imát Isten szeretetével eltelt szívvel és az Ő említésén kívül mindentől megtisztult nyelvvel, hogy a Mindenek Felett Hatalmas kegyesen végső diadalhoz segítsen benneteket:

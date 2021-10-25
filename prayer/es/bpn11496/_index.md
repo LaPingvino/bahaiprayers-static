@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11496 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Proveedor! Tú has exhalado sobre los amigos de Occidente la perfumada fragancia del Espíritu Santo y, con la luz de la guía divina, has iluminado el cielo del Oeste. Has hecho que se acerquen a Ti quienes otrora se hallaban alejados; has convertido a los extraños en amigos amorosos; has despertado a aquellos que dormían; has vuelto conscientes a los desatentos.

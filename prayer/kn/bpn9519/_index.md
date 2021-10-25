@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9519 in ಕನ್ನಡ'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kn', 'bpn-unsorted']
 +++
 ##ಅಗ್ನಿಶಾಸನ

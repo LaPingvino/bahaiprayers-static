@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6413 in Cymraeg'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 Rwyt Ti yn fy ngweld, O Arglwydd, wedi ymbellhau oddi wrth bopeth ond Tydi,yn gafael yn llinyn Dy haelioni

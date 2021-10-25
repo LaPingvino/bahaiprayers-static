@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9133 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Mon Dieu, mon adoré, mon roi, mon désir, quelle langue peut exprimer ma gratitude à ton égard ? J’étais insouciant, tu m’as éveillé. Je m’étais détourné de toi, tu m’as aidé par ta bienveillance à revenir vers toi. J’étais mort, tu m’as ranimé par l’eau de la vie. Je dépérissais, tu m’as revivifié par le flot céleste de la parole qui s’écoule de la plume du Très-Miséricordieux.

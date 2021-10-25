@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn447 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du unser Versorger! Du hast über die Freunde im Westen des Heiligen Geistes Düfte gehaucht und den Himmel im Westen mit dem Lichte göttlicher Führung erleuchtet. Du hast zu Dir hingezogen, die einstmals fern von Dir waren. Fremde hast Du in liebreiche Freunde verwandelt, die Schlafenden erweckt und die Nachlässigen achtsam gemacht.

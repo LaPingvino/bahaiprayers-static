@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn549 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist der Gnädige, der Allgroßmütige!

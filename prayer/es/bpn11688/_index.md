@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11688 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Exaltado eres, oh Señor mi Dios! Te ruego por aquellos a quienes has ordenado observar el ayuno por Tu amor y Tu complacencia, quienes han demostrado su lealtad a Tu ley y han seguido Tus versículos y preceptos, y quienes han roto su ayuno mientras disfrutaban de Tu cercanía y contemplaban Tu semblante. ¡Por Tu gloria! Ya que se vuelven a la corte de Tu complacencia, todos sus días son días de ayuno. Si la boca de Tu voluntad se dirigiere a ellos diciendo «Observad el ayuno por amor a Mi belleza, oh pueblo, y no fijéis límite alguno a su duración», juro, por la majestad de Tu gloria, que cada uno de ellos lo observaría fielmente, se abstendría de todo lo que quebrante Tu ley y continuaría haciéndolo hasta entregar su alma a Ti; pues han probado la dulzura de Tu llamamiento y están embriagados con Tu recuerdo y alabanza y con las palabras procedentes de los labios de Tu mandato.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4677 in հայերեն'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hy', 'bpn-unsorted']
 +++
 Նա Աստված է:

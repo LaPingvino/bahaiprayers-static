@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7267 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##KRÓTKĄ MODLITWĘ OBOWIĄZKOWĄ NALEŻY ODMAWIAĆ RAZ NA DOBĘ, W POŁUDNIE.

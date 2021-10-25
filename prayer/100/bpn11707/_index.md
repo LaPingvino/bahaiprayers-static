@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11707 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Igiyar dake ɗaure zūkāce yanda ya kamāta, ita cē, biyayya. Idan sun haɗu, yā cancanta masōyā, su gwadāwa jūna amānā matuƙa.

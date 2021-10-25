@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10355 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 för bahá’íerna som reser för att undervisa om tron. 

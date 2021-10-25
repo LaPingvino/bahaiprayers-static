@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11745 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yabo da ɗaukaka su tabbata a garēka yā Allāna. Ina rōƙon ka, don darajar shaidar māsu ƙaunarka, da hawāyen waɗanda suke tsananin buƙātar ganin ka, kar ka hana mani rahamarka a wannan babbar rānā tāka, kuma kar ka hana ni jin kūkan tantabarar nan mai wāka ɗayantakarka a gaban hasken huskarka.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5348 in Montenegrin'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cnr', 'bpn-unsorted']
 +++
 Slava Tebi, O moj Bože! Da nije patnji na putu Tvome kako bi se oni što Te istinski ljube mogli prepoznati; i da nema kušnji što se trpe zarad ljubavi Tvoje, kako bi se uzvišenost onih koji za Tobom žude mogla pokazati? Tvoja moć mi je svjedok! Družbenice svih koji Te ljube su suze što se prolivaju, a utjehe onih koji Te traže su jauci njihovi, dok je hrana onih koji k Tebi hitaju od komadića njihovih slomljenih srca.

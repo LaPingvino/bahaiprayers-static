@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12741 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Semua mulia ngagai Hari tu, Hari ke endur rengut pengasih udah ditiup ngagai semua utai tempa, Hari ti pemadu diberekat ke alai rambau enggau beratus taun ke dulu enda ulih nanding ia, Hari ke endur rampa-mua Hari Jeman udah ngadap penuduk Iya ti kudus. Arinya sada nyawa semua utai tempa, enggau ngelui ari sida bala Malikat di Atas, bisi didinga inggar minta: “Berumban nuan, O Karmil, lalu peda, penampak rampa-mua Petara, Raja ke Perintah semua Nama enggau Penukuh semua serega, udah diengkahka ba nuan.”

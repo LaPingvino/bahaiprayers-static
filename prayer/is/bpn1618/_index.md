@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1618 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Lof sér Þér, ó Drottinn Guð minn! Gef náðar­samlega að þessi hvítvoðungur megi drekka af brjósti mildrar miskunnar Þinnar og ástríkrar for­sjár og nærast af ávöxtunum sem vaxa á Þínum himnesku trjám. Fel hann ekki forsjá neins nema Þín, því Þú skapaðir hann sjálfur og gafst honum líf með mætti allsráðandi valds Þíns og vilja. Enginn er Guð nema Þú, hinn almáttugi og alvitri.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7864 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Glorificato sei Tu, o Signore mio Dio! T’imploro, per i Tuoi Eletti e i Latori del Tuo Pegno e per Colui Che designasti quale Suggello dei Tuoi Profeti e dei Tuoi Messaggeri, di fare che il Tuo ricordo sia il mio compagno, il Tuo amore il mio scopo, il Tuo volto la mia mèta, il Tuo nome la mia lampada, la Tua volontà il mio desiderio e il Tuo compiacimento la mia delizia.

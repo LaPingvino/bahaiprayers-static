@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6082 in Sranan Tongo'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##DI SATI BEGI DI JU MUSU BEGI HINIWAN DAKA 

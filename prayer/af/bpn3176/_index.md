@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3176 in Afrikaans'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Geloof sy U, o Here my God! U sien en weet dat ek 'n beroep op U dienaars gedoen het om nêrens behalwe in die rigting van U skenkings te keer nie, en hulle gevra het om niks behalwe die dinge wat U in U duidelike Boek voorgeskryf het na te kom nie, die Boek wat neergestuur is volgens U ondeurgrondelike verordening en onherroeplike doeleinde.

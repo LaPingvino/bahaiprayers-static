@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11702 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 *Idan an zāɓi yin wannan salla, a bāyan an yi arwalla, sai a jā wannan āyā da sāfe, da rāna, kuma da dare kōwace rāna.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7811 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O mio Dio! O Tu perdonatore dei peccati, dispensatore di doni, banditore delle afflizioni! 	In verità, T’imploro di perdonare i peccati di coloro che hanno abbandonato la spoglia corporea e sono ascesi al mondo spirituale. 

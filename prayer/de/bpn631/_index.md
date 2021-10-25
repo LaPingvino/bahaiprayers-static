@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn631 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht sei Dein Name, o mein Gott, durch den die Bäume im Garten Deiner Offenbarung sich mit Grün bekleiden und der Heiligkeit Früchte tragen in dieser Frühlingszeit, da die süßen Düfte Deiner Gnadengaben über alle Dinge wehen und sie hervorbringen lassen, was im Reich Deines unwiderruflichen Befehls und im Himmel Deines unabänderlichen Ratschlusses für sie vorherbestimmt ist. Bei diesem Namen flehe ich Dich an, lasse mich nicht fern bleiben von Deiner Herrlichkeit Hof, noch ausgeschlossen vom erhabenen Heiligtum Deiner Einheit und Einzigkeit.

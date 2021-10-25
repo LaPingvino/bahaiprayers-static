@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7705 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Li menm Ki Bondye!

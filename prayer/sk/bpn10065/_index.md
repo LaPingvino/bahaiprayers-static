@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10065 in Slovensky'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Velebený si, ó Bože! Ty si Boh ktorý jestvoval pred všetkými vecami, ktorý bude jestvovať po všetkých veciach a ktorý bude žiť naveky. Ty si Boh, ktorý pozná všetky veci a je povznesený nad všetky veci. Ty si Boh, ktorý milosrdne nakladá so všetkými vecami, ktorý súdi všetky veci a ktorého pohľad spadá na všetky veci. Ty si Boh, môj Pán, Ty poznáš moje postavenie a si svedkom môjho vnútorného i vonkajšieho bytia.

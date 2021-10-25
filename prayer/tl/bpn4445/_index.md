@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4445 in Filipino'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Panginoon! Sa Iyo ako pumupunta upang magpakupkup at ang aking puso ay itinututok ko sa lahat ng Iyong mga tanda.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5054 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, Ngài thấy Ngôi Sao Mai thánh ngôn Ngài chiếu sáng nơi chân trời thành phố lao tù của Ngài vì rằng bên trong tường thành ấy, Đấng Biểu hiện chính Ngài và là Vầng Thái dương ánh sáng thống nhất của Ngài đã cất tiếng lên và hát ca lời chúc tụng Ngài. Từ đó hương thơm tình yêu Ngài lan tỏa khắp các thành phố của Ngài và bao quanh tất cả cư dân của Vương quốc Ngài.

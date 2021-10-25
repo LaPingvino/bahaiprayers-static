@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3589 in Norsk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 *(Denne bønnen, åpenbart av Abdu'l-Bahá, blir lest ved hans grav. Den blir også brukt i personlig bønn.)

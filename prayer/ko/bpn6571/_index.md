@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6571 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 저는 오늘 아침 잠이 깨었사오며…

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn584 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Ich weiß nicht, o mein Gott, was für ein Feuer Du in Deinem Lande entzündet hast. Erde kann niemals seinen Glanz verdunkeln noch Wasser seine Flamme löschen. Alle Völker der Welt sind machtlos, seiner Gewalt zu widerstehen. Groß ist die Seligkeit dessen, der ihm nahekommt und sein Tosen hört.

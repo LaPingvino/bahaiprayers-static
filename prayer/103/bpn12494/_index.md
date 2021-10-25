@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12494 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O Thou Whose nearness is my wish, Whose presence is my hope,…

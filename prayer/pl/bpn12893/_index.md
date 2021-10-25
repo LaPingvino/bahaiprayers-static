@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12893 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Najświętszy, Najchwalebniejszy!

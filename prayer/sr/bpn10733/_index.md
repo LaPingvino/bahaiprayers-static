@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10733 in Srpski српски'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 O Ti Plemeniti, Svemogući , pred tronom milosrđa  preklinjemo Te za milost za naše grehe; milost za veliko uništenje života, za krv prolivenu na Balkanu, decu pretvorenu u siročad, majke koje izgubiše sinove, sinove koji ostaše bez očeva, gradove koji su uništeni, srca preplavljena krvlju, mnoge prolivene suze i mnoge uznemirene duhove! O Gospode budi milosti, ugasi taj duh rata, tu proždiruću vatru, taj užas, ukloni tu sumornu tminu sa lica zemlje. Poveži ova srca u zajedništvo. Neka sunce istine

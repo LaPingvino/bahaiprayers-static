@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4929 in Vanuatu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O Yu we mak blong Yu i moa hae bitim eni narafala samting!  O Yu we Yu nao Yu Masta blong Kingdom!   Olgeta man ia oli armi blong heven blong Yu.  Mekem se oli kasem viktri tru long help blong olgeta long Tabu Kampani we i Stap Antap!  Hemia i blong evri wanwan long olgeta i save kam olsem wan grup blong soldia, mo hem i winim olgeta kaontri ia wetem lav blong God mo laet blong ol tabu tijing blong Hem!

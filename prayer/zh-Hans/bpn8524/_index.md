@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8524 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 宽恕的主啊！

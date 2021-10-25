@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn653 in Deutsch'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Ich erbitte Deine Vergebung, o mein Gott, und erflehe Deine Verzeihung, so wie Du wünschest, dass sich Deine Diener Dir zuwenden. Ich bitte Dich, wasche unsere Sünden hinweg, wie es Deiner Herrschaft entspricht, und vergib mir, meinen Eltern und denen, die nach Deinem Urteil das Heim Deiner Liebe betreten haben, wie es Deiner allüberragenden Herrschaft würdig ist und der Herrlichkeit Deiner himmlischen Macht zukommt.

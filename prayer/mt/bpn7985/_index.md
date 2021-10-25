@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7985 in Malti'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 O Int Alla li m’hawnx bħaleK! O Inti Sid is-Sultan! Dawn l-erwieħ huma armata tiegħeK smewija. Agħtihom l-għajnuna u, biċ-ċorom tal-Folla Suprema, oħroġhom rebbieħa, hekk li kull wieħed minnhom ikun jista’ jsir riġment u jirbaħ dawn il-pajjiżi bl-imħabba t’Alla u d-dawl tat-tagħlim divin. 

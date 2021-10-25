@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11238 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Ngaia te Tia Katoki Aoraki, te Tia Kataubobonga, te Tia Ibuobuoki, te Tia Kabwaraibuure nako, Moan te Nanoanga.

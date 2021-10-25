@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1157 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é Deus! Ó Deus, meu Deus! Estes são servos atraídos em Teus dias pelo perfume da Tua santidade, acesos com a chama que resplandece em Tua santa árvore, atendendo à Tua voz, expressando-Te louvor, despertados pela Tua brisa, animados pelas Tuas doces fragrâncias, contemplando os Teus sinais, compreendendo os Teus versículos, escutando as Tuas palavras, acreditando na Tua Revelação e confiantes da Tua misericórdia. Os seus olhos, ó Senhor, fitam o Teu reino de fulgente glória, e as suas faces volvem-se para o Teu domínio nas alturas; os seus corações pulsam de amor pela Tua beleza radiante e gloriosa; as suas almas consomem-se com a chama do Teu amor, ó Senhor deste mundo e do vindouro, as suas vidas fervem com o ardor da sua ânsia por Ti, e as suas lágrimas vertem por Tua causa.

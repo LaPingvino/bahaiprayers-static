@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9679 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Ik weet niet, o mijn God, wat het vuur is dat Gij in Uw land deed ontvlammen. Aarde kan de glans ervan nooit verduisteren, noch kan water de vlammen ervan blussen. Geen van de volkeren der wereld is bij machte de kracht ervan te weerstaan. Groot is de gelukzaligheid van hem die het is genaderd en het loeien ervan heeft gehoord.

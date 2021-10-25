@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10308 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Han är Gud, upphöjd vare Han, den kärleksfulla godhetens och frikostighetens Herre!

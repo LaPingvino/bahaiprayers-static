@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9720 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Ik ben degeen, o mijn Heer, die zijn gelaat naar U heeft gekeerd en zijn hoop heeft gevestigd op de wonderen van Uw genade en de openbaringen van Uw milddadigheid. Ik bid U dat Gij mij niet teleurgesteld van de deur van Uw erbarmen laat weggaan, noch mij overlevert aan diegenen onder Uw schepselen die Uw Zaak hebben verworpen.

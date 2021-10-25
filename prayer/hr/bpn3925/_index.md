@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3925 in Hrvatski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 Ne uklanjaj, o, Gospode stol svečano prostrt u Tvoje Ime i ne gasi žarki plamen upaljen Tvojom neugasivom vatrom. Ne ustavljaj tu živu vodu Tvoju koja žubori pjesmom slave Tvoje i Tvog spomena, i ne lišavaj sluge Tvoje miomirisa koji se širi iz daška ljubavi Tvoje.

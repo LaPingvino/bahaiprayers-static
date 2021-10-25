@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1730 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn minn og meistari minn! Ég er þjónn Þinn og sonur þjóns Þíns. Ég hef risið úr rekkju í þessari dögun, þegar sól einingar Þinnar hefir skinið frá dagsbrún vilja Þíns og úthellt ljóma sínum yfir alla veröldina, í samræmi við skipanir í bókum ákvörðunar Þinnar.

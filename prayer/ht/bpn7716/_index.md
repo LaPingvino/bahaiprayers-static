@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7716 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Glwa pou Ou, O Bondye. Kòman mwen ta kapab pale sou Ou pandan Ou menm Ou sanntifye pi wo pase lwanj tout limanite. Louwe Non Ou, O Bondye, se Ou menm Ki Wa, Laverite Etènèl la; Ou konnen tout sa ki nan syèl la ak sou tè a, e tout kreyasyon an dwe retounen jwenn Ou. Ou te voye desann Revelasyon diven Ou daprè yon limit klè Ou te fikse. Se Ou menm ki louwe, O Senyè! Ou bay viktwa daprè kòmandman Ou pou nenpòt moun Ou vle, avèk sipò lame yo ki nan syèl la ak sou tè a e nan tout sa ki egziste nan mitan yo. Se Ou menm Souveren an, Laverite Etènèl la, Senyè Ki posede yon pisans ki toujou gen viktwa. 

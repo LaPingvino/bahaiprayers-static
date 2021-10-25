@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8200 in Lietuvių'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lt', 'bpn-unsorted']
 +++
 O mano Dieve! O Tu, nuodėmių atleidėjau, dovanų teikėjau, sielvarto išsklaidytojau! 

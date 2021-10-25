@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7676 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Ou menm Senyè Ki janti! Avèk gras Ou, fè chak nan ti zwazo sa yo jwenn yon pè zèl selès, epi ba yo pouvwa espirityèl la pou yo kapab vole nan espas sa a ki pa gen limit e plane nan otè Wayòm Abhá a.

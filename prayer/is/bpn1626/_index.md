@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1626 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn! Ger þessi börn að fögrum blóm­um. Lát þau vaxa og dafna í garði sáttmála Þíns og veit ferskleika og fegurð með úthellingu úr skýjum Þíns dýrðarríkis.

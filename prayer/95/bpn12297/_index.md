@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12297 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua, toku Atua!  Ko oti au ne fuli atu i toku salamo kia Koe, kae e tonu a Koe ko te Fakagamalo o agasala, ko te Alofa-Atafai.  

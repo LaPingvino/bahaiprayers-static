@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6668 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Praise be to Thee, O Lord my God, my Master! Thou hearest the sighing of those who, though they long to behold Thy face, are yet separated from Thee and far distant from Thy court. Thou testifiest to the lamentations which those who have recognized Thee pour forth because of their exile from Thee and their yearning to meet Thee. I beseech Thee by those hearts which contain naught except the treasures of Thy remembrance and praise, and which show forth only the testimonies of Thy greatness and the evidences of Thy might, to bestow on Thy servants who desire Thee power to approach the seat of the revelation of the splendor of Thy glory and to assist them whose hopes are set on Thee to enter into the tabernacle of Thy transcendent favor and mercy.

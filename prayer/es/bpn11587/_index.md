@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11587 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Tú, ante Cuya temible majestad se han estremecido todas las cosas, en Cuya mano están los asuntos de todos los hombres, hacia Cuya gracia y misericordia se vuelven los rostros de todas Tus criaturas! Te suplico, por Tu Nombre, que has ordenado que sea el espíritu de todos los nombres que están en el reino de los nombres, que nos protejas de las murmuraciones de quienes se han apartado de Ti y han rechazado la verdad de Tu muy augusto y exaltadísimo Ser, en esta Revelación, que ha hecho estremecerse el reino de Tus nombres.

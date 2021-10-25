@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn642 in Deutsch'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Herr! Zu Dir nehme ich Zuflucht und auf Deine Zeichen richte ich mein Herz.

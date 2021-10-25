@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9767 in മലയാളം'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ml', 'bpn-unsorted']
 +++
 അല്ലയോ എന്‍റെ പ്രഭോ! അല്ലയോ എന്‍റെ പ്രഭോ!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10035 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Som ten, ó môj Pane, ktorý k Tebe obrátil tvár Sa upriamil svoju nádej na zázraky Tvojej milosti a zjavenia Tvojej štedrosti. Modlím sa k Tebe, nedopusť, aby som sa sklamaný odvracal od dverí Tvojej milosti a nenechávaj ma prosím napospas tým, ktorí zavrhli Tvoju Vec.

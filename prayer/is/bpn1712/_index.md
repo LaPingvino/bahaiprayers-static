@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1712 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Þér sé öll tign og dýrð, ó Guð minn, allt veldi og ljós, mikilleiki og dýrðarljómi. Þú veitir yfirráð hverjum sem Þú vilt og meinar þau hverjum sem Þér þóknast. Enginn er Guð nema Þú, eigandi alls, hinn upphafnasti. Þú ert sá sem skapaðir alheiminn og allt sem í honum er úr alls engu. Ekkert er Þér verðugt nema Þú sjálfur og allir nema Þú eru sem úrhrök í heilagri návist Þinni og sem alls ekkert í samanburði við dýrð Þinnar eigin verundar.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9121 in Kalaallisut'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guutiga-aa! Illit ajortulianik isumakkeerisoq, tunissutinik tunisisoq, naalliuutinik peersitsisartoq! Ilumut qinnuigaakkit timimik qimatsisimasut anersaallu silarsuaanut pisimasut ajortuliaat isumakkeerfigeqqullugit. 

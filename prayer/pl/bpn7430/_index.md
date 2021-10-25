@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7430 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Jakże mogę wybrać sen, o Boże, mój Boże, gdy oczy tych, którzy za Tobą tęsknią, czuwają z powodu rozłąki z Tobą, i jakże mogę udać się na spoczynek, kiedy dusze Ciebie miłujących wielce strapione są z powodu oddalenia od Ciebie?

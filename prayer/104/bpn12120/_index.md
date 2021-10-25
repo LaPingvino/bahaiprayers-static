@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12120 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhan! Kepada Engkau aku mencari perlindungan dan menuju ke semua tanda-Mu aku arahkan hatiku.

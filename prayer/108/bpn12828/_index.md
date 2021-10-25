@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12828 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-108', 'bpn-unsorted']
 +++
 *(ຊ່ວງເວລາຖືສິນອົດຢູ່ລະຫວ່າງ ວັນທີ 2-20 ມີນາ)

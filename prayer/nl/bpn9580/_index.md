@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9580 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, mijn God! Dit zijn Uw zwakke dienaren; zij zijn Uw getrouwe lijfeigenen en Uw dienaressen, die zich voor Uw verheven Woorden hebben gebogen, zich voor Uw Drempel van licht hebben verootmoedigd en hebben getuigd van Uw één-zijn waardoor de Zon in haar middagpracht is gaan schijnen. Zij hebben gehoor gegeven aan de oproep die Gij deed uitgaan vanuit Uw verborgen Rijk, en hebben Uw roep beantwoord met een hart dat bonst van liefde en vervoering.

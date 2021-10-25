@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn599 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht seiest Du, o Herr mein Gott! Jeder Einsichtige bekennt Deine unumschränkte Gewalt und Deine Herrschaft, und jedes scharfsichtige Auge erkennt die Größe Deiner Majestät und die bezwingende Kraft Deiner Macht. Die Winde der Prüfungen können niemanden, der sich Deiner Nähe erfreut, daran hindern, sein Angesicht dem Horizont Deiner Herrlichkeit zuzuwenden, und die Stürme der Heimsuchung sind außerstande, die Deinem Willen völlig Ergebenen abzuhalten, sich Deinem Hofe zu nähern.

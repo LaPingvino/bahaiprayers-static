@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8781 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 主啊！不要移去以祢聖名擺設的靈宴，不要熄滅祢永恆之火點燃的熊熊火光，不要中斷祢那低吟著榮耀和念記之旋律的活水，不要讓僕役們失去沁著祢愛意的甜蜜芬芳。

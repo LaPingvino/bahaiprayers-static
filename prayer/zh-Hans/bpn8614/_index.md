@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8614 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 祂是聆听祷告、回应祷告的上帝！

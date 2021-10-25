@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11972 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Ýa Ylahym, ýa Mahbup, ýa Hudaýym, ýa Maksut!

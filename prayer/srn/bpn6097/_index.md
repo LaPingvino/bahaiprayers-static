@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6097 in Sranan Tongo'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##TE FUKA MÖÖ JU 

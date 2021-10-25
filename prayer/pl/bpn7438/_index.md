@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7438 in Polski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Wszelki majestat i chwała, o Boże mój, wszelkie panowanie i światłość, i wielkość, i wspaniałość niechaj będą Tobie. Ty obdarzasz władzą kogokolwiek zechcesz i odmawiasz jej komukolwiek zapragniesz. Nie ma innego Boga poza Tobą, Wszystko Posiadającym, Najwznioślejszym. Tyś jest Tym, który z nicości tworzy wszechświat i wszystko, co się w nim kryje. Nic nie jest godne Ciebie poza Tobą samym, wszyscy oprócz Ciebie są wygnańcami w Twojej świętej obecności i niczym w porównaniu z chwałą Twojej własnej Istoty.

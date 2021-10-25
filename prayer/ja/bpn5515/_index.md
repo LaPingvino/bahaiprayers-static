@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5515 in 日本語'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おおわが神よ。あなたは、許しを求める僕しもべらに、あなたに向かうよう望み給いました。

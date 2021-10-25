@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11882 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Raja! Odak sua manusia ndu dunia tungang so’ont pimolot ndu daang Surga Agama Ingan, sak kadu doie pimotan dek ogi idip ge aluae supiah nuwak dek osat sok pinuju paguh moon Ingan. 

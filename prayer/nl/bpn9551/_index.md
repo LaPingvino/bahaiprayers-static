@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9551 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij vriendelijk Heer! Dit zijn Uw dienaren die in deze samenkomst bijeen zijn, zich naar Uw koninkrijk wenden en Uw gaven en zegen behoeven. O Gij God! Maak de tekenen van Uw één-zijn die in alle werkelijkheden des levens gelegd zijn duidelijk zichtbaar. Openbaar en onthul de latente deugden die Gij in deze menselijke werkelijkheden hebt verborgen.

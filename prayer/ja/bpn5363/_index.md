@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5363 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 神は恵み深き御方、すべてに恩寵おんちょう深き御方にまします。

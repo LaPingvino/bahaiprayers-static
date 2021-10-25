@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9675 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Vergun mij, o mijn God, U nader te komen en binnen de grenzen van Uw hof te verblijven, want het veraf zijn van U heeft mij bijkans doen wegkwijnen. Laat mij rusten onder de schaduw van de vleugels van Uw genade, daar de vlam van mijn afzondering van U mijn hart in mij heeft verteerd. Breng mij nader tot de rivier van waarachtig leven, want mijn ziel brandt van dorst in zijn onophoudelijke zoektocht naar U. Mijn zuchten, o mijn God, verkondigen mijn bittere smart, en de tranen die ik schrei getuigen van mijn liefde voor U.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1610 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Lof sé Þér, ó Drottinn Guð minn. Ég sárbæni Þig við tákn Þín sem hafa umlukið allt sköpunar­verkið, við ljós ásjónu Þinnar sem hefur uppljómað alla á himnum og jörðu, við miskunn Þína sem er hafin yfir allt sem skapað er, og við náð Þína sem hefur umvafið alheiminn, að svipta burt hulunum sem skilja mig frá Þér svo að ég megi hraða för minni að uppsprettu Þíns máttuga innblásturs og til dagsbrúnar opinberunar Þinnar og ríkulegra gjafa og sökkva í úthaf návistar Þinnar og velþóknunar.

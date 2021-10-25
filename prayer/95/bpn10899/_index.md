@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10899 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E uke a loto ne mokotia, O toku Atua, ko oti ne fakaka ki te afi o Tau Fakatokaaga, kae e tokouke a tino ne moe kae ne fago ne te suamalie o Tou leo.  E pefea foki a te tokouke a tino foou ne saala atu o lafi i te ata o te laku o Tou tafatasi, kae e pefea foki a tokouke o latou e fia inu ne saala atu ki Tau puna-vai ola i Ou aso!

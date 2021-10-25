@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1616 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *Komið saman í flekklausri gleði og farið með þessa bæn í byrjun fundarins:

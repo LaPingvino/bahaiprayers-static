@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3718 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Ülistus olgu Sulle, oo Issand mu Jumal! Ära alanda teda, kelle Sa oled ülendanud oma igikestva ülemvõimu läbi ega tõuka endast eemale teda, kellel Sa oled lasknud siseneda oma igaviku palvekotta. Kas Sa hülgad tema, oo mu Jumal, keda Sa oled varjanud oma Issandlikkusega, või pöördud ära temast, oo mu Soov, kellele Sa oled olnud pelgupaigaks? Kas võid madaldada teda, kelle Sa oled üles tõstnud või unustada tema, kellele Sa oled andnud võime Sind meenutada?

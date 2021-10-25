@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB00065KIN in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB00065KIN']
 +++
 O God, my God!  Praise be unto Thee for kindling the fire of divine love in the Holy Tree on the summit of the loftiest mount: that Tree which is “neither of the East nor of the West,”¹ that fire which blazed out till the flame of it soared upward to the Concourse on high, and from it those realities caught the light of guidance, and cried out: “Verily have we perceived a fire on the slope of Mount Sinai.”² 

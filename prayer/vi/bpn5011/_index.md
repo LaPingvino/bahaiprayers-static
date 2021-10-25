@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5011 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Vinh quang thuộc về Ngài, Đấng Thượng Đế của tất cả các thế giới, Đấng Kính yêu của những ai nhận biết Ngài! Ngài thấy con bị đe dọa bởi thanh kiếm treo đầu sợi chỉ, và Ngài biết rằng trong bất cứ hoàn cảnh nào con cũng không thiếu bổn phận đối với Chánh Đạo Ngài, bổn phận quảng bá sự ca tụng Ngài, bổn phận rao truyền sự hoàn hảo của Ngài, và bổn phận tuyên ngôn tất cả những điều Ngài truyền dạy trong các Thánh kinh của Ngài. Dù cho thanh kiếm có sẵn sàng rơi xuống đầu con, con cũng chỉ cầu xin những điều Ngài yêu thích bằng những âm sắc có thể khiến mọi tâm hồn được cuốn hút về phía chân trời tôn nghiêm và vĩ đại của Ngài.

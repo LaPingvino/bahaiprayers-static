@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1176 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Deus e meu Mestre! Sou um servo Teu e filho de um dos Teus servos. Levantei-me do meu leito ao amanhecer, quando o Sol da Tua unicidade brilhou na Aurora do Teu desígnio, irradiando-se por sobre o mundo inteiro, segundo o que fora prescrito nos Livros do Teu Decreto.

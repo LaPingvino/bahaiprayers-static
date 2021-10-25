@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7378 in Polski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Błagam o Twoje przebaczenie, o mój Boże, i upraszam o odpuszczenie win, w taki sposób, w jaki pragniesz, aby słudzy Twoi zwracali się do Ciebie. Błagam Cię, abyś zmazał nasze grzechy, tak jak przystoi to Twojemu Władztwu, i abyś przebaczył mi i moim rodzicom oraz tym, którzy według Ciebie osiągnęli siedzibę Twojej miłości, w sposób, jaki godny jest Twojego nieprześcignionego zwierzchnictwa i jaki odpowiada chwale Twojej niebiańskiej mocy.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH03629GRI in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH03629GRI']
 +++
 Dispel my grief by Thy bounty and Thy generosity, O God, my God, and banish mine anguish through Thy sovereignty and Thy might.  Thou seest me, O my God, with my face set towards Thee at a time when sorrows have compassed me on every side.  I implore Thee, O Thou Who art the Lord of all being, and overshadowest all things visible and invisible, by Thy Name whereby Thou hast subdued the hearts and the souls of men, and by the billows of the Ocean of Thy mercy and the splendors of the Daystar of Thy bounty, to number me with them whom nothing whatsoever hath deterred from setting their faces toward Thee, O Thou Lord of all names and Maker of the heavens!

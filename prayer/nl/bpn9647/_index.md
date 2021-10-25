@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9647 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O mijn God en mijn Meester! Ik ben Uw dienaar en de zoon van Uw dienaar. Ik ben van mijn sponde verrezen in deze ochtendstond waarop de Dagster van Uw één-zijn helder schijnt vanuit de Dageraad van Uw wil en haar luister over de gehele wereld uitstort, zoals in de boeken van Uw gebod is bepaald.

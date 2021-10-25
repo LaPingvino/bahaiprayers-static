@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11690 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *El Ḥuqúqu’lláh es, en verdad, una gran ley. Les incumbe a todos presentar esta ofrenda, porque es la fuente de la gracia, de la abundancia y de todo bien. Es una merced que ha de permanecer junto con toda alma en cada uno de los mundos de Dios, Quien todo lo posee, el Más Munífico.

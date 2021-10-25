@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10826 in Chichewa'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ny', 'bpn-unsorted']
 +++
 24.	Mulungu pangeni kukhala bango la Mphako, mmene thima la kudzikonda lakolokotedwamo, tsono kuti ndi khale mphako yoyera mmene chikondi Chanu chingadutsire popita kwa ena.  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12223 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O MY Lord! I have drawn nigh unto Thee, in the depths of this darksome night, confiding in Thee with the tongue of my heart, trembling with joy at the sweet scents that blow from Thy realm, the All-Glorious, calling unto Thee, saying:

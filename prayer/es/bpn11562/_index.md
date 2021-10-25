@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11562 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Todos los amigos de Dios [...] deberían contribuir en la medida de sus posibilidades, por muy modesta que sea su aportación. Dios no sobrecarga a un alma por encima de su capacidad. Esas contribuciones deben provenir de todos los centros y de todos los creyentes [...].

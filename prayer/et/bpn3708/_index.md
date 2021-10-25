@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3708 in Eesti'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo mu Issand! Sina tead, et inimesed on piiratud valu ja õnnetustega ning ümbritsetud raskuste ja muredega. Iga katsumus ründab inimest ja iga kohutav ebaõnn tabab teda nagu mao rünnak. Tal ei ole muud varjualust ega pelgupaika kui Sinu turva, hoiu, valve ja eestkoste tiiva all.

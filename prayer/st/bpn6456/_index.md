@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6456 in Sesotho'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-st', 'bpn-unsorted']
 +++
 Oho Molimo Oa ka le Monghali Oa ka!Ke mohlanka oa Hau le mor’a mohlanka oa Hau. Ke tsohile liphateng tsa ka hosong hona ha Mphatlalatsane ea bonngoe ba Hau e chaba e hlaha Ntsoana-Tsatsi ea thato ta Hau ‘me e khantšetsa lefatše lohle holatela kamoo ho laotsoeng ka teng Libukeng tsa Taelo Ea Hau. Poko e isoe ho Uena, Oho Molimo Oa ka, ha re lemohile makhabane a leseli la tsebo ea Hau.

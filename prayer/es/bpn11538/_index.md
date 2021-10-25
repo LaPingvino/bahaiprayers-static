@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11538 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Tú sabes, oh Dios, y eres mi testigo de que no albergo otro deseo en mi corazón salvo obtener Tu complacencia, ser confirmado en mi servidumbre hacia Ti, consagrarme a Tu servicio, laborar en Tu gran viñedo y sacrificarlo todo en Tu camino.

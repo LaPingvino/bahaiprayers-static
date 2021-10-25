@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3375 in български'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-bg', 'bpn-unsorted']
 +++
 В Името на Бога, Господа на съкрушителното великолепие, Всепокоряващия.

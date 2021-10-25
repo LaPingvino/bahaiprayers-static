@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8642 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 任何为传导而旅行各地者，在跨越高山、沙漠、陆地、海洋时皆应详读这一祷文。

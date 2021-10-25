@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5811 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh amable Senyor! Aquesta estimadíssima serva fou atreta cap a Tu, i per reflexió i discerniment anhelava arribar a la Teva presència i entrar als Teus dominis. Amb llàgrimes als ulls fixava l’esguard en el regne dels Misteris. Moltes nits passà  en profunda comunió amb Tu, i molts dies els visqué en íntim record de Tu. Cada matí Et tenia present i cada crepuscle concentrava en Tu els seus pensaments. Com melodiós rossinyol entonava els Teus sagrats versicles, i com un mirall tractava de reflectir la Teva llum. Oh Perdonador dels pecats! Obre el camí a aquesta ànima desperta per a que entri al Teu Regne i permet que aquesta au, ensinistrada per la Teva mà, es remunti fins l’etern roserar. Ella es consumeix d’anhel per acostar-se a Tu; permet-li atènyer la Teva presència. Es troba atordida i angoixada en la seva separació de Tu; fes que sigui admesa a la Teva Mansió Celestial.

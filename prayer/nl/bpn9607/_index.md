@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9607 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij vriendelijk Heer! Schenk ieder van deze jonge vogels genadiglijk hemelse vleugels en geef hun geestelijke kracht, zodat zij hun vlucht nemen in deze oneindige ruimte en opwieken naar de hoogten van het Abhá-Koninkrijk.

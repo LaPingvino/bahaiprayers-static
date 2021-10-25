@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4921 in Vanuatu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 God blong mi!  God blong mi!  Mi preisem Yu mo mi talem tangkyu long Yu from presen we Yu bin givim long wokwoman blong yu we hem i go daon long Yu.  Hem i wan wokwoman we Yu Yu Masta blong hem mo hem i stap askem strong ol help blong Yu.  I tru se Yu Yu bin gaedem hem i kam long Kingdom blong Yu we i stap long klia ples, mo Yu bin mekem se hem i harem tabu Singaot blong Yu long tisfala wol.  Mo Yu bin mekem se hem i lukluk ol saen we i pruvum se Kingdom blong Yu i winim evri samting.  

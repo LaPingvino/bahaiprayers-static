@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn561 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist Gott, erhaben ist Er, der Herr der Güte und Großmut!

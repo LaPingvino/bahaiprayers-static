@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7715 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Mwen mande gras Ou, O Bondye mwen, epi mwen sipliye padon Ou nan fason Ou vle sèvitè Ou yo abòde Ou. Mwen priye Ou fò pou lave peche nou yo epi elimine yo jan Otorite Ou mande l’ la, padone mwen, padone paran mwen yo ak tout moun ki daprè Ou menm te antre nan abitasyon lanmou Ou, padone nou nan yon fason ki diyn pou souverènte Ou - yon souverènte ki depase tout linivè a - e nan yon fason ki kòrèk daprè glwa pouvwa selès Ou a. 

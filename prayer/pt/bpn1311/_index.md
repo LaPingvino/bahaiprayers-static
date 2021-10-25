@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1311 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é Deus, o Soberano Governante, o Sempiterno, Aquele cujo auxílio é implorado por todos os homens. Alvo de louvor e glória és Tu, ó Senhor! Tanto o mundo existente, como as almas dos homens dão testemunho de que Tu és transcendente acima das revelações da obra das Tuas mãos, e os portadores dos Teus nomes e atributos proclamam que és imensuravelmente exaltado acima de qualquer louvor que os habitantes dos domínios da criação e da invenção Te possam render. Todas as aparências e realidades indicam a unicidade da Tua Essência, e todas as evidências e todos os Sinais refletem a verdade de que Tu és Deus e não há para Ti nenhum igual ou associado em todos os reinos do céu e da terra.

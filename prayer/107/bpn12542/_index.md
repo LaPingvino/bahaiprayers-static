@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12542 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-107', 'bpn-unsorted']
 +++
 Oh Ita-Boot Na’i laran-di’ak! Haraik ho laran-murak liras lalehan nian ba manu-ki’ik ida-idak sira ne’e no fó ba sira forsa espirituál atu nune’e sira bele semo liuhosi espasu rohan-laek ida ne’e no bele sa’e ba tutun aas Reinu ‘Abhá nian.

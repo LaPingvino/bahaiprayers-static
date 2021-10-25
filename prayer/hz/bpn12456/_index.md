@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12456 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 *(Ngenge toi mongulu yokwongala, hokolola eindilo eli nomutima tau denge no hole ya Kalunga, ne laka lakoshoka kwaiyishe ka kele ke dimbulukifo laYe, opone omunaenghono adishe eku kwafe no nghenda yaYe opo u dule ne findano lokombada.)

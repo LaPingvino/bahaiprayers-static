@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9723 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God onze Heer! Bescherm ons door Uw genade tegen al hetgeen U weerzinwekkend is, en verleen ons hetgeen U voegt. Geef ons meer van Uw gaven, en zegen ons. Schenk ons vergiffenis voor de dingen die wij hebben gedaan, en neem onze zonden weg, en vergeef ons met Uw genadige vergeving. Waarlijk, Gij zijt de Verhevenste, de Bij-zich-bestaande.

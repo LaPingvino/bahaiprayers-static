@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1696 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Lofaður sért Þú, ó Drottinn Guð minn! Ég ber því vitni að um eilífð hefur Þú verið upphafinn í yfirskilvitlegri tign Þinni og mikilleika, og Þú munt vara að eilífu í ofurvaldi Þínu og dýrð. Eng­inn í ríkjum jarðar né himna getur komið í veg fyrir áform Þín. Í gjörvallri opinberun Þinni og sköpun getur enginn drottnað gegn Þér. Þú gerir að boði Þínu það sem Þér líst og Þú ríkir í krafti yfirráða Þinna eins og Þér þóknast.

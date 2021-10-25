@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4067 in Кыргыз'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ky', 'bpn-unsorted']
 +++
 Ал Кудайдын өзү, көкөлөтүлгөн, ырайымдуулуктун жана жоомарттыктын Теңири!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9336 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Omem-boninahitra Ianao, ry Tompo Andriamanitro ô! Misaotra Anao aho noho izay niantsoanao ahy tamin’ny fahavelomana amin’ny Andronao, ary noho izay namenoanao ny Fitiavanao sy ny Fahalalanao ao amiko.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11848 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Ingan Topa dek Pingapunt! Dimutik ulunt-ulunt Ingan mbok tikos tudu pritah Ingan bia kalik budi duoh pingungin Ingan. O Topa! Nai odak otin-eh paguh duoh tulen sak dek sok noh pod-pod iyoh jadin layak ndu pangirinduk Ingan. Nai odak roh eh noh tulen duoh kudus sak sokad jawak Sebonar Boton Onu la’ant jawak tunt iyoh. Nai odak boton-eh noh tulen duoh kudus sak iyoh ponai kilint sokad jawak Ingan. Nai odak kojit eh noh tulen duoh kudus sak dek sok noh iyoh ponai kilingah bogan pritah Ingan. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn586 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Manch erstarrtes Herz, o mein Gott, wurde vom Feuer Deiner Sache entflammt, und mancher Schläfer wurde von Deiner süßen Stimme erweckt. Wieviele Fremde suchten Schutz im Schatten des Baumes Deiner Einheit, und wie zahlreich sind die Dürstenden, die in Deinen Tagen nach dem Quell Deines Lebenswassers lechzen.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2201 in România'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 adevărat, Tu eşti Domnul suveran, Cel Iertător, Cel Preageneros. O, Dumnezeul meu! Ajută-i pe slujitorii Tăi lipsiţi de cunoaştere să fie acceptaţi în Cauza Ta; căci de îndată ce vor afla de Tine, vor mărturisi adevărul Judecăţii de Apoi şi nu vor tăgădui revelaţiile generozităţii Tale. Trimite asupra lor mărturiile harului Tău şi acordă-le, oriunde s-ar afla, o parte mărinimoasă din ceea ce Tu ai hotărât pentru slujitorii Tăi devotaţi. Tu eşti, cu adevărat, Cârmuitorul Suprem, Atotdarnicul, Cel Nesfârşit de Bun.

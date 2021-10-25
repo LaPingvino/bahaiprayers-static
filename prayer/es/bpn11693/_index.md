@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11693 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Alabado seas, oh mi Dios, por haber ordenado Naw-Rúz como festividad para aquellos que han observado el ayuno por amor a Ti y se han abstenido de todo lo que Te es detestable. Permite, oh mi Señor, que el fuego de Tu amor y el calor producido por el ayuno ordenado por Ti les enardezca en Tu Causa y les haga ocuparse de Tu alabanza y Tu recuerdo.

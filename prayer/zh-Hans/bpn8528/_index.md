@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8528 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的上帝啊！许多冰冷的心已为祢圣道之火点燃，许多昏睡的人已被祢甜蜜之声唤醒。多少异乡客在祢独一性之树荫下寻求庇护，多少干渴者期盼祢圣日活水甘泉的喷涌！

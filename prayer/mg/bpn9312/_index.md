@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9312 in Malagasy'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Amin’ny anaran’ny Tompo, Ilay Mpandresy amin’ny mpandresy dia manambara fa: Andriamanitra dia hanampy ireo izay mitsangana hanompo Azy.

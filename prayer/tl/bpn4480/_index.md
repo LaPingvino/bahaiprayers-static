@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4480 in Filipino'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Purihin Ka, O Panginoon kong Diyos! Nakikita Mo ako at nababatid na tumawag ako sa Iyong mga tagapaglingkod upang sila’y huwag magbaling kahit saan liban sa kinaroroonan ng Iyong mga kaloob, at inatasan ko silang huwag gumawa ng anuman liban sa mga bagay na itinakda Mo sa Iyong malinaw na Aklat, ang Aklat na ipinapanaog ayon sa Iyong di malirip na kautusan at di-mababaling layunin.

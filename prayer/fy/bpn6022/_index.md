@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6022 in Frysk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 O myn God! O Jo, Ferjouwer fan sûnden! Skinker fan jeften! Ferdriuwer fan smerten!

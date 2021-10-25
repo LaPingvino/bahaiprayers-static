@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12087 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhan! Jadikanlah kanak-kanak ini tumbuh-tumbuhan yang cemerlang. Biarlah mereka tumbuh dan berkembang dalam Kebun Waadat-Mu, dan kurniakanlah kesegaran dan keindahan melalui curahan awan-awan Kerajaan Abhá.

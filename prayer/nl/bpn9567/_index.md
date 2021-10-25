@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9567 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Geprezen zij Uw Naam, o Heer mijn God! Ik ben Uw dienaar die het koord van Uw tedere barmhartigheid heeft gegrepen en zich aan de zoom van Uw milddadigheid heeft geklemd. Ik smeek U bij Uw Naam waarmee Gij al het geschapene, zichtbaar en onzichtbaar, onderworpen hebt en waardoor de ademtocht die het ware leven is over de gehele schepping streek, mij te sterken door Uw kracht die de hemelen en de aarde omvat, en mij te behoeden voor alle ziekte en rampspoed. Ik getuig dat Gij de Heer aller namen zijt, en de Beschikker van al hetgeen U behagen mag. Er is geen ander God dan Gij, de Almachtige, de Alwetende, de Alwijze.

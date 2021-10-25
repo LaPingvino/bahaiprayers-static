@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7747 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Senyè, Bondye mwen ak Fòterès mwen nan soufrans mwen! Defans mwen ak Abri mwen nan difikilte mwen yo! Azil mwen ak Refij mwen lè mwen nan nesesite e Konpayon mwen lè mwen chagren! Soulajman mwen lè mwen nan gran doulè, e Zanmi mwen Ki plen lanmou lè mwen pou kont mwen! Sila a K’ap elimine doulè tristès mwen e Li menm K’ap padone peche mwen yo!

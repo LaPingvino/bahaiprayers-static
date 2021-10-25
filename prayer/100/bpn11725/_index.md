@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11725 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Martaba ta tabbata ga sūnanka, yā Ubangiji Allāna! Kai nē wanda kōmi da kōwa yake bautāma, amma bā ka bautāwa kōwa, kai nē mamallakin kōwa da kōmi, amma bābu mai mallakarka. Kai nē masanin kōmi da kōwa, amma kā fi ƙarfin a san kōmi nāka. 

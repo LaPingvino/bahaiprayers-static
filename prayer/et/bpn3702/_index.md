@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3702 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Mu Jumal, keda ma palveldan ja jumaldan! Tunnistan Sinu ühtsust ja ainsust ja kinnitan Sinu ande nii minevikus kui ka praegusel ajal. Sina oled Kõikhelde, kelle halastuse ülevoolavad valingud on sadanud ühtviisi kõrgete ja alamate peale ning kelle armu hiilgust on poetatud nii kuulekaile kui ka mässulistele.

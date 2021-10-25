@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10326 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Förhärligat vare Ditt namn, o min Gud,  för att Du har uppenbarat den dag som är konungen bland dagar, den dag som Du tillkännagav för Dina utvalda och Dina profeter  i Dina mest lysande skrifter, den dag då Du kastade glansen av härligheten i alla Dina namn över allt skapat. Stor är lycksaligheten hos den, som har vänt sig till Dig och inträtt i Din närhet och uppfattat tonen i Din stämma.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4851 in Azərbaycan'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Təriflər olsun Sənə, Ey mənim Allahım! Bunlar Sənin o bəndələrindir ki, Sənin rəhmani rahiyələrinə cəzb olunublar, Sənin təkliyinin ağacında yanan atəşlə alovlanıblar, o kəslərdir ki, Sənin vahidlik Turunda şölə saçan nurun şəfəqlərinə baxmaqla gözləri işıqlanıb.

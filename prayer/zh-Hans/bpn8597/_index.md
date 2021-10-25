@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8597 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 主啊，我的上帝！赞美归于祢，祢看见并知晓我呼吁祢众仆，让他们除祢恩赐外不寻他途。我还嘱咐他们切莫他顾，只专注于祢那明晰的圣书——它降自祢那神秘令谕，其旨意万古不朽。

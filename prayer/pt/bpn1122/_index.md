@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1122 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Senhor, meu Deus! Esta é uma criança gerada por uma das Tuas servas a quem concedeste um lugar de distinção nas Epístolas do Teu irrevogável decreto e nos Livros do Teu mando.

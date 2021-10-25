@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12631 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Nuan Petara ti pengasih! O Nuan Siku ti tegap sereta bekuasa! O Nuan Apai ti pemadu mentas! Tu bala anembiak ke begempuru, nunga ngadap Nuan, minta enggau pemaruh ati ba pemetung Nuan, inginka penyayau Nuan ti enda nemu abis ari pemesai penetap Nuan. Sida nadai tuju bukai semina deka ke pemanah-penyamai Nuan. Sida nadai kebuah bukai kelimpah ari gawaka dunya mensia.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7766 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Glwa pou Ou, O Senyè, Ou menm Ki te fè tout bagay ki te kreye parèt avèk pouvwa volonte Ou.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11866 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Ingan Nyaa dek sinok daang hajat ku, pimonog Nyaa dek arap-arapku, panginatong Nyaa dek gili’ient ku, gilangang mulia Nyaa dek so’ot ku, topat tokont Nyaa dek nyetey ku, adon Nyaa dek jadin piminien ku, pangirinduk Nyaa dek jadin donab otin ku, khidmat Nyaa dek jadin pimajak ayuh ku! Oku nguwai Ingan pakai Adon Ingan, pakai sok dek mbok odak Ingan ngan –eh dapod odak bala dek mbok piluh Ingan bikibow tudu a-uw keluhuran ilmu pangipuant Ingan bia ogi kuasa sikoda-eh dengan isin-isin nyombah Ingan ngan-eh ma’ad tudu bingon balai pingodak kudus Ingan, ngan eh batue oku kos jowin ku nuju jowin Ingan, ngan-eh ngibotoh boton ku tudu Ingan, bia ngan-eh tanon pimulia Ingan. 

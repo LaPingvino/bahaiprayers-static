@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2290 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne Dumnezeul meu! M-am întors către Tine cu pocăinţă, cu adevărat Tu eşti Cel Îngăduitor, Cel Milostiv.

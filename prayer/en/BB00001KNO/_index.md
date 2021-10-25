@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BB00001KNO in English'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-en', 'BB00001KNO']
 +++
 Thou knowest full well, O my God, that tribulations have showered upon me from all directions and that no one can dispel or transmute them except Thee.  I know of a certainty, by virtue of my love for Thee, that Thou wilt never cause tribulations to befall any soul unless Thou desirest to exalt his station in Thy celestial Paradise and to buttress his heart in this earthly life with the bulwark of Thine all-compelling power, that it may not become inclined toward the vanities of this world.  Indeed Thou art well aware that under all conditions I would cherish the remembrance of Thee far more than the ownership of all that is in the heavens and on the earth.

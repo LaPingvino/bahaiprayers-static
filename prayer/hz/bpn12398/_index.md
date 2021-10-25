@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12398 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 *(/Awemas di oms !nadu ga ≠ga //aib hoab ai, ne /goresa /gorere ≠gaob Eloba /ami xa ra !guwub tsi nams hoaraga xuna xu !nora-!norahe has xawe Eloba ≠ai hos ose Eb Hoa-Gaixaba /khomxase huidi edu I //kha dansa ho //kha.)

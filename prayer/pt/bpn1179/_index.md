@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1179 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó Rei da Eternidade e Criador das nações, e Escultor de todo o osso decomponente! Suplico-Te, pelo Teu Nome, através do qual convocaste todos os seres humanos para o horizonte de Tua majestade e glória e guiaste os Teus servos à corte da Tua graça e dos Teus favores, que me incluas no número dos que se livraram de tudo, menos de Ti próprio, e se dirigiram a Ti, e daqueles que as desventuras por Ti decretadas não impediram de se volverem na direção das Tuas dádivas.

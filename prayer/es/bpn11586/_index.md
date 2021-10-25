@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11586 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Gloria sea a Ti, oh mi Dios! Mi rostro se ha dirigido hacia Tu rostro, y mi rostro es, ciertamente, Tu rostro, y mi llamamiento es Tu llamamiento, y mi Revelación, Tu Revelación, y mi ser, Tu Ser, y mi Causa, Tu Causa, y mi mandato, Tu mandato, y mi Existencia, Tu Existencia, y mi soberanía, Tu soberanía, y mi gloria, Tu gloria, y mi poder, Tu poder.

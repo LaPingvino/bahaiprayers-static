@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7815 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Lodato sia il Tuo nome, o mio Dio! Ti supplico per le fragranze della Veste della Tua grazia, che, al Tuo comando conforme al Tuo desiderio, furono diffuse in ogni parte dell’intera creazione, e per la Stella Mattutina del Tuo volere che ha brillato luminosamente, per la forza del Tuo potere e della Tua sovranità, all’orizzonte della Tua misericordia – di cancellare dal mio cuore tutte le inutili fantasie e le vane immaginazioni, sì che con tutti i miei affetti io possa volgermi a Te, o Signore di tutta l’umanità.

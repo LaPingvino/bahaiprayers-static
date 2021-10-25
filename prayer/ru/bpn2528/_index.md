@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2528 in Русский'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ru', 'bpn-unsorted']
 +++
 О Господи! В Тебе ищу я спасения и всем сердцем своим устремляюсь к Твоим знамениям.

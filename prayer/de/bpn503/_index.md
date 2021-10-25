@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn503 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O mein Gott, der Du den Sucher auf den geraden Pfad führest, die verlorene, verblendete Seele aus den Wüsten der Verdammnis erlösest, dem Aufrichtigen große Gnadengaben verleihest, dem Verängstigten Schutz an uneinnehmbarer Stätte gewährest und von Deinem höchsten Horizont hernieder denen antwortest, die Dich anrufen. Gepriesen seiest Du, o mein Herr! Du führst die Irregeleiteten aus den Todesfängen des Unglaubens, Du bringst jene, die sich Dir nähern, zu ihrer Reise Ziel. Die fest im Glauben Stehenden lässest Du frohlocken, weil Du ihre tiefste Sehnsucht stillst, und öffnest in Deiner Schönheit Reich die Tore der Wiedervereinigung vor den Augen derer, die nach Dir verlangen. Du errettest sie aus den Feuern des Verlusts und des Verderbens, so dass sie zu Dir eilen, in Deine Gegenwart gelangen, an Deinem einladenden Tor anlangen und Deiner Gaben überreich teilhaftig werden.

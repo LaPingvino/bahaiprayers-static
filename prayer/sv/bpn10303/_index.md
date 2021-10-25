@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10303 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Prisad vare Du, o Herre min Gud! Jag bönfaller Dig vid Ditt namn, som låtit Din kärleksfulla godhets och barmhärtighets oceaner svalla inom varje droppe, och Dina rikliga välsignelsers och gåvors ljus stråla inom varje atom. Jag bönfaller Dig att smycka varje själ med Din kärleks klädnad, så att det på Din jord ej måtte återstå någon som ej har vänt sig till Dig eller förmått frigöra sig från allt utom Dig.

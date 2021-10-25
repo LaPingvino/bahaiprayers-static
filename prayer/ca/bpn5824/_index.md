@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5824 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu Tu ets l’Autor de totes les Manifestacions, l’Origen de tots els Orígens, la Font de totes les Revelacions i la Deu de totes les Llums! Testimonio que pel Teu Nom el cel de la comprensió ha estat guarnit i l’oceà de l’expressió s’ha agitat i s’han promulgat les dispensacions de la Teva providència als seguidors de totes les religions.

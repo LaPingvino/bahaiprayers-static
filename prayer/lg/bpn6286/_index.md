@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6286 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ayi Katonda, Katonda wange!  Yamba abaddu Bo abesigwa okuba n'emitima emikakkamu era egirina okwagala.  Bayambe okubunyisa mu buli ggwanga lyonna ery'ensi ekitangaala ky'okulungamizi bwa Kwo okuva mu kibinja ekyomu ggulu.

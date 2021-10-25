@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11459 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Magnificado sea Tu Nombre, oh Señor mi Dios! Tú eres Aquel a Quien todas las cosas adoran y no adora a nadie, Quien es el Señor de todas las cosas y no es vasallo de nadie, Quien conoce todas las cosas y no es conocido por nadie. Tú quisiste darte a conocer a la humanidad. Por tanto, mediante una palabra de Tu boca trajiste la creación a la existencia y diste forma al universo. No hay otro Dios sino Tú, el Modelador, el Creador, el Omnipotente, el Todopoderoso.

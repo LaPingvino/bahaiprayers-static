@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2121 in România'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slava fie cu Tine, o, Dumnezeule! Tu eşti Dumnezeu, Cel care a existat înainte de toate lucrurile, care va exista după toate lucrurile şi va dura dincolo de toate lucrurile. Tu eşti Dumnezeu, Cel care cunoaşte toate lucrurile şi este mai presus de toate lucrurile. Tu eşti Dumnezeu, Cel care Te porţi plin de milostivire cu toate lucrurile, care pune în balanţă toate lucrurile şi a Cărui viziune cuprinde toate lucrurile. Tu eşti Dumnezeu, Stăpânul meu, Tu îmi cunoşti rangul, Tu aduci mărturie fiinţei mele lăuntrice şi exterioare.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12698 in Iban'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 85	Aku enggau pengabis ati minta Nuan ngena penegap Nuan, O Petara aku!

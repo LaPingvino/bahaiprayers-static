@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12968 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 O God bilong mi!  O Yu, Husat i save pogivim ol rong!  O Yu, Husat i save givim ol gutpela presen!  O Yu, Husat i save rausim ol bikpela hevi! 

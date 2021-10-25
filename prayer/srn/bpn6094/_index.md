@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6094 in Sranan Tongo'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##BEGI FU TAI A WAN 

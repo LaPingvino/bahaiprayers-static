@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12366 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O Thou Whose face is the object of my adoration,…

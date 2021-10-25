@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11270 in தமிழ்'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ta', 'bpn-unsorted']
 +++
 என் கடவுளே! குற்றங்களை மன்னிப்பவரே! சன்மானங்கள் வழங்குபவரே! வேதனைகளைப் போக்குபவரே!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1602 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Þú framfærandi! Þú hefur andað ljúfum ilmi heilags anda yfir vinina á Vesturlöndum og lýst upp vesturhimininn með ljósi leiðsagnar. Þú hefur laðað þá til Þín sem eitt sinn voru fjarlægir, Þú hefur gert hina ókunnu að ástríkum vinum, Þú hefur vakið þá sem sváfu, Þú hefur gert hina gálausu aðgætna.

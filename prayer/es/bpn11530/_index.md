@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11530 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios perdonador! Perdona los pecados de mi amorosa madre, absuelve sus faltas, dirige sobre ella la mirada de Tu bondadosa providencia, y permite que sea admitida en Tu Reino.

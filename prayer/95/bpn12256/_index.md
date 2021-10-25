@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12256 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Tavaeega e io Koe, O te Aliki toku Atua!  Au e akai kia Koe e auala atu i Tou Gali mai i te Favavau pela foki mo Tou Igoa Tafasili ite 

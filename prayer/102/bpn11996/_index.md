@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11996 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Ähli atlary gurşap alanyň Ady bilen.

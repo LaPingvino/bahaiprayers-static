@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12226 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E lauefa a Tou igoa, O te Aliki toku Atua, pe la loa mo te faiga ne Koe au ke faka-logologo ki Tou leo, kae kalaga mai au kia Koe, kae tala oku mata ke kilo tonu ki Tou gali, kae fakamaina a toku loto i Tou poto, kae faka-manuia mai oku fatafata mai i falotolotolua o latou fakatupu fakalavelave i Ou aso.  Au ko te tasi, O toku Atua, te la ne moe kii loa i tena moega, kae poi atu, a faifekau o Tou alofa tuafia ko oti ne uga mai ne Koe ki lalo ia au, a ko te matagi faka-alofalofa o Tou alofa-atafai e agiagi i luga ia au, kae fago ne ia au ki luga, kae fai ko oku mata ke saga tonu atu ki te kogaa-koga tapu o Tou poto, kae fakammau oku mata ki te malifalifa o te mainaaga i Ou mata.  

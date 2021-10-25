@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10317 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Han är den Mäktige, den Förlåtande, den Medlidsamme!

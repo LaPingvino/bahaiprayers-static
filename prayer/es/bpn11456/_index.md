@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11456 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Alabado seas, oh Señor mi Dios! Cada vez que intento hacer mención de Ti me lo impide la sublimidad de Tu posición y la irresistible grandeza de Tu poder, pues si Te alabara a lo largo de la extensión de Tu dominio y la duración de Tu soberanía, descubriría que mi alabanza a Ti tan solo corresponde a los que son semejantes a mí, quienes son ellos mismos Tus criaturas y han sido generados mediante el poder de Tu decreto y creados mediante la potencia de Tu voluntad. Y siempre que mi pluma atribuye gloria a alguno de Tus nombres, pareciera que oigo la voz de su lamento por su lejanía de Ti y reconozco su llanto debido a su separación de Tu Ser. Atestiguo que todo lo que hay fuera de Ti no es sino Tu creación y se encuentra en la palma de Tu mano. La aceptación de cualquier acción o alabanza de Tus criaturas no es sino una prueba de las maravillas de Tu gracia y Tus muníficos favores, y una manifestación de Tu generosidad y providencia.

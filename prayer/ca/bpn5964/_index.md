@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5964 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Tu, Déu perdonador! Aquests serfs es giren cap al Teu regne i busquen la Teva gràcia i generositat. Oh Déu! Fes que llurs cors siguin bons i purs perquè arribin a ser mereixedors del Teu amor. Purifica i santifica els esperits perquè la llum del Sol de la Realitat brilli sobre ells. Purifica i santifica els ulls perquè puguin percebre la Teva llum. Purifica i santifica les oïdes perquè puguin oir la crida del regne.

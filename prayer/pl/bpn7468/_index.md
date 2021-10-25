@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7468 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 *W Księdze „Kitáb-i-Aqdas” jest powiedziane: „Przykazaliśmy wam modlić się i pościć od momentu osiągnięcia dojrzałości [   lat]; nakazane jest to przez Boga, waszego Pana i Pana waszych przodków. (...) Postem nie są objęci podróżujący, chorzy, kobiety oczekujące dziecka oraz karmiące (...). (…) Powstrzymajcie się od jedzenia i picia od wschodu do zachodu słońca i miejcie się na baczności, aby pożądanie nie pozbawiło was łaski ustanowionej w Księdze.”

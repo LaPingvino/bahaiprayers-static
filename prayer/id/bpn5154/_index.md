@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5154 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Rabi Tuhanku! Kurnia-Mu telah memberanikan daku namun keadilan-Mu telah memenuhi diriku dengan kecemasan. Berbahagialah hamba-Mu yang dianuge- rahi dengan kurnia-Mu dan celakalah barang siapa yang patut mendapat kutuk-Mu.

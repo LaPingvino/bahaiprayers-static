@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5266 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Kako da zaspim, Bože, moj Bože, kad su oči onih koji čeznu za Tobom budne zbog razdvojenosti od Tebe, i kako da se odmaram kad su duše Tvojih ljubljenih bolne zbog udaljenosti od Tvoje prisutnosti?

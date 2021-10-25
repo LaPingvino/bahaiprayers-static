@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4330 in Esperanto'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 *Ho serĉanto de l’Vero! Se vi deziras, ke Dio malfermu vian okulon, vi devas petegi al Dio, preĝi al Li kaj komuniki kun Li je noktomezo, dirante la jenon: 

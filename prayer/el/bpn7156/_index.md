@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7156 in ελληνικά'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 ΓΙΑ ΒΡΕΦΗ

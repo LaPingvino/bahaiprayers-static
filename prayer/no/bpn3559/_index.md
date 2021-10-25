@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3559 in Norsk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O Gud, som er opphavet til alle manifestasjoner, kilden til alle kilder, opprinnelsen til alle åpenbaringer, utspringet for alle lys! Jeg bevitner at ved ditt navn er forståelsens himmel blitt prydet, og ytringens osean bragt til å bølge, og ditt forsyns forordninger kunngjort for alle religioners tilhengere.

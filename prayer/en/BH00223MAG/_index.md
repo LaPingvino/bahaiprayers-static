@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH00223MAG in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH00223MAG']
 +++
 Say: Magnified be Thy Name, O Lord my God!  I beseech Thee by Thy Name through which the splendor of the light of wisdom shone resplendent when the heavens of divine utterance were set in motion amidst mankind, to graciously aid me by Thy heavenly confirmations and enable me to extol Thy Name amongst Thy servants.

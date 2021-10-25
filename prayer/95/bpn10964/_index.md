@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10964 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Mea nei, O toku Atua, ko aso ko la ko oti ne fakatonu mai ne Koe ko Au tavini ke tautali i te Anapogi.  Mai iei ne faka-lakei ne Koe a te faka-tomuaaga o te Tusi o Au Tulafono tela ne fakaasi ki Au mea faiite, kae faka-fonu katoa a Koga-Tausi o Au tulafono i mata o latou katoa i Tou Lagi mo latou katoa i luga i Tou lalolagi.  Ko oti ne fakafonu a itula taki tasi katoa o aso mo uiga lei fakapitoa, fui faka-matala kia latou katoa vagana ko Koe, Tela Tena poto e aofia iei a mea faiite katoa.  Ko oti, foki, ne faka-sino ki agaaga taki tokotasi katoa a se tusaga o te uiga lei tenei pela loa mote Tapeleti o Tau faka-tonuuga mo Mataupu Silisili o Tau faka-masinoga e se mafulifuli.  Lau pepa taki tasi o Tusi mo Mataupu Silisili konei ko oti ne tufatufa ne Koe ki tino taki tokotasi katoa o te lalolagi.

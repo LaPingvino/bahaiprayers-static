@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12264 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 I Tena Igoa, ko te Maluga, ko te Tafasili i te Maluga, ko te Tafasili i te Gali!  

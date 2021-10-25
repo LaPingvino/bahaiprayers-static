@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9379 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Tsitoaha! Mpanota aho, nefa Ianao Ilay izay mamela heloka! Malemy aho eo anatrehan’ny fakampanahy, nefa Ianao Ilay izay Mpangoraka! Ao  anaty aizim-piton’ny fahadisoana aho, nefa Ianao no fahazavan’ny famotsorana!

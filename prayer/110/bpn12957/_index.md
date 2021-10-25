@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12957 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 O my God, my Master, the Goal of my desire!  This, Thy servant, seeketh to sleep in the shelter of Thy mercy, and to repose beneath the canopy of Thy grace, imploring Thy care and Thy protection. 

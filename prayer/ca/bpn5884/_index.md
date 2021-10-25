@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5884 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Senyor! Sóc un infant; permet-me créixer a l’ombra de la Teva bondat. Sóc una tendra planta; nodreix-me amb les pluges de la Teva munificència. Sóc un rebrot del jardí de l’amor transforma’m en un arbre fructífer. Tu ets el Fort i el Poderós, i Tu ets Qui tot ho estima, Qui tot ho sap i qui tot ho veu.

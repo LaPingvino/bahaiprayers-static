@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10740 in Srpski српски'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 Daj da se napojim na miomirisnim potocima Tvoje večnosti , O moj Bože, i dopusti da kušam plodove sa drveta Tvog bivstvovanja, O moja Nado! 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6407 in Cymraeg'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 Rho i mi fy nghyfran, O Arglwydd, yn ôl dy ddymuniad,a gwna fi'n fodlon ar beth bynnagyr Wyt wedi ei ordeinio ar fy nghyfer.Tydi sydd â'r awdurdod terfynol i orchymyn.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11987 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Sowuk çesmeleriň joşgunyndan dolan, Ylahy derýalaryň suwundan meni gandyr, Eý meniň Taňrym! Öz barlyk daragtyň miwelerinden maňa rysgal ber, Eý meniň Umydym! Öz muhabbet çeşmeleriň dury suwundan içir, Eý meniň “Baha’m”! Öz Ebedi mähriň saýasyndan maňa ýer ber, Eý meniň Arzuwym! Öz ýanyň gülüstanynda, Öz huzuryňda meni aýla, Eý meniň Mahbubym! Öz kerem tagtyň sag tarapynda meni oturt, Eý meniň Maksudym! Hoş ysly şadyýanlyk şemallaryndan ýolla maňa, Eý meniň Islegim! Öz barlyk hakykatyň Mukaddes Jennetine sal meni, Eý meniň Magbudym! Öz ýalňyzlyk guşuň owazlaryny maňa eşitdir, Eý maňa Aýan! Başarjaňlyk we gudrat ruhy bilen dirilik bagyş eýle, Eý maňa rysgal berýän! Öz söýgi ruhuň bilen meni berk durar ýaly et, Eý meniň Goldaýjym! Öz razylygyň şaýolunda meni galkyndyr, Eý meni Ýaradan!

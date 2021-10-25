@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4097 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Ikvienai dvēselei, kas ceļo pa šo štatu pilsētām, ciemiem un miestiņiem šajos štatos un kas ir apņēmusies izplatīt Dieva mācību, katru rītu jāpārlasa šī lūgšana.

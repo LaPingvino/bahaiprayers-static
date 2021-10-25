@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn679 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Dies sind die Tage, o mein Gott, da Du Deinen Dienern das Fasten gebotest. Mit ihm ziertest Du das Vorwort zum Buche Deiner Gesetze, das Du Deinen Geschöpfen offenbartest, mit ihm schmücktest Du die Schatztruhen Deiner Gebote vor den Augen aller, die in Deinem Himmel und auf Deiner Erde sind. Jede Stunde dieser Tage hast Du mit einer besonderen Wirkkraft ausgestattet, unerforschlich allen außer Dir, Dessen Wissen alles Erschaffene umfasst. Auch hast Du jede Seele an dieser Wirkkraft teilhaben lassen gemäß der Tafel Deines Ratschlusses und den Schriften Deines unwiderruflichen Urteils. Jedes Blatt dieser Bücher und Schriften hast Du zudem einem jeden Volk und Stamm der Erde zugewiesen.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5050 in Tiếng Việt'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con! Lạy Ngài là Đấng Xá tội! Đấng Ban thưởng! Đấng Cứu khổ! Quả thật, con cầu xin Ngài tha thứ tội lỗi cho những người rời bỏ chiếc áo thân xác và vươn lên thế giới tâm linh.

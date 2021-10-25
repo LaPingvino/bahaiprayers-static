@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5390 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 主なる神よ、御名に誉ほまれあれ。あなたは諸々のものに崇敬すうけいされ、何ものをも崇拝すうはいし給う

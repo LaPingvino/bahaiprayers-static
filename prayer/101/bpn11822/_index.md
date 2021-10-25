@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11822 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Mulia manah Ingan, O Raja Topa ku! Oku nguwai Ingan pakai Bala Tipilih Ingan, bia pakai Pinoban Amanah Ingan, bia pakai sok Iyoh Nyaa dek mbok nitah odak jadin Bolut para Nabi Ingan bia Pingutus-Pingutus Ingan, ngan-eh odak panginatong Ingan jadin ayua pingimam ku, bia pangirinduk Ingan tuju ku, bia jowin Ingan niat ku, bia adon Ingan lapu ku, bia cita-cita Ingan hasrat ku, bia pimoon Ingan pinyuka ku. 

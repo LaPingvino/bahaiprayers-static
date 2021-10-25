@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8645 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 为传播上帝芬芳而穿梭于城镇、村庄的教友，每天早晨都应细读这篇祷文。

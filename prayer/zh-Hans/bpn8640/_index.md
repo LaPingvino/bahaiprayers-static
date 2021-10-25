@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8640 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 无与伦比的上帝啊！祢是天国之主！这些灵魂乃是祢的天兵，请派至高圣庭之大军给予援助。使他们所向披靡，万夫莫敌，凭借上帝之爱及神圣教义之启迪，去赢得这些国度。

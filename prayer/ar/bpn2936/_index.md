@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2936 in العربية'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ar', 'bpn-unsorted']
 +++
 # هُوَ اللهُ

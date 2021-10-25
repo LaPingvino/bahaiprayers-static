@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9147 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô toi, mon Dieu, tu conduis le chercheur vers le droit chemin, tu délivres des affres de la perdition l’âme en détresse et aveugle, tu accordes bénédictions et faveurs aux sincères, tu protèges le craintif dans ton invincible refuge et tu réponds du haut de ton lointain horizon, au cri de ceux qui t’implorent. Loué sois-tu, ô mon Seigneur ! 

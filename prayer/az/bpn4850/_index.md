@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4850 in Azərbaycan'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah! Ey Allah! Bu qanadı sınıq bir quşdur və onun uçuşu çox zəifdir, ona elə kömək et ki, firavanlıq və xilas zirvəsinə uça bilsin, sonsuz fəza boyunca onun yolunu ən yüksək sevinc və şadlıqla qanadlandır, Sənin Ən Uca Adınla onun nəğmələrini bütün diyarlarda yüksəlt, qulaqları onun səsilə sevindir, gözləri hidayət nişanələrini görməklə işıqlandır.

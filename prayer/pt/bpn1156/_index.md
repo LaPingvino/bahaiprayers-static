@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1156 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus Clemente! Estes servos dirigem-se ao Teu Reino em busca da Tua graça e das Tuas dádivas. Ó Deus! Torna bons e puros os seus corações para que sejam dignos do Teu amor. Purifica e santifica os espíritos para que a luz do Sol da Realidade irradie sobre eles. Torna puros e santos os olhos a fim de poderem perceber a Tua Luz. Purifica e santifica os ouvidos para que possam ouvir o chamado do Teu reino.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11643 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Decreta para mí, oh mi Señor, y para aquellos que creen en Ti lo que a Tu juicio sea mejor para nosotros, tal como está establecido en el Libro Madre, pues en el dominio de Tu mano se encuentran las medidas fijadas para todas las cosas.

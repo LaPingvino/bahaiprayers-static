@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3697 in Eesti'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo Issand! Sinu juurest otsin ma varjupaika ja kõigi Sinu märkide järgi sean oma südame. Oo Issand! Olles reisil või kodus, ametis või tööl, panen ma kogu oma lootuse Sinule.

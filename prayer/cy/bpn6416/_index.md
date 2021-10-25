@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6416 in Cymraeg'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 Dy Enw yw fy ngwellhad, O fy Nuw, a chofio amdanat yw fy meddyginiaeth. Agosrwydd atat Ti yw fy ngobaith

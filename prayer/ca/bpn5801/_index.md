@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5801 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu meu! Omple’m la copa del despreniment de totes les coses i alegra’m amb el vi de l’amor a Tu a l’assemblea dels Teus esplendors i els Teus dons. Lliura’m dels assalts de la passió i del desig, arrenca de mi els grillons d’aquest món inferior, atreu-me amb arrapament al Teu regne celestial i vivifica’m entre les Teves serves amb els hàlits de la Teva santedat.

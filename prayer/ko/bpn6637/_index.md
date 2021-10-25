@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6637 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 고통의 옷에 감싸인 채 제가 비오니, 이 축복받은 기도문을 가진 이를 보호하여 주시옵고, 누구든지 이 기도문을 접하는 이와 이 기 도문이 있는 집 근처를 지나치는 이를 보호하여 주시...

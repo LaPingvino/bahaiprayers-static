@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8937 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 祂是上帝！

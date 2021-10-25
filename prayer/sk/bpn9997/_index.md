@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9997 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Požehnané je miesto a dom a kraj a mesto a srdce a hora a útulok a jaskyňa a údolie a zem a more a ostrov a lúka, kde bola učinená zmienka o Bohu a velebená Jeho chvála.

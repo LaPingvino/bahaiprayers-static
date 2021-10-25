@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10881 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Aliki!  Fai aka tamaliki konei ke pe la me ne lakau ola lei.  Fai latou ke ola kae atiake i te Fatoaaga o Tau Feagaiiga, kae tuku atu kia latou a te faka-fouuga mo te gali e auala atu ite maligiiga mai i kaumana o te Malo silisili ese katoatoa.

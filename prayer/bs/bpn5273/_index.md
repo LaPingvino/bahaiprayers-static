@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5273 in Bosanski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 U ime Gospodara, Stvoritelja, Vrhovnog, Samodovoljnog, Najuzvišenijeg, Onoga čiju pomoć traži cijelo čovječanstvo.

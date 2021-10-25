@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5181 in Bahasa Indonesia'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Adakah penghalau kesukaran-kesukaran selain

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3518 in Norsk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Min Gud, min tilbedte, min Konge, min lengsel! Hvilke ord kan uttrykke min takk til deg? Jeg var likegyldig, du vekket meg. Jeg hadde vendt meg bort fra deg, du hjalp meg nådigst til å vende meg mot deg. Jeg var som en død, du gjenoppvekket meg med livets vann. Jeg var visnet, du gav meg nytt liv ved dine ords himmelske elv som har strømmet frem fra den overmåte barmhjertiges Penn.

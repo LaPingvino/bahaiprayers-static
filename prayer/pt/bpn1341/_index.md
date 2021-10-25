@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1341 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Tu vês, ó Deus de Misericórdia, Tu, cujo poder predomina sobre todas as coisas criadas, estes servos Teus, Teus cativos, que, de acordo com o beneplácito da Tua vontade, observam durante o dia o jejum por Ti prescrito, que se levantam, ao primeiro alvor da manhã, para fazer menção do Teu Nome e celebrar o Teu louvor, na esperança de obterem o seu quinhão das boas coisas guardadas nos tesouros da Tua graça e generosidade. Suplico-Te - ó Tu que seguras nas mãos as rédeas da criação inteira, em cujo poder está todo o reino dos Teus Nomes e dos Teus atributos – que não prives os Teus servos, no Teu Dia, das chuvas que manam das nuvens da Tua misericórdia, nem os impeças de tomarem o seu quinhão do oceano do Teu beneplácito.

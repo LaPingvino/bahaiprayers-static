@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8923 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 以下是每日誦讀之禱文。

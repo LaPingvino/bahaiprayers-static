@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1139 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é Deus! Ó Senhor, meu Deus! Ó Tu, que ajudas o fraco, socorres o pobre e salvas o desamparado que para Ti se volta.

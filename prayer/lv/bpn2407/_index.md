@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2407 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Kungs! Atver plaši durvis, dāvā iespējas, sagatavo ceļu, novērs briesmas, lai mēs spētu sasniegt tos, kuru sirdis Tu esi sagatavojis Savai Mācībai, un lai viņi spētu sasniegt mūs.

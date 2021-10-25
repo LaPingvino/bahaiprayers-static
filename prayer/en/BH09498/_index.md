@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH09498 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH09498']
 +++
 O God and the God of all Names, and the Maker of the heavens!  I entreat Thee by Thy Name through which He Who is the Dayspring of Thy might and the Dawning-Place of Thy power hath been manifested, through which every solid thing hath been made to flow, and every dead corpse hath been quickened, and every moving spirit confirmed—I entreat Thee to enable me to rid myself of all attachment to any one but Thee, and to serve Thy Cause, and to wish what Thou didst wish through the power of Thy sovereignty, and to perform what is the good pleasure of Thy will.

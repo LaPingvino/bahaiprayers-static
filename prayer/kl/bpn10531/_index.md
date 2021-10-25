@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10531 in Kalaallisut'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Uannut aalajangeruk, Naalagara-aa, Ilinnullu upperinnittunut Illit isinni uatsinnut pitsaanerpaatitat, Pileqqaarnerata Atuagaani saqqummiussaasoq, Illimmi Assanniitippat sunut tamanut uuttortaat siumut aalajangeriigaq. 

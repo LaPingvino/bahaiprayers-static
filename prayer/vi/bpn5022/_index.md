@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5022 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, con xin dâng lên Ngài lời ca ngợi! Ngài thấy đấy, Đấng là nguồn Ánh sáng đã bị giam trong thành phố lao tù Akka, và bị áp bức đớn đau bởi những điều do tay kẻ ác gian đã làm, những kẻ mà dục vọng đồi trụy đã ngăn họ về với Ngài, lạy Ngài là Đấng Vua của tất cả các Danh.

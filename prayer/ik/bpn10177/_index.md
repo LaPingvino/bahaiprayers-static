@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10177 in Alaska Native'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Short Children's Prayer

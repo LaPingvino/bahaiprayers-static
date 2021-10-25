@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9727 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Ik ben mij ervan bewust, o Heer, dat mijn overtredingen mijn gezicht met schaamte bedekken in Uw tegenwoordigheid en als een last op mijn schouders drukken in Uw bijzijn, dat zij tussen mij en Uw schone gelaat zijn gekomen, mij rondom insluiten en mij aan alle kanten beletten de openbaringen van Uw hemelse macht te bereiken.

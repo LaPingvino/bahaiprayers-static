@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7489 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani ja Mestarini! Olen palvelijasi ja palvelijasi poika. Olen noussut vuoteeltani tähän aamun sarastukseen, kun Sinun ykseytesi päiväntähti on loistanut tahtosi päivänkoitteesta ja valanut sädeloistoansa yli koko maailman sen mukaisesti, mitä säädöksesi kirjoissa oli määrätty.

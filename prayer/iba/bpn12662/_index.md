@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12662 in Iban'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Dalam Nama Tuhan nuan, ti Penempa, ti Kuasa-raja, ti

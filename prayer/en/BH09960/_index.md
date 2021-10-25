@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH09960 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH09960']
 +++
 Magnified be Thy Name, O Lord my God!  Thou art He Whom all things worship and Who worshipeth no one, Who is the Lord of all things and is the vassal of none, Who knoweth all things and is known of none. Thou didst wish to make Thyself known unto men; therefore, Thou didst, through a word of Thy mouth, bring creation into being and fashion the universe.  There is none other God except Thee, the Fashioner, the Creator, the Almighty, the Most Powerful.

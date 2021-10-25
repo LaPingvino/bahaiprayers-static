@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1223 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvor e glória a Ti pertencem, ó Senhor meu Deus! És Aquele que sempre se veste de majestade, autoridade e poder e que continuará para sempre a adornar-Se de honra, fortaleza e glória. Todo o erudito se pasma ante os sinais e as evidências da obra das Tuas mãos, enquanto os sábios, sem exceção, se veem incapazes de desvendar o mistério Daqueles que são os Manifestantes da Tua grandeza e do Teu poder. Todo o homem de perceção tem confessado a sua incapacidade de escalar as alturas do Teu conhecimento; todo o homem letrado tem admitido o seu insucesso em penetrar a natureza da Tua Essência.

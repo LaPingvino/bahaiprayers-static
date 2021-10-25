@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1283 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glorificado seja Teu Nome, ó Senhor! Em quem deverei refugiar-me, enquanto fores Tu, em verdade, o meu Deus e o meu Bem-Amado; para quem deverei volver-me em busca de abrigo, enquanto Tu fores o meu Senhor e o meu Possuidor; e para quem deverei fugir, enquanto Tu, em verdade, fores o meu Mestre e o meu Santuário; e a quem implorar, enquanto Tu, em verdade, fores o meu Tesouro e o Alvo do meu desejo; e através de quem suplicar diante de Ti, enquanto fores Tu, em verdade, a minha mais alta aspiração e o meu desejo supremo? Frustrou-se toda a esperança, restando só o anelo pela Tua graça celestial, e toda a porta está vedada, salvo aquela que leva ao manancial das Tuas bênçãos.

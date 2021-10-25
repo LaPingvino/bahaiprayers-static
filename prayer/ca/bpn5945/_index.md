@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5945 in Català'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Concedeix-me, oh Déu meu, amb plenitud  el Teu amor i la Teva complaença, i extasia els nostres cors mitjançant les atraccions de la Teva llum resplendent, oh Tu qui ets l’Evidència Suprema i el Més Glorificat. Envia’m, com a signe de la Teva gràcia, les Teves brises vivificadores, durant el dia i la nit, oh Senyor de munificència.

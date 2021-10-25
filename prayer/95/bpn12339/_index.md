@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12339 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Te Matagofie e io Koe, O te Aliki,Ko Koe Tela ne aumai kae fakafoliga a mea ola katoa, mai I luga I te maalosi o Tau ikuuga.  

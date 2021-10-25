@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB02825 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB02825']
 +++
 Praise and glory be to Thee, O Lord my God!  This is a choice sapling which Thou hast planted in the meads of Thy love and hast nurtured with the fingers of Thy Lordship.  Thou hast watered it from the well-spring of everlasting life which streameth forth from the gardens of Thy oneness and Thou hast caused the clouds of Thy tender mercy to shower Thy favors upon it.  It hath now grown and developed beneath the shelter of Thy blessings which are manifest from the Dayspring of Thy divine essence.  It hath burst forth into leaves and blossoms, is laden with fruit through the providence of Thy wondrous gifts and bounties and is stirred by the fragrant breeze wafting from the direction of Thy loving-kindness.

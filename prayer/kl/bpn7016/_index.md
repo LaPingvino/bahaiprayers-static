@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7016 in Kalaallisut'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Illernarsisitaagit Illit, Naalagaq Guutiga-aa! Qinikkakkut tatigisakkullu Taassumuunalu Siumut Isigisuit Nalunaarutinnilu aatsisuit Naqitsisaatigut qinnuigakkit, Illit eqqaaneqarnerit ingerlatsisorissagiga, Kiinnat anguniagarissagiga, Aqqillu qaammaqqutigissagiga, Kissaatillu pilerisarissagiga, Iluarinninnerillu nuannaarsaatigissagiga.

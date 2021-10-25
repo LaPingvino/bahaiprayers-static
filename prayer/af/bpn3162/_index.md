@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3162 in Afrikaans'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O U barmhartige God! O U Wat magtig en kragtig is! O U die mees vriendelike Vader! Hierdie dienaars het bymekaar vergader en wend hulle na U, smeek U drumpel, begeer U eindelose mildhede vanuit U groot versekering. Hulle het geen voorneme behalwe U welbehae nie. Hulle het geen bedoeling behalwe diens aan die wêreld van die mensheid nie.

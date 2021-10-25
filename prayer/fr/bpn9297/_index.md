@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9297 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô toi, Seigneur de bonté, tu as créé toute l’humanité d’une seule et même souche. Tu as décrété que tous les hommes seraient de la même famille. En ta sainte présence, ils sont tes serviteurs et toute l’humanité s’abrite sous ton tabernacle ; ils sont tous réunis autour de la table de ta générosité, illuminés de la lumière de ta providence.

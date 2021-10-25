@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10375 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Han är Gud! 

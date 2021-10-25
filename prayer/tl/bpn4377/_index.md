@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4377 in Filipino'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Dapat usalin sa umaga, sa tanghali at sa gabi

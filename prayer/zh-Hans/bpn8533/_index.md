@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8533 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！祢是我的希冀和挚爱，我的至高追求与期待！我极度谦卑、完全忠诚，求祢让我在祢的国度里，成为祢仁爱之高塔，祢造物中知识之明灯，祢王国里圣恩之旗帜。

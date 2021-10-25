@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9550 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij barmhartig God! O Gij die machtig en krachtig zijt! O Gij allervriendelijkste Vader! Deze dienaren zijn bijeengekomen, keren zich tot U, smeken aan Uw drempel en verlangen naar Uw oneindige milddadigheid volgens Uw grootse belofte. Zij hebben geen ander doel dan Uw welbehagen. Zij hebben geen andere bedoeling dan het dienen van de wereld der mensheid.

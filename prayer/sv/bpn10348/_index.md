@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10348 in Svenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Herre! Hos Dig söker jag min fristad och till alla Dina tecken vänder jag mitt hjärta.

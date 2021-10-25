@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn524 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Gerühmt sei Dein Name, o Herr mein Gott! Du bist es, den alle Dinge anbeten und der selbst niemanden anbetet, der Herr über alle Dinge und niemandem untertan ist, der alle Dinge kennt und von niemandem erkannt wird. Du wünschtest Dich den Menschen bekannt zu machen, darum hast Du durch ein Wort Deines Mundes die Schöpfung werden lassen und das Weltall geformt. Es gibt keinen Gott außer Dir, dem Bildner, dem Schöpfer, dem Allmächtigen, dem Allgewaltigen.

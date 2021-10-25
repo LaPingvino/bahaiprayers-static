@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BB00018ANG in English'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-en', 'BB00018ANG']
 +++
 O my God!  There is no one but Thee to allay the anguish of my soul, and Thou art my highest aspiration, O my God.  My heart is wedded to none save Thee and such as Thou dost love.  I solemnly declare that my life and death are both for Thee.  Verily Thou art incomparable and hast no partner.

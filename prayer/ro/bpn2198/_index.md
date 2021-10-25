@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2198 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 M-am trezit, o, Dumnezeul meu,

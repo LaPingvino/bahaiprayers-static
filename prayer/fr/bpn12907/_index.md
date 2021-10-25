@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12907 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon éternel Bien-Aimé, mon ami adoré! Combien de temps resterai-je privé de ta présence et cruellement affligé par mon éloignement de toi? Dans les retraites de ton royaume céleste, conduis-moi et, depuis le lieu où apparaît ton règne divin, jette sur moi le regard de ton amour bienveillant. 

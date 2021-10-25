@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2856 in Shqip'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 *Kjo Tabelë u vesh prej Bahá'u'lláh-ut me fuqi e rëndësi të posaçme.

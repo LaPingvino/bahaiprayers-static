@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6537 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 저를, 저희로 하여금

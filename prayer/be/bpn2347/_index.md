@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2347 in Беларускі'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-be', 'bpn-unsorted']
 +++
 Ён Той, Хто надзяляе, Шчодры.

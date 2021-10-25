@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7908 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Tu Dio perdonatore! Questi servi si volgono verso il Tuo regno, desiderosi della Tua grazia e della Tua generosità. O Dio! Fa’ buoni e puri i loro cuori, sì che divengano degni del Tuo amore. Purifica e santifica gli spiriti, sì che su loro splenda la luce del Sole della Realtà. Purifica e santifica gli occhi, sì che percepisca-no la Tua luce. Purifica e santifica gli orecchi, sì che odano l’appello del Tuo regno.

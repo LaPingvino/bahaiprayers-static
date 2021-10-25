@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10908 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E fakalauefa, O te Aliki toku Atua, a Tou Igoa,  te la ne pulougina a lakau ola o te fatoaaga o Tau Faaliga mo te lau-usiusi, kae ne mafai o tau a fuataga kaina o te mana i vaaitaimi o te Tau-malulu i taimi a te manogi gali o Au mea-alofa mo fakamanuiaaga ko oti ne agiagi i luga i mea katoa, kae fai a latou ke aumai ki mua a so se mea ko la ko oti ne leva ne fakaeke gina mo latou i te Maalo o Tau fakatonuuga e se mafai o mafulifuli mo te Lagi o Tau ikuuga e se mafai o fakase gina.  Au e akai fakamolemole kia Koe i te Igoa loa tenei ke se fakafita gina au ke mao mai i te fale o Tou mana, io me e liakina au mai i te koga koga tafasili i te maluga o Tou tafatasi mo te fakatasitasi.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2396 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Kliedē manas bēdas Savā augstsirdībā un dāsnumā, ak Dievs, mans Dievs, un Savas varenības spēkā remdē manas ciešanas. Tu redzi mani, ak mans Kungs, ar skatu celtu uz Tevi, no visām pusēm bēdu ielenktu. Ak visas esamības Valdniek, Kā pavēnī tveras viss redzamais un neredzamais, piesaucot Tavu Vārdu, caur Kuru Tu esi pakļāvis cilvēku sirdis un dvēseles, un Tavas žēlastības jūras viļņus, un Tava dāsnuma Saules mirdzumu, ierindo mani to pulkā, kurus neviens nav spējis novērst no Tevis. Ak visu vārdu Valdniek un debesu Radītāj!

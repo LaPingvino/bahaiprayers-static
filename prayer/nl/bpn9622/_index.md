@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9622 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Geprezen zijt Gij, o Heer mijn God! Sta genadiglijk toe dat dit kindje gevoed wordt aan de borst van Uw tedere genade en liefdevolle voorzienigheid, en gevoed wordt met de vruchten van Uw hemelse bomen. Laat hem niet aan de zorg van iemand anders dan Uzelf worden toevertrouwd, aangezien Gij hem Zelf door de kracht van Uw soevereine wil hebt geschapen en tot leven hebt geroepen. Er is geen ander God dan Gij, de Almachtige, de Alwetende.

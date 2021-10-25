@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7496 in Suomi'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani! Anna anteliaisuutesi ja siunaustesi vuodatusten virrata tyköäsi, armosi osoituksena ja laupeuden merkkinä, niihin koteihin, joiden asukkaat ovat hyväksyneet uskosi. Totisesti Sinä olet ylittämätön anteeksi antamisessa. Jos Sinun anteliaisuutesi evättäisiin joltakulta, kuinka hänet voitaisiin lukea uskosi seuraajiin Sinun päivänäsi?

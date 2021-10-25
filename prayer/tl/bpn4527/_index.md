@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4527 in Filipino'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 *(Ang Dalangin para sa Yumao ay ginagamit para sa mga Bahá’í na higit sa labinlimang gulang. Ito ay “ang natatanging panalanging Bahá’í na katungkulang bigkasin ng kongregasyon; ito ay dapat usalin ng isang mananampalataya samantalang ang lahat ng naroroon ay tahimik na nakatayo. Nilinaw ni Bahá’u’lláh na ang Dalangin para sa Yumao ay kailangan lamang kung ang yumao ay nasa hustong gulang, na ang pag-usal ay dapat mauna sa paglilibing ng pumanaw, at hindi kinakailangang humarap sa Qiblih kapag inuusal ang panalanging ito.” — AngKitáb-i-Aqdas)

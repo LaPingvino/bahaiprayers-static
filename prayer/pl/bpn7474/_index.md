@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7474 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Tablica ta bywa czytana w Świątyniach, w których Bahá’u’lláh i Báb są pochowani. Często odmawia się ją także podczas obchodów świąt rocznicowych związanych z Ich życiem.

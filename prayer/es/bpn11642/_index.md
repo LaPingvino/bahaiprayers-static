@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11642 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡En el Nombre de Dios, el Señor de abrumadora majestad, el Imponente!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9155 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Louange à toi, ô mon Dieu ! Je suis l’un de tes serviteurs, je crois en toi et en tes signes. Vois ! je me dirige vers la porte de ta miséricorde et je tourne mon visage vers ton affectueuse bonté. Par tes titres les plus admirables et tes attributs les plus éminents, je te supplie d’ouvrir devant moi les portes de tes bienfaits. Aide-moi à faire ce qui est bon, ô toi, le possesseur de tous les noms et de tous les attributs !

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1703 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Þú óviðjafnanlegi Guð! Ó Þú Drottinn ríkisins! Þessar sálir eru Þinn himneski her. Hjálpa þeim og ger þær sigursælar með sveitum hinna hæstu herskara, svo sérhver þeirra megi verða sem hersveit og sigra þessi lönd með kærleika Guðs og uppljómun guðdómlegra kenninga.

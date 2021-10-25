@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10980 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *“A talo fakapitoa ko la e fai i aso taki tasi, fakatasi mo naai isi talo fakamatea aka, pela mo te Talo o te Fakagata Masaki, te Tapeleti a Ahmad, ko oti ne fakaeke ne Baha’u’llah a maalosi fakapitoa kae taaua, tela la e tau o talia me ko oti ne fai pena kae e tau o fai talosaga ne taugasoa mo te talitonu katoatoa mote mautinoa, me e auala mai i talosaga konei e mafai ne latou o ulu ki se tulaga fakapilipili atu kite Atua, kae lavea fakalei ne latou Ana tulafono mo Ana fakatonuuga. – From a letter written on behalf of Shoghi Effendi

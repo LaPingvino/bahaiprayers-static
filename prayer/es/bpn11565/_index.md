@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11565 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh bondadoso Señor! Tú has creado a toda la humanidad del mismo linaje. Has decretado que todos pertenezcan a la misma familia. En Tu Santa Presencia, todos son Tus siervos, y toda la humanidad se cobija bajo Tu Tabernáculo; todos se han reunido alrededor de Tu Mesa de Munificencia; todos están iluminados por la luz de Tu Providencia.

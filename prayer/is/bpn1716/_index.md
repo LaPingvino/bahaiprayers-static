@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1716 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Lofað sé nafn Þitt, ó Guð minn! Ég ber því vitni að engin hugsun um Þig, hversu háleit sem hún er, fær nokkru sinni náð upp til himinhæða þekkingar Þinnar, og engin lofgjörð um Þig, hversu vegsamleg sem hún er getur risið upp til sviða visku Þinnar. Um eilífð hefur Þú verið fjarlægur, langt ofar skilningi og handan seilingar þjóna Þinna, óendanlega upphafinn yfir tilraunir Þinna ánauð­ugu til að tjá dul Þína. Hvaða vald getur skugga­mynd sköpunar eignað sér andspænis Honum sem er hinn óskapaði?

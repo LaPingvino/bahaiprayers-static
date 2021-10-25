@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn555 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Gestatte, o mein Gott, dass ich mich Dir nähere und im Bereich Deines Hofes wohne, denn mein Fernsein von Dir hat mich fast verzehrt. Lass mich ruhen im Flügelschatten Deiner Gnade, denn das Feuer meiner Trennung von Dir schmilzt mir das Herz in der Brust. Lass mich dem Strom wahren Lebens näherkommen, denn meine Seele schmachtet in unentwegtem Suchen nach Dir. Meine Seufzer, o mein Gott, bekunden die Bitternis meiner Qual, meine Tränen bezeugen meine Liebe zu Dir.

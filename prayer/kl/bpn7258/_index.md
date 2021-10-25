@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7258 in Kalaallisut'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Naalagara! Naalagara! Unnersiutigaakkit, qutsavigaakkillu kiffannut arnamut maniguuttumut ajunngisaarutit pillugu. Inussiaativit torlorfigaatit qinnuigalutillu, tassa Illit ilumoortumik siulersorsimagakku Naalagaaffinnut saqqummersumut, Illillu qaaqqusinerit ataqqinartoq tusartissimagakku nunarsuarmi maani nungujasumi, Naluaaqqutitillu takutillugit uppernarsaasut Illit sunut tamanut naalagaassutsivit ajugaagajuttup saqqummerneranik.

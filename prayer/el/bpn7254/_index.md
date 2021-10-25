@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7254 in ελληνικά'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 Αυτοί που διαδίδουν τις ευωδίες του Θεού απαγγέλλουν αυτή την προσευχή κάθε πρωί:

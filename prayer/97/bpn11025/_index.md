@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11025 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-97', 'bpn-unsorted']
 +++
 હે મારા સ્વામી, તારા સૌદર્યને મારો આહાર બનાવ, તારી ઉપસ્થિતિને મારું જીવનજળ બનાવ. 

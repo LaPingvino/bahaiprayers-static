@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8491 in Esperanto'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 Estas Li la Saniganto, la Sufiĉanto, la Helpanto, la Ĉion-Pardonanta, la Ĉiel-Kompatema.

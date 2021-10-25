@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10088 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Zjavené pre bahájov západných štátov

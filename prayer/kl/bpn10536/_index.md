@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10536 in Kalaallisut'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Unnersiutigaakkit, Guutiga-aa, sininnit itertikkamma, qimagusimaninnillu sassarteqqikkamma aanngaasimaninnillu kingumut eqeertikkamma. Ullaaq manna iterpunga kiinara Illit Saqqummernerpit Ulluata ulloriaanut akisuguttumut saatillugu, tassuunami pissaaneqarnerpit ataqqinassutsivillu qilai qaammarsimapput, Illit nalunaaqqutitit Atuagaatinnullu upperneq misiutiginagu, taamaanneranilu uanga Illit qilerutit tigulluarsimavara. 

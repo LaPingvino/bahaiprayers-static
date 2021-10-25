@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9231 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Loué soit ton nom, ô Seigneur, mon Dieu ! Les ténèbres enveloppent le monde et les forces du mal envahissent les peuples. À travers elles, je perçois cependant les splendeurs de ta sagesse et je discerne l’éclat de la lumière de ta sollicitude.

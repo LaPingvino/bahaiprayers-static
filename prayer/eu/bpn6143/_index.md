@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6143 in Euskara'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-eu', 'bpn-unsorted']
 +++
 *(Jainkoarengandik ur izatea)

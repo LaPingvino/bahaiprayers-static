@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7788 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Mio Dio, mio Adorato, mio Sovrano, mio Desìo! Quale lingua può esprimerTi i miei ringraziamenti? Ero assopito e Tu mi hai destato. Mi ero allontanato da Te e Tu mi hai benevolmente aiutato a tornare a Te. Ero come estinto e Tu mi hai vivificato con l’acqua della vita. Ero avvizzito e Tu mi hai rianimato con la celeste fonte della Tua parola sgorgante dalla Penna del Misericordiosissimo.

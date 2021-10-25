@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12827 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-108', 'bpn-unsorted']
 +++
 ໃນນາມພຣະຜູ້ເປັນເຈົ້າ ພຣະຜູ້ຊົງບໍລົມບູຮານທີ່ສຸດ ພຣະຜູ້ຊົງຄວາມຍິ່ງໃຫຍ່ທີ່ສຸດ.

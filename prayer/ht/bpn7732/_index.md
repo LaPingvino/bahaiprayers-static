@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7732 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Ou menm Senyè Ki Gen Kè Dou! Sèvant Ou sa a ki chè pou nou te vle avanse nan direksyon Ou, e li te sèvi avèk panse li ak jijman li pou chèche jwenn prezans Ou e antre nan wayòm Ou yo. Avèk dlo nan je li, li te vire rega li sou Wayòm Mistè a. Li te pase anpil nwit nan fon lapriyè avèk Ou, e li te viv anpil jou avèk panse li yo ki plen lanmou fikse sou Ou. Chak maten li t’ap sonje Ou, epi chak lanjelis li t’ap mete panse li yo sou Ou. Li te chante vèsè sakre yo tankou yon wosinyòl, e li te chèche reflete limyè Ou tankou yon glas.

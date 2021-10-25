@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11879 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Ingan leh dek mulia, O Raja, Ingan leh Nyaa dek toban odak idip sua onik dek obuah motan, pakai sok kuasa pingodak Ingan.

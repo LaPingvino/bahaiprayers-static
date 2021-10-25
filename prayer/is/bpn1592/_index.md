@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1592 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er Guð, sá sem heyrir bænir og svarar þeim.

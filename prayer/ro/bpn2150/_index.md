@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2150 in România'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slăvit fie Numele Tău, o, Doamne!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10793 in Srpski српски'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 Slavljen da si, O moj Bože, jer si odredio da No Ruz bude svetkovina onima koji su poštovali post iz ljubavi prema Tebi i uzdržavali se od svega Tebi gnusnog. Daj, O moj Gospode, da ih vatra Tvoje ljubavi i vrelina proistekla iz posta koji si Ti odredio, zapali u Veri Tvojoj, i učini da postanu zaokupljeni slavljenjem i spominjanjem Tebe.

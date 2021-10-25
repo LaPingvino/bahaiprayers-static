@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5143 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhan! Dalam Kurun Zaman yang Maha Agung

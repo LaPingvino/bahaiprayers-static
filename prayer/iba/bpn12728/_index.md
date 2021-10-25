@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12728 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Puji meh Nuan, O Tuhan Petara aku! Aku minta ngagai

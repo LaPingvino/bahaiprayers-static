@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12266 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Matagofie ea ia Koe, O te Atua!  Koe ko te Atua Tela ne ola mai mua o mea katoa, Tela ne ola mai i tua o mea katoa kae ka nofo mai mua o mea katoa.  Koe ko te Atua e iloa a mea katoa, kae e maluga atu i mea katoa. Koe ko te Atua e fakaiku mo te alofakaimalie a mea katoa, Tela e fakamasino a mea katoa i vasia o latou a ko Tena kilo e aofia i ei a mea katoa.  Koe ko te Atua toku Aliki, e iloa ne Koe a toku tulaga, a ko Koe e molimau i toku kano loto mo toku uiga tonu mai i tua.  

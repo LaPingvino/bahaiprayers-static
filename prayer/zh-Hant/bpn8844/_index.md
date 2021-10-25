@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8844 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 以祂——那尊貴者、至高者、至偉者之聖名為誓！

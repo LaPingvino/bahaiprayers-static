@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9700 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Glorie zij U, o Heer, Gij die al het geschapene tot leven hebt gewekt door de kracht van Uw bevel.

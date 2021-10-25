@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11908 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Naw-Ruz, 21 onu bulan Taluh, bungas onu daang sowak Baha’i)

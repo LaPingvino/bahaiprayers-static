@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8148 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 I Guds Navn, Den Allerældste, Den Største.

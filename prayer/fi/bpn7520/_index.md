@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7520 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Ken matkustaa eri puolille opettamaan, lukekoon vuorilla, autiomaassa, maalla ja merellä tätä rukousta:

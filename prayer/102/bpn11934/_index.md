@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11934 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Ýa Reb! Seniň Rähmet we Kerem asmanyňa uzalan umytly gollary görýänsiň. Ol elleri Öz Merhemet we Jomartlyk gençleriň bilen doldurarsyň diýip arzuwym bardyr.

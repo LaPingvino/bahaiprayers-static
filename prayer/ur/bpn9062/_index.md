@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9062 in اُردُو'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ur', 'bpn-unsorted']
 +++
 کوئی خدا نہیں، تو ہی مقتدر و قدیر ہے۔

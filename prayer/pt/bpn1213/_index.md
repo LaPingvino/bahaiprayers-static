@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1213 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado sejas, ó Senhor meu Deus! Dou testemunho de que Tu, desde toda a eternidade, estás elevado em Tua transcendente majestade e grandeza e por toda a eternidade permanecerás em Teu supremo poder e glória. Nos reinos da terra como do céu não há quem possa frustrar o Teu desígnio; nem existe, em todos os domínios da revelação e da criação, quem possa prevalecer contra Ti. Segundo a Tua Vontade, realizas o que desejas e, através do poder da Tua soberania, reges como Te apraz.

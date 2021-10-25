@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9241 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Magnifié sois-tu, ô Seigneur, mon Dieu ! Par ton nom que tu as placé au-dessus de tous les autres noms, qui a déchiré le voile céleste et fait apparaître à l’horizon le Soleil de ta beauté brillant de l’éclat de ton nom, le Suprême, le TrèsHaut, je te demande de m’accorder le secours de ton aide merveilleuse, de m’abriter sous l’aile de ta sollicitude et de ta protection.

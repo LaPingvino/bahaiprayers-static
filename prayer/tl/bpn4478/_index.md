@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4478 in Filipino'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Diyos, aking Diyos! Itong Iyong babaeng naglilingkod ay tumatawag sa Iyo, nagtitiwala sa Iyo, nagbabaling ng kaniyang mukha sa Iyo, nagsusumamo sa Iyo na padaluyin ang makalangit na biyaya sa kaniya, at ihayag sa kaniya ang Iyong mga espiritwal na himala, at ipaabot sa kaniya ang mga liwanag ng Iyong pagka-Diyos.

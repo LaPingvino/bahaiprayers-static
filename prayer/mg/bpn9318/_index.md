@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9318 in Malagasy'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Mangataka ny indrafonao aho, ry Andriamanitro, ary mitalaho ny famelanao araka ny fomba izay irinao itodihan’ireo mpanomponao any Aminao. Miangavy Anao aho mba hikosoka ny fahotanay araka ny  Fiandriananao sy hamela ahy , ireo ray aman-dreniko, sy ireo izay, araka ny Fanombananao , tafiditra teo amin’ny fonenan’ny Fitiavanao  tamin’ny fomba mendrika ny Fiandriananao ambony indrindra sy mifanaraka amin’ny voninahitry ny Fahefan-danitrao.

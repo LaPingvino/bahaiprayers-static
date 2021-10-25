@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9968 in Kalaallisut'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Isumakkeerfiginninnissat qinnutigaara, Guutiga-aa, isumakkiigaanerlu qinnutigalugu taamatut kiffavit Ilinnut saaffiginninnissaannik kissaatiginninnerit Malillugu. 

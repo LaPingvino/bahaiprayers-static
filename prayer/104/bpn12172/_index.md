@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12172 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhanku, Tuhan rahmat dan belas kasihan!

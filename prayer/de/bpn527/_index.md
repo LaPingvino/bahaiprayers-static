@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn527 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Sei gelobt, o Herr mein Gott! Wann immer ich von Dir zu sprechen wage, werde ich daran gehindert durch die Erhabenheit Deiner Stufe und die überwältigende Größe Deiner Macht. Denn wollte ich Dich auch preisen, solange Deine Herrschaft und höchste Macht währt, würde ich doch erkennen, dass mein Lob nur auf meinesgleichen passt, auf solche, die selbst nur Deine Geschöpfe sind, gezeugt durch die Macht Deines Befehls und gestaltet durch die Wirkkraft Deines Willens. Und wann immer meine Feder einen Deiner Namen rühmt, dünkt mir, ich höre die Stimme seines Wehklagens über seine Ferne von Dir und erkenne seinen Schrei, weil er von Dir getrennt ist. Ich bezeuge, dass alles außer Dir nur Deine Schöpfung ist, gehalten in der Höhlung Deiner Hand. Wenn Du von Deinen Geschöpfen eine Tat oder ein Lob annimmst, ist dies nur ein Beweis für die Wunder Deiner Gnade und Deiner großmütigen Gunstbeweise, eine Offenbarung Deiner Freigebigkeit und Vorsehung.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7831 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Gloria sia a Te, Signore mio Dio! Ti prego – per il Tuo Nome per il quale Colui Che è la Tua Bellezza è stato posto sul Trono della Tua Causa, per il Tuo Nome per il quale cambiasti tutte le cose, riunisti insieme tutte le cose, chiamasti a render conto tutte le cose, ricompensasti tutte le cose, preservasti tutte le cose e sostenesti tutte le cose – Ti prego di proteggere questa Tua ancella che è corsa a rifugiarsi in Te, e ha cercato riparo in Colui nel Quale Tu Stesso sei manifesto, e ha riposto in Te ogni fiducia e confidenza. 

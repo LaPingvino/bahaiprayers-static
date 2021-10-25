@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6236 in Luganda'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ekitiibwa kibe gyoli, Ayi MukamaKatonda wange!  Tomufeebya oyo gwewa gulumiziza nga oyita mu maanyi ag'obwakabaka Bwo obutagwaawo, era tomusuula wata oyo gwewakirizza okuyingira eweema ey'obutaggwawo Bwo.  Onoomusula muguluka, Ayi Katonda wange, oyo gw'osiikirizza n'obukama Bwo, era on'omugoba okuva Woli, oyo, Ayi Okwegomba kwange, nga Ggwe obaddeobubudamo bwe?  Oyinza okumussa wansi oyo gw'oyimusizza oba okumwerabira oyo Gwewasobozesa okukujukira?  

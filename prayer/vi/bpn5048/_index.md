@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5048 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Hãy tụng: Lạy Thượng Đế của con, lạy Thượng Đế của con! Ngài đã giao phó cho con bảo chứng này Phát sinh từ Ngài, và Ngày nay theo tôn ý Ngài, Ngài gọi người về cùng Ngài. Là tôi tớ Ngài, con đâu được phép tự hỏi: “Điều này từ đâu đến và tại sao?”, bởi vì mọi hành động của Ngài đều thánh thiện và tất cả chỉ dụ của Ngài đều phải tuân tùng.

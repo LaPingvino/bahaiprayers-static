@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6199 in Marshallese'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-mh', 'bpn-unsorted']
 +++
 O Iroij! Ilo Kwe ij bukot kejbarok eo Am, im nan aolepen kokkale ko Am ij aje waj buruo.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5555 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお神よ、　わが神よ。   　私は胸を弾はずませ、　　　涙しながら嘆願いたします。　毎朝、毎夕、あなたの

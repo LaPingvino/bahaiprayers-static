@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9730 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Glorie zij U, o mijn God! Mijn gelaat is naar Uw gelaat gekeerd, en mijn gelaat is waarlijk Uw gelaat, en mijn roep is Uw roep, en mijn openbaring Uw Openbaring, en mijn zelf Uw Zelf, en mijn zaak Uw Zaak, en mijn bevel Uw bevel, en mijn wezen Uw Wezen, en mijn soevereiniteit Uw soevereiniteit, en mijn glorie Uw glorie, en mijn kracht Uw kracht.

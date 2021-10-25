@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11686 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Tú ves, oh Dios de Misericordia, oh Tú Cuyo poder penetra todas las cosas creadas, a estos siervos Tuyos, Tus esclavos, que, de acuerdo con el beneplácito de Tu Voluntad, observan de día el ayuno prescrito por Ti, que se levantan con las primeras luces para hacer mención de Tu Nombre y celebrar Tu alabanza, con la esperanza de obtener su parte de las cosas buenas que están guardadas en los tesoros de Tu gracia y munificencia. Te imploro, oh Tú que tienes en Tus manos las riendas de la creación entera, bajo Cuyo dominio se encuentra todo el reino de Tus nombres y de Tus atributos, que no prives en Tu Día a Tus siervos de las lluvias que caen de las nubes de Tu misericordia, ni les impidas que tomen su porción del océano de Tu complacencia.

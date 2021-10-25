@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6023 in Frysk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fy', 'bpn-unsorted']
 +++
 O myn God! Dit is Jins tsjinneres en de dochter fan Jins tsjinneres, dy't yn Jo en yn Jins tekens leauwt en dy't har antlit nei Jo takeard hat, folslein frij fan alles bûten Jo. Jo binne wierliken fan al dyjingen dy't erbarming toane de barmhertichste.

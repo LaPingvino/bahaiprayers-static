@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2351 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slava Tev, ak Dievs, mans Kungs! Nepazemo to, ko Savas mūžīgās valdīšanas spēkā esi paaugstinājis, un neatstum no Sevis tālu to, kam esi ļāvis ienākt Savas mūžības svētnīcā. Ak mans Kungs, vai gan Tu no Sevis atgrūdīsi to, ko esi ņēmis Savā pavēnī, un vai gan Tu, mans Ilgojums, novērsīsies no tā, kam esi bijis patvērums? Vai Tu vari nonievāt to, ko esi pacēlis, vai aizmirst to, kam esi devis spēju Tevi neaizmirst?

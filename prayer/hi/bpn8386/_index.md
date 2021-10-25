@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8386 in हिंदी'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hi', 'bpn-unsorted']
 +++
 वह ईश्वर है! है अद्वितीय स्वामी!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1384 in فارسی'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fa', 'bpn-unsorted']
 +++
 بِسم اللّه الامنَع الاقدَسِ الارفعِ الابهی

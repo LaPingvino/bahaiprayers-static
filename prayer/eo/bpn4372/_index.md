@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4372 in Esperanto'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 Ho Dio! Ho Dio! Jen birdo flugilrompita kiu nur tre malrapide flugas – asistu ĝin ke ĝi soru al la pinto de bonstato kaj savo, ke glitu ĝi en ekstrema ĝojo kaj feliĉo tra la senlima spaco, ekkantu sian melodion en Via Majesta Nomo tra ĉiuj regionoj, gajigu la orelojn per ĉi voko kaj briligu la okulojn per la signoj de gvidado.

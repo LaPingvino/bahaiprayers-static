@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11498 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, mi Dios! Estos son Tus débiles siervos; son Tus esclavos leales y Tus siervas, que se han inclinado ante Tu exaltada Palabra y se han mostrado humildes ante Tu Umbral de luz, y han dado testimonio de Tu unicidad, mediante la cual se ha hecho brillar el Sol en su esplendor meridiano. Han escuchado el llamamiento que elevaste desde Tu Dominio oculto y, con corazones estremecidos de amor y embeleso, han respondido a Tu llamado.

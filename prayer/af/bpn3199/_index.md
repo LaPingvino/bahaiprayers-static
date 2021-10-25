@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3199 in Afrikaans'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O U Wie se nabyheid my wens is, Wie se teenwoordigheid my hoop is, Wie se aandenking my begeerte is, Wie se gloriehof my doel is, Wie se woonplek my strewe is, Wie se naam my genesing is, Wie se liefde die glans van my hart is, Wie sie diens my hoogste strewe is! Ek smeek U by U Naam, waardeur U diegene wat U herken het in staat gestel om na die verhewenste hoogtes van die kennis van U te sweef en dié wat U toegewyd aanbid in staat gestel het om op te styg na die omgewing van die voorhof van U heilige gunste, om my te help om my gesig na U gesig te wend, om my oë op U te rig, en om van U heerlikheid te praat.

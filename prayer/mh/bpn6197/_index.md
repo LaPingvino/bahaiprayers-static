@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6197 in Marshallese'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mh', 'bpn-unsorted']
 +++
 O ao Anij! O Kwe Ri-jolok bwid ko, ri-letok menin lelok ko, ri-jolok aban ko!

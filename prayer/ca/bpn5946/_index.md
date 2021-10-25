@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5946 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Tu, Proveïdor! Tu has exhalat sobre amics d’Occident la dolça fragància de l’Esperit Sant, i amb la llum de la guia divina has il·luminat el cel occidental. Has fet que els qui es trobaven allunyats s’acostin a Tu; Tu has convertit els estranys en amics amorosos; Tu has despertat a aquells què dormien; Tu has fet conscients als desatents.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7340 in Polski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Chwała bądź Tobie, o Boże! Tyś jest Bogiem, co istniał przed wszelkim stworzeniem i który istnieć będzie po wszelkim stworzeniu i trwać będzie poza wszelkim stworzeniem. Tyś jest Bogiem, który zna wszelkie stworzenie i który je przewyższa. Tyś jest Bogiem, co miłosierny jest dla wszelkiego stworzenia, który sądzi wszelkie stworzenie i którego wzrok obejmuje wszelkie stworzenie. Tyś jest Bogiem, moim Panem, Ty znasz moje położenie, Tyś jest świadkiem mojej wewnętrznej i zewnętrznej istoty.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12727 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Dalam Nama Iya Siku ti udah disemaya ba semua Bup

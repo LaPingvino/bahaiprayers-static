@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9338 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitro, noho ny herinao sy ny fiandriananao izay mandrakotra ireo rehetra any an-danitra sy eto an-tany, mangataka Aminao aho hampahalala amin’ny mpanomponao ny lalana mazava sy mahitsy, mba ahafantarany marina ny Firaisanao sy ny maha-Iray Anao ka tsy ho voahelingelina noho ny hevi-dravin’ ireo  tsy mpino, na ho hamaizinin’ny fisainam-poanan’ireo be di-doha.

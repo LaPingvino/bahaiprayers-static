@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5796 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Molts cors erts, oh Déu meu, s’han encès amb el foc de la teva Causa i molts que estaven adormits han estat despertats per la dolçor de la teva veu. Quants són els estranys que han buscat aixopluc a l’ombra de l’arbre de la teva unicitat i quan nombrosos són els assedegats que han anhelat en els teus dies la font de les teves aigües vives!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11509 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Mujeres

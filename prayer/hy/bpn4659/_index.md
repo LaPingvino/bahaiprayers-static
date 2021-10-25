@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4659 in հայերեն'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hy', 'bpn-unsorted']
 +++
 Ո՜վ իմ Աստված: Ո՜վ Դու, Ով ներում է մեղքերն, ի վերուստ առաքում ընծաներ, ցրում վշտերը:

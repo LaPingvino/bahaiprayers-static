@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH02753ENT in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH02753ENT']
 +++
 Glorified art Thou, O my compassionate Lord!  I entreat Thee by the tumult of the ocean of Thy holy utterance, and by the manifold tokens of Thy supreme sovereignty, and the compelling evidences of Thy Divinity, and the hidden mysteries that lie concealed within Thy knowledge, to give me Thy grace to serve Thee and Thy chosen ones, and enable me to dutifully offer Thy Huqúq which Thou hast ordained in Thy Book.

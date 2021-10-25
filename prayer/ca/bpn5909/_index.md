@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5909 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glorificat ets Tu, oh Senyor meu! Et suplico pels Teus elegits i pels portadors del Teu Fideïcomís i per Aquell a Qui Tu Li has ordenat què sigui el Segell dels Teus Profetes i dels Teus Missatgers, que permetis que el Teu record sigui el meu company; el Teu amor, el meu objectiu; el Teu semblant, la meva meta; el Teu nom, la meva làmpada; el Teu desig, el meu desig i el Teu plaer el meu delit.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11626 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Soy aquel, oh mi Señor, que ha vuelto el rostro hacia Ti y ha fijado su esperanza en las maravillas de Tu gracia y en las revelaciones de Tu munificencia. Te ruego que no permitas que me aleje desilusionado de la puerta de Tu misericordia, ni me dejes a merced de aquellas criaturas Tuyas que han repudiado Tu Causa.

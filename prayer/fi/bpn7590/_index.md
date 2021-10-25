@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7590 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Herra, minun Herrani!

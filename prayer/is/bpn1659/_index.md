@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1659 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrlegur ert Þú, ó Drottinn Guð minn! Í hvert sinn sem ég dirfist að nefna Þig aftra mér stórfelldar syndir mínar og hörmuleg yfirtroðsla gagnvart Þér og mér finnst ég gjörsamlega sviptur náð Þinni og fullkomlega vanmegna að vegsama Þig. Mikið traust mitt á örlæti Þínu vekur þó að nýju von um Þig og fullvissa mín um veglyndi Þitt gefur mér kjark til að lofa Þig og biðja um það sem er í eigu Þinni.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9271 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, ô mon Dieu, voici ceux qui te servent malgré leur faiblesse. Ce sont tes loyaux serviteurs et servantes, ils s’inclinent devant ta sublime Parole, se prosternent sur le seuil de ta lumière et témoignent de l’unité qui a fait resplendir le Soleil à l’apogée de sa splendeur. Ils écoutent les injonctions que tu exprimes depuis ton royaume caché, ils répondent à ton appel, le cœur vibrant d’amour et ivre de joie.

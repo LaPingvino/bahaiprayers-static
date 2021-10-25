@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10301 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Förhärligad vare Du, o Herre min Gud!  Jag ber Dig vid Ditt namn, vilket Du har upphöjt över alla andra namn och genom vilket himmelens täckelse rivits sönder och Din skönhets Morgonstjärna stigit över horisonten, lysande med klarheten hos Ditt namn, det Upphöjda, det Högsta, att undsätta mig med Din förunderliga hjälp och att bevara mig i Din omsorgs och Ditt värns beskydd.

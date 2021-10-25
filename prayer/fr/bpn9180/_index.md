@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9180 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Loué sois-tu, ô Seigneur, mon Dieu ! Tout homme perspicace atteste ta souveraineté et ton autorité, tout œil clairvoyant perçoit la grandeur de ta majesté et la puissance irrésistible de ton pouvoir. Malgré les vents de l’épreuve, ceux qui ont le bonheur d’être près de toi gardent la force de tourner leur visage vers l’horizon de ta gloire et ceux qui sont tout dévoués à ta volonté réussissent à s’approcher de ton parvis, malgré les tempêtes de l’adversité.

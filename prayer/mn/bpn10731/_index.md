@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10731 in Монгол хэл'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mn', 'bpn-unsorted']
 +++
 Тэрээр бүхний Хаан эзэн, Бүхнийг мэдэгч, Мэргэн ухаантан билээ!

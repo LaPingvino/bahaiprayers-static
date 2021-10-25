@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7911 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Tu la Cui vicinanza è la mia brama, la Cui presenza è la mia speranza, il Cui ricordo è il mio desìo, la Cui gloriosa corte è il mio scopo, la Cui dimora è la mia mèta, il Cui nome è la mia cura, il Cui amore è la luce del mio cuore, il Cui servizio è la mia più alta aspirazione! T’imploro per il Tuo Nome mercè il quale permettesti a coloro che Ti hanno riconosciuto di librarsi verso le sublimi altezze della Tua co-noscenza e desti potere a coloro che devotamente Ti adorano di ascendere ai recinti della corte dei Tuoi santi favori, di aiutarmi a volgere il viso verso il Tuo viso, a fissare gli occhi su di Te e a narrare la Tua gloria. 

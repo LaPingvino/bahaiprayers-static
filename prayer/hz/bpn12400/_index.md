@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12400 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 *(Ne /gares ga sisen u-he //aib ai I ge /gui ≠gomsabee ni /gore tsin ge nou ≠gomsabena ni ma).

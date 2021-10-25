@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10100 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó môj Bože! Ó môj Bože! Vskutku ťa vzývam a zbožne sa modlím pri Tvojom prahu a prosím ťa, aby si tieto duše obdaril všetkou Svojou milosťou. Zvoľ si ich pre udelenie Svojej priazne a pravdy.

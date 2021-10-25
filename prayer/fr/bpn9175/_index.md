@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9175 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, mon Dieu, aide tes serviteurs fidèles à posséder un cœur aimant et tendre. Aide-

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9783 in മലയാളം'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ml', 'bpn-unsorted']
 +++
 അവനാണു ശക്തനും ക്ഷമാവാരിധിയും ദയാലുവും! 

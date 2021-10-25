@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH00593 in English'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-en', 'BH00593']
 +++
 O God our Lord!  Protect us through Thy grace from whatsoever may be repugnant unto Thee, and vouchsafe unto us that which well beseemeth Thee.  Give us more out of Thy bounty, and bless us.  Pardon us for the things we have done, and wash away our sins, and forgive us with Thy gracious forgiveness.  Verily, Thou art the Most Exalted, the Self-Subsisting.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9513 in ಕನ್ನಡ'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-kn', 'bpn-unsorted']
 +++
 *(ಮಾರ್ಚ್ 21ನೇ ತಾರೀಖು ನೌರೂeóï ಇದು ಬಹಾಯಿ ವರ್ಷದ ಪ್ರಥಮ ದಿನ ಇದು ಸಂಭ್ರವದ ದಿನವಾಗಿದೆ.)

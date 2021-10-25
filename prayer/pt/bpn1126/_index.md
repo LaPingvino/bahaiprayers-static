@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1126 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Deus! Ó meu Deus! Verdadeiramente, este Teu servo, humilde ante a majestade da Tua divina supremacia e submisso à porta da Tua unicidade, acreditou em Ti e nos Teus versículos e testificou a Tua palavra, tendo sido aceso com o fogo do Teu amor, imerso nas profundezas do oceano do Teu conhecimento, e atraído pelas Tuas brisas. Ele confiou em Ti, volveu a face a Ti, ofereceu-Te as suas súplicas e recebeu a certeza do Teu perdão e indulgência. Ele abandonou esta vida mortal e levantou voo para o reino da imortalidade, anelando pela graça de atingir a Tua presença.

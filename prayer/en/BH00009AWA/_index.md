@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH00009AWA in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH00009AWA']
 +++
 I give praise to Thee, O my God, that Thou hast awakened me out of my sleep, and brought me forth after my disappearance, and raised me up from my slumber.  I have wakened this morning with my face set toward the splendors of the Daystar of thy Revelation, through Which the heavens of Thy power and Thy majesty have been illumined, acknowledging Thy signs, believing in Thy Book, and holding fast unto Thy Cord.

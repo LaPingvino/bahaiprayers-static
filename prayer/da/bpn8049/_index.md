@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8049 in Dansk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 O Herre! I denne allerstørste guddommelige ordning godtager Du børns forbøn for deres forældre.

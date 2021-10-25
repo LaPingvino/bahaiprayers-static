@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12370 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O Thou Kind Lord! These lovely children are the handiwork….

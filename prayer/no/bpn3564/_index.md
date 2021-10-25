@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3564 in Norsk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O du uforlignelige Gud! O du kongerikets Herre! Disse sjeler er din himmelske hær. Bistå dem, og gjør dem seierrike med styrkene fra den høyeste hærskare, slik at hver av dem kan bli som et regiment og erobre disse land ved Guds kjærlighet og den guddommelige læres lys.

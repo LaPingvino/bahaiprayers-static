@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11481 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Tú, Cuya proximidad es mi deseo, Cuya presencia es mi esperanza, Cuyo recuerdo es mi anhelo, Cuya corte de gloria es mi objetivo, Cuya morada es mi meta, Cuyo nombre es mi curación, Cuyo amor es la luz de mi corazón, Cuyo servicio es mi más elevada aspiración! Te imploro, por Tu Nombre, mediante el cual has permitido que aquellos que Te han reconocido se remonten a las más sublimes alturas del conocimiento de Ti, y has facultado a quienes Te adoran con devoción para que asciendan a los recintos de la corte de Tus santos favores, que me ayudes a volver el rostro hacia Tu rostro, fijar la mirada en Ti y hacer mención de Tu gloria.

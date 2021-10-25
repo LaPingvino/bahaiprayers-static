@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7854 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Egli è Dio! O Signore mio Dio! O Tu Che sei l’Aiuto del debole, il Soccorritore del povero e il Liberatore dell’inerme che si volge a Te.

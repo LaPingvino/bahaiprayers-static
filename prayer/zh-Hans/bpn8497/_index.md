@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8497 in 简体中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 主啊，我们的上帝！赞美归于祢的圣名。祢确然洞悉不可见之物。求祢命定给我们如此佳美，只有祢包罗万象的知识才能权衡。祢是威权之上帝，全能唯祢，至爱唯祢。

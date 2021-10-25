@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10026 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó môj Bože, môj Pane, Cieľ mojej túžby! Tvoj služobník túži po spánku v úkryte Tvojho milosrdenstva a o odpočinku pod nebesami Tvojej milosti a úpenlivo Ta žiada o Tvoju opateru a ochranu.

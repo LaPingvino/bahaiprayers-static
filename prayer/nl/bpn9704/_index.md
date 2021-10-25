@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9704 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, mijn God! Geprezen zijt Gij dat Gij het vuur van goddelijke liefde in de Heilige Boom op de top van de verhevenste berg hebt ontstoken; die Boom die “noch van het Oosten, noch van het Westen”  is, dat vuur dat oplaaide tot de vlam ervan tot de hemelse Scharen omhoog steeg, en deze werkelijkheden daaruit het licht van leiding opvingen, waarna zij uitriepen: “Waarlijk hebben wij een vuur op de helling van de berg Sinaï ontwaard.” 

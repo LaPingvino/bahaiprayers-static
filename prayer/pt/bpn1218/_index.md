@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1218 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado seja o Teu Nome, ó Senhor meu Deus! Trevas caíram sobre todas as terras e as forças do mal cercaram todas as nações. Através delas, porém, percebo os esplendores da Tua sabedoria e posso discernir o brilho da luz da Tua Providência.

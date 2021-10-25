@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12257 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E lavea ne Koe, O toku Atua, a Tau tavini tela e nofo i te fale-puipui tenei, e motu katoatoa mai i sose tino na ko Koe, ko ona mata e fuli atu ki te auala o te Aso-Malulu o Tou alofa-fakamagalo, ko tena loto e nnau ki faka-asiiga gali o Tou alofa-mana.  A Koe, O toku Aliki, ko oti ne luku fakatasi aka a famai ko la ne oko aka kia ia i Tou auala.  E lavea ne Koe a ia e salasala se auala mo Au meaola faiite ko la ne soli tuakoi kae teke atu kia Koe, kola e nofo i te va o ia mo Au fagasele, ko la ko oti ne fakatumau a tena koga-nofo i te fenua tenei kae agasala atu kia Koe, pela foki mot e faka-lavelave ki Au tavini mai ite fuli atu kia Koe.  

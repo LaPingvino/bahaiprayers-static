@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5924 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Senyor meu! Tu saps que la gent està encerclada de dolor i calamitats i envoltada d’afliccions i dificultats. Tota proba assetja l’home i tota adversitat horrible l’assalta com l’atac d’una serp. No hi ha per ell abric ni asil sinó sota la Teva protecció, de la Teva preservació, resguardat i cura. 

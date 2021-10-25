@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1191 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvor a Ti, ó meu Deus! Sou um dos Teus servos que acreditou em Ti e nos Teus sinais. Vês como me volvi para a porta da Tua mercê e voltei a face em direção à Tua benevolência. Suplico-Te, pelos Teus mais excelentes títulos e excelsos atributos, que abras diante de mim os portais das Tuas dádivas. Ajuda-me, então, a fazer o que é bom, ó Tu, Possuidor de todos os nomes e atributos!

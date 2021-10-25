@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11736 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Ubangiji! Yā kai madōgarin tālikai! Kai nē matsirar duka bāyinka. Kai ka san asīrai da gaibu. Mū duka mun yi aikin zunubi, amma kai nē mai tsīrar da mazunubinta, mai rahama, mai jin-ƙai.

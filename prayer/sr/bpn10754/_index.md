@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10754 in Srpski српски'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 O Ti dobri Gospode! Ti si sazdao čitavo čovečanstvo od iste loze. Ti si naložio da svi treba da pripadaju jednoj porodici. U Tvom Svetom Prisustvu svi su Tvoje sluge, i čitav ljudski rod nalazi utočište u Tvom Svetilištu; svi su se okupili oko Tvoje Izdašne Trpeze; svi su obasjani svetlom Tvog Proviđenja.

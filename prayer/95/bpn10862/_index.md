@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10862 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 ##KE FAI FAKA-TASI I TE SEFULU-FA ITULA

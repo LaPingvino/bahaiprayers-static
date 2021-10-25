@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7635 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Priyè pou di nan fen reyinyon Asanble Espirityèl la.

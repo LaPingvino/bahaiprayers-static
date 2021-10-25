@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5427 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお神よ、おそば近く仕える者にとってあなたの試練は妙薬みょうやくであり、あなたを愛する

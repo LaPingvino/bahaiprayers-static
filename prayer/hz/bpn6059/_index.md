@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6059 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Ngo tangwe ove Muhona kondjenda yOye kovandu avehe! Ove omwinjo no ndjerera, tiza ovakarere wOye vekare mo ndjira yOye. Tupa jo ouhonapare tutange Ove erike. Mukuru Ove, tuhonga Ourike wOye nutu mune Ove erike. Ove erike omu nandjenda nomuyandje waavihe!

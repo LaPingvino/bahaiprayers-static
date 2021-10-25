@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7593 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Jumalan, Ikiaikaisimman, Suurimman, nimeen.

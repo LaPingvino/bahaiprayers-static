@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10350 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 I Guds, den Högstes, namn! Lovad och förhärligad vare Du, Herren Gud allsmäktig! Du, inför vars visdom den vise kommer till korta och saknar ord, inför vars kunskap den lärde bekänner sin okunnighet, inför vars makt den starke blir svag, inför vars rikedom den rike betygar sin fattigdom, inför vars ljus den upplyste är förlorad i mörkret, till vars kunskaps helgedom allt förståendes väsen vänder sig och kring vars närvaros allra heligaste alla människors själar kretsar.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9137 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Seigneur, nous inspirons la pitié, accorde-nous ta faveur ; nous sommes pauvres, donne-

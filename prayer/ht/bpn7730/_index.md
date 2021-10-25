@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7730 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen! O Ou menm Ki padone peche yo, Ki bay favè yo, Ki fè soufrans yo disparèt! 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1744 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er Guð!

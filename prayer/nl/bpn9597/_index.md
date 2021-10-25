@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9597 in Nederlands'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Geloofd zij Uw Naam, o Heer onze God! Gij zijt waarlijk de Kenner van het ongeziene. Beschik voor ons het goede naar de maat van Uw alomvattende kennis. Gij zijt de soevereine Heer, de Almachtige, de Meestgeliefde.

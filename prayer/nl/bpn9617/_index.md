@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9617 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O mijn Heer! O mijn Heer!

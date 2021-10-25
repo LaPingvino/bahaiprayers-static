@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7816 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Molti cuori gelidi, o mio Dio, sono stati messi in fiamme dal fuoco della Tua Causa e molti dormienti sono stati risvegliati dalla dolcezza della Tua voce. Quanti sono gli stranieri che hanno cercato riparo all’ombra dell’albero della Tua unicità e quanto numerosi gli assetati che hanno bramato la fontana delle Tue acque di vita nei Tuoi giorni!

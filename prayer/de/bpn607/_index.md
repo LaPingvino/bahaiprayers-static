@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn607 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht seiest Du, o Herr mein Gott! Wann immer ich wage, von Dir zu künden, hindern mich meine schweren Sünden und meine schlimmen Vergehen gegen Dich daran, und ich sehe mich Deiner Gnade gänzlich beraubt, außerstande, Dein Lob anzustimmen. Doch mein festes Vertrauen in Deine Großmut lässt meine Hoffnung auf Dich wieder aufblühen; meine Gewissheit, dass Du großmütig mit mir verfährst, gibt mir den Mut, Dich zu preisen und Dich um das zu bitten, was Du besitzest.

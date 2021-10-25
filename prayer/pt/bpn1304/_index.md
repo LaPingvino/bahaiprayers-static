@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1304 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó Deus. Como posso de Ti fazer menção, quando Tu estás santificado acima do louvor de toda a humanidade? Magnificado seja o Teu Nome, ó Deus. Tu és o Rei, a Verdade Eterna; sabes o que está nos céus e na terra, e a Ti devem todos voltar. Mandaste descer a Tua Revelação, divinamente ordenada, segundo uma medida clara. Louvado és, ó Senhor! A Teu mando, tornas vitorioso a quem Tu desejas, através das hostes do céu e da terra e de tudo o que entre eles existe. Tu és o Soberano, a Verdade Eterna, o Senhor de invencível poder.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10901 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Tavaeega e iluga ia Koe, O toku Atua!  Au se tokotasi o Au tavini, te la e talitonu kia Koe mo Au fakaasiiga.  E matea ne Koe me ko au ne saga tonu atu au pefea ki te mataloa o Tou alofa, kae fuli atu oku mata ki te kogaa-mea o Tou alofa-kaimalie.  Au e akai totuli kia Koe, i luga i Ou fakaekeega tafasili ite maluga mo Ou uiga lei tafasili i te malu, ke tala mai ki oku mata mataloa lasi o Au faka-manuiaaga.  Fesoasoani mai, ko te mea, ke fai te mea tela e onomea, O ko Koe Tela ko te Aofiaaga o igoa katoa mo uiga lei!

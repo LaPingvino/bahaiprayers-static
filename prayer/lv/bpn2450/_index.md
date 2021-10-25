@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2450 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slava Tev, ak Dievs, mans Kungs. Šīs ir tās dienas, kurās Tu visiem cilvēkiem esi vēlējis ievērot gavēni, lai caur to šķīstītos viņu dvēseles, lai viņi atraisītos no saiknēm ar visu, tik ar Tevi vien nē, un lai viņu sirdīs mājotu tikai tas, kas ir Tava cēlā galma cienīgs, Tavas Vienesmes Atklāsmes Sēdekļa cienīgs. Liec, ak Kungs, lai kļūst par dzīvības ūdeņu upi šis gavēnis un lai tas atnes to tikuma spēku, ar kādu Tu esi to apveltījis. Šķīsti ar to Savu kalpu sirdis, kuras šīs pasaules ļaunumiem nav izdevies novērst no tiekšanās uz Tavu Visgaišo Vārdu, kurus neskartus ir atstājis to troksnis un kņada, kas pulgo Tavas visdižās zīmes, kuras vēstīja, ka nāk Tava Izpausme visā Tevis piešķirtajā varenībā, spēkā, dižumā un godībā. Šie ir Tavi kalpi, kas ir saklausījuši Tavu aicinājumu un traucās pretī Tavai žēlsirdībai, kurus no Tevis nav atturējušas nedz likteņa kaprīzes, nedz arī cilvēku aprobežotība.

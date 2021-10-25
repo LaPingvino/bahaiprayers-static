@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10111 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Stretávajte sa s radosťou v srdciach a na začiatku stretnutia predneste túto modlitbu:

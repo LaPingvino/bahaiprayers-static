@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10024 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Bože, môj Bože! Ty si moja Nádej a môj Milovaný, môj najvyšší Cieľ a Túžba. S veľkou poníženosťou a úplnou oddanosťou sa k Tebe modlím, aby si ma urobil minaretom Svojej lásky vo Svojej krajine, lampou Svojho poznania medzi Svojimi bytosťami a zástavou božskej štedrosti vo Svojom kráľovstve.

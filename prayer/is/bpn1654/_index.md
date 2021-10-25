@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1654 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Þú Guð sem fyrirgefur! Þessir þjónar Þínir leita til ríkis Þíns og leita örlætis og náðar Þinnar. Ó Guð! Ger hjörtu þeirra góð og hrein svo þeir verðskuldi ást Þína. Hreinsa og helga anda þeirra svo að sól raunveruleikans skíni á þá. Hreinsa og helga augun svo þau greini ljós Þitt. Hreinsa og helga eyrun svo þau heyri kall ríkis Þíns.

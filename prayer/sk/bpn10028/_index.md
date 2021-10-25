@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10028 in Slovensky'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Prosím o Tvoje odpustenie, ó môj Bože a žiadam Po prepáčenie takým spôsobom, akým si želáš, aby sa Tvoji služobníci k Tebe obracali. Prosím ťa, aby si zmyl naše hriechy ako prináleží Tvojej Vláde a odpusť mne, mojim rodičom a tým, ktorí podľa Tvojho úsudku vstúpili do príbytku Tvojej lásky takým spôsobom, ktorý je hoden Tvojej neporovnateľnej zvrchovanosti a patrí sláve Tvojej nebeskej moci.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4280 in Esperanto'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 ##La mezlonga deviga preĝo

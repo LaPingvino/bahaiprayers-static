@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11710 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yabo ya tabbata a garēka yā Ubangiji Allāna. Ina rōƙon ka, don darajar wannan bayyana, da ta maida duhu haske, kuma da garēta a ka gina masallacin jama’a, da garēta kuma aka sauko rubutaccen allo, a ka shinfida ɓoyayyan kundi, ina rōƙon ka sauko mana, ni da abōkan zamāna, abun da zai sā mu hira wajen samāniyar ɗaukakarka, kuma abun da zai tsarkakar da mu da dauɗar shakka da ta hana waɗanda ba su amince ba, shiga cikin zauren ɗayantakarka. Yā Ubangijina, gā ni, nī nē wanda ya sarƙafu ga igiyar alfurmarka, kuma ya rātayu ga zanen rahama da alhērinka. Ka zubo mana ni da duk waɗanda nike ƙauna, albarkan nan da ka wārewa zāɓaɓɓun bāyunka.

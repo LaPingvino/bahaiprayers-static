@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn465 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O mein Gott! Du Vergeber der Sünden, Verleiher der Gaben, Verbanner der Not!

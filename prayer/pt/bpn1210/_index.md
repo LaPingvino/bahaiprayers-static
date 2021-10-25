@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1210 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Consente, ó meu Deus, que eu me aproxime de Ti e viva no recinto da Tua corte, pois a minha separação quase me consumiu. Faze-me repousar à sombra das asas da Tua graça, pois a chama do meu afastamento de Ti dissolveu o meu coração. Que me acerques mais do rio que é a verdadeira vida, pois a minh’alma arde de sede na sua incessante busca de Ti. Os meus suspiros proclamam a amargura da minha angústia, ó meu Deus; as minhas lágrimas atestam o meu amor por Ti.

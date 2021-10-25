@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9384 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Izy Ilay Mpangoraka! Ilay Malemy fanahy Indrindra!

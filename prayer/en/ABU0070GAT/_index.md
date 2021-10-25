@@ -1,6 +1,6 @@
 +++
 title = 'Prayer ABU0070GAT in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'ABU0070GAT']
 +++
 O Thou kind Lord! These are Thy servants who have gathered in this meeting, have turned unto Thy kingdom and are in need of Thy bestowal and blessing. O Thou God! Manifest and make evident the signs of Thy oneness which have been deposited in all the realities of life. Reveal and unfold the virtues which Thou hast made latent and concealed in these human realities.

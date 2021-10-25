@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10106 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Chvála buď Tebe, ó Pane môj Bože! Úpenlivo Ťa prosím pri tomto Zjavení, ktoré zmenilo tmu v svetlo, ktorým bol vystavaný Navštevovaný Chrám, Spísaná Tabuľka zjavená a Rozprestretý Zvitok odhalený, zošli mne a tým, ktorí sú mojimi spoločníkmi to, čo nám umožní vzlietnuť do nebies Tvojej všepresahujúcej slávy a čo z nás zmyje škvrnu pochybností, ktoré podozrievavým zabránili vstúpil do svätostánku Tvojej jednoty.

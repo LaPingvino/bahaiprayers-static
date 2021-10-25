@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5185 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Maha mulialah Engkau, ya Rabi Tuhanku! Aku bersyukur kepada-Mu, karena Engkau telah menciptakan daku pada hari-hari-Mu, dan meresapkan kasih-Mu serta pengetahuan-Mu ke dalam diriku. Aku memohon kepada-Mu, demi nama-Mu, yang melaluinya mutiara-mutiara indah hikmat-Mu dan ucapan-Mu dikeluarkan dari khazanah kalbu hamba-hamba-Mu yang karib dengan Dikau, dan yang melaluinya sinar Surya nama-Mu, Yang Maha Penyayang, telah dipancarkan ke atas segala yang ada di langit-Mu dan di bumi-Mu, agar menganugerahi daku, demi rahmat dan kedermawanan-Mu, dengan kurnia-Mu yang menakjubkan dan yang gaib.

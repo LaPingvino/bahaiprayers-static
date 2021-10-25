@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12993 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-111', 'bpn-unsorted']
 +++
 *A vinevel na bura tara gai Kai Ala (Lolovina) tara  vavaurua nabung tuk tara uravinun na bung kai ra  vavautuea gai. Togono ra umana bung koko da ian ta  magit ma koko da momo na tava livuan tara pakana  bung a matana keake I tutua ma I ki ba. lara  pakanabung upi da araring ma vagomgom ra tulungean  tabu. Gono ra vinevel vakir I ot pa nina diat a vinun ma  ailima kadia kilala, aumana tena vinavana aumana mait  ma lapun ma a vavina Ibalaure ra nat na bul ba I varvau  boko. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn672 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist der König, der Allwissende, der Weise.

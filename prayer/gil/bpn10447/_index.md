@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10447 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 Am bwai te mimitong; Atuau!  Ma ngke akea karawawata ake a uotaki ni Kawaim, ao e na kangaa iai ni kinaaki ake a Tangiraki ni koaua; ao ngke tao tiaki man taian kataitai ake a tabekaki i bukin Tangiram, ao e na kanga riki ni kaotaki iai ngkanne rineia ake a Mateakiniko? Korakoram bon au tia kakoaua!  Raoiroia ake a Maamateakiniko ni kabane bon te rannimata ake a kawaanakoi, ao raun nanoia ake a Ukoukoriko bon korakain nanoia naake a ngirangiraia, ao kanaia naake a kaaraki ni kan kaaitibo ma Ngkoe bon taribin nanoia aika a uruaki.

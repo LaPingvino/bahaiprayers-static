@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9381 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitra Mpangoraka! Fisaorana no atolotra Anao, satria nanaitra sy nampahatsiaro tena ahy Ianao. Nomenao maso mahiratra aho sy sofina malady. Notarihinao amin’ny Lalanao aho ary notantananao ho eny amin’ny Fanjakanao. Nampisehoanao ahy ny lalana mahitsy ary nampidirinao ao amin’ny Sambo Fiaran’ny Famonjena aho.

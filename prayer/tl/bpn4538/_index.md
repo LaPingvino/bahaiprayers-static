@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4538 in Filipino'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Purihin Ka, O Panginoon kong Diyos! Sumasamo ako sa Iyo sa Rebelasyon na ito na naging sanhi ng pagliliwanag ng karimlan, na sa pamamagitan niyon ay naitayo ang Templong Laging Dinadalaw, at naihayag ang Nakasulat na Tableta, at naalisan ng takip ang Rolyong Nakaladlad, na ihulog sa akin at sa mga nasa aking piling yaong makatutulot na kami’y pumailanlang sa mga langit ng Iyong nangingibabaw na kaluwalhatian, at makapaghuhugas sa amin ng mantsa ng mga alinlangang nakahahadlang sa mga mapaghinala mula sa pagpasok sa tabernakulo ng Iyong kaisahan.

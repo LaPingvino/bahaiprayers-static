@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7726 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye, Bondye mwen! Sèvant sa a ap rele Ou, li mete konfyans li nan Ou, li vire figi li nan direksyon Ou, l’ap sipliye Ou pou gaye bonte selès Ou yo sou li, devwale pou li mistè espirityèl Ou yo, epi voye sou li limyè ki soti nan Divinite Ou Menm menm.

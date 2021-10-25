@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2659 in Magyar'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Uram! Ó, Uram!

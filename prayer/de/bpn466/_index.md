@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn466 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O mein Gott! O mein Gott! Wahrlich, Dein Diener, der demütig vor der Majestät Deiner höchsten, göttlichen Gewalt und bescheiden am Tor Deiner Einzigartigkeit steht, hat an Dich und Deine Verse geglaubt. Er hat für Dein Wort gezeugt und war entflammt vom Feuer Deiner Liebe. Tief war er in das Meer Deiner Erkenntnis eingetaucht und angezogen von Deinem Windhauch. Auf Dich hat er sich verlassen, Dir sein Angesicht zugewandt und Dir seine Gebete dargebracht, Deiner Vergebung und Verzeihung gewiss. Nun hat er dieses vergängliche Leben verlassen und sich emporgeschwungen in der Unsterblichkeit Reich, voll Sehnsucht nach der Gnade, Dir zu begegnen.

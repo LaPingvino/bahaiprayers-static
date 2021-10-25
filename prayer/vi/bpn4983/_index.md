@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4983 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, lạy Đấng Tôn sư của con, Ngài là Tôn chỉ hoài vọng của con!

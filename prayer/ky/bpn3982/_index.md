@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3982 in Кыргыз'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ky', 'bpn-unsorted']
 +++
 Диний Жыйындын чогулушун жабуу учурунда окуу үчүн багышталган келме.

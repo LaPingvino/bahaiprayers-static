@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11769 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Topa ku, nyaa dek Muja ku, Raja ku, Hasrat ku! Onileh in jolae dek tungang tanon terima kasih ku tudu Ingan? Oku mok ngolok, Ingan dek odak oku ngo-oh. Oku ngipunuak Ingan, Ingan dengan sudi bantue kos oku nuju Ingan. Oku mbok kodae nyaa dek kobos, Ingan geh dek kidip oku pakai pi’in pingidip. Oku mbok layuk, Ingan ogi kidip oku pakai sungei pingudus pingunang Ingan dek paman nog sok Pen dek Selalu Masik.

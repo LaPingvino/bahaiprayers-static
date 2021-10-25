@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8559 in 简体中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 主啊，我明白：我的罪过让我在祢尊前满面羞愧，它们使我的背脊不堪重负，并搅扰我朝见祢的圣美容颜，它们将我团团围住，从四面八方将我截堵，使我难以获得祢神圣威权的启示。

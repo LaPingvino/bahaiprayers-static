@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6307 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 ##Birth of the Báb 

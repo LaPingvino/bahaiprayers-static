@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5285 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Gospodaru, Bože, Utočište u mojoj boli! Zaštito u mom nemiru. Spasu u teškim trenucima i Pratioče u mojoj usamljenosti! Utjeho moja u mojoj muci i brižni Prijatelju u mojoj samoći! Otklonitelju moje tuge i Oprostitelju mojih grijeha!

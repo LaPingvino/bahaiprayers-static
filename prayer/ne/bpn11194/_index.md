@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11194 in नेपाली'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ne', 'bpn-unsorted']
 +++
 *नव–रुज मार्च २१, बहाई वर्षको पहिलो दिन हो । 

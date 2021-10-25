@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1287 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Em Nome do Teu Senhor, o Criador, o Soberano, o Todo-Suficiente, o Excelso, Aquele cujo auxílio é implorado por todos os homens.

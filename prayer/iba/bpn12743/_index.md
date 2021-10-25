@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12743 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Ba hari keterubah Pemajik Jeman niki Maligai Iya ti

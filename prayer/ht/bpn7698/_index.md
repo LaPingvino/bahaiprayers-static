@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7698 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Nan Non Bondye, Pi Wo a! Se Ou menm Ki louwe ak glorifye, Senyè a, Bondye Toupisan an! Devan sajès Ou, sajès moun ki saj la rate bi a e li echwe, devan konesans Ou, moun ki edike a oblije admèt inyorans li, devan pisans Ou, moun ki fò a parèt fèb, devan richès Ou, moun ki rich la bay temwayaj sou povrete li, devan limyè Ou, moun ki eklere a pèdi nan fènwa. Vrè nati tout konprann vire li nan direksyon tanp konesans Ou epi nanm tout limanite antoure tabènak prezans Ou.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7666 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye Ki Gen Yon Kè Ki Sansib! Mwen remèsye Ou poutèt Ou te reveye mwen, fè mwen konsyan. Ou te ban mwen yon je ki wè e Ou te ban mwen favè yon zòrèy ki tande, Ou te mennen mwen nan wayòm Ou e Ou te gide mwen nan chemen Ou. Ou te montre mwen bon direksyon an e Ou te fè mwen antre nan lach delivrans lan. O Bondye! Kenbe mwen fidèl e fè mwen fèm ak solid. Pwoteje mwen kont eprèv feròs yo epi defann mwen, ban mwen abri anndan fòterès trè pisan an ki se Alyans ak Testaman Ou. Se Ou menm Ki Gen Pouvwa. Se Ou menm Ki Wè. Se Ou menm Ki Tande. 

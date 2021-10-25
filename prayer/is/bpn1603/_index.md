@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1603 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Leyf mér, ó Guð minn, að nálgast Þig og dvelja í forgarði hásætis Þíns, því fjarlægðin frá Þér hefur nærfellt eytt mér upp. Lát mig hvílast í skugg­anum af vængjum náðar Þinnar, því logi að­skilnaðar við Þig hefur tært hjartað í brjósti mér. Drag mig nær fljótinu sem er lífið sjálft, því sál mín brennur af þorsta í þrotlausri leit að Þér. And­vörp mín, ó Guð minn, lýsa beiskju angistar minnar og tárin sem ég felli vitna um ást mína til Þín.

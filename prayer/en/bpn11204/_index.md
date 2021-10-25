@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11204 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 ##Revealed to the Bahá'ís of Canada and Greenland

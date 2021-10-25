@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10109 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Môj Bože, môj Oheň a moje Svetlo! Dni, ktoré si vo Svojej Knihe pomenoval Ayyám¬ i¬ Há práve začali, ó Ty, ktorý si Kráľom mien, a pôst, ktorý Tvoje najvznešenejšie Pero nariadilo všetkým v kráľovstve Tvojho stvorenia sa blíži. Úpenlivo Ta prosím, ó môj Pane, pri týchto dňoch a pri tých, ktorý sa počas tohto obdobia pridržiavali lana Tvojich prikázaní a pevne uchopili rukoväť Tvojich nariadení, daj, aby bolo každej duši pridelené miesto na Tvojom dvore a možnosť uzrieť zjavenia nádhery svetla Tvojej tváre.

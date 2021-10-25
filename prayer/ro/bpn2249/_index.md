@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2249 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lumina şi gloria, salutul şi lauda fie asupra

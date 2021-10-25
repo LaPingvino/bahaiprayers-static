@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3538 in Norsk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Morgen

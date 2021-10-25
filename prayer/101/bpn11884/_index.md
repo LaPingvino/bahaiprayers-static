@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11884 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa ku! O Topa ku! Totap, oku seru Ingan bia mujok bito’os ndu joka pinutuab Ingan, odak Ingan supaya sua perasie Ingan pod-pod muun ndu tunt jiwa-jiwa dimutik. Odak bala mahir daang pingodak Ingan duoh pangibonar Ingan.  

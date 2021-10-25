@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10823 in Chichewa'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ny', 'bpn-unsorted']
 +++
 Ulemerero ukhale kwa Inu, O Mbuye Mulungu wanga! Ndikupemphani Inu m'dzina Lanu. kupyolera mmene Iye Amene Ndiye kukongola Kwanu, wakhazikitsidwa pa ufumu wa Chipembedzo Chanu, ndipo ndi m'dzina Lanu kupyolera m'lomwero musintha zinthu zonse ndipo musonkhanitsa zinthu zonse pamodzi, ndi kuitana zinthu zonse ku bwalo ndikusupa zinthu zonse, ndi kuteteza zinthu zonse.Ndikupemphani Inu kulondera mdzakaziyu amene wathawira ku mpumulo Wanu ndipo wafunafuna mthunzi wa Amene mwa Iye Inu mwaonekeramo ndipo waika chikhulupiriro ndi chigomezero chake chonse mwa 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7809 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Gloria a Te o Signore mio Dio! Non avvilire colui che esaltasti col potere della Tua eterna sovranità e non allontanare da Te colui al quale concedesti di entrare nel tabernacolo della Tua eternità. Vorresti respingere, o mio Dio, colui che ponesti all’ombra della Tua Signorìa, e allontanare da Te, o mio Desìo, colui al quale fosti rifugio? Potresti avvilire colui che innalzasti, o dimenticare colui al quale concedesti di ricordarTi? 

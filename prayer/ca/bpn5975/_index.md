@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5975 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu meu! La lloança sia per Tu per haver encès el foc de l’amor diví en el Sagrat Arbre què està al cim de la muntanya més elevada: aquest Arbre què “no és de l’est ni de l’oest”, aqueix foc què cremà fins que la seva flama es remuntà fins al Concurs de dalt i la llum de guia i exclamaren: “Veritablement hem percebut un foc al vessant de la Muntanya del Sinaí”.

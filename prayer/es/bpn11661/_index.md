@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11661 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios misericordioso! ¡Oh Tú que eres fuerte y poderoso! ¡Oh bondadosísimo Padre! Estos siervos se han reunido y se han vuelto hacia Ti, ofreciendo súplicas ante Tu umbral, deseando los dones infinitos procedentes de Tu gran seguridad. No tienen otro propósito más que Tu agrado. No tienen otra intención más que servir al mundo de la humanidad.

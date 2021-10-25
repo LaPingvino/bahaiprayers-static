@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7718 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Ou menm Senyè mizèrikòdye a! Nou se sèvitè devan Papòt Ou, k’ap chèche abri nan Pòt sakre Ou a. Nou pa chèche lòt refij sof nan vwazinaj pilye solid sa a, nou pa gade okenn lòt kote pou jwenn sekirite nou esepte anba pwoteksyon Ou. Pwoteje nou, beni nou, ban nou sipò, fè nou devlope pou nou kapab renmen sèlman bon plezi Ou, jiskaske se sèlman lwanj Ou nou chante, jiskaske se sèlman chemen laverite nou swiv, pou nou kapab vin ase rich pou nou abondone tout bagay esepte Ou menm, epi jwenn favè nou yo nan lanmè bonte Ou a, pou nou kapab toujou travay pou egzalte Koz Ou a ak gaye dous pafen Ou yo toupatou, pou nou kapab bliye tèt nou e vin okipe sèlman avèk Ou menm, pou nou mete akote tout lòt bagay e vin enterese nan Ou menm sèlman.

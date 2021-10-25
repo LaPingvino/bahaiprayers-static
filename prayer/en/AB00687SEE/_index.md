@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB00687SEE in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB00687SEE']
 +++
 O Thou, my God, Who guidest the seeker to the pathway that leadeth aright, Who deliverest the lost and blinded soul out of the wastes of perdition, Thou Who bestowest upon the sincere great bounties and favors, Who guardest the frightened within Thine impregnable refuge, Who answerest, from Thine all-highest horizon, the cry of those who cry out unto Thee.  Praised be Thou, O my Lord!  Thou hast guided the distracted out of the death of unbelief, and hast brought those who draw nigh unto Thee to the journey's goal, and hast rejoiced the assured among Thy servants by granting them their most cherished desires, and hast, from Thy Kingdom of beauty, opened before the faces of those who yearn after Thee the gates of reunion, and hast rescued them from the fires of deprivation and loss—so that they hastened unto Thee and gained Thy presence, and arrived at Thy welcoming door, and received of gifts an abundant share.

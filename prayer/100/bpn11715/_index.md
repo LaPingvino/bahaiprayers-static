@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11715 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Allāna, majibincīna, maƙārashin duk wata bukātāta ! Gā bāwanka nan yana niyyar ya rumtsa a cikin inuwar rahamarka, yā kwanta ƙalƙashin samāniyar alfurmarka, yana rōƙon umurninka da tsarinka.

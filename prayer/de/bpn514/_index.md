@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn514 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du gütiger Herr! Dies sind Deine Diener, die in dieser Versammlung zusammengekommen sind. Sie wenden sich Deinem Königreich zu, Deiner Gnadengaben bedürftig. O Gott! Offenbare die Zeichen Deiner Einheit. Lass sie sichtbar werden, wie sie in der ganzen Lebenswirklichkeit verwahrt sind. Enthülle und entfalte die Tugenden, die Du in die Wirklichkeit des Menschen verschleiert und verborgen hast.

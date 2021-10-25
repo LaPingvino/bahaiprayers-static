@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1735 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er hinn máttugi, fyrirgefandinn, hinn vor­kunnláti!

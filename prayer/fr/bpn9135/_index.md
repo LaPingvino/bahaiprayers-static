@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9135 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Loué soit ton nom, ô Seigneur, notre Dieu ! En vérité, tu connais ce qui est invisible. Accorde-nous tout le bien que peut mesurer ton savoir infini. Tu es le Seigneur souverain, le Tout-Puissant, le Bien-Aimé.

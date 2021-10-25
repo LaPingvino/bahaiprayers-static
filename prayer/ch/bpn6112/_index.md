@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6112 in Chamorro'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##KASAMIENTO

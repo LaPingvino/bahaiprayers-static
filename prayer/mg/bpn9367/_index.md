@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9367 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Izy no Mpanjaka, Ilay Mpahalala ny zavatra rehetra, Ilay Hendry!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12483 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 Thou seest me, O my Lord, with my face turned towards the heaven…

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5907 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ¡Lloat sia el Teu Nom, oh Déu meu i el Déu de totes les coses, la meva Glòria i la Glòria de totes les coses, el meu Desig i el Desig de totes les coses, la meva Força i la Força de totes les coses, el meu Rei i el Rei de totes les coses, el meu Posseïdor i el Posseïdor de totes les coses, el meu Objectiu i l’Objectiu de totes les coses, el meu Motor i el Motor de totes les coses! No permetis, T’ho imploro, que estigui separat de les Teves tendres mercès i allunyat de les vores de la Teva proximitat.

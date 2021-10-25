@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4686 in հայերեն'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hy', 'bpn-unsorted']
 +++
 Հանուն Աստծու` Նախասկզբնականի, Ամենամեծագույնի:

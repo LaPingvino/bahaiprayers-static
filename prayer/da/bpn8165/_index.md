@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8165 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Han er Den Mægtige, Tilgiveren, Den Medfølende!

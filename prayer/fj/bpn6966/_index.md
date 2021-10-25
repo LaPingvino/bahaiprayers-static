@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6966 in Fiji'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fj', 'bpn-unsorted']
 +++
 *(Na Masu me baleti ira na mate ka me dau vakayagataki e na vukudra na Bahá'í' era sa yacova na yabaki 15. “E na veimasu vakaroti kece vakaBahá'í, oqo e dua na kena e rawa ni cavuqaqataka vata na lewe ni vakabauta, e dodonu me cavuta e dua vei ira na lewe ni vakabauta ka me ra tucake kece tiko na lewe ni vavakoso. E sega ni gadrevi e ke me da qarava na Vanua Tabu (Qiblih, o ya mai Isireli) e na gauna e cavuqaqataki tiko kina na masu oqo." -	Tauri mai e na iVola Tabu o ya na ‘Synopsis & Codification of the Kitab-i-Aqdas’.)

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2226 in România'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Tu ştii bine, o, Dumnezeul meu, că suferinţele s-au abătut asupra mea din toate părţile, şi nimeni nu le poate risipi sau preschimba în afară de Tine. Eu ştiu cu certitudine, prin virtutea iubirii mele pentru Tine, că Tu nu vei face niciodată suferinţele să se abată asupra vreunui suflet decât dacă doreşti să-i înalţi rangul în Paradisul Tău celest şi să-i întăreşti, în această viaţă pământească, inima cu bastionul puterii Tale atotbiruitoare, ca să nu se încline către vanităţile acestei lumi. Tu ştii într-adevăr că în toate condiţiile voi îndrăgi pomenirea Ta mult mai mult decât posesiunea a tot ceea ce se află în ceruri şi pe pământ.

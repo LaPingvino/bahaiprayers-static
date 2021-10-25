@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6264 in Luganda'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Nyinza ntya okusatawo okw'ebaka, Ayi Katonda wange, nga abo abegomba okubeera naawe tebebaka olw'okwawukana naawe; era nyinza ntya okweganzika n'empumula nga emyoyo gy'abaagalwa Bo girumwa obujiji, olw'okubeera ewata okuva Gyoli?

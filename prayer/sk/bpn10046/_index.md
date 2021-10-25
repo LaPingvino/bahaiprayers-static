@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10046 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Ty odpúšťajúci Bože! Títo služobníci sa obracajú k Tvojmu kráľovstvu a hľadajú Tvoju milosť a štedrosť. Ó Bože! Učiň ich srdcia dobrými a čistými, aby sa stali hodnými Tvojej lásky. Očisti a posväť ich duchov, aby na nich mohlo zažiariť Slnko Skutočnosti. Očisti a posväť ich oči, aby mohli vnímať Tvoje svetlo. Očisti a posväť ich uši, aby mohli začuť volanie Tvojho kráľovstva.

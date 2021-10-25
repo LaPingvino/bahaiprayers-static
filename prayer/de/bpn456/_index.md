@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn456 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O mein geliebter Gott! Hier sind Deine Diener, die Deine Stimme vernehmen, Deinem Wort antworten und Deinen Ruf empfangen. Sie glauben an Dich, und überzeugt von Deinen Versen, anerkennen sie Deine Beweise, hören auf Dein Zeugnis, wandeln auf Deinem Pfade und folgen Deiner Führung. O Geliebter! Gib, dass wir auch in Deine Geheimnisse eingeweiht werden, dass wir die Sinnbilder Deines Buches, die Zeichen Deiner Schriften, die frohen Botschaften Deiner Sendbriefe und Tafeln verstehen. Hilf uns, dass wir den Saum Deines Gewandes ergreifen und dem Glanze Deiner Größe hörig sind; lass unsere Füße den Pfad Deines Bundes betreten und unsere Herzen fest sein in Deinem Testament.

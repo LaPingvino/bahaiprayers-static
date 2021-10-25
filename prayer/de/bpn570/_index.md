@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn570 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Du bist es, o mein Gott, der durch Seine Namen die Kranken heilt und die Leidenden wiederherstellt, der die Dürstenden tränkt und die Schmerzgequälten beruhigt, der die Verirrten führt und die Erniedrigten erhöht, der die Armen bereichert und die Unwissenden erleuchtet, der die Mühseligen erheitert und die Beladenen erfreut, der die Frierenden wärmt und die Unterdrückten aufrichtet. Durch Deinen Namen wurde alles Erschaffene aufgerüttelt, die Himmel wurden ausgebreitet, die Erde gegründet und die Wolken gebildet, auf die Erde herniederzuregnen. Dies ist wahrlich ein Zeichen Deiner Gnade für alle Deine Geschöpfe.

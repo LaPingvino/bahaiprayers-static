@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6634 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 사방에서 영혼들을 공격하는 병을,

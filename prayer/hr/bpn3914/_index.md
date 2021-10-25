@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3914 in Hrvatski'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-hr', 'bpn-unsorted']
 +++
 Slava Tebi, o, Gospode Bože moj! Molim Te da oprostiš meni i onima koji podupiru Tvoju vjeru. Doista, Ti si vrhovni Gospodar, Oprostitelj, Najdarežljiviji. O, moj Bože! Omogući onim Tvojim slugama koji su lišeni spoznaje da pristupe Tvojoj stvari; jer jednom kada čuju o Tebi, svjedočit će o istini do Sudnjeg dana i neće osporavati otkrivenja Tvoje dobrostivosti. Spusti na njih znamenje Tvoje milosti i daj im, ma gdje živjeli, obilan udio onoga što Si namijenio pobožnim među Tvojim slugama. Ti si, doista, Vrhovni Vladar, Dobrostivi, Dobrotvor.

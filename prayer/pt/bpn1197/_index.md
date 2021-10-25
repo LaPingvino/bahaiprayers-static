@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1197 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó Senhor do mundo e Desejo das nações, ó Tu que Te manifestastes com o Nome Supremo, por meio do qual as pérolas da sabedoria e das palavras surgiram das conchas do grande mar do Teu conhecimento, e os céus da revelação divina se adornaram com a luz do alvorecer do Teu Semblante.

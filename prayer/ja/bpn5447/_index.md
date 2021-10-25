@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5447 in 日本語'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 創造者におわし、主権者、すべてを満たし給う御方、最も崇高なる御方、すべての者が援助を求め、嘆願する御方である汝らの主の御名において。

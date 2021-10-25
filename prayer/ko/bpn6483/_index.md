@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6483 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 ##24시간에 한번씩 낭송함

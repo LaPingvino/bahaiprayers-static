@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2218 in România'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Te implor să mă ierţi, o, Stăpânul meu,

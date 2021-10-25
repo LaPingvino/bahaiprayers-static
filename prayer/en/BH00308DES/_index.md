@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH00308DES in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH00308DES']
 +++
 Glory be unto Thee, O Lord of the world and Desire of the nations, O Thou Who hast become manifest in the Greatest Name, whereby the pearls of wisdom and utterance have appeared from the shells of the great sea of Thy knowledge, and the heavens of divine revelation have been adorned with the light of the appearance of the sun of Thy countenance.

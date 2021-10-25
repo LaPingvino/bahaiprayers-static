@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9224 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Glorifié sois-tu, ô Seigneur, mon Dieu ! Chaque fois que j’ose te mentionner, le poids de mes péchés et la gravité de mes offenses à ton encontre m’en empêchent, et je me sens entièrement privé de ta grâce, incapable de célébrer ta louange. 

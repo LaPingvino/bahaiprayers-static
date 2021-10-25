@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2536 in Русский'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ru', 'bpn-unsorted']
 +++
 Скажи: Бог оделяет всем превыше все-

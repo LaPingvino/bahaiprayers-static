@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9908 in አማርኛ.'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-am', 'bpn-unsorted']
 +++
 አምላኬ፣ ጌታዬ ፣የልቤ ዓላማ ሆይ! ይህ አገልጋይህ እንክብካቤህንና ጥበቃህን በመማፀን በምሕረትህ ጥላ ሥር ሊተኛ በፀጋህም ከለላ ሥር ሊያርፍ ይፈልጋል፡፡  

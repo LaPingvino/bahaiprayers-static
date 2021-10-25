@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1286 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó Senhor, Tu que trouxeste à existência todas as coisas criadas, através do poder do Teu mando.

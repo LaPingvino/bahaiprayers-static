@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2365 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slava Tev, ak mans Dievs! Es esmu viens no Taviem kalpiem, kas ir ticējis Tev un Tavām zīmēm. Tu redzi, ka es esmu pagriezies uz Tavas žēlastības vārtiem un skatu cēlis uz Tavu mīlošo laipnību. Piesaucot Tavu viscildeno vārdu un Tavas visaugstākās īpašības, es Tevi lūdzu, paver man vārtus uz Tavām veltēm. Palīdzi man darīt labu, Tu visu vārdu un visu tikumu Valdniek!

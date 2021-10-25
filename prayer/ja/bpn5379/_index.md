@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5379 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお主よ、あなたのお顔は私の崇敬すうけいの的であり、あなたの美は私の聖域であり、あなた

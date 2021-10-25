@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8522 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的上帝呀！祢是赦罪者，施与者，解除苦难者！

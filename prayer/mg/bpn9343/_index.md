@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9343 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ianao, ry Andriamanitro ô, no Ilay izay ny Anarany no mitondra fahasitranana ho an’ny marary, fahatomombanana ho an’ny kilemaina,  rano fisotro ho an’ireo mangetaheta, fahatoniana ho an’ny ory, fitarihana ho an’ny diso lalana, fisandratana ho an’izay ambaniana, harena ho an’ny mahantra, fahazavana ho an’ny tsy ampy fahalalana, hazavana ho an’ireo kivy, hafanana ho an’ny mangatsiaka ary fisandratana ho an’ny ampahoriana. Noho ny Anaranao, ry Andriamanitro ô, taitra ny zavaboahary rehetra, nisokatra ny lanitra, nohariana ny tany, nasandratra ny rahona ary natao hitondra orana amin’ny tany. Izany marina tokoa no antoky ny Fahasoavanao amin’ireo voaharinao rehetra.

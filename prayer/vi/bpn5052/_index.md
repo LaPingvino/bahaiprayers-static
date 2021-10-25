@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5052 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, vinh quang thuộc về Ngài; lạy Thượng Đế của con, lời chúc tụng cũng thuộc về Ngài!

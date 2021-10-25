@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1318 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 #A SER RECITADA DIARIAMENTE, PELA MANHÃ, AO MEIO-DIA E AO ANOITECER

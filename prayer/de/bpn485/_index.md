@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn485 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Die Lehrer und Freunde sollen täglich dieses Bittgebet sprechen:O Du gütiger Herr! Preis sei Dir, dass Du uns die Straße Deiner Führung zeigtest, das Tor zu Deinem Königreich auftatest und Dich durch die Sonne der Wirklichkeit offenbartest. Den Blinden gibst Du das Augenlicht, den Tauben Gehör, Du erweckst die Toten, Du bereicherst die Armen, Du weisest den Weg denen, die in die Irre gegangen. Du lenkst die ausgetrockneten Lippen zum Springquell der Führung, Du lässest den dürstenden Fisch zum Meere der Wirklichkeit gelangen und lädst die Zugvögel ein in den Rosengarten der Gnade.

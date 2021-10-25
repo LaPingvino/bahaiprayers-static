@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1670 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Vegsamaður sért Þú, ó Drottinn Guð minn! Ég sárbæni Þig við Þitt mesta nafn, sem Þú vaktir með þjóna Þína og byggðir upp borgir Þínar, og við ágætustu nafnbætur Þínar og tign­ustu eigindir, að aðstoða fólk Þitt við að snúa sér í átt til margfaldra gjafa Þinna og beina ásjónum sínum að tjaldbúð visku Þinnar. Græð Þú sjúk­dómana, sem steðjað hafa að sálunum á alla vegu og aftrað þeim frá því að beina augum að para­dísinni, sem liggur í skjóli Þíns yfirskyggjandi nafns, sem Þú ákvaðst að vera skyldi konungur allra nafna öllum á himni og jörðu. Þú ert þess megnugur að gera það sem Þér þóknast. Í Þínum höndum er veldi allra nafna. Enginn er Guð nema Þú, hinn máttugi og vitri.

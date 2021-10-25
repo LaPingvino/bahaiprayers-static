@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6043 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Merihepura omuini kove Mukuru, Ove kutja wendjiutira kutja mbikutjiwe nu mbirikotamene kOve. Numeyarisa moruveze ndwi wina, amehivirike omasa wOye, amezemburuka oungundi wandje, nouharupu mbuza mOve. Muhona Mukuru, kapena warue, pendje nayOve Mukuru, ngumayeta ombatero tjimbiri mouzeu, noutoni mbumau ndjitakamisa moupwe.  

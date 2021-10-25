@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4922 in Vanuatu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O God!  O God blong Mi.  Hemia wan wokwoman blong Yu we i singaotem Yu.  Hem i trastem Yu.  Hem i tanem fes blong hem i go long Yu.  Hem i plis long Yu blong Yu givim ol blesing blong heven i kam long hem.  Hem i askem se Yu soemaot long hem ol sikret blong spirit, mo Yu givim olgeta laet blong Yu i go long hem.

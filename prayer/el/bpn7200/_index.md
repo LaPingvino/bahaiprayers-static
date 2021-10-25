@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7200 in ελληνικά'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 Αυτός είναι ο Ισχυρός, ο Συγχωρών, ο Φιλεύσπλαχνος!

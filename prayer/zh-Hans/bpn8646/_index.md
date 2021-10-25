@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8646 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 上帝福音的传播者可于每天清晨吟诵此祷文。

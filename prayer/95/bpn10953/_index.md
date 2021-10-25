@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10953 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 A Ia ko te Fakagata Masaki, ko te Lava-fua-ia-Ia, ko te Feasoasoani, ko te Fakamagalo-Katoatoa, ko te Kaimalie-Katoatoa.

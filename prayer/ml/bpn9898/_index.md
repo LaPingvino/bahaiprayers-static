@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9898 in മലയാളം'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ml', 'bpn-unsorted']
 +++
 മാനവസന്തതികളേ!

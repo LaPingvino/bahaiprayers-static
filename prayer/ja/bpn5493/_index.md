@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5493 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお主よ。私は子どもであります。私がご慈愛の下陰したかげで成長できるようなし給え。私は若木であります。ご恩恵の雲より注ぐ雨で私を養い給え。私は愛の園の苗木なえぎであります。実を結ぶ木となし給え。

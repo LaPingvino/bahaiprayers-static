@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7626 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Nenpòt moun k’ap vwayaje nan divès kote pou anseye, se pou li resite priyè sa a sou mòn yo, nan dezè yo, sou tè a ak sou lanmè a.

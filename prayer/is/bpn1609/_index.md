@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1609 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Miklað sé nafn Þitt, ó Drottinn Guð minn. Af þess völdum hafa trén í garði opinberunar Þinnar klæðst grænum skrúða og borið ávexti heilag­leik­ans á þessu vori þegar sæt angan hylli Þinn­ar og blessana hefur borist yfir allt sem skapað er og leitt í ljós allt sem því var fyrirhugað í ríki Þinn­ar óafturkallanlegu ákvörðunar og á himni Þíns óhagganlega tilgangs. Ég bið Þig við þetta nafn, að láta mig ekki vera fjarri aðsetri heilag­leika Þíns og meina mér ekki um aðgang að upp­höfnum helgi­dómi einingar Þinnar og einstæðis.

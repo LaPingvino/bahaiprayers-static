@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7320 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Powiedz: Wywyższone niechaj będzie Imię Twoje, o Panie, mój Boże! Błagam Cię na Twoje Imię, dzięki któremu zalśniła jasno wspaniałość światła mądrości, gdy niebiosa Boskiej wypowiedzi zostały poruszone wśród ludzkości, abyś łaskawie wspomógł mnie swym niebiańskim umocnieniem i pozwolił mi wysławiać Twoje Imię pośród Twoich sług. 

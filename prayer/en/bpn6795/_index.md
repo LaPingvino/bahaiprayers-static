@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6795 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Lauded be Thy name, O my God! I testify that no thought of Thee, howsoever wondrous, can ever ascend into the heaven of Thy knowledge, and no praise of Thee, no matter how transcendent, can soar up to the atmosphere of Thy wisdom. From eternity Thou hast been removed far above the reach and the ken of the comprehension of Thy servants, and immeasurably exalted above the strivings of Thy bondslaves to express Thy mystery. What power can the shadowy creature claim to possess when face to face with Him Who is the Uncreated?

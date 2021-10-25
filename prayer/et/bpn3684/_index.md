@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3684 in Eesti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Mu Jumal, mu Palveldatu, mu Kuningas, mu Ihaldus! Missugune keel suudaks küll lausuda Sulle mu tänu? Ma olin hoolimatu, Sina äratasid mind. Ma olin pööranud Sinust ära, Sina aitasid mul lahkelt pöörduda Su poole. Ma olin kui surnu, Sina virgutasid mind elu veega. Ma olin närbunud, Sina elustasid mind oma väljenduse taevaliku vooga, mis on hoovanud välja Kõigearmulisema Sulest.

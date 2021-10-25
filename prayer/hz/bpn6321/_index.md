@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6321 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 #NDANGO ZOPAMPEPO

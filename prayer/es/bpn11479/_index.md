@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11479 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Glorificado sea Tu Nombre, oh Señor mi Dios! Te suplico, por Tu poder, que ha abarcado todas las cosas creadas, y por Tu Soberanía, que ha trascendido a la creación entera, y por Tu Palabra, que estaba oculta en Tu sabiduría y mediante la cual creaste Tu cielo y Tu tierra, que nos permitas ser firmes en nuestro amor por Ti y en nuestra obediencia a Tu agrado, fijar la mirada en Tu semblante y celebrar Tu gloria. Capacítanos, entonces, oh mi Dios, para esparcir por doquier Tus señales entre Tus criaturas y proteger tu Fe en Tu dominio. Tú siempre has existido independientemente de la mención de cualquiera de Tus criaturas, y así permanecerás eternamente.

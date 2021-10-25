@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12547 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-107', 'bpn-unsorted']
 +++
 Oh Ita-Boot Na’i laran-di’ak! Ami hahi’i Ita-Boot tanba Ita-Boot hatudu ona matadalan mai ami, loke ona odamatan sira husi reinu no fó-sai ona Ita-Boot nia-an liuhosi Loromatan Realidade nian. Ita-Boot halo ona matan-delek sira haree, diuk sira rona, mate sira moris-hikas, kiak sira riku. Ita-Boot hatudu ona dalan ba sira ne’ebé la’o sala-dalan, lori ona sira ne'ebé ibun-kulit maran ba bee-matan konsellu nian, gia ona ikan sira ne'ebé hamrook to’o iha oseanu realidade nian, no konvida ona manu-fuik la’o-rai sira ba jardín ai-funan roza grasa nian.

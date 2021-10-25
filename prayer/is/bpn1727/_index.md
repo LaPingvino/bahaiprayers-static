@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1727 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ég veit, ó Drottinn, að yfirsjónir mínar hafa hulið ásjónu mína smán í návist Þinni og hafa íþyngt mér frammi fyrir Þér, komið á milli mín og fagurrar ásýndar Þinnar, umkringt mig á alla vegu og aftrað mér frá að öðlast hlutdeild í opinberunum Þíns himneska valds.

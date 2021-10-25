@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6144 in Euskara'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-eu', 'bpn-unsorted']
 +++
 Ene Jainkoa!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1205 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvor a Ti, ó Senhor meu Deus! Imploro-te pelo Teu Nome, o qual fez surgir dentro de cada gota os oceanos da Tua bondade e clemência e brilharem dentro de cada átomo os luminares das Tuas generosas bênçãos e graças, que embelezes toda a alma com o adorno do Teu amor, a fim de que na Tua terra não reste quem a Ti não se tenha volvido, ou quem haja deixado de se desprender de tudo, salvo de Ti.

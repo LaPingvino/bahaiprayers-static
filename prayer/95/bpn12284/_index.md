@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12284 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Mai i Tou matagofie, O te Fagasele Tokotasi, Koe ko te tuku atu ote mainaaga ki te lalolagi!  A ka’aga ote afi o te mavae ko sunu ia au, ako toku se-faka-logo ko oti ne liua i ei a toku loto i loto ia au.  Au e sili atu kia Koe, i Tou Igoa Tafasili i te Takutakua, O ko Koe ko te Manakoga o te lalolagi mo te Fapelepele o tino katoa, ke talia mai ko laumatagi o Tau musumusuuga kae faka-tummau a toku agaaga, ko Tou leo gali ke lagona ki toku taliga, ko oku mata ke lavea a Au failoga ako Tou mainaaga ke fakaasi mai i 

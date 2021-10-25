@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12991 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-111', 'bpn-unsorted']
 +++
 *Gon iat tikana niaring na vartulang Kai Baha'i ma da tur  guvai ma vatangia; Dat parika data tur (ria tikana tutana  na nurnur na vatangia mara nuknuk tue tara pupunang  Tuk a vavina I mat io ra pakana tinata "Koum bul kudar  natum tutana" da pukue ba "Koum vavina kudar, ma  natum vavina kudar." Ma "la" nakia "To." 

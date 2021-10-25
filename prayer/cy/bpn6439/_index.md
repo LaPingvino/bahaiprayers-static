@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6439 in Cymraeg'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Arglwydd, fy Nuw, a’m Noddfa yn fy mlinder! Fy Nharian a’m Cysgod yn fy nhrallod!  Fy Ngobaith a’m Lloches yn nydd fy angen!  Ti yw fy Niddanydd mewn dyddiau o wae, fy Nghydymaith yn y tywyllwch, a’m

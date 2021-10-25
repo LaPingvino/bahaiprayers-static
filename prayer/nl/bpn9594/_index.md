@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9594 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Mijn God, mijn Aanbedene, mijn Koning, mijn verlangen! Welke tong kan mijn dank aan U uiten? Ik was achteloos, Gij deed mij ontwaken. Ik had mij van U afgekeerd, Gij hebt mij genadiglijk geholpen mij tot U te keren. Ik was als een dode, Gij hebt mij verkwikt met het water des levens. Ik was verdord, Gij deed mij herleven door de hemelse stroom van Uw woorden die voortvloeit uit de Pen van de Albarmhartige.

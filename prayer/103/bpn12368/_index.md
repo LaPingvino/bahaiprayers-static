@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12368 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O God! Educate these children.

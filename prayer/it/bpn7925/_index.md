@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7925 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O mio Dio! O mio Dio! In verità, T’invoco e supplico alla Tua soglia, chiedendoTi che tutte le Tue misericordie scendano su queste anime. Falle degne del Tuo favore e della Tua verità.

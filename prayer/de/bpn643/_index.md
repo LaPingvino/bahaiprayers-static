@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn643 in Deutsch'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Ruhm sei Dir, o Herr mein Gott! Nichts, was es auch sei, entgeht Deinem Wissen, noch könnte irgend etwas Deiner Hand entschlüpfen oder Deine Absicht durchkreuzen, ob in den Himmeln oder auf Erden, in der Vergangenheit oder in Zukunft.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10179 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sár­bæni Þig að láta því rigna úr nægtaskýjum náð­ar Þinnar sem hreinsar hjörtu þjóna Þinna af öllu sem kemur í veg fyrir að þeir líti ásýnd Þína eða leiti til Þín, svo þeir geti allir borið kennsl á völund sinn og skap­ara. Hjálpa þeim einnig, ó Guð, með alls­ráð­andi mætti Þín­um, að öðlast slíka stöðu að þeir greini hik­laust sér­hvern ódaun frá ilm­in­um af klæð­um Hans sem ber Þitt há­leit­asta og upp­­hafn­­asta nafn, svo þeir geti leitað heils­hugar til Þín og njóti svo náins sam­neytis við Þig að þótt þeim væri gefið allt á himnum og jörðu myndu þeir ekki virða það við­lits, og neit­uðu að láta af að minnast Þín og veg­sama dyggð­ir Þínar.

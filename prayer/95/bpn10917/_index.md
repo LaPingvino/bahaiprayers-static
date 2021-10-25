@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10917 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Ko te Matagofie e io Koe, O ko te Tupu o te favavau, mo te Tufuga o atu-fenua, mo Ia ne Faiite a so se fuaitaino ko e se-llei!  Au e taalosaga kia Koe, i Tou Igoa tela ne kalaga a Koe ki tino katoa i te sikulagi o Tau afioga mo te matagofie, kae takitaki Au tavini ki te malae o Tou alofa mo alofaaga, ke llau aka au mo latou ko la ko oti ne fakaseai a latou mai i mea katoa na ko Koe, kae ko oti ne faka-agai tonu a latou kia Koe, kae e seki taofi a latou ne fakalavelave ko la ne fakasino mai ne Koe, mai i te fuli atu ki te auala o Au mea-alofa.

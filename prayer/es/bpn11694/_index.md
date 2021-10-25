@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11694 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Bahá’u’lláh ha dotado a estas oraciones obligatorias, y a otras oraciones concretas como la Oración de Curación y la Tabla de Aḥmad, de una fuerza y relevancia especiales y, por tanto, deben ser aceptadas como tales y recitadas por los creyentes con fe y confianza incuestionables, para que mediante ellas puedan entrar en comunión mucho más íntima con Dios e identificarse más plenamente con Sus leyes y preceptos. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9538 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Geprezen zijt Gij, o Heer mijn God! Gij ziet en weet dat ik Uw dienaren heb gemaand zich in geen andere richting te wenden dan in de richting van Uw gaven, en hen heb bevolen niets anders in acht te nemen dan hetgeen Gij in Uw Duidelijke Boek hebt voorgeschreven, het Boek dat is neergezonden overeenkomstig Uw ondoorgrondelijk besluit en onherroepelijk plan.

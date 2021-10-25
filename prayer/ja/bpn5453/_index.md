@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5453 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おおわが神よ、あなたに賛美あれ。あなたのご慈愛の芳香ほうこうは私を魅了みりょうし、ご慈悲の微風は私

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11506 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, mi Dios! Te ruego, por el océano de Tu curación, y por los esplendores del Sol de Tu gracia, y por Tu Nombre, por medio del cual sometiste a Tus siervos, y por el poder penetrante de Tu muy exaltada Palabra y la potencia de Tu muy augusta Pluma, y por Tu misericordia, que ha precedido a la creación de todos los que están en el cielo y en la tierra, que me purifiques con las aguas de Tu generosidad de toda aflicción y dolencia y de toda debilidad y flaqueza.

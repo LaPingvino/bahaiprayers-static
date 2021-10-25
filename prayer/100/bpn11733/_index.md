@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11733 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yabo ya tabbata a garēka, yā Ubangiji Allāna! Gā ni ina nēman tarbon irādarka, kuma nā nufā wajen kujērar alfurmarka. Nī nē wanda na yi wātsi da kōmi, na nufi ƙalƙashin kāriyarka, na jūya fuskāta wajen munbārin bayyanarka da zauren ɗaukakarka. 

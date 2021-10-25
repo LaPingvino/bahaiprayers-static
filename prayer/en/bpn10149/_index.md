@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10149 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O ye two tender plants in the Abhá Paradise!

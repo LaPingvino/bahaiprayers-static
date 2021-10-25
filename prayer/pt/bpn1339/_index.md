@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1339 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Estes são os dias, ó meu Deus, em que ordenaste aos Teus servos observarem o jejum, o qual fizeste o adorno ao preâmbulo do Livro das Tuas Leis, revelado às Tuas criaturas, e a decoração dos Santuários dos Teus mandamentos, aos olhos de todos os que estão no Teu céu e sobre a Tua terra. Cada hora destes dias, Tu a tens dotado de uma virtude especial, insondável a todos, menos a Ti, cujo conhecimento abrange todas as coisas criadas. A cada alma, também, designaste uma porção dessa virtude, de acordo com a Epístola do Teu decreto e as Escrituras do Teu juízo irrevogável. E ainda mais, para cada um dos povos e raças da terra, especificaste cada folha desses Livros e Escrituras.

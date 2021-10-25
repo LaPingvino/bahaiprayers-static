@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5008 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, xin tạo cho con trái tim trong sạch. Lạy Đấng Hy vọng của con, xin làm tái sinh trong con một lương tri bình thản! Lạy Đấng Kính yêu của con, xin lấy tinh thần uy lực Ngài củng cố đức tin của con nơi Chánh Đạo Ngài. Lạy Ngài là Đấng Tôn chỉ nguyện vọng của con, xin lấy ánh sáng vinh quang mặc khải đường Ngài cho con.

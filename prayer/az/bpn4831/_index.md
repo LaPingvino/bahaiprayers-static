@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4831 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Ən Uca Allahın adı ilə! Uca və Şanlısan Sən, Ya Rəbb, Qüdrətli Allah! Sənin hikmətin qarşısında aqillər aciz qaldılar və Sənin elmin qarşısında ariflər öz cahilliklərini etiraf etdilər, Sənin qüdrətin önündə güclülər zəifliklərinə, zənginliyin qarşısında varlılar yoxsulluqlarına şəhadət verdilər, Sənin nurun qarşısında nurlanmışlar zülmətdə itib-batmışlar, Sənin biliyinə doğru anlayış cövhərinin özü dönür, hüzurunuн məbədi ətrafında isə bütün bəşərin ruhu təvaf edir.

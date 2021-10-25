@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9389 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitra ô! Andriamanitra! Hitanao aho raiki-pitia sy voasinton’ny Fanjakanao El-Abhá, miredaredan’ny afom-pitiavanao eo anivon’ny olona, manambara ny Fanjakanao ao amin’ireo firenena lehibe sy midadasika, tafasaraka tamin’ny zavatra rehetra afa-tsy Ianao, mandao ny fialan-tsasatra sy ny fiadanana, mametraka ny fitokisako Aminao.

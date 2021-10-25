@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12230 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Vikiiga i Tou igoa, O te Aliki toku Atua!  Au e molimau ia Koe se Kope funa e ufi i loto ia Koe mai loa ite vavau kae se Mea Fakaofoofogina e se mafai o matafi e nofo loto i Tou kanoloto o Tou faiitega.  E manakomia o fakaasi a Koe, a ko Koe ne kalaga atu ke mafua mai a te Lalolagi Matalasi mo te Lalolagi Foliki, kae fili ne Koe a Tagata mai i luga i mea faiite katoa, kae fai a ia pela me ko te failoga o lalolagi e lua kona, O Koe ko te motou Aliki, ko te Tafasili i te Alofa!  

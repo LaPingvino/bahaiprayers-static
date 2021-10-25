@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7633 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Nenpòt lè nou antre nan sal konsèy la, se pou nou resite priyè sa a avèk yon kè k’ap bat fò avèk lanmou pou Bondye ak yon lang ki pwòpte kont tout bagay sof souvni Bondye, pou pèmèt Sila a Ki Gen Tout Pouvwa a ede nou avèk gras Li pou jwenn viktwa siprèm nan.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10466 in Kiribati'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-gil', 'bpn-unsorted']
 +++
 *(Naw-Ruz, Maati 20 ke 21, bon moan bongin te ririki ni Baha’i.)

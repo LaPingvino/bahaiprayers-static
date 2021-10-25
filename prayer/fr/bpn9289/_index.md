@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9289 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, mon maître, but de mon désir, voici ton serviteur ; il aspire à dormir à l’ombre de ta miséricorde et à reposer sous le dais de ta grâce, implorant ta sollicitude et ta protection.

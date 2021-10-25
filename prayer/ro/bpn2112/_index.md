@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2112 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lăudat fii Tu, o, Doamne Dumnezeul meu! Stau mărturie că din veşnicie Tu ai fost înălţat în maiestatea şi tăria Ta transcendentă, şi vei sălăşlui în veşnicie în puterea şi gloria Ta neîntrecută. Nimeni din împărăţiile pământului şi ale cerului nu-ţi poate zădărnici scopul. Nimeni din împărăţiile revelaţiei şi ale creaţiei nu poate izbândi împotriva Ta. Prin porunca Ta faci ceea ce doreşti şi prin puterea suveranităţii Tale cârmuieşti după cum Îţi place.

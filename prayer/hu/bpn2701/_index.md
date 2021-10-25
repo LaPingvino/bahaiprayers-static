@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2701 in Magyar'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 Megbocsátásodért könyörgöm, ó, Istenem, és bocsánatodért esedezem oly módon, amint kívánod, hogy szolgáid Hozzád forduljanak. Könyörgöm, mosd el bűneinket, miként az Istenségedhez méltó, és úgy bocsáss meg nékem, szüleimnek, és mindazoknak, akik a Te mércéd szerint beléptek a Te szereteted hajlékába, ahogy az mindent átható uralmadhoz méltó és mennyei hatalmad dicsőségéhez illendő.

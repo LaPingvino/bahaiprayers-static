@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12197 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ##LOH RIḌVÁN

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5783 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Lloat siguis, oh Senyor Déu meu! 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH07780 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH07780']
 +++
 Lauded be Thy Name, O Lord my God!  I am Thy servant who hath laid hold on the cord of Thy tender mercies, and clung to the hem of Thy bounteousness.  I entreat Thee by Thy name whereby Thou hast subjected all created things, both visible and invisible, and through which the breath that is life indeed was wafted over the entire creation, to strengthen me by Thy power which hath encompassed the heavens and the earth, and to guard me from all sickness and tribulation.  I bear witness that Thou art the Lord of all names, and the Ordainer of all that may please Thee.  There is none other God but Thee, the Almighty, the All-Knowing, the All-Wise.

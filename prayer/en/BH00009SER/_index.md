@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH00009SER in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH00009SER']
 +++
 O my God, my Master, the Goal of my desire!  This, Thy servant, seeketh to sleep in the shelter of Thy mercy, and to repose beneath the canopy of Thy grace, imploring Thy care and Thy protection.

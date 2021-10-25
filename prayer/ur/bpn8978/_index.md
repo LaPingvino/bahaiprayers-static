@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8978 in اُردُو'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ur', 'bpn-unsorted']
 +++
 نور و بہآء وتکبیر وثنا ایادی امراللہ پر

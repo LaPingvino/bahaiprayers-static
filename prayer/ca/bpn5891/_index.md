@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5891 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh amable Senyor! Confereix per la Teva gràcia un parell d’ales celestials a cadascun d’aquests ocellets, dóna’ls-hi poder espiritual perquè elevin el vol per aquest espai il·limitat i es remuntin a les altures del Regne d’Abhá.

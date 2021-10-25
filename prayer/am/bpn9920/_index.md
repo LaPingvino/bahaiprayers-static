@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9920 in አማርኛ.'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-am', 'bpn-unsorted']
 +++
 ናውሩዝ   መጋቢት 12 ቀን የባሃኢ ዓመት የመጀመሪያ ቀን እንዲሁም የደስታና የመስተንግዶ ዕለት ነው፡፡   

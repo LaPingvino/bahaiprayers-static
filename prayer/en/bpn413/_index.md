@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn413 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 ##Expectant Mothers

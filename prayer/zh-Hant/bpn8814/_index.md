@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8814 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 *真理的探求者啊！你若渴望上帝開啟你靈性之眼，你就須在午夜懇求上帝，向祂祈禱並與之交談。你可以如是說：

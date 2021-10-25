@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12352 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Te Matagofie e ia Koe, O toku Atua!  Tokotasi o Au tavini fafine, teka ne talitonu ia Koe mo Au failoga, ko oti ne ulu atu ki lalo o 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12355 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Faka-lauefagia a Koe, O te Aliki toku Atua! Au e akai kia Koe i Tou Igoa te la ko oti ne fakatu mai i luga i nisi igoa katoa, te la a te veli o te lagi ko oti ne ofa ki lalo a ko te Fetu O te Aso o Tou gali ko fanaka ki luga, sulu mo te maina o Tou Igoa, ko te Maluga, ko te Tafasili i te Maluga, o faka-mafanfana mai au ne Tou feasosoani gali kae ke tausi au i te malu o Tau tausi mo te puipuiiga.  

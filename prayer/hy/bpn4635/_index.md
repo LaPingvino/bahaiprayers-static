@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4635 in հայերեն'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hy', 'bpn-unsorted']
 +++
 #(Աղոթքը հայտնված է հյուսիս-արևելյան նահանգների բահայիների համար)

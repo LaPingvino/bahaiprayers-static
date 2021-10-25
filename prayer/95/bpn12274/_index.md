@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12274 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E pefea a te tokouke o agaaga ola ko la ne fakaola olotou ola ne pokotia kii ne te fakamasei i Tou Auala ona kote avakaaga ki luga o Tau Muna mo te tapuaki ki Tou tafatasi faka-te-lagi!  E pefea a te lasi ote toto ko oti ne maligi ona ko Tau Fakatokaaga ke fakatalitonu i ei a te tonu katoatoa o Tau Galuega faka-te-lagi kae fakamanatu Ou vikiiga!  E pefea a te uke o kope ne taofi see i te Auala o Tou alofa ko te mea ke fakatalitonu ate tafamaualuga o Tou mana kae faka-silisili a Tou Igoa matagofie! E fia a te loa ote auala ko oti ne sasale i luga i te pefu ko te mea ke faka-lauefa a Tau Muna mana kae vikia a Tou matagofie!  E pefea ate uke o leo ko la ne kalaga i te fanoanoa, ko loto ko pokoti ne te fakamataku, kofaiga tafasili i te masei tela e seai aka e mafai o atafia na ko Koe, pela foki mo fili masei mo puapuaga e tumau i te faigataa ki so se tino na ko Koe; mea katoa konei e fakatu, O toku Atua, a te maluga o Tou gali kae e fakaasi i ei a te uiga ma takalekale o Tou matagofie.  

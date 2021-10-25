@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1129 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Senhor clemente! Perdoa os pecados da minha querida mãe, absolve-lhe as imperfeições, dá-lhe um vislumbre da Providência e conduze-a ao Teu Reino.

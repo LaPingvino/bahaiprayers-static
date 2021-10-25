@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8112 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Du ser mig, o min Herre, med mit ansigt vendt mod Din gavmildheds himmel og Dine gavers hav, fjernt fra alt undtagen Dig. Jeg beder Dig ved stråleglansen fra Din åbenbarings sol på Sinai og de tindrende stråler fra Din nådes himmellegeme, der skinner fra horisonten i Dit Navn, Den Evigt Tilgivende, om at skænke mig Din forladelse og have barmhjertighed med mig. Nedskriv da for mig med Din herligheds Pen det der skal ophøje mig gennem Dit Navn i skabelsens verden.

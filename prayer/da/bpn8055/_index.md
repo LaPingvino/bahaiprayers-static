@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8055 in Dansk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Mangt et koldt hjerte, o min Gud, er blevet antændt af ilden i Din sag, og mangen en slumrende er blevet vækket af Din stemmes sødme. Hvor talrige er ikke de fremmede, der har søgt ly i skyggen af Din enheds træ, og hvor utallige er ikke de tørstende, der har higet efter Dine levende vandes kilde i Dine dage!

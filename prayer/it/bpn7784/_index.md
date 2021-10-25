@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7784 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Omio Dio e mio Signore! Sono Tuo servo e figlio del Tuo servo. Mi sono alzato dal letto, in quest’alba in cui la Stella Mattutina della Tua unicità è sorta splendente dall’Oriente del Tuo volere e ha diffuso la sua radiosità sul mondo intero secondo quanto era disposto nei Libri del Tuo Decreto.

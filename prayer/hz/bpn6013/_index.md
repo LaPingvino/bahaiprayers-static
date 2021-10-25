@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6013 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 ##Makyatiku

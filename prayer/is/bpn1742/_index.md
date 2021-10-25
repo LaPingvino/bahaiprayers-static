@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1742 in Íslenska'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn! Ger öllum þjóðum jarðarinnar kleift að fá aðgang að paradís trúar Þinnar, svo að engin sköpuð vera megi dvelja utan marka vel­þókn­unar Þinnar.

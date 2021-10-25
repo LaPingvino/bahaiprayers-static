@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4962 in Vanuatu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O Masta mo God blong mi! Helpem olgeta we Yu lavem olgeta blong oli kam strong long bilif blong Yu.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12071 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 *”Ḥuqúqu’lláh adalah sesungguhnya satu hukum yang hebat. Adalah diwajibkan bagi semua untuk melakukan pembayaran ini, kerana ia adalah sumber rahmat, kemewahan, dan segala kebaikan. Ia adalah satu kurnia yang akan kekal dengan setiap roh dalam setiap dunia daripada dunia-dunia Tuhan, Segala Memiliki, Yang Maha Rahmat.”

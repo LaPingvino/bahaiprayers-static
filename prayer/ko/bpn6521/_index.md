@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6521 in 한국어'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 제가… . 기쁜 소식을 전할 수 있게

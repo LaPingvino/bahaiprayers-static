@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5323 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Naw-Rúz 

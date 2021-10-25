@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5063 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Danh Ngài đáng được ca ngợi, lạy Ngài là Đấng Thượng Đế của Con! Bóng tối đã trùm khắp các xứ, những lực lượng hung ác đã bao trùm tất cả các nơi. Tuy nhiên, qua đó, con thấy ánh huy hoàng từ lượng minh triết của Ngài, và nhận ra sự rực rỡ nơi ánh sáng từ bi của Ngài.

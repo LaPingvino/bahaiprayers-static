@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1236 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Como posso eu querer dormir, ó Deus, meu Deus, enquanto os olhos dos que por Ti anseiam estão insones por causa da sua separação de Ti; como buscar repouso, enquanto as almas dos que Te amam se afligem penosamente por estarem afastadas da Tua presença?

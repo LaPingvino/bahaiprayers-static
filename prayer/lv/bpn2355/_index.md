@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2355 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Dievs, mans Dievs! Es esmu devies ceļā prom no mājām, un, turoties cieši pie Tavas mīlestības saites, es pilnībā ļaujos Tavai gādībai un aizstāvībai.

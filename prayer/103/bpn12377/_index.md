@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12377 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O God, my God! I have set out from my home,..

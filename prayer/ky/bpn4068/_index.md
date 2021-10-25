@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4068 in Кыргыз'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ky', 'bpn-unsorted']
 +++
 О, айланайын Кудайым! О, Сен! Күнөөлөрдү кечирген ырыскы жөнөткөн кырсыктан арылткан Кудурет.

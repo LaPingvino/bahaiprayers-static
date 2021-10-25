@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6555 in 한국어'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 저로 하여금 주님의 시녀 중 한 사람이 되게

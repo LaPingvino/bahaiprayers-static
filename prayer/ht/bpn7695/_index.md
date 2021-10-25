@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7695 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen! O Bondye mwen! An verite, m’ap envoke Ou e m’ap sipliye devan papòt Ou, m’ap mande Ou pou voye tout mizèrikòd Ou yo desann sou nanm sa yo. Prepare yo espesyalman pou resevwa favè Ou ak verite Ou.

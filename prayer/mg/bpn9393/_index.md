@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9393 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ô Ianao, ry Tompon’ny Hatsaram-panahy! Zavatra iray ihany no manoronanao ny zanak’olombelona rehetra. Ianao no namoaka didy fa ny rehetra dia avy amin’ny fianakaviana iray. Eo anoloan’ny Fanatrehanao Masina dia mpanomponao izy rehetra ary mialoka eo ambanin’ny taberinakelinao ny zanak’olombelona rehetra; mivondrona manodidiana ny latabatry ny Famindramponao izy rehetra; ary samy hazavain’ny fahazavan’ny Fitahianao izy rehetra.

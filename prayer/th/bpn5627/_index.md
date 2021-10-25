@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5627 in ภาษาไทย'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-th', 'bpn-unsorted']
 +++
 พระองค์คือพระผู้ทรงอำนาจ พระผู้ทรงอภัย พระผู้ทรงเห็นใจ! 

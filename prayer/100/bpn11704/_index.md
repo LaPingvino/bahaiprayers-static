@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11704 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 *Idan an zāɓi yin wannan salla, a bāyan an yi arwalla, a tāshi, a jūya gabā gabas maso arēwa, a dūbi dāma da hauni, tamkar mai nēman rahamar Ubangiji, ar-rahamane, mai jinƙai, kuma a cē :

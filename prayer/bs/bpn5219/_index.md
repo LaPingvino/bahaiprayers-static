@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5219 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Duga Obavezna Molitva 

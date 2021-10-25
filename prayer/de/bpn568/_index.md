@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn568 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist der Heiler, der Genügende, der Helfer, der Allvergebende, der Allbarmherzige.

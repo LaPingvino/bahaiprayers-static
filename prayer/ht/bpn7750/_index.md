@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7750 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Bondye mwen, Sila a mwen Adore a, Wa mwen, Dezi mwen! Ki lang ki kapab esplike rekonesans mwen genyen pou Ou? Mwen te neglijan, Ou te reveye mwen. Mwen te vire do ba Ou, Ou te ede mwen avèk gras Ou pou tounen nan direksyon Ou. Mwen te tankou yon mò, Ou te ban mwen lavi avèk dlo lavi a. Mwen te deseche, Ou te resisite mwen avèk sous selès diskou Ou ki te koule soti nan Plim Tout Mizèrikòdye a.

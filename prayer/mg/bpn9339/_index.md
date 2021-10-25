@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9339 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ankalazaina anie ny Anaranao, ry Andriamanitro ô sy Ilay Andriamanitr’izao rehetra izao, Voninahitro sy Ilay Voninahitry ny zavatra rehetra, Faniriako sy Ilay fanirian’ny zavatra rehetra, Heriko sy Ilay Herin’ny zavatra rehetra, Mpanjakako sy Ilay Mpanjakan’ny zavatra rehetra, Tanjoko sy Ilay Tanjon’ny zavatra rehetra, Mpampihetsika ahy sy Ilay Mpampihetsika ny zavatra rehetra! Mitalaho Aminao aho, aza avela ho lavitry ny Famindramponao feno fitiavana aho na ho esorinao lavitry ny moron-dranon’ny Fanakaikezanao.

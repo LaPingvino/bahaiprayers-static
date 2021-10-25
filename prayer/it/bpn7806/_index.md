@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7806 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O voi che siete due tenere piante nel Paradiso di Abhá! 

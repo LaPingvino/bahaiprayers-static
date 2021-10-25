@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH00001ABI in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH00001ABI']
 +++
 *“Bahá’í marriage is union and cordial affection between the two parties.  They must, however, exercise the utmost care and become acquainted with each other's character.  This eternal bond should be made secure by a firm covenant, and the intention should be to foster harmony, fellowship and unity and to attain everlasting life.” —‘Abdu’l-Bahá

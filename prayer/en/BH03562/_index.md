@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH03562 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH03562']
 +++
 He is the prayer-hearing, prayer-answering God!

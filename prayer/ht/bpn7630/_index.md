@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7630 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Nenpòt moun ki kite lakay li pou ale nenpòt kote nan yon vwayaj ansèyman, se pou li resite priyè sa a jou e nwit pandan li nan peyi etranje yo. 

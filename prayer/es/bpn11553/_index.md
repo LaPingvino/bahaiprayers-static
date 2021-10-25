@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11553 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 Ruego Tu perdón, oh mi Dios, y Te imploro indulgencia de la manera que Tú deseas que Tus siervos se dirijan a Ti. Te suplico que limpies nuestros pecados como corresponde a Tu Señorío, y me perdones a mí, a mis padres y a quienes a Tu juicio han entrado en la morada de Tu amor, de una manera que sea digna de Tu trascendente soberanía y acorde con la gloria de Tu poder celestial.

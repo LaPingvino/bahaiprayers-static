@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12016 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Allanyň Jomart we Baý Ady bilen.

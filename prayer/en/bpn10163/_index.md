@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10163 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is God, exalted is He, the Lord of might and grandeur! 

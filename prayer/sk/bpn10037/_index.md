@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10037 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Velebený si, ó Pane, môj Bože! Vždy, keď sa odvážim o Tebe zmieniť, zabránia mi v tom mocné hriechy a žalostné previnenia voči Tebe a zbadám, že som úplne pozbavený Tvojej priazne a úplne neschopný oslavovať Tvoju chválu. Veľká dôvera v Tvoju štedrosť však oživuje moju nádej v Teba a istota, že so mnou budeš nakladať veľkodušne ma posmeľuje, aby som ťa velebil a prosil ťa o veci, ktoré sú v Tvojom vlastníctve.

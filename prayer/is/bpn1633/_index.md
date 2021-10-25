@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1633 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrð sé Þér, ó Drottinn Guð minn! Niðurlæg ekki þann sem Þú hefur upphafið með valdi eilífra yfirráða Þinna og lát þann ekki vera fjar­lægan Þér sem Þú hefur látið ganga inn í tjaldbúð eilífðar Þinnar. Munt Þú varpa frá Þér, ó Guð minn, þeim sem Þú hefur yfirskyggt með drottnun Þinni og munt Þú snúa þeim frá Þér, ó þrá mín, sem Þú hefur verið athvarf? Getur Þú lítiðlækkað þann sem Þú hefur upphafið eða gleymt þeim sem Þú gerðir kleift að muna Þig?

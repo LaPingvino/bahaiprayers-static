@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5355 in 日本語'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお憐あわれみ深き主よ。あなたは同じ元親からすべての人類を創り給い、人類が皆一つの

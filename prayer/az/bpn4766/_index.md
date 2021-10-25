@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4766 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Mənim Allahım, Məbudum, Sultanım, Məqsudum! Sənə şükrlərimi hansı dil bəyan edə bilər? Qafil idim, ayıltdın, Səndən üz çevirmişdim, Sənə tərəf dönməyimə mərhəmətlə kömək etdin. Ölü idim, dirilik suyu ilə mənə həyat verdin. Solmuşdum, Ən Mərhəmətlinin Qələmindən axan bəyan Kövsərindən mənə təravət bağışladın.

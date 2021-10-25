@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9283 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Glorifié es-tu, ô Seigneur, mon Dieu ! Par les souffles impétueux de ta grâce, par les Sources de ton dessein et les Aubes de ton inspiration, je t’implore de faire descendre, sur moi et sur tous ceux qui recherchent ta face, ce qui sied à ta générosité et à ta bienveillance, ce qui est digne de tes faveurs et de tes dons. Ô mon Seigneur, me voici pauvre et désolé, plonge-moi dans l’océan de tes richesses ; me voici assoiffé, permets que je me désaltère aux eaux vives de ta tendre bonté.

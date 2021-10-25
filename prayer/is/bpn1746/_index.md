@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1746 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð, nálægð Þín er ósk mín, návist Þín er von mín, minning Þín er þrá mín, forgarður dýrðar Þinnar er takmark mitt, aðsetur Þitt er áfangastaður minn, nafn Þitt lækning mín, ást Þín geislan hjarta míns, þjónusta við Þig mín æðsta eftirlangan! Ég grátbið Þig við nafn Þitt sem gerði þeim sem borið hafa kennsl á Þig fært að svífa til hæstu hæða þekkingar á Þér og veitti þeim sem tilbiðja Þig af einlægni styrk til að komast í forgarð heilagrar hylli Þinnar, – hjálpa mér að beina sjónum að ásýnd Þinni, að festa augu mín á Þér og tala um dýrð Þína.

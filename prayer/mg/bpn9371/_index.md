@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9371 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Amin’ny Anaran’Andriamanitra, Ilay Avo indrindra! Deraina sy omem-boninahitra Ianao, ry Tompo, Andriamanitra mahefa ny zava-drehetra! Ianao izay, eo anatrehan’ny Fahendrenao, ny hendry dia niondrika sy tsy nahomby; eo anatrehan’ny Fahalalanao, niaiky ny tsy fahalalany ny olona manam-pahaizana;  eo anatrehan’ny Herinao, manjary osa ny matanjaka; eo anatrehan’ny Harenao, manamarina ny fahantrany ny mpanankarena; eo anatrehan’ny Fahazavanao, very ao anaty haizina ny olona mazava, eny amin’ny taberinakelin’ny Fahalalanao no mitodika ny fototry ny fahafantarana rehetra ary mihodidina ny toerana masin’ny Fanatrehanao ny fanahin’ny olombelona rehetra.

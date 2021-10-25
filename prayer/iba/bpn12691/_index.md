@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12691 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 79	O Petara, Petara aku! Aku minta ari Nuan nengah tasik pengerai Nuan, lalu nengah penampak Bintang- Siang Berekat Pengasih Nuan, lalu nengah Nama Nuan ke alai Nuan udah nguasa bala pengasuh Nuan, lalu nengah kuasa ti tau ngerekaika Jaku Nuan ti pemadu tinggi enggau penguat Pen Nuan ti pemadu dipebasa, lalu nengah pengasih Nuan ti udah ngelui semua utai tempa ti dalam serega enggau ba tanah, awakka nuchi aku ngena ai penyayau Nuan ari tiap pemedis enggau penyakit, lalu ari semua pengelemah enggau pengelembut.

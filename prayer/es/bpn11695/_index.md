@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11695 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 En el Nombre de Dios, el Más Antiguo, el Más Grande.

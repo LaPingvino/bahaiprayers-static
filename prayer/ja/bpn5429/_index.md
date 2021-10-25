@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5429 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお主なるわが神に栄光あれ。洞察力どうさつりょくある者はみなあなたのご主権と支配を認め、眼識がんしき

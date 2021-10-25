@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12458 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Kalunga kange! Ou oye omupiya woYe omona omumati womupiya woYe ou aitavela mwOve no mo madidiliko oYe, no kwata leli fa oshipala shaye kwOve, taefapo aishe nde te kukalele. Oshili, Ove ou, houlikile onghenda nonghenda yo kombada yoYe. 

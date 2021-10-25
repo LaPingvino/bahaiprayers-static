@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1328 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola De Ridván

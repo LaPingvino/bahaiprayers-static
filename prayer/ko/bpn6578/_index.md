@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6578 in 한국어'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 저의 죄를, 그들의 죄도

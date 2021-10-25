@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8931 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 主啊，我的上帝！讚美歸於祢！黑暗籠罩大地，災禍困擾萬邦，但我仍能察覺祢智慧的璀璨，領悟祢天佑的光芒。

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB03082 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB03082']
 +++
 ##Tablet of Visitation

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11596 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Señor, mi Dios! Esta es una criatura que ha nacido del vientre de una de Tus siervas a la que has conferido una posición distinguida en las Tablas de Tu irrevocable decreto contenidas en los Libros de Tu mandato.

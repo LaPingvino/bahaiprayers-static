@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3720 in Eesti'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo mu Jumal! Oo Sina pattude andestaja, kinkide annetaja, hädade hajutaja!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12650 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Barang sapa ti ngejangka menua diri bejalai ngajar ngagai dini-dini tempat, uji iya besampi siang enggau malam sambiang tu lebuh ti bejalai di menua bukai:

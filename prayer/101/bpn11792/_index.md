@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11792 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa ku, Topa dek ngapunt dosa-dosa manusia, dek pirasie duoh dek dapod kadi sua pinusah. Oku bidoa daang Adon Ingan dek ayuh manah, odak ngapunt sua dosa iyoh dek mbok supiah dunya tih, ngan iyoh odi ke dunya dek ba’uh. 

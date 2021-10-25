@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12373 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O my God! O Thou forgiver of sins, bestower of gifts..

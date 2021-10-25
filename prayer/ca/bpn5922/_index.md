@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5922 in Català'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Ordena per mi, oh Senyor meu, i per aquells què creuen en Tu, el què consideris que sigui millor per nosaltres, tal com ha estat establert al Llibre Mare, car al palmell de la Teva mà Tu mantens les mesures exactes de totes les coses.

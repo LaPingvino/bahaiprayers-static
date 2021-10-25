@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6558 in 한국어'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 신성회 회의 폐회시에 올리는 기도

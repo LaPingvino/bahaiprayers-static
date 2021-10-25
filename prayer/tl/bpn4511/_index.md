@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4511 in Filipino'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Pawiin ang aking kalungkutan sa pamamagitan ng Iyong pagpapala at ng Iyong kagandahang-loob, O Diyos, aking Diyos, at iwaksi ang aking pagdurusa sa pamamagitan ng Iyong paghahari at ng Iyong kapangyarihan. Nakikita Mo ako, O aking Diyos, na ang mukha’y nakatuon sa Iyo sa isang panahong ang mga dalamhati ay nakapaligid sa akin. Isinasamo ko sa Iyo, O Ikaw na Panginoon ng lahat ng kinapal, at lumililim sa lahat ng bagay na nakikita at di-nakikita, sa Iyong Pangalan na sumakop sa mga puso at mga kaluluwa ng mga tao, at sa matataas na alon ng Karagatan ng Iyong kahabagan at sa ningning ng Araw-Bituin ng Iyong pagpapala, na ibilang Mo ako sa kanilang hindi napigil ng anuman sa pagtutuon ng kanilang mukha sa Iyo, O Ikaw na Panginoon ng lahat ng pangalan at Maylikha ng mga langit.

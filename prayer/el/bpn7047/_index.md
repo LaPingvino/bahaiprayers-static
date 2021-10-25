@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7047 in ελληνικά'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 ##ΠΙΝΑΚΙ∆Α ΤΗΣ ΦΩΤΙΑΣ

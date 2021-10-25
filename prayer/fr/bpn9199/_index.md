@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9199 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Magnifié soit ton nom, ô Seigneur, mon Dieu !Tu es celui que toutes choses adorent et qui n’en adore aucune ; tu es le Seigneur de toutes choses et tu n’es le vassal d’aucune ; tu connais toutes choses et tu n’es connu d’aucune. Tu voulus te faire connaître des hommes, c’est pourquoi, par un mot de ta bouche, tu amenas le monde à l’existence et tu façonnas l’univers. Il n’est pas d’autre Dieu que toi, le Façonneur, le Créateur, le Très-Haut, le Tout-Puissant.

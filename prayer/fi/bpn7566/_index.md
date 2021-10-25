@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7566 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumala, minun Jumalani! Sinä näet rakkaittesi kääntävän sydämensä puoleesi ja pitäytyvän lujasti säädöstesi ja lakiesi nuoraan. Minä rukoilen Sinua ilmaisusi meren aaltojen kautta ja Hänen nimeensä, jonka kautta kaunistit mahtisi taivaat, armollisesti varjelemaan heitä sotajoukkojesi avulla.

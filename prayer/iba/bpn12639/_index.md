@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12639 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Petara aku, Tuan aku, Juluk ati pengingin aku! Tu, pengasuh Nuan, ngiga peninduk ba pengelindung penyinu Nuan, lalu deka gali di baruh kanopi berekat Nuan, minta ibun enggau jaga Nuan.

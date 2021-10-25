@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1577 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 **FARA Á MEÐ ÞESSA BÆN AÐ MORGNI, Á HÁDEGI OG AÐ KVÖLDI

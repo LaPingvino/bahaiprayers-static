@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11743 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yabo ya tabbata a garēka, yā Allāna ! Nā nēmi shaida ga īkonka, in bā don wahala da azābar da suke daurēwa cikin bin hanyarka ba, yāyā zā a gāne da wanɗanda suke cikakkun māsu ƙaunar ka ? Yāyā zā a bambamta matsayin masōyanka da sauran ? Māsu ƙaunarka, bā su da waɗansu abukkai in bā hawāyensu ba, māsu biɗarka, bā su da waɗansu mahakurta, in bā kūkansu ba, māsu gaugautāwa zuwa garēka, bā su da wani abinci, in bā nāman zūciyarsu ba da ta ciccire.

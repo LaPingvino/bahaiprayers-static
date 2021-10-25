@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10951 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Te matagofie e o Koe, O te Aliki toku a Atua!  Au e akai atu kia Koe i Tou Igoa te la ko Ia ko Tou Gali ko oti ne fakatumau i luga i te kalauna o Tau Fakatokaaga, mo Tou Igoa te la mai iei ne fuli ne Koe a mea katoa, kae luku fakatasi mai a mea katoa, kae laulau atu ke tali mai a mea katoa, kae taui a mea katoa, kae tausi a mea katoa, kae fakatumau a mea katoa – Au e akai kia Koe ke leoleo aka a te tavini fafine te la ko oti ne lele atu ki se lafiiga ia Koe, kae sala ki se malu o Ia Te la ko Koe foki loa ne fakaasi aka, kae ko oti ne tuku katoatoa a tena fakatuanaki mo te talitonu ia Koe.

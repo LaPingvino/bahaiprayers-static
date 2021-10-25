@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12399 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 *(Hoa khoen Elob din ge I//kha-i as gose //in di !asa ni u-/khi. Elob ge khoe-e !na ≠am hase //gui ai tama ha. Netii !norasa mas ge hoa /khaga xu ma ≠gomsabei hoae xuni u-/khihe. A khoetse Elob ditse. ≠Gom //awosa u-hare netii !norasa mas ta ha xutse nesis ga !hanasisens, ≠harogus gas xawets ge /khaihe hase ni I tsini /arobahe-//nai !norasasiba xura mai ge disi-!naguse ni !kho-!oa. Ega-/geb ose I !khais ge Elob daob ai ≠oa !nae gaise !nasase /gai/gai tsi /khaisa)

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9385 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Tompo ô, Andriamanitro sy fiereko ao anaty ny fijaliako. Ampingako sy fialofako ao anaty ny fahoriana! Fiarovako sy fisitrihako ao anaty ny fotoan-tsarotra ary Mpiaradia amiko amin’ny fitokanako! Fiononako amin’ny fanahiako ary Sakaizako feno fitiavana ao amin’ny fanireriko! Ilay Mpanamaivana ny fanaintainan’ny alaheloko sy Mpamela ny fahotako!

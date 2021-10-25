@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1103 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, meu Deus! Vês que intensa escuridão envolve todas as regiões, como todos os países ardem com a chama da discórdia, e o fogo da guerra e da carnificina flameja no Oriente e no Ocidente. O sangue está a correr, os cadáveres espalham-se pelo chão e cabeças decepadas estão caídas sobre o pó do campo de batalha.

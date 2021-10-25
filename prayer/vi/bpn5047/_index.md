@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5047 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, xin cho những người về với Ngài được nấp bóng Ngài là Bạn đường Tối cao. Xin cho người được ở lại dưới bóng Thánh điện uy nghi của Ngài và nơi Triều đường Vinh quang của Ngài.

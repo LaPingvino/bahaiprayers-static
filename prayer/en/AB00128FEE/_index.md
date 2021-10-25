@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB00128FEE in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB00128FEE']
 +++
 O God, my God! These are Thy feeble servants; they are Thy loyal bondsmen and Thy handmaidens, who have bowed themselves down before Thine exalted Utterance and humbled themselves at Thy Threshold of light, and borne witness to Thy oneness through which the Sun hath been made to shine in midday splendor. They have listened to the summons Thou didst raise from out Thy hidden Realm, and with hearts quivering with love and rapture, they have responded to Thy call. 

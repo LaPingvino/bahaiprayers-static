@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12079 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 ”Berkenaan kanak-kanak: Kami telah          mengarahkan bahawa dari usia awal lagi mereka haruslah dilatih dalam amalan-amalan dan hukum-hukum agama; dan kemudiannya, dalam cabang-cabang ilmu pengetahuan yang bermanfaat, dan dalam perdagangan yang dibezakan oleh keluhurannya, dan dalam perlakuan-perlakuan yang akan melanjutkan kemenangan Akidah Tuhan atau akan menarik hasil-hasil yang akan mendekatkan seorang penganut kepada Tuhannya.”

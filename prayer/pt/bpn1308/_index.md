@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1308 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó Senhor meu Deus! Peço-Te que me perdoes e àqueles que apoiam a Tua Fé. Em verdade Tu és o Senhor soberano, o Clemente, o Mais Generoso. Ó meu Deus! Permite que sejam admitidos à Tua Causa os servos Teus que estão privados de conhecimentos, pois, uma vez sabendo de Ti, eles dão testemunho da verdade do Dia do Juízo e não disputam as revelações da Tua generosidade. Faze descerem sobre eles os sinais da Tua graça e concede-lhes, onde quer que residam, um generoso quinhão daquilo que ordenaste para os pios entre os Teus servos. Tu és, em verdade, o Supremo Governante, o Todo-Generoso, o mais Benévolo.

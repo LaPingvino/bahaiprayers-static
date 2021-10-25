@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12031 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 *O my Lord! Make Thy beauty to be my food 

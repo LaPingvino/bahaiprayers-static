@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9386 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 O Ianao Andriamanitra Tsy manan-tsahala! Ianao, ry Tompon’ny Fanapahana! Ireto fanahy ireto no  mandrafitra ny Tafiky ny lanitra. Ampio izy ireo ary, miaraka amin’ny andiany mponin’ny Lanitra, ataovy mpandresy izy ireo, ka ny tsirairay amin’izy ireo dia ho toy ny tafika, handrombaka ireo tany ireo noho ny fitiavan’Andriamanitra sy ny fahazavan’ny fampianaran’Andriamanitra.

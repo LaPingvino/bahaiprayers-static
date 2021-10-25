@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1619 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn! Vernda Þú börnin, sem fæðast á þessum degi, sem nærast við brjóst ástar Þinn­ar og uppvaxa í skauti náðar Þinnar.

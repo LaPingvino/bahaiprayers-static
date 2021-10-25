@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4421 in Filipino'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Diyos na aming Panginoon! Pangalagaan kami sa pamamagitan ng Iyong biyaya mula sa anumang kinasusuklaman Mo at marapatin para sa amin ang mga bagay na makasisiya sa Iyo. Pagkalooban Mo pa kami mula sa Iyong biyaya, at pagpalain Mo kami. Patawarin Mo kami sa mga bagay na aming nagawa, at hugasan ang aming mga kasalanan, at patawarin kami ng Iyong mapagmahal na pagpapatawad. Sa katunayan Ikaw ang Pinakamataas, ang Sariling Ganap.

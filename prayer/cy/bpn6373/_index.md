@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6373 in Cymraeg'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 Molwch bob dydd yr adnodau a ddatguddiwyd gan Dduw.  Bendigedig yw’r dyn sy’n eu hadrodd ac un myfyrio arnynt.  Mae ef yn wir yn un o’r rhai y bydd pob dim yn iawn iddynt.

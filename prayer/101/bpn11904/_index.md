@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11904 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Loh Bisaka tih nye basa ndu Karamat Baha’u’llah duoh Bab. Pun selalu geh obuah pakai daang ngenang onu-onu ayuh Bala tih.)

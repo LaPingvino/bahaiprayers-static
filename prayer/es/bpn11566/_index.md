@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11566 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, oh Tú que has derramado Tu esplendor sobre las realidades luminosas de los seres humanos, vertiendo sobre ellos las luces brillantes del conocimiento y la guía, y los has elegido de entre todas las cosas creadas para esta gracia suprema, y has hecho que abarquen todas las cosas, comprendan su íntima esencia, descubran sus misterios y los saquen de la oscuridad y los traigan al mundo visible! «Él, ciertamente, muestra Su especial misericordia a quien desea». 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn606 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Die Milde Deiner Gnade, o mein Herr, überragt die Wut Deines Zornes, Deine Güte übertrifft Dein jähes Missfallen und Deine Gnade ist größer als Deine Gerechtigkeit. Nimm Du in Deiner wundersamen Gunst und Barmherzigkeit Deine Geschöpfe bei der Hand und lasse sie nicht von der Gnade ausgeschlossen sein, durch die sie Dich nach Deinem Willen erkennen sollen. Der Glanz Deiner Macht ist mein Zeuge! Sollte solches geschehen, so würde jede Seele heftig erschüttert, jeder Einsichtige verwirrt und jeder Wissende sprachlos, ausgenommen jene, denen durch die Hände Deiner Sache Hilfe zuteil ward, jene, die Du zu Empfängern der Offenbarungen Deiner Gnade und der Zeichen Deiner Gunst machtest.

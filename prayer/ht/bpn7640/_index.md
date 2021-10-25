@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7640 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen! Pèmèt mwen avanse bò kote Ou, epi rete nan vwazinaj lakou Ou, paske distans mwen avèk Ou preske fini avèk mwen. Fè mwen repoze anba lonbraj zèl gras Ou yo, paske dife separasyon mwen ak Ou te fonn kè mwen. Atire mwen pi pre rivyè a ki se vrè lavi a, paske nanm mwen vrèman swaf nan rechèch l’ap fè san relach pou jwenn Ou. O Bondye mwen, soupi mwen yo montre kòman chagren mwen amè, epi dlo k’ap koule nan je mwen bay temwayaj sou lanmou mwen genyen pou Ou.

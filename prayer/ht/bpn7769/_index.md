@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7769 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##Premye Jou Jèn nan 

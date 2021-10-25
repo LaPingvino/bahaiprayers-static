@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2437 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak mans Dievs, mans Pavēlniek, mans Ilgojums! Tavs kalps meklē mieru Tavas žēlsirdības pavēnī, viņš vēlas atdusēties zem Tavas vēlības debesīm, un viņš izlūdzas no Tevis gādību un aizstāvību.

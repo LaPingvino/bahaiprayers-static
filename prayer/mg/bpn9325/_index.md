@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9325 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitro ô, Tompoko, Anton’ny faniriako! Ity ny mpanomponao izay maniry fatratra hatory eo amin’ny alokin’ny Famindramponao sy hiala sasatra eo ambanin’ny lanitry ny Fahasoavanao, miangavy fatratra ny Fitandremanao sy ny Fiarovanao.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3592 in Norsk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Gjør våre trinn faste på din vei, o Herre,

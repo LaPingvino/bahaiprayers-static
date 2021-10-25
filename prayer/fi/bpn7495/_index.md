@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7495 in Suomi'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Olen tietoinen siitä, oi Herra, että syntini ovat peittäneet kasvoni häpeään Sinun läheisyydessäsi ja painavat selkääni Sinun edessäsi, ovat tulleet itseni ja Sinun kaunoisten kasvojesi väliin, ovat joka suunnalta ympäröineet minut ja joka puolelta estäneet minua pääsemästä osalliseksi Sinun taivaisen mahtisi ilmauksista.

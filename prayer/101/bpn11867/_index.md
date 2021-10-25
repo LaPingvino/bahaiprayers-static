@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11867 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa, Topa ku! Oku mbok ngaduap daang bitobat tudu Ingan, bia notap Ingan leh dek Pimaaf, dek Pinyayang. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10266 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Hur kan jag välja sömnen, o min Gud, när  de längtandes ögon vakar för att de är skilda från Dig, och hur kan jag gå till vila medan Dina älskades själar pinas svårt i sin avlägsenhet från Din närvaro?

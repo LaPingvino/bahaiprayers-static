@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7906 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Tu Signore benevolo! Questi Tuoi servi si sono riuniti volti verso il Tuo Regno e sono bisognosi dei Tuoi doni e delle Tue benedizioni. O Tu Dio! Fa’ manifesti ed evidenti i segni della Tua unicità che sono stati racchiusi in tutte le realtà della vita. Rivela e mostra le virtù che ponesti, latenti e celate, in queste realtà umane.

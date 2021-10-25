@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8680 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！我心情激动，泪流如雨，求祢佑助为这圣堂的屹立、为此神圣建筑的崛起而尽力之人。而今，在这座建筑物内，每个黎明，每个黄昏，都回荡着对祢圣名的赞美。

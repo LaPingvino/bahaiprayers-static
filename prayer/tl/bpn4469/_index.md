@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4469 in Filipino'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Ikaw na maawaing Panginoon! Purihin Ka sa pagpapakita Mo sa amin ng malawak na daan ng pamamatnubay, sa pagbubukas sa mga pinto ng Kaharian at sa pagpapahayag ng Iyong sarili sa pamamagitan ng Araw ng Katotohanan. Sa bulag ay nagkaloob Ka ng paningin; sa bingi ay nagbigay Ka ng pandinig; muli Mong binuhay ang patay; pinayaman Mo ang mahirap; ipinakita Mo ang daan sa mga naligaw; inakay Mo yaong may mga tigang na labi tungo sa bukal ng pamamatnubay; pinahintulutan Mong ang nauuhaw na isda ay makarating sa karagatan ng katotohanan at inanyayahan Mo ang nagsisigalang ibon sa halamanan ng rosas ng biyaya.

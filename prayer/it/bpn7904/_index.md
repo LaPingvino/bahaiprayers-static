@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7904 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Glorificato Tu sia, o Signore mio Dio! T’imploro per il soffio impetuoso dei venti della Tua grazia, per Coloro Che sono le Sorgenti del Tuo scopo e le Albe della Tua ispirazione, di far scendere su me e su tutti coloro che hanno cercato il Tuo volto ciò che s’addice alla Tua generosità e alla Tua munifica grazia ed è degno delle Tue elargizioni e dei Tuoi favori. Povero e desolato io sono, o mio Signore, immergimi nell’oceano della Tua ricchezza; assetato, concedimi di bere alle acque vive della Tua benevolenza. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7877 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O mio Signore! Tu sai che tutti sono circondati da pene e da calamità e incalzati da difficoltà e tormenti. Ogni affanno attacca l’uomo e ogni cruda avversità lo assale come un serpente. Non v’è riparo o asilo per lui, se non sotto l’ala della Tua protezione, della Tua salvezza e della Tua vigilanza.

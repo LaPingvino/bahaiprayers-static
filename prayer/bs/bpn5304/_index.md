@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5304 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Hvaljeno neka je Ime Tvoje, Gospodaru moj Bože! Tama je prekrila svaku zemlju, a sile razdora obavile su sve narode. Kroz njih, ipak, ja nazirem ljepotu Tvoje mudrosti, i raspoznajem sjaj svjetla Tvoga proviđenja.

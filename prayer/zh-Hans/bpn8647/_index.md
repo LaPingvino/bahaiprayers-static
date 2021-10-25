@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8647 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 以下是每日诵读之祷文。

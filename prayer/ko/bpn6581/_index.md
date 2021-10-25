@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6581 in 한국어'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 저희들은 모두 죄인

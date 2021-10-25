@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6051 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 *(Ngamwa aruhe tji mohiti mondjuwo, kumba tuvari ongumbiro ndji  no mutima-wo ndjenda ku Mukuru neraka roye okumuzemburuka Erike uriri, kutja Omunamasa, ayehe mekupe outoni mongumbiro ndji:)

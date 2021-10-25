@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5298 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 *Praznik se obilježava svakih devetnaest dana, pa makar posluživali samo vodu. Božja namjera je da okupi ljudska srca, zahtijevalo to sva sredstva na zemlji ili na nebu.- Bahá’u’lláh

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn448 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Wahrlich, ich rufe Dich an und flehe an Deiner Schwelle, lass alle Deine Gnadengaben auf diese Seelen herabkommen. Mache sie empfänglich für Deine Gunst und Deine Wahrheit.

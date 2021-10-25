@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6238 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Mukama wange!  Mukama wange!  Nkutendereza era nkwebaza kubanga okwatiddwa omuzaana wo, omuwembeefu ekisa omuzaana Wo akwegayirira era akuwanjagira, kubanga omulungamiza okutuukamu Bwakabaka Bwo, eran'omuyamba okuwulira eddoboozi Lyo mu nsi eno, era n'okulaba obubonero Bwo, obukakasa obuwanguzi bw'obufuzi Bwo, eri ebintu byonna.

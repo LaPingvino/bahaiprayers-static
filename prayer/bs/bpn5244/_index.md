@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5244 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 *Izgovarajte ovu molitvu na kraju sastanka Duhovnog vijeća:

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12752 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-108', 'bpn-unsorted']
 +++
 ##ສໍາລັບສວດທຸກວັນ, ຕອນເຊົ້າ, ຕອນທ່ຽງວັນ, ແລະຕອນຄໍ້າ

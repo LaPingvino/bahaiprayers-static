@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5060 in Tiếng Việt'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Vinh quang thay Danh Ngài, lạy Ngài là Đấng Thượng Đế của Con! Ngài thấy nơi ở của Con, và nhà tù mà người ta đã ném Con vào và những tai họa Con phải nhận chịu. Bởi quyền lực Ngài! Không bút nào kể hết những điều ấy; không lưỡi nào tả được hoặc đếm được những tai họa đó. Lạy Thượng Đế của Con, Con không hiểu vì mục đích gì Ngài phó mặc Con cho những kẻ thù Ngài. Vinh quang Ngài làm chứng cho Con! Con không sầu khổ vì những phiền toái Con phải chịu đựng vì tình yêu của Ngài, Con cũng không hoang mang vì những tai họa vây phủ Con trên đường Ngài. Con chỉ khổ vì Ngài chậm hoàn thành điều Ngài đã quyết định trong các Kinh bản của Mặc khải Ngài và thiết định trong các Thánh thư chỉ dụ và phán quyết của Ngài.

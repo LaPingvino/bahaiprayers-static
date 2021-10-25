@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11511 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Alabado sea Tu Nombre, oh mi Dios! Te imploro, por las fragancias de la Vestidura de Tu gracia, que fueron esparcidas por toda la creación mediante Tu mandato y en conformidad con Tu deseo, y por el Sol de Tu voluntad, que ha resplandecido mediante la fuerza de Tu poder y Tu soberanía en el horizonte de Tu misericordia, que borres de mi corazón toda ociosa fantasía y vana imaginación, para que me vuelva hacia Ti con todo mi corazón, oh Señor de toda la humanidad.

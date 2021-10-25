@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7512 in Suomi'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Herra! Tee kaikki maailman kansat kykeneviksi pääsemään Sinun uskosi paratiisiin, niin että kukaan luotu olento ei jäisi mielisuosiosi rajain ulkopuolelle.

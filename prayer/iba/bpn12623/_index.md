@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12623 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Puji enggau mulia meh ngagai Nuan, O Tuhan Petara aku! Tu meh paung pilih ke udah ditanam Nuan ba padang pengerindu Nuan lalu udah ditupi ngena jari Tuhan Nuan. Nuan udah nata ia ngena ai ari telaga pengidup meruan ke anyut ari kebun Penyatu Nuan lalu Nuan udah ngasuh muahari penyiru pengasih Nuan nelesaika pengasih Nuan ba ia. Ia diatu udah tumbuh sereta mansang besai di baruh lindung berekat Nuan ke ayan ari Terebak-tawas ayu pengudus Nuan. Ia udah ngerembai nyadi daun lalu bebungai, lalu lebat bebuah nengah penginang pemanah tepa enggau upah Nuan lalu diguyat ulih bau rengut ribut ti ngesuh ari penatai pengerindu pementas Nuan.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7417 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Nie wiem, o mój Boże, jakiż to Ogień roznieciłeś w swojej krainie. Ziemia nigdy nie zdoła przyćmić jego wspaniałości, a woda nie zagasi jego płomienia. Żaden z ludów ziemi nie jest w stanie oprzeć się jego sile. Wielkie jest błogosławieństwo tego, który przybliżył się do niego i usłyszał jego trzask.

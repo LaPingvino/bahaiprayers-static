@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn547 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Gelobt sei Dein Name, o Herr mein Gott! Du siehst mich Dir zugewandt, mein Angesicht auf Deine Gnadengaben gerichtet. Ich flehe Dich an bei Deinem Namen, durch den Du alle, die Deine Einheit anerkennen, am Weine Deines Erbarmens teilhaben und alle Dir Nahen in großen Zügen von den Lebenswassern Deiner Güte trinken lässest, mache mich völlig frei von leerem Wahn und führe mich zu Deiner Gnade, o Du Herr aller Menschen.

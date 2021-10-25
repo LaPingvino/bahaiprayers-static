@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3582 in Norsk'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 O min Gud! O min Gud! Denne din tjener har gått fremover mot deg, vandrer lidenskapelig i din kjærlighets ørken, betrer din tjenestes sti, ser frem til dine gunstbevisninger, håper på din gavmildhet, setter sin lit til ditt rike og beruses av din gaves vin. O min Gud! Gjør hans hengivenhet for deg varmere, gjør ham mer trofast i sin lovprisning av deg, og øk gløden i hans kjærlighet til deg.

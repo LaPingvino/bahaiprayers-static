@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7843 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O  Dio, mio Dio! Sia lode a Te Che hai acceso il fuoco del divino amore nel Santo Albero sulla vetta del più eccelso monte: quel-l’albero che non è “né orientale né occidentale”,  quel fuoco che divampò finché le sue fiamme s’innalzarono fino alle Schiere Celesti, e dal quale quelle realtà colsero la luce della guida e levarono il grido: «In verità abbiamo scorto un fuoco da un lato del monte Sinai». 

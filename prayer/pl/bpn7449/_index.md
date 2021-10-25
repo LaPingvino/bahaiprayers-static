@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7449 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 O mój Boże! O Ty, który odpuszczasz grzechy, rozdajesz dary i usuwasz nieszczęścia!

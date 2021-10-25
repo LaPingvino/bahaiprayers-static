@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11796 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Nusah oku, O Topa ku, odak odi sinok Ingan, bia dapod ro’o daang gilangang balai ituang Ingan, setegal bijuak sok Ingan mbok sukup wat odak oku binasa. Odak leh oku ngilukuh ndu ribuak kilopak budi Ingan, setegal gongab bitoggant ku sok Ingan mbok pililih otin ku daang odop ku. Nalik oku odak odi sinok sungei dek memang ngin idip, setegal jiwa ku mbok bodoh asong ngan-eh dik mungan-mungan kalik Ingan. Ngaduah ku, O Topa ku, magah po’it mojal susah payah ku, bia pi’in boton ku dek timatiag sija dek jadin bukti pangirinduk ku sa’ant Ingan.

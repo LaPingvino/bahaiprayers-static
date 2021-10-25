@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5290 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 *O tragacu za Istinom! Ako želiš da ti Bog otvori oči, trebaš se Bogu klanjati, moliti se, obatitii Mu se u ponoć, govoreći:

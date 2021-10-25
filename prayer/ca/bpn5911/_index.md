@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5911 in Català'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu nostre Senyor! Protegeix-nos, mitjançant la Teva gràcia, de tot quant Et sigui detestable, i concedeix-nos allò què sigui propi de Tu. Dóna’ns més de la Teva munificència i beneeix-nos. Perdona’ns per les coses què hem fet i neteja els nostres pecats, absol-nos amb la Teva gràcia perdonadora. Veritablement, Tu ets el Més Exaltat. Qui subsisteix per Si mateix.

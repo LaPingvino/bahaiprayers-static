@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4145 in American Indian'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 #For the Departed

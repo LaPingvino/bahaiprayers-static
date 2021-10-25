@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10815 in Chichewa'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ny', 'bpn-unsorted']
 +++
 *Pemphero lonenedwa potseka msonkhano wa Bungwe la Uzimu. 

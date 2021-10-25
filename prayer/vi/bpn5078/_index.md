@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5078 in Tiếng Việt'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Ngài là Đấng Thượng Đế Khoan dung! Những kẻ tôi tớ này đang hướng về Vương quốc Ngài, kiếm tìm thiên phúc và thiên ân của Ngài.

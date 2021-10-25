@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10325 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Du förlåtande Herre! Du är alla dessa Dina tjänares skydd. Du vet hemligheterna och är medveten om allt. Vi är alla hjälplösa och Du är den Mäktige, den Allsmäktige. Vi är alla syndare och Du är Förlåtaren av synder, den Barmhärtige, den Medlidsamme.

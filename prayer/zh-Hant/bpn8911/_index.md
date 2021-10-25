@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8911 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 全世界的主宰，萬國的希望啊，榮耀歸於祢！祢已在至偉聖名里彰顯自己，藉由祢的聖名，智慧及宣示之珍珠從祢知識大海的貝殼裡顯現；那神聖啟示的天穹，因祢聖容之日的光耀而大放異彩。

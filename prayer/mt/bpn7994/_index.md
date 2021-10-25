@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7994 in Malti'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mt', 'bpn-unsorted']
 +++
 #TALBA OBBLIGATORJA QASIRA    

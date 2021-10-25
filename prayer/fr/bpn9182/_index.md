@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9182 in Français'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Gloire à toi, ô Seigneur, mon Dieu ! Pardonnemoi, je t’en supplie, et pardonne à ceux qui professent ta foi. En vérité, tu es le Seigneur souverain, le Clément, le Très-Généreux. Ô mon Dieu, permets à tes serviteurs privés de connaissance d’être admis en ta cause. Dès qu’ils te connaîtront, ils attesteront la vérité du jour du jugement et ne contesteront point les révélations de ta bonté. Envoie-leur les signes de ta grâce et accorde-leur une part généreuse de ce que tu destines à tes pieux serviteurs, à quelque endroit qu’ils soient. Tu es, en vérité, le Souverain suprême, l’infiniment Généreux, le Très-Magnanime.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2260 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Tu vezi, o Doamne, mâinile noastre

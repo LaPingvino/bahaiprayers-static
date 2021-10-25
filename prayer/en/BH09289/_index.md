@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH09289 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH09289']
 +++
 Suffer me, O my God, to draw nigh unto Thee, and to abide within the precincts of Thy court, for remoteness from Thee hath well-nigh consumed me.  Cause me to rest under the shadow of the wings of Thy grace, for the flame of my separation from Thee hath melted my heart within me.  Draw me nearer unto the river that is life indeed, for my soul burneth with thirst in its ceaseless search after Thee.  My sighs, O my God, proclaim the bitterness of mine anguish, and the tears I shed attest my love for Thee.

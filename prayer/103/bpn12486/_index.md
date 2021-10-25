@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12486 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 O God, my God! I beg of Thee by the ocean of Thy healing,…

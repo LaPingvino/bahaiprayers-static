@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5125 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Rabi Tuhanku! Bantulah kekasih-kekasih-Mu untuk tetap teguh dalam Agama-Mu, untuk berjalan di jalan-jalan-Mu, untuk tetap kukuh dalam Ajaran-Mu. Berikanlah kepada mereka kurnia-Mu agar dapat menahan serangan keakuan dan hawa nafsu dan mengikuti cahaya bimbingan keilahian-Mu. Engkaulah Maha Kuasa, Maha Rahman, Yang Berdiri Sendiri, Penganugerah, Yang Penyayang, Yang Maha Kuasa, Yang Maha Dermawan.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4156 in American Indian'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Osi vitte Kueichanchyo, netitinihsha, Nit tsut, Kititihchya tenitenitutula. Kenjit, kuikit sidhatsei choog. Tzut-nikueinidhut kenjit, choog. Tzut-nikueinidhut, Sut tei. Kkuea ei tzut.  Sinersitkwichachyo,  nitsi, nichile Kitinichi. Nekhe, vittekwichanchyo Koolikkua, nunrzi, kookontrhi. Tei, kwutsut, thitihndul. Kokwad-hun.

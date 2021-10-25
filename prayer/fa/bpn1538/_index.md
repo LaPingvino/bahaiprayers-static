@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1538 in فارسی'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fa', 'bpn-unsorted']
 +++
 هُواللّه

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6114 in Chamorro'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##DINAÑA’ ESPIRITUAT

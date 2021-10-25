@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11698 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 *Esta oración, revelada por ‘Abdu’l-Bahá, se lee en Su Santuario. También se usa como oración pri-vada.

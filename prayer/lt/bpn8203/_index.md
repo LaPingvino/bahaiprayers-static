@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8203 in Lietuvių'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lt', 'bpn-unsorted']
 +++
 O Tu, Visagali! Aš esu nuodėmingas, bet Tu esi Atleidžiantis! Aš pilnas trūkumų, bet Tu esi Gailestingasis! Aš esu klaidų tamsybėje, bet Tu esi Atleidimo Šviesa!

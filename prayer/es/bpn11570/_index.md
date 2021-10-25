@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11570 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh bondadoso Señor! Desde el horizonte del desprendimiento, has manifestado almas que, como la luna brillante, vertieron luz sobre el reino del alma y del corazón, se libraron de los atributos del mundo de la existencia y marcharon presurosas hacia el dominio de la inmortalidad. Con una gota del océano de Tu amorosa bondad, humedeciste con frecuencia el jardín de sus corazones hasta que alcanzaron frescura y belleza incomparable. La santa fragancia de Tu divina unidad fue esparcida por doquier, y derramó sus dulces aromas sobre todo el mundo y colmó las regiones de la tierra con su perfume. 

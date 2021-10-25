@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11825 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Mudi adon Ingan, O Topa ku, bia Topa sua onik. Pimulia ku bia Pimulia sua onik. Hasrat ku, bia Hasrat sua onik, Kekuatan ku bia Kekuatan sua onik, Raja ku bia Raja sua onik, Milik ku, bia Milik sua onik, Niat ku, Niat sua onik, Pigolak ku bia Pigolak sua onik!

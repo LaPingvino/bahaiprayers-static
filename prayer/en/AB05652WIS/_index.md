@@ -1,6 +1,6 @@
 +++
 title = 'Prayer AB05652WIS in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'AB05652WIS']
 +++
 He is God!

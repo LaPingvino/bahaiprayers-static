@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn577 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht sei Dein Name, o mein Gott, denn Du hast den Tag offenbart, der der König aller Tage ist, den Tag, den Du Deinen Auserkorenen und Deinen Propheten auf Deinen höchst erhabenen Tafeln angekündigt, den Tag, da Du den herrlichen Glanz all Deiner Namen auf alles Erschaffene ergossen. Groß ist die Glückseligkeit dessen, der sich Dir zuwendet, Deine Gegenwart erreicht und Deiner Stimme Klang vernimmt.

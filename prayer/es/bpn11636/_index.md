@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11636 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Alabado seas, oh Señor mi Dios! Tú ves y sabes que he llamado a Tus siervos a no volverse hacia ningún lado excepto en dirección a Tus dádivas, y les he pedido que no observen nada sino aquello que Tú prescribiste en Tu Perspicuo Libro, Libro que ha sido enviado de acuerdo con Tu inescrutable decreto y Tu irrevocable propósito.

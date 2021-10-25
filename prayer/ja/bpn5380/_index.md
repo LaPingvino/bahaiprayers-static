@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5380 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 わが神、わが愛しまつる御方、わが王、わが慕したいまつる御方よ。いかなる言葉で私の感

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6463 in Sesotho'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-st', 'bpn-unsorted']
 +++
 Kea paka, Oho Molimo oa ka, hore U ntlholile ho U tseba le ho U sebeletsa, Kea paka hona joale hore kea fokola ‘me U matla, hore ke mofutsana ‘me U morui.

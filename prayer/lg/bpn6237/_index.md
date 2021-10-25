@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6237 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ayi Katonda wange!  Ayi Ggwe Omusonyiyi w'ebyonoono, Omugabi w'ebirabo, Ajjawo okunyolwa!  

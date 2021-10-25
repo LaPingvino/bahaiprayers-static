@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1220 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Enaltecido seja o Teu nome, ó Senhor meu Deus! És O venerado por todas as coisas e O que a ninguém venera; és o Senhor de todas as coisas e de nenhuma o vassalo; és Quem conhece todas as coisas e de nenhuma é conhecido. Desejaste ser conhecido pelos homens e assim, por uma palavra dos Teus lábios, trouxeste a criação à existência e esculpiste o universo. Não há outro Deus senão Tu, o Escultor, o Criador, o Omnipotente, o Mais Poderoso.

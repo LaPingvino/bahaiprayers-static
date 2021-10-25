@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12327 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E iloa fakallei ne Koe, O toku Atua, i fakalavelave ko oti ne vaiua ifo ki luga ia au mai i feitu katoa kae e seai se tino e maua ne ia o 

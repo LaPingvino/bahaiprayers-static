@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4473 in Filipino'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Luwalhatiin Ka, O aking Diyos! Ito ay Iyong mga tagapaglingkod, na naakit ng mga kabanguhan ng Iyong pagkamahabagin, pinagningas ng apoy na naglalagablab sa punung-kahoy ng Iyong pagiging nag-iisa at ang kanilang mga mata ay pinakinang ng pagkamalas sa kaluningningan ng liwanag na kumi­ kislap sa Sinai ng Iyong pagkaisa!

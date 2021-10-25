@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8877 in 繁體中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 我的主啊！將經書之母所宣布的、祢所看重的最有裨益之物，賜予我及祢的信徒。因為只有祢，手握定奪萬物的尺度。

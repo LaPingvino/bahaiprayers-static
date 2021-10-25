@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12641 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 Petara aku, Iya ti disembah sereta disayau aku! Aku besaksi ke penyerakup Nuan enggau penyatu Nuan, lalu ngelala tepa Nuan, sekalika ia ti dulu enggau ia ke diatu. Nuan meh Pemadu Pemisi, lumpa terutu pengasih Nuan udah manjah ngagai semua orang ti bepangkat tauka ke enda, lalu bebendang berekat Iya udah manchar bela ngagai orang ti ngasi enggau ke nyakal.

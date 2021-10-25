@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10150 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O ye candles which have been lighted by the fingers of the Blessed Perfection!

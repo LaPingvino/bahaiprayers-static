@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1671 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Nöfn Þín, ó Guð minn, eru líkn sjúkum og læknisdómur þjáðum, svaladrykkur þyrstum og fró kvöldum, leiðsögn villtum og upphafning smáðum, ríkidæmi snauðum og upplýsing fáfróð­um, uppljómun döprum og huggun sorgmæddum, ylur köldum og uppreisn niðurlægðum. Með nafni Þínu, ó Guð minn, voru allir hlutir lífgaðir og himnarnir þandir út og jörðin grundvölluð og skýin hafin upp og látin senda regn sitt yfir jörðina. Sannlega eru þetta tákn miskunnar Þinnar öllum skepnum Þínum.

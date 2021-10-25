@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11757 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 *Wannan āyā, ana jan ta a ƙabarin Baha’u’llah, kō na Bab (tsīra da aminci su tabbata a garēsu). Wanda yake sō, yana iya karantā ta, rānēkun haifuwarsu.

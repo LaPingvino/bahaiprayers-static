@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10302 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Förhärligad vare Du, o Herre min Gud! Du är Han, vars kärleks eld har satt hjärtat i brand hos dem som har erkänt Din enhet och vars anletes prakt har upplyst ansiktena på dem som dragit nära Din förgård. Hur ymnig, o min Gud, är icke strömmen av Din kunskap! Hur sötmefylld, o min älskade, är ej den skada som jag i min kärlek till Dig och för Din saks skull får lida på grund av illdådarnas pilar! Hur välbehagliga är icke de sår som jag på Din stig ådrager mig genom de trolösas svärd för att förkunna Din tro!

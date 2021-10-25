@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9203 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Louange à toi, ô Seigneur, mon Dieu ! Par ton Plus-Grand-Nom, incarcéré dans la ville-prison d’Acre, tombé aux mains de ses ennemis - comme tu le vois, ô mon Dieu - et menacé par l’épée des méchants, je te supplie. Affermis-moi dans sa cause et dirige continuellement mes regards vers sa cour afin que rien ne me détourne de lui.

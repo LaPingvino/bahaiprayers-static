@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5580 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 彼こそは神におわします。神は崇高におわし、慈愛と恩恵の主にまします。

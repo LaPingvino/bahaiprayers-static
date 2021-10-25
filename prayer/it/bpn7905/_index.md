@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7905 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Tu Dio misericordioso! O Tu Che sei forte e possente! O Tu Padre affettuoso! Questi servi si sono riuniti volgendosi a Te, supplici alla Tua soglia, desiderosi della Tua infinita munificenza che emana dalla Tua grande promessa. Essi non hanno altro scopo che il Tuo beneplacito. Non hanno altro intendimento che quello di porsi al servizio dell’umanità inte-ra.

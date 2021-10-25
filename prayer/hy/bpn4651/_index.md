@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4651 in հայերեն'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hy', 'bpn-unsorted']
 +++
 Նա Զորավոր է, Ներող, Կարեկից:

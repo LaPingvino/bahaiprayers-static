@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12459 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Nafimanekwe, Kalunga, omo lwo vatumwa vaye vo hole Ovo hetu tu mine! Ove ou uli omwenyo nouyelele wetu, yukifa ovapiya voYe mendyila doYe, ndele tu pa oupuna tu ku kalele auke. 

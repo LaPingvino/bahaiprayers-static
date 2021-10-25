@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5115 in Bahasa Indonesia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Aku hanyalah makhluk yang hina, ya Tuhanku, dan

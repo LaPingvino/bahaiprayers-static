@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4953 in Vanuatu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 Ol glori i go long Yu, O God, from we Yu bin soemaot lav blong Yu long ol man! O Yu, we Yu olsem laef mo laet blong mifala, lukaotem ol wokman blong Yu, blong oli folem rod blong Yu. Mekem mifala i rij long Yu, mo mekem mifala i lego long ol narafala samting be Yu wan nomo.  

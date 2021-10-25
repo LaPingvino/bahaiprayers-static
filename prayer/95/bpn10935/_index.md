@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10935 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 *Huqúqu’lláh e tonu me se tulafono takutakua.  E ttau mo tino katoa ke fai a te taulaga tenei, auaa ko te kamataga o te alofa, koloa uke mo meal llei katoa.  Se faka-manuiaaga tela e nofo mo so se agaaga ola i lalolafgi katoa o lalolagi a te Atua, ko te Pule-Katoatoa, ko te Maukoloa-Katoatoa.  

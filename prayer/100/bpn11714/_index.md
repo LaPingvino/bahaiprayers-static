@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11714 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Ta yāyā zan nēmi barci, yā Allah Ubangijina, alhāli kuwa, ina ganin wanɗanda suke ƙaunar ka, bā su rumtsāwa don tsananin tsōron su yi nēsa da kai, kuma, ta yāyā zan mīƙē, in nēmi hūtū a kan gā shi ina ganin rāyukan māsu ƙaunar ka, suna kūkan sun yi nēsa da kai?

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn576 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Ruhm sei Dir, o Herr der Welt, Du Sehnsucht der Völker, der Du offenbar geworden bist im Größten Namen, wodurch das Meer Deines Wissens die Perlen der Weisheit und des Wortes aus ihren Muscheln treten ließ und die Sonne Deines Antlitzes bei ihrem Aufgang die Himmel göttlicher Offenbarung mit ihrem Lichte schmückte.

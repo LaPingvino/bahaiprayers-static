@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9678 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Menig verkild hart is in vlam gezet met het vuur van Uw Zaak, o mijn God, en menig slapende is gewekt door de zoetheid van Uw stem. Hoevele vreemdelingen zoeken beschutting in de schaduw van de boom van Uw één-zijn, en hoe talrijk zijn de dorstigen die in Uw dagen naar de bron van Uw levend water smachten!

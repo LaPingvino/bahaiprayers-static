@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10790 in Srpski српски'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 *TREBA  DA  SE  IZGOVARA  SVAKOG  DANA  UJUTRO, U  PODNE, I  UVEČE

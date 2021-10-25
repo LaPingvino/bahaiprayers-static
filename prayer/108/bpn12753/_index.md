@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12753 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-108', 'bpn-unsorted']
 +++
 ສໍາລັບສວດໜຶ່ງຄັ້ງໃນ 24 ຊົ່ວໂມງ

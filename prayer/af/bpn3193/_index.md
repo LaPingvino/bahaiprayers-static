@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3193 in Afrikaans'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 Hy is die gebed-horende, gebed-verhorende God!

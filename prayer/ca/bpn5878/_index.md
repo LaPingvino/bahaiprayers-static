@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5878 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Ell és Déu! Oh Déu, Déu meu! Concedeix-me un cor pur, com una perla.

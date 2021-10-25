@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1576 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 *„Daglegu skyldubænirnar eru þrjár talsins . . . Átrúandanum er frjálst að velja hverja sem er af þessum þremur bænum en honum er skylt að fara með eina þeirra í samræmi við þau sérstöku fyrirmæli sem fylgja henni.“ 

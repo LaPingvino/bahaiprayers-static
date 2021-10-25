@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3238 in Afrikaans'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 *Gebed wat by die afsluiting van 'n vergadering van die Geestelike Raad behoort gesê te word.

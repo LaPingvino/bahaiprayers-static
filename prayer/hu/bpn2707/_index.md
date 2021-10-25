@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2707 in Magyar'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hu', 'bpn-unsorted']
 +++
 A Reád áhítozó szívekben az Érted égő vágy tüze izzik, ó, Istenem, s az udvarodtól való elszakíttatás fájdalmában keserves könnyet hullatnak azok szemei, kik Téged szeretnek. Országaidat az ő siralmuk zokogása járja be, azoké, akik Benned reménykednek.

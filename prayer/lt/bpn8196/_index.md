@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8196 in Lietuvių'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lt', 'bpn-unsorted']
 +++
 Šlovė tebūnie Tau, o Viešpatie, mano Dieve! Aš maldauju Tave vardan Tavo Vardo, per kurį Tas, Kuris yra Tavo Grožis, buvo įkurdintas Tavo Reikalo soste, Tavo Vardo, per kurį Tu keiti ir surenki draugėn visus dalykus, ir kvieti juos atsiskaityti, ir atlygini jiems, ir išsaugai juos visus, ir visus išlaikai, ‒ aš maldauju Tave saugoti šią tarnaitę, kuri ieškojo prieglobsčio Tavyje, siekė To, Kuriame Tu Pats apsireiškei, paguodos ir visiškai pasitikėjo bei pasikliovė Tavimi. 

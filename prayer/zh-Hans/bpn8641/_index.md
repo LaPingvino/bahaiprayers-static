@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8641 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 任何至异域传导的人，均可日夜诵读以下祷文。

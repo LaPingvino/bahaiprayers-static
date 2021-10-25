@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn624 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Gelobt sei Dein Name, o mein Gott! Hilf Du mit Deiner stärkenden Gnade Deinen Dienern und Dienerinnen, Deine Tugenden zu künden und standhaft zu sein in ihrer Liebe zu Dir. Wieviele Blätter haben die Stürme der Anfechtung zu Boden geweht, und wieviele sind es doch, die fest am Baume Deiner Sache haften, unerschütterlich in all den Prüfungen, die über sie kamen, o Du unser Herr, der Allerbarmer!

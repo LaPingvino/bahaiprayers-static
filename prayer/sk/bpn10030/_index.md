@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10030 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Bože, môj Bože! Tvoja služobníčka k Teba volá, dôveruje Ti, obracia k Tebe svoju tvár a úpenlivo ťa prosí, aby si ju obklopil Svojimi nebeskými darmi, odhalil jej Svoje duchovné tajomstvá a osvietil ju svetlom Svojho Božstva.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7643 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Mwen priye Bondye pou Li voye glwa Mwen sou Sín Mím nan [Samandar],  ki te toujou ap jwenn favè diven yo, se sèl konesans Bondye ki kapab evalye sa li te soufri nan chemen Bondye. Lè li gen yon desizyon pou pran nan lavi li, se pou li repete diznèf fwa:

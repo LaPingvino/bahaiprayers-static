@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3730 in Eesti'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-et', 'bpn-unsorted']
 +++
 Ma palun Sinu andestust, oo mu Jumal, ja anun armu moel, nagu Sa soovid, et Sinu teenrid Su poole pöörduksid. Ma palun, et Sa peseksid ära meie patud, nii nagu sobib Sinu Issandlikkusele ning andestaksid mulle, mu vanematele ja neile, kes on Sinu arvates astunud Su armastuse elukohta, viisil, mis on Sinu kõrgeima ülemvõimu vääriline ja Sinu taevase väe hiilguse kohane.

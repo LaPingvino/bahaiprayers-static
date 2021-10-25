@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5815 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glorificat ets Tu, oh Senyor Déu meu! Tu ets Aquell, el foc de l’amor del Qual ha inflamat els cors dels qui han reconegut la Teva unitat, i els esplendors d’aquest semblant han il·luminat els rostres dels qui s’han acostat a la Teva cort. ¡Quan dolç, oh Estimat meu, és el greuge què, en el meu amor per Tu, i per la Teva complaença, pateixo a causa dels dards dels obradors d’iniquitat! Quan grates són les ferides que, en el Teu camí i a fi de proclamar la Teva Fe, rebo de les espases dels infidels!

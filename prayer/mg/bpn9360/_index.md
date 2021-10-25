@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9360 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 * “Ny fahafatesana dia manolotra ho an’ny mpino mahatoky tsirairay ny kalisy izay tena fiainana marina. Mizara fifaliana izy ary mitondra fahasambarana. Manome ny fiainana mandrakizay izy.”

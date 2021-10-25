@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11718 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Ka ƙirƙiro mani zūciya mai tsarki yā Allāna, kuma ka tabbatar mani da kyaukyāwan lamiri. Yā abun bēgēna, a cikin ƙudurarka, ka ƙarfafā ni bisa hanyarka, yā abun ƙaunata. Ka sā hasken ɗaukakarka ya būɗe mani hanyā zuwa garēka. 

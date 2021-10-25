@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH05771 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH05771']
 +++
 Praise be unto Thee, O my God!  I am one of Thy servants, who hath believed on Thee and on Thy signs.  Thou seest how I have set myself towards the door of Thy mercy, and turned my face in the direction of Thy loving-kindness.  I beseech Thee, by Thy most excellent titles and Thy most exalted attributes, to open to my face the portals of Thy bestowals.  Aid me, then, to do that which is good, O Thou Who art the Posessor of all names and attributes!

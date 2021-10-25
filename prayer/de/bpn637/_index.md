@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn637 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Gepriesen sei Dein Name, o Du, der Du alles siehst und selbst allem verborgen bist! Aus allen Landen hörest Du das Wehklagen derer, die Dich lieben, und aus jeder Richtung vernimmst Du den Jammer jener, die Deine höchste Herrschaft anerkennen. Würden ihre Unterdrücker gefragt: „Warum unterdrückt ihr sie und haltet sie in Baghdád und andernorts gefangen? Welches Unrecht haben sie begangen? Wen haben sie verraten, wessen Blut vergossen und wessen Eigentum geplündert?“, so wüssten sie keine Antwort.

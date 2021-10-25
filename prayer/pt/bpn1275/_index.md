@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1275 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Dize: Ó Deus, meu Deus! Glória a Ti por me haveres guiado ao horizonte da Tua Revelação e iluminado com os esplendores do lume da Tua generosidade e misericórdia, capacitando-me a proferir o Teu louvor e fazendo-me contemplar aquilo que foi revelado pela Tua Pena.

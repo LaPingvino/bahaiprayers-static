@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5130 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhanku, Penguasaku, Tujuan cita-citaku. Hamba-Mu ini hendak tidur di bawah perlindungan rahmat-Mu dan beristirahat di bawah kubah kurnia-Mu, memohon pemeliharaan-Mu serta perlindungan-Mu.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2186 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slăvit eşti Tu, o, Dumnezeul meu! Îţi aduc mulţumiri căci mi-ai făcut cunoscut pe Cel care este Aurora milostivirii Tale, Orientul harului Tău şi Păstrătorul Credinţei Tale. Te implor întru Numele Tău prin care feţele celor ce sunt aproape de Tine au devenit albe şi inimile celor ce-ţi sunt devotaţi şi-au înălţat zborul spre Tine, să îngădui să pot, în toate timpurile şi în toate împrejurările, să mă ţin strâns de funia Ta, şi să mă scutur de orice ataşament faţă de oricine afară de Tine, şi să-mi ţin ochii aţintiţi în direcţia orizontului Revelaţiei Tale, şi să pot duce la îndeplinire ceea ce mi-ai poruncit în Tabletele Tale.

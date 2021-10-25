@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12454 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Kalunga kange! Ove ou hokufapo omatimba! Omuyandyi womilongelo, Omupululipo wo maehameko! 

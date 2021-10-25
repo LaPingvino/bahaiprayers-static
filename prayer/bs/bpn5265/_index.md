@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5265 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 OBože, moj Bože! Tvoja vjernica Te doziva, uzdajući se u Tebe, usmjerivši svoje lice ka Tebi, preklinje Te da je obaspeš Svojim nebeskim darovima, da joj otkriješ duhovne tajne i da je obasjaš Svojim božanskim sjajem.

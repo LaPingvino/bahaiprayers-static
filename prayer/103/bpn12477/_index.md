@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12477 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-103', 'bpn-unsorted']
 +++
 *TO BE RECITED DAILY, IN THE MORNING, AT NOON, AND IN THE EVENING

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5336 in Montenegrin'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-cnr', 'bpn-unsorted']
 +++
 Ne sklanjaj, o Gospode, prazničnu trpezu koja je postavljena u Tvoje Ime, i ne gasi plamen koji je razgorjela Tvoja neuništiva vatra. Ne zaustavljaj tok svoje žive vode što žubori pjesmom Tvoje slave i Tvoga pomena, i ne lišavaj Svoje sluge Svojih slasnih miomirisa što donose daške Tvoje ljubavi.

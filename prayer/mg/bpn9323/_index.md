@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9323 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Midera Anao aho, ry Andriamanitro ô, noho ny namohazanao ahy tamin’ny torimasoko sy namerenanao ahy taorian’ny tsy naha-teo ahy ary nitsanganako tamin’ny faharendremana. Nifoha maraina aho, ny endriko nitodika tany amin’ny famirapiratry ny Kintana Marainan’ny Fanambaranao izay nampahazava ny lanitry ny Herinao sy ny Voninahitrao, nihaiky ny Famantaranao, nino ny Bokinao ary niraiki-pitia fatratra tamin’ny Tadinao.

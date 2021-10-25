@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10319 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Herre, min Gud! Bistå Dina älskade att vara fasta i Din tro, att vandra Dina vägar, att vara ståndaktiga i Din sak. Giv dem Din nåd att motstå själviskhetens och begärens lockelser och att följa den gudomliga vägledningens ljus. 

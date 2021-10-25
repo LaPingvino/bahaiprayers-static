@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7932 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Lode sia a Te, o Signore mio Dio! T’imploro, per questa Rivelazione mediante la quale l’oscurità è stata tramutata in luce e il Frequentato Tempio è stato edificato e la Tavola Scritta è stata rivelata e il Rotolo Spiegato è stato palesato, di far scendere su me e su coloro che sono in mia compagnia ciò che ci permetterà di librarci fino ai cieli della Tua gloria tra-scendente e ci detergerà dalle macchie di quei dubbi che hanno impedito ai diffidenti di entrare nel tabernacolo della Tua unità.

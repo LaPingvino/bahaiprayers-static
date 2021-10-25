@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10362 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Denna skrift läses vid Bahá’u’lláhs och Bábs gravhelgedomar. Den används även ofta på deras åminnelsedagar.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12473 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Oye Okuyapuki-elela, Omutumbalekwa-elela, Omunene-elela

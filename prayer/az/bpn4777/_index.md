@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4777 in Azərbaycan'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey əzəmətli qüdrətindən bütün şeyləri lərzəyə salan Kəs, bütün insanların işlərini ovcunda saxlayan Kəs, bütün məxluqatın üzünün fəzlinə və mərhəmətinə üz tutduğu Kəs! Səni and verirəm O Adına ki, Sən Onu adlar səltənətində olan bütün adların ruhu etmisən – Səndən üz döndərənlərin, Sənin adlarının səltənətini titrədən bu Zühürda ən yüksək və ən uca olan Zatının həqiqətini inkar edənlərin təhriklərindən bizi qoru.

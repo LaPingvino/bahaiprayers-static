@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1130 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Senhor Bondoso! Esta querida e estimada serva foi atraída a Ti, e através de reflexão e discernimento ansiou atingir a Tua presença e entrar nos Teus domínios. Com os olhos marejados ela fixou o olhar no Reino dos Mistérios. Muitas foram as noites que ela passou em profunda comunhão Contigo, e muitos foram os dias que ela viveu em íntima lembrança de Ti. A cada manhã recordava-se de Ti, e a cada noite centrava os seus pensamentos em Ti. Tal como um rouxinol canoro, ela entoou os Teus versos sagrados, e igual ao espelho procurou refletir a Tua luz.

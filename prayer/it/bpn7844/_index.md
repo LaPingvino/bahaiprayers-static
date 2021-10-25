@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7844 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Magnificato sia il Tuo Nome, o Signore mio Dio! Tu sei Colui Che tutte le cose adorano e Che non ne adora nessuna, sei il Signore di tutte le cose e vassallo di nessuna, Colui Che conosce tutte le cose e non è conosciuto da alcuna. Volesti farTi conoscere dall’uomo e perciò con una parola della Tua bocca generasti il creato e plasmasti l’universo. Non v’è altro Dio che Te, l’Artefice, il Creatore, l’Onnipo-tente, il Poten-tissimo.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11877 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Ingan pu’ant dengan punuae bonar, O Topa ku, nang pinguji mbok nyupiet tunt oku dek nog sok tibilang kawa bia bahawa doie osi-osi dek ponai pilokang ato ponai kibalui pinguji jok-eh Ingan. Oku pu’ant dengan pasti, pakai sifat pangirinduk ku sa’ant Ingan, nang Ingan yak sekalik dik-eh odak pinguji nyonug simun-mun jiwa suma mo Ingan gili’ient yak pa’ad stesen iyoh daang Surga Ingan dek jongon bia nukang nogap otin iyoh daang idip dotin eh pakai sinung kuta-kuta kuasa paling sogat Ingan, sak pod-pod iyoh dik-eh panai bibulik tudu samuh pongah dunia tih. Sebonar-eh Ingan leh dek bonar-bonar ngoon nang dek daang sua keadaan oku harus ngipongon panginatong ndu Ingan juwuae doras sok nyaa dek kaku sua dek daang longit duoh ndu tanak.

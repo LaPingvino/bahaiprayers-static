@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10027 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Ty, ktorý hľadáš pravdu! Ak túžiš po tom, aby Ti Boh otvoril oči, musíš Ho úpenlivo prosiť; modliť sa k Nemu a zhovárať sa s nim o polnoci takto:

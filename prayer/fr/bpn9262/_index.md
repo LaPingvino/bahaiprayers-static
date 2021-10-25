@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9262 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, Dieu de bonté et de miséricorde, tu es ce roi qui, d’un mot, appela à l’existence la création tout entière. Tu es ce souverain bienfaisant qui sans fin déverse sa clémence et révèle sa bonté malgré les actes de ses serviteurs.

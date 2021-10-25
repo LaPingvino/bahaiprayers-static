@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1145 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Senhor bondoso! Benevolamente, concede a cada uma destas avezinhas um par de asas celestiais, e dá-lhes poder espiritual a fim de que possam alçar voo através desse espaço ilimitado e atingir as alturas do Reino de Abhá.

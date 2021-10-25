@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8234 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Ever-Living, the Ever-Abiding, the Self-Subsisting.

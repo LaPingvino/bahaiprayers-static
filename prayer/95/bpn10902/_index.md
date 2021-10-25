@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10902 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 I te Igoa o Tou Aliki, ko te Tofuga, ko te Tupu, ko te Lava-Katoatoa, ko te Maluga, Tela a Tena fesoasoani e salagagia ne tino katoa.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4461 in Filipino'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Diyos, na May-Akda ng Lahat ng Kahayagan, at Pinagmulan ng lahat ng mga Pinagmulan, na Ulong-Bukal ng lahat ng Rebelasyon, at Pinagbubukalan ng lahat ng mga Liwanag! Sumasaksi ako na sa Iyong Pangalan ang langit ng pag-unawa ay pinalamutihan, at ang karagatan ng pananalita ay dumaluyong, at ang mga kaloob ng Iyong pagpapala ay pinalaganap sa mga tagasunod ng lahat ng relihiyon.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7722 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Glwa pou non Ou, O Senyè Bondye mwen! Mwen mande Ou pou temwaye je mwen k’ap espere gade mèvèy mizèrikòd Ou yo, ak zòrèy mwen ki anvi tande dous melodi Ou yo, ak kè mwen k’ap chèche jwenn dlo konesans Ou yo k’ap bay lavi. Ou wè sèvant Ou an, O Bondye mwen, k’ap kanpe devan abitasyon mizèrikòd Ou a, k’ap rele non Ou te chwazi mete pi wo pase tout lòt non yo epi domine sila yo ki nan syèl la e ki sou latè. Voye desann sou li souf mizèrikòd Ou yo, pou pèmèt li konplètman detache li ak pwòp tèt pa li, e avanse konplètman nan direksyon syèj k’ap klere depi yon gran distans avèk limyè pouvwa Ou ki soti nan glwa vizaj Ou a, yon syèj ki etabli kòm twòn Ou an. Ou gen pisans pou fè tout sa Ou deside. Pa gen lòt Bondye esepte Ou menm, Tout-Gloriye a, Sila a Ki Gen Plis Bonte a.

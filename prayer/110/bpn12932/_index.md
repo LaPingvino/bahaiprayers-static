@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12932 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 Em I God Bilong Marimari, Em I Save Givim Olgeta Blesing! 

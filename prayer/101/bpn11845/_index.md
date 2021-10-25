@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11845 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Ingan Topa dek pirasie! O Ingan Nyaa dek doras duoh dek bikuasa! O Ingan Samak dek paling tulut! Dimutik ulunt-ulunt dek mbok samah-samah bigupul, tikos tudu Ingan, mujok-bito’os pinutuab Ingan, so’ot pingungin Ingan dek dik-eh potod-podiak nog sok jaminan ayuh Ingan. Bala tih mbok doie niat dibokon jok-eh ngin khidmat tudu dunia manusia.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9403 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Raha miditra ao amin’ny efitrano filan-kevitra ianareo, manaova ity vavaka ity amin’ny fo midoboka ny fitiavana an’Andriamanitra, ny lela voadio amin’ny zavatra rehetra afatsy ny fahatsiarovana Azy, mba hanampian’Ilay Tompo Mahery anareo  am-pitiavana hahazo ny fandresena tampony.

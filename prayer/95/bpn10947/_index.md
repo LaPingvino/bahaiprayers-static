@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10947 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O God my God! I beg of Thee...

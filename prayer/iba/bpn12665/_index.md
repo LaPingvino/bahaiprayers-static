@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12665 in Iban'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 O Petara aku enggau Tuan aku! Aku tu pengasuh Nuan lalu anak pengasuh Nuan. Aku udah angkat ari padung peninduk aku pagi tu lebuh maya Bintang- Siang penyatu Nuan manchar ari Terebak-tawas peneka Nuan, lalu udah mancharka penampak ia di selampur dunya tu, nitihka ti udah diletak dalam Bup Letak-Tangkan Nuan.

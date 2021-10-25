@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4453 in Filipino'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ang Tagalunas, ang Nagbibigay ng Sapat, ang Katulong, ang Laging Nagpapatawad, ang Pinaka Maawain.

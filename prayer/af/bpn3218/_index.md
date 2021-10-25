@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3218 in Afrikaans'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O my God! O my God! Voorwaar, ek roep aan en smeek U voor U drumpel, en vra U dat al U barmhartigehede op hierdie siele mag neerdaal. Onderskei hulle vir U guns en U waarheid.

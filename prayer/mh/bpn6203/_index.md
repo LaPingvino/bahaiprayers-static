@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6203 in Marshallese'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mh', 'bpn-unsorted']
 +++
 Kabin bunten ne ko neem, O Iroij, ilo ial eo Am im kakajur buruem ilo am kibilie nan Kwe. Ukot waj mej ko mejem nan aibuijuij in juon-wot eo Am, im kamononoik einbwinim kin kokkalen juon-wot eo Am jen lan. Kebelbel enbwinim kin nuknuk in jouij eo Am, im jolok jen mejem men ko rej binej kin jerawiwi, im letok nan kim kab in jouij eo Am; bwe aurok ilo aolep men in komanman ren al im nebar Yuk iman utiej im kajur eo Am. Innem Kwon kalikar Yuk, O Iroij, kin tiriamo in naan eo Am im itino in bed eo Am, im bwe kin jar eo ekwojarjar en kokajur jitob ko am— juon jar eo emoj an le ilonin naan ko im leta ko im ellalok ilonin ainikien syllable ko im ainikien ko—bwe aolep men otemjij ren onlok im ejelok mokta jen an walok meram eo Am.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11499 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh mi Dios, oh mi Dios! Gloria a Ti por cuanto me has confirmado para reconocer Tu unicidad, me has atraído hacia la palabra de Tu singularidad, me has encendido con el fuego de Tu amor y has hecho que me ocupe en Tu mención y en el servicio a Tus amigos y siervas.

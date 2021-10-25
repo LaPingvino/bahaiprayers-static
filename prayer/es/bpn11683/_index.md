@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11683 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Gloria sea a Ti, oh Señor mi Dios! Tú has ordenado a todos, oh mi Dios, observar el ayuno durante estos días, para que mediante él purifiquen sus almas y se liberen de todo apego a otro que no seas Tú, y que de sus corazones ascienda lo que sea digno de la corte de Tu majestad y propio de la sede de la revelación de Tu unicidad. Permite, oh mi Señor, que este ayuno llegue a ser un río de aguas vivifi-cantes y produzca la virtud con que lo has dotado. Purifica con él los corazones de Tus siervos a quienes los males del mundo no han podido impedir que se vuelvan hacia Tu gloriosísimo Nombre, y que han permanecido impasibles ante el clamor y el tumulto de quienes han repudiado Tus muy resplandecientes señales, que han acompañado el advenimiento de Tu Manifestación, a Quien has investido con Tu soberanía, Tu poder, Tu majestad y Tu gloria. Estos son los siervos que, tan pronto como oyeron Tu llamado, se dirigieron presurosos hacia Tu merced, y a quienes ni los cambios y azares de este mundo, ni ninguna limitación humana, pudieron apartar de Ti.

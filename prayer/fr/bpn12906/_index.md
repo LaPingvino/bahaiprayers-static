@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12906 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô toi, Seigneur incomparable et bienveillant! Bien que nous manquions de capacités et de mérites, et même s’il est infiniment difficile de résister aux tribulations, tu nous accordes capacités et mérites. Ô Seigneur! Rends-nous capables et dignes, afin que nous fassions preuve de la plus grande fermeté, que nous renoncions à ce monde et à tous ses habitants, que nous embrasions le feu de ton amour et que, tels des flambeaux, nous brûlions d’une flamme dévorante et répandions notre éclat. 

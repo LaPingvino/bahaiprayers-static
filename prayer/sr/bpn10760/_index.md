@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10760 in Srpski српски'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sr', 'bpn-unsorted']
 +++
 Ja sam onaj, O moj Gospode, koji je okrenuo lice ka Tebi, i utemeljio svoju nadu na Tvojoj čudesnoj milosti i otkrovenjima Tvoje dobrote. Molim Ti se da ne dozvoliš da odem razočaran sa praga Tvog milosrđa, i da me ne ostaviš na nemilost onima koje si Ti stvorio, a koji su odbacili Tvoj Cilj.

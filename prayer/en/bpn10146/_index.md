@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10146 in English'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 O thou tender plant in the garden of the love of God!

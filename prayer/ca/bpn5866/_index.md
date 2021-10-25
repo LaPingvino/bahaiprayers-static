@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5866 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Oració Llarga De Guariment

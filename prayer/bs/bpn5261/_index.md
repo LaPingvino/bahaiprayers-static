@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5261 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Slava Tebi, Bože, zbog Tvoje objave ljubavi čovječanstvu! O, Ti Koji si naš Život i Svjetlo! Vodi Svoje sluge na Svome putu, obogati nas Sobom i oslobodi svega osim Tebe.

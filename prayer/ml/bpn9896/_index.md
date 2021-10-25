@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9896 in മലയാളം'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ml', 'bpn-unsorted']
 +++
 അങ്ങാണ് രോഗശമനകാരിയും, മതിയായവനും, സഹായിയും, സര്‍വ്വംസഹനും, സര്‍വ്വദയാമയനും.

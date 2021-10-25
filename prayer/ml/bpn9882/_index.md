@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9882 in മലയാളം'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ml', 'bpn-unsorted']
 +++
 പ്രഭാതത്തിലും മദ്ധ്യാഹ്നത്തിലും പ്രദോഷത്തിലുമായി നിത്യേന ചൊല്ലേണ്ട പ്രാര്‍ത്ഥന.

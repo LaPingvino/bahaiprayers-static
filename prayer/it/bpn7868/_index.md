@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7868 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Il peccatore, quando si sente completamente distaccato e libero da tutto fuorché Dio, deve implorare la Sua indulgenza e il Suo perdono. La confessione di peccati e colpe davanti a creature umane non è permessa, perché ciò non ha mai condotto né mai condurrà al perdono di Dio... 

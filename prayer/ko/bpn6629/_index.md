@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6629 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 주님의 이름에 찬미, 제가 생명수를 들이키게

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH08264 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH08264']
 +++
 Glory be to Thee, O my God!  Thou hearest Thine ardent lovers lamenting in their separation from Thee, and such as have recognized Thee wailing because of their remoteness from Thy presence.  Open Thou outwardly to their faces, O my Lord, the gates of Thy grace, that they may enter them by Thy leave and in conformity with Thy will, and may stand before the throne of Thy majesty, and catch the accents of Thy voice, and be illumined with the splendors of the light of Thy face.

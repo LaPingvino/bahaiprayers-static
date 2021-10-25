@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2200 in România'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 Locuinţa mea este căminul păcii.

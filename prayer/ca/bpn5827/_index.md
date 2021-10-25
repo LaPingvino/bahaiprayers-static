@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5827 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Digués: Magnificat sigui el Teu Nom, oh Senyor Déu meu! Et prego pel Teu Nom, pel mitjà del qual lluï resplendent l’esplendor de la llum de la saviesa quan els cels de l’expressió divina es posaren en moviment entre la humanitat, que m’ajudis generosament amb les Teves confirmacions celestials i em permetis exaltar el Teu Nom entre els Teus serfs.

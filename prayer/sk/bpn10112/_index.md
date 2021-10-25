@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10112 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Táto modlitba sa číta na záver stretnutia duchovnej rady.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BB00560 in English'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-en', 'BB00560']
 +++
 In the Name of Thy Lord, the Creator, the Sovereign, the All-Sufficing, the Most Exalted, He Whose help is implored by all men.

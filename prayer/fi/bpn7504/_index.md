@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7504 in Suomi'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumala, joka olet kaikkien ilmaisijoiden luoja, kaikkien lähteiden lähde, kaikkien ilmoitusten alkulähde ja kaikkien  valojen lähteensilmä! Todistan, että Sinun nimesi kautta ymmärryksen taivas on kaunistettu ja ilmaisun valtameri hyökynyt ja kaitselmuksesi annit julistettu kaikkien uskontojen seuraajille.

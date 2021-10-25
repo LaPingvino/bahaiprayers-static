@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9317 in Malagasy'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 Fantatro ry Tompo, fa ireo fahotako dia nandrakotra henatra ny tavako teo Anatrehanao, ary nampanjoko ny lamosiko teo Anoloanao, nanelanelana ahy sy ny Hatsaran-tarehinao, nihodidina ahy tamin’izay naleha rehetra, nanakana ahy avy amin’ny lafiny rehetra tamin’ny fahazoana ny fidirana amin’ny fanambarana ny Fahefan-danitrao.

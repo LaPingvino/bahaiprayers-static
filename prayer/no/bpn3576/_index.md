@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3576 in Norsk'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-no', 'bpn-unsorted']
 +++
 Lovet være du, o Herre min Gud! Jeg bevitner at du fra evighet var opphøyet i din altoverskyggende velde og makt, og at du til evighet vil forbli i din altoverstrålende kraft og herlighet. Ingen i jordens og himmelens riker makter å gjøre ditt forsett til intet; ingen i alle åpenbaringens og skapningens verdener kan beseire deg. På ditt bud gjør du hva du vil, og ved ditt herredømmes kraft hersker du som du behager.

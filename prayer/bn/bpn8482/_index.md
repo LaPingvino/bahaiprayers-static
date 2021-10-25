@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8482 in বাংলা'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bn', 'bpn-unsorted']
 +++
 তিনিই পরম পবিত্র, পরম প্রশংসিত, সর্ব-মহান।”

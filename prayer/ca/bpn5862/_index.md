@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5862 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu meu! Jo et demano per l’oceà del Teu guariment, pels esplendors del sol de la Teva gràcia i pel Teu Nom, mitjançant el qual sotmeteres els Teus serfs, pel poder penetrant de la Teva molt exaltada Paraula i la potència de la Teva molt augusta Ploma, i per la Teva misericòrdia, què ha precedit la creació de tots els qui estan al el cel i la terra, que em purifiquis amb les aigües de la Teva generositat de tota aflicció i dolença i de tota debilitat i flaquesa. 

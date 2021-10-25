@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn639 in Deutsch'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Im Namen Gottes, des Herrn überwältigender Majestät, des Allbezwingenden.

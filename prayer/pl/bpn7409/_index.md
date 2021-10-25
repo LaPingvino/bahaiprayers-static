@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7409 in Polski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Potężnym, Wybaczającym i Współczującym!

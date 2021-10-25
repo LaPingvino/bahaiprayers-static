@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8810 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！祢是我的希冀和摯愛，我的至高追求與期待！我極度謙卑、完全忠誠，求祢讓我在祢的國度裡，成為祢仁愛之高塔，祢造物中知識之明燈，祢王國里聖恩之旗幟。

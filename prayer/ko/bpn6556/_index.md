@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6556 in 한국어'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 회의장에 들어가서는 항상 하느님께 대한 사랑 으로 고동치는 가슴과 하느님에 대한 기억 외에 모든 것을 잊어버린 순결한 입으로 이 기도문을 낭송하라. 그리하면 전능자께서는 그대들이 최대 의 승리를 얻을 수 있도록 친절히 도우실 것이다.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2359 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak mans Kungs! Tu zini, ka sāpes un ciešanas apņem cilvēkus, ka visapkārt viņiem ir grūtums un raizes. Neviens pārbaudījums neiet viņiem secen, un kā čūskas dzelonis viņiem draud drūms posts. Vienīgo glābiņu un patvērumu viņi rod zem Tava saudzējošā un sargājošā spārna.

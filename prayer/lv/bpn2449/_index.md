@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2449 in Latviešu'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Šīs, ak mans Dievs, ir tās dienas, kurās Tu Saviem kalpiem esi licis ievērot gavēni. Ar to Tu rotāji Savas Likumu Grāmatas ievadu, ko Tu atklāji Savai radībai, un greznoji Savu baušļu krājumus, lai tos skata visi, kas ir Tavās debesīs, un visi, kas ir uz Tavas zemes. Katrai stundai šajās dienās Tu esi piešķīris īpašu spēku, kas bez Tevis nav izzināms nevienam, jo Tava zināšana ietver visu, kas ir radīts. Tāpat Tu katrai dvēselei esi piešķīris daļiņu no šī spēka saskaņā ar Sava likuma Vēstuli un Sava neatsaucamā sprieduma Rakstiem. Vēl jo vairāk, ikvienu šo Grāmatu un Rakstu lapu Tu esi veltījis ikvienai no zemes tautām un ciltīm.

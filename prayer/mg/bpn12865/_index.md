@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12865 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 ##VAVAKA FANGATAHAM-PAHASITRANANA LAVA

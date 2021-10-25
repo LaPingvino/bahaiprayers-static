@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10069 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó môj Bože, Bože štedrosti a milosrdenstva! Ty si Kráľ, ktorý Slovom Svojho príkazu stvoril všetko bytie a Ty si Ten nadovšetko Štedrý, ktorému činy služobníkov nikdy neboli prekážkou v tom, aby preukazoval Svoju milosť, ani Mu nezabránili prejavovať Svoju štedrosť.

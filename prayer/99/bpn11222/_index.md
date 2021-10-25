@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11222 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-99', 'bpn-unsorted']
 +++
 Ee Mungu wangu!  Ee Ewe msamehe dhambi, Mpaji thawabu, mwondoa huzuni!   

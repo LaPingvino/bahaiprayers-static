@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2288 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 El este Cel Tare, Cel ce Iartă, Cel Milostiv!

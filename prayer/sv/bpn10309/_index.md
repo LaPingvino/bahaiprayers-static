@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10309 in Svenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 O min Gud! O Du syndernas förlåtare, gåvornas givare, bedrövelsens förjagare.

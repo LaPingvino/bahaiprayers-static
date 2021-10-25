@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7805 in Italiano'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 O Signore! Rendi radioso questo giovane e dispensa la Tua munificenza a questa povera creatura.

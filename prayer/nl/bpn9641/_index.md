@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9641 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Glorie zij U, o mijn God! Gij hoort Uw vurige minnaars wenen omdat zij van U gescheiden zijn, en hoort hen die U erkend hebben weeklagen vanwege hun veraf zijn van Uw tegenwoordigheid. Open voor hen de poorten van Uw genade, o mijn Heer, dat zij die met Uw toestemming en naar Uw wil kunnen binnengaan, en voor de troon van Uw majesteit mogen staan, de klank van Uw stem horen, en verlicht raken met het licht dat van Uw gelaat straalt.

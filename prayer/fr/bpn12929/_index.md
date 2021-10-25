@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12929 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Si généreux, si plein de grâce, ô toi, Seigneur, 

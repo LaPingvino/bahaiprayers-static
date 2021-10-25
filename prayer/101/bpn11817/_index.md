@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11817 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Ngin mulia tudu Ingan, O Raja alam baka, bia Pimotan Negara-negara, bia Pinokoh setiap tulang rumuk! Oku bidoa tudu Ingan, pakai Adon Ingan sok noh Ingan ogi mogant sua manusia odi tudu talis keagungan duoh pimulia Ingan, bia ogi ngotag ulunt-ulunt Ingan odi tudu boli budi duoh pingodah Ingan, odak ngibilang oku samah kodae nyaa dek kadi odop-eh sok sua onik jok-eh Odop Ingan, bia mbok ngotak odop-eh nuju Ingan, bia dek dik-eh obuah supiah odak pangirugi dek mbok nitah Ingan, ngan iyoh kos nuju hadiah-hadiah Ingan. 

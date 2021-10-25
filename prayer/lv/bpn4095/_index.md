@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4095 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Dievs! Ak Dievs! Tu redzi, kā drūma tumsa apņem visas zemes, deg tās strīdu ugunsgrēkos, un kara un slaktiņu liesmas plosās gan rietumos, gan austrumos. Asinis tiek lietas, līķi gulst kaudzēs, un nocirstās galvas tiek kaujas laukā zemē mestas!

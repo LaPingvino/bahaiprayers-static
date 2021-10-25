@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1264 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó meu Deus! Não fossem as tribulações que eles suportam no Teu caminho, como haveriam de se distinguir aqueles que verdadeiramente Te amam? E sem as provações enfrentadas por amor a Ti, de que modo seria revelada a posição dos que por Ti anseiam? A Tua grandeza dá-me testemunho! Todos que Te adoram têm por companheiras as suas lágrimas, e aqueles que a Ti se volvem têm o consolo dos seus próprios gemidos; o alimento dos que se apressam a encontrar-Te são os fragmentos dos seus corações despedaçados.

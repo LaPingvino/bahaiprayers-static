@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH07113 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH07113']
 +++
 Praise be to Thee, O Lord my God!  Thou seest and knowest that I have called upon Thy servants to turn nowhere except in the direction of Thy bestowals, and have bidden them observe naught save the things Thou didst prescribe in Thy Perspicuous Book, the Book which hath been sent down according to Thine inscrutable decree and irrevocable purpose.

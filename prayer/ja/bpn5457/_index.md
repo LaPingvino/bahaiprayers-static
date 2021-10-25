@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5457 in 日本語'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお神よ、わが神よ。私は悔くい改あらため、あなたを仰あおぎまつりました。まことにあなたは許し給い、憐あわれみ深き御方におわします。

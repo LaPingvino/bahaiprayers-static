@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn617 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Gelobt sei Dein Name, o Herr mein Gott! Du bezeugst, dass Dein Wille über alles Erschaffene herrscht und Deine Barmherzigkeit alle überragt im Himmel und auf Erden. Und als nach Deinem Ratschluss Deine höchste Herrschaft entschleiert, Dein Wort verherrlicht und Deine Großmut und Barmherzigkeit offenbart werden sollte, da ließest Du einen Deiner Diener aufstehen, Du erwähltest Ihn vor allen Geschöpfen, Du sondertest Ihn aus für Deine Absicht, legtest Ihm das Gewand Deiner Führung an, tauchtest Ihn in die Meere Deiner Majestät und Größe, Du heiligtest Ihn von allem, was der Größe Deiner Herrlichkeit und der Gewalt Deiner Macht nicht entspricht und gebotest Ihm, den Ruf zu erheben vor allen im Himmel und auf Erden und die Menschen zuhauf vor die Manifestation Deines Selbstes und den Offenbarer Deiner Zeichen zu laden.

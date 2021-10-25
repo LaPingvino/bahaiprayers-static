@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8266 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Excerpt from the Súriy-i-Ahzán

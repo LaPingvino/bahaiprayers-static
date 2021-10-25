@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6376 in Cymraeg'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 ##Short Obligatory Prayer

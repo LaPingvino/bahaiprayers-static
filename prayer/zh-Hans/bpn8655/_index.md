@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8655 in 简体中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 主啊，我的上帝！赞美归于祢！黑暗笼罩大地，灾祸困扰万邦，但我仍能察觉祢智慧的璀璨，领悟祢天佑的光芒。

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2195 in România'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Dumnezeule, şi Dumnezeul tuturor

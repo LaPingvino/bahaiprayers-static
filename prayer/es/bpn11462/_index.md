@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11462 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Mi Dios, mi Adorado, mi Rey, mi Deseo! ¿Qué lengua puede expresar mis gracias a Ti? Yo era negligente, Tú me despertaste. Yo me había apartado de Ti, Tú me ayudaste bondadosamente a volverme hacia Ti. Yo era como un muerto, Tú me hiciste revivir con el agua de vida. Yo estaba marchito, Tú me reanimaste con la corriente celestial de Tu Palabra, que ha brotado de la Pluma del Todomisericordioso.

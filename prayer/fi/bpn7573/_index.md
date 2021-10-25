@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7573 in Suomi'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani! Oi Jumalani! Totisesti Sinun palvelijasi, nöyränä jumalallisen ylimmyytesi majesteettiuden edessä ja mitättömänä ykseytesi ovella, on uskonut Sinuun ja Sinun säkeisiisi, todistanut sanastasi,  on syttynyt rakkautesi tulesta, upottautunut tietosi valtameren syvyyksiin, on viehättynyt henkäyksistäsi, turvannut rukouksissansa Sinuun ja on vakuuttunut armahduksestasi ja anteeksiannostasi. Hän on hyljännyt tämän kuolevaisen elämän ja lentänyt kuolemattomuuden valtakuntaan kaivaten suosiota kohdata Sinut.

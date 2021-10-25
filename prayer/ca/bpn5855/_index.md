@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5855 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glòria a Tu, oh Rei de l’eternitat, Faedor de nacions i Modelador de cada os corruptible! Et prego pel Teu Nom, per mitjà del qual cridares a tota la humanitat cap a l’horitzó de la Teva majestat i glòria i guiares als Teus serfs a la cort de la Teva gràcia i els Teus favors que em comptis entre aquells qui s’han lliurat de tot excepte de Tu i s’han girat cap a Tu, i entre aquells als qui les desgràcies que Tu has decretat no els han impedit tornar-se cap els Teus dons.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8255 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 #Lawh-i-Ghulámu’l-Khuld

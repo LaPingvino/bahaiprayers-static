@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn541 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, der Du der Schöpfer aller Manifestationen bist, der Born aller Borne, der Urquell aller Offenbarung, der Quell allen Lichtes! Ich bezeuge, dass durch Deinen Namen der Himmel des Verstehens sich schmückt, das Meer der Rede wogt und das Walten Deiner Vorsehung den Anhängern aller Religionen verkündet wird.

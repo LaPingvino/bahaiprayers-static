@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5189 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Tuhanku, Pujaanku, Rajaku, Hasratku! Bahasa apakah yang dapat menyampaikan rasa syukurku kepada-Mu? Aku alpa, Engkau sadarkan daku. Aku telah berpaling dari-Mu, dengan rahmat-Mu Engkau telah membantu daku agar berpaling kepada-Mu. Aku bagaikan orang mati, Engkau telah menghidupkan daku kembali dengan air hayat. Aku layu, Engkau telah menyegarkan daku dengan sungai surgawi ucapan-Mu yang telah mengalir dari Pena Yang Maha Penyayang.

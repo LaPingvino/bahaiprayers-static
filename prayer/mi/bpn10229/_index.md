@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10229 in Māori'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mi', 'bpn-unsorted']
 +++
 *Katoa o ngā hoa o Te Atua ... me tākoha ki tāna e āhei ai, ahakoa pēhea te iti, te nui rānei. Kāore Te Atua e whakatoimaha i te wairua ora kia pā te raruraru ki a ia. Me tuku aua tākoha mai i ngā pokapū katoa, mai i ngā kaiwhakapono katoa ... E Ngā Hoa o Te Atua! Me mārama, me tau rā anō mā te takoto o ō koutou tākoha, o ō koutou ahuwhenua, o ō koutou ahumahi, o ō koutou tauhokohoko koutou e whakapaingia ai ki te tōnui rawa. ki te tākoha me ngā tukunga. Ko ia te haere mai me tāna mahi pai kotahi, whakareatia ki te tekau te hua mōna. Tūturu ko tā Te Ariki ora he nui rawa atu te tākoha ki te hunga whakapau rawa ki Tōna ara. 

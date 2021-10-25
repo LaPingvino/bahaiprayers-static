@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5717 in ภาษาไทย'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-th', 'bpn-unsorted']
 +++
 (ออกจากบ้าน)

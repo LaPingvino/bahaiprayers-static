@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7332 in Polski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pl', 'bpn-unsorted']
 +++
 Następującą modlitwę powinno się czytać (…) każdego dnia:

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7822 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Egli è il Possente il Perdonatore, il Compassionevole!

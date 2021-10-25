@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5107 in Bahasa Indonesia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-id', 'bpn-unsorted']
 +++
 Kemuliaan bagi-Mu, ya Tuhan-Ku! Jika tak ada malapetaka-malapetaka yang menimpa di jalan-Mu, bagaimanakah para pencinta-Mu yang sejati dapat dikenali; dan jika tak ada cobaan-cobaan yang diderita demi cinta kasih pada-Mu, bagaimanakah kedudukan mereka yang berhasrat kepada-Mu dapat dinyatakan? Kekuasaan-Mu menjadi saksiku bahwa sahabat- sahabat mereka yang memuja Dikau adalah air mata yang mereka cucurkan, dan penghibur-penghibur mereka yang mencari Dikau adalah ratap tangis yang mereka keluarkan, dan makanan mereka yang bergegas untuk bertemu dengan Dikau ialah kepingan- kepingan hati mereka yang patah.

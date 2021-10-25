@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1657 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ég er sá, ó Drottinn minn, sem hef beint augliti mínu að Þér og fest vonir mínar á undrum náðar Þinnar og opinberunum hylli Þinnar. Ég bið Þig að láta mig ekki hverfa vonsvikinn frá dyrum náðar Þinnar né gefa mig á vald þeim af skepnum Þínum sem hafa afneitað málstað Þínum.

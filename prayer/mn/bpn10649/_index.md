@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10649 in Монгол хэл'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mn', 'bpn-unsorted']
 +++
 *Оюун Санааны Чуулгын хурлын төгсгөлд хэлэх мөргөл. 

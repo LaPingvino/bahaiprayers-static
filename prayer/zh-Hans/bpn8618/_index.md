@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8618 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！一切荣耀归于祢！祢使我确信祢的同一，吸引我倾听祢独一的话语。祢用爱火点燃了我，使我全心赞颂祢，服务于祢的朋友和仆人。

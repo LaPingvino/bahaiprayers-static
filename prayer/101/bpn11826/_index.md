@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11826 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa Raja koih! Nyinung nyabal koih pakai budi Ingan sok oni sija dek boleh jadi pangibu’ui tudu Ingan, bia bimurah otin tudu koih onik dek biguna daang Ingan: Ngin tudu koih bogok-bogok onik nog sok pingungin Ingan, duoh ngin berkat koih. Maaf koih tilanan onik dek mbok nai koih, bia mamiak kadi dosa-dosa koih, bia ngapunt koih pakai sudi apunt Ingan. Totap, Inganleh dek Paling Bigatung, dek Biginong-Sadik.

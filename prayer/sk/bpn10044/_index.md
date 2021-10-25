@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10044 in Slovensky'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ty láskavý Pane! Vidíš tu svojich služobníkov, ktorí sa zhromaždili na tomto stretnutí, obrátili sa k Tvojmu kráľovstvu a potrebujú Tvoje dary a požehnania. O Bože! Prejav a učiň jasnými znamenia Svojej jedinosti, ktoré si vložil do všetkých esencii života. Odhaľ a rozviň cnosti, ktoré si ukryl a utajil v týchto ľudských podstatách.

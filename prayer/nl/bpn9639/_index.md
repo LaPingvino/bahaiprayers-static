@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9639 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij liefderijk Heer! Gij hebt de gehele mensheid geschapen uit dezelfde ouders. Gij hebt beschikt dat allen tot dezelfde familie behoren. In Uw heilige tegenwoordigheid zijn allen Uw dienaren, en de gehele mensheid wordt door Uw tabernakel beschut; allen zijn verzameld rond Uw Tafel van overvloed; allen worden verlicht met het licht van Uw voorzienigheid.

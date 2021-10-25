@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9565 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Hij is de Genadige, de Almilddadige!

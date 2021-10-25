@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9531 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Ere zij U, o mijn God! Hoe zouden Uw ware minnaars anders worden herkend dan door de beproevingen die zij te verduren krijgen op Uw pad; en hoe zou de rang van hen die hevig naar U verlangen anders kunnen worden onthuld dan door de beproevingen die zij uit liefde voor U verdragen? Uw macht is mij tot getuige! Allen die U aanbidden hebben hun tranen tot metgezel, en zij die U zoeken worden vertroost door hun eigen kreunen, en zij die zich tot U haasten hebben de scherven van hun gebroken hart tot voedsel.

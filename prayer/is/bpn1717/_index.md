@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1717 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Guð minn, Þú sem ég tilbið og dái, hinn vold­ugasti! Ég ber því vitni að ekkert sem skapað er getur nokkru sinni tjáð Þig og engin lofgjörð lýst Þér. Enginn í alheimi getur með skiln­ingi sínum eða vitsmunum fengið inngöngu í heilagan forgarð Þinn né afhjúpað dul Þína svo Þér hæfi. Hvaða synd hefur haldið íbúum borgar nafna Þinna svo fjarri Þínum al-dýrlega sjóndeildarhring og svipt þá aðgangi að Þínu æðsta hafi? Einn stafur í bók Þinni er móðir allrar tjáningar og eitt orð þeirrar bókar fæðir af sér alla sköpun. Hvaða vanþakklæti hafa þjónar Þínir sýnt að Þú haldir þeim, öllum sem einum, frá þekkingu á Þér? Dropi úr úthafi miskunnar Þinnar nægir til að slökkva loga vítis og neisti af eldi ástar Þinnar getur kveikt í heilli veröld.

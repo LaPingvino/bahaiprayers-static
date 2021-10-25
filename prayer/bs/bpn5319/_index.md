@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5319 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Ploča Pohođenja Báb-a i Bahá’u’lláh -a 

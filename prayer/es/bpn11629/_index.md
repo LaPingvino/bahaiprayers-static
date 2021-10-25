@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11629 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, nuestro Señor! Protégenos, mediante Tu gracia, de todo cuanto Te sea repugnante, y concédenos aquello que sea propio de Ti. Otórganos una porción mayor de Tu munificencia y bendícenos. Perdónanos por las cosas que hemos hecho, disculpa nuestros pecados y absuélvenos con Tu magnánima indulgencia. Verdaderamente, Tú eres el Exaltadísimo, Quien subsiste por Sí mismo.

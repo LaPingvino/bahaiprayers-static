@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7826 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Magnificato sia il Tuo Nome, o mio Dio, perché hai manifestato il Giorno che è il Re dei Giorni, il Giorno che annunziasti ai Tuoi Prescelti e ai Tuoi Profeti nelle Tue più eccelse Tavole, il Giorno in cui diffondesti lo splendore della gloria di tutti i Tuoi nomi su tutte le cose create. Grande è la benedizione di chiunque si è volto verso di Te, è pervenuto alla Tua presenza e ha colto gli accenti della Tua voce.

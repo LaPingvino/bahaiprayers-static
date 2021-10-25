@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11504 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Alabado seas, oh Señor mi Dios! Te imploro, por Tu Más Grande Nombre, por el cual reanimaste a Tus siervos y construiste Tus ciudades, y por Tus muy excelentes títulos, y por Tus muy augustos atributos, que ayudes a Tu pueblo a volverse hacia Tus múltiples generosidades y a dirigir el rostro hacia el Tabernáculo de Tu sabiduría. Cura las enfermedades que han asediado a las almas por doquier y les han impedido dirigir la mirada hacia el Paraíso que se encuentra al abrigo de Tu Nombre protector, que Tú ordenaste que fuera el Rey de todos los nombres para todos los que están en el cielo y todos los que están en la tierra. Potente eres Tú para hacer Tu voluntad. En Tus manos está el imperio de todos los nombres. No hay más Dios que Tú, el Poderoso, el Sabio.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4374 in Esperanto'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-eo', 'bpn-unsorted']
 +++
 Mia Dio, la celo de mia adorado kaj de mia sopirado, Vi la Ĉiom-Bonkora, la Plej Kompatema!  Ĉia vivo estas de Vi kaj ĉian potencon enmane tenas Via ĉiopovo.  Kiun ajn levas Vi, tiu estas altigita super la anĝeloj kaj atingas la rangon de l’ „Vere, Ni lin levis al rango alta!”; kaj kiun ajn humiligas Vi fariĝas malpli ol polvo, ne, eĉ malpli ol nenio.

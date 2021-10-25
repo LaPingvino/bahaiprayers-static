@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11510 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Oración larga de curación

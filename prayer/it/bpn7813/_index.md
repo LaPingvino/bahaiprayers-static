@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7813 in Italiano'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-it', 'bpn-unsorted']
 +++
 Permetti, o mio Dio, ch’io mi avvicini a Te e dimori entro i recinti della Tua corte, perché la lontananza da Te mi ha quasi consumato. Fa’ ch’io riposi all’ombra delle ali della Tua grazia, perché la fiamma della separazione da Te ha disciolto entro di me il mio cuore. Attirami più vicino al fiume che è vera vita, perché la mia anima arde di sete nella sua incessante ricerca di Te. I miei sospiri, o mio Dio, proclamano l’amarezza della mia angoscia e le lacrime che verso attestano il mio amore per Te.

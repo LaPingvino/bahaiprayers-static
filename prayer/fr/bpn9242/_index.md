@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9242 in Français'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Loué sois-tu, ô mon Dieu, toi qui, d’un mot de tes lèvres, bouleverses toute la création, et qui, d’un trait de ta plume, sépares tes serviteurs les uns des autres ! 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7654 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen, Ou konnen trè byen jan tribilasyon te soti nan tout direksyon pou tonbe sou mwen epi pèsonn moun pa kapab fè yo disparèt oubyen chanje yo si se pa Ou menm. Akoz lanmou mwen gen pou Ou, mwen sèten Ou p’ap janm voye tribilasyon sou okenn nanm sof lè Ou vle monte ran li nan Paradi selès Ou epi ranfòse kè li nan lavi tèrès sa a avèk fòs pouvwa Ou k’ap domine tout bagay; Ou fè sa pou anpeche kè li vin atire avèk bagay ki san valè nan mond sa a. An verite Ou konnen byen kòman nan tout sikonstans mwen ta pito sonje Ou pase pou mwen rive posede tout sa ki nan syèl la ak sou tè a.

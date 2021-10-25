@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9658 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Verheerlijkt zij Uw Naam, o mijn God! Ik betuig dat als Uw dienaren zich tot U zouden keren met de ogen waarmee Gij hen hebt geschapen en met de oren waarmee Gij hen hebt begiftigd, zij allen meegesleept zouden worden door een enkel woord neergezonden vanuit de rechterzijde van de troon van Uw majesteit. Dat woord alleen al zou voldoende zijn om hun gelaat te verhelderen, hun hart gerust te stellen en hun ziel te doen opwieken naar de sferen van Uw grote heerlijkheid en zich te verheffen tot de hemel van Uw oppermacht.

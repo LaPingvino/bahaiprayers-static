@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5896 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 T’alabo, oh Déu meu, per haver-me despertat del meu somni, per haver-me exposat a la llum després de la meva desaparició i per haver-me tret de la meva letargia. He  despertat  aquest matí amb el rostre tombat cap els resplendors del sol de la Teva Revelació, per mitjà del qual s’han il·luminat els cels del Teu poder i majestat, reconeixent els Teus signes, creient en el Teu Llibre i aferrant-me al Teu cordó. 

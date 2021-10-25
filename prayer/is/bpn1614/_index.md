@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1614 in Íslenska'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð, Guð minn! Gef mér bikar fullan lausnar frá öllu sem er og gleð mig með víni ástar á Þér á þingi gjafa Þinna og ljósa. Frelsa mig frá atlögum ástríðu og löngunar, leys mig úr hlekkj­um þessa lægri heims, laða mig í fagnaðar­leiðslu til Þíns guðdómlega ríkis og endurnær mig meðal þjónustumeyja Þinna með andvara heilag­leika Þíns.

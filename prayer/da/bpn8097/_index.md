@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8097 in Dansk'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-da', 'bpn-unsorted']
 +++
 Du er vel vidende, o min Gud, om de lidelser, der er strømmet ned over mig fra alle sider, og at ingen kan fjerne eller ændre dem undtagen Du. På grund af min kærlighed til Dig ved jeg med sikkerhed, at Du aldrig vil lade nogen sjæl blive påført lidelser, medmindre Du ønsker at ophøje hans stade i Dit himmelske paradis og styrke hans hjerte i dette jordiske liv med Din altbesejrende magts bolværk, at det ikke skal blive rettet mod denne verdens forfængelighed. I sandhed, Du er vel vidende om, at jeg under alle forhold ville skatte ihukommelsen af Dig langt højere end besiddelsen af alt, hvad der er i himlene og på jorden.

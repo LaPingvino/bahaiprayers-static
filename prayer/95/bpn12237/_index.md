@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12237 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Aliki, toku Atua mo toku Lafiiga in toku fanoanoa!  Toku Pui mo Toku Malu i oku fanoanoa!  Toku Afeega mo Toku Puipuiiga i taimi o te mativa mo taimi o toku nofo-toko-tasi ko toku Taugasoa!  I toku mmae ko toku Tapuu, kae i toku nofo-toko-tasi ko Taugasoa fapelepele!  Ko te Kavekeatea o te mmae mo te fanoanoa mo te Faka-seai o agasala!  

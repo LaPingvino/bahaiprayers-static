@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4100 in Latviešu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slava Tev, ak Dievs! Patiesi, šeit ir Tavi kalpi, kurus pievelk Tavas žēlsirdības aromāts, kurus iekvēlinājusi Tavas Vienības Kokā iedegtā guns, kuru acis deg, skatot Tavas Vienesmes Sinaja gaismas zibšņus.

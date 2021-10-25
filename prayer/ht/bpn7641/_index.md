@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7641 in Kreyol Ayisyen'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Nan Non Senyè Ou a, Kreyatè a, Souveren an, Sila a Ki gen kapasite pou reponn bezwen tout moun, Ki Pi Egzalte, Li menm K’ap bay sekou tout moun ap priye pou yo jwenn.

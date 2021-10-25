@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12299 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Tavaeega e ia Koe, O te Aliki, toku Fagasele Tafasili i te Llei!  Fai aka au ke tummau i Tau Faka-tokaaga, kae talia ko au ke lau i loto ia latou ko la e seki ofa ne latou a Tau Feagaiiga io me e tautali i atua o olotou fakatau fapaupau.  Faka mafai aka au, tena, ke maua soku nofoaga i te mea tonu o Tou nofo-mai, tuku mai ki luga ia au a se vaega foliki o Tou alofa-kaimalie kae fakasaoloto mai au ke ulu atu ki loto i Ou tavini galue ko la e seai se mataku ia latou io me maua ne latou a se fanoanoa.  Sa tiakina au kia au loa, O toku Aliki, io me e taofi mai ia au ite lavea o Ia Te la ko te Faifekau o Tou Tina Tino tonu loa, io me e lau ia latou ko la ko oti ne fulitua keatea mai i te mana o Tou nofo mai.  Lau aka au, O toku Atua, fakatasi mo latou ko la e faka-aloalo ate avanoaaga o 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11802 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 O Raja! Tudu Ingan oku bolant sinung sabal, bia nuju sua tanda-tanda Ingan oku pasang otin ku. O Raja! Samada oku ponu ato ndu boli, duoh daang ongan kroja ku ato daang ku nai keroja, oku nak punua bisayak ku daang Ingan. 

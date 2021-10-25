@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BB00522 in English'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-en', 'BB00522']
 +++
 O Lord! Unto Thee I repair for refuge, and toward all Thy signs I set my heart.

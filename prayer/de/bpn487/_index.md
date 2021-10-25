@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn487 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Wer die göttlichen Düfte verbreitet, soll jeden Morgen dieses Gebet sprechen:O Herr, mein Gott! Preis und Danksagung sei Dir, denn Du hast mich auf die Straße des Königreiches geleitet. Du lässest mich wandeln auf diesem geraden, weitreichenden Pfade, Du erleuchtest meine Augen durch den Anblick Deines strahlenden Lichtes. Mein Ohr lässest Du den Liedern der Vögel der Heiligkeit lauschen, mein Herz ziehst Du an durch Deine Liebe unter den Gerechten.

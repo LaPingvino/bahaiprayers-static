@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6279 in Luganda'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ayi Mukama! Tuli banafu, tuzzemu amaanYi.  AYi Katonda! Tuli babuya, tuwe okumanya.  Ayi Mukama, tuli bankuseere, tufuule bagagga.  Ayi Katonda tuli bafu, tuzeemu obulamu.  Ayi Katonda!  Tujjolongeddwa, tufuule ba kitiibwa mu bwakabaka Bwo.  Singa otuyamba ffe Ayi Mukama tujja kufuuka nga emmunyenye ezitemagana.  Singa totuyamba, olwo tujja kufuuka ba wansi n'okukira ettaka.

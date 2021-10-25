@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8253 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'bpn-unsorted']
 +++
 Another letter of thine, which made mention of the hallowed and blessed days of Ridván, was received. Praise be to God, there wafted therefrom the sweet savours of the rose-garden of true knowledge and inner meaning. Should the people of the world resolve, one and all, to extol the days that We passed in the garden of Najíb Páshá, which hath been designated as the Garden of Ridván, they would find themselves utterly incapable thereof and would confess to their powerlessness.

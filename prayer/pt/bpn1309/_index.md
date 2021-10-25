@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1309 in Português (BR)'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, nosso Senhor! Através da Tua graça, protege-nos de qualquer coisa que Te seja repugnante e concede-nos o que de Ti for digno. Dota-nos de maior quinhão da Tua graça e abençoa-nos. Perdoa-nos as coisas que temos feito e purifica-nos dos pecados e, com a Tua benévola clemência, sê Tu indulgente para nós. Em verdade, és o Excelso, O que subsiste por Si próprio.

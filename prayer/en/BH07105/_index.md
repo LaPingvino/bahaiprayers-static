@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH07105 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH07105']
 +++
 Praised be Thou, O Lord my God!  I implore Thee, by Thy Most Great Name through which Thou didst stir up Thy servants and build up Thy cities, and by Thy most excellent titles, and Thy most august attributes, to assist Thy people to turn in the direction of Thy manifold bounties, and set their faces towards the Tabernacle of Thy wisdom.  Heal Thou the sicknesses that have assailed the souls on every side, and have deterred them from directing their gaze towards the Paradise that lieth in the shelter of Thy shadowing Name, which Thou didst ordain to be the King of all names unto all who are in heaven and all who are on earth.  Potent art Thou to do as pleaseth Thee.  In Thy hands is the empire of all names.  There is none other God but Thee, the Mighty, the Wise.

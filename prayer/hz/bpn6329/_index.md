@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6329 in Namibia'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Efumadeko Koge, Ove Karunge, kemonekeso Lyoge lyeharo kombunga! Hompa Ove Eparu noUzera wetu, pitisira vapika Woge monzira Zoge, tu ninka tu nongope Moge nokutuhutura kwanayinye.

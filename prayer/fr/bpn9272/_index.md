@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9272 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est Dieu ! Ô Dieu, mon Dieu, voici, en tes jours, tes serviteurs attirés par les effluves de ta sainteté, embrasés par la flamme brûlant sur ton arbre céleste. Ils répondent à ton appel et chantent tes louanges, ils sont éveillés par ta brise, animés par tes doux parfums, ils écoutent tes paroles, croient en ta révélation et sont assurés de ta tendre bonté. Ô Seigneur, ils fixent leur regard sur le règne de ta gloire effulgente, tournent leur visage vers ton royaume céleste, le cœur battant d’amour pour ta beauté radieuse et glorieuse, l’âme consumée par les flammes de ta grâce. Ô Seigneur de ce monde et du monde à venir, leur vie bouillonne de l’ardeur de leur désir de toi, et leurs larmes coulent par amour pour toi.

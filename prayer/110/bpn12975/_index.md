@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12975 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 ##PREA BILONG PASIM KIBUNG BILONG ASEMBLI 

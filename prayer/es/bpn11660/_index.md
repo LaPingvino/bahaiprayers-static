@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11660 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh bondadoso Señor! Estos son Tus siervos que han concurrido a esta reunión, se han vuelto hacia Tu reino y necesitan Tus dádivas y bendiciones. ¡Oh Dios! Manifiesta y haz evidentes las señales de Tu unicidad que han sido depositadas en todas las realidades de la vida. Revela y despliega las virtudes que has dejado latentes y ocultas en estas realidades humanas.

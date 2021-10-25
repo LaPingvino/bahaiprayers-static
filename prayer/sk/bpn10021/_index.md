@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10021 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Neviem, ó môj Bože, aký to oheň si roznietil vo Svojej krajine. Zem nikdy nemôže zatieniť jeho žiaru ani voda uhasiť jeho plameň. Žiaden z národov sveta nemá moc postaviť sa proti jeho sile. Veľké je požehnanie toho, kto sa k nemu priblížil a začul jeho volanie.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7623 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Zanmi yo k’ap gaye pafen Bondye ta dwe resite priyè sa a chak maten:

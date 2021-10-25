@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11519 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 En el Nombre de Tu Señor, el Creador, el Soberano, el Suficiente, el Exaltadísimo, Aquel Cuya ayuda todos imploran.

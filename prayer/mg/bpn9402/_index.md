@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9402 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 O Ianao Tompo be fitiavana! Ireto ny mpanomponao izay mivory eto amin’ity Antenimiera ity, mitodika eny amin’ny Fanjakanao ary mikatsaka mafy tokoa ny Tsodranonao sy ny Fitahianao.

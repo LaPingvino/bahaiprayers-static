@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6419 in Cymraeg'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-cy', 'bpn-unsorted']
 +++
 ##Prayer for the Departed

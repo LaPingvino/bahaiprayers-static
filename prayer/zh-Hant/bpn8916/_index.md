@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8916 in 繁體中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 無與倫比的上帝啊！祢是天國之主！這些靈魂乃是祢的天兵，請派至高聖庭之大軍給予援助。使他們所向披靡，萬夫莫敵，憑藉上帝之愛及神聖教義之啟迪，去贏得這些國度。

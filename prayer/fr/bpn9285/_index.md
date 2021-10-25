@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9285 in Français'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Seigneur de bonté, voici tes serviteurs réunis. 

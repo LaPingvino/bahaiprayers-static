@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn484 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Wer sich auf Lehrreise in verschiedene Gegenden begibt, der lese im Gebirg und in der Wüste, zu Lande und zu Wasser das folgende Bittgebet:O Gott! O Gott! Du siehst mich schwach, niedrig und bescheiden unter Deinen Geschöpfen; dennoch habe ich auf Dich vertraut und mich erhoben, Deine Lehren unter Deinen standhaften Dienern zu fördern, ganz im Vertrauen auf Deine Kraft und Macht!

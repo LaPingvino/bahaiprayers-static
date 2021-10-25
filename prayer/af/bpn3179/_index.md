@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3179 in Afrikaans'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-af', 'bpn-unsorted']
 +++
 O my Here! U weet dat die mense omring is met smart en rampe, en omsingel is met swaarkry en sorge. Elke beproewing val die mens aan en elke ontsettende teenspoed tref hom soos die aanval van 'n slang. Daar is geen skuilplek en toevlugsoord vir hom behalwe onder die vlerk van U beskerming, bewaring, bewaking en sorg nie.

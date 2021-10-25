@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1207 in Português (BR)'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Magnificado seja o Teu nome, ó meu Deus! Dou testemunho que se os Teus servos se volvessem para Ti com os olhos que Tu neles criaste, e com os ouvidos com os quais os dotaste, todos seriam arrebatados por uma única palavra enviada da mão direita do trono da Tua majestade. Apenas essa palavra seria suficiente para iluminar as suas faces, tranquilizar os seus corações, e fazer com que as suas almas se elevassem à atmosfera da Tua grande glória e ascendessem ao céu da Tua soberania.

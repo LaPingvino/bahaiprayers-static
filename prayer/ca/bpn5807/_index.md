@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5807 in Català'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh, Déu meu! Oh Tu, perdonador dels pecats! El qui confereix els dons, i El qui dissipa les afliccions!

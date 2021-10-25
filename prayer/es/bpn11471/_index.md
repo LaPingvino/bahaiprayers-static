@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11471 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 No sé, oh mi Dios, qué Fuego es el que encendiste en Tu tierra. El polvo no podrá jamás nublar su resplandor, ni el agua apagar su llama. Todas las gentes del mundo son impotentes para resistir su fuerza. Grande es la bendición de quien se ha acercado a él y ha oído su fragor.

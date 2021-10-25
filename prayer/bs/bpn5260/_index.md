@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5260 in Bosanski'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Bože moj! Bože moj! Iskreno Te dozivam i klanjam Ti se na Tvome pragu moleći Te da sva Tvoja milost siđe na ove duše. Usmjeri ih prema Svojoj naklonosti i istini.

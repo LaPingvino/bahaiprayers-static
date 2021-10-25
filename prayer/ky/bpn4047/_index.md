@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4047 in Кыргыз'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ky', 'bpn-unsorted']
 +++
 *Келме батыш штаттардагы бахаилер үчүн ачылган/

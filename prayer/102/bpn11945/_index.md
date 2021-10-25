@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11945 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-102', 'bpn-unsorted']
 +++
 Eý Seniň Adyň bilen şadyýanlyk deňzi tolkunyp, begenç şemaly öwüsýän! Üýtgeşik Jomartlygyňdan hem Merhemetiňden gözlerimi röwşen we kalbymy şat etjek zatlary maňa görkez diýip Saňa ýalbarýaryn.

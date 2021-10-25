@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn608 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du, vor Dem alle Dinge in Furcht erschauern, vor Dessen strahlendem Antlitz alle Menschen die Augen niederschlagen, vor Dessen Offenbarungen höchster Herrschaft alle Nacken sich in Demut beugen, Der durch Seinen gebieterischen Willen alle Herzen überwältigt, Dessen ehrfurchtgebietende Majestät alle Dinge in ihren Grundfesten erbeben lässt und Der durch die Gewalt Seiner Herrschaft die Winde unterwarf! Ich flehe Dich an bei der bezwingenden Kraft Deiner Offenbarung, bei der Gewalt Deiner Macht, bei der Hoheit Deines Wortes und der Erhabenheit Deiner Herrschaft, zähle uns zu denen, die die Welt nicht daran hindern konnte, sich Dir zuzukehren.

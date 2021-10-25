@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8607 in 简体中文'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 于灵理会会议结束时诵读此篇祷文。

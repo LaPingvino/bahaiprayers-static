@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BH08604 in English'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-en', 'BH08604']
 +++
 O Thou Whose nearness is my wish, Whose presence is my hope, Whose remembrance is my desire, Whose court of glory is my goal, Whose abode is my aim, Whose name is my healing, Whose love is the radiance of my heart, Whose service is my highest aspiration!  I beseech Thee by Thy Name, through which Thou hast enabled them that have recognized Thee to soar to the sublimest heights of the knowledge of Thee and empowered such as devoutly worship Thee to ascend into the precincts of the court of Thy holy favors, to aid me to turn my face towards Thy face, to fix mine eyes upon Thee, and to speak of Thy glory.

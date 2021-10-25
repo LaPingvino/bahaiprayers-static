@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5264 in Bosanski'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-bs', 'bpn-unsorted']
 +++
 Zahvaljujem Ti se, Moj Bože, jer si me probudio iz sna, oživio nakon nestanka i otrgao iz bunila. Probudih se jutros sa licem usmjerenim prema sjaju Svitanja Tvoga Otkrivenja kojim su nebesa Tvoje moći i Tvoga veličanstva obasjana, priznajući Tvoje znakove, vjerujući u Tvoju Knjigu, čvrsto se držeći za Tvoje Uzde.

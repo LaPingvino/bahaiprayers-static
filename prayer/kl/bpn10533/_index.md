@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10533 in Kalaallisut'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guutip Aqqani, ataqqinartorsuup ajugaqanngitsup Naalagaa, Tamanik Ajugaaffiginnittoq. 

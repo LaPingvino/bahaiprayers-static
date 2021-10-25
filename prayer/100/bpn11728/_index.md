@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11728 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Ubangiji Allah maɗaukakin Sarki ! Ina rōƙon ka da sūnanka wanda ta garēshi ka ɗōra wanda shīnē kyāwonka, bisa kujērar īkon addīninka, sūnanka wanda da shīnē, kake sauyā kōmi, kuma kake haɗa kōmi, sūnanka dake hukunta kōmi, kake sallamar kōmi, kake kāre kōmi. 

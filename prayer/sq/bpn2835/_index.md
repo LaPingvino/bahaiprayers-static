@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2835 in Shqip'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Ti je Ai, O Perëndia im, përmes emrave të të Cilit të sëmurët shërohen dhe shëndetligjtë rimëkëmben, të eturve u jepet për të pirë dhe plagëlënduarit qetësohen, të pabindurit udhëhiqen dhe të poshtëruarit lartësohen, të varfërit pasurohen dhe të paditurit ndriçohen, të trishtuarit çelen dhe të brengosurit gëzohen, të ngrirët ngrohen dhe të rrëzuarit ngrihen. Përmes emrit Tënd, O Perëndia im, të gjitha gjërat e krijuara u gjallëruan, qiejt u hapën dhe u krijua toka, retë u ngritën dhe derdhën shiun mbi tokë. Kjo, me të vërtetë, është simbol i Hirit Tënd për të gjitha krijesat e Tua.

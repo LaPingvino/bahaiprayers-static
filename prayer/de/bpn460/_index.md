@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn460 in Deutsch'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Dies sind Deine schwachen Diener, Deine ergebenen Knechte und Mägde, die sich niederbeugen vor Deinem erhabenen Wort, sich demütigen an Deiner strahlenden Schwelle und Deine Einheit bezeugen, welche die Sonne in ihrem Mittagsglanz erstrahlen ließ. Sie lauschen dem Ruf, den Du aus Deinem verborgenen Reich erhebst, und bebenden Herzens, voll Liebe und Entzücken antworten sie darauf.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11801 in '
-author = 'Báb'
+author = "Báb"
 tags = ['lang-101', 'bpn-unsorted']
 +++
 Daang Adon Raja Ingan, dek Pimotan, dek Agong, dek Paling-Pinyukup, dek Bigatung Omu, Iyoh Nyaa dek pinulung-eh dek ngugai sua manusia.

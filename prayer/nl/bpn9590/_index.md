@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9590 in Nederlands'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 O  God, mijn God! Deze dienares roept U aan, vertrouwt op U, keert haar gelaat tot U en smeekt U Uw hemelse gaven over haar uit te storten, haar Uw geestelijke mysteriën te onthullen en het licht van Uw Godheid op haar te laten schijnen.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12945 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-110', 'bpn-unsorted']
 +++
 Glori i go long Yu, O God, long wanem Yu bin soimaut bikpela laik long ol manmeri!  O Yu, Husat i Laip na Lait bilong mipela.  Soim rot bilong Yu long ol wokmanmeri bilong Yu.  Mekim mipela i 

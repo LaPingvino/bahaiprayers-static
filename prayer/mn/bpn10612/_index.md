@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10612 in Монгол хэл'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mn', 'bpn-unsorted']
 +++
 *(Өдөрт нэг удаа үдэд үйлдэнэ)

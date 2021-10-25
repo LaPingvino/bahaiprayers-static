@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11552 in Español'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Gloria sea a Ti, oh Señor mi Dios! Te suplico que me perdones a mí y a quienes apoyan Tu Fe. Ciertamente, Tú eres el Señor soberano, el Perdonador, el Más Generoso. ¡Oh mi Dios! Permite que aquellos siervos Tuyos que están privados de conocimiento sean admitidos en Tu Causa; pues, en cuanto saben de Ti, dan testimonio de la verdad del Día del Juicio y no cuestionan las revelaciones de Tu munificencia. Haz descender sobre ellos las muestras de Tu gracia y concédeles, dondequiera que residan, una porción abundante de cuanto has ordenado para los piadosos de entre Tus siervos. Tú eres, en verdad, el Gobernante Supremo, el Munífico, el Más Benévolo.

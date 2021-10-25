@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5760 in Català'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##ORACIÓ OBLIGATÒRIA LLARGA

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11613 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Señor! Protege a los niños que nacen en Tu día, que se nutren del pecho de Tu amor y se crían en el seno de Tu gracia.

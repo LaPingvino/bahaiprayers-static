@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6611 in 한국어'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ko', 'bpn-unsorted']
 +++
 주님의 아름다움을 저의 먹을 것으로

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7181 in ελληνικά'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-el', 'bpn-unsorted']
 +++
 Στο Όνοµά Του, το Εξυψωµένο, το Ανώτατο, το Υπέρτατο!

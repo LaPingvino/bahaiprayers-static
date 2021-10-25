@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8603 in 简体中文'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 奉上帝之名，那至强威严之主，那万物的驱动者。

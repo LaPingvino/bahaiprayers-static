@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5039 in Tiếng Việt'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Ngài là Đấng Thượng Đế Vô song! Lạy Ngài là Vua của Vương quốc! Những linh hồn này là đạo thiên binh của Ngài. Xin giúp đỡ họ và, bằng đạo binh nơi Quần hội Tối thượng, xin khiến họ thành công, để từng người có thể trở nên như một đạo quân và chinh phục các nước bằng tình yêu của Thượng Đế và bằng ánh sáng của giáo lý thiêng liêng.

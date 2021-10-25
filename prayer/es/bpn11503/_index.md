@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11503 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, mi Dios! Este es Tu siervo radiante, Tu cautivo espiritual, que se ha acercado a Ti y se ha aproximado a Tu presencia. Ha vuelto su rostro hacia el Tuyo, reconociendo Tu unicidad y confesando Tu singularidad, y ha hecho llamamientos en Tu nombre entre las naciones y ha conducido a las gentes hacia las aguas corrientes de Tu misericordia. ¡Oh Generosísimo Señor! A quienes lo han pedido, les ha dado de beber del cáliz de la guía que rebosa con el vino de Tu gracia inmensurable

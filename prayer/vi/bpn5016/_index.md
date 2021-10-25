@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5016 in Tiếng Việt'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Ngài là Đấng Thượng Đế Bác ái! Lạy Ngài là Đấng Thượng Đế Hùng mạnh và Uy lực! Lạy Ngài là Đấng Thượng Đế đầy yêu thương! Những kẻ tôi tớ này đang quây quần và hướng về Ngài, đang nguyện cầu trước Thánh điện Ngài, khao khát được đón nhận những ân huệ vô hạn của Ngài, vững tin nơi lời hứa của Ngài. Chúng con không có mục đích nào khác ngoài việc tìm kiếm sự hài lòng của Ngài, và không có bất cứ chủ tâm nào khác ngoài việc phụng sự nhân loại.

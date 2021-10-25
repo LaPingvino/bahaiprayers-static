@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1127 in Português (BR)'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Deus! Ó Tu que perdoas os pecados! Tu que concedes dádivas e afastas as aflições!

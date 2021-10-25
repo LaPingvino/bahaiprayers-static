@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7753 in Kreyol Ayisyen'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Gran Mèt! Nou merite pitye, ban nou favè Ou; nou pòv, ban nou yon pòsyon nan oseyan richès Ou a; nou nan nesesite, satisfè bezwen nou yo; nou imilye, ban nou nan glwa Ou. Zwazo ki nan syèl la ak bèt ki nan patiraj yo jwenn manje chak jou nan men Ou, e tout kreyati yo jwi swenyaj ak bonte lanmou Ou. 

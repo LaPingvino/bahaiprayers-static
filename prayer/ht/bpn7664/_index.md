@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7664 in Kreyol Ayisyen'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-ht', 'bpn-unsorted']
 +++
 Glwa pou Ou, O Senyè Bondye mwen! Mwen priye Ou fò poutèt Li menm Ki se Pi Gran Non Ou an, Ki te soufri anpil nan men kreyati Ou yo ki te rejte verite Ou, Sila a Ki te antoure ak anpil chagren okenn lang pa kapab esplike, mwen priye Ou pou pèmèt mwen sonje Ou ak selebre lwanj Ou, nan jou sa yo kote tout moun te vire kite bèlte Ou, te diskite avèk Ou menm, epi vire do avèk ògèy bay Li menm K’ap Revele Koz Ou a. Pa gen yon moun, O Senyè mwen, ki kapab ede Ou, se sèl Ou menm, e pa gen okenn pouvwa ki kapab soutni Ou sof pwòp pouvwa pa Ou. 

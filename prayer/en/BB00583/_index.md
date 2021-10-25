@@ -1,6 +1,6 @@
 +++
 title = 'Prayer BB00583 in English'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-en', 'BB00583']
 +++
 Glory be unto Thee, O Lord my God!  I beg Thee to forgive me and those who support Thy Faith.  Verily, Thou art the sovereign Lord, the Forgiver, the Most Generous.  O my God!  Enable such servants of Thine as are deprived of knowledge to be admitted into Thy Cause; for once they learn of Thee, they bear witness to the truth of the Day of Judgment and do not dispute the revelations of Thy bounty.  Send down upon them the tokens of Thy grace, and grant them, wherever they reside, a liberal share of that which Thou hast ordained for the pious among Thy servants.  Thou art in truth the Supreme Ruler, the All-Bounteous, the Most Benevolent.

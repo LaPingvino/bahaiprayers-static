@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10979 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 Talo ke fai i te ponoga o te fonotaga a te Lukuuga Faka-te-Agaaga.

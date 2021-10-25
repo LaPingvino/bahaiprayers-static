@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11522 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Gloria sea a Ti, oh Señor mi Dios! No humilles a quien has exaltado mediante el poder de Tu soberanía eterna, y no alejes de Ti a quien has hecho entrar en el tabernáculo de Tu eternidad. ¿Rechazarás, oh mi Dios, a quien has protegido con Tu Señorío, y apartarás de Ti, oh mi Deseo, a aquel para quien has sido un refugio? ¿Podrás degradar a quien has elevado u olvidar a quien permitiste que Te recordara?

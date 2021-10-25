@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4932 in Vanuatu'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-bi', 'bpn-unsorted']
 +++
 O God! O God!  Yu Yu stap lukluk se mi no gat paoa mo mi stap daon long fored blong olgeta we Yu bin krieitem.  Be mi bin trastem Yu mo mi bin gerap blong spredem olgeta tijing blong Yu long medel blong ol strong wokman blong Yu.  Mi stap mekem wok ia from mi trastem paoa blong Yu nomo.

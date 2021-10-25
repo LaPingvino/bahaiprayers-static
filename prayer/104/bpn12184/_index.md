@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12184 in '
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhanku! Ya Engkau pengampun dosa, pemberi anugerah, penghapus kesengsaraan!

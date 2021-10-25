@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn671 in Deutsch'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-de', 'bpn-unsorted']
 +++
 Gepriesen seiest Du, o mein Gott, da Du Naw-Rúz denen zum Fest bestimmt hast, die das Fasten aus Liebe zu Dir hielten und alles mieden, was Du verabscheust. Gib, o mein Gott, dass das Feuer Deiner Liebe und die Glut, die das von Dir befohlene Fasten erzeugte, sie in Deiner Sache entflamme und sie bestimme, sich Deinem Lobpreis und Deinem Gedenken hinzugeben.

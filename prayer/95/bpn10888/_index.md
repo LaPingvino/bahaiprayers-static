@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10888 in '
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-95', 'bpn-unsorted']
 +++
 E mana e ia Koe, O te Aliki toku Atua!  Se fakafoliki a ia te la ko oti ne fakamaluga ne Koe mai i luga i te maalosi o Tou nofoaiga-a-tupu e seai se gataaga, kae e se ave keatea ke mao mai ia ia te la ko oti ne talia ne Koe ke ulu atu ki te tapaneko o te favavau o Koe.   Sa liakina a ia, O toku Atua, a ia tela ko oti ne pulougina e Koe ne ne Tou tulaga Aliki, kae sa tiakina a ia mai i te kilo ona mata kia Koe, O toku Manakoga, kia ia tela ko oti ne fai pe la me se tino takaseasea seai sena koga nofo tumau?  Sa fakafoliki foki ne Koe a ia te la ko oti ne apai aka ki luga, io me fakapuli a ia te la ne masaua e ia Koe?

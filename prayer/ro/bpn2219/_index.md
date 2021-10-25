@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2219 in România'
-author = 'Báb'
+author = "Báb"
 tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Dumnezeule, Stăpânul nostru!

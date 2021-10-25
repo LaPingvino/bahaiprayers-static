@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2788 in Shqip'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sq', 'bpn-unsorted']
 +++
 Lëvduar qoftë Emri Yt, O Zot Perëndia im! Unë të përgjërohem, për Emrin Tënd, përmes të cilit ka rënë Ora dhe ka ndodhur Ringjallja, dhe frika e të dridhurat kanë zënë të gjithë ata që janë në qiell e mbi tokë, të lëshosh nga qielli i mëshirës dhe nga retë e zemërdhembshurisë Sate plot dashuri atë që do të gëzojë zemrat e shërbëtorëve të Tu, që i kanë kthyer fytyrat ndaj Teje dhe kanë ndihmuar Kauzën Tënde.

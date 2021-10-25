@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4169 in American Indian'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Shidiyin nilíinii!  Shidiyin nilíinii!

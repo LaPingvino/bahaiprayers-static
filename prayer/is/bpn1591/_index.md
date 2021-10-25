@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1591 in Íslenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð minn, Guð örlætis og miskunnsemi. Þú ert konungurinn, sem skipaði fyrir um sköpun alheimsins, og Þú ert hinn örláti, sem aldrei hefur látið verk þjóna sinna aftra sér frá að sýna náð sína né látið þá spilla opinberun örlætis síns.

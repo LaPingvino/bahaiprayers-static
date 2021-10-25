@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9400 in Malagasy'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 *Ity vavaka ity, nambaran’i ‘Abdu’l-Bahá, ity dia vakiana eo anoloan’ny Fasany. Vakiana koa ity amin’ny vavaky ny tena samirery. 

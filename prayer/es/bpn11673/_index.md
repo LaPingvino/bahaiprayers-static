@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11673 in Español'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, mi Dios! Alabado seas por haber encendido el fuego del amor divino en el Árbol Santo que se encuentra en la cima del monte más elevado; ese Árbol que «no es del Oriente ni del Occidente» , ese fuego que ardió hasta que su llama se remontó hacia el Concurso de lo alto, y de él esas realidades captaron la luz de la guía y exclamaron: «Verdaderamente, hemos percibido un fuego en la ladera del Monte Sinaí» .

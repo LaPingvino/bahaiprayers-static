@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8828 in 繁體中文'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 我的主啊！我就是那仰望祢、祈願祢美妙恩寵和恩典的人。求祢不要令我失望地離開祢那慈悲之門，更不要離棄我，如同離棄否認聖道之人。

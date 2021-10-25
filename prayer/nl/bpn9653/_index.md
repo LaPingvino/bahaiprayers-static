@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9653 in Nederlands'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-nl', 'bpn-unsorted']
 +++
 Glorie zij U, o Gij Heer van de wereld en het Verlangen der natiën, o Gij die openbaar geworden zijt in de Grootste Naam, waarbij de parelen van wijsheid en woorden uit de schelpen van de grote zee Uwer kennis te voorschijn zijn gekomen en de hemelen van goddelijke Openbaring werden getooid met het licht van de opkomst van de zon Uws aanschijns.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12740 in Iban'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-iba', 'bpn-unsorted']
 +++
 *(Sambiang tu, dipegari ulih ‘Abdu’l-Bahá, dibacha ba Sungkup Iya. Tau mega diguna maya sambiang kediri)

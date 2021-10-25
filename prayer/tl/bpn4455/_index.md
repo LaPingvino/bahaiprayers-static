@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4455 in Filipino'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Ikaw na mahabaging Panginoon! Ito ay Iyong mga tagapaglingkod na nagsipagtipon sa kapulungang ito, nagbaling sa Iyong Kaharian at nangangailangan ng Iyong kaloob at basbas. O Ikaw na Diyos! Ipahayag at ipakilala ang mga tanda ng Iyong pagkaisa na inilagak sa lahat ng mga realidad ng buhay. Ihayag at ipakita ang mabubuting katangian na Iyong ipinaloob at itinago dito sa mga realidad ng tao.

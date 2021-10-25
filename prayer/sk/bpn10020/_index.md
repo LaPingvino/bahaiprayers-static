@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10020 in Slovensky'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sk', 'bpn-unsorted']
 +++
 Nejedno ľadové srdce, ó môj Bože, vzplanulo ohňom Tvojej Viery a mnoho spiacich bolo prebudených sladkosťou Tvojho hlasu. Koľko cudzincov vyhľadalo útočisko v tieni Tvojej jedinosti a koľko smädných vo Tvojich dňoch túžilo po fontáne živej vody!

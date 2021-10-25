@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6068 in Namibia'
-author = 'Abdu'l-Bahá'
+author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'bpn-unsorted']
 +++
 Muhona! Kwete ondjenda tjinene, tupao owiingona wOye, owete ovasyona, nungwari tupao orutumbo ro momeva kokuvare, owete ovasyona, nungwari tupayo ovina mbi twahepa, twahepa oujere nu tupayo ondjerera.

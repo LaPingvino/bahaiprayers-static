@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10323 in Svenska'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-sv', 'bpn-unsorted']
 +++
 Lovat vare Ditt namn, o min Gud och  alltings Gud, min härlighet och alltings härlighet, min åstundan och alltings åstundan, min styrka och alltings styrka, min Konung och alltings Konung, min Herre och alltings Herre, mitt mål och alltings mål, min drivkraft och alltings drivkraft!

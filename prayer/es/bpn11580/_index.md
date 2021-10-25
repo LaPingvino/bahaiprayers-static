@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11580 in Español'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh mi Dios y mi Maestro! Soy Tu siervo y el hijo de Tu siervo. Me he levantado de mi lecho en este amanecer en que el Sol de Tu unicidad ha brillado desde la Aurora de Tu voluntad y ha derramado su resplandor sobre todo el mundo, de acuerdo con lo que ha sido ordenado en los Libros de Tu Decreto.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9364 in Malagasy'
-author = 'Bahá'u'lláh'
+author = "Bahá'u'lláh"
 tags = ['lang-mg', 'bpn-unsorted']
 +++
 *Vavaka fohy tsy maintsy atao isan’andro eo anelanelan’ny roa ambinifolo ora atoandro hatramin’ny filetehan’ny masoandro
