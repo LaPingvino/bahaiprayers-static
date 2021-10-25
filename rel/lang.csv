@@ -81,3 +81,7 @@ id,iso,iso_type,name,english,flag_link,rtl
 86,nai-US,collection,"American Indian","American Indian","https://BahaiPrayers.net/Content/Images/Flags/American Indian.png",
 87,ml,language,"മലയാളം",Malayalam,"https://BahaiPrayers.net/Content/Images/Flags/മലയാളം.png",
 90,am,language,"አማርኛ.",Ethiopian/Amharic,"https://BahaiPrayers.net/Content/Images/Flags/አማርኛ..png",
+91,iba,language,"Iban","Iban / Sarawak","https://BahaiPrayers.net/Content/Images/Flags/Iban.png",
+92,mn,language,"Монгол хэл","Mongolian","https://BahaiPrayers.net/Content/Images/Flags/Монгол хэл.png",
+93,sr,language,"Srpski српски","Serbian","https://BahaiPrayers.net/Content/Images/Flags/Srpski српски.png",
+94,ny,language,"Chichewa","Chichewa; Nyanja","https://BahaiPrayers.net/Content/Images/Flags/Chichewa.png",
