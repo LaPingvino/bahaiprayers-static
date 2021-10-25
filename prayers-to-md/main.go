@@ -32,11 +32,10 @@ type Author int
 
 var TMPLOUTPUT = template.Must(template.New("markdown").Parse(`+++
 title = '{{.Title}}'
+author = '{{.Author}}'
 tags = ['lang-{{.LanguageCode}}', '{{.PrayerCodeTag}}']
 +++
 {{.Text}}
-
--- {{.Author}}
 `))
 
 func (a Author) String() string {
