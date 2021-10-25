@@ -33,7 +33,7 @@ type Author int
 var TMPLOUTPUT = template.Must(template.New("markdown").Parse(`+++
 title = '{{.Title}}'
 author = "{{.Author}}"
-tags = ['lang-{{.LanguageCode}}', '{{.PrayerCodeTag}}']
+tags = ['lang-{{.LanguageCode}}', '{{.PrayerCodeTag}}', "{{.Author}}"]
 +++
 {{.Text}}
 `))
