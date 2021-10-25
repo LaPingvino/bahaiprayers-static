@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6381 in Cymraeg'
-tags = ['lang-cy', 'bpn6381']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O fy Nuw!  Gofynnaf i Ti, trwy Dy Enw mwyaf gogoneddus, i’m cynorthwyo yn yr hyn a bar i orchwylion Dy weision lwyddo, a’th ddinasoedd lewyrchu.  Tydi yn wir, sydd â grym dros bob peth.
 

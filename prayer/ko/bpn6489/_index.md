@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6489 in 한국어'
-tags = ['lang-ko', 'bpn6489']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 ##제 남편의 눈을 뜨게
 

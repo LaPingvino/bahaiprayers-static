@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6421 in Cymraeg'
-tags = ['lang-cy', 'bpn6421']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O fy Nuw! O faddeuwr pechodau! Cyflwynwr rhoddion! Gwasgarwr cystuddiau!
 Yn wir, yn wir, erfyniaf arnat Ti i faddau pechodau’r rhai sydd wedi diosg eu gwisg gorfforol ac wedi esgyn i’r byd ysbrydol.

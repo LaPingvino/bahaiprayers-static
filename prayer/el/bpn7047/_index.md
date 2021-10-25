@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7047 in ελληνικά'
-tags = ['lang-el', 'bpn7047']
+tags = ['lang-el', 'bpn-unsorted']
 +++
 ##ΠΙΝΑΚΙ∆Α ΤΗΣ ΦΩΤΙΑΣ
 

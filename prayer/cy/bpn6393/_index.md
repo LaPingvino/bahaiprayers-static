@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6393 in Cymraeg'
-tags = ['lang-cy', 'bpn6393']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Dduw! O Dduw! Rwyf wedi cychwyn o'm cartref, yn gafael yn dynn yn llinyn Dy gariad,ac rwyf wedi cyflwyno fy hun yn llwyr i Dy ofal a'th amddiffyn...Galluoga fi, felly, i ddychwelyd adref trwy Dy rym a'th nerth.
 

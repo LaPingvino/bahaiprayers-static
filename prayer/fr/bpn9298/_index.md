@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9298 in Français'
-tags = ['lang-fr', 'bpn9298']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Tablette à Ah∂mad
 

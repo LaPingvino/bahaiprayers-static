@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5618 in ภาษาไทย'
-tags = ['lang-th', 'bpn5618']
+tags = ['lang-th', 'bpn-unsorted']
 +++
 (แด่บาไฮที่ถูกประหัตประหาร)
 พระองค์คือพระผู้เป็นเจ้า

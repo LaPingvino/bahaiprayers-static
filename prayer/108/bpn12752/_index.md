@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12752 in '
-tags = ['lang-108', 'bpn12752']
+tags = ['lang-108', 'bpn-unsorted']
 +++
 ##ສໍາລັບສວດທຸກວັນ, ຕອນເຊົ້າ, ຕອນທ່ຽງວັນ, ແລະຕອນຄໍ້າ
 

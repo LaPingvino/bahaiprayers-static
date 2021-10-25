@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9538 in Nederlands'
-tags = ['lang-nl', 'bpn9538']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 Geprezen zijt Gij, o Heer mijn God! Gij ziet en weet dat ik Uw dienaren heb gemaand zich in geen andere richting te wenden dan in de richting van Uw gaven, en hen heb bevolen niets anders in acht te nemen dan hetgeen Gij in Uw Duidelijke Boek hebt voorgeschreven, het Boek dat is neergezonden overeenkomstig Uw ondoorgrondelijk besluit en onherroepelijk plan.
 Ik kan geen woord uiten, o mijn God, tenzij Gij mij dit toestaat, en ik kan mij in geen enkele richting begeven tot Gij mij toestemming verleent. Gij zijt het, o mijn God, die mij tot leven hebt geroepen door de kracht van Uw macht, en mij hebt begiftigd met Uw genade om Uw Zaak te openbaren. Ik ben daarom onderworpen aan tegenslagen die mijn tong beletten U te loven en Uw glorie te verheerlijken.

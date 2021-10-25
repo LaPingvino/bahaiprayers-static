@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9103 in Alaska Native'
-tags = ['lang-ik', 'bpn9103']
+tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Remover of Difficulties
 

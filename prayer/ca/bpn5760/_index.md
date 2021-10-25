@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5760 in Català'
-tags = ['lang-ca', 'bpn5760']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##ORACIÓ OBLIGATÒRIA LLARGA
 

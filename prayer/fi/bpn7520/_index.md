@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7520 in Suomi'
-tags = ['lang-fi', 'bpn7520']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Ken matkustaa eri puolille opettamaan, lukekoon vuorilla, autiomaassa, maalla ja merellä tätä rukousta:
 Oi Jumala! Oi Jumala! Sinä näet heikkouteni, vähäpätöisyyteni ja nöyryyteni luotujesi edessä. Siitä huolimatta olen luottanut Sinuun ja noussut edistämään opetuksiasi vahvojen palvelijoittesi keskuudessa turvaten Sinun voimaasi ja mahtiisi.

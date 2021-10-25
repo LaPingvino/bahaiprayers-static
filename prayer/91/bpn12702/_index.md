@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12702 in '
-tags = ['lang-91', 'bpn12702']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Dalam	Nama	Iya,	ti	Diangkat,	ti	Pemadu	Tinggi,	ti
 Memelan!

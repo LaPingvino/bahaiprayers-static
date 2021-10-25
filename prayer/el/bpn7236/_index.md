@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7236 in ελληνικά'
-tags = ['lang-el', 'bpn7236']
+tags = ['lang-el', 'bpn-unsorted']
 +++
 Αυτός είναι ο Γενναιόδωρος, ο Ευεργετικός!
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8111 in Dansk'
-tags = ['lang-da', 'bpn8111']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Jeg er den, o min Herre, der har vendt sit ansigt til Dig og har fæstnet sit håb til underne i Din nåde og åbenbarelserne af Din gavmildhed. Jeg beder Dig om ikke at lade mig vende skuffet bort fra Din nådes dør eller forvise mig til dem blandt Dine skabninger, der har afvist Din sag.
 

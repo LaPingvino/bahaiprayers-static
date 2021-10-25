@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9198 in Français'
-tags = ['lang-fr', 'bpn9198']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Au nom du Seigneur, le Suprême, tu es loué et glorifié, Seigneur, Dieu omnipotent ! Devant ta sagesse, le sage reconnaît ses limites et s’incline ; devant ta connaissance, le savant confesse son ignorance ; devant ta puissance, l’homme fort vacille ; devant ton opulence, le riche atteste sa pauvreté ; devant ta lumière, l’homme éclairé se trouve perdu dans les ténèbres ; vers le temple de ta connaissance se tourne l’essence de toute compréhension, et autour du sanctuaire de ta présence gravitent les âmes de l’humanité tout entière.
 Comment puis-je mentionner et célébrer ton essence que n’ont pu saisir la sagesse du sage ni la science du savant, puisque personne ne peut célébrer ce qu’il ne comprend pas, ni décrire ce qui le dépasse et que de toute éternité tu es l’Inaccessible, l’Insondable ? Cependant, tout impuissant que je sois à m’élever jusqu’au ciel de ta gloire et à m’élancer dans les royaumes de ta connaissance, je peux dire tes signes qui proclament le glorieux ouvrage de tes mains.

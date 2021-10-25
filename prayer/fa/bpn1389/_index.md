@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1389 in فارسی'
-tags = ['lang-fa', 'bpn1389']
+tags = ['lang-fa', 'bpn-unsorted']
 +++
 صلات كبير
  *صلات كبير كه تلاوت آن در شب و روز يك بار كافى است.

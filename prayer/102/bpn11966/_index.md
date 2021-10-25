@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11966 in '
-tags = ['lang-102', 'bpn11966']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’äl-Äbha.
     Eý Ýalkaýjy, Eý Mähriban! Bu päk janlar toprak zyndanyndan azat boldylar we Seniň jahanyňa uçdylar. Ýagşydylar, Seniň roýuň şeýdasy we Seniň çeşmäň teşnesidiler. Ýaşaýyşda Seniň Rahmany müşgüňden diridiler. Gözleri açyldy, gulaklary açyldy, ähli baglanşykdan garaşsyz bolup, Seniň begenjiňe köňül şatdylar. Indi olar syrlar dünýäsine uçdylar we Seniň ýanyňda, bagtyýarlyk agajyňda höwürtge gurýarlar, aýdym, owaz saýraýarlar.

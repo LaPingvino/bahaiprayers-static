@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12677 in '
-tags = ['lang-91', 'bpn12677']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 O Petara aku! O Petara aku! Amat bendar, pengasuh
 Nuan, ngemaruhka diri ba kuasa-perintah peninggi suchi Nuan, ngunduk ba pintu penyatu Nuan, udah arapka Nuan enggau dalam genteran jaku Nuan, udah besaksika leka jaku Nuan, lalu udah ditungkun enggau api pengerindu Nuan, udah diselam ba penalam tasik penemu Nuan, udah tetarit ngagai puput ribut Nuan, udah bepanggai ba Nuan, udah nungaka mua iya nuju Nuan, udah ngenataika sampi iya ngagai Nuan, lalu udah ditetap enggau tembang sereta ampun Nuan. Iya udah ninggalka pengidup dunya tu lalu terebai nuju perintah ti meruan, keran ke pengasih betemu enggau Nuan.

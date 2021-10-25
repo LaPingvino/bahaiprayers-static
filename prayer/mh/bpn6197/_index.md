@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6197 in Marshallese'
-tags = ['lang-mh', 'bpn6197']
+tags = ['lang-mh', 'bpn-unsorted']
 +++
 O ao Anij! O Kwe Ri-jolok bwid ko, ri-letok menin lelok ko, ri-jolok aban ko!
 

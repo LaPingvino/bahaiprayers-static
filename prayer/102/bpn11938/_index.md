@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11938 in '
-tags = ['lang-102', 'bpn11938']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Şerif, Belent mertebe we Beýik Taňrynyň ady bilen.
     Päk we Mukaddes Sen, Eý meniň Taňrym! Ýa Ylahym, Ýa Hojam, Ýa Möwlam, Ýa Imanym, Ýa Umydym, Eý Penahym, Eý Çyram!

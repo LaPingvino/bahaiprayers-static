@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2224 in România'
-tags = ['lang-ro', 'bpn2224']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slavă Ţie, o, Dumnezeul meu! Dacă n-ar fi suferinţele îndurate în calea Ta, cum ar putea fi recunoscuţi adevăraţii Tăi îndrăgostiţi, şi dacă n-ar fi încercările susţinute din iubire pentru Tine, cum ar putea fi dezvăluit rangul celor ce tânjesc după Tine? Tăria Ta îmi stă mărturie! Însoţitoarele celor ce Te adoră sunt lacrimile pe care ei le varsă, şi alinătorii celor ce Te caută sunt gemetele lor, şi hrana celor ce se grăbesc să Te întâlnească sunt fărâmele inimilor lor zdrobite.
 

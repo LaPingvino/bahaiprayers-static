@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12703 in '
-tags = ['lang-91', 'bpn12703']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Letak ke aku, O Tuhan aku, enggau ke sida ti arapka
 Nuan utai ti diaku manah ke kami dalam jangka Nuan, baka ke udah diletak dalam Indu Bup, laban dalam genggam jari Nuan, Nuan megai penyukat tatak ke semua utai.

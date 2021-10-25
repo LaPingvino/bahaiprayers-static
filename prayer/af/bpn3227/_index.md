@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3227 in Afrikaans'
-tags = ['lang-af', 'bpn3227']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O God die onvergelyklike! O U die Here van die Koninkryk! Hierdie siele is U hemelse leër. Help hulle en, met die hulp van die legioene van die Opperste Skare, maak hulle seëvierend, sodat elkeen van hulle mag word soos 'n regiment om hierdie lande te verower deur die liefde van God en die verligting van die goddelike leer.
 

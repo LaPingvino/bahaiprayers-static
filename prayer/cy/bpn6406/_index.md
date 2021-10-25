@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6406 in Cymraeg'
-tags = ['lang-cy', 'bpn6406']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 ...O fy Nuw! Na fydded i mi unrhyw ddrwg mewn cyfnodau o dreialon, ac mewn munudau diofal arwain fy  ghamau yn gywir trwy Dy ysbrydoliaeth.
 

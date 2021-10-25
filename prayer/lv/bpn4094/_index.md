@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4094 in Latviešu'
-tags = ['lang-lv', 'bpn4094']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Lai šo lūgšanu lasa ikviens, kas ceļo uz dažādām pusēm mācīt, lai lasa to kalnos, tuksnešos, uz zemes un uz jūras.
 

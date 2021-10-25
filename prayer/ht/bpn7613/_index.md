@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7613 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7613']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##RESITE PRIYÈ SA A YON FWA CHAK VENKATRÈ
 

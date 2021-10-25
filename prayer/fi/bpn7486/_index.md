@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7486 in Suomi'
-tags = ['lang-fi', 'bpn7486']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 *Lausuttavaksi kerran vuorokaudessa keskipäivällä
 

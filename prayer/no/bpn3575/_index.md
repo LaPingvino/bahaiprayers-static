@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3575 in Norsk'
-tags = ['lang-no', 'bpn3575']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 Jeg vet ikke, o min Gud, hva slags ild du tente i ditt land. Jord kan aldri fordunkle dens glans, ei heller vann slukke dens flamme. Alle verdens folkeslag mangler styrke til å stå imot dens kraft. Storlig velsignet er den som har nærmet seg ilden og hørt dens bulder.
  

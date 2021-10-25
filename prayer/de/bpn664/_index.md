@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn664 in Deutsch'
-tags = ['lang-de', 'bpn664']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 #TÄGLICH MORGENS, MITTAGS UND ABENDS ZU SPRECHEN
 

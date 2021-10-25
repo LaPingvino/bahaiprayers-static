@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10799 in '
-tags = ['lang-94', 'bpn10799']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 Ndichitira umboni, O Mulungu wanga, kuti Munandilenga ine, kuti ndikudziweni ndi kukupembedzani.  Nditsimikizira, panthawi ino, kufooka kwanga ndi kukula kwa mphamvu Zanu, kusauka kwanga ndi kulemera Kwanu. 
 

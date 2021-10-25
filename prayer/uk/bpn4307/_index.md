@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4307 in Україна'
-tags = ['lang-uk', 'bpn4307']
+tags = ['lang-uk', 'bpn-unsorted']
 +++
 *Промовляється раз на добу, між полуднем і заходом сонця
 

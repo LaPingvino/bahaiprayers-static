@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11942 in '
-tags = ['lang-102', 'bpn11942']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 *(Säher dogalary)
 

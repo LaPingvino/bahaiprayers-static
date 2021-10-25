@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8060 in Dansk'
-tags = ['lang-da', 'bpn8060']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 O Gud, min Gud! Du er mit Håb og min Elskede, mit højeste mål og ønske! I stor ydmyghed og fuldkommen hengivelse beder jeg Dig om at gøre mig til en minaret for Din kærlighed i Dit land, en lampe for Din kundskab blandt Dine skabninger og et banner for guddommelig gavmildhed i Dit rige.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7301 in Polski'
-tags = ['lang-pl', 'bpn7301']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Matki oczekujące dziecka
   

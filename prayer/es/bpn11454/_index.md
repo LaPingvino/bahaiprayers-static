@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11454 in Español'
-tags = ['lang-es', 'bpn11454']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 *Se recita diariamente, por la mañana, a mediodía y al atardecer
 

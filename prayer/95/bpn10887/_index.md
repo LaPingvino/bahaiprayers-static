@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10887 in '
-tags = ['lang-95', 'bpn10887']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 *(A Talo mo te Mate ko te talo loa e tasi Baha’i faka-tulafonogia e mafai o fai i se faka-potopotoga lotu; e fai ne se taugasoa tokotasi a ko latou ko la e fakatasi atu e tu ki luga kae seai se fakalogo aa. E fakamaina mai ne Bahá’u’lláh me i te talo tenei e fai fua mafai a ia te la ko galo ko sefulu lima me e silia atu ona tausaga o tena olaga, kae fai mai mua o te tanu, kae e seai se fakanofooga ke fakasaga ki te Qiblih mafai e faitau.   A te “Alláh-u-Abhá” e fai faka tasi; ko lau iei a te fuaipu muamua o te ono o fuaipu faka sefulu iva taimi.  Ko toe taku a te “Alláh-u-Abhá”, tao atu kiei ko te fuaipu ite lua, te la e lau foki faka-sefulu iva taimi, ko fano i ei pena.)
 

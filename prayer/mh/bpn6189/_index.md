@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6189 in Marshallese'
-tags = ['lang-mh', 'bpn6189']
+tags = ['lang-mh', 'bpn-unsorted']
 +++
 ##JAR EO EKADU
 

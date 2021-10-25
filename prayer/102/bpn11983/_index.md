@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11983 in '
-tags = ['lang-102', 'bpn11983']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’äl-Äbha.
     Men günäkär, Sen Ýalkaýjy. Gaflat pyýalasyndan meý-mes men, Sen meni hüşgär eýle. Men bu tukat jahanyň zikrini aýdyp ýörün. Sen maňa şeýle bir gulak bagyş eýle ki, ol Perişdeleriň çalýan mukamyny diňlesin, Mukaddes bossanyň andalybynyň owazyny eşitsin hem Duýgy güýji bilen şükür edýän guşlaryň saýraýşyny duýsun.

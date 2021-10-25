@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2729 in Magyar'
-tags = ['lang-hu', 'bpn2729']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 *A Szellemi Tanács ülésének befejezésekor mondandó ima:
 

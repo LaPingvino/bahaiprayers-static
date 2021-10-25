@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn493 in Deutsch'
-tags = ['lang-de', 'bpn493']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du gütiger Herr! Du hast die ganze Menschheit aus dem gleichen Stamm erschaffen. Du hast bestimmt, dass alle der gleichen Familie angehören. In Deiner heiligen Gegenwart sind alle Deine Diener, die ganze Menschheit findet Schutz in Deinem Heiligtum. Alle sind um Deinen Gabentisch versammelt; alle sind erleuchtet vom Lichte Deiner Vorsehung.
 O Gott! Du bist gütig zu allen, Du sorgst für alle, Du beschützest alle, Du verleihst allen Leben. Du hast einen jeden mit Gaben und Fähigkeiten ausgestattet, und alle sind in das Meer Deines Erbarmens getaucht.

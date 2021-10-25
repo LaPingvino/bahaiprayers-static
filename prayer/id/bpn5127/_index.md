@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5127 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5127']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Terpujilah Engkau, ya Tuhanku! Aku seorang hamba-Mu, yang telah percaya akan Dikau, dan akan tanda-tanda-Mu. Engkau melihat bagaimana aku telah menghadapkan diriku pada pintu rahmat-Mu dan mengarahkan wajahku pada kasih sayang-Mu. Aku memohon kepada-Mu, demi gelar-gelar-Mu yang tertinggi dan sifat-sifat-Mu yang terluhur, agar membuka pada wajahku gapura-gapura anugerah-Mu. Maka, tolonglah aku agar berbuat apa yang baik, ya Engkau Pemilik segala nama dan sifat!
 Aku ini miskin, ya Tuhanku, dan Engkaulah Yang Kaya. Aku telah menghadapkan wajahku kepada-Mu, dan melepaskan diriku dari segala-galanya kecuali Engkau. Aku memohon kepada-Mu, janganlah menjauhkan diriku dari angin-angin belas-kasih-Mu yang mesra, dan janganlah dijauhkan dariku apa yang Engkau takdirkan bagi orang-orang pilihan di antara hamba-hamba-Mu.

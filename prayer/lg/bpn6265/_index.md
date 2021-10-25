@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6265 in Luganda'
-tags = ['lang-lg', 'bpn6265']
+tags = ['lang-lg', 'bpn-unsorted']
 +++
 *Ayi ggwe anoonya amazima, bwobeera wegomba Katonda okuzibula amoaso go, oteekwa okwegayira Katonda omusabe era nga omwegayirira ettumbi nga ogamba nti:
 

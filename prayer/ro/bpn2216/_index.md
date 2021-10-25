@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2216 in România'
-tags = ['lang-ro', 'bpn2216']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slăvit fii Tu, o, Doamne, Dumnezeul meu! De câte ori încerc să Te pomenesc, sunt reţinut de păcatele mele cumplite şi de încălcările mele grave şi mă trezesc cu totul lipsit de harul Tău şi fără nici o putinţă de a Te preaslăvi. Marea mea încredere în generozitatea Ta însă, îmi redeşteaptă speranţa în Tine, iar certitudinea că mă vei trata cu mărinimie mă îndeamnă să Te preamăresc şi să-ţi cer ceea ce posezi.
 

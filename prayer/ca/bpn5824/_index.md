@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5824 in Català'
-tags = ['lang-ca', 'bpn5824']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu Tu ets l’Autor de totes les Manifestacions, l’Origen de tots els Orígens, la Font de totes les Revelacions i la Deu de totes les Llums! Testimonio que pel Teu Nom el cel de la comprensió ha estat guarnit i l’oceà de l’expressió s’ha agitat i s’han promulgat les dispensacions de la Teva providència als seguidors de totes les religions.
 Jo t’imploro que m’enriqueixis de la manera què pugui prescindir de tot tret de Tu. Fes descendir, doncs, sobre meu, dels núvols de la Teva munificència, allò què em beneficiï en cada món dels Teus mons. Ajuda’m, llavors, mitjançant la Teva gràcia enfortidora, a servir de tal manera a la Teva Causa entre els teus serfs, que pugui jo mostrar allò què em faci ser recordat tant com perduri el teu regne i persisteixi el seu domini. 

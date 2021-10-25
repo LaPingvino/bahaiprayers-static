@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5866 in Català'
-tags = ['lang-ca', 'bpn5866']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Oració Llarga De Guariment
 

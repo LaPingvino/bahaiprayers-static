@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7156 in ελληνικά'
-tags = ['lang-el', 'bpn7156']
+tags = ['lang-el', 'bpn-unsorted']
 +++
 ΓΙΑ ΒΡΕΦΗ
 

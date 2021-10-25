@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6586 in 한국어'
-tags = ['lang-ko', 'bpn6586']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 제가 주님 밖에는 아무에게도 의존하지 않게
 

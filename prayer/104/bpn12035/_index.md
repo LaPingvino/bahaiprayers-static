@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12035 in '
-tags = ['lang-104', 'bpn12035']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 *Dilaksanakan sekali dalam dua puluh empat jam.
 

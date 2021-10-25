@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7325 in Polski'
-tags = ['lang-pl', 'bpn7325']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Niezrównany Boże! O Ty, Panie Królestwa! Te oto dusze są Twoją niebiańską armią. Wspomóż je i wraz z zastępami Najwyższego Zgromadzenia uczyń je zwycięskimi, tak aby każda z nich stała się niby legion i podbiła te kraje miłością Bożą oraz oświeceniem płynącym z Boskich nauk.
    

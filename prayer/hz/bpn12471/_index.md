@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12471 in Namibia'
-tags = ['lang-hz', 'bpn12471']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Lituleni Nye Vene Mefuta Le Ndyoyo Dange
 (Immerse yourselves in the ocean)

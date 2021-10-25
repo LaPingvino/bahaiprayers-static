@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2399 in Latviešu'
-tags = ['lang-lv', 'bpn2399']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Esi slavēts, ak mans Dievs! Ja tiem, kas Tevi no sirds mīl, nebūtu likstu, Tavu ceļu ejot, kā gan Tu viņus pazītu? Un ja nebūtu pārbaudījumu, kurus tie izcieš mīlestībā pret Tevi, kā gan to augstais stāvoklis, kuri ilgojas pēc Tevis, tiktu atklāts? Tava varenība lai ir tam par pierādījumu. Vienīgais pavadonis tiem, kas Tevi pielūdz, ir asaras, un mierinājums tiem, kas Tevi meklē, ir vaidi, ko tie izdveš, un pārtika tiem, kas steidzas Tevi sastapt, ir to salauzto siržu lauskas.
 Cik salda šķiet man rūgtā nāve, sastapta, Tavu ceļu ejot, un cik dārgas Tavu ienaidnieku bultas, saņemtas, suminot Tavu Vārdu!

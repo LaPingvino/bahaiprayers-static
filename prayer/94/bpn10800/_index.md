@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10800 in '
-tags = ['lang-94', 'bpn10800']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 *Amene akufuna kupempherayo, asambe manja ake, ndipo pamene ali kusamba, anene kuti: 
 

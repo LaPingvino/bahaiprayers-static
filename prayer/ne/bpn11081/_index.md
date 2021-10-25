@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11081 in नेपाली'
-tags = ['lang-ne', 'bpn11081']
+tags = ['lang-ne', 'bpn-unsorted']
 +++
 *यसो भनोस्ः
 

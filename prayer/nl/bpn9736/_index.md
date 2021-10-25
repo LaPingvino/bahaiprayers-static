@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9736 in Nederlands'
-tags = ['lang-nl', 'bpn9736']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 *Kom tezamen in pure blijdschap en reciteer dit gebed bij het begin van de vergadering:
 

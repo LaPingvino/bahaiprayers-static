@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7521 in Suomi'
-tags = ['lang-fi', 'bpn7521']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 *Jokainen opetusmatkalle lähtevä lausukoon vieraissa maissa matkatessaan tätä harrasta rukousta päivin ja öin:
 

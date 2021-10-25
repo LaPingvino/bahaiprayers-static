@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1328 in Português (BR)'
-tags = ['lang-pt', 'bpn1328']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola De Ridván
 A Primavera Divina já veio, ó Pena Mais Excelsa, pois o Festival do Todo-Misericordioso aproxima-se rapidamente. Desperta e, perante a criação inteira, magnifica o nome de Deus e celebra o Seu louvor, de tal modo que todas as coisas criadas se regenerem e se façam novas. Fala; não guardes silêncio. O sol da beatitude brilha sobre o horizonte do Nosso nome, o Beatífico, porquanto o reino do nome de Deus ataviou-se com o adorno do nome do teu Senhor, o Criador dos céus. Levanta-te diante das nações da terra e arma-te com o poder deste Nome Supremo, e não sejas dos que tardam.

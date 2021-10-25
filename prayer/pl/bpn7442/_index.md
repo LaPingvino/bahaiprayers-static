@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7442 in Polski'
-tags = ['lang-pl', 'bpn7442']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Boże, mój Boże! Zwróciłem się do Ciebie ze skruchą, a Tyś zaprawdę jest Odpuszczającym, Współczującym.
     

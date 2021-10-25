@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6443 in English'
-tags = ['lang-en', 'bpn6443']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O thou merciful God! O Thou Who art might and powerful! O Thou most kind Father! These servants have gathered together, turning to Thee, supplicating Thy threshold, desiring Thine endless bounties from Thy great assurance. They have no purpose save Thy good pleasure. They have no intention save service to the world of humanity. 
 

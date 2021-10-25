@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6593 in 한국어'
-tags = ['lang-ko', 'bpn6593']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 주님의 종들의 마음을 통합시켜
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12948 in '
-tags = ['lang-110', 'bpn12948']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 O God.  Mi laikim tumas pes bilong Yu.  Naispela bilong Yu i olsem ples strong we mi nap stap gutpela insait long en.  Mi laik i stap insait long wanem ples we Yu save stap.  Mi litimapim nem bilong Yu na mi save kisim strong.  Gutpela pasin bilong Yu long lukautim mi i olsem poroman bilong mi.  Lav bilong Yu i bin mekim kamap mi.  Na mi save amamas taim mi kolim nem bilong Yu.  Mi laik i stap klostu long Yu.  Na mi gat bikpela laik olsem bai Yu stap wantaim mi.  Mi askim strong long Yu long givim long mi ol gutpela samting Yu bin makim long go long ol gutpela wokman bilong Yu.  Orait, inap bai Yu givim long mi ol gutpela samting bilong dispela laip na bilong laip bihain tu. 
  

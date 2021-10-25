@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5531 in 日本語'
-tags = ['lang-ja', 'bpn5531']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 ##「聖なる計画の書簡」のティーチングの祈り
  

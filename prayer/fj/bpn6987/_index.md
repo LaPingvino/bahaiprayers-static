@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6987 in Fiji'
-tags = ['lang-fj', 'bpn6987']
+tags = ['lang-fj', 'bpn-unsorted']
 +++
 *(Na masu oqo, e vakaraitaki mai vei `Abdu’l-Bahá, ka vakayagataki e na Nona iBulubulu Tabu. E rawa tale ga ni cavuta e dua e na nona masu vakai koya ga, e vale.)
 

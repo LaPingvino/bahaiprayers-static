@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4847 in Azərbaycan'
-tags = ['lang-az', 'bpn4847']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey Mehriban Allah! Təriflər olsun Sənə ki, hidayət yollarını bizə göstərdin, mələkut qapılarını açdın və Həqiqət Günəşi vasitəsilə Özünü aşkar etdin. Korlara Sən işıq verdin; karlara Sən eşitmə əta etdin; Sən ölüləri diriltdin; kasıbları varlı etdin; yolunu azanlara Sən yol göstərdin; dodaqları susuzluqdan quruyanları hidayət çeşməsinə yönəltdin; Sən izn verdin ki, yanan balıq həqiqət dəryasına yetsin; sərgərdan quşları fəzl gülşəninə Sən dəvət etdin.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7728 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7728']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Li menm Ki Bondye, Sila a Ki egzalte, Senyè a Ki gen yon jantiyès ki plen lanmou ak bonte!
 Glwa pou ou, O Bondye mwen, Ou menm Senyè Siprèm nan. Mwen temwaye Ou gen tout otorite ak pisans, Ou gen souverènte ak jantiyès ki plen lanmou, Ou plen gras ak pouvwa, Lespri Ou rete pou kont Li e linite Ou pa kapab divize, Ou sanntifye e Ou pi wo pase tout mond kreyasyon an ak tout sa ki egziste anndan li.

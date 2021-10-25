@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8242 in English'
-tags = ['lang-en', 'bpn8242']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 #Húr-i-‘Ujáb
 ##Tablet of the Wondrous Maiden

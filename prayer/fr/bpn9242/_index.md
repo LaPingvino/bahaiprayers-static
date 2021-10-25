@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9242 in Français'
-tags = ['lang-fr', 'bpn9242']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Loué sois-tu, ô mon Dieu, toi qui, d’un mot de tes lèvres, bouleverses toute la création, et qui, d’un trait de ta plume, sépares tes serviteurs les uns des autres ! 
 Ô mon Dieu, j’atteste qu’un mot de toi fait périr toutes choses créées, qu’un autre mot revêt d’une vie nouvelle tous ceux que tu as choisis en ta grâce et ta générosité.

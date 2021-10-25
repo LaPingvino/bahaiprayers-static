@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10516 in English'
-tags = ['lang-en', 'bpn10516']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O Thou beloved of my heart and soul!  I have no refuge save Thee.  I raise no voice at dawn save in Thy commemoration and praise.  Thy love encompasseth me and Thy grace is perfect.  
 My hope is in Thee. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7855 in Italiano'
-tags = ['lang-it', 'bpn7855']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 *«Il matrimonio bahá’í è unione e sincero affetto fra i due coniugi. Ma essi devono prestare la massima attenzione e conoscere bene i rispettivi caratteri. Questo eterno legame dev’essere rafforzato da un saldo patto, al fine di accrescere l’armonia, l’ami-cizia e l’unità e di giungere alla vita eterna».
 *‘Abdu’l-Bahá

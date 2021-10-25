@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6013 in Namibia'
-tags = ['lang-hz', 'bpn6013']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 ##Makyatiku
 *Dawn Prayer

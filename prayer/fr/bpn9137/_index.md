@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9137 in Français'
-tags = ['lang-fr', 'bpn9137']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Seigneur, nous inspirons la pitié, accorde-nous ta faveur ; nous sommes pauvres, donne-
 nous une part de l’océan de ta richesse ; dénués, pourvois à nos besoins ; humiliés, donne-nous ta gloire. Les oiseaux du ciel et les bêtes des champs reçoivent de toi chaque jour leur nourriture, et toutes les créatures leur part de ta sollicitude et de ta tendre bonté. 

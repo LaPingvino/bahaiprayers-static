@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6078 in Sranan Tongo'
-tags = ['lang-srn', 'bpn6078']
+tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##VERZEN VAN GOD 
 Zing, o Mijn dienaar, de verzen Gods die u hebt ontvangen, zoals aangeheven door hen die Hem nabij zijn, opdat de zoetheid van uw melodie uw ziel mag doen ontbranden en de harten van alle mensen mag aantrekken. De rondwarende engelen van de Almachtige zullen alom de geur verspreiden van de woorden van ieder die in de stilte van zijn kamer de door God geopenbaarde verzen zegt, en zullen het hart van ieder rechtvaardig mens doen bonzen. 

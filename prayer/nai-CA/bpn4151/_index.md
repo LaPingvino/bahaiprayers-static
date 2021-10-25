@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4151 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn4151']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 Sigakundjigauso peendji okitahgisiwinug dibishko wigiwam, gahyay o-ahbinass, odaynah, odayimah, owahjiw, ininizhimowin, wimbakbikamagud, tahwandinah, akki, gitchegahmi, miniss, gahyay, mashkossigan auneendi gigitowin O Gitche Manito Kosaynaun Missigaygo Gaugezhetod gabyay ahwaineen gezhegoong aindaut, ahwainsen ondji ozhitchigauday ondji.
 

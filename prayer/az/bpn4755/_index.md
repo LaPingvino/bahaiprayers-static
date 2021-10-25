@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4755 in Azərbaycan'
-tags = ['lang-az', 'bpn4755']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 İzn ver mənə, Ey mənim Allahım, Sənə yaxınlaşım və Sənin dərgahının yanında sakin olum; çünki, Səndən uzaqlıq məni yandırıb yaxdı. Məni Öz fəzlinin kölgəsində rahatlandır, çünki Səndən ayrılığın atəşi ürəyimi əritdi. Məni dirilik suyunun çeşməsinə yaxınlaşdır, çünki Səni durmadan axtararkən susuzluqdan qəlbim od tutub yanır. Mənim ahım, İlahi, mənim qəm-qüssəmin acılığını göstərir, göz yaşlarım Sənə məhəbbətimə şəhadət verir.
 

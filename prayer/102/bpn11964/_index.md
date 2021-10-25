@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11964 in '
-tags = ['lang-102', 'bpn11964']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Allatagala.
     Eý Perwerdigär, eý Ýalkaýjy! Bir eziz ynsan Seniň ägälik Melekutyňa galkyndy. Bu pany toprakdan, ol Ebedi jahana bardy. Täze myhmandyr sylag et, gadym bendäňdir üýtgeşik täze don geýdir.

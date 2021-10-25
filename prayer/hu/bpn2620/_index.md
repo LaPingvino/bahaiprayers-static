@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2620 in Magyar'
-tags = ['lang-hu', 'bpn2620']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Dicsőíttessék a Te Neved, ó, én Istenem és minden dolgok Istene, ó, Dicsőségem és minden dolgok Dicsősége, ó, Vágyódásom és minden dolgok Vágyódása, ó, Erősségem és minden dolgok Erőssége, ó, Királyom és minden dolgok Királya, ó, Uram és minden dolgok Ura, ó, Végső Célom és minden dolgok Végső Célja, ó, Megébresztőm és minden dolgok Megébresztője! Könyörgöm Hozzád, ne hagyd, hogy távol maradjak kegyes jótéteményeid óceánjától és elűzessek közelséged partjától!
 

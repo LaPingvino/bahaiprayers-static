@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5188 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5188']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Katakanlah: Ya Rabi Tuhanku, hiasilah kepala hamba dengan mahkota keadilan dan tubuh hamba dengan hiasan keinsyafan. Sesungguhnya, Engkaulah yang mempunyai segala pemberian dan kederma- wanan.
 

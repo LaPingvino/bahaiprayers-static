@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7660 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7660']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 *An verite, Mwen ban nou lòd pou fè yon fèt youn fwa chak mwa, menm si se dlo sèlman nou sèvi patisipan yo; paske Bondye te bay tèt Li objektif pou nou mare kè yo ansanm, ranfòse lyen zanmitay, malgre se avèk ni mwayen materyèl, ni mwayen espirityèl nou dwe sèvi.
  

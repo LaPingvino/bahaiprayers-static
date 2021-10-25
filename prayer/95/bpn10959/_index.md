@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10959 in '
-tags = ['lang-95', 'bpn10959']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Aliki, toku Puipui, toku Fesoasoani i Mea Faigata!  E maulalo a taku akai fakamolemole kia Koe, e masaki kae vau kia Koe ke fakalei a toku masaki, e tagi akai atu kia Koe mo toku laulaufaiva, toku agaaga ola, mo toku mafaufau:
      O te Atua, toku Atua!  A te fase-tonu o te po ko tanumia i ei a kogaa-koga katoa, a ko te lalolagi ko ponogina ne kaumana pouli.  A tino o te lalolagi ko to i loto i te pogisa o fakatauga seai ne aoga, a ko olotou tino pule masei kae kaitaua ko taka- seasea i te fakamasei o mea mo te kaitaua.  E seai saku mea e lavea na loa ko mata kaitaua o afusaga o afi ko kaa loa ki luga mai i te pokooga loa fakaoti o te koga mai i tua, e seai saku mea e lagona na loa ko te maluga o te gulu e pakalaga mai i te afe mo afe o mea tau, a ko fenua taki tasi ko tagitagi ki luga i olotou laulaufaiva e se iloa:  “Oku maumea e seai ne aogaa kia aku, a ko taku puleega ko galo ifo ki lalo!”

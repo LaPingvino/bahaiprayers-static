@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8179 in Dansk'
-tags = ['lang-da', 'bpn8179']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Bøn til afslutning af møde i det åndelige råd:
 

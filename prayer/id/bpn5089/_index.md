@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5089 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5089']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 ##SEMBAHYANG PANJANG
 *Dilaksanakan sekali dalam dua puluh empat jam.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4145 in American Indian'
-tags = ['lang-nai-US', 'bpn4145']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 #For the Departed
 Kiyawun wámi wucshák Manto, qá yaqi nákum mus kuputukimun.

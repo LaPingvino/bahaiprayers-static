@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7919 in Italiano'
-tags = ['lang-it', 'bpn7919']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 O ricercatore della verità! Se desideri che Dio ti apra gli occhi devi supplicarLo, pregarLo e a Lui volgere lo spirito a mezzanotte dicendo: 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9754 in Nederlands'
-tags = ['lang-nl', 'bpn9754']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 *(Deze Tafel wordt gelezen bij de graftomben van Baha’u’llah  en Bab , en wordt ook vaak gebruikt bij Hun gedenkdagen.)
 

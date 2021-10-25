@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1138 in Português (BR)'
-tags = ['lang-pt', 'bpn1138']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Senhor, meu Deus e meu Amparo na aflição! Meu Escudo e meu Abrigo nas tribulações! Meu Asilo e Refúgio em tempo de necessidade e, na solidão, meu Companheiro! Na angústia, meu Consolo; na minha solitude, um Amigo afetuoso! Aquele que remove as dores pungentes dos meus desgostos e perdoa os meus pecados!
 Inteiramente para Ti me volvo, implorando-Te com fervor – de todo o coração e por pensamentos e palavras – que me protejas de tudo o que for contrário à Tua vontade, neste ciclo da Tua unidade divina, e me livres de toda a impureza que me possa impedir de recorrer, sem mancha ou mácula, à sombra da árvore da Tua graça.

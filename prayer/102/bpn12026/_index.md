@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12026 in '
-tags = ['lang-102', 'bpn12026']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu-äl-Äbha.
     Ýa Hezreti Aly Ekber! 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1630 in Íslenska'
-tags = ['lang-is', 'bpn1630']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó óviðjafnanlegi Drottinn! Ver athvarf þessu vesalings barni og vorkunnlátur meistari þess­ari villuráfandi og óhamingjusömu sál. Ó Drottinn! Þótt við séum aðeins einskisnýtar jurtir tilheyrum við samt rósagarði Þínum. Þótt við séum berir kvistir tilheyrum við urtagarði Þínum. Nær því þessa jurt með regni úr skýjum mildrar miskunnar Þinnar og fjörga og endurnær þennan kvist með lifandi andvara Þíns andlega vors. Ger hann að­gætinn, skiln­ings­ríkan og göfugan, gef að hann eignist ævarandi líf og dvelji í ríki Þínu að eilífu.
 

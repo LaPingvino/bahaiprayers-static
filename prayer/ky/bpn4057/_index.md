@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4057 in Кыргыз'
-tags = ['lang-ky', 'bpn4057']
+tags = ['lang-ky', 'bpn-unsorted']
 +++
 Ал Куч-кубаттуунун өзү, Кечиримдүү , Бооркер!
 

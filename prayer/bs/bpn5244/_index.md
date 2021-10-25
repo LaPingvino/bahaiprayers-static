@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5244 in Bosanski'
-tags = ['lang-bs', 'bpn5244']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 *Izgovarajte ovu molitvu na kraju sastanka Duhovnog vijeća:
 

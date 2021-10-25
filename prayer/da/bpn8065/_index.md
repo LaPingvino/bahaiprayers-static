@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8065 in Dansk'
-tags = ['lang-da', 'bpn8065']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Lovet være Du, o Herre min Gud! Jeg bønfalder Dig ved Dit Allerstørste Navn, hvorved Du satte Dine tjenere i bevægelse og opbyggede Dine byer, og ved Dine mest fremragende navne og Dine mest ophøjede egenskaber, om at hjælpe Dit folk til at vende sig til Dine mangfoldige begunstigelser og rette deres ansigter mod Din visdoms tempel. Helbred de sygdomme der fra alle sider har angrebet sjælene og har afholdt dem fra at rette deres blik mod paradiset, der ligger i ly af Dit overskyggende navn, som Du bestemte skulle være kongen over alle navne for alle, der er i himlen, og alle, der er på jorden. Magtfuld er Du til at gøre, hvad der behager Dig. I Dine hænder ligger alle navnes imperium. Der er ingen anden Gud end Dig, Den Mægtige, Den Vise.
 

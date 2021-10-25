@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7635 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7635']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Priyè pou di nan fen reyinyon Asanble Espirityèl la.
 O Bondye! O Bondye! Depi nan wayòm linite Ou a ki envizib, voye yon rega sou nou menm ki reyini nan rankont espirityèl sa a - nou kwè nan Ou, nou gen konfyans nan siyn Ou yo, nou fèm nan Alyans ak Testaman Ou, atire nan direksyon Ou, limen ak dife lanmou Ou epi nou sensè nan Koz Ou a. Nou se sèvitè nan jaden rezen Ou an, kwayan k’ap gaye relijyon Ou, fidèl devwe ki adore bèlte Ou, ki mete nou ba devan byeneme Ou yo e piti devan pòt Ou a; n’ap sipliye Ou pou ranfòse nou nan sèvis moun Ou te chwazi yo, pou ban nou sipò lame envizib Ou yo, pou mare senti nou nan sèvis Ou, pou fè nou tounen sèvitè ki soumèt yo ak otorite Ou, ki zele nan adore Ou, k’ap toujou lapriyè Ou. 

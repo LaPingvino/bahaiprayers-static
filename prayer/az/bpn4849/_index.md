@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4849 in Azərbaycan'
-tags = ['lang-az', 'bpn4849']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ya Rəbb, mənim Allahım! Sənə tərif və şükrlər olsun ki, məni mələkutun geniş yoluna yönəltdin, izn verdin ki, bu dorğu və geniş yolda addımlayım, Sənin nurunun şəfəqlərinə baxmaqla gözümü nurlandırdın, sirlər səltənətindən müqəddəslik quşlarının nəğmələrini mənə eşitdirdin və möminlər arasında Sənin məhəbbətinlə ürəyimi cəzb etdin.
 

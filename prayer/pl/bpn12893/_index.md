@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12893 in Polski'
-tags = ['lang-pl', 'bpn12893']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Najświętszy, Najchwalebniejszy!
 W imię Boga, Współczującego, Miłosiernego! Chwała niechaj będzie Bogu, Panu wszystkich światów!

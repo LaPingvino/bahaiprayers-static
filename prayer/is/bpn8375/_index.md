@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8375 in Íslenska'
-tags = ['lang-is', 'bpn8375']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 *Eftirfarandi bæn er fyrir nýfæddum börnum.
 *Meybörn:

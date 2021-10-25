@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10798 in '
-tags = ['lang-93', 'bpn10798']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 On je Iscelitelj, Udovoljitelj, Pomagač, Svepraštajući, Svemilosrdni.
 

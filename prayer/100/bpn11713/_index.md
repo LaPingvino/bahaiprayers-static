@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11713 in '
-tags = ['lang-100', 'bpn11713']
+tags = ['lang-100', 'bpn-unsorted']
 +++
 Nā tāshi wannan sāhiya cikin alhērinka yā Allah. Nā huta daga gida, cikin cēto da dōgara garēka. Ka sauko mini albarka daga samāniyar jin-ƙanka. Ka kuma maida ni gida lāfiya, kamar yadda ka bā ni uzunin huta cikin kiyāyēwarka.
 Bā wani Allah sai kai, kai kaɗai kake, mafi kwatamci, mai sani da basīra. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10984 in '
-tags = ['lang-95', 'bpn10984']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 *(Te talo tenei, ne fakaasi mai ne ‘Abdu’l-Bahá, e faitau i Tena Tanumate.  E mafai foki o fai ia koe loa ia koe.)
 So se tino e faitau ne ia a te talo tenei mo maulalo Whoso reciteth this prayer with lowliness and fervor will bring gladness and joy to the heart of this Servant; it will be even as meeting Him face to face.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12649 in '
-tags = ['lang-91', 'bpn12649']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Diambi ari Papan Tulis Pelen Petara
  

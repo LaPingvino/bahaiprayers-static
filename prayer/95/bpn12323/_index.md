@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12323 in '
-tags = ['lang-95', 'bpn12323']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Te mana e io Koe, O toku Atua!  Kae ona ko fakalavelave ko la e tumau i Tou auala, e mafai pefea o iloa fakalei a latou ko la e alofa tonu mo Koe; kae moi fai see ko tofotofooga ko la ne faka-fesagai ona ko te alofa mo Koe, e mafai pefea o fakaasi a te tulaga o ia te la e tagi mo Koe?  Tou mafi e molimau ne ia au!  A taugasoa o latou katoa ko la e tapuaki kia Koe ko loimata o latou ko la e maligi, a ko latou ko la e faka-mafanafana ne latou tino ko la e saala kia Koe ko musumusuuga-fita e faipati ne latou, a ko meakai a latou ko laa e fakavave ke fetaaui mo Koe ko malipilipiiga o olotou loto mafatia.  
   

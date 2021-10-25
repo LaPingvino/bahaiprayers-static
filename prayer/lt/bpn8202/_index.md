@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8202 in Lietuvių'
-tags = ['lang-lt', 'bpn8202']
+tags = ['lang-lt', 'bpn-unsorted']
 +++
 O maloningasis Viešpatie! Tu sutvėrei visą žmoniją iš vienų tėvų, norėdamas, kad visi būtų viena šeima. Jie yra Tavo šventosios Esybės tarnai ir visa žmonija yra Tavo globoje po Tavo Priedanga. Visi susibūrę prie Tavo dosnaus stalo ir visi apšviesti Tavo Apvaizdos spinduliuojančia šviesa. 
 	O Dieve! Tu esi maloningas visiems, Tu aprūpini visus, Tu priglaudi visus, Tu visiems suteiki gyvybę. Tu apdovanojai visus gabumais ir talentais, visi yra pasinėrę į Tavo Malonės Vandenyną.

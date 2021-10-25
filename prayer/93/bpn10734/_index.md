@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10734 in '
-tags = ['lang-93', 'bpn10734']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 *Mlada i mladoženja, svaki za sebe, izgovaraju sledeći stih kao bračnu zakletvu u prisustvu najmanje dva svedoka odobrenih od strane Duhovne skupštine, kao što je utvrđeno u Kitabi Akdasu (Najsvetijoj knjizi):
 

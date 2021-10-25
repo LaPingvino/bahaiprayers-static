@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12934 in '
-tags = ['lang-110', 'bpn12934']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 Tok olsem:  God i save inapim olgeta samting na Em i winim olgeta samting.  Na i no gat wanpela samting long heven o daunbilo long graun i save inapim olsem.  Nogat. God tasol.  Tru tumas.  God Yet I Gat Save, Em I Givim Laip, Em I Strong Olgeta. 
  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1129 in Português (BR)'
-tags = ['lang-pt', 'bpn1129']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Senhor clemente! Perdoa os pecados da minha querida mãe, absolve-lhe as imperfeições, dá-lhe um vislumbre da Providência e conduze-a ao Teu Reino.
 Ó Deus! Ela educou-me desde o começo de minha vida, criou-me, porém não a recompensei pelo seu trabalho. Concede Tu a sua recompensa. Destina-lhe a vida eterna e fá-la querida no Teu Reino.

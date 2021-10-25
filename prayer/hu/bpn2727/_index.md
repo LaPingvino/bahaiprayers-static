@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2727 in Magyar'
-tags = ['lang-hu', 'bpn2727']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 *Valahányszor a tanácskozóterembe léptek, mondjátok el ez imát Isten szeretetével eltelt szívvel és az Ő említésén kívül mindentől megtisztult nyelvvel, hogy a Mindenek Felett Hatalmas kegyesen végső diadalhoz segítsen benneteket:
 

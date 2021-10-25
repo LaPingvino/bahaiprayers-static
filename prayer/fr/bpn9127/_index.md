@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9127 in Français'
-tags = ['lang-fr', 'bpn9127']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Longue prière à réciter une fois par jour.
 *Que celui qui désire réciter cette prière se lève, se tourne vers Dieu et, sans changer de place, regarde à droite et à gauche, en quête de la miséricorde du Seigneur, le Très-Miséricordieux, le Compatissant. Puis, qu’il dise :

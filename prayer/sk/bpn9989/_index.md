@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9989 in Slovensky'
-tags = ['lang-sk', 'bpn9989']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 Prednáša sa každý deň ráno, na poludnie a večer
 *Ak si prajete modliť sa, umyte si ruky a počas umývania rieknite:

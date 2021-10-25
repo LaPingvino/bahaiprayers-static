@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3248 in العربية'
-tags = ['lang-ar', 'bpn3248']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 هُوَ السَّامِعُ المُجِيبُ
  

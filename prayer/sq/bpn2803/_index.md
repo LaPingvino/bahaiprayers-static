@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2803 in Shqip'
-tags = ['lang-sq', 'bpn2803']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 Si mund të zgjedh gjumin, O Perëndi, Perëndia im, kur sytë e atyre që dëshirohen për Ty janë të hapur për shkak të ndarjes prej Teje; dhe si mundem unë të prehem, ndërsa shpirtrat e të dashurve të Tu janë të shqetësuar sepse ndodhen larg pranisë Sate?
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5942 in Català'
-tags = ['lang-ca', 'bpn5942']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Ell és el Déu què escolta i contesta les oracions!
 Per la Teva glòria, oh benamat! Tu què dónes vida al món! Les flames de la separació m’han consumit i la meva rebel·lia ha desfet el meu cor dins meu. Jo et demano, pel Teu Nom Més Gran, oh Tu Desig del món i Benamat de la humanitat, que concedeixis que la brisa de la Teva inspiració mantingui la meva ànima; que la Teva veu meravellosa arribi a la meva oïda; que els meus ulls contemplin els Teus signes i la Teva llum, revelats en les manifestacions dels Teus noms i atributs, oh Tu, en el poder del Qual estan totes les coses.

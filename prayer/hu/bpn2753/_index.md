@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2753 in Magyar'
-tags = ['lang-hu', 'bpn2753']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 *„A Naw-Rúz ünnepséget tartsátok március 21-én napnyugta előtt. Nincs semmi köze a Tizenkilenc Napi Ünnephez. Az utóbbi adminisztratív jelentőségű, míg a Naw-Rúz az újévi ünnepségünk, a vendégszeretet és az öröm ünnepe.” —egy Shoghi Effendi nevében írt levélből
 

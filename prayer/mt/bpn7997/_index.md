@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7997 in Malti'
-tags = ['lang-mt', 'bpn7997']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 ##IT-TAVLA TA’ AḤMAD 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6015 in Irish'
-tags = ['lang-ga', 'bpn6015']
+tags = ['lang-ga', 'bpn-unsorted']
 +++
 ##Remover of Difficulties 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4964 in Vanuatu'
-tags = ['lang-bi', 'bpn4964']
+tags = ['lang-bi', 'bpn-unsorted']
 +++
 *Yumi ridim prea ia long Shrine blong Báb mo Shrine blong Bahá'u'lláh. Yumi save ridim prea ia tu long ol Holi Dei we i markem samfala samting long laef blong Tufala.  Yumi save yusum long narafala taem tu.
 

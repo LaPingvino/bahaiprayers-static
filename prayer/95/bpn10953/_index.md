@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10953 in '
-tags = ['lang-95', 'bpn10953']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 A Ia ko te Fakagata Masaki, ko te Lava-fua-ia-Ia, ko te Feasoasoani, ko te Fakamagalo-Katoatoa, ko te Kaimalie-Katoatoa.
      Au e tapa kia Koe O tafasili i te Maluga, O ko te Fakamaoni Tokotasi, O te Matagofie Tokotasi!  Koe ko te Lava-ia-Koe loa, Koe ko te Fakaleiiga o Masaki, Koe ko te Fakatunaki-Tumau, O Koe ko te Fakatuanaki-Tumau katoatoa!

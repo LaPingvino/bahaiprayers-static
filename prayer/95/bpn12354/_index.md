@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12354 in '
-tags = ['lang-95', 'bpn12354']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua!  A tofooga ne aumai ne Koe pe la me se sinu ki mea pakia o latou katoa ko la e faka-tuanaki ki Tou finagalo; a te masausauaaga o Koe ko te vailakau foo masaki ki loto ko la ko pili atu ki Tou fale, a te pili atu kia Koe ko te olaga tonu o latou ko la ko Au fagasele; A Tou nofo-mai ko manakoga maalosi o latou ko la e loto fiafia o kilo ki Ou mata; ko te mao mai ia Koe, mo te motu mai ia Koe ko te mate kia latou ko la ko oti ne lavea ne latou a Tau mea-tonu!  
   

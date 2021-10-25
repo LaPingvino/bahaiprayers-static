@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12540 in '
-tags = ['lang-107', 'bpn12540']
+tags = ['lang-107', 'bpn-unsorted']
 +++
 Oh ha’u-nia Maromak! Oh Ita-Boot perdua-na’in ba sala sira, haraik-na’in ba prémiu sira, kasu-na’in ba terus sira!
 Tebes duni, ha’u husu Ita-Boot atu perdua sala hotu husi ema sira ne’ebé husik ona sira-nia isin mundu nian no sa’e ona ba mundu espirituál.

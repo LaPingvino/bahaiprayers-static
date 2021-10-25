@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6584 in 한국어'
-tags = ['lang-ko', 'bpn6584']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 저를 도우시와 주님의 종들의 일이 번성케 하는 일과 주님의 여러 도시가 융성케
 

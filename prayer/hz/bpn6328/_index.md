@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6328 in Namibia'
-tags = ['lang-hz', 'bpn6328']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Hompa, Karunga gwange! Ove Mudongononipononzo, mutungike yigava, mutundisipo ruguwo!
 	Yousili, ame kuna kukuhundira mokugusirapo nonzo dogu ogu ana sigi sidwara sokorutu a kanduke mouzuni wopampepo.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4464 in Filipino'
-tags = ['lang-tl', 'bpn4464']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Nakikita Mo ako, o aking Diyos, na nakayukod sa kababaan, nagpapakumbaba sa harap ng Iyong mga utos, nagpapasaklaw sa Iyong kapangyarihan, nanginginig sa lakas ng Iyong pamamahala, patakbong lumalayo sa Iyong galit, nagsusumamo sa Iyong pagpapala, umaasa sa Iyong pagpapatawad, nangangatal sa pagkasindak sa Iyong matinding galit. Nagsusumamo ako sa Iyo nang may malakas na tibok ng puso, nang may umaagos na mga luha, at nananabik na kaluluwa at buong pagkawalay sa lahat ng mga bagay, na gawin ang Iyong mga mangingibig na tulad ng silahis ng liwanag sa kalawakanng Iyong mga nasasakupan, at tulungan ang Iyong hinirang na mga tagapaglingkod na parangalan ang Iyong Salita, nang ang kanilang mga mukha ay maging magaganda at maliliwanag na may luningning, nang ang kanilang mga puso ay mapuspos ng hiwaga, nang ang bawat kaluluwa ay maibaba ang pasanin ng kasalanan nito. Pangalagaan sila kung gayon sa mga mananalakay, sa kaniya na nawalan na ng hiya at lapastangan sa Diyos na gumagawa ng kamalian.
 

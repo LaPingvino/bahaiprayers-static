@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6570 in 한국어'
-tags = ['lang-ko', 'bpn6570']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 이 어린이들을
 

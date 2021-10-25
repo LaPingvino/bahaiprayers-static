@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2813 in Shqip'
-tags = ['lang-sq', 'bpn2813']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Ti Zot i mirë! Ti e ke krijuar gjithë njerëzimin nga i njëjti material. Ti ke vendosur që të gjithë i përkasin së njëjtës familje. Në Praninë Tënde të Shenjtë ata janë të gjithë shërbëtorët e Tu dhe gjithë njerëzit strehohen në Faltoren Tënde; të gjithë mblidhen së bashku në Tryezën Tënde të Bujarisë; të gjithë ndriçohen nëpërmjet dritës së Providencës Sate.
 

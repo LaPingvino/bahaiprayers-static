@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4161 in American Indian'
-tags = ['lang-nai-US', 'bpn4161']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Bikeguidan ne na sha: Bikeguidan nibika’ nshinzti negusií, ashi ni chi itedishdlií binka. Dakugu adishdi, shi shin dzileyaedi. Ndi ni dzileguli, shi te’nsiine, aku ndí yata diyi dike nil shi jash. Na’shi duhan kato bikegu dahindada dandina nikegu dahinda naichudanne.  Ha’a duguzhuda a agutegu dandi nikeguinda.
 

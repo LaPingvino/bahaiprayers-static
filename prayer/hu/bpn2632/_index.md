@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2632 in Magyar'
-tags = ['lang-hu', 'bpn2632']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Istenem! Ó, Istenem! Alázattal isteni fenséged magasztossága előtt, szerényen egységed kapujánál állva, e szolgád valóban hitt Benned és verseidben, tanúságot tett szavadról, lángra gyúlt szereteted tüze által, belemerült tudásod óceánjának mélységeibe, a Te szellőid vonzották őt, Rád bízta magát, arcát Feléd fordította, Hozzád könyörgött, és bízott megbocsátásodban és jóindulatodban. Elhagyta e halandó létet és a halhatatlanság királyságába repült, sóvárogva a kegyért, hogy találkozhasson Véled.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2726 in Magyar'
-tags = ['lang-hu', 'bpn2726']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ne szedd fel, ó, Uram, az ünnepi asztalt, mely Nevedben teríttetett meg, és ne oltsd ki az égő lángot, melyet a Te kiolthatatlan tüzed lobbantott fel. Ne tartsd vissza élő vized folyását, mely a Te dicsőséged és a Rólad való megemlékezés dallamától morajlik, és ne foszd meg szolgáidat szereteted parfümjét lehelő édes ízeid illatától.
 

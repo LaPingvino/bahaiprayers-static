@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7590 in Suomi'
-tags = ['lang-fi', 'bpn7590']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Herra, minun Herrani!
 Tämä on päivä, jonka Sinun Pyhä kielesi ja Kirkkauden kynäsi on pyhittänyt ja tehnyt siitä taivaallisten siunausten sekä jumalallisen laupeuden ja suosion päivän. Olet kunnioittanut sitä antimillasi, suonut sille armosi, kietonut sen kirkkauteesi ja tehnyt siitä ilon ja riemun  päivän niille, jotka ovat kääntyneet Sinun jumalallisen ilmoituksesi puoleen, niin että sydämet siitä ilahtuisivat, että onnellisuuden säteily valaisisi niiden elämää, jotka muistavat kirkkautesi ilmaisun Sinun pyhällä vuorellasi.

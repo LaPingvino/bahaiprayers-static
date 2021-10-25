@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6413 in Cymraeg'
-tags = ['lang-cy', 'bpn6413']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 Rwyt Ti yn fy ngweld, O Arglwydd, wedi ymbellhau oddi wrth bopeth ond Tydi,yn gafael yn llinyn Dy haelioni
 ac yn dyheu am ryfeddodau Dy ras. Gofynnaf i Ti, yn enw awelon tragwyddol Dy ofal cariadus a golau disglair Dy ofal tyner a'th ffafr, i ganiatáu'r hyn a'm dena atat Ti a'm gwneud yn gyfoethog yn Dy gyfoeth Di.

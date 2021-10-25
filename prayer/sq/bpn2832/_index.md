@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2832 in Shqip'
-tags = ['lang-sq', 'bpn2832']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Zot, Perëndia im dhe Streha ime në hallet e mia! Mburoja ime dhe Tenda ime në mjerimet e mia! Azili e Strehimi im në rast nevoje, dhe Shoku im në izolimin tim! Ngushëllimi im në ankthin tim dhe mik i dashur në vetminë time! Larguesi i dhembjeve të mjerimeve të mia dhe Falësi i mëkateve të mia!
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6404 in Cymraeg'
-tags = ['lang-cy', 'bpn6404']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Dydi Drugarog Arglwydd! Ti yr Hwn sydd Haelionus a Galluog! Dy weision ydym, a gysgodwyd dan Dy ragluniaeth. Bwrw olwg dy ffafr arnom. Rho oleuni i’n llygaid, clyw i’n clustiau, a dealltwriaeth a chariad i’n calonnau. Gwna’n heneidiau yn llawen a dedwydd drwy Dy newyddion da. O Arglwydd! Dango i ni lwybr Dy deyrnas, ac adfywhâ ni drwy anadl yr Ysbryd Glân. Dyro i ni fywyd tragwyddol a chyflwyna arnom anrhydedd di-baid. Una’r ddynolryw a goleua fyd dynoliaeth. Bydded i ni oll ddilyn Dy lwybr, dyheu am Dy foddhad a cheisio dirgelion Dy deyrnas. O Dduw! Una ni a chysyllta ein calonnau â’th rwymyn annatod. Yn wir, Tydi yw’r Rhoddwr, Ti yw’r Un Caredig a thydi yw’r Hollalluog.
 

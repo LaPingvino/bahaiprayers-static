@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1293 in Português (BR)'
-tags = ['lang-pt', 'bpn1293']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado seja o Teu Nome, ó Senhor nosso Deus! Tu és, em verdade, o Conhecedor de coisas não percebidas. Ordena para nós um bem que possa ser medido pelo Teu conhecimento, o qual a tudo abrange. És o Senhor soberano, o Todo-Poderoso, o Mais Amado.
 Todo o louvor a Ti, ó Senhor! Buscaremos a Tua graça, no Dia designado, e a nossa inteira confiança haveremos de depositar em Ti, ó Tu que és o nosso Senhor.

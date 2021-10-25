@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8185 in Dansk'
-tags = ['lang-da', 'bpn8185']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Han er Helbrederen, Den Fyldestgørende, Hjælperen, Den Alttilgivende, Den Albarmhjertige.
 

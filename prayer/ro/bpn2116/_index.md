@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2116 in România'
-tags = ['lang-ro', 'bpn2116']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lăudat fie numele Tău, o, Doamne Dumnezeul nostru! Tu eşti într-adevăr Cunoscătorul lucrurilor nevăzute. Hărăzeşte-ne tot binele măsurat de cunoaşterea Ta atotcuprinzătoare. Tu eşti Stăpânul suveran, Cel Tare, Cel Preaiubit.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12364 in '
-tags = ['lang-95', 'bpn12364']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Vikiiga mo te matagofie e ia Koe, O te Aliki toku Atua! A te mea nei se tega filifilia te la ko oti ne toki ne Koe i te laufenua o Tou alofa kae ko oti ne puti aka ne maikao o Tou faka-Aliki.  Ko oti ne fakasiusiu ne Koe mai i te vai-keli o te ola se gata mai te la e tafe mai i fatoaaga o Tou tafatasi kae ko oti ne fai ne Koe a kaumana o Tou alofa atafai ke maligi mai Au mea-alofa ki luga i ei.  A 
 te tega foliki tenei ko fano o matua kae e tupu aka i lalo o te malu o Au faka-manuiaaga ko la e matea mai i te Aso malulu o Tou uiga faka-te-lagi.  A ia ko matala mai ki tua ki lau lakau mo pula lakau, kae fonu ki luga i futaga kaina mai luga i te atamai fakasoasoa o Au mea-alofa gali mo fakamanuiaaga kae tapani tasi mo te manogi gali o te matagi iliili malielie mai i te auala o Tou alofa-kaimalie.  

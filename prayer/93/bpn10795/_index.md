@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10795 in '
-tags = ['lang-93', 'bpn10795']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 *"Ovim svakodnevnim obaveznim molitvama, uz nekoliko drugih, posebnih, kao što su Molitva Isceljenja i Ahmedova Tablica, Bahá'u'lláh je pridao izuzetan značaj i dejstvo, i njih zato treba tako i prihvatiti. Vernici treba da ih deklamuju bez sumnje i sa ubeđenjem, da bi kroz njih doživeli mnogo prisniju vezu s Bogom, i poistovetili se u većoj meri s Njegovim zakonima i odredbama."
 				                                                       

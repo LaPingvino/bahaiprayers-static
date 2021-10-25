@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10115 in Slovensky'
-tags = ['lang-sk', 'bpn10115']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 ##Tabuľka ohňa
 V mene Boha, Najdávnejšieho, Najväčšieho! Vskutku, srdcia úprimných sú pohltené ohňom odlúčenia. Kde je záblesk svetla Tvojej Tváre, ó Milovaný svetov?

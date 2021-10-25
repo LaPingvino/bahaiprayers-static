@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7344 in Polski'
-tags = ['lang-pl', 'bpn7344']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, dobra i miłująca Opatrzności! Wschód jest poruszony, a Zachód wzbiera niczym odwieczne fale morza. Łagodne powiewy świętości są rozproszone, a z Niewidzialnego Królestwa olśniewająco błyszczą promienie Słońca Prawdy. Wyśpiewywane są hymny Boskiej jedności i powiewają chorągwie niebiańskiej mocy. Wzniesiony został anielski Głos i niczym ryk lewiatana brzmi wezwanie do bezinteresowności i ulotności. Tryumfalny krzyk ‚Yá-Bahá’u’l-Abhá’ rozbrzmiewa ze wszystkich stron i wezwanie ‚Yá-ʿAlíyyu’l-ʿAlá’  dźwięczy we wszystkich krainach. Nie ma innego poruszenia w świecie oprócz tego, które pochodzi z Chwały Zniewoliciela Serc, i nie ma innego zgiełku niż wezbranie Jego miłości, Niezrównanego, Najukochańszego. 
    

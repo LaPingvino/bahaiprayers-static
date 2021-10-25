@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2189 in România'
-tags = ['lang-ro', 'bpn2189']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lauda fie cu Tine, o, Dumnezeul meu!
 Sunt unul dintre slujitorii Tăi, care a crezut în Tine şi în semnele Tale. Tu vezi cum m-am îndreptat spre uşa milostivirii Tale şi mi-am întors faţa în direcţia bunătăţii Tale duioase. Te implor, prin numele Tale excelente şi atributele tale cele mai înălţate, să deschizi înaintea feţei mele portalurile darurilor Tale. Ajută-mă, atunci, să fac ceea ce e bine, o, Tu care eşti Posesorul tuturor numelor şi atributelor!

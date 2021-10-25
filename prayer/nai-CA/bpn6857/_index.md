@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6857 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn6857']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 * Stó:lõ Shxweli Halq'eméylem, the language of the Soowahlie People
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10118 in Íslenska'
-tags = ['lang-is', 'bpn10118']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er gjafarinn, hinn veglyndi!
 Lof sé Guði, hinum aldna og ævarandi, óum­breytilega og eilífa! Hann sem í sinni eigin verund hefur borið því vitni að Hann er sannlega hinn eini og einstæði, hinn óhefti og upphafni. Við berum því vitni að enginn er Guð nema Hann, viðurkennum einleika Hans og játum einstæði Hans. Hann hefur ætíð dvalið í ótilkvæmilegum hæðum, á tindum upp­hafningar sinnar, helgaður frá minningu alls nema sjálfs sín, óháður lýsingu alls nema sín.

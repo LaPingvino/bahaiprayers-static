@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11810 in '
-tags = ['lang-101', 'bpn11810']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Takal Aluak Dik Nye Yak Bo’os)
 Oni ngopak oku yak bo’os! O Topa, Topa ku, simo boton bala dek sukup ingin tudu Ingan aluak giliga setegal tipisah sok Ingan, bia oni ngopak oku ngonyuang guling tilonah sodang jiwa-jiwa perinduk Ingan susah otin kajon selamak iyoh bijuak sok pimonog Ingan?

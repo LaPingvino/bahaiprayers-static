@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2637 in Magyar'
-tags = ['lang-hu', 'bpn2637']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, az Igazság keresője! Ha arra vágyódsz, hogy Isten felnyissa szemed, könyörögj Hozzá, imádkozz Hozzá, és fordulj Feléje, mikor éjfélt üt az óra, emígyen:
 

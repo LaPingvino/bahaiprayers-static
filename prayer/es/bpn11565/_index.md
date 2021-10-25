@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11565 in Español'
-tags = ['lang-es', 'bpn11565']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh bondadoso Señor! Tú has creado a toda la humanidad del mismo linaje. Has decretado que todos pertenezcan a la misma familia. En Tu Santa Presencia, todos son Tus siervos, y toda la humanidad se cobija bajo Tu Tabernáculo; todos se han reunido alrededor de Tu Mesa de Munificencia; todos están iluminados por la luz de Tu Providencia.
 ¡Oh Dios! Tú eres bondadoso con todos, das sustento a todos, ofreces asilo a todos, confieres vida a todos. Tú has dotado a todos y a cada uno de talento y facultades, y todos están sumergidos en el Océano de Tu Misericordia.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13004 in '
-tags = ['lang-112', 'bpn13004']
+tags = ['lang-112', 'bpn-unsorted']
 +++
 Wat taragat iragi kwiman Ayop ge inagap.  Iwa Ge wam sisip ma potap ganat wat magatam baran.  Ap menan den nop gega ase wat aroga baran menan amba da ne den wat ago tanek.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5350 in 日本語'
-tags = ['lang-ja', 'bpn5350']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 #中位の長さの日々の必須の祈り
 ##(日に三度、朝・昼・夕方に唱える)

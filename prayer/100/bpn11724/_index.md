@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11724 in '
-tags = ['lang-100', 'bpn11724']
+tags = ['lang-100', 'bpn-unsorted']
 +++
 Ka cē : ɗaukaka ta tabbata a garēka, kai da ka sā duka waliyyai suka yarda da kāsāwarsu gaban cikakken īkonka, kuma ka sā kōwane manzonka, ya tabbata cēwa, shi bā kōmi nē ba gaban managartacciyar ɗaukakarka marar iyāka.
 Ina rōƙon ka, don girman sūnanka, wanda ya būɗe ƙōfōfin samāniya, kuma ya cika rūhunan dake samāniya da ƙaunarka, ka sā ni in dāce don in bautā maka, kuma ka bā ni ƙarfin da zai sā ni in shiryu, in bi umurnin kitābinka. 

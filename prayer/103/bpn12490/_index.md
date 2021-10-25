@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12490 in '
-tags = ['lang-103', 'bpn12490']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 Glorified art Thou, O Lord my God! I yield Thee thanks for having enabled me to recognize the Manifestation of Thyself
 

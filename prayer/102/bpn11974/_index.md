@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11974 in '
-tags = ['lang-102', 'bpn11974']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’Alla.
     Eý Hudaýa ýüz tutan! Gözüňi gaýyp Melekutyň Ululyk Älemine dikip, şeýle doga bilen dilege başla:

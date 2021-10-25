@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4687 in Azərbaycan'
-tags = ['lang-az', 'bpn4687']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 ##Gündə bir dəfə gün ortasında qılmali
 

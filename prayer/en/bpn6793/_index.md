@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6793 in English'
-tags = ['lang-en', 'bpn6793']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O Thou Whose remembrance is the delight of the souls of all them that yearn after Thee, Whose name is the exultation of the hearts of all who are wholly devoted to Thy will, Whose praise is cherished by such as have drawn nigh unto Thy court, Whose face is the ardent desire of all them that have recognized Thy truth, Whose trial is the healer of the sicknesses of them who have embraced Thy Cause, Whose calamity is the highest aspiration of such as are rid of all attachment to any one but Thyself!
 

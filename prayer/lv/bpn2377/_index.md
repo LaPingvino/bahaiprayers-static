@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2377 in Latviešu'
-tags = ['lang-lv', 'bpn2377']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Mans Dievs, dievinātais un pielūgtais! Es apliecinu, ka Tu esi viens un vienīgs. Es apstiprinu, ka esmu saņēmis no Tevis veltes kā pagātnē, tā tagad. Tu esi Visdāsnais, un Tava žēlastība savā pārpilnībā līst vienlīdz pār augstiem un zemiem, un Tava cēlā vēlība apņem kā paklausīgos, tā arī nepakļāvīgos.
 Ak žēlīgais Dievs, pati žēlsirdības būtība liecas Tavu durvju priekšā, un visdziļākajā garīgumā ap Tavas Mācības Svētnīcu lidinās mīloša laipnība. Mēs lūdzam Tevi, izlūdzoties Tavu mūžseno žēlastību un Tavu vēlību tagadnē, lai Tu apžēlojies par visiem esamības pasaulē, un Tavās Dienās neliedz tiem Savu svētību.

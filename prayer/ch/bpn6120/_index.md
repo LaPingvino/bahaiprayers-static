@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6120 in Chamorro'
-tags = ['lang-ch', 'bpn6120']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##PARA I MANMATAI
 *FOR THE DEPARTED

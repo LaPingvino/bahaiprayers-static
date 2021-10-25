@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10466 in Kiribati'
-tags = ['lang-gil', 'bpn10466']
+tags = ['lang-gil', 'bpn-unsorted']
 +++
 *(Naw-Ruz, Maati 20 ke 21, bon moan bongin te ririki ni Baha’i.)
 Bon Am bwai te kamoamoaaki, Ngkoe Atuau, bwa Ko a tia ni katabua Naw-Ruz bwa te tai ni kukurei irouia naake a tia ni mwannanoa te Aki Mamatam i bukin Tangiram, ma ni kaawakiniia man baike aki raraoi Iroum.  Au Uea anganiia ain Am tangira, ao te kabuebue are e otinako man te Aki Mamatam are Ko anga, bwa a na konaa ni urarake iai i nanon Am Waaki ao karikiia bwa a na maeka ma Kamoamoaam ma Uringam. 

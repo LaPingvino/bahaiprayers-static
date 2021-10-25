@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7016 in Kalaallisut'
-tags = ['lang-kl', 'bpn7016']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Illernarsisitaagit Illit, Naalagaq Guutiga-aa! Qinikkakkut tatigisakkullu Taassumuunalu Siumut Isigisuit Nalunaarutinnilu aatsisuit Naqitsisaatigut qinnuigakkit, Illit eqqaaneqarnerit ingerlatsisorissagiga, Kiinnat anguniagarissagiga, Aqqillu qaammaqqutigissagiga, Kissaatillu pilerisarissagiga, Iluarinninnerillu nuannaarsaatigissagiga.
 Ajortuliortuuvunga, Naalagara-aa, Illillu soraajuitsumik Isumakkeerfiginnittuuvutit! Ilisarigakkilli miserratigiunnaarniariarlutit tuaviulerpunga isumaginninnerpit asannittup najugaa qutsissoq angujumallugu. Isumakkeerfiginnga, Naalagara-aa, ajortuliamma, Nuannaarnerpit aqqutaani ingerlaarsinnaanissannut assersimammanga Ataasiussutsivillu imaata sissaanut tikiunnaveersillunga.

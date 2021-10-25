@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6106 in Chamorro'
-tags = ['lang-ch', 'bpn6106']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 #TINAITAI OPBLIGASION
 ##OBLIGATORY PRAYER

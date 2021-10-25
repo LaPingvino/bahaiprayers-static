@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9110 in ភាសាខ្មែរ'
-tags = ['lang-km', 'bpn9110']
+tags = ['lang-km', 'bpn-unsorted']
 +++
 *ធម’អធិដ្ឋានប្រចាំថ្ងៃ 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3926 in Hrvatski'
-tags = ['lang-hr', 'bpn3926']
+tags = ['lang-hr', 'bpn-unsorted']
 +++
 O, Tragaču za Istinom! Želiš li da Bog otvori tvoje oči, moraš Boga zaklinjati i razgovarati s Njim u Ponoć, kazujući:
 

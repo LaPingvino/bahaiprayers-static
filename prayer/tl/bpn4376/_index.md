@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4376 in Filipino'
-tags = ['lang-tl', 'bpn4376']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 *Dapat usalin sa tanghali
 

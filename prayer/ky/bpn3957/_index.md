@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3957 in Кыргыз'
-tags = ['lang-ky', 'bpn3957']
+tags = ['lang-ky', 'bpn-unsorted']
 +++
 Күн сайын бир жолу окулат
 

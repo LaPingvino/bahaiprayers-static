@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2110 in România'
-tags = ['lang-ro', 'bpn2110']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Dumnezeul meu, Dumnezeul dărniciei şi al milostivirii! Tu eşti Acel Rege prin al cărui cuvânt poruncitor întreaga creaţie a fost chemată întru fiinţă; şi Tu eşti acel Atotmărinimos pe care faptele slujitorilor Săi nu L-au împiedicat niciodată să-şi manifeste harul, nici n-au zădărnicit revelaţiile mărinimiei Sale.
 

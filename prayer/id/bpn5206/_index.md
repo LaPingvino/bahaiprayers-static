@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5206 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5206']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Loh Ziarah 
 *[Doa ini dibaca di Makam Hazrat Bahá’u’lláh dan Hazrat Báb. Juga digunakan untuk memperingati hari-hari wafat Mereka]

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8184 in Dansk'
-tags = ['lang-da', 'bpn8184']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 *(Naw-Rúz , Nytår, 21. marts, er den første dag i bahá’í året.)
 

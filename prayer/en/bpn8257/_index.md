@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8257 in English'
-tags = ['lang-en', 'bpn8257']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 #Súriy-i-Ghusn
 ##Tablet of the Branch

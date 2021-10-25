@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5425 in 日本語'
-tags = ['lang-ja', 'bpn5425']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 幼子おさなごのための治癒ちゆの祈り
  

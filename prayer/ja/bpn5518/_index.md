@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5518 in 日本語'
-tags = ['lang-ja', 'bpn5518']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 バハイの結婚は、　　　二者の間の調和と愛情である。
 　　　　いかにあろうとも、彼らは最高の心配りをし、互いの性格を知る

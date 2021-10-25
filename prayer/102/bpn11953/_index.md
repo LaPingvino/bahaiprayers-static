@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11953 in '
-tags = ['lang-102', 'bpn11953']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Ýa Kerim, Ýa Rahym! 
     Seniň birligiňe, Seniň Ýeke-Täkdigiňe güwä geçýärin we Mülküň hem Melekutyň dowamynda Baky we Ebedi bolan zatlary senden dileýärin. Sensiň Melekutyň Eýesi. Sensiň hem gaýyp hem görünýän zatlaryň Soltany.

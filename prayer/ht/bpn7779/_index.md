@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7779 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7779']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 *sipò
 

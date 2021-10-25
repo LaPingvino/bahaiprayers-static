@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7284 in Polski'
-tags = ['lang-pl', 'bpn7284']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O mój Boże! O mój Boże! Ty widzisz te dzieci, które są gałązkami drzewa życia, ptakami łąk zbawienia, perłami oceanu Twojej łaski, różami ogrodu Twego przewodnictwa.
    

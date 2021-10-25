@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3956 in Кыргыз'
-tags = ['lang-ky', 'bpn3956']
+tags = ['lang-ky', 'bpn-unsorted']
 +++
 *Суткасына бир жолу окулат
 

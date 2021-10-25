@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10375 in Svenska'
-tags = ['lang-sv', 'bpn10375']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Han är Gud! 
 O Herre, min Gud! O Du som är de svagas hjälpare, de fattigas stödjare och förlossaren av de hjälplösa som vänder sig till Dig.

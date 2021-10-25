@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12873 in Alaska Native'
-tags = ['lang-ik', 'bpn12873']
+tags = ['lang-ik', 'bpn-unsorted']
 +++
 ** Obligatory Prayer for the Dead
 * Instructions for recitation:

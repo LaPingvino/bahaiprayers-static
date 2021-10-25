@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12194 in '
-tags = ['lang-104', 'bpn12194']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 *Sewaktu berbuka puasa
 

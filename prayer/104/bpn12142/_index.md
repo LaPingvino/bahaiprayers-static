@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12142 in '
-tags = ['lang-104', 'bpn12142']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 ”Demi kebenaran Tuhan! Barangsiapa yang membuka bibirnya pada Hari ini dan menyebut nama Tuhannya, maka angkatan tentera inspirasi Ilahi akan turun kepadanya dari langit nama-Ku, Yang Maha Tahu, Yang Maha Arif. Kepadanya akan turun juga Penghuni syurga, masing-masing menjulang obor cahaya murni.”
 

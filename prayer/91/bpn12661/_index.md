@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12661 in '
-tags = ['lang-91', 'bpn12661']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 O Tuhan! Ngagai Nuan aku ngiga pengenduh lalu ngagai semua tanda Nuan aku nungaka ati aku.
 O Tuhan! Sekalika benung bejalai tauka ba rumah, sekalika dalam pengawa aku tauka dalam kereja aku, aku nyerahka semua pengandal ati aku ba Nuan.

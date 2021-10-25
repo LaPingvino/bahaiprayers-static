@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7272 in Polski'
-tags = ['lang-pl', 'bpn7272']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O mój Boże! Nie ma nikogo prócz Ciebie, by ukoić cierpienie mojej duszy i Tyś jest mym najwyższym dążeniem, o mój Boże. Moje serce poślubione jest jedynie Tobie i temu, co przez Ciebie umiłowane. Z całą powagą oświadczam, że i życie moje, i śmierć moja należą do Ciebie. Zaprawdę, Tyś jest niedościgniony i nie ma równego Tobie.
   

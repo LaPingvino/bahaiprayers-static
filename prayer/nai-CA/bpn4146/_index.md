@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4146 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn4146']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 Tqeltk K`ukwpi7 ts`utse`m,ects,me yucwm`imentsmeKn`uncwentsme es xenw`ewenes ts`etkwen re s7i7llcwre cucuw`ell t's`ilemte xyum te sek`usen't
 

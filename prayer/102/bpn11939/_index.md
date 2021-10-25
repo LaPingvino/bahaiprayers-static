@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11939 in '
-tags = ['lang-102', 'bpn11939']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’ Alla
     Eý älemiň Dilberi! Didäm didaryňa röwşen bolany üçin meniň janym hem köňlüm Seniň ýakymly müşgüňden, çemen hem gülzaryň hasraty bolany üçin Saňa şükür.

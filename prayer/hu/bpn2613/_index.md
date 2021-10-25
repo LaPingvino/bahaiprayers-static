@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2613 in Magyar'
-tags = ['lang-hu', 'bpn2613']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Úgy zengd, ó, szolgám, az Isten verseit,
 amelyeket kaptál,

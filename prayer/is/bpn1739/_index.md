@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1739 in Íslenska'
-tags = ['lang-is', 'bpn1739']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrð sé Þér, ó Drottinn, sem kallað hefur til verundar allt sem skapað er í krafti skipunar Þinnar.
 Ó Drottinn! Aðstoða þá sem hafnað hafa öllu nema Þér og fær þeim frækilegan sigur. Send niður yfir þá, ó Drottinn, herskara englanna á himni og jörðu og alls sem þar er á milli, til þess að leggja lið þjónum Þínum, styðja þá og styrkja, gera þeim kleift að uppskera árangur, viðhalda þeim, miðla þeim dýrð, sæma þá heiðri og upphafningu, auðga þá og gera þá sigursæla með undursamlegu sigur­hrósi.

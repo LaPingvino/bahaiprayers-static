@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10055 in Slovensky'
-tags = ['lang-sk', 'bpn10055']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó môj Bože a môj Pane! Som Tvojim služobníkom a synom Tvojho služobníka. Povstal som zo svojho lôžka za svitania, kedy Dennica Tvojej jedinosti zažiarila z Úsvitu Tvojej vôle a svojím svetlom zaliala celý svet tak, ako to bolo určené v Knihách Tvojho Nariadenia.
 

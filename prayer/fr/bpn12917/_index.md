@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12917 in Français'
-tags = ['lang-fr', 'bpn12917']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Seigneur de bonté! Sanctifie mon cœur de tout attachement, et réjouis mon âme de joyeuses nouvelles. Libère-moi de tout attachement tant à l’ami qu’à l’étranger, et captive-moi par ton amour afin que je me consacre entièrement à toi et que je sois transporté par un intense ravissement; que je ne désire rien d’autre que toi, ne cherche nul autre que toi, ne suive aucun autre chemin que le tien et ne communie qu’avec toi; que, tel un rossignol, je sois envoûté par ton amour et que, jour et nuit, je soupire, gémisse, pleure et m’écrie : Yá Bahá’u’l-Abhá!
 

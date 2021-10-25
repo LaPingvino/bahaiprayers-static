@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9236 in Français'
-tags = ['lang-fr', 'bpn9236']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, mon Dieu, loué sois-tu, car au sommet du mont le plus élevé, tu as allumé le feu de l’amour divin dans l’Arbre béni : cet Arbre ne provient « ni de l’Orient ni de l’Occident ».* 
 Ce feu s’enflamme et flambe jusqu’à atteindre l’Assemblée céleste, et baigne dans la lumière de la providence ces êtres lumineux qui s’écrient : « En vérité, nous avons aperçu un feu du côté du mont Sinaï ».†

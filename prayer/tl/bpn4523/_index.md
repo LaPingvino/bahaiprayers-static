@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4523 in Filipino'
-tags = ['lang-tl', 'bpn4523']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 O aking Diyos at aking Panginoon! Ako ay Iyong tagapaglingkod at anak ng Iyong tagapaglingkod. Nagbangon ako buhat sa aking higaan sa madaling araw na ito na ang Araw-Bituin ng Iyong kaisahan ay sumikat na buhat sa Pamimitak ng Iyong kalooban, at nagsasabog na ng kaniyang ningning sa buong daigdig, ayon sa iniatas sa mga Aklat ng Iyong Kautusan.
 

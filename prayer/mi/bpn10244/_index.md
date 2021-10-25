@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10244 in Māori'
-tags = ['lang-mi', 'bpn10244']
+tags = ['lang-mi', 'bpn-unsorted']
 +++
 ##KARAKIA MŌ TE AKO MAI I NGĀ PAPATUHI O TE KAUPAPA TAPU 
 ##HE MEA WHAKAATU KI NGĀ BAHÁ’Í O AMERIKA ME KĀNATA 

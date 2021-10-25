@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5115 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5115']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Aku hanyalah makhluk yang hina, ya Tuhanku, dan
 Engkau Yang Maha Memiliki, Yang Maha Luhur; aku lemah dan Engkaulah Yang Maha Kuat, dan Pengatur Tertinggi, baik di awal maupun di akhir. Janganlah dijauhkan dariku keharuman-keharuman Wahyu-Mu, dan janganlah dihancurkan harapanku akan curahan-curahan yang telah diturunkan dari langit anugerah-Mu. Takdirkanlah bagiku, ya Tuhanku, kebaikan dunia ini dan akhirat, dan berikanlah kepadaku apa yang akan menguntungkan daku dalam semua alam-Mu, karena aku tak mengetahui apa yang menguntungkan atau yang merugikan daku. Engkau sesungguhnya, Yang Maha Tahu, Yang Maha Arif.

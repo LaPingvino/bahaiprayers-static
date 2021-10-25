@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10833 in '
-tags = ['lang-94', 'bpn10833']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 Inu Ambuye wachifundo! Awa ndi antchito Anu amene akumana mu msonkhano uno, atembenukira ku ufumu Wanu ndipo akusoweka mpatso ndi madalitso Anu. O Inu Mulungu! Mvumbulutsani ndi kuwonetsa zizindikiro za umodzi Wanu zimene zaikidwa mu za moyo zonse. Mvumbulutsani ndi kuwonetsa makhalidwe amene Inu mwawaika mwa anthuwa. 
 

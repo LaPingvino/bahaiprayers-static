@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7399 in Polski'
-tags = ['lang-pl', 'bpn7399']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Oddaję Ci cześć, o mój Boże, za to, że zachwycił mnie zapach Twojej serdecznej życzliwości, a łagodne powiewy Twojego miłosierdzia skłoniły mnie ku Twym szczodrym łaskom. Spraw, abym napił się, o mój Panie, z palców Twej szczodrobliwości, żywej wody, która pozwoliła wszystkim, którzy się nią pokrzepili, wyzbyć się wszelkiego przywiązania do kogokolwiek oprócz Ciebie, oraz wzbić się w sferę uniezależnienia od wszystkich Twoich stworzeń i utkwić wzrok w Twojej miłującej opatrzności i Twoich nieskończonych darach. 
     

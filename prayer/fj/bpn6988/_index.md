@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6988 in Fiji'
-tags = ['lang-fj', 'bpn6988']
+tags = ['lang-fj', 'bpn-unsorted']
 +++
 ##NA VEISIGA NI VEIVAKARAUTAKI KA VIRIKOTORI ME DA VAKANANUMA E NA VEIYABAKI
 *(INTERCALARY DAYS)

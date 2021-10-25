@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7841 in Italiano'
-tags = ['lang-it', 'bpn7841']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 ##RIVELATA AI BAHÁ’ÍDEL CANADA E GROENLANDIA
 Lode sia a Te, o mio Dio! Questi sono i Tuoi servi, estasiati dalle fragranze della Tua misericordia, accesi dal fuoco che arde nel-l’albero della Tua unicità e i loro occhi sono illuminati dalla visione degli splendori della luce che brilla sul Sinai della Tua unicità.

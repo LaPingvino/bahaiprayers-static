@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5198 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5198']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Dimuliakanlah Engkau, ya Engkau yang menggenggam kendali jiwa-jiwa semua yang telah mengakui-Mu, dan yang dalam tangan kanan-Nya terletak nasib-nasib semua yang ada di langit dan semua yang ada di bumi! Dengan kekuatan kekuasaan- Mu Engkau berbuat sekehendak-Mu, dan dengan kemauan-Mu Engkau menentukan apa yang Engkau ridhoi. Kemauan orang-orang yang paling tegas tak berarti sama sekali bila dibandingkan dengan bukti-bukti yang nyata dari kemauan-Mu, dan keputusan orang yang paling kuat di antara makhluk-makhluk-Mu, terhapus dihadapan penjelmaan maksud-Mu yang beraneka-ragam.
 Engkau adalah Dia yang melalui satu kata dari mulut-Mu, kalbu-kalbu para sahabat-Mu menjadi gembira sedemikian rupa sehingga mereka telah melepaskan diri mereka dari segala hal kecuali Engkau Sendiri dalam cinta kasihnya pada-Mu, dan telah menyerahkan hidupnya dan mengorbankan jiwanya di jalan-Mu, dan telah menderita demi Engkau apa yang tak pernah diderita oleh makhluk-makhluk-Mu. Aku ini salah seorang hamba wanita-Mu, ya Tuhanku! Aku telah menghadapkan wajahku pada sumber rahmat-Mu, dan telah mencari keajaiban kurnia-Mu yang berlimpah- limpah, karena seluruh anggota badanku menyatakan Engkau sebagai Yang Maha Dermawan, Dia yang rahmat-Nya sangat besar.

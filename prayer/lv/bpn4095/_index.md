@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4095 in Latviešu'
-tags = ['lang-lv', 'bpn4095']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Dievs! Ak Dievs! Tu redzi, kā drūma tumsa apņem visas zemes, deg tās strīdu ugunsgrēkos, un kara un slaktiņu liesmas plosās gan rietumos, gan austrumos. Asinis tiek lietas, līķi gulst kaudzēs, un nocirstās galvas tiek kaujas laukā zemē mestas!
 Kungs! Kungs! Apžēlojies par šiem nezinošajiem, raugies uz tiem ar attaisnojošu un piedodošu aci. Izdzēs šo uguni, lai drūmie mākoņi, kas sedz debesis, izklīst. Lai Esamības Saule atmirdz izlīgšanas staros, lai tumsa tiek kliedēta un lai visas zemes apstaro miera gaisma.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10315 in Svenska'
-tags = ['lang-sv', 'bpn10315']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Ärad vare Du o Gud, för Ditt uppenbarande av kärlek till mänskligheten! O Du, som är vårt liv och ljus, led Dina tjänare på Din väg och gör oss rika i Dig och fria från allt utom Dig.
 O Gud, undervisa oss om Din enhet och giv oss förståelse av Din ojämförliga ställning, så att vi icke måtte se någon annan än Dig. Du är den Barmhärtige och nådegåvans givare!

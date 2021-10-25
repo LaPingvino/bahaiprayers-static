@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2324 in România'
-tags = ['lang-ro', 'bpn2324']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 *Zilele Intercalare, 26 februarie - 1 martie, sunt zile de pregătire pentru Post, zile de ospitalitate, dragoste de semeni şi oferire de daruri.
 

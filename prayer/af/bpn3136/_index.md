@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3136 in Afrikaans'
-tags = ['lang-af', 'bpn3136']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O U suiwere God! Ek is 'n klein kind; gee dat die bors van U vriendelike goedheid dié bors mag wees wat ek bemin; laat my gevoed wees met die boesem van U kennis, en verleen my edelheid en wysheid terwyl ek nog 'n kind is.
 

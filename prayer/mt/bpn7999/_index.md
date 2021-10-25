@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7999 in Malti'
-tags = ['lang-mt', 'bpn7999']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 ##JIEM INTERKALARI 
 

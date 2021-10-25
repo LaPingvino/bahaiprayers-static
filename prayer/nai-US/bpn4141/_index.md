@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4141 in American Indian'
-tags = ['lang-nai-US', 'bpn4141']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Wakȟáŋ Tȟáŋka, kašká mayúza yo, awáŋmaglaka yo, pȟetížaŋžaŋ wíyakpa na wičháȟpi iléǧa čha makáǧa yo.
  Waníš’akiŋ na wíyoyakihi. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn439 in English'
-tags = ['lang-en', 'bpn439']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 Lauded be Thy name, O Lord my God! Darkness hath fallen upon every land, and the forces of mischief have encompassed all the nations. Through them, however, I perceive the splendors of Thy wisdom, and discern the brightness of the light of Thy providence.
 

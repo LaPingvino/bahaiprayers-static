@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6991 in Fiji'
-tags = ['lang-fj', 'bpn6991']
+tags = ['lang-fj', 'bpn-unsorted']
 +++
 #NA I MATAI NI SIGA NI DUA NA YABAKI VAKA-BAHÁ’Í
 ##‘NAW-RÚZ‘

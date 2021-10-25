@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2200 in România'
-tags = ['lang-ro', 'bpn2200']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Locuinţa mea este căminul păcii.
 Locuinţa mea e căminul bucuriei şi desfătării.

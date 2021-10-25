@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11727 in '
-tags = ['lang-100', 'bpn11727']
+tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Allah, Ubangijina, ina rōƙon ka, a cikin tēkun warkarwarka, da hasken tarmāmuwar sāhiyar alhurmarka, da sūnanka wanda yake abun yabo ga bāyunka, da hazāƙar maganarka, da girman alhurmarka, kuma da rahamarka tabbatacciya tun kāfin abūbūwan da suke sama da ƙasa su tabbata, ka tsarkake ni da tsarkakakkun ruwan nan nāka waɗanda suke cike da rahamarka, ka kāre ni da kuskure, kāsāwa, tāshin hankali kō duk wani shirme.
 Yā Ubangijina, kana ganin bāwanka nā rōƙō a ƙōfar alhērinka, sarƙafe ga igiyar karāmarka, yā maida duk gūrinsa a garēka.

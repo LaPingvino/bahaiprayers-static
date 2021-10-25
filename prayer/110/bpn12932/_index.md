@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12932 in '
-tags = ['lang-110', 'bpn12932']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 Em I God Bilong Marimari, Em I Save Givim Olgeta Blesing! 
 O God!  O God bilong mi!  Yu lukim mi na Yu save long pasin bilong mi.  Yu lukautim mi na Yu stap olsem ples hait bilong mi.  Mi bin wok long painim Yu tasol, na mi no bin painim narapela.  Nogat tru.  Mi bin wokabaut long rot bilong lav bilong Yu tasol, na mi no laik wokabaut long narapela rot. Taim mi stap long tudak bilong sori, ai bilong mi i lukluk i go long tulait bilong marimari bilong Yu tasol.  Na long tulait mi tingting long pasin bilong Yu.  Yu naispela na gutpela olgeta.  Olsem na spirit bilong mi em i kamap nupela na strong gen.  Sapos Yu marimari long wanpela man, orait, pastaim dispela man i stap olsem liklik hap wara, tasol marimari bilong yu i mekim dispela man i kamap bikpela olsem solwara.  Na sapos Yu soim gutpela lav long wanpela liklik samting, orait, dispela samting bai lait tru olsem bikpela sta. 

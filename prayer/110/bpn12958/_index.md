@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12958 in '
-tags = ['lang-110', 'bpn12958']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 O man, husat i painim Trupela Tok!  Sapos yu laikim bai God i opim ai bilong yu, orait yu mas askim strong long God, prea long En na tingting strong long En long biknait na tok: 
  

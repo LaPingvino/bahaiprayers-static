@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5763 in Català'
-tags = ['lang-ca', 'bpn5763']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##TAULA DEL SAGRAT MARINER
 

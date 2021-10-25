@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4275 in American Indian'
-tags = ['lang-nai-US', 'bpn4275']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Waayantanin bluha
 Wakantanka mitawa

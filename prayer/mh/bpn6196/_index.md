@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6196 in Marshallese'
-tags = ['lang-mh', 'bpn6196']
+tags = ['lang-mh', 'bpn-unsorted']
 +++
 O Anij! Kojelalokjen ajri rein. Ajri rein rej ine in jikin kallib in wijki eo Am, ut ko ilo melaj eo Am, rose ko in jikin kallib eo Am. Komman bwe Am wit en wotlok ioier, komman bwe Al in Mol eo en romak ioier kin yokwe eo Am.
 

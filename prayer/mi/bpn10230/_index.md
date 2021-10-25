@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10230 in Māori'
-tags = ['lang-mi', 'bpn10230']
+tags = ['lang-mi', 'bpn-unsorted']
 +++
 *Ka uru ana koe ki roto o te whare kaunihera, whakatātakina tēnei inoi ki te manawa kakapa, te aroha o Te Atua, me te arero harakore i tua atu o te katoa ēngari mō Tōna maumaharatanga, ka tau mārire ai te āwhina a Te Pūkaha-Katoa kia ekea e koe te taumata tonu o te wikitōria.
 

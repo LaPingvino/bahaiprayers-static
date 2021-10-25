@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7276 in Polski'
-tags = ['lang-pl', 'bpn7276']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie, Boże mój! Oto dziecię zrodzone z lędźwi jednego z Twoich sług, któremu przyznałeś wybitne miejsce w Tablicach swego nieodwołalnego wyroku, w Księgach swego rozporządzenia.
    

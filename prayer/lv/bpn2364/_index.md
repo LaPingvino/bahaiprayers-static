@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2364 in Latviešu'
-tags = ['lang-lv', 'bpn2364']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Es nezinu, ak mans Dievs, kas tā ir par uguni, ko Tu esi iededzis Savā zemē. Nedz zemes putekļi spēs jebkad aptumšot tās spožumu, nedz ūdens tās liesmu izdzēst. Tai pretī stāties nav pa spēkam nevienai pasaules tautai. Augsti svētīts ir tas, kas ir nācis tai tuvu un saklausījis tās šalkas.
 Dažiem, ak mans Dievs, Tu Savā spēcinošajā žēlsirdībā esi ļāvis tai tuvoties, bet citus, par to, ko viņu rokas Tavās Dienās bija nodarījušas, Tu tai klāt nepielaidi. Ikviens, kas uz to ir traucies un to sasniedzis, kvēli vēloties raudzīt Tavu Daili, ir atdevis savu dzīvību Tavā ceļā un, no visa atraisīts, ir pie Tevis uzkāpis.

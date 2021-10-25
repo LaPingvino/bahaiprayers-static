@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4793 in Azərbaycan'
-tags = ['lang-az', 'bpn4793']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Lütf eylə mənə, Ey mənim Allahım, Sənin məhəbbətindən və Sənin razılığından bol bir pay alım və parlaq işığının cazıbəsi ilə bizim ürəklərimizi məftun eylə, Sən Ey Ən Yüksək Sübut və Ən Şərəfli. Fəzlinin bir nişanəsi kimi, bütün günü və gecəni Sənin həyatverici yellərini mənə göndər, Sən Ey Kəramət Sahibi!
 

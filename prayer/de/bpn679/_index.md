@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn679 in Deutsch'
-tags = ['lang-de', 'bpn679']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Dies sind die Tage, o mein Gott, da Du Deinen Dienern das Fasten gebotest. Mit ihm ziertest Du das Vorwort zum Buche Deiner Gesetze, das Du Deinen Geschöpfen offenbartest, mit ihm schmücktest Du die Schatztruhen Deiner Gebote vor den Augen aller, die in Deinem Himmel und auf Deiner Erde sind. Jede Stunde dieser Tage hast Du mit einer besonderen Wirkkraft ausgestattet, unerforschlich allen außer Dir, Dessen Wissen alles Erschaffene umfasst. Auch hast Du jede Seele an dieser Wirkkraft teilhaben lassen gemäß der Tafel Deines Ratschlusses und den Schriften Deines unwiderruflichen Urteils. Jedes Blatt dieser Bücher und Schriften hast Du zudem einem jeden Volk und Stamm der Erde zugewiesen.
 Für Deine glühenden Verehrer hältst Du nach Deinem Gebot an jedem Morgen den Kelch Deines Gedenkens bereit, o Du, der Du der Herrscher aller Herrscher bist! So trunken sind sie vom Weine Deiner überreichen Weisheit, dass sie auf ihr Lager verzichten in ihrem Verlangen, Dein Lob zu preisen und Deine Tugenden zu rühmen, und den Schlaf fliehen in ihrem Eifer, sich Deiner Gegenwart zu nähern und Deiner Wohltaten teilhaftig zu werden. Allezeit sind ihre Augen auf die Morgenröte Deiner Güte gerichtet, ihre Angesichter dem Urquell Deiner Eingebung zugewandt. So lass denn aus den Wolken Deines Erbarmens auf uns und auf sie herabregnen, was dem Himmel Deiner freigebigen Gnade entspricht.

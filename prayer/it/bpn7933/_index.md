@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7933 in Italiano'
-tags = ['lang-it', 'bpn7933']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 Questi sono, o mio Dio, i giorni durante i quali ingiungesti ai Tuoi servi di osservare il digiuno. Con esso adornasti il preambolo del Libro delle Tue Leggi rivelato alle Tue creature e abbellisti i Ricettacoli dei Tuoi comandamenti agli occhi di tutti coloro che sono nel Tuo cielo e sulla Tua terra. Hai dotato ogni ora di questi giorni di una virtù speciale, inscrutabile a tutti fuorché a Te, la Cui sapienza abbraccia tutto il creato. Hai pure assegnato ad ogni anima una parte di questa virtù in armonia con le Tavole del Tuo decreto e con le Scritture del Tuo irrevocabile Giudizio. Hai altresì assegnato ogni pagina di questi Libri e Scritture a ciascuno dei popoli e delle tribù della terra.
 Per i Tuoi ardenti adoratori hai riservato all’alba di ogni giorno, secondo il Tuo decreto, la coppa del ricordo di Te, o Tu Che sei il Sovrano dei sovrani! Essi sono coloro che sono stati così inebriati dal vino della Tua multiforme saggezza, che hanno abbandonato i loro giacigli nella brama di celebrare le Tue lodi e di esaltare le Tue virtù, e han rifuggito il sonno nell’ansia di giungere alla Tua presenza e aver parte della Tua munificenza. I loro occhi sono stati sempre fissi verso l’Alba del Tuo tenero amore e i loro visi rivolti verso la Sorgente della Tua ispirazione. Fa’ piovere quindi su noi e su loro, dalle nubi della Tua misericordia, quanto si addice al cielo della Tua munificenza e della Tua grazia.

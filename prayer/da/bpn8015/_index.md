@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8015 in Dansk'
-tags = ['lang-da', 'bpn8015']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 I Guds Navn, Herren af overvældende majestæt, Den Almagtsfulde.
 

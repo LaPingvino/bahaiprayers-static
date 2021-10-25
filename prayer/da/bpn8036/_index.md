@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8036 in Dansk'
-tags = ['lang-da', 'bpn8036']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 O Herre! Gør disse børn til udsøgte planter. Lad dem vokse og udvikle sig i Din Pagts have og skænk dem friskhed og ynde ved regnen fra Abhá Rigets skyer.
 

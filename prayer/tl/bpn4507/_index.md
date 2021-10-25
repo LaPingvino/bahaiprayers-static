@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4507 in Filipino'
-tags = ['lang-tl', 'bpn4507']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Diyos ko, tanging aking Sinasamba, aking Hari, aking Hangarin! Anong wika ang makapagbibigay-tinig sa aking pasasalamat sa Iyo! Ako’y hindi nakikinig, pinukaw Mo ako. Ako ay tumalikod sa Iyo, buong magiliw na tinulungan Mo ako na bumaling sa Iyo. Ako ay tulad sa isang patay, ibinangon Mo ako sa pamamagitan ng tubig ng buhay. Ako ay laing, pinanariwa Mo ako sa pamamagitan ng makalangit na bukal ng Iyong pangungusap na dumaloy sa Panulat ng Mahabagin sa Lahat.
 

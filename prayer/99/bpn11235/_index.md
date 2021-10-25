@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11235 in '
-tags = ['lang-99', 'bpn11235']
+tags = ['lang-99', 'bpn-unsorted']
 +++
 Ewe Mungu!  Ewe Mungu!  Huyu ni ndege aliyevunjika mabawa yake na kuruka kwake ni shida sana.  Msaidie ili kwamba aweze kuruka kwa upeo wa ufanisi na wokovu, wekelea kuruka kwake kwa furaha kuu na upendo katika nafasi isiyo na kikomo, inua sauti yake katika Jina Lako tukufu ndani ya sehemu zote, changamsha masikio na mwito huu, na ng’arisha macho kwa kutazama dalili za maongozi! 
 

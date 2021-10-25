@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10970 in '
-tags = ['lang-95', 'bpn10970']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 *(A aso fiafia faopoopo, Fepulai 26 kia Mati 1, fakatasi, ko aso e fakatokatoka i ei ki te Anapogi, ko aso o te fai kaiga, fesoasoani mo te ave mea-alofa.)
 

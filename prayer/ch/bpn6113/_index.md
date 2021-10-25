@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6113 in Chamorro'
-tags = ['lang-ch', 'bpn6113']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##HINEMLO’
 *HEALING

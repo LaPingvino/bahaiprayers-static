@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9974 in Kalaallisut'
-tags = ['lang-kl', 'bpn9974']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guutiga-aa, Naalagara, kipisanerma Anguniagaa! Una kiffat naakkinnissuserpit oqquiffiani siniffissarsiorpoq Saammaannerpillu Issiavissaarsuata qilaannguusaani qasuerserusulluni, qinnutigalugu Paaqqinninnerit Sernissuinerillu. 
 

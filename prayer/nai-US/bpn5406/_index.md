@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5406 in American Indian'
-tags = ['lang-nai-US', 'bpn5406']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 O Manitou Ogwissiman! Neen - nitam - gegitowin - oway: Nin - dan Benidewin, Kijewadisiwin, gaie, Wasseiasiwin kide, eway - Keen, che - atake, Kitchi - Ogimawin, Gete, Gashkiewisiwin gaie kagige.  
 

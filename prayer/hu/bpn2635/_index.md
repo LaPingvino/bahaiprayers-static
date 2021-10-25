@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2635 in Magyar'
-tags = ['lang-hu', 'bpn2635']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Istenem, Mesterem, vágyaim Célja! Gondoskodásodért és oltalmadért könyörög eme szolgád, ki irgalmad menedékében kíván megpihenni, és kegyelmed sátra alatt óhajt nyugodni.
 

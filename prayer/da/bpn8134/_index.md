@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8134 in Dansk'
-tags = ['lang-da', 'bpn8134']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Han er den bønhørende Gud, den der besvarer bønner.
 

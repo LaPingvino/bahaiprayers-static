@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7268 in Polski'
-tags = ['lang-pl', 'bpn7268']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##ŚREDNIĄ MODLITWĘ OBOWIĄZKOWĄ NALEŻY ODMAWIAĆ CODZIENNIE RANO, W POŁUDNIE I WIECZOREM.
 

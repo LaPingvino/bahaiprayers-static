@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7467 in Polski'
-tags = ['lang-pl', 'bpn7467']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 *Naw-Rúz jest pierwszym dniem roku bahaickiego obchodzonym w dniu marcowej równonocy.
    

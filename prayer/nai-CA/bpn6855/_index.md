@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6855 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn6855']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *Short Obligatory Prayer
 

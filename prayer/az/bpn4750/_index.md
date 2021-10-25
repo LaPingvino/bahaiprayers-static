@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4750 in Azərbaycan'
-tags = ['lang-az', 'bpn4750']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey mənim Rəbbim! Sən bilirsən ki, insanlar dərd-bəla və fəlakətlərlə əhatə olunub, iztirab və çətinlik içindədirlər. Hər cür sınaq insana hücum edir və cürbəcür şiddətli bəlalar əjdaha kimi onun üstünə gəlir. Onun üçün Sənin himayədar, hifzedici, qoruyucu və qayğı qanadının altından başqa bir sığınacaq və pənah yoxdur.
 

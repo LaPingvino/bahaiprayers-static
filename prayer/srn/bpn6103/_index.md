@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6103 in Sranan Tongo'
-tags = ['lang-srn', 'bpn6103']
+tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##TE FUKA MÖÖ JU 
 Ke mi Gadu! Hopo mi akaa. Limbo mi hati. Limbo mi jeeje. Mi ta buta hii sondi a Ju mau dendu. Ju ta tjai mi; Ju ta tjubi mi. 

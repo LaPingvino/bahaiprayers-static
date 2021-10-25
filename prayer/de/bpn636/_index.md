@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn636 in Deutsch'
-tags = ['lang-de', 'bpn636']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist Gott, der die Gebete hört und darauf antwortet!
 Bei Deiner Herrlichkeit, o mein Geliebter, Du Lichtquell der Welt! Die Flammen der Trennung haben mich verzehrt, mein Eigensinn hat mein Herz zum Schmelzen gebracht. Ich bitte Dich bei Deinem Größten Namen, Du Verlangen der Welt und Geliebter der Menschheit, gib, dass der Hauch Deiner Begeisterung meine Seele nähre, dass Deine wundersame Stimme an mein Ohr dringe, dass meine Augen Deine Zeichen und Dein Licht schauen, wie sie in den Offenbarungen Deiner Namen und Eigenschaften enthüllt sind, o Du, in dessen Griff alle Dinge liegen.

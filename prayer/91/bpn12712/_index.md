@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12712 in '
-tags = ['lang-91', 'bpn12712']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Mulia meh Nuan, O Petara aku! Nuan ninga bala sulu
 Nuan ti amat keran ke Nuan merampau ketegal beserara ari Nuan, lalu enggau sida ti udah ngelala nuan nyabak ketegal penyauh sida ari penatai Nuan. Buka ulih Nuan ba mua sida, O Tuhan aku, pintu penama berekat Nuan, awakka sida ulih masuk kia ari pemendar Nuan lalu senutuk enggau peneka Nuan, sereta tau bediri ba mua maligai kuasa-perintah Nuan, lalu ulih ninga sada-nyawa Nuan, lalu diterang ngena bebendang penampak mua Nuan.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3955 in Кыргыз'
-tags = ['lang-ky', 'bpn3955']
+tags = ['lang-ky', 'bpn-unsorted']
 +++
 *Кимде-ким Кудайга сыйынса, колун жууганда мындай деш керек/:
 

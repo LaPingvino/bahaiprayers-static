@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11237 in Kiribati'
-tags = ['lang-gil', 'bpn11237']
+tags = ['lang-gil', 'bpn-unsorted']
 +++
 N aran te Atua, Bwain Ngkoa Ngkoa, te Kabanea ni Korakora.
 

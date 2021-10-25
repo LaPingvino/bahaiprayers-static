@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12979 in '
-tags = ['lang-110', 'bpn12979']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 ##TABLET OF VISITATION 
  

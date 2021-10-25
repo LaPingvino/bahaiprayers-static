@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10137 in English'
-tags = ['lang-en', 'bpn10137']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O Thou kind Lord!
 Graciously bestow a pair of heavenly wings unto each of these fledglings and give them spiritual power that they may wing their flight through this limitless space and may soar to the heights of the Abhá Kingdom.

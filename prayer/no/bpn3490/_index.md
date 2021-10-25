@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3490 in Norsk'
-tags = ['lang-no', 'bpn3490']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 *Fremsies en gang i døgnet.
 *La den som ønsker å fremsi denne bønn reise seg og vende seg mot Gud, og mens han står, la ham vende blikket mot høyre og mot venstre som i påvente av nåden fra sin Herre, den mest barmhjertige, den medlidende. La ham derpå si:

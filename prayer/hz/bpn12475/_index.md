@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12475 in Namibia'
-tags = ['lang-hz', 'bpn12475']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 *Medina laau a dalwa mefiku eli , oo Kalunga e mu hoolola a ninge  Omufimanekifi wedina laye, Omunaghono-Adishe; Omunahole-Aishe
 

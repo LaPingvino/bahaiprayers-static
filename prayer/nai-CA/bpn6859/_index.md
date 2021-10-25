@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6859 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn6859']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *The Short Obligatory Prayer in the Schuswap Language
 

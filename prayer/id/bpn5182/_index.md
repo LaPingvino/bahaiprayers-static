@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5182 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5182']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Katakanlah: Tuhan mencukupi segala sesuatu di atas segala-galanya dan tak ada di langit maupun di bumi yang mencukupi kecuali Tuhan. Sesungguhnya, Ia Sendirilah, Yang Maha Tahu, Yang Maha Pemelihara, Yang Maha Kuasa.
 

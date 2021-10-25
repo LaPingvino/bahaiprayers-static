@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7894 in Italiano'
-tags = ['lang-it', 'bpn7894']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 Egli è il Benevolo, il Generosissimo!
 O Dio, mio Dio! Il Tuo richiamo mi ha attratto e la voce del Tuo Glorioso Calamo m’ha de-stato. Il fiume dei Tuoi santi detti mi ha rapito e il nèttare della Tua ispirazione inebriato. Mi vedi, o Signore, distaccato da tutto fuorché da Te, aggrapparmi alla corda della Tua generosità e bramare le meraviglie della Tua grazia. Io Ti chiedo, mercè gli eterni flutti della Tua amorosa gentilezza e le radiose luci della Tua tenera cura e del Tuo favore, di concedermi ciò che mi trarrà vicino a Te e mi farà ricco delle Tue dovizie. La mia lingua, la mia penna, il mio intero essere testimoniano la Tua forza, la Tua possanza, la Tua grazia e la Tua generosità e che Tu sei Dio e che non v’è altro Dio che Te, il Forte, il Potente.

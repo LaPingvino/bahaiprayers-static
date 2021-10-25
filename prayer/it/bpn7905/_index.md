@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7905 in Italiano'
-tags = ['lang-it', 'bpn7905']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 O Tu Dio misericordioso! O Tu Che sei forte e possente! O Tu Padre affettuoso! Questi servi si sono riuniti volgendosi a Te, supplici alla Tua soglia, desiderosi della Tua infinita munificenza che emana dalla Tua grande promessa. Essi non hanno altro scopo che il Tuo beneplacito. Non hanno altro intendimento che quello di porsi al servizio dell’umanità inte-ra.
 O Dio! Rendi quest’assemblea raggiante. Rendi i cuori misericordiosi. Conferisci i doni dello Spirito Santo. Dòtali di un potere paradisiaco. Da’ loro la benedizione di una mente celestiale. Accresci la loro sincerità, affinché con tutta umiltà e contrizione si volgano al Tuo regno e si dedichino al servizio dell’intera umanità. Possa ciascuno di loro diventare una fiaccola radiosa, una stella risplendente. Possa ognuno assumere un colore smagliante e olezzare di fragranza nel Regno di Dio. 

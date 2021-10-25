@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4504 in Filipino'
-tags = ['lang-tl', 'bpn4504']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Diyos, aking Diyos! Purihin Ka nawa sa pagpaparikit ng apoy ng banal na pag-ibig sa Banal na Puno sa tuktok ng pinakamataas na bundok: yaong Puno na “hindi mula sa Silangan o sa Kanluran.” Yaong apoy na lumiyab hanggang ang alab nito ay umakyat patungo sa Kalipunan sa kaitasan, at mula dito yaong mga katotohanan ay nakakuha ng ilaw ng pamamatnubay, at nagsipagsigaw sila ng: “Sa katunayan ay nakita naming ang apoy sa libis ng Bundok Sinai.”
 

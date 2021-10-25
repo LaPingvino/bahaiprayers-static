@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8262 in English'
-tags = ['lang-en', 'bpn8262']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 #Excerpt from the Súriy-i-Nush
 ##Súrih of Counsel

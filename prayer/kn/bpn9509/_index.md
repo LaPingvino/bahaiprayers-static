@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9509 in ಕನ್ನಡ'
-tags = ['lang-kn', 'bpn9509']
+tags = ['lang-kn', 'bpn-unsorted']
 +++
 *ದೀರ್ಘ ಅನಿವಾರ್ಯ ಪ್ರಾರ್ಥನೆ  (24 ಗಂಟೆಗಳಲ್ಲಿ ಒಂದು ಸಲ ಹೇಳಬೇಕಾಗಿರುವುದು)
 

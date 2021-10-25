@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6483 in 한국어'
-tags = ['lang-ko', 'bpn6483']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 ##24시간에 한번씩 낭송함
 

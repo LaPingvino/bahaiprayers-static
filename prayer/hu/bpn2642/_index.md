@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2642 in Magyar'
-tags = ['lang-hu', 'bpn2642']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Isten, a Legősibb, a Legnagyobb Nevében!
 

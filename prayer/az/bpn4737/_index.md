@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4737 in Azərbaycan'
-tags = ['lang-az', 'bpn4737']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey Mehriban Allah! Mərhəmətlə bu körpə quşların hər birinə bir cüt səmavi qanad əta eylə və onlara ruhani qüvvə ver ki, bu sonsuz fəzada pərvaz etsinlər və Əbha Mələkutunun zirvəsinə yetişsinlər.
 

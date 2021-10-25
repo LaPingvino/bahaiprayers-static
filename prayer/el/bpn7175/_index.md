@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7175 in ελληνικά'
-tags = ['lang-el', 'bpn7175']
+tags = ['lang-el', 'bpn-unsorted']
 +++
 Αυτός είναι ο Θεός!
 

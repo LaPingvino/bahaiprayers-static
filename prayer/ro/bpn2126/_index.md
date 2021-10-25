@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2126 in România'
-tags = ['lang-ro', 'bpn2126']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Hărăzeşte, o, Stăpânul meu, mie şi celor care cred în Tine, ceea ce Tu socoteşti că este mai bine pentru noi, după cum ai arătat în Cartea Mamă, căci în mâna Ta ţii măsura dinainte hotărâtă a tuturor lucrurilor.
 

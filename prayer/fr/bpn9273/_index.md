@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9273 in Français'
-tags = ['lang-fr', 'bpn9273']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô toi, le Bienfaiteur, tu souffles sur les amis d’occident les doux effluves de l’Esprit saint, et la lumière de ta providence éclaire leur ciel. Tu ramènes à toi ceux qui s’étaient éloignés. Tu transformes des inconnus en amis bienveillants. Tu éveilles ceux qui dorment. Tu rends attentifs les insouciants.
 Ô toi, le Bienfaiteur, aide ces nobles amis à mériter ton bon plaisir, fais d’eux les compagnons de l’étranger comme de l’ami. Conduis-les dans ce monde éternel, accorde-leur une part de ta grâce céleste, fais d’eux de vrais bahá’ís, des serviteurs sincères de Dieu ; préserve-les de toute apparence trompeuse et installe-les durablement dans la vérité. Qu’ils deviennent des signes et des témoignages de ton royaume, des étoiles lumineuses au-dessus de l’horizon de cette vie terrestre ! Qu’ils deviennent un réconfort et une consolation pour l’humanité, des serviteurs de la paix dans le monde ! Vivifieles du vin de tes conseils et permets qu’ils foulent le chemin de tes commandements.

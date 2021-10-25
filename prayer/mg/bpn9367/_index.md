@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9367 in Malagasy'
-tags = ['lang-mg', 'bpn9367']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 Izy no Mpanjaka, Ilay Mpahalala ny zavatra rehetra, Ilay Hendry!
 Jereo ange  ny Railovin’ny Paradisa dia mikalo eo amin’ny rantsan’ny hazon’ny Mandrakizay, amin’ny feo masina sy malefaka, manambara amin’ny fanahy marina ny vaovao mahafaly ny fanakaikezan’Andriamanitra, miantso ireo izay mino ny Maha-tokana an’ Andriamanitra mba ho tonga eo anatrehan’Ilay Onena olona, mampahafantatra an’ireo izay tafasaraka ny Hafatra izay nambaran’Andriamanitra, Ilay Mpanjaka, Ilay be voninahitra, Ilay Tapitr’ohatra, mitarika ireo izay tia ho eny amin’ny toeran’ny fahamasinana sy eny amin’ny Hatsaran-tarehy mamirapiratra. 

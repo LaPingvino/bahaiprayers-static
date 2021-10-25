@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6400 in Cymraeg'
-tags = ['lang-cy', 'bpn6400']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 "O Dduw! Bywioga a llawenha fy ysbryd. Pura fy nghalon. Goleua fy mhwerau. Gosodaf fy holl faterion yn dy ddwylo Di. Ti yw fy Ngheidwad a’m Noddfa. Ni fyddaf bellach yn galaru nac yn drist; byddaf yn fod hapus a llawen. O Dduw! Ni fyddaf bellach yn llawn pryder, ac ni adawaf i drafferthion fy mhoeni. Ni fyddaf yn meddwl am bethau annymunol bywyd. . "O Dduw! Yr wyt Ti yn fwy o gyfaill i mi nac yr wyf i fy hun. Ymgysegraf fy hun i Ti, O Arglwydd.
 

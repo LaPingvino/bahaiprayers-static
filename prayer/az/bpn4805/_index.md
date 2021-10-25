@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4805 in Azərbaycan'
-tags = ['lang-az', 'bpn4805']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, mənim Allahım! Günahlarımı etiraf edərək peşimançılıqla Sənə üz tutdum və həqiqətən, Sən Əfv Edən, Şəfqətlisən.
 

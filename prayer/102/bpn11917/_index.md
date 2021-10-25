@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11917 in '
-tags = ['lang-102', 'bpn11917']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Päk we Mukaddes Sen, Eý meniň Taňrym!
     Barhudaýa! Sen ýaradylan däl, Özüň ýaradýaň. Sen ösdürim däl, Özüň ösdürýäň. Sen bilinýän däl, Özüň bar zady bilýän Iň Uly Dana.

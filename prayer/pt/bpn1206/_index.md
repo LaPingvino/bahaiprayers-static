@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1206 in Português (BR)'
-tags = ['lang-pt', 'bpn1206']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado sejas Tu, ó Senhor meu Deus! És Aquele cuja excelsa glória enalteceu os que são fontes de autoridade e honra, cuja potente grandeza fortaleceu aqueles que são os mananciais de força e poder, cuja vontade predominante elevou os Expoentes da Tua Causa acima de todos os que estão no céu e na terra, e cuja Pena, com suas efusões vivificadoras, animou as almas dos que habitam no reino da criação.
 Sou aquele, ó meu Senhor, que volveu a Ti a sua face, inteiramente por amor a Ti e, reconhecendo o Teu poder e a Tua soberania, dirigiu os seus passos ao Teu bem-amado Santuário, à Tua Corte adorada e santa. Neste estado, alcancei a Cidade onde, na plena glória dos Teus nomes, Tu Te revelaste a todas as coisas criadas. Nela, comunguei com os Teus bem-amados e, da Casa dentro dos seus muros, inalei os sopros da Tua santidade e percebi as fragrâncias da Tua associação.

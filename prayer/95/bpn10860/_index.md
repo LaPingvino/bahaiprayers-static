@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10860 in '
-tags = ['lang-95', 'bpn10860']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 ##KE FAI FAKATASI I TE LUASEFULU FA ITULA, I TUTONU 
 

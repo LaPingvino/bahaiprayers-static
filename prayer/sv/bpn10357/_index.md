@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10357 in Svenska'
-tags = ['lang-sv', 'bpn10357']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Må vemhelst som reser till olika platser för att undervisa, i begrundan läsa denna bön på berg och i öken, på land och på hav:
 O Gud! O Gud! Du ser min svaghet, ringhet och ödmjukhet bland Dina skapelser. Icke desto mindre har jag förlitat mig på Dig och stått upp för att främja Din lära bland Dina starka tjänare med full förtröstan på Din kraft och makt.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12148 in '
-tags = ['lang-104', 'bpn12148']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 ##Dituliskan kepada rakan-rakan Bahá'í di Amerika Syarikat dan Kanada
 Barangsiapa yang mengadakan perjalanan ke pelbagai tempat untuk mengajar, biarlah dia membaca permohonan ini di gunung, di padang pasir, di bumi dan di lautan.

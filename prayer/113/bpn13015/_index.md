@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13015 in '
-tags = ['lang-113', 'bpn13015']
+tags = ['lang-113', 'bpn-unsorted']
 +++
 *Taaza vilaanaande la maskan a xulutung ka na raraf, kun a vaavis- faaruing ma di na ramaraat.
 

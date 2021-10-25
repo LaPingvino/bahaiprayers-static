@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8243 in English'
-tags = ['lang-en', 'bpn8243']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 In the name of God, the Almighty, the All-Bountiful!
 

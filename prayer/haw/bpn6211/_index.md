@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6211 in Hawaiian'
-tags = ['lang-haw', 'bpn6211']
+tags = ['lang-haw', 'bpn-unsorted']
 +++
 ##He Pule Koi Pˆkole
 *Short Obligatory Prayer

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4540 in Filipino'
-tags = ['lang-tl', 'bpn4540']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 *Ang Naw-Rúz, Marso21, ay ang unang araw ng taon ng Bahá’í.
 

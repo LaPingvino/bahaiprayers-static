@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10206 in Māori'
-tags = ['lang-mi', 'bpn10206']
+tags = ['lang-mi', 'bpn-unsorted']
 +++
 E te Ariki, tōku Atua! Ko ia nei tētahi tamaiti i puta mai i ngā hūhā o tētahi o Āu pononga, Nāu i tukua mai ai tētahi tūranga nui ki ngā Pukatuhi o Tō ture mutungakore ki Ngā Pukapuka o Tō hiahia. 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2641 in Magyar'
-tags = ['lang-hu', 'bpn2641']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 „Tanulmányozzátok a Szent Tengerész Tábláját, hogy megismerhessétek az igazságot, és megfontolhassátok, hogy az Áldott Szépség teljes körűen megjövendölt jövőbeli eseményeket. Vigyázzanak, kik értők!”   —`Abdu’l-Bahá
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6036 in Frysk'
-tags = ['lang-fy', 'bpn6036']
+tags = ['lang-fy', 'bpn-unsorted']
 +++
 Ik priizgje Jo, o myn God, dat Jo my út 'e sliep wekker makke hawwe en my út myn fuort-wêzen oproppen hawwe en my út myn slomme ferrize litten hawwe. Ik bin dizze moarn wekker wurden mei myn antlit heve nei de pracht fan de Dei-Stjer fan Jo iepenbiering dêr't de himelen fan Jo macht en Jo majesteit troch ferljochte wurden binne; ik erken Jo tekens, leau yn Jo Boek en hâld fêst oan Jo koarde.
 Ik smeekje Jo, by de macht fan Jo wil en de twingende krêft fan Jo doel, om itjinge Jo my yn myn sliep iepenbiere hawwe ta de fêste grûnslach te meitsjen foar de wenten fan Jo leafde, dy't yn de herten fan Jo leafsten binne en ta it bêste middel om de tekens fan Jo genede en Jo leafderykheid te iepenbierjen.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5898 in Català'
-tags = ['lang-ca', 'bpn5898']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 *Esposeu-vos, oh poble, perquè engendreu a qui faci menció de Mi en mig dels meus serfs. Aquest és el meu mandat per vosaltres.
 *Agafeu-vos fermament a ell com ajuda per vosaltres mateixos. - Bahá’u’lláh

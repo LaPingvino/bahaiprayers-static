@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9528 in Nederlands'
-tags = ['lang-nl', 'bpn9528']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 Hoe kan ik wensen te slapen, o God, mijn God, wanneer zij die naar U hunkeren niet kunnen slapen omdat zij van U gescheiden zijn, en hoe kan ik mij te rusten leggen terwijl de zielen van Uw minnaars gekweld worden doordat zij veraf zijn van Uw tegenwoordigheid?
 Ik heb mijn geest en mijn gehele wezen, o mijn Heer, toevertrouwd aan de rechterhand van Uw macht en Uw bescherming; door Uw kracht leg ik mijn hoofd op mijn kussen en naar Uw wil en welbehagen hef ik het op. Gij zijt waarlijk de Behoeder, de Bewaker, de Almachtige, de Almogende.

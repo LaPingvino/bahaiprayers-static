@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12410 in Namibia'
-tags = ['lang-hz', 'bpn12410']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Amase tara miba du: Neb ge tseb //ib eidu aisa ni !gawaba, tsi doma ni //nouba, mi maihe hab diba. Elob di ≠gai domi gege !awa, tsi !nab //ib ais dib ge khoesib ai ge //goaxa. Ma khoei hoae harebe has ge //ie ≠gaob ae xu ma //ou gowa !noai hoae /ari ≠uisa, tsi //khowa-amsa tsi !khohe //oasa //khoreb /kha mute !gawasa //gou-//goudi ≠Hai-≠hais di di /ga. Tsi !kho-!gati //ib di Si ≠uis tsi Saoti //ib ≠khaisib di di //ga.
 

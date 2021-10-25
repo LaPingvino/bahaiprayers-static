@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12591 in English'
-tags = ['lang-en', 'bpn12591']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O Thou Provider, O Thou Forgiver!  A noble soul hath ascended unto the Kingdom of reality, and hastened from the mortal world of dust to the realm of everlasting glory.  Exalt the station of this recently arrived guest, and attire this long-standing servant with a new and wondrous robe.
 

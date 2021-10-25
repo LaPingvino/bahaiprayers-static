@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7409 in Polski'
-tags = ['lang-pl', 'bpn7409']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Potężnym, Wybaczającym i Współczującym!
     

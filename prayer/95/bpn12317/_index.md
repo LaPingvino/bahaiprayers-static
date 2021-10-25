@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12317 in '
-tags = ['lang-95', 'bpn12317']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 *Ne fakaasi ki Bahá’ís o te Southern States  
  

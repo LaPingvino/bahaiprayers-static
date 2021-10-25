@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10794 in '
-tags = ['lang-93', 'bpn10794']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 *(Odlomci)
 

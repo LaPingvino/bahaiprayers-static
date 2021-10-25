@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9232 in Français'
-tags = ['lang-fr', 'bpn9232']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Gloire à toi, ô Seigneur, toi qui animes toutes choses créées par le pouvoir de ton commandement !
 Ô Seigneur, soutiens ceux qui ont renoncé à tout sauf à toi et accorde-leur une victoire éclatante. 

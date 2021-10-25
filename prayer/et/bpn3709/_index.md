@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3709 in Eesti'
-tags = ['lang-et', 'bpn3709']
+tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo Jumal, mu Jumal! Ära ole minust kaugel, sest katsumus katsumuse järel on kogunenud mu ümber. Oo Jumal, mu Jumal! Ära jäta mind mu enda hooleks, sest äärmine ebaõnn on langenud mu osaks. Puhast piima, ammutatuna Sinu armastava lahkuse rinnast, anna mulle juua, sest janu on mu täielikult ära vaevanud. Oma halastuse tiibade varju alla võta mind, sest kõik mu õnnetused on mind ühiselt rünnanud. Hoia mind oma ülevuse trooni läheduses, silmitsi Sinu hiilguse märkide ilmutusega, sest viletsus on mind rängalt puudutanud. Oma Igaviku Puu viljadega virguta mind, sest äärmine nõrkus on mind vallanud. Oma õrna halastuse käte rõõmukarikast toida mind, sest arvukad mured on minust jõuga kinni haaranud. Oma kõigevägevama võimu tikitud rüüga ehi mind, sest vaesus on mind täiesti paljaks röövinud. Äiutatuna Sinu igaviku tuvi kudrutusest luba mul uinuda, sest mustemast mustemad hädad on mind tabanud. Oma ühtsuse trooni ees, oma palge ilu leekide keskel lase mul viibida, sest hirm ja kartus on mind julmalt maha surunud. Oma andestuse ookeanisse, silmitsi hiiglasliku kirkuse rahutusega, kasta mind, sest mu patud on mu täielikult hukutanud.
 

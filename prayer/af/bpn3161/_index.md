@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3161 in Afrikaans'
-tags = ['lang-af', 'bpn3161']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Geloof sy U Naam, o Here my God! Duisternis het op elke land geval, en die magte van onheil het al die nasies omring. Deur hulle gewaar ek, egter, die prag van U wysheid, en onderskei die luister van die lig van U voorsiening.
 

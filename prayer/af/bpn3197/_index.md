@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3197 in Afrikaans'
-tags = ['lang-af', 'bpn3197']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O my God! O my God! Hierdie dienaar van U het genader tot U, swerf geesdriftig in die woestyn van U liefde, wandel op die weg van U diens, U gunste afwagtend, hopende op U milddadigheid, vertrouende op U koninkryk en besiel met die wyn van U gawe. O my God! Vermeerder die ywer van sy toegeneentheid aan U, die bestendigheid van sy lof vir U en die gloed van sy liefde vir U.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1164 in Português (BR)'
-tags = ['lang-pt', 'bpn1164']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Senhor bondoso! Criaste toda a humanidade dos mesmos pais. Desejaste que todos pertencessem ao mesmo lar. Em Tua Santa Presença, todos são Teus servos e todo o género humano se abriga sob o Teu Tabernáculo. Todos se têm reunido à Tua Mesa de Graças e brilham pela luz da Tua Providência.
 Ó Deus! És bondoso para com todos, provês a todos, amparas a todos, e a todos concedes vida. De Ti, todos os seres recebem faculdades e talentos. Todos estão submersos no Oceano da Tua Misericórdia.

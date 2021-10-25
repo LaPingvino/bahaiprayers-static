@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7995 in Malti'
-tags = ['lang-mt', 'bpn7995']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 #TALBA OBLIGATORJA MEDJA    (Medium Obligatory Prayer)
 ##TINGHAD KULJUM, FIL-GĦODU, F’NOFS IN-NĦAR, U FIL-GĦAXIJA

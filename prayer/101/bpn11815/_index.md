@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11815 in '
-tags = ['lang-101', 'bpn11815']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Doa Dayung Saan Bonon-eh)
 O Topa, Topa ku! Itih dayung Ingan mogan Ingan, bisayak daang Ingan, nak jowin-eh tudu Ingan, ngugai Ingan odak duwient pingungin dek surga tudu odop-eh, bia bukak bitanga tudu odop-eh rahsia-rahsia rohani Ingan, bia nyokad tudu odop-eh pangijawak Suku Julu Ingan.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5307 in Bosanski'
-tags = ['lang-bs', 'bpn5307']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 O moj Bože! Oprostitelju grijeha, udjelitelju darova, otklonitelju tuge!
 Uistinu, preklinjem Te da oprostiš grijehe

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2878 in Česky'
-tags = ['lang-cs', 'bpn2878']
+tags = ['lang-cs', 'bpn-unsorted']
 +++
 Rozptyl můj zármutek Svou štědrostí a šlechetností, ó Bože, můj Bože, a zažeň mou úzkost Svou vládou a mocí. Vidíš, ó můj Bože, jak obracím tváří k Tobě v době, kdy jsem ze všech stran skličován bolestí a zármutkem. Vroucně Tě prosím, ó Ty, Který jsi Pánem všeho bytí a zastiňuješ všechny věci viditelné i neviditelné, při Tvém Jménu, kterým jsi podmanil srdce a duše lidí a při vlnách Oceánu Tvé milosti a skvoucí záři Denice Tvé štědrosti, abys mne započítal k těm, kterým nikdy nic nezabrání obracet tvář k Tobě, ó Pane všech jmen a Stvořiteli nebes.
 

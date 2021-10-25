@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9569 in Nederlands'
-tags = ['lang-nl', 'bpn9569']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 Hij is de God die gebeden verhoort en beantwoordt!
 Bij Uw glorie, o Geliefde, Gij die de wereld licht schenkt! Het vuur van scheiding verslindt mij, en mijn weerspannigheid verteert mijn hart. Ik vraag U, bij Uw Allergrootste Naam, o Gij het Verlangen der wereld en de Welbeminde der mensheid, te geven dat de bries van Uw bezieling mijn ziel steunt, opdat Uw wondere stem mijn oor bereikt en mijn oog Uw tekenen en Uw licht aanschouwt zoals dat is onthuld in de openbaring van Uw Namen en Uw eigenschappen, o Gij in Wiens greep alle dingen liggen!

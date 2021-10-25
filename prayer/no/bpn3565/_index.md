@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3565 in Norsk'
-tags = ['lang-no', 'bpn3565']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 O Gud, min Gud! Du ser meg - jeg er henrevet og drages mot ditt herlige rike, jeg er oppflammet av din kjærlighets ild blant menneskene, en talsmann for ditt rike i disse store og vidstrakte land, løst fra alt uten deg; jeg setter min lit til deg, gir avkall på hvile og velvære, langt borte fra mitt hjemland, en vandrer i disse egner, en fremmed som er strukket til jorden, ydmyk for din opphøyede Terskel, underdanig overfor din allmektige herlighets himmel; jeg bønnfaller deg ved midnattstid og ved daggry, trygler og påkaller deg morgen og aften om nådigst å hjelpe meg til å tjene din Sak, til å utbre din lære og til å opphøye ditt Ord overalt i Østen og Vesten.
  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4065 in Кыргыз'
-tags = ['lang-ky', 'bpn4065']
+tags = ['lang-ky', 'bpn-unsorted']
 +++
 Маркумду жайга коёр адыңга окулуучу жаназа
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6075 in Føroyar'
-tags = ['lang-fo', 'bpn6075']
+tags = ['lang-fo', 'bpn-unsorted']
 +++
 Vælsignaður er tann blettur,
 og tað hús, 

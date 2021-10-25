@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2378 in Latviešu'
-tags = ['lang-lv', 'bpn2378']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slavēts ir Tavs Vārds, ak Dievs, mans Kungs!
 Tumsa ir nolaidusies pār visām zemēm, un ļaunie spēki ir apsēduši visas tautas. Tomēr cauri visam tam es jaušu Tavas gudrības mirdzumu un Tava likteņa spožo gaismu.

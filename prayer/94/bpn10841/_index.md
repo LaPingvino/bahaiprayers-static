@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10841 in '
-tags = ['lang-94', 'bpn10841']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 *Pemphero lowululidwa ndi Bahá′u′lláh lotchedwa “Qad-Ihtaraqa ‘I-Mukhlisun” 
 

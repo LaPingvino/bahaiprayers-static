@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5949 in Català'
-tags = ['lang-ca', 'bpn5949']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu meu, oh Déu meu! Glòria a Tu per quant m’has atret cap a la paraula de la Teva singularitat, m’has encès amb el foc del Teu amor i has fet que m’ocupi de la Teva menció i del servei als Teus amics i serves.
 Oh Senyor, ajuda’m a ser submís i humil i enforteix-me perquè pugui lliurar-me de totes les coses i agafar-me a la vora de la vestidura de la Teva glòria, perquè el meu cor s’ompli amb el Teu amor i no hi càpiga l’amor al món i l’afecció a les seves qualitats.

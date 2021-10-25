@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12377 in '
-tags = ['lang-103', 'bpn12377']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 O God, my God! I have set out from my home,..
 

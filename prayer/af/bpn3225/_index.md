@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3225 in Afrikaans'
-tags = ['lang-af', 'bpn3225']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Roem sy aan U, o Koning van die ewigheid, en die Maker van nasies, en die Vormer van elke vermolmende been! Ek bid U, by U Naam waardeur U die hele mensdom na die horison van U majesteit en heerlikheid geroep het, en U dienaars na die voorhof van U genade en gunste gelei het, om my onder diegene te tel wat hulle onstlae gemaak het van alles behalwe Uself, en hulle na U gerig het, en nie teruggehou is deur die ongelukke wat deur U verorden was nie, om in die rigting van U gawes te draai.
 

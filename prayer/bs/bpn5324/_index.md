@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5324 in Bosanski'
-tags = ['lang-bs', 'bpn5324']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Post
 

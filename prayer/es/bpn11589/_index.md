@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11589 in Español'
-tags = ['lang-es', 'bpn11589']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 Tú ves, oh mi Dios, cómo los males cometidos por aquellas de Tus criaturas que Te han vuelto la espalda se han interpuesto entre Aquel en Quien Tu Deidad está manifiesta y Tus siervos. Haz descender sobre ellos, oh mi Señor, aquello que haga que se ocupen en sus propios afanes. Haz, pues, que su violencia se limite a ellos mismos, para que la tierra y los que en ella habitan encuentren paz.
 Una de Tus siervas, oh mi Señor, ha buscado Tu rostro y se ha elevado hacia la atmósfera de Tu complacencia. No le niegues, oh mi Señor, las cosas que ordenaste para las elegidas de entre Tus siervas. Permítele, pues, que se sienta tan atraída por Tus palabras que celebre Tu alabanza entre ellas.

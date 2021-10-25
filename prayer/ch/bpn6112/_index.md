@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6112 in Chamorro'
-tags = ['lang-ch', 'bpn6112']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##KASAMIENTO
 *MARRIAGE

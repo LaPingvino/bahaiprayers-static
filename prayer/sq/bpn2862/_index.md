@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2862 in Shqip'
-tags = ['lang-sq', 'bpn2862']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 I bekuar është trualli, dhe shtëpia,
 dhe vendi, dhe qyteti,

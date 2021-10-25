@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1233 in Português (BR)'
-tags = ['lang-pt', 'bpn1233']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó meu Deus! Uma de Tuas servas, que acreditou em Ti e nos Teus sinais, abrigou-se à sombra da árvore da Tua unicidade. Permite, ó meu Deus, pelo Teu Nome, o Oculto e Manifesto, que ela possa sorver do Teu seleto Vinho lacrado, para que a afaste dela mesma e a faça inteiramente devotada à Tua lembrança e totalmente desprendida de qualquer um além de Ti.
 Agora que lhe revelaste o Teu conhecimento, ó meu Senhor, não lhe negues, pela Tua bondade, a Tua graça, e agora que a chamaste para Ti, pelo Teu favor, não a afastes. Supre-a, então, com aquilo que excede tudo o que se encontra na Tua terra. Tu és, verdadeiramente, o Mais Misericordioso, cuja graça é imensa.

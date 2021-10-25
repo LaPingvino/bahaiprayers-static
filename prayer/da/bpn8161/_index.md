@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8161 in Dansk'
-tags = ['lang-da', 'bpn8161']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Den følgende bøn skal læses... hver dag.
 

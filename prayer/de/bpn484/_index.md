@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn484 in Deutsch'
-tags = ['lang-de', 'bpn484']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Wer sich auf Lehrreise in verschiedene Gegenden begibt, der lese im Gebirg und in der Wüste, zu Lande und zu Wasser das folgende Bittgebet:O Gott! O Gott! Du siehst mich schwach, niedrig und bescheiden unter Deinen Geschöpfen; dennoch habe ich auf Dich vertraut und mich erhoben, Deine Lehren unter Deinen standhaften Dienern zu fördern, ganz im Vertrauen auf Deine Kraft und Macht!
 O Herr! Ich bin ein Vogel mit gebrochenen Schwingen, voll Sehnsucht, in Deine grenzenlosen Sphären emporzuschweben. Wie bin ich anders dazu fähig, als durch Deine Vorsehung und Gnade, Deine Bestätigung und Hilfe!

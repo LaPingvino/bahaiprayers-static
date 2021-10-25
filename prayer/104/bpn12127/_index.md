@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12127 in '
-tags = ['lang-104', 'bpn12127']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhanku, Rajaku, Tujuan hasratku. Hamba-Mu ini, hendak tidur di bawah perlindungan rahmat-Mu, dan beristirahat di bawah kubah kurnia-Mu, memohon pemeliharaan-Mu serta perlindungan-Mu.
 

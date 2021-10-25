@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8522 in 简体中文'
-tags = ['lang-zh-Hans', 'bpn8522']
+tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的上帝呀！祢是赦罪者，施与者，解除苦难者！
 我真诚地恳求祢，宽恕这些人的罪孽：他们已舍弃血肉身躯，升腾至属灵世界。

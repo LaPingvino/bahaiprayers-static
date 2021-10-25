@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9345 in Malagasy'
-tags = ['lang-mg', 'bpn9345']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 Deraina Ianao, ry Andriamanitro ô! Ianao Ilay, tamin’ny teny indraim-bava monja, nampisafotofoto ny zavaboahary rehetra ary, tamin’ny tsipikin’ny penina iray, nampisaraka ny mpanomponao teo amin’izy ireo avy. Vavolombelona aho, ry Andriamanitro ô, fa amin’ity Fanambarana ity, amin’ny teny indraim-bava avy Aminao, ny zavaboahary rehetra nohariana dia natokana ho simba, ary amin’ny teny indraim-bava iray hafa, izay rehetra nofidianao, noho ny Fahasoavanao sy ny Fangorahanao, dia nahazo fiainam-baovao.
 Noho izany, misaotra Anao aho, ary midera Anao amin’ny anaran’ireo olona maminao, noho ny namelomanao azy ireo indray tamin’ny herin’ny rano mamelombelona izay niboiboika avy tamin’ny loharanon’ny Sitraponao. Satria novelominao izy ireo, noho ny hatsaran-toetranao lehibe, aoka izy ireo noho ny Hatsaram-panahinao, ry Andriamanitro ô, ho voatarika noho ny Sitraponao, ary satria navelanao izy ireo hiditra ao amin’ny taberinakelin’ny Fototrao, aoka izy ireo, noho ny Fahasoavanao, mba tsy hitoetra lavitra Anao.

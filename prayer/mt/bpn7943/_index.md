@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7943 in Malti'
-tags = ['lang-mt', 'bpn7943']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 Sid! Aħna nġibu ħniena, urina l-għoġba tiegħeK; foqra, agħtina sehem mill-oċejan tal-ġid tiegħeK; fil-bżonn, xebbagħna Inti; imkejna, agħtina l-glorja tiegħeK. It-tjur tas-sema u l-bhejjem tal-għalqa jingħataw l-ikel kuljum mingħandeK, u l-ħlejjaq kollha jieħdu sehemhom mill-ħsieb u mill-ħanina mħabbteK.
 

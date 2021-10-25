@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7726 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7726']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye, Bondye mwen! Sèvant sa a ap rele Ou, li mete konfyans li nan Ou, li vire figi li nan direksyon Ou, l’ap sipliye Ou pou gaye bonte selès Ou yo sou li, devwale pou li mistè espirityèl Ou yo, epi voye sou li limyè ki soti nan Divinite Ou Menm menm.
 O Senyè mwen! Fè je mari mwen wè. Fè kè li kontan avèk limyè konesans Ou, atire lespri li pou jwenn bèlte Ou ki klere, epi revele pou li glwa Ou yo ki byen klè k’ap fè nanm li rejwi. 

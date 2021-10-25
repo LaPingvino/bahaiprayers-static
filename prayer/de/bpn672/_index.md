@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn672 in Deutsch'
-tags = ['lang-de', 'bpn672']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist der König, der Allwissende, der Weise.
 

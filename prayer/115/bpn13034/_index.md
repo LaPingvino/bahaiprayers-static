@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13034 in '
-tags = ['lang-115', 'bpn13034']
+tags = ['lang-115', 'bpn-unsorted']
 +++
 *Imuac hêna ara yomi hêmma mêndacmu.  Bahá’í keczu momacmomac keczu kaiwe sêc ac yomi zêkecmu hatac momacguc.  Naleiguc.  Zêma maria kaiwe kiwa hiŋgacmac imi tecgêmac.  Mêraga zuacma.  Kicga zuacma, wêsêgina meleŋgic kaiwe memea iguc keŋŋu namma ac youmi olommu.
 

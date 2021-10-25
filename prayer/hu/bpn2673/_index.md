@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2673 in Magyar'
-tags = ['lang-hu', 'bpn2673']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Istenem! A Te közelséged a reménységem, és Hozzád fordulni az én örömöm. A Te szereteted a vigasztalásom, és a Te Neved az én imádságom. A Te jelenléted a békességem, a Te Szavad az én gyógyulásom. Ó, Uram, egyedül Téged óhajtalak szolgálni!
 

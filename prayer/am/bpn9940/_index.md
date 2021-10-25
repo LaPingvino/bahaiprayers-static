@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9940 in አማርኛ.'
-tags = ['lang-am', 'bpn9940']
+tags = ['lang-am', 'bpn-unsorted']
 +++
 *Fasting Prayers
 

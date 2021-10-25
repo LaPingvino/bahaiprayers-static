@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12469 in Namibia'
-tags = ['lang-hz', 'bpn12469']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Oshili Ohaiti, Eli olo efiku
 (Verily I Say, this is the Day)

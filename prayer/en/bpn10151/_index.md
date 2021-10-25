@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10151 in English'
-tags = ['lang-en', 'bpn10151']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O ye tender seedlings in the garden of the love of God!
 O ye fresh saplings in the meadows of the knowledge of God!

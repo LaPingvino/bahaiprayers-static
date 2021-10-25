@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2307 in România'
-tags = ['lang-ro', 'bpn2307']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Te implor, o, Dumnezeul meu, pe Semnul
 Tău cel puternic şi întru revelaţia Harului Tău între oameni, să nu mă alungi de la poarta cetăţii prezenţei Tale şi să nu dezamăgeşti speranţele ce mi le-am pus în manifestările harului Tău printre făpturile Tale. Tu mă vezi, o, Doamne, Dumnezeul meu, ţinându-mă de Numele Tău, Cel Mai Sfânt, Cel Mai Luminos, Cel Mai Puternic, Cel Măreţ, Cel Înălţat, Cel Glorios şi agăţându-mă de poala veşmântului de care s-au agăţat toţi în lumea aceasta şi ce va să vie.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3734 in Eesti'
-tags = ['lang-et', 'bpn3734']
+tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo tõeotsija! Kui sa soovid, et Jumal avaks su silmad, pead sa Teda paluma, palvetama Tema poole ning suhtlema Temaga keskööl, öeldes:
 

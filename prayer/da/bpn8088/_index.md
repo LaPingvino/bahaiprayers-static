@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8088 in Dansk'
-tags = ['lang-da', 'bpn8088']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 O Du gode Herre! Disse er Dine tjenere, der er forsamlet i dette møde, har vendt sig til Dit rige og trænger til Din gave og velsignelse. O Du, som er Gud! Åbenbar og afslør tegnene på Din enhed, der er blevet nedlagt i alle livets virkeligheder. Afdæk og udfold de egenskaber, Du har gjort mulige og skjult i disse menneskelige virkeligheder.
 

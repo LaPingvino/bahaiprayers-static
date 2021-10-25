@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4567 in հայերեն'
-tags = ['lang-hy', 'bpn4567']
+tags = ['lang-hy', 'bpn-unsorted']
 +++
 *Աղոթքը արտասանվում է Հոգևոր Ժողովի ավարտից հետո
 

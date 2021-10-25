@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11811 in '
-tags = ['lang-101', 'bpn11811']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Doa Tuluap Ngalom)
 *	O nyaa de kalik pangibonar! Simo daang niat ingan sak Topa pod-pod buka boton ingan, ingan mesti mujok bito’os tudu Topa, bidoa tudu bia biubung duwoh Iyoh takal jojuab tuluap ngalom, nang ineh:

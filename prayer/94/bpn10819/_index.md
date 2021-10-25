@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10819 in '
-tags = ['lang-94', 'bpn10819']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 Ambuye! Ife ndife womvetsa chisoni, tipatseni chifundo Chanu; ndife wosauka, tipatseni gawo kuchokera ku nyanja ya chuma Chanu; ndife wosowa, tikwaniritseni; wosayenera, tipatseni ulemelero Wanu.  Mbalame zamlengalenga ndi nyama za mu thengo zimalandira zakudya zawo tsiku ndi tsiku kuchokera kwa Inu ndipo za moyo zonse zimalandira chisamaliro ndi chikondi Chanu. 
 

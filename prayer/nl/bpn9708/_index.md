@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9708 in Nederlands'
-tags = ['lang-nl', 'bpn9708']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, mijn God! Ik keer mij berouwvol tot U, en Gij zijt waarlijk de Vergevende, de Meedogende.
 O God, mijn God! Ik ben tot U weergekeerd, en Gij zijt waarlijk de Immervergevende, de Genadige.

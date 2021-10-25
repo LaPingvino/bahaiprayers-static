@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5030 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5030']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Nawruz
 *(Thánh Lễ Naw-ruz, 21-3, là ngày đầu năm Baha'i và là ngày vui mừng)

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9195 in Français'
-tags = ['lang-fr', 'bpn9195']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 En son nom, l’Éminent, le Très-Haut, le Sublime, sois glorifié, ô Seigneur, mon Dieu ! Toi qui es mon Dieu, mon maître et mon seigneur, mon soutien et mon espoir, mon refuge et ma lumière ! Par ton nom scellé et vénéré que nul ne connaît sauf toi, je te demande de protéger le détenteur de cette prière de toute maladie et calamité, de toute malveillance, des méfaits des malfaisants et des intrigues des incroyants. 
 Ô mon Dieu, protège-le aussi de toute douleur et chagrin, toi qui règnes sur toutes choses. 

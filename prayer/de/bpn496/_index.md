@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn496 in Deutsch'
-tags = ['lang-de', 'bpn496']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 O Du Allmächtiger! Ich bin ein Sünder, doch Du bist der Vergeber! Ich bin voller Mängel, doch Du bist der Mitleidvolle! Ich bin in des Irrtums Finsternis, doch Du bist der Vergebung Licht!
 O Du gütiger Gott! Vergib meine Sünden, schenke mir Deine Gaben, übersieh meine Fehler, behüte mich, tauche mich ein in den Quell Deiner Geduld und heile mich von allen Krankheiten und Gebrechen.

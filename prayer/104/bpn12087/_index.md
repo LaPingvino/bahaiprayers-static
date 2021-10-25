@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12087 in '
-tags = ['lang-104', 'bpn12087']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhan! Jadikanlah kanak-kanak ini tumbuh-tumbuhan yang cemerlang. Biarlah mereka tumbuh dan berkembang dalam Kebun Waadat-Mu, dan kurniakanlah kesegaran dan keindahan melalui curahan awan-awan Kerajaan Abhá.
 

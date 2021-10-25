@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10085 in Slovensky'
-tags = ['lang-sk', 'bpn10085']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 „Ó Bože! Ó Bože! Vidíš moju slabosť, poníženosť a pokoru medzi tvojimi stvoreniami. Napriek tomu som Ti dôveroval a povstal som, aby som šíril Tvoje učenie medzi Tvojimi pevnými služobníkmi, spoliehajúc sa na Tvoju moc a silu!“
 Ó Pane! Som vtáča so zlomeným krídlom, ktoré sa túži vznášať v Tvojom bezmedznom priestore. Ako tak môžem učiniť, ak nie prostredníctvom Tvojej prozreteľnosti a milosti, Tvojho utvrdenia a pomoci?

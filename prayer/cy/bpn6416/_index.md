@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6416 in Cymraeg'
-tags = ['lang-cy', 'bpn6416']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 Dy Enw yw fy ngwellhad, O fy Nuw, a chofio amdanat yw fy meddyginiaeth. Agosrwydd atat Ti yw fy ngobaith
 a chariad tuag atat Ti yw fy nghydymaith. Dy drugaredd tuag ataf yw fy ngwellhad a'm cysur yn y byd hwn a'r byd a ddaw. Tydi, yn wir, yw'r Hollhaelionus, yr Hollwybodol, y Doethaf Un.

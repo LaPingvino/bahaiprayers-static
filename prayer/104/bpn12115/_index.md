@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12115 in '
-tags = ['lang-104', 'bpn12115']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Dia adalah Penyembuh, Yang Mencukupi, Penolong, Yang Maha Pengampun, Yang Maha Rahim.
 

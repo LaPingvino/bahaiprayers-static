@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5892 in Català'
-tags = ['lang-ca', 'bpn5892']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh amable Senyor! Atorga confirmació celestial a aquesta filla del regne, i ajuda-la benèvolament a que romangui ferma i constant en la Teva Causa i que, com un rossinyol del roserar dels misteris, en els més mirífics tons canti melodies en el Regne d’Abhá, portant amb això, felicitat a tots. Enalteix-la entre les filles del regne i permet-li atènyer la vida eterna.
 Tu ets l’Atorgador, Qui tot ho estima.

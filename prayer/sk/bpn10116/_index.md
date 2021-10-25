@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10116 in Slovensky'
-tags = ['lang-sk', 'bpn10116']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 ##Tabuľka Svätého Moreplavca
 *„Študujte Tabuľku Svätého Moreplavca, aby ste poznali pravdu a uvážte, že Požehnaná Krása plne predpovedala budúce udalosti. Nech si ti, ktorí rozumejú, z toho vezmú ponaučenie!“

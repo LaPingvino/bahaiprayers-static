@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12227 in '
-tags = ['lang-95', 'bpn12227']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Vikiiga e Koe, O te Aliki toku Atua!  I taimi katoa e masaua ne au a Koe kae mafaufau ki Ou uiga lei, Au e poko saale i se laumatagi kae fonu au i te fiafia ia Koe te la ko se maua ne au o faipati a Tou igoa kae fakamaluga a Koe.  Au ko lele ki tua ki koga maluga te la ko lavea i ei ne au me e pau mo te masausauga o Koe i Tou lalolagi, mo te tina vikiiga o Koe i vasia o Au tavini.  Me e pefea a te leva o te ola o Koe, me e pefea a te leva o te tumau o fakaoko atu Ou tavaeega ki tua atu i vasia o Au mea ola faiite mo Tou masausauaga ka vikia ne Au tagata a Koe.  
 A so se tagata e ola mo te mafaufau matakite i va o Au tavini e fakamaalosi ia au e ola ki te se-gata mai kae e se-mafai o galo, pela foki loa mo te masausauga o Koe e favavau kae ka tumau pena ki te leva o te ola o Tou tina Tino, a ko Ou vikiiiga e favavau kae ka tumau pena ki te leva o Tou nofoaiga-a-aliki. Mai i te mea e mafai o fai a Koe e vikia ne latou ko Au tino filifilia ko la e kalaga atu kia Koe mo latou ko la e uiga fakamaoni i va o Au tavini.  Ikaai, a te tavaeega te la mai i so se tino, i te foafoaaga katoatoa, a te vikiiga tena kia Koe e vau mai i te fuaitino tafasili ite maluga tenei kae foki atu foki ki ei, pela loa mo te laa tela, e uiloa e maina, e oko atu a tena gali ki so se me te la e sae ki ona vae.  Mai i te laa tenei e vau i ei, kae foki atu foki ki ei, a te mainaaga te la e oko ki mea katoa.  

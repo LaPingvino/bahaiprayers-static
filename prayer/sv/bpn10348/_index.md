@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10348 in Svenska'
-tags = ['lang-sv', 'bpn10348']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Herre! Hos Dig söker jag min fristad och till alla Dina tecken vänder jag mitt hjärta.
 O Herre! Vare sig jag befinner mig på resa eller i mitt hem, är vid mina sysslor eller vid mitt kall, sätter jag hela min tillit till Dig.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9128 in Français'
-tags = ['lang-fr', 'bpn9128']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Prière prescrite pour les morts
 

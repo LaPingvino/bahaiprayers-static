@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8004 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn8004']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 ##Nuts’amat
 Xe’xe’ Tsitsulh Siem

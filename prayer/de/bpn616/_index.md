@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn616 in Deutsch'
-tags = ['lang-de', 'bpn616']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Preis sei Dir, o Herr mein Gott! Du siehst und weißt, ich habe Deinen Dienern geboten, dass sie sich nirgendwo hinwenden als zu Deinen Gaben, und habe ihnen befohlen, nichts zu beachten, als was Du in Deinem deutlichen Buche bestimmtest, dem Buche, das nach Deinem unergründlichen Ratschluss und Deiner unwiderruflichen Absicht herniedergesandt ist.
 Ich kann kein Wort sprechen, o mein Gott, es sei denn mit Deiner Erlaubnis, und kann mich in keine Richtung bewegen, es sei denn mit Deiner Zustimmung. Durch die Kraft Deiner Macht hast Du, o mein Gott, mich ins Dasein gerufen und mir die Gnade verliehen, Deine Sache zu künden. Dafür wurde ich von solchem Leid heimgesucht, dass meine Zunge gehindert ward, Dich zu rühmen und Deine Herrlichkeit zu preisen.

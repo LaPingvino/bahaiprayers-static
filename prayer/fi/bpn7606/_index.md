@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7606 in Suomi'
-tags = ['lang-fi', 'bpn7606']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 *Rakas ja syvästi henkinen sisar! Aamuin ja illoin, äärimmäisen palavasti ja nöyrästi anon jumalallisella kynnyksellä ja lausun tämän rukoukseni:
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11549 in Español'
-tags = ['lang-es', 'bpn11549']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Oraciones para la enseñanza tomadas de las Tablas del Plan Divino
 ##Revelada para los bahá’ís de los estados occidentales

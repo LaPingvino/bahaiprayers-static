@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11908 in '
-tags = ['lang-101', 'bpn11908']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Naw-Ruz, 21 onu bulan Taluh, bungas onu daang sowak Baha’i)
 Ngin pimudi tudu Ingan, O Topa ku, setegal Ingan mbok nitah Naw-Ruz odak jadin nikan musim pirami tudu bala dek mbok mit pakai puasa tilanan pangirindu eh tudu Ingan bia bilasong sok sua onik dek sisil Ingan. Ngibonar leh, O Raja ku, sak opui pangirinduk Ingan bia aah bongoh dek nog sok puasa dek obuah pilokan odak Ingan pod-pod pijawak bala daang Toga Ingan, bia nai odak bala tilisik pakai pimudi Ingan bia dengan panginatong ndu Ingan.

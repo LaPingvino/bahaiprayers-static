@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2836 in Shqip'
-tags = ['lang-sq', 'bpn2836']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Zot! Ty të drejtohem për strehë dhe ndaj të gjitha shenjave të Tua e ktheva zemrën.
 

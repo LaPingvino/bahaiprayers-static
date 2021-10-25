@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6490 in 한국어'
-tags = ['lang-ko', 'bpn6490']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 ##제 뱃속에 있는 아이를
 

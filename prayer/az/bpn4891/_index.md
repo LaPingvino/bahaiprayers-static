@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4891 in Azərbaycan'
-tags = ['lang-az', 'bpn4891']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 *Həqiqi sevinc və şadlıqla bir yerə toplaşın və görüşün əvvəlində bu münacatı oxuyun:
 

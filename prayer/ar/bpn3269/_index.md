@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3269 in العربية'
-tags = ['lang-ar', 'bpn3269']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 * مقتطفات من لوح الحكمة
 # بِسْمِهِ المُبدِعِ العَليمِ الحَكِيمِ

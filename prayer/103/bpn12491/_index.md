@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12491 in '
-tags = ['lang-103', 'bpn12491']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 O Thou kind Lord! These are Thy servants who have gathered in this meeting,…
 

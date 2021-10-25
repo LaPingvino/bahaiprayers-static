@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6319 in Namibia'
-tags = ['lang-hz', 'bpn6319']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 #NONKWARA
 ##(MARRIAGE)

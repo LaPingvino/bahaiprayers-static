@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6058 in Namibia'
-tags = ['lang-hz', 'bpn6058']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Ndjambi wetu! Omuisire wo zondjo, Omuyandje wovi jandjewa, nungu verura omihihamo! 
 

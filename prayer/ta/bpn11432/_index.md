@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11432 in தமிழ்'
-tags = ['lang-ta', 'bpn11432']
+tags = ['lang-ta', 'bpn-unsorted']
 +++
 *நாள்தோறும் காலையிலும் மாலையிலும் நண்பகலிலும் கூற வேண்டியது.
 

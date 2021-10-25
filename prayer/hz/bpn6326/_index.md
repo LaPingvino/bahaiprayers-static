@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6326 in Namibia'
-tags = ['lang-hz', 'bpn6326']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 #MBATERO ZOYIGAVA
 ##(CONTRIBUTIONS TO THE FUND)

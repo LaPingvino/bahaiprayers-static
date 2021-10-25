@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12233 in '
-tags = ['lang-95', 'bpn12233']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Au e avatu a tavaeega kia Koe, O toku Atua, ona ko Koe ko oti ne fago au mai i taku moe, kae aumai au ki mua talu mai taimi ne galo i ei au, kae fakatu aka au mai i toku moega.  Au ne ala aka i te tafataeo tenei mo oku mata e kilo tonu ki te gali o te Fetu Ao o Tau Fakaasiiga, tela mai iei a lagi o Tou maalosi mo Tou afioga ko oti ne fakamainagia, kae e iloagina Au fakailoga, e talitonu ki Tau Tusi, kae puke mmau ki Tou Kafanoa.  
 Au e akai totuli kia Koe, i te maalosi o Tou finagalo mo te maalosi futi-mai o Tau fekau, ke fai aka a mea ko la ne fakaasi mai ne Koe i taku moega me ko te fakavae tonu tena mo fale tafasili i te lasi o Tou alofa ko la i loto o Au fagasele, ka ko te meafaigaluega tafasili i te llei mo te fakaasiiga o meaalofa o Tou alofa-fakamagalo mo Tou alofa-kaimalie.  

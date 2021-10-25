@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10732 in '
-tags = ['lang-92', 'bpn10732']
+tags = ['lang-92', 'bpn-unsorted']
 +++
 Хамгаас эртний, Хамгаас агуу Бурханы нэрээр өчсү.
 

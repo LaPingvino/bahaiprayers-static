@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6482 in 한국어'
-tags = ['lang-ko', 'bpn6482']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 ##중편 필수기도
 

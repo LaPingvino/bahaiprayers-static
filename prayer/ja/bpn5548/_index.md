@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5548 in 日本語'
-tags = ['lang-ja', 'bpn5548']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 集会に出席する時、会場に入る前に心にある
            すべてのことから自らを解き放ち、神を思うことのみに

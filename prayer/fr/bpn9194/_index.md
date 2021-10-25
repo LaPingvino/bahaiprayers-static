@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9194 in Français'
-tags = ['lang-fr', 'bpn9194']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est celui qui guérit, qui suffit, qui secourt, qui toujours pardonne, l’Infiniment Miséricordieux. 
 Je t’invoque, ô toi, le Suprême, le Fidèle, le Glorieux. Toi qui suffis, toi qui guéris, toi, l’Éternel, ô toi, l’Éternel !

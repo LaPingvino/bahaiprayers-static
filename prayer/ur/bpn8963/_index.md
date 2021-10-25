@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8963 in اُردُو'
-tags = ['lang-ur', 'bpn8963']
+tags = ['lang-ur', 'bpn-unsorted']
 +++
 مبارک ہے وہ مقام،
 اور وہ گھر، اور وہ جگہ، اور وہ شہر، اور وہ دل،

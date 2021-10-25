@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12676 in '
-tags = ['lang-91', 'bpn12676']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Iya meh Petara, tinggi meh Iya, Tuhan ke pengerindu pengasih enggau pemisi!
 Mulia meh ngagai Nuan, O Petara aku, Nuan, Tuhan ti Pemadu Bisa. Aku besaksi ngagai pemisa Nuan enggau penegap Nuan, kuasa-raja Nuan enggau pengerindu pengasih Nuan, berekat Nuan enggau kuasa Nuan, penyatu Pengidup Nuan enggau penyerakup Ayu Nuan, pengudus enggau peninggi Nuan ari atas dunya pengidup enggau semua utai ke dalam nya.

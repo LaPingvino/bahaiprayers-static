@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12912 in Français'
-tags = ['lang-fr', 'bpn12912']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Il est Dieu. 
 Ô Dieu, mon Dieu! Je tourne mon visage vers toi et je te supplie de répandre sur moi les flots de l’océan de ta guérison. Ô Seigneur, aie la bonté de m’aider à servir ton peuple et à guérir tes serviteurs. Avec ton aide, le remède que j’offrirai guérira toute maladie, deviendra une coupe d’eau vivifiante qui satisfera toute soif brûlante et un baume qui apaisera tout cœur aspirant à ta présence. Sans ton aide, tout ne sera qu’affliction, et je ne pourrai guérir quasiment aucune âme. 

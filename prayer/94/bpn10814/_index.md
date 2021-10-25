@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10814 in '
-tags = ['lang-94', 'bpn10814']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 *Pamene mulowa mchipinda chokumanira, nenani pemphero ili ndi mtima wogunda ndi chikondi cha Mulungu ndi lirime loyeretsedwa kuzonse koma chikumbukiro Chake, kuti Wamphamvu Zonseyo mwachifundo Akuthandizeni kupeza chipambano chachikulu: 
 

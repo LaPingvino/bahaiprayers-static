@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7428 in Polski'
-tags = ['lang-pl', 'bpn7428']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Uzdrowicielem, Wystarczającym, Pomagającym, Wszystko Przebaczającym, Wszechmiłosiernym.
     

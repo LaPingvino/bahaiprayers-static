@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9752 in Nederlands'
-tags = ['lang-nl', 'bpn9752']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 *”Deze dagelijkse verplichte gebeden en enkele andere speciale gebeden, zoals het Genezingsgebed en de Tafel van Aḥmad, zijn door Baha’u’llah met bijzondere kracht en betekenis bekleed en moeten daarom als zodanig worden aanvaard en door de gelovigen worden gereciteerd met onvoorwaardelijk geloof en vertrouwen, opdat zij steeds inniger in God zullen opgaan en zich steeds meer vereenzelvigen met Zijn wetten en voorschriften.” - Uit een brief geschreven namens Shoghi Effendi.
 

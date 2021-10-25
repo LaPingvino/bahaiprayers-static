@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6581 in 한국어'
-tags = ['lang-ko', 'bpn6581']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 저희들은 모두 죄인
 

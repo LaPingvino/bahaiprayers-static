@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12256 in '
-tags = ['lang-95', 'bpn12256']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Tavaeega e io Koe, O te Aliki toku Atua!  Au e akai kia Koe e auala atu i Tou Gali mai i te Favavau pela foki mo Tou Igoa Tafasili ite 
 Takutakua, Tela a Koe ko oti ne ofo ko latou katoa e nofo i Tou lalolagi mo te lagi e mafai o toe fanau foou mai, kae Tela ne pei kite fale-puipui ne Koe ko te ma ko tino ke mafai, pela mese alofaaga o Tou maukoloa mo Tou nofoaiga-a-tupu e mafai, o tala mai i te faka-pagota o olotou fiafiaaga masei mo manakoga faitogafiti, ke llau au mo latou ko la e manava poko ki te manogi o Tou alofafakamagalo, kae fakavave atu i se makini pela mo vaai ola o Tou alofatauanoa, kola e seai ne matasana e mafai o fakalavelave a latou o fuli atu kia Koe, io me se matatao e mafai o fuli atu a olotou mata ki te tulaga o Tau Fakaasiiga.  

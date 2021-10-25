@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6420 in Cymraeg'
-tags = ['lang-cy', 'bpn6420']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O fy Nuw, mae gwrthrych Dy ymddiriedaeth wedi ei ddychwelyd atat. Mae'n gweddu i Dy ras a Dy gyfoeth,
 sydd wedi cwmpasu Dy deyrnasoedd ar y ddaear ac yn y nef,i gyflwyno Dy roddion a dy anrhegion a ffrwythau coeden Dy ras i'r newydd-ddyfodiad i'th deyrnas.

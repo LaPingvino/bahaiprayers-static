@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4495 in Filipino'
-tags = ['lang-tl', 'bpn4495']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Ikaw na mahabaging Panginoon! Nilalang Mo ang lahat ng sangkatauhan buhat sa iisang pinagmulan. Nilalayon Mong lahat ay mabilang sa iisang sambahayan. Sa Iyong Banal na Harapan, silang lahat ay Iyong mga tagapaglingkod at lahat ng sangkatauhan ay sumisilong sa lilim ng Iyong Tabernakulo; lahat ay naiipon sa Iyong hapag ng pagpapala at nagniningning sa liwanag ng Iyong pagkukupkop.
 

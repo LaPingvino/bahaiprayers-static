@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10441 in Kiribati'
-tags = ['lang-gil', 'bpn10441']
+tags = ['lang-gil', 'bpn-unsorted']
 +++
 Kaotaki nakoia kaain te Bahá’í n Aonon Meangmainiku 
 *Te bubuti ae inano e kona ni warekaki irouia taan reirei ao raao ni katoa bong:

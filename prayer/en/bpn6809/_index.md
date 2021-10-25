@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6809 in English'
-tags = ['lang-en', 'bpn6809']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O my God, O my Lord, O my Master! I beg Thee to forgive me for seeking any pleasure save Thy love, or any comfort except Thy nearness, or any delight besides Thy good-pleasure, or any existence other than communion with Thee.
 

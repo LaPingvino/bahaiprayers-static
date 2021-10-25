@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7842 in Italiano'
-tags = ['lang-it', 'bpn7842']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 ##RIVELATA AI BAHÁ’Í DEL CANADA
 

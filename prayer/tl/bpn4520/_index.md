@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4520 in Filipino'
-tags = ['lang-tl', 'bpn4520']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Panginoon, aking Diyos at aking Kanlungan sa aking pagkabagabag! Aking Kalasag at aking Silungan sa aking mga salaghati! Aking Takbuhan at Taguan sa panahon ng pangangailangan at sa pangungulila ko ay aking Kasama! Sa aking pagdurusa ay Kaaliwan ko, at sa aking pag-iisa ay isang mapagmahal na kaibigan! Ang Tagapag-alis ng mga hapdi ng Aking kalungkutan at Tagapagpatawad ng aking mga kasalanan!
 

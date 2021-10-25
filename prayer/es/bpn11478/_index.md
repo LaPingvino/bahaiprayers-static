@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11478 in Español'
-tags = ['lang-es', 'bpn11478']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, mi Dios! Me he vuelto arrepentido hacia Ti y, verdaderamente, Tú eres el Perdonador, el Compasivo.
 ¡Oh Dios, mi Dios! He regresado a Ti y, verdaderamente, Tú eres Quien siempre perdona, el Bondadoso.

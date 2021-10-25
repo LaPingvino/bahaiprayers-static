@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7279 in Polski'
-tags = ['lang-pl', 'bpn7279']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie! Uczyń te dzieci wspaniałymi roślinami. Spraw, aby wzrastały i rozwijały się w Ogrodzie Twojego Przymierza i obdarz je świeżością i pięknem, dzięki potokom z chmur najwspanialszego Królestwa.
    

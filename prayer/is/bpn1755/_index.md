@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1755 in Íslenska'
-tags = ['lang-is', 'bpn1755']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Í nafni Hans, hins upphafna, hæsta og háleitasta!
 Dýrlegur ert Þú, ó Drottinn Guð minn! Ó Þú sem ert Guð minn og meistari, Drottinn minn og hjálparhella, von mín, athvarf og ljós. Ég bið Þig við Þitt hulda og dýrmæta nafn sem enginn þekkir nema Þitt eigið sjálf, að vernda þann sem ber þessa töflu frá sérhverri ógæfu og plágu, gegn sérhverjum vondum manni og konu, frá illsku illvirkjanna og ráðabruggi hinna vantrúuðu. Vernda hann einnig, ó Guð minn, gegn öllum sársauka og skapraun, ó Þú sem hefur í hendi Þér ríki allra hluta. Þú hefur sannarlega vald yfir öllu sem er. Þú gerir það sem Þér líst og ákvarðar það sem Þér þóknast.

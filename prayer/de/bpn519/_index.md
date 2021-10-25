@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn519 in Deutsch'
-tags = ['lang-de', 'bpn519']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Selig der Ort und das Haus und der Platz und die Stadt und das Herz und der Berg und das Obdach und die Höhle und das Tal und das Land und das Meer und die Insel und die Au, wo Gottes gedacht und Sein Lob gepriesen wird.
 

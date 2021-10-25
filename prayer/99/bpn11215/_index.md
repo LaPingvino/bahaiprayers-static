@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11215 in '
-tags = ['lang-99', 'bpn11215']
+tags = ['lang-99', 'bpn-unsorted']
 +++
 *Wakati wowote muingiapo chumba cha mashauriano semeni sala hii kwa moyo upumao na mapenzi ya Mungu na ulimi uliotakasika kutokana na vyote ila kumbukumbu Yake, ili kwamba Mwenye-uwezo wote aweze kwa neema kuwasaidia kupata ushindi mkuu: 
 

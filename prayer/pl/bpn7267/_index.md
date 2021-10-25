@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7267 in Polski'
-tags = ['lang-pl', 'bpn7267']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##KRÓTKĄ MODLITWĘ OBOWIĄZKOWĄ NALEŻY ODMAWIAĆ RAZ NA DOBĘ, W POŁUDNIE.
 

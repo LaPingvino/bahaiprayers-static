@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2255 in România'
-tags = ['lang-ro', 'bpn2255']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne! Cu adevărat, noi suntem
 slabi; fă-ne tari. Suntem săraci; ajută-ne din comoara bogăţiei Tale. Suntem morţi; înviorează-ne cu suflarea Sfântului Spirit. Ne lipseşte îndurarea şi răbdarea în încercări; îngăduie-ne să atingem luminile unicităţii. O, Doamne! Fă această adunare cauza înălţării stindardului unicităţii lumii umanităţii, şi confirmă aceste suflete astfel încât ele să poată deveni promotorii păcii internaţionale.

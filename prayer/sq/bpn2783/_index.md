@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2783 in Shqip'
-tags = ['lang-sq', 'bpn2783']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 *Premtimi i martesës, vargu që thuhet individualisht nga nusja dhe dhëndri në praninë e të paktën dy dëshmitarëve të pranueshëm për Asamblenë Shpirtërore është, siç afirmohet në Kitáb-i Akdas: "Ne të gjithë, me të vërtetë, i bindemi Vullnetit të Perëndisë."
 

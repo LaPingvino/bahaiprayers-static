@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6436 in Cymraeg'
-tags = ['lang-cy', 'bpn6436']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Dduw! Maga'r baban bychan hwn ym mynwes Dy gariad a rho iddo laeth o fron dy Ragluniaeth. Meithrin y planhigyn newydd hwn yng ngardd rhosod Dy gariad a chynorthwya ef i dyfu trwy gawodydd Dy haelioni. Gwna ef yn blentyn y Deyrnas ac arwain ef i'th deyrnas nefol. Tydi yw'r Rhoddwr, yr un Hael, Arglwydd haelioni dihafal.
 

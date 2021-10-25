@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6065 in Namibia'
-tags = ['lang-hz', 'bpn6065']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Ndjambi wandje! Kohorora omutima wandje. Tumununa nu jorokisa ombepo yandje. Jandiparisa omasa wandje. Nu avihe mbi metjiti meyandja momake wOye. Oove nguri omutjevere wandje nu omuyame wandje. Himeekara no ruhoze no mutima mbuanyaika rukuao, Ami merire omuutua wOye menyando na mondjoroka. 
 

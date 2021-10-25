@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8372 in Kalaallisut'
-tags = ['lang-kl', 'bpn8372']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Tassaavoq Ajorunnaarsitsisoq, taanna Naammassisitsisoq, Ikiorti, Tamanik Isumakkeerfiginnittoq, Tamanik Nallittuisoq. 
 

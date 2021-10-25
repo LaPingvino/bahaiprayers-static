@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3896 in Hrvatski'
-tags = ['lang-hr', 'bpn3896']
+tags = ['lang-hr', 'bpn-unsorted']
 +++
 DJECA
 

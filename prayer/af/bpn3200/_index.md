@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3200 in Afrikaans'
-tags = ['lang-af', 'bpn3200']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O God, my God! Ek het met berou na U gekeer, en voorwaar U is die Vryspreker, die Medelydende.
 

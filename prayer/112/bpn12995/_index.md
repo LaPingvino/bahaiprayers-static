@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12995 in '
-tags = ['lang-112', 'bpn12995']
+tags = ['lang-112', 'bpn-unsorted']
 +++
 *U’ura ma marek iyanupe wainapen.  Marek iyanupe aeni usu marek ae visen.  Iwa Maman iup megawa.  Namu pusin nanin ge ginan namun bigi warat amba toentanet tanam arige gambenaen yonat wat.
 

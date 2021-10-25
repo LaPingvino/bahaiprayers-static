@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12902 in Polski'
-tags = ['lang-pl', 'bpn12902']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie tak bogaty szczodrością, tak łaską przepełniony,
 Którego wiedza obejmuje mego serca i duszy najskrytsze strony!

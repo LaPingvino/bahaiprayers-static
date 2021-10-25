@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6318 in Namibia'
-tags = ['lang-hz', 'bpn6318']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 #EDILIRO
 ##(THE FAST)

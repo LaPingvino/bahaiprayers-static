@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5782 in Català'
-tags = ['lang-ca', 'bpn5782']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Reuniu-vos amb alegria sens màcula, i reciteu aquesta oració al principi de la reunió:
 

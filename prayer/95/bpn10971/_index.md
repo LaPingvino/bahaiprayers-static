@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10971 in '
-tags = ['lang-95', 'bpn10971']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 *(Naw-Rúz, Mati 21, ko tea so mua o tausaga Bahá'í)
 E tavaeegina a Koe, O toku Atua. Ona ko oti ne  fakatonu mai ne Koe ko Naw-Ruz ke pe la me se kaiiga faka-manatu kia latou ko la ne faka-manatu ne latou a te Anapogi ona ko te alofa mo Koe kae fakaseai mai ia latou a mea katoa ko la e see lei kia Koe.  Tuku ifo, O te Aliki, ko te afi o Tou alofa mo te vela ne mafua mai i te Anapogi ka sokotasi ne Koe ke velasia latou i Tau Fakatokaaga, kae fai latou ke saga fua ki Ou tavaeega mo te masausauaaga o Koe.

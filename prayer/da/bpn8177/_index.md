@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8177 in Dansk'
-tags = ['lang-da', 'bpn8177']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Når som helst I går ind i rådsværelset fremsig da denne bøn med et hjerte, der banker af Guds kærlighed, og en tunge renset for alt undtagen ihukommelse af Ham, at Den Almægtige nådigt kan hjælpe jer til at opnå højeste sejr.
 

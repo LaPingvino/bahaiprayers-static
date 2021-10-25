@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6557 in 한국어'
-tags = ['lang-ko', 'bpn6557']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 그대들은 합금이 아닌 순금의 기쁨 속에 함께 모여서, 회의 서두에 이 기도를 낭송하라:
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4537 in Filipino'
-tags = ['lang-tl', 'bpn4537']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 *Sinasabi ng Aqdas: “Inuutusan Namin kayo na manalangin at mag-ayuno mula sa pagsapit sa hustong gulang (15 taon); ito ay iniuutos ng Diyos, ang inyong Panginoon at ang Panginoon ng inyong mga ninuno... Ang manlalakbay, ang may karamdaman, yaong nagdadalantao o nagpapasuso, ay hindi nasasaklaw ng Pag-aayuno... Huwag kumain at uminom mula sa pagsikat ng araw hanggang sa paglubog ng araw, at mag-ingat na baka ang hangarin ay pagkaitan kayo ng pagpapala na ito na itinakda sa Aklat.” Ang panahon ng Pag-aayuno ay buhat sa Marso 2 hanggang Marso 20.
 

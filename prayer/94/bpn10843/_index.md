@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10843 in '
-tags = ['lang-94', 'bpn10843']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 *(Mapemphero ili limawerengedwa pa Manda a Bahá’u’lláh ndi Báb. Limagwiritsidwanso ntchito pokumbukira kubadwa kwa Bahá’u’lláh ndi Báb komanso kukumbukira kuwera kumwamba kwa Bahá’u’lláh ndi kuphedwa kwa Báb) 
 

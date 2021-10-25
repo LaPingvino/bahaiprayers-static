@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1197 in Português (BR)'
-tags = ['lang-pt', 'bpn1197']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Glória a Ti, ó Senhor do mundo e Desejo das nações, ó Tu que Te manifestastes com o Nome Supremo, por meio do qual as pérolas da sabedoria e das palavras surgiram das conchas do grande mar do Teu conhecimento, e os céus da revelação divina se adornaram com a luz do alvorecer do Teu Semblante.
 Peço-Te, por aquela Palavra em virtude da qual foram aperfeiçoadas as Tuas provas entre as Tuas criaturas e o Teu argumento entre os Teus servos, que fortaleças o Teu povo naquilo que torne radiante a face da Causa no Teu domínio, se estabeleçam os estandartes do Teu poder entre os Teus servos e se ergam as bandeiras da Tua orientação nas Tuas plagas.

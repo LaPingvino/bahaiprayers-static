@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5042 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5042']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Ridvan
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2320 in România'
-tags = ['lang-ro', 'bpn2320']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 *Această Tabletă se citeşte la mormintele lui Báb şi Bahá’u’lláh. De asemenea este folosită frecvent şi pentru comemorarea Înălţării lui Báb şi Bahá’u’lláh
 

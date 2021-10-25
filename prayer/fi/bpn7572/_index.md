@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7572 in Suomi'
-tags = ['lang-fi', 'bpn7572']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani! Oi Sinä syntien anteeksi antaja, lahjojen jakaja, kärsimysten karkottaja!
 Totisesti rukoilen Sinua suomaan synnit anteeksi niille, jotka ovat hyljänneet aineellisen asunsa ja nousseet henkiseen maailmaan.

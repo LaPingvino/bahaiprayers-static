@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn663 in Deutsch'
-tags = ['lang-de', 'bpn663']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 #EINMAL IN 24 STUNDEN, MITTAGS, ZU SPRECHEN
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9303 in Français'
-tags = ['lang-fr', 'bpn9303']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Ayyám-i-Há
 

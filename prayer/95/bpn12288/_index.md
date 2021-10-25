@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12288 in '
-tags = ['lang-95', 'bpn12288']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua! Fakafou kae faka-fiafia toku agaaga.  Fakamaa toku loto.  Fakamaina toku maalosi.  E tuku atu katoa ki Ou lima aku mea.  A Koe ko ko toku Takitaki mo toku Lafiiga.  Au ka se toe fanoanoa kae se-fiafia; Au ka fai me se tino fiafia kae lifu.  O te 
 Atua!  Au ka se toe sa pole-pole, io me talia ne au ne faka-lavelave ke pokotia au i ei.  Au ka se toe saga ki mea se lei o te olaaga.  

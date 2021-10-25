@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6849 in Kalaallisut'
-tags = ['lang-kl', 'bpn6849']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 ##Pinngitsoorani Qinnutissaq Naatsoq
 *Short Obligatory Prayer

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1228 in Português (BR)'
-tags = ['lang-pt', 'bpn1228']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Em Nome de Deus, o Supremo! Enaltecido e glorificado és, Senhor, Deus Omnipotente! Tu, diante de cuja sabedoria o sábio falha e se vê frustrado, ante cujo conhecimento o erudito confessa a sua ignorância, e diante de cujo poder o forte se afigura como fraco. O rico, em face da Tua riqueza, atesta a sua indigência; o esclarecido, ante a Tua luz, perde-se nas trevas; a essência de toda a compreensão volve-se para o relicário do Teu conhecimento e ao redor do santuário da Tua presença circulam as almas de toda a humanidade.
 Como, pois, poderei cantar e descrever a Tua Essência, a qual nem a sabedoria do sábio nem a erudição do erudito podem compreender, uma vez que homem algum pode cantar o que não compreende, nem relatar o que não tem capacidade para atingir, enquanto Tu, desde toda a eternidade, és o Inatingível, o Inescrutável. Incapaz que sou de me erguer aos céus da Tua glória e voar nos domínios do Teu conhecimento, apenas posso mencionar os Teus sinais, os testemunhos da Tua gloriosa obra.

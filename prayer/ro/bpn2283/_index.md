@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2283 in România'
-tags = ['lang-ro', 'bpn2283']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Tu mă vezi, o, Dumnezeul meu, plecat cu
 umilinţă, smeridu-mă înaintea poruncilor Tale, supunându-mă suveranităţii Tale, tremurând în faţa stăpânirii Tale, fugind de mânia Ta, implorând generozitatea Ta, bizuindu-mă pe iertarea Ta, tremurând de teama furiei Tale. Te implor cu inima vibrândă, cu ochii înlăcrimaţi şi cu sufletul plin de dor, şi în desăvârşită detaşare de toate lucrurile, să-i faci pe cei ce Te iubesc asemenea razelor de lumină scăldând tărâmurile Tale, şi să-i ajuţi pe slujitorii Tăi aleşi să-ţi preamărească Cuvântul, pentru ca feţele lor să poată deveni frumoase şi strălucitoare de splendoare, ca inimile lor să poată fi umplute de mistere, şi ca fiecare suflet să poată fi despovărat de păcat. Păzeşte-i atunci de agresor, de cel ce-a devenit un răufăcător neruşinat şi blasfemator.

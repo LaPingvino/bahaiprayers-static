@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10051 in Slovensky'
-tags = ['lang-sk', 'bpn10051']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Ty láskavý Pane! Celé ľudstvo si stvoril z rovnakej podstaty. Rozhodol si, že všetci budú náležať k rovnakému rodu. V Tvojej Svätej prítomnosti sú všetci Tvojimi služobníkmi a celé ľudstvo nachádza útočisko pod Tvojím svätostánkom. Všetci sa spolu zhromaždili pri Tvojom stole štedrosti. Všetkých rozjasňuje svetlo Tvojej prozreteľnosti.
 Ó Bože! Ty si ku všetkým láskavý, o všetkých si sa postaral, všetkých ochraňuješ, všetkým udeľuješ život. Každého jedného si obdaril nadaním a schopnosťami a všetci sú ponorení do oceánu Tvojho milosrdenstva.

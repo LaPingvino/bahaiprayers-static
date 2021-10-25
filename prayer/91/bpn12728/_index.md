@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12728 in '
-tags = ['lang-91', 'bpn12728']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Puji meh Nuan, O Tuhan Petara aku! Aku minta ngagai
 Nuan nengah Revelasyen tu ke alai pemetang udah ditukar enggau penampak, ke alai Kaaba Penyuah udah didirika, lalu Papan Tulis udah dipegarika, lalu Gulung Pengerembai udah dibuka, ngirum ke baruh ngagai aku enggau ngagai sida ti dalam raban aku utai ti deka ngasuh kami terebai ngagai serega ngelui mulia Nuan, lalu deka meresi kami ari pechik pengakang ti udah nekul orang ti sangka masuk ngagai panggau penyerakup Nuan.

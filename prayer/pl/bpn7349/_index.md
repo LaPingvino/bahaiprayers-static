@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7349 in Polski'
-tags = ['lang-pl', 'bpn7349']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Niech będzie wysławione Imię Twoje, o Panie, Boże nasz! Tyś zaprawdę jest Znającym rzeczy niewidzialne. Przeznacz nam takie dobra, jakie wyznaczyć może Twa wszechogarniająca wiedza. Tyś jest wszechwładnym Panem, Wszechmocnym i Najbardziej Umiłowanym.
    

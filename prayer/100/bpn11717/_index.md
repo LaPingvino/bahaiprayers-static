@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11717 in '
-tags = ['lang-100', 'bpn11717']
+tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Allah, ka sanyaya, kuma ka farinta rūhuna. Tsarkaka zūciyāta. Haskaka hankalīna. Nā damƙa dukan al’amurāna cikin hannunka. Kai nē shūgabāna da maɓūyata. Bā nā son zama cikin baƙin rai da hushi. Nā fi son zama cikin farin ciki da murna. 
 Yā Ubangijina, bā ni son zato da azāba su māmāye ni.

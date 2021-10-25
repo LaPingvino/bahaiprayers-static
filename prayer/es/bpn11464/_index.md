@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11464 in Español'
-tags = ['lang-es', 'bpn11464']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Loado sea Tu Nombre, oh Señor nuestro Dios! Tú eres, en verdad, el Conocedor de lo invisible. Ordena para nosotros todo el bien que determine Tu conocimiento que todo lo abarca. Tú eres el supremo Señor, el Todopoderoso, el Bienamado.
 ¡Toda alabanza sea para Ti, oh Señor! Pediremos Tu gracia en el Día señalado y pondremos toda nuestra confianza en Ti, que eres nuestro Señor. ¡Glorificado eres, oh Dios! Concédenos aquello que sea bueno y apropiado para que podamos prescindir de todo excepto de Ti. Verdaderamente, Tú eres el Señor de todos los mundos.

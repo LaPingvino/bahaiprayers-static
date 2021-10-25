@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8532 in 简体中文'
-tags = ['lang-zh-Hans', 'bpn8532']
+tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 我的主啊！我向祢寻求庇护，对祢的一切征象全神贯注。
 主啊！无论居家或旅行，从事职业或工作，我都全心全意，对祢无比信从。

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9665 in Nederlands'
-tags = ['lang-nl', 'bpn9665']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 ##Geopenbaard aan de bahá’ís van de Verenigde Staten en Canada
 

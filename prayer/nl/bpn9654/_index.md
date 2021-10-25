@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9654 in Nederlands'
-tags = ['lang-nl', 'bpn9654']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, Gij die de Auteur van alle Manifestaties zijt, de Bron aller bronnen, de Wel aller openbaringen en de Oorsprong aller lichten! Ik betuig dat door Uw Naam de hemel van begrip werd getooid, en de oceaan van woorden is aangezwollen, en de beschikkingen van Uw voorzienigheid aan de volgelingen van alle religies zijn verkondigd.
 Ik smeek U mij zo te verrijken dat alles buiten U overbodig wordt en ik onafhankelijk van eenieder buiten Uzelf word. Laat dan uit de wolken van Uw milddadigheid datgene op mij neerregenen wat mij in elk van Uw werelden zal baten. Sta mij dan door Uw sterkende genade bij Uw Zaak zo onder Uw dienaren te dienen dat ik datgene zal betonen waardoor ik herinnerd zal worden zolang Uw eigen koninkrijk voortduurt en Uw heerschappij standhoudt.

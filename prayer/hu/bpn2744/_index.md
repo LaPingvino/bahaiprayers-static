@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2744 in Magyar'
-tags = ['lang-hu', 'bpn2744']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ezen ima eredetije a Báb saját keze által íródott pentagram formában.
 

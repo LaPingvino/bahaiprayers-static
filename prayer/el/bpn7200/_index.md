@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7200 in ελληνικά'
-tags = ['lang-el', 'bpn7200']
+tags = ['lang-el', 'bpn-unsorted']
 +++
 Αυτός είναι ο Ισχυρός, ο Συγχωρών, ο Φιλεύσπλαχνος!
 

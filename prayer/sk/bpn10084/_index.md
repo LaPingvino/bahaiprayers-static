@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10084 in Slovensky'
-tags = ['lang-sk', 'bpn10084']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 #Modlitby za učenie Viery z Tabuliek Božského Plánu
 ##Zjavené pre bahájov USA a Kanady

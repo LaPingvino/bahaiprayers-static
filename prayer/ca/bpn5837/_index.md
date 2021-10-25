@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5837 in Català'
-tags = ['lang-ca', 'bpn5837']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Revelat Als Bahá’ís Dels Estats Meridionals
 

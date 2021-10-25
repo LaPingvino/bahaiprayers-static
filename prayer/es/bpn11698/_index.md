@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11698 in Español'
-tags = ['lang-es', 'bpn11698']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 *Esta oración, revelada por ‘Abdu’l-Bahá, se lee en Su Santuario. También se usa como oración pri-vada.
 *«Aquel que recite esta oración con humildad y fervor traerá alegría y regocijo al corazón de este Siervo; será como si se encontrase cara a cara con Él».

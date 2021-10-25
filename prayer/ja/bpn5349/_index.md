@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5349 in 日本語'
-tags = ['lang-ja', 'bpn5349']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 #短い日々の必須の祈り
 　##　　     (日に一度、昼に唱える)

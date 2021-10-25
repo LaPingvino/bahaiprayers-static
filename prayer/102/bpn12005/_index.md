@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12005 in '
-tags = ['lang-102', 'bpn12005']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’äl-Äbha.
     Barhudaýa! Köňlümde hem ruhumda Seniň razylygyň arzuwyndan başga hiç myradym ýokdyr we Seniň ähdi-peýman meýlisiňden özge ýerde ýol hem wysal gözlemeýändigime Sen şaýat hem ägäsiň. Gije-gündiz Seniň derdiň dertkeşi men, gije-gündiz seň tygyňdan, Seň okuňdan ýaraly men. Seniň röwşen Melekutyňdan başga ýerde aglamaryn. Seniň ýalňyzlygyň daldawundan özge ýerden aman soramaryn. Men bigäneden bizar bolup diňe Seniň dostlugyňa köňül bagladym. Özgelerden aryp, ownuklardan daşlaşdym.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4442 in Filipino'
-tags = ['lang-tl', 'bpn4442']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Hindi ko batid, O aking Diyos, kung ano ang Apoy na pinagningas Mo sa Iyong lupain. Hindi kailanman matatabingan ng daigdig ang ningning niyon, ni mapapatay ng tubig, ang apoy niyon. Lahat ng tao sa daigdig ay walang kakayahang makalaban sa lakas niyon. Malaki ang pagpapala niya na nakalapit doon at nakarinig sa dagundong niyon.
 

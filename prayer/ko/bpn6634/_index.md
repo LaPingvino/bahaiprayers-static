@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6634 in 한국어'
-tags = ['lang-ko', 'bpn6634']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 사방에서 영혼들을 공격하는 병을,
 그들의 시선을 낙원으로 향하지 못하게 하는 병을,

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10362 in Svenska'
-tags = ['lang-sv', 'bpn10362']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Denna skrift läses vid Bahá’u’lláhs och Bábs gravhelgedomar. Den används även ofta på deras åminnelsedagar.
 Låt den lovsång som brutit fram från Ditt mest vördnadsvärda Jag och den härlighet som lyst fram från Din mest strålande skönhet vila över Dig, o Du som är Storhetens uppenbarare och Evighetens konung och Herren över alla som är i himmelen och på jorden! Jag vittnar om, att genom Dig uppenbarades Guds överhöghet och Hans herravälde, Guds majestät och Hans storhet, och att den urgamla praktens morgonstjärnor har spridit sin strålglans i Ditt oåterkalleliga påbuds himmel och den Osynliges skönhet lyst fram över skapelsens horisont. Jag vittnar dessutom om att Du, med blott ett penndrag, har genomdrivit Din befallning ”Varde!” och avslöjat Guds dolda hemlighet, kallat till liv allt skapat och sänt ned alla uppenbarelserna.

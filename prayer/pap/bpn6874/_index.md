@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6874 in Papiamentu'
-tags = ['lang-pap', 'bpn6874']
+tags = ['lang-pap', 'bpn-unsorted']
 +++
 *Blessed is the spot…
 

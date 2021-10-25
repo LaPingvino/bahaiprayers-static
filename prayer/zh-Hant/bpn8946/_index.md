@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8946 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8946']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 這篇由阿博都—巴哈所啟示的禱文應在祂陵殿前吟誦，也可以作為私用禱文。
 

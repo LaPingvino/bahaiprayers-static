@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3159 in Afrikaans'
-tags = ['lang-af', 'bpn3159']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O U vriendelike Here! U het die hele mensheid van dieselfde oorspronklike stam geskape. U het verorden dat almal aan dieselfde huishouding sal behoort. In U Heilige Teenwoordigheid is hulle almal U dienaars, en die hele mensdom word onder U Tabernakel beskut; almal het aan U Tafel van Mildheid bymekaar gekom; almal is verlig deur die lig van U Voorsiening.
 

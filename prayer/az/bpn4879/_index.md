@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4879 in Azərbaycan'
-tags = ['lang-az', 'bpn4879']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey mehriban Allah! Bu əziz kənizin Sənə cəzb olunmuşdu, ağıl və fəhmi ilə Sənin görüşünə yetişməyə və Sənin səltənətinə daxil olmağa müştaq idi. Gözləri yaşlı, üzünü sirlər səltənətinə tutmuşdu. Neçə-neçə gecələr sənə dua və münacatla məşğul idi, neçə-neçə gündüzlər Sənin zikrinlə həmdəm və munis olmuşdu. Hec bir səhər Səndən qafil olmamış, hec bir axşam Səni fikrindən çıxarmamışdı. Xoş avazlı bülbül kimi, o Sənin müqəddəs ayələrini oxuyurdu və bir ayna kimi, Sənin işığını əks etdirmək istəyirdi.
 

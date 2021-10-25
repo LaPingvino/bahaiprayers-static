@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12157 in '
-tags = ['lang-104', 'bpn12157']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 *”Perkahwinan Bahá'í adalah penyatuan dan kasih mesra antara dua pihak. Mereka haruslah, sesungguhnya, amat berhati-hati dan membiasakan diri dengan perwatakan satu sama yang lain. Ikatan abadi ini haruslah diteguhkan oleh satu waadat yang kukuh dan niatnya haruslah untuk memupuk keharmonian, persahabatan dan kesatuan serta untuk mencapai kehidupan abadi.”
 

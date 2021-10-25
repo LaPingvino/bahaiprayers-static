@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4838 in Azərbaycan'
-tags = ['lang-az', 'bpn4838']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ey aləmin Rəbbi və millətlərin Məqsudu, Sən Ey Ən Böyük Adla zühur edən, o Ad ki, Onunla hikmət və bəyan gövhərləri Sənin irfan dənizinin sədəflərindən aşkara çıxdı və Sənin ilahi vəhy səmaların Sənin üzünün günəşinin şəfəqlərilə zinətləndi.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10345 in Svenska'
-tags = ['lang-sv', 'bpn10345']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Herre, min Gud och min tillflykt i min sorg! Mitt värn och mitt skydd i mitt lidande! Min fristad och mitt fäste i tider av nöd och min ledsagare i ensamheten! Min tröst i min vånda och en vän, som älskar mig i min ensamhet! Befriaren från mina sorgers kval  och förlåtaren av mina synder!
 Jag vänder mig helt till Dig och bönfaller Dig med brinnande hjärta, med sinne och tunga att skydda mig från allt, som står Din vilja emot i denna Din gudomliga enhets tid och att rena mig från all orenhet, som hindrar mig att fläckfri och obesudlad söka mig in i skyddet av Din nåds träd.

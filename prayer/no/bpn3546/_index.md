@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3546 in Norsk'
-tags = ['lang-no', 'bpn3546']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 Han er den medlidende, den overmåte gavmilde!
  

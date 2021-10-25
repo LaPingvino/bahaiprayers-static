@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12678 in '
-tags = ['lang-91', 'bpn12678']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 O Petara aku! O Nuan pengampun dosa, ti ngenataika pemeri, pemuai semua pemedis!
 Amat bendar, aku minta Nuan ngampun dosa sida ti udah ninggalka gari dunya tu lalu udah niki ngagai dunya semengat.

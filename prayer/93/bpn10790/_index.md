@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10790 in '
-tags = ['lang-93', 'bpn10790']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 *TREBA  DA  SE  IZGOVARA  SVAKOG  DANA  UJUTRO, U  PODNE, I  UVEČE
 

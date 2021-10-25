@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10455 in Kiribati'
-tags = ['lang-gil', 'bpn10455']
+tags = ['lang-gil', 'bpn-unsorted']
 +++
 #Tabureti ibukin Karamera
 

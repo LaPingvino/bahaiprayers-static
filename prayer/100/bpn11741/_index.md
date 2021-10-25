@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11741 in '
-tags = ['lang-100', 'bpn11741']
+tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Allāna ! Yā Allāna !
 Haɗa zukācen bāyinka, kuma ka bayyana musu nufinka mai girma. Dā dai su bi umurninka, kuma su kiyāye dōkōkinka ! Taimakar su, yā Allāna, a cikin ƙōƙarinsu, kuma ka bā su ƙarfin bautā maka.

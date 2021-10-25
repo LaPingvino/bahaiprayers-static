@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12930 in '
-tags = ['lang-110', 'bpn12930']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 ##SOTPELA PREA BILONG KOLIM LONG OLGETA WAN WAN DE 
  

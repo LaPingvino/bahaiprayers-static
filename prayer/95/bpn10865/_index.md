@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10865 in '
-tags = ['lang-95', 'bpn10865']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 E vikia Tou Igoa, O te Aliki te motou Atua!  A Koe i te tonuuga ko te Iloa o mea se laavea.  Aumai kia matou a te llei ko Tou poto katoatoa e mafai o iloa.  A Koe ko te Aliki maluga, ko te Mafi-Katoatoa, ko te Toe Fagasele.
      Tavaeega katoa e o Koe, O te Aliki!  Ka sala ne matou a Tou alofa ite Aso fakapatino kae ka fakalagolago katoa kia Koe, Tela ko Ia a te motou Aliki. Ko oti ne faka-mana a Koe, O te Atua!  Tuku mai kia matou a te llei mo me ko la e ttau ke mafai o fakaseai a mea katoa na ko Koe.  E tonu, a Koe ko te Aliki o lalolagi katoa.

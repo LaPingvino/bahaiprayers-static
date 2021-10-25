@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7281 in Polski'
-tags = ['lang-pl', 'bpn7281']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Boże, prowadź mnie, ochraniaj mnie, uczyń mnie świecącą lampą i promienną gwiazdą. Tyś jest Mocnym i Potężnym.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12965 in '
-tags = ['lang-110', 'bpn12965']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 *Man na meri, taim tupela i laik marit, wan wan i mas autim Tok Promis bilong Marit long ai bilong tupela pesman, husat Spiritual Asembli bilong Ples i bin makim.  Bahá’íullÆh i bin raitim dispela Tok Promis bilong Marit insait long Buk i Holi Tru, em Kitab-i-Aqdas, olsem: 
  

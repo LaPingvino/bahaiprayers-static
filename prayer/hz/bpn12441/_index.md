@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12441 in Namibia'
-tags = ['lang-hz', 'bpn12441']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Ondi shi shi, Kalunga kange, kutya Ove wa shitange ndi ku shive ndikulinyongamene. Oha ndi hokolola, pefimbo eli, moungone wange, no mo lwenghono doYe, moluhepo lange, omo lwoupuna woYe. 
 	Kapena nande Kalunga umwe, Ove auke Kalunga, Omukwafi wo moudyu, ou iho pumbwasha nande.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12655 in '
-tags = ['lang-91', 'bpn12655']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Awakka sida ti ngerembaika bau rengut Petara nyebut sambiang tu tiap pagi.
  	O Tuhan, Petara aku! Puji sereta terima kasih ngagai

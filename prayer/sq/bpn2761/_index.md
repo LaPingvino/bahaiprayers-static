@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2761 in Shqip'
-tags = ['lang-sq', 'bpn2761']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 Lutje që duhet thënë në mbyllje të mbledhjes së Asamblesë Shpirtërore:
 

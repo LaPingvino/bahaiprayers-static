@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11801 in '
-tags = ['lang-101', 'bpn11801']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 Daang Adon Raja Ingan, dek Pimotan, dek Agong, dek Paling-Pinyukup, dek Bigatung Omu, Iyoh Nyaa dek pinulung-eh dek ngugai sua manusia.
 Sobot leh: O Topa ku! O Ingan Nyaa dek Tukang Nai surga bia geh tanak, O Raja Pritah Topa! Ingan dek lobih pu’ant rahsia-rahsia otin ku, sedang kan Wujud Ingan dik tungang obuah ngiloti tudu dek sua-sua jok Odop Ingan. Ingan kilint oni sija pasal oku, sedangkan doie nyaa dibokon dek ponai wat noh jok-eh Ingan. Murah otin tudu oku, pakai sok budi Ingan, onik dek odak oku dik-eh perlu duwoh dek sua-sua jok-eh Ingan, bia notu sa’ant ku onik dek yak odak oku biladik sok sua nyaa dibokon luar sok Ingan. Ngibonar sak ku nugung pingutung idip ku daang dunya tih bia dek dikan. Bitanga tudu jowin ku tiban-tiban budi Ingan, bia dengan sudi pisoh tudu tunt ku tulut pirasie Ingan bia pah pala.

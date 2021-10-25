@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2794 in Shqip'
-tags = ['lang-sq', 'bpn2794']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Perëndia im dhe Mjeshtri im! Unë jam shërbëtori Yt e bir i shërbëtorit Tënd. Unë u ngrita nga shtrati në këtë vakt mëngjesi, kur Ylli i Ditës i Njëshmërisë Sate ka shkëlqyer nga Agimi i vullnetit Tënd, duke derdhur shkëlqimin e vet mbi botën mbarë, në përputhje me atë që është urdhëruar në Librat e Dekretit Tënd.
 

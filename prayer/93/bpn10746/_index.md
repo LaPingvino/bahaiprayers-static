@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10746 in '
-tags = ['lang-93', 'bpn10746']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 *Kadagod uđete u salu za savetovanje, izgovorite ovu molitvu srcem koje bije ljubavlju prema Bogu i jezikom pročišćenim od svega osim Njegovog pomena, kako bi vam Svemoćni milostivo pomogao da ostvarite vrhunsku pobedu.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7471 in Polski'
-tags = ['lang-pl', 'bpn7471']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 To są, o mój Boże, te dni, w których Tyś nakazał sługom swoim zachowywać Post. Tyś ozdobił nim wstęp do Księgi swoich Praw, objawionej Twoim stworzeniom i przystroił Skarbnice swoich przykazań wobec wszystkich, którzy są w Twoim niebie, i wszystkich, którzy są na Twej ziemi. Tyś obdarzył każdą godzinę tych dni wyjątkową zaletą, nieprzeniknioną dla nikogo poza Tobą, którego wiedza ogarnia wszystkie stworzone rzeczy. Tyś także przydzielił każdej duszy cząstkę tej zalety, zgodnie z Tablicą swego wyroku i Pismami swojego nieodwołalnego orzeczenia. Ponadto, każdą stronicę tych Ksiąg i Pism przeznaczyłeś dla każdego z ludów i rodów ziemi.
     

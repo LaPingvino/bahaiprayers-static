@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3489 in Norsk'
-tags = ['lang-no', 'bpn3489']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 *Fremsies daglig, morgen, middag og aften.
 *La den som ønsker å be, vaske hendene, og mens han vasker dem, la ham si:

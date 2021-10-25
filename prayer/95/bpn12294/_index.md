@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12294 in '
-tags = ['lang-95', 'bpn12294']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O Koe ko te Fakasoasoa!  Ko oti a Koe ne manava mai i luga i taugasoa i te Togala a te manogi gali o te Agaaga Tapu, kae mai i te mainaaga o te takitakiiga faka-te-lagi ko oti ne fakamaina ne koe a te lagi ite toigala.  Ko oti ne fai ne Koe a latou ko la ne mao ke fakapilipili atu kia Koe; latou ko la ne tino foou ke fai pe la me ne taugasoa fakapelepele; Ko oti ne fago aka ne Koe a latou ko la ne moe; Ko oti ne fai ne koe a latou ko la se fakalogo ke fakalogo.  
   

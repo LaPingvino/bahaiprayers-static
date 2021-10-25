@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4969 in العربية'
-tags = ['lang-ar', 'bpn4969']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 هُو اللّه
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11977 in '
-tags = ['lang-102', 'bpn11977']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’Alla.
     Barhudaýa! Seniň ýaranlaryňy ýatlamakdan, ýekeje dem asuda däldigimi, olaryň zikri bilen dem alýandygymy hem olaryň didaryndan başga arzuwymyň ýokdygyny görýänsiň. Sen bu zatlara ägä we danasyň. Olaryň söýgüsinden janym rahat tapar we olaryň didaryndan wyjdanym şatlyga ýeter.

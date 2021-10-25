@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2103 in România'
-tags = ['lang-ro', 'bpn2103']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 De spus o dată pe zi
 

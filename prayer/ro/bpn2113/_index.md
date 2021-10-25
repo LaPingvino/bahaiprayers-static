@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2113 in România'
-tags = ['lang-ro', 'bpn2113']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lăudat şi slăvit eşti Tu, o, Dumnezeul meu! Te implor, întru suspinele celor ce Te iubesc şi întru lacrimile vărsate de cei plini de dorul de a Te vedea, să nu îndepărtezi de mine blândele Tale milostiviri în Ziua Ta, nici să nu mă lipseşti de melodiile Porumbiţei care preamăreşte unicitatea Ta înaintea luminii ce străluceşte dinspre faţa Ta. Eu sunt cel care se află în mizerie, o, Dumnezeule! Priveşte-mă ţinându-mă strâns de Numele Tău, Cel Atotstăpânitor. Eu sunt cel care va pieri cu siguranţă; priveşte-mă cum mă agăţ de Numele Tău, Cel Nepieritor. Te implor, de aceea, întru Numele Tău, Cel Slăvit, Cel Preaînalt, să nu mă părăseşti mie însumi şi dorinţelor unei înclinaţii corupte. ţine-mă de mână cu mâna puterii Tale, eliberează-mă din adâncurile închipuirilor şi plăsmuirilor mele deşarte şi curăţă-mă de tot ce nu-ţi este pe plac.
 

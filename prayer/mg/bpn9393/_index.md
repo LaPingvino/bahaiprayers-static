@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9393 in Malagasy'
-tags = ['lang-mg', 'bpn9393']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ô Ianao, ry Tompon’ny Hatsaram-panahy! Zavatra iray ihany no manoronanao ny zanak’olombelona rehetra. Ianao no namoaka didy fa ny rehetra dia avy amin’ny fianakaviana iray. Eo anoloan’ny Fanatrehanao Masina dia mpanomponao izy rehetra ary mialoka eo ambanin’ny taberinakelinao ny zanak’olombelona rehetra; mivondrona manodidiana ny latabatry ny Famindramponao izy rehetra; ary samy hazavain’ny fahazavan’ny Fitahianao izy rehetra.
 Ry Andriamanitro ô! Ianao ilay mora fo amin’ny olona rehetra. Mamelona ny tsirairay Ianao; manome akanim-pialofana ho an’ny rehetra; manome aina azy ireo. Notoloranao fahaizana sy talenta ny rehetra ary ny rehetra dia difotry ny ranomasimben’ny Famindramponao. 

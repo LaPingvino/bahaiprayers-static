@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4632 in հայերեն'
-tags = ['lang-hy', 'bpn4632']
+tags = ['lang-hy', 'bpn-unsorted']
 +++
 #Աստվածային Նախասահմանման Հուշատախտակներից
 

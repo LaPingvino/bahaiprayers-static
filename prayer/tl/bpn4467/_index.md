@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4467 in Filipino'
-tags = ['lang-tl', 'bpn4467']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Diyos, O Diyos! Nakikita Mo ang aking kahinaan, kababaan at pagkahamak sa harap ng Iyong mga nilalang; gayon man ay nagtiwala ako sa Iyo at nagbangon sa pagpapalaganap ng Iyong mga Turo sa Iyong malalakas na tagapaglingkod, nananangan sa Iyong lakas at kapangyarihan!
 

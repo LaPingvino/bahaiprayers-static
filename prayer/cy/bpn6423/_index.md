@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6423 in Cymraeg'
-tags = ['lang-cy', 'bpn6423']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Ti, y Duw Dihafal!  O Ti Brenin y Deyrnas!  Yr eneidiau hyn yw Dy fyddin nefol.  Cynorthwya hwynt, a chyda minteiau’r Llu Goruchaf, gwna hwynt yn fuddugol; fel y bo pob un ohonynt megis catrawd, a gorchfyga’r gwledydd hyn yn rhinwedd cariad Duw a goleuni’r ddysgeidiaeth ddwyfol.
 O Dduw!  Bydd Di’n gymorth ac yn gynorthwy iddynt, ac yn yr anialdir, y mynydd, y dyffryn, a’r goedwig, y paith a’r moroedd bydd Di’n ymddiriedwr iddynt – fel y caffont weiddi allan trwy rym y Deyrnas a thrwy anadl yr Ysbryd Glân!  Yn wir Tydi yw’r Grym, y Nerth a’r Hollalluog, a Thi yr Un Doeth, y Gwrandawr a’r Canfyddwr.

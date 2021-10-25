@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1294 in Português (BR)'
-tags = ['lang-pt', 'bpn1294']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Senhor! A Ti recorro para refúgio e a todos os Teus sinais dirijo o meu coração.
 Ó Senhor! Esteja eu a viajar ou em casa, quer esteja ocupado no meu trabalho ou em qualquer atividades, em Ti deposito a minha inteira confiança.

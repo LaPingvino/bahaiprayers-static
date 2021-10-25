@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9284 in Français'
-tags = ['lang-fr', 'bpn9284']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu de miséricorde, toi qui es fort et puissant ! 
 Ô Père très bon, voici tes serviteurs réunis et tournés vers toi, suppliants devant ton seuil, désireux d’obtenir les inépuisables faveurs que tu leur as promises. Ils n’aspirent qu’à se conformer à ton bon plaisir, à servir l’humanité.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12357 in '
-tags = ['lang-95', 'bpn12357']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Faka-lauefagina a Tou igoa, O Koe te la ei Ou lima ko agaaga o latou katoa ko la e matea ne latou a Koe, kae i Tou lima fakaatamai ko te fakaotiga o latou katoa ko la i te lagi mo latou ko la i te lalolagi!  E fai ne Koe, i te maalosi o Tou mafi, a te mea e loto Koe ki ei, i se faiga o Tau filifiliiga, a te mea e fiafia Koe ki ei.  A loto o toe tagata loto faigata e seai se aogaa ma fai e fakatusa ki faka-maoniiga maalosi o Tou finagalo, mo loto fui fai o latou ko la e faigata ia latou o mafulifuli mai i luga i Au mea faiite e olo fua o malepelepe i mua o faka-asiiga se lausia o Tou finagalo.     
   

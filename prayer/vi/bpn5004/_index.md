@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5004 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5004']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 *(Những ngày xen kẽ  - dư nhật  - từ 26 tháng 2 đến hết 1 tháng 3, gồm thành thời kỳ chuẩn bị Trai giới. Những ngày này dành cho việc ái hữu, bác ái và tặng quà).
 

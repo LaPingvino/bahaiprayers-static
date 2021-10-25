@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12978 in '
-tags = ['lang-110', 'bpn12978']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 ##Naw Ruz
 

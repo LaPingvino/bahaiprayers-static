@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9185 in Français'
-tags = ['lang-fr', 'bpn9185']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, mon Dieu, ta servante t’invoque, plaçant sa confiance en toi et tournant son visage vers toi. Elle t’implore de répandre sur elle tes célestes bienfaits, de lui révéler tes mystères spirituels et de diriger vers elle les lumières de ta divinité.
 Ô mon Seigneur, ouvre les yeux de mon mari. Réjouis son cœur par la lumière de la connaissance de toi, attire son âme vers ta beauté lumineuse et conforte son esprit en lui révélant tes splendeurs manifestes.

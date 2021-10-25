@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9737 in Nederlands'
-tags = ['lang-nl', 'bpn9737']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 *Gebed om bij de sluiting van de vergadering van de Geestelijke Raad te zeggen.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6633 in 한국어'
-tags = ['lang-ko', 'bpn6633']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 주님을 굳게 붙들고 주님께 되돌아온 그를
 

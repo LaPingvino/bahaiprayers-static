@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7970 in Malti'
-tags = ['lang-mt', 'bpn7970']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 Kull tifħir, O Alla tiegħi, lileK Li int il-Għajn ta’ kull glorja u maestà, ta’ kobor u ġieh, ta’ saltna u ħakma, ta’ ġħoli u grazzja, ta’ biża’ mqejjem u qawwa. Lil kulmin Inti trid Int iġġagħlu jinġibed lejn l-Akbar Oċejan, u fuq min Inti tixtieq Int issawwab il-ġieh li jagħraf l-Eqdem Isem tiegħeK. Minn dawk kollha li jinsabu fis-sema jew fuq l-art, ħadd ma jista’ għal tħaddim ir-Rieda tiegħeK sultana. Sa minn dejjem Int mexxejt il-ħolqien kollu, u Int tissokta għal dejjem tħaddem il-ħakma tiegħeK fuq il-ħwejjeġ kollha maħluqa. M’hemmx Alla iehor għajrek, is-Setgħani, l’Aktar Għoli, il-Qawwi f’Kollox, il-Għaref f’Kollox.
 

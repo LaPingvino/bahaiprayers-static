@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8081 in Dansk'
-tags = ['lang-da', 'bpn8081']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 O Du gode Herre! Du har skabt hele menneskeheden fra den samme stamme. Du har bestemt, at alle skal tilhøre den samme slægt. I Din hellige nærværelse er de alle Dine tjenere, og hele menneskeslægten er skærmet under Dit tabernakel; alle er samlet ved Din gavmildheds bord; alle er oplyst af Dit forsyns lys.
 

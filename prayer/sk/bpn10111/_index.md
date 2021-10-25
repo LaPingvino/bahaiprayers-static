@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10111 in Slovensky'
-tags = ['lang-sk', 'bpn10111']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 Stretávajte sa s radosťou v srdciach a na začiatku stretnutia predneste túto modlitbu:
 

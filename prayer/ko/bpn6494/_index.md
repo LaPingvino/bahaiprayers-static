@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6494 in 한국어'
-tags = ['lang-ko', 'bpn6494']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 이 두 밝은 달이, 이 결혼이
 

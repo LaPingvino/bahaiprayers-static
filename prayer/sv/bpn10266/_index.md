@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10266 in Svenska'
-tags = ['lang-sv', 'bpn10266']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Hur kan jag välja sömnen, o min Gud, när  de längtandes ögon vakar för att de är skilda från Dig, och hur kan jag gå till vila medan Dina älskades själar pinas svårt i sin avlägsenhet från Din närvaro?
 Jag har anförtrott, o min Gud, min ande och hela mitt väsen i Din makts högra hand och i Ditt beskydd, och jag lägger mitt huvud på kudden genom Din kraft och lyfter det upp i enlighet med Din vilja och Ditt behag. Du är  i sanning Beskyddaren, Bevararen, den Allsmäktige, den Mäktigaste.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4142 in American Indian'
-tags = ['lang-nai-US', 'bpn4142']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Wakȟáŋ Tȟáŋka mitȟáwa kiŋ, slolčhíyiŋ na wakȟáŋčhila kta čha mayákaǧe k’uŋ hé blaátȟaŋiŋ.
 

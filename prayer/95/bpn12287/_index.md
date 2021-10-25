@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12287 in '
-tags = ['lang-95', 'bpn12287']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Tuku mai kia au, O toku Atua, a Tou alofa katoatoa mo Tou fiafiaaga-lei, tela mai i ei a Tou mainaaga malifalifa ko pokotia katoa i ei a motou loto, O Koe Tela ko te Faka-talitonuuga Maluga mo te Matagofie-Katoatoa.  Tuku ifo ki luga ia au, a se vaega foliki o Tou alofa-kaimalie, Tau matagi fakaolaola, i te ao mo te po katoa, O te Aliki o te lava i mea katoa.  
   

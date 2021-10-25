@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12333 in '
-tags = ['lang-95', 'bpn12333']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Kia Koe ke tavaegia, O ko Koe Te la ne fakalogo mai a Tou taliga ki manavaaga o latou ko la ko oti ne avea keatea a te fakapiki ki so se tino tokotasi na loa ko Koe, kae Te la ne lagona ate leo o te fanoanoa o latou ko la e tapuaki katoatoa kia Koe!  Ne puke aka ne Koe a latou katoa ko la ne siga ki lalo i lima o latou ko Au mea ola faiite ko la ko oti ne soli tuakoi kae teke atu kia Koe.  Ko Tou mafi ko taku molimau.  O ko Koe Te la ko te Tupu o lalolagi o te fai-mea-tonu mo te Pule o fakai lasi o te alofa!  A fakalavelave lasi ko la ne tupu ko te mea ke tiagaina mai i ei te la e seai lele loa se pene, ite foafoaaga katoatoa, e mafai o 
 matemate ne ia.  Kafai se tino e taumafai o faipati kia latou, e maua ne ia a te seai lele se maalosi o fakamatala a latou.  

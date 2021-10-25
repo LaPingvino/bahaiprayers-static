@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6217 in Luganda'
-tags = ['lang-lg', 'bpn6217']
+tags = ['lang-lg', 'bpn-unsorted']
 +++
 ##ESSALA EY'ETTEEKA EY'EKIGERO
 

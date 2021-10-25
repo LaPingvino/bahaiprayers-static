@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4855 in Azərbaycan'
-tags = ['lang-az', 'bpn4855']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey Mehriban Rəbb! Bunlar Sənin bəndələrindir ki, bu məclisdə toplaşıblar, Sənin mələkutuna yönəliblər, Sənin bəxşiş və nemətlərinə möhtacdırlar. Ey Allah! Həyatın bütün gerçəkliklərində gizli qalmış birlik nişanələrini açıb göstər. İnsan zatında saxladığın mübhəm qüvvələri zahir eylə.
 

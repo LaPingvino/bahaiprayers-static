@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4757 in Azərbaycan'
-tags = ['lang-az', 'bpn4757']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ucalsın Sənin Adın, Ey mənim Allahım! Səni and verirəm fəzl köynəyinin rayihələrinə ki, Sənin hökmün və istəyinlə bütün kainata yayıldı və Sənin iradə Günəşinə ki, Sənin qüdrətinin və hökmranlığın gücü ilə Sənin mərhəmət üfüqündən parladı – mənim ürəyimi bütün bihüdə xəyal və şəkk-şübhələrdən azad eylə ki, mən bütün sevgimlə üzümü Sənə tutum, Sən Ey bütün bəşərin Rəbbi!
 

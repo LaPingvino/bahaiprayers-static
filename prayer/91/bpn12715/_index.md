@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12715 in '
-tags = ['lang-91', 'bpn12715']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 O Tuhan, Petara aku enggau Pengenduh aku lebuh maya penusah	aku!	Terabai	aku	enggau	Pengelindung	aku lebuh	maya	aku	kena	penusah!	Pengintu	enggau Penyelamat	aku	lebuh	maya	suntuk	lalu	lebuh pengelengau aku nyadi ke Kaban aku! Lebuh maya aku merampau nyadi ke Pengaum aku, lalu lebuh maya aku silu-ilu Nuan nyadi ke Pangan ti rindu! Nuan nyadi ke Pemuai ipuh penusah ati aku sereta Pengampun dosa aku!
 Semina ngagai Nuan aku ngadap, minta bebendar ngagai Nuan enggau pengabis ati aku, runding aku enggau dilah aku, nerabai aku ari semua ti nyakal peneka Nuan ba rebak tu, rambau suchi penyerakup Nuan, lalu meresi aku ari semua pengamah ti deka nekul aku ari ngiga ayung kayu berekat Nuan, ti beresi sereta tuchi.

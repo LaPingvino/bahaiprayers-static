@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6033 in Frysk'
-tags = ['lang-fy', 'bpn6033']
+tags = ['lang-fy', 'bpn-unsorted']
 +++
 O Jo, leafderyk Hear! Jo hawwe it hiele minskdom út deselde stam skepen. Jo hawwe foarbeskikt dat wy allegearre ta deselde famylje hearre. Foar Jo hillich Antlit binne allegearre Jo tsjinners en it hiele minskdom wurdt fan Jo Tabernakel beskerme. Wy allegearre binne gearkommen om Jo Tafel fan Oerfloed en wurde ferljochte troch it ljocht fan Jo foarsjennichheid.
 O God! Jo binne freonlik foar ús allegearre, Jo soargje foar ús allegearre, Jo beskermje ús allegearre, Jo skinke libben oan ús allegearre. Jo hawwe ús allegearre mei talinten en mooglikheden bejeftige; wy allegearre binne dompele yn de oseaan fan Jo genede.

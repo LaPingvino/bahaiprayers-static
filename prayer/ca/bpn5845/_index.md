@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5845 in Català'
-tags = ['lang-ca', 'bpn5845']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu meu! M’he girat penedit cap a Tu i veritablement Tu ets el Perdonador, el Compassiu.
 Oh Déu, Déu meu! He retornat a Tu i veritablement Tu ets qui sempre perdona, el Clement. 

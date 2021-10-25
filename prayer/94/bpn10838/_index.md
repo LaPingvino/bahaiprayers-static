@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10838 in '
-tags = ['lang-94', 'bpn10838']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 O Mulungu wanga! O Inu wokhululukira machimo, Wopereka mphatso, Wochotsa masautso! 
 

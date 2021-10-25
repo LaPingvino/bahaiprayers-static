@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2614 in Magyar'
-tags = ['lang-hu', 'bpn2614']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Áldott az a pont, az a ház,
 az a hely, és a város,

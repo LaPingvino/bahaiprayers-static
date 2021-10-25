@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11220 in '
-tags = ['lang-99', 'bpn11220']
+tags = ['lang-99', 'bpn-unsorted']
 +++
 *Marafiki wote wa Mungu . . . lazima wachangie kwa uwezo wao wote, hata mchango wao uwe mdogo kiasi gani.  Mungu haitwishi mzigo roho kupita uwezo wake.  Michango kama hiyo ni lazima itoke kwa vituo vyote na waamini.  Enyi marafiki wa Mungu!  Muwe na hakika kwamba badala ya michango hii, kilimo chenu, viwanda vyenu, na biashara zenu vitabarikiwa kwa nyongeza nyingi, kwa thawabu nzuri na Baraka.  Yule ajaye na kitendo kimoja kizuri, atapata thawabu mara kumi.  Hakuna shaka kwamba Bwana Aliye hai Atawathibitisha kwa wingi wale wanaotumia mali yao katika njia Yake. 
 

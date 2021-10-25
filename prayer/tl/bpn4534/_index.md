@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4534 in Filipino'
-tags = ['lang-tl', 'bpn4534']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Ang Tabletang ito ay binabasa sa mga Dambana ni Bahá’u’lláh at ng Báb. Ito ay malimit ding gamitin sa paggunita sa Kanilang mga anibersaryo.
 

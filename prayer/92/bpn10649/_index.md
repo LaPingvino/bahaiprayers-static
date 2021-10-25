@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10649 in '
-tags = ['lang-92', 'bpn10649']
+tags = ['lang-92', 'bpn-unsorted']
 +++
 *Оюун Санааны Чуулгын хурлын төгсгөлд хэлэх мөргөл. 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4400 in Filipino'
-tags = ['lang-tl', 'bpn4400']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ang Diyos na dumidinig sa dalangin, ang Diyos na tumutugon sa dalangin!
 

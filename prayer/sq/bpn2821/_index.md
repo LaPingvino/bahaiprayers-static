@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2821 in Shqip'
-tags = ['lang-sq', 'bpn2821']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 Perëndia im, i Adhuruari im, Mbreti im, Dëshira ime! Cila gjuhë mund t'i shprehë falënderimet e mia për Ty? Isha i shkujdesur, por Ti më zgjove. Të kisha kthyer shpinën Ty, por Ti më ndihmove me dashamirësi të kthehem drejt Teje. Isha si i vdekur, por Ti më gjallërove me ujin e jetës. Isha i vyshkur, por Ti më ringjalle me rrëkenë qiellore të fjalës Sate, që ka buruar nga Penda e Mëshirëplotit.
 

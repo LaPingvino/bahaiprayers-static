@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2139 in România'
-tags = ['lang-ro', 'bpn2139']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 El este Cel Îngăduitor, Cel Atotmărinimos!
 O, Doamne, Dumnezeul meu! Chemarea Ta m-a atras şi vocea Condeiului Tău de Slavă m-a trezit. şuvoiul sfintei Tale rostiri m-a vrăjit şi vinul inspiraţiei Tale m-a îmbătat. Tu mă vezi, o, Doamne, detaşat de toate lucrurile

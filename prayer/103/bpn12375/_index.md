@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12375 in '
-tags = ['lang-103', 'bpn12375']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 Many a chilled heart, Om my God, hath been set ablaze with the fire……
 

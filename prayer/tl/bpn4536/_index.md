@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4536 in Filipino'
-tags = ['lang-tl', 'bpn4536']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 *Ang Paningit na mga Araw, Pebrero 26 hanggang Marso 1, ay mga araw ng paghahanda para sa Pag-aayuno, mga araw ng magiliw na pagtanggap sa mga panauhin, pagkakawanggawa at pagbibigay ng mga handog.
 

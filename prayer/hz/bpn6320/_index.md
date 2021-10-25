@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6320 in Namibia'
-tags = ['lang-hz', 'bpn6320']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 #EVERURO
 ##(HEALING)

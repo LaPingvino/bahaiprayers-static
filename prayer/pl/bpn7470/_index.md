@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7470 in Polski'
-tags = ['lang-pl', 'bpn7470']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Błagam Cię, o mój Boże, na Twój potężny Znak i na objawienie się Twojej łaski pośród ludzi, abyś nie odpędzał mnie od wrót miasta Twojej obecności i nie zawiódł nadziei, które złożyłem w oznakach Twej łaski pośród Twoich stworzeń. Ty widzisz, o mój Boże, jak trzymam się Twego Imienia: Najświętszy, Najjaśniejszy, Najpotężniejszy, Największy, Najwznioślejszy, Najchwalebniejszy, i jak przylgnąłem do rąbka szaty, do której przylgnęli wszyscy w tym świecie i w świecie, który nastąpi.
     

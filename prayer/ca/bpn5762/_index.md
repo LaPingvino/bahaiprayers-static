@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5762 in Català'
-tags = ['lang-ca', 'bpn5762']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##TAULES DE VISITACIÓ
 

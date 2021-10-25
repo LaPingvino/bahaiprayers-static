@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1127 in Português (BR)'
-tags = ['lang-pt', 'bpn1127']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Deus! Ó Tu que perdoas os pecados! Tu que concedes dádivas e afastas as aflições!
 Suplico-Te, verdadeiramente, que perdoes os pecados dos que abandonaram as vestes físicas e ascenderam ao mundo espiritual.

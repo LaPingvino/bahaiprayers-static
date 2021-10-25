@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10318 in Svenska'
-tags = ['lang-sv', 'bpn10318']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 O Gud, min Gud! Jag har i ånger vänt mig  till Dig och sannerligen, Du är Förlåtaren, den Medlidsamme.
 O Gud, min Gud! Jag har återvänt till Dig  och sannerligen, Du är den evigt Förlåtande,  den Nåderike.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4458 in Filipino'
-tags = ['lang-tl', 'bpn4458']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Dakilain ang Iyong pangalan, O aking Diyos, sapagkat ipinamalas Mo ang Araw na Siyang Hari ng mga Araw, ang Araw na ipinahayag mo sa Iyong mga Hinirang at mga Propeta sa Iyong pinakamagaling na mga tableta, ang Araw na dito’y ibinubuhos Mo ang liwanag ng luwalhati ng lahat ng nilikhang mga bagay. Napakalaki ng kaniyang biyaya sinumang sinaayos ang kaniyang sarili patungo sa Iyo, at pumasok sa Iyong kinaroroonan, at naulinigan ang mga himig ng Iyong boses.
 

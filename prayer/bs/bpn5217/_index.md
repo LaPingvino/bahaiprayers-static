@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5217 in Bosanski'
-tags = ['lang-bs', 'bpn5217']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Kratka Obavezna Molitva 
 

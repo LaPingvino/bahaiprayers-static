@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4533 in Filipino'
-tags = ['lang-tl', 'bpn4533']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 *“Ang pang araw-araw na mga dalanging ito na katungkulang isagawa, kasama ng ilan pang natutukoy, gaya ng Dalangin sa Pagpapagaling, ang Tableta ni Ahmad, ay pinagkalooban ni Bahá’u’lláh ng isang tanging bisa at kahalagahan, at samakatwid ay dapat na tanggaping gayon at usalin ng mga mananampalataya lakip ang walang alinlangang pananalig at pagtitiwala, na sa pamamagitan ng mga iyon ay magkakaroon sila ng higit na mahigpit na pakikipagkaisa sa Diyos, at higit nilang masusunod ang Kaniyang mga batas at mga alituntunin” -Shoghi Effendi
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6394 in Cymraeg'
-tags = ['lang-cy', 'bpn6394']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 Clod fyddo i ti, O Arglwydd fy Nuw! Tystiaf y buost erioed yn ddyrchafedig yn Dy fawredd aruchel a’th rym, ac y byddi’n aros yn dragywydd yn Dy ogoniant a’th nerth rhagorol. Ni all unrhyw un yn nheyrnas nef na daear rwystro Dy ddiben; ni all neb drwy deyrnasoedd datguddiad a chreadigaeth Dy drechu. Ti a wnei fel y mynni yn ôl Dy orchymyn; a thrwy nerth Dy frenhiniaeth y llywodraethi.
 

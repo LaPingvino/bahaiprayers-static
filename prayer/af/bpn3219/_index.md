@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3219 in Afrikaans'
-tags = ['lang-af', 'bpn3219']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 ##MIDDELBARE VERPLIGTE GEBEDE
 

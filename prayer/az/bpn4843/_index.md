@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4843 in Azərbaycan'
-tags = ['lang-az', 'bpn4843']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey Bənzərsiz Allah! Sən Ey Mələkutun Rəbbi! Bu ruhlar Sənin səmavi qoşunundur. Onlara kömək eylə, Uca Səma Sakinlərinin dəstəsi ilə onlara zəfər bəxş eylə, ta ki, onlardan hər biri bir alay olsun və Allahın məhəbbəti və ilahi təlimlərin nuru ilə bu ölkələri fəth etsin.
 

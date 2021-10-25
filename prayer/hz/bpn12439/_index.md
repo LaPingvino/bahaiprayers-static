@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12439 in Namibia'
-tags = ['lang-hz', 'bpn12439']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Vyashiri na kutanta, lino ndyo liyuva omo nga u vhura udjuni kukukeya Shipara, nakuyuvha Lijwi  lyaMutwenyidirwa. Lijwi lyaKarunga linayuvhiki, ano shite shaShipara Shendi shina twedere pawiru yavantu. Vya wapera kehe muntu mukudongonona po mukoka wankango yavinyami pavitafure vyamumushima wendi, nakuteghelikida namaghano ghamawa nagha ghamawa ghakupira ghoma paviyivito vyaLihoramo  lyendi, vineghedo vyaLitumo lyendi, naviyivito vyashikoda Shendi. 
 

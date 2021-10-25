@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9684 in Nederlands'
-tags = ['lang-nl', 'bpn9684']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 O God, mijn God! Gij zijt mijn hoop en mijn geliefde, mijn hoogste doel en verlangen! Met grote nederigheid en algehele toewijding smeek ik U mij tot een minaret van Uw liefde in Uw gebied te maken, een lamp van Uw kennis onder Uw schepselen en een vaandel van goddelijke milddadigheid in Uw koninkrijk.
 Reken mij tot diegenen onder Uw dienaren die zich hebben onthecht van alles buiten U, zich hebben gelouterd van de vergankelijkheden van deze wereld en zich hebben verlost van de influisteringen van hen die waanideeën verkondigen.

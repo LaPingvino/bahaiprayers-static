@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7948 in Malti'
-tags = ['lang-mt', 'bpn7948']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 O Alla tiegħi! O Int li taħfer id-dnubiet, li tagħti d-doni, li tkeċċi l-mard!
 Fis-sewwa, nitolboK taħfer dnubiet dawk li ħallew il-libsa tal-ġisem u għolew lejn id-dinja tal-ispirtu.

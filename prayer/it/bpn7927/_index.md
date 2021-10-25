@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7927 in Italiano'
-tags = ['lang-it', 'bpn7927']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 ##TAVOLA DEL FUOCO
 Nel nome di Dio, il Più Antico, il Più Grande.

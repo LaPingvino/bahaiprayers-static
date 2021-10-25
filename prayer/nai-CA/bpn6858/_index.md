@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6858 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn6858']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *O God Guide Me (in the Shuswap Language)
 

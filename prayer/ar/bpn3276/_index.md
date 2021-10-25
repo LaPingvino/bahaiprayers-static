@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3276 in العربية'
-tags = ['lang-ar', 'bpn3276']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 * لوح الرّضوان
 # هُوَ المُسْتَوِي عَلَى هذَا العَرْشِ المُنِيرِ

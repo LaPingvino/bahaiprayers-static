@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12225 in '
-tags = ['lang-95', 'bpn12225']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 E maluga a Tou igoa, O te Aliki toku Atua!  E molimau ne Koe me ia Koe e silia atu mai i luga o mea faiite katoa, a ko Tou alofakaimalie e sopoia atu i tino katoa i te lagi mo te lalolagi.  Kae kafai ko tonu ia Koe ke suke a te veli o Tou nofoaiga-a-aliki, kae ke vikia a Tau muna, kae ke fakaasi a Tou maukoloa mo te alofa-kaimalie, ne avaka ne Koe a Tau tavini tokotasi, kae fili a Ia mai i luga i Au mea faiite katoa, kae fakamatea aka loa a Ia tokotasi ona ko Tau pogai, kae fakapei a Ia ki te gatu o Tau takitakiiga, kae ufi a Ia i lalo i te tai o Tau aifioga mo te matagofie, kae faka-mmalu a Ia mai i mea katoa ko la seai ko te taua o Tou matagofie mo te maalosi o Tou mafi, kae fai atu kia Ia ke kalaga atu ki mua o latou katoa i te lagi mo te lalolagi, kae kami mai ate toko-ukega o tinio ki te Faifekau a Koe mo te Fakaasiiga o Au failoga.  
 I taimi foki tena ne fakasalalau atu ne Ia a Tau Fakatokaaga, kae tu ki luga o fai a galuega ko la ne fakatonu atu kia Ia i Tapeleti o 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11676 in Español'
-tags = ['lang-es', 'bpn11676']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 *Oración para ser recitada al terminar la reunión de la Asamblea Espiritual
 

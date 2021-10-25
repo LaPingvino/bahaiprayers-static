@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11765 in Italiano'
-tags = ['lang-it', 'bpn11765']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 O mio Dio! O Tu Che ad ogni potere giusto e ad ogni equo dominio conferisci eterna gloria e duratura possanza, permanenza e stabilità, costanza e onore! Aiuta con la Tua celeste grazia ogni governo che agisca con giustizia verso i suoi sudditi e ogni autorità sovrana, derivata da Te, che accolga i poveri e i deboli sotto il vessillo della sua protezione.
 

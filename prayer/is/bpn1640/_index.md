@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1640 in Íslenska'
-tags = ['lang-is', 'bpn1640']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð minn! Ó Guð minn! Sannlega ákalla ég Þig og sárbæni við fótskör Þína, biðjandi þess að allar miskunnsemdir Þínar megi stíga niður yfir þessar sálir. Útvel þær fyrir hylli Þína og sannleika.
 Ó Drottinn! Sameina og knýt saman hjörtun, teng saman í samstillingu allar sálir og ger andana fagnandi með táknum heilagleika Þíns og einleika. Ó Drottinn! Ger þessi andlit geislandi með ljósi einleika Þíns. Styrk lendar þjóna Þinna í þjónustu við ríki Þitt.

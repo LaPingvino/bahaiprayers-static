@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7749 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7749']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 Se Ou menm Ki Gloriye, O Senyè Bondye mwen! Chak fwa mwen eseye site Non Ou, mwen gen yon anpechman poutèt gwo peche mwen yo ak dezobeyisans grav mwen fè kont volonte Ou, e mwen remake mwen anpeche tèt mwen jwenn gras Ou, e sa fè mwen vrèman manke fòs pou selebre lwanj Ou. Kanmenm, akoz mwen gen anpil konfyans nan bonte Ou, sa renouvle espwa mwen nan Ou, ak fèm konesans mwen genyen Ou pral trete mwen avèk bonte Ou, ki ban mwen kouraj pou chante lwanj Ou, epi mande Ou voye pou mwen bagay Ou posede yo. 
 Mwen sipliye Ou, O Bondye mwen, poutèt mizèrikòd Ou ki depase tout bagay ki te kreye - yon mizèrikòd ki jwenn temwayaj tout moun ki plonje nan oseyan non Ou yo - mwen sipliye Ou pou pa abandone mwen pou kont mwen, paske kè mwen kapab tonbe nan mechanste. Pwoteje mwen, poutèt sa, nan fòterès pwoteksyon Ou e nan abri swen Ou. Se mwen menm, O Bondye mwen, ki gen dezi pou wè sèlman sa Ou te deside avèk pouvwa pisans Ou. Sèl bagay mwen te chwazi pou pwòp tèt mwen se pou jwenn sipò ki soti nan chwa Ou fè yo avèk gras Ou e avèk desizyon volonte Ou, e pou mwen jwenn èd nan siyn yo ki soti nan lòd Ou ak jijman Ou. 

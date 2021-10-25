@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7593 in Suomi'
-tags = ['lang-fi', 'bpn7593']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Jumalan, Ikiaikaisimman, Suurimman, nimeen.
 Totisesti vilpittömäin sydäntä kuluttaa eron tuli: missä on kasvojesi valon välke, oi maailmain Rakastettu? 

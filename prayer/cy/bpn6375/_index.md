@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6375 in Cymraeg'
-tags = ['lang-cy', 'bpn6375']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 Llarfargana, O Fy ngwas, adnodau Duw a dderbyniaist ti, fel llafarganwyd hwy gan y rhai sydd wedi nesáu ato Ef, fel y byddo melysder dy felodi’n cynnau dy enaid di dy hun, ac yn denu calonnau’r holl ddynion.  Y sawl sy’n adrodd, yn nirgelfa ei ystafell, yr adnodau a ddatguddiwyd gan Duw, bydd angylion yr Hollalluog a wasgarwyd yn gwasgaru perarogl y geiriau a lefarwyd gan ei enau, a gwneud i galon pob dyn cyfiawn guro.  Er iddo, ar y dechrau, fod yn anymwybodol o’i effaith, eto mae’n sicr y bydd rhinwedd y gras a roddwyd iddo ef yn hwyr neu’n hwyrach yn dylanwadu ar ei enaid.  Felly y gorchmyn wyd dirgelion Datguddiad Duw trwy rinwedd ewyllys yr Hwn sy’n ffynhonnell gallu doethineb.
 

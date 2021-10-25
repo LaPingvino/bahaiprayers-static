@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12281 in '
-tags = ['lang-95', 'bpn12281']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Atua, toku Atua! A Tau kalaga e fakapili atu ne ia au, a ko te leo o Tau Pene o te Matagofie ko fago aka ne ia au.  A te tafeega o Tau muna mana ko ufitia ne ia au i ei, a ko te uaina o Tau faka-maalosi ko pokotia kii au i ei.  E lavea mai ne Koe au, O te Aliki, motu mai i mea katoa na ko Koe, piki mmau ki te kafanoa o Tou alofa lauefa kae manako maalosi ki mea fakaofoofo-gina o Tou alofa.  Au e sii atu kia Koe, i te lausia o kaumana o Tou alofa-atafai mo molii malapulapu o Tau tausiga mo mea-alofa atafai, ke talia aka ko mea ko la e mafai o faka-pilipili atu au kia Koe kae fai aka au ke maumea i Tou mau-koloa.  Toku laulaufaiva, taku pene, toku fuiatino katoatoa, e molimau ki Tou maalosi, Tou mafi, Tou alofa mo Tou alofa lauefa, ia Koe ko te Atua kae e seai aka foki se Atua na ko Koe, ko te Maalosi, ko te Mafi.  
   

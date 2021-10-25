@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12372 in '
-tags = ['lang-103', 'bpn12372']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 He is God, exalted is He, the Lord of loving-kindness and bounty……
 

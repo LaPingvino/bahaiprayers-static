@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3941 in Hrvatski'
-tags = ['lang-hr', 'bpn3941']
+tags = ['lang-hr', 'bpn-unsorted']
 +++
 Kad bi spoznala slast naslova "O službenice moja!" odvojila bi se od svih ljudi, danju i noću odano zaokupljena u zajedništvu s Njim, koji je jedina želja ovoga svijeta.
 

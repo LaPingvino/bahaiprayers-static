@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5565 in 日本語'
-tags = ['lang-ja', 'bpn5565']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 ##アメリカ
  

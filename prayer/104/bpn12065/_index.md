@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12065 in '
-tags = ['lang-104', 'bpn12065']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhanku! Engkau ketahui bahawa manusia dikelilingi dengan kesakitan dan malapetaka dan dihadapi kesukaran dan kesusahan. Setiap ujian menyerang manusia dan setiap kecelakaan dahsyat menyerangnya bagaikan serangan seekor ular. Tidak ada pelindung mahupun keselamatan baginya kecuali di bawah sayap perlindungan, pemeliharaan, pertahanan dan jagaan-Mu.
 

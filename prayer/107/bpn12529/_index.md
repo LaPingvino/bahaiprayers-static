@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12529 in '
-tags = ['lang-107', 'bpn12529']
+tags = ['lang-107', 'bpn-unsorted']
 +++
 ##Orasaun Obrigatóriu
 Ha’u hatudu sasin, Oh ha’u-nia Maromak, katak Ita-Boot kria ha’u atu hatene Ita-Boot no hahi’i Ita-Boot. Ha’u fó sasin, iha momentu ida-ne’e, ba ha’u-nia kbiit-laek no ba Ita-Boot nia kbiit, ba ha’u-nia kiak no ba Ita-Boot nia rikusoin. 

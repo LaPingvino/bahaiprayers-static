@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9691 in Nederlands'
-tags = ['lang-nl', 'bpn9691']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 O mijn God! O Gij die zonden vergeeft, gaven schenkt en kwellingen verdrijft!
 Waarlijk, ik smeek U de zonden te vergeven van hen die het stoffelijk gewaad hebben afgelegd en naar de geestelijke wereld zijn opgestegen.

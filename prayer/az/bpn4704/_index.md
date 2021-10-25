@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4704 in Azərbaycan'
-tags = ['lang-az', 'bpn4704']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, mənim Allahım! Təriflər olsun Sənə, cünki Sən ən uca dağın zirvəsində Müqəddəs Ağacda ilahi məhəbbət atəşini yandırdın: o Ağac ki, “nə Şərqdəndir, nə də Qərbdən. 1” o atəş ki, onun alovu qalxıb Səma sakinlərinə yetişdi və bundan o varlıqlar hidayət işığı əldə etdilər və söylədilər: “Həqiqətən, biz Tur Dağının yamacında bir od gördük.” 12
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6077 in Sranan Tongo'
-tags = ['lang-srn', 'bpn6077']
+tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##WORTU FU GADO 
 O Mi diniman, yu musu singi den wortu fu Gado san yu ben kisi, leki fa den suma di de krosbei fu En du oktu; so dati a switi singi disi sa meki yu yeye kon breiti nanga tiri den ati fu alasma kon na yu. Den Engel fu a Ala-maktiwan sa panya-panya a switi blesi fu den wortu di komoto fu a mofo fu a suma di e taki den wortu fu Gado ini a tiri fu en kamra. 

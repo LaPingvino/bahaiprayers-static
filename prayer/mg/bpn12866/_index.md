@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12866 in Malagasy'
-tags = ['lang-mg', 'bpn12866']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 ##TAKELAKY NY AFO
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4763 in Azərbaycan'
-tags = ['lang-az', 'bpn4763']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, mənim Allahım! Sən mənim Ümidim və Məhbubumsan. Mənim Məqsudum və Arzumsan! Böyük itaətkarlıq və tam təslimiyyətlə Sənə dua edirəm, məni Öz diyarında məhəbbətinin minarəsi, məxluqatın arasında elminin çırağı, səltənətində ilahi bəxşiş bayrağı eylə.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6538 in 한국어'
-tags = ['lang-ko', 'bpn6538']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 그분을 우러러 사랑한 이에게, 각자에게
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4638 in հայերեն'
-tags = ['lang-hy', 'bpn4638']
+tags = ['lang-hy', 'bpn-unsorted']
 +++
 # (Աղոթքը հայտնված է Կանադայի բահայիների համար)
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6144 in Euskara'
-tags = ['lang-eu', 'bpn6144']
+tags = ['lang-eu', 'bpn-unsorted']
 +++
 Ene Jainkoa!
 Nire gogoa alaitu eta girotu ezazu. Nire bihotza garbitu ezazu. Nire ahalak argitu itzazu. Nire eginkizun guztiak Zure eskuetan uzten ditut. Zeu zara nire bidargia eta babesa. Berriz ez naiz izango itun edo atsekabetua; izaki alaia eta zoriontsua izango naiz.

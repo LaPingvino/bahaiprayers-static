@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12117 in '
-tags = ['lang-104', 'bpn12117']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhanku, biarlah aku mendekati-Mu, dan berdiam di lingkungan istana-Mu, kerana keterpencilan daripada-Mu telah hampir menghancurkan daku. Izinkanlah daku beristirahat di bawah naungan sayap-sayap rahmat-Mu, kerana terpisah daripada-Mu laksana api yang telah membakar hatiku dalam diriku. Dekatkanlah daku kepada sungai yang bagaikan kehidupan sejati kerana rohku terbakar oleh kedahagaan dalam usaha yang tidak terhenti-henti untuk mencari-Mu. Keluh-kesahku, Ya Tuhanku, menyatakan pahitnya kepedihanku, dan air mataku yang berlinangan membuktikan kasihku pada-Mu.
      

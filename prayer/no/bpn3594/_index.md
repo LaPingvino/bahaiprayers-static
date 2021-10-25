@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3594 in Norsk'
-tags = ['lang-no', 'bpn3594']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 O du gode Herre! Dette er dine tjenere som har samlet seg I dette møte, har vendt seg mot ditt rike og trenger din gave og velsignelse. O du Gud! Gi klart og tydelig til kjenne din enhets tegn  end t nedlagt I alt livs innerste virkelighet.
  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9125 in Français'
-tags = ['lang-fr', 'bpn9125']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Les prières journalières
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11996 in '
-tags = ['lang-102', 'bpn11996']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Ähli atlary gurşap alanyň Ady bilen.
     Ylahym, Ylahym! Seniň şypa deňziň we Seniň röwşen eden Jomartlyk nurunyň ýalkymynyň hatyrasy üçin, Seniň bendeleriňi gurşap alan Adyň we Seniň uly Kelamyň güýjüniň hatyrasy üçin, Seniň Agla Galamyň Başarjaňlygy we ýer-gögüň ýaşaýjylaryndan ozduran Merhemetiň hatyrasy üçin, meni Rähmet we Kerem suwy bilen ähli beladan, keselden we ejizlikden ýuwarsyň diýip Saňa ýalbarýaryn.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12014 in '
-tags = ['lang-102', 'bpn12014']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Eziz hem Jomart.
     Eý meniň Mähriban Taňrym we Eý barlyk jahanyň Soltany! Seniň günleriňde, Seniň permanyň we erkiň boýunça Oraza tutýan bendeleriňi, kenizleriňi görýänsiň. Seniň Jomartlyk gençleriňde we sahylyk hazynalaryňda pynhan edilen zatlaryňa ýetmek umydy bilen, daňdanlar turup doga we dileg edýän bendeleriňi, kenizleriňi görýänsiň.

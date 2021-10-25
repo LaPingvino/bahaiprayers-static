@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8256 in English'
-tags = ['lang-en', 'bpn8256']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Ever-Abiding, the Most Exalted, the Most Great.
 

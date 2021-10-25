@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9326 in Malagasy'
-tags = ['lang-mg', 'bpn9326']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ataoko ahoana no hisafidy ny hatory, ry Andriamanitra, ry Andriamanitro ô, raha toa ny mason’ireo izay maniry Anao tonga saina nohon’ny fisarahana Aminao; ary ataoka ahoana no mba hiala sasatra, nefa ny fanahin’ireo izay tia Anao dia mangahiahy noho ny fanalavitana ny Fanatrehanao?
 Ry Tompoko ô, napetrako ny fanahiko sy ny tenako manontolo eo amin’ny tanan-kavanan’ny Fanapahanao sy ny Fiarovanao; ampandriko eo amin’ny ondana ny lohako noho ny Fahefanao, ary hareniko izany noho ny Sitraponao sy ny Fahafinaretanao. Ianao marina tokoa Ilay Mpitahy, Ilay Mpiambina, Ilay Mahery indrindra, Ilay Manam-pahefana.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6140 in Euskara'
-tags = ['lang-eu', 'bpn6140']
+tags = ['lang-eu', 'bpn-unsorted']
 +++
 Ene Jainkoa, ene Jainkoa,
 Zeure zerbitzarien bihotzak alkartu itzazu eta Zure xede nagusia azaldu iezaiezu. Zure aginduei jarraitu eta Zure legeari itxeki ahal daitezela. Beren ahaleginetan lagundu iezaiezu Jauna, eta zerbitu zaitzaten indarra emaiezu.

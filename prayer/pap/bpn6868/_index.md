@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6868 in Papiamentu'
-tags = ['lang-pap', 'bpn6868']
+tags = ['lang-pap', 'bpn-unsorted']
 +++
 *Say: God sufficeth all things above all things… 
 

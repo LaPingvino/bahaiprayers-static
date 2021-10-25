@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6277 in Luganda'
-tags = ['lang-lg', 'bpn6277']
+tags = ['lang-lg', 'bpn-unsorted']
 +++
 *Essaala eno, esomwa okugalawo olukungaana lw'ekibiina Ky'omwoyo.
 Ayi Katonda!  Ayi Katonda!  Okuva mu bw'aKabaka bw'obumu Bwo, tutunulire ffe ab'akungaanye mu lukungaana luno, olw'omwoyo, nga tukiriza mu Ggwe, nga tulina obwesige mu bubonero Bwo, ab'anyweevu m u Ndagaano n'eddaame Lyo, nga tusembezebwa gyooli, aga twaaka n'omuliro gw'okwagala Kwo, era nga tuli ba mazima mu Ddiini Yo.  Tuli bawereza Bo mu lusuku Lwo olw'emizabibu, ababunya Eddiini Yo, ab'akusinza abawombeefu, ab'akugondera mu maaso g'oluji Lwo, nga tukwegayirira okutukkakasa mu buwereza Bwo, mu bantu Bo abalonde.  Otuyambe ne bamalayika Bo, ab'atalabika. Nyweza ebimyu byaffe mu buwereza Bwo era otufuule abantu Bo abawulize abakusuuta nga tunyumya naawe.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2105 in România'
-tags = ['lang-ro', 'bpn2105']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 *Veniţi împreună cu bucurie neumbrit şi la începutul întâlnirii rostiţi această rugăciune:
 

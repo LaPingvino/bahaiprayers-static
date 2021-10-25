@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5834 in Català'
-tags = ['lang-ca', 'bpn5834']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Qualsevol qui viatgi per diferents llocs per ensenyar, que llegeixi amb atenció aquesta súplica a la muntanya,el desert, la terra i la mar.
 

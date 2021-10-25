@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8957 in اُردُو'
-tags = ['lang-ur', 'bpn8957']
+tags = ['lang-ur', 'bpn-unsorted']
 +++
 ##لوحِ احمد
 وہی ہے بادشاہ سب کچھ جاننے والا حکمت سے کام کرنے والا۔

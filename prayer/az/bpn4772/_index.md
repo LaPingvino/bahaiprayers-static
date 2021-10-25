@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4772 in Azərbaycan'
-tags = ['lang-az', 'bpn4772']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ey mənin Allahım! Sənə və Sənin əlamətlərinə iman gətirmiş kənizlərindən biri, Sənin birlik ağacının kölgəsində daxil olub. Ey mənim Allahım, Sənin Aşkar və Gizli adınla, Sənin nəfis, möhürlü şərabından ona icir ki, bu onu özündən alsın, bütünlüklə Sənin zikrinlə məşğul etsin və onu Səndən başqa hər kəsdən tamamilə ayırsın.
 

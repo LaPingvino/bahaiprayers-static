@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11943 in '
-tags = ['lang-102', 'bpn11943']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Senden özge tagzym etmeli Alla ýokdur!
     Alkyş diňe Saňa laýykdyr, Eý meniň Taňrym! Çünki Sen meni oýardyň, ýoklukdan barlyga getirdiň hem ýatanymdan soň meni turuzdyň.

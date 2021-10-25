@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1707 in Íslenska'
-tags = ['lang-is', 'bpn1707']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 *Ó leitandi sannleikans! Ef þú vilt að Guð opni augu þín, verður þú að ákalla Guð, biðja til Hans og sam­neyta Honum á miðnætti með svofelldum orðum:
 

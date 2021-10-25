@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2322 in România'
-tags = ['lang-ro', 'bpn2322']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Asupra ta, o, Ramură a lui Dumnezeu, fie amintirea de Dumnezeu şi preaslăvirea Lui, şi lauda tuturor celor ce sălăşluiesc pe Tărâmul Nemuririi şi a tuturor locuitorilor Împărăţiei Numelor. Fericit eşti tu întrucât ai fost credincios Legământului lui Dumnezeu şi Testamentului Său până în clipa în care te-ai sacrificat înaintea chipului Domnului tău, Cel Atotputernic, Cel Neconstrâns. Tu ai fost, cu adevărat, asuprit şi întru aceasta mărturiseşte Frumuseţea Lui, Cel de Sine Stătător. În primele zile ale vieţii tale ai îndurat ceea ce a făcut ca toate lucrurile să geamă şi ca fiecare stâlp să se clatine. Fericit este cel care îşi aminteşte de tine şi se apropie, prin tine, de Dumnezeu, Creatorul Zorilor …
 

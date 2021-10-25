@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10981 in '
-tags = ['lang-95', 'bpn10981']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 I te Igoa o te Atua, ko te Tafasili i te Favavau, ko te tafasili i te Lasi.  E tonu i loto o au fagasele ko velasia ne te afi o te mavae: Te fea a te mainaaga o te moli o Ou mata, O te Fakasele o lalolagi?
 Latou ko la e pili atu kia Koe ko oti ne liakina i te pogisa o te fanoanoa:  Te fea a te mainaaga o te taeao o Tou fakatasi mai, O te Manakooga o lalolagi?

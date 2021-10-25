@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6081 in Sranan Tongo'
-tags = ['lang-srn', 'bpn6081']
+tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##KORTE VERPLICHTE GEBED 
 *(Het korte verplichte gebed wordt dagelijks gezegd tussen 12 en 6 uur 's middags.) 

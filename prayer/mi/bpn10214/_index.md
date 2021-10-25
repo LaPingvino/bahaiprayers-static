@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10214 in Māori'
-tags = ['lang-mi', 'bpn10214']
+tags = ['lang-mi', 'bpn-unsorted']
 +++
 E Te Atua e Koe, Nāu Tōu ātaahua i maka ki runga o ngā tūturutanga whakaharahara o te tangata, te waiho ki runga ki a rātou ngā rama muramura o te mātauranga me te tohutohu. Nāu rātou i kōwhirihia ai mai i ngā ōrokohanganga katoa ki tēnei aroha whakahirahira, Nāu rātou i kōpakina ai ki ngā mea katoa kia mōhio ai rātou ki te tino mauri o roto, kia whakaaturia ai ō rātou pohewa, te kukume i a rātou mai i te pōuritanga ki te ao mārama! “Ko Ia tūturu te whakaatu nei i Tōna aroha motuhake ki ērā ki tāna e hiahia ai.” 
 

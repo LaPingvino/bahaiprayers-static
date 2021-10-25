@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8917 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8917']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 任何至異域傳導的人，均可日夜誦讀以下禱文。
 

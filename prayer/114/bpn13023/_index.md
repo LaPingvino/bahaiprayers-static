@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13023 in '
-tags = ['lang-114', 'bpn13023']
+tags = ['lang-114', 'bpn-unsorted']
 +++
 *Räng wak ruing wi e kalemp Mas 2 ba 20 pora etemba.  Rukting ila, mukuma wunt ba rumbulrui wamp ti räng na nu na ti naning.  Wi e atenga ropon, min rop kont mondop itim wi e.  Nombogla rugl andang wamp na, wagl pana 15 nga mana orong na , kui wamp na wamp rondogla na amp wagl mam na bä ya räng wak rui wi ela rukurung näting.
 

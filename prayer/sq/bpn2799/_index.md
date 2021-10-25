@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2799 in Shqip'
-tags = ['lang-sq', 'bpn2799']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Ti Perëndi i pakrahasueshëm! O Ti Zoti i Mbretërisë! Këta shpirtra janë ushtria Jote qiellore. Ndihmoji ata me aradhat e Grupimit Suprem, bëji ata fitimtarë, në mënyrë që cilido prej tyre të bëhet si një regjiment e t'i pushtojë kombet nëpërmjet dashurisë së Perëndisë dhe ndriçimit të mësimeve hyjnore.
 

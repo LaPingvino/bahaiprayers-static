@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2499 in Русский'
-tags = ['lang-ru', 'bpn2499']
+tags = ['lang-ru', 'bpn-unsorted']
 +++
 Молитва произносится по окончании встречи Духовного Собрания
 

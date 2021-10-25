@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12239 in '
-tags = ['lang-95', 'bpn12239']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O Koe ko te Aliki o te lavea mo te se-lavea, mo te Fakamaina o te foafoaaga katoatoa!  Au e akai totuli kia Koe, mai i Tou nofoaigaa-Tupu tela ne lilo mai i mata o tagata, ke fakaasi ki kogaa-koga katoa a failoga o Au fakamanuiaaga mo alofaaga o Tou alofakaimalie, ko au ke tu ki luga mo te manumaalo mo te fiafia kae fakamaluga atu a Ou uiga llei gali, O ko Koe ko te Tatafasili i te Alofa-Fakamagalo, kae faka-gasue aka a mea faiite katoa ne Tou igoa, kae tena ko faka-ka i ei a te afi o Tou faka-aloaloga i vasia o Au mea ola faiite, ko te lalolagi katoa ke mafai o fakafonu ki te mainaaga o te molii o Tou matagofie, kae ko mea katoa i te olaaga ke ula i te afi o Tau Fakatokaaga.  
 Pelu aka ki luga, O toku Aliki, a te mea tela ko oti ne fola i Tou igoa, kae tamate atu a te lamepa tela ko te afi a Koe ne faka-ka ne ia.  Sa taofigia, O toku Aliki, a te afi tela ko ola tonu loa mai i te Sali-ifo ki lalo, ko te vai tela mai i tena musumusuuga a sikuleo gali kola e tavae kae fakamaluga a Koe ke mafai o lagona-gina.  Sa fakaatea, Au tavini mai i manogi gali o te manavaaga tela ko agiagi mai i Tou alofa.  

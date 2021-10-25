@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6948 in Fiji'
-tags = ['lang-fj', 'bpn6948']
+tags = ['lang-fj', 'bpn-unsorted']
 +++
 #NA MASU VAKAROTI KA VAKARAUTA GA NA KENA BALAVU
 ##Medium Obligatory Prayer

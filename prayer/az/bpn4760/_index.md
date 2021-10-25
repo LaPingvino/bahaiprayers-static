@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4760 in Azərbaycan'
-tags = ['lang-az', 'bpn4760']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ey mənim Allahım! Mən Sənə və Sənin əlamətlərinə iman gətirmiş bir bəndənəm. Görürsən, Sənin mərhəmət qapına yönəlmiş və üzümü Sənin inayət sahilinə tutmuşam. Səni and verirəm ən gözəl adlarına və ən uca sifətlərinə - nemətlərinin qapısını mənim üzümə aç. Sonra isə yaxşı əməllərə müvəffəq eylə, Sən Ey bütün adlar və sifətlərin Sahibi!
 

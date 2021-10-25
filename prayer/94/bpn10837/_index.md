@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10837 in '
-tags = ['lang-94', 'bpn10837']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 Iye ndi Mulungu, ndi Iye Wokwezeka, Ambuye wokoma mtima ndi wa chaulere! Ulemelero ukhale kwa Inu, O Inu Mulungu wanga, Ambuye Mwini-mphamvu.  Ine ndichitira umboni ku Umwini-mphamvu Wanu, Ukulu Wanu, Ufumu Wanu, Kukomamtima Kwanu, Chisomo Chanu ndi Mphamvu Yanu, Umulungu Wanu, umodzi wa khalidwe Lanu, kupatulika Kwanu ndi kukwezeka Kwanu pamwamba padziko la chilengedwe ndi zonse ziri m’menemo. 
 

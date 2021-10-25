@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7957 in Malti'
-tags = ['lang-mt', 'bpn7957']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 Glorja lileK, O Sid Alla tiegħi!  Nitolbok f’ġieh il-Magħżulin tiegħeK, u f’ġieh ir-Reffiegħa tal-Fiduċja tiegħeK, u f’ġieh Dak Li Int għażilt biex ikun is-Siġill tal-Profeti tiegħeK u tal-Qaddejja tiegħeK, biex tagħmel il-fakra fiK is-sieħba tiegħi, u l-imħabba tiegħeK il-mira tiegħi, u wiċċeK il-għan tiegħi, u ismeK il-lampa tiegħi, u xewqteK  xewqti, 
 u l-għoġba tiegħek l-għaxqa tiegħi.

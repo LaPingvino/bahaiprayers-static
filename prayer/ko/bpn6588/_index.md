@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6588 in 한국어'
-tags = ['lang-ko', 'bpn6588']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 저희가 미천하오니, 이 나약한 자에게도
 

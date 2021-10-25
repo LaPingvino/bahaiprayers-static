@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5825 in Català'
-tags = ['lang-ca', 'bpn5825']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glòria a Tu, oh Senyor del món i Desig de les nacions, oh Tu què T’has fet manifest en el Més Gran Nom, per mitjà del qual les perles de la saviesa i l’expressió han aparegut de les ostres del gran mar del Teu coneixement i els cels de la revelació divina han estat adornats amb la llum de l’aparició del sol del Teu semblant.
 Jo et demano, per aquella paraula per mitjà de la qual la Teva prova es féu perfecta entre les Teves criatures i es complí el Teu testimoni entre els Teus serfs, que enforteixis al Teu poble en allò què faci irradiar la faç de la Causa en el Teu domini i que faci enarborar els estendards del Teu poder entre els Teus serfs i aixecar les ensenyes de la Teva guia per tots els Teus dominis.

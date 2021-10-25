@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8959 in اُردُو'
-tags = ['lang-ur', 'bpn8959']
+tags = ['lang-ur', 'bpn-unsorted']
 +++
 ##زیارت نامہ حضرت بہااللہ
 

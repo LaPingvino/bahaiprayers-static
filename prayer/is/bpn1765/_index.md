@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1765 in Íslenska'
-tags = ['lang-is', 'bpn1765']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 *(Þessi bæn, sem opinberuð er af ‘Abdu’l-Bahá, er lesin í grafhýsi hans. Hún er einnig notuð við önnur tækifæri.)
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4490 in Filipino'
-tags = ['lang-tl', 'bpn4490']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Dumakila nawa ang Iyong Pangalan, O Panginoon kong Diyos! Ikaw yaong sinasamba ng lahat ng bagay at yaong walang sinasambang sinuman, ang Panginoon ng lahat ng bagay at hindi tagasunod ng sinuman, ang nakababatid ng lahat ng bagay at hindi batid ng sinuman. Ninais Mong ipakilala ang Iyong sarili sa mga tao; kung kaya sa pamamagitan ng isang salita ng Iyong bibig, nilalang Mo ang mga kinapal at nilikha ng daigdig. Walang ibang Diyos liban sa Iyo, ang Manlilikha, ang Maykapal, ang Makapangyarihan sa lahat, ang Pinakamalakas.
 

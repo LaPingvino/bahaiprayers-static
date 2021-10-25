@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5023 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5023']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, Danh Ngài thật vinh quang, vì Ngài đã làm biểu hiện Ngày là Vua của các ngày, Ngày mà Ngài đã thông báo cho các Đấng Tiên tri trong những Kinh bản tôn quí nhất của Ngài, là Ngày mà Ngài tuôn đổ vẻ huy hoàng vinh quang của tất cả các Danh Ngài lên mọi vật thọ tạo. Ơn phước to lớn nhất thuộc về bất cứ ai đã hướng về Ngài, bước vào sự hiện diện của Ngài, và nghe được những âm sắc của giọng nói Ngài.
 Lạy Thượng Đế của con, bởi Danh của Đấng mà Vương quốc các Danh của Ngài đã chầu hầu trong sự tôn thờ, con cầu xin Ngài rộng lượng giúp cho những ai là người thân yêu của Ngài biết tôn vinh Thánh ngôn Ngài trong vòng các tôi tớ Ngài, và truyền rộng ra lời chúc tụng Ngài giữa chúng sinh, để cho sự hoan lạc của Mặc khải Ngài tràn ngập linh hồn tất cả cư dân trên trái đất của Ngài.

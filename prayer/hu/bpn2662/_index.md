@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2662 in Magyar'
-tags = ['lang-hu', 'bpn2662']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, kedves Urunk! Kegyesen ruházd fel e fiókákat mennyei szárnyakkal, és adj nékik szellemi erőt, hogy e végtelen téren át röpülhessenek és az Abhá Királyság magaslataira szárnyalhassanak.
 

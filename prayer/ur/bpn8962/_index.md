@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8962 in اُردُو'
-tags = ['lang-ur', 'bpn8962']
+tags = ['lang-ur', 'bpn-unsorted']
 +++
 اے خدا ! مجھے ہدایت دے
 اور میری حفاظت فرما۔

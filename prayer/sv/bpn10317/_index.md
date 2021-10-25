@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10317 in Svenska'
-tags = ['lang-sv', 'bpn10317']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Han är den Mäktige, den Förlåtande, den Medlidsamme!
 O Gud, min Gud! Du ser Dina tjänare i fördärvets och villfarelsens avgrund. Var finns Din gudomliga lednings ljus, o Du världens åstundan? Du känner deras hjälplöshet och svaghet. Var finns Din kraft, o Du, i vars grepp himmelens och jordens krafter är inneslutna?

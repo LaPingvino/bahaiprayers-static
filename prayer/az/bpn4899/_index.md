@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4899 in Azərbaycan'
-tags = ['lang-az', 'bpn4899']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 *Bakı Bəhailərinin-Allahın nuru üzərlərinə olsun-nəzərinə!
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3278 in العربية'
-tags = ['lang-ar', 'bpn3278']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 * لوح الزّيارة
  

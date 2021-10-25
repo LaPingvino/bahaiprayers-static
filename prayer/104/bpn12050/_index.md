@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12050 in '
-tags = ['lang-104', 'bpn12050']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Engkau adalah Dia, Ya Tuhanku, melalui nama-nama-Nya yang sakit disembuhkan dan yang menderita dipulihkan, dan yang dahaga dipuaskan, dan yang duka ditenangkan, dan yang sesat dibimbingi, dan yang hina dimuliakan, dan yang miskin dijadikan kaya, yang jahil menjadi pandai, yang suram menjadi terang, dan yang sedih diriangkan, dan yang sejuk dihangatkan, dan yang tertindas dibebaskan. Berkat nama-Mu, Ya Tuhanku, semua benda tercipta telah digerakkan, dan langit dibentangkan, dan bumi didirikan, dan awan dinaikkan supaya menghujani bumi. Sesungguhnya, inilah tanda rahmat-Mu kepada semua makhluk-Mu.
 

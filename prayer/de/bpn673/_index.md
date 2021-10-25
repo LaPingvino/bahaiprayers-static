@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn673 in Deutsch'
-tags = ['lang-de', 'bpn673']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Im Namen Gottes, des Altehrwürdigen, des Größten.
 Wahrlich, die Herzen der Aufrichtigen zerglühen im Feuer der Trennung: Wo ist das gleißende Licht der Begegnung mit Dir, Du Geliebter der Welten!

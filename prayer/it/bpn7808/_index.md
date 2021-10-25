@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7808 in Italiano'
-tags = ['lang-it', 'bpn7808']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 *“La Preghiera per i Defunti è l’unica preghiera obbligatoria bahá’í che dev’essere recitata in congregazione; dev’essere recitata da un credente mentre tutti i presenti assistono in piedi in silenzio... La Preghiera per i Defunti è prescritta solo quando il defunto sia un adulto, ...durante tale recitazione non è richiesto di volgersi verso 1a Qiblih”.
 *(Il Kítáb-i-Aqdas)

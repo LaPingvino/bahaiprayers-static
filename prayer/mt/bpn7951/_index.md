@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7951 in Malti'
-tags = ['lang-mt', 'bpn7951']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 O Sid! Jien niġi għandeK għall-kenn, u mmexxi qalbi lejn l-egħliem tiegħeK kollha.
 

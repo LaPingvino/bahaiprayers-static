@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4800 in Azərbaycan'
-tags = ['lang-az', 'bpn4800']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey Ruzi Verən! Sən Qərbdəki dostların üzərinə Müqəddəs Ruhun rahiyələrini əsdirdin və Sənin ilahi hidayətinin işığı ilə qərb səmasını nurlandırdın. Bir zaman Səndən uzaq olanları Sən Özünə yaxınlaşdırdın; Yadları sevgili dostlara çevirdin; yatanları oyatdın; qafilləri hüşyar etdin.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2812 in Shqip'
-tags = ['lang-sq', 'bpn2812']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 Zoti im! Zoti im! Të lëvdoj e të falënderoj për ato që i ke dhënë shërbëtores Sate të përunjur, skllaves Sate që të lutet e të përgjërohet Ty, sepse Ti me të vërtetë e ke udhëhequr atë në Mbretërinë Tënde të dukshme dhe ke bërë që ajo të dëgjojë Thirrjen Tënde të frymëzuar në botën e përkohshme dhe të shohë shenjat e Tua, që provojnë ardhjen e sundimit Tënd fitimtar mbi të gjitha gjërat.
 

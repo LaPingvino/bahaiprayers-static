@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12479 in '
-tags = ['lang-103', 'bpn12479']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 I am, O my God, but a tiny seed which Thou hast sown….
 

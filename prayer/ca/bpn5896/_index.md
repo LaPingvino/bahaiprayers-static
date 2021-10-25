@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5896 in Català'
-tags = ['lang-ca', 'bpn5896']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 T’alabo, oh Déu meu, per haver-me despertat del meu somni, per haver-me exposat a la llum després de la meva desaparició i per haver-me tret de la meva letargia. He  despertat  aquest matí amb el rostre tombat cap els resplendors del sol de la Teva Revelació, per mitjà del qual s’han il·luminat els cels del Teu poder i majestat, reconeixent els Teus signes, creient en el Teu Llibre i aferrant-me al Teu cordó. 
 	T’imploro per la potència de la Teva voluntat i el poder irresistible del Teu amor, que es troba en el cor dels Teus estimats, i el millor instrument per la revelació dels signes de la Teva gràcia i amorosa bondat. 

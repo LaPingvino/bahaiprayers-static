@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn610 in Deutsch'
-tags = ['lang-de', 'bpn610']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht bist Du, o Herr mein Gott! Ich flehe Dich an bei Deinen Auserwählten, bei Deinen Vertrauten und bei Ihm, den Du zum Siegel Deiner Propheten und Boten bestimmt hast, lasse Dein Gedenken meinen Gefährten sein, Deine Liebe mein Streben, Dein Antlitz mein Ziel, Deinen Namen meine Leuchte, Deinen Wunsch mein Verlangen und Dein Wohlgefallen meine Freude.
 Ich bin ein Sünder, o mein Herr, und Du bist der Immervergebende. Kaum hatte ich Dich erkannt, da eilte ich hin zum erhabenen Hofe Deiner Gnade. Vergib, o mein Herr, meine Sünden, die mich daran hindern, auf den Pfaden Deines Wohlgefallens zu wandeln und die Ufer des Meeres Deiner Einheit zu erreichen.

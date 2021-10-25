@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4754 in Azərbaycan'
-tags = ['lang-az', 'bpn4754']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 *Allahın bütün dostları..., onların verdiyi ianə nə qədər cuzi olsa da, mümkün olan qədər ianə verməlidirlər. Allah hər hansı bir ruha onun gücündən artıq yük qoymaz. Belə ianələr bütün mərkəzlərdən və bütün möminlərdən gəlməlidir...
 

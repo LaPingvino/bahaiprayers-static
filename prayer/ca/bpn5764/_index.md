@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5764 in Català'
-tags = ['lang-ca', 'bpn5764']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##TAULA DEL FOC
 

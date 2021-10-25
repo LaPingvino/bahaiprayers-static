@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11850 in '
-tags = ['lang-101', 'bpn11850']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Kabant Uluk Rohani)
 * Tibilang sidoh muu molot dewan- pingatur, nang leh doa tih dengan otin dek simodup odak pangirinduk Topa bia jolae bisig sok sua pak-eh panginatong ndu Iyoh, sak kadu Nyaa dek Paling-Bikuasa dengan sudi batue muu odak so’ont kejayaan ayuh.

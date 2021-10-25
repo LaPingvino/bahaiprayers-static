@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12302 in '
-tags = ['lang-95', 'bpn12302']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O ko Koe, toku Atua, Te la e takitaki a ia te la e salasala ki te auala te la e fano tonu, Te la e fakasao mai a tino galo mo latou e tauaso mai i kaiga o te seoli, Ko Koe Te la e tuku ifo ki lua i latou ko la e amio fakamaoni a alofaaga mo mea-alofa, Te la e puipui a latou ko la e mataku i loto i Tau lafiiga e se mafai o maofa, Te la e tali, mai i Tou sikulagi tafasili i te maluga, a te tagi o latou e tagi atu kia Koe. Tavae kia Koe, O toku Aliki!  Koe ne takitaki a latou ko se saga mai keatea mai  i te mate o te se talitonu, kae aumai a latou ko la ne fakapilipili mai ki te pogai o te Malaga, kae fakalifu a latou ko la e talitonu mai i au Tavini ona ko te talia kia latou a manakoga taaua o latou, tela ko oti, mai i Tou Maalo o te gali, matala i mua o olotou mata ko la e naunau kia Koe i 
 mataloa o te toe fakatasi, kae fakasao a latou mai i afi o te mativa mot e galo o koloa – ko te mea ke fakavave a latou kia Koe kae maua a Tou nofo-mai, kae e oko atu ki Tou mataloa fiafia, kae maua a mea-alofa uke a latou.  

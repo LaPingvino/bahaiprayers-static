@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12610 in '
-tags = ['lang-91', 'bpn12610']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 #SAMBIANG OBLIGATORI Tl PANJAI
 ##DISEBUT SEKALI DALAM KANDANG DUAPULUH EMPAT JAM.

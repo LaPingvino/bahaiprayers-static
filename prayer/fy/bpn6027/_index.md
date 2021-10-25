@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6027 in Frysk'
-tags = ['lang-fy', 'bpn6027']
+tags = ['lang-fy', 'bpn-unsorted']
 +++
 Kom by elkoar yn suvere blydskip en sis dit gebed by it begjin fan de gearkomste.
 

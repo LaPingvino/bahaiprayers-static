@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4689 in Azərbaycan'
-tags = ['lang-az', 'bpn4689']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 ##İyirmi dörd saatda bir dəfə qılmali
 

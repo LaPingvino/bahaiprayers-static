@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5765 in Català'
-tags = ['lang-ca', 'bpn5765']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##TAULA D’AHMAD
 

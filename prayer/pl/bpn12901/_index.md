@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12901 in Polski'
-tags = ['lang-pl', 'bpn12901']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Bogiem.
 O Boże, mój Boże! Z całkowitym uniżeniem i żarliwością, pokorą i pobożnością błagam Cię językiem i sercem, duchem i duszą, umysłem i sumieniem, abyś spełnił najskrytsze ze wszystkich pragnień, przeznaczył najbardziej godne ze wszystkich czynów i zesłał wszelką cześć i doskonałość, przychylność i piękno, pomyślność i zbawienie tej rodzinie, która na początku Twego wspaniałego poranka pospieszyła ku Twemu osłaniającemu cieniowi i szukała schronienia w Twojej bezpiecznej przystani i potężnej twierdzy. Zaprawdę, dusze te usłuchały Twego wezwania, zbliżyły się do Twego Progu, zapłonęły ogniem Twej miłości i uniesione zostały tchnieniami Twej świętości. Były wytrwałe w służbie Twojej Sprawie, pokorne przed Twoim Obliczem i szlachetne pod Twoim osłaniającym cieniem. Wsławione są jako te, które noszą Twoje imię pośród Twego ludu i wspominają o Tobie pośród Twoich sług.

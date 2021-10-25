@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6374 in Cymraeg'
-tags = ['lang-cy', 'bpn6374']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Dduw, fy Nuw, f’anwylyd, Dymuniad fy nghalon.
 

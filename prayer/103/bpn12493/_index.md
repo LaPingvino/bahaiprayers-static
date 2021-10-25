@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12493 in '
-tags = ['lang-103', 'bpn12493']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 O Divine Providence! This assemblage is composed of Thy friends who are attracted to Thy beauty…
 

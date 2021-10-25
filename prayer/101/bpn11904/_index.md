@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11904 in '
-tags = ['lang-101', 'bpn11904']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Loh Bisaka tih nye basa ndu Karamat Baha’u’llah duoh Bab. Pun selalu geh obuah pakai daang ngenang onu-onu ayuh Bala tih.)
 Pimudi tih dek mbok nusak sok luhur Seniri odop Ingan, bia pimulia dek mbok bigongab ngiluwang nog sok bilonyih Pangisangon Ingan, pijakoh tunt Ingan, O Ingan Nyaa dek jadin Pinanon Kuasa-Ayuh, bia jadin Raja Pinogond, bia jadin Topa ndu sua dek daang shorga duoh tanak! Oku ngin bukti nang dek sok Ingan biluban Topa bia kuasa-ayuh Iyoh, obuah bikirien, bia asal pangijawak Bitang Singonu mbok ogi mad lingieng eh daang shorga pingodak Ingan dek muktamad bia Pangisangon nyaa dek Bidonont mbok bingongab ngiluwang ndu somu talis pimotan. Oku ngin bukti, sak geh lagi, pakai onik tih pak eh ndi sidoh kimilit Pen Ingan arahan tulis Odop Ingan “ Jadi Ingan” mbok obuah pakai bia sua onik dek obuah motan obuah nai odak idip, bia sua Pingatur-Pingatur mbok obuah pimuun. 

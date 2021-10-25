@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4152 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn4152']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 Neepawee steemoke, nedawee non say Mantou, keyooma ay cueseeheen keekag skayntag kaymee haystatak. Neepawee steemoke, mayquatchooma omah may quatska may swatsian aykooma kee ma skowsyooin, aykoomooma un toomaxion keeway yootsin.  Keyooma poko say Mantou mawiyuk gootak, aywee geehiac geeway gagoos dadegwak, weeah, poko enna kahtoe gahtsuk.
 

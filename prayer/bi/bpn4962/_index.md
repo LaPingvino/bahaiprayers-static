@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4962 in Vanuatu'
-tags = ['lang-bi', 'bpn4962']
+tags = ['lang-bi', 'bpn-unsorted']
 +++
 O Masta mo God blong mi! Helpem olgeta we Yu lavem olgeta blong oli kam strong long bilif blong Yu.
 Helpem olgeta i wokbaot long ol rod blong Yu, mo oli stap strong oltaem long Wok blong Yu. Letem spirit blong Yu i kam long olgeta, blong oli save blokem ol rabis tingting we i kamaot long olgeta nomo, mo blong oli save folem laet blong waes blong Yu.

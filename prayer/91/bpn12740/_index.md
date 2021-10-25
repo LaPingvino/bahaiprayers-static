@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12740 in '
-tags = ['lang-91', 'bpn12740']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 *(Sambiang tu, dipegari ulih ‘Abdu’l-Bahá, dibacha ba Sungkup Iya. Tau mega diguna maya sambiang kediri)
 *"Barang sapa nyampika sambiang tu enggau pemaruh ati sereta enggau ati ti ngundukka diri ia deka mai pengaga enggau pengelantang ngagai Pengasuh tu: ianya asai ke betemu betunga mua enggau Iya."

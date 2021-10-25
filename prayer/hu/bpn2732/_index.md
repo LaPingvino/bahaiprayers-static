@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2732 in Magyar'
-tags = ['lang-hu', 'bpn2732']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Dicsőség légyen Néked, ó, Uram, Ki parancsod erejével életre hívtál minden teremtett dolgot.
 

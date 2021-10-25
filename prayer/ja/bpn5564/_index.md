@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5564 in 日本語'
-tags = ['lang-ja', 'bpn5564']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 ##殉教者とその家族
 

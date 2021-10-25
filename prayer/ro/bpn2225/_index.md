@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2225 in România'
-tags = ['lang-ro', 'bpn2225']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Dumnezeule! Încercările pe care le trimiţi sunt o alinare pentru toţi cei ce sunt devotaţi voinţei Tale; pomenirea Ta este un leac tămăduitor pentru inimile celor ce s-au apropiat de curtea Ta; apropierea de Tine este adevărata viaţă pentru cei ce Te iubesc; prezenţa Ta este dorinţa cea mai fierbinte a celor ce năzuiesc să-Ţi privească faţa; depărtarea de Tine este chinul celor care au recunoscut unicitatea Ta, iar despărţirea de Tine este moarte pentru cei care au recunoscut adevărul Tău!
 

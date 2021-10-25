@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2685 in Magyar'
-tags = ['lang-hu', 'bpn2685']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Rendelj el számomra minden jót, ó, Uram, amit teremtettél vagy teremteni fogsz, és óvj meg minden rossztól, ami Előtted visszataszító azon dolgok közül, amiket életre hívtál, vagy életre fogsz hívni. Bizony, a Te tudásod átölel minden dolgokat. Dicsértessél, Rajtad kívül valóban nincsen más Isten, és a mennyekben, a földön, vagy a kettő között soha semmi nem hiúsíthatja meg szándékodat. Te valóban mindenek fölött hatalmas vagy.
 

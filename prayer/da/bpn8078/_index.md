@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8078 in Dansk'
-tags = ['lang-da', 'bpn8078']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Min Gud, som jeg tilbeder og elsker! Jeg vidner om Din enhed og Din helhed og anerkender Dine gaver både i fortiden og i nutiden. Du er Den Algavmilde, hvis barmhjertigheds overstrømmende byger har regnet på både høj og lav, og hvis nådes glans er blevet kastet både på de lydige og de oprørske.
 

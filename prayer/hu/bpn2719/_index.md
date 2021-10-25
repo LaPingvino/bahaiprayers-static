@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2719 in Magyar'
-tags = ['lang-hu', 'bpn2719']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Istenem, Kit tisztellek és imádlak! Tanúságot teszek egységedről és egyedüliségedről, és elismerem ajándékaidat mind a múltban és a jelenben. Te vagy a Mindenek Felett Bőkezű. Irgalmad kicsorduló záporai egyformán patakzanak alá királyokra és koldusokra, és kegyelmed ragyogása az engedelmesekre és engedetlenekre is árad.
 

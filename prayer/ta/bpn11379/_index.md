@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11379 in தமிழ்'
-tags = ['lang-ta', 'bpn11379']
+tags = ['lang-ta', 'bpn-unsorted']
 +++
 மேன்மையான, அதி உயரிய, அதி விழுமிய அவரது திருநாமத்தின் பேரால்! 
 

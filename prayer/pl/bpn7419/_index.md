@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7419 in Polski'
-tags = ['lang-pl', 'bpn7419']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 W Imię Twego Pana, Stwórcy, Władcy, Wszechwystarczającego i Najwznioślejszego, o którego pomoc błagają wszyscy ludzie.
     

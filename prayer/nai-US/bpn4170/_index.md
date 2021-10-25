@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4170 in American Indian'
-tags = ['lang-nai-US', 'bpn4170']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Yízhí bee Ni’dóójíinii ‘éí náshííldzii’, shi Diyin Nílíinii, áádóó bee nééhanihii ‘éí bee náádiisdzá.
 Níighahgii anísht’é dooleel ‘éí laanaa nisin ‘áádóó shee ayóó’ó’ó’ni Nil hólóó ‘éí bee náás yiisháál. Bee shaajíníba’ígíí ‘éí    

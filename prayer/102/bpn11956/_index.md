@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11956 in '
-tags = ['lang-102', 'bpn11956']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’äl-Äbha
     Eý jandan geçen binyşan ýar! Müňlerçe akyldar Onuň gözleginde, ýöne olar mahrum hem Onuň rugsaryndan uzakdadyrlar. Sen bolsa hem tapdyň hem tanadyň. Sen hyzmat oýnunda utulyp, öz işiňi bitirdiň. Sen ýeňiş we ýagşylyk baýdagyny göterdiň. Bu bir ajap hekaýat, görülmedik buşluk bu! Agtaranlar tapmady-da, oturanlar tapdylar. Ystahfyr’Alla gözleýişleri teşneleriň däl-de salgym görenleriň gözlegimiş, dilegleri aşyklaryň däl-de, akyllylar dilegimiş.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3596 in Norsk'
-tags = ['lang-no', 'bpn3596']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 *Naw-rúz, den 21. mars, er den første dag i bahá'í året, en gledens dag.
  

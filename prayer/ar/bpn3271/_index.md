@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3271 in العربية'
-tags = ['lang-ar', 'bpn3271']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 * كلمات الحكمة
 # هُوَ العَلِيُّ الأَعْلَى

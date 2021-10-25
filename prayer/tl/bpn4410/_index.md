@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4410 in Filipino'
-tags = ['lang-tl', 'bpn4410']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Ikaw na Nagkakaloob! Ihininga Mo sa mga kaibigan sa Kanluran ang matamis na samyo ng Banal na Espiritu, at sa pamamagitan ng ilaw ng banal na pamamatnubay ay pinaliwanag Mo ang langit ng kanluran. Ginawa Mong mapalapit sa Iyong Sarili yaong dating mga malalayo; ginawa Mong mapagmahal na mga kaibigan yaong dating mga di-magkakilala; ginising Mo yaong mga natutulog; ginawa Mong maingat yaong dating pabaya.
 

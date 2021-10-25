@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7952 in Malti'
-tags = ['lang-mt', 'bpn7952']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 O Alla, Alla tiegħi! Imla għalija il-bieqja tal-firda minn kollox, u fil-ġemgħa ta’ dwaleK u għotjieteK, ferraħni bl-inbid ta’ l-imħabba lejK. Eħlisni mill-ħebb tal-passjoni u x-xewqa, kissirli l-manetti ta’ din id-dinja taħtana, iġbidni imsaħħar lejn saltnateK fuqana, u ġeddidni fost il-qaddejja b’nifsijiet qdusiteK.
 

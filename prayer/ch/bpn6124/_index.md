@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6124 in Chamorro'
-tags = ['lang-ch', 'bpn6124']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 Sangan: “O Yu’os, Yu’os-hu! Muda i ilu-hu ni koronan hustisia, yan adotno i templo-ku yan i tininas. Hagu, sen magahet, chumuchule’ todu i nina’i yan i guinaha.”
 

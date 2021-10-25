@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2604 in العربية'
-tags = ['lang-ar', 'bpn2604']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 * (لوح احمد)
 ## هُوَ السُّلْطَانُ العَليْمُ الحَكِيمُ

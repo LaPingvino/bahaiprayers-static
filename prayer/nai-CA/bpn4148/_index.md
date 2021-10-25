@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4148 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn4148']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 Apistotokeewa keeták-oXkotspómok-owa, kútat-sits-eéh’pa keeták-oXkot-spomókee? Ah-yoh Apistotokee! UnúX-kiy Apistotokee! Kunáy-tapee otés-pomok ki óXkunoX-pokee-woh-yah.
 

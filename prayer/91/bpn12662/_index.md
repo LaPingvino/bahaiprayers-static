@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12662 in '
-tags = ['lang-91', 'bpn12662']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Dalam Nama Tuhan nuan, ti Penempa, ti Kuasa-raja, ti
 Semua-Penyukup, ti Pemadu Tinggi, tulung Iya Siku dipinta ulih semua mensia.

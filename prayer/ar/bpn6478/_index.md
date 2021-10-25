@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6478 in العربية'
-tags = ['lang-ar', 'bpn6478']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 الصّلاة الكبرى
 * تؤدى مرّة في كلّ أربع وعشرين ساعة

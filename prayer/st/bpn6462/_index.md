@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6462 in Sesotho'
-tags = ['lang-st', 'bpn6462']
+tags = ['lang-st', 'bpn-unsorted']
 +++
 Oho Uena Morena Ea Moa! Ke Uena Ea bopileng batho bohla kaofela batsoaling ba le bang ba pele. U rerile hore bohle e be ba ntlo e le ‘ngoe. Ka pele ho Uena Ea halalelang, bohle ke bank aba Hau, ‘me lichaba tsohle li tlas’a tšireletso ea Tabernekel Ea Hau; bohle ba phuthehile Tafoleng Ea Limpho tsa Hau. Bohle ba phatsima ka leseli la pheliso ea Hau. 
 Oho Molimo! U mosa ho bohle, U lokiselitse bohle, U tšireletsa bohle, bohle U ba fa bophelo. U abetse bohle litalena le kelello; bohle ba qoetse bolibeng ba mohau oa Hau.

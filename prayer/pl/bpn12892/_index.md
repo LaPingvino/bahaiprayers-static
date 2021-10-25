@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12892 in Polski'
-tags = ['lang-pl', 'bpn12892']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty Wszechmogący Panie! Wszyscy znajdujemy się w potężnym uścisku Twojej mocy. Tyś jest naszą Podporą i Pomocą. Udziel nam swego czułego miłosierdzia, obdarz nas swą szczodrością, otwórz wrota łaski i skieruj na nas spojrzenie swych dobrodziejstw. Spraw, by owiało nas ożywcze tchnienie i rozbudź nasze stęsknione serca. Oświeć nasze oczy i spraw, aby sanktuarium naszych serc było przedmiotem zazdrości wszystkich ukwieconych błoni. Uciesz każdą duszę i uraduj każdego ducha. Ujawnij swoją pradawną potęgę i ukaż swoją wielką moc. Spraw, aby ptaki ludzkich dusz wzbiły się na nowe wyżyny a Twoi powiernicy w tym doczesnym świecie zgłębili tajemnice Twojego Królestwa. Utwierdź nasze kroki i obdarz nas niezłomnymi sercami. Jesteśmy grzesznikami, a Ty jesteś Zawsze Przebaczającym. Jesteśmy Twoimi sługami, Ty jesteś Suwerennym Panem. Jesteśmy bezdomnymi wędrowcami, Ty jesteś naszą przystanią i schronieniem. Pomagaj nam łaskawie i wspomagaj w rozsiewaniu Twych słodkich wonności i wywyższaniu Twego Słowa. Wynieś pozycję ubogich i obdarz potrzebujących swym niewyczerpanym skarbem. Udziel swojej siły słabym a bezsilnych obdarz niebiańską mocą. Tyś jest Żywicielem, Tyś jest Łaskawym, Tyś jest Panem, który włada wszystkimi rzeczami.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13031 in '
-tags = ['lang-114', 'bpn13031']
+tags = ['lang-114', 'bpn-unsorted']
 +++
 *Atenga kägl ant keng orong pomena, Bahá’í wamp pora tenta tenta nek näi.  Koemp keta na ki na pora uglumi rokon Bahá’u’lláh nga alta morom illa koemp keta orong dokon molkon atenga rui.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11932 in '
-tags = ['lang-102', 'bpn11932']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’Alla.
     Eý Mähriban Taňrym! Bary bir taýpanyň agzasy hem Seniň dergähiň bendeleri bolup biler ýaly ähli adamzady bir nesilden ýaratdyň. Olara Öz Jomartlyk öýüň saýasynda pena berdiň. 

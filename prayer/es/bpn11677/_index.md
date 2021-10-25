@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11677 in Español'
-tags = ['lang-es', 'bpn11677']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 *Reuníos con verdadera alegría, y recitad esta oración al principio de la reunión
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4481 in Filipino'
-tags = ['lang-tl', 'bpn4481']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Purihin Ka, O Panginoon kong Diyos! Ito ay Iyong tagapaglingkod na uminom buhat sa mga kamay ng Iyong biyaya ng alak ng Iyong masuyong kahabagan, at nakatikim ng tamis ng Iyong pag-ibig sa Iyong mga araw. Isinasamo ko sa Iyo sa mga kumakatawan sa Iyong mga pangalan na hindi mapipigilan ng anumang dalamhati sa pagdiriwang sa Iyong pag-ibig o sa pagmamalas sa Iyong mukha, at walang kakayahan ang lahat ng mga kawan ng mga pabaya na ilihis sila buhat sa landas na Iyong ikinasisiya, na pagkakalooban Mo siya ng mabubuting bagay na inaangkin Mo, at dalhin Mo siya sa kataasan upang buhat doon ay maituring niya ang daigdig na isang aninong nawawala nang mabilis pa sa isang kisapmata.
 

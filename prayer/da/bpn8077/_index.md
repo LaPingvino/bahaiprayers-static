@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8077 in Dansk'
-tags = ['lang-da', 'bpn8077']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Al majestæt og ære, o min Gud, og al magt og lys og storhed og glans hører Dig til. Du skænker herredømme til dem, Du vil, og tilbageholder det fra dem, du ønsker. Ingen Gud er der uden Dig, Den Altbesiddende, Den Mest Ophøjede. Du er Ham, der ud af intet skabte universet og alt, hvad der dvæler deri. Intet er Dig værdigt undtagen Dit selv, medens alle andre end Dig er som udstødte i Din hellige nærværelse og som intet sammenlignet med herligheden i Dit eget væsen.
 

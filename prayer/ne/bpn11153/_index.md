@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11153 in नेपाली'
-tags = ['lang-ne', 'bpn11153']
+tags = ['lang-ne', 'bpn-unsorted']
 +++
 तिमी नै हौ सबैको प्रार्थना सुन्ने र मञ्जूर गर्ने । 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6122 in Chamorro'
-tags = ['lang-ch', 'bpn6122']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##OTRO SIHA NA TINAITAI
 *SOME OTHER PRAYERS

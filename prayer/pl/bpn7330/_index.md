@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7330 in Polski'
-tags = ['lang-pl', 'bpn7330']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Każdy, kto podróżuje poprzez miasta, wioski i osady (…) rozsiewając Boskie aromaty, powinien każdego ranka uważnie przeczytać tę oto modlitwę:
    

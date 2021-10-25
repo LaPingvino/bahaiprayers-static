@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7477 in Polski'
-tags = ['lang-pl', 'bpn7477']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Zgromadźcie się w niezmąconej radości i na początku każdego zebrania odmówcie następującą modlitwę:
     

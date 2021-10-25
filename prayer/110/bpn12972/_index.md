@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12972 in '
-tags = ['lang-110', 'bpn12972']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 O God bilong marimari!  Yu gat strong na pawa.  Na Yu olsem naispela Papa! Ol dispela wokman i bung wantaim na tanim pes i go long Yu.  Ol i askim strong long dua bilong Yu.  Ol i laik kisim ol blesing i save kam long Yu oltaim long strongim ol.  Ol i gat wanpela bikpela laik tasol, em long amamasim Yu.  Ol i laik wokim wanpela samting tasol, em long kamap wokman bilong olgeta manmeri long graun. 
  

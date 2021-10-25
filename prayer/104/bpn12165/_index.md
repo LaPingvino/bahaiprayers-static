@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12165 in '
-tags = ['lang-104', 'bpn12165']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Engkau Tuhan yang Pemurah! Hamba-hamba ini telah berkumpul dalam pertemuan ini, telah berpaling kepada kerajaan-Mu dan memerlukan kurnia dan berkat-Mu. Ya Engkau Tuhan! Jelmakanlah dan perlihatkanlah tanda-tanda keesaan-Mu yang telah tersimpan di dalamnya semua realiti kehidupan. Tunjukkanlah dan bukakanlah sifat-sifat yang Engkau telah jadikan terpendam dan tersembunyi dalam realiti manusia ini.
 

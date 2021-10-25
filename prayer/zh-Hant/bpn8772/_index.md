@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8772 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8772']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 *每日中午吟誦一次
 

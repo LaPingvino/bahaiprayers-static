@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11879 in '
-tags = ['lang-101', 'bpn11879']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 Ingan leh dek mulia, O Raja, Ingan leh Nyaa dek toban odak idip sua onik dek obuah motan, pakai sok kuasa pingodak Ingan.
 O Raja! Tulung bala nyaa dek mbok supiah togant sua dibokon pak-eh Ingan, bia ngibonar bala kemenangan dek ayuh. Pimuun tudu bala, O Raja, padang topat bigupul malaikat-malaikat daang surga duoh tanak bia sua ndu auw, odak batue ulunt-ulunt Ingan, odak tulung sotok sandat duoh nogap bala, odak bala tungang so’ont kejayaan, odak naan magog bala, odak modung bala pakai pimulia, odak pisoh tudu bala kehormatan duoh bigatung tipaad, odak bala biotak bidaya bia nai odak bala bujur pakai pimujul dek ajaib. 

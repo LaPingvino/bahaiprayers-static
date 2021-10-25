@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3193 in Afrikaans'
-tags = ['lang-af', 'bpn3193']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Hy is die gebed-horende, gebed-verhorende God!
 

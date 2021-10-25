@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1204 in Português (BR)'
-tags = ['lang-pt', 'bpn1204']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Senhor do visível e do invisível, e Luz de toda a criação! Suplico-Te, pela Tua soberania, velada dos olhos dos homens, que reveles em toda parte os sinais das Tuas múltiplas bênçãos e da Tua benevolência, para que eu me possa levantar com regozijo e êxtase, elogiando as Tuas maravilhosas virtudes, ó Tu, o Mais Misericordioso, e comovendo, em Teu nome, todas as coisas criadas, a tal ponto acendendo o fogo da Tua glorificação entre as Tuas criaturas que o mundo inteiro se torne pleno da esplendorosa luz da Tua glória e toda a existência incandesça com o ardor da Tua Causa.
 Não desfaças, ó meu Senhor, o que foi estendido em Teu nome, nem extingas a lâmpada que o Teu próprio fogo acendeu. Não impeças de jorrar, ó meu Senhor, a água que é a verdadeira vida – a água de cujos murmúrios se fazem ouvir as melodias maravilhosas que Te louvam e glorificam. Não negues aos Teus servos, suplico-Te ainda, a doce fragrância do sopro que emanou do Teu amor.

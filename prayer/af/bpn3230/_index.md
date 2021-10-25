@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3230 in Afrikaans'
-tags = ['lang-af', 'bpn3230']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O God, my God! U sien hoe die swart donkerheid alle streke omhul, hoe alle lande met die vlam van verdeeldheid brand, en die vuur van oorlog en slagting oor die Ooste en die Weste brand. Bloed vloei, lyke bestrooi die grond, en afgekapte koppe is in die stof van die slagveld geval.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2574 in Русский'
-tags = ['lang-ru', 'bpn2574']
+tags = ['lang-ru', 'bpn-unsorted']
 +++
 Он есть Могущественный, Прощающий, Сострадательный!
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11686 in Español'
-tags = ['lang-es', 'bpn11686']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 Tú ves, oh Dios de Misericordia, oh Tú Cuyo poder penetra todas las cosas creadas, a estos siervos Tuyos, Tus esclavos, que, de acuerdo con el beneplácito de Tu Voluntad, observan de día el ayuno prescrito por Ti, que se levantan con las primeras luces para hacer mención de Tu Nombre y celebrar Tu alabanza, con la esperanza de obtener su parte de las cosas buenas que están guardadas en los tesoros de Tu gracia y munificencia. Te imploro, oh Tú que tienes en Tus manos las riendas de la creación entera, bajo Cuyo dominio se encuentra todo el reino de Tus nombres y de Tus atributos, que no prives en Tu Día a Tus siervos de las lluvias que caen de las nubes de Tu misericordia, ni les impidas que tomen su porción del océano de Tu complacencia.
 Todos los átomos de la tierra dan testimonio, oh mi Señor, de la grandeza de Tu poder y de Tu soberanía, y todos los signos del universo atestiguan la gloria de Tu majestad y de Tu fuerza. ¡Oh Tú que eres el soberano Señor de todos, el Rey de los días sempiternos y Monarca de todas las naciones! Ten misericordia, pues, de estos siervos Tuyos, que se han aferrado a la cuerda de Tus mandamientos y se han inclinado ante las revelaciones de Tus leyes, enviadas desde el cielo de Tu Voluntad.

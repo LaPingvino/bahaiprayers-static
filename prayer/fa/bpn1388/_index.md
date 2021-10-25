@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1388 in فارسی'
-tags = ['lang-fa', 'bpn1388']
+tags = ['lang-fa', 'bpn-unsorted']
 +++
 صلات وسطى 
  *صلات وسطى كه در بامداد و حين زوال و اصيل تلاوت ميشود

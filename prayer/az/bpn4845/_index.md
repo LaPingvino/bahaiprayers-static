@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4845 in Azərbaycan'
-tags = ['lang-az', 'bpn4845']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 İlahi! İlahi! Sənin yaratdıqların qarşısında mənim zəifliyimi, təvazökarlığımı və mütiliyimi görürsən, bununla belə, Sənə etibar etmişəm. Sənin qüvvət və qüdrətinə təvəkkül edərək, Sənin təlimlərini Sənin güclü bəndələrin arasında yaymaq üçün ayağa qalxmışam.
 

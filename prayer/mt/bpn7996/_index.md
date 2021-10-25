@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7996 in Malti'
-tags = ['lang-mt', 'bpn7996']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 #TALBA OBLIGATORJA TWILA   
 ##TINGĦAD DARBA F’ERBGĦA U GĦOXRIN SIEGĦA

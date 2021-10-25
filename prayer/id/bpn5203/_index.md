@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5203 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5203']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 ##LOH API
 *(QAD-IKHTARAQA'L-MUKHLISUN)

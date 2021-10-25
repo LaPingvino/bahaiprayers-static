@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10612 in '
-tags = ['lang-92', 'bpn10612']
+tags = ['lang-92', 'bpn-unsorted']
 +++
 *(Өдөрт нэг удаа үдэд үйлдэнэ)
 

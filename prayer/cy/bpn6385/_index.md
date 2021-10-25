@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6385 in Cymraeg'
-tags = ['lang-cy', 'bpn6385']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Dduw, arwain fi, gwarchod fi, gwna fi yn lamp olau a seren ddisglair.  Ti yw’r Nerthol a’r Grymus.
 

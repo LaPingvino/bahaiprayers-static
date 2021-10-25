@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9968 in Kalaallisut'
-tags = ['lang-kl', 'bpn9968']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Isumakkeerfiginninnissat qinnutigaara, Guutiga-aa, isumakkiigaanerlu qinnutigalugu taamatut kiffavit Ilinnut saaffiginninnissaannik kissaatiginninnerit Malillugu. 
 Qinnuigaakkit naalagaaffiginninnerit naapertorlugu ajortigut errorlugit peeqqullugit, aammalu uanga isumakkeerfigeqqullunga, angajoqqaakka aammattaaq taakku misiliinerni asanninnerpit najugaanut isersimasut angingaassusernut akitsisitaangaarsusernullu naleqqulluartumik, pissaanerpillu qilammiorpaluttup ileqqussaalluarneranut tulluuttumut. 

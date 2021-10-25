@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4775 in Azərbaycan'
-tags = ['lang-az', 'bpn4775']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, ey mənim Allahım! Mənim üzüm Sənin üzünə yönəlmişdir və mənim üzüm, həqiqətən, Sənin üzündür, mənim nidam Sənin nidan, Mənim zühurum Sənin Zühürün və mənim özüm Sənin Özün, mənim Əmrim Sənin Əmrin, mənim hökmüm Sənin hökmün, mənim Varlığım Sənin Varlığın, mənim hökmranlığım, Sənin hökmranlığın, mənim şərəfim Sənin şərəfin, mənim qüdrətim Sənin qüdrətindir.
 

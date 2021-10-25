@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11795 in '
-tags = ['lang-101', 'bpn11795']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Ngubul Ndu Kobont Bunga)
 *	Doa sa’ant nyaa dek kobos obuah pakai tudu nyaa umur dek 15 sowak ki somu. “Tih sija doa wajib Baha’I dek obuah nai cara ngubak; doa dek obuah nang odak ndi na’an sodang pinganut dibokon mujuag motug. Doie perlu ngaduap Qiblih takal basa doa tih”. A Synopsis and Codification of the Kitab-i-Aqdas.

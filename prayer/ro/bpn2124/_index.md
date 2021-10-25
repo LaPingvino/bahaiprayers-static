@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2124 in România'
-tags = ['lang-ro', 'bpn2124']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Dumnezeul meu venerat şi adorat! Stau mărturie unităţii şi unicităţii Tale şi adeveresc toate darurile Tale trecute şi prezente. Tu eşti Cel Atotdarnic, Cel care îşi revarsă ploaia milostivirii peste cel de sus precum şi peste cel de jos şi luminează cu splendorile harului Său pe cel supus precum şi pe cel răzvrătit.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4532 in Filipino'
-tags = ['lang-tl', 'bpn4532']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Sa Ngalan ng Diyos, ang Napakatanda, ang Pinakadakila.
 

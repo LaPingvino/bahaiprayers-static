@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2289 in România'
-tags = ['lang-ro', 'bpn2289']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Tu a Cărui apropiere e dorinţa mea, a Cărui prezenţă e speranţa mea, a Cărui pomenire e dorinţa mea, a Cărui curte de slavă e ţelul meu, al Cărui nume e vindecarea mea, a Cărui iubire e strălucirea inimii mele, a Cărui slujire e aspiraţia mea cea mai înaltă! Te implor, întru numele Tău prin care le-ai îngăduit celor ce Te-au recunoscut să se înalţe în zbor spre minunatele înălţimi ale cunoaşterii Tale şi le-ai dat putere celor ce Te preamăresc cu devoţiune să urce înlăuntrul hotarelor curţii sfintelor Tale favoruri, să mă ajuţi să-mi întorc privirea către faţa Ta, să-mi aţintesc ochii asupra Ta şi să vorbesc despre slava Ta.
 

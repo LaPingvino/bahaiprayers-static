@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8147 in Dansk'
-tags = ['lang-da', 'bpn8147']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 ##Lang Obligatorisk Bøn 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7926 in Italiano'
-tags = ['lang-it', 'bpn7926']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 ##TAVOLA DI AḤMAD
 

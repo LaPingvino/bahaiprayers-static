@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3144 in Afrikaans'
-tags = ['lang-af', 'bpn3144']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O my God! O U de vergewer van sondes, skenker van gawes, verdrywer van smart!
 

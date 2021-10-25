@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9150 in Français'
-tags = ['lang-fr', 'bpn9150']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, souffre que je m’approche de toi et que je vive dans l’enceinte de ta cour, 
 car l’éloignement m’a presque consumé. Laissemoi reposer à l’ombre des ailes de ta grâce, car la flamme de notre séparation a fait fondre mon cœur. Rapproche-moi de la rivière qui est la vie, car mon âme meurt de soif dans son incessante quête de toi. Ô mon Dieu, mes soupirs proclament l’amertume de mon angoisse et les larmes que je verse témoignent de mon amour pour toi.

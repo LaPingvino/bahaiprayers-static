@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9379 in Malagasy'
-tags = ['lang-mg', 'bpn9379']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Tsitoaha! Mpanota aho, nefa Ianao Ilay izay mamela heloka! Malemy aho eo anatrehan’ny fakampanahy, nefa Ianao Ilay izay Mpangoraka! Ao  anaty aizim-piton’ny fahadisoana aho, nefa Ianao no fahazavan’ny famotsorana!
 Ianao, ry Andriamanitra be fitiavana, mamela ny heloko, omeo ahy ny tolotrao, mamindra fo amin’ny fahadisoaka, aoka ho fialofako Ianao, asitrio ao amin’ny loharanom-paharetanao aho ary sitrano amin’ny fangirifiriana sy ny aretina rehetra.

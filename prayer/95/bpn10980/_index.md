@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10980 in '
-tags = ['lang-95', 'bpn10980']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 *“A talo fakapitoa ko la e fai i aso taki tasi, fakatasi mo naai isi talo fakamatea aka, pela mo te Talo o te Fakagata Masaki, te Tapeleti a Ahmad, ko oti ne fakaeke ne Baha’u’llah a maalosi fakapitoa kae taaua, tela la e tau o talia me ko oti ne fai pena kae e tau o fai talosaga ne taugasoa mo te talitonu katoatoa mote mautinoa, me e auala mai i talosaga konei e mafai ne latou o ulu ki se tulaga fakapilipili atu kite Atua, kae lavea fakalei ne latou Ana tulafono mo Ana fakatonuuga. – From a letter written on behalf of Shoghi Effendi
 A ia ko te Tupu, ko te Iloa-Katoatoa, ko te Atamai!  Tenei, ate Nainitinikale o te Palataiso e usu i luga i kaula o te Lakau o te Ola se-Gatamai, mo leo tapu mo te logomalie, o faka-salalau atu kia latou ko la fakamaoni a te tala llei o te pilipili mai o te Atua, o kalaga atu kia latou ko la e talitonu i te Faka-tasiiga Tapu ki te malae o te Fakatasi atu o te Lima Mafola Tokotasi, o fakailoa kia latou, ko la ko oti ne fakaatea mai ite fekau te la ko oti ne fakaasi ne te Atua, te Tupu, te Matagofie, te Pule-Katoatoa, o takitaki a fagasele ki te nofoga mmalu mo te Gali malipolipo tenei.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9941 in አማርኛ.'
-tags = ['lang-am', 'bpn9941']
+tags = ['lang-am', 'bpn-unsorted']
 +++
 *Naw-Ruz Prayers
 

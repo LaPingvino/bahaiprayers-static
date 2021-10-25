@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2802 in Shqip'
-tags = ['lang-sq', 'bpn2802']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Perëndia im, Mjeshtri im, Qëllimi i dëshirës sime! Ky, shërbëtori Yt, kërkon të flejë nën strehën e mëshirës Sate dhe të pushojë nën tendën e mirësisë Sate, duke u lutur t'i japësh kujdesin Tënd e mbrojtjen Tënde.
 

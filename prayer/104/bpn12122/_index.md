@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12122 in '
-tags = ['lang-104', 'bpn12122']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhan, Tuhanku! Penuhilah daku satu cawan ketakterikatan kepada segala benda, dan dalam himpunan rahmat dan anugerah-Mu, riangkanlah daku dengan wain kasih sayang-Mu. Bebaskanlah daku daripada serangan hawa nafsu, putuskanlah daripada diriku belenggu duniawi ini, tariklah daku dengan keseronokan kepada alam keagungan-Mu, dan segarkanlah daku dalam kalangan dayang-dayang dengan nafas kesucian-Mu.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3270 in العربية'
-tags = ['lang-ar', 'bpn3270']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 * الكَلِمَاتُ المَكْنُونَةُ
 # هُوَ البَهِيُّ الأَبْهَى

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11940 in '
-tags = ['lang-102', 'bpn11940']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’äl-Äbha.
     Eý Taýsyz Taňry! Biz Seniň şermende bendeleriň, Sen bolsa geçirimlisiň. Biz günäkärler, Sen bolsa Ýalkaýjysyň. Biz ýesir, biz pahyr, biz biçäre, Sen bolsa pena Beriji we goldan Tutujysyň. Biz ejiz garynjalar ýaly, Sen bolsa, asmanly tagtynda oturan şöwketli Süleýmansyň. Öz Jomartlygyň hatyrasy üçin bizi gora hem Öz gözegçiligiňi we kömegiňi bizden gaýgyrma.

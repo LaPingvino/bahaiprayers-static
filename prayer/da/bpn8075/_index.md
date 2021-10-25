@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8075 in Dansk'
-tags = ['lang-da', 'bpn8075']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 I Guds navn, Den Højeste! Lovet og priset være Du, Herre, Almægtige Gud! Du, over for hvis visdom den vise kommer til kort og giver op, over for hvis kundskab den lærde tilstår sin uvidenhed, over for hvis magt den stærke bliver svag, over for hvis rigdom den rige erkender sin fattigdom, over for hvis lys den oplyste er fortabt i mørke, mod hvis kundskabs helligdom kærnen i al forståelse vender sig, og omkring hvis nærværelses fredhellige sted alle menneskesjæle kredser.
 

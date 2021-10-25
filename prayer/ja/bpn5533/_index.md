@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5533 in 日本語'
-tags = ['lang-ja', 'bpn5533']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 布教のため各地に旅する者は、
 　　　　　　　山でも砂漠でも陸でも海でもこの祈りを唱えよ。

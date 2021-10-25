@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9373 in Malagasy'
-tags = ['lang-mg', 'bpn9373']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Tompoko ô! Ry Tompoko ô! Ity dia jiro iray nazavaina tamin’ny afon’ny Fitiavanao sy narehitra  tamin’ny lelafo nirehitra teo amin’ny hazon’ny Famindramponao.
 Ry Tompoko ô! Ampitomboy ny firehetany, ny hafanany sy ny lelafony, amin’ny afo izay nirehitra tao amin’ny Sinaïn’ny Fanehoanao.

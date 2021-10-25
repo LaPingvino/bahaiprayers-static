@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4708 in Azərbaycan'
-tags = ['lang-az', 'bpn4708']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, Mənim Allahım! Sənin bu kənizin Səni çağırır, Sənə inanır, üzünü Sənə tutub yalvarır ki, Öz səmavi lütflərini onun üzərinə yağdırasan, ruhani sirlərini ona açasan və Sənin İlahilik işıqlarını onun üzərinə saçasan.
 

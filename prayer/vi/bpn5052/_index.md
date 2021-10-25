@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5052 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5052']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, vinh quang thuộc về Ngài; lạy Thượng Đế của con, lời chúc tụng cũng thuộc về Ngài!
 Bởi Thánh Danh mà Ngài đã biểu hiện quyền năng và sức mạnh Ngài, con xin Ngài thanh tẩy tấm kính tâm hồn các tôi tớ Ngài khỏi mọi vết bẩn hoài nghi và bất tín, và xin dắt dẫn những linh hồn lầm lạc về với ánh sáng Ngài, để hiểu thấu sự thống nhất của Ngài và nhận biết sự đơn nhất của Ngài.

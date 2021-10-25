@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8071 in Dansk'
-tags = ['lang-da', 'bpn8071']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Herre! Ynkværdige er vi, skænk os Din nåde, fattige, giv os del i Din rigdoms hav, nødlidende, opfyld Du vore behov, nedværdigede, skænk os Din ære. Fuglene i luften og dyrene på marken modtager hver dag deres føde fra Dig, og alle skabninger får del i Din beskyttelse og kærlige omsorg.
 

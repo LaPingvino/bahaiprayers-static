@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7598 in Suomi'
-tags = ['lang-fi', 'bpn7598']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 *Teidän tulee jatkaa yhdeksäntoista päivän juhlan viettämistä. Se on hyvin tärkeää, se on erittäin hyvä. Mutta kun saavutte kokouksiin, ennen kuin astutte sisään, vapauttakaa itsenne kaikesta, mitä on sydämessänne, vapauttakaa ajatuksenne ja mielenne kaikesta paitsi Jumalasta ja puhukaa sydämellenne. Että kaikki voisivat tehdä siitä rakkauden kokouksen, tehdä siitä valaistumisen lähteen, tehdä siitä sydämiä viehättävän kokouksen, ympäröidä tämän kokouksen korkeuden väen valolla, niin että olisitte kokoontuneina mitä suurimmassa rakkaudessa.
 

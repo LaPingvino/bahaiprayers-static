@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7818 in Italiano'
-tags = ['lang-it', 'bpn7818']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 Lode sia a Te, o mio Dio! Sono uno dei Tuoi servi che ha creduto in Te e nei Tuoi segni. Vedi che mi sono avviato verso la porta della Tua misericordia e ho volto il viso in direzione della Tua amorosa gentilezza. T’im-ploro, per i Tuoi più eccellenti titoli e per i Tuoi più eccelsi attributi, di aprire dinanzi a me le porte delle Tue elargizioni. Aiutami, dunque, a fare quello che è bene, o Tu Che sei il Possessore di tutti i nomi e gli attributi.
 Io sono povero, o mio Signore, e Tu sei ricco. Ho volto il viso verso di Te e mi sono distaccato da tutto tranne Te. Ti imploro di non privarmi delle brezze della Tua tenera misericordia e di non allontanare da me ciò che disponesti per i prediletti fra i Tuoi servi. 

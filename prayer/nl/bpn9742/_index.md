@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9742 in Nederlands'
-tags = ['lang-nl', 'bpn9742']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 Geprezen zijt Gij, o mijn God, dat Gij Naw-Rúz hebt ingesteld als een feestdag voor hen die de Vasten hebben gehouden uit liefde voor U en zich hebben onthouden van al wat U weerzinwekkend is. Vergun, o mijn Heer, dat het vuur van Uw liefde en de gloed die de door U opgelegde Vasten teweeg heeft gebracht hen in vlam zet voor Uw Zaak, en laat hen zich bezighouden met het U eren en gedenken.
 Daar Gij hen hebt getooid, o mijn Heer, met het sieraad van de door U voorgeschreven Vasten, tooi hen dan, door Uw genade en milddadige gunst, eveneens met het sieraad van Uw aanvaarding. Want alle doen en laten van de mens is afhankelijk van Uw welbehagen en wordt door Uw bevel bepaald. Indien Gij hem die de Vasten heeft gebroken beschouwt als iemand die hem heeft gehouden dan zal diegene worden gerekend tot hen die in alle eeuwigheid de Vasten hebben gehouden. En indien Gij beveelt dat hij die de Vasten heeft gehouden hem heeft gebroken dan zal die mens worden gerekend tot degenen die de mantel van Uw Openbaring met stof hebben bezoedeld en die ver verwijderd zijn van de kristalheldere wateren van deze levende Bron.

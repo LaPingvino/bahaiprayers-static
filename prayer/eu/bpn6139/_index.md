@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6139 in Euskara'
-tags = ['lang-eu', 'bpn6139']
+tags = ['lang-eu', 'bpn-unsorted']
 +++
 Gurtzen zaitudan ene Jainkoa!
 Zure batasunaren eta bakartasunaren lekuko nauzu eta lehengo eta oraingo Zure emaitzak onartzen ditut. Guztiz Emankorra Zeu zara eta Zure errukizko euri oparoak handikien nahiz apalen gain ixuri izan dira, eta Zure adeiaren dizdira, esanekoen nahiz bihurrien gain barraiatua izan da.

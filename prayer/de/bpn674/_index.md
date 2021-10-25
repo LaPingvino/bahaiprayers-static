@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn674 in Deutsch'
-tags = ['lang-de', 'bpn674']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 *„Studieret das Tablet vom Heiligen Seefahrer, damit ihr die Wahrheit erkennet, und bedenket, dass die Gesegnete Schönheit zukünftige Ereignisse klar vorausgesagt hat. Lasst die Verständigen gewarnt sein.“ —Abdu’l-Bahá
 

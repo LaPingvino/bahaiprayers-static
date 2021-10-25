@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5026 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5026']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Kinh Bản Giao Ước
 *(Kitab-i-Ahd)

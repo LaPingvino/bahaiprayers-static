@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7834 in Italiano'
-tags = ['lang-it', 'bpn7834']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 Non so, o mio Dio, se devo proclamare le meraviglie della Tua lode fra i Tuoi servi e svelare dinnanzi a loro i segreti della Tua misericordia e i misteri della Tua Causa oppure tenerli rinchiusi nel ricettacolo del cuore. Benché l’amante sia restio a condividere con chiunque l’intima conversazione con l’amato, pure ogni qualvolta mi giungerà il Tuo ineludibile comandamento di dichiarare la Tua Causa, io lo obbedirò senza esitare. Ti proclamerei senza lasciarmi distogliere da dardi di afflizione che piovano su di me dalle nuvole del Tuo decreto.
 Giuro per la Tua potenza! Né gli eserciti della terra né quelli del cielo possono impedirmi di rivelare le cose che mi è comandato di manifestare, non ho volontà di fronte alla Tua volontà e non ho desiderio davanti al Tuo desiderio. Per Tua grazia sono pronto a servirTi, in ogni istante, e sono libero da ogni attaccamento ad altri che Te.

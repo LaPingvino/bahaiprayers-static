@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8254 in English'
-tags = ['lang-en', 'bpn8254']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 #Lawh-i-Náqús
 ##Tablet of the Bell

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12123 in '
-tags = ['lang-104', 'bpn12123']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 ”Kewajipan pertama dan paling utama yang     ditetapkan bagi manusia, setelah mengenal Dia,   Kebenaran Abadi, ialah keteguhan hati kepada     Akidah-Nya. Berpegang eratlah engkau kepada hal ini. Dan masuklah ke dalam lingkungan mereka yang fikiran-fikirannya dipusatkan dengan kuat dan ditetapkan kepada Tuhan. Tidak ada perbuatan,   betapa pun berjasa, yang dapat dibandingkan dengan keteguhan hati. Perbuatan itu adalah raja segala perbuatan, dan dalam hal ini Tuhanmu Yang Maha Tinggi, Yang Maha Kuasa telah naik saksi...”
 

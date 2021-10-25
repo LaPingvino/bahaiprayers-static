@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2850 in Shqip'
-tags = ['lang-sq', 'bpn2850']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 Ditët e shtuara (nga 26 shkurti deri më 1 mars) duhet të jenë ditë përgatitjeje për Agjërimin, ditë mikpritjeje, bamirësie e dhuratash.
 

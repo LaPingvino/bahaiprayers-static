@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8955 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8955']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 祂是上帝！
 主啊，我的上帝！祢是弱者之扶助，貧者之援軍，無助皈依者之救星。

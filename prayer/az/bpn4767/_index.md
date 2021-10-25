@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4767 in Azərbaycan'
-tags = ['lang-az', 'bpn4767']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ucalsın Sənin Adın, ya Rəbb, bizim Allahımız! Sən həqiqətən, görünməyən şeyləri Bilənsən. Bizə o xeyiri nəsib eylə ki, Sənin hər şeyi əhatə edən elmin ölçə bilər. Sənsən hökmran Allah, Qüdrətli və sevgili Məhbub.
 

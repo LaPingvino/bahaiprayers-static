@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6790 in English'
-tags = ['lang-en', 'bpn6790']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 Glory be to Thee, O God, for Thy manifestation of love to mankind!  O Thou Who art our Life and Light, guide Thy servants in Thy way, and make us rich in Thee and free from all save Thee.  
 

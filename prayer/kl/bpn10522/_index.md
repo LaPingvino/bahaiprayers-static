@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10522 in Kalaallisut'
-tags = ['lang-kl', 'bpn10522']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Oqarit :"Guuti-aa, Guutiga! Niaqora eqqortuliornerup niaqorutaanik qaaralu
 naligiissutsip ilisarnaataanik pinnersakkit. Ilumut tassaavutit tunissutinik

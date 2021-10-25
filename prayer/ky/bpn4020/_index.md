@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4020 in Кыргыз'
-tags = ['lang-ky', 'bpn4020']
+tags = ['lang-ky', 'bpn-unsorted']
 +++
 Ал Жан тартуучунун, Бардыгынан жоомарттын өзү!
 

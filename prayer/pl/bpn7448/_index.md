@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7448 in Polski'
-tags = ['lang-pl', 'bpn7448']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Chwała niechaj będzie Tobie, o Panie, mój Boże! Nie poniżaj tego, któregoś mocą swej odwiecznej wszechwładzy wywyższył i nie oddalaj od siebie tego, który za Twoją sprawą wszedł do przybytku Twojej wieczności. Czy odrzucisz tego, o mój Boże, któregoś objął swoim panowaniem i czy odtrącisz tego, o moje Upragnienie, któremuś stał się ucieczką? Czy możesz poniżyć tego, któregoś wyniósł, albo też zapomnieć o tym, któremuś pozwolił pamiętać o Tobie?
     

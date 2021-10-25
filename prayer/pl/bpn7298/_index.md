@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7298 in Polski'
-tags = ['lang-pl', 'bpn7298']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Chwała Tobie, o mój Boże! Jedna z Twych służebnic, która uwierzyła w Ciebie i w Twoje znaki, schroniła się w cieniu drzewa Twej jedności. Pozwól jej skosztować, o mój Boże, przez wzgląd na Twoje Imię, Jawny, Utajony, Twojego najwyborniejszego zapieczętowanego Wina, tak aby oddaliło ją ono od jej własnego ja i sprawiło, że w pełni odda się ona pamiętaniu o Tobie, całkowicie uniezależniona od kogokolwiek innego prócz Ciebie.
    

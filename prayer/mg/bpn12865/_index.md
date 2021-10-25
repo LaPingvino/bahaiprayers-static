@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12865 in Malagasy'
-tags = ['lang-mg', 'bpn12865']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 ##VAVAKA FANGATAHAM-PAHASITRANANA LAVA
 

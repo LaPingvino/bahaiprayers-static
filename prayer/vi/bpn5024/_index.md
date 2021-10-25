@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5024 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5024']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Kinh Ahmad
 *(Bản kinh này có hiệu lực đặc biệt khi đọc trong hoàn cảnh rắc rối, khó khăn)

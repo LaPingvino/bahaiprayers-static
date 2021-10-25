@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1359 in فارسی'
-tags = ['lang-fa', 'bpn1359']
+tags = ['lang-fa', 'bpn-unsorted']
 +++
 *هُوَالمُهيمِنُ القَيّومُ
 

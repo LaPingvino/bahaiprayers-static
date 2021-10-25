@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5204 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5204']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 ##LOH PENYEMBUHAN PANJANG
 

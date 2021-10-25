@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12664 in '
-tags = ['lang-91', 'bpn12664']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 O Petara, Petara aku! Nuan meh Pengandal aku enggau
 Siku-dikerindu aku, tuchung Juluk ati enggau Pengingin aku! Enggau naka pemaruh ati sereta penuh pengangkun aku besampi ngagai Nuan awakka ngaga aku nyadi legit pengerindu Nuan ba tanah Nuan, lampu penemu Nuan ba semua utai tempa Nuan, enggau tambai pemeri kudus Nuan dalam perintah Nuan.

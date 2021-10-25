@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4799 in Azərbaycan'
-tags = ['lang-az', 'bpn4799']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Odur Allah! Ey Allah, mənim Allahım! Bunlar Sənin bəndələrindir ki, Sənin nidana səs verməklə, Sənin tərifini söyləməklə, Sənin günlərində Sənin müqəddəslik rahiyələrinlə cəzb olunublar, Sənin müqəddəs ağacından yanan oddan alışıblar, Sənin əlamətlərini müşahidə etməklə, ayələrini dərk etməklə, sözlərini eşitməklə, Vəhyinə inanmaqla və inayətinə əmin olmaqla Sənin nəsimlərinlə oyanıblar və xoş rahiyələrinlə həyəcanlanıblar. Onların gözləri, İlahi, Sənin parlaq cəlalının mələkutuna dikilib və üzləri Sənin yüksək səltənətinə çevrilib, onların ürəkləri Sənin nurlu və parlaq camalının məhəbbətilə döyünür, qəlbləri Sənin eşqinin atəşindən odlanıb, Ey bu dünyanın və axirətin Rəbbi, onların həyatı Sənə can atmaq şövqündən qaynayır və onların Səndən ötrü göz yaşları sel kimi axır.
 

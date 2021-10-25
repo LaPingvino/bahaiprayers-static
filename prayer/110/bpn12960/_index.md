@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12960 in '
-tags = ['lang-110', 'bpn12960']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 O Bikpela, God bilong mi!  Helpim ol pipel husat Yu laikim tru, inap bai ol i stap strong insait long Lotu bilong Yu, na wokabaut long rot bilong Yu, na bihainim tru Lotu bilong Yu.  Inap Yu marimari long ol, bai ol i ken i stap strong, taim laik nogut bilong ol yet i birua wantaim ol.  Olsem na bai ol inap long bihainim lait bilong rot bilong God. 
  

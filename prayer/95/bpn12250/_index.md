@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12250 in '
-tags = ['lang-95', 'bpn12250']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 T avaeega e io Koe, o te Aliki toku Atua!  I taimi katoa e taumafai au o taku a Koe, au e fakalavelavegia ne te maluga o Tou tulaga mo te fonu maligiligi o te lasi o Tou mafi. Moi fai e tavae ne au a Koe salalau i te kauloaloa o Tou maalo mo te leva o taimi o Tou nofoaiga-a-tupu, e maua ne au i aku tavaeega o Koe e ttau fua mo latou kola e pau foki loa mo au, ko la a latou ko Au mea ola ne faiite, kae ne mafua mai i te maalosi o Tau puleega kae ko oti ne faka-fuiatino mai i te maalosi o Tou finagalo.  Kae i so se taimi a taku pene e tusi ne ia a te matagofie ki sose tino tokotasi o Ou igoa, au e mafaufau me e mafai o lagona ne au a leo o tena tagi fanoanoa mai i tena mao mai mo Koe, kae e mafai o atafia ne au a tena tagi auaa ko tena mavae mai ia Koe.  Au e molimau i mea katoa vagana ko Koe ko Au foafoaaga katoa kae e kapu iloto i Tou lima.  I te talia a sose faifaiiga io me ne tavaeega mai i Au meaola faiite se fakatalitonuuga o te gali o Tou alofa mo alofaaga maukoloa, tela se fakaasiiga o Tou kaimalie mo te atamai.  
   

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12034 in '
-tags = ['lang-104', 'bpn12034']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 *Dilafazkan tiga kali sehari: pagi, tengah hari dan petang.
 

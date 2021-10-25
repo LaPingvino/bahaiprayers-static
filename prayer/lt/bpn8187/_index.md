@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8187 in Lietuvių'
-tags = ['lang-lt', 'bpn8187']
+tags = ['lang-lt', 'bpn-unsorted']
 +++
 O Viešpatie! Tavyje aš ieškau prieglobsčio ir visų Tavo ženklų link aš kreipiu savo širdį.
 O Viešpatie! Kelyje ir namie, darbe ir visuose poelgiuose aš visiškai pasitikiu Tavimi.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5140 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5140']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 *"Setiap jiwa yang mengadakan perjalanan melalui kota-kota, kampung- kampung dan desa-desa... dan sibuk dengan menyebarkan keharuman Tuhan, seharusnya membaca doa ini setiap pagi."
 

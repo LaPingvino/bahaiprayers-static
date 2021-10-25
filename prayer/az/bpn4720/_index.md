@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4720 in Azərbaycan'
-tags = ['lang-az', 'bpn4720']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey bizim Rəbbimiz Allah! Sənin razı qalmadığın hər şeydən Öz fəzlinlə bizi qoru və bizə sənə layiq olanı bəxş eylə. Öz kərəmindən bizə bol pay ver və bizi bəxtiyar eylə. Törətdiklərimizə görə bizi əfv et, günahlarımızı sil və bağışlayıcılığınla günahımızdan keç. Həqiqətən Sən Ən Uca və Qəyyumsan.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6119 in Chamorro'
-tags = ['lang-ch', 'bpn6119']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##KONTRIBUSION I FONDO
 *CONTRIBUTIONS TO THE FUND

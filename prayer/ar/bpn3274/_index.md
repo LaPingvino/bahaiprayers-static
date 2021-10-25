@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3274 in العربية'
-tags = ['lang-ar', 'bpn3274']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 * لوح الناقوس
 # هُوَ العَزِيزُ

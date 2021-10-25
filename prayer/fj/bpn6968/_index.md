@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6968 in Fiji'
-tags = ['lang-fj', 'bpn6968']
+tags = ['lang-fj', 'bpn-unsorted']
 +++
 *Na vosa ni yalayala ni vakamau, e na tikina e dodonu me rau dui cavuta yadudua na goneyalewa kei na cauravou e matadra e rauta ni rua na ivakadinadina ka vakadonui oti mai na Matabose Vakayalo, me vaka sa vakamacalataki tu e na iVola Tabu ni Lawa o ya na Kitab-i-Aqdas: “Keimami na vakamuria kece, vakaidina, na Lewa ni Kalou."
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5275 in Bosanski'
-tags = ['lang-bs', 'bpn5275']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 *...Ispovijedanje grijeha i prekršaja pred ljudima nije dopušteno< Griješnik treba, nasamo između sebe i Boga, zamoliti milost iz Okeana milosti i zatražiti oprost iz Nebesa velikodušja i reći:
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5215 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5215']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Loh Ridwan 
 

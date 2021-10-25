@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7288 in Polski'
-tags = ['lang-pl', 'bpn7288']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, niezrównany Panie! Spraw, aby to dzieciątko karmione było piersią Twej serdecznej dobroci, chroń je w kołysce Twojego bezpieczeństwa i opieki oraz spraw, aby wychowywało się w ramionach Twojej czułej miłości.
 

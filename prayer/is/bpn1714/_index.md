@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1714 in Íslenska'
-tags = ['lang-is', 'bpn1714']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Guð. Minning Þín er unaður sálna allra þeirra er þrá Þig. Nafn Þitt vekur fögnuð í hjörtum þeirra sem eru heilshugar helgaðir vilja Þínum. Lof til Þín er hjartfólgið þeim sem hafa laðast að aðsetri Þínu. Ásýnd Þína þrá þeir heitt og innilega, sem hafa borið kennsl á sannleik Þinn. Prófraunir Þínar græða meinsemdir þeirra sem hafa viðurkennt málstað Þinn. Þrengingar Þínar þrá þeir heitast sem engum vilja fylgja nema Þér!
 Upphafinn, ómælanlega upphafinn ert Þú! Í Þín­um höndum er vald alls á himnum og á jörðu. Fyrir aðeins eitt orð af vörum Þér sundraðist allt og leið allt undir lok, og fyrir annað orð var allt sem var aðskilið sameinað á ný! Miklað veri nafn Þitt, ó Þú sem hefur vald yfir öllu sem er á himnum og öllu sem er á jörðu. Yfirráð Þín ná til alls í himnaríki opinberunar Þinnar og ríki sköpunar Þinnar. Eng­inn fær jafnast á við Þig í Þínum skapaða heimi. Enginn getur borið sig saman við Þig í þeim alheimi sem Þú hefur mótað. Enginn hugur hefur skilið Þig og engin sál náð til Þín með vonir sínar. Ég sver við mátt Þinn! Enginn maður getur farið yfir þau mörk sem hin skapaða tilvist hefur sett honum, jafnvel þótt hann gæti svifið á hverjum þeim vængjum sem hann fengi um alla ómælis­víðáttu þekkingar Þinnar um alla eilífð verundar Þinnar. Hvernig gæti þá slíkur maður gert sér vonir um að fá svifið inn í andrúm Þinnar tignustu nær­veru?

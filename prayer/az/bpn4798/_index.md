@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4798 in Azərbaycan'
-tags = ['lang-az', 'bpn4798']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, mənim Allahım! Bunlar Sənin zəif bəndələrindir, bunlar Sənin Uca Bəyanın qarşısında baş əyən, Sənin nurunun Astanasında itaət göstərən, Günəşi ən parlaq zamanında parladan təkliyinə şəhadət verən sadiq qulların və kənizlərindir. Onlar Sənin gizli səltənətindən ucaltdığın nidanı eşitmiş, məhəbbət və məftunluqla vuran ürəklərilə Sənin çağırışına cavab vermişlər.
 

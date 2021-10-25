@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9705 in Nederlands'
-tags = ['lang-nl', 'bpn9705']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 Hij is God!
 O Heer, mijn God, mijn Inniggeliefde!

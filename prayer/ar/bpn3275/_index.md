@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3275 in العربية'
-tags = ['lang-ar', 'bpn3275']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 * لوح ليلة البعث
 # الأَقْدَمُ الأَكْبَرُ الأَعْلَى

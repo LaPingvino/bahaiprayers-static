@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3184 in Afrikaans'
-tags = ['lang-af', 'bpn3184']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Ek weet nie, o my God, wat die Vuur is wat U in U land aangesteek het nie. Aarde kan nooit sy luister vertroebel nie, nòg water sy vlam blus nie. Al die mense van die wêreld is magteloos om sy krag te weerstaan. Groot is die geluksaligheid van hom wat nader daarnda gekom het, en sy gedreun gehoor het.
 

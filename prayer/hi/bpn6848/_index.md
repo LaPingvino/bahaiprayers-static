@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6848 in हिंदी'
-tags = ['lang-hi', 'bpn6848']
+tags = ['lang-hi', 'bpn-unsorted']
 +++
 हे मेरे परमेश्वर!
 

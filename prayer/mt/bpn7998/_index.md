@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7998 in Malti'
-tags = ['lang-mt', 'bpn7998']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 ##IT-TWAVEL TAL-VIŻITAZZJONI 
 

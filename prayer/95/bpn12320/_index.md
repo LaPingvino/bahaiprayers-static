@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12320 in '
-tags = ['lang-95', 'bpn12320']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 *Ne fakaasi ki Bahá’ís o Canada  
 Tavaeega kia Koe, O toku Atua!  Mea nei ko Au tavini ko la e fiafai ki manogi gali o Tou alofa kaimalie, ko la e faka ka ne te afi e 

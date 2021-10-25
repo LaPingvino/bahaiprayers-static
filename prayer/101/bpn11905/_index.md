@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11905 in '
-tags = ['lang-101', 'bpn11905']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *( Doa itih, obuah bikirien odak Abdu’l-Baha, basa dek totok Kubur Iyoh. Dapod geh doa tih obuah basa takar nye bidoa sadie.)
 *Osi sija de basa doa tih dengan rendah otin duoh sepunua otin doa tih dapod toban pimunuas duoh pirami otin Pingulunt tih, doa tih kana-kani tutuas biraduap jowin duwoh Iyoh. 

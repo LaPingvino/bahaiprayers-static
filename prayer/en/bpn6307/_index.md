@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6307 in English'
-tags = ['lang-en', 'bpn6307']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 ##Birth of the Báb 
 

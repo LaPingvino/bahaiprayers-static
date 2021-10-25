@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4902 in Vanuatu'
-tags = ['lang-bi', 'bpn4902']
+tags = ['lang-bi', 'bpn-unsorted']
 +++
 *Tisfala prea, we hem i sot wan aot long ol trifala prea, yumi mas talemaot wan taem long evri dei, eni taem bitwin medel dei mo taem we san i go daon.
 

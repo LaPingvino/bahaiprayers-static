@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7287 in Polski'
-tags = ['lang-pl', 'bpn7287']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Chwała Ci, o Panie, Boże mój! Dozwól łaskawie, aby to dziecię było karmione z piersi Twojej czułej łaski i miłościwej opatrzności i żywione owocami z Twych niebiańskich drzew. Nie pozwól, by roztaczał nad nim opiekę ktokolwiek oprócz Ciebie, gdyż to Tyś sam je stworzył i powołał do życia potęgą swojej najwyższej woli i mocy. Nie ma innego Boga prócz Ciebie, Wszechmocnego, Wszechwiedzącego.
    

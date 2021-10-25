@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7695 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7695']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye mwen! O Bondye mwen! An verite, m’ap envoke Ou e m’ap sipliye devan papòt Ou, m’ap mande Ou pou voye tout mizèrikòd Ou yo desann sou nanm sa yo. Prepare yo espesyalman pou resevwa favè Ou ak verite Ou.
 O Senyè! Ini kè yo epi mare yo ansanm, fè tout nanm yo atache nan yon gran antant, e rejwi lespri yo avèk siyn sentete Ou yo ki montre gen yon sèl Bondye. O Senyè! Limen figi sa yo ak limyè linite Ou. Ranfòse kouraj sèvitè Ou yo nan sèvis pou wayòm Ou an.

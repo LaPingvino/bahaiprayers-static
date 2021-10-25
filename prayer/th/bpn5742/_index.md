@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5742 in ภาษาไทย'
-tags = ['lang-th', 'bpn5742']
+tags = ['lang-th', 'bpn-unsorted']
 +++
 ##ธรรมจารึกถึงอาหมัด
 

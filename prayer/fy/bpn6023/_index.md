@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6023 in Frysk'
-tags = ['lang-fy', 'bpn6023']
+tags = ['lang-fy', 'bpn-unsorted']
 +++
 O myn God! Dit is Jins tsjinneres en de dochter fan Jins tsjinneres, dy't yn Jo en yn Jins tekens leauwt en dy't har antlit nei Jo takeard hat, folslein frij fan alles bûten Jo. Jo binne wierliken fan al dyjingen dy't erbarming toane de barmhertichste.
 Doch mei har, o Jo Dy't de sûnden fan de minsken ferjout en Dy't harren lekken en brekken net acht slacht, nei't it de himel fan Jins lankmoedigens en de oseaan fan Jins genede past. Nim har op yn it ryk fan Jins genede, dy't alles te boppe giet en dy't al foar de skepping fan himel en ierde bestie.

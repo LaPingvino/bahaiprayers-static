@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7327 in Polski'
-tags = ['lang-pl', 'bpn7327']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Ktokolwiek podróżuje w różne strony, żeby nauczać, niechaj odmawia tę modlitwę w górach, na pustyni, na lądzie i na morzu:
    

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12968 in '
-tags = ['lang-110', 'bpn12968']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 O God bilong mi!  O Yu, Husat i save pogivim ol rong!  O Yu, Husat i save givim ol gutpela presen!  O Yu, Husat i save rausim ol bikpela hevi! 
  

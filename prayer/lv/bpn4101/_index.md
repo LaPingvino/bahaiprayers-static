@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4101 in Latviešu'
-tags = ['lang-lv', 'bpn4101']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Dieva Mācības sludinātājiem šī lūgšana būtu jāskaita katru rītu.
 

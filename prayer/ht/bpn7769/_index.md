@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7769 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7769']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##Premye Jou Jèn nan 
 

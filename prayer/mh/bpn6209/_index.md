@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6209 in Marshallese'
-tags = ['lang-mh', 'bpn6209']
+tags = ['lang-mh', 'bpn-unsorted']
 +++
 O ao Anij im ao Master! Na ij dri jelkam im nejin dri jelkam. Emoj ao ruj tok jen ion kinio ilo jimarokin rainin einwot an Iju Ran in juon wot eo Am moj an romak tok jen jorantak in konan eo Am, im emoj an romak ion aolepen lal, ekkar nan ta eo emoj je im kakien kake ilo Buk ko Am.
 

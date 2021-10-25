@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11689 in Español'
-tags = ['lang-es', 'bpn11689']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 *Los Días Intercalares, aproximadamente del 26 de febrero al 1 de marzo, deben ser días de preparación para el ayuno, días de hospitalidad, para obras benéficas y para ofrecer regalos.
 

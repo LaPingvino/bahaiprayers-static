@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2665 in Magyar'
-tags = ['lang-hu', 'bpn2665']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Te vagy az, ó, Istenem, Ki nevei által meggyógyít minden beteget, és megvigasztal minden szenvedőt, Ki inni ad minden szomjazónak, megnyugtat minden reszketőt, útbaigazít minden tévelygőt, felemel minden megalázottat, gazdaggá tesz minden szegényt, felnyitja minden tudatlan szemét. Te vagy az, Ki fényt gyújt a sötétben, felvidítja a szomorkodót, meleget ád a fázónak, és felemel minden elnyomottat. A Te Neved, ó, Istenem, megébresztett minden teremtett dolgot, kiterítette a mennyeket, megteremtette a földet, felemelte a felhőket és leküldte velük az esőt. Ez bizony kegyelmed jele összes teremtményed számára.
 

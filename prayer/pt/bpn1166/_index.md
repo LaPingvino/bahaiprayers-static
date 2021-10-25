@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1166 in Português (BR)'
-tags = ['lang-pt', 'bpn1166']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Tu, Provedor! Sopraste sobre os amigos no Ocidente a doce fragrância do Espírito Santo e, com a luz da guia divina, iluminaste o céu ocidental. Fizeste com que os outrora remotos se aproximassem de Ti próprio; transformaste estranhos em afetuosos amigos; despertaste aqueles que dormiam; tornaste atentos os negligentes.
 Ó Tu, Provedor! Ajuda esses nobres amigos a conquistarem o Teu beneplácito. Torna-os igualmente benévolos para com estranhos e amigos. Fá-los entrar no mundo que perdura para todo o sempre; concede-lhes um quinhão da graça celestial; faze com que sejam verdadeiros bahá’ís, sinceramente de Deus; protege-os de aparências exteriores e estabelece-os firmemente na verdade. Torna-os sinais e emblemas do Reino, estrelas luminosas acima dos horizontes desta vida inferior. Que sejam conforto e consolo para a humanidade e promotores da paz do mundo. Extasia-os com o vinho de Teu desígnio e permite que todos eles trilhem o caminho dos Teus mandamentos.

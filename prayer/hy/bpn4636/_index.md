@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4636 in հայերեն'
-tags = ['lang-hy', 'bpn4636']
+tags = ['lang-hy', 'bpn-unsorted']
 +++
 #(Աղոթքը հայտնված է կենտրոնական նահանգների բահայիների համար)
 

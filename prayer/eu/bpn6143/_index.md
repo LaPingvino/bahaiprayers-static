@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6143 in Euskara'
-tags = ['lang-eu', 'bpn6143']
+tags = ['lang-eu', 'bpn-unsorted']
 +++
 *(Jainkoarengandik ur izatea)
 Ene Jauna!

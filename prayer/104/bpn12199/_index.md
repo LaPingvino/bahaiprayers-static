@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12199 in '
-tags = ['lang-104', 'bpn12199']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 ##LOH ZIARAH 'ABDU’L-BAHÁ
 

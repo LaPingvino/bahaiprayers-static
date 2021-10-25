@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7543 in Suomi'
-tags = ['lang-fi', 'bpn7543']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Ylistys olkoon Sinun, oi Herra, minun Jumalani! Pyydän Sinua hartaasti nimeesi, jota kukaan ei ole soveliaasti tunnustanut ja jonka merkitystä yksikään sielu ei ole luodannut. Rukoilen Sinua Hänen kauttaan, joka on Sinun ilmoituksesi alkulähde ja Sinun merkkiesi päivänkoitto, tekemään sydämestäni rakkautesi ja muistamisesi maljan. Liitä se sitten suurimpaan valtamereesi, niin että siitä virtaisivat Sinun viisautesi elävät vedet ja Sinun ylistämisesi ja kiittämisesi kristallinkirkkaat virrat.
 Ruumiini jäsenet todistavat Sinun ykseydestäsi, ja pääni hiukset julistavat Sinun yliherruutesi ja mahtisi voimaa.  Olen seissyt armosi ovella täysin omasta minästäni luopuneena ja kokonaan itseni kieltäen, tarttunut lujasti Sinun anteliaisuutesi helmaan ja kiinnittänyt katseeni Sinun lahjojesi taivaanrantaan.

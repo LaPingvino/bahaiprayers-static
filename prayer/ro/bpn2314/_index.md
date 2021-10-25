@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2314 in România'
-tags = ['lang-ro', 'bpn2314']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Naw-Rúz, 21 martie, este prima zi a anului Bahá’í, o zi de bucurie şi ospitalitate
 

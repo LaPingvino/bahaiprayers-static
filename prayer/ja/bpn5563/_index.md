@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5563 in 日本語'
-tags = ['lang-ja', 'bpn5563']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 ## 聖なる水夫の書簡
 

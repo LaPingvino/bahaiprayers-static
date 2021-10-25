@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7483 in Polski'
-tags = ['lang-pl', 'bpn7483']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##TARAZÁT 
 

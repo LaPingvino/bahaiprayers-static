@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4901 in Azərbaycan'
-tags = ['lang-az', 'bpn4901']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 *Naxçıvanın Artuz kəndi
 Ey mənim Allahım, Ey mənim Allahım! Bunlar Sənin o bəndələrindir ki, onların batinləri xalisdir və onların niyyətləri pakdır. Və Sənin məhəbbətinin atəşi onların sinələrində alovlanıb və Sənin müqqəddəs ayələrini oxuyarkən onların nalələri Sənin Mələyi-Əlana və Sənin Əbha – Mələkutuna yüksəlir və onların ürəklərində Sənin məftunluq alovun şölələnib və onun hərarəti yüksəkliklərə və göyün ortasına çatıb. Ey mənim Allahım, Ey mənim Allahım, Bunlar həqiqətən, səqirdirlər, onları Öz Mələkutunda kübar, eylə, həqiqətən, onlar zəifdirlər, Öz Cəbərutunun gücü ilə onları güclü eylə, həqiqətən, onlar fəqirdirlər, Öz Lahut feyzinlə onları zəngin eylə.... Ey mənim Allahım! Ey mənim Allahım! Onları bu dünyada Öz tövhid nişanələrin eylə və Sənin təyid nəsiminlə zirvədə dalğalanan tərif bayraqların eylə. Onları bu aləmdə töhidin dan yerinin şəfəqləri, təcridin təzahürləri və Öz sifətlərinin nurunun məşriqləri eylə, ta ki, elə bir əxlaqa malik olsunlar ki, Şərq və Qərb onların pak nəfəslərindən ətirlənsin. Və onların üzünün nurundan yer kürəsinin cənubu və şimalı nurlansın. Həqiqətən, Sən İqtidar sahibi, Əziz, Güclü və Qadirsən.

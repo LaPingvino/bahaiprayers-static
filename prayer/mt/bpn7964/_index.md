@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7964 in Malti'
-tags = ['lang-mt', 'bpn7964']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 O Alla, Alla tiegħi! Din il-qaddejja tiegħeK qed issejjaħleK, tafda fiK, iddawwar wiċċħa lejK, titolbok biex tferrex it-tjibat smewija tiegħeK fuqha, u tikxfilha il-misteri spiritwali tiegħeK, u tifrex fuqha is-dwal tar-Ras Allija tiegħeK.
 

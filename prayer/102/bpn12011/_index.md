@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12011 in '
-tags = ['lang-102', 'bpn12011']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Ägirt Uly.
     Eý meniň Taňrym! Seniň yşkyňda Oraza tutup, öz nebislerini Seniň halamaýan zatlaryňdan gorap saklanlaryň hatyrasyna Nowruzy baýram edip belläniň üçin, alkyş diňe Saňa laýykdyr.

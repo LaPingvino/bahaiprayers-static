@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2871 in Česky'
-tags = ['lang-cs', 'bpn2871']
+tags = ['lang-cs', 'bpn-unsorted']
 +++
 Jsem ten, ó můj Pane, který k Tobě obrací tvář a upíná naděje na zázraky Tvé milosti a zjevení Tvého dobrodiní. Modlím se k Tobě, Pane, nedopust, abych se odvracel zklamaný ode dveří Tvé milosti a neponechávej mne prosím napospas těm, kteří zavrhli Tvou Věc.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11495 in Español'
-tags = ['lang-es', 'bpn11495']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 Concédeme, oh mi Dios, la plenitud de Tu amor y Tu complacencia, y, con la atracción de Tu luz resplandeciente, extasía nuestros corazones, oh Tú que eres la Evidencia Suprema y el Todoglorificado. Como señal de Tu gracia, sopla sobre mí Tus brisas vivificadoras durante el día y por la noche, oh Señor de munificencia.
 Ninguna acción he realizado, oh mi Dios, que me haga merecedor de contemplar Tu rostro, y sé de cierto que, aunque viviera tanto tiempo como dure el mundo, no lograría realizar acción alguna que mereciera este favor, pues la condición de un siervo jamás le permitirá acceder a Tus sagrados recintos, a no ser que Tu generosidad me alcance y Tu tierna misericordia me inunde, y Tu bondad me circunde.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7581 in Suomi'
-tags = ['lang-fi', 'bpn7581']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Ylistys ja kunnia olkoon Sinun, oi Herra minun Jumalani! 
 Tämä on valiotaimi, jonka olet istuttanut rakkautesi niityille ja jota olet ravinnut herrautesi sormin. Olet kastellut sitä ykseytesi puutarhoista kumpuavasta iankaikkisen elämän lähteestä ja antanut laupeutesi pilvien sataa suosiotasi sen ylle. Se on nyt kasvanut ja kehittynyt jumalallisen ydinolemuksesi Päivänkoitosta ilmaantuvien siunaustesi suojassa. Se on puhjennut lehteen ja kukkaan, kantaa runsaasti hedelmää ihmeisten lahjojesi ja antiesi kaitselmuksesta, ja sitä liikuttaa laupeudestasi henkäilevä suloinen tuulahdus.

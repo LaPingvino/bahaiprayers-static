@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9099 in Alaska Native'
-tags = ['lang-ik', 'bpn9099']
+tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Short Healing Prayer
 Atqin mamittautigigiga, God-iiŋ, aasii itqaummatiga natqiksautigigiga. Qaninniġa Iliŋnun niġiukkutigigiga, nakuaqqutigalu Iliŋnun piqataupiaqtuq. Naglikkutin uvamnun mamirutauruq ikayuutauvluniḷu paŋmapak nunaptigni qaiñiaqtuamullu. Ilvich iḷumun Sigñataitchutin, Iḷisimałhaaqtutin, Isumatułhaaqtutin.

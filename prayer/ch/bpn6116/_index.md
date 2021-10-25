@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6116 in Chamorro'
-tags = ['lang-ch', 'bpn6116']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 O Yu’os! Eduka este siha na famagu’on. Este siha na famagu’on tinanom siha gi gualo’Mu, flores i sabana-Mu, flores rosa i hatdin-Mu. Na’faninichani ni ichan-Mu; Na’faninina ni atd- aon minagahet ginen i guinaiya-Mu. Na’fanfresko ni’ manglo’-Mu kosa ki siña maninarekla gi tininas, mandangkolo yan manadilanto yan u fanannok i etmas na buninitu. Hagu i Geftao. Hagu i Yo’ase’.
 

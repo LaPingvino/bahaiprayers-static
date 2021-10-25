@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11948 in '
-tags = ['lang-102', 'bpn11948']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 *(Säher we agşam)
 *(Bu dogany her säher, her agşam okaň)

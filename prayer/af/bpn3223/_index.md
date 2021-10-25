@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3223 in Afrikaans'
-tags = ['lang-af', 'bpn3223']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 *Hierdie Tafel by die Heiligdomme van Bahá'u'lláh en die Báb gelees. Dit word ook dikwels gebruik om Hulle jaardae te gedenk.
 

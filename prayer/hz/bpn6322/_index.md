@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6322 in Namibia'
-tags = ['lang-hz', 'bpn6322']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 #NONDAPERO DOVANONA NOVADINKANTU
 ##(CHILDREN AND YOUTH)

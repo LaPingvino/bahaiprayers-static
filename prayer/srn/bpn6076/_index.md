@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6076 in Sranan Tongo'
-tags = ['lang-srn', 'bpn6076']
+tags = ['lang-srn', 'bpn-unsorted']
 +++
 Blesi fu na kontren,
 nanga na oso,

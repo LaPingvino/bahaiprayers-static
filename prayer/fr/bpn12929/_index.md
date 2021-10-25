@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12929 in Français'
-tags = ['lang-fr', 'bpn12929']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Si généreux, si plein de grâce, ô toi, Seigneur, 
 Qui connais les tréfonds de mon âme et de mon cœur! 

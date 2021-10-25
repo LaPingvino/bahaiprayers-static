@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11952 in '
-tags = ['lang-102', 'bpn11952']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Gorky hem umyt berýäniň ady bilen.
     Ýaradanyň Baş Sözi budur: Siz hapalykdan tämizlenen gursak bilen, dünýe reňklerinden päklenen köňül bilen, Ol Dana, Görüji we Güýçliniň ýanyna geliň hem Onuň bu Eýýamyna sezewar bolan zatlary getiriň. Bu gün didar günidir, çünki Taňry ýaşmaksyz aýdyň we äşgär bolupdyr. Janyňyz bilen baryň, belki ýetersiňiz we gerekli zady aňlarsyňyz. Eger Binyýaz günüň syrlaryna ýetjek bolsaňyz, takwa suwy bilen özüňizi nebisden we pes gylyklardan arassalaň. 

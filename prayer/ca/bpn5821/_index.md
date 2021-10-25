@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5821 in Català'
-tags = ['lang-ca', 'bpn5821']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Dona Embarassada 
 

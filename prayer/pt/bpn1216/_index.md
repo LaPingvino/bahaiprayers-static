@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1216 in Português (BR)'
-tags = ['lang-pt', 'bpn1216']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvor a Ti, ó meu Deus, por haveres volvido as faces dos Teus servos para a mão direita do trono das Tuas dádivas e haveres feito com que se desprendam de tudo, menos de Ti, para que reconhecessem a Tua soberania e a Tua glória. Testifico a potência da Tua Causa, a força predominante do Teu decreto; dou testemunho de ser imutável a Tua vontade e infinito o Teu desígnio. Todas as coisas jazem aprisionadas na mão do Teu poder, e a criação inteira mostra-se destituída quando face a face com as evidências da Tua riqueza.
 Trata, pois, os Teus servos, ó meu Deus, meu Bem-Amado, meu Desejo supremo, e todos aqueles por Ti criados, de um modo em harmonia com a Tua beleza e a Tua magnificência e digno da Tua generosidade e das Tuas graças. És, em verdade, Aquele cuja compaixão envolveu todos os mundos, cuja graça abrangeu todos os que habitam a terra e o céu. Poderá haver quem Te haja implorado e cuja prece não tenha sido respondida? Onde há de encontrar-se alguém que se tenha dirigido a Ti sem que Tu Te aproximasses dele? Quem poderá dizer que tenha fixado em Ti a sua vista e cujos olhos da Tua misericórdia para ele não se volvessem? Atesto haveres-Te Tu dirigido aos Teus servos antes deles a Ti se dirigirem e haveres–Te Tu lembrado deles antes deles se lembrarem de Ti. Todas as graças são Tuas, ó Tu em cuja mão está o reino das Dádivas e a origem de todo o decreto irrevogável.

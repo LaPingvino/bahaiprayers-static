@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7584 in Suomi'
-tags = ['lang-fi', 'bpn7584']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 *(Välipäivien, 26. päivästä helmikuuta 1. päivään maaliskuuta, tulisi olla paastoon valmistautumisen, vieraanvaraisuuden, hyväntekeväisyyden ja lahjojen antamisen päiviä.)
 

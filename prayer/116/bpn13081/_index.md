@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13081 in '
-tags = ['lang-116', 'bpn13081']
+tags = ['lang-116', 'bpn-unsorted']
 +++
 Lauegu Dirava e, lauegu Biaguna, lauegu ura ena Tahua Gauna!  Oiemu hesiai tauna ia ura mahuta Oiemu bogahisihisi ena keruma henunai.  Ia ura laga ani Oiemu hariharibada ena palai henunai bona Oi ia noinoi Oi naria bona Oi gimaia totona. 
 

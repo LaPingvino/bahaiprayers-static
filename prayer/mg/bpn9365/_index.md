@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9365 in Malagasy'
-tags = ['lang-mg', 'bpn9365']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 *Vavaka tsy maintsy atao in-telo isan’andro: ny maraina, ny tolakandro, sy ny hariva hatramin’ny ora roa aorian’ny fiposahan’ny masoandro.
  

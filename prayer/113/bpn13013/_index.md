@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13013 in '
-tags = ['lang-113', 'bpn13013']
+tags = ['lang-113', 'bpn-unsorted']
 +++
 ##BAHA´I MARRIAGE:
 *La maskan a Kitáb-i-Aqdas o a Buk Faarala si Bahá’u’lláh, ka piaat, nis nadiaa di saxot di na vaamuxosaa, di na pitfiaataa a doring aang ka re si nis nadiaa di na tagoning a vaamuxasing la wan a kilaaing sin a Spiritual Asembli i la Bina:

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6040 in Frysk'
-tags = ['lang-fy', 'bpn6040']
+tags = ['lang-fy', 'bpn-unsorted']
 +++
 ##Tafel Fan Ahmad
 

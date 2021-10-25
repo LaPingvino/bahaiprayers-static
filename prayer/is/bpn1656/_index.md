@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1656 in Íslenska'
-tags = ['lang-is', 'bpn1656']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Dýrlegur ert Þú, ó Drottinn Guð minn. Ég bið Þig við Þína útvöldu, þá sem varðveita trúnað Þinn og þann sem Þú hefur gert að innsigli spá­manna Þinna, að gera minningu Þína að félaga mínum, ást Þína að markmiði mínu, ásýnd Þína takmark mitt, nafn Þitt lampa minn, ósk Þína að þrá minni og velþóknun Þína unað minn.
 Ég er syndari, ó Drottinn minn, og Þú ert sá sem ætíð fyrirgefur. Jafnskjótt og ég bar kennsl á Þig, hraðaði ég mér til upphafins forgarðs ástúðar Þinnar. Fyrirgef mér, ó Drottinn minn, syndir mínar sem hafa aftrað mér að ganga vegu vel­þóknunar Þinnar og ná til sjávarstranda einleika Þíns.

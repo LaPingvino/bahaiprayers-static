@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9102 in Alaska Native'
-tags = ['lang-ik', 'bpn9102']
+tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Prayer for the Departed (Short)
 

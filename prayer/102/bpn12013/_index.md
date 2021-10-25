@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12013 in '
-tags = ['lang-102', 'bpn12013']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Dogrudanam budur, Jomartlygyň belent mertebe şapagyndan aýdyň bolan Ylahy baýram.
     Eý gerçeklik öýüniň ýaşaýjylary! Eý bigünälik çadyrynyň ýaşaýjylary! Eý sylag we Rähmet dergähiniň ýaşaýjylary!

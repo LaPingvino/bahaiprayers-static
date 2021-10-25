@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11529 in Español'
-tags = ['lang-es', 'bpn11529']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh bondadoso Señor! Esta queridísima sierva se sentía atraída por Ti y, mediante reflexión y discernimiento, anhelaba alcanzar Tu presencia y entrar en Tus dominios. Con lágrimas en los ojos, fijaba la mirada en el Reino de los Misterios. Muchas noches las pasó en profunda comunión contigo y muchos días los vivió con el íntimo recuerdo de Ti. Cada mañana Te recordaba y cada atardecer cen-traba en Ti sus pensamientos. Como un ruiseñor melodioso, entonaba Tus sagrados versículos, y, como un espejo, aspiraba a reflejar Tu luz. 
 ¡Oh Perdonador de los pecados! Ábrele el camino a esta alma despierta para que entre en Tu Reino, y permite que esta ave, adiestrada por Tu mano, vuele en el rosedal eterno. Ella arde con el anhelo de acercarse hacia Ti; permítele alcanzar Tu presencia. Está apenada y afligida por su separación de Ti; haz que sea admitida en Tu Mansión Celestial.

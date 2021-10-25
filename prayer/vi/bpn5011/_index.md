@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5011 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5011']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 Vinh quang thuộc về Ngài, Đấng Thượng Đế của tất cả các thế giới, Đấng Kính yêu của những ai nhận biết Ngài! Ngài thấy con bị đe dọa bởi thanh kiếm treo đầu sợi chỉ, và Ngài biết rằng trong bất cứ hoàn cảnh nào con cũng không thiếu bổn phận đối với Chánh Đạo Ngài, bổn phận quảng bá sự ca tụng Ngài, bổn phận rao truyền sự hoàn hảo của Ngài, và bổn phận tuyên ngôn tất cả những điều Ngài truyền dạy trong các Thánh kinh của Ngài. Dù cho thanh kiếm có sẵn sàng rơi xuống đầu con, con cũng chỉ cầu xin những điều Ngài yêu thích bằng những âm sắc có thể khiến mọi tâm hồn được cuốn hút về phía chân trời tôn nghiêm và vĩ đại của Ngài.
 Lạy Thượng Đế của con, xin gạn sạch tai họ để họ có thể nghe những bài hát ngọt ngào cất lên từ cánh phải ngai Vinh quang của Ngài. Với uy lực của Ngài, con xin minh thệ rằng bất cứ ai muốn hòa mình trong những điệu hoan ca đó đều được thêm sức để vượt tới Vương quốc Mặc khải của Ngài, nơi đó vạn vật đều tuyên dương rằng Ngài là Thượng Đế và không có Thượng Đế nào khác ngoài Ngài, Đấng Toàn năng, Đấng Cứu giúp trong cảnh hiểm nghèo, Đấng Tự hữu. Lạy Thượng Đế của con, xin Ngài mở rộng mi mắt các tôi tớ Ngài, và với sự êm dịu của Thánh ngôn Ngài, xin khơi động tâm hồn họ tới mức các tai họa đều không thể ngăn họ hướng về Ngài và nhìn về chân trời Mặc khải của Ngài.

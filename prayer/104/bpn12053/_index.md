@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12053 in '
-tags = ['lang-104', 'bpn12053']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Engkau Tuhan yang Penyayang! Dengan kemurahan hati kurniailah sepasang sayap syurgawi kepada setiap anak burung ini, dan berikanlah mereka kuasa rohani agar mereka dapat terbang melalui ruang yang tak terbatas ini dan mencapai puncak-puncak Kerajaan Abhá.
 

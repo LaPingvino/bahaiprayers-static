@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3404 in български'
-tags = ['lang-bg', 'bpn3404']
+tags = ['lang-bg', 'bpn-unsorted']
 +++
 Той е Могъщият, Опрощаващият, Състрадателният!
 

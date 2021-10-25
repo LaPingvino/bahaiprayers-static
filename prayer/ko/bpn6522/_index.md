@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6522 in 한국어'
-tags = ['lang-ko', 'bpn6522']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 저는 미천하고 약한 자이오나
 

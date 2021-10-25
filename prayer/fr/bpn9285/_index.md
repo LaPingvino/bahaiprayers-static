@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9285 in Français'
-tags = ['lang-fr', 'bpn9285']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Seigneur de bonté, voici tes serviteurs réunis. 
 Ils se sont tournés vers ton royaume, ils ont grand besoin de tes bénédictions et de tes faveurs.

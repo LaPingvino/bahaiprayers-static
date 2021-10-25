@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4890 in Azərbaycan'
-tags = ['lang-az', 'bpn4890']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 *Məşvərət otağına daxil olan zaman, bu duanı Allah sevgisi ilə döyünən bir ürəklə və Onun zikrindən başqa hər şeydən pak olmuş bir dillə oxuyun ki, Qüvvət Sahibi Sizə ən uca qələbə qazanmaqda kömək etsin.
 

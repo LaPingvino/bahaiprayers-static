@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5285 in Bosanski'
-tags = ['lang-bs', 'bpn5285']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 Gospodaru, Bože, Utočište u mojoj boli! Zaštito u mom nemiru. Spasu u teškim trenucima i Pratioče u mojoj usamljenosti! Utjeho moja u mojoj muci i brižni Prijatelju u mojoj samoći! Otklonitelju moje tuge i Oprostitelju mojih grijeha!
 U potpunosti se Tebi okrećem, žarko Te preklinjući cijelim svojim srcem, umom i jezikom, da me u krugu Tvog božanskog jedinstva zaštitiš od svega što je protivno Tvojoj volji; da me očistis od svega što bi me omelo da čist i neokaljan tragam za sjenkom stabla Tvoje milosti.

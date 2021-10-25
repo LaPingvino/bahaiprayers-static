@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11204 in English'
-tags = ['lang-en', 'bpn11204']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 ##Revealed to the Bahá'ís of Canada and Greenland
 Praise be to Thee, O my God! These are Thy servants who are attracted by the fragrances of Thy mercifulness, are enkindled by the fire burning in the tree of Thy singleness, and whose eyes are brightened by beholding the splendors of the light shining in the Sinai of Thy oneness.

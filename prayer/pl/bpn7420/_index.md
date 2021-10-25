@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7420 in Polski'
-tags = ['lang-pl', 'bpn7420']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie! U Ciebie szukam schronienia i ku wszystkim Twoim znakom kieruję serce moje.
     

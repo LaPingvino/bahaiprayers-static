@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6602 in 한국어'
-tags = ['lang-ko', 'bpn6602']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 모두를 하나로 결합하소서. 여러 종교들을 화합케 하시옵고 나라들을 하나로, 저희 모두를
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6567 in 한국어'
-tags = ['lang-ko', 'bpn6567']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 이 불쌍한 어린이를, 이 그릇되고 불행한 영혼에게
 

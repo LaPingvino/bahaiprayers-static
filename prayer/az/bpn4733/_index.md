@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4733 in Azərbaycan'
-tags = ['lang-az', 'bpn4733']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 İlahi! Sənin yolunda bizi sabit-qədəm eylə və ürəklərimizi Sənə itaətdə qüvvətləndir. Üzlərimizi Öz təklik camalına yönəlt və qəlblərimizi vahidliyinin nişanələri il ə fərəhləndir. Bədənlərimizi Öz kəramət libasınla bəzə, gözlərimizdən günahkarlıq pərdəsini qaldır və bizə vəfa piyaləsini içir ki, bütün varlıqların zatı Sənin əzəmətinin hüzurunda Sənin tərifini söyləsin. Sonra, Ya Rəbb, Öz mərhəmətli bəyanınla və İlahi varlığının sirri ilə Özünü aşkar eylə ki, duanın ruhani ləzzəti bizim gəlblərimizi doldursun – o dua ki, sözlərin və hərflərin fövqündə durur, heca və səslərin ahəngindən ucadır – ta ki, hər şey Sənin şəfəqlərinin zühuru qarşısında heçliyə uğrasın.
 

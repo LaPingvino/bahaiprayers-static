@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn464 in Deutsch'
-tags = ['lang-de', 'bpn464']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist Gott!
 O Gott, mein Gott! Diese Diener sind in Deinen Tagen angezogen von den Wohlgerüchen Deiner Heiligkeit und entflammt von dem Feuer, das in Deinem heiligen Baume brennt. Sie antworten auf Deine Stimme und künden Deinen Lobpreis, sie sind erweckt von Deinen sanften Winden und aufgerüttelt von Deinen süßen Düften, sie betrachten Deine Zeichen und verstehen Deine Verse, sie hören Deine Worte, glauben Deiner Offenbarung und sind Deiner Gnade gewiss. Ihre Augen, o Herr, sind auf Dein Königreich strahlender Herrlichkeit gerichtet, ihre Angesichter Deinem Reich in der Höhe zugewandt, ihre Herzen pochen vor Liebe zu Deiner strahlenden, herrlichen Schönheit, ihre Seelen verzehren sich in den Flammen Deiner Liebe, o Du Herr dieser und der zukünftigen Welt, ihr Leben siedet in der Glut ihrer Sehnsucht nach Dir, ihre Tränen vergießen sie Deinethalben.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8119 in Dansk'
-tags = ['lang-da', 'bpn8119']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Forherliget være Dit navn, o min Gud, fordi Du har manifesteret den dag, der er dagenes konge, den dag, som Du bekendtgjorde for Dine udvalgte og Dine profeter i Dine ypperste breve, den dag, da Du kastede glansen fra alle Dine navnes herlighed på alt skabt. Stor er velsignelsen for enhver, der har vendt sig til Dig og er kommet Dig nær og har opfanget Din stemmes tonefald.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6389 in Cymraeg'
-tags = ['lang-cy', 'bpn6389']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O’r hwn a geisia’r Gwirionedd! Os mynni i Dduw agor dy lygad, rhaid iti erfyn ar Dduw, gweddïo arno a chymuno ag Ef ganol nos, gan ddywedyd:
 

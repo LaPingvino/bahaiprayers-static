@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11203 in English'
-tags = ['lang-en', 'bpn11203']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 ##Revealed to the Bahá'ís of the United States and Canada
 

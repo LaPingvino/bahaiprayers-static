@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5348 in Montenegrin'
-tags = ['lang-cnr', 'bpn5348']
+tags = ['lang-cnr', 'bpn-unsorted']
 +++
 Slava Tebi, O moj Bože! Da nije patnji na putu Tvome kako bi se oni što Te istinski ljube mogli prepoznati; i da nema kušnji što se trpe zarad ljubavi Tvoje, kako bi se uzvišenost onih koji za Tobom žude mogla pokazati? Tvoja moć mi je svjedok! Družbenice svih koji Te ljube su suze što se prolivaju, a utjehe onih koji Te traže su jauci njihovi, dok je hrana onih koji k Tebi hitaju od komadića njihovih slomljenih srca.
 Kako li je slatka mojim nepcima gorčina smrti podnesene na Tvome putu, a dragocjenost meni najveća, izloženost kopljima Tvojih neprijatelja radi uzdizanja riječi Tvoje! Daj mi da u Vjeri Tvojoj okusim, o moj Bože, šta god Ti poželiš, i u ljubavi Svojoj daj mi ono što si Ti odredio.

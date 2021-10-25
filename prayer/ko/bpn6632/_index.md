@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6632 in 한국어'
-tags = ['lang-ko', 'bpn6632']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 저의 이 고통과 질환과 허약을, 제가 간원하오니 그가 간구하는 것을 거절하지 마소서
 

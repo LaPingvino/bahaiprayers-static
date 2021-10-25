@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1764 in Íslenska'
-tags = ['lang-is', 'bpn1764']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 *(Þessi tafla er lesin við heilög grafhýsi Bahá’u’lláh og Bábsins. Hún er einnig iðulega notuð við minn­ing­ar­hátíðir þeirra.)
 

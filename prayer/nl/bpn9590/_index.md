@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9590 in Nederlands'
-tags = ['lang-nl', 'bpn9590']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 O  God, mijn God! Deze dienares roept U aan, vertrouwt op U, keert haar gelaat tot U en smeekt U Uw hemelse gaven over haar uit te storten, haar Uw geestelijke mysteriën te onthullen en het licht van Uw Godheid op haar te laten schijnen.
 O mijn Heer! Open de ogen van mijn echtgenoot. Verblijd zijn hart met het licht van Uw kennis, vestig zijn aandacht op Uw lichtende schoonheid en verblijd zijn geest door hem de bewijzen van Uw pracht te openbaren.

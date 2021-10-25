@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10842 in '
-tags = ['lang-94', 'bpn10842']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 O Inu Ambuye wokoma mtima! Inu mwalenga mtundu wonse wa anthu kuchokera kwa kholo limodzi.  Inu mwalamulira kuti onse adzakhala abanja limodzi. Pamaso panu poyera iwo ali antchito Anu, ndipo mtundu wonse wa anthu wafungatiridwa pansi pa Chihema Chanu; onse asonkhana pamodzi ku Gome la Kuolowamanja Kwanu; onse awalitsidwa kupyolera mu kuwala kwa chisamaliro Chanu. 
 

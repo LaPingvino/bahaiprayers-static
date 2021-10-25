@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7619 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7619']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##Priyè Vizitasyon pou ‘Abdu’l-Bahá 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5947 in Català'
-tags = ['lang-ca', 'bpn5947']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Ell és Déu!
 Oh Déu, Déu meu! Aquests són els Teus serfs atrets en els Teus dies pels aromes de la Teva santedat, encesos per la flama què crema a l’arbre sagrat, què responen a la Teva veu, pronuncien la Teva lloança, són despertats per la Teva brisa, commoguts per les Teves dolces fragàncies, contemplen els Teus signes, comprenen els Teus versos, escolten les Teves paraules, creuen en la Teva Revelació i estan segurs de la Teva amorosa bondat, Llurs ulls, oh Senyor, estan fixes en el Teu regne de glòria refulgent i llurs rostres estan girats cap al Teu domini de dalt, llurs cors bateguen amb l’amor de la Teva radiant i gloriosa bellesa, llurs ànimes estan consumides per la flama del Teu amor, oh Senyor d’aquest món i del venidor; llurs vides estan bullint amb el foc del seu anhel per Tu, i per Tu han vessat llurs llàgrimes.

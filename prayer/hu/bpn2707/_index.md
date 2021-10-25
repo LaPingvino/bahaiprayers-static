@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2707 in Magyar'
-tags = ['lang-hu', 'bpn2707']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 A Reád áhítozó szívekben az Érted égő vágy tüze izzik, ó, Istenem, s az udvarodtól való elszakíttatás fájdalmában keserves könnyet hullatnak azok szemei, kik Téged szeretnek. Országaidat az ő siralmuk zokogása járja be, azoké, akik Benned reménykednek.
 

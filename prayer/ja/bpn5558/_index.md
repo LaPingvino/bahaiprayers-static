@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5558 in 日本語'
-tags = ['lang-ja', 'bpn5558']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 *　　　(この祈りはバブとバハオラの霊廟れいびょうにおいて用いられる。  また、バブとバハオラに関連する祝祭日にも用いられる。　　　)
 

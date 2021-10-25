@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4884 in Azərbaycan'
-tags = ['lang-az', 'bpn4884']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ya Rəbb, mənim Allahım! Bunlar o günlərdir ki, Sən bütün insanlara Oruc tutmağı hökm etmisən, ta ki, bununla onlar öz qəlblərini təmizləsinlər, Səndən başqa hər şeyə bağlılıqdan qurtulsunlar və onların ürəklərindən elə şeylər yüksəlsin ki, Sənin əzəmət sarayına layiq olsun və Sənin birliyinin təzahürünün taxtına yaraşsın. İzn ver, İlahi, qoy bu oruc abi-həyat çeşməsi olsun və Sənin ona əta etdiyin bəhrəni versin. Bununla Sən bəndələrinin ürəklərini təmizlə, o bəndələr ki, dünyanın şəri onların Sənin Əbha Adına yönəlməsinə mane ola bilmədi, o kəslər ki, Sənin Öz hökmranlığını, qüdrətini, əzəmətini və şərəfini əta etdiyin Zühurunun gəlişini müşayiət edən Sənə məxsus ən parlaq əlamətləri inkar edənlərin çaxnaşması və hay-küyü onları sarsıda bilmədi. Bunlar o bəndələrdir ki, Sənin nidan onlara yetişən kimi, Sənin mərhəmətinə doğru tələsdilər və bu dünyanın qəzavü-qədəri və ya bəşəri məhdudiyyətləri onları Səndən saxlaya bilmədi.
 

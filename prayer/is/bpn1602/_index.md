@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1602 in Íslenska'
-tags = ['lang-is', 'bpn1602']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Þú framfærandi! Þú hefur andað ljúfum ilmi heilags anda yfir vinina á Vesturlöndum og lýst upp vesturhimininn með ljósi leiðsagnar. Þú hefur laðað þá til Þín sem eitt sinn voru fjarlægir, Þú hefur gert hina ókunnu að ástríkum vinum, Þú hefur vakið þá sem sváfu, Þú hefur gert hina gálausu aðgætna.
 Ó Þú framfærandi! Aðstoða þessa göfugu vini við að ávinna sér velþóknun Þína og ger þá að vel­unn­urum jafnt vina sem ókunnugra. Leið þá inn í veröld sem varir að eilífu, veit þeim hlutdeild í himneskri náð, lát þá verða sanna Bahá’ía, einlæga í Guði, frelsa þá frá ytri eftirlíkingum og grund­valla þá staðfastlega í sannleikanum. Ger þá að táknum og ummerkjum ríkisins, skínandi stjörn­ur yfir sjón­ar­hring þessa lægra lífs. Ger þá að huggun og hug­svölun mann­kyns, þjóna heimsfrið­ar­ins. Ölva þá víni heilræða Þinna og gef að þeir megi allir feta stigu boða Þinna.

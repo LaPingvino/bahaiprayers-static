@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12481 in '
-tags = ['lang-103', 'bpn12481']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 How can I choose to sleep, O God, my God
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2760 in Shqip'
-tags = ['lang-sq', 'bpn2760']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 Mblidhuni së bashku me gëzim të pastër dhe, në fillim të mbledhjes, thoni këtë lutje:
 

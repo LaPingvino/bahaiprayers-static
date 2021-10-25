@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7499 in Suomi'
-tags = ['lang-fi', 'bpn7499']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Kunnia Sinulle, oi Jumalani! Yksi palvelijattaristasi, joka on uskonut Sinuun ja merkkeihisi, on astunut ykseytesi puun siimekseen. Anna hänen maistaa, oi Jumalani, Sinun nimesi, Näkyvän ja Kätketyn, kautta sinetöityä valioviiniäsi, jotta se vieroittaisi hänet hänen omasta itsestään ja saisi hänet kokonaan pyhittäytymään Sinun muistelemisellasi ja täysin irrottautumaan kaikista paitsi Sinusta.
 Nyt, kun olet ilmaissut hänelle tiedon itsestäsi, oi Herrani, anteliaisuutesi kautta älä kiellä häneltä armoasi, ja nyt, kun olet kutsunut hänet tykösi, suopeutesi kautta älä aja häntä pois luotasi. Varusta hänet sitten sillä, mikä on parempaa kuin kaikki Sinun maasi päällä oleva. Sinä olet totisesti Kaikkein anteliain, jonka armo on suunnaton.

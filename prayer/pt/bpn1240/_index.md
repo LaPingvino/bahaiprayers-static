@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1240 in Português (BR)'
-tags = ['lang-pt', 'bpn1240']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é Deus, excelso é Ele, Senhor de misericórdia e bondade!
 Glória a Ti, ó meu Deus, Senhor Todo-Poderoso! Atesto a Tua omnipotência e grandeza, soberania e mercê, o Teu poder e a Tua graça, a unidade do Teu Ser e da Tua Essência, e a Tua santidade e exaltação acima do mundo existente e de tudo o que nele se acha.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13009 in '
-tags = ['lang-113', 'bpn13009']
+tags = ['lang-113', 'bpn-unsorted']
 +++
 *(La raan gu na vaarovaai la mun taan saksaxei la biru la waanas, gu na rutaawok suaai a Bina Vaarala o Israel xa zi vatok a yaas ka si ma gu na mainung pan a vaaroving i la waanas.)
 

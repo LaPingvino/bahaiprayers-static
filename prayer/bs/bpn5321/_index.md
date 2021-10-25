@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5321 in Bosanski'
-tags = ['lang-bs', 'bpn5321']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 ##Ploča Vatre 
 

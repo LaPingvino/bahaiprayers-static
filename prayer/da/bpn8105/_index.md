@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8105 in Dansk'
-tags = ['lang-da', 'bpn8105']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Forherliget være Dit navn, o Herre min Gud! Jeg bønfalder Dig ved Din magt, der har omsluttet alle skabte ting, og ved Dit herredømme, der er hævet over hele skabelsen, og ved Dit ord, der var skjult i Din visdom, og hvorved Du skabte Din himmel og Din jord, om både at gøre os faste i vor kærlighed til Dig og i vor lydighed mod Dit ønskeog fæste vort blik på Dit ansigt og prise Din herlighed. Giv os da styrke, o min Gud, til at udbrede Dine tegn blandt Dine skabninger og vogte over Din tro i Dit rige. Du har altid levet uafhængigt af Dine skabningers omtale og vil forblive således, som Du har været til evig tid.
 

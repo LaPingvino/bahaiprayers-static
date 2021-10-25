@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12643 in '
-tags = ['lang-91', 'bpn12643']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 O Nuan Tuhan ti nelap! Nuan udah nempa semua mensia ari asal ti sama. Nuan udah ngeletak-tangkan semua endang deka diempu ruang bilik ti sama. Ba Mua Pengudus Nuan sida endang semua pengasuh Nuan, lalu semua mensia dilindung di baruh Panggau Nuan; semua udah sama begempuru ba Mija Pemisi Nuan; lalu semua diperenching nengah penampak Penabat Nuan.
 O Petara! Nuan endang nelap ngagai semua, Nuan udah mekal ke semua, udah ngelindung semua, nyiri pengidup ke semua. Nuan udah meri genap iku enggau semua mensia ngena penau enggau pemandai, lalu semua diselam dalam Tasik Pengasih Nuan.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5856 in Català'
-tags = ['lang-ca', 'bpn5856']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu compassiu! Et dono gràcies per haver-me despertat i fet conscient. Tu m’has donat un ull què veu i m’has afavorit amb una oïda què escolta, m’has conduït al Teu regne i m’has guiat cap al Teu camí. Tu has indicat el camí vertader i m’has fet entrar a l’arca d’alliberament.
 Oh Déu! Mantén-me constant i fes-me ferm i lleial. Protegeix-me de proves violentes, preserva’m i dóna’m empara en la fortalesa sòlidament emmurallada de la Teva Aliança i Testament. Tu ets el Poderós. Tu ets el què veu. Tu ets el què sent.

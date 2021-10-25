@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2452 in Latviešu'
-tags = ['lang-lv', 'bpn2452']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Laulību solījums, teikums, kas bahājiešu liecinieku klātbūtnē ir jāpasaka atsevišķi līgavai un līgavainim, kā tas ir noteikts Vissvētākajā Grāmatā (Kitáb-i-Aqdas), ir:
 

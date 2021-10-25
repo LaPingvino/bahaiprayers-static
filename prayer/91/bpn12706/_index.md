@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12706 in '
-tags = ['lang-91', 'bpn12706']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 *Lebuh pengayan penusah dunya ti enda disadang ingat ulih nuan penegap enggau peninggi kuasa-raja Tuhan nuan, Iya ti ninga sereta meda semua, lalu sebut “Perintah enggi Petara, Tuhan ke semua utai ti dipeda enggau ti enda dipeda, Tuhan ke semua utai tempa.”
 *—  Kitáb-i-Aqdas

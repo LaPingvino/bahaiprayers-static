@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10828 in '
-tags = ['lang-94', 'bpn10828']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 O Mulungu! O Mulungu! Ino ndi mbalame yothyoka phiko ndipo kuwuluka kwake ndi kwapang’ono-pang’ono ithandizeni kuti ithe kuwuluka kufika kunsonga ya chuma ndi chipulumutso, iwuluke ulendo wake ndi chimwemwe ndi chisangalaro chonse kunka mu mlengalenga mopanda malire, kwezani nyimbo yake m’Dzina Lanu Lalikulu mu zigawo zonse, sangalatsani makutu ndi kuyitanaku, ndikuwalitsa maso pakuwona zizindikiro za chitsogozo! 
 

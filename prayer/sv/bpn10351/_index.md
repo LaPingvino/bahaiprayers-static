@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10351 in Svenska'
-tags = ['lang-sv', 'bpn10351']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Ärad vare Du, o Du världens Gud och folkens åstundan, o Du som har blivit uppenbarad i det Största namnet, varigenom visdomens och talets pärlor har kommit fram ur musslorna i Din kunskaps stora hav, och den gudomliga uppenbarelsens himlar har smyckats med ljuset från framträdandet av Ditt anletes sol!
 Jag ber Dig vid det ord, varigenom Ditt bevis gjordes fulländat bland Dina skapade varelser och Din bevisföring fullbordades bland Dina tjänare, att styrka Ditt folk i det varmed Din saks yttre skall stråla i Ditt rike, Din makts fanor ställas upp bland Dina tjänare och Din lednings baner resas i Dina länder.

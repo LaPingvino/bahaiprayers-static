@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11457 in Español'
-tags = ['lang-es', 'bpn11457']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡En el Nombre de Dios, el Altísimo! ¡Alabado y glorificado eres Tú, Señor, Dios Omnipotente, ante Cuya sabiduría el sabio está falto de conocimiento y fracasa, ante Cuyo conocimiento el erudito confiesa su ignorancia, ante Cuyo poder el fuerte se debilita, ante Cuya riqueza el rico atestigua su pobreza, ante Cuya luz el iluminado está perdido en la oscuridad, hacia el templo de Cuyo conocimiento se vuelve la esencia de todo entendimiento, y en torno al santuario de Cuya presencia circulan las almas de toda la humanidad!
 ¿Cómo puedo yo, entonces, ensalzar y hablar de Tu Esencia, que ni la sabiduría de los sabios ni el conocimiento de los eruditos han llegado a comprender, puesto que nadie puede ensalzar aquello que no comprende ni relatar aquello que no puede alcanzar, en tanto que Tú has sido, desde siempre, el Inaccesible, el Inescrutable? Aunque no pueda ascender a los cielos de Tu gloria ni remontarme a los dominios de Tu conocimiento, puedo al menos referir Tus señales, que dan testimonio de Tu gloriosa obra. 

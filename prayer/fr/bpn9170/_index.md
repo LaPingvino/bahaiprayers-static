@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9170 in Français'
-tags = ['lang-fr', 'bpn9170']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Magnifié soit ton nom, ô mon Dieu, car tu as révélé le jour qui est le roi des jours, le jour annoncé à tes élus et à tes prophètes dans tes épîtres les plus merveilleuses, le jour où tu as répandu la splendeur de la gloire de tous tes noms sur toutes choses créées. Béni celui qui avance vers toi, parvient en ta présence et perçoit les intonations de ta voix.
 Par le nom de celui autour duquel le royaume de tes noms gravite en signe d’adoration, je te supplie. Ô mon Seigneur, aide généreusement ceux qui te sont chers, à glorifier ta parole parmi tes serviteurs et à répandre ta louange parmi tes créatures afin que l’exaltation de ta révélation emplisse les âmes de tous les habitants de ta terre.

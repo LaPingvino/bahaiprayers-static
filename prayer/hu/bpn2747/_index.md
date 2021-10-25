@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2747 in Magyar'
-tags = ['lang-hu', 'bpn2747']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 „Bizony, elrendeltetett néktek, hogy minden hónapban egyszer vendégszeretetet ajánljatok, mégha vízzel is csupán; mert Isten célja a szívek összekötése, jóllehet mind földi, mind égi eszközökkel.” —Bahá’u’lláh, Kitáb-i-Aqdas
 

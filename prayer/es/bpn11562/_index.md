@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11562 in Español'
-tags = ['lang-es', 'bpn11562']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 *Todos los amigos de Dios [...] deberían contribuir en la medida de sus posibilidades, por muy modesta que sea su aportación. Dios no sobrecarga a un alma por encima de su capacidad. Esas contribuciones deben provenir de todos los centros y de todos los creyentes [...].
 *¡Oh amigos de Dios! Estad seguros de que, a cambio de estas contribuciones, vuestra agricultura, vuestra industria y vuestro comercio serán bendecidos con múltiples mejoras, con generosas dádivas y favores. Aquel que venga con una buena obra recibirá diez veces más en recompensa. No hay duda de que el Señor viviente confirmará en abundancia a quienes emplean su riqueza en Su camino.

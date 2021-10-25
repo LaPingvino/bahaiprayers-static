@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9142 in Français'
-tags = ['lang-fr', 'bpn9142']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Dieu, mon Dieu, je me tourne en repentir vers toi et tu es en vérité l’Indulgent, le Compatissant.
 Ô Dieu, mon Dieu, je reviens à toi et tu es en vérité le Magnanime, le Clément.

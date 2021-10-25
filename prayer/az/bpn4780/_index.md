@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4780 in Azərbaycan'
-tags = ['lang-az', 'bpn4780']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 *Bəhai nigahı iki tərəfin ittifaqı və səmimi sevgi bağlılığıdır. Onlar, bununla belə, bir-birinin xasiyyətləri ilə tam tanış olmaları üçün çox ciddi diqqət göstərməlidirlər. Bu əbədi bağın etibarlılığı sarsılmaz əhdlə möhkəmləndirilməlidir və məqsəd ahəng, yoldaşlıq və birlik yaratmaq və əbədi həyata yetişmək olmalıdır.
 

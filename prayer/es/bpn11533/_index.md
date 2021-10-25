@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11533 in Español'
-tags = ['lang-es', 'bpn11533']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 Gloria sea a Ti, oh Señor del mundo y Deseo de las naciones; oh Tú que Te has hecho manifiesto en el Más Grande Nombre, por medio del cual las perlas de la sabiduría y de la expresión han aparecido en las conchas del gran mar de Tu conocimiento, y los cielos de la revelación divina han sido adornados con la luz de la aparición del Sol de Tu semblante. 
 Te suplico, por esa Palabra, mediante la cual fue perfeccionada Tu prueba entre Tus criaturas y se cumplió Tu testimonio entre Tus siervos, que fortalezcas a Tu pueblo en aquello que haga irradiar la faz de la Causa en Tu reino, enarbolar las enseñas de Tu poder entre Tus siervos y alzar los estandartes de Tu guía en Tus dominios.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10804 in '
-tags = ['lang-94', 'bpn10804']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 O Mulungu wanga, Mbuye wanga, mathero Achofuna 
 changa, uyu, wantchito Wanu, afuna kugona mum’thunzi wa chifundo Chanu, ndikupumula pansi pa chifungatira cha chisomo Chanu, akupempha chisamaliro Chanu ndi chitetezo Chanu. 

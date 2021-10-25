@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12064 in '
-tags = ['lang-104', 'bpn12064']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 ”Dalam segala sesuatu ada tandanya. Tanda kasih adalah keteguhan hati di bawah perintah-Ku dan kesabaran di bawah cubaan-cubaan-Ku.”               
 

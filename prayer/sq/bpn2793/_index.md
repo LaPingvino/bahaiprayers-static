@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2793 in Shqip'
-tags = ['lang-sq', 'bpn2793']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 Në Emër të Tij, të Lavdëruarit, Më të Lartit, Më Fisnikut!
 

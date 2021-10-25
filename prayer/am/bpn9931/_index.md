@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9931 in አማርኛ.'
-tags = ['lang-am', 'bpn9931']
+tags = ['lang-am', 'bpn-unsorted']
 +++
 *Spiritual Qualities
 *(በሴት የሚደረግ)

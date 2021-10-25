@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5841 in Català'
-tags = ['lang-ca', 'bpn5841']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Els qui difonguin les fragàncies de Déu han de recitar aquesta oració cada matí.
 

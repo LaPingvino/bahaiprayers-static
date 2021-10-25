@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5567 in 日本語'
-tags = ['lang-ja', 'bpn5567']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 ##断食の祈り
  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8903 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8903']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 上帝啊，我的上帝！我已悔改並轉向祢。誠然！祢是寬恕者，憐憫者。
 上帝啊，我的上帝！我已重返祢的懷抱。誠然！祢是永恆寬恕者，寬仁者。

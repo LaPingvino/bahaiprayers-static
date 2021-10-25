@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2451 in Latviešu'
-tags = ['lang-lv', 'bpn2451']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Naw-Rúz – 21. marts – ir bahājiešu gada pirmā diena.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7332 in Polski'
-tags = ['lang-pl', 'bpn7332']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Następującą modlitwę powinno się czytać (…) każdego dnia:
    

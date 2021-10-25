@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1223 in Português (BR)'
-tags = ['lang-pt', 'bpn1223']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvor e glória a Ti pertencem, ó Senhor meu Deus! És Aquele que sempre se veste de majestade, autoridade e poder e que continuará para sempre a adornar-Se de honra, fortaleza e glória. Todo o erudito se pasma ante os sinais e as evidências da obra das Tuas mãos, enquanto os sábios, sem exceção, se veem incapazes de desvendar o mistério Daqueles que são os Manifestantes da Tua grandeza e do Teu poder. Todo o homem de perceção tem confessado a sua incapacidade de escalar as alturas do Teu conhecimento; todo o homem letrado tem admitido o seu insucesso em penetrar a natureza da Tua Essência.
 Havendo fechado o caminho que a Ti conduz, Tu, em virtude da Tua autoridade e através da potência da Tua vontade, chamaste à existência Aqueles que são os Manifestantes de Ti próprio com a missão de dar a Tua mensagem ao Teu povo, tornando-Lhes os Alvoreceres da Tua inspiração, os Expoentes da Tua Revelação, os Tesouros do Teu conhecimento e os Santuários da Tua Fé, para que, através d’Eles, todos os homens volvessem as suas faces para Ti e se aproximassem do reino da Tua Revelação e do céu da Tua graça.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12119 in '
-tags = ['lang-104', 'bpn12119']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Aku tidak mengetahui, Ya Tuhanku, apakah Api yang telah Engkau nyalakan di bumi-Mu. Bumi tidak akan pernah dapat menutupi kegemilangannya, mahupun sebarang air dapat memadamkan sinarannya. Semua manusia di dunia tidak berupaya untuk menahan kuasanya. Besarlah berkat dia yang telah mendekatinya, dan mendengar laungannya.
 

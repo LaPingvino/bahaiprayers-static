@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12197 in '
-tags = ['lang-104', 'bpn12197']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 ##LOH RIḌVÁN
 

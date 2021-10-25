@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5213 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5213']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 *Naw-Ruz
 

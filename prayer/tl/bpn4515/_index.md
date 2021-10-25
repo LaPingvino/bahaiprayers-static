@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4515 in Filipino'
-tags = ['lang-tl', 'bpn4515']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Mayroon bang Tagapag-alis ng mga kahirapan liban sa Diyos? Sabihin: Purihin ang Diyos! Siya ay Diyos! Lahat ay Kaniyang tagapaglingkod, at lahat ay sumusunod sa Kaniyang mga utos!
 

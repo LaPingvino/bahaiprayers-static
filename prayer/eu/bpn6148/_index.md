@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6148 in Euskara'
-tags = ['lang-eu', 'bpn6148']
+tags = ['lang-eu', 'bpn-unsorted']
 +++
 Ene Jainkoa! Irakaslea eta Guraria!
 Zure errukiaren babespean lo egitea nahi du Zure zerbitzari honek, eta Zure adeiaren estalpean atseden hartu. Zure ardura eta babesa arren eskatuz.

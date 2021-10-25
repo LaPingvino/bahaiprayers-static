@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2706 in Magyar'
-tags = ['lang-hu', 'bpn2706']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Oszlasd el bánatomat jótékonyságoddal és bőkezűségeddel, ó, Isten, én Istenem, és szüntesd szívfájdalmamat fenségeddel és hatalmaddal. Látod, ó, Istenem, arcomat Feléd fordítom egy olyan időben, mikor szomorúság vesz körül minden oldalról. Ó, Te, Ki minden lét Ura vagy, s Ki felülmúlsz minden láthatót és láthatatlant, könyörgöm Nevedre, mely által az emberek szívét és lelkét uralod, és irgalmad Óceánjának hullámaira és jótékonyságod fénylő Napcsillagának ragyogására kérlek, számíts engem azok közé, kiket semmi sem tudott meggátolni abban, hogy Feléd fordítsák arcukat, ó, Te, minden nevek Ura és az egek Teremtője!
 

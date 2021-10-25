@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2695 in Magyar'
-tags = ['lang-hu', 'bpn2695']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Dicsőíttessél, ó, Uram, én Istenem! Akárhányszor csak említeni merészellek, hatalmas bűneim és súlyos, Ellened való cselekedeteim visszatartanak, és kegyelmedtől megfosztottnak és teljesen erőtlennek érzem magam, hogy dicséreted zengjem. És mégis, nagy bizodalmam jóságodban új reménnyel tölt el, és a bizonyosság, hogy bőséged kezét nyújtod felém, arra bátorít, hogy magasztaljalak Téged, és olyan dolgokért esedezzem, melyekkel csak Te rendelkezel.
 

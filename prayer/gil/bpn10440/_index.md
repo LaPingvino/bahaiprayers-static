@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10440 in Kiribati'
-tags = ['lang-gil', 'bpn10440']
+tags = ['lang-gil', 'bpn-unsorted']
 +++
 Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada 
 O te Atua, Atuau!  Ko noora aron roroon te rotongitong ae rabuni mwakoro n aono ni kabane, aroia ni kabane aono aika a urarake ma ain te kauntaeka, ao ain te buaka ao te tiritiri e a urababa rinanon nako te aono ni Mainiku ao Maeao.  Rara a waanako, maate a raea iaontano, taian ata aika korouaaki a bwaka iaon bubuntanon te marae ni buaka.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2779 in Shqip'
-tags = ['lang-sq', 'bpn2779']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 I lavdëruar je Ti, O Zoti im i dhembshur! Unë të lutem për vrumbullitjen e Oqeanit të të folurit Tënd të shenjtë, dhe për shenjat e shumta të Sovranitetit Tënd suprem, dhe për dëshmitë imponuese të Hyjnisë Sate, dhe për misteret e fshehura që qëndrojnë të mbuluara prej dijeve të Tua, më dhuro favorin që të të shërbej Ty e të zgjedhurve të Tu, dhe më bëj të aftë të të ofroj si duhet Huqúq-un Tënd, siç ke porositur Ti në Librin Tënd.
 

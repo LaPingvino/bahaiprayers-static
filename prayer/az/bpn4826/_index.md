@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4826 in Azərbaycan'
-tags = ['lang-az', 'bpn4826']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, mənim Allahım! Sənin şəfaverici dəryanla, fəzl Günəşinin parıltısı ilə, Öz bəndələrini tabe etdiyin Adınla, Uca Kəlamının nüfuzedən qüvvətilə, Sənin ən müqəddəs Qələminin Qüdrətilə və göydə və yerdə olan bütün məxluqatın üstündə olan mərhəmətinlə – diləyirəm Səndən – məni hər bir qəm-qüssədən və xəstəlikdən, hər bir zəiflik və acizlikdən Öz kəramət sularınla pak eylə.
 

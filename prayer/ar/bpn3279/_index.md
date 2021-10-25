@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3279 in العربية'
-tags = ['lang-ar', 'bpn3279']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 * (مناجاة اللقاء)
 # هُوَ الأَبْهَى

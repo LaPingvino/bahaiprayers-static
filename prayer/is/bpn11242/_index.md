@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11242 in Íslenska'
-tags = ['lang-is', 'bpn11242']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 *Fara má 19 sinnum með eftirfarandi bæn þegar taka þarf ákvörðun um brýnt málefni:
 

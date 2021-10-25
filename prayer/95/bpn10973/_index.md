@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10973 in '
-tags = ['lang-95', 'bpn10973']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 E maluga silisili a Koe, O toku Aliki alofa atafai!
 E maluga silisili a Koe, O toku Aliki alofa atafai! Au e akai totuli ki te tumu ote vasa o Tau faipatiga mana, mo mea-alofa lausa o Tou nofoaiga-a-aliki tafasili i te maluga, mo faka-maoniiga maalosi o Tou Faka-te-Lagi, mo mea funa ko la e lilo i loto i Tou poto, ke tuku mau kia au a Tou alofa ke taivini atu kia Koe pe la foki mo Au tino filifilia, ke mafai ne au o kave mot e loto malie ki Tau Huqúq te la ko oti ne fakatonu mai i Tau Tusi.

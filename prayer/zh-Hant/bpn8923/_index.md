@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8923 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8923']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 以下是每日誦讀之禱文。
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12069 in '
-tags = ['lang-104', 'bpn12069']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhanku dan Rajaku! Aku adalah hamba-Mu dan putera hamba-Mu. Aku telah bangun dari tempat tidurku pada waktu fajar ini, ketika Suria Keesaan-Mu telah bersinar dari Subuh kehendak-Mu, dan telah memancarkan sinar-Nya ke seluruh dunia, sesuai dengan apa yang telah dirukunkan dalam Kitab-Kitab Perintah-Mu.
 

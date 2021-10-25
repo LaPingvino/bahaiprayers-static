@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6659 in 한국어'
-tags = ['lang-ko', 'bpn6659']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 ##「아흐마드」의 서한
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9930 in አማርኛ.'
-tags = ['lang-am', 'bpn9930']
+tags = ['lang-am', 'bpn-unsorted']
 +++
 *Spiritual Qualities
 

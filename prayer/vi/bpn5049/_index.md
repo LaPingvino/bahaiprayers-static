@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5049 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5049']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con! Đây là tôi tớ Ngài, và là con của tôi tớ Ngài, đã đặt tin tưởng nơi Ngài và nơi các dấu hiệu của Ngài, đã hướng mặt về Ngài và hoàn toàn dứt bỏ mọi sự ngoài Ngài. Quả thật Ngài là Đấng Bác ái nhất trong những Đấng Bác ái.
 Lạy Ngài là Đấng Tha thứ tội lỗi của người đời và che giấu những khiếm khuyết của họ, xin Ngài cũng đối xử với người tôi tớ này tùy cõi trời ý chí của Ngài và đại dương ân phúc của Ngài. Xin cho người được đến nơi triều đường bác ái thiên thượng của Ngài vốn có từ trước khi tạo thiên lập địa. Không có Thượng Đế nào khác ngoài Ngài, Đấng Hằng Tha thứ, Đấng Đại lượng. 

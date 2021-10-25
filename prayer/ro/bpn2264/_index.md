@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2264 in România'
-tags = ['lang-ro', 'bpn2264']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 El este Dumnezeu, slăvit este El, Stăpânul dărniciei şi al duioasei bunătăţi! Slava fie cu Tine, O, Tu, Dumnezeul meu, Stăpâne Atotputernic. Adeveresc omnipotenţa şi tăria Ta, suveranitatea Ta şi bunătatea Ta duioasă, harul Tău şi puterea Ta, unicitatea fiinţei Tale şi unitatea esenţei Tale, sanctitatea Ta şi înălţarea Ta deasupra lumii existenţei şi a tot ce se află în ea.
 

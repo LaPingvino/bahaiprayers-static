@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11339 in தமிழ்'
-tags = ['lang-ta', 'bpn11339']
+tags = ['lang-ta', 'bpn-unsorted']
 +++
 அவரே கடவுள்! 
 

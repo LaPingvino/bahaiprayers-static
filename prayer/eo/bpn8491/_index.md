@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8491 in Esperanto'
-tags = ['lang-eo', 'bpn8491']
+tags = ['lang-eo', 'bpn-unsorted']
 +++
 Estas Li la Saniganto, la Sufiĉanto, la Helpanto, la Ĉion-Pardonanta, la Ĉiel-Kompatema.
 Alvokas mi Vin, ho Ekzaltita, ho Fidela, ho Glora! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7672 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7672']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 *Vrèman, Huqúqu’lláh se yon gran lwa. Se yon obligasyon pou tout moun swiv li, paske li se yon sous gras, e richès, ak tout sa ki bon. Se yon bonte ki pral rete ak chak nanm nan chak mond pami tout mond Bondye genyen, Li menm Ki Posede Tout Bagay, Ki Gen Tout Bonte.
  

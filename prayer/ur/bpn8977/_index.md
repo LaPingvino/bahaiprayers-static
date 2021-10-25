@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8977 in اُردُو'
-tags = ['lang-ur', 'bpn8977']
+tags = ['lang-ur', 'bpn-unsorted']
 +++
 اے میرے محبوب ، اے میرے مقصود، 
 اے میری تمناؤں کی انتہا!

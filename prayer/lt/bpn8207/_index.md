@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8207 in Lietuvių'
-tags = ['lang-lt', 'bpn8207']
+tags = ['lang-lt', 'bpn-unsorted']
 +++
 ##Trumpa privalomoji malda
 

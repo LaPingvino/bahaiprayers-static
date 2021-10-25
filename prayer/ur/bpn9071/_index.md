@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9071 in اُردُو'
-tags = ['lang-ur', 'bpn9071']
+tags = ['lang-ur', 'bpn-unsorted']
 +++
 اے وہ کہ تیرا چہرہ ہی میرا کعبہ ہے۔
 اور تیرا جمال میرا حرم ہے۔

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12973 in '
-tags = ['lang-110', 'bpn12973']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 O God bilong mi!  O God bilong mi!  Tru tumas. Ol dispela wokman i tanim i go long Yu na ol i askim strong long kingdom bilong marimari bilong Yu.  Tru tumas.  Pasin holi bilong Yu i wok long pulim ol i kam long Yu na ol i pulap long lait i kam long paia bilong bikpela laik long Yu.  Ol i painim blesing i kam long naispela kingdom bilong Yu na ol i gat bikpela laik long kamap long hap bilong heven bilong Yu. Tru tumas, ol i gat bikpela laik long lukim blesing bilong Yu i pundaun long ol.   Na ol i laikim bai lait bilong San bilong Trupela Laip i lait long ol.  O Bikpela!  Mekim olsem bai ol i kamap olsem ol lam i pulap long lait.  Inap bai ol i kamap mak bilong marimari.  Inap bai ol i 
 kamap olsem ol diwai i karim planti kaikai.  Inap bai ol i lait olsem ol sta.  Inap bai ol kirap long wokim wok bilong Yu na holimpas long rop bilong bikpela laik long Yu na painim ol lait i kam long blesing bilong Yu. O Bikpela!  Mekim olsem bai ol i kamap olsem ol mak bilong soim rot na soimaut ol pasin bilong kingdom bilong Yu.  Dispela kingdom i stap oltaim.  Inap bai ol i kamap olsem solwara bilong marimari bilong Yu i bruk.  Inap bai ol i kamap olsem glas bilong lukim lait bilong bikpela bilong Yu.  Tru tumas. Yu Givim Planti Samting.  Tru tumas.  Yu Save Sori Long Olgeta Man.  Tru tumas.  Yu Gat Bikpela Namba na Olgeta Man I Laikim Yu Tru. ’Abdu’l-Bahá’í 

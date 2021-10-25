@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2865 in Česky'
-tags = ['lang-cs', 'bpn2865']
+tags = ['lang-cs', 'bpn-unsorted']
 +++
 Dosvědčuji, ó můj Bože, že jsi mne stvořil, abych Tě znal a uctíval.
 

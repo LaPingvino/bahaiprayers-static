@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6364 in فارسی'
-tags = ['lang-fa', 'bpn6364']
+tags = ['lang-fa', 'bpn-unsorted']
 +++
 قولُهُ تعَالی:
 بِسمِیَ الاَعظَمِ

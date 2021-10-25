@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1612 in Íslenska'
-tags = ['lang-is', 'bpn1612']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn! Hjá Þér leita ég athvarfs og sný hjarta mínu í átt til allra tákna Þinna.
 Ó Drottinn! Hvort sem ég er á ferðalagi eða heima við, í starfi mínu og atvinnu, set ég allt traust mitt á Þig.

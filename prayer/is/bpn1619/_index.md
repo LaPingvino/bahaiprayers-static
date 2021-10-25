@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1619 in Íslenska'
-tags = ['lang-is', 'bpn1619']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn! Vernda Þú börnin, sem fæðast á þessum degi, sem nærast við brjóst ástar Þinn­ar og uppvaxa í skauti náðar Þinnar.
 Ó Drottinn! Þau eru vissulega ungar greinar, sem dafna í görðum þekkingar Þinnar; þau eru brum­andi lim í trjálundi náðar Þinnar. Gef þeim skerf af gnótt gjafa Þinna, lát þau dafna og blómgast í regninu, sem fellur úr skýjum gjafa Þinna.

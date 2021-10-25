@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10740 in '
-tags = ['lang-93', 'bpn10740']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 Daj da se napojim na miomirisnim potocima Tvoje večnosti , O moj Bože, i dopusti da kušam plodove sa drveta Tvog bivstvovanja, O moja Nado! 
 Sa kristalno čistih izvora Tvoje ljubavi dozvoli mi da ispijam, O Veličanstveni, i da boravim pod senkom Tvog večnog proviđenja, O moja Svetlosti! 

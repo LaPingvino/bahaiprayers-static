@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7437 in Polski'
-tags = ['lang-pl', 'bpn7437']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Bogiem, wywyższony jest On, Pan potęgi i majestatu!
     

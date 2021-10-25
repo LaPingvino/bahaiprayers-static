@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10922 in '
-tags = ['lang-95', 'bpn10922']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Ko Koe ko te Matagofie, O te Aliki toku Atua!  Au e akai totuli kia Koe, mai ia Au Tino Filifilia, mai ia Latou ko la e Kave a Tau Fakamaoniiga, mai ia Ia Tela ko oti ne fakaeke ne Koe me ko te Ponoga o Au Pelofeta mo au Faifekau, ke fai a Tou masausauaga mo fai a toku taugasoa, ko Tou Alofa mo fai a toku fakamoemoega, ko Ou Mata ko toku koulu, a ko Tou igoa ko toku lamepa, a ko Tou manakoga ko toku fiafiaaga, ako Tou fiafia ko toku fiafia.
      Au se tino agasala, O toku Aliki, a ko Koe ko te Fakamagalo-Katoatoa.  I taimi loa te la ne atafia i ei ne au a Koe, au ne fakavave ke maua ne au a te fale tafasili i te maluga o Tou alofa-kaimalie.  Fakamagalo mai au, O toku Aliki, aku agasala ko la ko fai mo mea e fakalavelave mai kia au i te sasale i auala o te Tou fiafia-llei, kae mai i te oko atu ki matafaga o te vasa o Tou tafatasi.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10103 in Slovensky'
-tags = ['lang-sk', 'bpn10103']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 *Kitáb¬ i¬ Aqdas uvádza:“ Nariadili sme vám, aby ste sa modlili a postili od začiatku dospelosti (15 rokov). Toto je nariadené Bohom, vašim Pánom a Pánom vašich predkov…Cestujúci, chorí a ženy, ktoré čakajú dieťa alebo koja, nie sú viazaní pôstom…Zdržiavajte sa jedla od úsvitu do západu slnka a vyvarujte sa, aby vás žiadosť nezbavila milosti, ktorá je ustanovená u Knihe.“
 *Obdobie pôstu trvá od 2. do 20. marca.

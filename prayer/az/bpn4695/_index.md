@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4695 in Azərbaycan'
-tags = ['lang-az', 'bpn4695']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Mənim Allahım, Qibləgahım və Səcdəgahım! Sənin birliyinə və təkliyinə şəhadət verirəm, Sənin həm keçmişdəki, həm də indiki bəxşişlərini etiraf edirəm. Sən elə Kəramətli Allahsan ki, Sənin mərhəmətinin yağışları həm yüksək və həm də adsız-sansız adamların üzərinə yağıb və Sənin fəzlinin şuaları həm itaətkarların, həm də asilərin üstünə saçıb.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7478 in Polski'
-tags = ['lang-pl', 'bpn7478']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Modlitwę tę należy odmawiać na zakończenie zebrania Zgromadzenia Duchowego.
     

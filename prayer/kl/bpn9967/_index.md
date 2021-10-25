@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9967 in Kalaallisut'
-tags = ['lang-kl', 'bpn9967']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Ataqqinarsisitaagit Illit, Guuti-aa, Qanoq ilillunga Illit oqaluuserissavakkit Illit illernarsisitaasimaguit inuiassuit tamarmik unnersiutiginninnerat qaangerlugu. Aqqit illernarsisitaali, Guuti-aa, Illit tassaavutit Kunngi, Ilumoortoq Soraajuitsoq, Illit nalunngilat qilanni nunamilu soqarnersoq, Ilinnullu tamarmik utertariaqarput. Illit atoqqullugu Saqqummernerit nunamiorpalunngitsoq nassiussimavat uuttuut ersarissoq naapertorlugu. Unnersiutigisaagit Illit, Naalagaq-aa! Illit peqqusinikkut kinaluunniit piumasat malillugu, ajugaasunngortippat qilaap nunallu katersaarsui suullu taakkua akorniniittut ikiortigalugit. Illit tassaavutit Naalagaasoq, Ilumoortoq Soraajuitsoq, Naalagaq ajugaaffigisassaanngitsumik pissaanilik. 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6424 in Cymraeg'
-tags = ['lang-cy', 'bpn6424']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Arglwydd! Trof fy wyneb tuag atat, wedi ymbellhau oddi wrth bawb ond Tydi ac yn dal yn dynn wrth odre Dy amryfal fendithion. Datod fy nhafod, felly,i ddatgan yr hyn a fydd yn cyfareddu meddyliau dynion ac a fydd yn llawenhau eu heneidiau a'u hysbryd... Gwna fi megis llusern yn disgleirio trwy Dy diroedd,fel y bo i'r rhai hynny sydd â goleuni Dy wybodaeth yn tywynnu a hiraeth am dy gariad yn aros yn eu calonnau yn cael eu harwain gan ei lewyrch.
 

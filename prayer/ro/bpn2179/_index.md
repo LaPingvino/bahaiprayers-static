@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2179 in România'
-tags = ['lang-ro', 'bpn2179']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 - ‘Abdu’l-Bahá
 O, Doamne Dumnezeul meu!

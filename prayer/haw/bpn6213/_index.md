@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6213 in Hawaiian'
-tags = ['lang-haw', 'bpn6213']
+tags = ['lang-haw', 'bpn-unsorted']
 +++
 ##He Pule o ka Ho'ola ˇana
 *Healing Prayer

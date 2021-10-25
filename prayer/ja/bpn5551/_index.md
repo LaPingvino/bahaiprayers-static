@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5551 in 日本語'
-tags = ['lang-ja', 'bpn5551']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 （精神行政会の閉会時に唱えるお祈り）
  

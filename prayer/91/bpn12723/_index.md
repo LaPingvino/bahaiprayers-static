@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12723 in '
-tags = ['lang-91', 'bpn12723']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 *Ungkup Petara
 Huqúqu’lláh tu endang undang undang Petara ti bekuasa. Enda tau enda semua dipinta ngaga pemeri tu, laban tu nyadika pun penatai berekat, pengaya, enggau semua pemanah. Tu meh pemeri ti meruan bisi ba tiap tiap semengat dalam tiap tiap dunya ba semua dunya Petara, ti Bempu Semua, ti Pemadu Kaya.

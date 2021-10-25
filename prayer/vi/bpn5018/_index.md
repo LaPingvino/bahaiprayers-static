@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5018 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5018']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 Ngài là Đấng Đại lượng, Đấng Thượng Đế Từ ái hoàn toàn! Lời chúc tụng xin dâng lên Thượng Đế, Đấng Cố cựu, Đấng Bất di Bất dịch, Đấng Bất biến, Đấng Vĩnh cửu! Bởi chính Bản thể Ngài, Ngài chứng nhận rằng Ngài là Đấng Đơn nhất, Đấng Duy nhất, Đấng Độc lập, Đấng Tối cao.
 Chúng con xin chứng nhận rằng sự thật không có Đấng Thượng Đế nào khác ngoài Ngài; chúng con nhận biết sự thống nhất của Ngài. Chúng con tuyên xưng sự đơn nhất của Ngài. Luôn luôn Ngài vẫn ở trên những điểm cao không ai vượt tới nổi, ở tột đỉnh ngôi chí tôn, vượt khỏi sự nhắc nhở và mô tả của bất cứ ai khác ngoài Ngài.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2446 in Latviešu'
-tags = ['lang-lv', 'bpn2446']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Lūgšana, kas jāskaita garīgajai sanāksmei noslēdzoties.
 

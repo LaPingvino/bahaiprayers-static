@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7637 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7637']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Bondye, Bondye mwen! Kòman mwen kapab chwazi dòmi, lè sila yo ki anvi jwenn Ou gen je klè akoz separasyon yo ak Ou; epi kòman mwen kapab kouche pou repoze pandan nanm amoure Ou yo boulvèse poutèt distans yo genyen ak prezans Ou? 
 Mwen kite lespri mwen ak tout egzistans mwen nan men dwat pisans Ou ak pwoteksyon Ou, O Senyè mwen, e mwen mete tèt sou zoreye mwen akoz pouvwa Ou, epi mwen leve li ankò daprè volonte Ou ak bon plezi Ou. Se Ou menm, vrèman, Ki Pwotektè a, Ki Sere nou lwen danje, Toupisan an, Ki Gen Plis Pouvwa. 

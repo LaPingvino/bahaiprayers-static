@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6796 in English'
-tags = ['lang-en', 'bpn6796']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 My God, Thou Whom I adore and worship, Who art Most Powerful! I testify that no description by any created thing can ever reveal Thee, and no praise which any being is able to utter can express Thee. Neither the comprehension of any one in the whole world, nor the intelligence of any of its peoples, can, as it befitteth Thee, gain admittance into the court of Thy holiness, or unravel Thy mystery. What sin hath kept the inmates of the city of Thy names so far from Thine all-glorious Horizon, and deprived them of access to Thy most great Ocean? One single letter of Thy Book is the mother of all utterances, and a word therefrom the begetter of all creation. What ingratitude have Thy servants shown forth that Thou hast withheld them, one and all, from recognizing Thee? A drop out of the ocean of Thy mercy sufficeth to quench the flames of hell, and a spark of the fire of Thy love is enough to set ablaze a whole world.
 

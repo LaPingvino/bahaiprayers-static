@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10342 in Svenska'
-tags = ['lang-sv', 'bpn10342']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Förhärligat vare Ditt namn, o Du som har vägledningens tyglar i Ditt grepp för alla de själar som har erkänt Dig, och i vars högra hand ödet vilar för alla dem som är i himlarna och på jorden! Du 
 gör vad Du vill genom styrkan av Din makt och förordnar genom Din vilja vad Dig behagar. Viljan hos de mest beslutsamma bland människor är såsom intet jämfört med Din viljas tvingande bevis, och beslutsamheten hos de mest orubbliga bland Dina varelser förjagas inför de mångfaldiga uppenbarelserna av Ditt syfte.

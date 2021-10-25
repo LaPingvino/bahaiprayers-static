@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6237 in Luganda'
-tags = ['lang-lg', 'bpn6237']
+tags = ['lang-lg', 'bpn-unsorted']
 +++
 Ayi Katonda wange!  Ayi Ggwe Omusonyiyi w'ebyonoono, Omugabi w'ebirabo, Ajjawo okunyolwa!  
 Ddala ddala nkwegayiridde osonyiwe ebyonono byabo abavudde mu kyambalo kino ekyomubiri, nebagya munsi y'emwoyo.  

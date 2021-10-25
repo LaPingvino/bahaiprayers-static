@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11958 in '
-tags = ['lang-102', 'bpn11958']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Sensiň Alla we Senden başga Alla ýokdur.
     Ýa Ylahym! Päk we Mukaddes Sen eý meniň Taňrym! Dogrudanam bu jahanda iň Başarjaň Sensiň. Sen barlyklaryň Kadyrysyň hem halk älemi, doly Seniň erkiňdedir. Sen isläniňi ýaradýansyň. Senden başga Hekim we Eziz bolan Alla ýokdyr.

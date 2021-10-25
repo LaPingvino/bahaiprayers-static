@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7387 in Polski'
-tags = ['lang-pl', 'bpn7387']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Bogiem, który słucha modlitw i na modlitwy odpowiada!
     

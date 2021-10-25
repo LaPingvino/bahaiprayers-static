@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12327 in '
-tags = ['lang-95', 'bpn12327']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 E iloa fakallei ne Koe, O toku Atua, i fakalavelave ko oti ne vaiua ifo ki luga ia au mai i feitu katoa kae e seai se tino e maua ne ia o 
 fakaseai io me e fuli a latou vagana ko Koe. Au e iloa tonu loa ne au, mai i te uiga alofa o Koe, me e se mafai ne Koe o fakatupu a 

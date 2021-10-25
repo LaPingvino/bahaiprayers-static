@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5588 in ภาษาไทย'
-tags = ['lang-th', 'bpn5588']
+tags = ['lang-th', 'bpn-unsorted']
 +++
 ##บทอธิษฐานบังคับประจำวันบทปานกลาง
 

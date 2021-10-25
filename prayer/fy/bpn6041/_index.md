@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6041 in Frysk'
-tags = ['lang-fy', 'bpn6041']
+tags = ['lang-fy', 'bpn-unsorted']
 +++
 O Hear, myn God! Help Jo leafsten sterk te stean yn Jo Leauwe, Jo wegen te bewanneljen en stânfêstich te wêzen yn Jo Saak.
 Jou harren Jo genede, om de oanfallen fan selssucht en begearte te wjerstean en it ljocht fan godlike Lieding te folgjen.

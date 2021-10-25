@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8054 in Dansk'
-tags = ['lang-da', 'bpn8054']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Lovet være Dit navn, O min Gud! Jeg bønfalder Dig ved duften fra Din nådes klædning, der på Dit bud og i overensstemmelse med Dit ønske, blev udbredt over hele skabelsen, og ved Din viljes dagstjerne, der har skinnet klart, gennem kraften i Din magt og i Dit herredømme over Din barmhjertigheds horisont, om fra mit hjerte at slette alle ørkesløse forestillinger og forfængelige indbildninger, at jeg med hele min hengivelse kan vende mig til Dig, o Du hele menneskehedens Herre!
 

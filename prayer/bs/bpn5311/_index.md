@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5311 in Bosanski'
-tags = ['lang-bs', 'bpn5311']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 Slavim Te, o, Bože moj! Tvoja vjernica koja je vjerovala u Tebe i u Tvoje znakove sada boravi u sjenci drveta Tvoje jednosti. Bože moj, tako Ti Tvog imena koje je i jasno i skriveno, napoji je najboljim vinom da bi zanemarila sebe i u potpunosti se posvetila spomenu na Tebe i odvojila se od svega sem od Tebe.
 Udahnuo si joj spoznaju o Tebi, o moj Gospodaru, pa je ne liši Tvoje dobrote i Tvoje milosti. Pošto si je pozvao Sebi, dobrotom svojom te zaklinjem da je ne odbaciš. Podari joj onda, ono što nadilazi sve što na zemlji postoji. Ti si, uistinu, Onaj koji sve daruje i Čija je milost neizmjerna.

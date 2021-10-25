@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11222 in '
-tags = ['lang-99', 'bpn11222']
+tags = ['lang-99', 'bpn-unsorted']
 +++
 Ee Mungu wangu!  Ee Ewe msamehe dhambi, Mpaji thawabu, mwondoa huzuni!   
 

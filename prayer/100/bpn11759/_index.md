@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11759 in '
-tags = ['lang-100', 'bpn11759']
+tags = ['lang-100', 'bpn-unsorted']
 +++
 Da sūnan Allah, madawwami, mafi girma. A gaskiya, zūkācen aminnai nā tōyēwa cikin wutar rabuwa: Inā ƙyalƙyalin hasken fuskarka, yā kai abun ƙaunar dūniyōyi?
 Waɗanda suke kusanka, gā su cikin duhun rūdāni: Inā ƙyalƙyalin sāfiyar haɗuwa da kai, yā kai abun bēgen dūniyōyi?

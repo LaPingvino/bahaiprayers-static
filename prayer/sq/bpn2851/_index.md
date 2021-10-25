@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2851 in Shqip'
-tags = ['lang-sq', 'bpn2851']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 *"...ky agjërim trupor është një shenjë e jashtme e agjërimit shpirtëror; është simbol i vetëpërmbajtjes, i të përmbajturit të vetvetes nga të gjitha orekset e Unit, duke marrë karakteristikat e shpirtit, duke u rrëmbyer nga frymëmarrjet e qiellit dhe duke marrë zjarr nga dashuria e Perëndisë." - Kitáb-i Akdas
 

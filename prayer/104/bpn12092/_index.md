@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12092 in '
-tags = ['lang-104', 'bpn12092']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 ”Dilengkapi dengan kekuatan Nama-Mu, tak sesuatu pun akan dapat melukai daku, dan dengan cinta-Mu dalam hatiku semua penderitaan di dunia ini tak akan dapat menggoyahkan daku.”
 

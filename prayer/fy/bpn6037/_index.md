@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6037 in Frysk'
-tags = ['lang-fy', 'bpn6037']
+tags = ['lang-fy', 'bpn-unsorted']
 +++
 ##Naw-Ruz
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4048 in Кыргыз'
-tags = ['lang-ky', 'bpn4048']
+tags = ['lang-ky', 'bpn-unsorted']
 +++
 /*елме Канададагы бахаилер учун ачылган/
 

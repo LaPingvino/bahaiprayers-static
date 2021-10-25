@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9100 in Alaska Native'
-tags = ['lang-ik', 'bpn9100']
+tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Prayer for Steadfastness
 Anayanaikkich avluġnipayaavut, Ataniiq, apqutikkun suaŋasaaġlugiḷḷu uummativut kamakkutigni. 

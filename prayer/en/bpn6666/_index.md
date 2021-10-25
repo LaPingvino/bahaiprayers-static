@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6666 in English'
-tags = ['lang-en', 'bpn6666']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 Magnified, O Lord my God, be Thy Name, whereby the trees of the garden of Thy Revelation have been clad with verdure, and been made to yield the fruits of holiness during this Springtime when the sweet savors of Thy favors and blessings have been wafted over all things, and caused them to bring forth whatsoever had been preordained for them in the Kingdom of Thine irrevocable decree and the Heaven of Thine immutable purpose. I beseech Thee by this very Name not to suffer me to be far from the court of Thy holiness, nor debarred from the exalted sanctuary of Thy unity and oneness.
 

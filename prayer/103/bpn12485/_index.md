@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12485 in '
-tags = ['lang-103', 'bpn12485']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 O Thou forgiving Lord! Thou art the shelter of all these Thy servants…
 

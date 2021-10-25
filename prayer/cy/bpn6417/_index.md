@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6417 in Cymraeg'
-tags = ['lang-cy', 'bpn6417']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O fy Nuw, O f’Arglwydd, O fy Meistr!  Erfyniaf arnat i faddau i mi am geisio unrhyw bleser ond Dy gariad, neu unrhyw gysur ond Dy agosrwydd, neu unrhyw hyfrydwch ond Dy holl-bleser, neu unrhyw fodolaeth ond cymundeb gyda Thi.
 

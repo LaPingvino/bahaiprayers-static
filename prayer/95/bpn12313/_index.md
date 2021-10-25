@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12313 in '
-tags = ['lang-95', 'bpn12313']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 *Ne fakaasi ki Bahá’ís o te United States and Canada  
 *So se tino e fano malaga o talai ki so se koga, e ttau mo ia o fakalagi a talosaga tenei i te ao mo te po i taimi e fano malaga a ia i fenua kese.  

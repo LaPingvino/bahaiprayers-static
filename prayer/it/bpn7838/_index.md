@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7838 in Italiano'
-tags = ['lang-it', 'bpn7838']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 ##RIVELATA AI BAHÁ’Í DEGLI STATI MERIDIONALI
 

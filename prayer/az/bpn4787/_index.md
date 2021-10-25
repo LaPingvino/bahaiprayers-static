@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4787 in Azərbaycan'
-tags = ['lang-az', 'bpn4787']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ucalsın Sənin Adın, Ya Rəbb mənim Allahım! Mən Sənin bir bəndənəm ki, Sənin mərhəmət ipindən tutmuşam və Sənin səxavət ətəyindən yapışmışam. Səni and verirəm o Adına ki, onunla görünən və görüməyən bütün yaranmiş şeyləri tabe etdin və onunla bütün xilqətin üzərinə həyat nəsimi əsdi - Özünün göyləri və yeri əhatə edən qüvvətinlə məni gücləndir və məni bütün xəstəlik və bəlalardan qoru. Mən şəhadət verirəm ki, Sən bütün adların Rəbbisən, istədiyində təqdir Sahibisən. Səndən başqa Allah yoxdur, Sən Qüdrətli, Hər Şeyi Bilən və Ən Hikmətlisən.
 

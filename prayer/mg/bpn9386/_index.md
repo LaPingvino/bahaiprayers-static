@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9386 in Malagasy'
-tags = ['lang-mg', 'bpn9386']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 O Ianao Andriamanitra Tsy manan-tsahala! Ianao, ry Tompon’ny Fanapahana! Ireto fanahy ireto no  mandrafitra ny Tafiky ny lanitra. Ampio izy ireo ary, miaraka amin’ny andiany mponin’ny Lanitra, ataovy mpandresy izy ireo, ka ny tsirairay amin’izy ireo dia ho toy ny tafika, handrombaka ireo tany ireo noho ny fitiavan’Andriamanitra sy ny fahazavan’ny fampianaran’Andriamanitra.
 Ry Andriamanitra! Aoka Ianao ho Mpanohana sy Mpanotrona azy ireo, ary any an-tany efitra, any an-tendrombohitra, any an-dohasaha, any an’ala, any an-tsaha sy an-dranomasina, aoka Ianao ho Tokiny, ka mba ho re ny antsony noho ny fahefan’ny Fanjakana sy ny tsiokan’ny Fanahy Masina.

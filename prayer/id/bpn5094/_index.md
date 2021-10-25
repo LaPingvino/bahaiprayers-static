@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5094 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5094']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhan Yang Maha Suci! Aku adalah anak kecil; biarlah susu kasih sayang-Mu menjadi susu yang aku hasratkan. Berilah aku makan dengan madu dan susu cinta-Mu. Peliharalah daku dalam pelukan dada pengetahuan-Mu; dan anugerahilah daku dengan kemuliaan dan kearifan selagi aku masih kecil.
 

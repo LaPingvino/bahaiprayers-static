@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4886 in Azərbaycan'
-tags = ['lang-az', 'bpn4886']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 *Novruz, 20 və bəzi illər 21 Martda başlanır və Azərbaycan bəhailəri üçün yeni ilin birinci günüdür
 

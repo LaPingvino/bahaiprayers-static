@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6969 in Fiji'
-tags = ['lang-fj', 'bpn6969']
+tags = ['lang-fj', 'bpn-unsorted']
 +++
 O Koya na Kalou!
 

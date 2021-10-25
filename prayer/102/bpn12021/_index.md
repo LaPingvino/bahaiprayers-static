@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12021 in '
-tags = ['lang-102', 'bpn12021']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Bilimli hem Dana Patyşa!
     Ynha Bakyýet agajynyň pudaklarynda, Mukaddes hoş owazly saýraýan jennet bilbili, yhlasly köňülleri Allanyň ýanyna we ýalňyz Taňra sygynýanlary, Keramatlynyň ýakynlyk dergähine buşlap çagyrýar. Bu owaz bilen, bu pany diinýeden üzülenlere, Eziz hem Ýeke-Täk Allanyň tarapyndan gökden inen habary ýetirýär we aşyklary Mukaddes Gapa tarap, hem-de bu Röwşen Gözýetime sary salgy berýär.

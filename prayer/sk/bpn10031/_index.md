@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10031 in Slovensky'
-tags = ['lang-sk', 'bpn10031']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 On je Mocný, Odpúšťajúci, Zhovievavý!
 Ó Bože, môj Bože! Vidíš Svojich služobníkov v priepasti zatratenia a hriechu. Kde je Tvoje svetlo božského vedenia, ó Túžba sveta? Poznáš ich bezmocnosť a slabosť. Kde je Tvoja sila, ó Ty, v ktorého moci sa nachádzajú mocnosti pozemské i nebeské?

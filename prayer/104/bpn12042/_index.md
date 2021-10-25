@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12042 in '
-tags = ['lang-104', 'bpn12042']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Letakkanlah segala kepercayaan dan keyakinanmu kepada Tuhan yang telah menciptakanmu dan carilah bagi dirimu sendiri pertolongan-Nya dalam segala    urusanmu.
 

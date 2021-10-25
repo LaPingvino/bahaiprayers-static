@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2884 in Česky'
-tags = ['lang-cs', 'bpn2884']
+tags = ['lang-cs', 'bpn-unsorted']
 +++
 Ó můj Bože! Ó Ty, Jenž odpouštíš hříchy! Ty, Jenž propůjčuješ dary! Ty, Jenž zbavuješ utrpení!
 

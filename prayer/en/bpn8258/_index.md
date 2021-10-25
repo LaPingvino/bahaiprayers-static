@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8258 in English'
-tags = ['lang-en', 'bpn8258']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 #Lawh-i-Rasúl
 ##Tablet to Rasúl

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5561 in 日本語'
-tags = ['lang-ja', 'bpn5561']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 ## 参堂の書(二)
 

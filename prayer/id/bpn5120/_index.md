@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5120 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5120']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Dimuliakanlah Engkau, ya Rabi Tuhanku! Aku memohon kepada-Mu demi Dia, Nama-Mu Yang Terbesar, yang telah amat disakiti oleh makhluk- makhluk-Mu yang mengingkari kebenaran-Mu, dan yang telah diliputi oleh kesedihan-kesedihan yang tak terlukiskan, agar hendaknya aku diizinkan mengingat kepada-Mu dan memuliakan pujian-Mu, dalam hari-hari ini ketika semua telah berpaling dari keindahan-Mu, telah membantah-Mu dan berpaling dengan hina dari Dia, Pewahyu Agama-Mu. Ya Tuhanku, tak ada seorang pun yang dapat membantu Engkau selain Engkau Sendiri, dan tak ada kekuatan yang menolong Dikau selain kekuatan-Mu Sendiri.
 

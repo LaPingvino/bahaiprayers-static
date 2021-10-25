@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8856 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8856']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 以純然愉快的心情前來聚會，在聚會開始時吟誦此禱文：
 

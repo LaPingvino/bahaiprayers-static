@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11211 in '
-tags = ['lang-99', 'bpn11211']
+tags = ['lang-99', 'bpn-unsorted']
 +++
 Ee Mungu wangu, Bwana wangu, Lengo la shauku yangu!  Mtumishi wako huyu, atazamia kusinzia katika kivuli cha rehema Yako na kupumzika chini ya chandalua cha rehema Yako, akiomba uangalizi Wako na ulinzi Wako. 
 

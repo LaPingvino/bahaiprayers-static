@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9238 in Français'
-tags = ['lang-fr', 'bpn9238']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Louange à toi, ô Seigneur, mon Dieu ! Tu sais que j’ai appelé tes serviteurs à se tourner vers tes seules faveurs et que je leur ai ordonné de n’observer que ce que tu as prescrit dans ton livre manifeste, révélé selon ton irrévocable dessein et ton inscrutable décret.
 Ô mon Dieu, je ne puis prononcer un seul mot, ni me déplacer sans ton accord. Tu m’appelas à l’existence par le pouvoir de ta puissance, ô mon Dieu, tu me conféras la grâce de faire connaître ta cause. Pour cela je fus soumis à des infortunes telles qu’elles empêchèrent ma langue de te louer et de magnifier ta gloire.

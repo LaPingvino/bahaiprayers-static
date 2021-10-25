@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5078 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5078']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Ngài là Đấng Thượng Đế Khoan dung! Những kẻ tôi tớ này đang hướng về Vương quốc Ngài, kiếm tìm thiên phúc và thiên ân của Ngài.
 Lạy Thượng Đế! Xin khiến tâm hồn họ nên tốt và sạch để họ có thể xứng đáng với tình yêu của Ngài. Xin thanh lọc và thánh hóa tinh thần để họ có thể được ánh sáng Mặt trời Thực tại rọi đến. Xin thanh lọc và thánh hóa đôi mắt để họ có thể tiếp nhận ánh sáng của Ngài. Xin thanh lọc và thánh hóa đôi tai để họ có thể nghe tiếng gọi từ Vương quốc của Ngài.

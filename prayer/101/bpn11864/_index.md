@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11864 in '
-tags = ['lang-101', 'bpn11864']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 Iyoh leh Topa!
 O Topa, Topa ku! Dimutitik leh ulunt-ulunt dek tipikat daang onu-onu Ingan odak wangi pingudus Ingan, bitowa pakai sidudue dek bidudue daang tongon kudus Ingan, nyawot sina Ingan, kilakar mudi Ingan, ngooh odak obus Ingan, biuyak odak kaus mosiak Ingan, ngibotoh tanda-tanda Ingan, paham buak pingunang, kilingah bang sina Ingan, bisayak ndu Revelasi Ingan duoh yakin daang rinduk tulut Ingan. Boton bala dimutik, O Raja, ninga tolonk-tolonk ndu towa mulia pritah Topa Ingan bia jowin-eh tikos nuju ki somu kuasa Ingan, otin eh simodup odak pangirinduk ndu gongab Ingan bia pangisangon mulia, jiwa-eh punuae odak sidudue pangirinduk Ingan, O Raja ndu dunia tih bia ndu dunia dek yak nog, idip bala tih bibuwal odak ngan-eh jobong natong Ingan, bia pi’in boton-eh obuae timatieg setegal Ingan. 

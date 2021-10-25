@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6327 in Namibia'
-tags = ['lang-hz', 'bpn6327']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 #KOVAFE
 ##(FOR THE DEPARTED)

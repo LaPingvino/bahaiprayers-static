@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3508 in Norsk'
-tags = ['lang-no', 'bpn3508']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 O min Gud! O du som tilgir synd, som skjenker gaver, som fordriver lidelser!
  

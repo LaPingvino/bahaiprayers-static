@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7348 in Polski'
-tags = ['lang-pl', 'bpn7348']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Mój Boże, mój Uwielbiony, mój Królu, Upragnienie moje! Jakiż język zdoła wyrazić Ci moją wdzięczność? Byłem nierozważny, a Ty przebudziłeś mnie. Odwróciłem się od Ciebie, a Ty łaskawie pomogłeś mi zwrócić się ku Tobie. Byłem niby umarły, a Ty orzeźwiłeś mnie wodą żywota. Opadłem z sił, a Ty ożywiłeś mnie niebiańskim zdrojem swoich wypowiedzi płynących spod Pióra Wszechmiłosiernego.
    

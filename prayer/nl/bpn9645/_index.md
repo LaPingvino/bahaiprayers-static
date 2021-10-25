@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9645 in Nederlands'
-tags = ['lang-nl', 'bpn9645']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Heer, mijn God en mijn schuilplaats in mijn wanhoop! Mijn schild en mijn beschutting in mijn leed! Mijn vrijplaats en mijn toevlucht in tijden van nood en in mijn eenzaamheid mijn metgezel! In mijn smart mijn trooster en in mijn verlatenheid een liefdevol vriend! Degeen die de pijn mijner droefenis wegneemt en mijn zonden verontschuldigt!
 Ik keer mij geheel tot U en smeek U vurig, met mijn gehele hart, verstand en tong, mij in dit tijdperk Uwer goddelijke eenheid te beschermen tegen al wat in strijd is met Uw wil, en mij te reinigen van alle smetten die mij zullen beletten onbevlekt en onbesmeurd de schaduw van de boom van Uw genade te zoeken.

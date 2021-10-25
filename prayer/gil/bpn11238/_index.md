@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11238 in Kiribati'
-tags = ['lang-gil', 'bpn11238']
+tags = ['lang-gil', 'bpn-unsorted']
 +++
 Ngaia te Tia Katoki Aoraki, te Tia Kataubobonga, te Tia Ibuobuoki, te Tia Kabwaraibuure nako, Moan te Nanoanga.
 I wewete Nakoim O Ngkoe Ae Ko Karietataaki, O Ngkoe Are Ko Kakaonimaki, O Ngkoe Are Ko Mimitong! Ngkoe te Tia Kataubobonga, Ngkoe te Tia Katoki Aoraki, Ngkoe te Teimatoa ma n Aki Bibitaki, O Ngkoe Are Ko Teimatoa ma n Aki Bibitaki!

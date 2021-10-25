@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12753 in '
-tags = ['lang-108', 'bpn12753']
+tags = ['lang-108', 'bpn-unsorted']
 +++
 ສໍາລັບສວດໜຶ່ງຄັ້ງໃນ 24 ຊົ່ວໂມງ
 

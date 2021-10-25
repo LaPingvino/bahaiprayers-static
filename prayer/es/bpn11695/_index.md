@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11695 in Español'
-tags = ['lang-es', 'bpn11695']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 En el Nombre de Dios, el Más Antiguo, el Más Grande.
 En verdad, los corazones de los sinceros están consumidos por el fuego de la separación. ¿Dónde está el resplandor de la luz de Tu Semblante, oh Bienamado de los mundos?

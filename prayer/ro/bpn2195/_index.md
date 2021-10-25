@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2195 in România'
-tags = ['lang-ro', 'bpn2195']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Dumnezeule, şi Dumnezeul tuturor
 Numelor şi Făuritorul cerurilor! Te implor întru Numele Tău prin care Cel Ce este Aurora tăriei Tale şi răsăritul puterii Tale a fost manifestat, prin care fiecare lucru solid a fost făcut să curgă, ficare trup a fost însufleţit şi fiecare spirit în mişcare a fost confirmat - Te implor să-mi îngădui să mă scutur de toate ataşamentele faţă de oricine în afară de Tine, să slujesc Cauza Ta, să doresc ceea ce Tu doreşti prin puterea suveranităţii Tale şi să îndeplinesc ceea ce este bunul plac al voinţei Tale.

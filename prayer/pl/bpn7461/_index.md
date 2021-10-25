@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7461 in Polski'
-tags = ['lang-pl', 'bpn7461']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Boże, mój Boże! Chwała bądź Tobie za to, żeś rozniecił ogień Boskiej miłości w Świętym Drzewie na szczycie najwznioślejszej góry – w tym Drzewie, które nie jest „ani ze Wschodu, ani z Zachodu” , ogniem, który rozgorzał tak, że płomień jego wystrzelił ku Zastępom na wysokościach, a istoty te uchwyciły od niego światło przewodnictwa i zawołały: „Zaprawdę, spostrzegliśmy ogień na zboczu Góry Synaj” .
     

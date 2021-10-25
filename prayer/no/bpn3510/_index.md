@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3510 in Norsk'
-tags = ['lang-no', 'bpn3510']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 O min Gud! O min Gud! Sannelig, jeg påkaller deg og bønnfaller foran din terskel, og ber deg om at alle dine velsignelser må senke seg over disse sjeler. Utse dem til å motta din gunst og din sannhet.
  

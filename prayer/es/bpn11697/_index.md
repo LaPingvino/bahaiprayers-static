@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11697 in Español'
-tags = ['lang-es', 'bpn11697']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 *Esta Tabla, revelada por Bahá’u’lláh, se lee en los Santuarios de Bahá’u’lláh y del Báb. También se lee con frecuencia al conmemorar Sus aniversarios.
 

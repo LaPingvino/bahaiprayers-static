@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6115 in Chamorro'
-tags = ['lang-ch', 'bpn6115']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN
 *PRAYERS FOR CHILDREN AND YOUTH

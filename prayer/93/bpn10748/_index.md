@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10748 in '
-tags = ['lang-93', 'bpn10748']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 O Gospode! Tebi se obraćam za utočište, i ka svim Tvojim znacima usmeravam srce.
 O Gospode! Na putu ili u svom domu, zauzet svojim zanimanjem ili radom, svu veru polažem u Tebe.

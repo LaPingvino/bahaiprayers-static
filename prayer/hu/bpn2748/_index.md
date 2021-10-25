@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2748 in Magyar'
-tags = ['lang-hu', 'bpn2748']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 —`Abdu’l-Bahá
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn508 in Deutsch'
-tags = ['lang-de', 'bpn508']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Gott! Du bist meine Hoffnung und mein Geliebter, mein höchstes Ziel und mein Verlangen! In tiefer Demut und völliger Hingabe bitte ich Dich, mache mich zum Minarett Deiner Liebe in Deinem Lande, zur Leuchte Deines Wissens unter Deinen Geschöpfen und zu einem Banner göttlicher Großmut in Deinem Reiche.
 Zähle mich zu solchen Deiner Diener, die von allem losgelöst sind außer Dir, die geheiligt sind von den vergänglichen Dingen dieser Welt, gefeit gegen die Einflüsterungen der Vertreter eitlen Wahns.

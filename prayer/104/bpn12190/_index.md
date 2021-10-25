@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12190 in '
-tags = ['lang-104', 'bpn12190']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhan! Ya Tuhan! Aku memuji-Mu dan bersyukur kepada-Mu kerana Engkau telah   memberkati dayang-Mu yang rendah hati ini, hamba-Mu yang sedang memohon dan merayu kepada-Mu, kerana sesungguhnya Engkau telah membimbingnya ke Kerajaan-Mu yang nyata dan menyebabkannya untuk mendengar Panggilan-Mu yang mulia di dunia wujud ini dan untuk melihat tanda-tanda-Mu yang membuktikan kewujudan kedaulatan-Mu yang agung di atas segala sesuatu.
 

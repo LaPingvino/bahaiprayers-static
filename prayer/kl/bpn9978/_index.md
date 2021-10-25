@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9978 in Kalaallisut'
-tags = ['lang-kl', 'bpn9978']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Ullut Tapiliussat, februarip 26-anniit martsip aallaqqaataanut, ullut taakku ilanngullugit, tassaassapput iisinnginniarnissamut ullut piareersarfissat, ullut, inororsaarfiullutillu ajunngitsuliorfiusut, tunissutinillu tunniussiffiit.
 

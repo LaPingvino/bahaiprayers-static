@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11914 in '
-tags = ['lang-102', 'bpn11914']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 *(Gysga namaz günde bir gezek öýlän okalýar)
 

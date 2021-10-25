@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3704 in Eesti'
-tags = ['lang-et', 'bpn3704']
+tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo Sina hea Issand! Oled loonud kogu inimkonna samast tüvest. Oled määranud, et kõik kuuluvad ühte perre. Sinu püha Palge ees on nad kõik Sinu teenrid ja terve inimkond on kogutud Su Palvela varju alla. Kõik on tulnud kokku Sinu Helduse Laua äärde ja kõik on saanud valgustatud Su Kaitselmuse valgusest.
 Oo Jumal! Sina oled kõigi vastu lahke, kannad hoolt kõigi eest, kaitsed kõiki, annad kõigile elu. Oled varustanud igaüht annete ja võimetega ning kõik on kastetud Su Halastuse Ookeani.

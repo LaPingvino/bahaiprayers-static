@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12016 in '
-tags = ['lang-102', 'bpn12016']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Allanyň Jomart we Baý Ady bilen.
     Zowaly bolmadyk, ezelden ebedä çenli üýtgemeýän, hem-de Özi, Öz Birligine, Taýsyzlygyna, Binyýazdygyna we Belent mertebedigine güwä geçen Taňra alkyş bolsun!

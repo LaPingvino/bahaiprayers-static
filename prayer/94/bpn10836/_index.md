@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10836 in '
-tags = ['lang-94', 'bpn10836']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 Ulemelero ukhale kwa Inu, O Ambuye Mulungu wanga! Musanyasidwe naye iye amene Inu mwamkweza kupyolera mu mphamvu ya ufumu Wanu wamuyaya, ndi kumsiya kutali ndi Inu, amene Inu Munamlola kulowa m’chihema Chanu cha kunthawi zosatha.  Kodi Mungamtaye, O Mulungu wanga iye amene Inu Mwamphimba ndi Ufumu Wanu ndipo mungamtembenukire, O chifuniro changa amene Mwakhala pothawira pake?  Mungamunyoze iye amene Inu Mwamtukula, kapena Kumuiwala iye amene Inu munanthandiza kukukumbukirani? 
 

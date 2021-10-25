@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4997 in Tiếng Việt'
-tags = ['lang-vi', 'bpn4997']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 #Chữa Bệnh 
 ##(Bài kinh dài)

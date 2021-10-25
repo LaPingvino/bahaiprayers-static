@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7544 in Suomi'
-tags = ['lang-fi', 'bpn7544']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani, moni viilentynyt sydän on saatettu hehkumaan Sinun asiasi tulella ja äänesi suloisuus on herättänyt monen uinailevan. Kuinka monet ovatkaan ne  muukalaiset, jotka ovat etsineet suojaa Sinun ykseytesi puun siimeksestä, ja kuinka lukuisat ne janoiset, jotka ovat kaihonneet elävien vettesi lähdettä Sinun aikanasi.
 Siunattu on se, joka on kääntynyt Sinua kohti ja kiiruhtanut saavuttaakseen kasvojesi valojen Päivänkoiton. Siunattu on se, joka kaikesta kiintymyksestänsä on kääntynyt Sinun ilmoituksesi sarastuspaikkaa ja innoituksesi lähteensilmää kohti. Siunattu on se, joka on kuluttanut Sinun polullasi sen, mitä olet anteliaisuudestasi ja suopeudestasi hänelle antanut. Siunattu on se, joka Sinua kipeästi kaivatessaan on hyljännyt kaiken muun paitsi Sinut. Siunattu on se, joka on saanut iloita läheisestä yhteydestä Sinuun ja vapautunut kaikesta kiintymyksestä kehenkään muuhun kuin Sinuun.

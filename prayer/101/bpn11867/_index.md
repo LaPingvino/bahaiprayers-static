@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11867 in '
-tags = ['lang-101', 'bpn11867']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 O Topa, Topa ku! Oku mbok ngaduap daang bitobat tudu Ingan, bia notap Ingan leh dek Pimaaf, dek Pinyayang. 
 O Topa, Topa ku! Oku mbok palik tudu Ingan, bia totap Ingan leh dek Selalu- Pingapunt, dek Bibudi.

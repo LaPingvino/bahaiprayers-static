@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9944 in العربية'
-tags = ['lang-ar', 'bpn9944']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 قَوْلُهُ تَعالى:
 هُوَ الأَقْدَسُ الأَعْظَمُ الأَعْلَى

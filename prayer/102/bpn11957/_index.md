@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11957 in '
-tags = ['lang-102', 'bpn11957']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’Alla.
     Eý Mähriban Ýar, Eý Mukaddes Hudaý! Tükeniksiz Jomartlygyňdan bize ynam we iman bagyş eýlediň. Tanyklyk gapylaryny açdyň. Janymyz buşluk tapdy, köňlümiz şat boldy. Gözümiz açyldy, gulagymyz açyldy. Ylham ýalkymlary görüldi, Mukaddes Älemiň mukamlary eşidildi.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11470 in Español'
-tags = ['lang-es', 'bpn11470']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Gobierno
 

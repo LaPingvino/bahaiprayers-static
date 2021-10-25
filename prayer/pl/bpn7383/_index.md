@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7383 in Polski'
-tags = ['lang-pl', 'bpn7383']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 On jest Łaskawym, Wszechszczodrym!
     

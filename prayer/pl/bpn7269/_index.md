@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7269 in Polski'
-tags = ['lang-pl', 'bpn7269']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##DŁUGĄ MODLITWĘ OBOWIĄZKOWĄ NALEŻY ODMAWIAĆ RAZ NA DOBĘ.
 

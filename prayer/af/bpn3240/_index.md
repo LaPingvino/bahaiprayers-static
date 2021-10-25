@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3240 in Afrikaans'
-tags = ['lang-af', 'bpn3240']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Lof sy aan U, o Here my God! Ek smeek U by hierdie Openbaring waardeur duisternis in lig verander is, waardeur die dikwels besogte Tempel gebou is, en die Geskrewe Tafel geopenbaar is, en die Uitgespreide Rol blootgelê is, om te laat daal op my en op diegene wat in my geselskap is wat ons sal help om in die hemele van U voortreflike heerlikheid op te sweef, en ons sal reinig van die vlek van sulke twyfelinge as wat die agterdogtiges verhinder het om die tabernakel van U eenheid binne te gaan.
 

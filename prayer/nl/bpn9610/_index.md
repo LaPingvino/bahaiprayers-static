@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9610 in Nederlands'
-tags = ['lang-nl', 'bpn9610']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 Lof en eer zij U, o Heer mijn God! Dit is een uitverkoren jong boompje dat Gij in de weiden van Uw liefde hebt geplant en met de vingers van Uw Heerschappij hebt gevoed. Gij hebt het water gegeven uit de bron van eeuwig leven die opwelt in de tuinen van Uw één-zijn, en Gij hebt de wolken van Uw tedere barmhartigheid Uw gunsten erop doen neerregenen. Het is nu volgroeid en volledig tot ontwikkeling gekomen onder de beschutting van Uw zegeningen die zichtbaar zijn in de Morgenstond van Uw goddelijk wezen. Het is uitgebarsten in bladeren en bloesems, beladen met vruchten door de voorzienigheid van Uw wondere gaven en genadegiften, en het beweegt in de lieflijke bries die vanuit Uw goedertierenheid waait.
 O Heer! Laat deze jonge boom groen en fris worden en gedijen door de uitstortingen van Uw bijzondere milddadigheid en gunst, waarmee Gij de heilige tabernakelen van Uw eeuwig koninkrijk hebt gesierd en de essenties van eenheid in de arena van hereniging hebt getooid.

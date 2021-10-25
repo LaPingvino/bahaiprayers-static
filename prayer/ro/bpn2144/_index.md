@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2144 in România'
-tags = ['lang-ro', 'bpn2144']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne Dumnezeul meu! O, Doamne Dumnezeul meu! Slava fie cu Tine căci m-ai confirmat în mărturisirea unicităţii Tale, m-ai atras spre cuvântul singularităţii Tale, m-ai înflăcărat cu focul iubirii Tale şi mi-ai dat ca ocupaţie pomenirea Ta şi slujirea prietenilor şi a slujitoarelor Tale.
 

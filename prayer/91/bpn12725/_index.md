@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12725 in '
-tags = ['lang-91', 'bpn12725']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 *(Ayyám-i-Há patut nyadi maya endur nyendia diri ngintu puasa, maya endur nyamu orang, chariti, sereta beberi tepa.)
   Petara aku, Api aku enggau Penampak aku! Hari ti diberi

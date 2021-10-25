@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12243 in '
-tags = ['lang-95', 'bpn12243']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Ko tavaeega katoa e io te Atua Tela ko ne leva ne Nofo-mai-i-Anamua loa tela ne kalagia a mea faiite katoa ke tu mai, i taimi tela e seai aka foki i Ou tafa vagana ko Koe.  A Ia ko te Tokotasi tela ko te Faka-Tumau-Katoatoa i taimi e seai lele loa se feitu e tasi o 
 Tena foafoaaga ko oti ne faiite.  E tonu a agaaga ola o latou kola e iai ia latou ate malamalama e se-mafai o maina i se fakaasiiga foliki ki loa o Ana uiga llei, mo mafaufau o latou ko oti ne iloa ne latou a Tena fakatasitasi e se-mafai ne latou o atafia a alofafatauva tafasili i te foliki o alofaaga o Tena maluga.  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12608 in '
-tags = ['lang-91', 'bpn12608']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 #SAMBIANG OBLIGATORI Tl PANDAK
 ##DISEBUT SEKALI DALAM KANDANG DUA PULUH EMPAT JAM, MAYA TENGAH HARI.

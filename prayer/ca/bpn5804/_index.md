@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5804 in Català'
-tags = ['lang-ca', 'bpn5804']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Ell és Déu! Exaltat sigui Ell, Senyor d’amorosa bondat i generositat!
 

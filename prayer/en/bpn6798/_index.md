@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6798 in English'
-tags = ['lang-en', 'bpn6798']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O my God! O my God! I am a servant attracted to Thee, humbly drawing near to the door of Thy Oneness and supplicating the Kingdom of Thy mercy.
 

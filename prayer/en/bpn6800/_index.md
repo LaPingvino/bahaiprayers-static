@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6800 in English'
-tags = ['lang-en', 'bpn6800']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O God, my God! I implore Thee by the blood of Thy true lovers who were so enraptured by Thy sweet utterance that they hastened unto the Pinnacle of Glory, the site of the most glorious martyrdom, and I beseech Thee by the mysteries which lie enshrined in Thy knowledge and by the pearls that are treasured in the ocean of Thy bounty to grant forgiveness unto me and unto my father and my mother. Of those who show forth mercy, Thou art in truth the Most Merciful. No God is there but Thee, the Ever-Forgiving, the All-Bountiful.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12352 in '
-tags = ['lang-95', 'bpn12352']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Te Matagofie e ia Koe, O toku Atua!  Tokotasi o Au tavini fafine, teka ne talitonu ia Koe mo Au failoga, ko oti ne ulu atu ki lalo o 
 ata o te lakau ola o Tou tafatasi.  Tuku atu kia ia ke inu, O toku Atua, i Tou igoa, ko te Maina mo te Funa, o Tau uaina filifiia tela e mafai o kave a ia keatea mai ia ia loa, kae fai a ia ke tapuaki tonu loa ki Tou faka-masausauaaga, kae motu keatea mo te katoatoa mai i so se tino na ko Koe.  

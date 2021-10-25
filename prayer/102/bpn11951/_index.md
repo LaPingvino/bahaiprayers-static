@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11951 in '
-tags = ['lang-102', 'bpn11951']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Ýa Ylahy, Ýa Magbut, Ýa Maksut, Ýa Kerim, Ýa Rahym!
     Janlar Sendendir we güýçler Seniň gudratyň astynda. Kimi göterseň dünýe mülkünden geçer we onuň orny “Iň Gözel we Belent Mekana” ýeter. Kimi ýyksaň gumdanam pesdir, belki puç hem ondan belentdir.

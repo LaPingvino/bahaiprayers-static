@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11762 in '
-tags = ['lang-100', 'bpn11762']
+tags = ['lang-100', 'bpn-unsorted']
 +++
 ##Rānar haifuwar Baha’u’llah (aminci ya tabbata a garēshi)
 *Shīnē tsarkakakke, maɗaukaki, Mafi girma.

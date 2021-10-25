@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10367 in Svenska'
-tags = ['lang-sv', 'bpn10367']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 *”Bahá’í-äktenskapet är ett förbund och djup kärlek mellan de båda parterna. De måste emellertid iakttaga yttersta aktsamhet och lära känna varandras karaktär. Detta eviga band måste skyddas av ett fast förbund och avsikten måste vara att främja harmoni, vänskap och sammanhållning och att vinna evigt liv.”
 *‘Abdu’l-Bahá

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7465 in Polski'
-tags = ['lang-pl', 'bpn7465']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Pochwalony bądź, o mój współczujący Panie! Błagam Cię na tumult oceanu Twojej świętej wypowiedzi, i na liczne oznaki Twojej najwyższej władzy i nieodparte dowody Twojej Boskości, i ukryte tajemnice, które spoczywają utajone w Twojej wiedzy, abyś udzielił mi swojej łaski służenia Tobie i Twoim wybranym i pozwolił mi sumiennie ofiarować Twoje Ḥuqúq, któreś nakazał w swojej Księdze. 
     

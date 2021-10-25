@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12024 in '
-tags = ['lang-102', 'bpn12024']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Şypakär, Binyýaz, Goldaýjy, Ýalkaýjy we Mähriban.
     Seni çagyrýaryn, Eý Goçak, Eý Wepaly, Eý Taban!

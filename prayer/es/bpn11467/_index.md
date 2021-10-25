@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11467 in Español'
-tags = ['lang-es', 'bpn11467']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Señor! Dignos de lástima somos, concédenos Tu favor; somos pobres, confiérenos una porción del océano de Tu riqueza; estamos necesitados, satisfácenos; estamos humillados, danos Tu gloria. Las aves del aire y las bestias del campo reciben cada día su alimento de Ti, y todos los seres participan de Tu cuidado y amorosa bondad.
 No prives a este débil ser de Tu maravillosa gracia y, por medio de Tu poder, otorga Tu generosidad a esta alma desamparada.

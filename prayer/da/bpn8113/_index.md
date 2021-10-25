@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8113 in Dansk'
-tags = ['lang-da', 'bpn8113']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Lovet være Dit navn, o min Gud og alle tings Gud, min herlighed og alle tings herlighed, min attrå og alle tings attrå, min styrke og alle tings styrke, min konge og alle tings konge, min besidder og besidderen af alle ting, mit mål og alle tings mål, min igangsætter og igangsætteren af alle ting! Lad mig ikke, det beder jeg Dig, blive holdt borte fra Din milde barmhjertigheds ocean eller blive fjernet langt fra Din nærheds kyster.
 

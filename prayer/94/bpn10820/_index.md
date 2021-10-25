@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10820 in '
-tags = ['lang-94', 'bpn10820']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 O Mulungu! O Mulungu! Timwetseni ife kuchokera mchikho cha chaulere Chanu.  Walitsani nkhope zathu ndi nyali yachitsogozo. Tilimbikitseni ife mkukhulupirika ndi kulimbikira m’chipangano Chanu cha nkhalakale.  Tiloleni tikhale antchito Anu woongoka.  Tsegulani pamaso pathu zitseko zachuma, tikonzereni ife njira zopezera umoyo, tipatseni mkate kupyolera m’njira zimene ife tiribe nazo ulamuliro m’chuma Chanu chakumwamba! Tipatseni mphamvu kuti tipenyetse maso athu kunkhope Yanu yachifundo ndikukhala wokhulupirika m’chiphunzitso Chanu. 
 

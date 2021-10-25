@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5025 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5025']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Kinh Bản Carmel
 *(Lawh-i-Karmil)

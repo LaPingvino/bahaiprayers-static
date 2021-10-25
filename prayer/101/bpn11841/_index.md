@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11841 in '
-tags = ['lang-101', 'bpn11841']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *“ Kahwent Baha’i yoh leh gabungan duoh bigaul kasih sayang diantara soduwoh pihak. Iyoh mesti, alo watki, ngamal doras bibait bia jadin konyat rapat duwoh perangai si odop-eh. Bokos pinoli tih harus obuah nogap pakai janji dek togap, duoh lagi dengan niat harus yak toban bitanga bitamonk, tilukum duoh kesatuan bia yak tungang so’ont pingidip taant adu-adu” – Abdu’l-Baha –
 *Janji ngakuk kahwent, ayat dek yak obuah sobot odak masim-masim pengantin dali duoh pengantin dayung ndu jowin duwoh na’ant saksi dek obuah lantik odak Majlis Rohani yoh leh mbok jadin syarat da’ang Kitab-i-Aqdas (Buk Paling Suci).

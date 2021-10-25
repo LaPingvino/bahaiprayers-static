@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3513 in Norsk'
-tags = ['lang-no', 'bpn3513']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 Han er helbrederen, fyldestgjøreren, hjelperen, den alt-tilgivende, den overmåte barmhjertige!
  

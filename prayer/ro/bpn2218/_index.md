@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2218 in România'
-tags = ['lang-ro', 'bpn2218']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Te implor să mă ierţi, o, Stăpânul meu,
 pentru orice pomenire în afară de pomenirea Ta, şi pentru orice laudă în afară de lauda Ta, şi pentru orice desfătare în afară de desfătarea apropierii de Tine, şi pentru orice plăcere în afară de plăcerea comuniunii cu Tine, şi pentru orice bucurie în afară de bucuria iubirii tale şi a bunului Tău plac, şi pentru toate lucrurile legate de mine ce nu au nici o legătură cu Tine, o Tu care eşti Stăpânul stăpânilor, Cel ce oferă mijloacele şi deschide uşile.

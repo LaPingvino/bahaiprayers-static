@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9168 in Français'
-tags = ['lang-fr', 'bpn9168']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Seigneur incomparable, sois un refuge pour ce pauvre enfant, un maître bon et indulgent pour cette âme errante et malheureuse.
 Ô Seigneur, bien que plantes insignifiantes, nous appartenons à ta roseraie. Bien que jeunes pousses sans feuilles ni fleurs, nous grandissons dans ton verger.

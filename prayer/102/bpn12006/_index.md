@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12006 in '
-tags = ['lang-102', 'bpn12006']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Päk we Mukaddes Sen Eý meniň Taňrym.
     Ýa Ylahym! Hikmet nuruny röwşen eden Seniň Adyňa kasam! Haçan-da Beýan çarhlary halkyň arasynda herekete başlanda, meni Öz Jomartlygyň bilen kabul edersiň diýip hem-de Seniň kömegiň bilen meni Öz bendeleriň içinde Seniň adyňy ýaýratmaga karar berersiň diýip Saňa ýalbarýaryn.

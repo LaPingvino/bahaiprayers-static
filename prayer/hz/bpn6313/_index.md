@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6313 in Namibia'
-tags = ['lang-hz', 'bpn6313']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 #NDAPERO ZOHEPERO*
 ##SHORT OBLIGATORY PRAYER)

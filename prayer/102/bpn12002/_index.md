@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12002 in '
-tags = ['lang-102', 'bpn12002']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’Alla.
     Eý Ylahy dostlarym! Begenç we şadyýanlyk wagtydyr hem Ylahy häsiýetlere eýelenmek zamany. Bu pany dünýe puç kölege ýaly geçip baradyr. Ömür günleri ötüp baradyr. Ynha bir gün, bu dünýeden ol dünýä baramyzda, elimizde çyra, ýüzümizde ýalkym, janymyzda ruh bolmalydyr. Serediň göwre zannyň nyşanydyr.

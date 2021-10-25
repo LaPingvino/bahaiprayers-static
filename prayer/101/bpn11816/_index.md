@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11816 in '
-tags = ['lang-101', 'bpn11816']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Doa Dayung dek Bitiyiek)
 Raja ku! Raja ku! Oku mudi Ingan duoh lagi oku ngin terima kasih tudu Ingan lugant Ingan mbok nyukong dayung ulunt Ingan dek pidouk odop-eh, kuli Ingan nguwai bia mujok Ingan, setegal Ingan mbok totap ngotag iyoh tudu Pritah Topa Ingan dek nyata bia odak iyoh kilingah Bogant bigatung Ingan daang dunia ta-ae-modo bia odak kilint tanda-tanda Ingan dek jadin bukti bitanga pengaruh kejayaan Ingan ndu tunt sua onik.

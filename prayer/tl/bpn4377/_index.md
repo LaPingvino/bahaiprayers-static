@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4377 in Filipino'
-tags = ['lang-tl', 'bpn4377']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Dapat usalin sa umaga, sa tanghali at sa gabi
 

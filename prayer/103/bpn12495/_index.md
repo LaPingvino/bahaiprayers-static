@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12495 in '
-tags = ['lang-103', 'bpn12495']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 O Lord my God! Assist Thy loved ones to be firm in Thy Faith,…
 

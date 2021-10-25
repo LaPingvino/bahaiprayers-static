@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3192 in Afrikaans'
-tags = ['lang-af', 'bpn3192']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Hy is die Barmhartige, die Almilddadige!
 

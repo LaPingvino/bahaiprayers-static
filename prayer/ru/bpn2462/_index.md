@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2462 in Русский'
-tags = ['lang-ru', 'bpn2462']
+tags = ['lang-ru', 'bpn-unsorted']
 +++
 Он есть Царь, Всезнающий, Мудрый!
 

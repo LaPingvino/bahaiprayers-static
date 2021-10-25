@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12056 in '
-tags = ['lang-104', 'bpn12056']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Engkau Pembekal Suci! Kurniailah Engkau dalam segala benda kesucian dan kebersihan kepada orang-orang Bahá. Jadikanlah mereka bebas daripada semua kotoran, dan lepaskan mereka daripada semua ketagihan. Selamatkanlah mereka daripada melakukan sebarang tindakan yang menjijikkan, putuskanlah mereka daripada ikatan setiap tabiat jahat, supaya mereka dapat hidup dalam kemurnian dan kebebasan, baik dan bersih, layak untuk mengabdi kepada Ambang Kesucian-Mu dan sesuai untuk dihubungkan dengan Tuhan mereka.
 

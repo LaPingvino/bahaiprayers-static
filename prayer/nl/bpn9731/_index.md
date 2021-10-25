@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9731 in Nederlands'
-tags = ['lang-nl', 'bpn9731']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij, voor Wiens ontzaglijke majesteit alle dingen beven, in Wiens greep de aangelegenheden van alle mensen liggen, naar Wiens genade en barmhartigheid het gelaat van al Uw schepselen is gericht! Ik smeek U, bij Uw Naam die Gij hebt verordend tot de geest van alle namen die in het koninkrijk van namen bestaan, ons in deze Openbaring die het koninkrijk van Uw namen heeft doen beven af te schermen van de influisteringen van hen die zich van U hebben afgekeerd en de waarheid van Uw grootste en verhevenste Wezen hebben verworpen.
 Ik ben een van Uw dienaressen, o mijn Heer! Ik heb mijn gelaat gekeerd tot het heiligdom van Uw genadegaven en de aanbeden tabernakel van Uw glorie. Zuiver mij van al wat niet van U is, en sterk mij U lief te hebben en te voldoen aan Uw welbehagen, dat ik vreugde mag vinden in het overdenken van Uw schoonheid, en verlost mag worden van alle gehechtheid aan welk Uwer schepselen ook, en ieder moment mag verkondigen: “Verheerlijkt zij God, de Heer der werelden!”

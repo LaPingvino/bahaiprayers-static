@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4761 in Azərbaycan'
-tags = ['lang-az', 'bpn4761']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ya Rəbb! Sənə pənah gətirirəm və könlümü büsbütün Sənin nişanələrinə verirəm.
 

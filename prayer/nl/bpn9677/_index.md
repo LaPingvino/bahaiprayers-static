@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9677 in Nederlands'
-tags = ['lang-nl', 'bpn9677']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 Geloofd zij Uw Naam, o mijn God! Ik smeek U bij de geuren van het gewaad van Uw genade, die op Uw bevel en in overeenstemming met Uw wens over de gehele schepping werden verspreid, en bij de Dagster van Uw wil die door de kracht van Uw macht en Uw soevereiniteit helder aan de horizon van Uw genade schijnt, om elke ijdele waan en nutteloze verbeelding uit mijn hart te wissen, opdat ik mij met al mijn genegenheid tot U mag keren, o Gij Heer van de gehele mensheid!
 Ik ben Uw dienaar en de zoon van Uw dienaar, o mijn God! Ik heb de handgreep van Uw genade gevat en mij vastgeklemd aan het koord van Uw tedere barmhartigheid. Beschik voor mij het goede dat bij U is en voed mij van de Tafel die Gij hebt neergezonden uit de wolken van Uw milddadigheid en de hemel van Uw gunst.

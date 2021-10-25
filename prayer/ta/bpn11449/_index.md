@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11449 in தமிழ்'
-tags = ['lang-ta', 'bpn11449']
+tags = ['lang-ta', 'bpn-unsorted']
 +++
 அதி தொன்மையும், அதி மேன்மையும் வாய்ந்த இறைவனின் பெயரால். 
 

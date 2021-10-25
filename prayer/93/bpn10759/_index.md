@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10759 in '
-tags = ['lang-93', 'bpn10759']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 *"O Tragaoče za Istinom! Ako želiš da Bog otvori tvoje oko, moraš mu se obratiti, moliti se i savetovati se s Njim u ponoć, izgovarajući:" –
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12020 in '
-tags = ['lang-102', 'bpn12020']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu-äl-Äbha.
     Ylahy! Ylahy! Dogrudanam aýamy açyp, Saňa sary uzadýaryn. Ellerimde, asgynlyk, pespällik we üzňelik halaty bar. Danalaryň aňyna sygmajak örän belent we päk bolan Işigiňe hem alymlaryň öwgüsinde ýerleşmejek has beýik bolan Dergähiň törüne ýüz tutýaryn. Seniň Taýsyzlyk Gapyňa baş egen bu pespäl bendäňe geçirimli göz bilen nazar sal. Ony Öz Rähmet deňziňde gark eýle.

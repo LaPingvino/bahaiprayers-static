@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12373 in '
-tags = ['lang-103', 'bpn12373']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 O my God! O Thou forgiver of sins, bestower of gifts..
 

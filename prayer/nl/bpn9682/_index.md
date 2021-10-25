@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9682 in Nederlands'
-tags = ['lang-nl', 'bpn9682']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Heer! Bij U zoek ik mijn toevlucht en naar al Uw tekenen richt ik mijn hart.
 O Heer! Op reis of thuis, tijdens mijn bezigheden of op mijn werk, vertrouw ik geheel op U.

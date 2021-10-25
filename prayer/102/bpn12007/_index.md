@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12007 in '
-tags = ['lang-102', 'bpn12007']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’Alla.
     Eý meniň Taýsyz Taňrym! Eý Melekutyň Allahy! Bu ynsanlar Seniň asmanly goşunyňdyr. Her biri, bir leşger bolup, Alla yşky bilen hem Ylahy taglymatyň ýalkymy bilen, ülkeleri ýeňip biler ýaly olara ýardam et, olara Arşyň Mukaddes goşuny bilen kömek et.

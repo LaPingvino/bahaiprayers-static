@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2153 in România'
-tags = ['lang-ro', 'bpn2153']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Slăvit fii Tu, Doamne, pentru că ţi-ai arătat iubirea faţă de omenire! O, Tu care eşti Viaţa şi Lumina noastră, călăuzeşte-i pe slujitorii Tăi pe calea Ta, îmbogăţeşte-ne prin Tine şi eliberează-ne de orice în afară de Tine.
 

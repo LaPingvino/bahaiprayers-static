@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5134 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5134']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Pujian bagi-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang tak seorang pun mengenal dengan layak, dan yang maksud-Nya tak sejiwa pun mengerti; aku memohon kepada-Mu demi Dia, Sumber Wahyu-Mu dan Fajar tanda-tanda-Mu, agar menjadikan hatiku sebagai wadah cinta-Mu dan mengingat akan Dikau. Hubungkanlah ia kepada Samudera-Mu yang maha besar agar daripadanya mengalir air hayat kearifan-Mu dan sungai-sungai jernih kemuliaan dan pujian-Mu.
 Anggota-anggota badanku naik saksi akan keesaan- Mu dan rambut di kepalaku mengumumkan kekuatan kekuasaan dan kedaulatan-Mu. Aku berdiri pada pintu kurnia-Mu dengan penuh kerendahan hati dan penuh pengorbanan, dan berpegang teguh kepada ujung rahmat-Mu dan mengarahkan pandanganku kepada ufuk pemberian-pemberian-Mu.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5113 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5113']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhan! Kami ini lemah; berilah kami kekuatan. Kami ini miskin; anugerahilah kami dengan kekayaan- Mu yang tak terbatas. Kami ini sakit; berilah kami kesembuhan keilahian-Mu. Kami ini tak berdaya; berilah kami kekuatan surgawi-Mu. Ya Tuhan! Jadikanlah kami
 

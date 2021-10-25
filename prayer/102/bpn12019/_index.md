@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12019 in '
-tags = ['lang-102', 'bpn12019']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Bu namaz, jemagat bolup okalýan ýeke-täk namazdyr. Bu namazy başgalar ümsüm dik durka, bir bahai dindar okaýar.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5022 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5022']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, con xin dâng lên Ngài lời ca ngợi! Ngài thấy đấy, Đấng là nguồn Ánh sáng đã bị giam trong thành phố lao tù Akka, và bị áp bức đớn đau bởi những điều do tay kẻ ác gian đã làm, những kẻ mà dục vọng đồi trụy đã ngăn họ về với Ngài, lạy Ngài là Đấng Vua của tất cả các Danh.
 Con nguyện bởi vinh quang Ngài! Tai ương dù nguy khốn đến đâu, cũng không bao giờ ngăn được con tưởng nhớ tới Ngài hoặc cất cao lời ca ngợi Ngài. Mọi thương tổn phải nhận chịu vì tình yêu của Ngài là dấu hiệu lượng từ bi của Ngài đối với chúng sinh, và mọi tai họa phải mang lấy trên đường Ngài chỉ là một tặng phẩm do Ngài ban xuống cho những người được Ngài chọn. Con làm chứng rằng vẻ mặt con, hằng chiếu rọi chốn Hừng đông vĩnh cửu, càng ngời sáng bởi nghịch cảnh, và thân thể con được điểm tô bởi nghịch cảnh ấy trước tất cả những ai ở trên trời và tất cả những ai ở trên trái đất.

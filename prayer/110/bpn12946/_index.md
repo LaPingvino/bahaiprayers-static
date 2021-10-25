@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12946 in '
-tags = ['lang-110', 'bpn12946']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 Plis God, inap Yu karamapim olgeta hap graun wantaim lait bilong bung wantaim.  Na putim wanpela mak olsem, em  "dispela Kingdom em Kingdom bilong God" i stap long poret bilong ol lain manmeri long dispela graun. 
  

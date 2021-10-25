@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10782 in '
-tags = ['lang-93', 'bpn10782']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 Slava Tebi, O moj Bože! Da nije patnji na putu Tvome kako bi oni koji Te istinski ljube bili prepoznati; i da nije iskušenja podnetih za ljubav Tvoju, kako bi uzvišenost onih koji za Tobom žude postala vidljiva? Tvoja moć mi je svedok! Družbenice svih koji Tebe vole su suze koje prolivaju, a utehe onih koji Te traže su jauci njihovi, dok je hrana onih koji ka Tebi hitaju od komada njihovih slomljenih srca.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9746 in Nederlands'
-tags = ['lang-nl', 'bpn9746']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 Ik smeek U, o mijn God, bij Uw machtige Teken en bij de openbaring van Uw genade onder de mensen, mij niet weg te houden van de poort van de stad van Uw tegenwoordigheid en mij niet teleur te stellen in mijn hoop op de openbaringen van Uw genade onder Uw schepselen. Gij ziet mij, o mijn God, getrouw aan Uw Naam, de Heiligste, de Stralendste, de Machtigste, de Grootste, de Verhevenste, de Heerlijkste, en mij vasthouden aan de zoom van de mantel waaraan allen in deze wereld en in de wereld die komen gaat zich vasthouden.
 Ik smeek U, o mijn God, bij Uw allerzoetste Stem en bij Uw verhevenste Woord, mij steeds dichter tot de drempel van Uw deur te voeren en mij niet ver verwijderd te laten zijn van de schaduw van Uw genade en het baldakijn van Uw milddadigheid. Gij ziet mij, o mijn God, getrouw aan Uw Naam, de Heiligste, de Stralendste, de Machtigste, de Grootste, de Verhevenste, de Heerlijkste, en mij vasthouden aan de zoom van de mantel waaraan allen in deze wereld en in de wereld die komen gaat zich vasthouden.

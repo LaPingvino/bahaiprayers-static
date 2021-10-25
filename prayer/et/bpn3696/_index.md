@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3696 in Eesti'
-tags = ['lang-et', 'bpn3696']
+tags = ['lang-et', 'bpn-unsorted']
 +++
 Kiitus olgu Sulle, oo mu Jumal! Ma olen üks Sinu teenritest, kes on uskunud Sinusse ja Su märkidesse. Sina näed, kuidas ma olen pöördunud Sinu armu ukse poole ja pööranud oma palge Sinu armastava lahkuse suunas. Ma palun Sind Su kõige suurepärasemate tiitlite ja kõige ülevamate omaduste nimel, et Sa avaksid minu ees oma andide väravad. Aita mul siis teha seda, mis on hea, oo Sina, kes Sa oled kõikide nimede ja omaduste Omaja.
 Ma olen vaene, oo mu Issand, aga Sina oled rikas. Ma olen pööranud oma palge Sinu poole ning eraldunud kõigest muust peale Sinu. Anun Sind, et Sa ei jätaks mind ilma oma õrna armu puhangutest ega hoiaks mind eemal sellest, mida Sa oled määranud väljavalitutele oma teenrite seas.

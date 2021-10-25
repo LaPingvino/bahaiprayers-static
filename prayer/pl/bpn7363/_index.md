@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7363 in Polski'
-tags = ['lang-pl', 'bpn7363']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Ty wiesz doskonale, o mój Boże, że ze wszystkich stron spadł na mnie deszcz cierpień i że nikt prócz Ciebie nie może go rozproszyć ani przemienić. Wiem z całą pewnością, przez moją miłość do Ciebie, że nigdy nie zsyłasz cierpień na nikogo, jeśli nie pragniesz wywyższyć go w swoim niebiańskim Raju i wzmocnić jego serce w tym ziemskim życiu bastionem swojej nieodpartej mocy, aby nie skłonił się w stronę próżności tego świata. Zaprawdę, Ty dobrze wiesz, że w każdych warunkach więcej miłowałbym wspominanie Ciebie niż posiadanie wszystkiego, co znajduje się w niebie i na ziemi.
    

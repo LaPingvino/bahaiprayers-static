@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11221 in '
-tags = ['lang-99', 'bpn11221']
+tags = ['lang-99', 'bpn-unsorted']
 +++
 Ee Mungu wangu!  Huyu ni mtumishi Wako na mwana wa mtumishi Wako ambaye amekuamini Wewe na ishara Zako, na kuelekeza uso wake Kwako, amejitenga kabisa kutoka kwa vyote ila Wewe.  Wewe hakika, ndiwe wa wale ambao huonyesha rehema, mwenye rehema kabisa. 
 

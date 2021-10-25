@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6544 in 한국어'
-tags = ['lang-ko', 'bpn6544']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 왕국의 이 딸에게, 그를
 

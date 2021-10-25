@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4093 in Latviešu'
-tags = ['lang-lv', 'bpn4093']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Ikviena dvēsele, kas dodas mācīšanas ceļā un dzīvo svešās zemēs, var lasīt sekojošo lūgšanu gan dienu, gan nakti:
 

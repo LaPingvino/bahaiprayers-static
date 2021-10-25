@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7817 in Italiano'
-tags = ['lang-it', 'bpn7817']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 Non so, o mio Dio, cosa sia questo Fuoco che accendesti nelle Tue regioni. La terra non può velarne lo splendore, né l’acqua soffocarne la fiamma. Tutti i popoli del mondo sono impo-tenti a resistere alla sua forza. Grande è la benedizione di colui che gli si è accostato e ha udito il suo crepitare.
 O mio Dio, Tu facesti che alcuni, per la Tua grazia rafforzatrice, potessero avvicinarlo, mentre altri trattenesti a cagione di quello che le loro mani hanno forgiato nei Tuoi giorni. Chiunque si è affrettato verso di esso e vi è giunto ha, nella sua ansia di contemplare la Tua bellezza, offerto la vita sul Tuo sentiero ed è asceso a Te, interamente distaccato da tutto ciò che non sia Te. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5156 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5156']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Pujian bagi-Mu, ya Tuhan. Ampunilah dosa-dosa kami, kasihanilah kami dan mungkinkanlah kami kembali kepada-Mu. Janganlah membiarkan kami bergantung kepada siapa pun kecuali Engkau, dan berikanlah kepada kami, melalui rahmat-Mu, apa yang Engkau cintai dan ridhoi, dan apa yang layak bagi-Mu. Luhurkanlah kedudukan mereka yang sungguh-sungguh beriman, dan ampunilah mereka dengan pengampunan- Mu yang penuh kasih sayang. Sesungguhnya, Engkaulah Penolong Dalam Bahaya, Yang Berdiri Sendiri.
 

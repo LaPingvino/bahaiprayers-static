@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4729 in Azərbaycan'
-tags = ['lang-az', 'bpn4729']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey Allah, Sən O Allahsan ki, bilik və hidayətin parlaq şüalarını insanların üzərinə saçaraq, Öz şəfəqlərini onların parlaq zatının üzərinə səpdi və onları bütün yaranmışların arasında bu yüksək fəzl üçün seçdi və onları qeyb aləmindən görünən aləmə gətirməklə hər şeyi əhatə etməyə, onların batini mahiyyətini dərk etməyə, onların sirlərini açmağa qabil etdi! “O Öz nemətini istədiyi şəxsə bəxş edər.” 1 (Quran, 3:73)
 

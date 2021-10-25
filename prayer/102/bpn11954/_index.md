@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11954 in '
-tags = ['lang-102', 'bpn11954']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Ýa Ylahy, Ýa Magbut, Ýa Kerim, Ýa Rahym!
     Seniň Atlaryň birjesiniň gaşynda baş egip, boýun burýan, bütin dünýä şalarynyň soltany Sen.

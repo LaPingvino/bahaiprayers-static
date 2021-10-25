@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11197 in नेपाली'
-tags = ['lang-ne', 'bpn11197']
+tags = ['lang-ne', 'bpn-unsorted']
 +++
 *आध्यात्मिक सभाको विसर्जन समयमा गरिने प्रार्थना । 
 

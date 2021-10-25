@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6547 in 한국어'
-tags = ['lang-ko', 'bpn6547']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 저의 슬픔을 없애 주시옵고
 

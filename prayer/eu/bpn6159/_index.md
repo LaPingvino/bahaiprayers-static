@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6159 in Euskara'
-tags = ['lang-eu', 'bpn6159']
+tags = ['lang-eu', 'bpn-unsorted']
 +++
 *(Egunean behin esan behar da eguerditik iluntzen duen artean)
 

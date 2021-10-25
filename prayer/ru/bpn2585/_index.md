@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2585 in Русский'
-tags = ['lang-ru', 'bpn2585']
+tags = ['lang-ru', 'bpn-unsorted']
 +++
 Он есть Бог, возвышенный, Господь нежной заботы и щедрости!
 

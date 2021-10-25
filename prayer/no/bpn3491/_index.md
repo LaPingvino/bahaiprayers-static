@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3491 in Norsk'
-tags = ['lang-no', 'bpn3491']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 Hvordan kan jeg velge å sove, o Gud, min Gud, når de som lengter etter deg ikke får søvn på sine øyne på grunn av sin adskillelse fra deg; og hvordan kan jeg legge meg for å hvile så lenge de som elsker deg lider sjelekvaler fordi de er langt borte fra ditt nærvær?
  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12129 in '
-tags = ['lang-104', 'bpn12129']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Wahai pencari Kebenaran! Jika engkau menginginkan agar Tuhan membuka mata rohanimu, engkau harus minta dengan bersungguh-sungguh kepada Tuhan, berdoa dan berhubung dengan-Nya pada tengah malam, lalu mengatakan:
 

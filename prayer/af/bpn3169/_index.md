@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3169 in Afrikaans'
-tags = ['lang-af', 'bpn3169']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Verheerlik sy U Naam, o Here my God! U is Hy Wat alle dinge aanbid en Wat niemand aanbid nie, Wat die Here van alle dinge is en die kneg van niemand nie, Wat alle dinge is en deur geeneen geken word nie. U wou Uself aan die mens bekend maak; daarom het U, deur middel van 'n woord uit U mond, die skepping in die lewe geroep en die heelal gevorm. Daar is geen ander God behalwe U nie, die Vormer, die Skepper, die Almagtige, die Kragtigste.
 

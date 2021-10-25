@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7305 in Polski'
-tags = ['lang-pl', 'bpn7305']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Panie łaskawy! Tyś ulepił całą ludzkość z tej samej gliny. Tyś nakazał, aby wszyscy należeli do tego samego domostwa. W Twojej świętej obecności wszyscy są Twoimi sługami i cała ludzkość znajduje schronienie w Twoim tabernakulum; wszyscy zebrali się przy Stole Twojej Szczodrości i wszystkich oświetlił blask Twojej Opatrzności.
    

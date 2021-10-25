@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1329 in Português (BR)'
-tags = ['lang-pt', 'bpn1329']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola Do Sagrado Marinheiro 
 *Estudai a Epístola do Sagrado Marinheiro a fim de que possais conhecer a verdade, e tende em conta que a Abençoada Beleza predisse plenamente os eventos futuros. Estejam acautelados os dotados de perceção!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4753 in Azərbaycan'
-tags = ['lang-az', 'bpn4753']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış söyləyirəm Sənə, Ey mənim Allahım, Sənin inayətinin rayihələri məni bihuş etdi və mərhəmətinin nəvazişli nəsimləri məni bol lütflərinə yönəltdi. Səxavət barmaqlarınla, İlahi, mənə o dirilik çeşməsindən içir ki, ondan dadan hər kəsi Səndən başqa bütün bağlılıqlardan azad olmağa, Sənin inqita fəzana uçmağa və nəzərlərini Sənin inаyətinə və bol bəxşişlərinə dikməyə qabil etdi.
 

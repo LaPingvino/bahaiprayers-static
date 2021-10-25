@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5384 in 日本語'
-tags = ['lang-ja', 'bpn5384']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお主よ。あなたのお喜びの境内けいだいの外に残された創造物はないよう、地上のすべての
 人々をあなたの信教の楽園に招き入れ給え。

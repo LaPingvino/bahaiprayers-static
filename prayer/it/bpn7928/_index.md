@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7928 in Italiano'
-tags = ['lang-it', 'bpn7928']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 ##TAVOLE DELLA VISITAZIONE
 

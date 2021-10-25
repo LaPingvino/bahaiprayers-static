@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12675 in '
-tags = ['lang-91', 'bpn12675']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Sambiang bukai ke Orang ti udah Mati
  

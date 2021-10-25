@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10329 in Svenska'
-tags = ['lang-sv', 'bpn10329']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Ärad vare Du, o Herre min Gud! Jag ber Dig vid Ditt namn genom vilket Han som är Din skönhet har installerats på Din saks tron, och vid Ditt namn genom vilket Du förändrar allt, för samman allt, ställer alla till svars, belönar alla, bevarar allt och vidmakthåller allt – jag ber Dig beskydda denna tjänarinna som har sökt sin tillflykt hos Dig, har sökt skydd hos Honom i vilken Du själv är uppenbarad och förtröstar och förlitar sig helt på Dig.
                     Hon är sjuk, o min Gud, och har trätt in under skuggan av Ditt helandes träd; hon är plågad och har flytt till den stad som är Ditt beskydd; hon är försvagad och har sökt Din ynnests källa; hon är svårt ansatt och har skyndat att nå Din stillhets brunn; hon är tyngd av synder och har vänt sig mot Din förlåtelses förgård.

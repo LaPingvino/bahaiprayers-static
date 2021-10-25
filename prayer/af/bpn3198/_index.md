@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3198 in Afrikaans'
-tags = ['lang-af', 'bpn3198']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Hy is God!
 

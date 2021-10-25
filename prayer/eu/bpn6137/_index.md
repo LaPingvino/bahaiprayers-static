@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6137 in Euskara'
-tags = ['lang-eu', 'bpn6137']
+tags = ['lang-eu', 'bpn-unsorted']
 +++
 Zeure betikotasunezko ur garden eta gozoetatik edaten emaidazu,ene Jauna,
 eta Zure izatezko zuhaitzaren igalietatik jaten emaidazu,ene Itxaropena!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12974 in '
-tags = ['lang-110', 'bpn12974']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 ##PREA BILONG OPIM KIBUNG BILONG ASEMBLI 
  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8271 in English'
-tags = ['lang-en', 'bpn8271']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 He is God.
 

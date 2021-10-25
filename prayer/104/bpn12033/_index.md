@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12033 in '
-tags = ['lang-104', 'bpn12033']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 * Dilafazkan sekali dalam dua puluh empat jam antara tengah hari sehingga matahari terbenam. Disarankan orang yang melafazkannya harus berdiri.
 

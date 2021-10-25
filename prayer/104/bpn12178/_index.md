@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12178 in '
-tags = ['lang-104', 'bpn12178']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Tuhanku, Pujaanku, Rajaku, Hasratku! Bahasa apakah yang dapat menyampaikan rasa syukurku kepada-Mu? Aku telah alpa, Engkau telah menyedarkanku. Aku telah berpaling daripada-Mu, Engkau telah membantuku agar berpaling kepada-Mu dengan rahmat-Mu. Aku bagaikan orang mati, Engkau telah menghidupkanku  kembali dengan air kehidupan. Aku telah layu, Engkau telah menyegarkanku dengan sungai syurga ucapan-Mu yang telah mengalir daripada Pena Yang Maha Penyayang.
 

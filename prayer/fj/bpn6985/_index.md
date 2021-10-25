@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6985 in Fiji'
-tags = ['lang-fj', 'bpn6985']
+tags = ['lang-fj', 'bpn-unsorted']
 +++
 E na rawa li vakacava me u digitaka na moce, O i Kemuni na Kalou, na noqu Kalou, ka ni matadra o ira era gadrevi Kemuni era se yadra vinaka tu ga me baleta ni ra tawase tani tu mai vei Kemuni; e na rawa li vakacava me u davo sobu e na vakacegu ni se rarawa tu mada ga ka vutugu na yalodra o ira na Nomuni daulomani e na vuku ni nodra yawa tani mai e na Nomuni i serau?
 

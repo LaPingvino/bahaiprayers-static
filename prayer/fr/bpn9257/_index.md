@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9257 in Français'
-tags = ['lang-fr', 'bpn9257']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Aux flots parfumés de ton éternité, laisse-moi m’abreuver, ô mon Dieu, et aux fruits de l’arbre de ton existence, permets-moi de goûter, ô mon Espoir ! 
 Aux sources cristallines de ton amour, souffre que j’apaise ma soif, ô ma Gloire, et à l’ombre de ton éternelle sollicitude, laisse-moi demeurer, ô ma Lumière !

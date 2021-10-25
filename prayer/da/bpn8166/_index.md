@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8166 in Dansk'
-tags = ['lang-da', 'bpn8166']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Gør vore trin faste, o Herre, på Din vej og styrk Du vore hjerter i lydighed mod Dig. Vend vore ansigter mod Din enheds skønhed og glæd vore hjerter med tegnene på Din guddommelige enhed.
 

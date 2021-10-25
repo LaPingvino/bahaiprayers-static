@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12947 in '
-tags = ['lang-110', 'bpn12947']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 O gutpela Papa!  Yu bin mekim kamap olgeta manmeri long wanpela papa na wanpela mama tasol.  Yu bin tokaut olsem olgeta i mas i stap insait long wanpela haus tasol.  Long ai bilong Yu, olgeta man i wokman bilong Yu na Yu lukautim olgeta insait long Haus Holi bilong Yu.  Olgeta i bung wantaim long Tebol bilong Blesing bilong Yu.  Olgeta i kisim lait long lait bilong Marimari bilong Yu.  
  

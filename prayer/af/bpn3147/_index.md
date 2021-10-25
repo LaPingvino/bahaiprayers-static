@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3147 in Afrikaans'
-tags = ['lang-af', 'bpn3147']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O soeker van die Waarheid! As u verlang dat God u oog mag oopmaak, moet u God smeek, Hom aanbid en met Hom middernagtelike gemeenskap hê, en sê:
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6794 in English'
-tags = ['lang-en', 'bpn6794']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 God testifieth to the unity of His Godhood and to the singleness of His own Being. On the throne of eternity, from the inaccessible heights of His station, His tongue proclaimeth that there is none other God but Him. He Himself, independently of all else, hath ever been a witness unto His own oneness, the revealer of His own nature, the glorifier of His own essence. He, verily, is the All-Powerful, the Almighty, the Beauteous.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12010 in '
-tags = ['lang-102', 'bpn12010']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Bismi-el-Agzam!
     Eý meniň Taňrym, Eý Ataşym, Eý Yşygym! Eý atlaryň Eýesi! Ynha Kitabyňda “Ha” Eýýamy diýip atlandyran günleriň ýetip geldi.

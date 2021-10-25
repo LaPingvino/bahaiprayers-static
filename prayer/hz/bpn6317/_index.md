@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6317 in Namibia'
-tags = ['lang-hz', 'bpn6317']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 #NGUROVA
 ##(EVENING)

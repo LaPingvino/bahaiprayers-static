@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6377 in Cymraeg'
-tags = ['lang-cy', 'bpn6377']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 ##Long Obligatory Prayer 
 

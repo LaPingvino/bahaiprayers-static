@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10022 in Slovensky'
-tags = ['lang-sk', 'bpn10022']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Pane! K Tebe sa utiekam o útočisko a ku všetkým Tvojim znameniam smerujem srdce.
 Ó Pane! Či už na cestách alebo doma, v zamestnaní či pri práci celú svoju dôveru vkladám do Teba.

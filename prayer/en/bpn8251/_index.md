@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8251 in English'
-tags = ['lang-en', 'bpn8251']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 #Súriy-i-Qalam
 ##Súrih of the Pen

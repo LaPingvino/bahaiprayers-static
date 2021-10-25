@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7935 in Italiano'
-tags = ['lang-it', 'bpn7935']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 *(Naw-Rúz, 21 marzo, è il primo giorno dell’anno bahá’í).
 

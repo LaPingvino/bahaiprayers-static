@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4336 in Esperanto'
-tags = ['lang-eo', 'bpn4336']
+tags = ['lang-eo', 'bpn-unsorted']
 +++
 Ho Eternulo, mia Dio kaj mia Haveno en mia aflikto! Mia Ŝildo kaj mia Ŝirmo en miaj turmentoj! Mia Azilo kaj mia Rifuĝejo en horo de bezono, kaj en mia izoleco mia Kunulo! En mia angoro mia Konsolo, kaj en mia soleco amema Amiko! La Foriganto de la doloregoj de  miaj ĉagrenoj, kaj la Pardonanto de miaj pekoj! 
 Nur al Vi mi turnas min, fervore petegante Vin per mia tuta koro, mia menso kaj mia lango, ke Vi protektu min de ĉio, kio kontraŭas Vian volon en ĉi tiu ciklo de Via dia unueco, kaj ke Vi purigu min de ĉiu malpuro, kiu malebligas al mi celadi senmakula kaj pura al la ombro de la arbo de Via graco. 

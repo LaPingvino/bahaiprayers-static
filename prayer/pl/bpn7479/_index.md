@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7479 in Polski'
-tags = ['lang-pl', 'bpn7479']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 *„Te codzienne modlitwy obowiązkowe oraz niektóre wybrane, takie jak Długa modlitwa o uzdrowienie czy Tablica Aḥmada zostały obdarzone przez Bahá’u’lláha wyjątkową mocą i znaczeniem i dlatego powinny być uznane za takowe i odmawiane przez wiernych z niezachwianą wiarą i ufnością, że dzięki nim mogą wejść w znacznie bliższą komunię z Bogiem i pełniej utożsamić się z Jego prawami i przykazaniami.”
 

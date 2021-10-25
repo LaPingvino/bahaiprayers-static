@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5090 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5090']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 ##SEMBAHYANG MENENGAH
 *Dilaksanakan tiga kali sehari: pagi, tengah hari dan petang.

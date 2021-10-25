@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5294 in Bosanski'
-tags = ['lang-bs', 'bpn5294']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 O neuporedivi Bože! Gospodaru Kraljevstva! Ove duše su Tvoja nebeska vojska. Pomozi im i grupama Vrhovnog Skupa učini ih
 pobjedonosnim; da svaki od njih postane poput puka i osvoji ove zemlje ljubavlju Božjom i prosvjetljenjem božanskih učenja.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10890 in '
-tags = ['lang-95', 'bpn10890']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Atua! O Koe ko te fakamagalo o agasala, ko te tuku o mea-alofa, ko te ave keatea o fakalavelave!
      E tonu, Au e akai totuli kia Koe ke fakamagalo mai agasala a latou ko la ko oti ne mavae atu mo gatu faletino kae ko oti ne avaka ki luga i te lalolagi faka-te-agaaga.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10350 in Svenska'
-tags = ['lang-sv', 'bpn10350']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 I Guds, den Högstes, namn! Lovad och förhärligad vare Du, Herren Gud allsmäktig! Du, inför vars visdom den vise kommer till korta och saknar ord, inför vars kunskap den lärde bekänner sin okunnighet, inför vars makt den starke blir svag, inför vars rikedom den rike betygar sin fattigdom, inför vars ljus den upplyste är förlorad i mörkret, till vars kunskaps helgedom allt förståendes väsen vänder sig och kring vars närvaros allra heligaste alla människors själar kretsar.
 Hur kan jag då stämma upp min sång och vittna om Ditt väsen, som den vises visdom och den lärdes lärdom ej har lyckats utröna, då ingen människa kan besjunga något som hon ej förstår, ej heller förtälja om något som hon ej kan uppnå, medan Du i evighet har varit den Ouppnåelige, den Outgrundlige. Då jag är ur stånd att uppstiga till Din härlighets himlar och sväva i Din kunskaps riken, förmår jag endast uppräkna Dina tecken, vilka berättar om Dina händers ärofulla verk.

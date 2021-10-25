@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3477 in български'
-tags = ['lang-bg', 'bpn3477']
+tags = ['lang-bg', 'bpn-unsorted']
 +++
 В Името на Бога, Най-древния, Най-великия.
 

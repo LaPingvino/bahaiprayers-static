@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10360 in Svenska'
-tags = ['lang-sv', 'bpn10360']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Följande bön är avsedd att läsas ... varje dag:
 O Gud! O Gud! Detta är en vingbruten fågel och hans flykt är mycket långsam. Bistå honom så att han kan svinga sig upp mot välståndets och frälsningens högsta topp, sväva i den största glädje och lycka genom den oändliga rymden, i Ditt Högsta namn höja sin melodi i alla nejder, glädja öronen med denna kallelse och upplysa ögonen genom åsynen av vägledningens tecken.

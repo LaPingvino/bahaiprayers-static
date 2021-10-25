@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6345 in English'
-tags = ['lang-en', 'bpn6345']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O God, my God! Attire mine head with the crown of justice, and my temple with the ornament of equity. Thou, verily, art the Possessor of all gifts and bounties.
 

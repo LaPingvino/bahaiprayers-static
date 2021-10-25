@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7266 in Kalaallisut'
-tags = ['lang-kl', 'bpn7266']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Illit Naalagaq saamasutit! Inuit tamaasa naggueqatigiilersillugit Pinngortissimavatit. Aaliangersimavat inuit tamarmik ilaqutariiussasut ataatsit. Qanissutsinni Naalannartumi tassaapput tamarmik Ilinnut kiffaasut, inuillu tamarmik Illit naalaffissuarni toqqorsimapput; inuit tamarmik Nerrivinni peqaqisumi katersuussimapput; Isumassuinerpit qaamarngata kikkut tamaasa qaammarsarpai.
 

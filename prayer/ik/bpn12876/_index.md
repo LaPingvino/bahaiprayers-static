@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12876 in Alaska Native'
-tags = ['lang-ik', 'bpn12876']
+tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Blessed is the Spot 
 Quviatchaktauli ini, iglulu, nalunaitchuaq inilu, suli iniqpak, uummanlu, iġġiļu, annagvigļu, qaanaaġlu, naqsraġlu, nunalu, taġiuġlu, qikiqtaġlu, nunaraaġlu, tavra tammatkunani God taiļaktuniunnii qutchiksuaġilugu nanġapiaġataġaat.

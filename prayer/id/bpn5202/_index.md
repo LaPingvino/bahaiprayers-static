@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5202 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5202']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 ##LOH AHMAD
 

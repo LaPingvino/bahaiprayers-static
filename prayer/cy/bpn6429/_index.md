@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6429 in Cymraeg'
-tags = ['lang-cy', 'bpn6429']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 Gogoniant fyddo i Ti, O Dduw, am Dy amlygiad o gariad i ddynolryw!  O Dydi yr Hwn wyt Fywyd a Goleuni i ni, tywys Dy weision yn Dy ffordd, a chyfoethoga ni ynot Ti, a rhyddhâ ni oddi wrth bopeth ond Tydi.
 O Dduw, dysg i ni Dy undod, a dyro i ni sylweddoliad o’th Undod, fel na welom neb ond Tydi.  Ti yw’r Maddeugar, a Rhoddwr haelioni!

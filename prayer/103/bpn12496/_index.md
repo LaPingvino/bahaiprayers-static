@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12496 in '
-tags = ['lang-103', 'bpn12496']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 Glory be to Thee, O King of eternity, and the Maker of nations,..
 

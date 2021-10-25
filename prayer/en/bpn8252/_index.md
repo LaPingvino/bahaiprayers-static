@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8252 in English'
-tags = ['lang-en', 'bpn8252']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Ever-Abiding.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9671 in Nederlands'
-tags = ['lang-nl', 'bpn9671']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 ##Geopenbaard aan de bahá’ís in de centraal gelegen staten
 

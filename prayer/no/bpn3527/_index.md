@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3527 in Norsk'
-tags = ['lang-no', 'bpn3527']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 O Herre! Hen til deg tyr jeg for å finne tilflukt, og henimot alle dine tegn vender jeg mitt hjerte.
  

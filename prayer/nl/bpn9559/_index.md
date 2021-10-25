@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9559 in Nederlands'
-tags = ['lang-nl', 'bpn9559']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 Ik prijs U, o mijn God, aangezien de geur van Uw goedertierenheid mij in vervoering heeft gebracht, en de zachte bries van Uw barmhartigheid mij in de richting van Uw milddadige gaven heeft doen neigen. Laat mij, o mijn Heer, uit de hand van Uw goedertierenheid drinken van het levende water waardoor eenieder die ervan gedronken heeft zich heeft kunnen ontdoen van alle gehechtheid aan iemand buiten U, en zijn vlucht heeft kunnen nemen naar de sferen van onthechting van al Uw schepselen, en zijn oog heeft kunnen vestigen op Uw liefdevolle voorzienigheid en Uw veelvuldige gaven.
 Maak, o mijn Heer, dat ik onder alle omstandigheden bereid ben U te dienen en mij te richten op het aanbeden heiligdom van Uw Openbaring en van Uw Schoonheid. Maak mij, als het U behaagt, als een teer kruid dat groeit op de velden van Uw genade, opdat de zachte bries van Uw wil mij kan beroeren en mij naar Uw wil buigt, op zulk een wijze dat mijn stilstaan en bewegen geheel en al door U worden aangestuurd.

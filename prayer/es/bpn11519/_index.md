@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11519 in Español'
-tags = ['lang-es', 'bpn11519']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 En el Nombre de Tu Señor, el Creador, el Soberano, el Suficiente, el Exaltadísimo, Aquel Cuya ayuda todos imploran.
 Di: ¡Oh mi Dios! ¡Oh Tú que eres el Hacedor de los cielos y de la tierra! ¡Oh Señor del Reino! Tú bien conoces los secretos de mi corazón, mientras que Tu ser es inescrutable para todos, salvo para Ti mismo. Tú ves todo cuanto me pertenece, mientras que nadie más puede hacer esto, salvo Tú. Concédeme, mediante Tu gracia, aquello que me permita prescindir de todo excepto de Ti y destíname aquello que me haga independiente de todos, excepto de Ti. Permíteme cosechar los beneficios de mi vida en este mundo y en el venidero. Ábreme las puertas de Tu gracia, y confiéreme bondadosamente Tu tierna misericordia y Tus dones.

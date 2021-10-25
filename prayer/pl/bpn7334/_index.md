@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7334 in Polski'
-tags = ['lang-pl', 'bpn7334']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Ci, którzy rozprzestrzeniają Boskie wonie, powinni recytować każdego ranka następującą modlitwę:
    

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6864 in Kalaallisut'
-tags = ['lang-kl', 'bpn6864']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 #Ilinniartitsinissamut qinnutit Pilersaarutip Guuterpaluttup Allagaanit
 ##Canadami Kalaallillu Nunaanni Bahá'í-nut

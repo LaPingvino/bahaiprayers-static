@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3443 in български'
-tags = ['lang-bg', 'bpn3443']
+tags = ['lang-bg', 'bpn-unsorted']
 +++
 ##Разкрита на бахаите от канада
 

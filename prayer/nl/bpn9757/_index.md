@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9757 in Nederlands'
-tags = ['lang-nl', 'bpn9757']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 ##Het lange Verplichte Gebed
 *Eens in de vierentwintig uur te reciteren.

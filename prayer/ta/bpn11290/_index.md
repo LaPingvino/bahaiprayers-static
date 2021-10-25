@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11290 in தமிழ்'
-tags = ['lang-ta', 'bpn11290']
+tags = ['lang-ta', 'bpn-unsorted']
 +++
 வலிமை மிக்கவரும்,  மன்னிப்பவரும், கருணை மிக்கவரும் அவரே!
 

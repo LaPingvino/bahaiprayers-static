@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn641 in Deutsch'
-tags = ['lang-de', 'bpn641']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Im Namen Deines Herrn, des Schöpfers, des Herrschers, des Allgenügenden, des Erhabensten, Dessen Hilfe alle Menschen erflehen.
 Sprich: O mein Gott! O Du Schöpfer der Himmel und der Erde, o Herr des Königreiches! Du kennst meines Herzens Geheimnisse, Dein Wesen aber ist unergründlich allen außer Dir. Du siehst alles, was von mir ist, und niemand außer Dir ist dazu imstande. Gewähre mir durch Deine Huld, was mich befähigt, alles zu entbehren außer Dir, und bestimme für mich, was mich unabhängig macht von jedem außer Dir. Gib, dass ich die Früchte meines Lebens ernte in dieser und der zukünftigen Welt, öffne vor meinem Angesicht die Tore Deiner Gnade und schenke mir gnädiglich Dein zartes Erbarmen und Deine Gaben.

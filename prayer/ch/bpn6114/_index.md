@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6114 in Chamorro'
-tags = ['lang-ch', 'bpn6114']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##DINAÑA’ ESPIRITUAT
 *SPIRITUAL ASSEMBLY

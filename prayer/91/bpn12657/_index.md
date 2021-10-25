@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12657 in '
-tags = ['lang-91', 'bpn12657']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Puji meh ngagai Nuan, O Petara aku! Tu bala pengasuh
 Nuan ti udah ditarit ulih rengut pengasih Nuan, lalu ditungkun ngena api ti mau ba kayu Nuan ti Siku, lalu mata sida tebelenang meda bebendang penampak ti manchar ari Sinai penyatu Nuan.

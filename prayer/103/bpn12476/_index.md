@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12476 in '
-tags = ['lang-103', 'bpn12476']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 ##SHORT OBLIGATORY PRAYER
 

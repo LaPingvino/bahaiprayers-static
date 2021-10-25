@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12348 in '
-tags = ['lang-95', 'bpn12348']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Matagofie e io Koe, O toku Atua! Oku mata ko oti ne fakammau tonu ki luga I Ou mata, a ko oku mata, e tonu, ko Ou mata, a toku leo ko Tou leo, a ko taku Faka-asiiga ko Tau Faka-asiiga, a ko au ko Koe, a ko taku Fakatokaaga ko Tau Fakatokaaga, a ko toku manakoga ko Tou manakoga, a ko au katoatoa ko Koe katoatoa, a ko toku nofo maluga ko Tou nofoaiga-atupu, ko toku matagofie ko Tou matagofie, a ko toku maalosi ko Tou maalosi.  
   

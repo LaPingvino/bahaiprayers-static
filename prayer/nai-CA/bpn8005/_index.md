@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8005 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn8005']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 Xe Xe Tsitsulth siem xe xe uy un st’i’wi’ulth
 Nilth nuw ‘uy’ nu slhexun. 

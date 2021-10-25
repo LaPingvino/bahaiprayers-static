@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7472 in Polski'
-tags = ['lang-pl', 'bpn7472']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Chwała bądź Tobie, o Panie, Boże mój! Oto są dni, w których nakazałeś wszystkim ludziom zachowywać Post, aby dzięki niemu oczyścili swoje dusze i oswobodzili się z przywiązania do kogokolwiek oprócz Ciebie i aby z ich serc wzniosło się to, co godne jest dworu Twojego majestatu i odpowiednie przed tronem objawienia Twojej jedyności. Spraw, o mój Panie, aby ten post stał się rzeką życiodajnych wód i ukazał przymioty, jakimiś go obdarzył. Z jego pomocą oczyść serca swoich służebników, którym zło tego świata nie przeszkodziło w zwróceniu się ku Twemu Najchwalebniejszemu Imieniu, którzy pozostali niewzruszeni pomimo zgiełku i wrzawy tych, którzy odrzucili Twoje najjaśniejsze znaki towarzyszące nadejściu Twojego Objawiciela, którego Tyś obdarzył swoją wszechwładzą, swoją mocą, swoim majestatem i chwałą. Oto są ci słudzy, którzy, gdy tylko usłyszeli Twoje wołanie, pospieszyli ku Twemu miłosierdziu, i których nie oddaliły od Ciebie ani przemiany, ani przypadki tego świata, ani żadne ludzkie ograniczenia.
     

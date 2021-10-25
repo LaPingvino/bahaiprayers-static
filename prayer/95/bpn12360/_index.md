@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12360 in '
-tags = ['lang-95', 'bpn12360']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O ko Koe a te Aliki alofa!  Mai i te sikulagi o te motu mai keatea ko Koe ko oti ne fakaasi a agaaga ola, e pela mo te masina maina, e faka-maina atu ki te lalolagi o te loto mo te agaaga ola, o motu mai a latou mai i uiga o te lalolagi kae faka-vave atu ki te maalo o te favavau e se gata.  Mai i se motiiga e tasi mai i te vasa o Tou alofa-kaimalie ne soko i te faka-siusiu ne Koe a fatoaaga o olotou loto ke oko ki taimi ko maua ne latou a te maalosi mo te gali e se faka-tusagia.  A te manogi gali o Tou tafatasi faka-te-lagi ne tufatufa atu i te mao mo te lauefa, o tufa atu a tena manogi suamalie ki te lalolagi katoatoa, ke fai a kogaa-koga katoa o te lalolagi ke pusaki i ei te manogi o te sausau.  
   

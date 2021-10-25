@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10840 in '
-tags = ['lang-94', 'bpn10840']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 Iye Ndiye Mfumu, Wodziwa zonse, Wanzeru! Taonani, Mbalame ya M’Paradiso iyimba pa nthambi za Mtengo Wamuyaya, ndi nyimbo zoyera ndi zokoma, kulalikira kwa woona mtima uthenga wabwino wa kuyandikira kwa Mulungu kuwaitanira okhulupilira mu Umodzi wa Uzimu kubwalo la Pamaso pa Wopatsayo, kuwauza anthu wotsatira za uthenga womwe wabvumbulutsidwa ndi Mulungu, Mfumu, Waulemerero, Wopanda mzake, kuwatsogolera okondedwa kumpando wopatulika ndi kwa wokongola konyezimirayu. 
 

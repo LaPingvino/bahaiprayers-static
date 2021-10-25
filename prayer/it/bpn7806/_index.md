@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7806 in Italiano'
-tags = ['lang-it', 'bpn7806']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 O voi che siete due tenere piante nel Paradiso di Abhá! 
 Rendete grazie a Dio perché siete germogliate in questo giardino celestiale. Se Dio vorrà, metterete salde radici, vi svilupperete e crescerete in grazia delle effusioni delle nuvole celesti e giungerete a perfezione e produrrete frutti mercè il fulgore del Sole della Realtà.

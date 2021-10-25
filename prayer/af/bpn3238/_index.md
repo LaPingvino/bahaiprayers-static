@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3238 in Afrikaans'
-tags = ['lang-af', 'bpn3238']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 *Gebed wat by die afsluiting van 'n vergadering van die Geestelike Raad behoort gesê te word.
 

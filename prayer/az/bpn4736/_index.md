@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4736 in Azərbaycan'
-tags = ['lang-az', 'bpn4736']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən Ey Mehriban Rəbbim! İnqita üfüqündən Sən elə ruhlar zahir etmisən ki, onlar nur saçan bir ay tək ürək və könül dünyasını işıqlandırıb nura boyadılar, özlərini bütünlüklə varlıq dünyasının nişanələrinindən azad edib, ölümsüzlük səltənətinə tələsdilər. Öz inayət dənizinin şəbnəmləri ilə Sən hər an onların könül gülşəninə bir təravət əta etdin, ta o vaxtadək ki, onlar misilsiz lətafət və gözəllik əldə etdilər. Öz xoş ətirlərini bütün dünyanın üzərinə səpməklə, yer üzününün bütün diyarlarının ənbər saçmasına səbəb olaraq, Sənin ilahi birliyinin rahiyələri hər yana yayıldı.
 

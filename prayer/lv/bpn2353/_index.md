@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2353 in Latviešu'
-tags = ['lang-lv', 'bpn2353']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Viņš ir Dievs, cildens Viņš ir, mīloši žēlīgais un dāsnais Kungs!
 Lai slava Tev, ak mans Dievs, visvarenais Valdniek! Es apliecinu Tavu visspēcību un Tavu varu, Tavu mīlošo laipnību, Tavu žēlastību un Tavu spēku, Tavu vienesmi un Tavas Būtības vienotību, Tavu svētumu un to, ka Tu esi augstāks par visu radīto pasauli un par visu, kas ir tajā.

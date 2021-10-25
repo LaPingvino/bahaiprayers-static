@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10895 in '
-tags = ['lang-95', 'bpn10895']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O Koe te Aliki Alofa!  A tau tavini fafine faka-alofa ne manako kia Koe, kae mai i luga i tena toe fakatau mo tena mafaufau ne manako ko ia ke oko atu ki Ou mua kae ke ulufale atu a ia ki Ou lalolagi.  Mo ana mata e kanovai ne tuku tonu a tena kilo ki luga i te Maalo o Mea-Lilo.  I po e fia ne tapuaki kia Koe, kae e fia aso ne nofo a ia o masausau kia Koe.  I tafataeao katoa e masaua ne ia a Koe, a ko afiafi katoa ne tuku tonu ona mafaufauga ki luga ia Koe.  Pe la loa mote usuusu a te nainitinikale ne fakalagi ne ia Au kupu, kae pe la mo te kilo ne manako a ia ke toe faka-foki atu a Tou mainaaga.
      O Koe ko te Fakamagalo o agasala! Tala ne Koe a te auala mo te agaaga tenei ko ala aka ke ulu ki Tou Maalo, kae fakamafai ate manu-eva, akoakogina ne Tou lima, ke eva ki loto i te fatoaaga losa seai se gataaga.  A ia ko ka mese afi i te fia fakapilipili atu kia Koe, faka-mafai aka ke oko atu a ia ki Ou mua.  A ia ko mafatia kae fanoanoa mai i te motu mai ia Koe, fai aka ia ke fauu ki loto i Tou Fale Lasi Faka-te-Lagi.

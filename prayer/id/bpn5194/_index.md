@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5194 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5194']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Ya Tuhanku! Ya Tuhanku! Terangilah kening pencinta-pencinta-Mu dan bantulah mereka dengan malaikat-malaikat surgawi yang membawa kemenangan yang pasti. Kokohkanlah langkah-langkah mereka di jalan-Mu yang lurus, dan dari rahmat-Mu yang purba, bukalah pintu-pintu kurnia-Mu dihadapan mereka; karena mereka sedang mempergunakan apa yang telah Engkau anugerah-kan kepada mereka di jalan- Mu, dan sedang membela Agama-Mu serta menaruh kepercayaannya dengan mengingat akan Dikau. Mereka mempersembahkan kalbunya demi kasih akan Dikau dan tidak menahan apa yang dimilikinya demi pujaan kepada keindahan-Mu dan dalam usahanya untuk menyenangkan Dikau.
 

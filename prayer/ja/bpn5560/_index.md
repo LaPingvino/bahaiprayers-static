@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5560 in 日本語'
-tags = ['lang-ja', 'bpn5560']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 ## 火の書簡　
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8747 in हिंदी'
-tags = ['lang-hi', 'bpn8747']
+tags = ['lang-hi', 'bpn-unsorted']
 +++
 ##आरोग्य के लिये लम्बी प्रार्थना
 

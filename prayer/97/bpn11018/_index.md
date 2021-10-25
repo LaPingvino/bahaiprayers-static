@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11018 in '
-tags = ['lang-97', 'bpn11018']
+tags = ['lang-97', 'bpn-unsorted']
 +++
 હે ઈશ્વર, મારા નાથ, મારા પ્રાણપ્રિય, મારા હૃદયની અભિલાષા.
 

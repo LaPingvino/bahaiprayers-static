@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9589 in Nederlands'
-tags = ['lang-nl', 'bpn9589']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij, Almachtige! Ik ben een zondaar, doch Gij zijt de Vergevende! Ik ben vol tekortkomingen, doch Gij zijt de Meedogende! Ik wandel in het duister van dwaling, doch Gij zijt het Licht van vergiffenis!
 O Gij, grootmoedig God, vergeef mij daarom mijn zonden, schenk mij Uw gaven, zie niet naar mijn fouten, bescherm mij, dompel mij in de bron van Uw geduld en genees mij van alle ziekten en kwalen.

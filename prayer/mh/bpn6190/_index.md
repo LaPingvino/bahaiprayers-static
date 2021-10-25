@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6190 in Marshallese'
-tags = ['lang-mh', 'bpn6190']
+tags = ['lang-mh', 'bpn-unsorted']
 +++
 ##BAMLE 
 *(FAMILY)

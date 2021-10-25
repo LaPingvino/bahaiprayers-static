@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9299 in Français'
-tags = ['lang-fr', 'bpn9299']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Tablette du feu
 

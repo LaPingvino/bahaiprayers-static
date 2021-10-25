@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12384 in Namibia'
-tags = ['lang-hz', 'bpn12384']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Tita ge ra ≠an-!ga, Ai ti Elotse, Sats ge a guru te !Khaisa, Satsa tani ≠an tsi /gore /îse. Tita gera !kho!gâ ti /gai-o-!nâsib, tsî sa /gaiba, ti /gâtsisib tsî Sa !khusiba. 
 	Sats osei ge /nî Eloe Hâ tama hâ, Hui-aots tsu-!gâb !na, /i-aitsama mâbasen hâtsa.

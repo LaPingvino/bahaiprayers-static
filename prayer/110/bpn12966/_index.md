@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12966 in '
-tags = ['lang-110', 'bpn12966']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 Em I Givim Planti Samting!  Em i Save Blesim Oltaim! 
  

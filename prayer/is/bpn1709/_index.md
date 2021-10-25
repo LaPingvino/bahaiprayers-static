@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1709 in Íslenska'
-tags = ['lang-is', 'bpn1709']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Í nafni Guðs, hins hæsta! Vegsamaður og dýr­legur sért Þú, Drottinn, Guð alvaldur. And­spænis visku Þinni fallast hinum vitru hendur, frammi fyrir þekkingu Þinni játa hinir lærðu fá­fræði sína, gagnvart mætti Þínum verða hinir sterku van­megna, gegnt auðlegð Þinni bera hinir ríku vitni fátækt sinni, frammi fyrir ljósi Þínu týnast hinir upplýstu í myrkri, í átt til helgireits þekkingar Þinnar snýr kjarni alls skilnings og um griðastað návistar Þinnar hringsóla sálir alls mann­kyns.
 Hvernig get ég þá sungið og sagt frá kjarna Þínum sem viska hinna vitru og lærdómur hinna lærðu geta eigi skilið, því að enginn maður getur vegsamað það sem hann eigi skilur né skýrt frá því sem hann eigi fær höndlað, en Þú hefur aftur á móti verið hinn ótilkvæmilegi, hinn órannsakan­legi. Þótt mig skorti mátt til að rísa til himins dýrðar Þinnar og svífa í ríkjum þekkingar Þinnar, get ég ekki annað en sagt frá táknum Þínum sem eru talandi vottur um dýrlegt handarverk Þitt.

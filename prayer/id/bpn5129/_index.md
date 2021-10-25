@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5129 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5129']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Aku tak tahu, ya Tuhanku, Api apakah yang Engkau nyalakan di negeri-Mu. Bumi tak dapat menyuramkan cahayanya, dan tak ada pula air yang dapat memadamkan nyalanya. Semua bangsa di dunia ini tak berdaya melawan kekuatannya. Besarlah kurnia dia yang mendekatinya dan men-dengarkan gemuruhnya.
 Beberapa orang, ya Tuhanku, telah diberi kesanggupan untuk mendekatinya melalui rahmat-Mu yang menguatkan, sedangkan yang lain-lainnya Engkau jauhkan karena apa yang telah mereka perbuat pada hari-hari-Mu. Siapa saja yang bergegas-gegas untuk menghampiri dan mencapainya, karena keinginannya untuk memandang keindahan-Mu, telah menyerahkan hidupnya pada jalan-Mu dan naik kepada-Mu, terlepas sama sekali dari apa pun selain Engkau Sendiri.

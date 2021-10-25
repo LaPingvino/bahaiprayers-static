@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4791 in Azərbaycan'
-tags = ['lang-az', 'bpn4791']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey mənim Allahım, kəramət və mərhəmət Allahı! Sən O Sultansan ki, Onun əmr kəlməsilə bütün mövcudat xəlq oldu; Sən O Kəramətli Kəssən ki, bəndələrinin əməlləri Onun fəzlini nümayiş etdirməsinə mane ola bilmədi və Onun səxavətinin aşkara çıxmasının qarşısını ala bilmədi.
 

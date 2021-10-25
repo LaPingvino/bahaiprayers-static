@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3538 in Norsk'
-tags = ['lang-no', 'bpn3538']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 Morgen
  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12721 in '
-tags = ['lang-91', 'bpn12721']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 *"Tikah Bahá’í ianya tampil pengerindu enggau penyerakup ba dua piak.Taja pia, sida mesti berati enggau bejimat lalu beteleba enggau perangai pangan diri. Tanggam ti meruan tu patut diikat enggau sempekat ti teguh, lalu tuju ia patut kena ngemansangka pemaik, bekaban enggau penyerakup lalu tulihka pengidup ti meruan belama.”
 

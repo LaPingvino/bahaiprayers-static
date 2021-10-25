@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2801 in Shqip'
-tags = ['lang-sq', 'bpn2801']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 ##Reveluar Bahá'í-ve të Shteteve Qendrore
 

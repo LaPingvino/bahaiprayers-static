@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6155 in Euskara'
-tags = ['lang-eu', 'bpn6155']
+tags = ['lang-eu', 'bpn-unsorted']
 +++
 Jainkoa! Ene Jainkoa!
 Zeure sendaketazko itsasoagatik eta Zeure adeizko Eguzkiaren dizdiragaitik, Zeure otseinak menderatzeko bidea izan zen Zeure izenagatik eta Zeure Hitzik sarkorrenagaitik, Zeure lumarik handikienaren indarragaitik eta zeru-lurretan diren guztiak irazan aurrez jada bazen Zeure errukiagaitik, atsekabe eta ezbehar guztietatik, Zeure emankortasunezko urez garbitu nazazula eskatzen dizut.

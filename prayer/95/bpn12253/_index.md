@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12253 in '
-tags = ['lang-95', 'bpn12253']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 E matagofie e i Tou igoa, O te Aliki toku Atua!  E lavea ne Koe a toku kogaa-koga nofo, mo te fale-puipui tela ne pei au kiei, kae ne tigaina iei au i faka-lavelave e uke.  Mai i Tou mafi!  E seai se pene e mafai o toe llau mai a latou, io me se laulaufaiva e mafai o fakamatala io me o faka-napa a latou.  E seiloa ne au, O toku Atua, me se aa ate pogai ne liakina iei au ne Koe ki Ou fili.  Ko Tou matagofie e fai mo aku molimau!  Au e se-fanoanoa mo te fa-kaitaua ne kufaki ne au ona ko te alofa mo Koe, io me e lagona ne au ate poi i faka-lavelave lasi ne feagai mo au i Tou auala.  A toku fanoanoa e se pogai mai ise isi mea aka kae ona ko te tuai o 
 fakataunu ne Koe ate mea tela ko oti ne iku ia Koe i Tapeleti o Tau Fakaasiiga, kae fakaeke i loto i tusi o Tau tonu mo te faka- masinoga.  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7837 in Italiano'
-tags = ['lang-it', 'bpn7837']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 ##RIVELATA AI BAHÁ'Í DEGLI STATI NORD-ORIENTALI
 

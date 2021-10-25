@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11767 in '
-tags = ['lang-101', 'bpn11767']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *Obuah nai taluh sidoh, sipagi, uunt onu, bia onu ngumi.
 *	Sipagi – Osah boton onu nusak duwoh uunt onu.

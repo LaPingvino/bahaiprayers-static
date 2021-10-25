@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1654 in Íslenska'
-tags = ['lang-is', 'bpn1654']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Þú Guð sem fyrirgefur! Þessir þjónar Þínir leita til ríkis Þíns og leita örlætis og náðar Þinnar. Ó Guð! Ger hjörtu þeirra góð og hrein svo þeir verðskuldi ást Þína. Hreinsa og helga anda þeirra svo að sól raunveruleikans skíni á þá. Hreinsa og helga augun svo þau greini ljós Þitt. Hreinsa og helga eyrun svo þau heyri kall ríkis Þíns.
 Ó Drottinn, vissulega erum við veikburða en Þú ert máttugur. Vissulega erum við fátæk en Þú ert ríkur. Við erum leitendur en Þú ert sá sem leitað er. Ó Drottinn! Haf samúð með okkur og fyrirgef okkur. Gef okkur slíka getu og næmni að við megum teljast verðug hylli Þinnar og löðumst að ríki Þínu, að við getum teygað af vatni lífsins, upptendrast af eldi ástar Þinnar og endurlífgast af andblæ heilags anda á þessari geislandi öld.

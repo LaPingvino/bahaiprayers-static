@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10355 in Svenska'
-tags = ['lang-sv', 'bpn10355']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 för bahá’íerna som reser för att undervisa om tron. 
 O Du oförliknelige Gud! O Du konungarikets Herre! Dessa själar är Din himmelska armé. Bistå dem och gör dem segerrika med Dina högsta härskarors hjälp, så att var och en av dem må bli såsom ett regemente och erövra dessa länder med Guds kärlek och ljuset från gudomliga läror.

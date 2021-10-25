@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12099 in '
-tags = ['lang-104', 'bpn12099']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Kemuliaan bagi-Mu, Ya Tuhanku, Engkaulah yang telah mewujudkan segala benda tercipta melalui kekuatan perintah-Mu.
 

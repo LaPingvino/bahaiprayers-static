@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3562 in Norsk'
-tags = ['lang-no', 'bpn3562']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 Ære være deg, o verdens Herre og folkenes attrå, o du som er blitt åpenbar i det Største Navn, slik at visdommens og ytringens perler er kommet til syne fra muslingene i din kunnskaps veldige hav, og slik at den guddommelige åpenbarings himler er blitt prydet med lyset fra ditt åsyns gryende sol.
  

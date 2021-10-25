@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10797 in '
-tags = ['lang-93', 'bpn10797']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 *(Ova molitva se čita u Bahulahovom i u Babovom hramu. Obično se čita i prilikom obeležavanja godišnjica Njihovih rođenja i smrti.)
 

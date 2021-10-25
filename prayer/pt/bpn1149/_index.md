@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1149 in Português (BR)'
-tags = ['lang-pt', 'bpn1149']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, meu Deus! Tu és a minha Esperança e o meu Bem-Amado, o Alvo do meu desejo. Com grande humildade e inteira devoção, peço-te que me faças o minarete do Teu amor em Tuas plagas, a lâmpada do Teu conhecimento em meio às Tuas criaturas e o estandarte das divinas dádivas em Teu reino.
 Faze-me um dos que Te adoram, que se desprendem de tudo menos de Ti, se santificam das coisas transitórias deste mundo e se afastam das provocações emitidas pelas vozes das vãs fantasias.

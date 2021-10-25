@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3917 in Hrvatski'
-tags = ['lang-hr', 'bpn3917']
+tags = ['lang-hr', 'bpn-unsorted']
 +++
 O, Bože! U Tebi tražim utočište i prema Tvom znamenju upravljam svoje srce.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9976 in Kalaallisut'
-tags = ['lang-kl', 'bpn9976']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Naalagaq-aa! Ataasiussutsivit guuterpaluttup Orpia sukkasuumik ineriartorsinnaaqqujuk, taamaammat imerteruk Nuannaarnerpit ernganik puilasunik, Uppernarsaqqiinerpit guuterpaluttup saqqummernerisa saavanni inerititaqarlertillugu Illit nersorneqarnissannut qujamasuffigineqarnissannullu, Aterpit naalannartinneqarnissaanut Piviussutsivillu ilorliup ataasiussusiata unnersiutigineqarnissaanut Ilinnullu qinnuiginninnermik pilersitsinermik Kissaatigisaqarnerit malillugu, tassami tamakku tamarmik Pissaanerniimmata allamiunngitsorlu. 
 

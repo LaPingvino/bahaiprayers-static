@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4137 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn4137']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 O Miyaani Da'a'ntgi Lusndaamti sü gugweelksm laawksi ada so goy'p'm biyaalsi.and Nüün gu daanmsgit di£ na gatgyedn.        
 

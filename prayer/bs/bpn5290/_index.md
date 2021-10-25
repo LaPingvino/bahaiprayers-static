@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5290 in Bosanski'
-tags = ['lang-bs', 'bpn5290']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 *O tragacu za Istinom! Ako želiš da ti Bog otvori oči, trebaš se Bogu klanjati, moliti se, obatitii Mu se u ponoć, govoreći:
 

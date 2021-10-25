@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12015 in '
-tags = ['lang-102', 'bpn12015']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Uly şanly we Başarjaň Alla.
     Bu günler Syýam günleridir hem-de ynsanlar Eýesiniň Jomartlyk güneşiniň dogan Eýýamy. Nebsi kemeldip, ruhanalygy köpeldýändir. Ýamanlygy ýagşylyga öwrüp, jepany wepaga dönderýändir. Ynsan terbiýesi üçin ol iň ýagşy däri we iň uly dermandyr. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2288 in România'
-tags = ['lang-ro', 'bpn2288']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 El este Cel Tare, Cel ce Iartă, Cel Milostiv!
 O, Doamne Dumnezeul meu! Tu îi vezi pe slujitorii Tăi în abisul pieirii şi al erorii; unde e lumina călăuzirii Tale divine, o, Tu Dorinţă a lumii? Tu cunoşti neajutorarea şi slăbiciunea lor; unde e puterea Ta, o, Tu în a Cărui mână sunt puterile cerului şi ale pământului?

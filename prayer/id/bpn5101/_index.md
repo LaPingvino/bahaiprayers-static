@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5101 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5101']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Terpujilah Engkau, ya Rabi Tuhanku! Beri makanlah bayi ini dari susu kurnia dan kasih sayang- Mu yang mesra dan berilah kekuatan dari buah-buah pohon-pohon-Mu yang surgawi. Janganlah membiarkan dia diasuh oleh siapa pun kecuali Engkau, karena Engkau Sendirilah yang menciptakan dan memberi wujud kepadanya, melalui kekuatan kehendak-Mu dan kekuasaan-Mu yang berdaulat. Tiada Tuhan kecuali Engkau, Yang Maha Kuasa, Yang Maha Tahu.
 

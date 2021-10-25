@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12324 in '
-tags = ['lang-95', 'bpn12324']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Ave keatea a toku fanoanoa ne Tou maukoloa mo Tou kaimalie, O te Atua, toku Atua, kae fakaseai lele loa a toku manavase ne Tou nofoaiga-a-tupu mo Tou mafi.  E lavea mai ne Koe au, O toku Atua, mo oku mata e agai tonu kia Koe i se vaaitaimi a te amoga o te fanoanoa ko tanumia i luga ia au mai i feitu katoa.  Au e akai totuli kia Koe, O ko Koe Tela ko te Aliki o mea katoa, kae e siliga a te pulougia o mea katoa ko la e lavea mo te se-lavea, mai i Tou Igoa te la ko oti ne ta-taofi ne Koe a loto o agaaga ola o tagata, mo peau o te Vasa  Tou alofa-kaimalie mo te gali o te Fetu Ao o Tou maukoloa, ke lau atu au mo latou ko la e aunoa se mea ne mafai o kave keatea a olotou mata o fakasaga atu kia Koe, O ko Koe ko te Aliki o igoa katoa mot e Tufuga o lagi!  
   

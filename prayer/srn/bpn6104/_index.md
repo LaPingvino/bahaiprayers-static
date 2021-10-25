@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6104 in Sranan Tongo'
-tags = ['lang-srn', 'bpn6104']
+tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##OVERLEDENEN 
 O mijn God! O Gij, vergever van zonden, schenker van gaven, verdrijver van leed! Waarlijk, ik smeek U de zonden te vergeven van hen die het stoffelijk gewaad hebben afgelegd 

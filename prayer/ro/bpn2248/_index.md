@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2248 in România'
-tags = ['lang-ro', 'bpn2248']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Lăudat şi slăvit eşti Tu, O, Doamne Dumnezeul meu! Cum aş putea vorbi eu de Tine când sunt sigur că nici o făptură oricât de mare ar fi înţelepciunea ei, nu Ţi poate preamări Numele aşa cum se cuvine; şi nici pasărea inimii omeneşti, oricât de mare i ar fi dorul, nu poate nădăjdui să se înalţe în cerul maiestăţii şi cunoaşterii Tale.
 

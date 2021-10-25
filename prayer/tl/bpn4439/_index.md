@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4439 in Filipino'
-tags = ['lang-tl', 'bpn4439']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Tulutan Mo, O aking Diyos, na makalapit ako sa Iyo, at makapanahan sa loob ng saklaw ng Iyong liwasan, sapagkat ang pagkalayo sa Iyo ay halos ikinawasak ko. Pagpahingahin Mo ako sa lilim ng mga bagwis ng Iyong biyaya dahil sa ang apoy ng pagkawalay ko sa Iyo ay tumunaw sa pusong nasa loob ko. Ilapit Mo ako sa ilog na siyang tunay na buhay, sapagkat ang aking kaluluwa ay labis na nauuhaw sa walang tigil na paghahanap sa Iyo. Ang aking mga daing O aking Diyos, ay naghahayag ng kapaitan ng aking pagdurusa, at ang mga luhang itinigis ko ay patunay ng aking pag-ibig sa Iyo.
 

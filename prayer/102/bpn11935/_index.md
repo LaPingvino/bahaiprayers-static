@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11935 in '
-tags = ['lang-102', 'bpn11935']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’Alla.
     Eý Perwerdigär! Seniň dergähiň bu bendesiniň ene-atasyny Rähmet deňziňde gaýdyr, günäden, hatadan tämiz we päk eýle. Geçirim et, bagyşla, rehim eýle, ýalka. Sensiň Ýalkaýjy. Sensiň Bagyşlaýjy. Sensiň köp-köp baýlyk beriji.

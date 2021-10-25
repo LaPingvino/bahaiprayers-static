@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5578 in 日本語'
-tags = ['lang-ja', 'bpn5578']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 ##故人のための必須の祈り
  

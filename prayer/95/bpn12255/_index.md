@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12255 in '
-tags = ['lang-95', 'bpn12255']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 E lavea mai ne Koe, O toku Atua, ko te Fetu-Ao o Tau Muna e maina mai i luga i te sikulagi o Tau fakai-falepuipui, pela loa mai i loto i pui a Ia tela ko te Faifekau o Koe totino mo te Aso-Malulu o te mainaaga o Tau faka-tasitasi ko oti ne apai aka a Tena leo kae fai atu a Ou tavaeega.  A manogi gali o Tou alofa ko agiagi mai i luga i Ou fakai lasi kae ko oti ne siomia a latou katoa i Tou maalo.  
   

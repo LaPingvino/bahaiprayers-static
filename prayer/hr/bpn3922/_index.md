@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3922 in Hrvatski'
-tags = ['lang-hr', 'bpn3922']
+tags = ['lang-hr', 'bpn-unsorted']
 +++
 Hvaljeno neka bude ime Tvoje, o, moj Bože i Bože svih stvari, moja Slavo i Slavo svih stvari, moja Čežnjo i Čežnjo svih stvari, moja Snago i Snago svih stvari, moj Kralju i Kralju svih stvari, moj posjedniče i Posjedniče svih stvari, Pokretaču moj i Pokretaču svih stvari! Ne daj, preklinjem te, da budem lišen Tvojih nježnimh milosti, niti da budem odbačen daleko od obala Tvoje blizine.
 

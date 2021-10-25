@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6395 in Cymraeg'
-tags = ['lang-cy', 'bpn6395']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 Canmoler Dydi, O Arglwydd fy Nuw!  Tystiolaethaf i’th ddyrchafiad o dragwyddoldeb yn Dy Oruchaf urddas a’th allu, ac a fyddi hyd dragwyddoldeb yn Dy nerth rhagorol a’th ogoniant.  Ni all neb rwystro Dy ddiben yn nheyrnasoedd daear na nef; ni all neb drwy deyrnasoedd datguddiad na chreadigaeth Dy drechu.  Ti a wnei fel ag y mynni yn ôl Dy orchymyn; ac yn ôl nerth Dy frenhiniaeth, Ti a lywodraethi fel y dymuni.
 

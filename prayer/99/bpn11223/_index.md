@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11223 in '
-tags = ['lang-99', 'bpn11223']
+tags = ['lang-99', 'bpn-unsorted']
 +++
 Utukufu uwe Kwako Ee Mungu, kwa ajili ya Ufunuo wa Pendo lako kwa wanadamu!  Ee Ewe Uliye Uzima na Mwanga wetu, ongoza watumishi Wako katika njia Yako, ututajirishe ndani Yako na kuwa huru kwa yote ila Wewe tu. 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2627 in Magyar'
-tags = ['lang-hu', 'bpn2627']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Istenem, ó, Istenem! Egyesítsd szolgáid szívét, és tárd fel nékik a Te nagy célodat! Engedd, hogy kövessék parancsolataidat, és tartsanak ki a Te törvényed mellett! Segítsd őket, ó, Isten, igyekezetükben, s adj erőt nékik, hogy szolgálhassanak Téged!
 

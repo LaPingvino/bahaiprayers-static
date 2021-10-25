@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8160 in Dansk'
-tags = ['lang-da', 'bpn8160']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Lad dem, der spreder Guds vellugte, fremsige denne bøn hver morgen.
 

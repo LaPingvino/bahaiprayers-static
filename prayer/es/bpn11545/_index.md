@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11545 in Español'
-tags = ['lang-es', 'bpn11545']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Oraciones para la enseñanza tomadas de las Tablas del Plan Divino
 ##Reveladas para los bahá’ís de los Estados Unidos y Canadá

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9304 in Français'
-tags = ['lang-fr', 'bpn9304']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Prières pour le jeûne
 

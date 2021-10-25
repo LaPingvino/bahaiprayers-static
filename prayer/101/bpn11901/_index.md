@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11901 in '
-tags = ['lang-101', 'bpn11901']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 Boli ku romin aman damai.
 Boli ku romin pirami duoh pimunuas

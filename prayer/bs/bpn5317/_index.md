@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5317 in Bosanski'
-tags = ['lang-bs', 'bpn5317']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 Bože moj, Predmetu mog obožavanja, Cilju moje čežnje, Svedarežljivi, Najsaosjećajniji! Zivot od Tebe potiče i sva snaga počiva nadohvat Tvoje moći. Onaj koga Ti uzvisiš je iznad anđela i doseže ovaj položaj: ‚Zaista, podigli smo ga do mjesta u visini!‛, a onaj koga Ti poniziš je niži od prašine, niži od ničega.
 O Božansko proviđenje! Iako smo nepokorni, grešni i neumjereni, ipak od Tebe tražimo ‚sjedište istine‛ i žudimo da ugledamo lice Svemogućeg Vladara. Na Tebi je da zapovijedaš; sva vrhovna vlast Tebi pripada, a kraljevstvo moći klanja se Tvojoj naredbi. Sve što Ti učiniš je čista pravda i stvarna bit milosti. Jedan bljesak iz Sjaja Tvog Imena, Svemilosrdnoga, je dovoljan da otjera i sa svijeta izbriše svaki tračak grijeha, a samo jedan dašak iz lahora Dana Tvoje Objave je dovoljan da cijelo čovječanstvo zaodjene novim ruhom.

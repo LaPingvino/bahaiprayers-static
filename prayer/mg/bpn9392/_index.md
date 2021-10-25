@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9392 in Malagasy'
-tags = ['lang-mg', 'bpn9392']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitro ô! Ry Andriamanitro! Marina tokoa, miantso Anao aho sy mitalaho eo an-Tokonanao masina, mangataka Aminao mba hampidina ny Fahasoavanao rehetra amin’ireto fanahy ireto. Tendreo manokana izy ireo mba handray ny Fankasitrahanao sy ny Fahamarinanao.
 Ry Tompo! Ampiraiso sy ampifamatory ireo fo, ampifanaraho ireo fanahy, ary ampiredaredao ireo fanahy avy amin’ireo marikin’ny Fahamasinanao sy ny maha’Iray Anao. Ry Tompo! Aoka ho miramirana ireo endrika ireo amin’ny fahazavan’ny Firaisanao. Atanjaho ny valahan’ireo mpanomponao amin’ny fanompoana ny Fanjakanao. 

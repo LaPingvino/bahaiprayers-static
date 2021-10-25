@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9729 in Nederlands'
-tags = ['lang-nl', 'bpn9729']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 O Gij, Wiens gelaat het voorwerp van aanbidding is van allen die naar U smachten, Wiens tegenwoordigheid de hoop is van hen die Uw wil geheel zijn toegewijd, Wiens nabijheid het verlangen is van allen die Uw hof zijn genaderd, Wiens aangezicht de metgezel is van hen die Uw waarheid hebben erkend, Wiens Naam de drijfveer is van de zielen die ernaar hunkeren Uw gelaat te aanschouwen, Wiens stem het ware leven is van Uw minnaars, de woorden uit Wiens mond als levend water zijn voor allen in de hemel en op aarde!
 Ik smeek U, bij het onrecht dat Gij hebt geleden en het kwaad dat U is aangedaan door scharen onrechtplegers, om uit de wolken van Uw mededogen tot mij neer te zenden hetgeen mij zal zuiveren van al wat niet van U is, dat ik waardig mag zijn U te prijzen en U lief te hebben.

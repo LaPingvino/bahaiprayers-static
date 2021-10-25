@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5133 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5133']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Dibesarkanlah nama-Mu, ya Tuhanku, karena
 Engkau telah menjelmakan Hari yang merupakan Raja dari Semua Hari, Hari yang telah Engkau umumkan kepada Orang-orang pilihan-Mu dan para Rasul-Mu dalam Loh-loh-Mu yang unggul, Hari di mana Engkau telah memancarkan cahaya kemuliaan semua nama-Mu pada segala yang diciptakan. Besarlah berkatnya barangsiapa yang telah meng-arahkan dirinya pada-Mu, dan memasuki kehadiran-Mu dan menangkap nada- nada suara-Mu.

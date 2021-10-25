@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5119 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5119']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Dialah Tuhan!
 

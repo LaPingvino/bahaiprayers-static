@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7915 in Italiano'
-tags = ['lang-it', 'bpn7915']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 O Dio, mio Dio! Mi sono volto pentito verso di Te e, in verità, Tu sei il Perdonatore, il Compassionevole.
 O Dio, mio Dio! Sono ritornato a Te e, in verità, Tu sei Colui Che Sempre Perdona, il Benevolo. 

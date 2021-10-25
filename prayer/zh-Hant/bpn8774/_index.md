@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8774 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8774']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 *每日吟誦一次
 *凡吟誦本禱文者須起身站立，面向上帝；在肅立時須從右向左環視，有如企盼主——至仁者、憐憫者——之慈悲。然後吟誦：

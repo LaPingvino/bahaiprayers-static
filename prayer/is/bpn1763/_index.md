@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1763 in Íslenska'
-tags = ['lang-is', 'bpn1763']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Í nafni Guðs, hins aldna, hins æðsta.
 Sannlega brenna hjörtu hinna hreinlunduðu í eldi aðskilnaðar: Hvar er glampinn af ljósi ásýndar Þinnar, ó ástvinur veraldanna?

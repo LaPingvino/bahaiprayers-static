@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5795 in Català'
-tags = ['lang-ca', 'bpn5795']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glorificat siguis Tu, oh Déu meu! Et dono gràcies per haver-me fet conèixer a Aquell qui és l’Aurora de la Teva misericòrdia, l’Alba de la Teva Gràcia i el Receptacle de la Teva Causa. T’imploro pel teu Nom, pel qual els rostres dels qui són prop Teu han empal·lidit i els cors d’aquells què estan consagrats a Tu han iniciat el vol cap a Tu, que em permetis agafar-me a la Teva corda en tot temps i en tota condició, estar lliure de tota afecció a qualsevol fora de Tu i pugui mantenir els meus ulls dirigits cap a l’horitzó de la Teva Revelació i complir el que Tu has prescrit en les Teves Taules.
 

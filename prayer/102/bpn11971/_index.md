@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11971 in '
-tags = ['lang-102', 'bpn11971']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 *Jan dili bilen jahan Mahbubyny şeýdip çagyr: 
 

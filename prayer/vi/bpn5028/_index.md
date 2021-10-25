@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5028 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5028']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Lửa Đức Tin
 

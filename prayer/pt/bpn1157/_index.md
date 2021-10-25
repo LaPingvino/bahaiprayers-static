@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1157 in Português (BR)'
-tags = ['lang-pt', 'bpn1157']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ele é Deus! Ó Deus, meu Deus! Estes são servos atraídos em Teus dias pelo perfume da Tua santidade, acesos com a chama que resplandece em Tua santa árvore, atendendo à Tua voz, expressando-Te louvor, despertados pela Tua brisa, animados pelas Tuas doces fragrâncias, contemplando os Teus sinais, compreendendo os Teus versículos, escutando as Tuas palavras, acreditando na Tua Revelação e confiantes da Tua misericórdia. Os seus olhos, ó Senhor, fitam o Teu reino de fulgente glória, e as suas faces volvem-se para o Teu domínio nas alturas; os seus corações pulsam de amor pela Tua beleza radiante e gloriosa; as suas almas consomem-se com a chama do Teu amor, ó Senhor deste mundo e do vindouro, as suas vidas fervem com o ardor da sua ânsia por Ti, e as suas lágrimas vertem por Tua causa.
 Guarda-os na fortaleza da Tua proteção e segurança, preserva-os com o Teu cuidado vigilante, lança sobre eles o olhar da Tua benevolência e misericórdia, e fá-los sinais da Tua divina unidade, manifestos por todas as regiões. Sejam como estandartes do Teu poder, flutuando sobre as Tuas mansões de grandeza, ou como lâmpadas brilhantes, ardendo com o óleo da Tua sabedoria nas esferas da Tua guia. Sejam eles aves do jardim do Teu conhecimento, chilreando nos mais altos ramos, em Teu paraíso acolhedor, e leviatãs do oceano da Tua generosidade, mergulhando nas profundezas insondáveis, graças à Tua suprema mercê.

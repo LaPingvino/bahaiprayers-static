@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11712 in '
-tags = ['lang-100', 'bpn11712']
+tags = ['lang-100', 'bpn-unsorted']
 +++
 Yā Allāna, Ubangijina! Nī bāwanka ne, kuma ɗan bāwanka. Nā bar mabartata tun assuba, a lōkacin da tarmāmuwar kaɗaitakarka take ɓullōwa a cikin yardarka, tana wātsa haskenta a sararin dūniya gabāɗaya, bisa umurnin da ka bāda a cikin littāfin ƙaddararka. 
 Yabo ya tabbata a garēka, yā Allāna, a bisa abunda muka wāye mā na ɗaukakar hasken saninka. Ka saukar mana, yā Ubangiji, da abunda zā ya fadaƙar da mu, ya kauce mu da duk wani abun da bā kai nē ba, kuma ya kauce mu da duk wata dōgara in bā garēka ba. Ka tabbatar mā duk waɗanda nike ƙauna, yan uwāna maza da māta, da nī kaina, alhērin dūniya da na lāhira.

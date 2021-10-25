@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6415 in Cymraeg'
-tags = ['lang-cy', 'bpn6415']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 Dy enw Di yw fy iachâd O fy Nuw, a choffadwriaeth amdanat Ti yw fy meddyginiaeth. Agosrwydd atat Ti yw fy ngobaith, a chariad atat Ti yw fy nghydymaith. Dy drugaredd tuag ataf fi yw fy iachâd a’m cymorth yn y byd hwn a’r byd i ddyfod.  Tydi, yn wir, wyt yr Holl Haelionus, a’r Holl Wybodol, a’r Holl Ddoeth.
 

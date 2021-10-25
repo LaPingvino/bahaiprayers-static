@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3717 in Eesti'
-tags = ['lang-et', 'bpn3717']
+tags = ['lang-et', 'bpn-unsorted']
 +++
 -Bahá’u’lláh
 

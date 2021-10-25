@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9290 in Français'
-tags = ['lang-fr', 'bpn9290']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô Dieu, mon Dieu, comment puis-je préférer le sommeil, alors que l’éloignement tient éveillés ceux qui aspirent à toi ? Et comment puis-je me reposer tandis que les âmes de ceux qui t’aiment souffrent cruellement de demeurer loin de ta présence ?
 Ô mon Seigneur, j’ai remis mon esprit et tout mon être dans la main droite de ta puissance et de ta protection. Par ton pouvoir, je pose ma tête sur l’oreiller et je la relève selon ta volonté et ton bon plaisir. Tu es, en vérité, le Protecteur, le Gardien, le Tout-Puissant, l’Omnipotent.

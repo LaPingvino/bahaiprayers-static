@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7476 in Polski'
-tags = ['lang-pl', 'bpn7476']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Kiedykolwiek wkraczacie do izby narad, odmawiajcie tę modlitwę z sercem tętniącym Bożą miłością i językiem wolnym od wszystkiego z wyjątkiem wspominania Boga, aby Wszechmogący łaskawie wspomagał was w osiągnięciu największego zwycięstwa.
     

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2356 in Latviešu'
-tags = ['lang-lv', 'bpn2356']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Lai slava Tev, ak Dievs, mans Kungs! Tu redzi un zini, ka es esmu aicinājis Tavus kalpus tiekties tik pēc Tavām veltēm, ka es esmu licis viņiem ievērot vien to, ko Tu viņiem esi noteicis Savā viedajā Grāmatā, kas nonākusi līdz mums pēc Tavas neizdibināmās Gribas un negrozāmā Nodoma.
 Es nevaru izteikt ne vārda, ak mans Dievs, ja Tu man to neatļauj, un nekur es nespēju doties bez Tava vēlējuma. Ak mans Dievs! Savas varenības spēkā Tu esi mani radījis un man žēlīgi vēlējis Tavu Mācību paust, ko darot, man ir nācies tādus pārbaudījumus ciest, ka necēlās man mēle Tevi teikt un Tavu slavu daudzināt.

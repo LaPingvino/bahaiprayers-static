@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4730 in Azərbaycan'
-tags = ['lang-az', 'bpn4730']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ey mənim Allahım! Ey mənim Allahım! Doğurdan da, Səni çağırıram və Sənə iltimas edirəm, Sənin astananda diləyirəm ki, Sənin bütün mərhəmətin bu ruhların üzərinə yağsın. Onları Öz lütf və həqiqətin üçün hazırla.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7413 in Polski'
-tags = ['lang-pl', 'bpn7413']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Pozwól mi, o mój Boże, zbliżyć się do Ciebie i przebywać w otoczeniu Twojego dworu, gdyż oddalenie od Ciebie omalże nie wyniszczyło mnie całkowicie. Spraw, abym spoczywał w cieniu skrzydeł Twojej łaski, gdyż płomień rozłąki z Tobą stopił moje serce. Przybliż mnie do rzeki, która jest prawdziwym życiem, gdyż duszę moją męczy pragnienie w bezustannym poszukiwaniu Ciebie. Moje westchnienia, o mój Boże, głoszą gorycz mojej udręki, a łzy, które wylewam, są świadectwem miłości do Ciebie.
     

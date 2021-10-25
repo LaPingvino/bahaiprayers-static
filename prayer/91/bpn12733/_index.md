@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12733 in '
-tags = ['lang-91', 'bpn12733']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 *(Naw-Rúz meh hari keterubah ba taun Bahá’í)
 

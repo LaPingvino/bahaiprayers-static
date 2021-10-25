@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6854 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn6854']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 *"Blessed is the Spot"   in the Sliammon Language
 

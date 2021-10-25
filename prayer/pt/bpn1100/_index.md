@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1100 in Português (BR)'
-tags = ['lang-pt', 'bpn1100']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Aquele que viajar a Diferentes Lugares para Ensinar, que leia esta Súplica nas Montanhas, no Deserto, na Terra e no Mar!Ó Deus! Ó Deus! Tu vês a minha fraqueza, a minha humildade e a submissão entre as Tuas criaturas; no entanto, confiando em Ti, levantei-me para difundir os Teus ensinamentos entre os Teus servos fortes, dependendo do Teu poder e da Tua grandeza.
 Ó Senhor! Sou uma ave de asas partidas e desejo voar nesse Teu espaço ilimitado. Como será possível, senão através da Tua bondade e graça, da Tua confirmação e ajuda?

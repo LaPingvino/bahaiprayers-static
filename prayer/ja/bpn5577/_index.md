@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5577 in 日本語'
-tags = ['lang-ja', 'bpn5577']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 ##レズワンの祈り
  

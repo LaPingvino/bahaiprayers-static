@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4706 in Azərbaycan'
-tags = ['lang-az', 'bpn4706']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Yalvarıram, bağışla məni, Ey mənim Allahım və Özün bəndələrinin Sənə necə üz tutmalarını istədiyin kimi, Sənin əfvini rica edirəm. Yalvarıram Sənə, Rəbliyinə layıq olan tərzdə bizim günahlarımızı sil və Öz əzəmətinin şərəfinə layiq və qüdrətinin cəlalına yaraşan şəkildə məni, valideynlərimi və Sənin məhəbbət məkanına daxil olmuş saydığın kəsləri bağışla.
 

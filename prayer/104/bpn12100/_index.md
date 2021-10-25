@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12100 in '
-tags = ['lang-104', 'bpn12100']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhan! Bolehkanlah semua manusia di bumi untuk memasuki Syurga Akidah-Mu, agar tiada benda tercipta kekal jauh daripada batas keredaan-Mu.
 

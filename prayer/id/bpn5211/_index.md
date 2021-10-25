@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5211 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5211']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Terpujilah Engkau, ya Rabi Tuhanku! Aku memohon kepada-Mu, demi Wahyu ini, yang melaluinya
 kegelapan diubah menjadi cahaya, dan Agama yang diturunkan terus menerus telah didirikan, dan Loh yang Tercatat telah dinyatakan, dan Gulungan Yang Terentang telah dibentangkan, agar menurunkan kepadaku dan kepada mereka yang dekat kepadaku, apa yang akan memungkinkan kami membubung ke langit kemuliaan-Mu yang luhur dan apa yang akan membersihkan kami dari noda keragu-raguan yang menghalangi mereka yang curiga, dari memasuki kemah kesatuan-Mu.

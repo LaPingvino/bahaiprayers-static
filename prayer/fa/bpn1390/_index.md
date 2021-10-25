@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1390 in فارسی'
-tags = ['lang-fa', 'bpn1390']
+tags = ['lang-fa', 'bpn-unsorted']
 +++
 صلات صغير
  *صلات صغير كه از زوال بزوال تلاوت ميشود

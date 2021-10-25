@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7489 in Suomi'
-tags = ['lang-fi', 'bpn7489']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani ja Mestarini! Olen palvelijasi ja palvelijasi poika. Olen noussut vuoteeltani tähän aamun sarastukseen, kun Sinun ykseytesi päiväntähti on loistanut tahtosi päivänkoitteesta ja valanut sädeloistoansa yli koko maailman sen mukaisesti, mitä säädöksesi kirjoissa oli määrätty.
 Ylistys olkoon Sinulle, oi Jumalani, että olemme heränneet Sinun tietosi valon loisteeseen. Suo siis, oi Herrani, meille sitä, mikä tekee meidät kykeneviksi luopumaan kaikesta paitsi Sinusta ja vapauttaa meidät kaikesta kiintymyksestä mihinkään muuhun kuin Sinuun. Suo myös minulle ja rakkailleni, sukulaisilleni, niin miehille kuin naisille, sekä tämän että tulevan maailman hyvyyttä. Oi Sinä koko luomakunnan Rakastettu ja koko maailmankaikkeuden Kaivattu, varjele sitten meitä pettämättömällä suojeluksellasi niiltä, jotka olet tehnyt kuiskuttavan  paholaisen ilmentymiksi ja jotka ihmisten sydämessä kuiskuttavat. Voimallinen olet Sinä tekemään mielesi mukaan. Sinä totisesti olet Kaikkivaltias, Apu hädässä, Itseoleva.

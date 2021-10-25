@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10867 in '
-tags = ['lang-95', 'bpn10867']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Te Aliki! Matou e faka-alofa, faka-mealofa mai matou i Ou alofaaga; mativa, tuku ifo kia matou se tufaga mai i te vasa o Tou maumea; e oge mea, faka-tofu mai matou ne Koe; ko tafalalo kii a te olaaga, aumai kia matou a Tou mana.  A manu o te ea mo manu fekai o te laukele e maua faeloa a olotou meakai i aso taki tasi mai ia Koe a ko tino katoa e mai lalo i Tau kilokiloga mo Tou kaimalie atafai.
      Sa liakina a ia vaaivai tenei mai i Tou alofa matagofie kae mai i Tou Mafi avatu se fesoasoani ki te agaaga vaaivai tenei mai i Tou maumea.

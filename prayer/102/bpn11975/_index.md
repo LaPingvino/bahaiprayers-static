@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11975 in '
-tags = ['lang-102', 'bpn11975']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’Alla.
     Eý Mähriban Taňrym! Boýdan-başa günäli biz. Seniň ýoluň tozy biz. Her säher aglap seni çagyrýarys.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7536 in Suomi'
-tags = ['lang-fi', 'bpn7536']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Jumalani! Oi Jumalani! Olen palvelija, joka Sinuun viehättyneenä lähestyy nöyränä ykseytesi ovea ja rukoilee armosi valtakuntaa.
 Oi Jumalani, salli minun olla täysin Sinun, mielessäni vain ajatuksia Sinusta, olla Sinun rakkautesi tulesta syttynyt ja irrottautunut kaikesta muusta paitsi Sinusta, niin että voisin työskennellä asiasi hyväksi, jakaa viisauttasi, välittää tietoasi ja levittää tuntemisesi riemua.

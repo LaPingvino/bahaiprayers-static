@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11414 in தமிழ்'
-tags = ['lang-ta', 'bpn11414']
+tags = ['lang-ta', 'bpn-unsorted']
 +++
 *மத்திய மாநிலங்களிலுள்ள பஹாய்களுக்காகவெளிப்படுத்தப்பட்டது
 

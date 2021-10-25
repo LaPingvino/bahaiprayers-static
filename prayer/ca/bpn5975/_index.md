@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5975 in Català'
-tags = ['lang-ca', 'bpn5975']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu meu! La lloança sia per Tu per haver encès el foc de l’amor diví en el Sagrat Arbre què està al cim de la muntanya més elevada: aquest Arbre què “no és de l’est ni de l’oest”, aqueix foc què cremà fins que la seva flama es remuntà fins al Concurs de dalt i la llum de guia i exclamaren: “Veritablement hem percebut un foc al vessant de la Muntanya del Sinaí”.
 Oh Déu, Déu meu! Augmenta aquest foc, amb cada dia que passa, fins que la seva flamarada posi en moviment a tota la terra. Oh Tu, Senyor meu! Encén la llum del Teu amor en tots els cors, insufla a les ànimes dels homes l’esperit del Teu coneixement, alegra els seus pits amb els versicles de la Teva unicitat. Crida a la vida a aquells què habiten a les tombes, amonesta els orgullosos, fes que la felicitat abraci el món sencer, vessa les Teves aigües cristal·lines i fes circular en l’assemblea dels esplendors manifestos aquella copa que està “trempada a la font de la camfora”.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12023 in '
-tags = ['lang-102', 'bpn12023']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Gadym we Ägirt uly bolan Allanyň Ady bilen. 
     Dogrudanam päk ýürekliler aýralyk odunda ýandy. Seniň didar ýalkymyň şöhle saçyşy nirede, Eý älemleriň Mahbuby?

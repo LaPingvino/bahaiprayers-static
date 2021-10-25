@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6657 in 한국어'
-tags = ['lang-ko', 'bpn6657']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 모든 종들이 이 서한을 읽고 깊이 생각해 본다면 그들의 핏줄 속 에 세계들을 활활 타게 할 불씨가 지펴질 것이니라
 

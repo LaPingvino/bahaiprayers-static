@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11693 in Español'
-tags = ['lang-es', 'bpn11693']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 Alabado seas, oh mi Dios, por haber ordenado Naw-Rúz como festividad para aquellos que han observado el ayuno por amor a Ti y se han abstenido de todo lo que Te es detestable. Permite, oh mi Señor, que el fuego de Tu amor y el calor producido por el ayuno ordenado por Ti les enardezca en Tu Causa y les haga ocuparse de Tu alabanza y Tu recuerdo.
 Ya que los has adornado, oh mi Señor, con el ornamento del ayuno prescrito por Ti, adórnalos también con el ornamento de Tu aceptación, mediante Tu gracia y munífico favor, pues las acciones de las personas dependen por entero de Tu complacencia y están condicionados a Tu voluntad. Si considerases a quien ha quebrantado el ayuno como si lo hubiese observado, esa persona sería con-tada entre las que han observado el ayuno desde la eternidad. Y, si decretases que aquel que ha observado el ayuno lo ha quebrantado, esa persona sería considerada entre las que han hecho que el Manto de Tu Revelación sea manchado de polvo y han sido alejadas de las aguas cristalinas de esta Fuente viva.

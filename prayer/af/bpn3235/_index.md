@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3235 in Afrikaans'
-tags = ['lang-af', 'bpn3235']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Lof sy aan U, o my God! Hierdie is U dienaars wat na die geure van U barmhartigheid aangetrek is, wat aan die brand gesteek is deur die vuur wat in die boom van U enkelvoudigheid brand, en wie se oë helder gemaak is deur die luister van die lig te sien wat in die die Sinaï van U eenheid skyn.
 

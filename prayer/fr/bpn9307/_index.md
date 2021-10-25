@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9307 in Français'
-tags = ['lang-fr', 'bpn9307']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Naw-Rúz
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10815 in '
-tags = ['lang-94', 'bpn10815']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 *Pemphero lonenedwa potseka msonkhano wa Bungwe la Uzimu. 
 

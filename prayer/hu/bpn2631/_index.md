@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2631 in Magyar'
-tags = ['lang-hu', 'bpn2631']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Istenem! Te, a vétkek Megbocsátója, az Adakozó, a megpróbáltatások Elhárítója!
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12735 in '
-tags = ['lang-91', 'bpn12735']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Datai meh kita begelumu dalam pengaga ti tulin, lalu dikena ngepunka aum, sebut kita sambiang tu:
  O Nuan Tuhan ke Perintah Petara! Taja pen tubuh kami begelumu ditu, tang ati kami tebuka ditarit ulih pengerindu Nuan, taja pia kami mega udah ditaban ulih panchar perenching mua Nuan. Taja kami tu lemah, kami nganti pengayan penegap enggau kuasa Nuan. Taja kami tu umang, nadai reta tauka daya, agi meh kami ngambi pengaya ari tibang reta Perintah Nuan. Taja kami tu setitik, agi meh kami ngauk ari penalam tasik Nuan. Taja pen kami tu baka debu, agi meh kami bekebelik dalam mulia bebendang Matahari Nuan.

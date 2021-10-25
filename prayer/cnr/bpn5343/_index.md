@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5343 in Montenegrin'
-tags = ['lang-cnr', 'bpn5343']
+tags = ['lang-cnr', 'bpn-unsorted']
 +++
 O moj Bože! O Ti, koji praštaš grijehe! Darodavče! Ti Koji odaginješ patnje!
 Najiskrenije Ti se molim da oprostiš grijehe onima koji su napustili svoje tjelesno ruho i uznijeli se u duhovni svijet.

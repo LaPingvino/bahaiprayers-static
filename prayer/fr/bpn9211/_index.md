@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9211 in Français'
-tags = ['lang-fr', 'bpn9211']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, mon Maître, je suis ton serviteur et le fils de ton serviteur. J’ai quitté ma couche dès l’aurore, alors que le Soleil de ton unité apparaissait à l’aube de ta volonté et répandait son rayonnement sur le monde entier, comme l’ordonnent les livres de ton décret.
 Ô mon Dieu, loué sois-tu ! Tu nous as éveillés aux splendeurs de la lumière de ta connaissance. 

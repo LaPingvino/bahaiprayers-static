@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2236 in România'
-tags = ['lang-ro', 'bpn2236']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Tu Dumnezeule milostiv!
 O, Tu Care eşti tare şi puternic!

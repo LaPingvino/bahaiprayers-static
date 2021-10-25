@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2608 in Magyar'
-tags = ['lang-hu', 'bpn2608']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 *Elmondandó minden nap reggel, délben és este
 *Ki imádkozni kíván, mossa meg kezeit, és miközben mossa, mondja:

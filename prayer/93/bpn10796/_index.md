@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10796 in '
-tags = ['lang-93', 'bpn10796']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 U ime Boga, Najdrevnijega, Najvećega.
 

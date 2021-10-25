@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3558 in Norsk'
-tags = ['lang-no', 'bpn3558']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 Lovpriset være ditt navn, o min Gud, for at du har åpenbart den Dag som er dagenes konge, den Dag som du forkynte for dine utvalgte og dine profeter i dine ypperste tavler, den Dag da du kastet glansen av alle dine navns herlighet over alle skapte ting. Storlig velsignet er hver den som har vendt seg mot deg, og trådt inn i ditt nærvær, og hørt din røst tale.
  

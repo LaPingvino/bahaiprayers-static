@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2311 in România'
-tags = ['lang-ro', 'bpn2311']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 ##Rugăciunea lungă de însănătoşire
 El este Tămăduitorul, Cel Ce Ajunge, Ajutorul, Cel Atotiertător, Cel Atotmilostiv.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8373 in Íslenska'
-tags = ['lang-is', 'bpn8373']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Sæll er staðurinn og húsið
 og svæðið og borgin

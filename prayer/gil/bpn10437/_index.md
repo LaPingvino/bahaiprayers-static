@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10437 in Kiribati'
-tags = ['lang-gil', 'bpn10437']
+tags = ['lang-gil', 'bpn-unsorted']
 +++
 Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada 
 O Ngkoe te Atua ae akea Kabotauana, O Ngkoe Uean te Abanuea!  Tamnei aikai, bon kaain Am taanga ni buaka ni karawa.  Buokia ao n raonaki irouia kaain te Runga mai Ieta, anganiia te tokanikai bwa aonga n riki n tatabemaniia nako bwa ai aron te taanga ni buaka man tauu aba aikai rinanon Ana tangira te Atua ao kaotanakoan taian reirei n tamnei.  

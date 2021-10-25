@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6214 in Hawaiian'
-tags = ['lang-haw', 'bpn6214']
+tags = ['lang-haw', 'bpn-unsorted']
 +++
 ##Pili'uhane he ˇAno
 *Spiritual Qualities

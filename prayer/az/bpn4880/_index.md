@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4880 in Azərbaycan'
-tags = ['lang-az', 'bpn4880']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 *Əlavə Günlər, Fevralın 26-dan Martın 1-dək, hər iki tarix daxil olmaqla, Orucluğa hazırlaşmaq gunləri, qonaqpərvərlik günləri, xeyriyyə və hədiyyələr bağışlamaq günləridir
 

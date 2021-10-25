@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2860 in Shqip'
-tags = ['lang-sq', 'bpn2860']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 Ai është Shëruesi, i Mjaftueshmi, Ndihmuesi,
 Ai që Fal Gjithçka, Mëshirëploti.

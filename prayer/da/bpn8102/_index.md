@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8102 in Dansk'
-tags = ['lang-da', 'bpn8102']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 O Herre, min Gud og min tilflugt i min ulykke! Mit skjold og mit ly i min sorg! Mit asyl og mit fristed i nødens stund og i min ensomhed - min ledsager! Min trøst i smerten og i min forladthed en kærlig ven! Den der borttager lidelsen i mine sorger og den, der tilgiver mine synder!
 

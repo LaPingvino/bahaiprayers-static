@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8973 in اُردُو'
-tags = ['lang-ur', 'bpn8973']
+tags = ['lang-ur', 'bpn-unsorted']
 +++
 اجتماعی مناجات
 

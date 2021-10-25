@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12134 in '
-tags = ['lang-104', 'bpn12134']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Engkau Tuhan Yang Tiada Bandingan! Ya Engkau Tuhan Kerajaan! Jiwa-jiwa ini adalah angkatan tentera syurgawi-Mu. Bantulah mereka, dan dengan sekumpulan Angkatan Tertinggi, jadikanlah mereka berjaya agar setiap daripada mereka dapat menjadi bagaikan satu rejimen dan menakluki negara-negara ini dengan cinta Tuhan dan kecemerlangan ajaran-ajaran ilahi.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6387 in Cymraeg'
-tags = ['lang-cy', 'bpn6387']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 Pa fodd y gallaf gysgu, O Dduw, fy Nuw, pan fo llygaid y rhai a hiraethant amdanat yn effro oherwydd eu hymnieulltuaeth oddi wrthyt; a pha fodd y gallaf orwedd i orffwys pan fo eneidiau Dy anwyliaid yn eu pellter oddi wrthyt?
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8918 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8918']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 任何為傳導而旅行各地者，在跨越高山、沙漠、陸地、海洋時皆應詳讀這一禱文。
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7565 in Suomi'
-tags = ['lang-fi', 'bpn7565']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Hän on Jumala!
 Oi Herra minun Jumalani! Oi Sinä heikkojen auttaja, köyhien tuki ja puoleesi kääntyvien avuttomien pelastaja.

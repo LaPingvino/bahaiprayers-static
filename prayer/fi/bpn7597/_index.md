@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7597 in Suomi'
-tags = ['lang-fi', 'bpn7597']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 *(Rukous lausuttavaksi henkisen neuvoston kokouksen päättyessä.)
 

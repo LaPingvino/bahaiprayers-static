@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7380 in Polski'
-tags = ['lang-pl', 'bpn7380']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Boże, mój Boże! Ta oto służebnica wzywa Ciebie, ufając Tobie, zwróciwszy swą twarz ku Tobie, błagając Cię, abyś zesłał na nią swe niebiańskie dary, odsłonił przed nią swoje duchowe tajemnice i oświetlił ją blaskiem swojego Bóstwa.
     

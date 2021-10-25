@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2205 in România'
-tags = ['lang-ro', 'bpn2205']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Tu vezi, o, Dumnezeul meu, cum relele înfăptuite de acele dintre creaturile Tale care şi-au întors faţa de la Tine s-au interpus între Cel prin care Dumnezeirea Ta se manifestă şi slujitorii Tăi. Coboară asupra lor, o Domnul meu, ceea ce îi va face să se ocupe unii cu problemele celorlalţi. Îngăduie, atunci, ca violenţa lor să se restrângă doar la ei înşişi, ca pământul şi toţi cei ce sălăşluiesc în el să găsească pacea.
 

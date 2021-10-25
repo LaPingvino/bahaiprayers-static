@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6422 in Cymraeg'
-tags = ['lang-cy', 'bpn6422']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Dydi, y Duw Digymar! O Arglwydd y Deyrnas! Yr eneidiau hyn yw Dy fyddin nefol.  Cynorthwya hwynt, a chyda minteioedd Llu’r Goruchaf dyro iddynt fuddugoliaeth; fel y byddont oll megis catrawd, a gorchfygant y gwledydd hyn drwy gariad Duw a goleuni’r ddysgeidiaeth ddwyfol.
 O Dduw!  Bydd yn gynhaliwr ac yn gymorth iddynt, ac yn yr anialwch y mynydd, y dyffryn, y goedwig, y gweindir a’r moroedd, bydd yn ymddiriedwr iddynt - fel y bydded iddynt lefain trwy rym y Deyrnas ac anadl yr Ysbryd Glân.

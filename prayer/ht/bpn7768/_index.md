@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7768 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7768']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 ##Priyè pou Ayyám-i-Há
 

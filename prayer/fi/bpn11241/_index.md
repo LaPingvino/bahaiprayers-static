@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11241 in Suomi'
-tags = ['lang-fi', 'bpn11241']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Ylistys olkoon Sinulle, oi Herra minun Jumalani! Anon Sinua nimeesi, jonka kautta Hän, joka on Sinun kauneutesi, on asetettu asiasi valtaistuimelle, ja nimeesi, jonka kautta muutat kaiken ja kokoat yhteen kaiken ja kutsut tilinteolle kaiken ja palkitset kaiken ja säilytät kaiken ja pidät yllä kaiken – anon Sinua varjelemaan tätä palvelijatarta, joka on hakenut turvapaikkaa Sinun tyköäsi ja etsiytynyt Hänen suojaansa, jonka kautta olet ilmaissut itsesi, ja on pannut koko toivonsa ja luottamuksensa Sinuun. 
 Hän on sairas, oi Jumalani, ja on astunut Sinun parannuksesi puun siimekseen, murheinen ja on paennut Sinun suojeluksesi kaupunkiin, sairas ja on etsinyt Sinun suosiosi lähdettä; ankarasti vaivainen ja on kiiruhtanut päästäkseen Sinun levollisuutesi alkulähteelle, syntien painama ja on kääntänyt kasvonsa kohti Sinun anteeksiantosi esipihaa.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9254 in Français'
-tags = ['lang-fr', 'bpn9254']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Gloire à toi, ô Dieu ! Tu existas avant toutes choses, tu existeras après toutes choses, tu dureras au-delà de toutes choses. Tu connais toutes choses, tu as la suprématie sur toutes choses. 
 Tu traites toutes choses avec miséricorde, tu juges entre toutes choses, ta vision embrasse toutes choses. Tu es Dieu, mon Seigneur ! Tu es conscient de ma condition, tu vois mon être spirituel et mon être matériel.

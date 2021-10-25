@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12470 in Namibia'
-tags = ['lang-hz', 'bpn12470']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Unona Nye Vo Vanhu
 (O Children of men)

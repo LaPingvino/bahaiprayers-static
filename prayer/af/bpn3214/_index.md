@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3214 in Afrikaans'
-tags = ['lang-af', 'bpn3214']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Hy is die Medelydende, die Goedertierendste!
 

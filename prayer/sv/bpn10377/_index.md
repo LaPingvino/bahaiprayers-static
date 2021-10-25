@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10377 in Svenska'
-tags = ['lang-sv', 'bpn10377']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 I Guds, den Uråldriges, den Störstes namn.  I sanning, de uppriktigas hjärtan förtärs i åtskiljandets eld – var är glansen från Ditt anletes ljus, o världarnas Älskade?
 De som är Dig nära har övergivits i förtvivlans mörker – var är Din återförenings morgonljus, o världarnas Åstundan?

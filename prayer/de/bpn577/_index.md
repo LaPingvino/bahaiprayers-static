@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn577 in Deutsch'
-tags = ['lang-de', 'bpn577']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Verherrlicht sei Dein Name, o mein Gott, denn Du hast den Tag offenbart, der der König aller Tage ist, den Tag, den Du Deinen Auserkorenen und Deinen Propheten auf Deinen höchst erhabenen Tafeln angekündigt, den Tag, da Du den herrlichen Glanz all Deiner Namen auf alles Erschaffene ergossen. Groß ist die Glückseligkeit dessen, der sich Dir zuwendet, Deine Gegenwart erreicht und Deiner Stimme Klang vernimmt.
 Ich bitte Dich, o mein Herr, bei dem Namen Dessen, den das Reich Deiner Namen in Anbetung umkreist, hilf Du gnädiglich denen, die Dir teuer sind, Dein Wort unter Deinen Dienern zu verherrlichen und Dein Lob unter Deinen Geschöpfen zu verbreiten, damit Deine Offenbarung die Seelen aller Bewohner Deiner Erde verzücke.

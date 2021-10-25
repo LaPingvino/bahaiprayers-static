@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7988 in Malti'
-tags = ['lang-mt', 'bpn7988']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 Keċċi n-niket tiegħi bit-tjieba tiegħek u bil-qalb kbira tiegħeK, O Alla, Alla tiegħi, u biegħed it-taqtigħ il-qalb tiegħi bil-qawwa u bis-setgħa tiegħeK.  Inti tarani, O Alla tiegħi, b’wiċċi imdawwar lejK fi żmien meta d-diqa dawritni minn kullimkien. Nitolbok, O Int Li Int is-Sid tal-ħlejjaq kollha, u ddellel fil-wisa’ kulma jidher u kulma jidhirx, bl-Isem tiegħeK li bih Int għalibt il-qlub u l-erwieħ tal-bnedmin, u bil-mewġiet kbar tal-O1ejan tal-ħniena tiegħeK u d-dijiet jgħammxu ta’ Kewkbet il-Jum tat-tjieba tiegħeK, biex tgħoddni ma’ dawk li xejn ma żammhom lura li jdawru wiċċhom lejK , O Int Sid tal-ismijiet kollha u Hallieq tas-smewwiet! 
 

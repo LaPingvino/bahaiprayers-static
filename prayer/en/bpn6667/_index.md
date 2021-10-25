@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6667 in English'
-tags = ['lang-en', 'bpn6667']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O God, my God! Thy grace hath emboldened me, and Thy justice filled me with terror. Happy is that man whom Thou hast endued with Thy grace and woe to him that receiveth Thy justice.
 

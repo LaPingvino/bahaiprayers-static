@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2728 in Magyar'
-tags = ['lang-hu', 'bpn2728']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 *Gyűljetek össze tiszta örömben, és az ülés kezdetén imádkozzátok az alábbi imát:
 

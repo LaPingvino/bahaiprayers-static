@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8003 in American Indian'
-tags = ['lang-nai-US', 'bpn8003']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 ##O God Guide Me
 

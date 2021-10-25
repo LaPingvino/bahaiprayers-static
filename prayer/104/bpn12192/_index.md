@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12192 in '
-tags = ['lang-104', 'bpn12192']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 #AYYÁM-I-HÁ
 ##(Hari-Hari Sisipan)

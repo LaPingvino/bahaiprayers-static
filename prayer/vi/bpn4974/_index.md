@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4974 in Tiếng Việt'
-tags = ['lang-vi', 'bpn4974']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 ##Bản Kinh Cầu Nguyện Bắt Buộc
 *Ngắn Nhất

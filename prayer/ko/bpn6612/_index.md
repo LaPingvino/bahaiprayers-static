@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6612 in 한국어'
-tags = ['lang-ko', 'bpn6612']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 주님의 빛을 제 눈으로 보게, 그들을 지켜주소서. 주님의 성자들을
 

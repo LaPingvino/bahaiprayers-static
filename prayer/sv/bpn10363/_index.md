@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10363 in Svenska'
-tags = ['lang-sv', 'bpn10363']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Denna bön, uppenbarad av ‘Abdu’l-Bahá, läses vid Hans gravhelgedom. Den används även i enskild andakt.
 Vemhelst som läser denna bön med ödmjukhet och innerlighet skänker glädje och fröjd till denne tjänares hjärta; det kommer att vara som om han mötte Honom ansikte mot ansikte.

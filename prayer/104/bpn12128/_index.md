@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12128 in '
-tags = ['lang-104', 'bpn12128']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Bagaimana aku memilih untuk tidur, Ya Tuhan, Tuhanku, apabila mata mereka yang merindui Engkau sedang terjaga kerana mereka terpisah daripada-Mu; dan bagaimanakah aku dapat berbaring untuk istirahat sedangkan jiwa-jiwa para pencinta-Mu berasa susah hati kerana mereka berada jauh daripada kehadiran-Mu?
 

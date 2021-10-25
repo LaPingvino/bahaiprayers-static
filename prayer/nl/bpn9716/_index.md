@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9716 in Nederlands'
-tags = ['lang-nl', 'bpn9716']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 Hij is de Machtige, de Verontschuldiger, de Meedogende!
 O God, mijn God! Gij ziet Uw dienaren in de peilloze diepte van verderf en dwaling; waar is het licht van Uw goddelijke leiding, o Gij het Verlangen der wereld? Gij kent hun hulpeloosheid en hun zwakheid; waar is Uw kracht, o Gij in Wiens greep de krachten van hemel en aarde liggen?

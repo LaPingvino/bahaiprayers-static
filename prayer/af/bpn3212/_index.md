@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3212 in Afrikaans'
-tags = ['lang-af', 'bpn3212']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Is daar enige Verwyderaar van moeilikhede buiten God? Sê: Geloof sy God! Hy is God! Almal is Sy dienaars en almal berus in Sy gebod.
 

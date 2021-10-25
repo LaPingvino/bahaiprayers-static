@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12724 in '
-tags = ['lang-91', 'bpn12724']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Dikemulia meh Nuan, O Tuhan aku ti penyinu ! Aku minta kasih Nuan nengah gelinggang tasik sada kudus Nuan, enggau nengah pemayuh tanda kuasa-raja Nuan ti pemadu tinggi, enggau kelai Pengudus Nuan ti nyemetak, enggau misteri lalai ti dipelam dalam penemu Nuan, beri ngagai aku berekat Nuan gawaka Nuan enggau bala ti dipilih Nuan, lalu kemendarka aku ngasi meri ngagai Huqúq Nuan ke udah diletak Nuan dalam Bup Nuan.
 Aku tu siku, O Tuhan aku, ke udah ngengkahka pengerindu iya ba dunya mulia Nuan, lalu udah bepegai teguh ba rambu pementas Nuan. O Nuan Siku ti Tuhan ke semua pengidup enggau Raja ke dunya semua nama, Aku minta enggau pengambis ati ba Nuan anang ngemeluka aku utai ti dikembuan Nuan, anang mega matak ari aku utai ke udah diletak Nuan ke bala ti dipilih Nuan.

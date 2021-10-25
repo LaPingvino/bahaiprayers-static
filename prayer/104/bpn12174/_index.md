@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12174 in '
-tags = ['lang-104', 'bpn12174']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhanku! Ya Tuhanku! Dimuliakanlah Engkau kerana Engkau telah mengesahkan daku dalam pengakuan keesaan-Mu, menarik daku kepada kalimat ketunggalan-Mu, menyalakan daku dengan api cinta-Mu, dan menyibukkan daku dengan penyebaran tentang-Mu dan khidmat teman-teman dan dayang-dayang-Mu.
 

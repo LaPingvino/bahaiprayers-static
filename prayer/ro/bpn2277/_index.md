@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2277 in România'
-tags = ['lang-ro', 'bpn2277']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Preamărit fie numele Tău, o, Dumnezeul meu, căci Tu ai dezvăluit Ziua care este Regina Zilelor, Ziua pe care ai anunţat-o Aleşilor Tăi şi Profeţilor Tăi în minunatele Tale Tablete, Ziua în care Tu ai răspândit splendoarea gloriei tuturor numelor Tale asupra tuturor lucrurilor create. Mare este binecuvântarea oricui s-a îndreptat către Tine şi a intrat în prezenţa Ta şi a surprins tonalităţile glasului Tău.
 

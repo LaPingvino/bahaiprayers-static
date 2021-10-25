@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8181 in Dansk'
-tags = ['lang-da', 'bpn8181']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 *I Kitáb-i-Aqdas fastslås de:. "Vi har befalet jer at bede og faste fra begyndelsen af modenheden, dette er forordnet af Gud, din Herre og dine forfædres Herre. Han har herfra fritaget dem, der er svækket af sygdom eller alder, som en gavmildhed fra Hans nærvær, og Han er tilgivende og gavmild.... Afhold jer fra mad og drikke fra solopgang til solnedgang, og vogt jer for, at ikke begær berøver jer denne nåde, som er bestemt i Bogen.”
 

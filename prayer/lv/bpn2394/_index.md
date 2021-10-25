@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2394 in Latviešu'
-tags = ['lang-lv', 'bpn2394']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Viņš ir Žēlīgais, Visdāsnais!
 Ak Dievs, mans Dievs! Tavs aicinājums ir sasniedzis mani un Tavas Godības Spalvas rakstītais ir mani atmodinājis, Tavu svēto vārdu straume ir mani savaldzinājusi, un Tavas iedvesmas vīns ir mani saviļņojis. Tu mani redzi, ak Kungs, no visa atraisījušos, tikai no Tevis vien nē. Es turos pie Tava dāsnuma saites, ilgodamies Tavas labvēlības brīnumu. Es lūdzu Tevi, tik tiešām, kā mūžam strāvo Tava mīla un labestība, un mirdz Tavu maigo rūpju un labvēlības gaisma, dod man to, kas tuvinās mani Tev, un Savā bagātībā dari mani bagātu. Mana mēle, mana spalva un visa mana būtne apliecina Tavu spēku, Tavu varu, Tavu žēlastību un Tavu dāsnumu. Tu esi Dievs un bez Tevis nav cita Dieva, Tu Stiprais, Varenais.

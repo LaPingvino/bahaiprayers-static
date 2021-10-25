@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6439 in Cymraeg'
-tags = ['lang-cy', 'bpn6439']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Arglwydd, fy Nuw, a’m Noddfa yn fy mlinder! Fy Nharian a’m Cysgod yn fy nhrallod!  Fy Ngobaith a’m Lloches yn nydd fy angen!  Ti yw fy Niddanydd mewn dyddiau o wae, fy Nghydymaith yn y tywyllwch, a’m
 Cyfaill annwyl yn fy unigrwydd. Ti sydd yn symud ymaith poenau ein galar ac yn maddau ein pechodau, atat Ti yn unig y gallaf agoshâu, gan erfyn â’m holl gallon, âm meddwl, ac â’m tafod, ar i Ti fy nghadw rhag pob peth sydd yn groes i’th Ewyllys Di, yn hwn, cylch Dy undod duwiol.   Glanhâ fi, O Arglwydd, rhag pob peth halogedig, fel y gallwyf, yn bur a difrycheulyd, ymgyrraedd at bren Dy râs Di.

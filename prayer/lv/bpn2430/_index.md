@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2430 in Latviešu'
-tags = ['lang-lv', 'bpn2430']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Viņš ir Varenais, Piedevējs, Līdzjūtīgais!
 Ak Dievs, mans Dievs! Tu redzi Savu kalpu maldus un iznīcību bezdibeņa malā; kur ir Tavas dievišķās vadības gaisma, ak pasaules Ilgojums? Tu redzi viņu bezpalīdzību un viņu vārgumu; kur ir Tavs spēks, ak Tu, Kas Savā rokā turi varu pār debesīm un pār zemi?

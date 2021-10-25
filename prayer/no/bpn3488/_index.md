@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3488 in Norsk'
-tags = ['lang-no', 'bpn3488']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 *Fremsies en gang i døgnet, ved middagstider.
 Jeg bevitner, o min Gud, at du har skapt meg for at jeg skal kjenne deg og tilbe deg. Jeg vitner i denne stund om min maktesløshet og om din styrke, om min fattigdom og om din rikdom.

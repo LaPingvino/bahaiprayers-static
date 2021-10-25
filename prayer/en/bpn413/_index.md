@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn413 in English'
-tags = ['lang-en', 'bpn413']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 ##Expectant Mothers
 

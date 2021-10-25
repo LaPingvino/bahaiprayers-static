@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6520 in 한국어'
-tags = ['lang-ko', 'bpn6520']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 이 사람은 날개가 꺾인 새, 저를
 

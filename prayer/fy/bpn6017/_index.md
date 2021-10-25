@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6017 in Frysk'
-tags = ['lang-fy', 'bpn6017']
+tags = ['lang-fy', 'bpn-unsorted']
 +++
 ##It Koarte Ferplichte
 

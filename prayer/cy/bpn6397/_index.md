@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6397 in Cymraeg'
-tags = ['lang-cy', 'bpn6397']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 Dywedwch: O Dduw, fy Nuw! Gwisg fy mhen â choron cyfiawnder, a’m harlais â thlws tegwch. Ti, yn wir, wyt Berchen pob rhodd a haelioni.
 

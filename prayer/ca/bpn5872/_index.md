@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5872 in Català'
-tags = ['lang-ca', 'bpn5872']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 La lloança sia per Tu, oh Déu meu! Soc un dels Teus serfs què han cregut en Tu i en els Teus signes. Tu veus com m’he dirigit cap a la porta de la Teva misericòrdia i he girat el meu rostre cap a la Teva amorosa bondat. T’imploro, pels Teus molt excel·lents títols i pels Teus exaltats atributs, que obris davant el meu rostre les portes dels Teus dons. Ajuda’m, doncs, a fer allò què és bo, oh Tu qui ets el Posseïdor de tots els noms i atributs! 
 Sóc pobre, oh Senyor meu, i Tu ets el Ric. He girat el meu rostre cap a Tu i m’he desprès de tot tret de Tu. T’imploro que no em privis de les brises de la Teva tendra misericòrdia ni em neguis el què Tu ordenares pels elegits entre els Teus serfs.

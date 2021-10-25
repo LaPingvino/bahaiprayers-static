@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10856 in '
-tags = ['lang-94', 'bpn10856']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 *Abwenzi onse a Mulungu …… ayenera kusonkha monga momwe angathere, chingakhale pang’ono chabe.  Mulungu sakakamiza aliyense kupambana zomwe ali nazo.  Zosonkhazi ziyenera kuchokera ku madera ali onse ndi kwa wokhulupirira aliyense ….. O abwenzi a Mulungu! Khulupirani motsimikiza kuti mmalo mwa zoperekazi, minda yanu, mafakitale anu, ndi mabizinesi anu adzadalitsika kwakukulu, ndi mphatso zokoma ndi chaulere.  Iye amene abwera ndi ntchito yabwino kamodzi adzalandira mphotho kakhumi.  Palibe kukayika kuti Ambuye wamoyo adzalimbikitsa mowirikiza iwo amene agwiritsa ntchito chuma chawo mu njira Yake. 
 

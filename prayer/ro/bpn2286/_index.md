@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2286 in România'
-tags = ['lang-ro', 'bpn2286']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne, Dumnezeul meu! Iată această slujitoare a Ta invocându-Te pe Tine, punându-şi încrederea în Tine, întorcându-şi faţa spre Tine, implorându-Te să reverşi asupra ei binecuvântările Tale cereşti, să-i dezvălui tainele Tale spirituale şi să cobori asupra ei luminile Divinităţii Tale.
 

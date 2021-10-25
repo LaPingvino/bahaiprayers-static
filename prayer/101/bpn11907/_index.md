@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11907 in '
-tags = ['lang-101', 'bpn11907']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *(Onu Pingosah, 26 onu bulan 2 nog 1 onu bulan 3 jadin eh geh, onu bisitak yak Puasa, onu-onu sikadud, ngenang bia ngin hadiah.)
 Topa ku, Opui ku bia Lapu ku! Onu-onu dek mbok bikadon Ingan Ayyam-i-Ha’ daang Kitab Ingan mbok bisosak, O Ingan dek jadin Raja sua adon, bia bilasong dek mbok obuah pilatas odak Pen Ingan dek simomu tudu bala nyaa dek ogi daang pritah pimotan Ingan odak mit nai mbok bisongae nog. Oku mitia tudu Ingan, O Raja ku, pakai onu-onu dimutik bia pakai sua-sua sosak semasa noh mbok yak bipawoh tudu tolint undang-undang Ingan, bia samah-samah bilayak bikagient tudu togint nasihat Ingan, sak dapod pod-pod tibilang jiwa obuah janji nikan topat daang tipalung gilangang Ingan, bia nikan galas ndu revelasi konae pangijawak Ingan dek jongon.

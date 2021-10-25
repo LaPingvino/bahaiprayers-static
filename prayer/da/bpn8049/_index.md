@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8049 in Dansk'
-tags = ['lang-da', 'bpn8049']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 O Herre! I denne allerstørste guddommelige ordning godtager Du børns forbøn for deres forældre.
 

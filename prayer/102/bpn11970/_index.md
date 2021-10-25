@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11970 in '
-tags = ['lang-102', 'bpn11970']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’Alla.
     Eý Mähriban Taňrym! Bu Seniň gapyň işiginiň bendesi, jany bilen Seniň gözlegiňdedi, Seniň söýgi ýoluňy agtarýardy. Rugsary hedaýat nurundan mahy-tabandy, ýüregi bu dünýäniň hapasyndan päkize hem arassady. Muhabbet meýlisinde, ellerinde jam we peýmanady. Ezeliň şerabyndan mestanady.

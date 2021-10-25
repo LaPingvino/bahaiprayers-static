@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4814 in Azərbaycan'
-tags = ['lang-az', 'bpn4814']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Sənə şükr edirəm, Ey mənim Allahım! Sən məni yuxudan oyatdın, yoxluğumdan aşkara çıxardın və qəflətimdən qaldırdın. Mən bu səhər oyanmışam və Sənin əlamətlərini qəbul edərək, Kitabına iman gətirərək, Sənin ipindən möhkəm yapışaraq üzümü Sənin qüvvət və əzəmət səmalarını nurlandırmış Zühur Günəşinin şəfəqlərinə çevirmişəm.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8073 in Dansk'
-tags = ['lang-da', 'bpn8073']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Fjern ikke, o Herre, det festlige bord, der er blevet dækket i Dit navn, og sluk ikke den brændende flamme, der er blevet tændt af Din uudslukkelige ild. Tilbagehold ikke Dine levende vandes strømmen, der nynner sangen om Din herlighed og Din ihukommelse, og berøv ikke Dine tjenere duften af Din mildetiltrækning , der ånder af Din kærligheds vellugt.
 

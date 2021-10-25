@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9694 in Nederlands'
-tags = ['lang-nl', 'bpn9694']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 #Voor overleden vrouwen
 

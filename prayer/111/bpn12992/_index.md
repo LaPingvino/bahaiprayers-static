@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12992 in '
-tags = ['lang-111', 'bpn12992']
+tags = ['lang-111', 'bpn-unsorted']
 +++
 *Na vatang ra varvagai a laptikai nae Allah-u-Abha! Ma na vatang gono ra umana pakana tinata ta vinun ma a lavuvat nae. 
 

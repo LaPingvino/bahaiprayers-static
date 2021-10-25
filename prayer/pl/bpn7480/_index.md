@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7480 in Polski'
-tags = ['lang-pl', 'bpn7480']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 W Imię Boga, Odwiecznego, Największego.
     

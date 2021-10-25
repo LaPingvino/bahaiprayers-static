@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5854 in Català'
-tags = ['lang-ca', 'bpn5854']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Fermesa En L’aliança
 

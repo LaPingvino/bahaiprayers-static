@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10279 in Svenska'
-tags = ['lang-sv', 'bpn10279']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Jag vet icke, o min Gud, vad den eld är som Du har tänt i Ditt land. Jord kan aldrig dölja dess glans eller vatten släcka dess låga. Alla världens folk är oförmögna att motstå dess kraft. Stor är välsignelsen för honom som har närmat sig den och hört dess dån.
 Några har Du, o min Gud, genom Din styrkande nåd gjort i stånd att nå den, medan Du hållit andra tillbaka på grund av deras händers verk under Dina dagar. Vemhelst, som hastat till den och nått den, har i sin iver att skåda Din skönhet givit sitt liv på Din stig och uppstigit till Dig, helt frigjord från allt utom Dig.

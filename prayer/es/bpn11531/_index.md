@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11531 in Español'
-tags = ['lang-es', 'bpn11531']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh mi Dios!
 Este es Tu siervo y el hijo de Tu siervo, quien ha creído en Ti y en Tus signos, y ha vuelto el rostro hacia Ti, completamente desprendido de todo salvo de Ti.

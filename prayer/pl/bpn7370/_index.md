@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7370 in Polski'
-tags = ['lang-pl', 'bpn7370']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Pochwalone bądź Imię Twoje, o mój Boże i Boże wszelkiego stworzenia, moja Chwało i Chwało wszelkiego stworzenia, moje Pragnienie i Pragnienie wszelkiego stworzenia, moja Siło i Siło wszelkiego stworzenia, mój Królu i Królu wszelkiego stworzenia, mój Władco i Władco wszelkiego stworzenia, mój Celu i Celu wszelkiego stworzenia, mój Poruszycielu i Poruszycielu wszelkiego stworzenia. Błagam Cię, nie pozwól, abym został odsunięty od oceanu Twojego czułego miłosierdzia ani oddalony od wybrzeży Twojej bliskości.
     

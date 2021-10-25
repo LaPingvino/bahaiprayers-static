@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6022 in Frysk'
-tags = ['lang-fy', 'bpn6022']
+tags = ['lang-fy', 'bpn-unsorted']
 +++
 O myn God! O Jo, Ferjouwer fan sûnden! Skinker fan jeften! Ferdriuwer fan smerten!
 Wierliken, ik smeekje Jo de sûnden te ferjaan fan harren dy't it stoflik klaad ôflein hawwe en nei de geastlike wrâld opstiigd binne.

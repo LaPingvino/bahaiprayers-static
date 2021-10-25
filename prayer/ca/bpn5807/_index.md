@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5807 in Català'
-tags = ['lang-ca', 'bpn5807']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh, Déu meu! Oh Tu, perdonador dels pecats! El qui confereix els dons, i El qui dissipa les afliccions!
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2104 in România'
-tags = ['lang-ro', 'bpn2104']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 *Ori de câte ori intraţi în încăperea de consultaţie, rostiţi această rugăciune cu o inimă vibrând de iubire pentru Dumnezeu şi un grai purificat de tot în afară de pomenirea Sa, astfel încât Cel Atotputernic să vă ajute cu bunăvoinţa Sa să dobândiţi victoria supremă.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12022 in '
-tags = ['lang-102', 'bpn12022']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Uly Durkuňdan äşgär bolan Alkyş we Äbha, Jemalyňdan saçylýan ýalkym Seniňdir Eý Beýiklik nyşany, Bakylygyň Soltany we ýerde-gökde bolan bar zatlaryň Eýesi!
     Allanyň Patyşalygy we Hökümdarlygy, Ululygy we Durkunyň ägirt beýik Orny, Seniň bilen görünendigine, takdyr asmanynda Gadymy Güneşleriň, Seniň bilen parlandygyna hem-de Seniň bilen ýaradylyş gözýetiminde Gaýyp Jemal äşgär bolandygyna şaýatlyk edýärin. Seniň Galamyň ýekeje hereketi bilen barlyk äleminiň dörändigine we Taňrynyň pynhan syry aýan bolup, dirilik dünýäsi başlap, Pygamberler iberilendigine güwä geçýärin.

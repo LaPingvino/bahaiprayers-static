@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4892 in Azərbaycan'
-tags = ['lang-az', 'bpn4892']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 ##Bu münacat Ruhani Məhfilin görüşünün sonunda oxunur.
 İlahi! İlahi! Öz birliyinin gizli səltənətindən bizə nəzər sal, Sənə iman gətirmişik, Sənin əlamətlərinə əmin olmuşuq, Sənin Əhd-Peymanında möhkəm, Sənə cəzb olunmuşuq, Sənin məhəbbət oduna qalanmışıq və Sənin əmrində sədaqətli olmaqla bu ruhani yığıncaqda toplaşmışıq. Biz Sənin üzümlüyünün xadimləriyik, Sənin dinini yayanlarıq, Sənin üzünə sədaqətlə sitayiş edənlərik və Sənin dostların qarşısında müti, Sənin qapın önündə baş əymiş halda Sənə yalvarırıq - Sənin seçilmişlərinə xidmət etməkdə bizi müvəffəq eylə, görünməz qoşunlarınla bizə dayaq dur, Sənə bəndəlikdə belimizə qüvvət ver və bizi təslim olmuş, Sənə sitayiş edən və Səninlə ünsiyyət edən bəndələr eylə.

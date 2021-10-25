@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11455 in Español'
-tags = ['lang-es', 'bpn11455']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 *Se recita una vez cada veinticuatro horas.
 

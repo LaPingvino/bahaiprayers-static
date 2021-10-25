@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4413 in Filipino'
-tags = ['lang-tl', 'bpn4413']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 *O naghahanap ng Katotohanan! Kung ninanais mong buksan ng Diyos ang iyong espiritwal na mata, magsumamo ka sa Diyos, dumalangin at maki­isa sa Kaniya sa hatinggabi, sa pagsasabing:
 

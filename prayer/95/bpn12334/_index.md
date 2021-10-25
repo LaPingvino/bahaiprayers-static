@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12334 in '
-tags = ['lang-95', 'bpn12334']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 E maluga e ia Koe, O te Aliki toku Atua!  E tuku atu ne au kia Koe a te fakafetai auaa ko oto ne fai ne Koe au pe la me se taketi o 
 fakalavelave e uke mo se maka o tofotofooga uke, ko te mea ko Au tavini ke kufaki a se olaga foou ka ko Au mea ola katoa ke mafai o fakaola.  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10526 in Kalaallisut'
-tags = ['lang-kl', 'bpn10526']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guuti-aa! Meeqqat uku ilinniartikkit. Meeqqat taakku Illit naatsiivinni
 paarnaqutilimmi naasortaapput, Narsaatinni ivigarissumi sikkernerit,

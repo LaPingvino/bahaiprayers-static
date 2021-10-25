@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10222 in Māori'
-tags = ['lang-mi', 'bpn10222']
+tags = ['lang-mi', 'bpn-unsorted']
 +++
 *“Ko te mārena Bahá’i he kotahitanga me te whakaipo mahana o waenga o te tokorua. Heoti noa me āta mahi, me mārama pai rāua ki ō rāua ake tūāhuatanga. Ko te hononga mutungakore me here ki te kawenata mauroa, ko tāna he poipoi i te āhuru o te whakahoatanga me te kotahitanga kia taea ai te oranga mutungakore.” 
 *—‘Abdu’l-Bahá

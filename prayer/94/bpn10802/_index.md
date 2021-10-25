@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10802 in '
-tags = ['lang-94', 'bpn10802']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 O Mulungu wanga ndi Mbuye wanga! Ine ndine wantchito Wanu, ndi mwana wantchito Wanu.  Ndadzuka pamphasa panga m’bandakucha uno pamene nthanda ya umodzi wanu yaunikira kuchokera m’bandakucha wa chifuniro Chanu, ndipo kuunika kwake kwakwanira padziko lonse lapansi, monga momwe kunalonjezedwera mu Mabuku a Chilamulo Chanu. 
 

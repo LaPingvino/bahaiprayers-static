@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8144 in Dansk'
-tags = ['lang-da', 'bpn8144']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 O Du Forsørger! Du har ladet de sødmefulde dufte fra Helligånden blæse hen over vennerne i vesten, og med lyset fra guddommelig ledelse har Du oplyst den vestlige himmel. Du har fået dem, der engang var fjerne, til at drage Dig nær; Du har forvandlet fremmede til kærlige venner; Du har vækket dem, der sov; Du har gjort de ligegyldige opmærksomme.
 

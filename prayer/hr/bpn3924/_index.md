@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3924 in Hrvatski'
-tags = ['lang-hr', 'bpn3924']
+tags = ['lang-hr', 'bpn-unsorted']
 +++
 Gospode! Kukavni smo, podari nam Svoju milost; siromašni smo, daruj nam udio iz oceana Tvog bogatstva; bijedni smo , Ti nam udovolji; poniženi, daj nam Svoju slavu. Ptice u zraku i zvijeri u polju primaju svoju hranu svagdašnju i sva bića uživaju Tvoju skrb i ljubav.
 

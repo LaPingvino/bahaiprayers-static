@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7025 in Kalaallisut'
-tags = ['lang-kl', 'bpn7025']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Naalagaq-aa! Tassaavutit anniaatinik tamanik Qimagutsitsisoq naalliuutinillu Peersitsisartoq. Tassaavutit Taanna aliasunnernik tamanik piujunnaarsitsisoq, naalliutsitaasunillu aniguisitsisoq, tarnit tamarmik Annaassisuat. Naalagaq! Naakkinninnerit aqqutigalugu aniguisitsinermik tunniussigit. Kiffavillu annassimanermik angusaqarsimasut akornannut naatsorsuutinnga.
 

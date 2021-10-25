@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4274 in American Indian'
-tags = ['lang-nai-US', 'bpn4274']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Nita Caje he woakisni mitawa, o mita Wakan Tanka, na ciksuye ki han he ookiye mitawa. Nikiyela ki han he awacin mitawa nahan tecihila ki han he mita kola. Wowaunsila Nitawa ki he le ounyan nahan ounyan iyokihe nupin ekta woakisni mitawa na wawokiye mitawa numwe. Tuwa Waoh’anpi Owas’in ki, Tuwa lyuha Waslolye ki, Tuwa lyuha.
 

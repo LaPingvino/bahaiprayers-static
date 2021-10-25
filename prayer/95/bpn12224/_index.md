@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12224 in '
-tags = ['lang-95', 'bpn12224']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 A Tou fakatasitasi-fealofani e se mafai o fakamatalagina, O toku Atua, kia latou katoa na loa ko latou ko la ko lavea a Ia Tela ko te Faifekau o Tou tafatasi mo te Aso-Malulu o Tou tafatasi.  So se tino tela e tofi ne ia se fili kia Ia, ko oti ne tofi ne ia se fili kia Koe, kae ko ia tela ko oti ne fakamau se taugasoa mo Ia ko oti ne fakatumau se taugasoa mo Koe.  E seai, e seai, e seai e mafai o teke atu a Koe i te foafoaaga katoatoa. A Koe ko oti ne fakamalugagina mai ite kamataga loa mai luga atu i so se mea e faka-paugina pela foki mo te kiloga.  A tou tafatasi ko oti ne fakaasi atu ne te tafatasi o Ia Tela ko te Malumalu o Tau Fakaasiiga.  So se tino tela e se-talitonu ki te mea tenei, ko oti ne fakapelo ne ia a Tou tafatasi, kae fakaloi a Koe ki Tou nofoaiga-a-aliki, kae lotomalie mo Koe i Tou lalolagi, kae se-fakalogo ki Au tulafono.  
  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2404 in Latviešu'
-tags = ['lang-lv', 'bpn2404']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Dievs, mans Kungs, un mana Osta ciešanu vētrā. Mans Vairogs un mans Aizsegs bēdās, mans Patvērums grūtā stundā un mans Ceļabiedrs manā vientulībā, mans Mierinājums manās bailēs, mans mīlošs Draugs manā atstātībā, mans Sāpju Remdētājs raizēs un manu grēku Piedevējs!
 Es griežos pie Tevis, es kvēli lūdzu Tevi ar visu sirds, prāta un daiļrunības spēku, sargi mani no visa, kas neatbilst Tavai gribai Tavas dievišķās vienesmes laikmetā, un attīri mani no visiem sārņiem un traipiem, kas liedz man, tīram un neaptraipītam, meklēt Tavas Svētības Koka ēnu.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12652 in '
-tags = ['lang-91', 'bpn12652']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 O Petara, Petara aku! Nuan meda bakani pemetang ngeleti udah mungkur semua tempat, bakani semua menua udah ditunu enggau api penyarut, lalu api perang enggau bebunuh udah demurung di selampur Timur enggau Barat. Darah anyut, bangkai betegaring sebelah tanah, lalu pala ti dipumpung udah labuh ba debu menalan perang.
 O Tuhan! Sinu meh ke bala ti lansang tu lalu perening sida ngena mata pengasih enggau pengampun. Padamka api tu, ngambika mua-hari ti tebal tu ti udah ngelindung bingkai-langit tau pambar, lalu Matahari Pengamat manchar ngena perenching pemaik, pemetang ti tebal tu tau dikebu lalu penerang api pemaik tau mancharka penampak ia ba semua menua.

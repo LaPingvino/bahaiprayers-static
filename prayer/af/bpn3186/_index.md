@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3186 in Afrikaans'
-tags = ['lang-af', 'bpn3186']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O God, my God! U is my Hoop en my Beminde, my hoogste Oogmerk en Begeerte! Met groot ootmoed en algehele toewyding bid ek U om my 'n toring van U liefde in U land, 'n lamp van U kennis onder U skepsels, en 'n vaandel van goddelike mildheid in U gebied te maak.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2723 in Magyar'
-tags = ['lang-hu', 'bpn2723']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Urunk! Hitványak vagyunk, essen meg rajtunk szíved; semmink sincsen, adj részt nékünk gazdagságod tengeréből; szükséget szenvedünk, elégíts meg minket; megaláztattunk, juttass nékünk dicsőségedből. Te táplálod nap mint nap a lég vándorait és a mező állatait, és a Te gondoskodásodban és nyájasságodban részesül minden teremtett lény.
 

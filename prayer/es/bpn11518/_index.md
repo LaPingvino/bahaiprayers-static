@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11518 in Español'
-tags = ['lang-es', 'bpn11518']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Señor! A Ti acudo en busca de amparo, y hacia todos Tus signos oriento el corazón.
 ¡Oh Señor! Ya sea de viaje o en mi hogar, en mis ocupaciones o en mi trabajo, en Ti deposito toda mi confianza.

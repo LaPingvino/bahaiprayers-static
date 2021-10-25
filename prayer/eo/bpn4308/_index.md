@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4308 in Esperanto'
-tags = ['lang-eo', 'bpn4308']
+tags = ['lang-eo', 'bpn-unsorted']
 +++
 ##Epistolo al Aĥmad
 Li estas la Reĝo, la Ĉio-scia, la Saĝa!

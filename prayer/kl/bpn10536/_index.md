@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10536 in Kalaallisut'
-tags = ['lang-kl', 'bpn10536']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Unnersiutigaakkit, Guutiga-aa, sininnit itertikkamma, qimagusimaninnillu sassarteqqikkamma aanngaasimaninnillu kingumut eqeertikkamma. Ullaaq manna iterpunga kiinara Illit Saqqummernerpit Ulluata ulloriaanut akisuguttumut saatillugu, tassuunami pissaaneqarnerpit ataqqinassutsivillu qilai qaammarsimapput, Illit nalunaaqqutitit Atuagaatinnullu upperneq misiutiginagu, taamaanneranilu uanga Illit qilerutit tigulluarsimavara. 
 Qinnuigaakkit Piumassutsivit siunertarisannilu pissaanerup ajugaagajuttup sininninni sinnattukkut Takutitatit aallaavigalugit pilersissagitit asanninnerpit initaasa tunngavii isumannaannerpaat, asasavit uummataasa iluiniittut, Illillu saammaanninnut paaqqinninnernullu asannittumut uppernarsaatit saqqummissutissaanut sakkussat pitsaanerpaat. Uannut aalajangeruk Allaatit nersornarnerpaaq atorlugu, Naalagara-aa, nunarsuarmi maani tulliuttumilu ajunngitsoq. 

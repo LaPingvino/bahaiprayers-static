@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2350 in Latviešu'
-tags = ['lang-lv', 'bpn2350']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Skaitāma ik pa divdesmit četrām stundām
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9149 in Français'
-tags = ['lang-fr', 'bpn9149']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 *Prière pour le Hquqúqu’lláh (le droit de Dieu).
 

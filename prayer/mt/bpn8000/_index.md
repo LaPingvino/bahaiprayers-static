@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8000 in Malti'
-tags = ['lang-mt', 'bpn8000']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 ##Is-Sawm 
 

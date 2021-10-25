@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8040 in Dansk'
-tags = ['lang-da', 'bpn8040']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 O Herre! Gør dette unge menneske strålende og skænk Din gavmildhed til denne ringe skabning.
 

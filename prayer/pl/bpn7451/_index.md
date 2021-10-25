@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7451 in Polski'
-tags = ['lang-pl', 'bpn7451']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, przebaczający Panie!
     

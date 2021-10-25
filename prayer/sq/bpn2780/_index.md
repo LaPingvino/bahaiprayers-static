@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2780 in Shqip'
-tags = ['lang-sq', 'bpn2780']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 Të gjitha lavdërimet, O Perëndia im, qofshin mbi Ty që je burimi i çdo lavdie e madhështie, madhërie e nderimi, sovraniteti e sundimi, lartësimi e mirësie, frike e pushteti. Cilindo që Ti dëshiron e afron pranë Oqeanit Më të Madh dhe cilitdo që Ti dëshiron i jep nderin që të njohë Emrin Tënd Më të Lashtë. Nga të gjithë ata që janë në qiell e mbi tokë, askush nuk mund t'i qëndrojë veprimit Të Vullnetit Tënd sovran. Nga përjetësia Ti ke qeverisur gjithë krijimin dhe do të vazhdosh përgjithmonë të ushtrosh sundimin Tënd mbi të gjitha gjërat e krijuara. Nuk ka Perëndi tjetër veç Teje, të Gjithëfuqishmit, Më të Lavdëruarit, të Gjithëpushtetshmit, Urtiplotit.
 

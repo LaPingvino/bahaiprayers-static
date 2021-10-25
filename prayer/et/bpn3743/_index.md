@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3743 in Eesti'
-tags = ['lang-et', 'bpn3743']
+tags = ['lang-et', 'bpn-unsorted']
 +++
 Au olgu Sulle, oo Jumal, et Sa oled avaldanud armastust inimkonna vastu. Oo Sina, kes Sa oled meie elu ja valgus, juhi oma teenreid oma rajal ja tee meid rikkaiks Sinus ning vabaks kõigest muust peale Sinu.
 Oo Jumal, õpeta meile oma ainsust ja anna meile mõistmist oma ühtsusest, et me ei märkaks kedagi teist peale Sinu. Sina oled Armuline, helduse Andja!

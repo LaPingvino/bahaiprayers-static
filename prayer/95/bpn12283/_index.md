@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12283 in '
-tags = ['lang-95', 'bpn12283']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Atua, te Atua o te manuia mo ate alofa-kaimalie    (29)  
   

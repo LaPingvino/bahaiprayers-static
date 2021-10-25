@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7888 in Italiano'
-tags = ['lang-it', 'bpn7888']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 O Signore, mio Dio e mio Porto nel dolore! Mio Scudo e Ricovero nelle sventure! Mio Asilo e Rifugio nel momento del bisogno e nel-l’isolamento mio Compagno! Nell’angoscia mio Sollievo e nella solitudine Amico amoroso! Co-lui Che allontana gli spasimi dei miei dolori e perdona i miei peccati! 
 Mi rivolgo interamente a Te, implorandoTi fervidamente con tutto il cuore, la mente e la lingua di proteggermi da tutto ciò che è contrario al Tuo volere in questo ciclo, il ciclo della Tua divina unità, di detergermi da ogni contaminazione che mi impedisca di cercare, puro e immacolato, l’ombra dell’albero della Tua grazia. 

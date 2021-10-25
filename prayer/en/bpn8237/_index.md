@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8237 in English'
-tags = ['lang-en', 'bpn8237']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 He it is Who is established upon this luminous Throne.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1227 in Português (BR)'
-tags = ['lang-pt', 'bpn1227']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvado sejas Tu, ó Senhor meu Deus! Todas as vezes que me vem a lembrança de Ti e me ponho a refletir nas Tuas virtudes, tal êxtase e enlevo se apoderam de mim que me vejo sem o poder de fazer menção do Teu nome e de Te louvar. Sou transportado a tais alturas que reconheço o meu próprio ser como idêntico à lembrança de Ti no Teu reino, e à essência do Teu louvor entre os Teus servos. Enquanto durar este ser, o Teu louvor continuará a difundir-se entre as Tuas criaturas e a Tua lembrança a ser glorificada pelo Teu povo.
 Todo o homem dotado de perceção entre os Teus servos está convencido de que o meu próprio ser vive eternamente e jamais poderá perecer, desde que seja eterna a lembrança de Ti, durando enquanto durar o Teu próprio Ser, e for infindável o Teu louvor, permanecendo enquanto permanecer a Tua própria soberania. Por intermédio deste ser, Tu és glorificado por aqueles dos Teus eleitos que Te invocam e pelos sinceros dentre os Teus servos. Ainda mais, o louvor com que qualquer um na criação inteira Te louve, procede deste ser excelso e a ele regressa, assim como o sol enquanto brilha emite o seu esplendor sobre tudo o que se expõe aos seus raios. Desse sol é gerada e a ele há de regressar, a luz que se irradia sobre todas as coisas.

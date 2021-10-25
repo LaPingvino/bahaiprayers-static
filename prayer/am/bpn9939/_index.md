@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9939 in አማርኛ.'
-tags = ['lang-am', 'bpn9939']
+tags = ['lang-am', 'bpn-unsorted']
 +++
 *Tablet of the Holy Mariner
 

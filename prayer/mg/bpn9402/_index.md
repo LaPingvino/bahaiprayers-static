@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9402 in Malagasy'
-tags = ['lang-mg', 'bpn9402']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 O Ianao Tompo be fitiavana! Ireto ny mpanomponao izay mivory eto amin’ity Antenimiera ity, mitodika eny amin’ny Fanjakanao ary mikatsaka mafy tokoa ny Tsodranonao sy ny Fitahianao.
 O Ianao Andriamanitra! Asehoy sy ampiharihario ny famantarana ny Firaisanao izay napetraka tao amin’ny maha-fiainana ny fiainana. Asehoy sy avoahy ireo hatsarana izay miafina ao amin’ny maha-olombelona ny olombelona rehetra.

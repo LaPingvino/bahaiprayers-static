@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7455 in Polski'
-tags = ['lang-pl', 'bpn7455']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Ty widzisz, o mój Boże, jak Twoi umiłowani osaczeni są przez zbuntowanych pośród Twoich stworzeń i nikczemnych pośród Twoich ludzi. Nie ma miejsca, skąd nie zanosiłby się lament Twoich miłośników i płacz Twoich wybranych. Błagam Cię, na Twoje Największe Imię, abyś wyciągnął dłoń mocy z wnętrza swej potęgi i wspomógł nią wszystkich tych, którzy Cię miłują. 
     

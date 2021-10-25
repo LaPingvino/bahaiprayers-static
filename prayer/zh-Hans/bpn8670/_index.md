@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8670 in 简体中文'
-tags = ['lang-zh-Hans', 'bpn8670']
+tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 这篇由阿博都—巴哈所启示的祷文应在祂陵殿前吟诵，也可以作为私用祷文。
 凡谦卑热情地吟诵此祷文者，都会使这位圣仆内心宽慰、喜悦，犹如面对面地觐见祂的圣容。

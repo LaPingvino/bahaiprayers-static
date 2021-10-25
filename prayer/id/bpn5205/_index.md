@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5205 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5205']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Loh Perayaan Kelahiran Sang Bab 
 

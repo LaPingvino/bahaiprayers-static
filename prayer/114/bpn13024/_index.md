@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn13024 in '
-tags = ['lang-114', 'bpn13024']
+tags = ['lang-114', 'bpn-unsorted']
 +++
 *Ya eia, Baha'i nga ik tengpi atenga wingti e wamp pora tek rakdok molk wei.  Wamp on e angtinangti molk ken wamp tenta ti ent wanka, wamp we pora angelek molk kumtei.  Wamp kolom e amp dam, ya ik mong kägl “nemnga kentmant wä enga kangem” e kelken “nemnga kentmant amp enga bäglam kentamant ampe” i nei.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10015 in Slovensky'
-tags = ['lang-sk', 'bpn10015']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 Povinná modlitba za zosnulých
 Táto modlitba za zosnulých sa číta za bahájov starších ako pätnásť rokov. „Je to jediná bahájska povinná modlitba, ktorá sa prednáša v kongregácii jedným veriacim, pričom ostatní povstanú. Nie je potrebné obrátiť sa ku Qiblih.“ Synopsie a kodifikácie Kitáb¬ i¬ Aqdas.

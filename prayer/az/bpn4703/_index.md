@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4703 in Azərbaycan'
-tags = ['lang-az', 'bpn4703']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Alqış Sənə, Ya Rəbb, Sən Ey bütün yaranmış şeyləri Öz əmrinin qüdrəti ilə xəlq edən Allah!
 

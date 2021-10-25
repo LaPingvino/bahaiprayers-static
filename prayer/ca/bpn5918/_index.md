@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5918 in Català'
-tags = ['lang-ca', 'bpn5918']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Lloat siguis, oh Senyor Déu meu! Tu veus i saps què he cridat als Teus serfs a tornar-se sols cap els Teus dons, i els hi he demanat que observin sols allò què Tu vas prescriure al Teu perspicaç Llibre, el Llibre què ha estat enviat d’acord amb el Teu inescrutable decret i el Teu irrevocable propòsit.
 No puc pronunciar paraula, oh Déu meu, a no ser que Tu m’ho permetis; ni puc moure’m en cap direcció sinó és amb la Teva aprovació. Ets Tu, oh Déu meu, Qui m’has cridat a existir mitjançant la força del Teu poder i m’has dotat amb la Teva gràcia per manifestar la Teva Causa, per la qual he estat sotmès a tals adversitats que la meva llengua no ha pogut exalçar-te ni magnificar la Teva glòria.

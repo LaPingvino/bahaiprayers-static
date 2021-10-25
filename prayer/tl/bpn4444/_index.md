@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4444 in Filipino'
-tags = ['lang-tl', 'bpn4444']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Sa Pangalan ng Iyong Panginoon, ang Maylikha, ang Makapangyarihan, ang Nakasasapat sa Lahat, ang Pinakadakila. Siya na ang tulong ay hinihiling ng lahat ng tao.
 

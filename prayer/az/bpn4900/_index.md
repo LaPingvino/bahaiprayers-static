@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4900 in Azərbaycan'
-tags = ['lang-az', 'bpn4900']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Hüvəllah! Ey Ələst piyaləsindən məst
 

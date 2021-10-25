@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4688 in Azərbaycan'
-tags = ['lang-az', 'bpn4688']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 ##Gündə səhər, günorta, və axşam bir dəfə qılmali
 

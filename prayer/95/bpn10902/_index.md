@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10902 in '
-tags = ['lang-95', 'bpn10902']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 I te Igoa o Tou Aliki, ko te Tofuga, ko te Tupu, ko te Lava-Katoatoa, ko te Maluga, Tela a Tena fesoasoani e salagagia ne tino katoa.
      Fai atu: O toku Atua! Ko Koe Tela ne faiite ne Koe a lagi mo te lalolagi, O te Aliki ote Nofoaiioga Malo!  E maina kii a Koe i mea lilo o toku loto, a ko Koe e see mafai lele o iloa vagana ko Koe tokotasi.  E lavea ne Koe so se mea ia au, kae e seai lele se isi e mafai ne ia o iloa vagana ko Koe.  Tuku mai kia au, e auala mai Tou alofa-kaimalie, ke mafai ne au o fakaseai a mea katoa na loa ko Koe, kae fakatonu mai mo au a mea ko la ka tu saoloto au mai I tino katoa mai tafa o Koe.  Fakasaoloto mai ke maua ne au a mea lei o toku olaaga i te lalolagi mo sua lalolagi.  Tala atu oku mata ki mataloa o Tou alofa kaimalie, kae mo te alofa silisili tuku ifo kia au a Ou alofaga atafai mo Au mea-alofa.

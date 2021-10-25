@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10017 in Slovensky'
-tags = ['lang-sk', 'bpn10017']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó môj Bože! Ó Ty, kto odpúšťaš hriechy, udeľuješ dary, rozptyľuješ súžobu!
 Vskutku Ťa úpenlivo prosím, aby si odpustil hriechy tým, ktorí zanechali telesný odev a vystúpili do duchovného sveta.

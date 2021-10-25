@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7945 in Malti'
-tags = ['lang-mt', 'bpn7945']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 Huwa Alla! O Alla, Alla tiegħi! Agħtini qalb safja, bħalma perla!
 

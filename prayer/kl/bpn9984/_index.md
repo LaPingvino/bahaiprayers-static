@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9984 in Kalaallisut'
-tags = ['lang-kl', 'bpn9984']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 Guutip Aqqani, Taanna Pisoqarsuusoq, Anginersaasoq. 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9244 in Français'
-tags = ['lang-fr', 'bpn9244']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Tu es glorifié, ô Seigneur, mon Dieu ! Par ton nom, Celui qui fixe les limites, je te supplie de nous garder de la malveillance de tes adversaires qui refusent ton alliance et contestent ta beauté.
 Par ton nom, le Conquérant, soumets ceux qui firent tort à ta précédente Manifestation qui apparaît maintenant investie de ton titre, le TrèsGlorieux.

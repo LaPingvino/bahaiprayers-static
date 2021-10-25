@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7642 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7642']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 O Senyè! Bò kote Ou mwen chèche refij, e mwen fikse kè mwen nan direksyon tout siyn Ou yo. 
 O Senyè! Menm si mwen nan vwayaj oubyen mwen lakay, si mwen nan okipasyon mwen ak nan travay, mwen mete tout konfyans mwen nan Ou. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1601 in Íslenska'
-tags = ['lang-is', 'bpn1601']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er Guð!
 Ó Guð, Guð minn! Þetta eru þjónar Þínir sem á Þínum eigin dögum hafa laðast að ilmi heilag­leika Þíns, upptendrast af loganum sem brennur í Þínu heilaga tré, svara rödd Þinni og flytja lof um Þig. Þeir hafa vaknað við andvara Þinn, eru snortnir af ljúfri angan Þinni, líta tákn Þín, skilja vers Þín, hyggja að orðum Þínum, trúa opinberun Þinni og eru fullvissir um ástúð Þína. Augu þeirra, ó Drottinn, líta ljómandi dýrðarríki Þitt og ásjónur þeirra beinast að veldi Þínu á hæðum, hjörtu þeirra slá af ást á geislandi og dýrlegri fegurð Þinni, sálir þeirra eru alteknar af eldi ástar Þinnar, ó Drottinn þessa heims og þess sem kemur. Líf þeirra ólgar af heitri þrá eftir Þér og tár þeirra streyma sakir Þín.

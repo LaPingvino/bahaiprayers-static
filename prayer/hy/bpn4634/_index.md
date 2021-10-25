@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4634 in հայերեն'
-tags = ['lang-hy', 'bpn4634']
+tags = ['lang-hy', 'bpn-unsorted']
 +++
 #(Աղոթքը հայտնված է ԱՄՆ – ի ու Կանադայի Բահայիների համար)
 

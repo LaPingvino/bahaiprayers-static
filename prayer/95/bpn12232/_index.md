@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12232 in '
-tags = ['lang-95', 'bpn12232']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Au ko oti ne ala i Tou malu, O toku Atua, kae ko fai a ia tela e salasala ke nofo i loto i te Lafiiga o Tau puipui mo te Olo-Maalosi o 
 Tau tausi.  Fakamaina aka a toku kano loto, o toku Aliki, mo mea gali o te Aso-Malulu o Tau Fakaasiiga, pela mo te fakaimaina ne Koe a toku fuaitino mai i tua ki te mainaga o tafataeao o Tou alofa-kaimalie.  Bahá’u’lláh 

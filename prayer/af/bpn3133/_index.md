@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3133 in Afrikaans'
-tags = ['lang-af', 'bpn3133']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Here! Armsalig is ons, verleen ons U guns; arm, skenk ons 'n gedeelte van die oseaan van U rykdom; behoeftig, bevredig ons; vernederd, gee ons U luister. Die voëls van die lug en die diere van die veld ontvang elke dag hulle voedsel van U, en alle skepsels neem deel aan U versorging en U vriendelike goedheid.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6622 in 한국어'
-tags = ['lang-ko', 'bpn6622']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 이 종들은, 그들은
 

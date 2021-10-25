@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10454 in Kiribati'
-tags = ['lang-gil', 'bpn10454']
+tags = ['lang-gil', 'bpn-unsorted']
 +++
 #Te Tabureti Nakon Ahmad
 

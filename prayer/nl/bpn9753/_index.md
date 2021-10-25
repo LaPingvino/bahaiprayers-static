@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9753 in Nederlands'
-tags = ['lang-nl', 'bpn9753']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 *“Bestudeer de Tafel van de Heilige Zeevaarder, opdat u de waarheid leert kennen, en beseft dat de Gezegende Schoonheid toekomstige gebeurtenissen volledig heeft voorzegd. Laat hen die waarnemen gewaarschuwd zijn”  - Abdu’l-Baha
 

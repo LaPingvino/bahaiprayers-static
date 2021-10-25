@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10182 in Māori'
-tags = ['lang-mi', 'bpn10182']
+tags = ['lang-mi', 'bpn-unsorted']
 +++
 *KIA TĀKINA IA RĀ, I TE ATA, I TE RĀNUI, I TE  AHIAHI PŌ
 

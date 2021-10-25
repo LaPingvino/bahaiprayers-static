@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8260 in English'
-tags = ['lang-en', 'bpn8260']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 #Kitáb-i-‘Ahd
 ##Book of the Covenant

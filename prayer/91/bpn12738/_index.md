@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12738 in '
-tags = ['lang-91', 'bpn12738']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Dalam Nama Petara, ti Pemadu Jeman, ti Pemadu Tegap.
 Sigi amat ati orang ti lurus udah angus diempa api ketegal beserara: Dini bebetau penampak Rampa-mua Nuan, O Siku dikerindu semua dunya?

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10052 in Slovensky'
-tags = ['lang-sk', 'bpn10052']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 *Bahájske manželstvo je zväzkom a úprimnou láskou dvoch strán. Ale obe sa musia čo najstarostlivejšie zoznámiť s povahou tej druhej. Toto večné puto by mala zaistiť pevná zmluva a zmyslom by malo byť posilnenie súladu, priateľstva a jednoty a dosiahnutie večného života.
 *‘Abdu’l-Bahá 

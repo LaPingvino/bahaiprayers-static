@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9990 in Slovensky'
-tags = ['lang-sk', 'bpn9990']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 *Prednáša sa raz za dvadsaťštyri hodín
 *Ak si želáte predniesť túto modlitbu, postavte sa a obráťte sa k Bohu. Stojac na mieste, podívajte sa vpravo a vľavo, sťaby očakávajúc milosrdenstvo svojho Pána, Najmilosrdnejšieho, Súcitného. Potom rieknite:

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8265 in English'
-tags = ['lang-en', 'bpn8265']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 #Excerpt from the Súriy-i-Dhikr
 ##Súrih of Remembrance

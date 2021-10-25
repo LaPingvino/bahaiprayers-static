@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3579 in Norsk'
-tags = ['lang-no', 'bpn3579']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 O min Herre! La din skjønnhet være min føde, og ditt nærvær mitt drikke, og ditt velbehag mitt håp, og lovprisning av deg min gjerning, og ihukommelse av deg min ledsager, og ditt herredømmes kraft min hjelper, og din bolig mitt hjem, og mitt bosted det sete du har helliggjort fra de begrensninger du har underlagt dem som er stengt ute fra deg som ved et slør.
  

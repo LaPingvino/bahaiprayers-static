@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7299 in Polski'
-tags = ['lang-pl', 'bpn7299']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Ty widzisz, o mój Boże, jak nieprawości czynione przez te Twoje stworzenia, które odwróciły się od Ciebie, stanęły pomiędzy Tym, w którym Twoje Bóstwo jest objawione, a sługami Twymi. Ześlij na nie, o mój Panie, to, co sprawi, że wzajemnie spraw swych doglądać będą. Zatem niech ich gwałtowność będzie ograniczona do nich samych, aby ta kraina i ci, którzy w niej mieszkają, mogli odnaleźć pokój.
    

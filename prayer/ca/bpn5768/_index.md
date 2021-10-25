@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5768 in Català'
-tags = ['lang-ca', 'bpn5768']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##HUQÚQU’LLÁH
 

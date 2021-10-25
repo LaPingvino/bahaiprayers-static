@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6566 in 한국어'
-tags = ['lang-ko', 'bpn6566']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 이 젖먹이를
 

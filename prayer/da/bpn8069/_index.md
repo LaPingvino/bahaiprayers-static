@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8069 in Dansk'
-tags = ['lang-da', 'bpn8069']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Priset være Dit navn, o herre vor Gud! Du er i sandhed den, der har viden om usete ting. Bestem for os det gode som Din altomfattende kundskab kan udmåle. Du er Den Suveræne Herre, Den Almægtige, Den Mest Elskede.
 

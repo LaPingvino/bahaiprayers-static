@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12739 in '
-tags = ['lang-91', 'bpn12739']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 *Papan Tulis tu dibacha ba Sungkup Bahá’u’lláh enggau Sungkup Báb. Ia suah mega diguna kena ngintu pengerami ngingatka Seduai Iya.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3945 in Hrvatski'
-tags = ['lang-hr', 'bpn3945']
+tags = ['lang-hr', 'bpn-unsorted']
 +++
 O, Gospode! Daj da svim ljudima bude dopušteno ući u Raj Tvoje Vjere, tako da ni jedno stvorenje ne ostane izvan međa Tvojeg zadovoljstva.
 

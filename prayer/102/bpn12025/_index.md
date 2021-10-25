@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12025 in '
-tags = ['lang-102', 'bpn12025']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Oldur Gadyrly, Belent mertebe we Uly.
     Eý Ylahy bilbiller! Peslik tikenliginden manylar gülüstanyna tarap howlugyň eý gumdan dörän dostlar!

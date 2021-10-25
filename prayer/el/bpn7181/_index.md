@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7181 in ελληνικά'
-tags = ['lang-el', 'bpn7181']
+tags = ['lang-el', 'bpn-unsorted']
 +++
 Στο Όνοµά Του, το Εξυψωµένο, το Ανώτατο, το Υπέρτατο!
 

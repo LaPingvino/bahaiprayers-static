@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11436 in தமிழ்'
-tags = ['lang-ta', 'bpn11436']
+tags = ['lang-ta', 'bpn-unsorted']
 +++
 *ஆன்மீகச் சபைக் கூட்டத்தின் முடிவில் கூறவேண்டிய பிரார்த்தனை
 

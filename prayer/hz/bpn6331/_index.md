@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6331 in Namibia'
-tags = ['lang-hz', 'bpn6331']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Tanta asi: Oh Karunga,Karunga gwange ! Dwarekange komutwe gwange kumwe nouhungami woge ano ntembeli zange zigwaveka kumwe nehetakano. Yousili ove kwa kara nomauhwi nagenye ntani gomanzi unene. 
 Bahá’u’lláh

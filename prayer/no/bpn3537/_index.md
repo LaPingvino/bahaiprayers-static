@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3537 in Norsk'
-tags = ['lang-no', 'bpn3537']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 O sannhetssøker! Hvis du ønsker at Gud skal åpne ditt øye, må du bønnfalle Gud, be til ham og samtale med ham ved midnatt idet du sier:
  

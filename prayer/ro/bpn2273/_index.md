@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2273 in România'
-tags = ['lang-ro', 'bpn2273']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne Dumnezeul meu!
 Lauda şi mulţumirea fie cu Tine căci m-ai călăuzit către magistrala împărăţiei, mi-ai îngăduit să păşesc pe această cărare prelungă şi dreaptă, mi-ai deschis ochii lăsându-i să privească spledorile luminii Tale, mi-ai înclinat urechea către melodiile păsărilor sfinţeniei din împărăţia misterelor şi mi-ai atras inima cu iubirea Ta în mijlocul celor neprihăniţi.

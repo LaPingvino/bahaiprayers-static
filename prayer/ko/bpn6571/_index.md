@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6571 in 한국어'
-tags = ['lang-ko', 'bpn6571']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 저는 오늘 아침 잠이 깨었사오며…
 집을 나왔사옵나이다. 안전히 돌아갈 수

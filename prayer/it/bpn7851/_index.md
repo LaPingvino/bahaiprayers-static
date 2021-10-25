@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7851 in Italiano'
-tags = ['lang-it', 'bpn7851']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 O gni lode a Te, o Signore mio Dio! Quale mistero nel Fuoco che accendesti nel mio cuore! Le mie stesse membra attestano l’intensità del suo calore e mostrano il potere distruttore della sua fiamma. Se mai la lingua del mio corpo si attentasse a descriverTi come Colui la Cui forza è sempre stata superiore alla forza del più potente uomo, la lingua del cuore mi direbbe: «Non sono altro che parole adeguate solamente a cose che siano della stessa specie e natura. Ma Lui, per la verità, è infinitamente esaltato al di sopra della menzione di tutte le Sue creature».
 La forza della Tua potenza mi è testimone, o mio Benamato! Ogni membro del mio corpo parrebbe dotato di una bocca che Ti glorifica e magnifica il Tuo nome. Armato del potere del Tuo amore, l’odio che muove coloro che sono contro di Te non potrà mai allarmarmi e con la Tua lode sulle labbra, le decisioni del Tuo decreto non potranno mai colmarmi di dolore. Rafforza, dunque, il Tuo amore nel mio petto e permetti ch’io affronti gli assalti che tutti i popoli della terra possano lanciare contro di me. Giuro per Te! Ogni capello sul mio capo proclama: «Se non fosse per le avversità che mi hanno colpito sulla Tua via, come potrei mai gustare la divina dolcezza della Tua tenerezza e del Tuo amore?».

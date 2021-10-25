@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1688 in Íslenska'
-tags = ['lang-is', 'bpn1688']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Miklað sé nafn Þitt, ó Guð minn, að Þú hefur birt daginn sem er konungur daga, daginn sem Þú boðaðir Þínum útvöldu og spámönnum Þínum í Þínum ágætustu töflum, þann dag er Þú lést dýrðarljóma allra nafna Þinna lýsa yfir allt sem skapað er. Mikil er blessunin sem hlotnast þeim er hefur leitað til Þín, komist í návist Þína og heyrt óminn af rödd Þinni.
 Ég bið Þig auðmjúklega, ó Drottinn minn, við nafn Hans sem ríki nafna Þinna snýst um í að­dáun, að Þú munir af náð Þinni hjálpa þeim sem Þér eru kærir að upphefja orð Þitt meðal þjóna Þinna og útbreiða lof um Þig meðal skepna Þinna, svo algleymi opinberunar Þinnar megi fylla sálir allra sem dvelja á jörðu Þinni.

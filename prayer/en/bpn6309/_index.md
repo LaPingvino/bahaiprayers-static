@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6309 in English'
-tags = ['lang-en', 'bpn6309']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 ##Birth of Bahá’u’lláh
 

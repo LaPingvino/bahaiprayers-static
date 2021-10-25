@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5034 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5034']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 Lạy Thượng Đế của con, Ngài thật đáng ca tụng! Ngài là Đấng mà chỉ có một tiếng thốt ra khỏi môi cũng đủ làm đảo lộn cả tạo vật, mà chỉ một nét phát ra từ ngọn bút của Ngài cũng đủ khiến các tôi tớ Ngài bị phân rẽ. Lạy Thượng Đế của con, trong Mặc khải này con làm chứng rằng chỉ do một tiếng của Ngài, mọi vật thọ tạo đều chịu hủy diệt và do một tiếng khác nữa, tất cả những kẻ Ngài lựa chọn đều được ban cho đời sống mới, nhờ ân phúc và lượng bao dung của Ngài.
 Nhân danh tất cả những ai thân thiết cùng Ngài, con xin dâng lên Ngài lời cảm tạ và lời ca tụng bởi Ngài đã khiến họ sanh lại do nước sự sống tuôn đổ từ suối nguồn ý chí Ngài. Lạy Thượng Đế của con, bởi Ngài đã làm họ hồi sinh nhờ đức từ ái bao la của Ngài, nên do hảo ý Ngài xin Ngài cũng khiến họ được lôi cuốn mạnh mẽ bởi ý chí Ngài; và bởi Ngài đã để họ bước vào điện thờ Chánh Đạo Ngài, nên do ân đức Ngài xin Ngài cũng giúp họ không bị xa cách Ngài.

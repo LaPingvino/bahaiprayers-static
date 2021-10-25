@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7787 in Italiano'
-tags = ['lang-it', 'bpn7787']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 Preghiera da dirsi alla fine della seduta dell’As-semblea Spirituale.
 

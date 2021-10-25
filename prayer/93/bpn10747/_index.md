@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10747 in '
-tags = ['lang-93', 'bpn10747']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 U mnogim se sleđenim srcima, O moj Bože, razbuktala vatra Tvoje Vere, i mnoge usnule probudi umilni zvuk Tvog  glasa. Koliko li je neznanaca koji  potražiše utočište u hladu drveta Tvog jedinstva, i kako su brojni žedni koji izgaraše za izvorištem Tvojih živih voda u danima Tvojim!
 

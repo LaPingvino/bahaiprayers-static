@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8925 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8925']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 播撒上帝之芬芳者應每日清晨誦讀以下禱文。
 

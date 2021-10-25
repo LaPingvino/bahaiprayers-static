@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10903 in '
-tags = ['lang-95', 'bpn10903']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O te Aliki! Kia Koe e fuli atu au mo se lafiiga, kae ko oti ne fakasino a toku loto ki Au fakailoga katoa.
      O te Aliki! Me ko au e fai-malaga io mee nofo ite fale, me i taku fakapotopotoga, io me ko taku galuega, a toku talitonu ko tuku katoatoa kia Koe.

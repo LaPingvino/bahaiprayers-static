@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12694 in '
-tags = ['lang-91', 'bpn12694']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 ##Sambiang Pengerai ti Panjai
  Iya meh ti Pengubat, ti Penyukup, ti Pemantu, ti Pemadu

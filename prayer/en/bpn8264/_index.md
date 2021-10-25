@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8264 in English'
-tags = ['lang-en', 'bpn8264']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 #Excerpt from the Lawh-i-Salmán I
 ##Tablet to Salmán I

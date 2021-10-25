@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4412 in Filipino'
-tags = ['lang-tl', 'bpn4412']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Paano ko mapipiling tumulog, O Diyos, aking Diyos, samantalang ang mga mata nilang naghahangad sa Iyo ay gising dahil sa kanilang pagkahiwalay sa Iyo; at paano ako makahihiga upang mapahingalay samantalang ang mga kaluluwa ng mga umiibig sa Iyo ay labis na naghihirap sa kanilang pagkalayo sa Iyong harapan?
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2883 in Česky'
-tags = ['lang-cs', 'bpn2883']
+tags = ['lang-cs', 'bpn-unsorted']
 +++
 On je Bůh!
 

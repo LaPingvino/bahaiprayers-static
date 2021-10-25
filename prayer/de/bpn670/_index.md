@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn670 in Deutsch'
-tags = ['lang-de', 'bpn670']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 O Gott, mein Feuer und mein Licht! Die Tage, die Du in Deinem Buche die Ayyám-i-Há (1) nanntest, haben begonnen, o Du König aller Namen, und die Fasten nahen heran, deren Einhaltung Deine erhabenste Feder allen zur Pflicht gemacht, die im Reiche Deiner Schöpfung sind. Ich flehe Dich an, o mein Herr, bei diesen Tagen und bei allen, die sich während dieser Zeit an das Seil Deiner Gebote klammern und den Griff Deiner Vorschriften halten, gib, dass jeder Seele im Umkreis Deines Hofes ein Platz bestimmt sei, ein Sitz bei der Offenbarung des Strahlenglanzes Deines Antlitzes.
 Hier sind Deine Diener, o mein Herr, die keine verderbte Neigung von dem abhält, was Du in Deinem Buche herniedergesandt hast. Sie beugen sich vor Deiner Sache, sie ergreifen das Buch mit einer Entschiedenheit, die aus Dir geboren ist. Sie halten ein, was Du ihnen vorgeschrieben, und wollen befolgen, was ihnen von Dir herabgesandt ist.

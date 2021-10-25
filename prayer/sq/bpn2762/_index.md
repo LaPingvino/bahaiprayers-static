@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2762 in Shqip'
-tags = ['lang-sq', 'bpn2762']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 O Perëndi, Perëndia im! Kjo shërbëtore Jotja të thërret Ty, beson në Ty, e kthen fytyrën ndaj Teje, të lutet Ty të lëshosh mbi të bujaritë e Tua qiellore, t'i shfaqësh asaj misteret e Tua shpirtërore dhe të hedhësh mbi të dritat e Hyjnisë Sate.
 

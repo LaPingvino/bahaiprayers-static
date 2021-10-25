@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12425 in Namibia'
-tags = ['lang-hz', 'bpn12425']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Hompa, Karunga wande! Ove mudongononi po ndjo, muyambeki vitapa, mutunditipo liguvo! 
 	Vyashiri, ame kuna kukushungida mukughupira po ndjo dauno ogho ana shuvo shidwata sharutu a kanduke mughudjuni wapampepo. 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12344 in '
-tags = ['lang-95', 'bpn12344']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 A Ia ko te Atua!  
   

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6989 in Fiji'
-tags = ['lang-fj', 'bpn6989']
+tags = ['lang-fj', 'bpn-unsorted']
 +++
 *E volai e na i Vola Tabu ni Lawa (Na Kitab-i-Aqdas): “Keimami sa vakaroti kemuni mo ni masu ka lolo e na gauna e dodonu mo ni sa yalomatua kina (yabaki 15); oqo e sa vakarota na Kalou, na nomu Kalou ka nodra Kalou na nomuni qase.... O ira era lako e na dua na i lakolako yawa, o ira na tauvimate, o ira na vakasucu kei ira na tiko bibi era sega ni okati e na lolo.... Mo kakua ni kana se gunu, mai na cadra ni matanisiga me yacova ni sa dromu, ka qarauna mo kakua ni rawai e na veivakatovolei ni gagadre ni yalomu ka vakaleqa na veivakalougatataki e sa virikotori tu e na iVolatabu oqo."
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12172 in '
-tags = ['lang-104', 'bpn12172']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhanku, Tuhan rahmat dan belas kasihan!
 

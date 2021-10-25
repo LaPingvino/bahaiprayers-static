@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn649 in Deutsch'
-tags = ['lang-de', 'bpn649']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Ich beschwöre Dich bei Deiner Macht, o mein Gott! Lass kein Leid mich bedrängen in Zeiten der Prüfung und lenke, wenn ich achtlos bin, meine Schritte recht durch Deine Eingebung. Du bist Gott. Mächtig bist Du zu tun, was Du willst. Niemand kann Deinem Willen widerstehen oder Deine Absicht vereiteln.
 

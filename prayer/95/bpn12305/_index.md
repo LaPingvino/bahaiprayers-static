@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12305 in '
-tags = ['lang-95', 'bpn12305']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 Matagofie e i luga ia Koe, O te Aliki o te lalolagi mo te Manakoga o maalo, O ko Koe Te la ne fakaasi mai I Toe Igoa Lasi, ko la a penina o te atamai mo faipatiiga ko sae mai i pule o te tai takitakua o Tou poto, a ko lagi o te fakaasiiga faka-te-lagi ko oti ne fakaaloalo kit e mainaaga o sae mai o te la o Ou mata.  
   

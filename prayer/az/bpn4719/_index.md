@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4719 in Azərbaycan'
-tags = ['lang-az', 'bpn4719']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Ucalsın Sənin adın, Ey mənim Allahım və bütün şeylərin Allahı, mənim Şərəfim və bütün şeylərin Şərəfi, mənim Məqsudum və bütün şeylərin Məqsudu, mənim Qüvvətim və bütün şeyləri Qüvvəti, mənim Sultanım və bütün şeylərin Sultanı, mənim Sahibim və bütün şeylərin Sahibi, mənim Mətləbim və bütün şeylərin Mətləbi, mənim Hərəkətə Gətirənim və bütün şeylərin Hərəkətə Gətirəni! Diləyirəm səndən, Öz mərhəmət dəryandan məni mərhum etmə və Sənə yaxınlıq sahilindən məni uzaq salma.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12674 in '
-tags = ['lang-91', 'bpn12674']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 *(Semina Sambiang Pemati aja ti nyadi sambiang obligatori Bahá’í ke disebut dalam kongregasyen; ia disebut ulih siku orang ke arap lalu orang bukai bela bediri enda engkeretik. Bahá’u’lláh udah nerangka ianya sambiang tu semina disebut enti orang ke mati nya beumur lebih limabelas taun, ia mesti disebut sebedau tubuh ditanam, lalu tau enda ibuh nungaka mua ngadap Qiblih maya nyebut tu. “Alláh-u-Abhá” disebut sekali; ditangkan enggau genteran keterubah ari enam genteran ke disebut sembilanbelas kali. Udah nya sebut “Alláh-u-Abhá” sekali agi, ditangkan enggau genteran kedua, ke disebut sembilanbelas kali, lalu terus diulang baka nya.)
  

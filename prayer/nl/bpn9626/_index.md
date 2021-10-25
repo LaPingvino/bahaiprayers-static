@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9626 in Nederlands'
-tags = ['lang-nl', 'bpn9626']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 In Naam van God, de Allerhoogste! Geprezen en verheerlijkt zijt Gij, Heer, Almachtig God! Gij, voor Wiens wijsheid de wijze tekort schiet en faalt, voor Wiens kennis de geleerde zijn onwetendheid bekent, voor Wiens macht de sterke zwak wordt, voor Wiens rijkdom de rijke zijn armoede betuigt, voor Wiens licht de verlichte in duisternis dwaalt, naar de tempel van Wiens kennis de kern van alle begrip zich keert en rondom het heiligdom van Wiens tegenwoordigheid de zielen van de gehele mensheid cirkelen.
 Hoe kan ik dan zingen en vertellen van Uw Essentie, die door de wijsheid der wijzen en de kennis der geleerden niet is begrepen, daar toch geen mens kan bezingen wat hij niet bevat, noch kan verhalen van wat hij niet kan bereiken, terwijl Gij toch sedert het begin der tijden de Ontoegankelijke, de Ondoorgrondelijke waart? Machteloos als ik ben om tot de hemelen van Uw heerlijkheid te stijgen en mij tot de rijken van Uw kennis te verheffen, kan ik slechts verhalen van Uw tekenen die van het heerlijke werk Uwer handen getuigen.

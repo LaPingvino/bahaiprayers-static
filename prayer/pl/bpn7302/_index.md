@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7302 in Polski'
-tags = ['lang-pl', 'bpn7302']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Boże mój, którego czczę i wielbię! Daję świadectwo Twojej jedności i jedyności i uznaję Twoje dary, zsyłane zarówno w przeszłości, jak i obecnie. Tyś jest Wszechłaskawym, którego miłosierdzie spłynęło jak obfity deszcz tak na wywyższonych, jak i na poniżonych, i który rozsiał swe wspaniałe łaski zarówno na posłusznych, jak i na zbuntowanych.
    

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9389 in Malagasy'
-tags = ['lang-mg', 'bpn9389']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitra ô! Andriamanitra! Hitanao aho raiki-pitia sy voasinton’ny Fanjakanao El-Abhá, miredaredan’ny afom-pitiavanao eo anivon’ny olona, manambara ny Fanjakanao ao amin’ireo firenena lehibe sy midadasika, tafasaraka tamin’ny zavatra rehetra afa-tsy Ianao, mandao ny fialan-tsasatra sy ny fiadanana, mametraka ny fitokisako Aminao.
 Lavitra ny tany nihaviako, mpisava lalana any amin’ireo faritra ireo, mpivahiny eto amin’ity tany ity, mitsangana am-panetren-tena aho eo anoloan’ny Tokonanao Masina, manaiky ny Fanapahanao ambony indrindra, mitalaho Aminao ny hariva sy amin’ny misasak’alina, miantso Anao sy mitaraina Aminao marain-tsy hariva mba hanampy ahy amin’ny fanompoana ny Fototrao, ny fanapariahana ny Fampianaranao sy ny fankalazana ny Teninao manerana ny tany Atsinanana sy Andrefana.

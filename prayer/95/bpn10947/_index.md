@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10947 in '
-tags = ['lang-95', 'bpn10947']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O God my God! I beg of Thee...
 O te Atua toku Atua!  Au e akai kia Koe i te vasa o Tau fakaleiiga o masaki, mo te matagofie o te Fetu Ao o Tou alofa-kaimalie, mo Tou Igoa te la ne faka-filemu Au tavini, mo te maalosi salalau o Tau Muna tafasili i te maluga m te maalosi o Tau pene lauiloa, mo Tou alofa-kaimalie te la ne vau muamua i te faiitega o mea katoa i te lagi mo te lalolagi, ke ave keatea au mai i te vai o so se masei mo te se toka, pela foki mo so se vaaivaiiga mo te se maalosi.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8495 in 简体中文'
-tags = ['lang-zh-Hans', 'bpn8495']
+tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 每日中午吟诵一次
 我的上帝啊！我见证：祢将我造生，是让我认知祢，崇奉祢。此时此刻，我向祢表明我的无能和祢的万能，我的贫穷和祢的富裕。

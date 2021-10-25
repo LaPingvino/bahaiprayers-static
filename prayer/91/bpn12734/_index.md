@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12734 in '
-tags = ['lang-91', 'bpn12734']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 *Tiap kali masuk ngagai bilik aum, besampi ngena sambiang tu enggau ati ti keketap ketegal pengerindu Petara sereta dilah ti dituchi ari semua utai kelimpah ari pengingat Iya, awakka Iya ti Pemadu Bekuasa tau enggau pengasih mantu kita bulih pemenang ti pengambis tinggi.
 

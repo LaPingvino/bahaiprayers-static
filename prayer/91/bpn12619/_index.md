@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12619 in '
-tags = ['lang-91', 'bpn12619']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 O Nuan Tuhan ti nelap! Ari bingkai-langit pengingkas
 Nuan udah ngayanka bala semengat ti, indah enda baka bulan ti terang, mancharka penampak ba dunya ati enggau semengat, ngelengka diri empu ari penau dunya nyata tu lalu berumban nuju ngagai dunya pengidup ti selama ia. Ngena setitik ai ari tasik penelap pengerindu Nuan, Nuan udah ngamika kebun ati sida datai ke sida nyau pemadu segar sereta manding. Rengut pengudus ke penyerakup suchi Nuan udah ngerembai jauh, ngesuhka pemanis bau ia ba selampur dunya, ngasuh semua tempat di dunya tu ngaba laban bau angi ia.

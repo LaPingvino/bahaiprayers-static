@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8059 in Dansk'
-tags = ['lang-da', 'bpn8059']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 O Herre! Hos Dig søger jeg tilflugt og mod alle Dine tegn retter jeg mit hjerte.
 

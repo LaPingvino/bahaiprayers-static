@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1152 in Português (BR)'
-tags = ['lang-pt', 'bpn1152']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó meu Senhor, meu Defensor, meu Amparo no perigo! Com absoluta humildade suplico-te; enfermo, a Ti me volvo, esperando a Tua cura; a Ti clamo, humildemente, com a fala, a alma e o espírito:
 Ó Deus, meu Deus! A escuridão da noite encobriu todas as regiões, e a Terra inteira acha-se velada por nuvens densas. Os povos do mundo estão submersos nas profundezas tenebrosas das vãs ilusões, enquanto os seus tiranos nadam na crueldade e no ódio. Nada vejo a não ser o clarão dos fogos devoradores e ardentes que se erguem no ínfimo dos abismos; som algum me chega aos ouvidos senão o estrondo atroador produzido pelo ribombar de milhares e milhares de armas de fogo de ataque, ao mesmo tempo em que toda a plaga exclama, em voz alta, na sua língua secreta: “As minhas riquezas de nada me valem e a minha soberania pereceu!”

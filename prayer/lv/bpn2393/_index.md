@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2393 in Latviešu'
-tags = ['lang-lv', 'bpn2393']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Viņš ir Dievs!
 Ak Dievs, mans Dievs! Šeit ir Tavās dienās Tava svētuma saldās smaržas saistītie kalpi, kuros iedegta liesma no Tava svētā koka, kalpi, kas atsaucas uz Tavu balsi, kas teic Tavu slavu, kurus modina Tavas vēsmas, kurus saviļņo Tava saldme, kas redz Tavas zīmes, kas saprot Tavas vārsmas, kas ieklausās Tavos vārdos, kas tic Tavai Atklāsmei un kuri ir droši par Tavu mīlošo laipnību. Viņu acis, ak Kungs, ir vērstas uz Tavu gaismā starojošo Ķēniņvalsti, un vaigs viņiem ir celts uz Tavas valdīšanas augstumiem. Viņu sirdis sit mīlā uz Tavu godībā mirdzošo Daili. Tavas mīlestības liesmas pārņem viņu dvēseles, ak Tu šīs pasaules un nākamo pasauļu Kungs. Karstās ilgās pēc Tevis sadeg viņu sirdis, un lej viņi asaras pēc Tevis.

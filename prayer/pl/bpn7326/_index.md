@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7326 in Polski'
-tags = ['lang-pl', 'bpn7326']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Ktokolwiek wybiera się w podróż do jakiegoś miejsca, aby nauczać, niechaj w czasie swej podróży do obcych krajów odmawia tę modlitwę w dzień i w nocy:
    

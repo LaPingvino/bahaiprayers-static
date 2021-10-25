@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12637 in '
-tags = ['lang-91', 'bpn12637']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 O Petara,	enggau	Petara	ke	semua	Nama,	enggau
 Pengaga semua serega! Aku minta Nuan nengah Nama Nuan ke alai Iya ti Terebak-tawas ke penegap Nuan enggau Palan Penurun kuasa Nuan udah diayanka, nengah nya genap utai ti betekang udah diasuh lela, lalu genap iku bangkai ti mati diidupka, lalu genap iti roh ti nginsit dientapka—aku minta Nuan ngambika aku ulih ngingkaska aku empu ari semua tanggam ngagai semua utai tang Nuan, lalu gawaka Pengawa Nuan, lalu dekaka utai ti dikedeka Nuan nengah pengering kuasa-raja Nuan, lalu ngereja utai ti manah ba penyamai peneka Nuan.

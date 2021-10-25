@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11760 in '
-tags = ['lang-100', 'bpn11760']
+tags = ['lang-100', 'bpn-unsorted']
 +++
 ##Rānar haifuwar Bab (aminci ya tabbata a garēshi)
 *Da sūnan wanda aka haifa a wannan rāna, wanda Allah ya haliccē shi dōmin ya zama kākākin sūnansa mai īko, mai ƙauna.

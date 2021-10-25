@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5775 in Català'
-tags = ['lang-ca', 'bpn5775']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Lloat siguis, oh Senyor, Déu meu! T’imploro per aquesta Revelació, mitjançant la qual l’obscuritat a estat convertida en llum, s’ha erigit el sovintejat Temple, s’ha revelat la Taula escrita i s’ha descobert el Rotlle Estès, que facis descendir sobre meu i sobre els qui estan en la meva companyia allò què ens permeti remuntar-nos als cels de la Teva transcendent glòria i ens renti la màcula dels dubtes què van impedir als desconfiats entrar al tabernacle de la Teva unitat.
 

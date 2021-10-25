@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6442 in English'
-tags = ['lang-en', 'bpn6442']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 Thou seest, O God of Mercy, Thou Whose power pervadeth all created things, these servants of Thine, Thy thralls, who, according to the good-pleasure of Thy Will, observe in the daytime the fast prescribed by Thee, who arise, at the earliest dawn of day, to make mention of Thy Name, and to celebrate Thy praise, in the hope of obtaining their share of the goodly things that are treasured up within the treasuries of Thy grace and bounty. I beseech Thee, O Thou that holdest in Thine hands the reins of the entire creation, in Whose grasp is the whole kingdom of Thy names and of Thine attributes, not to deprive, in Thy Day, Thy servants from the showers pouring from the clouds of Thy mercy, nor to hinder them from taking their portion of the ocean of Thy good-pleasure.
 

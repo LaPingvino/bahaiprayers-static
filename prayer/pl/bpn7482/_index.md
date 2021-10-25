@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7482 in Polski'
-tags = ['lang-pl', 'bpn7482']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 ##LAWH-I-AQDAS
 *(NAJŚWIĘTSZA TABLICA zwana także TABLICĄ DO CHRZEŚCIJAN)

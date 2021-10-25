@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7833 in Italiano'
-tags = ['lang-it', 'bpn7833']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 O Dio, Che sei Autore di tutte le Manifestazioni, Sorgente di tutte le Sorgenti, Fonte di tutte le Rivelazioni e Origine di tutte le Luci! 
 Io attesto che pel Tuo Nome è stato adornato il cielo dell’intelletto, ha spumeggiato l’oceano della parola e sono state promulgate le dispensazioni della Tua provvidenza fra i seguaci di tutte le religioni. 

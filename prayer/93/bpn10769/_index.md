@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10769 in '
-tags = ['lang-93', 'bpn10769']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 *Ovo je molitva za sve bahajce starije od petnaest godina.To je jedina obavezna molitva koja se izgovara u kongregaciji; govori je jedan vernik dok ostali stoje.Kod ove molitve nije potrebno okrenuti se prema Kibli.
 

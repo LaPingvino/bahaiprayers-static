@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10744 in '
-tags = ['lang-93', 'bpn10744']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 O Bože! O Bože! Evo jedne ptice slomljenog krila čiji je let veoma spor – pomozi joj, da može da se vine ka vrhuncima blagostanja i spasenja, da na krilima stigne do nepomućene radosti i sreće, leteći kroz neograničen prostor. Neka se njen poj, posvećen Tvom Višnjem Imenu, zaori na sve strane, neka donese ushit svima koji čuju taj poziv, i neka zasijaju oči svima koji ugledaju putokaze!
 

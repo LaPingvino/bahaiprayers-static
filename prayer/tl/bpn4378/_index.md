@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4378 in Filipino'
-tags = ['lang-tl', 'bpn4378']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Dapat usalin minsan sa dalawampu't apat na oras
 

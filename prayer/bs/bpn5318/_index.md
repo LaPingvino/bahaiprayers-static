@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5318 in Bosanski'
-tags = ['lang-bs', 'bpn5318']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 U ime Boga, Gospodara nedokučive veličanstvenosti, Svepokoravajućeg.
 Slavljen neka je Gospodar u Čijoj ruci je izvor

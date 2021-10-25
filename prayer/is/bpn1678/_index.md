@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1678 in Íslenska'
-tags = ['lang-is', 'bpn1678']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Ó Drottinn, Guð minn og athvarf mitt í nauð­um mínum! Skjöldur minn og skjól í ógæfu minni! Hæli mitt og höfn í þrengingum og félagi í einmanaleik mínum. Í kvíða huggun mín og ást­ríkur vinur í einveru. Þú eyðir sársauka sorgar minnar og fyrirgefur syndir mínar.
 Til Þín eins leita ég og grátbæni Þig með hjarta, huga og tungu að vernda mig gegn öllu, sem er andstætt vilja Þínum í þessum heimi Þinnar guð­dómlegu einingar og hreinsa mig af allri saurgun, sem gæti aftrað mér frá að leita, flekklaus og hreinn, forsælunnar undir tré náðar Þinnar.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5288 in Bosanski'
-tags = ['lang-bs', 'bpn5288']
+tags = ['lang-bs', 'bpn-unsorted']
 +++
 O Gospodaru! Jadni smo, daruj nam Svoju naklonost; siromašni smo, daj nam udio iz okeana Tvoga blaga; slabi smo, udovolji nam; poniženi smo, daj nam Svoju slavu. Ptice u zraku i zvijeri u divljini svakog dana primaju hranu od Tebe, sva bića su pod Tvojom brigom i zaštitom.
 Ne uskrati ovom obeshrabljenome Tvoju čudesnu milost, a posredstvom Svoje moći udijeli Svoje obilje ovoj krhkoj duši.

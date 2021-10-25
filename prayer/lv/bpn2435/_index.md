@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2435 in Latviešu'
-tags = ['lang-lv', 'bpn2435']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 Ak Dievs, mans Dievs! Es esmu griezies pie Tevis grēku nožēlā, un, patiesi, Tu esi Piedevējs, Tu esi Līdzjūtīgais!
 Ak Dievs, mans Dievs! Es esmu atgriezies pie Tevis, un, patiesi, Tu esi Mūžam Piedodošais, Tu esi Žēlotājs!

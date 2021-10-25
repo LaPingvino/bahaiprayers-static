@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1248 in Português (BR)'
-tags = ['lang-pt', 'bpn1248']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, meu Deus! Voltei-me arrependido para Ti e, em verdade, Tu és o Supremo Perdão, o Compassivo.
 Ó Deus, meu Deus! A Ti regressei e, em verdade, Tu és o Sempre-Clemente, o Dispensador de graças.

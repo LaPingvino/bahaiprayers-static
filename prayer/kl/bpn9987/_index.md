@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9987 in Kalaallisut'
-tags = ['lang-kl', 'bpn9987']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 *(Qinnut una, 'Abdu'l-Bahá-mit saqqummerneqarsimasoq Ilerfata eqqaani atuarneqartarpoq. Namminerlu kisimiilluni qinunermi atorneqartarluni.) 
 

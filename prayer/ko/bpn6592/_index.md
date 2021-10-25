@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6592 in 한국어'
-tags = ['lang-ko', 'bpn6592']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 모든 사람들의 이마 위에
 

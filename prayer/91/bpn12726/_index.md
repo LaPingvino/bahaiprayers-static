@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12726 in '
-tags = ['lang-91', 'bpn12726']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 *Dalam Kitab-i-Aqdas bisi disebut: Kami udah nangkan kita besambiang enggau bepuasa berengkah ari umur maturiti (15 taun): tu udah diletak Petara, Tuhan nuan enggau Tuhan aki-ini nuan …. Orang ke bejalai jauh, ke sakit, indu ke ngandung enggau nusuka anak, dikelaung ari bepuasa…. Anang makai tauka ngirup, berengkah ari matahari tumbuh nyentuk ngagai maya matahari padam, lalu bejaga enggaika pengingin nagang kita ari ke ditetap dalam Kitab.
 *Kandang maya puasa ianya dalam bulan ‘Alá’ (Peninggi).

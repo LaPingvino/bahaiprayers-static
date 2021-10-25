@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1672 in Íslenska'
-tags = ['lang-is', 'bpn1672']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er græðarinn, nægjandinn, hjálparinn, sá sem allt fyrirgefur, hinn almiskunnsami.
 Ég ákalla Þig, ó upphafni, ó trúfasti, ó dýrðlegi! Þú sem nægir, Þú sem græðir, Þú sem varir, ó Þú ævarandi!

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12434 in Namibia'
-tags = ['lang-hz', 'bpn12434']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Ghamb: Ove Karunga, Karunga wande! Ntura mutwe wande nashipangura sha ghushili, ntani ntembeli yande na ghurenka waghuwa. Ove ghushili, wawaparo, ove mutapi wanavintje vyaviwa.
 

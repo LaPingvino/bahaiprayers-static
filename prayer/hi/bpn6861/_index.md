@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6861 in हिंदी'
-tags = ['lang-hi', 'bpn6861']
+tags = ['lang-hi', 'bpn-unsorted']
 +++
 ##अहमद की पाती
 

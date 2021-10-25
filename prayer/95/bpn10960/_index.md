@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10960 in '
-tags = ['lang-95', 'bpn10960']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 *A te Kitáb-i-Aqdas e fai mai: Ko oti ne fakatonu a koe ke talo kae anapogi mai ite kamataga ote tausaga matua [15 tausaga]; mea ne ko oti ne fakatonu mai ne te Atua, tou Aliki mot e Aliki o ou tuaa.  A ia te la fano malaga, e masaki, mo ia tela e nofo mo tamaliki foliki io me koi susu a tena tama e se aofia ite anapogi…Anapogi mai i meakai mo mea inu mai ite saeega o te laa kite toga o te laa, kae faeteete i ou manakoga ma fai ne ia ke se maua ne koe a te alofaaga tenei tela ko oti ne tusi i te Tusi.”
 Te taimi o te Anapogi mai ia Mati2 kia Mati 20.

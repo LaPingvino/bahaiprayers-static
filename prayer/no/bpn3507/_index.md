@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3507 in Norsk'
-tags = ['lang-no', 'bpn3507']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 Han er Gud, opphøyet er han, miskunnhetens og gavmildhetens Herre!
  

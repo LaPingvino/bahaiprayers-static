@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10736 in '
-tags = ['lang-93', 'bpn10736']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 O dobri Gospode! Ova divna deca su rukotvorina koju su ispleli prsti Tvoje sile, i čudesni znaci Tvoje veličine. O Bože! Zaštiti ovu decu, milostivo pomozi da dobiju obrazovanje i osposobi ih da služe čovečanstvu. O Bože! Ova su deca biseri, neka budu odgajana u školjki Tvoje ljubavi i dobrote.
 

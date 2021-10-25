@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2281 in România'
-tags = ['lang-ro', 'bpn2281']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne Dumnezeul meu, ajută-l pe
 slujitorul Tău să preamărească

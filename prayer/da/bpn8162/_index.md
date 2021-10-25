@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8162 in Dansk'
-tags = ['lang-da', 'bpn8162']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Priset være Du, o min Gud! Disse er Dine tjenere, der er tiltrukket af Din barmhjertigheds dufte, optændte af den ild, der brænder i Din enheds træ, og hvis øjne er blevet oplyste ved at se stråleglansen fra lyset, der skinner på Din enheds Sinai.
 

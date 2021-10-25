@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9522 in العربية'
-tags = ['lang-ar', 'bpn9522']
+tags = ['lang-ar', 'bpn-unsorted']
 +++
 قَدْ نُزِّلَ فِيْ أَيَّامِ الهاءِ
 قَوْلُهُ تَعالى:

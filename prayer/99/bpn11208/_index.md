@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11208 in '
-tags = ['lang-99', 'bpn11208']
+tags = ['lang-99', 'bpn-unsorted']
 +++
 Ee Mungu na Bwana wangu!  Mimi ni mutumishi Wako na Mwana wa mtumishi Wako.  Nimeamka kutoka kitandani mwangu kwenye mapambazuko haya wakati Nyota ya Mchana ya umoja Wako imemulika kutoka Mapambazuko ya amri yako, na imetoa mng’ao wake juu ya ulimwengu wote, kulingana na yale yaliyoamriwa katika Vitabu vya Amri Yako. 
  

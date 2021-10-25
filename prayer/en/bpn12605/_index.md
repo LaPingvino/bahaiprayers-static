@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12605 in English'
-tags = ['lang-en', 'bpn12605']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 O Lord so rich in bounty, so replete with grace,
 Whose knowledge doth mine inmost heart and soul embrace!

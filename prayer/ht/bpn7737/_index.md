@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7737 in Kreyol Ayisyen'
-tags = ['lang-ht', 'bpn7737']
+tags = ['lang-ht', 'bpn-unsorted']
 +++
 Voye pou mwen, O Senyè mwen, ak pou moun ki kwè nan Ou, sa Ou estime k’ap pi bon pou nou, jan li prezante nan Manman Liv la, paske Ou kenbe anba kontwòl Ou pòsyon ki etabli pou tout bagay. 
 Ou voye desann bon kado Ou yo san rete sou tout moun ki vrèman apresye lanmou Ou, e Ou bay avèk jenewozite siyn mèveye bonte selès Ou yo sou tout moun ki kwè nan Linite diven Ou. Nou mete anba swen Ou tout sa Ou te chwazi pou lavni nou, epi nou priye Ou pou deside voye pou nou tout bon bagay konesans Ou posede. 

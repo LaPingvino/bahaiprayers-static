@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9400 in Malagasy'
-tags = ['lang-mg', 'bpn9400']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 *Ity vavaka ity, nambaran’i ‘Abdu’l-Bahá, ity dia vakiana eo anoloan’ny Fasany. Vakiana koa ity amin’ny vavaky ny tena samirery. 
 *Izay mamaky ity vavaka ity amin-kafanam-po sy am-panetren-tena dia mitondra fifaliana sy fahasambarana ao am-pon’ity Mpanompo ity (‘Abdu’l-Bahá); toy ny mihaona mifanatrika Aminy 

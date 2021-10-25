@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11595 in Español'
-tags = ['lang-es', 'bpn11595']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ¡Oh Dios, mi Dios! Esta Tu sierva Te invoca, confiando en Ti, volviendo el rostro hacia Ti, implorando que derrames Tus dones celestiales sobre ella, le reveles Tus misterios espirituales y viertas sobre ella las luces de Tu Divinidad.
 ¡Oh mi Señor! Haz que los ojos de mi marido vean. Alegra su corazón con la luz de Tu conocimiento, atrae su mente hacia Tu radiante belleza, regocija su espíritu mediante la revelación de Tus esplendores manifiestos.

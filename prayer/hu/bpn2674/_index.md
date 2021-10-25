@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2674 in Magyar'
-tags = ['lang-hu', 'bpn2674']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, Uram! Hozzád térek menedékért és a Te jeleidre figyelmez szívem.
 

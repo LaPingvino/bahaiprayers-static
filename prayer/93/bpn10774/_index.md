@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10774 in '
-tags = ['lang-93', 'bpn10774']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 *Obaveza vam je da održavate Svetkovinu jednom u svakom mesecu, pa makar da samo voda bude poslužena, Bog je uistinu namerio da zajedno okupi ljudska srca, pa makar to zahtevalo sva sredstva koja postoje na zemlji i na nebu.
                                                                  

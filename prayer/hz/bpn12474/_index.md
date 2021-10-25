@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12474 in Namibia'
-tags = ['lang-hz', 'bpn12474']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 Ye Oimuyapuki shili, Ye Omunenenhu
 

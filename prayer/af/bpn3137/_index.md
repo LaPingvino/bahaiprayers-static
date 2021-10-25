@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3137 in Afrikaans'
-tags = ['lang-af', 'bpn3137']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O my Here! O my Here!
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3224 in Afrikaans'
-tags = ['lang-af', 'bpn3224']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 *Hierdie gebed, deur 'Abdu'l-Bahá geopenbaar, word by Sy Heiligdom gelees. Dit word ook by private gebed gebruik.
 

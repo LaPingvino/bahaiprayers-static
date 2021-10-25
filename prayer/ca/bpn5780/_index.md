@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5780 in Català'
-tags = ['lang-ca', 'bpn5780']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##ASSEMBLEA ESPIRITUAL
 

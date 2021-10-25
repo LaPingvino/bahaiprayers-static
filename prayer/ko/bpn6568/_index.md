@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6568 in 한국어'
-tags = ['lang-ko', 'bpn6568']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 이 어린 아이를, 이제 막 돋아난 이 새싹을
 

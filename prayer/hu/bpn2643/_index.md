@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2643 in Magyar'
-tags = ['lang-hu', 'bpn2643']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 *... a napi kötelező imákat, néhány további különleges imával egyetemben, mint a Gyógyító ima, a Tábla Ahmedhez, Bahá’u’lláh különleges erővel és jelentőséggel ruházta fel, és a hívőknek ezeket ekként kell elfogadniuk és megkérdőjelezhetetlen hittel és bizalommal kell mondaniuk, hogy ezek által sokkal közelebbi kapcsolatba lépjenek Istennel, és még teljesebben azonosítsák magukat az Ő törvényeivel és utasításaival. —egy Shogi Effendi nevében írt levélből
 

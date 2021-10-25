@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10198 in Māori'
-tags = ['lang-mi', 'bpn10198']
+tags = ['lang-mi', 'bpn-unsorted']
 +++
 Korōria ki a Koe, E tōku Atua! Ko tētahi o Āu hāwini, i whakapono ki a Koe me Āu tohu, kua puta ki raro o te ataata o te rākau o Tō kotahitanga. Tukua ia kia inu, e tōku Atua, mā Tōu Ingoa, i te Mea Whaitinana, Mea Ngaro hoki, o Tāu Waina hirahira kua hīratia ka wātea ai ia mai i tōna ake tuakiri, ka meinga ai a ia kia piripono katoa ki Tōu whakamaumaharatanga, me te wetewetea mai i tētahi i tua atu i a Koe. 
 

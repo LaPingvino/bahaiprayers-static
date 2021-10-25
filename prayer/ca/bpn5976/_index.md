@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5976 in Català'
-tags = ['lang-ca', 'bpn5976']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu meu, oh Déu meu Veritablement T’invoco i suplico davant el Teu llindar, pregant que totes les Teves mercès descendeixin sobre aquestes ànimes. Prepara-les pel Teu favor i la Teva veritat.
 Oh Senyor! Uneix i enllaça els cors, uneix totes les ànimes en harmonia i alegra els seus esperits per mitjà dels signes de la Teva santedat i unitat. Oh Senyor! Fes radiants aquests rostres mitjançant la llum de la Teva unitat. Enforteix les esquenes dels Teus serfs al servei del Teu regne.

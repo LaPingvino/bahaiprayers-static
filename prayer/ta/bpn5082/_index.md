@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5082 in தமிழ்'
-tags = ['lang-ta', 'bpn5082']
+tags = ['lang-ta', 'bpn-unsorted']
 +++
 ##சுருக்கமான கட்டாயப்பிரார்த்தனை
  

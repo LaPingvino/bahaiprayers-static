@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10805 in '
-tags = ['lang-94', 'bpn10805']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 *O ofufuza Choonadi! Ngati ukukhumba kuti Mulungu atsegule maso ako, uyenera kupempha kwa Mulungu, kupemphera ndi kuyankhula Naye pakati pausiku, ndi kunena: 
 

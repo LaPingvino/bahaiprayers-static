@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6321 in Namibia'
-tags = ['lang-hz', 'bpn6321']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 #NDANGO ZOPAMPEPO
 ##(SPIRITUAL ASSEMBLY)

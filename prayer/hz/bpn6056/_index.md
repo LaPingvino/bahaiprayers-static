@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6056 in Namibia'
-tags = ['lang-hz', 'bpn6056']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 *(Omapanga ayehe yaMukuru yeso kuyandja ko oviyandjewa otja komuinyo we puma yenene mohange ku ngamwa Omuitavere, Mapanga waMukuru! Kamuna ku tjiwa kutja tjima uyandja oviyandjewa vyenu imbi, okutja okukuna kwenu, noupandi, noma randasaneno wenu  mayekakara omaningandu  tjinene. Umwe nguma yandja no mutima omuwa eye mapewa tjimwe otjiwa          komomurungu  waNdjambi mo watjiri Muhona omunamwinyo mayandja  kuimba  mbeyandja outumbe  wawo  mOngamburiro Ye )
 

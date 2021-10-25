@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9300 in Français'
-tags = ['lang-fr', 'bpn9300']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Tablette du Saint Nautonier
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10775 in '
-tags = ['lang-93', 'bpn10775']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 Slavljen si Ti, O Gospode moj Bože! Svaki čovek koji je imao duhovni uvid priznaje Tvoju vrhovnu vlasti i Tvoje kraljevstvo, i svako pronicljivo oko opaža Tvoje veličanstvo i Tvoju neodoljivu silu. Vetrovi iskušenja ne mogu zadržati one koji uživaju u Tvojoj blizini, niti ih sprečiti da uprave lica ka horizontu Tvog sjaja. Bure koje ih stavljaju na probu neće uspeti da odvrate niti osujete one koji su potpuno posvećeni izvršenju Tvoje volje, i oni će stići do Tvog dvora.
 

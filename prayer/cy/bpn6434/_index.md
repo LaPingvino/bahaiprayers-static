@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6434 in Cymraeg'
-tags = ['lang-cy', 'bpn6434']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 *(The Intercalary Days, February 26 to March 1, inclusive, should be days of preparation for the Fast, days of hospitality, charity and the giving of present.)
 

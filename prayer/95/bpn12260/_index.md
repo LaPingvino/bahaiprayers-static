@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12260 in '
-tags = ['lang-95', 'bpn12260']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 E mafai pefea ne au o tavae a Koe, O te Aliki, aua i fakatalitouuga o te mafi o Tou matagofie mo te gali o te manogi suamalie o Koe te la ko oti ne aumai ne Koe kia Au i te olo-maalosi tenei, i se auala tela e seai se mea i lagi io me ko te lalolagi e mafai o fakatusa mo latou?  A Koe ne taumata mai kia Au i te koga-loto o te mauga tenei tela Au ne siomia ne mauga mai i feitu katoa.  E tasi e tautau mai i luga ia Au, ko nisi e tu mai i Toku feitu fakaatamai mo Toku faka-maui kae e isi foki e olo aka mai i Oku mua.  E 
 maluga a Koe, e seai aka foki se Atua na loa ko Koe.  E pefea ate uke o taimi ne lavea ne Au a fuafatu mai i luga i te mauaga e to ifo kia luga ia Au, kae ne puipui Au ne Koe mai i ei kae tausi Au i loto ite olo-maalosi o Tou Tafatasi faka-te-lagi.  

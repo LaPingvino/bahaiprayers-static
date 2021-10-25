@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6082 in Sranan Tongo'
-tags = ['lang-srn', 'bpn6082']
+tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##DI SATI BEGI DI JU MUSU BEGI HINIWAN DAKA 
 *(Bahá'u'lláh tjaa dii begi ko da u di ju musu fu begi hiniwan daka. Hiniwan sembe di ta biibi musu fu begi wan fu den dii begi wan pasi wan daka kuma fa de leewi hen. Di begi aki, hen da di möö sati wan, hen ju musu taki wan pasi wan daka a di pisi ten fu twalufu juu tja kisi sonu nangu.) 

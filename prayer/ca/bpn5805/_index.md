@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5805 in Català'
-tags = ['lang-ca', 'bpn5805']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Glòria sigui a Tu, oh Senyor Déu meu! No humiliïs  als qui Tu has exaltat mitjançant el poder de la Teva sobirania eterna i no allunyis de Tu a qui Tu has fet entrar al tabernacle de la Teva eternitat.¿Rebutjaràs, oh Déu meu a qui Tu has protegit amb la Teva sobirania i apartaràs de Tu, oh desig meu, a aquell per a qui Tu has estat un refugi? ¿Podràs degradar a qui Tu has elevat o oblidar a qui Tu permeteres que et recordés?
 

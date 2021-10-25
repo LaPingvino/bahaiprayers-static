@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12653 in '
-tags = ['lang-91', 'bpn12653']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 Leka sampi entudi tu patut dibacha bala pengajar enggau bala pangan ninting hari:
  O Nuan Tuhan ti penelap! Puji meh ngagai Nuan laban

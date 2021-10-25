@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5482 in 日本語'
-tags = ['lang-ja', 'bpn5482']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 おお真理の探究者よ。もし汝、開眼(かいがん)を神に願うならば、
 真夜中に神と対話し、祈り、次のように嘆願せよ。

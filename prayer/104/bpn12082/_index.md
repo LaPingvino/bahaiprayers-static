@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12082 in '
-tags = ['lang-104', 'bpn12082']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Ya Tuhanku! Ya Tuhanku! Engkau melihat kanak-kanak ini yang adalah dahan daripada pohon kehidupan, burung-burung di padang keselamatan, mutiara-mutiara di samudera kurnia-Mu, bunga-bunga mawar di taman bimbingan-Mu.
 

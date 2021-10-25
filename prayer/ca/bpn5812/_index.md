@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5812 in Català'
-tags = ['lang-ca', 'bpn5812']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Oració Per L’enterrament
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9588 in Nederlands'
-tags = ['lang-nl', 'bpn9588']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 ##Het lange genezingsgebed
 

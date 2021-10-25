@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5209 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5209']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 ##Puasa 
 *[Masa Puasa adalah dari tanggal 2 Maret - 20 Maret]

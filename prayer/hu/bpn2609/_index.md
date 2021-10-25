@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2609 in Magyar'
-tags = ['lang-hu', 'bpn2609']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 *Elmondandó egyszer minden huszonnégy órában
 Ki ezen imát kívánja mondani, emelkedjen fel és forduljon Istenhez, álltában nézzen jobb, majd bal felé, mintha az Úr, a Legirgalmasabb, a Könyörületes irgalmát várná. Majd pedig szóljon emígyen:

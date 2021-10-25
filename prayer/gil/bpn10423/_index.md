@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10423 in Kiribati'
-tags = ['lang-gil', 'bpn10423']
+tags = ['lang-gil', 'bpn-unsorted']
 +++
 Au Uea, ao Atuau ao au Tabo ni Motirawa man korakaiu! Otangau ao te Tia Kakaawakin man  korakaiu!  Au nono ao au Tabo ni Kakaawakin n tain te kangaanga ao n tain te maroaa bon iriau, n au tai n rawawata bon karauan nanou ao ngkana ti ngai bon raou ae e tangiraki.  Te Tia Kamwaawai kananokaawaki nako ao te Tia Kabwarai au bure!
 I bon rairaki raoi Nakoim, ao ni bubutii n tataro Nakoim ma nanou ni kabanea, ma au iango ma neweu, bwa Ko na kamanoai man bwaai nako ake aki bootau ma Nanom, n te tai aei, ae bon Tain Waakin Am katiteuana n Tamnei, ao ni kaitiakai man aeka ni kabarekareka ake a na tuukai man Ukoukoram, n itiaki ao n aki bareka, are nunikain Am raoiroi.

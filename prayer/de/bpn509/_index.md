@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn509 in Deutsch'
-tags = ['lang-de', 'bpn509']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist Gott!
 O Herr, mein Gott! Du Helfer der Schwachen, Beistand der Bedürftigen, Erretter der Hilflosen, die sich hinwenden zu Dir.

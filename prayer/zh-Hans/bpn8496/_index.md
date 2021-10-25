@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8496 in 简体中文'
-tags = ['lang-zh-Hans', 'bpn8496']
+tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 每日早上、中午和晚上吟诵
 凡意欲祷告者，必先净手，期间吟诵：

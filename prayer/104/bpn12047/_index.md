@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12047 in '
-tags = ['lang-104', 'bpn12047']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 Tuhan! Kasihanilah kami, berikanlah berkat-Mu; miskin, kurniakanlah kami sebahagian daripada samudera kekayaan-Mu; memerlukan, puaskanlah kami; hina, berikan kami keagungan-Mu. Burung-burung di udara dan binatang-binatang di padang menerima makanannya daripada-Mu setiap hari, dan semua makhluk memerlukan jagaan dan kasih sayang-Mu.
 

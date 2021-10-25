@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12982 in '
-tags = ['lang-110', 'bpn12982']
+tags = ['lang-110', 'bpn-unsorted']
 +++
 *PRAYER FOR YOUTH (FEAST OF ASMA, 20 AUGUST 2000) 
 

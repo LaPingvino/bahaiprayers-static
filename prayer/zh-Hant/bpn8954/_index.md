@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8954 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8954']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 諾魯孜——公曆三月二十日或二十一日——為巴哈伊新年。
 

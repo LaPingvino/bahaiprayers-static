@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7343 in Polski'
-tags = ['lang-pl', 'bpn7343']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O mój Panie! Ty wiesz, że ludzi otoczyły cierpienia oraz klęski i okrążyły ich trudności i kłopoty. Wszystkie możliwe utrapienia gnębią człowieka i wszelkie przeciwności napierają na niego niczym atak węża. Nie ma dla niego innego schronienia ani przytułku, jak tylko pod skrzydłami Twojej ochrony, zabezpieczenia, straży i opieki.
    

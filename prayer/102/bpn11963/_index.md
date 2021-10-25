@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11963 in '
-tags = ['lang-102', 'bpn11963']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 *(Soňky deminde ýatan ynsanlar hem aýrylandan soň jaýlanýança okalýan doga)
 

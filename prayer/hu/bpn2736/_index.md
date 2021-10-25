@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2736 in Magyar'
-tags = ['lang-hu', 'bpn2736']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Ó, összehasonlíthatatlan Isten! Ó, Te, a Királyság Ura! Ezek a lelkek a Te mennyei sereged. Segítsd meg őket, és a Magasságbéli Gyülekezet rendjeivel vidd őket győzelemre, hogy mindegyikükbe egy hadsereg ereje költözzön, és meghódíthassák ezen országokat Isten szeretetével és a mennyei tanítások fényével.
 

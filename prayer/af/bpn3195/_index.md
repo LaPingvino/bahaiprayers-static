@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3195 in Afrikaans'
-tags = ['lang-af', 'bpn3195']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O my God! O my God! Heerlikheid sy aan U omdat U my aan die belydenis van U eenheid bevestig het, my na die woord van U enkelvoudigheid aangetrek het, my met die vuur van U liefde aan die brand gesteek het, en my besig gehou het met U melding en die bediening van U vriende en diensmaagde.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2196 in România'
-tags = ['lang-ro', 'bpn2196']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne, Dumnezeul meu!
 O, Doamne, Dumnezeul meu! Eu sunt un slujitor atras către Tine, apropiindu-mă cu smerenie de uşa unicităţii Tale.

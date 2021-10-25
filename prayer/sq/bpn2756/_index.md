@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2756 in Shqip'
-tags = ['lang-sq', 'bpn2756']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 *"Lutjet e detyrueshme janë të tilla, sepse çojnë në përunjësi e nënshtrim, e bëjnë njeriun ta kthejë fytyrën drejt Perëndisë e të shprehë përkushtim ndaj Tij. Përmes lutjesh të tilla njeriu mban lidhje me Perëndinë, kërkon t'i avitet pranë Atij, bisedon me të Shumëdashurin e vërtetë të zemrës së vet dhe ngrihet në pozita shpirtërore." - ‘Abdu’l-Bahá
 

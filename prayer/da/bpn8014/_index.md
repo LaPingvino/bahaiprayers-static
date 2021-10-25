@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8014 in Dansk'
-tags = ['lang-da', 'bpn8014']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Æret være Du, o Gud! Du er den Gud, der har levet før alt, der vil leve efter alt og vil vare ud over alt. Du er den Gud, der ved alt og er over alt. Du er den Gud, der handler barmhjertigt med alt, der dømmer mellem alt, og hvis fremsyn omfatter alt. Du er Gud min Herre, Du kender mit stade, Du bekræfter mit indre og ydre væsen.
 

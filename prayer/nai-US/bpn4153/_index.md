@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4153 in American Indian'
-tags = ['lang-nai-US', 'bpn4153']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 O Myha! O Myah!
 Mut-my-um mi-a-chesh peri-wee mup muk-u-wik, cun-up-uwip Ya-wu quaw-tie. Pi-cha me-na Myha chu-wutch wu-chow new-y Myha chu-wutch na. Ma-wik tea-pie nea chums, O Myha, we-ik-um nea ya-wu we-e, mingum super ach-chopie Myha.

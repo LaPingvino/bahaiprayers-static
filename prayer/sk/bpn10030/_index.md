@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10030 in Slovensky'
-tags = ['lang-sk', 'bpn10030']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 Ó Bože, môj Bože! Tvoja služobníčka k Teba volá, dôveruje Ti, obracia k Tebe svoju tvár a úpenlivo ťa prosí, aby si ju obklopil Svojimi nebeskými darmi, odhalil jej Svoje duchovné tajomstvá a osvietil ju svetlom Svojho Božstva.
 Ó môj Pane! Daj, nech oči môjho manžela vidia. Rozveseľ jeho srdce svetlom poznania Teba Samého, priveď jeho myseľ k Svojej žiarivej kráse a poteš jeho ducha tým, že mu odhalíš Svoju zjavnú nádheru.

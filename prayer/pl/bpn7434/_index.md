@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7434 in Polski'
-tags = ['lang-pl', 'bpn7434']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Wysławione niechaj będzie Imię Twoje, o Panie, Boże mój! Ty jesteś Tym, któremu wszystko oddaje cześć, a który sam nie czci nikogo, który jest Panem wszystkiego, a niczyim poddanym, któremu znane jest wszystko, a który nie jest poznany przez nikogo. Pragnąłeś objawić się ludziom, przeto jednym Słowem ust swoich powołałeś do życia wszelkie stworzenie i stworzyłeś wszechświat. Nie ma innego Boga poza Tobą, Kształtującym, Stwórcą, Wszechmocnym i Najpotężniejszym.
     

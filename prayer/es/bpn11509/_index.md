@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11509 in Español'
-tags = ['lang-es', 'bpn11509']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Mujeres
 

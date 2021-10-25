@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1773 in Íslenska'
-tags = ['lang-is', 'bpn1773']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Hann er hinn náðugi og ástfólgni!
 Ó heilagi sæfari!

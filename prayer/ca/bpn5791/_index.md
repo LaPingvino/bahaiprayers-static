@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5791 in Català'
-tags = ['lang-ca', 'bpn5791']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 No desparis oh Senyor, la taula festiva què ha estat parada en el Teu Nom, ni apaguis la flama ardent què ha estat encesa pel Teu foc inextingible. No impedeixis que flueixi aquella aigua viva Teva què xiuxiueja la melodia de la Teva glòria i record, i no privis als teus serfs de la fragància de les teves dolces aromes, exhalada pel perfum del Teu amor.
 

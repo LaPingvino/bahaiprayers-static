@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9335 in Malagasy'
-tags = ['lang-mg', 'bpn9335']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 Eo amin’ny alon-drano mamerovero ny Mandrakizainao, avelao aho hiala hetaheta, ry Andriamanitro ô, ary mamelà ahy hanandrana amin’ny voan’ny hazon’ny Fisianao, ry Fanantenako ô.
 Amin’ny loharano madio mangatsakatsakan’ny fitiavanao, avelaho aho mba hampitony ny hetahetako, ry Voninahitro ô, ary eo ambanin’ny aloky ny Fitondranao mandrakizay, avelao aho hitoetra, ry Fahazavako ô!

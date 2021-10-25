@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6665 in English'
-tags = ['lang-en', 'bpn6665']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 Lauded be Thy name, O Lord my God! Thou seest how I have turned myself toward Thee, and set my face in the direction of Thy grace and Thy gifts. I implore Thee, by Thy name through which Thou didst enable all them that have recognized Thy unity to partake of the wine of Thy mercy, and all such as have drawn nigh unto Thee to quaff the living waters of Thy loving-kindness, to rid me entirely of all vain imaginings, and to incline me in the direction of Thy grace, O Thou Who art the Lord of all men!
 

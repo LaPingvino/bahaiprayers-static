@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8665 in 简体中文'
-tags = ['lang-zh-Hans', 'bpn8665']
+tags = ['lang-zh-Hans', 'bpn-unsorted']
 +++
 以万古永恒、至伟的上帝之名。
 确然，隔离之火正将诚挚者之心焚烬，万千世界的仰慕者啊！祢那圣容的光辉何在？

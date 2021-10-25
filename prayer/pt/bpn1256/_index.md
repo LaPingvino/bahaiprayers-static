@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1256 in Português (BR)'
-tags = ['lang-pt', 'bpn1256']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Louvores a Ti, ó Senhor meu Deus! Vês e sabes que exortei os Teus servos a volverem-se somente na direção das Tuas graças, e nada ordenei que observassem, a não ser as coisas por Ti prescritas no Teu Livro Manifesto – Livro este que desceu segundo o Teu decreto misterioso e o Teu irrevogável propósito.
 Palavra alguma posso eu pronunciar, ó meu Deus, a menos que por Ti me seja permitido, e em nenhuma direção mover-me, antes de obter a Tua sanção. Foste Tu, ó meu Deus, que me chamaste à existência através do poder da Tua grandeza e me concedeste a Tua graça para manifestar a Tua Causa. Por isso fui exposto a tais adversidades que a minha língua foi impedida de Te louvar e de enaltecer a Tua glória.

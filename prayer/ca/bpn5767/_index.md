@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5767 in Català'
-tags = ['lang-ca', 'bpn5767']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##MARTIRS I LLURS FAMÍLIES
 

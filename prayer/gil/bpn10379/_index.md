@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10379 in Kiribati'
-tags = ['lang-gil', 'bpn10379']
+tags = ['lang-gil', 'bpn-unsorted']
 +++
 E na anaaki ni katoa bong, n te ingaabong, te tawanou ao te tairiki
 *(Are e kan tataro, e na teboki baina, ao ngke e tabe n teboki, e atonga aei):  

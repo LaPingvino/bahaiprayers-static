@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5844 in Català'
-tags = ['lang-ca', 'bpn5844']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##Pels Pares
 

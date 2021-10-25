@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7427 in Polski'
-tags = ['lang-pl', 'bpn7427']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Jesteś Tym, o mój Boże, przez którego imiona chorzy zostają uzdrowieni i bolejący przywróceni do zdrowia, i spragnieni zostają napojeni, i strapieni zostają ukojeni, i zbłąkani zostają poprowadzeni, i poniżeni zostają wywyższeni, i biedni zostają wzbogaceni, i nieświadomi zostają oświeceni, i przygnębieni zostają rozpromienieni, i smutni zostają pocieszeni, i zziębnięci zostają ogrzani, a uciśnieni zostają uniesieni. Przez Twoje imię, o mój Boże, poruszone zostały wszystkie stworzone rzeczy i rozpostarły się niebiosa, i ziemia została stworzona, a obłoki uniesione, aby zraszać ziemię. To zaprawdę jest oznaką Twojej łaski dla wszystkich Twoich stworzeń. 
     

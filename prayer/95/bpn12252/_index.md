@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12252 in '
-tags = ['lang-95', 'bpn12252']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 E maluga a Tou igoa, O toku Atua! E lavea au mai ne Koe i lima o oku fili.  I tami katoa e fuli au ki toku fakaata-mai, e lagona ne au a leo o tagi fakafanoanoa o latou kola e fagasele kia Koe, kola a tino amio masei ko oti ne puke faka-pagota aua ko te olotou talitonu ia Koe mo Au fakailoga, kae ona ko oti ne fakasaga a olotou mata ki te sikulagi o Tou alofa-atafai mo Tou alofa-kaimalie.  Kae kafai e fuli au ki toku sema, e lagona ne au a te logoaa mai o tino amio masei ko la ko se talitonu ia Koe mo Au failoga, kae e tumau a te taumafai a latou o tamate ate mainaaga o Tau lamepa tela e maina atu ki te malifalifa o Koe mo Tou Tina Fuiitino mai i 
 luga atu i mea katoa kola i luga i Tou lagi mo mea kaoa kola i luga i Tou lalolagi.  

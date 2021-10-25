@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7297 in Polski'
-tags = ['lang-pl', 'bpn7297']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, przed którego przejmującym majestatem zadrżało wszelkie stworzenie, w którego uścisku spoczywają sprawy wszystkich ludzi, w kierunku łaski i miłosierdzia którego zwrócone są twarze wszystkich Twoich stworzeń! Błagam Cię na Twoje Imię, któreś ustanowił duchem wszystkich imion znajdujących się w królestwie imion, abyś osłonił nas od podszeptów tych, którzy odwrócili się od Ciebie i wyrzekli się prawdy Twego najbardziej majestatycznego i wywyższonego Ja, w tym Objawieniu, które sprawiło, że królestwo imion Twych zadrżało.
    

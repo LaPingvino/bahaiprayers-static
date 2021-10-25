@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn569 in Deutsch'
-tags = ['lang-de', 'bpn569']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Preis sei Dir, o Herr mein Gott! Ich bitte Dich bei Deinem Namen, durch den Er, Deine Schönheit, auf den Thron Deiner Sache gesetzt ist, bei Deinem Namen, durch den Du alles veränderst und alles versammelst, alles zur Rechenschaft ziehst und alles belohnst, alles bewahrst und alles erhältst - ich bitte Dich, behüte Deine Dienerin, die sich in Deinen Schutz begibt und Zuflucht sucht bei Ihm, in dem Du selbst offenbar bist, und die all ihr Vertrauen und ihre Zuversicht in Dich setzt.
 Sie ist krank, o mein Gott, und tritt in den Schatten des Baumes Deiner Heilung; sie leidet und flieht in die Stadt Deines Schutzes; sie ist krank und sucht den Urquell Deiner Gnade; sie ist tief betrübt und eilt zum unerschöpflichen Born Deiner Ruhe; sie ist mit Sünden beladen und richtet ihren Blick zum Hofe Deiner Vergebung.

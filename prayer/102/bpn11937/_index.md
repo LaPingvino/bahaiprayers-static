@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11937 in '
-tags = ['lang-102', 'bpn11937']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Ylahym, Ylahym!
     Maňa sahylyk jamyny içir we ýüzümi hedaýat nury bilen röwşen eýle. Meni öz sözüme wepadar et hem eden ähdi-peýmanymda berk eýle. Meni Öz saýlan bendeleriň arasyna salyp, meniň üçin asudalyk gapylaryny açyk goý. Maňa şeýle bir çäre tap ki, hyýalymda hem görülmedik asmanly gençleriňden rysgal tapaýyn. 

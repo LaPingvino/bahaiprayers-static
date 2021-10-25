@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8050 in Dansk'
-tags = ['lang-da', 'bpn8050']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 O Gud, min Gud! Denne Din tjenerinde påkalder Dig, i tillid til Dig, med sit ansigt vendt mod Dig, bønfaldende Dig om at sprede Dine himmelske gaver over hende og afdække Dine åndelige mysterier for hende og kaste lyset fra Din guddommelighed på hende.
 

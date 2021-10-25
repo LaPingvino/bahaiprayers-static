@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6526 in 한국어'
-tags = ['lang-ko', 'bpn6526']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 이 영혼들은 주님의 하늘나라 군대
 

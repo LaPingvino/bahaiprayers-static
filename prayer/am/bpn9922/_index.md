@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9922 in አማርኛ.'
-tags = ['lang-am', 'bpn9922']
+tags = ['lang-am', 'bpn-unsorted']
 +++
 *Assemblies
 

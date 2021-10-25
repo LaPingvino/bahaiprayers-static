@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6554 in 한국어'
-tags = ['lang-ko', 'bpn6554']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 시련의 때에 제가 아무런 해를
 

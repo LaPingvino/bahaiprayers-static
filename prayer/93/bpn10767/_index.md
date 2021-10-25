@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10767 in '
-tags = ['lang-93', 'bpn10767']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 Gospode! Ništavni smo mi, podari nam naklonost Svoju; siroti smo, daruj nam deo Svog okeanskog bogatstva; nemamo šta nam treba, Ti nas zadovolji; uniženi smo, daj nam Svoju slavu. Ptice na nebu i zveri na polju svakoga dana primaju hranu od Tebe, i sva bića imaju udela u Tvojoj brizi i blagonaklonosti.
 

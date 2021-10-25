@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10789 in '
-tags = ['lang-93', 'bpn10789']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 *Postoje  tri dnevne obavezne molitve…Vernik je slobodan da odabere bilo koju od ove tri molitve, ali je u obavezi da deklamuje jednu od njih u skladu sa uputstvima datim uz nju.
 

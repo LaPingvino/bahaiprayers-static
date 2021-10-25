@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11852 in '
-tags = ['lang-101', 'bpn11852']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 *Ngudung (Kabant Uluk Rohani)
 *Doa dek harus obuah nang ndu piobuak ngudung Uluk Rohani.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4499 in Filipino'
-tags = ['lang-tl', 'bpn4499']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 *Dalangin na uusalin sa pagtatapos ng pagpupulong ng Spiritual Assembly.
 

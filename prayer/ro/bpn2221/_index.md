@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2221 in România'
-tags = ['lang-ro', 'bpn2221']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 Cu cât vei întâmpina mai multe greutăţi în lume, cu atât vei deveni mai desăvârşit.
 

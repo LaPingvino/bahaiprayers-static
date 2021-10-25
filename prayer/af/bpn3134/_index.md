@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3134 in Afrikaans'
-tags = ['lang-af', 'bpn3134']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 Verwyder nie, o Here, die feestelike tafel wat in U naam gesprei is nie, en doof nie die brandende vlam uit wat deur U onuitblusbare vuur aangesteek is nie. Weerhou nie die vloei van daardie lewende water van U wat ruis met die melodie van U heerlikheid en U aandenking nie, en ontneem nie U dienaars die welriekendheid van U soet smaaklikhede wat die geur van U liefde uitadem nie.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6844 in Filipino'
-tags = ['lang-tl', 'bpn6844']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ay Diyos, nasa kaluwalhatian Siya, ang Panginoon ng mapagmahal na kabutihang-loob at pagpapala!
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9525 in Nederlands'
-tags = ['lang-nl', 'bpn9525']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 *Eens in de vierentwintig uur te reciteren, in de middag
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7252 in ελληνικά'
-tags = ['lang-el', 'bpn7252']
+tags = ['lang-el', 'bpn-unsorted']
 +++
 Η ακόλουθη συνοµιλία διαβάζεται κάθε µέρα:
 

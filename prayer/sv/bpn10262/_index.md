@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10262 in Svenska'
-tags = ['lang-sv', 'bpn10262']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 ##KORT OBLIGATORISK BÖN
 Att läsas dagligen från middagstid till solnedgång.

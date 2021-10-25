@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2227 in România'
-tags = ['lang-ro', 'bpn2227']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Doamne, Dumnezeule! Tu ştii că omenirea este înconjurată de suferinţe şi calamităţi, împresurată de greutăţi şi necazuri. Fiecare încercare îl asaltează pe om şi fiecare vitregie crudă îl atacă ca un şarpe. Nu există pentru el nici adăpost, nici refugiu, decât sub aripa ocrotirii, apărării, vigilenţei şi pazei Tale.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9399 in Malagasy'
-tags = ['lang-mg', 'bpn9399']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 Ry Andriamanitro ô! O Ianao izay mamela heloka, izay mizara ny soa, izay manaisotra ny alahelo!
 Marina tokoa, mitalaho Aminao aho mba hamela ny helok’ireo izay nandao ny akanjon’ny nofo ary   nisandratra eny amin’ny tontolom-panahy.

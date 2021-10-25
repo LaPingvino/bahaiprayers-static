@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12147 in '
-tags = ['lang-104', 'bpn12147']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 ##Dituliskan kepada rakan-rakan Bahá'í di Amerika Syarikat dan Kanada
 Barangsiapa yang berangkat ke mana sahaja untuk menyebarkan Kalimat Tuhan, biarlah dia melafazkan doa ini pada siang dan malam selama perjalanannya ke tempat asing.

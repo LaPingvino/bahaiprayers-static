@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3229 in Afrikaans'
-tags = ['lang-af', 'bpn3229']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 O God! O God! U sien my swakheid, nederigheid en ootmoedigheid voor U skepsels; nietemin, ek het in U vertrou en het opgestaan in die bevordering van U leer onder U sterk dienaars, en reken op U krag en U mag.
 

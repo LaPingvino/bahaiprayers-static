@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11800 in '
-tags = ['lang-101', 'bpn11800']
+tags = ['lang-101', 'bpn-unsorted']
 +++
 Ngin pimudi tudu Ingan, O Topa ku! Oku tih ndi na’an sok ulunt-ulunt, dek mbok bisayak ndu Ingan bia tanda tanda Ingan. Ingan kilint wat oku nak odop ku tudu tiban pirasie Ingan, bia nak jowin ku daang aluang pinuju pangirinduk bitulut Ingan. Oku nguwai Ingan, pakai gelar paling cemerlang Ingan bia sifat-sifat paling bigatung Ingan, odak buka tudu jowin ku tiban tiban pangisoh-pangisoh Ingan. Batue oku, adin tiyak, odak nai onik dek paguh, O Ingan Nyaa dek jadin Pingakuk sua adon-adon duoh sifat-sifat!
 Oku botak, O Raja ku, Ingan dek kaya. Oku mbok nak jowin ku nuju Ingan, bia pilopas odop ku sok sua pak eh Ingan. Mbak pilusut oku, oku ngugai Ingan, obus goyuang masik binulut Ingan, bia mbak suwant sok oku onik dek ogi Ingan nitah sa’ant ayua tipilih antara ulunt-ulunt Ingan. 

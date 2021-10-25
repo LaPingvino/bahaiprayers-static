@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9097 in Alaska Native'
-tags = ['lang-ik', 'bpn9097']
+tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Children's Prayer
 

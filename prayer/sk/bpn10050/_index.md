@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10050 in Slovensky'
-tags = ['lang-sk', 'bpn10050']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 Dlhá modlitba za uzdravenie
 On je Uzdravujúci, Postačujúci, Pomocník, vždy Odpúšťajúci, Najmilosrdnejší.

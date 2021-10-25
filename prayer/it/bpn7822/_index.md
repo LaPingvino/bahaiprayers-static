@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7822 in Italiano'
-tags = ['lang-it', 'bpn7822']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 Egli è il Possente il Perdonatore, il Compassionevole!
 O Dio, mio Dio! Tu vedi i Tuoi servi nell’abisso della perdizione e dell’errore: dov’è la Tua luce di divina guida, o Tu Desìo del mondo? Tu conosci la loro inettitudine e la loro debolezza: dov’è la Tua forza, o Tu nelle Cui mani stanno i poteri del cielo e della terra? 

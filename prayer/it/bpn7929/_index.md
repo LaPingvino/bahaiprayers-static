@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7929 in Italiano'
-tags = ['lang-it', 'bpn7929']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 *(Questa preghiera è stata rivelata da ‘Abdu’l-Bahá. Viene letta alla Sua Tomba. é anche recitata come pre-ghiera personale). 
 

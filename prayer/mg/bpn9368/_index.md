@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9368 in Malagasy'
-tags = ['lang-mg', 'bpn9368']
+tags = ['lang-mg', 'bpn-unsorted']
 +++
 *(Ny andro manelanelana, ….. , dia andro fiomanana ho amin’ny fifadiankanina. Natokana izy ireo mba anaovana fampiantranoana, fiantràna sy fanomezana na fahatsiarovana).
  

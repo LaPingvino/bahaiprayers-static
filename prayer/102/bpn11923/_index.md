@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11923 in '
-tags = ['lang-102', 'bpn11923']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 Hu’äl-Äbha.
     Eý Perwerdigär! Biz biçärelere Sen merhemet eýle. Biz garyplara Sen gurplulyk bährinden nesibe ýetir. Biz mätäçleri Sen alaç eýle. Biz zelilleri Sen eziz eýle. Ähli guşlar we ýabanlar Seniň nygmatly saçagyňdan rysgal alýarlar we bar älemler Seniň Jomartlygyňdan bähre tapýarlar. Bu ejizi Öz Jelil sahylygyňdan mahrum eýleme we bu natuwana Öz başarjaňlygyňdan bir kuwwat ber.

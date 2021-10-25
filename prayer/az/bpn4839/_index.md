@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4839 in Azərbaycan'
-tags = ['lang-az', 'bpn4839']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Sən bilirsən, ey Allah və şahidsən ki, mənim ürəyimdə Sənin razılığını qazanmaqdan, Sənə bəndəlikdə müvəffəq olmaqdan, özümü Sənin xidmətinə həsr etməkdən, Sənin böyük üzümlüyündə zəhmət çəkməkdən və hər şeyi Sənin yolunda qurban verməkdən başqa bir arzum yoxdur. Sən hər şeyi Bilən və hər şeyi Görənsən. Mənim Sənə olan məhəbbətimdən, yalnız Sənin səltənətinin gəlişini bəyan etmək və bütün insanlar arasında Sənin çağrışını ucaltmaq üçün qədəmlərimi dağlara və düzlərə yönəltməkdən başqa heç bir istəyim yoxdur. Ey Allah! Bu köməksizin yolunu aç, bu xəstəyə Öz ilacını əta eylə və bu dərdliyə Öz şəfanı bəxş eylə. Yanar ürəklə və gözləri yaşlı Sənin Astananda Sənə yalvarıram.
 

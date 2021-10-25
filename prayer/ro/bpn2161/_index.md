@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2161 in România'
-tags = ['lang-ro', 'bpn2161']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 O, Domnul meu, o, Domnul meu!
 Aceste două astre luminoase s-au căsătorit prin iubirea Ta, legaţi prin slujire la Pragul Tău Sfânt, uniţi în servirea Cauzei Tale. Fă din această căsătorie o lumină pătrunzătoare a harului Tău îmbelşugat, o, Domnul meu Cel Atotmilostiv, şi raze strălucitoare ale binecuvântărilor Tale, o, Tu care eşti Binefăcătorul, Cel Veşnic Darnic, pentru ca din acest copac măreţ să răsară ramuri care să înverzească şi să înflorescă prin revărsările de daruri din norii harului Tău.

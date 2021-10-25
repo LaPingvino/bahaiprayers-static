@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7591 in Suomi'
-tags = ['lang-fi', 'bpn7591']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 *(Bábin syntymän vuosipäivä vietetään 20. lokakuuta.)
 

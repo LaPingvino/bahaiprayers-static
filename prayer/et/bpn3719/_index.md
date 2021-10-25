@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3719 in Eesti'
-tags = ['lang-et', 'bpn3719']
+tags = ['lang-et', 'bpn-unsorted']
 +++
 Tema on Jumal, ülendatud on Tema, armastava headuse ja helduse Issand!
 Au olgu Sulle, oo Sina mu Jumal, kõikvõimas Issand. Tunnistan Sinu kõikvõimsust ja vägevust, Sinu ülemvõimu ja armastavat headust, Sinu armu ja võimu, Sinu oleluse ainsust ja olemuse ühtsust, Sinu pühadust ja ülendatud seisundit kogu olemasolu maailma ja kõige selles oleva üle.

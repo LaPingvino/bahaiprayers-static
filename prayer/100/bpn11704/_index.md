@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11704 in '
-tags = ['lang-100', 'bpn11704']
+tags = ['lang-100', 'bpn-unsorted']
 +++
 *Idan an zāɓi yin wannan salla, a bāyan an yi arwalla, a tāshi, a jūya gabā gabas maso arēwa, a dūbi dāma da hauni, tamkar mai nēman rahamar Ubangiji, ar-rahamane, mai jinƙai, kuma a cē :
 Yā kai wanda kai nē Ubangijin duka sunāyē, kuma mahaliccin sammai ! dōmin darajar waɗanda sū nē asubāhin zātinka mai girma, ma fi ɗaukaka, da ya wuce a gāne Shi, ina rōƙon ka sā sallāta, ta zamana tamkar wutar da zā ta ƙōnē yānar dake hanā ni ganin kyāwonka, kuma ta haske hanyāta zuwa tēkun kusantarka.

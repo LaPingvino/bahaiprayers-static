@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11373 in தமிழ்'
-tags = ['lang-ta', 'bpn11373']
+tags = ['lang-ta', 'bpn-unsorted']
 +++
 பிரபுவே, எனதாண்டவரே! 
 

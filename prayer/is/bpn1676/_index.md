@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1676 in Íslenska'
-tags = ['lang-is', 'bpn1676']
+tags = ['lang-is', 'bpn-unsorted']
 +++
 Seg: Guð nægir öllu framar öllu, og ekkert á himnum né jörðu nægir nema Guð. Sannlega er Hann í sjálfum sér, sá er þekkir, forsjá lífsins, hinn alvaldi.
 

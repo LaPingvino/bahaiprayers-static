@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5750 in ภาษาไทย'
-tags = ['lang-th', 'bpn5750']
+tags = ['lang-th', 'bpn-unsorted']
 +++
 ##บทอธิษฐานวันอัยยัมมีฮา
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6111 in Chamorro'
-tags = ['lang-ch', 'bpn6111']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 ##I AYUNAT
 *THE FAST

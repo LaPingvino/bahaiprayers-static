@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7794 in Italiano'
-tags = ['lang-it', 'bpn7794']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 O mio Signore! Mi sono avvicinato a Te, nel profondo di questa notte tenebrosa, confidando in Te con la lingua del mio cuore, fremente di gioia ai dolci aromi spiranti dal Tuo regno, il Più Glorioso, e Ti invoco così dicendo:
 O mio Signore! Non trovo parole per glorificarTi, non vedo strada per cui l’uccello della mia mente possa innalzarsi al Tuo Santo Regno, perché Tu sei santificato, nella Tua essenza, di là da quell’encomio, e nel Tuo essere trascendi quelle lodi che Ti sono rese dalle genti che hai creato. Nella santità del Tuo essere Tu hai sempre travalicato la comprensione dei dotti fra le Schiere superne e per sempre rimarrai avvolto nella santità della Tua realtà, intatto dalla conoscenza degli abitanti del Tuo Regno eccelso che esaltano il Tuo Nome.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn677 in Deutsch'
-tags = ['lang-de', 'bpn677']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Ich flehe Dich an, o mein Gott, bei Deinem mächtigen Zeichen und bei der Enthüllung Deiner Huld unter den Menschen, weise mich nicht ab vom Tore zur Stadt Deiner Gegenwart und enttäusche nicht die Hoffnungen, die ich in die Offenbarungen Deiner Gnade unter Deinen Geschöpfen setze.
 Du siehst mich, o mein Gott, an Deinem Namen festhalten, dem Heiligsten, dem Strahlendsten, dem Mächtigsten, dem Größten, dem Höchsten, dem Herrlichsten, und mich klammern an den Saum Deines Gewandes, daran sich alle halten in dieser und der zukünftigen Welt.

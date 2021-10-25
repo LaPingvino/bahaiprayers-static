@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4769 in Azərbaycan'
-tags = ['lang-az', 'bpn4769']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 İlahi! Çarəsizik, lütf eylə; fəqirik, sərvət dəryandan pay ver; möhtacıq, qane eylə; zəlilik, izzətini əta eylə. Göydəki quşlar və yerdəki heyvanlar öz yemini hər gün Səndən alır, bütün varlıqlar Sənin inayət feyzindən bəhrələnir.
 

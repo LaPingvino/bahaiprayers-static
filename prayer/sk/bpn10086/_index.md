@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10086 in Slovensky'
-tags = ['lang-sk', 'bpn10086']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 Zjavené pre bahájov serverovýchodných štátov
 

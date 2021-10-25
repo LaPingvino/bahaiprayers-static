@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11510 in Español'
-tags = ['lang-es', 'bpn11510']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 ##Oración larga de curación
 

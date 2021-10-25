@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7338 in Polski'
-tags = ['lang-pl', 'bpn7338']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 W Imię Jego, Wywyższonego, Najwyższego, Najbardziej Wzniosłego!
    

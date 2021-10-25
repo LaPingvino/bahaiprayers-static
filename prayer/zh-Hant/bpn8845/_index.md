@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8845 in 繁體中文'
-tags = ['lang-zh-Hant', 'bpn8845']
+tags = ['lang-zh-Hant', 'bpn-unsorted']
 +++
 祂是神醫，滿足者，救助者，赦免者，大慈大悲者。
 我祈求祢，尊貴者，誠信者，榮耀者啊！祢是滿足者，祢是醫治者，祢永恆不變，萬古如一！

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9983 in Kalaallisut'
-tags = ['lang-kl', 'bpn9983']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 *(Naw-Ruz, martsip 20-at imaluunniit 21-at, tassaavoq Bahá’í-t ukiuata ulluisa siullersaat)
 

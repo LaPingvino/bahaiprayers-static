@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3935 in Hrvatski'
-tags = ['lang-hr', 'bpn3935']
+tags = ['lang-hr', 'bpn-unsorted']
 +++
 Blagoslovljen onaj koji se sjeća svojih roditelja u razgovoru s Bogom.
 

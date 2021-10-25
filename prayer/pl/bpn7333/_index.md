@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7333 in Polski'
-tags = ['lang-pl', 'bpn7333']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Chwała bądź Tobie, o Boże mój! Oto są Twoi słudzy, zwabieni wonią Twojej łaskawości, rozgorzali ogniem płonącym w Drzewie Twojej jedyności, których oczy rozjaśnił widok wspaniałości światła bijącego od Synaju Twojej jedności.
    

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8178 in Dansk'
-tags = ['lang-da', 'bpn8178']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Mød hinanden i ren glæde og fremsig ved mødets indledning denne bøn:
 

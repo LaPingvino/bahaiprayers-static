@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7508 in Suomi'
-tags = ['lang-fi', 'bpn7508']
+tags = ['lang-fi', 'bpn-unsorted']
 +++
 Oi Herra, minun Jumalani ja turvani hädässä! Kilpeni ja suojani vaikeuksissani! Kotini ja pakopaikkani hädän hetkellä ja kumppanini yksinäisyydessäni! Lohdutukseni tuskassani ja rakastava ystäväni yksin ollessani! Surun tuskieni karkottaja ja syntieni anteeksi antaja!
 Täysin Sinun puoleesi kääntyen rukoilen Sinua palavasti täydestä sydämestäni, kaikin ajatuksin ja kaikin kielin, että varjelisit minua kaikelta, mikä on vastoin Sinun tahtoasi tänä Sinun jumalallisen ykseytesi ajanjaksona, ja että puhdistaisit minut kaikesta likaisesta, joka estää minua tahrattomana ja puhtaana etsiytymästä Sinun armosi puun siimekseen.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10816 in '
-tags = ['lang-94', 'bpn10816']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 O Inu Wamphamvu zonse! Ine ndine wochimwa, koma Inu Ndinu Wokhululukira! Ine ndiri wosakwanira, koma Inu muli wachisoni! Inde ndiri mumdima wa uchimo koma Inu Ndinu nyali ya Chikhululukiro! 
 

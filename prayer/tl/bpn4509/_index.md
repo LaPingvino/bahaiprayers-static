@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4509 in Filipino'
-tags = ['lang-tl', 'bpn4509']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Ikaw na mabuting Panginoon!
 

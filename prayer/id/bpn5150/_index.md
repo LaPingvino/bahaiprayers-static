@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5150 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5150']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 Aku memberikan pujian kepada-Mu, ya Tuhan-ku, karena Engkau telah membangunkan daku dari kantukku dan telah memunculkan daku kembali setelah aku hilang, dan membangkitkan daku dari tidurku. Aku telah bangun pagi ini dengan wajahku diarahkan pada kecemerlangan Surya Wahyu-Mu, yang melaluinya langit kekuasaan-Mu dan keagungan-Mu telah diterangi, dengan mengakui tanda-tanda-Mu, beriman pada Kitab- Mu, dan berpegang erat pada Tali-Mu.
 

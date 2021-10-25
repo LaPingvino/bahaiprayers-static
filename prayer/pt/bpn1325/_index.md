@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1325 in Português (BR)'
-tags = ['lang-pt', 'bpn1325']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 ##Epístola De Ahmad
 Ele é o Rei, o Omnisciente, o Sábio!

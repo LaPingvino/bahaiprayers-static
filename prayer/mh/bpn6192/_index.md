@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6192 in Marshallese'
-tags = ['lang-mh', 'bpn6192']
+tags = ['lang-mh', 'bpn-unsorted']
 +++
 Ao Anij, Eo ij kabun im kautiej E, ao King, Eo buruo eaikuiji ! Loo, ta emaron kwalok ainikien kamolol ko ao nan Yuk? Iar jerata im jol, Kwar karuj io, iar einwot juon eo emij, Kwar kemour io kin dren kwojarjar eo Am ejelok jemlokin im emoj an tor tok jen Naan in tiriamo eo Am elab.
 

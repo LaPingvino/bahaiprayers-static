@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10910 in '
-tags = ['lang-95', 'bpn10910']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 E mafai pefea ne au o manako o moe, O te Atua, toku Atua, i mata o latou kola e finafinau kia Koe e alaala faeloa ona ko te olotou mavae mai ia Koe; kae e mafai pefea au o takato ki lalo o malolo ako agaaga o Au fagasele e fitaa i te olotou mao mai mo Tou nofo-mai?
      Ko oti au ne fai faka-patonu, O toku Aliki, ko toku agaaga mo toku fuaitino katoatoa ke i te lima taumatau o Tou mafi mo Tau puipuiiga, kae moe a toku ulu i te aluga o Tou maalosi, tu fua ki luga pe la loa o Tou finagalo mo Tou fiafiaaga.  Koe, e tonu, ko te Tausi, ko te Leoleo,ko te Mafi-Katoatoa, ko te Tafasili i te Maalosi.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8958 in اُردُو'
-tags = ['lang-ur', 'bpn8958']
+tags = ['lang-ur', 'bpn-unsorted']
 +++
 ##لوحِ احتراق
 اللہ کے نام سے جو سب سے قدیم، سب سے بڑا ہے

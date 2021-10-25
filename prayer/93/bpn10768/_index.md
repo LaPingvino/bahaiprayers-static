@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10768 in '
-tags = ['lang-93', 'bpn10768']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 Ne uklanjaj, O Gospode, prazničnu trpezu koja je razastrta u Tvoje Ime, i ne utrnjuj plamen koji je razgorela Tvoja neuništiva vatra. Ne zaustavljaj tok svoje žive vode, koja žubori pesmom Tvoje slave i Tvoga pomena, i ne lišavaj svoje sluge miomirisa Tvoje slatke hrane koja odiše dahom Tvoje ljubavi.
 

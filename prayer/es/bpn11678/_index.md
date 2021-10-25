@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11678 in Español'
-tags = ['lang-es', 'bpn11678']
+tags = ['lang-es', 'bpn-unsorted']
 +++
 *El Kitáb i Aqdas establece: «Os hemos prescrito orar y ayunar a partir del comienzo de la madurez [15 años]; así lo ordena Dios, vuestro Señor y Señor de vuestros antepasados. [...] El viajero, el enfermo, la mujer encinta y la que amamanta no están obligados a ayunar. [...] Absteneos de comer y beber desde la salida hasta la puesta del sol y, cuidado, no sea que el deseo os prive de esta gracia designada en el Libro».
 *El período de ayuno abarca los 19 días previos a Naw-Rúz.

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5833 in Català'
-tags = ['lang-ca', 'bpn5833']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Qualsevol què emprengui un viatge d’ensenyança a qualsevol lloc, que reciti aquesta oració dia i nit durant els seus viatges a l’estranger.
 

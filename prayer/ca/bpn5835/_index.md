@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5835 in Català'
-tags = ['lang-ca', 'bpn5835']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 Oh Déu, Déu meu! Tu veus com la negra foscor envolta a totes les regions, com tots els països estan ardent amb la flama de la discòrdia i els focs de la guerra i la matança cremen a Orient i a Occident. La sang és vesada els cadàvers cobreixen el terra i els caps tallats són escampats sobre la pols del camp de batalla.
 Oh Senyor! Tingués compassió d’aquests éssers ignorants i mira’ls amb l’ull de la misericòrdia i perdó, extingeix aquest foc, perquè aquests densos núvols què enfosqueixen l’horitzó es dispersin, el Sol de la Realitat brilli amb els raigs de la concòrdia, es dissipi aquesta intensa feixuguesa i la resplendent llum de la pau vessi el seu resplendor sobre tots els països.

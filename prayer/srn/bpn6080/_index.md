@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6080 in Sranan Tongo'
-tags = ['lang-srn', 'bpn6080']
+tags = ['lang-srn', 'bpn-unsorted']
 +++
 ##SYATU FERPLEKTI BEGI 
 *(Syatu ferplekti begi, fu taki ala dei mindri fu 12 nanga 6 yuru bakadina.) 

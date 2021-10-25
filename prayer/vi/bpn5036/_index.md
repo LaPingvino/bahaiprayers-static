@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5036 in Tiếng Việt'
-tags = ['lang-vi', 'bpn5036']
+tags = ['lang-vi', 'bpn-unsorted']
 +++
 Ngài thật đáng ca tụng, lạy Ngài là Đấng Thượng Đế của con!
 Đây là tôi tớ Ngài đã uống rượu bác ái ngọt ngào của Ngài từ bàn tay ân phúc Ngài, và đã nếm hương vị tình yêu Ngài trong những Ngày này là Ngày của Ngài. Bởi những biểu hiện các Danh Ngài, con cầu xin Ngài đừng để nỗi sầu muộn nào ngăn cản người vui hưởng tình yêu Ngài và chiêm ngưỡng Thánh nhan Ngài, và xin khiến đạo binh vô tâm không thể dắt người ra khỏi con đường hài lòng Ngài, xin ban cho người những của cải Ngài có, và nâng người lên đủ cao để nhìn thấy thế giới chỉ là cái bóng có thể tan biến nhanh hơn chớp mắt.

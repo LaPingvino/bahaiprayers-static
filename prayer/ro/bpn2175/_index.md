@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2175 in România'
-tags = ['lang-ro', 'bpn2175']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 - ‘Abdu’l-Bahá
 El este Dumnezeu! O, Doamne, Dumnezeul meu! O, Doamne Dumnezeul meu! Tu vezi aceşti copii care sunt rămurelele pomului vieţii, păsările păşunilor mântuirii, perlele oceanului harului Tău, trandafirii grădinii călăuzirii Tale.

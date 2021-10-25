@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7950 in Malti'
-tags = ['lang-mt', 'bpn7950']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 Jien ma nafx, O Alla tiegħi, x’inhu in-Nar li Inti tkebbes f’arteK. Id dinja ma tista’ qatt iddaħħan il-ħeġġa tiegħu, la l-ilma ma jitfi l-ilsna tiegħu. Il-ġnus kollha tad-dinja m’għandhomx saħħa jieqfu l-qawwa tiegħu. Kbira hija l-barka ta’dak li reseq lejh, u sema’ t-tgargir tiegħu.
 

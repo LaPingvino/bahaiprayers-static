@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3524 in Norsk'
-tags = ['lang-no', 'bpn3524']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 Min Gud, du som jeg ærer og tilber, du som er sterkest! Jeg bevitner at ingen skapt tings beskrivelse noensinne kan åpenbare deg, og at ingen lovprisning som noe vesen er i stand til å frembære kan beskrive deg. Hverken fatteevnen hos noen i hele verden eller forstanden til noen av dens folk kan, som det jo anstår seg for deg, oppnå adgang til din hellighets kongesete eller løse ditt mysterium. Hvilken synd har holdt innbyggerne i dine navns stad så langt borte fra din overmåte herlige horisont, og berøvet dem adkomsten til ditt Største Osean? En eneste bokstav fra din Bok er alle ytringers mor, og et ord fra den er hele skapningens far. Hvilken utakknemlighet har dine tjenere vist slik at du har holdt dem tilbake, alle som en, fra å anerkjenne deg? En dråpe fra din barmhjertighets osean er tilstrekkelig til å slukke helvetes flammer, og en gnist fra din kjærlighets ild er nok til å sette en hel verden i brann.
  

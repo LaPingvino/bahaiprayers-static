@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4887 in Azərbaycan'
-tags = ['lang-az', 'bpn4887']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 *Hüququllah, həqiqətən böyük qanundur. Bu hər kəsə vacibdir ki, bu payı versin, çünki bu fəzl, bərəkət və bütün xeyirlərin mənbəyidir. Bu elə bir nemətdir ki, Hər şeyə Malik, ən Kəramətli Allahın bütün aləmlərində hər bir ruhla bərabər qalacaq.
 

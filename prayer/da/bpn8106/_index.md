@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8106 in Dansk'
-tags = ['lang-da', 'bpn8106']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 O Gud, min Gud! Jeg har vendt mig til Dig med anger, og Du er i sandhed Tilgiveren, Den Medfølende.
 

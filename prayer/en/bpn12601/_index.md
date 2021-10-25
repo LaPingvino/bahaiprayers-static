@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12601 in English'
-tags = ['lang-en', 'bpn12601']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the All-Glorious, the Most Effulgent.
 

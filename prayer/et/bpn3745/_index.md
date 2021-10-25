@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3745 in Eesti'
-tags = ['lang-et', 'bpn3745']
+tags = ['lang-et', 'bpn-unsorted']
 +++
 Oo mu Jumal! Oo mu Jumal! Tõesti, ma hüüan Sind ja palun härdalt Sinu künnisel, et Sa annaksid neile hingedele kogu oma õnnistuse. Valmista neid ette oma soosinguks ja tõeks.
 Oo Issand! Ühenda ja seo ühte südamed, liida hinged kokku kooskõlas ja tee meeled elavaks oma pühaduse ning ainsuse märkide kaudu. Oo Issand! Muuda need näod kiirgavaks oma ühtsuse valgusega. Tugevda oma teenrite niudeid Sinu kuningriigi teenimisel.

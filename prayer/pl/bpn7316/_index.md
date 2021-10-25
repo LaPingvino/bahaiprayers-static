@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7316 in Polski'
-tags = ['lang-pl', 'bpn7316']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Ogólne modlitwy o pomoc w nauczaniu 
   

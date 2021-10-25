@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10826 in '
-tags = ['lang-94', 'bpn10826']
+tags = ['lang-94', 'bpn-unsorted']
 +++
 24.	Mulungu pangeni kukhala bango la Mphako, mmene thima la kudzikonda lakolokotedwamo, tsono kuti ndi khale mphako yoyera mmene chikondi Chanu chingadutsire popita kwa ena.  
 

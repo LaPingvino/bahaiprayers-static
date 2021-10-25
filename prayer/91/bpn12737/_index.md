@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12737 in '
-tags = ['lang-91', 'bpn12737']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 #Papan Tulis Ahmad
 *"Semua sambiang obligatori, begulai enggau sekeda sambiang bukai ti nyengala, baka Sambiang Pengerai, Papan Tulis Ahmad, udah disikap Baha'u'lláh ngena pemisa enggau reti ia empu, Ialu patut diterima baka nya lalu patut disebut bala ti arap enggau pengarap sereta pengandal ati ti tunggang, awakka nengah nya sida tau masuk lebih semak ngagai randau enggau Petara, lalu ngasuh sida lebih agi dikelala ketegal nitihka adat enggau ajar Iya."

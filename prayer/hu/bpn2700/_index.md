@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2700 in Magyar'
-tags = ['lang-hu', 'bpn2700']
+tags = ['lang-hu', 'bpn-unsorted']
 +++
 Jól tudom, ó, Uram, hogy vétkeim színed előtt szégyenbe borították arcom, és teherként nehezedtek hátamra Előtted, elválasztottak engem a Te szépséges orcádtól, körülvettek minden oldalról, és minden felől akadályoztak abban, hogy eljuthassak mennyei erőd kinyilatkoztatásaihoz.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12566 in '
-tags = ['lang-107', 'bpn12566']
+tags = ['lang-107', 'bpn-unsorted']
 +++
 Oh Ita-Boot Na’i laran-di’ak! Ita-Boot kria ona ema hotu-hotu husi hun ida de’it. Ita-Boot dekreta ona katak hotu-hotu tenke pertense ba uma-kain ida de’it. Iha Ita-Boot nia Prezensa Santu, sira hotu Ita-Boot nia atan, no ema hotu-hotu hakmahan ona iha Ita-Boot nia Sakráriu; hotu-hotu halibur hamutuk ona iha Ita-Boot nia Meza ne'ebé nakonu ho prémiu, hotu-hotu haroman ona liuhosi naroman husi Ita-Boot nia Providénsia.
 Oh Maromak! Ita-Boot laran-di’ak ba ema hotu, Ita-Boot fornese ba ema hotu, hamahan ema hotu, fó moris ba ema hotu. Ita-Boot fó ona talentu no kbiit ba ema hotu, no sira hotu hela iha Ita-Boot nia Oseanu Laran-Sadi’a nian.

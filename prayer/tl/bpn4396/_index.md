@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4396 in Filipino'
-tags = ['lang-tl', 'bpn4396']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 Siya ang Magandang-loob, ang Mapagpala sa Lahat!
 

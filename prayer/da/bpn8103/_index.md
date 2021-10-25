@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8103 in Dansk'
-tags = ['lang-da', 'bpn8103']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Han er Den Medfølende, Den Alnådige!
 

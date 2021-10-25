@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7311 in Polski'
-tags = ['lang-pl', 'bpn7311']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O Ty, życzliwy Panie! Z horyzontu uniezależnienia Tyś objawił dusze, które niczym lśniący księżyc rzuciły blask na królestwo serca i duszy, pozbyły się cech świata istnienia i pospieszyły do królestwa nieśmiertelności. Kroplą z oceanu swej serdecznej dobroci często zwilżałeś ogrody ich serc, aż osiągnęły niezrównaną świeżość i piękno. Święta woń Twej Boskiej jedności została uniesiona daleko i szeroko, roznosząc słodkie zapachy po całym świecie, sprawiając, że krainy ziemi nasyciły się wonnym aromatem. 
    

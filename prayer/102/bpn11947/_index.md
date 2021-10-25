@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11947 in '
-tags = ['lang-102', 'bpn11947']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 (Saçak başynda okalýan dogalar)
 

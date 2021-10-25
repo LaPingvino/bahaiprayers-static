@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4542 in հայերեն'
-tags = ['lang-hy', 'bpn4542']
+tags = ['lang-hy', 'bpn-unsorted']
 +++
 արտասանվում է ամեն օր` առավոտյան, կեսօրին ու երեկոյան
 

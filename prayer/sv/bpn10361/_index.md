@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10361 in Svenska'
-tags = ['lang-sv', 'bpn10361']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 ##SKRIFTEN TILL AHMAD
 

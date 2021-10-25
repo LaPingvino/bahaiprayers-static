@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6430 in Cymraeg'
-tags = ['lang-cy', 'bpn6430']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 O Dydi Garedig Arglwydd!  Ti a greaist yr holl ddynoliaeth o’r un llinach.  Ti a orchmynaist i bawb fod yn eiddo i’r un tylwyth.  Yn Dy Bresenoldeb Sanctaidd, Dy weision ydynt oll, a’r holl ddynolryw a gysgodir o dan Dy Dabernacl; y maent oll wedi ymgynnull ger Fwrdd Dy Haelioni; goleuir hwynt oll â goleuni Dy ragluniaeth.  
 O Dduw!  Caredig wyt i bawb, Ti â ddarperaist ar gyfer pawb, wyt yn cysgodi pawb, cyflwynaist fywyd i bawb.  Rhoddaist i bob un dalentau a chynheddfau, a suddir y cwbl yn eigion Dy Faddeuant.  O Dydi Garedig Arglwydd!  Una bawb.  Bydded i’r crefyddau gytuno, a gwna’r cenhedloedd yn un, fel y gwelont eu gilydd megis yn teulu a’r holl fyd yn un cartref.  Bydded iddynt oll gydfyw mewn cytgord perffaith.

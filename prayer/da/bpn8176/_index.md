@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8176 in Dansk'
-tags = ['lang-da', 'bpn8176']
+tags = ['lang-da', 'bpn-unsorted']
 +++
 Han er Gud!
 

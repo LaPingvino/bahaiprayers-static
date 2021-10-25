@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8268 in English'
-tags = ['lang-en', 'bpn8268']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Eternal, the One, the Single, the All-Possessing, the Most Exalted.
 

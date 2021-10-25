@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3590 in Norsk'
-tags = ['lang-no', 'bpn3590']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 *I "Kitab-i-Aqdas" sier Bahá'u'lláh: "Vi har pålagt dere å be og faste fra modenhetsalderens begynnelse; dette er forordnet av Gud, deres Herre og deres forfedres Herre.
 *Den som er på reise, de syke, de som er med barn eller gir die, er ikke bundet av fasten.

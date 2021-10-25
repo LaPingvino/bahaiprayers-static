@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6865 in Papiamentu'
-tags = ['lang-pap', 'bpn6865']
+tags = ['lang-pap', 'bpn-unsorted']
 +++
 ##Short Obligatory Prayer
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4096 in Latviešu'
-tags = ['lang-lv', 'bpn4096']
+tags = ['lang-lv', 'bpn-unsorted']
 +++
 *Sekojošā lūgšana skolotājiem un draugiem ir jālasa katru dienu.
 

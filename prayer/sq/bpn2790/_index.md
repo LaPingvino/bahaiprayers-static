@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2790 in Shqip'
-tags = ['lang-sq', 'bpn2790']
+tags = ['lang-sq', 'bpn-unsorted']
 +++
 Ai është Perëndia
 O Zot, Perëndia im! O Ti Ndihmuesi i të dobtëve, Mbështetësi i të varfërve dhe Shpëtuesi i të pashpresëve që e kanë kthyer fytyrën ndaj Teje.

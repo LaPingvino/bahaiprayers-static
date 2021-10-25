@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5966 in Català'
-tags = ['lang-ca', 'bpn5966']
+tags = ['lang-ca', 'bpn-unsorted']
 +++
 ##FESTA DELS DINOU DIES
 

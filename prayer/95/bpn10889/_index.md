@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10889 in '
-tags = ['lang-95', 'bpn10889']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 A Ia ko te Atua, e maluga a Ia, ko te Aliki o te alofa-atafai mo te maukoloa!
      E mana ia Koe, O toku Atua, te Aliki e i ai ia Ia a Mea-Katoa.  Au e molimau ki Tou lauefa i mea katoa mo Tou mafi, Tou nofoaiga-a-aliki mo Tou alofa-atafai, Tou alofa-kaimalie mo Tou maalosi, te tafatasi o Koe mo te fakatasitasi o Tou Uiga tonu, Tou mana mote maluga mai i luga i te lalolagi o tino mo mea katoa ko la e laveagia.

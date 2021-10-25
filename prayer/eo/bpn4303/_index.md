@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4303 in Esperanto'
-tags = ['lang-eo', 'bpn4303']
+tags = ['lang-eo', 'bpn-unsorted']
 +++
 ##La longa deviga preĝo
 *(Citenda unufoje en dudek kvar horoj)

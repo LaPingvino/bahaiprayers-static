@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn11916 in '
-tags = ['lang-102', 'bpn11916']
+tags = ['lang-102', 'bpn-unsorted']
 +++
 *(Uly namazy haçan-da ynsan özünde isleg we pespällik halatyny duýanda, gije-gündiziň dowamynda bir gezek ýerine ýetirip biler.)
 

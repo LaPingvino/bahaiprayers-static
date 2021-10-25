@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5174 in Bahasa Indonesia'
-tags = ['lang-id', 'bpn5174']
+tags = ['lang-id', 'bpn-unsorted']
 +++
 *[Doa ini dapat dibaca pada penutup Pertemuan]
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6432 in Cymraeg'
-tags = ['lang-cy', 'bpn6432']
+tags = ['lang-cy', 'bpn-unsorted']
 +++
 *Whenever ye enter the council-chamber, recite this prayer with a heart throbbing with the love of God and a tongue purified from all but His remembrance, that the All-Powerful may graciously aid you to achieve supreme victory:  
 

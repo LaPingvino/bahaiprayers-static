@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10389 in Kiribati'
-tags = ['lang-gil', 'bpn10389']
+tags = ['lang-gil', 'bpn-unsorted']
 +++
 First line: Laude be Thy Name, O Lord, our God! Thou art in truth the Knower
 E na kamoamoaaki Aram, O te Uea Atuara! Ngkoe ni koaua te Tia Atai bwaai aika a aki noonoraki. Kataua ibukira bwaai aika a tamaroa n aron ae Ko kona ni baireia man Am atatai ae e rabwatii bwaai ni kabane. Ngkoe ni koaua te Uea ae tautaekanii bwaai nako, te Kabanea ni Korakora, Moan te Tangiraki.

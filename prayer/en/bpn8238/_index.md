@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8238 in English'
-tags = ['lang-en', 'bpn8238']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 He is the Most Holy, the Most Glorious.
 

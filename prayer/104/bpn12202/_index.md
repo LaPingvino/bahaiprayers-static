@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12202 in '
-tags = ['lang-104', 'bpn12202']
+tags = ['lang-104', 'bpn-unsorted']
 +++
 *Setiap jiwa yang mengadakan perjalanan melalui kota-kota, kampung-kampung dan desa-desa... dan sibuk menyebarkan keharuman Tuhan, seharusnya membaca doa ini setiap pagi.
 

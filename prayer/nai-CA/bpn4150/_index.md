@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4150 in Canadian Indigenous'
-tags = ['lang-nai-CA', 'bpn4150']
+tags = ['lang-nai-CA', 'bpn-unsorted']
 +++
 Kitsíneh’ka-seemee tóXta-sókimoX-see, áh-yoh Apistotokee, ki ikúmoks-tay-ksím-stay-neekee tákoXt-seets.
 Keetóta-powáX-kaX-see noXtóh-tamee-túkee ki eh’tóX-pokow-op keeta-wákomin-oX-sinee. Kitsee-kím-oX-sinee nitoX-

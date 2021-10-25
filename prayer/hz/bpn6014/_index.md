@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6014 in Namibia'
-tags = ['lang-hz', 'bpn6014']
+tags = ['lang-hz', 'bpn-unsorted']
 +++
 ##Ngurangura
 *Morning Prayer

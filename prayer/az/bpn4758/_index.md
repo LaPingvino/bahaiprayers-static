@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4758 in Azərbaycan'
-tags = ['lang-az', 'bpn4758']
+tags = ['lang-az', 'bpn-unsorted']
 +++
 Neçə-neçə buz bağlamış ürək, Ey mənim Allahım, Sənin Əmrinin atəşindən oda qalandı və necə-necə qafil Sənin nidanın şirinliyindən oyandı. Sənin günlərində necə-necə qərib Sənin vahidlik ağacının kölgəsinə sığındı və necə-necə təşnə dirilik suyunun çeşməsinə can atdı.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6132 in Chamorro'
-tags = ['lang-ch', 'bpn6132']
+tags = ['lang-ch', 'bpn-unsorted']
 +++
 O Asaina! Mandebet ham; na’i ham animu. O Yu’os! Mantaitiningo’ ham, na’fanmanungo’ ham. O Asaina! Mamopble ham, na’fanmiguinaha ham. O Yu’os! Manmatai ham, na’fanlala’la’ ham. O Asaina! Manna’mamahlao ham; na’fanggloriosu ham gi Raino-Mu. Yanggen Hagu umasiste ham, siempre mama’ma’lak estreyas ham. Yanggen ti Un asiste ham, siempre manakpapa’ña ham kinu i edda’. O Asaina, na’metgot ham. O Yu’os! Na’i i ginanna giya hami. O Yu’os, na’i ham kapasidat na bai in igi i sensen yan i diniseha. O Asaina, na’fanlibre ham gi ginedden i matiriat na tano’. O Asaina! Na’fanla’la’ ham ginen i hinagong i Espiritu Santo kosaki in fangahulo’ para bai in setbe Hao, in tina Hao, ya in na’i animu gi raino-Mu
 yan i etmas sinseru. O Asaina! Metgot Hao! O Yu’os, manasisi’i Hao. O Asaina, yo’ase’ Hao.

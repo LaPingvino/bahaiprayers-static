@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12478 in '
-tags = ['lang-103', 'bpn12478']
+tags = ['lang-103', 'bpn-unsorted']
 +++
 *TO BE RECITED ONCE IN TWENTY-FOUR HOURS
  

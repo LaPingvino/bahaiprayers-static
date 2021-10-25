@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3591 in Norsk'
-tags = ['lang-no', 'bpn3591']
+tags = ['lang-no', 'bpn-unsorted']
 +++
 De innskutte dager, fra og med 26. februar til og med 1. mars, bør være en tid viet forberedelse til fasten, en gjestfrihetens, nestekjærlighetens og gavenes tid.
  

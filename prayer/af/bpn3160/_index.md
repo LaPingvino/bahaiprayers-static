@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3160 in Afrikaans'
-tags = ['lang-af', 'bpn3160']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 My God, Wat ek aanbid en vereer! Ek getuig van U eenheid en U enkelvoudigheid, en erken U gawes, beide in die verlede en in die hede. U is die Almilddadige, die oorvloeiende buie van Wie se genade op hoog en laag gelyk afgereent het, en die prag van Wie se guns oor albei die gehoorsame en die weerspannige uitgestraal het.
 

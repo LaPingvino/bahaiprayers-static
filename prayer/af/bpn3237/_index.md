@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn3237 in Afrikaans'
-tags = ['lang-af', 'bpn3237']
+tags = ['lang-af', 'bpn-unsorted']
 +++
 *Wanneer julle ook al die raadskamer binnetree, sê hierdie gebed met 'n hart wat klop met liefde vir God en met 'n tong gelouter van alles behalwe aandenking aan Hom, sodat die Almagtige julle genadiglik mag help om die uiterste oorwinning te behaal:
 

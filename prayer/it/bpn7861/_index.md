@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7861 in Italiano'
-tags = ['lang-it', 'bpn7861']
+tags = ['lang-it', 'bpn-unsorted']
 +++
 ##PREGHIERA OBBLIGATORIA BREVE
 

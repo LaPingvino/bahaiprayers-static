@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2102 in România'
-tags = ['lang-ro', 'bpn2102']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 De spus în fiecare zi, dimineaţa, la amiază şi seara.
 

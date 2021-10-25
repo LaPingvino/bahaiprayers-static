@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn8269 in English'
-tags = ['lang-en', 'bpn8269']
+tags = ['lang-en', 'bpn-unsorted']
 +++
 #Lawh-i-Mawlúd
 ##Tablet of the Birth

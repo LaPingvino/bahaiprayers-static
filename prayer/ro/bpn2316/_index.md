@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn2316 in România'
-tags = ['lang-ro', 'bpn2316']
+tags = ['lang-ro', 'bpn-unsorted']
 +++
 În numele Domnului, Cel Străvechi, Cel Măreţ.
 Într-adevăr, inimile celor sinceri se mistuie în focul despărţirii: Unde este lumina strălucitoare a chipului Tău, o, Preaiubit al lumilor toate?

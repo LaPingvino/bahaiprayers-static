@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9587 in Nederlands'
-tags = ['lang-nl', 'bpn9587']
+tags = ['lang-nl', 'bpn-unsorted']
 +++
 ##Genezing voor zuigelingen
 

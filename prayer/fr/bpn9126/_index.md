@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9126 in Français'
-tags = ['lang-fr', 'bpn9126']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 ##Prière moyenne, à réciter trois fois par jour, matin, midi et soir.
 

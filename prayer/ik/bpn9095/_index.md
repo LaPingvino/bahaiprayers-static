@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9095 in Alaska Native'
-tags = ['lang-ik', 'bpn9095']
+tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Morning Prayer
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12346 in '
-tags = ['lang-95', 'bpn12346']
+tags = ['lang-95', 'bpn-unsorted']
 +++
 O toku Atua! O toku Atua! E tonu, e tagi atu au kia Koe kae akai totuli i mua o Tou mataloa, o fai atu kia Koe ko Au mea-alofa katoa ke tuku ifo ki luga i agaaga ola konei. Faka-patino a latou ki Au alofaaga mo Tau mea-tonu.   
   

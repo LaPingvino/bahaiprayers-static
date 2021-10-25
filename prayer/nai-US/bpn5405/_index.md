@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5405 in American Indian'
-tags = ['lang-nai-US', 'bpn5405']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 O Gitchi - Manitou! Kegagwetchemin chiminut, ni - manitoum chi - min - ain - dung. Beniton, nedae. Wasseiasiwin - meeng - ni - gashkiewisiwin. Ni - we - pakitinan kakina - danokeen - pindig - Kinindg. Keen - chiweechi - we - un, gaie ni - iningimowin. Kaween, minawa - Kashkendamowessi, gaie, Kaween - inaninawendaman. Ga - aiaa, chi - menaindaman, gaie, gaminawanigos. O Gitchi - Manitou! Kaween, gamoshkinase - chi - migoshkadjidewian, gaie, kaween - niwe - pakitinase - ewai - Kashkendamowin chi - megoshkadjian. Kaween ga - nindabisse eway - kaygo - kamanatuk pematisewin.  O Gitchi - Manitou! Keen - nawatch - ne nikanis, nawatch eway - neen. Ni - meenin ne - pematisewin Gitchi - Manitou.
 

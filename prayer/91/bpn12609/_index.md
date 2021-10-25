@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12609 in '
-tags = ['lang-91', 'bpn12609']
+tags = ['lang-91', 'bpn-unsorted']
 +++
 #SAMBIANG OBLIGATORI NUMBAS PEMANJAI
 ##PATUT DISEBUT TIAP HARI, PAGI, NGALIH HARI, ENGGAU LEMAI.

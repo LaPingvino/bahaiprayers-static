@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6846 in American Indian'
-tags = ['lang-nai-US', 'bpn6846']
+tags = ['lang-nai-US', 'bpn-unsorted']
 +++
 Gichi-tawaawan maanpii, 
 miinwaa wiigawaaming, 

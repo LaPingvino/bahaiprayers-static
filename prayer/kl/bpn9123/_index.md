@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9123 in Kalaallisut'
-tags = ['lang-kl', 'bpn9123']
+tags = ['lang-kl', 'bpn-unsorted']
 +++
 *Kinaluunniit naalagaaffinni makkunani illoqarfitsigut nunaqarfitsigullu angalasoq Guutillu tipigissusianik naamajuminartumik siaruarterinissamik ilungersuuteqartoq ullaat tamaasa qinnummik uannga atuartassagaluarpoq.
 

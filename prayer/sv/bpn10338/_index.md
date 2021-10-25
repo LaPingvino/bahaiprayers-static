@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10338 in Svenska'
-tags = ['lang-sv', 'bpn10338']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Fördriv mina bekymmer genom Din välgörenhet och Din givmildhet, o Gud  min Gud, och förvisa mina kval genom Din överhöghet och makt. Du ser mig, o min Gud, med ansiktet vänt mot Dig i en stund då sorger omger mig från alla håll. Jag bönfaller Dig, o Du som är hela tillvarons Herre och överskyggar alla synliga och osynliga ting, vid Ditt namn varigenom Du betvingat människornas hjärtan och själar, och vid vågsvallet från Din barmhärtighets hav och vid prakten hos Din ynnests Morgonstjärna, att räkna mig till dem som ej hindrats av något, vad det än må vara, att vända sitt ansikte mot Dig, o Du som är alla namns Herre och himlarnas Skapare!
 Du ser, o min Herre, vad som har drabbat mig i Dina dagar. Jag bönfaller Dig vid Honom som är Dina namns soluppgång och gryningsplatsen för Dina egenskaper, att förordna för mig allt 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9937 in አማርኛ.'
-tags = ['lang-am', 'bpn9937']
+tags = ['lang-am', 'bpn-unsorted']
 +++
 *Long Healing
 

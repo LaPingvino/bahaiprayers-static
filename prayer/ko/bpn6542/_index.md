@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6542 in 한국어'
-tags = ['lang-ko', 'bpn6542']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 저의 얼굴이 바로 주님의 얼굴....., 주님의 시녀들을
 

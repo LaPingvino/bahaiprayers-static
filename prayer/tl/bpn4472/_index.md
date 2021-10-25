@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn4472 in Filipino'
-tags = ['lang-tl', 'bpn4472']
+tags = ['lang-tl', 'bpn-unsorted']
 +++
 O Diyos, O Diyos! Ito ay isang ibong may baling bagwis at ang kaniyang paglipad ay napakabagal—tulungan siya upang makalipad tungo sa tugatog ng kasaganaan at pagkaligtas, bigyang bagwis siya sa kaniyang landas na lakip ang pinakasukdulang tuwa at kaligayahan sa walang hangganang kalawakan, itaas ang kaniyang awitin sa Iyong Kataas-taasang Pangalan sa lahat ng pook, pasiglahin ang mga tainga sa tawag na ito, at paningningin ang mga mata sa pagkamalas sa mga tanda ng pamamatnubay!
 

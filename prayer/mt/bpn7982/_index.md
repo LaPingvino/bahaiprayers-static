@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7982 in Malti'
-tags = ['lang-mt', 'bpn7982']
+tags = ['lang-mt', 'bpn-unsorted']
 +++
 O Alla, Alla tiegħi! Jiena dort niedem lejK, u fis-sew Int Dak li Jaħfer, li Jħenn. 
 

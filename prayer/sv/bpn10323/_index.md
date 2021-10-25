@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10323 in Svenska'
-tags = ['lang-sv', 'bpn10323']
+tags = ['lang-sv', 'bpn-unsorted']
 +++
 Lovat vare Ditt namn, o min Gud och  alltings Gud, min härlighet och alltings härlighet, min åstundan och alltings åstundan, min styrka och alltings styrka, min Konung och alltings Konung, min Herre och alltings Herre, mitt mål och alltings mål, min drivkraft och alltings drivkraft!
 Jag bönfaller Dig att icke låta mig hållas tillbaka från Din kärleksfulla nåds ocean, ej heller fjärmas från Din närhets stränder.

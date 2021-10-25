@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10791 in '
-tags = ['lang-93', 'bpn10791']
+tags = ['lang-93', 'bpn-unsorted']
 +++
 *DA  SE  DEKLAMUJE  JEDNOM  U  DVADESET-ČETIRI  SATA 
 

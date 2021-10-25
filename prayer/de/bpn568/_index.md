@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn568 in Deutsch'
-tags = ['lang-de', 'bpn568']
+tags = ['lang-de', 'bpn-unsorted']
 +++
 Er ist der Heiler, der Genügende, der Helfer, der Allvergebende, der Allbarmherzige.
 Ich rufe Dich an, o Erhabener, o Getreuer, o Herrlicher! Du der Genügende, Du der Heilende, Du der Beständige, o Du Beständiger!

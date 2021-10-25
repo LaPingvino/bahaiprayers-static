@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10117 in Slovensky'
-tags = ['lang-sk', 'bpn10117']
+tags = ['lang-sk', 'bpn-unsorted']
 +++
 ##Tabuľka navštívenia,‘Abdu’l¬ Baháa
  

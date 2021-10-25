@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn5566 in 日本語'
-tags = ['lang-ja', 'bpn5566']
+tags = ['lang-ja', 'bpn-unsorted']
 +++
 ##閏日うるうびの祈り
  

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9098 in Alaska Native'
-tags = ['lang-ik', 'bpn9098']
+tags = ['lang-ik', 'bpn-unsorted']
 +++
 **Prayer for Children
 God, iḷisauttukki migłiqtut. Migłiqtut ukua nautchiagurut nautchiivigñi. Sialugnik aatchukki; siqiñġanik iḷumun ittuam qaummaġiksitki nakuaqqutikkun. Anuqsraaġiksitki nutaaġuqsaqtut aasii iḷisimalutiglu naulutiglu qiññaġikpagmiḷutik. Pamatchiraurutin. Nagliktaurutin.

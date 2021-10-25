@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7449 in Polski'
-tags = ['lang-pl', 'bpn7449']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 O mój Boże! O Ty, który odpuszczasz grzechy, rozdajesz dary i usuwasz nieszczęścia!
     

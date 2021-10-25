@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn6603 in 한국어'
-tags = ['lang-ko', 'bpn6603']
+tags = ['lang-ko', 'bpn-unsorted']
 +++
 주님의 이 종은
 

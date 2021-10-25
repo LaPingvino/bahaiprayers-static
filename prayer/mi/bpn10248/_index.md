@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn10248 in Māori'
-tags = ['lang-mi', 'bpn10248']
+tags = ['lang-mi', 'bpn-unsorted']
 +++
 E Te Atua, tōku Atua! Tēnei ahau te patipati mā te moananui o Tōu whakaora, ā, mā te korōria o te Rā o Tō atawhai, ma Tōu Ingoa nāna Āu pononga i whakarata, ā, mā te kaha rawa o Tāu Kupu nui whaikorōria rawa me te mana o Tāu Pene rangatira rawa, ā mā Tōu tohu aroha o mua noa atu o te orokohanganga o ngā iwi katoa o te rangi o te whenua, ka horoia ai ahau ki ngā wai o Tāu manaaki mai i ngā pēpehitanga me ngā pōrearea mai i ngā ngoikoretanga me ngā kahakoretanga hoki. 
 

@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn1121 in Português (BR)'
-tags = ['lang-pt', 'bpn1121']
+tags = ['lang-pt', 'bpn-unsorted']
 +++
 Ó Deus, meu Deus! Esta Tua serva invoca-Te, depositando em Ti confiança, volvendo a Ti a face e implorando-Te que sobre ela derrames as Tuas graças celestiais, que lhe reveles os Teus mistérios espirituais, e irradies sobre ela as luzes da Tua Deidade.
 Ó meu Senhor! Faze com que os olhos do meu esposo vejam. Regozija o seu coração com a luz do conhecimento de Ti, atrai a sua mente para a Tua fascinante beleza e alegra o seu espírito, revelando-lhe os Teus esplendores manifestos.

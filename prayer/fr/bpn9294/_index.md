@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn9294 in Français'
-tags = ['lang-fr', 'bpn9294']
+tags = ['lang-fr', 'bpn-unsorted']
 +++
 Ô mon Dieu, ô mon Dieu, en vérité, je t’invoque et te supplie devant ton seuil, te demandant de faire pleuvoir toutes tes bénédictions sur ces âmes. Désigne-les spécialement pour recevoir tes faveurs et ta vérité.
 Ô Seigneur, unis et relie les cœurs, établis la concorde entre toutes les âmes et réjouis les esprits par les signes de ta sainteté et de ton unité. 

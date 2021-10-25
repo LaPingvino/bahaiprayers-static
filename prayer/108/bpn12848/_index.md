@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn12848 in '
-tags = ['lang-108', 'bpn12848']
+tags = ['lang-108', 'bpn-unsorted']
 +++
 ##(ສໍາລັບເດັກນ້ອຍ)
 

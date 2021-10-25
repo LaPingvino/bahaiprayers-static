@@ -1,6 +1,6 @@
 +++
 title = 'Prayer bpn7329 in Polski'
-tags = ['lang-pl', 'bpn7329']
+tags = ['lang-pl', 'bpn-unsorted']
 +++
 Nauczający i przyjaciele powinni codziennie czytać następującą modlitwę:
    
