@@ -1,0 +1,8 @@
++++
+title = 'Prayer bpn13222 in Slovensky'
+author = "Bahá'u'lláh"
+tags = ['lang-sk', 'bpn-unsorted', "Bahá'u'lláh"]
++++
+Sláva buď Tebe, ó môj Bože! Keby nebolo trápenia vytrpeného na Tvojej ceste, ako by bolo možné rozlíšiť Tvojich skutočných milujúcich? A keby nebolo súženia znášaného z lásky k Tebe, ako by mohlo byť zjavené postavenie tých, ktorí po Tebe túžia? Tvoja moc mi je svedkom! Spoločníkmi všetkých, ktorí Ťa obdivujú, sú slzy, ktoré prelievajú, a utešiteľmi tých, ktorí Ťa vyhľadávajú, sú vzdychy, ktoré vyslovujú, a potravou tých, ktorí sa ponáhľajú, aby sa s Tebou stretli, sú čriepky ich zlomených sŕdc. 
+Ako ľúbezne chutí trpkosť smrti vytrpenej na Tvojej ceste a aké vzácne sú z môjho pohľadu kopije Tvojich nepriateľov, keď sa s nimi stretávame kvôli povzneseniu Tvojho Slova! Dovoľ mi, aby som sa v Tvojej veci, ó môj Bože a môj Majster, napil všetkého, čo si chcel, a vo Svojej láske mi zošli všetko, čo si prikázal. Pri Tvojej sláve! Prajem si len to, čo si praješ i Ty, a radujem sa len z toho, z čoho sa raduješ Ty. V Teba som vždy vkladal celú Svoju dôveru a presvedčenie. Ty si vskutku Vlastníkom všetkého, Najvyšším. 
+Úpenlivo Ťa žiadam, ó môj Bože, pozdvihni ako pomocníkov tohto Zjavenia tých, ktorí sa budú počítať za hodných Tvojho mena a Tvojej zvrchovanosti, aby Ťa medzi Tvojimi stvoreniami mohli spomínať a rozvinúť vlajky Tvojho víťazstva v Tvojej krajine. Máš moc konať to, čo si zaželáš. Niet Boha okrem Teba, Pomocníka v nebezpečí, Sebedostačujúceho.
