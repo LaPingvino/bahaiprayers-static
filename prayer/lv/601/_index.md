@@ -1,0 +1,3 @@
+---
+title: "Īsā obligātā lūgšana"
+---

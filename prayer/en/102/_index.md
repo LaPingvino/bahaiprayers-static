@@ -1,0 +1,3 @@
+---
+title: "Medium Obligatory Prayer"
+---

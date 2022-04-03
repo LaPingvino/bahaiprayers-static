@@ -1,0 +1,3 @@
+---
+title: "Tabuľka pre Aḥmada"
+---

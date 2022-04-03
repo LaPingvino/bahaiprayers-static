@@ -1,0 +1,3 @@
+---
+title: "Krótka Modlitwa Obowiązkowa"
+---

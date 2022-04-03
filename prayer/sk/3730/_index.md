@@ -1,0 +1,3 @@
+---
+title: "Tabuľky Božského Plánu"
+---

@@ -1,0 +1,3 @@
+---
+title: "Siŋunec Ac Mosoc"
+---

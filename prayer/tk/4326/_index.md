@@ -1,0 +1,3 @@
+---
+title: "Şypa Ýazgysy"
+---

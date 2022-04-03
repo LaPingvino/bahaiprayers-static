@@ -1,0 +1,3 @@
+---
+title: "A Ridván tábla"
+---

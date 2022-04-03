@@ -1,0 +1,3 @@
+---
+title: "Short Obligatory Prayer"
+---

@@ -1,0 +1,3 @@
+---
+title: "Statornicie în Legământ"
+---

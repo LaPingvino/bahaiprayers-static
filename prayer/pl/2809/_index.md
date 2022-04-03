@@ -1,0 +1,3 @@
+---
+title: "Średnia Modlitwa Obowiązkowa"
+---

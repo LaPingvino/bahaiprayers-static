@@ -1,0 +1,3 @@
+---
+title: "Stałość w Przymierzu"
+---

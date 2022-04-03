@@ -55,6 +55,10 @@ type Prayer struct {
 	LanguageId    int
 	Text          string
 	Category      string `json:"FirstTagName"`
+	Tags          []struct {
+		Id   int
+		Name string
+	}
 }
 
 func GetFile(name string) []byte {
@@ -163,23 +167,41 @@ func main() {
 			log.Printf("Prayer %d", prayer.Id)
 			var lname, rtl string
 			prayer.LanguageCode, lname, rtl = Language(v)
+			// Create the language directory if it doesn't exist
 			os.MkdirAll(dirbase+prayer.LanguageCode, os.ModePerm)
+			// Create language directory file
 			f, err := os.Create(dirbase + prayer.LanguageCode + "/_index.md")
 			if err != nil {
 				panic(err)
 			}
+			// Write language header file
 			fmt.Fprintln(f, `---
 title: "`+lname+`"
 rtl: "`+rtl+`"
 ---`)
 			f.Close()
+			catid := strconv.Itoa(prayer.Tags[0].Id)
+			// Create the category directory if it doesn't exist
+			os.MkdirAll(dirbase+prayer.LanguageCode+"/"+catid, os.ModePerm)
+			// Create category directory file
+			f, err = os.Create(dirbase + prayer.LanguageCode + "/" + catid + "/_index.md")
+			if err != nil {
+				panic(err)
+			}
+			// Write category header file
+			fmt.Fprintln(f, `---
+title: "`+prayer.Category+`"
+---`)
+			f.Close()
+			// Create prayer file
 			prayer.PrayerCode = PrayerCode(prayer.Id)
 			prayer.PrayerCodeTag = prayer.PrayerCode
 			if (prayer.PrayerCodeTag + "   ")[0:3] == "bpn" {
 				prayer.PrayerCodeTag = "bpn-unsorted"
 			}
 			prayer.Title = "Prayer " + prayer.PrayerCode + " in " + lname
-			dir := dirbase + prayer.LanguageCode + "/" + prayer.PrayerCode
+			dir := dirbase + prayer.LanguageCode + "/" + catid + "/" + prayer.PrayerCode
+
 			os.Mkdir(dir, os.ModePerm)
 			f, err = os.Create(dir + "/_index.md")
 			if err != nil {

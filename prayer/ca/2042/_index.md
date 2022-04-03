@@ -1,0 +1,3 @@
+---
+title: "Oració obligatòria curta"
+---

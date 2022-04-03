@@ -1,0 +1,3 @@
+---
+title: "KEDEKATAN KEPADA TUHAN"
+---

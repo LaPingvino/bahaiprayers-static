@@ -1,0 +1,3 @@
+---
+title: "Atsiribojimas ir sutvirtinimas"
+---

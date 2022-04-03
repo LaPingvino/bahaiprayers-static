@@ -1,0 +1,3 @@
+---
+title: "Rugăciunea Obligatorie Scurtă"
+---

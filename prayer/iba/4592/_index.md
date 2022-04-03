@@ -1,0 +1,3 @@
+---
+title: "TEGUH DALAM SEMPEKAT"
+---
