@@ -1,5 +1,5 @@
 +++
-title = 'Blessed is the Spot in Esperanto'
+title = "Blessed is the Spot in Esperanto"
 author = "Bahá'u'lláh"
 tags = ['lang-eo', 'prayer-BH00074BLE', "author-Bahá'u'lláh", "category-Gatherings", "cat-Laŭdo kaj Danko"]
 +++

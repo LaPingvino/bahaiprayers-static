@@ -1,5 +1,5 @@
 +++
-title = 'Prayer BH09024 in Afrikaans'
+title = "Prayer BH09024 in Afrikaans"
 author = "Bahá'u'lláh"
 tags = ['lang-af', 'prayer-BH09024', "author-Bahá'u'lláh", "category-Detachment", "cat-Afsnyding"]
 +++

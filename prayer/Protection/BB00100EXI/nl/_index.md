@@ -1,5 +1,5 @@
 +++
-title = 'Prayer BB00100EXI in Nederlands'
+title = "Prayer BB00100EXI in Nederlands"
 author = "Báb"
 tags = ['lang-nl', 'prayer-BB00100EXI', "author-Báb", "category-Protection", "cat-Bescherming"]
 +++

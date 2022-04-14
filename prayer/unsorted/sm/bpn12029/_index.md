@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn12029 in Samoan'
+title = "Prayer bpn12029 in Samoan"
 author = "Báb"
 tags = ['lang-sm', 'prayer-', "author-Báb", "category-unsorted", "cat-Tests and Difficulties"]
 +++

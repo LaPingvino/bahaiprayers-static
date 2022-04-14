@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn13082 in Hiri Motu'
+title = "Prayer bpn13082 in Hiri Motu"
 author = "Abdu'l-Bahá"
 tags = ['lang-ho', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-GINI AUKA DIRAVA ENA MISINI DEKENAI"]
 +++

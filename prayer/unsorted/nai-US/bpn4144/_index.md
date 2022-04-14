@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn4144 in American Indian'
+title = "Prayer bpn4144 in American Indian"
 author = "Báb"
 tags = ['lang-nai-US', 'prayer-', "author-Báb", "category-unsorted", "cat-Mohegan-Pequot"]
 +++

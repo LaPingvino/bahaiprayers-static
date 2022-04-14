@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn13014 in Nalik'
+title = "Prayer bpn13014 in Nalik"
 author = "Abdu'l-Bahá"
 tags = ['lang-nal', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-A Vaaroving sin a Funalik Naat (Children)"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer AB10492 in Español'
+title = "Prayer AB10492 in Español"
 author = "Abdu'l-Bahá"
 tags = ['lang-es', 'prayer-AB10492', "author-Abdu'l-Bahá", "category-Youth", "cat-Jóvenes"]
 +++

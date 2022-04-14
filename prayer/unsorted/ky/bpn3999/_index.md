@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn3999 in Кыргыз'
+title = "Prayer bpn3999 in Кыргыз"
 author = "Báb"
 tags = ['lang-ky', 'prayer-', "author-Báb", "category-unsorted", "cat-Туруктуулук"]
 +++

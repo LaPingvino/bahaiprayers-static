@@ -1,5 +1,5 @@
 +++
-title = 'Midnight Prayer in Deutsch'
+title = "Midnight Prayer in Deutsch"
 author = "Abdu'l-Bahá"
 tags = ['lang-de', 'prayer-AB06528MID', "author-Abdu'l-Bahá", "category-Evening", "cat-Abend"]
 +++

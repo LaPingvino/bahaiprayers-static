@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn4836 in Azərbaycan'
+title = "Prayer bpn4836 in Azərbaycan"
 author = "Bahá'u'lláh"
 tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-İlahi təyid duaları"]
 +++

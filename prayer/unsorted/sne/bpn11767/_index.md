@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn11767 in Bidayuh'
+title = "Prayer bpn11767 in Bidayuh"
 author = "Bahá'u'lláh"
 tags = ['lang-sne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Simayang Wajib Sodang Omu"]
 +++

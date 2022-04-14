@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn11127 in नेपाली'
+title = "Prayer bpn11127 in नेपाली"
 author = "Bahá'u'lláh"
 tags = ['lang-ne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-रोग निवारणको लागि लामो प्रार्थना"]
 +++

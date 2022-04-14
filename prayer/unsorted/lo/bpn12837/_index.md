@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn12837 in ພາສາລາວ'
+title = "Prayer bpn12837 in ພາສາລາວ"
 author = "Abdu'l-Bahá"
 tags = ['lang-lo', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ບົດອະທິຖານສໍາລັບຄູ່ສົມລົດ"]
 +++

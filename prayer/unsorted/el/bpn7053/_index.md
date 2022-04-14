@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn7053 in ελληνικά'
+title = "Prayer bpn7053 in ελληνικά"
 author = "Abdu'l-Bahá"
 tags = ['lang-el', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ΓΙΑ ΤΗΝ ΑΝΘΡΩΠΟΤΗΤΑ"]
 +++

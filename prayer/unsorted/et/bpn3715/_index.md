@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn3715 in Eesti'
+title = "Prayer bpn3715 in Eesti"
 author = "Abdu'l-Bahá"
 tags = ['lang-et', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Katsumused ja raskused"]
 +++

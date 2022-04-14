@@ -1,5 +1,5 @@
 +++
-title = 'Medium Obligatory Prayer in English'
+title = "Medium Obligatory Prayer in English"
 author = "Bahá'u'lláh"
 tags = ['lang-en', 'prayer-BH03447', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-Medium Obligatory Prayer"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn8468 in বাংলা'
+title = "Prayer bpn8468 in বাংলা"
 author = "Abdu'l-Bahá"
 tags = ['lang-bn', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-সমাধিস্থান দর্শন উপলক্ষ্যে প্রার্থনার ফলকলিপি"]
 +++

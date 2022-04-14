@@ -1,5 +1,5 @@
 +++
-title = 'Prayer BH09024 in Esperanto'
+title = "Prayer BH09024 in Esperanto"
 author = "Bahá'u'lláh"
 tags = ['lang-eo', 'prayer-BH09024', "author-Bahá'u'lláh", "category-Detachment", "cat-Malligiteco"]
 +++

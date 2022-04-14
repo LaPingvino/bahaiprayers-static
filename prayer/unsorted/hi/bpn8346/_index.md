@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn8346 in हिंदी'
+title = "Prayer bpn8346 in हिंदी"
 author = "Báb"
 tags = ['lang-hi', 'prayer-', "author-Báb", "category-unsorted", "cat-परीक्षाएँ और कठिनाइयाँ"]
 +++

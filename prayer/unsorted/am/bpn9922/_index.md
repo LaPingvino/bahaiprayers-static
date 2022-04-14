@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn9922 in አማርኛ.'
+title = "Prayer bpn9922 in አማርኛ."
 author = "Bahá'u'lláh"
 tags = ['lang-am', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ለመንፈሳዊ ጉባኤ ስብሰባ (Assemblies)"]
 +++

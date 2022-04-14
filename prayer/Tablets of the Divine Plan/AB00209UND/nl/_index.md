@@ -1,5 +1,5 @@
 +++
-title = 'Prayer AB00209UND in Nederlands'
+title = "Prayer AB00209UND in Nederlands"
 author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'prayer-AB00209UND', "author-Abdu'l-Bahá", "category-Tablets of the Divine Plan", "cat-Onderricht, uit de Tafelen van het Goddelijk Plan"]
 +++

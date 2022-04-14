@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn6234 in Luganda'
+title = "Prayer bpn6234 in Luganda"
 author = "Báb"
 tags = ['lang-lg', 'prayer-', "author-Báb", "category-unsorted", "cat-OKWEGYA KU BY'ENSI"]
 +++

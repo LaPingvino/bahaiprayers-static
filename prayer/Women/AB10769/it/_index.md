@@ -1,5 +1,5 @@
 +++
-title = 'Prayer AB10769 in Italiano'
+title = "Prayer AB10769 in Italiano"
 author = "Abdu'l-Bahá"
 tags = ['lang-it', 'prayer-AB10769', "author-Abdu'l-Bahá", "category-Women", "cat-Prove e Difficoltà"]
 +++

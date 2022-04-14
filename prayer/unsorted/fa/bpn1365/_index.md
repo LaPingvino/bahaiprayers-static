@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn1365 in فارسی'
+title = "Prayer bpn1365 in فارسی"
 author = "Bahá'u'lláh"
 tags = ['lang-fa', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-طلب عفو و بخشش"]
 +++

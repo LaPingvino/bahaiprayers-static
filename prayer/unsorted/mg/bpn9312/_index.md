@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn9312 in Malagasy'
+title = "Prayer bpn9312 in Malagasy"
 author = "Báb"
 tags = ['lang-mg', 'prayer-', "author-Báb", "category-unsorted", "cat-FITSAPANA SY FAHASAHIRANANA"]
 +++

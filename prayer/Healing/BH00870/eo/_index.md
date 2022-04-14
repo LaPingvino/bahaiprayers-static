@@ -1,5 +1,5 @@
 +++
-title = 'Long Healing Prayer in Esperanto'
+title = "Long Healing Prayer in Esperanto"
 author = "Bahá'u'lláh"
 tags = ['lang-eo', 'prayer-BH00870', "author-Bahá'u'lláh", "category-Healing", "cat-Sanigo"]
 +++

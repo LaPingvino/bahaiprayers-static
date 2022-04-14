@@ -1,5 +1,5 @@
 +++
-title = 'Prayer AB00049RAP in English'
+title = "Prayer AB00049RAP in English"
 author = "Abdu'l-Bahá"
 tags = ['lang-en', 'prayer-AB00049RAP', "author-Abdu'l-Bahá", "category-Tablets of the Divine Plan", "cat-Tablets of the Divine Plan"]
 +++

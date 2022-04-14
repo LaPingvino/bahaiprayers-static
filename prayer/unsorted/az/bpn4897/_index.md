@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn4897 in Azərbaycan'
+title = "Prayer bpn4897 in Azərbaycan"
 author = "Abdu'l-Bahá"
 tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Həzrət Əbdül -Bəhanın Ziyarətnaməsi"]
 +++

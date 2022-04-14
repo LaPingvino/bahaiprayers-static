@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn11231 in Kiswahili'
+title = "Prayer bpn11231 in Kiswahili"
 author = "Abdu'l-Bahá"
 tags = ['lang-sw', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-BAADHI YA SALA NYINGINE"]
 +++

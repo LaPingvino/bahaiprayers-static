@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn12553 in Tetum'
+title = "Prayer bpn12553 in Tetum"
 author = "Abdu'l-Bahá"
 tags = ['lang-tet', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Labarik sira"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn4375 in Íslenska'
+title = "Prayer bpn4375 in Íslenska"
 author = "Bahá'u'lláh"
 tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lengsta skyldubænin"]
 +++

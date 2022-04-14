@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn2121 in România'
+title = "Prayer bpn2121 in România"
 author = "Báb"
 tags = ['lang-ro', 'prayer-', "author-Báb", "category-unsorted", "cat-Apărare şi Protecţie"]
 +++

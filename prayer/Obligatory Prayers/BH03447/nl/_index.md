@@ -1,5 +1,5 @@
 +++
-title = 'Medium Obligatory Prayer in Nederlands'
+title = "Medium Obligatory Prayer in Nederlands"
 author = "Bahá'u'lláh"
 tags = ['lang-nl', 'prayer-BH03447', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-Het middellange Verplichte Gebed"]
 +++

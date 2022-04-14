@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn11347 in தமிழ்'
+title = "Prayer bpn11347 in தமிழ்"
 author = "Báb"
 tags = ['lang-ta', 'prayer-', "author-Báb", "category-unsorted", "cat-சோதனைகளும் இன்னல்களும்"]
 +++

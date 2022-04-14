@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn13272 in Україна'
+title = "Prayer bpn13272 in Україна"
 author = "Abdu'l-Bahá"
 tags = ['lang-uk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Непохитність у Завіті"]
 +++

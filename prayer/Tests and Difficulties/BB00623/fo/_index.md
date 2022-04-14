@@ -1,5 +1,5 @@
 +++
-title = 'Prayer BB00623 in Føroyar'
+title = "Prayer BB00623 in Føroyar"
 author = "Báb"
 tags = ['lang-fo', 'prayer-BB00623', "author-Báb", "category-Tests and Difficulties", "cat-Trupulleikar"]
 +++

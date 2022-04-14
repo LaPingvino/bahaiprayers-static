@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn6212 in Hawaiian'
+title = "Prayer bpn6212 in Hawaiian"
 author = "Báb"
 tags = ['lang-haw', 'prayer-', "author-Báb", "category-unsorted", "cat-General Prayers"]
 +++

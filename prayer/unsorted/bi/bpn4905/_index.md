@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn4905 in Vanuatu'
+title = "Prayer bpn4905 in Vanuatu"
 author = "Bahá'u'lláh"
 tags = ['lang-bi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TOKTOK BLONG BAHÁʼU’LLÁH I GO LONG AHMAD"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Thy name is my healing in English'
+title = "Thy name is my healing in English"
 author = "Bahá'u'lláh"
 tags = ['lang-en', 'prayer-BH01313NAM', "author-Bahá'u'lláh", "category-Healing", "cat-Healing"]
 +++

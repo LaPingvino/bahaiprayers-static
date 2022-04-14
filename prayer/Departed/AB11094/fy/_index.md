@@ -1,5 +1,5 @@
 +++
-title = 'Prayer AB11094 in Frysk'
+title = "Prayer AB11094 in Frysk"
 author = "Abdu'l-Bahá"
 tags = ['lang-fy', 'prayer-AB11094', "author-Abdu'l-Bahá", "category-Departed", "cat-Ferstoarnen"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn6328 in Namibia'
+title = "Prayer bpn6328 in Namibia"
 author = "Abdu'l-Bahá"
 tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Rukwangali: KOVAFE"]
 +++

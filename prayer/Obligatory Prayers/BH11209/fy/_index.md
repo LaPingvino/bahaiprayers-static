@@ -1,5 +1,5 @@
 +++
-title = 'Short Obligatory Prayer in Frysk'
+title = "Short Obligatory Prayer in Frysk"
 author = "Bahá'u'lláh"
 tags = ['lang-fy', 'prayer-BH11209', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-It Koarte Ferplichte"]
 +++

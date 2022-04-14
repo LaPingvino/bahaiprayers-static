@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn11742 in Hausa'
+title = "Prayer bpn11742 in Hausa"
 author = "Bahá'u'lláh"
 tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Neman Sauki Cikin Matsala"]
 +++

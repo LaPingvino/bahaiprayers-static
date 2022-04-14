@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn6140 in Euskara'
+title = "Prayer bpn6140 in Euskara"
 author = "Bahá'u'lláh"
 tags = ['lang-eu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Babesa"]
 +++

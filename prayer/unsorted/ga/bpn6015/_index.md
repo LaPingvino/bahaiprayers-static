@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn6015 in Irish'
+title = "Prayer bpn6015 in Irish"
 author = "Báb"
 tags = ['lang-ga', 'prayer-', "author-Báb", "category-unsorted", "cat-General"]
 +++

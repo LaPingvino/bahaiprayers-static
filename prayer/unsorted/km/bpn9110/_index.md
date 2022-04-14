@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn9110 in ភាសាខ្មែរ'
+title = "Prayer bpn9110 in ភាសាខ្មែរ"
 author = "Bahá'u'lláh"
 tags = ['lang-km', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Short Obligatory Prayer"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn6080 in Sranan Tongo'
+title = "Prayer bpn6080 in Sranan Tongo"
 author = "Bahá'u'lláh"
 tags = ['lang-srn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Korte Verplichte Gebed"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn6981 in Fiji'
+title = "Prayer bpn6981 in Fiji"
 author = "Abdu'l-Bahá"
 tags = ['lang-fj', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-NA VEIVUKEI"]
 +++

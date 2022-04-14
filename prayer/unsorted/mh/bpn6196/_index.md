@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn6196 in Marshallese'
+title = "Prayer bpn6196 in Marshallese"
 author = "Abdu'l-Bahá"
 tags = ['lang-mh', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-AJRI IM JODRIKDRIK"]
 +++

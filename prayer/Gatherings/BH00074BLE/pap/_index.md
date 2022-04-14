@@ -1,5 +1,5 @@
 +++
-title = 'Blessed is the Spot in Papiamentu'
+title = "Blessed is the Spot in Papiamentu"
 author = "Bahá'u'lláh"
 tags = ['lang-pap', 'prayer-BH00074BLE', "author-Bahá'u'lláh", "category-Gatherings", "cat-Gatherings"]
 +++

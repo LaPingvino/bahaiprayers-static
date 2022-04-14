@@ -1,5 +1,5 @@
 +++
-title = 'Prayer ABU0129EDU in Papiamentu'
+title = "Prayer ABU0129EDU in Papiamentu"
 author = "Abdu'l-Bahá"
 tags = ['lang-pap', 'prayer-ABU0129EDU', "author-Abdu'l-Bahá", "category-Children", "cat-Children"]
 +++

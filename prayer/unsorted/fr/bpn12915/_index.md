@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn12915 in Français'
+title = "Prayer bpn12915 in Français"
 author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-26 Prières de ‘Abdu’l-Bahá Avril 2021"]
 +++

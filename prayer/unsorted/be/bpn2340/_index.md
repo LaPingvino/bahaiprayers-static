@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn2340 in Беларускі'
+title = "Prayer bpn2340 in Беларускі"
 author = "Báb"
 tags = ['lang-be', 'prayer-', "author-Báb", "category-unsorted", "cat-За бацькоў"]
 +++

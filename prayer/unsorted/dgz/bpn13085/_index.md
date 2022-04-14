@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn13085 in Daga'
+title = "Prayer bpn13085 in Daga"
 author = "Bahá'u'lláh"
 tags = ['lang-dgz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Nainit (Wedding Vow)"]
 +++

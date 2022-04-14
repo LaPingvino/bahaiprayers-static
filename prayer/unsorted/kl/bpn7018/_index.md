@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn7018 in Kalaallisut'
+title = "Prayer bpn7018 in Kalaallisut"
 author = "Bahá'u'lláh"
 tags = ['lang-kl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Anersaakkut ineriartorneq"]
 +++

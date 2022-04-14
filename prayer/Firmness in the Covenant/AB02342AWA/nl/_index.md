@@ -1,5 +1,5 @@
 +++
-title = 'Prayer AB02342AWA in Nederlands'
+title = "Prayer AB02342AWA in Nederlands"
 author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'prayer-AB02342AWA', "author-Abdu'l-Bahá", "category-Firmness in the Covenant", "cat-Standvastigheid in het Verbond"]
 +++

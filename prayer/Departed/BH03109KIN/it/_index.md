@@ -1,5 +1,5 @@
 +++
-title = 'Prayer BH03109KIN in Italiano'
+title = "Prayer BH03109KIN in Italiano"
 author = "Bahá'u'lláh"
 tags = ['lang-it', 'prayer-BH03109KIN', "author-Bahá'u'lláh", "category-Departed", "cat-Defunti"]
 +++

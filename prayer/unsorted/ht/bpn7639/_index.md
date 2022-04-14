@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn7639 in Kreyol Ayisyen'
+title = "Prayer bpn7639 in Kreyol Ayisyen"
 author = "Bahá'u'lláh"
 tags = ['lang-ht', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Detache ou ak Lavi a"]
 +++

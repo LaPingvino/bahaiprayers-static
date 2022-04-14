@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn11415 in தமிழ்'
+title = "Prayer bpn11415 in தமிழ்"
 author = "Abdu'l-Bahá"
 tags = ['lang-ta', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-தெய்வீக திட்டத்தின் நிருபங்கள் எனும் நூலிலிருந்து எடுக்கப்பட்ட போதனைக்குரிய"]
 +++

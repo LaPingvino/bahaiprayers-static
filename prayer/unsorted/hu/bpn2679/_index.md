@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn2679 in Magyar'
+title = "Prayer bpn2679 in Magyar"
 author = "Bahá'u'lláh"
 tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lelki növekedés"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer BH08600TES in English'
+title = "Prayer BH08600TES in English"
 author = "Bahá'u'lláh"
 tags = ['lang-en', 'prayer-BH08600TES', "author-Bahá'u'lláh", "category-Tests and Difficulties", "cat-Tests and Difficulties"]
 +++

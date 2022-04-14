@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn12865 in Malagasy'
+title = "Prayer bpn12865 in Malagasy"
 author = "Bahá'u'lláh"
 tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-VAVAKA HOAN’NY VALANARETINA"]
 +++

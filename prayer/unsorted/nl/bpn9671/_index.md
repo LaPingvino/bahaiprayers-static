@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn9671 in Nederlands'
+title = "Prayer bpn9671 in Nederlands"
 author = "Abdu'l-Bahá"
 tags = ['lang-nl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Onderricht, uit de Tafelen van het Goddelijk Plan"]
 +++

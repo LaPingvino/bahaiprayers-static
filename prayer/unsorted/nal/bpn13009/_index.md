@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn13009 in Nalik'
+title = "Prayer bpn13009 in Nalik"
 author = "Bahá'u'lláh"
 tags = ['lang-nal', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-A Vaaroving i la waanas (Short obligatory prayer)"]
 +++

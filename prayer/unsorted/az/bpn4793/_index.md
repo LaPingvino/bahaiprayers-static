@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn4793 in Azərbaycan'
+title = "Prayer bpn4793 in Azərbaycan"
 author = "Báb"
 tags = ['lang-az', 'prayer-', "author-Báb", "category-unsorted", "cat-Ruhani inkişaf üçün dualar"]
 +++

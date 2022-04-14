@@ -1,5 +1,5 @@
 +++
-title = 'Midnight Prayer in Esperanto'
+title = "Midnight Prayer in Esperanto"
 author = "Abdu'l-Bahá"
 tags = ['lang-eo', 'prayer-AB06528MID', "author-Abdu'l-Bahá", "category-Evening", "cat-Vespero"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Medium Obligatory Prayer in Esperanto'
+title = "Medium Obligatory Prayer in Esperanto"
 author = "Bahá'u'lláh"
 tags = ['lang-eo', 'prayer-BH03447', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-La Mezlonga Deviga Preĝo"]
 +++

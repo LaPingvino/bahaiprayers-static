@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn8196 in Lietuvių'
+title = "Prayer bpn8196 in Lietuvių"
 author = "Bahá'u'lláh"
 tags = ['lang-lt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gydymas"]
 +++

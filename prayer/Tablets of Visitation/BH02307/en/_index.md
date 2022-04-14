@@ -1,5 +1,5 @@
 +++
-title = 'Tablet of Visitation Bahá'u'lláh and Báb in English'
+title = "Tablet of Visitation Bahá'u'lláh and Báb in English"
 author = "Bahá'u'lláh"
 tags = ['lang-en', 'prayer-BH02307', "author-Bahá'u'lláh", "category-Tablets of Visitation", "cat-Tablets of Visitation"]
 +++

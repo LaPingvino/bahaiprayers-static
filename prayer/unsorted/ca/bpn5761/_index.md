@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn5761 in Català'
+title = "Prayer bpn5761 in Català"
 author = "Bahá'u'lláh"
 tags = ['lang-ca', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Taules de Visitació Bahá’u’lláh i el Báb"]
 +++

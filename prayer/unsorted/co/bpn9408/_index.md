@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn9408 in Corsica'
+title = "Prayer bpn9408 in Corsica"
 author = "Bahá'u'lláh"
 tags = ['lang-co', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Preghera dì tutti i ghjorni"]
 +++

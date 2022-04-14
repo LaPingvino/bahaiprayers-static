@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn11921 in Türkmençe'
+title = "Prayer bpn11921 in Türkmençe"
 author = "Abdu'l-Bahá"
 tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Alkyş We Şükür Etmek"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn5195 in Bahasa Indonesia'
+title = "Prayer bpn5195 in Bahasa Indonesia"
 author = "Abdu'l-Bahá"
 tags = ['lang-id', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Selamatan Sembilan Belas Harian"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn5405 in American Indian'
+title = "Prayer bpn5405 in American Indian"
 author = "Abdu'l-Bahá"
 tags = ['lang-nai-US', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Chippewa"]
 +++

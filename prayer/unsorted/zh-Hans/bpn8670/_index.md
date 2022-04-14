@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn8670 in 简体中文'
+title = "Prayer bpn8670 in 简体中文"
 author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hans', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-朝圣书简"]
 +++

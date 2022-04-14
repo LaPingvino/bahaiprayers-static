@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn8430 in বাংলা'
+title = "Prayer bpn8430 in বাংলা"
 author = "Bahá'u'lláh"
 tags = ['lang-bn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ন্যায় বিচার সম্পর্কে প্রার্থনা"]
 +++

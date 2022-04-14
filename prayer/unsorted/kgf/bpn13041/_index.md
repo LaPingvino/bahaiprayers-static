@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn13041 in Kube'
+title = "Prayer bpn13041 in Kube"
 author = "Bahá'u'lláh"
 tags = ['lang-kgf', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Humuc Zêzêtec Ac Mosoc"]
 +++

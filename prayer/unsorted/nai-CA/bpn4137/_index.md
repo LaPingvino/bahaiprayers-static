@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn4137 in Canadian Indigenous'
+title = "Prayer bpn4137 in Canadian Indigenous"
 author = "Abdu'l-Bahá"
 tags = ['lang-nai-CA', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Sm’algyax"]
 +++

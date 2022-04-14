@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn676 in Deutsch'
+title = "Prayer bpn676 in Deutsch"
 author = "Bahá'u'lláh"
 tags = ['lang-de', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gebet der Begegnung - Munájátu'l-Liqá"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn5831 in Català'
+title = "Prayer bpn5831 in Català"
 author = "Abdu'l-Bahá"
 tags = ['lang-ca', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ensenyança"]
 +++

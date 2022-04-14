@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn5265 in Bosanski'
+title = "Prayer bpn5265 in Bosanski"
 author = "Abdu'l-Bahá"
 tags = ['lang-bs', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Muževi"]
 +++

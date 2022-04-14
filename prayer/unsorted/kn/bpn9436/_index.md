@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn9436 in ಕನ್ನಡ'
+title = "Prayer bpn9436 in ಕನ್ನಡ"
 author = "Báb"
 tags = ['lang-kn', 'prayer-', "author-Báb", "category-unsorted", "cat-ನಿರ್ಲಿಪ್ತತೆಗಾಗಿ"]
 +++

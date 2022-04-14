@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn10815 in Chichewa'
+title = "Prayer bpn10815 in Chichewa"
 author = "Abdu'l-Bahá"
 tags = ['lang-ny', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-BUNGWE LA UZIMU"]
 +++

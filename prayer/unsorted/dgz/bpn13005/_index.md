@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn13005 in Daga'
+title = "Prayer bpn13005 in Daga"
 author = "Abdu'l-Bahá"
 tags = ['lang-dgz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ewat Virip Tapen U’uraewa (The Fast)"]
 +++

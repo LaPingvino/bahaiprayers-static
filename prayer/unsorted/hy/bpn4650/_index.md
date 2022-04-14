@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn4650 in հայերեն'
+title = "Prayer bpn4650 in հայերեն"
 author = "Abdu'l-Bahá"
 tags = ['lang-hy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ԿԱՅՈՒՆՈՒԹՅՈՒՆ ԿՏԱԿՈՒՄ"]
 +++

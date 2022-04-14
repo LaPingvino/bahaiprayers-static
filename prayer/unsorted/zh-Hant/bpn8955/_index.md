@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn8955 in 繁體中文'
+title = "Prayer bpn8955 in 繁體中文"
 author = "Abdu'l-Bahá"
 tags = ['lang-zh-Hant', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-為殉道者及其親屬祈禱"]
 +++

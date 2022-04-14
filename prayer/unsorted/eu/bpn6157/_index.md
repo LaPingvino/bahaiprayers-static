@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn6157 in Euskara'
+title = "Prayer bpn6157 in Euskara"
 author = "Abdu'l-Bahá"
 tags = ['lang-eu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Hilen aldeko"]
 +++

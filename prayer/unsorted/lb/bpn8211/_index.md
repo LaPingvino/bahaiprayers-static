@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn8211 in Lëtzebuergesch'
+title = "Prayer bpn8211 in Lëtzebuergesch"
 author = "Bahá'u'lláh"
 tags = ['lang-lb', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Eenheet"]
 +++

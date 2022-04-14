@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn5069 in Tiếng Việt'
+title = "Prayer bpn5069 in Tiếng Việt"
 author = "Bahá'u'lláh"
 tags = ['lang-vi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Trai Giới"]
 +++

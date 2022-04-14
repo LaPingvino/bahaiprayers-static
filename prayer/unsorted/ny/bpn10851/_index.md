@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn10851 in Chichewa'
+title = "Prayer bpn10851 in Chichewa"
 author = "Báb"
 tags = ['lang-ny', 'prayer-', "author-Báb", "category-unsorted", "cat-WOCHOTSA MASAUTSO"]
 +++

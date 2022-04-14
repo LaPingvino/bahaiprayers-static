@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn9095 in Alaska Native'
+title = "Prayer bpn9095 in Alaska Native"
 author = "Bahá'u'lláh"
 tags = ['lang-ik', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Iñupiaq - North Slope Dialect"]
 +++

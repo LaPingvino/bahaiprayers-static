@@ -1,5 +1,5 @@
 +++
-title = 'Blessed is the Spot in Français'
+title = "Blessed is the Spot in Français"
 author = "Bahá'u'lláh"
 tags = ['lang-fr', 'prayer-BH00074BLE', "author-Bahá'u'lláh", "category-Gatherings", "cat-Familles"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer AB02342AWA in Esperanto'
+title = "Prayer AB02342AWA in Esperanto"
 author = "Abdu'l-Bahá"
 tags = ['lang-eo', 'prayer-AB02342AWA', "author-Abdu'l-Bahá", "category-Firmness in the Covenant", "cat-Firmeco en la Interligo"]
 +++

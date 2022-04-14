@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn10250 in Māori'
+title = "Prayer bpn10250 in Māori"
 author = "Báb"
 tags = ['lang-mi', 'prayer-', "author-Báb", "category-unsorted", "cat-MŌ TE WHAKAPĀTARITARI ME TE RARURARU"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Long Obligatory Prayer in Nederlands'
+title = "Long Obligatory Prayer in Nederlands"
 author = "Bahá'u'lláh"
 tags = ['lang-nl', 'prayer-BH00987', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-Het lange Verplichte Gebed"]
 +++

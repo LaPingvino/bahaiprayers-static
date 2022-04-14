@@ -1,5 +1,5 @@
 +++
-title = 'Tablet of the Holy Mariner in Nederlands'
+title = "Tablet of the Holy Mariner in Nederlands"
 author = "Bahá'u'lláh"
 tags = ['lang-nl', 'prayer-AB00204MAR', "author-Bahá'u'lláh", "category-Common Tablets", "cat-Tafel van de Heilige Zeevaarder"]
 +++

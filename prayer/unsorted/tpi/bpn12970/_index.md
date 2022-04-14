@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn12970 in Tok Pisin'
+title = "Prayer bpn12970 in Tok Pisin"
 author = "Abdu'l-Bahá"
 tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-FUND"]
 +++

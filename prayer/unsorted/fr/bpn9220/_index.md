@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn9220 in Français'
+title = "Prayer bpn9220 in Français"
 author = "Abdu'l-Bahá"
 tags = ['lang-fr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Prières pour les morts"]
 +++

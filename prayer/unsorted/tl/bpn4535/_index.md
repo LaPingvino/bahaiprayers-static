@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn4535 in Filipino'
+title = "Prayer bpn4535 in Filipino"
 author = "Abdu'l-Bahá"
 tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ang Tableta Ng Pagdalaw"]
 +++

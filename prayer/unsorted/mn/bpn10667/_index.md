@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn10667 in Монгол хэл'
+title = "Prayer bpn10667 in Монгол хэл"
 author = "Báb"
 tags = ['lang-mn', 'prayer-', "author-Báb", "category-unsorted", "cat-СОРИЛТ БЭРХШЭЭЛ"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn12993 in Kuanua'
+title = "Prayer bpn12993 in Kuanua"
 author = "Abdu'l-Bahá"
 tags = ['lang-ksd', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-A NIARING URE RA VINIVEL"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Prayer AB07709CON in Español'
+title = "Prayer AB07709CON in Español"
 author = "Abdu'l-Bahá"
 tags = ['lang-es', 'prayer-AB07709CON', "author-Abdu'l-Bahá", "category-Spiritual Growth", "cat-Cualidades espirituales"]
 +++

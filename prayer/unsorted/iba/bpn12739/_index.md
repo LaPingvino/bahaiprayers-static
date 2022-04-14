@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn12739 in Iban'
+title = "Prayer bpn12739 in Iban"
 author = "Bahá'u'lláh"
 tags = ['lang-iba', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Papan Tulis Pengabas Bahá’u’lláh enggau Báb"]
 +++

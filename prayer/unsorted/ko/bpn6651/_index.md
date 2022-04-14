@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn6651 in 한국어'
+title = "Prayer bpn6651 in 한국어"
 author = "Abdu'l-Bahá"
 tags = ['lang-ko', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-확고한 믿음"]
 +++

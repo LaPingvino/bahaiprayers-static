@@ -1,5 +1,5 @@
 +++
-title = 'Prayer bpn4091 in Кыргыз'
+title = "Prayer bpn4091 in Кыргыз"
 author = "Abdu'l-Bahá"
 tags = ['lang-ky', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ыйык жайнада окулуучу касиеттүү жазмалар (Скрижалдар)"]
 +++

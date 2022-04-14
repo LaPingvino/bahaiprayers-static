@@ -1,5 +1,5 @@
 +++
-title = 'Prayer for the Dead in Nederlands'
+title = "Prayer for the Dead in Nederlands"
 author = "Bahá'u'lláh"
 tags = ['lang-nl', 'prayer-BH09085', "author-Bahá'u'lláh", "category-Departed", "cat-Gebed voor de doden"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Blessed is the Spot in Føroyar'
+title = "Blessed is the Spot in Føroyar"
 author = "Bahá'u'lláh"
 tags = ['lang-fo', 'prayer-BH00074BLE', "author-Bahá'u'lláh", "category-Gatherings", "cat-Lýdni"]
 +++
