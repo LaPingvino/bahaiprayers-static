@@ -33,7 +33,7 @@ type Author int
 var TMPLOUTPUT = template.Must(template.New("markdown").Parse(`+++
 title = '{{.Title}}'
 author = "{{.Author}}"
-tags = ['lang-{{.LanguageCode}}', '{{.PrayerCodeTag}}', "{{.Author}}", "{{.ENCategory}}"]
+tags = ['lang-{{.LanguageCode}}', 'prayer-{{.PrayerCodeTag}}', "author-{{.Author}}", "category-{{.ENCategory}}", "cat-{{.Category}}"]
 +++
 {{.Text}}
 
@@ -308,6 +308,8 @@ func main() {
 			prayer.LanguageId = v
 			prayer.LanguageCode = lang
 			prayer.LanguageName = name
+			prayer.PrayerCode = PrayerCode(prayer.Id, true)
+			prayer.PrayerCodeTag = PrayerCode(prayer.Id, false)
 			prayer.ENCategory = CategoryByPrayer(PrayerCode(prayer.Id, true))
 			SavePrayer(prayer, ShowBPN, CategoryPathElement, PrayerCodePathElement, LanguagePathElement, BPNPathElement)
 		}
