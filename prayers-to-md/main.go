@@ -33,9 +33,12 @@ type Author int
 var TMPLOUTPUT = template.Must(template.New("markdown").Parse(`+++
 title = '{{.Title}}'
 author = "{{.Author}}"
-tags = ['lang-{{.LanguageCode}}', '{{.PrayerCodeTag}}', "{{.Author}}"]
+tags = ['lang-{{.LanguageCode}}', '{{.PrayerCodeTag}}', "{{.Author}}", "{{.ENCategory}}"]
 +++
 {{.Text}}
+
+(Source category: {{.Category}})
+(Bahaiprayers.net ID: {{.Id}})
 `))
 
 func (a Author) String() string {
@@ -48,7 +51,9 @@ func (a Author) String() string {
 type Prayer struct {
 	Id            int
 	Title         string
+	ENCategory    string
 	LanguageCode  string
+	LanguageName  string
 	PrayerCode    string
 	PrayerCodeTag string
 	Author        Author `json:"AuthorId"`
@@ -119,7 +124,7 @@ func Language(lang int) (code string, name string, rtl string) {
 	return
 }
 
-func PrayerCode(prayer int) (code string) {
+func PrayerCode(prayer int, showbpn bool) (code string) {
 	PCOnce.Do(func() {
 		f, err := os.Open("rel/code.list")
 		if err != nil {
@@ -141,14 +146,148 @@ func PrayerCode(prayer int) (code string) {
 			}
 		}
 	})
-	code = "bpn" + strconv.Itoa(prayer)
 	if PC[prayer] != "" {
 		code = PC[prayer]
+	} else if showbpn {
+		code = "bpn" + strconv.Itoa(prayer)
+	} else {
+		code = ""
 	}
 	return
 }
 
 var dirbase = "prayer/"
+
+type PathElement int
+
+const (
+	LanguagePathElement PathElement = iota
+	CategoryPathElement
+	NamePathElement
+	PrayerCodePathElement
+	AuthorPathElement
+	ShowBPN
+	BPNPathElement
+)
+
+func CategoryByPrayer(prayerCode string) string {
+	// Read the category from the category.list file
+	// Each first field is the category, everything that follows is prayer codes
+	f, err := os.Open("rel/category.list")
+	if err != nil {
+		panic(err.Error())
+	}
+	c := csv.NewReader(f)
+	c.FieldsPerRecord = -1
+	cs, err := c.ReadAll()
+	if err != nil {
+		panic(err.Error())
+	}
+	for _, c := range cs {
+		for _, p := range c[1:] {
+			if p == prayerCode {
+				return c[0]
+			}
+		}
+	}
+	return "unsorted"
+}
+
+func PrayerName(prayerCode string) string {
+	// Read the name from the name.list file
+	// Each first field is the prayer code, everything that follows is the name
+	f, err := os.Open("rel/name.list")
+	if err != nil {
+		panic(err.Error())
+	}
+	c := csv.NewReader(f)
+	c.FieldsPerRecord = -1
+	cs, err := c.ReadAll()
+	if err != nil {
+		panic(err.Error())
+	}
+	for _, c := range cs {
+		if c[0] == prayerCode {
+			return c[1]
+		}
+	}
+	return "Prayer " + prayerCode
+}
+
+func SavePrayer(prayer Prayer, path ...PathElement) {
+	var dir string
+	var showBPN bool
+	dir = dirbase
+	// Iterate over the path elements and create the directory structure
+	// For every but the last element, if there is no _index.md file, create it
+	// and fill it with front matter
+	for i, p := range path {
+		var title string
+		switch p {
+		case LanguagePathElement:
+			code, name, _ := Language(prayer.LanguageId)
+			dir += code + "/"
+			title = name
+		case CategoryPathElement:
+			dir += CategoryByPrayer(PrayerCode(prayer.Id, showBPN)) + "/"
+			title = CategoryByPrayer(PrayerCode(prayer.Id, showBPN))
+		case NamePathElement:
+			dir += prayer.Title + "/"
+			title = prayer.Title
+		case PrayerCodePathElement:
+			prayerCode := PrayerCode(prayer.Id, false)
+			if prayerCode != "" {
+				dir += prayerCode + "/"
+				title = prayerCode
+			} else {
+				continue
+			}
+		case AuthorPathElement:
+			dir += strconv.Itoa(int(prayer.Author)) + "/"
+			title = prayer.Author.String()
+		case ShowBPN:
+			showBPN = true
+			continue
+		case BPNPathElement:
+			if showBPN && PrayerCode(prayer.Id, false) == "" {
+				dir += PrayerCode(prayer.Id, true) + "/"
+				title = PrayerCode(prayer.Id, true)
+			} else {
+				continue
+			}
+		}
+		if i < len(path)-1 {
+			if _, err := os.Stat(dir); os.IsNotExist(err) {
+				os.MkdirAll(dir, 0755)
+				f, err := os.Create(dir + "_index.md")
+				if err != nil {
+					panic(err.Error())
+				}
+				f.WriteString(fmt.Sprintf(`---
+title = "%s"
+---
+`, title))
+				f.Close()
+			}
+		}
+	}
+	// Check if the file is a bpn prayer and if showBPN is true
+	if !showBPN && PrayerCode(prayer.Id, showBPN) == "" {
+		return
+	}
+	// Create the path
+	os.MkdirAll(dir, 0755)
+	// Create the file and fill it with the prayer text
+	f, err := os.Create(dir + "_index.md")
+	if err != nil {
+		panic(err.Error())
+	}
+	if err = TMPLOUTPUT.Execute(f, prayer); err != nil {
+		panic(err)
+	}
+	f.Close()
+
+}
 
 func main() {
 	type Prayerfile struct {
@@ -164,53 +303,13 @@ func main() {
 		}
 		log.Printf("%#v", prayers)
 		for _, prayer := range prayers.Prayers {
-			log.Printf("Prayer %d", prayer.Id)
-			var lname, rtl string
-			prayer.LanguageCode, lname, rtl = Language(v)
-			// Create the language directory if it doesn't exist
-			os.MkdirAll(dirbase+prayer.LanguageCode, os.ModePerm)
-			// Create language directory file
-			f, err := os.Create(dirbase + prayer.LanguageCode + "/_index.md")
-			if err != nil {
-				panic(err)
-			}
-			// Write language header file
-			fmt.Fprintln(f, `---
-title: "`+lname+`"
-rtl: "`+rtl+`"
----`)
-			f.Close()
-			catid := strconv.Itoa(prayer.Tags[0].Id)
-			// Create the category directory if it doesn't exist
-			os.MkdirAll(dirbase+prayer.LanguageCode+"/"+catid, os.ModePerm)
-			// Create category directory file
-			f, err = os.Create(dirbase + prayer.LanguageCode + "/" + catid + "/_index.md")
-			if err != nil {
-				panic(err)
-			}
-			// Write category header file
-			fmt.Fprintln(f, `---
-title: "`+prayer.Category+`"
----`)
-			f.Close()
-			// Create prayer file
-			prayer.PrayerCode = PrayerCode(prayer.Id)
-			prayer.PrayerCodeTag = prayer.PrayerCode
-			if (prayer.PrayerCodeTag + "   ")[0:3] == "bpn" {
-				prayer.PrayerCodeTag = "bpn-unsorted"
-			}
-			prayer.Title = "Prayer " + prayer.PrayerCode + " in " + lname
-			dir := dirbase + prayer.LanguageCode + "/" + catid + "/" + prayer.PrayerCode
-
-			os.Mkdir(dir, os.ModePerm)
-			f, err = os.Create(dir + "/_index.md")
-			if err != nil {
-				panic(err)
-			}
-			if err = TMPLOUTPUT.Execute(f, prayer); err != nil {
-				panic(err)
-			}
-			f.Close()
+			lang, name, _ := Language(v)
+			prayer.Title = PrayerName(PrayerCode(prayer.Id, true)) + " in " + name
+			prayer.LanguageId = v
+			prayer.LanguageCode = lang
+			prayer.LanguageName = name
+			prayer.ENCategory = CategoryByPrayer(PrayerCode(prayer.Id, true))
+			SavePrayer(prayer, ShowBPN, CategoryPathElement, PrayerCodePathElement, LanguagePathElement, BPNPathElement)
 		}
 	}
 }
