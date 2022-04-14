@@ -1,3 +1,0 @@
----
-title: "Tableta Marinarului Sfânt"
----

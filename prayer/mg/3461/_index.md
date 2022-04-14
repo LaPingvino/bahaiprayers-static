@@ -1,3 +1,0 @@
----
-title: "TAKELAK’I AHMAD"
----

@@ -1,3 +1,0 @@
----
-title: "Hvaljenje i Zahvalnost"
----

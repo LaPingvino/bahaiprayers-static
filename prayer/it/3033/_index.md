@@ -1,3 +1,0 @@
----
-title: "Giordo di Dio"
----

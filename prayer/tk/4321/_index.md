@@ -1,3 +1,0 @@
----
-title: "Jynaza Namazy"
----

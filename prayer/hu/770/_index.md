@@ -1,3 +1,0 @@
----
-title: "Tizenkilenc napi ünnep"
----

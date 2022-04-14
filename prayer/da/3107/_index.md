@@ -1,3 +1,0 @@
----
-title: "Kort Obligatorisk Bøn"
----

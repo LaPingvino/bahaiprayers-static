@@ -1,3 +1,0 @@
----
-title: "Tabela e Ahmadit"
----

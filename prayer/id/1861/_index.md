@@ -1,3 +1,0 @@
----
-title: "Pujian Dan Syukur"
----

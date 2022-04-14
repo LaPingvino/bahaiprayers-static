@@ -1,3 +1,0 @@
----
-title: "Kaanian te Atua"
----

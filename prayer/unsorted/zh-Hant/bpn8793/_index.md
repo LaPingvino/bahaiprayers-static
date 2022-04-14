@@ -1,0 +1,10 @@
++++
+title = 'Prayer bpn8793 in 繁體中文'
+author = "Abdu'l-Bahá"
+tags = ['lang-zh-Hant', '', "Abdu'l-Bahá", "unsorted"]
++++
+仁慈的主啊！這些可愛的兒童是祢大能手指的作品，是祢偉大奇妙的表徵。上帝啊！保護這些兒童，惠助他們接受教育啟蒙，賦予他們服務全人類的本領。上帝啊！這些孩子都是珍珠，將他們養育在祢慈愛的貝殼裡。
+祢是慷慨者，博愛者。
+
+(Source category: 兒童與青年)
+(Bahaiprayers.net ID: 8793)

@@ -1,3 +1,0 @@
----
-title: "Kesulitan Dalam Agama"
----

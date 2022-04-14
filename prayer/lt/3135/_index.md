@@ -1,3 +1,0 @@
----
-title: "Išbandymai ir sunkumai"
----

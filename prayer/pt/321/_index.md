@@ -1,3 +1,0 @@
----
-title: "Assembleia Espiritual"
----

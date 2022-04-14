@@ -1,3 +1,0 @@
----
-title: "Agradecimiento y alabanza"
----

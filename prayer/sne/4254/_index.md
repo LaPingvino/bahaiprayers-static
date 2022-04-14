@@ -1,3 +1,0 @@
----
-title: "Pibatue Duoh Pinulung"
----

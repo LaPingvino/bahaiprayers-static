@@ -1,4 +1,0 @@
----
-title: "Türkmençe"
-rtl: ""
----

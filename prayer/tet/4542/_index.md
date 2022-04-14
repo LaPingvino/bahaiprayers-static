@@ -1,3 +1,0 @@
----
-title: "Orasaun Obrigatóriu"
----

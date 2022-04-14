@@ -1,3 +1,0 @@
----
-title: "Tla'amin Nation"
----

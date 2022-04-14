@@ -1,3 +1,0 @@
----
-title: "WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK"
----

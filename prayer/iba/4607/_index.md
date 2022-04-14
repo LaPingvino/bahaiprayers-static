@@ -1,3 +1,0 @@
----
-title: "Penuchi enggau Pemeresi"
----

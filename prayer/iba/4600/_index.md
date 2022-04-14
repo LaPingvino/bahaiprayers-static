@@ -1,3 +1,0 @@
----
-title: "Papan Tulis Api"
----

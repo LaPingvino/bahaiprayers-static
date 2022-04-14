@@ -1,3 +1,0 @@
----
-title: "Dni Międzykalendarzowe"
----

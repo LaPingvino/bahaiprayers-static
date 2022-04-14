@@ -1,3 +1,0 @@
----
-title: "M’BANDAKUCHA"
----

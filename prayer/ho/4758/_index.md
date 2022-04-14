@@ -1,3 +1,0 @@
----
-title: "DIRAVA ENA HEDURU GURIGURI"
----

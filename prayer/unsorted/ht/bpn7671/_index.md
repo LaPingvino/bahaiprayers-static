@@ -1,0 +1,10 @@
++++
+title = 'Prayer bpn7671 in Kreyol Ayisyen'
+author = "Bahá'u'lláh"
+tags = ['lang-ht', '', "Bahá'u'lláh", "unsorted"]
++++
+Se Ou menm, O Bondye mwen, Li menm Ki sèvi ak non Li yo pou geri malad yo ak retabli sila yo ki nan move sante, non ki fè yo menm ki swaf bwè e ki kalme yo menm ki byen ajite, ki gide moun ki pèdi yo, ki leve yo menm ki byen ba, ki anrichi pòv yo, ki edike inyoran yo, ki klere yo menm ki nan fènwa, ki pote lajwa pou moun ki nan tristès, ki rechofe sila a yo ki fwèt, ki leve moun sa yo ki oprese. O Bondye mwen, avèk non Ou, tout bagay ki te kreye te jwenn lavi, epi syèl la te fòme, lemonn te etabli, nyaj yo te monte epi yo te jwenn lòd pou voye lapli sou latè. An verite, sa a se youn nan siyn gras Ou genyen pou tout kreyati Ou yo.
+Poutèt sa, mwen sipliye Ou, avèk non Ou te sèvi pou devwale Divinite Ou, e pou egzalte Koz Ou a pi wo pase tout kreyasyon an, e poutèt chak nan pi bon tit Ou yo ak pi wo fòs Ou yo, ansanm ak tout bèl kalite kreyati Ou yo konn sèvi pou louwe Lespri egzalte Ou a ki depase tout bagay, mwen sipliye Ou pou voye desann lapli gerizon Ou nan nwit sa a soti nan nyaj mizèrikòd Ou yo sou ti bebe sa a - se yon bebe Ou te mare avèk Lespri tout-gloriye Ou nan wayòm kreyasyon Ou an. Poutèt sa, O Bondye mwen, avèk gras Ou, abiye li avèk wòb byenèt ak sante, epi pwoteje li, O Byeneme mwen, kont tout maladi ak soufrans, e kont tout sa Ou rayi. An verite, pisans Ou egal ak tout bagay. Vrèman, se Ou menm Ki Gen Plis Pouvwa, Sila a Ki Egziste pou kont Li. Voye desann sou li, O Bondye mwen, sa ki bon nan mond sa a ak nan lòt mond la tou, ak sa ki bon nan sa Ou te voye desann sou ansyen jenerasyon yo ak sou jenerasyon sa a. An verite, pisans Ou ak sajès Ou gen pouvwa pou fè sa.
+
+(Source category: Gerison Bebe)
+(Bahaiprayers.net ID: 7671)

@@ -1,3 +1,0 @@
----
-title: "Firmeza e Constância"
----

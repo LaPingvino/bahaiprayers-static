@@ -1,3 +1,0 @@
----
-title: "Tablica Świętego Żeglarza"
----

@@ -1,3 +1,0 @@
----
-title: "Tabureti ibukin Karamera"
----

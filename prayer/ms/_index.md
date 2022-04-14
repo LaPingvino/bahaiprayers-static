@@ -1,4 +1,0 @@
----
-title: "Bahasa Melayu"
-rtl: ""
----

@@ -1,3 +1,0 @@
----
-title: "Louange et gratitude"
----

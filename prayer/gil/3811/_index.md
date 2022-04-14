@@ -1,3 +1,0 @@
----
-title: "Kataitai ao Kangaanga"
----

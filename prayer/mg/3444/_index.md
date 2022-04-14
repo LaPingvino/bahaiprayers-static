@@ -1,3 +1,0 @@
----
-title: "TOETRA ARA-PANAHY"
----

@@ -1,3 +1,0 @@
----
-title: "WANITA YANG SAKIT"
----

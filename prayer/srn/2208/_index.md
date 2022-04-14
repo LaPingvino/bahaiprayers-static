@@ -1,3 +1,0 @@
----
-title: "Korte Verplichte Gebed"
----

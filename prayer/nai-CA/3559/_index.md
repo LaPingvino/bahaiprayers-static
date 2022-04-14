@@ -1,3 +1,0 @@
----
-title: "Hul’qumi'num"
----

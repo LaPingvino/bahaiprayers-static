@@ -1,3 +1,0 @@
----
-title: "Laudă şi Mulţumire"
----

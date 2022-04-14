@@ -1,3 +1,0 @@
----
-title: "Poko le teboho"
----

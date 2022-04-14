@@ -1,3 +1,0 @@
----
-title: "Taburetin te Ai"
----

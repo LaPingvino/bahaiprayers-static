@@ -1,3 +1,0 @@
----
-title: "Bænir fyrir látnum"
----

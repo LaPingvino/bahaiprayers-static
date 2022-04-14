@@ -1,3 +1,0 @@
----
-title: "Middelbare verpligte gebed"
----

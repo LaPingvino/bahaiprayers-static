@@ -1,3 +1,0 @@
----
-title: "För de bortgångna"
----

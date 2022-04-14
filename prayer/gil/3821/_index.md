@@ -1,3 +1,0 @@
----
-title: "Toara ni Bong"
----

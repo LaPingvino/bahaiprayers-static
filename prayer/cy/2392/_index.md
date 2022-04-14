@@ -1,3 +1,0 @@
----
-title: "Long Obligatory Prayer"
----

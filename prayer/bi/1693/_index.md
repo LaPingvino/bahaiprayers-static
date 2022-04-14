@@ -1,3 +1,0 @@
----
-title: "TEKEMAOT  OL  TRABOL"
----

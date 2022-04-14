@@ -1,0 +1,10 @@
++++
+title = 'Prayer bpn9710 in Nederlands'
+author = "Báb"
+tags = ['lang-nl', '', "Báb", "unsorted"]
++++
+Ere zij U, o Heer, mijn Meestgeliefde! Maak mij standvastig in Uw Zaak en geef dat ik gerekend mag worden tot hen die Uw Verbond niet hebben geschonden, noch de goden van hun eigen ijdele verbeelding hebben gevolgd. Laat mij dan een zetel van waarheid verkrijgen in Uw tegenwoordigheid, verleen mij een teken van Uw erbarmen en laat mij aansluiten bij dezulken Uwer dienaren die geen vrees zullen kennen, noch door smart getroffen zullen worden. Laat mij niet aan mijzelf over, o mijn Heer, weerhoudt mij niet van het erkennen van Hem die de Manifestatie van Uw eigen Zelf is, en schaar mij niet onder hen die zich van Uw heilige tegenwoordigheid hebben afgewend. Reken mij, o mijn God, tot hen die het voorrecht hebben hun blik op Uw Schoonheid te vestigen en die daar zo verrukt van zijn dat zij geen enkel moment ervan zouden willen ruilen voor de heerschappij over het koninkrijk van hemelen en aarde of voor het gehele rijk der schepping. Ontferm U over mij, o Heer, in deze dagen waarin de volkeren van Uw aarde smartelijk dwalen; voorzie mij dan, o mijn God, van hetgeen naar Uw oordeel goed en betamelijk is. Gij zijt waarlijk de Almogende, de Genadige, de Milddadige, de Immervergevende.
+Vergun, o mijn God, dat ik niet gerekend worde tot hen wier oren doof zijn, wier ogen blind zijn, wier tong sprakeloos is en wier hart geen begrip kent. Verlos mij, o mijn Heer, van het vuur van onwetendheid en zelfzucht, vergun mij toegelaten te worden tot de voorhof van Uw alles te boven gaande genade en zend datgene tot mij neer wat Gij voor Uw uitverkorenen bestemd hebt. Machtig zijt Gij te doen hetgeen Gij wilt. Waarlijk, Gij zijt de Helper in nood, de Bij-zich-bestaande.
+
+(Source category: Standvastigheid)
+(Bahaiprayers.net ID: 9710)

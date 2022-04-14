@@ -1,3 +1,0 @@
----
-title: "Rebħ tal-Kawza"
----

@@ -1,3 +1,0 @@
----
-title: "Sprova e vështirësi"
----

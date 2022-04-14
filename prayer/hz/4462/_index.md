@@ -1,3 +1,0 @@
----
-title: "Rugciriku : LIKOLITO LYAPAMPEPO"
----

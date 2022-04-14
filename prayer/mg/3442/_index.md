@@ -1,3 +1,0 @@
----
-title: "FITSAPANA SY FAHASAHIRANANA"
----

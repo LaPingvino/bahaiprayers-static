@@ -1,3 +1,0 @@
----
-title: "MEDIUM OBLIGATORY PRAYER"
----

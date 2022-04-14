@@ -1,3 +1,0 @@
----
-title: "Kort verpligte gebed"
----

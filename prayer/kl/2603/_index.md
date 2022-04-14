@@ -1,3 +1,0 @@
----
-title: "Anersaakkut ineriartorneq"
----

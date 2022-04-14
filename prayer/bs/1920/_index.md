@@ -1,3 +1,0 @@
----
-title: "Postojanost u Zavjetu"
----

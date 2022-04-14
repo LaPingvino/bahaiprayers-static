@@ -1,3 +1,0 @@
----
-title: "WAMP TEPA TENTA MUNDI ATENGA"
----

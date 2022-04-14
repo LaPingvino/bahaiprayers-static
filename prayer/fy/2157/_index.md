@@ -1,3 +1,0 @@
----
-title: "It Koarte Ferplichte"
----

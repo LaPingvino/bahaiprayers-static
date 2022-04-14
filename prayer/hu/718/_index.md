@@ -1,3 +1,0 @@
----
-title: "Az elhunytakért"
----

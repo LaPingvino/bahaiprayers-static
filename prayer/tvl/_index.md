@@ -1,4 +1,0 @@
----
-title: "Tuvalu"
-rtl: ""
----

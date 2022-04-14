@@ -1,3 +1,0 @@
----
-title: "Infanoj kaj Junuloj"
----

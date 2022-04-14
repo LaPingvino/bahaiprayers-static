@@ -1,3 +1,0 @@
----
-title: "Garā obligātā lūgšana"
----

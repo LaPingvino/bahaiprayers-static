@@ -1,3 +1,0 @@
----
-title: "Lob und Dank"
----

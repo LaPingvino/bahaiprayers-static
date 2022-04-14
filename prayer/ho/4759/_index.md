@@ -1,3 +1,0 @@
----
-title: "MAOROMAORO KARA ENA GURIGURI"
----

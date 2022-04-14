@@ -1,0 +1,13 @@
++++
+title = 'Prayer bpn12053 in Bahasa Melayu'
+author = "Abdu'l-Bahá"
+tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
++++
+Ya Engkau Tuhan yang Penyayang! Dengan kemurahan hati kurniailah sepasang sayap syurgawi kepada setiap anak burung ini, dan berikanlah mereka kuasa rohani agar mereka dapat terbang melalui ruang yang tak terbatas ini dan mencapai puncak-puncak Kerajaan Abhá.
+
+Ya Tuhan! Perkuatkanlah pohon-pohon muda ini agar setiap daripada mereka akan menjadi sebatang pohon yang berbuah, segar menghijau dan berkembang. Berikan kemenangan kepada jiwa-jiwa ini melalui kuasa angkatan syurgawi-Mu, supaya mereka dapat menghapuskan kuasa-kuasa jahat dan kejahilan  dan mendirikan standard persahabatan dan bimbingan dalam kalangan manusia; agar mereka dapat, bagaikan nafas penghidupan musim bunga, menyegarkan dan menghidupkan pohon-pohon roh manusia dan umpama hujan musim bunga menjadikan padang rumput serantau itu hijau dan subur.
+
+Engkaulah yang Maha Kuat dan Berkuasa; Engkaulah Pemberi dan Yang Maha Penyayang.
+
+(Source category: BELIA)
+(Bahaiprayers.net ID: 12053)

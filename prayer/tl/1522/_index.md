@@ -1,3 +1,0 @@
----
-title: "Banal Na Kasunduan"
----

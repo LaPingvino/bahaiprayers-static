@@ -1,0 +1,11 @@
++++
+title = 'Prayer bpn7864 in Italiano'
+author = "Bahá'u'lláh"
+tags = ['lang-it', '', "Bahá'u'lláh", "unsorted"]
++++
+Glorificato sei Tu, o Signore mio Dio! T’imploro, per i Tuoi Eletti e i Latori del Tuo Pegno e per Colui Che designasti quale Suggello dei Tuoi Profeti e dei Tuoi Messaggeri, di fare che il Tuo ricordo sia il mio compagno, il Tuo amore il mio scopo, il Tuo volto la mia mèta, il Tuo nome la mia lampada, la Tua volontà il mio desiderio e il Tuo compiacimento la mia delizia.
+Sono un peccatore, o mio Signore e Tu sei Colui Che Sempre Perdona: appena Ti riconobbi, mi affrettai a raggiungere l’eccelsa corte della Tua amorosa benevolenza. Perdona, o mio Signore, i miei peccati che mi hanno impedito di percorrere le vie del Tuo compiacimento e di giungere ai lidi dell’oceano della Tua unicità. 
+Non v’è alcuno, o mio Signore, che possa trattarmi generosamente, a cui io possa volgere il viso, né alcuno che possa avere compassione di me e da cui io possa implorare misericordia. Non mi scacciare, T’imploro, dalla presenza della Tua grazia e non negarmi il fluire della Tua generosità e della Tua munificenza. Disponi per me, o mio Signore, ciò che disponesti per coloro che Ti amano e decreta per me ciò che decretasti per i Tuoi eletti. Il mio sguardo è stato sempre fisso sull’orizzonte della Tua benigna provvidenza e i miei occhi rivolti alla corte delle Tue tenere misericordie. Fa’ di me quel che a Te s’addice. Non v’è altro Dio che Te, il Dio del potere, il Dio della gloria, il Cui aiuto è implorato da tutti gli uomini.
+
+(Source category: Perdono)
+(Bahaiprayers.net ID: 7864)

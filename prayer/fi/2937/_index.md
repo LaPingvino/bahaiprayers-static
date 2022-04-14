@@ -1,3 +1,0 @@
----
-title: "Pyhän merenkulkijan muistio"
----

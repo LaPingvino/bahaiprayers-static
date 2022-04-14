@@ -1,3 +1,0 @@
----
-title: "ASO MALOLO FAOPOOPO"
----

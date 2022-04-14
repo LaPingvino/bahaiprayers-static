@@ -1,3 +1,0 @@
----
-title: "Ene-Atalar"
----

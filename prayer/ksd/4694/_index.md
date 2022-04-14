@@ -1,3 +1,0 @@
----
-title: "A PAKANA NIARING AI RA UMANA VARTULANG"
----

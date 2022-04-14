@@ -1,3 +1,0 @@
----
-title: "Papuri At Pasasalamat"
----

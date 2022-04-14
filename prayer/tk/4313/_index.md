@@ -1,3 +1,0 @@
----
-title: "Ylahy Sözleri Ýetirmek"
----

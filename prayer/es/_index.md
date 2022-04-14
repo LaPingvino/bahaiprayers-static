@@ -1,4 +1,0 @@
----
-title: "Español"
-rtl: ""
----

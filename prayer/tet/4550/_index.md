@@ -1,3 +1,0 @@
----
-title: "Isin-Di’ak"
----

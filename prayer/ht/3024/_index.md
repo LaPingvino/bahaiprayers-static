@@ -1,3 +1,0 @@
----
-title: "Viktwa Fwa a"
----

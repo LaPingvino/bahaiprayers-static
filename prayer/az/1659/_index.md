@@ -1,3 +1,0 @@
----
-title: "İlahi təyid duaları"
----

@@ -1,3 +1,0 @@
----
-title: "Merhumlar Üçin Dogalar"
----

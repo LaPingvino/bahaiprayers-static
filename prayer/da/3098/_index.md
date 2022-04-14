@@ -1,3 +1,0 @@
----
-title: "Prøvelser Og Vanskeligheder"
----

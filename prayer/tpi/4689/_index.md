@@ -1,3 +1,0 @@
----
-title: "TABLET OF VISITATION"
----

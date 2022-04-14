@@ -1,3 +1,0 @@
----
-title: "Pevnosť v Zmluve"
----

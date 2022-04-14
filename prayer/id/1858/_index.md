@@ -1,3 +1,0 @@
----
-title: "Pertolongan Dalam Kesukaran"
----

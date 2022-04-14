@@ -1,3 +1,0 @@
----
-title: "Skúšky a ťažkosti"
----

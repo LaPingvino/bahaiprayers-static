@@ -1,3 +1,0 @@
----
-title: "Korkeimmalle pyhälle lehvälle"
----

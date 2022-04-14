@@ -1,3 +1,0 @@
----
-title: "Calităţi Spirituale"
----

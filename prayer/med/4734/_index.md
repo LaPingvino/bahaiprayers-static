@@ -1,3 +1,0 @@
----
-title: "MUKULMÄ WINTNGA ATENGA"
----

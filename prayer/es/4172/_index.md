@@ -1,3 +1,0 @@
----
-title: "Oración obligatoria larga"
----

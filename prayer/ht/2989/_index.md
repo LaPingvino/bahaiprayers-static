@@ -1,3 +1,0 @@
----
-title: "Kalite Espirityèl"
----

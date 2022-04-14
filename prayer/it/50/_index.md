@@ -1,3 +1,0 @@
----
-title: "Tavole della Visitazione"
----

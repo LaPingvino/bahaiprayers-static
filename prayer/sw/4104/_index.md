@@ -1,3 +1,0 @@
----
-title: "BARAZA LA KIROHO"
----

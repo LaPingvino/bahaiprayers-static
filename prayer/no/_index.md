@@ -1,4 +1,0 @@
----
-title: "Norsk"
-rtl: ""
----

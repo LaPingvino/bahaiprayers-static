@@ -1,3 +1,0 @@
----
-title: "Azərbaycan Haqqında Dualar"
----

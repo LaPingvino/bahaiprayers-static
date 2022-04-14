@@ -1,3 +1,0 @@
----
-title: "Tafel van Ahmad"
----

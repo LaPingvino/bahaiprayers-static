@@ -1,3 +1,0 @@
----
-title: "Nainit (Wedding Vow)"
----

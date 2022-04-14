@@ -1,3 +1,0 @@
----
-title: "WAMB DOIMB RUNDING ENGA ATANGE E"
----

@@ -1,3 +1,0 @@
----
-title: "Postojanost U Pogodbi"
----

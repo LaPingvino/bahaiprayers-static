@@ -1,0 +1,12 @@
++++
+title = 'Prayer bpn5946 in Català'
+author = "Abdu'l-Bahá"
+tags = ['lang-ca', '', "Abdu'l-Bahá", "unsorted"]
++++
+Oh Tu, Proveïdor! Tu has exhalat sobre amics d’Occident la dolça fragància de l’Esperit Sant, i amb la llum de la guia divina has il·luminat el cel occidental. Has fet que els qui es trobaven allunyats s’acostin a Tu; Tu has convertit els estranys en amics amorosos; Tu has despertat a aquells què dormien; Tu has fet conscients als desatents.
+Oh Tu, Proveïdor! Ajuda a aquests nobles amics a obtenir el Teu beneplàcit, i fes-los benvolguts d’estranys i amics per igual. Condueix-los al món què perdura per sempre, concedeix-les una porció de gràcia celestial; fes que siguin vertaders bahá’ís, sincerament de Déu; guarda’ls de les aparences, i estableix-los fermament en la veritat, Fes-los signes i senyals del Regne, estrelles lluminoses dels horitzons d’aquest món inferior. Fes que siguin un consol i un solaç per al món de la humanitat i serfs per la pau del món. Anima’ls amb el vi del Teu consell, i concedeix-li que tots puguin petjar el camí dels Teus manaments.
+Oh Tu, Proveïdor! El més car desig d’aquest serf del Teu Llindar és contemplar els amics d’Orient i Occident en estreta abraçada; veure a tots els membres de la societat humana amorosament congregats en una única gran assemblea, com si fossin gotes d’aigua reunides en un grandiós mar; contemplar a tots com si fossin aucells en un mateix jardí de roses, com perles d’un mateix oceà, com fulles d’un mateix arbre, com raigs d’un mateix sol.
+Tu ets el Fort, el Poderós, i Tu ets el Déu de força, l’Omnipotent, Qui tot ho veu.
+
+(Source category: Qualitats Espirituals)
+(Bahaiprayers.net ID: 5946)

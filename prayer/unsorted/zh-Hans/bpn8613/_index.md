@@ -1,0 +1,11 @@
++++
+title = 'Prayer bpn8613 in 简体中文'
+author = "Bahá'u'lláh"
+tags = ['lang-zh-Hans', '', "Bahá'u'lláh", "unsorted"]
++++
+我的上帝啊，宽大仁慈的上帝！
+祢是君王，祢的圣谕令万物滋生，祢是那满怀万恩者，祢仆人的所作所为从未阻扰祢普施仁惠，也从未阻挠祢恩典的晓谕。
+我恳求祢，使这仆人获得祢万千世界的救助。诚然！祢是全能者，至能者，全知者，全智者。
+
+(Source category: 灵性品质)
+(Bahaiprayers.net ID: 8613)

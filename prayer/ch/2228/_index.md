@@ -1,3 +1,0 @@
----
-title: "TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN"
----

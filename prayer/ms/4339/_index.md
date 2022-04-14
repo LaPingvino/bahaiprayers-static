@@ -1,3 +1,0 @@
----
-title: "BAYI YANG SAKIT"
----

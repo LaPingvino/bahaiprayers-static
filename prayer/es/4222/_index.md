@@ -1,3 +1,0 @@
----
-title: "Tabla de Visitación"
----

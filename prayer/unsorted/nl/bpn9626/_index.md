@@ -1,0 +1,12 @@
++++
+title = 'Prayer bpn9626 in Nederlands'
+author = "Bahá'u'lláh"
+tags = ['lang-nl', '', "Bahá'u'lláh", "unsorted"]
++++
+In Naam van God, de Allerhoogste! Geprezen en verheerlijkt zijt Gij, Heer, Almachtig God! Gij, voor Wiens wijsheid de wijze tekort schiet en faalt, voor Wiens kennis de geleerde zijn onwetendheid bekent, voor Wiens macht de sterke zwak wordt, voor Wiens rijkdom de rijke zijn armoede betuigt, voor Wiens licht de verlichte in duisternis dwaalt, naar de tempel van Wiens kennis de kern van alle begrip zich keert en rondom het heiligdom van Wiens tegenwoordigheid de zielen van de gehele mensheid cirkelen.
+Hoe kan ik dan zingen en vertellen van Uw Essentie, die door de wijsheid der wijzen en de kennis der geleerden niet is begrepen, daar toch geen mens kan bezingen wat hij niet bevat, noch kan verhalen van wat hij niet kan bereiken, terwijl Gij toch sedert het begin der tijden de Ontoegankelijke, de Ondoorgrondelijke waart? Machteloos als ik ben om tot de hemelen van Uw heerlijkheid te stijgen en mij tot de rijken van Uw kennis te verheffen, kan ik slechts verhalen van Uw tekenen die van het heerlijke werk Uwer handen getuigen.
+Bij Uw Heerlijkheid! O Gij, Geliefde aller harten, de Enige die de pijn van verlangen naar U kan stillen! Al zouden alle bewoners van hemel en aarde zich verenigen om het kleinste Uwer tekenen waarin en waardoor Gij Uzelf hebt geopenbaard te verheerlijken, toch zouden zij falen; hoeveel te meer wanneer zij Uw heilig Woord, de schepper van al Uw tekenen, zouden willen prijzen.
+Alle lof en heerlijkheid zij U, Gij van wie alle dingen getuigen dat Gij één zijt en dat er geen ander God is dan Gij, die sedert het begin der tijden verheven waart boven alle weerga of gelijkenis en zulks voor eeuwig zult blijven. Alle koningen zijn slechts Uw dienaren en alle wezens, zichtbaar en onzichtbaar, zijn als niets voor U. Er is geen ander God dan Gij, de Genadige, de Krachtige, de Hoogste.
+
+(Source category: Lof en dankbaarheid)
+(Bahaiprayers.net ID: 9626)

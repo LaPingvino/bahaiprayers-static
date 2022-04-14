@@ -1,3 +1,0 @@
----
-title: "DOA WAJIB PANJANG"
----

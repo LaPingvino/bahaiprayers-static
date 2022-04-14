@@ -1,3 +1,0 @@
----
-title: "SHORT OBLIGATORY PRAYER"
----

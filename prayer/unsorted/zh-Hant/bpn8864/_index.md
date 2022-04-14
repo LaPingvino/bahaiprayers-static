@@ -1,0 +1,10 @@
++++
+title = 'Prayer bpn8864 in 繁體中文'
+author = "Bahá'u'lláh"
+tags = ['lang-zh-Hant', '', "Bahá'u'lláh", "unsorted"]
++++
+我的上帝啊！藉由祢的慈恩，我已在這清晨起身，離開自己的家園，一心一意信從於祢，將自己交託在祢的照料下。求祢從慈悲的天庭，降予我祢的福佑，使我安返家門，一如祢曾使我堅信祢，在祢的保護下啟程。
+除祢之外別無上帝，祢是獨一無二者，無與倫比者，全知者，全智者。
+
+(Source category: 晨 禱)
+(Bahaiprayers.net ID: 8864)

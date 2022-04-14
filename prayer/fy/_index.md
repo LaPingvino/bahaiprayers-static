@@ -1,4 +1,0 @@
----
-title: "Frysk"
-rtl: ""
----

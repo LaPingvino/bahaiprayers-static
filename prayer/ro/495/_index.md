@@ -1,3 +1,0 @@
----
-title: "Rugăciunea Obligatorie Medie"
----

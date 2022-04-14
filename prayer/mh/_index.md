@@ -1,4 +1,0 @@
----
-title: "Marshallese"
-rtl: ""
----

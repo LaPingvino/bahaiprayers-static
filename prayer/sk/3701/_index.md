@@ -1,3 +1,0 @@
----
-title: "Dlhá povinná modlitba"
----

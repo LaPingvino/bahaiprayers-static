@@ -1,8 +1,0 @@
-+++
-title = 'Prayer bpn7427 in Polski'
-author = "Bahá'u'lláh"
-tags = ['lang-pl', 'bpn-unsorted', "Bahá'u'lláh"]
-+++
-Jesteś Tym, o mój Boże, przez którego imiona chorzy zostają uzdrowieni i bolejący przywróceni do zdrowia, i spragnieni zostają napojeni, i strapieni zostają ukojeni, i zbłąkani zostają poprowadzeni, i poniżeni zostają wywyższeni, i biedni zostają wzbogaceni, i nieświadomi zostają oświeceni, i przygnębieni zostają rozpromienieni, i smutni zostają pocieszeni, i zziębnięci zostają ogrzani, a uciśnieni zostają uniesieni. Przez Twoje imię, o mój Boże, poruszone zostały wszystkie stworzone rzeczy i rozpostarły się niebiosa, i ziemia została stworzona, a obłoki uniesione, aby zraszać ziemię. To zaprawdę jest oznaką Twojej łaski dla wszystkich Twoich stworzeń. 
-    
-Błagam Cię zatem, na Twoje imię, poprzez które Tyś objawił swoją Boskość i wyniósł swoją Sprawę ponad całe stworzenie, i na każdy z Twoich najdoskonalszych tytułów i najczcigodniejszych przymiotów, i na wszystkie cnoty, którymi wychwalana jest Twoja najwznioślejsza i najbardziej wywyższona Istota, abyś zesłał tej nocy z obłoków swego miłosierdzia deszcze swojego uzdrowienia na to dziecię, któreś sam złączył ze swoim wszechchwalebnym Ja w królestwie swego stworzenia. Przyodziej je zatem, o mój Boże, przez swą łaskę, szatą pomyślności oraz zdrowia i strzeż je, o mój Umiłowany, od wszelkiego nieszczęścia i dolegliwości oraz czegokolwiek, co budzi Twoją odrazę. Twoja moc, zaprawdę, może wszystko sprawić. Tyś prawdziwie jest Najpotężniejszym, Samoistnym. Ześlij też na nie, o mój Boże, dobra tego świata i następnego oraz dobra dawnych i późniejszych pokoleń. Twoja moc i Twoja mądrość zaiste mogą to sprawić.

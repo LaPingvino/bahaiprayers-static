@@ -1,3 +1,0 @@
----
-title: "UNTUK YANG MENINGGAL DUNIA"
----

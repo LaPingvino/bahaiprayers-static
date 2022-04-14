@@ -1,3 +1,0 @@
----
-title: "Trumpa privalomoji malda"
----

@@ -1,0 +1,10 @@
++++
+title = 'Prayer bpn570 in Deutsch'
+author = "Bahá'u'lláh"
+tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
++++
+Du bist es, o mein Gott, der durch Seine Namen die Kranken heilt und die Leidenden wiederherstellt, der die Dürstenden tränkt und die Schmerzgequälten beruhigt, der die Verirrten führt und die Erniedrigten erhöht, der die Armen bereichert und die Unwissenden erleuchtet, der die Mühseligen erheitert und die Beladenen erfreut, der die Frierenden wärmt und die Unterdrückten aufrichtet. Durch Deinen Namen wurde alles Erschaffene aufgerüttelt, die Himmel wurden ausgebreitet, die Erde gegründet und die Wolken gebildet, auf die Erde herniederzuregnen. Dies ist wahrlich ein Zeichen Deiner Gnade für alle Deine Geschöpfe.
+Darum flehe ich Dich an bei Deinem Namen, durch den Du Dein göttliches Wesen offenbartest und Deine Sache über alle Schöpfung erhobst, bei jedem Deiner erhabensten Titel und Deiner herrlichsten Eigenschaften, bei all Deinen Tugenden, derenthalben Dein alles überschreitendes, höchst erhabenes Wesen gepriesen wird - sende heute Nacht aus den Wolken Deines Erbarmens die Regenschauer Deiner Heilung herab auf diesen Säugling, den Du im Reiche Deiner Schöpfung Deinem allherrlichsten Selbste verbunden hast. Kleide ihn alsdann, o mein Gott, durch Deine Gnade mit dem Gewande des Wohls und der Gesundheit und bewahre ihn, o mein Geliebter, vor jeder Heimsuchung und Krankheit und vor allem, was Dir zuwider ist. Deine Macht ist wahrlich allem gewachsen. Du bist wahrhaftig der Mächtigste, der Selbstbestehende. Auch sende ihm, o mein Gott, das Gute dieser und der zukünftigen Welt und das Gute vergangener und künftiger Geschlechter. Fürwahr, Deine Macht und Deine Weisheit sind dazu imstande.
+
+(Source category: Heilung)
+(Bahaiprayers.net ID: 570)

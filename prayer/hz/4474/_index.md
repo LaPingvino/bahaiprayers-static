@@ -1,3 +1,0 @@
----
-title: "Rugciriku : MBATERO YAVITAPA"
----

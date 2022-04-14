@@ -1,0 +1,11 @@
++++
+title = 'Prayer bpn13214 in Slovensky'
+author = "Báb"
+tags = ['lang-sk', '', "Báb", "unsorted"]
++++
+Všetka majestátnosť a sláva, ó môj Bože, a všetko panstvo a svetlo a veľkoleposť a nádhera buď Tebe. Udeľuješ vládu komu sa Ti zachce a odopieraš ju komu si zaželáš. Niet Boha okrem Teba, Vlastníka všetkého, Najvznešenejšieho. Ty si Ten, kto z ničoho tvorí vesmír a všetko, čo v ňom prebýva. Okrem Teba Samotného niet ničoho hodného Teba a všetci okrem Teba sú v Tvojej svätej prítomnosti vydedencami a ničím v porovnaní so slávou Tvojej vlastnej Bytosti.
+Je mi vzdialené, aby som chválorečil Tvojim cnostiam okrem toho, čomu si Ty Sám chválorečil vo Svojej závažnej knihe, v ktorej vravíš: “Žiaden zrak Ho nepojme, On však Svojím zrakom poníma všetko. On je Tajomný, všetko Vnímajúci.” Sláva buď Tebe, ó môj Bože. Vskutku žiadna myseľ a žiaden zrak, nech už sú akékoľvek prenikavé a bystré, nikdy nedokážu poňať povahu najbezvýznamnejších z Tvojich znamení. Vskutku, Ty si Boh, niet Boha okrem Teba. Dosvedčujem, že Ty Sám jediný si výhradným Prejavom Svojich prídomkov, že chvála nikoho než Teba nikdy nedokáže dosiahnuť Tvoj svätý dvor a nikto iný než Ty nikdy nedokáže pochopiť Tvoje prídomky.
+Sláva buď Tebe. Si povznesený nad opis každého okrem Teba, lebo náležite blahorečiť Tvojim cnostiam či porozumieť najvnútornejšiemu jadru Tvojej podstaty presahuje ľudské chápanie. Tvojej sláve je vzdialené, aby Ťa Tvoje stvorenia opísali či aby Ťa niekto okrem Teba Samého spoznal. Ja som Ťa, ó môj Bože, spoznal preto, že si sa mi dal poznať. A keby si sa mi nebol zjavil, nebol by som Ťa spoznal. Uctievam Ťa vďaka tomu, že si ma k sebe zavolal. A keby nebolo Tvojho zvolania, nebol by som Ťa uctieval.
+
+(Source category: Chvála a vďakyvzdanie)
+(Bahaiprayers.net ID: 13214)

@@ -1,4 +1,0 @@
----
-title: "Bidayuh"
-rtl: ""
----

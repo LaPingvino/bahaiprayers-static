@@ -1,3 +1,0 @@
----
-title: "Tagumpay Ng Kapakanan"
----

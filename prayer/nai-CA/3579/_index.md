@@ -1,3 +1,0 @@
----
-title: "Blackfoot / Siksika"
----

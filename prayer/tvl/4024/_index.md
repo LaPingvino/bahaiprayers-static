@@ -1,3 +1,0 @@
----
-title: "TAPELETI O TE ASIASIIGA O ‘ABDU’L-BAHA"
----

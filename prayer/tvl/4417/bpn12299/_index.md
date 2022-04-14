@@ -1,9 +1,0 @@
-+++
-title = 'Prayer bpn12299 in Tuvalu'
-author = "Báb"
-tags = ['lang-tvl', 'bpn-unsorted', "Báb"]
-+++
-Tavaeega e ia Koe, O te Aliki, toku Fagasele Tafasili i te Llei!  Fai aka au ke tummau i Tau Faka-tokaaga, kae talia ko au ke lau i loto ia latou ko la e seki ofa ne latou a Tau Feagaiiga io me e tautali i atua o olotou fakatau fapaupau.  Faka mafai aka au, tena, ke maua soku nofoaga i te mea tonu o Tou nofo-mai, tuku mai ki luga ia au a se vaega foliki o Tou alofa-kaimalie kae fakasaoloto mai au ke ulu atu ki loto i Ou tavini galue ko la e seai se mataku ia latou io me maua ne latou a se fanoanoa.  Sa tiakina au kia au loa, O toku Aliki, io me e taofi mai ia au ite lavea o Ia Te la ko te Faifekau o Tou Tina Tino tonu loa, io me e lau ia latou ko la ko oti ne fulitua keatea mai i te mana o Tou nofo mai.  Lau aka au, O toku Atua, fakatasi mo latou ko la e faka-aloalo ate avanoaaga o 
-tiku a olotou mata ki luga i Tou Gali kae ko la ka fiafia latou i te avaoaaga tena ka se mafai ne latou o fesuiaki a se minute e tasi mo te nofoaiga–a-tupu o te maalo o lagi mo te lalolagi io me ko te foafoaaga katoatoa.  Ke maua ia au a te alofa-kaimalie, O te Aliki, i aso konei ko la a tino o Tou lalolagi, ko se kii loa; tuku mai kia au, tena, O toku Atua, a te mea te la e llei kae e ttau i Tau fuafuaaga.  A Koe, e tonu, ko te Maalosi-Katoatoa, ko te Alofa-Atafai, ko te Maukoloa, ko te FakamagaloKatoatoa.  
-  
-Ke talia, O toku Atua, ko te mea ke se mafai au o llau i vasia o latou ko la olotou taliga e se logo, olotou mata e tauaso, ko olotou laulaufaiva e se maua o faipati mo olotou loto ko se maua ne latou o maina.  Fakasao mai au, O toku Aliki, mai ite afi o te valea mo te manakoga kaiuu, kae fai aka au ke ulu ki loto I koga laukele o Tou alofa malifalifa kae tuku ifo kia au a te mea te la ko oti ne fakaeke mo Au tino filifilia.  E maalosi Koe o fai ate mea e manako Koe ki ei.  E tonu, Koe ko te Feasoasoani i mea Faigata, ko te Ola ia Ia.

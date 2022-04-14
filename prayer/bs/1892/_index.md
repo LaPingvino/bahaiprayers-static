@@ -1,3 +1,0 @@
----
-title: "Duga Obavezna Molitva"
----

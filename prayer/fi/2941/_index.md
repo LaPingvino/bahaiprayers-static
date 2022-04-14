@@ -1,3 +1,0 @@
----
-title: "Yhdeksäntoista päivän juhla"
----

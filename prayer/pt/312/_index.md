@@ -1,3 +1,0 @@
----
-title: "Dia de Deus"
----

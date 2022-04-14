@@ -1,3 +1,0 @@
----
-title: "Dünyaya Bağlanmamaq Duaları"
----

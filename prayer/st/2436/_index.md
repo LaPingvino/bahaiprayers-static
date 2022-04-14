@@ -1,3 +1,0 @@
----
-title: "Motšeare o moholo"
----

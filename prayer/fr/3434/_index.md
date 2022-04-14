@@ -1,3 +1,0 @@
----
-title: "Tablette du feu"
----

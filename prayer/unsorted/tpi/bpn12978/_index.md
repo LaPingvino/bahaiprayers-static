@@ -1,0 +1,37 @@
++++
+title = 'Prayer bpn12978 in Tok Pisin'
+author = "Bahá'u'lláh"
+tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
++++
+##Naw Ruz
+
+ 
+*Naw-uz (No-Rus), namba 21 de long mun Mas, em i namba wan de bilong Bahá’í yia.  Em taim bilong amamas na soim gutpela pasin long olgeta manmeri. 
+ 
+Litimapim Nem bilong Yu, O God bilong mi!  Yu bin makim Naw-Rœz, em bikpela de bilong amamas bilong olgeta manmeri husat i bin bihainim lo bilong Yu long Taim bilong Lusim Kaikai.  Ol i bin bihainim dispela lo long wanem ol i laikim Yu tru na ol i laik abrusim olgeta samting nogut, em ol samting Yu no laikim olgeta. O Bikpela bilong mi!  Inap Yu ken mekim paia bilong bikpela laik long Yu wantaim hat bilong dispela Taim bilong Lusim Kaikai, tupela i ken kirapim paia bilong wokim wok bilong Lotu bilong Yu insait long bel bilong ol dispela manmeri.  Inap Yu ken mekim ol dispela lain i kirap long litimapim Nem bilong Yu na tingim Yu. 
+ 
+O Bikpela bilong mi!  Yu bin bilasim ol dispela lain wantaim dispela lo bilong Yu, em Taim bilong 
+Lusim Kaikai.  Olsem na inap bai Yu bilasim ol wantaim bilas bilong tok orait bilong Yu wantaim.  Marimari long ol na givim gutpela blesing bilong Yu long ol.  Ol wok bilong olgeta man i stap aninit long gutpela laik na amamas bilong Yu.  Sapos wanpela man i brukim dispela lo bilong Lusim Kaikai, tasol Yu tok olsem em i bihainim, orait, bai dispela man i stap olsem wanpela man, husat i holim dispela lo oltaim oltaim.  Na sapos wanpela man i bihainim dispela lo bilong Lusim Kaikai, tasol Yu tok olsem em i brukim lo, orait, dispela man i stap olsem wanpela bilong ol dispela lain, husat i mekim doti Longpela Klos bilong Tokaut bilong Yu na em i stap longwe tru long klinpela wara bilong dispela Hul Wara bilong laip. 
+ 
+Yu bin sanapim wanpela plak i gat tok olsem long en:  "Ol wok bilong Yu i Gutpela Olgeta" na narapela plak i op i stap, em i gat tok olsem long en:  "Olgeta i bihainim tok bilong Yu."  O God bilong mi!  Inap bai Yu mekim dispela mak bilong Yu i klia long ol wokman bilong Yu, inap bai ol i save olsem gutpela bilong olgeta samting i kam long laik bilong Yu wantaim toktok bilong Yu.  Na tu gutpela bilong olgeta wok i stap aninit long tok orait bilong Yu wantaim gutpela laik na amamas bilong Yu.  Inap bai ol wokman i save olsem ol wok bilong olgeta man i stap long han bilong tok orait bilong Yu wantaim lo bilong Yu.  Inap bai Yu mekim klia ol dispela samting long ol wokman, inap bai i no gat wanpela samting i ken pasim ai bilong ol long lukim Naispela bilong Yu.  Nau tasol, long dispela taim, Krais i tokaut olsem:  "Yu Papa bilong olgeta hap, O Yu, Husat i bin mekim kamap dispela Spirit (em Jisas)";  na Pren bilong Yu (em Muhammad) Em i singaut olsem:  "Glori i go long Yu, O Wanpela, Husat mipela i laikim tru, long wanem Yu bin mekim Naispela bilong Yu i kamap ples klia, na Yu bin makim ol gutpela samting long ol lain bilong Yu.  Ol dispela gutpela samting, em bilong helpim ol dispela lain long kam kamap long ples bilong tokaut long dispela Nem bilong Yu i Bikpela Olgeta.  Olgeta manmeri i save krai na sori, tasol ol lain, husat i lusim tingting long olgeta arapela samting na ol i holimpas long ol gutpela samting bilong Yu tasol, orait, ol dispela lain i no save sori.  Nogat.  Ol i tanim pes bilong ol i go long dispela Man, Husat i 
+Tokaut long Yu na Em i Soimaut ol gutpela pasin bilong Yu." 
+ 
+O Bikpela bilong mi!  Em, Husat i Han Diwai bilong Yu wantaim ol lain bilong Yu, olgeta i bin pinisim Taim bilong Lusim Kaikai long dispela de.  Ol i bin makim dispela taim insait long ples holi bilong Yu, long wanem ol i gat bikpela laik long amamasim Yu.  Inap bai Yu givim olgeta gutpela samting Yu bin tokaut long en long Buk bilong Yu long em, wantaim ol dispela lain, na tu long ol manmeri, husat i bin kam insait long ples holi bilong Yu long dispela taim.  Orait, inap bai Yu givim ol gutpela samting long ol, em ol samting i ken helpim ol long dispela laip na tu long laip bihain. 
+ 
+Tru tumas.  Yu Gat Olgeta Save.  Yu Save Olgeta. 
+ 
+ ##Naw Ruz
+Naw Ruz (Arabic for New Day) , March 21st, is the first day of the Bahá’í year, and is a day of rejoicing and hospitality. 
+ 
+Praised be Thou, O my God, that Thou hast ordained Naw-Rœz as a festival unto those who have observed the fast for love of Thee and abstained from all that is abhorrent unto Thee.  Grant, O my Lord, that the fire of Thy love and the heat produced by the fast enjoined by Thee may inflame them in Thy Cause, and make them to be occupied with Thy praise and with remembrance of Thee. 
+ 
+Since Thou hast adorned them, O my Lord, with the ornament of the fast prescribed by Thee, do Thou adorn them also with the ornament of Thine acceptance, through Thy grace and bountiful favor.  For the doings of men are all dependent upon Thy good-pleasure, and are conditioned by Thy behest.  Shouldst Thou regard him who hath broken the fast as one who hath observed it, such a man would be reckoned among them who from eternity had been keeping the fast.  And shouldst Thou decree that he who hath observed the fast hath broken it, that person would be numbered with such as have caused the Robe of Thy Revelation to be stained with dust, and been far removed from the crystal waters of this living Fountain. 
+ 
+Thou art He through Whom the ensign "Praiseworthy art Thou in Thy works" hath been lifted up, and the standard "Obeyed are Thou in Thy behest" hath been unfurled.  Make known this Thy station, O my God, unto Thy servants, that they may be made aware that the excellence of all things is dependent upon Thy bidding and Thy word, and the virtue of every act is conditioned by Thy leave and the good-pleasure of Thy will, and may recognize that the reins of men’s doings are within the grasp of Thine acceptance and Thy commandment. Make this known unto them, that nothing whatsoever may shut them out from Thy Beauty, in these days whereon the Christ exclaimeth:  "All dominion is Thine, O Thou the Begetter of the Spirit (Jesus)"; and Thy Friend (Muhammad) crieth out:  "Glory be to Thee, O Thou the Best-Beloved, for that Thou has uncovered Thy Beauty, and written down for Thy chosen ones what will cause them to attain unto the seat of the revelation of Thy Most Great Name, through which all the peoples have lamented except such as have detached themselves from all else except Thee, and set themselves toward Him Who is the Revealer of Thyself and the Manifestation of Thine attributes." 
+ 
+He Who is Thy Branch and all Thy company, O my Lord, have broken this day their fast, after having observed it within the precincts of Thy court, and in their eagerness to please Thee.  Do Thou ordain for him, and for them, and for all such as have entered Thy presence in those days all the good Thou didst destine in Thy Book.  Supply them, then, with that which will profit them, in both this life and in the life beyond. 
+ 
+Thou, in truth, art the All-Knowing, the All-Wise.
+
+(Source category: NAW RUZ)
+(Bahaiprayers.net ID: 12978)

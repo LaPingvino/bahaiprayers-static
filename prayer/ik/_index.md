@@ -1,4 +1,0 @@
----
-title: "Alaska Native"
-rtl: ""
----

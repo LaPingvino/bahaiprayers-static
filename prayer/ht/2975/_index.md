@@ -1,3 +1,0 @@
----
-title: "Eprèv ak Difikilte"
----

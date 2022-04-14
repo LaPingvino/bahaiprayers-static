@@ -1,7 +1,0 @@
-+++
-title = 'Prayer bpn11924 in Türkmençe'
-author = "Abdu'l-Bahá"
-tags = ['lang-tk', 'bpn-unsorted', "Abdu'l-Bahá"]
-+++
-Hu’Alla!
-    Eý Taýsyz Taňry! Bu süýt emýän çagany Öz enaýat göwsüňden emdir, Öz gorag we hemaýat sallançagyňda sakla hem oňa Öz Rähmet gujagyňda terbiýe ber.

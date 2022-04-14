@@ -1,3 +1,0 @@
----
-title: "Hosszú kötelező ima"
----

@@ -1,3 +1,0 @@
----
-title: "Ditët e shtuara"
----

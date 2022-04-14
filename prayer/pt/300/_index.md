@@ -1,3 +1,0 @@
----
-title: "Provações e Dificuldades"
----

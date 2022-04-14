@@ -1,3 +1,0 @@
----
-title: "MANUMAALO O TE FAKATOKAAGA"
----

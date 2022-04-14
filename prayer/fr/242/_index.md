@@ -1,3 +1,0 @@
----
-title: "Enfants et jeunes"
----

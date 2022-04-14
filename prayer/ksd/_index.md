@@ -1,4 +1,0 @@
----
-title: "Kuanua"
-rtl: ""
----

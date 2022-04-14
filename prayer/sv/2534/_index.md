@@ -1,3 +1,0 @@
----
-title: "Prövningar och svårigheter"
----

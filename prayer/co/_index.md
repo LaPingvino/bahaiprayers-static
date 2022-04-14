@@ -1,4 +1,0 @@
----
-title: "Corsica"
-rtl: ""
----

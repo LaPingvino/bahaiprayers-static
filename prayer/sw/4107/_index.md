@@ -1,3 +1,0 @@
----
-title: "SALA KWA WALIOKUFA"
----

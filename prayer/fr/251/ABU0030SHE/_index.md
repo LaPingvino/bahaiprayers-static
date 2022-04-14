@@ -1,6 +1,0 @@
-+++
-title = 'Prayer ABU0030SHE in Français'
-author = "Abdu'l-Bahá"
-tags = ['lang-fr', 'ABU0030SHE', "Abdu'l-Bahá"]
-+++
-Ô toi, Dieu indulgent, tu es le refuge de tous tes serviteurs. Tu connais les secrets, rien ne t’échappe. Nous sommes tous faibles, tu es le Puissant, l’Omnipotent. Nous sommes tous des pécheurs, tu pardonnes les péchés, toi, le Miséricordieux, le Compatissant. Ô Seigneur, ne considère pas nos faiblesses. Traite-nous selon ta grâce et ta miséricorde. Nombreux sont nos défauts, mais infini est l’océan de ton pardon, grande est notre indigence, mais manifestes sont les signes de ton aide et de ton soutien. Aussi, confirme-nous et fortifie-nous. Que nos actes soient dignes de ton seuil divin ! Illumine nos cœurs, donne-nous des yeux qui voient et des oreilles qui entendent. Ressuscite le mort et guéris le malade. Accorde la richesse au pauvre, la paix et la sécurité à celui qui a peur. Accepte-nous dans ton royaume, éclaire-nous de la lumière de tes conseils. Tu es le Puissant et l’Omnipotent, tu es le Généreux, tu es le Clément, tu es le Bienveillant.

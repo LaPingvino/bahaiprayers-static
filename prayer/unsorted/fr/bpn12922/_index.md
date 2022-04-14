@@ -1,0 +1,11 @@
++++
+title = 'Prayer bpn12922 in Français'
+author = "Abdu'l-Bahá"
+tags = ['lang-fr', '', "Abdu'l-Bahá", "unsorted"]
++++
+Il est Dieu. 
+Ô toi, Seigneur bienveillant et bien-aimé! Ces amis sont enivrés du vin de l’Alliance et ils errent dans le désert de ton amour. Les flammes de l’éloignement de toi consument leur cœur et ils aspirent ardemment à la révélation de tes splendeurs. De ton royaume caché, du règne de l’invisible, révèle-leur la gloire éclatante de ta grâce, et répands sur eux la splendeur de ta générosité. À chaque instant, envoie une nouvelle bénédiction et révèle une nouvelle faveur. 
+Ô divine Providence! Nous sommes faibles, tu es le Tout-Puissant. Nous sommes comme de minuscules fourmis, tu es le Roi du royaume de gloire. Accorde-nous ta grâce et ta générosité afin que nous puissions allumer une flamme et répandre son éclat, nous montrer forts et servir. Fais que nous puissions illuminer cette terre de ténèbres et apporter la spiritualité à ce fugace monde de poussière. Ne nous laisse pas nous reposer un seul instant, ni nous souiller des choses éphémères de cette vie. Permets-nous de préparer un festin de conseils, d’écrire de notre sang les versets de l’amour, d’oublier peurs et périls, de devenir des arbres féconds et de faire apparaître les perfections humaines dans ce monde éphémère. En vérité, tu es le Très-Généreux, le Très-Compatissant, Celui qui toujours pardonne, l’Indulgent.
+
+(Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
+(Bahaiprayers.net ID: 12922)

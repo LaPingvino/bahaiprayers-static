@@ -1,3 +1,0 @@
----
-title: "İanə haqqında dua"
----

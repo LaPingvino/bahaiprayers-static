@@ -1,3 +1,0 @@
----
-title: "Garīgās Padomes"
----

@@ -1,3 +1,0 @@
----
-title: "PAPAN TULIS AHMAD"
----

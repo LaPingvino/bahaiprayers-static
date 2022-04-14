@@ -1,3 +1,0 @@
----
-title: "Rikirake n Tamnei"
----

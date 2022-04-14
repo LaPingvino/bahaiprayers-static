@@ -1,3 +1,0 @@
----
-title: "Krátká denní modlitba"
----

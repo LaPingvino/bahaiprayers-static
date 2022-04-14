@@ -1,4 +1,0 @@
----
-title: "Hrvatski"
-rtl: ""
----

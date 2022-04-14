@@ -1,3 +1,0 @@
----
-title: "Középső kötelező ima"
----

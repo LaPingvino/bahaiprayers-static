@@ -1,4 +1,0 @@
----
-title: "Hiri Motu"
-rtl: ""
----

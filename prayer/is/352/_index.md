@@ -1,3 +1,0 @@
----
-title: "Hjálp í mótlæti"
----

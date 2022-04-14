@@ -1,3 +1,0 @@
----
-title: "Tablet of Ahmad"
----

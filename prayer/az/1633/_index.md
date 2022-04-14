@@ -1,3 +1,0 @@
----
-title: "Səmavi bəxşiş duaları"
----

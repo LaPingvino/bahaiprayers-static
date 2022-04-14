@@ -1,3 +1,0 @@
----
-title: "Kontributet për fondin"
----

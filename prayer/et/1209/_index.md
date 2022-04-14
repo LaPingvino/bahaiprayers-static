@@ -1,3 +1,0 @@
----
-title: "Lapseootel naisele"
----

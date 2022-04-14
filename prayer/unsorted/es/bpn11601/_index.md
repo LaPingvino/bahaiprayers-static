@@ -1,0 +1,9 @@
++++
+title = 'Prayer bpn11601 in Español'
+author = "Abdu'l-Bahá"
+tags = ['lang-es', '', "Abdu'l-Bahá", "unsorted"]
++++
+¡Oh Dios! Guíame, protégeme, haz de mí una lámpara brillante y una estrella resplandeciente. Tú eres el Fuerte y el Poderoso.
+
+(Source category: Niños)
+(Bahaiprayers.net ID: 11601)

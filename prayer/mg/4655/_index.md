@@ -1,3 +1,0 @@
----
-title: "TAKELAKY NY AFO"
----

@@ -1,3 +1,0 @@
----
-title: "Prüfungen und Schwierigkeiten"
----

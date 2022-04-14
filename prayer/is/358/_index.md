@@ -1,3 +1,0 @@
----
-title: "Lofgjörð og þökk"
----

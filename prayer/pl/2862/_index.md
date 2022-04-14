@@ -1,3 +1,0 @@
----
-title: "Modlitwa za zmarłych"
----

@@ -1,3 +1,0 @@
----
-title: "Əhddə möhkəmlik duaları"
----

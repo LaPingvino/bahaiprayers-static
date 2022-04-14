@@ -1,4 +1,0 @@
----
-title: "Kalaallisut"
-rtl: ""
----

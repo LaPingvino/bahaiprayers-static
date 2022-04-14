@@ -1,3 +1,0 @@
----
-title: "Asanble Espirityèl yo"
----

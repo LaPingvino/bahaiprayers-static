@@ -1,0 +1,14 @@
++++
+title = 'Prayer bpn1199 in Português (BR)'
+author = "Bahá'u'lláh"
+tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
++++
+Louvado seja o Teu nome, ó meu Deus! Vês quão severamente tenho sido atribulado entre os Teus servos, e presencias asminhas vicissitudes no Teu caminho. Bem sabes que jamais proferi uma palavra que não fosse com a Tua permissão, nem abri os meus lábios salvo a Teu mando e de acordo com o Teu beneplácito, que todo o meu sopro foi animado pelo Teu louvor e pela Tua lembrança, que não convoquei todos os homens senão para aquilo para que os Teus eleitos foram convocados desde toda a eternidade, e que ordenei que observassem apenas as coisas que os fizessem aproximar do Alvorecer da Tua benevolência, do Amanhecer dos Teus favores, do Horizonte das Tuas riquezas e do Manifestante da Tua inspiração e da Tua revelação.
+Bem percebes, ó meu Deus, que não faltei ao meu dever para com a Tua Causa. Em todos os tempos e sob todas as condições fiz soprarem por todos os lados as brisas da Tua inspiração e difundir-se o suave olor das vestes da Tua mercê, para que os Teus servos talvez possam perceber a sua fragrância e assim dirigir-se a Ti.
+Imploro-Te, ó meu Deus - pelas Luzes da Tua unidade e pelos Repositórios da Tua revelação - faze descer das nuvens da Tua misericórdia o que possa purificar os corações de todos aqueles que se volveram para Ti. Apaga, pois, dos seus corações tudo que possa induzir os Teus servos a cavilar da Tua Causa.
+A Tua vontade superou a minha vontade, ó meu Deus, e tenho mostrado o que me afligiu penosamente. Tem misericórdia, pois, de mim, ó Tu que de todos os que mostram misericórdia és o Mais Misericordioso!
+Ajuda os Teus servos, ó meu Deus, a apoiar a Tua Causa, e dá-lhes de beber daquilo que anime os seus corações em Teu domínio, para que nada os impeça de se lembrarem de Ti e de louvarem as Tuas virtudes, para que deixem os seus lares em Teu nome e convoquem para Ti todas as multidões. Guarda as suas faces, ó meu Deus, de se dirigirem a qualquer outra salvo a Tua, e os seus ouvidos de escutarem os dizeres de todos os que se afastaram da Tua beleza e repudiaram os Teus sinais.
+Supremo és Tu sobre todas as coisas. Não há outro Deus senão Tu, o Omnisciente, o Sapientíssimo.
+
+(Source category: Ensino)
+(Bahaiprayers.net ID: 1199)

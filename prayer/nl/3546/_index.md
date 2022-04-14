@@ -1,3 +1,0 @@
----
-title: "Voor overleden vrouwen"
----

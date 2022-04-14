@@ -1,3 +1,0 @@
----
-title: "Ähdiňe Berklik Dilemek"
----

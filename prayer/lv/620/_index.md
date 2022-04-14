@@ -1,3 +1,0 @@
----
-title: "Grūtības un pārbaudījumi"
----

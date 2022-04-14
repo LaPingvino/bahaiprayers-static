@@ -1,3 +1,0 @@
----
-title: "Khoekhoegowab: ≠KHAM-KHOEN"
----

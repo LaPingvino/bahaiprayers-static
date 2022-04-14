@@ -1,3 +1,0 @@
----
-title: "Cildināšana un pateikšanās"
----

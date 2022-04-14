@@ -1,3 +1,0 @@
----
-title: "Loh Penyembuhan Panjang"
----

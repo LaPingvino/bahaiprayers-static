@@ -1,3 +1,0 @@
----
-title: "Nader tot God"
----

@@ -1,3 +1,0 @@
----
-title: "Geestelike Raad"
----

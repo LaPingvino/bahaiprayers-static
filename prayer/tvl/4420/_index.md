@@ -1,3 +1,0 @@
----
-title: "TOFOTOFOOGA MO FAIGATA"
----

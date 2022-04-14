@@ -1,3 +1,0 @@
----
-title: "PEMPHERO LA AHMAD"
----

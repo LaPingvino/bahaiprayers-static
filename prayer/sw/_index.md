@@ -1,4 +1,0 @@
----
-title: "Kiswahili"
-rtl: ""
----

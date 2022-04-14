@@ -1,3 +1,0 @@
----
-title: "Pinngitsoorani Qinnutissaq Takkajaaq"
----

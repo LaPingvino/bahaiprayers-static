@@ -1,3 +1,0 @@
----
-title: "Festigkeit im Bund"
----

@@ -1,3 +1,0 @@
----
-title: "Geahččalusat ja váttisvuođat"
----

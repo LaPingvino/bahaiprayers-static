@@ -1,0 +1,12 @@
++++
+title = 'Prayer bpn12920 in Français'
+author = "Abdu'l-Bahá"
+tags = ['lang-fr', '', "Abdu'l-Bahá", "unsorted"]
++++
+Il est le Très-Saint, le Très-Glorieux. 
+Au nom de Dieu, le Compatissant, le Miséricordieux! Louange à Dieu, le Seigneur de tous les mondes! 
+Ô Seigneur, mon Dieu, mon havre et mon refuge! Comment puis-je te mentionner dignement, même avec les plus belles paroles de glorification ou les odes de louange les plus éloquentes, ô toi, le Tout-Puissant et le Clément, conscient que je suis que la langue de tout orateur disert ne peut que balbutier, et que toute louange émanant de la plume ou de la parole humaines est frustrée dans sa tentative de glorifier un seul des signes de ta puissance omnipotente ou d’exalter une seule des paroles que tu as créées. Certes, les ailes de l’oiseau de l’esprit humain se brisent dans leur tentative de s’élever jusqu’au ciel de ta sainteté divine, et les araignées des vaines chimères sont impuissantes à tisser leur frêle toile sur les plus hauts sommets du dais de ta connaissance. Je n’ai donc d’autre recours que de reconnaître mon impuissance et mes manquements, ni d’autre demeure que les abîmes de la pauvreté et du dénuement. En vérité, l’impuissance à te comprendre est l’essence de la compréhension, avouer ses faiblesses est le seul moyen d’atteindre ta présence et reconnaître sa pauvreté est la source de la vraie richesse. 
+Ô Seigneur! Par ta grâce, aide-nous, moi et tes serviteurs sincères, à servir à ton seuil sacré, conforte-nous dans nos supplications à ta sainteté divine, rends-nous humbles et soumis devant la porte de ton unicité. Affermis mes pas dans ton sentier, ô mon Seigneur, et illumine mon cœur des rayons éclatants que répand le ciel de tes mystères. Rafraîchis mon esprit par la brise qui souffle du paradis de ton pardon et de ta clémence, et réjouis mon âme par le souffle vivifiant diffusé depuis les prairies de ta sainteté. Éclaire mon visage au-dessus de l’horizon de ton unité, accorde-moi d’être considéré comme l’un de tes serviteurs sincères et compte-moi au nombre de tes défenseurs qui restent fermes et inébranlables.
+
+(Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
+(Bahaiprayers.net ID: 12920)

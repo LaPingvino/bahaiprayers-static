@@ -1,3 +1,0 @@
----
-title: "Kinh Bản Carmel"
----

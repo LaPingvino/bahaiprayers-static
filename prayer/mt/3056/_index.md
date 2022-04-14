@@ -1,3 +1,0 @@
----
-title: "Tifħir u Gratitudini"
----

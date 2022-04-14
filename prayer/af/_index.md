@@ -1,4 +1,0 @@
----
-title: "Afrikaans"
-rtl: ""
----

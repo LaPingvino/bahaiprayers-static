@@ -1,3 +1,0 @@
----
-title: "Gənclər üçün dualar"
----

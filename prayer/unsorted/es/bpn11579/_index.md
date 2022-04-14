@@ -1,0 +1,13 @@
++++
+title = 'Prayer bpn11579 in Español'
+author = "Bahá'u'lláh"
+tags = ['lang-es', '', "Bahá'u'lláh", "unsorted"]
++++
+Te doy gracias, oh mi Dios, por haberme despertado de mi sueño, por haberme traído a la luz después de mi desaparición y por haberme sacado de mi letargo. He despertado esta mañana con el rostro vuelto hacia los resplandores del sol de Tu Revelación, por medio del cual se han iluminado los cielos de Tu poder y Tu majestad, reconociendo Tus signos, creyendo en Tu Libro y aferrándome a Tu Cuerda.
+Te imploro, por la potencia de Tu voluntad y el poder irresistible de Tu propósito, que hagas de lo que me revelaste en mi sueño los cimientos más seguros para las mansiones de Tu amor que están en el corazón de tus amados, y el mejor instrumento para la revelación de las muestras de Tu gracia y Tu bondad.
+Ordena para mí, oh mi Señor, por medio de Tu muy exaltada Pluma, el bien de este mundo y del venidero. Atestiguo que en Tu mano están las riendas de todas las cosas. Tú las cambias como Te place. No hay Dios sino Tú, el Fuerte, el Fiel.
+Tú eres Aquel que, mediante Su mandato, transforma la humillación en gloria, la debilidad en fortaleza, la impotencia en poder, el temor en calma, la duda en certeza. No hay Dios sino Tú, el Poderoso, el Benéfico.
+Tú no decepcionas a nadie que Te haya buscado, ni apartas a quien Te haya deseado. Ordena para mí lo que corresponda al cielo de Tu generosidad y al océano de Tu munificencia. Tú eres, verdaderamente, el Omnipotente, el Todopoderoso.
+
+(Source category: Mañana)
+(Bahaiprayers.net ID: 11579)

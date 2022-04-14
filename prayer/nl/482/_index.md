@@ -1,3 +1,0 @@
----
-title: "Tafelen van Ontmoeting"
----

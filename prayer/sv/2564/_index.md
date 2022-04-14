@@ -1,3 +1,0 @@
----
-title: "Den Långa Helandebönen"
----

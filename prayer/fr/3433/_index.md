@@ -1,3 +1,0 @@
----
-title: "Tablette à Ahmad"
----

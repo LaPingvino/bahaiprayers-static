@@ -1,3 +1,0 @@
----
-title: "Khoekhoegowab:!UI /GORETI"
----

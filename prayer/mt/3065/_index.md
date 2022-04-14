@@ -1,3 +1,0 @@
----
-title: "Tiġrib u ebusija"
----

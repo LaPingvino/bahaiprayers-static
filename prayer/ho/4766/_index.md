@@ -1,3 +1,0 @@
----
-title: "TAUNIMANIMA HATAMONAIA GURIGURI"
----

@@ -1,3 +1,0 @@
----
-title: "Sodi fil-Patt"
----

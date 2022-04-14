@@ -1,3 +1,0 @@
----
-title: "EREGABE TAUDIA EDIA GURIGURI"
----

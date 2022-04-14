@@ -1,3 +1,0 @@
----
-title: "Trust in God"
----

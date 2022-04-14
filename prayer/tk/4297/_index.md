@@ -1,3 +1,0 @@
----
-title: "Gorag Dogalary"
----

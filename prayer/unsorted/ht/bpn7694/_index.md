@@ -1,0 +1,9 @@
++++
+title = 'Prayer bpn7694 in Kreyol Ayisyen'
+author = "Bahá'u'lláh"
+tags = ['lang-ht', '', "Bahá'u'lláh", "unsorted"]
++++
+O Bondye mwen! O Bondye mwen! Ini kè sèvitè Ou yo,  revele pou yo gran plan Ou an. Pèmèt yo swiv kòmandman Ou yo e rete nan lwa Ou. Ede yo, O Bondye, nan efò y’ap fè, ba yo fòs pou yo sèvi Ou. O Bondye! Pa lage yo pou kont yo, okontrè gide pa yo avèk limyè konesans Ou, e rejwi kè yo avèk lanmou Ou. An verite, se Ou Ki Èd yo ak Senyè yo.
+
+(Source category: Linite)
+(Bahaiprayers.net ID: 7694)

@@ -1,0 +1,10 @@
++++
+title = 'Prayer bpn9318 in Malagasy'
+author = "Báb"
+tags = ['lang-mg', '', "Báb", "unsorted"]
++++
+Mangataka ny indrafonao aho, ry Andriamanitro, ary mitalaho ny famelanao araka ny fomba izay irinao itodihan’ireo mpanomponao any Aminao. Miangavy Anao aho mba hikosoka ny fahotanay araka ny  Fiandriananao sy hamela ahy , ireo ray aman-dreniko, sy ireo izay, araka ny Fanombananao , tafiditra teo amin’ny fonenan’ny Fitiavanao  tamin’ny fomba mendrika ny Fiandriananao ambony indrindra sy mifanaraka amin’ny voninahitry ny Fahefan-danitrao.
+Ry Andriamanitro! Nomenao aingam-panahy ny fanahiko mba haneho Aminao ny fitalahoany, ary raha tsy Ianao, tsy ho niantso Anao aho; ho deraina sy homem-boninahitra Ianao; mankalaza Anao aho satria niseho tamiko Ianao; ary mangataka Aminao aho mba hamela ahy, satria tsy nahatanteraka ny andraikitro hahafantatra Anao ary tsy nandeha tamin’ny lalan’ny Fitiavanao.
+
+(Source category: FAMELAN-KELOKA)
+(Bahaiprayers.net ID: 9318)

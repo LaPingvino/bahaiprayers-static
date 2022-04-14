@@ -1,3 +1,0 @@
----
-title: "JAR EO EKADU"
----

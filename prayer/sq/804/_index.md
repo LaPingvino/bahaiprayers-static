@@ -1,3 +1,0 @@
----
-title: "Për të vdekurit"
----

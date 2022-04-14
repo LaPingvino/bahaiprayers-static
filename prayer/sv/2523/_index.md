@@ -1,3 +1,0 @@
----
-title: "Fasthet I Förbundet"
----

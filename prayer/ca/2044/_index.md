@@ -1,3 +1,0 @@
----
-title: "Oració obligatòria llarga"
----

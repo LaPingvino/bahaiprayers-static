@@ -1,3 +1,0 @@
----
-title: "Lichaba tsa lefatše"
----

@@ -1,3 +1,0 @@
----
-title: "Uzticība Mācībai"
----

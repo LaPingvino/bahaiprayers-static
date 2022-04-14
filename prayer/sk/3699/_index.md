@@ -1,3 +1,0 @@
----
-title: "Krátka povinná modlitba"
----

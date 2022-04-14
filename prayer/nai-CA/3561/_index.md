@@ -1,3 +1,0 @@
----
-title: "Stolo Shxweli Halqemeylem"
----

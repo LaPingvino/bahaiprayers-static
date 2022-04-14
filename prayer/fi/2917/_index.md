@@ -1,3 +1,0 @@
----
-title: "Taipuminen Jumalan tahtoon"
----

@@ -1,3 +1,0 @@
----
-title: "Prières de souvenance"
----

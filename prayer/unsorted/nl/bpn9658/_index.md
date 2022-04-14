@@ -1,0 +1,12 @@
++++
+title = 'Prayer bpn9658 in Nederlands'
+author = "Bahá'u'lláh"
+tags = ['lang-nl', '', "Bahá'u'lláh", "unsorted"]
++++
+Verheerlijkt zij Uw Naam, o mijn God! Ik betuig dat als Uw dienaren zich tot U zouden keren met de ogen waarmee Gij hen hebt geschapen en met de oren waarmee Gij hen hebt begiftigd, zij allen meegesleept zouden worden door een enkel woord neergezonden vanuit de rechterzijde van de troon van Uw majesteit. Dat woord alleen al zou voldoende zijn om hun gelaat te verhelderen, hun hart gerust te stellen en hun ziel te doen opwieken naar de sferen van Uw grote heerlijkheid en zich te verheffen tot de hemel van Uw oppermacht.
+Ik bid U, o Gij die de Heer aller namen en de Heerser van hemel en aarde zijt, te schenken dat allen die U dierbaar zijn een kelk van Uw barmhartigheid mogen worden in Uw dagen, opdat zij het hart van Uw dienaren tot nieuw leven kunnen wekken. Stel hen ook in staat, o mijn God, te worden als de stortregen uit de wolken van Uw genade en als de wind die de lentegeuren van Uw goedertierenheid verspreidt, dat zij de bodem van het hart van Uw schepselen mogen bedekken met groen gewas en datgene mogen voortbrengen wat de geuren ervan in Uw gehele rijk zal verspreiden, zodat eenieder de zoete geur van de mantel van Uw Openbaring gewaar kan worden. Machtig zijt Gij te doen naar Uw wil.
+De kracht van Uw Macht is mij tot getuige! Al wie gedronken heeft uit de kelk die de hand van Uw barmhartigheid ronddroeg, zal zich ontdoen van alles buiten U en zal door een woord uit zijn mond in staat zijn de ziel van diegenen Uwer dienaren die sluimeren op het bed van verzuim en onachtzaamheid in verrukking te brengen, en hen ertoe te bewegen hun gelaat te keren naar Uw grootste Teken, en bij U niets te zoeken dan Uzelf, en van U slechts datgene te vragen wat Gij met de pen van Uw oordeel voor hen hebt bepaald en in de Tafel van Uw gebod hebt voorgeschreven.
+O mijn God, zend dan door Uw Allergrootste Naam tot Uw geliefden neer hetgeen hen onder alle omstandigheden nader tot U zal brengen. Gij zijt waarlijk de Almachtige, de Alglorierijke, Wiens hulp door allen wordt afgesmeekt.
+
+(Source category: Onderricht)
+(Bahaiprayers.net ID: 9658)

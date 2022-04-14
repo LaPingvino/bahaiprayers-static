@@ -1,3 +1,0 @@
----
-title: "Trijumf Božje Stvari"
----

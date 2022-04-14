@@ -1,3 +1,0 @@
----
-title: "TOKTOK BLONG BAHÁʼU’LLÁH I GO LONG AHMAD"
----

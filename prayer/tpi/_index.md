@@ -1,4 +1,0 @@
----
-title: "Tok Pisin"
-rtl: ""
----

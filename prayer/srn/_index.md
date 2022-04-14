@@ -1,4 +1,0 @@
----
-title: "Sranan Tongo"
-rtl: ""
----

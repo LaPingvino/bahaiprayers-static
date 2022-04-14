@@ -1,3 +1,0 @@
----
-title: "Tafel Fan Ahmad"
----

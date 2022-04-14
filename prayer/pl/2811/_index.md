@@ -1,3 +1,0 @@
----
-title: "Długa Modlitwa Obowiązkowa"
----

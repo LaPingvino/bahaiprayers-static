@@ -1,3 +1,0 @@
----
-title: "Preghiera Obbligatoria Media"
----

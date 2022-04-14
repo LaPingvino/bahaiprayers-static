@@ -1,3 +1,0 @@
----
-title: "Qualitats Espirituals"
----

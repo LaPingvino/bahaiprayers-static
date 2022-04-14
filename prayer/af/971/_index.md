@@ -1,3 +1,0 @@
----
-title: "Lang verpligte gebed"
----

@@ -1,9 +1,0 @@
-+++
-title = 'Prayer bpn9198 in Français'
-author = "Bahá'u'lláh"
-tags = ['lang-fr', 'bpn-unsorted', "Bahá'u'lláh"]
-+++
-Au nom du Seigneur, le Suprême, tu es loué et glorifié, Seigneur, Dieu omnipotent ! Devant ta sagesse, le sage reconnaît ses limites et s’incline ; devant ta connaissance, le savant confesse son ignorance ; devant ta puissance, l’homme fort vacille ; devant ton opulence, le riche atteste sa pauvreté ; devant ta lumière, l’homme éclairé se trouve perdu dans les ténèbres ; vers le temple de ta connaissance se tourne l’essence de toute compréhension, et autour du sanctuaire de ta présence gravitent les âmes de l’humanité tout entière.
-Comment puis-je mentionner et célébrer ton essence que n’ont pu saisir la sagesse du sage ni la science du savant, puisque personne ne peut célébrer ce qu’il ne comprend pas, ni décrire ce qui le dépasse et que de toute éternité tu es l’Inaccessible, l’Insondable ? Cependant, tout impuissant que je sois à m’élever jusqu’au ciel de ta gloire et à m’élancer dans les royaumes de ta connaissance, je peux dire tes signes qui proclament le glorieux ouvrage de tes mains.
-Par ta gloire, ô Bien-Aimé de tous les cœurs, toi seul peux apaiser les tourments de ceux qui aspirent à toi. Tous les habitants du ciel et de la terre s’uniraient-ils qu’ils échoueraient à glorifier le moindre de tes signes en lesquels et par lesquels tu te révèles ; à plus forte raison échoueraient-ils à louer ton Verbe sacré, créateur de tous ces signes.
-Louange et gloire à toi ! Toutes choses attestent que tu es l’Unique et qu’il n’est pas d’autre Dieu que toi ; tu as toujours été sans pair ni égal et tu le resteras à jamais. Les rois ne sont que tes serviteurs et les êtres visibles et invisibles ne sont que néant devant toi. Il n’est pas d’autre Dieu que toi, le Clément, le Tout-Puissant, le Très-Haut.

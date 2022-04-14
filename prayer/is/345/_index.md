@@ -1,3 +1,0 @@
----
-title: "Erfiðleikar og mótlæti"
----

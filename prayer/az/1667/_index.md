@@ -1,3 +1,0 @@
----
-title: "Hüququllah-Allahın Hüququ"
----

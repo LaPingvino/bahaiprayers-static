@@ -1,3 +1,0 @@
----
-title: "Apărare şi Protecţie"
----

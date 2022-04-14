@@ -1,3 +1,0 @@
----
-title: "Unnersiutiginninneq qujamasunnerlu"
----

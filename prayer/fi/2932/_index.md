@@ -1,3 +1,0 @@
----
-title: "Bábin syntymän vuosipäivä"
----

@@ -1,0 +1,10 @@
++++
+title = 'Prayer bpn10273 in Svenska'
+author = "Bahá'u'lláh"
+tags = ['lang-sv', '', "Bahá'u'lláh", "unsorted"]
++++
+Ur Din evighets ljuvligt doftande strömmar giv mig att dricka, o min Gud, och gör mig i stånd att smaka frukterna på Ditt väsens träd,  o mitt hopp! Ur Din kärleks kristallklara källor låt mig dricka djupt, o min härlighet, och i skuggan av Din eviga försyn låt mig bida, o mitt ljus! På Din närhets ängar, i Din närvaro, låt mig ströva,  o min älskade, och vid Din nådatrons högra sida låt mig sitta, o min åstundan! Från Din glädjes doftande briser låt en fläkt omsvepa mig, o mitt mål, och till höjderna i Din verklighets paradis giv mig tillträde, o min dyrkade! Gör mig i stånd att höra de ljuva melodierna från Din enhets duva, o Du strålande, och genom Din styrkas och Din makts ande vederkvick mig, o min försörjare!  I Din kärleks anda håll mig orubbligt fast, o min hjälpare, och på Ditt välbehags stig gör mina steg fasta, o min skapare! I Din odödlighets trädgård, i Din åsyn, låt mig bida för evigt, o Du som är barmhärtig mot mig, och på Din härlighets tron upphöj mig, o Du som besitter mig! Till Din givmilda vänskaps himmel lyft mig upp, o min vederkvickare, och till Din lednings Morgonstjärna för mig, o Du min lockelse! Inför Din osynliga andes uppenbarelser bjud mig att närvara, o Du som är mitt ursprung och min högsta önskan, och till det innersta i Din skönhets väldoft, vilken Du skall uppenbara, låt mig vända åter, o Du som är min Gud!
+Mäktig är Du att göra vad Dig behagar. Du är i sanning den mest Upphöjde, den Allhärlige, den Högste.
+
+(Source category: Andliga egenskaper)
+(Bahaiprayers.net ID: 10273)

@@ -1,3 +1,0 @@
----
-title: "LAUMA HATUBUA GURIGURI"
----

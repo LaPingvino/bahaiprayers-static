@@ -1,3 +1,0 @@
----
-title: "Brevet Til Ahmad"
----

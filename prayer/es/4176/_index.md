@@ -1,3 +1,0 @@
----
-title: "Cercanía a Dios"
----

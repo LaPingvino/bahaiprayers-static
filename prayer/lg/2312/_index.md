@@ -1,3 +1,0 @@
----
-title: "OBUDDE OBWOKU NKYA"
----

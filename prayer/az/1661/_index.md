@@ -1,3 +1,0 @@
----
-title: "Toplantılarda oxunan dualar"
----

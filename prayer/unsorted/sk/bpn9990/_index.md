@@ -1,0 +1,39 @@
++++
+title = 'Prayer bpn9990 in Slovensky'
+author = "Bahá'u'lláh"
+tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
++++
+*Prednáša sa raz za dvadsaťštyri hodín
+*Ak si želáte predniesť túto modlitbu, postavte sa a obráťte sa k Bohu. Stojac na mieste, podívajte sa vpravo a vľavo, sťaby očakávajúc milosrdenstvo svojho Pána, Najmilosrdnejšieho, Súcitného. Potom rieknite:
+Ó Ty, ktorý si Pán všetkých mien a Tvorca nebies! Úpenlivo Ťa prosím pri Tých, ktorí sú Úsvitom Tvojej neviditeľnej Podstaty, Najvznešenejší, nadovšetko Slávny, aby si z mojej modlitby učinil oheň, ktorý spáli závoje oddelivšie ma od Tvojej krásy, a svetlo, ktoré ma dovedie k oceánu Tvojej prítomnosti.
+*Potom v úprimnej prosbe pozdvihnite ruky k Bohu (Nech je požehnaný a povznesený!) a rieknite:
+Ó Ty, Túžba sveta a Milovaný národov! Vidíš ma, ako sa k Tebe obraciam, že som pozbavený všetkých pút ku komukoľvek okrem Teba a ľnem k Tvojmu lanu, ktorého pohyb rozochvel celé stvorenie. Som Tvojím služobníkom, ó môj Pane, a synom Tvojho služobníka. Podívaj sa, ako tu stojím a som pripravený vykonávať Tvoju vôľu a Tvoje priania, pričom netúžim po inom než po Tvojej spokojnosti. Pri Oceáne Tvojho milosrdenstva a Dennici Tvojej milosti Ťa úpenlivo žiadam, aby si so Svojím služobníkom zaobchádzal, ako si želáš a praješ. Pri Tvojej moci, ktorá zďaleka presahuje každú zmienku a chválu! Srdcu sa mi žiada a duša mi miluje všetko, čo si zjavil. Ó Bože, môj Bože! Nehľaď na moje nádeje a konanie! Radšej pohliadni na Svoju vôľu, ktorá obklopuje nebesia i zem. Pri Tvojom Najväčšom mene, ó Ty, Pán všetkých národov! Túžil som len po tom, čo bolo Tvojou túžbou, a milujem len to, čo miluješ Ty.
+*Potom pokľaknite, čelom sa skloňte k zemi, a tak rieknite:
+Si povznesený nad hocičí popis s výnimkou Svojho vlastného a nad každé pochopenie okrem Svojho vlastného.
+*Potom sa postavte a rieknite:
+Moju modlitbu, ó môj Pane, učiň žriedlom živých vôd, vďaka ktorým budem môcť žiť, pokiaľ len pretrvá Tvoje mocnárstvo, a budem Ťa môcť spomínať v každom svete z Tvojich svetov.
+*Potom pozdvihnite ruky v úprimnej prosbe a rieknite:
+Ó Ty, od ktorého odlúčenie rozľútostilo srdcia i duše a ktorého lásky ohňom vzbĺkol celý svet! Úpenlivo Ťa žiadam pri Tvojom mene, skrze ktoré si si podmanil celé stvorenie, aby si mi neuprel to, čo vlastníš, ó Ty, ktorý vládneš nad všetkými ľuďmi! Vidíš, ó môj Pane, ako sa tento neznámy ponáhľa do svojho najvznešenejšieho domova pod baldachýnom Tvojej majestátnosti a na nádvorí Tvojho milosrdenstva, ako tento previnilec hľadá oceán Tvojho odpustenia, tento ponížený dvor Tvojej slávy a tento biedny tvor lesk Tvojho bohatstva. K Tvojej právomoci prináleží prikazovať čokoľvek, čo si zaželáš. Dosvedčujem, že Ťa za Tvoje konanie treba chváliť, že Tvoje nariadenia treba poslúchať a že vo Svojich príkazoch budeš i naďalej neobmedzený.
+*Potom pozdvihnite ruky a trikrát zopakujte Najväčšie meno. Potom sa pred Bohom (Nech je požehnaný a povznesený!) predkloňte rukami spočívajúc na kolenách a rieknite:
+Vidíš, ó môj Bože, ako sa mi duch rozochvel v údoch a v končatinách túžiac po tom, aby Ťa uctieval, a bažiac po tom, aby Ťa spomínal a vychvaľoval Ťa. Vidíš, ako dosvedčuje to, čo v kráľovstve Tvojho prehovoru a nebi Tvojho poznania dosvedčil Jazyk Tvojho prikázania. V tomto stave by som si Ťa dovolil poprosiť o všetko, čo Ti patrí, aby som mohol preukázať svoju chudobu a blahorečiť Tvoju štedrosť a Tvoje bohatstvo a aby som mohol oznámiť svoju bezmocnosť a prejavovať Tvoju moc a Tvoju silu.
+*Potom sa vzpriamte, dvakrát pozdvihnite ruky v úprimnej prosbe a rieknite:
+Niet Boha okrem Teba, nadovšetko Mocného, nadovšetko Štedrého. Niet Boha okrem Teba, Príkazcu i na počiatku, i na konci. Ó Bože, môj Bože! Tvoje odpustenie mi dodalo odvahy, Tvoje milosrdenstvo ma posilnilo, Tvoje volanie ma prebudilo a Tvoja milosť ma pozdvihla a zaviedla k Tebe. Veď inak ktože som, aby som sa odvážil stáť pri bráne mesta Tvojej blízkosti či aby som upriamil tvár ku svetlám žiariacim z neba Tvojej vôle? Vidíš, ó môj Pane, ako toto úbohé stvorenie klope na dvercia Tvojej milosti a ako táto pominuteľná duša z rúk Tvojej štedrosti hľadá rieku večného života. Tebe sa navždy patrí prikazovať, ó Ty, ktorý si Pán všetkých mien, a mne sa patrí odovzdať a ochotne sa podriadiť Tvojej vôli, ó Stvoriteľu nebies!
+*Potom trikrát pozdvihnite ruky a rieknite:
+Významnejší je Boh než ktokoľvek významný!
+*Potom pokľaknite, čelom sa skloňte k zemi a tak rieknite:
+Si príliš vysoko na to, aby chvála tých, ktorí sú Ti nablízku, vystúpila na nebo Tvojej blízkosti, či aby vtáčatá sŕdc tých, ktorí sú Ti oddaní, dospeli ku dverciam Tvojej brány. Dosvedčujem, že si povznesený nado všetky prídomky a svätý nado všetky mená. Niet Boha okrem Teba, Najvznešenejšieho, nadovšetko Slávneho.
+*Potom sa posaďte a rieknite:
+Dosvedčujem to, čo dosvedčilo všetko stvorené i Zhromaždenie na výsostiach, i obyvatelia najvyššieho raja, ba navyše i samotný Jazyk veľkoleposti z najslávnejšieho Obzoru, že Ty si Boh, že niet iného Boha okrem Teba a že Ten, kto sa prejavil, je Skrytá záhada, Drahocenný symbol, prostredníctvom ktorého sa písmeno B spojilo a zopälo s písmenom U a Ď (buď). Dosvedčujem, že Pero Najvyššieho stanovilo práve Jeho meno a že práve On sa spomína v knihách Boha, Pána Trónu na výsostiach i dolu na zemi.
+*Potom stojte vzpriamene a rieknite:
+Ó Pane celého bytia a Vlastník všetkého viditeľného i neviditeľného! Vnímaš moje slzy a vzdychy, ktoré vydávam, a slyšíš vzlyky, nárek a plač môjho srdca. Pri Tvojej moci! Moje prehrešky mi zabránili v tom, aby som sa Ti priblížil, a moje hriechy ma zdržali ďaleko od dvora Tvojej svätosti. Tvoja láska, ó môj Pane, ma obohatila, odlúčenie od Teba ma zahubilo a oddialenie od Teba ma pohltilo. Nástojčivo Ťa prosím pri Tvojich stopách v tejto pustatine a pri slovách: „Tu som! Tu som!“ ktoré v tejto šírave vyslovili Tvoji vyvolení, a pri dychu Tvojho zjavenia a jemnom vetríku Úsvitu Tvojho Prejavu, daj, aby som mohol uzrieť Tvoju krásu a dodržiavať všetko, čo je v Tvojej knihe.
+*Potom trikrát zopakujte Najväčšie meno a predkloňte sa rukami spočívajúc na kolenách a rieknite:
+Buď pochválený, ó môj Bože, za to, že si mi pomohol, aby som Ťa spomínal a chválil, a za to, že si mi dal spoznať Toho, kto je Úsvitom Tvojich znamení, a učinil si, že som sa poklonil pred Tvojou Výsosťou, pokoril pred Tvojím Božstvom a že som uznal to, čo vyslovil Jazyk Tvojej veľkoleposti.
+*Potom sa narovnajte a rieknite:
+Ó Bože, môj Bože! Chrbát sa mi prehýba pod bremenom hriechov a moja nedbalosť ma zahubila. Vždy, keď sa zamyslím nad svojimi zlými činmi a Tvojou zhovievavosťou, srdce sa mi rozľútostí a krv mi vrie v žilách. Pri Tvojej Kráse, ó Ty, Túžba sveta! Hanbím sa pozdvihnúť k Tebe tvár a roztúžené ruky sa mi ostýchajú napriahnuť k nebu Tvojej štedrosti. Vidíš, ó môj Bože, ako mi slzy bránia v tom, aby som Ťa spomínal a vychvaľoval Tvoje cnosti, ó Ty, Pán Trónu na výsostiach i dolu na zemi! Úpenlivo Ťa žiadam pri znameniach Tvojho kráľovstva a tajomstvách Tvojho panstva, aby si so Svojimi milovanými zaobchádzal tak, ako sa patrí Tvojej štedrosti, ó Pane celého bytia, a ako je hodno Tvojej milosti, ó Kráľu videného i nevideného.
+*Potom trikrát zopakujte Najväčšie meno, pokľaknite a čelom sa skloňte k zemi a rieknite:
+Buď pochválený, ó náš Bože, za to, že si nám zoslal to, čo nás k Tebe približuje a poskytuje nám všetko dobré, čo si zoslal vo Svojich knihách a písmach. Úpenlivo Ťa prosíme, ó môj Pane, ochraňuj nás pred prívalom planých výmyslov a márnych predstáv. V pravde, Ty si Mocný, Vševediaci.
+*Potom zdvihnite hlavu, sadnite si a rieknite:
+Dosvedčujem, ó môj Bože, to, čo dosvedčili Tvoji vyvolení, a uznávam to, čo uznali obyvatelia najvyššieho raja a tí, ktorí krúžili okolo Tvojho mocného Trónu. Kráľovstvá zeme a nebies patria Tebe, ó Pane svetov!
+
+(Source category: Dlhá povinná modlitba)
+(Bahaiprayers.net ID: 9990)

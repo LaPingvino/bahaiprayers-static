@@ -1,3 +1,0 @@
----
-title: "Kratka Obavezna Molitva"
----

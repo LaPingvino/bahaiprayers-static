@@ -1,3 +1,0 @@
----
-title: "Serviço à Causa"
----

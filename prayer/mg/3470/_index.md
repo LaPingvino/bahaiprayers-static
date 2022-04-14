@@ -1,3 +1,0 @@
----
-title: "ANTENIMIERA AM-PANAHY"
----

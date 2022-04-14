@@ -1,0 +1,14 @@
++++
+title = 'Prayer bpn636 in Deutsch'
+author = "Bahá'u'lláh"
+tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
++++
+Er ist Gott, der die Gebete hört und darauf antwortet!
+Bei Deiner Herrlichkeit, o mein Geliebter, Du Lichtquell der Welt! Die Flammen der Trennung haben mich verzehrt, mein Eigensinn hat mein Herz zum Schmelzen gebracht. Ich bitte Dich bei Deinem Größten Namen, Du Verlangen der Welt und Geliebter der Menschheit, gib, dass der Hauch Deiner Begeisterung meine Seele nähre, dass Deine wundersame Stimme an mein Ohr dringe, dass meine Augen Deine Zeichen und Dein Licht schauen, wie sie in den Offenbarungen Deiner Namen und Eigenschaften enthüllt sind, o Du, in dessen Griff alle Dinge liegen.
+Du siehst die Tränen, o Herr mein Gott, die Deine Begünstigten ob ihrer Trennung von Dir vergießen, und die Ängste der Dir Ergebenen in ihrer Ferne von Deinem Heiligen Hof. Bei Deiner Macht, die alle Dinge, sichtbar wie unsichtbar, beherrscht! Deine Geliebten müssen blutige Tränen vergießen über das Ungemach, was den Getreuen aus den Klauen der Gottlosen und Unterdrücker auf Erden widerfuhr. Du siehst, o mein Gott, wie die Frevler Deine Städte und Deine Reiche belagern. Ich bitte Dich, bei Deinen Boten, bei Deinen Auserwählten und bei Ihm, durch den das Banner Deiner göttlichen Einheit inmitten Deiner Diener gehisst ward, beschütze sie durch Deine Großmut. Du bist wahrlich der Gnädige, der Allgütige.
+Und weiter bitte ich Dich bei den lieblichen Schauern Deiner Gnade, bei den Meereswogen Deiner Gunst, bestimme für Deine Heiligen, was ihre Augen tröstet und ihre Herzen erfreut. Herr! Du siehst den, der da niederkniet im sehnsüchtigen Verlangen, sich zu erheben und Dir zu dienen; Du siehst den Toten, der nach ewigem Leben aus dem Meer Deiner Gunst dürstet, voll Sehnsucht, sich in die Himmel Deines Reichtums aufzuschwingen; den Fremdling, der sich nach seiner Wohnstatt der Herrlichkeit unter dem Baldachin Deiner Gnade sehnt, den Sucher, der durch Deine Barmherzigkeit dem Tor Deiner Großmut zueilt, den Sünder, der sich dem Meer Deiner Vergebung und Deines Verzeihens zuwendet.
+Bei Deiner höchsten Herrschaft, o Du, der Du verherrlicht bist in den Herzen der Menschen! Ich wende mich Dir zu und entsage meinem eigenen Wunsch und Willen, damit Dein heiliger Wille und Dein Wohlgefallen in mir herrsche und mich nach Deiner Vorsehung durch die Feder Deines ewigen Ratschlusses leite. O Herr, hilflos, wie er ist, wendet sich dieser Diener dem Himmelskreis Deiner Macht zu; erniedrigt eilt er der Morgenröte Deiner Herrlichkeit zu; in seiner Armut sehnt er sich nach dem Meer Deiner Gnade. Ich flehe Dich an bei Deiner Gunst und Großmut, stoße ihn nicht zurück!
+Du bist fürwahr der Allmächtige, der Vergebende, der Mitleidige.
+
+(Source category: Verfolgungen)
+(Bahaiprayers.net ID: 636)

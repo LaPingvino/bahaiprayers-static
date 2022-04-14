@@ -1,3 +1,0 @@
----
-title: "SREDNJA OBAVEZNA MOLITVA"
----

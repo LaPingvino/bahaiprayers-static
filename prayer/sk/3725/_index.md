@@ -1,3 +1,0 @@
----
-title: "Chvála a vďakyvzdanie"
----

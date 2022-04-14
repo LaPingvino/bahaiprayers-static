@@ -1,3 +1,0 @@
----
-title: "Epistolo al Aĥmad"
----

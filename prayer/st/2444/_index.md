@@ -1,3 +1,0 @@
----
-title: "Motlosi oa mathata"
----

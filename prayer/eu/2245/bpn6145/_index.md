@@ -1,6 +1,0 @@
-+++
-title = 'Prayer bpn6145 in Euskara'
-author = "Bahá'u'lláh"
-tags = ['lang-eu', 'bpn-unsorted', "Bahá'u'lláh"]
-+++
-Bihotz garbi bat irazan ezazu nire baitan, ene Jainkoa, eta barru lasaitasuna berriztu ezadazu, ene Itxaropen Horrek! Ahaltasun gogoaren bidez Zeure jatorrian baieztatu nazazu, ene Maitatu Horrek; eta Zeure aintzaren argiz, Zeure bidetxiorra erakutsi ezadazu, neure nahiaren Jomuga Zaren Horrek! Zeure indar gainditzailearen ahalaren bidez, Zeure santutasunezko zerurantz jaso nazazu, nire izatearen Iturri Zaren Horrek, eta Zeure betikotasunaren haizezkaz alaitu nazazu, neure Jainkoa Zaren Horrek! Zeure betiko soinuek lasaitasuna sortu dezatela nigan, ene Lagun Hori, eta Zeure antzinako arpegiaren aberastasunek edozertatik askatu nazaten utzi ezazu, Zeugandik ez beste edozertatik, ene Irakasle Hori, eta Zeure muin galezinaren agerkerako berriek alaitasuna ekarri dezadatela egizu, ageriaren ageriena eta izkutuaren izkutuena Zaren Horrek!

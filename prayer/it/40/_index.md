@@ -1,3 +1,0 @@
----
-title: "Prove e Difficoltà"
----

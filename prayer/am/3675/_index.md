@@ -1,3 +1,0 @@
----
-title: "ለውዳሴና ለምስጋና (Thanksgiving)"
----

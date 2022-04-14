@@ -1,3 +1,0 @@
----
-title: "KONTRIBUSION I FONDO"
----

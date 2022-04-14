@@ -1,3 +1,0 @@
----
-title: "Praise and Thanksgiving"
----

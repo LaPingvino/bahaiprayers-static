@@ -1,0 +1,11 @@
++++
+title = 'Prayer bpn1193 in Português (BR)'
+author = "Bahá'u'lláh"
+tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
++++
+Esta é a Epístola de Deus, O Amparo no Perigo, O Que Subsiste por Si Próprio!Ele é Quem, do Seu Domínio de Glória, tudo ouve. Deus testifica que nenhum outro Deus há, senão Ele, e Quem apareceu é o Mistério Oculto, o Símbolo Entesourado, o Livro de Suma Grandeza para todos os povos, e o Céu de generosidade para o mundo inteiro. Ele é o Mais Poderoso Sinal entre os homens, e o Alvorecer dos mais augustos atributos no domínio da criação. Por Seu intermédio apareceu aquilo que estivera oculto desde os tempos imemoriais e velado dos olhos humanos. É Aquele cuja Manifestação foi anunciada pelas Escrituras celestiais, nos tempos antigos e nos mais recentes. Quem n’Ele confessa a sua fé, bem como nos Seus sinais e testemunhos, terá reconhecido, verdadeiramente, aquilo que a Língua da Grandeza pronunciou antes da criação da terra e do céu e antes da Revelação do Reino dos Nomes. Por Seu intermédio surgiu entre a humanidade o oceano do conhecimento, e jorrou o rio da sabedoria divina, a mando de Deus, o Senhor dos Dias.
+Feliz o homem de discernimento que reconheceu e percebeu a Verdade, e aquele dotado de ouvido atento que escutou a Sua doce Voz; bem-aventurada a mão que tenha recebido o Seu Livro com tal resolução como provém de Deus, o Senhor deste mundo e do vindouro, e feliz o fervoroso caminhante que se apressou a recorrer ao Seu glorioso Horizonte, bem como aquele dotado de poder, o qual nem a sobrepujante força dos governantes, nem o tumulto incitado pelos dirigentes religiosos, pôde abalar. E infeliz quem rejeitou a graça de Deus e a Sua bondade e negou a Sua terna misericórdia e a Sua autoridade; tal homem inclui-se, em verdade, no número dos que por toda a eternidade repudiaram o testemunho de Deus e a Sua prova.
+Grande é a bem-aventurança daquele que neste Dia, tiver rejeitado as coisas correntes entre os homens e aderido àquilo ordenado por Deus, o Senhor dos Nomes, Quem moldou todas as coisas criadas, Quem veio do céu da eternidade, através do poder do Nome Supremo investido de tão invencível autoridade que nenhuma potência da terra Lhe consegue resistir. Disso dá testemunho o Livro-Mater, o qual chama da Mais Sublime Altura.
+
+(Source category: Dia de Deus)
+(Bahaiprayers.net ID: 1193)

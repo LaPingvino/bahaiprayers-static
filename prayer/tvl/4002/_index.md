@@ -1,3 +1,0 @@
----
-title: "MAUTAKITAKI I TE FEAGAIIGA"
----

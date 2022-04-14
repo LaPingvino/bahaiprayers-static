@@ -1,3 +1,0 @@
----
-title: "Remoção de Dificuldades"
----

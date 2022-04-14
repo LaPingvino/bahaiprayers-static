@@ -1,0 +1,18 @@
++++
+title = 'Prayer bpn11789 in Bidayuh'
+author = "Bahá'u'lláh"
+tags = ['lang-sne', '', "Bahá'u'lláh", "unsorted"]
++++
+Iyoh leh Topa, bigatung ayuh leh Iyoh, Raja perinduk – bitulut bait bia dek pingungin! 
+Ngin pimudi tudu Ingan, Ingan, O Topa ku, Raja dek ogi kuasa ayuh. Oku ngakue Ingan dek kakue kuasa ayuh bia kekuatan Ingan, kedaulatan Ingan bia perinduk-bitulut bait Ingan, budi Ingan bia kuasa Ingan, Pingidip sadik Ingan bia Kesatuan sejati Ingan, pingudus Ingan duoh bigatung ngilobih dunia dotin bia sua dek daang eh. 
+O Topa ku! Ingan ogi ninga oku bitoggant sok sua jok-eh Ingan, bikagient togap tudu Ingan bia ngaduap laut pingungin Ingan, tudu longit pinyukung Ingan, tudu Bitang Singonu Ingan dek bibudi.
+Raja! Oku ngakon nang daang ulunt Ingan, Ingan mbok gant Amanah Ingan, bia inoh leh Roh pakai ngan Ingan ngin idip tudu dunia. Oku mitia ndu Ingan pakai sok timogah ayuh Olung Revelasi Ingan, dengan masik terima sok iyoh onik dek mbok nai-eh daang selamak onu Ingan. Ngibonar mei tiyak sak iyoh suwak duwoh pimulia paguh-moon Ingan bia obuah ngabunt pakai persetujuan Ingan. 
+O Raja ku! Odop ku senirik bia sua onik dek obuah motan ngakon kekuatan Ingan, lasuk ku bidoa tudu Ingan mbak yak kadi sok Odop Ingan roh tih de mbok ma’ad tudu Ingan, tudu topat Ingan dek surga, Surga sanyung Ingan bia ngilonah sinok Ingan, O Ingan leh dek jadin Raja sua manusia!
+Ngibonar, adin, O Topa ku, sak ulunt Ingan tih tungang bitapod duwoh bala tipilih Ingan, bala kudus Ingan bia bala Pingutus Ingan daang topat-topat dek surga dek dik pen tungang tanon bait pun yak sobot pakai jolae.
+O Raja ku! Iyoh dek botak tih mok totap bigaut odi tudu Pritah Topa pangikaya Ingan, dek saluh-ba’uh ndu boli-eh daang pangijaga Ingan, iyoh dek sikia bodoh asong tudu sungei surga pingungin Ingan. Mbak yak ngibasat iyoh, O Raja, sok duman-eh dek ngidoon iyoh sok budi Ingan bia dek sok pingodak pingungin Ingan. Ingan leh daang dek sibonar-eh dek Paling Doras, dek Bibudi, dek Paling Pingungin.
+O Topa ku, Amanah Ingan mbok palik tudu Ingan. Iyoh arap-arap budi Ingan duoh pingungin Ingan de mbok pilulung kuasa merintah ndu tanak duoh dek daang surga, odak murah otin ngin hadiah tudu tetamu ba’uh Ingan bia pangipisoh Ingan, bia buak- buak sok tongont koyuh budi Ingan! Bikuasa leh Ingan mana wat dek suka Ingan, doie Topa dibokon pak-eh Ingan, dek Bibudi, dek Doras ngin, dek Pinyukup, dek Pisoh, dek Pimaaf, dek Biloga, dek Paling Pu’ant. 
+Oku ngaku, O Raja ku, nang Ingan mbok merintah odak manusia pimodo duwoh tetamu, jek iyoh tih mbok ma’ad odi tudu Ingan mbok totap nog Ingan duoh so’ont Pimonog Ingan. Biloneng negeh duwoh iyoh adin bijodo dek tudu budi Ingan bia pingungin! Pak pimulia Ingan, oku pu’ant dengan pasti nang Ingan dik yak jaman Odop Ingan yak ngin onik dek mbok nitah Ingan tudu ulunt-ulunt Ingan, idoh geh dik Ingan yak pilusut iyoh dek mbok bipawoh tudu tolint pingungin Ingan bia mbok ma’ad tudu musim bunga pangikaya Ingan.
+Doie Topa dibokon pak-eh Ingan, dek Ndi, dek Sadik-Sadik, dek Bikuasa, dek Pu’ant Punuae, dek Pingungin.
+
+(Source category: Doa Sa’ant Nya’a Dek Kobos)
+(Bahaiprayers.net ID: 11789)

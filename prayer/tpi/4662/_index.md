@@ -1,3 +1,0 @@
----
-title: "THANKS TO GOD"
----

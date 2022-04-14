@@ -1,3 +1,0 @@
----
-title: "Megpróbáltatások és nehézségek"
----

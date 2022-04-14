@@ -1,3 +1,0 @@
----
-title: "Parannus ja terveys"
----

@@ -1,3 +1,0 @@
----
-title: "Rugciriku : NDANGO YAPAMPEP"
----

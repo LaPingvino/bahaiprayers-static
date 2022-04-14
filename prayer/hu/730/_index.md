@@ -1,3 +1,0 @@
----
-title: "Tábla ahmedhez"
----

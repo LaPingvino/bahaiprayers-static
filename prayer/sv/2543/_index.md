@@ -1,3 +1,0 @@
----
-title: "Lång obligatorisk bön"
----

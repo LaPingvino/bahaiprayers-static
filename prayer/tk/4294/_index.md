@@ -1,3 +1,0 @@
----
-title: "Dostluk We Agzybirlik"
----

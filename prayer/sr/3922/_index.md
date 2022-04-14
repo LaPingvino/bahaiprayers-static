@@ -1,3 +1,0 @@
----
-title: "DUHOVNA SKUPŠTINA"
----

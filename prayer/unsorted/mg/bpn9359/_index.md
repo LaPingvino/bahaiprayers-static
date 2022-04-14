@@ -1,0 +1,12 @@
++++
+title = 'Prayer bpn9359 in Malagasy'
+author = "Bahá'u'lláh"
+tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
++++
+Izy Ilay Mpanome, Ilay Onena olona!
+Dera ho an’Andriamanitra, Ilay Fahagola, Ilay Mendrikaja mandrakizay, Ilay tsy miova, Ilay Maharitra mandrakizay! Izy, izay vavolombelon’ny maha-Izy Azy, izay marina tokoa fa Izy no Ilay Iray, Ilay Tokana, Ilay tsy refesi-mandidy, Ilay Ambony.
+Vavolombelona isika fa marina tokoa tsy misy Andriamanitra hafa afa-tsy Izy, miaiky ny maha- Tokana Azy, manaiky ny maha-Iray Azy. Hatrizay dia nonina tao amin’ny toerana avo tsy hay tomorina Izy, teo amin’ny tendron’ny Voninahiny, namasinina tamin’ny fanononana rehetra afa-tsy Izy irery ihany, lavitry ny famaritana hafa afa-tsy amin’ny Tenany ihany.
+Ary rehefa nikasa haneho ny fahasoavany sy ny hatsaram-pony amin’ny olona Izy ary hanangana ny fandaminana eo amin’izao tontolo izao, dia nanambara didy sy namorona lalàna, anisan’izany, nanangana ny lalànan’ny fanambadiana Izy, nanao  azy ho toy ny  mandan’ny fiadanana sy famonjena, ary nandidy izany tamintsika  ao amin’izay nampidinina avy eny an-danitry ny fahamasinana ao amin’ny Bokiny Tena Masina Indrindra. Hoy Izy – lehibe ny Voninahiny -: “Manambadia ianareo, ry vahoaka o, mba avy aminareo no hipoiran’izay hahatsiaro Ahy eo anivon’ny mpanompoko. Izany dia iray amin’ireo baikoko ho anareo, Ankatoavy izany mba ho fitahina ho anareo.”
+
+(Source category: FAHAMARINANA)
+(Bahaiprayers.net ID: 9359)

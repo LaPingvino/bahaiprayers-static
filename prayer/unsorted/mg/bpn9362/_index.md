@@ -1,0 +1,20 @@
++++
+title = 'Prayer bpn9362 in Malagasy'
+author = "Bahá'u'lláh"
+tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
++++
+Andriamanitra Izy, Ilay Deraina, Ilay Tompon’ny Halemem-panahy sy ny fangorahana!
+Voninahitra ho Anao, ry Andriamanitro ô, Ilay Tompo Tsitoha. Izaho dia vavolombelon‘ny Fanananao fahefana, ny Herinao, ny Fiandriananao, ny Fahasoavanao be fitiavana, ny Famindramponao sy ny Fahefanao, ny maha-Tokana ny Fisianao sy ny maha-Iray ny tena maha-Izy Anao, ny Fahamasinanao sy ny Fisandratanao ambonin’ny tontolo ety an-tany sy izay rehetra misy eo aminy.
+
+Ry Andriamanitro ô! Hitanao aho fa tsy miraiki-po amin-javatra hafa afa-tsy Aminao, mifikitra mafy Aminao sy mitodika any amin’ny ranomasimben’ny Fahasoavanao, eny amin’ny lanitry ny Fahasoavanao sy ny kintana marainan’ny Famindramponao.
+Ry Tompo! Vavolombelona aho fa ao amin‘ny mpanomponao dia nametrahanao ny Fahatokisanao, ary izany dia ny Fanahy izay nanomezanao aina an’izao tontolo izao.
+Mangataka Aminao aho, noho ny famirapiratrin’ny Faribolan’ny Fanambaranao, hanaiky am-pankasitrahana avy aminy izay notanterahana tamin’ny Andronao. Atolory ho azy, noho izany, ny ho feno ny voninahitrin’ny Sitraponao ary haingoy amin’ny  Fankatoavanao izy.
+Ry Tompoko ô! Izaho manokana ary ireo voahary rehetra dia vavolombelona amin’ny Herinao, ary mivavaka Aminao aho mba tsy ho sarahinao Aminao ity fanahy izay nisandratra any Aminao, mankany amin’ny Toeran-danitrao, ny Paradisanao ambony indrindra ary ny Fialantsasatry ny fanakaikezana Anao, O Ianao izay Tompon’ny olon-drehetra!
+Aoka, ry Andriamanitro, ny mpanomponao hiombona amin’ny olom-boafidinao, ny Olo-masinao sy ny Mpitondra Hafatrao, ao amin’ireo toeran-danitra izay tsy hain’ny penina soratana na ny lela tantaraina.
+O Ry Tompoko, ity mahantra ity, marina tokoa, dia dodona ho eny amin’ny Fanjakan’ny Harenao, ity mpivahiny ho eny amin’ny ankaniny ao anatin’ny Manodidina Anao, izy izay mangetaheta mafy ho eny amin’ny onin’ny Halemem-panahinao. Aza avela ho diso anjara izy, ry Tompo, amin’ny fanasam-ben’ny Famindramponao sy amin’ny fahasoavan’ny Halemem-panahinao. Ianao marina tokoa Ilay Mahery Indrindra, Ilay Manam-pitiavana, Ilay be Fiantra Indrindra.
+Ry Andriamanitro ô, niverina tany Aminao ity Petrakao.  Anjaran’ny Fahasoavanao sy ny Fangorahanao, izay nihodidina ny Fanapahanao any an-danitra sy ety an-tany, ny manolotra ho an’ity vahiny vaovao tongasoa ity  ny Fanomezana sy Tolotra avy any Aminao, ary ny voan’ny Hazon’ny Fahasoavanao! Manam-pahefana hanao izay sitrakao Ianao. Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Manam-pitiavana, Ilay Be Fiantrana Indrindra, Ilay Be Fangorahana, Ilay Mpanome, Ilay Mpamela heloka, Ilay Sarobidy, Ilay Mpahalala ny zavatra rehetra.
+Vavolombelona aho, ry Tompoko ô, fa nandidy ny olona Ianao hanaja ny vahininy ary izay niakatra ho any Aminao, marina tokoa, dia tonga hatrany Aminao ary nanatratra ny Fanatrehanao. Ataovy aminy, noho izany izay mifanaraka amin’ny Fahasoavanao sy ny Fangorahanao. Noho ny Voninahitrao, mino marina aho fa tsy hanaisotra amin’izay nodidinao ho an’ny mpanomponao Ianao ary tsy handiso anjara ny Fanomezanao ho an’izay nifikitra tamin’ny rohim-pangorahanao sy nisandratra hatrany amin’ny Fiposahan’ny  Harenao.
+Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Tokana, Ilay tsy Manam-paharoa, Ilay Manampahefana, Ilay Mpahalala ny zavatra rehetra, Ilay onena olona.
+
+(Source category: FAHAFATESANA)
+(Bahaiprayers.net ID: 9362)

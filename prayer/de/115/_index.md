@@ -1,3 +1,0 @@
----
-title: "Führung und Erkenntnis"
----

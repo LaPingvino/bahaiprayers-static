@@ -1,0 +1,9 @@
++++
+title = 'Prayer BH01554HUQ in Português (BR)'
+author = "Bahá'u'lláh"
+tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
++++
+Magnificado és Tu, ó Senhor da criação inteira, Aquele a Quem todas as coisas devem volver-se. Com a minha língua interior e exterior dou testemunho de que Tu Te tens manifestado e revelado, mandado descer os Teus sinais e proclamado as Tuas provas. Atesto a Tua auto-suficiência de tudo salvo de Ti e a Tua Santidade acima de todas as coisas terrenas. Suplico-Te, pela transcendente glória da Tua Causa e pela suprema potência da Tua Palavra, que concedas confirmação àquele que desejar ofertar aquilo que Tu lhe prescreveste no Teu Livro e que observe aquilo que difundirá a fragrância da Tua aceitação. Em verdade, Tu és o Todo-Poderoso, o Todo-Misericordioso, o Todo-Clemente, o Todo-Generoso.
+
+(Source category: Huqúqu’lláh)
+(Bahaiprayers.net ID: 1336)

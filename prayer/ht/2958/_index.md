@@ -1,3 +1,0 @@
----
-title: "Priyè Ahmad la"
----

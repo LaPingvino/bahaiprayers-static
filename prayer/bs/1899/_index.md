@@ -1,3 +1,0 @@
----
-title: "Duhovno Vijeće"
----

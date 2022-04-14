@@ -1,3 +1,0 @@
----
-title: "Lavdërim dhe mirënjohje"
----

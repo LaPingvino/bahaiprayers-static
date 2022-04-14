@@ -1,3 +1,0 @@
----
-title: "Tablica Aḥmada"
----

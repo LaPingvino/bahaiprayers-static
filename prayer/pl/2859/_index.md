@@ -1,3 +1,0 @@
----
-title: "Wysławianie i wdzięczność"
----

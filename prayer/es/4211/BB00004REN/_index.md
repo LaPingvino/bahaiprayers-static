@@ -1,9 +1,0 @@
-+++
-title = 'Prayer BB00004REN in Español'
-author = "Báb"
-tags = ['lang-es', 'BB00004REN', "Báb"]
-+++
-Gloria sea a Ti, oh Señor, Tú que has traído a la existencia todas las cosas creadas, mediante el poder de Tu mandato.
-¡Oh Señor! Ayuda a aquellos que han renunciado a todo cuanto no seas Tú, y confiéreles una gran victoria. ¡Oh Señor! Haz descender sobre ellos el concurso de los ángeles del cielo y de la tierra y de todo cuanto hay entre ellos, para que asistan a Tus siervos, los socorran y los fortalezcan, les faciliten el éxito, los apoyen, los invistan de gloria, les confieran honor y exaltación, los enriquezcan y les hagan triunfar con una maravillosa victoria.
-Tú eres su Señor, el Señor de los cielos y de la tierra, el Señor de todos los mundos. Fortalece esta Fe, oh Señor, mediante el poder de estos siervos, y haz que prevalezcan sobre todos los pueblos del mundo; pues, en verdad, ellos son siervos Tuyos que se han desprendido de todo excepto de Ti y, ciertamente, Tú eres el protector de los verdaderos creyentes.
-¡Oh Señor! Permite que, mediante su fidelidad a esta inviolable Fe Tuya, sus corazones se hagan más fuertes que todo lo que hay en los cielos y en la tierra y cuanto existe entre ellos; y fortalece, oh Señor, sus manos con las señales de Tu maravilloso poder para que manifiesten Tu dominio ante la mirada de toda la humanidad.

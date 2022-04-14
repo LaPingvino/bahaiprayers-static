@@ -1,3 +1,0 @@
----
-title: "TALBA OBBLIGATORJA QASIRA"
----

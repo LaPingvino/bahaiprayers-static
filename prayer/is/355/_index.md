@@ -1,3 +1,0 @@
----
-title: "Kennsla og þjónusta"
----

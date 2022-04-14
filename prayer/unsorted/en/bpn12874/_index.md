@@ -1,0 +1,17 @@
++++
+title = 'Prayer bpn12874 in English'
+author = "Abdu'l-Bahá"
+tags = ['lang-en', '', "Abdu'l-Bahá", "unsorted"]
++++
+He is God.
+
+O Lord, my God, my Best-Beloved, my Aim, my heart’s Desire! This, verily, is the first of the days of Riḍván. It is come with joy and delight, exultation and rapture. The winds are wafting, the clouds are raining down, and the sun is shining forth through Thy bountiful grace. The morning breeze bloweth over hill and dale in this wondrous Springtime, as a token of Thine inestimable favour, transforming these lands into a fine brocade of incomparable hues and a silken carpet begemmed with flowers and adorned with a vesture of verdant leaves that dazzle the eyes with their gleaming splendour. The breezes blow gently, the fresh streams flow softly, and the meads are adorned with bloom; the groves are lush, the clouds are rich with rain, and the stars are aglow through Thy gracious providence. This dust-heap of a mortal world hath been made green and lustrous by Thy bounty, and the earth hath become an eternal paradise‎ through Thy mercy, O my God, inasmuch as Thy day of Riḍván hath arrived, girded with majesty and invested with sovereignty, flooding creation with beams of light like unto a star, and accompanied by a procession of fervour and joy. Riḍván hath pitched its tent with dazzling splendour in the midmost heart of the world, and led its hosts and sent forth its troops far and wide to the uttermost corners of Paradise.
+
+Thus have the hearts of Thy loved ones overflowed with joy and rapture and been carried away in happiness and bliss by Thy sweet savours. They have arisen with yearning and longing to praise Thee, “and drink of a pure beverage shall their Lord give them”. Praise be to Thee, O my God, for all that Thou hast graciously granted us. Thanks be to Thee, O my Hope, for the bounties Thou hast conferred upon us. Blessings be upon Thee, O my Best-Beloved, for the favours Thou hast chosen to bestow upon us.
+
+O God, my God! O Thou Who art the Goal of my desire! Unlock before the faces of Thy loved ones the portals of Thy favours on this perspicuous day. Hoist the sails of guidance above their heads in the Crimson Ark. Cause them to be gathered beneath the standard of Thy bounty and generosity, and send down upon them the sign of Thy grace in the midmost heart of creation. O Lord my God! Make them radiant stars, resplendent lamps, brilliant orbs, and blazing meteors, so that they may arise to serve Thee amongst Thy creatures, kindle the fire of Thy love in the hearts of Thy people, scatter abroad Thy signs throughout Thy realms, and edify the souls of all that dwell on earth. Then shall Thy heavenly repast be outspread throughout the world, this contingent plane become the Abhá Paradise by the power of Thy might, and this nether dust be made the envy of the high heavens through the outpourings of Thy wisdom.
+
+O Lord! Make of Thy loved ones celestial angels who inhabit Thine earth, and enable Thy chosen ones to become heavenly people who reside in Thy realm. This, indeed, is the highest aspiration of Thy servant who hath humbled himself before Thy sovereignty, bowed down in adoration before Thy door, prostrated himself before Thy glory, and fallen upon the dust before the power of Thy sovereign might. Thou art the Bestower, the Compassionate, the Almighty, the All-Bountiful.
+
+(Source category: Ridván)
+(Bahaiprayers.net ID: 12874)

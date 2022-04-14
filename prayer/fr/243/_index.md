@@ -1,3 +1,0 @@
----
-title: "Enseignement et service"
----

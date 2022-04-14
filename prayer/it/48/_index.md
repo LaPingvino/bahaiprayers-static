@@ -1,3 +1,0 @@
----
-title: "Tavola di Ahmad"
----

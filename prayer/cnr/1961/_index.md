@@ -1,3 +1,0 @@
----
-title: "Jedinstvo i Mir"
----

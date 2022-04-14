@@ -1,3 +1,0 @@
----
-title: "Taula del Foc"
----

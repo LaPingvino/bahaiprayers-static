@@ -1,3 +1,0 @@
----
-title: "GORERE HANAMOA GURIGURI"
----

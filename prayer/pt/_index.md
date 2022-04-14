@@ -1,4 +1,0 @@
----
-title: "Português (BR)"
-rtl: ""
----

@@ -1,3 +1,0 @@
----
-title: "Viếng Nơi Thánh"
----

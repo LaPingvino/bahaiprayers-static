@@ -1,3 +1,0 @@
----
-title: "Bəşəriyyət üçün dualar"
----

@@ -1,3 +1,0 @@
----
-title: "Tableta de Ridvan"
----

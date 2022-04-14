@@ -1,3 +1,0 @@
----
-title: "KETEGUHAN DALAM WAADAT"
----

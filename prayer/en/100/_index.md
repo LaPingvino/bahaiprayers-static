@@ -1,3 +1,0 @@
----
-title: "Tablets of Visitation"
----

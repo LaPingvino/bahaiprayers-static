@@ -1,3 +1,0 @@
----
-title: "Den Hellige Søfarer"
----

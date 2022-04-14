@@ -1,3 +1,0 @@
----
-title: "LOTU FAKAFETAI I TE TAIPOLA"
----

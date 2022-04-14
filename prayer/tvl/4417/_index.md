@@ -1,3 +1,0 @@
----
-title: "LOTO-MMAU / FAKATUANAAKI"
----

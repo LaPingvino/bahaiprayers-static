@@ -1,8 +1,0 @@
-+++
-title = 'Prayer bpn1696 in Íslenska'
-author = "Bahá'u'lláh"
-tags = ['lang-is', 'bpn-unsorted', "Bahá'u'lláh"]
-+++
-Lofaður sért Þú, ó Drottinn Guð minn! Ég ber því vitni að um eilífð hefur Þú verið upphafinn í yfirskilvitlegri tign Þinni og mikilleika, og Þú munt vara að eilífu í ofurvaldi Þínu og dýrð. Eng­inn í ríkjum jarðar né himna getur komið í veg fyrir áform Þín. Í gjörvallri opinberun Þinni og sköpun getur enginn drottnað gegn Þér. Þú gerir að boði Þínu það sem Þér líst og Þú ríkir í krafti yfirráða Þinna eins og Þér þóknast.
-Ég sárbæni Þig, ó Þú sem lætur daginn renna, við ljósgjafann sem Þú kveiktir með eld ástar Þinnar í augsýn allra á himnum og jörðu og nærir loga hans með ljósmeti visku Þinnar í ríki sköpunar Þinnar, að ég verði meðal þeirra sem hafa svifið í heiði Þínu og beygt vilja sinn undir ákvörðun Þína.
-Ég er einskær eymd, ó Drottinn minn, og Þú ert hinn voldugasti, hinn almáttugi. Sjá aumur á mér með náð Þinni og örlátri hylli og hjálpa mér náðar­samlega að þjóna Þér og þeim sem Þér eru kærir. Þú gerir það sem Þér þóknast. Enginn er Guð nema Þú, Guð valds, dýrðar og visku.

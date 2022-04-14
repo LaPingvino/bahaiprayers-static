@@ -1,3 +1,0 @@
----
-title: "Middellang Obligatorisk Bøn"
----

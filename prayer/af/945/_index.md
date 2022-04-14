@@ -1,3 +1,0 @@
----
-title: "Dag van God"
----

@@ -1,3 +1,0 @@
----
-title: "Medellång obligatorisk bön"
----

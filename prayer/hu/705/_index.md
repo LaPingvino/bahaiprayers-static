@@ -1,3 +1,0 @@
----
-title: "Rövid kötelező ima"
----

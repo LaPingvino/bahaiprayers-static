@@ -1,3 +1,0 @@
----
-title: "KENDURI SEMBILAN BELAS HARI"
----

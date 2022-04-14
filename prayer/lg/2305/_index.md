@@ -1,3 +1,0 @@
----
-title: "ABAAMI ABAFUMBO"
----

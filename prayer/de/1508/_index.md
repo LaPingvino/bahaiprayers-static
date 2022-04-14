@@ -1,3 +1,0 @@
----
-title: "Besuchsgebet - Zíyárat-Námih"
----

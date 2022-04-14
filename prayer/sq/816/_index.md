@@ -1,3 +1,0 @@
----
-title: "Vendosmëria në besëlidhje"
----

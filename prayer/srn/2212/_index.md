@@ -1,3 +1,0 @@
----
-title: "Bijstand bij beproevingen"
----

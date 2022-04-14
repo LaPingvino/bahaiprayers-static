@@ -1,3 +1,0 @@
----
-title: "Isten ügyének kezei"
----

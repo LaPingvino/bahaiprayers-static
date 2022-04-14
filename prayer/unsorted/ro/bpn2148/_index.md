@@ -1,0 +1,14 @@
++++
+title = 'Prayer bpn2148 in România'
+author = "Abdu'l-Bahá"
+tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
++++
+El este Dumnezeu! O, Doamne
+Dumnezeul meu! Aceştia sunt slujitori care în vremea zilelor Tale au fost atraşi de miresmele sfinţeniei Tale, aprinşi de flacăra arzândă în copacul Tău sfânt, răspunzând vocii Tale, rostind laude pentru Tine, treziţi de adierea Ta, răscoliţi de dulcile Tale arome privind semnele Tale, înţelegând versetele Tale, grăbindu-se să dea ascultare cuvintelor Tale, crezând în Revelaţia Ta şi încredinţaţi de bunătatea Ta duioasă. Ochii lor, o, Doamne, sunt aţintiţi asupra împărăţiei gloriei Tale strălucitoare, iar feţele lor s-au îndreptat către stăpânirea Ta din înalturi, inimile lor bat din iubire pentru frumuseţea Ta strălucitoare şi glorioasă, sufletele lor sunt mistuite de flacăra iubirii Tale, o, Stăpâne al acestei lumi şi a lumii ce va să fie, vieţile lor clocotesc cu ardoare de dorul lor pentru Tine şi lacrimile lor curg de dragul Tău.
+
+Adăposteşte-i în fortăreaţa ocrotirii şi pazei Tale, apără-i cu grija Ta vigilentă, priveşte-i cu ochii providenţei şi milostivirii tale, fă-i semne ale unităţii Tale divine ce se arată în toate ţinuturile, stindarde ale tăriei Tale ce flutură deasupra palatelor măririi, lămpi strălucitoare ce ard uleiul înţelepciunii Tale în globurile călăuzirii Tale, păsări ale grădinii cunoaşterii Tale ciripind pe ramurile cele mai înalte din paradisul Tău protector şi uriaşi ai oceanului mărinimiei Tale, cufundându-se prin suprema Ta milostivire în adâncuri de nepătruns.
+
+O, Doamne Dumnezeul meu! Umili sunt aceşti slujitori ai Tăi, ridică-i în împărăţia Ta din înalturi; sunt plăpânzi, întăreşte-i prin puterea Ta suverană; sunt înjosiţi, acordă-le glorie în tărâmul Tău cel preaînalt; sunt săraci, îmbogăţeşte-i în marea Ta stăpânire. Hărăzeşte-le, apoi, tot binele pe care l-ai sorocit lumilor Tale, văzute şi nevăzute, fă-i să prospere în această lume pământească, bucură-le inimile cu inspiraţia Ta, o, Stăpâne a tuturor fiinţelor! Luminează-le inimile cu veştile Tale pline de bucurie răspândite prin Rangul Tău Atotslăvit, fă paşii lor statornici în măreţul Tău Legământ şi întăreşte-i în fermul Tău Testament prin mărinimia Ta şi harul Tău făgăduit, o, Tu Cel Milostiv şi Plin de Har! Tu eşti, cu adevărat, Cel Îngăduitor, Cel Atotmărinimos.
+
+(Source category: Calităţi Spirituale)
+(Bahaiprayers.net ID: 2148)

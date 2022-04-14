@@ -1,0 +1,12 @@
++++
+title = 'Prayer bpn11495 in Español'
+author = "Báb"
+tags = ['lang-es', '', "Báb", "unsorted"]
++++
+Concédeme, oh mi Dios, la plenitud de Tu amor y Tu complacencia, y, con la atracción de Tu luz resplandeciente, extasía nuestros corazones, oh Tú que eres la Evidencia Suprema y el Todoglorificado. Como señal de Tu gracia, sopla sobre mí Tus brisas vivificadoras durante el día y por la noche, oh Señor de munificencia.
+Ninguna acción he realizado, oh mi Dios, que me haga merecedor de contemplar Tu rostro, y sé de cierto que, aunque viviera tanto tiempo como dure el mundo, no lograría realizar acción alguna que mereciera este favor, pues la condición de un siervo jamás le permitirá acceder a Tus sagrados recintos, a no ser que Tu generosidad me alcance y Tu tierna misericordia me inunde, y Tu bondad me circunde.
+Toda alabanza sea para Ti, oh Tú, aparte de Quien no hay otro Dios. Permíteme, bondadosamente, ascender hacia Ti, obtener el honor de habitar en Tu cercanía y tener comunión únicamente contigo. No hay Dios sino Tú.
+En verdad, si desearas otorgar bendiciones a un siervo, borrarías del dominio de su corazón cualquier mención o inclinación excepto Tu propia mención; y, si ordenaras el mal para algún siervo, debido a lo que sus manos han obrado injustamente ante Tu rostro, lo pondrías a prueba con los beneficios de este mundo y del venidero, para que quedara absorto en ellos y olvidara Tu recuerdo.
+
+(Source category: Cualidades espirituales)
+(Bahaiprayers.net ID: 11495)

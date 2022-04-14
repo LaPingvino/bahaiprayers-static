@@ -1,3 +1,0 @@
----
-title: "Încercări şi Dificultăţi"
----

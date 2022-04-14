@@ -1,3 +1,0 @@
----
-title: "Ruhy Kämillik Dilemek"
----

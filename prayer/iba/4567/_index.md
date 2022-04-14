@@ -1,3 +1,0 @@
----
-title: "SAMBIANG OBLIGATORI Tl PANJAI"
----

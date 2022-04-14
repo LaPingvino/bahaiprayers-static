@@ -1,4 +1,0 @@
----
-title: "Lietuvių"
-rtl: ""
----

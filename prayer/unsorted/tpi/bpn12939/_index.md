@@ -1,0 +1,11 @@
++++
+title = 'Prayer bpn12939 in Tok Pisin'
+author = "Bahá'u'lláh"
+tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
++++
+O Bikpela!  Yu lukim olsem mipela i apim han bilong mipela i go long heven bilong lav na blesing bilong Yu.  Inap Yu pulapim han bilong mipela wantaim gutpela na bikpela lav bilong Yu.  Inap Yu pogivim mipela.  Na pogivim ol papa na ol mama bilong mipela. Na inapim ol laik bilong mipela long solwara bilong marimari na gutpela bilong Yu.  O Lewa bilong mipela!  Inap Yu oraitim ol wok mipela i bin mekim long rot bilong Yu.  Tru tumas.  Pawa Bilong Yu I Antap Olgeta.  Yu Stap Antap Olgeta.  I No Gat Narapela Olsem Yu.  Yu Wanpela Tasol I Stap.  Yu Save Pogivim Ol Rong.  Yu Save Marimari Long Olgeta Man. 
+
+Thou seest, O Lord, our suppliant hands lifted up towards the heaven of Thy favor and bounty.  Grant that they may be filled with the treasures of Thy munificence and bountiful favors.  Forgive us, and our fathers and our mothers, and fulfill whatsoever we have desired from the ocean of Thy grace and Divine generosity.  Accept, O Beloved of our hearts all our works in Thy path.  Thou art, verily, the Most Powerful, the Most Exalted, the Incomparable, the One, the Forgiving, the Gracious.
+
+(Source category: PARENTS)
+(Bahaiprayers.net ID: 12939)

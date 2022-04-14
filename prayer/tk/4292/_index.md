@@ -1,3 +1,0 @@
----
-title: "Çagalar We Ýaşlar"
----

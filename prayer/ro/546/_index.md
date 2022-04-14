@@ -1,3 +1,0 @@
----
-title: "Cartea Legământului"
----

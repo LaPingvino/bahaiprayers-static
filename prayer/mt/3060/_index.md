@@ -1,3 +1,0 @@
----
-title: "Żamma fis-sod"
----

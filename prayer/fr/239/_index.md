@@ -1,3 +1,0 @@
----
-title: "Contributions aux Fonds"
----
