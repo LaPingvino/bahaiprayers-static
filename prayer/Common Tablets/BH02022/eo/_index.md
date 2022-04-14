@@ -1,5 +1,5 @@
 +++
-title = 'Prayer BH02022 in Esperanto'
+title = 'Tablet of Ahmad in Esperanto'
 author = "Bahá'u'lláh"
 tags = ['lang-eo', '', "Bahá'u'lláh", "Common Tablets"]
 +++

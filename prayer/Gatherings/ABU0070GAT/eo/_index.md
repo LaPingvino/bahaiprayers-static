@@ -1,0 +1,9 @@
++++
+title = 'Prayer ABU0070GAT in Esperanto'
+author = "Abdu'l-Bahá"
+tags = ['lang-eo', '', "Abdu'l-Bahá", "Gatherings"]
++++
+Ho Vi, bonema Dio! Jen Viaj geservantoj, kiuj kolektiĝis en tiu ĉi kunveno, sin turnis al Via regno kaj bezonas Vian favoron kaj benon. Ho Vi Dio! Malkaŝu kaj evidentigu la signojn de Via ununureco entenatajn en ĉiuj realoj de la vivo. Revelaciu kaj disvolvu la virtojn, kiujn Vi metis latentaj kaj kaŝitaj en tiujn ĉi homajn realojn. Ho Dio! Ni estas kvazaŭ plantoj, kaj Via malavaro estas kiel la pluvo; refresigu kaj kreskigu tiujn ĉi plantojn per Via donacado. Ni estas Viaj servantoj; liberigu nin el la katenoj de materia ekzisto. Ni estas sensciaj; saĝigu nin. Ni estas mortaj; vivigu nin. Ni estas materiaj; dotu nin per spirito. Ni estas senprivilegiaj; malkaŝu al ni Viajn misterojn. Ni estas senhavaj; riĉigu kaj benu nin el Via senlima trezorejo. Ho Dio! Revivigu nin; donu al ni vidkapablon; donu al ni aŭdkapablon; kutimigu nin je la misteroj de la vivo, por ke la sekretoj de Via regno revelaciiĝu al ni en ĉi mondo de ekzisto kaj ke ni konfesu Vian ununurecon. Ĉiu donaco devenas de Vi; ĉiu beno estas Via. Vi estas potenca. Vi estas forta. Vi estas la Donanto, kaj Vi estas la Ĉiam-Malavara.
+
+(Source category: Renkontiĝo)
+(Bahaiprayers.net ID: 4323)

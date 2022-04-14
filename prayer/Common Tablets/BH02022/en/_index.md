@@ -1,5 +1,5 @@
 +++
-title = 'Prayer BH02022 in English'
+title = 'Tablet of Ahmad in English'
 author = "Bahá'u'lláh"
 tags = ['lang-en', '', "Bahá'u'lláh", "Common Tablets"]
 +++
