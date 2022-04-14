@@ -238,7 +238,7 @@ func SavePrayer(prayer Prayer, path ...PathElement) {
 			prayerCode := PrayerCode(prayer.Id, false)
 			if prayerCode != "" {
 				dir += prayerCode + "/"
-				title = prayerCode
+				title = PrayerName(prayerCode)
 			} else {
 				continue
 			}
