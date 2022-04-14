@@ -263,9 +263,9 @@ func SavePrayer(prayer Prayer, path ...PathElement) {
 				if err != nil {
 					panic(err.Error())
 				}
-				f.WriteString(fmt.Sprintf(`---
+				f.WriteString(fmt.Sprintf(`+++
 title = "%s"
----
++++
 `, title))
 				f.Close()
 			}
