@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9532 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Beproevingen en moeilijkheden"]
 +++
 Verheerlijkt zijt Gij, o Heer mijn God! Ieder weldenkend mens belijdt Uw soevereiniteit en Uw heerschappij, en ieder onderscheidend oog neemt de grootheid van Uw majesteit en de onweerstaanbare kracht van Uw macht waar. De storm van bezoekingen kan hen die U nabij zijn niet beletten om hun gelaat naar de horizon van Uw glorie te richten, en de stormen van beproevingen zullen er niet in slagen hen die Uw wil geheel zijn toegewijd te belemmeren Uw hof te naderen, of hen ervan weg te houden.
 Mij dunkt, de lamp van Uw liefde brandt in hun hart en het licht van Uw genegenheid is ontstoken in hun borst. Zij kunnen niet door tegenslagen van Uw Zaak vervreemd worden, en de wisselvalligheden van het lot kunnen hen nooit doen afdwalen van Uw welgevallen.

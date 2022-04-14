@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7752 in Kreyol Ayisyen'
 author = "Báb"
-tags = ['lang-ht', '', "Báb", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Báb", "category-unsorted", "cat-Sipò"]
 +++
 Lwanj pou Non Ou, O Senyè Bondye nou! Se sèl Ou menm vrèman Ki konnen bagay ki kache yo. Chwazi pou nou sa ki bon daprè sa sèl Ou menm kapab estime poutèt konesans Ou ki antoure tout bagay. Se Ou menm Senyè souveren an, Toupisan an, Pi Byeneme a.
 Tout lwanj pou Ou, O Senyè! Nou pral chèche gras Ou nan Jou Jijman an e nou pral mete tout konfyans nou nan Ou menm, Sila a Ki Senyè nou. Glwa pou Ou, O Bondye! Voye pou nou sa ki bon e sa ki kòrèk pou pèmèt nou detache nou ak tout bagay esepte Ou menm. An verite, se Ou menm Ki Senyè a pou tout mond yo. 

@@ -1,7 +1,7 @@
 +++
 title = 'Long Obligatory Prayer in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', '', "Bahá'u'lláh", "Obligatory Prayers"]
+tags = ['lang-nl', 'prayer-BH00987', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-Het lange Verplichte Gebed"]
 +++
 ##Het lange Verplichte Gebed
 *Eens in de vierentwintig uur te reciteren.

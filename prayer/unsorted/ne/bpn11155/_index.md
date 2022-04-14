@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11155 in नेपाली'
 author = "Abdu'l-Bahá"
-tags = ['lang-ne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-आध्यात्मिक गुणहरू"]
 +++
 उनै हुन् सर्व–कृपानिधान, सर्व–दयालु ! हे प्रभु,मेरा ईश्वर ! तिम्रो आह्वानले मलाई आकर्षित गरेको छ र तिम्रो गौरवशाली कलमको आवाजले मलाई ब्युँझाइदिएको छ । 
 

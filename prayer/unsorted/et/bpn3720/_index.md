@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3720 in Eesti'
 author = "Abdu'l-Bahá"
-tags = ['lang-et', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-et', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Lahkunuile"]
 +++
 Oo mu Jumal! Oo Sina pattude andestaja, kinkide annetaja, hädade hajutaja!
 Tõesti, ma anun Sind, et Sa andestaksid nende patud, kes on maha jätnud oma kehalise rüü ja tõusnud vaimsesse maailma.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11940 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Gorag Dogalary"]
 +++
 Hu’äl-Äbha.
     Eý Taýsyz Taňry! Biz Seniň şermende bendeleriň, Sen bolsa geçirimlisiň. Biz günäkärler, Sen bolsa Ýalkaýjysyň. Biz ýesir, biz pahyr, biz biçäre, Sen bolsa pena Beriji we goldan Tutujysyň. Biz ejiz garynjalar ýaly, Sen bolsa, asmanly tagtynda oturan şöwketli Süleýmansyň. Öz Jomartlygyň hatyrasy üçin bizi gora hem Öz gözegçiligiňi we kömegiňi bizden gaýgyrma.

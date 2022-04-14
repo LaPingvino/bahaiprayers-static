@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10221 in Māori'
 author = "Bahá'u'lláh"
-tags = ['lang-mi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MŌ TE NOHOTAPU KI TE KOREKAI"]
 +++
 *Kei te Kitáb-i-Aqdas te kōrero: “Ko tā mātou kupu ki a koutou kia tuku inoi, kia korekai mai i te tīmatatanga o te pakeketanga (15 ngā tau); nā Te Atua tēnei kupu, ko tōu Ariki, te Ariki o ō mātua tūpuna … ēngari mō te tangata e hāereere ana, te hunga e māuiui ana, te wahine hapū, whāngote kōhungahunga ana rānei … Kaua e kai, kaua e inu mai i te whitinga mai o te rā ki tōna tōremitanga, kia mataara kei haukotia koe e hiahia mai i te whai tohu kua tuhia ki te Pukapuka.”
 

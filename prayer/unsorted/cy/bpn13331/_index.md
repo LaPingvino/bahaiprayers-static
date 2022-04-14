@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13331 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Children"]
 +++
 O Dduw! Addysga'r plant yma. Y plant yma yw planhigion Dy berllan, blodau Dy ddôl, rhosynnau Dy ardd. Gad i'th wlaw ddisgyn arnynt; gad i Haul Gwirionedd dywynnu arnynt gyda'th gardiad. Gad i'th awel fwyn eu hadfywio fel iddynt gael hyfforddiant, tyfu a datblygu ac ymddangos yn yr harddwch eithaf. Tydi yw'r Rhoddwr. Tydi yw'r Trugarog.
 

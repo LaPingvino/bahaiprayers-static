@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2716 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Reggel"]
 +++
 Ó, Istenem és Mesterem! Szolgád vagyok, és a Te szolgád fia. Ím, felkeltem én kerevetemről e hajnali órán, mikor egyedüliséged Napcsillaga világlott elő akaratod Hajnalpontjából, és ragyogta be az egész világot, miként ez elrendeltetett Parancsolatod Könyveiben.
 

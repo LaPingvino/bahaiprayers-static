@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5412 in 日本語'
 author = "Bahá'u'lláh"
-tags = ['lang-ja', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-許しを請う祈り"]
 +++
 自らの犯した罪や過あやまちを他人に告白することは許されない。
 　　　　罪人つみびとは、ひとり神に向かって、慈悲の大海からのご慈愛を嘆願し、

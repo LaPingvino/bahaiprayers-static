@@ -1,7 +1,7 @@
 +++
 title = 'Prayer ABU0137ALL in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "Humanity"]
+tags = ['lang-en', 'prayer-ABU0137ALL', "author-Abdu'l-Bahá", "category-Humanity", "cat-Humanity"]
 +++
 O Thou kind Lord! Thou hast created all humanity from the same stock. Thou hast decreed that all shall belong to the same household. In Thy Holy Presence they are all Thy servants, and all mankind are sheltered beneath Thy Tabernacle; all have gathered together at Thy Table of Bounty; all are illumined through the light of Thy Providence.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11852 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Ngudung/Bitapod/Bigupul"]
 +++
 *Ngudung (Kabant Uluk Rohani)
 *Doa dek harus obuah nang ndu piobuak ngudung Uluk Rohani.

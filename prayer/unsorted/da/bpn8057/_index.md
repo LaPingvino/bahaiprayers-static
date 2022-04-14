@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8057 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Frigjorthed"]
 +++
 Lovet være Du, o min Gud! Jeg er en af Dine tjenere, der har troet på Dig og på Dine tegn. Du ser, hvordan jeg har stillet mig foran Din barmhjertigheds dør og vendt mit ansigt mod Din kærlige omsorg. Jeg bønfalder Dig ved Dine mest udsøgte navne og Dine mest ophøjede egenskaber om at åbne portene til Dine gaver for mit ansigt. Hjælp mig da at gøre det som er godt, o Du, der er Besidderen af alle navne og egenskaber!
 

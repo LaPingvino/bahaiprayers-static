@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12428 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Rugciriku : MBATERO YAVITAPA"]
 +++
 *Vaholi navantje vaKarunga... va hepa  kuvhura kutura ko mbatero, nampiri weni tuna sheshupa tundjambo twavo. Karunga nakurongererashi  muntu kupitakana pankondo dendi. Mbatero ya ngoweno ya hepa ntani kutunda kumaruha naghantje nakumbungakriste... Oh Vaholi vaKarunga! Vi huguvarenu ashi mulivango lyambatero yino mo ngava kandayikira ghunandima wenu, lirughano lyavyamulivhu, ghunangeshefa vingipe, vitapa naushwi waghungi. Ogho nga yo nashirughana shashinene ngava mu rawira murongo. Nakutamagerashi, ghuye Karunga wamuyumi  nga nkondopeka ovo vakurughanita Ghugavo wavo mundjira yendi.
 

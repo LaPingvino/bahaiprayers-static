@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5533 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-「聖なる計画の書簡」のティーチングの祈り"]
 +++
 布教のため各地に旅する者は、
 　　　　　　　山でも砂漠でも陸でも海でもこの祈りを唱えよ。

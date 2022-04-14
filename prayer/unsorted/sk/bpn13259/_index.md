@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13259 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Výnimočné tabuľky"]
 +++
 ##Tabuľka ohňa
 V mene Boha, Najdávnejšieho, Najväčšieho! Vskutku, srdcia úprimných sú pohltené ohňom odlúčenia. Kde je záblesk svetla Tvojej Tváre, ó Milovaný svetov?

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4433 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pag-Iisang Dibdib"]
 +++
 *“Ang pag-iisang dibdib ng Bahá’í ay ang pagbubuklod at magalang na pagmamahal sa pagitan ng dalawang panig. Gayunman, dapat silang gumamit ng sukdulang ingat at makilala ang pag-uugali ng isa’t isa. Itong di-magmamaliw na pagkaka-ugnay sa kanila ay dapat pagtibayin ng matatag na kasunduan, at ang kanilang layunin ay upang patibayin ang pagkakasundo, pagkakaibigan, pag­ kakaisa at upang matamo ang buhay na walang hanggan.” — ‘Abdu’l-Bahá
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11334 in தமிழ்'
 author = "Báb"
-tags = ['lang-ta', '', "Báb", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Báb", "category-unsorted", "cat-சமயத்தின் வெற்றி"]
 +++
 உமது கட்டளையின் சக்தியின் வழியாக, எல்லாப் படைப்புப் பொருள்களையும் உயிர்பெறச் செய்துள்ளவரான பிரபுவே, ஒளி உமக்கே உரியதாகுக.
 

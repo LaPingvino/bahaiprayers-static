@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12021 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ahmet Ýazgysy"]
 +++
 Oldur Bilimli hem Dana Patyşa!
     Ynha Bakyýet agajynyň pudaklarynda, Mukaddes hoş owazly saýraýan jennet bilbili, yhlasly köňülleri Allanyň ýanyna we ýalňyz Taňra sygynýanlary, Keramatlynyň ýakynlyk dergähine buşlap çagyrýar. Bu owaz bilen, bu pany diinýeden üzülenlere, Eziz hem Ýeke-Täk Allanyň tarapyndan gökden inen habary ýetirýär we aşyklary Mukaddes Gapa tarap, hem-de bu Röwşen Gözýetime sary salgy berýär.

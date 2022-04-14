@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8076 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lovprisning Og Taknemmelighed"]
 +++
 Lovpriset være Dit navn, o Herre min Gud! Du er Ham, som alle ting tilbeder, og som ikke tilbeder nogen, som er alle tings Herre og ikke er slave af nogen, som kender alt og ikke kendes af nogen.
 

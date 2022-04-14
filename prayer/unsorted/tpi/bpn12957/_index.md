@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12957 in Tok Pisin'
 author = "Bahá'u'lláh"
-tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-NIGHT"]
 +++
 O my God, my Master, the Goal of my desire!  This, Thy servant, seeketh to sleep in the shelter of Thy mercy, and to repose beneath the canopy of Thy grace, imploring Thy care and Thy protection. 
  

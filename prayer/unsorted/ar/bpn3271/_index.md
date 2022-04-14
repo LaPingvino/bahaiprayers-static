@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3271 in العربية'
 author = "Bahá'u'lláh"
-tags = ['lang-ar', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ar', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-كَلِماتُ الحِكْمَةِ"]
 +++
 * كلمات الحكمة
 # هُوَ العَلِيُّ الأَعْلَى

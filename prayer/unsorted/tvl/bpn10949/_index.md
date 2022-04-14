@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10949 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAKAGATA MASAKI"]
 +++
 O te Atamai Kilo-Mao faka-te-lagi!
 Tavaega e o Koe, O te Aliki toku Atua!  Au e akai fakamaulalo kia Koe, mai i Tou Igoa Tafasili ite Takutakua tela ne fakagasue i ei ne Koe Au yavini o atiake a Ou fakai lasi, kae mai iluga i Ou tofi tafasili ite lei, mo Ou uiga matagofie, o fesoasoani ki Ou tino ke fuli atu ki te auala o Au mea-alofa e se maua o lau, kae luku atu olotou mata ki luga i te Tapanekolo o Tou atamai.  Fakagata aka ne Koe a masaki ko pokotia ki luga i agaaga konei mai i feitu katoa, tela ko fai ne latou mo mea e se tuku atu a olotou kilo ki te Palataiso te la e takato i te malu o Tou Igoa e tautali mai, te la ne fai ne Koe me ko te Tupu o igoa katoa mo latou katoa i te lagi mo latou katoa ite lalolagi.  E maalosi Koe o fai ate mea e fiafia Koe ki ei.  I Ou lima ko te lalolagi o igoa katoa.  E seai aka foki se Atua na ko Koe, te Mafi, te Atamai.

@@ -1,7 +1,7 @@
 +++
 title = 'Long Healing Prayer in Esperanto'
 author = "Bahá'u'lláh"
-tags = ['lang-eo', '', "Bahá'u'lláh", "Healing"]
+tags = ['lang-eo', 'prayer-BH00870', "author-Bahá'u'lláh", "category-Healing", "cat-Sanigo"]
 +++
 Estas Li la Saniganto, la Sufiĉanto, la Helpanto, la Ĉion-Pardonanta, la Ĉiel-Kompatema.
 Alvokas mi Vin, ho Ekzaltita, ho Fidela, ho Glora! Vi la Sufiĉanta, Vi la Kuracanta, Vi la Konstanta, ho Vi la Eternulo!

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB02024 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', '', "Abdu'l-Bahá", "Martyrs and their families"]
+tags = ['lang-nl', 'prayer-AB02024', "author-Abdu'l-Bahá", "category-Martyrs and their families", "cat-Martelaren en hun familie"]
 +++
 Hij is God!
 O Heer mijn God! O Gij Helper van de zwakken, Steun van de armen en Verlosser van de hulpelozen die zich tot U keren.

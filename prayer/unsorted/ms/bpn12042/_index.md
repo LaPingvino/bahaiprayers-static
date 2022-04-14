@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12042 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-BANTUAN & PERTOLONGAN"]
 +++
 Letakkanlah segala kepercayaan dan keyakinanmu kepada Tuhan yang telah menciptakanmu dan carilah bagi dirimu sendiri pertolongan-Nya dalam segala    urusanmu.
 

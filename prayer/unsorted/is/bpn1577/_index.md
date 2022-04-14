@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1577 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lengri skyldubænin"]
 +++
 **FARA Á MEÐ ÞESSA BÆN AÐ MORGNI, Á HÁDEGI OG AÐ KVÖLDI
 *Hver sá sem vill biðjast fyrir laugi hendur sínar og á meðan segi hann:

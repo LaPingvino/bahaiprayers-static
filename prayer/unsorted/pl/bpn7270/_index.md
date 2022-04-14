@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7270 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Bliskość Boga"]
 +++
 Chwała niechaj będzie Tobie, o mój Boże! Ty słyszysz swoich żarliwych miłośników, lamentujących z powodu rozłąki z Tobą, i tych, którzy Cię rozpoznali, płaczących żałośnie, bo daleko im do Twojej obecności. Otwórz szeroko przed ich obliczami, o mój Panie, bramy swojej łaski, aby mogli przez nie wejść za Twoim przyzwoleniem i zgodnie z Twoją wolą, i mogli stanąć przed tronem Twojego majestatu i uchwycić barwy Twojego głosu, i zostać oświetleni wspaniałością światła Twojego oblicza.
   

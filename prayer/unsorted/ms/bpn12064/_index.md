@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12064 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-CUBAAN & KESUKARAN"]
 +++
 ”Dalam segala sesuatu ada tandanya. Tanda kasih adalah keteguhan hati di bawah perintah-Ku dan kesabaran di bawah cubaan-cubaan-Ku.”               
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11966 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Merhumlar Üçin Dogalar"]
 +++
 Hu’äl-Äbha.
     Eý Ýalkaýjy, Eý Mähriban! Bu päk janlar toprak zyndanyndan azat boldylar we Seniň jahanyňa uçdylar. Ýagşydylar, Seniň roýuň şeýdasy we Seniň çeşmäň teşnesidiler. Ýaşaýyşda Seniň Rahmany müşgüňden diridiler. Gözleri açyldy, gulaklary açyldy, ähli baglanşykdan garaşsyz bolup, Seniň begenjiňe köňül şatdylar. Indi olar syrlar dünýäsine uçdylar we Seniň ýanyňda, bagtyýarlyk agajyňda höwürtge gurýarlar, aýdym, owaz saýraýarlar.

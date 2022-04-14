@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12033 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-DOA WAJIB PENDEK"]
 +++
 * Dilafazkan sekali dalam dua puluh empat jam antara tengah hari sehingga matahari terbenam. Disarankan orang yang melafazkannya harus berdiri.
 

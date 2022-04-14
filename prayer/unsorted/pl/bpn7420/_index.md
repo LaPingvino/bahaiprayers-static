@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7420 in Polski'
 author = "Báb"
-tags = ['lang-pl', '', "Báb", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Báb", "category-unsorted", "cat-Uniezależnienie się"]
 +++
 O Panie! U Ciebie szukam schronienia i ku wszystkim Twoim znakom kieruję serce moje.
     

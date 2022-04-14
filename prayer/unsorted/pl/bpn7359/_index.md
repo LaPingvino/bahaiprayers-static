@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7359 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Próby i trudności"]
 +++
 Pochwalony bądź, o Panie, Boże mój! Każdy wnikliwy człowiek uznaje Twoją wszechwładzę i Twoje panowanie, a każde bystre oko dostrzega wielkość Twojego majestatu i nieodpartą potęgę Twej mocy. Bezsilne są wichry prób, by powstrzymać tych, którzy cieszą się Twoją bliskością, od zwrócenia twarzy w stronę horyzontu Twojej chwały, a nawałnice udręki muszą okazać się niezdolne, by odciągnąć i przeszkodzić tym, którzy całkowicie oddani są Twojej woli w zbliżeniu się do Twego dworu.
    

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12185 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-UNTUK YANG MENINGGAL DUNIA"]
 +++
 Ya Engkau Tuhan yang Pengampun!
 

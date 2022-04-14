@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2145 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Calităţi Spirituale"]
 +++
 O, Doamne Dumnezeul meu!
 O, Doamne Dumnezeul meu! Acest slujitor al Tău a înaintat către Tine, rătăceşte cu patimă în deşertul iubirii Tale, merge pe calea slujirii Tale, aşteptând favorurile Tale, sperând la mărinimia Ta, bizuindu-se pe împărăţia Ta şi îmbătat de vinul darurilor Tale. O, Dumnezeul meu! Sporeşte ardoarea afecţiunii lui pentru Tine, perseverenţa lui în slăvirea Ta şi ardoarea iubirii lui pentru Tine.

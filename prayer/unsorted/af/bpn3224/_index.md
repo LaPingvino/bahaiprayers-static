@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3224 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Die Tafels van Besoeking"]
 +++
 *Hierdie gebed, deur 'Abdu'l-Bahá geopenbaar, word by Sy Heiligdom gelees. Dit word ook by private gebed gebruik.
 

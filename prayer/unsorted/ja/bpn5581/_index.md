@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5581 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-故人のための祈り"]
 +++
 おおわが神よ、罪を許し給う御方よ。賜物たまものを授け給う御方よ。苦しみをぬぐいさり給う御方よ。
 　肉体の衣ころもを捨て、霊の世界にのぼった人々の罪を許し給うよう切に嘆願いたします。

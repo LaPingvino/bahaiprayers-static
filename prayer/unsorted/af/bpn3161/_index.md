@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3161 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Die Mensdom"]
 +++
 Geloof sy U Naam, o Here my God! Duisternis het op elke land geval, en die magte van onheil het al die nasies omring. Deur hulle gewaar ek, egter, die prag van U wysheid, en onderskei die luister van die lig van U voorsiening.
 

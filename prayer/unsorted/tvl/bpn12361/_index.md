@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12361 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-TALAVOU"]
 +++
 O ko Koe te Aliki alofa! Mo te alofa tuku mai a se avaa kapakau faka-te-lagi kia latou foititi taki toko tasi konei, kae avatu kia latou a se maalosi faka-teagaaga ko te mea ke mafai ne latou o lele atu i te olotou malaga i loto i te ea seai ne ona tuakoi kae lele atu latou ki te maluga o te Maalo Abha.  
   

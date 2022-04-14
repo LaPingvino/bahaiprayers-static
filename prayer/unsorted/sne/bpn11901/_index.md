@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11901 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Sa’ant Boli"]
 +++
 Boli ku romin aman damai.
 Boli ku romin pirami duoh pimunuas

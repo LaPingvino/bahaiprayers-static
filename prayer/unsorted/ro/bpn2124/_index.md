@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2124 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Apărare şi Protecţie"]
 +++
 Dumnezeul meu venerat şi adorat! Stau mărturie unităţii şi unicităţii Tale şi adeveresc toate darurile Tale trecute şi prezente. Tu eşti Cel Atotdarnic, Cel care îşi revarsă ploaia milostivirii peste cel de sus precum şi peste cel de jos şi luminează cu splendorile harului Său pe cel supus precum şi pe cel răzvrătit.
 

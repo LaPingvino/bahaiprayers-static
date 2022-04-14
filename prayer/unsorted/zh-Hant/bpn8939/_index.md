@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8939 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-和睦團結"]
 +++
 我的上帝啊！我的上帝！我真誠地在祢門前祈求和懇請，求祢將一切仁恩降予這些靈魂，特選他們承享祢的真理與恩寵。
 主啊！以祢聖潔與獨一性的徵象，團結和聯結各色人群，讓所有的人協調一致，讓精神振奮激昂。主啊！借祢獨一性之光，使這些人容光煥發。力挺祢僕人腰桿，侍奉於祢的王國。

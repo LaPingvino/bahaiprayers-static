@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8957 in اُردُو'
 author = "Bahá'u'lláh"
-tags = ['lang-ur', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ur', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-لوحِ احمد"]
 +++
 ##لوحِ احمد
 وہی ہے بادشاہ سب کچھ جاننے والا حکمت سے کام کرنے والا۔

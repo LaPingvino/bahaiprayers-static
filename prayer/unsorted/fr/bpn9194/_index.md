@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9194 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Guérison"]
 +++
 Il est celui qui guérit, qui suffit, qui secourt, qui toujours pardonne, l’Infiniment Miséricordieux. 
 Je t’invoque, ô toi, le Suprême, le Fidèle, le Glorieux. Toi qui suffis, toi qui guéris, toi, l’Éternel, ô toi, l’Éternel !

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5476 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-大業の勝利"]
 +++
 彼こそは神におわします。
 　おお主よ、わが神よ、慕したいまつる御方よ。これらは、あなたのお声を聞き、御言葉に耳を

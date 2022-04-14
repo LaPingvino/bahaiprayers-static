@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13136 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Zosnulí"]
 +++
 On je Boh! Nech je Povznesený, Pán láskyplnosti a štedrosti! 
 Sláva buď Tebe, ó Ty, môj Bože, Pán Všemocný. Dosvedčujem Tvoju všemocnosť a Tvoju silu, Tvoju zvrchovanosť a Tvoju láskyplnosť, Tvoju milosť a Tvoju moc, jedinosť Tvojej Bytosti a jednotnosť Tvojej podstaty, Tvoju posvätenosť a povznesenosť nad svet bytia a všetko, čo v ňom je.

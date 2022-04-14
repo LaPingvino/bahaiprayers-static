@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9907 in አማርኛ.'
 author = "Bahá'u'lláh"
-tags = ['lang-am', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-am', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-የማላዳ ፀሎት (Prayer)"]
 +++
 በፆም ወይም በሌሎች የማለዳ ጊዜያት የሚደረግ
 	አምላኬ ጌታዬ ሆይ! እኔ  አገልጋይህ የአገልጋይህም ልጅ ነኝ፡፡ የአንድነትህ  የቀኑ ኮከብ ከፈቃድህ ጎሕ በበራበትና በትዕዛዝህ መፃሕፍት ውስጥ በተደነገገው መሠረት  ጮራውን በመላው ዓለም ላይ  በፈነጠቀበት በዚህ ማለዳ ከመደቤ ነቅቻለሁ፡፡ 

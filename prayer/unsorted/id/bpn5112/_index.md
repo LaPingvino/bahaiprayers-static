@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5112 in Bahasa Indonesia'
 author = "Abdu'l-Bahá"
-tags = ['lang-id', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Kebahagiaan"]
 +++
 Ya Tuhan, Tuhanku! Engkau adalah Harapanku dan Kekasihku, Tujuanku dan Hasratku yang tertinggi! Dengan sangat rendah hati dan pengabdian sepenuhnya aku berdoa kepada-Mu agar menjadikan daku menara cinta-Mu di negeri-Mu, lampu pengetahuan-Mu di antara makhluk-makhluk-Mu dan panji rahmat keilahian di kerajaan-Mu.
 

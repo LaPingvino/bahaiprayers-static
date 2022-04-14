@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8920 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-傳導禱文"]
 +++
 教友及傳導者應每日誦讀此禱文。
 

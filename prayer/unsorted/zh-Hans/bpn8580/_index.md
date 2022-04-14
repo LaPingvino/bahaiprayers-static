@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8580 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-聚会祷文"]
 +++
 以纯然愉快的心情前来聚会，在聚会开始时吟诵此祷文：
 啊，祢是天国之主！我们的身体虽相聚这里，但祢的爱已使我们心醉神迷，祢灿烂的容光令我们激动狂喜。我们虽然脆弱无比，但等待着祢威权和力量的启示；我们虽然一贫如洗，既无财产又无生计，但仍然希望荣获祢天国的珍宝。我们虽然只是滴水，请让我们汲取祢深海汪洋；我们虽然渺如尘埃，让我们在祢灿烂之阳的荣光下熠熠生辉。

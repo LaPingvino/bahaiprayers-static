@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13341 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Spiritual Growth"]
 +++
 O ffrydiau pêr Dy dragwyddoldeb dyro i mi yfed, O fy Nuw, ac o ffrwyth pren Dy hanfod gad i mi brofi, O fy Ngobaith! O ffynhonnau crisialaidd Dy gariad caniatâ i mi ddrachtio, O fy Ngogoniant, ac yng nghysgod Dy ragluniaeth ddiddiwedd gad i mi drigo, O fy Ngoleuni! O fewn dolydd dy agosrwydd, ger bron Dy bresenoldeb gad i mi grwydro, O fy Anwylyd, ac ar ddeheulaw gorsedd Dy drugaredd gad i mi eistedd O fy Nymuniad! O awelon pêr Dy lawenydd dyro i anadl ddisgyn arnaf, O fy Nod, a dyro im fynediad i uchelderau paradwys Dy wirionedd, O fy Nghariad! Dyro im glustfeinio alawon colomen Dy undod, O'r Un ysblennydd, a bywhâ fi trwy ysbryd Dy nerth a'th allu, O fy'n Narparwr! Yn ysbryd Dy gariad cadw fi'n gadarn, O fy Nghymorth, a chadarnhâ fy nghamre yn llwybr D'awyddfryd O fy Nghrewr! O flaen Dy wynepryd, yng ngardd D'anfarwoldeb gad i mi aros yn oes oesodd, Tydi yr Hwn wyt drugarog wrthyf, ac ar orseddfainc Dy ogononiant dyro i mi eistedd, O Tydi yr Hwn wyt fy meddiannwr! Cod fi i nefoedd Dy drugaredd, O Tydi sydd yn fy mywhau, a thywys fi tuag at seren ddydd Dy gyfarwyddyd, O Tydi sydd yn fy nenu! Galw fi i fod yn bresennol o flaen datguddiad D'ysbryd anweledig, Ti yr Hwn wyt fy Ngwraidd a'm Dymuniad Pennaf, ac i hanfod bersawr Dy harddwch, a amlygir gennyt, gâd i mi ddychwelyd, O Tydi yr Hwn wyt fy Nuw!
 

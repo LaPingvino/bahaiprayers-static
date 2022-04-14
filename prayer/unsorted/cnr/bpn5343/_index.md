@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5343 in Montenegrin'
 author = "Abdu'l-Bahá"
-tags = ['lang-cnr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cnr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Za Preminule"]
 +++
 O moj Bože! O Ti, koji praštaš grijehe! Darodavče! Ti Koji odaginješ patnje!
 Najiskrenije Ti se molim da oprostiš grijehe onima koji su napustili svoje tjelesno ruho i uznijeli se u duhovni svijet.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9098 in Alaska Native'
 author = "Abdu'l-Bahá"
-tags = ['lang-ik', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ik', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Iñupiaq - North Slope Dialect"]
 +++
 **Prayer for Children
 God, iḷisauttukki migłiqtut. Migłiqtut ukua nautchiagurut nautchiivigñi. Sialugnik aatchukki; siqiñġanik iḷumun ittuam qaummaġiksitki nakuaqqutikkun. Anuqsraaġiksitki nutaaġuqsaqtut aasii iḷisimalutiglu naulutiglu qiññaġikpagmiḷutik. Pamatchiraurutin. Nagliktaurutin.

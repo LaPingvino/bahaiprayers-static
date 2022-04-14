@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12178 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PUJIAN & KESYUKURAN"]
 +++
 Tuhanku, Pujaanku, Rajaku, Hasratku! Bahasa apakah yang dapat menyampaikan rasa syukurku kepada-Mu? Aku telah alpa, Engkau telah menyedarkanku. Aku telah berpaling daripada-Mu, Engkau telah membantuku agar berpaling kepada-Mu dengan rahmat-Mu. Aku bagaikan orang mati, Engkau telah menghidupkanku  kembali dengan air kehidupan. Aku telah layu, Engkau telah menyegarkanku dengan sungai syurga ucapan-Mu yang telah mengalir daripada Pena Yang Maha Penyayang.
 

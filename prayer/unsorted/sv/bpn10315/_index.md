@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10315 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Familj"]
 +++
 Ärad vare Du o Gud, för Ditt uppenbarande av kärlek till mänskligheten! O Du, som är vårt liv och ljus, led Dina tjänare på Din väg och gör oss rika i Dig och fria från allt utom Dig.
 O Gud, undervisa oss om Din enhet och giv oss förståelse av Din ojämförliga ställning, så att vi icke måtte se någon annan än Dig. Du är den Barmhärtige och nådegåvans givare!

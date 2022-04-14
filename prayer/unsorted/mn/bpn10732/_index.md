@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10732 in Монгол хэл'
 author = "Bahá'u'lláh"
-tags = ['lang-mn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ГАЛЫН ИЛГЭЭЛТ"]
 +++
 Хамгаас эртний, Хамгаас агуу Бурханы нэрээр өчсү.
 

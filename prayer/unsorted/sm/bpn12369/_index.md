@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12369 in Samoan'
 author = "Abdu'l-Bahá"
-tags = ['lang-sm', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-CHILDREN"]
 +++
 O God, guide me, protect me,…
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9224 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pardon"]
 +++
 Glorifié sois-tu, ô Seigneur, mon Dieu ! Chaque fois que j’ose te mentionner, le poids de mes péchés et la gravité de mes offenses à ton encontre m’en empêchent, et je me sens entièrement privé de ta grâce, incapable de célébrer ta louange. 
 La grande confiance que j’ai en ta bonté ravive toutefois l’espoir que je place en toi et, certain que tu me traiteras avec indulgence, j’ose te louer et te demander de m’accorder ce que tu possèdes.

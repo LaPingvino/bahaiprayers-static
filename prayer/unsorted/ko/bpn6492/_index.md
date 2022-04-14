@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6492 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-결혼"]
 +++
 *바하이의 혼약은 쌍방 간의 합일이며 진정한 애정이다. 그러나 그들은 최대의 주의를 기울여 서로의 성격을 잘 알아야 한다. 이 영원한 결합은 확고한 성약으로 맺어져아 하며 조화와 우애와 융합을 진작하여야 하고 영원한 삶에 도달해야 한다. -압돌바하
 

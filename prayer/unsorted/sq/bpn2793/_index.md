@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2793 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Mbrojtja"]
 +++
 Në Emër të Tij, të Lavdëruarit, Më të Lartit, Më Fisnikut!
 

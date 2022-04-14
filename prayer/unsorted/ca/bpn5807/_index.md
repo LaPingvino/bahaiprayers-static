@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5807 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Difunts"]
 +++
 Oh, Déu meu! Oh Tu, perdonador dels pecats! El qui confereix els dons, i El qui dissipa les afliccions!
 

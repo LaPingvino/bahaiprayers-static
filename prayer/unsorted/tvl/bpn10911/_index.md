@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10911 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-AFIAFI"]
 +++
 O toku Aliki!  Au ko fakapilipili atu kia Koe, i te pokooga o te valuapo pouli tenei, talitonu ia Koe mo te laulaufaiva o toku loto, e sapolepole i te fiafia i manogi gali ko la e agiagi mai i Tou maalo, ko te Matagofie-Katoatoa, e kalaga atu kia Koe, o fai penei:
      O toku Aliki, e seai ne pati e maua ne au o faka-malu a Koe; seai se auala e lavea ko te manu eva o toku mafaufau ke lele ki luga i Tou Maalo Mana; aua ia Koe, i Tou nofo-mai, ko oti ne fakamana i luga i uiga lei katoa, kae i Tou tina tino loa e maluga atu i te oko atu o tavaeega ko la e tuku atu kia Koe ne tino ko la ne faiite ne Koe. I te mana o Tou tina tino loa ko oti ne fakamaluga ne Koe mai i luga o te malamalama o tino poto i vasia o te Lukuuga mai i luga, kae ka tummau Koe pena o filo i loto i te mana o Tou tina tino tonu tela e se oko kiei ate poto o latou ko la e nofo i Tou Maalo tafasili i te maluga kae e faka-aloalo ne latou a Tou Igoa.

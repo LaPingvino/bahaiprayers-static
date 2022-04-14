@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10907 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-VAAITAU OLA FAKA-TE-LAGI"]
 +++
 Te Matagofie e a Koe, O toku Atua!  A gasuesuenga muamua loa o te vasia taimi tenei ko te (spring) o Tou alofa-kaimalie ko oti ne sae mai kae e ufi i Tou lalolagi mo te lau-usiusi.  A kaumana o te lagi o tou alofa lauefa ko to me se vaiua ki luga ite fakai lasi tenei te la ko ana pui-tuakoi ne falepuipui iei a Ia Tela ko te manakoga mo te fakaolataaga o Au mea ola katoa.  Mai iei a te laukele o te fakai lasi tenei ko oti ne fakafonu, a ko ana lakau ola ko pei olotou gatu mo lau-lakau mage, mo tino i loto i te fakai lasi tenei ko fiafia.
      A a loto o Au fakagasele, e fiafia fua ite Vaaitau Ola  Faka-te-Lagi o Au alofaaga fakamagalo atafai, te la mai iei a loto ka fakatoka, a ko agaaga ka fakafoou, ka ko tagata o te olaaga ka fua mai a olotou fuataga.

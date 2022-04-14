@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12063 in Bahasa Melayu'
 author = "Báb"
-tags = ['lang-ms', '', "Báb", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Báb", "category-unsorted", "cat-CUBAAN & KESUKARAN"]
 +++
 Ya Tuhan! Engkaulah Penghapus setiap kesengsaraan dan Penghalau setiap penderitaan. Engkaulah Dia Yang membuang setiap kesedihan dan membebaskan setiap hamba abdi, Penebus setiap roh. Ya Tuhan! Berikanlah penyelamatan melalui belas kasihan-Mu, dan tetapkanlah daku dalam kalangan hamba-Mu yang telah memperoleh keselamatan.
 

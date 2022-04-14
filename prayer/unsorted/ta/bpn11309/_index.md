@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11309 in தமிழ்'
 author = "Bahá'u'lláh"
-tags = ['lang-ta', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-நீண்ட குணப்படுத்தல் பிரார்த்தனை"]
 +++
 அவரே குணப்படுத்துபவர், போதுமானவர், உதவுபவர், சகலத்தையும் மன்னிப்பவர், கருணை மயமானவர். 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13146 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Odpútanosť"]
 +++
 Nejedno ľadové srdce, ó môj Bože, vzplanulo ohňom Tvojej viery a mnoho spiacich bolo prebudených sladkosťou Tvojho hlasu. Koľko cudzincov vyhľadalo útočisko v tieni Tvojej jedinosti a koľko smädných v Tvojich dňoch túžilo po fontáne živej vody!
 Požehnaný je ten, ktorý sa k Tebe obrátil a poponáhľal sa k Úsvitu svetla Tvojej tváre. Požehnaný je ten, ktorý sa so všetkou náklonnosťou obrátil k Miestu úsvitu Tvojho zjavenia a k prameňu Tvojho vnuknutia. Požehnaný je ten, ktorý na Tvojej ceste vynaložil to, čo si mu Svojou milosťou a priazňou daroval. Požehnaný je ten, ktorý v pálčivej túžbe po Tebe odvrhol všetko okrem Teba samého. Požehnaný je ten, ktorý sa tešil z dôverného vzťahu s Tebou a odpútal sa od všetkého okrem Teba.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11432 in தமிழ்'
 author = "Bahá'u'lláh"
-tags = ['lang-ta', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-நடுத்தரக் கட்டாயப் பிரார்த்தனை"]
 +++
 *நாள்தோறும் காலையிலும் மாலையிலும் நண்பகலிலும் கூற வேண்டியது.
 

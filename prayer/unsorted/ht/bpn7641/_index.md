@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7641 in Kreyol Ayisyen'
 author = "Báb"
-tags = ['lang-ht', '', "Báb", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Báb", "category-unsorted", "cat-Detache ou ak Lavi a"]
 +++
 *Nan Non Senyè Ou a, Kreyatè a, Souveren an, Sila a Ki gen kapasite pou reponn bezwen tout moun, Ki Pi Egzalte, Li menm K’ap bay sekou tout moun ap priye pou yo jwenn.
 Se pou nou di: O Bondye mwen! O Ou menm Ki Kreyatè syèl la ak tè a, O Senyè Wayòm nan! Ou konnen byen sekrè yo ki nan kè mwen, poutan Lespri Ou rete yon mistè pou tout bagay esepte Ou menm. Ou wè tout sa ki anndan mwen, men pa gen yon lòt ki gen kapasite sa a sof Ou menm. Voye pou mwen, avèk gras Ou, sa ki pral pèmèt mwen detache ak tout bagay esepte Ou menm, epi chwazi pou mwen sa ki pral fè mwen endepandan ak tout bagay sof Ou menm. Pèmèt mwen kapab rekòlte fwi lavi mwen nan mond sa a ak nan lòt mond la tou. Ouvri devan figi mwen pòt gras Ou yo, e voye sou mwen, avèk bonte Ou, dous mizèrikòd ak favè Ou yo. 

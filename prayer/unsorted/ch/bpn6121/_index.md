@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6121 in Chamorro'
 author = "Abdu'l-Bahá"
-tags = ['lang-ch', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ch', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-PARA I MANMATAI"]
 +++
 O Yu’os-hu! Hagu i manasisi’i ni’ isao, i mannana’i guinaha, yan sasatba gi chinat- saga siha.
 Gi inimitde, hu gagagao Hao na Un asi’i i isao todu ni esta ma abandona i magagon este na tano’ ya kahulo’ gi tano’ espirituat.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2190 in România'
 author = "Báb"
-tags = ['lang-ro', '', "Báb", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Báb", "category-unsorted", "cat-Detaşare"]
 +++
 În Numele Domnului Tău, Creatorul, Suveranul, Cel lui Însuşi deajuns, Cel Preaînălţat, Cel al cărui ajutor e implorat de toţi oamenii.
 

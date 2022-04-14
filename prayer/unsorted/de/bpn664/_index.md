@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn664 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Das mittlere Pflichtgebet"]
 +++
 #TÄGLICH MORGENS, MITTAGS UND ABENDS ZU SPRECHEN
 

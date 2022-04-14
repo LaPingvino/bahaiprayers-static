@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11963 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Merhumlar Üçin Dogalar"]
 +++
 *(Soňky deminde ýatan ynsanlar hem aýrylandan soň jaýlanýança okalýan doga)
 

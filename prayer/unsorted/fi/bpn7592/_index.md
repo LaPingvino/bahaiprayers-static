@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7592 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Aḥmadin muistio"]
 +++
 *... päivittäiset velvollisuusrukoukset sekä muutamat muut erityisrukoukset, kuten Parannusrukous ja Aḥmadin muistio, on Bahá'u'lláh varustanut aivan erityisellä voimalla ja merkityksellä. Uskovien tulisi sen vuoksi hyväksyä ne sellaisinaan ja empimättä lausua ne uskoen ja luottaen, että niiden kautta he voivat päästä paljon läheisempään yhteyteen Jumalan kanssa ja samastua entistä täydellisemmin Hänen lakeihinsa ja määräyksiinsä.
 *Shoghi Effendi

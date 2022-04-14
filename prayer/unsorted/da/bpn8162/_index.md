@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8162 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Bønner For Undervisning Fra Den Guddommelige Plans Breve"]
 +++
 Priset være Du, o min Gud! Disse er Dine tjenere, der er tiltrukket af Din barmhjertigheds dufte, optændte af den ild, der brænder i Din enheds træ, og hvis øjne er blevet oplyste ved at se stråleglansen fra lyset, der skinner på Din enheds Sinai.
 

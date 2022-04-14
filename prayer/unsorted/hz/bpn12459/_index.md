@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12459 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Oshikwanyama : Omailikano Amwe"]
 +++
 Nafimanekwe, Kalunga, omo lwo vatumwa vaye vo hole Ovo hetu tu mine! Ove ou uli omwenyo nouyelele wetu, yukifa ovapiya voYe mendyila doYe, ndele tu pa oupuna tu ku kalele auke. 
 	Kalunga, tu honga ouliumwe woYe, opo tu hatale umwe ehefi Ove. Ove omunefilonghenda no muyandyi womilongelo doYe do Kupa Onghenda! 

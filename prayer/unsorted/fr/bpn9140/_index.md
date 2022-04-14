@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9140 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Constance"]
 +++
 Glorifié soit ton nom, ô Seigneur, mon Dieu ! 
 Par ton pouvoir qui contient toutes choses créées, par ta souveraineté qui transcende la création tout entière et par ton Verbe celé dans ta sagesse par lequel tu créas les cieux et la terre, je te supplie de nous permettre de rester constant dans notre amour pour toi, d’obéir fermement à ton bon plaisir, de fixer notre regard sur ta face et de célébrer ta gloire. Aussi permets-nous, ô mon Dieu, de propager tes signes parmi tes créatures et de protéger ta foi dans ton royaume. Tu existes indépendamment de la mention de l’une de tes créatures et tu seras à jamais ce que tu es.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8036 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Børn Og Unge"]
 +++
 O Herre! Gør disse børn til udsøgte planter. Lad dem vokse og udvikle sig i Din Pagts have og skænk dem friskhed og ynde ved regnen fra Abhá Rigets skyer.
 

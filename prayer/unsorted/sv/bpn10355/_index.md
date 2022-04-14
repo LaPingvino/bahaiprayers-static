@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10355 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Undervisning"]
 +++
 för bahá’íerna som reser för att undervisa om tron. 
 O Du oförliknelige Gud! O Du konungarikets Herre! Dessa själar är Din himmelska armé. Bistå dem och gör dem segerrika med Dina högsta härskarors hjälp, så att var och en av dem må bli såsom ett regemente och erövra dessa länder med Guds kärlek och ljuset från gudomliga läror.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6628 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-찬송과 감사"]
 +++
 주님께 찬송, 주님의 종들의 얼굴을
 

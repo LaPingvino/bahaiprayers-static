@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4741 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Hifz duaları"]
 +++
 Təriflər olsun Sənə, Ya Rəbb, mənim Allahım! Sən görürsən və bilirsən, mən Sənin bəndələrini dəvət etdim ki, Sənin bəxşişlərindən başqa heç bir tərəfə üz tutmasınlar və onlara əmr etdim ki, Sənin dərkolunmaz hökmünə və qəti məqsədinə uyğun olaraq nazil olmuş aydın Kitabında yazdıqlarından başqa bir şeyə riayət etməsinlər.
 

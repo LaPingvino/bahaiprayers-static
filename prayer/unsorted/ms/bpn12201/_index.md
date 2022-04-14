@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12201 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-LOH API"]
 +++
 ##LOH API
 

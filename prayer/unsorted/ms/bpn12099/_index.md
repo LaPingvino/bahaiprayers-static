@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12099 in Bahasa Melayu'
 author = "Báb"
-tags = ['lang-ms', '', "Báb", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Báb", "category-unsorted", "cat-KEMENANGAN AKIDAH"]
 +++
 Kemuliaan bagi-Mu, Ya Tuhanku, Engkaulah yang telah mewujudkan segala benda tercipta melalui kekuatan perintah-Mu.
 

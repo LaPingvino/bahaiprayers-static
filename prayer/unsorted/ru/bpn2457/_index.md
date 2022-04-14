@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2457 in Русский'
 author = "Bahá'u'lláh"
-tags = ['lang-ru', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ru', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Средняя обязательная молитва"]
 +++
 ##средняя обязательная молитва
 *ПРОИЗНОСИТСЯ ЕЖЕДНЕВНО — УТРОМ, В ПОЛДЕНЬ И ВЕЧЕРОМ

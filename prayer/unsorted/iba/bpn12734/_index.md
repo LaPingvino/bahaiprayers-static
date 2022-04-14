@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12734 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-RABAN GELUMU"]
 +++
 *Tiap kali masuk ngagai bilik aum, besampi ngena sambiang tu enggau ati ti keketap ketegal pengerindu Petara sereta dilah ti dituchi ari semua utai kelimpah ari pengingat Iya, awakka Iya ti Pemadu Bekuasa tau enggau pengasih mantu kita bulih pemenang ti pengambis tinggi.
 

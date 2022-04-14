@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2321 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tabletele vizitării Bahíyyih Khánum"]
 +++
 El este Cel Veşnic! Aceasta este mărturia Mea pentru cea care a auzit vocea mea şi s-a apropiat de Mine. Cu adevărat, ea este o frunză care a înmugurit din această Rădăcină preexistentă. Ea s-a făcut cunoscută în Numele Meu şi a gustat dulceaţa amintirii sfinţeniei Mele, a minunatei Mele bucurii. O dată i-am dat să bea din Gura Mea dulce ca mierea, altă dată am lăsat-o să se înfrupte din puterea Mea, din Kawtharul28 Meu luminos. Asupra ei odihneşte slava Numelui Meu şi mireasma veşmântului Meu scânteietor.
 

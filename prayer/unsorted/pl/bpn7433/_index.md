@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7433 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Wysławianie i wdzięczność"]
 +++
 W Imię Boga, Najwyższego! Wysławiony i pochwalony bądź, Panie, Boże Wszechmogący! O Ty, którego mądrości mędrzec nie dorówna ani nie sprosta, przed którego wiedzą uczony wyznaje swoją niewiedzę, przed którego potęgą mocarny słabnie, przed którego bogactwem zamożny świadczy o swoim ubóstwie, przed którego światłością oświecony gubi się w ciemnościach, ku którego świątyni mądrości zwraca się istota wszelkiego zrozumienia, a wokół którego sanktuarium obecności krążą dusze całej ludzkości.
     

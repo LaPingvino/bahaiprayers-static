@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2633 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Emberiség"]
 +++
 Ó, kegyes Urunk! Egy tőről fakasztottad Te az összes embert, s egy háztartásba rendelted őket. Szent Színed előtt mind a Te szolgád, és az egész emberiség a Te sátrad alá húzódik, mindegyikük a Te bőségasztalodhoz gyűlik, és mindet a Te Gondviselésed fénye ragyogja be.
 

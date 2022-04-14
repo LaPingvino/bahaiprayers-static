@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4737 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Gənclər üçün dualar"]
 +++
 Sən Ey Mehriban Allah! Mərhəmətlə bu körpə quşların hər birinə bir cüt səmavi qanad əta eylə və onlara ruhani qüvvə ver ki, bu sonsuz fəzada pərvaz etsinlər və Əbha Mələkutunun zirvəsinə yetişsinlər.
 

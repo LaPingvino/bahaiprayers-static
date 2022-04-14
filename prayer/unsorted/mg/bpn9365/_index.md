@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9365 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-VAVAKA TSY MAINTSY ATAO"]
 +++
 *Vavaka tsy maintsy atao in-telo isan’andro: ny maraina, ny tolakandro, sy ny hariva hatramin’ny ora roa aorian’ny fiposahan’ny masoandro.
  

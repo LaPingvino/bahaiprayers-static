@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5260 in Bosanski'
 author = "Abdu'l-Bahá"
-tags = ['lang-bs', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Jedinstvo"]
 +++
 Bože moj! Bože moj! Iskreno Te dozivam i klanjam Ti se na Tvome pragu moleći Te da sva Tvoja milost siđe na ove duše. Usmjeri ih prema Svojoj naklonosti i istini.
 O Gospodaru! Spoji i ujedini srca, stopi u slozi sve duše i oživi nam duše znakovima Svoje svetosti i jedinstva. O Gospodaru! Ozari ova lica svjetlošću Tvoje jednosti. Ojačaj tijela slugama Svojim u službi Tvome Kraljevstvu.

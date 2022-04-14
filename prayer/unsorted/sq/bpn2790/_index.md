@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2790 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Mbrojtja"]
 +++
 Ai është Perëndia
 O Zot, Perëndia im! O Ti Ndihmuesi i të dobtëve, Mbështetësi i të varfërve dhe Shpëtuesi i të pashpresëve që e kanë kthyer fytyrën ndaj Teje.

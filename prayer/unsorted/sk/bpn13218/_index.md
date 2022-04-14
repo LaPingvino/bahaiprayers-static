@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13218 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Vytrvalosť"]
 +++
 Ó Bože, môj Bože! Kajúcne som sa k Tebe obrátil a vskutku, Ty si Odpúšťajúci, Súcitný.
 Ó Bože, môj Bože! Navrátil som sa k Tebe a vskutku, Ty si vždy Odpúšťajúci, Milostivý.

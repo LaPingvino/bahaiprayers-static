@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12495 in Samoan'
 author = "Abdu'l-Bahá"
-tags = ['lang-sm', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-STEADFASTNESS"]
 +++
 O Lord my God! Assist Thy loved ones to be firm in Thy Faith,…
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn592 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Morgen"]
 +++
 Dich preise ich, o mein Gott, denn Du erwecktest mich aus dem Schlafe, Du ließest mich zurückkehren aus meinem Fernsein und wieder aufstehen aus meinem Schlummer. Beim Erwachen habe ich heute morgen mein Angesicht dem Sonnenglanz Deiner Offenbarung, der die Himmel Deiner Macht und Majestät erleuchtet, zugewandt. Ich bekenne mich zu Deinen Zeichen, ich glaube an Dein Buch und halte mich fest an Deinem Seile.
 Ich bitte Dich bei der Macht Deines Willens und der bezwingenden Kraft Deines Ratschlusses, mache was Du mir im Schlafe offenbartest, zum sicheren Baugrund für die Wohnstätten Deiner Liebe in den Herzen Deiner Geliebten und zum vortrefflichsten Werkzeug für die Offenbarung der Zeichen Deiner Huld und Gnade.

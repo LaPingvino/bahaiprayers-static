@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6140 in Euskara'
 author = "Bahá'u'lláh"
-tags = ['lang-eu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-eu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Babesa"]
 +++
 Ene Jainkoa, ene Jainkoa,
 Zeure zerbitzarien bihotzak alkartu itzazu eta Zure xede nagusia azaldu iezaiezu. Zure aginduei jarraitu eta Zure legeari itxeki ahal daitezela. Beren ahaleginetan lagundu iezaiezu Jauna, eta zerbitu zaitzaten indarra emaiezu.

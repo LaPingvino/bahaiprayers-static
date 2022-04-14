@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6486 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-가족"]
 +++
 저희들과 저희들의 부모들을 용서
 

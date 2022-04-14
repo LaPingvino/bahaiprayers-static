@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2148 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Calităţi Spirituale"]
 +++
 El este Dumnezeu! O, Doamne
 Dumnezeul meu! Aceştia sunt slujitori care în vremea zilelor Tale au fost atraşi de miresmele sfinţeniei Tale, aprinşi de flacăra arzândă în copacul Tău sfânt, răspunzând vocii Tale, rostind laude pentru Tine, treziţi de adierea Ta, răscoliţi de dulcile Tale arome privind semnele Tale, înţelegând versetele Tale, grăbindu-se să dea ascultare cuvintelor Tale, crezând în Revelaţia Ta şi încredinţaţi de bunătatea Ta duioasă. Ochii lor, o, Doamne, sunt aţintiţi asupra împărăţiei gloriei Tale strălucitoare, iar feţele lor s-au îndreptat către stăpânirea Ta din înalturi, inimile lor bat din iubire pentru frumuseţea Ta strălucitoare şi glorioasă, sufletele lor sunt mistuite de flacăra iubirii Tale, o, Stăpâne al acestei lumi şi a lumii ce va să fie, vieţile lor clocotesc cu ardoare de dorul lor pentru Tine şi lacrimile lor curg de dragul Tău.

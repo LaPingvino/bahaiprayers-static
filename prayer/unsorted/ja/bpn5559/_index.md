@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5559 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-参堂の書（二）"]
 +++
 *( この祈りは、アブドル・バハにより著あらわされたもので、　　　　その霊廟れいびょうにおいて用いられる。また一般の祈りとしても用いられる。　) 
  

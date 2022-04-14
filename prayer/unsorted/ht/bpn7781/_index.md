@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7781 in Kreyol Ayisyen'
 author = "Abdu'l-Bahá"
-tags = ['lang-ht', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Priyè pou Moun ki Mouri"]
 +++
 *Priyè pou moun ki mouri 
 

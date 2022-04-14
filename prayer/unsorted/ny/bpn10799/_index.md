@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10799 in Chichewa'
 author = "Bahá'u'lláh"
-tags = ['lang-ny', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ny', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PEMPHERO LOKAKAMIZA LALIFUPI"]
 +++
 Ndichitira umboni, O Mulungu wanga, kuti Munandilenga ine, kuti ndikudziweni ndi kukupembedzani.  Nditsimikizira, panthawi ino, kufooka kwanga ndi kukula kwa mphamvu Zanu, kusauka kwanga ndi kulemera Kwanu. 
 

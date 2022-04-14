@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4500 in Filipino'
 author = "Báb"
-tags = ['lang-tl', '', "Báb", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Báb", "category-unsorted", "cat-Tagumpay Ng Kapakanan"]
 +++
 Luwalhati sa Iyo, O Panginoon, Ikaw na Siyang bumuo ng lahat ng mga nilikhang bagay sa pamamagitan ng Iyong utos.
 

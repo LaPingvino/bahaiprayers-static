@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12738 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Papan Tulis Api"]
 +++
 Dalam Nama Petara, ti Pemadu Jeman, ti Pemadu Tegap.
 Sigi amat ati orang ti lurus udah angus diempa api ketegal beserara: Dini bebetau penampak Rampa-mua Nuan, O Siku dikerindu semua dunya?

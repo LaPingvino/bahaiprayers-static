@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10469 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-vi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Rạng Đông"]
 +++
 Lạy Thượng Đế của con, lạy Đấng Tôn sư của con! Con là tôi tớ Ngài và là con của tôi tớ Ngài. Khi hừng đông con thức dậy, thì Vầng Thái dương thống nhất của Ngài soi sáng chân trời ý chí của Ngài và tỏa ánh sáng khắp hoàn cầu như đã được truyền phán trong các Thánh kinh Thiên mệnh của Ngài.
 Lạy Thượng Đế của con, Ngài thật đáng ca ngợi vì đã thức tỉnh chúng con trước vẻ huy hoàng từ ánh sáng tri thức của Ngài. Lạy Thượng Đế của con, xin ban xuống cho chúng con điều khiến chúng con vượt khỏi những gì không thuộc về Ngài và giải thoát chúng con khỏi mọi ràng buộc, ngoại trừ sự ràng buộc với Ngài. Xin dành cho con và cho những kẻ thân mến của con, cho thân nhân con, nam cũng như nữ, điều thiện trong đời này và đời sau.

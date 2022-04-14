@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7165 in ελληνικά'
 author = "Bahá'u'lláh"
-tags = ['lang-el', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ΠΝΕΥΜΑΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ"]
 +++
 Αυτός είναι ο Θεός, ο Οποίος ακούει και απαντά στις προσευχές!
 

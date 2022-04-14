@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5325 in Bosanski'
 author = "Bahá'u'lláh"
-tags = ['lang-bs', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Post"]
 +++
 Zaklinjem Te, o, moj Bože, Tvojim Moćnim Znakom i objavom Tvoje milosti ljudima, da me ne otjeraš sa kapije grada Tvoga prisustva i da ne ugasiš nadu koju sam usmjerio ka objavama Tvoje milosti. Vidiš me, o, moj Bože, kako se držim Imena Tvoga, Najsvetijeg, Najsvjetlijeg, Najmoćnijeg, Najvećeg, Najuzvišenijeg, Najslavnijeg i privijam se uz Tvoje skute uz koje se privijaju svi ljudi ovoga svijeta i svijeta koji će doći. Zaklinjem Te, o, moj Bože, Tvojim najmilozvučnijim Glasom i Tvojom najuzvišenijom Rječju, da me što bliže primakneš pragu Tvojih vrata i da ne dopustiš da budem udaljen od sjene milosti Tvoje i zastora Tvoje dobrote. Vidiš me, o, moj Bože, kako se držim Imena Tvoga, Najsvetijeg, Najsvjetlijeg, Najmoćnijeg, Najvećeg, Najuzvišenijeg, Najslavnijeg i privijam se uz Tvoje skute uz koje se privijaju svi ljudi ovoga svijeta i
 svijeta koji će doći.

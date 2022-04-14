@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00032DAR in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "America"]
+tags = ['lang-en', 'prayer-AB00032DAR', "author-Abdu'l-Bahá", "category-America", "cat-America"]
 +++
 ##Revealed to the Bahá’ís of the United States and Canada
 

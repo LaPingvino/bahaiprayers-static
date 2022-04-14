@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12933 in Tok Pisin'
 author = "Bahá'u'lláh"
-tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-THANKS TO GOD"]
 +++
 O God bilong mi.  Mi laikim tumas yu.  Yu King bilong mi.  Mi gat bikpela laik long stap wantaim 
 Yu.  Maus bilong mi i no nap long tokaut long tenkyu bilong mi long Yu.  Mi no bin harim tok bilong Yu, tasol Yu bin kirapim mi.  Mi bin tanim baksait long Yu, tasol Yu bin marimari long mi na Yu bin helpim mi long tanim i kam bek gen long Yu.  Mi bin stap olsem wanpela daiman, tasol Yu bin kirapim mi wantaim wara bilong laip.  Mi bin lusim strong bilong mi, tasol toktok bilong Yu i bin givim laip long mi gen.  Yes, dispela toktok bilong Yu i olsem wara bilong heven.  Ol dispela toktok i kamaut long Ing na Pen bilong Yu.  Na Yu Save Marimari long Olgeta Man. 

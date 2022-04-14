@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10151 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Children"]
 +++
 O ye tender seedlings in the garden of the love of God!
 O ye fresh saplings in the meadows of the knowledge of God!

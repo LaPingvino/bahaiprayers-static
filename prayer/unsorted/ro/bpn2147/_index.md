@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2147 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Calităţi Spirituale"]
 +++
 O, Doamne Dumnezeul meu! Aceştia sunt plăpânzii Tăi slujitori; ei sunt sclavii Tăi loiali şi slujitoarele Tale ce s-au înclinat înaintea Rostirii Tale preamărite şi s-au smerit la Pragul Tău de lumină, şi au adus mărturie unicităţii Tale prin care Soarele a fost făcut să strălucească în splendoarea lui vernală. Ei au ascultat îndemnurile pe care le-ai înălţat din Tărâmul Tău tainic şi cu inimile vibrând de iubire şi desfătare au răspuns chemării Tale.
 

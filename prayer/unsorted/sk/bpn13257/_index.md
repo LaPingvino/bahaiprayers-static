@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13257 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Tabuľky Božského Plánu"]
 +++
 *Zjavené pre bahájov západných štátov
 Ó Bože! Ó Bože! Toto je vtáča so zlomeným krídlom a letí veľmi pomaly. Pomôž mu, aby mohlo vzlietnuť na vrcholok blahobytu a spasenia, s najväčšou radosťou a šťastím preletieť bezmedzný priestor, v Tvojom Zvrchovanom Mene nôtiť vo všetkých krajoch, rozveseliť sluch týmto volaním a rozjasniť zrak pohľadom na znamenia vedenia.

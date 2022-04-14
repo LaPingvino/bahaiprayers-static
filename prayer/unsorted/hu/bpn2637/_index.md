@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2637 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Este"]
 +++
 Ó, az Igazság keresője! Ha arra vágyódsz, hogy Isten felnyissa szemed, könyörögj Hozzá, imádkozz Hozzá, és fordulj Feléje, mikor éjfélt üt az óra, emígyen:
 

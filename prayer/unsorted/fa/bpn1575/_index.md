@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1575 in فارسی'
 author = "Abdu'l-Bahá"
-tags = ['lang-fa', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fa', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-منتخباتی از الواح مبارکه"]
 +++
 اين مناجات را هر نفسی به کمالِ تَضَرّع و ابتهال بخواند سببِ روح و ريحانِ قلبِ اين عبد گردد و حُکمِ ملاقات دارد.
 هُوالابهی

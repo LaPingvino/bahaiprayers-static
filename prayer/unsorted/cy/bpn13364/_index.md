@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13364 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Mankind"]
 +++
 O Dydi Garedig Arglwydd!  Ti a greaist yr holl ddynoliaeth o'r un llinach.  Ti a orchmynaist i bawb fod yn eiddo i'r un tylwyth.  Yn Dy Bresenoldeb Sanctaidd, Dy weision ydynt oll, a'r holl ddynolryw a gysgodir o dan Dy Dabernacl; y maent oll wedi ymgynnull ger Fwrdd Dy Haelioni; goleuir hwynt oll â goleuni Dy Ragluniaeth.  
 O Dduw!  Caredig wyt i bawb, Ti â ddarperaist ar gyfer pawb, wyt yn cysgodi pawb, cyflwynaist fywyd i bawb.  Rhoddaist i bob un dalentau a chynheddfau, a suddir y cwbl yn Eigion Dy Faddeuant.

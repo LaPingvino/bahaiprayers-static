@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11453 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Oración obligatoria corta"]
 +++
 *Las oraciones obligatorias diarias son tres. El creyente es completamente libre de escoger cualquiera de estas tres oraciones, pero está obligado a recitar una de ellas y de acuerdo con todas las indicaciones específicas que las acompañan.   
 

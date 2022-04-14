@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11760 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tsāme Daga Bukin Rānekun Tuāwa"]
 +++
 ##Rānar haifuwar Bab (aminci ya tabbata a garēshi)
 *Da sūnan wanda aka haifa a wannan rāna, wanda Allah ya haliccē shi dōmin ya zama kākākin sūnansa mai īko, mai ƙauna.

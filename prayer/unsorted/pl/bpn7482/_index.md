@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7482 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tablica do Chrześcijan"]
 +++
 ##LAWH-I-AQDAS
 *(NAJŚWIĘTSZA TABLICA zwana także TABLICĄ DO CHRZEŚCIJAN)

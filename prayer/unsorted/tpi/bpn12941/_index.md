@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12941 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-CHILDREN"]
 +++
 O God!  Skulim ol dispela pikinini.  Ol dispela pikinini em ol kru long gaden diwai bilong Yu, ol plaua long ples kunai bilong Yu na ol ros long gaden bilas bilong Yu. Inap ren bilong Yu i pundaun long ol.  Inap San bilong Trupela Ples bilong Yu i lait long ol wantaim lav bilong Yu. Inap ol i kisim gutpela win bilong Yu, bai ol i skul gut, gro gut, na kamap gut olgeta.  Bai ol i naispela tumas i stap.  Yu Save Givim Olgeta Samting.  Yu Save Sori Long Olgeta Man. 
 

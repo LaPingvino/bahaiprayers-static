@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3228 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Die Tafels van die Goddelike Plan"]
 +++
 O God, my God! U sien my verruk en aangetrek na U glorieryke koninkryk, onder die mensdom met die vuur van U liefde ontvlam, 'n boodskapper van U koninkryk in hierdie uitgestrekte en ruime lande, afgeskei van alles behalwe U, ek vertrou op U, doen afstand van rus en gemak, ver weg van my geboorteland, 'n swerwer in hierdie streke, 'n vreemdeling op die grond geval, ootmoedig voor U verhewe Drumpel, gedwee teenoor die hemel van U alvermoënde heerlikheid, ek smeek U in die middel van die nag en by dagbreek, soebat U teen môrelig en in die aand om my goedgunstig by te staan om U Saak te dien, om U Leer wyd en syd te versprei en U Woord deur die Ooste en die Weste te verheerlik.
 

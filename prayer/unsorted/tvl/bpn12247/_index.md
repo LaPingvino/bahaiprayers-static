@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12247 in Tuvalu'
 author = "Báb"
-tags = ['lang-tvl', '', "Báb", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Báb", "category-unsorted", "cat-PALATAISO"]
 +++
 Te matagofie e i luga ia Koe, O te Aliki toku Atua!  E seai se mea e tasi e seke mai i Tou poto, io me e isi foki se mea e mafai o seke mai i Ou lima, io me se isi mea e mafai o fakalavelave ki Tau Galuega, me i loto i lagi io me i te lalolagi, i taimi ko teka io me mai mua nei.  
  

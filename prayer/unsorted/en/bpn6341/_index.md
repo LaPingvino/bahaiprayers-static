@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6341 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Service"]
 +++
 I give praise to Thee, O my God, that the fragrance of Thy loving-kindness hath enraptured me, and the gentle winds of Thy mercy have inclined me in the direction of Thy bountiful favors. Make me to quaff, O my Lord, from the fingers of Thy bounteousness the living waters which have enabled every one that hath partaken of them to rid himself of all attachment to any one save Thee, and to soar into the atmosphere of detachment from all Thy creatures, and to fix his gaze upon Thy loving providence and Thy manifold gifts.
 

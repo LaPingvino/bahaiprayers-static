@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9323 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MARAINA"]
 +++
 Midera Anao aho, ry Andriamanitro ô, noho ny namohazanao ahy tamin’ny torimasoko sy namerenanao ahy taorian’ny tsy naha-teo ahy ary nitsanganako tamin’ny faharendremana. Nifoha maraina aho, ny endriko nitodika tany amin’ny famirapiratry ny Kintana Marainan’ny Fanambaranao izay nampahazava ny lanitry ny Herinao sy ny Voninahitrao, nihaiky ny Famantaranao, nino ny Bokinao ary niraiki-pitia fatratra tamin’ny Tadinao.
 Mitalaho Aminao aho, amin’ny alalan’ny herin’ny Sitraponao sy ny fahefan’ny Fikasanao tsy hay toherina, aoka ny tsindrimandry izay nataonao tamiko nandritry ny torimasoko ho fototra tena marina ho an’ny fonenan’ny Fitiavanao, izay latsa-paka ao anatin’ny fon’ireo olon-tianao, ary koa ho fiasana tsara indrindra ho an’ny fanehoana ny porofon’ny Fahasoavanao sy ny Hatsaranao be fitiavana.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3226 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Standvastigheid in die Verbond"]
 +++
 Hy is die Magtige, die Vryspreker, die Medelydende!
 

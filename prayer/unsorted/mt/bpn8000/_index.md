@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8000 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Is-Sawm"]
 +++
 ##Is-Sawm 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2836 in Shqip'
 author = "Báb"
-tags = ['lang-sq', '', "Báb", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Báb", "category-unsorted", "cat-Shkëputja"]
 +++
 O Zot! Ty të drejtohem për strehë dhe ndaj të gjitha shenjave të Tua e ktheva zemrën.
 

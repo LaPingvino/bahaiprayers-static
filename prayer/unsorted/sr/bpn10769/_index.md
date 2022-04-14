@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10769 in Srpski српски'
 author = "Bahá'u'lláh"
-tags = ['lang-sr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ZA PREMINULE"]
 +++
 *Ovo je molitva za sve bahajce starije od petnaest godina.To je jedina obavezna molitva koja se izgovara u kongregaciji; govori je jedan vernik dok ostali stoje.Kod ove molitve nije potrebno okrenuti se prema Kibli.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11757 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ziyāra"]
 +++
 *Wannan āyā, ana jan ta a ƙabarin Baha’u’llah, kō na Bab (tsīra da aminci su tabbata a garēsu). Wanda yake sō, yana iya karantā ta, rānēkun haifuwarsu.
 Yabo dake dangance da zamantakēwarka mai martaba, kuma da mahibbar da ta haskō daga ƙyalƙyalin kyāwonka, su tabbata a garēka, yā kai da kai nē alāmar girma, da kai nē sarkin dawwama har abada, kuma da kai nē Ubangijin duk abūbūwan dake ƙasa da sammai !

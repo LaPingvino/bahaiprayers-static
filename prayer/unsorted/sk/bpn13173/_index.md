@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13173 in Slovensky'
 author = "Báb"
-tags = ['lang-sk', '', "Báb", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Báb", "category-unsorted", "cat-Odpustenie"]
 +++
 Sláva buď Tebe, ó Bože! Ako sa o Tebe môžem zmieniť, keď si povznesený nad chválu celého ľudstva? Blahorečené buď Tvoje meno, ó Bože! Ty si Kráľ, Večná pravda, Ty vieš, čo je v nebesách i na zemi a k Tebe sa musia všetci navrátiť. 
 Podľa jasnej miery si zoslal Svoje božsky nariadené zjavenie. Si pochválený, ó Pane! Na Svoj príkaz učiníš víťazným kohokoľvek si zaželáš prostredníctvom zástupov nebies a zeme a všetkého, čo jestvuje medzi nimi. Ty si Vladár, Večná pravda, Pán nepremožiteľnej sily. 

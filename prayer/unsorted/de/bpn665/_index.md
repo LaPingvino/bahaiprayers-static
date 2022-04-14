@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn665 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Das lange Pflichtgebet"]
 +++
 #EINMAL IN 24 STUNDEN ZU SPRECHEN
 

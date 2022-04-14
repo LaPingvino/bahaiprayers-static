@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4171 in American Indian'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-US', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nai-US', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Navajo"]
 +++
 Shil beehozin, Diyin Shitaa’ Nínílíni, éí nééhodeessiilgo biniighé  iiná shaa dííní’ á áádóó Niji’ sodiizin do. T’áá k’ad bee haszíí’ shich’i’ nahwii’ná áádóó Ni t’éiyá Nidziil, té’é’í shidaah ndahkai áádóó Ni t’áá altsoní Niholó.
 T’áá Ni t’éiyá Aláadi Diyin nilí, Nihich’i’ Nahwiilná’ígíí

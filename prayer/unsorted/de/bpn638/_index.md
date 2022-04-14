@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn638 in Deutsch'
 author = "Báb"
-tags = ['lang-de', '', "Báb", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Báb", "category-unsorted", "cat-Allmacht Gottes"]
 +++
 Alle Herrlichkeit und Majestät, o mein Gott, alle Herrschaft, alle Erhabenheit und aller Lichtglanz seien Dein. Du verleihest Herrschaft, wem Du willst, und Du entziehst sie, wem Du wünschest. Es gibt keinen Gott außer Dir, dem Allbesitzenden, dem höchst Erhabenen. Du hast das Weltall aus dem Nichts erschaffen und alles, was darinnen ist. Nichts ist Deiner wert außer Dir selbst, sind doch alle außer Dir wie Ausgestoßene in Deiner heiligen Gegenwart, wie ein Nichts im Vergleich zur Herrlichkeit Deines Wesens..
 Es liegt mir fern, Deine Tugenden anders zu preisen als so, wie Du Dich selbst in Deinem gewichtigen Buche gepriesen hast, worin Du sagst: „Kein Auge kann Ihn erfassen, doch Er erfasst ein jedes Gesicht. Er ist der Feinsinnige, der Allkundige.“ Ruhm sei Dir, o mein Gott! Kein noch so scharfer, urteilsfähiger Geist und keine Schau kann fürwahr jemals das geringste Deiner Zeichen dem Wesen nach erfassen. Wahrlich, Du bist Gott; es gibt keinen Gott außer Dir. Ich bezeuge, dass in Dir allein Deine Eigenschaften zum Ausdruck kommen, dass niemandes Lobpreis außer dem Deinen zu Deinem heiligen Hof aufsteigen kann und dass niemand Deine Eigenschaften auszuloten vermag außer Dir selbst.

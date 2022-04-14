@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12350 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAFINE"]
 +++
 Faka-lauefa a Tou igoa, O te Aliki toku Atua!  Taofi aka ne Koe toku mata e faka-moemoe ke kilo ki luga i mea faka-ofoofogia o 
 Tou alofa-kaimalie, ka ko toku taaliga e keu o fakavave ki te suamalie o Tou leo, mo toku fatu e finafinau ki te vai ola o Tou poto. E lavea ne Koe a Tau tavini fafine, O toku Atua, e tu i mua o te fale o Tou alofa-kaimalie, kae kalaga atu kia Koe i Tou igoa tela ko oti ne fili ne Koe mai i luga i niisi igoa aka katoa kae faka-tumau mai i luga o mea katoa ite lagi mo te lalolagi.  Tuku ifo ki lalo ia ia fafine a manavaaga o Tou alofa-kaimalie, ko te mea ke mafai ne ia o kave keatea katoatoa mai ia ia, kae ke futi atu katoatoa ki luga i te nofoga tela, e malifalifa i te matagofie o Ou mata, e tufa atu fakamao a te fiafia o Tou nofoaiga-a-tupu, kae fakatu me ko Tou kalauna-a-tupu.  E mafai ne Koe o fai a te mea e manako Koe ki ei.  E seai aka foki se Atua i Ou tafa, te Matagofie-Katoatoa, te Tafasili i te Gali.  

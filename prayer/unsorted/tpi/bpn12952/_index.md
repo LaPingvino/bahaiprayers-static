@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12952 in Tok Pisin'
 author = "Bahá'u'lláh"
-tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-HEALING"]
 +++
 O God bilong mi.  Nem bilong Yu i helpim mi long winim sik. Sapos mi tingim Yu, dispela tingting i olsem marasin bilong mi.  Sapos mi stap klostu long Yu, orait, bai mi wetim ol gutpela samting i kamap.   Mi laikim tumas Yu na dispela lav i stap olsem poroman bilong mi.  Marimari bilong Yu i 
 save rausim ol sik bilong mi na helpim mi long dispela taim we mi stap long dispela graun na long laip bihain wantaim.  Tru tumas.  Yu Save Blesim Oltaim.  Yu Gat Olgeta Save na Yu Save Olgeta. 

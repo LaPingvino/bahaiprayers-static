@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9366 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-VAVAKA TSY MAINTSY ATAO"]
 +++
 *Tonom-bavaka lava izay vakiana indray mandeha isan’andro. 
 *Raha hanao ity vavaka ity, dia aoka hitsangana, mitodika any amin’Andriamanitra ary tsy miova toerana, miherikerika an-kavanana sy an-kavia toy ny miandry ny famindrampon’ny Tompo, Ilay tena be Indrafo, Ilay Onena. Aoka izy hiteny hoe:

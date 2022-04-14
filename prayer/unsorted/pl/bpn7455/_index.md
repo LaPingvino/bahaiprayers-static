@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7455 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Zwycięstwo Sprawy"]
 +++
 Ty widzisz, o mój Boże, jak Twoi umiłowani osaczeni są przez zbuntowanych pośród Twoich stworzeń i nikczemnych pośród Twoich ludzi. Nie ma miejsca, skąd nie zanosiłby się lament Twoich miłośników i płacz Twoich wybranych. Błagam Cię, na Twoje Największe Imię, abyś wyciągnął dłoń mocy z wnętrza swej potęgi i wspomógł nią wszystkich tych, którzy Cię miłują. 
     

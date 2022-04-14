@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7796 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Assistenza"]
 +++
 Signore! Meritevoli di pietà noi siamo, accordaci i Tuoi favori; poveri siamo, dispensaci una parte dell’oceano della Tua ricchezza; bisognosi, soccorrici; umiliàti, donaci la Tua gloria. Gli uccelli dell’aria e gli animali dei campi ricevono da Te ogni giorno il loro cibo e tutti gli esseri fruiscono delle Tue cure e del Tuo tenero amore.
 Non privare questo debole essere della Tua grazia meravigliosa e, con la Tua possanza, concedi la Tua munificenza a quest’anima derelitta.

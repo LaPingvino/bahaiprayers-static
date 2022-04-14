@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2865 in Česky'
 author = "Bahá'u'lláh"
-tags = ['lang-cs', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cs', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Krátká denní modlitba"]
 +++
 Dosvědčuji, ó můj Bože, že jsi mne stvořil, abych Tě znal a uctíval.
 

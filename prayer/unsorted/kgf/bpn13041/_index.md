@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13041 in Kube'
 author = "Bahá'u'lláh"
-tags = ['lang-kgf', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-kgf', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Humuc Zêzêtec Ac Mosoc"]
 +++
 *Hêna ara yomuhuc.  Qamoc haiwing imi walac Kewu mosoc zêtecgêmu.  Andia iguc qamoc haimu, qamoc imi, Embacŋŋê waŋŋu zêmu.  Ai Embac youmi ai embac gawac merac.  Imi zêma qamoc baec iguc haimu.
 

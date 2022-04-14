@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5777 in Català'
 author = "Bahá'u'lláh"
-tags = ['lang-ca', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Dejuni"]
 +++
 Glòria sigui a Tu, oh Senyor Deu meu! Aquests són els dies en què Tu has ordenat a tots els homes observar el dejuni, perquè per ells purifiquin les seves ànimes, s’alliberin de tota afecció a d’altre que no siguis Tu i ascendeixi dels seus cors allò que sigui digne de la cort de la Teva majestat i propi de la seu de la revelació de la Teva unitat. Concedeix, oh Senyor meu, que aquest dejuni arribi a ser un riu d’aigües vivificadores i atorgui la virtut amb què Tu ho donares. Purifica amb ell els cors dels Teus serfs, als qui els mals del món no han impedit tornar-se cap al Teu Nom Tot Gloriós i han romàs immutables davant el clamor i el brogit d’aquells què han repudiat els resplendents signes, que acompanyaren l’adveniment de la Teva Manifestació; a la qual has investit amb la Teva sobirania, el Teu poder, la Teva majestat i la Teva glòria. Aquests son els serfs que, tan aviat oïren la Teva crida, s’apressaren cap a la Teva mercè i no foren separats de Tu  pels canvis i atzars d’aquest món, ni per cap limitació humana.
 

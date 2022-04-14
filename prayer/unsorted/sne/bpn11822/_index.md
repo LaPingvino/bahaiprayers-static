@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11822 in Bidayuh'
 author = "Bahá'u'lláh"
-tags = ['lang-sne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Doa Mitia Apunt"]
 +++
 Mulia manah Ingan, O Raja Topa ku! Oku nguwai Ingan pakai Bala Tipilih Ingan, bia pakai Pinoban Amanah Ingan, bia pakai sok Iyoh Nyaa dek mbok nitah odak jadin Bolut para Nabi Ingan bia Pingutus-Pingutus Ingan, ngan-eh odak panginatong Ingan jadin ayua pingimam ku, bia pangirinduk Ingan tuju ku, bia jowin Ingan niat ku, bia adon Ingan lapu ku, bia cita-cita Ingan hasrat ku, bia pimoon Ingan pinyuka ku. 
 Oku nyaa dek bidosa, O Raja ku, Ingan leh dek Selalu-Ngapunt. Takal gituang ku piluh Ingan, oku lasuk ngotiak galak yak ningak balai perinduk tulut Ingan dek bigatung. Ngapunt oku, O Raja ku, dosa-dosa kuk dek mbok kitabak oku ponu daang olant dek suka Ingan, bia ningak ladae laut pinyindi Ingan. 

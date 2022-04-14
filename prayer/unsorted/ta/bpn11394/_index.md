@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11394 in தமிழ்'
 author = "Bahá'u'lláh"
-tags = ['lang-ta', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-பெண்கள்"]
 +++
 பிரபுவே எனதாண்டவரே, நீர் போற்றப்படுவீராக! 
 

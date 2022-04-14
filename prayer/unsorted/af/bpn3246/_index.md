@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3246 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Begrafnis"]
 +++
 ##GEBED VIR DIE DOOIES
 

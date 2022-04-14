@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8165 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pagten"]
 +++
 Han er Den Mægtige, Tilgiveren, Den Medfølende!
 

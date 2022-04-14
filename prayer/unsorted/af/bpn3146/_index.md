@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3146 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Aand"]
 +++
 Hoe kan ek verkies om te slaap, o God, my God, terwyl die oë van diegene wat na U verlang slapeloos is vanweë hulle afsondering van U; en hoe kan ek my neerlê solank die siele van U liefhebbers swaar gekwel is in hulle afgeleënheid van U aanwesigheid?
 

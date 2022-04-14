@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4902 in Vanuatu'
 author = "Bahá'u'lláh"
-tags = ['lang-bi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-SOTFALA  OBLIGATORI  PREA"]
 +++
 *Tisfala prea, we hem i sot wan aot long ol trifala prea, yumi mas talemaot wan taem long evri dei, eni taem bitwin medel dei mo taem we san i go daon.
 

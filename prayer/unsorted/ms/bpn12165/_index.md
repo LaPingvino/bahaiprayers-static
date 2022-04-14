@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12165 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-PERTEMUAN & MAJLIS ROHANI"]
 +++
 Ya Engkau Tuhan yang Pemurah! Hamba-hamba ini telah berkumpul dalam pertemuan ini, telah berpaling kepada kerajaan-Mu dan memerlukan kurnia dan berkat-Mu. Ya Engkau Tuhan! Jelmakanlah dan perlihatkanlah tanda-tanda keesaan-Mu yang telah tersimpan di dalamnya semua realiti kehidupan. Tunjukkanlah dan bukakanlah sifat-sifat yang Engkau telah jadikan terpendam dan tersembunyi dalam realiti manusia ini.
 

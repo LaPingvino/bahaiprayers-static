@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12071 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ḤUQÚQU’LLÁH: HAK TUHAN"]
 +++
 *”Ḥuqúqu’lláh adalah sesungguhnya satu hukum yang hebat. Adalah diwajibkan bagi semua untuk melakukan pembayaran ini, kerana ia adalah sumber rahmat, kemewahan, dan segala kebaikan. Ia adalah satu kurnia yang akan kekal dengan setiap roh dalam setiap dunia daripada dunia-dunia Tuhan, Segala Memiliki, Yang Maha Rahmat.”
  

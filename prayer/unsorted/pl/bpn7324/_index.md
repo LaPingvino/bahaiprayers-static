@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7324 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Nauczanie"]
 +++
 Ty wiesz, o Boże, i jesteś moim świadkiem, że nie mam żadnego pragnienia w moim sercu prócz tego, aby osiągnąć Twoje zadowolenie, być umocnionym w służeniu Tobie, oddać się służbie dla Ciebie, pracować w Twojej wielkiej winnicy i poświęcić wszystko na Twojej ścieżce. Tyś jest Wszystkowiedzącym i Wszystkowidzącym. Z miłości do Ciebie pragnę jedynie skierować me kroki ku górom i pustyniom, aby głośno oznajmiać przybycie Twojego Królestwa i wznosić Twoje wołanie pośród wszystkich ludzi. O Boże! Otwórz drogę temu bezradnemu, udziel swego lekarstwa temu bolejącemu i daj swe uzdrowienie temu cierpiącemu. Z rozpalonym sercem i oczami pełnymi łez błagam Cię u Twojego progu. 
    

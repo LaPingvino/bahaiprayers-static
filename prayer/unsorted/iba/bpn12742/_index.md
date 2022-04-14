@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12742 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Genteran diambi ari Papan Tulis Ridvan"]
 +++
 *Dalam nama Iya Siku ti udah mancharka bebendang Iya ari atas semua utai tempa!
  Musim Bungai Kudus diatu udah datai, O Pen Pemadu

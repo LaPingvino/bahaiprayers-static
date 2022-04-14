@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2816 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Për të vdekurit"]
 +++
 Lavdia qoftë mbi Ty, O Zot, Perëndia im! Mos e poshtëro atë që Ti e ke lartësuar përmes fuqisë së sovranitetit Tënd të përjetshëm dhe mos e largo prej Teje atë që Ti e ke bërë të hyjë në faltoren e përjetësisë Sate. A do ta flakësh tutje, O Perëndia im, atë që Ti e ke strehuar nën Pushtetin Tënd dhe a do të largohesh Ti, O Dëshira ime, prej atij për të cilin Ti ke qenë mbrojtje? A mund ta ulësh Ti atë që e ke ngritur lart, apo të harrosh atë që Ti e ke bërë të aftë për të të kujtuar Ty?
 

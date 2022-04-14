@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11362 in தமிழ்'
 author = "Báb"
-tags = ['lang-ta', '', "Báb", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Báb", "category-unsorted", "cat-பற்றின்மை"]
 +++
 பிரபுவே! நான் உம்மிடமே அடைக்கலம் கோரி வருகின்றேன், உமது எல்லா அடையாளங்களின் மீதும் நான் என் மனதைப் பதிய வைத்துள்ளேன். 
 

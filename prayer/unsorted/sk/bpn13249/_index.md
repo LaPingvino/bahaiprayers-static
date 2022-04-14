@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13249 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Narodenie Bahá’u’lláha"]
 +++
 *On je Najsvätejší, Najväčší.
 

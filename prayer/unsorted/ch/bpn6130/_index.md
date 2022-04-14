@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6130 in Chamorro'
 author = "Abdu'l-Bahá"
-tags = ['lang-ch', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ch', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-OTRO SIHA NA TINAITAI"]
 +++
 Saina Yu’os-hu! Asiste i manguinaya-Mu na u fanmetgot gi Hinengge-Mu, u fanmamok-kat gi karera-Mu, ya u fanfitme gi che’cho’-Mu. Na’i ni grasia-Mu para u ma sungon i inatakan i tailayen yan i sensen, ya u ma tattiyi i kandet i yini’usan na giniha. Hagu i Minina’siña, i Grasiosu, i Lala’la’-Maisa, i Nana’i, i Gai Yo’ase’, i Tagahlo’, i Todu Geftao.
 

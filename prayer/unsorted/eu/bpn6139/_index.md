@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6139 in Euskara'
 author = "Bahá'u'lláh"
-tags = ['lang-eu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-eu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Errukia"]
 +++
 Gurtzen zaitudan ene Jainkoa!
 Zure batasunaren eta bakartasunaren lekuko nauzu eta lehengo eta oraingo Zure emaitzak onartzen ditut. Guztiz Emankorra Zeu zara eta Zure errukizko euri oparoak handikien nahiz apalen gain ixuri izan dira, eta Zure adeiaren dizdira, esanekoen nahiz bihurrien gain barraiatua izan da.

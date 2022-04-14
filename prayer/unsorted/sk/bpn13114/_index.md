@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13114 in Slovensky'
 author = "Báb"
-tags = ['lang-sk', '', "Báb", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Báb", "category-unsorted", "cat-Pomoc a podpora"]
 +++
 Pochválené buď Tvoje meno, ó Pane môj Bože! Vskutku, Ty si Ten, ktorý pozná veci nikým nevidené. Urči pre nás toľko dobra, koľko len Tvoje všetko objímajúce poznanie dokáže zmerať. Ty si zvrchovaný Pán, Všemohúci, nadovšetko Milovaný.
 Všetka chvála patrí Tebe, ó Pane. V stanovený deň budeme hľadať Tvoju milosť a svoju dôveru vložíme v Teba, ktorý si naším Pánom.

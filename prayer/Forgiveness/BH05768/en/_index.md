@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH05768 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "Forgiveness"]
+tags = ['lang-en', 'prayer-BH05768', "author-Bahá'u'lláh", "category-Forgiveness", "cat-Forgiveness"]
 +++
 Glorified art Thou, O Lord my God!  Every time I venture to make mention of Thee, I am held back by my mighty sins and grievous trespasses against Thee, and find myself wholly deprived of Thy grace, and utterly powerless to celebrate Thy praise.  My great confidence in Thy bounty, however, reviveth my hope in Thee, and my certitude that Thou wilt bountifully deal with me emboldeneth me to extol Thee, and to ask of Thee the things Thou dost possess.
 I implore Thee, O my God, by Thy mercy that hath surpassed all created things, and to which all that are immersed beneath the oceans of Thy names bear witness, not to abandon me unto my self, for my heart is prone to evil.  Guard me, then, within the stronghold of Thy protection and the shelter of Thy care.  I am he, O my God, whose only wish is what Thou hast determined by the power of Thy might.  All I have chosen for myself is to be assisted by Thy gracious appointments and the ruling of Thy will, and to be aided with the tokens of Thy decree and judgment.

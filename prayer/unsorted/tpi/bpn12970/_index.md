@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12970 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-FUND"]
 +++
 O God, God bilong mi!  Givim lait long poret bilong ol lain manmeri, husat i laikim Yu tru.  Na helpim ol wantaim ol bikpela lain ensel bilong Yu, em ol ensel i save win oltaim.  Strongim lek bilong ol long wokabaut long stretpela rot bilong Yu.  Opim ol dua inap bai ol i ken lukim ol gutpela presen bilong Yu, em ol presen i kam long Blesing bilong Yu bilong oltaim.  Mekim ol dispela samting long ol, long wanem ol i save givim bek ol samting Yu bin givim long ol taim ol i bihainim rot bilong Yu.  Ol i save lukautim Lotu bilong Yu.  Ol i save tingim Yu, olsem ol i bilip tru long Yu.  Ol i makim lewa bilong ol long Yu, long wanem ol i laikim Yu tumas.  Ol i no holimpas moa long ol gutpela samting bilong ol, long wanem ol i laikim Yu tumas. Ol i no holimpas moa long ol gutpela samting bilong ol, long wanem ol i save laikim tru Naispela bilong Yu na ol i painim sampela rot bilong amamasim Yu. 
  

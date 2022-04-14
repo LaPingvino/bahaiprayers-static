@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9363 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TAKELA-PAHATSIAROVANA"]
 +++
 *(Ity takela ity dia vakiana eo amin’ny fasan’i Bahá’u’lláh sy i Báb. Vakiana matetika koa amin’ny fahatsiarovana ny fitsingerenan’ny taonany).
 

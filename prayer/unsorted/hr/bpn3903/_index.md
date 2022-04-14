@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3903 in Hrvatski'
 author = "Abdu'l-Bahá"
-tags = ['lang-hr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Jedinstvo"]
 +++
 O, Bože moj! O, Bože moj! Doista zazivam te i preklinjem na pragu Tvome i molim da sve Tvoje milosti siđu na ove duše. Usmjeri ih ka Tvojoj naklonosti i Tvojoj istini.
 

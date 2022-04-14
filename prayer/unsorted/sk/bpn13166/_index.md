@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13166 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Odpustenie"]
 +++
 Si oslávený, ó Pane, môj Bože! Pri Tvojich vyvolených a pri Nositeľoch Tvojho Zverenectva a pri Tom, koho si určil za Pečať Svojich Prorokov a Svojich Poslov, Ťa úpenlivo prosím, aby si učinil spomienku na Teba mojím spoločníkom, lásku k Tebe mojím zámerom, Tvoju tvár mojím cieľom, Tvoje meno mojou lampou, Tvoje želanie mojou túžbou a Tvoje rozhodnutie mojím potešením. 
 Som hriešnik a Ty, ó môj Pane, si vždy Odpúšťajúci. Hneď ako som Ťa rozpoznal, náhlil som sa dosiahnuť vznešený dvor Tvojej láskyplnosti. Ó môj Pane, odpusť mi hriechy, ktoré mi zabránili kráčať po chodníku Tvojej spokojnosti a dosiahnuť breh oceánu Tvojej jedinosti.

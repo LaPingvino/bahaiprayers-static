@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12482 in Samoan'
 author = "Abdu'l-Bahá"
-tags = ['lang-sm', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MIDNIGHT"]
 +++
 O Lord, I have turned my face unto Thy kingdom of oneness
 

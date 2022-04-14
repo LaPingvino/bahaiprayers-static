@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12307 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TALAIIGA"]
 +++
 Fai atu: Ke faka-lasiigina a Tou Igoa, O te Aliki toku Atua!  Au e akai totuli kia Koe i Tou Igoa te la ne sulu malifalifa a te gali o te mainaaga o te atamai i taimi ne matala mai a lagi o tau muna ki luga i tagata, o fesoasoani alofa mai kia au mai i luga i Au fakamanuiaaga faka-te-lagi kae fakamafai aka au ke fakamaluga a Tou Igoa i vasia o Au tavini.  
   

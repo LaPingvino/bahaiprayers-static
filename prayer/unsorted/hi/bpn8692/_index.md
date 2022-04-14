@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8692 in हिंदी'
 author = "Abdu'l-Bahá"
-tags = ['lang-hi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-मध्यरात्रि की प्रार्थना"]
 +++
 *हे सत्य के साधक! यदि तू कामना करता है कि प्रभु तेरे नेत्र खोल दें, तो तुझे अवश्य ही मध्यरात्रि में प्रभु की आराधना, उसकी प्रार्थना और उससे यह कहते हुए संलाप करना चाहिये :
 

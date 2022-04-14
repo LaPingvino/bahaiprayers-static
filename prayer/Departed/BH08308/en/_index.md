@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH08308 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "Departed"]
+tags = ['lang-en', 'prayer-BH08308', "author-Bahá'u'lláh", "category-Departed", "cat-Departed"]
 +++
 Glory be to Thee, O Lord my God!  Abase not him whom Thou hast exalted through the power of Thine everlasting sovereignty, and remove not far from Thee him whom Thou hast caused to enter the tabernacle of Thine eternity.  Wilt Thou cast away, O my God, him whom Thou hast overshadowed with Thy Lordship, and wilt Thou turn away from Thee, O my Desire, him to whom Thou hast been a refuge?  Canst Thou degrade him whom Thou hast uplifted, or forget him whom Thou didst enable to remember Thee?
 Glorified, immensely glorified art Thou!  Thou art He Who from everlasting hath been the King of the entire creation and its Prime Mover, and Thou wilt to everlasting remain the Lord of all created things and their Ordainer.  Glorified art Thou, O my God!  If Thou ceasest to be merciful unto Thy servants, who, then, will show mercy unto them; and if Thou refusest to succor Thy loved ones, who is there that can succor them?

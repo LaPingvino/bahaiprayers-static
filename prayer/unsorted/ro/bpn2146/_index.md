@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2146 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Calităţi Spirituale"]
 +++
 O, Doamne, Dumnezeul meu! Acesta este slujitorul Tău radios, robul Tău spiritual care s-a apropiat de Tine şi de prezenţa Ta. şi-a întors faţa către Tine, a recunoscut unicitatea Ta, a mărturisit singularitatea Ta, a proclamat în numele Tău în mijlocul naţiunilor şi a condus oamenii către şuvoaiele milostivirii Tale. O, Tu Stăpâne Preageneros! Celor care au cerut le-ai dat să bea din cupa călăuzirii ce se revarsă de vinul harului Tău nesecat.
 

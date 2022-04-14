@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6557 in 한국어'
 author = "Abdu'l-Bahá"
-tags = ['lang-ko', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-신성회"]
 +++
 그대들은 합금이 아닌 순금의 기쁨 속에 함께 모여서, 회의 서두에 이 기도를 낭송하라:
 

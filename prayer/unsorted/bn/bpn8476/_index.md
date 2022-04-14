@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8476 in বাংলা'
 author = "Bahá'u'lláh"
-tags = ['lang-bn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-অগ্নি ফলকলিপি"]
 +++
 (এই ফলকলিপিটি “ক্বাদ-ইহ্তারাক্বাল-মুখলিসুন” নামে বাহা’উল্লাহ্ কর্তৃক অবতীর্ণ হয়েছে)
 

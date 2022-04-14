@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4754 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-İanə haqqında dua"]
 +++
 *Allahın bütün dostları..., onların verdiyi ianə nə qədər cuzi olsa da, mümkün olan qədər ianə verməlidirlər. Allah hər hansı bir ruha onun gücündən artıq yük qoymaz. Belə ianələr bütün mərkəzlərdən və bütün möminlərdən gəlməlidir...
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7243 in ελληνικά'
 author = "Bahá'u'lláh"
-tags = ['lang-el', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ΠΙΝΑΚΙ∆ΕΣ ΠΡΟΣΚΥΝΗΜΑΤΟΣ"]
 +++
 *(Αυτή η Πινακίδα διαβάζεται στους Τάφους του Μπαχάολλα και του Μπαµπ. Χρησιµοποιείται επίσης συχνά κατά τη µνηµόνευση των επετείων Τους)
 

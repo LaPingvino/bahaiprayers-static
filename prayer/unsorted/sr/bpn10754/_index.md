@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10754 in Srpski српски'
 author = "Abdu'l-Bahá"
-tags = ['lang-sr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-JEDINSTVO"]
 +++
 O Ti dobri Gospode! Ti si sazdao čitavo čovečanstvo od iste loze. Ti si naložio da svi treba da pripadaju jednoj porodici. U Tvom Svetom Prisustvu svi su Tvoje sluge, i čitav ljudski rod nalazi utočište u Tvom Svetilištu; svi su se okupili oko Tvoje Izdašne Trpeze; svi su obasjani svetlom Tvog Proviđenja.
 O Bože! Ti si dobar prema svima, sve opskrbljuješ, svima pružaš sklonište, svima darivaš život. Ti si svakog ponaosob obdario talentima i sposobnostima, i svi su zagnjureni u Okean Tvoje Milosti.

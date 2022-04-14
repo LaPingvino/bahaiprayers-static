@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8820 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-家庭禱文"]
 +++
 上帝啊，我的上帝！祢的女僕正呼喚祢，她信賴祢，面向祢，祈求祢降賜天恩，為她揭開祢靈性的奧秘，向她傾灑祢神聖的光輝。
 啊，我的主！求祢開啟我丈夫的雙目。以祢的知識之光使他歡愉，將他的心引向祢的燦爛聖美；顯示祢昭然光輝，藉以振奮他的精神。

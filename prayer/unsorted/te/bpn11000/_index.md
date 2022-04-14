@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11000 in తెలుగు'
 author = "Abdu'l-Bahá"
-tags = ['lang-te', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-te', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-దివంగతులకు"]
 +++
 ఓ నా దేవా! దుష్కృతాలను క్షమించేవాడివీ, బహుమతులను అనుగ్రహించేవాడివీ, వ్యధలను నివారించేవాడివీ అయిన ఓ దేవా!
 

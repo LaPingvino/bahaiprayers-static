@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7779 in Kreyol Ayisyen'
 author = "Báb"
-tags = ['lang-ht', '', "Báb", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Báb", "category-unsorted", "cat-Sipò"]
 +++
 *sipò
 

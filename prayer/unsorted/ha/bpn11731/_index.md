@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11731 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Kāriya"]
 +++
 Yā Allāna, zukāce da yawa masu sanyi, sun zāzāfa kusa da gumin addīninka. Hankulla da yawa masu gyangyaɗi, sun wartsake da suka ji zāƙin muryarka. Sabbin zuwa da yawa, sun nēmi mafaƙa a ƙalƙashin ɗayantakarka. Ma jī ƙishirwa da yawa, sun nēmi ɗanɗana ruwan rījiyarka mai rāyarwa, a wannan rānar rānaikunka!
 Alhēri ya tabbata, ga wanda ya juya fuskarshi wajenka, kuma ya gaugauta, don ya iske tarmamuwar sāhiyar hasken huskarka.

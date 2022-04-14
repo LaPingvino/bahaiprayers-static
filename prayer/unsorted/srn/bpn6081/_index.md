@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6081 in Sranan Tongo'
 author = "Bahá'u'lláh"
-tags = ['lang-srn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-srn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Korte Verplichte Gebed"]
 +++
 ##KORTE VERPLICHTE GEBED 
 *(Het korte verplichte gebed wordt dagelijks gezegd tussen 12 en 6 uur 's middags.) 

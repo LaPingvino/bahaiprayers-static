@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13262 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Výnimočné tabuľky"]
 +++
 ##Tabuľka navštívenia ‘Abdu’l-Bahu
 *Táto modlitba, zjavená ‘Abdu’l-Bahom, sa číta v Jeho Svätyni. Tiež sa môže použiť ako modlitba v súkromí.

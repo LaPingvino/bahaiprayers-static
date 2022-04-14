@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8106 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Standhaftighed"]
 +++
 O Gud, min Gud! Jeg har vendt mig til Dig med anger, og Du er i sandhed Tilgiveren, Den Medfølende.
 

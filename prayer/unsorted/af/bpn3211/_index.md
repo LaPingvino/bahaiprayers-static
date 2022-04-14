@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3211 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Toetse en Moeilikhede"]
 +++
 Verheerlik word U, o Here my God! Elke mens van insig bely U oppermag en U heerskappy, en elke oordeelkundige oog gewaar die grootheid van U majesteit en die gebiedende sterkte van U mag. Die toetswinde is magteloos om diegene wat nabye toegang tot U geniet terug te hou daarvan om hulle gesigte na die horison van U heerlikheid te rig, en die stormwinde van beproewinge moet faal om diegene wat geheel aan U wil toegewy is, weg te trek en te verhinder om U voorhof te nader.
 

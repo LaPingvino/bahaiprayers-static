@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12477 in Samoan'
 author = "Bahá'u'lláh"
-tags = ['lang-sm', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MEDIUM OBLIGATORY PRAYER"]
 +++
 *TO BE RECITED DAILY, IN THE MORNING, AT NOON, AND IN THE EVENING
  

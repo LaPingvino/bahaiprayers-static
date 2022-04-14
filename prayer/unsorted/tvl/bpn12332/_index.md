@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12332 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TOFOOGA"]
 +++
 Ko tavaeega katoa e io Koe, O toku Atua! E lavea mai ne Koe a toku fakaalofa mot e mativa, kae e molimau ki tou tiagaina mo tofooga.  E liakina ne Koe pefea au mai i te va o Au tavini? Fai aka au ke fanatu ki luga I Ou mua.  A te maalosi o Tou mafi e fai mo aku molimau!  Mea ana ko falavelave kola e pokotia iei au kae kola ko seai soku maalosi o toe llau atu i Ou mua.  Ko Koe, tokotasi, e tonu e auala atu i Tou poto e mafai o iloa a latou.  
   

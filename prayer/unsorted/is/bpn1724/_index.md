@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1724 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Miskunn"]
 +++
 Dýrð sé Þér, ó Guð, fyrir að opinbera mannkyni ást Þína! Ó Þú sem ert líf okkar og ljós, leið­bein Þú þjónum Þínum á vegi Þínum, ger okkur auðug í Þér og frelsa okkur frá öllu nema Þér.
 Ó Guð, kenn okkur einstæði Þitt og gef okkur skiln­ing á einingu Þinni, svo að við sjáum engan nema Þig. Þú ert hinn miskunnsami og gjafarinn örláti.

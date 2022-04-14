@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8180 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Indskudsdagene"]
 +++
 *(Indskudsdagene 26. februar - 1. marts bør være dage til forberedelse af fasten, gæstfrihedens, velgørenhedens og gavegivningens dage.)
 

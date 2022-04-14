@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12306 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TALAIIGA"]
 +++
 O ko te Atua, Tela ko Ia a te Tino Tusi o Faifekau katoa, ko te Kamataga o Kamataga katoa, ko te Ulu-vai o Faka-asiiga katoa, ko te Va-ikeli o Mainaaga katoa!  Au e molimau me i Tou Igoa ne fakaloalo ne te lagi o te malamalama, mo te vasa o te faipatiiga ko oti gasuke, a ko te vaasi-o-taimi o Tou atamai ko oti ne talai atu ki tino ko la e tautali i talitonuuga katoa.  
   

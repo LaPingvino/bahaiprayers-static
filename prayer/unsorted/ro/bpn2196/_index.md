@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2196 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Detaşare"]
 +++
 O, Doamne, Dumnezeul meu!
 O, Doamne, Dumnezeul meu! Eu sunt un slujitor atras către Tine, apropiindu-mă cu smerenie de uşa unicităţii Tale.

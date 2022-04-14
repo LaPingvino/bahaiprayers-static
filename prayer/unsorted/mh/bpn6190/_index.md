@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6190 in Marshallese'
 author = "Bahá'u'lláh"
-tags = ['lang-mh', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mh', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-BAMLE"]
 +++
 ##BAMLE 
 *(FAMILY)

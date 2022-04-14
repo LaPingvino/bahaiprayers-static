@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2316 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tableta Focului"]
 +++
 În numele Domnului, Cel Străvechi, Cel Măreţ.
 Într-adevăr, inimile celor sinceri se mistuie în focul despărţirii: Unde este lumina strălucitoare a chipului Tău, o, Preaiubit al lumilor toate?

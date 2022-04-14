@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13359 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Teaching"]
 +++
 O Arglwydd! Trof fy wyneb tuag atat,
 wedi ymbellhau oddi wrth bawb ond Tydi ac yn dal yn dynn wrth odre Dy amryfal fendithion.

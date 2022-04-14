@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9221 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pardon"]
 +++
 Glorifié sois-tu, ô Seigneur, mon Dieu ! Par tes élus, par les dépositaires de ta confiance et par celui que tu as désigné pour être le Sceau de tes prophètes et de tes messagers, je te supplie de permettre que ton souvenir soit mon compagnon, ton amour mon but, ta face l’objet de mon aspiration, ton nom ma lampe, ton souhait mon désir et ton bon plaisir mon bonheur.
 Ô mon Seigneur, je suis un pécheur et tu es le Magnanime. Dès que je te reconnus, je m’empressai de gagner les célestes parvis de ta tendre bonté. Ô mon Seigneur, pardonne les fautes qui m’empêchent de suivre les chemins de ton bon plaisir et d’atteindre les rivages de l’océan de ton unité.

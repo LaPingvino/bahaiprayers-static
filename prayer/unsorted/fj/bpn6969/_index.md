@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6969 in Fiji'
 author = "Abdu'l-Bahá"
-tags = ['lang-fj', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fj', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-NA YALAYALA"]
 +++
 O Koya na Kalou!
 

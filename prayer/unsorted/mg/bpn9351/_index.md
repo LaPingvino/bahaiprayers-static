@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9351 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FITSAPANA SY FAHASAHIRANANA"]
 +++
 Ry Andriamanitra, ry Andriamanitro! Aza manalavitra ahy, satria ny fahoriana dia nihavosa manodidina ahy. Ry Andriamanitra, ry Andriamanitro! Aza mamela ahy ho an’ny tenako ihany, satria ny fahoriana dia nianjady tamiko. Amin’ny ronono madion’ny Halemem-panahinao feno fitiavana, afaho ny hetahetako satria ny hetaheta dia mandevona ahy tanteraka. Eo amin’ny alokin’ny elatry ny Famindraponao, alofy aho satria ny fahavaloko rehetra,  niara niombon-kevitra, dia namely ahy. Tehirizo eo akaikin’ny fanjakan’ny Fiandriananao aho, manoloana ny fanehoana ny marikin’ny Voninahitrao, satria ny loza dia nahatratra ahy tanteraka. Amin’ny voankazo ny Hazon’ny Mandrakizainao, fahano aho satria ny faharerahana mafy dia nahazo ahy. Amin’ny kapoakan’ny fifaliana atolotry ny tanan’ny Famindramponao be fitiavana, ampaherezo aho satria alahelo maro no nitambesatra mafy tamiko. Amin’ny akanjo voaravaky ny Fiandriananao mahery indrindra ampiakanjoy aho satria ny fahantrana dia nambabo ahy tanteraka. Rotsirotsian’ny fitolokon’ny Voromailalan’ny Mandrakizanao, avelao aho hiala sasatra satria ny fijaliana farany izay manjombona dia tonga tamiko. Manoloana ny fanjakan’ny maha-iray Anao sy ny taratry ny hatsaran’ny Endrikao, aoka honenako satria ny tahotra sy ny hovitra dia nandevona ahy. Ao amin’ny ranomasimben’ny Famelanao heloka, eo anoloan’ny fitopatopa tsy misy faran’ny fahalehibiazan’ny Voninahitrao, arobohy ao aho satria ny fahotako dia nanameloka ahy tanteraka.
 

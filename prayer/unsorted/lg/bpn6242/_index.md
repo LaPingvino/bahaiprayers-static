@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6242 in Luganda'
 author = "Bahá'u'lláh"
-tags = ['lang-lg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-OKUSONYIYIBWA"]
 +++
 *...Okwejusa ebibi n'ebyonono eri abantu, tekiki rizibwa... Omwonoonyi alina okuda eri Katonda we, olwo n'awanjagira ekisa, ky'Oyo, nnyini nnyanja ey'ekisa, n'asaba ekusonyiyibwa okuva mu Ggulu ly'obugobi bwe, ayatule nti:
 Ayi Katonda wange, Ayi Katonda wange!  Nkwegayirira kulw'omusaayi gw'abagalwa Bo, abesigwa, abo abasanyusibwa ennyo, ebigambo Byo, olwo ne beyunira ku ntiko y'ekitiibwa Kyo, mu kifo ky'obujulizi obusingira ddala ekitiibwa, era nkwegayirira kulw'ebyewunyo ebikwekeddwa mu magezi Go ag'omuwendo agali mu nnyanja ey'ekisa Kyo onsonyiwe ebyonoono byange, osonyiwe ne kitange wange ne mange.  Mw'abo abalaga ekisa, Mu mazima Ggwe osingira ddala ekisa.  Tewali Katonda mulala wabula Ggwe, Asonyiwa bulijjo, Asingira ddala ekisa.  

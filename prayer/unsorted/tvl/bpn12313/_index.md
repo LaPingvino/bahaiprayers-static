@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12313 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-TALO MO TE TALAIIGA MAI I TAPELETI O TE PALANE FAKA-TE-AGAAGA"]
 +++
 *Ne fakaasi ki Bahá’ís o te United States and Canada  
 *So se tino e fano malaga o talai ki so se koga, e ttau mo ia o fakalagi a talosaga tenei i te ao mo te po i taimi e fano malaga a ia i fenua kese.  

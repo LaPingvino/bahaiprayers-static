@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10936 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Huqúqu’lláh: Ko te Saolotooga o te Atua"]
 +++
 E matagofie a Koe, O toku Aliki atafai!  Au e fakamolemole kia Koe mai i te tumu o te vasa o Tau faipatiiga mana, mo Au masauaga uke o Tou nofoaiga-a-tupu silisiliese, mo fakatalitonuuga gali o Tou faka-Atua, mo mea lilo ko la e moe funa i Tou poto, ke tuku mai kia au a Tou alofa kaimalie ke tavini atu kia Koe mo Au tino filifilia, kae ke mafai au o tuku atu mo te fakamaoni a Tau Huqúq tela ko oti ne fakasino mai i Tau Tusi.
 

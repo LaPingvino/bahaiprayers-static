@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7520 in Suomi'
 author = "Abdu'l-Bahá"
-tags = ['lang-fi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Auttaminen"]
 +++
 Ken matkustaa eri puolille opettamaan, lukekoon vuorilla, autiomaassa, maalla ja merellä tätä rukousta:
 Oi Jumala! Oi Jumala! Sinä näet heikkouteni, vähäpätöisyyteni ja nöyryyteni luotujesi edessä. Siitä huolimatta olen luottanut Sinuun ja noussut edistämään opetuksiasi vahvojen palvelijoittesi keskuudessa turvaten Sinun voimaasi ja mahtiisi.

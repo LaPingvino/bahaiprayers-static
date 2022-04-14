@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2305 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Cartea Legământului"]
 +++
 Kitáb-i-‘Ahd
 Împărăţia Slavei nu cunoaşte deşertăciunile lumeşti; totuşi, cuprinsă în comoara încrederii şi resemnării, Noi am lăsat urmaşilor Noştri o moştenire măreaţă şi nepreţuită. Comorile ei nu sunt dintre cele pământeşti, sporind astfel grijile pe care le conţin acestea. Gândiţi-vă şi aduceţi-vă aminte de ceea ce a revelat Cel Atotmilostiv în Coran: „Blestemul fie pe capul defăimătorului şi calomniatorului, al aceluia ce adună şi socoteşte bogăţii”13. Trecătoare sunt bogăţiile lumii; tot ce e pieritor şi schimbător nu este şi n-a fost vreodată demn de atenţie, decât într-o măsură bine stabilită.

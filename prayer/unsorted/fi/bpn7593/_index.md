@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7593 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tulimuistio"]
 +++
 Jumalan, Ikiaikaisimman, Suurimman, nimeen.
 Totisesti vilpittömäin sydäntä kuluttaa eron tuli: missä on kasvojesi valon välke, oi maailmain Rakastettu? 

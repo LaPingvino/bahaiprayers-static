@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12859 in ພາສາລາວ'
 author = "Abdu'l-Bahá"
-tags = ['lang-lo', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-lo', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ບົດອະທິຖານ ທີ່ພຣະສະຖູບຂອງພຣະອັບດຸລບາຮາ"]
 +++
 *(ໃຊ້ສວດເວລາສ່ວນຕົວໄດ້ດ້ວຍເຊັ່ນກັນ)
 

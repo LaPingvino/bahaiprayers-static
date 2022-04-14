@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4689 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Böyük Namaz"]
 +++
 ##İyirmi dörd saatda bir dəfə qılmali
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6104 in Sranan Tongo'
 author = "Abdu'l-Bahá"
-tags = ['lang-srn', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-srn', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Algemene Gebeden"]
 +++
 ##OVERLEDENEN 
 O mijn God! O Gij, vergever van zonden, schenker van gaven, verdrijver van leed! Waarlijk, ik smeek U de zonden te vergeven van hen die het stoffelijk gewaad hebben afgelegd 

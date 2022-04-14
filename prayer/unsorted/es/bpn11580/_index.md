@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11580 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Mañana"]
 +++
 ¡Oh mi Dios y mi Maestro! Soy Tu siervo y el hijo de Tu siervo. Me he levantado de mi lecho en este amanecer en que el Sol de Tu unicidad ha brillado desde la Aurora de Tu voluntad y ha derramado su resplandor sobre todo el mundo, de acuerdo con lo que ha sido ordenado en los Libros de Tu Decreto.
 Alabado seas, oh mi Dios, por cuanto hemos despertado a los esplendores de la luz de Tu conocimiento. Envíanos pues, oh mi Señor, lo que nos permita prescindir de todos excepto de Ti, y nos libre de todo apego a cualquier cosa que no seas Tú. Decreta, además, para mí, para quienes me son queridos, y para mis parientes, tanto hombres como mujeres, el bien de este mundo y del mundo venidero. Resguárdanos, pues, mediante Tu infalible protección, oh Bienamado de la creación entera y Deseo de todo el universo, de aquellos a quienes has denominado las manifestaciones del Susurrador Maligno, que susurran en el pecho de las gentes. Potente eres Tú para hacer lo que Te place. Tú eres, verdaderamente, el Todopoderoso, Quien ayuda en el peligro, Quien subsiste por Sí mismo.

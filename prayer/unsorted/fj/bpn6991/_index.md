@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6991 in Fiji'
 author = "Bahá'u'lláh"
-tags = ['lang-fj', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fj', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-NAW-RÚZ"]
 +++
 #NA I MATAI NI SIGA NI DUA NA YABAKI VAKA-BAHÁ’Í
 ##‘NAW-RÚZ‘

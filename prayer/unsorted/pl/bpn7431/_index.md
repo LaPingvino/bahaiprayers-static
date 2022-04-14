@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7431 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Północ"]
 +++
 O ty, który poszukujesz Prawdy! Jeżeli pragniesz, aby Bóg otworzył ci oczy, powinieneś błagać Go, modlić się do Niego i łączyć się z Nim o północy, mówiąc:
     

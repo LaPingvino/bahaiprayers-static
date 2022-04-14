@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4752 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-İlahi xidmət duaları"]
 +++
 Ey Allah, bütün Adların Allahı və göyləri Yaradan! Səni and verirəm o Adına ki, onun vasitəsilə Sənin Qüvvətinin Məzhəri və Qüdrətinin Məşriqi olan Kəs zühur etdi, Onun vasitəsilə hər bir bərk şey əridi və hər bir ölü bədən dirildi və hər bir ruh möhkəmləndi – yalvarıram Sənə, məni qadir eylə ki, özümü Səndən başqa hər kəsə bağlılıqdan qurtarım, Sənin Əmrinə xidmət edim və Sənin Öz hökmranlığının gücü ilə istədiyini istəyim və Sənin iradənin razı qaldıqlarına əməl edim.
 

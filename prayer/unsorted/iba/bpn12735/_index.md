@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12735 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-RABAN GELUMU"]
 +++
 Datai meh kita begelumu dalam pengaga ti tulin, lalu dikena ngepunka aum, sebut kita sambiang tu:
  O Nuan Tuhan ke Perintah Petara! Taja pen tubuh kami begelumu ditu, tang ati kami tebuka ditarit ulih pengerindu Nuan, taja pia kami mega udah ditaban ulih panchar perenching mua Nuan. Taja kami tu lemah, kami nganti pengayan penegap enggau kuasa Nuan. Taja kami tu umang, nadai reta tauka daya, agi meh kami ngambi pengaya ari tibang reta Perintah Nuan. Taja kami tu setitik, agi meh kami ngauk ari penalam tasik Nuan. Taja pen kami tu baka debu, agi meh kami bekebelik dalam mulia bebendang Matahari Nuan.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3537 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Midnatt"]
 +++
 O sannhetssøker! Hvis du ønsker at Gud skal åpne ditt øye, må du bønnfalle Gud, be til ham og samtale med ham ved midnatt idet du sier:
  

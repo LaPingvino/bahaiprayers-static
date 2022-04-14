@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12065 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-CUBAAN & KESUKARAN"]
 +++
 Ya Tuhanku! Engkau ketahui bahawa manusia dikelilingi dengan kesakitan dan malapetaka dan dihadapi kesukaran dan kesusahan. Setiap ujian menyerang manusia dan setiap kecelakaan dahsyat menyerangnya bagaikan serangan seekor ular. Tidak ada pelindung mahupun keselamatan baginya kecuali di bawah sayap perlindungan, pemeliharaan, pertahanan dan jagaan-Mu.
 

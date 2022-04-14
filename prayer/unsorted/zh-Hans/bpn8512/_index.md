@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8512 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-儿童与青年"]
 +++
 上帝啊！培育这些孩子吧。他们是祢果园里的幼苗，祢草原上的花朵，祢花园里的玫瑰。用祢的甘霖浇洒他们；让实在之阳带着祢的爱照耀他们。让祢的微风激发他们，使他们得到培育、成长和发展，使他们表现出最美好的状态。祢是博施济众者，大慈大悲者。
 

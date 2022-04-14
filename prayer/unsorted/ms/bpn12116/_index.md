@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12116 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-KETAKTERIKATAN"]
 +++
 Terpujilah Engkau, Ya Tuhanku! Aku salah seorang hamba-Mu, yang telah percaya kepada-Mu dan kepada tanda-tanda-Mu. Engkau melihat bagaimana aku telah menghadapkan diriku pada pintu rahmat-Mu dan mengarahkan wajahku pada kasih sayang-Mu. Aku memohon kepada-Mu, demi gelaran-Mu yang tertinggi dan sifat-sifat-Mu yang terluhur, agar membuka kepada wajahku gapura-gapura anugerah-Mu. Maka, tolonglah daku agar berbuat apa yang baik, Ya Engkau Pemilik segala nama dan sifat!
 

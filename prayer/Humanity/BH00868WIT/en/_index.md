@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH00868WIT in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "Humanity"]
+tags = ['lang-en', 'prayer-BH00868WIT', "author-Bahá'u'lláh", "category-Humanity", "cat-Humanity"]
 +++
 My God, Whom I worship and adore!  I bear witness unto Thy unity and Thy oneness, and acknowledge Thy gifts, both in the past and in the present.  Thou art the All-Bountiful, the overflowing showers of Whose mercy have rained down upon high and low alike, and the splendors of Whose grace have been shed over both the obedient and the rebellious.
 O God of mercy, before Whose door the quintessence of mercy hath bowed down, and round the sanctuary of Whose Cause loving-kindness, in its inmost spirit, hath circled, we beseech Thee, entreating Thine ancient grace, and seeking Thy present favor, that Thou mayest have mercy upon all who are the manifestations of the world of being, and deny them not the outpourings of Thy grace in Thy days.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6069 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Otjiherero: OZONGUMBIRO TJIVA ZAPEKE"]
 +++
 Muhona Ete twangundipara, zeuparisa ete Mukuru, owete omayova tupayo ozondunge. Muhona owete ovasyona, honaparisa ete, Mukuru! twa koka, nutu pendura. Muhona twahepa ouyere nutupa ouyere mouhonapare wOye. Tjinga amotuvatere Muhona maturire ozonyose tjiri.
 

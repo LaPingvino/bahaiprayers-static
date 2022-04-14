@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2209 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Femei"]
 +++
 O, Tu, la a Cărui cumplită maiestate toate lucrurile s-au cutremurat, în ale Cărui mâini sunt treburile tuturor oamenilor, către ale Cărui har şi milostivire s-au îndreptat feţele tuturor făpturilor Tale! Te implor, întru Numele Tău pe care l-ai poruncit a fi spiritul tuturor numelor ce sunt în împărăţia numelor, să ne ocroteşti de şoaptele celor ce s-au întors de la Tine, şi au repudiat adevărul existenţei Tale auguste şi preamărite, în această Revelaţie care a făcut să se cutremure împărăţia numelor Tale.
 

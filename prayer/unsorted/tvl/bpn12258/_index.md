@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12258 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FALEPUIPUI"]
 +++
 Tavaeega e io Koe, O toku Atua, e Lavea mai au ne Koe e loka i te Falepuipui tenei, kae eiloa fakallei loa ia au ne ulu ki loto nei ona loa ko Koe mo te faka-aloaloga o Tau muna mo te faka-salalauga o Tau Fakatokaaga.  Au e tagi atu kia Koe, i te taimi loa tenei, O ko Koe Tela ko te Aliki o lalolagi katoa, o akai totuli atu kia Koe, i Tou Igoa e seai se-fa-lotoloto-lua iei, ke fakapilipili mai a loto o Au tavini kit e Aso-Maliulu o Ou tofiiga tafasili ite maluga mo te Kogaa-koga Tapuaki o Au fakailoga tafasili i te malifalifa.  
   

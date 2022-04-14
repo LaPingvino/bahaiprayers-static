@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5271 in Bosanski'
 author = "Báb"
-tags = ['lang-bs', '', "Báb", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Báb", "category-unsorted", "cat-Odvojenost"]
 +++
 Gospodaru! U Tebi tražim utočište i prema Tvome znamenju okrećem svoje srce. Gospodaru! Bilo da putujem ili da sam kod kuće, u zabavi ili radu, svu svoju vjeru polažem u Tebe.
 Daj mi onda dodatnu pomoć kako bih se odvojio od svih stvari, o Ti koji si nenadmašan u Svojoj milosti!

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2320 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tabletele vizitării Bahá’u’lláh şi Báb"]
 +++
 *Această Tabletă se citeşte la mormintele lui Báb şi Bahá’u’lláh. De asemenea este folosită frecvent şi pentru comemorarea Înălţării lui Báb şi Bahá’u’lláh
 

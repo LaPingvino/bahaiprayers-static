@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11347 in தமிழ்'
 author = "Báb"
-tags = ['lang-ta', '', "Báb", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Báb", "category-unsorted", "cat-சோதனைகளும் இன்னல்களும்"]
 +++
 இன்னல் தீர்ப்போன் இறைவனன்றி யாருளர்? சொல்: இறைவனே போற்றி! அவரே கடவுள்! யாவரும் அவர் ஊழியர், யாவரும் அவர் சொற் பணிவர்! 
 

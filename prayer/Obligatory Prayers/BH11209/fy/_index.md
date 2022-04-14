@@ -1,7 +1,7 @@
 +++
 title = 'Short Obligatory Prayer in Frysk'
 author = "Bahá'u'lláh"
-tags = ['lang-fy', '', "Bahá'u'lláh", "Obligatory Prayers"]
+tags = ['lang-fy', 'prayer-BH11209', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-It Koarte Ferplichte"]
 +++
 ##It Koarte Ferplichte
 

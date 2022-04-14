@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2460 in Русский'
 author = "Bahá'u'lláh"
-tags = ['lang-ru', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ru', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Скрижали о посещении"]
 +++
 *Эта Скрижаль читается в Святилищах Бахауллы и Баба. К ней обращаются также и в дни Их годовщин.
 

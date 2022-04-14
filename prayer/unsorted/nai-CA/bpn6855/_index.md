@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6855 in Canadian Indigenous'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-CA', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nai-CA', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Thompson"]
 +++
 *Short Obligatory Prayer
 

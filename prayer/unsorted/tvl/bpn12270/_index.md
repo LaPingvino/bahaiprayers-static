@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12270 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-PUIPUIIGA"]
 +++
 O Koe ko te kaimalie mo te Takitakiiga Faka-te-Lagi alofa!  A te sopogala ko ala aka a ko te togala ko gasue pe la loa mo kau peau seai se-gataaga o te tai.  A matagi ili malielie o te mana ko salalau, kae mai i te Maalo e Se-Lavea, a vae o te Lalolagi pukupuku o te Meatonu e maina malialifa atu.  A pese o te tafatasi faka-te-lagi ko laugina a ko failoga o te mafi faka-te-lagi ko tatalo mai.  A te Leo agelu ko fanaka ki luga, kae e uiloa a te pakalaga a te manu tafasili i te kaitaua, e oko atu a te kalaga kia latou ko la e seai se manatu mo latou ake loa kae ko kamata o fakagalo atu.  A te kalaga manumaalo Yá Bahá’u’l - Abhá e lagona i feitu katoa, a ko te kalaga Yá ‘Alíyyu’l - ‘Alá¹ e tagi i kogaa - fenua katoa.  E seai se gasue i te lalolagi na ko te mea e vau mai ite Matagofie of Pukeega o Loto Tokotasi, kae e seai se gasueega faka - lavelave e tupu na loa ko te gasuesue i te alofa mo Ia, te Se - Fakatusagia, te Fagasele-Pele. 
  

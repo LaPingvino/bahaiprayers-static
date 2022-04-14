@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11996 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Şypa Üçin Dogalar"]
 +++
 Ähli atlary gurşap alanyň Ady bilen.
     Ylahym, Ylahym! Seniň şypa deňziň we Seniň röwşen eden Jomartlyk nurunyň ýalkymynyň hatyrasy üçin, Seniň bendeleriňi gurşap alan Adyň we Seniň uly Kelamyň güýjüniň hatyrasy üçin, Seniň Agla Galamyň Başarjaňlygy we ýer-gögüň ýaşaýjylaryndan ozduran Merhemetiň hatyrasy üçin, meni Rähmet we Kerem suwy bilen ähli beladan, keselden we ejizlikden ýuwarsyň diýip Saňa ýalbarýaryn.

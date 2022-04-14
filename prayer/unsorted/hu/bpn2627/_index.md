@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2627 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Egység"]
 +++
 Ó, Istenem, ó, Istenem! Egyesítsd szolgáid szívét, és tárd fel nékik a Te nagy célodat! Engedd, hogy kövessék parancsolataidat, és tartsanak ki a Te törvényed mellett! Segítsd őket, ó, Isten, igyekezetükben, s adj erőt nékik, hogy szolgálhassanak Téged!
 

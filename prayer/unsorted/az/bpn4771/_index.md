@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4771 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Kömək və yardım duaları"]
 +++
 Yığma, İlahi, Sənin adınla açılmış bayram süfrəsini və Sənin sönməz atəşinlə alovlandırılmış yanar odu söndürmə. Sənin cəlalın və zikrinin nəğməsi ilə şırıldayan o dirilik suyunu çağlamaqdan saxlama və Öz bəndələrini Sənin məhəbbətinin ətirlərini saçan o şirin rayihələrindən məhrum etmə.
 

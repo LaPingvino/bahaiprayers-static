@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5845 in Català'
 author = "Bahá'u'lláh"
-tags = ['lang-ca', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Fermesa"]
 +++
 Oh Déu, Déu meu! M’he girat penedit cap a Tu i veritablement Tu ets el Perdonador, el Compassiu.
 Oh Déu, Déu meu! He retornat a Tu i veritablement Tu ets qui sempre perdona, el Clement. 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5448 in 日本語'
 author = "Báb"
-tags = ['lang-ja', '', "Báb", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Báb", "category-unsorted", "cat-無我の心"]
 +++
 おお主よ、私はあなたのもとに避難所を求め、あなたの御しるしのすべてに心をかけております。
 　おお主よ、私は旅に出ている時も、家に居る時も、就業の時も、作業中でも、いつもあなたにすべての信頼をささげております。

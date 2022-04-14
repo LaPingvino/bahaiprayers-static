@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12951 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ASSISTANCE"]
 +++
 O God, mekim spirit bilong mi i kamap nupela gen na amamas.  Rausim ol samting nogut i stap insait long bel bilong mi inap i ken kamap klin gen.  Givim lait long tingting bilong mi.  Mi putim ol hevi bilong mi long han bilong Yu.  Yu soim gutpela rot long mi na Yu lukautim mi.  Mi mas pinis long sori nau.  Mi mas amamas tasol.  O God.  Mi no ken pulap gen long ol sori na wari.  Na mi no ken larim ol trabel i ranim mi.  Mi no ken tingting tumas long ol samting bilong dispela laip i save givim hevi long mi. 
  

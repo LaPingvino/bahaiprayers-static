@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9644 in Nederlands'
 author = "Báb"
-tags = ['lang-nl', '', "Báb", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Báb", "category-unsorted", "cat-Nader tot God"]
 +++
 O God, mijn God, mijn Geliefde, mijn Hartsverlangen.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12027 in ગુજરાતી'
 author = "Bahá'u'lláh"
-tags = ['lang-gu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-gu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-મહામારીથી સંરક્ષણ માટે"]
 +++
 મહામારીથી સંરક્ષણ માટે 
 બહાઉલ્લાહ દ્વારા પ્રગટિત પ્રાર્થના

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13180 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Stretnutia"]
 +++
 Ó Ty, odpúšťajúci Bože! Títo služobníci sa obracajú k Tvojmu kráľovstvu a hľadajú Tvoju milosť a štedrosť. Ó Bože! Učiň ich srdcia dobrými a čistými, aby sa stali hodnými Tvojej lásky. Očisti a posväť ich duchov, aby na nich mohlo zažiariť Slnce skutočnosti. Očisti a posväť ich oči, aby mohli vnímať Tvoje svetlo. Očisti a posväť ich uši, aby mohli začuť volanie Tvojho kráľovstva.
 Ó Pane! Vskutku, my sme slabí, ale Ty si mocný. Vskutku, my sme chudobní, ale Ty si bohatý. My sme hľadajúci a Ty si Ten hľadaný. Ó Pane! Maj s nami zľutovanie a odpusť nám. Obdaruj nás schopnosťami a vnímavosťou, aby sme si mohli zaslúžiť Tvoju priazeň a boli privedení do Tvojho kráľovstva, aby sme sa mohli napiť živej vody a zahorieť ohňom Tvojej lásky a aby nás v tomto žiarivom storočí mohol vzkriesiť dych Ducha Svätého.

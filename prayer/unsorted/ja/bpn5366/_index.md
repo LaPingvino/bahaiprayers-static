@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5366 in 日本語'
 author = "Bahá'u'lláh"
-tags = ['lang-ja', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-精神的成長"]
 +++
 おおわが神よ、ご恩恵とご慈悲の神よ。あなたはご命令の言葉により全創造を生じさ
 せ給うた王におわします。また、あなたの僕しもべらの行いでその御恵みめぐみを示すことを妨げられることは決してなく、ご恩恵の啓示を廃棄し給うこともない、恩寵おんちょう深き御方におわします。

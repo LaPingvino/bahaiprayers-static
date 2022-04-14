@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12311 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-TALAIIGA"]
 +++
 E iloa ne Koe, O te Atua, ia Koe ko taku molimau ia au e seai soku fakamoemoega i toku loto na loa ko te oko atu ki Tou fiafia-llei, ke faka-tummau i te tavini kia Koe, ke tapuaki au ki Tau galuega, ke galue au i Tau fatoaaga vine kae ke ofo aku mea katoa i Tou auala.  Ko Koe ko te Iloa-Katoatoa mo te Lavea-Katoatoa.  E seai lele soku manakoga vagana ko te fuli oku kalafaga, i toku alofa mo Koe, ki mauga mo toafa kae fakapula atu ke lagona ki luga ate oko mai o Tou Maalo, kae ke avaka a tau kalaga i loto o tagata katoa.  O te Atua! Tala aka ne Koe ate auala ko au vaaivai tenei, talia ne Koe a te fooga o au tenei e faka-masakisaki kae avatu aka ki luga a Tau fakagata masaki kia au tenei e pokotia.  Mo loto e ka ite afi mo loimata ko sofisofi au e talosaga kia Koe i Tou Mataloa.  
   

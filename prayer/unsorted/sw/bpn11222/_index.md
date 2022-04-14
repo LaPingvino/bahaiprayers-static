@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11222 in Kiswahili'
 author = "Abdu'l-Bahá"
-tags = ['lang-sw', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sw', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-SALA KWA WALIOKUFA"]
 +++
 Ee Mungu wangu!  Ee Ewe msamehe dhambi, Mpaji thawabu, mwondoa huzuni!   
 

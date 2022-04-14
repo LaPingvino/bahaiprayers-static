@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3912 in Hrvatski'
 author = "Bahá'u'lláh"
-tags = ['lang-hr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Noć"]
 +++
 Kako da zaspim, o, Bože, moj Bože, kad su oči onih koji čeznu za Tobom budne zbog odvojenosti od Tebe; i kako da legnem otpočinuti dok su duše Tvojih voljenih bolno uznemirene zbog udaljenosti od Tvoga prisustva?
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11816 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Rawang"]
 +++
 *(Doa Dayung dek Bitiyiek)
 Raja ku! Raja ku! Oku mudi Ingan duoh lagi oku ngin terima kasih tudu Ingan lugant Ingan mbok nyukong dayung ulunt Ingan dek pidouk odop-eh, kuli Ingan nguwai bia mujok Ingan, setegal Ingan mbok totap ngotag iyoh tudu Pritah Topa Ingan dek nyata bia odak iyoh kilingah Bogant bigatung Ingan daang dunia ta-ae-modo bia odak kilint tanda-tanda Ingan dek jadin bukti bitanga pengaruh kejayaan Ingan ndu tunt sua onik.

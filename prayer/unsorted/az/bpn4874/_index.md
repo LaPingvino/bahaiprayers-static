@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4874 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Vəfat edənlər üçün namaz və dualar"]
 +++
 Odur Allah, Ucadır O, İnayət və kəramət Mövlası Odur! Sübhansan, Sən, Ey mənim Allhım, Qüdrətli Rəbb! Sənin qüdrətinə və qüvvətinə, səltənətinə və inayətinə, fəzlinə və iqtidarına, Sənin Varlığının vahidliyinə və Zatının birliyinə, paklığına və məxluqat aləmindən və onda olan hər şeydən müqəddəs və pak olmağına şəhadət verirəm.
 

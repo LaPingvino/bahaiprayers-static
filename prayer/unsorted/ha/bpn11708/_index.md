@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11708 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Allō Zuwa Ga Ahmad"]
 +++
 Shīnē Sarki, Masani, Mai hikima ! Ka saurāri sūdar aljanna dake bisa rassun itāciyar dawwama har abada. Tana rēra tsarkakakkiyar wāƙa mai dāɗi, tana ayyanāwa rāyuka na gari, bushārar kusantaka da Allah. Tana gayyatar waɗanda suka bāda gaskiya da kaɗaitakar Allah, su isō dandalin mayalwaci. Tana gayāwa waɗanda ba su sarƙafu da abun dūniya ba, sāƙon da ya sauko daga Allah sarki, maɗaukaki, da bā shi abōkin tārayya. Tana jāgōrar mumunai zuwa wajen gadon tsarkaka, kuma wajen wannan nagartacen kyāwo.
 A gaskiya, gā kyāwo mafīfīci, wanda aka ambata cikin littatafan manzonni, wanda ya zō dōmin ya bambanta gaskiya da ƙarya, kuma ya auna hikimar duka umurni. Gā itāciyar rāyuwa mai ɗauke da ƴāƴan ɗaukakar Ubangiji Allah, maɗaukakin sarki, mai ƙudura, mai girma.

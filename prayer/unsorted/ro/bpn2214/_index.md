@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2214 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Iertare"]
 +++
 Eu sunt cel, o, Domnul meu, ce şi-a
 întors faţa către Tine şi şi-a îndreptat speranţele asupra minunilor harului Tău şi revelaţiilor dărniciei tale. Te rog să nu îngădui să mă întorc dezamăgit de la uşa milostivirii Tale, nici să nu mă părăseşti acelora dintre creaturile Tale care au negat Cauza Ta.

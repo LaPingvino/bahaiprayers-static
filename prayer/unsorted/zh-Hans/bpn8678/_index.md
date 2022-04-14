@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8678 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-诺鲁孜颂"]
 +++
 诺鲁孜——公历三月二十日或二十一日——为巴哈伊新年。
 我的上帝啊，赞美归于祢！为了那些因爱祢而守斋，并戒除祢所憎恶之事的人，祢命谕了“诺鲁孜”节。我的主啊！以祢的爱火和祢命定斋戒所产生的热力，使他们在祢的圣道上更加激昂，一心一意念记祢，颂扬祢。

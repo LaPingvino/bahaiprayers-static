@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8031 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Børn Og Unge"]
 +++
 Lovet være Du, o Herre min Gud! Giv nådigt at dette spæde barn må få næring fra Din milde barmhjertigheds og kærlige omsorgs bryst og blive styrket med frugten fra Dine himmelske træer.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3137 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Kinders"]
 +++
 O my Here! O my Here!
 

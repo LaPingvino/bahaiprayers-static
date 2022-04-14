@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13147 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Odpútanosť"]
 +++
 Neviem, ó môj Bože, aký to Oheň si roznietil vo Svojej krajine. Zem nikdy nemôže zatieniť jeho žiaru ani voda uhasiť jeho plameň. Žiaden z národov sveta nemá moc postaviť sa proti jeho sile. Veľké je požehnanie toho, kto sa k nemu priblížil a začul jeho volanie.
 Niektorým si, ó môj Bože, silou Svojej posilňujúcej milosti umožnil, aby k nemu pristúpili, zatiaľ čo iných si zadržal za to, čo ich ruky učinili v Tvojich dňoch. Ten, kto sa k nemu poponáhľal a dosiahol ho, odovzdal na Tvojej ceste život s túžbou pohliadnuť na Tvoju krásu, a pristúpil k Tebe úplne odpútaný od všetkého okrem Teba.

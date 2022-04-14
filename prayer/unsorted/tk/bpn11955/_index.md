@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11955 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Hyzmat We Gulluk Dilemek"]
 +++
 Hu’äl-Äbha.
     Barhudaýa! Sen bize şeýle bir jomartlyk etdiň, Sen bize şeýle bir Merhemet paýladyň. Ýürekleriň birleşmegine höküm berdiň hem her ynsana özüne mahsus bolan gatnaşyk. Jisimlere jan duýgusyny we jesetlere ruh aňyny bagyş etdiň. Bu toprak zerrelerine, Rahmany güneşiň ýalkymy bilen görnük we barlyk berdiň, bu pany damjalara Birlik deňziniň tolkunlaryndan hyjuw we tupan merhemet etdiň.

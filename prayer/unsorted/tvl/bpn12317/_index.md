@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12317 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-TALO MO TE TALAIIGA MAI I TAPELETI O TE PALANE FAKA-TE-AGAAGA"]
 +++
 *Ne fakaasi ki Bahá’ís o te Southern States  
  

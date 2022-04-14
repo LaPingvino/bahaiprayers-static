@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7410 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Stałość w Przymierzu"]
 +++
 Upewnij nasze kroki na swej ścieżce, o Panie, i umocnij serca nasze w posłuszeństwie Tobie. Zwróć nasze twarze ku pięknu swojej jedyności i rozraduj naszą pierś znakami swej Boskiej jedności. Przystrój ciała nasze szatą swojej hojności, usuń sprzed naszych oczu zasłonę grzeszności i podaj nam kielich swojej łaski; aby istota wszystkich stworzeń mogła opiewać Twoją chwałę przed uosobieniem Twojej wielkości. Objaw się zatem, o Panie, w swoich miłosiernych wypowiedziach i w tajemnicy Twojej Boskiej istoty, aby święta rozkosz modlitwy wypełniła nasze dusze – modlitwy, która wzniesie się ponad słowa i litery i wzbije ponad szmer sylab i dźwięków – aby wszystkie rzeczy stopiły się w nicość wobec objawienia Twojej wspaniałości.
     

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12015 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Syýam (Oraza) Aýynyň Dogalary"]
 +++
 Oldur Uly şanly we Başarjaň Alla.
     Bu günler Syýam günleridir hem-de ynsanlar Eýesiniň Jomartlyk güneşiniň dogan Eýýamy. Nebsi kemeldip, ruhanalygy köpeldýändir. Ýamanlygy ýagşylyga öwrüp, jepany wepaga dönderýändir. Ynsan terbiýesi üçin ol iň ýagşy däri we iň uly dermandyr. 

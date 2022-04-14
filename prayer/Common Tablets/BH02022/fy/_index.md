@@ -1,7 +1,7 @@
 +++
 title = 'Tablet of Ahmad in Frysk'
 author = "Bahá'u'lláh"
-tags = ['lang-fy', '', "Bahá'u'lláh", "Common Tablets"]
+tags = ['lang-fy', 'prayer-BH02022', "author-Bahá'u'lláh", "category-Common Tablets", "cat-Tafel Fan Ahmad"]
 +++
 ##Tafel Fan Ahmad
 

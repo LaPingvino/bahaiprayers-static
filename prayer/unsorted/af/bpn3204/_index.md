@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3204 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Onderrig"]
 +++
 Geloof sy Y, o Here my God! Ek smeek U, by U Naam wat niemand passend geëien het, en wie se belangrikheid geen siel deurgrond het nie; ek smeek U, by Hom Wat die Fontein van U Openbaring is en die Daeraad van U tekens, om my hart 'n houer van U liefde en van aandenking aan U te maak. Bind dit dan met U allergrootste Oseaan saam, dat die lewende waters van U wysheid en die kristalstrome van U verheerliking en lof daaruit mag vloei.
 

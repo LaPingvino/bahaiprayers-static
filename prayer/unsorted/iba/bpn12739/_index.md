@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12739 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Papan Tulis Pengabas Bahá’u’lláh enggau Báb"]
 +++
 *Papan Tulis tu dibacha ba Sungkup Bahá’u’lláh enggau Sungkup Báb. Ia suah mega diguna kena ngintu pengerami ngingatka Seduai Iya.
 

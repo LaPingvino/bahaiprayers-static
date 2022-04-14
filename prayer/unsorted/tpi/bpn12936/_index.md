@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12936 in Tok Pisin'
 author = "Báb"
-tags = ['lang-tpi', '', "Báb", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Báb", "category-unsorted", "cat-FAMILY"]
 +++
 O God bilong mi!  Inap Yu salim traipela blesing na gutpela presen bilong Yu i kam daun long ol haus bilong ol manmeri husat i kam insait long Lotu bilong Yu.  Dispela samting em mak bilong marimari na gutpela lav i kam long Yu. 
 

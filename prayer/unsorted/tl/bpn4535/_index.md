@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4535 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ang Tableta Ng Pagdalaw"]
 +++
 Ang dalanging ito, na inihayag ni ‘Abdu’l-Bahá, ay binabasa sa Kaniyang Dambana. Ginagamit din ito sa pansariling panalangin.
 

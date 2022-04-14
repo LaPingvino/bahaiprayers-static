@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7374 in Polski'
 author = "Báb"
-tags = ['lang-pl', '', "Báb", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Báb", "category-unsorted", "cat-Przebaczenie"]
 +++
 Chwała bądź Tobie, o Boże! Jakże mogę wspominać Ciebie, skoro Tyś uświęcony jest ponad wysławianie całej ludzkości. Wywyższone niech będzie Twoje Imię, o Boże, Tyś jest Królem, Wieczną Prawdą; Ty wiesz, co znajduje się w niebiosach i na ziemi i do Ciebie wszystko musi wrócić. Tyś zesłał nam swoje Bosko zrządzone Objawienie podług jasnej miary. Pochwalony bądź, o Panie! Swoim rozkazem czynisz zwycięskim, kogo zechcesz, poprzez zastępy nieba i ziemi oraz wszystkiego, co istnieje pomiędzy nimi. Tyś jest Władcą, Wieczną Prawdą, Panem niezwyciężonej mocy.
     

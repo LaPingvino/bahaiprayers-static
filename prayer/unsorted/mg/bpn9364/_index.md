@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9364 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-VAVAKA TSY MAINTSY ATAO"]
 +++
 *Vavaka fohy tsy maintsy atao isan’andro eo anelanelan’ny roa ambinifolo ora atoandro hatramin’ny filetehan’ny masoandro
  

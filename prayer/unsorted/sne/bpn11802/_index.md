@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11802 in Bidayuh'
 author = "Báb"
-tags = ['lang-sne', '', "Báb", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Báb", "category-unsorted", "cat-Doa Bitogant"]
 +++
 O Raja! Tudu Ingan oku bolant sinung sabal, bia nuju sua tanda-tanda Ingan oku pasang otin ku. O Raja! Samada oku ponu ato ndu boli, duoh daang ongan kroja ku ato daang ku nai keroja, oku nak punua bisayak ku daang Ingan. 
 Ngibonar oku adin pinulung sukup Ingan sak ku dapod biladik sok sua onik, O Ingan Nyaa dek dik-eh kangan-kangan daang pirasie!

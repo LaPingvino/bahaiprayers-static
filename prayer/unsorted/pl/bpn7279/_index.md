@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7279 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Dzieci"]
 +++
 O Panie! Uczyń te dzieci wspaniałymi roślinami. Spraw, aby wzrastały i rozwijały się w Ogrodzie Twojego Przymierza i obdarz je świeżością i pięknem, dzięki potokom z chmur najwspanialszego Królestwa.
    

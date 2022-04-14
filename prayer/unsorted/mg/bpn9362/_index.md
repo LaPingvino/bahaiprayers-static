@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9362 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAHAFATESANA"]
 +++
 Andriamanitra Izy, Ilay Deraina, Ilay Tompon’ny Halemem-panahy sy ny fangorahana!
 Voninahitra ho Anao, ry Andriamanitro ô, Ilay Tompo Tsitoha. Izaho dia vavolombelon‘ny Fanananao fahefana, ny Herinao, ny Fiandriananao, ny Fahasoavanao be fitiavana, ny Famindramponao sy ny Fahefanao, ny maha-Tokana ny Fisianao sy ny maha-Iray ny tena maha-Izy Anao, ny Fahamasinanao sy ny Fisandratanao ambonin’ny tontolo ety an-tany sy izay rehetra misy eo aminy.

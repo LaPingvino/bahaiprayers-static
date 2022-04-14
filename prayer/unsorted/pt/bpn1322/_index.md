@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1322 in Português (BR)'
 author = "Abdu'l-Bahá"
-tags = ['lang-pt', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Epístolas"]
 +++
 ##Epístola De Visitação De 'Abdu'l-Bahá
 Quem recitar esta oração (É lida no Seu Sepulcro e, também, utilizada como prece particular) com humildade e fervor trará alegria e contentamento ao coração deste Servo; será como se, na realidade, se encontrasse com Ele, face a face.Ele é o Todo-Glorioso!

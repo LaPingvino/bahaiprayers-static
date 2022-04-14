@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13016 in Nalik'
 author = "Bahá'u'lláh"
-tags = ['lang-nal', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nal', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-A Vaaratulaaiing sin Ahmád (Tablet of Ahmád)"]
 +++
 Naan be a Xalxaal, ka mazaam a mun saan mumupis ma a mazampes.  Ei mbasaan, a Roxis i Liaa xa dodor rataangis put laaur wan a rangaana a yaai tapal, pana a ling faarala ma xa raangis maaluf.  Ka pitfiaat sin a mun ubina si nis a doring na nanaming kuna a Nakmai xa vaasilik pan naande.  Ka viring naande di vaarungtungaai wana a Nakmai be Azaxei, akula la Bikabar a i naxam Maalufing.  Ka vaze nis naande di milung, kuna viaat aang a doring sina a Nakmai, a Xalxaal, a Maravas a Owaari.  Ka pinaowing lis si nis naande di i naxam maaluf akula la burburaai na vaaralaing ka matmari doxo marase.
 

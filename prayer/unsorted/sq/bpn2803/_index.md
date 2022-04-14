@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2803 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Natë"]
 +++
 Si mund të zgjedh gjumin, O Perëndi, Perëndia im, kur sytë e atyre që dëshirohen për Ty janë të hapur për shkak të ndarjes prej Teje; dhe si mundem unë të prehem, ndërsa shpirtrat e të dashurve të Tu janë të shqetësuar sepse ndodhen larg pranisë Sate?
 

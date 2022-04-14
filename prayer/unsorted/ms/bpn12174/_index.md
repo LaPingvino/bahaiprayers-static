@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12174 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PERTUMBUHAN ROHANI"]
 +++
 Ya Tuhanku! Ya Tuhanku! Dimuliakanlah Engkau kerana Engkau telah mengesahkan daku dalam pengakuan keesaan-Mu, menarik daku kepada kalimat ketunggalan-Mu, menyalakan daku dengan api cinta-Mu, dan menyibukkan daku dengan penyebaran tentang-Mu dan khidmat teman-teman dan dayang-dayang-Mu.
 

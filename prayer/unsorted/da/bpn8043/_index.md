@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8043 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Den Døde"]
 +++
 O min Gud! O Du der tilgiver synder, skænker gaver, fjerner lidelser! I sandhed, jeg beder Dig om at tilgive dem deres synder, der har afkastet den fysiske klædedragt og er steget op til den åndelige verden.
 

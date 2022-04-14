@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12023 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ataş Ýazgysy"]
 +++
 Gadym we Ägirt uly bolan Allanyň Ady bilen. 
     Dogrudanam päk ýürekliler aýralyk odunda ýandy. Seniň didar ýalkymyň şöhle saçyşy nirede, Eý älemleriň Mahbuby?

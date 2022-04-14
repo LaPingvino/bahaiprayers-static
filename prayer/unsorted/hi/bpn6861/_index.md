@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6861 in हिंदी'
 author = "Bahá'u'lláh"
-tags = ['lang-hi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-अहमद की पाती"]
 +++
 ##अहमद की पाती
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7778 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Priyè pou tout Jèn nan"]
 +++
 *Jèn nan 
 Lwanj pou Ou, O Senyè Bondye mwen! Mwen sipliye Ou poutèt Revelasyon sa a ki te fè fènwa tounen limyè, yon Revelasyon ki te konstwi Tanp Ki Byen Frekante a, revele Epit Ekri a epi devwale Pachemen Ouvè a, mwen sipliye Ou pou voye desann sou mwen ak sou sila yo ki nan prezans mwen an sa ki pral pèmèt nou vole nan syèl glwa Ou ki pi wo a, e ki pral lave epi retire tach dout yo ki te anpeche moun ki pa vle kwè yo antre nan tabènak linite Ou a. 

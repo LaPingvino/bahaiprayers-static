@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5195 in Bahasa Indonesia'
 author = "Abdu'l-Bahá"
-tags = ['lang-id', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Selamatan Sembilan Belas Harian"]
 +++
 * "Sesungguhnya telah diperintahkan bagimu agar menyelenggarakan selamatan sekali sebulan walaupun yang dihidangkan hanya air saja; karena Allah telah bertujuan untuk menjalin kalbu-kalbu meskipun melalui cara-cara duniawi maupun surgawi ". Bahá’u’lláh
 

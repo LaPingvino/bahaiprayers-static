@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1156 in Português (BR)'
 author = "Abdu'l-Bahá"
-tags = ['lang-pt', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Reuniões"]
 +++
 Ó Deus Clemente! Estes servos dirigem-se ao Teu Reino em busca da Tua graça e das Tuas dádivas. Ó Deus! Torna bons e puros os seus corações para que sejam dignos do Teu amor. Purifica e santifica os espíritos para que a luz do Sol da Realidade irradie sobre eles. Torna puros e santos os olhos a fim de poderem perceber a Tua Luz. Purifica e santifica os ouvidos para que possam ouvir o chamado do Teu reino.
 Ó Senhor! Em verdade, somos fracos, mas Tu és forte. Em verdade, somos pobres, mas Tu és rico. Somos aqueles que buscam, e Tu és o objeto da nossa busca! Ó Senhor! Tem compaixão de nós e perdoa-nos; concede-nos capacidade e disposição para que possamos corresponder aos Teus favores e ser atraídos ao Teu reino, acesos com a chama do Teu amor e ressuscitados pelo sopro do Teu Espírito Santo, neste século radiante.

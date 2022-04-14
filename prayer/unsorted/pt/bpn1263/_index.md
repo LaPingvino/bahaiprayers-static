@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1263 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Provações e Dificuldades"]
 +++
 Ó Tu, cujas provações são um remédio eficaz para aqueles próximos de Ti, cuja espada é o desejo ardente de todos os que Te amam, cujo dardo é aquilo a que mais aspiram os corações que por Ti anseiam, e cujo decreto é a única esperança dos que reconheceram a Tua verdade! Imploro-Te, pel Tua doçura divina e pelos esplendores da glória do Teu semblante, que faças descer sobre nós, do Teu retiro nas alturas, o que nos possa aproximar de Ti. Torna firmes, então, os nossos pés na Tua Causa, ó meu Deus; esclarece os nossos corações pelo fulgor do Teu conhecimento, iluminando-os com o brilho dos Teus Nomes.
 

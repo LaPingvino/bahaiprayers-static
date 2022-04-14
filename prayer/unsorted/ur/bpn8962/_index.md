@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8962 in اُردُو'
 author = "Abdu'l-Bahá"
-tags = ['lang-ur', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ur', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-دعا برائے روحانی ترقی"]
 +++
 اے خدا ! مجھے ہدایت دے
 اور میری حفاظت فرما۔

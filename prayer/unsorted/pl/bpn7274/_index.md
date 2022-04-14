@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7274 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Bliskość Boga"]
 +++
 O Panie, Boże mój i Przystani moja w niebezpieczeństwie! Moja Tarczo i Schronienie moje w nieszczęściu! Moja Ostojo i Ucieczko w potrzebie i Towarzyszu w mej samotności! Mój Pocieszycielu w chwilach niepokoju i serdeczny Przyjacielu w mym osamotnieniu! Wybawicielu od przypływów mego smutku i Przebaczający moje grzechy!
   

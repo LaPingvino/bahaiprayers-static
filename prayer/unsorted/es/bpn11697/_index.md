@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11697 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tabla de Visitación"]
 +++
 *Esta Tabla, revelada por Bahá’u’lláh, se lee en los Santuarios de Bahá’u’lláh y del Báb. También se lee con frecuencia al conmemorar Sus aniversarios.
 

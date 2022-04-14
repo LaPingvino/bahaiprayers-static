@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12300 in Tuvalu'
 author = "Báb"
-tags = ['lang-tvl', '', "Báb", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Báb", "category-unsorted", "cat-LOTO-MMAU / FAKATUANAAKI"]
 +++
 Tavaeega mo te matagofie e ia Koe, O te Atua!  Talia mai ko te aso e oko atu i ei ki Tou nofo-mai mana ko pilipili mai. Fakafiafia a omotou loto mai I te maalosi o Tou alofa mo te fiafia llei, kae tuku mai ki luga ia matou a te lotommau ko te mea ko matou k 
 lotomalie o tuku katoatoa atu ki Tou Finagalo mo Tau Fakatonuuga.  E tonu, a Tou poto e aofia i ei a mea katoa ko oti ne faiite ne 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2779 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Huqúqu'lláh"]
 +++
 I lavdëruar je Ti, O Zoti im i dhembshur! Unë të lutem për vrumbullitjen e Oqeanit të të folurit Tënd të shenjtë, dhe për shenjat e shumta të Sovranitetit Tënd suprem, dhe për dëshmitë imponuese të Hyjnisë Sate, dhe për misteret e fshehura që qëndrojnë të mbuluara prej dijeve të Tua, më dhuro favorin që të të shërbej Ty e të zgjedhurve të Tu, dhe më bëj të aftë të të ofroj si duhet Huqúq-un Tënd, siç ke porositur Ti në Librin Tënd.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13193 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ľudstvo"]
 +++
 Ó Ty láskavý Pane! Celé ľudstvo si stvoril z rovnakej podstaty. Rozhodol si, že všetci budú náležať k rovnakému rodu. V Tvojej svätej prítomnosti sú všetci Tvojimi služobníkmi a celé ľudstvo nachádza útočisko pod Tvojím svätostánkom. Všetci sa spolu zhromaždili pri Tvojom stole štedrosti. Všetkých rozjasňuje svetlo Tvojej prozreteľnosti.
 Ó Bože! Ty si ku všetkým láskavý, o všetkých si sa postaral, všetkých ochraňuješ, všetkým udeľuješ život. Každého jedného si obdaril nadaním a schopnosťami a všetci sú ponorení do oceánu Tvojho milosrdenstva.

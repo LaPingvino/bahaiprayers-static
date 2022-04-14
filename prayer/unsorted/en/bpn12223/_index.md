@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12223 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Tests and Difficulties"]
 +++
 O MY Lord! I have drawn nigh unto Thee, in the depths of this darksome night, confiding in Thee with the tongue of my heart, trembling with joy at the sweet scents that blow from Thy realm, the All-Glorious, calling unto Thee, saying:
 

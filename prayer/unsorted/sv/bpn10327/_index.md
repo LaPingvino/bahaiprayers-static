@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10327 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Hälsa"]
 +++
 HÄLSA
 O Gud, min Gud! Jag bönfaller Dig vid Din helande krafts ocean, och vid härligheten hos Din nåds Morgonstjärna, och vid Ditt namn, genom vilket Du betvingade Dina tjänare, och vid den genomträngande kraften i Ditt mest upphöjda ord, och vid styrkan hos Din mest upphöjda penna, och vid Din barmhärtighet, som föregått skapandet av alla som är i himmelen och på jorden, att rena mig med Din givmildhets vatten från varje bedrövelse och förvirring, från all svaghet och kraftlöshet.

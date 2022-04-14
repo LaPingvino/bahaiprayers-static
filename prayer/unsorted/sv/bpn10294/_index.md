@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10294 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Barn och ungdom"]
 +++
 O Du gode Herre! Från frigörelsens horisont har Du uppenbarat själar som likt månens sken sprider sin strålglans över hjärtats och själens rike, och har befriat sig från egenskaperna i tillvarons värld och hastat åstad mot evighetens konungarike. Med en droppe från Din godhets ocean har Du mången gång vattnat deras hjärtans trädgårdar tills de förlänades en oförliknelig friskhet och skönhet. Din gudomliga enhets heliga vällukter spreds därmed vida omkring och utsände sin ljuvhet över hela världen och fick jordens nejder att fyllas av sötma. 
 Uppväck då, o renhetens ande, själar som likt helgade väsen skall bli fria och rena och pryda tillvarons värld med en ny klädnad, en underskön skrud, och som ej skall söka någon annan än Dig, ej beträda någon annan stig än Ditt välbehags stig och ej tala om något annat än Din saks mysterier.

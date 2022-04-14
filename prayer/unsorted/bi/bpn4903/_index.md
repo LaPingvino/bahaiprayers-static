@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4903 in Vanuatu'
 author = "Bahá'u'lláh"
-tags = ['lang-bi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MEDEL SAES OBLIGATORI PREA"]
 +++
 ##PREA IA I BLONG TALEMAOT EVRI DEI, LONG MONING, LONG  MEDEL  DEI  MO  LONG  NAET
 

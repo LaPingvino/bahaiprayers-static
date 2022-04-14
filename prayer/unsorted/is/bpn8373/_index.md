@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8373 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lofgjörð og þökk"]
 +++
 Sæll er staðurinn og húsið
 og svæðið og borgin

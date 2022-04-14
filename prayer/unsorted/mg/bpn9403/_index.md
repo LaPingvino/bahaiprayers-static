@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9403 in Malagasy'
 author = "Abdu'l-Bahá"
-tags = ['lang-mg', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ANTENIMIERA AM-PANAHY"]
 +++
 Raha miditra ao amin’ny efitrano filan-kevitra ianareo, manaova ity vavaka ity amin’ny fo midoboka ny fitiavana an’Andriamanitra, ny lela voadio amin’ny zavatra rehetra afatsy ny fahatsiarovana Azy, mba hanampian’Ilay Tompo Mahery anareo  am-pitiavana hahazo ny fandresena tampony.
 ------------------------------

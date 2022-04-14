@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13368 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Fast"]
 +++
 *Ceir ympryd yn ystod mis Àlá (Uchter) sef o 2il Mawrth i 20ed Mawrth.  Yn ystod y dyddiau hyn ni ddylid cymryd bwyd na diod rhwng gwawr a machlud haul.  Mae'n amser o weddïo ac adfywhâd ysbrydol.
 

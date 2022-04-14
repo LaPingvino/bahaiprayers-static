@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2514 in Русский'
 author = "Bahá'u'lláh"
-tags = ['lang-ru', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ru', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Исцеляющая молитва"]
 +++
 Он есть Целитель, Оделяющий, Помогающий, Всепрощающий, Всемилостивый.
 

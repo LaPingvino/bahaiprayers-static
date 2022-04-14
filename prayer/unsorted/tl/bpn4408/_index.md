@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4408 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Espiritwal Na Mga Katangian"]
 +++
 O Diyos, aking Diyos! Ito ang Iyong mahihinang mga tagapaglingkod; sila ang Iyong matatapat na mga alipin at mga babaeng naglilingkod, na nagsi­pagyuko sa harap ng Iyong dindakilang Salita at nagsipagpakumbaba sa Iyong Pintuan ng liwanag, at nagsipagsaksi sa Iyong kaisahan na sa pamamagitan nito ang Araw ay napasikat sa katanghaliang kaningningan nito. Nakinig sila sa mga tawag na binigkas Mo mula sa natatago Mong Kaharian, at nang may mga pu­song kinikilig sa pag-ibig at masidhing kagalakan, tumugon sila sa Iyong tawag.
 

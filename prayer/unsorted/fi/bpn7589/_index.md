@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7589 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Naw-Rúz"]
 +++
 Ylistetty olet Sinä, oi Jumalani, että olet määrännyt Naw-Rúzin juhlapyhäksi niille, jotka ovat noudattaneet paastoa rakkaudesta Sinuun ja pysytelleet erillään kaikesta, mikä ei ole Sinulle mieleen. Suo, oi Herrani, että Sinun rakkautesi tuli ja säätämäsi paastoamisen synnyttämä kuumuus sytyttäisivät heidät asiassasi ja valtaisivat heidän mielensä, niin että he aina ylistäisivät ja muistelisivat Sinua.
 Koska olet kaunistanut heidät, oi Herrani, säätämäsi paaston koristein, kaunista heidät myös hyväksymisesi koristein armostasi ja anteliaasta suopeudestasi, sillä ihmisten teot ovat kaikki riippuvaisia  Sinun mielisuosiostasi ja sidoksissa Sinun käskyysi. Jos Sinä pitäisit paaston rikkonutta sen pitäneenä, niin luettaisiin sellainen ihminen niihin, jotka ovat ikuisesti noudattaneet paastoa. Jos taas katsoisit paastoa noudattaneen sen rikkoneeksi, niin tuo ihminen luettaisiin niihin, jotka ovat aiheuttaneet Sinun ilmoituksesi viitan tahrautumisen pölyyn ja jotka on karkotettu kauas tämän elävän lähteen kristallinkirkkaan veden ääreltä.

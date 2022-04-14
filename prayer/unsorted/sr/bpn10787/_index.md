@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10787 in Srpski српски'
 author = "Abdu'l-Bahá"
-tags = ['lang-sr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ZAŠTITA"]
 +++
 O moj Gospode! Ti znaš da su ljudi okruženi bolom i razaranjem, da su svuda oko njih nedaće i nevolje. Sva moguća iskušenja nasrću na čoveka i sve strahote navaljuju na njega, kao napadi zmije. Nema za njega skrovišta ni utočišta osim pod Tvojim krilom, da mu pruži zaštitu, da ga sačuva, odbrani i nadzire.
 

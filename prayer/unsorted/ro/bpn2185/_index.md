@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2185 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Detaşare"]
 +++
 Îngăduie, o, Dumnezeul meu, să mă apropii de Tine, şi să sălăşluiesc înlăuntrul hotarelor curţii Tale, căci depărtarea de Tine aproape că m-a mistuit. Fă să mă odihnesc la umbra aripilor harului Tău, căci flacăra separării de Tine a topit inima din mine. Du-mă mai aproape de râul care e viaţă cu adevărat, căci sufletul meu arde de sete în căutarea sa neîncetată de Tine. Suspinele mele, o, Dumnezeul meu, proclamă amărăciunea suferinţei mele şi lacrimile pe care le vărs adeveresc iubirea mea pentru Tine.
 

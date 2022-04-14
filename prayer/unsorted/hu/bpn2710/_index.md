@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2710 in Magyar'
 author = "Báb"
-tags = ['lang-hu', '', "Báb", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Báb", "category-unsorted", "cat-Megpróbáltatások és nehézségek"]
 +++
 Jól tudod, ó, Istenem, hogy megpróbáltatások zuhogtak rám minden irányból, és hogy Kívüled senki nem képes azokat eloszlatni vagy megváltoztatni. Az Irántad érzett szeretetem miatt bizonyosan tudom, hogy Te sohasem küldesz megpróbáltatást egy lélekre sem, hacsak nem kívánod rangját emelni mennyei Paradicsomodban, és szívét megerősíteni ebben a földi életben mindent legyőző hatalmad bástyájával, hogy ne vágyódjék e világ hitványságai után. Bizony, jól tudod, hogy én minden körülmények között nagyobb becsben tartanám a Rólad való megemlékezést, mint mindannak birtoklását, ami a mennyekben és a földön létezik.
 

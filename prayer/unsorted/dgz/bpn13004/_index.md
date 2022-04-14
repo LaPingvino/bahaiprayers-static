@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13004 in Daga'
 author = "Bahá'u'lláh"
-tags = ['lang-dgz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-dgz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ewat Virip Tapen U’uraewa (The Fast)"]
 +++
 Wat taragat iragi kwiman Ayop ge inagap.  Iwa Ge wam sisip ma potap ganat wat magatam baran.  Ap menan den nop gega ase wat aroga baran menan amba da ne den wat ago tanek.
 

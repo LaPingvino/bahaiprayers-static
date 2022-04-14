@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12962 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-TEACHING"]
 +++
 O God!  I no gat narapela olsem Yu.  O God, Yu Papa bilong Kingdom!  Ol dispela lain, em ol ami bilong heven bilong Yu.  Helpim ol, bai ol i win wantaim helpim i kam long ol lain ami bilong Ples Bung I Antap Tru.  Inap bai wan wan yet i ken kamap olsem wanpela bikpela lain ami na winim ol dispela kantri wantaim lav bilong God na lait bilong ol gutpela tok skul bilong God. 
  

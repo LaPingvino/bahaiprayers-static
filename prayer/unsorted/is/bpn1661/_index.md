@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1661 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Fyrirgefning"]
 +++
 Ó Guð, Guð minn. Náð Þín hefur fyllt mig hug­rekki og réttlæti Þitt vakið mér ótta. Sæll er sá sem Þú hefur auðsýnt náð Þína og vei þeim er hlýtur dóm Þinn.
 Drottinn. Ég hef flúið undan réttvísi Þinni og leitað náðar Þinnar, snúið undan reiði Þinni og sárbeðið fyrirgefningar. Ég bið til Þín við vald Þitt, yfirráð, dýrð og hylli, að uppljóma svo mannkynið með ljósi þekkingar Þinnar að alls staðar megi sjá handaverk Þín, hvarvetna birtist leyndardómar valds Þíns og allt opinberi ljós þekkingar Þinnar.

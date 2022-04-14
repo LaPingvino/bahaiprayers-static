@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13261 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Výnimočné tabuľky"]
 +++
 ##Tabuľka navštívenia
 *Táto tabuľka sa číta v Svätyni Bahá’u’lláha a Bába. Taktiež sa často používa pri oslavách Ich výročí.

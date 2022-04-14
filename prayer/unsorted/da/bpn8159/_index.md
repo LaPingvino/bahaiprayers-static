@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8159 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Bønner For Undervisning Fra Den Guddommelige Plans Breve"]
 +++
 Hver sjæl, som rejser gennem byerne og landsbyerne i disse stater og er optaget af at sprede Guds vellugte, bør læse denne bøn hver morgen.
 

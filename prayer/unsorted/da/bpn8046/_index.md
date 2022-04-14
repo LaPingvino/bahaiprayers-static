@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8046 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Enhed"]
 +++
 O min Gud! O min Gud! I sandhed anråber jeg Dig og bønfalder Dig foran Din tærskel og beder Dig om, at al Din barmhjertighed må sænke sig over disse sjæle. Udvælg dem til Din gunst og Din sandhed.
 

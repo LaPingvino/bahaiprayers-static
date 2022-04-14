@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12491 in Samoan'
 author = "Abdu'l-Bahá"
-tags = ['lang-sm', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MEETINGS"]
 +++
 O Thou kind Lord! These are Thy servants who have gathered in this meeting,…
 

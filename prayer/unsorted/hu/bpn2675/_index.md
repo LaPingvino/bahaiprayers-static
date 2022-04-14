@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2675 in Magyar'
 author = "Báb"
-tags = ['lang-hu', '', "Báb", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Báb", "category-unsorted", "cat-Isten felé fordulás"]
 +++
 Részesíts, ó, Istenem, szereteted és tetszésed teljes mértékében, és csodásan ragyogó fényed vonzásával bájold el szívünket, ó, Te, Ki a Legfőbb Bizonyíték és a Legdicsőségesebb vagy. Küldd le reám, kegyelmed jeléül, életadó fuvallataidat napközben és éjszaka, ó, a bőkezűség Ura.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4471 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Pagtuturo"]
 +++
 O Panginoon, aking Diyos! Ang papuri at pasasalamat ay suma-Iyo dahil sa pinamtnubayan Mo ako sa malawak na daan ng Kaharian, pinahintulutan akong lumakad sa tuwid at mahabang landas na ito, niliwanagan ang aking mata sa pagkamalas ng mga karingalan ng Iyong liwanag, hinayaan akong makinig sa mga awitin ng mga ibon ng kabanalan buhat sa Kaharian ng mga Hiwaga at inakit ang aking puso sa Iyong Pag-ibig sa piling ng mga nasa katuwiran.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12653 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-NGAJAR"]
 +++
 Leka sampi entudi tu patut dibacha bala pengajar enggau bala pangan ninting hari:
  O Nuan Tuhan ti penelap! Puji meh ngagai Nuan laban

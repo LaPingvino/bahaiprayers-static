@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12190 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-WANITA YANG HAMIL"]
 +++
 Ya Tuhan! Ya Tuhan! Aku memuji-Mu dan bersyukur kepada-Mu kerana Engkau telah   memberkati dayang-Mu yang rendah hati ini, hamba-Mu yang sedang memohon dan merayu kepada-Mu, kerana sesungguhnya Engkau telah membimbingnya ke Kerajaan-Mu yang nyata dan menyebabkannya untuk mendengar Panggilan-Mu yang mulia di dunia wujud ini dan untuk melihat tanda-tanda-Mu yang membuktikan kewujudan kedaulatan-Mu yang agung di atas segala sesuatu.
 

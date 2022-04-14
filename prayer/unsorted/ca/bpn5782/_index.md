@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5782 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Assemblea Espiritual"]
 +++
 Reuniu-vos amb alegria sens màcula, i reciteu aquesta oració al principi de la reunió:
 

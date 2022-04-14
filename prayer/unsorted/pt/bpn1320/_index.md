@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1320 in Português (BR)'
 author = "Abdu'l-Bahá"
-tags = ['lang-pt', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Assembleia Espiritual"]
 +++
 Sempre ao entrardes na sala de conselho, recitai esta prece com o coração a vibrar de amor a Deus e com palavras que somente a Ele recordam, para que o Todo-Poderoso vos ajude a alcançar a vitória suprema.Ó Deus, meu Deus! Somos servos Teus que nos voltamos em devoção ao Teu Sagrado Semblante, e nos desprendemos de tudo, menos de Ti, neste Dia glorioso. Reunimo-nos nesta Assembleia Espiritual com opiniões e pensamentos unidos e um único propósito: o de exaltar a Tua Palavra entre o género humano. Ó Senhor, nosso Deus! Faze de nós sinais da Tua orientação divina, estandartes da Tua Fé sublime entre os homens, servos do Teu poderoso Convénio, ó Tu, nosso Senhor Altíssimo! Que possamos manifestar a Tua Unidade Divina no Teu Reino de Abhá, e luzir como estrelas resplandecentes sobre todas as regiões. Senhor! Ajuda-nos a sermos mares encapelados com as ondas da Tua Graça maravilhosa, rios manando das Tuas Alturas de glória, frutos excelentes na árvore da Tua Causa divina, arbustos movidos pelas brisas da Tua Bondade em Tua Vinha celestial. Ó Deus! Faze as nossas almas dependerem dos Versículos da Tua Divina Unidade, e os nossos corações alegrarem-se com o eflúvio da Tua Graça, para que nos unamos como as ondas do mesmo mar e sejamos fundidos como os raios da Tua Luz esplendorosa; e assim os nossos pensamentos, opiniões e afetos se tornem uma só realidade, manifestando pelo mundo inteiro o espírito da união. Tu és o Benévolo, o Magnânimo, o Generoso, o Omnipotente, o Deus de Misericórdia e Compaixão.
 

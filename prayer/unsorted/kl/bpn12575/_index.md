@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12575 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-kl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Katinneq"]
 +++
 *Kitáb-I-Aqdasimi (Atuakkat Illernarnerpaavanni) maleruaqqusat naapertorlugit katikkumanermik angeqatigiinnerup versitai, katittut immikkoorlutik taasassaat, uppernarsaasussanik ikinnerpaamik marlunnik Anersaakkut Isumasioqatigiiffimmit akuerineqarsimasunit peqataasoqassapput, imaallutillu:
 

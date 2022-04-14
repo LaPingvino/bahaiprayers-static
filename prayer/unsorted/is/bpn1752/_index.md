@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1752 in Íslenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-is', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Staðfesta"]
 +++
 Ó Drottinn, Guð minn! Lof og þökk sé Þér að Þú hefur leitt mig að þjóðbraut ríkisins, leyft mér að ganga þennan langa og beina veg, upplýst auga mitt með birtunni af ljósi Þínu, seitt eyra mitt með söngljóðum fugla heilagleika úr dularheimum og fangað hjarta mitt með ást Þinni meðal hinna réttlátu.
 Ó Drottinn! Staðfest mig af heilögum anda svo ég geti hrópað í Þínu nafni meðal þjóðanna og flutt fagnaðarerindið um birtingu ríkis Þíns meðal manna.

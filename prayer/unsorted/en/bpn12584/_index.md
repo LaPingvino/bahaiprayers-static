@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12584 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Bahá’í Reference Library"]
 +++
 O my eternal Beloved and my adored Friend!  How long shall I remain bereft of Thy presence and sorely afflicted by remoteness from Thee?  To the retreats of Thy heavenly Kingdom lead me, and at the scene of the appearance of Thy supernal Realm cast upon me the glance of Thy loving-kindness.
 

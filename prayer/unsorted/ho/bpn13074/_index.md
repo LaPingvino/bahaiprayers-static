@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13074 in Hiri Motu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ho', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ho', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-NATUDIA EDIA GURIGURI"]
 +++
 Lauegu Lohia e! Lauegu Lohia e!
 Lau be natuna maragina.  Lau Oi ubua Oiemu bogahisihisi ena rata dekenai.  Lau Oi hadibaia Oiemu lalokau ena kemena dekenai.  Oiemu sikuli dekenai lau Oi hadibaia bona  lau Oi hatubua dae namonamo, Oiemu hariharibada ena laulau henunai.  Dibura amo Oi atogu siri. Lamepa mai diaridiari dekenai Oi halaogu. Lalohisi dekena amo Oi ruhaigu.  Palauapalaua ta Oiemu palauapalaua uma dekenai Oi halaogu.  Lau Oi haduaia hegeregere lau be hesiai tauna Oiemu Iduara dekenai bona maoromaoro taudia edia ura bona edia kara Oi henigu.  Tanobada taunimanima durua tauna ta Oi halaogu, bona lauegu kwarana latanai mauri hanaihanai ena korona Oi atoa!  

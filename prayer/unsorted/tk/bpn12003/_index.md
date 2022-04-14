@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12003 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Üzňelik We Töwekgellik Dilemek"]
 +++
 Oldur Ebedi Alla.
     Ylahy! Sen görýänsiň, ägäsiň. Sen söýeg hem penasyň. Senden özgäni gözlemedim, gözlemen. Söýgi ýolundan gaýry aşmadym hem aşmanam. Umytsyz tüm gijede, gözlerim Seniň tükeniksiz Keremiň umytly säherine röwşen bolup açylýandyr we daňdanlar bu solgun jan hem köňül, Seniň Jemalyň we Kemalyň ýadynda dem alyp tolgunýandyr. Seniň Rahmany mähriňe laýyk bolan her damja, ummasyz deňizdir we Seniň Jomartlyk şöhläňden dadan her zerre, nurly hem taban güneşdir.

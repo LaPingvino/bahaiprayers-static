@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10441 in Kiribati'
 author = "Abdu'l-Bahá"
-tags = ['lang-gil', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-gil', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Kabutireirei"]
 +++
 Kaotaki nakoia kaain te Bahá’í n Aonon Meangmainiku 
 *Te bubuti ae inano e kona ni warekaki irouia taan reirei ao raao ni katoa bong:

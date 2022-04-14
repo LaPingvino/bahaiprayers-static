@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5113 in Bahasa Indonesia'
 author = "Abdu'l-Bahá"
-tags = ['lang-id', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Kekuatan"]
 +++
 Ya Tuhan! Kami ini lemah; berilah kami kekuatan. Kami ini miskin; anugerahilah kami dengan kekayaan- Mu yang tak terbatas. Kami ini sakit; berilah kami kesembuhan keilahian-Mu. Kami ini tak berdaya; berilah kami kekuatan surgawi-Mu. Ya Tuhan! Jadikanlah kami
 

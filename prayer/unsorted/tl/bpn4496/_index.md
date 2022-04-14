@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4496 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Sangkatauhan"]
 +++
 O Diyos, O Ikaw na nagsabog ng Iyong karingalan sa nagniningning na mga realidad ng mga tao, na ipinasinag sa kanila ang makinang na mga liwanag ng kaalaman at pamamatnubay, at pinili sila mula sa lahat ng nilikhang bagay para sa marilag na biyayang ito, at ginawa silang makasaklaw ng lahat ng bagay, na maunawaan ang kanilang kaibuturang diwa, at ibunyag ang kanilang mga hiwaga, na inilalabas ang mga ito mula sa karimlan tungo sa nakikitang daigdig! “Siya ay tunay na nagpapakita ng Kaniyang tanging habag sa kaninumang loobin Niya.” (Qur’án 3:67)
 

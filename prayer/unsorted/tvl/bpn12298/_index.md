@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12298 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-LOTO-MMAU / FAKATUANAAKI"]
 +++
 Ko te matagofie e io Koe, O te Aliki toku Atua!  Au e akai fakamolemole kia Koe mai ia Ia Tela ko Tou Igoa Tafasili i te Lasi, Te la ko oti ne pokotia kii loa ne Au mea faiite kae fakase a Tau mea tonu, kae Tela ne toe faopopo mai a te fanoanoa tela e seai se laulaufaiva e mafai ne ia o fakamatala, ke talia mai ko au ke mafai o masaua a Koe kae fakamanatu a Tou tavaeega i aso konei ko la a tino katoa ko fulitua mai i Tou gali, ko oti ne faka-kinau mo Koe, kae fulitua fakamasei mai ia Ia Tela ko te Fakaasi o Tau Fakatokaaga.  E seai aka foki i kona, O toku Aliki, o feasoasoani kia Koe vagana ko Koe Loa ia Koe, kae e seai se maalosi o fakamafafana a Koe vagana ko Tou maalosi.  
   

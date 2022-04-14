@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12331 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TOFOOGA"]
 +++
 E fakamalugia a Tou igoa, O toku Atua!  E lavea ne Koe me e pefea a matagi maalosi o tofotofoga ne fai ne latou a te tummau i te talitonuuga o gasuesue, kae me ne pefea a manavaaga o tofooga o kosu ne latou a loto ko la ko toi loa ne faka-tummau pe la mo latou ko la ko oti me inu i te uaina te la ko ola mai i lima o te Faifekau o Tou igoa, ko te tafasili i te AlofaKaimalie.  Mea nei ko latou ko la e seai se muna na ko Tau muna maluga ne mafai o faka-gasue, te la e seai lele se mea na ko te gatu manogi magalo o Tou mausauaaga e mafai o ufi i ei, O ko Koe Tela ko te Pule o igoa katoa mo te Tufuga o te lalolagi mo te lagi!  
   

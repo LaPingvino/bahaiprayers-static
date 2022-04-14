@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11943 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gündelik Dogalar"]
 +++
 Senden özge tagzym etmeli Alla ýokdur!
     Alkyş diňe Saňa laýykdyr, Eý meniň Taňrym! Çünki Sen meni oýardyň, ýoklukdan barlyga getirdiň hem ýatanymdan soň meni turuzdyň.

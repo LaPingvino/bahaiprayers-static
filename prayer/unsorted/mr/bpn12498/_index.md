@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12498 in मराठी'
 author = "Bahá'u'lláh"
-tags = ['lang-mr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-मध्यम अनिवार्य प्रार्थना"]
 +++
 *(प्रतिदिन प्रातः, मध्यान्ह आणि सायंकाळी स्तवन करावी)
 	*(जो कोणी प्रार्थना करू इच्छितो, त्याने हात धुवावेत आणि ते धुताना म्हणावे) 

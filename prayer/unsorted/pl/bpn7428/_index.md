@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7428 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Długa modlitwa o uzdrowienie"]
 +++
 On jest Uzdrowicielem, Wystarczającym, Pomagającym, Wszystko Przebaczającym, Wszechmiłosiernym.
     

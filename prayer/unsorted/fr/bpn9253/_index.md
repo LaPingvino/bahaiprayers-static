@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9253 in Français'
 author = "Báb"
-tags = ['lang-fr', '', "Báb", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Báb", "category-unsorted", "cat-Protection"]
 +++
 Ô mon Seigneur, puisque tu détiens la mesure préétablie de toutes choses, ordonne pour moi et pour ceux qui croient en toi ce que tu juges nous convenir le mieux, selon ce que prescrit le LivreMère. 
 Tes généreux bienfaits pleuvent sans cesse sur ceux qui chérissent ton amour. Ceux qui reconnaissent ta divine unité reçoivent abondamment les signes merveilleux de ta céleste bonté. Tout ce que tu nous destines est entre tes mains, nous t’implorons de nous accorder tout le bien que ta connaissance embrasse.

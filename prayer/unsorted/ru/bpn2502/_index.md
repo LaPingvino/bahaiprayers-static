@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2502 in Русский'
 author = "Abdu'l-Bahá"
-tags = ['lang-ru', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ru', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Единство"]
 +++
 О мой Боже! О мой Боже! Воистину, я взываю к Тебе и молю у Твоего порога, заклиная Тебя, дабы все милости Твои были ниспосланы душам сим. Избери их для благоволения Твоего и истины.
 

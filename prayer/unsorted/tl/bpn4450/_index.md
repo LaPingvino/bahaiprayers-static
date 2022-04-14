@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4450 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pagpapagaling"]
 +++
 Luwalhati sa Iyo, O Panginoon kong Diyos! Isinasamo ko sa Iyo sa Iyong Pangalan, na sa pamamagitan niyon ay itinaas Mo ang mga bandila ng Iyong pamamatnubay, at pinadaloy ang ningning ng Iyong mapagmahal na kahabagan, at ipinahayag ang kapangyarihan ng Iyong pagka-Panginoon; na sa pamamagitan niyon ay lumitaw ang lampara ng Iyong mga pangalan sa loob ng kinalalagyan ng Iyong mga katangian, at Siya na Tabernakulo ng Iyong kaisahan at Kapahayagan ng pagkakatiwalag ay sumikat; na sa pamamagitan niyon ay naipakilala ang mga daan ng Iyong pamamatnubay, nabigyang-tanda ang mga landas ng Iyong mabuting kasiyahan; na sa pamamagitan niyon ang mga saligan ng katiwalian ay nagawang mayanig at ang mga tanda ng kasamaan ay naiwaksi; na sa pamamagitan niyon ang mga bukal ng kadunungan ay bumulwak, at naibaba ang makalangit na hapag; na sa pamamagitan niyon ay napangalagaan Mo ang Iyong mga tagapaglingkod at naipagkaloob ang Iyong pagpapagaling; na sa pamamagitan niyon ay naipakita Mo ang Iyong masuyong mga habag sa Iyong mga tagapaglingkod at naipahayag ang Iyong pagpapatawad sa Iyong mga nilalang—isinasamo ko sa Iyo na ingatan siya na mahigpit na nangangapit at nagbalik sa Iyo, at nanghahawak sa Iyong habag, at nakakapit sa laylayan ng Iyong mapagmahal na kalinga. Ihulog Mo, kung gayon, sa kaniya ang Iyong lunas, at siya’y pagalingin Mo, at bigyan Mo siya ng hindi nagbabagong katapatan na ipinagkaloob Mo, at ng katiwasayan na kaloob ng Iyong Kataasan.
 

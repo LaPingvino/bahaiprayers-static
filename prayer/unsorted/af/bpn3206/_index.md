@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3206 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Onderrig"]
 +++
 O God, Wat die Maker van alle Openbaarwordinge is, die Bron van alle Bronne, die Fontein van alle Openbaringe, en die Oorsprong van alle Ligte! Ek getuig dat deur U Naam die hemel van insig versier is, en die oseaan van uitspraak gegolf het, en die bedelings van U voorsienigheid bekend gemaak is aan die volgelinge van alle godsdienste.
 

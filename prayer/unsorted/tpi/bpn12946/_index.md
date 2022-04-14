@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12946 in Tok Pisin'
 author = "Bahá'u'lláh"
-tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-UNITY"]
 +++
 Plis God, inap Yu karamapim olgeta hap graun wantaim lait bilong bung wantaim.  Na putim wanpela mak olsem, em  "dispela Kingdom em Kingdom bilong God" i stap long poret bilong ol lain manmeri long dispela graun. 
  

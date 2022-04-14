@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12139 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MENGAJAR"]
 +++
 Dimuliakanlah Engkau, Ya Raja dunia dan Hasrat segala bangsa, Ya Engkau Yang telah dijelmakan dalam Nama Teragung, melaluinya mutiara-mutiara kearifan dan ujaran telah muncul daripada kerang-kerangan dari samudera kebesaran pengetahuan-Mu, dan syurga-syurga revelasi ketuhanan telah dihiasi cahaya kemunculan suria wajah-Mu.
 

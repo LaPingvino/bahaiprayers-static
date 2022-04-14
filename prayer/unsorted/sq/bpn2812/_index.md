@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2812 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Nënat e pritshme"]
 +++
 Zoti im! Zoti im! Të lëvdoj e të falënderoj për ato që i ke dhënë shërbëtores Sate të përunjur, skllaves Sate që të lutet e të përgjërohet Ty, sepse Ti me të vërtetë e ke udhëhequr atë në Mbretërinë Tënde të dukshme dhe ke bërë që ajo të dëgjojë Thirrjen Tënde të frymëzuar në botën e përkohshme dhe të shohë shenjat e Tua, që provojnë ardhjen e sundimit Tënd fitimtar mbi të gjitha gjërat.
 

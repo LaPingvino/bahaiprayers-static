@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4444 in Filipino'
 author = "Báb"
-tags = ['lang-tl', '', "Báb", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Báb", "category-unsorted", "cat-Pagkawalay"]
 +++
 Sa Pangalan ng Iyong Panginoon, ang Maylikha, ang Makapangyarihan, ang Nakasasapat sa Lahat, ang Pinakadakila. Siya na ang tulong ay hinihiling ng lahat ng tao.
 

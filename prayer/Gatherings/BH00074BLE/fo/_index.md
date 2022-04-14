@@ -1,7 +1,7 @@
 +++
 title = 'Blessed is the Spot in Føroyar'
 author = "Bahá'u'lláh"
-tags = ['lang-fo', '', "Bahá'u'lláh", "Gatherings"]
+tags = ['lang-fo', 'prayer-BH00074BLE', "author-Bahá'u'lláh", "category-Gatherings", "cat-Lýdni"]
 +++
 Vælsignaður er tann blettur,
 og tað hús, 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10367 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Äktenskap"]
 +++
 *”Bahá’í-äktenskapet är ett förbund och djup kärlek mellan de båda parterna. De måste emellertid iakttaga yttersta aktsamhet och lära känna varandras karaktär. Detta eviga band måste skyddas av ett fast förbund och avsikten måste vara att främja harmoni, vänskap och sammanhållning och att vinna evigt liv.”
 *‘Abdu’l-Bahá

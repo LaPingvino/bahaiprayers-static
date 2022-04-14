@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5025 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-vi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Kinh Bản Carmel"]
 +++
 ##Kinh Bản Carmel
 *(Lawh-i-Karmil)

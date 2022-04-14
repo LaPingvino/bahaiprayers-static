@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11767 in Bidayuh'
 author = "Bahá'u'lláh"
-tags = ['lang-sne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Simayang Wajib Sodang Omu"]
 +++
 *Obuah nai taluh sidoh, sipagi, uunt onu, bia onu ngumi.
 *	Sipagi – Osah boton onu nusak duwoh uunt onu.

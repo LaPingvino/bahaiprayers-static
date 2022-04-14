@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7953 in Malti'
 author = "Abdu'l-Bahá"
-tags = ['lang-mt', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mt', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ommijiet fit-tqala"]
 +++
 Sidi! Sidi! Jien infaħħreK u niżżiK ħajr għal dak li għażilt għall-qaddejja umli tiegħeK, l-ilsira tiegħeK titolboK bl-akbar ħniena, għax Int fis-sewwa mexxejtha lejn is-Saltna mdiehra tiegħeK u ħallejtha tisma’ is-Sejħa għolja tiegħeK fid-dinja barranija u tara l-Egħliem tiegħeK li jsaħħu d-dehra tas-saltna rebbieħa tiegħeK fuq il-ħwejjeġ kollha.
 

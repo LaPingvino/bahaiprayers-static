@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2476 in Русский'
 author = "Bahá'u'lláh"
-tags = ['lang-ru', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ru', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Вечер и ночь"]
 +++
 О мой Боже, мой Господин, Цель стремления моего! Твой слуга ищет сна в пристанище Твоего милосердия, отдыха под сводом Твоей благодати, моля о заботе Твоей и защите.
 

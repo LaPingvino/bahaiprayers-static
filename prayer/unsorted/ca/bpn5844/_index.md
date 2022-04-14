@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5844 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Familia"]
 +++
 ##Pels Pares
 

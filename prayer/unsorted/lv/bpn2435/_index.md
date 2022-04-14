@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2435 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Vakars"]
 +++
 Ak Dievs, mans Dievs! Es esmu griezies pie Tevis grēku nožēlā, un, patiesi, Tu esi Piedevējs, Tu esi Līdzjūtīgais!
 Ak Dievs, mans Dievs! Es esmu atgriezies pie Tevis, un, patiesi, Tu esi Mūžam Piedodošais, Tu esi Žēlotājs!

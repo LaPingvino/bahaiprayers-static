@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11707 in Hausa'
 author = "Abdu'l-Bahá"
-tags = ['lang-ha', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Galgaɗi Zuwa Ga Ango Da Amarya"]
 +++
 Igiyar dake ɗaure zūkāce yanda ya kamāta, ita cē, biyayya. Idan sun haɗu, yā cancanta masōyā, su gwadāwa jūna amānā matuƙa.
 Kada ku yarda kīshi, ya shiga tsakāninku, sabōda kīshi, kamar gubā, yana gurɓāta tūshen sōyayya.

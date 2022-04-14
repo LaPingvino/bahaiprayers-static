@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3500 in Norsk'
 author = "Báb"
-tags = ['lang-no', '', "Báb", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Báb", "category-unsorted", "cat-Beskyttelse"]
 +++
 I Guds navn, den overveldende storhets Herre, den altbetvingende.
  

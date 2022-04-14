@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13134 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Zosnulí"]
 +++
 *Táto modlitba za zosnulých sa číta za bahájov starších ako pätnásť rokov. „Je to jediná bahájska povinná modlitba, ktorá sa prednáša v kongregácii jedným veriacim, pričom ostatní povstanú. Nie je potrebné obrátiť sa ku Qiblih.
 

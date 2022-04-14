@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6080 in Sranan Tongo'
 author = "Bahá'u'lláh"
-tags = ['lang-srn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-srn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Korte Verplichte Gebed"]
 +++
 ##SYATU FERPLEKTI BEGI 
 *(Syatu ferplekti begi, fu taki ala dei mindri fu 12 nanga 6 yuru bakadina.) 

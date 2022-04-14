@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9470 in ಕನ್ನಡ'
 author = "Bahá'u'lláh"
-tags = ['lang-kn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-kn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ಹೆತ್ತವರಿಗಾಗಿ"]
 +++
 *“ದೇವರೊಡನೆ ಸಂಭಾಷಿಸುವಾಗ ಯಾರು ಅವನ ಹೆತ್ತವನ್ನು ಸ್ಮರಿಸುತ್ತಾನೋ ಅವನು ಧನ್ಯನು.”  - ಬಾಬ್
 

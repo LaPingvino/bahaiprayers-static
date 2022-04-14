@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2323 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tabletele vizitării Navváb"]
 +++
 O, credincioşi! De va fi să vizitaţi locul de odihnă al Celei Mai Slăvite Frunze, ce s-a înălţat către Tovarăşul Sfânt, staţi în picioare şi spuneţi:
 

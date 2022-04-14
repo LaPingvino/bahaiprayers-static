@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6652 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-노우루즈"]
 +++
 노우루즈는 3월 21일로 바하이력으로 정월 초하루이다.
  

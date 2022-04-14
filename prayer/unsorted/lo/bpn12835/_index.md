@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12835 in ພາສາລາວ'
 author = "Abdu'l-Bahá"
-tags = ['lang-lo', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-lo', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ທ່ຽງຄືນ"]
 +++
 *ດູກ່ອນຜູ້ສະແຫວງຫາສັດຈະທັມ! ຫາກເຈົ້າປາດຖະໜາໃຫ້ ພຣະຜູ້ເປັນເຈົ້າເປີດຕາຂອງເຈົ້າ ເຈົ້າຕ້ອງວິງວອນພຣະຜູ້ເປັນເຈົ້າ ອະທິຖານແລະສົນທະນາກັບພຣະອົງຕອນທ່ຽງຄືນໂດຍກ່າວວ່າ:
 

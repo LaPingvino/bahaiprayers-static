@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4467 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Pagtuturo"]
 +++
 O Diyos, O Diyos! Nakikita Mo ang aking kahinaan, kababaan at pagkahamak sa harap ng Iyong mga nilalang; gayon man ay nagtiwala ako sa Iyo at nagbangon sa pagpapalaganap ng Iyong mga Turo sa Iyong malalakas na tagapaglingkod, nananangan sa Iyong lakas at kapangyarihan!
 

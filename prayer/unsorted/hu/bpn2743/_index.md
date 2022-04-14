@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2743 in Magyar'
 author = "Báb"
-tags = ['lang-hu', '', "Báb", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Báb", "category-unsorted", "cat-Védelem"]
 +++
 Isten, az ellenállhatatlan fenség Ura, a Mindeneknek Parancsoló Nevében.
 

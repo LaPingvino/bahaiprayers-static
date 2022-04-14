@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6079 in Sranan Tongo'
 author = "Bahá'u'lláh"
-tags = ['lang-srn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-srn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Algemene Gebeden"]
 +++
 ##WÖUTU FU GADU 
 Kanda, kë mi dinai, di wöutu fu Gadu di A da ju, kuma de sëmbë de dë na Hën bandja ta kanda de, fu di a suti u di kanda fii sa mbei di akaa fii seei kisi faja ku a sa hai de hati fu hii sëmbë ko. De sëmbë di dë pii a de denduwosu ta taki de wöutu de Gadu tja ko da u, sa mbei de Gaduköndë basia paaja di suti sumëë fu de wöutu, ku mbei di hati fu hiniwan sëmbë di ta libi a di leti fasi naki möön taanga. 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2736 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Tanítás"]
 +++
 Ó, összehasonlíthatatlan Isten! Ó, Te, a Királyság Ura! Ezek a lelkek a Te mennyei sereged. Segítsd meg őket, és a Magasságbéli Gyülekezet rendjeivel vidd őket győzelemre, hogy mindegyikükbe egy hadsereg ereje költözzön, és meghódíthassák ezen országokat Isten szeretetével és a mennyei tanítások fényével.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11970 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Merhumlar Üçin Dogalar"]
 +++
 Hu’Alla.
     Eý Mähriban Taňrym! Bu Seniň gapyň işiginiň bendesi, jany bilen Seniň gözlegiňdedi, Seniň söýgi ýoluňy agtarýardy. Rugsary hedaýat nurundan mahy-tabandy, ýüregi bu dünýäniň hapasyndan päkize hem arassady. Muhabbet meýlisinde, ellerinde jam we peýmanady. Ezeliň şerabyndan mestanady.

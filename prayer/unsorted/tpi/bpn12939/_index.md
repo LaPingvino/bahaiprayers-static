@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12939 in Tok Pisin'
 author = "Bahá'u'lláh"
-tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PARENTS"]
 +++
 O Bikpela!  Yu lukim olsem mipela i apim han bilong mipela i go long heven bilong lav na blesing bilong Yu.  Inap Yu pulapim han bilong mipela wantaim gutpela na bikpela lav bilong Yu.  Inap Yu pogivim mipela.  Na pogivim ol papa na ol mama bilong mipela. Na inapim ol laik bilong mipela long solwara bilong marimari na gutpela bilong Yu.  O Lewa bilong mipela!  Inap Yu oraitim ol wok mipela i bin mekim long rot bilong Yu.  Tru tumas.  Pawa Bilong Yu I Antap Olgeta.  Yu Stap Antap Olgeta.  I No Gat Narapela Olsem Yu.  Yu Wanpela Tasol I Stap.  Yu Save Pogivim Ol Rong.  Yu Save Marimari Long Olgeta Man. 
 

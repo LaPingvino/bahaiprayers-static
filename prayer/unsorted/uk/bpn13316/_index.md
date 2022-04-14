@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13316 in Україна'
 author = "Abdu'l-Bahá"
-tags = ['lang-uk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-uk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Північ"]
 +++
 О шукачу Істини! Якщо бажаєш, щоб Бог міг відкрити твоє око, ти маєш просити Бога, молити Його та вести з Ним розмову опівночі, промовляючи:
 

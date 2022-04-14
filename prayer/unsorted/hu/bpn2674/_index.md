@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2674 in Magyar'
 author = "Báb"
-tags = ['lang-hu', '', "Báb", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Báb", "category-unsorted", "cat-Isten felé fordulás"]
 +++
 Ó, Uram! Hozzád térek menedékért és a Te jeleidre figyelmez szívem.
 

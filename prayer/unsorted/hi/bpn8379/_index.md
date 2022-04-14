@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8379 in हिंदी'
 author = "Abdu'l-Bahá"
-tags = ['lang-hi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-बालक और युवा"]
 +++
 हे ईश्वर! मेरा मार्गदर्शन कर, मेरी रक्षा कर, मुझे एक प्रदीप्त दीपक और जगमगाता सितारा बना दे। तू शक्तिशाली और बलशाली है।
 

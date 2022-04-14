@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12427 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Rugciriku : NDANGO YAPAMPEP"]
 +++
 *Pakungena nka anwe mundjugho yaNdango, rapererenu ndapero yino namutjima wakuyuma nashihoro shakwaKarunga naruraka rwakukushuka kunavintje kwandi livhuruko kwendi, mposhi Munankondonadintje a mu vatere mukuketerera.
 	

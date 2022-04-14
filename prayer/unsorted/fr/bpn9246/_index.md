@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9246 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Protection"]
 +++
 Louange à toi, ô Seigneur, mon Dieu ! Je le jure par ta puissance. Des calamités continuelles empêchent la plume du Très-Haut de dévoiler ce qui est caché aux yeux de tes créatures, et des épreuves incessantes empêchent la langue de l’Ordonnateur divin de proclamer les merveilles de ta glorification et de ta louange. Aussi, d’une langue balbutiante, je t’invoque, ô mon Dieu et, de ma plume affligée, je me consacre au souvenir de ton nom.
 Ô mon Dieu, existe-t-il un homme assez perspicace pour te voir par tes propres yeux ? Où se trouve l’assoiffé capable de tourner son visage vers les eaux vivifiantes de ton amour ? 

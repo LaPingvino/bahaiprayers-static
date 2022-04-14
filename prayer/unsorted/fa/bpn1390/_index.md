@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1390 in فارسی'
 author = "Bahá'u'lláh"
-tags = ['lang-fa', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fa', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-نماز صغیر"]
 +++
 صلات صغير
  *صلات صغير كه از زوال بزوال تلاوت ميشود

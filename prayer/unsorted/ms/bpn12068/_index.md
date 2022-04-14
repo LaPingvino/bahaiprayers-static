@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12068 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-DANA & REZEKI"]
 +++
 Semua rakan Tuhan… harus menyumbang sebanyak yang boleh, tak kira betapa kecilpun pemberian mereka. Tuhan tidak akan membebankan sebarang roh lebih daripada keupayaannya. Sumbangan sebegitu haruslah datang daripada semua pusat dan semua penganut… Wahai Sahabat-Sahabat Tuhan! Yakinlah engkau bahawa sebagai balasan kepada sumbangan ini, pertanianmu, perindustrianmu, perdaganganmu akan diberkati dengan peningkatan berlipat ganda, dan dengan pemberian dan kurnia yang baik. Dia yang melakukan satu perbuatan yang baik akan menerima balasan sepuluh kali ganda. Tidak dapat dinafikan bahawa Tuhan yang hidup akan memberikan pengesahan yang banyak kepada mereka yang membelanjakan kekayaan mereka dalam jalan-Nya.
 

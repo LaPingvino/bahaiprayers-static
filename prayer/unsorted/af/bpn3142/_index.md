@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3142 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Vir die Heengeganes"]
 +++
 Glorie sy aan U, o Here my God! Verneder nie hom wat U deur die krag van U ewigdurende oppermag verhef het nie, en verwyder nie ver van U hom wat U die tabernakel van U ewigheid laat ingaan het nie. Sou U, o my God, hom wat U met U heerskappy oorskadu het verwerp, en sou U hom van U afwys, o my Begeerte, vir wie U 'n skuilplek was? Kan U hom wat U opgehef het, verneder, of hom wat U in staat gestel het om U te onthou, vergeet?
 

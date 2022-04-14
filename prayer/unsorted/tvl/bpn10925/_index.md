@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10925 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAKAMAGALO"]
 +++
 E matagofie a Koe, O te Aliki toku Atua!  I taimi katoa e taumafai au o taku a Koe, au e fakalavegia ne aku agasala fulafula-aki mo aku soli-tuakoi tafasili i te masei kia Koe, ako au e iloa aka ne au ko seai a Tou alofa-kaimalie katoatoa ia au, kae e aunoa mo se maalosi o fakamanatu a Ou tavaeega.  A toku talitonu lasi i Tou mau-koloa, e ui iei, e fakaola ne ia a toku fakamoemoega ia Koe, a ko toku talitonu ia a Koe ka saga mai kia au i se auala gali kae faka-maukoloa kae fakamaalosi au ke sisi Koe ki luga, kae ka akai atu kia Koe ki mea kola e pule ne Koe.
      Au e akai fakamolemole kia Koe, O toku Atua, mai i Tou alofa-fakamagalo tela ko sili atu i mea faiite katoa, kae kia latou katoa kola ko ufi ki lalo i vasa o Ou igoa e molimaugia, ke sa liakina mai au kia au loa, aua i toku loto e fai-gofie o agasala.  Taui mai au, tena la, mai i loto ite puipiui-olo o Tau puipuiiga mo te malu o Tau tausiiga.  Au ko ia, O toku Atua, tela e tasi loa a tena manakoga tela ko oti ne fakaiku mai ne Koe mai i te maalosi mo Tou mafi.  A te mea fua e tasi ko oti ne filigia ne au mo au ko au ke fesoasoanigia ne Au galuega mo pulepulega o Tou finagalo, kae ke lagogia ne alofaaga o Tau ikuuga mo te fakamasinoga.

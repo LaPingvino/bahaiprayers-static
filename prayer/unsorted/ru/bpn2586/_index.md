@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2586 in Русский'
 author = "Abdu'l-Bahá"
-tags = ['lang-ru', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ru', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Об усопших"]
 +++
 О мой Боже! О Ты, Кто прощает грехи, ниспосылает дары, развеивает скорби!
 

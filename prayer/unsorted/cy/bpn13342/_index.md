@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13342 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Spiritual Growth"]
 +++
 Dywedwch: O Dduw, fy Nuw! Gwisg fy mhen â choron cyfiawnder, a'm harlais â thlws tegwch. Ti, yn wir, wyt Berchen pob rhodd a haelioni.
 

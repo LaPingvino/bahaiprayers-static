@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12147 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Dituliskan kepada rakan-rakan Bahá'í di Amerika Syarikat dan Kanada"]
 +++
 ##Dituliskan kepada rakan-rakan Bahá'í di Amerika Syarikat dan Kanada
 Barangsiapa yang berangkat ke mana sahaja untuk menyebarkan Kalimat Tuhan, biarlah dia melafazkan doa ini pada siang dan malam selama perjalanannya ke tempat asing.

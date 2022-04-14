@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2228 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Încercări şi Dificultăţi"]
 +++
 O, Doamne, Dumnezeul meu şi Adăpostul meu în primejdie! Scutul meu în nenorociri! Căminul şi refugiul meu în ceasul de nevoie şi însoţitorul meu în izolarea mea! În chinurile mele mângâiere şi în singurătatea mea un prieten duios! Tu eşti Cel ce-mi alini suferinţele şi care-mi ierţi păcatele.
 

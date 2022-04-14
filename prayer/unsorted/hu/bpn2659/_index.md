@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2659 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Gyermekek és ifjak"]
 +++
 Ó, Uram! Ó, Uram!
 Kicsiny gyermek vagyok. Táplálj engem irgalmad emlőjéből, formálj szereteted kebelében, taníts útmutatásod iskolájában, és nevelgess bőséged árnyában. Emelj ki a sötétségből és tégy ragyogó fénnyé. Szabadíts meg a boldogtalanságtól és tégy engem rózsakerted virágává. Engedd, hogy küszöböd előtt szolgálhassak, és add nékem az igazak jellemét és természetét. Tégy a jótékonyság eszközévé az emberi világban és ékesítsd fejemet az örök élet koronájával.

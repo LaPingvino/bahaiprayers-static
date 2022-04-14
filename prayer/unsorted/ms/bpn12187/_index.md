@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12187 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-DOA JENAZAH"]
 +++
 *Doa Jenazah ini adalah digunakan untuk orang Bahá'í yang telah mencapai lima belas tahun ke atas. “Ia adalah satu-satunya doa wajib Bahá'í yang harus dilafazkan dalam Jemaah; ia harus dilafazkan oleh seorang penganut sementara hadirin yang lain berdiri. Tidak mempunyai syarat untuk memandang ke arah Kiblat sewaktu melafazkan doa ini.”
 *- Sinopsis dan kodifikasi Kitáb-i-Aqdas

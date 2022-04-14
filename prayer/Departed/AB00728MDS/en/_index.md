@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB00728MDS in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "Departed"]
+tags = ['lang-en', 'prayer-AB00728MDS', "author-Abdu'l-Bahá", "category-Departed", "cat-Departed"]
 +++
 ##For Women
 

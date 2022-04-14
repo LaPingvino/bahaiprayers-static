@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12441 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Oshikwanyama : EINDILO LIXUPI LAPANGELWA"]
 +++
 Ondi shi shi, Kalunga kange, kutya Ove wa shitange ndi ku shive ndikulinyongamene. Oha ndi hokolola, pefimbo eli, moungone wange, no mo lwenghono doYe, moluhepo lange, omo lwoupuna woYe. 
 	Kapena nande Kalunga umwe, Ove auke Kalunga, Omukwafi wo moudyu, ou iho pumbwasha nande.

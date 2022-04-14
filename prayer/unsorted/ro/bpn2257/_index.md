@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2257 in România'
 author = "Báb"
-tags = ['lang-ro', '', "Báb", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Báb", "category-unsorted", "cat-Părinţi"]
 +++
 Îţi cer iertare, o, Dumnezeul meu, şi te implor să-mi acorzi îngăduinţă, aşa cum doreşti ca slujitorii Tăi să se îndrepte spre Tine. Te rog să ne speli de păcate, după cum se cuvine Maiestăţii Tale, şi să mă ierţi pe mine, pe părinţii mei şi pe aceia care, potrivit înţelepciunii Tale, au intrat în sălaşul iubirii Tale într-un mod care este demn de suveranitatea ta transcendentă şi pe măsura puterii Tale cereşti.
 

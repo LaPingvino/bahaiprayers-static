@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10997 in తెలుగు'
 author = "Abdu'l-Bahá"
-tags = ['lang-te', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-te', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-బాలల, యువజనుల ప్రార్థనలు"]
 +++
 ఓ దేవా! నన్ను నడిపించు, నన్ను రక్షించు; నన్నొక శోభాదీపికను, ఉజ్జ్వలతారను గావించు. నీవు మహాశక్తి యుతుడవు, అధికార పరిపూర్ణితుడవు.
 

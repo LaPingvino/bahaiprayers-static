@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4864 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Uşaqlar üçün dualar"]
 +++
 Odur Allah! Ey Allah, mənim Allahım! Mənə dürr təkin saf bir qəlb əta eylə.
 

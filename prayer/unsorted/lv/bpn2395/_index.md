@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2395 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Garīgums"]
 +++
 Viņš ir Dievs, Kas uzklausa lūgšanas un atbild uz tām!
 Lai Tev slava, ak Vismīļotais, Tu gaismas Devējs pasaulei! Atšķirtības liesmas ir mani apņēmušas, un mana vieglprātība ir manu sirdi iztukšojusi. Pie Tava Visdiženā Vārda, ak Tu Pasaules Ilgojums un cilvēku cilts Vismīļotais, es Tevi lūdzu, liec, lai Tava iedvesma uztur manu dvēseli un lai mana auss saklausa Tavu brīnišķo balsi, lai manas acis saskata Tavas zīmes un Tavu gaismu, kas ir atklāta caur Tavu vārdu un Tavu īpašību izpausmēm, ak Tu, Kas Savās rokās turi it visu.

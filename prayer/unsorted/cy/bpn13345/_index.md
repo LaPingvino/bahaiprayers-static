@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13345 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Spiritual Growth"]
 +++
 O fy Arglwydd! Bydded Dy brydferthwch yn fwyd i mi, a'th bresenoldeb yn ddiod i mi, a'th bleser yn obaith i mi, a grym Dy sofraniaeth yn gynhaliaeth i mi, a'th gynefin yn gartref i mi, a'm trigfan i yn sedd yr wyt Ti wedi'i sancteiddio rhag y cyfyngiadau a osodwyd arnynt hwy sydd wedi'u cau allan oddi wrthyt Ti fel pe gan len.  
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7683 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Kalite Espirityèl"]
 +++
 Se Li menm Ki Plen Gras, Ki Gen Tout Bonte a!
 O Dye, Bondye mwen! Apèl Ou te atire mwen, e vwa ki soti nan Plim Glwa Ou te reveye mwen. Sous pawòl sakre Ou a te pote kè mwen ale, epi bwason diven ki nan panse selès Ou te voye ban mwen te fè m’ soule. Ou wè mwen, O Senyè, libere ak tout bagay esepte Ou menm, m’ap kenbe fèm nan kòd bonte Ou, e mwen swaf mèvèy gras Ou yo. Mwen mande Ou, poutèt gwo vag jantiyès Ou yo ki plen lanmou e k’ap kontinye pou tout tan, epi poutèt ekla limyè yo k’ap klere nou avèk swen Ou ak favè Ou yo, pou voye pou mwen sa ki pral atire mwen vin jwenn Ou e ki pral fè mwen rich avèk trezò pa Ou a. Lang mwen, ekri mwen yo, ak tout egzistans mwen bay temwayaj sou pouvwa Ou, pisans Ou, gras Ou ak bonte Ou - yo di se Ou menm Ki Bondye, e pa gen okenn lòt Bondye esepte Ou menm, Sila a Ki Plen Pouvwa a, Ki Pisan an.

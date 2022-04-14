@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12475 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Oshikwanyama : Omahoololo a hoololwa mOmafiku Omadimbuluko"]
 +++
 *Medina laau a dalwa mefiku eli , oo Kalunga e mu hoolola a ninge  Omufimanekifi wedina laye, Omunaghono-Adishe; Omunahole-Aishe
 

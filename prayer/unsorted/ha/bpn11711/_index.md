@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11711 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Zanā’ida"]
 +++
 *Wannan salla ta zanā’ida, ana yin ta zuwa ga mariganyi baha’i mai shēkaru gōma sha biyar (15) a ƙalla. Wannan salla ita ƙadai cē ake iya yi a jam’i. Baha’i guda yake karantā ta gaban sauran mutāne da suke sahu a tsaye. Bā dōle ba nē, su jūya sahunsu wajen ƙibla.
 Yā Allāna, gā bāwanka , ɗan bāwanka, da ya bāda gaskiya a garēka, kuma ya yarda da alāmōminka, yā jūya fuskarshi wajenka, bai sarƙafa da kōmi ba, in bā kai ba. 

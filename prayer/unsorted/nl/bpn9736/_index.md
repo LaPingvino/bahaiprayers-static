@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9736 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Geestelijke Raad"]
 +++
 *Kom tezamen in pure blijdschap en reciteer dit gebed bij het begin van de vergadering:
 

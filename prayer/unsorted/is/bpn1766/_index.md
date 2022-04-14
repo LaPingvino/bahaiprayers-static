@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1766 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Aukadagarnir"]
 +++
 *(Aukadagarnir eru fjórir síðustu dagar fyrir bahá’í föstuna – fimm í hlaupári. Þá á að nota til undir­búnings fyrir föstuna. Þeir eru dagar gestrisni, gjafa og kærleiksverka.)
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9399 in Malagasy'
 author = "Abdu'l-Bahá"
-tags = ['lang-mg', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-FAHAFATESANA"]
 +++
 Ry Andriamanitro ô! O Ianao izay mamela heloka, izay mizara ny soa, izay manaisotra ny alahelo!
 Marina tokoa, mitalaho Aminao aho mba hamela ny helok’ireo izay nandao ny akanjon’ny nofo ary   nisandratra eny amin’ny tontolom-panahy.

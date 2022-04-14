@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2696 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Megbocsátás"]
 +++
 *[Részlet Bahá’u’lláh Ragyogások - Ishráqát című táblájából]:
 

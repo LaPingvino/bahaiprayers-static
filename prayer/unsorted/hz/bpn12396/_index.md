@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12396 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Khoekhoegowab: //O-≠OAGAN"]
 +++
 Ai ti Elotse, /ûba-aots //oren ditse. /Khae aots !norasa mâti ditse. Tani-aots tsûgu ditse.
 	 Amase ta ge ra /khoma tsi /ûbare //oren //gansi soros go khaos ai //naxuna tsîge gagasi !hub-eib !oa khêina.

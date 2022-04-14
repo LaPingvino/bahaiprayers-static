@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9517 in ಕನ್ನಡ'
 author = "Bahá'u'lláh"
-tags = ['lang-kn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-kn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ರಿದ್ವಾನ್ ಶಾಸನ (ಆಯ್ದ ಭಾಗಗಳು)"]
 +++
 *(ಏಪ್ರಿಲ್ 21ರಿಂದ ಮೇ ತಿಂಗಳ 2ರವರೆಗೆ ಆಚರಿಸಲ್ಪಡುವ ರಿದ್ವಾನ್ ಹಬ್ಬವು ತಮ್ಮ ಅನುಯಾಯಿಗಳಿಗೆ 
 

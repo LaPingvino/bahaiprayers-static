@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10840 in Chichewa'
 author = "Bahá'u'lláh"
-tags = ['lang-ny', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ny', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PEMPHERO LA AHMAD"]
 +++
 Iye Ndiye Mfumu, Wodziwa zonse, Wanzeru! Taonani, Mbalame ya M’Paradiso iyimba pa nthambi za Mtengo Wamuyaya, ndi nyimbo zoyera ndi zokoma, kulalikira kwa woona mtima uthenga wabwino wa kuyandikira kwa Mulungu kuwaitanira okhulupilira mu Umodzi wa Uzimu kubwalo la Pamaso pa Wopatsayo, kuwauza anthu wotsatira za uthenga womwe wabvumbulutsidwa ndi Mulungu, Mfumu, Waulemerero, Wopanda mzake, kuwatsogolera okondedwa kumpando wopatulika ndi kwa wokongola konyezimirayu. 
 

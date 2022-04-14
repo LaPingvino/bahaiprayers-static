@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2860 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lutja e gjatë e shërimit"]
 +++
 Ai është Shëruesi, i Mjaftueshmi, Ndihmuesi,
 Ai që Fal Gjithçka, Mëshirëploti.

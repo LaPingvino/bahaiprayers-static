@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12251 in Tuvalu'
 author = "Báb"
-tags = ['lang-tvl', '', "Báb", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Báb", "category-unsorted", "cat-TAVAEEGA MO TE FAKAFETAI"]
 +++
 Afioga mo mana katoa, O toku Atua, mo maalo katoa mo te mainaaga pela foki mo te silisili i te gali mo matagofie e io Koe.  E tuku ne Koe a te nofoaiga-a-tupu ki luga i so se tino tela e tonu mo Koe kae e taofi foki mai i sose tino e filifili Koe kiei.  E seai aka se Atua na ko Koe, ko te Pulekatoatoa, ko te Tafasili i te Maluga.  Ko Koe Tela ko Ia ne faiite mai i te seai a te univesi mo mea katoa ko la e nofo i iei.  E seai se mea e ttau kia Koe vagana ko Koe ailoa, ka ko mea katoa aka na ko Koe ne mea seai ne aoga i Ou mua mana kae kafai e fakatusa ki te matagofie o Koe loa ia Koe e seai lele loa ne uiga o latou.  
   

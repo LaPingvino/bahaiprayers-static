@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10983 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TAPELETI O TE ASIASIIGA O Bahá’u’lláh"]
 +++
 *(Te Tapeleti tenei e faitau i Tanu o Bahá’u’lláh mo te Báb.  E faitaugina saale foki i fakamanatuga o te katoaaga o tausaga takitasi o La galo.)
 

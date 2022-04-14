@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3168 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Oggend"]
 +++
 Ek gee lof aan U, o my God, dat U my uit my slaap wakker gemaak het, en my ná my verdwyning voortgebring het, en my uit my slaap opgehef het. Ek het vanoggend ontwaak met my gesig na die luister van die Dagster van U Openbaring gerig. Waardeur die hemele van U mag en U majesteit verlig is, erken U tekens, glo in U Boek, en hou vas aan U koord.
 

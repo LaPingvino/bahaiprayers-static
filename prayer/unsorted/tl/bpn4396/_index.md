@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4396 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Espiritwal Na Mga Katangian"]
 +++
 Siya ang Magandang-loob, ang Mapagpala sa Lahat!
 

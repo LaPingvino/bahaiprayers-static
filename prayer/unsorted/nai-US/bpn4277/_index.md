@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4277 in American Indian'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-US', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nai-US', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Shoshone"]
 +++
 NA SOON DI SEEKH, DEAS DA GANIH, DEAS SOOKH DEAS DA SOH GANIH, DEAS DA BEYUH, DEAS DA DOYA BEH, DEAS BUNGH DA NAMA GWEEJOOH NI KHANDH DEAS DA DIMBEE GANIH, DEAS DA DOIYA HU-NO HA-BEEDTH DEAS DA SO-GOP-H DEAS DA BAH, DEAS DA SO-GOP-H-BAH DE-BEE-YANDH, DEAS DA ZA BOOWHEE NEH-SOO GA KHANDH DOIYA BA B-UT OGOI PU-INH. BUNGH DAUMEH UPEH NAN-IH DUN DA-GWAP. DEAS OOH NE-SHOO-WOO GINDH SUCA NANA-SOO-WOO GINDH.
  

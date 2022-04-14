@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12662 in Iban'
 author = "Báb"
-tags = ['lang-iba', '', "Báb", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Báb", "category-unsorted", "cat-NGINGKAS DIRI"]
 +++
 Dalam Nama Tuhan nuan, ti Penempa, ti Kuasa-raja, ti
 Semua-Penyukup, ti Pemadu Tinggi, tulung Iya Siku dipinta ulih semua mensia.

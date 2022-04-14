@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7394 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Rozwój duchowy"]
 +++
 O Boże, mój Boże! Oto Twój promienny sługa, Twój duchowy niewolnik, który pospieszył do Ciebie i zbliżył się do Twojej obecności. Zwrócił swą twarz ku Twojej, uznając Twoją jedność, wyznając Twoją pojedynczość, wzywał w Twoim imieniu pośród narodów i poprowadził lud do strumieni wód Twojego miłosierdzia. O Ty, Najhojniejszy Panie! Tym, którzy poprosili, dał on pić z kielicha przewodnictwa, który przepełniony jest winem Twojej niezmiernej łaski.
     

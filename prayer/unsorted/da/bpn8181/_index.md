@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8181 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Fasten"]
 +++
 *I Kitáb-i-Aqdas fastslås de:. "Vi har befalet jer at bede og faste fra begyndelsen af modenheden, dette er forordnet af Gud, din Herre og dine forfædres Herre. Han har herfra fritaget dem, der er svækket af sygdom eller alder, som en gavmildhed fra Hans nærvær, og Han er tilgivende og gavmild.... Afhold jer fra mad og drikke fra solopgang til solnedgang, og vogt jer for, at ikke begær berøver jer denne nåde, som er bestemt i Bogen.”
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12908 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-26 Prières de ‘Abdu’l-Bahá Avril 2021"]
 +++
 Ô toi, Seigneur de bonté! Ces âmes qui t’aiment sont rassemblées et enivrées par ton amour. Ta beauté rayonnante les transporte et tes boucles embaumées de musc les fascinent. Elles t’abandonnent leur cœur et, humbles et sans défense, elles errent en ton chemin. Elles délaissent amis comme étrangers et s’attachent à ton unicité, s’inclinant en adoration devant toi. 
 Elles appartenaient à ce monde ici-bas; tu les as accueillies dans ton royaume. Elles étaient comme des plantes flétries dans le désert de la privation et du malheur; tu en as fait les jeunes pousses du jardin de la connaissance et de la compréhension. Leurs voix s’étaient tues; tu les as fait parler. Elles étaient découragées; tu les as inondées de lumière. Elles étaient comme un sol aride et desséché; tu les as transformées en une roseraie de significations profondes. Elles étaient tels des enfants dans le monde de l’humanité; tu leur as permis d’atteindre la maturité céleste. 

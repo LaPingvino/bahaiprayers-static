@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8746 in हिंदी'
 author = "Bahá'u'lláh"
-tags = ['lang-hi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-अग्नि पाती"]
 +++
 परम प्राचीन परम महान ईश्वर के नाम पर !
 वस्तुतः, निष्ठावानों के हृदय वियोग की अग्नि में दग्ध हैं : कहाँ है तेरे मुखमण्डल की आभा, हे सर्वलोकों के प्रियतम ?

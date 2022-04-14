@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11953 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Hedaýat"]
 +++
 Ýa Kerim, Ýa Rahym! 
     Seniň birligiňe, Seniň Ýeke-Täkdigiňe güwä geçýärin we Mülküň hem Melekutyň dowamynda Baky we Ebedi bolan zatlary senden dileýärin. Sensiň Melekutyň Eýesi. Sensiň hem gaýyp hem görünýän zatlaryň Soltany.

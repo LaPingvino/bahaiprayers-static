@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5973 in Català'
 author = "Báb"
-tags = ['lang-ca', '', "Báb", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Báb", "category-unsorted", "cat-Triomf De La Causa"]
 +++
 Glòria sia a Tu, oh Senyor, Tu has donat vida a totes les coses creades, mitjançant el poder de la Teva voluntat.
 Oh Senyor! Ajuda a aquells què han renunciat a tot menys a Tu, i confereixi’ls-hi una gran victòria. Envia’ls-hi, oh Senyor, al concurs dels àngels del cel i de la terra i de tot el què existeix entre ambdós perquè assisteixin els Teus serfs, els socorrin i enforteixin, els capacitin per atènyer l’èxit, els sostinguin, els investeixin de glòria, el confereixin honor i exaltació els enriqueixin i els facin triomfadors amb victòries meravelloses.

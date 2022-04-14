@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7485 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Keskipitkä velvollisuusrukous"]
 +++
 *Lausuttavaksi päivittäin aamulla, keskipäivällä ja illalla
 

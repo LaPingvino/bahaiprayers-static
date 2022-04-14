@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12349 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAFINE"]
 +++
 E tapuaki gina a Koe, O te Aliki toku Atua!  A Koe ko Ia Tela a te afi o Tena alofa ko oti ne ula ki loto o latou ko oti ne lavea ne latou a Tou fealofanifakatasitasi, mo mea faka- ofoofogina ko la i Ona mata ko oti ne faka-maina i ei  mata o latou ko oti ne olo atu ke pili ki Tou fale.  E pefea a te uke, O toku Atua, ko te vaitafae foliki o Tou poto!  E pefea a te suamalie, O toku Fagasele, a te mae, tela, in toku alofa mo Koe, kae ona ko Tou fiafia, ne pokotia kii mai i faka-maseiiga a tino masei!  E pefea ate fakafiafia o pakiaaga ko la, i Tou aula kae ona ke faka-salalau a Tau Faka-tokaaga, ne pokotia au i ei mai i pelu taua a latou amio masei!  
   

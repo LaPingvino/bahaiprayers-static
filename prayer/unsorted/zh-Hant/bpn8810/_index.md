@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8810 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-超 脫"]
 +++
 上帝啊，我的上帝！祢是我的希冀和摯愛，我的至高追求與期待！我極度謙卑、完全忠誠，求祢讓我在祢的國度裡，成為祢仁愛之高塔，祢造物中知識之明燈，祢王國里聖恩之旗幟。
 請讓我成為如此之僕：他超脫一切，唯祢是尊。他淨化自身，棄絕短暫紅塵，不受空想聒噪的浸淫。

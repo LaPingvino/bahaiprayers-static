@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5290 in Bosanski'
 author = "Abdu'l-Bahá"
-tags = ['lang-bs', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ponoć"]
 +++
 *O tragacu za Istinom! Ako želiš da ti Bog otvori oči, trebaš se Bogu klanjati, moliti se, obatitii Mu se u ponoć, govoreći:
 

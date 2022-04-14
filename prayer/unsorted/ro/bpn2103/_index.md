@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2103 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Rugăciunea Obligatorie Lungă"]
 +++
 De spus o dată pe zi
 

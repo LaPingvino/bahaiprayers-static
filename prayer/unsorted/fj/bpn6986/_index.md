@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6986 in Fiji'
 author = "Bahá'u'lláh"
-tags = ['lang-fj', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fj', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-NA IVOLA NEI AHMAD"]
 +++
 *“Na vei masu vakaroti e na veisiga, kei na so tale sa macala vinaka tu na kenu i naki, me vaka na Masu ni Veivakabulai, Na iVola nei Ahmad, e sa vakalougatataka oti tu o Bahá'u'lláh e na dua na i vakatagedegede talei, e kaukauwa ka bibi tale ga, ka dodonu gona kina me ciqomi vakavinaka ka me ra vakayagataka na lewe ni vakabauta e na yalo ni vakanuinui dina kei na tudei ka sega ni dau tarogi lesu, ka me rawa kina vei ira me ra tiko veivolekati sara kei na Kalou, ka me rawa tale ga ni ra kila vakavinaka na Nona lawa kei na Nona i naki.”
 

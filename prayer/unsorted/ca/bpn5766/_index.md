@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5766 in Català'
 author = "Bahá'u'lláh"
-tags = ['lang-ca', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Naw-Rúz"]
 +++
 ##NAW-RÚZ
 

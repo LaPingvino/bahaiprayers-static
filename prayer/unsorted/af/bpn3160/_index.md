@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3160 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Die Mensdom"]
 +++
 My God, Wat ek aanbid en vereer! Ek getuig van U eenheid en U enkelvoudigheid, en erken U gawes, beide in die verlede en in die hede. U is die Almilddadige, die oorvloeiende buie van Wie se genade op hoog en laag gelyk afgereent het, en die prag van Wie se guns oor albei die gehoorsame en die weerspannige uitgestraal het.
 

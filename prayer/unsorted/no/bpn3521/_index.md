@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3521 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ledelse"]
 +++
 Ære være deg, o Gud, for at du har gitt til kjenne din kjærlighet til menneskeheten! O du som er vårt liv og lys, led dine tjenere på din vei og gjør oss rike på det som du besitter og løs oss fra alt uten deg.
  

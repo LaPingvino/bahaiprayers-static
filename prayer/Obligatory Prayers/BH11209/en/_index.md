@@ -1,7 +1,7 @@
 +++
 title = 'Short Obligatory Prayer in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "Obligatory Prayers"]
+tags = ['lang-en', 'prayer-BH11209', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-Short Obligatory Prayer"]
 +++
 #Short obligatory prayer
 ##To be recited once in twenty-four hours, at noon

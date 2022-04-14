@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12232 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TAFATAEO"]
 +++
 Au ko oti ne ala i Tou malu, O toku Atua, kae ko fai a ia tela e salasala ke nofo i loto i te Lafiiga o Tau puipui mo te Olo-Maalosi o 
 Tau tausi.  Fakamaina aka a toku kano loto, o toku Aliki, mo mea gali o te Aso-Malulu o Tau Fakaasiiga, pela mo te fakaimaina ne Koe a toku fuaitino mai i tua ki te mainaga o tafataeao o Tou alofa-kaimalie.  Bahá’u’lláh 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7927 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tavola del Fuoco"]
 +++
 ##TAVOLA DEL FUOCO
 Nel nome di Dio, il Più Antico, il Più Grande.

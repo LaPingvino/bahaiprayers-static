@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2653 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gyermekek és ifjak"]
 +++
 Dicsőség Néked, ó, Uram, Istenem! Add kegyesen, hogy e kicsiny gyermek gyengéd kegyelmed és szerető gondoskodásod emlőjén növekedhessen és tápláléka mennyei fáid gyümölcse legyen. Ne engedd, hogy Rajtad kívül más gondoskodjék róla, mivel legfőbb akaratod és hatalmad által Te Magad teremtetted őt és hívtad e létbe. Nincsen más Isten, csak Te, a Mindenható, a Mindenek Tudója.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12930 in Tok Pisin'
 author = "Bahá'u'lláh"
-tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-SHORT OBLIGATORY PRAYER"]
 +++
 ##SOTPELA PREA BILONG KOLIM LONG OLGETA WAN WAN DE 
  

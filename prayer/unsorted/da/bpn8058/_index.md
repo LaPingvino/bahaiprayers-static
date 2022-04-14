@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8058 in Dansk'
 author = "Báb"
-tags = ['lang-da', '', "Báb", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Báb", "category-unsorted", "cat-Frigjorthed"]
 +++
 I Din Herres navn, Skaberen, Kongen, Den Fyldestgørende, Den Mest Ophøjede, den om hvis hjælp alle mennesker bønfalder.
 

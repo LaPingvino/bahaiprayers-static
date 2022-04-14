@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4893 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Atəş Lövhü, Əhməd Lövhü, Müqəddəs Dənizçi lövhü"]
 +++
 Ən Qədim, Ən Böyük Allahın Adı ilə!
 

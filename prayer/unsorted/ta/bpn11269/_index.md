@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11269 in தமிழ்'
 author = "Bahá'u'lláh"
-tags = ['lang-ta', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-இறந்தவர்களுக்கான பொது பிரார்த்தனைகள்"]
 +++
 அவரே கடவுள், அன்பிரக்கத்திற்கும் வள்ளன்மைக்கும் பிரபுவான அவர் மேன்மைப்படுத்தப்படுவாராக!
 

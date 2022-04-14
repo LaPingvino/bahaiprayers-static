@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10890 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MO LATOU KO GALO – TALO MO TINO MATE"]
 +++
 O toku Atua! O Koe ko te fakamagalo o agasala, ko te tuku o mea-alofa, ko te ave keatea o fakalavelave!
      E tonu, Au e akai totuli kia Koe ke fakamagalo mai agasala a latou ko la ko oti ne mavae atu mo gatu faletino kae ko oti ne avaka ki luga i te lalolagi faka-te-agaaga.

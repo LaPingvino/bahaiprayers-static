@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7800 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Bambini"]
 +++
 O Dio, guidami, proteggimi, fà di me una lampada luminosa e una stella fulgente. Tu sei il Forte e il Potente.
 

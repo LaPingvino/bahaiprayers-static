@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12398 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Khoekhoegowab: Gagasi-/Awemas"]
 +++
 *(/Awemas di oms !nadu ga ≠ga //aib hoab ai, ne /goresa /gorere ≠gaob Eloba /ami xa ra !guwub tsi nams hoaraga xuna xu !nora-!norahe has xawe Eloba ≠ai hos ose Eb Hoa-Gaixaba /khomxase huidi edu I //kha dansa ho //kha.)
 

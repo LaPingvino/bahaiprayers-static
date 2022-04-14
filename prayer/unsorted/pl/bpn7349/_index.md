@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7349 in Polski'
 author = "Báb"
-tags = ['lang-pl', '', "Báb", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Báb", "category-unsorted", "cat-Pomoc i opieka"]
 +++
 Niech będzie wysławione Imię Twoje, o Panie, Boże nasz! Tyś zaprawdę jest Znającym rzeczy niewidzialne. Przeznacz nam takie dobra, jakie wyznaczyć może Twa wszechogarniająca wiedza. Tyś jest wszechwładnym Panem, Wszechmocnym i Najbardziej Umiłowanym.
    

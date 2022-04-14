@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4854 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Toplantılarda oxunan dualar"]
 +++
 Sən Ey Mərhəmətli Allah! Sən Ey Qüdrətli və Qüvvətli! Sən Ey Ən Mehriban Ata! Bu bəndələr bir yerə toplaşıblar, Sənə dönüblər, Sənin astanana yalvarırlar, Sənin böyük vədindən sonsuz nemətlərini arzulayırlar. Sənin razılığından başqa məqsədləri, insanlıq aləminə xidmətdən savayı niyyətləri yoxdur.
 

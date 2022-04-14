@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7120 in ελληνικά'
 author = "Báb"
-tags = ['lang-el', '', "Báb", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Báb", "category-unsorted", "cat-ΘΡΙΑΜΒΟΣ ΤΗΣ ΥΠΟΘΕΣΗΣ ΤΟΥ ΘΕΟΥ"]
 +++
 ∆όξα σε Σένα, ω Κύριε, Εσύ ο Οποίος έφερες στην ύπαρξη όλα τα δηµιουργήµατα, µέσω της δύναµης της διαταγής Σου.
 

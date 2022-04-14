@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn645 in Deutsch'
 author = "Báb"
-tags = ['lang-de', '', "Báb", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Báb", "category-unsorted", "cat-Führung und Erkenntnis"]
 +++
 Gewähre mir, o mein Gott, das volle Maß Deiner Liebe und Deines Wohlgefallens und entzücke unsere Herzen durch die Anziehungskraft Deines strahlenden Lichtes, o Du, der Du der Höchste Beweis und der Allherrliche bist. Lass zum Zeichen Deiner Gunst Tag und Nacht Deine belebenden Winde über mich wehen, o Herr der Großmut.
 Keine Tat habe ich vollbracht, o mein Gott, dass ich verdiente, Dein Angesicht zu erblicken, und ich weiß gewiss, auch wenn ich so lange lebte, wie die Welt besteht, könnte ich doch nichts vollbringen, was diese Gunst verdient, zumal die Stufe eines Dieners niemals den Zugang zu Deinen heiligen Bereichen ermöglicht, es sei denn, Deine Gunst erreicht mich, Dein zärtliches Erbarmen durchdringt mich und Deine Gnade umfängt mich.

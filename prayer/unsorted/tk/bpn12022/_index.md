@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12022 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Hezreti Bahaulla We  Hezreti Baba Mahsus Bolan “Zyýaratnama“"]
 +++
 Uly Durkuňdan äşgär bolan Alkyş we Äbha, Jemalyňdan saçylýan ýalkym Seniňdir Eý Beýiklik nyşany, Bakylygyň Soltany we ýerde-gökde bolan bar zatlaryň Eýesi!
     Allanyň Patyşalygy we Hökümdarlygy, Ululygy we Durkunyň ägirt beýik Orny, Seniň bilen görünendigine, takdyr asmanynda Gadymy Güneşleriň, Seniň bilen parlandygyna hem-de Seniň bilen ýaradylyş gözýetiminde Gaýyp Jemal äşgär bolandygyna şaýatlyk edýärin. Seniň Galamyň ýekeje hereketi bilen barlyk äleminiň dörändigine we Taňrynyň pynhan syry aýan bolup, dirilik dünýäsi başlap, Pygamberler iberilendigine güwä geçýärin.

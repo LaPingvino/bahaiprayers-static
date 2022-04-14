@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10894 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-mo Fafine"]
 +++
 O te Aliki, O ko Tou alofa-kaimalie ko siomia i ei a tino katoa, Tena fakamagalo e tafasili i te maluga, Tena alofa-lauefa e tafasili i te maluga; Tena fakaseai agasala mo te alofa mo te kaimalie e siomia katoatoa, mo molii o Tou fakamagalo ko salalau i te lalolagi!  O te Aliki o te Matagfofie! Au e akai kia Koe, fakamaoni kae maligi oku loimata, ke kilo alofa aka ki luga i Tau tavini fafine tena ko oti ne fanatu ki luga ia Koe a se kiloga o te mata o Tou alofa-kaimalie.  Fakapei aka a ia ki te gatu o Tou alofa-kaimalie, e malapulapu a ia i mea faka-galigali o te Palataiso faka-te-lagi, kae fakamalu a ia mai lalo ote lakau ola o Tou tafatasi, fakamaina a ona mata ki molii o Tou alofa-kaimalie mo te atafai.
 

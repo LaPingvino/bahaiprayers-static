@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9950 in العربية'
 author = "Bahá'u'lláh"
-tags = ['lang-ar', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ar', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-أدعية الصّيام"]
 +++
 نَزَّلَهُ عَزَّ كِبْرِيَائُهُ فِي آخِرِ شَهْرِ ٱلصِّيَامِ
 

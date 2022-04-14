@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4703 in Azərbaycan'
 author = "Báb"
-tags = ['lang-az', '', "Báb", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Báb", "category-unsorted", "cat-Səmavi bəxşiş duaları"]
 +++
 Alqış Sənə, Ya Rəbb, Sən Ey bütün yaranmış şeyləri Öz əmrinin qüdrəti ilə xəlq edən Allah!
 

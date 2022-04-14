@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8081 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Menneskeheden"]
 +++
 O Du gode Herre! Du har skabt hele menneskeheden fra den samme stamme. Du har bestemt, at alle skal tilhøre den samme slægt. I Din hellige nærværelse er de alle Dine tjenere, og hele menneskeslægten er skærmet under Dit tabernakel; alle er samlet ved Din gavmildheds bord; alle er oplyst af Dit forsyns lys.
 

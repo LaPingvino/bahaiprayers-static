@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4776 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Qadınlar üçün dualar"]
 +++
 Alqış Sənə, Ya Rəbb, mənim Allahım! Sən O Kəssən ki, məhəbbətinin atəşi Sənin birliyini tanıyanların ürəyinə od saldı, üzünün nurları Sənin dərgahina yaxın olanların üzünü işıqlandirdi. Necə boldur, Ey mənim Allahım, Sənin irfan suların! Necə şirindir, Ey mənim Məhbubum, mənim Sənə məhəbbətim naminə və Sənin razılığın xatırınə zalımların atdığı öxlardan aldığım zədələr! Necə xoşdur Sənin yolunda və Sənin Dinini bəyan etmək üçün imansızların qılınclarından aldığım yaralar!
 

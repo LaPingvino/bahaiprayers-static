@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6128 in Chamorro'
 author = "Abdu'l-Bahá"
-tags = ['lang-ch', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ch', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-OTRO SIHA NA TINAITAI"]
 +++
 O Yu’os! Na’fresko yan na’minagof i espiritu- hu. Na’gasgas i korason-hu. Na’ma’lak i nina’siña-hu. Hu po’lo todu i inangokku-ku gi kannai-Mu. Hagu i Giha-hu yan i Fanliheng-hu. Esta ti bai hu triste pat piniti; bai hu magogof na taotao. O Yu’os! Esta ti bai hu michathinasso pat bai sedi i problema na u momye yo! Ti bai hu ha- hasso ha’ i ti minaolek siha gi lina’la’.
 

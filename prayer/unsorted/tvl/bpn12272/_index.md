@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12272 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TAVINI MO TE MAE"]
 +++
 Au e avatu tavaeega kia Koe, O toku Atua, ko te manogi gali o Tou alofaatafai tela ko oti ne aofia ne ia au, a ko matagi iliili malie o Tou alofakaimalie ko oti ne lou ne ia au ki te auala o Au mea-alofa lauefa.  Fai aka au ke inu, O te Aliki, mai i maikao o Tou alofa-mataefa ate vai ola tela ne mafai i ei a so se tino o fakaatea a mea katoa mai ia ia, kae lele atu kite vanimonimoo o te motu mai i Au mea ola katoa, kae tuku tonu a tena kilo ki luga i Tau takitakiiga alofa mo Au mea-alofa e see lausia.  
 Fakatoka aka au, i so se tulaga, O toku Aliki, o tavini a Koe kae ko au ke fakatonu toku ala ki te lafiiga gali o Tau Fakaasiiga mo Tou Gali.  Kafai ko Tou finagalo, fai au ke tupu aka pe la me se lakau kaina foliki atafai i te lauelele o Tou alofa-kaimalie, ko matagi malie o Tou loto ke fakagasue ne latou au ki luga kae maofe atu o tautali ki Tou fiafiaaga, i se auala atamai tela ko aku gasueega mo toku nofo malie e tuku katoatoa kia Koe.  

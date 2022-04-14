@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB11094 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', '', "Abdu'l-Bahá", "Departed"]
+tags = ['lang-nl', 'prayer-AB11094', "author-Abdu'l-Bahá", "category-Departed", "cat-Algemene gebeden voor overledenen"]
 +++
 O mijn God! O Gij die zonden vergeeft, gaven schenkt en kwellingen verdrijft!
 Waarlijk, ik smeek U de zonden te vergeven van hen die het stoffelijk gewaad hebben afgelegd en naar de geestelijke wereld zijn opgestegen.

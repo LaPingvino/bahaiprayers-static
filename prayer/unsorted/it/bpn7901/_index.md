@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7901 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Qualità Spirituali"]
 +++
 Egli è Dio!
 O Dio, mio Dio! Questi servi sono attratti nei Tuoi giorni alle fragranze della Tua santità, sono accesi dalla fiamma che brucia sul Tuo sacro albero, rispondono alla Tua voce, pronunciano la Tua lode, sono risvegliati dalla Tua brezza, sono mossi dai Tuoi dolci aromi, contemplano i Tuoi segni, comprendono i Tuoi versetti, ascoltano le Tue parole, credono nella Tua Rivelazione e sono certi della Tua amorosa gentilezza. I loro occhi, o Signore, sono fissi sul Tuo regno di fulgente gloria e i loro visi sono volti verso il Tuo eccelso dominio, i loro cuori palpitano per l’amore della Tua radiosa e gloriosa bellezza, le loro anime si consumano alla fiamma del Tuo amore, o Signore di questo mondo e del mondo avvenire, le loro vite sono infuocate d’ardore nel loro desiderio di giungere a Te e i loro occhi versano lacrime per amor Tuo. 

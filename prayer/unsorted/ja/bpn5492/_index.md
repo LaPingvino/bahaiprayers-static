@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5492 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-子ども"]
 +++
 おおわが神よ、おおわが神よ。ご覧のようにこの子どもたちは、生命の木の枝であり、
 救済の牧場の鳥であり、あなたの御恵みめぐみの海の真珠であり、お導きの庭園のバラであります。　　

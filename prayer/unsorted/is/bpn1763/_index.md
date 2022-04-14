@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1763 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Eldtaflan"]
 +++
 Í nafni Guðs, hins aldna, hins æðsta.
 Sannlega brenna hjörtu hinna hreinlunduðu í eldi aðskilnaðar: Hvar er glampinn af ljósi ásýndar Þinnar, ó ástvinur veraldanna?

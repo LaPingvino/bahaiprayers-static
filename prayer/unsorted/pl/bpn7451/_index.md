@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7451 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ogólne modlitwy za zmarłych"]
 +++
 O Ty, przebaczający Panie!
     

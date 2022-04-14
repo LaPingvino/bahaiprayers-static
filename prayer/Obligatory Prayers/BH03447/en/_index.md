@@ -1,7 +1,7 @@
 +++
 title = 'Medium Obligatory Prayer in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "Obligatory Prayers"]
+tags = ['lang-en', 'prayer-BH03447', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-Medium Obligatory Prayer"]
 +++
 #Medium Obligatory Prayer
 ##To be recited daily, in the morning, at noon, and in the evening

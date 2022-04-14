@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12194 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PUASA"]
 +++
 *Sewaktu berbuka puasa
 

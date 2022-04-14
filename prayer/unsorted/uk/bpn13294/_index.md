@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13294 in Україна'
 author = "Bahá'u'lláh"
-tags = ['lang-uk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-uk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Скрижаль Ахмаду"]
 +++
 ##Скрижаль Ахмаду
 

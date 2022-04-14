@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7832 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Insegnamento"]
 +++
 Gloria sia a Te, o Tu Dio del mondo e Desìo, delle nazioni, o Tu Che Ti sei manifestato nel Più Grande Nome, per il quale le perle della saggezza e dei detti sono emerse dalle conchiglie del vasto oceano del Tuo sapere e i cieli della rivelazione divina sono stati adornati con la luce dell’apparizione del sole del Tuo sembiante!
 Io T’imploro, per quella Parola per la quale la Tua prova è stata perfezionata fra le Tue creature e la Tua testimonianza è stata adempiuta fra i Tuoi servi, di rafforzare il Tuo popolo in ciò per cui il volto della Tua Causa risplenderà nel Tuo dominio, gli stendardi del Tuo potere saranno piantati fra i Tuoi servi e i vessilli della Tua guida innalzati in tutti i Tuoi dominî.

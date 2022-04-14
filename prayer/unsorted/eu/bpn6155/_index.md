@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6155 in Euskara'
 author = "Bahá'u'lláh"
-tags = ['lang-eu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-eu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Sendaketa"]
 +++
 Jainkoa! Ene Jainkoa!
 Zeure sendaketazko itsasoagatik eta Zeure adeizko Eguzkiaren dizdiragaitik, Zeure otseinak menderatzeko bidea izan zen Zeure izenagatik eta Zeure Hitzik sarkorrenagaitik, Zeure lumarik handikienaren indarragaitik eta zeru-lurretan diren guztiak irazan aurrez jada bazen Zeure errukiagaitik, atsekabe eta ezbehar guztietatik, Zeure emankortasunezko urez garbitu nazazula eskatzen dizut.

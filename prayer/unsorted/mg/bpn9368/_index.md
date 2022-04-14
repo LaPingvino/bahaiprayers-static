@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9368 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ANDRO MANELANELANA"]
 +++
 *(Ny andro manelanelana, ….. , dia andro fiomanana ho amin’ny fifadiankanina. Natokana izy ireo mba anaovana fampiantranoana, fiantràna sy fanomezana na fahatsiarovana).
  

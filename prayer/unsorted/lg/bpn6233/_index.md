@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6233 in Luganda'
 author = "Báb"
-tags = ['lang-lg', '', "Báb", "unsorted"]
+tags = ['lang-lg', 'prayer-', "author-Báb", "category-unsorted", "cat-OKWEGYA KU BY'ENSI"]
 +++
 Ayi Mukama! Gyoli Ggwe, gyenoonyeza obubudamo, era omutima gwange gutunuulira obubonero Bwo.  
 Ayi Mukama! Wadde nga ndi mu lugendo, oba waka, newankubadde ku mulimu gwange, oba nga nkakalabya egyange, nteeka obwesige bwange bwonna, mu Ggwe.  

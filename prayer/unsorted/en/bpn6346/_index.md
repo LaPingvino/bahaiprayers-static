@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6346 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Aid and Assistance"]
 +++
 O Thou divine Providence, pitiful are we, grant us Thy succour; homeless wanderers, give us Thy shelter; scattered, do Thou unite us; astray, gather us to Thy fold; bereft, do Thou bestow upon us a share and portion; athirst, lead us to the well-spring of Life; frail, strengthen us that we may arise to help Thy Cause and offer ourselves as a living sacrifice in the pathway of guidance.
 

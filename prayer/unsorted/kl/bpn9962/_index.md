@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9962 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-kl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Isumakkeerfiginninneq"]
 +++
 Unnersiutigisaagit Illit, Naalagaq Guutiga-aa! Sapiiserlunga Ilinnik oqaluuseqarnialernikka tamaasa ajortersuannit Illillu piumasannik qaangiisimaninnit imaannaanngitsunit tunuarsimaartitaalersarpunga, Illillu saammaanninnit peersitaasimalluinnartutut imminut isigilersarlunga aammalu Illit nersorneqaatissannik unnersiutiginninnissamut sapilerluinnarsimasarlunga. Saammaanninnulli tatigisaqarnerma itisuup Ilinnit neriuutiga utertittarpaa, uannullu tukkortumik pissuseqarnissannik qularunnaarnerma sapiissuseqalersittarpaanga Illit ataqqiniassallutit qinnuigalutillu Illit pigisannik. 
 

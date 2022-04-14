@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4794 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ruhani inkişaf üçün dualar"]
 +++
 Ey mənim Allahım, Ey mənim Allahım! Təriflər olsun Sənə, çünki Sənin təkliyinə inanmağa Sən mənə kömək etdin, məni Öz vahidlik sözünə cəzb etdin, Öz məhəbbətinin atəşilə məni alovlandırdın, Sənin zikrinlə, Sənin dostlarına və kənizlərinə xidmət etməklə məni məşğul etdin.
 

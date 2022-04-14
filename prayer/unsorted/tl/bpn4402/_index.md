@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4402 in Filipino'
 author = "Báb"
-tags = ['lang-tl', '', "Báb", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Báb", "category-unsorted", "cat-Espiritwal Na Mga Katangian"]
 +++
 Ipagkaloob sa akin, O aking Diyos, ang kabuuang sukat ng Iyong pag-ibig at Iyong mabuting kasiyahan, at sa pamamagitan ng mga pag-aakit ng Iyong nagniningning na liwanag, pagalakin nang masidhi ang aming mga puso, O Ikaw na Siyang Sukdulan na Katibayan at ang Luwalhati sa Lahat. Ipagkaloob sa akin, bilang tanda ng Iyong kagandahang loob, ang Iyong nagbibigay-buhay na mga simoy sa buong maghapon at sa panahon ng gabi, O Panginoon ng biyaya.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3223 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Die Tafels van Besoeking"]
 +++
 *Hierdie Tafel by die Heiligdomme van Bahá'u'lláh en die Báb gelees. Dit word ook dikwels gebruik om Hulle jaardae te gedenk.
 

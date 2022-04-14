@@ -1,7 +1,7 @@
 +++
 title = 'Prayer ABU0137ALL in Frysk'
 author = "Abdu'l-Bahá"
-tags = ['lang-fy', '', "Abdu'l-Bahá", "Humanity"]
+tags = ['lang-fy', 'prayer-ABU0137ALL', "author-Abdu'l-Bahá", "category-Humanity", "cat-Ienheid"]
 +++
 O Jo, leafderyk Hear! Jo hawwe it hiele minskdom út deselde stam skepen. Jo hawwe foarbeskikt dat wy allegearre ta deselde famylje hearre. Foar Jo hillich Antlit binne allegearre Jo tsjinners en it hiele minskdom wurdt fan Jo Tabernakel beskerme. Wy allegearre binne gearkommen om Jo Tafel fan Oerfloed en wurde ferljochte troch it ljocht fan Jo foarsjennichheid.
 O God! Jo binne freonlik foar ús allegearre, Jo soargje foar ús allegearre, Jo beskermje ús allegearre, Jo skinke libben oan ús allegearre. Jo hawwe ús allegearre mei talinten en mooglikheden bejeftige; wy allegearre binne dompele yn de oseaan fan Jo genede.

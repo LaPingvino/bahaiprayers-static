@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5140 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Doa Untuk Pelopor"]
 +++
 *"Setiap jiwa yang mengadakan perjalanan melalui kota-kota, kampung- kampung dan desa-desa... dan sibuk dengan menyebarkan keharuman Tuhan, seharusnya membaca doa ini setiap pagi."
 

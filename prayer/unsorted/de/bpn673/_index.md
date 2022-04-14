@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn673 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tafel vom Feuer - Qas-Ihtaraqa'l-Mukhlisún"]
 +++
 Im Namen Gottes, des Altehrwürdigen, des Größten.
 Wahrlich, die Herzen der Aufrichtigen zerglühen im Feuer der Trennung: Wo ist das gleißende Licht der Begegnung mit Dir, Du Geliebter der Welten!

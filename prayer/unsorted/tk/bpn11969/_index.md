@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11969 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Merhumlar Üçin Dogalar"]
 +++
 Hu’äl-Äbha.
     Eý Perwerdigär! Bu päk janlar, bu toprak dünýeden bizar bolup, Seniň älemiňe perwaz etdiler. Bu garaňky ülkeden, bir ýagty yklyma göçdiler. Bu pes ketekde köňülleri gysylyp, asmanly höwürtgäniň maksadyny arzuw etdiler. Ylgadylar, uçdylar, ahyry ýetdiler.

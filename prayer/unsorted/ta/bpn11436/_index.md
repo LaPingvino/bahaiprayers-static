@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11436 in தமிழ்'
 author = "Abdu'l-Bahá"
-tags = ['lang-ta', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ஆன்மீக சபை"]
 +++
 *ஆன்மீகச் சபைக் கூட்டத்தின் முடிவில் கூறவேண்டிய பிரார்த்தனை
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11878 in Bidayuh'
 author = "Bahá'u'lláh"
-tags = ['lang-sne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Doa Pimujul Agama"]
 +++
 Junyung adon Ingan, O Raja Topa ku! Mopung mbok ngilokuab siginap topat, bia kuasa pangirugi mbok nyokuab sua negara. Pakai sok bala, alo watki pun, oku kilint timogah ayuh bijak ponai Ingan, bia tiluti daras jawak lingieng pangilaan Ingan.
 Bala dek mbok paput odak tutu sok Ingan mbok fikir nang odop eh ogi kuasa yak mulae lingab Ingan, bia yak mulae opui Ingan, bia yak odak tigotonk sobak budi Ingan. Doh geh dik eh yak wat inoh, jek tudu itih kekuatan Ingan odak oku ngakont! Moh dik siginap pinguji obuah nai odak bijak ponai Ingan, jek siginap sisa lila jadin tukang puwat pangilaan Ingan, doie osi-osi dek harus birani lawan koih, sungu nak kuasa tanak duoh longit yak obuah nguluk netang koih. Mo nyam oku misak nusey rahsia ajaib bijak ponai Ingan dek mbok tibuka nguliak ndu depan ku, patuab rubuh musuh-musuh Ingan totap molang botah tibulai.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7570 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Poismenneille"]
 +++
 Hän on Jumala, ylistetty olkoon Hän, laupeuden ja anteliaisuuden Herra!
 Ylistys olkoon Sinun, oi Jumalani, kaikkivaltias Herra. Todistan Sinun kaikkivaltiudestasi ja mahdistasi, Sinun yliherruudestasi  ja laupeudestasi, Sinun armostasi ja voimastasi, Sinun olemassaolosi ainoudesta ja olemuksesi ykseydestä, Sinun pyhyydestäsi ja ylevöityneisyydestäsi olemassaolon maailman ja kaiken siinä olevan yläpuolella.

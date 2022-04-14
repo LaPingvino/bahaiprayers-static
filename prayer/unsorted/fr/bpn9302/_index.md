@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9302 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Prières de souvenance"]
 +++
 *Cette prière révélée par ‘Abdu’l-Bahá est lue à son tombeau. On peut également la lire en privé. Celui qui récite cette prière avec ferveur et humilité apporte joie et contentement au cœur de ce serviteur ; c’est comme s’il le rencontrait face à face.
 

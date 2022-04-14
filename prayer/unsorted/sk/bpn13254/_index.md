@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13254 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Tabuľky Božského Plánu"]
 +++
 Ó Bože! Ó Bože! Vidíš moju slabosť, poníženosť a pokoru medzi Tvojimi stvoreniami. Napriek tomu som Ti dôveroval a povstal som, aby som šíril Tvoje učenie medzi Tvojimi pevnými služobníkmi, spoliehajúc sa na Tvoju moc a silu!
 Ó Pane! Som vtáča so zlomeným krídlom, ktoré sa túži vznášať v Tvojom bezmedznom priestore. Ako tak môžem učiniť, ak nie prostredníctvom Tvojej prozreteľnosti a milosti, Tvojho utvrdenia a pomoci?

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5746 in ภาษาไทย'
 author = "Bahá'u'lláh"
-tags = ['lang-th', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-th', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-บทอธิษฐาน ณ สถูปของพระบาฮาอุลลาห์ และพระบ๊อบ"]
 +++
 ##บทอธิษฐาน ณ สถูปของพระบาฮาอุลลาห์ และพระบ๊อบ
 *(ใช้สวดในวันศักดิ์สิทธิ์ที่เป็นวันครบรอบของทั้งสองพระองค์ด้วย)

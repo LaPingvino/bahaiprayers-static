@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12144 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PAGI"]
 +++
 Aku memberikan pujian kepada-Mu, Ya Tuhanku, kerana Engkau telah membangunkan daku daripada tidurku, dan membawaku ke hadapan selepas kehilanganku, dan mengejutkan daku daripada lenaku. Aku telah bangun pagi ini dengan wajahku ditetapkan ke arah kegemilangan Suria Revelasi-Mu, melalui-Nya syurga kekuasaan-Mu dan keagungan-Mu telah disinari, mengakui tanda-tanda-Mu, mempercayai Kitab-Mu, dan berpegang kuat kepada Tali-Mu.
 

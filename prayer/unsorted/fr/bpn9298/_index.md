@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9298 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tablette à Ahmad"]
 +++
 ##Tablette à Ah∂mad
 

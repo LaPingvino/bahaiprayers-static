@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2642 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-A tűz táblája"]
 +++
 Isten, a Legősibb, a Legnagyobb Nevében!
 

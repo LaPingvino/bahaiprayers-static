@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4805 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Sabitlik"]
 +++
 Ey Allah, mənim Allahım! Günahlarımı etiraf edərək peşimançılıqla Sənə üz tutdum və həqiqətən, Sən Əfv Edən, Şəfqətlisən.
 

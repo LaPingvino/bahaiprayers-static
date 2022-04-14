@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9359 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAHAMARINANA"]
 +++
 Izy Ilay Mpanome, Ilay Onena olona!
 Dera ho an’Andriamanitra, Ilay Fahagola, Ilay Mendrikaja mandrakizay, Ilay tsy miova, Ilay Maharitra mandrakizay! Izy, izay vavolombelon’ny maha-Izy Azy, izay marina tokoa fa Izy no Ilay Iray, Ilay Tokana, Ilay tsy refesi-mandidy, Ilay Ambony.

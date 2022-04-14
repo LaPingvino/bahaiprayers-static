@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11914 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gysga namaz"]
 +++
 *(Gysga namaz günde bir gezek öýlän okalýar)
 

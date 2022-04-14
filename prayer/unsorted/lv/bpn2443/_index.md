@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2443 in Latviešu'
 author = "Bahá'u'lláh"
-tags = ['lang-lv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Svētceļojuma vēstules"]
 +++
 *Šo vēstuli lasa Bahá’u’lláh un Báb svētnīcās. To bieži izmanto, atzīmējot Viņu piemiņas dienas.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4529 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Para Sa Yumao"]
 +++
 O aking Diyos! O Ikaw na nagpapatawad ng mga kasalanan! Tagapagkaloob ng mga handog! Tagapawi ng mga paghihirap!
 

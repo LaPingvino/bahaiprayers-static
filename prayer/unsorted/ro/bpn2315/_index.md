@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2315 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tableta de Ridvan"]
 +++
 ivina primăvară a venit, O, Prea Slăvită Pană, căci Sărbătoarea Celui Preamilostiv se apropie cu repeziciune. Grăbiţi vă şi lăudaţi numele lui Dumnezeu în faţa întregii creaţii; preamăriţi gloria Sa în aşa fel încât toate lucrurile create să fie regenerate şi înnoite. Vorbeşte, nu păstra tăcerea. Luceafărul fericirii străluceşte la orizontul numelui Nostru, Cel Preafericit căci împărăţia numelui lui Dumnezeu a fost împodobită cu ornamentul numelui Domnului, Creatorul cerurilor. Ridică te în faţa naţiunilor pământului şi înarmează te cu puterea acestui Nume Suprem şi nu fi dintre cei ce şovăie.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2874 in Česky'
 author = "Báb"
-tags = ['lang-cs', '', "Báb", "unsorted"]
+tags = ['lang-cs', 'prayer-', "author-Báb", "category-unsorted", "cat-Pomoc a podpora"]
 +++
 Je nějaký Vysvoboditel z těžkostí kromě Boha?
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8157 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Bønner For Undervisning Fra Den Guddommelige Plans Breve"]
 +++
 O Gud, min Gud! Du ser, hvordan tæt mørke indhyller alle egne, hvordan alle lande brænder med stridens flamme, og krigens og blodbadets ild raser i østen og vesten. Blodet flyder, legemer kastes til jorden, og afhuggede hoveder er faldet på slagmarkens støv.
 

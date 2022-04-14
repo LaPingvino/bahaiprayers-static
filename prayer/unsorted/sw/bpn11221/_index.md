@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11221 in Kiswahili'
 author = "Bahá'u'lláh"
-tags = ['lang-sw', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sw', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-SALA KWA WALIOKUFA"]
 +++
 Ee Mungu wangu!  Huyu ni mtumishi Wako na mwana wa mtumishi Wako ambaye amekuamini Wewe na ishara Zako, na kuelekeza uso wake Kwako, amejitenga kabisa kutoka kwa vyote ila Wewe.  Wewe hakika, ndiwe wa wale ambao huonyesha rehema, mwenye rehema kabisa. 
 

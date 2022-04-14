@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13200 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ráno"]
 +++
 Ó môj Bože a môj Pane! Som Tvojím služobníkom a synom Tvojho služobníka. Povstal som zo svojho lôžka za svitania, kedy Dennica Tvojej jedinosti zažiarila z Úsvitu Tvojej vôle a svojím svetlom zaliala celý svet tak, ako to bolo určené v knihách Tvojho nariadenia.
 Chvála Tebe, ó môj Bože, za to, že sme sa prebudili do nádhery svetla Tvojho poznania. Zošli nám teda, ó môj Pane, to, čo nám umožní zaobísť sa bez každého okrem Teba, a zbaví nás pút ku všetkému okrem Teba. Urči pre mňa a pre tých, ktorí sú mi drahí, pre mojich príbuzných, mužov ako i ženy, dobro tohto ako i budúceho sveta. Svojou neomylnou ochranou nás ochraňuj, ó Ty Milovaný celého stvorenia a Túžba celého vesmíru, pred tými, ktorých si učinil prejavmi Našepkávača Zla, ktorý šepká v ľudských hrudiach. Máš moc konať podľa Svojho potešenia. Ty si, vskutku, Všemocný, Pomocník v nebezpečí, skrze Seba Jestvujúci.

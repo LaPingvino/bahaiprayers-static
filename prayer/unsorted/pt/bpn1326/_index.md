@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1326 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Epístolas"]
 +++
 ##Epístola Do Fogo
 Em nome de Deus, o Antiquíssimo, O de Suma Grandeza.

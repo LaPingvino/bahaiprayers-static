@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12961 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-STEADFASTNESS"]
 +++
 O Bikpela!  Helpim mipela long wokabaut long rot bilong Yu tasol, na strongim mipela bai mipela i ken bihainim gut ol toktok bilong Yu tasol.  Tanim pes bilong mipela i go long Yu tasol,  inap mipela i ken lukim naispela bilong Yu na save olsem Yu Wanpela tasol i stap.  Amamasim bel bilong mipela wantaim ol dispela mak bilong Yu, ol i soimaut olsem Yu Wanpela tasol i stap.  Bilasim mipela wantaim dispela bilas bilong Yu, em bilas bilong gutpela blesing bilong Yu.  Na rausim ol rong i laik pasim ai bilong mipela.  Na givim kap bilong marimari bilong Yu long mipela.  Mekim ol dispela samting olsem bambai as tru bilong olgeta samting long graun i ken litimapim nem bilong Yu na luksave long bikpela bilong Yu. 
  

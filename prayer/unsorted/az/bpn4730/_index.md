@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4730 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Birlik duaları"]
 +++
 Ey mənim Allahım! Ey mənim Allahım! Doğurdan da, Səni çağırıram və Sənə iltimas edirəm, Sənin astananda diləyirəm ki, Sənin bütün mərhəmətin bu ruhların üzərinə yağsın. Onları Öz lütf və həqiqətin üçün hazırla.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12473 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Oshikwanyama : Edalo la Bahá'u'llah"]
 +++
 Oye Okuyapuki-elela, Omutumbalekwa-elela, Omunene-elela
 

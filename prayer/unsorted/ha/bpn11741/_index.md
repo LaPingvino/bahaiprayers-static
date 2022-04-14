@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11741 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Haɗin Kai"]
 +++
 Yā Allāna ! Yā Allāna !
 Haɗa zukācen bāyinka, kuma ka bayyana musu nufinka mai girma. Dā dai su bi umurninka, kuma su kiyāye dōkōkinka ! Taimakar su, yā Allāna, a cikin ƙōƙarinsu, kuma ka bā su ƙarfin bautā maka.

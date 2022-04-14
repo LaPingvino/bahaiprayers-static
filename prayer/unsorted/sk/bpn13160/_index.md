@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13160 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Manžel"]
 +++
 Ó Bože, môj Bože! Tvoja služobníčka k Teba volá, dôveruje Ti, obracia k Tebe svoju tvár a úpenlivo Ťa prosí, aby si ju obklopil Svojimi nebeskými darmi, odhalil jej Svoje duchovné tajomstvá a osvietil ju svetlom Svojho Božstva.
 Ó môj Pane! Daj, nech oči môjho manžela vidia. Rozveseľ jeho srdce svetlom poznania Teba samého, priveď jeho myseľ k Svojej žiarivej kráse a poteš jeho ducha tým, že mu odhalíš Svoju zjavnú nádheru.

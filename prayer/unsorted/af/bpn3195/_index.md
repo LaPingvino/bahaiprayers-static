@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3195 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Geestelike Eienskappe"]
 +++
 O my God! O my God! Heerlikheid sy aan U omdat U my aan die belydenis van U eenheid bevestig het, my na die woord van U enkelvoudigheid aangetrek het, my met die vuur van U liefde aan die brand gesteek het, en my besig gehou het met U melding en die bediening van U vriende en diensmaagde.
 

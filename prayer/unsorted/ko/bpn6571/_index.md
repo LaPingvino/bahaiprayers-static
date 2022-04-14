@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6571 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-여행"]
 +++
 저는 오늘 아침 잠이 깨었사오며…
 집을 나왔사옵나이다. 안전히 돌아갈 수

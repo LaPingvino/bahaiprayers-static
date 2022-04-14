@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7957 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Maħfra"]
 +++
 Glorja lileK, O Sid Alla tiegħi!  Nitolbok f’ġieh il-Magħżulin tiegħeK, u f’ġieh ir-Reffiegħa tal-Fiduċja tiegħeK, u f’ġieh Dak Li Int għażilt biex ikun is-Siġill tal-Profeti tiegħeK u tal-Qaddejja tiegħeK, biex tagħmel il-fakra fiK is-sieħba tiegħi, u l-imħabba tiegħeK il-mira tiegħi, u wiċċeK il-għan tiegħi, u ismeK il-lampa tiegħi, u xewqteK  xewqti, 
 u l-għoġba tiegħek l-għaxqa tiegħi.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2748 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Tizenkilenc napi ünnep"]
 +++
 —`Abdu’l-Bahá
 

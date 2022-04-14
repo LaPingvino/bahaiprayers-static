@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7416 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Uniezależnienie się"]
 +++
 Wiele oziębłych serc, o mój Boże, rozpalił ogień Twojej Sprawy i wielu uśpionych obudziła słodycz Twojego głosu. Iluż to obcych szukało schronienia w cieniu drzewa Twojej jedności i iluż spragnionych łaknęło w dniach Twoich zdroju Twojej wody życia!
     

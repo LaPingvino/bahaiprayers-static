@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7582 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Vierailumuistiot"]
 +++
 *(Tätä muistiota luetaan Bahá'u'lláhin ja Bábin hautapyhäköissä. Sitä käytetään usein myös heidän muistojuhliaan vietettäessä.)
 

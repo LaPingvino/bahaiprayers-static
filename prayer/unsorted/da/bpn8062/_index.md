@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8062 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Helbredelse"]
 +++
 O Gud, min Gud! Jeg beder Dig ved Din lægedoms hav og ved glansen fra Din nådes dagstjerne og ved Dit navn, hvorved Du underkastede Dig Dine tjenere, og ved den gennemtrængende kraft i Dit mest ophøjede Ord og styrken i Din ypperste pen og ved Din barmhjertighed, der er gået forud for skabelsen af alle, der er i himlen og på jorden, om at rense mig med Din gavmildheds vande for enhver lidelse og uro og for al svaghed og skrøbelighed.
 

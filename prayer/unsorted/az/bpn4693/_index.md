@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4693 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Allaha yaxınlıq üçün dualar"]
 +++
 Alqış olsun Sənə, Ey mənim Allahım! Hərarətli aşıqlərinin Sənin hicranından ötrü fəryadını və Səni tanıyanların Sənin hüzürundan uzaq düşdükləri üçün naləsini eşidirsən. Onların üzünə, Ey mənim Allahım, Öz fəzl qapılarını aç ki, onlar Sənin izninlə və Sənin iradənə uyğun olaraq bu qapılardan daxil olsunlar, Sənin əzəmət taxtının qarşısında dursunlar, Sənin səsinin ahəngini tutsunlar və Sənin üzünün nuru ilə işıqlansınlar.
 

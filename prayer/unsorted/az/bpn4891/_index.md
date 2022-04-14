@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4891 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ruhani Məhfildə oxunan dualar"]
 +++
 *Həqiqi sevinc və şadlıqla bir yerə toplaşın və görüşün əvvəlində bu münacatı oxuyun:
 

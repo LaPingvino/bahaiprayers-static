@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4745 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Hifz duaları"]
 +++
 Onun Adı ilə, Ən Uca, Ən Ali, Ən Əzəmətli! Şanlısan Sən, Ya Rəbb, mənim Allahım! Sən Ey mənim Allahım, mənim Mövlam, mənim Rəbbim, mənim Dayağım, mənim Ümidim, mənim Pənahım, mənim İşığım. Rica edirəm Səndən, Sənin O Pünhan və Gizli Adınla ki, Özündən savayı heç kəs bilməz - bu Lövhü daşıyanı bütün bəla və bədbəxtliklərdən, hər bir pis niyyətli kişi və qadından, bədxahların şərindən və imansızların məkrindən hifz elə. Daha sonra, Ey mənim Allahım, hər bir iztirab və peşmançılıqdan onu qoru, Sən Ey bütün şeylərin səltənətini əlində Saxlayan Allah. Sən, həqiqətən, hər şeyin üzərində Hakimsən. Sən istədiyini edir və istədiyinə hökm verirsən.
 

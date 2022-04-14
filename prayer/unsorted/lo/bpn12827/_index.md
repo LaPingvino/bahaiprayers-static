@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12827 in ພາສາລາວ'
 author = "Bahá'u'lláh"
-tags = ['lang-lo', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lo', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ທັມມະຈາລຶກອັກຄີ"]
 +++
 ໃນນາມພຣະຜູ້ເປັນເຈົ້າ ພຣະຜູ້ຊົງບໍລົມບູຮານທີ່ສຸດ ພຣະຜູ້ຊົງຄວາມຍິ່ງໃຫຍ່ທີ່ສຸດ.
 

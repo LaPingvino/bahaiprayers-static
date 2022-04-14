@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2585 in Русский'
 author = "Bahá'u'lláh"
-tags = ['lang-ru', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ru', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Об усопших"]
 +++
 Он есть Бог, возвышенный, Господь нежной заботы и щедрости!
 

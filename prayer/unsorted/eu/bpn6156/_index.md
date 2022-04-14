@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6156 in Euskara'
 author = "Bahá'u'lláh"
-tags = ['lang-eu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-eu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Sendaketa"]
 +++
 Ene Jainkoa,
 Zure izenen bidez geisoak sendatuak izaten dira, eta nahigabetuak seneratzen, egarri direnei edaten ematen zaie, eta larrituak direnak lasaitzen, deslai direnak bideratuak izaten dira, eta apalduak goraltzen, txiro direnak aberastuak izaten dira, eta ezjakin direnak jakintsu bihurtzen, atsekabez direnei adore ematen zaie, eta itun direnak argieratzen, kikilduak jasoten. Zure izenaren bidez, ene Jainkoa, irazandako izaki guztiak igieraziak izan ziren, lurrera euria ixuri zezaten. Eta hori, benetan, Zeure izakiekiko duzun Zeure adeiaren zantzu bat da (...)

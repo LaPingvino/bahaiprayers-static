@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3513 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Helbredelse"]
 +++
 Han er helbrederen, fyldestgjøreren, hjelperen, den alt-tilgivende, den overmåte barmhjertige!
  

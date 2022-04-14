@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4829 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Şəfa duaları"]
 +++
 Təriflər olsun Sənə, Ey mənim Rəbbim Allah! Sənin ən Böyük Adına and verirəm ki, onunla Sən bəndələrini hərəkətə gətirdin, şəhərlərini inşa etdin və Səni and verirəm ən ali adlarına və ən uca sifətlərinə, Öz xalqına yardım eylə ki, Sənin bol kəramətinə tərəf dönsünlər və üzlərini Sənin hikmət Məbədinə çevirsinlər. O xəstəlikləri sağalt ki, canları hər tərəfdən bürüyüb və onları, nəzərlərini Sənin himayədar Adının sığınacağında olan Cənnətə yönəlməkdən məhrum edib, O Adın ki, Sən onu göydə və yerdə olanlar üçün adların Sultanı təyin etmisən. Sən istədiyini etməyə Qadirsən. Bütün adların səltənəti Sənin əlindədir. Səndən başqa Allah yoxdur, Qüdrət və Hikmət Sahibi.
 

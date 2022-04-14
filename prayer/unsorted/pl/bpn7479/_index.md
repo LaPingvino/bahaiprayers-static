@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7479 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tablica Aḥmada"]
 +++
 *„Te codzienne modlitwy obowiązkowe oraz niektóre wybrane, takie jak Długa modlitwa o uzdrowienie czy Tablica Aḥmada zostały obdarzone przez Bahá’u’lláha wyjątkową mocą i znaczeniem i dlatego powinny być uznane za takowe i odmawiane przez wiernych z niezachwianą wiarą i ufnością, że dzięki nim mogą wejść w znacznie bliższą komunię z Bogiem i pełniej utożsamić się z Jego prawami i przykazaniami.”
 

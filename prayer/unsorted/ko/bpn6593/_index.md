@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6593 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-융합"]
 +++
 주님의 종들의 마음을 통합시켜
 

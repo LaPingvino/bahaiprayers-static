@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6484 in 한국어'
 author = "Báb"
-tags = ['lang-ko', '', "Báb", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Báb", "category-unsorted", "cat-가족"]
 +++
 저와 주님의 종교를 떠받드는 이들을 , 잘 모르고 있는 주님의 종들로 하여금, 신교를 기꺼이 받아들인 가정에
 

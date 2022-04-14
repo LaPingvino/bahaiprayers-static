@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7572 in Suomi'
 author = "Abdu'l-Bahá"
-tags = ['lang-fi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Poismenneille"]
 +++
 Oi Jumalani! Oi Sinä syntien anteeksi antaja, lahjojen jakaja, kärsimysten karkottaja!
 Totisesti rukoilen Sinua suomaan synnit anteeksi niille, jotka ovat hyljänneet aineellisen asunsa ja nousseet henkiseen maailmaan.

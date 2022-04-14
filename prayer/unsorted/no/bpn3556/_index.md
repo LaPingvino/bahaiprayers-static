@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3556 in Norsk'
 author = "Báb"
-tags = ['lang-no', '', "Báb", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Báb", "category-unsorted", "cat-Undervisning"]
 +++
 Ære være deg, o Herre, du som har frembragt alle skapte ting, ved din befalings kraft.
  

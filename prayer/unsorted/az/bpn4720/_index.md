@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4720 in Azərbaycan'
 author = "Báb"
-tags = ['lang-az', '', "Báb", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Báb", "category-unsorted", "cat-Bağışlanma duası"]
 +++
 Ey bizim Rəbbimiz Allah! Sənin razı qalmadığın hər şeydən Öz fəzlinlə bizi qoru və bizə sənə layiq olanı bəxş eylə. Öz kərəmindən bizə bol pay ver və bizi bəxtiyar eylə. Törətdiklərimizə görə bizi əfv et, günahlarımızı sil və bağışlayıcılığınla günahımızdan keç. Həqiqətən Sən Ən Uca və Qəyyumsan.
 

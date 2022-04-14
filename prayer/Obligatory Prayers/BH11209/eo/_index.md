@@ -1,7 +1,7 @@
 +++
 title = 'Short Obligatory Prayer in Esperanto'
 author = "Bahá'u'lláh"
-tags = ['lang-eo', '', "Bahá'u'lláh", "Obligatory Prayers"]
+tags = ['lang-eo', 'prayer-BH11209', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-La Mallonga Deviga Preĝo"]
 +++
 ##La Mallonga Deviga Preĝo 
 *(Citenda unufoje dum diurno tagmeze, t.e. inter tagmezo kaj sunsubiro.)

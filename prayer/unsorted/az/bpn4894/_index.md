@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4894 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Atəş Lövhü, Əhməd Lövhü, Müqəddəs Dənizçi lövhü"]
 +++
 *"Bu gündəlik namazlara, şəfa Duası, Əhməd Lövhü kimi digər bir neçə xüsusi dualarla yanaşı, Həzrət Bəhaullah tərəfindən fövqəladə güc və əhəmiyyət əta edilmişdir və ona görə də onları belə qəbul etmək lazımdır. Möminlər onları şübhəsiz iman və inamla oxumalıdırlar ki, onların vasitəsilə Allahla daha yaxın ünsiyyətə girə bilsinlər və özlərini Onun qanun və hökmləri ilə daha tam uyğunlaşdırsınlar.
 

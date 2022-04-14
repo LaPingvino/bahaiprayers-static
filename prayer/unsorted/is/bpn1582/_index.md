@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1582 in Íslenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-is', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Aðstoð"]
 +++
 Drottinn! Aumkunarverð erum við, veit okkur hylli Þína; fátæk, gef okkur hlutdeild í úthafi auðæfa Þinna; þurfandi, uppfyll þarfir okkar; nið­urlægð, veit okkur dýrð Þína. Fuglar himinsins og dýr merkurinnar fá fæðu sína dag hvern frá Þér og allar verur njóta umhyggju Þinnar og ástúðar.
 Svipt eigi þennan smælingja undursamlegri náð Þinni og veit sakir máttar Þíns þessari hjálparvana sál hylli Þína.

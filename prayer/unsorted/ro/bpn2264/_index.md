@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2264 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pentru cei Răposaţi"]
 +++
 El este Dumnezeu, slăvit este El, Stăpânul dărniciei şi al duioasei bunătăţi! Slava fie cu Tine, O, Tu, Dumnezeul meu, Stăpâne Atotputernic. Adeveresc omnipotenţa şi tăria Ta, suveranitatea Ta şi bunătatea Ta duioasă, harul Tău şi puterea Ta, unicitatea fiinţei Tale şi unitatea esenţei Tale, sanctitatea Ta şi înălţarea Ta deasupra lumii existenţei şi a tot ce se află în ea.
 

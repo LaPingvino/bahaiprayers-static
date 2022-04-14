@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11794 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Sa’ant Nya’a Dek Kobos"]
 +++
 (Sesuai Takal Nomi Kobont Bunga)
 O Topa ku! O Topa ku! Totap, ulunt Ingan, nyot odop eh ngaduap kebesaran keagungan Ingan dek kudus, pidouk odop-eh ndu tiban pinyindi Ingan, mbok bisayak daang Ingan bia daang pingunang-pingunang Ingan, mbok ngakuk buak sina Ingan, mbok pernah bidudue odak opui pangirinduk Ingan, mbok pernah bidisup daang laut tuluap ilmu Ingan, mbok pernah liyont odak goyuang obus Ingan, mbok sinongak tudu tunt Ingan, mbok nak jowin-eh tudu Ingan, mbok nguliak pujuk rayu tudu Ingan, bia mbok pernah geh obuah janji pimaaf duoh pingapunt Ingan. Iyoh mbok supiah idip fana tih bia mbok timilib ki pritah idip nolee, jobong setegal rasa mesra tapod Ingan.

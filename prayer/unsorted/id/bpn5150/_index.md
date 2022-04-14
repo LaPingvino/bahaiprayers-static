@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5150 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pagi Fajar"]
 +++
 Aku memberikan pujian kepada-Mu, ya Tuhan-ku, karena Engkau telah membangunkan daku dari kantukku dan telah memunculkan daku kembali setelah aku hilang, dan membangkitkan daku dari tidurku. Aku telah bangun pagi ini dengan wajahku diarahkan pada kecemerlangan Surya Wahyu-Mu, yang melaluinya langit kekuasaan-Mu dan keagungan-Mu telah diterangi, dengan mengakui tanda-tanda-Mu, beriman pada Kitab- Mu, dan berpegang erat pada Tali-Mu.
 

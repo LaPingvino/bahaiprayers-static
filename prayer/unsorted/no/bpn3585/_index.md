@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3585 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ahmads tavle"]
 +++
 "De daglige obligatoriske bønnene er, sammen med noen få andre spesielle bønner, så som Helbredelsesbønnen og Ahmads tavle, av Bahá'u'lláh blitt inngitt en egen kraft og betydning og bør derfor godtas som sådanne. De bør fremsies med ubetinget tro og tillit av de troende, slik at de ved dem kan komme inn i et mye nærmere fellesskap med Gud og mer fullstendig identifisere seg med hans lover og forskrifter." Fra et brev skrevet på vegne av Shoghi Effendi.
  

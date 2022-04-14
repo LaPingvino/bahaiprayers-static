@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7302 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ludzkość"]
 +++
 Boże mój, którego czczę i wielbię! Daję świadectwo Twojej jedności i jedyności i uznaję Twoje dary, zsyłane zarówno w przeszłości, jak i obecnie. Tyś jest Wszechłaskawym, którego miłosierdzie spłynęło jak obfity deszcz tak na wywyższonych, jak i na poniżonych, i który rozsiał swe wspaniałe łaski zarówno na posłusznych, jak i na zbuntowanych.
    

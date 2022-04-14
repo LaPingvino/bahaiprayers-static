@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4836 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-İlahi təyid duaları"]
 +++
 Ucalsın Sənin Adın, Ey mənim Allahım, çünki Sən o günü aşkar etdin ki, Günlərin Sultanıdır, O Gün ki, Onu Sən Öz seçilmişlərinə və Peyğəmbərlərinə Sənin ən uca Lövhələrində müjdəsini verdin, O Gün ki, onda Sən bütün adlarının cəlalının nurlarını yaradılmış şeylərin üzərinə səpdin. Xoş o kəsin halına ki, Sənə doğru yönəldi, Sənin hüzuruna nail oldu və Sənin nidanın şirinliyini eşitdi.
 

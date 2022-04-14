@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13365 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Spiritual Assembly"]
 +++
 Pryd bynnag yr ewch i mewn i'r siambr cyngor, adroddwch y weddi hon gyda chalon yn curo â chariad Duw a thafod wedi ei phuro rhag popeth ond Ei goffadwriaeth fel i'r Holl-Rymus yn rasol eich cymorth i gyrraedd buddugoliaeth lawn.
 

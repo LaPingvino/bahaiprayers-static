@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2799 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Mësimdhënia"]
 +++
 O Ti Perëndi i pakrahasueshëm! O Ti Zoti i Mbretërisë! Këta shpirtra janë ushtria Jote qiellore. Ndihmoji ata me aradhat e Grupimit Suprem, bëji ata fitimtarë, në mënyrë që cilido prej tyre të bëhet si një regjiment e t'i pushtojë kombet nëpërmjet dashurisë së Perëndisë dhe ndriçimit të mësimeve hyjnore.
 

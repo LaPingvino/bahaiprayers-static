@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13027 in Melpa'
 author = "Bahá'u'lláh"
-tags = ['lang-med', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-med', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK"]
 +++
 *Ya kikonta ik e Bahá’í mondop pili wamp ragl nga koemp keta ila kikonta ruingil wä eken ämp eken ningil ik e ya Kitáb-i-Aqdas wingti ila rorong petem emel:
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6138 in Euskara'
 author = "Abdu'l-Bahá"
-tags = ['lang-eu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-eu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Gizartea"]
 +++
 Zeuk sortu duzu gizarte osoa, jatorri bereko gurasoengandik, eta zeuk erabakia da, guztiak etxe berekoak izan daitezela. Zure arpegi sakratuaren aurrean, guztiak Zure otsein dira eta gizarte osoa Zure bizitagian estalperatzen da. Zure Ontasunezko mahaiaren inguru bildu dira guztiak; eta Zure ardurazko argiaren bidez dizdirati bihurtzen dira guztiak. Ene Jainkoa!
 

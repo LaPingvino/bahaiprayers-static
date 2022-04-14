@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn458 in Deutsch'
 author = "Abdu'l-Bahá"
-tags = ['lang-de', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Frieden"]
 +++
 O Gott, o Gott! Du siehst, wie schwarze Finsternis alle Lande umfängt, wie alle Lande brennen in der Zwietracht Flamme, wie mörderisch in Ost und West des Krieges Feuer lodert. Blut wird vergossen, Leichen bedecken ringsum die Erde, und abgeschlagen liegen Häupter im Staub des Schlachtfelds.
 O Herr! Erbarme Dich dieser Unwissenden, schaue auf sie mit dem Auge des Vergebens und Verzeihens. Lösche dieses Feuer, so dass die dichten Wolken sich verziehen, die den Himmel verdunkeln, dass die Sonne der Wirklichkeit leuchte mit den Strahlen der Versöhnung, das tiefe Dunkel sich teile und alle Lande vom strahlenden Lichte des Friedens erleuchtet werden.

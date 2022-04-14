@@ -1,7 +1,7 @@
 +++
-title = 'Prayer AB06528MID in Italiano'
+title = 'Midnight Prayer in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', '', "Abdu'l-Bahá", "Evening"]
+tags = ['lang-it', 'prayer-AB06528MID', "author-Abdu'l-Bahá", "category-Evening", "cat-Sera"]
 +++
 O ricercatore della verità! Se desideri che Dio ti apra gli occhi devi supplicarLo, pregarLo e a Lui volgere lo spirito a mezzanotte dicendo: 
 

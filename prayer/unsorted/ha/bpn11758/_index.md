@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11758 in Hausa'
 author = "Abdu'l-Bahá"
-tags = ['lang-ha', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ziyāra"]
 +++
 *Wannan āyā, ana jan ta a ƙabarin Abdul Baha, amma kuma mutun yana iya jan ta, don rāɗin kansa.
 *Idan kā yi wannan addu’a cikin īmāni da tawāli, haka nā sā zūciyar Abdul Baha ta jī dāɗi, kamar dai kana gabansa nē.

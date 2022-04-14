@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7415 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Uniezależnienie się"]
 +++
 Niech będzie pochwalone Imię Twoje, o mój Boże! Błagam Cię na wonności szaty Twojej łaski, które na Twój rozkaz i zgodnie z Twoim życzeniem przeniknęły całe stworzenie i na Jutrzenkę Twojej woli, która zajaśniała potęgą Twojej mocy i wszechwładzy ponad horyzontem Twojego miłosierdzia, abyś wymazał z mojego serca wszelkie próżne upodobania i puste wyobrażenia, tak abym wszystkie moje uczucia skierował ku Tobie, o Ty, Panie całej ludzkości!
     

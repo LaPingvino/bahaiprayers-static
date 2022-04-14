@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9688 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Algemene gebeden voor overledenen"]
 +++
 Hij is God, verheven is Hij, de Heer van goedertierenheid en milddadigheid!
 Verheerlijkt zijt Gij, o mijn God, de Almachtige Heer. Ik getuig van Uw almacht en Uw macht, Uw soevereiniteit en Uw goedertierenheid, Uw genade en Uw kracht, het één-zijn van Uw Wezen en de eenheid van Uw Essentie, Uw heiligheid en Uw verheven-zijn boven deze wereld en al wat zich daarin bevindt.

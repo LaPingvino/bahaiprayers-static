@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7252 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ΠΙΝΑΚΙ∆ΕΣ ΤΟΥ ΘΕΙΚΟΥ ΣΧΕ∆ΙΟΥ"]
 +++
 Η ακόλουθη συνοµιλία διαβάζεται κάθε µέρα:
 

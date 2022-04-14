@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2856 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tabela e Ahmadit"]
 +++
 *Kjo Tabelë u vesh prej Bahá'u'lláh-ut me fuqi e rëndësi të posaçme.
 

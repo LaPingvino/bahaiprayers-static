@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7269 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Długa Modlitwa Obowiązkowa"]
 +++
 ##DŁUGĄ MODLITWĘ OBOWIĄZKOWĄ NALEŻY ODMAWIAĆ RAZ NA DOBĘ.
 

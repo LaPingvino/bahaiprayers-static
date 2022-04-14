@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6012 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Rugciriku: Short Obligatory Prayer"]
 +++
 ##Ndapero Yahepero
 *Short Obligatory Prayer (Noon)

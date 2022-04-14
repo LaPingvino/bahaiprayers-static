@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12478 in Samoan'
 author = "Bahá'u'lláh"
-tags = ['lang-sm', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-LONG OBLIGATORY PRAYER"]
 +++
 *TO BE RECITED ONCE IN TWENTY-FOUR HOURS
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4899 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Azərbaycan Haqqında Dualar"]
 +++
 *Bakı Bəhailərinin-Allahın nuru üzərlərinə olsun-nəzərinə!
 

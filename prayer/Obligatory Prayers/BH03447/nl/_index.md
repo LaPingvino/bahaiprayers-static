@@ -1,7 +1,7 @@
 +++
 title = 'Medium Obligatory Prayer in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', '', "Bahá'u'lláh", "Obligatory Prayers"]
+tags = ['lang-nl', 'prayer-BH03447', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-Het middellange Verplichte Gebed"]
 +++
 *Dagelijks te reciteren, ’s ochtends, ‘s middags en ’s avonds.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9529 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Middernacht"]
 +++
 *O zoeker naar Waarheid! Indien gij wenst dat God uw ogen opent, moet gij Hem aanroepen en u om middernacht in gebed tot Hem keren met de woorden:
 

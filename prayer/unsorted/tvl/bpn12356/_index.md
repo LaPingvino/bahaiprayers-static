@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12356 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAFINE"]
 +++
 E vikiia a Koe, O te Aliki toku Atua!  Koe ko Ia Tela ne faiite a mea katoa mai i luga i te muna ne faipatiiga ona ko Tau fakatonuuga, kae fou at foafoaaga katoatoa ne te maalosi o Tou nofoaiga-a-tupu mo te mafi.  A tagata tafasili i te mafi e masiasi i mua o faka-asiiga o Tou matagofie, kae ko latou ko la e fonufonu i te maalosi e polepole mataku ma fetaui ki mata mo faka-talitonuuga o Tou mafi.  A so se tagata mo te iloa e faka-seai a tena kiloga ma fai ko faka-fetaui mo te malifalifa o te mana o Ou mata, a ko ia te la e fonufonu i te uke o ana koloa e mativa kae faka-alofa ma fai ko lavea ne ia a te salalau mo te uke o Tou maumea.   
   

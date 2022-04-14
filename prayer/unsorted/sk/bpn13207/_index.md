@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13207 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Blízkosť k Bohu"]
 +++
 Ó Pane, môj Bože a môj Prístav v mojej tiesni! Môj  Štít a môj Úkryt v mojich strastiach! Môj Útulok a Útočisko v čase núdze a v mojej osamelosti môj Spoločník! V mojej skľúčenosti moja Útecha a v mojej samote milujúci Priateľu! Ten, kto odníma pálčivosť môjho žiaľu a odpúšťa moje hriechy!
 Obraciam sa úplne k Tebe, s vrúcnosťou Ťa celým srdcom, mysľou a jazykom úpenlivo žiadam, aby si ma chránil pred všetkým, čo sa prieči Tvojej vôli v tomto kolobehu Tvojej božskej jednoty, a aby si ma očistil od každej poškvrny, ktorá mi zabráni nepoškvrnenému a nepošpinenému hľadať tieň stromu Tvojej milosti.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8977 in اُردُو'
 author = "Bahá'u'lláh"
-tags = ['lang-ur', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ur', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-جنرل"]
 +++
 اے میرے محبوب ، اے میرے مقصود، 
 اے میری تمناؤں کی انتہا!

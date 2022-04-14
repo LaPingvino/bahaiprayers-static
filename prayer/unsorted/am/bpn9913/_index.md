@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9913 in አማርኛ.'
 author = "Bahá'u'lláh"
-tags = ['lang-am', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-am', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-የቀብር ፀሎት  (Funerals)"]
 +++
 *ሟች ወንድ ከሆነ፤ 
 

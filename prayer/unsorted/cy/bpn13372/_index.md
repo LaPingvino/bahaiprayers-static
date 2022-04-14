@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13372 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Nearness to God"]
 +++
 O Arglwydd, fy Nuw, a'm Noddfa yn fy mlinder! Fy Nharian a'm Cysgod yn fy nhrallod!  Fy Ngobaith a'm Lloches yn nydd fy angen!  Ti yw fy Niddanydd mewn dyddiau o wae, fy Nghydymaith yn y tywyllwch, a'm Cyfaill annwyl yn fy unigrwydd. Ti sydd yn symud ymaith poenau ein galar ac yn maddau ein pechodau
 

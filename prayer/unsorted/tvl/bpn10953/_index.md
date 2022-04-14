@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10953 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Te Talo Loa Foo Masaki"]
 +++
 A Ia ko te Fakagata Masaki, ko te Lava-fua-ia-Ia, ko te Feasoasoani, ko te Fakamagalo-Katoatoa, ko te Kaimalie-Katoatoa.
      Au e tapa kia Koe O tafasili i te Maluga, O ko te Fakamaoni Tokotasi, O te Matagofie Tokotasi!  Koe ko te Lava-ia-Koe loa, Koe ko te Fakaleiiga o Masaki, Koe ko te Fakatunaki-Tumau, O Koe ko te Fakatuanaki-Tumau katoatoa!

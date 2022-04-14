@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10376 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Den Långa Helandebönen"]
 +++
 Han är Helaren, den Tillräcklige, Hjälparen, den allt Förlåtande, den Allbarmhärtige.
 Jag åkallar Dig, o Upphöjde, o Trofaste, o Härlige! Du den tillräcklige , Du den helande, Du den bestående, o Du som är den bestående!

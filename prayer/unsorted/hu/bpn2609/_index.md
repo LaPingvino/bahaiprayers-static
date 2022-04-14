@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2609 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Hosszú kötelező ima"]
 +++
 *Elmondandó egyszer minden huszonnégy órában
 Ki ezen imát kívánja mondani, emelkedjen fel és forduljon Istenhez, álltában nézzen jobb, majd bal felé, mintha az Úr, a Legirgalmasabb, a Könyörületes irgalmát várná. Majd pedig szóljon emígyen:

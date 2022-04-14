@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3504 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Beskyttelse"]
 +++
 Priset være ditt navn, o Herre min Gud! Jeg bønnfaller deg ved ditt navn ved hvilket Timen er slagen, og Oppstandelsen fant sted, og frykt og beven grep alle som er i himmelen og alle som er på jorden, om å la regne ned, fra din barmhjertighets himmel og din kjærlige medlidenhets skyer, det som vil fryde hjertene hos dine tjenere, som har vendt seg mot deg og fremmet din Sak.
  

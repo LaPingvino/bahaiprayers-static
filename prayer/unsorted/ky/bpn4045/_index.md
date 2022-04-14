@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4045 in Кыргыз'
 author = "Abdu'l-Bahá"
-tags = ['lang-ky', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ky', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Кудайдан келген алдын"]
 +++
 *Сыйынуу түндүк-чыгыш штаттардын бахаилери үчүн ачылган/
 (Кудайлык жыпар жыттарды таркатуучудар ар күн сайын ушул сыйынууну айткыдай болушсун);

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13354 in Cymraeg'
 author = "Báb"
-tags = ['lang-cy', '', "Báb", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Báb", "category-unsorted", "cat-Forgiveness"]
 +++
 Clod i Ti, O Arglwydd.
 Maddau i ni ein pechodau,

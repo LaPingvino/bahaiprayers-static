@@ -1,7 +1,7 @@
 +++
 title = 'Long Obligatory Prayer in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "Obligatory Prayers"]
+tags = ['lang-en', 'prayer-BH00987', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-Long Obligatory Prayer"]
 +++
 #Long Obligatory Prayer
 ##To be recited once in twenty-four hours

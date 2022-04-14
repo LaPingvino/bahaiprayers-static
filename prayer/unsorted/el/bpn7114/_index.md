@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7114 in ελληνικά'
 author = "Bahá'u'lláh"
-tags = ['lang-el', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ΕΝΟΤΗΤΑΣ"]
 +++
 Ω Θεέ µου! Ω Θεέ µου! Ένωσε τις καρδιές των δούλων Σου και αποκάλυψε σ’ αυτούς το µεγάλο Σου σκοπό. Είθε να ακολουθούν τις εντολές Σου και να συµφωνούν µε το νόµο Σου.
 

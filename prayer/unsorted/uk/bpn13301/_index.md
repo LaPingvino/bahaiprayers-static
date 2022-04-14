@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13301 in Україна'
 author = "Abdu'l-Bahá"
-tags = ['lang-uk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-uk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-За дітей"]
 +++
 О мій Господи! О мій Господи!
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn501 in Deutsch'
 author = "Abdu'l-Bahá"
-tags = ['lang-de', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Sieg der Gottessache"]
 +++
 Er ist Gott!
 O Herr, mein Gott, mein Vielgeliebter! Hier sind Deine Diener, die Deine Stimme hören, Dein Wort vernehmen und Deinem Rufe lauschen. Sie glauben an Dich und schauen Deine Wunder. Sie anerkennen Deinen Beweis und bezeugen Deine Zeichen. Auf Deinen Wegen wandeln sie; sie folgen Deiner Führung, entdecken Deine Mysterien und begreifen die Geheimnisse Deines Buches, die Verse Deiner Schriftrollen, die Botschaften Deiner Sendbriefe und Tafeln. Sie klammern sich an den Saum Deines Kleides und halten sich fest am Gewand Deines Lichts und Deiner Größe. Ihre Schritte sind fest in Deinem Bund, ihre Herzen gestärkt in Deinem Testament. Herr! Entzünde Du in ihren Herzen die Flamme Deiner göttlichen Anziehung und lass den Vogel der Liebe und des Einvernehmens in ihren Herzen sein Lied anstimmen. Lass sie mächtige Zeichen, strahlende Vorbilder werden, vollendet wie Dein Wort. Erhöhe durch sie Deine Sache, entfalte Deine Banner und verbreite Deine Wunder nah und fern. Mache durch sie Dein Wort siegreich und stärke Deinen Geliebten die Lenden. Löse ihre Zungen, Deinen Namen zu preisen, und gib ihnen ein, nach Deinem heiligen Willen und Deinem Wohlgefallen zu handeln.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13336 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Midnight"]
 +++
 gweddïo arno a chymuno ag Ef ganol nos, gan ddywedyd:
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11937 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ähdiňe Berklik Dilemek"]
 +++
 Ylahym, Ylahym!
     Maňa sahylyk jamyny içir we ýüzümi hedaýat nury bilen röwşen eýle. Meni öz sözüme wepadar et hem eden ähdi-peýmanymda berk eýle. Meni Öz saýlan bendeleriň arasyna salyp, meniň üçin asudalyk gapylaryny açyk goý. Maňa şeýle bir çäre tap ki, hyýalymda hem görülmedik asmanly gençleriňden rysgal tapaýyn. 

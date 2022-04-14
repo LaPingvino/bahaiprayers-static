@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6524 in 한국어'
 author = "Abdu'l-Bahá"
-tags = ['lang-ko', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-선교"]
 +++
 주님의 신임 받는 종들을 도우사
 

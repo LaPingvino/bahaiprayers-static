@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9334 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TOETRA ARA-PANAHY"]
 +++
 Ho Anao ny fiderana, ry Tompo Andriamanitro ô! Mitalaho Aminao aho noho ny Anaranao Lehibe Indrindra izay notanana an-tranomaizina tao amin’ny tanànam-pigadran’i Akora, nianjera teo an-tanan’ny fahavalony - araka izay hitanao ry Andriamanitro ô – ary norahonan’ny sabatry ny ratsy fanahy. Hanamafiso aho ao amin’ny Fototrany ary tariho mandrakariva ny fijeriko ho any amin’ny Lapany mba tsy hisy hanana fahefana hampitodika ny fijeriko tsy ho any Aminy.
 Vavolombelona aho, ry Tompoko ô, fa nanolotra ny fiainany Izy ho eo amin’ny lalanao, ary tsy naniry ho an’ny Tenany afa-tsy ny fahoriana noho ny fitiavany izay nananany Taminao. Niharitra henatra maro Izy mba ahazoany manambara ny Fiandriananao amin’ny mpanomponao sy manandratra ny Teninao eo amin’ireo voaharinao. Raha mbola niharatsy ny fahoriana ka mamely azy hatraiza hatraiza ny fampahoriana izay narotsakao Taminy, nanjary niredareda noho ny fieritreretana Anao Izy ka ny hamaroan’ireo izay tsy nino Anao sy tsy nanaiky ny Famantaranao dia nitsahatra tsy nampihorohoro Azy.

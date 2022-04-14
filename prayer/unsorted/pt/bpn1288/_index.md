@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1288 in Português (BR)'
 author = "Báb"
-tags = ['lang-pt', '', "Báb", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Báb", "category-unsorted", "cat-Beneplácito"]
 +++
 Concede-me, ó meu Deus, a plena medida do Teu amor e da Tua aprovação e, pelas atrações da Tua luz resplendente, extasia os nossos corações, ó Tu que és a Evidência Suprema e o Todo-Glorificado. Faze descerem sobre mim, como sinal da Tua graça, as Tuas brisas vitalizadoras, durante o dia e à noite, ó Senhor de generosidade.
 Nenhum ato tenho realizado, ó meu Deus, para merecer contemplar a Tua face e sei com toda a certeza, que, fosse eu viver tanto tempo quanto durar o mundo, não conseguiria realizar um ato que merecesse esse favor, desde que a condição de servo jamais haverá de atingir o acesso aos Teus santos recintos, a menos que a Tua generosidade me possa alcançar, e a Tua terna misericórdia e a Tua benevolência me venham a abranger.

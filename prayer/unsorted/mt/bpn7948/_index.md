@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7948 in Malti'
 author = "Abdu'l-Bahá"
-tags = ['lang-mt', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mt', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-L-erwieħ li ħallewna"]
 +++
 O Alla tiegħi! O Int li taħfer id-dnubiet, li tagħti d-doni, li tkeċċi l-mard!
 Fis-sewwa, nitolboK taħfer dnubiet dawk li ħallew il-libsa tal-ġisem u għolew lejn id-dinja tal-ispirtu.

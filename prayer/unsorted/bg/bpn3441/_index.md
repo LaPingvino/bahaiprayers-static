@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3441 in български'
 author = "Abdu'l-Bahá"
-tags = ['lang-bg', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-bg', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Молитви за преподаване от посланията на божествения план"]
 +++
 ##Разкрита на бахаите от западните щати
 Следната молитва трябва да се чете … всеки ден:

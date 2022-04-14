@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2134 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Apărare şi Protecţie"]
 +++
 Slăvit eşti Tu, o, Doamne Dumnezeul
 meu! Revarsă, Te implor, din norii harului Tău îmbelşugat, ceea ce va purifica inimile slujitorilor Tăi de orice i-ar putea împiedica să-Ţi privească faţa, sau i-ar putea împiedica să se îndrepte spre Tine, ca să-L poată cu toţii recunoaşte pe Cel care este Făuritorul şi Creatorul lor. Ajută-i, Doamne, aşadar, să ajungă, prin puterea tăriei Tale suverane, la un asemenea rang, încât să distingă cu uşurinţă orice miros urât de mireasma veşmântului Celui Ce poartă numele Tău cel mai înalt şi mai slăvit, ca să se poată întoarce cu toată afecţiunea spre Tine, şi să se bucure de o comuniune atât de strânsă cu Tine, încât dacă le-ar fi dat să aibă tot ce se află în ceruri şi pe pământ, le-ar privi ca fiind nedemne de atenţia lor, şi ar refuza să se oprească din pomenirea Ta şi slăvirea virtuţilor Tale.

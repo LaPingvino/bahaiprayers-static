@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7546 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Jumalan oikeus"]
 +++
 Ylistetty olet Sinä, oi sääliväinen Herrani. Rukoilen Sinua pyhän ilmaisusi valtameren kuohunnan ja korkeimman yliherruutesi moninaisten tunnusten ja Sinun jumaluutesi vastustamattomien todisteitten sekä niiden salattujen arvoitusten kautta, jotka ovat Sinun tietoosi kätkettyinä, suomaan minulle armosi palvella Sinua ja valittujasi sekä auttamaan minua kuuliaisesti tarjoamaan Sinun Ḥuqúqisi, jonka olet säätänyt Kirjassasi.
 Minä olen se, oi Herrani, joka on kiintynyt Sinun kirkkautesi valtakuntaan ja lujasti tarttunut Sinun anteliaisuutesi helmaan. Oi Sinä, joka olet kaiken olevaisuuden Herra ja nimien valtakunnan Hallitsija, minä rukoilen Sinua, että et kieltäisi minulta sitä, minkä Sinä omistat, etkä epäisi minulta sitä, minkä olet määrännyt valituillesi.

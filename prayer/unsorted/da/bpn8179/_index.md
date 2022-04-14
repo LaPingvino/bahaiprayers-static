@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8179 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Åndelige Råd"]
 +++
 Bøn til afslutning af møde i det åndelige råd:
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4715 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Bağışlanma duası"]
 +++
 Ey mənim Allahım, Məhbubum, məni hərəkətə Gətirən, Qütb Ulduzum, qəlbimdə car Çəkən, Ey mənim Sirdaşım! Həmd olsun Sənə ki, üzümü Sənə tutmağıma, Sənin zikrinlə alovlanmağıma, Sənin adını ucaltmağıma və tərifini söyləməyimə kömək etdin.
 

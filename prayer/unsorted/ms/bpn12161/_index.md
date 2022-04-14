@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12161 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PERLINDUNGAN"]
 +++
 Dalam Nama-Nya, Yang Luhur, Yang Tertinggi, Yang Paling Suci!
 

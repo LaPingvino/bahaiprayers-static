@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10648 in Монгол хэл'
 author = "Abdu'l-Bahá"
-tags = ['lang-mn', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mn', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ОЮУН САНААНЫ ЧУУЛГА"]
 +++
 *Шижир тунгалаг баяр баясгалангаар бялхан та нар хуран цуглаж, тэгээд хурлынхаа эхэнд энэхүү мөргөлийг уншигтун:
 

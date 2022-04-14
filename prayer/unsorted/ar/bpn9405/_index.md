@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9405 in العربية'
 author = "Bahá'u'lláh"
-tags = ['lang-ar', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ar', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-إتّحاد‎"]
 +++
 ﻿الهی الهی اجمع قلوب احبّائك علی الاتّحاد و اظهر لهم عنايتك العظمی و اجعلهم يتّبعون اوامرك و يحفظون شريعتك
 

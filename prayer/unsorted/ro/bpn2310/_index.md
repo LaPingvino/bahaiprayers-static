@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2310 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Post"]
 +++
 Slavă ţie, o, Doamne, Dumnezeul meu!
 Acestea sunt zilele în care Tu le-ai poruncit tuturor oamenilor să respecte postul, ca prin el să-şi poată purifica sufletele şi să se elibereze de orice ataşament faţă de oricine în afară de Tine şi ca din inimile lor să se poată înălţa ceea ce este demn de curtea maiestăţii Tale şi se cuvine sălaşului revelaţiei unicităţii Tale. Îngăduie, o, Domnul meu, ca acest post să poată deveni un râu cu ape dătătoare de viaţă şi să dăruiască virtutea cu care l-ai înzestrat. Curăţă prin el inimile slujitorilor Tăi pe care relele lumii nu au reuşit să-i împiedice de a se întoarce spre Numele Tău atotslăvit şi care nu au fost mişcaţi de zgomotul şi tumultul făcut de cei care au repudiat semnele Tale cele mai strălucitoare, ce au însoţit venirea Manifestării Tale, pe Care ai investit-o cu suveranitatea Ta, cu puterea Ta, cu maiestatea şi slava Ta. Aceştia sunt slujitorii care, de îndată ce chemarea Ta i-a ajuns, s-au grăbit înspre milostivirea Ta şi n-au fost îndepărtaţi de la Tine de către schimbările şi întâmplările acestei lumi, sau de oricare dintre limitările omeneşti.

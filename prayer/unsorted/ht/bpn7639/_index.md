@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7639 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Detache ou ak Lavi a"]
 +++
 Lwanj pou Ou, O Bondye mwen! Mwen se youn nan sèvitè Ou yo ki te kwè nan Ou ak nan siyn Ou yo. Ou wè jan mwen te apwoche mwen bò pòt mizèrikòd Ou, e mwen te vire figi mwen nan direksyon dous jantiyès lanmou Ou. Mwen sipliye Ou, poutèt tit Ou yo ki pi bon yo ak kalite Ou yo ki pi egzalte, pou ouvri devan figi mwen baryè bonte Ou yo. Epi, ede mwen fè sa ki bon, O Ou menm Ki posede tout non ak tout kalite yo!
 Mwen pòv, O Senyè mwen, se Ou menm Ki Rich. Mwen te fikse figi mwen sou Ou, epi mwen te detache mwen ak tout bagay esepte Ou menm. Mwen priye Ou pou pa anpeche mwen jwenn ti briz dous mizèrikòd Ou yo, epi pa kenbe mwen lwen sa Ou te sere pou sèvitè Ou te chwazi yo. 

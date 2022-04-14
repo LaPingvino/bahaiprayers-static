@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9542 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Bescherming"]
 +++
 In Naam van Hem, de Verhevene, de Allerhoogste, de Subliemste!
 Verheerlijkt zijt Gij, o Heer mijn God! O Gij die mijn God zijt, en mijn Meester, en mijn Heer, en mijn Steun, en mijn Hoop, en mijn Schuilplaats, en mijn Licht. Ik vraag U, bij Uw verborgen en welbewaarde Naam die niemand buiten Uzelf kent, de drager van deze Tafel te behoeden voor alle rampspoed en pestilentie, voor iedere boosaardige man of vrouw, voor het kwaad van de boosdoeners en voor de samenzweringen van de ongelovigen. Bewaar hem bovendien, o mijn God, voor alle pijn en kwelling, o Gij die de heerschappij over alle dingen in Uw hand houdt. Gij hebt waarlijk macht over alle dingen. Gij doet naar Uw wil en beschikt naar Uw behagen.

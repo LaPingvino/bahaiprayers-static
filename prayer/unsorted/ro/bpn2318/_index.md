@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2318 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tableta Marinarului Sfânt"]
 +++
 *Studiaţi Tableta Marinarului Sfânt ca să puteţi afla adevărul, şi luaţi seama că Frumuseţea Binecuvântată a prezis în întregime evenimentele viitoare. Fie ca cei ce înţeleg să ia aminte! - ‘Abdu’l-Bahá
 

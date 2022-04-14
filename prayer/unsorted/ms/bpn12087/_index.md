@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12087 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-KANAK-KANAK"]
 +++
 Ya Tuhan! Jadikanlah kanak-kanak ini tumbuh-tumbuhan yang cemerlang. Biarlah mereka tumbuh dan berkembang dalam Kebun Waadat-Mu, dan kurniakanlah kesegaran dan keindahan melalui curahan awan-awan Kerajaan Abhá.
 

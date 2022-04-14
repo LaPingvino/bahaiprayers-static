@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10323 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Förlåtelse"]
 +++
 Lovat vare Ditt namn, o min Gud och  alltings Gud, min härlighet och alltings härlighet, min åstundan och alltings åstundan, min styrka och alltings styrka, min Konung och alltings Konung, min Herre och alltings Herre, mitt mål och alltings mål, min drivkraft och alltings drivkraft!
 Jag bönfaller Dig att icke låta mig hållas tillbaka från Din kärleksfulla nåds ocean, ej heller fjärmas från Din närhets stränder.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5027 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-vi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lửa Thiêng"]
 +++
 ##Lửa Thiêng
 *(Bản kinh này để đọc trong những lúc biến loạn lớn đã được mặc khải khi Đức Baha'u'llah ở vào hoàn cảnh hiểm nghèo nhất)

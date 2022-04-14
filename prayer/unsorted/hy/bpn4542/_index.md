@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4542 in հայերեն'
 author = "Bahá'u'lláh"
-tags = ['lang-hy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ՄԻՋԻՆ ՊԱՐՏԱԴԻՐ ԱՂՈԹՔ"]
 +++
 արտասանվում է ամեն օր` առավոտյան, կեսօրին ու երեկոյան
 

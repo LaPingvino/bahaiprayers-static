@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2884 in Česky'
 author = "Abdu'l-Bahá"
-tags = ['lang-cs', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cs', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Modlitba za zesnulé"]
 +++
 Ó můj Bože! Ó Ty, Jenž odpouštíš hříchy! Ty, Jenž propůjčuješ dary! Ty, Jenž zbavuješ utrpení!
 

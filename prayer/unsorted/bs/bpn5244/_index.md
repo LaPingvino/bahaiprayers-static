@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5244 in Bosanski'
 author = "Abdu'l-Bahá"
-tags = ['lang-bs', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Duhovno Vijeće"]
 +++
 *Izgovarajte ovu molitvu na kraju sastanka Duhovnog vijeća:
 

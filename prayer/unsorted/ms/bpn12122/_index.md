@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12122 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-KETAKTERIKATAN"]
 +++
 Ya Tuhan, Tuhanku! Penuhilah daku satu cawan ketakterikatan kepada segala benda, dan dalam himpunan rahmat dan anugerah-Mu, riangkanlah daku dengan wain kasih sayang-Mu. Bebaskanlah daku daripada serangan hawa nafsu, putuskanlah daripada diriku belenggu duniawi ini, tariklah daku dengan keseronokan kepada alam keagungan-Mu, dan segarkanlah daku dalam kalangan dayang-dayang dengan nafas kesucian-Mu.
 

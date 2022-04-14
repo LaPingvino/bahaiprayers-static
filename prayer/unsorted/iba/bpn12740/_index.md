@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12740 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Papan Tulis Pengabas ‘Abdu’l-Bahá"]
 +++
 *(Sambiang tu, dipegari ulih ‘Abdu’l-Bahá, dibacha ba Sungkup Iya. Tau mega diguna maya sambiang kediri)
 *"Barang sapa nyampika sambiang tu enggau pemaruh ati sereta enggau ati ti ngundukka diri ia deka mai pengaga enggau pengelantang ngagai Pengasuh tu: ianya asai ke betemu betunga mua enggau Iya."

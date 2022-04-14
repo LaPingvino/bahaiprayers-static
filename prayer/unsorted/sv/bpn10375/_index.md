@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10375 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Martyrskap"]
 +++
 Han är Gud! 
 O Herre, min Gud! O Du som är de svagas hjälpare, de fattigas stödjare och förlossaren av de hjälplösa som vänder sig till Dig.

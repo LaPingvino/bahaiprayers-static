@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13349 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Praise and Thanksgiving"]
 +++
 Clodforer Dy Enwy, O fy Nuw.  Tystiaf na all unrhyw amgyffred ohonot, pa mor ryfeddol y bo, erioed esgyn i nefoedd. Dy wybodaeth, ac na all unrhyw foliant ohonot, pa mor ragorol y bo ehedeg i awyrgylch Dy ddoethineb.  Buost erioed ymhell uwchlaw cyrraedd a dirnadaeth amgyffred Dy weision, ac wedi Dy ddyrchafu yn anfesuradwy goruwch ymdrechion Dy gaethweision i fynegi Dy ddirgelwch.  Pa nerth a all creadur cysgodol hawlio pan yn wyneb yn wyneb â'r Hwn nas crewyd?  Tystiaf nad yw ystyriaethau pennaf y rhai oll a garant Dy Undod a myfyrdodau dwysaf y rhai oll a'th adnabyddant oll ond ffrwyth yr hyn a gynhyrchwyd trwy symudiad ysgrifell Dy orchymyn ac a anwyd trwy Dy ewyllys.  Tyngaf wrth Dy ogoniant, O Tydi yr hwn wyt Anwylyd fy enaid a Ffynnon fy mywyd!  Yn ddiamau o'm gwendid, di-allu ydwyf  i'th ddisgrifio a'th ganmol mewn modd sydd weddus o fawredd Dy ogoniant a rhagoriaeth Dy urddas.  Yn ymwybodol, gan hynny, o'm gwendid erfyniaf arnat, trwy Dy dosturi sy'n drech na'r holl greadigaeth, i dderbyn gan Dy weision yr hyn a allant gynnig yn Dy lwybr.  Nertha hwynt, felly, drwy Dy ras sy'n cadarnhau, i ddyrchafu Dy enw ac i gyhoeddi Dy fawl.  
 

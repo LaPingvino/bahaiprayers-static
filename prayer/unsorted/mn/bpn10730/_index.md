@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10730 in Монгол хэл'
 author = "Abdu'l-Bahá"
-tags = ['lang-mn', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mn', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-АБДУЛ-БАХАГИЙН ЭРГЭЛТИЙН ИЛГЭЭЛТ"]
 +++
 *(Энэхүү мөргөлийг Абдул-Бахагийн Бунханд уншдаг бөгөөд мөн хүн ганцаар байх үедээ уншиж болдог.)
 

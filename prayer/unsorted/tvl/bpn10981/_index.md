@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10981 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TAPELETI O TE AFI"]
 +++
 I te Igoa o te Atua, ko te Tafasili i te Favavau, ko te tafasili i te Lasi.  E tonu i loto o au fagasele ko velasia ne te afi o te mavae: Te fea a te mainaaga o te moli o Ou mata, O te Fakasele o lalolagi?
 Latou ko la e pili atu kia Koe ko oti ne liakina i te pogisa o te fanoanoa:  Te fea a te mainaaga o te taeao o Tou fakatasi mai, O te Manakooga o lalolagi?

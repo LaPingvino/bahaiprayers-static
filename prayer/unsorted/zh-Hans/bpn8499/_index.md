@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8499 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-神圣扶助"]
 +++
 主啊！我们可怜，恳请祢施与恩宠；我们贫穷，恳请祢惠赐富裕汪洋之一份；我们匮乏，恳请祢满足我们；我们卑下，恳请祢赏赐荣耀。空中的飞禽、地上的走兽，每天都有赖祢赐膳；众生百类，全蒙祢慈爱惠顾。
 切莫中断祢赐予这弱者的美妙恩宠，以祢的神力施惠于这无助的灵魂。

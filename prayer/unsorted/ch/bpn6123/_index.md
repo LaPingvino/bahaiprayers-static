@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6123 in Chamorro'
 author = "Bahá'u'lláh"
-tags = ['lang-ch', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ch', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-OTRO SIHA NA TINAITAI"]
 +++
 O Yu’os-hu! O Yu’os-hu! Na’fandaña’ i kora- son todu i setbente-Mu ya Un na’fanmanli’e’ ni dangkolon intension-Mu nu siha. Siña mohon u ma tattiyi siha i tinago’-Mu yan u konsigi siha gi areklao-Mu. O Yu’os, ayuda todu siha ni’ i mana’kekesiña mo’na yan na’i lokkue’ ni i minet- got na Un masetbe. O Yu’os, cha’-Mu dumidingu siha na maisa, giha pinekkat-ñiha mo’na ni i kan- det i tiningo’-Mu, ya na’magof i korason-ñiha ni guinaiya-Mu. Gof magahet, Hagu i Ayudante yan Sainan-ñiha.
 

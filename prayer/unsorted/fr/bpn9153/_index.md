@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9153 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Détachement"]
 +++
 Que de cœurs glacés s’embrasent au feu de ta cause, ô mon Dieu, et que d’esprits somnolents s’éveillent aux doux accents de ta voix ! Nombreux sont les étrangers qui cherchent refuge à l’ombre de l’arbre de ton unicité et innombrables les assoiffés qui soupirent en tes jours après la fontaine de tes eaux vivifiantes.
 Heureux qui se dirige vers toi et s’empresse d’atteindre l’aurore des lumières de ta face. Heureux qui, de tout son amour, se tourne vers l’orient de ta révélation et la source de ton inspiration. Heureux qui consacre en ton chemin ce que tu lui as accordé par bonté et faveur. Heureux qui, dans son ardent désir de toi, rejette tout sauf toi. Heureux qui jouit d’une intime communion avec toi et se détache de tous sauf de toi.

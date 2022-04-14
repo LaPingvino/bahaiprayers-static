@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3180 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Afsnyding"]
 +++
 Laat my, o my God, nader na U trek, en binne die grense van U hof vertoef, want verheid van U het my byna verteer. Laat my in die skaduwee van die vlerke van U welwillendheid rus, want die vlam van my afsondering van U het my hart binne my gesmelt. Trek my nader na die rivier wat werklik die lewe is, want my siel brand van dors in sy onophoudende soektog na U. My sugte, o my God, verkondig die bitterheid van my smart, en die trane wat ek stort verklaar my liefde vir U.
 

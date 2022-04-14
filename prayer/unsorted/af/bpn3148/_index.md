@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3148 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Vergifnis"]
 +++
 Verheerlik sy U, o Here my God! Ek smeek U by U Uitverkorenes, en by die Draers van Wat U aan Hulle toevertrou het, en by Hom Wat U verorden het om die Seël van U Profete en U Boodskappers te wees, om U aandenking my deelgenoot te maak, en U liefde my oogmerk, en U aangesig my doel, en U naam my lamp, en U wens my begeerte, en U plesier my behae.
 

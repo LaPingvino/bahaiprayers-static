@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4159 in Canadian Indigenous'
 author = "Báb"
-tags = ['lang-nai-CA', '', "Báb", "unsorted"]
+tags = ['lang-nai-CA', 'prayer-', "author-Báb", "category-unsorted", "cat-Iroquois"]
 +++
 Ka-en-keń na-kó-ren ne én-na-ya-ko-wké-nion ne éh-ren a-ye há-wih-te ne wen-do-réh-shon ji-ni-ho-gwé-nion ne Ni-yo! Se-weń-ron Ron-wa-sen-na-yen-ek Ni-yo! Ra-hon-ha ne Ni-yo! A-gwé-gon ron-was-yoh-ten-seh ta-non a-gwé-gon ra-ti-kwe-niéns-thane Ra-ho-wén-na.
 

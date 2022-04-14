@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12140 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MENGAJAR"]
 +++
 Ya Tuhan, Engkaulah Pencipta semua Manifestasi, Sumber kepada segala Sumber, Sumber segala Wahyu, dan Sumber segala Cahaya! Aku naik saksi bahawa dengan Nama-Mu syurga pengertian telah dihiasi, dan samudera ujaran telah bergelora, dan dispensasi-dispensasi pemeliharaan-Mu telah diumumkan kepada semua pengikut segala agama.
 

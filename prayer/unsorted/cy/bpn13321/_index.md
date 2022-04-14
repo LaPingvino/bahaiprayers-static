@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13321 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Short Obligatory Prayer"]
 +++
 *(I'w hadrodd unwaith bob dydd rhwng hanner dydd a machlud haul)
 

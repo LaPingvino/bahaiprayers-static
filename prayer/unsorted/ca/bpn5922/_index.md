@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5922 in Català'
 author = "Báb"
-tags = ['lang-ca', '', "Báb", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Báb", "category-unsorted", "cat-Protecció"]
 +++
 Ordena per mi, oh Senyor meu, i per aquells què creuen en Tu, el què consideris que sigui millor per nosaltres, tal com ha estat establert al Llibre Mare, car al palmell de la Teva mà Tu mantens les mesures exactes de totes les coses.
 Els Teus excel·lents dons descendeixen incessantment sobre els qui aprecien el Teu amor, i els meravellosos signes de les Teves bondats celestials són àmpliament escampats entre aquells qui reconeixen la Teva Unitat divina. Confiem a la Teva cura tot quant has destinat per nosaltres i T’implora’m ens concedeixis tot el bé què el Teu coneixement abasti.

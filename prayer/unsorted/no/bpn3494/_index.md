@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3494 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Barn"]
 +++
 Forherliget er du, o Herre min Gud! Jeg takker deg fordi du har skapt meg i dine dager og inngitt meg din kjærlighet og din kunnskap. Jeg bønnfaller deg, ved ditt navn, hvorved din visdoms og din ytrings skjønne perler ble bragt frem fra hjertenes skattkammer hos dem av dine tjenere som er deg nær, og hvorved ditt navns, den medlidendes, dagstjerne har kastet sin stråleglans over alle som er i din himmel og på din jord, om å skjenke meg, ved din nåde og gavmildhet, dine vidunderlige og skjulte gaver.
  

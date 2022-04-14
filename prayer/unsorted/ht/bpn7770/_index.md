@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7770 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Priyè pou Jèn nan"]
 +++
 ##Priyè pou Fèmen Jèn nan 
 

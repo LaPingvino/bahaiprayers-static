@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8664 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-艾哈迈德书简"]
 +++
 这些每日必诵祷文，加上另外几篇专用祷文，如《医治祷文》和《艾哈迈德书简》，被巴哈欧拉赋予了特殊效力和意义。因此，信徒应该给予重视，悉数背熟，以虔诚的信念和信心加以吟诵，这样，他们就能借助这些祷文与上帝更亲密地交流，更加充分地恪守祂的律法和训诫。
 ——引自守基·阿芬第授写的信函

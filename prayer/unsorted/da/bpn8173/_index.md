@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8173 in Dansk'
 author = "Báb"
-tags = ['lang-da', '', "Báb", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Báb", "category-unsorted", "cat-Troens Sejr"]
 +++
 O Herre! Gør Dine tålmodige tjenere sejrrige i Dine dage ved at skænke dem en behørig sejr, eftersom de har søgt martyriet på Din sti. Nedsend det til dem der vil bringe trøst til deres sind, vil glæde deres inderste væsen, indgive deres hjerter forvisning og deres legemer ro og få deres sjæle til at stige op til Guds, Den Mest Ophøjedes nærværelse, og opnå det højeste paradis og de herligheds tilflugtssteder, som Du har forudbestemt for mennesker med sand kundskab og dyd.
 

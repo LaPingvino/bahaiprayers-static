@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6569 in 한국어'
 author = "Abdu'l-Bahá"
-tags = ['lang-ko', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-어린이와 청소년"]
 +++
 이 젊은이를, 이 미천한 이에게
 

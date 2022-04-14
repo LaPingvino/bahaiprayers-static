@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2614 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Család"]
 +++
 Áldott az a pont, az a ház,
 az a hely, és a város,

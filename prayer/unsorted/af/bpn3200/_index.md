@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3200 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Standvastigheid"]
 +++
 O God, my God! Ek het met berou na U gekeer, en voorwaar U is die Vryspreker, die Medelydende.
 

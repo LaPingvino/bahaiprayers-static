@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13355 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Prayer for the Departed"]
 +++
 *Hon yw'r unig weddi orfodol a adroddir yn gynulleidfaol; rhaid i'w hadrodd gan un o'r credinwyr tra sefyll pawb. Nid oes rhaid troi tua'r Qiblih tra'n adrodd y weddi hon.
 *Kitáb-i-Aqdas

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11789 in Bidayuh'
 author = "Bahá'u'lláh"
-tags = ['lang-sne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Doa Sa’ant Nya’a Dek Kobos"]
 +++
 Iyoh leh Topa, bigatung ayuh leh Iyoh, Raja perinduk – bitulut bait bia dek pingungin! 
 Ngin pimudi tudu Ingan, Ingan, O Topa ku, Raja dek ogi kuasa ayuh. Oku ngakue Ingan dek kakue kuasa ayuh bia kekuatan Ingan, kedaulatan Ingan bia perinduk-bitulut bait Ingan, budi Ingan bia kuasa Ingan, Pingidip sadik Ingan bia Kesatuan sejati Ingan, pingudus Ingan duoh bigatung ngilobih dunia dotin bia sua dek daang eh. 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12016 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Nika Hutbasy"]
 +++
 Allanyň Jomart we Baý Ady bilen.
     Zowaly bolmadyk, ezelden ebedä çenli üýtgemeýän, hem-de Özi, Öz Birligine, Taýsyzlygyna, Binyýazdygyna we Belent mertebedigine güwä geçen Taňra alkyş bolsun!

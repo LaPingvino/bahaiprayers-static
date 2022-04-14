@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5744 in ภาษาไทย'
 author = "Bahá'u'lláh"
-tags = ['lang-th', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-th', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ธรรมจารึกอัคคี"]
 +++
 ##ธรรมจารึกอัคคี
 	ในนามของพระผู้เป็นเจ้า พระผู้ทรงบรมโบราณที่สุด พระผู้ทรงความยิ่งใหญ่ที่สุด

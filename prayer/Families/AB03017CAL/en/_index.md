@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB03017CAL in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "Families"]
+tags = ['lang-en', 'prayer-AB03017CAL', "author-Abdu'l-Bahá", "category-Families", "cat-Families"]
 +++
 #Husbands
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3163 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Vergaderings"]
 +++
 O U vriendelike Here! Hierdie is U dienaars wat in hierdie vergadering bymekaar gekom het, na U Koninkryk gekeer het en behoefte het aan U skenking en seëning. O U God! Openbaar en maak die tekens van U eenheid duidelik wat neergelê is in al die werklikhede van die lewe. Onthul en ontvou die deugde wat U in hierdie menslike werklikhede verberg en versteek het.
 

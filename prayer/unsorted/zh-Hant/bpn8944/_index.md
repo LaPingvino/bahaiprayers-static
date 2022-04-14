@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8944 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-聖航者書簡"]
 +++
 習讀聖航者書簡，你將認知真理，深思神聖美尊預見的未來事件。讓明悟者警惕。
 ——阿博都—巴哈

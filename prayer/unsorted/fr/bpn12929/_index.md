@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12929 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-26 Prières de ‘Abdu’l-Bahá Avril 2021"]
 +++
 Si généreux, si plein de grâce, ô toi, Seigneur, 
 Qui connais les tréfonds de mon âme et de mon cœur! 

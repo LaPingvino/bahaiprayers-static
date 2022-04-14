@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB02024 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "Martyrs and their families"]
+tags = ['lang-en', 'prayer-AB02024', "author-Abdu'l-Bahá", "category-Martyrs and their families", "cat-Martyrs and their families"]
 +++
 He is God!
 O Lord my God!  O Thou Helper of the feeble, Succorer of the poor and Deliverer of the helpless who turn unto Thee.

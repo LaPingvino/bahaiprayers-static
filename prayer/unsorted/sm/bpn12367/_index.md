@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12367 in Samoan'
 author = "Abdu'l-Bahá"
-tags = ['lang-sm', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-AID AND ASSISTANCE"]
 +++
 Lord! Pitiful are we, grant us Thy favor;…
      Le alii e! Ua augavale i matou, foa’i mai Lou finagalo alofa; e matitiva, liligi ifo i o matou luga se vaega mai le vasa o Lou tamaoaiga; e mana’ona’o, faamalilieina I matou e Lau Afio, e faatauvaa, aumai mo i matou Lou mamalu. O loo maua pea lava e manulele o le vanimonimo ma manu vaefa o le laueleele a latou meaai i aso ta’itasi mai ia te Oe, ma o tagata uma lava o loo mau vaega i Lau tausiga ma le alofa agalelei. ‘Aua ne’i aveesea lenei tagata vaivai mai Lou alofa tunoa matagofie, ma ia auina mai e Lou malosi Lau foa’ialofa i lenei tagata mafatia. 

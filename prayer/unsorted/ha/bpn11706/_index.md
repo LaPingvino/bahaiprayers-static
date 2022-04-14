@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11706 in Hausa'
 author = "Abdu'l-Bahá"
-tags = ['lang-ha', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Aure"]
 +++
 *Ginshiƙin aure a cikin addinin baha’i shīnē, haɗin kai da shiri tsakānin ango da amarya. Amma, yā cancanta su yi hattara matuƙa, kuma su kōyi bin hanyar sanin jūna da kyau. Yā kamata wannan igiya wadda bā ta cirēwa, ta danganta bisa ma’āmala mai ƙwāri, dōmin shinfiɗa shiri, aminci da haɗin kai, sabōda kaiwa ga rāyuwar har abada.
 *Abdul’Baha

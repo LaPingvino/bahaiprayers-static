@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8627 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-坚定信心"]
 +++
 上帝啊，我的上帝！我已悔改并转向祢。诚然！祢是宽恕者，怜悯者。
 上帝啊，我的上帝！我已重返祢的怀抱。诚然！祢是永恒宽恕者，宽仁者。

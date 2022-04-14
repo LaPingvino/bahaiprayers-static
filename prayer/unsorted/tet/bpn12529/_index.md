@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12529 in Tetum'
 author = "Bahá'u'lláh"
-tags = ['lang-tet', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tet', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Orasaun Obrigatóriu"]
 +++
 ##Orasaun Obrigatóriu
 Ha’u hatudu sasin, Oh ha’u-nia Maromak, katak Ita-Boot kria ha’u atu hatene Ita-Boot no hahi’i Ita-Boot. Ha’u fó sasin, iha momentu ida-ne’e, ba ha’u-nia kbiit-laek no ba Ita-Boot nia kbiit, ba ha’u-nia kiak no ba Ita-Boot nia rikusoin. 

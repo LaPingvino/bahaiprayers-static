@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4697 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Səmavi bəxşiş duaları"]
 +++
 Sən görürsən, Ey mənim Allahım, Sənin sevimlilərin Sənin məxluqların arasında asilərlə və Sənin xalqın arasında şər adamlarla necə əhatə olunmuşlar. Bir torpaq qalmayıb ki, orada Sənin aşiqlərinin fəryadı və seçilmişlərinin ah-naləsi ucalmasın. Səni and verirəm Sənin Ən Böyük Adına, qüvvət əlini Özünün qüdrət qoynundan çıxar və onunla Səni sevənlərə yardım eylə.
 

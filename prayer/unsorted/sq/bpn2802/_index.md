@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2802 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Natë"]
 +++
 O Perëndia im, Mjeshtri im, Qëllimi i dëshirës sime! Ky, shërbëtori Yt, kërkon të flejë nën strehën e mëshirës Sate dhe të pushojë nën tendën e mirësisë Sate, duke u lutur t'i japësh kujdesin Tënd e mbrojtjen Tënde.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8142 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Åndelige Egenskaber"]
 +++
 O Gud, min Gud! Disse er Dine svage tjenere; de er Dine trofaste trælle og Dine tjenerinder, der har bøjet sig for Din ophøjede tale og ydmyget sig ved Din lysende Tærskel og båret vidnesbyrd om Din enhed, hvorved solen er blevet bragt til at skinne i sin middagshøjdes stråleglans. De har lyttet til den kalden, Du opløftede fra Dit skjulte rige, og med hjerter skælvende af kærlighed og lyksalighed har de besvaret Din kalden.
 

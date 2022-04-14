@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8492 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-长篇必诵祷文"]
 +++
 *每日吟诵一次
 *凡吟诵本祷文者须起身站立，面向上帝；在肃立时须从右向左环视，有如企盼主——至仁者、怜悯者——之慈悲。然后吟诵：

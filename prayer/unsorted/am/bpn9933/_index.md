@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9933 in አማርኛ.'
 author = "Bahá'u'lláh"
-tags = ['lang-am', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-am', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-የባሃኢ መዋጮ (Contributions)"]
 +++
 *Contributions
 

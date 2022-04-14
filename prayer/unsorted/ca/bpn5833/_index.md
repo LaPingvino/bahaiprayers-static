@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5833 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-De Les Taules Del Pla Diví"]
 +++
 Qualsevol què emprengui un viatge d’ensenyança a qualsevol lloc, que reciti aquesta oració dia i nit durant els seus viatges a l’estranger.
 

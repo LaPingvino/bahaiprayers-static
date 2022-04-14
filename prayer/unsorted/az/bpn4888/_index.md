@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4888 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Hüququllah-Allahın Hüququ"]
 +++
 Alqış Sənə, Ey mənim Şəfqətli Rəbbim! Səni and verirəm Sənin müqəddəs bəyan dəryanın təlatümünə və Sənin ali hökmranlığının saysız nişanələrinə, Sənin Allahlığının qəti dəlillərinə və Sənin elmində gizli qalan sirlərinə - mənə Sənə və Sənin seçilmişlərinə xidmət etmək fəzli əta eylə və məni qadir et ki, Kitabında hökm etdiyin Hüququnu lazımınca ödəyim.
 

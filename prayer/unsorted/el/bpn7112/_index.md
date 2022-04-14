@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7112 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ΕΓΓΥΤΗΤΑΣ ΣΤΟ ΘΕΟ"]
 +++
 Ω Κύριε, Θεέ µου και Καταφύγιό µου στη συµφορά µου! Ασπίδα µου και Σκέπη µου στις οδύνες µου! Άσυλο και Καταφύγιό µου σε ώρα ανάγκης και Σύντροφέ µου στη µοναξιά µου!
 

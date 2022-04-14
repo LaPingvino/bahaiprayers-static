@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11327 in தமிழ்'
 author = "Abdu'l-Bahá"
-tags = ['lang-ta', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-கூட்டங்கள்"]
 +++
 என் கடவுளே! என் கடவுளே! மெய்யாகவே, இவ்வூழியர்கள் உமது கருணை என்னும் இராஜ்யத்தினைப் பூஜித்தவர்களாக உந்தன்பால் திரும்பியுள்ளனர். 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3508 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Bønn for de døde"]
 +++
 O min Gud! O du som tilgir synd, som skjenker gaver, som fordriver lidelser!
  

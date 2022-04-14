@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6137 in Euskara'
 author = "Bahá'u'lláh"
-tags = ['lang-eu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-eu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gorespen Jainkoari"]
 +++
 Zeure betikotasunezko ur garden eta gozoetatik edaten emaidazu,ene Jauna,
 eta Zure izatezko zuhaitzaren igalietatik jaten emaidazu,ene Itxaropena!

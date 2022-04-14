@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12454 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Oshikwanyama : EINDILO LO VAFI"]
 +++
 Kalunga kange! Ove ou hokufapo omatimba! Omuyandyi womilongelo, Omupululipo wo maehameko! 
 	Oshili, ohandi kwehela ukufilepo, omanyono au afiyapo oshikutu shou kwadu ndele ta londo kounyuni wopamhepo. 

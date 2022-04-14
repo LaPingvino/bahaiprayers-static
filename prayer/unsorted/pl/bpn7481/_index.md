@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7481 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tablica Świętego Żeglarza"]
 +++
 *„Wczytajcie się w Tablicę Świętego Żeglarza, abyście poznali prawdę i pamiętali, że Błogosławione Piękno w pełni przepowiedziało przyszłe wypadki. Niech będzie to przestrogą dla tych, którzy są świadomi.”  - ʿAbdu’l-Bahá
 

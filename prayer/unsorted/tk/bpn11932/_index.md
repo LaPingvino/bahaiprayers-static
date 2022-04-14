@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11932 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Dostluk We Agzybirlik"]
 +++
 Hu’Alla.
     Eý Mähriban Taňrym! Bary bir taýpanyň agzasy hem Seniň dergähiň bendeleri bolup biler ýaly ähli adamzady bir nesilden ýaratdyň. Olara Öz Jomartlyk öýüň saýasynda pena berdiň. 

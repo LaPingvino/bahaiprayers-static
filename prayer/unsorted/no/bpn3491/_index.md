@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3491 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Aften"]
 +++
 Hvordan kan jeg velge å sove, o Gud, min Gud, når de som lengter etter deg ikke får søvn på sine øyne på grunn av sin adskillelse fra deg; og hvordan kan jeg legge meg for å hvile så lenge de som elsker deg lider sjelekvaler fordi de er langt borte fra ditt nærvær?
  

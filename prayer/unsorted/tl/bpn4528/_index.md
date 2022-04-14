@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4528 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Para Sa Yumao"]
 +++
 Luwalhati sa Iyo, O Panginoon kong Diyos! Huwag Mong abain siyang Iyong itinaas sa pamamagitan ng kapangyarihan ng Iyong walang hanggang paghahari, at huwag ilayo sa Iyo siyang niloob Mong makapasok sa tabernakulo ng Iyong kawalang hanggan. Ititiwalag Mo ba, O aking Diyos, siyang nilukuban Mo ng Iyong Kapangyarihan at ilalayo Mo ba siya sa Iyo, O aking Hangarin, siyang Ikaw ang naging kanlungan? Maari Mo ba siyang hamakin, siyang itinaas Mo, o malilimot Mo ba siyang binigyan Mo ng kakayahang umalaala sa Iyo?
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11201 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Canada"]
 +++
 ##Revealed to the Bahá’ís of Canada
 

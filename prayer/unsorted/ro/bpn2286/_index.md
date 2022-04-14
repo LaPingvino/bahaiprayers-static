@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2286 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Soţ"]
 +++
 O, Doamne, Dumnezeul meu! Iată această slujitoare a Ta invocându-Te pe Tine, punându-şi încrederea în Tine, întorcându-şi faţa spre Tine, implorându-Te să reverşi asupra ei binecuvântările Tale cereşti, să-i dezvălui tainele Tale spirituale şi să cobori asupra ei luminile Divinităţii Tale.
 

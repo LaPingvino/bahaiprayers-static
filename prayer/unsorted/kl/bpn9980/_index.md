@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9980 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-kl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Iisinnginniarneq"]
 +++
 Ullut makku, Guutiga-aa, tassaapput Illit kiffannut peqqusinikkut iisinnginniarnermik maleruaaffigeqqusatit. Taakku aqqutigalugit Illit Inatsisivit Atuagaata aallaqqaasernera pinnersarpat, Illit pinngortitannut saqqummersillugu, aammalu Illit Peqqusavit Erlinnartuusivii qulaarpatit kikkunnut tamanut Illit qilanniittunut tamanullu Illit nunanniittunut. Ulluni taakkunani nalunaaquttap akunneri tamaasa piginnaassutsinik immikkut ittunik pilersorsimavatit, tamanit paasissaanngitsunit taamaallaat Ilinnit, ilisimassutsivimmi suut tamaasa imarimmagit. Aammattaaq tarningit tamaasa nukiup taassuma ilaanik tuniorarsimavatit Illit Inatsisitit pillugit Allakkat aqqutigalugu aammalu Eqqartuussinerpit tunuartinneqarsinnaanngitsup Allagaatai tunaartaralugit. Atuakkat Allakkallu taakku qupperneri tamaasa Illit nunarsuarmi inuiannut kinguaariinnullu pigititassanngortissimavatit.
 

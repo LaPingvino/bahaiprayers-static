@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12297 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-LOTO-MMAU / FAKATUANAAKI"]
 +++
 O te Atua, toku Atua!  Ko oti au ne fuli atu i toku salamo kia Koe, kae e tonu a Koe ko te Fakagamalo o agasala, ko te Alofa-Atafai.  
   

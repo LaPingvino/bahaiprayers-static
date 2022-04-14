@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5537 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-「聖なる計画の書簡」のティーチングの祈り"]
 +++
 神の芳香ほうこうを伝え広める者は、毎朝この祈りを唱えよ。
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7841 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Dalle Tavole Del Piano Divino"]
 +++
 ##RIVELATA AI BAHÁ’ÍDEL CANADA E GROENLANDIA
 Lode sia a Te, o mio Dio! Questi sono i Tuoi servi, estasiati dalle fragranze della Tua misericordia, accesi dal fuoco che arde nel-l’albero della Tua unicità e i loro occhi sono illuminati dalla visione degli splendori della luce che brilla sul Sinai della Tua unicità.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5307 in Bosanski'
 author = "Abdu'l-Bahá"
-tags = ['lang-bs', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Umrli"]
 +++
 O moj Bože! Oprostitelju grijeha, udjelitelju darova, otklonitelju tuge!
 Uistinu, preklinjem Te da oprostiš grijehe

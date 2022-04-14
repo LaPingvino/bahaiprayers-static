@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3172 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lof en Dankbaarheid"]
 +++
 In die Naam van God, die Allerhoogste! Verheerlik en geprys sy U, Here, God, die ALvermoënde! U voor Wie se wysheid die verstandige te kort kom en faal, voor Wie se kennis die geleerde sy onkunde bely, voor Wie se mag die sterke swak word, voor Wie se rykdom die ryke van sy armoede getuig, voor Wie se lig die verligte in duisternis verlore is, na die altaar van Wie se kennis die kern van alle insig keer en rondom die heiligdom van Wie se aanwesigheid die siele van die hele mensdom ronddraai.
 

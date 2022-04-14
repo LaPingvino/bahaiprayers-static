@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4886 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Atəş Lövhü, Əhməd Lövhü, Müqəddəs Dənizçi lövhü"]
 +++
 *Novruz, 20 və bəzi illər 21 Martda başlanır və Azərbaycan bəhailəri üçün yeni ilin birinci günüdür
 

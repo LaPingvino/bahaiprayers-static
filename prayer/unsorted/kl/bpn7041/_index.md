@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7041 in Kalaallisut'
 author = "Abdu'l-Bahá"
-tags = ['lang-kl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-kl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ajornartorsiutit misiligaanerillu"]
 +++
 Naalagaq-aa, Guutiga naalliunnermit nalaarneqaraangama qimarravigisartagara. Aliasukkuma Eqqornaveeqqutigalugulu Qimarravigisartagara! Eqqissarfiga ajorsaruma Qimarravigisagara kiserliorumalu Aappersuisora. Anniaateqaruma Tuppallersaasiga avinngarusimaninnilu asannitsigalugu Ikinngutigisagara. Aliasuutimma anniaataannik peersitsisartoq ajortuliannillu Isumakkeerisoq. 
 Tamaviaarlunga Illit kisivit saaffigaakkit, uummatikkullu iluunngarlunga, tarninnik oqqannillu qinnuigaakkit Ataasiussutsivit guuterpaluttup piffissarititaani Illit piumasannut akerliusunut tamanut assersimaqqullunga, mingutsisitaanernillu tamanit Saammaannerpit orpiata alannguanut oqquiniarnissamut uannik akornusiisinnaasunut minguiannga, minguitsooqqullunga isornaateqanngitsooqqullungalu. 

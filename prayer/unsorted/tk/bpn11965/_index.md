@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11965 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Merhumlar Üçin Dogalar"]
 +++
 Hu’Alla.
     Eý Taýsyz Taňry! Bu eziz dostuňy kabul et, başyny Ýalkaw telpegi bilen beze, Ebedi jahanyň jahanbanlyk täjini ber we asmanly baýlyklary bilen başyna zynat ber. Ol didara muşdakdy, Öz aýanlyk meýlisiňe ýoluny aç. Ol görmäge zardy, oňa duşuşyk ýalkymyňy saç. Arzuwly perwanady, Jemalyň çyrasyna golaýlat. Köp ýanan bilbildi, ony gülüň wysalyna gowşur.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12285 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TUPU AKA FAK-TE-AGAAGA"]
 +++
 E mana a Koe, O te Aliki toku Atua! O te Aliki toku Atua!  E tuku atua kia Koe a fakafetai pela mo te kalagagina mai a Koe kia au i Ou aso, kae fagai mai au ki Tou alofa mo Tou poto.  Au e akai totuli kia Koe, i Tou igoa tela a penina gali o Tou atamai mo Tau faipatiiga ne aumai ki tua o koloa o loto o Au tavini kola ko pilipili atu kia Koe, kae e tela aa te Fetu-Ao o Tou igoa, ko te Atafai, ko oti ne sulu atu a tena mainaaga ki luga i tino katoa i Tou lagi mo i luga i Tou lalolagi, ke tufa mai kia au, mai i Tou alofafakamagalo mo te maukola, mo Au alofaaga fakaofoofogia kae funa.  
   

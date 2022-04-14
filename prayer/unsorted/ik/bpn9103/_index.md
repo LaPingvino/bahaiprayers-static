@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9103 in Alaska Native'
 author = "Báb"
-tags = ['lang-ik', '', "Báb", "unsorted"]
+tags = ['lang-ik', 'prayer-', "author-Báb", "category-unsorted", "cat-Iñupiaq - North Slope Dialect"]
 +++
 **Remover of Difficulties
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9682 in Nederlands'
 author = "Báb"
-tags = ['lang-nl', '', "Báb", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Báb", "category-unsorted", "cat-Onthechting"]
 +++
 O Heer! Bij U zoek ik mijn toevlucht en naar al Uw tekenen richt ik mijn hart.
 O Heer! Op reis of thuis, tijdens mijn bezigheden of op mijn werk, vertrouw ik geheel op U.

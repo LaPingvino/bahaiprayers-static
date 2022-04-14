@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4880 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Əyyami-Ha, Orucluq, Novruz üçün dualar"]
 +++
 *Əlavə Günlər, Fevralın 26-dan Martın 1-dək, hər iki tarix daxil olmaqla, Orucluğa hazırlaşmaq gunləri, qonaqpərvərlik günləri, xeyriyyə və hədiyyələr bağışlamaq günləridir
 

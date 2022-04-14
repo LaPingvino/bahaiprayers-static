@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH05894 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "Detachment"]
+tags = ['lang-en', 'prayer-BH05894', "author-Bahá'u'lláh", "category-Detachment", "cat-Detachment"]
 +++
 I know not, O my God, what the Fire is which Thou didst kindle in Thy land.  Earth can never cloud its splendor, nor water quench its flame. All the peoples of the world are powerless to resist its force.  Great is the blessedness of him that hath drawn nigh unto it, and heard its roaring.
 Some, O my God, Thou didst, through Thy strengthening grace, enable to approach it, while others Thou didst keep back by reason of what their hands have wrought in Thy days.  Whoso hath hasted towards it and attained unto it hath, in his eagerness to gaze on Thy beauty, yielded his life in Thy path, and ascended unto Thee, wholly detached from aught else except Thyself.

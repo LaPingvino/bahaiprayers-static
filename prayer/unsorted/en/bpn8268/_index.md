@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8268 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Birth of The Báb"]
 +++
 He is the Eternal, the One, the Single, the All-Possessing, the Most Exalted.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10526 in Kalaallisut'
 author = "Abdu'l-Bahá"
-tags = ['lang-kl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-kl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Meeqqat inuusuttullu"]
 +++
 Guuti-aa! Meeqqat uku ilinniartikkit. Meeqqat taakku Illit naatsiivinni
 paarnaqutilimmi naasortaapput, Narsaatinni ivigarissumi sikkernerit,

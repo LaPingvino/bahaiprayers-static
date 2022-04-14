@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11810 in Bidayuh'
 author = "Bahá'u'lláh"
-tags = ['lang-sne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Doa Onu Singalom"]
 +++
 *(Takal Aluak Dik Nye Yak Bo’os)
 Oni ngopak oku yak bo’os! O Topa, Topa ku, simo boton bala dek sukup ingin tudu Ingan aluak giliga setegal tipisah sok Ingan, bia oni ngopak oku ngonyuang guling tilonah sodang jiwa-jiwa perinduk Ingan susah otin kajon selamak iyoh bijuak sok pimonog Ingan?

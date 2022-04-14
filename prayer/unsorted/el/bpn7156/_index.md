@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7156 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ΠΝΕΥΜΑΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ"]
 +++
 ΓΙΑ ΒΡΕΦΗ
 

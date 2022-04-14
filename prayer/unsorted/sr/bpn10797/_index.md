@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10797 in Srpski српски'
 author = "Bahá'u'lláh"
-tags = ['lang-sr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TABLICA  POHOĐENJA"]
 +++
 *(Ova molitva se čita u Bahulahovom i u Babovom hramu. Obično se čita i prilikom obeležavanja godišnjica Njihovih rođenja i smrti.)
 

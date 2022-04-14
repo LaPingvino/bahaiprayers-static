@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12976 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-THE FAST"]
 +++
 *Taim bilong Lusim Kaikai em long mun bilong ‘Ala (Antap), long namba 2 de bilong mun Mas I go inap long namba 20 de bilong mun Mas.  Long ol dispela de long taim bilong san ol Bahá’í i no ken dring o kaikai.  Em taim bilong prea bilong strongim spirit.  Husat man o meri i no winim 15 krismas o em i raun o em i gat sik o em i lapun tru, em i no mas lusim kaikai.  Na tu mama husat i gat bel o em i givim susu, em i no mas lusim kaikai long dispela taim. 
  

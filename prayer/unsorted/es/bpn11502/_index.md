@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11502 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Cualidades espirituales"]
 +++
 ¡Oh Señor, mi Dios y mi Refugio en la aflicción! ¡Mi Escudo y mi Amparo en mis desdichas! ¡Mi Asilo y Protección en momentos de necesidad y, en mi soledad, mi Compañero! ¡En mi angustia, mi Consuelo, y en mi desamparo, un Amigo cariñoso! ¡El que elimina el dolor de mis tristezas y el que perdona mis pecados!
 Hacia Ti me vuelvo por completo, implorándote fervientemente con todo mi corazón, mi mente y mi voz que me protejas de todo cuanto sea contrario a Tu voluntad en este ciclo de Tu divina unidad, y me purifiques de toda contaminación que me impida buscar, limpio e inmaculado, la sombra del árbol de Tu gracia.

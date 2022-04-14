@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5588 in ภาษาไทย'
 author = "Bahá'u'lláh"
-tags = ['lang-th', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-th', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-บทอธิษฐานบังคับประจำวันบทปานกลาง"]
 +++
 ##บทอธิษฐานบังคับประจำวันบทปานกลาง
 

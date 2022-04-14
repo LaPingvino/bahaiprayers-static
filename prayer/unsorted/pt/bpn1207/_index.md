@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1207 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Firmeza e Constância"]
 +++
 Magnificado seja o Teu nome, ó meu Deus! Dou testemunho que se os Teus servos se volvessem para Ti com os olhos que Tu neles criaste, e com os ouvidos com os quais os dotaste, todos seriam arrebatados por uma única palavra enviada da mão direita do trono da Tua majestade. Apenas essa palavra seria suficiente para iluminar as suas faces, tranquilizar os seus corações, e fazer com que as suas almas se elevassem à atmosfera da Tua grande glória e ascendessem ao céu da Tua soberania.
 Imploro-Te, ó Tu que és o Senhor de todos os nomes e o Governante tanto da terra como do céu, que concedas a todos os que Te são caros uma taça da Tua misericórdia nos Teus dias, para que, ao sorvê-la, sejam despertados os corações dos Teus servos. Capacita-os, também, ó meu Deus, a serem como a chuva que cai das nuvens da Tua graça, e como o vento que sopra as fragrâncias primaveris da Tua amorosa bondade, e que através deles o solo dos corações das Tuas criaturas sejam cobertos de verde vegetação, e que possam dar nascimento às coisas que exalarão a sua fragrância sobre todo o Teu domínio, para que todos possam perceber o doce perfume que se exala do Manto da Tua Revelação. Poderoso és para fazer o que Te apraz.

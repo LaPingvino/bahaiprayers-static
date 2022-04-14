@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11717 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ɗaukaka"]
 +++
 Yā Allah, ka sanyaya, kuma ka farinta rūhuna. Tsarkaka zūciyāta. Haskaka hankalīna. Nā damƙa dukan al’amurāna cikin hannunka. Kai nē shūgabāna da maɓūyata. Bā nā son zama cikin baƙin rai da hushi. Nā fi son zama cikin farin ciki da murna. 
 Yā Ubangijina, bā ni son zato da azāba su māmāye ni.

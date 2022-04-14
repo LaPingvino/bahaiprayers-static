@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13031 in Melpa'
 author = "Bahá'u'lláh"
-tags = ['lang-med', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-med', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TENGDUI ATENGA KINTINGA"]
 +++
 *Atenga kägl ant keng orong pomena, Bahá’í wamp pora tenta tenta nek näi.  Koemp keta na ki na pora uglumi rokon Bahá’u’lláh nga alta morom illa koemp keta orong dokon molkon atenga rui.
 

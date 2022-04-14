@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8670 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-朝圣书简"]
 +++
 这篇由阿博都—巴哈所启示的祷文应在祂陵殿前吟诵，也可以作为私用祷文。
 凡谦卑热情地吟诵此祷文者，都会使这位圣仆内心宽慰、喜悦，犹如面对面地觐见祂的圣容。

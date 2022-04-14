@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8772 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-短篇必誦禱文"]
 +++
 *每日中午吟誦一次
 

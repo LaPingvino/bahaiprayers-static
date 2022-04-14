@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12958 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MIDNIGHT"]
 +++
 O man, husat i painim Trupela Tok!  Sapos yu laikim bai God i opim ai bilong yu, orait yu mas askim strong long God, prea long En na tingting strong long En long biknait na tok: 
  

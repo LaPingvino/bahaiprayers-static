@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4097 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ticības izplatīšanai - Lūgšanas no Dievišķā Plāna Vēstulēm"]
 +++
 *Ikvienai dvēselei, kas ceļo pa šo štatu pilsētām, ciemiem un miestiņiem šajos štatos un kas ir apņēmusies izplatīt Dieva mācību, katru rītu jāpārlasa šī lūgšana.
 

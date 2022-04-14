@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6056 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Otjiherero: OTJIJA NDJEWA"]
 +++
 *(Omapanga ayehe yaMukuru yeso kuyandja ko oviyandjewa otja komuinyo we puma yenene mohange ku ngamwa Omuitavere, Mapanga waMukuru! Kamuna ku tjiwa kutja tjima uyandja oviyandjewa vyenu imbi, okutja okukuna kwenu, noupandi, noma randasaneno wenu  mayekakara omaningandu  tjinene. Umwe nguma yandja no mutima omuwa eye mapewa tjimwe otjiwa          komomurungu  waNdjambi mo watjiri Muhona omunamwinyo mayandja  kuimba  mbeyandja outumbe  wawo  mOngamburiro Ye )
 

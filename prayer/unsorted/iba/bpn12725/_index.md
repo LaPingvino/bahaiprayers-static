@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12725 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-AYYÁM-I-HÁ"]
 +++
 *(Ayyám-i-Há patut nyadi maya endur nyendia diri ngintu puasa, maya endur nyamu orang, chariti, sereta beberi tepa.)
   Petara aku, Api aku enggau Penampak aku! Hari ti diberi

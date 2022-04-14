@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12010 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-“Ha” Eýýamynyň Ýazgysy"]
 +++
 Bismi-el-Agzam!
     Eý meniň Taňrym, Eý Ataşym, Eý Yşygym! Eý atlaryň Eýesi! Ynha Kitabyňda “Ha” Eýýamy diýip atlandyran günleriň ýetip geldi.

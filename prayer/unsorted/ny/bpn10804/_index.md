@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10804 in Chichewa'
 author = "Bahá'u'lláh"
-tags = ['lang-ny', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ny', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MADZULO"]
 +++
 O Mulungu wanga, Mbuye wanga, mathero Achofuna 
 changa, uyu, wantchito Wanu, afuna kugona mum’thunzi wa chifundo Chanu, ndikupumula pansi pa chifungatira cha chisomo Chanu, akupempha chisamaliro Chanu ndi chitetezo Chanu. 

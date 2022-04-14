@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2724 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Segítségkérés"]
 +++
 Ó, Isten, én Istenem! Íme esendő alattvalóid, kik a Te hűséges szolgáid és szolgálóleányaid, kik meghajtották magukat magasztos Kijelentésed előtt és alázattal hajoltak meg fényed Küszöbe előtt, és tanúságot tettek Egységedről, melyen keresztül delelői tündöklésben sugárzott elő a Nap. Hallgattak ők hívásodra, mely rejtett Birodalmadból hallatszott, és szeretettől és elragadtatástól remegő szívvel válaszoltak hívó Szavadra.
 

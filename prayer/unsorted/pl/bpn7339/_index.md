@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7339 in Polski'
 author = "Báb"
-tags = ['lang-pl', '', "Báb", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Báb", "category-unsorted", "cat-Ochrona"]
 +++
 Przeznacz dla mnie, o mój Panie, i dla tych, którzy wierzą w Ciebie, to, co wedle swojej oceny uznajesz dla nas za najlepsze, tak jak zostało ustanowione w Księdze Matce, albowiem Ty w swoich rękach trzymasz określone miary wszystkich rzeczy.
    

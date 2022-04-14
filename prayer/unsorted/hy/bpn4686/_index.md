@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4686 in հայերեն'
 author = "Bahá'u'lláh"
-tags = ['lang-hy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ՀՐԵ ՀՈՒՇԱՏԱԽՏԱԿ"]
 +++
 Հանուն Աստծու` Նախասկզբնականի, Ամենամեծագույնի:
 Հիրավի, բաժանության կրակը կրծում է ազնվագույն սրտերը: Որտե՞ղ է Քո Դեմքի լույսի արտացոլանքը,

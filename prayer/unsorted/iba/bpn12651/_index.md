@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12651 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-NGAJAR"]
 +++
 Uji barang sapa ti deka bejalai ngajar ngagai tempat bukai, bacha enggau silik sambiang tu baika nya ba bukit, ba padang pasir, ba tanah enggau ba tasik:
  O Petara! O Petara! Nuan meda pengelemi, pemaruh enggau basa aku nunga utai tempa Nuan; taja pia, aku udah arap bendar ke Nuan lalu angkat ngerembaika ajar Nuan ba bala pengasuh nuan ti kering, bepanggai ba kuasa enggau penegap Nuan.

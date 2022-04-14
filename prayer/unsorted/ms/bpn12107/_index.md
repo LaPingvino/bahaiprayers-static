@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12107 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-KESATUAN"]
 +++
 Kemuliaan bagi-Mu, Ya Tuhan, atas         penjelmaan cinta-Mu kepada manusia! Ya     Engkau yang adalah Kehidupan dan Cahaya kami,         bimbinglah hamba-hamba-Mu di jalan-Mu dan jadikanlah kami kaya dengan Engkau dan bebas daripada segala sesuatu kecuali Engkau. Ya Tuhan, ajarlah kami Keesaan-Mu dan berilah kami   kesedaran mengenai Kesatuan-Mu, agar kami tidak dapat melihat sesiapa pun kecuali Engkau. Engkaulah Yang Maha Pengasih dan Pemberi Anugerah.
 

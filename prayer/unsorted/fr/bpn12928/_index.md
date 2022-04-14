@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12928 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-26 Prières de ‘Abdu’l-Bahá Avril 2021"]
 +++
 Il est Dieu. 
 Ô Dieu, mon Dieu! Totalement soumis et avec une ferveur, une humilité et une dévotion absolues, je t’implore, de mes lèvres et de mon cœur, de mon esprit et de mon âme, de ma raison et de ma conscience, d’exaucer le plus cher de tous les désirs, d’attribuer la plus méritoire de toutes les actions et de conférer honneur et perfection, faveur et beauté, prospérité et salut à cette famille qui s’est hâtée vers ton ombre protectrice à l’aube de ton matin resplendissant et a cherché refuge dans ton havre de paix et ta puissante forteresse. En vérité, ces âmes ont entendu ton appel, se sont approchées de ton seuil, ont été enflammées par le feu de ton amour et transportées par le souffle de ta sainteté. Elles sont restées constantes au service de ta cause, humbles devant ta face et nobles sous ton ombre protectrice. Elles sont reconnues comme portant ton nom parmi ton peuple et elles te mentionnent parmi tes serviteurs. 

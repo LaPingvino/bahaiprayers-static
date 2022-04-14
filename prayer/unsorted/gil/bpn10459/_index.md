@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10459 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-gil', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Te Aki Mamatam"]
 +++
 Ko na neboaki, te Uea ae Atuau.  I bubutii Nakoim ma te nanorinano n te Kaotioti aei are e bitaki iai te ro nakon te oota are e kateaki iai te Tembora ma n ataaki iai Koroboki aika a Tabu ma n taorababaa iai Taekam, bwa e na reke irou ao irouia aika a raoiroi, te aro ae ti na konaa n rierakea iai karawa nakon Mimitongim are akea tiana ao are e na kamaunai ara nanokokoraki are e tauiira man namakinan rinra ni mwaneaban te ikotaki.
 Bon ngai temanna, au Uea, are e a tia n taua roon Am aakoi, ma ni kanim baina nakon Am nanoanga ma Am tangira.  Ko na anganai ma raou aika a tangira raoiroin te maiu aei ao are e na roko.  Anganiia Am bwaintangira ae e raba are Ko kataua i bukiia aika a moa riki mai buakoia Am karikibwai.

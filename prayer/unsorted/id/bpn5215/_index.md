@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5215 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Naw-Ruz"]
 +++
 ##Loh Ridwan 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8263 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Martyrdom of the Báb"]
 +++
 #Excerpt from the Súriy-i-Mulúk
 ##Súrih of the Kings

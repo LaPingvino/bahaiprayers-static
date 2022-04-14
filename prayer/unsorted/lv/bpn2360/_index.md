@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2360 in Latviešu'
 author = "Bahá'u'lláh"
-tags = ['lang-lv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Atsacīšanās"]
 +++
 Atļauj man, ak mans Dievs, tiekties Tava tuvuma un mājot Tava Galma lokā, jo tālums no Tevis ir nomocījis mani. Ļauj man atspirgt Tavas žēlastības spārnu vēdās, jo atšķirtība no Tevis dedzina man sirdi. Ļauj man tuvoties dzīvības upei, jo mana dvēsele kalst slāpēs, Tevi bez mitas meklējot.
 Manas nopūtas, ak mans Kungs, pauž manu sāpju rūgtumu un asaras, kuras es leju, liecina par manu mīlestību uz Tevi.

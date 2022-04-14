@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12009 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ylahy Sözleri Ýetirmek"]
 +++
 Hu’Alla.
     Ýa Reb, Ýa Reb! Biz ejizdiris, Sen Güýçli hem Başarjaňsyň. Biz zelildiris, Sen Eziz hem Jelilsiň. Biz garypdyrys, Sen Gurply hem Kerimsiň. Seniň Mukaddes dergähiň işiginde gulluk etmegimize razy bol. Seniň Zikirler Maşrygyňda ybadat etmäge, bize ýol aç. Seniň Mukaddes yslaryňy Seniň halklaryň içinde ýaýratmagy bize ýazgyt et. Ähli adamlary Seniň Ismi-Agzamyňa tarap hedaýat etmek üçin we hemme milletleri Seniň ýalňyzlyk deňziň kenaryna eltmek üçin, billerimizi diňe Seniň hyzmatyňa berk guşar ýaly eýle.

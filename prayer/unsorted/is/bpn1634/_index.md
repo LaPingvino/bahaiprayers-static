@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1634 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Bænir fyrir látnum"]
 +++
 Hann er Guð, upphafinn er Hann, Drottinn ástúðar og örlætis!
 Dýrð sé Þér, ó Þú Guð minn, Drottinn alvaldur. Ég ber vitni almætti Þínu, yfirráðum og ástúð, náð Þinni og valdi, eind verundar Þinnar og einingu kjarna Þíns, heilagleik Þínum og upphafningu yfir þessa tilveru og allt sem þar er að finna.

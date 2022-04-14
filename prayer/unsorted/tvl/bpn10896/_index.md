@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10896 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MOTU KEATEA"]
 +++
 Ke tigaina au, O toku Atua, ke pilipili atu au kia Koe, ke nofo au i loto i Tou alaai, i te mao mai ia Koe e fakavaaivai ne ia au.  Faka-malu aka au i lalo o te maluuga o kapakau o Tou alofa, me i te vela o toku nofo-mavae mo Koe, e liu-suavai iei a toku fatu. Taki atu au ke tai pili ki te vaitafe ko te ola patonu, auaa toku agaaga ko ka me se afi i te fia inu ona ko te salasala se gata kia Koe.  Oku mapuuga O toku Atua, e fakaasi mai a te kona o toku tigaina, mo oku loimata ne maligi e fakamaonia iei a toku alofa kia Koe.
 

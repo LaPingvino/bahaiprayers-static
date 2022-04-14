@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3945 in Hrvatski'
 author = "Báb"
-tags = ['lang-hr', '', "Báb", "unsorted"]
+tags = ['lang-hr', 'prayer-', "author-Báb", "category-unsorted", "cat-Trijumf Božje Stvari"]
 +++
 O, Gospode! Daj da svim ljudima bude dopušteno ući u Raj Tvoje Vjere, tako da ni jedno stvorenje ne ostane izvan međa Tvojeg zadovoljstva.
 

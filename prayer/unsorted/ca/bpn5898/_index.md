@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5898 in Català'
 author = "Bahá'u'lláh"
-tags = ['lang-ca', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Matrimoni"]
 +++
 *Esposeu-vos, oh poble, perquè engendreu a qui faci menció de Mi en mig dels meus serfs. Aquest és el meu mandat per vosaltres.
 *Agafeu-vos fermament a ell com ajuda per vosaltres mateixos. - Bahá’u’lláh

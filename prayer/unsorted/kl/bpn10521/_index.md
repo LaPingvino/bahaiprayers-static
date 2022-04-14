@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10521 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-kl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Meeqqat inuusuttullu"]
 +++
 Guutiga-aa, tassaannaavunga naatsiiassannguaq, asanninnerpit nunaani Assannit
 Tukkusumit naajartortitat. Taamaattumik naatsiiassaq taanna ilumigut

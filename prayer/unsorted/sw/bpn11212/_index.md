@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11212 in Kiswahili'
 author = "Bahá'u'lláh"
-tags = ['lang-sw', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sw', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MFUNGO"]
 +++
 Sifa iwe Kwako, Ee Bwana Mungu wangu!  Nakusihi Wewe kwa Ufunuo huu ambao kwao giza limegeuzwa katika mwangaza, kupitia kwake Hekalu liendewalo mara kwa mara limejengwa, na Waraka Ulioandikwa umefunuliwa, na Gombo Lililoenea likafunuliwa, kunitumia mimi pamoja na wao walio wenzangu yale ambayo yatatuwezesha kupaa katika mbingu za utukufu Wako bora kabisa, na yatatutakasa kutokana na madoa ya mashaka kama yale ambayo yamewazuia wasio wanyoofu wasiingie katika hema la umoja Wako. 
 

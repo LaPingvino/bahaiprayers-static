@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7521 in Suomi'
 author = "Abdu'l-Bahá"
-tags = ['lang-fi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Auttaminen"]
 +++
 *Jokainen opetusmatkalle lähtevä lausukoon vieraissa maissa matkatessaan tätä harrasta rukousta päivin ja öin:
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13332 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Children"]
 +++
 O Arglwydd Caredig!  Plentyn bach wyf fi, dyrchafa fi trwy fy nerbyn i'r deyrnas.  Daearol wyf fi, gwna fi'n nefol; o'r byd islaw rwyf fi, gad i mi berthyn i'r deyrnas uwchlaw; yn dywyll drist, caniata i mi fod yn ddisglair; yn faterol, gwna fi yn ysbrydol, a chaniata i mi amlygu Dy roddion diderfyn.  
 Ti yw'r Grymus, yr Holl-Gariadus.

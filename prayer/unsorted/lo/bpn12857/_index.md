@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12857 in ພາສາລາວ'
 author = "Bahá'u'lláh"
-tags = ['lang-lo', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lo', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ອະທິຖານໃຫ້ແກ່ດວງວິນຍານ ຂອງຜູ້ທີ່ລວງລັບ"]
 +++
 ພຣະອົງຄືພຣະຜູ້ເປັນເຈົ້າ ຂໍຄວາມປະເສີດຈົງມີແດ່ ພຣະອົງ ພຣະຜູ້ເປັນນາຍແຫ່ງຄວາມເມດຕາຮັກໄຄ່ ແລະ ຄວາມອາລີ!
 

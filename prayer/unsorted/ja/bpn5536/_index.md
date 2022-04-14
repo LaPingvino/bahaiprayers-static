@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5536 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-「聖なる計画の書簡」のティーチングの祈り"]
 +++
 これらの州の都市や町や村を旅し、
             神の芳香ほうこうを放散させようとする者は毎朝この祈りを熟読せよ。

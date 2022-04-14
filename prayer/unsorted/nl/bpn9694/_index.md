@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9694 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Voor overleden vrouwen"]
 +++
 #Voor overleden vrouwen
 

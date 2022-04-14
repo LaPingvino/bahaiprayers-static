@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6984 in Fiji'
 author = "Abdu'l-Bahá"
-tags = ['lang-fj', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fj', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-NA VEIVUKEI KEI NA VEIVAKATOVOLEI"]
 +++
 O i Kemuni na Turaga, na noqu Kalou ka noqu i Vakavakacegu e na noqu lomabibi! O ni sa noqu i Sasabai ka noqu i Vakavakaruru e na gauna ni leqa ka noqu i Tokani Lomani e na noqu galili! O ni sa noqu i Vakavakacegu e na noqu rarawa, ka noqu i Tokani e na noqu tiko duadua voli! O ni sa dau veivakacegui ka kauta tani na noqu leqa kece ga ka Dauvosota na noqu i valavala ca.
 

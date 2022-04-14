@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2662 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ifjusági imák"]
 +++
 Ó, kedves Urunk! Kegyesen ruházd fel e fiókákat mennyei szárnyakkal, és adj nékik szellemi erőt, hogy e végtelen téren át röpülhessenek és az Abhá Királyság magaslataira szárnyalhassanak.
 

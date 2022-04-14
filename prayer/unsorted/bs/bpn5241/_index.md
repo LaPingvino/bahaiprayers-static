@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5241 in Bosanski'
 author = "Abdu'l-Bahá"
-tags = ['lang-bs', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Duhovno Vijeće"]
 +++
 *... Prije nego što dođete na sastanak vijeća, oslobodite se svega što vam je na srcu, pročistite svoje misli i um od svega sem od Boga i obratite se svojoj duši. Kako bi ovaj sastanak postao skup ljubavi, učinite ga uzrokom prosvjetljenja, učinite ga skupom koji privlači srca, okružite ovaj sastanak Svjetlom Vrhovnog Skupa, da bi ste se okupili u najvećoj ljubavi.
 

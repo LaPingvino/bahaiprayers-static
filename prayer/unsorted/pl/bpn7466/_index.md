@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7466 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Męczennicy i ich rodziny"]
 +++
 On jest Bogiem!
     

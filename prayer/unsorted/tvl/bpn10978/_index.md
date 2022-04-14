@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10978 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-LUKUUGA FAKA-TE-AGAAGA"]
 +++
 Aumai fakatasi koutou i te fiafia matakalekale mo te kamataaga o te fonotaga, fai a te talo tenei:
 O ko Koe te Aliki o te Maalo!  E uiloa a tou fuaitino ko luku fakatasi i konei, a ko motou loto ko la koe ofo valevale ko avegina ne Tou alofa, pe la foki ko kaveega tatou ne kavei o te mainaaga o Ou mata.  E ui iai ate vaivai o matou, e faitali matou kit e faka-asiiga o Tou mafi mot e maalosi.  E pefea a te mativa o matou, seai so se koloa io me se isi mea aka, kae patele loa matou i maumea mai i kope taaua o Tou maalo.  E uiloa a matou pela me ne motiiga, kae faka-aogaa loa ne matou a mea mai i Tou vasa poko.  E uiloa matou e foititi kii loa, kae maina loa matou ite matagofie o Tou Laa tafasili ite gali.

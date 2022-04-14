@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00522 in Italiano'
 author = "Báb"
-tags = ['lang-it', '', "Báb", "Detachment"]
+tags = ['lang-it', 'prayer-BB00522', "author-Báb", "category-Detachment", "cat-Assistenza"]
 +++
 O Signore! Presso Te cerco riparo e verso tutti i Tuoi segni volgo il mio cuore.
 O Signore! In viaggio o in casa, nelle occupazioni o nel lavoro, ripongo ogni fiducia in Te.

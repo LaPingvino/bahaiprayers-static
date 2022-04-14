@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7971 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tifħir u Gratitudini"]
 +++
 Imkabbar Ikun ismeK, O Sid Alla tiegħi! Int huwa Dak Li l-ħwejjeġ kollha jqimu u Li ma tqim lil ħadd, Li int is-Sid ta’ kollox u il-qaddej ta’ xejn, Li taf kollox u magħruf minn xejn. Inti xtaqt li l-bnedmin ikunu jafuK; għalhekk, Int, bil-kelma ta’ fommoK, sawwart il-ħolqien u fassalt l-univers. M’hemmx Alla ieħor għajreK, il-Fassal, il-Ħallieq, is-Setgħan, l-Aktar Qawwi.
 

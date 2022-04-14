@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12736 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-RABAN GELUMU"]
 +++
 Sambiang disebut ba penutup aum Raban Gelumu
  O Petara! O Petara! Ari perintah penyatu Nuan ti enda dipeda kemata kami ti begelumu dalam aum semengat tu, arap ba Nuan, andal ba semua tanda Nuan, teguh ba Sempekat enggau Penyanggup Nuan, tetarit ngagai Nuan, ditungkun ngena api pengerindu Nuan sereta lurus ati dalam Pengawa Nuan. Kami tu pengasuh dalam kebun anggur Nuan, pengerembai agama Nuan, penyembah ti angkun ba rampa-mua Nuan, baruh ati ngagai bala ti dikerindu Nuan, nyerah diri ba pintu Nuan, lalu minta kasih Nuan netapka kami gawaka bala ti dipilih Nuan, nyukung kami enggau raban malikat Nuan ti enda dipeda, ngeringka punggung kami dalam gawa ke Nuan lalu asuh kami nyadi rayat ti ngunduk sereta sayau berandau enggau Nuan.

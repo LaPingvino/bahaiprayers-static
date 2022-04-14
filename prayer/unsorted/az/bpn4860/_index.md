@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4860 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Uşaqlar üçün dualar"]
 +++
 Ey Rəbbim, mənim Allahım! Bu bir uşaqdır ki, Sənin bəndələrinin birindən törəyib, o kimsə ki, Sən onun üçün Özünün tale Lövhələrində və təqdir səhifələrində yüksək məqamlardan birini müəyyən etmisən.
 

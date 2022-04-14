@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10938 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-FAKATASITASIIGA"]
 +++
 O ko Koe ko te Atua alofa-kaimalie
 O ko Koe ko te Atua alofa-kaimalie!  O ko Koe Te la ko te mafi mo te maalosi! O ko Koe ko te Tamana tafasili i te alofa!  A tavini konei ko oti ne maopoopo fakatasi, o fuli atu kia Koe, o tapuaki i Tou mataloa, e manako ki Ou alofaaga e seai se gata mo Tau fakapatinoga tonu tafasili i te lasi.  E seai aka foki ne olotou fakamoemoega na ko Tou fiafiaaga lei.  E seai aka foki ne olotou kiloga na ko te tavini kit e lalolagi o tagata katoa.

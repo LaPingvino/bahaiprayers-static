@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12426 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Rugciriku : LIDILIRO"]
 +++
 Mfumwa kukoye, Hompa Karunga wande! Kuna kukushungida kuLihorameno lino omo lyakushintanga likurundema mushite, omo va yi dika Ntembeli yoye yakudinguranga kehe pano, omo vyamoneka vitafura vyaMatjangwa, omo vayaneka Lighano lyaMbapira, lyakughongonona lintjeumukire navaunyande mukutuvatera ka teremba muliwiru lyashikoda shoye, nakutukenita kulivavi lyamatamayi ghangoweno yira ogho ghashwenikiro vapirilihuguvaro mukungena muUmwe walimbangu lyaMakupakerero .
 	Ame uno, Hompa wande, ogho a kakatero kurughodi roye rwauholi naunongo, nakumukunkuro wankenda yoye. Ndenke ngoli navaholi vande tu wane ghuwa waudjuni uno naudjuni ogho nga u yo. Va yude navitapa, ovyo vyahoramo, ovyo wa tapa kuvatovororwa vamukatji kavishitwa vyoye.

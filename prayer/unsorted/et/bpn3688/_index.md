@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3688 in Eesti'
 author = "Bahá'u'lláh"
-tags = ['lang-et', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-et', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Andestamine"]
 +++
 Ülistatud oled Sina, oo Issand mu Jumal! Anun Sind Sinu Väljavalitute ja Su Usalduse Kandjate ning Tema nimel, kelle Sa oled määranud oma prohvetite ja sõnumitoojate Pitseriks, et Sa lubaksid oma meenutamisel olla minu kaaslane, oma armastusel minu eesmärk, oma palgel minu siht, oma nimel minu valgusallikas, oma soovil minu ihaldus ja oma meeleheal minu rõõm.
 Ma olen patune, oo mu Issand, ning Sina oled Alatiandestav. Niipea kui ma Su ära tundsin, ruttasin Sinu armastava lahkuse ülendatud õuele. Andesta mulle, oo mu Issand, minu patud, mis on takistanud mul kõndimast Sinu meelehea radadel ja jõudmast Su ainsuse ookeani kallastele.

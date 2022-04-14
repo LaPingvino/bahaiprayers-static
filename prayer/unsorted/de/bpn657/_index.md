@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn657 in Deutsch'
 author = "Báb"
-tags = ['lang-de', '', "Báb", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Báb", "category-unsorted", "cat-Schutz"]
 +++
 Verordne für mich, o mein Herr, und für die, so an Dich glauben, was nach Deinem Urteil das Beste für uns ist, wie es im Mutterbuch geschrieben steht; denn mit fester Hand hältst Du das allen Dingen bestimmte Maß.
 Unaufhörlich regnen Deine guten Gaben herab auf die, welche Deine Liebe hegen, und die wundersamen Zeichen Deiner himmlischen Großmut werden denen, die Deine göttliche Einheit anerkennen, reichlich gewährt. Wir befehlen, was Du uns bestimmt hast, Deiner Fürsorge und erflehen von Dir all das Gute, das Dein Wissen umfasst.

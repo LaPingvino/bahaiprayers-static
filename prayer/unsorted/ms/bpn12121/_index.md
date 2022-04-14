@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12121 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-KETAKTERIKATAN"]
 +++
 ”Lepaskanlah dirimu daripada segala sesuatu kecuali Aku dan hadapkanlah wajahmu kepada wajah-Ku, kerana lebih baiklah ini bagimu daripada segala  sesuatu yang engkau miliki.”
 

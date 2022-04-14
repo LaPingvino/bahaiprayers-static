@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13247 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Naw rúz"]
 +++
 On je navždy Žijúci, navždy Pretrvávajúci, Sebedostačujúci.
 Boh dosvedčuje jednotu Svojej božskosti a jedinečnosť Svojej bytosti. Na tróne večnosti, z nedosiahnuteľných výšin Svojho postavenia, Jeho jazyk vyhlasuje, že niet iného Boha okrem Neho. On sám, nezávisle od všetkého ostatného, vždy dosvedčoval Svoju jedinosť, zjavoval Svoju povahu a oslavoval Svoju podstatu. On je, vskutku, Všemohúci, nadovšetko Mocný, Prekrásny.

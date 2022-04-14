@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10177 in Alaska Native'
 author = "Abdu'l-Bahá"
-tags = ['lang-ik', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ik', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Iñupiaq - North Slope Dialect"]
 +++
 **Short Children's Prayer
 

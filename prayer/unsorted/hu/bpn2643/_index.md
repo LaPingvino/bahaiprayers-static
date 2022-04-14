@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2643 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tábla ahmedhez"]
 +++
 *... a napi kötelező imákat, néhány további különleges imával egyetemben, mint a Gyógyító ima, a Tábla Ahmedhez, Bahá’u’lláh különleges erővel és jelentőséggel ruházta fel, és a hívőknek ezeket ekként kell elfogadniuk és megkérdőjelezhetetlen hittel és bizalommal kell mondaniuk, hogy ezek által sokkal közelebbi kapcsolatba lépjenek Istennel, és még teljesebben azonosítsák magukat az Ő törvényeivel és utasításaival. —egy Shogi Effendi nevében írt levélből
 

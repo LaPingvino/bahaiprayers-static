@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9232 in Français'
 author = "Báb"
-tags = ['lang-fr', '', "Báb", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Báb", "category-unsorted", "cat-Progrès de la cause"]
 +++
 Gloire à toi, ô Seigneur, toi qui animes toutes choses créées par le pouvoir de ton commandement !
 Ô Seigneur, soutiens ceux qui ont renoncé à tout sauf à toi et accorde-leur une victoire éclatante. 

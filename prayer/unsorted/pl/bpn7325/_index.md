@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7325 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Z Tablic Boskiego Planu"]
 +++
 O Niezrównany Boże! O Ty, Panie Królestwa! Te oto dusze są Twoją niebiańską armią. Wspomóż je i wraz z zastępami Najwyższego Zgromadzenia uczyń je zwycięskimi, tak aby każda z nich stała się niby legion i podbiła te kraje miłością Bożą oraz oświeceniem płynącym z Boskich nauk.
    

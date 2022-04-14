@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1129 in Português (BR)'
 author = "Abdu'l-Bahá"
-tags = ['lang-pt', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Pelos Mortos"]
 +++
 Ó Tu, Senhor clemente! Perdoa os pecados da minha querida mãe, absolve-lhe as imperfeições, dá-lhe um vislumbre da Providência e conduze-a ao Teu Reino.
 Ó Deus! Ela educou-me desde o começo de minha vida, criou-me, porém não a recompensei pelo seu trabalho. Concede Tu a sua recompensa. Destina-lhe a vida eterna e fá-la querida no Teu Reino.

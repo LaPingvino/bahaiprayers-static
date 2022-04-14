@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3595 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Møter"]
 +++
 O Gud, min Gud! Vi er dine tjenere som har  end toss
 Når dere går inn I rådsværelset, les da denne bønn med et hjerte som banker av kjærlighet til Gud og med en tunge så lutret at den kun kommer ham I hu, slik at den allmektige nådigst kan hjelpe dere til å  end den største seier:

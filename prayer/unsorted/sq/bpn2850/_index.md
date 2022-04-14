@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2850 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ditët e shtuara"]
 +++
 Ditët e shtuara (nga 26 shkurti deri më 1 mars) duhet të jenë ditë përgatitjeje për Agjërimin, ditë mikpritjeje, bamirësie e dhuratash.
 

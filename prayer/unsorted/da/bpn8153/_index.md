@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8153 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Fonden"]
 +++
 Alle Guds venner... bør så vidt muligt bidrage, lige meget hvor beskeden deres gave måtte være.
 

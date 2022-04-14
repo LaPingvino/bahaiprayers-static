@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8013 in Dansk'
 author = "Báb"
-tags = ['lang-da', '', "Báb", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Báb", "category-unsorted", "cat-Beskyttelse"]
 +++
 Bestem for mig, O min Herre, og for dem der tror på Dig det, der synes bedst for os i Dine øjne, som fremlagt i Moderbogen, thi i Din hånd holder Du den forudbestemte målestok for alle ting.
 

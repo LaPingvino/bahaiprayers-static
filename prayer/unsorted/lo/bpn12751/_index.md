@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12751 in ພາສາລາວ'
 author = "Bahá'u'lláh"
-tags = ['lang-lo', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lo', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ບົດສັ້ນ"]
 +++
 ##ສໍາລັບໃຊ້ສວດໜຶ່ງຄັ້ງທຸກ 24 ຊົ່ວໂມງ
 *( ລະຫວ່າງເວລາທ່ຽງວັນເຖິງຕາເວັນຕົກດິນ )

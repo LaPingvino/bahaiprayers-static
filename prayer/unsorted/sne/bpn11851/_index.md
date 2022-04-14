@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11851 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Ngudung/Bitapod/Bigupul"]
 +++
 *Nog samah tikuluk da’ang do’ont dek tulen, bia takal su’ud ngudung, nang leh doa tih:
 O Ingan Raja ndu Pritah Topa! Sungu polonk koih bigupul bisamah-samah datik, sungu wat inoh otin tikoyoe koih ngilayang odak pangirinduk Ingan, bia takal tih adin koih obuah pindah odak sokad lingieng jowin Ingan. Sungu lemah pun koih dimutik, koih kajon geh revelasi kekuatan duoh kuasa Ingan. Sungu botak pun koih dimutik sama ada paguh ato pun ja’at, totap mit koih pangikaya sok bolont Pritah Ingan. Ndi tiag pun koih dimutik, totap geh koih luwah nog sok laut tuluap Ingan. Abok dobu pun koih dimutik, totap geh koih bilingieng daang pimulia dek sukup puas otin Boton Onu Ingan.

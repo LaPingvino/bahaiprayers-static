@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10814 in Chichewa'
 author = "Abdu'l-Bahá"
-tags = ['lang-ny', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ny', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-BUNGWE LA UZIMU"]
 +++
 *Pamene mulowa mchipinda chokumanira, nenani pemphero ili ndi mtima wogunda ndi chikondi cha Mulungu ndi lirime loyeretsedwa kuzonse koma chikumbukiro Chake, kuti Wamphamvu Zonseyo mwachifundo Akuthandizeni kupeza chipambano chachikulu: 
 

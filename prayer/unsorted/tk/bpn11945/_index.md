@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11945 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gündelik Dogalar"]
 +++
 Eý Seniň Adyň bilen şadyýanlyk deňzi tolkunyp, begenç şemaly öwüsýän! Üýtgeşik Jomartlygyňdan hem Merhemetiňden gözlerimi röwşen we kalbymy şat etjek zatlary maňa görkez diýip Saňa ýalbarýaryn.
                                            

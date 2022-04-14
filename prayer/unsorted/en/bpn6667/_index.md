@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6667 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Forgiveness"]
 +++
 O God, my God! Thy grace hath emboldened me, and Thy justice filled me with terror. Happy is that man whom Thou hast endued with Thy grace and woe to him that receiveth Thy justice.
 

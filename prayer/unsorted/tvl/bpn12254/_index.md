@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12254 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FALEPUIPUI"]
 +++
 E maluga a Tou Igoa, O ko Koe Tela e lavea a mea katoa kae e lilo foki mai i mea katoa!  Mai I fenua katoa e lagona ne Koe a fanoanoa o latou ko la e alofa kia Koe, kae mai i sose auala e sala atu ki tagitagi o latou kola ne iloa ne latou a Tou nofoaiga-aTupu.  Moi fai a latou kola e teke e fakafesili atu penei:  “Sea a la a te uiga ne teke iei kia latou kae taofi a latou faka-pafgota i 
 Baghdád mo nisi koga aka?  Sea a te amio se-tonu ne fai ne latou?  Koi ne faka togafiti ne latou?  E oi a toto ne fakamaligi ne latou, kae e oi foki a kope ne fakamasei ne latou?  e seiloa ne latou me ka tali pefea.  

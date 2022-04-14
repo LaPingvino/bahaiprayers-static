@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8643 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-传导祷文"]
 +++
 上帝啊，我的上帝！祢看见黑暗笼罩大地，纷争的战火在各国燃烧，杀戮遍及东西方。血流成河，尸横遍野，头颅落地，战尘飞扬。
 主啊！怜悯这些无知的人吧，以宽恕赦免之眼看顾他们。扑灭这火焰吧，使笼罩天际的乌云消散，使实在之阳发出和解之光。让密布的阴霾四散开去，让灿烂的和平之光照耀万邦。

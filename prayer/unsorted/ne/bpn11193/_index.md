@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11193 in नेपाली'
 author = "Bahá'u'lláh"
-tags = ['lang-ne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-मलमासका तिथिहरू"]
 +++
 *फरवरी २६ देखि मार्च १ सम्मका दिनहरू मलमासका तिथिहरू हुन् । यो अवधिमा उपवासको तैयारी, आतिथ्य सत्कार तथा दान–पुण्यका कामहरू गर्नुपर्दछ । 
 

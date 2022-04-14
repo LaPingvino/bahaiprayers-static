@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12019 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Jynaza Namazy"]
 +++
 Bu namaz, jemagat bolup okalýan ýeke-täk namazdyr. Bu namazy başgalar ümsüm dik durka, bir bahai dindar okaýar.
 

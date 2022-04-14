@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11470 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ayuda"]
 +++
 ##Gobierno
 

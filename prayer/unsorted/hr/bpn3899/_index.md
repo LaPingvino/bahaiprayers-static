@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3899 in Hrvatski'
 author = "Bahá'u'lláh"
-tags = ['lang-hr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Hvaljenje I Zahvalnost"]
 +++
 Bože moj, Obožavani moj, Kralju moj, čežnjo moja! Koji jezik može izreæi zahvalnost tebi? Nemaran sam bio, Ti si me probudio. Odvratio sam se od Tebe, a Ti si mi milostivo pomogao da se vratim k Tebi. Bio sam kao mrtav, Ti si me obodrio vodom života. Uvenuh, a Ti si me oživio nebeskom rijekom Tvoje riječi koja je potekla iz Pera Svemilosrdnoga.
 

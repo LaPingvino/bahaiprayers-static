@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12265 in Tuvalu'
 author = "Báb"
-tags = ['lang-tvl', '', "Báb", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Báb", "category-unsorted", "cat-PUIPUIIGA"]
 +++
 Fakaeke mai kia au, O toku Aliki, mo latou foki ko la e talitonu ia Koe a te mea tela i Tau fakatau e tafasili i te llei mo au, pela mo te mea ko oti ne tusi mai i te Matua o Tusi, auaa me i loto i Tou alofi-lima e puke ne Koe a fuafuaaga o mea katoa.  
 Au mea-alofa gali e ligi ifo e seai se-gata kia matou pe la loa mo Tou alofa taaua, mo faka-iloaga faka-ofoofogia o Tou alofa fakate-lagi tela e tanumia i luga ia latou ko la e lavea ne latou a Tou Tafatasi faka-te-agaaga.  E avatu ne matou ki Tau tausi a so se mea tela ne fakatonu mai ne Koe, kae akai kia Koe ke fesoasoani mai kia matou a mea lei katoa ko oti ne aofia i Tou poto.  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11510 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Curación"]
 +++
 ##Oración larga de curación
 

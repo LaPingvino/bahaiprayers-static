@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6860 in हिंदी'
 author = "Bahá'u'lláh"
-tags = ['lang-hi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-आरोग्य"]
 +++
 ##आरोग्य के लिये लम्बी प्रार्थना 
 *Long healing Prayer 

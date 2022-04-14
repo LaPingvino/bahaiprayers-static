@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11574 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Jóvenes"]
 +++
 ¡Alabanza y gloria sean para Ti, oh Señor, mi Dios! Este es un retoño selecto que has plantado en las praderas de Tu amor y has nutrido con los dedos de Tu Señorío.
 Lo has regado con el manantial de la vida eterna que brota en los jardines de Tu unicidad, y has hecho que las nubes de Tu tierna misericordia derramen sobre él Tus favores. Ahora ha crecido y se ha desarrollado al abrigo de Tus bendiciones, manifiestas en la Aurora de Tu divina esencia. Ha producido hojas y flores, está cargado de frutos merced a la providencia de Tus maravillosos dones y dádivas, y se mece al compás de la brisa perfumada que sopla de Tu amorosa bondad. 

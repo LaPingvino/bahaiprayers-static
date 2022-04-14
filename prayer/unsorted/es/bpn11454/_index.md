@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11454 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Oración obligatoria mediana"]
 +++
 *Se recita diariamente, por la mañana, a mediodía y al atardecer
 

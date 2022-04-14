@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10815 in Chichewa'
 author = "Abdu'l-Bahá"
-tags = ['lang-ny', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ny', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-BUNGWE LA UZIMU"]
 +++
 *Pemphero lonenedwa potseka msonkhano wa Bungwe la Uzimu. 
 

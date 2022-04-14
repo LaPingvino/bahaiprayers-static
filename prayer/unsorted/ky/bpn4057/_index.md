@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4057 in Кыргыз'
 author = "Bahá'u'lláh"
-tags = ['lang-ky', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ky', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Осуяттагы туруктуулук"]
 +++
 Ал Куч-кубаттуунун өзү, Кечиримдүү , Бооркер!
 

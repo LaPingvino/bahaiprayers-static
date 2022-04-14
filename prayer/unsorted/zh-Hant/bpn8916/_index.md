@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8916 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-傳導禱文"]
 +++
 無與倫比的上帝啊！祢是天國之主！這些靈魂乃是祢的天兵，請派至高聖庭之大軍給予援助。使他們所向披靡，萬夫莫敵，憑藉上帝之愛及神聖教義之啟迪，去贏得這些國度。
 上帝啊！扶持和援助他們吧，無論在荒郊、山嶺、川谷，還是在森林、草原、海洋，做他們的知音，使他們藉天國之力，以聖靈之氣息，疾聲呼籲。

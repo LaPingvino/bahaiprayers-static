@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7317 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Nauczanie"]
 +++
 Chwała niechaj będzie Tobie, o Panie, Boże mój! Błagam Cię na Twoje Imię, którego nikt godnie nie rozpoznał i którego doniosłości nie zgłębiła żadna dusza; błagam Cię na tego, który jest Źródłem Twojego Objawienia i Świtem Twoich znaków, abyś uczynił serce moje czarą Twojej miłości i pamięci o Tobie. Złącz je zatem ze swym najwspanialszym Oceanem, ażeby wypływały z niego żywe wody Twej mądrości i kryształowe strumienie Twego wysławiania i czci.
    

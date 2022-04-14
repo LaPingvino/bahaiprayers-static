@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12540 in Tetum'
 author = "Abdu'l-Bahá"
-tags = ['lang-tet', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tet', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ema Mate"]
 +++
 Oh ha’u-nia Maromak! Oh Ita-Boot perdua-na’in ba sala sira, haraik-na’in ba prémiu sira, kasu-na’in ba terus sira!
 Tebes duni, ha’u husu Ita-Boot atu perdua sala hotu husi ema sira ne’ebé husik ona sira-nia isin mundu nian no sa’e ona ba mundu espirituál.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2815 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Për të vdekurit"]
 +++
 *Kjo lutje duhet përdorur nga Bahá'í-të mbi moshën pesëmbëdhjetë vjeç. "Është e vetmja lutje e detyrueshme Bahá'í që duhet thënë në grumbullime; duhet të thuhet nga një besimtar, ndërsa gjithë të pranishmit qëndrojnë në këmbë. Nuk kërkohet të kthehet fytyra drejt Kiblës kur thuhet kjo lutje." - Kitáb-i Akdas
 

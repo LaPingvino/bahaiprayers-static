@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9582 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Geestelijke groei"]
 +++
 O Gij Verzorger! Gij hebt de zoete geur van de Heilige Geest over de vrienden in het Westen geademd en met het licht van goddelijke leiding de westelijke hemel verlicht. Gij hebt hen die ooit veraf waren nader tot Uzelf gebracht; Gij hebt vreemden in liefdevolle vrienden veranderd; Gij hebt de slapenden doen ontwaken; Gij hebt de achtelozen opmerkzaam gemaakt.
 O Gij Verzorger! Sta deze nobele vrienden bij om Uw welbehagen te verwerven en laat hen mensen worden die het goed voor hebben met zowel vriend als vreemdeling. Breng hen de wereld die eeuwig voortbestaat binnen; vergun hun een deel van de hemelse genade; breng hen ertoe ware bahá’ís te zijn, oprecht tot God behorend; verlos hen van uiterlijke schijn en vestig hen hecht in de waarheid. Maak hen tekenen en symbolen van het Koninkrijk, lichtende sterren boven de horizon van dit aardse leven. Maak hen tot steun en troost voor de mensheid en dienaren van wereldvrede. Breng hen in vervoering met de wijn van Uw raad, en vergun dat zij allen het pad van Uw geboden mogen bewandelen.

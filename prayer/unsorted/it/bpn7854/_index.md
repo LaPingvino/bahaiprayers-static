@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7854 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Martiri e Loro Famiglie"]
 +++
 Egli è Dio! O Signore mio Dio! O Tu Che sei l’Aiuto del debole, il Soccorritore del povero e il Liberatore dell’inerme che si volge a Te.
 Con grande umiltà elevo le mie supplici mani al Tuo regno di beltà e ardentemente T’invoco con la mia intima favella dicendo: O Dio, mio Dio! Aiutami ad adorarTi; rafforza i miei lombi nel servirTi; assistimi con la Tua grazia ad assoggettarmi a Te; concedimi di rimanere saldo nell’obbedirTi; effondi su me le generose effusioni della Tua munificenza; dirigi verso me gli sguardi della Tua amorevole gentilezza ed immergimi nell’oceano del Tuo perdono. Fa’ che sia corroborata la mia lealtà alla Tua Fede e donami una porzione più ampia di certezza e fiducia sì ch’io possa elargirla al mondo, volga il viso con completa devozione verso il Tuo sembiante, venga rafforzato dall’obbligante possanza delle prove e delle testimonianze e, cinto di maestà e potere, possa trapassare ogni regione del cielo e della terra. Tu sei in verità il Misericordioso, il Gloriosissimo, il Gentile, il Compassionevole. 

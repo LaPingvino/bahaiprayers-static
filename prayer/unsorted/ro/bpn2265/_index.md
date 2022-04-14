@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2265 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pentru cei Răposaţi"]
 +++
 Slavă ţie, o, Doamne Dumnezeul meu!
 Nu-l coborî pe cel pe care l-ai ridicat prin puterea suveranităţii Tale nepieritoare, şi nu-l îndepărta de Tine pe cel pe care l-ai făcut să intre în tabernacolul eternităţii Tale. Îl vei alunga Tu oare de la Tine, o, Dumnezeul meu, pe cel pe care l-ai adumbrit cu Stăpânirea Ta, şi-l vei întoarce oare de la Tine, o, Dorinţa mea, pe cel pentru care ai fost liman? Ai putea Tu oare să-l înjoseşti pe cel pe care l-ai înălţat, sau să-l uiţi pe cel căruia i-ai dat putinţa să-şi amintească de Tine?

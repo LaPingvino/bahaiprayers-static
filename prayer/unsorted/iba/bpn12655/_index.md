@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12655 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-NGAJAR"]
 +++
 Awakka sida ti ngerembaika bau rengut Petara nyebut sambiang tu tiap pagi.
  	O Tuhan, Petara aku! Puji sereta terima kasih ngagai

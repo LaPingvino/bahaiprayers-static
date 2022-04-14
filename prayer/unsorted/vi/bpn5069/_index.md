@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5069 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-vi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Trai Giới"]
 +++
 Ngài thật đáng tán tụng, lạy Ngài là Đấng Thượng Đế của con.
 Bởi Mặc khải này, Mặc khải đã biến đổi bóng tối thành ánh sáng, Mặc khải đã tạo dựng Ngôi đền mọi người chuyên cần lui tới, Mặc khải đã giải rõ Thánh kinh xưa, Mặc khải đã để lộ Thiên cơ, con cầu xin Ngài ban xuống cho con và các bạn con điều khiến chúng con có thể vượt lên cõi trời vinh quang thiên thượng của Ngài, và tẩy xóa chúng con hết những vết bẩn hoài nghi đã từng cản trở kẻ bất tín vào đền thờ thống nhất của Ngài.

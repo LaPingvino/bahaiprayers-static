@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10236 in Māori'
 author = "Bahá'u'lláh"
-tags = ['lang-mi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MŌ TE TUPU O TE WAIRUA"]
 +++
 E tōku Ariki! Hua mai ko Tō ātaahua hei kai māku, ko te noho ki Tō Aroaro tāku inu, ko Tōu harakoa tōku tūmanako, ko te whakahōnore i a Koe tāku mahi, ko te maumahara ki a Koe tōku hoa haere, ko te mana o Tōu tino rangatiratanga tōku matua whāngai, ko Tōu whare tōku kāinga, ko tōku whare te tūru Nāu i whakatapu mai i ngā here ki runga ki a rātou kua aukatingia pērā me he ārai atu i a Koe. 
 

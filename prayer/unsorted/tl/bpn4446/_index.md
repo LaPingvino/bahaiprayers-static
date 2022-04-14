@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4446 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Pagkawalay"]
 +++
 Diyos Ko! Diyos Ko! Ikaw ang aking pag-asa at ang aking Minamahal, ang aking pinakamataas na Layunin at Hangarin! Buong pagpapakumbaba at buong pag-ibig na idinadalangin ko sa Iyo na gawin Mo akong tore ng Iyong pag-ibig sa Iyong pook, ilawa ng Iyong karunungan sa Iyong mga nilikha at bandila ng banal na biyaya sa Iyong Kaharian.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7295 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Kobiety"]
 +++
 Pochwalony bądź, o Panie, mój Boże! Jesteś Tym, którego ogień miłości rozpalił serca tych, co Twoją jedność rozpoznali i którego wspaniałość oblicza rozświetliła twarze tych, którzy przybliżyli się do dworu Twego. Jakże obfity, o mój Boże, jest strumień Twojej wiedzy! Jakże słodka, o mój Umiłowany, jest boleść zadana przez strzały niegodziwych, którą znoszę w mojej miłości dla Ciebie i dla zadowolenia Twego! Jak przyjemne są rany, które na Twojej ścieżce i dla głoszenia Twej Wiary ponoszę od mieczy niewiernych.
    

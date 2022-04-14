@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2617 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Várandós anyáknak"]
 +++
 Uram, én Uram! Dicsőítlek Téged és hálát adok Néked mindazért, mivel kitüntetted alázatos szolgálóleányodat, Hozzád könyörgő és esdeklő cselédedet, mert ím, erős Királyságodba vezetted őt, Általad meghallhatta magas Hívásodat e múlandó világban és megláthatta Jeleidet, melyek bizton mutatják győzedelmes uralmadat minden dolgok felett.
 

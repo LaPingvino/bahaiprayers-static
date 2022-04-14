@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10935 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Huqúqu’lláh: Ko te Saolotooga o te Atua"]
 +++
 *Huqúqu’lláh e tonu me se tulafono takutakua.  E ttau mo tino katoa ke fai a te taulaga tenei, auaa ko te kamataga o te alofa, koloa uke mo meal llei katoa.  Se faka-manuiaaga tela e nofo mo so se agaaga ola i lalolafgi katoa o lalolagi a te Atua, ko te Pule-Katoatoa, ko te Maukoloa-Katoatoa.  
  

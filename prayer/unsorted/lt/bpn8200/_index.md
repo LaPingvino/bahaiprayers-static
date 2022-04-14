@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8200 in Lietuvių'
 author = "Abdu'l-Bahá"
-tags = ['lang-lt', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-lt', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Už mirusiuosius"]
 +++
 O mano Dieve! O Tu, nuodėmių atleidėjau, dovanų teikėjau, sielvarto išsklaidytojau! 
 Iš tiesų aš meldžiu Tave atleisti nuodėmes tų, kurie paliko savo fizinį apdarą ir pakilo į dvasinį pasaulį.

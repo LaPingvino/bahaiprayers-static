@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4137 in Canadian Indigenous'
 author = "Abdu'l-Bahá"
-tags = ['lang-nai-CA', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nai-CA', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Sm’algyax"]
 +++
 O Miyaani Da'a'ntgi Lusndaamti sü gugweelksm laawksi ada so goy'p'm biyaalsi.and Nüün gu daanmsgit di£ na gatgyedn.        
 

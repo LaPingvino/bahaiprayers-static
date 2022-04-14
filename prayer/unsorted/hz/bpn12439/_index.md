@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12439 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Rugciriku : Vighupa vyamuVitafure vimwe Vya Bahá’u’lláh"]
 +++
 Vyashiri na kutanta, lino ndyo liyuva omo nga u vhura udjuni kukukeya Shipara, nakuyuvha Lijwi  lyaMutwenyidirwa. Lijwi lyaKarunga linayuvhiki, ano shite shaShipara Shendi shina twedere pawiru yavantu. Vya wapera kehe muntu mukudongonona po mukoka wankango yavinyami pavitafure vyamumushima wendi, nakuteghelikida namaghano ghamawa nagha ghamawa ghakupira ghoma paviyivito vyaLihoramo  lyendi, vineghedo vyaLitumo lyendi, naviyivito vyashikoda Shendi. 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1617 in Íslenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-is', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Andleg ráð"]
 +++
 *Haft yfir í lok fundar andlega ráðsins:
 Ó Guð! Ó Guð! Lít okkur frá ósýnilegu ríki eindar Þinnar samankomin á þessum andlega fundi í trú á Þig, fullviss um tákn Þín, staðföst í sátt­mála Þínum og erfðaskrá, löðumst að Þér, upp­tendrumst af eldi ástar Þinnar og einlæg í mál­stað Þínum. Við erum þjónar í víngarði Þínum, útbreiðendur trúar Þinnar, helgaðir tilbiðjendur ásýndar Þinnar, auðmjúkir gagnvart Þínum elsk­uðu, undirgefnir frammi fyrir dyrum Þínum, sár­bænum Þig um að staðfesta okkur í að þjóna Þínum útvöldu, styðja okkur með Þínum ósýnilegu herskörum, styrkja lendar okkar í þjónustu við Þig og gera okkur undirgefna og tilbiðjandi þegna, sem samneyta Þér.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8954 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-諾魯孜頌"]
 +++
 諾魯孜——公曆三月二十日或二十一日——為巴哈伊新年。
 

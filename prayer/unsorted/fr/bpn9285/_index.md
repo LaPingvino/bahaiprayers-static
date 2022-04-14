@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9285 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Réunions"]
 +++
 Ô Seigneur de bonté, voici tes serviteurs réunis. 
 Ils se sont tournés vers ton royaume, ils ont grand besoin de tes bénédictions et de tes faveurs.

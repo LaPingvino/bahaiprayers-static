@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1730 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Morgunbænir"]
 +++
 Ó Drottinn minn og meistari minn! Ég er þjónn Þinn og sonur þjóns Þíns. Ég hef risið úr rekkju í þessari dögun, þegar sól einingar Þinnar hefir skinið frá dagsbrún vilja Þíns og úthellt ljóma sínum yfir alla veröldina, í samræmi við skipanir í bókum ákvörðunar Þinnar.
 Lof sé Þér, ó Guð minn, að við höfum vaknað til ljómans frá ljósi þekkingar Þinnar. Send því niður yfir okkur, ó Drottinn minn, það sem gera mun okkur kleift að skiljast frá öllu nema Þér og leys okkur frá eftirsókn eftir öllu nema Þér. Rita einnig niður fyrir mig og þá, sem mér eru kærir, og ættingja mína, bæði konur og karlmenn, hið góða í þessum heimi og þeim sem kemur. Varðveit okkur því næst með óbrigðulli vernd Þinni, ó Þú ástvinur gervallrar sköpunarinnar og þrá alls alheimsins, gegn þeim sem Þú hefur gert að opinberendum hins illa hvíslara sem hvíslar í brjóstum mannanna. Þú ert þess um­kominn að gera það sem Þér líst. Þú ert vissulega hinn almáttugi, hjálpin í nauðum, hinn sjálfumnógi.

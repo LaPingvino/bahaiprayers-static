@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11951 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Hedaýat"]
 +++
 Ýa Ylahy, Ýa Magbut, Ýa Maksut, Ýa Kerim, Ýa Rahym!
     Janlar Sendendir we güýçler Seniň gudratyň astynda. Kimi göterseň dünýe mülkünden geçer we onuň orny “Iň Gözel we Belent Mekana” ýeter. Kimi ýyksaň gumdanam pesdir, belki puç hem ondan belentdir.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3734 in Eesti'
 author = "Abdu'l-Bahá"
-tags = ['lang-et', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-et', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Tõeotsija palve"]
 +++
 Oo tõeotsija! Kui sa soovid, et Jumal avaks su silmad, pead sa Teda paluma, palvetama Tema poole ning suhtlema Temaga keskööl, öeldes:
 

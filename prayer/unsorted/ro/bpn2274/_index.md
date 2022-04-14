@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2274 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Pionieri"]
 +++
 O, Doamne! O, Doamne!
 Iată o pasăre cu aripile frânte al cărei zbor a încetinit; ajut-o să se înalţe spre culmile prosperităţii şi ale mântuirii, ca să-şi poată urma drumul, cu cea mai deplină bucurie şi cea mai mare fericire, prin spaţiile nesfârşite, iar cântu-i întru slăvirea Numelui Tău Suprem să se reverse asupra tuturor regiunilor lumii şi să înveselească auzurile prin chemarea sa şi să lumineze ochii care recunosc semnele călăuzirii.

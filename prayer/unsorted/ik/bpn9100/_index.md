@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9100 in Alaska Native'
 author = "Abdu'l-Bahá"
-tags = ['lang-ik', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ik', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Iñupiaq - North Slope Dialect"]
 +++
 **Prayer for Steadfastness
 Anayanaikkich avluġnipayaavut, Ataniiq, apqutikkun suaŋasaaġlugiḷḷu uummativut kamakkutigni. 

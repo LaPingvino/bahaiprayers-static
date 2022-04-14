@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1773 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tafla Hins heilaga sæfara"]
 +++
 Hann er hinn náðugi og ástfólgni!
 Ó heilagi sæfari!

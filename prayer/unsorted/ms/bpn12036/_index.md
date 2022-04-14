@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12036 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-BAYI YANG MENYUSU"]
 +++
 Terpujilah Engkau, Ya Tuhan, Tuhanku! Berikanlah bayi ini susu daripada dada belas kasihan lembut dan kasih sayang-Mu yang mesra dan dipelihara dengan buah-buahan daripada pohon-pohon syurgawi-Mu. Janganlah membiarkan dia diasuh oleh sesiapa pun kecuali Engkau, kerana Engkau Sendirilah yang menciptakannya dan mewujudkannya, melalui kekuatan kehendak dan kekuasaan-Mu yang berdaulat. Tiada Tuhan kecuali Engkau, Yang Maha Kuasa, Yang Maha Tahu.
 

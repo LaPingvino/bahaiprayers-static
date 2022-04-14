@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12025 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Bilbiller Ýazgysy"]
 +++
 Oldur Gadyrly, Belent mertebe we Uly.
     Eý Ylahy bilbiller! Peslik tikenliginden manylar gülüstanyna tarap howlugyň eý gumdan dörän dostlar!

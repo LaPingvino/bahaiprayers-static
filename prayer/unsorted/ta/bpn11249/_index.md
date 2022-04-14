@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11249 in தமிழ்'
 author = "Bahá'u'lláh"
-tags = ['lang-ta', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ஆன்மீக வளர்ச்சி"]
 +++
 பிரார்த்தனைகளைச் செவிமடுத்திடும், பிரார்த்தனைகளுக்குப் பதிலளித்திடும் கடவுள் அவரே!
 

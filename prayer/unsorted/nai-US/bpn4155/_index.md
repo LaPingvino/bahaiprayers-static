@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4155 in American Indian'
 author = "Báb"
-tags = ['lang-nai-US', '', "Báb", "unsorted"]
+tags = ['lang-nai-US', 'prayer-', "author-Báb", "category-unsorted", "cat-Kumeyaay"]
 +++
 My-shin ta-pow mauw Ma-eye Myha cum-lie Anusch? Keye Myha a-chan! Ne-ip Myah! Nea chums Myha muk-a-wik witch, nea chums we-eech-pull me na!.
 

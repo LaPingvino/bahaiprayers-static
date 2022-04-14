@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2168 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Copii şi Tineri"]
 +++
 Lăudat fii Tu, o, Doamne Dumnezeul meu!
 Îngăduie cu bunăvoinţă ca acest prunc să fie alăptat la sânul blândei Tale milostiviri şi al providenţei Tale iubitoare, şi să fie hrănit cu roadele pomilor Tăi cereşti. Nu îngădui ca el să fie încredinţat grijii nimănui altcuiva decât Tine, căci Tu Însuţi, prin puterea voinţei şi tăriei Tale suverane, l-ai creat şi l-ai chemat întru fiinţă. Nu există alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Atotştiutor.

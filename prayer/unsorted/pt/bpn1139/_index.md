@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1139 in Português (BR)'
 author = "Abdu'l-Bahá"
-tags = ['lang-pt', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Provações e Dificuldades"]
 +++
 Ele é Deus! Ó Senhor, meu Deus! Ó Tu, que ajudas o fraco, socorres o pobre e salvas o desamparado que para Ti se volta.
 Com a maior humildade ergo as minhas mãos suplicantes ao Teu reino de beleza e com ardor invoco-Te, falando do íntimo do meu ser: Ó Deus, meu Deus! Ajuda-me a adorar-Te. Fortalece os meus poderes para Te servir. Ampara-me, com a Tua graça, em minha servitude a Ti. Que eu permaneça firme em minha obediência a Ti. Derrama sobre mim as copiosas graças da Tua benevolência. Dirige-me os olhares da Tua amorosa bondade e imerge-me no oceano do Teu perdão. Permite que eu seja confirmado em minha fidelidade à Tua Fé e concede-me a máxima certeza e segurança para que eu possa desligar-me inteiramente do mundo, voltar a minha face com toda devoção em direção à Tua face, ser fortalecido pelo poder irresistível das provas e testemunhos e, investido de majestade e poder, possa ultrapassar todas as regiões do céu e da terra. Verdadeiramente, Tu és o Misericordioso, o Todo-Glorioso, o Soberano, o Compassivo.

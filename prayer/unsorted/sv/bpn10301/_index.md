@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10301 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Bistånd"]
 +++
 Förhärligad vare Du, o Herre min Gud!  Jag ber Dig vid Ditt namn, vilket Du har upphöjt över alla andra namn och genom vilket himmelens täckelse rivits sönder och Din skönhets Morgonstjärna stigit över horisonten, lysande med klarheten hos Ditt namn, det Upphöjda, det Högsta, att undsätta mig med Din förunderliga hjälp och att bevara mig i Din omsorgs och Ditt värns beskydd.
 Jag är en av Dina tjänarinnor, o min Herre! Till Dig har jag vänt mig och till Dig har jag satt min tillit. Bevilja att jag förmår vara så trogen i min kärlek till Dig att jag kan utföra det som är Dig till behag, så att varken bristerna hos de otrogna bland Dina tjänare eller motståndet från hycklarna bland Dina skapelser kan få mig att hålla mig borta från Dig.

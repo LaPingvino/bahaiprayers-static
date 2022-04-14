@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8599 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-祈求护佑"]
 +++
 主啊，我的上帝！一切赞美归于祢的圣名！借由祢的圣名，我恳求祢，自祢慈悲的天庭及祢温和的祥云降下甘霖，赐给那些皈依并协助祢圣道的仆役们，以欢愉他们的心田。那一刻已到来，复活已应验，天地万物都在敬畏和震颤。
 我的主啊！护佑祢的男女仆人吧，使他们免于无益幻想的侵袭，从祢慈惠手中汲取知识甘霖。

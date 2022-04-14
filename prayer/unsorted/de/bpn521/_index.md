@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn521 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Allmacht Gottes"]
 +++
 Im Namen Gottes, des Höchsten! Gepriesen und verherrlicht seiest Du, Herr, allmächtiger Gott! Du, vor Dessen Weisheit der Weise fehlt und fällt, vor Dessen Wissen der Gelehrte sein Unwissen bekennt, vor Dessen Kraft der Starke schwach wird, vor Dessen Reichtum der Reiche seine Armut bezeugt, vor Dessen Licht der Erleuchtete im Dunkel verlorengeht, zu Dessen Schrein der Erkenntnis sich das Wesen allen Begreifens hinneigt und Dessen geheiligte Gegenwart die Seelen der Menschen umkreisen.
 

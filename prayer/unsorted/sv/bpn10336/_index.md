@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10336 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Möten"]
 +++
 O min Gud! O min Gud! Sannerligen, dessa tjänare vänder sig till Dig och bönfaller Din barmhärtighets rike. Sannerligen, de dras till Din helighet och är upptända av Din kärleks eld, söker bekräftelse från Ditt underbara rike och hoppas att uppnå Ditt himmelska land. Sannerligen,  de längtar efter nedsändandet av Din gåva och önskar upplysning från Verklighetens sol.  O Herre! Gör dem till strålande lampor, barmhärtiga tecken, fruktbärande träd och lysande stjärnor. Må de träda fram i Din tjänst och bli förenade med Dig genom Din kärleks bojor och band i längtan efter Din ynnests ljus.  O Herre! Gör dem till vägledande tecken, baner i Ditt odödliga rike, vågor på Din barmhärtighets hav, speglar för Ditt majestäts ljus.
 Sannerligen, Du är den Givmilde. Sannerligen, Du är den Barmhärtige. Sannerligen, Du är den Dyrbare, den Älskade.

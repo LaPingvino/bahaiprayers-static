@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6979 in Fiji'
 author = "Abdu'l-Bahá"
-tags = ['lang-fj', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fj', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-NA VEIVAKATAVULICI"]
 +++
 O i Kemuni na Kalou sa sega ni vakatautauvatani rawa! O i Kemuni na Turaga ni Matanitu vaKalou! O ira na yalo oqo era sa Nomuni mataivalu vakalomalagi. Ia, e na Nomuni matanitu vaKalou, Ni vukei ira me ra sa qaqa, ka me rawa kina ni yaco vei ira yadudua me tautauvata na nodra i gu kei na dua na mata sotia ka me kabai ira rawa kina na veivanua oqo e na vuku wale ga ni loloma ni Kalou kei na veivakararamataki ni veivakavuvuli vakayalo.
 

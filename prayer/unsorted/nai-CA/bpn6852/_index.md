@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6852 in Canadian Indigenous'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-CA', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nai-CA', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Northern Tutchone"]
 +++
 *(Na  Ité ithui, ethui ninghinta sothan eyínjyái Hutsha-dun, itsua, iney, imiua, ijya:
 * Blessed is the Spot

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12196 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-NAW-RÚZ"]
 +++
 Pujian bagi-Mu, Ya Tuhanku, kerana Engkau telah menetapkan Naw-Rúz sebagai satu hari raya bagi mereka yang telah berpuasa kerana cinta kepada-Mu dan telah menjauhkan diri daripada segala sesuatu yang tak Engkau sukai. Izinkanlah, Ya Tuhanku, api cinta-Mu dan haba yang dihasilkan kerana puasa yang telah Engkau tetapkan agar menyalakan semangat mereka dalam Akidah-Mu, dan membuat mereka asyik dengan pujian dan pengingatan kepada-Mu.
 

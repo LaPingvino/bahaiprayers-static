@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7599 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Avioliitto"]
 +++
 *Bahá'í-avioliitto on kahden osapuolen sitoutumista toinen toiselleen ja heidän mielensä ja sydämensä yhteistä kiintymystä. Kummankin tulee kuitenkin äärimmäisen huolellisesti tutustua perin pohjin toisen luonteeseen, jotta heidän välinen sitova liitto olisi side, joka kestää ikuisesti. Heidän tarkoituksensa tulisi olla tämä: tulla rakastaviksi tovereiksi ja kumppaneiksi, jotka ovat yhtä toistensa kanssa ajassa ja ikuisuudessa.
 *‘Abdu’l-Bahá

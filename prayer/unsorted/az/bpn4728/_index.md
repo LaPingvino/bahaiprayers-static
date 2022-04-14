@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4728 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Bəşəriyyət üçün dualar"]
 +++
 Sən Ey Mehriban Allah! Sən bütün bəşəri bir kökdən yaratmısan. Sən hökm vermisən ki, hamı bir ailəyə mənsub olsun. Sənin Müqəddəs Hüzurunda onların hamısı Sənin bəndələrindir və bütün bəşər Sənin Çadırının altında pənah tapıb; hamı Sənin Kəramət Süfrənin ətrafında toplaşıb; hamı Sənin inayətinin işığı ilə nurlanıb.
 

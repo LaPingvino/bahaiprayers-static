@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00018FOR in English'
 author = "Báb"
-tags = ['lang-en', '', "Báb", "Families"]
+tags = ['lang-en', 'prayer-BB00018FOR', "author-Báb", "category-Families", "cat-Families"]
 +++
 #Parents
 

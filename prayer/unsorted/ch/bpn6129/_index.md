@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6129 in Chamorro'
 author = "Abdu'l-Bahá"
-tags = ['lang-ch', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ch', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-OTRO SIHA NA TINAITAI"]
 +++
 O Yu’os-hu, i Guinaiya-ku, i Tinanga-hu! Fa’amigu-Mu yo’ gi minahalang-hu ya dalalake yo’ mo’na gi madesteladu-hu. Na’suha i piniti-hu. Na’dibotu yo’ gi ginatbo-Mu. Na’suha yo’ gi todu fuera ki Hagu. Bense yo’ yan i sinan- tusan paopao-Mu. Na’fanhami gi Raino-Mu yan todu ayu siha i manasipara gi todu fuera ki Hagu, ni matatanga ma setbe i sinantusan na saga-Mu ya fanohge para u makomple i che’cho’-Mu. Na’faset na guahu unu gi famalao’an na setbente- Mu ni mumiresi i minaolek-Mu. Sen magahet, Hagu i Grasiosu, i Geftao.
 

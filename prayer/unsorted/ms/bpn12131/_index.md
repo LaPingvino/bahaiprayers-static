@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12131 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MENGAJAR"]
 +++
 Pujian bagi-Mu, Ya Tuhan, Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang tak seorang pun layak mengenali, dan yang maksud-Nya tak ada sebarang jiwa pun mengerti; aku memohon kepada-Mu, demi Dia Yang adalah Sumber Wahyu-Mu dan Fajar tanda-tanda-Mu, agar menjadikan hatiku sebagai wadah cinta-Mu dan penuh pengingatan kepada-Mu. Maka hubungkanlah ia kepada Samudera-Mu yang maha besar, agar daripadanya akan mengalir air kehidupan kearifan-Mu dan sungai-sungai jernih kemuliaan dan pujian-Mu.
 

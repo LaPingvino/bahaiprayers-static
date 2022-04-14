@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9809 in മലയാളം'
 author = "Bahá'u'lláh"
-tags = ['lang-ml', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ml', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-നീതി"]
 +++
 പറയൂ: ദൈവമേ! എന്‍റെ ദൈവമേ! എന്‍റെ ശിരസ്സില്‍ നീതിയും ഹൃദയത്തില്‍ ധര്‍മ്മനിഷ്ഠയും അണിയിക്കുക. സത്യമായും അങ്ങ് സര്‍വ്വാനുഗ്രഹദായകനും വരപ്രദനുമാണല്ലോ.
 

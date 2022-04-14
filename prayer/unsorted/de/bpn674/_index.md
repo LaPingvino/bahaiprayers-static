@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn674 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tafel vom Heiligen Seefahrer - Lawh-i-Malláhu'l-Quds"]
 +++
 *„Studieret das Tablet vom Heiligen Seefahrer, damit ihr die Wahrheit erkennet, und bedenket, dass die Gesegnete Schönheit zukünftige Ereignisse klar vorausgesagt hat. Lasst die Verständigen gewarnt sein.“ —Abdu’l-Bahá
 

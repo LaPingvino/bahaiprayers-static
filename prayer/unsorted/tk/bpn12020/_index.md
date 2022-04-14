@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12020 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Didar Dogasy"]
 +++
 Hu-äl-Äbha.
     Ylahy! Ylahy! Dogrudanam aýamy açyp, Saňa sary uzadýaryn. Ellerimde, asgynlyk, pespällik we üzňelik halaty bar. Danalaryň aňyna sygmajak örän belent we päk bolan Işigiňe hem alymlaryň öwgüsinde ýerleşmejek has beýik bolan Dergähiň törüne ýüz tutýaryn. Seniň Taýsyzlyk Gapyňa baş egen bu pespäl bendäňe geçirimli göz bilen nazar sal. Ony Öz Rähmet deňziňde gark eýle.

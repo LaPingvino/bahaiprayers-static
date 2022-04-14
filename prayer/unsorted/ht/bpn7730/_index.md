@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7730 in Kreyol Ayisyen'
 author = "Abdu'l-Bahá"
-tags = ['lang-ht', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Priyè pou Moun ki Mouri"]
 +++
 O Bondye mwen! O Ou menm Ki padone peche yo, Ki bay favè yo, Ki fè soufrans yo disparèt! 
 An verite, mwen sipliye Ou pou padone peche sila a yo ki kite kò materyèl yo, ki monte nan mond espirityèl la. 

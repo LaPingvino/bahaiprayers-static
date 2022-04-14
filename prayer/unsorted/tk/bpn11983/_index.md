@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11983 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Merhemet We Jomartlyk Dilemek"]
 +++
 Hu’äl-Äbha.
     Men günäkär, Sen Ýalkaýjy. Gaflat pyýalasyndan meý-mes men, Sen meni hüşgär eýle. Men bu tukat jahanyň zikrini aýdyp ýörün. Sen maňa şeýle bir gulak bagyş eýle ki, ol Perişdeleriň çalýan mukamyny diňlesin, Mukaddes bossanyň andalybynyň owazyny eşitsin hem Duýgy güýji bilen şükür edýän guşlaryň saýraýşyny duýsun.

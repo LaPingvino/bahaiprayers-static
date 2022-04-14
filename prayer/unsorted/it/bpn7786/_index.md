@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7786 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Assemblea Spirituale"]
 +++
 Riunitevi in perfetta letizia e all’inizio della riunione recitate questa preghiera:
 

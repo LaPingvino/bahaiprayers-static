@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7952 in Malti'
 author = "Abdu'l-Bahá"
-tags = ['lang-mt', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mt', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Qtugħ"]
 +++
 O Alla, Alla tiegħi! Imla għalija il-bieqja tal-firda minn kollox, u fil-ġemgħa ta’ dwaleK u għotjieteK, ferraħni bl-inbid ta’ l-imħabba lejK. Eħlisni mill-ħebb tal-passjoni u x-xewqa, kissirli l-manetti ta’ din id-dinja taħtana, iġbidni imsaħħar lejn saltnateK fuqana, u ġeddidni fost il-qaddejja b’nifsijiet qdusiteK.
 

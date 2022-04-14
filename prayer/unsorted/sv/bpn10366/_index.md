@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10366 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Naw-Rúz"]
 +++
 *Naw-Rúz, den 21 mars, är årets första dag i bahá’í-kalendern.
 Prisad vare Du, o min Gud, för att Du har föreskrivit Naw-Rúz som en högtid för dem, som har iakttagit fastan av kärlek till Dig och avhållit sig från allt som är Dig motbjudande.

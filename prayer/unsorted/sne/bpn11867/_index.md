@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11867 in Bidayuh'
 author = "Bahá'u'lláh"
-tags = ['lang-sne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Doa Togap Binaan"]
 +++
 O Topa, Topa ku! Oku mbok ngaduap daang bitobat tudu Ingan, bia notap Ingan leh dek Pimaaf, dek Pinyayang. 
 O Topa, Topa ku! Oku mbok palik tudu Ingan, bia totap Ingan leh dek Selalu- Pingapunt, dek Bibudi.

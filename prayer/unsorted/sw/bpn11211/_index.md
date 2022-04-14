@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11211 in Kiswahili'
 author = "Bahá'u'lláh"
-tags = ['lang-sw', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sw', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-JIONI"]
 +++
 Ee Mungu wangu, Bwana wangu, Lengo la shauku yangu!  Mtumishi wako huyu, atazamia kusinzia katika kivuli cha rehema Yako na kupumzika chini ya chandalua cha rehema Yako, akiomba uangalizi Wako na ulinzi Wako. 
 

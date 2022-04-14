@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11662 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Reuniones"]
 +++
 ¡Oh Dios perdonador! Estos siervos se vuelven hacia Tu reino en busca de Tu gracia y generosidad. ¡Oh Dios! Haz buenos y puros sus corazones para que lleguen a ser merecedores de Tu amor. Purifica y santifica los espíritus para que la luz del Sol de la Realidad brille sobre ellos. Purifica y santifica los ojos para que puedan percibir Tu luz. Purifica y santifica los oídos para que puedan oír el llamado de Tu reino.
 ¡Oh Señor! Verdaderamente, somos débiles, pero Tú eres fuerte. Verdaderamente, somos pobres, pero Tú eres rico. Somos buscadores y Tú eres Aquel a Quien buscamos. ¡Oh Señor! Ten compasión de nosotros y perdónanos; confiérenos tal capacidad y receptividad que nos haga dignos de Tus favores y nos atraiga a Tu reino, que bebamos en abundancia del agua de vida, seamos encendidos con el fuego de Tu amor y resucitemos por medio de los hálitos del Espíritu Santo que soplan en este siglo radiante.

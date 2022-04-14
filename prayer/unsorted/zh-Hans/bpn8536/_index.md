@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8536 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-晚祷"]
 +++
 上帝，我的上帝啊！当渴慕祢的双目因与祢分离而无法成眠，我又怎能入睡？当祢垂爱的灵魂因远离祢而悲恸万分，我又怎能成寐？
 主啊，我已将整个灵魂与生命，托付给祢权威和庇护的右掌。凭借祢的力量，我才能安睡，再依照祢的意旨和喜悦，我才能苏醒。祢确然是庇佑者，看护者，全能者，至能者。

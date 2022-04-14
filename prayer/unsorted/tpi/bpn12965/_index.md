@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12965 in Tok Pisin'
 author = "Bahá'u'lláh"
-tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MARRIAGE"]
 +++
 *Man na meri, taim tupela i laik marit, wan wan i mas autim Tok Promis bilong Marit long ai bilong tupela pesman, husat Spiritual Asembli bilong Ples i bin makim.  Bahá’íullÆh i bin raitim dispela Tok Promis bilong Marit insait long Buk i Holi Tru, em Kitab-i-Aqdas, olsem: 
  

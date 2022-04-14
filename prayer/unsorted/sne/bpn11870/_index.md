@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11870 in Bidayuh'
 author = "Bahá'u'lláh"
-tags = ['lang-sne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Doa Ngajar"]
 +++
 Adon Ingan dek obuah bilagah, O Topa ku, setegal Ingan mbok bitanga Onu dek mok jadin Raja Onu, Onu dek ogi Ingan magah tudu Bala tipilih Ingan bia Nabi-Nabi Ingan daang Loh- Loh Ingan dek paling timogah ponai, Onu dek sok Ingan nguliak mulia dek timogah daang sua adon Ingan tudu sua onik dek obuah motan. Ayuh manah leh berkat simun-mun nyaa dek nak odop-eh nuju Ingan, bia ngaluh pimonog Ingan, bia terima aton ayong sina Ingan.
 Oku nguwai Ingan, O Raja ku, pakai adon Iyoh pilulung Nyaa noh bipusing da’ang muja pritah adon-adon Ingan, nang Ingan totap dengan sudi tulung bala dek nyayang Ingan odak pakat sanyung bang sina Ingan diantara ulunt-ulunt Ingan, bia odak kapah jua-jua pimudi Ingan tudu uluk-uluk pimotan-pimotan Ingan, sak pimunuas revelasi Ingan pod-pod ngisik jiwa-jiwa dek sua-sua, pinokont ndu tanak Ingan. 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12342 in Tuvalu'
 author = "Báb"
-tags = ['lang-tvl', '', "Báb", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Báb", "category-unsorted", "cat-MANUMAALO O TE FAKATOKAAGA"]
 +++
 O te Aliki! Fai aka ko tino katoa o te lalolagi ke maua se avanoaaga ki loto i te Palataiso o Tau Talitonuuga, ko te mea ke seai se mea faiite e nofo mai i luga atu o tuakoi o Tou fiafiaaga-lei.  
   

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7395 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Rozwój duchowy"]
 +++
 O Boże, mój Boże! Oto Twoi biedni słudzy, oto Twoi wierni poddani i Twoje służebnice, którzy skłonili się przed Twoją wzniosłą wypowiedzią, ukorzyli się u Twego Progu światłości i świadczyli o Twojej jedności, dzięki której Słońce zajaśniało we wspaniałości południa. Usłuchali oni wezwań, któreś zanosił ze swojego ukrytego Królestwa, i z sercami drżącymi z miłości i uniesienia odpowiedzieli na Twoje wołanie.
     

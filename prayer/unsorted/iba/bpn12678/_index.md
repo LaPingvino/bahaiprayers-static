@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12678 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-SAMBIANG PEMATI"]
 +++
 O Petara aku! O Nuan pengampun dosa, ti ngenataika pemeri, pemuai semua pemedis!
 Amat bendar, aku minta Nuan ngampun dosa sida ti udah ninggalka gari dunya tu lalu udah niki ngagai dunya semengat.

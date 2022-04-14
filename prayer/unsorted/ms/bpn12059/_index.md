@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12059 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-CUBAAN & KESUKARAN"]
 +++
 Dimuliakanlah Engkau, Ya Tuhanku! Jika bukan kerana kesukaran yang telah ditahan dalam jalan-Mu, bagaimanakah pencinta sejati-Mu dapat ditemui; dan jika tidak kerana cubaan-cubaan yang ditanggung demi cinta kepada-Mu, bagaimanakah kedudukan mereka yang menginginkan Engkau dapat ditonjolkan? Kekuatan-Mu menjadi saksiku! Yang menemani kesemua mereka yang menyanjungi-Mu adalah titisan air mata yang telah ditangisi, dan penenang untuk mereka yang mencari-Mu adalah rintihan yang diucapkan mereka, dan makanan bagi mereka yang segera menemui-Mu adalah serpihan hati mereka yang telah berkecai.
 

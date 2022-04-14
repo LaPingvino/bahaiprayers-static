@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2764 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ndjesa"]
 +++
 *(Lutje nga i nënti Lajm i Gëzuar i Bahá'u'lláh-ut)
 

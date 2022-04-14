@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3238 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Geestelike Raad"]
 +++
 *Gebed wat by die afsluiting van 'n vergadering van die Geestelike Raad behoort gesê te word.
 

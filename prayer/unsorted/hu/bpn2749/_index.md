@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2749 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Szökőnapok"]
 +++
 *[A Szökőnapok – Ayyám-i-Há, február 26–március l. – a Böjtre való felkészülés, a vendégszeretet, a jótékonykodás és az ajándékozás napjai.]
 

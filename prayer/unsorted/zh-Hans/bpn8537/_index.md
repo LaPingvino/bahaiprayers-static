@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8537 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-晚祷"]
 +++
 真理的探求者啊！你若渴望上帝开启你灵性之眼，你就须在午夜恳求上帝，向祂祈祷并与之交谈。你可以如是说：
 主啊！我已转向祢唯一性之王国，沉浸在祢的慈悲之海。主啊！在这黑夜里，以祢的光辉照亮我的视野；在这美妙的时代，以祢爱之甘醇令我欢快。主啊！请让我聆听祢的呼唤，在我面前敞开祢的天国之门，从而使我目睹祢的荣耀之光，受到祢圣美的吸引！

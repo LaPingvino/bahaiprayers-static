@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1211 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Firmeza e Constância"]
 +++
 Louvado sejas, ó Senhor meu Deus! Imploro-Te - pelos Teus sinais que envolveram a criação inteira, pela luz do Teu semblante, que se irradiou sobre todos no céu e na terra, pela Tua misericórdia, a qual transcendeu todas as coisas criadas, e Tua graça que se difundiu por todo o universo - rompe os véus que me excluem de Ti para que eu me apresse à Fonte da Tua poderosa inspiração e à Aurora da Tua Revelação e das Tuas copiosas dádivas, e me possa imergir no oceano da Tua aprovação e da Tua proximidade.
 Não permitas que eu seja impedido de Te conhecer em Teus dias, ó meu Senhor, nem me tires as vestes da Tua guia. Deixa-me sorver do rio que é a verdadeira vida, cujas as águas manaram do Paraíso onde se estabeleceu o trono do Teu Nome, o Todo-Misericordioso, a fim de que os meus olhos sejam abertos, a minha face seja iluminada, o meu coração seja tranquilizado e, a minha alma seja esclarecida, e que os meus passos se façam firmes.

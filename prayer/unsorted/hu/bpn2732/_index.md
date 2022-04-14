@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2732 in Magyar'
 author = "Báb"
-tags = ['lang-hu', '', "Báb", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Báb", "category-unsorted", "cat-Tanítás"]
 +++
 Dicsőség légyen Néked, ó, Uram, Ki parancsod erejével életre hívtál minden teremtett dolgot.
 

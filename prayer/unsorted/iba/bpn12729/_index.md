@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12729 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PUASA"]
 +++
 Tu meh, O Petara aku, hari alai Nuan udah ngeletak bala pengasuh Nuan ngintu Puasa. Ngena nya Nuan udah ngiyas jaku pemuka ba Bup Adat Nuan ti dipegarika ngagai semua utai tempa Nuan, lalu udah ngayanka Tibang jaku-tangkan Nuan dipeda semua ti diau di serega Nuan enggau di bumi Nuan. Nuan udah nyikap genap jam ba semua hari tu enggau pemanah ia empu, ke enda ditemu semua semina Nuan, penemu Iya nyerangkung semua utai tempa. Nuan udah, mega, nagaka ngagai genap semengat sebagi ari pemanah tu nitihka dalam Papan Tulis letak-tangkan Nuan enggau Kitab pemutus ukum Nuan ti enda ulih diubah. Tiap lambar ba Bup enggau Kitab tu Nuan udah, nambah mega, ngagihka ngagai genap iku mensia enggau raban bansa di dunya.
 Ngagai bala sulu Nuan ti chukup dikerindu, Nuan udah, nitihka letak-tangkan Nuan, ngungkupka, ba tiap pagi, changkir pengingat Nuan, O Nuan Siku Raja ke semua raja! Tu meh sida ti udah gian laban ai anggur pemayuh pemintar Nuan ke alai sida ninggalka padung-peninduk sida ketegal pengingin sida deka ngerami puji Nuan enggau nerantangka pemanah Nuan, lalu berumban angkat ari tinduk ketegal pengeran sida deka mansang ngagai pemisi Nuan lalu bulih pemeri Nuan. Ba tiap maya, mata sida udah dikedang ngagai Terebak-tawas pengerindu-penelap Nuan, lalu mua sida dikuing nuju Pun Panchur peransang Nuan. Udah nya, perujanka, ba kami enggau ba sida ari mua-hari pengasih Nuan utai ti ngakun ba serega pemeri enggau berekat Nuan.

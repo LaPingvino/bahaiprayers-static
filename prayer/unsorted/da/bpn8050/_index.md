@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8050 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Familier"]
 +++
 O Gud, min Gud! Denne Din tjenerinde påkalder Dig, i tillid til Dig, med sit ansigt vendt mod Dig, bønfaldende Dig om at sprede Dine himmelske gaver over hende og afdække Dine åndelige mysterier for hende og kaste lyset fra Din guddommelighed på hende.
 

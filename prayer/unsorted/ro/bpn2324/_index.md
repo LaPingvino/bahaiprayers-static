@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2324 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Zilele Intercalare"]
 +++
 *Zilele Intercalare, 26 februarie - 1 martie, sunt zile de pregătire pentru Post, zile de ospitalitate, dragoste de semeni şi oferire de daruri.
 

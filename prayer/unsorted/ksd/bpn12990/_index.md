@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12990 in Kuanua'
 author = "Abdu'l-Bahá"
-tags = ['lang-ksd', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ksd', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-A NIARING UPI RA UMANA BUL"]
 +++
 U l.uluai. mataure iau, balaure iau; mal iau dari ra birao na lam ma a matotona tagul U a dekdekina ma aongor vurakit.
 

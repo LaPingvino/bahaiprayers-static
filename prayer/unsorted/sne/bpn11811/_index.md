@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11811 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Onu Singalom"]
 +++
 *(Doa Tuluap Ngalom)
 *	O nyaa de kalik pangibonar! Simo daang niat ingan sak Topa pod-pod buka boton ingan, ingan mesti mujok bito’os tudu Topa, bidoa tudu bia biubung duwoh Iyoh takal jojuab tuluap ngalom, nang ineh:

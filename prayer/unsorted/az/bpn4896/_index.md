@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4896 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Həzrət Bəhaullahın və Həzrət Babın Ziyarətnaməsi"]
 +++
 *Bu Lövh Həzrət Bəhaullahın və Həzrət Babın Məqamlarında, habelə Onların süud ildönümlərində istifadə olunur.
 

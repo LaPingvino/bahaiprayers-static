@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3529 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Løsrivelse"]
 +++
 O Gud, og alle navns Gud, og himlenes skaper! Jeg bønnfaller deg ved ditt navn hvorved han som er din veldes daggry og din styrkes demringssted er blitt åpenbart, hvorved enhver fast ting er gjort flytende, og ethvert dødt legeme er gitt nytt liv, og enhver ånd med evnen til bevegelse er blitt bestyrket -jeg bønnfaller deg om å gjøre meg i stand til å fri meg for all tilknytning til hvem som helst uten deg, og til å tjene din Sak, og til å ønske det som du ønsket ved ditt herredømmes styrke, og til å utføre det som er din vilje til behag.
  

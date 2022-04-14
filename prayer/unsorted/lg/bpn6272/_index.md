@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6272 in Luganda'
 author = "Abdu'l-Bahá"
-tags = ['lang-lg', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-lg', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-OBUKUUMI"]
 +++
 Ye ye Katonda, Ayi Mukama, Katonda wange!  Ayi Ggwe omuyambi w'abanafu, omukubagiza w'abanaku, era omununuzi wa bakateyamba abo abakyukira Gyoli.
 N'obuwombeefu obuyitiridde, nyimusa emikono gyange eri obwakabaka bw'obulungi Bwo, nga nkukowoola n'omutima gwange gwonna, nga ngamba nti; Ayi Katonda, Katonda wange!  Nyamba okukwagala, onyongere amaanyi mu kukuwereza, era onfuule omuvumu mu buwereza bwange Gyoli; onyambe onywereze mu kugondera amateeka Go, onjiweko omukisa Gwo omulungi, teka amaaso Go ag'okwagala n'ekisa, gantunuulire, era onyinyike mu nnyanja y'okusonyiwa Kwo.  Nyamba okunywera mu Nzikiriza yo.  Era ompe ekigera ekijuvu. Ekitabusibwa busibwa Onkakase negye kuby'ensi era ebirowoozo byange byonna mbimalire ku Ggwe, nywezebwe amaanyi g'okukakasibwa Kwo, era n'obujulirwa Bwo, nyambazibwe ekitiibwa n'obuyinza, mpite mu buli kitundu ky'eggulu n'ensi.  Ddala ddala, Ggwe Oli musaasizi, Ggwe Oli wa Kitiibwa Kyonna, Oli wa Kisa.

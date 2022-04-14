@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1596 in Íslenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-is', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Andlegir eiginleikar"]
 +++
 Ó Guð minn! Ó Guð minn! Dýrð sé Þér fyrir að hafa gefið mér staðfestu til að viðurkenna einingu Þína, laðað mig að orði einstakleika Þíns, upptendrað mig með eldi ástar Þinnar og látið mig festa hugann við minningu Þína og þjónustu við vini Þína og þjónustumeyjar.
 Ó Drottinn, hjálpa mér að vera auðmjúkur og undir­gefinn, gef mér styrk til að skiljast frá öllu sem er og ná traustu taki á klæðisfaldi dýrðar Þinnar svo hjarta mitt megi fyllast ást Þinni og ekkert rúm verði eftir fyrir ást á heiminum og eftirsókn eftir eigindum hans.

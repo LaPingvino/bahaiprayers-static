@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9093 in اُردُو'
 author = "Bahá'u'lláh"
-tags = ['lang-ur', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ur', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-جنرل"]
 +++
 ہواللہ
 اے پروردگار! میں گناہگار ہوں اور تو گناہوں کا بخشنے والا میں قاصر ہوں اور تو غفارالذنوب۔ میں گناہوں کی تاریکی میں ہوں اور تو نور غفرانی ہے۔ 

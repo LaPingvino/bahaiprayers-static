@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7244 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ΠΙΝΑΚΙ∆ΕΣ ΠΡΟΣΚΥΝΗΜΑΤΟΣ"]
 +++
 *(Αυτή η προσευχή, που έχει αποκαλυφτεί από τον Αµπντολ-Μπαχά, διαβάζεται στον Τάφο Του. Χρησιµοποιείται επίσης σαν προσωπική προσευχή!}
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1318 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Orações Obrigatórias"]
 +++
 #A SER RECITADA DIARIAMENTE, PELA MANHÃ, AO MEIO-DIA E AO ANOITECER
 *Aquele que deseja rezar deverá lavar as mãos e, ao lavá-las, dizer:Fortalece a minha mão, ó meu Deus, para que possa segurar o Teu Livro com tal firmeza que as hostes do mundo não tenham sobre ela poder algum. Guarda-a, pois, de tocar o que não lhe pertence. Tu és, em verdade, o Omnipotente, o Mais Poderoso.

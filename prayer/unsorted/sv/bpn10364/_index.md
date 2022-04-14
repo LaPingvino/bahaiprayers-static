@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10364 in Svenska'
 author = "Bahá'u'lláh"
-tags = ['lang-sv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Skottdagarna"]
 +++
 Skottdagarna, Ayyám-i-Há, 26 februari - 1 mars, bör ägnas åt förberedelser inför fastan, åt gästfrihet, välgörenhet och utdelande av gåvor.
 Min Gud, min eld och mitt ljus! De dagar som Du har benämnt Ayyám-i-Há i Din bok har börjat, o Du som är namnens Konung, och nu närmar sig fastan som Din mest upphöjda penna har ålagt alla i Din skapelses rike att hålla. Jag bönfaller Dig, o min Herre, vid dessa dagar och vid alla dem, som under denna tid har hållit fast vid Dina befallningars band och fattat tag i Dina föreskrifter, att bevilja att varje själ tilldelas en plats inom Din förgårds hägn och ett säte inför uppenbarelsen av glansen från Ditt anletes ljus.

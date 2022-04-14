@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10805 in Chichewa'
 author = "Abdu'l-Bahá"
-tags = ['lang-ny', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ny', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MADZULO"]
 +++
 *O ofufuza Choonadi! Ngati ukukhumba kuti Mulungu atsegule maso ako, uyenera kupempha kwa Mulungu, kupemphera ndi kuyankhula Naye pakati pausiku, ndi kunena: 
 

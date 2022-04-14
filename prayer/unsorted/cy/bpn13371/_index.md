@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13371 in Cymraeg'
 author = "Báb"
-tags = ['lang-cy', '', "Báb", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Báb", "category-unsorted", "cat-Nearness to God"]
 +++
 O Dduw, fy Nuw, f’anwylyd, Dymuniad fy nghalon.
  

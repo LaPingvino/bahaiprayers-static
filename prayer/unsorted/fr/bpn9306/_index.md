@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9306 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Prières pour le jeûne"]
 +++
 Gloire à toi, ô Seigneur, mon Dieu ! En ces jours, tu enjoins à tous les hommes d’observer le jeûne. Que ce jeûne purifie leur âme et les affranchisse de tout attachement à un autre que toi, que de leur cœur s’élève ce qui est digne de la cour de ta majesté et du siège de la révélation de ton unité !
 Ô mon Seigneur, que ce jeûne devienne une rivière aux eaux vivifiantes et engendre la vertu dont tu l’as doté ! Permets-lui de purifier le cœur de tes serviteurs tournés vers ton nom très glorieux malgré les maux de la terre, et restés insensibles au bruit et à la fureur de ceux qui répudient les signes radieux accompagnant la venue de la Manifestation investie de ta souveraineté, de ton pouvoir, de ta majesté et de ta gloire. Dès qu’ils ont entendu ton appel, ces serviteurs se sont précipités vers ta miséricorde ; les vicissitudes de ce monde et les limitations humaines n’ont pu les retenir loin de toi.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12966 in Tok Pisin'
 author = "Bahá'u'lláh"
-tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MARRIAGE"]
 +++
 Em I Givim Planti Samting!  Em i Save Blesim Oltaim! 
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4541 in հայերեն'
 author = "Bahá'u'lláh"
-tags = ['lang-hy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ՀԱՄԱՌՈՏ ՊԱՐՏԱԴԻՐ ԱՂՈԹՔ"]
 +++
 արտասանվում է օրը մեկ անգամ` կեսօրից մինչև մայրամուտ
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4409 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Espiritwal Na Mga Katangian"]
 +++
 Siya ay Diyos! O Diyos, aking Diyos! Ang mga ito ay tagapaglingkod Mo na naaakit sa Iyong mga araw sa pamamagitan ng kabanguhan ng Iyong kabanalan, pinagningas ng apoy na nagliliyab sa Iyong banal na punong-kahoy, tumutugon sa Iyong tinig, bumibigkas ng papuri sa Iyo, ginigising ng Iyong hangin, pinasigla ng Iyong matatamis na halimuyak, nagmamalas sa Iyong mga tanda, nakauunawa sa Iyong mga taludtod, dumirinig sa Iyong mga salita, nananalig sa Iyong Rebelasyon at may katiyakan sa Iyong mapagmahal na kahabagan. Ang kanilang mga mata, O Panginoon, ay nakapako sa Iyong Kaharian ng nagniningning na kaluwalhatian at ang kanilang mga mukha ay nakaharap sa Iyong kaharian sa itaas, ang kanilang mga puso ay pumipintig sa pag-ibig ng Iyong maningning at maluwalhating kagandahan, ang kanilang mga kaluluwa ay natutupok sa apoy ng Iyong pag-ibig, O Panginoon ng daigdig na ito at ng daigdig na susunod, ang kanilang mga buhay ay sabik na sabik sa init ng kanilang paghahangad sa Iyo at ang kanilang mga luha ay tumatagaktak nang dahil sa Iyo.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11836 in Bidayuh'
 author = "Bahá'u'lláh"
-tags = ['lang-sne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Doa Piminien"]
 +++
 *( Sa’ant Dayung)
 Ngin mulia tudu Ingan, O Raja Topa ku! Oku ngugai Ingan pakai Adon Ingan sok noh leh Iyoh Nyaa dek jadin Pangisangon Ingan mbok obuah nubuh ndu tunt takhta Agama Ingan, bia pakai Adon Ingan sok noh leh Ingan ngubah sua onik, bia ngupul-nguluk sua onik, bia ngibotul-pimaguh sua onik, bia balas jasa sua onik, bia odak binaan sua onik, duoh nangung sua onik – Oku mitia mujok Ingan odak jaga onak dayung tih dek mbok bilakat mitia bitoduh tudu Ingan, iyoh kalik geh, gadang Iyoh nyaa dek Odop Ingan geh dek bitanga, iyoh mbok nak sepunua-punua sinongak duoh yakin daang Ingan. 

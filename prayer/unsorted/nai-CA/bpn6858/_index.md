@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6858 in Canadian Indigenous'
 author = "Abdu'l-Bahá"
-tags = ['lang-nai-CA', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nai-CA', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Schuswap"]
 +++
 *O God Guide Me (in the Shuswap Language)
 

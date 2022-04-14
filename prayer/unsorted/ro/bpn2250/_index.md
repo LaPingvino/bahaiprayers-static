@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2250 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Miezul Nopţii"]
 +++
 O, căutător al Adevărului! De vrei ca Dumnezeu să-ţi deschidă ochii, trebuie să-L implori, să I te rogi şi să fii în comuniune cu El la miezul nopţii, spunând:
 

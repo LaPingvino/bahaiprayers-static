@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4152 in Canadian Indigenous'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-CA', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nai-CA', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Cree"]
 +++
 Neepawee steemoke, nedawee non say Mantou, keyooma ay cueseeheen keekag skayntag kaymee haystatak. Neepawee steemoke, mayquatchooma omah may quatska may swatsian aykooma kee ma skowsyooin, aykoomooma un toomaxion keeway yootsin.  Keyooma poko say Mantou mawiyuk gootak, aywee geehiac geeway gagoos dadegwak, weeah, poko enna kahtoe gahtsuk.
 

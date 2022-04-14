@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1461 in فارسی'
 author = "Abdu'l-Bahá"
-tags = ['lang-fa', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fa', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-راز و نياز- شكر و ستايش"]
 +++
 هُواللّه
 #ای خــدای پـُر عَطــای ذوالمَنن

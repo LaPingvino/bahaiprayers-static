@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4682 in հայերեն'
 author = "Bahá'u'lláh"
-tags = ['lang-hy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ՆՈՎՐՈՒԶ"]
 +++
 *(Նովրուզ` 21-ը մարտի, բահայի տարվա առաջին օրը:)
 

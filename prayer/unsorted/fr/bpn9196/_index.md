@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9196 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Guérison"]
 +++
 Ô mon Dieu, tu es celui dont les noms guérissent les malades, soignent les infirmes, désaltèrent les assoiffés, apaisent les âmes tourmentées, guident les égarés, relèvent les humiliés, enrichissent les pauvres, instruisent les ignorants, réconfortent les désespérés, consolent les affligés, raniment les cœurs glacés et soulagent les opprimés. Ô mon Dieu, par ton nom, toute chose créée s’anima, les cieux se déployèrent, la terre fut créée, les nuages se formèrent, la pluie se déversa sur la terre. Ce sont, en vérité, des signes de ta grâce envers toutes tes créatures.
 C’est pourquoi, par ton nom par lequel tu manifestes ta divinité et exaltes ta cause au-dessus de la création tout entière, par chacun de tes titres très excellents, de tes attributs très augustes et par toutes les vertus qui célèbrent ton Être suprême et transcendant, je t’implore. Fais pleuvoir en cette nuit, des nuées de ta miséricorde, les ondées de la guérison sur ce nourrisson que tu as rattaché à ton Être très glorieux dans le royaume de ta création. Ô mon Dieu, revêts-le par ta grâce, du manteau du bien-être et de la santé, et protègele de tout chagrin, de tout désordre et de tout ce que tu réprouves, ô mon Bien-Aimé ! En vérité, ton pouvoir égale toutes choses. En vérité, tu es le Très-Puissant, l’Absolu. Ô mon Dieu, accorde-lui aussi le bien de ce monde et de l’autre et celui des générations anciennes et nouvelles. En vérité, tu en as le pouvoir et la sagesse.

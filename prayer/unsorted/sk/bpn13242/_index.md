@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13242 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Duchovné rady"]
 +++
 *Stretávajte sa s radosťou v srdciach a na začiatku stretnutia predneste túto modlitbu:
 Ó Ty Pane Kráľovstva! Aj keď sme telom prítomní na tomto stretnutí, naše okúzlené srdcia sú uchvátené Tvojou láskou a sme unesení lúčmi Tvojej žiarivej tváre. Nech sme akokoľvek slabí, predsa očakávame prejavy Tvojej moci a sily. A nech sme akokoľvek chudobní, bez prostriedkov či vlastníctva, predsa čerpáme z bohatstva pokladníc Tvojho kráľovstva. Aj keď sme len kvapkami, predsa pijeme z hlbín Tvojho oceánu. A aj keď sme len zrnkami prachu, predsa žiarime v sláve Tvojho nádherného Slnka.

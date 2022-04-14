@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11636 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Protección"]
 +++
 ¡Alabado seas, oh Señor mi Dios! Tú ves y sabes que he llamado a Tus siervos a no volverse hacia ningún lado excepto en dirección a Tus dádivas, y les he pedido que no observen nada sino aquello que Tú prescribiste en Tu Perspicuo Libro, Libro que ha sido enviado de acuerdo con Tu inescrutable decreto y Tu irrevocable propósito.
 No puedo pronunciar palabra alguna, oh mi Dios, a menos que Tú me lo permitas, ni puedo moverme en dirección alguna a menos que obtenga Tu venia. Tú eres, oh mi Dios, Quien me has traído a la existencia mediante la fuerza de Tu poder y me has dotado con Tu gracia para manifestar Tu Causa, por cuanto he sido sometido a tales adversidades que mi lengua no ha podido ensalzarte ni magnificar Tu gloria.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10801 in Chichewa'
 author = "Bahá'u'lláh"
-tags = ['lang-ny', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ny', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PEMPHERO LOKAKAMIZA LALITALI"]
 +++
 *Iye amene afuna kunena Pempheroli, ayenera kuyimirira ndipo atembenukire kwa Mulungu, ndipo poimirira pamalo akewo, iye ayang’ane kudzanja lamanja ndi lamanzere, ngati kuti akuyembekezera chifundo cha Ambuye Wake, Wachifundo-Choposa, Womvera Chisoni. 
 Tsono anene kuti:  

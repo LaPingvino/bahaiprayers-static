@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4904 in Vanuatu'
 author = "Bahá'u'lláh"
-tags = ['lang-bi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-LONGFALA  OBLIGATORI  PREA"]
 +++
 ##Hu we i wantem talemaot prea ia i mas stanap mo tanem hem long God.  Mo taem hem i stanap long ples blong hem, hem i mas luk long raet saed mo long lef saed, olsem hem i stap weit long Masta blong hem i soemaot bigfala sori.  God i gat fulap sori mo Hem i kaen tumas. 
 

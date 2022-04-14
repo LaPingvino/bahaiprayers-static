@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13171 in Slovensky'
 author = "Báb"
-tags = ['lang-sk', '', "Báb", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Báb", "category-unsorted", "cat-Odpustenie"]
 +++
 Ó Bože, náš Pane! Svojou milosťou nás ochraňuj pred všetkým, čo sa Ti prieči, a udeľ nám to, čo Ti prináleží. Daj nám viac zo svojej štedrosti a požehnaj nás. Prepáč nám to, čo sme vykonali, zmy naše hriechy a odpusť nám Svojím milostivým odpustením. Vskutku, Ty si Najvznešenejší, Sebedostačujúci.
 Tvoja milujúca prozreteľnosť zahrnula všetko stvorené v nebesiach i na zemi a Tvoje odpustenie obsiahlo celé stvorenie. Tebe náleží zvrchovanosť. V Tvojej ruke sú kráľovstvá stvorenia a zjavenia, vo Svojej pravici držíš všetko stvorené a v Tvojom zovretí je predurčená miera odpustenia. Podľa Svojej vôle odpustíš hocktorému zo Svojich služobníkov. Vskutku Ty si vždy Odpúšťajúci, nadovšetko Milujúci. Vôbec nič neunikne Tvojmu poznaniu a nič nie je pred Tebou ukryté.

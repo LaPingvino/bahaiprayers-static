@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9400 in Malagasy'
 author = "Abdu'l-Bahá"
-tags = ['lang-mg', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-TAKELA-PAHATSIAROVANA"]
 +++
 *Ity vavaka ity, nambaran’i ‘Abdu’l-Bahá, ity dia vakiana eo anoloan’ny Fasany. Vakiana koa ity amin’ny vavaky ny tena samirery. 
 *Izay mamaky ity vavaka ity amin-kafanam-po sy am-panetren-tena dia mitondra fifaliana sy fahasambarana ao am-pon’ity Mpanompo ity (‘Abdu’l-Bahá); toy ny mihaona mifanatrika Aminy 

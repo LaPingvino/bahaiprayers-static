@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2458 in Русский'
 author = "Bahá'u'lláh"
-tags = ['lang-ru', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ru', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Пространная обязательная молитва"]
 +++
 ##пространная обязательная молитва
 *Произносится единожды в сутки

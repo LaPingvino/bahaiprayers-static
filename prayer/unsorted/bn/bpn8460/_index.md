@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8460 in বাংলা'
 author = "Abdu'l-Bahá"
-tags = ['lang-bn', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-bn', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-পথিকৃৎদের জন্য প্রার্থনা"]
 +++
 (যখন বাহা’ই অন্তেষ্টিক্রিয়ার সময় এই প্রার্থনা পঠিত হয়, তখন সকলকে দাঁড়াইতে হইবে)
 	তিনিই প্রভু, গৌরবান্বিত তিনি, সস্নেহ সহানুভূতি ও বদান্যতার  পরম প্রভু।

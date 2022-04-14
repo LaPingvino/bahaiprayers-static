@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12493 in Samoan'
 author = "Abdu'l-Bahá"
-tags = ['lang-sm', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MEETINGS"]
 +++
 O Divine Providence! This assemblage is composed of Thy friends who are attracted to Thy beauty…
 

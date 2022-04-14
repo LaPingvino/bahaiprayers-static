@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2861 in Shqip'
 author = "Báb"
-tags = ['lang-sq', '', "Báb", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Báb", "category-unsorted", "cat-Lutja e gjatë e shërimit"]
 +++
 Lutja më e pranueshme është ajo që ofrohet me gjithë shpirt e me gëzimin më të madh; zgjatja e tepruar e saj nuk ka qenë dhe nuk është e pëlqyer nga Perëndia.
 

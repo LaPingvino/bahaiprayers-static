@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6633 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-치유"]
 +++
 주님을 굳게 붙들고 주님께 되돌아온 그를
 

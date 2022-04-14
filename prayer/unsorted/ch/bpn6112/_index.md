@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6112 in Chamorro'
 author = "Abdu'l-Bahá"
-tags = ['lang-ch', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ch', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-KASAMIENTO"]
 +++
 ##KASAMIENTO
 *MARRIAGE

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13328 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Children"]
 +++
 O Dduw!  Maga'r baban hwn ym mynwes Dy gariad a rho laeth iddo o fron Dy Ragluniaeth.  Tyfa'r planhigyn ffres hwn yn ngardd rosynnau Dy gariad a chynorthwya ef i dyfu trwy gawodydd Dy haelioni.  Gwna ef yn blentyn y deyrnas, ac arwain ef i'th fröydd nefol Di.  Yr wyt Ti yn rymus ac yn garedig, a Thi yw'r Rhoddwr, yr Hael, Arglwydd yr haelioni dihafal.
 

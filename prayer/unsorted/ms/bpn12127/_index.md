@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12127 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MALAM"]
 +++
 Ya Tuhanku, Rajaku, Tujuan hasratku. Hamba-Mu ini, hendak tidur di bawah perlindungan rahmat-Mu, dan beristirahat di bawah kubah kurnia-Mu, memohon pemeliharaan-Mu serta perlindungan-Mu.
 

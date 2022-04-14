@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12287 in Tuvalu'
 author = "Báb"
-tags = ['lang-tvl', '', "Báb", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Báb", "category-unsorted", "cat-TUPU AKA FAK-TE-AGAAGA"]
 +++
 Tuku mai kia au, O toku Atua, a Tou alofa katoatoa mo Tou fiafiaaga-lei, tela mai i ei a Tou mainaaga malifalifa ko pokotia katoa i ei a motou loto, O Koe Tela ko te Faka-talitonuuga Maluga mo te Matagofie-Katoatoa.  Tuku ifo ki luga ia au, a se vaega foliki o Tou alofa-kaimalie, Tau matagi fakaolaola, i te ao mo te po katoa, O te Aliki o te lava i mea katoa.  
   

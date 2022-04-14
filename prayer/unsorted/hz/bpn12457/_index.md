@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12457 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Oshikwanyama : Okuyandya Oiyandyiwa"]
 +++
 *(Okaume aveshe va Kalunga....ovena oku yandya oiyandyiwa ngashi tashi dulika ile ngashi apa pefike eshi vekwete, Kalunga ihapula shidule apa pefike enghono domunhu. Oiyandyiwa yatya ngaha oina okudya kenhele adishe osho yo Kovaitaveli aveshe.Okaume va Kalunga! Kaleni mushishi no kutya mokuyandya oiyandyiwa, oimuna yeni, noilya yeni, noilandifomwa yeni aishe otai nangekwa noupuna notai hapupalifwa luhapu, no milongelo diwa do kuponghenda. Ou teuya noshilonga shimwe ashike shiwa oye ota pewa ondyambi luti mulongo. Kapena nande omalimbililo Kalung Omunamwenyo ota kole kele ava ta va longifile emona lavo mondyila yaYe.)
 

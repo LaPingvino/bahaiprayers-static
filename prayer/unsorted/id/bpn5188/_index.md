@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5188 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pertumbuhan Rohani"]
 +++
 Katakanlah: Ya Rabi Tuhanku, hiasilah kepala hamba dengan mahkota keadilan dan tubuh hamba dengan hiasan keinsyafan. Sesungguhnya, Engkaulah yang mempunyai segala pemberian dan kederma- wanan.
 

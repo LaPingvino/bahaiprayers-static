@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13038 in Kube'
 author = "Bahá'u'lláh"
-tags = ['lang-kgf', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-kgf', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Eu Iniŋ Onac Memeseli Mosoc Ara"]
 +++
 *Hêna ara youmi hêmma mêndacmu.  Eu iniŋ memeseli ara mutulaŋgê êrêc miwiŋ zêma Eu iniŋ orac zêzêtec memeseli ara ic kiwa hêna oriŋ kic iguc zêselimaoc.  Ic koaya eneŋ Bahá’u’lláh wac ac zêra imuacnec mêndacma zêma meseli êrêcmimac.  Ac imi Kitáb-i-Aqdas, iguc heʒac.  Imi yomuhuc heʒac.
 

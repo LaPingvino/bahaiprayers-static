@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4774 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Qadınlar üçün dualar"]
 +++
 Sən Ey üzü Sənin həsrətini çəkənlərin sitayiş yeri, liqası Sənin iradənə büsbütün tabe olanların ümidi, yaxınlığı Sənin sarayına yaxın olanların arzusu, siması Sənin həqiqətini etiraf edənlərin munisi, adı Sənin üzünü görmək üçün yananların qəlblərini titrədən, nidası Sənin aşiqlərinin həqiqi həyatı, sözü yerdə və göydə olanlar üçün həyat suyu olan Kəs!
 

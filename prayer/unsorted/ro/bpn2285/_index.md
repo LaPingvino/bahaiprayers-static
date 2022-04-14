@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2285 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Seara"]
 +++
 Cum aş putea să adorm, o, Doamne, Dumnezeul meu, când ochii celor ce năzuiesc spre Tine nu se pot închide din cauza despărţirii lor de Tine; şi cum aş putea să-mi întind trupul spre odihnă, când sufletele celor care Te iubesc suferă cumplit de durerea depărtării lor de prezenţa Ta?
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8009 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Beskyttelse"]
 +++
 Lovet være Du, o Herre min Gud! Du ser og ved, at jeg har opfordret Dine tjenere til ikke at vende sig til noget andet end til Dine gaver og påbudt dem ikke at adlyde noget ud over det, Du foreskrev dem i Din utvetydige bog, den bog der er blevet nedsendt i overensstemmelse med Dit uudgrundelige bud og Din uigenkaldelige hensigt.
 

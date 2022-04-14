@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12489 in Samoan'
 author = "Bahá'u'lláh"
-tags = ['lang-sm', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PRAISE AND GRATITUDE"]
 +++
 Magnified be Thy name, O Lord my God! Thou art He Whom all things worship…
 

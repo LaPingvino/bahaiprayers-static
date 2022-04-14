@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3715 in Eesti'
 author = "Abdu'l-Bahá"
-tags = ['lang-et', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-et', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Katsumused ja raskused"]
 +++
 Oo Issand, mu Jumal ja mu varjupaik hädas! Mu kilp ja kaitse raskusis! Mu asüül ja pelgupaik mure hetkel ning kaaslane mu üksinduses! Mu ahastuse trööst ja armastav sõber mu üksilduses! Mu kurbusevalude kõrvaldaja ja mu pattude andestaja!
 Pöördun täielikult Sinu poole, palavalt anudes Sind kogu oma südame, mõistuse ja keelega, et Sa kaitseksid mind kõige selle eest, mis on vastuolus Sinu tahtega sel Su jumaliku ühtsuse ajajärgul ning puhastaksid mind igast rüvetusest, mis takistab mul otsimast puhta ja plekituna Sinu armupuu varju.

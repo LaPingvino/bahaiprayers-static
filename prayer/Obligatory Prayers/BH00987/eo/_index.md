@@ -1,7 +1,7 @@
 +++
 title = 'Long Obligatory Prayer in Esperanto'
 author = "Bahá'u'lláh"
-tags = ['lang-eo', '', "Bahá'u'lláh", "Obligatory Prayers"]
+tags = ['lang-eo', 'prayer-BH00987', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-La Longa Deviga Preĝo"]
 +++
 ##La longa deviga preĝo
 *(Citenda unufoje en dudek kvar horoj)

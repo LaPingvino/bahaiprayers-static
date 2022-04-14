@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7908 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Riunioni"]
 +++
 O Tu Dio perdonatore! Questi servi si volgono verso il Tuo regno, desiderosi della Tua grazia e della Tua generosità. O Dio! Fa’ buoni e puri i loro cuori, sì che divengano degni del Tuo amore. Purifica e santifica gli spiriti, sì che su loro splenda la luce del Sole della Realtà. Purifica e santifica gli occhi, sì che percepisca-no la Tua luce. Purifica e santifica gli orecchi, sì che odano l’appello del Tuo regno.
 O Signore! In verità, noi siamo deboli, ma Tu sei potente. In verità, noi siamo poveri, ma Tu sei ricco. Noi siamo coloro che cercano, e Tu sei Colui Che è cercato. O Signore! Abbi compassione di noi e perdonaci: accordaci tali capacità e ricettività, che possiamo essere degni dei Tuoi favori e attratti al Tuo regno, dissetarci con l’acqua di vita, essere accesi dal fuoco del Tuo amore e venir risuscitati dagli aliti dello Spirito Santo in questo luminoso secolo. 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13250 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Narodenie Bába"]
 +++
 *V mene Toho, kto sa narodil v tento deň, koho Boh učinil Zvestovateľom Svojho mena, nadovšetko Mocného, nadovšetko Milujúceho!
 

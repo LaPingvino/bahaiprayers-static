@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13358 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Teaching"]
 +++
 O Dydi, y Duw Digymar! O Arglwydd y Deyrnas! Yr eneidiau hyn yw Dy fyddin nefol.  Cynorthwya hwynt, a chyda minteioedd Llu'r Goruchaf dyro iddynt fuddugoliaeth; fel y byddont oll megis catrawd, a gorchfygant y gwledydd hyn drwy gariad Duw a goleuni'r ddysgeidiaeth ddwyfol.
 O Dduw!  Bydd yn gynhaliwr ac yn gymorth iddynt, ac yn yr anialwch y mynydd, y dyffryn, y goedwig, y gweindir a'r moroedd, bydd yn ymddiriedwr iddynt - fel y bydded iddynt lefain trwy rym y Deyrnas ac anadl yr Ysbryd Glân.

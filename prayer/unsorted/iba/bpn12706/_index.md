@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12706 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PENYANGGA PENUSAH"]
 +++
 *Lebuh pengayan penusah dunya ti enda disadang ingat ulih nuan penegap enggau peninggi kuasa-raja Tuhan nuan, Iya ti ninga sereta meda semua, lalu sebut “Perintah enggi Petara, Tuhan ke semua utai ti dipeda enggau ti enda dipeda, Tuhan ke semua utai tempa.”
 *—  Kitáb-i-Aqdas

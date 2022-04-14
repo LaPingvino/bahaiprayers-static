@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10306 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Bistånd"]
 +++
 Herre! Vi är ömkansvärda, giv oss Din ynnest. Vi är fattiga, bestå oss av Din rikedoms hav. Vi är behövande, tillfredsställ oss. Vi är förnedrade, skänk oss Din ära. Luftens fåglar och fältens djur får varje dag sin föda från Dig och alla varelser delar Din omsorg och kärleksfulla godhet.
 Beröva ej denne kraftlöse Din underbara nåd och förunna genom Din makt denna hjälplösa själ Din frikostighet.

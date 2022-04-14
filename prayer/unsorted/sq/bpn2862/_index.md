@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2862 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-i përgjithshëm"]
 +++
 I bekuar është trualli, dhe shtëpia,
 dhe vendi, dhe qyteti,

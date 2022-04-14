@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13243 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Duchovné rady"]
 +++
 *Táto modlitba sa číta na záver stretnutia duchovnej rady.
 Ó Bože, môj Bože! Z neviditeľného kráľovstva Svojej jedinosti pohliadni na nás, zhromaždených na tomto duchovnom stretnutí, v Teba veriacich, spoliehajúcich sa na Tvoje znamenia, verných Tvojej Zmluve a Záveti, k Tebe vábených, k Tebe sa obracajúcich, planúcich ohňom Tvojej lásky a úprimných v Tvojej Veci. Sme služobníkmi v Tvojej vinici a šíriteľmi Tvojho náboženstva. Oddane uctievame Tvoju tvár, sme pokorní pred Tvojimi milovanými, poslušní pred Tvojou bránou a úpenlivo Ťa prosíme, aby si nás uistil v službe Svojim vyvoleným, pomáhal nám Svojimi neviditeľnými zástupmi, posilnil nám bedrá v službe a učinil nás poddajnými a milujúcimi služobníkmi, ktorí Ťa uctievajú a k Tebe sa obracajú.

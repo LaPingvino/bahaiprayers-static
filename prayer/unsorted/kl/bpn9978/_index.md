@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9978 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-kl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ullut Tapiliussat"]
 +++
 Ullut Tapiliussat, februarip 26-anniit martsip aallaqqaataanut, ullut taakku ilanngullugit, tassaassapput iisinnginniarnissamut ullut piareersarfissat, ullut, inororsaarfiullutillu ajunngitsuliorfiusut, tunissutinillu tunniussiffiit.
 

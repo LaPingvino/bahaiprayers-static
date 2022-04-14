@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3896 in Hrvatski'
 author = "Abdu'l-Bahá"
-tags = ['lang-hr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Čovječanstvo"]
 +++
 DJECA
 

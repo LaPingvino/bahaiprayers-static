@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10213 in Māori'
 author = "Abdu'l-Bahá"
-tags = ['lang-mi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MŌ TE IRA TANGATA"]
 +++
 E Koe Te Ariki ngākau māhaki! Nāu te katoa o te ira tangata i hanga mai i te pakiaka kotahi. Nāu i whakatātaki me noho katoa ki te kāinga kotahi. Ki mua o Tōu Aroaro Tapu, he pononga katoa Nāu; kei raro o Tōu Tāpenakara te katoa o te ao tangata; kua mene katoa mai ki Tāu Tēpu o te Whairawa, kua whakamāramatia katoatia mā te rama o Tōu Manaakitanga.
 

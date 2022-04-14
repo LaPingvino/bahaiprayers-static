@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9752 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tafel van Ahmad"]
 +++
 *”Deze dagelijkse verplichte gebeden en enkele andere speciale gebeden, zoals het Genezingsgebed en de Tafel van Aḥmad, zijn door Baha’u’llah met bijzondere kracht en betekenis bekleed en moeten daarom als zodanig worden aanvaard en door de gelovigen worden gereciteerd met onvoorwaardelijk geloof en vertrouwen, opdat zij steeds inniger in God zullen opgaan en zich steeds meer vereenzelvigen met Zijn wetten en voorschriften.” - Uit een brief geschreven namens Shoghi Effendi.
 

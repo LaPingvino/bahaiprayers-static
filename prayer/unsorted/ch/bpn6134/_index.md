@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6134 in Chamorro'
 author = "Abdu'l-Bahá"
-tags = ['lang-ch', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ch', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-OTRO SIHA NA TINAITAI"]
 +++
 O Yu’os,! O Yu’os! Guiya este i paluma ni mahlok papa-ña ya i hinanao-ña sen ti geftan - ayuda gue’ kosaki u gupu guatu gi puntan i ginefsaga yan i satbasion, u palapayi i hinanao-ña gi manyahululo’ na minagof yan felisidat gi halom i ti finakpo na lugat, u kanta huyong gi Mas Takkhilo’ na Na’an-Mu gi todu i lugat, u na’fanmagof i talanga ni inagang-ña, yan u na’fanma’lak i at- adok ginen i ma atan i siñat giniha!
 

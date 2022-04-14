@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10132 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Children"]
 +++
 O Lord! Guard Thou the children that are born in Thy day, are nurtured at the breast of Thy love, and fostered in the bosom of Thy grace.
 O Lord, they are verily young branches growing in the gardens of Thy knowledge, they are boughs budding in Thy groves of grace. Grant them a share of Thy generous gifts, make them to thrive and flourish in the rain that raineth from the clouds of Thy bestowal.

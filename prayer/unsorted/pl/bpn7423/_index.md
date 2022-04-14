@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7423 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Uniezależnienie się"]
 +++
 O Boże, mój Boże! Napełnij dla mnie czarę niezależności od wszelkich rzeczy i w otoczeniu Twoich wspaniałości i łask uraduj mnie winem miłowania Ciebie. Uwolnij mnie od porywów namiętności i pożądania, zerwij ze mnie okowy tego ziemskiego świata, porwij mnie w zachwycie do Twojego niebiańskiego królestwa i pośród służebnic orzeźwij mnie tchnieniem swojej świętości.
     

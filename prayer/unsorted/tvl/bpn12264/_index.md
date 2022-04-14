@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12264 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PUIPUIIGA"]
 +++
 I Tena Igoa, ko te Maluga, ko te Tafasili i te Maluga, ko te Tafasili i te Gali!  
  

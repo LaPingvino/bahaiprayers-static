@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11223 in Kiswahili'
 author = "Bahá'u'lláh"
-tags = ['lang-sw', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sw', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-BAADHI YA SALA NYINGINE"]
 +++
 Utukufu uwe Kwako Ee Mungu, kwa ajili ya Ufunuo wa Pendo lako kwa wanadamu!  Ee Ewe Uliye Uzima na Mwanga wetu, ongoza watumishi Wako katika njia Yako, ututajirishe ndani Yako na kuwa huru kwa yote ila Wewe tu. 
 

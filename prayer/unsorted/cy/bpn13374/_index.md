@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13374 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Mankind"]
 +++
 O Dduw! Arllwys arnom Bersawr Nefol a gweddnewid y dyrfa hon yn dyrfa'r Nef! Dyro i ni pob bendith a phob math o fwyd. Paratoa i ni Fwyd Cariad!
 

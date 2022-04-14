@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11081 in नेपाली'
 author = "Bahá'u'lláh"
-tags = ['lang-ne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-मध्यम अनिवार्य प्रार्थना"]
 +++
 *यसो भनोस्ः
 

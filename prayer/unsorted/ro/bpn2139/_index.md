@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2139 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Calităţi Spirituale"]
 +++
 El este Cel Îngăduitor, Cel Atotmărinimos!
 O, Doamne, Dumnezeul meu! Chemarea Ta m-a atras şi vocea Condeiului Tău de Slavă m-a trezit. şuvoiul sfintei Tale rostiri m-a vrăjit şi vinul inspiraţiei Tale m-a îmbătat. Tu mă vezi, o, Doamne, detaşat de toate lucrurile

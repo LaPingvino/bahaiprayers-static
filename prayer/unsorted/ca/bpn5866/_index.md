@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5866 in Català'
 author = "Bahá'u'lláh"
-tags = ['lang-ca', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Guariment"]
 +++
 ##Oració Llarga De Guariment
 

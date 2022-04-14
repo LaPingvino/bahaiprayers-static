@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9385 in Malagasy'
 author = "Abdu'l-Bahá"
-tags = ['lang-mg', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-FANAMPIANA"]
 +++
 Ry Tompo ô, Andriamanitro sy fiereko ao anaty ny fijaliako. Ampingako sy fialofako ao anaty ny fahoriana! Fiarovako sy fisitrihako ao anaty ny fotoan-tsarotra ary Mpiaradia amiko amin’ny fitokanako! Fiononako amin’ny fanahiako ary Sakaizako feno fitiavana ao amin’ny fanireriko! Ilay Mpanamaivana ny fanaintainan’ny alaheloko sy Mpamela ny fahotako!
 Mitodika tanteraka Aminao aho, mitalaho fatratra Aminao, amin’ny foko manontolo, ny fanahiko sy ny lelako, mba hiaro ahy amin’izay rehetra mifanohitra amin’ny Sitraponao, amin’izao tsingerin’ny Maha-Iray Anao izao, ary mba hanadio ahy amin’ny loto rehetra izay mety hisakana ahy hitady, amin’ny fo madio tsy misy pentina, ny aloky ny hazon’ny Fahasoavanao.

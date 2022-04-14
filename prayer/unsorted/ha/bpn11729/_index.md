@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11729 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Neman Lahiya"]
 +++
 Yā Allāna, kai nē, wanda sūnayenka kē warkar da māsu cūta, kē sauko lāfiya ga masākai, kē ƙōsar da māsu ƙishurwa, kē kwantar da hankalin firgitattu, kē jāgōrar ɓatattu, kē ɗaukaka wanɗanda aka ƙasƙanta, kē arzita matalauta, kē wāyar da kan jāhilai, kē haskaka zukācen māsu duhun rai, kē sā murna ga māsu hushi, kē sā kuzāri ga zukācen da suka yi sanyi, kē karɓo hakin waɗanda aka zālunta. 
 Da sūnanka nē yā Allāna, duk halittu suka rāyu, samāniya ta warware, ka halicci ƙasa, gizāgizai suke shāwāgi, ruwan sama suke zubōwa.

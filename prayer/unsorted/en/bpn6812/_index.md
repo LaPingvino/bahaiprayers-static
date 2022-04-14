@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6812 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Women"]
 +++
 Praised be Thou, O Lord my God! Thou art He Who hath created all things through a word uttered by Thy behest, and fashioned the entire creation through the power of Thy sovereignty and might. The mightiest of men are abased before the revelations of Thy glory, and they who are endued with strength tremble when faced with the evidences of Thy might. Every man of insight is bereft of vision when confronted with the effulgence of the glory of Thy face, and he who is possessed of riches is poor and desolate when beholding the plenteousness of Thy wealth.
 

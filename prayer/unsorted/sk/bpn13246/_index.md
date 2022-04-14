@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13246 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ridván"]
 +++
 ##Lawḥ-i-‘Áshiq va Ma‘shúq
 *(Tabuľka Milujúceho a Milovaného) 

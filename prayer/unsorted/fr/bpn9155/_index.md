@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9155 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Détachement"]
 +++
 Louange à toi, ô mon Dieu ! Je suis l’un de tes serviteurs, je crois en toi et en tes signes. Vois ! je me dirige vers la porte de ta miséricorde et je tourne mon visage vers ton affectueuse bonté. Par tes titres les plus admirables et tes attributs les plus éminents, je te supplie d’ouvrir devant moi les portes de tes bienfaits. Aide-moi à faire ce qui est bon, ô toi, le possesseur de tous les noms et de tous les attributs !
 Je suis pauvre, ô mon Seigneur, et toi, tu es riche. J’ai tourné mon visage vers toi, détaché de tout sauf de toi. Ne me prive pas, je t’en supplie, des brises de ta tendre miséricorde et ne me refuse pas ce que tu as prescrit à tes élus parmi tes serviteurs.

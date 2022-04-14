@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11840 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Sa’ant Manusia"]
 +++
 O Ingan Raja dek tulut! Ingan mbok ogi motan sua manusia sok pulih dek samah. Ingan mbok notap sak supaya dek sua-sua harus nog sok rawang dek samah. Daang Pimonog Kudus Ingan sua-sua dimuno ulunt-ulunt Ingan, bia sua manusia bigadang ndu ribua Galang Ingan; sua-sua mbok samah-samah tikuluk ndu Mija Pingungin Ingan; sua-sua eh obuah pijawak pakai pangijawak Pangidiya Ingan.
 O Topa! Ingan dek tulut tudu sua-sua eh, Ingan mbok ngidiya sa’ant sua-sua eh , ogi nutu sua-sua eh, pisoh pingidip tudu sua-sua eh. Ingan mbok bikanyad tibilang na’an bia dek sua-sua dengan kemahiran duoh kuasa ngasal manusia, bia sua-sua-eh timutuam daang Laut Ingan dek masik.

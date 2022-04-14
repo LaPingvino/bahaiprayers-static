@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3532 in Norsk'
 author = "Báb"
-tags = ['lang-no', '', "Báb", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Báb", "category-unsorted", "cat-Menneskeheten"]
 +++
 O Herre! Gjør det mulig for alle jordens folkeslag å oppnå adgang til din tros paradis, slik at intet skapt vesen må bli igjen utenfor ditt velbehags grenser.
  

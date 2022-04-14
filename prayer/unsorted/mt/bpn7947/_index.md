@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7947 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-L-erwieħ li ħallewna"]
 +++
 O Alla tiegħi! Dan huwa l-qaddej tiegħeK u iben il-qaddej tiegħeK li kien emmen fiK u fl-egħliem tiegħeK, u dawwar wiċċu lejK, maqtugħ għal kollox minn kollox barra minneK. Inti, fis-sewwa, minn dawk li juru ħniena l-aktar ħanin. 
 

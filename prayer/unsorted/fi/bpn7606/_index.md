@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7606 in Suomi'
 author = "Abdu'l-Bahá"
-tags = ['lang-fi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Korkeimmalle pyhälle lehvälle"]
 +++
 *Rakas ja syvästi henkinen sisar! Aamuin ja illoin, äärimmäisen palavasti ja nöyrästi anon jumalallisella kynnyksellä ja lausun tämän rukoukseni:
 

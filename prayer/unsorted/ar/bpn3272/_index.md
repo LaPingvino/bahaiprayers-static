@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3272 in العربية'
 author = "Bahá'u'lláh"
-tags = ['lang-ar', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ar', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ميلاد حضرة الباب"]
 +++
 # بِسْمِ المَوْلُودِ الَّذِي جَعَلَهُ اللهُ مُبَشِّرًا لاسْمِهِ العَزِيزِ الوَدُودِ
  

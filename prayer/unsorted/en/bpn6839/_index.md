@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6839 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Sacrifice"]
 +++
 Glorified be Thou, O my God!  Behold Thou my head ready to fall before the sword of Thy Will, my neck prepared to bear the chains of Thy Desire, my heart yearning to be made a target for the darts of Thy Decree, mine eyes expectant to gaze on the tokens and signs of Thy wondrous Mercy.  For whatsoever may befall me from Thee is the cherished desire of them who thirst to meet Thee, and the supreme aspiration of such as have drawn nigh unto Thy court.
 

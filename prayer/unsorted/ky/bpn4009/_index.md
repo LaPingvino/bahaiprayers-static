@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4009 in Кыргыз'
 author = "Báb"
-tags = ['lang-ky', '', "Báb", "unsorted"]
+tags = ['lang-ky', 'prayer-', "author-Báb", "category-unsorted", "cat-Айыгуу"]
 +++
 О, Теңир! Сенден мен жашырыңар жай издейм жана Сенин жышаандарыңа карай өзүмдүн жүрөгүмдү багыттайм.
 

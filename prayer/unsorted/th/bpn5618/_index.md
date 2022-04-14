@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5618 in ภาษาไทย'
 author = "Abdu'l-Bahá"
-tags = ['lang-th', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-th', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-บทอธิษฐานขอความคุ้มครอง"]
 +++
 (แด่บาไฮที่ถูกประหัตประหาร)
 พระองค์คือพระผู้เป็นเจ้า

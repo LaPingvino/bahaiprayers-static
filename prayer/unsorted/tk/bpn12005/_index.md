@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12005 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Üzňelik We Töwekgellik Dilemek"]
 +++
 Hu’äl-Äbha.
     Barhudaýa! Köňlümde hem ruhumda Seniň razylygyň arzuwyndan başga hiç myradym ýokdyr we Seniň ähdi-peýman meýlisiňden özge ýerde ýol hem wysal gözlemeýändigime Sen şaýat hem ägäsiň. Gije-gündiz Seniň derdiň dertkeşi men, gije-gündiz seň tygyňdan, Seň okuňdan ýaraly men. Seniň röwşen Melekutyňdan başga ýerde aglamaryn. Seniň ýalňyzlygyň daldawundan özge ýerden aman soramaryn. Men bigäneden bizar bolup diňe Seniň dostlugyňa köňül bagladym. Özgelerden aryp, ownuklardan daşlaşdym.

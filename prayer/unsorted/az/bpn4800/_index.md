@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4800 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ruhani inkişaf üçün dualar"]
 +++
 Sən Ey Ruzi Verən! Sən Qərbdəki dostların üzərinə Müqəddəs Ruhun rahiyələrini əsdirdin və Sənin ilahi hidayətinin işığı ilə qərb səmasını nurlandırdın. Bir zaman Səndən uzaq olanları Sən Özünə yaxınlaşdırdın; Yadları sevgili dostlara çevirdin; yatanları oyatdın; qafilləri hüşyar etdin.
 

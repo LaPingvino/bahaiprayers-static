@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2222 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Încercări şi Dificultăţi"]
 +++
 Risipeşte-mi supărarea prin bunătatea şi generozitatea Ta, o, Doamne, Dumnezeul meu şi alungă-mi suferinţa prin suveranitatea şi tăria Ta. Tu mă vezi, o, Dumnezeul meu, cu faţa întoarsă către Tine, într-un moment în care necazurile m-au înconjurat din toate părţile. O, Tu, care eşti stăpânul tuturor fiinţelor şi care adăposteşti toate lucrurile, văzute şi nevăzute. Te implor, întru Numele Tău cu care ai cucerit inimile şi sufletele oamenilor şi întru talazurile Oceanului milostivirii Tale şi splendorile Luceafărului bunătăţii Tale, să mă socoteşti printre cei pe care nimic nu i-a împiedicat de a-şi întoarce faţa spre Tine, o, Tu, Stăpânul tuturor numelor şi Făuritorul cerurilor!
 

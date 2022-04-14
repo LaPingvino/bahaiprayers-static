@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9127 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Prières prescrites"]
 +++
 ##Longue prière à réciter une fois par jour.
 *Que celui qui désire réciter cette prière se lève, se tourne vers Dieu et, sans changer de place, regarde à droite et à gauche, en quête de la miséricorde du Seigneur, le Très-Miséricordieux, le Compatissant. Puis, qu’il dise :

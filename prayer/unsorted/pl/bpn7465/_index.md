@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7465 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ḥuqúqu’lláh: Prawo Boga"]
 +++
 Pochwalony bądź, o mój współczujący Panie! Błagam Cię na tumult oceanu Twojej świętej wypowiedzi, i na liczne oznaki Twojej najwyższej władzy i nieodparte dowody Twojej Boskości, i ukryte tajemnice, które spoczywają utajone w Twojej wiedzy, abyś udzielił mi swojej łaski służenia Tobie i Twoim wybranym i pozwolił mi sumiennie ofiarować Twoje Ḥuqúq, któreś nakazał w swojej Księdze. 
     

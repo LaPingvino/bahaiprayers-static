@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11954 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Hyzmat We Gulluk Dilemek"]
 +++
 Ýa Ylahy, Ýa Magbut, Ýa Kerim, Ýa Rahym!
     Seniň Atlaryň birjesiniň gaşynda baş egip, boýun burýan, bütin dünýä şalarynyň soltany Sen.

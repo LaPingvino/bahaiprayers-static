@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7304 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ludzkość"]
 +++
 O Ty, łaskawy Panie! O Ty, któryś jest hojny i miłosierny! Jesteśmy sługami u Twojego progu zgromadzonymi w cieniu Twojej Boskiej jedności. Słońce Twego miłosierdzia świeci na wszystkich, a obłoki Twej życzliwości wszystkich obdarzają deszczem. Twoje dary wszystkich otaczają, Twoja miłościwa opatrzność wszystkich podtrzymuje, Twoja opieka ogarnia wszystkich, a spojrzenia Twojej łaski padają na wszystkich. O Panie! Obdaruj nas swoimi bezgranicznymi dobrodziejstwami i niechaj zajaśnieje światło Twojego przewodnictwa. Rozjaśnij nasze oczy i uraduj serca trwałą radością. Ześlij nowego ducha na wszystkich ludzi i daj im żywot wieczny. Otwórz bramy prawdziwego zrozumienia i pozwól światłu Wiary rozbłysnąć jasno. Zgromadź całą ludzkość w cieniu swojej życzliwości i spraw, aby wszyscy połączyli się w zgodzie, aby stali się jak promienie jednego słońca, jak fale jednego oceanu i jak owoce jednego drzewa. Niechaj wszyscy piją z tej samej krynicy. Niechaj wszystkich odświeżają te same powiewy. Niechaj zostaną oświeceni tym samym źródłem światła. Tyś jest Dającym, Miłosiernym, Wszechmocnym.
 

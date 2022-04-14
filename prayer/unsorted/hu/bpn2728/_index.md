@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2728 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Szellemi tanácsok"]
 +++
 *Gyűljetek össze tiszta örömben, és az ülés kezdetén imádkozzátok az alábbi imát:
 

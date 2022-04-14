@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5355 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-人類"]
 +++
 おお憐あわれみ深き主よ。あなたは同じ元親からすべての人類を創り給い、人類が皆一つの
 家族に属することを定め給いました。あなたの聖なる御前では人類はすべてあなたの僕しもべであり、あなたの神殿のもとに守られるものであります。万人ばんにんはあなたのご恩恵の食卓に集い、あなたの摂理せつりの光に照らされております。

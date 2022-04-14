@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11116 in नेपाली'
 author = "Abdu'l-Bahá"
-tags = ['lang-ne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-कोष"]
 +++
 *आफुले दिएको चन्दा जतिसुकै थोरै भएतापनि ईश्वरका मित्रहरूले सकेजति दिने गर्नुपर्दछ । ईश्वरले कुनै पनि जीवात्मालाई उसको क्षमता भन्दा बढी अभिभारा दिनुहुन्न । 
 

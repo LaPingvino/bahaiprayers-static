@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6347 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Aid and Assistance"]
 +++
 O my God! I ask Thee, by Thy most glorious Name, to aid me in that which will cause the affairs of Thy servants to prosper, and Thy cities to flourish. Thou, indeed, hast power over all things!
 

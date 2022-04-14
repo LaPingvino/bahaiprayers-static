@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7642 in Kreyol Ayisyen'
 author = "Báb"
-tags = ['lang-ht', '', "Báb", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Báb", "category-unsorted", "cat-Detache ou ak Lavi a"]
 +++
 O Senyè! Bò kote Ou mwen chèche refij, e mwen fikse kè mwen nan direksyon tout siyn Ou yo. 
 O Senyè! Menm si mwen nan vwayaj oubyen mwen lakay, si mwen nan okipasyon mwen ak nan travay, mwen mete tout konfyans mwen nan Ou. 

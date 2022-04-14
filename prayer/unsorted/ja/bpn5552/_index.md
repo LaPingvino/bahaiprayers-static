@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5552 in 日本語'
 author = "Bahá'u'lláh"
-tags = ['lang-ja', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ホゴゴラ"]
 +++
 まことにホゴゴラは偉大な法である。それは恩寵おんちょうと、
         豊かさと、すべての良きものの源泉であり、ホゴゴラの献納は万人ばんにんに

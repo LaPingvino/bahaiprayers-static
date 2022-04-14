@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9305 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Prières pour le jeûne"]
 +++
 Ô mon Dieu, en ces jours tu enjoins à tes serviteurs d’observer le jeûne. Aux yeux de tous, sur la terre comme au ciel, tu en fais un ornement du préambule du Livre des lois révélé pour tes créatures et une parure du précieux recueil de tes commandements. Tu dotes chaque heure de ces jours d’une vertu que toi seul discernes, toi dont la connaissance embrasse toute la création. Tu assignes également à chaque âme une part de cette vertu, en accord avec le livre de ton décret et les écrits de ton jugement irrévocable. Plus encore, tu alloues à chaque peuple de la terre une page de ces livres et de ces écrits.
 Ô toi, le Roi des rois, à l’aube de chaque jour et selon ton décret, tu offres la coupe de ton souvenir à tes amants passionnés. Enivrés du vin de ton infinie sagesse, ils abandonnent leur couche dans leur désir de célébrer ta louange et de chanter tes vertus, et fuient le sommeil dans leur ardent désir d’approcher ta présence et de jouir de ta générosité. Leurs yeux restent fixés sur l’Aube de ta bonté et leur visage se tourne vers la Source de ton inspiration. Fais donc pleuvoir sur nous et sur eux, des nuages de ta bonté, ce qui convient au ciel de ta générosité et ta grâce.

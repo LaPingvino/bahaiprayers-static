@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10791 in Srpski српски'
 author = "Bahá'u'lláh"
-tags = ['lang-sr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-DUGAČKA  OBAVEZNA  MOLITVA"]
 +++
 *DA  SE  DEKLAMUJE  JEDNOM  U  DVADESET-ČETIRI  SATA 
 

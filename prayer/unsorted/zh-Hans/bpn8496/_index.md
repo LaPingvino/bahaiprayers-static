@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8496 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-中篇必诵祷文"]
 +++
 每日早上、中午和晚上吟诵
 凡意欲祷告者，必先净手，期间吟诵：

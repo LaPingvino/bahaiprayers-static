@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8838 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-奉獻基金"]
 +++
 *所有上帝之友……都應盡力捐獻，不論數額多麼微薄。上帝絕不讓人力所不逮。這奉獻須來自所有信仰中心和教友……上帝之友啊！要確信這些奉獻，能使你的農事、工商受到福佑，降予你成倍的美好賜贈。十倍酬勞，賦予一善。毫無疑問，為聖道而花費其財富的人，那永生之主會充分肯定其奉獻。
 

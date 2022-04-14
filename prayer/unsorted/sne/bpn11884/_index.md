@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11884 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Kesatuan"]
 +++
 O Topa ku! O Topa ku! Totap, oku seru Ingan bia mujok bito’os ndu joka pinutuab Ingan, odak Ingan supaya sua perasie Ingan pod-pod muun ndu tunt jiwa-jiwa dimutik. Odak bala mahir daang pingodak Ingan duoh pangibonar Ingan.  
 O Raja! Nguluk ngupul duoh muku otin samah-samah, sua jiwa-jiwa bitipan setuju, lasue kanuas semangat pakai sok tanda-tanda bigoris Ingan duoh pinyindik. O Raja! Nai odak jowin-jowin dimutik bilonyih pakai sok jawak pinyindik Ingan. Naan nogap kubaub bala ulunt Ingan daang khidmat pritah Topa Ingan.

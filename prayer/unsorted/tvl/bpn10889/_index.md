@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10889 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MO LATOU KO GALO – TALO MO TINO MATE"]
 +++
 A Ia ko te Atua, e maluga a Ia, ko te Aliki o te alofa-atafai mo te maukoloa!
      E mana ia Koe, O toku Atua, te Aliki e i ai ia Ia a Mea-Katoa.  Au e molimau ki Tou lauefa i mea katoa mo Tou mafi, Tou nofoaiga-a-aliki mo Tou alofa-atafai, Tou alofa-kaimalie mo Tou maalosi, te tafatasi o Koe mo te fakatasitasi o Tou Uiga tonu, Tou mana mote maluga mai i luga i te lalolagi o tino mo mea katoa ko la e laveagia.

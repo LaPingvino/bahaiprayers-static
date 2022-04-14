@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9744 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Vasten"]
 +++
 *In De Kitáb-i-Aqdas staat: “Wij hebben u opgedragen vanaf het begin der volwassenheid (15 jaar) te bidden en te vasten; dit is verordend door God, uw Heer en de Heer uwer voorvaderen… Reizigers, zieken en zij die een kind verwachten of zogen, zijn niet verplicht te vasten… Onthoudt u van zonsopgang tot zonsondergang van spijs en drank en hoedt u dat begeerte u deze genade die in het Boek is vastgelegd niet ontneemt.” - De periode van de Vasten loopt van 1 Bahá tot en met 19 Bahá.
 

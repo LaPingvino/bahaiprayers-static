@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10145 in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Children"]
 +++
 O thou verdant plant of the Abhá Paradise! O thou tender sapling of the rose-garden of immortality!
 Although thou art but a tiny creature in this world of existence, yet it is my earnest hope that thou wilt become great in the Kingdom of heaven. Although a mere child, yet praise be to God that through the strengthening power of faith and certitude thou art indeed as a grown-up and mature soul.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10612 in Монгол хэл'
 author = "Bahá'u'lláh"
-tags = ['lang-mn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ЗААВАЛ ҮЙЛДЭХ БОГИНО МӨРГӨЛ"]
 +++
 *(Өдөрт нэг удаа үдэд үйлдэнэ)
 

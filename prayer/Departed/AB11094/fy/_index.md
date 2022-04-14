@@ -1,7 +1,7 @@
 +++
 title = 'Prayer AB11094 in Frysk'
 author = "Abdu'l-Bahá"
-tags = ['lang-fy', '', "Abdu'l-Bahá", "Departed"]
+tags = ['lang-fy', 'prayer-AB11094', "author-Abdu'l-Bahá", "category-Departed", "cat-Ferstoarnen"]
 +++
 O myn God! O Jo, Ferjouwer fan sûnden! Skinker fan jeften! Ferdriuwer fan smerten!
 Wierliken, ik smeekje Jo de sûnden te ferjaan fan harren dy't it stoflik klaad ôflein hawwe en nei de geastlike wrâld opstiigd binne.

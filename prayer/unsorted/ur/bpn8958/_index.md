@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8958 in اُردُو'
 author = "Bahá'u'lláh"
-tags = ['lang-ur', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ur', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-لوحِ احتراق"]
 +++
 ##لوحِ احتراق
 اللہ کے نام سے جو سب سے قدیم، سب سے بڑا ہے

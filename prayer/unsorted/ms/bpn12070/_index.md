@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12070 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAJAR"]
 +++
 ”Sering kali pada waktu fajar Aku telah berpaling daripada alam-alam Ghaib ke kediamanmu, dan menemui engkau di atas katil kesenanganmu menyibukkan diri dengan orang lain melainkan Daku. Lalu sepantas kilat roh, Aku telah kembali ke alam kemuliaan syurgawi dan tidak menyebutkan hal ini kepada para penghuni kesucian di kediaman-Ku di atas.”
 

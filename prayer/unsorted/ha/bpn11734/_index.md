@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11734 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Kāriya"]
 +++
 Yabo ya tabbata a garēka, yā Ubangiji Allāna, nī nē bāwanka wanda ya sarƙahu ga igiyar rahamarka. Ina rōƙon ka, da sūnanka wanda ya mallaƙi kōmi, a cikin waɗanda ake gani da na ɓōye, sūnanka wanda daga shīnē, rāyuwar gaskiya ta bayyana bisa kōmi da kōwa. Ka ƙarfafā ni a cikin mulkinka wanda ya wanzama sama da ƙasa, kuma ka kāre ni da duk wata cūta kō wahala.
 Nā shaida cēwa, kai nē Ubangjijin duka sūnāye, mai yancin umurtar duk abun da yake gani daidai nē a garēshi. Bābu wani Allah illa kai, mabuwāyi, masanin duk abun dake ɓōye, mai basīra.

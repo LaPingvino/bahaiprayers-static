@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7308 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Małżeństwo"]
 +++
 *Przysięga małżeńska, którą powinni wypowiedzieć oddzielnie panna i pan młody w obecności przynajmniej dwóch świadków zaakceptowanych przez Zgromadzenie Duchowe, została podana w „Kitáb-i-Aqdas” („Najświętszej Księdze”): 
 

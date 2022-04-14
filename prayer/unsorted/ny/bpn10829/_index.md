@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10829 in Chichewa'
 author = "Abdu'l-Bahá"
-tags = ['lang-ny', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ny', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-KUPHUNZITSA"]
 +++
 O Inu Mulungu Wosafaniziridwa! O Inu Ambuye wa Ufumu! Miyoyo iyi ndi ankhondo Anu akumwamba.  Athandizeni iwo, ndipo ndi magulu Akhamu Lapamwamba Muwapambanitse; kuti yense wa iwo akhale ngati gulu la nkhondo ndi kugonjetsa maikowa kupyolera mu chikondi cha Mulungu ndi kuwala kwa uzimu kwa Chiphunzitso Chanu. 
 

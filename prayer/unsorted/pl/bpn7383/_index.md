@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7383 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Rozwój duchowy"]
 +++
 On jest Łaskawym, Wszechszczodrym!
     

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7575 in Suomi'
 author = "Abdu'l-Bahá"
-tags = ['lang-fi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Rahasto"]
 +++
 *Kaikkien Jumalan ystävien ... tulisi lahjoittaa mahdollisimman suuressa määrin, vaikka heidän lahjoituksensa olisi kuinka vaatimaton tahansa. Jumala ei rasita ketään sielua sen kykyä enempää. Tällaisten lahjoitusten on tultava kaikista keskuksista ja kaikilta uskovilta. ... Oi Jumalan ystävät! Olkaatte vakuuttuneet siitä, että näiden vastineena näistä lahjoituksista teidän viljelyksenne, työnne ja kaupankäyntinne siunataan moninaisin lisäyksin, oivallisin lahjoin ja antimin. Ken tekee yhden pyyteettömän teon, saa kymmenkertaisen palkkion. Ei ole epäilystäkään siitä, että elävä Herra runsaskätisesti vahvistaa niitä, jotka kuluttavat varallisuutensa Hänen polullansa.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5318 in Bosanski'
 author = "Báb"
-tags = ['lang-bs', '', "Báb", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Báb", "category-unsorted", "cat-Zaštita"]
 +++
 U ime Boga, Gospodara nedokučive veličanstvenosti, Svepokoravajućeg.
 Slavljen neka je Gospodar u Čijoj ruci je izvor

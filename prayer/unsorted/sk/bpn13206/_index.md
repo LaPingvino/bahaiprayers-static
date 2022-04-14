@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13206 in Slovensky'
 author = "Báb"
-tags = ['lang-sk', '', "Báb", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Báb", "category-unsorted", "cat-Blízkosť k Bohu"]
 +++
 Ó môj Bože! Niet nikoho okrem Teba, kto by zmiernil trýzeň mojej duše. Ty si mojou najvyššou túhou, ó môj Bože. Moje srdce sa nesnúbi s nikým než s Tebou a s tými, ktorých Ty miluješ. Slávnostne vyhlasujem, že i môj život i moja smrť patria Tebe. Vskutku, Ty si Neporovnateľný a nemáš seberovného.
 Ó môj Pane! Prosím Ťa, aby si mi odpustil, že som sa pred Tebou uzavrel. Pri Tvojej sláve a majestátnosti! Ja som Ťa dostatočne neuznal a neuctieval, kým Ty sa mi dávaš poznať a spomínaš ma, ako sa patrí Tvojmu postaveniu. Ó môj Pane! Ak by si sa ma chopil z dôvodu mojich prečinov a prehreškov, bola by mi beda-prebeda. Neviem o inom pomocníkovi než o Tebe. Nemám iného útočiska, kam by som sa utiahol, než Teba. Žiadne z Tvojich stvorení sa neopováži u Teba orodovať bez Tvojho dovolenia. Pred Tvojím dvorom sa pevne pridržiavam Tvojej lásky a podľa Tvojho príkazu sa k Tebe vrúcne modlím tak, ako to prináleží Tvojej sláve.

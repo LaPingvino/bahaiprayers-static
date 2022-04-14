@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9187 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Fermeté dans l’alliance"]
 +++
 Gloire à toi, ô Roi de l’éternité, Bâtisseur de nations et Façonneur de tout ce qui retombe en poussière ! Par ton Nom qui convie toute l’humanité à se tourner vers l’horizon de ta majesté et de ta gloire, et qui mène tes serviteurs à la cour de ta grâce et de tes faveurs, je te prie de me compter parmi ceux qui se détachent de tout sauf de toi, se dirigent vers toi et se tournent vers tes bienfaits malgré les malheurs que tu infliges.
 Ô mon Seigneur, j’ai saisi les rênes de ta bonté et je tiens fermement le pan du manteau de ta faveur. Des nuages de ta générosité fais pleuvoir ce qui me purifiera du souvenir de tout autre que toi et me permettra de me tourner vers celui qui est l’objet de l’adoration de l’humanité tout entière, contre qui se rangent les séditieux qui brisent ton alliance et ne croient ni en toi ni en tes signes.

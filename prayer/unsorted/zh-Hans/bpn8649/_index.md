@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8649 in 简体中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hans', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-传导祷文"]
 +++
 播撒上帝之芬芳者应每日清晨诵读以下祷文。
 上帝啊！我的上帝！祢目睹我这弱小者在祈求天国的力量，我这贫穷者在渴慕祢天堂的瑰宝，我这干渴者在渴望祢永生的泉水，我这患病者在希冀祢应允的治疗——借祢无量恩泽，祢已将这治疗命定给了祢在至高天国拣选的仆人。

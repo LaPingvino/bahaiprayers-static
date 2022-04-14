@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12954 in Tok Pisin'
 author = "Bahá'u'lláh"
-tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-HEALING"]
 +++
 O God, my God!  I beg of Thee by the ocean of Thy healing, and by the splendors of the Day-Star of Thy grace, and by Thy Name through which Thou didst subdue Thy servants, and by the pervasive power of Thy most exalted Word and the potency of Thy most august Pen, and by Thy mercy that hath preceded the creation of all who are in heaven and on earth, to purge me with the waters of Thy bounty from every affliction and disorder, and from all weakness and feebleness. 
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8171 in Dansk'
 author = "Báb"
-tags = ['lang-da', '', "Báb", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Báb", "category-unsorted", "cat-Troens Sejr"]
 +++
 Æret være Du, o Herre, Du som har kaldt alle skabte ting til live, gennem magten i Dit bud.
 

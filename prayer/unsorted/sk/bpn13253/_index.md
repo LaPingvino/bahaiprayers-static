@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13253 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Tabuľky Božského Plánu"]
 +++
 *Zjavené pre bahájov USA a Kanady
 Ó Ty neporovnateľný Bože! Ó Ty Pane Kráľovstva! Tieto duše sú Tvojou nebeskou armádou. Pomôž im a šíkmi Zvrchovaného zhromaždenia ich učiň víťaznými, aby sa každý z nich mohol stať akoby plukom a dobyl tieto kraje pomocou lásky k Bohu a svetla božského učenia.

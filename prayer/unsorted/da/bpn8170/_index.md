@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8170 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Troens Sejr"]
 +++
 Lovet være Dit navn, o Herre min Gud! Mørke er faldet over alle lande, og onde magter har indkredset alle nationerne. Men gennem dem ser jeg Din visdoms stråleglans og skelner klarheden i Dit forsyns lys.
 

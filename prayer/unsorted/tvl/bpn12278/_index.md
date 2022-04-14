@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12278 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-GALUEGA"]
 +++
 Au e vikia a Koe, O toku Atua, i te manogi gali o Tou alofa-kaimalie ko piki vakevale au i ei, mo matagi ili malie o Tou alofa-atafai ko takitaki ne latou au ki Au mea-alofa e lausa.  Fai aka au ke inu, O toku Aliki, mai maikao o te vai ola o Tou alofa-lauefa te la ne mafai i ei a tino taki tokotasi o kau atu ki ei o ave keatea mai ia ia a te piki ki mea katoa na loa ko Koe, kae ke eva atu ki luga i se kogaa-koga o te motu mai i Au mea ola katoa, kae ke kilo tonu a ia ki luga i Tau kilooga-alofa mo Au mea-alofa tafasili ite uke.  Fakatoka aka au, i faka-nofonofoga katoa, O toku Aliki, ke tavini a Koe kae fuli atu au ki te agamalu o Tau Fakaaliga mo Tou Gali.  Ka fai ko Tou fiafiaaga, fai aka au ke tupu pe la me se lakau ola foliki i te lauelele o Tou alofa-kaimalie, ko te matagi malie o Tou loto ka fago ne ia au kae ma ofe atu au ke olo tonu mo Tou fiafiaaga, i se faka-nofooga te la so se gasuesuega io me se ai e tuku katoatoa kia Koe.  
 Koe ko Ia, Te la Tena igoa se Mea Funa ko oti ne fakaasi atu, mo te Igoa Tafasili i te Leoleogina-Fakalei ko oti ne folafola atu, mo pono o te Kilasi e ponogina ko tala, ka fanatu a tena manogi ki mea faiite katoa, mea mai anamua mo mea i taimi mai mua.  A ia ko fia inu, O toku Aliki, te la ko oti ne fakavave atu ke maua ne ia a te vai ola o Tou alofa-kaimalie, mo te tino masei ko oti e naunau ke ufi a ia mai lalo o te vasa o Tou maumea. 

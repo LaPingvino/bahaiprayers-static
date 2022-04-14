@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7371 in Polski'
 author = "Báb"
-tags = ['lang-pl', '', "Báb", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Báb", "category-unsorted", "cat-Przebaczenie"]
 +++
 O Boże, Panie nasz! Chroń nas swoją łaską od wszystkiego, co mogłoby wzbudzić Twoją odrazę i racz obdarzyć nas tym, co Tobie miłe. Daj nam więcej swoich łask i pobłogosław nam. Wybacz nam to, co uczyniliśmy i zmaż nasze grzechy, i udziel nam swojego łaskawego przebaczenia. Zaprawdę, Tyś jest Najwznioślejszym, Samoistnym.
     

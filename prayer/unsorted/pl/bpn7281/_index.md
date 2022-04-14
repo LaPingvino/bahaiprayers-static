@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7281 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Dzieci"]
 +++
 O Boże, prowadź mnie, ochraniaj mnie, uczyń mnie świecącą lampą i promienną gwiazdą. Tyś jest Mocnym i Potężnym.
 

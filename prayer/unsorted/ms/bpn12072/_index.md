@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12072 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ḤUQÚQU’LLÁH: HAK TUHAN"]
 +++
 ”Katakanlah: Janganlah bergembira dalam benda yang engkau miliki; malam ini ianya kepunyaanmu, keesokan hari orang lain akan memilikinya.”
 

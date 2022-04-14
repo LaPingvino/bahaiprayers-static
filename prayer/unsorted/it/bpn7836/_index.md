@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7836 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Dalle Tavole Del Piano Divino"]
 +++
 ##RIVELATA AI BAHÁ'Í DEGLI STATI UNITI E DEL CANADA
 O Tu Dio incomparabile! O Tu Signore del Regno! Queste anime sono la Tua celeste milizia. Assistile e, con le coorti delle Moltitudini Supreme, rendile vittoriose, sì che ciascuna di esse possa divenire quale un reggimento e conquistare questi paesi mercè l’amore di Dio e la luce dei divini insegna-menti. 

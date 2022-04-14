@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12920 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-26 Prières de ‘Abdu’l-Bahá Avril 2021"]
 +++
 Il est le Très-Saint, le Très-Glorieux. 
 Au nom de Dieu, le Compatissant, le Miséricordieux! Louange à Dieu, le Seigneur de tous les mondes! 

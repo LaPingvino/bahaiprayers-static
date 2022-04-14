@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11709 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Azumi"]
 +++
 *A cikin Kitābil Akdas, Ubangiji yā cē : ‘’Mun umurci mutun da yin azumi da zāran yā kai shēkara gōma shā biyar. Wannan umurnin Allah nē, Ubangijinku da Ubangijin uwāyenku. Māsu balāguro, marassa lāfiya, da māta masu jūnā biyu, kō māsu bāda nōnō, ba a umurce su da yin azumi ba. Idan kuna azumi, kada ku shā ruwa, ko ku ci abinci daga fitōwar rānā, zuwa fāɗuwarta, kuma kada ku yarda nishāɗi ya hana ku sāmun wannan ni’ima da aka rubūta a cikin littāfi. Ana azumi daga cikin watan Ālā.
 Yā Allāna, don darajar āyarka mai ƙarfi, kuma da wahayin zuwa ga ƴan adam, ina rōƙon kada ka rufe mani ƙōfar birnin kasancewarka, kuma kada ka kunyata gūrīna da na sarƙafa ga bayyanar falalarka tsakānin halittunka.

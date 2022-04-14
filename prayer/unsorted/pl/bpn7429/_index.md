@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7429 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Wieczór"]
 +++
 O mój Boże, mój Mistrzu i Celu mojego pragnienia! Ten oto sługa Twój szuka snu w schronieniu Twojego miłosierdzia i odpoczynku pod baldachimem Twojej łaski, prosząc o Twoją opiekę i ochronę.
     

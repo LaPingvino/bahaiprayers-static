@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12485 in Samoan'
 author = "Abdu'l-Bahá"
-tags = ['lang-sm', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-FORGIVENESS"]
 +++
 O Thou forgiving Lord! Thou art the shelter of all these Thy servants…
 

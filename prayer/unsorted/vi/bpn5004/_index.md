@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5004 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-vi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Dư Nhật"]
 +++
 *(Những ngày xen kẽ  - dư nhật  - từ 26 tháng 2 đến hết 1 tháng 3, gồm thành thời kỳ chuẩn bị Trai giới. Những ngày này dành cho việc ái hữu, bác ái và tặng quà).
 

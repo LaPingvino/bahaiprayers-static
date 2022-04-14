@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7610 in Kalaallisut'
 author = "Bahá'u'lláh"
-tags = ['lang-kl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-kl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ahmad-imut Allakkat"]
 +++
 *"Ullut tamaasa pinngitsoorani qinnutigisartakkat allallu immikkut ittut, soorlu Ajorunnaarnissamut Qinnut, Ahmad-imut allakkat, Bahá’u’lláh-mit immikkut pissaanermik pingaassutsimillu tunineqarsimapput, taamatullu akuerineqassallutik uppertunillu tatiginninnermik uppernermillu miserratigineqarsinnaanngitsumik pilimmik atuarneqartassallutik. Taamaalillutik taakku aqqutigalugit Guutimut qaninnerusumik atassuteqarniassagamik, inatsisai maleruaqqusaalu suussusaasigut annerusumik paasinnilluarnerussammata." – Allakkamit Shoghi Effendi sinnerlugu allatamit tigusaq
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7621 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ansèyman"]
 +++
 Lwanj pou Ou, O Senyè Bondye mwen! Mwen sipliye Ou, poutèt Non Ou pèsonn moun pa te rekonèt nan fason li ta merite a, yon Non okenn nanm pa te vrèman konprann siyifikasyon li; mwen sipliye Ou poutèt Li menm Ki se Tèt Sous Revelasyon Ou an ak Solèy siyn Ou yo, pou fè kè mwen vin yon vèso pou kenbe lanmou Ou ak souvni Ou. Fè kè mwen vin atache ak pi gran Oseyan Ou an, pou fè dlo sajès Ou yo k’ap bay lavi ansanm ak sous klè yo k’ap ba Ou glwa ak lwanj koule soti nan li.
 Manm kò mwen temwaye sou linite Ou, epi cheve nan tèt mwen deklare pouvwa otorite Ou ak pisans Ou. Mwen te kanpe devan pòt gras Ou kote mwen te konplètman bliye tèt mwen e mwen te konplètman elimine volonte mwen, kote mwen te kenbe fèm ke wòb bonte Ou, e mwen te fikse je mwen nan syèl favè Ou yo.

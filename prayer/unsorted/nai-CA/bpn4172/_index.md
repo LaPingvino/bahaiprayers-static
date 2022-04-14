@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4172 in Canadian Indigenous'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-CA', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nai-CA', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Oneida"]
 +++
 yodásgats ji? yojisdóhgwale? kale? ji nú niganuhzode?, kale ji? ganådáyΛ? okale?n awéli, okuni ji? yonudényu, okuni jinú niyudahzehdákwa, okale? ji? yocdΛhlagálΛt, okunín ohluwagúsu?, okalé ji? yuhw Λjadé, okunín ji? ganyadále? okale ji? gahwénode? oakle ji? gahΛdáyΛ? ji? nu ne? lawΛniyó luwatlolí okuni? luwahzΛnowanáta?, okale?
 luwaya?dadelisduh

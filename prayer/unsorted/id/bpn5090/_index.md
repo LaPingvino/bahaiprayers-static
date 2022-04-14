@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5090 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Sembahyang Menengah"]
 +++
 ##SEMBAHYANG MENENGAH
 *Dilaksanakan tiga kali sehari: pagi, tengah hari dan petang.

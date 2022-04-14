@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8851 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-婚姻禱文"]
 +++
 *巴哈伊婚姻是男女雙方基於真摯愛戀的結合。因此，雙方必須極為關心對方並熟悉對方的性格。這一永恆的結合，應該由一個堅定的承諾來穩固締造，而它的目的是培育和睦、情意、團結，追求永恆的生命。
  

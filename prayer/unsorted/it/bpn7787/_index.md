@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7787 in Italiano'
 author = "Abdu'l-Bahá"
-tags = ['lang-it', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Assemblea Spirituale"]
 +++
 Preghiera da dirsi alla fine della seduta dell’As-semblea Spirituale.
 

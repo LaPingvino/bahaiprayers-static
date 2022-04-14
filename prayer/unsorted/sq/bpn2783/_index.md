@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2783 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Martesa"]
 +++
 *Premtimi i martesës, vargu që thuhet individualisht nga nusja dhe dhëndri në praninë e të paktën dy dëshmitarëve të pranueshëm për Asamblenë Shpirtërore është, siç afirmohet në Kitáb-i Akdas: "Ne të gjithë, me të vërtetë, i bindemi Vullnetit të Perëndisë."
 

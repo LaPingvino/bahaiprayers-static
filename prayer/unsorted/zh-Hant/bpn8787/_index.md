@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8787 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-試煉的佑助"]
 +++
 主啊，我的上帝！祢是我危難時的避風港，悲痛時的庇護所和避難處，匱乏時的收容所和安身地。祢是我孤獨時的伴侶，哀慟時的慰藉，寂寞時的知己。祢解除我的憂傷悲痛，赦免我的諸般罪過！
 我全然轉向祢，傾注我的心靈、我的理智、我的言語，熱切向祢哀求。請在祢神聖大同的周期，庇護我免於違背祢的旨意。洗滌我所有的污跡，以免它們妨礙我尋覓祢那潔淨恩典之樹的蔭庇。

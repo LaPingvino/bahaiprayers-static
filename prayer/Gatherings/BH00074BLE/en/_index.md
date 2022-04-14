@@ -1,7 +1,7 @@
 +++
 title = 'Blessed is the Spot in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "Gatherings"]
+tags = ['lang-en', 'prayer-BH00074BLE', "author-Bahá'u'lláh", "category-Gatherings", "cat-Gatherings"]
 +++
 Blessed is the spot, and the house,
 and the place, and the city,

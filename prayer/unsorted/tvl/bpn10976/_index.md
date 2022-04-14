@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10976 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-LUKUUGA FAKA-TE-AGAAGA"]
 +++
 I so se taimi e ulufale atu koe ki loto i te potu fono, fai ate talo tenei mo tou loto finafinau i te alofa o te Atua mo te laulaufaiva e matakalekale mai I meakatoa na ko Tena masauuga, ko te Maalosi-Katoatoa ke aumai a te alofaaga fesoasoani ke maua ne koe a te manumaalo tafasili ite maluga.
 

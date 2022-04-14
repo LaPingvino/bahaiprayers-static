@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2608 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Középső kötelező ima"]
 +++
 *Elmondandó minden nap reggel, délben és este
 *Ki imádkozni kíván, mossa meg kezeit, és miközben mossa, mondja:

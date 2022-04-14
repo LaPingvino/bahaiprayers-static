@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12336 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MANUMAALO O TE FAKATOKAAGA"]
 +++
 E lavea ne Koe, O toku Atua, me ne aofia pefea a Au taugasoa fakapelepele ne latou ko la e se fakalogo mai i Au mea faiite mo tino masei i vasia o Au tino.  E seai se laufenua e toe na loa ko te fanoanoa o Au fagasele mo te tagi o Au tino filifilia ne avaka ki luga mai i ei.  Au e akai totuli kia Koe i Tou Igoa tafasili i te Maluga ke futi mai a te lima o te maalosi mai i te gali o Tou mafi kae ke fesoasoani kia latou katoa ko la e alofa kia Koe.  
   

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11676 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Asamblea Espiritual"]
 +++
 *Oración para ser recitada al terminar la reunión de la Asamblea Espiritual
 

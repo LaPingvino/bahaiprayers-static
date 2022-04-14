@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7448 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ogólne modlitwy za zmarłych"]
 +++
 Chwała niechaj będzie Tobie, o Panie, mój Boże! Nie poniżaj tego, któregoś mocą swej odwiecznej wszechwładzy wywyższył i nie oddalaj od siebie tego, który za Twoją sprawą wszedł do przybytku Twojej wieczności. Czy odrzucisz tego, o mój Boże, któregoś objął swoim panowaniem i czy odtrącisz tego, o moje Upragnienie, któremuś stał się ucieczką? Czy możesz poniżyć tego, któregoś wyniósł, albo też zapomnieć o tym, któremuś pozwolił pamiętać o Tobie?
     

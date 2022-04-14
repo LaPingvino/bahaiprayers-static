@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4732 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Əhddə möhkəmlik duaları"]
 +++
 O, Qüdrətli, Əfv Edən və Şəfqətlidir! Ey Allah, mənim Allahım! Sən bəndələrinin azğınlıq və xəta çölündə sərgərdan qaldığını görürsən; haradadır Sənin hidayətinin nuru, Sən, Ey aləmin Məqsudu? Sən onların acız və köməksiz olduğunu görürsən; haradadır Sənin qüdrətin, Sən Ey göyün və yerin qüvvələrini ovcunda Saxlayan?
 

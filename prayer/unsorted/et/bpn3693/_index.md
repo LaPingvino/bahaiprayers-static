@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3693 in Eesti'
 author = "Abdu'l-Bahá"
-tags = ['lang-et', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-et', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Andestamine"]
 +++
 Oo Sina kõikvõimas! Ma olen patune aga Sina oled Andestaja! Ma olen täis puudusi aga Sina oled Kaasatundja! Ma elan eksimuste pimeduses aga Sina oled Andestamise Valgus!
 Seepärast, oo hea Jumal, andesta mulle mu patud, jaga heldesti oma kingitusi, halasta mu süütegudele, leia mulle varjupaik, kasta mind oma kannatlikkuse allikasse ning ravi mind kõigist haigusist ja nõrkusist.

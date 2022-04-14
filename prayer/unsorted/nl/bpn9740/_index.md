@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9740 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ḥuqúqu’lláh: het Recht van God"]
 +++
 Verheerlijkt zijt Gij, o mijn meedogende Heer! Ik smeek U bij het geraas van de oceaan van Uw heilige woorden, en bij de menigvuldige tekenen van Uw opperste soevereiniteit, de overtuigende bewijzen van Uw goddelijkheid en de verborgen mysteriën die in Uw kennis verscholen liggen, mij Uw genade te verlenen om U en Uw uitverkorenen te dienen, en mij in staat te stellen plichtsgetrouw de Huqúq te schenken die Gij in Uw Boek hebt verordend.
 Ik ben degeen, o mijn Heer, wiens genegenheid naar Uw rijk van heerlijkheid uitgaat en die zich stevig vastklampt aan de zoom van Uw edelmoedigheid. O Gij die de Heer van alle bestaan zijt en de Heerser van het koninkrijk van namen, ik smeek U mij niet te ontzeggen hetgeen Gij bezit, noch mij te onthouden wat Gij voor Uw uitverkorenen hebt beschikt.

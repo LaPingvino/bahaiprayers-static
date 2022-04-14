@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7402 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Spotkania"]
 +++
 O Ty, łaskawy Panie! Oto słudzy Twoi zebrani na tym spotkaniu zwracają się ku Twemu królestwu, upraszając Twoich darów i błogosławieństw. O Ty, Boże! Ujawnij i ukaż znaki swojej jedyności, które zostały złożone we wszystkich przejawach życia. Objaw i odsłoń cnoty, któreś utaił i ukrył w tych ludzkich istnieniach.
     

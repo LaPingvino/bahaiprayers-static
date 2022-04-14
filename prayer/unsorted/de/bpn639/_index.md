@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn639 in Deutsch'
 author = "Báb"
-tags = ['lang-de', '', "Báb", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Báb", "category-unsorted", "cat-Allmacht Gottes"]
 +++
 Im Namen Gottes, des Herrn überwältigender Majestät, des Allbezwingenden.
 Geheiligt sei der Herr, welcher der Herrschaft Quell in Händen hält. Er erschafft, was immer Er will, durch Sein Befehlswort „Sei“! und es ist. Sein war allezeit die Macht der Herrschaft, und Sein wird sie bleiben immerdar. Kraft Seines Befehls macht Er siegreich, wen Er mag. Er ist fürwahr der Gewaltige, der Allmächtige. Ihm gebührt alle Herrlichkeit und Majestät in den Reichen der Offenbarung und der Schöpfung und alles dazwischen. Er ist wahrlich der Starke, der Allherrliche. Seit aller Ewigkeit war Er der Quell unbeugsamer Stärke und wird es bleiben bis in alle Ewigkeit. Er ist fürwahr der Herr der Macht und Gewalt. Alle Reiche des Himmels und der Erde und alles dazwischen sind Gottes, und Seine Macht ist erhaben über alle Dinge. Alle Schätze der Erde und des Himmels und alles dazwischen sind Sein, und Sein Schutz umfängt alle Dinge. Er ist der Schöpfer der Himmel und der Erde und alles dazwischen, und wahrlich, Er ist aller Dinge Zeuge. Er ist der Gerichtsherr über alle, so in den Himmeln, auf Erden und dazwischen wohnen, und wahrlich, Gott ist schnell im Rechnen. Er setzt das Maß, das allen zugemessen ist in den Himmeln und auf Erden und dazwischen. Er ist wahrlich der Höchste Beschirmer. In Seiner Hand hält Er die Schlüssel zu Himmel und Erde und allem dazwischen. Nach Seinem Belieben verleiht Er Gaben durch die Macht Seines Befehls. Seine Gnade umfängt wahrlich alle, und Er ist der Allwissende.

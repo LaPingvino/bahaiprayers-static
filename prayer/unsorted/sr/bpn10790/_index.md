@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10790 in Srpski српски'
 author = "Bahá'u'lláh"
-tags = ['lang-sr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-SREDNJA OBAVEZNA MOLITVA"]
 +++
 *TREBA  DA  SE  IZGOVARA  SVAKOG  DANA  UJUTRO, U  PODNE, I  UVEČE
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3436 in български'
 author = "Abdu'l-Bahá"
-tags = ['lang-bg', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-bg', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Молитви за преподаване от посланията на божествения план"]
 +++
 ##Разкрита за бахаите от съединените щати и канада
 

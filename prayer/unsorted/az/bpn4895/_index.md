@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4895 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Atəş Lövhü, Əhməd Lövhü, Müqəddəs Dənizçi lövhü"]
 +++
 *"Müqəddəs Dənizçi Lövhünü öyrən ki, sən həqiqəti biləsən və görəsən ki, Camal-i Mübarək gələcək hadisələri bütünlüklə öncədən xəbər vermişdir. Qoy bəsirəti olanlar bundan ibrət alsınlar." -Əbdül-Bəha Abbas
 

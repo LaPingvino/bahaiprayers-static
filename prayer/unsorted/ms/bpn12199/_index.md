@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12199 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-LOH ZIARAH 'ABDU’L-BAHÁ"]
 +++
 ##LOH ZIARAH 'ABDU’L-BAHÁ
 

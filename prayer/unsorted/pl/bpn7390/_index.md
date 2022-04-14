@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7390 in Polski'
 author = "Báb"
-tags = ['lang-pl', '', "Báb", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Báb", "category-unsorted", "cat-Rozwój duchowy"]
 +++
 Zaszczyć mnie, o mój Boże, pełną miarą Twojej miłości i Twojego zadowolenia i zachwyć nasze serca urokiem Twojej wspaniałej światłości, o Ty, któryś jest Najwyższym Świadectwem i Wszechwysławianym. Na znak swojej łaski ześlij na mnie Twoje ożywiające powiewy, za dnia, jak i w porze nocy, o Panie łaskawości.
     

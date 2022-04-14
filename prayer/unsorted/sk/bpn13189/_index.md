@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13189 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Uzdravenie"]
 +++
 *Dlhá modlitba za uzdravenie
 On je Uzdravujúci, Postačujúci, Pomocník, vždy Odpúšťajúci, Najmilosrdnejší.

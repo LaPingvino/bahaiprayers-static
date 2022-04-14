@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9391 in Malagasy'
 author = "Abdu'l-Bahá"
-tags = ['lang-mg', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-FAMPIANARANA"]
 +++
 Dera ho Anao, ry Andriamanitro ô! Marina tokoa, ireto ny mpanomponao voasariky ny hanitry ny Famindramponao, miredareda amin’ny afo mirehitra eo amin’ny hazon’ny Firaisanao ary ny masony mamirapiratra mandinika ny fahazavana manjopika eo amin’ny Sinaï-n’ny maha-Iray Anao.
 Ry Tompo, vahao ny lelany mba hankalazany Anao eo amin’ny vahoakanao, avelao hihira ny fiderana Anao izy ireo  noho ny Fankasitrahanao sy ny Fahasoavanao, ampio izy ireo amin’ny tafik’ireo anjelinao, atanjaho izy ireo eo amin’ny fanompoana Anao ary ataovy ho famantarana ny Fitarihanao izy ireo eo anivon’ireo voaharinao.

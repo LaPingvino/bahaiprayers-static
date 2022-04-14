@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7995 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TALBA OBLIGATORJA MEDJA"]
 +++
 #TALBA OBLIGATORJA MEDJA    (Medium Obligatory Prayer)
 ##TINGHAD KULJUM, FIL-GĦODU, F’NOFS IN-NĦAR, U FIL-GĦAXIJA

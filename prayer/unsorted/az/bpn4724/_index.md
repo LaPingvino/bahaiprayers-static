@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4724 in Azərbaycan'
 author = "Báb"
-tags = ['lang-az', '', "Báb", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Báb", "category-unsorted", "cat-Bağışlanma duası"]
 +++
 Anlayiram mən, Ya Rəbb, xətalarım Sənin hüzurunda üzümü xəcalətlə qaraldıb, Sənin qarşında belimi əyib, mənimlə Sənin camalın arasında pərdəyə çevrilib, hər yandan məni əhatə edərək və hər tərəfdən məni bürüyərək, Sənin qüdrətinin təzahürlərinə yetişməyimə mane olub.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn642 in Deutsch'
 author = "Báb"
-tags = ['lang-de', '', "Báb", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Báb", "category-unsorted", "cat-Beistand"]
 +++
 O Herr! Zu Dir nehme ich Zuflucht und auf Deine Zeichen richte ich mein Herz.
 O Herr! Ob auf Reisen oder zu Hause, in meinem Beruf oder bei meiner Arbeit, setze ich all mein Vertrauen in Dich.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5482 in 日本語'
 author = "Bahá'u'lláh"
-tags = ['lang-ja', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-真夜中の祈り"]
 +++
 おお真理の探究者よ。もし汝、開眼(かいがん)を神に願うならば、
 真夜中に神と対話し、祈り、次のように嘆願せよ。

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2279 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Propovăduire"]
 +++
 Slava fie cu Tine, o, Stăpân al lumii şi Dorinţă a naţiunilor, o, Tu ce Te-ai dezvăluit prin Cel Mai Mare Nume, prin care perlele înţelepciunii şi rostirii au apărut din scoicile imensei mări a cunoaşterii Tale, şi cerurile revelaţiei divine au fost împodobite de lumina răsăririi soarelui chipului Tău.
 

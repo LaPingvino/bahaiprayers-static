@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6218 in Luganda'
 author = "Bahá'u'lláh"
-tags = ['lang-lg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ESSALA EMPAVU ETTEEKWA OKUSOMEBWA"]
 +++
 ##ESSALA EMPAVU ETTEEKWA OKUSOMEBWA
 

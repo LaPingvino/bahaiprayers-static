@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3917 in Hrvatski'
 author = "Abdu'l-Bahá"
-tags = ['lang-hr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Odvojenost"]
 +++
 O, Bože! U Tebi tražim utočište i prema Tvom znamenju upravljam svoje srce.
 

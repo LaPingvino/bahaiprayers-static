@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2700 in Magyar'
 author = "Báb"
-tags = ['lang-hu', '', "Báb", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Báb", "category-unsorted", "cat-Megbocsátás"]
 +++
 Jól tudom, ó, Uram, hogy vétkeim színed előtt szégyenbe borították arcom, és teherként nehezedtek hátamra Előtted, elválasztottak engem a Te szépséges orcádtól, körülvettek minden oldalról, és minden felől akadályoztak abban, hogy eljuthassak mennyei erőd kinyilatkoztatásaihoz.
 

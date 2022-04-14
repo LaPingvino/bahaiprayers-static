@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7623 in Kreyol Ayisyen'
 author = "Abdu'l-Bahá"
-tags = ['lang-ht', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ansèyman"]
 +++
 *Zanmi yo k’ap gaye pafen Bondye ta dwe resite priyè sa a chak maten:
 O Bondye, Bondye mwen! Ou wè kreyati fèb sa a k’ap mande pouvwa selès, yon malere ki anvi jwenn trezò Ou yo ki soti nan syèl la, yon moun ki swaf ki ta renmen jwenn fontèn lavi etènèl la, yon malad k’ap chèche gerizon Ou te pwomèt la daprè mizèrikòd Ou ki p’ap janm fini - yon mizèrikòd Ou te chwazi pou sèvitè Ou yo ki nan Wayòm Ou anwo a. 

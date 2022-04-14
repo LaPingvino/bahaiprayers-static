@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10974 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MATULO MO OLOTOU KAAIGA"]
 +++
 O te Aliki toku Atua! O Koe ko te Fesoasoani ki tino vaaivai, ko te Atafai o latou mativa mo te Fakaola o latou ko la taka-seasea ko fuli atu kia Koe.
      E faka-maulalo kae sisi oku lima ki luga o akai atu ki Tou maalo o te gali kae kalaga tagitagi ki luga ia Koe mo toku laulaufaiva foliki, o fai atu penei: O te Atua, toku Atua!  Fesoasoani mai ke tapuaki kia Koe, faka-maalosi toku fuaitino ke tavini kia Koe; fesoasoani kia au mai i Tou alofa i toku tavini kia Koe; faka-maegia au ke tumau ate faka-tuanaki i toku fakalogo kia Koe; kae ligi ifo kia au a se tusaga lasi mai i Tou maumea-lauefa, faka-saoloto akiloga o te mata o Tou alofa-atafai ke vau ki luga ia au, kae ufi aka ki lalo i te vasa o Tau faka-magalo.  Ke talia aka ko au ke faka-tumau i toku kau ki Tau Talitonuuga, kae 

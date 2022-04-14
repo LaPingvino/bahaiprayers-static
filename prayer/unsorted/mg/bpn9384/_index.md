@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9384 in Malagasy'
 author = "Abdu'l-Bahá"
-tags = ['lang-mg', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-FANAMPIANA"]
 +++
 Izy Ilay Mpangoraka! Ilay Malemy fanahy Indrindra!
 Ry Andriamanitro ô! Andriamanitro! Hitanao aho, fantatrao aho, Ianao no Fitodiako sy Fialofako. Tsy nisy notadiaviko sy hotadiaviko hafa afatsy Ianao; tsy nisy lalana hafa nodiaviko na hodiaviko afatsy ny lalan’ny Fitiavanao.

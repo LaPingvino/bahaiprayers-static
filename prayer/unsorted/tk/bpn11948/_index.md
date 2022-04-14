@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11948 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Gündelik Dogalar"]
 +++
 *(Säher we agşam)
 *(Bu dogany her säher, her agşam okaň)

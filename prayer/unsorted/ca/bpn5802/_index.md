@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5802 in Català'
 author = "Báb"
-tags = ['lang-ca', '', "Báb", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Báb", "category-unsorted", "cat-Despreniment"]
 +++
 ##Ajuda
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5788 in Català'
 author = "Báb"
-tags = ['lang-ca', '', "Báb", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Báb", "category-unsorted", "cat-Ajuda"]
 +++
 Lloat sigui el Teu Nom, oh Senyor nostre Déu! Tu ets, en veritat el Coneixedor de coses invisibles. Ordena per a nosaltres tot el bé que el Teu coneixement que tot ho abraça pugui concebre. Tu ets el Senyor Sobirà, el Tot Poderós, el Més Estimat.
 Tota lloança sigui per a Tu, oh Senyor! Buscarem la Teva gràcia en el Dia assenyalat i posarem tota la nostra confiança en Tu, qui ets nostre Senyor. Glorificat ets Tu, oh Déu! Concedeix-nos el que és bo i correcte per a que pugem prescindir de tot tret de Tu. Veritablement Tu ets el Senyor de tots els mons.

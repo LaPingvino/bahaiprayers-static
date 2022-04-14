@@ -1,3 +1,3 @@
 +++
-title = "Prayer BH09085"
+title = "Prayer for the Dead"
 +++

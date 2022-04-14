@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6325 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Rukwangali: NONDAPERO DOVANONA NOVADINKANTU"]
 +++
 Hompa Karunga, mugameni gwange, mupopeli gwange, ninka nge ramba zokutwera nombungururu zokupayima. Omupameki ntani Omunankondo.
 

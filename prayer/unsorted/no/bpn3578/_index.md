@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3578 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Åndelig vekst"]
 +++
 O min Gud, gavmildhetens og barmhjertighetens Gud! Du er den Konge ved hvis bydende ord hele skaperverket er blitt frembragt; og du er den overmåte gavmilde hvis tjeneres gjerninger aldri har hindret ham fra å gi uttrykk for sin nåde, ei heller fra å åpenbare sin gavmildhet.
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12922 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-26 Prières de ‘Abdu’l-Bahá Avril 2021"]
 +++
 Il est Dieu. 
 Ô toi, Seigneur bienveillant et bien-aimé! Ces amis sont enivrés du vin de l’Alliance et ils errent dans le désert de ton amour. Les flammes de l’éloignement de toi consument leur cœur et ils aspirent ardemment à la révélation de tes splendeurs. De ton royaume caché, du règne de l’invisible, révèle-leur la gloire éclatante de ta grâce, et répands sur eux la splendeur de ta générosité. À chaque instant, envoie une nouvelle bénédiction et révèle une nouvelle faveur. 

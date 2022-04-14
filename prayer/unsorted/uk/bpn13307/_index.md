@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13307 in Україна'
 author = "Bahá'u'lláh"
-tags = ['lang-uk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-uk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Стійкість"]
 +++
 О Боже, мій Боже! Я обернувся до Тебе в каятті, і Ти, воістину, Той, Хто дарує прощення, Співчутливий.
 

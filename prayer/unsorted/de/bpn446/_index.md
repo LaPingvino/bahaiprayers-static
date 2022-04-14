@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn446 in Deutsch'
 author = "Abdu'l-Bahá"
-tags = ['lang-de', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Beistand"]
 +++
 Herr! Wir sind bemitleidenswert, gewähre uns Deine Gunst; wir sind arm, schenke uns einen Anteil am Meere Deines Reichtums; bedürftig sind wir, gib uns, was uns mangelt; wir sind erniedrigt, verleihe uns Deine Herrlichkeit. Die Vögel in der Luft und die Tiere auf dem Felde erhalten ihre Nahrung täglich von Dir, und alle Wesen erfahren Deinen Schutz und Deine Güte.
 Entziehe diesem Schwachen nicht Deine wundersame Gnade und schenke durch Deine Macht dieser hilflosen Seele Deine Großmut.

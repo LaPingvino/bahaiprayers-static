@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1330 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Epístolas"]
 +++
 ##Epístola De Visitação Do Báb E Bahá'u'lláh
 Esta Epístola é lida nos Sepulcros de Bahá’u’lláh e do Báb. Também é usada frequentemente na comemoração dos Seus aniversários, porém não está restrita apenas a estas ocasiões. Os amigos podem fazê-las todas as vezes que assim o desejarem.O Louvor que raiou do Teu augustíssimo Ser e a glória que brilhou da Tua mais fulgurante Beleza, repousem sobre Ti, ó Tu que és a Manifestação da Grandeza, o Rei da Eternidade e o Senhor de todos os que estão no céu e na terra! Dou testemunho de que pelo Teu intermédio foram revelados a soberania de Deus e o Seu domínio, e a majestade de Deus e a Sua grandeza; que os Sóis de antigo esplendor reluziram no céu do Teu irrevogável decreto, e a Beleza do Invisível brilhou sobre o horizonte da criação. Com apenas um movimento da Tua Pena - testifico ainda - foi executado o Teu mandamento: Sê Tu, e divulgado o Segredo oculto de Deus, e todas as coisas criadas foram chamadas para a existência, e todas as Revelações desceram do alto.

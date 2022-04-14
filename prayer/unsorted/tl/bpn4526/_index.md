@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4526 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Umaga"]
 +++
 Nagbibigay-puri ako sa Iyo, O aking Diyos, sapagkat ginising Mo ako buhat sa aking pagkakatulog at ibinalik Mo ako pagkaraan ng aking pagkawala, at ibinangon Mo ako buhat sa pagkakahimlay. Nagising ako ngayong umaga nang ang aking mukha ay nakaharap sa mga ningning ng Araw-Bituin ng Iyong Kapahayagan, na sa pamamagitan Niyon ay natatanglawan ang mga langit ng Iyong lakas at ng Iyong kamahalan, kumikilala sa Iyong mga tanda, naniniwala sa Iyong Aklat, at nangangapit sa Iyong Kuldon.
 

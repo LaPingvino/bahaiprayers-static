@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7586 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Paasto"]
 +++
 Nämä ovat ne päivät, oi Jumalani, joina olet velvoittanut palvelijasi noudattamaan paastoa. Sen kautta kaunistit luoduillesi ilmaistun lakiesi kirjan esipuheen ja katoit esille käskyjesi kätköt kaikkien taivaassasi ja kaikkien maasi  päällä olevien nähtäville. Olet varustanut näiden päivien jokaisen hetken erityisellä hyveellä, joka on tutkimaton kaikille paitsi Sinulle, jonka tietämys käsittää kaikki luodut asiat. Sinä olet myös myöntänyt jokaiselle sielulle osan tästä hyveestä säädöksesi muistion ja lopullisen tuomiovaltasi kirjoitusten mukaisesti. Jokaisen lehden näistä kirjoista ja kirjoituksista olet lisäksi osoittanut kullekin maan kansoista ja sukukunnista.
 Kiihkeille rakastajillesi Sinä olet säädöksesi mukaisesti varannut aina päivän kajastaessa muistelemisesi maljan, oi Sinä, joka olet hallitsijain Hallitsija! Nämä ovat niitä, jotka ovat niin humaltuneet moninaisen viisautesi viinistä, että he jättävät vuoteensa kaipuussaan veisata kiitostasi ja ylistää hyveitäsi ja pakenevat unta innossaan päästä tykösi ja nauttia anteliaisuudestasi. Heidän silmänsä ovat kaikkina aikoina kohdistuneet laupeutesi Päivänkoiton puoleen ja  heidän kasvonsa kääntyneet innoituksesi Lähdettä kohti. Anna siis armeliaisuutesi pilvistä sataa meidän päällemme ja heidän päälleen sitä, mikä sopii anteliaisuutesi ja armosi taivaalle.

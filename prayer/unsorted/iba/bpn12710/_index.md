@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12710 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-PENYAUP"]
 +++
 Tuhan! Sinu amat kami, kemendarka pengasih Nuan ba kami; seranta, sikap ba kami sebagi ari tasik pengaya Nuan; suntuk, uji Nuan ngemuaska kami; dikemaruh, beri kami mulia Nuan. Bala burung di langit enggau bala jelu di tanah nerima pemakai sida tiap hari ari Nuan, lalu semua utai idup bulih intu enggau pengerindu-penelap Nuan.
 Anang ngemelu iya ti lemi tu ari pemanah berekat Nuan lalu tetapka nengah penegap Nuan ngagai semengat ti nadai daya tu pemeri Nuan.

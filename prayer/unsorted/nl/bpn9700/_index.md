@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9700 in Nederlands'
 author = "Báb"
-tags = ['lang-nl', '', "Báb", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Báb", "category-unsorted", "cat-Overwinning van de Zaak"]
 +++
 Glorie zij U, o Heer, Gij die al het geschapene tot leven hebt gewekt door de kracht van Uw bevel.
 O Heer! Sta diegenen bij die van alles buiten U afstand hebben genomen, en schenk hun een klinkende overwinning. Zend de scharen der engelen van hemel en aarde en al wat daartussen is op hen neer, o Heer, om Uw dienaren te helpen, om hen bij te staan en te sterken, om hen succesvol te laten zijn, om hen te schragen, om hen met glorie te bekleden, om hen te verheffen en eer te verlenen, om hen te verrijken en te laten zegevieren met een wondere zege.

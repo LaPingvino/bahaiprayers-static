@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6051 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Otjiherero: OMBONGARERO YO MBEPO"]
 +++
 *(Ngamwa aruhe tji mohiti mondjuwo, kumba tuvari ongumbiro ndji  no mutima-wo ndjenda ku Mukuru neraka roye okumuzemburuka Erike uriri, kutja Omunamasa, ayehe mekupe outoni mongumbiro ndji:)
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13126 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Deti"]
 +++
 Ó môj Pane! Ó môj Pane! Som dieťatko v útlom veku. Živ ma z ňadier Svojho milosrdenstva, vychovávaj ma v náručí Svojej lásky, vzdelávaj ma v škole Svojho vedenia a rozvíjaj ma v tôni Svojej štedrosti! Vyveď ma z temnoty, učiň ma trblietavým svetlom, vysloboď ma z nešťastia a učiň ma kvetom ružovej záhrady! Daj, aby som sa stalo služobníkom Tvojho prahu, a udeľ mi povahu a podstatu spravodlivých. Učiň ma príčinou požehnania ľudského sveta a hlavu mi korunuj diadémom života večného! Vskutku, Ty si Silný, Mocný, Vidiaci, Slyšiaci.
 

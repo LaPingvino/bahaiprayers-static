@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3517 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Helbredelse"]
 +++
 Ære være deg, o Herre min Gud!. Jeg bønnfaller deg ved ditt navn hvorved han som er din Skjønnhet er blitt grunnfestet på din Saks trone, og ved ditt navn hvorved du forandrer alle ting, og samler alle ting, og kaller til regnskap alle ting, og belønner alle ting, og bevarer alle ting, og opprettholder alle ting -jeg bønnfaller deg om å beskytte denne tjenerinne som har tatt sin tilflukt til deg, og søkt ly hos ham som du selv er åpenbart i, og satt all sin lit og fortrøstning til deg.
  

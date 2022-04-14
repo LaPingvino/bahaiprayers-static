@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7615 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Priyè Ahmad la"]
 +++
 Se Li Ki Wa, Ki Konnen Tout Bagay, Ki Saj la!
 	Men Wosinyòl Paradi a K’ap chante melodi yo ki sen e dous sou branch ki nan Pyebwa Etènite a, K’ap anonse moun sensè yo bòn nouvèl la ki di Bondye tou pre nou, K’ap envite kwayan nan Linite Diven yo rantre nan lakou Prezans Sila a Ki Renmen Bay la, K’ap fè nanm ki detache yo konnen mesaj Bondye te revele a, Li menm Ki Wa a, Ki Gloriye a, Ki Pa Gen Parèy, K’ap gide amoure yo rive nan syèj sentete a e jwenn Bèlte eklere sa a.

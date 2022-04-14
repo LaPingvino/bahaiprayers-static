@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12289 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-TUPU AKA FAK-TE-AGAAGA"]
 +++
 O toku Atua! O toku Atua!  Te matagofie i luga ia Koe aua ia au ko oti ne faka-talitonu ne Koe kite fakaasiiga o Tou faka-tasitasi, fakapilipili atu au kite muna o Tou tokotasi, kae faka-ka mai au kit e afi o Tou alofa, kae fakalavelave mai au ki tetakutakuuga o Koe mo te tavini ko Au taugasoa mo tavini fafine.  
   

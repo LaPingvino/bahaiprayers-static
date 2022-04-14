@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12657 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-NGAJAR"]
 +++
 Puji meh ngagai Nuan, O Petara aku! Tu bala pengasuh
 Nuan ti udah ditarit ulih rengut pengasih Nuan, lalu ditungkun ngena api ti mau ba kayu Nuan ti Siku, lalu mata sida tebelenang meda bebendang penampak ti manchar ari Sinai penyatu Nuan.

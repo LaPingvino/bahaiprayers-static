@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12959 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ASSISTANCE"]
 +++
 Bikpela!  Mipela i tarangu tru.  Inap Yu marimari long mipela.  Yes, mipela i rabis pinis.  Inap Yu blesim mipela wantaim hap samting i kam long solwara bilong ol gutpela samting bilong Yu.  Mipela i sot long olgeta samting.  Inap Yu inapim mipela.  Mipela i stap daunbilo.  Inap Yu apim mipela wantaim glori bilong Yu.  Ol pisin bilong skai wantaim ol abus bilong graun, olgeta i save kisim kaikai long han bilong Yu long olgeta wan wan de.  Yu save lukautim ol wantaim gutpela lav bilong Yu. 
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3562 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Undervisning"]
 +++
 Ære være deg, o verdens Herre og folkenes attrå, o du som er blitt åpenbar i det Største Navn, slik at visdommens og ytringens perler er kommet til syne fra muslingene i din kunnskaps veldige hav, og slik at den guddommelige åpenbarings himler er blitt prydet med lyset fra ditt åsyns gryende sol.
  

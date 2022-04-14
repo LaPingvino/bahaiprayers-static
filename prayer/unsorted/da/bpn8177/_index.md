@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8177 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Åndelige Råd"]
 +++
 Når som helst I går ind i rådsværelset fremsig da denne bøn med et hjerte, der banker af Guds kærlighed, og en tunge renset for alt undtagen ihukommelse af Ham, at Den Almægtige nådigt kan hjælpe jer til at opnå højeste sejr.
 

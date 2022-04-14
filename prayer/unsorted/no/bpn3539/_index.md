@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3539 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Opplysning"]
 +++
 O min Gud og min Mester! Jeg er din tjener og sønn av din tjener. Jeg stod opp fra mitt leie i denne morgenstund da din enhets sol skinte frem fra din viljes daggry og kastet sin stråleglans ut over hele verden, slik det var forordnet i din befalings Bøker.
  

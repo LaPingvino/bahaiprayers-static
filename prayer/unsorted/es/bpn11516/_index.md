@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11516 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Desprendimiento"]
 +++
 ¡La alabanza sea para Ti, oh mi Dios! Soy uno de Tus siervos, que ha creído en Ti y en Tus señales. Tú ves cómo me he dirigido hacia la puerta de Tu misericordia y he vuelto el rostro hacia Tu tierna bondad. Te imploro, por Tus muy excelentes títulos y por Tus muy exaltados atributos, que abras ante mi rostro las puertas de Tus dádivas. Ayúdame, pues, a hacer lo que es bueno, oh Tú que eres el Poseedor de todos los nombres y atributos.
 Soy pobre, oh mi Señor, y Tú eres el Rico. He vuelto el rostro hacia Ti y me he desprendido de todo salvo de Ti. Te imploro que no me prives de las brisas de Tu tierna misericordia ni me niegues lo que ordenaste para los elegidos entre Tus siervos.

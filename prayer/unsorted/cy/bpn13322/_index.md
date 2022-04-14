@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13322 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Long Obligatory Prayer"]
 +++
 *(I'w hadrodd unwaith mewn pedair awr ar hugain)
 Y sawl a ddymuna adrodd y weddi hon, bydded iddo sefyll ar ei draed a throi at Dduw, ac fel y saif un ei le, bydded iddo edrychi i'r dde ac i'r chwith, fel petai'n disgwyl am drugaredd ei Arglwydd, yr Holl-Drugarog, y Tosturiol.  Yna dyweded:

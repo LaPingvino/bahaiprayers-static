@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2180 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Copii şi Tineri"]
 +++
 O, Tu Stăpâne bun! Noi suntem bieţi copii, nevoiaşi şi neînsemnaţi, dar totuşi suntem plante ce am încolţit datorită şuvoiului Tău ceresc şi mlădiţe tâşnind în floare în timpul primăverii Tale divine. Fă-ne proaspeţi şi verzi prin revărsările norilor milostivirii Tale; ajută-ne să creştem şi să ne dezvoltăm prin razele soarelui darurilor Tale minunate şi fă-ne să fim învioraţi de brizele însufleţitoare adiind dinspre păşunile Adevărului. Îngăduie să devenim pomi înfloritori încărcaţi de roade în livada cunoaşterii, stele scânteietoare sclipind deasupra orizontului fericirii veşnice şi lămpi strălucitoare aruncându-şi lumina asupra adunării oamenilor.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6106 in Chamorro'
 author = "Bahá'u'lláh"
-tags = ['lang-ch', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ch', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TINAITAI OPBLIGASION"]
 +++
 #TINAITAI OPBLIGASION
 ##OBLIGATORY PRAYER

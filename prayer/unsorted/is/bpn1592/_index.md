@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1592 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Andlegir eiginleikar"]
 +++
 Hann er Guð, sá sem heyrir bænir og svarar þeim.
 Við dýrð Þína, ó ástvinur, Þú sem gefur heim­in­um ljós. Eldur aðskilnaðar hefur eytt mér og afglöp mín tæra hjarta mitt. Ég bið Þig við Þitt mesta nafn, ó Þú þrá heimsins og ástvinur mann­kynsins, að gefa að andvari innblásturs megi styrkja sál mína, undur­samleg rödd Þín ná eyrum mínum, augu mín líta tákn Þín og ljós eins og það opin­berast í birtingum nafna Þinna og eiginda, ó Þú sem hefur í hendi Þinni allt sem er.

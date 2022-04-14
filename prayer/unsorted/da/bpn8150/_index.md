@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8150 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Besøgelsens Breve"]
 +++
 *Dette epistel læses ved Bahá’u’lláhs og Bábs gravmæler. Det benyttes også hyppigt ved højtideligholdelsen af Deres mindedage.
 

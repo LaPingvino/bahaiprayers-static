@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8085 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Morgen"]
 +++
 Jeg priser Dig, o min Gud, fordi Du har vækket mig af min søvn og draget mig frem efter mit fravær og løftet mig af min slummer. Jeg er vågnet denne morgen med mit ansigt vendt mod glansen fra Din åbenbarings dagstjerne, hvorigennem Din magts og majestæts himle er blevet oplyst, i erkendelse af Dine tegn og i tro på Din Bog, medens jeg holder fast ved Dit reb.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2527 in Русский'
 author = "Báb"
-tags = ['lang-ru', '', "Báb", "unsorted"]
+tags = ['lang-ru', 'prayer-', "author-Báb", "category-unsorted", "cat-Отрешение"]
 +++
 Во имя Господа Твоего, Создателя, Владыки, Вседостаточного, Наивозвышенного, Того, к Кому о помощи взывает всякий человек.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1735 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Sáttmálinn"]
 +++
 Hann er hinn máttugi, fyrirgefandinn, hinn vor­kunnláti!
 Ó Guð, Guð minn! Þú lítur þjóna Þína í af­grunni villu og tortímingar, hvar er ljós himneskrar leið­sagnar Þinnar, ó Þú þrá heimsins? Þú þekkir hjálp­ar­leysi þeirra og vanmátt, hvar er vald Þitt, ó Þú sem hefur í greip Þinni öfl himins og jarðar?

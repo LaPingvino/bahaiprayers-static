@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6213 in Hawaiian'
 author = "Bahá'u'lláh"
-tags = ['lang-haw', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-haw', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-General Prayers"]
 +++
 ##He Pule o ka Ho'ola ˇana
 *Healing Prayer

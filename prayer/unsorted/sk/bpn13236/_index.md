@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13236 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pôst"]
 +++
 Úpenlivo Ťa prosím, ó môj Bože, pri Tvojom mocnom Znamení a pri prejavení Tvojej milosti medzi ľuďmi, neodháňaj ma od brány mesta Tvojej prítomnosti a nesklam nádeje, ktoré som uprel na prejavy Tvojej milosti medzi Tvojimi stvoreniami. Vidíš ma, ó môj Bože, ako sa držím Tvojho Mena, Najsvätejšieho, Najžiarivejšieho, Najmocnejšieho, Najväčšieho, Najvznešenejšieho, Najslávnejšieho a ako sa pridržiavam lemu šatu, ku ktorému priľnuli všetci z tohto ako i budúceho sveta.
 Úpenlivo Ťa prosím, ó môj Bože, pri Tvojom najsladšom Hlase a pri Tvojom Najvznešenejšom Slove, aby si ma privádzal bližšie a bližšie k prahu Tvojich dverí a nedopustil, aby som bol vzdialený od tieňa Tvojho milosrdenstva a od nebies Tvojej štedrosti. Vidíš ma, ó môj Bože, ako sa držím Tvojho Mena, Najsvätejšieho, Najžiarivejšieho, Najmocnejšieho, Najväčšieho, Najvznešenejšieho, Najslávnejšieho a ako sa pridržiavam lemu šatu, ku ktorému priľnuli všetci z tohto ako i budúceho sveta.

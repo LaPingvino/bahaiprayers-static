@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2219 in România'
 author = "Báb"
-tags = ['lang-ro', '', "Báb", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Báb", "category-unsorted", "cat-Iertare"]
 +++
 O, Dumnezeule, Stăpânul nostru!
 Ocroteşte-ne cu harul Tău de tot ceea ce-ţi este respingător, şi acordă-ne ceea ce ţi se cuvine. Dăruieşte-ne mai mult din mărinimia Ta şi binecuvântează-ne. Iartă-ne pentru lucrurile pe care le-am făcut, şi spală păcatele noastre, şi iartă-ne cu iertarea Ta plină de har. Cu adevărat, Tu eşti Cel Preaînalt, Cel de Sine Stătător.

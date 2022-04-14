@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12141 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MENGAJAR"]
 +++
 Katakanlah: Dibesarkanlah Nama-Mu, Ya Tuhan, Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang melaluinya kecemerlangan cahaya kearifan telah bersinari dengan penuh gemilang apabila syurga ujaran ilahi telah digerakkan dalam kalangan manusia, untuk membantuku melalui pengesahan syurgawi-Mu dan membolehkan daku untuk menyebarkan Nama-Mu dalam kalangan hamba-Mu.
 

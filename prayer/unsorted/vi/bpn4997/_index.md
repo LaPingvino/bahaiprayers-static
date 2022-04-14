@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4997 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-vi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Chữa Bệnh"]
 +++
 #Chữa Bệnh 
 ##(Bài kinh dài)

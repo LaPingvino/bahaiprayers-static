@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6265 in Luganda'
 author = "Abdu'l-Bahá"
-tags = ['lang-lg', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-lg', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ETTUMBI"]
 +++
 *Ayi ggwe anoonya amazima, bwobeera wegomba Katonda okuzibula amoaso go, oteekwa okwegayira Katonda omusabe era nga omwegayirira ettumbi nga ogamba nti:
 

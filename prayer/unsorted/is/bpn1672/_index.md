@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1672 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Græðing"]
 +++
 Hann er græðarinn, nægjandinn, hjálparinn, sá sem allt fyrirgefur, hinn almiskunnsami.
 Ég ákalla Þig, ó upphafni, ó trúfasti, ó dýrðlegi! Þú sem nægir, Þú sem græðir, Þú sem varir, ó Þú ævarandi!

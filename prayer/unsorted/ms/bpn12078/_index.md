@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12078 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-KANAK-KANAK"]
 +++
 Ya Tuhan, Tuhanku! Ini adalah anak yang telah dilahirkan daripada loin salah seorang hamba-Mu yang telah Engkau kurniakan kedudukan yang istimewa dalam Loh-Loh perintah-Mu yang muktamad dalam Kitab-Kitab perintah-Mu.
 

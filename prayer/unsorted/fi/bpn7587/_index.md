@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7587 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Paasto"]
 +++
 Rukoilen Sinua, oi Jumalani, mahtavan merkkisi kautta ja ihmisten keskuudessa ilmaistun armosi kautta, että et viskaa minua syrjään läsnäolosi kaupungin portilta etkä petä niitä toiveita, jotka olen  asettanut armosi ilmauksiin luotujesi joukossa. Oi Jumalani, Sinä näet minun pitäytyvän Nimeesi, Kaikkein pyhimpään, Kaikkein hohtavimpaan, Kaikkein mahtavimpaan, Kaikkein korkeimpaan, Kaikkein ylevimpään, Kaikkein kirkkaimpaan, ja tarrautuvan sen kaavun helmaan, johon ovat tarttuneet kaikki tässä maailmassa ja tulevassa maailmassa.
 Rukoilen Sinua, oi Jumalani, kaikkein ihanimman äänesi kautta ja ylevimmän sanasi kautta, että vedät minut yhä lähemmäksi ovesi kynnystä etkä salli minun pysytellä etäällä armeliaisuutesi siimeksestä ja anteliaisuutesi katoksesta. Oi Jumalani, Sinä näet minun pitäytyvän Nimeesi, Kaikkein pyhimpään, Kaikkein hohtavimpaan, Kaikkein mahtavimpaan, Kaikkein korkeimpaan, Kaikkein ylevimpään, Kaikkein kirkkaimpaan, ja tarrautuvan sen kaavun helmaan, johon ovat tarttuneet kaikki tässä maailmassa ja tulevassa maailmassa. 

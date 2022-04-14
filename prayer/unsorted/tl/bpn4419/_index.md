@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4419 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Kapatawaran"]
 +++
 Luwalhatiin Ka nawa, O Panginoon kong Diyos! Tuwing nangangahas akong banggitin Ka, ako’y pinipigilan ng aking malalaking mga kasalanan at malubhang mga pagkakasala laban sa Iyo, at namamalas ang aking sarili na lubos na pinagkakaitan ng Iyong pagpapala, at ganap na walang kakayahan na ipagdiwang ang pagpuri sa Iyo. Ang aking malaking tiwala sa Iyong kagandahang loob, gayunman, ang muling bumubuhay sa aking pag-asa sa Iyo, at ang aking katiyakan na pakikitunguhan Mo ako nang buong kasaganahan ay nagpalakas ng loob ko na Ikaw ay purihin, at hingin sa Iyo ang mga bagay na Iyong tinataglay.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2758 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lutja e gjatë e detyrueshme"]
 +++
 Të thuhet një herë në njëzet e katër orë
 

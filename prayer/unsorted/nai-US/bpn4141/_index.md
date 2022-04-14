@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4141 in American Indian'
 author = "Abdu'l-Bahá"
-tags = ['lang-nai-US', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nai-US', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Lakota"]
 +++
 Wakȟáŋ Tȟáŋka, kašká mayúza yo, awáŋmaglaka yo, pȟetížaŋžaŋ wíyakpa na wičháȟpi iléǧa čha makáǧa yo.
  Waníš’akiŋ na wíyoyakihi. 

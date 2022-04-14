@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12312 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-TALO MO TE TALAIIGA MAI I TAPELETI O TE PALANE FAKA-TE-AGAAGA"]
 +++
 *Ne fakaasi ki Bahá’ís o te United States mo Canada  
 O Koe ko te Atua e seai-se-fakatusa! O ko Koe ko te Aliki o te Maalo!  A agaa ola konei ko Tau kautau faka-te-lagi.  Feasosoani kia latou, fakatasi mo latou mai ite Lukuuga Faka-te-lagi, fai a latou ke manumaalo, ko te mea ko latou taki toko tasi ke fai pela me se vaegau e faka-takavale ne latou a fenua konei mai i te alofa o te Atua mo te faka-mainaaga o akoakoga fakate-lagi.  

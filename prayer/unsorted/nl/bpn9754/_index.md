@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9754 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tafelen van Ontmoeting"]
 +++
 *(Deze Tafel wordt gelezen bij de graftomben van Baha’u’llah  en Bab , en wordt ook vaak gebruikt bij Hun gedenkdagen.)
 

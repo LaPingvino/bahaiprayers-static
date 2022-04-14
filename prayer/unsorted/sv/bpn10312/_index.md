@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10312 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Familj"]
 +++
 Bön under graviditet
 Min Herre, min Herre! Jag prisar Dig och tackar Dig för det, varmed Du har gynnat Din ödmjuka tjänarinna, Din slav som bönfaller Dig och tillber Dig, ty Du har i sanning väglett henne till Ditt uppenbara konungarike och fått henne att höra Din upphöjda kallelse i tillvarons värld och att skåda Dina tecken, vilka bevisar uppenbarandet av Ditt segerrika styre över alla ting.

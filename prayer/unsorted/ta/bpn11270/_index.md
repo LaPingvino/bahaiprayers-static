@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11270 in தமிழ்'
 author = "Abdu'l-Bahá"
-tags = ['lang-ta', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-இறந்தவர்களுக்கான பொது பிரார்த்தனைகள்"]
 +++
 என் கடவுளே! குற்றங்களை மன்னிப்பவரே! சன்மானங்கள் வழங்குபவரே! வேதனைகளைப் போக்குபவரே!
 

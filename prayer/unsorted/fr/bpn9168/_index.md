@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9168 in Français'
 author = "Abdu'l-Bahá"
-tags = ['lang-fr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Enfants et jeunes"]
 +++
 Ô Seigneur incomparable, sois un refuge pour ce pauvre enfant, un maître bon et indulgent pour cette âme errante et malheureuse.
 Ô Seigneur, bien que plantes insignifiantes, nous appartenons à ta roseraie. Bien que jeunes pousses sans feuilles ni fleurs, nous grandissons dans ton verger.

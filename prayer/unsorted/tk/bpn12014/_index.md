@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12014 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Syýam (Oraza) Aýynyň Dogalary"]
 +++
 Oldur Eziz hem Jomart.
     Eý meniň Mähriban Taňrym we Eý barlyk jahanyň Soltany! Seniň günleriňde, Seniň permanyň we erkiň boýunça Oraza tutýan bendeleriňi, kenizleriňi görýänsiň. Seniň Jomartlyk gençleriňde we sahylyk hazynalaryňda pynhan edilen zatlaryňa ýetmek umydy bilen, daňdanlar turup doga we dileg edýän bendeleriňi, kenizleriňi görýänsiň.

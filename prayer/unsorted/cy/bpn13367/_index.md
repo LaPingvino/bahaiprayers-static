@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13367 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Intercalary Days"]
 +++
 *Dyddiau o baratoi ar gyfer yr ympryd, dyddiau o gyfeillgarwch, rhyddfrydugrwydd a rhoi anrhegion yw'r Dyddiau Rhyng-Galendraidd (Chwefror 26 hyd Mawrth 1)
 

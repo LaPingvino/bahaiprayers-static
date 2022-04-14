@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2319 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Tabletele vizitării ‘Abdu’l‑bahá"]
 +++
 *(Această rugăciune revelată de ‘Abdu’l-Bahá se va citi la mormântul acestuia. Poate fi citită şi în alte momente.)
 

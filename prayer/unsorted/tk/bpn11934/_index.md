@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11934 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ene-Atalar"]
 +++
 Ýa Reb! Seniň Rähmet we Kerem asmanyňa uzalan umytly gollary görýänsiň. Ol elleri Öz Merhemet we Jomartlyk gençleriň bilen doldurarsyň diýip arzuwym bardyr.
     Barhudaýa! Biz üçin we biziň ene-atalarymyz üçin “Ýalkaýyş” sözüni ýaz. Soň erk eden zadymyzy Öz Baýlyk we Nygmat deňziň ortasyndan bize paýla.

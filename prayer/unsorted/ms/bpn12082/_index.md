@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12082 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-KANAK-KANAK"]
 +++
 Ya Tuhanku! Ya Tuhanku! Engkau melihat kanak-kanak ini yang adalah dahan daripada pohon kehidupan, burung-burung di padang keselamatan, mutiara-mutiara di samudera kurnia-Mu, bunga-bunga mawar di taman bimbingan-Mu.
 

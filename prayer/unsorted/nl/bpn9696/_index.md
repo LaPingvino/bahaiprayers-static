@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9696 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Voor overleden vrouwen"]
 +++
 O Gij vriendelijk Heer! Deze innig gekoesterde dienares werd tot U aangetrokken, en verlangde er door overdenking en inzicht naar om Uw tegenwoordigheid te bereiken en Uw rijken te betreden. Met tranen in de ogen vestigde zij haar blik op het Koninkrijk van mysteriën. Vele nachten bracht zij door in diepe verbondenheid met U, en vele dagen leefde zij met het U innig gedenken. Elke morgenstond was zij U indachtig, en elke avond richtte zij haar gedachten op U. Gelijk een zingende nachtegaal zong zij Uw heilige verzen, en gelijk een spiegel trachtte zij Uw licht te weerkaatsen.
 O Gij die zonden vergeeft! Maak de weg vrij zodat deze ontwaakte ziel Uw koninkrijk kan binnengaan, en laat deze door Uw hand getrainde vogel haar vlucht nemen naar de eeuwige rozengaard. Zij verlangt vurig U nabij te komen; laat haar Uw tegenwoordigheid bereiken. Zij is overstuur en radeloos als zij van U gescheiden is; laat haar toe in Uw hemelse woning.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12633 in Iban'
 author = "Abdu'l-Bahá"
-tags = ['lang-iba', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-EMPURU"]
 +++
 Nuan Petara ti Pengampun! Bala pengasuh tu ngadap perintah Nuan lalu ngiga pengasih enggau pemeri Nuan. O Petara! Gaga ati sida manah sereta tuchi awakka sida tau lumau nerima pengerindu Nuan. Tuchi sereta kuduska roh sida awakka penerang Matahari Pengamat tau manchar ba sida. Tuchi sereta kuduska mata sida awakka sida tau ngelala penerang Nuan. Tuchi sereta kuduska pending sida awakka sida tau ninga kangau perintah Nuan.
 O Tuhan! Amat bendar, kami tu lembut, tang Nuan meh tegap. Amat bendar, kami tu umang, tang Nuan meh kaya. Kami tu pengiga, lalu Nuan meh Siku digiga. O Tuhan! Beri penyinu ke kami lalu ampun kami; sikap ba kami pengulih sereta pengadang awakka kami tau lumau nerima pengasih Nuan lalu tetarit ngagai perintah Nuan, tau ngirup ari penalam ai pengidup, tau ditungkun ngena api pengerindu Nuan, lalu diidup ngena seput Roh Kudus ba rambau penampak tu.

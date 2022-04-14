@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2268 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Pionieri"]
 +++
 O, Tu Dumnezeule neasemuit! O, Tu Stăpâne al Împărăţiei! Aceste suflete sunt armia Ta cerească. Ajută-le, şi cu cohortele Adunării Supreme, fă-le victorioase, astfel încât fiecare să devină asemeni unui regiment şi să cucerească aceste ţări prin iubirea faţă de Dumnezeu şi lumina divinelor învăţături.
 

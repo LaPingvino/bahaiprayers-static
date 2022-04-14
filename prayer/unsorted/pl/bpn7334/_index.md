@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7334 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Z Tablic Boskiego Planu"]
 +++
 Ci, którzy rozprzestrzeniają Boskie wonie, powinni recytować każdego ranka następującą modlitwę:
    

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12047 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-BANTUAN & PERTOLONGAN"]
 +++
 Tuhan! Kasihanilah kami, berikanlah berkat-Mu; miskin, kurniakanlah kami sebahagian daripada samudera kekayaan-Mu; memerlukan, puaskanlah kami; hina, berikan kami keagungan-Mu. Burung-burung di udara dan binatang-binatang di padang menerima makanannya daripada-Mu setiap hari, dan semua makhluk memerlukan jagaan dan kasih sayang-Mu.
 

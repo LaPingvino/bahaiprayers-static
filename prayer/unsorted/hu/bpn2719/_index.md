@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2719 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Segítségkérés"]
 +++
 Ó, Istenem, Kit tisztellek és imádlak! Tanúságot teszek egységedről és egyedüliségedről, és elismerem ajándékaidat mind a múltban és a jelenben. Te vagy a Mindenek Felett Bőkezű. Irgalmad kicsorduló záporai egyformán patakzanak alá királyokra és koldusokra, és kegyelmed ragyogása az engedelmesekre és engedetlenekre is árad.
 

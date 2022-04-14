@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2290 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Statornicie în Legământ"]
 +++
 O, Doamne Dumnezeul meu! M-am întors către Tine cu pocăinţă, cu adevărat Tu eşti Cel Îngăduitor, Cel Milostiv.
 

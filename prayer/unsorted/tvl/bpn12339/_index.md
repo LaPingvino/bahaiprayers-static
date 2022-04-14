@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12339 in Tuvalu'
 author = "Báb"
-tags = ['lang-tvl', '', "Báb", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Báb", "category-unsorted", "cat-MANUMAALO O TE FAKATOKAAGA"]
 +++
 Te Matagofie e io Koe, O te Aliki,Ko Koe Tela ne aumai kae fakafoliga a mea ola katoa, mai I luga I te maalosi o Tau ikuuga.  
   

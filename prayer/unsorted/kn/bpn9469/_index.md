@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9469 in ಕನ್ನಡ'
 author = "Abdu'l-Bahá"
-tags = ['lang-kn', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-kn', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ಮಧ್ಯರಾತ್ರಿ"]
 +++
 *(ಓ ಸತ್ಯಾನ್ವೇಷಕನೇ, ದೇವರು ನಿನ್ನ ಆಧ್ಯಾತ್ಮಿಕ ಕಣ್ಣುಗಳನ್ನು ತೆರೆಸಬೇಕೆಂದು ನೀಣು ಅಪೇಕ್ಷಿಸುವೆಯಾದರೆ ಅವನಲ್ಲಿ ಹಾಗೆ ಯಾಚಿಸು.  ಮಧ್ಯರಾತ್ರಿಯ ಮೇಲೆ ಅವನಲ್ಲಿ ತಲ್ಲೀನನಾಗಿ ಹೀಗೆ ಪ್ರಾರ್ಥಿಸು.)
 

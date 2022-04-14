@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4093 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ticības izplatīšanai - Lūgšanas no Dievišķā Plāna Vēstulēm"]
 +++
 *Ikviena dvēsele, kas dodas mācīšanas ceļā un dzīvo svešās zemēs, var lasīt sekojošo lūgšanu gan dienu, gan nakti:
 

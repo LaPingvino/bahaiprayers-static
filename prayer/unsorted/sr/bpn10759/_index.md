@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10759 in Srpski српски'
 author = "Abdu'l-Bahá"
-tags = ['lang-sr', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sr', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-NOĆ"]
 +++
 *"O Tragaoče za Istinom! Ako želiš da Bog otvori tvoje oko, moraš mu se obratiti, moliti se i savetovati se s Njim u ponoć, izgovarajući:" –
 

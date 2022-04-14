@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12895 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-26 nowych modlitw 'Abdu'l-Bahy"]
 +++
 On jest Bogiem.
 O Ty życzliwy i umiłowany Panie! Ci przyjaciele upojeni są winem Przymierza i są wędrowcami po bezdrożach Twojej miłości. Serca ich ogarnął płomień oddalenia od Ciebie i gorąco pragną oni objawienia Twoich wspaniałości. Ze swego niewidzialnego Królestwa, Krainy niewidzianych, objaw im płomienną chwałę swej łaski i wylej na nich blask swej szczodrości. W każdej chwili zsyłaj nowe błogosławieństwo i objawiaj świeżą przychylność.

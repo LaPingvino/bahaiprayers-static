@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11938 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gorag Dogalary"]
 +++
 Şerif, Belent mertebe we Beýik Taňrynyň ady bilen.
     Päk we Mukaddes Sen, Eý meniň Taňrym! Ýa Ylahym, Ýa Hojam, Ýa Möwlam, Ýa Imanym, Ýa Umydym, Eý Penahym, Eý Çyram!

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10454 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-gil', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Te Tabureti Nakon Ahmad"]
 +++
 #Te Tabureti Nakon Ahmad
 

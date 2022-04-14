@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10918 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MAUTAKITAKI I TE FEAGAIIGA"]
 +++
 A Ia ko te Mafi, ko te Fakamagalo, ko te Atafai!
      O te Atua, toku Atua!  E lavea ne Koe Au tavini ei i loto i te pokooga o te masei mo te mea se; te fea a Tou mainaaga o takotakiiga faka-te-lagi, O ko Koe ko te Manakoga o te lalolagi?  A Koe e iloa llei a te olotou takaseasea mo te vaaivai, te fea a Tou maalosi, O ko Koe i Ou lima e nofo iei a maalosi o te lagi mo te lalolagi?

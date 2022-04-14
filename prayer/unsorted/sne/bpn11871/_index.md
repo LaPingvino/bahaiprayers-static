@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11871 in Bidayuh'
 author = "Bahá'u'lláh"
-tags = ['lang-sne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Doa Ngajar"]
 +++
 Mulia manah Ingan, O Raja dunia duoh Pinyoot negara, O Ingan Nyaa dek ogi tonga daang Adon Maha Agung, luban mutiara-mutiara bijaksana bia pingunang mbok tomus nog sok tiga’ant laut luwas ilmu pangipu’ant Ingan bia longit revelasi ilahi mbok obuah ngabunt pakai towa boton onu dek bitanga rupa Ingan. 
 Oku mitia mujok Ingan, pakai Bang sina noh leh sok bukti Ingan dianggap sempurna diantara pimotan-pimotan bia pinerang bukti Ingan punuae nyukup uunt uluk ulunt Ingan, odak nogap rakyat Ingan daang dek wat noh luban jowin Agama totap bijiliab daang pritah raja Ingan, standard kuasa Ingan totap obuah puluah diantara ulunt-ulunt Ingan, bendera pingotag Ingan totap obuah pa’ad tudu siluruag pritah raja Ingan. 

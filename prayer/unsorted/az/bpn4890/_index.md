@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4890 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ruhani Məhfildə oxunan dualar"]
 +++
 *Məşvərət otağına daxil olan zaman, bu duanı Allah sevgisi ilə döyünən bir ürəklə və Onun zikrindən başqa hər şeydən pak olmuş bir dillə oxuyun ki, Qüvvət Sahibi Sizə ən uca qələbə qazanmaqda kömək etsin.
 

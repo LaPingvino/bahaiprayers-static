@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12125 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-KETEGUHAN DALAM WAADAT"]
 +++
 Ya Engkau kekasih hatiku dan rohku! Aku tidak mempunyai perlindungan kecuali daripada-Mu. Aku tidak bersuara pada waktu fajar kecuali dalam pengingatan dan pujian kepada-Mu. Cinta-Mu menyelubungiku dan Kurnia-Mu adalah sempurna. Harapanku terletak pada-Mu.
 

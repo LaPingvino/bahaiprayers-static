@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10205 in Māori'
 author = "Bahá'u'lláh"
-tags = ['lang-mi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ḤUQÚQU’LLÁH: KO TĒTAHI MŌTIKA NĀ TE ATU"]
 +++
 *Ko Huqúqu’lláh tētahi tino ture. Mā tēnā mā tēnā tēnei tukunga nō te mea he mātāpuna o te tohu aroha, o te tōnui, o te pai katoa, He takoha e noho ai ki ia wairua ora ki ia ao a Te Atua, te Pouwhiwhi- Katoa, te Whairawanui- Katoa. 
 

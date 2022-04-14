@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8883 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-靈理會禱文"]
 +++
 於靈理會會議結束時誦讀此篇禱文。
 

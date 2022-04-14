@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2130 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Apărare şi Protecţie"]
 +++
 Slăvit eşti Tu, o, Doamne Dumnezeul meu! Tu eşti Cel a cărui foc al iubirii a înflăcărat inimile celor ce-au recunoscut unitatea Ta şi splendorile cărui chip au iluminat feţele celor ce s-au apropiat de curtea Ta. Cât de îmbelşugat, o, Stăpânul meu, este şuvoiul cunoaşterii Tale! Cât de dulce este, o, Preaiubitul meu, rana pricinuită de lăncile răufăcătorilor Tăi şi din pricina căruia sufăr numai din iubirea mea pentru Tine şi de dragul bunului Tău plac! Cât de plăcute sunt rănile pe care, pe calea Ta şi pentru a proclama Credinţa Ta, le sufăr din partea săbiilor necredincioşilor!
 

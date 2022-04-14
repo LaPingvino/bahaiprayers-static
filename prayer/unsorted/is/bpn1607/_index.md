@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1607 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Andleg lausn"]
 +++
 Ég veit ekki, ó Guð minn, hver sá eldur er sem Þú kveiktir í landi Þínu. Jörðin fær aldrei myrkvað ljóma hans né vatnið slökkt loga hans. Öllum þjóðum heims er um megn að standa í gegn krafti hans. Mikil er blessun þess sem hefur laðast að honum og heyrt gný hans.
 Sumum gerðir Þú kleift, ó Guð minn, með styrkj­andi náð Þinni að nálgast hann, en öðrum aftraðir Þú vegna þess sem hendur þeirra hafa gert á dögum Þínum. Hver sá er hefur hraðað sér áleiðis og náð til hans, hefur í löngun sinni að líta fegurð Þína lagt líf sitt í sölurnar á vegi Þínum, og stigið upp til Þín í fullkominni lausn frá öllu nema Þér sjálfum.

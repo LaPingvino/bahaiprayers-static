@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13370 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Fast"]
 +++
 O Arglwydd! Gwna i’r ifanc hwn lewyrchu a  thywallt gyfoeth Dy haelioni arno, greadur  tlawd. Bendithia ef â gwybodaeth, dyro iddo  nerth ychwanegol ar ddechrau pob dydd a  gwarchod ef yng nghysgod Dy amddiffyn  fel y caiff ei ryddhau o gamgymeriadau, gan  ymdaflu i wasanaeth Dy Achos Di. Bydded  iddo ddod yn ganllaw i’r rhai sy’n crwydro,  i arwain y rhai di-gyfeiriad, i ryddhau’r rhai  sy’n gaeth ac i ddeffro’r rhai di-hidio, fel y  cant i gyd eu bendithio yn Dy gofio a Dy glod.
 

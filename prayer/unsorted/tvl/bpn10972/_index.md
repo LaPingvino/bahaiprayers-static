@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10972 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Huqúqu’lláh: Ko te Saolotooga o te Atua"]
 +++
 A te Huqúqu’lláh (Te Saolotoga o te Atua) se tulafono.  E manakogina ko tino katoa ke ave se tusaga, auaa me ko te kamataga o te alofa, te uke, mo te lei katoatoa.  Se fakamanuiaaga te la ka maua ne so se agaaga ola i lalolagi katoa o lalolagi o te Atua, te Maumea-Katoatoa, te Maukoloa-Lauefa Katoatoa. - Bahá’u’lláh
 

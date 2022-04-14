@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2137 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Calităţi Spirituale"]
 +++
 Din şuvoaiele înmiresmate ale veşniciei Tale lasă-mă să beau, o, Dumnezeul meu, şi din roadele pomului fiinţei Tale îngăduie-mi să gust, o, Tu, Speranţa mea! Din izvoarele cristaline ale iubirii Tale lasă-mă să sorb, o, Slava mea şi la umbra providenţei Tale nepieritoare lasă-mă să stau, o, Lumina mea!
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8059 in Dansk'
 author = "Báb"
-tags = ['lang-da', '', "Báb", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Báb", "category-unsorted", "cat-Frigjorthed"]
 +++
 O Herre! Hos Dig søger jeg tilflugt og mod alle Dine tegn retter jeg mit hjerte.
 

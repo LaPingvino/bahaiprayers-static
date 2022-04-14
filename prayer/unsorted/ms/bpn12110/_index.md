@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12110 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-KESATUAN"]
 +++
 Ya Tuhanku! Ya Tuhanku! Sesungguhnya, aku memohon kepada-Mu dan merayu di hadapan ambang-Mu, meminta daripada-Mu agar semua belas kasihan-Mu dapat diturunkan ke atas jiwa-jiwa ini. Berikan mereka keistimewaan kurnia-Mu dan kebenaran-Mu.
 

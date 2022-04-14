@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10533 in Kalaallisut'
 author = "Báb"
-tags = ['lang-kl', '', "Báb", "unsorted"]
+tags = ['lang-kl', 'prayer-', "author-Báb", "category-unsorted", "cat-Sernissortinneq"]
 +++
 Guutip Aqqani, ataqqinartorsuup ajugaqanngitsup Naalagaa, Tamanik Ajugaaffiginnittoq. 
 Naalagaq illernarsisitaali, Assaani ippoq naalagaaffimmut aallaavik. Sumilluunniit piumasaminik pinngortitsisarpoq oqaatsimigut inatsisukkut: "Pilerit", piulersarporlu. Taassumani ippoq qanga oqartussaaneq, kingornalu Taassumaniittuassaaq. Kina nammineq kissaatigisani ajugaasunngortittarpaa inatsimmi nakuussusiagut. Ilumoortumimmi tassaavoq Pissaaneqarluartoq, tamanik Ajugaqanngitsoq. Nersugaaneq ataqqinassuserlu Saqqummersitap Pinngortitallu naalagaaffianiittut Taassuma pigai, suullu tamaasa taakkua akorniniittut. Ilumoortumik, Taanna nakuunerpaavoq, tamanit Illernarnerpaaq. Piffissap isoqanngitsuanit Taanna tassaavoq nukiup ajugaaffigineq ajornartup aallaavia, taamalu ittuassaaq isoqanngitsumut. Taanna ilumut pissaanerup nakuussutsillu Naalagaraat. 

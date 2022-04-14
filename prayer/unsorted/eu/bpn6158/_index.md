@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6158 in Euskara'
 author = "Bahá'u'lláh"
-tags = ['lang-eu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-eu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Barkamena"]
 +++
 Aintzaldua zara Zu, Jainko neure Jauna!
 Zure izena aipatzera ausartzen anizen bakoitzean, neure bekatu aztunek eta Zurekiko hutsegite larriek galerazi egiten didate; eta Zure adeiaren ezean aurkitzen naiz eta Zu goresteko ezintasun gorrian. Baina, Zure opakortasunean dudan uste osoak, Zugan dudan itxaropena biztu egiten du, eta eskuzabaltasunez hartuko nauzuna jakinez, adore hartzen dut Zu goraltzeko eta dituzun gauzak eskatzeko.

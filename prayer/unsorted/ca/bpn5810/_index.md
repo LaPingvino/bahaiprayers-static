@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5810 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Difunts"]
 +++
 Oh Senyor, la misericòrdia del Qual ha envoltat a tots, la indulgència del Qual és transcendent, la munificència del Qual és sublim, el perdó i generositat del Qual ho abracen tot, i de la indulgència del Qual es difonen les llums per tot el món! Oh Senyor de glòria! Et prego, amb fervor i llàgrimes, que la Teva serva que ha ascendit fins a Tu li brindis l’esguard de l’ull de la Teva misericòrdia. Vesteix-la amb el mantell de la Teva gràcia, que brilla amb les gales del Paradís celestial, i protegint-la sota l’arbre de la Teva unicitat il·lumina el seu rostre amb la llum de la Teva misericòrdia i compassió. Confereix, oh Déu meu, a la Teva serva celestial les santes fragàncies procedents de l’esperit de la Teva indulgència. Fes-la habitar en una venturosa estança, guareix els seus pesars amb el bàlsam de la reunió amb Tu i conforme a la Teva voluntat, admet-la al Teu sant Paradís. Fes que descendeixin sobre ella, en successió els àngels de la Teva bondat, i aixopluga-la sota el Teu arbre beneït. Tu ets, veritablement, Qui sempre perdona, el més Generós, el Tot Munífic.
 

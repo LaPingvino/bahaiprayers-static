@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11229 in Kiswahili'
 author = "Abdu'l-Bahá"
-tags = ['lang-sw', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sw', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-BAADHI YA SALA NYINGINE"]
 +++
 Ee Mungu, changamsha na uifurahishe roho yangu.  Takasa moyo wangu.  Ng’arisha fikira zangu. Naacha shughuli zangu zote mikononi Mwako.   Wewe U kiongozi na kimbilio langu..  Sitakuwa na majuto wala kuhuzunika tena, nitafurahi na kuchangamka.  Ee Mungu!  Sitajawa na mashaka tena, wala sitaacha taabu zinisumbue tena.  Sitaishi kwa vitu visivyofaa maishani. 
 

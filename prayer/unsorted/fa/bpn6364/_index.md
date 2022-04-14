@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6364 in فارسی'
 author = "Bahá'u'lláh"
-tags = ['lang-fa', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fa', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-قَد نُزِّلَ فی اَیّامِ الهاءِ"]
 +++
 قولُهُ تعَالی:
 بِسمِیَ الاَعظَمِ

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2105 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Adunări Spirituale"]
 +++
 *Veniţi împreună cu bucurie neumbrit şi la începutul întâlnirii rostiţi această rugăciune:
 

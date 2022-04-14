@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13046 in Kube'
 author = "Abdu'l-Bahá"
-tags = ['lang-kgf', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-kgf', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Siŋi Horuwia Wac Ac Mosoc"]
 +++
 *Ic mêŋŋê ac hêla hocmac.  imuac kewu nêŋ uŋa kicga aumac zêma gi kewu selia nec qesi mima niŋ selima hêmbipia iguc tacma qesi mina:
 

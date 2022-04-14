@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6990 in Fiji'
 author = "Bahá'u'lláh"
-tags = ['lang-fj', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fj', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-NA LOLO"]
 +++
 Mo ni sa vakalagilagi ga O i Kemuni Turaga na noqu Kalou! Au masuti Kemuni e na vuku ni Vakatakilakila ka vukica na butobuto me rarama, o koya e vakavuna me tara kina na Vale ni Soro Dau sikovi, ka vakavotukanataki kina na Masu Vakarautaki, ka cereki mai kina na iVola Vivigi, me sovaraki mai vei au, kei ira era tu vakavolivoliti au me rawa kina ni keimami torovi Kemuni yani e na Nomuni itikotiku tabu mai lomalagi, me savati keimami mai kina e na neimami dau vakatitiqa me vaka e dau vakataotaki ira na so e na nodra curuma yani na Valelaca Tabu ni Nomuni duavata.
 

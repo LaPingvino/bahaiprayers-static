@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4460 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pagtuturo"]
 +++
 Luwalhatiin Ka, O Ikaw na Diyos ng daigdig at Hangarin ng mga bansa, O Ikaw na nahayag sa Pinakadakilang Pangalan, na sa pamamagitan niyon ay nagsilitaw ang mga perlas ng kadunungan at pananalita buhat sa mga kabibi ng malaking dagat ng Iyong kaalaman, at ang mga langit ng banal na rebelasyon ay napalamutihan ng liwanag ng paglitaw ng araw ng Iyong kaanyuan! Isinasamo ko sa Iyo, sa Salitang yaon na sa pamamagitan nito ang Iyong patunay ay ginawang ganap sa piling ng Iyong mga nilalang at ang Iyong pagsasaksi ay natupad sa Iyong mga tagapaglingkod, na palakasin ang Iyong mga tao sa isang paraang ang mukha ng Kapakanan ay magliliwanag sa Iyong nasasakupan at ang mga bandila ng Iyong pamamatnubay ay maitatatag sa kabuuan ng Iyong mga lupain sa Iyong mga tagapaglingkod.
 

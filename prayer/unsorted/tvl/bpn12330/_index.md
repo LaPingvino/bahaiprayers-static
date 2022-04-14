@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12330 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TOFOOGA"]
 +++
 E faka-lauefagia a Tou igoa, O te Aliki toku Atua!  Au e seiloa ne au me se aa te vai te la ne faiite i ei ne Koe au, io me se aa ate afi ne faka ka ne Koe i loto ia au, io me ko te kaupapa te la ne faka-foliga au mai i ei.  A te nofo-setoka o koga tai taki tasi ko oti ne ne fakatoka, kae seai ko te nofo-se-toka o te Vasa tenei te la e gasuke i te manakoga o te matagi o Tou finagalo.  A te ulaaga o afi katoa ko oti ne tamate vagana ko te Ulaaga te la ne faka ka ne Ou lima maalosi, ka ko olotou mainaaga ko oti ne, mai i te maalosi o Tou igoa, o tufa tufa atu ki tua atu ne Koe i mua o latou katoa ko la i Tou lagi mo latou katoa ko la i te lalolagi.  Ko te olo o faka-lavelave o masei kii loa, ko te gasolo o vela kae e toe vela atu a te Ulaaga.  
   

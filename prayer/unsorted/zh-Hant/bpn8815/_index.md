@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8815 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-家庭禱文"]
 +++
 主啊！祢看到我們求助的雙手，伸向祢恩寵與慷慨之天堂。願祢讓它們滿握祢慷慨豐沛的恩寵之寶藏。請寬恕我們及我們的父母，並滿足我們對祢慈惠普施之聖洋的一切渴望。我們心中的摯愛者啊！願我們在祢道路上的一切事工蒙祢悅納。誠然！祢是全能者，至高者，無與倫比者，唯一者，赦免者，寬仁者。
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12777 in ພາສາລາວ'
 author = "Abdu'l-Bahá"
-tags = ['lang-lo', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-lo', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ແດ່ບາຮາຍຜູ້ທີ່ຖືກປະຫັດປະຫານ"]
 +++
 ພຣະອົງຄືພຣະຜູ້ເປັນເຈົ້າ
        ຂ້າແດ່ພຣະຜູ້ເປັນນາຍ ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້າພະອົງ! ພຣະຜູ້ຊົງຊ່ວຍເຫລືອຜູ້ອ່ອນແອ    ພຣະຜູ້ຊົງຊ່ວຍເຫຼຶອຄົນ

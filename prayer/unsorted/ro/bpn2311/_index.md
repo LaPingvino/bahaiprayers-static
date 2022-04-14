@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2311 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Rugăciunea Lungă de Însănătoşire"]
 +++
 ##Rugăciunea lungă de însănătoşire
 El este Tămăduitorul, Cel Ce Ajunge, Ajutorul, Cel Atotiertător, Cel Atotmilostiv.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6199 in Marshallese'
 author = "Báb"
-tags = ['lang-mh', '', "Báb", "unsorted"]
+tags = ['lang-mh', 'prayer-', "author-Báb", "category-unsorted", "cat-ELLOK JEN MEN KO AN MOUR IN"]
 +++
 O Iroij! Ilo Kwe ij bukot kejbarok eo Am, im nan aolepen kokkale ko Am ij aje waj buruo.
 

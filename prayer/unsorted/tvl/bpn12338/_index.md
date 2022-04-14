@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12338 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MANUMAALO O TE FAKATOKAAGA"]
 +++
 Tavaeega maluga e i Tou igoa, O te Aliki toku Atua!  A te pogisa koi i luga i fenua katoa, ako te maalosi o te amio masei ko siomia i fenua katoa.  Mai ia latou, e atafia ne au a mea gali o Tou atamai, kae matea a te maina o te molii o Tou atamai.  
   

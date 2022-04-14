@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5153 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pengampunan"]
 +++
 Dimuliakanlah Engkau, ya Rabi Tuhanku! Setiap kali aku berusaha untuk menyebut Dikau, aku tertahan oleh dosa-dosaku yang besar dan pelanggaran- pelanggaran terhadap-Mu yang menyedihkan, dan menemukan diriku sangat terjauhkan dari rahmat-Mu, dan sama sekali tak berdaya untuk meluhurkan pujian- Mu. Akan tetapi keyakinanku yang besar terhadap rahmat-Mu memberanikan daku untuk memuji Engkau dan meminta dari-Mu apa saja yang Engkau miliki.
 Aku memohon kepada-Mu, ya Tuhanku, demi kurnia-Mu yang telah meliputi seluruh ciptaan, dan melaluinya semua yang diselamkan ke dalam samudera nama-nama-Mu naik saksi, agar jangan membiarkan daku pada diriku sendiri karena hatiku cenderung terhadap kejahatan. Maka jagalah daku dalam benteng perlindungan-Mu dan naungan pemeliharaan-Mu. Aku adalah dia, ya Tuhanku, yang hasrat satu-satunya adalah apa yang telah Engkau tentukan oleh kekuatan kekuasaan-Mu. Aku hanya memilih untuk diriku sendiri agar dibantu oleh petunjuk-petunjuk-Mu yang rahman dan ditolong oleh tanda-tanda keputusan dan pertimbangan-Mu.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5217 in Bosanski'
 author = "Bahá'u'lláh"
-tags = ['lang-bs', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Kratka Obavezna Molitva"]
 +++
 ##Kratka Obavezna Molitva 
 

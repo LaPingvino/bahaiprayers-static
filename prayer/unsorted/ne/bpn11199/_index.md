@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11199 in नेपाली'
 author = "Bahá'u'lláh"
-tags = ['lang-ne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-दर्शनको धर्मपत्र"]
 +++
 यो प्रार्थनालाई बहाउल्लाह र बाबको समाधिस्थलमा पाठ गर्नूपर्छ । तिनका जन्म र स्वर्गारोहण जयन्तीहरूमा पनि यसको पाठ गरिन्छ । 
 

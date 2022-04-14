@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6487 in 한국어'
 author = "Báb"
-tags = ['lang-ko', '', "Báb", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Báb", "category-unsorted", "cat-가족"]
 +++
 저희들의 죄를,저와 저의 부모를 용서,주님의 사랑의 거처로 들어온 이들을 모두 용서
 

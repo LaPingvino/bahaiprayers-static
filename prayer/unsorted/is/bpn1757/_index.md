@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1757 in Íslenska'
 author = "Báb"
-tags = ['lang-is', '', "Báb", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Báb", "category-unsorted", "cat-Vernd"]
 +++
 Ákvarða mér, ó Drottinn minn, og þeim sem á Þig trúa það sem er okkur fyrir bestu að Þínu mati, eins og mælt er fyrir um í móðurbókinni, því í hendi Þinni hefur Þú ákvarðaðan mæli alls sem er.
 Góðar gjafir Þínar streyma án afláts yfir þá sem elska Þig og þeir sem bera kennsl á guðdómlega einingu Þína fá ríkulegan skerf af undursamlegum táknum himneskrar hylli Þinnar. Við felum í Þína forsjá allt sem Þú hefur ákvarðað okkur og biðjum Þig að gefa okkur allt hið góða sem þekking Þín umlykur.

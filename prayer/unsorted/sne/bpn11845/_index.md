@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11845 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Ngudung/Bitapod/Bigupul"]
 +++
 O Ingan Topa dek pirasie! O Ingan Nyaa dek doras duoh dek bikuasa! O Ingan Samak dek paling tulut! Dimutik ulunt-ulunt dek mbok samah-samah bigupul, tikos tudu Ingan, mujok-bito’os pinutuab Ingan, so’ot pingungin Ingan dek dik-eh potod-podiak nog sok jaminan ayuh Ingan. Bala tih mbok doie niat dibokon jok-eh ngin khidmat tudu dunia manusia.
 O Topa! Nai odak uluk kubunt tih bidonab. Nai odak otin samah bait. Pisoh pingungin dek sok Roh Kudus. Bikanyad bala tih pakai kuasa sok surga. Nai odak kudus bala tih pakai pimikir dek kodae surga. Nyongah keikhlasan bala tih sak supaya pakai segala sifat dek dik-eh sambuh bia pinesal pod-pod bala tih tikos tudu pritah Ingan bia alit bidu duwoh khidmat tudu dunia manusia. Sak kadu setiap polonk jadin diyant dek toban jawak. Sak kadu setiap polonk jadin bitang dek sukup ponai. Sak kadu setiap polonk jadin sangon daang warna bia harum wangi daang pritah Topa.

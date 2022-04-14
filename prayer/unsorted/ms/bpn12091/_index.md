@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12091 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-KEDEKATAN KEPADA TUHAN"]
 +++
 Dia adalah Belas Kasihan, Yang Maha Rahim! Ya Tuhan, Tuhanku! Engkau melihatku, Engkau mengenalku; Engkaulah Pelindung dan Penaungku. Tiada yang telahku cari mahupun akan daku mencari selain Engkau; tiada jalan yang telahku jejaki mahupun akan daku menjejaki selain jalan cinta-Mu. Dalam kegelapan malam yang penuh putus asa, mataku menunggu-nunggu dan berpaling dengan penuh harapan kepada pagi rahmat-Mu yang tak terhingga dan pada waktu fajar rohku yang lemah telah disegarkan dan diperkuatkan melalui pengingatan kepada keindahan dan kesempurnaan-Mu. Dia yang dibantu oleh kurnia belas kasihan-Mu, walaupun dia hanyalah setitis, akan menjadi samudera yang tak terbatas, dan atom yang paling kecil jika dibantu oleh kasih sayang-Mu, akan bersinar bagaikan bintang yang cemerlang.
 

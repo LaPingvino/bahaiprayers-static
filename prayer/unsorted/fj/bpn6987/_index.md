@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6987 in Fiji'
 author = "Abdu'l-Bahá"
-tags = ['lang-fj', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fj', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MASU NI VEISIKO VAKAYALO"]
 +++
 *(Na masu oqo, e vakaraitaki mai vei `Abdu’l-Bahá, ka vakayagataki e na Nona iBulubulu Tabu. E rawa tale ga ni cavuta e dua e na nona masu vakai koya ga, e vale.)
 

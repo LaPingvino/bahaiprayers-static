@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12982 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-YOUTH"]
 +++
 *PRAYER FOR YOUTH (FEAST OF ASMA, 20 AUGUST 2000) 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6068 in Namibia'
 author = "Abdu'l-Bahá"
-tags = ['lang-hz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Otjiherero: OZONGUMBIRO TJIVA ZAPEKE"]
 +++
 Muhona! Kwete ondjenda tjinene, tupao owiingona wOye, owete ovasyona, nungwari tupao orutumbo ro momeva kokuvare, owete ovasyona, nungwari tupayo ovina mbi twahepa, twahepa oujere nu tupayo ondjerera.
 

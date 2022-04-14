@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12275 in Tuvalu'
 author = "Báb"
-tags = ['lang-tvl', '', "Báb", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Báb", "category-unsorted", "cat-TAVINI MO TE MAE"]
 +++
 Te matagofie e ia Koe, O te Aliki!  E uiloa a Koe e mafai o fai se tino ke mativa mai i mea katoa faka-te-lalolagi, mai i te kamataga o tena ola ke oko ki taimi ko fanatu ia ki luga ia Koe, e mafai a ia o tuku ifo ki lalo i te mativa mai i luga i te faka-galueega o Tau tonu, kae e uiloa mo fai ke aumai ne Koe mai ki mua i te Lakau Ola o Tou alofa, a te manuia tena e lei fakafia atu i mea katoa ko oti ne faite ne Koe ite lagi mote lalolagi mo so se mea e nofo i te vasia o laua; pe la loa mo ia ka maua ne ia a te fale faka-te-lagi, mai i luga i fakaasiiga o Au mea-alofa, kae ka kau atu a ia i mea-alofa lei ko oti ne fakatoka ne Koe, auaa i mea ko la ia Koe e see mafai o oti.  Mea nei e tonu se faka-manuiaaga te la ona ko Tau Ikuuga faka-fiafia lei ko oti ne tuku ifo mo latou e sasaale ite auala o Tou alofa.  
 E pefea ate tokouke o agaaga i taimi mua ne mate mo Koe, kae nei ko miita a tagata katoa mo latou; kae e pefea foki a te tokouke o latou ko la ne fai ne Koe ke maumea i mea o te lalolagi, ko la ne seki maua ne latou o maua a Tau Meatonu, kae i aso nei ko oti ne galo atu ki te efuefu.  Mea nei se polopoloakiiga mafa kii kae se faka-salaaga fakamataku foki.  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10843 in Chichewa'
 author = "Bahá'u'lláh"
-tags = ['lang-ny', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ny', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PEMPHERO LOCHEZERANA"]
 +++
 *(Mapemphero ili limawerengedwa pa Manda a Bahá’u’lláh ndi Báb. Limagwiritsidwanso ntchito pokumbukira kubadwa kwa Bahá’u’lláh ndi Báb komanso kukumbukira kuwera kumwamba kwa Bahá’u’lláh ndi kuphedwa kwa Báb) 
 

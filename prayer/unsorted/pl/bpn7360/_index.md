@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7360 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Próby i trudności"]
 +++
 Rozwiej mój smutek Twoją szczodrością i hojnością, o Boże, mój Boże, i oddal moją boleść Twoją władzą i potęgą. Ty widzisz mnie, o mój Boże, z twarzą zwróconą ku Tobie w chwili, gdy zmartwienia okrążyły mnie ze wszech stron. O Ty, który jesteś Panem całego stworzenia i przewyższasz wszystkie rzeczy widzialne i niewidzialne, błagam Cię na Twoje Imię, którym zdobyłeś serca i dusze ludzi, na fale Oceanu Twojego miłosierdzia i na wspaniałość Świtu Twojej szczodrości, abyś zaliczył mnie do tych, których nic nie powstrzymało od zwrócenia twarzy w Twoją stronę, o Ty, Panie wszelkich imion i Stwórco niebios!
    

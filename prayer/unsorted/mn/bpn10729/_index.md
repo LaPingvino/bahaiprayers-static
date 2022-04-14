@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10729 in Монгол хэл'
 author = "Bahá'u'lláh"
-tags = ['lang-mn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-BAHAULLAHГИЙН ЭРГЭЛТИЙН ИЛГЭЭЛТ"]
 +++
 *Энэхүү Илгээлт бичгийг Bahaullah, Баб нарын Бунханд унших бөгөөд Тэдний ойг тэмдэглэхэд бас  уншина. 
 

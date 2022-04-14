@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12179 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-SUAMI"]
 +++
 Ya Tuhan, Tuhanku! Dayang-Mu ini sedang memanggil-Mu, percaya kepada-Mu, menghadapkan wajahnya kepada-Mu, memohon kepada-Mu agar mencurahkan kepadanya  pemberian syurgawi-Mu, dan membuka kepadanya rahsia-rahsia rohani-Mu, serta memancarkan kepadanya cahaya Keilahian-Mu.
 

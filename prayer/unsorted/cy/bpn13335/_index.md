@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13335 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Evening"]
 +++
 O fy Arglwydd, rwyf wedi ymddiried
 fy ysbryd a'm holl fodolaeth i ddeheulaw Dy nerth a Dy amddiffyn,

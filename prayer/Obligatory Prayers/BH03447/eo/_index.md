@@ -1,7 +1,7 @@
 +++
 title = 'Medium Obligatory Prayer in Esperanto'
 author = "Bahá'u'lláh"
-tags = ['lang-eo', '', "Bahá'u'lláh", "Obligatory Prayers"]
+tags = ['lang-eo', 'prayer-BH03447', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-La Mezlonga Deviga Preĝo"]
 +++
 ##La mezlonga deviga preĝo
 *(Citenda kaj matene, kaj tagmeze kaj vespere. “Matene”, “tagmeze” kaj “vespere”, menciitaj je la Devigaj Preĝoj, signifas respektive la intervalojn inter sunleviĝo kaj tagmezo, inter tagmezo kaj sunsubiro, kaj de sunsubiro ĝis du horojn poste.)

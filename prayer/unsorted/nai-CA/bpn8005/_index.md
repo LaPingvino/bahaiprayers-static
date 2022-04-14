@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8005 in Canadian Indigenous'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-CA', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nai-CA', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Hul’qumi'num"]
 +++
 Xe Xe Tsitsulth siem xe xe uy un st’i’wi’ulth
 Nilth nuw ‘uy’ nu slhexun. 

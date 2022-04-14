@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5797 in Català'
 author = "Bahá'u'lláh"
-tags = ['lang-ca', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Despreniment"]
 +++
 No se, oh Déu meu, quin foc és el que encengueres en el teu domini. La terra no podrà ennuvolar el resplendor ni l’aigua apagar la seva flama. Tots els pobles del món són impotents per a resistir la seva força. Granés la benedicció de qui s’ha acostat a ell i ha escoltat la seva fragor.
 

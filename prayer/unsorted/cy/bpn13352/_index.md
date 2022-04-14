@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13352 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Healing"]
 +++
 Dy Enw yw fy iachâd, O fy Nuw, a choffadwriaeth amdanat yw fy meddyginiaeth.  Agosrwydd atat yw fy ngobaith, a chariad atat yw fy nghydymaith.  Dy drugaredd tuag ataf fi yw iachâd a'm cymorth yn y byd hwn a'r byd i ddod.  Tydi, yn wir, wyt yr Holl Haelionus, yr Holl Wybodol, yr Holl-Ddoeth.
 

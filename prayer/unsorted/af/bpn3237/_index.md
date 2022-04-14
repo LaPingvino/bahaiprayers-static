@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3237 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Geestelike Raad"]
 +++
 *Wanneer julle ook al die raadskamer binnetree, sê hierdie gebed met 'n hart wat klop met liefde vir God en met 'n tong gelouter van alles behalwe aandenking aan Hom, sodat die Almagtige julle genadiglik mag help om die uiterste oorwinning te behaal:
 

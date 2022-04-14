@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2689 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Lelki növekedés"]
 +++
 Ó, Isten, én Istenem! Te vagy Reménységem és Szerettem, legmagasabb Célom és Vágyam! Nagy alázattal és teljes odaadással imádkozom Hozzád, tégy engem szereteted minaretjévé országodban, tudásod lámpásává teremtményeid között, és az isteni bőkezűség lobogójává királyságodban.
 

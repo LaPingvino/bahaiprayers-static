@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11702 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Salla Farilla Madaidaiciya"]
 +++
 *Idan an zāɓi yin wannan salla, a bāyan an yi arwalla, sai a jā wannan āyā da sāfe, da rāna, kuma da dare kōwace rāna.
 *Ana tsaye, a jūya fuska wajen ƙibla, a cē :

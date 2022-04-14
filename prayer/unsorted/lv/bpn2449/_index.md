@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2449 in Latviešu'
 author = "Bahá'u'lláh"
-tags = ['lang-lv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gavēnis"]
 +++
 Šīs, ak mans Dievs, ir tās dienas, kurās Tu Saviem kalpiem esi licis ievērot gavēni. Ar to Tu rotāji Savas Likumu Grāmatas ievadu, ko Tu atklāji Savai radībai, un greznoji Savu baušļu krājumus, lai tos skata visi, kas ir Tavās debesīs, un visi, kas ir uz Tavas zemes. Katrai stundai šajās dienās Tu esi piešķīris īpašu spēku, kas bez Tevis nav izzināms nevienam, jo Tava zināšana ietver visu, kas ir radīts. Tāpat Tu katrai dvēselei esi piešķīris daļiņu no šī spēka saskaņā ar Sava likuma Vēstuli un Sava neatsaucamā sprieduma Rakstiem. Vēl jo vairāk, ikvienu šo Grāmatu un Rakstu lapu Tu esi veltījis ikvienai no zemes tautām un ciltīm.
 Tevi kvēli mīlošajiem pēc Sava lēmuma Tu esi veltījis kausu Tevis pieminēšanas ausmas stundā, ak Valdnieku Valdniek! Šie ir ļaudis, kas, Tavas gudrības daudzveidības vīna reibināti, pamet savas dusas vietas, ilgodamies daudzināt Tavu slavu un cildināt Tavus tikumus, un bēg miega, traukdamies iemantot Tavu tuvumu un baudīt no Tava dāsnuma. Viņu acis ir vienmēr vērušās Tavas mīlošās laipnības Avotā, un viņu vaigs ir bijis vērsts uz Tavas iedvesmas Pirmavotu. No Savas žēlastības debesīm liec līt dāvanām pār viņiem, kas ir Tava dāsnuma un labestības debesu cienīgas.

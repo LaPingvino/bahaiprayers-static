@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH09024 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "Detachment"]
+tags = ['lang-af', 'prayer-BH09024', "author-Bahá'u'lláh", "category-Detachment", "cat-Afsnyding"]
 +++
 Menige verkoelde hart, o my God, is met die vuur van U Saak aan die brand gesteek, en menige sluimeraar is deur die soetheid van U stem wakker gemaak. Hoeveel is die vreemdelinge wat skuilplek in die skaduwee van die boom van U eenheid nie gesoek het nie, en hoe talryk die dorstiges wat na die fontein van U lewende waters in U dae nie gehunker het nie!
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11759 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Allon Wuta Mai Ƙōnāwa"]
 +++
 Da sūnan Allah, madawwami, mafi girma. A gaskiya, zūkācen aminnai nā tōyēwa cikin wutar rabuwa: Inā ƙyalƙyalin hasken fuskarka, yā kai abun ƙaunar dūniyōyi?
 Waɗanda suke kusanka, gā su cikin duhun rūdāni: Inā ƙyalƙyalin sāfiyar haɗuwa da kai, yā kai abun bēgen dūniyōyi?

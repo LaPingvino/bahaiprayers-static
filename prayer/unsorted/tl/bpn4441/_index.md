@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4441 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pagkawalay"]
 +++
 Maraming malamig na puso, O aking Diyos, ang pinapagningas ng apoy ng Iyong Kapakanan, at maraming nangatutulog ang ginising ng katamisan ng Iyong tinig. Gaano karami ang di-kilala na nakatagpo ng kanlungan sa lilim ng anino ng punong-kahoy ng Iyong kaisahan, at gaano karami ang humihingal para sa bukal ng Iyong buhay na mga tubig sa Iyong mga araw!
 

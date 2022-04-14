@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3207 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Toetse en Moeilikhede"]
 +++
 Verdryf my leed deur U mildheid en U vrygewigheid, o God, my God, en verban my angs deur U soewereiniteit en U mag. U sien my, o my God, met my gesig na U toe ingestel op 'n tyd wanneer droefhede my op elke kant omring. Ek smeek U, o U Wat die Here van alle bestaan is, en alle sigbare en onsigbare dinge oorskadu, by U Naam waardeur U die harte en die siele van die mense onderwerp het, en by die golwe van die Oseaan van U goedertierenheid, en die luister van die Son van U mildheid, om my saam te tel met diegene wat hoegenaamd niks gehinder het om hulle aangesigte na U toe te rig nie, o U die Here van alle name en die Maker van die hemele!
 

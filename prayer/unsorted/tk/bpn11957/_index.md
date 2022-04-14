@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11957 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Iman We Tanyklyk Dilemek"]
 +++
 Hu’Alla.
     Eý Mähriban Ýar, Eý Mukaddes Hudaý! Tükeniksiz Jomartlygyňdan bize ynam we iman bagyş eýlediň. Tanyklyk gapylaryny açdyň. Janymyz buşluk tapdy, köňlümiz şat boldy. Gözümiz açyldy, gulagymyz açyldy. Ylham ýalkymlary görüldi, Mukaddes Älemiň mukamlary eşidildi.

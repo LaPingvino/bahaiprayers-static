@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6094 in Sranan Tongo'
 author = "Bahá'u'lláh"
-tags = ['lang-srn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-srn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Algemene Gebeden"]
 +++
 ##BEGI FU TAI A WAN 
 Ke mi Gadu! Ke mi Gadu! Tai dee hati fu dee dinaii Fii a wan nöö jabi de wojo mbei de si di gaan woko Fii. Mbei de du kuma fa Ju taki nöö mbei de hoi dee wëti Fii. Heepi de, ke Gadu, a dee möiti dee de ta mbei; Da de kaakiti fu de sa ta dini Ju. Ke Gadu, na disa de de wawan ma tii de a de waka ku di limbo faja fu Ju köni, nöö piizii de hati ku Ju lobi. Fu tuu, Ju da de Heepima; Ju da de Masa. 

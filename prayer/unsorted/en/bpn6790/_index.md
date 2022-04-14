@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6790 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Unity"]
 +++
 Glory be to Thee, O God, for Thy manifestation of love to mankind!  O Thou Who art our Life and Light, guide Thy servants in Thy way, and make us rich in Thee and free from all save Thee.  
 

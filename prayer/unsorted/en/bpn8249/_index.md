@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8249 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ridván"]
 +++
 #Lawh-i-‘Áshiq va Ma‘shúq
 ##Tablet of the Lover and the Beloved

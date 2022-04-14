@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2638 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Hosszú gyúgyító ima"]
 +++
 Ő a Gyógyító, a Megelégítő, a Segítő, a Mindenek Felett Megbocsátó, a Mindenek Felett Irgalmas!
 

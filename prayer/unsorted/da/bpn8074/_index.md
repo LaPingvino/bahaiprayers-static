@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8074 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lovprisning Og Taknemmelighed"]
 +++
 Al lovprisning, o min Gud, være Dig til del, der er kilden til al herlighed og majestæt, til storhed og ære, til herredømme og magt, til højhed og nåde, til ærefrygt og styrke. Hvem Du end vil, får Du til at drage nær til det allerstørste hav, og til hvem Du end ønsker, skænker Du æren at erkende Dit ældgamle navn. Blandt alle, der er i himlen og på jorden, kan ingen modstå Din suveræne viljes virke. Fra al evighed styrede Du hele skabelsen, og Du vil for evigt vedblive med at udøve Dit herredømme over alt skabt. Der er ingen anden Gud end Dig, Den Almægtige, Den Mest Ophøjede, Den Altbeherskende, Den Alvise.
 

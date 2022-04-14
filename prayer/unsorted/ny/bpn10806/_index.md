@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10806 in Chichewa'
 author = "Bahá'u'lláh"
-tags = ['lang-ny', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ny', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-KUSALA KUDYA"]
 +++
 Mayamiko akhale kwa Inu, O Ambuye Mulungu wanga! Ndikupemphani Inu mwa Chibvumbulutso chomwechi chimene chasandutsa mdima kukhala kuwala, kubzolera muchomwechi Kachisi Wanu wobwerezedwabwerezedwa wamangidwa, ndipo Uthenga Wolembedwa waululidwa, ndi Kalata Yolalikidwa yamasulidwa kunditumizira ine ndi iwo amene ali ndi ine chimene chingatithandize kuuluka kunka kumwamba kwa ulemelero Wanu wopambana, ndikutitsuka ife litsilo la kusakhulupilira lomwe lalepheretsa okaika kulowa mu Kachisi wa umodzi Wanu. 
 

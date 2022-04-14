@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3250 in العربية'
 author = "Bahá'u'lláh"
-tags = ['lang-ar', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ar', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-الثناء والامتنان"]
 +++
 * (لِكُلِّ واحِدٍ أَنْ يَقُولَ مُقْبِلاً إِلى كَعْبَةِ اللهِ)
 # سُبْحانَكَ اللَّهُمَّ يا إِلهي

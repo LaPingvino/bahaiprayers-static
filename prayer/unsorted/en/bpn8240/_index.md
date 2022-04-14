@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8240 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ridván"]
 +++
 The day-star of words, dawning above the horizon of the utterance of Him Who is the Lord of all names and attributes, hath, at this most blessed of hours, shone forth in all truth with the splendours of the light of God. The spirit of understanding, flowing from the Pen of the All-Glorious, hath, by virtue of His grace, been conferred upon all created things. The mystery of all mysteries, emerging from behind the veils of concealment, hath, in very truth, been revealed to the righteous, as bidden by God, the Almighty, the Unconstrained.
 God, the Most Powerful, the Most Exalted, the Most Great, addresseth the holy Beings created through the Primal Word that proceeded from His mouth, and beyond them the Concourse on high, and beyond them those whom He hath sanctified above the comprehension of all who are on earth and in heaven and whom He hath raised up through His hidden and inscrutable Will, saying: “Rejoice in your very souls, for the most auspicious time hath come; and the Hour hath struck round which revolve all the other hours foretold in the Tablets of God, the Almighty, the All-Glorious, the Most Merciful; and the hidden Morn hath broken forth, in this treasured Name, from the dayspring of divinity, shedding its radiance upon all that hath been and all that shall be.” Blessed be the Lord of all bounty, the source of this supernal grace!

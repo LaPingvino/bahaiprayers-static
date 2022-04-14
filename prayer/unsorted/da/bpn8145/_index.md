@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8145 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Kort Obligatorisk Bøn"]
 +++
 ##Kort Obligatorisk Bøn 
 

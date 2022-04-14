@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9110 in ភាសាខ្មែរ'
 author = "Bahá'u'lláh"
-tags = ['lang-km', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-km', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Short Obligatory Prayer"]
 +++
 *ធម’អធិដ្ឋានប្រចាំថ្ងៃ 
 

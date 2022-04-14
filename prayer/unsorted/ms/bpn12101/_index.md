@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12101 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-KERIANGAN"]
 +++
 ”Gembiralah orang yang merenungkan dalam kalbunya apa yang telah diwahyukan dalam Kitab-Kitab Tuhan, Penolong dalam Bahaya, Yang Berdiri Sendiri.”
 

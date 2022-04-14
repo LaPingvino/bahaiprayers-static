@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4143 in American Indian'
 author = "Báb"
-tags = ['lang-nai-US', '', "Báb", "unsorted"]
+tags = ['lang-nai-US', 'prayer-', "author-Báb", "category-unsorted", "cat-Mohegan-Pequot"]
 +++
 Qutaháwowi Kuqunôhqusuw, O Manto! Pohqasunan wucina matôpáwôk wuci áyhqapi ta wuták nahakunônuk, wáwápi nuhkunôkunônak, wáwápi nuhkunôkunônak, nutunahk, numiyac, aqu nusitunônash ta wami ôkutak wusash yôcánáyak matôpáwôk. Mohci, Ki kuwacônô wámi nánôwiyuw sôhkáyan micimi.
 

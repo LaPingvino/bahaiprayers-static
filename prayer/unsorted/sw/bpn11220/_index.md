@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11220 in Kiswahili'
 author = "Abdu'l-Bahá"
-tags = ['lang-sw', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sw', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MCHANGO KWENYE AKIBA"]
 +++
 *Marafiki wote wa Mungu . . . lazima wachangie kwa uwezo wao wote, hata mchango wao uwe mdogo kiasi gani.  Mungu haitwishi mzigo roho kupita uwezo wake.  Michango kama hiyo ni lazima itoke kwa vituo vyote na waamini.  Enyi marafiki wa Mungu!  Muwe na hakika kwamba badala ya michango hii, kilimo chenu, viwanda vyenu, na biashara zenu vitabarikiwa kwa nyongeza nyingi, kwa thawabu nzuri na Baraka.  Yule ajaye na kitendo kimoja kizuri, atapata thawabu mara kumi.  Hakuna shaka kwamba Bwana Aliye hai Atawathibitisha kwa wingi wale wanaotumia mali yao katika njia Yake. 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11958 in Türkmençe'
 author = "Báb"
-tags = ['lang-tk', '', "Báb", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Báb", "category-unsorted", "cat-Kömek Soramak"]
 +++
 Sensiň Alla we Senden başga Alla ýokdur.
     Ýa Ylahym! Päk we Mukaddes Sen eý meniň Taňrym! Dogrudanam bu jahanda iň Başarjaň Sensiň. Sen barlyklaryň Kadyrysyň hem halk älemi, doly Seniň erkiňdedir. Sen isläniňi ýaradýansyň. Senden başga Hekim we Eziz bolan Alla ýokdyr.

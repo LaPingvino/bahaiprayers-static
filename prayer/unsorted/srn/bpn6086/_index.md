@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6086 in Sranan Tongo'
 author = "Bahá'u'lláh"
-tags = ['lang-srn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-srn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ochtend"]
 +++
 ##MAMANTEN 
 Mi wiki di mamanten tangi fu Yu bresi, o mi Gado, èn libi mi oso nanga fertrouw soso na tapu Yu en poti mi srefi ini Yu sorgu. Seni kon dan na mi tapu, 

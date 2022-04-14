@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13339 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Travelling"]
 +++
 O Dduw! O Dduw! Rwyf wedi cychwyn o'm cartref, yn gafael yn dynn yn llinyn Dy gariad,ac rwyf wedi cyflwyno fy hun yn llwyr i Dy ofal a'th amddiffyn...
 Galluoga fi, felly, i ddychwelyd adref trwy Dy rym a'th nerth.

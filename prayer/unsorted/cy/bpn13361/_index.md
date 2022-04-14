@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13361 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Unity"]
 +++
 Bydded i Dduw ganiatau i olau undod amgylchynu'r holl ddaear, a'r sêl 'Eiddo Duw yw y Deyrnas' ei osod ar dalcen ei holl bobloedd.
 

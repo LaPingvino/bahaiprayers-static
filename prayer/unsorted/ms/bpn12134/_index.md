@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12134 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MENGAJAR"]
 +++
 Ya Engkau Tuhan Yang Tiada Bandingan! Ya Engkau Tuhan Kerajaan! Jiwa-jiwa ini adalah angkatan tentera syurgawi-Mu. Bantulah mereka, dan dengan sekumpulan Angkatan Tertinggi, jadikanlah mereka berjaya agar setiap daripada mereka dapat menjadi bagaikan satu rejimen dan menakluki negara-negara ini dengan cinta Tuhan dan kecemerlangan ajaran-ajaran ilahi.
 

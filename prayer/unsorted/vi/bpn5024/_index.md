@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5024 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-vi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Kinh Ahmad"]
 +++
 ##Kinh Ahmad
 *(Bản kinh này có hiệu lực đặc biệt khi đọc trong hoàn cảnh rắc rối, khó khăn)

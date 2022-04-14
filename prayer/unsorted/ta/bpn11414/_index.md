@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11414 in தமிழ்'
 author = "Abdu'l-Bahá"
-tags = ['lang-ta', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-தெய்வீக திட்டத்தின் நிருபங்கள் எனும் நூலிலிருந்து எடுக்கப்பட்ட போதனைக்குரிய"]
 +++
 *மத்திய மாநிலங்களிலுள்ள பஹாய்களுக்காகவெளிப்படுத்தப்பட்டது
 

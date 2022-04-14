@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2737 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Tanítás"]
 +++
 Ó, Istenem! Segítsd szolgádat, hogy felemelhesse Szavadat, visszautasíthasson mindent, mely hiábavaló és hamis, megláttathassa az igazságot, messze földön terjeszthesse szent verseidet, felfedhesse a ragyogásokat, és általa felragyoghasson a hajnalpír az igazak szívében.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12229 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAIFEKAU A TE ATUA"]
 +++
 Vikia a Koe, O te Aliki toku Atua! Au e akai kia Koe mai ia Latou Ko la ko Tapanekolo o Tou mana Faka-te-Lagi, Ko la ko Faifekau o Tou tafatasi tafasili i te gali mo Aso-Malulu o Au musumusuga faka-maalosi mo fakaasiiga, ke talia ko Au tavini ke se taofigia mai i te Tulafono Faka-te-Lagi tenei te la, i Tou loto mo tou fiafiaaga, ko maga atu mai i Tou vasa tafasili i te lasi.  Ko fakaeke aka ne Koe mo latou a mea ko la ko oti ne fakaeke ne Koe mo Au tino filifilia fakatasi mo latou fai mea tonu i vasia o Au mea faiite, ko la ko te tumau o latou i te Fakatokaaga ne seki maua ne matagi maalosi o lue,  kae ko la foki a gateteega o tofotofooga ne seai se maalosi lele o taofi a latou mai ite faka-lauefaga o Tau Muna tafasili ite maluga – te Muna tela mai i ei i lagi o manatu fakasupasupa mo mafaufauga seai ne aoga o tagata ne malepelepe mai lalo.  Ko Koe e tonu ko te Mafi-Katoatoa, ko te MatagofieKatoatoa, ko te Iloa Katoatoa.  
 Faka-mafai, tena la, Au tavini, O toku Atua, ke lavea a te Fetu-Ao tela e maina mai i te sikulagi o Tau ikuuga mo te pogai e se mafai o mafulifuli, kae ke taofi latou mai i te Palataiso tela a Koe, mai i Tou igoa, ko te MatagofieKatoatoa, ko oti ne kalagagina i lagi o Tou puleega tafasili i te maluga. Fai aka foki a latou, O toku Atua, ke fakavave ki Tou leo tafasili ite suamalie, ko te mea ke fakavave katoa latou o atafia a Tou tafatasi kae lavea a Tou fakatasitasi. O ko Koe tela ko te Fagasele o loto katoa ko la e nnau kia Koe, kae ko te Pogai o te ava o latou pela mo te mea e iloa ne latou a Koe!  

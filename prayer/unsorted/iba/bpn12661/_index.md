@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12661 in Iban'
 author = "Báb"
-tags = ['lang-iba', '', "Báb", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Báb", "category-unsorted", "cat-NGINGKAS DIRI"]
 +++
 O Tuhan! Ngagai Nuan aku ngiga pengenduh lalu ngagai semua tanda Nuan aku nungaka ati aku.
 O Tuhan! Sekalika benung bejalai tauka ba rumah, sekalika dalam pengawa aku tauka dalam kereja aku, aku nyerahka semua pengandal ati aku ba Nuan.

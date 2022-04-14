@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9203 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Louange et gratitude"]
 +++
 Louange à toi, ô Seigneur, mon Dieu ! Par ton Plus-Grand-Nom, incarcéré dans la ville-prison d’Acre, tombé aux mains de ses ennemis - comme tu le vois, ô mon Dieu - et menacé par l’épée des méchants, je te supplie. Affermis-moi dans sa cause et dirige continuellement mes regards vers sa cour afin que rien ne me détourne de lui.
 Ô mon Seigneur, j’affirme qu’il a offert sa vie sur ton chemin et, dans l’amour qu’il te porte, n’a souhaité que tribulations pour lui-même. Il a enduré toutes les humiliations pour manifester ta souveraineté à tes serviteurs et exalter ta parole parmi tes créatures. Tandis que les infortunes s’accumulaient et que les tourments que tu lui envoyais l’assaillaient, il s’enivra si bien par ton souvenir que les multitudes, qui avaient répudié tes signes et refusé de croire en toi, cessèrent de le terrifier.

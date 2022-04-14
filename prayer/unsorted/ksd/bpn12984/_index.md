@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12984 in Kuanua'
 author = "Bahá'u'lláh"
-tags = ['lang-ksd', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ksd', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-A PAKANA NIARING AI RA UMANA VARTULANG"]
 +++
 *Tikatikana Bahai na vatang gono ra niaring tikanae tai  tikana bung. Lua una vatang gono ra niaring una puk ra  limam ma a matam ma ra tava namur una tur ma gigira  upi ra vatar tabu kai Baba'u'llah tara Gunan Tabu. (Ati  Papua Niugini gono ra gunan iat tara papar ra labur). 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3567 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Undervisning"]
 +++
 O Gud! O Gud! Dette er en vingestekket fugl, og dens flukt er meget langsom. Hjelp den, så den kan fly mot lykkens og frelsens tinde, vinge sin vei med den største glede og fryd gjennom det uendelige himmelrom, istemme sin melodi i ditt Høyeste Navn i alle egner, fryde ørene med denne kallen og gjøre øynene strålende ved synet av ledelsens tegn!
  

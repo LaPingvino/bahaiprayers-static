@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12347 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAFINE"]
 +++
 O ko Ou mata ko te pogai o te tapuakiiga o latou katoa ko la e finafinau kia Koe, ko Tou nofo-mai ko te faka-moemoega o latou ko la e mau-takitaki ki Tau finagalo, ko Tou nofo pili-mai ko te manakoga o latou katoa ko oti ne faka-pilipili atu ki Tou fale,  ko Ou mata, ko te taugasoa o latou ko oti ne lavea ne latou a Tau mea-tonu, ko Tou igoa ko te faka-gasueega o agaaga ola ko la ko leva ne manako ke taofi a Ou mata, ko Tou leo ko te ola tonu o Au faka-pelepele, a muna mai i Tou mua-gutu ko te vai o te ola kia latou katoa ko la i te lagi mo te lalolagi!  
   

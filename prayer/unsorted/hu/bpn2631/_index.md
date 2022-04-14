@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2631 in Magyar'
 author = "Abdu'l-Bahá"
-tags = ['lang-hu', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Az elhunytakért"]
 +++
 Ó, Istenem! Te, a vétkek Megbocsátója, az Adakozó, a megpróbáltatások Elhárítója!
 

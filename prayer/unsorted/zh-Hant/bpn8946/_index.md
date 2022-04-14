@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8946 in 繁體中文'
 author = "Abdu'l-Bahá"
-tags = ['lang-zh-Hant', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-朝聖書簡"]
 +++
 這篇由阿博都—巴哈所啟示的禱文應在祂陵殿前吟誦，也可以作為私用禱文。
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11182 in नेपाली'
 author = "Bahá'u'lláh"
-tags = ['lang-ne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-संकट तथा परीक्षा"]
 +++
 हे ईश्वर ! मेरा ईश्वर ! आफ्नो दयालुपन र कृपाद्वारा मेरो शोकहरण गर र आफ्नो सत्ताद्वारा मेरा पीडा हटाइदेऊ । 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7536 in Suomi'
 author = "Abdu'l-Bahá"
-tags = ['lang-fi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Henkiset ominaisuudet"]
 +++
 Oi Jumalani! Oi Jumalani! Olen palvelija, joka Sinuun viehättyneenä lähestyy nöyränä ykseytesi ovea ja rukoilee armosi valtakuntaa.
 Oi Jumalani, salli minun olla täysin Sinun, mielessäni vain ajatuksia Sinusta, olla Sinun rakkautesi tulesta syttynyt ja irrottautunut kaikesta muusta paitsi Sinusta, niin että voisin työskennellä asiasi hyväksi, jakaa viisauttasi, välittää tietoasi ja levittää tuntemisesi riemua.

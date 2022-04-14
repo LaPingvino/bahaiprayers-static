@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6048 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Otjiherero: OMERIYAPURIRO"]
 +++
 Ngotangwe ove Mukuru! Meri jarikana kOve kuimbi mbiwa vandurura, muwa tanaurira ondorera mo ndjerera, muwa tungira oNdembeli yOye ondjapuke, muwa vandururira omatjangwa omayapuke, muwa raisa ongoze ondjapuke jo rusuvero, okuhindira ami no vakwetu ihi tjimatji tupe omasa kutja tukambure meyuru rOye rouyapuke, no kukoha ongurunguse jo maivaiviro nge tjita kutja atuhakara noutakame wo kuhita motjouyapuke tjo mbwaneno yOye. 
 

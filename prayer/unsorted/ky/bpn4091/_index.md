@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4091 in Кыргыз'
 author = "Abdu'l-Bahá"
-tags = ['lang-ky', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ky', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ыйык жайнада окулуучу касиеттүү жазмалар (Скрижалдар)"]
 +++
 *(Абдул-Баха аркылуу ачылган бул текс анын ыйык жайында окулат. Аны ошондой эле өздүк сыйынуу катарында да окууга болот.)
 

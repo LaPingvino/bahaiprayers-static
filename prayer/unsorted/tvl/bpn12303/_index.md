@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12303 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TALAIIGA"]
 +++
 E fakalauefa-gia a Tou igoa, O toku Atua, ona ko te mea te la ko oti ne fakaasi ne Koe i te Aso te la ko te Tupu o Aso, ko te Aso te la ne fakasalalau ne Koe ki Au Tino filigia mo Au Pelofeta i Tau Tapeleti tafasili i te takutakua, ko te Aso te la ne avatu ne Koe ate gali o te matagofie o Ou igoa katoa ki luga i mea faiite katoa. E takutakua a tena faka-manuiaaga o so se tino tela e agai tonu atu a ia kia Koe, kae ulu atu ki Tou nofomai, kae maua a sikuga leo o Tou leo.  
   

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3915 in Hrvatski'
 author = "Bahá'u'lláh"
-tags = ['lang-hr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Odvojenost"]
 +++
 Mnoga su hladna srca, o, moj Bože, zaplamtjela vatrom Tvoje Stvari i mnoge je spavače probudila milozvučnost Tvoga glasa. Koliko li je mnogo stranaca koji su potražili zaklon u sjeni stabla Tvoje jednosti, i kako li su brojni žedni koji su žudjeli za vrelom tvojih živih voda u Tvojim danima!
 

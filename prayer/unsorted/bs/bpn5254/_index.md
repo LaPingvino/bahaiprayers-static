@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5254 in Bosanski'
 author = "Bahá'u'lláh"
-tags = ['lang-bs', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Iscjeljenje"]
 +++
 *“Molitve objavljene za izlječenje odnose se na tjelesno i duhovno izlječenje. Izgovarajte ih da bi ste iscijelili dušu i tijelo...” –‟Abdu‟l-Bahá
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2858 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Tabela e vizitimit të 'Abdu'l-Bahá-it"]
 +++
 *Kjo lutje thuhet në Mauzoleun e 'Abdu'l-Bahá-it. Ajo përdoret gjithashtu në lutje private. 'Abdu'l-Bahá-i thotë: "Cilido që e thotë këtë lutje me përunjësi e me zell do të sjellë gëzim e kënaqësi në zemrën e këtij Shërbëtori; madje do të jetë sikur ta ketë takuar Atë ballëpërballë."
 

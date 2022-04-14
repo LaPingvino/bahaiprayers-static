@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6587 in 한국어'
 author = "Báb"
-tags = ['lang-ko', '', "Báb", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Báb", "category-unsorted", "cat-원조"]
 +++
 저희들에게...,주님을 믿은 이들의 가정에... 축복을
 

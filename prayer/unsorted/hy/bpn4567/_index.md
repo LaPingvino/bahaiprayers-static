@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4567 in հայերեն'
 author = "Abdu'l-Bahá"
-tags = ['lang-hy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ՀՈԳԵՎՈՐ ԺՈՂՈՎՆԵՐ"]
 +++
 *Աղոթքը արտասանվում է Հոգևոր Ժողովի ավարտից հետո
 

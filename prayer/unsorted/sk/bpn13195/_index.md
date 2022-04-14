@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13195 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Manželstvo"]
 +++
 On je Darca, Štedrý!
 Chvála buď Bohu, Pradávnemu, naveky Prebývajúcemu, Nemennému, Večnému! Ten, ktorý vo Svojom vlastnom bytí dosvedčil, že vskutku, On je Jeden, Jediný, ničím Nespútaný, Vznešený. Dosvedčujeme, že vskutku niet Boha okrem Neho, potvrdzujeme Jeho jednotu, doznávame Jeho jedinosť. Od vekov prebýva v nedosiahnuteľných výšinách, na vrcholoch Svojej vznešenosti, posvätený nad zmienku všetkých okrem Seba samého a povznesený nad opísanie kohokoľvek okrem Seba.

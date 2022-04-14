@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3253 in العربية'
 author = "Bahá'u'lláh"
-tags = ['lang-ar', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ar', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-الخروج من البيت والمدينة"]
 +++
 # هُوَ اللهُ تَعَالَى شَأنُهُ العَظَمَةُ والاقْتِدَارُ
 يا أَيُّها المَذْكُورُ لَدَى المَظلُومِ فِي حِينِ الخُرُوجِ عَنْ المَدِينَةِ قُلْ:

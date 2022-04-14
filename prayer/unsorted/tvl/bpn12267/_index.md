@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12267 in Tuvalu'
 author = "Báb"
-tags = ['lang-tvl', '', "Báb", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Báb", "category-unsorted", "cat-PUIPUIIGA"]
 +++
 I te Igoa o te Atua, te Aliki ko silia kese a te malu mo te matagofie, te  Fakaikuuga-Katoatoa.  
 E mana a te Aliki Tela e nofo i Tena lima a te kamataaga o te maalo.  E faiite ne Ia so se mea e loto a Ia kiei mai i Tena muna fakatonu “Ke fai,” ko te mea loa ko fai.  A Ia ko te maalosi o te pule ke oko ki taimi nei, kae e tumau pena ke oko ki taimi mai mua.  E fai ne Ia ke manumaalo a so se tino e fiafia a Ia ki ei, mai luga i te maalosi o Tena manako.  A Ia ko te mea tonu ko te Maalosi, ko te Mafi-Katoatoa.  I luga ia Ia e iai a te matagofie katoatoa mo te malu kese i maalo katoa o te Fakaasiiga mo te 

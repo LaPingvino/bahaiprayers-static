@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10786 in Srpski српски'
 author = "Báb"
-tags = ['lang-sr', '', "Báb", "unsorted"]
+tags = ['lang-sr', 'prayer-', "author-Báb", "category-unsorted", "cat-ZAŠTITA"]
 +++
 *(Originalnu molitvu je Bab ispisao sopstvenom rukom u obliku pentagrama)
 

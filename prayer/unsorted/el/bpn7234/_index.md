@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7234 in ελληνικά'
 author = "Bahá'u'lláh"
-tags = ['lang-el', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ΓΑΜΟΣ ΥΠΟΣΧΕΣΗ ΤΟΥ ΓΑΜΟΥ"]
 +++
 *“Προσευχή που απαγγέλλεται στο τέλος της συνάντησης του Πνευµατικού Συµβουλίου”
 

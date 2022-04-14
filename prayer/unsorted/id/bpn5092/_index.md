@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5092 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Anak-Anak"]
 +++
 Ya Rabi Tuhanku! Inilah anak yang telah lahir dari kandungan hamba-Mu, yang telah Engkau berikan kedudukan yang luhur dalam Loh-loh-Mu yang tak dapat diubah dan dalam Kitab-kitab perintah-Mu.
 

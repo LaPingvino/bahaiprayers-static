@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6559 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-아침"]
 +++
 저의 내적 존재를 밝게
 

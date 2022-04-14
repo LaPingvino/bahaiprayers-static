@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2116 in România'
 author = "Báb"
-tags = ['lang-ro', '', "Báb", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Báb", "category-unsorted", "cat-Ajutor şi Sprijin"]
 +++
 Lăudat fie numele Tău, o, Doamne Dumnezeul nostru! Tu eşti într-adevăr Cunoscătorul lucrurilor nevăzute. Hărăzeşte-ne tot binele măsurat de cunoaşterea Ta atotcuprinzătoare. Tu eşti Stăpânul suveran, Cel Tare, Cel Preaiubit.
 

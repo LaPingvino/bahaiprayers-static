@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7483 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ornamenty"]
 +++
 ##TARAZÁT 
 

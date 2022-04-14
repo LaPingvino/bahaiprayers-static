@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7241 in ελληνικά'
 author = "Bahá'u'lláh"
-tags = ['lang-el', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ΠΙΝΑΚΙ∆Α ΤΟΥ ΑΧΜΑΝΤ"]
 +++
 Μάθε καλά την πινακίδα αυτή, ω Αχµάντ. Ψάλλε την στις µέρες σου και µην την στερείσαι.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2801 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Mësimdhënia"]
 +++
 ##Reveluar Bahá'í-ve të Shteteve Qendrore
 

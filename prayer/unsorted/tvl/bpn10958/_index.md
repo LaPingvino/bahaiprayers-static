@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10958 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-FILEMU"]
 +++
 O ko Koe a te Aliki alofa!  Ko oti ne faite ne Koe a tino katoa mai i te itukaaiga e tasi.  Ko oti ne fakatonu mai ne Koe ko tino katoa ke kau i se fale e tasi.  I Ou Mua Mana, a latou katoa ko Au tavini, a ko tino katoa e malu mai lalo i Tou Tapanekolo; katoa ko oti ne luku fakatasi i Tau Taipola o te Maukoloa; katoa e faka-mainagina mai i te mainaaga o Tou alofa atamai.
      O te Atua!  A Koe e alofa ki tino katoa, Ko oti ne fakalava ne Koe a tino katoa, ko oti ne fakamalu katoa, fakaeke a te ola ki luga ia latou katoa.  Ko oti ne faka-mealofa a latou taki tokotasi mo taleni mo mafaufauga, kae katoa e ufitia ne te Vasa o Tou Alofa-Kaimalie.

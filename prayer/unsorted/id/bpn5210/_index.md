@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5210 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Puasa"]
 +++
 Aku memohon kepada-Mu, ya Tuhanku, demi
 Tanda-Mu yang perkasa dan demi penjelmaan kurnia- Mu di antara manusia, agar jangan melemparkan daku dari gapura kota kehadiran-Mu, dan jangan mengecewakan harapan-harapan yang telah aku letakkan pada penjelmaan-penjelmaan karunia-Mu di antara makhluk-makhluk-Mu. Engkau melihat daku, ya Tuhanku, berpegang pada Nama-Mu, Yang Maha Suci, Yang Maha Cemerlang, Yang Maha Kuasa, Yang Maha Agung, Yang Maha Luhur, Yang Maha Mulia, dan berpegangteguhpadaujungjubahyangmana semua yang berada di dunia ini dan di akhirat berpegang kepadanya.

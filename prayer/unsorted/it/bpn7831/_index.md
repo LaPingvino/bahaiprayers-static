@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7831 in Italiano'
 author = "Bahá'u'lláh"
-tags = ['lang-it', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-it', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Guarigione"]
 +++
 Gloria sia a Te, Signore mio Dio! Ti prego – per il Tuo Nome per il quale Colui Che è la Tua Bellezza è stato posto sul Trono della Tua Causa, per il Tuo Nome per il quale cambiasti tutte le cose, riunisti insieme tutte le cose, chiamasti a render conto tutte le cose, ricompensasti tutte le cose, preservasti tutte le cose e sostenesti tutte le cose – Ti prego di proteggere questa Tua ancella che è corsa a rifugiarsi in Te, e ha cercato riparo in Colui nel Quale Tu Stesso sei manifesto, e ha riposto in Te ogni fiducia e confidenza. 
 Essa è inferma, o mio Dio, e si è adagiata al-l’ombra dell’Albero della Tua guarigione; afflitta, è fuggita nella Città della Tua protezione; contagiata, ha cercato la Fonte Prima dei Tuoi favori; dolorosamente vessata, si è affrettata a raggiungere la Sorgente della Tua tranquillità; carica di peccati, ha volto il viso verso la corte del Tuo perdono. 

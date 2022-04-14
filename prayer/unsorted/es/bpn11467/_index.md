@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11467 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ayuda"]
 +++
 ¡Señor! Dignos de lástima somos, concédenos Tu favor; somos pobres, confiérenos una porción del océano de Tu riqueza; estamos necesitados, satisfácenos; estamos humillados, danos Tu gloria. Las aves del aire y las bestias del campo reciben cada día su alimento de Ti, y todos los seres participan de Tu cuidado y amorosa bondad.
 No prives a este débil ser de Tu maravillosa gracia y, por medio de Tu poder, otorga Tu generosidad a esta alma desamparada.

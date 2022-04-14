@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn561 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Verstorbene"]
 +++
 Er ist Gott, erhaben ist Er, der Herr der Güte und Großmut!
 Ruhm sei Dir, o mein Gott, allmächtiger Herr! Ich bezeuge Deine Allmacht und Deine Gewalt, Deine Herrschaft und Deine Güte, Deine Gnade und Deine Stärke, die Einzigkeit Deines Seins und die Einheit Deines Wesens, Deine Heiligkeit und Erhabenheit über die Welt des Seins und alles, was darinnen ist.

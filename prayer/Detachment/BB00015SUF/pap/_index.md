@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00015SUF in Papiamentu'
 author = "Báb"
-tags = ['lang-pap', '', "Báb", "Detachment"]
+tags = ['lang-pap', 'prayer-BB00015SUF', "author-Báb", "category-Detachment", "cat-Detachment"]
 +++
 *Say: God sufficeth all things above all things… 
 

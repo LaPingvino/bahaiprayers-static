@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4905 in Vanuatu'
 author = "Bahá'u'lláh"
-tags = ['lang-bi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TOKTOK BLONG BAHÁʼU’LLÁH I GO LONG AHMAD"]
 +++
 *Tisfala prea i gat spesal paoa sipos yu ridim long taem we yu stap long trabol or yu karem sori no gud long hart blong yu. 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1610 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Andleg lausn"]
 +++
 Lof sé Þér, ó Drottinn Guð minn. Ég sárbæni Þig við tákn Þín sem hafa umlukið allt sköpunar­verkið, við ljós ásjónu Þinnar sem hefur uppljómað alla á himnum og jörðu, við miskunn Þína sem er hafin yfir allt sem skapað er, og við náð Þína sem hefur umvafið alheiminn, að svipta burt hulunum sem skilja mig frá Þér svo að ég megi hraða för minni að uppsprettu Þíns máttuga innblásturs og til dagsbrúnar opinberunar Þinnar og ríkulegra gjafa og sökkva í úthaf návistar Þinnar og velþóknunar.
 Lát mig ekki, ó Drottinn minn, fara á mis við að þekkja Þig á dögum Þínum og afklæð mig ekki kyrtli leiðsagnar Þinnar. Gef mér að drekka af fljót­inu sem er lífið sjálft og streymir frá para­dís­inni (Riḍván), þar sem hásæti nafns Þíns, hins al­mis­kunn­sama, var grundvallað; svo að augu mín megi opnast, andlit mitt uppljómast, hjarta mitt full­viss­ast, sál mín upplýsast og skref mín verða stöðug.

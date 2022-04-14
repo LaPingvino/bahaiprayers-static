@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12945 in Tok Pisin'
 author = "Bahá'u'lláh"
-tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-UNITY"]
 +++
 Glori i go long Yu, O God, long wanem Yu bin soimaut bikpela laik long ol manmeri!  O Yu, Husat i Laip na Lait bilong mipela.  Soim rot bilong Yu long ol wokmanmeri bilong Yu.  Mekim mipela i 
 kamap olsem papa bilong planti samting long wanem mipela i bilip long Yu.  Na helpim mipela long lusim tingting long ol arapela samting na holimpas long Yu tasol. 

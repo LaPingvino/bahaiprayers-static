@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7327 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Z Tablic Boskiego Planu"]
 +++
 Ktokolwiek podróżuje w różne strony, żeby nauczać, niechaj odmawia tę modlitwę w górach, na pustyni, na lądzie i na morzu:
    

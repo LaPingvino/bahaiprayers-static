@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10380 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-gil', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Te Tataro ae Kabaebae ae Abwabwaki"]
 +++
 *(Are e tangiria n atonga te tataro aio, ke e tei ao n rairaki nakon Te Atua, ao, ngke e tei i aon ana tabo, e na taraa te angaatai ao te angamaing, n aron ae e tataninga Ana nanoanga te Uea, te Kabanea n Nanoanga, te Moamoaaomata. Ngkanne ke e atonga aei:)
 O Ngkoe aia Uea aara nako ao te Tia karaoi taian karawa!  I Butiiko irouia Naake Ngaiia Bongin-Rikiraken Oioim ae e aki nooraki, te Kabanea n Rietaata, te Kabanea ni Mimitong, ni karaoa au tataro bwa te ai are e na kabueki rabunanimata nako ake a kainai man Tamaroam, ao te oota are e na kairai nakon marawan Kaaniam.

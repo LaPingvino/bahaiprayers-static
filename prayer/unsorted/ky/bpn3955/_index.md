@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3955 in Кыргыз'
 author = "Bahá'u'lláh"
-tags = ['lang-ky', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ky', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Орто намаз"]
 +++
 *Кимде-ким Кудайга сыйынса, колун жууганда мындай деш керек/:
 

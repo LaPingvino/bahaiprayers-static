@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7380 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Mężowie"]
 +++
 O Boże, mój Boże! Ta oto służebnica wzywa Ciebie, ufając Tobie, zwróciwszy swą twarz ku Tobie, błagając Cię, abyś zesłał na nią swe niebiańskie dary, odsłonił przed nią swoje duchowe tajemnice i oświetlił ją blaskiem swojego Bóstwa.
     

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2288 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Statornicie în Legământ"]
 +++
 El este Cel Tare, Cel ce Iartă, Cel Milostiv!
 O, Doamne Dumnezeul meu! Tu îi vezi pe slujitorii Tăi în abisul pieirii şi al erorii; unde e lumina călăuzirii Tale divine, o, Tu Dorinţă a lumii? Tu cunoşti neajutorarea şi slăbiciunea lor; unde e puterea Ta, o, Tu în a Cărui mână sunt puterile cerului şi ale pământului?

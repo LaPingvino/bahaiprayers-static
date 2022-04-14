@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12157 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PERKAHWINAN"]
 +++
 *”Perkahwinan Bahá'í adalah penyatuan dan kasih mesra antara dua pihak. Mereka haruslah, sesungguhnya, amat berhati-hati dan membiasakan diri dengan perwatakan satu sama yang lain. Ikatan abadi ini haruslah diteguhkan oleh satu waadat yang kukuh dan niatnya haruslah untuk memupuk keharmonian, persahabatan dan kesatuan serta untuk mencapai kehidupan abadi.”
 

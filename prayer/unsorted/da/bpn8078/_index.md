@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8078 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Menneskeheden"]
 +++
 Min Gud, som jeg tilbeder og elsker! Jeg vidner om Din enhed og Din helhed og anerkender Dine gaver både i fortiden og i nutiden. Du er Den Algavmilde, hvis barmhjertigheds overstrømmende byger har regnet på både høj og lav, og hvis nådes glans er blevet kastet både på de lydige og de oprørske.
 

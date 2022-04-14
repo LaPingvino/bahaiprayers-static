@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12471 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Oshikwanyama : Eendyovo Da Dya Momishanga Dimwe Da Baha u llah"]
 +++
 Lituleni Nye Vene Mefuta Le Ndyoyo Dange
 (Immerse yourselves in the ocean)

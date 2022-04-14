@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6814 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tests and Difficulties"]
 +++
 Glory be to Thee, O my God! I beg of Thee by Thy name, the Most Merciful, to protect Thy servants and Thy handmaidens when the tempests of trials pass over them, and Thy manifold tests assail them. Enable them, then, O my God, so to seek refuge within the stronghold of Thy love and of Thy Revelation, that neither Thine adversaries nor the wicked doers among Thy servants, who have broken Thy Covenant and Thy Testament, and turned away most disdainfully from the Dayspring of Thine Essence and the Revealer of Thy glory, may prevail against them.
 

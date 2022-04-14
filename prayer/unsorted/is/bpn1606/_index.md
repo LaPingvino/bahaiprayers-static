@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1606 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Andleg lausn"]
 +++
 Mörg eru þau köldu hjörtu, ó Guð minn, sem hafa upptendrast af eldi málstaðar Þíns og margur sofandinn hefur risið upp við sætleika raddar Þinnar. Hve margir eru ekki þeir ókunnu sem leituðu skjóls í forsælunni af tré einleika Þíns og hve fjölmargir þeir sem brunnu af þorsta eftir lind lifandi vatns Þíns á dögum Þínum!
 Sæll er sá sem hefur leitað til Þín og hraðað sér að árdagsljóma ásýndar Þinnar. Sæll er sá sem af allri ást sinni hefur leitað til dagsbrúnar opin­berunar Þinnar og uppsprettu innblásturs Þíns. Sæll er sá sem lét það af hendi rakna á vegi Þínum sem Þú gafst honum af örlæti Þínu og velvild. Sæll er sá sem í sárri þrá eftir Þér hefur varpað frá sér öllu nema Þér. Sæll er sá sem hefur notið náinna sam­vista við Þig og leyst sig úr viðjum alls nema Þín.

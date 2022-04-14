@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11238 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-gil', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Te Tataro are e Abwabwaki Ibukin te Katoki Aoraki"]
 +++
 Ngaia te Tia Katoki Aoraki, te Tia Kataubobonga, te Tia Ibuobuoki, te Tia Kabwaraibuure nako, Moan te Nanoanga.
 I wewete Nakoim O Ngkoe Ae Ko Karietataaki, O Ngkoe Are Ko Kakaonimaki, O Ngkoe Are Ko Mimitong! Ngkoe te Tia Kataubobonga, Ngkoe te Tia Katoki Aoraki, Ngkoe te Teimatoa ma n Aki Bibitaki, O Ngkoe Are Ko Teimatoa ma n Aki Bibitaki!

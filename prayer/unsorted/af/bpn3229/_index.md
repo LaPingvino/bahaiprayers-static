@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3229 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Die Tafels van die Goddelike Plan"]
 +++
 O God! O God! U sien my swakheid, nederigheid en ootmoedigheid voor U skepsels; nietemin, ek het in U vertrou en het opgestaan in die bevordering van U leer onder U sterk dienaars, en reken op U krag en U mag.
 

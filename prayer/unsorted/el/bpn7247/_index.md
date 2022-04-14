@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7247 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ΠΙΝΑΚΙ∆ΕΣ ΤΟΥ ΘΕΙΚΟΥ ΣΧΕ∆ΙΟΥ"]
 +++
 Οποιοσδήποτε ταξιδεύει σε διάφορα µέρη για να διδάξει, ας διαβάσει προσεκτικά πάνω στο βουνό, στην έρηµο, στη στεριά και στη θάλασσα αυτή την ικεσία.
 

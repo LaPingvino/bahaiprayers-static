@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2438 in Latviešu'
 author = "Bahá'u'lláh"
-tags = ['lang-lv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Vakars"]
 +++
 Kā gan man gulēt, ak Dievs, mans Dievs, ja acis ir nomodā tiem, kas atšķirtībā ilgojas pēc Tevis, un kā gan iet man pie miera, ja dvēseles ir gauži satrauktas tiem, kas tālumā no Tevis Tevi mīl?
 Tavā stiprajā labajā rokā, ak mans Kungs, un Tavā gādībā es nododu savu garu un visu savu būtni, un Tu man dod spēku nolikt galvu uz spilvena un to no tā atkal pacelt pēc Tavas gribas un vēlmes. Patiesi, Tu esi Saglabātājs, Sargātājs, Visvarenais, Visspēcīgais.

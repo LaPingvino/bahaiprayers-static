@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12006 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ylahy Sözleri Ýetirmek"]
 +++
 Päk we Mukaddes Sen Eý meniň Taňrym.
     Ýa Ylahym! Hikmet nuruny röwşen eden Seniň Adyňa kasam! Haçan-da Beýan çarhlary halkyň arasynda herekete başlanda, meni Öz Jomartlygyň bilen kabul edersiň diýip hem-de Seniň kömegiň bilen meni Öz bendeleriň içinde Seniň adyňy ýaýratmaga karar berersiň diýip Saňa ýalbarýaryn.

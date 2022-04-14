@@ -1,7 +1,7 @@
 +++
 title = 'Short Obligatory Prayer in Papiamentu'
 author = "Bahá'u'lláh"
-tags = ['lang-pap', '', "Bahá'u'lláh", "Obligatory Prayers"]
+tags = ['lang-pap', 'prayer-BH11209', "author-Bahá'u'lláh", "category-Obligatory Prayers", "cat-Short Obligatory Prayer"]
 +++
 ##Short Obligatory Prayer
 

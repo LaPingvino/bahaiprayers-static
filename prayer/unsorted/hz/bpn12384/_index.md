@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12384 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Khoekhoegowab: !NUWU //GUI AISA /GORES*"]
 +++
 Tita ge ra ≠an-!ga, Ai ti Elotse, Sats ge a guru te !Khaisa, Satsa tani ≠an tsi /gore /îse. Tita gera !kho!gâ ti /gai-o-!nâsib, tsî sa /gaiba, ti /gâtsisib tsî Sa !khusiba. 
 	Sats osei ge /nî Eloe Hâ tama hâ, Hui-aots tsu-!gâb !na, /i-aitsama mâbasen hâtsa.

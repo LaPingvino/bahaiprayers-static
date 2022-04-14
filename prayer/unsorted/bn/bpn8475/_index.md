@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8475 in বাংলা'
 author = "Bahá'u'lláh"
-tags = ['lang-bn', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bn', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-দীর্ঘ আরোগ্য প্রার্থনা"]
 +++
 তুমিই আরোগ্যকারী, পর্যাপ্তকারী, সাহায্যকারী, সর্ব -ক্ষমাশীল, পরম করুণাময়।
 আমি তোমার নিকট প্রার্থনা করিতেছি, হে প্রশংসিত, হে বিশ্বস্ত, হে গৌরবান্বিত ! 

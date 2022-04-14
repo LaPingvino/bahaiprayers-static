@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2208 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Femei"]
 +++
 Lăudat fii Tu, o, Doamne Dumnezeule!
 Tu eşti Cel care ai creat toate lucrurile printr-un cuvânt rostit prin porunca Ta şi ai făurit întreaga creaţie prin puterea suveranităţii şi tăriei Tale. Cel mai tare dintre oameni se pleacă în faţa revelaţiilor Tale de slavă, iar cei care sunt înzestraţi cu putere tremură atunci când se află în faţa dovezilor tăriei Tale. Orice om pătrunzător este lipsit de viziune atunci când se confruntă cu strălucirea slavei chipului Tău, iar cel care stăpâneşte bogăţii este sărac şi dezolat când priveşte belşugul bogăţiei Tale.

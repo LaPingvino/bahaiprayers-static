@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8075 in Dansk'
 author = "Abdu'l-Bahá"
-tags = ['lang-da', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Lovprisning Og Taknemmelighed"]
 +++
 I Guds navn, Den Højeste! Lovet og priset være Du, Herre, Almægtige Gud! Du, over for hvis visdom den vise kommer til kort og giver op, over for hvis kundskab den lærde tilstår sin uvidenhed, over for hvis magt den stærke bliver svag, over for hvis rigdom den rige erkender sin fattigdom, over for hvis lys den oplyste er fortabt i mørke, mod hvis kundskabs helligdom kærnen i al forståelse vender sig, og omkring hvis nærværelses fredhellige sted alle menneskesjæle kredser.
 

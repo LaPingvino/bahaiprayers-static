@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4492 in Filipino'
 author = "Báb"
-tags = ['lang-tl', '', "Báb", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Báb", "category-unsorted", "cat-Papuri At Pasasalamat"]
 +++
 Lahat ng kamaharlikaan at kaluwalhatian, O aking Diyos, at lahat ng pamamahala at liwanag at kadakilaan at kaningningan ay suma-Iyo. Ipinagkakaloob Mo ang kapangyarihan sa kanino mang Iyong gustuhin at ipinagkakait ito sa sinumang Iyong naisin. Walang ibang Diyos liban sa Iyo, ang Nag-aangkin ng Lahat, ang Pinakadakila. Ikaw yaong lumikha mula sa kawalan ng santinakpan at lahat ng naninirahan dito. Walang karapat-dapat sa Iyo maliban sa Iyong Sarili, samantalang ang lahat maliban sa Iyo ay mga itinakwil sa Iyong harapan at mga walang halaga kung ihahambing sa luwalhati ng Iyong Sarili.
 Malayo para sa akin na parangalan ang Iyong mga katangian maliban sa mga yaong pinarangalan ng Iyong sarili sa Iyong matimbang na Aklat na dito ay Iyong sinabi, “Walang nakauunawa sa Kaniya, ngunit nauunawaan Niya ang lahat. Siya ang Mahiwaga, ang Nakadarama sa Lahat.” Luwalhatiin Ka, O aking Diyos, tunay na walang isip o pananaw, na gaanumang katalas o lubos na maingat, ay kailanman mauunawaan ang sariling katangian, ng pinaka walang halaga sa Iyong mga tanda. Sa katunayan, Ikaw ang Diyos, walang ibang Diyos maliban sa Iyo. Ako ay sumasaksi na Ikaw at Ikaw lamang ang tanging nagpapahayag ng Iyong mga katangian, na walang pagpuri ng sinuman maliban sa Iyo ay nakaabot sa Iyong banal na korte o ang Iyong mga katangian ay maarok ninoman maliban sa Iyong Sarili.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10195 in Māori'
 author = "Bahá'u'lláh"
-tags = ['lang-mi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MŌ TE HUNGA WAHINE"]
 +++
 Korōria ki a Koe, E Te Ariki tōku Atua! Ko Koe tēnā Nāu te ahi i ngiha ai kia mura mai ngā manawa o te hunga e mōhio ana ki Tāu kotahitanga; nā ngā hahanatanga o Tōu mata i mārama ai ngā kanohi o te hunga kua tata ki Tō kōti. Te hōrapa hoki e tōku Atua, o te awa o Tāu Matatau! Te reka hoki e tōku Kōingo, o te wharanga, nā tōku aroha ki a Koe, me te take o Tāu rēhia, i pāngia ai ahau ki ngā rāti o te hunga mahi kino! Kātahi te rekareka o ngā tūnga koirā Tāu ara, ā hei whakaatu i Tāu Whakapono, ka mau i ahau mai i ngā hoari o te hunga whakaponokore!
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3719 in Eesti'
 author = "Bahá'u'lláh"
-tags = ['lang-et', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-et', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lahkunuile"]
 +++
 Tema on Jumal, ülendatud on Tema, armastava headuse ja helduse Issand!
 Au olgu Sulle, oo Sina mu Jumal, kõikvõimas Issand. Tunnistan Sinu kõikvõimsust ja vägevust, Sinu ülemvõimu ja armastavat headust, Sinu armu ja võimu, Sinu oleluse ainsust ja olemuse ühtsust, Sinu pühadust ja ülendatud seisundit kogu olemasolu maailma ja kõige selles oleva üle.

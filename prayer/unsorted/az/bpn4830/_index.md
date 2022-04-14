@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4830 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Şükr və minnətdarlıq duaları"]
 +++
 Bütün təriflər, Ey mənim Allahım, Sənə olsun, Ey cəlal və möhtəşəmlik, əzəmət və şərəf, hökmranlıq və səltənət, ucalıq və fəzl, həşəmət və hakimiyyət Mənbəyi. Sən kimi istəsən, Ən Böyük Dəryaya yaxınlaşdırırsan və kimə arzu etsən, ona Sənin ən Qədim Adını tanımaq şərəfi əta edirsən. Göydə və yerdə olanlardan heç kəs Sənin hökmran iradənə qarşı dura bilməz. Əzəldən Sən bütün xilqəti idarə etmisən və əbədiyyətə qədər də Sənin hökmranlığın bütün mövcudat üzərində qalacaq. Səndən başqa Allah yoxdur, Qüdrətli, Ən Uca, Ən Qüvvətli, Ən Hikmətli Allah.
 

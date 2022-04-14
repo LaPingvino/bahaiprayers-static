@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13150 in Slovensky'
 author = "Báb"
-tags = ['lang-sk', '', "Báb", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Báb", "category-unsorted", "cat-Odpútanosť"]
 +++
 Ó Pane! K Tebe sa utiekam o útočisko a ku všetkým Tvojim znameniam smerujem srdce.
 Ó Pane! Či už na cestách alebo doma, v zamestnaní či pri práci, celú svoju dôveru vkladám do Teba.

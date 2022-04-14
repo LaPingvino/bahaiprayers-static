@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4704 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Səmavi bəxşiş duaları"]
 +++
 Ey Allah, mənim Allahım! Təriflər olsun Sənə, cünki Sən ən uca dağın zirvəsində Müqəddəs Ağacda ilahi məhəbbət atəşini yandırdın: o Ağac ki, “nə Şərqdəndir, nə də Qərbdən. 1” o atəş ki, onun alovu qalxıb Səma sakinlərinə yetişdi və bundan o varlıqlar hidayət işığı əldə etdilər və söylədilər: “Həqiqətən, biz Tur Dağının yamacında bir od gördük.” 12
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7256 in Kalaallisut'
 author = "Abdu'l-Bahá"
-tags = ['lang-kl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-kl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ataasiussuseq"]
 +++
 Guutiga-aa! Guutiga-aa! Ilumut torlorfigaakkit qinnuigalutillu Alloriusarpit saavani, Saammaannitit tamaasa tarninut makkununnga aqqaqqullugit. Naalagaq-aa! Uummatit kattutitillugit ataasiulersikkit, tarningit tamarmik isumaqatigiillutik katersuullik, isummallu pilluartikkit Illernassutsivit Ataasiussutsivillu ilisarnaataasigut. Naalagaq-aa! Kiinnat makku Ataasiussutsivit qaamaneranik qaammarissunngortikkit. Kiffavit makisii Naalagaaffinni kiffartuussineranni nukittorsakkit. 
 

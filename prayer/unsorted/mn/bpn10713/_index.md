@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10713 in Монгол хэл'
 author = "Abdu'l-Bahá"
-tags = ['lang-mn', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mn', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ШӨНӨ ҮДЭШ"]
 +++
 *Аяа, Үнэнийг эрэлхийлэгч минь!  Бурхан мэлмийг чинь нээгээсэй гэж хүсэж байгаа бол шөнө дунд Бурханд сөгдөн залбирч, Түүнтэй харилцан ийнхүү гуйн мөргө: 
 

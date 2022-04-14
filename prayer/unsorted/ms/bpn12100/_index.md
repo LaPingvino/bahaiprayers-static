@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12100 in Bahasa Melayu'
 author = "Báb"
-tags = ['lang-ms', '', "Báb", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Báb", "category-unsorted", "cat-KEMENANGAN AKIDAH"]
 +++
 Ya Tuhan! Bolehkanlah semua manusia di bumi untuk memasuki Syurga Akidah-Mu, agar tiada benda tercipta kekal jauh daripada batas keredaan-Mu.
 

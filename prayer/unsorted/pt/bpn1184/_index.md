@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1184 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Cura"]
 +++
 Ele é Quem cura, o Suficiente, o Amparo, a Suma Clemência, o Todo-Misericordioso.
 A Ti invoco, ó Tu, o Excelso, ó Tu, o Fiel, ó Tu que és o Glorioso! Tu que és o Suficiente, Tu que curas, Tu que és o Eterno, ó Tu, o Sempiterno!

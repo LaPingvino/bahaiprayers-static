@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4872 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Vəfat edənlər üçün namaz və dualar"]
 +++
 *Vəfat edənlər üçün qılınan namaz yeganə Bəhai namazıdır ki, cəm halında oxunur, digər iştirakçılar isə sükutda dayanirlar. Həzrət Bəhaullah buruymuşdur ki, bu namaz vəfat edən on beş yaşdan yuxarı olduqda qılınır və dəfndən qabaq oxunmalıdır. Namaz oxuyan zaman üzü qibləyə durmaq məcburi deyildir. Bir dəfə Allahu-Əbha deyilir; sonra altı ayədən birincisi on doqquz dəfə oxunur. Sonra on doqquz dəfə oxunan ikinci ayədən əvvəl yenə “Allahu-Əbha” deyilir və belə davam etdirilir. Əgər rəhmətə gedən qadın olarsa, bu zaman duadakı “bəndən və bəndənin oğlu” ifadəsi əvəzinə “kənizin və kənizinin qızı” deyilir.
 

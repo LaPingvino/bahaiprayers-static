@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4065 in Кыргыз'
 author = "Bahá'u'lláh"
-tags = ['lang-ky', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ky', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Маркумдар туурасыңда"]
 +++
 Маркумду жайга коёр адыңга окулуучу жаназа
 

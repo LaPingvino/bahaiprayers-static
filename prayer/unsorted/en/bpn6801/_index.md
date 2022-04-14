@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6801 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Guidance"]
 +++
 My God, the Object of my adoration, the Goal of my desire, the All-Bountiful, the Most Compassionate! All life is of Thee and all power lieth within the grasp of Thine omnipotence. Whosoever Thou exaltest is raised above the angels, and attaineth the station: “Verily, We uplifted him to a place on high!”; and whosoever Thou dost abase is made lower than dust, nay, less than nothing.
 

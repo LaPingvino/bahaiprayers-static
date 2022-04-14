@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2204 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Femei"]
 +++
 Slujitoarea Ta şi-a pus nădejdea, o, Domnul meu, în graţia Ta şi în generozitatea Ta. Îngăduie-i să dobândească ceea ce o va aduce aproape de Tine şi-i va aduce folos în fiecare dintre lumile Tale. Tu eşti Cel Iertător, Cel Atotbinevoitor. Nu există alt Dumnezeu în afară de Tine, Cel ce orânduieşte toate, Cel dintru început.
 

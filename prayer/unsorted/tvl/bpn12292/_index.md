@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12292 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-TUPU AKA FAK-TE-AGAAGA"]
 +++
 O te Atua, toku Atua!  Mea nei ko Au tavini vaaivai; a latou ko Au Tavini tagata mo tavini fafine usiusitai, ko oti latou ne ifo ki lalo i Tau muna maluga kae faka-maulalo latou i Tou Mataloa maina, kae tu saoloto latou o molimau a Tou tafatasi te la mai iei a te Laa ko oti ne fai ke maina i te matagofie o ia i te tutonu ote aso.  Ko oti ne fakalogo matou ki faka-masakooga ne avaka ne Koe mai i 
 Tou Lalolagi funa, mo motou loto polepole i te alofa mo te fiafia, ko oti ne tali atu ki Tau kalaga.  

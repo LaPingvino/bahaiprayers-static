@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5870 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Humanitat"]
 +++
 Oh Tu bondadós Senyor! Tu has creat tota la humanitat d’un mateix llinatge. Tu has decretat que tothom pertanyi a la mateixa llar. En la Teva sagrada presència tots ells són els Teus serfs i tota la humanitat s’empara sota el Teu tabernacle; tothom s’ha reunit a la teva taula de munificència; tothom està il·luminat per la llum de la teva providència.
 Oh Déu! Tu ets bondadós amb tots, Tu has proveït per a tothom, dónes asil a tothom, confereixes vida a tothom. Tu has dotat tots i cadascun dels homes amb talent i facultats, i tothom està submergit a l’oceà de la teva misericòrdia.

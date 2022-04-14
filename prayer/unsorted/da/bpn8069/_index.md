@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8069 in Dansk'
 author = "Báb"
-tags = ['lang-da', '', "Báb", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Báb", "category-unsorted", "cat-Hjælp Og Støtte"]
 +++
 Priset være Dit navn, o herre vor Gud! Du er i sandhed den, der har viden om usete ting. Bestem for os det gode som Din altomfattende kundskab kan udmåle. Du er Den Suveræne Herre, Den Almægtige, Den Mest Elskede.
 

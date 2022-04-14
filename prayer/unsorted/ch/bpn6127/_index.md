@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6127 in Chamorro'
 author = "Báb"
-tags = ['lang-ch', '', "Báb", "unsorted"]
+tags = ['lang-ch', 'prayer-', "author-Báb", "category-unsorted", "cat-OTRO SIHA NA TINAITAI"]
 +++
 Kao guaha Na’suhan minappot fuera ki si Yu’os? Sangan: Matuna si Yu’os, Yu’os Gue’! Todu setbente-Ña, ya todu umo’osge i malago’- Ña!
 

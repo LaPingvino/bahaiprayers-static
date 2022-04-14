@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4384 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Mga Bata At Kabataan"]
 +++
 Purihin ka nawa, O Panginoon aking Diyos! Magiliw na ipahintulot na ang sanggol na ito ay mapakain buhat sa dibdib ng Iyong mapagmahal na kahabagan, at madamaying kalinga at maging malusog sa bunga ng Iyong makalangit na mga punong-kahoy. Huwag siyang ipahintulot na pangalagaan ng sinuman maliban sa Iyo, yamang Ikaw, sa Iyong Sarili, sa tulong ng lakas ng Iyong pinakadakilang kagustuhan at kapangyarihan ay nagawang malikha at tawagin siya sa pagkabuhay. Walang ibang Diyos maliban sa Iyo, ang Pinakamakapangyarihan, ang Nakaaalam ng Lahat.
 

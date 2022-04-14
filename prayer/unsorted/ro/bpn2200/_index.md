@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2200 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Familie şi Cămin"]
 +++
 Locuinţa mea este căminul păcii.
 Locuinţa mea e căminul bucuriei şi desfătării.

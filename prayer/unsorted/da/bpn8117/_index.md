@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8117 in Dansk'
 author = "Báb"
-tags = ['lang-da', '', "Báb", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Báb", "category-unsorted", "cat-Tilgivelse"]
 +++
 Æret være Du, o Gud. Hvordan kan jeg tale om Dig, når Du er helliggjort over hele menneskehedens lovprisning. Forherliget være Dit Navn, o Gud, Du er kongen, Den evige Sandhed, Du ved, hvad der er i himlene og på jorden, og til Dig må alle vende tilbage. Du har nedsendt Din guddommeligt forordnede åbenbaring i overensstemmelse med en klar målestok. Priset være Du, o Herre! På Din befaling gør Du den, Du vil, sejrrig ved hjælp fra himlens og jordens hærskarer, og hvad der end er dem imellem. Du er Herskeren, Den evige Sandhed, Herren med uovervindelig magt.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8530 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-超脱"]
 +++
 我的上帝啊！赞美归于祢。我是祢的仆役之一，信赖祢及祢的圣迹。祢见我已朝向祢怜悯之门、面向祢那仁慈之处。奉祢至美圣名与至尊属性，我祈求祢，在我面前开启祢恩赐之门，佑助我施行善举。上帝啊，所有名号与美质都属于祢！
 我的主啊！我贫乏，祢富足。我已面向祢，除祢之外脱离一切。求祢别停息祢仁慈的微风，更勿拒绝惠予我——祢赐予拣选仆人之圣美。

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10358 in Svenska'
 author = "Abdu'l-Bahá"
-tags = ['lang-sv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Undervisning"]
 +++
 Följande bön är avsedd att läsas dagligen av vännerna och av dem som undervisar om tron:
 O Du gode Herre! Pris vare Dig att Du har visat oss till vägledningens raka stråk, öppnat konungarikets portar och uppenbarat Dig genom Verklighetens sol. Till de blinda har Du givit syn, till de döva har Du givit hörsel. Du har uppväckt de döda, Du har berikat de fattiga, Du har visat vägen för dem som gått vilse, Du har fört dem med förtorkade läppar till vägledningens källa, Du har låtit den törstande fisken nå fram till verklighetens ocean och Du har inbjudit de vilsekomna fåglarna till nådens rosengård.

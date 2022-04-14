@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8108 in Dansk'
 author = "Báb"
-tags = ['lang-da', '', "Báb", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Báb", "category-unsorted", "cat-Standhaftighed"]
 +++
 Lovpriset være Du, o Herre, min Mest Elskede! Gør mig trofast i Din sag og giv at jeg må blive regnet blandt dem, der ikke har brudt Din pagt og fulgt deres egne tomme indbildningers guder. Gør mig da i stand til at indtage et sandhedens sæde i Din nærværelse, skænk mig et tegn på Din barmhjertighed og lad mig slutte mig til de tjenere, der ikke føler frygt og ej heller kastes i ulykke.
 

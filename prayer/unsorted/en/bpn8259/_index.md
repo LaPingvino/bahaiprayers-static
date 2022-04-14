@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8259 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ascension of Bahá’u’lláh"]
 +++
 #Lawh-i-Maryam
 ##Tablet to Maryam

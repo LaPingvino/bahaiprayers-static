@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8066 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Helbredelse"]
 +++
 Æret være Du, o Herre, min Gud! Jeg beder Dig ved Dit navn, hvorved Han, der er Din skønhed, er blevet sat på Din sags trone, og ved Dit navn, gennem hvilket Du forandrer alt og samler alt og kalder alt til regnskab og belønner alt og bevarer alt og understøtter alt - jeg beder Dig bevare i sikkerhed denne tjenerinde, der er flygtet for at søge tilflugt hos Dig og er søgt i ly hos Ham, i hvem Du selv er manifesteret, og har sat hele sin lid og tiltro til Dig.
 

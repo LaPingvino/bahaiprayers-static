@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4167 in American Indian'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-US', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nai-US', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Navajo"]
 +++
 Bik’ihojidlíigo haz’á lahgo, ‘índa dahooghangóó dóó dabinaagóó dóó kin hadaas áágóó. dóó hajéí dabiyi’góó, dóó nléí dzil dani’áágóó, dóó nléí yisdádahwiit’ééhgóó, dóó tsé’áán góne’ dóó tééh góyáá, dóó kéyah dah naazkaad bikáá’góó, dóó tálkáá’góó, dóó nléí kéyah tálkáá’ dah naaznilgóó, dóó dahootsogóó, dóó ha’át’éegi da ‘Aláahdi Diyin Nilíinii bee ‘ahil dahani’ góó dóó ‘Aláahdi Diyin Nilíinii dadílzingóó.
 

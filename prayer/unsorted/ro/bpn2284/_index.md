@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2284 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Seara"]
 +++
 O, Doamne, Dumnezeul şi Stăpânul meu, ţinta dorinţei mele! Acest slujitor al Tău caută să adoarmă la adăpostul îndurării Tale şi să se odihnească în baldachinul milostivirii Tale, implorând grija şi ocrotirea Ta.
 

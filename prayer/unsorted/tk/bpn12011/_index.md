@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12011 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Nowruz Ýazgysy"]
 +++
 Oldur Ägirt Uly.
     Eý meniň Taňrym! Seniň yşkyňda Oraza tutup, öz nebislerini Seniň halamaýan zatlaryňdan gorap saklanlaryň hatyrasyna Nowruzy baýram edip belläniň üçin, alkyş diňe Saňa laýykdyr.

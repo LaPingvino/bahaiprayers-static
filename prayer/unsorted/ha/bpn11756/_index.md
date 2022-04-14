@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11756 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gōdiya"]
 +++
 Ya jalla, Ubangiji Allāna ! Ina maka gōdiya da ka sā a cikin yardarka, na bāda gaskiya da tabbatarka, ka kubtar da ni daga cikin maƙiyanka, ka būɗe idānūna har na gāne da mummūnan abūbūwan da suke aikatāwa, ka kēɓē ni da duk wata rātaya da su, ka sā na maida duk al’amurrāna zuwa ga alhurmarka da karāmarka.
 Ina maka gōdiya, yā Ubangijina, da ka saukar mani daga gizāgizan yardarka, abūbūwan da suka kāre ni da habaicin kāfirai, kuma da ba’ar la’anannu, ka sā na kafa zūciyāta zuwa tunāninka, ka sā na yi nēsa da waɗanda suka ƙi gānēwa da hasken huskarka.

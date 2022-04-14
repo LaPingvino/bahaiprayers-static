@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13110 in Монгол хэл'
 author = "Abdu'l-Bahá"
-tags = ['lang-mn', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mn', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Абдул-Бахагийн 26 мөргөл"]
 +++
 Тэрээр Бурхан билээ. 
 

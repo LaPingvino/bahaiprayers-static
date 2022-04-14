@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6977 in Fiji'
 author = "Abdu'l-Bahá"
-tags = ['lang-fj', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fj', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-NA VEIVAKATAVULICI"]
 +++
 *O koya vakayadua e lakova na veikoro lelevu, veikoro lalai kei na veiyasana e na Matanitu oqo ka vakaitavi e na kena cakacakataki me curu maliwa na i tukutuku lagilagi ni Kalou, e dodonu me vakamuria na gaunisala ni veimasulaki oqo e na veimataka:
 

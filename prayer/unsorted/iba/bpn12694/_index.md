@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12694 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-PENGERAI"]
 +++
 ##Sambiang Pengerai ti Panjai
  Iya meh ti Pengubat, ti Penyukup, ti Pemantu, ti Pemadu

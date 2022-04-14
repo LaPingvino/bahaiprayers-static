@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4153 in American Indian'
 author = "Abdu'l-Bahá"
-tags = ['lang-nai-US', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nai-US', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Kumeyaay"]
 +++
 O Myha! O Myah!
 Mut-my-um mi-a-chesh peri-wee mup muk-u-wik, cun-up-uwip Ya-wu quaw-tie. Pi-cha me-na Myha chu-wutch wu-chow new-y Myha chu-wutch na. Ma-wik tea-pie nea chums, O Myha, we-ik-um nea ya-wu we-e, mingum super ach-chopie Myha.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9989 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Stredne dlhá povinná modlitba"]
 +++
 Prednáša sa každý deň ráno, na poludnie a večer
 *Ak si prajete modliť sa, umyte si ruky a počas umývania rieknite:

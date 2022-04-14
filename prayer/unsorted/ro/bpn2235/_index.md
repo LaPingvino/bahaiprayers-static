@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2235 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Însănătoşire"]
 +++
 Tu eşti Cel, o, Dumnezeul meu, al cărui nume aduce sănătate celor bolnavi, refacere celor suferinzi, potolire celor însetaţi, pace celor necăjiţi, călăuzire celor rătăciţi, înălţare celor umiliţi, bogăţie celor săraci, cunoaştere celor ignoranţi, lumină celor întunecaţi, veselie celor întristaţi, căldură celor înfriguraţi, onoare celor oprimaţi. Prin numele Tău, o, Doamne Dumnezeule, toate lucrurile create au fost puse în mişcare, cerurile au fost întinse, pământul întemeiat, norii ridicaţi în înălţimi pentru a-şi revărsa ploaia peste pământ. Aceasta este cu adevărat o dovadă a harului Tău întru toate făpturile Tale.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12991 in Kuanua'
 author = "Bahá'u'lláh"
-tags = ['lang-ksd', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ksd', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-A NIARING AIRA UMANA MINAT"]
 +++
 *Gon iat tikana niaring na vartulang Kai Baha'i ma da tur  guvai ma vatangia; Dat parika data tur (ria tikana tutana  na nurnur na vatangia mara nuknuk tue tara pupunang  Tuk a vavina I mat io ra pakana tinata "Koum bul kudar  natum tutana" da pukue ba "Koum vavina kudar, ma  natum vavina kudar." Ma "la" nakia "To." 
 

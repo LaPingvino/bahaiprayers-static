@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3144 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Vir die Heengeganes"]
 +++
 O my God! O U de vergewer van sondes, skenker van gawes, verdrywer van smart!
 

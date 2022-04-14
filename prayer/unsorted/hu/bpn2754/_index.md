@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2754 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-A Ridván tábla"]
 +++
 *(Részletek)
 *„A Ridván-ünnep ... arról emlékezik meg, hogy Bahá’u’lláh egy tizenkét napos időszakban jelentette be Prófétai Küldetését a bagdadi Ridván-kertben 1863 április-májusában, és melyre Ő úgy utal, mint ’az Ünnepek Királyára’... . A Ridván-ünnep első, kilencedik és tizenkettedik napja Szent Nap ... . [Bahá’u’lláh] egy Táblában úgy utal ezen Bejelentésére, mint “a legnagyobb öröm napjára”, és a Ridván-kertet úgy írja le, mint ’azon Helyet, melyről az egész teremtésre szórta Ő Nevének, a Mindenek Felett Irgalmasnak ragyogását’. ... Küldetésének bejelentését hívei évente a tizenkét napos Ridván-ünnep formájában ünneplik meg [április 21-május 2.], melyet Shoghi Effendi ’az összes bahá’í ünnep közül a legszentebbnek és legjelentősebbnek’ nevezett.” —Kitáb-i-Aqdas, Jegyzetek

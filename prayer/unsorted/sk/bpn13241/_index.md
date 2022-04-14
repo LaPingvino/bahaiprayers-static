@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13241 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Naw rúz"]
 +++
 Chvála buď Tebe, ó môj Bože, že si určil Naw-Rúz za slávnosť pre tých, ktorí dodržiavali pôst z lásky k Tebe a zdržiavali sa všetkého, čo sa Ti prieči. Daj, ó môj Pane, aby ich žiar a oheň Tvojej lásky, ktoré v nich Tebou nariadený pôst roznietil, zapálili pre Tvoju vec, a učiň, aby sa zaoberali Tvojou chválou a spomienkou na Teba.
 Keďže si ich okrášlil, ó môj Pane, ozdobou pôstu, ktorý si predpísal, ozdob ich tiež ozdobou Svojho prijatia skrze Svoju milosť a štedrú láskavosť. Pretože všetky ľudské činy závisia od Tvojej spokojnosti a sú podmienené Tvojím príkazom. Ak by si považoval toho, ktorý pôst porušil, za toho, kto ho dodržal, takýto človek bude započítaný medzi tých, ktorí pôst od večnosti dodržiavali. A ak by si nariadil, že ten, kto pôst dodržiaval, ho porušil, takýto človek bude započítaný medzi tých, ktorí prachom poškvrnili Šat Tvojho Zjavenia a medzi tých, ktorí sa ďaleko vzdialili od krištáľových vôd tohto životodarného Prameňa.

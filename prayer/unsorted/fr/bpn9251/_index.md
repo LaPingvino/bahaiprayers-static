@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9251 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Protection"]
 +++
 Ô mon Dieu, tu vois le Soleil de ta parole briller à l’horizon de ta ville-prison, car dans ses murs la Manifestation de ton être, Aurore de la lumière de ton unité, élève la voix pour te louer. 
 Et les doux parfums de ton amour se répandent sur tes cités et enveloppent tous les habitants de ton royaume.

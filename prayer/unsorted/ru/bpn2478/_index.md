@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2478 in Русский'
 author = "Abdu'l-Bahá"
-tags = ['lang-ru', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ru', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Вечер и ночь"]
 +++
 *О искатель Истины! Если желаешь, дабы Бог открыл око твое, ты должен взывать к Богу, молиться Ему и общаться с Ним в полночь, говоря:
 

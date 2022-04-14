@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BH00009GRA in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "Journey"]
+tags = ['lang-en', 'prayer-BH00009GRA', "author-Bahá'u'lláh", "category-Journey", "cat-Journey"]
 +++
 I have risen this morning by Thy grace, O my God, and left my home trusting wholly in Thee, and committing myself to Thy care.  Send down, then, upon me, out of the heaven of Thy mercy, a blessing from Thy side, and enable me to return home in safety even as Thou didst enable me to set out under Thy protection with my thoughts fixed steadfastly upon Thee.
 

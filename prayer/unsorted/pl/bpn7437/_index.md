@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7437 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Wysławianie i wdzięczność"]
 +++
 On jest Bogiem, wywyższony jest On, Pan potęgi i majestatu!
     

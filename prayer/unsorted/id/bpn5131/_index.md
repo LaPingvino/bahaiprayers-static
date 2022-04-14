@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5131 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Malam"]
 +++
 Bagaimana aku dapat tidur, ya Rabi Tuhanku, apabila mata mereka yang merindukan Engkau terjaga, karena terpisah daripada-Mu; dan bagai-manakah aku dapat berbaring istirahat sedangkan jiwa-jiwa para pencinta-Mu susah karena jauh dari kehadiran-Mu?
 

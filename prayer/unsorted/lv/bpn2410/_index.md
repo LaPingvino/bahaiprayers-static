@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2410 in Latviešu'
 author = "Bahá'u'lláh"
-tags = ['lang-lv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Mācības sludināšana"]
 +++
 Ak Dievs, Tu esi visu Savu Izpausmju Cēlonis, visu Pirmsākumu Pirmsākums, visu Atklāsmju Pirmavots, visas Gaismas Sākums! Es apliecinu, ka Tavs Vārds ir rota pie izpratnes debesīm, ka caur To ir uzvirmojusi Mācības vārdu jūra un Tava likteņa veltes ir dāvātas visu ticību ticīgajiem.
 Es lūdzu Tevi, dari mani bagātu, lai varu iztikt bez visa un lai tikai Tu vien esi man vajadzīgs. No Sava dāsnuma debesīm lej pār mani Savas pilnības lietu, kas liks man plaukt un zelt jebkurā no Tavām pasaulēm. Tad palīdzi man Savā stiprinošajā žēlsirdībā Tavu kalpu vidū Tavai Mācībai kalpot tā, lai manī atklājas tas, kā dēļ mani atcerēsies, kamēr vien pastāvēs Tava Ķēniņvalsts un kamēr vien ilgs Tava valdīšana.

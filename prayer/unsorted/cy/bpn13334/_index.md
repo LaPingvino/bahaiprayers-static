@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13334 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Evening"]
 +++
 Pa fodd y gallaf gysgu, O Dduw, fy Nuw, pan fo llygaid y rhai a hiraethant amdanat yn effro oherwydd eu hymnieulltuaeth oddi wrthyt; a pha fodd y gallaf orwedd i orffwys pan fo eneidiau Dy anwyliaid yn eu pellter oddi wrthyt?
 

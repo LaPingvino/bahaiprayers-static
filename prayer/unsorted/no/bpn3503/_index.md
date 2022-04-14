@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3503 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Beskyttelse"]
 +++
 Lovet være du, o min Gud! Du er den som ved et ord fra din munn fullstendig har omformet hele skaperverket, og ved et strøk av din penn har skilt dine tjenere fra hverandre. Jeg bevitner, o min Gud, at ved et ord talt av deg i denne åpenbaring ble alle skapte ting bragt til å utånde, og ved atter et annet ord ble alle slike som du ønsket, skjenket nytt liv ved din nåde og barmhjertighet.
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3941 in Hrvatski'
 author = "Bahá'u'lláh"
-tags = ['lang-hr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Službenice"]
 +++
 Kad bi spoznala slast naslova "O službenice moja!" odvojila bi se od svih ljudi, danju i noću odano zaokupljena u zajedništvu s Njim, koji je jedina želja ovoga svijeta.
 

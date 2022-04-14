@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1282 in Português (BR)'
 author = "Báb"
-tags = ['lang-pt', '', "Báb", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Báb", "category-unsorted", "cat-Ajuda"]
 +++
 Glória a Ti, ó Senhor meu Deus! Nada, em absoluto, escapa ao Teu conhecimento, nem há coisa alguma que de Ti possa evadir-se ou que possa frustrar o Teu Desígnio, quer nos céus ou na terra, do passado ou do futuro.
 Tu vês o Paraíso e os seus habitantes. Contemplas o reino abaixo e aqueles que ali habitam. Todos são apenas Teus servos, seguros dentro da Tua mão.

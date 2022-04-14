@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6331 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Rukwangali: NONDAPERO DIMWE"]
 +++
 Tanta asi: Oh Karunga,Karunga gwange ! Dwarekange komutwe gwange kumwe nouhungami woge ano ntembeli zange zigwaveka kumwe nehetakano. Yousili ove kwa kara nomauhwi nagenye ntani gomanzi unene. 
 Bahá’u’lláh

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7565 in Suomi'
 author = "Abdu'l-Bahá"
-tags = ['lang-fi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Lujuus Liitossa"]
 +++
 Hän on Jumala!
 Oi Herra minun Jumalani! Oi Sinä heikkojen auttaja, köyhien tuki ja puoleesi kääntyvien avuttomien pelastaja.

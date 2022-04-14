@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2409 in Latviešu'
 author = "Bahá'u'lláh"
-tags = ['lang-lv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Mācības sludināšana"]
 +++
 Lai slava Tev, visas pasaules Dievs un visu tautu Ilgojums! Ak Tu, Kas atklājies Visdiženākajā Vārdā, caur kuru no Tavas lielās gudrības jūras gliemežnīcām skatam pavērušās zināšanu un runas pērles, un Ticības apvāršņi tikuši rotāti ar Tavas parādīšanās saules gaismu.
 Piesaucot Tavu Vārdu, caur kuru Tu apliecināji Sevi Savas radības un Savu kalpu acīs, es Tevi lūdzu, dod spēku Saviem ļaudīm, lai Tava Mācība izplatītos Tavās zemēs un lai Tavas vadības un varas karogi tiktu pacelti Tavā valstī Tavu kalpu vidū.

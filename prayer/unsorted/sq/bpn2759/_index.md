@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2759 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Asambleja shpirtërore"]
 +++
 Sa herë hyni në dhomën e konsultimit, thuajeni këtë lutje me zemrën që ju rreh nga dashuria për Perëndinë dhe me gjuhën të pastruar nga gjithçka veç kujtimit të Tij, që Fuqiploti t'ju ndihmojë me dashamirësi për të arritur fitoren më të lartë.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12992 in Kuanua'
 author = "Bahá'u'lláh"
-tags = ['lang-ksd', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ksd', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-A NIARING AIRA UMANA MINAT"]
 +++
 *Na vatang ra varvagai a laptikai nae Allah-u-Abha! Ma na vatang gono ra umana pakana tinata ta vinun ma a lavuvat nae. 
 

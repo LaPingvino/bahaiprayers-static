@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7200 in ελληνικά'
 author = "Bahá'u'lláh"
-tags = ['lang-el', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ΣΤΑΘΕΡΟΤΗΤΑΣ ΣΤΗ ΣΥΝΘΗΚΗ"]
 +++
 Αυτός είναι ο Ισχυρός, ο Συγχωρών, ο Φιλεύσπλαχνος!
 

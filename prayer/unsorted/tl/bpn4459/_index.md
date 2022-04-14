@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4459 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pagtuturo"]
 +++
 Purihin Ka, O Panginoon kong Diyos! Isinasamo ko sa Iyo, sa Iyong Pangalan na walang sinumang tunay na nakakilala at ang kahalagahan ay hindi natarok ng sinumang kaluluwa; Isinasamo ko sa Iyo, sa Kaniya na Siyang Ulong-bukal ng Iyong Rebelasyon at Araw-Bukal ng Iyong mga tanda, na ang aking puso ay gawing isang sisidlan ng Iyong pag-ibig at ng gunita sa Iyo. Ihabi Mo ito, kung gayon, sa Iyong pinakadakilang Karagatan, upang dumaloy buhat doon ang buhay na tubig ng Iyong karunungan at ang mga kristal na daloy ng pagluwalhati at pagpupuri sa Iyo.
 

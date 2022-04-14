@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3499 in Norsk'
 author = "Abdu'l-Bahá"
-tags = ['lang-no', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Barn"]
 +++
 O min Herre! O min Herre!
  

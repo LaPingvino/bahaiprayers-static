@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8243 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ridván"]
 +++
 In the name of God, the Almighty, the All-Bountiful!
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13324 in Cymraeg'
 author = "Báb"
-tags = ['lang-cy', '', "Báb", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Báb", "category-unsorted", "cat-Assistance"]
 +++
 A oes unrhyw Symudwr anawsterau ond Duw? Dywedwch: Clod i Dduw! Ef yw Duw! Mae pawb yn weision Iddo, a phawb yn cadw Ei orchmynion!
 

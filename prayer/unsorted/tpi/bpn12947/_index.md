@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12947 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-UNITY"]
 +++
 O gutpela Papa!  Yu bin mekim kamap olgeta manmeri long wanpela papa na wanpela mama tasol.  Yu bin tokaut olsem olgeta i mas i stap insait long wanpela haus tasol.  Long ai bilong Yu, olgeta man i wokman bilong Yu na Yu lukautim olgeta insait long Haus Holi bilong Yu.  Olgeta i bung wantaim long Tebol bilong Blesing bilong Yu.  Olgeta i kisim lait long lait bilong Marimari bilong Yu.  
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8152 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-For Den Døde"]
 +++
 *(Bønnen for den døde skal fremsiges for bahá’íer over femten år.)
 

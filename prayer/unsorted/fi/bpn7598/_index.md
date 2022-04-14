@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7598 in Suomi'
 author = "Abdu'l-Bahá"
-tags = ['lang-fi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Yhdeksäntoista päivän juhla"]
 +++
 *Teidän tulee jatkaa yhdeksäntoista päivän juhlan viettämistä. Se on hyvin tärkeää, se on erittäin hyvä. Mutta kun saavutte kokouksiin, ennen kuin astutte sisään, vapauttakaa itsenne kaikesta, mitä on sydämessänne, vapauttakaa ajatuksenne ja mielenne kaikesta paitsi Jumalasta ja puhukaa sydämellenne. Että kaikki voisivat tehdä siitä rakkauden kokouksen, tehdä siitä valaistumisen lähteen, tehdä siitä sydämiä viehättävän kokouksen, ympäröidä tämän kokouksen korkeuden väen valolla, niin että olisitte kokoontuneina mitä suurimmassa rakkaudessa.
 

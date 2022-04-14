@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1225 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Louvor e Gratidão"]
 +++
 Evanescente encontra-se agora tudo o que floresceu no Paraíso da Tua transcendente unidade, ó meu Deus! Onde estão as nuvens das quais jorram a chuva da Tua misericórdia? A secar estão os ramos da árvore da Tua unidade, a perder as folhas da Tua majestade e sabedoria; onde está a primavera das Tuas dádivas e generosidade? Imóvel encontra-se a Arca da Tua Causa sobre o mar da Tua criação; onde estão os ventos da Tua graça e dos Teus favores? Encoberta por todos os lados encontra-se a Tua Lâmpada pelas tempestades da discórdia que sopram de todas as terras; onde está o globo da Tua benevolência e proteção?
 Tu vês, ó meu Senhor, como os olhos dessas pobres criaturas estão fixos sobre o horizonte das Tuas riquezas, como os corações desses destituídos estão voltados na direção do Teu poder. Imploro-Te, ó Tu que és o único Desejo daqueles que Te reconheceram e o objeto de adoração da criação inteira, agora que Tu os atraíste pela Tua Palavra mais elevada, não os mantenhas longe do Tabernáculo que Tu levantaste pelo Teu nome, o Todo-Glorioso.

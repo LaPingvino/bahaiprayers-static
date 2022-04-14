@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3489 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Middels lang obligatorisk bønn"]
 +++
 *Fremsies daglig, morgen, middag og aften.
 *La den som ønsker å be, vaske hendene, og mens han vasker dem, la ham si:

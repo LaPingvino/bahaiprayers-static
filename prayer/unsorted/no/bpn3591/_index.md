@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3591 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Innskutte dager"]
 +++
 De innskutte dager, fra og med 26. februar til og med 1. mars, bør være en tid viet forberedelse til fasten, en gjestfrihetens, nestekjærlighetens og gavenes tid.
  

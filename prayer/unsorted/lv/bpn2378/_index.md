@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2378 in Latviešu'
 author = "Bahá'u'lláh"
-tags = ['lang-lv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Cilvēce"]
 +++
 Lai slavēts ir Tavs Vārds, ak Dievs, mans Kungs!
 Tumsa ir nolaidusies pār visām zemēm, un ļaunie spēki ir apsēduši visas tautas. Tomēr cauri visam tam es jaušu Tavas gudrības mirdzumu un Tava likteņa spožo gaismu.

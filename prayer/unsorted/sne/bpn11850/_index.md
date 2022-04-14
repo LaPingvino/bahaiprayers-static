@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11850 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Ngudung/Bitapod/Bigupul"]
 +++
 *(Kabant Uluk Rohani)
 * Tibilang sidoh muu molot dewan- pingatur, nang leh doa tih dengan otin dek simodup odak pangirinduk Topa bia jolae bisig sok sua pak-eh panginatong ndu Iyoh, sak kadu Nyaa dek Paling-Bikuasa dengan sudi batue muu odak so’ont kejayaan ayuh.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3141 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Dag van God"]
 +++
 Verheerlik sy U Naam, o my God, omdat U die Dag geopenbaar het wat die Koning van Dae is, die Dag wat U aan U Uitverkorenes en U Profete in U mees voortreflike Tafels aangekondig het, die Dag waarop U die prag van die glorie van al U name op alle geskape dinge uitgestraal het. Groot is die geluksaligheid van wie ook hom in U rigting ingestel het, en in U teenwoordigheid ingegaan het, en die nadrukke van U stem gevang het.
 

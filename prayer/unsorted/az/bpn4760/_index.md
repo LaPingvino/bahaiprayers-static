@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4760 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Dünyaya Bağlanmamaq Duaları"]
 +++
 Alqış Sənə, Ey mənim Allahım! Mən Sənə və Sənin əlamətlərinə iman gətirmiş bir bəndənəm. Görürsən, Sənin mərhəmət qapına yönəlmiş və üzümü Sənin inayət sahilinə tutmuşam. Səni and verirəm ən gözəl adlarına və ən uca sifətlərinə - nemətlərinin qapısını mənim üzümə aç. Sonra isə yaxşı əməllərə müvəffəq eylə, Sən Ey bütün adlar və sifətlərin Sahibi!
 

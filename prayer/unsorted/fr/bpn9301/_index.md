@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9301 in Français'
 author = "Bahá'u'lláh"
-tags = ['lang-fr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Prières de souvenance"]
 +++
 *Cette prière est lue aux tombeaux de Bahá’u’lláh et du Báb. On la récite aussi fréquemment pour commémorer leurs anniversaires.
 

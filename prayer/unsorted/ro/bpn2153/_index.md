@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2153 in România'
 author = "Bahá'u'lláh"
-tags = ['lang-ro', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Calităţi Spirituale"]
 +++
 Slăvit fii Tu, Doamne, pentru că ţi-ai arătat iubirea faţă de omenire! O, Tu care eşti Viaţa şi Lumina noastră, călăuzeşte-i pe slujitorii Tăi pe calea Ta, îmbogăţeşte-ne prin Tine şi eliberează-ne de orice în afară de Tine.
 

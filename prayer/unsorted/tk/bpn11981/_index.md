@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11981 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Merhemet We Jomartlyk Dilemek"]
 +++
 Hu’Alla.
     Eý Taýsyz Taňrym! Eý bigäneden, garyndaşdan, baglanşykdan Päk bolan!

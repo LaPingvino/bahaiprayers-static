@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11703 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Arwalla"]
 +++
 *Kana wanke hannuwa, ka cē :
 Yā Allah, ka bā hannuwāna ƙarfi da īkon ɗaukar kitābinka; kada kōmi ya sā su falgaba. Kaucē su da shiga abinda bai shāfē su ba. A gaskiya, kai nē mai īko, ƙadīran.

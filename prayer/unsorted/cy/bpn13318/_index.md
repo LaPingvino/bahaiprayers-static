@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13318 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Common"]
 +++
 Gwynfydedig yw’r llecyn, a’r tŷ
 a’r fangre, a’r ddinas,

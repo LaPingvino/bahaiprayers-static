@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13015 in Nalik'
 author = "Bahá'u'lláh"
-tags = ['lang-nal', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nal', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-A Vaaroving i pana Naande di Waan Fis (Funeral)"]
 +++
 *Taaza vilaanaande la maskan a xulutung ka na raraf, kun a vaavis- faaruing ma di na ramaraat.
 

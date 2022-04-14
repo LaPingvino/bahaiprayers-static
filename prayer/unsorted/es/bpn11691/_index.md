@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11691 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ḥuqúqu’lláh"]
 +++
 ¡Glorificado seas, oh mi Señor compasivo! Te suplico, por el agitado océano de Tu santa expresión, y por las múltiples muestras de Tu suprema soberanía, y por las convincentes pruebas de Tu Divinidad, y por los misterios ocultos que se esconden en Tu conocimiento, que me concedas Tu gracia para servirte a Ti y a Tus escogidos y me permitas ofrecer obedientemente Tu Ḥuqúq, el cual has prescrito en Tu Libro.
 Soy aquel, oh mi Señor, que ha puesto sus afectos en Tu dominio de gloria, y se ha asido tenazmente de la orla de Tu generosidad. ¡Oh Tú que eres el Señor de todos los seres y el Gobernante del reino de los nombres! Te suplico que no me niegues las cosas que Tú posees ni me prives de lo que Tú has ordenado para Tus escogidos.

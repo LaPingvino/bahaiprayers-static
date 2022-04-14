@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3185 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Afsnyding"]
 +++
 Lof sy aan U, o my God! Ek is een van U dienaars wat aan U en U tekens geglo het. U sien hoe ek my na die deur van U genade ingestel het, en my gesig in die rigting van U vriendelike goedheid gedraai het. Ek smeek U, by U mees voorteflike titels en by U mees verhewe eienskappe, om my gesig vir die poorte van U skenkings oop te maak. Help my dan, om dit te doen wat goed is, o U Wat die Besitter van alle name en eienskappe is!
 

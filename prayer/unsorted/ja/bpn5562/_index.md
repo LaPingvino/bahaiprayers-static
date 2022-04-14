@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5562 in 日本語'
 author = "Bahá'u'lláh"
-tags = ['lang-ja', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-参堂(さんどう)の書(しょ)（一）"]
 +++
 ## 参堂の書(一)
 *　　　(この祈りはバブとバハオラの霊廟れいびょうにおいて用いられる。  また、バブとバハオラに関連する祝祭日にも用いられる。　　　)

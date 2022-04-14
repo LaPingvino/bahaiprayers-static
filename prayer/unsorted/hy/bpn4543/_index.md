@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4543 in հայերեն'
 author = "Bahá'u'lláh"
-tags = ['lang-hy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ԸՆԴԱՐՁԱԿ ՊԱՐՏԱԴԻՐ ԱՂՈԹՔ"]
 +++
 արտասնվում է օրը մեկ անգամ
 

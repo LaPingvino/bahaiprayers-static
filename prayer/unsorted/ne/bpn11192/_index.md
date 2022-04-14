@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11192 in नेपाली'
 author = "Bahá'u'lláh"
-tags = ['lang-ne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-उपवास"]
 +++
 हे मेरा प्रभु ! यी तिनै दिनहरू हुन् जुन दिनहरूमा आफ्ना सेवकहरूलाई तिमीले उपवास बस्ने आदेश गर्यौ। 
 

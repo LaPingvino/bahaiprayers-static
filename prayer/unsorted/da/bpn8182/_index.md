@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8182 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Fasten"]
 +++
 Disse er, o min Gud, de dage hvor Du pålagde Dine tjenere at overholde fasten. Med den smykkede Du indledningen til Dine loves bog, åbenbaret for Dine skabninger, og afdækkede Dine buds skatkamre for øjnene af alle, der er i Din himmel, og alle, der er på Din jord. Du har forlenet hver time af disse dage med en særlig egenskab, uudgrundelig for alle undtagen Dig, hvis kundskab omfatter alle ting. Du har endvidere tildelt hver sjæl en del af denne kraft i overensstemmelse med brevet om Din lov og skrifterne om Din uomstødelige dom. Hvert blad i disse bøger og skrifter har Du ydermere tilegnet hvert folk og hver slægt på jorden.
 

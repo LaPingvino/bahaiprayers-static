@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6159 in Euskara'
 author = "Bahá'u'lláh"
-tags = ['lang-eu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-eu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Bete beharrezkoa"]
 +++
 *(Egunean behin esan behar da eguerditik iluntzen duen artean)
 

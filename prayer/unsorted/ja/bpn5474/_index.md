@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5474 in 日本語'
 author = "Báb"
-tags = ['lang-ja', '', "Báb", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Báb", "category-unsorted", "cat-大業の勝利"]
 +++
 おお主よ。地上のすべての人々があなたの信教の楽園に入ることを可能ならしめ給え。それにより、あなたのご意向の境界線の外に留まる創造物はなくなりますように。
 　太古たいこより、あなたは望むままになす御力を持ち給い、望み給うすべてのことを超越し給う。

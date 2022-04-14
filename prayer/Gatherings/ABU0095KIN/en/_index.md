@@ -1,7 +1,7 @@
 +++
 title = 'Prayer ABU0095KIN in English'
 author = "Abdu'l-Bahá"
-tags = ['lang-en', '', "Abdu'l-Bahá", "Gatherings"]
+tags = ['lang-en', 'prayer-ABU0095KIN', "author-Abdu'l-Bahá", "category-Gatherings", "cat-Gatherings"]
 +++
 O Thou forgiving God! These servants are turning to Thy kingdom and seeking Thy grace and bounty. O God! Make their hearts good and pure in order that they may become worthy of Thy love. Purify and sanctify the spirits that the light of the Sun of Reality may shine upon them. Purify and sanctify the eyes that they may perceive Thy light. Purify and sanctify the ears in order that they may hear the call of Thy kingdom.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8261 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Martyrdom of the Báb"]
 +++
 Give ear, O My servant, unto that which is being sent down unto thee from the Throne of thy Lord, the Inaccessible, the Most Great. There is none other God but Him. He hath called into being His creatures, that they may know Him, Who is the Compassionate, the All-Merciful. Unto the cities of all nations He hath sent His Messengers, Whom He hath commissioned to announce unto men tidings of the Paradise of His good-pleasure, and to draw them nigh unto the Haven of abiding security, the Seat of eternal holiness and transcendent glory.
 Some were guided by the Light of God, gained admittance into the court of His presence, and quaffed, from the hand of resignation, the waters of everlasting life, and were accounted of them that have truly recognized and believed in Him. Others rebelled against Him, and rejected the signs of God, the Most Powerful, the Almighty, the All-Wise.

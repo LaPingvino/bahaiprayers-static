@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2227 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Încercări şi Dificultăţi"]
 +++
 O, Doamne, Dumnezeule! Tu ştii că omenirea este înconjurată de suferinţe şi calamităţi, împresurată de greutăţi şi necazuri. Fiecare încercare îl asaltează pe om şi fiecare vitregie crudă îl atacă ca un şarpe. Nu există pentru el nici adăpost, nici refugiu, decât sub aripa ocrotirii, apărării, vigilenţei şi pazei Tale.
 

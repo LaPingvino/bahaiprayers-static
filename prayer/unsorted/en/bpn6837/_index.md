@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6837 in English'
 author = "Báb"
-tags = ['lang-en', '', "Báb", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Báb", "category-unsorted", "cat-Sacrifice"]
 +++
 How numerous the souls raised to life who were exposed to dire humiliation in Thy Path for exalting Thy Word and for glorifying Thy divine Unity!  How profuse the blood that hath been shed for the sake of Thy Faith to vindicate the authenticity of Thy divine Mission and to celebrate Thy praise!  How vast the possessions that were wrongfully seized in the Path of Thy love in order to affirm the loftiness of Thy sanctity and to extol Thy glorious Name!  How many the feet that have trodden upon the dust in order to magnify Thy holy Word and to extol Thy glory!  How innumerable the voices that were raised in lamentation, the hearts that were struck with terror, the grievous woes that none other than Thee can reckon, and the adversities and afflictions that remain inscrutable to anyone except Thyself; all this to establish, O my God, the loftiness of Thy sanctity and to demonstrate the transcendent character of Thy glory.
 

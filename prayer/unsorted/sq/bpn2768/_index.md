@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2768 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Fëmijët dhe të rinjtë"]
 +++
 Lëvduar qofsh Ti, O Zot, Perëndia im! Bëj mirësisht që kjo foshnjë të mëkohet nga gjiri i mëshirës Sate të dhembshur dhe nga kujdesi Yt dashamirës, të ushqehet me frytet e pemëve të Tua qiellore. Mos lejo që ajo të lihet nën kujdesin e ndokujt tjetër veç Teje, sepse Ti Vetë, nëpërmjet forcës së vullnetit e të pushtetit Tënd sovran, e krijove dhe e thirre atë në jetë. Nuk ka tjetër Perëndi veç Teje, Fuqiplotit, të Gjithëdijshmit.
 

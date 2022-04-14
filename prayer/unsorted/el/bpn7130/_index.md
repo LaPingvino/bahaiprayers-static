@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7130 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ΓΕΝΙΚΕΣ ΠΡΟΣΕΥΧΕΣ ΓΙΑ ΤΟΥΣ ΝΕΚΡΟΥΣ"]
 +++
 Ω Θεέ µου! Ω Συ που συγχωρείς τις αµαρτίες, δωρητή των αγαθών, λυτρωτή στις συµφορές!
 

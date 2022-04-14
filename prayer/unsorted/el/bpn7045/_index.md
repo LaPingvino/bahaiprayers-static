@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7045 in ελληνικά'
 author = "Bahá'u'lláh"
-tags = ['lang-el', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ΜΕΣΑΙΑ ΥΠΟΧΡΕΩΤΙΚΗ ΠΡΟΣΕΥΧΗ"]
 +++
 ##ΜΕΣΑΙΑ ΥΠΟΧΡΕΩΤΙΚΗ ΠΡΟΣΕΥΧΗ
 - Απαγγέλλεται καθηµερινά Πρωί – Μεσηµέρι - Βράδυ|

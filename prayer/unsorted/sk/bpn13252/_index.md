@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13252 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tabuľka pre Aḥmada"]
 +++
 *„Tieto povinné modlitby spolu s niektorými ďalšími, ako napríklad modlitbu za uzdravenie a tabuľku pre Ahmada, Bahá’u’lláh obdaril zvláštnou silou a významom. A tak musia byť týmto spôsobom veriacimi aj prijímané. Mali by ich čítať s pevnou Vierou a presvedčením, že ich prostredníctvom môžu vstúpiť do bližšieho vzťahu s Bohom a plnšie sa stotožniť s Jeho zákonmi a nariadeniami.“
 *Z listu napísaného u mene Shoghi Effendiho.

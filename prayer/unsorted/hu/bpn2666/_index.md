@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2666 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Házasság"]
 +++
 *[A házassági eskü, amelyet menyasszonynak és vőlegénynek külön-külön el kell mondania a Szellemi Tanács által elfogadott két tanú előtt, a Kitáb-i-Aqdas rendelkezése szerint a következő]:
 

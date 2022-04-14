@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2797 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Mësimdhënia"]
 +++
 O Perëndi! O Perëndi! Ky është një zog krahëthyer dhe fluturimi i tij është shumë i ngadalshëm - ndihmoje atë që të fluturojë drejt majave të begatisë e të shpëtimit, që ta bëjë rrugën e tij, me gëzimin e lumturinë më të madhe, përmes hapësirës së pakufishme, që ta ngrejë melodinë e tij në Emrin Tënd Më të Lartë në të gjitha krahinat, të kënaqë veshët me këtë thirrje dhe të ndriçojë sytë duke soditur shenjat udhërrëfyese!
 

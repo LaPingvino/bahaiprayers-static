@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3234 in Afrikaans'
 author = "Abdu'l-Bahá"
-tags = ['lang-af', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Die Tafels van die Goddelike Plan"]
 +++
 O God! O God! Hierdie is 'n voël met 'n gebroke vlerk en sy vlug is baie stadig - help hom sodat hy na die toppunt van voorspoed en verlossing kan vlieg, bevleuel sy vlug met die uiterste vreugde en geluk dwarsdeur die grenslose ruimte, verhef sy melodie in U Allerhoogste Naam in alle streke, vervrolik die ore met hierdie stem, en verhelder die oë deur die tekens van leiding te aanskou!
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7284 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Dzieci"]
 +++
 O mój Boże! O mój Boże! Ty widzisz te dzieci, które są gałązkami drzewa życia, ptakami łąk zbawienia, perłami oceanu Twojej łaski, różami ogrodu Twego przewodnictwa.
    

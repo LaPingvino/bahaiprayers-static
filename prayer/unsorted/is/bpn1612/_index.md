@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1612 in Íslenska'
 author = "Báb"
-tags = ['lang-is', '', "Báb", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Báb", "category-unsorted", "cat-Andleg lausn"]
 +++
 Ó Drottinn! Hjá Þér leita ég athvarfs og sný hjarta mínu í átt til allra tákna Þinna.
 Ó Drottinn! Hvort sem ég er á ferðalagi eða heima við, í starfi mínu og atvinnu, set ég allt traust mitt á Þig.

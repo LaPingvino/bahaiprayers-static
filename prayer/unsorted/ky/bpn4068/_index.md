@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4068 in Кыргыз'
 author = "Abdu'l-Bahá"
-tags = ['lang-ky', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ky', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Маркумдар туурасыңда"]
 +++
 О, айланайын Кудайым! О, Сен! Күнөөлөрдү кечирген ырыскы жөнөткөн кырсыктан арылткан Кудурет.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5264 in Bosanski'
 author = "Bahá'u'lláh"
-tags = ['lang-bs', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Jutro"]
 +++
 Zahvaljujem Ti se, Moj Bože, jer si me probudio iz sna, oživio nakon nestanka i otrgao iz bunila. Probudih se jutros sa licem usmjerenim prema sjaju Svitanja Tvoga Otkrivenja kojim su nebesa Tvoje moći i Tvoga veličanstva obasjana, priznajući Tvoje znakove, vjerujući u Tvoju Knjigu, čvrsto se držeći za Tvoje Uzde.
 Zaklinjem Te snagom Tvoje volje i pokoravajućom moći Tvoje namjere, da od onoga što si mi u snu objavio napraviš čvrste temelje uporištu Tvoje ljubavi koja je pohranjena u srcima Tvojih voljenih, i koja je najbolji put objave znakova Tvoje milosti i blagonaklonosti.

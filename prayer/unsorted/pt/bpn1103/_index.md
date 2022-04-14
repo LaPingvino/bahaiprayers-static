@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1103 in Português (BR)'
 author = "Abdu'l-Bahá"
-tags = ['lang-pt', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Ensino"]
 +++
 Ó Deus, meu Deus! Vês que intensa escuridão envolve todas as regiões, como todos os países ardem com a chama da discórdia, e o fogo da guerra e da carnificina flameja no Oriente e no Ocidente. O sangue está a correr, os cadáveres espalham-se pelo chão e cabeças decepadas estão caídas sobre o pó do campo de batalha.
 Ó Senhor! Tem compaixão desses ignorantes e lança sobre eles o olhar de clemência e perdão. Extingue esse fogo de modo que as densas nuvens que encobrem o horizonte possam ser dispersas, o Sol da Realidade resplandeça com os raios da conciliação, essa intensa treva se dissipe e a resplendente luz da paz irradie sobre todos os países.

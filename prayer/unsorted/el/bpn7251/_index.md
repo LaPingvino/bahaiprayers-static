@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7251 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ΠΙΝΑΚΙ∆ΕΣ ΤΟΥ ΘΕΙΚΟΥ ΣΧΕ∆ΙΟΥ"]
 +++
 Αυτοί που διαχέουν τις ευωδίες του Θεού, να απαγγέλλουν αυτή την προσευχή κάθε πρωί:
 

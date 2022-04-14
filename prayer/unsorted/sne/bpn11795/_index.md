@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11795 in Bidayuh'
 author = "Bahá'u'lláh"
-tags = ['lang-sne', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Doa Sa’ant Nya’a Dek Kobos"]
 +++
 *(Ngubul Ndu Kobont Bunga)
 *	Doa sa’ant nyaa dek kobos obuah pakai tudu nyaa umur dek 15 sowak ki somu. “Tih sija doa wajib Baha’I dek obuah nai cara ngubak; doa dek obuah nang odak ndi na’an sodang pinganut dibokon mujuag motug. Doie perlu ngaduap Qiblih takal basa doa tih”. A Synopsis and Codification of the Kitab-i-Aqdas.

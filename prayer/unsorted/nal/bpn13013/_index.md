@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13013 in Nalik'
 author = "Bahá'u'lláh"
-tags = ['lang-nal', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nal', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-A Vaaroving i wan a Vaarmuxosing (Marriage)"]
 +++
 ##BAHA´I MARRIAGE:
 *La maskan a Kitáb-i-Aqdas o a Buk Faarala si Bahá’u’lláh, ka piaat, nis nadiaa di saxot di na vaamuxosaa, di na pitfiaataa a doring aang ka re si nis nadiaa di na tagoning a vaamuxasing la wan a kilaaing sin a Spiritual Asembli i la Bina:

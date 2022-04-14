@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2760 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Asambleja shpirtërore"]
 +++
 Mblidhuni së bashku me gëzim të pastër dhe, në fillim të mbledhjes, thoni këtë lutje:
 

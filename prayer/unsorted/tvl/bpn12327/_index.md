@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12327 in Tuvalu'
 author = "Báb"
-tags = ['lang-tvl', '', "Báb", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Báb", "category-unsorted", "cat-TOFOTOFOOGA MO FAIGATA"]
 +++
 E iloa fakallei ne Koe, O toku Atua, i fakalavelave ko oti ne vaiua ifo ki luga ia au mai i feitu katoa kae e seai se tino e maua ne ia o 
 fakaseai io me e fuli a latou vagana ko Koe. Au e iloa tonu loa ne au, mai i te uiga alofa o Koe, me e se mafai ne Koe o fakatupu a 

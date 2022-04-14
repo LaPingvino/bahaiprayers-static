@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2641 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-A szent tengerész táblája"]
 +++
 „Tanulmányozzátok a Szent Tengerész Tábláját, hogy megismerhessétek az igazságot, és megfontolhassátok, hogy az Áldott Szépség teljes körűen megjövendölt jövőbeli eseményeket. Vigyázzanak, kik értők!”   —`Abdu’l-Bahá
 

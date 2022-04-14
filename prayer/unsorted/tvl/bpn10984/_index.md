@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10984 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-TAPELETI O TE ASIASIIGA O ‘ABDU’L-BAHA"]
 +++
 *(Te talo tenei, ne fakaasi mai ne ‘Abdu’l-Bahá, e faitau i Tena Tanumate.  E mafai foki o fai ia koe loa ia koe.)
 So se tino e faitau ne ia a te talo tenei mo maulalo Whoso reciteth this prayer with lowliness and fervor will bring gladness and joy to the heart of this Servant; it will be even as meeting Him face to face.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2175 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Copii şi Tineri"]
 +++
 - ‘Abdu’l-Bahá
 El este Dumnezeu! O, Doamne, Dumnezeul meu! O, Doamne Dumnezeul meu! Tu vezi aceşti copii care sunt rămurelele pomului vieţii, păsările păşunilor mântuirii, perlele oceanului harului Tău, trandafirii grădinii călăuzirii Tale.

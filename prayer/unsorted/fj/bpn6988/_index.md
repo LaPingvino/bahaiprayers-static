@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6988 in Fiji'
 author = "Bahá'u'lláh"
-tags = ['lang-fj', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fj', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-INTERCALARY DAYS"]
 +++
 ##NA VEISIGA NI VEIVAKARAUTAKI KA VIRIKOTORI ME DA VAKANANUMA E NA VEIYABAKI
 *(INTERCALARY DAYS)

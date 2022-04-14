@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4680 in հայերեն'
 author = "Bahá'u'lláh"
-tags = ['lang-hy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ՊԱՍ"]
 +++
 *Բահայիների պասը պահվում է բահայի օրացույցի Ալա (Բարձունք) ամսի ընթացքում մարտի 2-ից մինչև մարտի 20-ը ներառյալ:
 

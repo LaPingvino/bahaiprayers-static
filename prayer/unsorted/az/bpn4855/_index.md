@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4855 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Toplantılarda oxunan dualar"]
 +++
 Sən Ey Mehriban Rəbb! Bunlar Sənin bəndələrindir ki, bu məclisdə toplaşıblar, Sənin mələkutuna yönəliblər, Sənin bəxşiş və nemətlərinə möhtacdırlar. Ey Allah! Həyatın bütün gerçəkliklərində gizli qalmış birlik nişanələrini açıb göstər. İnsan zatında saxladığın mübhəm qüvvələri zahir eylə.
 

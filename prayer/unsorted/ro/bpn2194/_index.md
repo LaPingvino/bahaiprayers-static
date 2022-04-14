@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2194 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Detaşare"]
 +++
 O, Doamne, Dumnezeul meu! Umple pentru mine cupa detaşării de toate lucrurile, şi în adunarea splendorilor şi darurilor Tale, bucură-mă cu vinul iubirii Tale. Eliberează-mă de asalturile patimii şi dorinţei, scutură-mă de cătuşele acestei lumi pământene, atrage-mă în extaz către tărâmul Tău ceresc şi înviorează-mă între slujitoarele Tale cu adierile sfinţeniei Tale.
 

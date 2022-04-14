@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11608 in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Niños"]
 +++
 ¡Él es Dios!
 ¡Oh bondadoso Señor! Somos pobres niños, pequeños y necesitados, y, aun así, somos plantas que han brotado junto a Tu arroyo celestial y retoños cubiertos de flores en Tu primavera divina. Haz que nos volvamos verdes y lozanos mediante las efusiones de las nubes de Tu misericordia; ayúdanos a crecer y desarrollarnos con los rayos del sol de Tus generosas dádivas, y haz que nos refresque la brisa vivificadora que sopla desde las praderas de la Verdad. Permítenos llegar a ser árboles florecientes cargados de frutos en el vergel del conocimiento, estrellas resplandecientes que brillen en el horizonte de la felicidad eterna, y lámparas radiantes que iluminen al conjunto de la humanidad.

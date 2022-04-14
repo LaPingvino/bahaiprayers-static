@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5305 in Bosanski'
 author = "Abdu'l-Bahá"
-tags = ['lang-bs', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Trudnice"]
 +++
 *‚O vjernice u Milosnika! Dužnost Vam je da odgajate djecu od njihove najranije dobi!...i nije nikako dozvoljeno da u tome popuštate.‛ - ‘Abdu’l-Bahá
 

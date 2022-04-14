@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1659 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Fyrirgefning"]
 +++
 Dýrlegur ert Þú, ó Drottinn Guð minn! Í hvert sinn sem ég dirfist að nefna Þig aftra mér stórfelldar syndir mínar og hörmuleg yfirtroðsla gagnvart Þér og mér finnst ég gjörsamlega sviptur náð Þinni og fullkomlega vanmegna að vegsama Þig. Mikið traust mitt á örlæti Þínu vekur þó að nýju von um Þig og fullvissa mín um veglyndi Þitt gefur mér kjark til að lofa Þig og biðja um það sem er í eigu Þinni.
 Ég sárbæni Þig, ó Guð minn, við náð Þína sem er æðri öllu sem skapað er og sem allir, sem umluktir eru hafdjúpum nafna Þinna bera vitni, að gefa mig ekki á vald mínu eigin sjálfi, því hjarta mitt hneigist til ills. Vernda mig því í virki Þínu og athvarfi um­hyggju Þinnar. Ég er sá, ó Guð minn, sem óska þess eins sem Þú hefur ákvarðað í krafti máttar Þíns. Allt sem ég hef kosið sjálfum mér er að njóta hjálpar náðarsamlegra tilskipana Þinna og ákvörðunar vilja Þíns og fá fulltingi táknanna um ákvörðun Þína og dóm.

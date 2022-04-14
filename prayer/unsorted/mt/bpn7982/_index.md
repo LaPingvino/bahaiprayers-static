@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7982 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Żamma fis-sod"]
 +++
 O Alla, Alla tiegħi! Jiena dort niedem lejK, u fis-sew Int Dak li Jaħfer, li Jħenn. 
 

@@ -1,0 +1,10 @@
++++
+title = 'Prayer BH08433 in Esperanto'
+author = "Bahá'u'lláh"
+tags = ['lang-eo', 'prayer-BH08433', "author-Bahá'u'lláh", "category-Teaching", "cat-Instruado"]
++++
+Laŭdegata estu Via nomo, ho mia Dio, ĉar Vi manifestis tiun Tagon, kiu estas la Reĝo de la Tagoj, la Tagon, kiun Vi anoncis al Viaj Elektitoj kaj Viaj Profetoj en Viaj plej elstaraj Epistoloj, la Tagon, en kiu Vi elverŝis la lumon de la gloro de ĉiuj Viaj nomoj super la tuta kreitaro. Granda estas la beniteco de ĉiu ajn, kiu direktis sin al Vi kaj eniris Vian ĉeeston kaj kaptis la sonojn de Via voĉo. Mi petegas Vin, ho mia Eternulo, je la nomo de Tiu, Kiun adorplene ĉirkaŭas la regno de Viaj nomoj, ke bongrace Vi volu asisti al tiuj karaj al Vi, por ke ili gloru Vian vorton inter la servantoj Viaj kaj disverŝu la laŭdadon al Vi inter Viaj kreitoj, por ke Via revelacio rave plenigu la animojn de ĉiuj vivantaj sur Via tero. 
+Ĉar Vi gvidis ilin, ho mia Eternulo, al la vivigaj akvoj de Via graco, permesu do je Via malavareco, ke ili ne estu tenataj for de Vi; kaj ĉar Vi alvokis ilin al Via tronejo, ne forpelu ilin do el Via ĉeesto, je Via ama prizorgo. Venigu sur ilin, kio plene malligos ilin de ĉio krom Vi, kaj igu ilin kapablaj altiĝi ĝis la sfero de Via proksimeco, tiel ke nek la leviĝo de la subpremanto nek la sugestoj de tiuj, kiuj malkredas je Via plej majesta kaj plej forta Memo, sukcesu deteni ilin de Vi.
+
+(Source category: Instruado)
+(Bahaiprayers.net ID: 4354)

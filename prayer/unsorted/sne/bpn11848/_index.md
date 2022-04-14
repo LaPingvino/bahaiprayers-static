@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11848 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Ngudung/Bitapod/Bigupul"]
 +++
 O Ingan Topa dek Pingapunt! Dimutik ulunt-ulunt Ingan mbok tikos tudu pritah Ingan bia kalik budi duoh pingungin Ingan. O Topa! Nai odak otin-eh paguh duoh tulen sak dek sok noh pod-pod iyoh jadin layak ndu pangirinduk Ingan. Nai odak roh eh noh tulen duoh kudus sak sokad jawak Sebonar Boton Onu la’ant jawak tunt iyoh. Nai odak boton-eh noh tulen duoh kudus sak iyoh ponai kilint sokad jawak Ingan. Nai odak kojit eh noh tulen duoh kudus sak dek sok noh iyoh ponai kilingah bogan pritah Ingan. 
 O Raja! Totap, koih dimutik lemah, pak-eh Ingan dek doras. Totap, koih dimutik botak, pak-eh Ingan dek kaya. Koih dimutik nyaa dek bikalik, jek Ingan leh Nyaa dek obuah kalik. O Raja! Ba leh masik tudu koih bia ngapunt koih; ngupah koih otak daya pimikir bauh sak koih pod-pod layak tudu pingodah Ingan bia jadin tipikat tudu pritah Ingan, sak koih la’ant nuguak pi’in pingidip, pod-pod bidudue odak opui pangirinduk Ingan, bia obuah kidip bauh pakai sok asong Roh Kudus daang abad dek jawak bikilap tih.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5564 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-殉教者とその家族"]
 +++
 ##殉教者とその家族
 

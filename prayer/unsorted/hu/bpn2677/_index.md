@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2677 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Isten ügyének kezei"]
 +++
 * Bahá’u’lláh újszülött Világközösségének Fő Tiszttartói, kiket Szövetsége Központjának tévedhetetlen Tolla azzal a kettős feladattal ruházott fel, hogy óvják Atyja Hitét és biztosítsák terjesztését. —Shoghi Effendi
 

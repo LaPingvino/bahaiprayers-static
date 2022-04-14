@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6266 in Luganda'
 author = "Bahá'u'lláh"
-tags = ['lang-lg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ABAZADDE"]
 +++
 *"Alina omukisa oyo, aiukira bazadde be, bwaba nga asaba Katonda we". - The Bab
  

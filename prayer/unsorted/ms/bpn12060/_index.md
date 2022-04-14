@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12060 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-CUBAAN & KESUKARAN"]
 +++
 Hilangkanlah duka laraku dengan rahmat-Mu dan kedermawanan-Mu, Ya Tuhan, Tuhanku, dan hapuskanlah kesengsaraanku melalui kedaulatan-Mu dan kekuatan-Mu. Engkau melihatku, Ya Tuhanku, dengan wajahku memaling kepada-Mu apabila kesedihan mengelilingiku dari semua penjuru. Aku memohon kepada-Mu, Ya Engkau Yang adalah Tuhan sekalian makhluk, dan melindungi semua benda yang kelihatan mahupun yang ghaib, demi Nama-Mu dengannya Engkau telah menakluki kalbu-kalbu dan jiwa-jiwa manusia, dan demi gelombang Samudera rahmat-Mu dan kecemerlangan Suria anugerah-Mu, untuk memasukkan daku dalam kalangan mereka yang tiada apa pun yang dapat menghalang mereka daripada memalingkan wajah mereka kepada-Mu, Ya Engkau Tuhan segala nama dan Pencipta syurga.
 

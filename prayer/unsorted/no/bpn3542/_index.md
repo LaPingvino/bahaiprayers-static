@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3542 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Prøvelser og vanskeligheter"]
 +++
 Lovpriset være ditt navn, o du som har grepet sjelens tøyler hos alle dem som har anerkjent deg, og som i din høyre hånd holder skjebnen til alle som er i himmelen og alle som er på jorden! Du gjør, gjennom din veldes kraft, hva du vil og forordner ved din viljes virksomhet hva du behager. De mest målbevisste menneskers vilje er som intet sammenlignet med din viljes bydende tegn, og dine ubøyeligste skapningers besluttsomhet blir til intet overfor de mangfoldige åpenbaringer av din urokkelige fasthet.
  

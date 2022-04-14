@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11509 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Curación"]
 +++
 ##Mujeres
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4849 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-İlahi təyid duaları"]
 +++
 Ya Rəbb, mənim Allahım! Sənə tərif və şükrlər olsun ki, məni mələkutun geniş yoluna yönəltdin, izn verdin ki, bu dorğu və geniş yolda addımlayım, Sənin nurunun şəfəqlərinə baxmaqla gözümü nurlandırdın, sirlər səltənətindən müqəddəslik quşlarının nəğmələrini mənə eşitdirdin və möminlər arasında Sənin məhəbbətinlə ürəyimi cəzb etdin.
 

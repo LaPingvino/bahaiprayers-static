@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9562 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Fondsen"]
 +++
 *Alle vrienden van God […] moeten in de mate waarin dat mogelijk is bijdragen, hoe bescheiden hun gift ook mag zijn. God belast geen mens boven zijn kunnen. Zulke bijdragen moeten uit alle centra, van alle gelovigen komen… O vrienden van God! Weest gij ervan verzekerd dat uw landbouw, uw industrie en uw handel gezegend zullen worden met veelvuldige toename voor deze bijdragen, en met goede gaven en gunsten. Hij die met één goede daad komt zal een tienvoudige beloning ontvangen. Het lijdt geen twijfel dat de levende Heer degenen die hun rijkdom op Zijn pad besteden overvloedig zal bevestigen.
 

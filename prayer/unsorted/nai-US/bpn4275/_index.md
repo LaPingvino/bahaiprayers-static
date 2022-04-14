@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4275 in American Indian'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-US', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nai-US', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lakota"]
 +++
 Waayantanin bluha
 Wakantanka mitawa

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11714 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Dare"]
 +++
 Ta yāyā zan nēmi barci, yā Allah Ubangijina, alhāli kuwa, ina ganin wanɗanda suke ƙaunar ka, bā su rumtsāwa don tsananin tsōron su yi nēsa da kai, kuma, ta yāyā zan mīƙē, in nēmi hūtū a kan gā shi ina ganin rāyukan māsu ƙaunar ka, suna kūkan sun yi nēsa da kai?
 Yā Ubangijina, nā damƙa rūhūna da duka gabāɗayāna a hannun dāmar ƙudurarka da kāriyarka. A cikin sō da yardarka nē, idan na kwanta nike aje kaina, kuma nike ɗagā shi.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13024 in Melpa'
 author = "Bahá'u'lláh"
-tags = ['lang-med', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-med', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-WAMP ON ITENG ATENGA E"]
 +++
 *Ya eia, Baha'i nga ik tengpi atenga wingti e wamp pora tek rakdok molk wei.  Wamp on e angtinangti molk ken wamp tenta ti ent wanka, wamp we pora angelek molk kumtei.  Wamp kolom e amp dam, ya ik mong kägl “nemnga kentmant wä enga kangem” e kelken “nemnga kentmant amp enga bäglam kentamant ampe” i nei.
 

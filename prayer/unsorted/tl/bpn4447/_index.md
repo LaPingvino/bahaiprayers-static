@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4447 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Pagkawalay"]
 +++
 O Diyos, aking Diyos! Punuin Mo para sa akin ang kopa ng pagkawalay sa lahat ng mga bagay, at sa kapulungan ng Iyong karilagan at mga pagpapala, pasayahin Mo ako sa alak ng pagmamahal sa Iyo. Palayain Mo ako sa mga pagsalakay ng silakbo ng damdamin at pagnanasa, patirin Mo ang aking kadena sa makalupang daigdig na ito, akitin Mo ako sa masidhing kagalakan tungo sa Iyong makalangit na kaharian, at panariwain ako sa kalipunan ng mga babaeng naglilingkod sa pamamagitan ng mga hinga ng Iyong kabanalan.
 

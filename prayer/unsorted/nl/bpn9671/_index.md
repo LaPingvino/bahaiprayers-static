@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9671 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Onderricht, uit de Tafelen van het Goddelijk Plan"]
 +++
 ##Geopenbaard aan de bahá’ís in de centraal gelegen staten
 

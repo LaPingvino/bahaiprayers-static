@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2221 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Încercări şi Dificultăţi"]
 +++
 Cu cât vei întâmpina mai multe greutăţi în lume, cu atât vei deveni mai desăvârşit.
 

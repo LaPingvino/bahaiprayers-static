@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6596 in 한국어'
 author = "Abdu'l-Bahá"
-tags = ['lang-ko', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-융합"]
 +++
 저희로 하여금 한 바다의 파도, 모든 인류
 

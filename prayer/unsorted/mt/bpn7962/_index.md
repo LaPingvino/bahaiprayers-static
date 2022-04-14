@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7962 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Fejqan"]
 +++
 O Alla, Alla tiegħi! Nitolbok f’ġieh l-oċejan tal-fejqan tiegħeK, u f’ġieh id-dwal ta’ Kewkbet il-Jum tal-grazzja tiegħeK, u f’ġieh l-isem tiegħeK li bih Int għalibt lill-qaddejja tiegħeK, u f’ġieh it-tixrid setgħani tal-Kelma tiegħek l-aktar għolja u s-saħħa tal-Pinna tiegħeK l-aktar sultana, u f’ġieh il-ħniena tiegħeK li kienet qabel il-ħolqien ta’ kulma jinsab fis-sema u fl-art, biex issaffini bl-ilmijiet ta’ tjibateK minn kull mard u taħwid, u minn kull għajja u djufija.
  

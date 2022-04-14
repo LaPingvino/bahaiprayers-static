@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5121 in Bahasa Indonesia'
 author = "Bahá'u'lláh"
-tags = ['lang-id', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Keteguhan Hati"]
 +++
 Berilah aku minum dari sungai-sungai keabadian- Mu yang harum semerbak, ya Tuhanku, dan mungkinkanlah daku mengecap buah pohon wujud-Mu, ya Harapanku! Biarlah aku minum sepuas-puasnya dari sungai-sungai cinta-Mu yang jernih, ya Kemuliaanku, dan izinkanlah daku berdiam di bawah naungan perlindungan-Mu yang abadi, ya Cahayaku! Berilah aku kesanggupan untuk mengembara di padang-padang rumput kedekatan-Mu, ya Kekasihku dan dudukkanlah daku di sebelah kanan takhta rahmat-Mu, ya Hasratku! Dari angin harum semerbak kegirangan-Mu, biarlah hembusan melewati diriku, ya Tujuanku, dan izinkanlah daku memasuki puncak-puncak firdaus kenyataan-Mu, ya Pujaanku! Biarlah aku mendengar lagu-lagu merpati ketunggalan-Mu, ya Yang Cemerlang, dan gerakkanlah daku melalui roh kekuasaan dan kekuatan-Mu, ya Pemeliharaku!
 

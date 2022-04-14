@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11386 in தமிழ்'
 author = "Bahá'u'lláh"
-tags = ['lang-ta', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-பாதுகாப்பு"]
 +++
 துன்பத்திலிருந்து விடுபட விரும்புவீராயின், சர்வ கருணைமிக்கவரின் எழுதுகோலினால் வெளிப்படுத்தப்-பட்டுள்ள இப்பிரார்த்தனையைக் கூறுவீராக:
 

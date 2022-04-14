@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8529 in 简体中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hans', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hans', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-超脱"]
 +++
 我的上帝啊！我不知道在祢的王国，祢所点燃的是何种圣火，尘土遮盖不了它的光辉，水也无法熄灭它的火焰，世人无能抗拒它的力量，接近它并听其烈烈燃烧之声者，必蒙福佑。
 我的上帝啊！有人因祢博大恩惠而得以接近它，有人却在祢的日子里耍手段而被阻挠。凡奔向它而达于目的者，都因仰望祢的华美，在祢圣道上奉献了生命，继而升向祢，除祢之外超脱一切。

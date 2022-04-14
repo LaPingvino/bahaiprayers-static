@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2686 in Magyar'
 author = "Báb"
-tags = ['lang-hu', '', "Báb", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Báb", "category-unsorted", "cat-Lelki növekedés"]
 +++
 Dicsőíttessék a Te Neved, ó, Urunk, Istenünk! Te vagy, valóban, a láthatatlan dolgok Ismerője. Rendelj számunkra olyan javakat, melyeket a Te mindent átfogó tudásod tud kimérni. Te vagy a korlátlan hatalmú Úr, a Mindenható, a Legimádottabb.
 

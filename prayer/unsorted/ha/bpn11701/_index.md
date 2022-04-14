@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11701 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Sallar Farilla Gajera"]
 +++
 *Idan kā zāɓi yin wannan salla, a bāyan kā yi arwalla, sai ka jā wannan āyā tsakānin tsakiyar rānā da fāɗuwarta, sau guda kōwace rānā.
 

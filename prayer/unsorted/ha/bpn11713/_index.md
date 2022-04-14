@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11713 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Sāfe"]
 +++
 Nā tāshi wannan sāhiya cikin alhērinka yā Allah. Nā huta daga gida, cikin cēto da dōgara garēka. Ka sauko mini albarka daga samāniyar jin-ƙanka. Ka kuma maida ni gida lāfiya, kamar yadda ka bā ni uzunin huta cikin kiyāyēwarka.
 Bā wani Allah sai kai, kai kaɗai kake, mafi kwatamci, mai sani da basīra. 

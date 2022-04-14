@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4750 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Hifz duaları"]
 +++
 Ey mənim Rəbbim! Sən bilirsən ki, insanlar dərd-bəla və fəlakətlərlə əhatə olunub, iztirab və çətinlik içindədirlər. Hər cür sınaq insana hücum edir və cürbəcür şiddətli bəlalar əjdaha kimi onun üstünə gəlir. Onun üçün Sənin himayədar, hifzedici, qoruyucu və qayğı qanadının altından başqa bir sığınacaq və pənah yoxdur.
 

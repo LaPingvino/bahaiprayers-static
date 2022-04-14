@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12980 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-TABLET OF VISITATION - 'Abdu'l-Baha"]
 +++
 ##TABLET OF VISITATION - 'Abdul-Bahá’í 
 

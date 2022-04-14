@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4764 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Dünyaya Bağlanmamaq Duaları"]
 +++
 Ey Allah, mənim Allahım! Mənim üçün inqita piyaləsini doldur və Sənin cəlal və ehsan məclisində Öz məhəbbətinin şərabı ilə məni xoşhal eylə. Məni ehtiras və həvəsin hücumlarından qoru, bu rəzil dünyanın qandallarından məni azad et, məni heyranlıqla Öz uca səltənətinə cəzb eylə və mələklər arasında Sənin müqəddəslik nəfəsinlə məni təravətləndir.
 

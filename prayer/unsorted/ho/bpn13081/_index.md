@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13081 in Hiri Motu'
 author = "Bahá'u'lláh"
-tags = ['lang-ho', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ho', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-HANUABOI GURIGURI"]
 +++
 Lauegu Dirava e, lauegu Biaguna, lauegu ura ena Tahua Gauna!  Oiemu hesiai tauna ia ura mahuta Oiemu bogahisihisi ena keruma henunai.  Ia ura laga ani Oiemu hariharibada ena palai henunai bona Oi ia noinoi Oi naria bona Oi gimaia totona. 
 

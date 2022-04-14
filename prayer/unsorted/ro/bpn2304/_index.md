@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2304 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Viitoare Mame"]
 +++
 Domnul meu, Stăpânul meu! Îţi aduc laude şi îţi mulţumesc pentru favoarea ce ai acordat-o umilei Tale slujitoare, sclava Ta care Te roagă şi Te imploră, căci Tu, cu adevărat, ai călăuzit-o spre Împărăţia Ta de netăgăduit, pentru că ai făcut-o să audă Chemarea Ta preamărită, în această lume terestră şi să vadă Semnele Tale care mărturisesc apariţia suveranităţii Tale victorioase asupra tuturor lucrurilor.
 

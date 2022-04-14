@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11588 in Español'
 author = "Bahá'u'lláh"
-tags = ['lang-es', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-es', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Mujeres"]
 +++
 ¡Gloria sea a Ti, oh mi Dios! Una de Tus siervas, que ha creído en Ti y en Tus señales, se ha puesto a la sombra del árbol de Tu unicidad. Dale de beber, oh mi Dios, por Tu Nombre, el Manifiesto y el Oculto, de Tu selecto Vino sellado, para que la aleje de sí misma y haga que esté enteramente consagrada a Tu recuerdo y completamente desprendida de cualquiera que no seas Tú.
 Ya que Tú le has revelado el conocimiento de Ti, oh mi Señor, no le niegues Tu gracia, mediante Tu bondad; y ya que la has llamado hacia Ti, no la alejes de Ti, mediante Tu generosidad. Provéela, pues, con aquello que exceda a todo lo que pueda encontrarse en Tu tierra. Tú eres, verdaderamente, el Munificente, Cuya gracia es ilimitada.

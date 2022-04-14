@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7983 in Malti'
 author = "Bahá'u'lláh"
-tags = ['lang-mt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tagħlim"]
 +++
 Ikun imkabbar l-isem tiegħeK, O Alla tiegħi, għax Int urejt il-Jum li hu Sultan il-Jiem, il-Jum li Int ħabbart mill-Magħżulin tiegħeK u lill-Profeti tiegħeK fit-Twavel l-aktar eċċellenti tiegħeK, il-Jum li fiħ Int xerridt id-dija tal-glorja ta’ ismijieteK kollha fuq il-ħlejjaq kollha. Kbirs hi qdusit dak li ntelaq lejK, u daħal fil-preżenza tiegħeK, u qabad il-ħsus ta leħneK.
 

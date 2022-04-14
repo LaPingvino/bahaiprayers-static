@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10465 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-gil', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Toara ni Bong"]
 +++
 Atuau au Ai ao au Oota! Boong ake ko a tia n ingoanii bwa te Ayyám-i-Ha inanon am boki a bon tia ni moanaki O Ngkoe teuare Ueaia Aara ni Kabane, ao te aki mamatam are am Been ae moan baan te rietata e a tia ni kawenei kaetieti nakoia ni kabane ake inanon abanuean Am karikibwai bwa a na karaoa nanona e a uakaan. I bubuti nakoim, O au Uea, bwa man boong aikai ao mairouia ni kabane inanon te tai ae a bane n tinea kaon am kaetieti nako, ao n taua bain am kanoa n reirei, ni kataua nako aoia n tatabemaniia tamnei bwa a na anganaki te tabo inanon Oon am Marae, ao te kaintekateka n te Kaotioti ibukin raneanean Ootan Moam. 
 Aikai O au Uea, bon am toro ake akea te aananga ni babakaniwai are tauia rikaaki man are ko a bon tia ni karuoi inanon am boki. A bon tia ni boobaraaki Imatan am Waaki, ao ni karekea am boki ma te angimatoa are bungiaki mai iroum, ao ni karaoa nanon are ko a tia ni koreia nakoia ao rineia bwa a na iria n aron are ea tia ni karuoaki Mairoum. 

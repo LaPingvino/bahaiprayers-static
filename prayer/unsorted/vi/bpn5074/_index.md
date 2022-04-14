@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5074 in Tiếng Việt'
 author = "Bahá'u'lláh"
-tags = ['lang-vi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-vi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Trẻ Em"]
 +++
 Lạy Thượng Đế của con, Ngài là Đấng mà các Danh đem lại sự cứu chữa cho những kẻ đau yếu, sức khoẻ cho những kẻ tật nguyền, sự thỏa mãn cho những kẻ khao khát, sự bình an cho những tâm hồn rối loạn, sự chỉ đường cho những kẻ lạc lầm, sự tôn vinh cho những kẻ tủi nhục, sự giàu có cho những kẻ nghèo nàn, sự minh giải cho những kẻ dốt nát, ánh sáng cho những tâm hồn sầu muộn, niềm vui cho những kẻ đớn đau, hơi ấm cho những cõi lòng băng giá, sự phục quyền cho những kẻ bị áp bức. Lạy Thượng Đế của con, bởi Danh Ngài vạn vật trở nên sinh động, các cõi trời rộng mở, trái đất được dựng nên, mây bốc lên cao và mưa đổ xuống đất. Quả thật, đây là bảo chứng của hồng ân Ngài đối với vạn vật.
 Bởi vậy con cầu xin Danh Ngài là Danh mà Ngài biểu hiện tính thiêng liêng của Ngài và nâng Chánh Đạo Ngài lên trên toàn thể tạo vật, con cầu xin các tôn hiệu ưu việt của Ngài, các đặc tính tối cao của Ngài và tất cả các phẩm chất đã khiến Bản thể cao cả và siêu việt của Ngài được ca tụng lẫy lừng, ngay trong đêm nay xin tuôn đổ xuống những cụm mây bác ái, những làn nước chữa bệnh của Ngài trên hài nhi nhỏ bé này mà Ngài đã kết liền với Bản thể Vinh quang tột cùng, trong Vương quốc Sáng tạo của Ngài. Lạy Thượng Đế của con, xin mặc cho cháu bé chiếc áo sức khoẻ và an lành, và lạy Đấng Rất Kính yêu của con, xin giữ cho cháu khỏi mọi ưu phiền và bệnh tật và khỏi bất cứ điều gì không thích hợp với Ngài. Quả thật, quyền năng của Ngài cân bằng vạn vật. Ngài quả là Đấng Toàn năng, Đấng Tự hữu.

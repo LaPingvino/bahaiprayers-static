@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2832 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Sprova e vështirësi"]
 +++
 O Zot, Perëndia im dhe Streha ime në hallet e mia! Mburoja ime dhe Tenda ime në mjerimet e mia! Azili e Strehimi im në rast nevoje, dhe Shoku im në izolimin tim! Ngushëllimi im në ankthin tim dhe mik i dashur në vetminë time! Larguesi i dhembjeve të mjerimeve të mia dhe Falësi i mëkateve të mia!
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8773 in 繁體中文'
 author = "Bahá'u'lláh"
-tags = ['lang-zh-Hant', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-zh-Hant', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-中篇必誦禱文"]
 +++
 *每日早上、中午和晚上吟誦
 *凡意欲禱告者，必先淨手，期間吟誦：

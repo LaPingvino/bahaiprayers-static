@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2683 in Magyar'
 author = "Báb"
-tags = ['lang-hu', '', "Báb", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Báb", "category-unsorted", "cat-Lelki növekedés"]
 +++
 Urad nevében, Aki a Teremtő, az Uralkodó, a Mindeneket Megelégítő, a Legmagasztosabb, Kinek segítségét minden ember esdekelve kéri.
 

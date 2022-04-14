@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4546 in հայերեն'
 author = "Abdu'l-Bahá"
-tags = ['lang-hy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ԵՐԵԿՈ ՈՒ ԳԻՇԵՐ"]
 +++
 Ո՜վ Ճշմարտության փնտրող: Եթե ցանկանում ես, որ Աստված բանա քո աչքը, դու պետք է կոչ անես Աստծուն, աղոթես Նրան ու շփվես Նրա հետ կեսգիշերին` ասելով.
 

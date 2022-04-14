@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4925 in Vanuatu'
 author = "Abdu'l-Bahá"
-tags = ['lang-bi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-bi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-FAND"]
 +++
 *Ol fren blong God … oli sud givim sam samting, nomata i smol tumas. God i no save putum wan hevi long eni man we hem i no inaf blong wokem. Ol Senta mo ol biliva i mas givim sam samting long Fand…O fren blong God! Yu mas save gud. Taem yu givim sam samting, ol garen blong yu, ol wok blong yu, mo ol bisnis blong yu oli save kam antap big wan, mo ol gudfala samting i save kam long yu. Man we i mekem wan gud wok bambae hem i save kasem ol gud samting we i bigwan ten taem bitim wanem hem i bin givim.  Long saed blong olgeta we i spendem mane blong olgeta long rod blong God, i tru tumas se Masta blong yumi, we i laef oltaem, bambae i mas givim bigfala sapot blong mekem olgeta i kam moa strong.
 

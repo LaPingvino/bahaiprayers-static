@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7595 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pyhän merenkulkijan muistio"]
 +++
 *Bahá'u'lláh ilmaisi Pyhän merenkulkijan muistion Baghdádissa. Pyhä merenkulkija on viittaus Bahá'u'lláhiin itseensä, ja muistiossa mainittu arkki on Hänen asiansa arkki.
 *Shoghi Effendi

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9737 in Nederlands'
 author = "Abdu'l-Bahá"
-tags = ['lang-nl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Geestelijke Raad"]
 +++
 *Gebed om bij de sluiting van de vergadering van de Geestelijke Raad te zeggen.
 

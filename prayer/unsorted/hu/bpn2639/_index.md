@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2639 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Emlékima Bahá’u’lláh sírjánál"]
 +++
 *[Ezt az imát olvassuk Bahá’u’lláh és a Báb Sírszentélyében, és gyakran használjuk az évfordulóikról való megemlékezésekben is.]
 

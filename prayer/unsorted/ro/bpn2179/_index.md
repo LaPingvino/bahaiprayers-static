@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2179 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Copii şi Tineri"]
 +++
 - ‘Abdu’l-Bahá
 O, Doamne Dumnezeul meu!

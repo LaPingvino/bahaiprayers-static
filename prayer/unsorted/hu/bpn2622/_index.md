@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2622 in Magyar'
 author = "Bahá'u'lláh"
-tags = ['lang-hu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Dicséret és háládatosság"]
 +++
 Dicsértessél és dicsőíttessél ó, Uram, én Istenem! Miként említhetnélek Téged, mikor bizonyos vagyok, hogy semmilyen nyelv, bármilyen mély légyen is bölcsessége, nem tudja Neved illendőn dicsérni, sem az emberi szív madara, bármilyen nagy légyen is vágyódása, sohasem remélheti, hogy Fenséged és megismerésed mennyországába szárnyalhasson.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11197 in नेपाली'
 author = "Abdu'l-Bahá"
-tags = ['lang-ne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-आध्यात्मिक सभा"]
 +++
 *आध्यात्मिक सभाको विसर्जन समयमा गरिने प्रार्थना । 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12284 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TUPU AKA FAK-TE-AGAAGA"]
 +++
 Mai i Tou matagofie, O te Fagasele Tokotasi, Koe ko te tuku atu ote mainaaga ki te lalolagi!  A ka’aga ote afi o te mavae ko sunu ia au, ako toku se-faka-logo ko oti ne liua i ei a toku loto i loto ia au.  Au e sili atu kia Koe, i Tou Igoa Tafasili i te Takutakua, O ko Koe ko te Manakoga o te lalolagi mo te Fapelepele o tino katoa, ke talia mai ko laumatagi o Tau musumusuuga kae faka-tummau a toku agaaga, ko Tou leo gali ke lagona ki toku taliga, ko oku mata ke lavea a Au failoga ako Tou mainaaga ke fakaasi mai i 
 fakaasiiga o Ou igoa mo Ou uiga llei, O ko Koe i Ona lima e puke i ei a mea katoa!  

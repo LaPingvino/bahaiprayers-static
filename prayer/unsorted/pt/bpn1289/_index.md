@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1289 in Português (BR)'
 author = "Báb"
-tags = ['lang-pt', '', "Báb", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Báb", "category-unsorted", "cat-Beneplácito"]
 +++
 Ordena para mim, ó Senhor, todas as coisas boas que criaste, ou que criarás, e protege-me de qualquer mal que Tu abomines dentre as coisas que tens causado ou causarás a existir. Em verdade, o Teu conhecimento abrange todas as coisas. Louvado sejas Tu! Verdadeiramente, nenhum Deus há além de Ti, e nada, em absoluto, nos céus ou na terra e em tudo o que entre eles existe, jamais poderá frustrar o Teu Desígnio. Em verdade, potente és Tu sobre todas as coisas.
 Longe esteja da sublimidade do teu Ser, ó meu Deus, que alguém busque a Tua benevolência ou o Teu favor. Longe esteja da Tua transcendente glória que alguém suplique a Ti as evidências das Tuas dádivas e da Tua terna misericórdia. Demasiado elevado és Tu, para que qualquer alma implore a revelação de Tua benévola providência e amoroso cuidado, e demasiadamente santificada é a Tua glória, para que alguém Te peça os eflúvios das Tuas bênçãos e da Tua generosidade e graça celestial. Em todo o Teu reino do céu e da terra, o qual é dotado de múltiplas graças, Tu és imensuravelmente glorificado acima de tudo a que se pudesse atribuir qualquer identidade.

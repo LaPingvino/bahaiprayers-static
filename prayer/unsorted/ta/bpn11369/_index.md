@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11369 in தமிழ்'
 author = "Bahá'u'lláh"
-tags = ['lang-ta', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-பற்றுறுதி"]
 +++
 கடவுளே, என் கடவுளே! குற்றங்களை உணர்ந்து நான் உந்தன்பால் திரும்பியுள்ளேன்; மெய்யாகவே நீரே மன்னிப்பவரும், இரக்க-முடையவரும் ஆவீர்.
 

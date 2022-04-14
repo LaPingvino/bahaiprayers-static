@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3697 in Eesti'
 author = "Báb"
-tags = ['lang-et', '', "Báb", "unsorted"]
+tags = ['lang-et', 'prayer-', "author-Báb", "category-unsorted", "cat-Eraldatus"]
 +++
 Oo Issand! Sinu juurest otsin ma varjupaika ja kõigi Sinu märkide järgi sean oma südame. Oo Issand! Olles reisil või kodus, ametis või tööl, panen ma kogu oma lootuse Sinule.
 Luba siis mulle oma piisavat abi, et see võiks teha mind sõltumatuks kõikidest asjadest, oo Sina, kes Sa oled ületamatu oma halastuses!

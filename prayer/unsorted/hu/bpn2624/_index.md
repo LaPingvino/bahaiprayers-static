@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2624 in Magyar'
 author = "Báb"
-tags = ['lang-hu', '', "Báb", "unsorted"]
+tags = ['lang-hu', 'prayer-', "author-Báb", "category-unsorted", "cat-Dicséret és háládatosság"]
 +++
 Dicsőített és magasztalt vagy, ó, Isten! Add, hogy a szent jelenléted elé való járulás napja hamar elérkezzen. Vidítsd fel szívünket szereteted és jó tetszésed erejével, és adj nékünk kitartást, hogy készségesen alávessük mi magunkat Akaratodnak és Parancsodnak. Bizony, a Te tudásod átölel mindeneket, miket teremtettél, és miket teremteni fogsz, és mennyei hatalmad felülmúl mindent, amit létre hívtál, vagy létre fogsz hívni. Nincs más magasztalandó, csak Te, nincs más kívánandó, csak Te, nincs más imádandó, csak Te, és nincs más szeretni való, csak a Te jó tetszésed.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9336 in Malagasy'
 author = "Bahá'u'lláh"
-tags = ['lang-mg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TOETRA ARA-PANAHY"]
 +++
 Omem-boninahitra Ianao, ry Tompo Andriamanitro ô! Misaotra Anao aho noho izay niantsoanao ahy tamin’ny fahavelomana amin’ny Andronao, ary noho izay namenoanao ny Fitiavanao sy ny Fahalalanao ao amiko.
 Mitalaho Aminao aho, noho ny Anaranao, izay nampitranga ny voahangy tsaran’ny Fahendrenao sy ny Teninao avy amin’ny tahirin’ny fon’ny Mpanomponao izay eo Akaikinao, ary koa avy amin’ny Kintan’ny Marainan’ny Anaranao, Ilay Mpangoraka, izay nandefa ny tarany amin’ireo rehetra izay any an-danitrao sy ny ety an-taninao, mitaraina Aminao aho hanome ahy, noho ny Fahasoavanao sy ny Hamoramponao, ireo hamoraponao mahatalanjona sy miafina.

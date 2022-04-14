@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6658 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-성스런 수부(水夫)의 서한"]
 +++
 *“성스러운 수부의 서한을 연구하여 그대들이 진리를 알도록 하고, 축복받은 아름다움께서 앞 일을 충분히 예언하셨음을 생각하라. 알아보는 이들은 조심할 지어다!” -압돌바하
 

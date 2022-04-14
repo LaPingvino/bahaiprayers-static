@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10982 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TAPELETI O IA FAI MALAGA MANA"]
 +++
 *“Tauloto a te Tapeleti o te Ia Fai Malaga Mana ke iloa ne Koe a te mea tonu, kae mafaufau i te Gali Faka-manuiagina ko oti ne valo mai a mea tupu mai i mua.  Fakailoa atu kia a latou ko la e atafia e latou, ke faeteete!” –
 Abdu’l-Bahá

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5748 in ภาษาไทย'
 author = "Abdu'l-Bahá"
-tags = ['lang-th', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-th', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-บทอธิษฐาน ณ สถูปของพระอับดุลบาฮา"]
 +++
 ##บทอธิษฐาน ณ สถูปของพระอับดุลบาฮา
 *(ใช้สวดเป็นการส่วนตัวได้ด้วยเช่นกัน)

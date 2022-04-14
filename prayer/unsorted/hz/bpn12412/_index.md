@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12412 in Namibia'
 author = "Bahá'u'lláh"
-tags = ['lang-hz', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hz', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Rugciriku : NDAPERO YAHEPERO"]
 +++
 Ame kuna kuvitongonona, Ove Karunga wande, ashi Ove wa ntjito ni ku yive nakukutongamena. Napura, paruvede runo, ghupironkondo wande nkondo doye, uhutu wande nauntungi ghoye.
 	Kundereko nka Karunga wakupita poye, Muvateli muViponga, Mukalipo panaumoye.

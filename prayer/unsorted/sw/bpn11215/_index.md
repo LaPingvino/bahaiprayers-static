@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11215 in Kiswahili'
 author = "Abdu'l-Bahá"
-tags = ['lang-sw', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sw', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-BARAZA LA KIROHO"]
 +++
 *Wakati wowote muingiapo chumba cha mashauriano semeni sala hii kwa moyo upumao na mapenzi ya Mungu na ulimi uliotakasika kutokana na vyote ila kumbukumbu Yake, ili kwamba Mwenye-uwezo wote aweze kwa neema kuwasaidia kupata ushindi mkuu: 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5013 in Tiếng Việt'
 author = "Báb"
-tags = ['lang-vi', '', "Báb", "unsorted"]
+tags = ['lang-vi', 'prayer-', "author-Báb", "category-unsorted", "cat-Hài Lòng"]
 +++
 Lạy Thượng Đế! Con hướng về Ngài để tìm nơi trú ẩn và con đặt tâm hồn con nơi những dấu hiệu của Ngài.
 

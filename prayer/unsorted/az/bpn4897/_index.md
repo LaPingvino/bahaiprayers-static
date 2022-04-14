@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4897 in Azərbaycan'
 author = "Abdu'l-Bahá"
-tags = ['lang-az', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Həzrət Əbdül -Bəhanın Ziyarətnaməsi"]
 +++
 *Həzrət Əbdül-Bəha tərəfindən nazil olmuş bu dua, Onun Astanasında oxunur. Bu həmçinin şəxsi dua kimi də oxuna bilər.
 

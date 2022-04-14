@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13260 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Výnimočné tabuľky"]
 +++
 ##Tabuľka Svätého Moreplavca
 *„Študujte Tabuľku Svätého Moreplavca, aby ste poznali pravdu a uvážte, že Požehnaná Krása plne predpovedala budúce udalosti. Nech si ti, ktorí rozumejú, z toho vezmú ponaučenie!“

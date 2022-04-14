@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12480 in Samoan'
 author = "Bahá'u'lláh"
-tags = ['lang-sm', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-EVENING"]
 +++
 O my God, my Master, the Goal of my desire!
 

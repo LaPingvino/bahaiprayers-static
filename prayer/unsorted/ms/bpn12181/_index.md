@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12181 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-UMAT MANUSIA"]
 +++
 Ya Engkau Tuhan yang baik hati! Engkau telah menciptakan semua manusia daripada baka yang sama. Engkau telah mentakdirkan bahawa semuanya sekeluarga. Dalam Hadirat Suci-Mu  mereka semua adalah hamba-Mu, dan semua manusia dilindungi di bawah Khemah-Mu; semua telah berkumpul di sekeliling Meja Kemurahan-Mu; semua diterangi melalui cahaya Kurnia-Mu.
 

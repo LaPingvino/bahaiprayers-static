@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12024 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Şypa Ýazgysy"]
 +++
 Oldur Şypakär, Binyýaz, Goldaýjy, Ýalkaýjy we Mähriban.
     Seni çagyrýaryn, Eý Goçak, Eý Wepaly, Eý Taban!

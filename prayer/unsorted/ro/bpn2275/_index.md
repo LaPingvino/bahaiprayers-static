@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2275 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Pionieri"]
 +++
 Lauda fie cu Tine, o, Dumnezeul meu!
 Aceştia sunt slujitorii Tăi ce sunt atraşi de miresmele milostivirii Tale, aprinşi de focul ce arde în pomul unităţii Tale, şi ai căror ochi sunt luminaţi privind splendorile luminii ce străluceşte în Sinaiul unicităţii Tale.

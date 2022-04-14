@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12128 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-MALAM"]
 +++
 Bagaimana aku memilih untuk tidur, Ya Tuhan, Tuhanku, apabila mata mereka yang merindui Engkau sedang terjaga kerana mereka terpisah daripada-Mu; dan bagaimanakah aku dapat berbaring untuk istirahat sedangkan jiwa-jiwa para pencinta-Mu berasa susah hati kerana mereka berada jauh daripada kehadiran-Mu?
 

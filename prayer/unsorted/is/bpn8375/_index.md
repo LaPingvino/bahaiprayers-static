@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8375 in Íslenska'
 author = "Bahá'u'lláh"
-tags = ['lang-is', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-is', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Börn og unglingar"]
 +++
 *Eftirfarandi bæn er fyrir nýfæddum börnum.
 *Meybörn:

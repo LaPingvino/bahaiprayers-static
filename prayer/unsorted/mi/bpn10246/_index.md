@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10246 in Māori'
 author = "Abdu'l-Bahá"
-tags = ['lang-mi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-mi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-KARAKIA MŌ TE MOANANUIA-KIWA"]
 +++
 E Koe Te Atua Parakore Kaha Rawa! 
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6478 in العربية'
 author = "Bahá'u'lláh"
-tags = ['lang-ar', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ar', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-الصّلاة الكبرى"]
 +++
 الصّلاة الكبرى
 * تؤدى مرّة في كلّ أربع وعشرين ساعة

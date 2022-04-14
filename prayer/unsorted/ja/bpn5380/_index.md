@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5380 in 日本語'
 author = "Bahá'u'lláh"
-tags = ['lang-ja', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-援助"]
 +++
 わが神、わが愛しまつる御方、わが王、わが慕したいまつる御方よ。いかなる言葉で私の感
 謝の心を表わすことができましょうか。あなたは無思慮むしりょな私を呼び覚さまし、あなたに背を向けていた私を恩寵おんちょう深く向き直らせ給いました。

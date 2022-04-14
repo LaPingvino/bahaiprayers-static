@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7409 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Stałość w Przymierzu"]
 +++
 On jest Potężnym, Wybaczającym i Współczującym!
     

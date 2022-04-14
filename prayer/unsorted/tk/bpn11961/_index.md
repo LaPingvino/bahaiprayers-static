@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11961 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Kömek Soramak"]
 +++
 Hu’Alla
     Eý Binyýaz Mahbup! Bu ynsanlar Seniň ýaranlaryň we Seniň gapyň bendeleridir. Seniň meýiňden mestana, Seniň çölüňde awaradyrlar. Seniň çeşmäňe teşne we Seniň uly deliliňe uýýandyrlar. Her biri dogry ýoluň nyşany we Mukaddes Älemiň ykbaly bolup biler ýaly kabul et, olara üstünlik bagyş eýle. Töwhid syrlarynyň belgisi we päklik güneşleriniň şapagy bolarlar.

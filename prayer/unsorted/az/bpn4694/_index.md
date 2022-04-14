@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4694 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Bağışlanma duası"]
 +++
 Həmd-səna olsun Sənə, Ya Rəbb, mənim Allahım! Səni and verirəm Öz Seçilmişlərinə, Sənin Əmanətini Daşıyanlara və Öz Peyğəmbərlərinin və Elçilərinin Möhürü etdiyin Kəsə - izn ver ki, Sənin zikrin mənim munisim olsun, məhəbbətin məqsədim, Üzün mətləbim, Adın çırağım olsun, istədiyin muradım və Razılığın mənim fərəhim olsun.
 

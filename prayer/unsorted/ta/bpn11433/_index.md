@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11433 in தமிழ்'
 author = "Bahá'u'lláh"
-tags = ['lang-ta', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-நீண்ட கட்டாயப் பிரார்த்தனை"]
 +++
 *இருபத்து நான்கு மணி நேரத்திற்கு ஒரு முறை கூறப்படவேண்டும்.   
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7616 in Kreyol Ayisyen'
 author = "Bahá'u'lláh"
-tags = ['lang-ht', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ht', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Epit Dife a"]
 +++
 Nan Non Bondye, Sila a Ki Pi Ansyen an, Pi Gran an. 
 	Vrèman kè moun sensè yo ap dechire ak dife separasyon: Kote ekla limyè ki parèt nan Figi Ou, O Byeneme mond yo? 

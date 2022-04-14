@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4487 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Pangangalaga"]
 +++
 O aking Panginoon, batid Mo na ang mga tao ay nalilibot ng dusa at kapahamakan at naliligid ng mga hirap at bagabag. Bawat pagsubok na sumasapit sa tao at bawat mahigpit na pakikipagtunggali ay dumarating sa kaniya na tulad ng pagsalakay ng isang ahas. Walang lilim at kanlungan para sa kaniya liban sa ilalim ng pakpak ng Iyong pangangalaga, pagtatanggol, pagtatanod at pagkupkop.
 

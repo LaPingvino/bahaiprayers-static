@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11208 in Kiswahili'
 author = "Bahá'u'lláh"
-tags = ['lang-sw', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sw', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ALFAJIRI"]
 +++
 Ee Mungu na Bwana wangu!  Mimi ni mutumishi Wako na Mwana wa mtumishi Wako.  Nimeamka kutoka kitandani mwangu kwenye mapambazuko haya wakati Nyota ya Mchana ya umoja Wako imemulika kutoka Mapambazuko ya amri yako, na imetoa mng’ao wake juu ya ulimwengu wote, kulingana na yale yaliyoamriwa katika Vitabu vya Amri Yako. 
  

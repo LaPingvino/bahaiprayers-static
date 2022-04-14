@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13357 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Prayer for the Departed"]
 +++
 O fy Nuw! O faddeuwr pechodau! Cyflwynwr rhoddion! Gwasgarwr cystuddiau!
 

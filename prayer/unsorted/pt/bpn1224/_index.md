@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1224 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Louvor e Gratidão"]
 +++
 Glorificado és Tu, ó Senhor meu Deus! A minha língua, tanto a do corpo como a do coração, os meus órgãos e membros, todas as veias que pulsam dentro de mim e cada fio de cabelo – tudo proclama que Tu és Deus e não há outro Deus além de Ti. Desde a eternidade, Tu estás imensuravelmente elevado acima de toda a comparação e de toda a semelhança, e santificado de tudo o que pertence à criação por Ti moldada. Desde toda a eternidade estás só, não havendo quem possa partilhar da Tua majestosa unicidade, e permaneces muito acima das mudanças e vicissitudes às quais estão sujeitas todas as Tuas criaturas.
 E quando intentaste demonstrar o poder da Tua soberana grandeza, glorificar a Tua palavra e guiar os passos do Teu povo, ergueste dentre as Tuas criaturas Um dos Teus servos, a Quem mandaste revelar os sinais da Tua soberania, e dotaste das claras evidências da Tua unicidade, para que Ele cumprisse o Teu testemunho perante toda a criação e consumasse a Tua prova diante de todos os homens.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3492 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Aften"]
 +++
 O min Gud, min Mester, mine lengslers mål! Denne din tjener søker å sove i din barmhjertighets ly og å hvile under din nådes hvelving idet han bønnfaller om din omsorg og din beskyttelse.
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2349 in Latviešu'
 author = "Bahá'u'lláh"
-tags = ['lang-lv', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Vidēji garā obligātā lūgšana"]
 +++
 *Skaitāma ik dienas no rīta, pusdienā un vakarā
 

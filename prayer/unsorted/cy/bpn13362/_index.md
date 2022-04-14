@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13362 in Cymraeg'
 author = "Bahá'u'lláh"
-tags = ['lang-cy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Unity"]
 +++
 O fy Nuw!  O Fy Nuw!  Una galonnau Dy weision a datguddia Dy fwriad mawr iddynt.  Bydded iddynt ddilyn Dy orchmynion ac aros yn Dy gyfraith.  Cynorthwya hwy, O Dduw, yn eu hymdrech a dyroiddnyt nerth i'th wasanaethu.  O Dduw, paid a'u gadael i'w hunain ond arwain eu camre drwy lewyrch Dy wybodaeth a chysura eu calonnau â'th gariad.  Yn wir, Tydi yw eu Cynorthwywr  a'u Harglwydd.
 

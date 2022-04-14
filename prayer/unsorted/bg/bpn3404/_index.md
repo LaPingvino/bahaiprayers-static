@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3404 in български'
 author = "Bahá'u'lláh"
-tags = ['lang-bg', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Непоколебимост в завета"]
 +++
 Той е Могъщият, Опрощаващият, Състрадателният!
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12230 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAIFEKAU A TE ATUA"]
 +++
 Vikiiga i Tou igoa, O te Aliki toku Atua!  Au e molimau ia Koe se Kope funa e ufi i loto ia Koe mai loa ite vavau kae se Mea Fakaofoofogina e se mafai o matafi e nofo loto i Tou kanoloto o Tou faiitega.  E manakomia o fakaasi a Koe, a ko Koe ne kalaga atu ke mafua mai a te Lalolagi Matalasi mo te Lalolagi Foliki, kae fili ne Koe a Tagata mai i luga i mea faiite katoa, kae fai a ia pela me ko te failoga o lalolagi e lua kona, O Koe ko te motou Aliki, ko te Tafasili i te Alofa!  
 Ne avaka ne Koe ke nofo i Tou nofoga mai mua o tino katoa o Tau foafoaaga.  Ne faka-mafai ne Koe a Ia ke faka-matala Au mea lilo, kae sulu maina atu mo te mainaaga o Tau musumusuga mo Tau Faaliga, kae folafola atu Ou igoa mo Ou uiga lei.  Mai ia Ia ne safe ne Koe a te ulu tala o Tau tusi o te foafoaaga, O Koe ko te Pule o te univesi te la ne fakafoliga ne Koe!  

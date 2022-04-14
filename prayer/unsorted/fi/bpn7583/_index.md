@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7583 in Suomi'
 author = "Abdu'l-Bahá"
-tags = ['lang-fi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Vierailumuistiot"]
 +++
 *(Seuraavaa ‘Abdu'l-Bahán ilmaisemaa rukousta luetaan hänen hautapyhäkössään. Sitä käytetään myös yksityisenä rukouksena.)
 

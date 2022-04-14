@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10253 in Māori'
 author = "Bahá'u'lláh"
-tags = ['lang-mi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-mi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-TE PAPATUHI O AḤMAD"]
 +++
 *‘’Ko ēnei karakia o ia ata me taki, taea noatia ētahi atu mea motuhake, pērā me te Karakia mō te Whakaora, Te Papatuhi o A ḥ mad, nā Bahá’u’lláh i whatu ki tētahi mana motuhake nō reira me tautoko me whakatātaki e te hunga whakapono ki te whakapono me te whakamanawa e kore e pātaitia, mā reira rātou e uru ai kia tata kē te hono ki Te Atua, me tā rātou here i a rātou anō ki Āna Ture me Āna whakaritenga.” 
 

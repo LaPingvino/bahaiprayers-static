@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6963 in Fiji'
 author = "Abdu'l-Bahá"
-tags = ['lang-fj', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-fj', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MATATAMATA"]
 +++
 O i Kemuni na Turaga yalololoma! O ni sa buli ira na tamata mai na dua vata ga na i vurevure. O ni sa vakarota me ra sa okati me duabau ga na matavuvale. E na Nomuni Tutu Tabu era sa Nomuni dauveiqaravi kece ga, ka ra vakarurugi kece ga na tamata e na ruku ni nomuni iVakaruru Tabu; era sa soqoni vata kece e na Nomuni Teveli ni Sautu; era sa vakararamataki kece e na i serau ni Nomuni Veivakarautaki.
 

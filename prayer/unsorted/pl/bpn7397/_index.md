@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7397 in Polski'
 author = "Abdu'l-Bahá"
-tags = ['lang-pl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Rozwój duchowy"]
 +++
 O Żywicielu! Tyś tchnął słodką woń Ducha Świętego na przyjaciół na Zachodzie i światłem Boskiego przewodnictwa oświetlił zachodnie niebo. Tyś sprawił, że ci, którzy kiedyś byli oddaleni, zbliżyli się do Ciebie. Tyś przemienił obcych w serdecznych przyjaciół. Tyś śpiących ze snu obudził. Tyś niedbałych uważnymi uczynił. 
     

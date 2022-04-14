@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn9525 in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Het korte Verplichte Gebed"]
 +++
 *Eens in de vierentwintig uur te reciteren, in de middag
 

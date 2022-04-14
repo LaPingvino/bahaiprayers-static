@@ -1,7 +1,7 @@
 +++
-title = 'Prayer AB06528MID in Español'
+title = 'Midnight Prayer in Español'
 author = "Abdu'l-Bahá"
-tags = ['lang-es', '', "Abdu'l-Bahá", "Evening"]
+tags = ['lang-es', 'prayer-AB06528MID', "author-Abdu'l-Bahá", "category-Evening", "cat-Noche"]
 +++
 *¡Oh buscador de la Verdad! Si deseas que Dios abra tus ojos, debes suplicarle, orar y comulgar con Él a medianoche diciendo:
 

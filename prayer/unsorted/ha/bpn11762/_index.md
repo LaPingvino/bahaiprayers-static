@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11762 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Tsāme Daga Bukin Rānekun Tuāwa"]
 +++
 ##Rānar haifuwar Baha’u’llah (aminci ya tabbata a garēshi)
 *Shīnē tsarkakakke, maɗaukaki, Mafi girma.

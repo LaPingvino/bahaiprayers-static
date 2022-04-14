@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12609 in Iban'
 author = "Bahá'u'lláh"
-tags = ['lang-iba', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-iba', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-SAMBIANG OBLIGATORI NUMBAS PEMANJAI"]
 +++
 #SAMBIANG OBLIGATORI NUMBAS PEMANJAI
 ##PATUT DISEBUT TIAP HARI, PAGI, NGALIH HARI, ENGGAU LEMAI.

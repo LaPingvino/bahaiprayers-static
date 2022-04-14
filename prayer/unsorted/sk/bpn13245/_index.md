@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13245 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ridván"]
 +++
 *V mene Toho, kto naplnil Svojou nádherou celé stvorenie!
 Nadišla božská vesna, ó Najvznešenejšie pero! Veď slávnosť nadovšetko Milosrdného sa rýchlo blíži. Pousiluj sa a pred celým stvorením blahoreč menu Božiemu a oslavuj Jeho chválu tak, aby všetko stvorené mohlo byť znovuzrodené a obnovené. Nemlč a prevrávaj! Dennica blaženosti žiari nad obzorom Nášho mena Blažený, pretože kráľovstvo mena Božieho bolo okrášlené ozdobou mena tvojho Pána, Stvoriteľa nebies. Povstaň pred národmi zeme a vyzbroj sa mocou tohto Najväčšieho mena. Nebuď z tých, ktorí otáľajú.

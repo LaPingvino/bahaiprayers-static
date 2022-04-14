@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12124 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-KETEGUHAN DALAM WAADAT"]
 +++
 Perteguhkanlah langkah-langkah kami, Ya Tuhan, di jalan-Mu dan perkuatkanlah Engkau hati kami dalam kepatuhan kepada-Mu. Palingkanlah wajah kami ke keindahan keesaan-Mu dan riangkanlah dada kami dengan tanda-tanda kesatuan ketuhanan-Mu. Hiasilah tubuh kami dengan jubah kurnia-Mu, dan singkirkanlah daripada mata kami tabir kedosaan, dan berikanlah kami cawan kurnia-Mu; agar inti segala kewujudan dapat menyanyikan pujian-Mu di hadapan visi keagungan-Mu. Jelmakanlah diri-Mu, Ya Tuhan, dengan ujaran kurnia-Mu dan misteri kewujudan suci-Mu, agar keghairahan doa suci dapat mengisi roh kami–satu doa yang akan melampaui kata dan huruf dan menjangkau bisikan kata dan bunyi–supaya segala benda dapat disatukan dalam kekosongan di hadapan revelasi kebesaran-Mu.
 

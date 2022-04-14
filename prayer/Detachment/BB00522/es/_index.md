@@ -1,7 +1,7 @@
 +++
 title = 'Prayer BB00522 in Español'
 author = "Báb"
-tags = ['lang-es', '', "Báb", "Detachment"]
+tags = ['lang-es', 'prayer-BB00522', "author-Báb", "category-Detachment", "cat-Desprendimiento"]
 +++
 ¡Oh Señor! A Ti acudo en busca de amparo, y hacia todos Tus signos oriento el corazón.
 ¡Oh Señor! Ya sea de viaje o en mi hogar, en mis ocupaciones o en mi trabajo, en Ti deposito toda mi confianza.

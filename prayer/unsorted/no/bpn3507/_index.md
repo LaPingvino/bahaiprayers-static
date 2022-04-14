@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3507 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Bønn for de døde"]
 +++
 Han er Gud, opphøyet er han, miskunnhetens og gavmildhetens Herre!
  

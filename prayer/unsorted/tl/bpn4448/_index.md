@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4448 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Pagpapagaling"]
 +++
 O Diyos, aking Diyos! Isinasamo ko sa Iyo sa karagatan ng Iyong pagpapagaling, at sa ningning ng Araw-Bituin ng Iyong biyaya, at sa pagsakop sa Pangalan na ginamit Mo sa pagsakop sa Iyong mga tagapaglingkod, at sa nakapagpapalagos na lakas ng Iyong pinakamaluwalhating Salita at kapangyarihan ng Iyong pinakadakilang Panulat, at sa Iyong kahabagan na nauna pa sa paglalang ng lahat ng nasa lupa, na sa pamamagitan ng mga tubig ng Iyong pagpapala ay linisin ako sa bawat paghihirap at kaguluhan, at sa lahat ng kahinaan at karupukan.
 

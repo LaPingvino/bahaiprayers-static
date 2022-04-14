@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8093 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Prøvelser Og Vanskeligheder"]
 +++
 Æret være Du, o min Gud! Var det ikke for de lidelser der tåles på Din sti, hvordan kunne Dine sande elskede da genkendes, og var det ikke på grund af de prøvelser, der bliver båret af kærlighed til Dig, hvordan kunne da stadet for dem der higer efter Dig blive åbenbaret? Din magt er mit vidnesbyrd! Ledsagere for alle, der tilbeder Dig, er de tårer de fælder, og en trøst for dem, der søger Dig, er de klager de udtrykker, og føde for dem, der iler Dig imøde, er brudstykkerne af deres knuste hjerter.
 

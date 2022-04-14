@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7564 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Lujuus Liitossa"]
 +++
 Minä rukoilen Sinua kaikkein korkeimman nimesi kautta avaamaan palvelijoittesi silmät, että he saisivat nähdä Sinut loistamassa majesteettiutesi ja kirkkautesi taivaanrannan yllä ja että korpin raakkuna ei estäisi heitä kuulemasta sinun ylhäisen ykseytesi Kyyhkyn ääntä eivätkä pilaantuneet vedet estäisi heitä siemaisemasta anteliaisuutesi puhdasta viiniä ja juomasta lahjojesi iankaikkisista virroista.
 

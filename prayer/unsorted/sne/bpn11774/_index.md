@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11774 in Bidayuh'
 author = "Abdu'l-Bahá"
-tags = ['lang-sne', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sne', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Doa Pibatue Duoh Pinulung"]
 +++
 Mbak kadi, O Raja, ambar onu perami dek mbok obuah kapah daang  Adon Ingan, bia mbak mulae sidudue lapu dek mbok obuah tung pakai opui Ingan dek dik eh timulae. Mbak nobat pi’in pingidip paman nog sok Ingan dek simoyuak pakai ayong mulia Ingan duoh panginatong Ingan, bia mbak madog asong ulunt-ulunt Ingan yak kodok puate osiak wangi pangirinduk Ingan dek sidik.
 O Raja! Kibalui sisa sengsara bala onak kudus Ingan odak jadin sonang, susah payah iyoh tudu mo-on, O Ingan dek kagonk daang aguam Ingan onik dek ngasul manusia!

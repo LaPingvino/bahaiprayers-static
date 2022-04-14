@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn549 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Führung und Erkenntnis"]
 +++
 Er ist der Gnädige, der Allgroßmütige!
 O Gott, mein Gott! Dein Ruf hat mich angezogen und der Laut Deiner Feder der Herrlichkeit hat mich erweckt. Der Strom Deiner heiligen Rede hat mich hingerissen und der Wein Deiner Eingebung hat mich verzückt. Du siehst mich, o Herr, losgelöst von allem außer Dir, an das Seil Deiner Großmut geklammert, voll der Sehnsucht nach den Wundern Deiner Gnade. Ich bitte Dich bei den ewigen Wogen Deiner Gnade und dem strahlenden Leuchten Deiner zärtlichen Fürsorge und Gunst, gewähre mir, was mich Dir nahebringt, und mache mich reich durch Deine Fülle. Meine Zunge, meine Feder, mein ganzes Wesen legen Zeugnis ab für Deine Macht, Deine Stärke, Deine Gnade und Großmut, dass Du Gott bist und es keinen Gott gibt außer Dir, dem Gewaltigen, dem Mächtigen.

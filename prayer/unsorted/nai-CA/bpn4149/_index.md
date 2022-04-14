@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4149 in Canadian Indigenous'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-CA', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nai-CA', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Blackfoot / Siksika"]
 +++
 Atsée-moyeh’kapee un-óm, ki kokónahn, keetáw-pop, ki akápeeyoyis, kyoos-kee-tsée-paXpee, ki mee-stúkee, keetáyk-sasohp, ki ata-níksin, ki ist-sikúm, ki isksáXko, ki mo-tíy-oXkee, ki mée-nee, ki ápoX-keepee kyám-ost-skiy;
 Apistotokee eeh-tsee-tésk-sinowa kyot-sokáp-sinee áXkeetso-keetseesinee.

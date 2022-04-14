@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5793 in Català'
 author = "Abdu'l-Bahá"
-tags = ['lang-ca', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ca', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Agraïment"]
 +++
 Oh estimat de la meva ànima i del meu cor! No tinc empara sinó Tu A l’alba no parlo més que en la teva commemoració i lloança. El Teu amor m’envolta i la Teva gràcia és perfecta. En Tu està la meva esperança.
 

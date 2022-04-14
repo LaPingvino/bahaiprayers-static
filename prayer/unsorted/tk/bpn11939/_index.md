@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11939 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Gorag Dogalary"]
 +++
 Hu’ Alla
     Eý älemiň Dilberi! Didäm didaryňa röwşen bolany üçin meniň janym hem köňlüm Seniň ýakymly müşgüňden, çemen hem gülzaryň hasraty bolany üçin Saňa şükür.

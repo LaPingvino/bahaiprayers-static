@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5306 in Bosanski'
 author = "Bahá'u'lláh"
-tags = ['lang-bs', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bs', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Umrli"]
 +++
 *Molitva za umrle se koristi za preminule bahá’ije starije od petnaest godina. ‚To je jedina obavezna Baha’i molitva koja se izgovara u kongregaciji: izgovara je jedan vjernik dok svi prisutni stoje. Nije se neophodno okrenuti prema Kibli kad se izgovara ova molitva.‛
 

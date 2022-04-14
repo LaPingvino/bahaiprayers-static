@@ -1,7 +1,7 @@
 +++
 title = 'Fire Tablet  in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "Common Tablets"]
+tags = ['lang-en', 'prayer-BH00687', "author-Bahá'u'lláh", "category-Common Tablets", "cat-Fire Tablet"]
 +++
 ##Fire Tablet
 

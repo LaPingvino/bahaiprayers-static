@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4534 in Filipino'
 author = "Bahá'u'lláh"
-tags = ['lang-tl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ang Tableta Ng Pagdalaw"]
 +++
 Ang Tabletang ito ay binabasa sa mga Dambana ni Bahá’u’lláh at ng Báb. Ito ay malimit ding gamitin sa paggunita sa Kanilang mga anibersaryo.
 

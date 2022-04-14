@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13373 in Cymraeg'
 author = "Abdu'l-Bahá"
-tags = ['lang-cy', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-cy', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Mankind"]
 +++
 O Tydi Arglwydd caredig! Una pawb.
 

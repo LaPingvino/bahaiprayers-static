@@ -1,7 +1,7 @@
 +++
 title = 'Tablet of the Holy Mariner in Nederlands'
 author = "Bahá'u'lláh"
-tags = ['lang-nl', '', "Bahá'u'lláh", "Common Tablets"]
+tags = ['lang-nl', 'prayer-AB00204MAR', "author-Bahá'u'lláh", "category-Common Tablets", "cat-Tafel van de Heilige Zeevaarder"]
 +++
 *“Bestudeer de Tafel van de Heilige Zeevaarder, opdat u de waarheid leert kennen, en beseft dat de Gezegende Schoonheid toekomstige gebeurtenissen volledig heeft voorzegd. Laat hen die waarnemen gewaarschuwd zijn”  - Abdu’l-Baha
 

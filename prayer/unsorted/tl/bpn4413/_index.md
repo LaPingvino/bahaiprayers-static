@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4413 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Gabi"]
 +++
 *O naghahanap ng Katotohanan! Kung ninanais mong buksan ng Diyos ang iyong espiritwal na mata, magsumamo ka sa Diyos, dumalangin at maki­isa sa Kaniya sa hatinggabi, sa pagsasabing:
 

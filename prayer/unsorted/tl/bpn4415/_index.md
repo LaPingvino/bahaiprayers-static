@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4415 in Filipino'
 author = "Abdu'l-Bahá"
-tags = ['lang-tl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Kabuhayan"]
 +++
 Panginoon! Kahabag-habag kami, kaya’t pagkalooban Mo kami ng Iyong tangkilik; mga dukha, kami’y pagkalooban Mo ng isang bahagi sa karagatan ng Iyong kayamanan; mga nangangailangan, kami’y Iyong bigyan ng kasiyahan; mga naaba, kami’y pagkalooban Mo ng Iyong kaluwalhatian. Ang mga ibon sa himpapawid at ang mga hayop sa parang ay nagsisitanggap ng kanilang pagkain araw-araw buhat sa Iyo, at lahat ng nilalang ay nakikibahagi sa Iyong Pangangalaga at mapagmahal na kagandahang-loob.
 

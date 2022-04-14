@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12343 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MANUMAALO O TE FAKATOKAAGA"]
 +++
 O te Atua, toku Atua! Tavaeega e ia Koe i te tafutafuuga o te afi o te alofa faka-te-lagi i te Lakau Ola Mana i tumu maluga o te mauga: ko te Lakau Ola tena “seai mai ite Sopoga-Laa io me mai i te Tooga-Laa,” (1) a te afi tena e ka lafulafu ke oko ki taimi a tena kaaga ko fano loa ki luga i te Lukuuga Mana Faka-te-Lagi i luga, kae mai i mea tonu kona ne maua ne ia a te mainaaga o te takitakiiga, kae tagi atu penei:  “E tonu ne atafia ne matou a te afi i te tapuvae Mauga o Sinai.”(2)   
   

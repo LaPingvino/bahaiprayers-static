@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5119 in Bahasa Indonesia'
 author = "Abdu'l-Bahá"
-tags = ['lang-id', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-id', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Kesulitan Dalam Agama"]
 +++
 ##Dialah Tuhan!
 

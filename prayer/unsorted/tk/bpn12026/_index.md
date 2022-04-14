@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12026 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Hezreti Babyň Şehit Bolmagynyň Hatyrasyna Açylan Ýazgy"]
 +++
 Hu-äl-Äbha.
     Ýa Hezreti Aly Ekber! 

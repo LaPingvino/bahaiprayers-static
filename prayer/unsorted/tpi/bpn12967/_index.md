@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12967 in Tok Pisin'
 author = "Bahá'u'lláh"
-tags = ['lang-tpi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-BURIAL OF THE DEAD"]
 +++
 Wanpela man o meri i mas kolim dispela prea taim olgeta i bung na sanap.  Bihain long prea ol i ken planim bodi.  Sapos dispela Bahá’í , husat i dai, em meri, orait senisim prea na tok olsem: "Dispela em wokmeri bilong Yu na pikinini meri bilong wokmeri bilong Yu..." 
  

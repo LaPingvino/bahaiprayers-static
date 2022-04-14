@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10952 in Tuvalu'
 author = "Bahá'u'lláh"
-tags = ['lang-tvl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-mo Pepe"]
 +++
 A Koe ko Ia, O toku Atua, te la i Ona igoa a masaki ne fakalei a olotou masaki ako latou e famai-mai ne fakalei, kae e fia inu ne avatu ke inu kae ne tanumia ne te se fiafia ne toe faka-filemu, a ko latou se fakalogo ne takitakigina, mo latou ko la tato ki lalo ko fakamaluga ki luga, a kote latou mativa ne fakam-maumea, a ko latou e numi ne fakamatalagina, a ko latou e pogisa ne faka-mainagina, a ko latou e fanoanoa ne faka-fiafiagina, a ko latou e faka-makalili ne fakavelaina, a ko latou ne to ki lalo ne avaka ki luga.  Mai i luga i Tou Igoa, O toku Atua, a mea faiite katoa ne fakagasuesue, a ko lagi ne fola atu, a kote lalolagi ne faiite, mo kaumana ne avaka ki luga kae fai ke to ate vaiua ki luga i te lalolagi.  Mea nei, e tonu, se mea-alofa o Tou alofa ki luga i mea ola katoa.
 

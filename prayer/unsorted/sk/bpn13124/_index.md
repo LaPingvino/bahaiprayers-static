@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13124 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Deti"]
 +++
 On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 

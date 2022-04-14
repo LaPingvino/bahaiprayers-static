@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn676 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gebet der Begegnung - Munájátu'l-Liqá"]
 +++
 *Wer immer dieses Gebet demütig und inbrünstig spricht, wird das Herz dieses Dieners mit Freude und Glück erfüllen: Es wird sein, als begegne er Ihm von Angesicht zu Angesicht.Er ist der Allherrliche!
 O Gott, mein Gott! Demütig und unter Tränen erhebe ich meine flehenden Hände zu Dir und bedecke mein Angesicht im Staub Deiner Schwelle, die erhaben ist über das Wissen der Gelehrten und das Lob aller, die Dich verherrlichen. Schaue mit dem Auge Deines Erbarmens auf Deinen Diener, der bescheiden und demütig an Deiner Pforte steht, und tauche ihn ein in das Meer Deiner ewigen Gnade.

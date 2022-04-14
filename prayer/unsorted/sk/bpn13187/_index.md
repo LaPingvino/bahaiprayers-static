@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13187 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ženy"]
 +++
 Sláva buď Tebe, ó Pane, môj Bože! Prosím Ťa pri Tvojom mene, prostredníctvom ktorého Ten, kto je Tvojou krásou, bol dosadený na trón Tvojej veci, a pri Tvojom mene, ktorým všetko meníš, všetko zhromažďuješ, všetko voláš na zodpovednosť, všetko odmeňuješ, všetko brániš a všetko uchovávaš. Prosím Ťa, aby si chránil túto služobníčku, ktorá sa k Tebe utieka o záchranu, vyhľadáva útočisko Toho, v ktorom si Ty sám prejavený, a vkladá do Teba celú svoju nádej a dôveru.
 Je chorá, ó môj Bože, a vkročila do tône stromu Tvojho uzdravenia, je sužovaná a utiekla sa do mesta Tvojej ochrany, je nemocná a vyhľadala žriedlo Tvojej priazne, je nanajvýš rozrušená a poponáhľala sa dosiahnuť prameň Tvojho pokoja, ťaží ju hriech a obrátila tvár k dvoru Tvojho odpustenia.

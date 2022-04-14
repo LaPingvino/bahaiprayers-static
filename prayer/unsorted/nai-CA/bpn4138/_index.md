@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4138 in Canadian Indigenous'
 author = "Bahá'u'lláh"
-tags = ['lang-nai-CA', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-nai-CA', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Cowichan Hul'q'umi'num'"]
 +++
 He He Tu i' nul, 'i' thu lelum', 'i' thu shhw' i, 'i' thu ha lelum', 'i' thu tthele,  'i' thu smeent, 'i' thu shquluts thut,  'i' thu Shwuliwun smeent, 'i' thu s'hw uh wets, 'i' thu tu mu hw, 'i' thu qu a tl qua 'i' thu sk w the', 'i' thu spu i hun ni' shni's tthu Heels Kwushi, 'i' tthu he he sti wi' ui.      
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7246 in ελληνικά'
 author = "Abdu'l-Bahá"
-tags = ['lang-el', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-el', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-ΠΙΝΑΚΙ∆ΕΣ ΤΟΥ ΘΕΙΚΟΥ ΣΧΕ∆ΙΟΥ"]
 +++
 Οποιοσδήποτε ξεκινά για ταξίδι διδασκαλίας σ’ οποιοδήποτε µέρος, και ενώ ταξιδεύει σε ξένες χώρες, ας απαγγείλει την προσευχή αυτή – µέρα και νύχτα.
 

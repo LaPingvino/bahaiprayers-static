@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10155 in English'
 author = "Bahá'u'lláh"
-tags = ['lang-en', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-en', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Bahá’í Reference Library"]
 +++
 In the Name of our Lord, the Most Holy, the Most Great, the Exalted, the Most Glorious! 
  

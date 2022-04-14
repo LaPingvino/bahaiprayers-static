@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5548 in 日本語'
 author = "Abdu'l-Bahá"
-tags = ['lang-ja', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-十九日毎のフィースト"]
 +++
 集会に出席する時、会場に入る前に心にある
            すべてのことから自らを解き放ち、神を思うことのみに

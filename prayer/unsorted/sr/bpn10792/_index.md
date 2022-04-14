@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10792 in Srpski српски'
 author = "Bahá'u'lláh"
-tags = ['lang-sr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-POST"]
 +++
 *Određeno je da Post bude jedanput godišnje i to tokom poslednjeg meseca bahajske godine, meseca Ala´(Uzvišenosti),od 2. do 20. marta.Za vreme tih 19 dana ne treba da se uzima bilo kakva hrana ili piće od izlaska do zalaska sunca.To je vreme molitve i duhovne obnove.Obično se tokom Posta praktikuje molitva u zoru.Osobe mlađe od 15 i starije od 70 godina,slabi i bolesni,trudnice kao i putnici su oslobođeni obaveze da poste.  
 

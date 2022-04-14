@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn1339 in Português (BR)'
 author = "Bahá'u'lláh"
-tags = ['lang-pt', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Jejum"]
 +++
 Estes são os dias, ó meu Deus, em que ordenaste aos Teus servos observarem o jejum, o qual fizeste o adorno ao preâmbulo do Livro das Tuas Leis, revelado às Tuas criaturas, e a decoração dos Santuários dos Teus mandamentos, aos olhos de todos os que estão no Teu céu e sobre a Tua terra. Cada hora destes dias, Tu a tens dotado de uma virtude especial, insondável a todos, menos a Ti, cujo conhecimento abrange todas as coisas criadas. A cada alma, também, designaste uma porção dessa virtude, de acordo com a Epístola do Teu decreto e as Escrituras do Teu juízo irrevogável. E ainda mais, para cada um dos povos e raças da terra, especificaste cada folha desses Livros e Escrituras.
 Para aqueles que Te amam ardentemente, reservaste o cálice da Tua lembrança, a cada amanhecer, segundo o Teu decreto, ó Tu que és o Rei dos reis! Estes são os que se inebriam com o vinho da Tua múltipla sabedoria, a tal ponto que abandonam os leitos em seu fervoroso desejo de celebrar o Teu louvor e enaltecer as Tuas virtudes, fogem do sono, ansiosos de se aproximarem da Tua presença e de participarem das Tuas dádivas. Em todos os tempos, os seus olhos têm fitado o Alvorecer da Tua benevolência, e as suas faces têm-se volvido para o Manancial da Tua inspiração. Peço-Te que faças chover copiosamente sobre nós, e sobre eles, das nuvens da Tua misericórdia, assim como se espera do céu da Tua generosidade e da Tua graça.

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12120 in Bahasa Melayu'
 author = "Báb"
-tags = ['lang-ms', '', "Báb", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Báb", "category-unsorted", "cat-KETAKTERIKATAN"]
 +++
 Ya Tuhan! Kepada Engkau aku mencari perlindungan dan menuju ke semua tanda-Mu aku arahkan hatiku.
 

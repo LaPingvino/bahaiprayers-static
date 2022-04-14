@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7434 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Wysławianie i wdzięczność"]
 +++
 Wysławione niechaj będzie Imię Twoje, o Panie, Boże mój! Ty jesteś Tym, któremu wszystko oddaje cześć, a który sam nie czci nikogo, który jest Panem wszystkiego, a niczyim poddanym, któremu znane jest wszystko, a który nie jest poznany przez nikogo. Pragnąłeś objawić się ludziom, przeto jednym Słowem ust swoich powołałeś do życia wszelkie stworzenie i stworzyłeś wszechświat. Nie ma innego Boga poza Tobą, Kształtującym, Stwórcą, Wszechmocnym i Najpotężniejszym.
     

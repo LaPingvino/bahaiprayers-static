@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12488 in Samoan'
 author = "Báb"
-tags = ['lang-sm', '', "Báb", "unsorted"]
+tags = ['lang-sm', 'prayer-', "author-Báb", "category-unsorted", "cat-AID AND ASSISTANCE"]
 +++
 I adjure Thee by Thy might, O my God! Let no harm beset me..
 

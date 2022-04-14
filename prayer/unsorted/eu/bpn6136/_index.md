@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6136 in Euskara'
 author = "Bahá'u'lláh"
-tags = ['lang-eu', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-eu', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Gorespen Jainkoari"]
 +++
 Goretsia izan bedi Zure Izena, ene Jainkoa eta gauza guztien Jainkoa, ene Aintza eta izaki guztien Aintza, ene nahia eta izaki guztien Nahia, ene Indarra eta izaki guztien Indarra, neure Erregea eta izaki guztien Erregea, neure Jabea eta gauza guztien Jabea, ene Jomuga eta izaki guztien Jomuga, neure Bultzatzailea eta gauza guztien Bultzatzailea.
 

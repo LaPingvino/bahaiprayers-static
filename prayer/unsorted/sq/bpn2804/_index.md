@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2804 in Shqip'
 author = "Abdu'l-Bahá"
-tags = ['lang-sq', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Mesnatë"]
 +++
 O kërkues i së Vërtetës! Po qe se dëshiron që Perëndia të t'i hapë sytë, duhet t'i përgjërohesh Perëndisë, t'i lutesh Atij dhe të komunikosh me Të në mesnatë, duke thënë:
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3177 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Beskerming"]
 +++
 Verheerlik sy U Naam, o Here my God! Ek smeek U by U Naam waardeur die uur aangebreek het, en die Opstanding gekom het, en vrees en bewing almal wat in die hemel en op die aarde is bevang het, om te laat reën, vanuit die hemel van U genade en die wolke van U tere ontferming, dit wat die harte sal verheug van U dienaars wat na U gekeer het en U Saak gehelp het.
 

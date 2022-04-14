@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2404 in Latviešu'
 author = "Abdu'l-Bahá"
-tags = ['lang-lv', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-lv', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Grūtības un pārbaudījumi"]
 +++
 Ak Dievs, mans Kungs, un mana Osta ciešanu vētrā. Mans Vairogs un mans Aizsegs bēdās, mans Patvērums grūtā stundā un mans Ceļabiedrs manā vientulībā, mans Mierinājums manās bailēs, mans mīlošs Draugs manā atstātībā, mans Sāpju Remdētājs raizēs un manu grēku Piedevējs!
 Es griežos pie Tevis, es kvēli lūdzu Tevi ar visu sirds, prāta un daiļrunības spēku, sargi mani no visa, kas neatbilst Tavai gribai Tavas dievišķās vienesmes laikmetā, un attīri mani no visiem sārņiem un traipiem, kas liedz man, tīram un neaptraipītam, meklēt Tavas Svētības Koka ēnu.

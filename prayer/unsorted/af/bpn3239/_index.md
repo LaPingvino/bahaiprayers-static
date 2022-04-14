@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3239 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Die Vas"]
 +++
 *Die Aqdas verklaar: ,Ons het julle gebied om te bid en te vas vanaf die begin van rypheid [15 jaar]; dit is deur God verorden, julle Here en die Here van julle voorvaders. . . .Die reisiger, die sieke, diegene wat swanger is of wat soog, word nie deur die vas verplig nie. . . .Bly weg van voedsel en drink niks nie, van sonop tot sonsondergang, en wees op julle hoede dat begeerlikheid julle nie beroof van hierdie genade wat in die Boek bepaal is nie.'
 

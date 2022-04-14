@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7584 in Suomi'
 author = "Bahá'u'lláh"
-tags = ['lang-fi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Paasto"]
 +++
 *(Välipäivien, 26. päivästä helmikuuta 1. päivään maaliskuuta, tulisi olla paastoon valmistautumisen, vieraanvaraisuuden, hyväntekeväisyyden ja lahjojen antamisen päiviä.)
 

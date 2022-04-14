@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12999 in Daga'
 author = "Abdu'l-Bahá"
-tags = ['lang-dgz', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-dgz', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Nainit U’uraewa  (Marriage)"]
 +++
 * Nop ma nainit wamewa gapan waen ge apan mu dere, waenapan dere den wagup namumup yona wain, ma yogup kanamawa gwanap wan.  (Kitáb-i-Aqdas)
 

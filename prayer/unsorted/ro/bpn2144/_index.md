@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2144 in România'
 author = "Abdu'l-Bahá"
-tags = ['lang-ro', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Calităţi Spirituale"]
 +++
 O, Doamne Dumnezeul meu! O, Doamne Dumnezeul meu! Slava fie cu Tine căci m-ai confirmat în mărturisirea unicităţii Tale, m-ai atras spre cuvântul singularităţii Tale, m-ai înflăcărat cu focul iubirii Tale şi mi-ai dat ca ocupaţie pomenirea Ta şi slujirea prietenilor şi a slujitoarelor Tale.
 

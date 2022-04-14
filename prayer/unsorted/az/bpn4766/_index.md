@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4766 in Azərbaycan'
 author = "Bahá'u'lláh"
-tags = ['lang-az', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-az', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Kömək və yardım duaları"]
 +++
 Mənim Allahım, Məbudum, Sultanım, Məqsudum! Sənə şükrlərimi hansı dil bəyan edə bilər? Qafil idim, ayıltdın, Səndən üz çevirmişdim, Sənə tərəf dönməyimə mərhəmətlə kömək etdin. Ölü idim, dirilik suyu ilə mənə həyat verdin. Solmuşdum, Ən Mərhəmətlinin Qələmindən axan bəyan Kövsərindən mənə təravət bağışladın.
 

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3722 in Eesti'
 author = "Abdu'l-Bahá"
-tags = ['lang-et', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-et', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Abikaasa"]
 +++
 Oo Jumal, mu Jumal! See Sinu ümmardaja kutsub Sind, pannes oma usalduse Sinule, pöörates oma palge Sinu poole, anudes Sind, et Sa valaksid tema peale oma taevalikke ande ning avaldaksid talle oma vaimseid saladusi ja heidaksid tema üle oma Jumaluse valgust.
 Oo mu Issand! Tee minu abikaasa silmad nägevaks. Rõõmusta tema südant Sinu tundmise valgusega, kütkesta tema meelt oma särava iluga, virguta tema hinge, ilmutades talle oma ilmseid hiilgusi.

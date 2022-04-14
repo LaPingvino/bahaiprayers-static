@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13155 in Slovensky'
 author = "Bahá'u'lláh"
-tags = ['lang-sk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Večer"]
 +++
 Ako môžem ísť spať, ó Bože, môj Bože, keď oči tých, ktorí po Tebe túžia, bdejú pre svoje odlúčenie od Teba, a ako si môžem ľahnúť na odpočinok, kým duše Tvojich milovaných nesmierne zmieta ich vzdialenosť od Tvojej prítomnosti?
 Zveril som, ó môj Pane, svojho ducha a celú svoju bytosť do pravice Tvojej sily a Tvojej ochrany. Hlavu si ukladám na vankúš skrze Tvoju moc a dvíham ju vďaka Tvojej vôli a Tvojej spokojnosti. Ty si, vpravde, Chrániteľ, Opatrovník, nadovšetko Mocný, Najsilnejší.

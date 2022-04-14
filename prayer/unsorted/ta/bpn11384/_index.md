@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11384 in தமிழ்'
 author = "Abdu'l-Bahá"
-tags = ['lang-ta', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ta', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-பாதுகாப்பு"]
 +++
 என் பிரபுவே! மனிதர்கள் வேதனைகளாலும் பேரிடர்களாலும் சுற்றி வளைக்கப்பட்டிருப்-பதையும் இன்னல்களாலும் துன்பங்களாலும் சூழப்பட்டிருப்பதையும் நீர் அறிவீர். 
 

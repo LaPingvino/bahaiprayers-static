@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12098 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-KEMENANGAN AKIDAH"]
 +++
 Dimuliakanlah Engkau, Ya Tuhan, Tuhanku! Jelmakanlah sungai-sungai kekuatan-Mu yang berdaulat, agar air kesatuan-Mu akan mengalir melalui realiti terdalam segala benda, sehinggakan panji bimbingan-Mu yang tak terhingga akan dinaikkan tinggi di kerajaan perintah-Mu dan bintang-bintang sinaran keilahian-Mu akan bersinar dengan terang di syurga keagungan-Mu.
 

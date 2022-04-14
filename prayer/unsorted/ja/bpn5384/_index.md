@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn5384 in 日本語'
 author = "Báb"
-tags = ['lang-ja', '', "Báb", "unsorted"]
+tags = ['lang-ja', 'prayer-', "author-Báb", "category-unsorted", "cat-援助"]
 +++
 おお主よ。あなたのお喜びの境内けいだいの外に残された創造物はないよう、地上のすべての
 人々をあなたの信教の楽園に招き入れ給え。

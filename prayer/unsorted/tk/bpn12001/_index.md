@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12001 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Umumy Ýygnaklar Üçin Mynajatlar"]
 +++
 Hu’Alla.
     Eý meniň Taňrym! Eý Ýalkaýjy! Bu ýygnak Seniň zikriňe bezenendir we bu jem Seniň Melekutyňa üns berendir. Olaryň köňülleri begençden we janlary buşlukly hyjuwdan doludyr.

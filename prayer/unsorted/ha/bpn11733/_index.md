@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11733 in Hausa'
 author = "Bahá'u'lláh"
-tags = ['lang-ha', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ha', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Kāriya"]
 +++
 Yabo ya tabbata a garēka, yā Ubangiji Allāna! Gā ni ina nēman tarbon irādarka, kuma nā nufā wajen kujērar alfurmarka. Nī nē wanda na yi wātsi da kōmi, na nufi ƙalƙashin kāriyarka, na jūya fuskāta wajen munbārin bayyanarka da zauren ɗaukakarka. 
 Ina rōƙon ka, yā Ubangijina, don kiranka wanda ya sā waɗanda suka bāda gaskiya ga ɗayantakarka, kuma suka zābura nēman tsīra ƙalƙashin rahamarka, kiranka da ya sā māsu ciki ɗaya, suka yi nēsa da kansu, kuma suka yō wajen sūnanka mai girma, wanda ta wajenshi āyōyinka suka sauko, alkawalinka ya cika, shaidarka ta tabbata, haskenka ya bayyana, gaskiyarka ta tabbata, alāmunka ya huto hīli.

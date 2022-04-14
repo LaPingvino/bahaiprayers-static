@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6542 in 한국어'
 author = "Bahá'u'lláh"
-tags = ['lang-ko', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ko', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-시녀"]
 +++
 저의 얼굴이 바로 주님의 얼굴....., 주님의 시녀들을
 

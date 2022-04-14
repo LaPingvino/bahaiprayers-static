@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn606 in Deutsch'
 author = "Bahá'u'lláh"
-tags = ['lang-de', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-de', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Reue und Vergebung"]
 +++
 Die Milde Deiner Gnade, o mein Herr, überragt die Wut Deines Zornes, Deine Güte übertrifft Dein jähes Missfallen und Deine Gnade ist größer als Deine Gerechtigkeit. Nimm Du in Deiner wundersamen Gunst und Barmherzigkeit Deine Geschöpfe bei der Hand und lasse sie nicht von der Gnade ausgeschlossen sein, durch die sie Dich nach Deinem Willen erkennen sollen. Der Glanz Deiner Macht ist mein Zeuge! Sollte solches geschehen, so würde jede Seele heftig erschüttert, jeder Einsichtige verwirrt und jeder Wissende sprachlos, ausgenommen jene, denen durch die Hände Deiner Sache Hilfe zuteil ward, jene, die Du zu Empfängern der Offenbarungen Deiner Gnade und der Zeichen Deiner Gunst machtest.
 Ich schwöre bei Deiner Macht, o mein Gott! Wolltest Du Deine Diener nach ihrem Verdienst in Deinen Tagen betrachten, so verdienten sie gewiss nur Deine Strafe und Züchtigung. Du bist indes der große Wohltäter, dessen Gnade unermesslich ist. Schaue sie nicht an, o mein Gott, mit dem Blick Deiner Gerechtigkeit, sondern mit dem Auge Deines zärtlichen Mitleids und Deines Erbarmens. Verfahre alsdann mit ihnen, wie es Deiner Freigebigkeit und Deiner großmütigen Gunst entspricht. Mächtig bist Du zu tun, was immer Dir gefällt. Unvergleichlich bist Du. Es gibt keinen Gott außer Dir, dem Herrn des Thrones droben und auf Erden hienieden, dem Herrscher dieser und der zukünftigen Welt. Du bist der Gott der Großmut, der Immervergebende, der Große Geber, der Freigebigste.

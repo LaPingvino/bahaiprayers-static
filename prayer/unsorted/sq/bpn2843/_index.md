@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn2843 in Shqip'
 author = "Bahá'u'lláh"
-tags = ['lang-sq', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sq', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Uniteti"]
 +++
 Lavdia qoftë mbi Ty, O Perëndi, për shfaqjen e dashurisë Sate për njerëzimin! O Ti që je Jeta dhe Drita jonë, udhëhiqi shërbëtorët e Tu në rrugën Tënde dhe na bëj të pasur në Ty, e na çliro nga gjithçka veç Teje.
 

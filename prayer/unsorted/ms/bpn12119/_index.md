@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12119 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-KETAKTERIKATAN"]
 +++
 Aku tidak mengetahui, Ya Tuhanku, apakah Api yang telah Engkau nyalakan di bumi-Mu. Bumi tidak akan pernah dapat menutupi kegemilangannya, mahupun sebarang air dapat memadamkan sinarannya. Semua manusia di dunia tidak berupaya untuk menahan kuasanya. Besarlah berkat dia yang telah mendekatinya, dan mendengar laungannya.
 

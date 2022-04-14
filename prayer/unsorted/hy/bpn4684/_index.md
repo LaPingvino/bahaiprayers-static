@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4684 in հայերեն'
 author = "Bahá'u'lláh"
-tags = ['lang-hy', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-hy', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-ՀՈՒՇԱՏԱԽՏԱԿՆԵՐ ԱՅՑԵԼՈՒԹՅԱՆ ՄԱՍԻՆ"]
 +++
 *Այս Հուշատախտակը կարդացվում է Բահաուլլայի ու Բաբի Տաճարներում: Դրան են դիմում նաև Նրանց հիշատակման օրերում:
 

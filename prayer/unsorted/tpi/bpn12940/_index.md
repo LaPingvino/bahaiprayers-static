@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12940 in Tok Pisin'
 author = "Abdu'l-Bahá"
-tags = ['lang-tpi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tpi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-CHILDREN"]
 +++
 O God, soim rot long mi.  Lukautim mi.  Mekim mi i kamap olsem lam i lait na sta i lait tru.  Yu Strong na Yu Gat Pawa. 
 

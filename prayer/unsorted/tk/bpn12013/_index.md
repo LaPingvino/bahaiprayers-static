@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12013 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Rizwan Ýazgysy"]
 +++
 Dogrudanam budur, Jomartlygyň belent mertebe şapagyndan aýdyň bolan Ylahy baýram.
     Eý gerçeklik öýüniň ýaşaýjylary! Eý bigünälik çadyrynyň ýaşaýjylary! Eý sylag we Rähmet dergähiniň ýaşaýjylary!

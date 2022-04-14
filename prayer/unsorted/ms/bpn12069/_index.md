@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12069 in Bahasa Melayu'
 author = "Bahá'u'lláh"
-tags = ['lang-ms', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-FAJAR"]
 +++
 Ya Tuhanku dan Rajaku! Aku adalah hamba-Mu dan putera hamba-Mu. Aku telah bangun dari tempat tidurku pada waktu fajar ini, ketika Suria Keesaan-Mu telah bersinar dari Subuh kehendak-Mu, dan telah memancarkan sinar-Nya ke seluruh dunia, sesuai dengan apa yang telah dirukunkan dalam Kitab-Kitab Perintah-Mu.
 

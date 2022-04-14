@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11977 in Türkmençe'
 author = "Abdu'l-Bahá"
-tags = ['lang-tk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Özüňden Geçmek (Pida Bolmak)"]
 +++
 Hu’Alla.
     Barhudaýa! Seniň ýaranlaryňy ýatlamakdan, ýekeje dem asuda däldigimi, olaryň zikri bilen dem alýandygymy hem olaryň didaryndan başga arzuwymyň ýokdygyny görýänsiň. Sen bu zatlara ägä we danasyň. Olaryň söýgüsinden janym rahat tapar we olaryň didaryndan wyjdanym şatlyga ýeter.

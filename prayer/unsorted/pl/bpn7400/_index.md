@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7400 in Polski'
 author = "Bahá'u'lláh"
-tags = ['lang-pl', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Spotkania"]
 +++
 Pochwalony bądź, o Panie, Boże mój! Błagam Cię na porywy wiatru Twojej łaski i na Tych, którzy są Brzaskami Twojego zamierzenia i Miejscami Świtania Twojego natchnienia, abyś zesłał na mnie i na wszystkich, którzy poszukują Twego oblicza, co przystoi Twojej hojności i obfitej łasce i co godne jest Twoich darów i względów. Biedny i opuszczony jestem, o mój Panie! Zanurz mnie w oceanie swojego bogactwa; spragniony jestem, pozwól mi napić się żywej wody swej serdecznej dobroci.
     

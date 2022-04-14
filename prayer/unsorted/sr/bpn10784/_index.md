@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10784 in Srpski српски'
 author = "Bahá'u'lláh"
-tags = ['lang-sr', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-sr', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-VOĐSTVO"]
 +++
 O Ti, pred Čijim je zastrašujućim veličanstvom sve drhtalo, u Čijim su rukama svi ljudski poslovi, ka Čijim se čarima i milosti upravljaju lica svih koje si stvorio! Zaklinjem Te, Tvojim Imenom za koje si odredio da bude duh svih imena koja postoje u Kraljevstvu imena, da nas zaštitiš od šapata onih koji su se odvratili od Tebe, i koji su odbacili istinu o Tvom najdivnijem i najuzvišenijem Biću, u ovom Otkrovenju od kojeg je Kraljevstvo Tvojih imena zadrhtalo.
 

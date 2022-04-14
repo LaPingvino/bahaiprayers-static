@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7341 in Polski'
 author = "Báb"
-tags = ['lang-pl', '', "Báb", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Báb", "category-unsorted", "cat-Ochrona"]
 +++
 W Imię Boga, Pana przemożnego majestatu, Nieodpartego!
    

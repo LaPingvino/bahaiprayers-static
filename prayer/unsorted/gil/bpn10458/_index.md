@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10458 in Kiribati'
 author = "Bahá'u'lláh"
-tags = ['lang-gil', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-gil', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Te Aki Mamatam"]
 +++
 *E mwakoro n te Kitáb-i-Aqdas: “Ti a tia ni motikia nakoimi bwa kam na bwaina te tataro ao te aki mamatam man moan koron te roro n ikawai; aio are e a baaireaki iroun te Atua, am Uea ao Ueaia am bakatibu… te tia mwananga, naake aoraki, a bikoukou ao naake a kamamma, a aki kabaeaki n te aki mamatam.. Tai bwaina te amwarake ao te moi man otin taai ni karokoa bungin taai, ao taratara bwa e raawa te kaibwabwaru n anaa mai iroum te raoiroi ae e a tia ni motikaki i nanon te Boki.” 
 *Tain te aki mamatam bon man 1 ke 2 Maati ni karokoa 19 ke 20 ni Maati.

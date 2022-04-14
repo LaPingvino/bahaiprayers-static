@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3244 in Afrikaans'
 author = "Bahá'u'lláh"
-tags = ['lang-af', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-af', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Die Huwelik"]
 +++
 *,Die Bahá'í huwelik is verbintenis en hartlike toegeneentheid tussen die twee persone. Hulle moet egter die uiterste sorg uitoefen en kennis maak met mekaar se karakter. Hierdie ewige band behoort verstewig te word deur 'n ferm verbond, en die voorneme behoort te wees om eendrag, gemeenskapsgevoel en eengesindheid te bevorder, en om, die ewige lewe te verkry.' - 'Abdu'l-Bahá'
 

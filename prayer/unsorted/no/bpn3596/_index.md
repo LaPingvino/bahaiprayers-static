@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn3596 in Norsk'
 author = "Bahá'u'lláh"
-tags = ['lang-no', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-no', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Naw-rúz"]
 +++
 *Naw-rúz, den 21. mars, er den første dag i bahá'í året, en gledens dag.
  

@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn11917 in Türkmençe'
 author = "Bahá'u'lláh"
-tags = ['lang-tk', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-tk', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Alkyş We Şükür Etmek"]
 +++
 Päk we Mukaddes Sen, Eý meniň Taňrym!
     Barhudaýa! Sen ýaradylan däl, Özüň ýaradýaň. Sen ösdürim däl, Özüň ösdürýäň. Sen bilinýän däl, Özüň bar zady bilýän Iň Uly Dana.

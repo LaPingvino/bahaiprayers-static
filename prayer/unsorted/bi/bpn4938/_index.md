@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn4938 in Vanuatu'
 author = "Bahá'u'lláh"
-tags = ['lang-bi', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-bi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-YUNITI"]
 +++
 O Masta we Yu kaen tumas! Yu Yu bin krieitem olgeta pipol blong wol aot long semfala stamba nomo. Yu Yu bin talem se evri pipol oli blong wan famle nomo. Long fored blong Yu, we i tabu tumas, mifala i ol wokman blong Yu nomo.  Ol pipol blong wol i haed andanit long tenet blong Yu nomo. Ol pipol oli kam tugeta raon long Teibol blong ol Blesing blong Yu.   Mo evri pipol i kasem laet tru long laet blong wanem Yu Yu givim.
 O God! Yu Yu kaen tumas long evriwan. Yu Yu givim ol samting long evriwan. Yu Yu protektem evriwan. Yu Yu givim laef long evriwan. Yu Yu givim ol talen mo ol kapasiti long evri wanwan man.   Mo evri pipol i stap swim insaed long Bigfala Solwora blong Sori blong Yu.

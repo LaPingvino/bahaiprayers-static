@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8691 in हिंदी'
 author = "Abdu'l-Bahá"
-tags = ['lang-hi', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-hi', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-दिव्य योजना की पाती से"]
 +++
 *(ईश्वर की सुरभि का प्रसार करने वालों को प्रत्येक सुबह इस प्रार्थना का पाठ करना चाहिये।)
 

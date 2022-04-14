@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn6970 in Fiji'
 author = "Bahá'u'lláh"
-tags = ['lang-fj', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-fj', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-NA VEISEREKI"]
 +++
 Era lewe vuqa na uto batabata, O i Kemuni na noqu Kalou, e sa vakatakatataki tu e na bukawaqa ni Nomuni cakacaka, ka lewe vuqa era mocelutu tu era sa vakayadrati e na kamikamica ni Domomuni. Sa bau lewe vica mada era sa vakasaqara na i vakaruru e na ruku ni Nomuni vunikau ni duabau, ka lewe levu vei ira na via gunu era sa vakasaqara nai vurevure ni Nomuni wai bula e na Nomuni veisiga!
 

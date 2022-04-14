@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn8041 in Dansk'
 author = "Bahá'u'lláh"
-tags = ['lang-da', '', "Bahá'u'lláh", "unsorted"]
+tags = ['lang-da', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Den Døde"]
 +++
 Æret være Du, o Herre, min Gud! Beskæm ikke ham Du har ophøjet ved magten i Dit evige herredømme, og fjern ikke ham langt bort fra Dig, som Du har ladet komme ind i Din evigheds helligdom. Vil Du udstøde ham, o min Gud, som Du har skærmet i Dit Herredømme, og vil Du jage ham bort fra Dig, O min Attrå, for hvem Du har været en tilflugt? Kan Du ydmyge den, Du har løftet op, eller glemme den, som Du fik til at ihukomme Dig?
 

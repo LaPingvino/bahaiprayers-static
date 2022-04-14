@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn12129 in Bahasa Melayu'
 author = "Abdu'l-Bahá"
-tags = ['lang-ms', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ms', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-DOA TENGAH MALAM"]
 +++
 Wahai pencari Kebenaran! Jika engkau menginginkan agar Tuhan membuka mata rohanimu, engkau harus minta dengan bersungguh-sungguh kepada Tuhan, berdoa dan berhubung dengan-Nya pada tengah malam, lalu mengatakan:
 

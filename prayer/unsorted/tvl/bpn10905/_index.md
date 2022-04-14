@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10905 in Tuvalu'
 author = "Abdu'l-Bahá"
-tags = ['lang-tvl', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-MOTU KEATEA"]
 +++
 O te Atua, toku Atua! Koe ko toku Fakamoemoega mo taku Fagasele, taku Kiloga mo toku Manakoga.  I se tulaga tafasili i te maulalo mo te fakapalelega o fakanuanaki e talo au kia Koe ke fai au pela me se leo o Tou alofa i Tou fenua, se moli o Tou poto i vasia o Au mea faiite, se fuka o te alofa faka-te-lagi i Tou malo.
      Faka-aofia atu au fakatasi mo Au tavini ko motu mai ia latou mo mea katoa na loa ko Koe, ko faka-mana latou mai i mea se tumau o te lalolagi nei, kae ko oti ne faka-avanoa latou mai i musumusuiga o leo o latou e nofo mo manatu seai ne aogaa.

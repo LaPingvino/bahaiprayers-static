@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn13255 in Slovensky'
 author = "Abdu'l-Bahá"
-tags = ['lang-sk', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-sk', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Tabuľky Božského Plánu"]
 +++
 *Zjavené pre bahájov severovýchodných štátov
 Ó Ty láskavý Pane! Buď Ti chvála za to, že si nám ukázal priamu cestu vedenia, otvoril dvercia kráľovstva a prejavil sa prostredníctvom Slnca Pravej podstaty. Nevidomým si dal zrak, nepočujúcim si udelil sluch, oživil si mŕtvych, obohatil chudobných, tým, ktorí zblúdili, si ukázal cestu. Tých, ktorí mali vyschnuté pery, si zaviedol k žriedlu vedenia; spôsobil si, aby vysmädnuté ryby dosiahli oceán pravej podstaty a túlavé vtáctvo si pozval do ružovej záhrady milosti.

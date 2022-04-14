@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn7419 in Polski'
 author = "Báb"
-tags = ['lang-pl', '', "Báb", "unsorted"]
+tags = ['lang-pl', 'prayer-', "author-Báb", "category-unsorted", "cat-Uniezależnienie się"]
 +++
 W Imię Twego Pana, Stwórcy, Władcy, Wszechwystarczającego i Najwznioślejszego, o którego pomoc błagają wszyscy ludzie.
     

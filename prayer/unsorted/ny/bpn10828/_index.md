@@ -1,7 +1,7 @@
 +++
 title = 'Prayer bpn10828 in Chichewa'
 author = "Abdu'l-Bahá"
-tags = ['lang-ny', '', "Abdu'l-Bahá", "unsorted"]
+tags = ['lang-ny', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-KUPHUNZITSA"]
 +++
 O Mulungu! O Mulungu! Ino ndi mbalame yothyoka phiko ndipo kuwuluka kwake ndi kwapang’ono-pang’ono ithandizeni kuti ithe kuwuluka kufika kunsonga ya chuma ndi chipulumutso, iwuluke ulendo wake ndi chimwemwe ndi chisangalaro chonse kunka mu mlengalenga mopanda malire, kwezani nyimbo yake m’Dzina Lanu Lalikulu mu zigawo zonse, sangalatsani makutu ndi kuyitanaku, ndikuwalitsa maso pakuwona zizindikiro za chitsogozo! 
 
