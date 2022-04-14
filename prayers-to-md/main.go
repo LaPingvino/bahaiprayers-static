@@ -31,7 +31,7 @@ var Local string = APILINK
 type Author int
 
 var TMPLOUTPUT = template.Must(template.New("markdown").Parse(`+++
-title = '{{.Title}}'
+title = "{{.Title}}"
 author = "{{.Author}}"
 tags = ['lang-{{.LanguageCode}}', 'prayer-{{.PrayerCodeTag}}', "author-{{.Author}}", "category-{{.ENCategory}}", "cat-{{.Category}}"]
 +++
