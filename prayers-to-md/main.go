@@ -83,7 +83,7 @@ func ProgressBar(p, max int, part string) {
 	}
 	fmt.Print("]")
 	// Print the percentage
-	fmt.Printf(" %3d%% (%s)          ", p*100/max, part)
+	fmt.Printf(" %3.2f%% (%s)          ", float32(p)*100/float32(max), part)
 }
 
 func GetFile(name string) []byte {
@@ -425,6 +425,10 @@ func main() {
 			lang, name, _ := Language(v)
 			// check if the language is in the list of languages or if the language is "all", if not, skip it
 			if langs != "all" && !strings.Contains(langs, lang) {
+				go func() {
+					c <- pdata{}
+					done <- true
+				}()
 				continue
 			}
 
@@ -449,6 +453,9 @@ func main() {
 		v := co.v
 		lang, name := co.lang, co.name
 		i++
+		if b == nil {
+			continue
+		}
 		// Parse the file
 		err := json.Unmarshal(b, &prayers)
 		if err != nil {
