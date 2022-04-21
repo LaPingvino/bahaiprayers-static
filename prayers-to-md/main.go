@@ -16,12 +16,12 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-	"log"
 	"net/http"
 	"os"
 	"strconv"
 	"sync"
 	"text/template"
+	"time"
 )
 
 const APILINK = "https://BahaiPrayers.net/api/prayer/"
@@ -293,17 +293,24 @@ func main() {
 	type Prayerfile struct {
 		Prayers []Prayer
 	}
-	for _, v := range languages() {
-		log.Printf("Language %d", v)
+	fmt.Println("Starting download...")
+	for i, v := range languages() {
+		lang, name, _ := Language(v)
+		fmt.Printf("Downloading %s (%s)...\n", name, lang)
+		// Save start time
+		start := time.Now()
 		b := GetFile("prayersystembylanguage?html=false&languageid=" + strconv.Itoa(v))
+		// Save end time
+		end := time.Now()
+		fmt.Println("Downloaded in", end.Sub(start))
+		// Parse the file
 		var prayers = Prayerfile{}
 		err := json.Unmarshal(b, &prayers)
 		if err != nil {
 			panic(err)
 		}
-		log.Printf("%#v", prayers)
+		fmt.Printf("Downloaded %d prayers for %s (%s), %d languages to go\n", len(prayers.Prayers), name, lang, len(languages())-i)
 		for _, prayer := range prayers.Prayers {
-			lang, name, _ := Language(v)
 			prayer.Title = PrayerName(PrayerCode(prayer.Id, true)) + " in " + name
 			prayer.LanguageId = v
 			prayer.LanguageCode = lang
