@@ -346,10 +346,15 @@ func SaveToSQLite(db *sql.DB, prayermap map[string]Prayerfile) {
 	count := 0
 	// Count prayers per language
 	langCount := make(map[string]int)
+	// Create a transaction
+	tx, err := db.Begin()
+	if err != nil {
+		panic(err.Error())
+	}
 	// Insert all the rows
 	for lang, prayerfile := range prayermap {
 		for _, prayer := range prayerfile.Prayers {
-			_, err = db.Exec(`INSERT INTO prayers (prayercode, language, source, title, author, text) VALUES (?, ?, ?, ?, ?, ?)`,
+			_, err = tx.Exec(`INSERT INTO prayers (prayercode, language, source, title, author, text) VALUES (?, ?, ?, ?, ?, ?)`,
 				PrayerCode(prayer.Id, false),
 				lang,
 				"https://bahaiprayers.net/Book/Single/"+strconv.Itoa(prayer.LanguageId)+"/"+strconv.Itoa(int(prayer.Id)),
@@ -364,11 +369,12 @@ func SaveToSQLite(db *sql.DB, prayermap map[string]Prayerfile) {
 			ProgressBar(count, total, lang)
 		}
 	}
-	fmt.Println()
-	fmt.Println("Prayers per language:")
-	for lang, count := range langCount {
-		fmt.Println(lang, ":", count)
+	// Commit the transaction
+	err = tx.Commit()
+	if err != nil {
+		panic(err.Error())
 	}
+	fmt.Println()
 }
 
 func main() {
