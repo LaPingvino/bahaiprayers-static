@@ -12,16 +12,20 @@
 package main
 
 import (
+	"database/sql"
 	"encoding/csv"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io/ioutil"
 	"net/http"
 	"os"
 	"strconv"
+	"strings"
 	"sync"
 	"text/template"
-	"time"
+
+	_ "modernc.org/sqlite"
 )
 
 const APILINK = "https://BahaiPrayers.net/api/prayer/"
@@ -66,6 +70,22 @@ type Prayer struct {
 	}
 }
 
+func ProgressBar(p, max int, part string) {
+	// Go to the start of the line
+	fmt.Print("\r")
+	// Print a progress bar
+	fmt.Print("[")
+	for i := 0; i < p*100/max; i++ {
+		fmt.Print("=")
+	}
+	for i := p * 100 / max; i < 100; i++ {
+		fmt.Print(" ")
+	}
+	fmt.Print("]")
+	// Print the percentage
+	fmt.Printf(" %3d%% (%s)          ", p*100/max, part)
+}
+
 func GetFile(name string) []byte {
 	r, err := http.Get(Local + name)
 	if err != nil {
@@ -101,6 +121,7 @@ func Language(lang int) (code string, name string, rtl string) {
 		if err != nil {
 			panic(err.Error())
 		}
+		defer f.Close()
 		c := csv.NewReader(f)
 		c.FieldsPerRecord = 7
 		ls, err := c.ReadAll()
@@ -130,6 +151,7 @@ func PrayerCode(prayer int, showbpn bool) (code string) {
 		if err != nil {
 			panic(err.Error())
 		}
+		defer f.Close()
 		c := csv.NewReader(f)
 		c.FieldsPerRecord = -1
 		ps, err := c.ReadAll()
@@ -156,8 +178,6 @@ func PrayerCode(prayer int, showbpn bool) (code string) {
 	return
 }
 
-var dirbase = "prayer/"
-
 type PathElement int
 
 const (
@@ -177,6 +197,7 @@ func CategoryByPrayer(prayerCode string) string {
 	if err != nil {
 		panic(err.Error())
 	}
+	defer f.Close()
 	c := csv.NewReader(f)
 	c.FieldsPerRecord = -1
 	cs, err := c.ReadAll()
@@ -214,10 +235,12 @@ func PrayerName(prayerCode string) string {
 	return "Prayer " + prayerCode
 }
 
-func SavePrayer(prayer Prayer, path ...PathElement) {
-	var dir string
+func SavePrayer(dir string, prayer Prayer, path ...PathElement) {
 	var showBPN bool
-	dir = dirbase
+	// check if dir ends with /
+	if dir[len(dir)-1] != '/' {
+		dir += "/"
+	}
 	// Iterate over the path elements and create the directory structure
 	// For every but the last element, if there is no _index.md file, create it
 	// and fill it with front matter
@@ -289,28 +312,150 @@ title = "%s"
 
 }
 
-func main() {
-	type Prayerfile struct {
-		Prayers []Prayer
+type Prayerfile struct {
+	Prayers []Prayer
+}
+
+// SaveToSQLite saves the prayers to the SQLite database
+func SaveToSQLite(db *sql.DB, prayermap map[string]Prayerfile) {
+	// Table structure: id, prayercode, language, source, title, author, text
+	// Source is https://bahaiprayers.net/Book/Single/1/6342 where 1 is to be replaced by the language id and 6342 is to be replaced by the bpn id
+	// Language is the language code
+	// Author is the author name
+	// Title is the prayer name
+	// Text is the prayer text
+	// Prayercode is the prayer code from code.list
+
+	// Create the table if it doesn't exist
+	_, err := db.Exec(`CREATE TABLE IF NOT EXISTS prayers (id INTEGER PRIMARY KEY, prayercode TEXT, language TEXT, source TEXT, title TEXT, author TEXT, text TEXT)`)
+	if err != nil {
+		panic(err.Error())
 	}
+	// Delete all the rows
+	_, err = db.Exec(`DELETE FROM prayers`)
+	if err != nil {
+		panic(err.Error())
+	}
+	// Count the number of prayers
+	total := 0
+	for _, pf := range prayermap {
+		for range pf.Prayers {
+			total++
+		}
+	}
+	count := 0
+	// Count prayers per language
+	langCount := make(map[string]int)
+	// Insert all the rows
+	for lang, prayerfile := range prayermap {
+		for _, prayer := range prayerfile.Prayers {
+			_, err = db.Exec(`INSERT INTO prayers (prayercode, language, source, title, author, text) VALUES (?, ?, ?, ?, ?, ?)`,
+				PrayerCode(prayer.Id, false),
+				lang,
+				"https://bahaiprayers.net/Book/Single/"+strconv.Itoa(prayer.LanguageId)+"/"+strconv.Itoa(int(prayer.Id)),
+				prayer.Title,
+				prayer.Author.String(),
+				prayer.Text)
+			if err != nil {
+				panic(err.Error())
+			}
+			count++
+			langCount[lang]++
+			ProgressBar(count, total, lang)
+		}
+	}
+	fmt.Println()
+	fmt.Println("Prayers per language:")
+	for lang, count := range langCount {
+		fmt.Println(lang, ":", count)
+	}
+}
+
+func main() {
+	// Define command line flags
+	// -d output directory (default: prayer)
+	// -o output sqlite file (default: prayer.db)
+	// -l list of languages (default: all)
+	// the language list consists of language codes separated by commas
+	// -dir output to files? (default: false)
+	// -db output to sqlite? (default: false)
+	// -s show bpn prayers? (default: false)
+	// -t number of threads (default: 1)
+	var outputDir string
+	var outputFile string
+	var langs string
+	var outputToFiles bool
+	var outputToSQLite bool
+	var showBPN bool
+	var numThreads int
+	var db *sql.DB
+	flag.StringVar(&outputDir, "d", "prayer", "Output directory")
+	flag.StringVar(&outputFile, "o", "prayer.db", "Output sqlite file")
+	flag.StringVar(&langs, "l", "all", "List of languages")
+	flag.BoolVar(&outputToFiles, "dir", false, "Output to files?")
+	flag.BoolVar(&outputToSQLite, "db", false, "Output to sqlite?")
+	flag.BoolVar(&showBPN, "s", false, "Show bpn prayers?")
+	flag.IntVar(&numThreads, "t", 1, "Number of threads")
+	flag.Parse()
+
 	fmt.Println("Starting download...")
-	for i, v := range languages() {
-		lang, name, _ := Language(v)
-		fmt.Printf("Downloading %s (%s)...\n", name, lang)
-		// Save start time
-		start := time.Now()
-		b := GetFile("prayersystembylanguage?html=false&languageid=" + strconv.Itoa(v))
-		// Save end time
-		end := time.Now()
-		fmt.Println("Downloaded in", end.Sub(start))
+	// if sqlite output is set, create the database
+	if outputToSQLite {
+		var err error
+		db, err = sql.Open("sqlite", outputFile)
+		if err != nil {
+			panic(err.Error())
+		}
+		defer db.Close()
+	}
+	prayerMap := make(map[string]Prayerfile) // map of language code to prayer file
+
+	type pdata struct {
+		b []byte
+		v int
+		lang, name string
+	}
+	// Create a channel to receive the data
+	c := make(chan pdata, numThreads)
+	// Create a channel to signal the end of the download
+	done := make(chan bool)
+	fmt.Println("Downloading...")
+	go func() {
+		for _, v := range languages() {
+			lang, name, _ := Language(v)
+			// check if the language is in the list of languages or if the language is "all", if not, skip it
+			if langs != "all" && !strings.Contains(langs, lang) {
+				continue
+			}
+
+			co := pdata{nil, v, lang, name}
+			go func(bco pdata) {
+				bco.b = GetFile("prayersystembylanguage?html=false&languageid=" + strconv.Itoa(bco.v))
+				c <- bco
+				done <- true
+			}(co)
+		}
+		// Wait for all the goroutines to finish
+		for i := 0; i < len(languages()); i++ {
+			<-done
+		}
+		close(c)
+	}()
+
+	i := 0
+	for co := range c {
+		var prayers Prayerfile
+		b := co.b
+		v := co.v
+		lang, name := co.lang, co.name
+		i++
 		// Parse the file
-		var prayers = Prayerfile{}
 		err := json.Unmarshal(b, &prayers)
 		if err != nil {
 			panic(err)
 		}
-		fmt.Printf("Downloaded %d prayers for %s (%s), %d languages to go\n", len(prayers.Prayers), name, lang, len(languages())-i)
-		for _, prayer := range prayers.Prayers {
+		ProgressBar(i, len(languages()), lang)
+		for i, prayer := range prayers.Prayers {
 			prayer.Title = PrayerName(PrayerCode(prayer.Id, true)) + " in " + name
 			prayer.LanguageId = v
 			prayer.LanguageCode = lang
@@ -318,7 +463,42 @@ func main() {
 			prayer.PrayerCode = PrayerCode(prayer.Id, true)
 			prayer.PrayerCodeTag = PrayerCode(prayer.Id, false)
 			prayer.ENCategory = CategoryByPrayer(PrayerCode(prayer.Id, true))
-			SavePrayer(prayer, ShowBPN, CategoryPathElement, PrayerCodePathElement, LanguagePathElement, BPNPathElement)
+			prayers.Prayers[i] = prayer
 		}
+		// Save the prayers to the map
+		prayerMap[lang] = prayers
+	}
+	fmt.Println()
+	// Save the prayers to the output directory
+	if outputToFiles {
+		// count the number of prayers
+		total := 0
+		for _, pf := range prayerMap {
+			for range pf.Prayers {
+				total++
+			}
+		}
+		count := 0
+		fmt.Println("Saving prayers to files...")
+		for _, prayerlist := range prayerMap {
+			if showBPN {
+				for _, p := range prayerlist.Prayers {
+					count++
+					SavePrayer(outputDir, p, ShowBPN, CategoryPathElement, PrayerCodePathElement, LanguagePathElement, BPNPathElement)
+				}
+			} else {
+				for _, p := range prayerlist.Prayers {
+					count++
+					SavePrayer(outputDir, p, CategoryPathElement, PrayerCodePathElement, LanguagePathElement)
+				}
+			}
+			ProgressBar(count, total, strconv.Itoa(count))
+		}
+		fmt.Println()
+	}
+	// Save the prayers to the SQLite database
+	if outputToSQLite {
+		fmt.Println("Saving prayers to SQLite...")
+		SaveToSQLite(db, prayerMap)
 	}
 }
