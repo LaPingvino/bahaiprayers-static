@@ -1,7 +1,7 @@
 +++
 title = "Prayer AB00049RAP in English"
 author = "Abdu'l-Bahá"
-tags = ['lang-en', 'prayer-AB00049RAP', "author-Abdu'l-Bahá", "category-Tablets of the Divine Plan", "cat-Tablets of the Divine Plan"]
+tags = ['lang-en', 'prayer-AB00049RAP', "author-Abdu'l-Bahá", "category-Tablets of the Divine Plan", "cat-America"]
 +++
 ##Revealed to the Bahá’ís of the United States and Canada
 
@@ -15,5 +15,5 @@ O Lord! Grant me communion with Thee in my loneliness, and be my companion in th
 
 Verily, Thou art the Confirmer of whomsoever Thou willest in that which Thou desirest, and, verily, Thou art the All-Powerful, the Omnipotent.
 
-(Source category: Tablets of the Divine Plan)
+(Source category: America)
 (Bahaiprayers.net ID: 430)
