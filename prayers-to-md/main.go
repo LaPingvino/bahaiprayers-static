@@ -75,6 +75,9 @@ func ProgressBar(p, max int, part string) {
 	fmt.Print("\r")
 	// Print a progress bar
 	fmt.Print("[")
+	if max < 1 {
+		max = 1
+	}
 	for i := 0; i < p*100/max; i++ {
 		fmt.Print("=")
 	}
