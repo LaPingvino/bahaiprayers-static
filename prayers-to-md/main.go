@@ -21,7 +21,6 @@ import (
 	"net/http"
 	"os"
 	"strconv"
-	"strings"
 	"sync"
 	"text/template"
 
@@ -389,14 +388,12 @@ func main() {
 	// -dir output to files? (default: false)
 	// -db output to sqlite? (default: false)
 	// -s show bpn prayers? (default: false)
-	// -t number of threads (default: 1)
 	var outputDir string
 	var outputFile string
 	var langs string
 	var outputToFiles bool
 	var outputToSQLite bool
 	var showBPN bool
-	var numThreads int
 	var db *sql.DB
 	flag.StringVar(&outputDir, "d", "prayer", "Output directory")
 	flag.StringVar(&outputFile, "o", "prayer.db", "Output sqlite file")
@@ -404,10 +401,8 @@ func main() {
 	flag.BoolVar(&outputToFiles, "dir", false, "Output to files?")
 	flag.BoolVar(&outputToSQLite, "db", false, "Output to sqlite?")
 	flag.BoolVar(&showBPN, "s", false, "Show bpn prayers?")
-	flag.IntVar(&numThreads, "t", 1, "Number of threads")
 	flag.Parse()
 
-	fmt.Println("Starting download...")
 	// if sqlite output is set, create the database
 	if outputToSQLite {
 		var err error
@@ -418,54 +413,12 @@ func main() {
 		defer db.Close()
 	}
 	prayerMap := make(map[string]Prayerfile) // map of language code to prayer file
-
-	type pdata struct {
-		b []byte
-		v int
-		lang, name string
-	}
-	// Create a channel to receive the data
-	c := make(chan pdata, numThreads)
-	// Create a channel to signal the end of the download
-	done := make(chan bool)
-	fmt.Println("Downloading...")
-	go func() {
-		for _, v := range languages() {
-			lang, name, _ := Language(v)
-			// check if the language is in the list of languages or if the language is "all", if not, skip it
-			if langs != "all" && !strings.Contains(langs, lang) {
-				go func() {
-					c <- pdata{}
-					done <- true
-				}()
-				continue
-			}
-
-			co := pdata{nil, v, lang, name}
-			go func(bco pdata) {
-				bco.b = GetFile("prayersystembylanguage?html=false&languageid=" + strconv.Itoa(bco.v))
-				c <- bco
-				done <- true
-			}(co)
-		}
-		// Wait for all the goroutines to finish
-		for i := 0; i < len(languages()); i++ {
-			<-done
-		}
-		close(c)
-	}()
-
-	i := 0
-	for co := range c {
-		var prayers Prayerfile
-		b := co.b
-		v := co.v
-		lang, name := co.lang, co.name
-		i++
-		if b == nil {
-			continue
-		}
+	fmt.Println("Starting download...")
+	for i, v := range languages() {
+		lang, name, _ := Language(v)
+		b := GetFile("prayersystembylanguage?html=false&languageid=" + strconv.Itoa(v))
 		// Parse the file
+		var prayers = Prayerfile{}
 		err := json.Unmarshal(b, &prayers)
 		if err != nil {
 			panic(err)
