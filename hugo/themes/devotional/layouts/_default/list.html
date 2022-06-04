@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ with .Parent }}
+<a href="{{ .RelPermalink}}">&lt;&lt; {{ .Title }}</a>
+{{ end }}
+<div id="inner">
+{{ .Content }}
+{{ range or .Pages .Sections }}
+<h2 class="list"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+{{ with or .Description .Summary }}<p>{{ . }}</p><hr />{{ end }}
+{{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,14 @@
+baseURL = "https://devotional.gq/"
+languageCode = "en-us"
+title = "devotional.gq"
+subtitle = "Devotionals of Great Quality"
+description = "A website with texts from the Holy Writings for usage in Devotional Meetings"
+theme = "devotional"
+relativeURLs = true
+
+[params]
+pwamanifest = "/devotional.webmanifest"
+pwaworker = "/pwabuilder-sw.js"
+
+[markup.goldmark.renderer]
+unsafe = true

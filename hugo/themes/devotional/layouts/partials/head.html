@@ -1,0 +1,53 @@
+<head>
+	<meta charset="utf-8">
+	<title>{{ .Site.Title }} - {{ .Title }}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="lightgrey">
+	{{ with .Site.Params.Pwamanifest }}<link rel="manifest" href="{{ . | default "manifest.json" }}">{{ end }}
+<style>
+#header h1 {
+	background: url('/logo.png') no-repeat left;
+	background-size: 50px 50px;
+	margin: 25px;
+	vertical-align: center;
+	padding: 0;
+	padding-left: 60px;
+	height: 50px;
+	font-size: 2em;
+}
+#menu {
+	margin: 25px;
+}
+a {
+	text-decoration: underline;
+	color: black;
+}
+a:hover {
+	text-decoration: none;
+	color: darkblue;
+}
+#header {
+	border-bottom: thin solid black;
+}
+#content {
+	margin: 40px;
+}
+.wrtitle::before {
+	content: '#'
+}
+.wrtitle {
+	float: left;
+	margin: 1ex;
+}
+.rtl {
+	direction: rtl;
+}
+h2 {
+	display: inline;
+	padding: 1ex;
+}
+h2 + div {
+	display: block;
+}
+</style>
+</head>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body{{ with .Param "rtl"}} class="{{ . }}"{{ end }}>
+        {{- partial "header.html" . -}}
+        <div id="content">
+        {{- block "main" . }}{{- end }}
+
+	{{ with .Param "author" }}-- {{ . }}{{ end }}
+        </div>
+{{ with .Param "tags" }}
+<hr />
+<div id="tags">
+  {{ range $index, $tag := (. | sort) }} 
+  {{ with $.Site.GetPage (printf "/%s/%s" "tags" $tag) }}
+    [<a href="{{ .RelPermalink }}">#{{ $tag | urlize }}</a>] 
+  {{ end }}
+  {{ end }}
+</div>
+{{ end }}
+        {{- partial "footer.html" . -}}
+    </body>
+</html>

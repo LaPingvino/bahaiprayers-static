@@ -1,0 +1,3 @@
+[submodule "hugo/public/pwa"]
+	path = hugo/public/pwa
+	url = https://github.com/LaPingvino/devotional-pwa
