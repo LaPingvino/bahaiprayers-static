@@ -1,3 +1,4 @@
-[submodule "hugo/public/pwa"]
-	path = hugo/public/pwa
+[submodule "hugo/static/pwa"]
+	path = hugo/static/pwa
 	url = https://github.com/LaPingvino/devotional-pwa
+	branch = master
