@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn6282 in Luganda"
-author = "Bahá'u'lláh"
-tags = ['lang-lg', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-OKUSOMESA"]
-+++
-Erinya Lyo litenderezebwe, Ayi Mukama Katonda wange!  Ggwe Ondabira ddala nga amaaso gange ngatunuuliza eri kisa Kyo, era nga elyenyi kyange kikyukidde eri eggulu ly'ekisa Kyo, n'okwagala Kwo, era nga emikono gyange gigoloddwa eri eggutu ly'obugabi Bwo.  Amaanyi go gampaako obujulirwa! Buli kitundu kya mubiri gwange kikukowoola nga kigamba nti; Ayi Ggwe Omwagalwa w'ensi zonna era Mukama wabali mu ggulu ne kunsi, era okwegomba kw'emitima gyabo abewaddewo Gyoli!  Nkwegayirira kulw'ennyanja eyo gyewakunganyi riza abatuuze abomu ggulu era n'abo abatuula kunsi, okuyamba abaddu Bo abo abakyalemeddwa okugituukako, n'okusemberera embalama zayo.  Obayambe, Ayi Katonda wange okweja ku mulala yenna wabula Ggwe, era obayambe okwatula ettendo Lyo, n'okutendereza ebikolwa Byo.  Obawe Ayi Katonda wange, omubisi ogw'emberenge ogw'ekisa Kyo, gubeerabize omulala yenna wabula Ggwe era bayimukiremu okuwereza Enzikiriza yo, era banywerere mu kwagala Kwo.  Ddala ddala, Ggwe Mukama ow'obulamu bwabwe era ekigenderera kyabwe.  Kale Ggwe bw'onobasuula muguluka, ani anabalabirira era bw'ebanatwalibwa ewala okuva Gyoli, ani anabayamba okukutuukirira Ggwe?  Ndayira kulw'obuyinza Bwo!  Tewali buddukiro bulala bwonna wabula Gyoli, era tewali bubudamo bulala wabula obubvro, wadde obukuumi bwonna okujako obukuumi Bwo.  Zibasanze abo abagulumiza omulala yenna wabula Ggwe, era ba mukisa abegye ku byonna ebiri mu nsi era ne bekwala ku munagiro gw'obugabi Bwo. Bano!  Be bantu ba Baha, mu maaso gaabo abali mu ggulu ne kunsi.  Tewali Katonda mulala yenna wabula Ggwe, Amanyi byonna, Kagezi munyu.  Ettendo libe eri Katonda, Mukama ow'ensi zonna.
-
-(Source category: OKUSOMESA)
-(Bahaiprayers.net ID: 6282)

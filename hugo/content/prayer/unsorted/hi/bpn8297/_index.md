@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn8297 in हिंदी"
-author = "Bahá'u'lláh"
-tags = ['lang-hi', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-एकता"]
-+++
-हे परमेश्वर! यह वर दे कि एकता की ज्योति सारी पृथ्वी पर छा जाये और ”साम्राज्य प्रभु का है“ यह मुहर इसके सभी समुदायों एवं राष्ट्रों के ललाट पर अंकित हो जाये।
-
-(Source category: एकता)
-(Bahaiprayers.net ID: 8297)

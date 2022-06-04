@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn5111 in Bahasa Indonesia"
-author = "Abdu'l-Bahá"
-tags = ['lang-id', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Kebahagiaan"]
-+++
-Ya Tuhan! Segarkanlah dan riangkanlah jiwa hamba, murnikanlah hati hamba, terangilah pikiran hamba. Hamba menyerahkan segala urusan hamba ke dalam tangan-Mu. Engkau Pembimbing dan Pelindung hamba. Hamba tak akan lagi bersedih dan susah hati. Hamba akan menjadi manusia yang Bahagia dan gembira. Ya Tuhan hamba tak akan lagi diliputi rasa cemas, tak pula hamba akan membiarkan kesusahan membingungkan hamba. Hamba tak akan memikirkan soal-soal kehidupan yang tak menyenangkan. Ya Tuhan, Engkau lebih ramah kepada hamba daripada hamba kepada hamba sendiri. Hamba menyerahkan diri hamba pada-Mu, ya Tuhan.
-
-(Source category: Kebahagiaan)
-(Bahaiprayers.net ID: 5111)

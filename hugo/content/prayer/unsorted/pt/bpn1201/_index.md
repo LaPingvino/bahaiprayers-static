@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn1201 in Português (BR)"
-author = "Bahá'u'lláh"
-tags = ['lang-pt', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Ensino"]
-+++
-Louvor a Ti, ó Senhor Meu Deus! Ouves a voz da Minha lamentação, e vês a Minha condição, a Minha angústia e aflição! Tu és conhecedor de tudo que está em Mim. Se o clamor que levantei for totalmente por amor a Ti, inclina, então, os corações das Tuas criaturas para o céu do Teu conhecimento, e o coração do Soberano para a mão direita do trono do Teu nome, o Todo-Misericordioso. Provê-lhe então, ó meu Deus, uma porção daquele sustento esplêndido que desceu do céu da Tua generosidade e das nuvens da Tua misericórdia, para que possa abandonar tudo o que lhe pertence, e volver-se para a corte do Teu favor. Ajuda-o, ó Meu Deus, a auxiliar a Tua Causa e a exaltar a Tua Palavra em meio às Tuas criaturas. Fortalece-o, então, com as hostes do visível e do invisível, para que possa conquistar toda a cidade em Teu Nome, e manter o domínio, através de Tua soberania e poder, sobre todos os que habitam a terra, ó Tu, em cuja mão está o reino da criação! Tu, verdadeiramente, és o Supremo Ordenador, tanto no início como no fim. Nenhum Deus há além de Ti, o Mais Poderoso, o Todo-Glorioso, o Omnissapiente.
-
-(Source category: Ensino)
-(Bahaiprayers.net ID: 1201)

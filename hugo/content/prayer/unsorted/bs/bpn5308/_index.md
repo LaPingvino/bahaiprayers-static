@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn5308 in Bosanski"
-author = "Bahá'u'lláh"
-tags = ['lang-bs', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Vjernice"]
-+++
-Kada bi spoznala slatkoću zvanja ‚ O Vjernice Moja‛, odvojila bi se od čovječanstva i dala se u danonoćno drugovanje s Njim koji je jedina čežnja svijeta.
-
-(Source category: Vjernice)
-(Bahaiprayers.net ID: 5308)

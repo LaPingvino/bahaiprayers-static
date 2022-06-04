@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn9543 in Nederlands"
-author = "Bahá'u'lláh"
-tags = ['lang-nl', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-Bescherming"]
-+++
-Leid Uw dienaren, o mijn Heer, naar het hof van Uw gunst en milddadigheid en laat hen niet verstoken zijn van de wonderen van Uw genade en van Uw menigvuldige zegeningen. Want zij weten niet wat Gij voor hen hebt beschikt krachtens Uw barmhartigheid die de gehele schepping omvat. O Heer, uiterlijk zijn zij zwak en hulpeloos, en innerlijk zijn zij slechts wezen. Gij zijt de Almilddadige, de Weldadige, de Verhevenste, de Grootste. O mijn God, laat Uw felle toorn niet op hen neerkomen en zorg dat zij wachten tot de tijd dat de wonderen van Uw barmhartigheid zullen zijn geopenbaard, opdat zij tot U mogen terugkeren en U om vergiffenis vragen voor alles wat zij U hebben aangedaan. Waarlijk, Gij zijt de Vergevende, de Albarmhartige.
-
-(Source category: Bescherming)
-(Bahaiprayers.net ID: 9543)

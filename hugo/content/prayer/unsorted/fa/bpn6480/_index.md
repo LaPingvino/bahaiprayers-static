@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn6480 in فارسی"
-author = "Abdu'l-Bahá"
-tags = ['lang-fa', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-دختران"]
-+++
-ای پروردگار این دختر ملکوت را در دو جهان عزیز نما. از جهان خاک و خاکیان بیزار کن و به جهان باقی همدم و همراز نما. قوت تأیید بخش و به نَفَثاتِ رُوحّ القُدُس تقویت نما تا به خدمتت قیام نماید. تویی توانا. ع ع
-
-(Source category: دختران)
-(Bahaiprayers.net ID: 6480)

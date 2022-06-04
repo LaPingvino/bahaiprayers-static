@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn4727 in Azərbaycan"
-author = "Abdu'l-Bahá"
-tags = ['lang-az', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Bəşəriyyət üçün dualar"]
-+++
-Sən Ey Mehriban Allah! Sən Ey Səxavətli və Mərhəmətli! Biz Sənin astananın bəndələriyik və Sənin İlahi birliyinin kölgəsinə sığınmışıq. Sənin mərhəmət işığın hamının üstünə saçır və Sənin inayət buludlarının yağışları hamının üzərinə yağır. Sənin bəxşişlərin hamını bürüyüb və Sənin fəzlin hamını saxlayır, Sənin himayən hamıya kölgə salır, Sənin lütf nəzərin hamının üzərindədir. İlahi! Sonsuz lütfünü bəxş et və qoy hidayət çırağı şölə sacsın. Gözləri nurlandır və daimi sevinclə ürəkləri sevindir. Bütün xalqlara yeni ruh əta eylə və əbədi həyat baxş eylə. İrfan qapılarını aç və iman nurunu parlat. Bütün xalqları kəramətinin kölgəsinə topla və onları barış içində birləşdir, ta ki, bir günəşin şuaları, bir dənizin dalğaları və bir ağacın meyvələri olsunlar. Qoy onalr eyni bir çeşmədən su içsinlər. Qoy onlar eyni bir nəsimlə təravətlənsinlər. Qoy onlar eyni bir nur mənbəyindən işıq alsınlar. Sənsən Ətaedən, Sənsən Mərhəmətli və Qüdrətli.
-
-(Source category: Bəşəriyyət üçün dualar)
-(Bahaiprayers.net ID: 4727)

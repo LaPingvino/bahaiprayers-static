@@ -1,3 +1,0 @@
-+++
-title = "Tok Pisin"
-+++

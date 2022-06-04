@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn3254 in العربية"
-author = "Bahá'u'lláh"
-tags = ['lang-ar', 'prayer-', "author-Bahá'u'lláh", "category-unsorted", "cat-التبليغ"]
-+++
-مَن يَدْعُ النَّاسَ باسْمِي فَإِنَّهُ مِنِّي ويَظْهَرُ مِنْهُ مَا يَعْجَزُ عَنْهُ مَنْ عَلَى الأَرْضِ كُلِّهَا.
-
-(Source category: التبليغ)
-(Bahaiprayers.net ID: 3254)

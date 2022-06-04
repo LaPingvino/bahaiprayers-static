@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn5495 in 日本語"
-author = "Abdu'l-Bahá"
-tags = ['lang-ja', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-子ども"]
-+++
-栄光に満ち給う主よ。あなたのこの幼い侍女じじょを祝福し、幸せになし、あなたの一体性の敷居で愛される存在となし給え。そして、この侍女じじょが感動と喜びに満たされ、甘美なる芳香ほうこうを世に広めることができますよう、あなたの愛の聖杯より飲ませ給え。あなたは威力と力に満ち、すべてを知り、すべてを見給う御方におわします。
-
-(Source category: 子ども)
-(Bahaiprayers.net ID: 5495)

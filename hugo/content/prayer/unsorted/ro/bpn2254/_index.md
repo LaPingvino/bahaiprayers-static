@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn2254 in România"
-author = "Abdu'l-Bahá"
-tags = ['lang-ro', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-Omenire"]
-+++
-O, Tu Stăpâne bun! Tu Care eşti generos şi milostiv! Noi suntem slujitorii pragului Tău şi ne-am adunat la umbra ocrotitoare a unităţii Tale divine. Soarele providenţei Tale străluceşte deasupra tuturor şi norii mărinimiei Tale se revarsă asupra tuturor. Darurile Tale îi cuprind pe toţi, providenţa Ta iubitoare îi susţine pe toţi, ocrotirea Ta îi adumbreşte pe toţi şi privirile favorii Tale cad asupra tuturor. O, Doamne! Acordă-ne darurile Tale infinite şi lasă lumina călăuzirii să strălucească. Luminează ochii, bucură inimile cu o bucurie Statornică. Conferă tuturor oamenilor un spirit nou şi dăruieşte-le viaţă veşnică. Descuie porţile adevăratei înţelegeri şi lasă lumina credinţei să strălucească. Adună toţi oamenii la umbra mărinimiei Tale şi la adăpostul ocrotirii Tale, ca ei să poată deveni asemenea razelor unui singur soare, asemenea valurilor unui singur ocean, asemenea roadelor unui singur pom. Fie ca ei să bea din aceeaşi fântână. Fie ca ei să fie învioraţi de aceleaşi adieri. Fie ca ei să obţină iluminare de la acelaşi izvor de lumină. Tu eşti Dăruitorul, Cel Milostiv, Cel Omnipotent!
-
-(Source category: Omenire)
-(Bahaiprayers.net ID: 2254)

@@ -1,9 +1,0 @@
-+++
-title = "Prayer bpn10870 in Tuvalu"
-author = "Abdu'l-Bahá"
-tags = ['lang-tvl', 'prayer-', "author-Abdu'l-Bahá", "category-unsorted", "cat-AMELIKA"]
-+++
-O Koe ko te Aliki alofa!  Ko fuli atu kia Koe ate fakatasiiga tenei.  A loto konei e maina i tou Alofa.  A mafaufau mo agaaga ko fonufonu i te lifu i Tau fekau faka-fiafia.  O te Atua!  Fai aka a te temokelesi Amelika ke manumaalo i tulaga faka-te-agaaga, kae fai aka ate maalo fai-meatonu tenei ke sili.  Fakamanuia ate fenua mana tenei ke sisi ne ia ate tulaga o te fakatasitasi o te lalolagi, o talai atu a te Toe Filemu Lasi, ke tafasili a ia i te takutakua mo te tavaegia mai i vasia o fenua katoa i te lalolagi. O te Atua!  A te atu fenua ko Amelika ko ttau o maua a Au fakamanuiaaga kae ko ttau foki ke maua ne ia a Tou alofa-kaimalie.  Fai aka ke taua kae ke pili kia Koe mai i Tou alofa lauefa mo Au fakamanuiaaga.
-
-(Source category: AMELIKA)
-(Bahaiprayers.net ID: 10870)
