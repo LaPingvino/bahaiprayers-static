@@ -68,7 +68,7 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 
 {{with (index $pm .PrayerCode)}}
 {{range .Prayers}}
-[../{{.LanguageCode}}/#{{.PrayerCode}}](#{{.LanguageName}})
+[{{.LanguageName}}](../{{.LanguageCode}}/#{{.PrayerCode}}) // 
 {{end}}
 {{end}}
 
