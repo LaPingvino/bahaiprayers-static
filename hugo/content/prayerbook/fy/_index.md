@@ -50,7 +50,7 @@ Jo binne de Machtige en de Krêftige.
 
 -- Abdu'l-Bahá
 
-AB04427LMP «[Papiamentu](../pap/#AB04427LMP)» «[Nederlands](../nl/#AB04427LMP)» «[English](../en/#AB04427LMP)» «[Frysk](../fy/#AB04427LMP)» «[Esperanto](../eo/#AB04427LMP)» 
+AB04427LMP «[Papiamentu](../pap/#AB04427LMP)» «[Frysk](../fy/#AB04427LMP)» «[English](../en/#AB04427LMP)» «[Esperanto](../eo/#AB04427LMP)» «[Nederlands](../nl/#AB04427LMP)» 
 
 ----
 
@@ -75,7 +75,7 @@ Is der ien dy't swierrichheden ferdriuwt bûten God? Sis: Eare oan God! Hy is Go
 
 -- Báb
 
-BB00623 «[Papiamentu](../pap/#BB00623)» «[English](../en/#BB00623)» «[Frysk](../fy/#BB00623)» «[Português (BR)](../pt/#BB00623)» «[Français](../fr/#BB00623)» «[Esperanto](../eo/#BB00623)» 
+BB00623 «[Français](../fr/#BB00623)» «[Papiamentu](../pap/#BB00623)» «[Português (BR)](../pt/#BB00623)» «[Frysk](../fy/#BB00623)» «[English](../en/#BB00623)» «[Esperanto](../eo/#BB00623)» 
 
 ----
 
@@ -86,7 +86,7 @@ Wierliken, Hy is yn Himsels de Wittende, de Helper, de Almachtige.
 
 -- Báb
 
-BB00015SUF «[Papiamentu](../pap/#BB00015SUF)» «[Nederlands](../nl/#BB00015SUF)» «[English](../en/#BB00015SUF)» «[Frysk](../fy/#BB00015SUF)» «[Français](../fr/#BB00015SUF)» «[Esperanto](../eo/#BB00015SUF)» 
+BB00015SUF «[Français](../fr/#BB00015SUF)» «[Papiamentu](../pap/#BB00015SUF)» «[Frysk](../fy/#BB00015SUF)» «[English](../en/#BB00015SUF)» «[Esperanto](../eo/#BB00015SUF)» «[Nederlands](../nl/#BB00015SUF)» 
 
 ----
 
@@ -115,7 +115,7 @@ Wierliken, wy allegearre binne geduldich yn God. (19 x)
 
 -- Bahá'u'lláh
 
-BH09085 «[Nederlands](../nl/#BH09085)» «[English](../en/#BH09085)» «[Frysk](../fy/#BH09085)» 
+BH09085 «[Frysk](../fy/#BH09085)» «[English](../en/#BH09085)» «[Nederlands](../nl/#BH09085)» 
 
 ----
 
@@ -127,7 +127,7 @@ O myn Hear! Suverje harren fan oertrêdings, ferdriuw harren fertriet en feroarj
 
 -- Abdu'l-Bahá
 
-AB11094 «[Nederlands](../nl/#AB11094)» «[English](../en/#AB11094)» «[Frysk](../fy/#AB11094)» «[Español](../es/#AB11094)» «[Esperanto](../eo/#AB11094)» 
+AB11094 «[Español](../es/#AB11094)» «[Frysk](../fy/#AB11094)» «[English](../en/#AB11094)» «[Esperanto](../eo/#AB11094)» «[Nederlands](../nl/#AB11094)» 
 
 ----
 
@@ -141,7 +141,7 @@ Skep yn my in suver hert, o myn God, en fernij yn my in rêstich gewisse, o myn 
 
 -- Bahá'u'lláh
 
-BH04421HEA «[Nederlands](../nl/#BH04421HEA)» «[English](../en/#BH04421HEA)» «[Frysk](../fy/#BH04421HEA)» «[Esperanto](../eo/#BH04421HEA)» 
+BH04421HEA «[Frysk](../fy/#BH04421HEA)» «[English](../en/#BH04421HEA)» «[Esperanto](../eo/#BH04421HEA)» «[Nederlands](../nl/#BH04421HEA)» 
 
 ----
 
@@ -179,7 +179,7 @@ O Jo, ús Fersoarger! Stjoer Jo bystân del, dat elk dy't hjir sammele is as in 
 
 -- Abdu'l-Bahá
 
-AB00774SAB «[English](../en/#AB00774SAB)» «[Frysk](../fy/#AB00774SAB)» 
+AB00774SAB «[Frysk](../fy/#AB00774SAB)» «[English](../en/#AB00774SAB)» 
 
 ----
 
@@ -194,7 +194,7 @@ Jo, wierliken, binne de Alfoldedige, de Alwittende, de Alwize.
 
 -- Bahá'u'lláh
 
-BH01313NAM «[Nederlands](../nl/#BH01313NAM)» «[English](../en/#BH01313NAM)» «[Frysk](../fy/#BH01313NAM)» «[Español](../es/#BH01313NAM)» «[Português (BR)](../pt/#BH01313NAM)» «[Esperanto](../eo/#BH01313NAM)» 
+BH01313NAM «[Português (BR)](../pt/#BH01313NAM)» «[Español](../es/#BH01313NAM)» «[Frysk](../fy/#BH01313NAM)» «[English](../en/#BH01313NAM)» «[Esperanto](../eo/#BH01313NAM)» «[Nederlands](../nl/#BH01313NAM)» 
 
 ----
 
@@ -220,7 +220,7 @@ Jo, wierliken, binne de Kening fan alle minsken. Der is gjin God as Jo, de Jimme
 
 -- Bahá'u'lláh
 
-BH10973 «[Nederlands](../nl/#BH10973)» «[English](../en/#BH10973)» «[Frysk](../fy/#BH10973)» «[Esperanto](../eo/#BH10973)» 
+BH10973 «[Frysk](../fy/#BH10973)» «[English](../en/#BH10973)» «[Esperanto](../eo/#BH10973)» «[Nederlands](../nl/#BH10973)» 
 
 ----
 
@@ -236,7 +236,7 @@ Wierliken, Jo binne de Almogende, de Alomtsjintwurdige, de Almachtige.
 
 -- Abdu'l-Bahá
 
-AB07158 «[Nederlands](../nl/#AB07158)» «[English](../en/#AB07158)» «[Frysk](../fy/#AB07158)» 
+AB07158 «[Frysk](../fy/#AB07158)» «[English](../en/#AB07158)» «[Nederlands](../nl/#AB07158)» 
 
 ----
 
@@ -252,7 +252,7 @@ Wierliken, Jo binne harren Helper en harren Hear.
 
 -- Bahá'u'lláh
 
-BH10505 «[Papiamentu](../pap/#BH10505)» «[English](../en/#BH10505)» «[Frysk](../fy/#BH10505)» «[Esperanto](../eo/#BH10505)» 
+BH10505 «[Papiamentu](../pap/#BH10505)» «[Frysk](../fy/#BH10505)» «[English](../en/#BH10505)» «[Esperanto](../eo/#BH10505)» 
 
 ----
 
@@ -267,7 +267,7 @@ Jo binne de Machtige en de Krêftige! Jo binne de Ferjouwende en Jo binne Dyjing
 
 -- Abdu'l-Bahá
 
-ABU0137ALL «[English](../en/#ABU0137ALL)» «[Frysk](../fy/#ABU0137ALL)» «[Esperanto](../eo/#ABU0137ALL)» 
+ABU0137ALL «[Frysk](../fy/#ABU0137ALL)» «[English](../en/#ABU0137ALL)» «[Esperanto](../eo/#ABU0137ALL)» 
 
 ----
 
@@ -284,7 +284,7 @@ Der is gjin oare God as Jo, de Helper-yn-need, de Troch-Himsels-Besteande.
 
 -- Bahá'u'lláh
 
-BH11209 «[Papiamentu](../pap/#BH11209)» «[English](../en/#BH11209)» «[Frysk](../fy/#BH11209)» «[Esperanto](../eo/#BH11209)» 
+BH11209 «[Papiamentu](../pap/#BH11209)» «[Frysk](../fy/#BH11209)» «[English](../en/#BH11209)» «[Esperanto](../eo/#BH11209)» 
 
 ----
 
@@ -300,7 +300,7 @@ Der is gjin God as Jo, de Almachtige, de Albehearsker, de Unbetinge.
 
 -- Bahá'u'lláh
 
-BH00009SER «[English](../en/#BH00009SER)» «[Frysk](../fy/#BH00009SER)» «[Português (BR)](../pt/#BH00009SER)» «[Esperanto](../eo/#BH00009SER)» 
+BH00009SER «[Português (BR)](../pt/#BH00009SER)» «[Frysk](../fy/#BH00009SER)» «[English](../en/#BH00009SER)» «[Esperanto](../eo/#BH00009SER)» 
 
 ----
 
@@ -314,7 +314,7 @@ Ik bin ûnder Jo beskutting wekker wurden,o myn God, en it past him dy't dy besk
 
 -- Bahá'u'lláh
 
-BH00009SHE «[English](../en/#BH00009SHE)» «[Frysk](../fy/#BH00009SHE)» «[Esperanto](../eo/#BH00009SHE)» 
+BH00009SHE «[Frysk](../fy/#BH00009SHE)» «[English](../en/#BH00009SHE)» «[Esperanto](../eo/#BH00009SHE)» 
 
 ----
 
@@ -331,7 +331,7 @@ Jo binne, wierliken, de Almachtige, de Almogende.
 
 -- Bahá'u'lláh
 
-BH00009AWA «[Nederlands](../nl/#BH00009AWA)» «[English](../en/#BH00009AWA)» «[Frysk](../fy/#BH00009AWA)» 
+BH00009AWA «[Frysk](../fy/#BH00009AWA)» «[English](../en/#BH00009AWA)» «[Nederlands](../nl/#BH00009AWA)» 
 
 ----
 
@@ -357,7 +357,7 @@ Jo, yn wierheid, binne de Alwittende, de Alwize.
 
 -- Bahá'u'lláh
 
-BH03908 «[English](../en/#BH03908)» «[Frysk](../fy/#BH03908)» «[Português (BR)](../pt/#BH03908)» 
+BH03908 «[Português (BR)](../pt/#BH03908)» «[Frysk](../fy/#BH03908)» «[English](../en/#BH03908)» 
 
 ----
 
@@ -410,7 +410,7 @@ Wierliken, Hy is de Genedige, de Meilydsume. Eare oan God, de Hear fan alle wrâ
 
 -- Bahá'u'lláh
 
-BH02022 «[English](../en/#BH02022)» «[Frysk](../fy/#BH02022)» «[Esperanto](../eo/#BH02022)» 
+BH02022 «[Frysk](../fy/#BH02022)» «[English](../en/#BH02022)» «[Esperanto](../eo/#BH02022)» 
 
 ----
 
