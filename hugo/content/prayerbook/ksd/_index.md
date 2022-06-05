@@ -3,6 +3,30 @@ title = "Kuanua"
 tags = ['lang=ksd', 'prayerbook']
 +++
 
+
+
+[A NIARING AIRA UMANA MINAT](#A NIARING AIRA UMANA MINAT)
+
+[A NIARING UPI RA MARAMARAVUT](#A NIARING UPI RA MARAMARAVUT)
+
+[A NIARING UPI RA TUNUR GUVAI](#A NIARING UPI RA TUNUR GUVAI)
+
+[A NIARING UPI RA UMANA BUL](#A NIARING UPI RA UMANA BUL)
+
+[A NIARING UPI RA UMANA TAULAI](#A NIARING UPI RA UMANA TAULAI)
+
+[A NIARING UPI RA VARVALAGAR](#A NIARING UPI RA VARVALAGAR)
+
+[A NIARING URE RA VINIVEL](#A NIARING URE RA VINIVEL)
+
+[A PAKANA NIARING AI RA UMANA VARTULANG](#A PAKANA NIARING AI RA UMANA VARTULANG)
+
+[A VAKAK NA PAKANA](#A VAKAK NA PAKANA)
+
+[A VAVALIMA NA TINAULAI](#A VAVALIMA NA TINAULAI)
+
+
+
 ## A NIARING AIRA UMANA MINAT
 
 ### <a id="bpn12991"></a> Prayer bpn12991 in Kuanua
@@ -13,6 +37,8 @@ U Kaugu Luluai! Go Koum kudakudar ma natui  Koum kudakudar nina inurnur tam ma t
 
 (Source category: A NIARING AIRA UMANA MINAT)
 (Bahaiprayers.net ID: 12991)
+
+
 
 
 ### <a id="bpn12992"></a> Prayer bpn12992 in Kuanua
@@ -38,6 +64,8 @@ Avet par, ave kivovon ma kiung varpa upi ra Luluai (a vinun ma a lavuvat nae)
 
 
 
+
+
 ## A NIARING UPI RA MARAMARAVUT
 
 ### <a id="bpn12985"></a> Prayer bpn12985 in Kuanua
@@ -45,6 +73,8 @@ I - ia ra Luluai nina na takvue ra umana vartup?  Da vatangia: Pite pa u a Lulua
 
 (Source category: A NIARING UPI RA MARAMARAVUT)
 (Bahaiprayers.net ID: 12985)
+
+
 
 
 
@@ -58,6 +88,8 @@ Kaugu Luluai! Kaugu Luluai! Viguve ra buai kaum umana Kudakudar, ma vakapa diat 
 
 
 
+
+
 ## A NIARING UPI RA UMANA BUL
 
 ### <a id="bpn12990"></a> Prayer bpn12990 in Kuanua
@@ -65,6 +97,8 @@ U l.uluai. mataure iau, balaure iau; mal iau dari ra birao na lam ma a matotona 
 
 (Source category: A NIARING UPI RA UMANA BUL)
 (Bahaiprayers.net ID: 12990)
+
+
 
 
 
@@ -78,6 +112,8 @@ A ruru tam ra Luluai, U Kaugu Luluai I Atuna gon, Koum bul kudar ma Koum vavina 
 
 
 
+
+
 ## A NIARING UPI RA VARVALAGAR
 
 ### <a id="bpn12987"></a> Prayer bpn12987 in Kuanua
@@ -85,6 +121,8 @@ A iangim ia kaugu varvalagar, U kaugu Luluai,  ma Kaum varvanuknuk ia ra gu varv
 
 (Source category: A NIARING UPI RA VARVALAGAR)
 (Bahaiprayers.net ID: 12987)
+
+
 
 
 
@@ -96,6 +134,8 @@ A ngatngat na Luluai I Ari iau vevel tara umana magit na palapaka, ma vakir iau 
 
 (Source category: A NIARING URE RA VINIVEL)
 (Bahaiprayers.net ID: 12993)
+
+
 
 
 
@@ -111,6 +151,8 @@ lau tur valongoreu, U kaugu Luluai, Uga vaki  iau upi ina nunure u ma lotu tadap
 
 
 
+
+
 ## A VAKAK NA PAKANA
 
 ### <a id="bpn12983"></a> Prayer bpn12983 in Kuanua
@@ -118,6 +160,8 @@ A vakak na pakana, ma ra pal, ma ra gunan, ma ra gunan na kapa, ma ra buai tutan
 
 (Source category: A VAKAK NA PAKANA)
 (Bahaiprayers.net ID: 12983)
+
+
 
 
 
@@ -130,6 +174,9 @@ A vakak na pakana, ma ra pal, ma ra gunan, ma ra gunan na kapa, ma ra buai tutan
 
 (Source category: A VAVALIMA NA TINAULAI)
 (Bahaiprayers.net ID: 12988)
+
+
+
 
 
 

@@ -3,6 +3,88 @@ title = "Bosanski"
 tags = ['lang=bs', 'prayerbook']
 +++
 
+
+
+[Ahmadova Ploča](#Ahmadova Ploča)
+
+[Brak](#Brak)
+
+[Čovječanstvo](#Čovječanstvo)
+
+[Djeca i Omladina](#Djeca i Omladina)
+
+[Duga Obavezna Molitva](#Duga Obavezna Molitva)
+
+[Duhovne Vrline](#Duhovne Vrline)
+
+[Duhovno Vijeće](#Duhovno Vijeće)
+
+[Hvaljenje i Zahvalnost](#Hvaljenje i Zahvalnost)
+
+[Iscjeljenje](#Iscjeljenje)
+
+[Iskušenja i Teškoće](#Iskušenja i Teškoće)
+
+[Jedinstvo](#Jedinstvo)
+
+[Jutro](#Jutro)
+
+[Kratka Obavezna Molitva](#Kratka Obavezna Molitva)
+
+[Muževi](#Muževi)
+
+[Naw-Rúz](#Naw-Rúz)
+
+[Noć](#Noć)
+
+[Odvojenost](#Odvojenost)
+
+[Oprost](#Oprost)
+
+[Pioniri](#Pioniri)
+
+[Ploča Pohođenja Báb-a i Bahá’u’lláh -a](#Ploča Pohođenja Báb-a i Bahá’u’lláh -a)
+
+[Ploča Pohođenja za Abdu'l-Baha](#Ploča Pohođenja za Abdu'l-Baha)
+
+[Ploča Vatre](#Ploča Vatre)
+
+[Pomoć u Nevolji](#Pomoć u Nevolji)
+
+[Ponoć](#Ponoć)
+
+[Porodica](#Porodica)
+
+[Post](#Post)
+
+[Postojanost u Zavjetu](#Postojanost u Zavjetu)
+
+[Poučavanje](#Poučavanje)
+
+[Pravda](#Pravda)
+
+[Praznik Devetnaest Dana](#Praznik Devetnaest Dana)
+
+[Roditelji](#Roditelji)
+
+[Skupovi](#Skupovi)
+
+[Srednja Obavezna Molitva](#Srednja Obavezna Molitva)
+
+[Trijumf Božje Vjere](#Trijumf Božje Vjere)
+
+[Trudnice](#Trudnice)
+
+[Umrli](#Umrli)
+
+[Vjernice](#Vjernice)
+
+[Vodstvo](#Vodstvo)
+
+[Zaštita](#Zaštita)
+
+
+
 ## Ahmadova Ploča
 
 ### <a id="bpn5322"></a> Prayer bpn5322 in Bosanski
@@ -31,6 +113,8 @@ Uistinu, On je Milosrdni, Saosjećajni. Hvaljen Bog, Gospodar svih svjetova.
 
 
 
+
+
 ## Brak
 
 ### <a id="bpn5220"></a> Prayer bpn5220 in Bosanski
@@ -48,6 +132,8 @@ Kada je poželio objaviti milost i blagonaklonost ljudima i dovesti svijet u re
 (Bahaiprayers.net ID: 5220)
 
 
+
+
 ### <a id="bpn5221"></a> Prayer bpn5221 in Bosanski
 Slava Tebi, o, Bože moj!
 Uistinu, Tvoj vjernik i Tvoja vjernica sastaju se u sjeni Tvoje milosti i ujedinjeni su Tvojom ljubavlju i velikodušnošću. Gospodaru! Pomozi im u Tvom svijetu i Tvom Kraljevstvu i daruj im svako dobro Svojom blagonaklonošću i milošću. Gospodaru! Daj im snage da Te služe i pomozi im u službi Tvojoj. Dopusti im da postanu otjelovljenja Tvoga Imena u Tvom svijetu i zaštiti ih Svojim blagoslovima koji su neiscrpni u ovome svijetu i u svijetu koji će doći. Gospodaru! Oni se klanjaju kraljevstvu Tvog milosrđa i dozivaju carstvo Tvoje jedinosti. Uistinu, vjenčaju se u pokornosti Tvojoj zapovijedi. Učini da budu obilježja sklada i jedinstva, zauvijek. Zaista, Ti si Svemoćni, Sveprisutni i Svemogući.
@@ -56,12 +142,16 @@ Uistinu, Tvoj vjernik i Tvoja vjernica sastaju se u sjeni Tvoje milosti i ujedin
 (Bahaiprayers.net ID: 5221)
 
 
+
+
 ### <a id="bpn5222"></a> Prayer bpn5222 in Bosanski
 On je Bog! O neuporedivi Gospodaru! Svojom svemoćnom mudrošću podario si ljudima brak, da bi se nastavila pokoljenja u ovom prolaznom svijetu, da bi, dok god je svijeta, na Pragu Tvoje Jednosti bili zaokupljeni služenjem i obožavanjem, pozdravljanjem, poštivanjem i hvaljenjem.  ̋Džinnove i ljude sam stvorio samo zato da Mi se klanjaju ̋ (Kur'án, 51: 56). Zato vjenčaj u Tvom nebu milosrđa ove dvije ptice iz gnijezda ljubavi Tvoje i učini ih magnetom Tvoje vječne milosti; da se iz ova dva ujedinjena mora ljubavi uzdigne val nježnosti i prospe bisere čistoće i dobrote po obali života.  ̋Pustio je dva mora da se dodiruju, između njih je pregrada i oni se ne miješaju – pa, koju blagodat Gospodara svoga poričete?! Iz njih se vadi biser i merdžan ̋ (Kur’{n 55:19-22).
 O Blagi Bože! Daj da ovaj brak urodi koralima i biserima. Ti si uistinu Svemogući, Najveći, Onaj Koji Vječno Prašta!
 
 (Source category: Brak)
 (Bahaiprayers.net ID: 5222)
+
+
 
 
 
@@ -74,6 +164,8 @@ Svi smo slabi i oskudjevamo, dok si Ti uistinu Sveobuhvatajući, Svepokoravajuc
 
 (Source category: Čovječanstvo)
 (Bahaiprayers.net ID: 5224)
+
+
 
 
 ### <a id="bpn5223"></a> Prayer bpn5223 in Bosanski
@@ -92,6 +184,8 @@ Ti si Moćni i Snažni. Ti Praštaš i Previđaš mane cijelog čovječan
 
 
 
+
+
 ## Djeca i Omladina
 
 ### <a id="bpn5225"></a> Prayer bpn5225 in Bosanski
@@ -101,11 +195,15 @@ OBože, vodi me, zaštiti me, učini me sjajnom svjetiljkom i blistavom zvije
 (Bahaiprayers.net ID: 5225)
 
 
+
+
 ### <a id="bpn5226"></a> Prayer bpn5226 in Bosanski
 On je Bog! O Bože, moj Bože! Daruj mi srce čisto poput bisera.
 
 (Source category: Djeca i Omladina)
 (Bahaiprayers.net ID: 5226)
+
+
 
 
 ### <a id="bpn5227"></a> Prayer bpn5227 in Bosanski
@@ -115,6 +213,8 @@ Ti neuporedivi Bože! Odhrani ovo novorođenče na grudima Tvoje blagonaklonos
 (Bahaiprayers.net ID: 5227)
 
 
+
+
 ### <a id="bpn5228"></a> Prayer bpn5228 in Bosanski
 OBože! Odgoji ovo dijete na njedrima Tvoje ljubavi i napoji ga mlijekom iz grudi Tvoga Proviđenja. Uzgoji ovaj izdanak u ružičnjaku Tvoje ljubavi i izljevima Svoje dobrote pomozi mu da raste. Učini ga djetetom Kraljevstva, i usmjeri ka Svom nebeskom carstvu. Ti si Moćni i Blagi. Ti si Darivalac, Velikodušni, Gospodar neizmjerne dobrote.
 
@@ -122,11 +222,15 @@ OBože! Odgoji ovo dijete na njedrima Tvoje ljubavi i napoji ga mlijekom iz gru
 (Bahaiprayers.net ID: 5228)
 
 
+
+
 ### <a id="bpn5229"></a> Prayer bpn5229 in Bosanski
 Bože! Odgoji ovu djecu. Ova djeca su biljke u Tvom voćnjaku, cvijeće Tvoje livade, ruže Tvoje bašte. Neka Tvoja kiša pada po njima i neka ih sunce Stvarnosti obasja Tvojom ljubavlju. Neka ih osvježe Tvoji lahori kako bi se obrazovali, rasli, razvijali i pojavili u konačnoj ljepoti. Ti Daješ.Ti Suosjećaš.
 
 (Source category: Djeca i Omladina)
 (Bahaiprayers.net ID: 5229)
+
+
 
 
 ### <a id="bpn5230"></a> Prayer bpn5230 in Bosanski
@@ -137,12 +241,16 @@ Ti si Dobrostiv i Pun Ljubavi.
 (Bahaiprayers.net ID: 5230)
 
 
+
+
 ### <a id="bpn5231"></a> Prayer bpn5231 in Bosanski
 O najslavniji Gospodaru! Učini ovu malenu vjernicu blagoslovljenom i sretnom; odgoji je na pragu Svoje jednosti i dozvoli da se napije
 iz dubine pehara Tvoje ljubavi, kako bi mogla biti ispunjena zanosom i oduševljenjem i unaokolo širiti miomirise. Ti si Moćni i Snažni, Ti si Sveznajući, Svevideći.
 
 (Source category: Djeca i Omladina)
 (Bahaiprayers.net ID: 5231)
+
+
 
 
 ### <a id="bpn5232"></a> Prayer bpn5232 in Bosanski
@@ -154,12 +262,16 @@ Uistinu, Ti si Moćni, Snažni, Ti Vidiš i Čuješ.
 (Bahaiprayers.net ID: 5232)
 
 
+
+
 ### <a id="bpn5233"></a> Prayer bpn5233 in Bosanski
 Gospodaru!
 Ozari ovog mladića i blagoslovi ovo slabašno biće. Podari mu znanje i dodatnu snagu svakim svitanjem i zaštiti ga pod okriljem Tvoje zaštite da bi se mogao osloboditi zablude, posvetiti služenju Tvoje Vjere, izvesti na put zalutale, povesti nesretne, osloboditi zarobljene i probuditi nemarne da bi svi bili blagoslovljeni sjećanjem na Tebe i Tvojom hvalom. Ti si Moćni i Snažni.
 
 (Source category: Djeca i Omladina)
 (Bahaiprayers.net ID: 5233)
+
+
 
 
 
@@ -238,6 +350,8 @@ Svjedočim, moj Bože, ono što su potvrdili Tvoji Odabrani, i priznajem ono 
 
 
 
+
+
 ## Duhovne Vrline
 
 ### <a id="bpn5234"></a> Prayer bpn5234 in Bosanski
@@ -247,12 +361,16 @@ Daruj mi čisto srce, Bože moj, i obnovi moju mirnu savjest, Nado moja! Duhom
 (Bahaiprayers.net ID: 5234)
 
 
+
+
 ### <a id="bpn5235"></a> Prayer bpn5235 in Bosanski
 Moj Gospodaru! Neka mi Tvoja ljepota bude hrana a Tvoje prisustvo moje piće, Tvoje zadovoljstvo moja nada, Tvoja hvala moje djelo, spomen na Tebe moj pratilac, moć Tvoje vrhovnosti moj skrbnik, Tvoje boravište moj dom, a moja kuća neka bude mjesto koje si posvetio od ograničenja nametnutih onima koji su se kao koprenom od Tebe odvojili.
 Ti si uistinu Svemogući, Sve-Slavljeni, Najmoćniji.
 
 (Source category: Duhovne Vrline)
 (Bahaiprayers.net ID: 5235)
+
+
 
 
 ### <a id="bpn5236"></a> Prayer bpn5236 in Bosanski
@@ -265,6 +383,8 @@ Hvaljen Bog, Gospodar svjetova.
 (Bahaiprayers.net ID: 5236)
 
 
+
+
 ### <a id="bpn5237"></a> Prayer bpn5237 in Bosanski
 Udijeli mi, Bože moj, obilni udio Svoje ljubavi i blagonaklonosti, a sjajem Svog blistavog svjetla privuci nam srca, o, Ti koji si Najočigledniji i Sveslavljeni. Neprestano mi tokom dana i noći, kao znak Svoje milosti šalji Svoje okrepljujuće lahore, dobri Gospodaru.
 Nema djela koje sam učinio da zavrijedim pogled na Tvoje lice, i sa sigurnošću tvrdim da sve i da živim od postanka svijeta, ja nikada ne bih uspio počiniti ijedno djelo da zaslužim ovu dobrotu, poput sluge čiji položaj nikada neće zavrijediti Tvoje svete odaje, sem ako ga Tvoja blagost ne sustigne i Tvoja milost ne snađe.
@@ -275,12 +395,16 @@ Uistinu, ako ti se prohtije nagraditi slugu otklonićeš iz njegovog srca spom
 (Bahaiprayers.net ID: 5237)
 
 
+
+
 ### <a id="bpn5238"></a> Prayer bpn5238 in Bosanski
 OBože! Okrijepi i obraduj moju dušu. Pročisti mi srce. Ojačaj moje moći. Prepuštam sve svoje brige u Tvoje ruke. Moja si Vodilja i moja Utjeha. Neću više biti tužan i zabrinut, već ću biti sretno i veselo biće. O Bože! Neću više biti pun strepnje, niti ću pustiti da me brige more. Neću više razmišljati o neugodnim stvarima u životu.
 O Bože! Ti si mi bolji prijatelj nego što sam ja samome sebi. Posvećujem se Tebi, o Gospodaru.
 
 (Source category: Duhovne Vrline)
 (Bahaiprayers.net ID: 5238)
+
+
 
 
 ### <a id="bpn5239"></a> Prayer bpn5239 in Bosanski
@@ -293,12 +417,16 @@ Uistinu, Ti si Milosrdni. Uistinu, Ti si Najvelikodušniji i onaj Čiju pomoc�
 (Bahaiprayers.net ID: 5239)
 
 
+
+
 ### <a id="bpn5240"></a> Prayer bpn5240 in Bosanski
 O Moj Gospodaru! Moj Gospodaru! Ovo je svjetiljka upaljena vatrom Tvoje ljubavi, plamenom začetim u drvetu Tvoje milosti. O
 Moj Gospodaru! Pojačaj njen žar, toplinu i plamen, vatrom koja je zapaljena na Sinaju Tvoje Objave. Uistinu, Ti si Svjedok, Pomoćnik, Moćnik, Velikodušni, Blagi.
 
 (Source category: Duhovne Vrline)
 (Bahaiprayers.net ID: 5240)
+
+
 
 
 
@@ -320,6 +448,8 @@ O Skrbniče! Pošalji nam Svoju pomoć, da bi svaki od ovdje prisutnih postao
 (Bahaiprayers.net ID: 5241)
 
 
+
+
 ### <a id="bpn5242"></a> Prayer bpn5242 in Bosanski
 Bože! Odagnaj sve uzroke nesloge i propiši za nas sve ono što donosi jedinstvo i slogu! O, Bože! Pošalji nam Nebeske Mirise i pretvori ovaj sastanak u Nebeski skup! Daruj nam svako dobro i raznovrsnu hranu. Pripremi za nas Hranu Ljubavi! Daj nam Hranu Spoznaje! Daruj nam Hranu Nebeskog Prosvjetljenja!
 
@@ -327,11 +457,15 @@ Bože! Odagnaj sve uzroke nesloge i propiši za nas sve ono što donosi jedin
 (Bahaiprayers.net ID: 5242)
 
 
+
+
 ### <a id="bpn5243"></a> Prayer bpn5243 in Bosanski
 OBože, moj Bože! Mi smo Tvoje sluge koje se odano okreću prema Tvom Svetom Licu, koje se na ovaj slavni Dan odvajaju od svega sem od Tebe. Okupili smo se u ovom Duhovnom vijeću ujedinjeni u pogledima i mislima, složni u namjeri da veličamo Tvoju Riječ među ljudima. O Gospodaru, naš Bože! Učini nas znacima Svog Božanskog Vodstva, Otjelovljenjem Tvoje uzvišene Vjere među ljudima, slugama Tvog moćnog Zavjeta. Naš Najuzvišeniji Gospodaru! Učini nas objavama Tvog Božanskog Jedinstva u Abh{ Kraljevstvu i blistavim zvijezdama koje sijaju nad svim krajevima. Gospodaru! Pomozi nam da postanemo mora ustalasana Tvojom čudesnom milošću, potoci koji teku sa Tvojih sveslavljenih Visina, zreli plodovi sa Drveta Tvoje nebeske Vjere, stabla koja se njišu na povjetarcu Tvoje Darežljivosti u Tvome nebeskom Vinogradu. Bože! Učini naše duše ovisnim o Stihovima Tvog Božanskog Jedinstva, razveseli naša srca izljevima Tvoje Milosti, da bi se ujedinili poput valova jednog mora i stopili poput zraka Tvoje blistave Svjetlosti- da naše misli, pogledi i osjećaji postanu poput jedne stvarnosti, objavljujući duh jedinstva širom svijeta. Ti si Milostivi, Darežljivi, Darivatelj, Svemogući, Milosrdni, Saosjećajni.
 
 (Source category: Duhovno Vijeće)
 (Bahaiprayers.net ID: 5243)
+
+
 
 
 ### <a id="bpn5244"></a> Prayer bpn5244 in Bosanski
@@ -348,6 +482,8 @@ Uistinu, Ti si Velikodušni, Milosrdni. Ti Posjeduješ silnu dobrotu i, uistin
 
 
 
+
+
 ## Hvaljenje i Zahvalnost
 
 ### <a id="bpn5245"></a> Prayer bpn5245 in Bosanski
@@ -358,12 +494,16 @@ Božansko Proviđenje! Sve što postoji je začeto Tvojom darežljivošću
 (Bahaiprayers.net ID: 5245)
 
 
+
+
 ### <a id="bpn5246"></a> Prayer bpn5246 in Bosanski
 Sva hvala, O moj Bože, pripada Tebi Koji si Izvor sve slave i veličanstva, veličine i časti, vrhovnosti i vlasti, uzvišenosti i milosti, strahopoštovanja i moći. Ti biraš koga ćeš privući Najvećem Okeanu, a onome koga Ti odabereš daruješ čast prepoznavanja Tvog Najdrevnijeg Imena. Niko na nebu ni na zemlji ne može odoljeti dejstvu Tvoje nadmoćne Volje. Oduvijek si vladao nad svime i zauvijek ćeš imati vlast nad svima koje si stvorio. Nema drugog Boga osim Tebe, Svemoćnog, Najuzvišenijeg, Svemogućeg, Najmudrijeg.
 O Gospodaru, obasjaj lica svojih sluga kako bi Te mogli vidjeti; očisti njihova srca kako bi se mogli okrenuti ka dvoru Tvojih nebeskih darova i prepoznati Njega koji je Objava Tebe i Osvit Tvoje Biti. Uistinu, Ti si Gospodar svih svjetova. Nema Boga sem Tebe, Nesputanog, Svepokoravajućeg.
 
 (Source category: Hvaljenje i Zahvalnost)
 (Bahaiprayers.net ID: 5246)
+
+
 
 
 ### <a id="bpn5247"></a> Prayer bpn5247 in Bosanski
@@ -376,6 +516,8 @@ Sva hvala i slava pripada Tebi, o, Ti o kojem je sve što postoji posvjedočil
 (Bahaiprayers.net ID: 5247)
 
 
+
+
 ### <a id="bpn5248"></a> Prayer bpn5248 in Bosanski
 Veličano je ime Tvoje, Gospodaru moj Bože! Ti si Onaj Kojeg svi obožavaju i Koji se nikom ne klanja, Koji je svima Gospodar a ničiji sluga, Koji zna sve a nije znan nikome. Ti se htjede obznaniti ljudima, pa Svojom rječju pokrenu stvaranje i uobliči postojanje. Nema Boga osim Tebe, Uobličitelja, Stvoritelja, Svemogućega, Najmoćnijeg.
 Preklinjem Te, ovom rječju koja je zasjala sa visina Tvoje Volje, da mi omogućiš da duboko zaronim u živuće vode kojim okrepljuješ srca Svojih odabranika i oživljavaš duše onima koji Te vole, kako bih u svako doba i pod svim uslovima, u potpunosti mogao okrenuti svoje lice prema Tebi.
@@ -385,12 +527,16 @@ Ti si Bog moći, slave i dobrote. Nema Boga osim Tebe, Vrhovnog Vladara, Svesla
 (Bahaiprayers.net ID: 5248)
 
 
+
+
 ### <a id="bpn5249"></a> Prayer bpn5249 in Bosanski
 Slavljen si, Gospodaru moj Bože! Zahvaljujem Ti što si mi omogućio da prepoznam Tvoju Objavu, odvojio me od Svojih neprijatelja, otvorio mi oči da jasno vidim njihove prestupe i zlodjela za Tvojih dana, lišio me svake vezanosti za njih i u potpunosti me usmjerio ka Tvojoj milosti i blagonaklonosti. Zahvaljujem Ti i što si mi iz oblaka Svoje volje poslao ono što me izdiže iznad nagovještaja nevjernika i klevete zavedenih, i što sam čvrsto okrenuo svoje srce Tebi i pobjegao od onih koji su porekli svjetlo Tvoga lika. Zahvaljujem Ti i što si me ojačao da budem postojan u Tvojoj ljubavi, omogućio mi da Te hvalim i da uzdižem Tvoje vrline, što si mi dopustio da se napojim iz čaše Tvoje milosti koja je iznad svih vidljivih i nevidljivih stvari.
 Ti si Svemogući, Najuzvišeniji, Sveslavljeni, Onaj Koji Sviju Voli.
 
 (Source category: Hvaljenje i Zahvalnost)
 (Bahaiprayers.net ID: 5249)
+
+
 
 
 
@@ -407,11 +553,15 @@ Moćan si činiti što god poželiš. Nema Boga osim Tebe, Koji Vječno Pr
 (Bahaiprayers.net ID: 5254)
 
 
+
+
 ### <a id="bpn5255"></a> Prayer bpn5255 in Bosanski
 Tvoje Ime moje je iscjeljenje, o, Bože moj, a spomen na Tebe moj je lijek. Tvoja blizina moja je nada, ljubav za Tebe moj je pratilac. Tvoja milost mi je izlječenje i oslonac u ovom svijetu i svijetu koji će doći. Ti si, uistinu, Dobrostivi, Sveznajući, Najmudriji.
 
 (Source category: Iscjeljenje)
 (Bahaiprayers.net ID: 5255)
+
+
 
 
 ### <a id="bpn5256"></a> Prayer bpn5256 in Bosanski
@@ -422,6 +572,8 @@ Ti si uistinu uzvišen daleko iznad sviju osim samog Sebe. Ti si, zaista, Iscje
 
 (Source category: Iscjeljenje)
 (Bahaiprayers.net ID: 5256)
+
+
 
 
 ### <a id="bpn5257"></a> Prayer bpn5257 in Bosanski
@@ -477,6 +629,8 @@ Ti si uistinu Moćni, Udovoljitelj, Iscjeljitelj, Zaštitnik, Darivatelj, Sami
 
 
 
+
+
 ## Iskušenja i Teškoće
 
 ### <a id="bpn5250"></a> Prayer bpn5250 in Bosanski
@@ -486,6 +640,8 @@ Naoružanog snagom Tvoga imena nikad me ništa ne može povrijediti, s Tvojom
 (Bahaiprayers.net ID: 5250)
 
 
+
+
 ### <a id="bpn5251"></a> Prayer bpn5251 in Bosanski
 Slavljen si, Gospodaru moj Bože! Svaki razborit čovjek priznaje Tvoju vrhovnost i Tvoju vlast; svako pronicljivo oko zapaža veličinu Tvog dostojanstva i zadivljujuću snagu Tvoje moći. Vjetrovi iskušenja nemoćni su odvratiti one koji su bliski Tebi da okrenu lica u pravcu Tvoje slave, a navale iskušenja nemoćne su spriječiti one koji su potpuno posvećeni Tvojoj volji da se približe Tvome dvoru.
 Vjerujem da svjetiljka Tvoje ljubavi gori u Njihovim srcima, i da svjetlo Tvoje nježnosti sija u njihovim njedrima. Nevolje ih ne mogu otuđiti od Tvoje Vjere, a splet okolnosti ih nikada ne može odvući sa puta Tvoje volje.
@@ -493,6 +649,8 @@ O moj Bože, zaklinjem Te njima i vapajima koji dopiru iz njihovih srca zbog od
 
 (Source category: Iskušenja i Teškoće)
 (Bahaiprayers.net ID: 5251)
+
+
 
 
 ### <a id="bpn5253"></a> Prayer bpn5253 in Bosanski
@@ -505,6 +663,8 @@ Moćan si činiti što god poželiš. Nema Boga sem Tebe, Pomoći u Nevolj
 (Bahaiprayers.net ID: 5253)
 
 
+
+
 ### <a id="bpn5252"></a> Prayer bpn5252 in Bosanski
 Ti dobro znaš, O moj Bože, da su na mene navukle poteškoće sa svih strana i da ih niko sem Tebe ne može riješiti. Znam sa sigurnošću, zbog moje ljubavi za Tebe, da nikad nijednoj duši nećeš poslati nedaće osim ako ne namjeravaš uzvisiti njen položaj u Tvome nebeskom Kraljevstvu, i da ćeš mi tokom života poduprijeti srce bedemima Tvoje svepokoravajuće moći da ne postanem naklonjen svjetovnim ispraznostima. Ti si, zaista, u potpunosti svjestan da bih pod svim uslovima više vrednovao spomen na Tebe radije nego posjedovao sve što je na nebu i na zemlji.
 Ojačaj mi srce, o moj Bože, u pokornosti i u ljubavi prema Tebi i pomozi da se kanem društva svih Tvojih neprijatelja. Uistinu, kunem se Tvojom slavom da ne težim ničemu sem Tebi, niti želim išta sem Tvoje milosti, niti me strah ičega sem Tvoje pravde. Preklinjem Te da oprostiš meni i Svojim miljenicima onako kako Ti namjeravaš. Uistinu, Ti si Svemogući, Dobrostivi.
@@ -512,6 +672,8 @@ Daleko si uzvišen, Gospodaru zemlje i nebesa, iznad hvale svih ljudi. Daruj sp
 
 (Source category: Iskušenja i Teškoće)
 (Bahaiprayers.net ID: 5252)
+
+
 
 
 
@@ -524,12 +686,16 @@ O, moj Bože! O, moj Bože! Ujedini srca Svojih sluga i otkrij im Svoj veliki 
 (Bahaiprayers.net ID: 5258)
 
 
+
+
 ### <a id="bpn5259"></a> Prayer bpn5259 in Bosanski
 Daj Bože da svjetlost jedinstva obasja cijelu zemlju i da pečat sa znakom ‚Kraljevstvo je Božje‛ bude utisnut na čelu svih njenih naroda.
 66
 
 (Source category: Jedinstvo)
 (Bahaiprayers.net ID: 5259)
+
+
 
 
 ### <a id="bpn5261"></a> Prayer bpn5261 in Bosanski
@@ -540,6 +706,8 @@ Otkrij nam, Bože, Svoju uzvišenu vječnost. Objavi da si oduvijek postojao,
 
 (Source category: Jedinstvo)
 (Bahaiprayers.net ID: 5261)
+
+
 
 
 ### <a id="bpn5260"></a> Prayer bpn5260 in Bosanski
@@ -554,6 +722,8 @@ Zaista, Ti si Svemogući, Samodovoljni, Darivatelj, Oprostitelj, Pomilovatelj, 
 
 
 
+
+
 ## Jutro
 
 ### <a id="bpn5262"></a> Prayer bpn5262 in Bosanski
@@ -563,12 +733,16 @@ Probudih se pod Tvojom zaštitom, moj Bože, a onome koji traži Tvoje skloni
 (Bahaiprayers.net ID: 5262)
 
 
+
+
 ### <a id="bpn5263"></a> Prayer bpn5263 in Bosanski
 Probudih se jutros zbog Tvoje milosti, moj Bože. Napustih svoj dom potpuno vjerujući u Tebe i uzdajući se u Tvoju zaštitu. Zato mi sa neba Svoje milosti pošalji Svoj blagoslov i omogući da se bezbjedno kući vratim, isto kao što si mi omogućio da budem pod Tvojom zaštitom i da su mi misli čvrsto usmjerene na Tebe.
 Nema drugog Boga sem Tebe, Jedinog, Neuporedivog, Sveznajućeg, Onoga Koji je Najmudriji.
 
 (Source category: Jutro)
 (Bahaiprayers.net ID: 5263)
+
+
 
 
 ### <a id="bpn5264"></a> Prayer bpn5264 in Bosanski
@@ -580,6 +754,8 @@ Ti nećeš razočarati nikoga ko za Tobom traga, niti ćeš se okrenuti od 
 
 (Source category: Jutro)
 (Bahaiprayers.net ID: 5264)
+
+
 
 
 
@@ -602,6 +778,8 @@ Nema drugog Boga osim Tebe, Pomoći u nevolji, Samopostojnog.
 
 
 
+
+
 ## Muževi
 
 ### <a id="bpn5265"></a> Prayer bpn5265 in Bosanski
@@ -612,6 +790,8 @@ Zaista, Ti si Onaj Dragocijeni, Vječni Darivalac, Dlan Otvoreni.
 
 (Source category: Muževi)
 (Bahaiprayers.net ID: 5265)
+
+
 
 
 
@@ -635,6 +815,8 @@ Ti si, uistinu, Sveznajući, Premudri.
 
 
 
+
+
 ## Noć
 
 ### <a id="bpn5266"></a> Prayer bpn5266 in Bosanski
@@ -644,6 +826,8 @@ Tvoje mi moći! Ja ne tražim ništa, ni u snu ni na javi, sem onoga što Ti
 
 (Source category: Noć)
 (Bahaiprayers.net ID: 5266)
+
+
 
 
 
@@ -659,6 +843,8 @@ Tvoja moć, uistinu, jednaka je moći svih stvari.
 (Bahaiprayers.net ID: 5267)
 
 
+
+
 ### <a id="bpn5268"></a> Prayer bpn5268 in Bosanski
 Veličam Ime Tvoje, Gospodaru, Bože moj! Osvrni se na moje oči koje željno iščekuju Tvoju čudesnu milost, uho koje se nada da će osluhnuti Tvoje slatke melodije i srce koje vapi za živim vodama Tvoje spoznaje. Ti vidiš Svoju vjernicu, o, moj Bože, kako stoji pred boravištem Tvoje milosti, kako te doziva Tvojim imenom koje si izdvojio od svih imena i uzvisio iznad svega što je na nebu i na zemlji. Oživi je dahom Svoje milosti kako bi se potpuno odvojila od sebe i primakla mjestu koje ozareno svjetlošću Tvoga lika nadaleko obasjava Tvoju vrhovnost, a utemeljeno je kao Tvoje prijestolje. Moćan si Ti činiti ono što naumiš. Nema Boga osim Tebe, Sveslavljenoga, Najdobrostivijeg.
 Ne odriči se, Gospodaru moj, onih koji za Tobom tragaju. Ne okreći leđa onima koji su prema Tebi usmjerili korake. Ne lišavaj milosti one koji Te vole. Ti si onaj, Gospodaru, koji je sebe nazvao Gospodom Milosti, Najmilosrdnijim. Zato se smiluj na Svoju vjernicu koja je u Tebi potražila utjehu i prema Tebi okrenula svoje lice.
@@ -666,6 +852,8 @@ Ti si, uistinu, Onaj Koji Vječito Prašta, Najmilosrdniji.
 
 (Source category: Odvojenost)
 (Bahaiprayers.net ID: 5268)
+
+
 
 
 ### <a id="bpn5269"></a> Prayer bpn5269 in Bosanski
@@ -677,12 +865,16 @@ Slavljeno neka je ime Tvoje, o, Ti Koji si Kralj svih Kraljeva!
 (Bahaiprayers.net ID: 5269)
 
 
+
+
 ### <a id="bpn5270"></a> Prayer bpn5270 in Bosanski
 O moj Bože, moj Gospode i Gospodaru! Odvojio sam se od svoje rodbine i kroz Tebe nastojim postati nezavisan od svega na svijetu
 i uvijek biti spreman primiti ono što je vrijedno hvale u Tvojim očima. Daruj mi ono što će me učiniti nezavisnim od svega sem od tebe, i udijeli mi obilni udio Tvojih beskrajnih darova. Zaista, Ti si Gospodar pun milosti.
 
 (Source category: Odvojenost)
 (Bahaiprayers.net ID: 5270)
+
+
 
 
 ### <a id="bpn5271"></a> Prayer bpn5271 in Bosanski
@@ -693,6 +885,8 @@ Tvoje je potpuno pravo da zapovijedaš.
 
 (Source category: Odvojenost)
 (Bahaiprayers.net ID: 5271)
+
+
 
 
 ### <a id="bpn5273"></a> Prayer bpn5273 in Bosanski
@@ -706,6 +900,8 @@ Svepokoravajući.
 (Bahaiprayers.net ID: 5273)
 
 
+
+
 ### <a id="bpn5272"></a> Prayer bpn5272 in Bosanski
 OBože, moj Bože! Ti si moja Nada i moj Voljeni, moja najviša Težnja i Želja! Skroman i potpuno posvećen Te molim da me učiniš minaretom Tvoje ljubavi u Tvojoj zemlji, svjetiljkom Tvog znanja među Tvojim stvorenjima, i zastavom božanske darežljivosti pod Tvojom vlašću.
 Ubroji me među one sluge koji su se odvojili od svega sem od Tebe, oslobodili se prolaznih stvari ovog svijeta i oglušili na šapat ispraznih maštanja.
@@ -716,6 +912,8 @@ Ti si, uistinu, Svemogući, Sveslavljeni, Svemoćni.
 (Bahaiprayers.net ID: 5272)
 
 
+
+
 ### <a id="bpn5274"></a> Prayer bpn5274 in Bosanski
 Omoj Bože! O moj Bože!
 Slavljen si jer si me učvrstio u priznanju Tvoje jednosti, jer si me privukao Tvojoj riječi jedinstvenosti, jer si me potakao vatrom Tvoje ljubavi, zaokupirao me spomenom na Tebe i služenjem Tvojih vjernika. Gospodaru, pomozi mi da budem blag i skroman, ojačaj me da se odvojim od svega i pripijem uz skute Tvoje slave, da se srce ispuni Tvojom ljubavlju i ne ostavi prostora za ljubav prema svijetu i privrženosti njegovim odlikama.
@@ -724,6 +922,8 @@ svijet.
 
 (Source category: Odvojenost)
 (Bahaiprayers.net ID: 5274)
+
+
 
 
 
@@ -739,6 +939,8 @@ Niko osim Tebe, o, moj Bože mi ne koristi a bliskost s bilo kim sem s Tobom ni
 (Bahaiprayers.net ID: 5275)
 
 
+
+
 ### <a id="bpn5276"></a> Prayer bpn5276 in Bosanski
 Ja sam onaj, moj Gospodaru, koji je okrenuo svoje lice prema Tebi, usmjerio svoju nadu u Tvoju čudesnu milost i objave Tvoje dobrote. Molim Te, ne dozvoli da se razočaran okrenem od vrata Tvoje milosti, i ne prepuštaj me Tvojim stvorenjima koja porekoše Tvoju Vjeru.
 Ja sam, Bože moj, sluga Tvoj i sin Tvoga sluge. Prepoznah Tvoju istinu u Tvojim danima i usmjerih svoje stope ka obali Tvoje jednosti, ispovijedajući Tvoju jedinstvenost, priznajući Tvoje jedinstvo, nadajući se Tvome pomilovanju i oprostu. Moćan si Ti činiti sve što poželiš, nema Boga osim Tebe, Sveslavnog, Onoga Koji Vječno
@@ -748,6 +950,8 @@ Prašta.
 (Bahaiprayers.net ID: 5276)
 
 
+
+
 ### <a id="bpn5277"></a> Prayer bpn5277 in Bosanski
 Molim Te da mi oprostiš, moj Gospodaru, svaki spomen osim spomena Tebe, svaku hvalu osim hvale Tebi, svaki užitak osim užitka u bliskosti s Tobom, svako zadovoljstvo osim zadovoljstva ujedinjenja s Tobom, svaku radost osim radosti zbog Tvoje ljubavi i Tvoga zadovoljstva, i za sve moje stvari koje nisu vezane za Tebe, o, Ti Koji si Gospodar gospodara, Koji pribavljaš sredstva i otvaraš vrata.
 
@@ -755,11 +959,15 @@ Molim Te da mi oprostiš, moj Gospodaru, svaki spomen osim spomena Tebe, svaku 
 (Bahaiprayers.net ID: 5277)
 
 
+
+
 ### <a id="bpn5278"></a> Prayer bpn5278 in Bosanski
 Hvaljen budi Ti, Gospodaru. Oprosti nam naše grijehe, smiluj nam se i pomozi nam da se Tebi vratimo. Ne dozvoli da se oslanjamo i na koga sem na Tebe i daruj nam, Svojom darežljivošću, ono što Ti voliš i želiš, i ono što Tebi priliči. Uzvisi položaj onih koji istinski vjeruju, i pomiluj ih Svojim milostivim oprostom. Uistinu, Ti si Pomoć u Nevolji, Samoopstojni.
 
 (Source category: Oprost)
 (Bahaiprayers.net ID: 5278)
+
+
 
 
 
@@ -777,6 +985,8 @@ služim.
 
 (Source category: Pioniri)
 (Bahaiprayers.net ID: 5279)
+
+
 
 
 
@@ -801,6 +1011,8 @@ Blagoslovi, o, Gospodaru, Bože moj, Božansko drvo Lot, njegovo lišće, gr
 
 
 
+
+
 ## Ploča Pohođenja za Abdu'l-Baha
 
 ### <a id="bpn5320"></a> Prayer bpn5320 in Bosanski
@@ -820,6 +1032,8 @@ Ti si Darivatelj, Saosjećajni, Najdobrostiviji, Plemeniti, Milosrdni, Samilosn
 
 (Source category: Ploča Pohođenja za Abdu'l-Baha)
 (Bahaiprayers.net ID: 5320)
+
+
 
 
 
@@ -886,6 +1100,8 @@ Kada bi sve sluge ove riječi pročitale i o njima razmislile, u njihovim vena
 
 
 
+
+
 ## Pomoć u Nevolji
 
 ### <a id="bpn5283"></a> Prayer bpn5283 in Bosanski
@@ -895,12 +1111,16 @@ O Bože moj! Zaklinjem Te Tvojim najuzvišenijim imenom, pomozi mi u onome š
 (Bahaiprayers.net ID: 5283)
 
 
+
+
 ### <a id="bpn5284"></a> Prayer bpn5284 in Bosanski
 OTi Čije je lice predmet mog obožavanja, Čija je ljepota moje svetište, Čije je boravište moj cilj, Čija je hvala moja nada, Čije je proviđenje moj pratilac, Čija je ljubav uzrok mog postojanja, Čiji je spomen moja utjeha, Čija je blizina moja žudnja, Čija je prisutnost moja najmilija želja i najveća težnja, preklinjem Te da mi ne uskratiš ono što si namijenio izabranim među svojim slugama. Daruj mi, onda, dobro ovoga i sljedećeg svijeta. 
 Ti si, uistinu, Kralj svih ljudi. Nema Boga osim Tebe, Vječnog Oprostitelja, Najvelikodušnijega.
 
 (Source category: Pomoć u Nevolji)
 (Bahaiprayers.net ID: 5284)
+
+
 
 
 ### <a id="bpn5280"></a> Prayer bpn5280 in Bosanski
@@ -912,6 +1132,8 @@ Ima li drugog Otklonitelja teškoća osim Boga? Recite: Hvaljen bio Bog! On je
 (Bahaiprayers.net ID: 5280)
 
 
+
+
 ### <a id="bpn5281"></a> Prayer bpn5281 in Bosanski
 Recite: Bog udovoljava svim stvarima, iznad svih stari, i niko na nebesima ni na zemlji ne udovoljava osim Boga. Zaista, On je jedini Znalac, Hranitelj, Svemogući.
 
@@ -919,11 +1141,15 @@ Recite: Bog udovoljava svim stvarima, iznad svih stari, i niko na nebesima ni na
 (Bahaiprayers.net ID: 5281)
 
 
+
+
 ### <a id="bpn5282"></a> Prayer bpn5282 in Bosanski
 Zaklinjem Te Tvojom moći, Bože moj! Ne daj da me zadesi nevolja u doba iskušenja, a u trenucima nepažnje me izvedi na pravi put Svojim nadahnućem. Ti si Bog; Moćan si činiti sve što poželiš. Niko se ne može oduprijeti Tvojoj Volji, niti osujetiti Tvoj Plan.
 
 (Source category: Pomoć u Nevolji)
 (Bahaiprayers.net ID: 5282)
+
+
 
 
 ### <a id="bpn5285"></a> Prayer bpn5285 in Bosanski
@@ -943,6 +1169,8 @@ Ti si, uistinu, Milostivi, Slavljeni, Moćni, Svemogući.
 (Bahaiprayers.net ID: 5285)
 
 
+
+
 ### <a id="bpn5286"></a> Prayer bpn5286 in Bosanski
 Moj Gospodaru, moj Voljeni, Željo moja! Budi mi drug u samoći i pratilac u progonstvu. Odagnaj moju tugu. Daj da se posvetim Tvojoj ljepoti. Liši me svega sem Tebe. Privuci me Svojim mirisom svetosti. Učini da se u Tvome kraljevstvu udružim sa onima koji su nezavisni od svega sem od Tebe, koji čeznu da služe na Tvom svetom pragu i ustaju da rade za Tvoju Vjeru. Omogući mi da postanem jedna od Tvojih vjernica koje su Tebi udovoljile. Uistinu, Ti si Plemeniti, Velikodušni.
 
@@ -950,11 +1178,15 @@ Moj Gospodaru, moj Voljeni, Željo moja! Budi mi drug u samoći i pratilac u p
 (Bahaiprayers.net ID: 5286)
 
 
+
+
 ### <a id="bpn5287"></a> Prayer bpn5287 in Bosanski
 O Gospodaru, Bože moj! Pomozi svojim voljenima da budu čvrsti u Tvojoj Vjeri, da idu Tvojim putem, da budu istrajni u Tvojoj Vjeri. Udijeli im milost Svoju da odole naletima sebičnosti i strasti, da prate svjetlo božanskog vodstva. Ti si Snažni, Milostivi, Samoopstojni, Darivatelj, Saosjećajni, Svemogući, Najdarežljiviji.
 
 (Source category: Pomoć u Nevolji)
 (Bahaiprayers.net ID: 5287)
+
+
 
 
 ### <a id="bpn5288"></a> Prayer bpn5288 in Bosanski
@@ -966,6 +1198,8 @@ Daruj nam kruh svagdašnji i udovolji našim životnim potrebama da ne ovisim
 (Bahaiprayers.net ID: 5288)
 
 
+
+
 ### <a id="bpn5289"></a> Prayer bpn5289 in Bosanski
 Gospodaru, ne sklanjaj sto svečano postavljen u Tvoje Ime i ne gasi žarki plamen zapaljen Tvojom neugasivom vatrom. Ne zaustavljaj Svoju živu vodu koja pjevuši stihove Tvoje slave i Tvog spomena i ne lišavaj sluge Svoje opojnog mirisa udahnutog Tvojom ljubavlju.
 
@@ -975,6 +1209,8 @@ Ti si, uistinu, Jedan, Jedini, Moćni, Sveznajući,Premudri.
 
 (Source category: Pomoć u Nevolji)
 (Bahaiprayers.net ID: 5289)
+
+
 
 
 
@@ -991,6 +1227,8 @@ Uistinu, Ti si Darovatelj, Velikodušni, Milosrdni, Oprostitelj.
 
 
 
+
+
 ## Porodica
 
 ### <a id="bpn5291"></a> Prayer bpn5291 in Bosanski
@@ -999,6 +1237,8 @@ Blagoslovi, moj Bože, mene i one koji će povjerovati u Tvoje znake na određ
 
 (Source category: Porodica)
 (Bahaiprayers.net ID: 5291)
+
+
 
 
 
@@ -1027,6 +1267,8 @@ Nema Boga osim Tebe, Sveznajućeg, Najmudrijega. Sva hvala pripada Bogu, Gospod
 (Bahaiprayers.net ID: 5324)
 
 
+
+
 ### <a id="bpn5325"></a> Prayer bpn5325 in Bosanski
 Zaklinjem Te, o, moj Bože, Tvojim Moćnim Znakom i objavom Tvoje milosti ljudima, da me ne otjeraš sa kapije grada Tvoga prisustva i da ne ugasiš nadu koju sam usmjerio ka objavama Tvoje milosti. Vidiš me, o, moj Bože, kako se držim Imena Tvoga, Najsvetijeg, Najsvjetlijeg, Najmoćnijeg, Najvećeg, Najuzvišenijeg, Najslavnijeg i privijam se uz Tvoje skute uz koje se privijaju svi ljudi ovoga svijeta i svijeta koji će doći. Zaklinjem Te, o, moj Bože, Tvojim najmilozvučnijim Glasom i Tvojom najuzvišenijom Rječju, da me što bliže primakneš pragu Tvojih vrata i da ne dopustiš da budem udaljen od sjene milosti Tvoje i zastora Tvoje dobrote. Vidiš me, o, moj Bože, kako se držim Imena Tvoga, Najsvetijeg, Najsvjetlijeg, Najmoćnijeg, Najvećeg, Najuzvišenijeg, Najslavnijeg i privijam se uz Tvoje skute uz koje se privijaju svi ljudi ovoga svijeta i
 svijeta koji će doći.
@@ -1045,6 +1287,8 @@ Zaklinjem Te, o, moj Gospodaru, Tobom, Tvojim znamenjem i Tvojim jasnim znacima,
 (Bahaiprayers.net ID: 5325)
 
 
+
+
 ### <a id="bpn5326"></a> Prayer bpn5326 in Bosanski
 Ovo su, o, moj Bože, dani koje si odredio Svojim slugama da poštivaju post. Njime si ukrasio uvod Svoje Knjige Zakona koja je objavljena onima koje si stvorio i uljepšao Riznice Svojih zapovijedi naočigled svih koji na nebu i svih koji su na zemlji. Svaki čas u ovim danima si obdario posebnom vrlinom, nedokučivom bilo kome sem Tebi Čije znanje obuhvata sve stvoreno. Svakoj duši si dodijelio dio ove vrline, u skladu sa Pločom i Spisima Tvoje neosporive odredbe. Štaviše, svaki list iz ovih Knjiga i Spisa si posvetio ljudima i svim narodima svijeta.
 Svojim posvećenim sljedbenicima si, prema Svojoj odredbi, svakim svitanjem namijenio pehar spomena na Tebe, o, Vladaru nad vladarima! Ovo su oni koji su do te mjere opijeni vinom Tvojih beskrajnih mudrosti, da su iz kreveta ustali sa željom da Tebe hvale i uzdižu vrline Tvoje, i zanemarili san da Ti se približe i da se napoje Tvojom dobrotom. Njihove su oči, u svako doba, usmjerene ka Vrelu Tvoje blagonaklonosti, a njihova su lica okrenuta ka Izvoru Tvoga nadahnuća. Zato iz oblaka milosrđa izlij na njih, i na nas, ono što dolikuje nebu Tvoje darežljivosti i milosti.
@@ -1061,6 +1305,8 @@ Učini Svoju Vjeru pobjedonosnom, Gospodaru moj, i pokori Svoje neprijatelje. D
 
 
 
+
+
 ## Postojanost u Zavjetu
 
 ### <a id="bpn5292"></a> Prayer bpn5292 in Bosanski
@@ -1069,6 +1315,8 @@ Uistinu, Ti si Nepobjedivi, Svemogući, Svemoćni.
 
 (Source category: Postojanost u Zavjetu)
 (Bahaiprayers.net ID: 5292)
+
+
 
 
 ### <a id="bpn5293"></a> Prayer bpn5293 in Bosanski
@@ -1081,6 +1329,8 @@ Ti si Oprostitelj, Milosrdni.
 
 
 
+
+
 ## Poučavanje
 
 ### <a id="bpn5299"></a> Prayer bpn5299 in Bosanski
@@ -1088,6 +1338,8 @@ Omoj Bože, moj Bože! Napustih svoj dom uzdajući se u Tvoju ljubav, i u pot
 
 (Source category: Poučavanje)
 (Bahaiprayers.net ID: 5299)
+
+
 
 
 ### <a id="bpn5294"></a> Prayer bpn5294 in Bosanski
@@ -1100,11 +1352,15 @@ Uistinu, Ti si Snažni, Silni i Svemogući. Ti si Mudri, Čuješ i Vidiš.
 (Bahaiprayers.net ID: 5294)
 
 
+
+
 ### <a id="bpn5295"></a> Prayer bpn5295 in Bosanski
 O Bože, moj Bože! Pomozi Svojim vjernim slugama da budu blaga i nježna srca. Pomozi im da među svim narodima svijeta šire svjetlo vodstva koje stiže od Vrhovnog Skupa. Uistinu, Ti si Snažni, Silni, Moćni, Sve Potčinjavaš, Vječno Daješ. Zaista, Ti si Velikodušni, Blagi, Nježni, Najdarežljiviji.
 
 (Source category: Poučavanje)
 (Bahaiprayers.net ID: 5295)
+
+
 
 
 ### <a id="bpn5296"></a> Prayer bpn5296 in Bosanski
@@ -1113,6 +1369,8 @@ Ti si, uistinu, Velikodušni, Oprostitelj.
 
 (Source category: Poučavanje)
 (Bahaiprayers.net ID: 5296)
+
+
 
 
 
@@ -1125,6 +1383,8 @@ Recite: O Bože, moj Bože! Ukrasi mi glavu krunom pravde, a moje tijelo okiti
 
 (Source category: Pravda)
 (Bahaiprayers.net ID: 5297)
+
+
 
 
 
@@ -1141,6 +1401,8 @@ OBože! Otjeraj sve uzroke nesloge i daruj nam sve ono što donosi jedinstvo i
 
 
 
+
+
 ## Roditelji
 
 ### <a id="bpn5300"></a> Prayer bpn5300 in Bosanski
@@ -1148,6 +1410,8 @@ OBože, moj Bože! Preklinjem Te krvlju onih koji Te istinski vole, koji su se
 
 (Source category: Roditelji)
 (Bahaiprayers.net ID: 5300)
+
+
 
 
 ### <a id="bpn5301"></a> Prayer bpn5301 in Bosanski
@@ -1158,11 +1422,15 @@ O moj Bože! Ti si nadahnuo moju dušu da Ti se pokloni, i da nije radi Tebe, 
 (Bahaiprayers.net ID: 5301)
 
 
+
+
 ### <a id="bpn5302"></a> Prayer bpn5302 in Bosanski
 O Gospodaru! Ti u ovoj Najvećoj Objavi prihvataš zalaganje djece u ime njihovih očeva. Ovo je jedan od posebnih beskrajnih darova ove Objave. Zato, blagi Gospodaru, prihvati molbu ovog sluge na pragu Tvoje jednosti i uroni njegovog oca u okean Tvoje milosti, jer se ovaj sin ustao da Ti služi i svakim trenom ulaže trud na Tvome putu. Uistinu, Ti si Davalac, Oprostitelj, Blagonakloni!
 
 (Source category: Roditelji)
 (Bahaiprayers.net ID: 5302)
+
+
 
 
 
@@ -1173,6 +1441,8 @@ Omoj Bože, moj Bože! Uistinu, ove sluge se prema Tebi okreću, klanjajući
 
 (Source category: Skupovi)
 (Bahaiprayers.net ID: 5303)
+
+
 
 
 
@@ -1214,6 +1484,8 @@ Svjedočim o Tvom jedinstvu i Tvojoj jednosti, i da Ti si Bog, i da nema nijedn
 
 
 
+
+
 ## Trijumf Božje Vjere
 
 ### <a id="bpn5304"></a> Prayer bpn5304 in Bosanski
@@ -1223,6 +1495,8 @@ Moćan si činiti što Te volja. Ti si, uistinu, Pomoćnik u Nevolji, Samoop
 
 (Source category: Trijumf Božje Vjere)
 (Bahaiprayers.net ID: 5304)
+
+
 
 
 
@@ -1236,6 +1510,8 @@ O Gospodaru moj, Tebi posvećujem ono što je u mojoj utrobi. Zato Svojom nakl
 
 (Source category: Trudnice)
 (Bahaiprayers.net ID: 5305)
+
+
 
 
 
@@ -1259,6 +1535,8 @@ Mi svi, uistinu, strpljenje u Bogu nalazimo.
 (Bahaiprayers.net ID: 5306)
 
 
+
+
 ### <a id="bpn5307"></a> Prayer bpn5307 in Bosanski
 O moj Bože! Oprostitelju grijeha, udjelitelju darova, otklonitelju tuge!
 Uistinu, preklinjem Te da oprostiš grijehe
@@ -1272,6 +1550,8 @@ O moj Gospodaru! Očisti ih od grijeha, odagnaj im tugu i zamijeni njihovu tamu
 
 
 
+
+
 ## Vjernice
 
 ### <a id="bpn5308"></a> Prayer bpn5308 in Bosanski
@@ -1279,6 +1559,8 @@ Kada bi spoznala slatkoću zvanja ‚ O Vjernice Moja‛, odvojila bi se od č
 
 (Source category: Vjernice)
 (Bahaiprayers.net ID: 5308)
+
+
 
 
 ### <a id="bpn5309"></a> Prayer bpn5309 in Bosanski
@@ -1290,6 +1572,8 @@ Zahvali se Bogu, jer ti je On na ovaj dan pomogao, objavio ti jasne riječi ove
 (Bahaiprayers.net ID: 5309)
 
 
+
+
 ### <a id="bpn5310"></a> Prayer bpn5310 in Bosanski
 Uzvišeno neka je Ime Tvoje, Gospodaru moj Bože! Pogledaj me kako iščekujem da ugledam Tvoju čudesnu milost, i kako žudim da osluhnem Tvoje slatke melodije, i kako mi srce vapi za živim vodama Tvoga znanja. Ti vidiš ovu Svoju vjernicu, o, moj Bože kako stoji pred uporištem Tvoje milosti, kako te doziva Tvojim imenom koje si Ti odabrao i postavio iznad svih drugih imena. Pošalji joj lahore Tvoje milosti, tako da se u potpunosti odvoji od same sebe i da bude privučena prijestolju koje svjetlom slave Tvoga lica nadaleko obasjava Tvoju vrhovnost i ustoličeno je na Tvome prijestolju. Moćan si Ti činiti ono što poželiš. Nema Boga osim Tebe, Najslavnijeg, Najdarežljivijeg.
 Ne odbacuj one koji za Tobom tragaju, ne okreći leđa onima koji su prema tebi usmjerili svoje korake i ne lišavaj milosti Svoje one koji gaje ljubav za Tebe. Ti si onaj, Gospodaru moj, koji sebe nazva Gospodarom milosti, Najsaosjećajnijim. Smiluj se na Tvoju vjernicu koja traga za Tvojom zaštitom i koja je okrenula lice prema Tebi.
@@ -1297,6 +1581,8 @@ Ti si zaista Onaj koji vječno prašta, Najmilosrdniji.
 
 (Source category: Vjernice)
 (Bahaiprayers.net ID: 5310)
+
+
 
 
 ### <a id="bpn5311"></a> Prayer bpn5311 in Bosanski
@@ -1309,6 +1595,8 @@ Nema Boga osim Tebe, Gospodara moći, Gospodara slave, Gospodara znanja i mudro
 (Bahaiprayers.net ID: 5311)
 
 
+
+
 ### <a id="bpn5313"></a> Prayer bpn5313 in Bosanski
 Slava Tebi, moj Bože! Moje lice je okrenuto prema Tvome licu, a moje lice je zapravo Tvoje lice, moj poziv je Tvoj poziv, moja Objava je Tvoja objava, moje ja je Tvoje Ja, moja Vjera je Tvoja Vjera, moja volja je Tvoja volja, moje Postojanje je Tvoje Postojanje, moja vrhovnost je Tvoja vrhovnost, moja slava je Tvoja slava, a moja moć je Tvoja moć.
 Preklinjem Te, Stvoritelju naroda i Kralju vječnosti, da zaštitiš Svoje vjernice pod okriljem Tvoje čednosti, i da previdiš njihova djela koja su nedolična u Tvojim danima. Pročisti ih onda, Bože moj, od svake sumnje i ispraznih maštarija, i posveti ih od svega što bi dovelo do razdvajanja od Tebe, o Ti koji si Gospodar imena i Pokretač riječi. Ti si onaj u Čijim su rukama uzde svega što je stvoreno.
@@ -1316,6 +1604,8 @@ Nema Boga osim Tebe, Svemogućega, Najuzvišenijega, Najslavnijega, Onoga koji
 
 (Source category: Vjernice)
 (Bahaiprayers.net ID: 5313)
+
+
 
 
 ### <a id="bpn5314"></a> Prayer bpn5314 in Bosanski
@@ -1327,6 +1617,8 @@ Oprosti, Gospodaru moj, Tvojim slugama i vjernicama. Ti si, uistinu, Onaj koji v
 (Bahaiprayers.net ID: 5314)
 
 
+
+
 ### <a id="bpn5315"></a> Prayer bpn5315 in Bosanski
 OBože! Iskušenja koja šalješ su spas dušama onih koji su posvećeni Tvojoj volji. Spomen na Tebe je melem srcima onih koji su se približili Tvome dvoru. Blizina Tebi je istinski život onima koji su Tvoji ljubljeni, Tvoja prisutnost je najveća želja onih koji žude da ugledaju Tvoje lice, udaljenost od Tebe je mučenje onima koji su priznali Tvoju jednost, razdvojenost od Tebe znači smrt onima koji su spoznali Tvoju istinu!
 
@@ -1334,6 +1626,8 @@ Zaklinjem te vapajima onih čije duše za Tobom uzdišu zbog udaljenosti od T
 
 (Source category: Vjernice)
 (Bahaiprayers.net ID: 5315)
+
+
 
 
 ### <a id="bpn5316"></a> Prayer bpn5316 in Bosanski
@@ -1345,12 +1639,16 @@ Moćan si Ti činiti što te volja. Nema drugog Boga osim Tebe, Svemogućega
 (Bahaiprayers.net ID: 5316)
 
 
+
+
 ### <a id="bpn5312"></a> Prayer bpn5312 in Bosanski
 Gospodaru! Pomozi ovoj kćeri Kraljevstva da bude uzvišena u oba svijeta. Učini da se okrene od ovog prolaznog svijeta i od onih koji su svoja srca usmjerili na svijet praha, i omogući joj da druguje i da ima bliske spone sa svijetom besmrtnosti. Daruj joj nebeske moći i ojačaj je nadahnućem Svetoga Duha kako bi se mogla da te služi.
 Ti si Moćan.
 
 (Source category: Vjernice)
 (Bahaiprayers.net ID: 5312)
+
+
 
 
 
@@ -1367,6 +1665,8 @@ Molimo Te, o, Proviđenje, da pokažeš svoj put svim ljudima i da ih vodiš 
 
 
 
+
+
 ## Zaštita
 
 ### <a id="bpn5318"></a> Prayer bpn5318 in Bosanski
@@ -1380,6 +1680,9 @@ Neizmjerno si uzvišen, o, Gospodaru! Zaštiti nas od onoga što je pred nama
 
 (Source category: Zaštita)
 (Bahaiprayers.net ID: 5318)
+
+
+
 
 
 

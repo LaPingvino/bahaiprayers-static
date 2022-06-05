@@ -3,6 +3,38 @@ title = "Lietuvių"
 tags = ['lang=lt', 'prayerbook']
 +++
 
+
+
+[Asamblėja](#Asamblėja)
+
+[Atleidimas](#Atleidimas)
+
+[Atsiribojimas ir sutvirtinimas](#Atsiribojimas ir sutvirtinimas)
+
+[Dvasinis tobulėjimas](#Dvasinis tobulėjimas)
+
+[Gydymas](#Gydymas)
+
+[Išbandymai ir sunkumai](#Išbandymai ir sunkumai)
+
+[Santuoka](#Santuoka)
+
+[Tarnavimas](#Tarnavimas)
+
+[Trumpa privalomoji malda](#Trumpa privalomoji malda)
+
+[Tėvai](#Tėvai)
+
+[Už mirusiuosius](#Už mirusiuosius)
+
+[Vadovavimas ir pagalba](#Vadovavimas ir pagalba)
+
+[Vaikai](#Vaikai)
+
+[Žmonija](#Žmonija)
+
+
+
 ## Asamblėja
 
 ### <a id="bpn8204"></a> Prayer bpn8204 in Lietuvių
@@ -10,6 +42,8 @@ O Tu, gailestingasis Dieve! O Tu, Kuris esi galingas ir stiprus! O Tu, maloningi
 
 (Source category: Asamblėja)
 (Bahaiprayers.net ID: 8204)
+
+
 
 
 
@@ -21,6 +55,8 @@ O Tu, Visagali! Aš esu nuodėmingas, bet Tu esi Atleidžiantis! Aš pilnas trū
 
 (Source category: Atleidimas)
 (Bahaiprayers.net ID: 8203)
+
+
 
 
 
@@ -36,6 +72,8 @@ Tegu mano širdį užplūsta džiaugsmas per Tavo karalystės sutvirtinimo dvasi
 
 
 
+
+
 ## Dvasinis tobulėjimas
 
 ### <a id="bpn8189"></a> Prayer bpn8189 in Lietuvių
@@ -43,6 +81,8 @@ Sukurk manyje tyrą širdį, o mano Dieve, ir atgaivink mano sąžinės ramybę,
 
 (Source category: Dvasinis tobulėjimas)
 (Bahaiprayers.net ID: 8189)
+
+
 
 
 ### <a id="bpn8190"></a> Prayer bpn8190 in Lietuvių
@@ -53,11 +93,15 @@ O Dieve! Tu esi man geresnis draugas už mane patį. Pasišvenčiu Tau, O Viešp
 (Bahaiprayers.net ID: 8190)
 
 
+
+
 ### <a id="bpn8191"></a> Prayer bpn8191 in Lietuvių
 O Dieve, mano Dieve! Saugok Savo patikimus tarnus nuo savanaudiškumo ir aistros nuodėmių, saugok juos Savo visa matančia gerumo akimi nuo pagiežos, neapykantos ir pavydo, priglausk juos neįveikiamoje Savo globos tvirtovėje, apsaugok juos nuo abejonių strėlių, paversk juos Savo šlovingų ženklų apsireiškimais, nušviesk jų veidus tviskančiais Savo dieviškosios vienybės Aušros spinduliais, pradžiugink jų širdis eilėmis, apreikštomis iš Tavo šventos karalystės, sustiprink jų strėnas Savo visa valdančia galia, ateinančia iš Tavo šlovės karalijos. Tu esi Visų Dosniausias, Globėjas, Visagalis, Maloningasis.
 
 (Source category: Dvasinis tobulėjimas)
 (Bahaiprayers.net ID: 8191)
+
+
 
 
 
@@ -68,6 +112,8 @@ Tavo vardas gydo mane, o mano Dieve, Tavo prisiminimas yra mano vaistai. Tavo ar
 
 (Source category: Gydymas)
 (Bahaiprayers.net ID: 8195)
+
+
 
 
 ### <a id="bpn8196"></a> Prayer bpn8196 in Lietuvių
@@ -81,6 +127,8 @@ Tu iš tiesų esi labiausiai išaukštintas virš visko, išskyrus Tave. Tu išt
 
 
 
+
+
 ## Išbandymai ir sunkumai
 
 ### <a id="bpn8192"></a> Prayer bpn8192 in Lietuvių
@@ -90,11 +138,15 @@ Kas kitas, jei ne Dievas, pašalina sunkumus? Sakyk: tebūnie pagarbintas Dievas
 (Bahaiprayers.net ID: 8192)
 
 
+
+
 ### <a id="bpn8193"></a> Prayer bpn8193 in Lietuvių
 Aš maldauju Tave vardan Tavo galios, o mano Dieve! Tegu blogis nepakenkia man išbandymų metu ir tegu Tavo įkvėpimas teisingai nukreipia mano žingsnius nerūpestingumo akimirką. Tu esi Dievas, Tu gali daryti tai, ką panori. Niekas negali pasipriešinti Tavo Valiai ar sutrukdyti Tavo Tikslui 172.
 
 (Source category: Išbandymai ir sunkumai)
 (Bahaiprayers.net ID: 8193)
+
+
 
 
 ### <a id="bpn8194"></a> Prayer bpn8194 in Lietuvių
@@ -104,6 +156,8 @@ Priglausk Tavo Prieglobstyje, o tyrumo Dvasia, Tu, Kuris esi Maloningiausiasis T
 
 (Source category: Išbandymai ir sunkumai)
 (Bahaiprayers.net ID: 8194)
+
+
 
 
 
@@ -117,6 +171,8 @@ Priglausk Tavo Prieglobstyje, o tyrumo Dvasia, Tu, Kuris esi Maloningiausiasis T
 
 
 
+
+
 ## Tarnavimas
 
 ### <a id="bpn8201"></a> Prayer bpn8201 in Lietuvių
@@ -124,6 +180,8 @@ O mano Dieve! Aš prašau Tavęs, vardan Tavo šlovingiausiojo vardo paremk mane
 
 (Source category: Tarnavimas)
 (Bahaiprayers.net ID: 8201)
+
+
 
 
 
@@ -141,6 +199,8 @@ O mano Dieve! Aš prašau Tavęs, vardan Tavo šlovingiausiojo vardo paremk mane
 
 
 
+
+
 ## Tėvai
 
 ### <a id="bpn8199"></a> Prayer bpn8199 in Lietuvių
@@ -148,6 +208,8 @@ Tu matai, o Viešpatie, mūsų maldai sudėtas rankas, iškeltas į Tavo maloni�
 
 (Source category: Tėvai)
 (Bahaiprayers.net ID: 8199)
+
+
 
 
 
@@ -160,6 +222,8 @@ O mano Viešpatie! Apvalyk juos nuo nuodėmių, išsklaidyk jų liūdesį, paver
 
 (Source category: Už mirusiuosius)
 (Bahaiprayers.net ID: 8200)
+
+
 
 
 
@@ -179,11 +243,15 @@ O Viešpatie! Kelyje ir namie, darbe ir visuose poelgiuose aš visiškai pasitik
 (Bahaiprayers.net ID: 8187)
 
 
+
+
 ### <a id="bpn8188"></a> Prayer bpn8188 in Lietuvių
 O Viešpatie! Mes esame silpni, sustiprink mus. O Dieve! Mes nieko nežinome, suteik mums žinojimą. O Viešpatie! Mes esame vargšai, praturtink mus. O Dieve! Mes esame negyvi, atgaivink mus. O Viešpatie! Mes esame pažeminti, suteik mums šlovę Savo Karalystėje. Jei Tu padėsi mums, o Viešpatie, mes tapsime lyg žėrinčios žvaigždės. Jei Tu mums nepadėsi, tapsime žemesni už pačią žemę. O Viešpatie! Sustiprink mus. O Dieve! Dovanok mums pergalę. O Dieve! Padėk mums nugalėti save ir įveikti troškimus. O Viešpatie! Išlaisvink mus iš materialaus pasaulio pančių. O Viešpatie! Atgaivink mus Šventosios Dvasios dvelkimu, kad mes galėtume pakilti tarnauti Tau, nuolat garbinti Tave ir nuoširdžiai siekti Tavo karalystės. O Viešpatie, Tu esi Galingas! O Dieve, Tu esi Atleidžiantis! O Viešpatie, Tu esi Gailestingas!
 
 (Source category: Vadovavimas ir pagalba)
 (Bahaiprayers.net ID: 8188)
+
+
 
 
 
@@ -196,11 +264,15 @@ O Dieve! Auklėk šiuos vaikus. Šie vaikai yra Tavo vaisių sodo augalai, Tavo 
 (Bahaiprayers.net ID: 8197)
 
 
+
+
 ### <a id="bpn8198"></a> Prayer bpn8198 in Lietuvių
 O Tu, gerasis Viešpatie! Šie mieli vaikai yra Tavo galios pirštų darbas ir nuostabūs Tavo didybės ženklai. O Dieve! Saugok šiuos vaikus, maloningai padėk, kad jie būtų ugdomi, ir įgalink juos tarnauti žmonijos pasauliui. O Dieve! Šie vaikai yra perlai. Padaryk taip, kad jie būtų puoselėjami Tavo mylinčio gerumo prieglobstyje.
 
 (Source category: Vaikai)
 (Bahaiprayers.net ID: 8198)
+
+
 
 
 
@@ -218,6 +290,9 @@ O maloningasis Viešpatie! Tu sutvėrei visą žmoniją iš vienų tėvų, norė
 
 (Source category: Žmonija)
 (Bahaiprayers.net ID: 8202)
+
+
+
 
 
 

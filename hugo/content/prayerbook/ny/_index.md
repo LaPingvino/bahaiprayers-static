@@ -3,6 +3,84 @@ title = "Chichewa"
 tags = ['lang=ny', 'prayerbook']
 +++
 
+
+
+[ANA](#ANA)
+
+[ANYAMATA](#ANYAMATA)
+
+[BUNGWE LA UZIMU](#BUNGWE LA UZIMU)
+
+[CHIKHULULUKIRO](#CHIKHULULUKIRO)
+
+[CHITETEZO](#CHITETEZO)
+
+[CHITHANDIZO](#CHITHANDIZO)
+
+[CHITSOGOZO](#CHITSOGOZO)
+
+[KUCHIRITSA](#KUCHIRITSA)
+
+[KUDZIPATULA](#KUDZIPATULA)
+
+[KUDZIPEREKA](#KUDZIPEREKA)
+
+[KULIMBIKIRA](#KULIMBIKIRA)
+
+[KUPHUNZITSA](#KUPHUNZITSA)
+
+[KUSALA KUDYA](#KUSALA KUDYA)
+
+[KUYAMIKA](#KUYAMIKA)
+
+[MADZULO](#MADZULO)
+
+[MANJA  A NTCHITO YA MULUNGU](#MANJA  A NTCHITO YA MULUNGU)
+
+[MSONKHANO](#MSONKHANO)
+
+[MTUNDU WA ANTHU](#MTUNDU WA ANTHU)
+
+[M’BANDAKUCHA](#M’BANDAKUCHA)
+
+[M’MAWA](#M’MAWA)
+
+[OMWALIRA](#OMWALIRA)
+
+[PANGANO](#PANGANO)
+
+[PEMPHERO LA AHMAD](#PEMPHERO LA AHMAD)
+
+[PEMPHERO LA MOTO](#PEMPHERO LA MOTO)
+
+[PEMPHERO LA MTENDERE](#PEMPHERO LA MTENDERE)
+
+[PEMPHERO LOCHEZERANA](#PEMPHERO LOCHEZERANA)
+
+[PEMPHERO LOKAKAMIZA LALIFUPI](#PEMPHERO LOKAKAMIZA LALIFUPI)
+
+[PEMPHERO LOKAKAMIZA LALITALI](#PEMPHERO LOKAKAMIZA LALITALI)
+
+[PEMPHERO LOKAKAMIZA LAPAKATI](#PEMPHERO LOKAKAMIZA LAPAKATI)
+
+[PHWANDO LA MASIKU 19](#PHWANDO LA MASIKU 19)
+
+[UKWATI](#UKWATI)
+
+[ULENDO](#ULENDO)
+
+[UMODZI](#UMODZI)
+
+[WOCHOTSA MASAUTSO](#WOCHOTSA MASAUTSO)
+
+[YODALITSIKA NDIYO MBUTO](#YODALITSIKA NDIYO MBUTO)
+
+[ZOPEREKA KUTHUMBA](#ZOPEREKA KUTHUMBA)
+
+[ZOYENERA MU UZIMU](#ZOYENERA MU UZIMU)
+
+
+
 ## ANA
 
 ### <a id="bpn13449"></a> Prayer bpn13449 in Chichewa
@@ -12,11 +90,15 @@ O Ambuye wanga! Pangani kukongola Kwanu kukhale chakudya changa, ndikupezeka Kwa
 (Bahaiprayers.net ID: 13449)
 
 
+
+
 ### <a id="bpn13450"></a> Prayer bpn13450 in Chichewa
 O Inu a Chifundo Ambuye! Ndine mwana wamng’ono, ndikwezeni ine pondilora ine ku ufumu. Ndili wa dziko lapansi, ndipangeni ndikhale wakumwamba, ine ndili wotsika padziko, ndiloleni ine ndikhale wa maiko am’mwamba; mdima, ndifuteni ine kuti ndikhale woyera; chinthu cha dziko ndipangeni ine wauzimu, ndipo ndipatseni kuti ndi bvumbulutse mphatso Zanu 	zopanda 	malire. 	Inu 	ndinu 	Wamphamvu, Wachikondi Chonse.
 
 (Source category: ANA)
 (Bahaiprayers.net ID: 13450)
+
+
 
 
 ### <a id="bpn13446"></a> Prayer bpn13446 in Chichewa
@@ -26,6 +108,8 @@ O Mulungu wanga, Okondedwa wanga, khumbo la mtima wanga.
 (Bahaiprayers.net ID: 13446)
 
 
+
+
 ### <a id="bpn13447"></a> Prayer bpn13447 in Chichewa
 O Mulungu! Lelani kakhanda aka pa chifungatiro chachikondi Chanu, ndipo mukapatse mkaka wochokera kumaere a Mphatso Yanu. Samalirani kachomeraka m’munda wamaluwa wa chikondi Chanu ndikukathandiza kukula kubzolera mumbvumbi wa chaulere Chanu. Kapangeni kukhala kamwana ka Ufumu ndipo katsogozeni kumwamba Kwanu. Inu Ndinu wamphamvu ndi wokoma mtima, ndipo Inu Ndinu Wopatsa, Wosamana, Ambuye a chaulere chopambana.
 
@@ -33,11 +117,15 @@ O Mulungu! Lelani kakhanda aka pa chifungatiro chachikondi Chanu, ndipo mukapats
 (Bahaiprayers.net ID: 13447)
 
 
+
+
 ### <a id="bpn13448"></a> Prayer bpn13448 in Chichewa
 O Mulungu! Phunzitsani ana awa. Ana awa ali zomera za m’munda Wanu wazipatso, maluwa a M’dimba Lanu, Lozesi wa m’munda Wanu. Lolani kuti mvula Yanu iwagwere; lolani kuti dzuwa la choonadi liwalire pa iwo ndi chikondi Chanu. Lolani kuti mweya Wanu uwatsitsimutse mwakuti iwo aphunzitsidwe, akule ndipo adzadziwe, ndi kuoneka okongola kweni-kweni. Inu Ndinu Wopatsa. Inu Ndinu Wachisoni.
 
 (Source category: ANA)
 (Bahaiprayers.net ID: 13448)
+
+
 
 
 ### <a id="bpn13451"></a> Prayer bpn13451 in Chichewa
@@ -48,6 +136,8 @@ O Ambuye anga! O Ambuye anga! Ine ndine mwana wa zaka zochepa. Ndidyetseni ine k
 
 
 
+
+
 ## ANYAMATA
 
 ### <a id="bpn13452"></a> Prayer bpn13452 in Chichewa
@@ -55,6 +145,8 @@ O Ambuye! Muwalitseni mnyamatayu ndipo mupatseni wolengedwa wosakayu chaulere Ch
 
 (Source category: ANYAMATA)
 (Bahaiprayers.net ID: 13452)
+
+
 
 
 
@@ -71,6 +163,8 @@ Ambuye! Tithandizeni ife kuti tikhale nyanja zoyendetsedwa ndi mafunde a chisomo
 (Bahaiprayers.net ID: 13453)
 
 
+
+
 ### <a id="bpn13454"></a> Prayer bpn13454 in Chichewa
 *Pemphero lonenedwa potseka msonkhano wa Bungwe Lauzimu.  
  O Mulungu! O Mulungu! Kuchokera ku ufumu wosaoneka wa umodzi Wanu tioneni ife tasonkhana mu msokhano wa uzimuwu, kukhulupirira mwa Inu, kukhulupirira zizindikiro Zanu, wolimba mu Pangano ndi Mawu Anu, okopedwa kwa Inu, tiyatseni ife ndi moto wa chikondi Chanu ndi kukhukupirika ku Chipembedzo Chanu.  
@@ -81,6 +175,8 @@ Indetu, Inu Ndinu Wopatsa, Wachifundo. Inu Ndinu Mwini wa Mphatso zonse, ndipo, 
 
 (Source category: BUNGWE LA UZIMU)
 (Bahaiprayers.net ID: 13454)
+
+
 
 
 
@@ -96,6 +192,8 @@ Ndithudi, Inu Ndinu Wokhululukira, Wachisoni, ndipo Ndinu Waufumu ndi Wokondeka.
 
 
 
+
+
 ## CHITETEZO
 
 ### <a id="bpn13456"></a> Prayer bpn13456 in Chichewa
@@ -104,6 +202,8 @@ O Inu Wachifundo, O Ambuye wanga! Konzani chitetezo Chanu chikhale chida changa,
 
 (Source category: CHITETEZO)
 (Bahaiprayers.net ID: 13456)
+
+
 
 
 
@@ -116,12 +216,16 @@ O Mulungu wanga! Ndikupemphani, kubzolera mdzina Lanu la Ulemelero, kundithandiz
 (Bahaiprayers.net ID: 13457)
 
 
+
+
 ### <a id="bpn13458"></a> Prayer bpn13458 in Chichewa
 Ambuye! Ife ndife womvetsa chisoni, tipatseni chifundo Chanu; ndife wosauka, tipatseni gawo kuchokera ku nyanja ya chuma Chanu; ndife wosowa, tikwaniritseni; wosayenera, tipatseni ulemelero Wanu. Mbalame zamlengalenga ndi nyama za mu thengo zimalandira zakudya zawo tsiku ndi tsiku kuchokera kwa Inu ndipo za moyo zonse zimalandira chisamaliro ndi chikondi Chanu. Musam’mane wofookayu chisomo Chanu chodabwitsa ndipo gwetselani mwa mphamvu Yanu madalitso Anu akulu pamzimu wobvutikawu.  
 Tipatseni ife chakudya chathu chalero ndi zofunikira za moyo wathu, kuti tisadalire pa aliyense koma Inu Nokha, tigwirizane kotheratu ndi Inu, tiyende munjira zanu ndi kuwuza anthu za kudabwitsa Kwanu. Inu Ndinu Wamkulu ndi Wachikondi ndi amene Mupereka kwa mtundu wonse wa anthu.
 
 (Source category: CHITHANDIZO)
 (Bahaiprayers.net ID: 13458)
+
+
 
 
 
@@ -135,11 +239,15 @@ O Inu Wachifundo ndi Wachisoni! Ndithudi, Inu ndinu Wachisomo kwa amene ali chil
 (Bahaiprayers.net ID: 13459)
 
 
+
+
 ### <a id="bpn13460"></a> Prayer bpn13460 in Chichewa
 O Mulungu, nditsogozeni, nditetezeni, ndipangeni kukhala nyali yowala ndi nyenyezi yonyezimira. Inu Ndinu wamkulu ndi wamphamvu.
 
 (Source category: CHITSOGOZO)
 (Bahaiprayers.net ID: 13460)
+
+
 
 
 
@@ -150,6 +258,8 @@ Dzina Lanu ndilo kuchira kwanga, O Mulungu wanga, ndipo kukumbukira Inu ndi mank
 
 (Source category: KUCHIRITSA)
 (Bahaiprayers.net ID: 13461)
+
+
 
 
 ### <a id="bpn13462"></a> Prayer bpn13462 in Chichewa
@@ -164,6 +274,8 @@ Inu, m'chowonadi, Muli Wokwezeka kopambana pamwamba pa zonse kupatula Inu Mwini.
 
 
 
+
+
 ## KUDZIPATULA
 
 ### <a id="bpn13463"></a> Prayer bpn13463 in Chichewa
@@ -173,11 +285,15 @@ O Ambuye wanga, wokondedwa wanga, khumbo langa! Khalani bwenzi langa pamene ndil
 (Bahaiprayers.net ID: 13463)
 
 
+
+
 ### <a id="bpn13464"></a> Prayer bpn13464 in Chichewa
 O Ambuye wanga Wolemekezeka! Ndithandizeni kuleka malingaliro osayenera; kugonjetsa chilakolako chonse cholusa, kuyeretsa zofuna-funa za makhalidwe anga; kudzitengera ndekha kufatsa kumene chipongwe chilichonse sichingakusokoneze; kuchipiliro chimene zowawa sizingachigwedeze; kukhulupirika kumene zofuna za mtima wanga sizingakusunthe; kuti ndikhale woyenera kukutumikirani Inu ndi kuphunzitsa Mau Anu.
 
 (Source category: KUDZIPATULA)
 (Bahaiprayers.net ID: 13464)
+
+
 
 
 
@@ -192,6 +308,8 @@ Pang'ono ndi pang'ono Inu musintha kufooka kukhala nyonga, kukaika kukhala kukhu
 
 
 
+
+
 ## KULIMBIKIRA
 
 ### <a id="bpn13466"></a> Prayer bpn13466 in Chichewa
@@ -199,6 +317,8 @@ O Ambuye Mulungu Wanga! Thandizani wokondedwa Anu kukhala wolimba m’chikhulupi
 
 (Source category: KULIMBIKIRA)
 (Bahaiprayers.net ID: 13466)
+
+
 
 
 
@@ -212,6 +332,8 @@ O Ambuye! Ndine m’modzi, ndekha, ndi wopepuka. Kwa ine kulibe mtsamiro wina ul
 (Bahaiprayers.net ID: 13467)
 
 
+
+
 ### <a id="bpn13468"></a> Prayer bpn13468 in Chichewa
 O Inu Mulungu Wosafaniziridwa! O Inu Ambuye wa Ufumu! Miyoyo iyi ndi ankhondo Anu akumwamba. Athandizeni iwo, ndipo ndi magulu Akhamu Lapamwamba Muwapambanitse; kuti yense wa iwo akhale ngati gulu la nkhondo ndi kugonjetsa maikowa kupyolera mu chikondi cha Mulungu ndi kuwala kwa uzimu kwa Chiphunzitso Chanu.  
 O Mulungu! Mukhale wowatchinjiriza ndi Mthandizi wao, ndipo m’chipululu, m’phiri, m’chigwa, m’nkhalango, m’madambo ndi m’nyanja, khalani Inu wowasangalatsa – kuti alire kupyolera mu mphamvu ya Ufumu ndi kuuzira kwa Mzimu Woyera!  
@@ -221,12 +343,16 @@ Indetu, Inu Ndinu Wamphamvu, Wamkulu ndi Mwinimphamvu, ndiponso Inu Ndinu Wanzer
 (Bahaiprayers.net ID: 13468)
 
 
+
+
 ### <a id="bpn13469"></a> Prayer bpn13469 in Chichewa
 O Mulungu wanga! O Mulungu wanga! Inu mukundiona ine mukutsika kwanga ndi kufooka kwanga, otanganidwa ndi ntchito yaikulu, ndikutsimikiza kukweza liwu Lanu pakati pa magulu a wanthu ndi kufalitsa ziphunzitso Zanu pakati pa anthu Anu. Ndingapambane bwanji popanda kuthandizidwa ndi Inu ndi kuuzira kwa Mzimu Woyera, ndithandizeni kuti ndipambane ndi makamu a ufumu Wanu wa ulumerero. Ndikundipatsa chitsimikizo Chanu chimene pachokha chikhoza kusintha kachilombo kakang’ono kwambiri koluma kukhala chiombankhanga, kadontho ka madzi kukhala mitsinje ndi nyanja ndipo kanthu kakang’ono kukhala kuwala ndi dzuwa?  
 Inu ndinu Wamphamvu ndi Wochita chilichonse chimene mufuna.
 
 (Source category: KUPHUNZITSA)
 (Bahaiprayers.net ID: 13469)
+
+
 
 
 
@@ -243,6 +369,8 @@ Inu, indetu, Muli ndi mphamvu yochita zomwe Mwasankha. Kulibe Mulungu wina koma 
 
 
 
+
+
 ## KUYAMIKA
 
 ### <a id="bpn13470"></a> Prayer bpn13470 in Chichewa
@@ -252,6 +380,8 @@ Inu Ndinu Mulungu Wamphamvu, Waulemelero ndi Chaulere. Kulibe Mulungu wina pamba
 
 (Source category: KUYAMIKA)
 (Bahaiprayers.net ID: 13470)
+
+
 
 
 
@@ -266,6 +396,8 @@ Kulibe Mulungu wina koma Inu, Wamphamvu Zonse, Wogonjetsa Onse, Wosakakamizidwa.
 (Bahaiprayers.net ID: 13443)
 
 
+
+
 ### <a id="bpn13444"></a> Prayer bpn13444 in Chichewa
 *O ofufuza Choonadi! Ngati ukukhumba kuti Mulungu atsegule maso ako, uyenera kupempha kwa Mulungu, kupemphera ndi kuyankhula Naye pakati pausiku, ndi kunena:  
  O Ambuye, Ndatembenuzira nkhope yanga ku ufumu 
@@ -277,6 +409,8 @@ Indetu, Inu ndi Wopatsa, Woolowamanja, Wachifundo, Wokhululukira.
 
 
 
+
+
 ## MANJA  A NTCHITO YA MULUNGU
 
 ### <a id="bpn13471"></a> Prayer bpn13471 in Chichewa
@@ -284,6 +418,8 @@ Kuwala ndi ulemelero, malonje ndi mayamiko zikhale pa Manja a Ntchito Yake amene
 
 (Source category: MANJA  A NTCHITO YA MULUNGU)
 (Bahaiprayers.net ID: 13471)
+
+
 
 
 
@@ -300,6 +436,8 @@ Inu ndinu Wanyonga. Inu Ndinu Wamphamvu. Inu Ndinu Wopatsa, ndipo Inu ndi Wachau
 
 
 
+
+
 ## MTUNDU WA ANTHU
 
 ### <a id="bpn13473"></a> Prayer bpn13473 in Chichewa
@@ -308,6 +446,8 @@ O Ambuye! Tipatseni ife zaulere Zanu zosatha ndipo lolani kuti nyali ya chitsogo
 
 (Source category: MTUNDU WA ANTHU)
 (Bahaiprayers.net ID: 13473)
+
+
 
 
 
@@ -324,6 +464,8 @@ Dalitsaninso, O Ambuye Mulungu wanga, Iye amene Inu munamuika pamwamba pa maudin
 
 
 
+
+
 ## M’MAWA
 
 ### <a id="bpn13442"></a> Prayer bpn13442 in Chichewa
@@ -331,6 +473,8 @@ Ndauka mu chifungatiro Chanu, O Mulungu wanga, ndipo ndikoyenera kwa iye wofuna 
 
 (Source category: M’MAWA)
 (Bahaiprayers.net ID: 13442)
+
+
 
 
 
@@ -343,6 +487,8 @@ Inu! Inu Mulambiridwa m’choonadi Chanu, ndipo Inu ndithudi ife tonse tikupembe
 
 (Source category: OMWALIRA)
 (Bahaiprayers.net ID: 13474)
+
+
 
 
 ### <a id="bpn13475"></a> Prayer bpn13475 in Chichewa
@@ -361,6 +507,8 @@ Kulibe Mulungu wina koma Inu, M,modzi Yekha, Wamphamvu, Waponse-ponse, Wachauler
 
 (Source category: OMWALIRA)
 (Bahaiprayers.net ID: 13475)
+
+
 
 
 ### <a id="bpn13476"></a> Prayer bpn13476 in Chichewa
@@ -391,6 +539,8 @@ O Mbuye wanga! Ayeretseni ku zoipa, achotsereni chisoni, ndipo sandulizani mdima
 
 
 
+
+
 ## PANGANO
 
 ### <a id="bpn13477"></a> Prayer bpn13477 in Chichewa
@@ -398,6 +548,8 @@ O Mulungu, Mulungu wanga! Atchingireni atumiki Anu wokhulupirika ku zoyipa za ku
 
 (Source category: PANGANO)
 (Bahaiprayers.net ID: 13477)
+
+
 
 
 
@@ -420,6 +572,8 @@ Pali Mulungu! Ngati wina ali m’zowawa kapena m’chisoni nawerenga Pempheroli 
 
 (Source category: PEMPHERO LA AHMAD)
 (Bahaiprayers.net ID: 13478)
+
+
 
 
 
@@ -459,6 +613,8 @@ O 'Alí-Akbar, Pereka matamando kwa Ambuye wako chifukwa cha Pempheroli kuti upu
 
 
 
+
+
 ## PEMPHERO LA MTENDERE
 
 ### <a id="bpn13480"></a> Prayer bpn13480 in Chichewa
@@ -470,6 +626,8 @@ Walitsani maso athu kupyolera mu kuwala kwa Chitsogozo Chanu. Sangalatsani makut
 
 (Source category: PEMPHERO LA MTENDERE)
 (Bahaiprayers.net ID: 13480)
+
+
 
 
 
@@ -495,6 +653,8 @@ Inu Ndinu, zoonadi Wamphamvu Zonse, Wolimba Kwambiri. Dalitsaninso, O Ambuye Mul
 
 
 
+
+
 ## PEMPHERO LOKAKAMIZA LALIFUPI
 
 ### <a id="bpn13438"></a> Prayer bpn13438 in Chichewa
@@ -503,6 +663,8 @@ Kulibe Mulungu wina koma Inu, Wothandiza pa Tsoka, Wodzidalira Nokha.
 
 (Source category: PEMPHERO LOKAKAMIZA LALIFUPI)
 (Bahaiprayers.net ID: 13438)
+
+
 
 
 
@@ -549,6 +711,8 @@ Ndichitira umboni, O Mulungu wanga, kuchimene osankhidwa Anu achichitira umboni,
 
 
 
+
+
 ## PEMPHERO LOKAKAMIZA LAPAKATI
 
 ### <a id="bpn13439"></a> Prayer bpn13439 in Chichewa
@@ -575,6 +739,8 @@ Mulungu wina pambali Panu.”)
 
 
 
+
+
 ## PHWANDO LA MASIKU 19
 
 ### <a id="bpn13482"></a> Prayer bpn13482 in Chichewa
@@ -582,6 +748,8 @@ O Mulungu! Chotsani izo zonse zoyambitsa kusagwirizana, ndipo tikonzereni ife to
 
 (Source category: PHWANDO LA MASIKU 19)
 (Bahaiprayers.net ID: 13482)
+
+
 
 
 
@@ -597,6 +765,8 @@ Indedi, akwatirana pakumvera lamulo Lanu. Apangeni iwo kukhala zizindikiro za ku
 
 
 
+
+
 ## ULENDO
 
 ### <a id="bpn13484"></a> Prayer bpn13484 in Chichewa
@@ -606,12 +776,16 @@ Ndadzuka m’mawa uno ndi chisomo Chanu, O Mulungu wanga, ndikunyamuka pakhomo p
 (Bahaiprayers.net ID: 13484)
 
 
+
+
 ### <a id="bpn13485"></a> Prayer bpn13485 in Chichewa
 O Mulungu, Mulungu wanga! Ndanyamuka pa khomo langa, kugwiritsitsa chingwe cha chikondi Chanu, ndipo ndadzipereka ndekha kwathuthu ku chisamaliro Chanu ndi chitetezo Chanu. Ndikupemphani Inu ndi mphamvu Yanu imene Inu mwateteza nayo okondedwa Anu ku zopinga ndi makhalidwe oipa, ndi kwa ankhanza ndi achiwembu amene akhala kutali ndi Inu, nditetezeni ine ndi mphatso Zanu ndi chisomo Chanu. Ndiloleni, tsono, ndibwerere kwathu ndi mphamvu Zanu ndi nyonga Zanu.  
 Inu, Choonadi, Wamphamvu Zonse, Wothandiza pa Tsoka, Wodzidalira Nokha.
 
 (Source category: ULENDO)
 (Bahaiprayers.net ID: 13485)
+
+
 
 
 
@@ -624,11 +798,15 @@ O Mulungu wanga! O Mulungu wanga! Lumikizani mitima ya antchito Anu, ndipo Muwau
 (Bahaiprayers.net ID: 13486)
 
 
+
+
 ### <a id="bpn13487"></a> Prayer bpn13487 in Chichewa
 Mulungu lolani kuti kuwala kwa mgwirizano kukutire dziko lonse lapansi, ndi chizindikiro chakuti “Ufumu ngwa Mulungu” chisindikizidwe pamphumi pa anthu Ake onse.
 
 (Source category: UMODZI)
 (Bahaiprayers.net ID: 13487)
+
+
 
 
 ### <a id="bpn13488"></a> Prayer bpn13488 in Chichewa
@@ -638,6 +816,8 @@ Tiululireni, O Mulungu, Ukulu Wanu wosatha-kuti Inu mudalipo ndipo mudzakhalapob
 
 (Source category: UMODZI)
 (Bahaiprayers.net ID: 13488)
+
+
 
 
 
@@ -651,6 +831,8 @@ Choncho Limbikitsani mapazi athu, O Mulungu wanga M’Chiphunzitso Chanu, ndipo 
 (Bahaiprayers.net ID: 13491)
 
 
+
+
 ### <a id="bpn13489"></a> Prayer bpn13489 in Chichewa
 Kodi palinso wina Wochotsa masautso kupatula Mulungu? Nenani: Atamandike Mulungu! Iye Ndiye Mulungu! Onse ndi antchito Ake ndipo onse akhala mu ulamuliro Wake!
 
@@ -658,11 +840,15 @@ Kodi palinso wina Wochotsa masautso kupatula Mulungu? Nenani: Atamandike Mulungu
 (Bahaiprayers.net ID: 13489)
 
 
+
+
 ### <a id="bpn13490"></a> Prayer bpn13490 in Chichewa
 54.	Tinene: Mulungu Akwaniritsa zinthu zonse pamwamba pa zinthu zonse, ndipo kulibe chilichonse kumwamba kapena m’dziko lapansi koma Mulungu Akwaniritsa. Indetu, Iye Ali mwa Iye Mwini Wodziwa, Wosasowakathu, Mwinimphamvu.
 
 (Source category: WOCHOTSA MASAUTSO)
 (Bahaiprayers.net ID: 13490)
+
+
 
 
 ### <a id="bpn13492"></a> Prayer bpn13492 in Chichewa
@@ -677,6 +863,8 @@ Mu mdima wa ndiwe yani wa mabvuto, maso anga amatembenukira ndi oyembekezo ndi o
 
 
 
+
+
 ## YODALITSIKA NDIYO MBUTO
 
 ### <a id="bpn13493"></a> Prayer bpn13493 in Chichewa
@@ -684,6 +872,8 @@ Yodalitsika ndiyo mbuto, ndi nyumba, ndi malo, ndi mzinda, ndi mtima, ndi phiri,
 
 (Source category: YODALITSIKA NDIYO MBUTO)
 (Bahaiprayers.net ID: 13493)
+
+
 
 
 
@@ -701,6 +891,8 @@ O Ambuye wanga! Agawireni gawo lawo lopambana, mphatso yosankhidwa ndi malipiro 
 
 
 
+
+
 ## ZOYENERA MU UZIMU
 
 ### <a id="bpn13495"></a> Prayer bpn13495 in Chichewa
@@ -710,12 +902,16 @@ Nenani: O Mulungu, Mulungu wanga! Bvekani mutu wanga ndi chisoti cha chilungamo,
 (Bahaiprayers.net ID: 13495)
 
 
+
+
 ### <a id="bpn13496"></a> Prayer bpn13496 in Chichewa
 O Mulungu! Tsitsimutsani ndi kusangalatsa mzimu wanga. Yeretsani mtima wanga. Walitsani mphamvu zanga. Ndikupereka zanga zonse m’dzanja Lanu. Inu ndiye Chitsogozo changa ndi Pothawira panga. Sindidzakhala wachisoni ndi wokhumudwa; Ndidzakhala munthu wokondwa ndi wosangalala. O Mulungu! Sindidzakhalanso ndi nkhawa, kapena kulola mabvuto kundigonjetsa. Sindidzakhala pa zinthu zosakondweretsa moyo.  
 O Mulungu! Inu Ndinu bwenzi langa kwa ine kuposa m’mene ndiri ine kwa ine mwini. Ndikudzipereka kwa Inu, O Ambuye.
 
 (Source category: ZOYENERA MU UZIMU)
 (Bahaiprayers.net ID: 13496)
+
+
 
 
 ### <a id="bpn13497"></a> Prayer bpn13497 in Chichewa
@@ -727,6 +923,9 @@ Wosamalira!
 
 (Source category: ZOYENERA MU UZIMU)
 (Bahaiprayers.net ID: 13497)
+
+
+
 
 
 

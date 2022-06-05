@@ -3,6 +3,58 @@ title = "Cymraeg"
 tags = ['lang=cy', 'prayerbook']
 +++
 
+
+
+[Assistance](#Assistance)
+
+[Children](#Children)
+
+[Common](#Common)
+
+[Dawn](#Dawn)
+
+[Evening](#Evening)
+
+[Fast](#Fast)
+
+[Forgiveness](#Forgiveness)
+
+[Guidance](#Guidance)
+
+[Healing](#Healing)
+
+[Intercalary Days](#Intercalary Days)
+
+[Long Obligatory Prayer](#Long Obligatory Prayer)
+
+[Mankind](#Mankind)
+
+[Midnight](#Midnight)
+
+[Morning](#Morning)
+
+[Nearness to God](#Nearness to God)
+
+[Praise and Thanksgiving](#Praise and Thanksgiving)
+
+[Prayer for the Departed](#Prayer for the Departed)
+
+[Protection](#Protection)
+
+[Short Obligatory Prayer](#Short Obligatory Prayer)
+
+[Spiritual Assembly](#Spiritual Assembly)
+
+[Spiritual Growth](#Spiritual Growth)
+
+[Teaching](#Teaching)
+
+[Travelling](#Travelling)
+
+[Unity](#Unity)
+
+
+
 ## Assistance
 
 ### <a id="bpn13326"></a> Prayer bpn13326 in Cymraeg
@@ -14,6 +66,8 @@ O my God! I ask Thee, by Thy most glorious Name, to aid me in that which will ca
 (Bahaiprayers.net ID: 13326)
 
 
+
+
 ### <a id="bpn13324"></a> Prayer bpn13324 in Cymraeg
 A oes unrhyw Symudwr anawsterau ond Duw? Dywedwch: Clod i Dduw! Ef yw Duw! Mae pawb yn weision Iddo, a phawb yn cadw Ei orchmynion!
 
@@ -23,6 +77,8 @@ Is there any Remover of difficulties save God? Say: Praised be God! He is God! A
 (Bahaiprayers.net ID: 13324)
 
 
+
+
 ### <a id="bpn13325"></a> Prayer bpn13325 in Cymraeg
 Dywedwch: Duw sydd yn bodloni pawb uwchlaw popeth, ac nid oes dim yn y nefoedd na'r ddaear ond Duw yn digoni. Yn wir, y mae ynddo Ef Ei hun yn Sawl a Ŵyr, yn Gynhaliwr, yr Hollwybodol.
 
@@ -30,6 +86,8 @@ Say: God sufficeth all things above all things, and nothing in the heavens or in
 
 (Source category: Assistance)
 (Bahaiprayers.net ID: 13325)
+
+
 
 
 ### <a id="bpn13327"></a> Prayer bpn13327 in Cymraeg
@@ -42,6 +100,8 @@ O Lord my God! Assist Thy loved ones to be firm in Thy Faith, to walk in Thy way
 
 
 
+
+
 ## Children
 
 ### <a id="bpn13330"></a> Prayer bpn13330 in Cymraeg
@@ -49,6 +109,8 @@ O Dduw, arwain fi, gwarchod fi, gwna fi yn lamp olau a seren ddisglair. Ti yw'r 
 
 (Source category: Children)
 (Bahaiprayers.net ID: 13330)
+
+
 
 
 ### <a id="bpn13328"></a> Prayer bpn13328 in Cymraeg
@@ -60,6 +122,8 @@ O God! Rear this little babe in the bosom of Thy love, and give it milk from the
 (Bahaiprayers.net ID: 13328)
 
 
+
+
 ### <a id="bpn13329"></a> Prayer bpn13329 in Cymraeg
 O Dydi Arglwydd digymar! Bydded i'r plentyn sugno hwn ei fagu o fron Dy drugaredd, amddiffyn ef o fewn crud Dy ddiogelwch a'th nawdd, a bydded iddo gael ei fagu ym mreichiau Dy gariad tyner.
 
@@ -69,6 +133,8 @@ O Thou peerless Lord! Let this suckling babe be nursed from the breast of Thy lo
 (Bahaiprayers.net ID: 13329)
 
 
+
+
 ### <a id="bpn13331"></a> Prayer bpn13331 in Cymraeg
 O Dduw! Addysga'r plant yma. Y plant yma yw planhigion Dy berllan, blodau Dy ddôl, rhosynnau Dy ardd. Gad i'th wlaw ddisgyn arnynt; gad i Haul Gwirionedd dywynnu arnynt gyda'th gardiad. Gad i'th awel fwyn eu hadfywio fel iddynt gael hyfforddiant, tyfu a datblygu ac ymddangos yn yr harddwch eithaf. Tydi yw'r Rhoddwr. Tydi yw'r Trugarog.
 
@@ -76,6 +142,8 @@ O God! Educate these children. These children are the plants of Thine orchard, t
 
 (Source category: Children)
 (Bahaiprayers.net ID: 13331)
+
+
 
 
 ### <a id="bpn13332"></a> Prayer bpn13332 in Cymraeg
@@ -90,6 +158,8 @@ Thou art the Powerful, the All-Loving.
 (Bahaiprayers.net ID: 13332)
 
 
+
+
 ### <a id="bpn13333"></a> Prayer bpn13333 in Cymraeg
 O fy Arglwydd! O fy Arglwydd!  Plentyn bychan ydwyf fi.  Rho faeth i mi o fron Dy drugaredd, hyffordda fi ym mynwes Dy gariad, addysga fi yn ysgol Dy arweiniad a datblyga fi yng nghysgod Dy haelioni.  Achub fi o'r tywyllwch, gwna fi'n olau disglair; rhyddha fi o anhapusrwydd, gwna fi'n flodyn o'r ardd rosynnau; caniata i mi fod yn was Dy riniog a rho i mi ymagwedd a natur y cyfiawn; gwna fi yn achos llawnder i'r byd dynol a chorona fi â choron bywyd tragwyddol. 
 Yn wir, Ti yw'r Grymus, y Cryf, y Gweledydd, yr Un-sy'n-clywed.
@@ -99,6 +169,8 @@ Verily, Thou art the Powerful, the Mighty, the Seer, the Hearer!
 
 (Source category: Children)
 (Bahaiprayers.net ID: 13333)
+
+
 
 
 
@@ -123,6 +195,8 @@ and the meadow where mention of God hath been made, and His praise glorified.
 (Bahaiprayers.net ID: 13318)
 
 
+
+
 ### <a id="bpn13319"></a> Prayer bpn13319 in Cymraeg
 Molwch bob dydd yr adnodau a ddatguddiwyd gan Dduw.  Bendigedig yw’r dyn sy’n eu hadrodd ac un myfyrio arnynt.  Mae ef yn wir yn un o’r rhai y bydd pob dim yn iawn iddynt.
 
@@ -132,6 +206,8 @@ Peruse ye every day the verses revealed by God. Blessed is the man who reciteth 
 (Bahaiprayers.net ID: 13319)
 
 
+
+
 ### <a id="bpn13320"></a> Prayer bpn13320 in Cymraeg
 Llarfargana, O Fy ngwas, adnodau Duw a dderbyniaist ti, fel llafarganwyd hwy gan y rhai sydd wedi nesáu ato Ef, fel y byddo melysder dy felodi’n cynnau dy enaid di dy hun, ac yn denu calonnau’r holl ddynion.  Y sawl sy’n adrodd, yn nirgelfa ei ystafell, yr adnodau a ddatguddiwyd gan Duw, bydd angylion yr Hollalluog a wasgarwyd yn gwasgaru perarogl y geiriau a lefarwyd gan ei enau, a gwneud i galon pob dyn cyfiawn guro.  Er iddo, ar y dechrau, fod yn anymwybodol o’i effaith, eto mae’n sicr y bydd rhinwedd y gras a roddwyd iddo ef yn hwyr neu’n hwyrach yn dylanwadu ar ei enaid.  Felly y gorchmyn wyd dirgelion Datguddiad Duw trwy rinwedd ewyllys yr Hwn sy’n ffynhonnell gallu doethineb.
 
@@ -139,6 +215,8 @@ Intone, O My servant, the verses of God that have been received by thee, as into
 
 (Source category: Common)
 (Bahaiprayers.net ID: 13320)
+
+
 
 
 
@@ -165,6 +243,8 @@ Thou art, truly, the Lord and King of all men, and art potent over all things.
 
 
 
+
+
 ## Evening
 
 ### <a id="bpn13334"></a> Prayer bpn13334 in Cymraeg
@@ -184,6 +264,8 @@ By Thy might! I ask not, whether sleeping or waking, but that which Thou dost de
 (Bahaiprayers.net ID: 13334)
 
 
+
+
 ### <a id="bpn13335"></a> Prayer bpn13335 in Cymraeg
 O fy Arglwydd, rwyf wedi ymddiried
 fy ysbryd a'm holl fodolaeth i ddeheulaw Dy nerth a Dy amddiffyn,
@@ -195,6 +277,8 @@ I have committed, O my Lord, my spirit and my entire being into the right hand o
 
 (Source category: Evening)
 (Bahaiprayers.net ID: 13335)
+
+
 
 
 
@@ -275,6 +359,8 @@ I beseech Thee, O my Lord, by Thyself, and by Thy signs, and Thy clear tokens, a
 (Bahaiprayers.net ID: 13368)
 
 
+
+
 ### <a id="bpn13369"></a> Prayer bpn13369 in Cymraeg
 O Arglwydd Rhadlon!  Ti, yr Hwn wyt yn hael ac yn drugarog!  Nyni ydym weision Dy drothwy, ydym dan nodded Dy drugaredd.  Mae Haul Dy ragluniaeth Di yn disgleirio ar bawb ohonom, a chymylau Dy dosturi Di yn glawio arnom oll. Mae Dy roddion yn amgylchynnu pawb, Dy ragluniaeth yn cynnal pawb, Dy nodded yn cysgodi pawb a thremiau Dy ffafr Di yn goleuo pawb.  O Arglwydd!   Dyro i ni Dy roddion diderfyn a gad i oleuni Dy arweiniad Di lewyrchu arnom.  Goleua'r llygaid, gwna'r eneidiau'n llawen a dyro ysbryd newydd ar y calonnau.  Dyro iddynt fywyd tragwyddol; Agor ddrysau Dy wybodaeth; gad i oleuni ffydd lewyrchu.
 Una ddynoliaeth a thyrd â hi i un lloches dan faner Dy nodded Di, fel y daw dynion yn debyg i donnau un môr, i ddail a brigau un goeden, ac ymgynnull yng nghysgod yr un babell.  Boed i'r un ffynhonnell o oleuni a bywyd eu goleuo hwy.  Ti yw'r Rhoddwr, y Duw Trugarog
@@ -287,6 +373,8 @@ O Thou kind Lord! O Thou Who art generous and merciful! We are servants of Thy t
 (Bahaiprayers.net ID: 13369)
 
 
+
+
 ### <a id="bpn13370"></a> Prayer bpn13370 in Cymraeg
 O Arglwydd! Gwna i’r ifanc hwn lewyrchu a  thywallt gyfoeth Dy haelioni arno, greadur  tlawd. Bendithia ef â gwybodaeth, dyro iddo  nerth ychwanegol ar ddechrau pob dydd a  gwarchod ef yng nghysgod Dy amddiffyn  fel y caiff ei ryddhau o gamgymeriadau, gan  ymdaflu i wasanaeth Dy Achos Di. Bydded  iddo ddod yn ganllaw i’r rhai sy’n crwydro,  i arwain y rhai di-gyfeiriad, i ryddhau’r rhai  sy’n gaeth ac i ddeffro’r rhai di-hidio, fel y  cant i gyd eu bendithio yn Dy gofio a Dy glod.
 
@@ -294,6 +382,8 @@ O Lord!  Make this youth radiant, and confer Thy bounty upon this poor creature.
 
 (Source category: Fast)
 (Bahaiprayers.net ID: 13370)
+
+
 
 
 
@@ -305,6 +395,8 @@ O my God, O my Lord, O my Master! I beg Thee to forgive me for seeking any pleas
 
 (Source category: Forgiveness)
 (Bahaiprayers.net ID: 13353)
+
+
 
 
 ### <a id="bpn13354"></a> Prayer bpn13354 in Cymraeg
@@ -319,6 +411,8 @@ Verily, Thou art the Help in Peril, the Self-Subsisting.
 
 (Source category: Forgiveness)
 (Bahaiprayers.net ID: 13354)
+
+
 
 
 
@@ -338,6 +432,8 @@ O my God! Let no harm beset me in times of tests, and in moments of heedlessness
 (Bahaiprayers.net ID: 13346)
 
 
+
+
 ### <a id="bpn13347"></a> Prayer bpn13347 in Cymraeg
 Rho i mi fy nghyfran, O Arglwydd, yn ôl dy ddymuniad,a gwna fi'n fodlon ar beth bynnagyr Wyt wedi ei ordeinio ar fy nghyfer.Tydi sydd â'r awdurdod terfynol i orchymyn.
 
@@ -345,6 +441,8 @@ Bestow upon me my portion, O Lord, as Thou pleasest, and cause me to be satisfie
 
 (Source category: Guidance)
 (Bahaiprayers.net ID: 13347)
+
+
 
 
 ### <a id="bpn13348"></a> Prayer bpn13348 in Cymraeg
@@ -357,6 +455,8 @@ O Thou compassionate Lord, Thou Who art generous and able! We are servants of Th
 
 
 
+
+
 ## Healing
 
 ### <a id="bpn13352"></a> Prayer bpn13352 in Cymraeg
@@ -366,6 +466,8 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness
 
 (Source category: Healing)
 (Bahaiprayers.net ID: 13352)
+
+
 
 
 
@@ -390,6 +492,8 @@ Thou, truly, art the Almighty, the All-Knowing, the All-Informed.
 
 (Source category: Intercalary Days)
 (Bahaiprayers.net ID: 13367)
+
+
 
 
 
@@ -544,6 +648,8 @@ I testify, O my God, to that whereunto Thy chosen Ones have testified, and ackno
 
 
 
+
+
 ## Mankind
 
 ### <a id="bpn13364"></a> Prayer bpn13364 in Cymraeg
@@ -574,6 +680,8 @@ Thou art the Mighty and Powerful, Thou art the Forgiving and Thou art the One Wh
 (Bahaiprayers.net ID: 13364)
 
 
+
+
 ### <a id="bpn13373"></a> Prayer bpn13373 in Cymraeg
 O Tydi Arglwydd caredig! Una pawb.
 
@@ -587,6 +695,8 @@ Thou art the Mighty and Powerful, Thou art the Forgiving and Thou art the One Wh
 (Bahaiprayers.net ID: 13373)
 
 
+
+
 ### <a id="bpn13374"></a> Prayer bpn13374 in Cymraeg
 O Dduw! Arllwys arnom Bersawr Nefol a gweddnewid y dyrfa hon yn dyrfa'r Nef! Dyro i ni pob bendith a phob math o fwyd. Paratoa i ni Fwyd Cariad!
 
@@ -596,6 +706,8 @@ Rho i ni Fwyd Gwybodaeth! Cyflwyna i ni Fwyd y Goleuni Nefol!
 
 (Source category: Mankind)
 (Bahaiprayers.net ID: 13374)
+
+
 
 
 
@@ -617,6 +729,8 @@ Verily, Thou art the Giver, the Generous, the Merciful, the Forgiving.
 
 
 
+
+
 ## Morning
 
 ### <a id="bpn13337"></a> Prayer bpn13337 in Cymraeg
@@ -626,6 +740,8 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 
 (Source category: Morning)
 (Bahaiprayers.net ID: 13337)
+
+
 
 
 
@@ -639,6 +755,8 @@ O God, my God, my Beloved, my heart's Desire,
 
 (Source category: Nearness to God)
 (Bahaiprayers.net ID: 13371)
+
+
 
 
 ### <a id="bpn13372"></a> Prayer bpn13372 in Cymraeg
@@ -709,6 +827,8 @@ Thou art, in all truth, the Gracious, the Glorified, the Mighty, the Omnipotent.
 
 
 
+
+
 ## Praise and Thanksgiving
 
 ### <a id="bpn13349"></a> Prayer bpn13349 in Cymraeg
@@ -724,6 +844,8 @@ Powerful art Thou to do what pleaseth Thee. Thou, truly, art the All-Glorious, t
 
 (Source category: Praise and Thanksgiving)
 (Bahaiprayers.net ID: 13349)
+
+
 
 
 
@@ -774,6 +896,8 @@ Bahá'u'lláh.
 (Bahaiprayers.net ID: 13355)
 
 
+
+
 ### <a id="bpn13357"></a> Prayer bpn13357 in Cymraeg
 O fy Nuw! O faddeuwr pechodau! Cyflwynwr rhoddion! Gwasgarwr cystuddiau!
 
@@ -791,6 +915,8 @@ O my Lord! Purify them from trespasses, dispel their sorrows, and change their d
 
 
 
+
+
 ## Protection
 
 ### <a id="bpn13350"></a> Prayer bpn13350 in Cymraeg
@@ -800,6 +926,8 @@ Thou seest me, O Lord, detached from all things but Thee, clinging to the cord o
 
 (Source category: Protection)
 (Bahaiprayers.net ID: 13350)
+
+
 
 
 ### <a id="bpn13351"></a> Prayer bpn13351 in Cymraeg
@@ -812,6 +940,8 @@ He is the Compassionate, the All-Bountiful! O God, my God! Thou seest me, Thou k
 
 (Source category: Protection)
 (Bahaiprayers.net ID: 13351)
+
+
 
 
 
@@ -831,6 +961,8 @@ I bear witness, O my God, that Thou hast created me to know Thee and to worship 
 
 
 
+
+
 ## Spiritual Assembly
 
 ### <a id="bpn13366"></a> Prayer bpn13366 in Cymraeg
@@ -842,6 +974,8 @@ Rho i ni Fwyd Gwybodaeth! Cyflwyna i ni Fwyd y Goleuni Nefol!
 (Bahaiprayers.net ID: 13366)
 
 
+
+
 ### <a id="bpn13365"></a> Prayer bpn13365 in Cymraeg
 Pryd bynnag yr ewch i mewn i'r siambr cyngor, adroddwch y weddi hon gyda chalon yn curo â chariad Duw a thafod wedi ei phuro rhag popeth ond Ei goffadwriaeth fel i'r Holl-Rymus yn rasol eich cymorth i gyrraedd buddugoliaeth lawn.
 
@@ -851,6 +985,8 @@ O God, my God! We are servants of Thine that have turned with devotion to Thy Ho
 
 (Source category: Spiritual Assembly)
 (Bahaiprayers.net ID: 13365)
+
+
 
 
 
@@ -873,6 +1009,8 @@ I am all wretchedness, O my Lord, and Thou art the Most Powerful, the Almighty. 
 (Bahaiprayers.net ID: 13340)
 
 
+
+
 ### <a id="bpn13341"></a> Prayer bpn13341 in Cymraeg
 O ffrydiau pêr Dy dragwyddoldeb dyro i mi yfed, O fy Nuw, ac o ffrwyth pren Dy hanfod gad i mi brofi, O fy Ngobaith! O ffynhonnau crisialaidd Dy gariad caniatâ i mi ddrachtio, O fy Ngogoniant, ac yng nghysgod Dy ragluniaeth ddiddiwedd gad i mi drigo, O fy Ngoleuni! O fewn dolydd dy agosrwydd, ger bron Dy bresenoldeb gad i mi grwydro, O fy Anwylyd, ac ar ddeheulaw gorsedd Dy drugaredd gad i mi eistedd O fy Nymuniad! O awelon pêr Dy lawenydd dyro i anadl ddisgyn arnaf, O fy Nod, a dyro im fynediad i uchelderau paradwys Dy wirionedd, O fy Nghariad! Dyro im glustfeinio alawon colomen Dy undod, O'r Un ysblennydd, a bywhâ fi trwy ysbryd Dy nerth a'th allu, O fy'n Narparwr! Yn ysbryd Dy gariad cadw fi'n gadarn, O fy Nghymorth, a chadarnhâ fy nghamre yn llwybr D'awyddfryd O fy Nghrewr! O flaen Dy wynepryd, yng ngardd D'anfarwoldeb gad i mi aros yn oes oesodd, Tydi yr Hwn wyt drugarog wrthyf, ac ar orseddfainc Dy ogononiant dyro i mi eistedd, O Tydi yr Hwn wyt fy meddiannwr! Cod fi i nefoedd Dy drugaredd, O Tydi sydd yn fy mywhau, a thywys fi tuag at seren ddydd Dy gyfarwyddyd, O Tydi sydd yn fy nenu! Galw fi i fod yn bresennol o flaen datguddiad D'ysbryd anweledig, Ti yr Hwn wyt fy Ngwraidd a'm Dymuniad Pennaf, ac i hanfod bersawr Dy harddwch, a amlygir gennyt, gâd i mi ddychwelyd, O Tydi yr Hwn wyt fy Nuw!
 
@@ -885,6 +1023,8 @@ Potent art Thou to do what pleasest Thee. Thou art, verily, the Most Exalted, th
 (Bahaiprayers.net ID: 13341)
 
 
+
+
 ### <a id="bpn13342"></a> Prayer bpn13342 in Cymraeg
 Dywedwch: O Dduw, fy Nuw! Gwisg fy mhen â choron cyfiawnder, a'm harlais â thlws tegwch. Ti, yn wir, wyt Berchen pob rhodd a haelioni.
 
@@ -894,6 +1034,8 @@ Say: O God, my God! Attire mine head with the crown of justice, and my temple wi
 (Bahaiprayers.net ID: 13342)
 
 
+
+
 ### <a id="bpn13344"></a> Prayer bpn13344 in Cymraeg
 O Arglwydd! Gwan ydym; cryfhâ ni. O Dduw! Anwybodus ydym, dyro i ni wybodaeth. O Arglwydd! Tlawd ydym; gwna ni'n gyfoethog. O Dduw! Rydym feirw; dyro fywyd ynom. O Arglwydd! Yr ydym yn llwyr ddarostyngedig; yn Dy Deyrnas gogonedda ni. Pe cawn Dy gymorth, O Dduw, byddwn fel sêr yn pefrio. Pen a chawn Dy gymorth, byddwn yn is na'r llawr. O Arglwydd! Cryfhâ ni. O Dduw! Dyro fuddugoliaeth i ni. O Dduw! Galluoga ni i goncro hunanoldeb a gorchfygu chwant. O Arglwydd! Gwared ni rhag caethiwed y byd materol. O Arglwydd! Dyro fywyd i ni drwy anadl yr Ysbryd Glân, fel y cyfodwn i'th wasanaethu, ymgymryd a'th addoli Di, ac ymegnïo'n ddidwyll yn Dy Deyrnas. O Arglwydd, Grymus wyt! O Dduw, Maddeugar wyt! O Arglwydd, Trugarog wyt!
 
@@ -901,6 +1043,8 @@ O Lord! We are weak; strengthen us. O God! We are ignorant; make us knowing. O L
 
 (Source category: Spiritual Growth)
 (Bahaiprayers.net ID: 13344)
+
+
 
 
 ### <a id="bpn13345"></a> Prayer bpn13345 in Cymraeg
@@ -917,6 +1061,8 @@ Thou art, verily, the Almighty, the All-Glorious, the Most Powerful.
 
 
 
+
+
 ## Teaching
 
 ### <a id="bpn13359"></a> Prayer bpn13359 in Cymraeg
@@ -930,6 +1076,8 @@ O Lord! Unto Thee have I turned my face, detached from all save Thee and holding
 
 (Source category: Teaching)
 (Bahaiprayers.net ID: 13359)
+
+
 
 
 ### <a id="bpn13358"></a> Prayer bpn13358 in Cymraeg
@@ -954,6 +1102,8 @@ Verily, Thou art the Powerful, the Mighty and the Omnipotent, and Thou art the W
 
 
 
+
+
 ## Travelling
 
 ### <a id="bpn13338"></a> Prayer bpn13338 in Cymraeg
@@ -970,6 +1120,8 @@ There is none other God but Thee, the One, the Incomparable, the All-Knowing, th
 (Bahaiprayers.net ID: 13338)
 
 
+
+
 ### <a id="bpn13339"></a> Prayer bpn13339 in Cymraeg
 O Dduw! O Dduw! Rwyf wedi cychwyn o'm cartref, yn gafael yn dynn yn llinyn Dy gariad,ac rwyf wedi cyflwyno fy hun yn llwyr i Dy ofal a'th amddiffyn...
 Galluoga fi, felly, i ddychwelyd adref trwy Dy rym a'th nerth.
@@ -984,6 +1136,8 @@ O God, my God! I have set out from my home, holding fast unto the cord of Thy lo
 
 
 
+
+
 ## Unity
 
 ### <a id="bpn13360"></a> Prayer bpn13360 in Cymraeg
@@ -995,6 +1149,8 @@ O Thou Who art the Lord of Lords! I testify that Thou art the Lord of all creati
 (Bahaiprayers.net ID: 13360)
 
 
+
+
 ### <a id="bpn13361"></a> Prayer bpn13361 in Cymraeg
 Bydded i Dduw ganiatau i olau undod amgylchynu'r holl ddaear, a'r sêl 'Eiddo Duw yw y Deyrnas' ei osod ar dalcen ei holl bobloedd.
 
@@ -1004,6 +1160,8 @@ God grant that the light of unity may envelop the whole earth, and that the seal
 (Bahaiprayers.net ID: 13361)
 
 
+
+
 ### <a id="bpn13362"></a> Prayer bpn13362 in Cymraeg
 O fy Nuw!  O Fy Nuw!  Una galonnau Dy weision a datguddia Dy fwriad mawr iddynt.  Bydded iddynt ddilyn Dy orchmynion ac aros yn Dy gyfraith.  Cynorthwya hwy, O Dduw, yn eu hymdrech a dyroiddnyt nerth i'th wasanaethu.  O Dduw, paid a'u gadael i'w hunain ond arwain eu camre drwy lewyrch Dy wybodaeth a chysura eu calonnau â'th gariad.  Yn wir, Tydi yw eu Cynorthwywr  a'u Harglwydd.
 
@@ -1011,6 +1169,9 @@ O my God! O my God! Unite the hearts of Thy servants, and reveal to them Thy gre
 
 (Source category: Unity)
 (Bahaiprayers.net ID: 13362)
+
+
+
 
 
 

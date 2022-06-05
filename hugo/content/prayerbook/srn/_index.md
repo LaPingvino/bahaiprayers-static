@@ -3,6 +3,26 @@ title = "Sranan Tongo"
 tags = ['lang=srn', 'prayerbook']
 +++
 
+
+
+[Algemene Gebeden](#Algemene Gebeden)
+
+[Avond](#Avond)
+
+[Bijstand bij beproevingen](#Bijstand bij beproevingen)
+
+[Genezing](#Genezing)
+
+[Help](#Help)
+
+[Kinderen](#Kinderen)
+
+[Korte Verplichte Gebed](#Korte Verplichte Gebed)
+
+[Ochtend](#Ochtend)
+
+
+
 ## Algemene Gebeden
 
 ### <a id="bpn6076"></a> Prayer bpn6076 in Sranan Tongo
@@ -26,6 +46,8 @@ pe den e kari a Nen fu Gado
 (Bahaiprayers.net ID: 6076)
 
 
+
+
 ### <a id="bpn6077"></a> Prayer bpn6077 in Sranan Tongo
 ##WORTU FU GADO 
 O Mi diniman, yu musu singi den wortu fu Gado san yu ben kisi, leki fa den suma di de krosbei fu En du oktu; so dati a switi singi disi sa meki yu yeye kon breiti nanga tiri den ati fu alasma kon na yu. Den Engel fu a Ala-maktiwan sa panya-panya a switi blesi fu den wortu di komoto fu a mofo fu a suma di e taki den wortu fu Gado ini a tiri fu en kamra. 
@@ -33,6 +55,8 @@ Disi sa prisiri den ati fu den suma di e libi leti-fasi. Kande fosi en no man 
 
 (Source category: Algemene Gebeden)
 (Bahaiprayers.net ID: 6077)
+
+
 
 
 ### <a id="bpn6078"></a> Prayer bpn6078 in Sranan Tongo
@@ -44,6 +68,8 @@ Hoewel hij zich misschien eerst van deze uitwerking niet bewust zal zijn, zal de
 (Bahaiprayers.net ID: 6078)
 
 
+
+
 ### <a id="bpn6079"></a> Prayer bpn6079 in Sranan Tongo
 ##WÖUTU FU GADU 
 Kanda, kë mi dinai, di wöutu fu Gadu di A da ju, kuma de sëmbë de dë na Hën bandja ta kanda de, fu di a suti u di kanda fii sa mbei di akaa fii seei kisi faja ku a sa hai de hati fu hii sëmbë ko. De sëmbë di dë pii a de denduwosu ta taki de wöutu de Gadu tja ko da u, sa mbei de Gaduköndë basia paaja di suti sumëë fu de wöutu, ku mbei di hati fu hiniwan sëmbë di ta libi a di leti fasi naki möön taanga. 
@@ -51,6 +77,8 @@ Aluwansi fosu an bi ta mëni di kaakiti fu hën, toku di kaakiti u di blesi di a
 
 (Source category: Algemene Gebeden)
 (Bahaiprayers.net ID: 6079)
+
+
 
 
 ### <a id="bpn6092"></a> Prayer bpn6092 in Sranan Tongo
@@ -61,12 +89,16 @@ O mi Gado! O mi Gado! Tai makandra den ati fu Yu dinari èn opo den ai gi Yu
 (Bahaiprayers.net ID: 6092)
 
 
+
+
 ### <a id="bpn6093"></a> Prayer bpn6093 in Sranan Tongo
 ##EENHEID 
 O mijn God! O mijn God! Verenig de harten van Uw dienaren en openbaar hun Uw verheven doel. Mogen zij Uw geboden nakomen en bij Uw wet verblijven. Help hen, o God, in hun streven en schenk hen kracht U te dienen. O God, laat hen niet aan zichzelf over, maar leid hun schreden met het licht van Uw kennis en verblijd hun hart met Uw liefde. Waarlijk, Gij zijt hun Helper en hun Heer.
 
 (Source category: Algemene Gebeden)
 (Bahaiprayers.net ID: 6093)
+
+
 
 
 ### <a id="bpn6094"></a> Prayer bpn6094 in Sranan Tongo
@@ -76,6 +108,8 @@ Ke mi Gadu! Ke mi Gadu! Tai dee hati fu dee dinaii Fii a wan nöö jabi de w
 
 (Source category: Algemene Gebeden)
 (Bahaiprayers.net ID: 6094)
+
+
 
 
 ### <a id="bpn6104"></a> Prayer bpn6104 in Sranan Tongo
@@ -88,6 +122,8 @@ Laat hen de tuin van geluk betreden, reinig hen met het zuiverste water en sta
 (Bahaiprayers.net ID: 6104)
 
 
+
+
 ### <a id="bpn6105"></a> Prayer bpn6105 in Sranan Tongo
 ##BEGI FU DEDE SEMBE 
 Ke mi Gaangadu! Ke Ju di ta puu zonu, Ju di ta da u bunu, Ju di ta puu fuka. Tuutuu, mi ta begi Ju fu puu hii zonu da de sëmbë di go disa di dotisinki aki, 
@@ -95,6 +131,8 @@ hën di go a di goonliba u jeje. Ke mi Masa Gadu! Limbo de fu di misi di den m
 
 (Source category: Algemene Gebeden)
 (Bahaiprayers.net ID: 6105)
+
+
 
 
 
@@ -108,12 +146,16 @@ Fa mi kan wani go sribi, o Gado, mi Gado, te den ai fu den suma di e angri fu 
 (Bahaiprayers.net ID: 6089)
 
 
+
+
 ### <a id="bpn6090"></a> Prayer bpn6090 in Sranan Tongo
 ##AVOND 
 Hoe kan ik wensen te slapen, o God, mijn God, wanneer zij die naar U hunkeren niet kunnen slapen, omdat zij van U gescheiden zijn en hoe kan ik gaan rusten terwijl de zielen van Uw geliefden worden gepijnigd doordat zij veraf zijn van Uw tegenwoordigheid? Ik heb mijn geest en mijn gehele wezen, o mijn Heer, toevertrouwd aan de rechterhand van Uw macht en Uw bescherming; door Uw kracht leg ik mijn hoofd op mijn kussen en naar Uw wil en Uw welbehagen hef ik het op. Gij zijt waarlijk de Behoeder, de Bewaker, de Almachtige, de Almogende. Bij Uw macht! Slapend of wakend vraag ik slechts hetgeen Gij wenst. Ik ben Uw dienaar en ik ben in Uw handen. Helpt Gij mij met Uw genade te doen wat de geur van Uw welbehagen zal verspreiden. Dit is waarlijk mijn hoop en de hoop van hen die U nabij zijn. Geprezen zijt Gij, o Heer der werelden!
 
 (Source category: Avond)
 (Bahaiprayers.net ID: 6090)
+
+
 
 
 ### <a id="bpn6091"></a> Prayer bpn6091 in Sranan Tongo
@@ -123,6 +165,8 @@ te dee dy ta mëni Ju gaanfa na sa duumi biga de paati de ku Ju; Unfa mi sa 
 
 (Source category: Avond)
 (Bahaiprayers.net ID: 6091)
+
+
 
 
 
@@ -136,6 +180,8 @@ O Gado. Opo mi kra èn meki a breti. Krin mi ati. Leti mi krakti. Mi e p
 (Bahaiprayers.net ID: 6101)
 
 
+
+
 ### <a id="bpn6102"></a> Prayer bpn6102 in Sranan Tongo
 ##BIJSTAND BIJ BEPROEVINGEN 
 O God! Verkwik en verblijd mijn ziel. Zuiver mijn hart. Verlicht mijn geest. Ik leg alles in Uw hand. Gij zijt mijn Gids en mijn Toevlucht. Ik wil niet langer treurig en bedroefd zijn; ik wil gelukkig en blij zijn. O God! Ik wil niet langer vol zorgen zijn, en ik wil mij niet door verdriet laten kwellen. Ik wil niet bij de onaangename dingen in het leven stilstaan. O God! Gij zijt een groter vriend voor mij dan ik voor mijzelf ben. 
@@ -143,6 +189,8 @@ Ik wijd mij aan U, o Heer!
 
 (Source category: Bijstand bij beproevingen)
 (Bahaiprayers.net ID: 6102)
+
+
 
 
 ### <a id="bpn6103"></a> Prayer bpn6103 in Sranan Tongo
@@ -153,6 +201,8 @@ Mi an kë tan ta mëni dee sondi fu goonliba nöömö. Ke Gadu! Ju dë wan mö
 
 (Source category: Bijstand bij beproevingen)
 (Bahaiprayers.net ID: 6103)
+
+
 
 
 
@@ -167,6 +217,8 @@ Yu sar'ati gi mi na mi dresi nanga mi yepi ini a grontapu disi nanga a gront
 (Bahaiprayers.net ID: 6083)
 
 
+
+
 ### <a id="bpn6084"></a> Prayer bpn6084 in Sranan Tongo
 ##GENEZING 
 Uw Naam is mijn genezing, o mijn God, en het U gedenken is mijn medicijn. U nabij te zijn is mijn hoop en liefde voor U is mijn metgezel. 
@@ -176,12 +228,16 @@ Uw genade is mijn genezing en mijn steun in deze wereld en in de wereld die 
 (Bahaiprayers.net ID: 6084)
 
 
+
+
 ### <a id="bpn6085"></a> Prayer bpn6085 in Sranan Tongo
 ##DEESI 
 Ju në da kula fu mi, ke mi Gadu, di mëni mi ta mëni Ju, hën da mi deesi. Ta mi sa dë a Ju bandja hën da mi hopu ku di lobi mi ta lobi Ju hën da mi kompe. Di saahati Fii hën da mi kula ku mi heepi a di goonliba aki sö seepi a di goonliba di o ko. Fu tuu, Ju da wan di ta da hii sondi, di sabi hii sondi, di abi hii köni.
 
 (Source category: Genezing)
 (Bahaiprayers.net ID: 6085)
+
+
 
 
 
@@ -195,6 +251,8 @@ Sortu Puruman fu dangra sani de boiti Gado? Taki: Grani gi Gado! En na Gado!�
 (Bahaiprayers.net ID: 6095)
 
 
+
+
 ### <a id="bpn6096"></a> Prayer bpn6096 in Sranan Tongo
 ##BIJSTAND BIJ BEPROEVINGEN 
 Is er iemand die moeilijkheden wegneemt buiten God? Zeg: Ere zij God! Hij is God! Allen zijn Zijn dienaren en allen houden vast aan Zijn gebod.
@@ -203,12 +261,16 @@ Is er iemand die moeilijkheden wegneemt buiten God? Zeg: Ere zij God! Hij is God
 (Bahaiprayers.net ID: 6096)
 
 
+
+
 ### <a id="bpn6097"></a> Prayer bpn6097 in Sranan Tongo
 ##TE FUKA MÖÖ JU 
 Sëmbë dë di sa puu fuka söndö Gadu öö? Taki taa: Tangi u Gadu! Hën da Gadu! Hii sëmbë da Hën dinaii, hii de tuu ta hoi Hën wëti.
 
 (Source category: Help)
 (Bahaiprayers.net ID: 6097)
+
+
 
 
 
@@ -222,6 +284,8 @@ O Gado, tyari mi, kibri mi; leti a lampu fu mi ati èn meki mi wan brenk
 (Bahaiprayers.net ID: 6098)
 
 
+
+
 ### <a id="bpn6099"></a> Prayer bpn6099 in Sranan Tongo
 ##KINDEREN 
 O God, leid mij, bescherm mij; maak mij een stralend licht en een schitterende ster. Gij zijt de Machtige en de Krachtige.
@@ -230,12 +294,16 @@ O God, leid mij, bescherm mij; maak mij een stralend licht en een schitter
 (Bahaiprayers.net ID: 6099)
 
 
+
+
 ### <a id="bpn6100"></a> Prayer bpn6100 in Sranan Tongo
 ##BEGI FU DI MIII 
 Ke Gaangadu! Tja mi, tjubi mi; sende di faja da mi ati noj mbei mi kuma wan limbo teeja. Ju da di Kaakiti-wan ku di Posiewan
 
 (Source category: Kinderen)
 (Bahaiprayers.net ID: 6100)
+
+
 
 
 
@@ -251,6 +319,8 @@ Mi poti, nanga Yu gudu. No wan tra Gado de boiti Yu, a Yepiman ini nowtu, 
 (Bahaiprayers.net ID: 6080)
 
 
+
+
 ### <a id="bpn6081"></a> Prayer bpn6081 in Sranan Tongo
 ##KORTE VERPLICHTE GEBED 
 *(Het korte verplichte gebed wordt dagelijks gezegd tussen 12 en 6 uur 's middags.) 
@@ -260,6 +330,8 @@ Ik getuig, o mijn God, dat Gij mij hebt geschapen om U te kennen en U te aanbi
 (Bahaiprayers.net ID: 6081)
 
 
+
+
 ### <a id="bpn6082"></a> Prayer bpn6082 in Sranan Tongo
 ##DI SATI BEGI DI JU MUSU BEGI HINIWAN DAKA 
 *(Bahá'u'lláh tjaa dii begi ko da u di ju musu fu begi hiniwan daka. Hiniwan sembe di ta biibi musu fu begi wan fu den dii begi wan pasi wan daka kuma fa de leewi hen. Di begi aki, hen da di möö sati wan, hen ju musu taki wan pasi wan daka a di pisi ten fu twalufu juu tja kisi sonu nangu.) 
@@ -267,6 +339,8 @@ Mi ta soi, ke mi Gadu, ta Ju mbei mi fu sabi Ju en fu begi Ju. Mi ta djula
 
 (Source category: Korte Verplichte Gebed)
 (Bahaiprayers.net ID: 6082)
+
+
 
 
 
@@ -283,6 +357,8 @@ a Alakoni-Wan.
 (Bahaiprayers.net ID: 6086)
 
 
+
+
 ### <a id="bpn6087"></a> Prayer bpn6087 in Sranan Tongo
 ##OCHTEND 
 Ik ben deze morgen opgestaan door Uw genade, o mijn God, en verliet mijn woning vol vertrouwen op U en gaf mij over aan Uw zorg. Zegen mij dan vanuit de hemel van Uw barmhartigheid 
@@ -290,6 +366,8 @@ en laat mij veilig terugkeren zoals Gij mij onder Uw bescherming liet vertrekk
 
 (Source category: Ochtend)
 (Bahaiprayers.net ID: 6087)
+
+
 
 
 ### <a id="bpn6088"></a> Prayer bpn6088 in Sranan Tongo
@@ -300,6 +378,9 @@ Ju di möö köni wan.
 
 (Source category: Ochtend)
 (Bahaiprayers.net ID: 6088)
+
+
+
 
 
 

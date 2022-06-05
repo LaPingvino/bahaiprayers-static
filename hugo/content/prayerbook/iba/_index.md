@@ -3,6 +3,96 @@ title = "Iban"
 tags = ['lang=iba', 'prayerbook']
 +++
 
+
+
+[ANAKMIT](#ANAKMIT)
+
+[ANEMBIAK](#ANEMBIAK)
+
+[AYYÁM-I-HÁ](#AYYÁM-I-HÁ)
+
+[DIRI SEBILIK](#DIRI SEBILIK)
+
+[EMPURU](#EMPURU)
+
+[FUND](#FUND)
+
+[GAWA/SERVIS](#GAWA/SERVIS)
+
+[Genteran ari sekeda Papan Tulis ‘Abdu’l-Bahá](#Genteran ari sekeda Papan Tulis ‘Abdu’l-Bahá)
+
+[Genteran diambi ari Gleanings Tulis Bahá’u’lláh](#Genteran diambi ari Gleanings Tulis Bahá’u’lláh)
+
+[Genteran diambi ari Papan Tulis Ridvan](#Genteran diambi ari Papan Tulis Ridvan)
+
+[HUQÚQU’LLÁH](#HUQÚQU’LLÁH)
+
+[MALAM](#MALAM)
+
+[MENSIA](#MENSIA)
+
+[NAW-RÚZ](#NAW-RÚZ)
+
+[NGAJAR](#NGAJAR)
+
+[NGINGKAS DIRI](#NGINGKAS DIRI)
+
+[PAGI](#PAGI)
+
+[PAPAN TULIS AHMAD](#PAPAN TULIS AHMAD)
+
+[PEMANSANG SEMENGAT](#PEMANSANG SEMENGAT)
+
+[PEMENANG KE PENGAWA PETARA](#PEMENANG KE PENGAWA PETARA)
+
+[PENEGAP](#PENEGAP)
+
+[PENGAMPUN](#PENGAMPUN)
+
+[PENGERAI](#PENGERAI)
+
+[PENGUJI ENGGAU PENUSAH](#PENGUJI ENGGAU PENUSAH)
+
+[PENYAGA](#PENYAGA)
+
+[PENYANGGA PENUSAH](#PENYANGGA PENUSAH)
+
+[PENYAUP](#PENYAUP)
+
+[PUASA](#PUASA)
+
+[PUJI ENGGAU TERIMA KASIH](#PUJI ENGGAU TERIMA KASIH)
+
+[Papan Tulis Api](#Papan Tulis Api)
+
+[Papan Tulis Karmil](#Papan Tulis Karmil)
+
+[Papan Tulis Pengabas Bahá’u’lláh enggau Báb](#Papan Tulis Pengabas Bahá’u’lláh enggau Báb)
+
+[Papan Tulis Pengabas ‘Abdu’l-Bahá](#Papan Tulis Pengabas ‘Abdu’l-Bahá)
+
+[Penuchi enggau Pemeresi](#Penuchi enggau Pemeresi)
+
+[RABAN GELUMU](#RABAN GELUMU)
+
+[SAMBIANG OBLIGATORI NUMBAS PEMANJAI](#SAMBIANG OBLIGATORI NUMBAS PEMANJAI)
+
+[SAMBIANG OBLIGATORI Tl PANDAK](#SAMBIANG OBLIGATORI Tl PANDAK)
+
+[SAMBIANG OBLIGATORI Tl PANJAI](#SAMBIANG OBLIGATORI Tl PANJAI)
+
+[SAMBIANG PEMATI](#SAMBIANG PEMATI)
+
+[SEMAK NGAGAI PETARA](#SEMAK NGAGAI PETARA)
+
+[SERAKUP](#SERAKUP)
+
+[TEGUH DALAM SEMPEKAT](#TEGUH DALAM SEMPEKAT)
+
+[TIKAH](#TIKAH)
+
+
+
 ## ANAKMIT
 
 ### <a id="bpn12611"></a> Prayer bpn12611 in Iban
@@ -13,11 +103,15 @@ Nuan, lalu beri iya tusu ari ruang dada Penabat Nuan. Kemansangka anak kayu ti t
 (Bahaiprayers.net ID: 12611)
 
 
+
+
 ### <a id="bpn12612"></a> Prayer bpn12612 in Iban
 O Nuan Tuhan ti nadai banding! Asuh anakmit tu nusu ba ruang dada pengerindu-penelap Nuan, lalu ibun iya dalam wa pengelikun enggau jaga Nuan lalu asuh iya diibun dalam kerendut lengan pengeliut pengerindu Nuan.
 
 (Source category: ANAKMIT)
 (Bahaiprayers.net ID: 12612)
+
+
 
 
 ### <a id="bpn12613"></a> Prayer bpn12613 in Iban
@@ -28,11 +122,15 @@ Nuan meh ti Pemisi, ti Penuh Pengerindu.
 (Bahaiprayers.net ID: 12613)
 
 
+
+
 ### <a id="bpn12614"></a> Prayer bpn12614 in Iban
 O Petara! Ajar sida anakmit tu. Sida anakmit tu utai tanam ba madang buah Nuan, bungai ba padang Nuan, bungai ros ba kebun Nuan. Asuh ujan Nuan labuh ba sida; asuh Matahari Pengamat manchar ba sida enggau pengerindu Nuan. Awakka puput ribut Nuan ngidupka sida ngambika sida tau dilatih, mansang sereta besai, lalu ayan enggau naka pemanah. Nuan meh ti Pemeri! Nuan meh ti Penyinu.
 
 (Source category: ANAKMIT)
 (Bahaiprayers.net ID: 12614)
+
+
 
 
 ### <a id="bpn12615"></a> Prayer bpn12615 in Iban
@@ -44,12 +142,16 @@ Amat bendar, Nuan ti Bekuasa, ti Tegap, ti Meda, ti Ninga!
 (Bahaiprayers.net ID: 12615)
 
 
+
+
 ### <a id="bpn12616"></a> Prayer bpn12616 in Iban
 O Nuan Tuhan ti pemadu bemulia! Gaga pengasuh indu
 Nuan ti mit tu beberekat sereta lantang; asuh iya diasi ba pemetung penyatu Nuan lalu asuh iya ngirup mayuh ari changkir pengerindu Nuan awakka iya tau ngasaika penyamai enggau pengaga lalu ngerekaika bau rengut ti manis. Nuan ti Tegap sereta Bekuasa, lalu Nuan ti Nemu Semua, ti Meda Semua.
 
 (Source category: ANAKMIT)
 (Bahaiprayers.net ID: 12616)
+
+
 
 
 ### <a id="bpn12617"></a> Prayer bpn12617 in Iban
@@ -61,11 +163,15 @@ Nuan meh ti Bekuasa, ti Penuh Pengerindu.
 (Bahaiprayers.net ID: 12617)
 
 
+
+
 ### <a id="bpn12618"></a> Prayer bpn12618 in Iban
 O Petara, iring aku, jaga aku, gaga aku nyadi lampu ti terang enggau bintang ti bekebelik. Nuan meh ti Tegap sereta Bekuasa.
 
 (Source category: ANAKMIT)
 (Bahaiprayers.net ID: 12618)
+
+
 
 
 
@@ -81,6 +187,8 @@ O Nuan Tuhan ti nelap! Kemendarka anembiak tu tau tulihka niat tinggi sida ti ku
 (Bahaiprayers.net ID: 12619)
 
 
+
+
 ### <a id="bpn12620"></a> Prayer bpn12620 in Iban
 O Nuan Tuhan ti nelap! Enggau pengasih sikap sepasang sayap serega ngagai tiap anak biak ti baru ada tu, lalu beri sida pengering spiritual ngambika sida ulih terebai nengah langit ti nadai sekat lalu tau niki ngagai semua peninggi Perintah Abhá.
 O Tuhan! Keringka igi benih ti lembut tu ngambika tiap leka nyadi kayu ti lebat bebuah, galak sereta rinda. Asuh bala semengat tu menang nengah pemisa bala malikat serega Nuan, ngambika sida ulih ngalahka kuasa penyilap enggau pengelansang lalu ngarakka tikas kaul bekaban enggau lalau ba bala mensia; ngambika sida ulih, indah enda baka seput pengidup ba musim bungai, ngidup baru lalu ngeregaska kayu semengat mensia baka terutu ambun ti ngasuh padang ba endur nya gadung sereta ami.
@@ -88,6 +196,8 @@ Nuan meh ti Tegap sereta Bekuasa; Nuan meh ti Penyikap enggau Penuh Pengerindu.
 
 (Source category: ANEMBIAK)
 (Bahaiprayers.net ID: 12620)
+
+
 
 
 ### <a id="bpn12621"></a> Prayer bpn12621 in Iban
@@ -98,12 +208,16 @@ Nuan meh ti Penyikap, ti Penuh Pengerindu.
 (Bahaiprayers.net ID: 12621)
 
 
+
+
 ### <a id="bpn12622"></a> Prayer bpn12622 in Iban
 O Tuhan! Asuh anembiak tu terang, lalu chirika pemisi
 Nuan ba utai tempa ti seranta tu. Sikap ba iya penemu, lalu kemendarka pengering ti betambah ba iya tiap terebak-tawas lalu ibun iya dalam lindung jaga Nuan ngambika iya lepas ari penyilap, tau angkunka diri empu ngereja Pengawa Nuan, tau ngiring sida ti limpang, ngulu sida ti nadai daya, ngelepaska sida ti dikurung lalu ngerak sida ti nadai ibuh, awakka semua tau diberekat enggau pengingat sereta puji Nuan. Nuan endang Tegap sereta Bekuasa.
 
 (Source category: ANEMBIAK)
 (Bahaiprayers.net ID: 12622)
+
+
 
 
 ### <a id="bpn12623"></a> Prayer bpn12623 in Iban
@@ -116,6 +230,8 @@ Nuan meh ti Pemadu Bekuasa, ti Pemadu Mulia, ti Pemadu Bisa.
 
 (Source category: ANEMBIAK)
 (Bahaiprayers.net ID: 12623)
+
+
 
 
 
@@ -135,6 +251,8 @@ Nuan, endang amat, ti Chukup Tegap, ti Nemu Semua, ti Ngelala Semua.
 
 
 
+
+
 ## DIRI SEBILIK
 
 ### <a id="bpn12626"></a> Prayer bpn12626 in Iban
@@ -144,11 +262,15 @@ Nuan meda, O Tuhan, jari peminta kami diangkat ngadap serega pengasih enggau pem
 (Bahaiprayers.net ID: 12626)
 
 
+
+
 ### <a id="bpn12624"></a> Prayer bpn12624 in Iban
 "Berekat meh iya ti ingatka apai indai iya lebuh berandau enggau Petara".
 
 (Source category: DIRI SEBILIK)
 (Bahaiprayers.net ID: 12624)
+
+
 
 
 ### <a id="bpn12625"></a> Prayer bpn12625 in Iban
@@ -159,12 +281,16 @@ O Petara aku! Nuan udah meransang semengat aku nyerahka peminta ia ngagai Nuan, 
 (Bahaiprayers.net ID: 12625)
 
 
+
+
 ### <a id="bpn12627"></a> Prayer bpn12627 in Iban
 Tuhan aku! Tuhan aku! Aku muji Nuan sereta beterima kasih ngagai Nuan laban Nuan udah kasihka pengasuh indu Nuan ti baruh ati, jaum Nuan minta enggau pengabis ati sereta minta enggau pemaruh ati ngagai Nuan, laban Nuan amat bendar udah ngiring iya nuju Perintah Nuan ti nyata sereta ngasuh iya ninga Kangau Nuan ti tinggi ba dunya injau tu lalu meda semua Tanda Nuan ti nunjukka pengayan pemenang perintah Nuan di atas semua utai.
 O Tuhan aku, aku nyerahka iya ti di dalam kandung aku ngagai Nuan. Lalu asuh iya nyadi anak ti patut dipuji dalam Perintah Nuan sereta siku ti benasip ketegal pengasih Nuan enggau pementas Nuan; ngambika dikemansang sereta dikemesai di baruh pelajar Nuan. Amat bendar, Nuan meh ti Mentas! Amat bendar, Nuan meh Tuhan Besai Pengasih!
 
 (Source category: DIRI SEBILIK)
 (Bahaiprayers.net ID: 12627)
+
+
 
 
 ### <a id="bpn12628"></a> Prayer bpn12628 in Iban
@@ -178,11 +304,15 @@ Amat bendar, Nuan ti Berega, ti Sedia Nyikap, ti Tebuka Jari.
 (Bahaiprayers.net ID: 12628)
 
 
+
+
 ### <a id="bpn12629"></a> Prayer bpn12629 in Iban
 O Tuhan! Dalam Rambau ti Pemadu Tebangkar tu Nuan nerima peminta ari bala anak ti ngarika apai indai sida. Tu meh siti ari penyelai-pemanah penyikap Nuan ti nadai sekat ba Rambau tu. Nya alai, O Nuan Tuhan ti nelap, terima peminta pengasuh Nuan tu ba pemetung penyatu Nuan lalu selamka apai iya dalam tasik berekat Nuan, laban anak tu udah angkat gawaka Nuan lalu bebendar ba semua maya dalam arus menasan pengerindu Nuan. Amat bendar, Nuan ti Pemeri, ti Pengampun enggau ti Nelap!
 
 (Source category: DIRI SEBILIK)
 (Bahaiprayers.net ID: 12629)
+
+
 
 
 
@@ -194,6 +324,8 @@ Aku minta Nuan, nengah Nuan Empu sereta nengah Iya Siku ti udah dipadu Nuan nyad
 
 (Source category: EMPURU)
 (Bahaiprayers.net ID: 12630)
+
+
 
 
 ### <a id="bpn12631"></a> Prayer bpn12631 in Iban
@@ -208,6 +340,8 @@ Penyaup.
 (Bahaiprayers.net ID: 12631)
 
 
+
+
 ### <a id="bpn12632"></a> Prayer bpn12632 in Iban
 Nuan Tuhan ti nelap! Tu bala pengasuh Nuan ti udah begempuru ba aum tu, ngadap perintah Nuan lalu begunaka pemeri enggau berekat Nuan. O Nuan Petara! Ayan sereta pandangka tanda penyatu Nuan ti udah ditukuh ba semua realiti pengidup. Pegari sereta kerembaika pemanah ti udah ditaruh sereta dipelam Nuan dalam semua realiti mensia tu.
 O Petara! Kami tu baka kayu, lalu pemisi Nuan baka ujan; idup sereta asuh kayu tu mansang nengah penyikap Nuan. Kami tu bala pengasuh Nuan; lepaska kami ari tanchang pengidup dunya. Kami tu lansang, asuh kami pintar. Kami tu mati, asuh kami idup. Kami tu material, sikap kami ngena roh. Kami tu dikemelu; asuh kami nyadi pangan semak semua misteri Nuan. Kami tu seranta; beri pengaya sereta berekat ari pesaka Nuan ti enda nemu abis. O Petara! Gerak kami; asuh kami meda; asuh kami ninga; telebaka kami enggau semua misteri pengidup, awakka semua lalai perintah Nuan tau pegari ngagai kami ba dunya tu lalu kami tau ngaku penyatu Nuan. Tiap penyikap datai ari Nuan; tiap berekat endang enggi Nuan.
@@ -216,6 +350,8 @@ Pemeri, lalu Nuan meh ti Seruran Pemisi!
 
 (Source category: EMPURU)
 (Bahaiprayers.net ID: 12632)
+
+
 
 
 ### <a id="bpn12633"></a> Prayer bpn12633 in Iban
@@ -231,12 +367,16 @@ Nuan meh ti Bekuasa, ti Pemadu Bisa, ti Pengasih, lalu Nuan meh ti Mentas, ti Pe
 (Bahaiprayers.net ID: 12633)
 
 
+
+
 ### <a id="bpn12634"></a> Prayer bpn12634 in Iban
 O Nuan Pemekal ti bepengerindu! Semua semengat tu udah ninga kangau Perintah Petara, lalu udah merening ba mulia Matahari Pengamat. Sida udah angkat ke atas ngagai penyamai langit pengerindu; sida udah gagit ke gaya pendiau Nuan, lalu sida nyembah pemajik Nuan. Ngagai Nuan meh sida udah nguingka sida empu, sama berandau pasal Nuan, ngiga tempat Nuan, sereta auska ai tengkebuk serega perintah Nuan.
 Nuan meh ti Pemeri, ti Penyikap, ti Seruran Rindu.
 
 (Source category: EMPURU)
 (Bahaiprayers.net ID: 12634)
+
+
 
 
 
@@ -249,6 +389,8 @@ Semua bala pangan Petara… patut meri enggau naka ulih, enda ngira penyampau ia
 (Bahaiprayers.net ID: 12635)
 
 
+
+
 ### <a id="bpn12636"></a> Prayer bpn12636 in Iban
 O Petara, Petara aku! Terangka kening semua bala ti amat rindu ke Nuan, lalu tulung sida enggau raban malikat ti tetap bulih pemenang. Tegapka kaki sida nuju menasan Nuan ti lurus, lalu ari pemeri Nuan ti jeman telengaka ngagai sida pintu berekat Nuan; laban sida bebelanja ba menasan Nuan utai ti udah diberi Nuan ke sida, ngibun Pengarap Nuan, manggaika pengarap ati sida ba pengingat sida ke Nuan, nyerahka ati sida ketegal pengerindu ke Nuan, lalu enda matak pemisi sida dikena muji Pemajik Nuan enggau dikena sida ngiga chara ngelantangka Nuan.
 O Tuhan aku! Letak ba sida ungkup ti mayuh, agih ti ditaga enggau upah ti tetap.
@@ -256,6 +398,8 @@ Amat bendar, Nuan meh ti Pengenan, ti Penulung, ti Mentas, ti Pemisi, ti Meruan 
 
 (Source category: FUND)
 (Bahaiprayers.net ID: 12636)
+
+
 
 
 
@@ -271,6 +415,8 @@ Nambah ke nya, aku minta Nuan, O Petara aku, ngeletakka ba aku utai ti tau ngasu
 
 
 
+
+
 ## Genteran ari sekeda Papan Tulis ‘Abdu’l-Bahá
 
 ### <a id="bpn12747"></a> Prayer bpn12747 in Iban
@@ -280,12 +426,16 @@ O Nuan ti benung nungaka mua ngadap Petara! Pejamka mata nuan ngagai semua utai 
 (Bahaiprayers.net ID: 12747)
 
 
+
+
 ### <a id="bpn12748"></a> Prayer bpn12748 in Iban
 O nuan ti nguing ngadap Perintah Petara!
 Aku bisi dipadah pasal undan surat nuan ti amat lati lalu besampi ngagai Pemetung Kudus, Keliling Malikat Tinggi, minta nuan dibaptisa ngena ai penemu enggau api pengerindu Petara lalu ngasuh nuan nyadi pengasuh ti betul sereta taluk dalam Kebun Iya ti Tebangkar, awakka nuan tau manjah kayu pengerindu Petara dalam Serega Abha; lalu ngaga nuan nyadika tanda pemaruh ati enggau ensuruk diri dalam raban pengasuh indu Petara sereta ke penerantang Pengawa Iya ba menua ke besai sereta luas.
 
 (Source category: Genteran ari sekeda Papan Tulis ‘Abdu’l-Bahá)
 (Bahaiprayers.net ID: 12748)
+
+
 
 
 
@@ -298,6 +448,8 @@ Pemajik Jeman udah ngemendarka diri dirantai ngambika bansa mensia tau dilepas a
 (Bahaiprayers.net ID: 12744)
 
 
+
+
 ### <a id="bpn12745"></a> Prayer bpn12745 in Iban
 Nyadi mentas dalam pengeraja, lalu beterima kasih dalam penusah. Nyadi lumau dikandal orang ti diau besemak enggau nuan, lalu perening iya ngena mua ti tampak sereta rindu. Nyadi pesaka ke orang ti seranta, ke pengerawan orang ti kaya, nyaut sabak orang ti suntuk, pengintu pemendar semaya nuan. Nyadi lurus dalam pemutus runding nuan, lalu belalau dalam jaku nuan. Nyadi anang bingkuk enggau orang, lalu pandangka ati ti baruh ngagai semua mensia. Nyadi lampu ke sida ti bejalai dalam pemetang, pengaga ke sida ti merampau, tasik ke sida ti aus, tempat pengenduh ke sida ti kena penusah, pengering enggau penyaga ke sida ti kena perinsa. Beri integriti enggau pengerentang ditunjuk dalam semua kereja nuan. Nyadi rumah ke temuai, ubat ke sida ti merinsa, tiang pengagah ke sida ti diburu. Nyadi mata ke sida ti buta, lalu penampak pengiring ke kaki ti salah pejalai. Nyadi pengiyas ke rampa-mua pengamat, maskota ke kening sida ti arap, tiang pemun ke rumah pengerentang, seput pengidup ke tubuh mensia, tambai ke bala pengelurus, bintang-penerang atas bingkai- langit pemanah, ambun ke tanah ati mensia, bandung ke tasik penemu, mata hari dalam serega pemisi, intan ba labung pemintar, penampak pemanchar dalam penegap peturun nuan, buah ke kayu pemaruh ati.
 
@@ -305,11 +457,15 @@ Nyadi mentas dalam pengeraja, lalu beterima kasih dalam penusah. Nyadi lumau dik
 (Bahaiprayers.net ID: 12745)
 
 
+
+
 ### <a id="bpn12746"></a> Prayer bpn12746 in Iban
 Ungkup kereja ti keterubah sereta pemadu dulu ti udah dipadah ngagai mensia, pengudah ngelala Iya Siku ti Pengamat Meruan, ianya ungkup kereja tegap dalam Pengawa Iya. Bepagut nuan ba nya, lalu nyadi sida ke ngembuan runding ti ditanggam teguh sereta dientapka ba Petara. Nadai pengawa, enda ngira pemanah, udah tauka ulih manding ngagai nya. Ia nyadi raja ke semua pengawa, lalu ngagai tu Tuhan nuan, ti Pemadu Tinggi, ti Bekuasa, deka besaksi.…
 
 (Source category: Genteran diambi ari Gleanings Tulis Bahá’u’lláh)
 (Bahaiprayers.net ID: 12746)
+
+
 
 
 
@@ -329,6 +485,8 @@ Andal meh enggau naka pengaga, O orang Bahá, lebuh kita ngingatka Hari ti penuh
 (Bahaiprayers.net ID: 12742)
 
 
+
+
 ### <a id="bpn12743"></a> Prayer bpn12743 in Iban
 Ba hari keterubah Pemajik Jeman niki Maligai Iya ti
 Pemadu Bekuasa dalam kebun ti digelar Ridván, Dilah Mulia bisi nyadaka tiga leka jaku ti beberekat. Keterubah, ianya dalam Revelasyen tu adat pedang udah dipadam.[3] Kedua, ianya sebedau pengambis satu ribu taun sebarang sapa ti ngambu diri nabi endang bula. Reti ia “taun” ianya setaun penuh, lalu nadai penerang tauka salin dikemendar dalam pekara tu. Lalu ketiga, ianya ba jam nya Petara, tinggi meh Mulia Iya, mancharka penuh bebendang semua nama Iya ba semua utai tempa.
@@ -336,6 +494,8 @@ Pemadu Bekuasa dalam kebun ti digelar Ridván, Dilah Mulia bisi nyadaka tiga lek
 
 (Source category: Genteran diambi ari Papan Tulis Ridvan)
 (Bahaiprayers.net ID: 12743)
+
+
 
 
 
@@ -352,6 +512,8 @@ Huqúqu’lláh tu endang undang undang Petara ti bekuasa. Enda tau enda semua d
 (Bahaiprayers.net ID: 12723)
 
 
+
+
 ### <a id="bpn12724"></a> Prayer bpn12724 in Iban
 Dikemulia meh Nuan, O Tuhan aku ti penyinu ! Aku minta kasih Nuan nengah gelinggang tasik sada kudus Nuan, enggau nengah pemayuh tanda kuasa-raja Nuan ti pemadu tinggi, enggau kelai Pengudus Nuan ti nyemetak, enggau misteri lalai ti dipelam dalam penemu Nuan, beri ngagai aku berekat Nuan gawaka Nuan enggau bala ti dipilih Nuan, lalu kemendarka aku ngasi meri ngagai Huqúq Nuan ke udah diletak Nuan dalam Bup Nuan.
 Aku tu siku, O Tuhan aku, ke udah ngengkahka pengerindu iya ba dunya mulia Nuan, lalu udah bepegai teguh ba rambu pementas Nuan. O Nuan Siku ti Tuhan ke semua pengidup enggau Raja ke dunya semua nama, Aku minta enggau pengambis ati ba Nuan anang ngemeluka aku utai ti dikembuan Nuan, anang mega matak ari aku utai ke udah diletak Nuan ke bala ti dipilih Nuan.
@@ -359,6 +521,8 @@ Aku bebendar minta Nuan, O Tuhan ke semua nama enggau Penempa ke semua serega, b
 
 (Source category: HUQÚQU’LLÁH)
 (Bahaiprayers.net ID: 12724)
+
+
 
 
 
@@ -373,6 +537,8 @@ Ngena penegap Nuan! Aku enda minta, sekalika tinduk tauka dani, tang semina utai
 (Bahaiprayers.net ID: 12638)
 
 
+
+
 ### <a id="bpn12639"></a> Prayer bpn12639 in Iban
 O Petara aku, Tuan aku, Juluk ati pengingin aku! Tu, pengasuh Nuan, ngiga peninduk ba pengelindung penyinu Nuan, lalu deka gali di baruh kanopi berekat Nuan, minta ibun enggau jaga Nuan.
 Aku minta kasih Nuan, O Tuhan aku, ngena mata Nuan ti nadai tinduk, ngibun mata aku ari ti merening ke bukai kelimpah ari Nuan. Udah nya, keringka, perening sida ngambika sida ulih ngelala semua tanda Nuan, lalu meda Bingkai- langit Revelasyen Nuan. Nuan meh Iya ba semua pengayan kah kuasa pemadu bisa Iya udah begegar.
@@ -382,12 +548,16 @@ Nadai Petara bukai tang Nuan, ti Pemadu Tegap, ti Nguasa Semua, ti Nadai Betatak
 (Bahaiprayers.net ID: 12639)
 
 
+
+
 ### <a id="bpn12640"></a> Prayer bpn12640 in Iban
 O Tuhan, aku udah nungaka mua aku ngadap perintah penyatu Nuan lalu nyelamka diri empu dalam tasik pengasih Nuan. O Tuhan, terangka perening aku meda panchar Nuan ba malam tegayam tu, lalu asuh aku lantang laban ai anggur pengerindu Nuan ba pemanah rambau tu. O Tuhan, asuh aku ninga kangau Nuan, lalu buka ba mua aku semua pintu serega Nuan, ngambika aku tau meda penampak mulia Nuan lalu tau tetarit ngagai pemajik Nuan.
 Amat bendar, Nuan meh ti Pemeri, ti Mentas, ti Pengasih, ti Pengampun.
 
 (Source category: MALAM)
 (Bahaiprayers.net ID: 12640)
+
+
 
 
 
@@ -402,11 +572,15 @@ Semua endang umang sereta suntuk, lalu Nuan, amat bendar, ti Bempu Semua, ti Nga
 (Bahaiprayers.net ID: 12641)
 
 
+
+
 ### <a id="bpn12642"></a> Prayer bpn12642 in Iban
 O Nuan Tuhan ti penyinu, Nuan ti amat mentas sereta bepengulih! Kami tu pengasuh Nuan ti dilindung di baruh penabat Nuan. Tenggauka perening pengasih Nuan ngagai kami. Beri penampak ke mata kami, pengelansik ke pending kami, sereta pemereti enggau pengerindu ke ati kami. Asuh semengat kami gaga sereta lantang ninga berita pengaga ari Nuan. O Tuhan! Tunjukka kami jalai nuju ngagai perintah Nuan lalu idupka baru semua kami nengah seput Roh Kudus. Sikap ba kami pengidup ti meruan lalu chirika ba kami basa ti enda putus. Serakupka semua mensia lalu perenchingka dunya mensia. Awakka semua kami nitih ke menasan Nuan, lelengauka pemanahpenyamai Nuan lalu ngiga misteri perintah Nuan. O Petara! Gempung semua kami lalu jantilka ati kami ngena tanggam Nuan ti enda putus. Amat bendar, Nuan meh ti Pemeri, Nuan Siku ti Nelap lalu Nuan ti Pemadu Tegap.
 
 (Source category: MENSIA)
 (Bahaiprayers.net ID: 12642)
+
+
 
 
 ### <a id="bpn12643"></a> Prayer bpn12643 in Iban
@@ -423,11 +597,15 @@ Nuan meh ti Tegap sereta Bekuasa, Nuan endang ti Pengampun lalu Nuan meh Iya Sik
 (Bahaiprayers.net ID: 12643)
 
 
+
+
 ### <a id="bpn12644"></a> Prayer bpn12644 in Iban
 O Nuan Tuhan ti nelap! O Nuan Siku ti mentas sereta penyinu! Kami tu bala pengasuh ba pemetung Nuan lalu udah begempuru di baruh ayung kelemayang penyerakup suchi Nuan. Matahari penyinu Nuan manchar ba semua, lalu mua-hari pemisi Nuan manjah ba semua. Tepa Nuan nyerangkap semua, penabat pengerindu Nuan ngetanka semua, penyaga Nuan ngayung semua, lalu perening pengasih Nuan ditenggau ba semua. O Tuhan! Kemendarka penyikap Nuan ti nadai tatak, lalu asuh penampak iring Nuan beperenching. Terangka semua mata, kelantangka semua ati enggau pengaga ti meruan. Chirika roh ti baru ba semua mensia lalu sikap ba sida pengidup ti meruan belama. Buka kunchi semua pagar pemereti ti amat lalu asuh penampak pengarap ati manchar bebendang. Gempuru semua mensia di baruh ayung pemisi Nuan lalu asuh sida beserakup dalam seati, ngambika sida tau nyadi baka selinggar panas sigi matahari, baka umbak siti tasik, enggau baka buah kayu sepun. Awakka sida tau ngirup ari mata ai ti sama. Awakka sida tau diidupka ngena puput ribut ti sama. Awakka sida tau nerima perenching ari pun penatai penampak ti sama. Nuan meh ti Pemeri, ti Sinu, ti Pemadu Bisa.
 
 (Source category: MENSIA)
 (Bahaiprayers.net ID: 12644)
+
+
 
 
 
@@ -450,6 +628,8 @@ Pintar.
 
 
 
+
+
 ## NGAJAR
 
 ### <a id="bpn12645"></a> Prayer bpn12645 in Iban
@@ -463,12 +643,16 @@ Aku minta ari Nuan, O Nuan Raja ke semua utai lalu Penyaga ke semua ti dipeda en
 (Bahaiprayers.net ID: 12645)
 
 
+
+
 ### <a id="bpn12646"></a> Prayer bpn12646 in Iban
 Puji meh nama Nuan, O Tuhan Petara aku! Nuan meda
 bakani perening aku dituju ngagai penyiru pengasih Nuan, bakani mata aku ninjau ngagai bingkai- langit Berekat Pengasih Nuan enggau pengerindu pementas Nuan, lalu bakani jari aku diunjurka ngagai serega penyikap Nuan. Penegap Nuan nyadika saksi ba aku! Tiap perengka tubuh aku manjung ngagai Nuan lalu nyebut; "O Nuan ti Chukup Dikerinduka semua dunya, enggau Tuhan ke semua ti di serega sereta di dunya, lalu Nuan ti Diniat semua ati ti angkunka Nuan! Aku minta enggau pemaruh ati ari Nuan, ari Tasik Nuan ke alai Nuan udah nyapa semua ti idup dalam serega enggau semua ti diau ba dunya tu, ngambika nulung bala pengasuh Nuan ti udah di tinggal nunga ngagai ia sereta sangkai ba tebing ia. Lalu, asuh sida, O Petara aku, ngingkaska diri ari semua utai bukai tang Nuan, lalu asuh sida bejakuka puji Nuan sereta ngangkatka pemanah Nuan. Nambahka nya, bekal sida, O Petara aku, ngena Ai anggur pengasih Nuan ti chulin, awakka tau ngasuh sida enda ingatka orang bukai kelimpah ari Nuan, lalu angkat ngereja Pengawa Nuan, lalu nyadi tegap dalam pengerindu sida ke Nuan. Nuan meh, amat bendar Tuhan ke pengidup sida sereta Pugu ti dikerindu sida. Enti sida diburu Nuan, sapa meh deka ngemataka sida: lalu enti sida jauh beserara ari Nuan, sapa meh ti tau nulung sida ngelawa Pemisi Nuan? Aku besumpah ngena penegap Nuan! Nadai alai penyelamat ti ulih endur rari kelimpah ari Nuan, lalu nadai pengelindung ti digiga kelimpah ari pengelindung Nuan, lalu nadai jaga kelimpah ari jaga Nuan. Penyai ngalun iya ti ngaku orang bukai nyadi Tuhan kelimpah ari Nuan, lalu beberekat meh sida ti udah ngelengkaka diri empu ari semua tanggam ba semua bala ti diau ba tanah Nuan, lalu bepagut ba rambu pengeluas penyayau Nuan. Tu! bala orang Bahá, ba mua semua ti di serega enggau semua ti ba bumi. Nadai Petara bukai tang Nuan, ti Penuh Penemu, ti Semua Pintar.” Pujika Petara, Tuhan ke semua dunya.
 
 (Source category: NGAJAR)
 (Bahaiprayers.net ID: 12646)
+
+
 
 
 ### <a id="bpn12647"></a> Prayer bpn12647 in Iban
@@ -479,11 +663,15 @@ Nuan meh, amat bendar, ti Mentas, ti Pengampun.
 (Bahaiprayers.net ID: 12647)
 
 
+
+
 ### <a id="bpn12648"></a> Prayer bpn12648 in Iban
 O Petara, Petara aku! Bantu ulih Nuan bala pengasuh ti dikarap Nuan ngembuan ati ti rindu sereta siru. Tulung sida ngerembaika, ba semua menua di bumi, penampak lalau ti datai ari Raban ti tinggi. Amat bendar, Nuan ti Kering, ti Bekuasa, ti Tegap, ti Ngalah Semua, ti Seruran Meri. Amat bendar, Nuan ti Mentas, ti Lembut, ti Siru, ti Pemadu Pemisi.
 
 (Source category: NGAJAR)
 (Bahaiprayers.net ID: 12648)
+
+
 
 
 ### <a id="bpn12649"></a> Prayer bpn12649 in Iban
@@ -498,6 +686,8 @@ Amat bendar, Nuan ti Bekuasa, ti Tegap sereta Pemadu Bisa, lalu Nuan ti Pintar, 
 (Bahaiprayers.net ID: 12649)
 
 
+
+
 ### <a id="bpn12650"></a> Prayer bpn12650 in Iban
 Barang sapa ti ngejangka menua diri bejalai ngajar ngagai dini-dini tempat, uji iya besampi siang enggau malam sambiang tu lebuh ti bejalai di menua bukai:
  O Petara, Petara aku! Nuan meda aku chukup gaga lalu tetarit ngagai perintah Nuan ti bemulia, ditungkun ngena api pengerindu Nuan ba raban mensia, pengerandang jalai ke perintah Nuan ba menua ti besai sereta luas tu, ngelengkaka diri ari semua utai semina Nuan, bepanggai ba Nuan, ninggalka penyamai enggau pengelantang, jauh ari menua asal aku, siku ti sesegau bejalai ba menua tu, temuai ti tetingkap ba tanah tu, ngemaruhka diri ba Pemetung Nuan ti tinggi, nundukka diri ngagai serega mulia Nuan ti pemadu bisa, minta enggau naka pemaruh ati ngagai Nuan ba pemetang malam tu enggau maya teberingkas tawas, nyapa sereta nunggah Nuan maya pagi enggau lemai ngambika enggau pengasih mantu aku gawaka Pengawa Nuan, ngerembai jauh ke Ajar Nuan lalu ngangkatka Leka Jaku Nuan di selampur Timur enggau Barat.
@@ -507,6 +697,8 @@ Amat bendar, Nuan meh ti Pengentap ke sebarang sapa ti dikedeka Nuan ba utai ti 
 
 (Source category: NGAJAR)
 (Bahaiprayers.net ID: 12650)
+
+
 
 
 ### <a id="bpn12651"></a> Prayer bpn12651 in Iban
@@ -519,6 +711,8 @@ Amat bendar, Nuan meh ti Penyayau, ti Bekuasa, ti Tegap, lalu ti Pemadu Pengasih
 
 (Source category: NGAJAR)
 (Bahaiprayers.net ID: 12651)
+
+
 
 
 ### <a id="bpn12652"></a> Prayer bpn12652 in Iban
@@ -539,6 +733,8 @@ Amat bendar, Nuan meh Pemadu Nelap, Tuhan ti mantu nadai besekat, lalu, amat ben
 (Bahaiprayers.net ID: 12652)
 
 
+
+
 ### <a id="bpn12653"></a> Prayer bpn12653 in Iban
 Leka sampi entudi tu patut dibacha bala pengajar enggau bala pangan ninting hari:
  O Nuan Tuhan ti penelap! Puji meh ngagai Nuan laban
@@ -552,6 +748,8 @@ Pintar sereta Meda.
 (Bahaiprayers.net ID: 12653)
 
 
+
+
 ### <a id="bpn12654"></a> Prayer bpn12654 in Iban
 Genap iku semengat ti bejalai nengah nengeri, tumpuk enggau genturung pendiau ba menua tu lalu kiruh ngerekaika bau rengut Petara, patut nguna sambiang tu tiap pagi
  O Petara aku! O Petara Aku! Nuan meda aku diau dalam pemaruh enggau pengelemah aku, kiruh ngereja pengawa ti pemadu besai, mutus ati deka ngemesaika Leka Jaku Nuan ngagai mensia mayuh sereta ngerembaika ajar Nuan ngagai mensia Nuan. Bakani aku ulih mujur enti enda ketegal Nuan ti mantu aku ngena seput Roh Kudus, nulung aku ngulihka pemenang nengah raban malikat perintah Nuan ti bemulia, lalu manjah ngagai aku penetap Nuan, ti tau nukar kerengit nyadi menaul, ai setitik nyadi sungai enggau tasik, lalu sigi atom nyadi penampak enggau matahari? O Tuhan aku! Bantu aku ngena penguat pemenang enggau pengasi Nuan, ngambika dilah aku tau nyebut semua puji enggau penau Nuan ba semua mensia lalu semengat aku melumpa laban ai anggur pengerindu enggau penemu Nuan.
@@ -559,6 +757,8 @@ Nuan meh ti Pemadu Bisa lalu Ngereja utai ti dikedeka Nuan!
 
 (Source category: NGAJAR)
 (Bahaiprayers.net ID: 12654)
+
+
 
 
 ### <a id="bpn12655"></a> Prayer bpn12655 in Iban
@@ -573,12 +773,16 @@ Amat bendar, Nuan ti Tegap, ti Bekuasa sereta ti Nadai Penekul.
 (Bahaiprayers.net ID: 12655)
 
 
+
+
 ### <a id="bpn12656"></a> Prayer bpn12656 in Iban
 O Petara! O Petara! Tu siku burung ti patah sayap lalu penerebai iya kelalu lubah—tulung iya awakka iya ulih terebai ngagai tuchung pemansang enggau penyelamat, terebaika iya enggau naka pengaga sereta pengelantang dalam langit ti luas , nyariska pelandai iya dalam Nama Nuan ti Pemadu Tinggi ba selampur menua, kelantangka pending enggau kangau tu lalu terangka mata merening tanda pengiring.
 O Tuhan, aku siku aja, kediri sereta baruh. Aku nadai penyukung semina Nuan, nadai penulung kelimpah ari Nuan lalu nadai pengenan kelimpah ari Nuan. Tetapka aku dalam pengawa Nuan, tulung aku enggau raban malikat Nuan, asuh aku menang dalam pengawa ngerembaika Leka Jaku Nuan lalu guna aku bejakuka pengelandik Nuan ngagai bala nembiak Nuan. Amat bendar, Nuan endang penulung orang ti lemah enggau penyaga sida ti biak, lalu amat bendar, Nuan ti Bekuasa, ti Tegap, sereta ti Nadai Penekul.
 
 (Source category: NGAJAR)
 (Bahaiprayers.net ID: 12656)
+
+
 
 
 ### <a id="bpn12657"></a> Prayer bpn12657 in Iban
@@ -589,6 +793,8 @@ Amat bendar, Nuan meh Pemadu Bekuasa, ti Pemadu Bemulia, ti Seruran Ngampun, ti 
 
 (Source category: NGAJAR)
 (Bahaiprayers.net ID: 12657)
+
+
 
 
 ### <a id="bpn12658"></a> Prayer bpn12658 in Iban
@@ -603,6 +809,8 @@ Amat bendar, Nuan meh ti Bekuasa, ti Tegap, ti Pemadu Bisa.
 
 
 
+
+
 ## NGINGKAS DIRI
 
 ### <a id="bpn12659"></a> Prayer bpn12659 in Iban
@@ -614,6 +822,8 @@ Nuan, endang amat, Tuhan ke semua bansa mensia, lalu Pengempu dunya tu enggau ke
 (Bahaiprayers.net ID: 12659)
 
 
+
+
 ### <a id="bpn12660"></a> Prayer bpn12660 in Iban
 Dipuji meh nama Nuan, O Petara aku! Aku minta Nuan ngena rengut Kelambi berekat Nuan ti nitihka pinta Nuan sereta	senutuk	enggau	pengingin	Nuan	udah dikerembaika	ba	selampur	utai	tempa,	lalu	ngena Bintang-siang	peneka	Nuan	ti	udah	manchar	enggau terang, nengah kuasa	penegap Nuan enggau kuasa-raja Nuan,	ari	atas	bingkai-langit	pengasih	Nuan,	ngendas lengis ari ati aku semua pengelebu ngapa enggau igau sengapa, awakka enggau naka penyayau aku tau nguing ngadap Nuan, O Nuan Tuhan ke semua mensia!
 Aku tu pengasuh Nuan enggau anak pengasuh Nuan, O Petara aku! Aku udah bepegai rat ba ulu berekat Nuan, lalu bepagut ba rambu penyiru pengasih Nuan. Letakka aku utai ti manah ke bisi ba Nuan, lalu tupi aku ari Mija ti udah dikirum Nuan ke baruh ari mua-hari pemisi Nuan enggau serega pengasih Nuan.
@@ -621,6 +831,8 @@ Nuan, dalam pemendar pengamat, meh Tuhan ke semua dunya, sereta Petara ke semua 
 
 (Source category: NGINGKAS DIRI)
 (Bahaiprayers.net ID: 12660)
+
+
 
 
 ### <a id="bpn12661"></a> Prayer bpn12661 in Iban
@@ -634,6 +846,8 @@ Nuan ti bekuasa penuh meri jaku-tangkan.
 (Bahaiprayers.net ID: 12661)
 
 
+
+
 ### <a id="bpn12662"></a> Prayer bpn12662 in Iban
 Dalam Nama Tuhan nuan, ti Penempa, ti Kuasa-raja, ti
 Semua-Penyukup, ti Pemadu Tinggi, tulung Iya Siku dipinta ulih semua mensia.
@@ -645,11 +859,15 @@ Chirika berekat Nuan, O Tuhan aku, ba bala Seruan, ba bala orang ti kudus enggau
 (Bahaiprayers.net ID: 12662)
 
 
+
+
 ### <a id="bpn12663"></a> Prayer bpn12663 in Iban
 Sebut: Petara chukup ba semua utai ngelui ari semua utai, lalu nadai utai dalam semua serega tauka di bumi tang Petara meh chukup. Amat bendar, Iya ba Iya empu, ti Nemu, ti Ngenan, ti Pemadu Bisa.
 
 (Source category: NGINGKAS DIRI)
 (Bahaiprayers.net ID: 12663)
+
+
 
 
 ### <a id="bpn12664"></a> Prayer bpn12664 in Iban
@@ -661,6 +879,8 @@ Nuan meh, dalam pengamat, ti Pemadu Tegap, ti Pemadu Bemulia, ti Pemadu Bekuasa.
 
 (Source category: NGINGKAS DIRI)
 (Bahaiprayers.net ID: 12664)
+
+
 
 
 
@@ -676,11 +896,15 @@ Nuan, amat bendar, Tuhan enggau Raja ke semua mensia, sereta bekuasa atas semua 
 (Bahaiprayers.net ID: 12665)
 
 
+
+
 ### <a id="bpn12666"></a> Prayer bpn12666 in Iban
 Aku udah dani dalam ibun Nuan, O Petara aku, lalu nyadi iya ti ngiga pengelindung deka diau dalam Pengibun jaga Nuan enggau Kuta penyaga Nuan. Terangka pengidup dalam aku, O Tuhan aku, enggau bebendang Terebak-tawas Revelasyen Nuan, baka Nuan ti udah meri penampak ke pengidup luar aku enggau panchar pagi ari pengasih Nuan.
 
 (Source category: PAGI)
 (Bahaiprayers.net ID: 12666)
+
+
 
 
 ### <a id="bpn12667"></a> Prayer bpn12667 in Iban
@@ -689,6 +913,8 @@ Nadai Petara bukai tang Nuan, ti Siku, ti Nadai Banding, ti Nemu Semua, ti Pemad
 
 (Source category: PAGI)
 (Bahaiprayers.net ID: 12667)
+
+
 
 
 
@@ -726,6 +952,8 @@ Amat bendar, Iya ti Pengasih, ti Penyinu. Puji meh ngagai Petara, Tuhan ke semua
 
 
 
+
+
 ## PEMANSANG SEMENGAT
 
 ### <a id="bpn12668"></a> Prayer bpn12668 in Iban
@@ -733,6 +961,8 @@ Tempa dalam aku ati ti tuchi, O Petara aku, lalu kemaruka pengasai ti jenuh dala
 
 (Source category: PEMANSANG SEMENGAT)
 (Bahaiprayers.net ID: 12668)
+
+
 
 
 ### <a id="bpn12669"></a> Prayer bpn12669 in Iban
@@ -743,12 +973,16 @@ Nuan meh, amat bendar, ti Pemadu Tegap, ti Pemadu Mulia, ti Pemadu Bekuasa.
 (Bahaiprayers.net ID: 12669)
 
 
+
+
 ### <a id="bpn12670"></a> Prayer bpn12670 in Iban
 O Petara aku, Petara ke pemisi enggau penyinu! Nuan nya meh Raja ke alai jaku-perintah Iya semua utai tempa udah diberi pengidup; lalu Nuan nya meh Siku ti Pemadu Pemisi ke alai kereja bala pengasuh Iya udah enda kala nekul Iya ari ti mandangka pengasih Iya, nadai mega sida kala muntanka pengayan pemisi Iya.
 Sukung pengasuh tu, aku minta Nuan, bulih utai ti nyadika penyelamat iya ba tetiap dunya dalam semua dunya Nuan. Nuan meh, amat bendar, ti Pemadu Tegap, ti Pemadu Bekuasa, ti Nemu Semua, ti Pemadu Pintar
 
 (Source category: PEMANSANG SEMENGAT)
 (Bahaiprayers.net ID: 12670)
+
+
 
 
 ### <a id="bpn12671"></a> Prayer bpn12671 in Iban
@@ -761,6 +995,8 @@ Pengasih.
 (Bahaiprayers.net ID: 12671)
 
 
+
+
 ### <a id="bpn12672"></a> Prayer bpn12672 in Iban
 O Tuhan!	Kami	tu	lemah;	keringka	kami.	O	Petara!
 Kami tu lansang; asuh kami nemu. O Tuhan! Kami tu seranta; asuh kami kaya. O Petara! Kami tu mati; idupka kami. O Tuhan! Kami empu endang dikemalu; muliaka kami dalam Perintah Nuan. Enti Nuan nulung kami, O Tuhan, kami deka nyadi baka bintang ti bekebelik. Enti Nuan enda nulung kami, kami deka baruh ari tanah. O Tuhan! Keringka kami. O Petara! Chirika pemenang ba kami. O Petara! Asuh kami munggur diri sereta ngalahka pengingin. O Tuhan! Lepaska kami ari tanchang dunya material tu. O Tuhan! Idupka kami ngena seput Roh Kudus ngambika kami tau angkat gawa ke Nuan, angkun nyembah Nuan lalu nganjakka diri empu dalam Perintah Nuan enggau pengabis penunggang ati. O Tuhan, Nuan ti Bekuasa! O Petara, Nuan ti pengampun! O Tuhan, Nuan ti penyinu!
@@ -769,11 +1005,15 @@ Kami tu lansang; asuh kami nemu. O Tuhan! Kami tu seranta; asuh kami kaya. O Pet
 (Bahaiprayers.net ID: 12672)
 
 
+
+
 ### <a id="bpn12673"></a> Prayer bpn12673 in Iban
 O Tuhan aku! O Tuhan aku! Tu siti lampu ti diidup ngena api pengerindu Nuan lalu nyeru ngena api ti ditungkun ba kayu penyinu Nuan. O Tuhan aku! Tambahka pemau, pengangat enggau daun api, ngena api ti dituchul ba Sinai Pengayan Nuan. Amat bendar, Nuan ti Penetap, ti Penulung, ti Bekuasa, ti Mentas, ti Rindu.
 
 (Source category: PEMANSANG SEMENGAT)
 (Bahaiprayers.net ID: 12673)
+
+
 
 
 
@@ -788,12 +1028,16 @@ Diri.
 (Bahaiprayers.net ID: 12680)
 
 
+
+
 ### <a id="bpn12681"></a> Prayer bpn12681 in Iban
 Anang nagang aku, O Petara, Petara aku, ari serega pemisi Nuan enggau bintang-siang bantu Nuan. Aku minta kasih Nuan ngena Leka Jaku nya ti udah ngalahka semua utai ti dipeda enggau ti enda dipeda ngambi mantu aku lalu mantu sida ke dipilih Nuan bulih utai ti deka ngangkatka Pengawa Nuan ba bala pengasuh Nuan enggau ba semua menua Nuan. Nya alai, uji Nuan ngeletakka aku, tiap utai manah ti udah diturun Nuan ke baruh dalam Bup Nuan.
 Amat bendar Nuan ti Pemadu Tegap, ti Meruan Pengampun, ti Pemadu Mentas.
 
 (Source category: PEMENANG KE PENGAWA PETARA)
 (Bahaiprayers.net ID: 12681)
+
+
 
 
 ### <a id="bpn12682"></a> Prayer bpn12682 in Iban
@@ -803,6 +1047,8 @@ Besai meh berekat enggi sida ke ngempu darah ti dipilih Nuan ke dikena manjah Ka
 
 (Source category: PEMENANG KE PENGAWA PETARA)
 (Bahaiprayers.net ID: 12682)
+
+
 
 
 ### <a id="bpn12683"></a> Prayer bpn12683 in Iban
@@ -816,6 +1062,8 @@ Mulia ke semua mulia tetap enggi sida ti tegap sereta teguh.
 
 
 
+
+
 ## PENEGAP
 
 ### <a id="bpn12684"></a> Prayer bpn12684 in Iban
@@ -824,6 +1072,8 @@ Amat bendar Nuan meh Tuhan ke Pengering, Nuan meh bisa ngeletakka nama utai ti d
 
 (Source category: PENEGAP)
 (Bahaiprayers.net ID: 12684)
+
+
 
 
 ### <a id="bpn12685"></a> Prayer bpn12685 in Iban
@@ -836,11 +1086,15 @@ Diri.
 (Bahaiprayers.net ID: 12685)
 
 
+
+
 ### <a id="bpn12686"></a> Prayer bpn12686 in Iban
 O Tuhan, Petara aku! Tulung bala ti dikerindu Nuan nyadi teguh dalam Pengarap Nuan, bejalai nengah arus Nuan, nyadi tegap ba Pengawa Nuan. Beri sida penelap Nuan awakka tan diserang diri empu enggau pengingin, awakka nitih lampu Iring Petara. Nuan ti Kering, ti Nelap, ti Pengibun Diri, ti Penyikap, ti Penyinu, ti Pemadu Tegap, ti Pemadu Pemisi.
 
 (Source category: PENEGAP)
 (Bahaiprayers.net ID: 12686)
+
+
 
 
 
@@ -861,11 +1115,15 @@ Amat bendar, Nuan meh ti Bisa, ti Pemisi. Nadai Petara bukai tang Nuan, ti Tegap
 (Bahaiprayers.net ID: 12687)
 
 
+
+
 ### <a id="bpn12688"></a> Prayer bpn12688 in Iban
 Puji meh ke Nuan, O Tuhan. Ampun dosa kami, bisi penyinu meh ke kami lalu asuh kami ulih pulai ngagai Nuan. Anang ngasuh kami bepanggai ba utai bukai kelimpah ari Nuan, lalu beri ngagai kami, ngena pemisi Nuan, utai ti dikerindu enggau dikingin Nuan sereta patut ba Nuan. Tinggika pangkat sida ti amat arap, lalu ampun sida ngena pengasih pengampun Nuan. Amat bendar, Nuan meh Penulung lebuh Tusah, Pengibun Diri.
 
 (Source category: PENGAMPUN)
 (Bahaiprayers.net ID: 12688)
+
+
 
 
 ### <a id="bpn12689"></a> Prayer bpn12689 in Iban
@@ -876,12 +1134,16 @@ Nuan ngampun aku laban ngiga penyamai bukai kelimpah ari pengerindu Nuan, tauka 
 (Bahaiprayers.net ID: 12689)
 
 
+
+
 ### <a id="bpn12690"></a> Prayer bpn12690 in Iban
 O Nuan Tuhan ti Pengampun! Nuan meh pengelindung ke semua pengasuh Nuan tu. Nuan nemu semua entelah sereta ngelala semua utai. Semua kami tu lemah, lalu Nuan meh ti Tegap, ti Pemadu Bisa. Semua kami tu bedosa, lalu Nuan meh Pengampun dosa, ti Pengasih, ti Penyinu. O Tuhan! Anang meda semua penimpang kami. Intu kami nitihka pengasih enggau pemeri Nuan. Penimpang kami endang mayuh, tang tasik pengampun Nuan nadai sekat. Pengelemi kami balat, tang tanda saup enggau bantu Nuan endang nyengala. Nya alai, tetap sereta keringka kami. Asuh kami ulih ngereja utai ti lumau ba Pemetung Nuan ti kudus. Terangka ati kami, beri kami mata ti jelik enggau pending ti lansik. Idupka iya ti mati lalu sumanka iya ti sakit. Sikap pengaya ba iya ti seranta lalu beri pemaik enggau pengelikun ngagai iya ti takut. Terima kami dalam perintah Nuan lalu terangka kami ngena panchar pengiring. Nuan meh Bekuasa sereta Pemadu Bisa. Nuan meh ti Mentas. Nuan meh ti
 Penyayau. Nuan meh ti Nelap.
 
 (Source category: PENGAMPUN)
 (Bahaiprayers.net ID: 12690)
+
+
 
 
 
@@ -896,11 +1158,15 @@ Bekuasa meh Nuan ngereja utai ti ngasuh Nuan lantang. Nadai Petara bukai semina 
 (Bahaiprayers.net ID: 12691)
 
 
+
+
 ### <a id="bpn12692"></a> Prayer bpn12692 in Iban
 Nama Nuan nyadika pengerai aku, O Petara aku, lalu pengingat Nuan nyadika ubat aku. Penyemak ngagai Nuan nyadika pengandal aku, sereta pengerindu ke Nuan nyadika pangan aku. Pengasih Nuan ngagai aku nyadika pengerai aku enggau penulung aku dalam kedua- dua dunya tu enggau dunya ti deka datai. Nuan, amat bendar, ti Pemadu Pemisi, ti Nemu Semua, ti Pemadu Pintar.
 
 (Source category: PENGERAI)
 (Bahaiprayers.net ID: 12692)
+
+
 
 
 ### <a id="bpn12693"></a> Prayer bpn12693 in Iban
@@ -911,6 +1177,8 @@ Kuasa- Petara ba Nuan, lalu udah nyungkakka Pengawa Nuan ti tinggi ari semua uta
 
 (Source category: PENGERAI)
 (Bahaiprayers.net ID: 12693)
+
+
 
 
 ### <a id="bpn12694"></a> Prayer bpn12694 in Iban
@@ -973,6 +1241,8 @@ Nuan amat bendar ti Bekuasa, ti Nyukupka Semua, ti Ngerai, ti Penyaga, ti Pemeri
 
 
 
+
+
 ## PENGUJI ENGGAU PENUSAH
 
 ### <a id="bpn12695"></a> Prayer bpn12695 in Iban
@@ -980,6 +1250,8 @@ O Nuan ke alai penguji Iya nyadi ubat penyuman ke sida ti semak ngagai Nuan, ke 
 
 (Source category: PENGUJI ENGGAU PENUSAH)
 (Bahaiprayers.net ID: 12695)
+
+
 
 
 ### <a id="bpn12696"></a> Prayer bpn12696 in Iban
@@ -991,6 +1263,8 @@ Lalu, ke penudi ia, aku minta tulung Nuan ngena panchar rampa-mua Nuan merekat s
 (Bahaiprayers.net ID: 12696)
 
 
+
+
 ### <a id="bpn12697"></a> Prayer bpn12697 in Iban
 Dimuliaka meh Nuan. O Tuhan Petara aku! Tiap iku mensia ti beseling ngaku kuasa-raja Nuan enggau pegai-kuasa Nuan, lalu tiap mata ti lansik ngelala pemesai kuasa-perintah Nuan enggau kuasa pemejal penegap Nuan. Ribut penguji enda ulih nagang sida ti rindu besemak enggau Nuan ari ti ngentapka mua sida ngadap bingkai-langit mulia Nuan. Lalu biau balai penguji tetap enda mujur narit ke bukai sereta ngempang sida ti amat angkun ke peneka Nuan ari ti ngerapat balai Nuan.
 Aku mikir, lampu pengerindu Nuan benung mau dalam ati sida, lalu penampak pengeliut Nuan udah ditungkun dalam dada sida. Penusah enda ulih nyelapat sida ari Pengawa Nuan, lalu nasit ti enda disadang enda ulih ngasuh sida lelang ari penyamai Nuan.
@@ -998,6 +1272,8 @@ Aku minta Nuan, O Petara aku, nengah sida enggau nengah tengkelak sebut ati sida
 
 (Source category: PENGUJI ENGGAU PENUSAH)
 (Bahaiprayers.net ID: 12697)
+
+
 
 
 ### <a id="bpn12698"></a> Prayer bpn12698 in Iban
@@ -1008,12 +1284,16 @@ Anang ngasuh penusah ngemedis aku maya penguji, lalu lebuh maya nadai pengibuh i
 (Bahaiprayers.net ID: 12698)
 
 
+
+
 ### <a id="bpn12699"></a> Prayer bpn12699 in Iban
 Kati bisi Pemuai pemerinsa bukai kelimpah ari Petara?
 Sebut: Puji Petara! Iya ti Petara! Semua pengasuh Iya, lalu semua idup dalam ibun Iya.
 
 (Source category: PENGUJI ENGGAU PENUSAH)
 (Bahaiprayers.net ID: 12699)
+
+
 
 
 
@@ -1030,11 +1310,15 @@ Nuan, amat bendar, ti Pemadu Bemulia, ti Pemadu Pemisi
 (Bahaiprayers.net ID: 12700)
 
 
+
+
 ### <a id="bpn12701"></a> Prayer bpn12701 in Iban
 O Petara, Petara aku! Aku udah bekejang ari rumah aku, bepegai teguh ba tali pengerindu Nuan, lalu aku udah nyerahka diri empu penuh ngagai intu Nuan enggau jaga Nuan. Aku minta kasih ngagai Nuan nengah kuasa Nuan ke alai Nuan endang nyaga bala ti dikerindu Nuan ari sida ti limpang enggau tesat, lalu ari semua orang ti ingkar ngelaban, enggau ari semua ti ngereja penyai ti udah jauh lelang ari Nuan, ngambika ngibun aku ngena pengasih Nuan enggau berekat Nuan. Udah nya, kemendarka aku ulih pulai ke rumah aku nengah kuasa Nuan enggau penegap Nuan. Nuan endang, amat, ti Pemadu Tegap, Penulung lebuh Tusah, Pengibun Diri.
 
 (Source category: PENYAGA)
 (Bahaiprayers.net ID: 12701)
+
+
 
 
 ### <a id="bpn12702"></a> Prayer bpn12702 in Iban
@@ -1048,6 +1332,8 @@ Nuan Pengayan ke tetiap Seruan! O Nuan ti Penyinu! O Nuan ti Pengasih! Uji Nuan 
 (Bahaiprayers.net ID: 12702)
 
 
+
+
 ### <a id="bpn12703"></a> Prayer bpn12703 in Iban
 Letak ke aku, O Tuhan aku, enggau ke sida ti arapka
 Nuan utai ti diaku manah ke kami dalam jangka Nuan, baka ke udah diletak dalam Indu Bup, laban dalam genggam jari Nuan, Nuan megai penyukat tatak ke semua utai.
@@ -1059,12 +1345,16 @@ Sigi nadai kuasa tauka pengering semina dalam Petara, ti Pemadu Tinggi, ti Pemad
 (Bahaiprayers.net ID: 12703)
 
 
+
+
 ### <a id="bpn12704"></a> Prayer bpn12704 in Iban
 O Petara! O Petara aku! Terabai bala pengasuh ti dikarap
 Nuan ari semua penyai diri enggau pengingin, jaga sida ngena mata pengelansik pengerindu- penelap Nuan ari semua pengeringat, dengki enggau kepapas, lindung sida dalam pengebal kuta ibun Nuan lalu selamat ari laja pengakang, asuh sida nyadi pengayan semua tanda mulia Nuan, terangka mua sida ngena perenching panchar ti nurun ari Terebak-tawas suchi penyerakup Nuan, kelantangka ati sida ngena genteran ti dipegari ari perintah kudus Nuan, keringka punggung sida ngena semua ayun kuasa perintah Nuan ti datai ari dunya mulia Nuan. Nuan meh ti Pemadu Pemisi, ti Penyaga, ti Pemadu Tegap, ti Mentas!
 
 (Source category: PENYAGA)
 (Bahaiprayers.net ID: 12704)
+
+
 
 
 ### <a id="bpn12705"></a> Prayer bpn12705 in Iban
@@ -1074,6 +1364,8 @@ Amat bendar, Nuan meh ti Penyaga, ti Pengibun, ti Pengenan, ti Penyukup, lalu am
 
 (Source category: PENYAGA)
 (Bahaiprayers.net ID: 12705)
+
+
 
 
 
@@ -1089,6 +1381,8 @@ Amat bendar, Nuan meh ti Penyaga, ti Pengibun, ti Pengenan, ti Penyukup, lalu am
 
 
 
+
+
 ## PENYAUP
 
 ### <a id="bpn12707"></a> Prayer bpn12707 in Iban
@@ -1100,11 +1394,15 @@ O Penabat Kudus! Semua pengidup nyadi ketegal pemeri Nuan; anang ngemelu iya ari
 (Bahaiprayers.net ID: 12707)
 
 
+
+
 ### <a id="bpn12708"></a> Prayer bpn12708 in Iban
 O Petara aku, Tuhan aku enggau Tuan aku! Aku udah ngingkas diri ari kaban-belayan aku lalu ngiga nengah Nuan awakka ulih ngati kediri ari semua ti nguan dunya lalu meruan besedia deka nerima utai ti dipuji ba mua Nuan. Sikap ba aku pemanah awakka ngasuh aku ngati kediri ari semua utai bukai kelimpah ari Nuan, lalu beri aku ungkup ti chukup ari pengasih Nuan ti nadai tatak. Amat bendar, Nuan meh Tuhan ke penuh pengasih.
 
 (Source category: PENYAUP)
 (Bahaiprayers.net ID: 12708)
+
+
 
 
 ### <a id="bpn12709"></a> Prayer bpn12709 in Iban
@@ -1120,6 +1418,8 @@ Sebut: Petara endang amat Pengaga semua utai. Iya meri bekal ti mayuh ngagai seb
 (Bahaiprayers.net ID: 12709)
 
 
+
+
 ### <a id="bpn12710"></a> Prayer bpn12710 in Iban
 Tuhan! Sinu amat kami, kemendarka pengasih Nuan ba kami; seranta, sikap ba kami sebagi ari tasik pengaya Nuan; suntuk, uji Nuan ngemuaska kami; dikemaruh, beri kami mulia Nuan. Bala burung di langit enggau bala jelu di tanah nerima pemakai sida tiap hari ari Nuan, lalu semua utai idup bulih intu enggau pengerindu-penelap Nuan.
 Anang ngemelu iya ti lemi tu ari pemanah berekat Nuan lalu tetapka nengah penegap Nuan ngagai semengat ti nadai daya tu pemeri Nuan.
@@ -1128,6 +1428,8 @@ Nuan meh ti Pemadu Tegap sereta Bepengerindu enggau Pemekal ke semua mensia.
 
 (Source category: PENYAUP)
 (Bahaiprayers.net ID: 12710)
+
+
 
 
 
@@ -1150,12 +1452,16 @@ Saup sida, O Petara aku, mantu pemenang Nuan lalu ngeninggika Leka Jaku Nuan. Ny
 (Bahaiprayers.net ID: 12726)
 
 
+
+
 ### <a id="bpn12727"></a> Prayer bpn12727 in Iban
 Dalam Nama Iya Siku ti udah disemaya ba semua Bup
 Petara, ti Nemu Semua, ti Dipadah Semua! Hari endur bepuasa udah datai ke alai bala pengasuh ti ngelingi maligai Nuan sereta udah datai ba pemisi Nuan udah bepuasa. Sebut: O Petara ke nama enggau penempa serega enggau bumi! Aku minta ari Nuan ngena Nama Nuan, ti Pemadu Mulia, nerima puasa ari sida ti udah bepuasa ketegal pengerindu ke Nuan enggau ketegal ke penyamai pemanah Nuan lalu sida udah bejalaika tangkan Nuan ti di dalam Bup enggau Papan Tulis Nuan. Aku minta pengasih Nuan nengah sida awakka mantu aku dalam ngerembaika Pengawa Nuan lalu asuh aku tegap dalam pengerindu ke Nuan, ngambika singkang kaki aku enda tekelinchir ketegal kachau-regau utai tempa Nuan. Amat bendar, Nuan ti bekuasa atas semua utai dikedeka Nuan. Nadai Petara bukai tang Nuan, ti Ngidup, ti Pemadu Bekuasa, ti Pemadu Pemisi, ti Hari Jeman.
 
 (Source category: PUASA)
 (Bahaiprayers.net ID: 12727)
+
+
 
 
 ### <a id="bpn12728"></a> Prayer bpn12728 in Iban
@@ -1167,6 +1473,8 @@ Nadai Petara bukai tang Nuan, ti Nemu Semua, ti Pemadu Pintar. Semua puji ke Pet
 
 (Source category: PUASA)
 (Bahaiprayers.net ID: 12728)
+
+
 
 
 ### <a id="bpn12729"></a> Prayer bpn12729 in Iban
@@ -1184,6 +1492,8 @@ Kemenangka Pengawa Nuan, O Tuhan aku, lalu kemaruhka ulih Nuan bala munsuh Nuan.
 (Bahaiprayers.net ID: 12729)
 
 
+
+
 ### <a id="bpn12730"></a> Prayer bpn12730 in Iban
 Tau disebut sebedau muka puasa
  Puji meh ngagai Nuan, O Tuhan Petara aku! Kami udah ngintu Puasa nitihka pinta Nuan lalu muka ia diatu nengah pengerindu Nuan enggau pemanah-penyamai Nuan. Terima meh, O Petara Aku, pengawa ti udah dikereja kami ba menasan Nuan semina ketegal pemajik Nuan lalu mua kami ditunga ngagai Pengawa Nuan, lepas ari semua utai tang Nuan. Sikap meh, udah nya, pengampun Nuan ba kami laban udah arapka Nuan, enggau aki ini kami, enggau semua ti udah pechayaka Nuan enggau tanda Nuan ti tegap ba maya ti pemadu besai, Revelasyen ti pemadu bemulia tu. Bekuasa meh Nuan milih utai ti dikereja Nuan.
@@ -1191,6 +1501,8 @@ Nuan, amat bendar, ti Pemadu Tinggi, ti Pemadu Tegap, ti Nadai Penekul.
 
 (Source category: PUASA)
 (Bahaiprayers.net ID: 12730)
+
+
 
 
 ### <a id="bpn12731"></a> Prayer bpn12731 in Iban
@@ -1201,11 +1513,15 @@ Nuan udah ngeletak bala ke dipilih Nuan, bala ke dikerindu Nuan enggau bala peng
 (Bahaiprayers.net ID: 12731)
 
 
+
+
 ### <a id="bpn12732"></a> Prayer bpn12732 in Iban
 O Pemekal Kudus! Laban aku tu mentin diri ari semua pengingin tubuh lalu enda ngiruh diri makai enggau ngirup, ari nya tuchi sereta kuduska ati aku ari pengerindu ke orang bukai kelimpah ari Nuan, lalu terabai sereta jaga semengat aku ari pengingin jai enggau perangai sitan, awakka roh aku tau berandau enggau seput pengudus lalu bepuasa nyebut semua utai bukai kelimpah ari Nuan.
 
 (Source category: PUASA)
 (Bahaiprayers.net ID: 12732)
+
+
 
 
 
@@ -1217,6 +1533,8 @@ Terangka, O Tuhan, mua bala pengasuh Nuan, awakka sida tau meda Nuan; lalu peres
 
 (Source category: PUJI ENGGAU TERIMA KASIH)
 (Bahaiprayers.net ID: 12711)
+
+
 
 
 
@@ -1280,6 +1598,8 @@ Enti sema semua pengasuh macha lalu beperagamka tu, dia urat darah sida deka dit
 
 
 
+
+
 ## Papan Tulis Karmil
 
 ### <a id="bpn12741"></a> Prayer bpn12741 in Iban
@@ -1291,6 +1611,8 @@ Kudus meh Tuhan ke semua mensia, lebuh ti nyebut nama Iya semua atom dalam dunya
 
 (Source category: Papan Tulis Karmil)
 (Bahaiprayers.net ID: 12741)
+
+
 
 
 
@@ -1313,6 +1635,8 @@ Berekat ulih Nuan, O Tuhan Petara aku, Kayu-Buah Petara enggau daun ia, enggau d
 
 
 
+
+
 ## Papan Tulis Pengabas ‘Abdu’l-Bahá
 
 ### <a id="bpn12740"></a> Prayer bpn12740 in Iban
@@ -1331,6 +1655,8 @@ Nuan meh ti Penyikap, ti Penyiru, ti Pemadu Pemisi, ti Pengasih, ti Pengampun, t
 
 
 
+
+
 ## Penuchi enggau Pemeresi
 
 ### <a id="bpn12749"></a> Prayer bpn12749 in Iban
@@ -1340,11 +1666,15 @@ O Penginang Kudus! Sikap Nuan penulin enggau pemeresi ke semua utai ba orang Bah
 (Bahaiprayers.net ID: 12749)
 
 
+
+
 ### <a id="bpn12750"></a> Prayer bpn12750 in Iban
 Nguji bebendar meh kita, awakka penuchi enggau pengudus ngelui ari semua utai, ti endang diasi ulih ‘Abdu’l-Bahá, deka ngasuh orang Bahá jelai agi: ba semua macham pengelati orang Petara ngeluah ari semua mensia; ianya di luar enggau di dalam sida patut lebih manah agi ari orang bukai; lalu ba penuchi, penulin, pengalus enggau nyaga pengerai, sida deka nyadi ketuai pengeluan ke mereti. Nya alai nengah pengelepas ti nadai dikungkung, pemandai sida, pengenan nagang diri, sida deka nyadi orang keterubah ba antara orang ti tuchi, ti ngati kediri enggau ti pintar.
 
 (Source category: Penuchi enggau Pemeresi)
 (Bahaiprayers.net ID: 12750)
+
+
 
 
 
@@ -1362,6 +1692,8 @@ Suchi Penyerakup Nuan, ati kami gaga laban tengkujuh Berekat Nuan, awakka kami t
 (Bahaiprayers.net ID: 12734)
 
 
+
+
 ### <a id="bpn12735"></a> Prayer bpn12735 in Iban
 Datai meh kita begelumu dalam pengaga ti tulin, lalu dikena ngepunka aum, sebut kita sambiang tu:
  O Nuan Tuhan ke Perintah Petara! Taja pen tubuh kami begelumu ditu, tang ati kami tebuka ditarit ulih pengerindu Nuan, taja pia kami mega udah ditaban ulih panchar perenching mua Nuan. Taja kami tu lemah, kami nganti pengayan penegap enggau kuasa Nuan. Taja kami tu umang, nadai reta tauka daya, agi meh kami ngambi pengaya ari tibang reta Perintah Nuan. Taja kami tu setitik, agi meh kami ngauk ari penalam tasik Nuan. Taja pen kami tu baka debu, agi meh kami bekebelik dalam mulia bebendang Matahari Nuan.
@@ -1369,6 +1701,8 @@ O Nuan Pemekal kami! Kirum ke baruh bantu Nuan, awakka tiap iku ti begelumu ditu
 
 (Source category: RABAN GELUMU)
 (Bahaiprayers.net ID: 12735)
+
+
 
 
 ### <a id="bpn12736"></a> Prayer bpn12736 in Iban
@@ -1380,6 +1714,8 @@ Amat bendar, Nuan ti Mentas, ti Pengampun. Nuan meh ti Pengempu pemisi ti mayuh,
 
 (Source category: RABAN GELUMU)
 (Bahaiprayers.net ID: 12736)
+
+
 
 
 
@@ -1408,6 +1744,8 @@ Aku nyadika saksi ke penyerakup Nuan enggau ke penyatu Nuan, lalu ianya Nuan meh
 
 
 
+
+
 ## SAMBIANG OBLIGATORI Tl PANDAK
 
 ### <a id="bpn12608"></a> Prayer bpn12608 in Iban
@@ -1419,6 +1757,8 @@ Nadai Petara bukai tang Nuan, Penulung lebuh Tusah, Pengibun Diri.
 
 (Source category: SAMBIANG OBLIGATORI Tl PANDAK)
 (Bahaiprayers.net ID: 12608)
+
+
 
 
 
@@ -1466,6 +1806,8 @@ Aku besaksi, O Petara aku, ke utai ti udah disaksika bala ti dipilih Nuan, lalu 
 
 
 
+
+
 ## SAMBIANG PEMATI
 
 ### <a id="bpn12674"></a> Prayer bpn12674 in Iban
@@ -1485,6 +1827,8 @@ Semua kami, amat bendar, beterima kasih ngagai Petara. Semua kami, amat bendar, 
 (Bahaiprayers.net ID: 12674)
 
 
+
+
 ### <a id="bpn12675"></a> Prayer bpn12675 in Iban
 Sambiang bukai ke Orang ti udah Mati
  
@@ -1494,6 +1838,8 @@ Dimulia, nadai sekat meh Nuan dimulia! Nuan dipebasa dalam pengamat Nuan, lalu N
 
 (Source category: SAMBIANG PEMATI)
 (Bahaiprayers.net ID: 12675)
+
+
 
 
 ### <a id="bpn12676"></a> Prayer bpn12676 in Iban
@@ -1513,6 +1859,8 @@ Nadai Petara bukai tang Nuan, Siku, Kediri, ti Bekuasa, ti Penuh Penemu, ti Pemi
 (Bahaiprayers.net ID: 12676)
 
 
+
+
 ### <a id="bpn12677"></a> Prayer bpn12677 in Iban
 O Petara aku! O Petara aku! Amat bendar, pengasuh
 Nuan, ngemaruhka diri ba kuasa-perintah peninggi suchi Nuan, ngunduk ba pintu penyatu Nuan, udah arapka Nuan enggau dalam genteran jaku Nuan, udah besaksika leka jaku Nuan, lalu udah ditungkun enggau api pengerindu Nuan, udah diselam ba penalam tasik penemu Nuan, udah tetarit ngagai puput ribut Nuan, udah bepanggai ba Nuan, udah nungaka mua iya nuju Nuan, udah ngenataika sampi iya ngagai Nuan, lalu udah ditetap enggau tembang sereta ampun Nuan. Iya udah ninggalka pengidup dunya tu lalu terebai nuju perintah ti meruan, keran ke pengasih betemu enggau Nuan.
@@ -1521,6 +1869,8 @@ Amat bendar, Nuan meh ti Nelap, ti Bekuasa, ti Pengampun enggau ti Penyikap.
 
 (Source category: SAMBIANG PEMATI)
 (Bahaiprayers.net ID: 12677)
+
+
 
 
 ### <a id="bpn12678"></a> Prayer bpn12678 in Iban
@@ -1532,6 +1882,8 @@ O Tuhan aku! Tuchi sida ari semua penyalah, buai penusah ati sida, lalu tukar pe
 (Bahaiprayers.net ID: 12678)
 
 
+
+
 ### <a id="bpn12679"></a> Prayer bpn12679 in Iban
 O Nuan Tuhan ti pengampun!
 Taja sekeda semengat masau pengidup sida ketegal pengelansang, lalu nyelapat diri sereta enda ngasika adat, taja pia, enggau sekali alun ari tasik pengampun Nuan, semua sida ke dibalut enggau dosa deka dilepaska. Sebarang sapa ti dikedeka Nuan iya nyadika pengandal Nuan, lalu sebarang sapa ke enda nyadi juluk pilih Nuan iya diaku nyadika pengelanggar adat. Sema Nuan ngintu kami nitihka pengelurus Nuan, semua kami endang nadai penyadi tang orang ti bedosa lalu patut ditutup ari Nuan, tang sema Nuan megai pengasih, tiap iku orang ti bedosa deka digaga nyadi tulin lalu tiap iku temuai nyadi pangan. Nya alai, sikap, pengampun enggau tembang Nuan, lalu kemendarka pengasih Nuan ngagai semua.
@@ -1539,6 +1891,8 @@ Nuan meh ti Pengampun, ti Pemeri Penampak sereta Pemadu Bisa.
 
 (Source category: SAMBIANG PEMATI)
 (Bahaiprayers.net ID: 12679)
+
+
 
 
 
@@ -1554,12 +1908,16 @@ Nuan, sigi amat, endang Seruran Ngampun, ti Pemadu Penyinu
 (Bahaiprayers.net ID: 12712)
 
 
+
+
 ### <a id="bpn12713"></a> Prayer bpn12713 in Iban
 Amat bendar aku tu pengasuh Nuan, O Petara aku, siku nembiak Nuan ti seranta enggau iya ti minta sereta utai tempa Nuan ti merinsa. Aku udah datai ba pintu penama Nuan, ngiga pengenduh Nuan. Aku nadai tetemuka pemuas tang semina ba pengerindu Nuan, nadai penyenang tang semina ba pengingatka Nuan, nadai pengeransing tang semina ba ngasika Nuan, nadai pengaga tang semina ba penyemak enggau Nuan, lalu nadai pengelantang semadi meh begulai enggau Nuan, enda ngira aku tu nemu ianya semua utai tempa endang diempang ari Ayu Nuan ti memelan lalu semua utai tempa endang enda ulih betemu enggau batang Tubuh Nuan. Tiap kali aku nguji deka ngelawa Nuan, aku ngasaika nadai utai ba aku tang semina tanda pengasih Nuan lalu nadai tepedaka utai bukai ba pengidup aku tang pegari pementas pengerindu Nuan. Bakani siku ke semina utai tempa Nuan ti deka begulai baru enggau Nuan lalu datai betemu enggau Nuan, taja pan nadai utai tempa ulih bekaul enggau Nuan, nadai mega ulih meragamka Nuan? Bakani pengasuh Nuan ti baruh tu ulih ngelala Nuan lalu ngemesaika puji Nuan, taja pan Nuan udah nagaka iya revelasyen dunya Nuan enggau pemanah tanda kuasa-raja Nuan? Nya alai semua utai tempa nyadika saksi ianya ia diempang ari pengenduh penatai Nuan ketegal sekat ti udah ditetapka ngagai penalam realiti ia. Taja pia, endang enda ulih disekang, ianya kuasa penarit Nuan kenyau ari kelia endang dikembuan dalam realiti kerejajari Nuan, taja pen ia ti ngakun ba kot pemeri Nuan endang ngelui ari ke ulih japai semua utai tempa Nuan. Tu nunjukka,
 O Petara aku, naka meh pengurang aku deka muji Nuan lalu ngayanka naka pengelemi aku dalam meri terima kasih ngagai Nuan; lalu jauh agi deka ulih ngelala pengudus penyerakup Nuan tauka ulih mujur nyapai tanda puji Nuan, pengelindung Nuan enggau mulia Nuan. Enda, ngena penegap Nuan, Aku enda keran ke utai bukai tang Nuan Empu Aja lalu ngiga nadai orang bukai tang Nuan.
 
 (Source category: SEMAK NGAGAI PETARA)
 (Bahaiprayers.net ID: 12713)
+
+
 
 
 ### <a id="bpn12714"></a> Prayer bpn12714 in Iban
@@ -1570,6 +1928,8 @@ pengidup tu ngambika mengkang tegap sereta teguh dalam pengerindu Nuan lalu keme
 
 (Source category: SEMAK NGAGAI PETARA)
 (Bahaiprayers.net ID: 12714)
+
+
 
 
 ### <a id="bpn12715"></a> Prayer bpn12715 in Iban
@@ -1590,6 +1950,8 @@ Nuan, amat bendar, ti Bepengasih, ti Dikemulia, ti Tegap, ti Pemadu Bisa.
 
 
 
+
+
 ## SERAKUP
 
 ### <a id="bpn12716"></a> Prayer bpn12716 in Iban
@@ -1598,6 +1960,8 @@ Nuan, lalu pegarika ngagai sida tuju Nuan ti pemadu besai. Asuh sida nitihka jak
 
 (Source category: SERAKUP)
 (Bahaiprayers.net ID: 12716)
+
+
 
 
 
@@ -1614,12 +1978,16 @@ Nadai Petara bukai tang Nuan, ti Pemadu Tegap, ti Pemadu Pintar.
 (Bahaiprayers.net ID: 12717)
 
 
+
+
 ### <a id="bpn12718"></a> Prayer bpn12718 in Iban
 O Tuhan aku enggau Pengandal aku! Tulung bala ti dikerindu Nuan nyadi teguh dalam Sempekat Nuan ti tegap, seruran taluk ngagai Pengawa Nuan ti pegari, lalu ngereja semua jaku tangkan Nuan ti endang ditaga Nuan ke sida dalam Bup Penampak Nuan; awakka sida tau nyadi menira pengiring enggau lampu Raban di atas, telaga ai pemintar Nuan ti nadai tatak, lalu nyadi bintang ti ngemalin nuju pemetul, lebuh maya sida manchar ari langit kudus.
 Amat bendar, Nuan meh ti Nadai Ulih Laban, ti Pemadu Tegap, ti Pemadu Bekuasa.
 
 (Source category: TEGUH DALAM SEMPEKAT)
 (Bahaiprayers.net ID: 12718)
+
+
 
 
 ### <a id="bpn12719"></a> Prayer bpn12719 in Iban
@@ -1631,6 +1999,8 @@ Nuan ti Penyinu, ti Pengasih! Nuan meh Petara Pemadu sayau!
 (Bahaiprayers.net ID: 12719)
 
 
+
+
 ### <a id="bpn12720"></a> Prayer bpn12720 in Iban
 Gaga teguh singkang kami, O Tuhan dalam menasan
 Nuan lalu keringka ulih Nuan ati kami ngasika Nuan. Kuingka mua kami ngadap pemajik penyatu Nuan, lalu kelantangka ruang ati kami ngena semua tanda suchi penyerakup Nuan. Iyas tubuh kami ngena kelambi pemisi Nuan, lalu kesai ari mata kami tirai dosa, lalu beri kami jalung berekat Nuan; awakka ayu semua pengidup tau menyanyika puji Nuan ba mua perening pemesai- kuasa Nuan. Udah nya pegarika Nuan Empu, O Tuhan, ngena sada pengasih Nuan enggau misteri pengidup pengudus Nuan, awakka pengelantang sambiang ti kudus tau ngemenuhka semengat kami—sambiang ti ngelui ari leka jaku enggau urup lalu ngilah semua rentak enggau munyi—awakka semua utai tau betampil nyadi lela ba mua revelasyen bebendang Nuan.
@@ -1639,6 +2009,8 @@ Nuan ti Penembang, ti Bepengasih.
 
 (Source category: TEGUH DALAM SEMPEKAT)
 (Bahaiprayers.net ID: 12720)
+
+
 
 
 
@@ -1659,6 +2031,8 @@ Amat bendar, Nuan meh Mentas. Amat bendar, Nuan meh Pemadu Tegap. Amat bendar, N
 (Bahaiprayers.net ID: 12721)
 
 
+
+
 ### <a id="bpn12722"></a> Prayer bpn12722 in Iban
 Mulia meh Nuan, O Petara aku! Amat bendar, pengasuh
 Nuan tu enggau pengasuh indu Nuan tu udah begempuru di baruh kelemayang pengasih Nuan lalu seduai iya beserakup ngena bantu enggau penelap Nuan. O Tuhan! Saup seduai dalam dunya Nuan tu enggau ba Perintah Nuan lalu ungkupka seduai iya semua pemanah ngena pementas enggau berekat pengasih Nuan. O Tuhan! tetapka seduai iya nyadi pengasuh Nuan lalu saup seduai iya dalam kereja Nuan. Asuh seduai iya nyadi tanda nama dalam dunya Nuan sereta jaga seduai ngena penyikap ti enda nemu abis dalam dunya tu enggau dunya ti deka datai. O Tuhan! Seduai besampi enggau pemaruh ati ngadap perintah pengasih Nuan lalu minta kasih ngadap maligai penyerakup Nuan. Amat bendar, seduai iya jadi laban ngasika jaku-tangkan Nuan. Gaga seduai iya nyadi tanda penyerakup ati lalu segulai nyentuk ke pengujung maya.
@@ -1666,6 +2040,9 @@ Amat bendar, Nuan meh Pemadu Bisa, Selalu bisi sereta Pemadu Tegap!
 
 (Source category: TIKAH)
 (Bahaiprayers.net ID: 12722)
+
+
+
 
 
 

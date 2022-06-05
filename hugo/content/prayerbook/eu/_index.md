@@ -3,6 +3,40 @@ title = "Euskara"
 tags = ['lang=eu', 'prayerbook']
 +++
 
+
+
+[Alaitasuna](#Alaitasuna)
+
+[Babesa](#Babesa)
+
+[Barkamena](#Barkamena)
+
+[Bete beharrezkoa](#Bete beharrezkoa)
+
+[Errukia](#Errukia)
+
+[Gaua](#Gaua)
+
+[Gizartea](#Gizartea)
+
+[Goiza](#Goiza)
+
+[Gorespen Jainkoari](#Gorespen Jainkoari)
+
+[Haurrak](#Haurrak)
+
+[Hilen aldeko](#Hilen aldeko)
+
+[Laguntza](#Laguntza)
+
+[Maitasuna](#Maitasuna)
+
+[Sendaketa](#Sendaketa)
+
+[Zailtasunak](#Zailtasunak)
+
+
+
 ## Alaitasuna
 
 ### <a id="bpn6144"></a> Prayer bpn6144 in Euskara
@@ -13,6 +47,8 @@ Ene Jainkoa! Ni neure buruarena baino adiskideago zatzait. Zeuretzat eskaintzen 
 
 (Source category: Alaitasuna)
 (Bahaiprayers.net ID: 6144)
+
+
 
 
 
@@ -29,6 +65,8 @@ Benetan, Zeu zara euren Laguntza eta Jauna
 
 
 
+
+
 ## Barkamena
 
 ### <a id="bpn6158"></a> Prayer bpn6158 in Euskara
@@ -39,6 +77,8 @@ Zeure ahalaren indarrez Zeuk erabaki duzuna bakarrik nahi duena naiz ni. Neuretz
 
 (Source category: Barkamena)
 (Bahaiprayers.net ID: 6158)
+
+
 
 
 
@@ -58,6 +98,8 @@ Zeure izatez irauten duzuna, arriskuan laguntzailea, ez dago Zu ez beste Jainkor
 
 
 
+
+
 ## Errukia
 
 ### <a id="bpn6139"></a> Prayer bpn6139 in Euskara
@@ -68,6 +110,8 @@ Behartsuak eta txiroak baino ez dira guztiak, eta Zu, guztia duena zara benetan,
 
 (Source category: Errukia)
 (Bahaiprayers.net ID: 6139)
+
+
 
 
 
@@ -84,6 +128,8 @@ Ez dago Zu ez beste Jainkorik, Ahalguztiduna, Guztiaren Menderatzailea, Jaraina.
 
 
 
+
+
 ## Gizartea
 
 ### <a id="bpn6138"></a> Prayer bpn6138 in Euskara
@@ -93,6 +139,8 @@ Guztientzat emankorra zara Zu, guztientzat ardura izan duzu Zuk, guztiei babespe
 
 (Source category: Gizartea)
 (Bahaiprayers.net ID: 6138)
+
+
 
 
 
@@ -107,6 +155,8 @@ Ez dago Zu ez beste Jainkorik, Zu zara Bakarra, Paregabea, Orojakituna, jakintsu
 
 
 
+
+
 ## Gorespen Jainkoari
 
 ### <a id="bpn6135"></a> Prayer bpn6135 in Euskara
@@ -116,6 +166,8 @@ Goratua izan bedi Zure Izena, ene Jainko Jauna! Sorturiko guztiak gurtzen zaitue
 (Bahaiprayers.net ID: 6135)
 
 
+
+
 ### <a id="bpn6136"></a> Prayer bpn6136 in Euskara
 Goretsia izan bedi Zure Izena, ene Jainkoa eta gauza guztien Jainkoa, ene Aintza eta izaki guztien Aintza, ene nahia eta izaki guztien Nahia, ene Indarra eta izaki guztien Indarra, neure Erregea eta izaki guztien Erregea, neure Jabea eta gauza guztien Jabea, ene Jomuga eta izaki guztien Jomuga, neure Bultzatzailea eta gauza guztien Bultzatzailea.
 
@@ -123,6 +175,8 @@ Zure emaitza gurien itsasotik baztertzen ez nazazu utzi, ez eta Zure hurbiltasun
 
 (Source category: Gorespen Jainkoari)
 (Bahaiprayers.net ID: 6136)
+
+
 
 
 ### <a id="bpn6137"></a> Prayer bpn6137 in Euskara
@@ -149,6 +203,8 @@ Nahi duzuna egiteko Ahaltsua zara Zu,benetan Goralduena, Aintzaguztiduna, Goreng
 
 
 
+
+
 ## Haurrak
 
 ### <a id="bpn6150"></a> Prayer bpn6150 in Euskara
@@ -158,11 +214,15 @@ Ene Jainkoa! Zeure maitasunaren sabelean hazi erazi ezazu sorkaritxo hau, eta ze
 (Bahaiprayers.net ID: 6150)
 
 
+
+
 ### <a id="bpn6151"></a> Prayer bpn6151 in Euskara
 Ene Jainkoa! Hezi itzazu ume hauek. Zeure baratzeko landarak, zeure larrako loreak dituzu. Zeure euria beroiengana ixuri daitela egizu; Benekotasunaren Eguzkia Zure maitasunaz beroien gain dizdiratu daitela egizu; Benekotasunaren Eguzkia Zure maitasunaz beroien gain dizdiratu daitela egizu. Hezi, hazi eta garatu daitezen eta beren edertasunik ederrean ageri izan daitezen, zeure haizezkaz girotu itzazu. Zeu zara Emailea, Zeu zara Gupidatsua.
 
 (Source category: Haurrak)
 (Bahaiprayers.net ID: 6151)
+
+
 
 
 ### <a id="bpn6152"></a> Prayer bpn6152 in Euskara
@@ -172,11 +232,15 @@ Ene Jauna! Ene Jauna! Adin txikidun ume bat naiz. Zeure errukitasunezko ugatzez 
 (Bahaiprayers.net ID: 6152)
 
 
+
+
 ### <a id="bpn6153"></a> Prayer bpn6153 in Euskara
 Bideratu eta lagundu nazazu ene Jainkoa, nire bihotzeko kriseilua argiztatu ezazu eta izar dizdiratsu bihurtu nazazu. Zeu zara Indartsua eta Ahaltsua.
 
 (Source category: Haurrak)
 (Bahaiprayers.net ID: 6153)
+
+
 
 
 
@@ -190,6 +254,8 @@ Ene Jainkoa! Bekatuen barkatzaile Hori, dohai emaile, atsekabeak aienatzen dituz
 
 
 
+
+
 ## Laguntza
 
 ### <a id="bpn6141"></a> Prayer bpn6141 in Euskara
@@ -199,12 +265,16 @@ Nork askatzen du oztopoetatik Jainkoak ez bada? Esan: Goraldua izan bedi Jainkoa
 (Bahaiprayers.net ID: 6141)
 
 
+
+
 ### <a id="bpn6142"></a> Prayer bpn6142 in Euskara
 Deadar ezazue! Izaki guztiak duintzen ditu Jainkoak, gauza guztien gain, eta Zeru-lurretan den ezaerk ez du duintzen Jainkoak baino gehiago.
 Benetan, Bera da Beregan, Ezagutzailea, Euslea, Ahalguztiduna.
 
 (Source category: Laguntza)
 (Bahaiprayers.net ID: 6142)
+
+
 
 
 
@@ -221,6 +291,8 @@ Zeu zara benetan, Ahalguztiduna, Aintzaguztiduna, Ahaltsuen artean Ahaltsuena
 
 
 
+
+
 ## Sendaketa
 
 ### <a id="bpn6155"></a> Prayer bpn6155 in Euskara
@@ -233,6 +305,8 @@ Nahi duzuna egiteko Ahaltsua zara Zu. Ez dago Zu ez beste Jainkorik, Beti Barkat
 (Bahaiprayers.net ID: 6155)
 
 
+
+
 ### <a id="bpn6156"></a> Prayer bpn6156 in Euskara
 Ene Jainkoa,
 Zure izenen bidez geisoak sendatuak izaten dira, eta nahigabetuak seneratzen, egarri direnei edaten ematen zaie, eta larrituak direnak lasaitzen, deslai direnak bideratuak izaten dira, eta apalduak goraltzen, txiro direnak aberastuak izaten dira, eta ezjakin direnak jakintsu bihurtzen, atsekabez direnei adore ematen zaie, eta itun direnak argieratzen, kikilduak jasoten. Zure izenaren bidez, ene Jainkoa, irazandako izaki guztiak igieraziak izan ziren, lurrera euria ixuri zezaten. Eta hori, benetan, Zeure izakiekiko duzun Zeure adeiaren zantzu bat da (...)
@@ -242,11 +316,15 @@ Izan ere, Zure indarrak gauza guztiei aurre eman diezaieke. Benetan, Zeu zara Ah
 (Bahaiprayers.net ID: 6156)
 
 
+
+
 ### <a id="bpn6154"></a> Prayer bpn6154 in Euskara
 Zure Izena da nire sendaketa, ene Jainkoa, eta Zure oroitza da niretzako sendagarria. Zureganako hurbiltasuna da nire itxaropena eta Zuganako maitasuna nire laguna. Nireganako Zure errukia da niretzat sendaketa eta sorosketa, mundu honetan nahiz gerokoan. Zeu zara izan ere, Oro Emankorra, Orojakituna, jakintsuen artean Jakintsua
 
 (Source category: Sendaketa)
 (Bahaiprayers.net ID: 6154)
+
+
 
 
 
@@ -259,6 +337,8 @@ Bihotz garbi bat irazan ezazu nire baitan, ene Jainkoa, eta barru lasaitasuna be
 (Bahaiprayers.net ID: 6145)
 
 
+
+
 ### <a id="bpn6146"></a> Prayer bpn6146 in Euskara
 Aienatu itzazu nire nahigabeak Zeure adeiaren eta Zure emankortasunaren bidez, Ene Jainkoa, eta uxatu ezazu nire axanpa Zeure agintearen eta Zure ahalaren bidez. Zeuk ikusten nauzu, ene Jainkoa, neure arpegia Zeuganantz itzultzen, atsekabeak alde guztietatik erasoka ditudan une honetan.
 Izaki guztien Jauna zaren Horri, ikusi daitezken nahiz ezin daitezken gauza guztiak jagoten dituzun Horri, gizakien arimak eta bihotzak menderatzeko bide izan duzun Zeure Izenagatik, eta Zeure errukiortasunezko itsasoko uhinengatik eta Zeure emankortasunezko Eguzkiaren dizdiragaitik, arren dagizut, Zuganantz arpegiak itzultzea ezerk ere galerazi ezin izan dienen artean onartu nazazula, izen guztien Jaun Hori, zeruen Egile Hori.
@@ -267,11 +347,16 @@ Izaki guztien Jauna zaren Horri, ikusi daitezken nahiz ezin daitezken gauza guzt
 (Bahaiprayers.net ID: 6146)
 
 
+
+
 ### <a id="bpn6147"></a> Prayer bpn6147 in Euskara
 Ene Jainkoa! Ez zaitez nigandik urrundu, zoritxarrez inguraturik bait nago. Ene Jainkoa! Ez nazazu bakarrik utzi, ezbeharrik gorrienak heldu dit eta. Zure ontasun maitakorrezko bularretik darion ugatz gardenez edaten emaidazu, egarriz errea bait nago. Zeure errukitasunezko hegoen itzalpean babestu nazazu, ditudan etsai guztiak bat eginik eraso bait naute. Zeure handitasunezko jarlekuaren hurrean jagon nazazu, Zeure aintzaren zantzua agertzen deneko aurrean, ezbeharrak larriki jo nauelako. Zeure erukortasun samurrezko eskuz eskainitako poztasun txolkadaz elikatu nazazu, nahigabe askok gogorki heldu didatelako. Zeure aginte ahalguztidunaren soingaineko azpatuaz jantzi nazazu, txirotasunak bilutsik utzi nauelako. Zeure Betikotasun Usoaren urrugaz gozaturik lo egiten utzi ezadazu, zoritxarrik latzenak heldu zaizkidalako. Zeure batasunaren jarleku aurrean, Zeure arpegiaren edertasun dizdiratien erdian, utzi ezadazu bizitzen, beldurrak eta ikarak zeharo larritu nautelako. Aintzaren lebiatan delakoaren urduritasunari begira, Zeure barkamen itsasoan murgildurik nazazu, neure bekatuek guztiz galdu nautelako.
 
 (Source category: Zailtasunak)
 (Bahaiprayers.net ID: 6147)
+
+
+
 
 
 

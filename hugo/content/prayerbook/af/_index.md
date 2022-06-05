@@ -3,6 +3,72 @@ title = "Afrikaans"
 tags = ['lang=af', 'prayerbook']
 +++
 
+
+
+[Aand](#Aand)
+
+[Afsnyding](#Afsnyding)
+
+[Begrafnis](#Begrafnis)
+
+[Beskerming](#Beskerming)
+
+[Bystand](#Bystand)
+
+[Dag van God](#Dag van God)
+
+[Dagbreek](#Dagbreek)
+
+[Die Huwelik](#Die Huwelik)
+
+[Die Mensdom](#Die Mensdom)
+
+[Die Tafel van Ahmad](#Die Tafel van Ahmad)
+
+[Die Tafels van Besoeking](#Die Tafels van Besoeking)
+
+[Die Tafels van die Goddelike Plan](#Die Tafels van die Goddelike Plan)
+
+[Die Vas](#Die Vas)
+
+[Eenheid](#Eenheid)
+
+[Geestelike Eienskappe](#Geestelike Eienskappe)
+
+[Geestelike Raad](#Geestelike Raad)
+
+[Genesing](#Genesing)
+
+[Kinders](#Kinders)
+
+[Kort verpligte gebed](#Kort verpligte gebed)
+
+[Lang verpligte gebed](#Lang verpligte gebed)
+
+[Lof en Dankbaarheid](#Lof en Dankbaarheid)
+
+[Middelbare verpligte gebed](#Middelbare verpligte gebed)
+
+[Naw Rúz](#Naw Rúz)
+
+[Oggend](#Oggend)
+
+[Onderrig](#Onderrig)
+
+[Standvastigheid](#Standvastigheid)
+
+[Standvastigheid in die Verbond](#Standvastigheid in die Verbond)
+
+[Toetse en Moeilikhede](#Toetse en Moeilikhede)
+
+[Vergaderings](#Vergaderings)
+
+[Vergifnis](#Vergifnis)
+
+[Vir die Heengeganes](#Vir die Heengeganes)
+
+
+
 ## Aand
 
 ### <a id="bpn3145"></a> Prayer bpn3145 in Afrikaans
@@ -16,6 +82,8 @@ Daar is geen God behalwe U, die Almagtige, die Alles-Onderwerpende, die Oneindig
 (Bahaiprayers.net ID: 3145)
 
 
+
+
 ### <a id="bpn3147"></a> Prayer bpn3147 in Afrikaans
 O soeker van die Waarheid! As u verlang dat God u oog mag oopmaak, moet u God smeek, Hom aanbid en met Hom middernagtelike gemeenskap hê, en sê:
 
@@ -25,6 +93,8 @@ Voorwaar, U is die Skenker, die Vrygewige, die Barmhartige, die Vergewende.
 
 (Source category: Aand)
 (Bahaiprayers.net ID: 3147)
+
+
 
 
 ### <a id="bpn3146"></a> Prayer bpn3146 in Afrikaans
@@ -39,6 +109,8 @@ By U mag! Of ek slaap of wakker is, vra ek niks anders as wat U verlang nie. Ek 
 
 
 
+
+
 ## Afsnyding
 
 ### <a id="bpn3180"></a> Prayer bpn3180 in Afrikaans
@@ -48,6 +120,8 @@ Ek smeek U, by die lof waarmee U Uself lowe en die heerlikheid waarmee U U eie W
 
 (Source category: Afsnyding)
 (Bahaiprayers.net ID: 3180)
+
+
 
 
 ### <a id="bpn3181"></a> Prayer bpn3181 in Afrikaans
@@ -61,6 +135,8 @@ U is waarlik die Here van die hele mensdom, en die Besitter van hierdie wêreld 
 (Bahaiprayers.net ID: 3181)
 
 
+
+
 ### <a id="bpn3182"></a> Prayer bpn3182 in Afrikaans
 Geloof sy U Naam, o my God! Ek smeek U by die geure van die Gewaad van u guns, wat op U gebod en in ooreenstemming met U wens deur die hele skepping versprei is, en by die Dagster van U wil wat helder skyn, deur die krag van U mag en U soewereiniteit, bo die horison van U genade, om alle nuttelose inbeeldinge en ydele verbeeldinge uit my hart te wis, sodat ek met al my toegeneentheid my na U toe mag wend, o U die Here van die hele mensdom!
 
@@ -70,6 +146,8 @@ U is, in werklikheid, die Here van die wêrelde, en die God van almal wat in die
 
 (Source category: Afsnyding)
 (Bahaiprayers.net ID: 3182)
+
+
 
 
 ### <a id="BH09024"></a> Prayer BH09024 in Afrikaans
@@ -85,6 +163,8 @@ U mag is, in der waarheid, tot alle dinge in staat.
 (Bahaiprayers.net ID: 3183)
 
 
+
+
 ### <a id="bpn3184"></a> Prayer bpn3184 in Afrikaans
 Ek weet nie, o my God, wat die Vuur is wat U in U land aangesteek het nie. Aarde kan nooit sy luister vertroebel nie, nòg water sy vlam blus nie. Al die mense van die wêreld is magteloos om sy krag te weerstaan. Groot is die geluksaligheid van hom wat nader daarnda gekom het, en sy gedreun gehoor het.
 
@@ -96,6 +176,8 @@ Kragtig is U om te doen wat U behaag. U is, voorwaar, die Almagtige, die Mees Vr
 
 (Source category: Afsnyding)
 (Bahaiprayers.net ID: 3184)
+
+
 
 
 ### <a id="bpn3185"></a> Prayer bpn3185 in Afrikaans
@@ -113,6 +195,8 @@ Daar is geen God behalwe U nie, die Almagtige, die Heilsame.
 (Bahaiprayers.net ID: 3185)
 
 
+
+
 ### <a id="bpn3186"></a> Prayer bpn3186 in Afrikaans
 O God, my God! U is my Hoop en my Beminde, my hoogste Oogmerk en Begeerte! Met groot ootmoed en algehele toewyding bid ek U om my 'n toring van U liefde in U land, 'n lamp van U kennis onder U skepsels, en 'n vaandel van goddelike mildheid in U gebied te maak.
 
@@ -124,6 +208,8 @@ U is, in der waarheid, die Almagtige, die Alglorieryke, die Alkragtige.
 
 (Source category: Afsnyding)
 (Bahaiprayers.net ID: 3186)
+
+
 
 
 
@@ -157,6 +243,8 @@ Ons almal, voorwaar, is geduldig in God.
 
 
 
+
+
 ## Beskerming
 
 ### <a id="bpn3174"></a> Prayer bpn3174 in Afrikaans
@@ -168,11 +256,15 @@ Beveilig hom ook, o my God, deur die krag van U onmeetbare majesteit, teen alles
 (Bahaiprayers.net ID: 3174)
 
 
+
+
 ### <a id="bpn3175"></a> Prayer bpn3175 in Afrikaans
 O God, my God! Ek het my huis verlaat, hou vas aan die koord van U liefde, en het myself geheel en al toevertrou aan U sorg en U beskerming. Ek smeek U by U mag waardeur U U geliefdes beskerm het teen die eiesinniges en die eiewysiges, en teen elke weerbarstige verdrukker en elke goddelose wat ver van U afgedwaal het, om my veilig te behou deur U goedertierenheid en U genade. Stel my dan in staat om na my huis terug te keer deur U krag en U mag. U is waarlik die Almagtige, die Hulp in Gevaar, die Selbestaande.
 
 (Source category: Beskerming)
 (Bahaiprayers.net ID: 3175)
+
+
 
 
 ### <a id="bpn3176"></a> Prayer bpn3176 in Afrikaans
@@ -190,6 +282,8 @@ U is, voorwaar, die Alglorieryke, die Mees Goedertierende.
 (Bahaiprayers.net ID: 3176)
 
 
+
+
 ### <a id="bpn3177"></a> Prayer bpn3177 in Afrikaans
 Verheerlik sy U Naam, o Here my God! Ek smeek U by U Naam waardeur die uur aangebreek het, en die Opstanding gekom het, en vrees en bewing almal wat in die hemel en op die aarde is bevang het, om te laat reën, vanuit die hemel van U genade en die wolke van U tere ontferming, dit wat die harte sal verheug van U dienaars wat na U gekeer het en U Saak gehelp het.
 
@@ -201,11 +295,15 @@ U is waarlik die Almagtige, die Mees Verhewe, die Altyd-Vergewende, die Mees Vry
 (Bahaiprayers.net ID: 3177)
 
 
+
+
 ### <a id="bpn3178"></a> Prayer bpn3178 in Afrikaans
 O God, my God! Beskut U vertroude dienaars teen die euwels van self en hartstog, verdedig hulle met die wraaksame oog van U vriendelike goedheid teen alle wrok, haat en afguns, beskerm hulle in die onneembare vesting van U sorg en, veilig teen die pyle van twyfelagtigheid, maak hulle die openbarings van U glorieryke tekens, verlig hulle gelate met die glansende strale wat uit die Daeraad van U goddelike eenheid gestort word, verbly hulle harte met die verse wat uit U heilige koninkryk bekend gemaak is, versterk hulle lendene met U alles-beheersende krag wat van U ryk van heerlikheid kom. U is die Almilddadige, die Beskermer, die Almagtige, die Goedgunstige.
 
 (Source category: Beskerming)
 (Bahaiprayers.net ID: 3178)
+
+
 
 
 ### <a id="bpn3179"></a> Prayer bpn3179 in Afrikaans
@@ -220,6 +318,8 @@ Voorwaar, U is die Verdediger, die Beskermer, die Bewaarder, die Voldoener, en v
 
 
 
+
+
 ## Bystand
 
 ### <a id="bpn3131"></a> Prayer bpn3131 in Afrikaans
@@ -231,6 +331,8 @@ O Goddelike Voorsienigheid! Alle betsaan is deur U mildheid voortgebring; ontnee
 (Bahaiprayers.net ID: 3131)
 
 
+
+
 ### <a id="bpn3132"></a> Prayer bpn3132 in Afrikaans
 O U Wie se aangesig die oogmerk van my huldiging is, Wie se prag my toevlugsoord is, Wie se woning my doel is, Wie se roem my hoop is, Wie se voorsiening my metgesel is, Wie se liefde die oorsaak van my bestaan is, Wie se melding my troos is, Wie se nabyheid my begeerte is, Wie se aanwesigheid my dierbaarste wens en hoogste strewe is, ek smeek U om nie daardie dinge wat U beskik het vir die uitverkorenes onder U dienaars van my te weerhou nie. Voorsien my dan van die goeie dinge van hierdie wêreld en van die aankomende.
 
@@ -238,6 +340,8 @@ U is waarlik die Koning van alle mense. Daar is geen God behalwe U nie, die Alty
 
 (Source category: Bystand)
 (Bahaiprayers.net ID: 3132)
+
+
 
 
 ### <a id="bpn3133"></a> Prayer bpn3133 in Afrikaans
@@ -251,6 +355,8 @@ Gee ons ons daaglikse brood en skenk U aanwas in die behoeftes van die lewe, sod
 (Bahaiprayers.net ID: 3133)
 
 
+
+
 ### <a id="bpn3134"></a> Prayer bpn3134 in Afrikaans
 Verwyder nie, o Here, die feestelike tafel wat in U naam gesprei is nie, en doof nie die brandende vlam uit wat deur U onuitblusbare vuur aangesteek is nie. Weerhou nie die vloei van daardie lewende water van U wat ruis met die melodie van U heerlikheid en U aandenking nie, en ontneem nie U dienaars die welriekendheid van U soet smaaklikhede wat die geur van U liefde uitadem nie.
 
@@ -260,6 +366,8 @@ U is, voorwaar, die Een, die Enigste, die Magtige, die Alwetende, die Alwyse.
 
 (Source category: Bystand)
 (Bahaiprayers.net ID: 3134)
+
+
 
 
 
@@ -277,6 +385,8 @@ Aangesien U, o my Here, hulle gelei het na die lewende waters van U genade, verg
 
 
 
+
+
 ## Dagbreek
 
 ### <a id="BH02848"></a> Prayer BH02848 in Afrikaans
@@ -290,6 +400,8 @@ U is, waarlik, die Here en Koning van alle mense, en is magtig oor alle dinge.
 
 (Source category: Dagbreek)
 (Bahaiprayers.net ID: 3140)
+
+
 
 
 
@@ -312,6 +424,8 @@ En toe Hy begeer het om genade en heilsaamheid aan die mense te openbaar, en om 
 (Bahaiprayers.net ID: 3244)
 
 
+
+
 ### <a id="bpn3245"></a> Prayer bpn3245 in Afrikaans
 Hy is God! O weergalose Here! In U almagtige wysheid het U die huwelik aan die volke voorgeskrywe, dat die geslagte van mense op mekaar mag volg in hierdie verganklike wêreld, en dat hulle altyd, solank die wêreld sal voortduur, hulle op die drumpel van U eenheid met diensbaarheid en aanbidding, met begroeting, verering en lof sal besig hou. ,Ek het nie geeste en mense geskape, behalwe dat hulle my behoort te aanbid nie.'1 Trou U dus in die hemel van U genade hierdie twee voëls van die nes van U liefde, en maak hulle die middel om ewigdurende genade aan te trek; sodat uit die verbinding van hierdie twee seë van liefde daar 'n golf van teerhartigheid mag golf en die pêrels van 'n suiwer en fraai kroos op doe oewer van die lewe mag afwerp. ,Hy het die twee seë losgelaat, sodat hulle mekaar ontmoet: Tussen hulle is 'n versperring waaroor hulle nie gaan nie. Watter van julle Here se mildhede sal julle dan ontken? Van elkeen bring Hy groter en kleiner pêrels voort.'
 
@@ -319,6 +433,8 @@ O U Vriendelike Here! Maak dat hierdie huwelik koraal en pêrels voortbring. U i
 
 (Source category: Die Huwelik)
 (Bahaiprayers.net ID: 3245)
+
+
 
 
 
@@ -335,6 +451,8 @@ Almal is maar arm en behoeftig, en U is voorwaar die Alles-Besittende, die Alles
 (Bahaiprayers.net ID: 3160)
 
 
+
+
 ### <a id="bpn3161"></a> Prayer bpn3161 in Afrikaans
 Geloof sy U Naam, o Here my God! Duisternis het op elke land geval, en die magte van onheil het al die nasies omring. Deur hulle gewaar ek, egter, die prag van U wysheid, en onderskei die luister van die lig van U voorsiening.
 
@@ -348,6 +466,8 @@ Magtig is U om te doen wat U behaag. U is, voorwaar, die Hulp in Gevaar, die Sel
 (Bahaiprayers.net ID: 3161)
 
 
+
+
 ### <a id="bpn3157"></a> Prayer bpn3157 in Afrikaans
 O U vriendelike Here! O U Wat vrygewig en genadig is! Ons is die dienaars van U drumpel en het vergader onder die beskuttende skaduwee van U goddelike eenheid. Die son van U genade skyn oor almal, en die wolke van U mildheid stroom op almal neer. U gawes omring almal, U liefderyke voorsienigheid steun almal, U beskerming oorskadu almal, en die blikke van U begunstiging is op almal gerig. O Here! Gee U oneindige skenkings, en laat die lig van u leiding skyn. Verlig die oë, vervrolik die harte met blywende vreugde. Verleen 'n nuwe gees aan alle mense en skenk hulle die ewige lewe. Ontsluit die hekke van ware insig en laat die lig van geloof luisterryk skyn. Versamel al die mense onder die skaduwee van U mildheid en maak dat hulle in harmonie verenig, sodat hulle soos die strale van een son mag word, soos die golwe van een oseaan en soos die vrugte van een boom. Mag hulle van dieselfde fontein drink. Mag hulle deur dieselfde luggie verfris word. Mag hulle verligting ontvang van dieselfde bron van lig. U is die Gewer, die Genadige, die Alvermoënde.
 
@@ -355,11 +475,15 @@ O U vriendelike Here! O U Wat vrygewig en genadig is! Ons is die dienaars van U 
 (Bahaiprayers.net ID: 3157)
 
 
+
+
 ### <a id="bpn3158"></a> Prayer bpn3158 in Afrikaans
 O U medelydende Here, U Wat vrygewig en bekwaam is! Ons is dienaars van U wat onder U voorsiening skuil. Werp U gunstige blik op ons. Gee lig aan ons oë, gehoor aan ons ore, en insig en liefde aan ons harte. Maak ons siele vreugdevol en gelukkig deur U blye tydinge. O Here! Wys vir ons die baan van U koninkryk, en laat ons almal deur die asem van die Heilige Gees herlewe. Verleen die ewige lewe aan ons en ken eindelose eer aan ons toe. Verenig die mensdom eb verlig die wêreld van die mensheid. Mag ons almal U baan volg, verlang na U welbehae en die geheime van U koninkryk soek. O God! Verenig ons en verbind ons harte met U onverbreeklike band. Voorwaar, U is die Skenker, U is die Vriendelike Een en U is die Almagtige.
 
 (Source category: Die Mensdom)
 (Bahaiprayers.net ID: 3158)
+
+
 
 
 ### <a id="bpn3159"></a> Prayer bpn3159 in Afrikaans
@@ -379,6 +503,8 @@ U is die Magtige en Kragtige, U is die Vergewende en U is die Een Wat die tekort
 
 (Source category: Die Mensdom)
 (Bahaiprayers.net ID: 3159)
+
+
 
 
 
@@ -428,6 +554,8 @@ Waarlik, Hy is die Genadige, die Medelydende. Geloof sy God, die Heer van al die
 
 
 
+
+
 ## Die Tafels van Besoeking
 
 ### <a id="bpn3223"></a> Prayer bpn3223 in Afrikaans
@@ -453,6 +581,8 @@ Seën U, o Here my God, die Goddelike Lotusboom en sy blare, en sy takke, en sy 
 (Bahaiprayers.net ID: 3223)
 
 
+
+
 ### <a id="bpn3224"></a> Prayer bpn3224 in Afrikaans
 *Hierdie gebed, deur 'Abdu'l-Bahá geopenbaar, word by Sy Heiligdom gelees. Dit word ook by private gebed gebruik.
 
@@ -475,6 +605,8 @@ U is die Skenker, die Jammerhartige, die Mees Milddadige, die Liefderyke, die Ge
 
 
 
+
+
 ## Die Tafels van die Goddelike Plan
 
 ### <a id="bpn3227"></a> Prayer bpn3227 in Afrikaans
@@ -486,6 +618,8 @@ Werklik, U is die Sterke, die Magtige en die Alvermoënde, en U is die Wyse, die
 
 (Source category: Die Tafels van die Goddelike Plan)
 (Bahaiprayers.net ID: 3227)
+
+
 
 
 ### <a id="bpn3228"></a> Prayer bpn3228 in Afrikaans
@@ -501,6 +635,8 @@ Voorwaar, U is die Bevestiger van wie U ook al wil in dit wat U begeer, en, voor
 (Bahaiprayers.net ID: 3228)
 
 
+
+
 ### <a id="bpn3229"></a> Prayer bpn3229 in Afrikaans
 O God! O God! U sien my swakheid, nederigheid en ootmoedigheid voor U skepsels; nietemin, ek het in U vertrou en het opgestaan in die bevordering van U leer onder U sterk dienaars, en reken op U krag en U mag.
 
@@ -514,6 +650,8 @@ Voorwaar, U is die Sagte, die Kragtige, die Magtige, en die Genadigste van die g
 
 (Source category: Die Tafels van die Goddelike Plan)
 (Bahaiprayers.net ID: 3229)
+
+
 
 
 ### <a id="bpn3230"></a> Prayer bpn3230 in Afrikaans
@@ -545,6 +683,8 @@ Voorwaar, U is die Vrygewigste, die Here van oorvloeiende genade, en, voorwaar, 
 (Bahaiprayers.net ID: 3230)
 
 
+
+
 ### <a id="bpn3231"></a> Prayer bpn3231 in Afrikaans
 O U liefdevolle Here! Lof sy aan U dat U ons die hoofweg van leiding gewys het, die deure van die koninkryk geopen het en Uself geopenbaar het deur die Son van Werklikheid. Aan die blindes het U gesig gegee; aan die dowes het U gehoor vergun; U het die dooies laat herlewe; U het die armes verryk; U het die weg gewys aan diegene wat afgedwaal het; U het diegene wat verdorde lippe gehad het na die fontein van leiding gelei; U het dir dors vis toegelaat om die oseaan van wesenlikheid te bereik; en U het die swerwende voëls na die roostuin van genade genooi.
 
@@ -558,6 +698,8 @@ Voorwaar, U is die Kragtige, die Magtige, die Wyse en die Siende.
 (Bahaiprayers.net ID: 3231)
 
 
+
+
 ### <a id="bpn3232"></a> Prayer bpn3232 in Afrikaans
 O my God! O my God! U sien my in my nederigheid en swakheid, besig met die grootste onderneming, vasberade om U woord onder die massa te verhef en U leer onder U volke te versprei. Hoe kan ek slaag tensy U my bystaan met die asem van die Heilige Gees, my help om te seëvier met die skares van U glorieryke koninkryk, en U bevestiging op my stort wat alleen 'n muggie in 'n arend kan verander, 'n druppel water in riviere en seë, en 'n atoom in ligte en sonne? O my Here! Steun my met U seëvierende en werkdadige mag, sodat my tong U lofsprake en eienskappe onder alle mense mag verkondig, en my siel van die wyn van U liefde en kennis mag oorloop.
 
@@ -565,6 +707,8 @@ U is die Alvermoënde en die Doener van wat ook al U wens.
 
 (Source category: Die Tafels van die Goddelike Plan)
 (Bahaiprayers.net ID: 3232)
+
+
 
 
 ### <a id="bpn3233"></a> Prayer bpn3233 in Afrikaans
@@ -578,6 +722,8 @@ O Here! Ek is swak, versterk my met U krag en vermoë. My tong stamel, laat my t
 (Bahaiprayers.net ID: 3233)
 
 
+
+
 ### <a id="bpn3234"></a> Prayer bpn3234 in Afrikaans
 O God! O God! Hierdie is 'n voël met 'n gebroke vlerk en sy vlug is baie stadig - help hom sodat hy na die toppunt van voorspoed en verlossing kan vlieg, bevleuel sy vlug met die uiterste vreugde en geluk dwarsdeur die grenslose ruimte, verhef sy melodie in U Allerhoogste Naam in alle streke, vervrolik die ore met hierdie stem, en verhelder die oë deur die tekens van leiding te aanskou!
 
@@ -585,6 +731,8 @@ O Here! Ek is alleen, eensaam en nederig. Vir my is daar geen steun buiten U nie
 
 (Source category: Die Tafels van die Goddelike Plan)
 (Bahaiprayers.net ID: 3234)
+
+
 
 
 ### <a id="bpn3235"></a> Prayer bpn3235 in Afrikaans
@@ -598,6 +746,8 @@ Voorwaar, U is die Alkragtige, die Verhewenste, die Altyd-Vergewende, die Algena
 (Bahaiprayers.net ID: 3235)
 
 
+
+
 ### <a id="bpn3236"></a> Prayer bpn3236 in Afrikaans
 O God, my God! U sien hierdie swak een om hemelse sterkte smeek, hierdie arm een verlang na U hemelse skatte, hierdie dors een verlang na die fontein van die ewige lewe, hierdie geteisterde een smag na U beloofde genesing deur middel van U grenslose genade, wat U bestem het vir U verkose dienaars in U koninkryk in die hoogte.
 
@@ -609,6 +759,8 @@ Voorwaar, U is die Kragtige, die Magtige, die Alvermoënde.
 
 (Source category: Die Tafels van die Goddelike Plan)
 (Bahaiprayers.net ID: 3236)
+
+
 
 
 
@@ -653,6 +805,8 @@ Ek smeek U, o my Here, by Uself, en by U tekens, en by U helder kentekens, en by
 (Bahaiprayers.net ID: 3239)
 
 
+
+
 ### <a id="bpn3240"></a> Prayer bpn3240 in Afrikaans
 Lof sy aan U, o Here my God! Ek smeek U by hierdie Openbaring waardeur duisternis in lig verander is, waardeur die dikwels besogte Tempel gebou is, en die Geskrewe Tafel geopenbaar is, en die Uitgespreide Rol blootgelê is, om te laat daal op my en op diegene wat in my geselskap is wat ons sal help om in die hemele van U voortreflike heerlikheid op te sweef, en ons sal reinig van die vlek van sulke twyfelinge as wat die agterdogtiges verhinder het om die tabernakel van U eenheid binne te gaan.
 
@@ -664,6 +818,8 @@ Daar is geen God behalwe U, die Alwetende, die Alwyse. Alle lof sy aan God, die 
 
 (Source category: Die Vas)
 (Bahaiprayers.net ID: 3240)
+
+
 
 
 ### <a id="bpn3241"></a> Prayer bpn3241 in Afrikaans
@@ -687,6 +843,8 @@ Maak U Saak seëvierend, o my Here, en verneder U vyande. Teken dan aan vir ons 
 
 (Source category: Die Vas)
 (Bahaiprayers.net ID: 3241)
+
+
 
 
 ### <a id="bpn3242"></a> Prayer bpn3242 in Afrikaans
@@ -721,6 +879,8 @@ Geloof sy U, o my God, aangesien U ons gehelp het om Hom en by hulle Wat die Dae
 
 
 
+
+
 ## Eenheid
 
 ### <a id="bpn3217"></a> Prayer bpn3217 in Afrikaans
@@ -728,6 +888,8 @@ O my God! O my God! Verenig die harte van U dienaars en openbaar aan hulle U gro
 
 (Source category: Eenheid)
 (Bahaiprayers.net ID: 3217)
+
+
 
 
 ### <a id="bpn3218"></a> Prayer bpn3218 in Afrikaans
@@ -746,6 +908,8 @@ Voorwaar, U is die Almagtige, die Selfbestaande, die Skenker, die Vergewer, die 
 
 
 
+
+
 ## Geestelike Eienskappe
 
 ### <a id="bpn3187"></a> Prayer bpn3187 in Afrikaans
@@ -753,6 +917,8 @@ Skep in my 'n suiwer hart, o my God, en vernuwe in my 'n rustige gewete, o my Ho
 
 (Source category: Geestelike Eienskappe)
 (Bahaiprayers.net ID: 3187)
+
+
 
 
 ### <a id="bpn3188"></a> Prayer bpn3188 in Afrikaans
@@ -764,6 +930,8 @@ Sterk is U om te doen wat U behaag. U is, voorwaar, die Mees Verhewe, die Alglor
 (Bahaiprayers.net ID: 3188)
 
 
+
+
 ### <a id="bpn3189"></a> Prayer bpn3189 in Afrikaans
 O my Here! Maak U prag my voedsel, en U teenwoordigheid my drank, en U welgevalle my hoop, en lof van U my optrede, en aandenking aan U my deelgenoot, en die krag van U oppermag my steun, en U woning my tuiste, en my woonplek die setel wat U heilig gemaak het van die beperkings op hulle gelê deur diegene wat soos deur 'n sluier van U uitegesluit is.
 
@@ -773,6 +941,8 @@ U is, voorwaar, die Almagtige, die Alglorieryke, die Kragtigste.
 (Bahaiprayers.net ID: 3189)
 
 
+
+
 ### <a id="bpn3190"></a> Prayer bpn3190 in Afrikaans
 O my God, die God van mildheid en genade! U is daardie Koning deur Wie se gebiedende woord die hele skepping in die lewe geroep is; en U is daardie Almilddadige Een Wie se dienaars se dade nooit Hom verhinder het om Sy guns te bewys nie, nòg het hulle die openbaringe van Sy mildheid verydel.
 
@@ -780,6 +950,8 @@ Ek smeek U om hierdie dienaar dít te laat bereik wat die oorsaak van sy verloss
 
 (Source category: Geestelike Eienskappe)
 (Bahaiprayers.net ID: 3190)
+
+
 
 
 ### <a id="bpn3191"></a> Prayer bpn3191 in Afrikaans
@@ -793,6 +965,8 @@ U is, voorwaar, deur die krag van U opperwese, die Hulp in Gevaar. Geen God is d
 (Bahaiprayers.net ID: 3191)
 
 
+
+
 ### <a id="bpn3192"></a> Prayer bpn3192 in Afrikaans
 Hy is die Barmhartige, die Almilddadige!
 
@@ -804,6 +978,8 @@ Here! Keer my nie weg van die oseaan van U rykdom en van die hemel van U genade 
 
 (Source category: Geestelike Eienskappe)
 (Bahaiprayers.net ID: 3192)
+
+
 
 
 ### <a id="bpn3193"></a> Prayer bpn3193 in Afrikaans
@@ -823,6 +999,8 @@ U is voorwaar die Almagtige, die Vergewer, die Medelydende.
 (Bahaiprayers.net ID: 3193)
 
 
+
+
 ### <a id="bpn3194"></a> Prayer bpn3194 in Afrikaans
 O God! Verkwik en verbly my gees. Reinig my hart. Verlig my vermoë. Ek lê al my sake in U hand. U is my Gids en my Toevlug. Ek sak nie langer treurig en bedroef wees nie; ek sal bly en gelukkig wees. O God! Ek sal nie langer vol angs wees nie en ek sal my nie laat kwel deur moeilikhede nie. Ek sal nie stilstaan by die onaangename dinge van die lewe nie.
 
@@ -832,6 +1010,8 @@ O God! U is meer 'n vriend teenoor my as wat ek teenoor myself is. Ek wy my toe 
 
 (Source category: Geestelike Eienskappe)
 (Bahaiprayers.net ID: 3194)
+
+
 
 
 ### <a id="bpn3195"></a> Prayer bpn3195 in Afrikaans
@@ -847,11 +1027,15 @@ Voorwaar, U is genadig en, voorwaar, U is die Vrygewigste, Wie se hulp deur alle
 (Bahaiprayers.net ID: 3195)
 
 
+
+
 ### <a id="bpn3196"></a> Prayer bpn3196 in Afrikaans
 O my Here! O my Here! Hierdie is 'n lamp wat deur die vuur van U liefde aangesteek is en wat brand met die vlam wat in die boom van U genade ontbrand het. O my Here! Vermeerder sy ontvlamming, hitte en vlam, met die vuur wat in die Sinaï van U Openbaarwording aangesteek is. Voorwaar, U is die Bevestiger, die Helper, die Kragtige, die Vrygewige, die Liefhebbende.
 
 (Source category: Geestelike Eienskappe)
 (Bahaiprayers.net ID: 3196)
+
+
 
 
 ### <a id="bpn3197"></a> Prayer bpn3197 in Afrikaans
@@ -861,6 +1045,8 @@ Voorwaar, U is die Vrygewigste, die Here van oorvloedige genade. Daar is geen an
 
 (Source category: Geestelike Eienskappe)
 (Bahaiprayers.net ID: 3197)
+
+
 
 
 ### <a id="bpn3198"></a> Prayer bpn3198 in Afrikaans
@@ -877,6 +1063,8 @@ O Here, my God! Nederig is hierdie dienaars van U, verhef hulle met U opperste m
 
 
 
+
+
 ## Geestelike Raad
 
 ### <a id="bpn3237"></a> Prayer bpn3237 in Afrikaans
@@ -886,6 +1074,8 @@ O God, my God! Ons is dienaars van U wat met toewyding na U heilige Aangesig gek
 
 (Source category: Geestelike Raad)
 (Bahaiprayers.net ID: 3237)
+
+
 
 
 ### <a id="bpn3238"></a> Prayer bpn3238 in Afrikaans
@@ -904,6 +1094,8 @@ Voorwaar, U is die Vrygewige, die Barmhartige, U is die Besitter van groot mildh
 
 
 
+
+
 ## Genesing
 
 ### <a id="bpn3153"></a> Prayer bpn3153 in Afrikaans
@@ -915,11 +1107,15 @@ U sien, o my Here, U smekeling wag by die deur van U mildheid, en hom wat sy hoo
 (Bahaiprayers.net ID: 3153)
 
 
+
+
 ### <a id="bpn3154"></a> Prayer bpn3154 in Afrikaans
 U naam is my genesing, o my God, en aandenking aan U is my geneesmiddel. Nabyheid aan U is my hoop, en liefde vir U is my metgesel. U genade aan my is my genesing en my steun sowel in hierdie wêreld as in die komende. U is voorwaar die Almilddadige, die Alwetende, die Alwyse.
 
 (Source category: Genesing)
 (Bahaiprayers.net ID: 3154)
+
+
 
 
 ### <a id="bpn3155"></a> Prayer bpn3155 in Afrikaans
@@ -933,6 +1129,8 @@ U is waarlik die Here van hierdie lewe en van die aankomende. U is, in der waarh
 (Bahaiprayers.net ID: 3155)
 
 
+
+
 ### <a id="bpn3156"></a> Prayer bpn3156 in Afrikaans
 Glorie sy aan U, o Here my God! Ek smeek U by U Naam, waardeur U die vaandels van U leiding omhoog gehef het, en die glans van U vriendelike goedheid uitgestraal het, en die oppermag van U Heerskappy bekend gemaak het; waardeur die lamp van U name binne die nis van U eienskappe verskyn het, en Hy Wat die Tabernakel van U eenheid en die Openbaring van afgetrokkenheid is, voortgeskyn het; waardeur die weë van U leiding bekend gemaak is, en die paaie van U welbehae afgemerk is; waardeur die fondamente van afwyking laat bewe is, en die tekens van slegtigheid afgeskaf is; waardeur die fonteine van wysheid uitgebars het, en die hemelse tafel daal is; waardeur U U dienaars bewaar het en U genesing toegestaan het; waardeur U U barmhartighede aan U dienaars bewys het en U vergifnis onder U skepsels bekend gemaak het - ek smeek U om hom veilig te bewaar wat vasgehou het en na U teruggekom het, en U genade omklem het, en die soom van U liefderyke voorsorg gegryp het. Laat dan U genesing op hom daal, en maak hom heel, en beklee hom met 'n standvastigheid deur U vergun, en 'n gerustheid deur U hoogheid verleen.
 
@@ -940,6 +1138,8 @@ U is, voorwaar, die Geneser, die Bewaarder, die Helper, die Almagtige, die Kragt
 
 (Source category: Genesing)
 (Bahaiprayers.net ID: 3156)
+
+
 
 
 
@@ -952,6 +1152,8 @@ O God, lei my, beskerm my, verlig die lamp van my hart, en maak my 'n skitterend
 (Bahaiprayers.net ID: 3135)
 
 
+
+
 ### <a id="bpn3136"></a> Prayer bpn3136 in Afrikaans
 O U suiwere God! Ek is 'n klein kind; gee dat die bors van U vriendelike goedheid dié bors mag wees wat ek bemin; laat my gevoed wees met die boesem van U kennis, en verleen my edelheid en wysheid terwyl ek nog 'n kind is.
 
@@ -959,6 +1161,8 @@ O U die Selfvoldoende God! Maak my 'n vertroude van die Koninkryk van die Ongesi
 
 (Source category: Kinders)
 (Bahaiprayers.net ID: 3136)
+
+
 
 
 ### <a id="bpn3137"></a> Prayer bpn3137 in Afrikaans
@@ -972,6 +1176,8 @@ Voorwaar, U is die Sterke, die Magtige, die Siener, die Hoorder.
 (Bahaiprayers.net ID: 3137)
 
 
+
+
 ### <a id="bpn3138"></a> Prayer bpn3138 in Afrikaans
 O God! Voed hierdie kinders op. Hierdie kinders is die plante van U boord, die blomme van U weiveld, die rose van U tuin. Laat U luggie hulle verfris sodat hulle mag opgelei word, groei en ontwikkel en in die uiterste prag verskyn. U is die Gewer. U is die Medelydende.
 
@@ -979,11 +1185,15 @@ O God! Voed hierdie kinders op. Hierdie kinders is die plante van U boord, die b
 (Bahaiprayers.net ID: 3138)
 
 
+
+
 ### <a id="bpn3139"></a> Prayer bpn3139 in Afrikaans
 O God! Maak hierdie klein Bába groot in die boesem van U liefde en gee dit melk van die bors van U Voorsienigheid. Kweek hierdie fris plant in die roostuin van U en help dit om deur die buie van U milddadigheid te groei. Maak dit 'n kind van die Koninkryk en lei dit na die ryk van U hemel. U is sterk en vriendelik, en U is die Skenker, die Vrygewige, die Here van alles-oortreffende milddadigheid.
 
 (Source category: Kinders)
 (Bahaiprayers.net ID: 3139)
+
+
 
 
 
@@ -1004,6 +1214,8 @@ Daar is geen ander God buiten U nie, die Hulp in Gevaar, die Selbestaande.
 
 (Source category: Kort verpligte gebed)
 (Bahaiprayers.net ID: 3221)
+
+
 
 
 
@@ -1079,6 +1291,8 @@ Ek getuig, o my God, van dit waarvan U Verkorenes getuig het, en erken dit wat d
 
 
 
+
+
 ## Lof en Dankbaarheid
 
 ### <a id="bpn3169"></a> Prayer bpn3169 in Afrikaans
@@ -1092,6 +1306,8 @@ U is die God van krag, van heerlikheid en mildheid. Geen God is daar behalwe U n
 (Bahaiprayers.net ID: 3169)
 
 
+
+
 ### <a id="bpn3170"></a> Prayer bpn3170 in Afrikaans
 Alle lof, o my God, sy aan U Wat die Bron van alle glorie en majesteit is, van grootheid en eer, van oppermag en heerskappy, van verhewenheid en welwillendheid, van ontsag en mag. Wie U ook al wil maak U om tot die Allergrootste Oseaan te nader, en aan wie U ook al begeer, verleen U die eer van herkenning van U Alleroudste Naam. Van almal wat in die hemel en op aarde is, kan geeneen die werking van U oppermagtige Wil weerstaan nie. Van alle ewigheid af het U die hele skepping regeer, en U sal vir ewig aanhou om U heerskappy oor alle geskape dinge uit te oefen. Daar is geen ander God behalwe U nie, die Almagtige, die Mees Verhewe, die Kragtigste, die Alwyse.
 
@@ -1101,6 +1317,8 @@ Verlig, o Here, die aangesigte van U dienaars, dat hulle U mag aanskou; en reini
 (Bahaiprayers.net ID: 3170)
 
 
+
+
 ### <a id="bpn3171"></a> Prayer bpn3171 in Afrikaans
 Verheerlik sy U, o Here my God! Ek gee U dank dat U my in staat gestel het om die Openbaarwording van Uself te herken, en dat U my van U vyande afgesny het, en voor my oë hulle misdade en bose werke in U dae blootgelê het, en my van alle gehegtheid aan hulle onstlae gemaak het, en my geheel na U genade en milddadige gunsbewyse laat wend het. Ek betuig U ook dank, dat U uit die wolke van U wil, dit op my laat daal het wat my só geheilig het van die wenke van die ongelowiges en die sinspelings van die dwalers, dat ek my hart stewig aan U vasgeheg het, en van diegene wat die lig van U gelaat ontken het gevlug het. Weer eens dank ek U dat U my in staat gestel het om standvastig in U liefde te wees, en om U roem uit te spreek en U deugde te loof, en dat U my van die beker van U genade, wat alle sigbare en onsigbare dinge oortref, te drinke gegee het.
 
@@ -1108,6 +1326,8 @@ U is die Almagtige, die Mees Verhewe, die Alglorieryke, die Alles-Liefhebbende.
 
 (Source category: Lof en Dankbaarheid)
 (Bahaiprayers.net ID: 3171)
+
+
 
 
 ### <a id="bpn3172"></a> Prayer bpn3172 in Afrikaans
@@ -1123,6 +1343,8 @@ Alle lof en glorie sy aan U, U van Wie alle dinge getuig het dat U een is en dat
 (Bahaiprayers.net ID: 3172)
 
 
+
+
 ### <a id="bpn3173"></a> Prayer bpn3173 in Afrikaans
 God getuig van die eenheid van Sy Godheid en van die enkelvoudigheid van Sy eie Wese. Op die troon van die ewigheid, uit die onbereikbare hoogtes van Sy stand, roep Sy tong uit dat daar geen ander God behalwe Hom is nie. Hy self, onafhanklik van alle andere, was altyd 'n getuie gewees van Sy eenheid, die bekendmaker van Sy eie natuur, die verheerliker van Sy eie wese. Hy is, voorwaar, die Alsterke, di Almagtige, die Skone.
 
@@ -1130,6 +1352,8 @@ Hy is oppermagtig oor Sy dienaars, en staan oor Sy skepsels. In Sy hand is die o
 
 (Source category: Lof en Dankbaarheid)
 (Bahaiprayers.net ID: 3173)
+
+
 
 
 
@@ -1175,6 +1399,8 @@ Ek getuig van U eenheid en U enkelvoudigheid, en dat U God is, en dat daar geen 
 
 
 
+
+
 ## Naw Rúz
 
 ### <a id="bpn3243"></a> Prayer bpn3243 in Afrikaans
@@ -1197,6 +1423,8 @@ U is in der waarheid die Alwetende, die Alwyse.
 
 
 
+
+
 ## Oggend
 
 ### <a id="bpn3166"></a> Prayer bpn3166 in Afrikaans
@@ -1206,6 +1434,8 @@ Ek het onder U beskutting ontwaak, o my God, en dit pas hom wat daardie beskutti
 (Bahaiprayers.net ID: 3166)
 
 
+
+
 ### <a id="bpn3167"></a> Prayer bpn3167 in Afrikaans
 Ek het vanoggend deur U genade opgestaan, o my God, het my huis verlaat, vol vertroue in U, en het myself toevertrou aan U sorg. Laat daal dan uit die hemel van U genade, 'n seën van U sy op my en stel my in staat om terug te keer huistoe, net soos U my in staat gestel het om onder U beskerming uit te gaan, met my gedagtes standvastig op U gevestig.
 
@@ -1213,6 +1443,8 @@ Daar is geen ander God buiten U, die Enige, die Onvergelyklike, die Alwetende, d
 
 (Source category: Oggend)
 (Bahaiprayers.net ID: 3167)
+
+
 
 
 ### <a id="bpn3168"></a> Prayer bpn3168 in Afrikaans
@@ -1231,6 +1463,8 @@ U stel niemand teleur wat U gesoek het nie, nòg hou U terug van U iemand wat U 
 
 
 
+
+
 ## Onderrig
 
 ### <a id="bpn3204"></a> Prayer bpn3204 in Afrikaans
@@ -1246,6 +1480,8 @@ U is, voorwaar, die Allerkragtigste, die Allerhoogste, die Alwetende, die Alwyse
 (Bahaiprayers.net ID: 3204)
 
 
+
+
 ### <a id="bpn3205"></a> Prayer bpn3205 in Afrikaans
 Lof sy aan U, o Here van die wêreld en die Begeerte van die nasies, o U Wat in die Grootste Naam openbaar geword het, waardeur die pêrels van wysheid en uitspraak uit die skulpe van die groot see van U kennis te voorskyn gekom het, en die hemele van goddelike openbaring met die lig van die verskyning van die son van U gelaat versier is.
 
@@ -1257,6 +1493,8 @@ Ek smeek U, o U die Koning van bestaan en die Beskermer van die gesiene en die o
 
 (Source category: Onderrig)
 (Bahaiprayers.net ID: 3205)
+
+
 
 
 ### <a id="bpn3206"></a> Prayer bpn3206 in Afrikaans
@@ -1273,6 +1511,8 @@ U is, in der waarheid, die God van sterkte en krag, vir Wie dit passend is om di
 
 
 
+
+
 ## Standvastigheid
 
 ### <a id="BH08604"></a> Prayer BH08604 in Afrikaans
@@ -1284,6 +1524,8 @@ U is, voorwaar, die God van Krag, die Hulp in Gevaar, die Alroemryke, die Almagt
 
 (Source category: Standvastigheid)
 (Bahaiprayers.net ID: 3199)
+
+
 
 
 ### <a id="bpn3200"></a> Prayer bpn3200 in Afrikaans
@@ -1305,11 +1547,15 @@ Ek vra U, o Here van alle bestaan en Koning van die gesiene en die ongesiene, by
 (Bahaiprayers.net ID: 3200)
 
 
+
+
 ### <a id="bpn3201"></a> Prayer bpn3201 in Afrikaans
 O Here my God! Help U geliefdes om onwankelbaar in U Geloof te wees, om in U weë te wandel, om standvastig in U Saak te wees. Gee hulle U genade om die aanvalle van self en hartstog te weerstaan, en om die lig van goddelike leiding te volg. U is die Sterkem die Genadige, die Selfbestaande, die Skenker, die Medelydende, die Almagtige, die Algoedertierende.
 
 (Source category: Standvastigheid)
 (Bahaiprayers.net ID: 3201)
+
+
 
 
 ### <a id="bpn3202"></a> Prayer bpn3202 in Afrikaans
@@ -1323,6 +1569,8 @@ U is die Vryspreker, die Genadige.
 (Bahaiprayers.net ID: 3202)
 
 
+
+
 ### <a id="bpn3203"></a> Prayer bpn3203 in Afrikaans
 O medelydende God! Dank su aan U want U het my wakker en bewus gemaak. U het my 'n siende oog gegee en my begunstig met 'n horende oor, en het my na U koninkryk en na U weg gelei. U het my die regte weg gewys en my die ark van bevryding laat binnegaan. O God! Hou my standvastig en maak my stewig en trou. Beskerm my teen geweldige toetse en behou en beskut my in die kragtig versterkte vesting van U Verbond en Testament. U is die Magtige. U is die Siende. U is die Horende.
 
@@ -1332,6 +1580,8 @@ U is die Medelydende, die Genadige. U is die Groot, Heilsame God.
 
 (Source category: Standvastigheid)
 (Bahaiprayers.net ID: 3203)
+
+
 
 
 
@@ -1350,6 +1600,8 @@ Geen God is daar behalwe U nie, die Almagtige, die Alwyse.
 (Bahaiprayers.net ID: 3225)
 
 
+
+
 ### <a id="bpn3226"></a> Prayer bpn3226 in Afrikaans
 Hy is die Magtige, die Vryspreker, die Medelydende!
 
@@ -1361,6 +1613,8 @@ Verorden vir my, by U mildheid, o Here, dit wat my in hierdie wêreld en hierná
 
 (Source category: Standvastigheid in die Verbond)
 (Bahaiprayers.net ID: 3226)
+
+
 
 
 
@@ -1377,6 +1631,8 @@ En, ten slotte smeek ek U by die lig van U gelaat om my sake te seën, en my sku
 (Bahaiprayers.net ID: 3207)
 
 
+
+
 ### <a id="BH05071"></a> Prayer BH05071 in Afrikaans
 Geprys en verheerlik word U, o my God! Ek smeek U by die sugtinge van U liefhebbers en by die trane deur diegene vergiet wat verlang om U te sien, om nie U tere genade van my in U Dag weg te hou nie, nòg my die melodieë te ontneem van die Duif wat U eenheid loof voor die lig wat van U aangesig skyn. Ek is die een wat in ellende is, o God! Aanskou my, ek hou vas aan U Naam, die Alles-Besittende. Ek is die een wat sekerlik sal vergaan; aanskou my ek kleef vas aan U Naam, die Onverganklike. Ek smeek U dus, by U Self, die Verhewene, die Allerhoogste, om my nie aan my self en aan die begeertes van 'n bedorwe neiging oor te gee nie. Hou U my hand met die hand van U krag, en verlos my uit die dieptes van my versinsels en ydele inbeeldings, en reinig my van alles wat vir U afstootlik is.
 
@@ -1386,11 +1642,15 @@ Laat my dan geheel en al na U keer, om my hele vertroue in U te plaas, om U as m
 (Bahaiprayers.net ID: 3208)
 
 
+
+
 ### <a id="bpn3209"></a> Prayer bpn3209 in Afrikaans
 O U Wie se toetse 'n genesende medisyne is vir diegene wat naby U is, Wie se swaard die vurige begeerte is van almal wat U liefhet, Wie se pyl die dierbaarste wens is van daardie harte wat na U verlang, Wie se verordening die enigste hoop is van diegene wat U waarheid herken het! Ek smeek U, by U goddelike soetheid en by die luister van die heerlikheid van U gelaat, om uit U skuilplekke in die hoogte dit op ons te laat daal wat ons in staat sal stel om tot U te nader. Plaas dan, o my God, ons voete stewig in U Saak, en verlig ons harte met die glans van U kennis, en verlig ons borste met die helderheid van U name.
 
 (Source category: Toetse en Moeilikhede)
 (Bahaiprayers.net ID: 3209)
+
+
 
 
 ### <a id="bpn3210"></a> Prayer bpn3210 in Afrikaans
@@ -1406,6 +1666,8 @@ Sterk is U om te doen wat U behaag. Daar is geen God behalwe U nie, die Hulp in 
 (Bahaiprayers.net ID: 3210)
 
 
+
+
 ### <a id="bpn3211"></a> Prayer bpn3211 in Afrikaans
 Verheerlik word U, o Here my God! Elke mens van insig bely U oppermag en U heerskappy, en elke oordeelkundige oog gewaar die grootheid van U majesteit en die gebiedende sterkte van U mag. Die toetswinde is magteloos om diegene wat nabye toegang tot U geniet terug te hou daarvan om hulle gesigte na die horison van U heerlikheid te rig, en die stormwinde van beproewinge moet faal om diegene wat geheel aan U wil toegewy is, weg te trek en te verhinder om U voorhof te nader.
 
@@ -1417,6 +1679,8 @@ Ek smeek U, o my God, by hulle en by die sugte wat hulle harte in hulle afskeidi
 (Bahaiprayers.net ID: 3211)
 
 
+
+
 ### <a id="bpn3212"></a> Prayer bpn3212 in Afrikaans
 Is daar enige Verwyderaar van moeilikhede buiten God? Sê: Geloof sy God! Hy is God! Almal is Sy dienaars en almal berus in Sy gebod.
 
@@ -1424,11 +1688,15 @@ Is daar enige Verwyderaar van moeilikhede buiten God? Sê: Geloof sy God! Hy is 
 (Bahaiprayers.net ID: 3212)
 
 
+
+
 ### <a id="bpn3213"></a> Prayer bpn3213 in Afrikaans
 Sê: God is voldoende vir alles bo alles, en niks in die hemele of op aarde maar God is voldoende nie. Voorwaar, Hy is in Homself, die Kenner, die Onderhouer, die Almagtige.
 
 (Source category: Toetse en Moeilikhede)
 (Bahaiprayers.net ID: 3213)
+
+
 
 
 ### <a id="bpn3214"></a> Prayer bpn3214 in Afrikaans
@@ -1440,6 +1708,8 @@ Beskut onder U beskerming, o U Gees van suiwerheid, U die Algoeie Versorger, hie
 
 (Source category: Toetse en Moeilikhede)
 (Bahaiprayers.net ID: 3214)
+
+
 
 
 ### <a id="bpn3215"></a> Prayer bpn3215 in Afrikaans
@@ -1469,11 +1739,15 @@ U is, in alle waarheid, die Genadige, die Verheerlikte, die Magtige, die Alvermo
 (Bahaiprayers.net ID: 3215)
 
 
+
+
 ### <a id="bpn3216"></a> Prayer bpn3216 in Afrikaans
 O my Here, my Beminde, my Begeerte! Betoon vriendskap aan my in my eensaamheid en vergesel my in my ballingskap. Verwyder my verdriet. Laat my aan U prag toegewy wees. Onttrek my aan alles behalwe U. Trek my aan deur middel van U geure van heiligheid. Maak dat ek in U koninkryk met diegene verbonde is wat van alles behalwe U afgesonder is, wat verlang om U heilige drumpel te dien en wat te werke staan in U Saak. Stel my in staat om een van U diensmaagde te wees wat U welbehae bereik het. Voorwaar, U is die Genadige, die Milddadige.
 
 (Source category: Toetse en Moeilikhede)
 (Bahaiprayers.net ID: 3216)
+
+
 
 
 
@@ -1492,6 +1766,8 @@ O God! Skenk ons U voorsienigheid. U is die Sterke. U is die Gewer. U is die Lie
 (Bahaiprayers.net ID: 3162)
 
 
+
+
 ### <a id="bpn3163"></a> Prayer bpn3163 in Afrikaans
 O U vriendelike Here! Hierdie is U dienaars wat in hierdie vergadering bymekaar gekom het, na U Koninkryk gekeer het en behoefte het aan U skenking en seëning. O U God! Openbaar en maak die tekens van U eenheid duidelik wat neergelê is in al die werklikhede van die lewe. Onthul en ontvou die deugde wat U in hierdie menslike werklikhede verberg en versteek het.
 
@@ -1503,6 +1779,8 @@ U is magtig. U is kragtig. U is die Skenker, en U is die Altoos-Milddadige.
 (Bahaiprayers.net ID: 3163)
 
 
+
+
 ### <a id="bpn3164"></a> Prayer bpn3164 in Afrikaans
 O my God! O my God! Voorwaar, hierdie dienaars keer na U toe, en smeek U koninkryk van genade. Voorwaar, hulle is aangetrokke deur U heiligheid en gloeiend gemaak deur die vuur van U liefde, soek bevestiging van U wonderbaarlike koninkryk, en hoop op die bereiking van U hemelse ryk. Voorwaar, hulle verlang na die afdaling van U skenking, en begeer verligting van die Son van Werklikheid. O Here! Maak hulle stralende lampe, barmhartige tekens, vrugbare bome en skynende sterre. Mag hulle in U diens te voorskyn kom en met U verbonde wees met die bande en knope van U liefde, en verlang na die ligte van U begunstiging. O Here! Maak hulle tekens van voorligting, standaarde van U onsterflike koningkryk, golwe van die see van U genade, spieëls van die lig van U majesteit.
 
@@ -1510,6 +1788,8 @@ Voorwaar, U is die Vrygewige. Voorwaar, U is die Genadige. Voorwaar, U is die Ko
 
 (Source category: Vergaderings)
 (Bahaiprayers.net ID: 3164)
+
+
 
 
 ### <a id="bpn3165"></a> Prayer bpn3165 in Afrikaans
@@ -1528,6 +1808,8 @@ U is die Magtige, die Alvermoënde, die Genadige, en U is die Vrygewige, die Lie
 
 
 
+
+
 ## Vergifnis
 
 ### <a id="bpn3148"></a> Prayer bpn3148 in Afrikaans
@@ -1541,6 +1823,8 @@ Daar is niemand, o my Here, wat milddadig met my kan handel aan wie ek my gelaat
 (Bahaiprayers.net ID: 3148)
 
 
+
+
 ### <a id="bpn3149"></a> Prayer bpn3149 in Afrikaans
 Ek is hy, o me Here, wat sy aangesig teenoor U gerig het, en sy hoop op die wonders van U genade en die openbaringe van U mildheid gevestig het. Ek bid U dat U nie sal duld dat ek teleurgesteld van die deur van U genade sal wegdraai nie, en my ook nie aan diegene van U skepsels wat U Saak ontken het, sal oorlaat nie.
 
@@ -1550,11 +1834,15 @@ Ek is, o my God, U dienaar en die seun van U dienaar. Ek het U waarheid in U dae
 (Bahaiprayers.net ID: 3149)
 
 
+
+
 ### <a id="bpn3150"></a> Prayer bpn3150 in Afrikaans
 U sien my, O my Here, met my aangesig na die hemel van U mildheid en na die oseaan van U begunstiging gewend, onttrek aan alles behalwe U. Ek smeek U, by die prag van die Son van U openbaring op Sinaï, en die luister van die Sfeer van U genade wat skyn uit die horison van U Naam, die Altyd-Vergewende, om my ontferming oor my te hê. Skryf neer, dan, vir my met U pen van glorie dit wat my deur U Naam in die wêreld van die skepping sal verhef. Helpy my, o my Here, om my na U in te stel, en om na die stem van U bemindes te luister, wat die magte van die wêreld gefaal het om van U te weerhou, en wat, na U vooruitgaande, gesê het: "God is onse Here, die Here van al dié wat in die hemel en wat op aarde is!"
 
 (Source category: Vergifnis)
 (Bahaiprayers.net ID: 3150)
+
+
 
 
 ### <a id="bpn3151"></a> Prayer bpn3151 in Afrikaans
@@ -1568,11 +1856,15 @@ Vergewe, dan o my Here, U diensknegte en U diensmaagde. U is werklik die Altyd-V
 (Bahaiprayers.net ID: 3151)
 
 
+
+
 ### <a id="bpn3152"></a> Prayer bpn3152 in Afrikaans
 O U vergewende Here! U is die skuilplek van al hierdie U diensknegte. U ken die geheime en is bewus van alle dinge. Ons is almal hulpeloos, en U is die Magtige, die Alvermoënde. Ons is almal sondaars, en U is die Vergewer van sondes, die Barmhartige, die Medelydende. O Here, kyk nie na ons tekortkominge nie. Handel met ons volgens U genade en mildheid. Ons tekortkominge is veel, maar die oseaan van U vergifnis is grensloos. Ons swakheid is ernstig, maar die bewyse van U hulp en steun is duidelik. Bevestig en versterk ons derhalwe. Stel ons in staat om dít te doen wat U heilige Drumpel waardig is. Verlig ons harte, skenk ons skerpsinnige oë en aandagtige ore. Laat die dooies herlewe en genees die siekes. Verleen rykdom aan die armes en gee vrede en beveiliging aan die vreesagtiges. Neem ons op in U koninkryk en verlig ons met die lig van leiding. U is die Sterke en die Alvermoënde. U is die Vrygewige. U is die Sagte. U is die Goedige.
 
 (Source category: Vergifnis)
 (Bahaiprayers.net ID: 3152)
+
+
 
 
 
@@ -1587,6 +1879,8 @@ Verheerlik, oneindig verheerlik sy U! U word in U waarheid aanbid, en U, voorwaa
 
 (Source category: Vir die Heengeganes)
 (Bahaiprayers.net ID: 3142)
+
+
 
 
 ### <a id="bpn3143"></a> Prayer bpn3143 in Afrikaans
@@ -1616,6 +1910,8 @@ Daar is geen ander God behalwe U nie, die Een, dier Enige, die Magtige, die Alwe
 (Bahaiprayers.net ID: 3143)
 
 
+
+
 ### <a id="bpn3144"></a> Prayer bpn3144 in Afrikaans
 O my God! O U de vergewer van sondes, skenker van gawes, verdrywer van smart!
 
@@ -1625,6 +1921,9 @@ O my Here! Reinig hulle van oortredinge, verdryf hulle verdriet en verander hull
 
 (Source category: Vir die Heengeganes)
 (Bahaiprayers.net ID: 3144)
+
+
+
 
 
 

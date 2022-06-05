@@ -3,6 +3,40 @@ title = "Hiri Motu"
 tags = ['lang=ho', 'prayerbook']
 +++
 
+
+
+[BAHÁ’Í TORETORE HELAGADIA HAIDA](#BAHÁ’Í TORETORE HELAGADIA HAIDA)
+
+[DABAI GURIGURI](#DABAI GURIGURI)
+
+[DINA IBOUNAI KARAIA GURIGURI KWADOGINA](#DINA IBOUNAI KARAIA GURIGURI KWADOGINA)
+
+[DIRAVA ENA HEDURU GURIGURI](#DIRAVA ENA HEDURU GURIGURI)
+
+[DIRAVA HANAMOA GURIGURI](#DIRAVA HANAMOA GURIGURI)
+
+[EREGABE TAUDIA EDIA GURIGURI](#EREGABE TAUDIA EDIA GURIGURI)
+
+[GINI AUKA DIRAVA ENA MISINI DEKENAI](#GINI AUKA DIRAVA ENA MISINI DEKENAI)
+
+[GORERE HANAMOA GURIGURI](#GORERE HANAMOA GURIGURI)
+
+[HANUABOI GURIGURI](#HANUABOI GURIGURI)
+
+[KEKENI TAUDIA EDIA GURIGURI](#KEKENI TAUDIA EDIA GURIGURI)
+
+[LAUMA HATUBUA GURIGURI](#LAUMA HATUBUA GURIGURI)
+
+[MAOROMAORO KARA ENA GURIGURI](#MAOROMAORO KARA ENA GURIGURI)
+
+[NATUDIA EDIA GURIGURI](#NATUDIA EDIA GURIGURI)
+
+[TAMADIA BONA SINADIA EDIA GURIGURI](#TAMADIA BONA SINADIA EDIA GURIGURI)
+
+[TAUNIMANIMA HATAMONAIA GURIGURI](#TAUNIMANIMA HATAMONAIA GURIGURI)
+
+
+
 ## BAHÁ’Í TORETORE HELAGADIA HAIDA
 
 ### <a id="bpn13049"></a> Prayer bpn13049 in Hiri Motu
@@ -12,11 +46,15 @@ Tanobada hanamoa dalana be goevagoeva kara namodia bona hegeregere karadia karai
 (Bahaiprayers.net ID: 13049)
 
 
+
+
 ### <a id="bpn13050"></a> Prayer bpn13050 in Hiri Motu
 Naria Bahá taunimanima e!  umui ese taunimanima haida, daika be edia hereva bona edia kara be ia idau, edia mauri dalana dekenai umui abia raka lao garina.
 
 (Source category: BAHÁ’Í TORETORE HELAGADIA HAIDA)
 (Bahaiprayers.net ID: 13050)
+
+
 
 
 ### <a id="bpn13051"></a> Prayer bpn13051 in Hiri Motu
@@ -27,11 +65,15 @@ Dina ta ta dekenai oi karaia kara oi lalodia, badina gabeai oiemu kara gwaurai h
 (Bahaiprayers.net ID: 13051)
 
 
+
+
 ### <a id="bpn13052"></a> Prayer bpn13052 in Hiri Motu
 Gwau, varavara e! Umuiemui herahera gaudia be kara namodia amo umui karaia, hervahereva amo umui karaia lasi.
 
 (Source category: BAHÁ’Í TORETORE HELAGADIA HAIDA)
 (Bahaiprayers.net ID: 13052)
+
+
 
 
 ### <a id="bpn13053"></a> Prayer bpn13053 in Hiri Motu
@@ -41,11 +83,15 @@ Hereva helagadia bona kara namodia be ia daekau lao Dirava ena mai hairai gubana
 (Bahaiprayers.net ID: 13053)
 
 
+
+
 ### <a id="bpn13054"></a> Prayer bpn13054 in Hiri Motu
 Umuiemui malana umui hahenamolaia, taunimanima e! hereva momokani dekenai bona emui laumadia be maoroamaoro kara dekenai, umui haheraheraia.
 
 (Source category: BAHÁ’Í TORETORE HELAGADIA HAIDA)
 (Bahaiprayers.net ID: 13054)
+
+
 
 
 ### <a id="bpn13055"></a> Prayer bpn13055 in Hiri Motu
@@ -55,11 +101,15 @@ Ia namo bema oiemu matana be goevagoeva, oiemu imana be mai abidadama, oiemu mal
 (Bahaiprayers.net ID: 13055)
 
 
+
+
 ### <a id="bpn13056"></a> Prayer bpn13056 in Hiri Motu
 Daika be Dirava ena palai ruma dekenai idia noho, bona idia helai, hanaihanai noho hairai gabuna latanai be do idia ura lasi, ena be hitolo ese ia hamasedia totona, imana idia atoa edia badibadi noho tauna ena kohu idia henaoa karaia, ena be edia badibadi noho tauna be anina lasi bona kara dika rohoroho tauna neganai.
 
 (Source category: BAHÁ’Í TORETORE HELAGADIA HAIDA)
 (Bahaiprayers.net ID: 13056)
+
+
 
 
 ### <a id="bpn13057"></a> Prayer bpn13057 in Hiri Motu
@@ -69,11 +119,15 @@ Mai hebogahisihisi malana be auri ia veria mai gauna bamona, do taunimanima ena 
 (Bahaiprayers.net ID: 13057)
 
 
+
+
 ### <a id="bpn13058"></a> Prayer bpn13058 in Hiri Motu
 Gau ta inai Dina dekenai be hegeregere lasi Dirava ena Misini do ia hadikaia, to heatu, hepapahuahu, heiriheiri kara bona hesiku karadia Dirava ena lalokau taudia lalonai ia noho ese Dirava ena Misini do ia hadikaia diba.
 
 (Source category: BAHÁ’Í TORETORE HELAGADIA HAIDA)
 (Bahaiprayers.net ID: 13058)
+
+
 
 
 ### <a id="bpn13059"></a> Prayer bpn13059 in Hiri Motu
@@ -83,11 +137,15 @@ Gau ta inai Dina dekenai be hegeregere lasi Dirava ena Misini do ia hadikaia, to
 (Bahaiprayers.net ID: 13059)
 
 
+
+
 ### <a id="bpn13060"></a> Prayer bpn13060 in Hiri Motu
 Oi sibona danu be kara dika tauna neganai, haida edia kara dikadia oi herevalaia lasi.
 
 (Source category: BAHÁ’Í TORETORE HELAGADIA HAIDA)
 (Bahaiprayers.net ID: 13060)
+
+
 
 
 ### <a id="bpn13061"></a> Prayer bpn13061 in Hiri Motu
@@ -97,11 +155,15 @@ Hereva dikana ta oi herevalaia lasi, vadaeni taunimanima haida ese hereva dikadi
 (Bahaiprayers.net ID: 13061)
 
 
+
+
 ### <a id="bpn13062"></a> Prayer bpn13062 in Hiri Motu
 Hereva momokani kara be taunimanima edia kara namodia ibounai ena badina.
 
 (Source category: BAHÁ’Í TORETORE HELAGADIA HAIDA)
 (Bahaiprayers.net ID: 13062)
+
+
 
 
 ### <a id="bpn13063"></a> Prayer bpn13063 in Hiri Motu
@@ -111,6 +173,8 @@ Bema hereva momokani kara lasi neganai, tau ta do ia tubu lasi bona kwalimu do i
 (Bahaiprayers.net ID: 13063)
 
 
+
+
 ### <a id="bpn13064"></a> Prayer bpn13064 in Hiri Motu
 Lohiabada ena lalokau taudia e,  Inai Nega helaga dekenai heatu bona hepapahuahu be taravatu.  Heatu henia taudia ibounai be Dirava ena hariharibada do idia abia lasi.
 
@@ -118,11 +182,15 @@ Lohiabada ena lalokau taudia e,  Inai Nega helaga dekenai heatu bona hepapahuahu
 (Bahaiprayers.net ID: 13064)
 
 
+
+
 ### <a id="bpn13065"></a> Prayer bpn13065 in Hiri Motu
 Turana karaia kara, hereva sibona dekenai hahedinaraia oi lalo namo lasi.  Ia namo bema emu kudouna amo, lalokau bona bogahisihisi, hegeregere lahi bamona ia araia, hahedinaraia emu hedavari taudia ibounai dekenai.
 
 (Source category: BAHÁ’Í TORETORE HELAGADIA HAIDA)
 (Bahaiprayers.net ID: 13065)
+
+
 
 
 ### <a id="bpn13066"></a> Prayer bpn13066 in Hiri Motu
@@ -133,6 +201,8 @@ Bema tuari henia ena laloa ia abimu neganai maino ena kahanai oi laloa bada.  La
 
 
 
+
+
 ## DABAI GURIGURI
 
 ### <a id="bpn13080"></a> Prayer bpn13080 in Hiri Motu
@@ -140,6 +210,8 @@ Oiemu keruma henunai lau noga, lauegu Dirava e! bona ia namo bema Oiemu henari i
 
 (Source category: DABAI GURIGURI)
 (Bahaiprayers.net ID: 13080)
+
+
 
 
 
@@ -155,6 +227,8 @@ Dirava ta be lasi, Oi sibona,  Durua Dika dekenai, Sibona Noho Diravana.
 
 
 
+
+
 ## DIRAVA ENA HEDURU GURIGURI
 
 ### <a id="bpn13068"></a> Prayer bpn13068 in Hiri Motu
@@ -162,6 +236,8 @@ Kerere kokia tauna ta ia noho, eiava  Dirava sibona?  Gwau:  Hanamoa be Dirava! 
 
 (Source category: DIRAVA ENA HEDURU GURIGURI)
 (Bahaiprayers.net ID: 13068)
+
+
 
 
 
@@ -175,6 +251,8 @@ Inai bamona hereva:  Dirava ese gau ibounai Ia hahegeregerea bona Ia be gau ibou
 
 
 
+
+
 ## EREGABE TAUDIA EDIA GURIGURI
 
 ### <a id="bpn13076"></a> Prayer bpn13076 in Hiri Motu
@@ -182,6 +260,8 @@ Lohiabada e!  Inai eregabe Oi hadiaria, bona Oiemu hariharibada Oi henia inai og
 
 (Source category: EREGABE TAUDIA EDIA GURIGURI)
 (Bahaiprayers.net ID: 13076)
+
+
 
 
 
@@ -195,6 +275,8 @@ Lohiabada, lauegu Dirava e!  Oiemu lalokau taudia Oi durudia, Oiemu Misini deken
 
 
 
+
+
 ## GORERE HANAMOA GURIGURI
 
 ### <a id="bpn13079"></a> Prayer bpn13079 in Hiri Motu
@@ -202,6 +284,8 @@ Oiemu ladana be lau ia hanamoa Lauegu Dirava e, bona lau laloa Oi dekenai be lau
 
 (Source category: GORERE HANAMOA GURIGURI)
 (Bahaiprayers.net ID: 13079)
+
+
 
 
 
@@ -219,6 +303,8 @@ Dirava ta be lasi, Oi sibona, Siahu Ibounai Diravana.  Oi be gau ibounai Oi hadu
 
 
 
+
+
 ## KEKENI TAUDIA EDIA GURIGURI
 
 ### <a id="bpn13075"></a> Prayer bpn13075 in Hiri Motu
@@ -226,6 +312,8 @@ Mai Hairai Ibounai Lohiabada e! Inai hesiai kekeni maragina Oi hanamoa bona hamo
 
 (Source category: KEKENI TAUDIA EDIA GURIGURI)
 (Bahaiprayers.net ID: 13075)
+
+
 
 
 
@@ -240,6 +328,8 @@ Dirava e!  Oiemu lalokau lau dekenai be lauegu lalokau lau sibogu dekenai gauna 
 
 
 
+
+
 ## MAOROMAORO KARA ENA GURIGURI
 
 ### <a id="bpn13069"></a> Prayer bpn13069 in Hiri Motu
@@ -247,6 +337,8 @@ Gwau:  Dirava e, lauegu Dirava!  Maoromaoro kara ena kwara gauna Oi atoa lauegu 
 
 (Source category: MAOROMAORO KARA ENA GURIGURI)
 (Bahaiprayers.net ID: 13069)
+
+
 
 
 
@@ -259,11 +351,15 @@ Dirava e!  Oi hakaugu, Oi narigu.   Lamepa diaridiari ta bona hisiu hairaina ta 
 (Bahaiprayers.net ID: 13072)
 
 
+
+
 ### <a id="bpn13073"></a> Prayer bpn13073 in Hiri Motu
 Dirava e!  Inai natudia Oi hasikulidia.  Inai natudia be au, Oiemu au huahua hadoa gabuna dekenai,  herahera, Oiemu tano dekenai, palauapalaua namodia, Oiemu uma dekenai.  Oiemu medu idia latanai ia diho.  Dina Momokani idia latanai ia diari, Oiemu lalokau danu.  Oiemu lai ese ia hamoaledia hegeregere diba idia abia, idia tubudae namonamo bona mai hairaina bada herea  do idia hedinarai.     Oi be Gau Ibounai Henia Diravana.  Oi be Bogahisihisi Diravana.
 
 (Source category: NATUDIA EDIA GURIGURI)
 (Bahaiprayers.net ID: 13073)
+
+
 
 
 ### <a id="bpn13074"></a> Prayer bpn13074 in Hiri Motu
@@ -273,6 +369,8 @@ Momokani, Oi be mai Siahu, mai Goada, Itaia bona Kamonai Diravana.
 
 (Source category: NATUDIA EDIA GURIGURI)
 (Bahaiprayers.net ID: 13074)
+
+
 
 
 
@@ -286,6 +384,8 @@ Lohiabada e!  Oi itaia, aiemai imana ai abiaisi Oiemu lalokau bona hariharibada 
 
 
 
+
+
 ## TAUNIMANIMA HATAMONAIA GURIGURI
 
 ### <a id="bpn13077"></a> Prayer bpn13077 in Hiri Motu
@@ -293,6 +393,9 @@ Lauegu Dirava e!  Lauegu Dirava e!  Oiemu gaukara taudia edia lalona Oi hatamona
 
 (Source category: TAUNIMANIMA HATAMONAIA GURIGURI)
 (Bahaiprayers.net ID: 13077)
+
+
+
 
 
 

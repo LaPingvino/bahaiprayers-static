@@ -3,6 +3,36 @@ title = "Česky"
 tags = ['lang=cs', 'prayerbook']
 +++
 
+
+
+[Chvála a vděčnost](#Chvála a vděčnost)
+
+[Jednota](#Jednota)
+
+[Krátká denní modlitba](#Krátká denní modlitba)
+
+[Modlitba za zesnulé](#Modlitba za zesnulé)
+
+[Nastávající matky](#Nastávající matky)
+
+[Ochrana](#Ochrana)
+
+[Odpuštění](#Odpuštění)
+
+[Pomoc a podpora](#Pomoc a podpora)
+
+[Prosba o duchovní vlastnosti](#Prosba o duchovní vlastnosti)
+
+[Rodina](#Rodina)
+
+[Sňatek](#Sňatek)
+
+[Uzdravení](#Uzdravení)
+
+[Zkoušky a obtíže](#Zkoušky a obtíže)
+
+
+
 ## Chvála a vděčnost
 
 ### <a id="bpn2869"></a> Prayer bpn2869 in Česky
@@ -15,6 +45,8 @@ Osvit, ó Pane, tváře Svých služebníků, aby Tě mohli spatřit, a očisti 
 
 
 
+
+
 ## Jednota
 
 ### <a id="bpn2868"></a> Prayer bpn2868 in Česky
@@ -24,6 +56,8 @@ Sjednot srdce Svých služebníků a odhal jim Svůj veliký záměr. Kéž nás
 
 (Source category: Jednota)
 (Bahaiprayers.net ID: 2868)
+
+
 
 
 
@@ -41,6 +75,8 @@ Není Boha kromě Tebe, Pomocníka v nebezpečí, Skrze Sebe Jsoucího.
 
 
 
+
+
 ## Modlitba za zesnulé
 
 ### <a id="bpn2884"></a> Prayer bpn2884 in Česky
@@ -55,6 +91,8 @@ Vpravdě, vroucně Tě prosím, odpuse hříchy těm, kteří odložili pozemsk
 
 
 
+
+
 ## Nastávající matky
 
 ### <a id="bpn2882"></a> Prayer bpn2882 in Česky
@@ -64,6 +102,8 @@ Můj Pane! Můj Pane! Vzdávám Ti chválu a díky za to, čím jsi vyznamenal S
 
 (Source category: Nastávající matky)
 (Bahaiprayers.net ID: 2882)
+
+
 
 
 
@@ -85,6 +125,8 @@ Tobě náleží úplná pravomoc, abys přikazoval.
 
 
 
+
+
 ## Odpuštění
 
 ### <a id="bpn2871"></a> Prayer bpn2871 in Česky
@@ -96,11 +138,15 @@ Jsem, ó můj Bože, Tvůj služebník a syn Tvého služebníka. Poznal jsem Tv
 (Bahaiprayers.net ID: 2871)
 
 
+
+
 ### <a id="bpn2872"></a> Prayer bpn2872 in Česky
 Snažně Tě prosím, ó můj Pane, odpust mi každou zmínku, jež není zmínkou o Tobě a každou chválu, jež není chválou Tebe a každé štěstí, jež není štěstím ve Tvé blízkosti a každé potěšení, jež není potěšením z rozmlouvaní s Tebou a každou radost, jež není radostí ze Tvé lásky a libosti a všechno, co mi přináleží, ale nemá žádné spojitosti s Tebou, ó Ty, Jenž jsi Pánem pánů, Ty, Jenž poskytuješ prostředky a odemykáš dveře.
 
 (Source category: Odpuštění)
 (Bahaiprayers.net ID: 2872)
+
+
 
 
 
@@ -113,6 +159,8 @@ Snažně Tě prosím, ó můj Pane, odpust mi každou zmínku, jež není zmínk
 (Bahaiprayers.net ID: 2873)
 
 
+
+
 ### <a id="bpn2874"></a> Prayer bpn2874 in Česky
 Je nějaký Vysvoboditel z těžkostí kromě Boha?
 
@@ -122,11 +170,15 @@ Rci: Chválen bud Bůh! On je Bůh! Všichni jsou Jeho služebníci a všichni s
 (Bahaiprayers.net ID: 2874)
 
 
+
+
 ### <a id="bpn2875"></a> Prayer bpn2875 in Česky
 Rci: Bůh postačuje všem věcem a nade vše a nic na nebesích ani na zemi nepostačuje, jen Bůh. Vpravdě On Sám v Sobě je Vědoucí, Zachovávající, Všemohoucí.
 
 (Source category: Pomoc a podpora)
 (Bahaiprayers.net ID: 2875)
+
+
 
 
 ### <a id="bpn2876"></a> Prayer bpn2876 in Česky
@@ -150,6 +202,8 @@ a vložit svou důvěru v Nadevše Milosrdného Pána.
 
 
 
+
+
 ## Prosba o duchovní vlastnosti
 
 ### <a id="bpn2866"></a> Prayer bpn2866 in Česky
@@ -157,6 +211,8 @@ Stvoř ve mně čisté srdce, ó můj Bože, a obnov ve mně klidné svědomí, 
 
 (Source category: Prosba o duchovní vlastnosti)
 (Bahaiprayers.net ID: 2866)
+
+
 
 
 ### <a id="bpn2867"></a> Prayer bpn2867 in Česky
@@ -169,6 +225,8 @@ Stvoř ve mně čisté srdce, ó můj Bože, a obnov ve mně klidné svědomí, 
 
 
 
+
+
 ## Rodina
 
 ### <a id="bpn2880"></a> Prayer bpn2880 in Česky
@@ -178,11 +236,15 @@ Vidíš, Ó Pane, naše ruce pozvednuté v pokorné prosbě k nebi Tvé přízn�
 (Bahaiprayers.net ID: 2880)
 
 
+
+
 ### <a id="bpn2881"></a> Prayer bpn2881 in Česky
 Ó Pane! V tomto Největším Zřízení přijímáš přímluvy dětí za jejich rodiče. Je to jeden z pozoruhodných a nekonečných darů tohoto Zřízení. Přijmi tedy, ó laskavý Pane, prosbu Svého služebníka na prahu Tvé jedinosti a ponoř jeho otce do oceánu Své milosti. Vždye jeho syn povstal, aby se oddal Tvé službě, a po všechen čas vynakládal úsilí na stezce Tvé lásky. Vpravdě, Tys Dárce, Odpouštějící a Laskavý.
 
 (Source category: Rodina)
 (Bahaiprayers.net ID: 2881)
+
+
 
 
 
@@ -210,6 +272,8 @@ A z obou moří se perly velké i malé loví.“²
 
 
 
+
+
 ## Uzdravení
 
 ### <a id="bpn2879"></a> Prayer bpn2879 in Česky
@@ -217,6 +281,8 @@ Tvé Jméno mne hojí, ó můj Bože a vzpomínka na Tebe je mým lékem. Tvá b
 
 (Source category: Uzdravení)
 (Bahaiprayers.net ID: 2879)
+
+
 
 
 
@@ -229,6 +295,8 @@ Tvé Jméno mne hojí, ó můj Bože a vzpomínka na Tebe je mým lékem. Tvá b
 (Bahaiprayers.net ID: 2877)
 
 
+
+
 ### <a id="bpn2878"></a> Prayer bpn2878 in Česky
 Rozptyl můj zármutek Svou štědrostí a šlechetností, ó Bože, můj Bože, a zažeň mou úzkost Svou vládou a mocí. Vidíš, ó můj Bože, jak obracím tváří k Tobě v době, kdy jsem ze všech stran skličován bolestí a zármutkem. Vroucně Tě prosím, ó Ty, Který jsi Pánem všeho bytí a zastiňuješ všechny věci viditelné i neviditelné, při Tvém Jménu, kterým jsi podmanil srdce a duše lidí a při vlnách Oceánu Tvé milosti a skvoucí záři Denice Tvé štědrosti, abys mne započítal k těm, kterým nikdy nic nezabrání obracet tvář k Tobě, ó Pane všech jmen a Stvořiteli nebes.
 
@@ -238,6 +306,9 @@ A konečně Tě prosím při světle Tvého tváře, abys požehnal mému konán
 
 (Source category: Zkoušky a obtíže)
 (Bahaiprayers.net ID: 2878)
+
+
+
 
 
 

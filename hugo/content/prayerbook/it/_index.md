@@ -3,6 +3,82 @@ title = "Italiano"
 tags = ['lang=it', 'prayerbook']
 +++
 
+
+
+[Alba](#Alba)
+
+[Assemblea Spirituale](#Assemblea Spirituale)
+
+[Assistenza](#Assistenza)
+
+[Bambini](#Bambini)
+
+[Dalle Tavole Del Piano Divino](#Dalle Tavole Del Piano Divino)
+
+[Defunti](#Defunti)
+
+[Digiuno](#Digiuno)
+
+[Distacco](#Distacco)
+
+[Fermezza Nel Patto](#Fermezza Nel Patto)
+
+[Genitori](#Genitori)
+
+[Gestanti](#Gestanti)
+
+[Giordo di Dio](#Giordo di Dio)
+
+[Giorni Intercalari](#Giorni Intercalari)
+
+[Guarigione](#Guarigione)
+
+[Insegnamento](#Insegnamento)
+
+[Lode e Gratitudine](#Lode e Gratitudine)
+
+[Mani Della Causa](#Mani Della Causa)
+
+[Martiri e Loro Famiglie](#Martiri e Loro Famiglie)
+
+[Matrimonio](#Matrimonio)
+
+[Mattino](#Mattino)
+
+[Naw-Rúz](#Naw-Rúz)
+
+[Perdono](#Perdono)
+
+[Preghiera Obbligatoria Breve](#Preghiera Obbligatoria Breve)
+
+[Preghiera Obbligatoria Lunga](#Preghiera Obbligatoria Lunga)
+
+[Preghiera Obbligatoria Media](#Preghiera Obbligatoria Media)
+
+[Protezione](#Protezione)
+
+[Prove e Difficoltà](#Prove e Difficoltà)
+
+[Qualità Spirituali](#Qualità Spirituali)
+
+[Riunioni](#Riunioni)
+
+[Saldezza](#Saldezza)
+
+[Sera](#Sera)
+
+[Tavola del Fuoco](#Tavola del Fuoco)
+
+[Tavola di Ahmad](#Tavola di Ahmad)
+
+[Tavole della Visitazione](#Tavole della Visitazione)
+
+[Umanità](#Umanità)
+
+[Unità](#Unità)
+
+
+
 ## Alba
 
 ### <a id="bpn7784"></a> Prayer bpn7784 in Italiano
@@ -16,6 +92,8 @@ Tu sei, in verità, il Signore e il Re di tutti gli uomini, potente sopra tutte 
 
 
 
+
+
 ## Assemblea Spirituale
 
 ### <a id="bpn7785"></a> Prayer bpn7785 in Italiano
@@ -26,6 +104,8 @@ O Dio! mio Dio! Noi siamo quei Tuoi servi che devotamente si sono volti verso il
 (Bahaiprayers.net ID: 7785)
 
 
+
+
 ### <a id="bpn7786"></a> Prayer bpn7786 in Italiano
 Riunitevi in perfetta letizia e all’inizio della riunione recitate questa preghiera:
 
@@ -34,6 +114,8 @@ O nostro Provvidente! Invia il Tuo soccorso, sì che ciascuno di coloro che sono
 
 (Source category: Assemblea Spirituale)
 (Bahaiprayers.net ID: 7786)
+
+
 
 
 ### <a id="bpn7787"></a> Prayer bpn7787 in Italiano
@@ -49,6 +131,8 @@ In verità, Tu sei il Generoso, il Misericordioso. Tu sei il Possessore di grand
 
 
 
+
+
 ## Assistenza
 
 ### <a id="bpn7788"></a> Prayer bpn7788 in Italiano
@@ -59,6 +143,8 @@ O Provvido Iddio! L’intera esistenza è generata dalla Tua grazia; non privarl
 (Bahaiprayers.net ID: 7788)
 
 
+
+
 ### <a id="bpn7789"></a> Prayer bpn7789 in Italiano
 O Tu, il Cui volto è l’oggetto della mia adorazione, la Cui beltà è il mio santuario, la Cui dimora è la mia mèta, la Cui lode è la mia speranza, la Cui provvidenza è la mia compagna, il Cui amore è la mia ragione di vita, la Cui menzione è la mia letizia, la Cui vicinanza è la mia brama, la Cui presenza è il mio più caro desiderio e la mia più alta aspirazione, Ti supplico di non negarmi le cose che accordasti ai prescelti fra i Tuoi servi. Concedimi, quindi, il bene di questo mondo e di quello avvenire.
 Tu sei, in verità, il Re di tutti gli uomini. Non v’è altro Dio che Te, Colui Che Sempre Perdona, il Generosissimo.
@@ -67,11 +153,15 @@ Tu sei, in verità, il Re di tutti gli uomini. Non v’è altro Dio che Te, Colu
 (Bahaiprayers.net ID: 7789)
 
 
+
+
 ### <a id="bpn7790"></a> Prayer bpn7790 in Italiano
 Vedi o mio Signore, la mia dimora nelle viscere di questo monte e sei testimone della mia pazienza. In verità, non ho bramato altro fuorché il Tuo amore e l’amore di coloro che Ti amano. Come posso io lodare la fulgida beltà della Tua Signorìa, consapevole qual sono della mia nullità innanzi alla magione della Tua glo-ria? Eppure l’ambascia della solitudine e del-l’isolamento mi urge ad invocarTi con questa supplica: caso mai i Tuoi fedeli servitori s’ac-corgano del mio lamento, e Ti preghino per me, e Tu Ti compiaccia di rispondere alle loro preci, in segno di grazia e di favore. Attesto che non v’è altro Dio all’infuori di Te, poiché sei avvolto in manto di sovranità, grandezza, gloria e forza, quale a nessuno fra i Tuoi servi è dato immaginare o intendere. Ecco, in virtù di ciò che è insito nella Tua Essenza, rimarrai in eterno impenetrabile a tutto fuorché a Te Stes-so.
 
 (Source category: Assistenza)
 (Bahaiprayers.net ID: 7790)
+
+
 
 
 ### <a id="bpn7791"></a> Prayer bpn7791 in Italiano
@@ -84,6 +174,8 @@ Dì: In verità Iddio è l’Artefice di tutte le cose. A chiunque voglia Egli d
 (Bahaiprayers.net ID: 7791)
 
 
+
+
 ### <a id="bpn7792"></a> Prayer bpn7792 in Italiano
 Gloria a Te, o Signore, Che in forza del Tuo decreto hai tratto all’esistenza tutte le cose crea-te.
 O Signore! Assisti coloro che hanno rinunziato a tutto fuor che a Te e concedi loro una possente vittoria. Manda loro, o Signore, le schiere degli angeli in cielo e in terra e tutto quel che v’è frammezzo, affinché aiutino i Tuoi servi, li soccorrano e li rafforzino, li conducano al successo, li sorreggano, li ammantino di gloria, li coprano di onore ed esaltazione, li arricchiscano e li guidino a stra-biliante trionfo.
@@ -92,6 +184,8 @@ Concedi, o Signore, che i loro cuori, per la fedeltà a questa Tua Fede inviolab
 
 (Source category: Assistenza)
 (Bahaiprayers.net ID: 7792)
+
+
 
 
 ### <a id="BB00522"></a> Prayer BB00522 in Italiano
@@ -103,6 +197,8 @@ Tua è l’assoluta potestà del comandare.
 
 (Source category: Assistenza)
 (Bahaiprayers.net ID: 7793)
+
+
 
 
 ### <a id="bpn7794"></a> Prayer bpn7794 in Italiano
@@ -121,12 +217,16 @@ O Santo Signore! O amorevole Signore! Vaghiamo attorno alla Tua dimora, bramosi 
 (Bahaiprayers.net ID: 7794)
 
 
+
+
 ### <a id="bpn7795"></a> Prayer bpn7795 in Italiano
 O Signore gentile! Siamo servitori della Tua Soglia, ci rifugiamo presso la Tua santa Porta. non cerchiamo altro rifugio fuorché questa robusta colonna, non cerchiamo altrove riparo se non presso la Tua custodia. Proteggici, benedicici, sostienici, rendici tali che ameremo solo il Tuo beneplacito, innalzeremo solo la Tua lode, seguiremo solo la via della verità, sì che possiamo divenire abbastanza ricchi da far a meno di tutto fuorché di Te, e ricevere i nostri doni dal mare della Tua beneficenza, e sempre prodigarci per esaltare la Tua Causa e spargere dappertutto i Tuoi dolci aromi, e obliare l’io e occuparci solo di Te, e ripudiare ogni cosa e riuscire a raggiungere Te.
 O Tu Che provvedi, o Tu Che perdoni! Concedici la Tua grazia e il Tuo tenero amore, i Tuoi doni e le Tue largizioni, e sorreggici, sì che possiamo raggiungere la nostra mèta. Tu sei il Forte, l’Abile, Colui Che conosce e Che vede; in verità, Tu sei il Generoso, in verità, Tu sei il Misericordiosissimo, e in verità Tu sei il Longanime, Colui al Quale si deve pentimento, Colui Che perdona anche i più gravi peccati.
 
 (Source category: Assistenza)
 (Bahaiprayers.net ID: 7795)
+
+
 
 
 ### <a id="bpn7796"></a> Prayer bpn7796 in Italiano
@@ -139,6 +239,8 @@ Dacci il nostro pane quotidiano e largisci i Tuoi beneficî a seconda delle nece
 (Bahaiprayers.net ID: 7796)
 
 
+
+
 ### <a id="bpn7797"></a> Prayer bpn7797 in Italiano
 Non togliere, o Signore, la festiva mensa che fu imbandita in Tuo nome e non spegnere l’ardente fiamma accesa dal Tuo inestinguibile fuoco. Non impedire di scorrere alla Tua acqua viva che mormora la melodia della Tua gloria e del Tuo ricordo, e non privare i Tuoi servi della fragranza del Tuoi dolci effluvi che emanano il profumo del Tuo amore.
 Signore! Tramuta le angosce dei Tuoi devoti in serenità, le loro privazioni in prosperità, l’umiliazione in gloria, il dolore in gioia benedetta, o Tu Che tieni in pugno le redini di tutta l’umanità.
@@ -146,6 +248,8 @@ Tu sei, in verità, l’Unico, il Solo, il Possente, il Sapiente, il Saggio.
 
 (Source category: Assistenza)
 (Bahaiprayers.net ID: 7797)
+
+
 
 
 ### <a id="bpn11765"></a> Prayer bpn11765 in Italiano
@@ -160,6 +264,8 @@ In verità, Tu aiuti chi vuoi e, in verità, sei l’Onnipossente, il Più Forte
 
 
 
+
+
 ## Bambini
 
 ### <a id="bpn7798"></a> Prayer bpn7798 in Italiano
@@ -170,12 +276,16 @@ T’imploro, dunque, per il Tuo nome per il quale manifestasti la Tua Divinità 
 (Bahaiprayers.net ID: 7798)
 
 
+
+
 ### <a id="bpn7799"></a> Prayer bpn7799 in Italiano
 O Signore, mio Dio! Questo è un fanciullo generato dai lombi di uno dei Tuoi servi, al quale hai accordato uno stadio eminente nelle Tavole del Tuo irrevocabile decreto e nei Libri del Tuo Comando. T’imploro pel Tuo nome, per il quale a ciascuno è data facoltà di pervenire all’oggetto del proprio desiderio, di concedere che questo fanciullo divenga un’anima matura fra i Tuoi servi; fa’ ch’egli ri-splenda in forza del Tuo nome, dàgli agio d’intonare la Tua lode, di volgere il viso verso Te e di accostarsi a Te. In verità, sei Tu Che dall’eternità hai avuto il potere di fare ciò che vuoi e Che, per l’eternità, avrai la potestà di fare come Ti aggrada.
 Non v’è altro Dio che Te, l’Eccelso, l’Au-gusto, il Soggiogatore, il Possente, l’Irresisti-bile.
 
 (Source category: Bambini)
 (Bahaiprayers.net ID: 7799)
+
+
 
 
 ### <a id="bpn7800"></a> Prayer bpn7800 in Italiano
@@ -185,12 +295,16 @@ O Dio, guidami, proteggimi, fà di me una lampada luminosa e una stella fulgente
 (Bahaiprayers.net ID: 7800)
 
 
+
+
 ### <a id="bpn7801"></a> Prayer bpn7801 in Italiano
 O Tu purissimo Dio! Sono un piccolo bimbo; concedimi di desiderare il seno della Tua amorosa gentilezza; fa’ ch’io sia nutrito col miele e col latte del Tuo amore; allevami al cuore del Tuo sapere e concedimi nobiltà e saggezza mentre sono ancora fanciullo. 
 O Tu, Dio Che sei Sufficiente a Te Stesso! Fa’ di me un intimo del Regno dell’Invisibile. In verità, Tu sei il Forte, il Potente.
 
 (Source category: Bambini)
 (Bahaiprayers.net ID: 7801)
+
+
 
 
 ### <a id="bpn7802"></a> Prayer bpn7802 in Italiano
@@ -202,12 +316,16 @@ In verità Tu sei il Possente, il Forte, Colui Che Vede e Ode.
 (Bahaiprayers.net ID: 7802)
 
 
+
+
 ### <a id="bpn7803"></a> Prayer bpn7803 in Italiano
 O Dio! Educa questi piccini. Questi piccini sono piante del Tuo frutteto, fiori del Tuo prato, rose del Tuo giardino. Fa’ cader su loro la Tua piog-gia; fa’ che il Sole della Realtà splenda su di es-si col Tuo amore. Fa’ che la Tua brezza li ristori, sì che possano addestrarsi, crescere, svilupparsi e manifestarsi in perfetta bellezza. 
 Tu sei il Donatore, Tu sei il Compassionevole.
 
 (Source category: Bambini)
 (Bahaiprayers.net ID: 7803)
+
+
 
 
 ### <a id="AB04004BAB"></a> Prayer AB04004BAB in Italiano
@@ -217,6 +335,8 @@ Tu sei potente e benigno. Tu sei l’Elargitore, il Generoso, il Signore di inso
 
 (Source category: Bambini)
 (Bahaiprayers.net ID: 7804)
+
+
 
 
 ### <a id="bpn7806"></a> Prayer bpn7806 in Italiano
@@ -229,6 +349,8 @@ Cogliete l’opportunità di questi giorni e apprezzate il pregio di questo seco
 (Bahaiprayers.net ID: 7806)
 
 
+
+
 ### <a id="bpn7807"></a> Prayer bpn7807 in Italiano
 O Tu Signore compassionevole! O Signore degli eserciti! Che agli adulti e ai maturi hai preferito questi fanciulli, Che hai elargito loro la Tua speciale grazia, Che li hai guidati, Che hai dispensato loro la Tua luce e donato spiritualità. 
 Confermaci così che, giunti alla maturità, ci sia data capacità di servire il Tuo regno, educare le anime, divenire quali candele accese e risplendere come stelle. 
@@ -238,6 +360,8 @@ Tu sei il Donatore, l’Elargitore e il Gentile.
 (Bahaiprayers.net ID: 7807)
 
 
+
+
 ### <a id="bpn7805"></a> Prayer bpn7805 in Italiano
 O Signore! Rendi radioso questo giovane e dispensa la Tua munificenza a questa povera creatura.
 Donagli il sapere, concedigli maggior forza al sorgere d’ogni mattino e custodiscilo al riparo della Tua protezione, così che sia affrancato dall’errore, si dedichi al servizio della Tua Causa, istradi il traviato, guidi lo sventurato, liberi il prigioniero e ridesti l’incurante, affinché tutti abbiano la benedizione di lodarTi e ricordarTi.
@@ -245,6 +369,8 @@ Tu sei il Forte e il Potente.
 
 (Source category: Bambini)
 (Bahaiprayers.net ID: 7805)
+
+
 
 
 
@@ -260,6 +386,8 @@ In verità, Tu sei il Potente, il Sommo, l’Onnipotente, e Tu sei il Savio, Col
 (Bahaiprayers.net ID: 7836)
 
 
+
+
 ### <a id="bpn7837"></a> Prayer bpn7837 in Italiano
 ##RIVELATA AI BAHÁ'Í DEGLI STATI NORD-ORIENTALI
 
@@ -273,6 +401,8 @@ In verità, Tu sei il Potente, il Forte, il Saggio, il Veggente.
 (Bahaiprayers.net ID: 7837)
 
 
+
+
 ### <a id="bpn7838"></a> Prayer bpn7838 in Italiano
 ##RIVELATA AI BAHÁ’Í DEGLI STATI MERIDIONALI
 
@@ -282,6 +412,8 @@ Tu sei l’Onnipotente, Colui Che fa tutto ciò che vuole!
 
 (Source category: Dalle Tavole Del Piano Divino)
 (Bahaiprayers.net ID: 7838)
+
+
 
 
 ### <a id="bpn7839"></a> Prayer bpn7839 in Italiano
@@ -296,6 +428,8 @@ O Signore! Sono debole, rafforzami col Tuo potere e la Tua forza. La mia lingua 
 (Bahaiprayers.net ID: 7839)
 
 
+
+
 ### <a id="bpn7840"></a> Prayer bpn7840 in Italiano
 ##RIVELATA AI BAHÁ’Í DEGLI STATI OCCIDENTALI
 
@@ -307,6 +441,8 @@ O Signore! Sono umile e solo. Per me non v’è altro sostegno che Te, altro aiu
 (Bahaiprayers.net ID: 7840)
 
 
+
+
 ### <a id="bpn7841"></a> Prayer bpn7841 in Italiano
 ##RIVELATA AI BAHÁ’ÍDEL CANADA E GROENLANDIA
 Lode sia a Te, o mio Dio! Questi sono i Tuoi servi, estasiati dalle fragranze della Tua misericordia, accesi dal fuoco che arde nel-l’albero della Tua unicità e i loro occhi sono illuminati dalla visione degli splendori della luce che brilla sul Sinai della Tua unicità.
@@ -315,6 +451,8 @@ In verità, Tu sei l’Onnipotente, l’Eccelso, Colui Che Sempre Perdona, il Mi
 
 (Source category: Dalle Tavole Del Piano Divino)
 (Bahaiprayers.net ID: 7841)
+
+
 
 
 ### <a id="bpn7842"></a> Prayer bpn7842 in Italiano
@@ -330,6 +468,8 @@ In verità, Tu sei il Forte, il Possente, l’Onnipotente.
 (Bahaiprayers.net ID: 7842)
 
 
+
+
 ### <a id="bpn7843"></a> Prayer bpn7843 in Italiano
 O  Dio, mio Dio! Sia lode a Te Che hai acceso il fuoco del divino amore nel Santo Albero sulla vetta del più eccelso monte: quel-l’albero che non è “né orientale né occidentale”,  quel fuoco che divampò finché le sue fiamme s’innalzarono fino alle Schiere Celesti, e dal quale quelle realtà colsero la luce della guida e levarono il grido: «In verità abbiamo scorto un fuoco da un lato del monte Sinai». 
 O Dio, mio Dio! Accresci questo fuoco col trascorrere dei giorni, finché la sua vampa non metta in moto tutta la terra. O mio Signore! Accendi in ogni cuore la luce del Tuo amore, alita nelle anime degli uomini lo spirito della Tua conoscenza, allietane i petti con i versetti della Tua unicità. Richiama in vita coloro che giacciono nei sepolcri, ammonisci i superbi, dà felicità al mondo intero, manda le Tue acque cristalline, e nell’adunanza dei palesi splendori porgi quella coppa «il cui licore sarà miscelato di Canfora». 
@@ -337,6 +477,8 @@ In verità Tu sei Colui Che dà, Che perdona, Che sempre dona. In verità Tu sei
 
 (Source category: Dalle Tavole Del Piano Divino)
 (Bahaiprayers.net ID: 7843)
+
+
 
 
 
@@ -381,6 +523,8 @@ In verità, noi tutti siamo pazienti in Dio.
 (Bahaiprayers.net ID: 7808)
 
 
+
+
 ### <a id="BH08308"></a> Prayer BH08308 in Italiano
 Gloria a Te o Signore mio Dio! Non avvilire colui che esaltasti col potere della Tua eterna sovranità e non allontanare da Te colui al quale concedesti di entrare nel tabernacolo della Tua eternità. Vorresti respingere, o mio Dio, colui che ponesti all’ombra della Tua Signorìa, e allontanare da Te, o mio Desìo, colui al quale fosti rifugio? Potresti avvilire colui che innalzasti, o dimenticare colui al quale concedesti di ricordarTi? 
 Gloria, immensa gloria a Te! Tu sei Colui Che per l’eternità è stato il Re dell’intera crea-zione e il suo Primo Impulso e rimarrai per sempre il Signore di tutte le cose create e il loro Ordinatore. Gloria a Te, o mio Dio. Se Tu tralasci di essere misericordioso coi Tuoi servi, chi mostrerà loro misericordia? E se Tu rifiuti di soccorrere i Tuoi diletti, chi vi sarà a soccorrerli? 
@@ -388,6 +532,8 @@ Gloria, immensa gloria a Te! Tu sei adorato per la Tua verità e noi tutti, inve
 
 (Source category: Defunti)
 (Bahaiprayers.net ID: 7809)
+
+
 
 
 ### <a id="BH03109KIN"></a> Prayer BH03109KIN in Italiano
@@ -406,12 +552,16 @@ Non v’è altro Dio che Te, l’Unico, il Singolo, il Potente, l’Onnisciente,
 (Bahaiprayers.net ID: 7810)
 
 
+
+
 ### <a id="bpn7811"></a> Prayer bpn7811 in Italiano
 O mio Dio! O Tu perdonatore dei peccati, dispensatore di doni, banditore delle afflizioni! 	In verità, T’imploro di perdonare i peccati di coloro che hanno abbandonato la spoglia corporea e sono ascesi al mondo spirituale. 
 O mio Signore! Purificali dalle loro colpe, lenisci i loro dolori e tramuta in luce le loro tenebre. Fa’ ch’essi entrino nel giardino della felicità, purificali con l’acqua più pura e concedi loro di ammirare i Tuoi splendori sul Tuo più eccelso monte.
 
 (Source category: Defunti)
 (Bahaiprayers.net ID: 7811)
+
+
 
 
 ### <a id="bpn7812"></a> Prayer bpn7812 in Italiano
@@ -421,6 +571,8 @@ Tu sei invero il Generoso, il Possente, il Perdonatore, il Donatore.
 
 (Source category: Defunti)
 (Bahaiprayers.net ID: 7812)
+
+
 
 
 
@@ -450,6 +602,8 @@ T’imploro, o mio Signore, per Te Stesso, e per i Tuoi segni, e per i Tuoi chia
 (Bahaiprayers.net ID: 7931)
 
 
+
+
 ### <a id="bpn7932"></a> Prayer bpn7932 in Italiano
 Lode sia a Te, o Signore mio Dio! T’imploro, per questa Rivelazione mediante la quale l’oscurità è stata tramutata in luce e il Frequentato Tempio è stato edificato e la Tavola Scritta è stata rivelata e il Rotolo Spiegato è stato palesato, di far scendere su me e su coloro che sono in mia compagnia ciò che ci permetterà di librarci fino ai cieli della Tua gloria tra-scendente e ci detergerà dalle macchie di quei dubbi che hanno impedito ai diffidenti di entrare nel tabernacolo della Tua unità.
 Io sono, o mio Signore, colui che si è tenuto saldamente alla corda della Tua amorevole munificenza e si è aggrappato all’orlo del manto della Tua misericordia e dei Tuoi favori. Disponi per me e per coloro che amo il bene in questo mondo e in quello avvenire. Concedi loro, dunque, il Dono Segreto che destinasti agli eletti fra le Tue creature.
@@ -458,6 +612,8 @@ Non v’è altro Dio che Te, l’Onnisciente, il Sapientissimo. Ogni lode a Dio,
 
 (Source category: Digiuno)
 (Bahaiprayers.net ID: 7932)
+
+
 
 
 ### <a id="bpn7933"></a> Prayer bpn7933 in Italiano
@@ -473,6 +629,8 @@ Rendi vittoriosa la Tua Causa, o mio Signore, e confondi i Tuoi nemici. Decreta,
 
 (Source category: Digiuno)
 (Bahaiprayers.net ID: 7933)
+
+
 
 
 ### <a id="bpn7934"></a> Prayer bpn7934 in Italiano
@@ -495,6 +653,8 @@ Lodato Tu sia, o mio Dio, poiché ci hai aiutati a riconoscerLo e ad amarLo. Per
 
 
 
+
+
 ## Distacco
 
 ### <a id="bpn7813"></a> Prayer bpn7813 in Italiano
@@ -506,6 +666,8 @@ Glorificato sia il Tuo nome, o Tu Che sei il Re di tutti i re!
 (Bahaiprayers.net ID: 7813)
 
 
+
+
 ### <a id="bpn7814"></a> Prayer bpn7814 in Italiano
 Glorificato sei Tu, o mio Dio, Ti rendo grazie per avermi fatto conoscere Colui Che è l’Oriente della Tua misericordia, l’Alba della Tua grazia e il Depositario della Tua Causa. T’imploro per il Tuo Nome, per il quale i volti di coloro che Ti sono vicini sono impalliditi e i cuori di coloro che Ti sono devoti hanno spiccato il volo verso di Te, di concedere che, in ogni tempo e in ogni condizione, io possa afferrarmi alla Tua Corda e liberarmi da ogni attaccamento ad altri eccetto Te, e dirigere gli occhi verso l’orizzonte della Tua Rivelazione, e portare a compimento ciò che mi prescrivesti nelle Tue Tavole. 
 Adorna, o mio Signore, sia l’intimo sia l’e-steriore mio con l’abbigliamento dei Tuoi fa-vori e della Tua amorosa gentilezza. Tienimi in salvo, dunque, da qualsiasi cosa sia da Te aborrita e assisti benevolmente me e i miei consanguinei nell’obbedirTi ed evitami tutto ciò che possa destare in me cattivi o corrotti desideri. 
@@ -515,6 +677,8 @@ Tu sei, in verità, il Signore di tutta l’umanità e il Possessore di questo m
 (Bahaiprayers.net ID: 7814)
 
 
+
+
 ### <a id="bpn7815"></a> Prayer bpn7815 in Italiano
 Lodato sia il Tuo nome, o mio Dio! Ti supplico per le fragranze della Veste della Tua grazia, che, al Tuo comando conforme al Tuo desiderio, furono diffuse in ogni parte dell’intera creazione, e per la Stella Mattutina del Tuo volere che ha brillato luminosamente, per la forza del Tuo potere e della Tua sovranità, all’orizzonte della Tua misericordia – di cancellare dal mio cuore tutte le inutili fantasie e le vane immaginazioni, sì che con tutti i miei affetti io possa volgermi a Te, o Signore di tutta l’umanità.
 Sono Tuo servo e figlio del Tuo servo, o mio Dio! Mi sono afferrato al sostegno della Tua grazia e mi sono aggrappato alla corda della Tua tenera misericordia. Disponi per me le buone cose che sono presso di Te e nutriscimi alla Tavola che facesti scendere dalle nuvole della Tua munificenza e dal cielo del Tuo favore.
@@ -522,6 +686,8 @@ In verità, Tu sei il Signore dei mondi e il Dio di tutti coloro che sono in cie
 
 (Source category: Distacco)
 (Bahaiprayers.net ID: 7815)
+
+
 
 
 ### <a id="bpn7816"></a> Prayer bpn7816 in Italiano
@@ -534,6 +700,8 @@ In verità, tutto può il Tuo potere.
 (Bahaiprayers.net ID: 7816)
 
 
+
+
 ### <a id="BH05894"></a> Prayer BH05894 in Italiano
 Non so, o mio Dio, cosa sia questo Fuoco che accendesti nelle Tue regioni. La terra non può velarne lo splendore, né l’acqua soffocarne la fiamma. Tutti i popoli del mondo sono impo-tenti a resistere alla sua forza. Grande è la benedizione di colui che gli si è accostato e ha udito il suo crepitare.
 O mio Dio, Tu facesti che alcuni, per la Tua grazia rafforzatrice, potessero avvicinarlo, mentre altri trattenesti a cagione di quello che le loro mani hanno forgiato nei Tuoi giorni. Chiunque si è affrettato verso di esso e vi è giunto ha, nella sua ansia di contemplare la Tua bellezza, offerto la vita sul Tuo sentiero ed è asceso a Te, interamente distaccato da tutto ciò che non sia Te. 
@@ -542,6 +710,8 @@ Hai il potere di fare quello che Ti aggrada, Tu Che sei, in verità, il Potentis
 
 (Source category: Distacco)
 (Bahaiprayers.net ID: 7817)
+
+
 
 
 ### <a id="bpn7818"></a> Prayer bpn7818 in Italiano
@@ -555,11 +725,15 @@ Non v’è altro Dio all’infuori di Te, l’Onnipo-tente, il Benefico.
 (Bahaiprayers.net ID: 7818)
 
 
+
+
 ### <a id="bpn7819"></a> Prayer bpn7819 in Italiano
 O mio Dio, mio Signore e Padrone! Mi sono distaccato dai miei congiunti e col Tuo ausilio ho cercato di affrancarmi da tutto quello che dimora sulla terra, sempre pronto ad accettare ciò che è degno di lode alla Tua vista. Concedimi quel bene che mi emanciperà da tutto fuor che da Te e donami una porzione più ampia dei Tuoi favori illimitati. In verità Tu sei il Signore di abbondante grazia.
 
 (Source category: Distacco)
 (Bahaiprayers.net ID: 7819)
+
+
 
 
 ### <a id="bpn7820"></a> Prayer bpn7820 in Italiano
@@ -570,6 +744,8 @@ Tu sei, in verità, l’Onnipotente, il Gloriosissimo, il Potentissimo.
 
 (Source category: Distacco)
 (Bahaiprayers.net ID: 7820)
+
+
 
 
 
@@ -585,6 +761,8 @@ Non v’è altro Dio all’infuori di Te, l’Onnipo-tente, il Saggio.
 (Bahaiprayers.net ID: 7821)
 
 
+
+
 ### <a id="bpn7822"></a> Prayer bpn7822 in Italiano
 Egli è il Possente il Perdonatore, il Compassionevole!
 O Dio, mio Dio! Tu vedi i Tuoi servi nell’abisso della perdizione e dell’errore: dov’è la Tua luce di divina guida, o Tu Desìo del mondo? Tu conosci la loro inettitudine e la loro debolezza: dov’è la Tua forza, o Tu nelle Cui mani stanno i poteri del cielo e della terra? 
@@ -593,6 +771,8 @@ Decreta per me con la Tua generosità, o Signore, ciò che mi gioverà in questo
 
 (Source category: Fermezza Nel Patto)
 (Bahaiprayers.net ID: 7822)
+
+
 
 
 
@@ -605,12 +785,16 @@ Decreta per me con la Tua generosità, o Signore, ciò che mi gioverà in questo
 (Bahaiprayers.net ID: 7823)
 
 
+
+
 ### <a id="bpn7824"></a> Prayer bpn7824 in Italiano
 Imploro la Tua indulgenza, o mio Dio, e invoco il Tuo perdono, come Tu desideri che i Tuoi servi si rivolgano a Te. Ti prego di cancellare i nostri peccati come s’addice alla Tua Signorìa e di perdonare me, i miei genitori e coloro che a Tuo giudizio sono entrati nella magione del Tuo amore, in maniera degna della Tua trascendente sovranità e confacente alla gloria della Tua celestiale potenza. 
 O mio Dio! Tu hai ispirato la mia anima a innalzarTi la sua supplica e, se non fosse per Te, non Ti avrei invocato. Lodato e glorificato sei Tu; rendo lode a Te, perché Ti rivelasti a me e Ti supplico di perdonarmi perché ho mancato al mio dovere di conoscerTi e non ho camminato sul sentiero del Tuo amore.
 
 (Source category: Genitori)
 (Bahaiprayers.net ID: 7824)
+
+
 
 
 
@@ -625,6 +809,8 @@ O mio Signore! A Te consacro ciò che porto in grembo. Fa’ dunque che questa c
 
 
 
+
+
 ## Giordo di Dio
 
 ### <a id="bpn7826"></a> Prayer bpn7826 in Italiano
@@ -634,6 +820,8 @@ Dacché, o mio Signore, li guidasti alle acque vive della Tua grazia, concedi, c
 
 (Source category: Giordo di Dio)
 (Bahaiprayers.net ID: 7826)
+
+
 
 
 
@@ -653,6 +841,8 @@ In verità, Tu sei l’Onnipotente, il Sapientissimo, Colui Che Tutto Conosce.
 
 
 
+
+
 ## Guarigione
 
 ### <a id="bpn7827"></a> Prayer bpn7827 in Italiano
@@ -664,11 +854,15 @@ Il potere Tu hai di fare quel che Ti piace. Non v’è altro Dio che Te, il Semp
 (Bahaiprayers.net ID: 7827)
 
 
+
+
 ### <a id="bpn7828"></a> Prayer bpn7828 in Italiano
 Il Tuo nome è la mia cura, o mio Dio, e il ricordarTi è il mio rimedio. La Tua vicinanza è la mia speranza e l’amore per Te il mio compagno. La Tua misericordia è la mia cura e il mio aiuto in questo mondo e in quello avvenire. In verità, Tu sei il Munifico, il Sapiente, il Saggio.
 
 (Source category: Guarigione)
 (Bahaiprayers.net ID: 7828)
+
+
 
 
 ### <a id="bpn7829"></a> Prayer bpn7829 in Italiano
@@ -680,12 +874,16 @@ Io non sono che una povera creatura, o mio Signore: mi sono afferrato al manto d
 (Bahaiprayers.net ID: 7829)
 
 
+
+
 ### <a id="bpn7830"></a> Prayer bpn7830 in Italiano
 Gloria sia a Te, o Signore mio Dio! T’imploro – per il Tuo Nome, per il quale elevasti le insegne della Tua guida e diffondesti la radiosità della Tua amorosa gentilezza e rivelasti la sovranità della Tua Signorìa; per il quale la lampada dei Tuoi Nomi è apparsa entro la nicchia dei Tuoi attributi e Colui Che è il Tabernacolo della Tua unità e la Manifestazione del distacco ha brillato; per il quale le vie della Tua, guida furono rese note e i sentieri del Tuo compiacimento segnati; per il quale le fondamenta dell’errore furono fatte tremare e i segni della malvagità aboliti; per il quale le fonti della saggezza sono scaturite e la tavola celestiale è stata inviata; per il quale preservasti i Tuoi servi e accordasti loro la Tua guarigione; per il quale mostrasti le Tue tenere misericordie ai Tuoi servi e rivelasti il Tuo perdono fra le Tue creature – io T’imploro di custodire colui che è rimasto costante ed è tornato a Te, aggrappato alla Tua misericordia e afferrato all’orlo della Tua amorosa provvidenza. Fa’ scendere su di lui il Tuo potere risanatore, rendilo sano e dotalo della costanza da Te accordata e della tranquillità elargita dalla Tua sovranità. 
 Tu sei, in verità, il Guaritore, il Protettore, il Soccorritore, l’Onnipotente, il Potente, il Gloriosissimo, l’Onnisciente.
 
 (Source category: Guarigione)
 (Bahaiprayers.net ID: 7830)
+
+
 
 
 ### <a id="bpn7831"></a> Prayer bpn7831 in Italiano
@@ -696,6 +894,8 @@ Tu sei, in verità, immensamente esaltato al di sopra di ogni altro eccetto Te S
 
 (Source category: Guarigione)
 (Bahaiprayers.net ID: 7831)
+
+
 
 
 
@@ -711,6 +911,8 @@ Io T’imploro, o Tu Re dell’esistenza e Protettore del visibile e dell’invi
 (Bahaiprayers.net ID: 7832)
 
 
+
+
 ### <a id="bpn7833"></a> Prayer bpn7833 in Italiano
 O Dio, Che sei Autore di tutte le Manifestazioni, Sorgente di tutte le Sorgenti, Fonte di tutte le Rivelazioni e Origine di tutte le Luci! 
 Io attesto che pel Tuo Nome è stato adornato il cielo dell’intelletto, ha spumeggiato l’oceano della parola e sono state promulgate le dispensazioni della Tua provvidenza fra i seguaci di tutte le religioni. 
@@ -720,6 +922,8 @@ Tu sei, in verità, il Dio della forza e della potenza, pronto a rispondere a co
 
 (Source category: Insegnamento)
 (Bahaiprayers.net ID: 7833)
+
+
 
 
 ### <a id="bpn7834"></a> Prayer bpn7834 in Italiano
@@ -737,6 +941,8 @@ In verità, sei Colui Che Sempre Perdona, il Misericordiosissimo.
 (Bahaiprayers.net ID: 7834)
 
 
+
+
 ### <a id="bpn7835"></a> Prayer bpn7835 in Italiano
 Gloria a Te, o Signore mio Dio! T’imploro di perdonare me e coloro che sostengono la Tua Fede. In verità Tu sei il sovrano Signore, l’Indulgente, il Generosissimo. O mio Dio! Con-cedi che quei Tuoi servi cui non è data la conoscenza siano accolti in seno alla Tua Causa, perché, appena sanno di Te, essi attestano la verità del Giorno del Giudizio e non smentiscono le rivelazioni del Tuo favore. Invia loro i pegni della Tua grazia e dovunque si trovino concedi loro in abbondanza di ciò che hai disposto per i devoti tra i Tuoi servi. In verità Tu sei il Supremo Reggitore, il Munificentissimo, il Benevolentissimo. 
 O mio Dio! In pegno della Tua benevolenza e in segno di bontà della Tua presenza, fa’ discendere le effusioni della Tua generosità e della Tua grazia sulle dimore i cui abitanti abbiano abbracciata la Tua Fede. In verità, Tu sei insorpassato nel concedere il perdono. Come potrà colui cui sia negata la Tua liberalità essere contato tra i seguaci della Fede nel Tuo Giorno? 
@@ -744,6 +950,8 @@ Benedici, o mio Dio, me e coloro che crederanno nei Tuoi segni il Giorno stabili
 
 (Source category: Insegnamento)
 (Bahaiprayers.net ID: 7835)
+
+
 
 
 
@@ -758,12 +966,16 @@ Tu sei il Dio del potere, della gloria e della munificenza. Non v’è altro Dio
 (Bahaiprayers.net ID: 7844)
 
 
+
+
 ### <a id="bpn7845"></a> Prayer bpn7845 in Italiano
 O gni lode, o mio Dio, a Te Che sei la Sorgente di tutta la gloria e la maestà, della grandezza e dell’onore, della sovranità e del dominio, della sublimità e della grazia, del reverente timore e del potere. Tu concedi a chi vuoi di avvicinarsi al Tuo Più Grande Oceano e conferisci a chi Tu desideri l’onore di riconoscere il Tuo Più Antico Nome. Nessuno di coloro che sono in cielo e in terra può resistere all’opera del Tuo sovrano Volere. Da tutta l’eternità Tu governasti l’intera creazione e continuerai per sempre a esercitare il Tuo dominio su tutto il creato. Non v’è altro Dio che Te, l’Onnipo-tente, l’Eccelso, il Più Possente, il Più Saggio.
 Illumina, o Signore, i volti dei Tuoi servi, affinché essi possano mirarTi; purifica i loro cuori, sì che possano volgersi verso la corte dei Tuoi favori celestiali e riconoscere Colui Che è la Manifestazione di Te Stesso e l’Alba della Tua Essenza. Invero, Tu sei il Signore di tutti i mondi. Non v’è altro Dio che Te, l’Illimitato, Che tutto soggioga.
 
 (Source category: Lode e Gratitudine)
 (Bahaiprayers.net ID: 7845)
+
+
 
 
 ### <a id="bpn7846"></a> Prayer bpn7846 in Italiano
@@ -774,6 +986,8 @@ Tu sei l’Onnipotente, l’Eccelso, il Gloriosissimo, l’Amorosissimo!
 (Bahaiprayers.net ID: 7846)
 
 
+
+
 ### <a id="bpn7847"></a> Prayer bpn7847 in Italiano
 In nome di Dio l’Altissimo! Lodato e glorificato sei Tu, o Signore Onnipotente Iddio! Tu, innanzi alla Cui saggezza il saggio è menomato e inetto, innanzi al Cui sapere il sapiente confessa la propria ignoranza, innanzi alla Cui potenza il forte si fa debole, innanzi alla Cui ricchezza il ricco attesta la propria povertà, innanzi alla Cui luce l’illuminato è sperso nel buio, verso il reliquiario del Cui sapere si volge l’essenza di ogni comprensione, e intorno al santuario della Cui presenza gravitano adoranti le anime di tutta l’umanità. 
 Come posso allora cantare e parlare della Tua Essenza, che la saggezza dei saggi e il sapere dei sapienti non hanno compreso, quando nessuno può cantare ciò che non comprende o narrare ciò a cui non può giungere, mentre Tu sei stato dall’eternità l’Inaccessibile, l’Inscrutabile? Per quanto impotente sia ad innalzarmi fino ai cieli della Tua gloria e a librarmi nei regni della conoscenza di Te, non posso non narrare i Tuoi favori che attestano la gloriosa opera Tua.
@@ -782,6 +996,8 @@ Ogni lode e ogni gloria a Te, o Tu del Quale tutte le cose hanno attestato che s
 
 (Source category: Lode e Gratitudine)
 (Bahaiprayers.net ID: 7847)
+
+
 
 
 ### <a id="bpn7848"></a> Prayer bpn7848 in Italiano
@@ -801,11 +1017,15 @@ Disponi per noi dunque tutto ciò che è presso Te e perdonaci per ciò che siam
 (Bahaiprayers.net ID: 7848)
 
 
+
+
 ### <a id="bpn7849"></a> Prayer bpn7849 in Italiano
 Glorificato sei Tu, o Signore mio Dio! In verità Tu sei il Re dei re: a chi vuoi conferisci la sovranità e a chi vuoi la togli. Esalti chi vuoi e chi vuoi svergogni. A chi vuoi concedi la vittoria e a chi vuoi porti umiliazione. Conferi-sci dovizia a chi vuoi e chi vuoi riduci in povertà. Tu fai sì che chi vuoi confonda chi vuoi. Tu tieni in pugno l’impero di tutte le cose create e con la potenza del Tuo sovrano decreto a chi vuoi doni l’esistenza. In verità sei l’Onnisciente, l’Onnipotente, il Signore della forza.
 
 (Source category: Lode e Gratitudine)
 (Bahaiprayers.net ID: 7849)
+
+
 
 
 
@@ -818,6 +1038,8 @@ Luce e gloria, salute e lode alle Mani della Sua Causa, per le quali la luce del
 (Bahaiprayers.net ID: 7850)
 
 
+
+
 ### <a id="bpn7851"></a> Prayer bpn7851 in Italiano
 O gni lode a Te, o Signore mio Dio! Quale mistero nel Fuoco che accendesti nel mio cuore! Le mie stesse membra attestano l’intensità del suo calore e mostrano il potere distruttore della sua fiamma. Se mai la lingua del mio corpo si attentasse a descriverTi come Colui la Cui forza è sempre stata superiore alla forza del più potente uomo, la lingua del cuore mi direbbe: «Non sono altro che parole adeguate solamente a cose che siano della stessa specie e natura. Ma Lui, per la verità, è infinitamente esaltato al di sopra della menzione di tutte le Sue creature».
 La forza della Tua potenza mi è testimone, o mio Benamato! Ogni membro del mio corpo parrebbe dotato di una bocca che Ti glorifica e magnifica il Tuo nome. Armato del potere del Tuo amore, l’odio che muove coloro che sono contro di Te non potrà mai allarmarmi e con la Tua lode sulle labbra, le decisioni del Tuo decreto non potranno mai colmarmi di dolore. Rafforza, dunque, il Tuo amore nel mio petto e permetti ch’io affronti gli assalti che tutti i popoli della terra possano lanciare contro di me. Giuro per Te! Ogni capello sul mio capo proclama: «Se non fosse per le avversità che mi hanno colpito sulla Tua via, come potrei mai gustare la divina dolcezza della Tua tenerezza e del Tuo amore?».
@@ -827,11 +1049,15 @@ Fa’ scendere, pertanto mio Signore, su di me e su coloro che mi amano ciò che
 (Bahaiprayers.net ID: 7851)
 
 
+
+
 ### <a id="bpn7852"></a> Prayer bpn7852 in Italiano
 Salute e lode, benedizione e gloria... alle Mani della Causa di Dio che hanno largamente diffuso le Fragranze Divine, dichiarate le Sue Prove, proclamata la Sua Fede, resa pubblica al mondo la Sua Legge, che si sono distaccate da tutto fuorché da Lui, campioni di rettitudine in questo mondo, che hanno acceso il Fuoco dell’Amore di Dio nel profondo dei cuori e delle anime dei Suoi servi...
 
 (Source category: Mani Della Causa)
 (Bahaiprayers.net ID: 7852)
+
+
 
 
 
@@ -848,6 +1074,8 @@ Tu sei in verità il Munifico, il Possente, l’Onnipotente, l’Indipendente. N
 
 (Source category: Martiri e Loro Famiglie)
 (Bahaiprayers.net ID: 7854)
+
+
 
 
 
@@ -870,6 +1098,8 @@ E quando ha desiderato manifestare grazia e benevolenza agli uomini e riordinare
 (Bahaiprayers.net ID: 7855)
 
 
+
+
 ### <a id="bpn7856"></a> Prayer bpn7856 in Italiano
 Egli é Dio!
 O impareggiabile Signore! Nella Tua immensa saggezza Tu hai ingiunto alle genti il matrimonio, acciocché le generazioni si succedano l’una all’altra in questo mondo contingente, e perché sempre, finché il mondo duri, esse si affaccendino alla soglia della Tua unicità in servitù, adorazione, reverenza, venerazione e lode. «Ho creato spiriti e uomini soltanto perché Mi adorino»l. Perciò, nel cielo della Tua misericordia, sposa questi due uccelli del nido del Tuo amore e fanne strumenti per attrarre grazia perpetua, sì che dall’unione di questi due mari d’amore possa sorgere un’onda di tenerezza che deponga le perle di una pura e buona progenie sulla sponda della vita. «Egli lasciò liberi i due mari perché s’incontrassero: e v’è una barriera frammezzo che non possono passare. Quale, dunque, delle grazie del vostro Signore negherete? Da ognuno Egli trae piccole e grandi perle».
@@ -879,11 +1109,15 @@ O Tu Signore Benevolo! Fa’ che questo matrimonio produca corallo e perle. Tu s
 (Bahaiprayers.net ID: 7856)
 
 
+
+
 ### <a id="bpn7857"></a> Prayer bpn7857 in Italiano
 Gloria sia a Te, o mio Dio! In verità questo Tuo servo e questa Tua ancella si sono avvicinati all’ombra della Tua misericordia e si sono uniti per il Tuo favore e la Tua generosità. O Signo-re! Assistili in questo Tuo mondo e nel Tuo regno e destina loro ogni bene con la Tua generosità e la Tua grazia. O Signore! Confermali nel Tuo servizio, assistili a servirTi. Concedi loro di diventare segni del Tuo Nome nel Tuo mondo e proteggili con i Tuoi doni, che sono inesauribili, in questo mondo e in quello avvenire. O Signore! Essi supplicano il regno della Tua misericordia e invocano il reame della Tua unicità: in verità, essi si sono sposati in obbedienza al Tuo comandamento. Concedi loro di divenire segni dell’armonia e dell’unità, fino alla fine dei tempi. In verità, Tu sei l’Onnipotente, l’Onnipresente, il Potentissimo!
 
 (Source category: Matrimonio)
 (Bahaiprayers.net ID: 7857)
+
+
 
 
 
@@ -896,12 +1130,16 @@ Mi sono svegliato sotto l’ègida Tua, o mio Dio, e s’addice a colui che la c
 (Bahaiprayers.net ID: 7858)
 
 
+
+
 ### <a id="bpn7859"></a> Prayer bpn7859 in Italiano
 Mi sono alzato stamane per grazia Tua, o mio Dio, e ho lasciato la mia casa fidando interamente in Te e rimettendomi alle Tue cure. Fa’ discendere adunque su me, dal cielo della Tua misericordia, la Tua benedizione, e concedimi di ritornare salvo a casa, così come mi concedesti di uscirne sotto la Tua protezione, con i miei pensieri costantemente rivolti a Te.
 Non v’è altro Dio che Te, l’Unico, l’Incom-parabile, il Sapientissimo, l’Onnisciente.
 
 (Source category: Mattino)
 (Bahaiprayers.net ID: 7859)
+
+
 
 
 ### <a id="bpn7860"></a> Prayer bpn7860 in Italiano
@@ -915,6 +1153,8 @@ Tu non deludi chi T’ha cercato, né tieni lontano da Te chi T’ha desiderato.
 (Bahaiprayers.net ID: 7860)
 
 
+
+
 ### <a id="bpn7853"></a> Prayer bpn7853 in Italiano
 O Dio, mio Dio! Questa Tua ancella Te invoca, in Te confida, verso Te rivolge il viso, implorandoTi di concederle le Tue grazie celesti, di svelare i Tuoi misteri spirituali e di avvolgerla nelle luci della Tua Divinità.
 O mio Signore! Fa’ che gli occhi del mio consorte vedano. Allieta il suo cuore con la luce del conoscerTi, trai la sua mente alla Tua luminosa beltà, ristora il suo spirito rivelandogli i Tuoi palesi splendori.
@@ -923,6 +1163,8 @@ In verità, Tu sei il prezioso, l’Eterno Elargitore, Colui che dispensa con la
 
 (Source category: Mattino)
 (Bahaiprayers.net ID: 7853)
+
+
 
 
 
@@ -942,6 +1184,8 @@ In verità, Tu sei il Sapientissimo, il Saggio.
 
 
 
+
+
 ## Perdono
 
 ### <a id="bpn7864"></a> Prayer bpn7864 in Italiano
@@ -953,12 +1197,16 @@ Non v’è alcuno, o mio Signore, che possa trattarmi generosamente, a cui io po
 (Bahaiprayers.net ID: 7864)
 
 
+
+
 ### <a id="bpn7865"></a> Prayer bpn7865 in Italiano
 Io sono, o mio Signore, colui che ha volto il viso verso di Te e posto le sue speranze nelle meraviglie della Tua grazia e nelle rivelazioni della Tua generosità. Ti prego di non permettere che io mi allontani deluso dalla porta della Tua misericordia e di non abbandonarmi a quelle Tue creature che hanno ripudiato la Tua Causa. 
 O mio Dio, sono Tuo servo e figlio del Tuo servo. Ho riconosciuto la Tua verità nei Tuoi giorni e ho diretto i passi verso le sponde della Tua unicità, confessando la Tua singolarità, riconoscendo la Tua unità e confidando nel Tuo perdono e nella Tua assoluzione. Tu hai il potere di fare quel che vuoi; non v’è altro Dio all’infuori di Te, il Gloriosissimo, Colui Che Sempre Perdona.
 
 (Source category: Perdono)
 (Bahaiprayers.net ID: 7865)
+
+
 
 
 ### <a id="bpn7866"></a> Prayer bpn7866 in Italiano
@@ -968,6 +1216,8 @@ Tu mi vedi, o mio Signore, con il viso rivolto al cielo della Tua generosità e 
 (Bahaiprayers.net ID: 7866)
 
 
+
+
 ### <a id="bpn7867"></a> Prayer bpn7867 in Italiano
 Lodato sia il Tuo Nome, o mio Dio e Dio di tutte le cose, mia Gloria e Gloria di tutte le cose, mio Desìo e Desìo di tutte le cose, mia Forza e Forza di tutte le cose, mio Re e Re di tutte le cose, mio Possessore e Possessore di tutte le cose, mia Mèta e Mèta di tutte le cose, mio Impulso e Impulso di tutte le cose! Non permettere, T’imploro, che io sia tenuto lungi dall’oceano delle Tue tenere misericordie, o che io rimanga discosto dalle sponde della Tua vicinanza. 
 Nessun altro, eccetto Te, o mio Signore, mi può giovare e la vicinanza a nessun altro fuorché a Te può essermi di profitto. Ti scongiuro, per l’opulenza delle Tue ricchezze, per le quali facesti a meno di tutti tranne Te Stesso, di annoverarmi fra coloro che hanno volto il viso verso di Te e si sono levati per servirTi.
@@ -975,6 +1225,8 @@ Perdona, dunque, o mio Signore, i Tuoi servi e le Tue ancelle. Tu, sei invero, C
 
 (Source category: Perdono)
 (Bahaiprayers.net ID: 7867)
+
+
 
 
 ### <a id="bpn7868"></a> Prayer bpn7868 in Italiano
@@ -991,6 +1243,8 @@ In verità, Tu sei il Potente, il Munifico. Non v’è altro Dio all’infuori d
 (Bahaiprayers.net ID: 7868)
 
 
+
+
 ### <a id="bpn7869"></a> Prayer bpn7869 in Italiano
 Ti supplico di perdonarmi, o mio Signore, per aver menzionato altri che Te, e lodato altri che Te, e per ogni delizia che non sia la delizia della vicinanza a Te, e per aver goduto d’altro che del gaudio della comunione con Te, e per ogni gioia che non sia la gioia del Tuo amore e del Tuo compiacimento, e per qualunque cosa mi riguardi ma non sia correlata a Te, o Tu Che sei il Signore dei signori, Colui Che dispensa i mezzi e disserra le porte.
 
@@ -998,11 +1252,15 @@ Ti supplico di perdonarmi, o mio Signore, per aver menzionato altri che Te, e lo
 (Bahaiprayers.net ID: 7869)
 
 
+
+
 ### <a id="bpn7870"></a> Prayer bpn7870 in Italiano
 O Tu indulgente Signore! Sei il rifugio di tutti questi Tuoi servi, Tu Che conosci i segreti e sai tutto. Siamo tutti deboli e Tu sei il Forte, l’Onnipotente; siamo tutti peccatori, e Tu sei il Perdonatore dei peccati, il Misericordioso, il Clemente. O Signore! Non guardare i nostri falli, trattaci come s’addice alla Tua grazia e alla Tua munificenza. Le nostre colpe sono molte, ma l’oceano della Tua misericordia è sconfinato; la nostra debolezza è grave, ma i segni del Tuo aiuto e della Tua assistenza sono evidenti. Confermaci, dunque, e rafforzaci, e concedici di compiere ciò che sia ben accetto alla Tua Sacra Soglia. Illumina i cuori, accordaci occhi veggenti e orecchie attente; risuscita il morto e risana l’ammalato; dona ricchezza al povero e da’ pace e sicurezza al timoroso; accettaci nel Tuo regno e illuminaci con la luce della guida. Tu sei il Forte, l’Onnipotente. Tu sei il Generoso! Tu sei il Clemente! Tu sei il Gentile!
 
 (Source category: Perdono)
 (Bahaiprayers.net ID: 7870)
+
+
 
 
 
@@ -1024,6 +1282,8 @@ Da una lettera scritta a nome di Shoghi Effendi
 
 (Source category: Preghiera Obbligatoria Breve)
 (Bahaiprayers.net ID: 7861)
+
+
 
 
 
@@ -1096,6 +1356,8 @@ Io attesto, o mio Dio, ciò che i Tuoi Eletti hanno attestato e riconosco ciò c
 
 
 
+
+
 ## Preghiera Obbligatoria Media
 
 ### <a id="bpn7862"></a> Prayer bpn7862 in Italiano
@@ -1135,6 +1397,8 @@ Dio all’infuori di Te. Tu hai, in verità, rivelato la Tua Causa, adempiuto il
 
 
 
+
+
 ## Protezione
 
 ### <a id="bpn7871"></a> Prayer bpn7871 in Italiano
@@ -1143,6 +1407,8 @@ Preservalo inoltre, o mio Dio, con il potere della Tua incommensurabile maestà,
 
 (Source category: Protezione)
 (Bahaiprayers.net ID: 7871)
+
+
 
 
 ### <a id="bpn7872"></a> Prayer bpn7872 in Italiano
@@ -1156,11 +1422,15 @@ Fa’ scendere, perciò, o mio Dio, su me e sui miei beneamati, ciò che ci prot
 (Bahaiprayers.net ID: 7872)
 
 
+
+
 ### <a id="bpn7873"></a> Prayer bpn7873 in Italiano
 O Dio, mio Dio! Ho lasciato la mia casa, tenendomi forte alla corda del Tuo amore e mi sono affidato interamente alla Tua cura e prote-zione. Ti supplico, per il Tuo potere con il quale proteggesti i Tuoi amati dai disobbedienti, dai perversi, da ogni arrogante oppressore e da ogni malvagio che si è da Te allontanato, di tenermi in salvo con la Tua munificenza e la Tua grazia. Permettimi, dunque, di ritornare a casa, pel Tuo potere e la Tua potenza. Tu sei, in verità, l’Onnipotente, l’Aiuto nel Pericolo, Colui Che Esiste da Sé.
 
 (Source category: Protezione)
 (Bahaiprayers.net ID: 7873)
+
+
 
 
 ### <a id="BH10578"></a> Prayer BH10578 in Italiano
@@ -1172,6 +1442,8 @@ Tu sei, in verità, l’Onnipotente, l’Eccelso, Colui Che Sempre Perdona, il G
 (Bahaiprayers.net ID: 7874)
 
 
+
+
 ### <a id="bpn7875"></a> Prayer bpn7875 in Italiano
 Sia gloria a Te, o mio Dio! Per il Tuo nome il Misericordiosissimo, Ti prego di proteggere i Tuoi servi e le Tue ancelle quando le tempeste delle prove li sopraggiungono e i Tuoi infiniti cimenti li assalgono. Permetti loro, dunque, di cercare rifugio nella fortezza del Tuo amore e della Tua Rivelazione, sì che su di essi non pre-valgano né i Tuoi avversari né i perversi fra i Tuoi servi che hanno violato il Tuo Patto e il Tuo Testamento e si sono sdegnosamente allontanati dall’Oriente della Tua Essenza e dal Rivelatore della Tua gloria. 
 Essi, o mio Signore, hanno atteso alla porta della Tua grazia. Aprila dinanzi al loro viso con le chiavi dei Tuoi munifici favori.
@@ -1181,11 +1453,15 @@ Il potere Tu hai di fare quello che vuoi e di decretare quel che Ti piace. Essi 
 (Bahaiprayers.net ID: 7875)
 
 
+
+
 ### <a id="bpn7876"></a> Prayer bpn7876 in Italiano
 O Dio, mio Dio! Sii scudo ai Tuoi servi fedeli contro i mali dell’egoismo e delle passioni, proteggili con l’occhio vigile della Tua amorosa premura da ogni rancore, dall’odio e dall’invidia, riparali nella fortezza inespugnabile della Tua cura e fa’ di essi, al sicuro dai dardi del dubbio, le manifestazioni dei Tuoi segni gloriosi, illumina i loro volti coi raggi fulgenti che scaturiscono dall’Oriente della Tua divina unità, rallegra i loro cuori con i versi rivelati dal Tuo santo regno, rafforza i loro dorsi col potere soggiogatore che viene dal Tuo reame di gloria. Tu sei il Munifico, il Protettore, l’Onnipotente, il Benevolo.
 
 (Source category: Protezione)
 (Bahaiprayers.net ID: 7876)
+
+
 
 
 ### <a id="bpn7877"></a> Prayer bpn7877 in Italiano
@@ -1195,6 +1471,8 @@ In verità, Tu sei il Protettore, il Custode, il Salvatore, Colui Che Provvede e
 
 (Source category: Protezione)
 (Bahaiprayers.net ID: 7877)
+
+
 
 
 
@@ -1209,6 +1487,8 @@ T’imploro infine, per la luce del Tuo sembiante, di benedire tutte le mie cose
 (Bahaiprayers.net ID: 7878)
 
 
+
+
 ### <a id="bpn7879"></a> Prayer bpn7879 in Italiano
 Lodato e glorificato sei Tu, o mio Dio! 
 Ti supplico, per i sospiri di coloro che Ti amano e per le lacrime sparse da coloro che bramano vederTi, di non privarmi delle Tue soavi misericordie nel Tuo Giorno, né delle melodie della Colomba che esalta la Tua unicità innanzi alla luce che risplende dal Tuo volto. Sono in grande afflizione, o mio Dio! Guarda come mi tengo saldamente al Tuo Nome, Che Tutto Possiede. Sono sicuro di perire, guarda come mi aggrappo al Tuo Nome, l’Imperituro. T’im-ploro, adunque, per Te Stesso, l’Eccelso, l’Al-tissimo, di non abbandonarmi a me stesso e ai desideri della mia corrotta inclinazione. Tienimi per mano con la mano del Tuo potere, liberami dagli abissi delle mie fantasie e vane immagini e purificami da tutto ciò che aborri. 
@@ -1218,11 +1498,15 @@ Fa’, dunque, che mi volga interamente a Te, che riponga tutta la mia fiducia i
 (Bahaiprayers.net ID: 7879)
 
 
+
+
 ### <a id="bpn7880"></a> Prayer bpn7880 in Italiano
 O Tu, le Cui prove sono un farmaco risanatore per coloro che Ti sono vicini, la Cui spada è l’ardente desiderio di tutti coloro che Ti amano, il Cui strale è il più caro anelito di quei cuori che Ti bramano, il Cui decreto è l’unica speranza di coloro che hanno riconosciuto la Tua verità! T’imploro, per la Tua divina dolcezza e per gli splendori della gloria del Tuo sembiante, di far discendere su noi dalle Tue eccelse dimore ciò che ci permetterà di avvicinarci a Te. O mio Dio, fa’ dunque sicuri i nostri passi nella Tua Causa, rischiara i cuori col fulgore della Tua sapienza e illumina i petti con lo splendore dei Tuoi nomi.
 
 (Source category: Prove e Difficoltà)
 (Bahaiprayers.net ID: 7880)
+
+
 
 
 ### <a id="bpn7881"></a> Prayer bpn7881 in Italiano
@@ -1235,6 +1519,8 @@ Capace sei Tu di fare ciò che T’aggrada. Non v’è altro Dio che Te, il Socc
 (Bahaiprayers.net ID: 7881)
 
 
+
+
 ### <a id="bpn7882"></a> Prayer bpn7882 in Italiano
 Glorificato Tu sei, o Signore mio Dio. Ogni uomo illuminato riconosce la Tua sovranità e il Tuo dominio e ogni occhio veggente percepisce la grandezza della Tua maestà e la forza soggiogatrice della Tua potenza. I venti delle prove non hanno il potere di trattenere coloro che a Te sono vicini dal volgere il viso verso l’orizzonte della Tua gloria e le tempeste dei cimenti non riescono a intralciare e distogliere coloro che sono interamente dediti al Tuo volere dall’avvicinarsi alla Tua corte. 
 Pare che la lampada del Tuo amore arda nei loro cuori e la luce della Tua tenerezza brilli nei loro petti. Le avversità sono incapaci di estraniarli dalla Tua Causa e le vicissitudini della vita non potranno mai allontanarli dal sentiero del Tuo beneplacito. 
@@ -1242,6 +1528,8 @@ T’imploro, o mio Dio, per loro e per i sospiri che i loro cuori emettono nel s
 
 (Source category: Prove e Difficoltà)
 (Bahaiprayers.net ID: 7882)
+
+
 
 
 ### <a id="bpn7883"></a> Prayer bpn7883 in Italiano
@@ -1256,11 +1544,15 @@ Lode a Te, perché in verità sei il Signore della terra e del cielo.
 (Bahaiprayers.net ID: 7883)
 
 
+
+
 ### <a id="bpn7884"></a> Prayer bpn7884 in Italiano
 Chi può rimuovere le difficoltà eccetto Dio? Dite: Lodato sia Iddio! Egli è Dio! Tutti sono Suoi servi e tutti stanno al Suo comando.
 
 (Source category: Prove e Difficoltà)
 (Bahaiprayers.net ID: 7884)
+
+
 
 
 ### <a id="bpn7886"></a> Prayer bpn7886 in Italiano
@@ -1270,11 +1562,15 @@ Ti scongiuro per la Tua possanza, o mio Dio! Fa’ che nessun male mi colga nel 
 (Bahaiprayers.net ID: 7886)
 
 
+
+
 ### <a id="bpn7885"></a> Prayer bpn7885 in Italiano
 Dite: Dio provvede ad ogni cosa al di là di ogni cosa, e nulla, nei cieli o sulla terra, è prov-veduto da altri che da Dio. In verità, Egli è in Se Stesso il Sapiente, il Sostenitore, l’Onnipotente.
 
 (Source category: Prove e Difficoltà)
 (Bahaiprayers.net ID: 7885)
+
+
 
 
 ### <a id="bpn7887"></a> Prayer bpn7887 in Italiano
@@ -1284,6 +1580,8 @@ Tieni al riparo della Tua protezione, o Tu Spirito di purezza, Tu Munifico Provv
 
 (Source category: Prove e Difficoltà)
 (Bahaiprayers.net ID: 7887)
+
+
 
 
 ### <a id="bpn7888"></a> Prayer bpn7888 in Italiano
@@ -1302,11 +1600,15 @@ Tu sei, in verità, il Benigno, il Glorificato, il Forte, l’Onnipotente.
 (Bahaiprayers.net ID: 7888)
 
 
+
+
 ### <a id="AB10769"></a> Prayer AB10769 in Italiano
 O mio Signore, mio Benamato, mio Desìo! Siimi Amico nella solitudine e Compagno nell’esilio. Allontana il mio dolore e fa’ ch’io sia devota alla Tua bellezza. Tienimi lontana da tutto fuorché da Te. Attirami con le Tue fragranze di santità. Fa’ ch’io sia unita, nel Tuo Regno, a coloro che sono distaccati da tutto fuorché da Te, che anelano a servire la Tua sacra soglia e che lavorano nella Tua Causa. Concedimi di essere una delle Tue ancelle che si sono conformate al Tuo compiacimento. In verità, Tu sei il Benevolo, il Generoso.
 
 (Source category: Prove e Difficoltà)
 (Bahaiprayers.net ID: 7889)
+
+
 
 
 
@@ -1319,12 +1621,16 @@ Crea in me un cuore puro, o mio Dio, e rinnova entro di me una coscienza tranqui
 (Bahaiprayers.net ID: 7890)
 
 
+
+
 ### <a id="bpn7891"></a> Prayer bpn7891 in Italiano
 Dai rivoli dolcemente profumati della Tua eternità dammi da bere, o mio Dio, e dell’albero del Tuo essere fammi gustare i frutti, o mia Speranza! Alle fonti cristalline dell’amor Tuo consenti ch’io mi disseti, o mia Gloria, e al riparo dell’ombra della Tua eterna provvidenza fammi riposare, o mia Luce! Sui prati della Tua vicinanza, innanzi alla Tua presenza, lascia ch’io vada errando, o mio Di-letto, e a destra del trono della Tua misericordia fammi sedere, o mio Desìo! Dalle brezze fragranti della Tua gioia lascia che un alito passi su di me, o mia Mèta, e nelle eccelse altezze del paradiso della Tua realtà lascia ch’io entri, o mio Adorato! Alle melodie della colomba della Tua unicità lascia ch’io porga orecchio, o Tu Risplendente, e mercè lo spirito del Tuo potere e della Tua possanza vivificami, o mia Provvidenza! Nello spirito dell’amor Tuo mantienimi saldo, o mio Soccorritore, e sul sentiero del Tuo beneplacito fa’ sicuri i miei passi, o mio Creatore! Entro il giardino della Tua immortalità, alla Tua presenza lasciami dimorar per sempre, o Tu Che mi sei misericordioso, e ponimi sul seggio della Tua gloria, o Tu Che sei il mio Possessore! Al cielo della Tua amorevole bontà innalzami, o mio Vivificatore, e guidami verso la Stella Mattutina del Tuo esempio, o Tu mio Fascinatore! Innanzi alle rivelazioni del Tuo invisibile spirito chiamami ad esser presente, Tu Che sei la mia Origine e il mio Eccelso Desiderio, e verso l’essen-za della Tua fragrante beltà, che a Te piacerà manifestare, fa’ ch’io ritorni, o Tu Che sei mio Dio! 
 Il potere Tu hai di fare quel che Ti piace. Tu sei, in verità, il Magnifico, il Gloriosissimo, l’Eccelso.
 
 (Source category: Qualità Spirituali)
 (Bahaiprayers.net ID: 7891)
+
+
 
 
 ### <a id="BH07426FOO"></a> Prayer BH07426FOO in Italiano
@@ -1335,12 +1641,16 @@ Tu sei, in verità, il Possente, il Gloriosissimo, l’Onnipotente.
 (Bahaiprayers.net ID: 7892)
 
 
+
+
 ### <a id="bpn7893"></a> Prayer bpn7893 in Italiano
 O mio Dio, Dio di munificenza e di misericordia! Tu sei il Re dalla Cui parola sovrana l’intera creazione è stata chiamata al-l’esistenza e sei il Munifico, Cui le azioni dei Suoi servi non hanno mai impedito di mostrare la Sua grazia e di rivelare la Sua munificenza.
 Permetti, T’imploro, che questo servo consegua ciò che sia per lui causa di salvezza in ogni mondo dei Tuoi mondi. Tu sei, in verità, l’Onni-potente, il Potentissimo, l’Onnisciente, il Saggio.
 
 (Source category: Qualità Spirituali)
 (Bahaiprayers.net ID: 7893)
+
+
 
 
 ### <a id="bpn7894"></a> Prayer bpn7894 in Italiano
@@ -1351,6 +1661,8 @@ Signore! Non mi allontanare dall’oceano della Tua ricchezza e dal paradiso del
 
 (Source category: Qualità Spirituali)
 (Bahaiprayers.net ID: 7894)
+
+
 
 
 ### <a id="bpn7895"></a> Prayer bpn7895 in Italiano
@@ -1365,6 +1677,8 @@ Tu sei, in verità, l’Onnipotente, il Perdonatore, il Compassionevole.
 (Bahaiprayers.net ID: 7895)
 
 
+
+
 ### <a id="bpn7896"></a> Prayer bpn7896 in Italiano
 Glorificato sia il Tuo Nome, o Signore! In chi troverò rifugio, se in verità Tu sei il mio Dio e il mio Diletto? E a chi chiederò riparo, se in verità Tu sei il Mio Signore e Padrone? E presso chi fuggirò, se in verità, Tu sei il mio Maestro e Sacrario? E chi implorerò, se in verità Tu sei il mio Tesoro e la Mèta del mio desìo? E tramite chi mi discolperò davanti a Te, se in verità Tu sei la mia somma aspirazione e il mio supremo anelito? È stata delusa ogni speranza che non sia la brama della Tua grazia celestiale e sbarrata ogni porta tranne il portale d’accesso alla fonte delle Tue benedizioni.
 Ti scongiuro, o mio Signore, per il Tuo più fulgido splendore, innanzi alla cui luce ogni anima umile s’inchina e si prostra adorante per amor Tuo – splendore innanzi alla cui radiosità il fuoco si trasforma in luce, i morti sono ricondotti a vita e ogni difficoltà s’appiana.
@@ -1374,12 +1688,16 @@ T’imploro per questo grande, mirabile splendore e per la gloria della Tua ecce
 (Bahaiprayers.net ID: 7896)
 
 
+
+
 ### <a id="bpn7897"></a> Prayer bpn7897 in Italiano
 O  Dio! Corrobora e allieta il mio spirito. Purifica il mio cuore. Illumina le mie facoltà. Rimetto ogni cosa che mi riguardi nelle Tue mani. Tu sei la mia Guida e il mio Rifugio. Non sarò più mesto e addolorato; sarò un essere felice e pieno di gioia. O Dio ! Non voglio essere pieno d’ansietà, né mi lascerò tormentare da affanni. Non mi soffermerò sulle cose spiacevoli della vita.
 O Dio! Tu mi sei più amico di quanto io non sia a me stesso. A Te mi consacro, o Signore.
 
 (Source category: Qualità Spirituali)
 (Bahaiprayers.net ID: 7897)
+
+
 
 
 ### <a id="bpn7898"></a> Prayer bpn7898 in Italiano
@@ -1392,11 +1710,15 @@ In verità, Tu sei il Misericordioso e, in verità, Tu sei il Generoso, il Cui a
 (Bahaiprayers.net ID: 7898)
 
 
+
+
 ### <a id="bpn7899"></a> Prayer bpn7899 in Italiano
 O mio Signore! O mio Signore! Questa è una lampada accesa col fuoco dell’amor Tuo e che arde con la fiamma divampata dall’albero della Tua misericordia. O mio Signore! Aumenta la sua luce, il suo calore e la sua fiamma col fuoco che divampa sul Sinai della Tua Manifestazione. In verità Tu sei Colui Che Conferma, Che Assiste, il Potente, il Generoso, l’Amoroso.
 
 (Source category: Qualità Spirituali)
 (Bahaiprayers.net ID: 7899)
+
+
 
 
 ### <a id="bpn7900"></a> Prayer bpn7900 in Italiano
@@ -1405,6 +1727,8 @@ In verità, Tu sei il Generosissimo, il Signore della grazia traboccante. Non v�
 
 (Source category: Qualità Spirituali)
 (Bahaiprayers.net ID: 7900)
+
+
 
 
 ### <a id="bpn7901"></a> Prayer bpn7901 in Italiano
@@ -1417,6 +1741,8 @@ O Signore, o mio Dio! Meschini sono questi Tuoi servi, esaltali nel Tuo eccelso 
 (Bahaiprayers.net ID: 7901)
 
 
+
+
 ### <a id="bpn7902"></a> Prayer bpn7902 in Italiano
 O Provvidente! Tu hai alitato sugli amici in Occidente la soave fragranza dello Spirito Santo e con la luce della guida divina hai rischiarato il cielo occidentale. Tu hai permesso che coloro che un tempo erano lontani Ti si facessero vicini; gli stranieri hai trasformato in amici amorevoli; hai ridestato i dormienti; hai dato consapevolezza ai disattenti.
 O Provvidente! Assisti questi nobili amici a ottenere la Tua approvazione e fa’ che siano altrettanto amici per amici e sconosciuti. Conducili nel mondo che permane in eterno; concedi loro una parte di grazia celeste; fa’ che siano veri Bahá’í, sinceramente di Dio; salvali dalle apparenze esteriori e insediali solidamente nella verità. Fa’ di loro segni e prove del Regno, stelle luminose sugli orizzonti di questa bassa vita. Rendili conforto e consolazione per l’umanità e servi della pace del mondo. Inebriali col vino del Tuo consiglio e concedi a tutti di calcare la via dei Tuoi comandamenti.
@@ -1425,6 +1751,8 @@ Tu sei il Possente, il Forte; Tu sei il Dio della forza, l’Onnipotente, l’On
 
 (Source category: Qualità Spirituali)
 (Bahaiprayers.net ID: 7902)
+
+
 
 
 ### <a id="bpn7903"></a> Prayer bpn7903 in Italiano
@@ -1438,6 +1766,8 @@ In verità, Tu sei il Possente, il Forte, il Protettore, il Benefico! In verità
 
 
 
+
+
 ## Riunioni
 
 ### <a id="bpn7904"></a> Prayer bpn7904 in Italiano
@@ -1446,6 +1776,8 @@ T’imploro, per il Tuo Essere e per Colui Che designasti quale Manifestazione d
 
 (Source category: Riunioni)
 (Bahaiprayers.net ID: 7904)
+
+
 
 
 ### <a id="bpn7905"></a> Prayer bpn7905 in Italiano
@@ -1457,6 +1789,8 @@ O Padre gentile! Accorda le Tue benedi-zioni. Non tenere conto delle nostre manc
 (Bahaiprayers.net ID: 7905)
 
 
+
+
 ### <a id="bpn7906"></a> Prayer bpn7906 in Italiano
 O Tu Signore benevolo! Questi Tuoi servi si sono riuniti volti verso il Tuo Regno e sono bisognosi dei Tuoi doni e delle Tue benedizioni. O Tu Dio! Fa’ manifesti ed evidenti i segni della Tua unicità che sono stati racchiusi in tutte le realtà della vita. Rivela e mostra le virtù che ponesti, latenti e celate, in queste realtà umane.
 O Dio! Noi siamo come le piante e la Tua generosità è come la pioggia; rinvigoriscile e fa’ ch’esse crescano con la Tua assistenza. Siamo Tuoi servi: liberaci dai legami della materia. Siamo incolti: rendici saggi. Siamo morti: donaci la vita. Siamo materialisti: dòtaci di spirito. Siamo nell’oscurità: svelaci i Tuoi misteri. Siamo bisognosi: facci ricchi e beati col Tuo illimitato tesoro. O Dio! Risuscitaci; donaci la vista; donaci l’udito; facci consapevoli dei misteri della vita, affinché i segreti del Regno siano rivelati in questo mondo e noi possiamo riconoscere la Tua unicità. Ogni dono proviene da Te; ogni benedizione viene da Te.
@@ -1466,6 +1800,8 @@ Tu sei possente; Tu sei forte; Tu sei il Donatore e il Sempre Munifico.
 (Bahaiprayers.net ID: 7906)
 
 
+
+
 ### <a id="bpn7907"></a> Prayer bpn7907 in Italiano
 O mio Dio! O mio Dio! In verità, questi servi si volgono verso di Te, supplicando il Tuo regno di misericordia. In verità, essi sono attratti dalla Tua santità e sono infiammati dal fuoco del Tuo amore, cercano la confermazione dal Tuo mirabile regno e sperano di acquisire il sapere nel Tuo celeste reame. In verità, essi bramano ardentemente la discesa dei Tuoi doni e agognano d’essere illuminati dal Sole della Realtà.
 O Signore! Fa’ di essi lampade radiose, segni di misericordia, alberi fruttiferi e stelle risplendenti. Possano levarsi al Tuo servizio ed essere uniti a Te dai vincoli e dai legami del Tuo amore, bramosi di ricevere le luci del Tuo favore. O Signore! Fa’ di loro segnacoli di guida, vessilli del Tuo regno immortale, onde del mare della Tua misericordia, specchi della luce della Tua maestà.
@@ -1473,6 +1809,8 @@ In verità, Tu sei il Generoso. In verità, Tu sei il Misericordioso. In verità
 
 (Source category: Riunioni)
 (Bahaiprayers.net ID: 7907)
+
+
 
 
 ### <a id="bpn7908"></a> Prayer bpn7908 in Italiano
@@ -1486,12 +1824,16 @@ Tu sei il Potente, l’Onnipotente, il Misericordioso e sei il Generoso, il Bene
 (Bahaiprayers.net ID: 7908)
 
 
+
+
 ### <a id="bpn7909"></a> Prayer bpn7909 in Italiano
 O Divina Provvidenza! Questa assemblea è formata dai Tuoi amici che sono attratti alla Tua bellezza e infiammati dal fuoco del Tuo amore. Trasforma queste anime in angeli del cielo, risuscitale mercè l’alito del Tuo Santo Spirito, concedi loro lingue eloquenti e cuori risoluti, conferisci loro forza celestiale e sentimenti misericordiosi, rendili promulgatori del-l’unità del genere umano e causa d’amore e di concordia nel mondo dell’umanità, così che la perigliosa oscurità di ignoranti pregiudizi svanisca grazie alla luce del Sole della Verità, si illumini questo squallido mondo, questo regno della materia assorba i raggi del mondo dello spirito, questi differenti colori si fondano in un unico colore e la melodia della luce s’innalzi fino al regno della Tua santità.
 In verità, Tu sei l’Onnipotente, il più Possente.
 
 (Source category: Riunioni)
 (Bahaiprayers.net ID: 7909)
+
+
 
 
 
@@ -1506,12 +1848,16 @@ Lode sia a Te, Che sei il Benamato di coloro che Ti hanno conosciuto.
 (Bahaiprayers.net ID: 7910)
 
 
+
+
 ### <a id="bpn7911"></a> Prayer bpn7911 in Italiano
 O Tu la Cui vicinanza è la mia brama, la Cui presenza è la mia speranza, il Cui ricordo è il mio desìo, la Cui gloriosa corte è il mio scopo, la Cui dimora è la mia mèta, il Cui nome è la mia cura, il Cui amore è la luce del mio cuore, il Cui servizio è la mia più alta aspirazione! T’imploro per il Tuo Nome mercè il quale permettesti a coloro che Ti hanno riconosciuto di librarsi verso le sublimi altezze della Tua co-noscenza e desti potere a coloro che devotamente Ti adorano di ascendere ai recinti della corte dei Tuoi santi favori, di aiutarmi a volgere il viso verso il Tuo viso, a fissare gli occhi su di Te e a narrare la Tua gloria. 
 Io sono colui, o mio Signore, che ha dimenticato tutto eccetto Te e si è volto verso l’Oriente della Tua grazia, che ha abbandonato tutto salvo Te nella speranza di avvicinarsi alla Tua corte. Vedimi, dunque, con gli occhi levati verso il Seggio che rifulge degli splendori della luce del Tuo Volto e fa’ scendere su di me, o mio Benamato, ciò che mi metterà in grado di restare saldo nella Tua Causa, sì che i dubbi degli infedeli non possano trattenermi dal volgermi verso di Te. In verità, Tu sei il Dio del Potere, l’Aiuto nel Pericolo, il Gloriosissimo, l’Onnipotente.
 
 (Source category: Saldezza)
 (Bahaiprayers.net ID: 7911)
+
+
 
 
 ### <a id="bpn7912"></a> Prayer bpn7912 in Italiano
@@ -1522,11 +1868,15 @@ In verità Tu sei il supremo Reggitore, la Verità Sovrana, l’Aiuto nel Perico
 (Bahaiprayers.net ID: 7912)
 
 
+
+
 ### <a id="AB00001FIR"></a> Prayer AB00001FIR in Italiano
 O Signore mio Dio! Assisti i Tuoi amati ad essere saldi nella Tua Fede, a camminare sulle Tue vie, ad essere costanti nella Tua Causa. Da’ loro la Tua grazia onde sopportino i furiosi assalti dell’egoismo e della passione, e seguano la luce della guida divina. Tu sei il Potente, il Benevolo, Colui Che Esiste da Sé, il Donatore, il Compassionevole, l’Onnipotente, il Generosissimo.
 
 (Source category: Saldezza)
 (Bahaiprayers.net ID: 7913)
+
+
 
 
 ### <a id="bpn7914"></a> Prayer bpn7914 in Italiano
@@ -1535,6 +1885,8 @@ Signore! Questi sono i Tuoi servi rimasti saldi e fermi nel Tuo Patto e nel Tuo 
 
 (Source category: Saldezza)
 (Bahaiprayers.net ID: 7914)
+
+
 
 
 ### <a id="bpn7915"></a> Prayer bpn7915 in Italiano
@@ -1550,6 +1902,8 @@ O Signore di tutti gli esseri e Re del visibile e dell’invisibile, io Ti chied
 (Bahaiprayers.net ID: 7915)
 
 
+
+
 ### <a id="bpn7916"></a> Prayer bpn7916 in Italiano
 O Dio compassionevole! Ti siano rese grazie per avermi destato e reso cosciente. Tu mi hai donato un occhio che vede e un orecchio che ode, mi hai condotto al Tuo regno guidandomi per il Tuo sentiero, mi hai additato la retta via permettendomi d’entrare nell’arca della liberazione. O Dio! Mantienimi costante e rendimi fermo e saldo. Preservami da prove violente, riparami e custodiscimi nella fortezza inespugnabile del Tuo Patto e del Tuo Testamento. Tu sei il Potente, Tu sei il Veggente, Tu sei Colui Che Ode.
 O Tu, Dio Compassionevole! Donami un cuore che, simile a un cristallo, sia illuminato dalla luce del Tuo amore, e ispirami pensieri che, mercè le effusioni della Tua grazia celestiale, possano cambiare questo mondo in un giardino di rose.
@@ -1557,6 +1911,8 @@ Tu sei il Compassionevole, il Misericor-dioso. Tu sei il Grande Benefico Iddio.
 
 (Source category: Saldezza)
 (Bahaiprayers.net ID: 7916)
+
+
 
 
 
@@ -1571,6 +1927,8 @@ Non v’è altro Dio che Te, l’Onnipossente, il Sovrano, l’Illimitato.
 (Bahaiprayers.net ID: 7917)
 
 
+
+
 ### <a id="bpn7918"></a> Prayer bpn7918 in Italiano
 Come dispormi a dormire, o Dio mio Dio, quando gli occhi di coloro che Ti bramano vegliano perché separati da Te; e come coricarmi per riposare, mentre le anime dei Tuoi amanti spasimano per la lontananza dalla Tua presenza?
 Ho affidato, o mio Signore, il mio spirito e il mio intero essere alla mano destra della Tua possanza e della Tua protezione, poso la testa sul guanciale per il Tuo potere e la levo secondo la Tua volontà e il Tuo beneplacito. In verità, Tu sei il Custode, il Reggitore, l’Onnipotente, il Più Possente.
@@ -1578,6 +1936,8 @@ Per la Tua Potenza! Non chiedo altro, dormendo o vegliando, se non ciò che Tu d
 
 (Source category: Sera)
 (Bahaiprayers.net ID: 7918)
+
+
 
 
 ### <a id="AB06528MID"></a> Midnight Prayer in Italiano
@@ -1588,6 +1948,8 @@ In verità, Tu sei il Donatore, il Generoso, il Misericordioso, il Perdonatore.
 
 (Source category: Sera)
 (Bahaiprayers.net ID: 7919)
+
+
 
 
 
@@ -1653,6 +2015,8 @@ E il servo che la legga e mediti s’infiammerà nelle sue vene un fuoco che ard
 
 
 
+
+
 ## Tavola di Ahmad
 
 ### <a id="bpn7926"></a> Prayer bpn7926 in Italiano
@@ -1685,6 +2049,8 @@ In verità, Egli è il Misericordioso, il Compassionevole. Lode sia a Dio, il Si
 
 
 
+
+
 ## Tavole della Visitazione
 
 ### <a id="bpn7928"></a> Prayer bpn7928 in Italiano
@@ -1705,6 +2071,8 @@ Benedici, o Signore mio Dio, il Divino Albero di Loto e le sue foglie e i suoi v
 (Bahaiprayers.net ID: 7928)
 
 
+
+
 ### <a id="bpn7929"></a> Prayer bpn7929 in Italiano
 *(Questa preghiera è stata rivelata da ‘Abdu’l-Bahá. Viene letta alla Sua Tomba. é anche recitata come pre-ghiera personale). 
 
@@ -1722,6 +2090,8 @@ Tu sei il Dispensatore, il Pietoso, il Munifico, il Benigno, il Misericordioso, 
 
 
 
+
+
 ## Umanità
 
 ### <a id="BH00868WIT"></a> Prayer BH00868WIT in Italiano
@@ -1733,6 +2103,8 @@ Tutti sono poveri e bisognosi e Tu sei, in verità, Colui Che Tutto Possiede, Co
 (Bahaiprayers.net ID: 7920)
 
 
+
+
 ### <a id="bpn7921"></a> Prayer bpn7921 in Italiano
 O Tu Signore gentile! O Tu Che sei generoso e misericordioso! Siamo servi della Tua soglia, radunati all’ombra protettrice della Tua divina unità. Il sole della Tua misericordia risplende su tutti e le nuvole della Tua generosità irrorano tutti. I Tuoi doni circondano tutti, la Tua amorosa provvidenza sostiene tutti, la Tua protezione ricopre tutti e gli sguardi del Tuo favore sono rivolti verso tutti. O Signore! Concedi le Tue infinite elargizioni e fa’ risplendere la luce della Tua guida. Illumina gli occhi, da’ perpetua gioia ai cuori. Conferisci un nuovo spirito a tutte le genti e largisci loro la vita eterna. Disserra le porte della vera comprensione e fa’ risplendere fulgente la luce della fede. Raduna tutti i popoli all’ombra della Tua generosità e fa’ che essi si uniscano in armonia, così che divengano raggi di uno stesso sole, onde di un solo oceano e frutti di un medesimo albero. Possano bere alla stessa fonte, essere rinfrescati dalla stessa brezza, essere illuminati dalla stessa sorgente di luce. Tu sei il Donatore, il Misericordioso, l’Onnipotente.
 
@@ -1740,11 +2112,15 @@ O Tu Signore gentile! O Tu Che sei generoso e misericordioso! Siamo servi della 
 (Bahaiprayers.net ID: 7921)
 
 
+
+
 ### <a id="bpn7922"></a> Prayer bpn7922 in Italiano
 O Tu Signore compassionevole, Tu Che sei generoso e capace! Siamo Tuoi servi, protetti dalla Tua provvidenza. Volgi su noi lo sguardo dei Tuoi favori. Da’ luce ai nostri occhi, udito alle nostre orecchie e amore e comprensione ai nostri cuori. Da’ gioia e felicità alle nostre anime con le Tue liete novelle. O Signore! Indicaci il sentiero del Tuo regno e risuscitaci tutti con gli aliti dello Spirito Santo. Donaci la vita eterna e accordaci perenne onore. Unifica il genere umano e illumina il mondo dell’uma-nità. Potessimo seguire tutti il Tuo sentiero, agognare il Tuo compiacimento e cercare i misteri del Tuo regno! O Dio! Uniscici e congiungi i nostri cuori con il Tuo indissolubile legame. In verità, Tu sei il Donatore, Tu sei il Gentile e Tu sei l’Onnipotente.
 
 (Source category: Umanità)
 (Bahaiprayers.net ID: 7922)
+
+
 
 
 ### <a id="bpn7923"></a> Prayer bpn7923 in Italiano
@@ -1762,6 +2138,8 @@ Tu sei il Forte e il Potente, Tu sei il Perdonatore e Tu sei Colui Che indulge a
 
 
 
+
+
 ## Unità
 
 ### <a id="bpn7924"></a> Prayer bpn7924 in Italiano
@@ -1769,6 +2147,8 @@ O mio Dio! O mio Dio! Unisci i cuori dei Tuoi servi e rivela loro il Tuo grande 
 
 (Source category: Unità)
 (Bahaiprayers.net ID: 7924)
+
+
 
 
 ### <a id="bpn7925"></a> Prayer bpn7925 in Italiano
@@ -1780,6 +2160,9 @@ In verità, Tu sei l’Onnipotente, Colui Che Esiste da Sé, il Donatore, Colui 
 
 (Source category: Unità)
 (Bahaiprayers.net ID: 7925)
+
+
+
 
 
 

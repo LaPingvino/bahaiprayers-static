@@ -3,6 +3,46 @@ title = "Canadian Indigenous"
 tags = ['lang=nai-CA', 'prayerbook']
 +++
 
+
+
+[Blackfoot / Siksika](#Blackfoot / Siksika)
+
+[Chippewa](#Chippewa)
+
+[Cowichan Hul'q'umi'num'](#Cowichan Hul'q'umi'num')
+
+[Cree](#Cree)
+
+[Gwich'in](#Gwich'in)
+
+[Hul’qumi'num](#Hul’qumi'num)
+
+[Iroquois](#Iroquois)
+
+[Mi'kmaq](#Mi'kmaq)
+
+[Mohawk](#Mohawk)
+
+[Northern Tutchone](#Northern Tutchone)
+
+[Oneida](#Oneida)
+
+[Schuswap](#Schuswap)
+
+[Sliammon](#Sliammon)
+
+[Smalgyax-Tsimshian](#Smalgyax-Tsimshian)
+
+[Sm’algyax](#Sm’algyax)
+
+[Stolo Shxweli Halqemeylem](#Stolo Shxweli Halqemeylem)
+
+[Thompson](#Thompson)
+
+[Tla'amin Nation](#Tla'amin Nation)
+
+
+
 ## Blackfoot / Siksika
 
 ### <a id="bpn4150"></a> Prayer bpn4150 in Canadian Indigenous
@@ -16,6 +56,8 @@ táh-sokaps ki nitóX-tah-spom-ókoh unoyee isk-sáX-koy ki iy-yá-keeta-popay-n
 (Bahaiprayers.net ID: 4150)
 
 
+
+
 ### <a id="bpn4149"></a> Prayer bpn4149 in Canadian Indigenous
 Atsée-moyeh’kapee un-óm, ki kokónahn, keetáw-pop, ki akápeeyoyis, kyoos-kee-tsée-paXpee, ki mee-stúkee, keetáyk-sasohp, ki ata-níksin, ki ist-sikúm, ki isksáXko, ki mo-tíy-oXkee, ki mée-nee, ki ápoX-keepee kyám-ost-skiy;
 Apistotokee eeh-tsee-tésk-sinowa kyot-sokáp-sinee áXkeetso-keetseesinee.
@@ -24,6 +66,8 @@ Apistotokee eeh-tsee-tésk-sinowa kyot-sokáp-sinee áXkeetso-keetseesinee.
 
 (Source category: Blackfoot / Siksika)
 (Bahaiprayers.net ID: 4149)
+
+
 
 
 ### <a id="bpn4148"></a> Prayer bpn4148 in Canadian Indigenous
@@ -36,6 +80,8 @@ Apistotokeewa keeták-oXkotspómok-owa, kútat-sits-eéh’pa keeták-oXkot-spom
 
 
 
+
+
 ## Chippewa
 
 ### <a id="bpn4151"></a> Prayer bpn4151 in Canadian Indigenous
@@ -45,6 +91,8 @@ Sigakundjigauso peendji okitahgisiwinug dibishko wigiwam, gahyay o-ahbinass, oda
 
 (Source category: Chippewa)
 (Bahaiprayers.net ID: 4151)
+
+
 
 
 
@@ -61,6 +109,8 @@ He He Tu i' nul, 'i' thu lelum', 'i' thu shhw' i, 'i' thu ha lelum', 'i' thu tth
 
 
 
+
+
 ## Cree
 
 ### <a id="bpn4152"></a> Prayer bpn4152 in Canadian Indigenous
@@ -71,6 +121,8 @@ Neepawee steemoke, nedawee non say Mantou, keyooma ay cueseeheen keekag skayntag
 
 (Source category: Cree)
 (Bahaiprayers.net ID: 4152)
+
+
 
 
 
@@ -102,6 +154,8 @@ ts'at yinji'gwichil'ee ts'at ch'agwahdit.
 
 
 
+
+
 ## Hul’qumi'num
 
 ### <a id="bpn8005"></a> Prayer bpn8005 in Canadian Indigenous
@@ -119,6 +173,8 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy.  Nearnes
 
 (Source category: Hul’qumi'num)
 (Bahaiprayers.net ID: 8005)
+
+
 
 
 ### <a id="bpn8004"></a> Prayer bpn8004 in Canadian Indigenous
@@ -142,6 +198,8 @@ O my God!  O my God!  Unite the hearts of Thy servants, and reveal to them Thy g
 
 
 
+
+
 ## Iroquois
 
 ### <a id="bpn4158"></a> Prayer bpn4158 in Canadian Indigenous
@@ -154,6 +212,8 @@ i-ih-neh, ne wa-ke-jhen-tha ta-nón ó-ni ne-eh a-tie-na-wa-séh-je-ra te-tśia-
 (Bahaiprayers.net ID: 4158)
 
 
+
+
 ### <a id="bpn4157"></a> Prayer bpn4157 in Canadian Indigenous
 Yo-tás-kat ka-non-ni-yo-kweń-ra-re noń-kwe ji-ka-non-so-te ó-ni ji-ye-ná-ke-re-ó-ni ji-non ni-ka-na-do-wá-nen-ó -ni ne a-wéh-ri ó-ni ne ji-yo-noń-te, o-ni ji-yon-tah-seh-tá-kwa ó-ni ne on-wen-jió-kon, ó-ni ji-te-yo-non-to-kenh-shon, o-ni ne on-wen-jia-ke ó-ni ne ka-nia-ta-ra-ke-kó-wa, ó-ni ne ji-ka-wéh-no-te-ó-ni ne ji-ka-hén-ta-yen a-kwá ji-ók-non ni-hon-wá-na-tons ne Ni-yo ó-ni Ra-oh-ren-sa-ron-je-ra Ka-rih-ho-wa-náh-ton.
 
@@ -163,6 +223,8 @@ Yo-tás-kat ka-non-ni-yo-kweń-ra-re noń-kwe ji-ka-non-so-te ó-ni ji-ye-ná-ke
 (Bahaiprayers.net ID: 4157)
 
 
+
+
 ### <a id="bpn4159"></a> Prayer bpn4159 in Canadian Indigenous
 Ka-en-keń na-kó-ren ne én-na-ya-ko-wké-nion ne éh-ren a-ye há-wih-te ne wen-do-réh-shon ji-ni-ho-gwé-nion ne Ni-yo! Se-weń-ron Ron-wa-sen-na-yen-ek Ni-yo! Ra-hon-ha ne Ni-yo! A-gwé-gon ron-was-yoh-ten-seh ta-non a-gwé-gon ra-ti-kwe-niéns-thane Ra-ho-wén-na.
 
@@ -170,6 +232,8 @@ Ka-en-keń na-kó-ren ne én-na-ya-ko-wké-nion ne éh-ren a-ye há-wih-te ne we
 
 (Source category: Iroquois)
 (Bahaiprayers.net ID: 4159)
+
+
 
 
 
@@ -187,6 +251,8 @@ KJISAQMAWIN.
 
 
 
+
+
 ## Mohawk
 
 ### <a id="bpn4163"></a> Prayer bpn4163 in Canadian Indigenous
@@ -197,6 +263,8 @@ Wa-geh-ni-wha-gwa-risi, Ook Nkyo, Neh Ihse dá-ká-dis-son ne á-gon/yen-dé-rih
 
 (Source category: Mohawk)
 (Bahaiprayers.net ID: 4163)
+
+
 
 
 
@@ -227,6 +295,8 @@ Ilé uhuaná sulhan.
 
 
 
+
+
 ## Oneida
 
 ### <a id="bpn4172"></a> Prayer bpn4172 in Canadian Indigenous
@@ -239,6 +309,8 @@ luwaya?dadelisduh
 (Bahaiprayers.net ID: 4172)
 
 
+
+
 ### <a id="bpn4173"></a> Prayer bpn4173 in Canadian Indigenous
 gayΛgΛ ne? elΛ ayódyehde ne?n ga?nigulhaláksla?, deheja? dugóhdak lawΛniyo jilú ecΛnowánat loyanél laulhá ne?n loyanel. agwegú laulhá laonhácli? agwegú uni luwáswanst ji? nugwá ne?n laolihwadog Λhdi.
 
@@ -246,6 +318,8 @@ gayΛgΛ ne? elΛ ayódyehde ne?n ga?nigulhaláksla?, deheja? dugóhdak lawΛniy
 
 (Source category: Oneida)
 (Bahaiprayers.net ID: 4173)
+
+
 
 
 
@@ -270,6 +344,8 @@ Xex`e7-k w7ec re yucwmens-tsutucw
 (Bahaiprayers.net ID: 6859)
 
 
+
+
 ### <a id="bpn6858"></a> Prayer bpn6858 in Canadian Indigenous
 *O God Guide Me (in the Shuswap Language)
 
@@ -278,6 +354,8 @@ Tqeltk  K`ukwpi7  ts`utse`m,ects,me yucwm`imentsmeKn`uncwentsme es xenw`ewenes t
 
 (Source category: Schuswap)
 (Bahaiprayers.net ID: 6858)
+
+
 
 
 ### <a id="bpn4146"></a> Prayer bpn4146 in Canadian Indigenous
@@ -290,6 +368,8 @@ Tqeltk K`ukwpi7 ts`utse`m,ects,me yucwm`imentsmeKn`uncwentsme es xenw`ewenes ts`
 
 
 
+
+
 ## Sliammon
 
 ### <a id="bpn4147"></a> Prayer bpn4147 in Canadian Indigenous
@@ -299,6 +379,8 @@ Oh kw shet hegus, Poleset toh nehs, kweh eh sheet, hega tah ah yehs, nehs klumes
 
 (Source category: Sliammon)
 (Bahaiprayers.net ID: 4147)
+
+
 
 
 
@@ -320,6 +402,8 @@ di£ na gatgyedn
 
 
 
+
+
 ## Sm’algyax
 
 ### <a id="bpn4137"></a> Prayer bpn4137 in Canadian Indigenous
@@ -331,6 +415,8 @@ O Miyaani Da'a'ntgi Lusndaamti sü gugweelksm laawksi ada so goy'p'm biyaalsi.an
 
 (Source category: Sm’algyax)
 (Bahaiprayers.net ID: 4137)
+
+
 
 
 
@@ -360,6 +446,8 @@ Shxwelis kwes qwelesem te chichelk Siyam shxwelis seys kwes thelhílem
 (Bahaiprayers.net ID: 6853)
 
 
+
+
 ### <a id="bpn6857"></a> Prayer bpn6857 in Canadian Indigenous
 * Stó:lõ Shxweli Halq'eméylem, the language of the Soowahlie People
 
@@ -370,6 +458,8 @@ O Chilchelh Siyam, kwelachesthoyx Xyolhmethoyx Tawet te slaxets tel th'ale Qas t
 
 (Source category: Stolo Shxweli Halqemeylem)
 (Bahaiprayers.net ID: 6857)
+
+
 
 
 
@@ -391,6 +481,8 @@ There is none other God but Thee, the Help in Peril, the Self-subsisting.
 
 (Source category: Thompson)
 (Bahaiprayers.net ID: 6855)
+
+
 
 
 
@@ -419,6 +511,9 @@ helh awh nehs.
 
 (Source category: Tla'amin Nation)
 (Bahaiprayers.net ID: 6854)
+
+
+
 
 
 

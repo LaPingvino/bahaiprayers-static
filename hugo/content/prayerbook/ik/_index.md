@@ -3,6 +3,12 @@ title = "Alaska Native"
 tags = ['lang=ik', 'prayerbook']
 +++
 
+
+
+[Iñupiaq - North Slope Dialect](#Iñupiaq - North Slope Dialect)
+
+
+
 ## Iñupiaq - North Slope Dialect
 
 ### <a id="bpn9104"></a> Prayer bpn9104 in Alaska Native
@@ -18,6 +24,8 @@ There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 (Bahaiprayers.net ID: 9104)
 
 
+
+
 ### <a id="bpn9099"></a> Prayer bpn9099 in Alaska Native
 **Short Healing Prayer
 Atqin mamittautigigiga, God-iiŋ, aasii itqaummatiga natqiksautigigiga. Qaninniġa Iliŋnun niġiukkutigigiga, nakuaqqutigalu Iliŋnun piqataupiaqtuq. Naglikkutin uvamnun mamirutauruq ikayuutauvluniḷu paŋmapak nunaptigni qaiñiaqtuamullu. Ilvich iḷumun Sigñataitchutin, Iḷisimałhaaqtutin, Isumatułhaaqtutin.
@@ -26,6 +34,8 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness
 
 (Source category: Iñupiaq - North Slope Dialect)
 (Bahaiprayers.net ID: 9099)
+
+
 
 
 ### <a id="bpn9095"></a> Prayer bpn9095 in Alaska Native
@@ -37,6 +47,8 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 
 (Source category: Iñupiaq - North Slope Dialect)
 (Bahaiprayers.net ID: 9095)
+
+
 
 
 ### <a id="bpn12873"></a> Prayer bpn12873 in Alaska Native
@@ -74,6 +86,8 @@ We all, verily, are patient in God.
 (Bahaiprayers.net ID: 12873)
 
 
+
+
 ### <a id="bpn12876"></a> Prayer bpn12876 in Alaska Native
 **Blessed is the Spot 
 Quviatchaktauli ini, iglulu, nalunaitchuaq inilu, suli iniqpak, uummanlu, iġġiļu, annagvigļu, qaanaaġlu, naqsraġlu, nunalu, taġiuġlu, qikiqtaġlu, nunaraaġlu, tavra tammatkunani God taiļaktuniunnii qutchiksuaġilugu nanġapiaġataġaat.
@@ -83,6 +97,8 @@ Blessed is the spot, and the house, and the place, and the city, and the heart, 
 
 (Source category: Iñupiaq - North Slope Dialect)
 (Bahaiprayers.net ID: 12876)
+
+
 
 
 ### <a id="bpn9103"></a> Prayer bpn9103 in Alaska Native
@@ -98,12 +114,16 @@ Is there any Remover of difficulties save God? Say: Praised be God! He is God! A
 (Bahaiprayers.net ID: 9103)
 
 
+
+
 ### <a id="bpn12870"></a> Prayer bpn12870 in Alaska Native
 ** Invocation of The Báb
 God, God-igigikpiñ, Piviutaġigikpiñ, Pisramaaġaatin uummatiġma.
 
 (Source category: Iñupiaq - North Slope Dialect)
 (Bahaiprayers.net ID: 12870)
+
+
 
 
 ### <a id="bpn12875"></a> Prayer bpn12875 in Alaska Native
@@ -117,6 +137,8 @@ Verily, He is in Himself the Knower, the Sustainer, the Omnipotent.
 
 (Source category: Iñupiaq - North Slope Dialect)
 (Bahaiprayers.net ID: 12875)
+
+
 
 
 ### <a id="bpn9102"></a> Prayer bpn9102 in Alaska Native
@@ -134,6 +156,8 @@ O my Lord! Purify them from trespasses, dispel their sorrows, and change their d
 (Bahaiprayers.net ID: 9102)
 
 
+
+
 ### <a id="bpn9098"></a> Prayer bpn9098 in Alaska Native
 **Prayer for Children
 God, iḷisauttukki migłiqtut. Migłiqtut ukua nautchiagurut nautchiivigñi. Sialugnik aatchukki; siqiñġanik iḷumun ittuam qaummaġiksitki nakuaqqutikkun. Anuqsraaġiksitki nutaaġuqsaqtut aasii iḷisimalutiglu naulutiglu qiññaġikpagmiḷutik. Pamatchiraurutin. Nagliktaurutin.
@@ -144,6 +168,8 @@ O God! Educate these children. These children are the plants of Thine orchard, t
 (Bahaiprayers.net ID: 9098)
 
 
+
+
 ### <a id="bpn9100"></a> Prayer bpn9100 in Alaska Native
 **Prayer for Steadfastness
 Anayanaikkich avluġnipayaavut, Ataniiq, apqutikkun suaŋasaaġlugiḷḷu uummativut kamakkutigni. 
@@ -152,6 +178,8 @@ Make firm our steps, O Lord, in Thy path and strengthen Thou our hearts in Thine
 
 (Source category: Iñupiaq - North Slope Dialect)
 (Bahaiprayers.net ID: 9100)
+
+
 
 
 ### <a id="bpn9097"></a> Prayer bpn9097 in Alaska Native
@@ -169,6 +197,8 @@ Verily, Thou art the Powerful, the Mighty, the Seer, the Hearer.
 (Bahaiprayers.net ID: 9097)
 
 
+
+
 ### <a id="bpn10177"></a> Prayer bpn10177 in Alaska Native
 **Short Children's Prayer
 
@@ -178,6 +208,9 @@ O God, guide me, protect me, make of me a shining lamp and a brilliant star. Tho
 
 (Source category: Iñupiaq - North Slope Dialect)
 (Bahaiprayers.net ID: 10177)
+
+
+
 
 
 

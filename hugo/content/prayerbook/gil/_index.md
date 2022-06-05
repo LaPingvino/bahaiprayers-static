@@ -3,6 +3,90 @@ title = "Kiribati"
 tags = ['lang=gil', 'prayerbook']
 +++
 
+
+
+[Aan te Waaki](#Aan te Waaki)
+
+[Aine](#Aine)
+
+[Ataei](#Ataei)
+
+[Betebeke](#Betebeke)
+
+[Botaki](#Botaki)
+
+[Botaki n Tamnei](#Botaki n Tamnei)
+
+[Botannaomata](#Botannaomata)
+
+[Huqúqu’lláh: Inaomatan te Atua](#Huqúqu’lláh: Inaomatan te Atua)
+
+[Ingaabong](#Ingaabong)
+
+[Kaanian te Atua](#Kaanian te Atua)
+
+[Kabutireirei](#Kabutireirei)
+
+[Kabwarabure](#Kabwarabure)
+
+[Kamanomano](#Kamanomano)
+
+[Kamwaawaaki](#Kamwaawaaki)
+
+[Kataitai ao Kangaanga](#Kataitai ao Kangaanga)
+
+[Katiteuanaaki](#Katiteuanaaki)
+
+[Naake a tia ni Mate](#Naake a tia ni Mate)
+
+[Nebonebo ao Kakaaitau](#Nebonebo ao Kakaaitau)
+
+[Rikirake n Tamnei](#Rikirake n Tamnei)
+
+[Tabonibain te Waaki](#Tabonibain te Waaki)
+
+[Tabureti Ibukin Te Tia Borau ae Tabu](#Tabureti Ibukin Te Tia Borau ae Tabu)
+
+[Tabureti ibukin Karamera](#Tabureti ibukin Karamera)
+
+[Taburetin te Ai](#Taburetin te Ai)
+
+[Tairiki](#Tairiki)
+
+[Tataro aika a Taabangaki](#Tataro aika a Taabangaki)
+
+[Te Aki Mamatam](#Te Aki Mamatam)
+
+[Te Buoka ao te Ibuobuoki](#Te Buoka ao te Ibuobuoki)
+
+[Te Katoki Aoraki](#Te Katoki Aoraki)
+
+[Te Mare](#Te Mare)
+
+[Te Tabureti Nakon Ahmad](#Te Tabureti Nakon Ahmad)
+
+[Te Tabureti ibukin Kawaran Bangota](#Te Tabureti ibukin Kawaran Bangota)
+
+[Te Tataro ae Kabaebae ae Abwabwaki](#Te Tataro ae Kabaebae ae Abwabwaki)
+
+[Te Tataro ae Kabaebae ae Buburatau](#Te Tataro ae Kabaebae ae Buburatau)
+
+[Te Tataro ae Kabaebae ae Uarereke](#Te Tataro ae Kabaebae ae Uarereke)
+
+[Te Tataro are e Abwabwaki Ibukin te Katoki Aoraki](#Te Tataro are e Abwabwaki Ibukin te Katoki Aoraki)
+
+[Te Utu](#Te Utu)
+
+[Te ririki ae e Boou](#Te ririki ae e Boou)
+
+[Teimatoa](#Teimatoa)
+
+[Teimatoa i nanon te Boraraoi](#Teimatoa i nanon te Boraraoi)
+
+[Toara ni Bong](#Toara ni Bong)
+
+
+
 ## Aan te Waaki
 
 ### <a id="bpn10412"></a> Prayer bpn10412 in Kiribati
@@ -15,6 +99,8 @@ Boni Ngkoe, ni koaua, te Tia Angaanga te Maiu, te Tia Buobuoki, te Aakoi, te Tit
 
 
 
+
+
 ## Aine
 
 ### <a id="bpn10451"></a> Prayer bpn10451 in Kiribati
@@ -24,11 +110,15 @@ Au Uea, au Tangira, Maamaten nanou!  Raonai i nanon maroaau ao irai ni kanakoaki
 (Bahaiprayers.net ID: 10451)
 
 
+
+
 ### <a id="bpn10452"></a> Prayer bpn10452 in Kiribati
 Au Uea!  Au Uea!  I Neboiko ao I Katituaraoiko bwa Ko a tia n nanoangaa Am toro te aine ae mangori aei.  E bon karinanoa ma ni Kamoamoako Am toro aei ngkai Ko a tia ni kairia nakon Ueam ma n kaongoa Am weewete ae moan te rietaata nakon te aonaaba aei, ao Ko anganna naba te noraaba bwa e na noori Am kanikina ake a konaa ni kakoaua Am tautaeka n tokanikai i aon bwaai nako.  Au Uea!  I a bon anganiko te ataei ae i nanon birotou aei bwa e aonga n riki bwa ataein Abanueam ae moan te bongana, bwa e na rikirake i nanon Am tangira, e na maiu ma n rikirake i aan Am kaawakin ma Am kairiiri.  E bon koaua!  Bwa boni Ngkoe te Aakoi.  E bon koaua bwa boni Ngkoe ae moan te bati Am bwai n Aakoi.
 
 (Source category: Aine)
 (Bahaiprayers.net ID: 10452)
+
+
 
 
 
@@ -41,6 +131,8 @@ Te Atua!  Reireiniia ataei aikai.  Ataei aikai bon aroka n Am onaroka, Ueen Am t
 (Bahaiprayers.net ID: 10397)
 
 
+
+
 ### <a id="bpn10398"></a> Prayer bpn10398 in Kiribati
 Atuau! Kairai ao kaawakinai. Kaotaa riki tauran nanou ao karikai bwa te itoi ae raneanea.
 Bon ni Ngkoe te Mwaaka ao te Korakora.
@@ -49,12 +141,16 @@ Bon ni Ngkoe te Mwaaka ao te Korakora.
 (Bahaiprayers.net ID: 10398)
 
 
+
+
 ### <a id="bpn10399"></a> Prayer bpn10399 in Kiribati
 Au Uea!  Au Uea! Ngai te teei ae e karako au ririki. Kamarikeai man mmamman Am atataiaomata, kataneiaai i nanon bwanibwanin Am tangira, reireiai i nanon kuuran Am kairiiri ao karikirakeai i aan nuun Am tituaraoi.  Kabwaraai man te roo, karikai bwa teuana te oota ae ura mwaaka; kainaomataai man te aki kukurei, karikai bwa ueen te o n rooti; katauai bwa Nna riki bwa te toro i matan Am mataroa ao karuoa nako aou te aroaro ao te anua ake aekaia naake a etieti; karaoai bwa teuana bukin rikin te tituaraoi i bukin te aonaaba n aomata, ao unekenekea atuu ni baunuean te maiu ae akea tokina.
 Ni koaua, boni Ngkoe te Korakora, te Matairiki, te Tia Ongo.
 
 (Source category: Ataei)
 (Bahaiprayers.net ID: 10399)
+
+
 
 
 ### <a id="bpn10400"></a> Prayer bpn10400 in Kiribati
@@ -66,11 +162,15 @@ Te Tia Karikibwai!  E ngae ngke bon ngaiira uteute ae akea manera, ma bon bwain 
 (Bahaiprayers.net ID: 10400)
 
 
+
+
 ### <a id="bpn10401"></a> Prayer bpn10401 in Kiribati
 Te Atua, karikirakea te teei aei i nanon Tangiram, anganna te amwarake teuana mai nuukan nanon Am aakoi ae riai i bukina, ao kaawakinna raoi ni nnen rootin Am tangira ao kamaiua n ranin Am aakoi.  Karikia bwa ataein Abanueam ao kairia i nanon Taekam.  Ngkoe ae moan te Mwaaka ma n Aakoi ao moan te Ataataiaomata, are E moa i aon bwaai ni kabane Ana Karaoiroi.
 
 (Source category: Ataei)
 (Bahaiprayers.net ID: 10401)
+
+
 
 
 
@@ -81,6 +181,8 @@ Ngkoe Te Atua ae Moan te Itiaki ao te Katoki ni Mwaaka!  Bon au Uea Ngkoe ae moa
 
 (Source category: Betebeke)
 (Bahaiprayers.net ID: 10453)
+
+
 
 
 
@@ -97,6 +199,8 @@ Bon Ngkoe te Mwaaka, Kabanea ni Korakora, te Nanoanga ao bon Ngkoe te Tituaraoi,
 (Bahaiprayers.net ID: 10413)
 
 
+
+
 ### <a id="bpn10414"></a> Prayer bpn10414 in Kiribati
 Ngkoe Te Atua ae te atataiaomata! Ngkoe are Ko korakora ma ni mwaaka!  Ngkoe are te Tama ae moan te aakoi! Tooro aikai a tia n ikotaki n rairaki Nakoim, ni bubutii ma te mangori n atiibun Am mataroa, n tangira Am tituaraoi are akea tokina man Am karaunano ae kakannato.  Akea aia oi ma ti kukurein Nanom. Akea nanoia bwa ti te beku i bukin ana aonaaba te botannaomata. 
      Te Atua! An karaneanea te ikotaki aio. Kariki naano bwa a na atataiaomata. Katoamauiia n Ana tituaraoi te Tamnei ae Raoiroi. Kaburea taekan te mwaaka teuana mai karawa nakoia.  Kakabwaiaia n iango ni karawa.  Karikirakea kokoauaia bwa aonga iai ngaiia n rairaki nakon Abanueam ma te nanorinano ae bwanin ao te nano maraki ao tabeakinan te beku i bukin ana aonaaba ni botannaomata.  A bia ngaiia n tatabemaniia nako n riki bwa taura nenea aika a oota nako.  A bia ngaiia n tatabemaniia nako n riki bwa itoi aika a kateke mata.  A bia ngaiia n tatabemaniia nako n riki bwa tamaroan matamataia ao kianakon boiarara i nanon Uean Te Atua.
@@ -105,6 +209,8 @@ Te Atua!  Kanonoira n Am katoronibwai. Boni Ngkoe te Mwaaka. Boni Ngkoe te Tia A
 
 (Source category: Botaki)
 (Bahaiprayers.net ID: 10414)
+
+
 
 
 
@@ -119,6 +225,8 @@ Te Atua!  Karaoi tamneira bwa a na tinea Kibun Am katiteuana n Atua, kakimwareir
 (Bahaiprayers.net ID: 10463)
 
 
+
+
 ### <a id="bpn10464"></a> Prayer bpn10464 in Kiribati
 *(An botaki ngkami n te kimwareirei ae akea renganana, ao ni moanakin te bowi, atonga te tataro aio):
 Ngkoe Uean te Abanuea! E ngae n are rabwatara a botaki ikai, ma nanora a mwaneraoi ni uotakinako n Am tangira, ao ti a tabekaki nako n ootan Moam ae e oota nako. E ngae n are ti ngore ma ti a tataninga kaotiotakin Mwaakam ao Korakoram. E ngae n are ti a kainnano n akea ara bwai ao akea angara, ma ti bon anaanai baike a bobuaka man kaubwain Abanueam. E ngae n are timtim ngaira, ma ti bon tootoom man kabin nanon Am marawa. E ngae ngke ngaira bubuntano, ma ti bon raitiiti man mimitongin Am Taai are raneanea.
@@ -126,6 +234,8 @@ Ngkoe ae te Tia Angaanga! Karuoa Am buoka, bwa ni kabane aika a botaki ikai a na
 
 (Source category: Botaki n Tamnei)
 (Bahaiprayers.net ID: 10464)
+
+
 
 
 
@@ -146,6 +256,8 @@ Ngkoe ara Uea ae e aakoi! Ko a tia ni karika te botannaomata nako man te riki ae
 
 
 
+
+
 ## Huqúqu’lláh: Inaomatan te Atua
 
 ### <a id="bpn10462"></a> Prayer bpn10462 in Kiribati
@@ -155,6 +267,8 @@ Ko na rangi ni karietaataaki ngkoe ae Uean te karikibwai ni kabane, are boni Ngk
 
 (Source category: Huqúqu’lláh: Inaomatan te Atua)
 (Bahaiprayers.net ID: 10462)
+
+
 
 
 
@@ -168,11 +282,15 @@ Bon akea riki Te Atua bwa ti Ngkoe, te Onoti n Ti Ngaia, ae Akea Kabotauana, te 
 (Bahaiprayers.net ID: 10420)
 
 
+
+
 ### <a id="bpn10421"></a> Prayer bpn10421 in Kiribati
 Atuau, I a tia ni uti i nanon Am katantan, ao I a riki bwa teuare e bubutii katanana ni maeka i nanon Am tabo ni kaawakin ma korakoran Am totoko.  Au Uea, kaotaa nanou n raoiroin kanoan Bongin Ataakim n ai aron naba ae Ko kaotaa iai au taratara n ootan ngainan Am aakoi.
 
 (Source category: Ingaabong)
 (Bahaiprayers.net ID: 10421)
+
+
 
 
 ### <a id="bpn10422"></a> Prayer bpn10422 in Kiribati
@@ -183,6 +301,8 @@ Ngkoe te Uea ae Atuau, karaoiroa Teuare Ko na tia ni kateia i aona Aram aika a m
 
 (Source category: Ingaabong)
 (Bahaiprayers.net ID: 10422)
+
+
 
 
 
@@ -206,6 +326,8 @@ Bon Ngkoe, ni koaua, te Tamaroa, te Mimitong, te Mwaaka, te Konai Bwaai nako!
 
 
 
+
+
 ## Kabutireirei
 
 ### <a id="bpn10434"></a> Prayer bpn10434 in Kiribati
@@ -216,6 +338,8 @@ Kataua ngkanne i bukiu, Ngkoe Atuau, are e na riki bwa kakannaton Ueam, ao buoka
 (Bahaiprayers.net ID: 10434)
 
 
+
+
 ### <a id="bpn10435"></a> Prayer bpn10435 in Kiribati
 Atuau, buoka Am toro aei bwa e na karietaa te Taeka, ao n ekanakoa are akea nanona ao are e kaairua, ni katea raoi te koaua, ni kabutinakoi taian kiibu aika a tabu, ni kaotai te oota, ao ni karika ootan te ingaabong n ingi i nanoia ake a etieti.  Boni Ngkoe, ni koaua, te Moamoaaomata, te Kabwarabure.
 
@@ -223,11 +347,15 @@ Atuau, buoka Am toro aei bwa e na karietaa te Taeka, ao n ekanakoa are akea nano
 (Bahaiprayers.net ID: 10435)
 
 
+
+
 ### <a id="bpn10436"></a> Prayer bpn10436 in Kiribati
 O te Atua ae Atuau!  Buokiia Am toro aika Ko onimakiniia bwa a na tatangira ma n akoako nanoia.  Buokiia ni kataorababa, i buakoia natannaomata nako n te aonaaba, ootan te kairiiri are e roko man Botakiia naake a ririeta.  Ni koaua, boni Ngkoe te Matoa, te Mwaaka, te Korakora, te Kabanea ni Konabwai, te Tia Angaanga.  Ni koaua, boni Ngkoe te Moamoaaomata, te Maem, te Raoiroi, ao te Kabanea n Atataiaomata.
 
 (Source category: Kabutireirei)
 (Bahaiprayers.net ID: 10436)
+
+
 
 
 ### <a id="bpn10437"></a> Prayer bpn10437 in Kiribati
@@ -238,6 +366,8 @@ Ni koaua bon Ngkoe te Mwaaka, te Korakora ao te Tia Konai Bwaai nako, ao bon Ngk
 
 (Source category: Kabutireirei)
 (Bahaiprayers.net ID: 10437)
+
+
 
 
 ### <a id="bpn10438"></a> Prayer bpn10438 in Kiribati
@@ -253,6 +383,8 @@ Ni koaua, bon Ngkoe te Tia kam¬a¬toaia naake Ko bon taku bwa Ko nano irouia ak
 (Bahaiprayers.net ID: 10438)
 
 
+
+
 ### <a id="bpn10439"></a> Prayer bpn10439 in Kiribati
 Kaotaki nakoia kaain te Bahá’í n Aonon te United States ao Canada 
 *Are e mwamwananga nakon iteran mwakoro nako ni kabuta te reirei, iaon maunga, rereua, aaba ao taari ke wareka raoi te bubuti aei:
@@ -264,6 +396,8 @@ Ni koaua, bon Ngkoe te Nanoanga, te Mwaaka, te Korakora, ao Katokia Nanoanga.
 
 (Source category: Kabutireirei)
 (Bahaiprayers.net ID: 10439)
+
+
 
 
 ### <a id="bpn10440"></a> Prayer bpn10440 in Kiribati
@@ -284,6 +418,8 @@ O te Uea!  Taenakoa te rotongitong man naano aika bakairae aikai, ao kaotai naan
 (Bahaiprayers.net ID: 10440)
 
 
+
+
 ### <a id="bpn10441"></a> Prayer bpn10441 in Kiribati
 Kaotaki nakoia kaain te Bahá’í n Aonon Meangmainiku 
 *Te bubuti ae inano e kona ni warekaki irouia taan reirei ao raao ni katoa bong:
@@ -296,6 +432,8 @@ Ni koaua, bon Moan te Mwaaka Ngkoe, te Korakora, te Wanawana ao te Nooraba.
 (Bahaiprayers.net ID: 10441)
 
 
+
+
 ### <a id="bpn10442"></a> Prayer bpn10442 in Kiribati
 Kaotaki nakoia kaain te Bahá’í n Aonon Maiaki 
 *Ni kabane tamnei ake a mwananga inanon kaawa aika bubura, kaawa aika uarereke ao bwariko n auti tabeua n aono aikai ao e katabea ma kakianakoan boiararan te Atua, e na wareka aio ni karaurau ni katoa ingabong:
@@ -304,6 +442,8 @@ Bon Ngkoe te Korakora ao te Tia Karaoi Bwaai nako nakon Kukureim.
 
 (Source category: Kabutireirei)
 (Bahaiprayers.net ID: 10442)
+
+
 
 
 ### <a id="bpn10443"></a> Prayer bpn10443 in Kiribati
@@ -317,6 +457,8 @@ O te Uea!  I bon mamara, kamarurungai ni Mwaakam ao Korakoram.  Neweu e baebae, 
 (Bahaiprayers.net ID: 10443)
 
 
+
+
 ### <a id="bpn10444"></a> Prayer bpn10444 in Kiribati
 Kaotaki nakoia kaain te Bahá’í n Aonon Maeao 
 *Te maroro ae inano e kona ni warekaki irouia ni katoa bong:
@@ -327,6 +469,8 @@ O te Uea!  I bon toara, tii ngai ao man rinano.  Irou bon akea te korakora ma ti
 (Bahaiprayers.net ID: 10444)
 
 
+
+
 ### <a id="bpn10445"></a> Prayer bpn10445 in Kiribati
 Kaotaki nakoia kaain te Bahá’í iaon Canada ao i Greenland
 Ko na neboaki Ngkoe, O Atuau!  Aikai Am toro aika a katikaki nakon boiararan Am nanoanga, a kakiaki man ain te aroka are ura are bon Mairoum n tii Ngkoe, ao mataia a kakukureiaki man taraakin raneanean te oota are otanako mai Sinai are bon Mairoum n tii Ngkoe.
@@ -335,6 +479,8 @@ Ni koaua, bon Ngkoe te Kabanea ni Mwaaka, Taubukin te Rietata, Akea Tokin Am Kak
 
 (Source category: Kabutireirei)
 (Bahaiprayers.net ID: 10445)
+
+
 
 
 ### <a id="bpn10446"></a> Prayer bpn10446 in Kiribati
@@ -350,6 +496,8 @@ Ni koaua, bon Ngkoe te Mwaaka, te Korakora, Akea Tian Mwakana.
 
 
 
+
+
 ## Kabwarabure
 
 ### <a id="bpn10411"></a> Prayer bpn10411 in Kiribati
@@ -358,6 +506,8 @@ Buokai, au Uea, ni kaineti Nakoim, ao n ongoongo ni bwanaaia naake Ko tangiriia,
 
 (Source category: Kabwarabure)
 (Bahaiprayers.net ID: 10411)
+
+
 
 
 
@@ -371,6 +521,8 @@ Karikai bwa Nna manga oki nakon mweengau ni Korakoram ao Mwaakam.  Boni Ngkoe ni
 (Bahaiprayers.net ID: 10425)
 
 
+
+
 ### <a id="bpn10426"></a> Prayer bpn10426 in Kiribati
 Au Uea!  Ko bon ataia bwa aomata a bane n otabwaniniaki n taian kammaraki ao n taian tekebuaka ao ni katomimiaki ma kangaanga ao kakumekume.  Ni katoa nako te kataitai ao e bon eweka te aomata, ao ni katoa nako te kangaanga aika a kakamaaku aikai n ai aron ana ewaewa te naeta.  Bon akea te tabo ni kamanomano ao ni kaawakin ma ti i aan bain Am kakaawakin, Am kamanomano, Am kairiiri ao Am tararua.
 Bon Ngkoe are Ko nanoanga! Ae Atuau!  Am kamanomano bwa nanoangaeakiu!  Atuau!  Karika Am kakaawakin bwa au bwai ni katantan, Am kamanomano bwa otangau, karinanoau i matan mataroan Am katiteuana, ao Am tararua ma Am kakaawakin bwa au nono ao nneu.  Kaawakinai man au iango nako ao nanou ao kairiirai man aeka n aoraki nako, kataitai, kangaanga ma aeka ni kataitai aika a korakora.
@@ -381,6 +533,8 @@ Ni koaua, bon Ngkoe te Tia Kakaawakin, te Tia kairiiri, te Tia Kateimatoa, te Ti
 
 
 
+
+
 ## Kamwaawaaki
 
 ### <a id="bpn10405"></a> Prayer bpn10405 in Kiribati
@@ -388,6 +542,8 @@ Atongnga:  Te Atua bon mwiokon bwaai ni kabane.  Akea i karawa ke i aon te aba a
 
 (Source category: Kamwaawaaki)
 (Bahaiprayers.net ID: 10405)
+
+
 
 
 
@@ -403,11 +559,15 @@ Ko konabwai ni karaoa are e Kakukureiko. Akea Te Atua bwa ti Ngkoe, te Buoka n t
 (Bahaiprayers.net ID: 10447)
 
 
+
+
 ### <a id="bpn10448"></a> Prayer bpn10448 in Kiribati
 Ti Te Atua ke iai ae E konaa ni kanakoi kangaanga?   Atongnga: E na neboaki Te Atua.  Bon Te Atua Ngaia, ao aomata ni kabane bon Ana toro ake a bane n ira nanon Ana taeka.
 
 (Source category: Kataitai ao Kangaanga)
 (Bahaiprayers.net ID: 10448)
+
+
 
 
 ### <a id="bpn10449"></a> Prayer bpn10449 in Kiribati
@@ -420,6 +580,8 @@ Ko bon rangi ni karietataaki riki Ngkoe, ae Uea ni karawa ma aon te aba, i aon a
 
 
 
+
+
 ## Katiteuanaaki
 
 ### <a id="bpn10450"></a> Prayer bpn10450 in Kiribati
@@ -427,6 +589,8 @@ Atuau! Atuau! Katiteuanai nanoia Am toro, ao kaoti nakoia bukin Am Waaki ae e ka
 
 (Source category: Katiteuanaaki)
 (Bahaiprayers.net ID: 10450)
+
+
 
 
 
@@ -449,6 +613,8 @@ Ni koaua, ti bon bane ni kaantaninga iroun Te Atua.
 (Bahaiprayers.net ID: 10402)
 
 
+
+
 ### <a id="bpn10403"></a> Prayer bpn10403 in Kiribati
 Am bwai te mimitong te Uea ae Atuau! Tai kamangora teuare Ko a tia ni karietaata ni mwaakan Inaomatam n tautaeka ae akea tokina, ao tai kamwaawa ni kararoaa mai Iroum teuare Ko a tia ni karinna n te umwanrianna n Am aki tootoki. Atuau, Ko na kanga ni karenakoa teuare ngaia are Ko a tia ni kanuua n Rikiam n Uea, ao Ko na kangaa, Maamaten nanou, ni katannakoa mai Iroum teuare Ko a bon tia n riiriki bwa ana tabo ni kamauri? Ko na kangaa ni karinanoa teuare ngaia are Ko a tia ni tabekiarake ke ni mwaninga taekan teuare ngaia are ko a tia ni karikia ni konaa n Uringko?
 Te kamimitongaki, moan te kamimitongaki Ngkoe! Ngkoe bon Ngaia are E Uea man te aki tootoki n te karikibwai ae e bwanin ao Oin Waakina, ao Ko a bon tiku n aki tootoki bwa te Uea irouia bwaai ni kabane ake a karikaki ao te Tia baairei aroia. Ko kamimitongaki, Atuau! Ngkana Ko katoka Am ataataiaomata nakoia Am toro antai, ngkanne, ae e na kaota te ataataiaomata nakoiia; ao ngkana Ko rawa ni kamaiuia ake ko tangiriia, antai riki ae e konaa ni kamaiuiia?
@@ -458,6 +624,8 @@ Ko kamimitongaki, ao te kamimitongaki ae akea baaireana Ngkoe! Ko bon neboaki i 
 (Bahaiprayers.net ID: 10403)
 
 
+
+
 ### <a id="bpn10404"></a> Prayer bpn10404 in Kiribati
 Atuau!  Ngkoe ae te Tia Kabwarai buure, te Tia Tituaraoi, ao te Tia Kabebetei naano.
 I a bubutii Nakoim ma te nanorinano bwa Ko na kabwarai bureia naake a tia ni mate rabwataia, ao tamneia a waerake nakon te maiu are akea tokina.
@@ -465,6 +633,8 @@ Te Uea, kaitiakiia man taian bure, katoki raraomaia ao onea te ro ane irouia nak
 
 (Source category: Naake a tia ni Mate)
 (Bahaiprayers.net ID: 10404)
+
+
 
 
 
@@ -479,6 +649,8 @@ Kaootai moaia Am toro, te Uea, bwa a aonga n Tataraiko; ao kaitiaki nanoia bwa a
 
 
 
+
+
 ## Rikirake n Tamnei
 
 ### <a id="bpn10427"></a> Prayer bpn10427 in Kiribati
@@ -489,12 +661,16 @@ Ngkoe, ni koaua, te Kabanea ni Korakora, te Kabanea ni Mimitong, Moan te Mwaaka.
 (Bahaiprayers.net ID: 10427)
 
 
+
+
 ### <a id="bpn10428"></a> Prayer bpn10428 in Kiribati
 Kamooai, O Ngkoe Atuau,  man karewen boiararan karaangan Am aki tootoki, ao katauai bwa Nna katoonga uanikain oioin Arom, O Ngkoe au Kaantaninga! Man itiakin nein Am tangira katauai bwa Nna nimma, O Ngkoe au Mimitong, ao kataua i bukiu bwa Nna maeka i aan nuun Am tabo ni kamanomano ae akea tokina O Ngkoe Ootau! Karikai bwa Nna aiwaa i nanon tawaanan Kaaniam, are bon i Matam, O Ngkoe are I rangi n tangiria, ao katekatekaai i angatain kaintokanuean Am nanoanga, , O Ngkoe are I nano Irouna! Kataua te ikeike bwa e na riaou man boiararan angin nako Kukureim, O Ngkoe au Katoki, ao katauai nakon rietan nako Baretaitin Oioim, O Ngkoe are I kamoamoaa! Katauai bwa Nna ongo tangin bwanaan nako Taoben Arom ae ti teuana, O Ngkoe te Oota-mwaaka, ao rinanon tamnein Mwaakam ao Korakoram kamaiuai, O Ngkoe te Tia Kakatauraoi i bukiu! Karikai bwa Nna teimatoa n tamnein Am tangira, O Ngkoe te Tia Kateimatoa, ao kamatoai waeu i nanon kawain Nanom are Ko tangiria.  O Ngkoe are Ko karikai! Kataua bwa Nna maeka n akea tokina i nanon onarokan Arom n tamnei, i bon Matam, O Ngkoe are Ko bon nananoangaai, ao kateiraoai i aon kaintokan Mimitongim, O Ngkoe are te Tia Bwainai ni koaua! Tabekai rake nakon karawan Am tangira n aakoi, O Ngkoe te Tia Kamaiu, ao n Itoin Ngainan Am kairiiri kairiirai O Ngkoe are I matennanoia! Weteai bwa Nna mena i mwaain kaotiotan nako Arom n tamnei are a aki nooraki, O Ngkoe are Rikiau ao rietaatan are I kainnanoia, ao karikai bwa Nna manga oki nakon oioin boiararan Tamaroam are Ko na bon kaotiotia, O Ngkoe are bon Atuau!
 Ko bon mwaaka ni karaoa are Ko nano iai.  Boni Ngkoe, ni koaua, te kabanea n Rine, te Kabane ni Mimitong, te Kabane n Rietaata.
 
 (Source category: Rikirake n Tamnei)
 (Bahaiprayers.net ID: 10428)
+
+
 
 
 ### <a id="bpn10429"></a> Prayer bpn10429 in Kiribati
@@ -506,6 +682,8 @@ Ni koaua, Bon Ngkoe Moan te Raoiroi are E onrake ni bwaaintituaraoi aika a kakan
 
 
 
+
+
 ## Tabonibain te Waaki
 
 ### <a id="bpn10467"></a> Prayer bpn10467 in Kiribati
@@ -513,6 +691,8 @@ Te ota ao te mimitong, te kamauri ao te kamoamoa a na tikuriia Tabonibain Ana Wa
 
 (Source category: Tabonibain te Waaki)
 (Bahaiprayers.net ID: 10467)
+
+
 
 
 
@@ -639,6 +819,8 @@ E na kamimitongaki ara Uea, ae Moan te Rietata!
 
 
 
+
+
 ## Tabureti ibukin Karamera
 
 ### <a id="bpn10455"></a> Prayer bpn10455 in Kiribati
@@ -652,6 +834,8 @@ E katabuaki Uean te botannaomata, are ngke e atongaki Arana ao a ruru iai iteran
 
 (Source category: Tabureti ibukin Karamera)
 (Bahaiprayers.net ID: 10455)
+
+
 
 
 
@@ -763,6 +947,8 @@ Ngkana a bane tooro nako ni wareka ao ni karaua n iangoa aio, ao e na kakiaaki i
 
 
 
+
+
 ## Tairiki
 
 ### <a id="bpn10406"></a> Prayer bpn10406 in Kiribati
@@ -772,6 +958,8 @@ Ni Mwaakam, I aki bubutii i nanon matuu ke n taratarau bwaai nako ma ti ake Ko t
 
 (Source category: Tairiki)
 (Bahaiprayers.net ID: 10406)
+
+
 
 
 ### <a id="bpn10407"></a> Prayer bpn10407 in Kiribati
@@ -784,6 +972,8 @@ Boni Ngkoe te Tia Anga te Aakoi, te Atataiaomata ao te Tia Kabwarai buure.
 
 
 
+
+
 ## Tataro aika a Taabangaki
 
 ### <a id="bpn10381"></a> Prayer bpn10381 in Kiribati
@@ -793,11 +983,15 @@ E kabwaia te nne, ma te auti, ma te tabo, ma te kaawa, ma te nano, ma te maunga,
 (Bahaiprayers.net ID: 10381)
 
 
+
+
 ### <a id="bpn10382"></a> Prayer bpn10382 in Kiribati
 Katakei, ngkoe Au toro, Ana kibu nako Te Atua ake a tia ni karekeaki iroum, n aron katakeaia irouia naake a tia ni katikaki ni kaaniaki Nakoina, bwa ni karewerewen am anene e na kona ni bon kaura oin tamneim, ao ni katiki nanoia aomata ni kabane.  Are e atongnga, i bon irouna n ana ru, kiibu ake kaotaki iroun Te Atua, Ana anera te Uea a na kauamaae nako ao a na tibwatibwai boiararan taeka ake a atongaki mai wiina, ao e na karikia naake a etieti ni bukibuki nanoia.  E ngae ngke n te moa n tai e aki namakina mwiina, ma tamaroan te aroaro are e kaawakinaki i bukina e na bon tangiria n te tai ae waekoa ke n te tai rimwi ni karaoaki nanona n tamneina. Bwa bwaai aika a raba n Ana Kaotioti Te Atua a tia ni koreaki n tamaroan Nanon Teuare Ngaia Boton te korakora ao te rabakau.
 
 (Source category: Tataro aika a Taabangaki)
 (Bahaiprayers.net ID: 10382)
+
+
 
 
 
@@ -829,6 +1023,8 @@ I onnoniiko Ngkoe ae Atuau ao au Uea, i Iroum ao n Am kanikina nako, ao n itiaki
 (Bahaiprayers.net ID: 10458)
 
 
+
+
 ### <a id="bpn10459"></a> Prayer bpn10459 in Kiribati
 Ko na neboaki, te Uea ae Atuau.  I bubutii Nakoim ma te nanorinano n te Kaotioti aei are e bitaki iai te ro nakon te oota are e kateaki iai te Tembora ma n ataaki iai Koroboki aika a Tabu ma n taorababaa iai Taekam, bwa e na reke irou ao irouia aika a raoiroi, te aro ae ti na konaa n rierakea iai karawa nakon Mimitongim are akea tiana ao are e na kamaunai ara nanokokoraki are e tauiira man namakinan rinra ni mwaneaban te ikotaki.
 Bon ngai temanna, au Uea, are e a tia n taua roon Am aakoi, ma ni kanim baina nakon Am nanoanga ma Am tangira.  Ko na anganai ma raou aika a tangira raoiroin te maiu aei ao are e na roko.  Anganiia Am bwaintangira ae e raba are Ko kataua i bukiia aika a moa riki mai buakoia Am karikibwai.
@@ -837,6 +1033,8 @@ Akea Te Atua bwa ti Ngkoe, te Ataibwai, ao te Wanawana.  E na neboaki Te Atua, t
 
 (Source category: Te Aki Mamatam)
 (Bahaiprayers.net ID: 10459)
+
+
 
 
 ### <a id="bpn10460"></a> Prayer bpn10460 in Kiribati
@@ -854,11 +1052,15 @@ Karika Am Waaki bwa e na totokanikai, au Uea, ao kamangoriia Am kairiribai.  Kor
 (Bahaiprayers.net ID: 10460)
 
 
+
+
 ### <a id="bpn10461"></a> Prayer bpn10461 in Kiribati
 Te nebonebo nakoim O te Uea ae Atuau. Ti a tia n ira nanon te Aki Mamatam ni kaeineti ma am kaetieti ao n urua  ngkai inanon Am tangira ao Kukureim ae raoiroi.  Butimwaea ma te nanonaki O Atuau, taian mwakuri ake ti a tia ni karaoi inanon Kawaim ni bwaninia bon ti ibukin Tamaroam, ao moara aika ineti nakon Am Waaki, n inaomata man bwaai nako ma ti Ngkoe. Kataua ngkanne Am kabwarabure nako aora, nakoaoia ara bakatibu ao nakoaoia ni kabane ake a tia ni Kakoauako ao inanon am Kanikina nako aika korakora inanon te Kaotioti aio ae te kabanea ni korakora ma ni mimitong. Ko bon korakora ni karaoa are Ko rineia. Bon Ngkoe ni koaua Te Kabanea n rietata, te Korakora, Te aki kona n tauaki Eena.
 
 (Source category: Te Aki Mamatam)
 (Bahaiprayers.net ID: 10461)
+
+
 
 
 ### <a id="bpn11236"></a> Prayer bpn11236 in Kiribati
@@ -881,6 +1083,8 @@ Ko na kamoamoaaki, O Atuau, ngkai Ko a tia ni buokiira bwa ti na kinaa ao n tang
 
 
 
+
+
 ## Te Buoka ao te Ibuobuoki
 
 ### <a id="bpn10383"></a> Prayer bpn10383 in Kiribati
@@ -892,12 +1096,16 @@ Ngkoe, ni koaua, bon Ueaia aomata nako. Akea riki te Atua bwa ti Ngkoe, te Kaban
 (Bahaiprayers.net ID: 10383)
 
 
+
+
 ### <a id="bpn10384"></a> Prayer bpn10384 in Kiribati
 Atuau, Maamaten Nanou, Au Uea, Au Tangira! Te newe ra ae e kona n atong au karabwarabwa Nakoim? I bon aki mwemweeuti, Ko bon kautai. I a tia n rairaki nako mai Iroum, Ko kaota te tituaraoi ni buokai n rairaki Nakoim. I riki n ai aron temanna ae e mate, Ko bon kamaiuai ma te ran ni kamaiu. I bon rai, ko a manga kamaiuai ma te raanga n ran man karawan Am taetaenikawai are e a tia ni wawaanako man Ana Kainikoroboki te Kabanea n Nanoanga.
 O te Tia Kakaawakin n Tamnei! Karikibwai ni kabane a bon rereitinako man Am tituaraoi; tai kamwaawaa man ranin Am tituaraoi, ao tai taua mai irouia marawan Am nanoanga. I bubutiko bwa ko na raonai ao ni buokai n taai nako ao iaan itera nako, ao n ukoukora man karawan Am tituaraoi Am akoi are mangkoa. Bon Ngkoe, ni koaua, Uean te tituaraoi, ao te Tia Tautaeka n abanuean te aki tootoki.
 
 (Source category: Te Buoka ao te Ibuobuoki)
 (Bahaiprayers.net ID: 10384)
+
+
 
 
 ### <a id="bpn10385"></a> Prayer bpn10385 in Kiribati
@@ -907,11 +1115,15 @@ Atonga: Mimitong Nakoim Are Ko a tia ni karikiia Naake a Tabu bwa a na kaotii ai
 (Bahaiprayers.net ID: 10385)
 
 
+
+
 ### <a id="bpn10386"></a> Prayer bpn10386 in Kiribati
 O Ngkoe Atuau! I butiko, n Aram ae moan te mimitong, ni buokai ni bwaai ake a na kona ni buoka aia mwakuri Am toro bwa a na rikirake, ao Am kaawa ake a bubura bwa a na baikoa n rikirake. Ngkoe, ni koaua, iai mwaakam iaon bwaai ni kabane!
 
 (Source category: Te Buoka ao te Ibuobuoki)
 (Bahaiprayers.net ID: 10386)
+
+
 
 
 ### <a id="bpn10387"></a> Prayer bpn10387 in Kiribati
@@ -921,12 +1133,16 @@ Atuau, Boton au tangira, Kourun nanou, te Kabanea n Tituaraoi, te Kabanea n Nano
 (Bahaiprayers.net ID: 10387)
 
 
+
+
 ### <a id="bpn10388"></a> Prayer bpn10388 in Kiribati
 Te kamoamoa Nakoim, O Ngkoe te Uea Atuau, au Mwatita! Ko ongo ikenrawaia naake ake, e ngae ngke a ingainga ni kan nora Moamoam, ma a bon karaurenakoaki mai iroum ao a raroa nako man Am tabo. Ko kakoaua nakon tanginiweneia naake a tia ni kinako ni kabwaronakoi ibukin taemwengaakiia mai iroum ao ingaingan nanoia ni kan kaitibo ma Ngkoe. I bubutiko n nanoia naake akea nanoia ma bon ti kaubwain Uringakim ao kamoamoaakim, ao ake a kaotii akea bwa bon ti taian kakoaua ake a taekinaki ibukin Kakannatom ao taian kanikinaa ibukin kakoauaakin Korakoram, bwa ko na kabwaroa nako aoia Am toro ake a Tangiriko te korakora ni kona ni kaaniia kaintekatekan kaotiotin otanakon Mimitongim ao ni buokiia naake aia kantaninga a toka Iaom n rinnako inanon umwan Am mwamwanano ae e rooti taabo nako ao Am nanoanga.
 Akea karabaau, O Atuau! Kunnikainai ma kamwarain Am nanoanga n akoi. I bora n taka, anganai bwa Nna moi man marawan Am mwamwannano ae e titituaraoi. Te ianena ngai, katikai ni kaaniai nakon boton Am bwaintangira. I aoraki, tamrurua nako aou ranin kamaiu man Am tituaraoi. I kainaki n aki kainaomataaki, kanakoa mai aou taian kabaebae, ma ni mwaakan korakoram ao rinanon korakoran Nanomatoam, bwa I aonga ni kona n taabeibeiti iaon bain ni kiban te kamwawaaki nakon rietan taubukin Am karikibwai. Ngkoe, ni koaua, ae Ko karaoa are Ko rineia. Bon akea te Atua bwa ti Ngkoe, te Buoka n tain te Kanganga, te Kabanea ni Mimitong, te Aki Taueeaki Arona.
 
 (Source category: Te Buoka ao te Ibuobuoki)
 (Bahaiprayers.net ID: 10388)
+
+
 
 
 ### <a id="bpn10389"></a> Prayer bpn10389 in Kiribati
@@ -940,11 +1156,15 @@ Atonga: Te Atua bon te Tia Karaoi bwaai ni kabane. E anga kamarikeaia n te mwait
 (Bahaiprayers.net ID: 10389)
 
 
+
+
 ### <a id="bpn10390"></a> Prayer bpn10390 in Kiribati
 O Atuau, au Uea ao Au Mwatita! I a tia ni kamwawaai mai irouia au utu ao ni ukoukora Riroum bwa Nna inaomata man bwaai ni kabane ake a maeka iaon te aba ao n tauraoi n taainako ni butimwaea are e kakukurei i Matam. Anganai bwaai aika a raraoi n te aro bwa e na karikai n inaomata man bwaai nako ma ti Ngkoe, ao kataua nakoiu te tibwanga ae e mwaiti man Am tituaraoi ae akea tiana. Bon Ngkoe, ni koaua, Uean te tituaraoi ae akea tiana.
 
 (Source category: Te Buoka ao te Ibuobuoki)
 (Bahaiprayers.net ID: 10390)
+
+
 
 
 ### <a id="bpn10391"></a> Prayer bpn10391 in Kiribati
@@ -956,12 +1176,16 @@ Anganiira kanara n te bong ae koraki ao kariaia rikiraken baika a tangiraki n te
 (Bahaiprayers.net ID: 10391)
 
 
+
+
 ### <a id="bpn10392"></a> Prayer bpn10392 in Kiribati
 O Ngkoe te Uea ae Akoi! Ngaira am toro n Atibun Am Mataroa, ae I kamanoai n Am Mataroa ae e Tabu. Ti ukoukora kamanoara man akea riki bwa ti te boua ae e aintoa aio, n aki rairaki nakon te bwai teuana ibukin kamanoau ma bon ti Nakoim ibukin kamanoau. Kamanoira, kakabwaiaira, boutokaira, ao karikiira bwa ti na ti tangira kukurein Nanom, n tabotaboa Kamoamoaakim, n ti ira kawain te koaua, bwa ti aonga ni karekei kaubwaira ae e tau n te aro bwa ti na kaaki bwaai ni kabane bwa ti Ngkoe, ao ni karekei ara bwaintangira man marawan Am akoi, bwa ti aonga ni kekeiaki n taai nako ni karietaata Am Aro ao n tibwatibwai nako boiararan Kukurein Nanom, bwa ti aonga ni mwaninga taekara ao n ti katabeira ma Ngkoe, ao ni kaakeai bwaai ni kabane ao n ti karekerekeira ma Ngkoe.
 O te Tia Katauraoi Bwaai ni kabane, O Ngkoe te Tia Nanoanga! Anganiira Am tituaraoi ao Am tangira n akoi, Am bwaintangira ao Am tibwatibwa, ao kateimatoaira, bwa ti aonga ni karokoira n ara kouru. Bon Ngkoe te Korakora, te Konai bwaai nako, te Ataibwai, te Tia Noori bwaai ni kabane, ao, ni koaua, Bon Ngkoe te Tituaraoi, ao ni koaua, Bon Ngkoe te Kabanea n Nanoanga, ao ni koaua, Bon Ngkoe te Tia Kabwarai Buure, Are Nakoim a na riai ni kabwaraaki bure, Are Ko kabwarai naba buure ake kabanean te rawawata.
 
 (Source category: Te Buoka ao te Ibuobuoki)
 (Bahaiprayers.net ID: 10392)
+
+
 
 
 ### <a id="bpn10393"></a> Prayer bpn10393 in Kiribati
@@ -973,6 +1197,8 @@ Ngkoe, ni Koaua, Bon Ngaia, n Ti Ngaia, te Mwaaka, te Kabanea n Atatai, te Kaban
 (Bahaiprayers.net ID: 10393)
 
 
+
+
 ### <a id="bpn10394"></a> Prayer bpn10394 in Kiribati
 O te Uea! Ti bon ngore; kakorakoraira. O te Atua! Ti bon bangabwaai; karikiira bwa ti na ataibwai. O te Uea! Ti bon maiu ni kainnano; karikiira bwa ti na kaubwai. O te Atua! Ti bon mate; kamaiuiira. O te Uea! Ti bon bwainrang; kamimitongiira inanon Am Abaniuea. Ngkana Ko buokiira, O te Uea, ti na bon riki n ai aron itoi aika a otamwaaka. Ngkana Ko aki buokiira, ti na riki n rinano riki nakon te aonnaba. O te Uea! Kakorakoraira. O te Atua! Karikiira bwa ti na tokanikai. O te Atua! Kariaia bwa ti na tokanikai iaon oin nanora ao ni kaakeai ara kaibwabwaru. O te Uea! Kabwaraira man kabaebaen te aonnaba n rabwata. O te Uea! Kamaiuira man ikeiken te Tamnei ae e Tabu n te aro bwa ti na kona n teirake ao ni beku Ibukim, ni karaoa Neboakim ao ni kakorakoraira inanon Am Abaniuea ma te kokoaua ae e tabwanin. O te Uea, Ngkoe te Korakora. O te Uea! Ngkoe te Nanoanga. O te Uea! Ngkoe te Nanoanga.
 
@@ -980,11 +1206,15 @@ O te Uea! Ti bon ngore; kakorakoraira. O te Atua! Ti bon bangabwaai; karikiira b
 (Bahaiprayers.net ID: 10394)
 
 
+
+
 ### <a id="bpn10395"></a> Prayer bpn10395 in Kiribati
 O ngkoe are ko tabe n raira moam nakon te Atua! Kaina matam nakon bwaai ni kabane, ao kaukia nakon aonnaban te Kabanea ni Mimitong. Bubuti te bwai are ko tangiria ti mai Irouna; ukoukora te bwai are ko kakaaea ti mai Irouna. N ti teuana taraakim teutana Irouna ao E kona n anga tebubua te nga te kantaninga, n ti teuana katokaakin Matana teutana iaom ao E kona ni kamarurunga tebubua te nga te aoraki, n ti teuana katouan Atuuna ao E kona ni katokaa te bwainaoraki iaon taian ikoaki ni kabane, n ti teuana norakim teutana ao E kona n kamwaawai naano man taurekereken te karawaawata. E karaoa are E taku n aron ae E bon taku, ao tera riki kawaira ibukin karekean buokara? E kakoroi bukin Ana iango, e katauii bwaai ni kabane ake E tangiri. Ai ngaia are e raoiroi riki bwa ti na kabobaraaka atuura n ongotaeka, ao ni katuka ara mwioko iroun te Uea ae te Kabanea n Nanoanga.
 
 (Source category: Te Buoka ao te Ibuobuoki)
 (Bahaiprayers.net ID: 10395)
+
+
 
 
 ### <a id="bpn10396"></a> Prayer bpn10396 in Kiribati
@@ -995,6 +1225,8 @@ O Ngkoe te Tia Kamanomano ni karawa, ti kananoanga, anganiira Am ibuobuoki; taan
 
 
 
+
+
 ## Te Katoki Aoraki
 
 ### <a id="bpn10415"></a> Prayer bpn10415 in Kiribati
@@ -1002,6 +1234,8 @@ Atuau, bon katokan aorakiu Aram, ao bon au bwai n aoraki Uringam. Tikum i rariki
 
 (Source category: Te Katoki Aoraki)
 (Bahaiprayers.net ID: 10415)
+
+
 
 
 
@@ -1023,12 +1257,16 @@ E na neboaki Te Atua, are Ngkoangkoa are E aki maamate, are Akea Bibitakina, ao 
 (Bahaiprayers.net ID: 10417)
 
 
+
+
 ### <a id="bpn10418"></a> Prayer bpn10418 in Kiribati
 Boni Ngaia Te Atua! Ae Akea Kabotauana, n Rabakaum ae mwaaka Ko a tia ni kariaia te mare i aoia aomata, bwa man te roro teuana e na oti te roro teuana n te aonaaba ae bibitaki aei, ni karokoa, te maan are e na iai te aonaaba, bwa aonga ni katabeia ni Kaaniam ae ti Temanna, n aia mwakuri ao n aia nebo, ma Neboam i eta, Tangiram ao Kamoamoaam. “I tuai ni kariki tamnei ao rabwata, ma a na riai n Taromauriai.” Ma ngaia are iein ni karawan Ana Nanoanga mannikiba aika uoman aika man Ngaon Am tangira, ao karaoia bwa taan katotongaki nakon te raoiroi are akea tiana; bwa man botakiia naaka uoman aika marawan te tangira ao naon te tangira a na bwaro ni uoti momiin koauan te raoiroi nako aon biken te maiu.  “E a tia ni kabwarai marawa aika uoman aikai bwa a nang kaitibo: Mai iai te marena i marenaia are e aki konaa n riaoaki. Are bon Ana bwai n tangira te Uea, a na aki tabe iai? Are mai iai e na uoti moomi aika a kakaawaki ao aika a karako.
 Te Uea ae Aakoi!  Karika te mare aei bwa e na kaotinakoi taian ane ao moomi mai iai.  Boni Ngkoe te Mwaaka, te Moa ni Korakora, te Tia Kabwarai buure.
 
 (Source category: Te Mare)
 (Bahaiprayers.net ID: 10418)
+
+
 
 
 ### <a id="bpn10419"></a> Prayer bpn10419 in Kiribati
@@ -1038,6 +1276,8 @@ Boni Ngkoe ae Moan te Mwaaka, Ko mena n taabo ni kabane ao Moan te Kakannato.
 
 (Source category: Te Mare)
 (Bahaiprayers.net ID: 10419)
+
+
 
 
 
@@ -1072,6 +1312,8 @@ Bon Ngaia, ni koaua, te Ataataiaomata ao te Nanoanga. E na neboaki te Atua ae te
 
 
 
+
+
 ## Te Tabureti ibukin Kawaran Bangota
 
 ### <a id="bpn10456"></a> Prayer bpn10456 in Kiribati
@@ -1088,6 +1330,8 @@ Te Uea ae Atuau, kakabwaiaa te Kai-te-Rote ni Karawa ma baana nako, bwebwena ma 
 (Bahaiprayers.net ID: 10456)
 
 
+
+
 ### <a id="bpn10457"></a> Prayer bpn10457 in Kiribati
 *(Te tataro aio ae e kaotaki iroun ‘Abdu’l-Bahá e wawarekaki ni Bangotana. E kona ni kabonganaaki naba n te tataro iroun te aomata i bon irouna).
 Ane atonga te tataro aio ma te nanorinano ao Te Bábanennano e na uota te kukurei ao te rauaki nakon nanon te Tia Beku aio; e na riki n ai aron te kaitibo ma Ngaia, te mata nakon te mata.
@@ -1100,6 +1344,8 @@ Boni Ngkoe te Tia Angaanga, te Tangiri matanaomata, te Katoki n Akoi, te Raoiroi
 
 (Source category: Te Tabureti ibukin Kawaran Bangota)
 (Bahaiprayers.net ID: 10457)
+
+
 
 
 
@@ -1142,6 +1388,8 @@ I kakoaua, O Ngkoe Atuau, nakon are a tia ni kakoaua naba iai naake Ko rineiia, 
 
 
 
+
+
 ## Te Tataro ae Kabaebae ae Buburatau
 
 ### <a id="bpn10379"></a> Prayer bpn10379 in Kiribati
@@ -1165,6 +1413,8 @@ I kaotia ni kakoaua Am katiteuana ao ae ti temanna Ngkoe, ao bwa boni Ngkoe Te A
 
 
 
+
+
 ## Te Tataro ae Kabaebae ae Uarereke
 
 ### <a id="bpn10378"></a> Prayer bpn10378 in Kiribati
@@ -1173,6 +1423,8 @@ Atuau, I kaotia ma te koaua bwa Ko a tia ni karikai bwa Nna Ataiko, ao n Taromau
 
 (Source category: Te Tataro ae Kabaebae ae Uarereke)
 (Bahaiprayers.net ID: 10378)
+
+
 
 
 
@@ -1232,6 +1484,8 @@ Ngkoe ni koaua te Mwaaka, te Kabanea n Taubobonga, te Tia Katoki Aoraki, te Tia 
 
 
 
+
+
 ## Te Utu
 
 ### <a id="bpn10408"></a> Prayer bpn10408 in Kiribati
@@ -1242,6 +1496,8 @@ Ni koaua, boni Ngkoe te Kakaawaki, te Akitoki n Angaanga, Teuare E Ukuuki Baina.
 
 (Source category: Te Utu)
 (Bahaiprayers.net ID: 10408)
+
+
 
 
 
@@ -1260,6 +1516,8 @@ Boni Ngkoe ni koaua, te Ataibwai ni kabane, te Kabanea ni Wanawana.
 
 
 
+
+
 ## Teimatoa
 
 ### <a id="bpn10430"></a> Prayer bpn10430 in Kiribati
@@ -1271,6 +1529,8 @@ Am bwai te neboaki, Ngkoe are Moan te Tangiraki irouia naake a Ataiko.
 (Bahaiprayers.net ID: 10430)
 
 
+
+
 ### <a id="bpn10431"></a> Prayer bpn10431 in Kiribati
 Kaanim Ngkoe i rarikiu, bon nanou ao Kaotim bon katokan botuu, Nnem ae mimitong bon au toki, Aram bon katokan aorakiu, Am tangira bon kaotaakin nanou, Am beku bon kakukureiau are i eta, i eta!  I butiiko n Aram, are Ko a tia n anga iai nakoia aika a Kinako te konaa n roota Am iango ae moan te rietaata; ao ni kariaia ake a Neboiko n rierake nakon Am tabo are e tabu ae katauraoaki i bukiia aika Ko akoiia; ni buokai ni kaaitara Moam, ni kareke matau Iroum, ao n taekina Mimitongim.
 Au Uea, bon ngai temanna are e a tia n mwanuokin bwaai nako ma ti Ngkoe, ao ni kaitaraa moan kaotin Am tangira, ao are e a tia ni mwaawa man bwaai nako, ma bon ti Ngkoe, n te aro ae Nna konaa ni kaania Matam.  Taraai ngkai I tabeki matau nakon Am kaintoka ae raneanea n ootan Matam.  Karuoa, ngkanne nako aou, Ngkoe ae tangiraki irou, n te aro ae Nna teimatoa iai i nanon Am Waaki, n te aro ae a aonga n aki tuukai nanokokorakiia aika a aki kakoauaa rairakiia Nakoim.
@@ -1278,6 +1538,8 @@ Boni Ngkoe ni koaua Atuan te Mwaaka, te buoka n taiani kangaanga, Moan te Mimito
 
 (Source category: Teimatoa)
 (Bahaiprayers.net ID: 10431)
+
+
 
 
 ### <a id="bpn10432"></a> Prayer bpn10432 in Kiribati
@@ -1288,11 +1550,15 @@ N te koaua boni Ngkoe te Tia Tautaeka ae e moamoa, te Koaua ae riao, te Buoka n 
 (Bahaiprayers.net ID: 10432)
 
 
+
+
 ### <a id="bpn10433"></a> Prayer bpn10433 in Kiribati
 Te Uea ae Atuau!  Buokiia aika a tangiraki Iroum bwa a na teimatoa n Am Aro, n nakonako ni Kawaim, ma n nene n Am Waaki.  Anganiia Am tangira bwa a na tangira tuukan bwain te rabwata, bwa a na ira ootan te Kairiiri ae Tabu.  Boni Ngkoe te Korakora, te Tangira, te Maiu i bon Irouna, te Tituaraoi, te Nanoanga ao Moan te Mwaaka ao Moan te Atataiaomata.
 
 (Source category: Teimatoa)
 (Bahaiprayers.net ID: 10433)
+
+
 
 
 
@@ -1306,11 +1572,15 @@ I a tia n taua, au Uea, rarikin Am tituaraoi, ma n tinea mataniwiin kaon Am aako
 (Bahaiprayers.net ID: 10409)
 
 
+
+
 ### <a id="bpn10410"></a> Prayer bpn10410 in Kiribati
 Ngkoe ae Atuan te Aakoi!  Bon Am bwai te karabwaaki bwa Ko a tia ni kautai ma n anganai te atatai.  Ko a bon tia n anganai matau n taratara ao Ko aakoai n taningau n ongo ao Ko a tia ni kairai nakon Ueam ao ni kairai nakon Kawaim.  Ko a tia ni kaota nakoiu te aro ae e riai ao ni karinai n te Ake ni Kamaiu.  Te Atua kaawakinai bwa Nna teimatoa ma n nene n aki ukaki nako.  Karabaai man te kataaki ae korakora. Kaawakinai ao kamanoai i nanon Am mwioko ma Am berita.  Bon Ngkoe te Mwaaka, bon Ngkoe te Noraaba, bon Ngkoe te Ongotaeka, bon Ngkoe Te Atua ae E aakoi.  Katuka i aou te nano ae itiaki ae e na konaa ni kaotaaki n ootan Am tangira ao nuurakina i aou te iango are e na konaa n onika te aonaaba aei bwa te nne n aroka n rooti rinanon te kaantaninga n tamnei.  Bon Ngkoe te Aakoi, te Nanoanga!  Te Atua Ngkoe ae E kakannato are Atuan taian Aro ni kabane.
 
 (Source category: Teimatoa i nanon te Boraraoi)
 (Bahaiprayers.net ID: 10410)
+
+
 
 
 
@@ -1324,6 +1594,9 @@ I bubuti nakoim, O Ngkoe Ueaia Ueea ao te tia nanoangaiia aika kataorikaakaki ni
 
 (Source category: Toara ni Bong)
 (Bahaiprayers.net ID: 10465)
+
+
+
 
 
 

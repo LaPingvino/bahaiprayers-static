@@ -3,6 +3,130 @@ title = "Tuvalu"
 tags = ['lang=tvl', 'prayerbook']
 +++
 
+
+
+[AFIAFI](#AFIAFI)
+
+[AMELIKA](#AMELIKA)
+
+[ASO MALOLO FAOPOOPO](#ASO MALOLO FAOPOOPO)
+
+[AVAGA TAGATA](#AVAGA TAGATA)
+
+[FAFINE](#FAFINE)
+
+[FAIFEKAU A TE ATUA](#FAIFEKAU A TE ATUA)
+
+[FAKAGATA MASAKI](#FAKAGATA MASAKI)
+
+[FAKAMAGALO](#FAKAMAGALO)
+
+[FAKAPILIPILI KI TE ATUA](#FAKAPILIPILI KI TE ATUA)
+
+[FAKATASITASIIGA](#FAKATASITASIIGA)
+
+[FALEPUIPUI](#FALEPUIPUI)
+
+[FEALOFANI](#FEALOFANI)
+
+[FIAFIA MO TE FIAFIA LASI](#FIAFIA MO TE FIAFIA LASI)
+
+[FILEMU](#FILEMU)
+
+[GALUEGA](#GALUEGA)
+
+[Huqúqu’lláh: Ko te Saolotooga o te Atua](#Huqúqu’lláh: Ko te Saolotooga o te Atua)
+
+[KAAIGA](#KAAIGA)
+
+[KAAIGA FAKA-TE-AGAAGA O SEFULU IVA O ASO](#KAAIGA FAKA-TE-AGAAGA O SEFULU IVA O ASO)
+
+[LIMA O TE FAKATOKAAGA](#LIMA O TE FAKATOKAAGA)
+
+[LOTO-MMAU / FAKATUANAAKI](#LOTO-MMAU / FAKATUANAAKI)
+
+[LOTU FAKAFETAI I TE TAIPOLA](#LOTU FAKAFETAI I TE TAIPOLA)
+
+[LUKUUGA FAKA-TE-AGAAGA](#LUKUUGA FAKA-TE-AGAAGA)
+
+[MAATUA](#MAATUA)
+
+[MANUMAALO O TE FAKATOKAAGA](#MANUMAALO O TE FAKATOKAAGA)
+
+[MATUA FAKATALI O FANAU](#MATUA FAKATALI O FANAU)
+
+[MATULO MO OLOTOU KAAIGA](#MATULO MO OLOTOU KAAIGA)
+
+[MAUTAKITAKI I TE FEAGAIIGA](#MAUTAKITAKI I TE FEAGAIIGA)
+
+[MO LATOU KO GALO – TALO MO TINO MATE](#MO LATOU KO GALO – TALO MO TINO MATE)
+
+[MOTU KEATEA](#MOTU KEATEA)
+
+[PALATAISO](#PALATAISO)
+
+[PEPE FOLIKI](#PEPE FOLIKI)
+
+[PUIPUIIGA](#PUIPUIIGA)
+
+[TAFATAEO](#TAFATAEO)
+
+[TALAIIGA](#TALAIIGA)
+
+[TALAVOU](#TALAVOU)
+
+[TALO FAKA-PITOA SE LOA](#TALO FAKA-PITOA SE LOA)
+
+[TALO FAKA-PITOA TOETOE](#TALO FAKA-PITOA TOETOE)
+
+[TALO LOA FAKA-PITOA](#TALO LOA FAKA-PITOA)
+
+[TALO MO TE TALAIIGA MAI I TAPELETI O TE PALANE FAKA-TE-AGAAGA](#TALO MO TE TALAIIGA MAI I TAPELETI O TE PALANE FAKA-TE-AGAAGA)
+
+[TAMALIKI](#TAMALIKI)
+
+[TAPELETI O AHMAD](#TAPELETI O AHMAD)
+
+[TAPELETI O IA FAI MALAGA MANA](#TAPELETI O IA FAI MALAGA MANA)
+
+[TAPELETI O TE AFI](#TAPELETI O TE AFI)
+
+[TAPELETI O TE ASIASIIGA O Bahá’u’lláh](#TAPELETI O TE ASIASIIGA O Bahá’u’lláh)
+
+[TAPELETI O TE ASIASIIGA O ‘ABDU’L-BAHA](#TAPELETI O TE ASIASIIGA O ‘ABDU’L-BAHA)
+
+[TAUSAGA FOOU](#TAUSAGA FOOU)
+
+[TAVAEEGA MO TE FAKAFETAI](#TAVAEEGA MO TE FAKAFETAI)
+
+[TAVINI MO TE MAE](#TAVINI MO TE MAE)
+
+[TE ANAPOGI](#TE ANAPOGI)
+
+[TE LAGO MO TE FEASOASOANI](#TE LAGO MO TE FEASOASOANI)
+
+[TE TUPE](#TE TUPE)
+
+[TINO KATOA](#TINO KATOA)
+
+[TOFOOGA](#TOFOOGA)
+
+[TOFOTOFOOGA MO FAIGATA](#TOFOTOFOOGA MO FAIGATA)
+
+[TUPU AKA FAK-TE-AGAAGA](#TUPU AKA FAK-TE-AGAAGA)
+
+[Te Talo Loa Foo Masaki](#Te Talo Loa Foo Masaki)
+
+[VAAITAU OLA FAKA-TE-LAGI](#VAAITAU OLA FAKA-TE-LAGI)
+
+[VALUAPO](#VALUAPO)
+
+[mo Fafine](#mo Fafine)
+
+[mo Pepe](#mo Pepe)
+
+
+
 ## AFIAFI
 
 ### <a id="bpn10909"></a> Prayer bpn10909 in Tuvalu
@@ -14,6 +138,8 @@ O te Atua, toku Matai, te Koulu o toku Faka-moemoeega!  Mea nei, ko Tau tavini, 
 (Bahaiprayers.net ID: 10909)
 
 
+
+
 ### <a id="bpn10910"></a> Prayer bpn10910 in Tuvalu
 E mafai pefea ne au o manako o moe, O te Atua, toku Atua, i mata o latou kola e finafinau kia Koe e alaala faeloa ona ko te olotou mavae mai ia Koe; kae e mafai pefea au o takato ki lalo o malolo ako agaaga o Au fagasele e fitaa i te olotou mao mai mo Tou nofo-mai?
      Ko oti au ne fai faka-patonu, O toku Aliki, ko toku agaaga mo toku fuaitino katoatoa ke i te lima taumatau o Tou mafi mo Tau puipuiiga, kae moe a toku ulu i te aluga o Tou maalosi, tu fua ki luga pe la loa o Tou finagalo mo Tou fiafiaaga.  Koe, e tonu, ko te Tausi, ko te Leoleo,ko te Mafi-Katoatoa, ko te Tafasili i te Maalosi.
@@ -21,6 +147,8 @@ E mafai pefea ne au o manako o moe, O te Atua, toku Atua, i mata o latou kola e 
 
 (Source category: AFIAFI)
 (Bahaiprayers.net ID: 10910)
+
+
 
 
 ### <a id="bpn10911"></a> Prayer bpn10911 in Tuvalu
@@ -39,6 +167,8 @@ O toku Aliki!  Au ko fakapilipili atu kia Koe, i te pokooga o te valuapo pouli t
 
 
 
+
+
 ## AMELIKA
 
 ### <a id="bpn10870"></a> Prayer bpn10870 in Tuvalu
@@ -48,11 +178,15 @@ O Koe ko te Aliki alofa!  Ko fuli atu kia Koe ate fakatasiiga tenei.  A loto kon
 (Bahaiprayers.net ID: 10870)
 
 
+
+
 ### <a id="bpn10871"></a> Prayer bpn10871 in Tuvalu
 Fakamanauia e Koe, O te Tupu o Tupu, te fakai lasi o Niu Ioki!  Fai aka a taugasoa i ei ke faka-tau-alofa a latou ki sua tino.  Fakamaa a olotou agaaga ola kae fai a olotou loto ke saoloto kae ke motu mai.  Fakamaina a te lalolagi mai i olotou fakatauuga.  Fakamaalosi a olotou agaaga kae fakaeke a te maalosi faka-te-lagi mo te talitonu i luga ia latou.  Fakatu i kona se tulaga faka-te-lagi, ko te mea ko te Fakai o Baha ke maumea ka ko Niu Ioki ke akoigina ne fakamanuiaaga mai i te Maalo o Abha, ko te kogaa-koga tenei ke mafai o fai pela me ko te Palataiso tafasili i te maluga, kae ke mafai o atiake ki se fatoaga vine o te Atua kae ke mafuli foki ki se fatoaaga otiati faka-te-lagi pela foki me se fatoaga losa faka-te-agaaga.
 
 (Source category: AMELIKA)
 (Bahaiprayers.net ID: 10871)
+
+
 
 
 ### <a id="bpn10872"></a> Prayer bpn10872 in Tuvalu
@@ -61,6 +195,8 @@ O te Atua, toku Atua!  Au e akai kia Koe mo te loto polepole mo loimata e to ki 
 
 (Source category: AMELIKA)
 (Bahaiprayers.net ID: 10872)
+
+
 
 
 
@@ -80,6 +216,8 @@ Toku Atua, Toku Afi mo toku Mainaaga!  Ko aso konei ko oti ne fakaigoa ne Koe ki
 
 
 
+
+
 ## AVAGA TAGATA
 
 ### <a id="bpn10916"></a> Prayer bpn10916 in Tuvalu
@@ -90,6 +228,8 @@ O te Atua, toku Atua!  A ia tenei ko Tau tavini fafine e kalaga atu kia luga ia 
 
 (Source category: AVAGA TAGATA)
 (Bahaiprayers.net ID: 10916)
+
+
 
 
 
@@ -108,6 +248,8 @@ E seai aka se Atua mai i Ou tafa, te Mafi, ko te Faka-tunakigia-Tumau, ko te Mau
 (Bahaiprayers.net ID: 12347)
 
 
+
+
 ### <a id="bpn12348"></a> Prayer bpn12348 in Tuvalu
 Matagofie e io Koe, O toku Atua! Oku mata ko oti ne fakammau tonu ki luga I Ou mata, a ko oku mata, e tonu, ko Ou mata, a toku leo ko Tou leo, a ko taku Faka-asiiga ko Tau Faka-asiiga, a ko au ko Koe, a ko taku Fakatokaaga ko Tau Fakatokaaga, a ko toku manakoga ko Tou manakoga, a ko au katoatoa ko Koe katoatoa, a ko toku nofo maluga ko Tou nofoaiga-atupu, ko toku matagofie ko Tou matagofie, a ko toku maalosi ko Tou maalosi.  
   
@@ -117,6 +259,8 @@ E sea aka foki se Atua na ko Koe, ko te Mafi-Katoatoa, ko te Tafasili i te Malug
 
 (Source category: FAFINE)
 (Bahaiprayers.net ID: 12348)
+
+
 
 
 ### <a id="bpn12349"></a> Prayer bpn12349 in Tuvalu
@@ -132,6 +276,8 @@ E maalosi a Koe o fai a te mea e fiafia Koe ki ei. A Koe, e tonu, ko te IloaKato
 (Bahaiprayers.net ID: 12349)
 
 
+
+
 ### <a id="bpn12350"></a> Prayer bpn12350 in Tuvalu
 Faka-lauefa a Tou igoa, O te Aliki toku Atua!  Taofi aka ne Koe toku mata e faka-moemoe ke kilo ki luga i mea faka-ofoofogia o 
 Tou alofa-kaimalie, ka ko toku taaliga e keu o fakavave ki te suamalie o Tou leo, mo toku fatu e finafinau ki te vai ola o Tou poto. E lavea ne Koe a Tau tavini fafine, O toku Atua, e tu i mua o te fale o Tou alofa-kaimalie, kae kalaga atu kia Koe i Tou igoa tela ko oti ne fili ne Koe mai i luga i niisi igoa aka katoa kae faka-tumau mai i luga o mea katoa ite lagi mo te lalolagi.  Tuku ifo ki lalo ia ia fafine a manavaaga o Tou alofa-kaimalie, ko te mea ke mafai ne ia o kave keatea katoatoa mai ia ia, kae ke futi atu katoatoa ki luga i te nofoga tela, e malifalifa i te matagofie o Ou mata, e tufa atu fakamao a te fiafia o Tou nofoaiga-a-tupu, kae fakatu me ko Tou kalauna-a-tupu.  E mafai ne Koe o fai a te mea e manako Koe ki ei.  E seai aka foki se Atua i Ou tafa, te Matagofie-Katoatoa, te Tafasili i te Gali.  
@@ -143,6 +289,8 @@ Ko Koe, e tonu, ko te Fakamagalo-Katoatoa, ko te Tafasili i te AtafaiKaimalie.
 
 (Source category: FAFINE)
 (Bahaiprayers.net ID: 12350)
+
+
 
 
 ### <a id="bpn12351"></a> Prayer bpn12351 in Tuvalu
@@ -159,6 +307,8 @@ A Koe, i te tonuuga, ko te Atua o te maalosi, o te kaumalolo mo matagofie.
 (Bahaiprayers.net ID: 12351)
 
 
+
+
 ### <a id="bpn12352"></a> Prayer bpn12352 in Tuvalu
 Te Matagofie e ia Koe, O toku Atua!  Tokotasi o Au tavini fafine, teka ne talitonu ia Koe mo Au failoga, ko oti ne ulu atu ki lalo o 
 ata o te lakau ola o Tou tafatasi.  Tuku atu kia ia ke inu, O toku Atua, i Tou igoa, ko te Maina mo te Funa, o Tau uaina filifiia tela e mafai o kave a ia keatea mai ia ia loa, kae fai a ia ke tapuaki tonu loa ki Tou faka-masausauaaga, kae motu keatea mo te katoatoa mai i so se tino na ko Koe.  
@@ -173,6 +323,8 @@ E seai aka foki se Atua na ko Koe, ko te Atua o te maalosi, ko te Atua o te mata
 (Bahaiprayers.net ID: 12352)
 
 
+
+
 ### <a id="bpn12353"></a> Prayer bpn12353 in Tuvalu
 E lavea mai ne Koe, O toku Atua, me e pefea a mea se ne fai ne Au mea faiite ko la ko fuli atu a olotou tua kia Koe kae ko tu i te va o Ia Te la I loto ko Ia ko Tau Ulu-atua ko fakaasi mo Au tavini.  Tuku ifo kia luga ia latou, O toku Aliki, a mea ke fai a latou ke saga loa ki faka-lavelave o latou taki toko tasi.  Fai aka, ko te saua o latou ke nofo foki loa mo latou, ko te laufenua te la e nofo iei ke maua se filemu.  
   
@@ -184,6 +336,8 @@ E maalosi a Koe o fai a te mea e fiafia Koe ki ei.  E seai aka foki se Atua na k
 (Bahaiprayers.net ID: 12353)
 
 
+
+
 ### <a id="bpn12354"></a> Prayer bpn12354 in Tuvalu
 O te Atua!  A tofooga ne aumai ne Koe pe la me se sinu ki mea pakia o latou katoa ko la e faka-tuanaki ki Tou finagalo; a te masausauaaga o Koe ko te vailakau foo masaki ki loto ko la ko pili atu ki Tou fale, a te pili atu kia Koe ko te olaga tonu o latou ko la ko Au fagasele; A Tou nofo-mai ko manakoga maalosi o latou ko la e loto fiafia o kilo ki Ou mata; ko te mao mai ia Koe, mo te motu mai ia Koe ko te mate kia latou ko la ko oti ne lavea ne latou a Tau mea-tonu!  
   
@@ -193,6 +347,8 @@ A Koe, e tonu, ko te Aliki o te Aso o te Fakamasinoga.
 
 (Source category: FAFINE)
 (Bahaiprayers.net ID: 12354)
+
+
 
 
 ### <a id="bpn12355"></a> Prayer bpn12355 in Tuvalu
@@ -208,6 +364,8 @@ E sea aka foki se Atua mai Ou tafa, ko te Matagofie-Katoatoa, ko te Tafasili i t
 (Bahaiprayers.net ID: 12355)
 
 
+
+
 ### <a id="bpn12356"></a> Prayer bpn12356 in Tuvalu
 E vikiia a Koe, O te Aliki toku Atua!  Koe ko Ia Tela ne faiite a mea katoa mai i luga i te muna ne faipatiiga ona ko Tau fakatonuuga, kae fou at foafoaaga katoatoa ne te maalosi o Tou nofoaiga-a-tupu mo te mafi.  A tagata tafasili i te mafi e masiasi i mua o faka-asiiga o Tou matagofie, kae ko latou ko la e fonufonu i te maalosi e polepole mataku ma fetaui ki mata mo faka-talitonuuga o Tou mafi.  A so se tagata mo te iloa e faka-seai a tena kiloga ma fai ko faka-fetaui mo te malifalifa o te mana o Ou mata, a ko ia te la e fonufonu i te uke o ana koloa e mativa kae faka-alofa ma fai ko lavea ne ia a te salalau mo te uke o Tou maumea.   
   
@@ -219,6 +377,8 @@ A Koe e maalosi o fai a te mea e loto Koe ki ei, kae fakaeke ne Koe a te mea tel
 
 (Source category: FAFINE)
 (Bahaiprayers.net ID: 12356)
+
+
 
 
 ### <a id="bpn12357"></a> Prayer bpn12357 in Tuvalu
@@ -236,11 +396,15 @@ Koe, e tonu, ko te Aliki o te foafoaaga.  E seai aka foki se Atua mai i Ou tafa,
 (Bahaiprayers.net ID: 12357)
 
 
+
+
 ### <a id="bpn12358"></a> Prayer bpn12358 in Tuvalu
 O toku Aliki, toku Fagasele, toku Manakoga!  Faka-taugasoa mai au i toku nofo tokotasi kae fakatasi mai au ki toku fakaesea.  Fakas-eai a toku fanoanoa.  Fai aka au ke fakatuanaki ki Tou gali.  Tapale au keatea mai i mea katoa na ko Koe.  Faka-pilipili au mai iluga o te manogi gali o Tou mana.  Fai aka au ke sokotaki i loto i Tou Maalo mo latou ko oti ne motu mai i mea katoa na ko Koe, ko la e manako kii o tavini i te Tou fale mana kae e tu latou o galue i Tau Faka-tokaaga.  Fai aka au ke fai au me se tavini fafine tokotasi a Koe te lako oti ne maua a Tou fiafia-lei.  Ko Koe ko te AlofaKaimalie, te Kaimalie.
 
 (Source category: FAFINE)
 (Bahaiprayers.net ID: 12358)
+
+
 
 
 
@@ -256,6 +420,8 @@ A te univesi katoa e molimau ki Tou alofa-kaimalie.  Ke iai se alofa, tena la, k
 (Bahaiprayers.net ID: 12224)
 
 
+
+
 ### <a id="bpn12225"></a> Prayer bpn12225 in Tuvalu
 E maluga a Tou igoa, O te Aliki toku Atua!  E molimau ne Koe me ia Koe e silia atu mai i luga o mea faiite katoa, a ko Tou alofakaimalie e sopoia atu i tino katoa i te lagi mo te lalolagi.  Kae kafai ko tonu ia Koe ke suke a te veli o Tou nofoaiga-a-aliki, kae ke vikia a Tau muna, kae ke fakaasi a Tou maukoloa mo te alofa-kaimalie, ne avaka ne Koe a Tau tavini tokotasi, kae fili a Ia mai i luga i Au mea faiite katoa, kae fakamatea aka loa a Ia tokotasi ona ko Tau pogai, kae fakapei a Ia ki te gatu o Tau takitakiiga, kae ufi a Ia i lalo i te tai o Tau aifioga mo te matagofie, kae faka-mmalu a Ia mai i mea katoa ko la seai ko te taua o Tou matagofie mo te maalosi o Tou mafi, kae fai atu kia Ia ke kalaga atu ki mua o latou katoa i te lagi mo te lalolagi, kae kami mai ate toko-ukega o tinio ki te Faifekau a Koe mo te Fakaasiiga o Au failoga.  
 I taimi foki tena ne fakasalalau atu ne Ia a Tau Fakatokaaga, kae tu ki luga o fai a galuega ko la ne fakatonu atu kia Ia i Tapeleti o 
@@ -269,6 +435,8 @@ Te silisiliese io te Atua, ko te Aliki o te foafoaaga katoatoa!
 (Bahaiprayers.net ID: 12225)
 
 
+
+
 ### <a id="bpn12226"></a> Prayer bpn12226 in Tuvalu
 E lauefa a Tou igoa, O te Aliki toku Atua, pe la loa mo te faiga ne Koe au ke faka-logologo ki Tou leo, kae kalaga mai au kia Koe, kae tala oku mata ke kilo tonu ki Tou gali, kae fakamaina a toku loto i Tou poto, kae faka-manuia mai oku fatafata mai i falotolotolua o latou fakatupu fakalavelave i Ou aso.  Au ko te tasi, O toku Atua, te la ne moe kii loa i tena moega, kae poi atu, a faifekau o Tou alofa tuafia ko oti ne uga mai ne Koe ki lalo ia au, a ko te matagi faka-alofalofa o Tou alofa-atafai e agiagi i luga ia au, kae fago ne ia au ki luga, kae fai ko oku mata ke saga tonu atu ki te kogaa-koga tapu o Tou poto, kae fakammau oku mata ki te malifalifa o te mainaaga i Ou mata.  
 Au se mea ola kae mativa, O te Aliki, Kilo mai kia au e piki mmau ki te kapa o te gatu o Tou maumea.  Au ne tele mai i te pouliga mo te nofo se-toka ki te mainaaga o te molii o Ou mata.  Moi fai Au – kae ko Tou matagofie e molimaugina –ne siki atu a te fakafetai kia Koe, mai i taimi ne faka-galue i ei a Tou maalo ki te leva o te lagi o Tau pulega, koi siki maua loa ne au o taui atu Au fakamanuiaaga se lausia.   
@@ -278,6 +446,8 @@ Koe, e tonu, ko te Mafi Katoatoa, ko te Tafasili i te Maukoloa, ko te Tafasili i
 
 (Source category: FAIFEKAU A TE ATUA)
 (Bahaiprayers.net ID: 12226)
+
+
 
 
 ### <a id="bpn12227"></a> Prayer bpn12227 in Tuvalu
@@ -294,6 +464,8 @@ Kilo ifo, tena, kia Ia, O toku Atua, se kiloga o Tou alofa-kaimalie, kae tuku if
 (Bahaiprayers.net ID: 12227)
 
 
+
+
 ### <a id="bpn12228"></a> Prayer bpn12228 in Tuvalu
 E maluga a Tou igoa, O toku Atua!  Au ko to kavegina ne te agiagi malielie o te matagi mai i Tou nofo-mai te la ko puli ia au aku mo mea katoa ko la e nofo mo au.  Mea nei se fakailoga o te faka-ofoofogina o Tou alofa-kaimalie mo alofaaga mataefa e tuku mai kia au.  Au e vikia a Koe, O toku Atua, me ko oti au ne fili ne Koe mai ia Au mea ola katoa, kae fai au pe la me ko te AsoMalulu o Tou maalosi mo te Faifekau o Tou mafi, kae fakamaalosi ke fakaasi atu Au failoga mo mea-alofa o Tau afioga mo te maalosi te la e seki ai aka loa, i Tou lagi io me ko Tou lalolagi, ne mafai o fai.  
  
@@ -306,6 +478,8 @@ A Koe ko te Aliki o lalolagi, mo latou katoa ko la e fakaasi ne latou a te alofa
 (Bahaiprayers.net ID: 12228)
 
 
+
+
 ### <a id="bpn12229"></a> Prayer bpn12229 in Tuvalu
 Vikia a Koe, O te Aliki toku Atua! Au e akai kia Koe mai ia Latou Ko la ko Tapanekolo o Tou mana Faka-te-Lagi, Ko la ko Faifekau o Tou tafatasi tafasili i te gali mo Aso-Malulu o Au musumusuga faka-maalosi mo fakaasiiga, ke talia ko Au tavini ke se taofigia mai i te Tulafono Faka-te-Lagi tenei te la, i Tou loto mo tou fiafiaaga, ko maga atu mai i Tou vasa tafasili i te lasi.  Ko fakaeke aka ne Koe mo latou a mea ko la ko oti ne fakaeke ne Koe mo Au tino filifilia fakatasi mo latou fai mea tonu i vasia o Au mea faiite, ko la ko te tumau o latou i te Fakatokaaga ne seki maua ne matagi maalosi o lue,  kae ko la foki a gateteega o tofotofooga ne seai se maalosi lele o taofi a latou mai ite faka-lauefaga o Tau Muna tafasili ite maluga – te Muna tela mai i ei i lagi o manatu fakasupasupa mo mafaufauga seai ne aoga o tagata ne malepelepe mai lalo.  Ko Koe e tonu ko te Mafi-Katoatoa, ko te MatagofieKatoatoa, ko te Iloa Katoatoa.  
 Faka-mafai, tena la, Au tavini, O toku Atua, ke lavea a te Fetu-Ao tela e maina mai i te sikulagi o Tau ikuuga mo te pogai e se mafai o mafulifuli, kae ke taofi latou mai i te Palataiso tela a Koe, mai i Tou igoa, ko te MatagofieKatoatoa, ko oti ne kalagagina i lagi o Tou puleega tafasili i te maluga. Fai aka foki a latou, O toku Atua, ke fakavave ki Tou leo tafasili ite suamalie, ko te mea ke fakavave katoa latou o atafia a Tou tafatasi kae lavea a Tou fakatasitasi. O ko Koe tela ko te Fagasele o loto katoa ko la e nnau kia Koe, kae ko te Pogai o te ava o latou pela mo te mea e iloa ne latou a Koe!  
@@ -314,6 +488,8 @@ Tou manumaalo i Ou lalolagi, a ko fuafuaaga o Tau Talitonuuga ka mafai o fakalau
 
 (Source category: FAIFEKAU A TE ATUA)
 (Bahaiprayers.net ID: 12229)
+
+
 
 
 ### <a id="bpn12230"></a> Prayer bpn12230 in Tuvalu
@@ -339,6 +515,8 @@ E vikia a Koe, ko te Aliki o lalolagi!
 
 
 
+
+
 ## FAKAGATA MASAKI
 
 ### <a id="bpn10947"></a> Prayer bpn10947 in Tuvalu
@@ -353,12 +531,16 @@ Tou igoa ko te fakagataaga o toku masaki, O toku Atua, a ko te masausauaga o Koe
 (Bahaiprayers.net ID: 10947)
 
 
+
+
 ### <a id="bpn10948"></a> Prayer bpn10948 in Tuvalu
 Te matagofie e o Koe, O te Aliki toku Atua! Au e akai totuli kia Koe mai i luga i Tou Igoa, te la ne apai aka ne Koe ki luga a fakailoga o Tau takitakiiga, kae fakamaina o Tou alofa-atafai, kae fakaasi mai a te nofoaiga-a-tupu o Tou faka-Alikiiga; te la mai i ei a te lamepa o Ou igoa ne fakasae aka i loto i Ou Uiga lei, kae ko Ia Te la i te Tapanekolo o Tou Tafatasi mot e Faifekau o te motu keatea ko sulu maina atu ki mua; mai i ei a auala o Tau takitakiiga ne fai ke iloa, a ko auala o Tou fiafiaaga lei ne fakamatea; ko la a fakavae o te mea se tonu ko gasuesue-polepole, ako failoga o te masei ko oti ne fakaseai; mai iI ei a puna-vai o te atamai ko mapa mai ki mua, a ko te taipola faka-te-lagi ko oti ne aumai ki lalo; mai i ei ne tausi ne Koe Au tavini kae talia a Tau fakagata masaki; mai iei ne Fakaasi ne Koe a Tou alofa-kaimaie ki Au tavini kae fakaasi a Tau fakamagaloga i vasia o Au mea ola – Au e akai totuli kia Koe ke tausi a ia tela ko oti ne taofi mmau ki kae foki atu kia Koe, kae piki ki Tou alofa-kaimalie; kae puke ne ia ate kapa temu o Tou alofa fakavaegia.  Aumai ki lalo, ki luga ia au a Tau foo masaki, kae fai a ia ke katoatoa, kae tuku atu kia ia a te fakamaoni ne taliagina ne Koe, mot e tokaaga ne aumai foki ne Tou afioga.
      A Koe, e tonu, ko te Fakagata Masaki, ko te Tausi, ko te Fesoasoani, the Mafi-Katoatoa, ko te Maalosi-Katoatoa, ko te Matagofie-Katoatoa, ko te Iloa-Katoatoa.
 
 (Source category: FAKAGATA MASAKI)
 (Bahaiprayers.net ID: 10948)
+
+
 
 
 ### <a id="bpn10949"></a> Prayer bpn10949 in Tuvalu
@@ -371,11 +553,15 @@ Tavaega e o Koe, O te Aliki toku Atua!  Au e akai fakamaulalo kia Koe, mai i Tou
 (Bahaiprayers.net ID: 10949)
 
 
+
+
 ### <a id="bpn10950"></a> Prayer bpn10950 in Tuvalu
 O te Atamai Kilo-Mao faka-te-lagi!  Tuku mai ne Koe i mea katoa a te ma-takalekale katoatoa mo te tu-ma ki luga i tino Bahá.  Talia mai ko latou ke saoloto mai i so se fakamaseiiga, kae ke seai ia latou a so se amioga te la e fakamasei ki te olaga.  Tausi mai i te fai ne latou a so se amioga se lei, kae tala latou mai i filifili o so se amioga e se tonu, ko te mea ke ola latou ite olaga piua kae saoloto, katoatoa kae ma, e manakogina i ei ke mafai ne latou o tavini i Tou Mataloa Mana kae e fiti o sokotaki ki te olotou Aliki.  Fakasao mai latou i mea inu kona maalosi mo mea pusi, fakasao a latou, fakaola a latou, mai i te mea pusi maalosi ko te opiamu te la e aumai ne ia ate fakavalevale, fai latoui ke fiafia ki te suamalie o te mana, ko te mea ke mafai ne latou o inu ki te ipu faka-ofoofogina o te alofa faka-te-lagi kae ke iloa ne latou a te fiafia o te fakapilipili atu ki te Lalolagi o te Matagofie Silisiliese-Katoatoa.  Pe la loa mo te mea ko oti ne fai mai ne Koe:  “A mea katoa i tau kaufata ka se maua o fakagata a te fia inu o toku alofa – aumai kia au, O ke ia te la e kave ate ipu, o te uaina o te agaaga a te ipu e fonu pe la loa mo te tai!”
 
 (Source category: FAKAGATA MASAKI)
 (Bahaiprayers.net ID: 10950)
+
+
 
 
 
@@ -391,6 +577,8 @@ Ko Koe ko te Matagofie, O te Aliki toku Atua!  Au e akai totuli kia Koe, mai ia 
 (Bahaiprayers.net ID: 10922)
 
 
+
+
 ### <a id="bpn10923"></a> Prayer bpn10923 in Tuvalu
 Au ko ia, O toku Atua, tela ko oti ne agai atu ona mata kia Koe, kae fakmmau ana fakamoemoega ki uga i mea gali o Tou alofa-kaimalie mo te fakaasiiga o Tou maukoloa.  Au e talosaga kia Koe me ia au ka se-fai ne Koe ke fuli keatea mai mo te fanoanoa mai i te mataloa o Tou alofa-fakamagalo, io me e liakina mai au kia Au mea faiite ola ko la ko oti ne faka-see a Tau Fakatokaaga.  Au ko ia, O toku Atua, ko Tau tavini mo te tama tagata o Tau tavini.  Ko oti ne lavea ne au a Tau mea-tonu i Ou aso, kae ko oti ne fakatonu oku kalafaga ki matafaga o Tou tafatasi, kae folafola atu ki Tou tokotasi saogalemu, kae fakailoa atu ki Tou fakatasitasi, mo fakamoemoega ki Tau fakamagalo mo te fakaseai o agasala.  E maalosi a Koe o fai ate mea e loto Koe ki ei, e seai se Atua mai i Ou tafa, ko te Matagofie-Katoatoa, ko te Fakamagalo-Katoatoa.
 
@@ -398,11 +586,15 @@ Au ko ia, O toku Atua, tela ko oti ne agai atu ona mata kia Koe, kae fakmmau ana
 (Bahaiprayers.net ID: 10923)
 
 
+
+
 ### <a id="bpn10924"></a> Prayer bpn10924 in Tuvalu
 A Koe e lavea mai au, O toku Aliki, mo oku mata e fuli ki te lagi o Tou mau-koloa mo te vasa o Au alofaaga, fakaseai mai i mea katoa na ko Koe.  Au e akai kia Koe, i te matagofie o te Laa o Tau fakaaasiiga i luga i Sinai, mo te malifalifa o te Fuaitino tafasili ite mana o Tou alofa-kaimalkie te la e sulu maina mai i te sikulagi o Tou Igoa, ko te Fakamagalo-Katoatoa, ke tuku mai kia au a Tau fakaseai agasala kae ke isi se alofa-fakamagalo i luga ia au.  Tusi ifo ki lalo mo au i Tau pene o te matagofie, a mea ko la ka faka-maluga i ei au i Tou Igoa mo te lalolagi o te foafoaaga.  Feasoasoani mai au, O toku Aliki, ke fakatoka au ki mua ia Koe, kae ke fakavave atu ki te leo o Au fagasele, ko la a te maalosi o te lalolagi ko se kafi o fakavaaivai, a ko maalo o fenua ko seai se maalosi o taofi mai ia Koe, kae tela, e soloki atu kia mua kia Koe, e fai mai penei:  A te Atua ko te tou Aliki, ko te Aliki o latou katoa i te lagi mo latou katoa i luga i te lalolagi!”
 
 (Source category: FAKAMAGALO)
 (Bahaiprayers.net ID: 10924)
+
+
 
 
 ### <a id="bpn10925"></a> Prayer bpn10925 in Tuvalu
@@ -416,6 +608,8 @@ E matagofie a Koe, O te Aliki toku Atua!  I taimi katoa e taumafai au o taku a K
 (Bahaiprayers.net ID: 10925)
 
 
+
+
 ### <a id="bpn10926"></a> Prayer bpn10926 in Tuvalu
 E maluga a Tou Igoa, O toku Atua mote Atua o mea katoa, toku Matagofie mo te Matagofie o mea katoa, toku Manakoga mo te Manakoga o mea katoa, toku Maalosi mo te Maalosi o mea katoa, toku Tupu mo te Tupu o mea katoa, toku Aofiaaga mo te Aofiaaga o mea katoa, toku Fakagasuega mo te Fakagasuega o mea katoa!  Sa fakapokotiagina au, Au e akai fakamolemole kia Koe, ke se taofi mai au mai i te vasa o Ou alofa atafai, io me e faka-mao mai au i matafaga o te pili atu kia Koe.
      E seai aka na ko Koe, O toku Aliki, e maua i ei soku lei, ako toku pili ki so se tino na ko Koe e seai saku mea e maua.  Au e fakamolemole kia Koe ona ko te uke o Ou koloa te la e fakaogaa ne Koe mo tino katoa na ko Koe, ke lau atu au fakatasi mo latou ko la ne mua-matatasi kia Koe, kae e tu o tavini atu kia Koe.
@@ -423,6 +617,8 @@ E maluga a Tou Igoa, O toku Atua mote Atua o mea katoa, toku Matagofie mo te Mat
 
 (Source category: FAKAMAGALO)
 (Bahaiprayers.net ID: 10926)
+
+
 
 
 ### <a id="bpn10927"></a> Prayer bpn10927 in Tuvalu
@@ -435,11 +631,15 @@ O te Atua ko te omotou Aliki!  Puipui mai matou i Tou alofa fataua mai i so se m
 (Bahaiprayers.net ID: 10927)
 
 
+
+
 ### <a id="bpn10928"></a> Prayer bpn10928 in Tuvalu
 Tavaeega e i luga ia Koe, O te Aliki.  Fakamagalo mai a omotou agasala, kilo alofa mai ki luga ia matou ke mafai ne matou o foki atu kia Koe.  Sa liakina matou ne fakanaa ki se isi mea aka na ko Koe, kae tuku mai kia matou, mai i Tou maukoloa, a mea ko la e fiafia kae manako Koe ki ei kae e ttau foki kia Koe.  E fakamaluga a tulaga o latou ko la ko taliitonu fakamaoni, kae fakamagalo a latou ki Tau fakamagalo alofa.  E tonu a Koe ko te Fesoasoani i Mea-Faigata, ko te Ola-ia-Ia.
 
 (Source category: FAKAMAGALO)
 (Bahaiprayers.net ID: 10928)
+
+
 
 
 ### <a id="bpn10929"></a> Prayer bpn10929 in Tuvalu
@@ -449,12 +649,16 @@ A u e akai kia Koe ke fakamagalo mai au, O toku Aliki, ona ko te takutaku o isi 
 (Bahaiprayers.net ID: 10929)
 
 
+
+
 ### <a id="bpn10930"></a> Prayer bpn10930 in Tuvalu
 Ko te Matagofie e i luga ia Koe, O te Atua.  E mafai pefea ne au o taku a Koe ako ko Koe a mana mai i tavaeega a tino katoa.  E lauefa a Tou Igoa, O te Atua, ko Koe ko te Tupu, ko te Mea-tonu mai ana mua loa; a Koe e iloa a mea katoa i lagi mo i luga i te lalolagi, kae ko mea katoa e foki atu katoa kia Koe.  Ko oti ne tuku ifo ne Koe a Tau Fakaasiiga tela ne fakaekegia faka-te-lagi pela mo te fuafuaaga manino.  Tavaegia a Koe!  I Tau fakatonuuga e fai ne Koe ke manumaalo so se tino e loto Koe kiei, mai i luga i lukuuga o te lagi mo te lalolagi pela foki mo so se mea tela e nofo ite vasia o laua.  A Koe ko te Tupu, ko te Mea Tonu mai i te Vavau, ko te Aliki o te mafi e se-laveagia.
      E matagofie a Koe, O te Aliki! E fakamagalo ne Koe i taimi katoa a agasala a latou mai i Au tavini ko la e akai atu ki se fakamagalo.  Mulu aka keatea aku agasala mo agasala a latou ko la e salasala ki Tau fakamagalo i vaveao, ko la e talosaga kia Koe i ao mo po, ko la e seai se mea e sala ki ei vagana ko Koe, kola e tuku atu ofo katoa a so se mea ko la ko oti ne faka-mea-alofa ne te Atua ki luga ia latou, ko la e fakamanatua Ou tavaeega i tafa-taeao mo afiafi, kae ko la e se-mafai o faka-tamala i olotou tiute.
 
 (Source category: FAKAMAGALO)
 (Bahaiprayers.net ID: 10930)
+
+
 
 
 ### <a id="bpn10931"></a> Prayer bpn10931 in Tuvalu
@@ -466,11 +670,15 @@ O te Aliki!  Kafai e se-fakamagao mai au ne Koe, koi la ka talia ne o fakamagalo
 (Bahaiprayers.net ID: 10931)
 
 
+
+
 ### <a id="bpn10932"></a> Prayer bpn10932 in Tuvalu
 O ko Koe ko te Aliki fakamagalo!  A Koe ko te fakamalu o Au tavini katoa konei.  E iloa ne Koe a mea funa kae e iloa foki a mea katoa.  Matou katoa e faka-alofa, a ko Koe ko te Mafi, ko te Tafasili i te Maluga.  Matou katoa ne tino agasala, a ko Koe ko te Fakamagalo o agasala, ko te Alofa-Fakamagalo, ko te Atafai.  O te Aliki!  Sa kilo mai ki omotou vaaivaiiga.  Fai mai kia matou a te mea tela e ttau ki Tou alofa mo te mau-koloa.  A omotou se-lava e uke, ka ko te vasa o Tou fakamagalo e seai-se-tuakoi. A omotou vaaivaiiga e pa-mafa, ka ko fakatalitonuuga o Tou lago mo te feasoasoani e manino.  Tela la, fakatummau kae fakamaalosi mai matou.  Faka-mafai aka matou ke mafai o fai a mea ko la e ttau ki Tou Mataloa mana.  Fakamaina mai a omotou loto, kae tuku mai omotou mata pulapula mo taliga fakalogo.  Fakaola a latou ko mate kae foo aka a latou masaki.  Fakaeke mai ki luga ia latou mativa a te maukoloa kae tuku mai a te filemu mo te tokaaga seai-ne-fakalavelave ki latou ko la e nofo mataku.  Talia mai a matou ki Tou maalo kae sulu mai matou ki te mainaaga o te takitakiiga.  Ko Koe ko te Maalosi mo te Tafasili i te Maluga.  Ko Koe ko te Kaimalie.  Ko Koe ko te Atafai.  Ko Koe ko te Alofa.
 
 (Source category: FAKAMAGALO)
 (Bahaiprayers.net ID: 10932)
+
+
 
 
 ### <a id="bpn10933"></a> Prayer bpn10933 in Tuvalu
@@ -479,6 +687,8 @@ O te Aliki mana! O ko te Aliki o te alofa-kaimalie!  Matou ko olo fakaatea mai i
 
 (Source category: FAKAMAGALO)
 (Bahaiprayers.net ID: 10933)
+
+
 
 
 
@@ -494,12 +704,16 @@ A Koe, i te tonuga, ko te Fakamagalo-Katoatoa, ko te Tafasili i te Atafai.
 (Bahaiprayers.net ID: 12234)
 
 
+
+
 ### <a id="bpn12235"></a> Prayer bpn12235 in Tuvalu
 E tonu au ko Tau tavini, O toku Atua, mo Tau tokotasi mativa mo Tau fakaalofa mo Tau mea-ola e seai se aogaa.  Au ko oti ne oko atu ki Tau mataloa, e salasala ki Tau fakamalu.  Ko oti ne maua ne au e seai se fiafia na i Tou alofa, e seai se fakamanatu fiafia vagana i Tou masausauaga, e seai se loto-fiafia o fai a mea vagana i te fakalogo kia Koe, e seai se fiafia vagana I Tou pili-mai, kae e seai se tokaaga-malie vagana ko te fetaui mo Koe, e uilea au e iloa ne au i mea faiite katoa e faigata o oko atu ki Tou tinaTino tonu.  I taimi katoa e taumafai au o fanatu kia Koe, au e lavea ne au ate seai lele loa se mea ia au vagana ko alofaaga o Tou alofakaimalie kae e lavea ne a te masa pakupaku se mea ia au vagana ko fakaasiiga o Tou alofa-atafai.  E mafai pefea ne se tino tela ko Tau mea faiite o sala atu ke toe fetaui mo Koe kae ke oko atu ki Tou nofo-mai, kae tela iei e seai se mea faiite e mafai o fesokotaki mo Koe, io me o maina ia Koe?  E mafai pefea mo se tavini tafalalo kii loa o lavea a Koe kae fakamaluga a Ou tavaeega, e uiloa ko oti ne fakatonu ne Koe mo ia a fakaasiiga o Tou maalo mo fakamaoniiga gali o Tou nofoaiga-a-tupu?  Tela la a mea faiite katoa e molimau me ia latou e taofigia mai i te mai kogaa-koga nofo tapu o Tou nofo-mai ona ko faka-taputapuga ko la ne fakaeke aka ki luga i tena uiga tonu.  E seai se faka-kinauga, tena la, i te pokotia o Tou gali mai i anamua loa ei i loto tonu loa o uiga tonu o Ou tu-galima, e uiloa a mea kola e ttau mot e fale o Tou atamai e fakamalugagia mai luga atu o te maua o te foafoaaga katoatoa.  E fakaasi mai i te mea tenei, O toku Atua, a toku aunoa lele loa se maalosi o tavae a Koe kae fakaasi atu foki a toku seva katoatoa o 
 tuku atu a fakafetai kia Koe; kae e fia foki e ttau o fai ke maua a te iloa o Tau fakatasitasi faka-te-lagi io me o manumaalo i te maua o alofaaga manino o Tou tavaeega, ko Tou mana mo Tou silisilese.  Ikaai, mai i Tou mafi, au e nnau atu ki te seai aka foki na ko Koe tonu loa kae e se sala ki se isi aka foki na ko Koe.
 
 (Source category: FAKAPILIPILI KI TE ATUA)
 (Bahaiprayers.net ID: 12235)
+
+
 
 
 ### <a id="bpn12236"></a> Prayer bpn12236 in Tuvalu
@@ -516,6 +730,8 @@ O te Atua, toku Atua, taku Fagasele, te Manakoga o toku loto.
 
 (Source category: FAKAPILIPILI KI TE ATUA)
 (Bahaiprayers.net ID: 12236)
+
+
 
 
 ### <a id="bpn12237"></a> Prayer bpn12237 in Tuvalu
@@ -535,6 +751,8 @@ A Koe, i te tonuuga, ko te Atafai, ko te Silisiliese, ko te Mafi, ko te Tafasili
 (Bahaiprayers.net ID: 12237)
 
 
+
+
 ### <a id="bpn12238"></a> Prayer bpn12238 in Tuvalu
 A  Ia ko te Atafai, ko te Maukoloa-Katoatoa! O toku Atua, toku Atua! E lavea au ne Koe, e iloa au ne Koe; A Koe ko toku Afeega mo toku Lafiiga.  E seai ne sala au ki ei io me ka sala au ki ei vagana ko Koe; e seai se auala ne sasale au iei io me ka sasale au iei vagana ko te aual o Tou alofa.  I te po pouli o te tigaina, toku mata e fuli fakatalitali kae fonu i te fakamoemoe ki te taeao o Tou alofa lauefa kae i te itula o te faka-vaveao a te vaaivai o toku agaaga ola ne faka-fou kae fakamaalosigia i te masausau ki Tou gali mo te aaunoa mo se pona o Ia.  Ko Ia tela a te alofa-tauanoa o Tena alofafakamagalo e feasoasoani, e uiloa se motiiga fua, ka fai pela me se vasa lasi seai ne gataga, ako te atomu foliki kii loa tela ne feasoasoani-gia ne Tou alofa-kamalie, ka maina pela foki loa mo te fetu malifalifa.  
  
@@ -542,6 +760,8 @@ Fakammalu mai lalo i Tau puipuiiga, O ko Koe kote Agaaga o te matalakelekale, ko
 
 (Source category: FAKAPILIPILI KI TE ATUA)
 (Bahaiprayers.net ID: 12238)
+
+
 
 
 
@@ -555,6 +775,8 @@ E fakamalugina a Koe, O te Aliki toku Atua! Au e fakamolemole kia Koe ki te mata
 (Bahaiprayers.net ID: 10937)
 
 
+
+
 ### <a id="bpn10938"></a> Prayer bpn10938 in Tuvalu
 O ko Koe ko te Atua alofa-kaimalie
 O ko Koe ko te Atua alofa-kaimalie!  O ko Koe Te la ko te mafi mo te maalosi! O ko Koe ko te Tamana tafasili i te alofa!  A tavini konei ko oti ne maopoopo fakatasi, o fuli atu kia Koe, o tapuaki i Tou mataloa, e manako ki Ou alofaaga e seai se gata mo Tau fakapatinoga tonu tafasili i te lasi.  E seai aka foki ne olotou fakamoemoega na ko Tou fiafiaaga lei.  E seai aka foki ne olotou kiloga na ko te tavini kit e lalolagi o tagata katoa.
@@ -564,6 +786,8 @@ O ko Koe ko te Atua alofa-kaimalie!  O ko Koe Te la ko te mafi mo te maalosi! O 
 
 (Source category: FAKATASITASIIGA)
 (Bahaiprayers.net ID: 10938)
+
+
 
 
 ### <a id="bpn10939"></a> Prayer bpn10939 in Tuvalu
@@ -577,6 +801,8 @@ Koe ko te mafi.  Koe ko te maalosi. Ko Koe ko te Kave, mo Koe ko te Maukolo-Kato
 (Bahaiprayers.net ID: 10939)
 
 
+
+
 ### <a id="bpn10940"></a> Prayer bpn10940 in Tuvalu
 O toku Atua! O toku Atua!  E tonu a tavini konei ko fuli atu kia Koe, fai talosaga ki Tou maalo o te alofa.  E tonu, a latou ko fakapilipili atu on ko Tou mana kae ko faka ka gina ne tea fi o Tou alofa, o salasala mai i Tou maalo gali, kae fakamoemoe ke maua ne tulaga i Tou lagi.  E tonu, e fakamoemoe a latou ki te olo ifo o Au faka-manuiaaga, kae manako mai i te Laa-ote-Meatonu.  O te Aliki! Fai a latou me ne lamepa maina, failoaga alofa, lakau kaina mo fetu malifalifa.  Ke mafai ne latou o aumai ki mua i Tau galuega kae sokotaki mo Koe ne fesokotakiiga mo fusiiga o Tou alofa, mot e loto nnau kit e mainaaga o Au mea-alofa.  O te Aliki!  Fai a latou pela me ne fakailoga o takitakiiga, tulaga o Tou maalo e-seai-se-mate, galu o te tai o Tou alofa, kilo o te mainaaga o Tou afioga.
 
@@ -584,6 +810,8 @@ E tonu, a Koe ko te Kaimalie.  E tonu, ia Koe ko te Alofa-Kaimalie. E tonu ia Ko
 
 (Source category: FAKATASITASIIGA)
 (Bahaiprayers.net ID: 10940)
+
+
 
 
 ### <a id="bpn10941"></a> Prayer bpn10941 in Tuvalu
@@ -597,6 +825,8 @@ O Koe ko te Atua fakamagalo!  Au tavini konei ko fuli atu ki Tou maalo kae salas
 (Bahaiprayers.net ID: 10941)
 
 
+
+
 ### <a id="bpn10942"></a> Prayer bpn10942 in Tuvalu
 O ko te Atamai Faka-te-Lagi!  A te Lukuuga tenei e aofia i ei Ou taugasoa ko la e fakapilipili ki Tou gali kae ko ula i te afi o Tou alofa.  Fuli aka agaaga ola konei ki agelu faka-te-lagi, ke fakaola mai latou mai i te manavaaga o Tau Agaaga Tapu, kae tuku kia latou a laulaufaiva e masani mo loto ko mautakitaki, tuku ki luga ia latou a te maalosi faka-te-lagi mo te alofa ki vaaivaiiga foliki, ke mafai o fai latou pela mene faiakoga talai o te tafatasi o tagata mot e pogai o te alofa mo te fealofani i te lalolagi o tagata, ko te mea ko te pogisa faka-mataku tenei o te fai-va kese ona ko te valea ke mafai o faka-galo atu ona ko te mainaaga o te Laa-ote Meatonu, ko te lalolagi noga tenei ke mafai o faka-mainagia, ko te lalolagi faletino tenei ke mafai o miiti ne ia a vae o te lalolagi o te agaaga, a lanu kesekese ke mafai o tapani ki se lanu e tasi a ko te sikuleo o tavaeega ke fanaka ki luga i te maalo o Tou mana.
      E tonu, ko Koe ko te Tafasili i te Mana mo te Mafi-Katoatoa!
@@ -605,12 +835,16 @@ O ko te Atamai Faka-te-Lagi!  A te Lukuuga tenei e aofia i ei Ou taugasoa ko la 
 (Bahaiprayers.net ID: 10942)
 
 
+
+
 ### <a id="bpn10943"></a> Prayer bpn10943 in Tuvalu
 O ko Koe a te Fakasoasoa atafai!  A agaaga konei ko oti ne fakavave atu ki kalaga o te Maalo, kae ko oti ne kilo ki luga ite matagofie o te La o te Meatonu.  Ko oti latou ne tu ki luga ki lagi foou o te alofa; ko piki mmau latou ki Tou natula, kae e tapuaki latou ki Tou gali.  Kia Koe ne fuli atu latou, faipati fakatasi mo Koe, salasala atu ki te koga e nofo Koe i ei, kae ko fia inu latou kite vai mai i Tou maalo faka-te-lagi.
      Ko koe a te Foai, te Fai Mea-alofa, te Atafai-Katoatoa.
 
 (Source category: FAKATASITASIIGA)
 (Bahaiprayers.net ID: 10943)
+
+
 
 
 
@@ -628,6 +862,8 @@ Ofa aka ki lalo mot e lima lauiloa o Tou maalosi, O Toku Aliki, a te veli o mafa
 (Bahaiprayers.net ID: 12252)
 
 
+
+
 ### <a id="bpn12253"></a> Prayer bpn12253 in Tuvalu
 E matagofie e i Tou igoa, O te Aliki toku Atua!  E lavea ne Koe a toku kogaa-koga nofo, mo te fale-puipui tela ne pei au kiei, kae ne tigaina iei au i faka-lavelave e uke.  Mai i Tou mafi!  E seai se pene e mafai o toe llau mai a latou, io me se laulaufaiva e mafai o fakamatala io me o faka-napa a latou.  E seiloa ne au, O toku Atua, me se aa ate pogai ne liakina iei au ne Koe ki Ou fili.  Ko Tou matagofie e fai mo aku molimau!  Au e se-fanoanoa mo te fa-kaitaua ne kufaki ne au ona ko te alofa mo Koe, io me e lagona ne au ate poi i faka-lavelave lasi ne feagai mo au i Tou auala.  A toku fanoanoa e se pogai mai ise isi mea aka kae ona ko te tuai o 
 fakataunu ne Koe ate mea tela ko oti ne iku ia Koe i Tapeleti o Tau Fakaasiiga, kae fakaeke i loto i tusi o Tau tonu mo te faka- masinoga.  
@@ -637,6 +873,8 @@ oko mai ki au i taimi katoa.  Ke tanumia a te fagasele tela e atafia ne ia i te 
 
 (Source category: FALEPUIPUI)
 (Bahaiprayers.net ID: 12253)
+
+
 
 
 ### <a id="bpn12254"></a> Prayer bpn12254 in Tuvalu
@@ -651,6 +889,8 @@ E maalosi a Koe o fai a te mea e fiafia Koe kiei.  A Koe, e ton, ko Pule Maluga,
 (Bahaiprayers.net ID: 12254)
 
 
+
+
 ### <a id="bpn12255"></a> Prayer bpn12255 in Tuvalu
 E lavea mai ne Koe, O toku Atua, ko te Fetu-Ao o Tau Muna e maina mai i luga i te sikulagi o Tau fakai-falepuipui, pela loa mai i loto i pui a Ia tela ko te Faifekau o Koe totino mo te Aso-Malulu o te mainaaga o Tau faka-tasitasi ko oti ne apai aka a Tena leo kae fai atu a Ou tavaeega.  A manogi gali o Tou alofa ko agiagi mai i luga i Ou fakai lasi kae ko oti ne siomia a latou katoa i Tou maalo.  
   
@@ -663,6 +903,8 @@ seai se taimi ne isi e pau io me se taugasoa o Koe.  A Koe, i te tonuuga, ko te 
 (Bahaiprayers.net ID: 12255)
 
 
+
+
 ### <a id="bpn12256"></a> Prayer bpn12256 in Tuvalu
 Tavaeega e io Koe, O te Aliki toku Atua!  Au e akai kia Koe e auala atu i Tou Gali mai i te Favavau pela foki mo Tou Igoa Tafasili ite 
 Takutakua, Tela a Koe ko oti ne ofo ko latou katoa e nofo i Tou lalolagi mo te lagi e mafai o toe fanau foou mai, kae Tela ne pei kite fale-puipui ne Koe ko te ma ko tino ke mafai, pela mese alofaaga o Tou maukoloa mo Tou nofoaiga-a-tupu e mafai, o tala mai i te faka-pagota o olotou fiafiaaga masei mo manakoga faitogafiti, ke llau au mo latou ko la e manava poko ki te manogi o Tou alofafakamagalo, kae fakavave atu i se makini pela mo vaai ola o Tou alofatauanoa, kola e seai ne matasana e mafai o fakalavelave a latou o fuli atu kia Koe, io me se matatao e mafai o fuli atu a olotou mata ki te tulaga o Tau Fakaasiiga.  
@@ -673,6 +915,8 @@ Fakamanuia, O toku Atua, a latou kola e tautali ki te Bayán pela loa me ko lato
 
 (Source category: FALEPUIPUI)
 (Bahaiprayers.net ID: 12256)
+
+
 
 
 ### <a id="bpn12257"></a> Prayer bpn12257 in Tuvalu
@@ -689,6 +933,8 @@ Koe, tela i Ou lima e maua iei a tulaga o te fakaasiiga mo te foafoaaga, pela fo
 (Bahaiprayers.net ID: 12257)
 
 
+
+
 ### <a id="bpn12258"></a> Prayer bpn12258 in Tuvalu
 Tavaeega e io Koe, O toku Atua, e Lavea mai au ne Koe e loka i te Falepuipui tenei, kae eiloa fakallei loa ia au ne ulu ki loto nei ona loa ko Koe mo te faka-aloaloga o Tau muna mo te faka-salalauga o Tau Fakatokaaga.  Au e tagi atu kia Koe, i te taimi loa tenei, O ko Koe Tela ko te Aliki o lalolagi katoa, o akai totuli atu kia Koe, i Tou Igoa e seai se-fa-lotoloto-lua iei, ke fakapilipili mai a loto o Au tavini kit e Aso-Maliulu o Ou tofiiga tafasili ite maluga mo te Kogaa-koga Tapuaki o Au fakailoga tafasili i te malifalifa.  
   
@@ -702,11 +948,15 @@ Nei la ko oti ne takitaki ne Koe a latou ki te mataloa o Tou alofa mana, O toku 
 (Bahaiprayers.net ID: 12258)
 
 
+
+
 ### <a id="bpn12259"></a> Prayer bpn12259 in Tuvalu
 E   lavea ne Koe, O toku Aliki, a toku kogaa-koga nofo kanoloto o te mauga teni kae e molimau ne Koe a toku kufaki.  E tonu e semanako au ki se isi mea aka vagana ko Tou alofa mot e alofa o latou kola e alofa kia Koe.  E mafai pefea o fakamauluga ne au ate matagali o Tou faka-Aliki, aua e iloa ne au a toku seai-lele-loa mai i mua o te koga nofo o Tou matagofie?  Kae e ui i ei a te fanoanoa o te nofo faka-alofa mo nofo tokotasi e fakaala ne ia au ke tagi atu kia Koe mai i luga i talosaga, se-taumate ko Au tavini fakamaoni ke mafai o iloa aku tagi-fanoanoa, ke mafai o talosaga atu kia Koe, kae ka tali ne Koe mo te alofa a olotou talosaga pela mes alofaga o Tou gali mo Ou alofaga.  Au e molimau me e seai aka foki se Atua na ko Koe, pela loa mo te mea ko oti ne fakaeke ne Koe mo te nofoaiga-a-tupu, matagofie, silisilese mo te maalosi tela e seai aka se Tavini a Koe e mafai o lavea io mea o maina.  E tonu a Koe ka, ona ko uiga kola e maua i Tou Uiga-Tonu, e tumau pena aunoa mo te se-mafai o iloagia vagana ko Koe.
 
 (Source category: FALEPUIPUI)
 (Bahaiprayers.net ID: 12259)
+
+
 
 
 ### <a id="bpn12260"></a> Prayer bpn12260 in Tuvalu
@@ -741,6 +991,8 @@ Tusi ifo ki lalo mo matou a sose mea tela ei o Koe, kae fakamagalo mai matou ona
 
 
 
+
+
 ## FEALOFANI
 
 ### <a id="bpn12345"></a> Prayer bpn12345 in Tuvalu
@@ -748,6 +1000,8 @@ O toku Atua! O toku Atua! Fusi tasi loto o Au tavini kae fakaasi kia latou Tau f
 
 (Source category: FEALOFANI)
 (Bahaiprayers.net ID: 12345)
+
+
 
 
 ### <a id="bpn12346"></a> Prayer bpn12346 in Tuvalu
@@ -766,6 +1020,8 @@ E tonu, a Koe ko te Mafi-Katoatoa, ko te Ola-ia-Ia-loa, ko te Foai, ko te Faka-m
 
 
 
+
+
 ## FIAFIA MO TE FIAFIA LASI
 
 ### <a id="bpn12239"></a> Prayer bpn12239 in Tuvalu
@@ -776,6 +1032,8 @@ Ke fakaeke mai ne Koe, tena la, i tino taki tokotasi katoa ko la ne fuli atu kia
 
 (Source category: FIAFIA MO TE FIAFIA LASI)
 (Bahaiprayers.net ID: 12239)
+
+
 
 
 ### <a id="bpn12240"></a> Prayer bpn12240 in Tuvalu
@@ -793,11 +1051,15 @@ pule ne Koe.  A Koe, e tonu, ko te Faka-magalo-Katoatoa, ko te Tafasili ite Mauk
 (Bahaiprayers.net ID: 12240)
 
 
+
+
 ### <a id="bpn12241"></a> Prayer bpn12241 in Tuvalu
 O toku Aua, O toku Aliki, O toku Matai!  Au e akai kia Koe ke fakamagalo mai au ona ko saala atu au ki so se fiafiaaga vagana ko Tou alofa, io me se isi tokaaga malie vagana ko Tou nofo-pili-mai, io me ko te olaaga mai i tafa o te sokotaki mo Koe.
 
 (Source category: FIAFIA MO TE FIAFIA LASI)
 (Bahaiprayers.net ID: 12241)
+
+
 
 
 ### <a id="bpn12242"></a> Prayer bpn12242 in Tuvalu
@@ -816,6 +1078,8 @@ E tonu a Koe ko te Maalosi-Katoatoa, ko te Puipui, ko te Mafi-Katoatoa, ko te Ol
 
 (Source category: FIAFIA MO TE FIAFIA LASI)
 (Bahaiprayers.net ID: 12242)
+
+
 
 
 ### <a id="bpn12243"></a> Prayer bpn12243 in Tuvalu
@@ -842,6 +1106,8 @@ Au e akai totuli kia Koe, O toku Atua, i te matagofie o Ou Mata alofafakamagalo 
 
 
 
+
+
 ## FILEMU
 
 ### <a id="bpn10958"></a> Prayer bpn10958 in Tuvalu
@@ -862,6 +1128,8 @@ O ko Koe a te Aliki alofa!  Ko oti ne faite ne Koe a tino katoa mai i te itukaai
 (Bahaiprayers.net ID: 10958)
 
 
+
+
 ### <a id="bpn10959"></a> Prayer bpn10959 in Tuvalu
 O toku Aliki, toku Puipui, toku Fesoasoani i Mea Faigata!  E maulalo a taku akai fakamolemole kia Koe, e masaki kae vau kia Koe ke fakalei a toku masaki, e tagi akai atu kia Koe mo toku laulaufaiva, toku agaaga ola, mo toku mafaufau:
      O te Atua, toku Atua!  A te fase-tonu o te po ko tanumia i ei a kogaa-koga katoa, a ko te lalolagi ko ponogina ne kaumana pouli.  A tino o te lalolagi ko to i loto i te pogisa o fakatauga seai ne aoga, a ko olotou tino pule masei kae kaitaua ko taka- seasea i te fakamasei o mea mo te kaitaua.  E seai saku mea e lavea na loa ko mata kaitaua o afusaga o afi ko kaa loa ki luga mai i te pokooga loa fakaoti o te koga mai i tua, e seai saku mea e lagona na loa ko te maluga o te gulu e pakalaga mai i te afe mo afe o mea tau, a ko fenua taki tasi ko tagitagi ki luga i olotou laulaufaiva e se iloa:  “Oku maumea e seai ne aogaa kia aku, a ko taku puleega ko galo ifo ki lalo!”
@@ -878,6 +1146,8 @@ O toku Aliki, toku Puipui, toku Fesoasoani i Mea Faigata!  E maulalo a taku akai
 
 
 
+
+
 ## GALUEGA
 
 ### <a id="bpn12277"></a> Prayer bpn12277 in Tuvalu
@@ -889,6 +1159,8 @@ E maalosi a Koe o fai a te mea e fiafia Koe ki ei.  E seai aka se Atua na ko Koe
 
 (Source category: GALUEGA)
 (Bahaiprayers.net ID: 12277)
+
+
 
 
 ### <a id="bpn12278"></a> Prayer bpn12278 in Tuvalu
@@ -906,6 +1178,8 @@ A Koe, e tonu, ko te Mafi-Katoatoa, ko te tafasili ite Maluga, ko te IloaKatoato
 
 
 
+
+
 ## Huqúqu’lláh: Ko te Saolotooga o te Atua
 
 ### <a id="bpn10935"></a> Prayer bpn10935 in Tuvalu
@@ -915,6 +1189,8 @@ E lauefa a Koe, O te Aliki o te foafoaaga katoatoa, ko te Tokotasi Tela a mea ka
 
 (Source category: Huqúqu’lláh: Ko te Saolotooga o te Atua)
 (Bahaiprayers.net ID: 10935)
+
+
 
 
 ### <a id="bpn10936"></a> Prayer bpn10936 in Tuvalu
@@ -928,6 +1204,8 @@ Au e akai kia Koe, O te Aliki o igoa katoa mo te Tufuga o lagi, ke feasoasoani m
 (Bahaiprayers.net ID: 10936)
 
 
+
+
 ### <a id="bpn10972"></a> Prayer bpn10972 in Tuvalu
 A te Huqúqu’lláh (Te Saolotoga o te Atua) se tulafono.  E manakogina ko tino katoa ke ave se tusaga, auaa me ko te kamataga o te alofa, te uke, mo te lei katoatoa.  Se fakamanuiaaga te la ka maua ne so se agaaga ola i lalolagi katoa o lalolagi o te Atua, te Maumea-Katoatoa, te Maukoloa-Lauefa Katoatoa. - Bahá’u’lláh
 
@@ -935,6 +1213,8 @@ E tafasili a te lauefa o Koe, O te Aliki o te foafoaaga katoa, Te Tasi te la e t
 
 (Source category: Huqúqu’lláh: Ko te Saolotooga o te Atua)
 (Bahaiprayers.net ID: 10972)
+
+
 
 
 ### <a id="bpn10973"></a> Prayer bpn10973 in Tuvalu
@@ -945,6 +1225,8 @@ E maluga silisili a Koe, O toku Aliki alofa atafai! Au e akai totuli ki te tumu 
 
 (Source category: Huqúqu’lláh: Ko te Saolotooga o te Atua)
 (Bahaiprayers.net ID: 10973)
+
+
 
 
 
@@ -960,6 +1242,8 @@ Matagofie e io Koe, O te Aliki toku Atua! Au e akai kia Koe ke fakamagalo mai au
 
 
 
+
+
 ## KAAIGA FAKA-TE-AGAAGA O SEFULU IVA O ASO
 
 ### <a id="bpn10944"></a> Prayer bpn10944 in Tuvalu
@@ -970,6 +1254,8 @@ O te Atua!  Fakaseai katoa a mea e pogai ki ei a te va se lei, kae fakatoka mai 
 
 
 
+
+
 ## LIMA O TE FAKATOKAAGA
 
 ### <a id="bpn10975"></a> Prayer bpn10975 in Tuvalu
@@ -977,6 +1263,8 @@ Mainaaga mo te matagofie, talofaaga mo tavaega e i luga i Lima o Tena Fakatokaag
 
 (Source category: LIMA O TE FAKATOKAAGA)
 (Bahaiprayers.net ID: 10975)
+
+
 
 
 
@@ -991,6 +1279,8 @@ E tonu a Koe ko te Aliki o te Tupuola, a Koe e maalosi o fai a so se mea ko ti n
 (Bahaiprayers.net ID: 12295)
 
 
+
+
 ### <a id="bpn12296"></a> Prayer bpn12296 in Tuvalu
 O Koe ko Tou pili mai ko toku manakoga…  
   
@@ -1002,6 +1292,8 @@ Koe, e tonu, ko te Atua o te Maalosi, ko te Feasoasoani i Mea Faigata, ko te Mat
 
 (Source category: LOTO-MMAU / FAKATUANAAKI)
 (Bahaiprayers.net ID: 12296)
+
+
 
 
 ### <a id="bpn12297"></a> Prayer bpn12297 in Tuvalu
@@ -1023,6 +1315,8 @@ Au e akai kia Koe, O te Aliki of mea katoa mot e Tupu o mealavea mot e se lavea,
 (Bahaiprayers.net ID: 12297)
 
 
+
+
 ### <a id="bpn12298"></a> Prayer bpn12298 in Tuvalu
 Ko te matagofie e io Koe, O te Aliki toku Atua!  Au e akai fakamolemole kia Koe mai ia Ia Tela ko Tou Igoa Tafasili i te Lasi, Te la ko oti ne pokotia kii loa ne Au mea faiite kae fakase a Tau mea tonu, kae Tela ne toe faopopo mai a te fanoanoa tela e seai se laulaufaiva e mafai ne ia o fakamatala, ke talia mai ko au ke mafai o masaua a Koe kae fakamanatu a Tou tavaeega i aso konei ko la a tino katoa ko fulitua mai i Tou gali, ko oti ne faka-kinau mo Koe, kae fulitua fakamasei mai ia Ia Tela ko te Fakaasi o Tau Fakatokaaga.  E seai aka foki i kona, O toku Aliki, o feasoasoani kia Koe vagana ko Koe Loa ia Koe, kae e seai se maalosi o fakamafafana a Koe vagana ko Tou maalosi.  
   
@@ -1030,6 +1324,8 @@ Au e akai faka-molemole kia Koe ke fakamafai aka au ke taofi mmau i Tou alofa mo
 
 (Source category: LOTO-MMAU / FAKATUANAAKI)
 (Bahaiprayers.net ID: 12298)
+
+
 
 
 ### <a id="bpn12299"></a> Prayer bpn12299 in Tuvalu
@@ -1040,6 +1336,8 @@ Ke talia, O toku Atua, ko te mea ke se mafai au o llau i vasia o latou ko la olo
 
 (Source category: LOTO-MMAU / FAKATUANAAKI)
 (Bahaiprayers.net ID: 12299)
+
+
 
 
 ### <a id="bpn12300"></a> Prayer bpn12300 in Tuvalu
@@ -1055,11 +1353,15 @@ E tonu, ia Koe ko te Pule sili, ko te Nofoaiga-a-tupu o te Meatonu, ko te Feasoa
 (Bahaiprayers.net ID: 12300)
 
 
+
+
 ### <a id="bpn12301"></a> Prayer bpn12301 in Tuvalu
 O te Aliki toku Atua!  Fesoasoani ki Au fagasele ke mautaki i Tau Talitonuuga, ke sassale i Ou auala, ke piki-mau ki Tau Fakatokaaga.  Avatu kia latou a Tou alofa-kaimalie ke teke atu a faka-osoosooga o te fili mai i latou eloa mo manakoga o latou, ke tautali latou i te mainaaga faka-telagi o Tau takitakiiga.  Ko Koe te Maalosi, te Alofa-Kaimalie, te Ola ia Ia eloa, ko e Ave-mea-alofa, ko te Alofa-Atafai, ko te Mafi-Katoatoa, ko te Lava-Katoatoa.
 
 (Source category: LOTO-MMAU / FAKATUANAAKI)
 (Bahaiprayers.net ID: 12301)
+
+
 
 
 ### <a id="bpn12302"></a> Prayer bpn12302 in Tuvalu
@@ -1074,6 +1376,8 @@ E tonu, a Koe ko te Alofa-Atafai ko te Foai-Katoatoa, ko te Taua, ko te Tafasili
 
 
 
+
+
 ## LOTU FAKAFETAI I TE TAIPOLA
 
 ### <a id="bpn10945"></a> Prayer bpn10945 in Tuvalu
@@ -1083,11 +1387,15 @@ A  Ia ko te Atua!  E lavea mai ne Koe a matou, O toku Atua, e nofo siomia fakata
 (Bahaiprayers.net ID: 10945)
 
 
+
+
 ### <a id="bpn10946"></a> Prayer bpn10946 in Tuvalu
 A Ia ko te Atua!  E mafai pefea o siki atu a fakafetai kia Koe, o te Aliki?  Au mea-alofa e se mafai o palele a ko te motou fakafetai e se mafai o fakatusa ki ei.  E mafai pefea a te mea e mafai o oti o faipati ki te mea e se mafai lele o gata?  E se mafai ne matou o fai atu a motou fakafetai kia Au mea-alofa kae i te aunoa mo se maalosi e fuli atu matou katoatoa ki Tou Maalo o akai totuli atu ke mu mea aka Au mea-alofa mo fakamanuiaaga.  A Koe ko te Foai, ko te Fai-Mealofa, ko te Mafi-Katoatoa.
 
 (Source category: LOTU FAKAFETAI I TE TAIPOLA)
 (Bahaiprayers.net ID: 10946)
+
+
 
 
 
@@ -1102,6 +1410,8 @@ O te Atua, toku Atua! Matou ko Au Tavini ko la ko oti ne fuli atu mo te faka-tua
 (Bahaiprayers.net ID: 10976)
 
 
+
+
 ### <a id="bpn10977"></a> Prayer bpn10977 in Tuvalu
 *I so se taimi e ulufale atu koe ki loto i te potu fono, fai ate talo tenei mo tou loto finafinau i te alofa o te Atua mo te laulaufaiva e matakalekale mai I meakatoa na ko Tena masauuga, ko te Maalosi-Katoatoa ke aumai a te alofaaga fesoasoani ke maua ne koe a te manumaalo tafasili ite maluga.
 
@@ -1111,6 +1421,8 @@ O te Atua, toku Atua! Matou ko Au Tavini ko la ko oti ne fuli atu mo te faka-tua
 (Bahaiprayers.net ID: 10977)
 
 
+
+
 ### <a id="bpn10978"></a> Prayer bpn10978 in Tuvalu
 Aumai fakatasi koutou i te fiafia matakalekale mo te kamataaga o te fonotaga, fai a te talo tenei:
 O ko Koe te Aliki o te Maalo!  E uiloa a tou fuaitino ko luku fakatasi i konei, a ko motou loto ko la koe ofo valevale ko avegina ne Tou alofa, pe la foki ko kaveega tatou ne kavei o te mainaaga o Ou mata.  E ui iai ate vaivai o matou, e faitali matou kit e faka-asiiga o Tou mafi mot e maalosi.  E pefea a te mativa o matou, seai so se koloa io me se isi mea aka, kae patele loa matou i maumea mai i kope taaua o Tou maalo.  E uiloa a matou pela me ne motiiga, kae faka-aogaa loa ne matou a mea mai i Tou vasa poko.  E uiloa matou e foititi kii loa, kae maina loa matou ite matagofie o Tou Laa tafasili ite gali.
@@ -1118,6 +1430,8 @@ O ko Koe te Aliki o te Maalo!  E uiloa a tou fuaitino ko luku fakatasi i konei, 
 
 (Source category: LUKUUGA FAKA-TE-AGAAGA)
 (Bahaiprayers.net ID: 10978)
+
+
 
 
 ### <a id="bpn10979"></a> Prayer bpn10979 in Tuvalu
@@ -1132,6 +1446,8 @@ O te Atua! O te Atua!  Mai i te maalo e se-lavea o Tou tafatasi e lavea mai a ma
 
 
 
+
+
 ## MAATUA
 
 ### <a id="bpn10914"></a> Prayer bpn10914 in Tuvalu
@@ -1142,11 +1458,15 @@ Au e akai fakamolemole ki Tau fakamagalo, O toku Atua, kae akai totuli atu ki te
 (Bahaiprayers.net ID: 10914)
 
 
+
+
 ### <a id="bpn10915"></a> Prayer bpn10915 in Tuvalu
 O te Aliki!  I te Vaataimi tafasili i te Takutakua tenei ko oti ne talia ne Koe a te aofia mai o tamaliki ke tu mai ona ko olotou matua.  Mea nei se tasi o mea-alofa tafasili i te fakapitoa o te Vaaitaimi tenei.  Tena la, O ko Koe ko te Aliki alofa, ke talia a te manakoga o Tau tavini tenei i te mataloa o Tou tokotasi kae ufi aka ki lalo a tena tamana i te vasa o Tou alofa, auaa a tena tama tagata tenei ko oti ne tu ki luga o fai a Tau galuega kae ko faka-galue a tena maalosi i taimi katoa i te auala o Tou alofa.  E tonu a Koe koe te Foai, ko te Fakamagalo mot e Kaimalie!
 
 (Source category: MAATUA)
 (Bahaiprayers.net ID: 10915)
+
+
 
 
 
@@ -1163,6 +1483,8 @@ E maalosi Koe o fai so se mea te la e loto Koe ki ei.  E seai se Atua na ko Koe,
 (Bahaiprayers.net ID: 12336)
 
 
+
+
 ### <a id="bpn12337"></a> Prayer bpn12337 in Tuvalu
 Se fakamae gina au, O te Atua, toku Atua, o taofi mai i te lagi o Au koloa lauefa mo te fetuao o Au alofaaga.  Au e akai totuli kia Koe i Tau Muna mai luga i mea katoa lavea mo te se lavea ko oti ne taofi ki lalo ne Koe ke fesoasoani kia au kae ke fesoasoani ki tino filifilia ke fakataunu a mea ko la ka fakamaluga ne latou a Tau Fakatokaaga i vasia o Au tavini kae i koga fenua katoa.  Fakaeke mai ne Koe kia au a mea llei taki tasi katoa ko la ko oti ne tuku ifo ne Koe i Tau Tusi.  
   
@@ -1170,6 +1492,8 @@ E tonu ia Koe ko te Mafi-Katoatoa, ko te Fakamagalo-Katoatoa, ko te Tafasili i t
 
 (Source category: MANUMAALO O TE FAKATOKAAGA)
 (Bahaiprayers.net ID: 12337)
+
+
 
 
 ### <a id="bpn12338"></a> Prayer bpn12338 in Tuvalu
@@ -1186,6 +1510,8 @@ E maalosi a Koe o fai ate mea e fiafia Koe ki ei.  A Koe, e tonu, ko te Feasoaso
 (Bahaiprayers.net ID: 12338)
 
 
+
+
 ### <a id="bpn12339"></a> Prayer bpn12339 in Tuvalu
 Te Matagofie e io Koe, O te Aliki,Ko Koe Tela ne aumai kae fakafoliga a mea ola katoa, mai I luga I te maalosi o Tau ikuuga.  
   
@@ -1199,6 +1525,8 @@ Talia ne Koe, O te Aliki, ko olotou loto ke mafai, mai i te tautali ki ei, ko Ta
 (Bahaiprayers.net ID: 12339)
 
 
+
+
 ### <a id="bpn12340"></a> Prayer bpn12340 in Tuvalu
 O te Aliki!  Faka-soasoa aka mo te ola kimua fakavave o te Lakau Ola o Tau Tafatasi faka-te-lagi, fakasiusiu aka, O te Aliki, ki te vai tafe o te fiafia-llei, kae faka mafai aka, i mua o faka-asiiga o Tau faka-maalosi faka-te-lagi, ke fua mai ki fuaga lakau kaina pe la mot e mea e manako Koe ki ei mo fai a Ou tavaeega mo te fakamaluga, a Tou tavaeega mo te fakafetai, kae ke faka-lauefa a Tou Igoa, ke vikia a te tafatasi o Tou Uiga Tonu kae ke tuku atu foki a mitaaga kia Koe, pe la loa mo mea katoa e nofo i loto i Tau pule kae seai se isi tino aka.  
   
@@ -1206,6 +1534,8 @@ E lasi ate faka-manuiaaga o latou ko la a olotou toto ne fili ne Koe mo fakasius
 
 (Source category: MANUMAALO O TE FAKATOKAAGA)
 (Bahaiprayers.net ID: 12340)
+
+
 
 
 ### <a id="bpn12341"></a> Prayer bpn12341 in Tuvalu
@@ -1219,6 +1549,8 @@ E tonu, a Koe ko te Aliki mo te Aliki o mea katoa, Ki Ou lima e foki atu matou k
 (Bahaiprayers.net ID: 12341)
 
 
+
+
 ### <a id="bpn12342"></a> Prayer bpn12342 in Tuvalu
 O te Aliki! Fai aka ko tino katoa o te lalolagi ke maua se avanoaaga ki loto i te Palataiso o Tau Talitonuuga, ko te mea ke seai se mea faiite e nofo mai i luga atu o tuakoi o Tou fiafiaaga-lei.  
   
@@ -1226,6 +1558,8 @@ Mai i te pilitakiiga o te vavau Koe e maalosi o fai a te mea e fiafia Koe ki ei 
 
 (Source category: MANUMAALO O TE FAKATOKAAGA)
 (Bahaiprayers.net ID: 12342)
+
+
 
 
 ### <a id="bpn12343"></a> Prayer bpn12343 in Tuvalu
@@ -1244,6 +1578,8 @@ E tonu, Koe ko te Foai-fua, ko te Faka-magalo, ko te Tuku Mea-alofa.  E tonu Koe
 (Bahaiprayers.net ID: 12343)
 
 
+
+
 ### <a id="bpn12344"></a> Prayer bpn12344 in Tuvalu
 A Ia ko te Atua!  
   
@@ -1260,6 +1596,8 @@ Ko te matagofie o matagofie e nofo i luga ia latou ko la e mmau kae tumau.
 
 
 
+
+
 ## MATUA FAKATALI O FANAU
 
 ### <a id="bpn12359"></a> Prayer bpn12359 in Tuvalu
@@ -1269,6 +1607,8 @@ O toku Aliki, e tuku atu ne au a ia tenei i toku tinae kia Koe.  Tena la fai aka
 
 (Source category: MATUA FAKATALI O FANAU)
 (Bahaiprayers.net ID: 12359)
+
+
 
 
 
@@ -1289,6 +1629,8 @@ ligi mai kia au a se tusaga lasi o te talitonu katoatoa mo te faka-salasalauga, 
 
 
 
+
+
 ## MAUTAKITAKI I TE FEAGAIIGA
 
 ### <a id="bpn10917"></a> Prayer bpn10917 in Tuvalu
@@ -1301,6 +1643,8 @@ Ko te Matagofie e io Koe, O ko te Tupu o te favavau, mo te Tufuga o atu-fenua, m
 (Bahaiprayers.net ID: 10917)
 
 
+
+
 ### <a id="bpn10918"></a> Prayer bpn10918 in Tuvalu
 A Ia ko te Mafi, ko te Fakamagalo, ko te Atafai!
      O te Atua, toku Atua!  E lavea ne Koe Au tavini ei i loto i te pokooga o te masei mo te mea se; te fea a Tou mainaaga o takotakiiga faka-te-lagi, O ko Koe ko te Manakoga o te lalolagi?  A Koe e iloa llei a te olotou takaseasea mo te vaaivai, te fea a Tou maalosi, O ko Koe i Ou lima e nofo iei a maalosi o te lagi mo te lalolagi?
@@ -1309,6 +1653,8 @@ A Ia ko te Mafi, ko te Fakamagalo, ko te Atafai!
 
 (Source category: MAUTAKITAKI I TE FEAGAIIGA)
 (Bahaiprayers.net ID: 10918)
+
+
 
 
 ### <a id="bpn10919"></a> Prayer bpn10919 in Tuvalu
@@ -1320,6 +1666,8 @@ Fai aka ke mmau a omotou kalafaga, O te Aliki, i Tou auala kae fakamaalosi aka n
 (Bahaiprayers.net ID: 10919)
 
 
+
+
 ### <a id="bpn10920"></a> Prayer bpn10920 in Tuvalu
 O ko te Atua atafai!  Fakafetai kia Koe me ne fago kae ne fakafoki mai ne Koe a te mafafau.  Ne tuku mai ne Koe a te mata lavea mo mea-alofa kia au ki te taliga lagona, ko oti ne takitaki au ki Tou maalo kae fakataki au ki Tou auala.  Ko oti ne fakaasi mai ne Koe a te auala tonu kae fai au ke ulu ki te vaka o te faolataga.  O te Atua!  Tausi mai au ke loto maalosi kae fai au ke mmautakitaki kae fakamaoni.  Puipui mai au mai i tofotofooga fakapakia tino ka tusi kae fakamalu mai au i te olo-tau maalosi o Tau Feagaiiga mo Tau Fakamaoniiga.  A Koe ko te Maalosi!  A Koe ko te Lavea.  A Koe ko te Lagona.
      O Koe ko te Atua Atafai.  Tuku ifo kia au a te loto tela, pela mese kilasi, e mafai o fakamaina ki te mainaaga o Tou alofa, kae aumai kia au a mafaufauga ko la e mafai o fakamafuli a te lalolagi nei ki se fatoaga losa mai i te maligiiga o te gali-mana faka-te-lagi.
@@ -1329,12 +1677,16 @@ O ko te Atua atafai!  Fakafetai kia Koe me ne fago kae ne fakafoki mai ne Koe a 
 (Bahaiprayers.net ID: 10920)
 
 
+
+
 ### <a id="bpn10921"></a> Prayer bpn10921 in Tuvalu
 O toku Aliki mo toku Fakamoemoega!  Feasoasoani mai Koe ko Au fagasele ke tummau i Tau Feagaiiga tafasili ite mafi, ke tummau ite fakamaoni ki Tau Fakatokaaga laveagia, kae ke fai a fakatonuuga ko oti ne ave ifo ne Koe mo latou i Tau Tusi o Matagofie silisiliese; ko te mea ke mafai latou o fai pela mene fuka o te takitakiiga mo lamepa o te Lukuuga mai i luga, vai-keli o Tou atamai e se-mafai o gata mai, ko fetu ko la e olo tonu, pela mo te olootou maina ki lalo mai ite lagi tafasili i te gali.
      E tonu, a Koe ko te Se-Lavea, ko te Mafi-Katoatoa, ko te Maalosi-Katoatoa.
 
 (Source category: MAUTAKITAKI I TE FEAGAIIGA)
 (Bahaiprayers.net ID: 10921)
+
+
 
 
 
@@ -1363,6 +1715,8 @@ Matou katoa, e tonu, e onosai i te Atua.
 (Bahaiprayers.net ID: 10887)
 
 
+
+
 ### <a id="bpn10888"></a> Prayer bpn10888 in Tuvalu
 E mana e ia Koe, O te Aliki toku Atua!  Se fakafoliki a ia te la ko oti ne fakamaluga ne Koe mai i luga i te maalosi o Tou nofoaiga-a-tupu e seai se gataaga, kae e se ave keatea ke mao mai ia ia te la ko oti ne talia ne Koe ke ulu atu ki te tapaneko o te favavau o Koe.   Sa liakina a ia, O toku Atua, a ia tela ko oti ne pulougina e Koe ne ne Tou tulaga Aliki, kae sa tiakina a ia mai i te kilo ona mata kia Koe, O toku Manakoga, kia ia tela ko oti ne fai pe la me se tino takaseasea seai sena koga nofo tumau?  Sa fakafoliki foki ne Koe a ia te la ko oti ne apai aka ki luga, io me fakapuli a ia te la ne masaua e ia Koe?
      Vikiiga, kae vikia fakafia a Koe!  A Koe ko Ia Te la mai ite vavau loa ko te Tupu o te foafoaaga katoatoa mo tena Fakagasueega Muamua, mo Koe e nofo tumau me ko te Aliki o mea faiite katoa ki te se gata mai kae fakaeke ne Koe a mea katoa.  Vikiia a Koe, O toku Atua!  Ka fai ko fagata a Tou alofa ki Au tavini, koi foki, ka fakaasi atu a te alofa ki luga ia latou; kae kafai ko se talia ne Koe o fakapelepele Au fagasele, ko oi foki ka atafai ne ia a latou?
@@ -1370,6 +1724,8 @@ E mana e ia Koe, O te Aliki toku Atua!  Se fakafoliki a ia te la ko oti ne fakam
 
 (Source category: MO LATOU KO GALO – TALO MO TINO MATE)
 (Bahaiprayers.net ID: 10888)
+
+
 
 
 ### <a id="bpn10889"></a> Prayer bpn10889 in Tuvalu
@@ -1389,6 +1745,8 @@ A Ia ko te Atua, e maluga a Ia, ko te Aliki o te alofa-atafai mo te maukoloa!
 (Bahaiprayers.net ID: 10889)
 
 
+
+
 ### <a id="bpn10890"></a> Prayer bpn10890 in Tuvalu
 O toku Atua! O Koe ko te fakamagalo o agasala, ko te tuku o mea-alofa, ko te ave keatea o fakalavelave!
      E tonu, Au e akai totuli kia Koe ke fakamagalo mai agasala a latou ko la ko oti ne mavae atu mo gatu faletino kae ko oti ne avaka ki luga i te lalolagi faka-te-agaaga.
@@ -1396,6 +1754,8 @@ O toku Atua! O Koe ko te fakamagalo o agasala, ko te tuku o mea-alofa, ko te ave
 
 (Source category: MO LATOU KO GALO – TALO MO TINO MATE)
 (Bahaiprayers.net ID: 10890)
+
+
 
 
 ### <a id="bpn10891"></a> Prayer bpn10891 in Tuvalu
@@ -1407,12 +1767,16 @@ O toku Atua! O toku Atua! E tonu, tau tavini, maulalo i mua o te afioga o Tou ma
 (Bahaiprayers.net ID: 10891)
 
 
+
+
 ### <a id="bpn10892"></a> Prayer bpn10892 in Tuvalu
 O Koe ko te Aliki fakamagalo! E uiloa a nisi agaaga ne fakammaumau a aso o olotou olaga i te fakasupasupa, kae nofo mavaevae kae e se fakalogo, e ui i ei, e tasi ate galu mai ite vasa o Tau fakamagalooga, latou katoa ko la ne aofia ne te agasala ko faka-saoloto latou.  So se tino e tonu mo Koe e fai pe la me se taugasoa, kae so se tino te la seai ko te pogai o Tau filifiliga e lau pe la me se tino soli tuakoi.  Ka fai e fakamasino katoa matou ki Tau fai-meatonu, matou katoa ne seai lele loa na loa ko tino fai agasala ko la e ttau fua ke puni mai keatea mai ia Koe, kae kafai e faka-aoga ne Koe a Tou alofa, tino agasala katoa ka liua ki te ma-takalekale a ko tino kese kafai pela me ne taugasoa.  Ave ifo, na la, kia matou katoa a Tau fakamagalooga mo te fakaseai, kae tuku mai a Tou alofa-kaimalie.
      Ko Koe te Fakamagalo, ko te Aumai-ne-Ia-a-te-Mainaaga, ko te Silisili i te Maluga.
 
 (Source category: MO LATOU KO GALO – TALO MO TINO MATE)
 (Bahaiprayers.net ID: 10892)
+
+
 
 
 
@@ -1428,6 +1792,8 @@ Ko akai totuli atu au kia Koe, ki tavaeega ko la e tavae iei ne Koe a Koe eiloa 
 (Bahaiprayers.net ID: 10896)
 
 
+
+
 ### <a id="bpn10897"></a> Prayer bpn10897 in Tuvalu
 E malu silisili e o Koe, O Toku Atua!  Ko tuku atu kia Koe a fakafetai, me ko oti a Koe ne fakaasi mai kia au Tela ko te Asofou o Tou alofa, mo te Kamataga o te Ata-Ao o Tou alofa-kaimalie, pela foki ko te Fakavae o Tau Fakatokaaga. Au e akai totuli atu kia a Koe i Tou igoa, mai i mata o latou ko la e pili atu kia Koe ko masinasina, a ko loto o latou ko la e mautakitaki kia Koe ko kapakau atu olotou malaga kia Koe, ke talia ko te mea ko au, i taimi katoa mo nofonofooga katoa, ke puke mau ki Tou kafanoa, kae se fakapiki ki sose tino na ko Koe, kae ke tausi oku mata ke agi tonu ki te siku lagi o Tau Fakaasiiga, kae ke fai a mea ko la ko oti ne tusilima mai ne Koe mo au i loto i Au Tapeleti.
      Fakapei, o toku Atua, toku fuaitino mo toku agaaga ki gatu o Tou manakoga mo Tou alofa-kaimalie.  Tausi ke malu au, mai i sose mea tela e masei kii kia Koe, kae fesoasoani alofa mai kia au mo latou ko la e tino mai kia au ke fakalogo kia Koe, kae fakagata a sose mea tela e fakaala ne ia so se mafaufauga masei io me se manakoga matagaa ia au.
@@ -1437,6 +1803,8 @@ E malu silisili e o Koe, O Toku Atua!  Ko tuku atu kia Koe a fakafetai, me ko ot
 (Bahaiprayers.net ID: 10897)
 
 
+
+
 ### <a id="bpn10898"></a> Prayer bpn10898 in Tuvalu
 E maluga Tou igoa, O toku Atua!  O toku Atua! Au e fakamolemole kia Koe ki te pusaki gali o te Gatu o Tou alofa, tela mai i Tau Faka-tonuuga kae fano tonu mo Tou manakoga te la ne pusaki atu  ki te laloagi katoa, kae mai ite Fetu Ao o Tou finagalo ne pula maina, mai i te maalosi o Tou mafi mo Tou nofoaiga-a-aliki, mai i luga i te sikulagi o Tou alofa, o solo keatea mai i toku loto a mafaufauga e seai ne uiga mo fakatauga faka-supasupa, ko te mea ko toku alofa katoatoa ke fuli atu kia Koe, O ko Koe te Aliki o tagata katoa!
      Au ko Tau tavini mo te tama o Tau tavini, O toku Atua!  Au e piki-mau ki lima o Tou alofa kae taofi mau ki te kafanoa o Tou alofa atafai.  Fakaeke mai kia au a mea lei katoa ko la ia Koe, kae fagai mai au mai i te Taipola te la ne aumai ki lalo i loto i kaumana o Tou manuia mo te lagi o Au faka-manuiaaga. 
@@ -1444,6 +1812,8 @@ E maluga Tou igoa, O toku Atua!  O toku Atua! Au e fakamolemole kia Koe ki te pu
 
 (Source category: MOTU KEATEA)
 (Bahaiprayers.net ID: 10898)
+
+
 
 
 ### <a id="bpn10899"></a> Prayer bpn10899 in Tuvalu
@@ -1457,6 +1827,8 @@ E uke a loto ne mokotia, O toku Atua, ko oti ne fakaka ki te afi o Tau Fakatokaa
 (Bahaiprayers.net ID: 10899)
 
 
+
+
 ### <a id="bpn10900"></a> Prayer bpn10900 in Tuvalu
 Seiloa ne au, O toku Atua, me sea ate Afi tenei e fakaka ne Koe i Tou fenua.  A te lalolagi se mafai lele ne ia o pono tena mainaaga, io me ko te vai e mafai o fakagata a tena ulaaaga.  A tagata katoa o te lalolagi e see kafi o teke tena maalosi.  Sili i te lasi o te faka-manuiaaga o ia tela e fakapilipili kiei, kae lagona ne ia a tena ulaaga.
      A niisi, O toku Atua, ne fai ne Koe, mai i Tou alofa-maalosi, ke mafai o fakasae atu ki ei, kae ko naai tino e taofi mai ne Koe ona ko te pogai o mea a olotou lima ne fai i Ou aso.  Sose tino ko oti ne fakavave atu ke maua ne ia ko oti, i tena loto finafinau o taumata ki luga i Tou tauleleka, ko avatu a tena ola i Tou auala, kae fanatu ki luga ia Koe, aunoa mo se fakapiki lele loa ki se isi mea aka na loa ko Koe.
@@ -1465,6 +1837,8 @@ Seiloa ne au, O toku Atua, me sea ate Afi tenei e fakaka ne Koe i Tou fenua.  A 
 
 (Source category: MOTU KEATEA)
 (Bahaiprayers.net ID: 10900)
+
+
 
 
 ### <a id="bpn10901"></a> Prayer bpn10901 in Tuvalu
@@ -1478,6 +1852,8 @@ Tavaeega e iluga ia Koe, O toku Atua!  Au se tokotasi o Au tavini, te la e talit
 (Bahaiprayers.net ID: 10901)
 
 
+
+
 ### <a id="bpn10902"></a> Prayer bpn10902 in Tuvalu
 I te Igoa o Tou Aliki, ko te Tofuga, ko te Tupu, ko te Lava-Katoatoa, ko te Maluga, Tela a Tena fesoasoani e salagagia ne tino katoa.
      Fai atu: O toku Atua! Ko Koe Tela ne faiite ne Koe a lagi mo te lalolagi, O te Aliki ote Nofoaiioga Malo!  E maina kii a Koe i mea lilo o toku loto, a ko Koe e see mafai lele o iloa vagana ko Koe tokotasi.  E lavea ne Koe so se mea ia au, kae e seai lele se isi e mafai ne ia o iloa vagana ko Koe.  Tuku mai kia au, e auala mai Tou alofa-kaimalie, ke mafai ne au o fakaseai a mea katoa na loa ko Koe, kae fakatonu mai mo au a mea ko la ka tu saoloto au mai I tino katoa mai tafa o Koe.  Fakasaoloto mai ke maua ne au a mea lei o toku olaaga i te lalolagi mo sua lalolagi.  Tala atu oku mata ki mataloa o Tou alofa kaimalie, kae mo te alofa silisili tuku ifo kia au a Ou alofaga atafai mo Au mea-alofa.
@@ -1486,6 +1862,8 @@ I te Igoa o Tou Aliki, ko te Tofuga, ko te Tupu, ko te Lava-Katoatoa, ko te Malu
 
 (Source category: MOTU KEATEA)
 (Bahaiprayers.net ID: 10902)
+
+
 
 
 ### <a id="bpn10903"></a> Prayer bpn10903 in Tuvalu
@@ -1499,11 +1877,15 @@ O te Aliki! Kia Koe e fuli atu au mo se lafiiga, kae ko oti ne fakasino a toku l
 (Bahaiprayers.net ID: 10903)
 
 
+
+
 ### <a id="bpn10904"></a> Prayer bpn10904 in Tuvalu
 Fai atu: Te Atua e lava i mea katoa, kae e seai se mea i lagi mo te lalolagi na ko te Atua e lava i mea katoa.  E tonu, a Ia i loto ia Ia, ko te Iloa, ko te Lava i mea Katoa, ko te Maalosi Silisili.
 
 (Source category: MOTU KEATEA)
 (Bahaiprayers.net ID: 10904)
+
+
 
 
 ### <a id="bpn10905"></a> Prayer bpn10905 in Tuvalu
@@ -1516,6 +1898,8 @@ O te Atua, toku Atua! Koe ko toku Fakamoemoega mo taku Fagasele, taku Kiloga mo 
 (Bahaiprayers.net ID: 10905)
 
 
+
+
 ### <a id="bpn10906"></a> Prayer bpn10906 in Tuvalu
 O te Atua, toku Atua, Fakafonu aka mo au ate ipu o te motu mai i mea katoa, kae i te lukuuga fakatasi o Tou gali mo mea-alofa, faka-fiafia aka au i te uaina o te alofa mo Koe.  Saoloto mai i manakoga mo fiafiaaga ote loto, motu gina mai au mai i fifiiga o te lalolagi ko teka atu, kae futi atu au mote lifu ki Tou nofoga maluga, kae fakafou au mai i vasia o tagata ki se manavaaga o Tou mana.
      O te Aliki, faka maina ne Koe oku mata ki molii o Au mea-alofa, faka maina ne Koe oku mata ke lavea ne latou a fakailoaga o Tou mafi-katoatoa; faka lifu ne Koe mo te matagofie o Tou poto tela e siomia i mea katoa, fakafiafia ne Koe toku agaaga ki Au tala e lifu i ei agaaga, O ko Koe te Tupu o te lalolagi nei mote malo mai i luga, O ko Koe te Aliki o te nofoga-malo mo te mafi, ko te mea ke mafai ne au o talai atu ki tua atu Au failoga mo au me fakanofoga, kae talai atu a Tau Fakatokaaga, kae atiake Tau talaiiga, kae tavini atu a Tau Tulafono mo Tau Muna tafasili ite mana.
@@ -1523,6 +1907,8 @@ O te Atua, toku Atua, Fakafonu aka mo au ate ipu o te motu mai i mea katoa, kae 
 
 (Source category: MOTU KEATEA)
 (Bahaiprayers.net ID: 10906)
+
+
 
 
 
@@ -1540,6 +1926,8 @@ Ko Koe ko te Foai Takutakua, ko te Fakamagalo-Katoatoa, ko te Atafai Tafasili i 
 
 (Source category: PALATAISO)
 (Bahaiprayers.net ID: 12244)
+
+
 
 
 ### <a id="bpn12245"></a> Prayer bpn12245 in Tuvalu
@@ -1560,6 +1948,8 @@ E seai aka se Atua na ko Koe, ko te Mafi-Katoatoa, ko te Feasoasoani-iMea-Faigat
 (Bahaiprayers.net ID: 12245)
 
 
+
+
 ### <a id="bpn12246"></a> Prayer bpn12246 in Tuvalu
 E faka-aloalogia a Koe, O te Aliki toku Atua!  Ko oti a Koe, i Tou Palataiso tafasili i te maluga, ne fakasino ki Au tavini a tulaga kola kafai se tino ia latou e tala atu a tena veli ki mata o tagata a latou katoa i te lagi mo latou katoa i te lalolagi ka se-maua o faipati.  Mai i Tou mafi!  Mo fai a tupu e molimau se faka-aloalogia tagasili ite takutakua penei a latou, e tonu, kae ave keatea a latou mai i olotou maalo kae piki mmau ki mea ko la ko oti ne ulu mai ki lalo o te malu o Tou alofa-faka-magalo e se-fuafuagina kae saala atu ki te malu o Tou igoa faka-aloalogia katoatoa.  
   
@@ -1570,6 +1960,8 @@ E maalosi a Koe o fai a Tou fiafiaaga.  A Koe ko te tasi tokotasi Fagasele i te 
 
 (Source category: PALATAISO)
 (Bahaiprayers.net ID: 12246)
+
+
 
 
 ### <a id="bpn12247"></a> Prayer bpn12247 in Tuvalu
@@ -1585,6 +1977,8 @@ E tonu a Koe ko te omotou Aliki mo te Aliki o mea katoa.  I Ou lima e nofo i ei 
 
 
 
+
+
 ## PEPE FOLIKI
 
 ### <a id="bpn10884"></a> Prayer bpn10884 in Tuvalu
@@ -1595,6 +1989,8 @@ Tavaeega e Koe, O te Aliki toku Atua!  Tuku atu faka-alofalofa kia ia tenei ke f
 (Bahaiprayers.net ID: 10884)
 
 
+
+
 ### <a id="bpn10885"></a> Prayer bpn10885 in Tuvalu
 O Koe ko te Aliki e silia i sose tulaga!  Fakasaoloto aka a te pepe tenei ke fa-uu mai ite fatafata o Tou alofa-kaimalie, puipui a ia i loto ite lulu-pepe o Tou saogalemu mo puipuiiga kae fai aka a ia ke puti aka i lima o Tou alofa-atafai.
 
@@ -1602,11 +1998,15 @@ O Koe ko te Aliki e silia i sose tulaga!  Fakasaoloto aka a te pepe tenei ke fa-
 (Bahaiprayers.net ID: 10885)
 
 
+
+
 ### <a id="bpn10886"></a> Prayer bpn10886 in Tuvalu
 O te Atua!  Puti aka ate pepe tenei ite Tou alofa atafai, kae tuku atu kia ia ate susu mai i te fatafata o Tou atamai faka-te--lagi.  Fakaola a te lakau fou tenei i te fatoaaga losa o Tou alofa kae fesoasoani kia ia ke ola aka mai i vaiua o Tou atafai.  Fai a ia pe la me se tamaliki o te maalo, kae takitaki atu a ia ki Tou maalo faka-te-lagi.  Ko Koe a te maalosi mo te alofa, ko Koe kote Tufa, ko te Kaimalie, ko te Aliki e silia ite lausa o te maukoloa.
 
 (Source category: PEPE FOLIKI)
 (Bahaiprayers.net ID: 10886)
+
+
 
 
 
@@ -1619,6 +2019,8 @@ Vikiiga ia Koe, O te Aliki toku Atua!  Mea nei ko Tau tavini te la ko oti ne inu
 (Bahaiprayers.net ID: 12261)
 
 
+
+
 ### <a id="bpn12262"></a> Prayer bpn12262 in Tuvalu
 E tavaegina Tou igoa, O te Aliki toku Atua!  Au e akai totuli kia Koe i Tou Igoa te la mai i ei ne kini a te Itula, kae vau o fano a te Toetu, a ko te mataku mo te polepole ne i luga ia latou katoa i te lagi mo latou katoa i te lalolagi, ke vaiua ifo ki lalo, mai i te lagi o Tou alofa-kaimalie mo kaumana o Tou atafai, a mea ko la e fiafia ki ei a loto o Au tavini, ko la ko oti ne fuli atu kia Koe kae fesoasoani ki Tau Fakatokaaga.  
 Tausi ke sao mai i fakalavelave Au tavini mo Au tavini fafine, O toku Aliki, mai i matasana o fakatauuga seai-ne-aogaa mo mafaufauuga fakasupasupa, kae avatu kia latou mai i lima o Tou alofa a se motiiga-a-vai mai i te vai tafe tafe malielie o Tou poto.  
@@ -1628,11 +2030,15 @@ Ko Koe, i te tonuuga, ko te Mafi-Katoatoa, ko te Tafasili i te Maluga, ko te Fak
 (Bahaiprayers.net ID: 12262)
 
 
+
+
 ### <a id="bpn12263"></a> Prayer bpn12263 in Tuvalu
 O te Atua, toku Atua! Ko oti ne liakina ne au a toku fale, kae piki mmau au ki te kafanoa o Tou alofa, kae ko oti ne fuli atu au katoatoa ki Tau tausi mo Tau puipuiiga.  Au e akai totuli ki Tou maalosi te la e puipui ne Koe Au fagasele mai ia latou ko la se fakalogo kae faitonu, kae mai i so se pule sauaa; mo so se tino se lei te la ko fano mao mai ia Koe, ke tausi au mai i fakalavelave mai i Tou alofa-lauefa mo Tou alofa-kaimalie.  Ke mafai au, na la, o foki ki toku fale mai i luga i Tou maalosi mo Tou mafi.  Ko Koe, e tonu, ko te Mafi-Katoatoa, ko te Fesoasoani-i-Fakalavelave, ko te Ola-ia-Ia.
 
 (Source category: PUIPUIIGA)
 (Bahaiprayers.net ID: 12263)
+
+
 
 
 ### <a id="bpn12264"></a> Prayer bpn12264 in Tuvalu
@@ -1646,6 +2052,8 @@ Koe ko te la fanaka!  Koe e molimau ki te mea ko oti ne molimaugina ne te Atua k
 (Bahaiprayers.net ID: 12264)
 
 
+
+
 ### <a id="bpn12265"></a> Prayer bpn12265 in Tuvalu
 Fakaeke mai kia au, O toku Aliki, mo latou foki ko la e talitonu ia Koe a te mea tela i Tau fakatau e tafasili i te llei mo au, pela mo te mea ko oti ne tusi mai i te Matua o Tusi, auaa me i loto i Tou alofi-lima e puke ne Koe a fuafuaaga o mea katoa.  
 Au mea-alofa gali e ligi ifo e seai se-gata kia matou pe la loa mo Tou alofa taaua, mo faka-iloaga faka-ofoofogia o Tou alofa fakate-lagi tela e tanumia i luga ia latou ko la e lavea ne latou a Tou Tafatasi faka-te-agaaga.  E avatu ne matou ki Tau tausi a so se mea tela ne fakatonu mai ne Koe, kae akai kia Koe ke fesoasoani mai kia matou a mea lei katoa ko oti ne aofia i Tou poto.  
@@ -1654,6 +2062,8 @@ E seai aka se maalosi io me se mafi na ko te Atua, ko te Tafasili i te Maluga, k
 
 (Source category: PUIPUIIGA)
 (Bahaiprayers.net ID: 12265)
+
+
 
 
 ### <a id="bpn12266"></a> Prayer bpn12266 in Tuvalu
@@ -1665,6 +2075,8 @@ E tonu, a Koe ko te Aliki o mea faiite katoa.  E fakalava ne Koe a so se tino, k
 
 (Source category: PUIPUIIGA)
 (Bahaiprayers.net ID: 12266)
+
+
 
 
 ### <a id="bpn12267"></a> Prayer bpn12267 in Tuvalu
@@ -1683,11 +2095,15 @@ omotou ulu, i omotou fakaata-mai, i omotou sema, mai lalo i omotou vae mo so se 
 (Bahaiprayers.net ID: 12267)
 
 
+
+
 ### <a id="bpn12268"></a> Prayer bpn12268 in Tuvalu
 O te Atua, toku Atua!  Pui Au tavini faka-tuanakigina mai i te masei o te manatu kia ia loa mo ona manakooga, puipui a latou ne mata alaala o Tou alofa-atafai mai i luga i maseiiga katoa, loto se lei mo te loto masei, fakalafi latou mai i lalo i Tau tausi e see mafai o faka-gasuesue kae, malu mai i mata-ponaaga o te faka-lotolotolua, fai latou me ko fakaasiiga o Au fakailoga matagofie, fakamaina a olotou mata ne kavei malifalifa mai i te Aso-foou o Tau tafatasi faka-te-lagi, faka lifu a olotou loto mai i kupu ko oti ne fakaasi mai i Tou maalo mana, fakamaalosi olotou fuaitino ne Tou maalosi faka-galue te la e vau mai i Tou lalolagi matagofie.  Koe ko te LavaKatoatoa, ko te Puipui, ko te Mafi-Katoatoa, ko te Alofa-Atafai.
 
 (Source category: PUIPUIIGA)
 (Bahaiprayers.net ID: 12268)
+
+
 
 
 ### <a id="bpn12269"></a> Prayer bpn12269 in Tuvalu
@@ -1699,6 +2115,8 @@ E tonu, Koe ko te Puipui, ko te Fatama, ko te Tausi, ko te Lava ia Ia loa, kae e
 
 (Source category: PUIPUIIGA)
 (Bahaiprayers.net ID: 12269)
+
+
 
 
 ### <a id="bpn12270"></a> Prayer bpn12270 in Tuvalu
@@ -1720,6 +2138,8 @@ O Koe ko te Takitakiiga Atamai faka-te-lagi, tausi kae puipui mai matou! O Koe T
 
 
 
+
+
 ## TAFATAEO
 
 ### <a id="bpn12231"></a> Prayer bpn12231 in Tuvalu
@@ -1730,6 +2150,8 @@ A Koe, e tonu, ko te Aliki mo te Tupu o tagata katoa, kae e maalosi i luga i mea
 
 (Source category: TAFATAEO)
 (Bahaiprayers.net ID: 12231)
+
+
 
 
 ### <a id="bpn12232"></a> Prayer bpn12232 in Tuvalu
@@ -1746,6 +2168,8 @@ E seai aka foki se Atua na ko Koe, ko te Tokotasi, ko te Se-Fakatusagia, ko te I
 (Bahaiprayers.net ID: 12232)
 
 
+
+
 ### <a id="bpn12233"></a> Prayer bpn12233 in Tuvalu
 Au e avatu a tavaeega kia Koe, O toku Atua, ona ko Koe ko oti ne fago au mai i taku moe, kae aumai au ki mua talu mai taimi ne galo i ei au, kae fakatu aka au mai i toku moega.  Au ne ala aka i te tafataeo tenei mo oku mata e kilo tonu ki te gali o te Fetu Ao o Tau Fakaasiiga, tela mai iei a lagi o Tou maalosi mo Tou afioga ko oti ne fakamainagia, kae e iloagina Au fakailoga, e talitonu ki Tau Tusi, kae puke mmau ki Tou Kafanoa.  
 Au e akai totuli kia Koe, i te maalosi o Tou finagalo mo te maalosi futi-mai o Tau fekau, ke fai aka a mea ko la ne fakaasi mai ne Koe i taku moega me ko te fakavae tonu tena mo fale tafasili i te lasi o Tou alofa ko la i loto o Au fagasele, ka ko te meafaigaluega tafasili i te llei mo te fakaasiiga o meaalofa o Tou alofa-fakamagalo mo Tou alofa-kaimalie.  
@@ -1755,6 +2179,8 @@ E seai se tino e faka-fanoanoa ne Koe tela ko oti ne sala atu kia Koe, io me e t
 
 (Source category: TAFATAEO)
 (Bahaiprayers.net ID: 12233)
+
+
 
 
 
@@ -1771,6 +2197,8 @@ Ona ko latou ne takitaki gia ne Koe, O toku Aliki, ki te vai ola o Tou alofakaim
 (Bahaiprayers.net ID: 12303)
 
 
+
+
 ### <a id="bpn12304"></a> Prayer bpn12304 in Tuvalu
 Tavaeega e ia Koe, Te Aliki toku Atua!  Au e fakamolemole kia Koe, mai i Tou Igoa te le e seki ai aka loa se tino kai ttau o lavegia, kae ko tena taaua e seki ai se agaaga ola kai maua ne ia o fua, Au e akai totuli kia Koe, mai i luga a Ia Te la Ko te Ulu o te Vai o Tau Fakaasiiga mo te Aso malulu o Au fakailoga, ke fai a toku loto mo fai a te koga nofo o Tou alofa mo te masausau o Koe.  Sui aka, i ei, ki Tou Vasa tafasili i te takutakua, te la mai i ei ka tafe mai a te vai ola o Tou atamai mo vaitafe foliki manino o te fakamalugaga o Koe mo te tavaeega.  
   
@@ -1782,6 +2210,8 @@ A Koe, e tonu, ko te Tafasili i te Maalosi, ko te Tafasili i te Maluga, ko te Il
 
 (Source category: TALAIIGA)
 (Bahaiprayers.net ID: 12304)
+
+
 
 
 ### <a id="bpn12305"></a> Prayer bpn12305 in Tuvalu
@@ -1797,6 +2227,8 @@ O toku Aliki!  E puke ne Koe a latou e piki ki te kafanoa o Tou alofa-kaimalie k
 (Bahaiprayers.net ID: 12305)
 
 
+
+
 ### <a id="bpn12306"></a> Prayer bpn12306 in Tuvalu
 O ko te Atua, Tela ko Ia a te Tino Tusi o Faifekau katoa, ko te Kamataga o Kamataga katoa, ko te Ulu-vai o Faka-asiiga katoa, ko te Va-ikeli o Mainaaga katoa!  Au e molimau me i Tou Igoa ne fakaloalo ne te lagi o te malamalama, mo te vasa o te faipatiiga ko oti gasuke, a ko te vaasi-o-taimi o Tou atamai ko oti ne talai atu ki tino ko la e tautali i talitonuuga katoa.  
   
@@ -1810,6 +2242,8 @@ Ko Koe, i te tonuuga, ko te Atua o te tupuola mo te maalosi, Te la e ttau o tali
 (Bahaiprayers.net ID: 12306)
 
 
+
+
 ### <a id="bpn12307"></a> Prayer bpn12307 in Tuvalu
 Fai atu: Ke faka-lasiigina a Tou Igoa, O te Aliki toku Atua!  Au e akai totuli kia Koe i Tou Igoa te la ne sulu malifalifa a te gali o te mainaaga o te atamai i taimi ne matala mai a lagi o tau muna ki luga i tagata, o fesoasoani alofa mai kia au mai i luga i Au fakamanuiaaga faka-te-lagi kae fakamafai aka au ke fakamaluga a Tou Igoa i vasia o Au tavini.  
   
@@ -1821,6 +2255,8 @@ E tonu, e maalosi a Koe o fai a so se mea e manako Koe ki ei, kae I Ou lima e pu
 (Bahaiprayers.net ID: 12307)
 
 
+
+
 ### <a id="bpn12308"></a> Prayer bpn12308 in Tuvalu
 O toku Atua, fesoasoani mai Koe ki Tau tavini o avaka a te Muna, kae ke teke atu a te mea tela e seai se aogaa kae e se tonu, ke fakatu a te mea tonu, ko te mea ke fakasalalau atu a muna tapu ki tua atu, kae fakaasi atu ate gali, mo te mainaaga o te taeao ke nofo i loto o latou fai mea tonu.  
   
@@ -1830,11 +2266,15 @@ Koe e tonu, ko te Alofa, te Fakamagalo.
 (Bahaiprayers.net ID: 12308)
 
 
+
+
 ### <a id="bpn12309"></a> Prayer bpn12309 in Tuvalu
 O te Atua, toku Atua! Fesoasoani mai Koe ki Au tavini fakamaoni ke maua ia latou a te loto alofa mo te atafai.  Fesoasoani kia latou ke faka-salalau atu, i vasia o fenua katoa o te lalolagi, a te mainaaga o te takitakiiga tena e vau mai i te Lukuuga mai luga.  E tonu, a Koe ko te Kaleva, te Maalosi, te Mafi, te Faka-mafanafana, te Foai-Katoatoa.  E tonu, a Koe ko te Alofa, te Filemu, te Atafai, te Tafasili i te Lauefa-ate-Alofa.
 
 (Source category: TALAIIGA)
 (Bahaiprayers.net ID: 12309)
+
+
 
 
 ### <a id="bpn12310"></a> Prayer bpn12310 in Tuvalu
@@ -1850,6 +2290,8 @@ E tonu, a Koe ko Ia te la e fonufonu ite alofa-kaimalie.  E seai aka foki se Atu
 (Bahaiprayers.net ID: 12310)
 
 
+
+
 ### <a id="bpn12311"></a> Prayer bpn12311 in Tuvalu
 E iloa ne Koe, O te Atua, ia Koe ko taku molimau ia au e seai soku fakamoemoega i toku loto na loa ko te oko atu ki Tou fiafia-llei, ke faka-tummau i te tavini kia Koe, ke tapuaki au ki Tau galuega, ke galue au i Tau fatoaaga vine kae ke ofo aku mea katoa i Tou auala.  Ko Koe ko te Iloa-Katoatoa mo te Lavea-Katoatoa.  E seai lele soku manakoga vagana ko te fuli oku kalafaga, i toku alofa mo Koe, ki mauga mo toafa kae fakapula atu ke lagona ki luga ate oko mai o Tou Maalo, kae ke avaka a tau kalaga i loto o tagata katoa.  O te Atua! Tala aka ne Koe ate auala ko au vaaivai tenei, talia ne Koe a te fooga o au tenei e faka-masakisaki kae avatu aka ki luga a Tau fakagata masaki kia au tenei e pokotia.  Mo loto e ka ite afi mo loimata ko sofisofi au e talosaga kia Koe i Tou Mataloa.  
   
@@ -1859,6 +2301,8 @@ O te Atua!  Puipui mai au i tofotofoga.  E iloa tonu ne Koe ia au ko oti ne fuli
 
 (Source category: TALAIIGA)
 (Bahaiprayers.net ID: 12311)
+
+
 
 
 
@@ -1875,6 +2319,8 @@ O ko Koe ko te Aliki alofa!  Fai aka a te talavou tenei ke oko atu ki koga mea k
 (Bahaiprayers.net ID: 12360)
 
 
+
+
 ### <a id="bpn12361"></a> Prayer bpn12361 in Tuvalu
 O ko Koe te Aliki alofa! Mo te alofa tuku mai a se avaa kapakau faka-te-lagi kia latou foititi taki toko tasi konei, kae avatu kia latou a se maalosi faka-teagaaga ko te mea ke mafai ne latou o lele atu i te olotou malaga i loto i te ea seai ne ona tuakoi kae lele atu latou ki te maluga o te Maalo Abha.  
   
@@ -1886,6 +2332,8 @@ Ko Koe a te Mafi mo te Maalosi; ko Koe a te Faka-eke mo te AlofaKatoatoa.
 (Bahaiprayers.net ID: 12361)
 
 
+
+
 ### <a id="bpn12362"></a> Prayer bpn12362 in Tuvalu
 O ko Koe a te Aliki alofa! Tuku mai a fakamanuiaaga faka-te-lagi ki te tama fafine o te maalo tenei, kae feasoasoani mo te alofa ko te mea ke tumau a ia kae maau i Tau Fakatokaaga ko te mea ke mafai ne ia, pela mo te nainitikale o te fatoaga losa o mea lilo, e usuusu i te Maalo o Abha i kupu pese tafasili i te gali, tela e aumai i ei a te fiafia ki tino taki toko tasi katoa.  Fai aka a tama fafine tenei ke maluga i va o tama fafine o te maalo kae faka-mafai aka ia ke maua ne ia a te ola se gata mai.  
   
@@ -1895,11 +2343,15 @@ Ko Koe ko te Fakaeke, ko te Alofa-Katoatoa.
 (Bahaiprayers.net ID: 12362)
 
 
+
+
 ### <a id="bpn12363"></a> Prayer bpn12363 in Tuvalu
 O te Aliki! Fai aka a te talavou tenei ke tupu ola, kae avatu a Tau fakamanuiaaga ki ia a te mea ola mativa tenei.  Ligi ifo kia ia a te poto, kae avatu kia ia a se maalosi faopopo i te mapaaga o te ata ao i taimi katoa kae puipui a ia i loto ite malu o Tau puipuiiga ko te mea ke mafai ne ia o saoloto mai i te mea se, ke mafai ne ia o galue fakamaoi ki te galuega o Tau Fakatokaaga, ke mafai ne ia o taki a latou se fakalogo, taki ne ia a latou taka-seasea, kae faka-saoloto a fagota kae fago aka a latou ko la e se fakaaoga a mafaufau, ko te mea ke mafai latou o faka-manuiagina ki te masausau mo tavaeega o Koe.  A Koe ko te Mafi mo te Maalosi.
 
 (Source category: TALAVOU)
 (Bahaiprayers.net ID: 12363)
+
+
 
 
 ### <a id="bpn12364"></a> Prayer bpn12364 in Tuvalu
@@ -1914,6 +2366,8 @@ Ko Koe ko te Maalosi-Katoatoa, ko te Matagofie-Katoatoa, ko te Tafasili i te Mal
 
 (Source category: TALAVOU)
 (Bahaiprayers.net ID: 12364)
+
+
 
 
 
@@ -1956,6 +2410,8 @@ Bahá’u’lláh
 
 
 
+
+
 ## TALO FAKA-PITOA TOETOE
 
 ### <a id="bpn10860"></a> Prayer bpn10860 in Tuvalu
@@ -1972,6 +2428,8 @@ E seai aka se Atua na ko Koe, ko te Feasoasoani i Mea Faigata, ko te Ola-fua ia 
 
 (Source category: TALO FAKA-PITOA TOETOE)
 (Bahaiprayers.net ID: 10860)
+
+
 
 
 
@@ -2046,6 +2504,8 @@ Bahá’u’lláh
 
 
 
+
+
 ## TALO MO TE TALAIIGA MAI I TAPELETI O TE PALANE FAKA-TE-AGAAGA
 
 ### <a id="bpn12312"></a> Prayer bpn12312 in Tuvalu
@@ -2058,6 +2518,8 @@ E tonu, a Koe ko te Maalosi, ko Mafi mo te Maluga Silisiliese, a ko Koe kote Ata
 (Bahaiprayers.net ID: 12312)
 
 
+
+
 ### <a id="bpn12313"></a> Prayer bpn12313 in Tuvalu
 *Ne fakaasi ki Bahá’ís o te United States and Canada  
 *So se tino e fano malaga o talai ki so se koga, e ttau mo ia o fakalagi a talosaga tenei i te ao mo te po i taimi e fano malaga a ia i fenua kese.  
@@ -2068,6 +2530,8 @@ E tonu, a Koe ko te Fakammau o so se tino e manako Koe ki ei i mea ko la e manak
 
 (Source category: TALO MO TE TALAIIGA MAI I TAPELETI O TE PALANE FAKA-TE-AGAAGA)
 (Bahaiprayers.net ID: 12313)
+
+
 
 
 ### <a id="bpn12314"></a> Prayer bpn12314 in Tuvalu
@@ -2088,6 +2552,8 @@ E tonu, a Koe ko te Maalulu, ko te Maalosi, ko te Mafi, mo te Tafasili i te Kaim
 
 (Source category: TALO MO TE TALAIIGA MAI I TAPELETI O TE PALANE FAKA-TE-AGAAGA)
 (Bahaiprayers.net ID: 12314)
+
+
 
 
 ### <a id="bpn12315"></a> Prayer bpn12315 in Tuvalu
@@ -2128,6 +2594,8 @@ E toku a Koe ko te tafasili i te Atafai, ko te Aliki! o te alofa e seai ne tuako
 (Bahaiprayers.net ID: 12315)
 
 
+
+
 ### <a id="bpn12316"></a> Prayer bpn12316 in Tuvalu
 •	
  
@@ -2151,6 +2619,8 @@ E tonu, a Koe ko te Maalosi, ko Mafi, ko te Atamai mo te Lavea.
 (Bahaiprayers.net ID: 12316)
 
 
+
+
 ### <a id="bpn12317"></a> Prayer bpn12317 in Tuvalu
 *Ne fakaasi ki Bahá’ís o te Southern States  
  
@@ -2162,6 +2632,8 @@ A Koe ko te Tafasili ite Maluga, ko Fakataunu o so se mea e manakogina ne Koe ki
 
 (Source category: TALO MO TE TALAIIGA MAI I TAPELETI O TE PALANE FAKA-TE-AGAAGA)
 (Bahaiprayers.net ID: 12317)
+
+
 
 
 ### <a id="bpn12318"></a> Prayer bpn12318 in Tuvalu
@@ -2178,6 +2650,8 @@ O te Aliki! Au e vaaivai, fakamaalosi aka au i te maalosi mot e mafi o Koe.  A t
 (Bahaiprayers.net ID: 12318)
 
 
+
+
 ### <a id="bpn12319"></a> Prayer bpn12319 in Tuvalu
 *Ne fakaasi ki Bahá’ís o te Western States  A te talosaga tenei ke faitau i aso katoa:  
  
@@ -2188,6 +2662,8 @@ manumaalo i te faka-masikiiga o Tau Muna kae faka-mafai aka au ke faipati atu ki
 
 (Source category: TALO MO TE TALAIIGA MAI I TAPELETI O TE PALANE FAKA-TE-AGAAGA)
 (Bahaiprayers.net ID: 12319)
+
+
 
 
 ### <a id="bpn12320"></a> Prayer bpn12320 in Tuvalu
@@ -2201,6 +2677,8 @@ E tonu, a Koe ko te Maalosi-Katoatoa, ko te Tafasili i te Maluga, ko te Fakamaga
 
 (Source category: TALO MO TE TALAIIGA MAI I TAPELETI O TE PALANE FAKA-TE-AGAAGA)
 (Bahaiprayers.net ID: 12320)
+
+
 
 
 ### <a id="bpn12321"></a> Prayer bpn12321 in Tuvalu
@@ -2222,6 +2700,8 @@ E tonu, Koe ko te Maalosi, ko te Mafi, ko te Tafasili i te Maluga.
 
 
 
+
+
 ## TAMALIKI
 
 ### <a id="bpn10873"></a> Prayer bpn10873 in Tuvalu
@@ -2232,11 +2712,15 @@ O te Aliki, toku Atua! Mea nei se tamaliki ne vau i kanofi o se isi o Au tavini 
 (Bahaiprayers.net ID: 10873)
 
 
+
+
 ### <a id="bpn10874"></a> Prayer bpn10874 in Tuvalu
 O te Atua!  Akoako a tamaliki konei.  Tamaliki konei ko lakau o Tou laukele, ko pula lakau o Tou lau-manafa, ko pula losa o Tau fatoaaga.  Ke talia a Tau vaiua ke to ki luga ia latou; ke mafai ne te La o te Meatonu o maina ki luga ia latou mo Tou alofa.  Ke mafai o agiagi mai o Tou matagi o fakafou ne ia latou ko te mea ke mafai ne latou o tauloto, tupu aka kae atiake, ke sae mai i te tafasili i te gali.  Ko Koe a te Foai i Mea katoa.  Ko Koe ko te Loto-Alofa.
 
 (Source category: TAMALIKI)
 (Bahaiprayers.net ID: 10874)
+
+
 
 
 ### <a id="bpn10875"></a> Prayer bpn10875 in Tuvalu
@@ -2247,11 +2731,15 @@ Au se tamaliki koi tupu aka.  Fagai mai au mai ite susu o Tou alofa kaimalie, ak
 (Bahaiprayers.net ID: 10875)
 
 
+
+
 ### <a id="bpn10876"></a> Prayer bpn10876 in Tuvalu
 O te Aliki Silisiliese! A Koe ke fi pela me se lafiiga mo te tamaliki se lava tenei kae pela foki me se Matai faka-magalo ki se agaaga fai mea se tonu kae se fiafia tenei.  O te Aliki! E ui iei a matou ne lakau ola seai ne aogaa, ako matou e kau i loto ite Tau fatoaaga losa.  E ui iei a matou ne lito moe e seai ne lau kae e se fua, a ko matou se feitu e tasi o Tou laukele.  Puti aka ate lakau ola tenei mai i luga o lotuuga o kaumana o Tou alofa kaimalie kae fakaola kae fakafou aka ate lito tenei mai ite manavaaga o Tou vaaitaimi faka-te-agaaga.  Fai aka ia ke fakalogo, ke mata kite kae maluga a tena nofoga, kae fai ke mafai ne ia o maua a te olaga se gata mai kae ke nofo a ia i Tou Malo ki se-gata mai.
 
 (Source category: TAMALIKI)
 (Bahaiprayers.net ID: 10876)
+
+
 
 
 ### <a id="bpn10877"></a> Prayer bpn10877 in Tuvalu
@@ -2262,12 +2750,16 @@ O toku Atua! O toku Atua! E lavea ne Koe a tamaliki konei ko aka ote lakau ote o
 (Bahaiprayers.net ID: 10877)
 
 
+
+
 ### <a id="bpn10878"></a> Prayer bpn10878 in Tuvalu
 O te Aliki! Au se tamaliki; fai aka au ke tupu aka i lalo ote malu o Tou alofa-kaimalie.  Au se lakau-ola koi faka-olaola aka; fai aka au ke tupu ola mai i maligiiga o kaumana o Tou manuia.  Au se uli ote fatoaaga o te alofa; fai aka au pe la me se lakau-ola fai fuataga.
 	Koe kote Mafi mote Maalosi, a ko Koe kote Alofa-Katoatoa, ko te Iloa-Katoatoa, ko te Lavea-Katoatoa.
 
 (Source category: TAMALIKI)
 (Bahaiprayers.net ID: 10878)
+
+
 
 
 ### <a id="bpn10879"></a> Prayer bpn10879 in Tuvalu
@@ -2277,12 +2769,16 @@ O Koe ko te toe Aliki matagofie!  Fai aka ate tavini fafine foliki a Koe tenei k
 (Bahaiprayers.net ID: 10879)
 
 
+
+
 ### <a id="bpn10880"></a> Prayer bpn10880 in Tuvalu
 O ko Koe ko te Aliki alofa! A tamaliki gali konei ko fakafuaga o maikao o Tou mafi mo fakaasiga matagofie o Tou lasi.  O te Atua!  Puipui tamaliki konei, fesoasoani alofa kia latou ke mafai latou o akoakogia kae ke mafai ne latou o tavini atu kite lalolagi o tagata.  O te Atua!  Tamaliki konei ne penina, fai latou ke ola aka i loto ite puipuiiga o Tou alofa-kaimalie. 
      Ko Koe a te Maukoloa-Lauefa, ko te Alofa-Katoatoa.
 
 (Source category: TAMALIKI)
 (Bahaiprayers.net ID: 10880)
+
+
 
 
 ### <a id="bpn10881"></a> Prayer bpn10881 in Tuvalu
@@ -2294,6 +2790,8 @@ O te Aliki!  Fai aka tamaliki konei ke pe la me ne lakau ola lei.  Fai latou ke 
 (Bahaiprayers.net ID: 10881)
 
 
+
+
 ### <a id="bpn10882"></a> Prayer bpn10882 in Tuvalu
 A Ia kote Atua! O te Atua, toku Atua!  Tuku mai kia au ate loto maa, ke pela me se penina
 
@@ -2301,11 +2799,15 @@ A Ia kote Atua! O te Atua, toku Atua!  Tuku mai kia au ate loto maa, ke pela me 
 (Bahaiprayers.net ID: 10882)
 
 
+
+
 ### <a id="bpn10883"></a> Prayer bpn10883 in Tuvalu
 O te Atua, takitaki mai au, puipui mai au, fakamaina mai au pela me se lamepa malifalifa kae fai au pela me se fetu pula.  Koe kote Mafi mote Malosi.
 
 (Source category: TAMALIKI)
 (Bahaiprayers.net ID: 10883)
+
+
 
 
 
@@ -2332,6 +2834,8 @@ E tonu , a Ia ko te Atua, ko te Atafai. Tavaeega ki te Atua, ko te Aliki o lalol
 
 (Source category: TAPELETI O AHMAD)
 (Bahaiprayers.net ID: 10980)
+
+
 
 
 
@@ -2463,6 +2967,8 @@ Ke fakamana kae malu ki te motou Aliki, ko te Tafasili i te Maluga!
 
 
 
+
+
 ## TAPELETI O TE AFI
 
 ### <a id="bpn10981"></a> Prayer bpn10981 in Tuvalu
@@ -2523,6 +3029,8 @@ A tavini katoa ka faitau kae mafaufau ki te mea tenei, ka maua ne kalokalo afi i
 
 
 
+
+
 ## TAPELETI O TE ASIASIIGA O Bahá’u’lláh
 
 ### <a id="bpn10983"></a> Prayer bpn10983 in Tuvalu
@@ -2538,6 +3046,8 @@ Ko vikiiga ne tafe mai i Tou Afio tafasili i te malu, mo te matagofie e sulu mai
 
 (Source category: TAPELETI O TE ASIASIIGA O Bahá’u’lláh)
 (Bahaiprayers.net ID: 10983)
+
+
 
 
 
@@ -2558,6 +3068,8 @@ A Ia ko te Silisiliese-Katoatoa!
 
 
 
+
+
 ## TAUSAGA FOOU
 
 ### <a id="bpn10971"></a> Prayer bpn10971 in Tuvalu
@@ -2573,6 +3085,8 @@ E tavaeegina a Koe, O toku Atua. Ona ko oti ne  fakatonu mai ne Koe ko Naw-Ruz k
 
 
 
+
+
 ## TAVAEEGA MO TE FAKAFETAI
 
 ### <a id="bpn12248"></a> Prayer bpn12248 in Tuvalu
@@ -2584,6 +3098,8 @@ Fakamaina, O te Aliki, a mata o Au tavini, ko te mea ke kite ne latou a Koe, kae
 (Bahaiprayers.net ID: 12248)
 
 
+
+
 ### <a id="bpn12249"></a> Prayer bpn12249 in Tuvalu
 E fakaaloalogina a Koe, O te Aliki toku Atua! Au e tuku atu kia Koe a te fakafetai aua ne faka-mafai au ke lavea ne au a te Faifekau o Koe, mo te motu mai au mai i Ou fili, kae tuku aliali mau i mua o oku mata a olotou amio se-llei mo amioga masei ne fai i taimi o Ou aso, pela foki mo te fakaseai mai ia au a te faka-pikiiga kia latou, kae fai au ke fuli katoatoa atu ki Tou alofa-fakamagalo mo alofaga kaimalie.  Au e tuku atu foki kia Koe a fakafetai ona ko tuku ifo ki lalo ia au mai i kaumana o Tou finagalo a mea ko la ka fakamana i ei au mai i faka-osoosoga a latou masei mo musumusuuga a latou ko la e se-talitonu aua ia au ko oti ne fakammau fakalei loa a toku loto i luga ia Koe, kae ko tele keatea mai ia latou ko la e fakaloi ne latou a te mainaaga o Ou mata.  Tena foki au e fakafetai kia Koe auaa ne faka-mafai mai au ke tummau a te maalosi i Tou alofa, kae ke mafai o faipati atu a Ou tavaeega kae fakamaluga a Ou uiga llei, pela foki mo te aumai ke inu au i te ipu o Tou alofa-fakamagalo tela e silia atu i mea katoa e lavea mo te selavea.  
   
@@ -2591,6 +3107,8 @@ A Koe ko te Mafi-Katoatoa, ko Tafasili ite Maluga, ko te Faka-aloalogina Katoato
 
 (Source category: TAVAEEGA MO TE FAKAFETAI)
 (Bahaiprayers.net ID: 12249)
+
+
 
 
 ### <a id="bpn12250"></a> Prayer bpn12250 in Tuvalu
@@ -2601,6 +3119,8 @@ te Maluga.
 
 (Source category: TAVAEEGA MO TE FAKAFETAI)
 (Bahaiprayers.net ID: 12250)
+
+
 
 
 ### <a id="bpn12251"></a> Prayer bpn12251 in Tuvalu
@@ -2619,6 +3139,8 @@ Ko te matagofie e iluga ia Koe, ko Koe e maluga atu mai i luga i sose fakamatala
 
 
 
+
+
 ## TAVINI MO TE MAE
 
 ### <a id="bpn12271"></a> Prayer bpn12271 in Tuvalu
@@ -2627,6 +3149,8 @@ E seai aka se Atua na ko Koe, ko te Fatama, ko te Ola-ia-Ia loa.
 
 (Source category: TAVINI MO TE MAE)
 (Bahaiprayers.net ID: 12271)
+
+
 
 
 ### <a id="bpn12272"></a> Prayer bpn12272 in Tuvalu
@@ -2643,6 +3167,8 @@ Koe, e tonu, ko te Mafi-Katoatoa, ko te Tafasili i te Maluga, ko te IloaKatoatoa
 (Bahaiprayers.net ID: 12272)
 
 
+
+
 ### <a id="bpn12273"></a> Prayer bpn12273 in Tuvalu
 Vikiiga kia Koe, O te Aliki toku Atua! Au ko te tasi ne sala atu ki fiafiaaga lei o Tou loto, kae fakasino toku auala kit e nofoga o Au mea-alofa taaua.  Au ko ia te la ko oti ne liakina katoa aku mea, kae tele kia Koe o lafi, tela ko ti ne tuku ana mata ki te tapaneki o 
 Tau fakaasiiga kae nofo i loto ite gali o te lafiiga o Tou matagofie.  Au e akai totuli kia Koe, O toku Aliki, Ona ko Tau kalaga te la ne sala atu ki te mmalu o Tou atamai a latou ko la ne lavea ne latou a Tou tafatasi, a ko latou ko la talitonu ne tele ke atea ke mao mai ia latou loa kae fakapilipili atu ki Tou igoa, te Tafasili i te Maluga, te MatagofieKatoatoa, te la ne aumai i ei ki lalo Au kupu, kae fakataunu a Tau muna, kae fakaasi a Tau faka-talitonuuga, a ko te laa o Tou gali ko sae, a ko Tau faka-maoniiga ko fakatumau, a ko Tau failoga ko tuku faka-aliali mai, Au e akai totuli kia Koe ke fakasaoloto mai au ke mafai au o lau ia latou ko oti ne inu i te uaina te la ko te ola mai i lima o Tou alofa atamai, kae ko oti ne fakaseai a latou, i Tou auala, a te piki ki Au mea faite katoa, kae ko oko loa ite konaa i Tou atamai lauefa te la ko fakavave atu latou ki te malae o te galue mote mae mo Ou vikiiga i olotou laugutu mo Tou masausauaga i olotou loto.  Tuku ifo foki, ki luga ia au. O toku Atua, a te mea te la ka fulu ne ia au mai i 
@@ -2653,6 +3179,8 @@ E maalosi Koe o fai a te mea e manako Koe ki ei.  Seai se Atua na ko Koe, ko te 
 (Bahaiprayers.net ID: 12273)
 
 
+
+
 ### <a id="bpn12274"></a> Prayer bpn12274 in Tuvalu
 E pefea a te tokouke o agaaga ola ko la ne fakaola olotou ola ne pokotia kii ne te fakamasei i Tou Auala ona kote avakaaga ki luga o Tau Muna mo te tapuaki ki Tou tafatasi faka-te-lagi!  E pefea a te lasi ote toto ko oti ne maligi ona ko Tau Fakatokaaga ke fakatalitonu i ei a te tonu katoatoa o Tau Galuega faka-te-lagi kae fakamanatu Ou vikiiga!  E pefea a te uke o kope ne taofi see i te Auala o Tou alofa ko te mea ke fakatalitonu ate tafamaualuga o Tou mana kae faka-silisili a Tou Igoa matagofie! E fia a te loa ote auala ko oti ne sasale i luga i te pefu ko te mea ke faka-lauefa a Tau Muna mana kae vikia a Tou matagofie!  E pefea ate uke o leo ko la ne kalaga i te fanoanoa, ko loto ko pokoti ne te fakamataku, kofaiga tafasili i te masei tela e seai aka e mafai o atafia na ko Koe, pela foki mo fili masei mo puapuaga e tumau i te faigataa ki so se tino na ko Koe; mea katoa konei e fakatu, O toku Atua, a te maluga o Tou gali kae e fakaasi i ei a te uiga ma takalekale o Tou matagofie.  
   
@@ -2661,6 +3189,8 @@ E tonu ko Koe ko ti ne fai a mea tupu lasi konei ke aumai o olo ko latou ko la e
 
 (Source category: TAVINI MO TE MAE)
 (Bahaiprayers.net ID: 12274)
+
+
 
 
 ### <a id="bpn12275"></a> Prayer bpn12275 in Tuvalu
@@ -2676,11 +3206,15 @@ E seai aka se maalosi io mese mafi na ko te Atua, ko te Tafasili i te Maluga, ko
 (Bahaiprayers.net ID: 12275)
 
 
+
+
 ### <a id="bpn12276"></a> Prayer bpn12276 in Tuvalu
 O te Atamai Kilo-mao Faka-te-Lagi!  Avaka ki gutu o Au fagasele a te ipu fonu i te tigaina.  Kia latou e nnau i Tou auala, fai aka ate suamalie pe la me se uuga mae, a kote poisini ko te suamalie o te ani.  Tuku aka ne Koe ki moutou ulu a faka-lakeiiga ki mata o tao veli.  Fai a motou loto me ko taketi o matasana mo mea makaikai seai ne alofa ia latou.  Avaka ki luga ne Koe a te agaaga vaaivai tenei ki te ola i te malae o matulo, kae fai ne Koe a te loto matafitafi tenei ke inu i te tafeaaga o te masei, ke toe ola aka pe la me se mea foou kae lei.  Fai aka ia ke konaa i te uaina o Tau Feagaiiga Seaise-Gataaga, fai a ia pe la me se tagata e pule ite fiafia o sau a tena ipu ki luga.  Fesoasoani kia ia ke ave keatea a tena ola, kae aumai tena ona ko Koe, ko ia ke tuku atu kia Koe.  Koe kote Mafi, ko te Maalosi.  Koe kote Iloa, ko te Lavea, ko te Lagona.
 
 (Source category: TAVINI MO TE MAE)
 (Bahaiprayers.net ID: 12276)
+
+
 
 
 
@@ -2697,11 +3231,15 @@ Mea nei, O Toku Atua, ko aso muamua ko la ko oti ne fai mai ne Koe ki Au fagasel
 (Bahaiprayers.net ID: 10960)
 
 
+
+
 ### <a id="bpn10961"></a> Prayer bpn10961 in Tuvalu
 I te Igoa o Ia Te la ko oti ne feagaiiga mai i Tusi ate Atua, te Iloa-Katoatoa, te Logo-Katoatoa!  A aso o te anapogi ko oko mai tela a tavini ka siomia ne latou a Tou nofoga-tupu kae ko oko atu ki Ou mua ko oti ne anapogi.  Fai atu:  O te Atua o igoa mo Ia ne faite ne Ia a te lagi mo te lalolagi!  E akai atu kia Koe i Tou Igoa, te Matagofie-Katoatoa, ke talia te anapogi a latou ko la ne anapogi ona ko te alofa mo Koe mo te mea e manako ki ei a Tou fiafiaaga-lei kae ko oti foki ne fai ne latou a te mea ne fakatonu kia latou mai i Au Tusi mo Tapeleti.  Au e akai totuli kia Koe ona ko latou ke fesoasoani mai kia au i te faka-laueefaga o Tau Fakatokaaga kae fai au ke mautakitaki i Tou alofa, ko oku kalafaga ke se olo seke ona ko te gasuesueega o Au mea faiite.  E tonu, a Koe ko te maalosi i luga i sose mea e finagalo Koe kiei.  E seai aka foki se Atua na ko Koe, te Fai-Mea-Vave, te Maalosi-Katoatoa, te Toe Maukoloa, te Favavau o Aso.
 
 (Source category: TE ANAPOGI)
 (Bahaiprayers.net ID: 10961)
+
+
 
 
 ### <a id="bpn10962"></a> Prayer bpn10962 in Tuvalu
@@ -2724,6 +3262,8 @@ Au e akai totuli kia Koe, O toku Atua, ona ko Tau Fakailoga mafi, mo te fakaasii
 (Bahaiprayers.net ID: 10962)
 
 
+
+
 ### <a id="bpn10963"></a> Prayer bpn10963 in Tuvalu
 Ke Tavaegina Koe, O te Aliki toku Atua! Au e akai faka-maulalo kia Koe i te Faka-asiga nei te la ne fuli te pogisa kite mainaaga, tela ne faite a te Fakatokaaga Faka-fokifoki tenei mo te faka-asiiga o te Tapeleti Tusia, mo te sukeega o te Epa Mafola-lauefa, ke tuku ifo ki luga ia au kae ki luga foki ia latou ko la e fakatasi mai te la ka mafai ne matou o eva ki loto i lagi o Tou matagoefie maluga, kae fakamaa matou mai i pisipisiiga o fifiiga ko la ko oti ne faka-lavelave ne latou a tino fa-lotolotolua mai i te ulu ki te tapaneko o Tou tafatasi.
      Au ko ia, O toku Aliki, te la e piki mau ki te kafanoa o Tou alaofa-kaimalie kae mau ki te fakaotiiga o Tou alofa mo fakapitoga.  Fakaeke aka ne Koe mo au au pela foki mo oku fagasele ate lei o te lalolagi nei mo te lalolagi ma vau.  Avatu kia latou, a te Mea-alofa Funaa te la ko oti ne fakamana ne Koe mo latou filifilia mai i Au mea-faiite.
@@ -2732,6 +3272,8 @@ Ke Tavaegina Koe, O te Aliki toku Atua! Au e akai faka-maulalo kia Koe i te Faka
 
 (Source category: TE ANAPOGI)
 (Bahaiprayers.net ID: 10963)
+
+
 
 
 ### <a id="bpn10964"></a> Prayer bpn10964 in Tuvalu
@@ -2747,6 +3289,8 @@ Mea nei, O toku Atua, ko aso ko la ko oti ne fakatonu mai ne Koe ko Au tavini ke
 
 (Source category: TE ANAPOGI)
 (Bahaiprayers.net ID: 10964)
+
+
 
 
 ### <a id="bpn10965"></a> Prayer bpn10965 in Tuvalu
@@ -2768,11 +3312,15 @@ Te Matagofie ea ia Koe, O te Aliki toku Atua!   Mea nei ko aso ko la ko oti ne f
 (Bahaiprayers.net ID: 10965)
 
 
+
+
 ### <a id="bpn10966"></a> Prayer bpn10966 in Tuvalu
 Tavaeega e i luga ia Koe, O te Aliki toku Atua! Ko oti ne tautali matou ki te Anapogi pe la mo Tou manakoga kae fakagata nei ona ko Tou alofa mo Tou loto fiafia.  Faka-maulalo atu o talia, O toku Atua, a uiga lei o latou ko la ne galue katoatoa i Tou auala ona ko Tou gali mo olotou mata e fakasaga atu ki Tau Fakatokaaga, aunoa mo se isi aka na loa ko Koe.  Tena la, tuku ifo, a Tau faka-magalooga kia matou, ki luga i motou tuaa, kae ki luga foki ia latou katoa ko la ne talitonu ia Koe mo Au faka-iloga mafi i te vaaitaimi takutakua tenei, te toe Fakaasiiga tafasili i te matagofie.  E mafi Koe o fai ate mea e loto Koe ki ei. A Koe, e tonu, ko te Tafasili ite Malu, te Mafi-Katoatoa, te Se-mafai-o-Taofigina.
 
 (Source category: TE ANAPOGI)
 (Bahaiprayers.net ID: 10966)
+
+
 
 
 ### <a id="bpn10967"></a> Prayer bpn10967 in Tuvalu
@@ -2782,11 +3330,15 @@ Tavaeega kia Koe, O te Atua, toku Atua! Mea nei ko aso ko la ko oti ne fakasino 
 (Bahaiprayers.net ID: 10967)
 
 
+
+
 ### <a id="bpn10968"></a> Prayer bpn10968 in Tuvalu
 O toku Atua mo toku Matai!  E lavea ne Koe au i vasia o Au mea faiite ko la ne teke kae agasala kia Koe.  I so se taimi e kami ne au a latou ki vasa o Tou poto, a te olotou teke ki Tau Fakatokaaga e gasolo aka loa o maalosi a ko te see talia ne latou a te Malumalu o Tau Finagalo e fanaka o matolu maalosi.  E akai fakamaulalo atu kia Koe, O toku Atua, ona ko latou ne anapogi ona ko te olotou alofa mo Koe kae inu ite vai ola ote fakalogo mai i lima o Tou alofa-lauefa, ke fakaeke mo Au fagasele, ko la mai lalo i te ulaaga o te lukuuga fakatamilo o Au tofooga ko oti ne piki mmau ki te kafanoa o te onosai, a mea lei katoa ko oti ne lau ne Koe i Au Tusi mo Au Tapeleti. Na la, tusi aka ki lalo, mo latou ko la ne pokotia i fakalavelave ona ko Koe, a te taui o latou ko la ko toi ne mate faka matulo I te auala o Tou fiafiaaga-lei.  Tuku ifo ki lalo, tena la, kia latou, O te Aliki, ate mea te la ka faka fiafia ki olotou loto, faka-mafanafana olotou mata, kae fakaola olotou agaaga.  Ko Koe, e tonu, ko te Tafasili i te Maalosi, te Tafasili I te Malu, te Fesoasoani i Fakalavelave, te Poto-Katoatoa, te Atamai-Katoatoa.
 
 (Source category: TE ANAPOGI)
 (Bahaiprayers.net ID: 10968)
+
+
 
 
 ### <a id="bpn10969"></a> Prayer bpn10969 in Tuvalu
@@ -2815,6 +3367,8 @@ Tau fakaasiiga i Tau Tusi tafasili i te maina.  Ko oti ne taofi a motou agaaga o
 
 
 
+
+
 ## TE LAGO MO TE FEASOASOANI
 
 ### <a id="bpn10863"></a> Prayer bpn10863 in Tuvalu
@@ -2826,6 +3380,8 @@ Ko Koe, e tonu, kote Tupu o tagata katoa.  E seai aka foki se Atua na ko Koe, ko
 (Bahaiprayers.net ID: 10863)
 
 
+
+
 ### <a id="bpn10864"></a> Prayer bpn10864 in Tuvalu
 Toku Atua, toku Atua Fagasele, toku Tupu, toku Fakamoemoega!  Se a ate laulaufaiva e mafai o tuku atu a fakafetai kia Koe?  Au ne se fakalogo, a ko au ne fago ne Koe.  Ne fuli tua atu au kia Koe, kae ne fesoasoani alofa mai Koe ke fuli atu au kia Koe.  Au ko mate, kae ne fakaola au ne Koe ki te vai ote ola.  Au ko vaaivai, kae ne fakaola au ne Koe ki te vaai faka-te-lagi o Tau faipatiiga te la e tafe mai ite Pene o te Alofa-Kaimalie Katoatoa.
 
@@ -2833,6 +3389,8 @@ O te Kiloga Faka-te-Lagi!  A te foafoaaga katoa e mutana atu i te lauefa o Tou m
 
 (Source category: TE LAGO MO TE FEASOASOANI)
 (Bahaiprayers.net ID: 10864)
+
+
 
 
 ### <a id="bpn10865"></a> Prayer bpn10865 in Tuvalu
@@ -2845,11 +3403,15 @@ E vikia Tou Igoa, O te Aliki te motou Atua!  A Koe i te tonuuga ko te Iloa o mea
 (Bahaiprayers.net ID: 10865)
 
 
+
+
 ### <a id="bpn10866"></a> Prayer bpn10866 in Tuvalu
 O toku Atua, toku Aliki mo toku Matai! Ko oti au ne motu mai ia latou ko la e pili mai kia au kae ko sala e auala atu ia Koe ke fai aka au ke tusaoloto mai ia latou katoa e nofo ite lalolagi kae e toka faeloa o maua a mea ko la e aogaa kae tavaegia mai i Ou mata.  Tuku ifo kia au a mea lei ko te mea ke mafai au o tu saoloto vagana ko Koe, kae aumai ki au se tufaga tai lasi mai i Au mea-alofa se laugina.  E tonu, a Koe ko te Aliki o te alofa lauefa.
 
 (Source category: TE LAGO MO TE FEASOASOANI)
 (Bahaiprayers.net ID: 10866)
+
+
 
 
 ### <a id="bpn10867"></a> Prayer bpn10867 in Tuvalu
@@ -2861,12 +3423,16 @@ Te Aliki! Matou e faka-alofa, faka-mealofa mai matou i Ou alofaaga; mativa, tuku
 (Bahaiprayers.net ID: 10867)
 
 
+
+
 ### <a id="bpn10868"></a> Prayer bpn10868 in Tuvalu
 O Koe ko te Aliki alofa! Matou ko Au tavini i Tou Auala, e lafi i Tou Mataloa mana.  Matou e sala ki se lafiiga kae fakasao ne te pou maalosi tenei, seai aka foki se koga e fuli matou ki iei vagana ko Tau puipiiga tokaaga malie.  Tausi mai matou, fakamanuia mai matou, fesoasoani kia matou, fai aka matou ke fiafia matou ki Tou lei, tavili a Ou tavaeega, tautali fua ite auala o te meatonu, ko te mea ke mafai ne matou o oko ki se tulaga maumea ko fakaseai i ei a mea katoa na loa ko Koe, kae maua a motou mea-alofa mai ite tai o Tou kaimalie, ko te mea ke tumau ate taumafai o fakamaluga a Tau Fakatokaaga kae talai atu Ou manogi gali ki koga mao, ko te mea ke se mafaufau matou kia matou loa kae fakasaga tonu kia Koe, kae liakina a mea katoa kae saga fua kia Koe.
      O ko Koe te Maua-o-Mea, ko Koe te Fakamagalo!  Aumai kia matou a Tou alofa kaimaie mo Tou alofa atafai.  Au mea-alofa mo Au fakaekeega, e fakatumau matou, ko te mea ke maua ne matou a motou fakamoemoega.  Ko Koe ate Maalosi, ko te Mafai, ko te Iloa, ko te Lavea; e tonu, ia Koe ko te Kaimalie, kae, e tonu, ia Koe ko te Alofa-Kaimalie Katoatoa, kae, e tonu, ko Koe ko te Fakamagalo-Katoatoa, ko Ia Tela e tuku ki ei a salamo, ko Ia Tela e fakamagalo ke oko foki loa ki agasala e tafasili i te mafa.
 
 (Source category: TE LAGO MO TE FEASOASOANI)
 (Bahaiprayers.net ID: 10868)
+
+
 
 
 ### <a id="bpn10869"></a> Prayer bpn10869 in Tuvalu
@@ -2876,6 +3442,8 @@ Se avea keatea, O te Aliki, a te epa fiafia tenei ko fola i Tou Igoa, kae se tam
 
 (Source category: TE LAGO MO TE FEASOASOANI)
 (Bahaiprayers.net ID: 10869)
+
+
 
 
 
@@ -2892,6 +3460,8 @@ O te Atua, toku Atua!  Fakamaina a fulumata o Au fagasele tonu, kae lago a latou
 
 
 
+
+
 ## TINO KATOA
 
 ### <a id="bpn10954"></a> Prayer bpn10954 in Tuvalu
@@ -2903,11 +3473,15 @@ Toku Atua Tela e tapuaki kae ifo ne au!  E molimau au ki Tou tafatasi mo Tou fak
 (Bahaiprayers.net ID: 10954)
 
 
+
+
 ### <a id="bpn10955"></a> Prayer bpn10955 in Tuvalu
 O ko Koe a te Aliki kilo-alofa, ko Koe Tela e kaimalie kae fai mea mafai!  Matou ko Au tavini e malu mai lalo o Tou takitakiiga atamai.  Kilo mai a Ou mata alofa kia matou.  Aumai a te mainaaga ki o motou mata, lagona ki o motou taliga, mo te malamalama mo te alofa ki o motou ata.  Fai aka a motou agaaga ke lifu kae fiafia mai i luga i Au fakaasiiga fakafiafia. O te Aliki!  Fakasino mai kia matou a te auala o Tou maalo kae fakaola a matou katoa mai i te manavaaga o te Agaaga Tapu.  Tuku ifo kia matou ate ola se gata mai kae fakasafe ki luga ia matou a te malu e se-mafai o gata.  Fusi fakatasi a tino katoa kae fakamaina a te lalolagi o tino katoa.  Ke mafai ne matou o tautali i Tou auala, finafinau ki Tou loto fiafia kae sala ki mea funa o Tou maalo, O te Atua!  Fusi tasi matou kae sokotaki a motou loto mo Tau feagaiiga e se-mafai o maofa.  E tonu, a Koe ko te Foai, a Koe ko te Alofa Tokotasi a ko Koe ko te Mafi-Katoatoa.
 
 (Source category: TINO KATOA)
 (Bahaiprayers.net ID: 10955)
+
+
 
 
 ### <a id="bpn10956"></a> Prayer bpn10956 in Tuvalu
@@ -2917,6 +3491,8 @@ O ko Koe ko te Aliki alofa!  O ko Koe tela e alofa kae kaimalie!  Matou ko tavin
 (Bahaiprayers.net ID: 10956)
 
 
+
+
 ### <a id="bpn10957"></a> Prayer bpn10957 in Tuvalu
 O te Atua, O ko Koe Tela ne tuku atu a Tou gali ki luga i te mainaaga o te tina mea tonu ki tagata, e tufa atu ki luga ia latou a molii malifalifa o te poto mo te takitakiiga, kae ko oti ne filigina a latou mai i mea faiite katoa mo te alofaaga maluga tenei, kae ko pokotia a latou o aofia iei a mea katoa, ke malamalama i olotou uiga poko, kae ke fakaasi atu a olotou mea lilo, e aumai iei ne latou ki mua mai ite pouliga ki te lalolagi matea!  A Ia e tonu e ligi mai a Tena alofa fakapitoa ki so se tino e loto a Ia ki ei!” (1)
      O te Aliki, fesoasoani a Koe ki Au fagasele ke maua ne latou a te poto mo te saienisi mo mataupu kese kese, kae ke tala ne latou a mea funa ko la e tuku i loto i te kanoloto o mea faiite katoa.  Fai ke lagona ne latou a mea tonu e lilo ko la e tusi kae fakammau i loto o tino taki toko tasi.  Fai a latou me ne failoga o te takitakiiga i vasia o mea faiite katoa, mo vae makaikai o te mafaufau te la e sulu atu a te olotou mainaaga i te mea tenei, ko te “ola muamua.”(2)  Fai latou me takitaki kia Koe, leoleo ki Tou auala, tino fakatau tele o fakamaalosi a tagata ki Tou Maalo.
@@ -2924,6 +3500,8 @@ O te Atua, O ko Koe Tela ne tuku atu a Tou gali ki luga i te mainaaga o te tina 
 
 (Source category: TINO KATOA)
 (Bahaiprayers.net ID: 10957)
+
+
 
 
 
@@ -2940,6 +3518,8 @@ Au e akai fakamolemole kia Koe, i Tou Igoa Tafasili i te Takutakua, mo Tou nofoa
 (Bahaiprayers.net ID: 12330)
 
 
+
+
 ### <a id="bpn12331"></a> Prayer bpn12331 in Tuvalu
 E fakamalugia a Tou igoa, O toku Atua!  E lavea ne Koe me e pefea a matagi maalosi o tofotofoga ne fai ne latou a te tummau i te talitonuuga o gasuesue, kae me ne pefea a manavaaga o tofooga o kosu ne latou a loto ko la ko toi loa ne faka-tummau pe la mo latou ko la ko oti me inu i te uaina te la ko ola mai i lima o te Faifekau o Tou igoa, ko te tafasili i te AlofaKaimalie.  Mea nei ko latou ko la e seai se muna na ko Tau muna maluga ne mafai o faka-gasue, te la e seai lele se mea na ko te gatu manogi magalo o Tou mausauaaga e mafai o ufi i ei, O ko Koe Tela ko te Pule o igoa katoa mo te Tufuga o te lalolagi mo te lagi!  
   
@@ -2951,6 +3531,8 @@ Ko Koe, e tonu, ko te Mafi-Katoatoa, ko te tafasili i te Maluga, ko te Matagofie
 (Bahaiprayers.net ID: 12331)
 
 
+
+
 ### <a id="bpn12332"></a> Prayer bpn12332 in Tuvalu
 Ko tavaeega katoa e io Koe, O toku Atua! E lavea mai ne Koe a toku fakaalofa mot e mativa, kae e molimau ki tou tiagaina mo tofooga.  E liakina ne Koe pefea au mai i te va o Au tavini? Fai aka au ke fanatu ki luga I Ou mua.  A te maalosi o Tou mafi e fai mo aku molimau!  Mea ana ko falavelave kola e pokotia iei au kae kola ko seai soku maalosi o toe llau atu i Ou mua.  Ko Koe, tokotasi, e tonu e auala atu i Tou poto e mafai o iloa a latou.  
   
@@ -2960,6 +3542,8 @@ Faka-aloalogina a Tou igoa, ko Koe Tela a Tou lima ko maalo o te lalolagi mo te 
 
 (Source category: TOFOOGA)
 (Bahaiprayers.net ID: 12332)
+
+
 
 
 ### <a id="bpn12333"></a> Prayer bpn12333 in Tuvalu
@@ -2981,6 +3565,8 @@ Faka-manuia aka ne Koe, O te Aliki toku Atua, a Tokotasi ko Ia Tela a mea funa o
 (Bahaiprayers.net ID: 12333)
 
 
+
+
 ### <a id="bpn12334"></a> Prayer bpn12334 in Tuvalu
 E maluga e ia Koe, O te Aliki toku Atua!  E tuku atu ne au kia Koe a te fakafetai auaa ko oto ne fai ne Koe au pe la me se taketi o 
 fakalavelave e uke mo se maka o tofotofooga uke, ko te mea ko Au tavini ke kufaki a se olaga foou ka ko Au mea ola katoa ke mafai o fakaola.  
@@ -2996,12 +3582,16 @@ A Koe, e tonu, ko te Atua o te maalosi, ko te Atua o te matagofie, ko te Atua o 
 (Bahaiprayers.net ID: 12334)
 
 
+
+
 ### <a id="bpn12335"></a> Prayer bpn12335 in Tuvalu
 O te Atua, Toku Atua! Sa fakamao a Koe mo au, aua i fakalavelave mo fakalave ko aputuputu mai kia au.  O te Atua, toku Atua!  Sa-liakina mai au kia au eloa, aua i te velaaga o faka-lavelave ko i luga ia au.  Mai i te tina susu, ne aumai i  fatafata o Tou alofakaimalie, tuku mai ko au ke inu, auaa i toku fia inu ko pokotia kii au i ei.  Mai i lalo i te malu o kapakau o Tou alofakaimalie, fakamalu aka au, auaa i oku fili katoa mo te leo talia e tasi ko i luga katoa ia au. Tausi aka au ke pili ki te kalauna-a-tupu o Tou afioga, mata ki mata ko te fakaasiiga mo fakailoga o Tou matagofie, auaa i te fanoanoa ko pokotia masei kii loa kia au.  Mai i fuaga kaina o te Lakau Ola o Tou Se-gata-mai fagai aka au, auaa i te seai se maalosi ko i luga ia au.  Mai i ipu o te fiafia, ko la ne tuku mai ne lima o Tou alofa atafai, fagai mai au, auaa i te fanoanoa tuafia ko lasi kii a tena pokotiaaga ki luga ia au.  Fakapei aka au ki te gatu suisui o Tou nofoaiga-a-tupu silisiliese, auaa i te mativa ko oko loa a tena fakamasei kia au.  Faka-mafanafana ne te tagi tagi o te Lupe o Tou Favavau, fai aka ke moe au, auaa i faigata ko tu loa i te faka-otiiga i te masei ko oko mai ki luga ia au.  
 Mai i mua o te kalauna-a-tupu o Tou tafatasi, i te vasia o te ulaaga o te gali o Ou mata, kae fai aka au ke tautali, ona ko te mataku mo te polepole ko kini masei ki loa kia au.  Mai i lalo o te vasa o Tau faka-magalooga, fakafesagi mo te nofo-se-toka o te manu lasi o te matagofie, ufi aka au, auaa ko aku agasala ko tanumia faka-masei kii au.
 
 (Source category: TOFOOGA)
 (Bahaiprayers.net ID: 12335)
+
+
 
 
 
@@ -3012,6 +3602,8 @@ Ko Koe ko Au tofotofoga ko vailakau fakagata masaki mo latou ko la e pili atu ki
 
 (Source category: TOFOTOFOOGA MO FAIGATA)
 (Bahaiprayers.net ID: 12322)
+
+
 
 
 ### <a id="bpn12323"></a> Prayer bpn12323 in Tuvalu
@@ -3027,6 +3619,8 @@ E maalosi Koe o fai a te mea e fiafia Koe ki ei.  Seai se Atua na ko Koe, te Fes
 (Bahaiprayers.net ID: 12323)
 
 
+
+
 ### <a id="bpn12324"></a> Prayer bpn12324 in Tuvalu
 Ave keatea a toku fanoanoa ne Tou maukoloa mo Tou kaimalie, O te Atua, toku Atua, kae fakaseai lele loa a toku manavase ne Tou nofoaiga-a-tupu mo Tou mafi.  E lavea mai ne Koe au, O toku Atua, mo oku mata e agai tonu kia Koe i se vaaitaimi a te amoga o te fanoanoa ko tanumia i luga ia au mai i feitu katoa.  Au e akai totuli kia Koe, O ko Koe Tela ko te Aliki o mea katoa, kae e siliga a te pulougia o mea katoa ko la e lavea mo te se-lavea, mai i Tou Igoa te la ko oti ne ta-taofi ne Koe a loto o agaaga ola o tagata, mo peau o te Vasa  Tou alofa-kaimalie mo te gali o te Fetu Ao o Tou maukoloa, ke lau atu au mo latou ko la e aunoa se mea ne mafai o kave keatea a olotou mata o fakasaga atu kia Koe, O ko Koe ko te Aliki o igoa katoa mot e Tufuga o lagi!  
   
@@ -3039,6 +3633,8 @@ tali.
 (Bahaiprayers.net ID: 12324)
 
 
+
+
 ### <a id="bpn12325"></a> Prayer bpn12325 in Tuvalu
 E maluga kae e matagofie a Koe, O toku Atua!  Au e akai faka-molemole kia Koe i manavaaga o Au fagasele mo loimata ko maligi ne latou ko la e faitali ke lavea ne latou a Koe, ke sa taofigina mai ia au Ou alofaaga-atafai i Tou Aso, io me e fakaseai au mai i sikuleo o te Lupe tela e faka-malugagia a Tou tafatasi mai I mua o te mainaaga tela e sulu maina mai i Ou mata.  Au ko te tokotasi tela e nofo i te puapuagatia, o Te Atua! Puke mai kia au e piki mmau ko Toi Igoa, ko te Pule-Katoatoa.  Au ko te tokotasi tela e mautinoa me e fano o galo; puke mai kia e piki mmau ki Tou Igoa, ko Te Tumau ki te se gata mai.  Au e akai kia Koe, tena, kia Koe loa, ko te Maluga, ko te Tafasili i te Maluga, ke sa liakina au kia au loa ki oku manakoga faitogafiti.  Puke aka ne Koe a toku lima ki te lima o Tou maalosi, kae fakasao mai au mai i te pokooga o oku manatu seai ne aoga mo manatu faka-supasupa, kae fakama mai au i mea katoa kola e se-fakafiafia kia Koe.  
   
@@ -3048,11 +3644,15 @@ Fai aka au, tena, ke fuli atu katoatoa kia Koe, ke tuku a toku talitonu kia Koe,
 (Bahaiprayers.net ID: 12325)
 
 
+
+
 ### <a id="bpn12326"></a> Prayer bpn12326 in Tuvalu
 E isi e Ave ne Ia a mea faigata na ko te Atua?  Fai atu: Vikia a te Atua! A Ia ko te Atua!  Katoa ko Ana tavini, kae katoa e fusi tasi i Ana faka-tonuuga!
 
 (Source category: TOFOTOFOOGA MO FAIGATA)
 (Bahaiprayers.net ID: 12326)
+
+
 
 
 ### <a id="bpn12327"></a> Prayer bpn12327 in Tuvalu
@@ -3071,6 +3671,8 @@ E maluga kii a Koe, O te Aliki o lagi mo te lalolagi, mai i luga atu o tavaeega 
 (Bahaiprayers.net ID: 12327)
 
 
+
+
 ### <a id="bpn12328"></a> Prayer bpn12328 in Tuvalu
 Au e fakasaga tonu kia Koe ona ko Tou mafi, O toku Atua!  Ke aunoa se faigata e oko mai kia au i taimi o tofooga, kae i taimi o te faivalevale takitaki mai oku kalafaga ke olo tonu mai i luga i Tau fakamaalosi.  A Koe ko te Atua, e maalosi Koe o fai a te mea e manako Koe ki ei.  E seai e mafai o teke atu a Tou Finagalo io me e o fakalavelave ki Tau Galuega.
 
@@ -3078,11 +3680,15 @@ Au e fakasaga tonu kia Koe ona ko Tou mafi, O toku Atua!  Ke aunoa se faigata e 
 (Bahaiprayers.net ID: 12328)
 
 
+
+
 ### <a id="bpn12329"></a> Prayer bpn12329 in Tuvalu
 O te Aliki! Koe ko te Ave-Keatea o so se tigaina mo te Fakaseai o so se pokotiaaga.  Ko Koe ko Ia Tela ne ave-keatea a so s fanoanoa kae fakasao mai a so se pologa, ko te Fakaola o so se agaaga ola.  O te Aliki! Tuku mai a te fakasaoga mai i Tou alofakaimalie, kae llau aka au i loto i Au tavini kola ko oti ne maua ne latou a te faka-olataga.
 
 (Source category: TOFOTOFOOGA MO FAIGATA)
 (Bahaiprayers.net ID: 12329)
+
+
 
 
 
@@ -3099,11 +3705,15 @@ E maalosi Koe o fai ate mea e fiafia Koe ki ei.  Ko Koe, e tonu, ko te Tafasili 
 (Bahaiprayers.net ID: 12279)
 
 
+
+
 ### <a id="bpn12280"></a> Prayer bpn12280 in Tuvalu
 Faiite aka ia au a te loto e maa takalekale, O toku Atua, kae fakafoou se mafaufau filemu i loto ia au, O toku Faka-moemoeega!  E auala i te agaaaga o te maalosi fakammau aka au i Tau Fakatokaaga, O toku Fagasele Sili, kae i te mainaaga o Tou matagofie fakaasi mai kia au a Tou auala, O Koe ko te Koulu o toku manakooga!  Mai i te maalosi o Tou mafi maluga sau aka au ki luga ite lagi o Tou mana, O te Koga ne vau i ei au, kae i te matagi iliili malie o Tou foafoaaga seai-se-gataaga faka-fiafia aka au, O ko Koe Tela ko toku Atua!  Fai aka Tou sikuleo seai se gataaga ke manava mai se tokaaga malie ki luga ia au, O toku Taugasoa, kae fai aka a maumea o Ou uiga mai ite favavau ke fakasao mai au i mea katoa na ko Koe, O toku Matai, kae fai aka a te tala llei o te fakaasiiga o te Kano-loto maa o Koe ke aumai ne ia ate fiafia, O ko Koe Tela ko te toe maina o toe maina mo toe mea lilo i mea lilo katoa!
 
 (Source category: TUPU AKA FAK-TE-AGAAGA)
 (Bahaiprayers.net ID: 12280)
+
+
 
 
 ### <a id="bpn12281"></a> Prayer bpn12281 in Tuvalu
@@ -3117,6 +3727,8 @@ Te Aliki!  Sa fuli mai au keatea mai i te vasa o Tou maumea mo te lagi o Tou alo
 (Bahaiprayers.net ID: 12281)
 
 
+
+
 ### <a id="bpn12282"></a> Prayer bpn12282 in Tuvalu
 O toku Aliki! Fai aka Tou gali mo fai a taku meakai, a ko Tou nofo-mai mo fai a taku meainu, a ko Tou fiafiaaga ko toku fakamoemoeega, a ko Tou tavaeega ko toku gasue o fai a mea, ko te masausau o Koe ko toku taugasoa, a ko te maalosi o Tou nofoaiga-a-tupu ko toku fesoasoani, a ko Tou koga-nofo ko toku fale, mo koga nofo tumau tela a nofoga ko oti ne fakamalu ne Koe mai i faka-tuakoiiga ko ti ne fai kia latou ko oti ne pono ne te veli mai ia Koe.  
   
@@ -3124,6 +3736,8 @@ Koe e, tonu, ko te Mafi-Katoatoa, ko te Alofa-katoatoa, ko te Tafasili i te Maal
 
 (Source category: TUPU AKA FAK-TE-AGAAGA)
 (Bahaiprayers.net ID: 12282)
+
+
 
 
 ### <a id="bpn12283"></a> Prayer bpn12283 in Tuvalu
@@ -3135,6 +3749,8 @@ Fai aka a te tavini tenei, au e akai faka-molemole atu kia Koe, ke faka-mafai ak
 
 (Source category: TUPU AKA FAK-TE-AGAAGA)
 (Bahaiprayers.net ID: 12283)
+
+
 
 
 ### <a id="bpn12284"></a> Prayer bpn12284 in Tuvalu
@@ -3154,6 +3770,8 @@ A Koe e tonu ko te Mafi-Katoatoa, ko te Fakamagalo, ko te Atafai.
 (Bahaiprayers.net ID: 12284)
 
 
+
+
 ### <a id="bpn12285"></a> Prayer bpn12285 in Tuvalu
 E mana a Koe, O te Aliki toku Atua! O te Aliki toku Atua!  E tuku atua kia Koe a fakafetai pela mo te kalagagina mai a Koe kia au i Ou aso, kae fagai mai au ki Tou alofa mo Tou poto.  Au e akai totuli kia Koe, i Tou igoa tela a penina gali o Tou atamai mo Tau faipatiiga ne aumai ki tua o koloa o loto o Au tavini kola ko pilipili atu kia Koe, kae e tela aa te Fetu-Ao o Tou igoa, ko te Atafai, ko oti ne sulu atu a tena mainaaga ki luga i tino katoa i Tou lagi mo i luga i Tou lalolagi, ke tufa mai kia au, mai i Tou alofafakamagalo mo te maukola, mo Au alofaaga fakaofoofogia kae funa.  
   
@@ -3167,11 +3785,15 @@ E tavaegia a te Atua, ko te Aliki o lalolagi.
 (Bahaiprayers.net ID: 12285)
 
 
+
+
 ### <a id="bpn12286"></a> Prayer bpn12286 in Tuvalu
 Au e akai faka-maulalo kia Koe, O toku Atua, mo te matagofie lasi o Tou Igoa, o fakapei aka Au fagasele ki te gatu o te faimeatonu kae faka-maina a olotou agaaga ki te molii o te faka-talitonugina.  Ko Koe ko te Tasi te la e iai a te maalosi o fai a te mea e fiafia Koe ki ei kae e taofi i Ou lima a te pule i mea katoa, ko la e lavea mo te se lavea.
 
 (Source category: TUPU AKA FAK-TE-AGAAGA)
 (Bahaiprayers.net ID: 12286)
+
+
 
 
 ### <a id="bpn12287"></a> Prayer bpn12287 in Tuvalu
@@ -3188,6 +3810,8 @@ E tonu kafai a Koe e manako o fakaeke a faka-manuiaaga ki luga i se tavini ka fa
 (Bahaiprayers.net ID: 12287)
 
 
+
+
 ### <a id="bpn12288"></a> Prayer bpn12288 in Tuvalu
 O te Atua! Fakafou kae faka-fiafia toku agaaga.  Fakamaa toku loto.  Fakamaina toku maalosi.  E tuku atu katoa ki Ou lima aku mea.  A Koe ko ko toku Takitaki mo toku Lafiiga.  Au ka se toe fanoanoa kae se-fiafia; Au ka fai me se tino fiafia kae lifu.  O te 
 Atua!  Au ka se toe sa pole-pole, io me talia ne au ne faka-lavelave ke pokotia au i ei.  Au ka se toe saga ki mea se lei o te olaaga.  
@@ -3196,6 +3820,8 @@ O te Atua!  A Koe e taugasoa atu kia au iloo au kia au loa.  Ka saga tonu atu au
 
 (Source category: TUPU AKA FAK-TE-AGAAGA)
 (Bahaiprayers.net ID: 12288)
+
+
 
 
 ### <a id="bpn12289"></a> Prayer bpn12289 in Tuvalu
@@ -3211,11 +3837,15 @@ E tonu, a Koe ko te alofa-fakamagalo kae, e tonu, a Koe ko e Tafasili ite Alofa-
 (Bahaiprayers.net ID: 12289)
 
 
+
+
 ### <a id="bpn12290"></a> Prayer bpn12290 in Tuvalu
 O toku Aliki! O toku Aiki! Mea nei se lamepa ne faka kaa ne te afi o Tou alofa a ko ula valevale mai i te ulaaga ne faka-kaa i te lakau ola o Tou alofa kaimalie.  O toku Aliki! Faka lasi aka a tena kaa, velasia mo te ulaaga, ite afi te la ne faka-kaa i te Siona o Tau Faifaaliga.  E tonu, Koe ko te Fakammau, ko te Fesoasoani, ko te Maalosi, ko te Kaimalie, ko te Alofa.
 
 (Source category: TUPU AKA FAK-TE-AGAAGA)
 (Bahaiprayers.net ID: 12290)
+
+
 
 
 ### <a id="bpn12291"></a> Prayer bpn12291 in Tuvalu
@@ -3227,6 +3857,8 @@ E tonu, a Koe ko te Tafasili ite Kaimalie, ko te Aliki o te alofa-lasi.  E seai 
 (Bahaiprayers.net ID: 12291)
 
 
+
+
 ### <a id="bpn12292"></a> Prayer bpn12292 in Tuvalu
 O te Atua, toku Atua!  Mea nei ko Au tavini vaaivai; a latou ko Au Tavini tagata mo tavini fafine usiusitai, ko oti latou ne ifo ki lalo i Tau muna maluga kae faka-maulalo latou i Tou Mataloa maina, kae tu saoloto latou o molimau a Tou tafatasi te la mai iei a te Laa ko oti ne fai ke maina i te matagofie o ia i te tutonu ote aso.  Ko oti ne fakalogo matou ki faka-masakooga ne avaka ne Koe mai i 
 Tou Lalolagi funa, mo motou loto polepole i te alofa mo te fiafia, ko oti ne tali atu ki Tau kalaga.  
@@ -3235,6 +3867,8 @@ A Koe, e tonu, ko te Mafi, ko te Maluga, ko te Maalosi, ko Ia tokotasi Tela, i l
 
 (Source category: TUPU AKA FAK-TE-AGAAGA)
 (Bahaiprayers.net ID: 12292)
+
+
 
 
 ### <a id="bpn12293"></a> Prayer bpn12293 in Tuvalu
@@ -3249,6 +3883,8 @@ fai-feagaiiga mai, O te Aava mo te Kaimalie Tokotasi!  Koe, e tonu, ko te Llei m
 (Bahaiprayers.net ID: 12293)
 
 
+
+
 ### <a id="bpn12294"></a> Prayer bpn12294 in Tuvalu
 O Koe ko te Fakasoasoa!  Ko oti a Koe ne manava mai i luga i taugasoa i te Togala a te manogi gali o te Agaaga Tapu, kae mai i te mainaaga o te takitakiiga faka-te-lagi ko oti ne fakamaina ne koe a te lagi ite toigala.  Ko oti ne fai ne Koe a latou ko la ne mao ke fakapilipili atu kia Koe; latou ko la ne tino foou ke fai pe la me ne taugasoa fakapelepele; Ko oti ne fago aka ne Koe a latou ko la ne moe; Ko oti ne fai ne koe a latou ko la se fakalogo ke fakalogo.  
   
@@ -3260,6 +3896,8 @@ Koe ko te Mafi, ko te Maalosi, mo Koe ko te Atua o te maalosi, ko te SiliKatoato
 
 (Source category: TUPU AKA FAK-TE-AGAAGA)
 (Bahaiprayers.net ID: 12294)
+
+
 
 
 
@@ -3319,6 +3957,8 @@ A Ia ko te Fakagata Masaki, ko te Lava-fua-ia-Ia, ko te Feasoasoani, ko te Fakam
 
 
 
+
+
 ## VAAITAU OLA FAKA-TE-LAGI
 
 ### <a id="bpn10907"></a> Prayer bpn10907 in Tuvalu
@@ -3331,12 +3971,16 @@ Te Matagofie e a Koe, O toku Atua!  A gasuesuenga muamua loa o te vasia taimi te
 (Bahaiprayers.net ID: 10907)
 
 
+
+
 ### <a id="bpn10908"></a> Prayer bpn10908 in Tuvalu
 E fakalauefa, O te Aliki toku Atua, a Tou Igoa,  te la ne pulougina a lakau ola o te fatoaaga o Tau Faaliga mo te lau-usiusi, kae ne mafai o tau a fuataga kaina o te mana i vaaitaimi o te Tau-malulu i taimi a te manogi gali o Au mea-alofa mo fakamanuiaaga ko oti ne agiagi i luga i mea katoa, kae fai a latou ke aumai ki mua a so se mea ko la ko oti ne leva ne fakaeke gina mo latou i te Maalo o Tau fakatonuuga e se mafai o mafulifuli mo te Lagi o Tau ikuuga e se mafai o fakase gina.  Au e akai fakamolemole kia Koe i te Igoa loa tenei ke se fakafita gina au ke mao mai i te fale o Tou mana, io me e liakina au mai i te koga koga tafasili i te maluga o Tou tafatasi mo te fakatasitasi.
      Faka ka, i ei, O toku Atua, i loto i oku fatafata a te afi o Tou alofa, te la a tena ulaaga e mafai o sunu ne ia a mea katoa vagana ko toku masausauaga ia Koe, ko so se mafaufauga masei ke mafai o fakamalalo kii loa i loto ia au, ko te mea ke seai lele loa vagana ko te fakamalugaga o Tou matagofie tafasili i te gali.  Mea nei ko toku fakamoemoega tafasili i te maluga, ko toku manakoga maalosi, O ko Koe e pule i mea katoa, kae tela a Tena lima ko te maalo o te foafoaaga katoatoa.  A koe, e tonu, e fai a te mea e filifili ne Koe. E seai se Atua i tafa o Koe, ko te Mafi-Katoatoa, ko te Matagofie-Katoatoa, ko te Fakamagalo-Katoatoa.
 
 (Source category: VAAITAU OLA FAKA-TE-LAGI)
 (Bahaiprayers.net ID: 10908)
+
+
 
 
 
@@ -3352,6 +3996,8 @@ E fakalauefa, O te Aliki toku Atua, a Tou Igoa,  te la ne pulougina a lakau ola 
 
 
 
+
+
 ## mo Fafine
 
 ### <a id="bpn10951"></a> Prayer bpn10951 in Tuvalu
@@ -3364,12 +4010,16 @@ Te matagofie e o Koe, O te Aliki toku a Atua!  Au e akai atu kia Koe i Tou Igoa 
 (Bahaiprayers.net ID: 10951)
 
 
+
+
 ### <a id="bpn10893"></a> Prayer bpn10893 in Tuvalu
 O toku Atua, O te Fakamagalo o agasala mo te Ave-Keatea o mea faigata! O ko Koe te la e fakamagalo kae alofa!  Au e sisi oku lima faka-alofa kia Koe, mo loimata maligi o akai totuli ki Tou fale To-tino fake-te-lagi ke fakamagalo, mai luga i Tou alofa mo te fakamagalo, a Tau tavini fafine tenei ko fanatu ki luga i te nofoga o te meatonu.  Fai aka ia, O te Aliki, ke pulougina ne kaumana o Tou alofa mo te kaimalie, ke galo ifo a ia i te vasa o Tau fakamagalooga mo te alofa, kae fakamafai a ia ke ulu atu ki loto ite mu mea mana, o Tou Palataiso faka-te-lagi.
      Ko Koe, e tonu, ko te Mafi, ko te Atafai, ko te Kaimalie, ko te Alofa-Kaimalie.
 
 (Source category: mo Fafine)
 (Bahaiprayers.net ID: 10893)
+
+
 
 
 ### <a id="bpn10894"></a> Prayer bpn10894 in Tuvalu
@@ -3379,6 +4029,8 @@ Fakaeke atu ki luga i Tau tavini fafine faka-te-lagi, O te Atua, a manogi mana k
 
 (Source category: mo Fafine)
 (Bahaiprayers.net ID: 10894)
+
+
 
 
 ### <a id="bpn10895"></a> Prayer bpn10895 in Tuvalu
@@ -3391,6 +4043,8 @@ O Koe te Aliki Alofa!  A tau tavini fafine faka-alofa ne manako kia Koe, kae mai
 
 
 
+
+
 ## mo Pepe
 
 ### <a id="bpn10952"></a> Prayer bpn10952 in Tuvalu
@@ -3400,6 +4054,9 @@ Au e akai kia Koe, tena la, mai i Tou igoa tela ne fakaasi ne Koe a Tou Atua-lag
 
 (Source category: mo Pepe)
 (Bahaiprayers.net ID: 10952)
+
+
+
 
 
 

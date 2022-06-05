@@ -3,6 +3,96 @@ title = "Slovensky"
 tags = ['lang=sk', 'prayerbook']
 +++
 
+
+
+[Blízkosť k Bohu](#Blízkosť k Bohu)
+
+[Bábätká](#Bábätká)
+
+[Chvála a vďakyvzdanie](#Chvála a vďakyvzdanie)
+
+[Deti](#Deti)
+
+[Dlhá povinná modlitba](#Dlhá povinná modlitba)
+
+[Duchovné rady](#Duchovné rady)
+
+[Fond](#Fond)
+
+[Jednota](#Jednota)
+
+[Krátka povinná modlitba](#Krátka povinná modlitba)
+
+[Manžel](#Manžel)
+
+[Manželstvo](#Manželstvo)
+
+[Mládež](#Mládež)
+
+[Nanebovstúpenie Bahá’u’lláha](#Nanebovstúpenie Bahá’u’lláha)
+
+[Narodenie Bahá’u’lláha](#Narodenie Bahá’u’lláha)
+
+[Narodenie Bába](#Narodenie Bába)
+
+[Nastávajúce matky](#Nastávajúce matky)
+
+[Naw rúz](#Naw rúz)
+
+[Odpustenie](#Odpustenie)
+
+[Odpútanosť](#Odpútanosť)
+
+[Pevnosť v Zmluve](#Pevnosť v Zmluve)
+
+[Polnoc](#Polnoc)
+
+[Pomoc a podpora](#Pomoc a podpora)
+
+[Priestupné dni](#Priestupné dni)
+
+[Pôst](#Pôst)
+
+[Ridván](#Ridván)
+
+[Rodina](#Rodina)
+
+[Rodičia](#Rodičia)
+
+[Ráno](#Ráno)
+
+[Skúšky a ťažkosti](#Skúšky a ťažkosti)
+
+[Slávnosť 19-tich dní](#Slávnosť 19-tich dní)
+
+[Stredne dlhá povinná modlitba](#Stredne dlhá povinná modlitba)
+
+[Stretnutia](#Stretnutia)
+
+[Tabuľka pre Aḥmada](#Tabuľka pre Aḥmada)
+
+[Tabuľky Božského Plánu](#Tabuľky Božského Plánu)
+
+[Uzdravenie](#Uzdravenie)
+
+[Učenie](#Učenie)
+
+[Večer](#Večer)
+
+[Vytrvalosť](#Vytrvalosť)
+
+[Víťazstvo Veci](#Víťazstvo Veci)
+
+[Výnimočné tabuľky](#Výnimočné tabuľky)
+
+[Zosnulí](#Zosnulí)
+
+[Ľudstvo](#Ľudstvo)
+
+[Ženy](#Ženy)
+
+
+
 ## Blízkosť k Bohu
 
 ### <a id="bpn13204"></a> Prayer bpn13204 in Slovensky
@@ -14,11 +104,15 @@ Ty si vpravde vždy Odpúšťajúci, Najsúcitnejší.
 (Bahaiprayers.net ID: 13204)
 
 
+
+
 ### <a id="bpn13205"></a> Prayer bpn13205 in Slovensky
 Som vskutku Tvoj služobník, ó môj Bože, a Tvoj úbožiak a Tvoj prosebník a Tvoje nemohúce stvorenie. Prišiel som k Tvojej bráne hľadajúc Tvoje útočisko. Nenašiel som iné uspokojenie než z Tvojej lásky, iné potešenie než zo spomienky na Teba, inú túžbu než po poslušnosti Tebe, inú radosť než z Tvojej blízkosti a iný pokoj než zvítanie s Tebou, hoc som si vedomý, že Tvoja výsostná podstata je zatarasená pred všetkým stvoreným a Tvoja najvnútornejšia bytosť je neprístupná pre celé tvorstvo. Vždy, keď sa pokúsim k Tebe priblížiť, nevnímam v sebe nič iné než znamenia Tvojej milosti a nevidím vo svojej bytosti nič len zjavenie Tvojej milujúcej láskavosti. Ako môže ten, kto je len Tvojím stvorením, dúfať, že sa s Tebou stretne a dosiahne Tvoju prítomnosť, keď žiaden tvor sa s Tebou nemôže stretať a nič Ťa nedokáže poňať? Ako je možné, aby Ťa prostý služobník uznal a velebil Tvoju chválu, napriek tomu, že si preň určil zjavenie Svojho panstva a úžasné svedectvá Svojej zvrchovanosti? Tak každá stvorená bytosť dosvedčuje, že obmedzenia jej vnútornej podstaty jej bránia vstúpiť do svätyne Tvojej prítomnosti. Avšak nedá sa poprieť, že vplyv Tvojej príťažlivosti bol odjakživa vlastný podstate Tvojho diela, hoci to, čo prináleží posvätenému dvoru Tvojej prozreteľnosti, je povznesené nad dosah celého stvorenia. To, ó môj Bože, ukazuje moju úplnú nemohúcnosť chváliť Ťa a prezrádza moju krajnú neschopnosť vzdávať Ti vďaku, a nieto ešte dosiahnuť uznanie Tvojej božskej jednotnosti či dospieť k jasným známkam Tvojej chvály, Tvojej posvätnosti a Tvojej slávy. Veru, pri Tvojej moci, netúžim po inom než po Tvojom vlastnom Ja a nehľadám iného než Teba.
 
 (Source category: Blízkosť k Bohu)
 (Bahaiprayers.net ID: 13205)
+
+
 
 
 ### <a id="bpn13206"></a> Prayer bpn13206 in Slovensky
@@ -29,6 +123,8 @@ Prosím Ťa, aby si vyslyšal moje volanie tak, ako si mi to prisľúbil. Ty si 
 
 (Source category: Blízkosť k Bohu)
 (Bahaiprayers.net ID: 13206)
+
+
 
 
 ### <a id="bpn13207"></a> Prayer bpn13207 in Slovensky
@@ -48,6 +144,8 @@ Ty si vskutku Milostivý, Oslávený, Mocný, Všemocný.
 (Bahaiprayers.net ID: 13207)
 
 
+
+
 ### <a id="bpn13208"></a> Prayer bpn13208 in Slovensky
 On je Zhovievavý, nadovšetko Štedrý!
 Ó Bože, môj Bože! Ty ma vidíš a poznáš, Ty si moja Záchrana a moje Útočisko. Nikoho okrem Teba som nehľadal a hľadať nebudem, a na žiadnu cestu okrem cesty Tvojej lásky som nevkročil a ani nevkročím. V temnej noci zúfalstva sa môj zrak v nádejnom očakávaní obracia k ránu Tvojej nesmiernej priazne a v hodine úsvitu moju sklesnutú dušu osviežuje a posilňuje spomienka na Tvoju krásu a dokonalosť. Ten, komu napomáha priazeň Tvojho milosrdenstva, hoci by bol len kvapkou, stane sa bezhraničným oceánom a obyčajný atóm, ktorému pomáhajú prúdy Tvojej milujúcej láskavosti, sa rozsvieti ako jasná hviezda.
@@ -56,6 +154,8 @@ Pomôž mu, aby v tomto svete bytia zostal pevným a neochvejným Tvojej láske,
 
 (Source category: Blízkosť k Bohu)
 (Bahaiprayers.net ID: 13208)
+
+
 
 
 
@@ -69,12 +169,16 @@ Velebený si, ó môj nadovšetko Milovaný! Ovej ho ľúbeznou vôňou Svojej n
 (Bahaiprayers.net ID: 13131)
 
 
+
+
 ### <a id="bpn13188"></a> Prayer bpn13188 in Slovensky
 Ty si Ten, o môj Bože, koho mená uzdravujú chorých a liečia neduživých, napájajú smädných a upokojujú rozrušených, vedú zblúdených a povznášajú ponížených, obohacujú chudobných a poúčajú nevedomých, osvecujú ponurých a rozveseľujú zarmútených, hrejú skrehnutých a vyzdvihujú utláčaných. Prostredníctvom Tvojho mena, ó môj Bože, sa rozochvelo všetko stvorené, nebesá sa rozprestreli, zem sa nastolila a oblaky sa zdvihli a rozpršali na zem. To je vskutku známka Tvojej milosti ku všetkým Tvojim tvorom. 
 Preto Ťa úpenlivo žiadam, pri Tvojom mene, prostredníctvom ktorého si prejavil Svoje Božstvo, povzniesol Svoju vec nado všetko stvorenie, pri každom z Tvojich najznamenitejších pomenovaní a najdôstojnejších prídomkov a pri všetkých cnostiach, ktorými sa chválorečí Tvojej nadpozemskej a najvznešenejšej bytosti, aby si dnes večer z oblakov Svojho milosrdenstva zoslal spŕšky Svojho uzdravenia na toto dojčiatko, ktoré si v kráľovstve Svojho stvorenia pridružil k Svojmu nadovšetko Slávnemu Ja. Potom ho, ó môj Bože, odej do rúcha pohody a zdravia a chráň ho, ó môj Milovaný, pred každou súžobou a nemocou a pred všetkým, čo sa Ti protiví. Tvoja moc sa veru rovná všetkému. Ty si vpravde Najsilnejší, Sebedostačujúci. Navyše naň, ó môj Bože, zošli dobro sveta tohto i ďalšieho a dobro zašlých i nasledujúcich pokolení. Tomu sa veru vyrovná Tvoja moc a Tvoja múdrosť.
 
 (Source category: Bábätká)
 (Bahaiprayers.net ID: 13188)
+
+
 
 
 ### <a id="bpn13132"></a> Prayer bpn13132 in Slovensky
@@ -84,11 +188,15 @@ Preto Ťa úpenlivo žiadam, pri Tvojom mene, prostredníctvom ktorého si preja
 (Bahaiprayers.net ID: 13132)
 
 
+
+
 ### <a id="bpn13133"></a> Prayer bpn13133 in Slovensky
 Ó Bože! Nech toto maličké bábätko vyrastá v náručí Tvojej lásky a nech pije mlieko z ňadier Tvojej prozreteľnosti. Pestuj toto svieže púpätko v ružovej záhrade Svojej lásky a napomáhaj mu v raste spŕškami Svojej štedrosti! Učiň ho dieťatkom kráľovstva a uveď ho do Svojej nebeskej ríše! Ty si Mocný a Láskavý a Ty si Darca, Veľkorysý, Pán všetko presahujúcej štedrosti.
 
 (Source category: Bábätká)
 (Bahaiprayers.net ID: 13133)
+
+
 
 
 
@@ -102,6 +210,8 @@ Rozjasni, ó Pane, tvár Svojich služobníkov, aby na Teba mohli hľadieť, a o
 (Bahaiprayers.net ID: 13209)
 
 
+
+
 ### <a id="bpn13210"></a> Prayer bpn13210 in Slovensky
 V mene Boha, Najvyššieho! Chválený a ovenčený slávou si Ty, ó Pane, Bože Všemohúci! Ty, ktorého múdrosti sa múdri nevyrovnajú, pred ktorého poznaním učení priznávajú svoju nevedomosť, pred ktorého mocou silní zoslabnú, pred ktorého bohatstvom bohatí doznávajú svoju chudobu, pred ktorého svetlom sú osvietení stratení v temnote, k chrámu poznania ktorého sa obracia podstata všetkého porozumenia a okolo svätyne prítomnosti ktorého krúžia duše celého ľudstva.
 Ako teda môžem spievať a hovoriť o Tvojej podstate, ktorú nebola schopná pochopiť ani múdrosť múdrych a učenosť učených? Nikto predsa nemôže vyspievať to, čomu nerozumie, ani opísať to, čo nemôže dosiahnuť, lebo Ty si odjakživa Nedosiahnuteľný, Nenájditeľný. Keďže som akokoľvek bezmocný vystúpiť na nebesá Tvojej slávy a vznášať sa v ríši Tvojho poznania, môžem aspoň vymenovať Tvoje znamenia, ktoré rozprávajú o Tvojom diele plnom slávy.
@@ -110,6 +220,8 @@ Všetka chvála a sláva patrí Tebe, ó Ty, o ktorom všetky veci svedčia, že
 
 (Source category: Chvála a vďakyvzdanie)
 (Bahaiprayers.net ID: 13210)
+
+
 
 
 ### <a id="bpn13211"></a> Prayer bpn13211 in Slovensky
@@ -121,12 +233,16 @@ Ty si Boh sily, slávy a štedrosti. Niet Boha okrem Teba, Zvrchovaného vládcu
 (Bahaiprayers.net ID: 13211)
 
 
+
+
 ### <a id="bpn13212"></a> Prayer bpn13212 in Slovensky
 Velebený si, ó Pane, môj Bože! Vzdávam Ti vďaku za to, že si mi umožnil rozpoznať Prejav Teba samého a že si ma odlúčil od Svojich nepriateľov a odhalil pred mojím zrakom ich zlé skutky a zlomyseľné činy v Tvojich dňoch a že si ma zbavil všetkého, čo ma k nim pútalo, a dovolil si mi, aby som sa plne obrátil k Tvojej milosti a štedrej priazni. Vzdávam Ti tiež vďaku za to, že si mi z oblakov Svojej vôle zoslal to, čo ma natoľko posvätilo nad narážky neveriacich a nad zmienky nevercov, že som svojím srdcom pevne priľnul k Tebe a utiekol od tých, ktorí popreli svetlo Tvojej tváre. Ďakujem Ti ďalej za to, že si mi dal silu zostať verným Tvojej láske, oslavovať Tvoju chválu a velebiť Tvoje cnosti, a za to, že si mi dovolil napiť sa z pohára Tvojho milosrdenstva, ktoré prekonalo všetky viditeľné i neviditeľné veci.
 Ty si Všemohúci, Najvznešenejší, Najslávnejší, všetko Milujúci.
 
 (Source category: Chvála a vďakyvzdanie)
 (Bahaiprayers.net ID: 13212)
+
+
 
 
 ### <a id="bpn13213"></a> Prayer bpn13213 in Slovensky
@@ -137,6 +253,8 @@ Nástojčivo Ťa prosím, ó môj Pane, pri Tvojom Najväčšom mene, ktorým si
 (Bahaiprayers.net ID: 13213)
 
 
+
+
 ### <a id="bpn13214"></a> Prayer bpn13214 in Slovensky
 Všetka majestátnosť a sláva, ó môj Bože, a všetko panstvo a svetlo a veľkoleposť a nádhera buď Tebe. Udeľuješ vládu komu sa Ti zachce a odopieraš ju komu si zaželáš. Niet Boha okrem Teba, Vlastníka všetkého, Najvznešenejšieho. Ty si Ten, kto z ničoho tvorí vesmír a všetko, čo v ňom prebýva. Okrem Teba Samotného niet ničoho hodného Teba a všetci okrem Teba sú v Tvojej svätej prítomnosti vydedencami a ničím v porovnaní so slávou Tvojej vlastnej Bytosti.
 Je mi vzdialené, aby som chválorečil Tvojim cnostiam okrem toho, čomu si Ty Sám chválorečil vo Svojej závažnej knihe, v ktorej vravíš: “Žiaden zrak Ho nepojme, On však Svojím zrakom poníma všetko. On je Tajomný, všetko Vnímajúci.” Sláva buď Tebe, ó môj Bože. Vskutku žiadna myseľ a žiaden zrak, nech už sú akékoľvek prenikavé a bystré, nikdy nedokážu poňať povahu najbezvýznamnejších z Tvojich znamení. Vskutku, Ty si Boh, niet Boha okrem Teba. Dosvedčujem, že Ty Sám jediný si výhradným Prejavom Svojich prídomkov, že chvála nikoho než Teba nikdy nedokáže dosiahnuť Tvoj svätý dvor a nikto iný než Ty nikdy nedokáže pochopiť Tvoje prídomky.
@@ -144,6 +262,8 @@ Sláva buď Tebe. Si povznesený nad opis každého okrem Teba, lebo náležite 
 
 (Source category: Chvála a vďakyvzdanie)
 (Bahaiprayers.net ID: 13214)
+
+
 
 
 
@@ -157,6 +277,8 @@ Sláva buď Tebe. Si povznesený nad opis každého okrem Teba, lebo náležite 
 (Bahaiprayers.net ID: 13119)
 
 
+
+
 ### <a id="bpn13120"></a> Prayer bpn13120 in Slovensky
 Ó Ty láskavý Pane! Zošli nebeskú pomoc tejto dcére Kráľovstva a milostivo jej dopomôž, aby zostala pevná a neochvejná v Tvojej Veci a aby tak, ako spieva slávik v ružovej záhrade tajomstiev, aj ona mohla spievať v Abhá Kráľovstve melódie v prekrásnych tónoch, a tým každému prinášala šťastie.
 Medzi dcérami kráľovstva ju učiň vznešenou a umožni jej dosiahnuť večného života.
@@ -166,11 +288,15 @@ Ty si Darca, všetko Milujúci.
 (Bahaiprayers.net ID: 13120)
 
 
+
+
 ### <a id="bpn13121"></a> Prayer bpn13121 in Slovensky
 Ó Bože! Vychovávaj tieto dietky! Tieto dietky sú rastlinami v Tvojom sade, kvietím na Tvojej lúke, ružami v Tvojej záhrade. Nech na nich prší Tvoj dážď a Slnce skutočnosti nech na nich žiari Tvojou láskou. Nech ich osvieži Tvoj vánok, aby sa mohli vzdelávať, rásť, rozvíjať a ukázať sa v najväčšej kráse. Ty si Darca. Ty si Súcitný.
 
 (Source category: Deti)
 (Bahaiprayers.net ID: 13121)
+
+
 
 
 ### <a id="bpn13122"></a> Prayer bpn13122 in Slovensky
@@ -181,12 +307,16 @@ Ty si Štedrý, všetko Milujúci.
 (Bahaiprayers.net ID: 13122)
 
 
+
+
 ### <a id="bpn13123"></a> Prayer bpn13123 in Slovensky
 Ó Pane! Učiň tieto deti nádhernými rastlinami. Umožni im rásť a rozvíjať sa v záhrade Svojej zmluvy a udeľ im sviežosť a krásu prostredníctvom dažďa padajúceho z oblakov nadovšetko slávneho kráľovstva.
 Ó Ty láskavý Pane! Som malé dieťatko, povznes ma tým, že ma prijmeš do Kráľovstva. Som pozemské, učiň ma nebeským. Pochádzam zo sveta tu dole, daj, aby som patrilo do vyššej ríše. Som zachmúrené, daj, aby som sa rozžiarilo! Som hmotné, učiň ma duchovným a zaruč, aby som mohlo prejavovať Tvoju nekonečnú štedrosť. Ty si Mocný, všetko Milujúci.
 
 (Source category: Deti)
 (Bahaiprayers.net ID: 13123)
+
+
 
 
 ### <a id="bpn13124"></a> Prayer bpn13124 in Slovensky
@@ -196,11 +326,15 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 (Bahaiprayers.net ID: 13124)
 
 
+
+
 ### <a id="bpn13125"></a> Prayer bpn13125 in Slovensky
 Ó Bože, veď ma a ochraňuj ma. Urob ma žiariacou lampičkou a jasnou hviezdičkou. Ty si Mocný a Silný.
 
 (Source category: Deti)
 (Bahaiprayers.net ID: 13125)
+
+
 
 
 ### <a id="bpn13126"></a> Prayer bpn13126 in Slovensky
@@ -210,11 +344,15 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 (Bahaiprayers.net ID: 13126)
 
 
+
+
 ### <a id="bpn13127"></a> Prayer bpn13127 in Slovensky
 Ó neporovnateľný Pane! Buď útulkom tomuto slabému dieťaťu a láskavým a odpúšťajúcim Učiteľom tejto nešťastnej a mýliacej sa duši. Pane! Aj keď sme len bezcennými rastlinkami, predsa patríme do Tvojej ružovej záhrady. A aj keď sme len malými stromčekmi bez lístkov a kvetov, patríme do Tvojho sadu. Zalievaj teda túto rastlinku z oblakov Svojej nežnej milosti a ozdrav tento stromček oživujúcim dychom Svojej duchovnej jari. Pomôž mu stať sa pozorným, bystrým a vznešeným, umožni mu dosiahnuť večný život a dovoľ mu, aby navždy prebýval v Tvojom kráľovstve.
 
 (Source category: Deti)
 (Bahaiprayers.net ID: 13127)
+
+
 
 
 ### <a id="bpn13128"></a> Prayer bpn13128 in Slovensky
@@ -225,6 +363,8 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 (Bahaiprayers.net ID: 13128)
 
 
+
+
 ### <a id="bpn13129"></a> Prayer bpn13129 in Slovensky
 Ó Pane! Som dieťa, umožni mi, aby som rástlo v tôni Tvojej milujúcej láskavosti. Som nežná rastlinka, daj, aby ma živili spŕšky oblakov Tvojej štedrosti. Som malý stromček v záhrade lásky, učiň ma stromom rodiacim ovocie. Ty si Silný a Mocný a Ty si Všemilujúci, Vševediaci, Vševidiaci.
 
@@ -232,11 +372,15 @@ On je Boh! Ó Bože, môj Bože! Udeľ mi srdce čisté sťa perla.
 (Bahaiprayers.net ID: 13129)
 
 
+
+
 ### <a id="bpn13130"></a> Prayer bpn13130 in Slovensky
 Ó Ty najslávnejší Pane! Učiň túto Svoju malú služobníčku požehnanou a šťastnou. Daj, aby bola starostlivo opatrovaná na prahu Tvojej jedinosti, a dovoľ, aby sa zhlboka napila z pohára Tvojej lásky, aby ju mohlo naplniť nadšenie a radosť a aby mohla šíriť ľúbeznú vôňu. Ty si Mocný a Silný a Ty si Vševediaci a Vševidiaci.
 
 (Source category: Deti)
 (Bahaiprayers.net ID: 13130)
+
+
 
 
 
@@ -280,6 +424,8 @@ Dosvedčujem, ó môj Bože, to, čo dosvedčili Tvoji vyvolení, a uznávam to,
 
 
 
+
+
 ## Duchovné rady
 
 ### <a id="bpn13242"></a> Prayer bpn13242 in Slovensky
@@ -291,6 +437,8 @@ Dosvedčujem, ó môj Bože, to, čo dosvedčili Tvoji vyvolení, a uznávam to,
 (Bahaiprayers.net ID: 13242)
 
 
+
+
 ### <a id="bpn13243"></a> Prayer bpn13243 in Slovensky
 *Táto modlitba sa číta na záver stretnutia duchovnej rady.
 Ó Bože, môj Bože! Z neviditeľného kráľovstva Svojej jedinosti pohliadni na nás, zhromaždených na tomto duchovnom stretnutí, v Teba veriacich, spoliehajúcich sa na Tvoje znamenia, verných Tvojej Zmluve a Záveti, k Tebe vábených, k Tebe sa obracajúcich, planúcich ohňom Tvojej lásky a úprimných v Tvojej Veci. Sme služobníkmi v Tvojej vinici a šíriteľmi Tvojho náboženstva. Oddane uctievame Tvoju tvár, sme pokorní pred Tvojimi milovanými, poslušní pred Tvojou bránou a úpenlivo Ťa prosíme, aby si nás uistil v službe Svojim vyvoleným, pomáhal nám Svojimi neviditeľnými zástupmi, posilnil nám bedrá v službe a učinil nás poddajnými a milujúcimi služobníkmi, ktorí Ťa uctievajú a k Tebe sa obracajú.
@@ -300,6 +448,8 @@ Vskutku, Ty si Štedrý, Milosrdný. Ty si Vlastníkom veľkej štedrosti a vsku
 
 (Source category: Duchovné rady)
 (Bahaiprayers.net ID: 13243)
+
+
 
 
 
@@ -315,6 +465,8 @@ Vskutku, Ty si Živiteľ, Pomocník, Štedrý, darmi Oplývajúci, vždy Dávaj�
 
 
 
+
+
 ## Jednota
 
 ### <a id="bpn13230"></a> Prayer bpn13230 in Slovensky
@@ -322,6 +474,8 @@ Vskutku, Ty si Živiteľ, Pomocník, Štedrý, darmi Oplývajúci, vždy Dávaj�
 
 (Source category: Jednota)
 (Bahaiprayers.net ID: 13230)
+
+
 
 
 ### <a id="bpn13231"></a> Prayer bpn13231 in Slovensky
@@ -337,6 +491,8 @@ Vskutku, Ty si Všemohúci, skrze Seba Jestvujúci, Darca, Odpúšťajúci, Vše
 
 
 
+
+
 ## Krátka povinná modlitba
 
 ### <a id="bpn9988"></a> Prayer bpn9988 in Slovensky
@@ -345,6 +501,8 @@ Niet iného Boha okrem Teba, Pomocníka v nebezpečí, Sebedostačujúceho.
 
 (Source category: Krátka povinná modlitba)
 (Bahaiprayers.net ID: 9988)
+
+
 
 
 
@@ -361,6 +519,8 @@ Vskutku, Ty si Drahocenný, vždy Obdarujúci, Ty si Otvorená dlaň.
 
 
 
+
+
 ## Manželstvo
 
 ### <a id="bpn13195"></a> Prayer bpn13195 in Slovensky
@@ -373,6 +533,8 @@ A keď zatúžil prejaviť ľuďom Svoju milosť a láskavosť a nastoliť vo sv
 (Bahaiprayers.net ID: 13195)
 
 
+
+
 ### <a id="bpn13196"></a> Prayer bpn13196 in Slovensky
 *„Bahájske manželstvo je zväzkom a úprimnou láskou dvoch strán. Musia však čo najstarostlivejšie spoznať charakter jeden druhého.  Toto večné puto by mala zaistiť pevná zmluva a zmyslom by malo byť posilnenie súladu, priateľstva a jednoty a dosiahnutie večného života.”
 
@@ -383,6 +545,8 @@ Ako je určené v Najsvätejšej knihe (Kitáb-i-aqdas), ženích a nevesta jedn
 (Bahaiprayers.net ID: 13196)
 
 
+
+
 ### <a id="bpn13197"></a> Prayer bpn13197 in Slovensky
 On je Boh! Ó nedosiahnuteľný Pane! Vo Svojej všemohúcej múdrosti si ľuďom uložil vstupovať do zväzku manželského, aby tak v tomto pominuteľnom svete mohlo nasledovať jedno pokolenie za druhým a aby, dokiaľ bude svet svetom, mohli všetci na prahu Tvojej jedinosti slúžiť a ponoriť sa do uctievania, oslavy, blahorečenia a chvály. „A duchov a ľudí som jedine preto stvoril, aby Ma uctievali.“ Zosobáš teda v nebi Svojho milosrdenstva tieto dve vtáčatá z hniezda Svojej lásky, daj nech privolávajú Tvoju večnú milosť, aby zo zväzku týchto dvoch morí povstala vlna nežnosti a vyniesla na breh života čisté a drahocenné perly. „A voľne dal tiecť obidvom moriam, ktoré sa raz stretnú, avšak medzi nimi prekážka stojí, ktorú nezdolajú. Ktorú zo štedrostí svojho Pána môžete poprieť? A z obidvoch morí sa perly veľké aj malé lovia.“
 Ó láskavý Pane! Daj, aby toto manželstvo rodilo koraly a perly. Ty si, vskutku, Najmocnejší, Najväčší, vždy Odpúšťajúci.
@@ -391,11 +555,15 @@ On je Boh! Ó nedosiahnuteľný Pane! Vo Svojej všemohúcej múdrosti si ľuďo
 (Bahaiprayers.net ID: 13197)
 
 
+
+
 ### <a id="bpn13198"></a> Prayer bpn13198 in Slovensky
 Sláva buď Tebe, ó môj Bože! Vskutku, tento Tvoj služobník a táto Tvoja služobníčka sa zišli v tôni Tvojho milosrdenstva a zjednotila ich Tvoja priazeň a veľkorysosť. Ó Pane! Pomáhaj im na tomto svete a v Tvojom kráľovstve a Svojou štedrosťou a milosťou im predurči všetko dobro. Ó Pane! Utvrď ich v slúžení Tebe a pomáhaj im v Tvojej službe. Dovoľ im stať sa znameniami Tvojho mena na Tvojom svete a ochraňuj ich Svojimi podarúnkami, ktoré sú na tomto svete i vo svete budúcom nevyčerpateľné. Ó Pane! Naliehavo prosia kráľovstvo Tvojej milosrdnosti a vzývajú ríšu Tvojej jedinosti. Vskutku, sú zosobášení uposlúchnuc Tvoj príkaz. Daj, aby sa stali znameniami súladu a jednoty na večné veky. Vskutku, Ti si Všemocný, Všadeprítomný a nadovšetko Mocný!
 
 (Source category: Manželstvo)
 (Bahaiprayers.net ID: 13198)
+
+
 
 
 ### <a id="bpn13199"></a> Prayer bpn13199 in Slovensky
@@ -407,6 +575,8 @@ Vskutku, Ty si Veľkorysý. Vskutku, Ty si Milostivý, nadovšetko Milosrdný.
 
 
 
+
+
 ## Mládež
 
 ### <a id="bpn13233"></a> Prayer bpn13233 in Slovensky
@@ -414,6 +584,8 @@ Vskutku, Ty si Veľkorysý. Vskutku, Ty si Milostivý, nadovšetko Milosrdný.
 
 (Source category: Mládež)
 (Bahaiprayers.net ID: 13233)
+
+
 
 
 
@@ -443,6 +615,8 @@ Z nebies prehovoru Toho, kto je Túžbou sveta, bolo zoslané to, čo vedie k ob
 
 
 
+
+
 ## Narodenie Bahá’u’lláha
 
 ### <a id="bpn13248"></a> Prayer bpn13248 in Slovensky
@@ -460,6 +634,8 @@ Tak sa spŕšky prehovoru zniesli z nebies vôle tvojho Pána, nadovšetko Milos
 (Bahaiprayers.net ID: 13248)
 
 
+
+
 ### <a id="bpn13249"></a> Prayer bpn13249 in Slovensky
 *On je Najsvätejší, Najväčší.
 
@@ -470,6 +646,8 @@ Keď dostaneš túto tabuľku, odriekaj ju najľúbeznejším nápevom a riekni:
 
 (Source category: Narodenie Bahá’u’lláha)
 (Bahaiprayers.net ID: 13249)
+
+
 
 
 
@@ -492,6 +670,8 @@ Na to ohromené Pero Najvyššieho zvolalo: „Ó Ty, ktorý si povznesený nad 
 
 
 
+
+
 ## Nastávajúce matky
 
 ### <a id="bpn13232"></a> Prayer bpn13232 in Slovensky
@@ -501,6 +681,8 @@ Vskutku, Ty si Milostivý. Vskutku, Ty si Pán veľkej priazne.
 
 (Source category: Nastávajúce matky)
 (Bahaiprayers.net ID: 13232)
+
+
 
 
 
@@ -515,6 +697,8 @@ Ty si, vskutku, Vševediaci, nadovšetko Múdry.
 
 (Source category: Naw rúz)
 (Bahaiprayers.net ID: 13241)
+
+
 
 
 ### <a id="bpn13247"></a> Prayer bpn13247 in Slovensky
@@ -540,6 +724,8 @@ Ty si, vskutku, nadovšetko Mocný, Najvyšší, nadovšetko Slávny, všetko si
 
 
 
+
+
 ## Odpustenie
 
 ### <a id="bpn13166"></a> Prayer bpn13166 in Slovensky
@@ -551,6 +737,8 @@ Som hriešnik a Ty, ó môj Pane, si vždy Odpúšťajúci. Hneď ako som Ťa ro
 (Bahaiprayers.net ID: 13166)
 
 
+
+
 ### <a id="bpn13167"></a> Prayer bpn13167 in Slovensky
 Som ten, ó môj Pane, ktorý k Tebe obrátil tvár a upriamil svoju nádej na zázraky Tvojej milosti a zjavenia Tvojej štedrosti. Modlím sa k Tebe, nedopusť, aby som sa sklamaný odvracal od dverí Tvojej milosti, a nenechávaj ma prosím napospas tým, ktorí zavrhli Tvoju vec.
 Som, ó môj Bože, Tvoj služobník a syn Tvojho služobníka. Rozpoznal som Tvoju pravdu v Tvojich dňoch a namieril svoje kroky k brehom Tvojej jedinosti, doznávam Tvoju jedinečnosť, potvrdzujem Tvoju jednotu a dúfam v Tvoje odpustenie a prepáčenie. Máš moc konať čokoľvek sa Ti zapáči. Niet iného Boha okrem Teba, nadovšetko Slávneho, vždy Odpúšťajúceho.
@@ -559,11 +747,15 @@ Som, ó môj Bože, Tvoj služobník a syn Tvojho služobníka. Rozpoznal som Tv
 (Bahaiprayers.net ID: 13167)
 
 
+
+
 ### <a id="bpn13168"></a> Prayer bpn13168 in Slovensky
 Vidíš ma, ó môj Pane, ako som tvár obrátil k nebesiam Tvojho požehnania a oceánu Tvojej priazne a zanechal som všetko ostatné okrem Teba. Žiadam Ťa pri nádhere Slnca Tvojho zjavenia na Sinaji a pri žiare Hviezdy Tvojej milosti, ktorá žiari nad obzorom Tvojho mena, vždy Odpúšťajúci, aby si mi udelil Svoje odpustenie a aby si sa nado mnou zľutoval. Napíš teda pre mňa Svojím Perom slávy to, čo ma vo svete stvorenia skrze Tvoje Meno povznesie. Pomôž mi, ó môj Pane, aby som sa na Teba upriamil a aby som načúval hlasu Tvojich milovaných, ktorých nedokázali oslabiť mocnosti zeme a ktorých nadvláda národov nebola schopná zadržať pred Tebou a ktorí, smerujúc k Tebe, riekli: ,Boh je náš Pán, Pán všetkých, ktorí sú v nebesiach, a všetkých, ktorí sú na zemi!‘
 
 (Source category: Odpustenie)
 (Bahaiprayers.net ID: 13168)
+
+
 
 
 ### <a id="bpn13169"></a> Prayer bpn13169 in Slovensky
@@ -576,6 +768,8 @@ Ty si Ten, ktorého moc siaha od nepamäti a trvá navždy. Nič neunikne Tvojmu
 (Bahaiprayers.net ID: 13169)
 
 
+
+
 ### <a id="bpn13170"></a> Prayer bpn13170 in Slovensky
 Chválorečené buď Tvoje meno, ó môj Bože a Boh všetkého, moja Sláva a Sláva všetkého, moja Túžba a Túžba všetkého, moja Sila a Sila všetkého, môj Kráľu a Kráľ všetkého, môj Vlastník a Vlastník všetkého, môj Zámer a Zámer všetkého, môj Hýbateľ a Hýbateľ všetkého! Úpenlivo Ťa žiadam, aby som nebol zadržiavaný od oceánu Tvojho nežného milosrdenstva a aby som tiež nebol oddialený od brehov blízkosti k Tebe.
 Nič iné okrem Teba, ó môj Pane, mi neprospieva a blízky prístup k hocikomu okrem Teba mi nič neprináša. Nástojčivo Ťa prosím pri hojnosti Tvojich pokladov, vďaka ktorým si sa zaobišiel bez všetkého okrem Seba, aby si ma započítal medzi tých, ktorí k Tebe nasmerovali tvár a povstali, aby Ti slúžili.
@@ -583,6 +777,8 @@ Odpusť teda, ó môj Pane, Svojim služobníkom a Svojim služobníčkam. Ty si
 
 (Source category: Odpustenie)
 (Bahaiprayers.net ID: 13170)
+
+
 
 
 ### <a id="bpn13171"></a> Prayer bpn13171 in Slovensky
@@ -599,11 +795,15 @@ Chvála Tebe, ó Pane! Odpusť nám naše hriechy, zmiluj sa nad nami a umožni 
 (Bahaiprayers.net ID: 13171)
 
 
+
+
 ### <a id="bpn13172"></a> Prayer bpn13172 in Slovensky
 Ponížene Ťa prosím, ó môj Pane, odpusť mi každú zmienku, ktorá nie je zmienkou o Tebe, a každú chválu, ktorá nie je chválou Teba, a každé šťastie, ktoré nie je šťastím z Tvojej blízkosti, a každé potešenie, ktoré nie je potešením z dôverného vzťahu s Tebou, a každú radosť, ktorá nie je radosťou z Tvojej lásky a Tvojej spokojnosti, a odpusť mi všetko, čo mi prináleží, ale nemá žiadnu spojitosť s Tebou, ó Ty, ktorý si Pánom pánov, Ty, ktorý poskytuješ prostriedky a odomykáš dvere.
 
 (Source category: Odpustenie)
 (Bahaiprayers.net ID: 13172)
+
+
 
 
 ### <a id="bpn13173"></a> Prayer bpn13173 in Slovensky
@@ -615,6 +815,8 @@ Oslávený si, ó Pane! Vždy odpúšťaš hriechy tým Svojim služobníkom, kt
 (Bahaiprayers.net ID: 13173)
 
 
+
+
 ### <a id="bpn13174"></a> Prayer bpn13174 in Slovensky
 Uvedomujem si, ó Pane, že moje prehrešky v Tvojej prítomnosti zastreli moju tvár hanbou a uložili mi pred Tebou bremä na chrbát, postavili sa medzi mňa a Tvoj prekrásny obličaj, z každej strany ma obkľúčili a vo všetkých smeroch mi zabránili dostať sa k zjaveniu Tvojej nebeskej moci.
 Ó Pane! Ak mi neodpustíš Ty, kto teda udelí prepáčenie, a ak Ty so mnou nebudeš mať zľutovanie, kto môže prejaviť súcit? Sláva buď Tebe! Keď som nejestvoval, stvoril si ma a kým som nemal nijakého poňatia, Ty si ma živil.
@@ -622,6 +824,8 @@ Chvála buď Tebe! Každý dôkaz štedrosti pochádza od Teba a každé znameni
 
 (Source category: Odpustenie)
 (Bahaiprayers.net ID: 13174)
+
+
 
 
 
@@ -636,6 +840,8 @@ Oslávené buď Tvoje meno, ó Ty, kto si Kráľ všetkých kráľov!
 (Bahaiprayers.net ID: 13143)
 
 
+
+
 ### <a id="bpn13144"></a> Prayer bpn13144 in Slovensky
 Oslávený si Ty, ó môj Bože! Vzdávam Ti vďaku za to, že si mi dal spoznať Toho, kto je Dennicou Tvojho milosrdenstva, Miestom rozbresku Tvojej milosti a Pokladnicou Tvojej veci. Úpenlivo Ťa prosím pri Tvojom mene, prostredníctvom ktorého obeleli tváre tých, ktorí sú Ti nablízku, a srdcia tých, ktorí sú Ti oddaní, sa vzniesli na krídlach k Tebe, daj, aby som sa vždy a za všetkých okolností držal Tvojho lana, zbavil sa všetkého pripútania ku každému okrem Teba, aby som nespúšťal zrak z obzoru Tvojho zjavenia a aby som konal to, čo si mi predpísal vo Svojich tabuľkách.
 Odej, ó môj Pane, moju vnútornú i vonkajšiu bytosť do plášťa Svojej priazne a Svojej láskyplnosti. Uchovaj ma v bezpečí pred všetkým, čo Ti protiví. Milostivo pomôž mne i mojim blízkym poslúchať Ťa a zbaviť sa všetkého, čo by vo mne mohlo vyvolať hriešne a zvrátené túžby.
@@ -645,6 +851,8 @@ Ty si vskutku Pán celého ľudstva a Vlastník tohto sveta i sveta ďalšieho. 
 (Bahaiprayers.net ID: 13144)
 
 
+
+
 ### <a id="bpn13145"></a> Prayer bpn13145 in Slovensky
 Velebené buď Tvoje meno, ó môj Bože! Nástojčivo Ťa prosím pri vôni plášťa Tvojej milosti, ktorá bola na Tvoj príkaz a podľa Tvojho želania rozptýlená po celom stvorení a pri dennici Tvojej vôle, ktorá jasne zažiarila silou Tvojej moci a Tvojej zvrchovanosti nad obzorom Tvojej milosti, aby si z môjho srdca vymazal všetky plané výmysly a márne predstavy, aby som sa mohol s celou svojou ľúbosťou obrátiť k Tebe, ó Ty Pane celého ľudstva!
 Som Tvoj služobník a syn Tvojho služobníka, ó môj Bože! Uchopil som kľučku Tvojej milosti a priľnul som k lanu Tvojej nežnej milosti. Urči mi Svoje dobro a počastuj ma zo stola, ktorý si zoslal z oblakov Svojej štedrosti a z nebies Svojej priazne.
@@ -652,6 +860,8 @@ Ty si, v pravde pravdúcej, Pán svetov a Boh všetkých, ktorí sú v nebesách
 
 (Source category: Odpútanosť)
 (Bahaiprayers.net ID: 13145)
+
+
 
 
 ### <a id="bpn13146"></a> Prayer bpn13146 in Slovensky
@@ -664,6 +874,8 @@ Tvoja moc, vskutku, sa rovná všetkým veciam.
 (Bahaiprayers.net ID: 13146)
 
 
+
+
 ### <a id="bpn13147"></a> Prayer bpn13147 in Slovensky
 Neviem, ó môj Bože, aký to Oheň si roznietil vo Svojej krajine. Zem nikdy nemôže zatieniť jeho žiaru ani voda uhasiť jeho plameň. Žiaden z národov sveta nemá moc postaviť sa proti jeho sile. Veľké je požehnanie toho, kto sa k nemu priblížil a začul jeho volanie.
 Niektorým si, ó môj Bože, silou Svojej posilňujúcej milosti umožnil, aby k nemu pristúpili, zatiaľ čo iných si zadržal za to, čo ich ruky učinili v Tvojich dňoch. Ten, kto sa k nemu poponáhľal a dosiahol ho, odovzdal na Tvojej ceste život s túžbou pohliadnuť na Tvoju krásu, a pristúpil k Tebe úplne odpútaný od všetkého okrem Teba.
@@ -672,6 +884,8 @@ Máš moc učiniť čokoľvek sa Ti zapáči. Ty si, vskutku, nadovšetko Mocný
 
 (Source category: Odpútanosť)
 (Bahaiprayers.net ID: 13147)
+
+
 
 
 ### <a id="bpn13148"></a> Prayer bpn13148 in Slovensky
@@ -685,6 +899,8 @@ Niet iného Boha okrem Teba, nadovšetko Mocného, Blahodarného.
 (Bahaiprayers.net ID: 13148)
 
 
+
+
 ### <a id="bpn13149"></a> Prayer bpn13149 in Slovensky
 V mene tvojho Pána, Stvoriteľa, Vladára, nadovšetko Postačujúceho, Najvznešenejšieho, Toho, koho všetci ľudia žiadajú o pomoc.
 Vrav: Ó môj Bože! Ó Ty, kto si Tvorca nebies i zeme, ó Pane kráľovstva! Ty dobre poznáš tajomstvá môjho srdca, no Tvoja Bytosť je nepreniknuteľná pre všetkých okrem Teba. Ty vidíš všetko, čo sa ma týka, no nik iný okrem Teba to nedokáže. Udeľ mi svojou milosťou to, čo mi umožní zaobísť sa bez všetkého okrem Teba, a predurči mi to, vďaka čomu sa stanem nezávislým od každého okrem Teba. Zaruč, aby som mohol žať plody svojho života v tomto i v budúcom svete. Otvor pred mojou tvárou portály Svojej milosti a milostivo mi prideľ Svoje nežné milosrdenstvo a podarúnky.
@@ -693,6 +909,8 @@ Udeľ Svoje požehnanie, ó môj Pane, Poslom, svätým a spravodlivým. Vskutku
 
 (Source category: Odpútanosť)
 (Bahaiprayers.net ID: 13149)
+
+
 
 
 ### <a id="bpn13150"></a> Prayer bpn13150 in Slovensky
@@ -706,11 +924,15 @@ Tebe náleží absolútna právomoc prikazovať.
 (Bahaiprayers.net ID: 13150)
 
 
+
+
 ### <a id="bpn13151"></a> Prayer bpn13151 in Slovensky
 Vrav: Boh postačuje všetkému a nadovšetko a nič v nebi ani na zemi okrem Boha nepostačuje. Vskutku, On sám v Sebe je Vediaci, Zachovávajúci, Všemohúci.
 
 (Source category: Odpútanosť)
 (Bahaiprayers.net ID: 13151)
+
+
 
 
 ### <a id="bpn13152"></a> Prayer bpn13152 in Slovensky
@@ -723,6 +945,8 @@ Ty si Všemohúci, nadovšetko Slávny a Najmocnejší.
 (Bahaiprayers.net ID: 13152)
 
 
+
+
 ### <a id="bpn13153"></a> Prayer bpn13153 in Slovensky
 Ó Bože, môj Bože! Naplň pre mňa pohár odpútanosti od všetkých vecí a v záplave Svojej žiary a darov ma rozveseľ vínom lásky k Tebe. Osloboď ma od útokov vášne a túžob, prelom vo mne putá tohto pozemského sveta, priveď ma v duchovnom vytržení do Svojej nebeskej ríše a medzi Svojimi služobníčkami ma osviež vánkom Svojej svätosti.
 Ó Pane, rozjasni mi tvár svetlom Svojich darov a osvetli mi oči pohľadom na znamenia Tvojej všetko si podrobujúcej moci. Poteš mi srdce slávou Svojho poznania, ktoré zahŕňa všetky veci, a obšťastni mi dušu Svojimi oživujúcimi zvesťami radosti, ó Ty, ktorý si Kráľom tohto sveta i kráľovstva na výsostiach, ó Ty, Pane vlády i moci, aby som mohla zvestovať Tvoje posolstvo a znamenia, hlásať Tvoju vec, šíriť Tvoje učenie, slúžiť Tvojmu zákonu a velebiť Tvoje slovo.
@@ -730,6 +954,8 @@ Ty si, vskutku, Silný, vždy Dávajúci, Schopný, Všemohúci.
 
 (Source category: Odpútanosť)
 (Bahaiprayers.net ID: 13153)
+
+
 
 
 
@@ -745,6 +971,8 @@ Niet iného Boha okrem Teba, nadovšetko Mocného, nadovšetko Múdreho.
 (Bahaiprayers.net ID: 13161)
 
 
+
+
 ### <a id="bpn13162"></a> Prayer bpn13162 in Slovensky
 On je Mocný, Odpúšťajúci, Zhovievavý!
 Ó Bože, môj Bože! Vidíš Svojich služobníkov v priepasti zatratenia a hriechu. Kde je Tvoje svetlo božského vedenia, ó Túžba sveta? Poznáš ich bezmocnosť a slabosť. Kde je Tvoja sila, ó Ty, v ktorého moci sa nachádzajú mocnosti pozemské i nebeské?
@@ -756,6 +984,8 @@ Zo Svojej štedrosti pre mňa urči, ó Pane, čo mi prinesie prospech v tomto i
 (Bahaiprayers.net ID: 13162)
 
 
+
+
 ### <a id="bpn9994"></a> Prayer bpn9994 in Slovensky
 Ty láskavý Pane! Zošli nebeskú pomoc tejto dcére Kráľovstva a milostivo jej dopomôž, aby zostala pevná a neochvejná v Tvojej Veci a aby tak, ako spieva slávik v ružovej záhrade tajomstiev, aj ona mohla spievať v Abhá Kráľovstve melódie v prekrásnych tónoch, a tým každému prinášala šťastie.
 Medzi dcérami kráľovstva ju učiň vznešenou a umožni jej dosiahnuť večného života.
@@ -763,6 +993,8 @@ Ty si Darca, všetko Milujúci.
 
 (Source category: Pevnosť v Zmluve)
 (Bahaiprayers.net ID: 9994)
+
+
 
 
 ### <a id="bpn13163"></a> Prayer bpn13163 in Slovensky
@@ -774,6 +1006,8 @@ Ty si Odpúšťajúci, Láskavý.
 (Bahaiprayers.net ID: 13163)
 
 
+
+
 ### <a id="bpn13164"></a> Prayer bpn13164 in Slovensky
 Ó zhovievavý Bože! Ďakujem Ti, že si ma prebudil a učinil ma vedomým. Dal si mi vidiace oko a obdaril si ma počujúcim uchom. Uviedol si ma do Svojho kráľovstva a naviedol si ma na Svoju cestu. Ukázal si mi správny smer a dal si mi vstúpiť na Archu vykúpenia. Ó Bože! Daj, nech zostanem neochvejný, a učiň ma pevným a silným. Ochraňuj ma pred krutými skúškami a ukry ma v silne opevnenej pevnosti Svojej Zmluvy a Závetu. Ty si Mocný, Ty si Vidiaci. Ty si Počujúci.
 Ó Ty súcitný Bože! Daruj mi srdce, ktoré môže byť ako sklo zaliate žiarou svetla Tvojej lásky, a vnukni mi myšlienky, ktoré môžu prúdmi nebeskej milosti zmeniť tento svet v ružovú záhradu.
@@ -783,12 +1017,16 @@ Ty si Súcitný, Milosrdný. Ty si Veľký, Blahodárny Boh.
 (Bahaiprayers.net ID: 13164)
 
 
+
+
 ### <a id="bpn13165"></a> Prayer bpn13165 in Slovensky
 Ó môj Pane a moja Nádej! Pomôž Svojim milovaným, aby boli vytrvalí v Tvojej mocnej Zmluve, aby zostali verní Tvojej zjavenej veci a aby vykonávali to, čo si im prikázal vo Svojej knihe krás, aby sa tým mohli stať zástavami vedenia a lampami Zhromaždenia na výšinách, studňami Tvojej nekonečnej múdrosti a hviezdami, ktoré tým, ako žiaria z nebeskej oblohy, ukazujú správnu cestu.
 Vskutku si Nepremožiteľný, Všemocný, Najmocnejší.
 
 (Source category: Pevnosť v Zmluve)
 (Bahaiprayers.net ID: 13165)
+
+
 
 
 
@@ -803,6 +1041,8 @@ Vskutku si Nepremožiteľný, Všemocný, Najmocnejší.
 
 
 
+
+
 ## Pomoc a podpora
 
 ### <a id="bpn9992"></a> Prayer bpn9992 in Slovensky
@@ -810,6 +1050,8 @@ Vskutku si Nepremožiteľný, Všemocný, Najmocnejší.
 
 (Source category: Pomoc a podpora)
 (Bahaiprayers.net ID: 9992)
+
+
 
 
 ### <a id="bpn13112"></a> Prayer bpn13112 in Slovensky
@@ -820,6 +1062,8 @@ Ty si skutočne Kráľ všetkých ľudí. Niet Boha okrem Teba, vždy Odpúšťa
 (Bahaiprayers.net ID: 13112)
 
 
+
+
 ### <a id="bpn13113"></a> Prayer bpn13113 in Slovensky
 Môj Bože, môj Zbožňovaný, môj Kráľ, moja Túžba! Ktorýže jazyk sa Ti dokáže poďakovať? Bol som nedbalý, Ty si ma zobudil. Odvrátil som sa od Teba, milostivo si mi pomohol, aby som sa obrátil k Tebe. Bol som sťa mŕtvy, oživil si ma vodou života. Uvädol som, vzkriesil si ma nebeským prúdom Svojho prehovoru, ktorý plynie z Pera nadovšetko Milosrdného.
 Ó Božská prozreteľnosť! Tvoja štedrosť splodila všetko jestvujúce. Neochudobni ho o vody Svojej veľkorysosti a ani mu neodmietni oceán Svojho milosrdenstva. Úpenlivo Ťa prosím, aby si mi vždy a za každých okolností pomáhal, a z neba Tvojej milosti vyhľadávam Tvoju pradávnu priazeň. Ty si, v pravde, Pán štedrosti a Vladár kráľovstva večnosti.
@@ -827,6 +1071,8 @@ Môj Bože, môj Zbožňovaný, môj Kráľ, moja Túžba! Ktorýže jazyk sa Ti
 
 (Source category: Pomoc a podpora)
 (Bahaiprayers.net ID: 13113)
+
+
 
 
 ### <a id="bpn13114"></a> Prayer bpn13114 in Slovensky
@@ -840,6 +1086,8 @@ Povedz: Boh je, vskutku, Stvoriteľom všetkých vecí. Dáva hojnú podporu kom
 (Bahaiprayers.net ID: 13114)
 
 
+
+
 ### <a id="bpn13115"></a> Prayer bpn13115 in Slovensky
 Ó môj Bože a môj Pane! Odpútal som sa od svojich blížnych a skrze Teba som sa snažil stať nezávislým od všetkých, ktorí prebývajú na zemi i v nebi a vždy pripraveným prijať to, čo je v Tvojich očiach chvályhodné. Obdaruj ma takým dobrom, ktoré mi umožní stať sa úplne nezávislým od všetkého okrem Teba a zaruč mi bohatý prídel Svojej bezhraničnej priazne. Vskutku, Ty si Pán hojnej milosti.
 
@@ -847,11 +1095,15 @@ Povedz: Boh je, vskutku, Stvoriteľom všetkých vecí. Dáva hojnú podporu kom
 (Bahaiprayers.net ID: 13115)
 
 
+
+
 ### <a id="bpn9991"></a> Prayer bpn9991 in Slovensky
 Ó Bože! Osviež a poteš mi ducha! Očisti mi srdce! Daj zažiariť mojim schopnostiam! Do Tvojej ruky vkladám všetky svoje záležitosti. Ty si mi Vodca a Útočisko. Už viac nebudem žialiť a smútiť, budem šťastnou a veselou bytosťou. Ó Bože! Už nebudem naplnený úzkosťou ani sa nenechám skľučovať strasťami. Nebudem ľpieť na nepríjemnostiach života. Ó Bože! Ty si mi lepším priateľom ako ja sám sebe. Oddávam sa Ti, ó Pane!
 
 (Source category: Pomoc a podpora)
 (Bahaiprayers.net ID: 9991)
+
+
 
 
 ### <a id="bpn13116"></a> Prayer bpn13116 in Slovensky
@@ -862,12 +1114,16 @@ Ty si Všemocný, Milujúci a Živiteľ celého ľudstva.
 (Bahaiprayers.net ID: 13116)
 
 
+
+
 ### <a id="bpn13117"></a> Prayer bpn13117 in Slovensky
 Ó Ty láskavý Pane! Sme služobníci Tvojho prahu a utiekame sa do bezpečia pri Tvojich svätých dverciach. Nehľadáme iné útočisko než tento silný pilier. Záštitu nevyhľadávame nikde inde ako pod Tvojou ochranou. Ochraňuj nás, požehnaj nás, podporuj nás. Daj, aby sme milovali len Tvoju vôľu, vyslovovali len Tvoju chválu, kráčali len po chodníku pravdy, aby sme zbohatli natoľko, že sa zbavíme všetkého okrem Teba, aby sme dostali svoje dary z mora Tvojho dobrodenia, aby sme vždy velebili Tvoju vec a doširoka-doďaleka rozširovali Tvoje ľúbezné vône, aby sme zabudli na samých seba a zaoberali sa len Tebou, aby sme sa všetkého vzdali a nechali sa Tebou uniesť.
 Ó Ty Poskytovateľ, ó Ty Odpúšťajúci! Udeľ nám Svoju milosť a láskyplnosť, Svoje dary a podarúnky a napomáhaj nám, aby sme dosiahli svoj cieľ. Ty si Silný, Schopný, Vediaci, Vidiaci, a si vskutku Štedrý a vskutku si nadovšetko Milosrdný a Ty si vskutku vždy Odpúšťajúci, Ten, komu sa vzdáva pokánie, Ten, kto odpúšťa i tie najťažšie hriechy.
 
 (Source category: Pomoc a podpora)
 (Bahaiprayers.net ID: 13117)
+
+
 
 
 ### <a id="bpn13118"></a> Prayer bpn13118 in Slovensky
@@ -877,6 +1133,8 @@ Ty si vskutku Jeden, Jediný, Silný, Vševediaci, Premúdry.
 
 (Source category: Pomoc a podpora)
 (Bahaiprayers.net ID: 13118)
+
+
 
 
 
@@ -894,6 +1152,8 @@ Ty si, vskutku, Všemocný, Vševediaci, všetko Poznajúci.
 
 
 
+
+
 ## Pôst
 
 ### <a id="bpn13234"></a> Prayer bpn13234 in Slovensky
@@ -904,11 +1164,15 @@ Pomôž im, ó môj Bože, aby Ťa učinili víťazným a velebili Tvoje Slovo. 
 (Bahaiprayers.net ID: 13234)
 
 
+
+
 ### <a id="bpn13235"></a> Prayer bpn13235 in Slovensky
 V mene Toho, kto bol prisľúbený v Knihách Boha, Vševediaceho, so všetkým Oboznámeného! Nadišli dni, počas ktorých sa postili tí služobníci, ktorí krúžia okolo Tvojho trónu a ktorí dospeli do Tvojej prítomnosti. Vrav: Ó Bože mien a Tvorca nebies i zeme! Prosím Ťa pri Tvojom mene, nadovšetko Slávny, aby si prijal pôst tých, ktorí sa postili z lásky k Tebe a kvôli Tvojej vôli a vykonávali to, čo si im prikázal vo Svojich knihách a tabuľkách. Úpenlivo Ťa pri nich prosím, aby si mi pomáhal pri rozširovaní Tvojej veci a aby si ma učinil vytrvalým vo Svojej láske, aby sa mi kroky nepošmykli kvôli vrave Tvojich tvorov. Vskutku máš moc nad všetkým, čo chceš. Niet Boha okrem Teba, Oživovateľa, nadovšetko Mocného, Najštedrejšieho, Pradávneho z dní.
 
 (Source category: Pôst)
 (Bahaiprayers.net ID: 13235)
+
+
 
 
 ### <a id="bpn13236"></a> Prayer bpn13236 in Slovensky
@@ -931,6 +1195,8 @@ V mene Toho, kto bol prisľúbený v Knihách Boha, Vševediaceho, so všetkým 
 (Bahaiprayers.net ID: 13236)
 
 
+
+
 ### <a id="bpn13237"></a> Prayer bpn13237 in Slovensky
 Chvála buď Tebe, ó Pane môj Bože! Úpenlivo Ťa prosím pri tomto Zjavení, ktoré zmenilo tmu v svetlo, ktorým bol vystavaný Navštevovaný Chrám, Spísaná Tabuľka zjavená a Rozprestretý Zvitok odhalený, zošli mne a tým, ktorí sú mojimi spoločníkmi to, čo nám umožní vzlietnuť do nebies Tvojej všepresahujúcej slávy a čo z nás zmyje škvrnu pochybností, ktoré podozrievavým zabránili vstúpiť do svätostánku Tvojej jednoty.
 Som ten, ó môj Pane, ktorý sa pevne držal lana Tvojej milujúcej láskavosti a pridržiaval sa lemu Tvojej milosti a priazne. Urči pre mňa a mojich milovaných dobro tohto ako i budúceho sveta. Obdar ich Skrytým Darom, ktorý si určil pre vybraných zo Svojho stvorenia.
@@ -941,11 +1207,15 @@ Niet iného Boha okrem Teba, Vševediaceho, Najmúdrejšieho. Všetka chvála pa
 (Bahaiprayers.net ID: 13237)
 
 
+
+
 ### <a id="bpn13238"></a> Prayer bpn13238 in Slovensky
 Pochválený buď, ó Pane môj Bože! Pôst sme dodržiavali v súlade s Tvojím nariadením a teraz ho prerušujeme prostredníctvom Tvojej lásky a Tvojej priazne. Rozhodni sa, ó môj Bože, prijať skutky, ktoré sme na Tvojej ceste vykonali, jedine kvôli Tvojej kráse a s tvárou obrátenou k Tvojej veci oslobodení od všetkého okrem Teba. Udeľ teda Svoje odpustenie nám, našim predkom a všetkým, ktorí uverili v Teba a v Tvoje mocné znamenia v tomto najvýznamnejšom a tomto najslávnejšom zjavení. Máš moc činiť, čo sa Ti zachce. Ty si vskutku Najvznešenejší, Najmocnejší, Neobmedzený.
 
 (Source category: Pôst)
 (Bahaiprayers.net ID: 13238)
+
+
 
 
 ### <a id="bpn13239"></a> Prayer bpn13239 in Slovensky
@@ -956,6 +1226,8 @@ Pochválený buď, ó Bože, môj Bože! Teraz nastali dni, keď si Svojim vyvol
 
 
 
+
+
 ## Ridván
 
 ### <a id="bpn13244"></a> Prayer bpn13244 in Slovensky
@@ -963,6 +1235,8 @@ Toto je sviatok Riḍvánu, jarné obdobie, v ktorom sa medzi nebom a zemou zjav
 
 (Source category: Ridván)
 (Bahaiprayers.net ID: 13244)
+
+
 
 
 ### <a id="bpn13245"></a> Prayer bpn13245 in Slovensky
@@ -992,6 +1266,8 @@ Slová Božie majú na Toho, kto je Zjaviteľom nepochybných dôkazov, taký op
 (Bahaiprayers.net ID: 13245)
 
 
+
+
 ### <a id="bpn13246"></a> Prayer bpn13246 in Slovensky
 ##Lawḥ-i-‘Áshiq va Ma‘shúq
 *(Tabuľka Milujúceho a Milovaného) 
@@ -1009,6 +1285,8 @@ Večná svieca žiari v nezahalenej sláve. Hľa, ako strávila každý smrteľn
 
 
 
+
+
 ## Rodina
 
 ### <a id="bpn13157"></a> Prayer bpn13157 in Slovensky
@@ -1018,6 +1296,8 @@ Sláva buď Tebe, ó Pane môj Bože! Prosím Ťa, aby si odpustil mne a tým, k
 
 (Source category: Rodina)
 (Bahaiprayers.net ID: 13157)
+
+
 
 
 
@@ -1031,11 +1311,15 @@ Prosím o Tvoje odpustenie, ó môj Bože, a žiadam o prepáčenie takým spôs
 (Bahaiprayers.net ID: 13158)
 
 
+
+
 ### <a id="bpn13159"></a> Prayer bpn13159 in Slovensky
 Ó Pane! V tomto najväčšom zjavení prijímaš príhovor detí za svojich rodičov. Je to jeden z osobitných a nekonečných darov tohto zriadenia. Prijmi teda, ó láskavý Pane, prosbu Svojho služobníka na prahu Svojej jedinosti a ponor jeho otca do oceánu Svojej milosti. Veď jeho syn povstal v službe Tvojej veci a po celý čas vynakladá úsilie na ceste Tvojej lásky. Vskutku, Ty si Darca, Odpúšťajúci a Láskavý!
 
 (Source category: Rodičia)
 (Bahaiprayers.net ID: 13159)
+
+
 
 
 
@@ -1051,11 +1335,15 @@ Ty si, vskutku, Pánom a Kráľom všetkých ľudí a máš moc nad všetkými v
 (Bahaiprayers.net ID: 13200)
 
 
+
+
 ### <a id="bpn13201"></a> Prayer bpn13201 in Slovensky
 Zobudil som sa v Tvojom úkryte, ó môj Bože, a tomu, ktorý hľadá tento úkryt, prináleží prebývať vo svätyni Tvojej ochrany a v pevnosti Tvojej obrany. Osvieť moje vnútro, ó môj Pane, oslnivou žiarou Dennice Svojho zjavenia tak, ako si osvetlil môj zovňajšok svetlom Svojej priazne.
 
 (Source category: Ráno)
 (Bahaiprayers.net ID: 13201)
+
+
 
 
 ### <a id="bpn13202"></a> Prayer bpn13202 in Slovensky
@@ -1064,6 +1352,8 @@ Niet iného Boha okrem Teba, Jediného, Neporovnateľného, Vševediaceho, nadov
 
 (Source category: Ráno)
 (Bahaiprayers.net ID: 13202)
+
+
 
 
 ### <a id="bpn13203"></a> Prayer bpn13203 in Slovensky
@@ -1078,6 +1368,8 @@ Nesklameš nikoho, kto Ťa vyhľadal, a nevzdiališ sa od nikoho, kto po Tebe t�
 
 
 
+
+
 ## Skúšky a ťažkosti
 
 ### <a id="bpn13221"></a> Prayer bpn13221 in Slovensky
@@ -1085,6 +1377,8 @@ Nesklameš nikoho, kto Ťa vyhľadal, a nevzdiališ sa od nikoho, kto po Tebe t�
 
 (Source category: Skúšky a ťažkosti)
 (Bahaiprayers.net ID: 13221)
+
+
 
 
 ### <a id="bpn13222"></a> Prayer bpn13222 in Slovensky
@@ -1096,6 +1390,8 @@ Ako ľúbezne chutí trpkosť smrti vytrpenej na Tvojej ceste a aké vzácne sú
 (Bahaiprayers.net ID: 13222)
 
 
+
+
 ### <a id="bpn13223"></a> Prayer bpn13223 in Slovensky
 Oslávený si Ty, ó Pane, môj Bože! Každý človek prenikavého zraku dosvedčuje Tvoju zvrchovanosť a Tvoju vládu a každé bystré oko vníma veľkosť Tvojej veľkoleposti a Tvojej neodolateľnej sily Tvojej moci. Vietor skúšok je bezmocný a nezabráni tomu, aby tí, ktorí sa radujú z blízkeho prístupu k Tebe, obrátili tváre k horizontu Tvojej slávy, a víchriciam ťažkostí sa nepodarí odrádzať a prekážať tým, ktorí sú plne oddaní Tvojej vôli, aby sa približovali k Tvojmu dvoru.
 Azda lampa Tvojej lásky horí v ich srdci a v ich hrudi svieti svetlo Tvojej nežnosti. Utrpenie ich nedokáže odvrátiť od Tvojej veci a premenlivosť šťastia ich nikdy neodchýli od Tvojej spokojnosti.
@@ -1103,6 +1399,8 @@ Azda lampa Tvojej lásky horí v ich srdci a v ich hrudi svieti svetlo Tvojej ne
 
 (Source category: Skúšky a ťažkosti)
 (Bahaiprayers.net ID: 13223)
+
+
 
 
 ### <a id="bpn13224"></a> Prayer bpn13224 in Slovensky
@@ -1114,12 +1412,16 @@ A nakoniec Ťa prosím pri svetle Tvojej tváre, aby si požehnal môjmu konaniu
 (Bahaiprayers.net ID: 13224)
 
 
+
+
 ### <a id="bpn13225"></a> Prayer bpn13225 in Slovensky
 Velebený a ovenčený slávou si Ty, ó môj Bože! Úpenlivo Ťa prosím pri vzlykoch tých, ktorí Ťa milujú, a pri slzách preliatych tými, ktorí Ťa túžia uzrieť, neodopri mi vo Svojom dni Svoju nežnú milosť a nezbavuj ma melódie Holubice, ktorá velebí Tvoju jedinosť pred svetlom, žiariacim z Tvojej tváre. Ja som ten, ktorý je v chudobe, ó môj Bože! Pohliadni, ako sa pevne pridŕžam Tvojho Mena, Vlastníka všetkého. Som ten, ktorý určite zahynie, pohliadni, ako som priľnul k Tvojmu Menu, Nesmrteľnému. Úpenlivo Ťa prosím, pri Tebe Samom, Vznešenom, Najvyššom, neponechaj ma môjmu vlastnému ja a zvráteným túžbam. Uchop moju ruku rukou Svojej moci a vysloboď ma z hlbín výplodov mojej fantázie a márnych predstáv a očisti ma od všetkého, čo sa Ti prieči.
 Daj, aby som sa mohol obrátiť k Tebe, vložiť v Teba celú svoju dôveru, vyhľadávať Ťa ako svoje Útočisko a poponáhľať sa k Tvojej tvári. Ty si, vskutku, Ten, ktorý silou Svojej moci činí čokoľvek, čo si želá, a silou Svojej vôle prikazuje, čokoľvek si praje. Nikto nemôže zmariť pôsobenie Tvojho nariadenia, ani zmeniť chod Tvojho ustanovenia. Ty si, vskutku, Všemohúci, nadovšetko Slávny, Najštedrejší.
 
 (Source category: Skúšky a ťažkosti)
 (Bahaiprayers.net ID: 13225)
+
+
 
 
 ### <a id="bpn13226"></a> Prayer bpn13226 in Slovensky
@@ -1129,6 +1431,8 @@ Kto iný okrem Boha odstraňuje ťažkosti? Vrav: Chvála buď Bohu! On je Boh! 
 (Bahaiprayers.net ID: 13226)
 
 
+
+
 ### <a id="bpn13227"></a> Prayer bpn13227 in Slovensky
 Naliehavo Ťa prosím pri Tvojej moci, ó môj Bože! Nech ma v čase skúšok neobklopí nič, čo by mi uškodilo, a v nedbanlivých okamihoch moje kroky správne veď skrze Svoje vnuknutie. Ty si Boh, si schopný činiť, čo si praješ. Nik nedokáže odolať Tvojej vôli či zvrátiť Tvoj zámer.
 
@@ -1136,11 +1440,15 @@ Naliehavo Ťa prosím pri Tvojej moci, ó môj Bože! Nech ma v čase skúšok n
 (Bahaiprayers.net ID: 13227)
 
 
+
+
 ### <a id="bpn13228"></a> Prayer bpn13228 in Slovensky
 Ó Pane! Ty odstraňuješ každú trýzeň a rozháňaš každé súženie. To Ty rozptyľuješ všetok zármutok a oslobodzuješ každého nevoľníka, Ty si Spasiteľ každej duše. Ó Pane! Vďaka Svojmu milosrdenstvu mi zaruč vykúpenie a započítaj ma medzi tých Svojich služobníkov, ktorí dosiahli spasenie.
 
 (Source category: Skúšky a ťažkosti)
 (Bahaiprayers.net ID: 13228)
+
+
 
 
 ### <a id="bpn9993"></a> Prayer bpn9993 in Slovensky
@@ -1152,6 +1460,8 @@ Vskutku, Ty si Láskavý, Štedrý.
 
 
 
+
+
 ## Slávnosť 19-tich dní
 
 ### <a id="bpn13183"></a> Prayer bpn13183 in Slovensky
@@ -1159,6 +1469,8 @@ Vskutku, Ty si Láskavý, Štedrý.
 
 (Source category: Slávnosť 19-tich dní)
 (Bahaiprayers.net ID: 13183)
+
+
 
 
 
@@ -1185,6 +1497,8 @@ Dosvedčujem Tvoju jednotu a Tvoju jedinosť a to, že Ty si Boh a že niet iné
 
 
 
+
+
 ## Stretnutia
 
 ### <a id="bpn13176"></a> Prayer bpn13176 in Slovensky
@@ -1194,6 +1508,8 @@ Pri Tebe samotnom a pri Tom, koho si ustanovil za Prejav Svojej vlastnej bytosti
 
 (Source category: Stretnutia)
 (Bahaiprayers.net ID: 13176)
+
+
 
 
 ### <a id="bpn13177"></a> Prayer bpn13177 in Slovensky
@@ -1206,6 +1522,8 @@ O láskavý Otče! Udeľ nám Svoje požehnania. Nehľaď na naše prehrešky. Z
 (Bahaiprayers.net ID: 13177)
 
 
+
+
 ### <a id="bpn13178"></a> Prayer bpn13178 in Slovensky
 Ty láskavý Pane! Vidíš tu svojich služobníkov, ktorí sa zhromaždili na tomto stretnutí, obrátili sa k Tvojmu kráľovstvu a potrebujú Tvoje dary a požehnania. Ó Bože! Prejav a učiň jasnými znamenia Svojej jedinosti, ktoré si vložil do všetkých esencií života. Odhaľ a rozviň cnosti, ktoré si ukryl a utajil v týchto ľudských podstatách.
 Ó Bože! Sme ako rastliny a Tvoja štedrosť je podobná dažďu. Osviež tieto rastliny a daj im rásť z toho, čo im poskytneš. Sme Tvoji služobníci, osloboď nás z pút hmotného bytia. Sme nevedomí, učiň nás múdrymi. Sme mŕtvi, oživ nás. Sme hmotní, obdar nás duchom. Všetko je nám odoprené, udeľ nám dôvernú znalosť Svojich tajomstiev. Sme núdzni, požehnaj nám a obohať nás zo Svojho nepreberného pokladu. Ó Bože! Pozdvihni nás, daj nám zrak a sluch, zasväť nás do tajomstiev života, aby sa nám v tomto svete bytia mohli zjaviť záhady Tvojho kráľovstva, a my sme mohli doznať Tvoju jedinosť. Všetko, čo sa nám dostáva, prichádza od Teba a všetky požehnania prináležia Tebe.
@@ -1215,6 +1533,8 @@ Ty si Mocný. Ty si Silný. Ty si Darca a Ty si vždy Dávajúci.
 (Bahaiprayers.net ID: 13178)
 
 
+
+
 ### <a id="bpn13179"></a> Prayer bpn13179 in Slovensky
 Ó môj Bože! Ó môj Bože! Vskutku, Tvoji služobníci sa obracajú k Tebe, pokorne prosiac Tvoje kráľovstvo milosrdenstva. Vskutku, sú priťahovaní Tvojou svätosťou a planú ohňom Tvojej lásky, vyhľadávajú utvrdenie z Tvojho úžasného kráľovstva a dúfajú v dosiahnutie Tvojej nebeskej ríše. Vskutku, túžia po udelení Tvojich darov a prahnú po osvietení zo Slnca skutočnosti.
 Ó Pane! Učiň ich žiarivými lampami, znameniami milosrdenstva, plodnými stromami a trblietavými hviezdami. Nech povstanú v službe Tebe a v túžbe po svetle Tvojej priazne nech ich s Tebou spájajú putá Tvojej lásky. Učiň ich znameniami vedenia, zástavami Tvojho nesmrteľného kráľovstva, vlnami mora Tvojho milosrdenstva, zrkadlami svetla Tvojej majestátnosti. 
@@ -1222,6 +1542,8 @@ Vskutku, Ty si Štedrý. Vskutku, Ty si Milosrdný. Vskutku, Ty si Vzácny, Milo
 
 (Source category: Stretnutia)
 (Bahaiprayers.net ID: 13179)
+
+
 
 
 ### <a id="bpn13180"></a> Prayer bpn13180 in Slovensky
@@ -1234,6 +1556,8 @@ Vskutku, Ty si Štedrý. Vskutku, Ty si Milosrdný. Vskutku, Ty si Vzácny, Milo
 (Bahaiprayers.net ID: 13180)
 
 
+
+
 ### <a id="bpn13181"></a> Prayer bpn13181 in Slovensky
 Ó Božská prozreteľnosť! Toto zhromaždenie sa skladá z Tvojich priateľov, ktorých láka Tvoja krása a ktorí zahoreli ohňom Tvojej lásky. Zmeň tieto duše v nebeských anjelov, oživ ich dychom Svojho Svätého Ducha, venuj im výrečný jazyk a rozhodné srdce, udeľ im nebeskú moc a milosrdné vnímanie, učiň ich šíriteľmi jednotnosti ľudstva a príčinou lásky a svornosti v ľudskom svete, aby nebezpečná temnota nevedomých predsudkov zmizla vďaka svetlu Slnca pravdy, aby sa tento ponurý svet rozjasnil, aby táto hmotná ríša prijala lúče duchovného sveta, aby sa rozličné farby spojili do jednej farby a aby sa nápev chvály vzniesol ku kráľovstvu Tvojej posvätnosti.
 Vskutku, Ty si Všemocný a nadovšetko Mocný.
@@ -1242,12 +1566,16 @@ Vskutku, Ty si Všemocný a nadovšetko Mocný.
 (Bahaiprayers.net ID: 13181)
 
 
+
+
 ### <a id="bpn13182"></a> Prayer bpn13182 in Slovensky
 Ó Ty Milujúci poskytovateľ! Tieto duše uslyšali volanie Kráľovstva, pohliadli na slávu Slnca pravdy a vzniesli sa na osviežujúce nebo lásky. Uchvátila ich Tvoja povaha a uctievajú Tvoju krásu. K Tebe sa obrátili, o Tebe sa zhovárajú, Tvoj príbytok vyhľadávajú a žíznia po bystrine Tvojej nebeskej ríše.
 Ty si Darca, Udeľujúci, vždy Milujúci.
 
 (Source category: Stretnutia)
 (Bahaiprayers.net ID: 13182)
+
+
 
 
 
@@ -1279,6 +1607,8 @@ Vskutku, On je Milosrdný, Súcitný. Chvála Bohu, Pánovi všetkých svetov.
 
 
 
+
+
 ## Tabuľky Božského Plánu
 
 ### <a id="bpn13253"></a> Prayer bpn13253 in Slovensky
@@ -1289,6 +1619,8 @@ Vskutku, Ty si Mocný, Silný a Všemocný. Ty si Múdry, Počujúci a Vidiaci.
 
 (Source category: Tabuľky Božského Plánu)
 (Bahaiprayers.net ID: 13253)
+
+
 
 
 ### <a id="bpn13254"></a> Prayer bpn13254 in Slovensky
@@ -1302,6 +1634,8 @@ Vskutku, Ty si Vľúdny, Mocný, Silný a Najmilosrdnejší z milosrdných.
 (Bahaiprayers.net ID: 13254)
 
 
+
+
 ### <a id="bpn13255"></a> Prayer bpn13255 in Slovensky
 *Zjavené pre bahájov severovýchodných štátov
 Ó Ty láskavý Pane! Buď Ti chvála za to, že si nám ukázal priamu cestu vedenia, otvoril dvercia kráľovstva a prejavil sa prostredníctvom Slnca Pravej podstaty. Nevidomým si dal zrak, nepočujúcim si udelil sluch, oživil si mŕtvych, obohatil chudobných, tým, ktorí zblúdili, si ukázal cestu. Tých, ktorí mali vyschnuté pery, si zaviedol k žriedlu vedenia; spôsobil si, aby vysmädnuté ryby dosiahli oceán pravej podstaty a túlavé vtáctvo si pozval do ružovej záhrady milosti.
@@ -1311,6 +1645,8 @@ Vskutku, Ty si Silný, Mocný, Múdry a Vidiaci.
 
 (Source category: Tabuľky Božského Plánu)
 (Bahaiprayers.net ID: 13255)
+
+
 
 
 ### <a id="bpn13256"></a> Prayer bpn13256 in Slovensky
@@ -1323,6 +1659,8 @@ Ty si Všemocný a konáš, čokoľvek si zaželáš.
 (Bahaiprayers.net ID: 13256)
 
 
+
+
 ### <a id="bpn13257"></a> Prayer bpn13257 in Slovensky
 *Zjavené pre bahájov západných štátov
 Ó Bože! Ó Bože! Toto je vtáča so zlomeným krídlom a letí veľmi pomaly. Pomôž mu, aby mohlo vzlietnuť na vrcholok blahobytu a spasenia, s najväčšou radosťou a šťastím preletieť bezmedzný priestor, v Tvojom Zvrchovanom Mene nôtiť vo všetkých krajoch, rozveseliť sluch týmto volaním a rozjasniť zrak pohľadom na znamenia vedenia.
@@ -1330,6 +1668,8 @@ Ty si Všemocný a konáš, čokoľvek si zaželáš.
 
 (Source category: Tabuľky Božského Plánu)
 (Bahaiprayers.net ID: 13257)
+
+
 
 
 ### <a id="bpn13258"></a> Prayer bpn13258 in Slovensky
@@ -1344,6 +1684,8 @@ Vskutku, Ty si Silný, Mocný, Všemocný.
 
 
 
+
+
 ## Uzdravenie
 
 ### <a id="bpn13184"></a> Prayer bpn13184 in Slovensky
@@ -1355,11 +1697,15 @@ Máš moc činiť, čo sa Ti zapáči. Niet iného Boha okrem Teba, vždy Odpú�
 (Bahaiprayers.net ID: 13184)
 
 
+
+
 ### <a id="bpn13185"></a> Prayer bpn13185 in Slovensky
 Tvoje meno ma uzdravuje, ó môj Bože, a spomienka na Teba je mi liekom. Blízkosť k Tebe mi dáva nádej a láska k Tebe mi je spoločníkom. Tvoje milosrdenstvo voči mne ma uzdravuje a pomáha mi na tomto svete i vo svete budúcom. Ty si vskutku nadovšetko Štedrý, Vševediaci, nadovšetko Múdry.
 
 (Source category: Uzdravenie)
 (Bahaiprayers.net ID: 13185)
+
+
 
 
 ### <a id="bpn13186"></a> Prayer bpn13186 in Slovensky
@@ -1370,6 +1716,8 @@ Vskutku, Ty si Pán života tohto i budúceho. Vskutku, Ty si vždy Odpúšťaj�
 
 (Source category: Uzdravenie)
 (Bahaiprayers.net ID: 13186)
+
+
 
 
 ### <a id="bpn13189"></a> Prayer bpn13189 in Slovensky
@@ -1431,6 +1779,8 @@ Ty si, vskutku, Mocný, všetkému Dostačujúci, Uzdravujúci, Ochranca, Dávaj
 
 
 
+
+
 ## Učenie
 
 ### <a id="bpn9995"></a> Prayer bpn9995 in Slovensky
@@ -1438,6 +1788,8 @@ Ty si, vskutku, Mocný, všetkému Dostačujúci, Uzdravujúci, Ochranca, Dávaj
 
 (Source category: Učenie)
 (Bahaiprayers.net ID: 9995)
+
+
 
 
 
@@ -1452,6 +1804,8 @@ Niet Boha okrem Teba, Všemocného, všetko si Podmaňujúceho, Nepodmieneného.
 (Bahaiprayers.net ID: 13154)
 
 
+
+
 ### <a id="bpn13155"></a> Prayer bpn13155 in Slovensky
 Ako môžem ísť spať, ó Bože, môj Bože, keď oči tých, ktorí po Tebe túžia, bdejú pre svoje odlúčenie od Teba, a ako si môžem ľahnúť na odpočinok, kým duše Tvojich milovaných nesmierne zmieta ich vzdialenosť od Tvojej prítomnosti?
 Zveril som, ó môj Pane, svojho ducha a celú svoju bytosť do pravice Tvojej sily a Tvojej ochrany. Hlavu si ukladám na vankúš skrze Tvoju moc a dvíham ju vďaka Tvojej vôli a Tvojej spokojnosti. Ty si, vpravde, Chrániteľ, Opatrovník, nadovšetko Mocný, Najsilnejší.
@@ -1459,6 +1813,8 @@ Pri Tvojej moci! Či spím či bdiem, nežiadam o iné než o to, čo si želá�
 
 (Source category: Večer)
 (Bahaiprayers.net ID: 13155)
+
+
 
 
 
@@ -1472,6 +1828,8 @@ Vskutku Ty si Pánom sily. Máš moc prikazovať čokoľvek, čo si zaželáš, 
 (Bahaiprayers.net ID: 13215)
 
 
+
+
 ### <a id="bpn13216"></a> Prayer bpn13216 in Slovensky
 Oslávené buď Tvoje meno, ó Pane, môj Bože! Úpenlivo Ťa prosím pri Tvojej sile, ktorá obklopila všetko stvorené, a pri Tvojom mocnárstve, ktoré presahuje celé stvorenie, a pri Tvojom slove, ktoré bolo ukryté v Tvojej múdrosti a prostredníctvom ktorého si stvoril Svoje nebo a Svoju zem, aby si nám umožnil byť neochvejnými v láske k Tebe a v poslušnosti voči Tvojmu rozhodnutiu a zároveň aby sme mohli uprieť zrak na Tvoju tvár a oslavovať Tvoju slávu. Daj nám teda silu, ó môj Bože, aby sme medzi Tvojimi stvoreniami doďaleka mohli šíriť Tvoje znamenia a chrániť Tvoju vieru v Tvojej ríši. Vždy si jestvoval nezávisle od zmienky ktoréhokoľvek z Tvojich stvorení a na večné veky zostaneš taký, aký si bol.
 Do Teba som vložil celú svoju dôveru, k Tebe som obrátil tvár a k lanu Tvojej láskavej prozreteľnosti som priľnul a náhlil som sa k tôni Tvojho milosrdenstva. Neposielaj ma sklamaného preč od Svojich dverí, ó môj Bože, a neodopieraj mi Svoju priazeň, pretože ja hľadám jedine Teba. Niet Boha okrem Teba, vždy Odpúšťajúceho, Najštedrejšieho.
@@ -1481,6 +1839,8 @@ Chvála buď Tebe, ó Ty, koho milujú tí, ktorí Ťa poznali!
 (Bahaiprayers.net ID: 13216)
 
 
+
+
 ### <a id="bpn13217"></a> Prayer bpn13217 in Slovensky
 Ó Ty, koho blízkosť je mi prianím, koho prítomnosť je mi nádejou, na koho spomienka je mi túžbou, koho dvor slávy je mi cieľom, koho príbytok mi je zámerom, koho meno je mi uzdravením, koho láska je mi žiarou srdca, komu služba je mi najvyššou túhou! Úpenlivo Ťa prosím pri Tvojom Mene, vďaka ktorému si umožnil tým, ktorí Ťa spoznali, aby sa vzniesli do najvelebnejších výšav poznania Teba, a dal si silu tým, ktorí Ťa oddane uctievajú, aby vystúpili do blízkosti dvora Tvojej svätej priazne, pomôž mi obrátiť tvár k Tvojej tvári, upriamiť na Teba zrak a prevrávať o Tvojej sláve.
 Som ten, ó môj Pane, kto zanechal všetko okrem Teba a obrátil sa k Miestu úsvitu Tvojej milosti, kto opustil všetko okrem Teba v nádeji, že sa priblíži k Tvojmu dvoru. Pohliadni preto na mňa, ako som zrak pozdvihol k Sídlu žiariacemu nádherou svetla Tvojej tváre. Zošli mi teda, ó môj Milovaný, to, čo mi umožní, aby som bol neochvejný v Tvojej veci, aby mi pochybnosti bezvercov nezabránili obrátiť sa k Tebe.
@@ -1488,6 +1848,8 @@ Ty si vskutku Boh Sily, Pomocník v nebezpečí, nadovšetko Slávny, nadovšetk
 
 (Source category: Vytrvalosť)
 (Bahaiprayers.net ID: 13217)
+
+
 
 
 ### <a id="bpn13218"></a> Prayer bpn13218 in Slovensky
@@ -1503,6 +1865,8 @@ Ty si vskutku Boh Sily, Pomocník v nebezpečí, nadovšetko Slávny, nadovšetk
 (Bahaiprayers.net ID: 13218)
 
 
+
+
 ### <a id="bpn13219"></a> Prayer bpn13219 in Slovensky
 Velebený si, ó Pane môj Bože! Úpenlivo Ťa prosím pri Tom, ktorý je Tvojím Najväčším menom, ktorý bol ťažko sužovaný tými z Tvojich stvorení, ktoré popreli Tvoju pravdu a ktorý bol skľúčený takým zármutkom, aký žiaden jazyk nemôže popísať, umožni mi spomínať Ťa a oslavovať Tvoju chválu v týchto dňoch, kedy sa všetci odvrátili od Tvojej krásy, preli sa s Tebou a pohŕdavo sa odvrátili od Toho, ktorý je Zjaviteľom Tvojej veci. Okrem Teba samého niet nikoho, ó môj Pane, kto by Ti pomohol, a žiadna iná moc okrem Tvojej moci nemôže Ťa podporiť.
 Prosím Ťa, umožni mi pevne priľnúť k Tvojej láske a spomienke na Teba. Vskutku, toto je v mojich silách a Ty poznáš všetko, čo je vo mne. Ty si, vskutku, Vediaci, so všetkým Oboznámený. Neodopri mi, ó môj Pane, žiaru svetla Svojej tváre, ktorou si osvetlil celý svet. Niet Boha okrem Teba, Najsilnejšieho, Najslávnejšieho, vždy Odpúšťajúceho.
@@ -1511,11 +1875,15 @@ Prosím Ťa, umožni mi pevne priľnúť k Tvojej láske a spomienke na Teba. Vs
 (Bahaiprayers.net ID: 13219)
 
 
+
+
 ### <a id="bpn13220"></a> Prayer bpn13220 in Slovensky
 Ó Pane, môj Bože! Pomôž Svojim milovaným, aby boli pevní v Tvojej viere, aby kráčali po Tvojich cestách, aby boli neochvejní v Tvojej veci. Venuj im Svoju milosť, aby odolali náporu sebectva a vášne, aby nasledovali svetlo božského vedenia. Ty si Silný, Milostivý, Sebedostačujúci, Udeľujúci, Súcitný, nadovšetko Mocný, nadovšetko Štedrý.
 
 (Source category: Vytrvalosť)
 (Bahaiprayers.net ID: 13220)
+
+
 
 
 
@@ -1527,6 +1895,8 @@ Od nepamäti máš schopnosť činiť, čo sa Ti páči, a prevýšiť všetko, 
 
 (Source category: Víťazstvo Veci)
 (Bahaiprayers.net ID: 13229)
+
+
 
 
 
@@ -1589,6 +1959,8 @@ Keby ju čítali všetci služobníci a zamýšľali sa nad ňou, v ich žilách
 (Bahaiprayers.net ID: 13259)
 
 
+
+
 ### <a id="bpn13261"></a> Prayer bpn13261 in Slovensky
 ##Tabuľka navštívenia
 *Táto tabuľka sa číta v Svätyni Bahá’u’lláha a Bába. Taktiež sa často používa pri oslavách Ich výročí.
@@ -1602,6 +1974,8 @@ Nech je môj duch obeťou za všetky krivdy, ktoré si pretrpel a moja duša nec
 
 (Source category: Výnimočné tabuľky)
 (Bahaiprayers.net ID: 13261)
+
+
 
 
 ### <a id="bpn13260"></a> Prayer bpn13260 in Slovensky
@@ -1673,6 +2047,8 @@ A ako ju zazreli v tomto stave a pochopili slovo z príbehu, ktorý vyrozprával
 (Bahaiprayers.net ID: 13260)
 
 
+
+
 ### <a id="bpn13262"></a> Prayer bpn13262 in Slovensky
 ##Tabuľka navštívenia ‘Abdu’l-Bahu
 *Táto modlitba, zjavená ‘Abdu’l-Bahom, sa číta v Jeho Svätyni. Tiež sa môže použiť ako modlitba v súkromí.
@@ -1687,6 +2063,8 @@ Ty si Darca, Súcitný, Najštedrejší, Milostivý, Milosrdný, Zľutovný.
 
 (Source category: Výnimočné tabuľky)
 (Bahaiprayers.net ID: 13262)
+
+
 
 
 
@@ -1710,6 +2088,8 @@ Všetci sme vskutku v Bohu trpezliví.
 (Bahaiprayers.net ID: 13134)
 
 
+
+
 ### <a id="bpn13135"></a> Prayer bpn13135 in Slovensky
 Velebený si, ó Pane môj Bože! Nepokor toho, koho si povýšil silou Svojej večnej zvrchovanosti, a neodožeň od Seba toho, ktorému si umožnil vstúpiť do svätostánku Svojej večnosti. Vari by si, ó môj Bože, zavrhol toho, koho si zatienil Svojím panstvom, a vari by si od Seba odvrhol, ó moja Túžba, toho, komu si bol útočiskom? Môžeš azda ponížiť toho, koho si pozdvihol, či zabudnúť na toho, komu si umožnil, aby Ťa spomínal?
 Si velebený, nesmierne velebený! Ty si Ten, ktorý bol od večnosti Kráľom celého stvorenia a jeho Prvotným hýbateľom, a navždy ostaneš Pánom všetkého stvorenia a jeho Ustanoviteľom. Sláva Tebe, ó môj Bože! Ak by si prestal byť k Svojim služobníkom milosrdný, kto by im potom preukázal milosrdenstvo, a ak by si im odmietol pomôcť, kto iný by im pomohol?
@@ -1718,6 +2098,8 @@ Vskutku, vo Svojej milosti si milovaný. Niet Boha okrem Teba, Pomocníka v nebe
 
 (Source category: Zosnulí)
 (Bahaiprayers.net ID: 13135)
+
+
 
 
 ### <a id="bpn13136"></a> Prayer bpn13136 in Slovensky
@@ -1737,6 +2119,8 @@ Niet iného Boha okrem Teba, Jedného, Jediného, Silného, Všemocného, Štedr
 (Bahaiprayers.net ID: 13136)
 
 
+
+
 ### <a id="bpn13137"></a> Prayer bpn13137 in Slovensky
 Ó môj Bože! Ó Ty, kto odpúšťaš hriechy, udeľuješ dary, rozptyľuješ sužobu!
 Vskutku Ťa úpenlivo prosím, aby si odpustil hriechy tým, ktorí zanechali telesný odev a vystúpili do duchovného sveta.
@@ -1744,6 +2128,8 @@ Vskutku Ťa úpenlivo prosím, aby si odpustil hriechy tým, ktorí zanechali te
 
 (Source category: Zosnulí)
 (Bahaiprayers.net ID: 13137)
+
+
 
 
 ### <a id="bpn13138"></a> Prayer bpn13138 in Slovensky
@@ -1754,6 +2140,8 @@ Vskutku Ťa úpenlivo prosím, aby si odpustil hriechy tým, ktorí zanechali te
 (Bahaiprayers.net ID: 13138)
 
 
+
+
 ### <a id="bpn13139"></a> Prayer bpn13139 in Slovensky
 Ó Ty odpúšťajúci Pane!
 Aj keď niektoré duše strávili dni svojho života v nevedomosti, odcudzili sa Ti a vzopreli, predsa jedinou vlnou z oceánu Tvojho odpustenia budú všetci hriešni oslobodení. Kohokoľvek si praješ, učiníš dôverným priateľom, a ten, ktorý nie je predmetom Tvojej voľby, bude považovaný za hriešneho. Ak by si s nami nakladal podľa Svojej spravodlivosti, všetci by sme boli iba hriešnikmi a zaslúžili by sme si iba odlúčenie od Teba, ale ak by si prejavil milosrdenstvo, každý hriešnik by bol očistený a každý cudzinec by sa stal priateľom. Udeľ teda všetkým Svoje odpustenie a prepáčenie a preukáž im Svoje milosrdenstvo.
@@ -1761,6 +2149,8 @@ Ty si Odpúšťajúci, Darca Svetla a Všemocný.
 
 (Source category: Zosnulí)
 (Bahaiprayers.net ID: 13139)
+
+
 
 
 
@@ -1775,12 +2165,16 @@ Všetci sú v chudobe a v núdzi a Ty si vskutku Vlastník všetkého, všetko s
 (Bahaiprayers.net ID: 13190)
 
 
+
+
 ### <a id="bpn9996"></a> Prayer bpn9996 in Slovensky
 On je Boh! Ó Ty nadovšetko Mocný Pane! Posilni celé ľudstvo, aby mohlo konať podľa pokynov a podľa učenia zaznamenaných v týchto spisoch tak, aby z ľudského sveta mohli byť odstránené vojny a spory; aby mohli byť zničené korene nepriateľstva a ustanovené základy lásky a náklonnosti; aby srdcia mohli byť naplnené láskou a duše sa zbližovali; aby sa múdrosť rozšírila a aby sa tváre rozžiarili a rozjasnili; aby už nebolo vojen a sporov a aby sa objavil súlad a mier; aby si jednotnosť ľudského sveta postavila stan na „vrcholku obzorov“, aby sa národy a skupiny stali jedným ľudom, aby sa rozličné svetadiely stali jedným svetadielom a celá zem jednou krajinou; aby sa zjednotili odnože znepriatelených a dogmatických náboženstiev; aby bol ozdobený svet stvorenia a všetci ľudia zeme nažívali v jednote a mieri.
 Vskutku, Ty si Darca, Udeľujúci, Hľadiaci!
 
 (Source category: Ľudstvo)
 (Bahaiprayers.net ID: 9996)
+
+
 
 
 ### <a id="bpn13191"></a> Prayer bpn13191 in Slovensky
@@ -1790,11 +2184,15 @@ Vskutku, Ty si Darca, Udeľujúci, Hľadiaci!
 (Bahaiprayers.net ID: 13191)
 
 
+
+
 ### <a id="bpn13192"></a> Prayer bpn13192 in Slovensky
 Ó Ty Láskavý Pane! Ó Ty, kto si Veľkorysý a Milosrdný! Sme služobníci Tvojho prahu a sme zhromaždení v záštite tône Tvojej božskej jednoty. Slnce Tvojho milosrdenstva svieti na všetkých a  na všetkých pršia oblaky Tvojej štedrosti. Všetkých obklopujú Tvoje dary, všetkých živí Tvoja milujúca prozreteľnosť, všetkých zatieňuje Tvoja ochrana a na všetkých padá pohľad Tvojej priazne. Ó Pane! Udeľ Svoje nezmerné podarúnky. Nech žiari svetlo Tvojho vedenia. Osvetli zrak a poteš srdcia neutíchajúcou radosťou. Všetkým ľuďom udeľ nového ducha a podaruj im život večný. Odomkni brány pravého porozumenia. Nech sa skvie svetlo viery. Zhromaždi všetkých ľudí v tôni Svojej štedrosti a daj, aby sa zjednotili v svornosti, aby sa stali sťa lúčmi jedného slnka, sťa vlnami jedného oceánu, sťa plodmi jedného stromu. Nech pijú z toho istého žriedla, nech ich osviežuje ten istý vánok, nech ich osvecuje ten istý zdroj svetla. Ty si Darca, Milosrdný, Všemocný.
 
 (Source category: Ľudstvo)
 (Bahaiprayers.net ID: 13192)
+
+
 
 
 ### <a id="bpn13193"></a> Prayer bpn13193 in Slovensky
@@ -1811,6 +2209,8 @@ Ty si Mocný a Silný, Ty si Odpúšťajúci a Ty si Ten, kto prehliada nedostat
 (Bahaiprayers.net ID: 13193)
 
 
+
+
 ### <a id="bpn13194"></a> Prayer bpn13194 in Slovensky
 Ó Bože! Ó Ty, ktorý si Svoju žiaru vrhol na jagavú podstatu ľudí, vniesol do nich skvejúce sa svetlo poznania a vedenia a zo všetkého stvoreného si ich vyvolil pre túto nadpozemskú milosť, spôsobil si, aby obsiahli všetky veci, poňali ich najvnútornejšiu podstatu, odhalili všetky ich záhady a z temnoty ich vyniesli na jasný svet! „On vskutku preukazuje Svoje mimoriadne milosrdenstvo komukoľvek sa Mu zachce.“
 Ó Pane, pomôž Svojim milovaným nadobudnúť poznanie, vedy a umenie a rozlúštiť tajomstvá, ktoré sa ukrývajú v pokladnici najvnútornejšej podstaty všetkých stvorených bytostí. Daj, aby počuli skryté pravdy vpísané a vložené do srdca všetkého, čo jestvuje. Učiň ich vlajkami vedenia medzi Svojimi stvoreniami a prenikavými lúčmi vedomia svietiacimi v tomto “prvom živote”. Učiň ich sprevádzačmi k Tebe, sprievodcami na Tvojej ceste, bežcami súriacimi ľudí do Tvojho kráľovstva.
@@ -1818,6 +2218,8 @@ Ty si vskutku Silný, Ochranca, Schopný, Obranca, Mocný, Najveľkorysejší.
 
 (Source category: Ľudstvo)
 (Bahaiprayers.net ID: 13194)
+
+
 
 
 
@@ -1833,12 +2235,16 @@ Ty si vpravde nesmierne povznesený nad všetko okrem Seba. Ty si vskutku Lieči
 (Bahaiprayers.net ID: 13187)
 
 
+
+
 ### <a id="bpn13140"></a> Prayer bpn13140 in Slovensky
 Ó môj Bože, ó Ty, kto odpúšťaš hriechy a rozptyľuješ sužobu! Ó Ty, Prepačujúci, Milostivý! Dvíham k Tebe svoje prosiace ruky a so slzami úpenlivo prosím dvor Tvojej božskej podstaty, aby pomocou Tvojej milosti a zhovievavosti odpustil Tvojej služobníčke, ktorá vystúpila k sídlu pravdy. Daj, ó Pane, aby ju zatienili oblaky Tvojej štedrosti a priazne. Ponor ju do oceánu Svojho odpustenia a prepáčenia a umožni jej vstúpiť do posväteného príbytku Tvojho nebeského raja.
 Ty si vskutku Mocný, Súcitný, Štedrý, Milosrdný.
 
 (Source category: Ženy)
 (Bahaiprayers.net ID: 13140)
+
+
 
 
 ### <a id="bpn13141"></a> Prayer bpn13141 in Slovensky
@@ -1850,6 +2256,8 @@ Udeľ Svojej nebeskej služobníčke, ó Bože, sväté vône zrodené z ducha T
 (Bahaiprayers.net ID: 13141)
 
 
+
+
 ### <a id="bpn13142"></a> Prayer bpn13142 in Slovensky
 Ó Ty láskavý Pane! Táto s láskou opatrovaná služobníčka v Tebe našla zaľúbenie a hĺbaním a vnímaním túžila dosiahnuť Tvoju prítomnosť a vstúpiť do Tvojich ríš. So slzami v očiach uprela svoj zrak na kráľovstvo záhad. Nejednu noc strávila v hlbokom rozhovore s Tebou a nejeden deň žila dôvernou spomienkou na Teba. Každé ráno Ťa mala na pamäti a každý večer na Teba sústredila svoje myšlienky. Ako trilkujúci slávik nôtila Tvoje posvätné verše a túžila ako zrkadlo odrážať Tvoje svetlo.
 Ó Ty hriechy Odpúšťajúci! Vydláždi tejto prebudenej duši cestu, aby vstúpila do Tvojho kráľovstva a umožni tomuto vtáčaťu, ktoré skrotila Tvoja ruka, aby sa vznášalo vo večnej ružovej záhrade. Je zapálená túžbou priblížiť sa Ti. Umožni jej dosiahnuť Tvoju prítomnosť. Odlúčenie od Teba ju zarmucuje a skľučuje. Dovoľ, aby bola prijatá v Tvojom nebeskom kaštieli.
@@ -1857,6 +2265,9 @@ Udeľ Svojej nebeskej služobníčke, ó Bože, sväté vône zrodené z ducha T
 
 (Source category: Ženy)
 (Bahaiprayers.net ID: 13142)
+
+
+
 
 
 

@@ -3,6 +3,66 @@ title = "Hausa"
 tags = ['lang=ha', 'prayerbook']
 +++
 
+
+
+[Allon Wuta Mai Ƙōnāwa](#Allon Wuta Mai Ƙōnāwa)
+
+[Allō Zuwa Ga Ahmad](#Allō Zuwa Ga Ahmad)
+
+[Arwalla](#Arwalla)
+
+[Assubāhi](#Assubāhi)
+
+[Aure](#Aure)
+
+[Azumi](#Azumi)
+
+[Dare](#Dare)
+
+[Galgaɗi Zuwa Ga Ango Da Amarya](#Galgaɗi Zuwa Ga Ango Da Amarya)
+
+[Gōdiya](#Gōdiya)
+
+[Haɗin Kai](#Haɗin Kai)
+
+[Kāriya](#Kāriya)
+
+[Mariganya](#Mariganya)
+
+[Matsalōli](#Matsalōli)
+
+[Neman Lahiya](#Neman Lahiya)
+
+[Neman Sauki Cikin Matsala](#Neman Sauki Cikin Matsala)
+
+[Salla Farilla Dōguwa](#Salla Farilla Dōguwa)
+
+[Salla Farilla Madaidaiciya](#Salla Farilla Madaidaiciya)
+
+[Sallar Farilla Gajera](#Sallar Farilla Gajera)
+
+[Sāfe](#Sāfe)
+
+[Tsari](#Tsari)
+
+[Tsāme Daga Bukin Rānekun Tuāwa](#Tsāme Daga Bukin Rānekun Tuāwa)
+
+[Tūba](#Tūba)
+
+[Wa’azi](#Wa’azi)
+
+[Yabo](#Yabo)
+
+[Yārā](#Yārā)
+
+[Zanā’ida](#Zanā’ida)
+
+[Ziyāra](#Ziyāra)
+
+[Ɗaukaka](#Ɗaukaka)
+
+
+
 ## Allon Wuta Mai Ƙōnāwa
 
 ### <a id="bpn11759"></a> Prayer bpn11759 in Hausa
@@ -61,6 +121,8 @@ Ya kai Ali Akbar, ka gōdēwa Ubangijinka dōmin wannan allo. Kana iya jin ƙams
 
 
 
+
+
 ## Allō Zuwa Ga Ahmad
 
 ### <a id="bpn11708"></a> Prayer bpn11708 in Hausa
@@ -83,6 +145,8 @@ A gaskiya, shīnē mai rahama, mai jin ƙai. Gōdiya ta tabbata ga Allah, Ubangi
 
 
 
+
+
 ## Arwalla
 
 ### <a id="bpn11703"></a> Prayer bpn11703 in Hausa
@@ -94,6 +158,8 @@ Nā juya fuskāta wajenka, yā Ubangijina. Hanā ta da kula da kōmi bāyan kai,
 
 (Source category: Arwalla)
 (Bahaiprayers.net ID: 11703)
+
+
 
 
 
@@ -111,6 +177,8 @@ Yā Ubangijina, ka saukar da albarkarka bisa wanɗanda suke wanzama kalmarka, ku
 
 
 
+
+
 ## Aure
 
 ### <a id="bpn11705"></a> Prayer bpn11705 in Hausa
@@ -119,6 +187,8 @@ A lōkacin da Ya sō bayyana alfurmarsa da alhērinsa zuwa ga mutane, kuma dōmi
 
 (Source category: Aure)
 (Bahaiprayers.net ID: 11705)
+
+
 
 
 ### <a id="bpn11706"></a> Prayer bpn11706 in Hausa
@@ -142,6 +212,8 @@ Kai nē bā shakka, mabuwāyi, mafi girma, mai gāfara da bā ta da iyāka.
 
 (Source category: Aure)
 (Bahaiprayers.net ID: 11706)
+
+
 
 
 
@@ -181,6 +253,8 @@ Kana gani na, yā Allāna, ina sarƙafē ga sūnanka, mafi tsarki, mafi haske, m
 (Bahaiprayers.net ID: 11709)
 
 
+
+
 ### <a id="bpn11710"></a> Prayer bpn11710 in Hausa
 Yabo ya tabbata a garēka yā Ubangiji Allāna. Ina rōƙon ka, don darajar wannan bayyana, da ta maida duhu haske, kuma da garēta a ka gina masallacin jama’a, da garēta kuma aka sauko rubutaccen allo, a ka shinfida ɓoyayyan kundi, ina rōƙon ka sauko mana, ni da abōkan zamāna, abun da zai sā mu hira wajen samāniyar ɗaukakarka, kuma abun da zai tsarkakar da mu da dauɗar shakka da ta hana waɗanda ba su amince ba, shiga cikin zauren ɗayantakarka. Yā Ubangijina, gā ni, nī nē wanda ya sarƙafu ga igiyar alfurmarka, kuma ya rātayu ga zanen rahama da alhērinka. Ka zubo mana ni da duk waɗanda nike ƙauna, albarkan nan da ka wārewa zāɓaɓɓun bāyunka.
 Yā Ubangijina, ga rānaikun da ka umurci bāyunka da ɗaukan azumi. Albarka ta tabatta ga wanda ya ɗauki ƙishurwa, kawai sabōda ƙaunarka, kuma cikin wātsi da kōmi in ba kai ba. Ka taimakē ni kuma ka tamaike su, yā Ubangijina, don mu bi umurninka, kuma mu tsaida dōkōkinka. 
@@ -188,6 +262,8 @@ A gaskiya ka nā da īkon yin abin da ka ga dāma. Bābu wani Allah illā kai, m
 
 (Source category: Azumi)
 (Bahaiprayers.net ID: 11710)
+
+
 
 
 
@@ -203,6 +279,8 @@ Bā shakka, da ni da duk wanɗanda suke ƙaunar ka, gūrinmu kēnan. Yabo ya tab
 (Bahaiprayers.net ID: 11714)
 
 
+
+
 ### <a id="bpn11715"></a> Prayer bpn11715 in Hausa
 Yā Allāna, majibincīna, maƙārashin duk wata bukātāta ! Gā bāwanka nan yana niyyar ya rumtsa a cikin inuwar rahamarka, yā kwanta ƙalƙashin samāniyar alfurmarka, yana rōƙon umurninka da tsarinka.
 Ina rōƙon ka, yā Ubangijina, da idonka wanda bā ya rumtsāwa, ka hana idānuwāna dūbin wani abu, in bā kai ba. Ka ƙarfafa ganīna, ta yanda zan tsinkāyi alāmunka, kuma in yi shāwar kallon wahayinka. Kai nē wanda tabbatar ƙadīrarka ta gētse duka tūshen mulki. 
@@ -212,6 +290,8 @@ Bābu wani Allah illā kai, mabuwāyi, mai nasara, marar iyāka.
 (Bahaiprayers.net ID: 11715)
 
 
+
+
 ### <a id="bpn11716"></a> Prayer bpn11716 in Hausa
 Yā Ubangiji, nā jūya huskāta wajen fādar ɗayantakarka, kuma nā nutsa kaina cikin tēkun rahamarka. Yā Ubangiji, ka wāye idānuwāna cikin wannan duhun, don tsinkāyen haskenka mai cikakken haskēwa, ka mayar da ni maji dāɗi a wannan zāmani mai abun al’ajabi ta wajen ɗanɗanon ƙaunarka.
 Yā Ubangijina, ka sā in ji kiranka, ka kuma būɗe mani ƙōfōfin arshinka, dōmin in ga annurin ɗaukakarka, ta yanda zā ta huzgē ni zuwa wajenka.
@@ -219,6 +299,8 @@ Lalle, kai nē mai bayyanarwa, karīmin, mai rahama, mai yāfēwa.
 
 (Source category: Dare)
 (Bahaiprayers.net ID: 11716)
+
+
 
 
 
@@ -247,6 +329,8 @@ Ku shā matuƙa, ruwan sōyayya, sabōda ku rāyu har kullun cikin ƙaunar Allah
 
 
 
+
+
 ## Gōdiya
 
 ### <a id="bpn11756"></a> Prayer bpn11756 in Hausa
@@ -257,6 +341,8 @@ Kai nē Jalla, mafi ɗaukaka, mai cikakkar ƙauna.
 
 (Source category: Gōdiya)
 (Bahaiprayers.net ID: 11756)
+
+
 
 
 
@@ -275,6 +361,8 @@ Yā Allāna, kada ka daina tafiyar da su, amma, daga annurin saninka, ka raka s�
 
 
 
+
+
 ## Kāriya
 
 ### <a id="bpn11730"></a> Prayer bpn11730 in Hausa
@@ -286,6 +374,8 @@ Yabo ya tabbata a garēka, yā kai Ubangijin tālikai.
 
 (Source category: Kāriya)
 (Bahaiprayers.net ID: 11730)
+
+
 
 
 ### <a id="bpn11731"></a> Prayer bpn11731 in Hausa
@@ -301,6 +391,8 @@ A gaskiya, ƙudurarka ta wuce gwalgwado da kōmi.
 (Bahaiprayers.net ID: 11731)
 
 
+
+
 ### <a id="bpn11732"></a> Prayer bpn11732 in Hausa
 Yabo ya tabbata a garēka, yā Ubangiji Allāna. Ga bāwanka, wanda a cikin hannunka, ya shā ruwan rahamarka, kuma ya ɗanɗana dāɗin ƙaunarka a wannan rānā wadda take tāka. 
 Ina rōƙon ka, don darajar bayyana sunāyenka, ka kāre shi da duk wata darūra da zā ta hana shi ƙaunar ka, kō ta kaudar da fuskarshi daga kallonka; ka kāre shi, ta yanda randunōnin māsu sakaci su kāsa kaucar da shi daga hanyar jin dāɗinka. Ina rōƙon ka bā shi arzikinka, kuma ka ɗaukakā shi yanda zā ya hangi dūniya, ya gāne da abu cē mai wucēwa kamar ƙibtar ido. A cikin īkonka marar iyāka, ka kāre shi da duk abun da kake ƙyāma.
@@ -308,6 +400,8 @@ A gaskiya, kai nē Ubangijinsa, kuma Ubangijin duka tālikai.
 
 (Source category: Kāriya)
 (Bahaiprayers.net ID: 11732)
+
+
 
 
 ### <a id="bpn11733"></a> Prayer bpn11733 in Hausa
@@ -321,6 +415,8 @@ Bābu wani Allah illa kai, mai taimako cikin hallaka, mai rāya kansa da kansa.
 (Bahaiprayers.net ID: 11733)
 
 
+
+
 ### <a id="bpn11734"></a> Prayer bpn11734 in Hausa
 Yabo ya tabbata a garēka, yā Ubangiji Allāna, nī nē bāwanka wanda ya sarƙahu ga igiyar rahamarka. Ina rōƙon ka, da sūnanka wanda ya mallaƙi kōmi, a cikin waɗanda ake gani da na ɓōye, sūnanka wanda daga shīnē, rāyuwar gaskiya ta bayyana bisa kōmi da kōwa. Ka ƙarfafā ni a cikin mulkinka wanda ya wanzama sama da ƙasa, kuma ka kāre ni da duk wata cūta kō wahala.
 Nā shaida cēwa, kai nē Ubangjijin duka sūnāye, mai yancin umurtar duk abun da yake gani daidai nē a garēshi. Bābu wani Allah illa kai, mabuwāyi, masanin duk abun dake ɓōye, mai basīra.
@@ -329,6 +425,8 @@ A gaskiya, kai nē mai taimako cikin hallaka da girman mulkinka. Bābu wani Alla
 
 (Source category: Kāriya)
 (Bahaiprayers.net ID: 11734)
+
+
 
 
 
@@ -342,12 +440,16 @@ Yā Ubangijina, baiwarka tā damƙa fātarta ga alfarmarka da alhērinka. Ka ƙa
 (Bahaiprayers.net ID: 11748)
 
 
+
+
 ### <a id="bpn11749"></a> Prayer bpn11749 in Hausa
 Yā Allāna! Yā kai mai gafarta zunubi, mai saukar da ni’ima, mai kaudar da matsalōli. Lalle nē, ina rōƙon jin-ƙanka, ga waɗanda suka huta daga gangar jikinsu, kuma su ka nufi samāniya wajen makōmar rūhu.
 Yā Ubangijina, gāfartā musu kuskurensu, kēɓē musu azāba, kuma ka sā duhun da suke ciki, ya zama haskē. Būɗē musu ƙōfar wadāta, tsarkakē su da ruwa mafi tsarki, kuma ka yardē musu tsinkāyar īkonka daga birji mafi ɗaukaka.
 
 (Source category: Mariganya)
 (Bahaiprayers.net ID: 11749)
+
+
 
 
 
@@ -361,11 +463,15 @@ Cē : Yabo ya tabbata ga Allah, shī kaɗai nē Ubangiji, kōwa bāwa nē a gar�
 (Bahaiprayers.net ID: 11720)
 
 
+
+
 ### <a id="bpn11721"></a> Prayer bpn11721 in Hausa
 Tabbatā cēwa : Allah yā wadāta ga kōmi, ya hiye ga kōmi. ƙasa da sama, bāya ga Allah, bā abunda kē dācēwa halitta. Hakīka, Ubangiji, shīnē masani, madawwami, mai mallaƙar kōmi.
 
 (Source category: Matsalōli)
 (Bahaiprayers.net ID: 11721)
+
+
 
 
 
@@ -379,6 +485,8 @@ Bā shakka, kai nē mayalwaci, masani, mafi basīra.
 (Bahaiprayers.net ID: 11726)
 
 
+
+
 ### <a id="bpn11727"></a> Prayer bpn11727 in Hausa
 Yā Allah, Ubangijina, ina rōƙon ka, a cikin tēkun warkarwarka, da hasken tarmāmuwar sāhiyar alhurmarka, da sūnanka wanda yake abun yabo ga bāyunka, da hazāƙar maganarka, da girman alhurmarka, kuma da rahamarka tabbatacciya tun kāfin abūbūwan da suke sama da ƙasa su tabbata, ka tsarkake ni da tsarkakakkun ruwan nan nāka waɗanda suke cike da rahamarka, ka kāre ni da kuskure, kāsāwa, tāshin hankali kō duk wani shirme.
 Yā Ubangijina, kana ganin bāwanka nā rōƙō a ƙōfar alhērinka, sarƙafe ga igiyar karāmarka, yā maida duk gūrinsa a garēka.
@@ -388,6 +496,8 @@ Ina rōƙon ka yā Allāna, kar ka hana masa abunda ya rōƙe ka cikin dubun alh
 (Bahaiprayers.net ID: 11727)
 
 
+
+
 ### <a id="bpn11728"></a> Prayer bpn11728 in Hausa
 Yā Ubangiji Allah maɗaukakin Sarki ! Ina rōƙon ka da sūnanka wanda ta garēshi ka ɗōra wanda shīnē kyāwonka, bisa kujērar īkon addīninka, sūnanka wanda da shīnē, kake sauyā kōmi, kuma kake haɗa kōmi, sūnanka dake hukunta kōmi, kake sallamar kōmi, kake kāre kōmi. 
 Ina rōƙon ka kāre baiwarka wadda ta nēmi ɓūya garēka, kuma take nēman kāriyar wanda garēshi ka bayyana. Wannan baiwar tā mīƙa duka gūrinta da amincinta a garēka. Bā ta da lāfiya yā Allāna! Amma tā shiga ƙalƙashin inuwar iccen warkarwarka. Tā furgita, sai ta tsēro cikin birnin taimakonka, cūta tā kāda ta, sai ta nēmi ɗugon ruwan rangwamenka, tā tsōrata, sai ta zābura don ta iske ƙōramar kwanciyar hankalinka, tā ɗau zunubi, sai ta maida fuskarta wajen dakalin gāfararka. Ka rufēta a cikin īkonka, da mayāfin warkarwarka da alhurmarka, yā Allāna, abun ƙaunāta! Ka kōri ƙishirwarta da kāriyar rahamarka da ni’imarka. Ka kāre mata duk wata azāba, matsala kō cūta, kuma da duk wani abun da yake la’ananne a ganinka.
@@ -395,6 +505,8 @@ A gaskiya, kai nē wanda ka fi ɗaukaka bisa ga kōmi in ba kai da kanka ba. Hak
 
 (Source category: Neman Lahiya)
 (Bahaiprayers.net ID: 11728)
+
+
 
 
 ### <a id="bpn11729"></a> Prayer bpn11729 in Hausa
@@ -409,6 +521,8 @@ A gaskiya, mulkinka kē daidaita kōmi, kai nē karīmin wanda kē rāyuwa da ka
 
 
 
+
+
 ## Neman Sauki Cikin Matsala
 
 ### <a id="bpn11742"></a> Prayer bpn11742 in Hausa
@@ -417,6 +531,8 @@ A cikin rangwamenka da girman ɗaukakar huskarka, ina rōƙon ka sauko mana, da 
 
 (Source category: Neman Sauki Cikin Matsala)
 (Bahaiprayers.net ID: 11742)
+
+
 
 
 ### <a id="bpn11743"></a> Prayer bpn11743 in Hausa
@@ -429,6 +545,8 @@ Kana iya aikata duk abun da kake sō. Bābu wani Allah illā kai, mai taimako ci
 (Bahaiprayers.net ID: 11743)
 
 
+
+
 ### <a id="bpn11744"></a> Prayer bpn11744 in Hausa
 Yā Allah Ubangijina, kar ka kasance nēsa da ni, sabōda matsalōli sun māmāye ni. Yā Allah Ubangijina, kar ka bar ni in cēci kaina da kaina, alhāli ƙiyayya mai tsanani tā hayyacē ni. Ka ƙōsar da ni da tātāccen nōnon karāmarka, sabōda ƙishurwa tā kāma ni matuƙa. A ƙalƙashin fufuken rahamarka, ka kāre ni sabōda maƙiyāna sun haɗu sun zāburo mani gabāɗayansu. Tsare ni kusan gadon mulkinka, gaban alāmu māsu nūna dawwamarka har abada, sabōda ƙarfīna yā ƙāre. Da luddan ruwan murna da hannun rahamarka ya mīko, ka haƙurar da ni, sabōda baƙin ciki mai nauyi yā tsananta mani. Ka rufe ni da rīga mai zubin cikakken īkonka, sabōda talauci ya yāce ni gabāɗayāna. Ka yarda in hūta cikin saurāren tāwan kūkan kurciyar samāniyarka, sabōda baƙar darūra tā rufe ni.
 A gaban gadon ɗayantakarka da hasken kyaukyawar huskarka, ka sā in tsaya, sabōda tsōro da karkarwa sun hallaka ni. A cikin kōgin rangwamenka nike sō ka zundumā ni, sabōda yawan zunubbaina sun ɓatar da ni gabāɗayāna.
@@ -437,12 +555,16 @@ A gaban gadon ɗayantakarka da hasken kyaukyawar huskarka, ka sā in tsaya, sab�
 (Bahaiprayers.net ID: 11744)
 
 
+
+
 ### <a id="bpn11745"></a> Prayer bpn11745 in Hausa
 Yabo da ɗaukaka su tabbata a garēka yā Allāna. Ina rōƙon ka, don darajar shaidar māsu ƙaunarka, da hawāyen waɗanda suke tsananin buƙātar ganin ka, kar ka hana mani rahamarka a wannan babbar rānā tāka, kuma kar ka hana ni jin kūkan tantabarar nan mai wāka ɗayantakarka a gaban hasken huskarka.
 Kana gani nā cikin tsananin talauci yā Ubangijina ! Gā shi nā sarkafa ga sūnanka mai mallaƙar kōmi. Nā san kat, da ina hallaka, sai gāshi nā sarkahu ga sūnanka wanda ya fi gaban hallaka. Don haka nē, nike rōƙon ka, don zātinka mai martaba, maɗaukaki, kar ka bar ni in fāɗa cikin miyāgun ayyuka. Ka riƙe hannūna cikin hannunka mai ƙarfi, ka zāgo ni daga cikin zurfin ra’ayīna karkatacce, ka hudda mani duk wani tunānīna na wōfi, kuma ka tsarkake ni da duk abun da ka yi wātsi da shi. Ka bā ni ƴancin jūyāwā gabāɗayāna wajenka, in amince da kai, in yi gudu wajenka nēman ɓūya, kuma in zābura zuwa gaban huskarka. Kai nē, hakīka, wanda kake aikata abun da kake sō don girman īkonka, kuma cikin girman īkonka, kuma haka cikin girman mulkinka kake umurtar abin da ka ga dāma. Bā wanda ya iya tsayāwa gaban ƙaddararka, bābu wanda zai iya kēwaye nufinka. Gaskiya, kai nē ƙadiran, maɗaukaki mayalwaci.
 
 (Source category: Neman Sauki Cikin Matsala)
 (Bahaiprayers.net ID: 11745)
+
+
 
 
 
@@ -496,6 +618,8 @@ Yā Allāna, nā shaida abūbūwan da gātāyanka suka shaida, kuma nā faɗakar
 
 
 
+
+
 ## Salla Farilla Madaidaiciya
 
 ### <a id="bpn11702"></a> Prayer bpn11702 in Hausa
@@ -521,6 +645,8 @@ Nā tabbata da kai kaɗai kake, bā ka da abōkin tārayya, kai nē Allah, kuma 
 
 
 
+
+
 ## Sallar Farilla Gajera
 
 ### <a id="bpn11701"></a> Prayer bpn11701 in Hausa
@@ -531,6 +657,8 @@ Bābu wani Allah sai kai, mai cēto cikin matsala, mai rāyuwa cikin īkonsa.
 
 (Source category: Sallar Farilla Gajera)
 (Bahaiprayers.net ID: 11701)
+
+
 
 
 
@@ -547,6 +675,8 @@ Yā Allāna, ka haskaka rūhuna da kyaukyāwar wallaharka, kamar yanda ka haske 
 
 
 
+
+
 ## Tsari
 
 ### <a id="bpn11746"></a> Prayer bpn11746 in Hausa
@@ -557,12 +687,16 @@ Bā shakka, bā wani Allah sai kai, jalla mayalwaci, mai gāfartāwa, mai jin-ƙ
 (Bahaiprayers.net ID: 11746)
 
 
+
+
 ### <a id="bpn11747"></a> Prayer bpn11747 in Hausa
 Daukaka ta tabbata a garēka yā Ubangiji Allah! Ina rōƙon ka ɗaga gizāgizan cikakkiyar rahamarka, ka zubo ruwan da zai wanke zukācen bāyinka da duka dauɗar da zā ta kāre huskarsu da dūbin wajenka, dōmin dukan gabāɗayansu, su bāda gaskiya a garēka, kai da ka rāyā su, ka halicce su. Ka taimake su yā Allah! Ta wajen girman īkonka, su sāmu dāmar shiga cikin hālin da zā su iya bambanta ƙamshin turāren tufāfin wanda ka ɗaukakā da sūnanka, maɗaukaki, don su sāmu dāmar ƙaunar ka, kuma su ɗanɗana dāɗin sāduwa da kai, ta yanda, kō dā zā su sāmu duka dūkiyar da kē sama da ƙasa, bā zā su daina yabon ka ba, kō su daina ɗaukaka sūnanka.
 Yā abun ƙaunāta! Wanda raina ya fi sō, ina rōƙon ka, nī bāwanka wanda yake nēman fuskarshi ta sādu da tāka, ka kāre shi da waɗanda ba su bāda gaskiya ba garēka. Ka kāre shi da sūkar māshin waɗanda suka yi wātsi da sāƙonka. Ka sā wannan bāwa, ya bi umurninka, ya ɗaukaka sūnanka, ya maida hankalinsa wajen abun da ka sauko. Hakika, kai nē wanda har abada, ba ka taɓa kōre daga ƙōfar rahamarka ba, duk waɗanda suka dōgara garēka, kuma ba ka hana duk mai nufa wajenka ba, ya iso fādar karāmarka, bā wani Allah sai kai, maɗaukakin sarki, ƙadiran mabuwāyi jalla, marar iyāka.
 
 (Source category: Tsari)
 (Bahaiprayers.net ID: 11747)
+
+
 
 
 
@@ -584,6 +718,8 @@ Sai cikin māmāki, alƙalamin Mai sama ya yi kira cēwa : « Yā kai wanda kai 
 (Bahaiprayers.net ID: 11760)
 
 
+
+
 ### <a id="bpn11761"></a> Prayer bpn11761 in Hausa
 ##Rānar haifuwar Baha’u’llah (aminci ya tabbata a garēshi)
 *Shīnē tsarkakakke, maɗaukaki, Mafi girma
@@ -600,6 +736,8 @@ Haka nē, ruwan kalmōmi yake zubōwa daga samāniyar ƙudirin Ubangijinka, mai 
 (Bahaiprayers.net ID: 11761)
 
 
+
+
 ### <a id="bpn11762"></a> Prayer bpn11762 in Hausa
 ##Rānar haifuwar Baha’u’llah (aminci ya tabbata a garēshi)
 *Shīnē tsarkakakke, maɗaukaki, Mafi girma.
@@ -610,6 +748,8 @@ Idan ka sāmu wannan allō, ka wāƙe shi da iyākar zāƙin murya, kuma ka cē 
 
 (Source category: Tsāme Daga Bukin Rānekun Tuāwa)
 (Bahaiprayers.net ID: 11762)
+
+
 
 
 
@@ -624,6 +764,8 @@ Yā Ubangijina, ka yāfēwa bāyinka mazā da māta. Kai nē a gaskiya, mai gāf
 (Bahaiprayers.net ID: 11735)
 
 
+
+
 ### <a id="bpn11736"></a> Prayer bpn11736 in Hausa
 Yā Ubangiji! Yā kai madōgarin tālikai! Kai nē matsirar duka bāyinka. Kai ka san asīrai da gaibu. Mū duka mun yi aikin zunubi, amma kai nē mai tsīrar da mazunubinta, mai rahama, mai jin-ƙai.
 Yā Ubangiji, kada ka kula da kāsāwarmu. Ka dūbē mu da idon alhurmarka, da isarka. Laifinmu nā da yawa, amma tēkun jin-ƙanka, bā ya da iyāka. Ka tsayar da mu, kuma ka ƙarfafā mu.Taimakar mu, dōmin mu karɓu gaban fādarka. Haskaka zūkāce, maida idānu wāyeyyu, da kunnuwa māsu ji, warkar da marar lāfiya, kuma rāya matattu. Arzuta matalauta, kuma ka amintar da māsu faƙēwa. Karɓar mu cikin īkonka. Haskē mu da hasken alhēri.
@@ -631,6 +773,8 @@ Kai nē mai karāma! Kai nē mai jin-ƙai! Kai nē mai taimakon tālikai.
 
 (Source category: Tūba)
 (Bahaiprayers.net ID: 11736)
+
+
 
 
 
@@ -643,11 +787,15 @@ Yā Allah, ka būɗa ƙōfa, ka bāda hāli, ka sā hanya ta zama shiryayya, ka 
 (Bahaiprayers.net ID: 11737)
 
 
+
+
 ### <a id="bpn11738"></a> Prayer bpn11738 in Hausa
 Sūnanka ya girmama yā Allāna. Yanzu da ka sā ni hanyar gāne gaskiya, ina rōƙon ka, daga sūnanka wanda ya fi ƙarfin a kwatamtā shi da harshe kō da rubūtu, sūnanka wanda ka ɓōye har abadin ābāda, kuma wanda zā a rika ɗaukakāwa har kullum, ina rōƙon ka sā, nan da ƙārēwar shēkarar nan, tūtar īkonka ta ƙāra hayēwa, dūniyar nan ta wadāta da arzikinka, ta dukufa cikin fargā da hanyar saninka da kusanta da kai, kuma kōwa ya tāshi tsaye don ya bāda wa’azin addininka. Lalle, kai nē mabuwāyi, mai girma, karīmin, mai kōmi, kuma mai aikata abun da yake sō.
 
 (Source category: Wa’azi)
 (Bahaiprayers.net ID: 11738)
+
+
 
 
 ### <a id="bpn11739"></a> Prayer bpn11739 in Hausa
@@ -659,12 +807,16 @@ A gaskiya, ka na da īkon yin abunda ka ga dāma, mulkinka yā mallaki kōmi da 
 (Bahaiprayers.net ID: 11739)
 
 
+
+
 ### <a id="bpn11740"></a> Prayer bpn11740 in Hausa
 Ya kai Allah, mafi kwatamci, yā kai Ubangijin tālikai! Rāyukan nan sū ne jāruman nan nāka na samāniya. Ka dāfa musu, yanda da taimakon malla’ikun samāniyarka, zā su ci nasara. Ka sā kōwane rai, ya ciyō kan wannan karkara, da ƙaunar Allah, kuma da hasken wa’azin Ubangiji. Yā Allah ! Ka zama kai nē madōgari da mataimaki a garēsu cikin hamāda, tudunnai kō fadama, ƙunci kō shāya, kō tēku, ka amince da su, don su sā a ji kiranka a cikin hikimarka da īkonka.
 A gaskiya, kai nē mabuwāyi, mai ƙudura, masanin kōmi, ƙadīran. Kai nē mai basīra, mai ji, mai gani.
 
 (Source category: Wa’azi)
 (Bahaiprayers.net ID: 11740)
+
+
 
 
 
@@ -679,6 +831,8 @@ Bā shakka, kai nē Ubangijin duka dūniya. Bā wani Allah sai kai, mai nasara, 
 (Bahaiprayers.net ID: 11722)
 
 
+
+
 ### <a id="bpn11723"></a> Prayer bpn11723 in Hausa
 Yā Allāna, abun ƙaunāta, majibincīna, abun bukātāta! Da wane irin halshē zan iya bayyana iyākacin gōdiyāta zuwa  garēka ? Ina cikin duhu, kā wāyar da ni. Nā huta daga hanyarka, kā maidō ni cikin alfurmarka. Nā zamana kamar matacce, kā rāyar da ni da ruwanka mai rāyarwa. Nā ƙēƙashe, ka falfaɗō ni da ruwan samāniyar kalmarka da suka zubo daga alkalamin rāhimi.
 Yā kai ƙaddara ! Bābu sāmun wata rāyuwa in bā ƙalƙashin alhērinka bā. Kar ka kauce mana da kyautatāwarka, kuma kar ka kai mu nēsa da kōgin rahamarka. Ina rōƙon ka taimakē ni, a kullum, kuma a kō’ina, ina rōƙon ka, daga samāniyar alfurmarka, ka sauko mani da wannan alfurma tāka ta tun fil azal.
@@ -688,6 +842,8 @@ A gaskiya, kai nē Ubangiji mayalwaci, mai mallaƙar kōmi da kōwa.
 (Bahaiprayers.net ID: 11723)
 
 
+
+
 ### <a id="bpn11724"></a> Prayer bpn11724 in Hausa
 Ka cē : ɗaukaka ta tabbata a garēka, kai da ka sā duka waliyyai suka yarda da kāsāwarsu gaban cikakken īkonka, kuma ka sā kōwane manzonka, ya tabbata cēwa, shi bā kōmi nē ba gaban managartacciyar ɗaukakarka marar iyāka.
 Ina rōƙon ka, don girman sūnanka, wanda ya būɗe ƙōfōfin samāniya, kuma ya cika rūhunan dake samāniya da ƙaunarka, ka sā ni in dāce don in bautā maka, kuma ka bā ni ƙarfin da zai sā ni in shiryu, in bi umurnin kitābinka. 
@@ -695,6 +851,8 @@ Kā san abun da yake tāre da ni, yā Ubangijina, amma nī, ban san abun dake t�
 
 (Source category: Yabo)
 (Bahaiprayers.net ID: 11724)
+
+
 
 
 ### <a id="bpn11725"></a> Prayer bpn11725 in Hausa
@@ -708,6 +866,8 @@ Kai nē Jalla sarkin sarauta, mayalwaci. Bābu wani Allah illā kai, mai shirya 
 
 
 
+
+
 ## Yārā
 
 ### <a id="bpn11750"></a> Prayer bpn11750 in Hausa
@@ -717,11 +877,15 @@ Yā Allah, ka haske wannan ƴar halittar tāka, ka ƙarfafa ta, ka ilimintar da 
 (Bahaiprayers.net ID: 11750)
 
 
+
+
 ### <a id="bpn11751"></a> Prayer bpn11751 in Hausa
 Yā Allah, ka tarbiyartar da yāran nan. Sūne itātuwan lambunka, sūne furannin fadamarka, kuma sūne wardin garkarka. Dā dai ruwan samāniyarka, ya zubo musu, rānā mai rāyarwa, ta haskēsu da ƙaunarka. Dā dai sanyin bazarka, ya sanyayā su, dōmin su sāmu kyaukyāwan jāgōra, su girma bā tāre da karkatā ba, kuma su zamana tamkar madūban kyāwonka mai tsarki. Kai nē mayalwaci, mai jinƙai
 
 (Source category: Yārā)
 (Bahaiprayers.net ID: 11751)
+
+
 
 
 ### <a id="bpn11752"></a> Prayer bpn11752 in Hausa
@@ -731,11 +895,15 @@ Yā Allah, ka sā ni hanya, ka kāre ni, ka haskaka futular zūciyāta, kuma ka 
 (Bahaiprayers.net ID: 11752)
 
 
+
+
 ### <a id="bpn11753"></a> Prayer bpn11753 in Hausa
 Yā Allah ! ka rāyar da wannan jinjiri cikin hannun ƙaunarka, kuma ka bā shi nōnon ƙaddararka. Ka shibka wannan matāshiyar itāciya cikin lambun ƙaunarka, kuma ka bā ta ruwan gizāgizan alhurmarka. Ka sā ya zama yāron daularka, kuma ka tafiyar da shi wajen dūniyar samāniyarka. Kai nē mai cikakken īko, mai jinƙai! Kai nē mai bādāwa, mai yalwatāwa, wanda alhērinka ya hiye kōmi.
 
 (Source category: Yārā)
 (Bahaiprayers.net ID: 11753)
+
+
 
 
 ### <a id="bpn11754"></a> Prayer bpn11754 in Hausa
@@ -745,11 +913,15 @@ Yā kai Allah wahābu, nī ƙaramin yāro nē, ka girmar da ni, kuma ka karɓē 
 (Bahaiprayers.net ID: 11754)
 
 
+
+
 ### <a id="bpn11755"></a> Prayer bpn11755 in Hausa
 Yā Ubangiji Allanā! nī yāro nē ƙarami. Ka cīda ni da nōnon rahamarka. Ka rāyar da ni cikin ƙaunarka, ka karantar da ni a makarantar nasīyarka, kuma ka sā, in girma cikin inuwar karāmarka. Ka zāro ni daga cikin duhu, ka maishē ni tamkar fitila mai haske. Ka ƙēɓē mani masīfa, ka sā, in tōfō cikin lambun furanninka. Ka sā ni cikin māsu bautā mā a fādarka, kuma ka bā ni hālin ādalai. Ka sā, in zama dalīlin albarkar bil’adama, kuma ka ɗaura mani rawanin rāyuwa ta har abāda. A gaskiya, kai nē mai ƙarfi, mai ƙudura, mai gani da kuma ji.
 
 (Source category: Yārā)
 (Bahaiprayers.net ID: 11755)
+
+
 
 
 
@@ -778,6 +950,8 @@ A gaskiya, mū duka muna bin umarnin Allah (sau 19)
 
 
 
+
+
 ## Ziyāra
 
 ### <a id="bpn11757"></a> Prayer bpn11757 in Hausa
@@ -798,6 +972,8 @@ Bābu wani Allah illa kai, mai gāfartāwa a kullun, mayalwaci.
 (Bahaiprayers.net ID: 11757)
 
 
+
+
 ### <a id="bpn11758"></a> Prayer bpn11758 in Hausa
 *Wannan āyā, ana jan ta a ƙabarin Abdul Baha, amma kuma mutun yana iya jan ta, don rāɗin kansa.
 *Idan kā yi wannan addu’a cikin īmāni da tawāli, haka nā sā zūciyar Abdul Baha ta jī dāɗi, kamar dai kana gabansa nē.
@@ -810,6 +986,8 @@ Kai nē mayalwaci, mai jin-kai, mai karāma, mai rahama, mai kulāwa.
 
 (Source category: Ziyāra)
 (Bahaiprayers.net ID: 11758)
+
+
 
 
 
@@ -829,6 +1007,8 @@ Bā wani Allah sai kai, mai jinƙai, mai rahama.
 (Bahaiprayers.net ID: 11717)
 
 
+
+
 ### <a id="bpn11718"></a> Prayer bpn11718 in Hausa
 Ka ƙirƙiro mani zūciya mai tsarki yā Allāna, kuma ka tabbatar mani da kyaukyāwan lamiri. Yā abun bēgēna, a cikin ƙudurarka, ka ƙarfafā ni bisa hanyarka, yā abun ƙaunata. Ka sā hasken ɗaukakarka ya būɗe mani hanyā zuwa garēka. 
 Yā kai mafārin duk bukātūna. A cikin girmanka mabuwāyi, ka ɗaukaka ni a samāniyar tsarkakēwarka, yā kai mafārin fāruwāta, ina rōƙon ka, a cikin zamancēwarka marar iyāka, ka sā in rāyu cikin farin ciki, yā kai da kake Allāna. Ka saukō mani kwanciyar hankali, yā kai abōkin zamāna, ka sā annurin fuskarka ya kai ni nēsa da duk wani abu in bā kai ba, yā Ubangijina, ka sā lābārin tabbatarka da ɗayantakarka, su cika zūciyāta da murna. Yā kai mai girma, ayyananne, wanda ya tabbata gaba da kōmi, kai nē mai cikakken sirran cikin ban māmāki.
@@ -840,6 +1020,8 @@ A gaskiya kai nē mabuwāyi, jalla babban sarki, ƙadīran.
 (Bahaiprayers.net ID: 11718)
 
 
+
+
 ### <a id="bpn11719"></a> Prayer bpn11719 in Hausa
 Dukan yabo ya tabbata a garēka yā Ubangiji Allāna ! Ina rōƙon ka, da sūnanka mai martaba da aka tsare cikin kurkukun birnin Akka, wanda ya fāɗā hannun maƙiyansa, kuma la’anannu suka zāre masa takubbansu, ka bā ni ƙarfin da zan zama tsayayye cikin addininsa, kuma in jūya kallōna wajensa, ta yanda bā wanda ya isa ya karkatar da ni.
 Nā shaida yā Ubangijina cēwa, yā bāyar da ransa bisa hanyarka, kuma don tsananin ƙaunarka, yā gwammace da wahala. Bābu cin mutuncin da ba a masa ba, don yā bayyanar da mulkinka zuwa ga bāyunka, kuma yā ɗaukaka kalmarka gaban halittarka. Kō da yake, matsalōli suna ƙāra cī gaba, kuma darūrar da ka zubo masa tā māmāye shi ta kō’ina, sai ya ƙarfafa cikin tunāninka, har ya zamanto duk yawan waɗanda suka wātsar da alāmunka, kuma su ka ƙi bāda gaskiya a garēka, sun daina bā shi tsōro.
@@ -849,6 +1031,9 @@ Kada ka hana mani yā Ubangijina, abun da ka mallaka, kada ka dāmu don nā manc
 
 (Source category: Ɗaukaka)
 (Bahaiprayers.net ID: 11719)
+
+
+
 
 
 

@@ -3,6 +3,190 @@ title = "Namibia"
 tags = ['lang=hz', 'prayerbook']
 +++
 
+
+
+[Khoekhoegowab:  Baha’u’llab di ≠gai-khaiga xu !kho-≠uihe ha /Gui-/guib](#Khoekhoegowab:  Baha’u’llab di ≠gai-khaiga xu !kho-≠uihe ha /Gui-/guib)
+
+[Khoekhoegowab: !NUWU //GUI AISA /GORES*](#Khoekhoegowab: !NUWU //GUI AISA /GORES*)
+
+[Khoekhoegowab: //AES !GUIS](#Khoekhoegowab: //AES !GUIS)
+
+[Khoekhoegowab: //GAU !NÂ](#Khoekhoegowab: //GAU !NÂ)
+
+[Khoekhoegowab: //GOA /GORETI](#Khoekhoegowab: //GOA /GORETI)
+
+[Khoekhoegowab: //O-≠OAGAN](#Khoekhoegowab: //O-≠OAGAN)
+
+[Khoekhoegowab: //O-≠Oaran Xa](#Khoekhoegowab: //O-≠Oaran Xa)
+
+[Khoekhoegowab: /Gui-/guiba /Goreti](#Khoekhoegowab: /Gui-/guiba /Goreti)
+
+[Khoekhoegowab: /GÔARON](#Khoekhoegowab: /GÔARON)
+
+[Khoekhoegowab: GAGASI/GAIB](#Khoekhoegowab: GAGASI/GAIB)
+
+[Khoekhoegowab: GUI-!NÂXASIB](#Khoekhoegowab: GUI-!NÂXASIB)
+
+[Khoekhoegowab: Gagasi-/Awemas](#Khoekhoegowab: Gagasi-/Awemas)
+
+[Khoekhoegowab: MÂ XO-/KHAS](#Khoekhoegowab: MÂ XO-/KHAS)
+
+[Khoekhoegowab: ≠GAI-≠GUITE](#Khoekhoegowab: ≠GAI-≠GUITE)
+
+[Khoekhoegowab: ≠KHAM-KHOEN](#Khoekhoegowab: ≠KHAM-KHOEN)
+
+[Khoekhoegowab: ≠URU-≠URUS XA](#Khoekhoegowab: ≠URU-≠URUS XA)
+
+[Khoekhoegowab: ≠Û-TAMA-HÂS](#Khoekhoegowab: ≠Û-TAMA-HÂS)
+
+[Khoekhoegowab:!GAMEB](#Khoekhoegowab:!GAMEB)
+
+[Khoekhoegowab:!Norasa Mas](#Khoekhoegowab:!Norasa Mas)
+
+[Khoekhoegowab:!UI /GORETI](#Khoekhoegowab:!UI /GORETI)
+
+[Oshikwanyama : EAMENO](#Oshikwanyama : EAMENO)
+
+[Oshikwanyama : EDEULO](#Oshikwanyama : EDEULO)
+
+[Oshikwanyama : EINDILO LE HOMBOLO](#Oshikwanyama : EINDILO LE HOMBOLO)
+
+[Oshikwanyama : EINDILO LIXUPI LAPANGELWA](#Oshikwanyama : EINDILO LIXUPI LAPANGELWA)
+
+[Oshikwanyama : EINDILO LO KUVELULA](#Oshikwanyama : EINDILO LO KUVELULA)
+
+[Oshikwanyama : EINDILO LO VAFI](#Oshikwanyama : EINDILO LO VAFI)
+
+[Oshikwanyama : EKWAFO](#Oshikwanyama : EKWAFO)
+
+[Oshikwanyama : ELIDILIKO LENDYA](#Oshikwanyama : ELIDILIKO LENDYA)
+
+[Oshikwanyama : Edalo la Bahá'u'llah](#Oshikwanyama : Edalo la Bahá'u'llah)
+
+[Oshikwanyama : Eendyovo Da Dya Momishanga Dimwe Da Baha u llah](#Oshikwanyama : Eendyovo Da Dya Momishanga Dimwe Da Baha u llah)
+
+[Oshikwanyama : Eongalo Lo Pamhepo](#Oshikwanyama : Eongalo Lo Pamhepo)
+
+[Oshikwanyama : NEAMENO](#Oshikwanyama : NEAMENO)
+
+[Oshikwanyama : OKUKULA PAMHEPO](#Oshikwanyama : OKUKULA PAMHEPO)
+
+[Oshikwanyama : ONGULA](#Oshikwanyama : ONGULA)
+
+[Oshikwanyama : ONGULOSHI](#Oshikwanyama : ONGULOSHI)
+
+[Oshikwanyama : OULIUMWE](#Oshikwanyama : OULIUMWE)
+
+[Oshikwanyama : OUNONA](#Oshikwanyama : OUNONA)
+
+[Oshikwanyama : OVANYASHA](#Oshikwanyama : OVANYASHA)
+
+[Oshikwanyama : Oda tolokwa da kufwa momisha da ʻAbduʼl-Bahá](#Oshikwanyama : Oda tolokwa da kufwa momisha da ʻAbduʼl-Bahá)
+
+[Oshikwanyama : Okuyandya Oiyandyiwa](#Oshikwanyama : Okuyandya Oiyandyiwa)
+
+[Oshikwanyama : Omahoololo a hoololwa mOmafiku Omadimbuluko](#Oshikwanyama : Omahoololo a hoololwa mOmafiku Omadimbuluko)
+
+[Oshikwanyama : Omailikano Amwe](#Oshikwanyama : Omailikano Amwe)
+
+[Otjiherero: ENYUNGUHUKA](#Otjiherero: ENYUNGUHUKA)
+
+[Otjiherero: OMBERUKIRO](#Otjiherero: OMBERUKIRO)
+
+[Otjiherero: OMBONGARERO YO MBEPO](#Otjiherero: OMBONGARERO YO MBEPO)
+
+[Otjiherero: OMERIYAPURIRO](#Otjiherero: OMERIYAPURIRO)
+
+[Otjiherero: OMUHUKA](#Otjiherero: OMUHUKA)
+
+[Otjiherero: ONGMUBIRO OHAPIRURWA](#Otjiherero: ONGMUBIRO OHAPIRURWA)
+
+[Otjiherero: ONGUROVA](#Otjiherero: ONGUROVA)
+
+[Otjiherero: ORUKUPO](#Otjiherero: ORUKUPO)
+
+[Otjiherero: OTJIJA NDJEWA](#Otjiherero: OTJIJA NDJEWA)
+
+[Otjiherero: OVAJARUKE](#Otjiherero: OVAJARUKE)
+
+[Otjiherero: OVAKOKE](#Otjiherero: OVAKOKE)
+
+[Otjiherero: OZONGUMBIRO TJIVA ZAPEKE](#Otjiherero: OZONGUMBIRO TJIVA ZAPEKE)
+
+[Otjiherero: OZONGUMBIRO ZOUNATJE NO MITANDA](#Otjiherero: OZONGUMBIRO ZOUNATJE NO MITANDA)
+
+[Rugciriku : KUVAFE](#Rugciriku : KUVAFE)
+
+[Rugciriku : LIDILIRO](#Rugciriku : LIDILIRO)
+
+[Rugciriku : LIGHAMENO](#Rugciriku : LIGHAMENO)
+
+[Rugciriku : LIKOLITO LYAPAMPEPO](#Rugciriku : LIKOLITO LYAPAMPEPO)
+
+[Rugciriku : LIKUSHONGO](#Rugciriku : LIKUSHONGO)
+
+[Rugciriku : LIKWATITO](#Rugciriku : LIKWATITO)
+
+[Rugciriku : LIVATERO](#Rugciriku : LIVATERO)
+
+[Rugciriku : LIVERURO](#Rugciriku : LIVERURO)
+
+[Rugciriku : MBATERO YAVITAPA](#Rugciriku : MBATERO YAVITAPA)
+
+[Rugciriku : NDANGO YAPAMPEP](#Rugciriku : NDANGO YAPAMPEP)
+
+[Rugciriku : NDAPERO NKA DIMWE](#Rugciriku : NDAPERO NKA DIMWE)
+
+[Rugciriku : NDAPERO YAHEPERO](#Rugciriku : NDAPERO YAHEPERO)
+
+[Rugciriku : NGURANGURA](#Rugciriku : NGURANGURA)
+
+[Rugciriku : NGUROVA](#Rugciriku : NGUROVA)
+
+[Rugciriku : NKWARA](#Rugciriku : NKWARA)
+
+[Rugciriku : UGHUMWE](#Rugciriku : UGHUMWE)
+
+[Rugciriku : VANANTJOKA](#Rugciriku : VANANTJOKA)
+
+[Rugciriku : VANUKE](#Rugciriku : VANUKE)
+
+[Rugciriku : Vighupa mu Shitafure Sha- ‘Abdu’l-Bahá](#Rugciriku : Vighupa mu Shitafure Sha- ‘Abdu’l-Bahá)
+
+[Rugciriku : Vighupa vyamuVitafure vimwe Vya Bahá’u’lláh](#Rugciriku : Vighupa vyamuVitafure vimwe Vya Bahá’u’lláh)
+
+[Rugciriku: Makyatiku](#Rugciriku: Makyatiku)
+
+[Rugciriku: Ngurangura](#Rugciriku: Ngurangura)
+
+[Rugciriku: Short Obligatory Prayer](#Rugciriku: Short Obligatory Prayer)
+
+[Rukwangali:  NDAPERO ZOHEPERO](#Rukwangali:  NDAPERO ZOHEPERO)
+
+[Rukwangali: EDILIRO](#Rukwangali: EDILIRO)
+
+[Rukwangali: EVERURO](#Rukwangali: EVERURO)
+
+[Rukwangali: KOVAFE](#Rukwangali: KOVAFE)
+
+[Rukwangali: MASASIKU](#Rukwangali: MASASIKU)
+
+[Rukwangali: MBATERO ZOYIGAVA](#Rukwangali: MBATERO ZOYIGAVA)
+
+[Rukwangali: NDANGO ZOPAMPEPO](#Rukwangali: NDANGO ZOPAMPEPO)
+
+[Rukwangali: NGURANGURA](#Rukwangali: NGURANGURA)
+
+[Rukwangali: NGUROVA](#Rukwangali: NGUROVA)
+
+[Rukwangali: NONDAPERO DIMWE](#Rukwangali: NONDAPERO DIMWE)
+
+[Rukwangali: NONDAPERO DOVANONA NOVADINKANTU](#Rukwangali: NONDAPERO DOVANONA NOVADINKANTU)
+
+[Rukwangali: NONKWARA](#Rukwangali: NONKWARA)
+
+
+
 ## Khoekhoegowab:  Baha’u’llab di ≠gai-khaiga xu !kho-≠uihe ha /Gui-/guib
 
 ### <a id="bpn12410"></a> Prayer bpn12410 in Namibia
@@ -25,6 +209,8 @@ Ai Sats ia Sa isiba Elob //gage unutse, Sa mute nouxun !aroma ≠gan am tsi Elob
 
 
 
+
+
 ## Khoekhoegowab: !NUWU //GUI AISA /GORES*
 
 ### <a id="bpn12384"></a> Prayer bpn12384 in Namibia
@@ -35,6 +221,8 @@ Bahá̓u̓lláh
 
 (Source category: Khoekhoegowab: !NUWU //GUI AISA /GORES*)
 (Bahaiprayers.net ID: 12384)
+
+
 
 
 
@@ -49,6 +237,8 @@ Sa /khoma xu ta ge ne //goas ona go !noa-≠khai Ai ti Elotose. Tsî tage ti oms
 
 
 
+
+
 ## Khoekhoegowab: //GAU !NÂ
 
 ### <a id="bpn12392"></a> Prayer bpn12392 in Namibia
@@ -57,6 +247,8 @@ Ae ti Elotse, ne /gôana //gau!nâ re. Ne //gôan ge a Sa !hanab di hai, //haren
 
 (Source category: Khoekhoegowab: //GAU !NÂ)
 (Bahaiprayers.net ID: 12392)
+
+
 
 
 
@@ -70,6 +262,8 @@ Tita ge Sa sôub !nâ go !noa ≠khai, Ae ti Elōtse tsî, !gâi-!gâb ge ne sô
 
 
 
+
+
 ## Khoekhoegowab: //O-≠OAGAN
 
 ### <a id="bpn12396"></a> Prayer bpn12396 in Namibia
@@ -79,6 +273,8 @@ Ai ti Elotse, /ûba-aots //oren ditse. /Khae aots !norasa mâti ditse. Tani-aots
 
 (Source category: Khoekhoegowab: //O-≠OAGAN)
 (Bahaiprayers.net ID: 12396)
+
+
 
 
 
@@ -100,11 +296,15 @@ Sida hoada ge amase Elob !na ni tanixa.
 (Bahaiprayers.net ID: 12400)
 
 
+
+
 ### <a id="bpn12401"></a> Prayer bpn12401 in Namibia
 Ai ti Elotse, /uba aots //oren ditse. /Khai aots !nore Sa mati ditse. Tani-aots tsugu ditse. Amase ta ge ra /khoma tsi /ubare //oren //gansi soros go khaus ai //axuna. Ti !Khutse //in di di sate /ari, e //in di !khainaba !nab !na /khara /khara re Sa !anusib di //gami /kha //are mare //ina ≠gaeti Sa /gawi !homi ain ni Satsa !ga ute.
 
 (Source category: Khoekhoegowab: //O-≠Oaran Xa)
 (Bahaiprayers.net ID: 12401)
+
+
 
 
 
@@ -117,11 +317,15 @@ Ai ti Elotse, /uba aots //oren ditse. /Khai aots !nore Sa mati ditse. Tani-aots 
 (Bahaiprayers.net ID: 12402)
 
 
+
+
 ### <a id="bpn12403"></a> Prayer bpn12403 in Namibia
 Elotse mare eb lgui !naxasib sa !nab diba hoaraga !hub-aiba !nami ≠ga, eb isib “Gaosib gea !khub di” Ab hoa-khoen di aidi ai muhesa.”
 
 (Source category: Khoekhoegowab: /Gui-/guiba /Goreti)
 (Bahaiprayers.net ID: 12403)
+
+
 
 
 ### <a id="bpn12404"></a> Prayer bpn12404 in Namibia
@@ -131,11 +335,15 @@ Ti Elotse, ti /namsatse, ti //khoretse. ≠Khiba ti /guri !gasib !na ≠gare tsi
 (Bahaiprayers.net ID: 12404)
 
 
+
+
 ### <a id="bpn12405"></a> Prayer bpn12405 in Namibia
 Ai ti Elotse Huire Sa /namsabena en //nowe //oasase Sa ≠Goms !na ma, tsi Sa daogu !na !gu. Tsi Sa siseni !na ma //awo. //Gaiba madare eda kha-khoena ma !oa //kha, tsi //nas /kha Sa Elosi ≠gae-≠guisa Sao. Sats ge a /Gai, /khomxa, //I-aitsama mabasen hats, /khai-aots tsaba-aots, Hoa /gaixats tsia !gai !naxatsa.
 
 (Source category: Khoekhoegowab: /Gui-/guiba /Goreti)
 (Bahaiprayers.net ID: 12405)
+
+
 
 
 ### <a id="bpn12406"></a> Prayer bpn12406 in Namibia
@@ -145,6 +353,8 @@ Ai ti Elotse Huire Sa /namsabena en //nowe //oasase Sa ≠Goms !na ma, tsi Sa da
 (Bahaiprayers.net ID: 12406)
 
 
+
+
 ### <a id="bpn12407"></a> Prayer bpn12407 in Namibia
 !Khutse /gaio-khoeda /gai-/gaire ti Elotse, /ubeda ge ≠ansa madare. !Khutse! /ga sa khoeda, !khu geire, //oda ge ha, uigaidare, //I //asen ha khoeda sa gaosib di ≠khaisib !na ≠hai≠haida re. Sats ga huida tamaio, oda ge !hub-aib xa !naga ni ha. Xawe Sa huib /khada ge gaise re !na /gamirose ni I //nas !oa /gai /gaidare ti Elotse, //nas !oa huidare eda //I-//asensa ui dan tsi //o gai tsi turaga dan //kha. Ti !Khutse ore dare ne tsaras /guisa I !hub-aib di !gasisa xu. Ui gaidare Sa !anu-gagab /kha eda uri-khai tsi Satsa !oaba, Satsa /gore-/is !oa ≠hanisen. Tsi Sa gaosib !na ≠gae !aosen Elotse Sats /gaisa Sats ge a /uba-ao !Khutse, Sats ge tsaba-ao.
 
@@ -152,11 +362,15 @@ Ai ti Elotse Huire Sa /namsabena en //nowe //oasase Sa ≠Goms !na ma, tsi Sa da
 (Bahaiprayers.net ID: 12407)
 
 
+
+
 ### <a id="bpn12408"></a> Prayer bpn12408 in Namibia
 Ti Elotse, Elotse huire Sa !gana !ai-tsab !na Sa ≠khai gariha mus /kha //ina Sou re !huigub tsi /hanahe //aosa Sou !khaib Sab !na Surigubaxu //ina Soure. !Norasase ≠agu ega-/geb diga xu //khaebere Sa Saoti di ≠hai ≠hai aose dire. E //indi ≠gaoga dagaire //naetsanati Sa !anu-gaosiba xu ra ≠an-≠anheti /kha. Gamanaga /gai /gaire Sa Hoana gao-≠amha /gaib /kha Sa !khusib di ≠khaisiba xu ra haba. Sats ge a Sou-ao, Hoa-/gaixa tsi !gai di aotsa.
 
 (Source category: Khoekhoegowab: /Gui-/guiba /Goreti)
 (Bahaiprayers.net ID: 12408)
+
+
 
 
 ### <a id="bpn12409"></a> Prayer bpn12409 in Namibia
@@ -167,6 +381,8 @@ Ai ti Elotse mei ge sa aniroe khoaha //gawob /kha. Tsi ≠nouse re //khana, Huir
 
 
 
+
+
 ## Khoekhoegowab: /GÔARON
 
 ### <a id="bpn12411"></a> Prayer bpn12411 in Namibia
@@ -174,6 +390,8 @@ Ai, Elotse, ne ≠khari /goâroë Sa /nami di dî ≠ams !nâ gei-geire, î sa �
 
 (Source category: Khoekhoegowab: /GÔARON)
 (Bahaiprayers.net ID: 12411)
+
+
 
 
 
@@ -188,6 +406,8 @@ Ti Elōtse! Khoa-Khoa ê ≠hî-≠hî ti gagasa, !anu-!anu ti ≠gaoba. Ti ≠�
 
 
 
+
+
 ## Khoekhoegowab: GUI-!NÂXASIB
 
 ### <a id="bpn12394"></a> Prayer bpn12394 in Namibia
@@ -195,6 +415,8 @@ Ai ti Elotse! Ai ti Elotse! Satsa /gui-/guire sa ! Gagu di ≠gaoga, ets ≠hei-
 
 (Source category: Khoekhoegowab: GUI-!NÂXASIB)
 (Bahaiprayers.net ID: 12394)
+
+
 
 
 
@@ -210,6 +432,8 @@ Ai ti Elotse, Ti Elotse sida ge a Sa !ga, Sa ma-ams /kha Sa !nanu-ais !oa go hat
 
 
 
+
+
 ## Khoekhoegowab: MÂ XO-/KHAS
 
 ### <a id="bpn12385"></a> Prayer bpn12385 in Namibia
@@ -217,6 +441,8 @@ Khoeë hâ, ≠Khôana //khaebe //khae? Elob ose Mî: Ab Eloba gare he re //îb 
 
 (Source category: Khoekhoegowab: MÂ XO-/KHAS)
 (Bahaiprayers.net ID: 12385)
+
+
 
 
 
@@ -230,6 +456,8 @@ Ti Elotse, ≠gai-≠guite, é soutere, é !ná-!ná ti !nas ti ≠gaob dita. El
 
 
 
+
+
 ## Khoekhoegowab: ≠KHAM-KHOEN
 
 ### <a id="bpn12393"></a> Prayer bpn12393 in Namibia
@@ -240,6 +468,8 @@ Ai Elōtse ne ≠kham-khoë !gâra ≠gaete mare, tsî /khomxa ≠gaosib ne /gâ
 
 
 
+
+
 ## Khoekhoegowab: ≠URU-≠URUS XA
 
 ### <a id="bpn12389"></a> Prayer bpn12389 in Namibia
@@ -247,6 +477,8 @@ Sa /ons gea ti ≠urusi, Ai ti Elotse, tsî Sa xa ≠âihos ge a ti so-lôa, Sa 
 
 (Source category: Khoekhoegowab: ≠URU-≠URUS XA)
 (Bahaiprayers.net ID: 12389)
+
+
 
 
 
@@ -262,6 +494,8 @@ Gares a Sa, Ae Elō ti !Khutse! /Khoma Tsi tagera ne ≠hai≠hais !kaenaba !nâ
 
 
 
+
+
 ## Khoekhoegowab:!GAMEB
 
 ### <a id="bpn12395"></a> Prayer bpn12395 in Namibia
@@ -269,6 +503,8 @@ Gares a Sa, Ai ti Elōtse! ne !gāb tsî !gās tsîra ge Sa /khomi di sōmi !nâ
 
 (Source category: Khoekhoegowab:!GAMEB)
 (Bahaiprayers.net ID: 12395)
+
+
 
 
 
@@ -280,6 +516,8 @@ Ai ti Elotse, ti Elotse !na-!na Sa /namsaben di ≠aite, e lgai-lgai //ina. Sa �
 
 (Source category: Khoekhoegowab:!Norasa Mas)
 (Bahaiprayers.net ID: 12399)
+
+
 
 
 
@@ -295,6 +533,8 @@ Ai, ti Elotse, ti //kha-//kha-aotse, ti //khoreb di !oa-≠ûi tse! Nē !gab sab
 
 
 
+
+
 ## Oshikwanyama : EAMENO
 
 ### <a id="bpn12443"></a> Prayer bpn12443 in Namibia
@@ -302,6 +542,8 @@ Kalunga, Amenenge, endifenge, ningenge olamba taivadima no nyofi tai-vilima. Ove
 
 (Source category: Oshikwanyama : EAMENO)
 (Bahaiprayers.net ID: 12443)
+
+
 
 
 
@@ -316,6 +558,8 @@ Kalunga! Deula ounona aveshe ava. Ounona ava ovo oimeno yomepya loYe, enhemo do 
 
 
 
+
+
 ## Oshikwanyama : EINDILO LE HOMBOLO
 
 ### <a id="bpn12453"></a> Prayer bpn12453 in Namibia
@@ -323,6 +567,8 @@ Ove fimanekwa, Kalunga kange! Oshili, ou oye omupiya woYe omulumenhu no mupiya w
 
 (Source category: Oshikwanyama : EINDILO LE HOMBOLO)
 (Bahaiprayers.net ID: 12453)
+
+
 
 
 
@@ -339,6 +585,8 @@ Ondi shi shi, Kalunga kange, kutya Ove wa shitange ndi ku shive ndikulinyongamen
 
 
 
+
+
 ## Oshikwanyama : EINDILO LO KUVELULA
 
 ### <a id="bpn12446"></a> Prayer bpn12446 in Namibia
@@ -346,6 +594,8 @@ Edina loYe olo eveluko lange, Kalunga kange, oku ku dimbulukwa oko etalaleko lan
 
 (Source category: Oshikwanyama : EINDILO LO KUVELULA)
 (Bahaiprayers.net ID: 12446)
+
+
 
 
 
@@ -374,6 +624,8 @@ Fye atushe, oshili, otu na olukeno mu Kalunga. (x19)
 (Bahaiprayers.net ID: 12458)
 
 
+
+
 ### <a id="bpn12454"></a> Prayer bpn12454 in Namibia
 Kalunga kange! Ove ou hokufapo omatimba! Omuyandyi womilongelo, Omupululipo wo maehameko! 
 	Oshili, ohandi kwehela ukufilepo, omanyono au afiyapo oshikutu shou kwadu ndele ta londo kounyuni wopamhepo. 
@@ -381,6 +633,8 @@ Kalunga kange! Ove ou hokufapo omatimba! Omuyandyi womilongelo, Omupululipo wo m
 
 (Source category: Oshikwanyama : EINDILO LO VAFI)
 (Bahaiprayers.net ID: 12454)
+
+
 
 
 
@@ -394,6 +648,8 @@ Opena ou handulu oku ku fapo omaudyu ponhele ya Kalunga? Tya: Na hambelelwe Kalu
 
 
 
+
+
 ## Oshikwanyama : ELIDILIKO LENDYA
 
 ### <a id="bpn12455"></a> Prayer bpn12455 in Namibia
@@ -404,6 +660,8 @@ Hambelelwa, Omwene Kalunga kange! Ohandi kwilikana omo lwe hololo loYe eli la sh
 
 (Source category: Oshikwanyama : ELIDILIKO LENDYA)
 (Bahaiprayers.net ID: 12455)
+
+
 
 
 
@@ -429,6 +687,8 @@ Hano tambuleni oihomo yomatumbulo aye, taa loko okudja meulu; oihomo yehalo lOmw
 (Bahaiprayers.net ID: 12473)
 
 
+
+
 ### <a id="bpn12474"></a> Prayer bpn12474 in Namibia
 Ye Oimuyapuki shili, Ye Omunenenhu
 
@@ -443,6 +703,8 @@ Keshe tuu ou ta tambula Omukanda ou, na yelule ondaka yaye nongovela inyenye, ye
 
 
 
+
+
 ## Oshikwanyama : Eendyovo Da Dya Momishanga Dimwe Da Baha u llah
 
 ### <a id="bpn12469"></a> Prayer bpn12469 in Namibia
@@ -454,6 +716,8 @@ Oshili Ohaiti, Eli olo efiku
 (Bahaiprayers.net ID: 12469)
 
 
+
+
 ### <a id="bpn12470"></a> Prayer bpn12470 in Namibia
 Unona Nye Vo Vanhu
 (O Children of men)
@@ -461,6 +725,8 @@ Unona Nye Vo Vanhu
 
 (Source category: Oshikwanyama : Eendyovo Da Dya Momishanga Dimwe Da Baha u llah)
 (Bahaiprayers.net ID: 12470)
+
+
 
 
 ### <a id="bpn12471"></a> Prayer bpn12471 in Namibia
@@ -481,6 +747,8 @@ Lituleni Nye Vene Mefuta Le Ndyoyo Dange
 
 
 
+
+
 ## Oshikwanyama : Eongalo Lo Pamhepo
 
 ### <a id="bpn12456"></a> Prayer bpn12456 in Namibia
@@ -490,6 +758,8 @@ Lituleni Nye Vene Mefuta Le Ndyoyo Dange
 
 (Source category: Oshikwanyama : Eongalo Lo Pamhepo)
 (Bahaiprayers.net ID: 12456)
+
+
 
 
 
@@ -504,6 +774,8 @@ Ame, Onda pe nduka ongula ei yonena me filonghenda loYe, Kalunga kange. Ame ohai
 
 
 
+
+
 ## Oshikwanyama : OKUKULA PAMHEPO
 
 ### <a id="bpn12445"></a> Prayer bpn12445 in Namibia
@@ -515,6 +787,8 @@ Kalunga! Talaleka ndele hafifa omhepo yange. Koshola omutima wange. Yelifa endun
 
 
 
+
+
 ## Oshikwanyama : ONGULA
 
 ### <a id="bpn12447"></a> Prayer bpn12447 in Namibia
@@ -522,6 +796,8 @@ Onda penduka meameno loYe, Kalunga kange, ndele ohai kongo oku kala koshi yeamen
 
 (Source category: Oshikwanyama : ONGULA)
 (Bahaiprayers.net ID: 12447)
+
+
 
 
 
@@ -537,6 +813,8 @@ Kalunga kange, omwene wange, efikilo le halo lange! Ame, omupiya woYe, onda hala
 
 
 
+
+
 ## Oshikwanyama : OULIUMWE
 
 ### <a id="bpn12452"></a> Prayer bpn12452 in Namibia
@@ -544,6 +822,8 @@ Kalunga kange! Kalunga kange! Mangela kumwe omitima do vapiya voYe, ndele vaulik
 
 (Source category: Oshikwanyama : OULIUMWE)
 (Bahaiprayers.net ID: 12452)
+
+
 
 
 
@@ -557,6 +837,8 @@ Kalunga! Humbata okana aka Mekolo lo hole yoYe, ndele kapa Omashini ta di mevele
 
 
 
+
+
 ## Oshikwanyama : OVANYASHA
 
 ### <a id="bpn12451"></a> Prayer bpn12451 in Namibia
@@ -567,6 +849,8 @@ Omwene! Pa omunyasha ou ouyelele tau vadima ndele filonghenda omushitwa woYe ou 
 
 
 
+
+
 ## Oshikwanyama : Oda tolokwa da kufwa momisha da ʻAbduʼl-Bahá
 
 ### <a id="bpn12472"></a> Prayer bpn12472 in Namibia
@@ -574,6 +858,8 @@ Nye ava ta Mutalelifa oipala yeni ku Kalunga! Keleleni omesho eni ahatale oinima
 
 (Source category: Oshikwanyama : Oda tolokwa da kufwa momisha da ʻAbduʼl-Bahá)
 (Bahaiprayers.net ID: 12472)
+
+
 
 
 
@@ -588,6 +874,8 @@ Nye ava ta Mutalelifa oipala yeni ku Kalunga! Keleleni omesho eni ahatale oinima
 
 (Source category: Oshikwanyama : Okuyandya Oiyandyiwa)
 (Bahaiprayers.net ID: 12457)
+
+
 
 
 
@@ -615,6 +903,8 @@ Omo Opena, ya mana omhata, yOmukombada tai ingida tai ti: “Oove ou wa tumbalek
 
 
 
+
+
 ## Oshikwanyama : Omailikano Amwe
 
 ### <a id="bpn12459"></a> Prayer bpn12459 in Namibia
@@ -629,11 +919,15 @@ Bahá̓u̓lláh
 (Bahaiprayers.net ID: 12459)
 
 
+
+
 ### <a id="bpn12460"></a> Prayer bpn12460 in Namibia
 Tya: Kalunga, Kalunga kange! Tu la oshikoloni shouyuki woYe komutwe wange, ndele tu vika eembadu domutwe wange no shinge shoYe shiyapuki. Oshili, Ove, ou una enghono do ku pa omilongelo donghenda.
 
 (Source category: Oshikwanyama : Omailikano Amwe)
 (Bahaiprayers.net ID: 12460)
+
+
 
 
 ### <a id="bpn12461"></a> Prayer bpn12461 in Namibia
@@ -643,11 +937,15 @@ Kalunga kange! Ohandi indile, ke dina loYe olo la tu mbala unene. Ukwa fenge eng
 (Bahaiprayers.net ID: 12461)
 
 
+
+
 ### <a id="bpn12462"></a> Prayer bpn12462 in Namibia
 Kalunga yandya oujelele wouli-umwe utandavelifwe kombada yedu alishe, opo ne oshipateko shininge “Ouhamba owa Kalunga mwene”, nau kale edidiliko kombada yoshipala sho vanhu vao aveshe.
 
 (Source category: Oshikwanyama : Omailikano Amwe)
 (Bahaiprayers.net ID: 12462)
+
+
 
 
 ### <a id="bpn12463"></a> Prayer bpn12463 in Namibia
@@ -657,11 +955,15 @@ Omwene wange, Omuholike, ehalo lange! Kala pamwe name mowike wange ndele kala yo
 (Bahaiprayers.net ID: 12463)
 
 
+
+
 ### <a id="bpn12464"></a> Prayer bpn12464 in Namibia
 Omwene Kalunga kange! Kwafela ovapiya voYe va kale vapama mEitavelo loYe, vaende mendyila doYe, vapama mEitavelo loYe. Va pa onghenda yoYe veli kelele kehandu lavo no ko kwe hamekwa, va shikule ouyelele uYapuki weameno loYe. Ove ouna enghono, Omunefilonghenda, ou iho pumbwasha nande, Omwameni, Omunalukeno, Omunaenghono adishe, Omuyandyi waishe.
 
 (Source category: Oshikwanyama : Omailikano Amwe)
 (Bahaiprayers.net ID: 12464)
+
+
 
 
 ### <a id="bpn12465"></a> Prayer bpn12465 in Namibia
@@ -673,11 +975,15 @@ Omwene! Tu filonghenda, tu pa ehalo loYe liwa; fye ovafyona, tu pa ou puna tau d
 (Bahaiprayers.net ID: 12465)
 
 
+
+
 ### <a id="bpn12466"></a> Prayer bpn12466 in Namibia
 Omwene! Fye oingone; tu pameka Kalunga! Fye katu na endunge; tu pa endunge. Omwene! Fye ova fyona; tu ninga oipuna, Kalunga! Fye otwa fya; tu nyumuna. Omwene! Ofye eli xupipiko; tu nangeka noupuna wouhamba woYe: ngenge oto tu kwafa, Omwene, ohatu ningi twafa enyofi ta di vilima. Ngenge ito tu kwafa oha tu ninginifwa koshi yedu. Omwene! Tu pameka. Kalunga! tu pa tu findane. Kalunga! tu kwafa tu finde okahalu ne halo letu vene. Omwene! tu ku famo mapando oinima yo kombada yedu. Omwene! tu pepela nomufudo wo mhepo iYapuki opo tu mone oupenda tu ku kalele, tu ku linyongamene, ndele tu li yandye fye vene noku ku kalela mouhamba woYe walushe. Omwene! Ove ou una enghono, Kalunga, Ove ou ho ku filepo omatimba! Omwene! Ove omunamutima-nghenda!
 
 (Source category: Oshikwanyama : Omailikano Amwe)
 (Bahaiprayers.net ID: 12466)
+
+
 
 
 ### <a id="bpn12467"></a> Prayer bpn12467 in Namibia
@@ -687,12 +993,16 @@ Kalunga, Kalunga kange! Amena evapiya voYe ovaholike kowi wavo vene no ke handu 
 (Bahaiprayers.net ID: 12467)
 
 
+
+
 ### <a id="bpn12468"></a> Prayer bpn12468 in Namibia
 Kalunga ketu, Kalunga ketu, oka dila aka, oka teka evava ndele ita kadulu oku tuka nawa. Ka kwafela hano ka tuke po ko ka kafike fiyo oke fi kilo le xupifo, ka pa ka tuke nehafo ne nyaku la lushe mouyelele we shito loYe, yelulapo ongovelo ya ko medina loYe lafimana mounyuni aushe. Talaleka omatwi neingido eli. Ove yelifa omesho ako a tale ko madidiliko eameno loYe la lushe!
 	Omwene! Ame andike, andike filu, no hailixupipike, nghina nande Omukwafi ehefi Ove, ka ndina omu vateli Ove auke, nghina nande omu humbati eku weda. Ko lekenge ndi kale pwOve, Ove, ukwafenge nengudu dovaengeli voYe, penge oulenga ndifindane no ndyovo yoYe iYapuki, ndele penge ounongo woYe ndi popye mokati kova shitwa voYe. Oshili, Ove eameno lo va fyona no mwameni wounona, Oshili Ove omunaenghono, Omwene wenghono adishe ou iho findilwasha.
 
 (Source category: Oshikwanyama : Omailikano Amwe)
 (Bahaiprayers.net ID: 12468)
+
+
 
 
 
@@ -710,6 +1020,8 @@ Ove owatjiri, Omuhona nombara yovandu avehe, Ove omuute wovina avihe mOuje mbui.
 
 
 
+
+
 ## Otjiherero: OMBERUKIRO
 
 ### <a id="bpn6050"></a> Prayer bpn6050 in Namibia
@@ -717,6 +1029,8 @@ Ena rOye oro everukise,  Ndjambi wandje,  nu  okuri zemburuka nayOve oko ondjamo
 
 (Source category: Otjiherero: OMBERUKIRO)
 (Bahaiprayers.net ID: 6050)
+
+
 
 
 
@@ -737,6 +1051,8 @@ Omeripura wetu nga yewane kumwe ngatji mayerire owatjiri, ombepo yetu ngaimunike
 
 
 
+
+
 ## Otjiherero: OMERIYAPURIRO
 
 ### <a id="bpn6048"></a> Prayer bpn6048 in Namibia
@@ -753,6 +1069,8 @@ Kapena Mukuru warue,  Ngutjiwa avihe,  Nguna ounongo auhe. Ondangero kOve erike 
 
 
 
+
+
 ## Otjiherero: OMUHUKA
 
 ### <a id="bpn6045"></a> Prayer bpn6045 in Namibia
@@ -760,6 +1078,8 @@ Ami mbapenduka kehijo ndjeverero yOye, Ndjambi wandje, nu otjo tjiri kuje ingwi 
 
 (Source category: Otjiherero: OMUHUKA)
 (Bahaiprayers.net ID: 6045)
+
+
 
 
 ### <a id="bpn6046"></a> Prayer bpn6046 in Namibia
@@ -772,6 +1092,8 @@ Kapena Mukuru warue pendje nayOve erike, ngu hasasanekua, ngutjiwa avihe nounong
 
 
 
+
+
 ## Otjiherero: ONGMUBIRO OHAPIRURWA
 
 ### <a id="bpn6043"></a> Prayer bpn6043 in Namibia
@@ -781,6 +1103,8 @@ Merihepura omuini kove Mukuru, Ove kutja wendjiutira kutja mbikutjiwe nu mbiriko
 
 (Source category: Otjiherero: ONGMUBIRO OHAPIRURWA)
 (Bahaiprayers.net ID: 6043)
+
+
 
 
 
@@ -798,6 +1122,8 @@ Meriheke kOve, Ndjambi wandje, kehi yeho rOye eyapuke ndi harara, okutjevera nok
 
 
 
+
+
 ## Otjiherero: ORUKUPO
 
 ### <a id="bpn6049"></a> Prayer bpn6049 in Namibia
@@ -805,6 +1131,8 @@ Ngo tangwe Ove Ndjambi wandje! Tjiri, ovakarere wOye veyamba kehi yotjizire tjon
 
 (Source category: Otjiherero: ORUKUPO)
 (Bahaiprayers.net ID: 6049)
+
+
 
 
 
@@ -822,6 +1150,8 @@ Ngavetakamise ongamburiro ndji ngavekutange erike nunga vekare no hange  mena rO
 
 
 
+
+
 ## Otjiherero: OVAJARUKE
 
 ### <a id="bpn6058"></a> Prayer bpn6058 in Namibia
@@ -832,6 +1162,8 @@ Ndjambi wetu! Veyapura ko zongatukiro, vingurura oruhoze ruawo, nu tanaura ondor
 
 (Source category: Otjiherero: OVAJARUKE)
 (Bahaiprayers.net ID: 6058)
+
+
 
 
 
@@ -853,6 +1185,8 @@ Matutanga Mukuru. Ma turikotamene  ku Mukuru. Atuhe Ovatoororwa vaMukuru. Matuhi
 
 
 
+
+
 ## Otjiherero: OZONGUMBIRO TJIVA ZAPEKE
 
 ### <a id="bpn6059"></a> Prayer bpn6059 in Namibia
@@ -864,11 +1198,15 @@ Mukuru Ove, kutura omutima wo musuverwa wOye no rusuvero rwOye, opumakara amerip
 (Bahaiprayers.net ID: 6059)
 
 
+
+
 ### <a id="bpn6060"></a> Prayer bpn6060 in Namibia
 Ndjambi wandje! Ndjambi wandje! wanisa kumue omitima vyo vakarere wOye, nu veraisira ondando yOye onene. Vetjita kutja vekongorere omatuako wOye no kukara no mbakatui  koveta yOye. Ndjambi ovehumbu, posya veraisira nu vetika nondjerera younongo wOye, uvehuhumine omitima no rusuvero rwOye. Oove nguri Mukuru omuyame.
 
 (Source category: Otjiherero: OZONGUMBIRO TJIVA ZAPEKE)
 (Bahaiprayers.net ID: 6060)
+
+
 
 
 ### <a id="bpn6061"></a> Prayer bpn6061 in Namibia
@@ -878,11 +1216,15 @@ Mukuru wandje! Mukuru wandje! Hwikika otjiuru tjandje no tjikrone tjohange, kotj
 (Bahaiprayers.net ID: 6061)
 
 
+
+
 ### <a id="bpn6062"></a> Prayer bpn6062 in Namibia
 Mukuru wandje! Mepura kOve mena rOye eyapuke, vatera ami ngumbiri omukarere wOye kutja mbiningapare, Ove unomasa kombanda yovina avihe!
 
 (Source category: Otjiherero: OZONGUMBIRO TJIVA ZAPEKE)
 (Bahaiprayers.net ID: 6062)
+
+
 
 
 ### <a id="bpn6063"></a> Prayer bpn6063 in Namibia
@@ -892,11 +1234,15 @@ Mukuru, tjita kutja ondjerera yo ruwano iworonge Ouje auhe, no kutja ikutjire, "
 (Bahaiprayers.net ID: 6063)
 
 
+
+
 ### <a id="bpn6064"></a> Prayer bpn6064 in Namibia
 Penaune ngumaisapo ouzeu pendje naMukuru? Ii, oMukuru erike. Mukuru ngatangue! Eye oMukuru! Avehe ovakarere Ve. Avehe ngave Mukongorere, nu verikotamene ku Je!
 
 (Source category: Otjiherero: OZONGUMBIRO TJIVA ZAPEKE)
 (Bahaiprayers.net ID: 6064)
+
+
 
 
 ### <a id="bpn6065"></a> Prayer bpn6065 in Namibia
@@ -910,6 +1256,8 @@ Ndjambi wandje! Meri kotakemene kOve Ndjambi, orondu Oove epanga enene puami omu
 (Bahaiprayers.net ID: 6065)
 
 
+
+
 ### <a id="bpn6066"></a> Prayer bpn6066 in Namibia
 Muhona wandje, Mbe kusuvera. ndjisuvera mourike wandje nu ndjitika  nu undji tongamise.. Isapo oruhoze rwandje. Ndjipa mbikarere Ove erike, nu ndjipa mbi kare nayOve erike ndji twara ko tjouyapuke tjOye numbi kusuvere.
 
@@ -917,11 +1265,15 @@ Muhona wandje, Mbe kusuvera. ndjisuvera mourike wandje nu ndjitika  nu undji ton
 (Bahaiprayers.net ID: 6066)
 
 
+
+
 ### <a id="bpn6067"></a> Prayer bpn6067 in Namibia
 Muhona, Mukuru wandje! vatera ovasuverwa wOye kutja vekare nomasa mo  ngamburiro yOye. Ngavekare mo ndjira yOye no mOngamburiro indji. Vepa vekare no masa avehakondjisa omauvi, ngave takamise aruhe. Ove omunamasa, omunandjenda, omutakame kOve omuini, Ove ondjandje nomu naunyanutima, omunamasa ayehe.
 
 (Source category: Otjiherero: OZONGUMBIRO TJIVA ZAPEKE)
 (Bahaiprayers.net ID: 6067)
+
+
 
 
 ### <a id="bpn6068"></a> Prayer bpn6068 in Namibia
@@ -935,6 +1287,8 @@ Muhona oisa okuyandja ondjenda na ndarire komwinjo mbui mbuhana otjiungura. Ombo
 (Bahaiprayers.net ID: 6068)
 
 
+
+
 ### <a id="bpn6069"></a> Prayer bpn6069 in Namibia
 Muhona Ete twangundipara, zeuparisa ete Mukuru, owete omayova tupayo ozondunge. Muhona owete ovasyona, honaparisa ete, Mukuru! twa koka, nutu pendura. Muhona twahepa ouyere nutupa ouyere mouhonapare wOye. Tjinga amotuvatere Muhona maturire ozonyose tjiri.
 
@@ -944,11 +1298,15 @@ Tjinangara Ove konokutuvatera, maturire ovina ovivi Muhona, Zeuparisa ete Mukuru
 (Bahaiprayers.net ID: 6069)
 
 
+
+
 ### <a id="bpn6070"></a> Prayer bpn6070 in Namibia
 Mukuru wandje! Tjizikiza omukarere wOye omutakame kovina ovivi vyOuye, yama nomeho wOye ngeri omapatje. Orusuvero ruya kouvi na keruru. Ngatukare mekoro rOye, nu nyandisa omitima vyawo nozoverise zomouhonapare wOye. Ove omunamasa ayehe,  omuyame nondjandje.
 
 (Source category: Otjiherero: OZONGUMBIRO TJIVA ZAPEKE)
 (Bahaiprayers.net ID: 6070)
+
+
 
 
 ### <a id="bpn6071"></a> Prayer bpn6071 in Namibia
@@ -961,6 +1319,8 @@ Muhona owami erike hina ndengu wina. Hina muvatere pendje nayOve. Hina mutize, n
 
 
 
+
+
 ## Otjiherero: OZONGUMBIRO ZOUNATJE NO MITANDA
 
 ### <a id="bpn6052"></a> Prayer bpn6052 in Namibia
@@ -968,6 +1328,8 @@ Ndjambi wetu! kurisa okanatje nga mo mawoko wOye worusuvero, nu kepa omaihi wond
 
 (Source category: Otjiherero: OZONGUMBIRO ZOUNATJE NO MITANDA)
 (Bahaiprayers.net ID: 6052)
+
+
 
 
 ### <a id="bpn6053"></a> Prayer bpn6053 in Namibia
@@ -979,6 +1341,8 @@ oOve nguri omuyandje na wina omunaunyanutima.
 (Bahaiprayers.net ID: 6053)
 
 
+
+
 ### <a id="bpn6054"></a> Prayer bpn6054 in Namibia
 Muhona Ove! yerisa ondjoroka no rusuvero kombanda jo mutanda ingui,   nu otjari  tjOye ngatjikare puna omuutua wOye  ingui. Mupa ounongo  ,ozondunge,  nomasa  momautiro wejuva arihe weha rOye eyapuke rondjeverero kutja makuturue kozondataiziro, meriyandje auhe kotjiungura tjOye, manane omuhunga wokomurungu na kuimba ovahumandu, makuture ova kamburwa   nu mapendure ovehina konatja. Avihe  imbi  ngaviserue ondaya mena romeri zemburuka no ndangu  kOve. Oove nguri  om unamasa ayehe.
 
@@ -986,11 +1350,15 @@ Muhona Ove! yerisa ondjoroka no rusuvero kombanda jo mutanda ingui,   nu otjari 
 (Bahaiprayers.net ID: 6054)
 
 
+
+
 ### <a id="bpn6055"></a> Prayer bpn6055 in Namibia
 Ndjambi wandje, ndjiviura, ndji tjevera nundji tjinda, tjita kutja mbirire emunine no nyose ongenangene. Oove nguri omunamasa ayehe.
 
 (Source category: Otjiherero: OZONGUMBIRO ZOUNATJE NO MITANDA)
 (Bahaiprayers.net ID: 6055)
+
+
 
 
 
@@ -1005,6 +1373,8 @@ Hompa, Karunga wande! Ove mudongononi po ndjo, muyambeki vitapa, mutunditipo lig
 (Bahaiprayers.net ID: 12425)
 
 
+
+
 ### <a id="bpn12429"></a> Prayer bpn12429 in Namibia
 Oh, Karunga wande! Ove mudongononi po ndjo, muyambeki vitapa, mutunditipo liguvo! 
 	Vyashiri, ame kuna kukushungida mukughupira po ndjo dauno ogho ana shuvo shidwata sharutu a kanduke mughudjuni wapampepo. 
@@ -1012,6 +1382,8 @@ Oh, Karunga wande! Ove mudongononi po ndjo, muyambeki vitapa, mutunditipo liguvo
 
 (Source category: Rugciriku : KUVAFE)
 (Bahaiprayers.net ID: 12429)
+
+
 
 
 
@@ -1033,6 +1405,8 @@ Kudividenu umwenu mulikurukuro Lyankango dande mposhi mudimburure mahorameno gha
 
 
 
+
+
 ## Rugciriku : LIGHAMENO
 
 ### <a id="bpn12415"></a> Prayer bpn12415 in Namibia
@@ -1041,6 +1415,8 @@ Ame kuna rambuka ngurangura munkenda yoye, Karunga wande, na tundu mundjugho yan
 
 (Source category: Rugciriku : LIGHAMENO)
 (Bahaiprayers.net ID: 12415)
+
+
 
 
 
@@ -1055,6 +1431,8 @@ Hompa, Karunga! Tendeka nakuhafita monyo wande. Kushura mushima wande. Kenita nd
 
 
 
+
+
 ## Rugciriku : LIKUSHONGO
 
 ### <a id="bpn12421"></a> Prayer bpn12421 in Namibia
@@ -1063,6 +1441,8 @@ Hompa! Ronga vanuke vano. Vanuke vano mbo vimenwa vyamushikunino, dimucuko Doye,
 
 (Source category: Rugciriku : LIKUSHONGO)
 (Bahaiprayers.net ID: 12421)
+
+
 
 
 
@@ -1076,6 +1456,8 @@ Hompa Karunga, mughameni wande, mupopeli wande, ndenke ni kare ramba yakutwera n
 
 
 
+
+
 ## Rugciriku : LIVATERO
 
 ### <a id="bpn12413"></a> Prayer bpn12413 in Namibia
@@ -1086,6 +1468,8 @@ Pa kara Mutunditipo wamaudito hanashi Ove ndi? Ghamba: Mfumwa kwaKarunga! Ghuye 
 
 
 
+
+
 ## Rugciriku : LIVERURO
 
 ### <a id="bpn12417"></a> Prayer bpn12417 in Namibia
@@ -1093,6 +1477,8 @@ Lidina lyoye ndyo liveruro lyande, Hompa wande, ano livhuruko kukoye mutondo wan
 
 (Source category: Rugciriku : LIVERURO)
 (Bahaiprayers.net ID: 12417)
+
+
 
 
 
@@ -1110,6 +1496,8 @@ Lidina lyoye ndyo liveruro lyande, Hompa wande, ano livhuruko kukoye mutondo wan
 
 
 
+
+
 ## Rugciriku : NDANGO YAPAMPEP
 
 ### <a id="bpn12427"></a> Prayer bpn12427 in Namibia
@@ -1119,6 +1507,8 @@ Hi, Karunga, Karunga wande! Atwe tu vapikoye ovo vana pirukiro nakukukwambera ku
 
 (Source category: Rugciriku : NDANGO YAPAMPEP)
 (Bahaiprayers.net ID: 12427)
+
+
 
 
 
@@ -1134,11 +1524,15 @@ Mfumwa koye ove Karunga kulimonikito lyashihoro shoye kumbunga! Oh, Ove ghuLipar
 (Bahaiprayers.net ID: 12430)
 
 
+
+
 ### <a id="bpn12431"></a> Prayer bpn12431 in Namibia
 Hi, Karunga wande! Hi, Karunga wande! Kwatakanita dimushima davapikoye nakumonikita lighano lyoye lyalinene. Va renke va kwame dimuragho doye nakuyendaura muveta doye. Va vatere, ove Karunga, muvitokomena vyavo ntani nka u va pe nkondo mukukukarera. Oh, Karunga! Wa sha va kengerera, nani yendita mpadi davo naukenu wamayiviro ghoye ntani nka hafita dimushima davo nashihoro shoye. Vyashiri, Ove Muvateli naHompa wavo.
 
 (Source category: Rugciriku : NDAPERO NKA DIMWE)
 (Bahaiprayers.net ID: 12431)
+
+
 
 
 ### <a id="bpn12432"></a> Prayer bpn12432 in Namibia
@@ -1149,11 +1543,15 @@ Hi, Karunga wande! Ame kuna kuromba koye muLidina lyoye lyakufumana mukumbatera 
 (Bahaiprayers.net ID: 12432)
 
 
+
+
 ### <a id="bpn12433"></a> Prayer bpn12433 in Namibia
 Karunga, renka ukenu waumwe u fuke livhu nalintje, ntani nka shitamba shino “Untungi, waKarunga”, ashi u ramame pavipara vyadimuhoko.
 
 (Source category: Rugciriku : NDAPERO NKA DIMWE)
 (Bahaiprayers.net ID: 12433)
+
+
 
 
 ### <a id="bpn12434"></a> Prayer bpn12434 in Namibia
@@ -1165,6 +1563,8 @@ Ghamb: Ove Karunga, Karunga wande! Ntura mutwe wande nashipangura sha ghushili, 
 (Bahaiprayers.net ID: 12434)
 
 
+
+
 ### <a id="bpn12435"></a> Prayer bpn12435 in Namibia
 Hompa! Ghushuntu atwe, tu pe ko ufenkenda ghoye, ghepwe, tu pe ko ruha rwaungaro walikukukuro lyoye; vahepwe, tu hafite; twa didipitwa, tu pe shikoda shoye. Vidira vyamuwiru navikorama vyamuwiya kwa wananga kehe liyuva ndya davyo Koye, vishitwa navintje kwa hamena kulirero lyoye nkuunongo ghoye wakutekura.
 	 Wa sha mu ghupa uno wakupira nkondo nkenda doye dakutetukita, tapa nkondo doye muunogo ghoye kushishitwa shino shakupira mbatero. 
@@ -1174,11 +1574,15 @@ Hompa! Ghushuntu atwe, tu pe ko ufenkenda ghoye, ghepwe, tu pe ko ruha rwaungaro
 (Bahaiprayers.net ID: 12435)
 
 
+
+
 ### <a id="bpn12436"></a> Prayer bpn12436 in Namibia
 Oho, Hompa! Atwe kudere ko nkondo; tu pameke. Oh, Karunga! Atwe vantuta; tu pukurure. Oh, Hompa! Atwe vahutu; tu ngavopite Atwe twa fa; tu rambwite. Oh, Hompa! Atwe vene kwa tu didipita, tu nkoyimite mughuntungi ghoye. Ntjeneshi ku u tu vatera, oh Hompa, ndi ngatu fana yira ntungwedi dakuvembera. Ano ntjeneshi kapi u tu vatera, ngatu kara kunda ya livhu. Oh, Hompa! Tu pameke. Oh Karunga! Tapa liketo kukwetu. Oh Karunga!  Tu renke tu kete  likukengo ghumwande nakuketa lidovo. Oh Hompa! Ndjovore kughupika waghudjuni wapalivhu. Oh Hompa! Tu yumipite namumunku waMpepo yaKupongoka ashi tu rambuke mukukurughanena, tu karere mukukufumadeka, nakukurughanena mughuntungi ghoye namfumwa yayinene. Oh Hompa! Ove nkondo ngudu! Oh Karunga, Ove Mughupili po! Oh Hompa, Ove Mufenkenda!
 
 (Source category: Rugciriku : NDAPERO NKA DIMWE)
 (Bahaiprayers.net ID: 12436)
+
+
 
 
 ### <a id="bpn12437"></a> Prayer bpn12437 in Namibia
@@ -1188,12 +1592,16 @@ Oh Karunga wande, Karunga wande! Tjayira vapikoye vakulimburukwa kumaghudona gha
 (Bahaiprayers.net ID: 12437)
 
 
+
+
 ### <a id="bpn12438"></a> Prayer bpn12438 in Namibia
 Oh Karunga! Shino shidira shalivava lyakuremana, ano kutuka kwasho maranga ngudu - shi vatere ashi shi vhure kutuka nange ka tika kundagha-ndagha yauwa naliyovoro,  mavava mukutuka kwasho naruhafo nalirago muliterembo lyasho muwiru yakupira uhura, yeyura ngoghera yasho muLidina lyoye lyakundagha-ndagha mu virongo navintje, hafita matwi naliywi lino, kenita mantjo mukukukeya viyivito vyalipititiro!
 	 Oh Hompa! Ame pentjande, mukuma naliguvo. Kwande kundereko mayeghameno kutunda poye, kundereko muwateli kwandi Ove, kundereko likwafo lyakushetakana nalyoye. Ntambure mushirughana shoye, mbatere nambunga yavaengeli voye, nketite mulitwarokumeho lyaNkango yoye ntani ndenke niyiyire mpandamboyera ukonentu ghoye  mukatji kavishitwa vyoye. Vyashiri,  ove muvateli wavapirankondo, namukungi wavanuke, nka vyashiri Ove Mpumbe, Munankondo, naMudirikutininika.
 
 (Source category: Rugciriku : NDAPERO NKA DIMWE)
 (Bahaiprayers.net ID: 12438)
+
+
 
 
 
@@ -1210,6 +1618,8 @@ Ame kuna kuvitongonona, Ove Karunga wande, ashi Ove wa ntjito ni ku yive nakukut
 
 
 
+
+
 ## Rugciriku : NGURANGURA
 
 ### <a id="bpn12418"></a> Prayer bpn12418 in Namibia
@@ -1217,6 +1627,8 @@ Na kotoroka mughuvando ghoye, ove Karunga wande, ano vyamuwapera ogho wakushana 
 
 (Source category: Rugciriku : NGURANGURA)
 (Bahaiprayers.net ID: 12418)
+
+
 
 
 
@@ -1232,6 +1644,8 @@ Hompa, Karunga wande, Mushongi wande, Shitambo shalitokomeno lyande! Mupikoye un
 
 
 
+
+
 ## Rugciriku : NKWARA
 
 ### <a id="bpn12424"></a> Prayer bpn12424 in Namibia
@@ -1239,6 +1653,8 @@ Mfumwa kukoye, ove Karunga wande! Vyashiri, uno mupikarume ghoye na uno mupikaka
 
 (Source category: Rugciriku : NKWARA)
 (Bahaiprayers.net ID: 12424)
+
+
 
 
 
@@ -1252,6 +1668,8 @@ Hompa Karunga wande! Hompa Karunga wande! Kwatakanita dimushima davapikoye nakum
 
 
 
+
+
 ## Rugciriku : VANANTJOKA
 
 ### <a id="bpn12422"></a> Prayer bpn12422 in Namibia
@@ -1259,6 +1677,8 @@ Hompa! Renka vasheshughona vano vavembere, ntani tapa nka unongo ghoye kushishit
 
 (Source category: Rugciriku : VANANTJOKA)
 (Bahaiprayers.net ID: 12422)
+
+
 
 
 
@@ -1272,6 +1692,8 @@ Hompa, Karunga! Renka kakeke kano kakure mushinanga shashihoro shoye, ka pe mash
 
 
 
+
+
 ## Rugciriku : Vighupa mu Shitafure Sha- ‘Abdu’l-Bahá
 
 ### <a id="bpn12440"></a> Prayer bpn12440 in Namibia
@@ -1279,6 +1701,8 @@ Hi, ove una pirukidiro shipara shoye kwa Karunga! Ferera mantjo ghoye kuvininke 
 
 (Source category: Rugciriku : Vighupa mu Shitafure Sha- ‘Abdu’l-Bahá)
 (Bahaiprayers.net ID: 12440)
+
+
 
 
 
@@ -1301,6 +1725,8 @@ Shikoda shakarenakare shapulire mukushimanga namalyenge mposhi  ghudjuni u yovok
 
 
 
+
+
 ## Rugciriku: Makyatiku
 
 ### <a id="bpn6013"></a> Prayer bpn6013 in Namibia
@@ -1318,6 +1744,8 @@ Ove shiri ghu Karunga naHompa wavantu navantje mbyo wa kara nankondo kuvininke n
 
 
 
+
+
 ## Rugciriku: Ngurangura
 
 ### <a id="bpn6014"></a> Prayer bpn6014 in Namibia
@@ -1327,6 +1755,8 @@ Na kotoroka mughuvando ghoye, ove Karunga wande, ano vyamuwapera ogho wakushana 
 
 (Source category: Rugciriku: Ngurangura)
 (Bahaiprayers.net ID: 6014)
+
+
 
 
 
@@ -1344,6 +1774,8 @@ Kundereko nka Karunga wakupita poye Muvateli muViponga, Mukalipo panaumoye.
 
 (Source category: Rugciriku: Short Obligatory Prayer)
 (Bahaiprayers.net ID: 6012)
+
+
 
 
 
@@ -1365,6 +1797,8 @@ Kutupu ko Karunga nage peke ntudi Nyove, Muvateli oMaudigu, Mukalipo pwaNyamoge.
 
 
 
+
+
 ## Rukwangali: EDILIRO
 
 ### <a id="bpn6318"></a> Prayer bpn6318 in Namibia
@@ -1381,6 +1815,8 @@ Kutupu ko Karunga nage peke ntudi Nyove, Muvateli oMaudigu, Mukalipo pwaNyamoge.
 
 
 
+
+
 ## Rukwangali: EVERURO
 
 ### <a id="bpn6320"></a> Prayer bpn6320 in Namibia
@@ -1391,6 +1827,8 @@ Kutupu ko Karunga nage peke ntudi Nyove, Muvateli oMaudigu, Mukalipo pwaNyamoge.
 
 (Source category: Rukwangali: EVERURO)
 (Bahaiprayers.net ID: 6320)
+
+
 
 
 
@@ -1418,6 +1856,8 @@ Kutupu ko Karunga nage peke ntudi Nyove, Muvateli oMaudigu, Mukalipo pwaNyamoge.
 (Bahaiprayers.net ID: 6327)
 
 
+
+
 ### <a id="bpn6328"></a> Prayer bpn6328 in Namibia
 Hompa, Karunga gwange! Ove Mudongononipononzo, mutungike yigava, mutundisipo ruguwo!
 	Yousili, ame kuna kukuhundira mokugusirapo nonzo dogu ogu ana sigi sidwara sokorutu a kanduke mouzuni wopampepo.
@@ -1425,6 +1865,8 @@ Hompa, Karunga gwange! Ove Mudongononipononzo, mutungike yigava, mutundisipo rug
 
 (Source category: Rukwangali: KOVAFE)
 (Bahaiprayers.net ID: 6328)
+
+
 
 
 
@@ -1441,6 +1883,8 @@ Ove, sili, o Karunga na Hompa govantu navenye, yiyo wa kara nononkondo nadinye.
 
 (Source category: Rukwangali: MASASIKU)
 (Bahaiprayers.net ID: 6314)
+
+
 
 
 
@@ -1461,6 +1905,8 @@ Ove, sili, o Karunga na Hompa govantu navenye, yiyo wa kara nononkondo nadinye.
 
 
 
+
+
 ## Rukwangali: NDANGO ZOPAMPEPO
 
 ### <a id="bpn6321"></a> Prayer bpn6321 in Namibia
@@ -1477,6 +1923,8 @@ Ove, sili, o Karunga na Hompa govantu navenye, yiyo wa kara nononkondo nadinye.
 
 
 
+
+
 ## Rukwangali: NGURANGURA
 
 ### <a id="bpn6315"></a> Prayer bpn6315 in Namibia
@@ -1489,12 +1937,16 @@ Ove, sili, o Karunga na Hompa govantu navenye, yiyo wa kara nononkondo nadinye.
 (Bahaiprayers.net ID: 6315)
 
 
+
+
 ### <a id="bpn6316"></a> Prayer bpn6316 in Namibia
 Ame kuna pinduka mongurangura ozi monkenda Zoge, Karunga gwange, nina tundu monzugo zange nehuguvaro moge, yiyo nina ligava nyamwange ketakameso Lyoge. Hegumuna nkenda Zoge, makandayiko gokoruha Roge pwange, ntani ninka ni tare nzugo ngwendi moomu ono ninkinge ni rupuke mepopero Lyoge ano magano gange gandjikiti Pwoge.
 	Kutupu ko Karunga gokupita Pwoge, Ove Ohuru, Mudilikufanekesa, Mudivi-nayinye, Musikiliromo.
 
 (Source category: Rukwangali: NGURANGURA)
 (Bahaiprayers.net ID: 6316)
+
+
 
 
 
@@ -1513,6 +1965,8 @@ Ame kuna pinduka mongurangura ozi monkenda Zoge, Karunga gwange, nina tundu monz
 
 
 
+
+
 ## Rukwangali: NONDAPERO DIMWE
 
 ### <a id="bpn6329"></a> Prayer bpn6329 in Namibia
@@ -1525,11 +1979,15 @@ Efumadeko Koge, Ove Karunge, kemonekeso Lyoge lyeharo kombunga! Hompa Ove Eparu 
 (Bahaiprayers.net ID: 6329)
 
 
+
+
 ### <a id="bpn6330"></a> Prayer bpn6330 in Namibia
 Hompa, Karunga gwange, Hompa Karunga gwange, kwa takamesa nomutjima dovapika Woge nokuvamonekesera egano Lyoge lyenene. Va ninka va kwame yipango Yoge nokugendagura monoveta Doge. Va vatera, Ove Karunga, momatokomeno gawo ntani hena o vape nonkondo mokukukarera. Hompa, Karunga! Wa ha va sigilira, nani gendesa nompadi dawo nouzera wediwo Lyoge ntani hena hafesa nomutjima dawo neharo Lyoge. Yousili Ove Omuvateli naHompa gwawo.
 
 (Source category: Rukwangali: NONDAPERO DIMWE)
 (Bahaiprayers.net ID: 6330)
+
+
 
 
 ### <a id="bpn6331"></a> Prayer bpn6331 in Namibia
@@ -1542,6 +2000,8 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 6331)
 
 
+
+
 ### <a id="bpn6332"></a> Prayer bpn6332 in Namibia
 Karunga, ninka uzera wagumwe u kudumike evhu nalinye, ntani hena sitamba esi, "soUntungi waKarunga," o si vambeke poyipara yonomuhoko.
 
@@ -1549,11 +2009,15 @@ Karunga, ninka uzera wagumwe u kudumike evhu nalinye, ntani hena sitamba esi, "s
 (Bahaiprayers.net ID: 6332)
 
 
+
+
 ### <a id="bpn6333"></a> Prayer bpn6333 in Namibia
 Pwa kara mutundisipo gomaudigu ga hana asi Nyove ndi? Uyunga: Efumadeko kwa Karunga! Yige Karunga! Navenye kwa kara moyipango Yendi.
 
 (Source category: Rukwangali: NONDAPERO DIMWE)
 (Bahaiprayers.net ID: 6333)
+
+
 
 
 ### <a id="bpn6334"></a> Prayer bpn6334 in Namibia
@@ -1564,6 +2028,8 @@ Hompa, Karunga! Tendeka nokuhafesa mwenyo gwange. Kuhura mutjima gwange. Zeresa 
 (Bahaiprayers.net ID: 6334)
 
 
+
+
 ### <a id="bpn6335"></a> Prayer bpn6335 in Namibia
 Hompa Hompa gwange, Mukarwa gwange, Mudiworoki gwange! Kara kaume kange mokukara kwange ntani sikwilirange momburundu zange. Fwadurapo ruguwo rwange. Ninka nge ni pure kouwa Woge. Gusange kwa nayinye Ove o poperenge. Koka nge moupongoki Woge. Tura nge mekwatakano IyoUhompa Woge na navenye ava firesinka nayopeke va ku karere Ove, navenye ava ava kakerere Ove siruwo sosire nava ava sikama moyirugana Yoge. Ninka nge ni kare mupika Goge ogu ana panda Uwa Woge. Yousili, Ove oMufenkenda, Gwanavenye.
 
@@ -1571,11 +2037,15 @@ Hompa Hompa gwange, Mukarwa gwange, Mudiworoki gwange! Kara kaume kange mokukara
 (Bahaiprayers.net ID: 6335)
 
 
+
+
 ### <a id="bpn6336"></a> Prayer bpn6336 in Namibia
 Ove Hompa, Karunga gwange! Kwafa vaholi Woge ava wa hara, vaha singanyeka momapuliro Goge, va gendagure monzira Zoge, va sikame nzi mosirugana Soge. Va pa nkenda Zoge zikandanepo kudira kukuhomokera Nyamoge, nokukwama site segendeso lyouKarunga. Ove Munankondo, Munankenda, Mukalipo panyamoge, Mugavi, Mudidimiki.
 
 (Source category: Rukwangali: NONDAPERO DIMWE)
 (Bahaiprayers.net ID: 6336)
+
+
 
 
 ### <a id="bpn6337"></a> Prayer bpn6337 in Namibia
@@ -1587,11 +2057,15 @@ Hompa, ose usuntu, tu pa ufenkenda Woge, Uhepwe, tupa ruha rwekurudiva Lyoge, tu
 (Bahaiprayers.net ID: 6337)
 
 
+
+
 ### <a id="bpn6338"></a> Prayer bpn6338 in Namibia
 Hompa! Ose kwato nonkondo, tu pameka. Hompa, Karunga! Ose vantu, tu pukurura. Hompa! Ose vahepwe, tu ngawopeka. Hompa, Karunga! Ose twafa, tu pindura. Hompa! Nyaamwetu twa lihunupika, tu nenepeka mountungi Woge. Nsene to tu vatere, Hompa, ngano tatu fana ngwendi nombungururu dokuvembera. Nsene kapito tuvatere, ngatu kara konhi zevhu. Hompa! Tu pameka. Hompa Karunga! Gava efundo kwetu. Hompa Karunga! Ninka tu funde elimonekeso nedowo. Hompa! Tu zowora koupika wouzuni wepevhu. Hompa! Tu fudira munku go Mpepo zoKupongoka asi tu pinduke mokukuruganena, tu karere mokukufumadeka, nokukuruganena mountungi Woge. Hompa! Ove nonkondo unene! Hompa Karunga, Ove Mugusilipo! Hompa, Ove Mufenkenda!
 
 (Source category: Rukwangali: NONDAPERO DIMWE)
 (Bahaiprayers.net ID: 6338)
+
+
 
 
 ### <a id="bpn6339"></a> Prayer bpn6339 in Namibia
@@ -1601,12 +2075,16 @@ Hompa Karunga gwange, Karunga gwange! Kerera vapika Woge vakulimburuke noyidovau
 (Bahaiprayers.net ID: 6339)
 
 
+
+
 ### <a id="bpn6340"></a> Prayer bpn6340 in Namibia
 Hompa Karunga! Hompa Karunga! Esi sidira sevava lyokuremana, ano kutuka kwaso maranga, si vatera si vhure kutuka dogoro kondaga-ndaga zouwa nezoworo, mavava mokutuka kwaso noruhafo nerago mokuteremba meguru, zerura ukaro waso kondaga-ndaga medina Lyoge moyirongo nayinye, hafesamatwi nezwi, zeresa meho mokukutara kepitisiro!
 	Ove Hompa! Ame nyamelike, mukuma neguwo. Kwange kwato egano lyokutunda poge, kutupuko muvateli ntudi Nyove, kutupuko ekwafo lyokuhetakana neli Lyoge. Tamburange mosirugana Soge, vaterange nombunga zovaengeli Woge, zeresange metwarokomeho lyononkango Doge ntani ninkange ni dive ukonentu Woge pokatji koyisitwa Yoge. Yousili, Ove Muvateli wovapirankondo, nomukungi govanona, ntani yousili, Ove Mpumbi, Munankondo, noMudilikusininika.
 
 (Source category: Rukwangali: NONDAPERO DIMWE)
 (Bahaiprayers.net ID: 6340)
+
+
 
 
 
@@ -1622,11 +2100,15 @@ Hompa Karunga! Hompa Karunga! Esi sidira sevava lyokuremana, ano kutuka kwaso ma
 (Bahaiprayers.net ID: 6322)
 
 
+
+
 ### <a id="bpn6323"></a> Prayer bpn6323 in Namibia
 Ove Hompa! Ronga vanona ava. Vanona ava yiwo yimenwa yomo sikunino, nombya Doge, nombya domo sipata Soge. Ninka mvhura zi rokere pwawo; ninka Ezuva Lyousili liminikire pwawo meharo Lyoge. Ninka munku Goge gu va tendeke yipo va gwane edeuro, kukura nokurunduruka, nemoneko lyoufuwuli. Ove Mugavi. Ove Mufenkenda.
 
 (Source category: Rukwangali: NONDAPERO DOVANONA NOVADINKANTU)
 (Bahaiprayers.net ID: 6323)
+
+
 
 
 ### <a id="bpn6324"></a> Prayer bpn6324 in Namibia
@@ -1636,11 +2118,15 @@ Ove Hompa! Ninka vadinkantu vavembere ntani gava Unongo Woge kosisitwa esi soruh
 (Bahaiprayers.net ID: 6324)
 
 
+
+
 ### <a id="bpn6325"></a> Prayer bpn6325 in Namibia
 Hompa Karunga, mugameni gwange, mupopeli gwange, ninka nge ramba zokutwera nombungururu zokupayima. Omupameki ntani Omunankondo.
 
 (Source category: Rukwangali: NONDAPERO DOVANONA NOVADINKANTU)
 (Bahaiprayers.net ID: 6325)
+
+
 
 
 
@@ -1654,6 +2140,9 @@ Hompa Karunga, mugameni gwange, mupopeli gwange, ninka nge ramba zokutwera nombu
 
 (Source category: Rukwangali: NONKWARA)
 (Bahaiprayers.net ID: 6319)
+
+
+
 
 
 

@@ -3,6 +3,46 @@ title = "Føroyar"
 tags = ['lang=fo', 'prayerbook']
 +++
 
+
+
+[Andligur vøkstur](#Andligur vøkstur)
+
+[Brúdleyp](#Brúdleyp)
+
+[Eind](#Eind)
+
+[Fundir](#Fundir)
+
+[Fyri børn](#Fyri børn)
+
+[Fyri teimum deyðu](#Fyri teimum deyðu)
+
+[Fyri ungdóm](#Fyri ungdóm)
+
+[Grøðing](#Grøðing)
+
+[Hjálp og stuðul](#Hjálp og stuðul)
+
+[Kunning](#Kunning)
+
+[Lovprísan og takksemi](#Lovprísan og takksemi)
+
+[Lýdni](#Lýdni)
+
+[Naw-Rúz](#Naw-Rúz)
+
+[Royndir og Trupulleikar](#Royndir og Trupulleikar)
+
+[Skyldu bøn](#Skyldu bøn)
+
+[Talva Ahmads](#Talva Ahmads)
+
+[Tænasta](#Tænasta)
+
+[Vernd](#Vernd)
+
+
+
 ## Andligur vøkstur
 
 ### <a id="bpn13550"></a> Prayer bpn13550 in Føroyar
@@ -12,11 +52,15 @@ Skapa í mær eitt reint hjarta, O mín Gud, og endurnýggja eina friðfulla sam
 (Bahaiprayers.net ID: 13550)
 
 
+
+
 ### <a id="bpn13551"></a> Prayer bpn13551 in Føroyar
 Eg bøni Teg, O Gud mín, við alla yvirjarðligu dýrd Navns Tíns, um at klæða Tíni elskaðu í búna rættvísinnar og at upplýsa verur teirra við ljósi álitisbaris. Tú ert Tann ið hevur vald til at gera sum Honum líkar og Sum í Sínum taki heldur teymum alra luta, sjónliga og ósjónliga.
 
 (Source category: Andligur vøkstur)
 (Bahaiprayers.net ID: 13551)
+
+
 
 
 
@@ -29,11 +73,15 @@ Vit fara, øll, vissuliga, at gera eftir Vilja Guds.
 (Bahaiprayers.net ID: 13568)
 
 
+
+
 ### <a id="bpn13569"></a> Prayer bpn13569 in Føroyar
 Dýrd veri Tær, O Gud mín! Sanniliga, hesin tænari Tín og hendan tænastukvinna Tín eru komin saman undir skugga miskunnar Tínar og tey eru sameind gjøgnum Tína vælvild og Títt gávumildni. O Harri! Stuðla teimum í hesum heimi Tínum og kongaríki Tínum og tilætla teimum alt gott gjøgnum Títt gávusemi og Tína náði. O Harri! Staðfest tey í Tínum trældómi og stuðla teimum í Tínari tænastu. Lat tey gerast tekin Navns Tíns í heimi Tínum og verj tey gjøgnum gávur Tínar sum eru ótømandi í hesum heimi og hinum komandi heimi. O Harri! Tey bøna kongaríki miskunsemis Tíns og ákalla ríki einleiks Tíns. Fá tey at gerast tekin um samljóð og eind inntil enda tíðarinnar. Sanniliga, Tú ert tann Almáttugi, tanni Alhjáverandi og tann Alvaldandi.
 
 (Source category: Brúdleyp)
 (Bahaiprayers.net ID: 13569)
+
+
 
 
 
@@ -47,6 +95,8 @@ O mín Gud! O mín Gud! Sameina hjørtuni hjá tænarum Tínum og opinbera fyri 
 
 
 
+
+
 ## Fundir
 
 ### <a id="bpn13557"></a> Prayer bpn13557 in Føroyar
@@ -54,6 +104,8 @@ O mín Gud! O mín Gud! Sanniliga, hesir tænarar venda sær til Tín, við inni
 
 (Source category: Fundir)
 (Bahaiprayers.net ID: 13557)
+
+
 
 
 
@@ -66,11 +118,15 @@ Eg eri vaknaður í skjóli Tínum, O mín Gud, og tað sømir seg honum ið lei
 (Bahaiprayers.net ID: 13562)
 
 
+
+
 ### <a id="bpn13563"></a> Prayer bpn13563 in Føroyar
 O Gud, leið meg, verj meg, upplýs hjartalampu mína og ger meg til eina stálandi stjørnu. Tú ert tann Veldigi og tann Máttugi.
 
 (Source category: Fyri børn)
 (Bahaiprayers.net ID: 13563)
+
+
 
 
 ### <a id="bpn13564"></a> Prayer bpn13564 in Føroyar
@@ -81,11 +137,15 @@ O Harri mín! O Harri mín! Eg eri eitt barn av eymum árum. Gev mær føðslu �
 (Bahaiprayers.net ID: 13564)
 
 
+
+
 ### <a id="bpn13565"></a> Prayer bpn13565 in Føroyar
 O Gud! Gev hesum børnum lærdóm. Hesi børn eru plantur aldingarðs Tíns, blómur ong Tínar, rósur urtagarðs Tíns. Lat regn Títt falla á tey; lat Sól Veruleikans skína á tey við kærleika Tínum. Lat lot Títt stimbra tey til tess at tey mega fáa upplæring, vaksa og mennast, og koma til sjóndar í størsta vakurleika. Tú ert Gevarin. Tú ert tann Samkennandi.
 
 (Source category: Fyri børn)
 (Bahaiprayers.net ID: 13565)
+
+
 
 
 ### <a id="bpn13566"></a> Prayer bpn13566 in Føroyar
@@ -95,11 +155,15 @@ O Gud! Al upp hetta lítla pinkubarn í føvningi kærleiks Tíns, og gev tí mj
 (Bahaiprayers.net ID: 13566)
 
 
+
+
 ### <a id="bpn13567"></a> Prayer bpn13567 in Føroyar
 Ger stig okkara føst, O Harri, á gøtu Tíni og styrk Tú hjørtu okkara í lýdni móti Tær.
 
 (Source category: Fyri børn)
 (Bahaiprayers.net ID: 13567)
+
+
 
 
 
@@ -115,6 +179,8 @@ O Gud mín! O Tú syndanna fyrigevari, veitari av gávum! Burturbeinari av tvør
 
 
 
+
+
 ## Fyri ungdóm
 
 ### <a id="bpn13561"></a> Prayer bpn13561 in Føroyar
@@ -122,6 +188,8 @@ O Harri! Ger hendan ungdóm strálandi, og veit hesum neyðars skapningi Títt g
 
 (Source category: Fyri ungdóm)
 (Bahaiprayers.net ID: 13561)
+
+
 
 
 
@@ -135,6 +203,8 @@ Navn Títt er mín grøðing, O mín Gud, og at minnast til Tín er mín heiliv�
 
 
 
+
+
 ## Hjálp og stuðul
 
 ### <a id="bpn13553"></a> Prayer bpn13553 in Føroyar
@@ -142,6 +212,8 @@ O Tú Hvørs andlit er mið mínar dýrmetingar, Hvørs fagurleiki er mítt halg
 
 (Source category: Hjálp og stuðul)
 (Bahaiprayers.net ID: 13553)
+
+
 
 
 ### <a id="bpn13554"></a> Prayer bpn13554 in Føroyar
@@ -152,6 +224,8 @@ O Harri mín! Ger fagurleika Tín til føði mína, og nærveru Tína drykk mín
 
 
 
+
+
 ## Kunning
 
 ### <a id="bpn13556"></a> Prayer bpn13556 in Føroyar
@@ -159,6 +233,8 @@ O Gud, mín Gud! Hjálp Tú Tínum tiltrúnu tænarum at hava kærleiksfull og e
 
 (Source category: Kunning)
 (Bahaiprayers.net ID: 13556)
+
+
 
 
 
@@ -173,6 +249,8 @@ O Gud, mín Gud! Hjálp Tú Tínum tiltrúnu tænarum at hava kærleiksfull og e
 
 
 
+
+
 ## Lýdni
 
 ### <a id="bpn13549"></a> Prayer bpn13549 in Føroyar
@@ -180,6 +258,8 @@ Eg bøni Teg, O Gud mín, við Títt mest upphevjaða Orð ið Tú hevur fyriskr
 
 (Source category: Lýdni)
 (Bahaiprayers.net ID: 13549)
+
+
 
 
 
@@ -201,6 +281,8 @@ Prísaður veri Tú, O mín Gud, at Tú hevur fyriskipað Naw-Rúz sum eina høg
 
 
 
+
+
 ## Royndir og Trupulleikar
 
 ### <a id="bpn13547"></a> Prayer bpn13547 in Føroyar
@@ -210,11 +292,15 @@ Eg bøni Teg við veldi Títt, O mín Gud! Lat ongan skaða falla á meg í tí�
 (Bahaiprayers.net ID: 13547)
 
 
+
+
 ### <a id="bpn13546"></a> Prayer bpn13546 in Føroyar
 Er nakar Loysari trupulleika uttan Gud? Sig: Lovaður veri Gud! Hann er Gud! Øll eru tænarar Hansara, og øll gera eftir boðum Hansara!
 
 (Source category: Royndir og Trupulleikar)
 (Bahaiprayers.net ID: 13546)
+
+
 
 
 
@@ -230,6 +316,8 @@ Eg vitni, O Gud mín, at Tú hevur skapað meg til at kenna Teg og tilbiðja Teg
 
 (Source category: Skyldu bøn)
 (Bahaiprayers.net ID: 13545)
+
+
 
 
 
@@ -259,6 +347,8 @@ Hann er Kongurin, hin Alvitandi, hin Vísi.
 
 
 
+
+
 ## Tænasta
 
 ### <a id="bpn13555"></a> Prayer bpn13555 in Føroyar
@@ -269,6 +359,8 @@ Dýrd veri Tær, Sum hevur fingið øll tey Heiløgu at játta sítt hjálparloy
 
 
 
+
+
 ## Vernd
 
 ### <a id="bpn13559"></a> Prayer bpn13559 in Føroyar
@@ -276,6 +368,9 @@ O Gud, mín Gud! Eg vitni um eind Tína og um einleika Tín. Eg bøni Teg, O Tú
 
 (Source category: Vernd)
 (Bahaiprayers.net ID: 13559)
+
+
+
 
 
 

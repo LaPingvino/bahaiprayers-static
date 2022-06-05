@@ -3,6 +3,82 @@ title = "Íslenska"
 tags = ['lang=is', 'prayerbook']
 +++
 
+
+
+[Andleg lausn](#Andleg lausn)
+
+[Andleg ráð](#Andleg ráð)
+
+[Andlegir eiginleikar](#Andlegir eiginleikar)
+
+[Aukadagarnir](#Aukadagarnir)
+
+[Aðstoð](#Aðstoð)
+
+[Bænir fyrir látnum](#Bænir fyrir látnum)
+
+[Börn og unglingar](#Börn og unglingar)
+
+[Eining](#Eining)
+
+[Eldtaflan](#Eldtaflan)
+
+[Erfiðleikar og mótlæti](#Erfiðleikar og mótlæti)
+
+[Fastan](#Fastan)
+
+[Fjölskyldur](#Fjölskyldur)
+
+[Fundir](#Fundir)
+
+[Fyrirgefning](#Fyrirgefning)
+
+[Græðing](#Græðing)
+
+[Hjálp í mótlæti](#Hjálp í mótlæti)
+
+[Hjónaband](#Hjónaband)
+
+[Kennsla og þjónusta](#Kennsla og þjónusta)
+
+[Kvöldbænir](#Kvöldbænir)
+
+[Lengri skyldubænin](#Lengri skyldubænin)
+
+[Lengsta skyldubænin](#Lengsta skyldubænin)
+
+[Lofgjörð og þökk](#Lofgjörð og þökk)
+
+[Mannkynið](#Mannkynið)
+
+[Miskunn](#Miskunn)
+
+[Morgunbænir](#Morgunbænir)
+
+[Naw-Rúz](#Naw-Rúz)
+
+[Réttur Guðs](#Réttur Guðs)
+
+[Sigur málstaðarins](#Sigur málstaðarins)
+
+[Sjóðurinn](#Sjóðurinn)
+
+[Staðfesta](#Staðfesta)
+
+[Stutta skyldubænin](#Stutta skyldubænin)
+
+[Sáttmálinn](#Sáttmálinn)
+
+[Tafla Ahmads](#Tafla Ahmads)
+
+[Tafla Hins heilaga sæfara](#Tafla Hins heilaga sæfara)
+
+[Vernd](#Vernd)
+
+[Vitjunartafla](#Vitjunartafla)
+
+
+
 ## Andleg lausn
 
 ### <a id="bpn1603"></a> Prayer bpn1603 in Íslenska
@@ -14,6 +90,8 @@ Vegsamað sé nafn Þitt, ó Þú sem ert konungur allra konunga.
 (Bahaiprayers.net ID: 1603)
 
 
+
+
 ### <a id="bpn1604"></a> Prayer bpn1604 in Íslenska
 Vegsamaður ert Þú, ó Guð minn! Ég flyt Þér þakkir fyrir að hafa kynnt mér þann sem er dögun miskunnar Þinnar og dagsbrún náðar Þinn­ar og varðveitir málstað Þinn. Ég bið til Þín við nafn Þitt, sem lýsir upp andlit þeirra sem Þér eru nálægir, og fær hjörtu þeirra sem eru helgaðir Þér til að þreyta flugið til Þín, að gefa að ég megi ætíð og hvernig sem ástatt er halda í líftaug Þína og laðist að engum nema Þér, svo að augu mín megi stöðugt hvíla á sjónarhring opinberunar Þinn­ar, og ég framfylgi því sem Þú hefur ráðið mér í töflum Þínum.
 Skrýð Þú, ó Drottinn minn, bæði innri og ytri verund mína búningi hylli Þinnar og ástúðar. Varð­­veit mig einnig frá hverju því sem Þér kann að vera andstyggð, og aðstoða mig og ættingja mína af náð Þinni að hlýðnast Þér og forðast hvaðeina sem vakið getur með mér illar eða spilltar langanir.
@@ -23,6 +101,8 @@ Skrýð Þú, ó Drottinn minn, bæði innri og ytri verund mína búningi hylli
 (Bahaiprayers.net ID: 1604)
 
 
+
+
 ### <a id="bpn1605"></a> Prayer bpn1605 in Íslenska
 Lofað sé nafn Þitt, ó Guð minn! Ég sárbæni Þig við ilminn af klæðum náðar Þinnar, sem að boði Þínu og samkvæmt ósk Þinni var veitt yfir gjörvallt sköpunarverkið, og við sól vilja Þíns sem skinið hefur sakir valds máttar Þíns og yfirráða, ofar sjónarhring miskunnar Þinnar, að afmá úr hjarta mínu alla hégómlega duttlunga og fánýtar ímyndanir, svo ég megi af allri ást minni leita til Þín, ó Þú Drottinn alls mannkyns!
 Ég er þjónn Þinn og sonur þjóns Þíns, ó Guð minn. Ég hef tekið í handfestu náðar Þinnar og haldið í líftaug mildrar miskunnar Þinnar. Ákvarða mér hið góða sem er af Þér, og nær mig af mat­borðinu sem Þú sendir niður úr skýjum örlætis Þíns og himni hylli Þinnar.
@@ -30,6 +110,8 @@ Lofað sé nafn Þitt, ó Guð minn! Ég sárbæni Þig við ilminn af klæðum 
 
 (Source category: Andleg lausn)
 (Bahaiprayers.net ID: 1605)
+
+
 
 
 ### <a id="bpn1606"></a> Prayer bpn1606 in Íslenska
@@ -42,6 +124,8 @@ Máttur Þinn er að sönnu jafnoki alls sem er.
 (Bahaiprayers.net ID: 1606)
 
 
+
+
 ### <a id="bpn1607"></a> Prayer bpn1607 in Íslenska
 Ég veit ekki, ó Guð minn, hver sá eldur er sem Þú kveiktir í landi Þínu. Jörðin fær aldrei myrkvað ljóma hans né vatnið slökkt loga hans. Öllum þjóðum heims er um megn að standa í gegn krafti hans. Mikil er blessun þess sem hefur laðast að honum og heyrt gný hans.
 Sumum gerðir Þú kleift, ó Guð minn, með styrkj­andi náð Þinni að nálgast hann, en öðrum aftraðir Þú vegna þess sem hendur þeirra hafa gert á dögum Þínum. Hver sá er hefur hraðað sér áleiðis og náð til hans, hefur í löngun sinni að líta fegurð Þína lagt líf sitt í sölurnar á vegi Þínum, og stigið upp til Þín í fullkominni lausn frá öllu nema Þér sjálfum.
@@ -50,6 +134,8 @@ Sumum gerðir Þú kleift, ó Guð minn, með styrkj­andi náð Þinni að nál
 
 (Source category: Andleg lausn)
 (Bahaiprayers.net ID: 1607)
+
+
 
 
 ### <a id="bpn1608"></a> Prayer bpn1608 in Íslenska
@@ -63,12 +149,16 @@ Enginn er Guð nema Þú, hinn almáttugi og bless­unarríki.
 (Bahaiprayers.net ID: 1608)
 
 
+
+
 ### <a id="bpn1609"></a> Prayer bpn1609 in Íslenska
 Miklað sé nafn Þitt, ó Drottinn Guð minn. Af þess völdum hafa trén í garði opinberunar Þinnar klæðst grænum skrúða og borið ávexti heilag­leik­ans á þessu vori þegar sæt angan hylli Þinn­ar og blessana hefur borist yfir allt sem skapað er og leitt í ljós allt sem því var fyrirhugað í ríki Þinn­ar óafturkallanlegu ákvörðunar og á himni Þíns óhagganlega tilgangs. Ég bið Þig við þetta nafn, að láta mig ekki vera fjarri aðsetri heilag­leika Þíns og meina mér ekki um aðgang að upp­höfnum helgi­dómi einingar Þinnar og einstæðis.
 Tendra einnig í brjósti mér, ó Guð minn, eld ástar Þinnar, svo logar hans eyði öllu öðru en minning­unni um Þig og sérhver vottur spilltrar ástríðu hverfi að fullu og öllu innra með mér og ekkert verði eftir nema vegsömun Þinnar yfirskil­vitlegu og aldýrlegu verundar. Þetta er heitasta ósk mín og æðsta þrá, ó Þú sem öllu ræður og hefur í hendi Þér ríki gervallrar sköpunarinnar. Sannlega gerir Þú það sem Þér þóknast. Enginn er Guð nema Þú, hinn almáttugi og aldýrlegi, sá er ætíð fyrirgefur.
 
 (Source category: Andleg lausn)
 (Bahaiprayers.net ID: 1609)
+
+
 
 
 ### <a id="bpn1610"></a> Prayer bpn1610 in Íslenska
@@ -81,6 +171,8 @@ Lát mig ekki, ó Drottinn minn, fara á mis við að þekkja Þig á dögum Þ�
 (Bahaiprayers.net ID: 1610)
 
 
+
+
 ### <a id="bpn1611"></a> Prayer bpn1611 in Íslenska
 Í nafni Drottins Þíns skaparans, hins æðsta valdhafa, þess sem öllum nægir, hins upp­hafnasta, þess sem allir leita ásjár hjá. Seg: Ó Guð minn! Ó Þú sem ert skapari himins og jarðar, ó Drottinn ríkisins! Þú þekkir vel leyndarmál hjarta míns en verund Þín er órannsakanleg öllum nema sjálfum Þér. Þú sérð allt sem er af mér og engum er það fært nema Þér. Veit mér af náð Þinni það sem gerir mér kleift að komast af án alls nema Þín og ákvarða mér það sem gerir mig óháðan öllum nema Þér. Gef að ég megi uppskera ávinning lífs míns í þessum heimi og þeim sem kemur. Opna fyrir augliti mínu hlið náðar Þinnar og veit mér náðar­samlega mikla miskunn Þína og gjafir.
 Ó Þú Drottinn ríkulegrar náðar! Lát himneska hjálp Þína umvefja alla þá sem elska Þig og gef okkur þær gjafir og hylli sem eru í eigu Þinni. Ver okkur nægur umfram allt annað, fyrirgef syndir okkar og miskunna Þig yfir okkur. Þú ert Drottinn okkar og Drottinn alls sem skapað er. Engan áköllum við nema Þig og einskis leitum við nema vildar Þinnar. Þú ert Drottinn veglyndis og náðar, ósigrandi í valdi Þínu og fremstur allra í áformum Þínum. Enginn er Guð nema Þú, eigandi alls, hinn upphafnasti.
@@ -88,6 +180,8 @@ Veit blessanir Þínar, ó Drottinn minn, sendi­boðum Þínum, hinum heilögu 
 
 (Source category: Andleg lausn)
 (Bahaiprayers.net ID: 1611)
+
+
 
 
 ### <a id="bpn1612"></a> Prayer bpn1612 in Íslenska
@@ -101,6 +195,8 @@ Veit mér hjálp Þína, sem ein nægir mér, svo að ég verði óháður öllu
 (Bahaiprayers.net ID: 1612)
 
 
+
+
 ### <a id="bpn1613"></a> Prayer bpn1613 in Íslenska
 Ó Guð, Guð minn! Þú ert von mín og ástvinur, æðsta þrá mín og takmark! Af mikilli auð­mýkt og algjörri helgun bið ég til Þín að gera mig að bænaturni ástar Þinnar í landi Þínu, lampa þekkingar Þinnar meðal skepna Þinna og fána guðlegs örlætis í ríki Þínu.
 Tel mig með þeim þjónum Þínum sem hafa skilist frá öllu nema Þér, helgað sig frá hverfulleika þessa heims og frelsað sig frá hvískri þeirra sem ala á fá­nýtum hugarburði.
@@ -111,6 +207,8 @@ Fyll hjarta mitt fögnuði með anda staðfestingar frá ríki Þínu og lát bi
 (Bahaiprayers.net ID: 1613)
 
 
+
+
 ### <a id="bpn1614"></a> Prayer bpn1614 in Íslenska
 Ó Guð, Guð minn! Gef mér bikar fullan lausnar frá öllu sem er og gleð mig með víni ástar á Þér á þingi gjafa Þinna og ljósa. Frelsa mig frá atlögum ástríðu og löngunar, leys mig úr hlekkj­um þessa lægri heims, laða mig í fagnaðar­leiðslu til Þíns guðdómlega ríkis og endurnær mig meðal þjónustumeyja Þinna með andvara heilag­leika Þíns.
 Ó Drottinn, ger ásjónu mína bjarta af ljósum gjafa Þinna, fær augum mínum ljóma með táknum Þíns allsráðandi máttar; veit hjarta mínu unað með dýrð þekkingar Þinnar sem umvefur allt sem er, gleð sál mín með endurlífgandi tíðindum mikils fagnaðar, ó Þú konungur þessa heims og ríkisins á hæðum, ó Þú Drottinn yfirráða og máttar, svo ég megi kunngera tákn Þín og um merki allt um kring, kynna málstað Þinn og útbreiða kenningar Þínar, þjóna lögmáli Þínu og upphefja orð Þitt.
@@ -118,6 +216,8 @@ Fyll hjarta mitt fögnuði með anda staðfestingar frá ríki Þínu og lát bi
 
 (Source category: Andleg lausn)
 (Bahaiprayers.net ID: 1614)
+
+
 
 
 
@@ -132,6 +232,8 @@ Fyll hjarta mitt fögnuði með anda staðfestingar frá ríki Þínu og lát bi
 (Bahaiprayers.net ID: 1615)
 
 
+
+
 ### <a id="bpn1616"></a> Prayer bpn1616 in Íslenska
 *Komið saman í flekklausri gleði og farið með þessa bæn í byrjun fundarins:
 Ó Þú Drottinn ríkisins! Þótt líkamar okkar séu hér samankomnir, eru hugfangin hjörtu okkar samt bergnumin af ást Þinni og við heillumst af geislum skínandi ásýndar Þinnar. Þótt við séum veikburða, bíðum við opinberunar máttar Þíns og valds. Þótt við séum snauð, févana og án tækifæra, fáum við auð úr fjárhirslum ríkis Þíns. Þótt við séum dropar, komum við úr hafdjúpum Þínum. Þótt við séum sem mölflugur, ljómum við í dýrð geislandi sólar Þinnar.
@@ -139,6 +241,8 @@ Fyll hjarta mitt fögnuði með anda staðfestingar frá ríki Þínu og lát bi
 
 (Source category: Andleg ráð)
 (Bahaiprayers.net ID: 1616)
+
+
 
 
 ### <a id="bpn1617"></a> Prayer bpn1617 in Íslenska
@@ -153,6 +257,8 @@ Sannlega ert Þú hinn örláti og miskunnsami. Þú ert eigandi mikillar hylli 
 
 
 
+
+
 ## Andlegir eiginleikar
 
 ### <a id="bpn1585"></a> Prayer bpn1585 in Íslenska
@@ -163,11 +269,15 @@ Gef mér að drekka af ilmsætum straumi eilífðar Þinnar, ó Guð minn. Og ge
 (Bahaiprayers.net ID: 1585)
 
 
+
+
 ### <a id="bpn1586"></a> Prayer bpn1586 in Íslenska
 Skapa í mér hreint hjarta, ó Guð minn, og end­ur­nýja kyrrláta samvisku í mér, ó von mín. Staðfest mig með anda máttarins í málstað Þínum, ó minn ástfólgni, og lýs mér veg Þinn með ljósi dýrðar Þinnar, ó takmark þrár minnar. Lyft mér upp til himins heilagleika Þíns með afli yfir­skil­vitlegs máttar Þíns, ó uppspretta verundar minnar, og gleð mig með andblæ eilífðar Þinnar, ó Þú sem ert Guð minn. Lát eilíf söngljóð Þín færa mér ró, ó félagi minn, lát ríkidæmi aldinnar ásýndar Þinnar leysa mig frá öllu nema Þér, ó meistari minn, og lát tíðindin um opinberun Þíns ólýtanlega kjarna færa mér fögnuð, ó Þú, sem ert raunverulegastur alls hins raunverulega og huldastur alls hins hulda.
 
 (Source category: Andlegir eiginleikar)
 (Bahaiprayers.net ID: 1586)
+
+
 
 
 ### <a id="bpn1587"></a> Prayer bpn1587 in Íslenska
@@ -180,6 +290,8 @@ Drottinn! Snú mér ekki burt frá úthafi auðæfa Þinna og himni náðar Þin
 (Bahaiprayers.net ID: 1587)
 
 
+
+
 ### <a id="bpn1588"></a> Prayer bpn1588 in Íslenska
 Ó Drottinn minn! Lát fegurð Þína vera fæðu mína, nærveru Þína drykk minn, velþóknun Þína von mína, lofgjörð um Þig athöfn mína, minn­ingu um Þig félaga minn, mátt alveldis Þíns hjálp mína, híbýli Þín heimili mitt og dvalarstað minn það sæti, sem Þú hefur helgað frá þeim takmörkunum, sem lagðar eru á þá sem eru úti­lokaðir frá Þér eins og með blæju.
 Þú ert sannlega hinn alvaldi, hinn aldýrlegi og máttugasti.
@@ -188,11 +300,15 @@ Drottinn! Snú mér ekki burt frá úthafi auðæfa Þinna og himni náðar Þin
 (Bahaiprayers.net ID: 1588)
 
 
+
+
 ### <a id="bpn1589"></a> Prayer bpn1589 in Íslenska
 Seg: ó Guð, Guð minn! Krýn höfuð mitt kórónu réttlætisins og musteri mitt djásni sann­girn­innar. Sannlega ert Þú eigandi allra gjafa og gæsku.
 
 (Source category: Andlegir eiginleikar)
 (Bahaiprayers.net ID: 1589)
+
+
 
 
 ### <a id="bpn1590"></a> Prayer bpn1590 in Íslenska
@@ -204,12 +320,16 @@ Lofað sé nafn Þitt, ó Drottinn Guð minn! Ég er þjónn Þinn sem hef teki�
 (Bahaiprayers.net ID: 1590)
 
 
+
+
 ### <a id="bpn1591"></a> Prayer bpn1591 in Íslenska
 Ó Guð minn, Guð örlætis og miskunnsemi. Þú ert konungurinn, sem skipaði fyrir um sköpun alheimsins, og Þú ert hinn örláti, sem aldrei hefur látið verk þjóna sinna aftra sér frá að sýna náð sína né látið þá spilla opinberun örlætis síns.
 Ég sárbæni Þig að leyfa þjóni Þínum að öðlast það, sem frelsar hann í öllum heimum veraldar Þinnar. Þú ert vissulega hinn almáttugi og öflug­asti, hinn alvitri og alvísi.
 
 (Source category: Andlegir eiginleikar)
 (Bahaiprayers.net ID: 1591)
+
+
 
 
 ### <a id="bpn1592"></a> Prayer bpn1592 in Íslenska
@@ -224,6 +344,8 @@ Við yfirráð Þín, ó Þú sem ert vegsamaður í hjörtum manna! Ég hef lei
 (Bahaiprayers.net ID: 1592)
 
 
+
+
 ### <a id="bpn1593"></a> Prayer bpn1593 in Íslenska
 Dýrlegur ert Þú, ó Drottinn Guð minn! Ég flyt Þér þökk fyrir að hafa vakið mig til lífs á dögum Þínum og gætt mig ást Þinni og þekkingu. Ég bið Þig við nafn Þitt sem úr fjárhirslum hjartna þeirra, er þjóna í návist Þinni, hefur laðað fram töfrandi perlur visku Þinnar og látið sól nafns Þíns, hins vorkunnláta, úthella geislum sínum yfir alla sem eru á himni Þínum og jörðu Þinni, að veita mér af náð Þinni og mildi huldar gjafir Þínar og dásemdir.
 Þetta eru fyrstu dagar lífs míns, ó Drottinn minn, sem Þú hefur tengt Þínum eigin dögum. Er Þú nú hefur sæmt mig slíkri vegsemd hald þá eigi frá mér því sem Þú hefur fyrirbúið Þínum útvöldu.
@@ -234,11 +356,15 @@ Lof sé Guði, Drottni allra veraldanna.
 (Bahaiprayers.net ID: 1593)
 
 
+
+
 ### <a id="bpn1594"></a> Prayer bpn1594 in Íslenska
 Gef mér, ó Guð minn, fullan mæli ástar Þinnar og velþóknunar og ger hjörtu okkar berg­num­in er þau laðast að skínandi ljósi Þínu, ó Þú, sem ert hinn æðsti vitnisburður, hinn aldýrlegi. Send niður yfir mig, sem tákn um miskunn Þína, endurlífgandi andblæ Þinn á degi og að næturþeli, ó örláti Drottinn. Enga dáð hef ég drýgt, ó Guð minn, að ég verðskuldi að líta ásýnd Þína og ég veit með vissu, að þótt ég lifði jafn lengi og ver­aldirnar vara, mundi mér ekki takast að drýgja neina þá dáð, sem verðskuldaði slíka hylli, því að staða þjóns Þíns verður ávallt óverðug heilögum híbýlum Þín­um, nema örlæti Þitt nái til mín og ljúf miskunn Þín gagntaki mig og ástúð Þín umlyki mig. Allt lof sé Þér, ó Þú, sem engan átt Þinn líka. Ger mér af náð Þinni kleift að stíga upp til Þín og hljóta þá vegsemd að dvelja í návist Þinni og hafa samneyti við Þig einan. Enginn er Guð nema Þú. Í sannleika, ef Þú óskaðir að veita þjóni þinum blessun, myndir Þú afmá úr hjarta hans alla minningu og hneigð nema minninguna um sjálfan Þig, og ef Þú áformaðir þjóni Þínum illt hlutskipti sakir þess sem hendur hans hafa ranglega unnið fyrir augliti Þínu, myndir Þú reyna hann með gæð­um þessa heims og hins næsta, til þess að þau tækju hug hans allan og hann gleymdi að minnast Þín.
 
 (Source category: Andlegir eiginleikar)
 (Bahaiprayers.net ID: 1594)
+
+
 
 
 ### <a id="bpn1595"></a> Prayer bpn1595 in Íslenska
@@ -247,6 +373,8 @@ Gef mér, ó Guð minn, fullan mæli ástar Þinnar og velþóknunar og ger hjö
 
 (Source category: Andlegir eiginleikar)
 (Bahaiprayers.net ID: 1595)
+
+
 
 
 ### <a id="bpn1596"></a> Prayer bpn1596 in Íslenska
@@ -259,11 +387,15 @@ Sannlega ert Þú miskunnsamur og sannlega ert Þú hinn örlátasti, sá sem al
 (Bahaiprayers.net ID: 1596)
 
 
+
+
 ### <a id="bpn1597"></a> Prayer bpn1597 in Íslenska
 Ó Drottinn minn! Ó Drottinn minn! Þetta er lampi sem lýsir af eldi ástar Þinnar og skín af loganum sem er glæddur í tré náðar Þinnar. Ó Drottinn minn! Glæð funa hans, hita og eld með bál­inu sem brennur á Sinaí opinberunar Þinnar. Sann­lega ert Þú sá sem staðfestir, hjálparinn, hinn voldugi og örláti, hinn ástríki.
 
 (Source category: Andlegir eiginleikar)
 (Bahaiprayers.net ID: 1597)
+
+
 
 
 ### <a id="bpn1598"></a> Prayer bpn1598 in Íslenska
@@ -272,6 +404,8 @@ Sannlega ert Þú hinn örlátasti, Drottinn ríku­legrar náðar. Enginn er Gu
 
 (Source category: Andlegir eiginleikar)
 (Bahaiprayers.net ID: 1598)
+
+
 
 
 ### <a id="bpn1599"></a> Prayer bpn1599 in Íslenska
@@ -285,6 +419,8 @@ Sannlega ert Þú Drottinn allra miskunnsemda.
 (Bahaiprayers.net ID: 1599)
 
 
+
+
 ### <a id="bpn1600"></a> Prayer bpn1600 in Íslenska
 Ó Guð, Guð minn! Þetta eru veikburða þjónar Þínir, trúfastir bandingjar Þínir og þjónustu­meyjar, sem hafa beygt sig fyrir upphöfnum orðum Þínum og auðmýkt sig við fótskör ljóss Þíns og borið vitni einingu Þinni sem hefur látið sólina skína í hádegisljóma. Þeir hafa hlýtt á hvatningar­orðin sem Þú mæltir frá huldu ríki Þínu og svarað kalli Þínu með hjörtum sem titruðu af ást og hrifningu.
 Ó Drottinn, úthell yfir þá allri náð Þinni, lát rigna yfir þá vatni miskunnar Þinnar. Lát þá vaxa sem fagrar jurtir í garði himinsins og lát þennan garð blóm­gast með regni úr barmafullum og yfir­fló­andi skýj­um gjafa Þinna og djúpum hyljum ríku­legrar náð­ar. Ger hann ætíð grænan og skrúð­mikinn, ávallt ferskan, tindrandi og bjartan.
@@ -292,6 +428,8 @@ Sannlega ert Þú Drottinn allra miskunnsemda.
 
 (Source category: Andlegir eiginleikar)
 (Bahaiprayers.net ID: 1600)
+
+
 
 
 ### <a id="bpn1601"></a> Prayer bpn1601 in Íslenska
@@ -304,6 +442,8 @@ Skýl þeim í virki verndar Þinnar og öryggis, og varðveit þá í vökulli 
 (Bahaiprayers.net ID: 1601)
 
 
+
+
 ### <a id="bpn1602"></a> Prayer bpn1602 in Íslenska
 Ó Þú framfærandi! Þú hefur andað ljúfum ilmi heilags anda yfir vinina á Vesturlöndum og lýst upp vesturhimininn með ljósi leiðsagnar. Þú hefur laðað þá til Þín sem eitt sinn voru fjarlægir, Þú hefur gert hina ókunnu að ástríkum vinum, Þú hefur vakið þá sem sváfu, Þú hefur gert hina gálausu aðgætna.
 Ó Þú framfærandi! Aðstoða þessa göfugu vini við að ávinna sér velþóknun Þína og ger þá að vel­unn­urum jafnt vina sem ókunnugra. Leið þá inn í veröld sem varir að eilífu, veit þeim hlutdeild í himneskri náð, lát þá verða sanna Bahá’ía, einlæga í Guði, frelsa þá frá ytri eftirlíkingum og grund­valla þá staðfastlega í sannleikanum. Ger þá að táknum og ummerkjum ríkisins, skínandi stjörn­ur yfir sjón­ar­hring þessa lægra lífs. Ger þá að huggun og hug­svölun mann­kyns, þjóna heimsfrið­ar­ins. Ölva þá víni heilræða Þinna og gef að þeir megi allir feta stigu boða Þinna.
@@ -312,6 +452,8 @@ Skýl þeim í virki verndar Þinnar og öryggis, og varðveit þá í vökulli 
 
 (Source category: Andlegir eiginleikar)
 (Bahaiprayers.net ID: 1602)
+
+
 
 
 
@@ -334,6 +476,8 @@ Guð minn, eldur minn og ljós! Dagarnir sem Þú hefur nefnt Ayyám-i-Há¹ í 
 
 
 
+
+
 ## Aðstoð
 
 ### <a id="bpn1578"></a> Prayer bpn1578 in Íslenska
@@ -344,12 +488,16 @@ Guð minn, eldur minn og ljós! Dagarnir sem Þú hefur nefnt Ayyám-i-Há¹ í 
 (Bahaiprayers.net ID: 1578)
 
 
+
+
 ### <a id="bpn1579"></a> Prayer bpn1579 in Íslenska
 Guð minn, Þú sem ég tilbið, konungur minn, þrá mín! Hvaða tunga fær tjáð Þér þakkir mínar? Ég var gálaus, Þú vaktir mig. Ég hafði snúið við Þér baki, Þú hjálpaðir mér af náð Þinni að leita aftur til Þín. Ég var andvana, Þú vaktir mig með vatni lífsins. Ég var visnaður, Þú endurlífgaðir mig með himneskum straumi orðs Þíns sem flæddi úr penna hins almiskunnsama.
 Ó guðdómlega forsjón! Öll tilveran er getin af gjafmildi Þinni. Svipt hana ekki vötnum örlætis Þíns og synja henni ekki um úthaf miskunnar Þinnar. Ég sárbæni Þig að styðja mig og styrkja, ætíð og hvernig sem á stendur og leita til himins náðar Þinnar að aldinni hylli Þinni. Þú ert í sann­leika Drottinn ör­lætis og einvaldur í ríki eilífð­arinnar.
 
 (Source category: Aðstoð)
 (Bahaiprayers.net ID: 1579)
+
+
 
 
 ### <a id="bpn1580"></a> Prayer bpn1580 in Íslenska
@@ -362,11 +510,15 @@ Seg: Guð er að sönnu skapari allra hluta. Hann gefur ríkulega næringu þeim
 (Bahaiprayers.net ID: 1580)
 
 
+
+
 ### <a id="bpn1581"></a> Prayer bpn1581 in Íslenska
 Ó Guð minn, Drottinn minn og meistari! Ég hef leyst mig frá skylduliði mínu og leitast með Þínu fulltingi við að verða óháður öllu sem er á jörðu, ætíð reiðubúinn að taka á móti því sem er lofsvert fyrir augliti Þínu. Gef mér því þau gæði sem gera mig óháðan öllum nema Þér og veit mér ríflegri skerf af takmarkalausri hylli Þinni. Sann­lega ert Þú Drottinn ríkulegrar náðar.
 
 (Source category: Aðstoð)
 (Bahaiprayers.net ID: 1581)
+
+
 
 
 ### <a id="bpn1582"></a> Prayer bpn1582 in Íslenska
@@ -378,12 +530,16 @@ Gef okkur daglegt brauð og aukið lífsviðurværi, svo að við megum vera óh
 (Bahaiprayers.net ID: 1582)
 
 
+
+
 ### <a id="bpn1583"></a> Prayer bpn1583 in Íslenska
 Ó Þú góði Drottinn! Við erum þjónar fót­skarar Þinnar, sem leitum hælis við Þínar heilögu dyr. Við leitum einskis athvarfs nema þessarar sterku stoðar, biðjum um engan griðastað nema varð­veislu Þína. Vernda okkur og blessa, styð okk­ur, gef að við elskum aðeins velþóknun Þína, mælum aðeins lof um Þig, fylgjum aðeins vegi sannleikans, að við megum verða nógu rík til að komast af án alls nema Þín og Þiggja gjafir okkar úr úthafi gæsku Þinnar, leitumst ætíð við að upphefja málstað Þinn og dreifa ljúfum ilmi Þínum víða vegu, gleymum sjálfum okkur og festum hugann eingöngu við Þig, afneitum öllu öðru og séum gagntekin af Þér.
 Ó Þú framfærandi, ó Þú fyrirgefandi! Gef okkur náð Þína og ástúð, gjafir Þínar og veitingar og sjá fyrir okkur svo við megum ná markmiði okkar. Þú ert hinn voldugi, hinn máttugi, þekkjandinn, sjá­andinn og sannlega ert Þú hinn örláti og sann­lega ert Þú hinn almiskunnsami og sannlega ert Þú sá sem ætíð fyrirgefur, sá sem iðrun skal færa, sá sem fyrir­gefur jafnvel hörmulegustu syndir.
 
 (Source category: Aðstoð)
 (Bahaiprayers.net ID: 1583)
+
+
 
 
 ### <a id="bpn1584"></a> Prayer bpn1584 in Íslenska
@@ -395,11 +551,15 @@ Drottinn! Snú Þú þjakandi áhyggjum Þinna heilögu í rósemi, erfiðleikum
 (Bahaiprayers.net ID: 1584)
 
 
+
+
 ### <a id="bpn8374"></a> Prayer bpn8374 in Íslenska
 Ó Guð! Ó Guð! Gef mér að drekka af bikar gjafa Þinna. Upplýs andlit mitt ljósi leið­sagn­ar. Ger mig tryggan, stöðugan og staðfastan í Þínum forna sáttmála. Leyf mér að verða einn Þinna einlægu þjóna. Opna fyrir mér dyr vel­megun­ar. Veit mér tækifæri til að afla lífs­viðurværis. Gef mér mitt dag­lega brauð með ráðum sem ekki eru á mínu valdi, úr Þínum himnesku fjárhirslum. Styrk mig til að beina augliti mínu að miskunn­samri ásýnd þinni og vera trúr málstað Þínum, ó Þú mildi og vorkunnláti! Vissu­lega ert Þú náðugur þeim sem eru stöðugir og staðfastir í Þínum sterka og ó­sigr­andi sáttmála. Lof sé Guði, Drottni verald­anna!
 
 (Source category: Aðstoð)
 (Bahaiprayers.net ID: 8374)
+
+
 
 
 
@@ -427,6 +587,8 @@ Sannlega erum við öll þolinmóð í Guði.
 (Bahaiprayers.net ID: 1632)
 
 
+
+
 ### <a id="bpn1633"></a> Prayer bpn1633 in Íslenska
 Dýrð sé Þér, ó Drottinn Guð minn! Niðurlæg ekki þann sem Þú hefur upphafið með valdi eilífra yfirráða Þinna og lát þann ekki vera fjar­lægan Þér sem Þú hefur látið ganga inn í tjaldbúð eilífðar Þinnar. Munt Þú varpa frá Þér, ó Guð minn, þeim sem Þú hefur yfirskyggt með drottnun Þinni og munt Þú snúa þeim frá Þér, ó þrá mín, sem Þú hefur verið athvarf? Getur Þú lítiðlækkað þann sem Þú hefur upphafið eða gleymt þeim sem Þú gerðir kleift að muna Þig?
 Dýrlegur, ómælanlega dýrlegur ert Þú! Þú er sá sem frá eilífu hefur verið konungur allrar sköpunar og frumkraftur hennar og Þú munt að eilífu vera Drottinn allra sem skapaðir eru og yfirbjóðandi þeirra. Dýrlegur ert Þú, ó Guð minn! Ef Þú hættir að sýna þjónum Þínum miskunn, hver á þá að sýna þeim miskunn? Og ef Þú neitar að hjálpa Þínum elskuðu, hver getur þá hjálpað þeim?
@@ -434,6 +596,8 @@ Dýrlegur, ómælanlega dýrlegur ert Þú! Þú ert vegsamaður í sannleika Þ
 
 (Source category: Bænir fyrir látnum)
 (Bahaiprayers.net ID: 1633)
+
+
 
 
 ### <a id="bpn1634"></a> Prayer bpn1634 in Íslenska
@@ -453,12 +617,16 @@ Enginn er Guð nema Þú, hinn eini og einstæði, hinn voldugi og alvitri, hinn
 (Bahaiprayers.net ID: 1634)
 
 
+
+
 ### <a id="bpn1635"></a> Prayer bpn1635 in Íslenska
 Ó Guð minn. Ó Þú, sem fyrirgefur syndir okkar, gefur okkur gjafir, eyðir sorgum okkar. Sann­lega bið ég Þig að fyrirgefa syndir þeirra, sem hafa yfirgefið jarðneska líkama sína og haldið til æðri heims.
 Ó Drottinn minn, hreinsa þá af misgjörðum, dreif sorg þeirra og snú myrkri þeirra í ljós. Lát þá ganga í garð hamingjunnar, lauga þá með tærasta vatni og gef að þeir megi líta dýrð Þína á hinu hæsta fjalli.
 
 (Source category: Bænir fyrir látnum)
 (Bahaiprayers.net ID: 1635)
+
+
 
 
 ### <a id="bpn1636"></a> Prayer bpn1636 in Íslenska
@@ -470,6 +638,8 @@ Vissulega ert Þú hinn örláti og voldugi, fyrir­gef­andinn og veitandinn
 (Bahaiprayers.net ID: 1636)
 
 
+
+
 ### <a id="bpn1637"></a> Prayer bpn1637 in Íslenska
 Ó Þú vorkunnláti Drottinn!
 Þótt sumar sálir hafi eytt æfi sinni í fáfræði og orðið firringu og mótþróa að bráð, verða allir sem fallnir voru í synd frelsaðir með einni öldu á út­hafi fyrirgefningar Þinnar. Hvern sem Þú vilt gerir Þú að trúnaðarvini og sá sem ekki verður fyrir vali Þínu telst misgerðarmaður. Ef Þú gerðir við okkur samkvæmt réttlæti Þínu værum við öll ekkert nema synd­ar­ar og verðskulduðum höfnun Þína. En ef Þú sýndir mis­kunn yrði sér­hver synd­ari gerður flekk­laus og sérhver framandi maður að vini. Veit því fyrirgefningu Þína og aflausn og sýn öllum miskunn Þína.
@@ -477,6 +647,8 @@ Vissulega ert Þú hinn örláti og voldugi, fyrir­gef­andinn og veitandinn
 
 (Source category: Bænir fyrir látnum)
 (Bahaiprayers.net ID: 1637)
+
+
 
 
 
@@ -490,6 +662,8 @@ Lofaður sért Þú, ó ástvinur minn. Lát berast yfir hann ljúfan ilm Þinna
 (Bahaiprayers.net ID: 1618)
 
 
+
+
 ### <a id="bpn8375"></a> Prayer bpn8375 in Íslenska
 *Eftirfarandi bæn er fyrir nýfæddum börnum.
 *Meybörn:
@@ -501,6 +675,8 @@ Lofaður sért Þú, ó ástvinur minn. Lát berast yfir hann ljúfan ilm Þinna
 (Bahaiprayers.net ID: 8375)
 
 
+
+
 ### <a id="bpn1627"></a> Prayer bpn1627 in Íslenska
 Hann er Guð! Ó Guð, Guð minn! Gef mér hjarta hreint sem perlu.
 
@@ -508,11 +684,15 @@ Hann er Guð! Ó Guð, Guð minn! Gef mér hjarta hreint sem perlu.
 (Bahaiprayers.net ID: 1627)
 
 
+
+
 ### <a id="bpn1628"></a> Prayer bpn1628 in Íslenska
 Ó Guð, leið mig, gæt mín, ger mig að skínandi lampa og tindrandi stjörnu. Þú ert hinn máttugi og hinn voldugi.
 
 (Source category: Börn og unglingar)
 (Bahaiprayers.net ID: 1628)
+
+
 
 
 ### <a id="bpn1619"></a> Prayer bpn1619 in Íslenska
@@ -524,12 +704,16 @@ Hann er Guð! Ó Guð, Guð minn! Gef mér hjarta hreint sem perlu.
 (Bahaiprayers.net ID: 1619)
 
 
+
+
 ### <a id="bpn8376"></a> Prayer bpn8376 in Íslenska
 Ó Þú góði Drottinn! Veit þessari dóttur ríkisins himneska staðfestingu og aðstoða hana af náð Þinni til að verða stöðug og staðföst í málstað Þínum, svo hún megi syngja söngva Þína fegurstu rödd líkt og næturgali í rósalundi leyndardóma Þinna í Abhá ríkinu og færa þannig öllum ham­ingju. Ger hana upphafna meðal dætra ríkisins og ger henni kleift að eignast eilíf líf.
 Þú ert gefandinn, sá sem allt elskar.
 
 (Source category: Börn og unglingar)
 (Bahaiprayers.net ID: 8376)
+
+
 
 
 ### <a id="bpn8377"></a> Prayer bpn8377 in Íslenska
@@ -542,12 +726,16 @@ Reis því upp, ó Andi hreinleika, sálir sem líkt og þessar helguðu verur v
 (Bahaiprayers.net ID: 8377)
 
 
+
+
 ### <a id="bpn1620"></a> Prayer bpn1620 in Íslenska
 Ó Þér meyru sprotar í garði ástar Guðs! Ó, Þér fersku tré í jarðvegi þekkingar Guðs! Blóm­strandi jurtir í vorgarði eru unaðsleg sjón. Hinar nýsprottnu plöntur gefa frá sér sterka angan, sér­hvert blómstur gleður augað með sérstakri fegurð sinni og blöð þess og aldin taka skjótum þroska. Og þegar fólkið leggur leið sína inn í garðinn og virðir fyrir sér fegurð blómanna og andar að sér ilmi þeirra, verða sálir þeirra fagnandi og hjörtu þeirra fá svölun. Vaxið því hratt á þessu fágæta vori, ó Þér, sem eruð blóm á himneskum greinum og ávextir á tré samlyndisins, og með andlit yðar geislandi beint hjörtum yðar að aðsetri þess Drottins, sem allt heyrir og segið: Ó, Þú Drottinn undursamlegrar náðar! Veit okkur nýja blessun. Gef okkur ferskleik vorsins. Við erum frjóangar, sem fingur örlætis Þíns hafa gróðursett og höfum verið mótuð úr vatni og leir mildrar ástúðar Þinnar. Okkur þyrstir eftir lifandi vötnum hylli Þinnar og eigum allt undir úthellingu úr skýjum örlætis Þíns. Lát ekki þennan trjálund ræktarlausan, þar sem vonir okkar vaxa og neita honum ekki um regn ástríkis Þíns. Gef að úr skýjum miskunnar Þinnar megi falla gnægð regns til þess að meiður lífs okkar megi bera ávöxt og við fáum kærustu óskir hjartna okkar uppfylltar.
 Megi dýrð Guðs hvíla yfir fylgjendum Bahá!
 
 (Source category: Börn og unglingar)
 (Bahaiprayers.net ID: 1620)
+
+
 
 
 ### <a id="bpn1621"></a> Prayer bpn1621 in Íslenska
@@ -558,11 +746,15 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1621)
 
 
+
+
 ### <a id="bpn1622"></a> Prayer bpn1622 in Íslenska
 Ó Þú óviðjafnanlegi Guð! Lát þennan brjóst­mylk­­ing nærast af brjóstum ástúðar Þinnar, vernda hann í vöggu öryggis og verndar Þinnar og gef að hann megi alast upp í faðmi blíðrar ástúðar Þinnar.
 
 (Source category: Börn og unglingar)
 (Bahaiprayers.net ID: 1622)
+
+
 
 
 ### <a id="bpn1623"></a> Prayer bpn1623 in Íslenska
@@ -572,11 +764,15 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1623)
 
 
+
+
 ### <a id="bpn1624"></a> Prayer bpn1624 in Íslenska
 Ó Guð! Uppfræð þessi börn. Þau eru jurtir í garði Þínum, blóm á völlum Þínum, rósir í reit Þínum. Lát regn Þitt falla yfir þau, lát veru­leikans sól skína á þau vegna ástar Þinnar. Lát andvara Þinn endurnæra þau til þess að þau megi agast, vaxa og dafna og birtast í mestri fegurð. Þú ert gjafarinn. Þú ert hinn vorkunnláti.
 
 (Source category: Börn og unglingar)
 (Bahaiprayers.net ID: 1624)
+
+
 
 
 ### <a id="bpn1625"></a> Prayer bpn1625 in Íslenska
@@ -585,6 +781,8 @@ Vissulega ert Þú hinn aldýrlegi.
 
 (Source category: Börn og unglingar)
 (Bahaiprayers.net ID: 1625)
+
+
 
 
 ### <a id="bpn1626"></a> Prayer bpn1626 in Íslenska
@@ -596,11 +794,15 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1626)
 
 
+
+
 ### <a id="bpn1629"></a> Prayer bpn1629 in Íslenska
 Ó Drottinn minn! Ó Drottinn minn! Ég er barn á viðkvæmu skeiði. Nær mig úr brjósti mis­kunnar Þinnar, aga mig í faðmi ástar Þinnar, uppfræð mig í skóla leiðsagnar Þinnar og þroska mig í forsælu örlætis Þíns. Leys mig frá myrkri, ger mig að skæru ljósi. Frelsa mig frá óhamingju, ger mig að blómi rósagarðsins. Gef að ég verði þjónn fótskarar Þinnar og veit mér lunderni og skaphöfn hins réttláta. Ger mig uppsprettu velgjörða fyrir heim mannsins og krýn höfuð mitt djásni eilífs lífs. Vissulega ert Þú hinn voldugi og máttugi, sjá­andinn og heyrandinn.
 
 (Source category: Börn og unglingar)
 (Bahaiprayers.net ID: 1629)
+
+
 
 
 ### <a id="bpn1630"></a> Prayer bpn1630 in Íslenska
@@ -610,11 +812,15 @@ Vissulega ert Þú hinn aldýrlegi.
 (Bahaiprayers.net ID: 1630)
 
 
+
+
 ### <a id="bpn1631"></a> Prayer bpn1631 in Íslenska
 Ó Drottinn! Ger þennan ungling geislandi og veit þessari vesalings veru hylli Þína. Gef honum þekkingu, fær honum aukinn styrk í byrjun hvers dags og gæt hans í skjóli verndar Þinnar svo hann megi frelsast frá villu, helga sig þjónustu við málstað Þinn, leiða hina vegvilltu, leiðbeina hinum gæfusnauðu, frelsa bandingjana og vekja hina gá­lausu til þess að öllum megi hlotnast blessun með minningu Þinni og lofgjörð. Þú ert hinn máttugi og voldugi.
 
 (Source category: Börn og unglingar)
 (Bahaiprayers.net ID: 1631)
+
+
 
 
 
@@ -627,11 +833,15 @@ Guð gefi að ljós einingarinnar megi umlykja alla jörðina og innsiglinu „R
 (Bahaiprayers.net ID: 1639)
 
 
+
+
 ### <a id="bpn1638"></a> Prayer bpn1638 in Íslenska
 Ó Guð minn! Ó Guð minn! Sameina hjörtu þjóna Þinna og birt þeim Þitt mikla áform. Megi þeir fylgja boðum Þínum og halda lög Þín. Hjálpa þeim, ó Guð, í viðleitni þeirra og gef þeim styrk til að þjóna Þér. Ó Guð! Lát þá ekki eina, en lýs þeim hvert fótmál þeirra með ljósi þekkingar Þinnar og gleð hjörtu þeirra með ást Þinni. Vissulega ert Þú hjálp þeirra og Drottinn þeirra.
 
 (Source category: Eining)
 (Bahaiprayers.net ID: 1638)
+
+
 
 
 ### <a id="bpn1640"></a> Prayer bpn1640 in Íslenska
@@ -643,6 +853,8 @@ Sannlega ert Þú hinn almáttugi og sjálfumnógi, gjafarinn, fyrirgefandinn, s
 
 (Source category: Eining)
 (Bahaiprayers.net ID: 1640)
+
+
 
 
 
@@ -706,6 +918,8 @@ Ef allir þjónarnir lesa og hugleiða þetta, verður glæddur eldur í æðum 
 
 
 
+
+
 ## Erfiðleikar og mótlæti
 
 ### <a id="bpn1641"></a> Prayer bpn1641 in Íslenska
@@ -713,6 +927,8 @@ Prófraunir Þínar, Ó Guð minn, eru læknislyf þeim sem eru Þér nálægir,
 
 (Source category: Erfiðleikar og mótlæti)
 (Bahaiprayers.net ID: 1641)
+
+
 
 
 ### <a id="bpn1642"></a> Prayer bpn1642 in Íslenska
@@ -725,6 +941,8 @@ Reis Þú upp, þess bið ég Þig ó Guð minn, til aðstoðar þessari opinber
 (Bahaiprayers.net ID: 1642)
 
 
+
+
 ### <a id="bpn1643"></a> Prayer bpn1643 in Íslenska
 Dýrlegur ert Þú, ó Drottinn Guð minn! Sér­hver maður sem gæddur er innsæi viðurkennir yfir­ráð Þín og vald og sérhvert skilningsríkt auga skynjar mikilleika tignar Þinnar og knýjandi vald máttar Þíns. Vindar prófrauna geta ekki aftrað þeim sem njóta návista við Þig að beina augum að sjónarhring dýrðar Þinnar og stormar mótlætis hnika þeim ekki úr stað, sem eru fullkomlega helgaðir vilja Þínum né varna þeim að nálgast forgarð Þinn.
 Mér þykir sem lampi ástar Þinnar skíni í hjörtum þeirra og ljós blíðu Þinnar logi í brjóstum þeirra. Andstreymi getur ekki gert þá fráhverfa málstað Þínum og hverful forlög aldrei fengið þá til að víkja af vegi velþóknunar Þinnar
@@ -734,6 +952,8 @@ Mér þykir sem lampi ástar Þinnar skíni í hjörtum þeirra og ljós blíðu
 (Bahaiprayers.net ID: 1643)
 
 
+
+
 ### <a id="bpn1644"></a> Prayer bpn1644 in Íslenska
 Þú veist vel, ó Guð minn, að þrengingar hafa steðjað að mér úr öllum áttum og enginn getur eytt þeim eða umbreytt nema Þú. Ég veit með fullri vissu vegna ástar minnar á Þér, að Þú munt aldrei láta þrengingu verða á vegi neinnar sálar nema Þú viljir upphefja stöðu hennar í himneskri paradís Þinni og styrkja hjarta hennar í þessu jarðneska lífi með virkismúrum Þíns allsráðandi valds til þess að það hneigist ekki að hégóma þessa heims. Þú veist að sönnu fullvel að hvernig sem á stendur myndi ég miklu fremur varðveita minningu Þína en eignast allt sem er á himnum og jörðu.
 Styrk hjarta mitt, ó Guð minn, í ást Þinni og í hlýðni við Þig og gef að ég megi leysast frá allri hersingu andstæðinga Þinna. Sannlega sver ég við dýrð Þína, að ég þrái ekkert nema Þig, óska einskis nema miskunnar Þinnar og óttast ekkert nema réttlæti Þitt. Ég bið Þig að fyrirgefa mér og þeim sem Þú elskar með hverjum þeim hætti sem Þér þóknast. Vissulega ert Þú hinn almáttugi og örláti.
@@ -741,6 +961,8 @@ Styrk hjarta mitt, ó Guð minn, í ást Þinni og í hlýðni við Þig og gef 
 
 (Source category: Erfiðleikar og mótlæti)
 (Bahaiprayers.net ID: 1644)
+
+
 
 
 
@@ -769,6 +991,8 @@ Styrk hjarta mitt, ó Guð minn, í ást Þinni og í hlýðni við Þig og gef 
 (Bahaiprayers.net ID: 1767)
 
 
+
+
 ### <a id="bpn1768"></a> Prayer bpn1768 in Íslenska
 Lof sé Þér, ó Drottinn Guð minn! Ég bið Þig við þessa opinberun, sem hefur snúið myrkri í ljós, reist hið fjölsótta musteri, opinberað hina skráðu töflu og afhjúpað hið opna bókfell, að senda það niður yfir mig og þá, sem eru í félagsskap mínum, sem gerir okkur fært að stíga upp til himna yfirskilvitlegrar náðar Þinnar og hreinsar okkur af saurgun þeirra efasemda, sem aftrað hafa hinum tortryggnu frá því að stíga inn í tjaldbúð einingar Þinnar.
 Ég er sá, ó Drottinn minn, sem haldið hef fast í taug ástríkis Þíns og tekið föstum höndum um klæðisfald miskunnar Þinnar og hylli. Ákvarða mér og ástvinum mínum gæði þessa heims og þess sem kemur. Gef þeim því hina huldu gjöf, sem Þú áformaðir hinum útvöldu meðal skepna Þinna.
@@ -777,6 +1001,8 @@ Enginn er Guð nema Þú, hinn alvitri, hinn alvísi. Allt lof sé Guði, Drottn
 
 (Source category: Fastan)
 (Bahaiprayers.net ID: 1768)
+
+
 
 
 ### <a id="bpn1769"></a> Prayer bpn1769 in Íslenska
@@ -792,6 +1018,8 @@ Ger málstað Þinn sigursælan, ó Drottinn minn, og niðurlæg óvini Þína. 
 
 (Source category: Fastan)
 (Bahaiprayers.net ID: 1769)
+
+
 
 
 ### <a id="bpn1770"></a> Prayer bpn1770 in Íslenska
@@ -813,6 +1041,8 @@ Lofaður sért Þú, ó Guð minn, því að Þú hefur hjálpað okkur til að 
 
 
 
+
+
 ## Fjölskyldur
 
 ### <a id="bpn1645"></a> Prayer bpn1645 in Íslenska
@@ -824,6 +1054,8 @@ Blessaðu mig, ó Guð minn, og þá sem trúa á tákn Þín á hinum tilskipa�
 (Bahaiprayers.net ID: 1645)
 
 
+
+
 ### <a id="bpn1646"></a> Prayer bpn1646 in Íslenska
 Ég bið Þig fyrirgefningar, ó Guð minn, og sár­bæni um aflausn með þeim hætti sem Þú vilt að þjónar Þínir viðhafi er þeir snúa sér til Þín. Ég bið Þig um að hreinsa okkur af syndum okkar eins og sæmir yfirráðum Þínum og fyrirgefa mér, for­eldrum mínum og þeim sem að Þínu mati hafa gengið inn í híbýli ástar Þinnar eins og hæfir yfirskilvitlegum yfirráðum Þínum og sæmir dýrð Þíns himneska valds.
 Ó Guð minn! Þú hefur innblásið sál minni að færa Þér bæn sína og væri það ekki fyrir Þitt tilstilli myndi ég ekki ákalla Þig. Vegsamaður og dýrlegur sért Þú. Ég færi Þér lof því að Þú opinberaðist mér, og ég bið Þig að fyrirgefa mér því ég hef vanrækt þá skyldu mína að þekkja Þig og látið undir höfuð leggjast að ganga vegu ástar Þinnar.
@@ -832,11 +1064,15 @@ Blessaðu mig, ó Guð minn, og þá sem trúa á tákn Þín á hinum tilskipa�
 (Bahaiprayers.net ID: 1646)
 
 
+
+
 ### <a id="bpn1647"></a> Prayer bpn1647 in Íslenska
 Ó Drottinn! Í þessu almesta trúarkerfi leyfir Þú að börn hafi milligöngu fyrir foreldra sína. Þetta er ein hinna sérstæðu takmarkalausu gjafa þessa trúar­kerfis. Svara því, ó Þú góði Drottinn, beiðni þessa þjóns Þíns við fót­skör ein­stæðis Þíns og sökk föður hans í haf náðar Þinnar vegna þess að þessi sonur hefur hafist handa um að þjóna Þér og sýnir stöð­uga viðleitni á vegi ástar Þinnar. Vissu­lega ert Þú gjaf­ar­inn, fyrirgefandinn og hinn gæskuríki.
 
 (Source category: Fjölskyldur)
 (Bahaiprayers.net ID: 1647)
+
+
 
 
 ### <a id="bpn1648"></a> Prayer bpn1648 in Íslenska
@@ -849,12 +1085,16 @@ Vissulega ert Þú hinn dýrmæti, sá sem ætíð gefur, hinn örláti.
 (Bahaiprayers.net ID: 1648)
 
 
+
+
 ### <a id="bpn1649"></a> Prayer bpn1649 in Íslenska
 Drottinn minn! Drottinn minn! Ég vegsama Þig og þakka Þér fyrir það, sem Þú hefur af örlæti Þínu gefið auðmjúkri þernu Þinni og ambátt, sem biður til Þín og sárbænir Þig sakir þess að Þú hefur sannlega leitt hana til Þíns augljósa konungs­ríkis og leyft henni að hneigja eyru sín að upphöfnu kalli Þínu í hinni jarðnesku veröld og líta táknin, sem sanna birtingu Þíns sigursæla herradóms yfir öllu sem skapað er.
 Drottinn minn! Ég helga Þér það, sem er í kviði mínum. Lát það því verða lofsvert barn í ríki Þínu og ger það gæfusamt með atbeina hylli Þinnar og örlætis; lát það þroskast og dafna undir handarjaðri uppfræðslu Þinnar. Vissulega ert Þú hinn náðugi. Vissulega ert Þú Drottinn mikillar mildi!
 
 (Source category: Fjölskyldur)
 (Bahaiprayers.net ID: 1649)
+
+
 
 
 
@@ -868,12 +1108,16 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sárbæni Þig við stríða vi
 (Bahaiprayers.net ID: 1650)
 
 
+
+
 ### <a id="bpn1651"></a> Prayer bpn1651 in Íslenska
 Ó Þú miskunnsami Guð! Ó Þú sem ert mátt­ugur og voldugur! Ó Þú gæskuríkasti faðir! Þessir þjónar Þínir hafa komið saman og leitað til Þín, biðja til fótskarar Þinnar, óska eftir tak­markalausri hylli Þinni frá Þinni voldugu fullvissu. Þeir hafa ekkert áform annað en velþóknun Þína, ætla sér ekkert nema að þjóna mannheimi.
 Ó Guð! Ger þennan fund geislandi. Ger hjörtun miskunnsöm. Veit hylli heilags anda. Miðla þeim krafti frá himnum. Blessa þá með himnesku hugar­fari. Auk einlægni þeirra svo þeir megi, fullir auðmýktar og iðrunar, leita til ríkis Þíns og festa hugann við þjónustu við mannheim. Megi hver og einn verða skínandi kerti. Megi hver og einn verða tindrandi stjarna. Megi hver og einn verða fagur­leitur og veita ljúfum ilmi í ríki Guðs.
 
 (Source category: Fundir)
 (Bahaiprayers.net ID: 1651)
+
+
 
 
 ### <a id="bpn1652"></a> Prayer bpn1652 in Íslenska
@@ -885,11 +1129,15 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sárbæni Þig við stríða vi
 (Bahaiprayers.net ID: 1652)
 
 
+
+
 ### <a id="bpn1653"></a> Prayer bpn1653 in Íslenska
 Ó Guð minn! Ó Guð minn! Vissulega leita þessir þjónar Þínir til Þín og biðja til ríkis miskunnar Þinnar. Sannlega laðast þeir að heilag­leika Þínum og eru upptendraðir af eldi ástar Þinnar. Þeir leita staðfestingar frá undursamlegu ríki Þínu og vonast eftir inngöngu í Þinn himneska heim. Vissulega þrá þeir gjafir Þínar og óska sér uppljómunar frá sól veruleikans. Ó Drottinn! Ger þá skínandi lampa, líknandi tákn, frjósöm tré og tindrandi stjörnur. Megi þeir ganga fram í þjónustu Þinni, tengjast Þér böndum kærleika Þíns og þrá birtu örlætis Þíns. Ó Drottinn! Ger þá að táknum handleiðslu Þinnar, gunnfána ódauðlegs ríkis Þíns, bylgjur á hafi miskunnar Þinnar og lát þá endur­spegla birtu tignar Þinnar. Vissulega ert Þú hinn veglyndi. Vissulega ert Þú hinn miskunnsami. Vissulega ert Þú hinn hjart­fólgni og elskaði.
 
 (Source category: Fundir)
 (Bahaiprayers.net ID: 1653)
+
+
 
 
 ### <a id="bpn1654"></a> Prayer bpn1654 in Íslenska
@@ -903,12 +1151,16 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sárbæni Þig við stríða vi
 (Bahaiprayers.net ID: 1654)
 
 
+
+
 ### <a id="bpn1655"></a> Prayer bpn1655 in Íslenska
 Ó himneska forsjón! Á þessari samkomu eru vinir Þínir sem laðast að fegurð Þinni og brenna af eldi ástar Þinnar. Ger þessar sálir að himneskum englum, endurlífga þær með andblæ heilags anda, gef þeim mælska tungu og einörð hjörtu. Veit þeim himneskt afl og miskunnsamar kenndir, lát þær út­breiða einingu mannkyns og verða uppsprettu ástar og samstillingar í mann­heimi svo að skaðlegt myrkur fáfræði og fordóma megi hverfa fyrir ljósinu frá sól sannleikans, þessi dapri heimur upplýsast, þetta efnislega ríki drekka í sig geislana frá heimi andans, þessir ýmsu litir verða eitt og söngur lofgerðar rísa til ríkis heilag­leika Þíns.
 Sannlega ert Þú hinn almáttugi og alvaldi.
 
 (Source category: Fundir)
 (Bahaiprayers.net ID: 1655)
+
+
 
 
 
@@ -923,6 +1175,8 @@ Dýrlegur ert Þú, ó Drottinn Guð minn. Ég bið Þig við Þína útvöldu, 
 (Bahaiprayers.net ID: 1656)
 
 
+
+
 ### <a id="bpn1657"></a> Prayer bpn1657 in Íslenska
 Ég er sá, ó Drottinn minn, sem hef beint augliti mínu að Þér og fest vonir mínar á undrum náðar Þinnar og opinberunum hylli Þinnar. Ég bið Þig að láta mig ekki hverfa vonsvikinn frá dyrum náðar Þinnar né gefa mig á vald þeim af skepnum Þínum sem hafa afneitað málstað Þínum.
 Ég er, ó Guð minn, þjónn Þinn og sonur þjóns Þíns. Ég hef borið kennsl á sannleika Þinn á dögum Þínum og beint skrefum mínum til stranda einleika Þíns, játað einstæði Þitt, viðurkennt ein­ingu Þína og vonast eftir fyrirgefningu Þinni og aflausn. Þú hefur vald til að gera það sem Þér þóknast. Enginn er Guð nema Þú, hinn aldýrlegi, sá sem ætíð fyrirgefur.
@@ -931,11 +1185,15 @@ Dýrlegur ert Þú, ó Drottinn Guð minn. Ég bið Þig við Þína útvöldu, 
 (Bahaiprayers.net ID: 1657)
 
 
+
+
 ### <a id="bpn1658"></a> Prayer bpn1658 in Íslenska
 Þú sérð mig, ó Drottinn minn, beina augliti mínu að himnaríki örlætis Þíns og úthafi hylli Þinnar, fráhverfan öllu nema Þér. Ég bið Þig við ljómann af sól birtingar Þinnar á Sínaí og geisla­dýrðina af ljóshnetti náðar Þinnar sem skín frá sjónbaug nafns Þíns, þess er ætíð fyrirgefur, að mér hlotnist miskunn Þín og fyrirgefning. Rita einnig niður fyrir mig með dýrðarpenna Þínum, það sem með nafni Þínu mun upphefja mig í heimi sköp­unarinnar. Hjálpa mér, ó Drottinn minn, að leita til Þín og hlýða á rödd Þinna elskuðu, sem öflum jarðarinnar hefur ekki tekist að veikja og veldi þjóðanna ekki megnað að halda frá Þér og sem sagt hafa á leið sinni til Þín: „Guð er Drottinn okkar og Drottinn allra á himnum og jörðu!“
 
 (Source category: Fyrirgefning)
 (Bahaiprayers.net ID: 1658)
+
+
 
 
 ### <a id="bpn1659"></a> Prayer bpn1659 in Íslenska
@@ -949,6 +1207,8 @@ Lofaður sé Guð, Drottinn veraldanna!
 (Bahaiprayers.net ID: 1659)
 
 
+
+
 ### <a id="bpn1660"></a> Prayer bpn1660 in Íslenska
 Lofað sé nafn Þitt, ó Guð minn og Guð alls sem er, dýrð mín og dýrð alls sem er, þrá mín og þrá alls sem er, styrkur minn og styrkur alls sem er, konungur minn og konungur alls sem er, eigandi minn og eigandi alls sem er, markmið mitt og markmið alls sem er, sá sem hreyfir við mér og hreyfir við öllu sem er. Ég sárbæni Þig um að halda mér ekki frá úthafi Þinnar mildu miskunnar né láta mig dveljast fjarri ströndum nálægðar við Þig.
 Alls ekkert nema Þú, ó Drottinn minn, kemur mér að liði og aðgangur að öðrum en Þér sjálfum stoðar mig ekkert. Ég bið Þig við allsnægtir Þínar, sem Þú úthlutar öllum nema sjálfum Þér, að telja mig með þeim sem hafa beint augum til Þín og risið upp til að þjóna Þér.
@@ -956,6 +1216,8 @@ Fyrirgef því, ó Drottinn minn, þjónum Þínum og þjónustumeyjum. Þú ert
 
 (Source category: Fyrirgefning)
 (Bahaiprayers.net ID: 1660)
+
+
 
 
 ### <a id="bpn1661"></a> Prayer bpn1661 in Íslenska
@@ -968,6 +1230,8 @@ Drottinn. Ég hef flúið undan réttvísi Þinni og leitað náðar Þinnar, sn
 (Bahaiprayers.net ID: 1661)
 
 
+
+
 ### <a id="bpn1662"></a> Prayer bpn1662 in Íslenska
 Ó Guð, Drottinn okkar! Vernda okkur sakir náð­ar Þinnar gegn öllu, sem kann að vekja andúð Þína, og veit okkur það, sem sæmir Þér vel. Gef okkur enn ríflegar af örlæti Þínu og blessa okkur. Fyrirgef okkur það sem við höfum gert, hreinsa okkur af syndum okkar og veit okkur af­lausn með mildri fyrirgefningu Þinni. Sannlega ert Þú hinn háleitasti, hinn sjálfumnógi.
 Ástúðleg forsjón Þín hefur umlukið allt sem skapað er á himnum og jörðu og fyrirgefning Þín hefur yfirstigið alla sköpunina. Þitt er fullveldið og í höndum Þínum eru ríki sköpunar og opinberunar. Í hægri hendi Þinni heldur Þú öllu sem skapað er og í greip Þinni eru deildir verðir fyrirgefningar. Þú fyrirgefur þeim af þjónum Þínum, sem Þér þóknast. Sannlega ert Þú sá, sem ætíð fyrirgefur, sá sem allt elskar. Alls ekkert getur umflúið þekkingu Þína og ekkert er Þér dulið.
@@ -978,11 +1242,15 @@ Drottinn. Ég hef flúið undan réttvísi Þinni og leitað náðar Þinnar, sn
 (Bahaiprayers.net ID: 1662)
 
 
+
+
 ### <a id="bpn1663"></a> Prayer bpn1663 in Íslenska
 Lof sé Þér, ó Drottinn. Fyrirgef syndir okkar, auðsýn okkur miskunn og ger okkur fært að snúa aftur til Þín. Lát okkur ekki treysta á neitt nema Þig og miðla okkur af örlæti Þínu því sem Þú elskar og þráir og sæmir Þér vel. Ger háleita stöðu þeirra, sem hafa trúað í sannleika og fyrirgef þeim af náðarríkri fyrirgefningu Þinni. Sannlega ert Þú hjálpin í nauðum, hinn sjálfumnógi.
 
 (Source category: Fyrirgefning)
 (Bahaiprayers.net ID: 1663)
+
+
 
 
 ### <a id="bpn1664"></a> Prayer bpn1664 in Íslenska
@@ -992,6 +1260,8 @@ Lof sé Þér, ó Drottinn. Fyrirgef syndir okkar, auðsýn okkur miskunn og ger
 (Bahaiprayers.net ID: 1664)
 
 
+
+
 ### <a id="bpn1665"></a> Prayer bpn1665 in Íslenska
 Dýrð sé Þér, ó Guð. Hvernig get ég nefnt Þig þegar Þú ert helgaður yfir lofgjörð alls mannkyns. Miklað sé nafn Þitt, ó Guð, Þú ert konungurinn, sannleikurinn eilífi. Þú veist hvað er á himnum og jörðu og til Þín verða allir að hverfa aftur. Þú hefur sent niður guðlega ákvarðaða opin­berun Þína í sam­ræmi við skýran mælikvarða. Lofaður sért Þú, ó Drottinn! Að boði Þínu gerir Þú hvern sem Þér þóknast sigursælan með her­skörum himins og jarðar og alls sem þar er á milli. Þú ert yfirbjóðandinn, sann­leikurinn eilífi, Drott­inn ósigrandi valds. Dýrð sé Þér, ó Drottinn, Þú fyrirgefur ævinlega syndir þeirra sem biðja Þig um aflausn. Hreinsa mig af synd­um mínum og þá sem leita fyrir­gefningar Þinn­ar í dögun, sem biðja til Þín að degi til og að næturþeli, sem þrá ekkert nema Guð og fórna öllu sem Guð hefur náðarsamlega gefið þeim, sem færa Þér lof kvölds og morgna og vanrækja ekki skyldur sínar.
 
@@ -999,11 +1269,15 @@ Dýrð sé Þér, ó Guð. Hvernig get ég nefnt Þig þegar Þú ert helgaður 
 (Bahaiprayers.net ID: 1665)
 
 
+
+
 ### <a id="bpn1666"></a> Prayer bpn1666 in Íslenska
 Ó Þú vorkunnláti Drottinn! Þú ert athvarf öllum þessum þjónum Þínum. Þú þekkir leyndar­málin og ekkert fer framhjá Þér. Öll erum við hjálpar vana og Þú ert hinn máttugi og al­voldugi. Öll erum við syndug og Þú ert sá sem fyrirgefur syndir, hinn miskunnsami og samúð­arríki. Ó Drottinn! Lít ekki á vankanta okkar. Ger við okkur samkvæmt náð Þinni og veglyndi. Vankantar okkar eru margir en úthaf fyrirgefningar Þinnar takmarkalaust. Veikleiki okkar er hörmu­legur, en tákn hjálpar Þinnar og aðstoðar auðsæ. Veit okkur því styrk og staðfestu. Ger okkur kleift að inna það af höndum sem er verðugt heilagri fótskör Þinni. Uppljóma hjörtu okkar. Gef okkur skýra sjón og næma heyrn. Endurlífga dauða og lækna sjúka. Auðga snauða og veit óttaslegnum öryggi og frið. Veit okkur viðtöku í ríki Þínu og uppljóma okkur með ljósi leiðsagnar. Þú ert hinn voldugi og alvaldi. Þú ert hinn göfugi og mildi. Þú ert hinn gæskuríki.
 
 (Source category: Fyrirgefning)
 (Bahaiprayers.net ID: 1666)
+
+
 
 
 
@@ -1018,11 +1292,15 @@ Dýrð sé Þér, ó Guð. Hvernig get ég nefnt Þig þegar Þú ert helgaður 
 (Bahaiprayers.net ID: 1667)
 
 
+
+
 ### <a id="bpn1668"></a> Prayer bpn1668 in Íslenska
 Nafn Þitt er lækning mín, ó Guð minn, og minn­ingin um Þig er mér heilsulind. Nálægð­in við Þig er von mín og kærleikurinn til Þín er félagi minn. Miskunn Þín við mig er lækning mín og hjálp bæði í þessum heimi og þeim, sem mun koma. Þú ert vissulega hinn örláti og alvitri, hinn alvísi.
 
 (Source category: Græðing)
 (Bahaiprayers.net ID: 1668)
+
+
 
 
 ### <a id="bpn1669"></a> Prayer bpn1669 in Íslenska
@@ -1031,6 +1309,8 @@ Dýrð sé Þér, ó Drottinn Guð minn! Ég sárbæni Þig við nafn Þitt sem 
 
 (Source category: Græðing)
 (Bahaiprayers.net ID: 1669)
+
+
 
 
 ### <a id="bpn1670"></a> Prayer bpn1670 in Íslenska
@@ -1042,12 +1322,16 @@ Vegsamaður sért Þú, ó Drottinn Guð minn! Ég sárbæni Þig við Þitt mes
 (Bahaiprayers.net ID: 1670)
 
 
+
+
 ### <a id="bpn1671"></a> Prayer bpn1671 in Íslenska
 Nöfn Þín, ó Guð minn, eru líkn sjúkum og læknisdómur þjáðum, svaladrykkur þyrstum og fró kvöldum, leiðsögn villtum og upphafning smáðum, ríkidæmi snauðum og upplýsing fáfróð­um, uppljómun döprum og huggun sorgmæddum, ylur köldum og uppreisn niðurlægðum. Með nafni Þínu, ó Guð minn, voru allir hlutir lífgaðir og himnarnir þandir út og jörðin grundvölluð og skýin hafin upp og látin senda regn sitt yfir jörðina. Sannlega eru þetta tákn miskunnar Þinnar öllum skepnum Þínum.
 Því sárbæni ég Þig við nafn Þitt, sem opinberaði guðdóm Þinn og hóf málstað Þinn ofar allri sköp­uninni, og við sérhverja af ágætustu nafnbótum Þínum og tignustu eigindum og við allar þær dyggð­ir, sem vegsama yfirskilvitlega og háleitasta verund Þína að senda úr skýjum miskunnar Þinnar á þessari nóttu líknandi regn yfir þennan brjóst­mylking sem Þú hefur samþýtt aldýrlegu sjálfi Þínu í ríki sköpunar Þinnar. Klæð hann því, ó Guð minn, af miskunn Þinni kyrtli vellíðunar og heil­brigðis og varðveit hann, ó ástvinur minn, fyrir sérhverri þrenging og glundroða og fyrir öllu sem Þér er andstyggð. Sannlega er máttur Þinn jafnoki alls sem er. Þú ert í sannleika hinn voldugasti og sjálfumnógi. Lát ennfremur rigna yfir hann, ó Guð minn, gæðum þessa heims og hinn næsta og gæð­um fyrri kynslóða og hinna síðari. Sannlega eru máttur Þinn og viska megnug þessa.
 
 (Source category: Græðing)
 (Bahaiprayers.net ID: 1671)
+
+
 
 
 ### <a id="bpn1672"></a> Prayer bpn1672 in Íslenska
@@ -1103,12 +1387,16 @@ Helgaður ert Þú, ó Guð minn! Ég grátbæni Þig vegna örlætis Þíns, se
 (Bahaiprayers.net ID: 1672)
 
 
+
+
 ### <a id="bpn9107"></a> Prayer bpn9107 in Íslenska
 Ó góði Guð. Þú ert mér betri en ég sjálfur og kærleikur Þinn meiri og eldri. Hvenær sem ég er minntur á gjafir Þínar fyllist ég gleði og von. Hafi sál mín verið í uppnámi hlýt ég frið í sálu og hjarta. Hafi veikindi þjáð mig fæ ég eilíft heilbrigði. Hafi ég verið ótrúr verð ég trúr. Hafi ég verið vonlaus fyllist ég von.
 Ó Þú Drottinn konungsríkisins. Gleð Þú hjarta mitt, efl Þú veiklyndan huga minn og styrk Þú ör­þreytt­ar taugar. Lát birta fyrir augum, leyf eyrum mín­um að heyra svo ég megi hlýða tónlist kon­ungs­ríkis Þíns og öðlast ævarandi fögnuð og hamingju. Sannarlega ert Þú hinn örláti, sá sem gefur, hinn mildi.
 
 (Source category: Græðing)
 (Bahaiprayers.net ID: 9107)
+
+
 
 
 
@@ -1123,12 +1411,16 @@ Og loks bið ég Þig við ljós ásýndar Þinnar, að blessa málefni mín, gr
 (Bahaiprayers.net ID: 1673)
 
 
+
+
 ### <a id="bpn1674"></a> Prayer bpn1674 in Íslenska
 Lofaður og dýrlegur ert Þú, ó Guð minn! Ég bið Þig við andvörp ástvina Þinna og tár þeirra sem þrá að sjá Þig, að svipta mig ekki mildri miskunn Þinni á Þínum dögum né meina mér að hlýða á söngva dúfunnar, sem vegsamar einingu Þína frammi fyrir ljósinu sem skín frá ásýnd Þinni. Ég er þjáður, ó Guð! Lít mig halda fast við nafn Þitt, eigandi alls. Tortíming er mér vís, lít mig halda fast við nafn Þitt, hinn ótortímanlegi. Ég bið Þig við sjálfan Þig, hinn upphafna, hinn hæsta, að gefa mig ekki á vald mínu eigin sjálfi og ástríðum spilltrar hneigðar. Tak í hönd mína með hendi valds Þíns, frelsa mig úr afgrunni ímyndana og fánýts hugarburðar og hreinsa mig af öllu sem Þér er andstyggð.
 Lát mig síðan leita heilshugar til Þín, setja allt traust mitt á Þig, leita á náðir Þínar og flýja til ásýndar Þinnar. Þú ert að sönnu sá sem gerir það sem Þér líst í krafti máttar Þíns og fyrirskipar með afli vilja Þíns hvaðeina sem Þú kýst. Enginn fær staðið í gegn framkvæmd ákvörðunar Þinnar, enginn breytir stefnunni sem Þú hefur markað. Þú ert í sannleika hinn almáttugi og aldýrlegi, hinn örlátasti.
 
 (Source category: Hjálp í mótlæti)
 (Bahaiprayers.net ID: 1674)
+
+
 
 
 ### <a id="bpn1675"></a> Prayer bpn1675 in Íslenska
@@ -1138,6 +1430,8 @@ Er nokkur sá er firrir erfiðleikum nema Guð? Seg: Lof sé Guði, Hann er Guð
 (Bahaiprayers.net ID: 1675)
 
 
+
+
 ### <a id="bpn1676"></a> Prayer bpn1676 in Íslenska
 Seg: Guð nægir öllu framar öllu, og ekkert á himnum né jörðu nægir nema Guð. Sannlega er Hann í sjálfum sér, sá er þekkir, forsjá lífsins, hinn alvaldi.
 
@@ -1145,11 +1439,15 @@ Seg: Guð nægir öllu framar öllu, og ekkert á himnum né jörðu nægir nema
 (Bahaiprayers.net ID: 1676)
 
 
+
+
 ### <a id="bpn1677"></a> Prayer bpn1677 in Íslenska
 Ó Drottinn! Þú ert sá, sem fjarlægir alla angist og flæmir á braut sérhverja þrengingu. Þú ert sá, sem gerir útlæga hverja sorg og leysir sérhvern bandingja, endurlausnari allra sálna. Ó Drottinn! Veit Þú lausn Þína sakir miskunnar Þinnar og tel mig með þeim þjónum Þínum, sem hlotnast hefur frelsun.
 
 (Source category: Hjálp í mótlæti)
 (Bahaiprayers.net ID: 1677)
+
+
 
 
 ### <a id="bpn1678"></a> Prayer bpn1678 in Íslenska
@@ -1168,6 +1466,8 @@ Leys tungu mína svo hún geti lofað nafn Þitt meðal fólks Þíns, að ég m
 (Bahaiprayers.net ID: 1678)
 
 
+
+
 ### <a id="bpn1679"></a> Prayer bpn1679 in Íslenska
 Hann er hinn samúðarríki, sá sem allt gefur! Ó Guð, Guð minn! Þú sérð mig og þekkir mig, Þú ert hæli mitt og athvarf. Einskis hef ég leitað og einskis mun ég leita nema Þín. Enga leið hef ég farið og enga mun ég fara nema leið ástar Þinnar. Á dimmri nóttu örvæntingar lítur auga mitt í eftir væntingu og fullt vonar til morgunroða ótæmandi hylli Þinnar, og í dagrenningu hressist og styrkist döpur sál mín við minninguna um fegurð Þína og fullkomnun. Sá sem náð Þín og miskunn hjálpa verður að ómælishafi þótt hann sé ei nema dropi, og minnsta frumeind sem úthelling ástúðar Þinnar aðstoðar mun ljóma sem skínandi stjarna.
 Skýl undir verndar væng Þínum, ó Þú andi hrein­­leika, Þú sem ert framfærandi sem öllum næg­ir, þessum gagntekna upptendraða þjóni Þín­um. Hjálpa honum í þessum tilveruheimi að vera staðfastur og einarður í ást Þinni, og gef að þessi vængbrotni fugl fái hæli og skjól í Þínu guðlega hreiðri í hinu himneska tré.
@@ -1176,11 +1476,15 @@ Skýl undir verndar væng Þínum, ó Þú andi hrein­­leika, Þú sem ert fra
 (Bahaiprayers.net ID: 1679)
 
 
+
+
 ### <a id="bpn1680"></a> Prayer bpn1680 in Íslenska
 Ó Drottinn minn, minn ástfólgni, þrá mín! Vertu vinur minn í einsemd minni og dvel hjá mér í útlegð minni. Tak burt sorg mína. Lát mig laðast að fegurð Þinni. Fjarlæg mig öllu nema Þér. Heilla mig með ilmi helgi Þinnar. Leyf mér að una samvistum við þá í ríki Þínu sem eru fráhverfir öllu nema Þér, þrá að þjóna við heilaga fótskör Þína og vinna að málstað Þínum. Gef að ég verði ein af þjónustumeyjum Þínum sem hafa öðlast velþóknun Þína. Vissulega ert Þú hinn náðugi og göfuglyndi.
 
 (Source category: Hjálp í mótlæti)
 (Bahaiprayers.net ID: 1680)
+
+
 
 
 ### <a id="bpn1681"></a> Prayer bpn1681 in Íslenska
@@ -1192,6 +1496,8 @@ Skýl undir verndar væng Þínum, ó Þú andi hrein­­leika, Þú sem ert fra
 (Bahaiprayers.net ID: 1681)
 
 
+
+
 ### <a id="bpn1682"></a> Prayer bpn1682 in Íslenska
 Ó Guð! Ó Guð! Þú sérð veikleika minn, smæð og auðmýkt frammi fyrir skepnum Þínum, samt hef ég reitt mig á Þig og hafist handa um að efla kenningar Þínar meðal staðfastra þjóna Þinna í trausti á vald Þitt og mátt!
 Ó Drottinn! Ég er vængbrotinn fugl og þrái að svífa í Þínum takmarkalausa geimi. Hvernig er mér það fært nema með handleiðslu Þinni og náð, staðfestingu og aðstoð?
@@ -1201,6 +1507,8 @@ Vissulega ert Þú hinn mildi, hinn voldugi og mátt­ugi, og miskunnsamastur þ
 
 (Source category: Hjálp í mótlæti)
 (Bahaiprayers.net ID: 1682)
+
+
 
 
 
@@ -1217,6 +1525,8 @@ Vissulega ert Þú hinn mildi, hinn voldugi og mátt­ugi, og miskunnsamastur þ
 (Bahaiprayers.net ID: 1684)
 
 
+
+
 ### <a id="bpn10118"></a> Prayer bpn10118 in Íslenska
 Hann er gjafarinn, hinn veglyndi!
 Lof sé Guði, hinum aldna og ævarandi, óum­breytilega og eilífa! Hann sem í sinni eigin verund hefur borið því vitni að Hann er sannlega hinn eini og einstæði, hinn óhefti og upphafni. Við berum því vitni að enginn er Guð nema Hann, viðurkennum einleika Hans og játum einstæði Hans. Hann hefur ætíð dvalið í ótilkvæmilegum hæðum, á tindum upp­hafningar sinnar, helgaður frá minningu alls nema sjálfs sín, óháður lýsingu alls nema sín.
@@ -1226,11 +1536,15 @@ Og er Hann vildi opinbera góðvild og miskunn meðal manna og koma reglu á hei
 (Bahaiprayers.net ID: 10118)
 
 
+
+
 ### <a id="bpn1683"></a> Prayer bpn1683 in Íslenska
 „Bahá’í hjónaband er eining og hjartanleg ástúð beggja aðila. Þau verða þó að sýna ítrustu gætni og kynnast lunderni hvors annars. Þetta eilífa band ætti að tryggja með stöðugum sáttmála og tilgangurinn á að vera að rækta samstillingu, vináttu og einingu og öðlast eilíft líf.“
 
 (Source category: Hjónaband)
 (Bahaiprayers.net ID: 1683)
+
+
 
 
 ### <a id="bpn1685"></a> Prayer bpn1685 in Íslenska
@@ -1244,6 +1558,8 @@ Hann er Guð! Ó óviðjafnanlegi Drottinn! Í al­mátt­ugri visku Þinni he
 (Bahaiprayers.net ID: 1685)
 
 
+
+
 ### <a id="bpn1686"></a> Prayer bpn1686 in Íslenska
 Dýrð sé Þér, ó Guð Drottinn minn! Vissulega hafa þessi þjónn Þinn og þjónustumær komið saman í skugga miskunnar Þinnar og sameinast í krafti hylli Þinnar og örlætis. Ó Drottinn, hjálpa þeim í þessari veröld og í ríki Þínu og ákvarða þeim allt sem gott er með fulltingi hylli Þinnar og miskunnar.
 Ó Drottinn, staðfest þau í undirgefni við Þig og aðstoða þau í þjónustu við Þig. Lát þau verða tákn nafns Þíns í heimi Þínum og vernda þau með gjöfum Þínum, sem eru óþrotlegar í þessari veröld og þeirri sem kemur. Ó Drottinn, þau biðja til ríkis náðar Þinnar og ákalla ríki einstæðis Þíns. Vissu­lega eru þau gefin saman í hlýðni við boð Þín. Lát þau verða tákn samlyndis og einingar allt til loka.
@@ -1253,12 +1569,16 @@ Vissulega ert Þú hinn alvaldi, hinn allstaðar­nálægi og almáttugi.
 (Bahaiprayers.net ID: 1686)
 
 
+
+
 ### <a id="bpn1687"></a> Prayer bpn1687 in Íslenska
 Drottinn minn, ó Drottinn minn! Þessir tveir björtu hnettir eru gefnir saman í ást Þinni, sam­tengdir í þjónustu við heilaga fótskör Þína, sam­einaðir í umhyggju fyrir málstað Þínum. Lát þetta hjónaband verða sem flæðandi ljós mikillar náðar Þinnar, ó Drottinn minn, hinn al­mis­kunn­sami, og skínandi geisla gjafa Þinna, ó Þú hinn góðviljaði og sígjöfuli, svo að á þessu mikla tré megi spretta greinar sem vaxa grænar og gróskumiklar vegna gjaf­anna sem rignir úr skýjum náðar Þinnar.
 Vissulega er Þú hinn örláti. Vissulega ert Þú hinn almáttugi. Vissulega ert Þú hinn vorkunnláti og almiskunnsami.
 
 (Source category: Hjónaband)
 (Bahaiprayers.net ID: 1687)
+
+
 
 
 
@@ -1273,6 +1593,8 @@ Miklað sé nafn Þitt, ó Guð minn, að Þú hefur birt daginn sem er konungur
 (Bahaiprayers.net ID: 1688)
 
 
+
+
 ### <a id="bpn1689"></a> Prayer bpn1689 in Íslenska
 Lof sé Þér, ó Drottinn Guð minn! Ég sárbæni Þig við nafn Þitt sem enginn hefur virt að verð­leikum, og merkingu þess engin sála skilið til fulls. Ég bið Þig auðmjúklega við Hann sem er upp­spretta opinberunar Þinnar og dagsbrún tákna Þinna, að hjarta mitt fái að varðveita ást Þína og minningu. Lát það tengjast hinu mesta hafi, svo að frá því streymi lifandi fljót visku Þinnar og kristals­tær straumur lofgerðar Þinnar og veg­söm­unar.
 Limir líkama míns vitna um einingu Þína og hárið á höfði mér kunngerir vald yfirráða Þinna og máttar. Ég hef staðið við dyr náðar Þinnar í algjöru sjálfsleysi og afneitun, hjúfrað mig að klæðisfaldi örlætis Þíns og beint augum mínum að sjónarhring gjafa Þinna.
@@ -1281,6 +1603,8 @@ Fyrirhuga mér það sem hæfir mikilleika tignar Þinnar ó Guð minn, og aðst
 
 (Source category: Kennsla og þjónusta)
 (Bahaiprayers.net ID: 1689)
+
+
 
 
 ### <a id="bpn1690"></a> Prayer bpn1690 in Íslenska
@@ -1293,6 +1617,8 @@ Dýrð sé Þér, ó Drottinn heimsins og þrá þjóð­anna, ó Þú sem hefur
 (Bahaiprayers.net ID: 1690)
 
 
+
+
 ### <a id="bpn1691"></a> Prayer bpn1691 in Íslenska
 Ó Guð, sem ert höfundur allrar birtingar, upp­spretta allrar uppsprettu, brunnur allrar opin­berunar og lind allra ljósa. Ég ber því vitni að vegna nafns Þíns var himinn skilnings prýddur skarti, úthaf orðsins brimaði og trúarkerfi forsjónar Þinnar voru kunngerð meðal fylgjenda allra trúar­bragða.
 Ég sárbæni Þig að auðga mig svo að ég komist af án alls nema Þín og verði engum háður nema Þér. Lát því rigna yfir mig úr skýjum örlætis Þíns sem kemur mér að liði í öllum veröldum Þínum. Hjálpa mér því af styrkjandi náð Þinni að þjóna svo málstað Þínum meðal þjóna Þinna að ég megi sýna það sem heldur minningu minni á lofti jafn lengi og ríki Þitt endist og veldi Þitt varir.
@@ -1303,12 +1629,16 @@ Dýrð sé Þér, ó Drottinn heimsins og þrá þjóð­anna, ó Þú sem hefur
 (Bahaiprayers.net ID: 1691)
 
 
+
+
 ### <a id="bpn1692"></a> Prayer bpn1692 in Íslenska
 Ó Guð, Guð allra nafna og skapari himnanna! Ég bið til Þín við nafn Þitt, sem opinberaði þann sem er dögun máttar Þíns og dagsbrún valds Þíns, bræddi allt sem stirnað var, lífgaði dauða og staðfesti sérhvern snortinn anda. Ég sárbæni Þig að hjálpa mér að leysast frá öllu nema Þér og þjóna málstað Þínum, óska þess sem Þú hefur óskað í krafti yfirráða Þinna og framfylgja þóknun Þinni.
 Ég bið Þig einnig, ó Guð minn, að ákvarða mér það sem auðgar mig svo að ég þarfnist einskis nema Þín. Þú sérð mig, ó Guð minn, beina að Þér augliti mínu og halda í líftaug náðar Þinnar. Send yfir mig miskunn Þína og rita niður fyrir mig það sem Þú hefur ritað niður fyrir Þína útvöldu. Vald hefur Þú til að gera sem Þér þóknast. Enginn er Guð nema Þú, sá er ætíð fyrirgefur, hinn örlátasti.
 
 (Source category: Kennsla og þjónusta)
 (Bahaiprayers.net ID: 1692)
+
+
 
 
 ### <a id="bpn1693"></a> Prayer bpn1693 in Íslenska
@@ -1321,6 +1651,8 @@ Enginn er Guð nema Þú, Guð valds, Guð dýrðar og visku.
 (Bahaiprayers.net ID: 1693)
 
 
+
+
 ### <a id="bpn1694"></a> Prayer bpn1694 in Íslenska
 Ó Guð minn! Ég bið Þig við Þitt dýrlegasta nafn að aðstoða mig við það sem eflir velferð þjóna Þinna, og lætur borgir Þínar blómstra. Sannar­lega hefur Þú vald yfir öllu sem er.
 
@@ -1328,11 +1660,15 @@ Enginn er Guð nema Þú, Guð valds, Guð dýrðar og visku.
 (Bahaiprayers.net ID: 1694)
 
 
+
+
 ### <a id="bpn1695"></a> Prayer bpn1695 in Íslenska
 Dýrð sé Þér sem fengið hefur alla heilaga til að játa vanmátt sinn frammi fyrir margföldum opinberunum máttar Þíns og hvern spámann til að viðurkenna eiveru sína andspænis ljómanum af ævarandi dýrð Þinni. Ég bið Þig í auðmýkt við nafn Þitt sem opnað hefur hlið himnaríkis og fyllt herskarana á hæðum fagnaðarleiðslu, að gera mér kleift að þjóna Þér á þessum degi, og styrkja mig til að halda það sem Þú mælir fyrir um í bók Þinni. Þú veist, ó Drottinn minn hvað í mér býr, en ekki veit ég hvað býr í Þér. Þú ert sá er allt þekkir, hinn alvitri.
 
 (Source category: Kennsla og þjónusta)
 (Bahaiprayers.net ID: 1695)
+
+
 
 
 ### <a id="bpn1696"></a> Prayer bpn1696 in Íslenska
@@ -1344,6 +1680,8 @@ Lofaður sért Þú, ó Drottinn Guð minn! Ég ber því vitni að um eilífð 
 (Bahaiprayers.net ID: 1696)
 
 
+
+
 ### <a id="bpn1697"></a> Prayer bpn1697 in Íslenska
 Ó Guð minn, hjálpa Þú þjóni Þínum að upp­hefja orð Þitt og vísa á bug því sem er rangt og hégómlegt, að dreifa víða vegu helgum ritning­ar­orðum, opinbera ljómann og láta ljós morgunsins renna upp í hjörtum hinna réttlátu.
 Þú ert vissulega hinn örláti, fyrirgefandinn.
@@ -1352,11 +1690,15 @@ Lofaður sért Þú, ó Drottinn Guð minn! Ég ber því vitni að um eilífð 
 (Bahaiprayers.net ID: 1697)
 
 
+
+
 ### <a id="bpn1698"></a> Prayer bpn1698 in Íslenska
 Ó Guð, Guð minn! Hjálpa Þú traustum þjón­um Þínum að hafa ástrík og blíð hjörtu. Hjálpa þeim að miðla öllum þjóðum jarðar ljósi leiðsagnar sem kemur frá herskörunum á hæðum. Sannlega ert Þú hinn sterki og voldugi, hinn mátt­ugi, sá sem allt sigrar og allt gefur. Sannlega ert Þú hinn örláti og mildi, hinn blíði og gjafmildasti.
 
 (Source category: Kennsla og þjónusta)
 (Bahaiprayers.net ID: 1698)
+
+
 
 
 ### <a id="bpn1699"></a> Prayer bpn1699 in Íslenska
@@ -1369,12 +1711,16 @@ Sannlega ert Þú sá sem sýnir ríkulega náð. Enginn er Guð nema Þú, hinn
 (Bahaiprayers.net ID: 1699)
 
 
+
+
 ### <a id="bpn1700"></a> Prayer bpn1700 in Íslenska
 Ó Guð minn! Ó Guð minn! Þú sérð mig í vesöld og veikleika festa hugann við hið mesta verkefni, staðráðinn í að upphefja orð Þitt meðal fjöldans og útbreiða kenningar Þínar meðal þjóða Þinna. Hvernig getur mér tekist það nema Þú hjálpir mér með andblæ heilags anda, leiðir mig til sigurs með herskörum dýrðarríkis Þíns og ausir yfir mig staðfestingum Þínum, sem einar fá gert mýflugu að erni, vatnsdropa að ám og úthöfum og frumeind að ljósi og sólum? Ó Drottinn minn! Aðstoða mig með Þínum sigursæla og áhrifamikla mætti, svo ég megi segja frá vegsemd Þinni og eigindum meðal allra manna, og sál mín yfirfyllist af víni ástar Þinnar og þekkingar.
 Þú ert hinn alvaldi og þess megnugur að gera allt sem Þér þóknast.
 
 (Source category: Kennsla og þjónusta)
 (Bahaiprayers.net ID: 1700)
+
+
 
 
 ### <a id="bpn1701"></a> Prayer bpn1701 in Íslenska
@@ -1387,12 +1733,16 @@ Vissulega staðfestir Þú hvern þann er Þú vilt í hverju sem Þér líst, o
 (Bahaiprayers.net ID: 1701)
 
 
+
+
 ### <a id="bpn1702"></a> Prayer bpn1702 in Íslenska
 Ó Guð! Ó Guð! Þetta er vængbrotinn fugl og flugi hans miðar lítt. Aðstoða hann svo hann geti flogið upp á hátind velmegunar og frelsunar, þreytt flug sitt í fögnuði og sælu um allan hinn endalausa geim, hafið upp söng sinn í Þínu æðsta nafni í hverju héraði, glatt eyrun með þessu kalli og uppljómað augun með táknum leiðsagnar!
 Ó Drottinn! Ég er einsamall, einstæðingur og um­komulaus. Hvergi á ég mér stuðning vísan nema hjá Þér, enga hjálp nema Þig, enginn sér mér farborða nema Þú. Staðfest mig í þjónustu Þinni, aðstoða mig með sveitum engla Þinna, ger mig sigursælan við að útbreiða orð Þitt og lát mig tjá visku Þína frammi fyrir skepnum Þínum. Vissulega ert Þú hjálp lítilmagnans og vörn smælingjans og vissulega ert Þú hinn voldugi og máttugi, hinn óhefti!
 
 (Source category: Kennsla og þjónusta)
 (Bahaiprayers.net ID: 1702)
+
+
 
 
 ### <a id="bpn1703"></a> Prayer bpn1703 in Íslenska
@@ -1404,6 +1754,8 @@ Vissulega ert Þú hinn voldugi og máttugi, hinn alvaldi, og Þú ert hinn vís
 (Bahaiprayers.net ID: 1703)
 
 
+
+
 ### <a id="bpn1704"></a> Prayer bpn1704 in Íslenska
 Ó Þú góði Drottinn! Lof sé Þér að Þú hefur sýnt okkur þjóðbraut leiðsagnar, opnað dyr ríkisins og birt Þig í sól veruleikans. Blindum hefur Þú gefið sjón og daufum heyrn, Þú hefur vakið dauða og auðgað snauða. Villtum hefur Þú sagt til vegar. Þú hefur leitt þá sem höfðu skrælnaðar varir að lind leiðsagnar. Þú hefur leyft hinum þyrsta fiski að ná til úthafs veruleikans og boðið förufuglunum til rósagarðs náðarinnar.
 Ó Þú almáttugi! Við erum þjónar Þínir og Þínir vesölu, við erum fjarlæg og þráum návist Þína, okkur sárþyrstir í vatn uppsprettu Þinnar, við erum sjúk og þráum lækningu Þína. Við göngum á vegi Þínum og eigum ekkert markmið og enga von nema þá að dreifa ilmi Þínum, svo að allar sálir hrópi: „Ó Guð, leið okkur á hinn beina veg!“ Megi augu þeirra opnast og líta ljósið og megi þeim verða forðað frá myrkri vanþekkingar. Megi þeir safnast kringum lampa leiðsagnar Þinnar. Megi hver sá sem óskammtað er fá sinn skerf. Megi hinir afskiptu verða trúnaðarmenn leynidóma Þinna.
@@ -1412,6 +1764,8 @@ Vissulega ert Þú hinn voldugi og máttugi, hinn vísi og sjáandi.
 
 (Source category: Kennsla og þjónusta)
 (Bahaiprayers.net ID: 1704)
+
+
 
 
 
@@ -1426,6 +1780,8 @@ Enginn er Guð nema Þú, hinn almáttugi og al­knýjandi, hinn óskilyrti.
 (Bahaiprayers.net ID: 1705)
 
 
+
+
 ### <a id="bpn1706"></a> Prayer bpn1706 in Íslenska
 Hvernig get ég óskað mér svefns, ó Guð, Guð minn, meðan augu þeirra sem þrá Þig eru svefn­vana vegna aðskilnaðar frá Þér, og hvernig get ég lagst til hvíldar þegar sálir elskenda Þinna eru sármæddar vegna fjarlægðar frá návist Þinni?
 Ég hef, ó Drottinn minn, lagt anda minn og alla veru í hægri hönd máttar Þíns og verndar, legg höfuð mitt á koddann vegna máttar Þíns, og reisi það upp á ný samkvæmt vilja Þínum og velþóknun. Þú ert að sönnu sá er varðveitir og viðheldur, hinn almáttugi og voldugasti.
@@ -1433,6 +1789,8 @@ Við mátt Þinn! Ég óska ekki, hvort heldur í svefni eða vöku, annars en �
 
 (Source category: Kvöldbænir)
 (Bahaiprayers.net ID: 1706)
+
+
 
 
 ### <a id="bpn1707"></a> Prayer bpn1707 in Íslenska
@@ -1443,6 +1801,8 @@ Sannarlega ert Þú gjafarinn, hinn örláti og mis­kunnsami, fyrirgefandinn.
 
 (Source category: Kvöldbænir)
 (Bahaiprayers.net ID: 1707)
+
+
 
 
 
@@ -1466,6 +1826,8 @@ Bregst Þú ekki, ó Guð minn, vonum þess sem hefur tekið biðjandi fingrum �
 
 (Source category: Lengri skyldubænin)
 (Bahaiprayers.net ID: 1577)
+
+
 
 
 
@@ -1510,6 +1872,8 @@ Lof sé Þér, ó Guð okkar, að Þú hefur sent það niður til okkar sem fæ
 
 
 
+
+
 ## Lofgjörð og þökk
 
 ### <a id="bpn8373"></a> Prayer bpn8373 in Íslenska
@@ -1527,12 +1891,16 @@ og lofgjörð Hans vegsömuð
 (Bahaiprayers.net ID: 8373)
 
 
+
+
 ### <a id="bpn1708"></a> Prayer bpn1708 in Íslenska
 Allt lof sé Þér, ó Guð minn, sem ert uppspretta allrar dýrðar og tignar, mikilleika og heiðurs, alræðis og yfirráða, göfgi og náðar, lotningar og valds. Hvern sem Þú vilt lætur Þú laðast að hinu mesta hafi og hverjum sem Þú kýst veitir Þú þann heiður að þekkja Þitt elsta nafn. Enginn á himnum eða jörðu fær staðið gegn Þínum allsráðandi vilja. Um eilífð hefur Þú stjórnað gervallri sköpuninni, og Þú munt að eilífu ríkja yfir öllu sem skapað er. Enginn er Guð nema Þú, hinn almáttugi og háleitasti, hinn alvoldugi og alvísi.
 Uppljóma, ó Drottinn, andlit þjóna Þinna að þeir fái litið Þig augum, og skír hjörtu þeirra svo þeir leiti til forgarðs Þinnar himnesku hylli og viður­kenni Hann sem er opinberandi sjálfs Þín og dags­brún kjarna Þíns. Vissulega ert Þú Drottinn allra veraldanna. Þú einn ert Guð, hinn óhefti, sá er öllu ræður.
 
 (Source category: Lofgjörð og þökk)
 (Bahaiprayers.net ID: 1708)
+
+
 
 
 ### <a id="bpn1709"></a> Prayer bpn1709 in Íslenska
@@ -1545,11 +1913,15 @@ Allt lof og dýrð sé Þér, ó Þú sem allt sem skapað er vitnar um að ert 
 (Bahaiprayers.net ID: 1709)
 
 
+
+
 ### <a id="bpn10178"></a> Prayer bpn10178 in Íslenska
 Við dýrð Þína! Í hvert sinn sem ég horfi til himins minnist ég hátignar Þinnar og göfgi, óviðjafnanlegrar dýrðar og mikilleika. Og í hvert sinn sem ég beini augum að jörðu Þinni birtast mér vitnisburðir um vald Þitt og tákn um gjafir Þínar. Og þegar ég horfi á hafið, talar það til mín um tign Þína og afl máttar Þíns, um drottinvald Þitt og mikilleika. Og ætíð þegar ég virði fyrir mér fjöllin, sé ég þar fána sigurs og alveldis. Ég sver við mátt Þinn, ó Þú sem hefur í hendi Þér forlög alls mannkyns og örlög þjóðanna! Svo hugfanginn er ég af ást til Þín og svo ölvaður af víni einingar Þinnar að ég heyra vindinn hvísla Þér lof og vegsömun. Í kliði vatnsins heyri ég röddina sem segir frá dyggðum Þínum og eigindum og skrjáf laufsins skýrir mér frá leyndardómunum sem þú hefur óafturkallanlega ákvarðað í ríki Þínu.
 
 (Source category: Lofgjörð og þökk)
 (Bahaiprayers.net ID: 10178)
+
+
 
 
 ### <a id="bpn1710"></a> Prayer bpn1710 in Íslenska
@@ -1559,6 +1931,8 @@ Vegsamað sé nafn Þitt, ó Drottinn Guð minn! Þú ert sá sem tilbeðinn er 
 
 (Source category: Lofgjörð og þökk)
 (Bahaiprayers.net ID: 1710)
+
+
 
 
 ### <a id="bpn1711"></a> Prayer bpn1711 in Íslenska
@@ -1571,12 +1945,16 @@ Og hvenær sem penni minn eignar einhverju nafna Þinna dýrð, er mér sem ég 
 (Bahaiprayers.net ID: 1711)
 
 
+
+
 ### <a id="bpn1713"></a> Prayer bpn1713 in Íslenska
 Ó Þú Drottinn hins sýnilega og ósýnilega og sá, sem uppfræðir alla sköpunina. Ég sárbæni Þig við yfirráð Þín, sem hulin eru sjónum manna, að opinbera á alla vegu tákn Þinna margföldu blessana og ummerki ástúðar Þinnar, svo að ég megi rísa upp fagnandi og frá mér numinn og lofa undur­samlegar dyggðir Þínar, ó Þú hinn mis­kunnsamasti, og hreyfa með nafni Þínu við öllu sem skapað er og glæða svo eld lofgjörðar Þinnar meðal skepna Þinna, að gjörvallur alheimurinn megi fyllast birtunni frá ljósi dýrðar Þinnar og öll veröldin upptendrist af eldi málstaðar Þíns.
 Vef því eigi saman, ó Drottinn minn, sem breitt hefur verið út í Þínu nafni og slökk eigi lampann, sem Þinn eigin eldur hefur tendrað. Meina ekki vatn­inu, sem er lífið sjálft, ó Drottinn minn, að streyma niður, en í klið þess má heyra hljómana un­dur­samlegu, sem lofa Þig og vegsama. Neita eigi heldur þjónum Þínum um sætan ilminn af and­blænum, sem bærst hefur vegna ástar Þinnar. Þú sérð, ó Þú sem ert aldýrlegur ástvinur minn, eirð­arlausar öldurnar sem rísa á hafi hjarta míns í ást minni og þrá eftir Þér. Ég bið Þig við tákn hátignar Þinnar og vitnisburð yfirráða Þinna, að yfirbuga þjóna Þína með þessu nafni, sem Þú hefur gert að konungi allra nafna í ríki sköpunar Þinnar. Þú ert þess megnugur að ríkja að vild Þinni. Enginn er Guð nema Þú, hinn aldýrlegi, hinn gjafmildasti. Fyrirhuga Þú ennfremur hverjum þeim, sem hefur leitað til Þín, það sem gera mun hann svo staðfastan í málstað Þínum, að hvorki fánýtir hug­arórar hinna trúlausu meðal skepna Þinna né ónytjumælgi hinna vegvilltu meðal þjóna Þinna megni að útiloka hann frá Þér. Þú ert í sannleika hjálpin í nauðum, hinn almáttugi og voldugasti.
 
 (Source category: Lofgjörð og þökk)
 (Bahaiprayers.net ID: 1713)
+
+
 
 
 ### <a id="bpn1714"></a> Prayer bpn1714 in Íslenska
@@ -1590,12 +1968,16 @@ Við erum þjónar Þínir, ó Drottinn minn, og í höndum valds Þíns. Ef Þ�
 (Bahaiprayers.net ID: 1714)
 
 
+
+
 ### <a id="bpn1715"></a> Prayer bpn1715 in Íslenska
 Guð vitnar um einingu guðdóms síns og ein­stæði eigin verundar. Frá hásæti eilífðar og úr ótilkvæmilegum hæðum stöðu Hans, lýsir rödd Hans því yfir, að enginn sé Guð nema Hann. Hann sjálfur, óháður öllu öðru, hefur ætíð vitnað um eigið einstæði, birt eigið eðli og vegsamað kjarna sinn. Hann er vissulega hinn alvoldugi og almáttugi, hinn alfagri.
 Hann er æðri þjónum sínum og ofar skepnum sínum. Í hendi sér hefur Hann uppsprettu valds og sannleika. Hann lífgar menn með táknum sínum og vegur þá með reiði sinni. Hann verður ekki spurður um gerðir sínar, máttur Hans er jafnoki alls sem er. Hann er hinn voldugi, sá er öllu ræður. Hann heldur í greip sinni veldi alls sem er og ríki opinberunar Hans er grundvallað Honum til hægri handar. Vald Hans umlykur í sannleika allt sköp­un­ar­verkið. Sigur og herradómur eru Hans, allur máttur og yfirráð eru Hans, öll dýrð og mikilleiki eru Hans. Hann er að sönnu hinn al­dýrlegi og voldugasti, hinn óskilyrti.
 
 (Source category: Lofgjörð og þökk)
 (Bahaiprayers.net ID: 1715)
+
+
 
 
 ### <a id="bpn1716"></a> Prayer bpn1716 in Íslenska
@@ -1605,6 +1987,8 @@ Vald hefur Þú til að gera það sem Þér þóknast. Þú ert að sönnu hinn
 
 (Source category: Lofgjörð og þökk)
 (Bahaiprayers.net ID: 1716)
+
+
 
 
 ### <a id="bpn1717"></a> Prayer bpn1717 in Íslenska
@@ -1617,6 +2001,8 @@ Hvert sem hlutskipti okkar verður leitum við Þinnar ævafornu fyrirgefningar,
 (Bahaiprayers.net ID: 1717)
 
 
+
+
 ### <a id="bpn1718"></a> Prayer bpn1718 in Íslenska
 Miklað sé nafn Þitt, ó Þú sem hefur í greip Þér stjórntauma sálna allra þeirra sem borið hafa kennsl á Þig. Í hægri hendi Þinni eru örlög allra á himnum og jörðu. Í krafti máttar Þíns breytir Þú að vild Þinni og ákvarðar í krafti vilja Þíns það sem Þér þóknast. Vilji einbeittustu manna verður að engu sé hann borinn saman við knýjandi sann­indamerki um vilja Þinn, og staðfesta hinna ósveigjanlegustu meðal skepna Þinna er sem hjóm andspænis margföldum opinberunum áforms Þíns.
 Þú ert sá sem með orði frá vörum Þér hefur hrifið svo hjörtu Þinna útvöldu, að þeir hafa í ást sinni á Þér slitið sig frá öllu nema Þér, lagt líf sitt í sölurnar, fórnað sálu sinni á vegi Þínum, og þolað Þín vegna það sem engin skepna fær afborið.
@@ -1626,6 +2012,8 @@ Miklað sé nafn Þitt, ó Þú sem hefur í greip Þér stjórntauma sálna all
 
 (Source category: Lofgjörð og þökk)
 (Bahaiprayers.net ID: 1718)
+
+
 
 
 ### <a id="bpn1712"></a> Prayer bpn1712 in Íslenska
@@ -1641,6 +2029,8 @@ Dýrð sé Þér, Þú ert upphafinn yfir lýsingu allra nema sjálfs Þín þv�
 
 
 
+
+
 ## Mannkynið
 
 ### <a id="bpn1719"></a> Prayer bpn1719 in Íslenska
@@ -1652,6 +2042,8 @@ Allir eru snauðir og þurfandi, og Þú ert vissulega eigandi alls, sá er öll
 (Bahaiprayers.net ID: 1719)
 
 
+
+
 ### <a id="bpn1720"></a> Prayer bpn1720 in Íslenska
 Ó vorkunnláti Drottinn! Þú sem ert örlátur og alls megnugur. Við erum þjónar Þínir í skjóli forsjár Þinnar. Lít til okkar náðaraugum Þínum. Gef augum okkar ljós, eyrum okkar heyrn og skilning og kærleika hjörtum okkar. Fyll sálir okkar fögnuði og hamingju með gleðiboðskap Þínum. Ó Drottinn, vísa okkur leið konungsríkis Þíns og lát okkur endurfæðast fyrir tilhlutan heilags anda. Gef okkur eilíft líf og ævarandi heiður. Sameina mann­kynið og lýs veröld þess. Mættum við öll fylgja Þínum vegi, þrá velþóknun Þína og leita leynd­ardóma konungsríkis Þíns. Ó Guð! Sameina okkur og teng Þú hjörtu okkar með Þínu órjúfan­lega bandi.
 Sannarlega ert Þú gjafarinn, hinn mildi og al­máttugi.
@@ -1660,11 +2052,15 @@ Sannarlega ert Þú gjafarinn, hinn mildi og al­máttugi.
 (Bahaiprayers.net ID: 1720)
 
 
+
+
 ### <a id="bpn1721"></a> Prayer bpn1721 in Íslenska
 Ó Þú góði Drottinn! Ó Þú sem ert örlátur og miskunnsamur! Við erum þjónar fótskarar Þinn­ar, samankomnir í forsælu Þinnar guðlegu ein­ingar. Sól miskunnar Þinnar skín á alla og úr skýjum örlætis Þíns rignir yfir alla. Gjafir Þínar umvefja alla, ástrík forsjón Þín sér fyrir öllum, vernd Þín yfirskyggir alla og augu hylli Þinnar hvíla á öllum. Ó Drottinn! Gef takmarkalausar gjafir Þínar og lát ljós leiðsagnar Þinnar skína. Lát birta fyrir sjónum, gleð hjörtun með varanlegum fögnuði. Innblás alla menn nýjum anda og veit þeim eilíft líf. Ljúk upp hliðum sanns skilnings og lát ljós trúar skína geislandi. Safna öllum í forsælu örlætis Þíns og lát þá sameinast í eindrægni, svo þeir verði sem geislar sömu sólar, bylgjur eins hafs og ávextir eins trés. Megi þeir drekka af sömu lind, örvast af sama andblæ og uppljómast af einu og sama ljósi. Þú ert gjafarinn, hinn miskunnsami og alvaldi.
 
 (Source category: Mannkynið)
 (Bahaiprayers.net ID: 1721)
+
+
 
 
 ### <a id="bpn1722"></a> Prayer bpn1722 in Íslenska
@@ -1681,6 +2077,8 @@ Bind hjörtun traustum böndum, ó Guð.
 (Bahaiprayers.net ID: 1722)
 
 
+
+
 ### <a id="bpn1723"></a> Prayer bpn1723 in Íslenska
 Ó Guð, ó Þú sem hefur varpað ljóma Þínum á geislandi veruleika mannanna, úthellt yfir þá skínandi ljósi þekkingar og leiðsagnar og útvalið þá úr allri sköpun fyrir þessa guðdómlegu náð og látið þá bera skyn á alla hluti skapaða, skilja innsta kjarna þeirra, afhjúpa leyndardóma þeirra og leitt þá út úr myrkrinu inn í sýnilega heiminn. „Hann sýnir vissulega sérstaka náð sína hverjum sem Honum þóknast.“¹
 Ó Drottinn, hjálpa Þú ástvinum Þínum að tileinka sér þekkingu, vísindi og listir og afhjúpa leyndar­dómana sem eru varðveittir í innsta veruleika alls sem skap­að er. Lát þá heyra þá huldu leyndardóma, sem eru ritaðir og greyptir í hjarta alls sem er. Ger þá að gunnfánum leiðsagnar meðal allra skepna og skörp­um geislum hugans sem gefa ljós sitt í þessu „fyrsta lífi“². Ger þá að leiðtogum sem leiða mennina til Þín, leiðsögumönnum sem vísa veginn til Þín, hlaupurum sem eggja menn til að leita ríkis Þíns.
@@ -1691,6 +2089,8 @@ Bind hjörtun traustum böndum, ó Guð.
 
 (Source category: Mannkynið)
 (Bahaiprayers.net ID: 1723)
+
+
 
 
 
@@ -1705,12 +2105,16 @@ Dýrð sé Þér, ó Guð, fyrir að opinbera mannkyni ást Þína! Ó Þú sem 
 (Bahaiprayers.net ID: 1724)
 
 
+
+
 ### <a id="bpn1725"></a> Prayer bpn1725 in Íslenska
 Lof sé Þér, ó Drottinn Guð minn, meistari minn! Þú heyrir andvörp þeirra sem eru að­skildir Þér og víðsfjarri aðsetri Þínu þótt þeir þrái að líta ásýnd Þína. Þú ert vitni að harmatölum þeirra sem þekkja Þig vegna útlegðar frá Þér og brennandi löngunar að finna Þig. Ég sárbæni Þig við þessi hjörtu, sem geyma ekkert annað en fjársjóð minningar Þinnar og lofgerðar, og lýsa aðeins vitnisburði mikilleika Þíns og táknum mátt­ar Þíns, að veita þjónum Þínum sem þrá Þig styrk til að nálgast sæti opinberunar ljómans af dýrð Þinni, og aðstoða þá sem setja von sína á Þig að ganga inn í helgidóm yfirskilvitlegrar hylli Þinnar og náðar.
 Nakinn er ég, ó Guð minn! Klæð mig kyrtli mildrar miskunnar Þinnar. Ég er sárþyrstur, gef mér að drekka úr úthöfum örlátrar hylli Þinnar. Ég er ókunnugur, laða mig nær uppsprettu gjafa Þinna. Sjúkur er ég, lauga mig í heilsulind náðar Þinnar. Ég er fanginn, leys mig úr fjötrum með afli máttar Þíns og krafti vilja Þíns, svo ég fái svifið á vængjum lausnar í hæstu hæðum sköpunar Þinnar. Sannar­lega gerir Þú sem Þér þóknast. Enginn er Guð nema Þú, hjálpin í nauðum, hinn aldýrlegi og óhefti.
 
 (Source category: Miskunn)
 (Bahaiprayers.net ID: 1725)
+
+
 
 
 ### <a id="bpn10179"></a> Prayer bpn10179 in Íslenska
@@ -1721,11 +2125,15 @@ Vegsamaður ert Þú, ó Drottinn Guð minn! Ég sár­bæni Þig að láta þv�
 (Bahaiprayers.net ID: 10179)
 
 
+
+
 ### <a id="bpn1726"></a> Prayer bpn1726 in Íslenska
 Við biðjum Guð að hjálpa þeim af náð sinni sem fara villir vegar að vera sannir og réttsýnir og upplýsa þá um það sem þeir gáfu ekki gaum. Hann er að sönnu hinn örlátasti og veglyndasti. Hald ekki þjónum Þínum, ó Drottinn minn, frá dyrum náðar Þinnar og rek þá ekki á brott frá aðsetri návistar Þinnar. Hjálpa þeim að eyða mistri hégómlegs hug­ar­burðar, og rífa sundur hulur fá­nýtra ímyndana og væntinga. Þú ert vissulega eigandi alls, hinn hæsti. Enginn er Guð nema Þú, hinn almáttugi og náðugi.
 
 (Source category: Miskunn)
 (Bahaiprayers.net ID: 1726)
+
+
 
 
 ### <a id="bpn11242"></a> Prayer bpn11242 in Íslenska
@@ -1737,6 +2145,8 @@ Við biðjum Guð að hjálpa þeim af náð sinni sem fara villir vegar að ver
 (Bahaiprayers.net ID: 11242)
 
 
+
+
 ### <a id="bpn1728"></a> Prayer bpn1728 in Íslenska
 Í nafni Drottins Þíns, skaparans, yfirbjóðandans, þess sem öllum nægir, hins upphafnasta, þess sem allir leita hjálpar hjá. Seg: Ó Guð minn! Ó Þú, sem ert smiður himnanna og jarðarinnar, ó Drottinn konungsríkisins! Þú þekkir gjörla leynd­ar­­mál hjarta míns, en verund Þín er órannsakanleg öllum nema sjálfum Þér. Þú sérð hvaðeina, sem er af mér, og engum er það megnugt nema Þér. Veit mér sakir náðar Þinnar það sem gerir óháðan öllu nema Þér. Gef að ég megi uppskera ábata lífs míns í þessum heimi og hinum næsta. Opna fyrir ásjónu minni hlið náðar Þinnar og veit mér af mildi Þinni blíða miskunn Þína og gjafir.
 Ó Þú, sem ert Drottinn nógsamlegrar náðar! Lát himneska hjálp Þína umlykja alla þá, sem elska Þig, og gef okkur þær gjafir og hylli, sem eru í eigu Þinni. Ver okkur nægur umfram allt annað, fyrirgef syndir okkar og auðsýn okkur miskunn. Þú ert Drottinn okkar og Drottinn alls, sem skapað er. Engan áköll­um við nema Þig og einskis förum við á leit nema hylli Þinnar. Þú ert Drottinn örlætis og náðar, ósigrandi í krafti Þínum og fremstur allra í áformum Þínum. Enginn er Guð nema Þú, eigandi alls, hinn upphafnasti.
@@ -1744,6 +2154,8 @@ Veit blessanir Þínar, ó Drottinn minn, boð­ber­un­um, hinum heilögu og r
 
 (Source category: Miskunn)
 (Bahaiprayers.net ID: 1728)
+
+
 
 
 ### <a id="bpn1727"></a> Prayer bpn1727 in Íslenska
@@ -1754,11 +2166,15 @@ Veit blessanir Þínar, ó Drottinn minn, boð­ber­un­um, hinum heilögu og r
 (Bahaiprayers.net ID: 1727)
 
 
+
+
 ### <a id="bpn1729"></a> Prayer bpn1729 in Íslenska
 Ó Drottinn! Við erum veikburða; styrk okkur. Ó Guð! Við erum fávís; ger okkur vitur. Ó Drottinn! Við erum fátæk; auðga okkur. Ó Guð! Við erum líflaus; fjörga okkur. Ó Drottinn! Við erum einskær auðmýking; veit okkur heiður í ríki Þínu. Aðstoðir Þú okkur, ó Drottinn, verð­um við sem tindr­andi stjörnur. Ef Þú að­stoðar okkur ekki verð­um við lægra sett en jörð­in. Ó Drottinn! Styrk okkur. Ó Guð! Fær okkur sigur. Ó Guð! Ger okkur fært að sigra eigið sjálf og yfir­stíga ástríðu. Ó Drottinn! Leys okkur úr ánauð efnis­heimsins. Ó Drottinn! Endur­lífga okkur með andblæ heilags anda svo við getum risið upp til að þjóna Þér, vegsamað Þig og lagt okkur fram af ítrustu einlægni í ríki Þínu. Ó Drottinn, Þú ert voldugur! Ó Guð, Þú fyrirgefur! Ó Drottinn, Þú ert samúð­arríkur!
 
 (Source category: Miskunn)
 (Bahaiprayers.net ID: 1729)
+
+
 
 
 
@@ -1774,12 +2190,16 @@ Blessa Þú, ó Drottinn Guð minn, Hann sem Þú hefur sett yfir ágætustu naf
 (Bahaiprayers.net ID: 1730)
 
 
+
+
 ### <a id="bpn1732"></a> Prayer bpn1732 in Íslenska
 Ég hef risið á fætur þennan morgun sakir náðar Þinnar, ó Guð minn, yfirgefið heimili mitt í heilshugar trausti á Þér og falið Þér forsjá mína. Send því niður yfir mig frá himni miskunnar Þinnar blessun frá Þér og ger mér kleift að snúa óhultur heim aftur, eins og Þú gerðir mér kleift að hefja ferð mína í varðveislu Þinni með hugsun mína einskorðaða við Þig.
 Enginn er Guð nema Þú, hinn eini og óvið­jafnanlegi, sá sem allt þekkir, hinn alvitri.
 
 (Source category: Morgunbænir)
 (Bahaiprayers.net ID: 1732)
+
+
 
 
 ### <a id="bpn1733"></a> Prayer bpn1733 in Íslenska
@@ -1793,11 +2213,15 @@ Fyrirhuga mér með upphafnasta penna Þínum, ó Drottinn minn, gæði þessa h
 (Bahaiprayers.net ID: 1733)
 
 
+
+
 ### <a id="bpn1731"></a> Prayer bpn1731 in Íslenska
 Ég hef vaknað í skjóli Þínu, ó Guð minn, og það sæmir þeim sem leitar þess skjóls að dveljast í griðareit verndar Þinnar og virkisborg varnar Þinnar. Upplýs innri verund mína, ó Drottinn minn, með dýrðarljómanum frá dagsbrún opin­berunar Þinn­ar, eins og Þú upplýstir ytri verund mína með morgunbirtu hylli Þinnar.
 
 (Source category: Morgunbænir)
 (Bahaiprayers.net ID: 1731)
+
+
 
 
 
@@ -1817,6 +2241,8 @@ Hann sem er grein Þín og allir félagar Þínir, ó Drottinn minn, hafa rofið
 
 
 
+
+
 ## Réttur Guðs
 
 ### <a id="bpn1772"></a> Prayer bpn1772 in Íslenska
@@ -1826,6 +2252,8 @@ Dýrlegur ert Þú, ó vorkunnláti Drottinn minn. Ég bið Þig við ólgandi �
 
 (Source category: Réttur Guðs)
 (Bahaiprayers.net ID: 1772)
+
+
 
 
 
@@ -1841,12 +2269,16 @@ Gef, ó Drottinn, að sakir hollustunnar við þessa ólýtanlegu trú Þína me
 (Bahaiprayers.net ID: 1739)
 
 
+
+
 ### <a id="bpn1740"></a> Prayer bpn1740 in Íslenska
 Ó Drottinn! Lát tré Þinnar himnesku einingar vaxa hratt. Vökva það því, ó Drottinn, með streymandi vatni velþóknunar Þinnar og lát það bera þesskonar ávexti frammi fyrir opinberunum Þinnar himnesku fullvissu sem Þú þráir Þér til dýrðar og vegsemdar, lofs og þakkargjörðar, til að mikla nafn Þitt, lofa einleika kjarna Þíns og dásama Þig, því allt er í Þínum höndum og einskis annars.
 Mikil er blessun þess sem Þú útvaldir til að vökva tré staðfestingar Þinnar með blóði sínu og upphefja með þeim hætti heilagt og óumbreytan­legt orð Þitt.
 
 (Source category: Sigur málstaðarins)
 (Bahaiprayers.net ID: 1740)
+
+
 
 
 ### <a id="bpn1741"></a> Prayer bpn1741 in Íslenska
@@ -1858,12 +2290,16 @@ Sannlega ert Þú Drottinn okkar og Drottinn alls sem er. Við felum okkur í Þ
 (Bahaiprayers.net ID: 1741)
 
 
+
+
 ### <a id="bpn1742"></a> Prayer bpn1742 in Íslenska
 Ó Drottinn! Ger öllum þjóðum jarðarinnar kleift að fá aðgang að paradís trúar Þinnar, svo að engin sköpuð vera megi dvelja utan marka vel­þókn­unar Þinnar.
 Frá ómunatíð hefur Þú verið þess megnugur að gera það sem Þér þóknast, upphafinn yfir allt sem Þú þráir.
 
 (Source category: Sigur málstaðarins)
 (Bahaiprayers.net ID: 1742)
+
+
 
 
 ### <a id="bpn1743"></a> Prayer bpn1743 in Íslenska
@@ -1879,6 +2315,8 @@ Sannlega ert Þú gjafarinn, fyrirgefandinn, sá sem allt gefur. Sannlega ert Þ
 (Bahaiprayers.net ID: 1743)
 
 
+
+
 ### <a id="bpn1744"></a> Prayer bpn1744 in Íslenska
 Hann er Guð!
 Ó Drottinn, Guð minn, ástvinur minn! Þessir eru þjónar Þínir sem heyrt hafa rödd Þína, ljáð eyra orði Þínu og hlýtt kalli Þínu. Þeir hafa trúað á Þig, orðið vitni að undrum Þínum og viðurkennt sönnun Þína. Þeir hafa gengið Þína vegu, tekið til­sögn Þinni, uppgötvað leyndardóma Þína, skilið leyndarmál bókar Þinnar, versin í ritningum Þínum og tíðindi pistla Þinna og taflna. Þeir hafa hjúfrað sig að klæðisfaldi Þínum og náð haldi á ljóma Þínum og tign. Skref þeirra hafa styrkst í sáttmála Þínum og hjörtu þeirra orðið staðföst í erfðaskrá Þinni. Drottinn! Kveik í hjört­um þeirra loga guðlegs aðdráttarafls Þíns og gef að fugl ástar og skilnings megi syngja í hjörtum þeirra. Gef að þeir verði sem voldug tákn, skínandi fordæmi og fullkomnir eins og orð Þitt. Upphef með þeim málstað Þinn, lát fána Þína blakta og kunnger undur Þín víða vegu. Ger orð Þitt sigur­sælt fyrir þeirra sakir og styrk lendar Þinna elskuðu. Leys tungur þeirra til að vegsama nafn Þitt og blás þeim í brjóst löngun til að gera heilagan vilja Þinn og velþóknun. Uppljóma ásjón­ur þeirra í heilögu ríki Þínu og fullkomna gleði þeirra með því að hjálpa þeim að rísa upp til sigurs fyrir málstað Þinn.
@@ -1887,6 +2325,8 @@ Dýrð dýrða hvíli yfir þeim sem eru tryggir og staðfastir.
 
 (Source category: Sigur málstaðarins)
 (Bahaiprayers.net ID: 1744)
+
+
 
 
 
@@ -1903,6 +2343,8 @@ Vissulega ert Þú sá sem viðheldur, hjálparinn, hinn örláti og gjafmildi, 
 
 
 
+
+
 ## Staðfesta
 
 ### <a id="bpn1746"></a> Prayer bpn1746 in Íslenska
@@ -1912,6 +2354,8 @@ Vissulega ert Þú sá sem viðheldur, hjálparinn, hinn örláti og gjafmildi, 
 
 (Source category: Staðfesta)
 (Bahaiprayers.net ID: 1746)
+
+
 
 
 ### <a id="bpn1747"></a> Prayer bpn1747 in Íslenska
@@ -1927,12 +2371,16 @@ Vissulega ert Þú sá sem viðheldur, hjálparinn, hinn örláti og gjafmildi, 
 (Bahaiprayers.net ID: 1747)
 
 
+
+
 ### <a id="bpn1748"></a> Prayer bpn1748 in Íslenska
 Lof sé Þér, ó Drottinn, besti ástvinur minn! Ger mig staðfastan í málstað Þínum og gef að ég megi teljast til þeirra sem ekki hafa rofið sáttmála Þinn né fylgt hjáguðum sinna eigin fánýtu ímynd­ana. Ger mér því kleift að taka sæti sann­leikans í návist Þinni, gef mér tákn um miskunn Þína og lát mig ganga í flokk þeirra þjóna Þinna sem ekki verða slegnir ótta og enginn fær bakað hryggð. Gef mig ekki á vald sjálfs mín, ó Drottinn minn, og meina mér ekki um þekkingu á Honum sem opinberar Þitt eigið sjálf og tel mig ekki til þeirra sem hafa snúið frá heilagri návist Þinni. Tel mig, ó Guð minn, með þeim sem njóta þeirra forréttinda að festa sjónir á fegurð Þinni og hafa af því slíkt yndi að þeir myndu ekki skipta á einu andartaki þess unaðar fyrir ríki himins og jarðar né gjörvallt sköpunarverkið. Sjá aumur á mér, ó Drottinn, á þessum dögum þegar þjóðir jarðar Þinnar hafa ratað í hörmulega villu. Veit mér því, ó Guð minn, það sem er gott og sæmandi að Þínu mati. Þú ert vissulega hinn alvoldugi og náðugi, hinn örláti, sá sem ætíð fyrirgefur.
 Gef, ó Drottinn minn, að ég megi ekki teljast til þeirra sem sviptir eru sjón, heyrn og máli og hafa skynlaus hjörtu. Frelsa mig, ó Drottinn, frá eldi fáfræði og eigingjarnrar ástríðu, leyf mér að ganga inn til sviða Þinnar yfirskilvitlegu náðar og send það niður yfir mig sem Þú hefur ákvarðað Þínum útvöldu. Þú ert þess megnugur að gera það sem Þér líst. Vissulega ert Þú hjálpin í nauðum, hinn sjálfumnógi.
 
 (Source category: Staðfesta)
 (Bahaiprayers.net ID: 1748)
+
+
 
 
 ### <a id="bpn1749"></a> Prayer bpn1749 in Íslenska
@@ -1943,11 +2391,15 @@ Vissulega ert Þú hinn æðsti stjórnandi, hinn full­valda sannleikur, hjálp
 (Bahaiprayers.net ID: 1749)
 
 
+
+
 ### <a id="bpn1750"></a> Prayer bpn1750 in Íslenska
 Ó Drottinn, Guð minn! Hjálpa Þínum elskuðu að vera stöðugir í trú Þinni, ganga vegu Þína og vera staðfastir í málstað Þínum. Veit þeim náð til að standast atlögur sjálfs og ástríðna, að fylgja ljósi himneskrar leiðsagnar. Þú ert hinn voldugi, hinn náðugi, hinn sjálfumnógi, gjafarinn, hinn vor­kunnláti og almáttugi, sá sem allt gefur.
 
 (Source category: Staðfesta)
 (Bahaiprayers.net ID: 1750)
+
+
 
 
 ### <a id="bpn1751"></a> Prayer bpn1751 in Íslenska
@@ -1959,6 +2411,8 @@ Vissulega ert Þú hinn örláti, sá sem ætíð gefur, hinn dýrmæti og gjafm
 (Bahaiprayers.net ID: 1751)
 
 
+
+
 ### <a id="bpn1752"></a> Prayer bpn1752 in Íslenska
 Ó Drottinn, Guð minn! Lof og þökk sé Þér að Þú hefur leitt mig að þjóðbraut ríkisins, leyft mér að ganga þennan langa og beina veg, upplýst auga mitt með birtunni af ljósi Þínu, seitt eyra mitt með söngljóðum fugla heilagleika úr dularheimum og fangað hjarta mitt með ást Þinni meðal hinna réttlátu.
 Ó Drottinn! Staðfest mig af heilögum anda svo ég geti hrópað í Þínu nafni meðal þjóðanna og flutt fagnaðarerindið um birtingu ríkis Þíns meðal manna.
@@ -1966,6 +2420,8 @@ Vissulega ert Þú hinn örláti, sá sem ætíð gefur, hinn dýrmæti og gjafm
 
 (Source category: Staðfesta)
 (Bahaiprayers.net ID: 1752)
+
+
 
 
 
@@ -1991,6 +2447,8 @@ Enginn er Guð nema Þú, hjálpin í nauðum, hinn sjálfumnógi.
 
 
 
+
+
 ## Sáttmálinn
 
 ### <a id="bpn1734"></a> Prayer bpn1734 in Íslenska
@@ -2003,6 +2461,8 @@ Enginn er Guð nema Þú, hinn almáttugi og alvísi.
 (Bahaiprayers.net ID: 1734)
 
 
+
+
 ### <a id="bpn1735"></a> Prayer bpn1735 in Íslenska
 Hann er hinn máttugi, fyrirgefandinn, hinn vor­kunnláti!
 Ó Guð, Guð minn! Þú lítur þjóna Þína í af­grunni villu og tortímingar, hvar er ljós himneskrar leið­sagnar Þinnar, ó Þú þrá heimsins? Þú þekkir hjálp­ar­leysi þeirra og vanmátt, hvar er vald Þitt, ó Þú sem hefur í greip Þinni öfl himins og jarðar?
@@ -2011,6 +2471,8 @@ Hann er hinn máttugi, fyrirgefandinn, hinn vor­kunnláti!
 
 (Source category: Sáttmálinn)
 (Bahaiprayers.net ID: 1735)
+
+
 
 
 ### <a id="bpn1736"></a> Prayer bpn1736 in Íslenska
@@ -2022,6 +2484,8 @@ Drottinn! Þetta eru þjónar sem haldið hafa af festu og einurð við sáttmá
 (Bahaiprayers.net ID: 1736)
 
 
+
+
 ### <a id="bpn1737"></a> Prayer bpn1737 in Íslenska
 Ó vorkunnláti Guð! Þökk sé Þér að Þú hefur vakið mig og fært mér meðvitund. Þú hefur gefið mér sjáandi auga og heiðrað mig með heyr­andi eyra, leitt mig til ríkis Þíns og leiðbeint mér að vegi Þínum. Þú hefur sýnt mér hina réttu leið og látið mig ganga um borð í örk lausnarinnar. Ó Guð! Ger mig staðfastan, einarðan og dyggan. Vernda mig gegn þungbærum prófraunum og veit mér skjól og athvarf í rammgerðu virki sáttmála Þíns og erfðaskrár. Þú ert hinn voldugi. Þú ert sjá­andinn. Þú ert heyrandinn.
 Ó Þú vorkunnláti Guð. Gef mér hjarta sem upp­lýsist eins og gler af ljósi ástar Þinnar, og blás mér í brjóst hugsanir sem geta breytt þessum heimi í rósagarð með úthellingu himneskrar náðar.
@@ -2031,12 +2495,16 @@ Drottinn! Þetta eru þjónar sem haldið hafa af festu og einurð við sáttmá
 (Bahaiprayers.net ID: 1737)
 
 
+
+
 ### <a id="bpn1738"></a> Prayer bpn1738 in Íslenska
 Ó Drottinn minn og von mín! Hjálpa Þú ást­vinum Þínum að vera stöðugir í máttugum sáttmála Þínum, trúir opinberuðum málstað Þín­um og fylgja boðunum sem Þú gafst þeim í bók dýrðarljóma Þíns svo þeir megi verða fánar leið­sagnar og lampar herskaranna á hæðum, brunnar takmarkalausrar visku Þinnar og stjörnur sem lýsa veginn, tindrandi á guðdómlegri festingu.
 Sannlega ert Þú hinn ósigrandi og almáttugi, hinn alvoldugi.
 
 (Source category: Sáttmálinn)
 (Bahaiprayers.net ID: 1738)
+
+
 
 
 
@@ -2062,6 +2530,8 @@ Lof sé Guði, Drottni allra veraldanna.
 
 (Source category: Tafla Ahmads)
 (Bahaiprayers.net ID: 1762)
+
+
 
 
 
@@ -2190,6 +2660,8 @@ Og þegar þær sáu hvernig hún var á sig komin og skildu orð af frásögn �
 
 
 
+
+
 ## Vernd
 
 ### <a id="bpn1753"></a> Prayer bpn1753 in Íslenska
@@ -2203,12 +2675,16 @@ Send því niður, ó Drottinn minn, yfir mig og ástvini mína það sem ver ok
 (Bahaiprayers.net ID: 1753)
 
 
+
+
 ### <a id="bpn1754"></a> Prayer bpn1754 in Íslenska
 Lofaður sért Þú, ó Drottinn Guð minn! Þetta er þjónn Þinn sem teygað hefur úr höndum náðar Þinnar vín Þinnar ljúfu líknar og fundið keim ástar Þinnar á dögum Þínum. Ég bið Þig innilega við holdtekju nafna Þinna, sem engin sorg getur aftrað frá að fagna í ást Þinni eða einblína á ásjónu Þína, og sem allar hersveitir hinna gálausu megna ekki að snúa af vegi velþóknunar Þinnar: Veit honum þau gæði sem eru með Þér og lyft honum til slíkra hæða að hann líti á veröldina sem skugga sem hverfur á örskotsstund.
 Vernda hann einnig, ó Guð minn, með afli ómæl­istignar Þinnar gegn öllu sem Þér er and­styggð. Sannarlega ert Þú Drottinn hans og Drottinn allra veraldanna.
 
 (Source category: Vernd)
 (Bahaiprayers.net ID: 1754)
+
+
 
 
 ### <a id="bpn1755"></a> Prayer bpn1755 in Íslenska
@@ -2220,11 +2696,15 @@ Dýrlegur ert Þú, ó Drottinn Guð minn! Ó Þú sem ert Guð minn og meistari
 (Bahaiprayers.net ID: 1755)
 
 
+
+
 ### <a id="bpn1756"></a> Prayer bpn1756 in Íslenska
 Ó Guð, Guð minn! Ég hef lagt af stað frá heimili mínu, haldið fast í taug ástar Þinnar og falið mig fullkomlega vernd Þinni og forsjá. Ég sárbæni Þig við vald Þitt sem Þú hefur verndað með ástvini Þína gegn hinum vegvilltu og öfug­snúnu og gegn sérhverjum mótþróafullum kúgara og illgerðarmanni sem hefur villst langt frá Þér, að láta ekkert verða mér að meini sakir náðar Þinnar og veglyndis. Ger mér því kleift að snúa aftur til heimilis míns fyrir mátt Þinn og vald. Þú ert sannlega hinn almáttugi, hjálpin í nauðum, hinn sjálfumnógi.
 
 (Source category: Vernd)
 (Bahaiprayers.net ID: 1756)
+
+
 
 
 ### <a id="bpn1757"></a> Prayer bpn1757 in Íslenska
@@ -2237,6 +2717,8 @@ Vald og styrkur er aðeins hjá Guði, hinum upp­hafnasta og máttugasta.
 (Bahaiprayers.net ID: 1757)
 
 
+
+
 ### <a id="bpn1758"></a> Prayer bpn1758 in Íslenska
 Dýrð sé Þér, ó Guð! Þú ert sá Guð sem varst fyrir upphafið, sá sem verður eftir endalokin og sá sem varir handan alls sem er. Þú ert sá Guð sem allt þekkir, æðri öllu sem er. Þú ert sá Guð sem sýnir miskunn öllu sem er, dæmir milli alls sem er og sérð allt sem er. Þú ert Guð Drottinn minn, Þú þekkir aðstæður mínar, Þú ert vitni að innri og ytri verund minni.
 Veit mér og þeim átrúendum sem hafa svarað kalli Þínu fyrirgefningu Þína. Ver mér sá hjálpari sem nægir mér gegn misgerðum hvers og eins sem vill valda mér sorg eða óskar mér ills. Sannlega ert Þú Drottinn alls sem er. Þú nægir öllum og enginn getur orðið sjálfum sér nógur án Þín.
@@ -2245,11 +2727,15 @@ Veit mér og þeim átrúendum sem hafa svarað kalli Þínu fyrirgefningu Þín
 (Bahaiprayers.net ID: 1758)
 
 
+
+
 ### <a id="bpn6847"></a> Prayer bpn6847 in Íslenska
 Ég heiti á Þig við mátt Þinn, ó Guð minn! Lát ekkert verða mér að meini á tímum prófrauna og á gáleysisstundum leiðbein Þú fótsporum mín­um með innblæstri Þínum. Þú ert Guð, megnugur ert Þú að gera það sem Þér þóknast. Enginn fær staðið gegn vilja Þínum eða haldið aftur af ákvörðun Þinni.
 
 (Source category: Vernd)
 (Bahaiprayers.net ID: 6847)
+
+
 
 
 ### <a id="bpn1759"></a> Prayer bpn1759 in Íslenska
@@ -2265,11 +2751,15 @@ Seg: Guð nægir mér. Hann er sá sem hefur í hendi sér ríki alls sem er. Ha
 (Bahaiprayers.net ID: 1759)
 
 
+
+
 ### <a id="bpn1760"></a> Prayer bpn1760 in Íslenska
 Ó Guð, Guð minn! Vernda trúfasta þjóna Þína gegn böli sjálfs og ástríðna, vernda þá með vökulu auga ástúðar Þinnar gegn allri óvild, hatri og öfund, varðveit þá í óvinnandi virki umsjár Þinnar og ger þá birtendur Þinna dýrlegu tákna, óhulta fyrir örvaskotum efasemda. Lýs upp ásjónur þeirra með geisladýrðinni af dagrenningu Þinnar guðlegu einingar, gleð hjörtu þeirra með söng­vunum sem berast frá Þínu heilaga ríki og styrk lendar þeirra af Þínu allsráðandi afli frá dýrðarríki Þínu. Þú ert hinn örlátasti, verndarinn, hinn al­máttugi og náðugi.
 
 (Source category: Vernd)
 (Bahaiprayers.net ID: 1760)
+
+
 
 
 ### <a id="bpn1761"></a> Prayer bpn1761 in Íslenska
@@ -2279,6 +2769,8 @@ Vissulega ert Þú vörðurinn, sá er verndar og varð­veitir, nægjandinn, og
 
 (Source category: Vernd)
 (Bahaiprayers.net ID: 1761)
+
+
 
 
 
@@ -2305,6 +2797,8 @@ Enginn er Guð nema Þú, sá sem ætíð fyrirgefur, hinn örlátasti.
 (Bahaiprayers.net ID: 1764)
 
 
+
+
 ### <a id="bpn1765"></a> Prayer bpn1765 in Íslenska
 *(Þessi bæn, sem opinberuð er af ‘Abdu’l-Bahá, er lesin í grafhýsi hans. Hún er einnig notuð við önnur tækifæri.)
 
@@ -2319,6 +2813,9 @@ Drottinn! Hann er snauður og auðmjúkur þjónn Þinn, undirgefinn og sárbið
 
 (Source category: Vitjunartafla)
 (Bahaiprayers.net ID: 1765)
+
+
+
 
 
 

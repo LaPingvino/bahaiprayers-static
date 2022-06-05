@@ -3,6 +3,48 @@ title = "Sesotho"
 tags = ['lang=st', 'prayerbook']
 +++
 
+
+
+[Bacha](#Bacha)
+
+[Bafu](#Bafu)
+
+[Bana](#Bana)
+
+[Batsoali](#Batsoali)
+
+[Hoseng](#Hoseng)
+
+[Khutso](#Khutso)
+
+[Kopano](#Kopano)
+
+[Leeto](#Leeto)
+
+[Lichaba tsa lefatše](#Lichaba tsa lefatše)
+
+[Meso](#Meso)
+
+[Motlosi oa mathata](#Motlosi oa mathata)
+
+[Motšeare o moholo](#Motšeare o moholo)
+
+[Nchafatso](#Nchafatso)
+
+[Phirimana](#Phirimana)
+
+[Pholiso](#Pholiso)
+
+[Poko le teboho](#Poko le teboho)
+
+[Thuso](#Thuso)
+
+[Tsoarelo](#Tsoarelo)
+
+[Tšireletso](#Tšireletso)
+
+
+
 ## Bacha
 
 ### <a id="bpn6473"></a> Prayer bpn6473 in Sesotho
@@ -10,6 +52,8 @@ Oho Molimo!  Etsa hore mocha enoa a apareloe ke leseli, ‘me enoa ea fokolang a
 
 (Source category: Bacha)
 (Bahaiprayers.net ID: 6473)
+
+
 
 
 
@@ -23,6 +67,8 @@ Oho Molimo Oa ka! Oho Uena Motšoareli Oa libe!  Seabi Sa limpho! Motlosi Oa mat
 
 
 
+
+
 ## Bana
 
 ### <a id="bpn6455"></a> Prayer bpn6455 in Sesotho
@@ -30,6 +76,8 @@ Oho Molimo! Ruta bana bana.  Bana ke limela tsa tšimo ea Hau, lipalesa tsa phul
 
 (Source category: Bana)
 (Bahaiprayers.net ID: 6455)
+
+
 
 
 
@@ -44,6 +92,8 @@ oa Hau o raohetse ho U fa bosebeletsi le ho ikitlaetsa ka nako tsohle tseleng ea
 
 
 
+
+
 ## Hoseng
 
 ### <a id="bpn6461"></a> Prayer bpn6461 in Sesotho
@@ -51,6 +101,8 @@ Ke tsohile tšireletsong Ea Hau, Oho Molimo Oa ka, ‘me ke se lokelang mang le 
 
 (Source category: Hoseng)
 (Bahaiprayers.net ID: 6461)
+
+
 
 
 
@@ -63,6 +115,8 @@ Bopa kahare ho ‘na pelo e hloekileng,Oho Molimo Oa ka; ‘me U nchafatse letso
 (Bahaiprayers.net ID: 6470)
 
 
+
+
 ### <a id="bpn6471"></a> Prayer bpn6471 in Sesotho
 Oho Molimo! Oho Molimo! Enoa mohanka oa Hauk e nonyana-ea-serobeha-lepheo, ‘me ho fofa ha hae hoe a fokola—Mo thuse hore a rurele tlhorong ea katleho le polokeho, Mo fufisetse hohle sebakeng se senang meeli a tletse thabo le nyakallo e khaphatsehang. Phahamisa meloli ea hae ka Lebitso la Hau Le Lehlohonolo likarolog tsohle, nyakallatsa litsebe ka  pitso ea hae ‘me U bule mahlo ka ho bona matšoao a tataiso!
 Oho Morena! Ke mong, ke inoosi, ‘me ke ea ikokobelitseng. Ha ke na  motšehetsi haese Uena feela, ha ho mothusi ntle ho Uena. Ntiise tšebeletsong ea Hau, nthuse ka makhotla a mangeloi a maholimo,’nehe katleho morerong oa ho nyalanya Lentsoe la Hau, ‘me U ‘nehe hore ke bolele mahlale a Hau har’a libopuoa tsa Hau.
@@ -70,6 +124,8 @@ Ka sebele, U Motšireletsi oa mafutsana le oa ba banyenyane, ‘me kasebele U Ea
 
 (Source category: Khutso)
 (Bahaiprayers.net ID: 6471)
+
+
 
 
 
@@ -83,6 +139,8 @@ Oho Molimo oa ka! Oho Molimo oa ka! Kopanya lipelo tsa bahlanka ba Hau, ‘me U 
 
 
 
+
+
 ## Leeto
 
 ### <a id="bpn6460"></a> Prayer bpn6460 in Sesotho
@@ -91,6 +149,8 @@ Ha ho Molimo o mong kantle ho Uena, Ea Mong, Ea ke keng a bapisoa, Ea Tsebo Eohl
 
 (Source category: Leeto)
 (Bahaiprayers.net ID: 6460)
+
+
 
 
 
@@ -110,6 +170,8 @@ U Ea Matla le Senatla, U Ea Tšoarelang hap eke Uena Ea Iphapanyetsang mefokolo 
 
 
 
+
+
 ## Meso
 
 ### <a id="bpn6456"></a> Prayer bpn6456 in Sesotho
@@ -122,6 +184,8 @@ Oho Morena Molimo Oa ka,hlohonolofatsa Eo U Mo phahamisitseng holim’a mabitso 
 
 
 
+
+
 ## Motlosi oa mathata
 
 ### <a id="bpn6468"></a> Prayer bpn6468 in Sesotho
@@ -129,6 +193,8 @@ Na O teng ea ka tlosang mathata afe kapa afe haese Molimo feela na? E re: Ho ror
 
 (Source category: Motlosi oa mathata)
 (Bahaiprayers.net ID: 6468)
+
+
 
 
 
@@ -143,6 +209,8 @@ Ha ho Molimo O mong kantle ho Uena, Mothusi litlokotsing, Ea-Phahametseng Tsohle
 
 
 
+
+
 ## Nchafatso
 
 ### <a id="bpn6469"></a> Prayer bpn6469 in Sesotho
@@ -150,6 +218,8 @@ Oho Molimo! Nchafatsa U thabise moea oa ka. Hloekisa pelo e aka. Chabisa kelello
 
 (Source category: Nchafatso)
 (Bahaiprayers.net ID: 6469)
+
+
 
 
 
@@ -163,6 +233,8 @@ Oho Molimo Oa ka, Monghali Oa me, Sepheo sa takatso ea ka! Enoa mohlanka oa Hau 
 
 
 
+
+
 ## Pholiso
 
 ### <a id="bpn6459"></a> Prayer bpn6459 in Sesotho
@@ -170,6 +242,8 @@ Lebitso la Hau ke pheko ea ka, Oho Molimo oa ka, ‘me khopolo ea Hau ke sehlare
 
 (Source category: Pholiso)
 (Bahaiprayers.net ID: 6459)
+
+
 
 
 
@@ -185,6 +259,8 @@ Ke Uena Molimo Ea Matla, Oa Khanya le Mohau. Ha ho Molimo o mong haese Uena feel
 
 
 
+
+
 ## Thuso
 
 ### <a id="bpn6454"></a> Prayer bpn6454 in Sesotho
@@ -192,6 +268,8 @@ Oho Morena, Molimo oa ka!  Thusa baratuoa ba Hau ho tiea Tumelong, ea Hau, ho ts
 
 (Source category: Thuso)
 (Bahaiprayers.net ID: 6454)
+
+
 
 
 
@@ -206,6 +284,8 @@ Ke mohlanka oa Hau, Oho Molimo, le mor’a mohlanka oa Hau.  Ke amohetse ‘nete
 
 
 
+
+
 ## Tšireletso
 
 ### <a id="bpn6467"></a> Prayer bpn6467 in Sesotho
@@ -213,6 +293,9 @@ Oho Molimo, Molimo oa ka! Tšireletsa bahlanka ba Hau ba tšepehang bobeng ba bo
 
 (Source category: Tšireletso)
 (Bahaiprayers.net ID: 6467)
+
+
+
 
 
 

@@ -3,6 +3,70 @@ title = "Luganda"
 tags = ['lang=lg', 'prayerbook']
 +++
 
+
+
+[ABAAMI ABAFUMBO](#ABAAMI ABAFUMBO)
+
+[ABAKYALA AB'EMBUTO](#ABAKYALA AB'EMBUTO)
+
+[ABANTU BONNA](#ABANTU BONNA)
+
+[ABAVUBUKA](#ABAVUBUKA)
+
+[ABAZADDE](#ABAZADDE)
+
+[EBIKEMO N'EBIZIBU](#EBIKEMO N'EBIZIBU)
+
+[EKIRO](#EKIRO)
+
+[EMPAGI Z'ENZIKIRIZA](#EMPAGI Z'ENZIKIRIZA)
+
+[ESSAALA Z'ABAANA N'ABAVUBUKA](#ESSAALA Z'ABAANA N'ABAVUBUKA)
+
+[ESSAALA Z'ABAFU](#ESSAALA Z'ABAFU)
+
+[ESSALA EMPAVU ETTEEKWA OKUSOMEBWA](#ESSALA EMPAVU ETTEEKWA OKUSOMEBWA)
+
+[ESSALA EY'ETTEEKA ENYIMPI](#ESSALA EY'ETTEEKA ENYIMPI)
+
+[ESSALA EY'ETTEEKA EY'EKIGERO](#ESSALA EY'ETTEEKA EY'EKIGERO)
+
+[ETTUMBI](#ETTUMBI)
+
+[NKUGAANA](#NKUGAANA)
+
+[OBUDDE OBWOKU NKYA](#OBUDDE OBWOKU NKYA)
+
+[OBUFUMBO](#OBUFUMBO)
+
+[OBUKUUMI](#OBUKUUMI)
+
+[OBUYAMBI](#OBUYAMBI)
+
+[OKUKULA MU BY'OMWOYO](#OKUKULA MU BY'OMWOYO)
+
+[OKULUNGAMYA ABABUZI DDWA](#OKULUNGAMYA ABABUZI DDWA)
+
+[OKUNYWERERA MU NDAGAANO](#OKUNYWERERA MU NDAGAANO)
+
+[OKUSOMESA](#OKUSOMESA)
+
+[OKUSONYIYIBWA](#OKUSONYIYIBWA)
+
+[OKUTAMBULA](#OKUTAMBULA)
+
+[OKUTENDEREZA N'OKWEBAZA](#OKUTENDEREZA N'OKWEBAZA)
+
+[OKUWAAYO MU NSAWO Y'ENZIKIRIZA](#OKUWAAYO MU NSAWO Y'ENZIKIRIZA)
+
+[OKUWONYA](#OKUWONYA)
+
+[OKWEGYA KU BY'ENSI](#OKWEGYA KU BY'ENSI)
+
+[OLUKIIKO OLW'OMWOYO](#OLUKIIKO OLW'OMWOYO)
+
+
+
 ## ABAAMI ABAFUMBO
 
 ### <a id="bpn6252"></a> Prayer bpn6252 in Luganda
@@ -14,6 +78,8 @@ Ayi Mukama wange!  Ogyewo ekifuKu maaso ge, Omuyiweko omukisa gwo, omunywese omu
 
 
 
+
+
 ## ABAKYALA AB'EMBUTO
 
 ### <a id="bpn6238"></a> Prayer bpn6238 in Luganda
@@ -22,6 +88,8 @@ Ayi Mukama wange, nteeka mu mikono gyo, ekyo ekiri mu lubuto lwange.  Kale kiyam
 
 (Source category: ABAKYALA AB'EMBUTO)
 (Bahaiprayers.net ID: 6238)
+
+
 
 
 
@@ -40,6 +108,8 @@ Ggwe ddala Oli w'Amaanyi, Ow'obuyinza; Ggwe oli Musonyiyi, era azibira ebyonoono
 (Bahaiprayers.net ID: 6255)
 
 
+
+
 ### <a id="bpn6256"></a> Prayer bpn6256 in Luganda
 Ayi Katonda! Tuli banafu, otuzeemu endasi.  Tulu bankuseere, otuwe omugabo Gwo ogutagwawo.  Tulibalwadde otuwe okuwonya Kwo okuttukuvu.  Tuli ngajaba, tuwe amaanyi Go amatukuvu agomu ggulu.  Ayi Mukama, tufuule ba mugaso mu nsi eno.  Tusumulule mu mbeera ey'okwerowoozaako n'okwegomba.  Ayi Katonda, tunyweeze mu mukwagala Kwo, era otuyambe okwagala abantu bonna.  Otukakase mu kuweereza abantu b'ensi eno, tusobobole okufuuka abawereza b'abawereza Bo, twagale ebitonde Byo byonna, tube basaasizi eri abantu bonna.  
 Ayi Mukama! Ggwe oli wa buyinza!  Oli wa kisa! 
@@ -50,6 +120,8 @@ Ggwe Asonyiwa bulijjo!  Ggwe Ayinza byonna.
 
 
 
+
+
 ## ABAVUBUKA
 
 ### <a id="bpn6232"></a> Prayer bpn6232 in Luganda
@@ -57,6 +129,8 @@ Ayi Mukama!  Fuula omuvubuka ono omusanyufu, era osse emikisa Gyo ku kitonde kin
 
 (Source category: ABAVUBUKA)
 (Bahaiprayers.net ID: 6232)
+
+
 
 
 
@@ -72,11 +146,15 @@ Ggwe olabira ddala, Ayi Mukama wange nga emikono gyaffe giyimusirizibbwa eri egg
 (Bahaiprayers.net ID: 6266)
 
 
+
+
 ### <a id="bpn6267"></a> Prayer bpn6267 in Luganda
 Ayi Mukama!  Mu mutembe guno ogusingira ddala, gyonna , Okirizza abaana okw'egayiririra bakadde babwe. Kino ky'ekimu ku birabo eby'enjawulo eby'omumulembe gunno.  Kale bw'ekityo, Ayi Ggwe Mukama ow'ekisa, kiriza okusaba kw'omuddu wo ono, ku mufuubeeto gw'obumu Bwo, onyike kitaawe mu nnyanja y'ekisa Kyo, kubanga omwana ono ayimukiddemu okukuwereza, era akola butaweera, buli kadde, mu kkubo ly'okwagala Kwo.  Ddala ddala Ggwe Oli Mugabi, Omusonyiyi, era Ow'ekisa!
 
 (Source category: ABAZADDE)
 (Bahaiprayers.net ID: 6267)
+
+
 
 
 
@@ -90,6 +168,8 @@ Ggwe olabira ddala Ayi Mukama wange, emitawaana egintuuseeko mu naku Zo.  Nkwega
 (Bahaiprayers.net ID: 6287)
 
 
+
+
 ### <a id="bpn6288"></a> Prayer bpn6288 in Luganda
 Nkwegayirira kulwa'amaanyi Go, Ayi Katonda wange, tokiriza mitawaana kunnumba mu kaseera ak'okukemebwa, era bwemba sifaayo, lungamya ebigere byange n'obutukuvu Bwo.  Ggwe Katonda, olina amaanyi okukola nga bwoyagala. Tewali awakanya kulamula Kwo, oba okulemesa ebigendererwa Byo.
 
@@ -97,11 +177,15 @@ Nkwegayirira kulwa'amaanyi Go, Ayi Katonda wange, tokiriza mitawaana kunnumba mu
 (Bahaiprayers.net ID: 6288)
 
 
+
+
 ### <a id="bpn6289"></a> Prayer bpn6289 in Luganda
 Ayi Mukama, Ggwe ajawo buli nyiike era agoba okulumwa obujiji.  Ggwe ajawo okubonaabona, Ggwe agoba ennaku, era ayimbula buli musibe, atokola buli muddu.  Ayi Mukama!  Ndokola kulw'ekisa Kyo, ombalire mu bawereza Bo, abafunye obulokozi.
 
 (Source category: EBIKEMO N'EBIZIBU)
 (Bahaiprayers.net ID: 6289)
+
+
 
 
 
@@ -116,6 +200,8 @@ Tewali Katonda mulala wabula Ggwe, Ow'amaanyi, Asinga bonna, Atakugirwa.
 (Bahaiprayers.net ID: 6263)
 
 
+
+
 ### <a id="bpn6264"></a> Prayer bpn6264 in Luganda
 Nyinza ntya okusatawo okw'ebaka, Ayi Katonda wange, nga abo abegomba okubeera naawe tebebaka olw'okwawukana naawe; era nyinza ntya okweganzika n'empumula nga emyoyo gy'abaagalwa Bo girumwa obujiji, olw'okubeera ewata okuva Gyoli?
 Omwoyo gwange, n'obulamu bwange bwonna, mbutadde mu mukono Gwo ogwadyo, ogw'amaanyi g'obukuumi Bwo, era nganzika omutwe gwange ku mutto kulw'amaanyi Go, era ngolokokera mu kusiima Kwo n'essanyu Lyo eddungi.  Ggwe mu mazima Ggwe mukuumi, Alabirira, Ayinza byonna, Asinga bonna amaanyi.
@@ -123,6 +209,8 @@ Kulw'amaanyi Go, sikusaba kwebaka oba kutunula naye nsaba ekyo kyokka Ggwe Ky'oy
 
 (Source category: EKIRO)
 (Bahaiprayers.net ID: 6264)
+
+
 
 
 
@@ -140,6 +228,8 @@ Omusana n'ekitiibwa, okulamusa n'ettendo bibeere eri Empagi z'enzikiriza Ye, mu 
 
 
 
+
+
 ## ESSAALA Z'ABAANA N'ABAVUBUKA
 
 ### <a id="bpn6224"></a> Prayer bpn6224 in Luganda
@@ -150,11 +240,15 @@ Ogulumizibwe, Ayi Omwagalwa wange asinga, muyiweeko obuwoowo obulungi, obw'emiki
 (Bahaiprayers.net ID: 6224)
 
 
+
+
 ### <a id="bpn6225"></a> Prayer bpn6225 in Luganda
 Ayi Ggwe Mukama asingira ddala ekitiibwa!  Yamba omuzaana wo ono omulo okuba ow'omukisa era omusanyufu; muyambe okukuumibwa ku mufuubeeto gw'obumu Bwo, era omuyambe okunywa ku kikopo ky'okwagala Kwo, olwo akusibwe era asanyusibwe, asobole okubunyisa obuwoowo bwo obulungi.  Ggwe oli w'Amaanyi, oli wa Buyinza, era Ggwe Omanyi byonna, era Olaba byonna.
 
 (Source category: ESSAALA Z'ABAANA N'ABAVUBUKA)
 (Bahaiprayers.net ID: 6225)
+
+
 
 
 ### <a id="bpn6226"></a> Prayer bpn6226 in Luganda
@@ -164,11 +258,15 @@ Ayi Ggwe Mukama atagerageranyizibwa!  Yamba omwana ono ayonka akulire ku mabeere
 (Bahaiprayers.net ID: 6226)
 
 
+
+
 ### <a id="bpn6227"></a> Prayer bpn6227 in Luganda
 Ayi Katonda! Omwana ono omuto mulerere mu kwagala kwo era omugabirire amabeere agava mu bbeere ly'obwakatonda Bwo.  Simbaekisimbe kino ekijja mu nnimiro yo ey'ebimuli by'okwagala Kwo era okikuze n'oluwandagirize oluva mu bire by'ekisa kyo. Mufuule omwana ow'Obwakaka Bwo, era omukulembere okutuuka mu bw'akabaka Bwo obw'omu Ggulu.  Ddala ddala Ggwe oli wa buyinza, era Ow'ekisa!  Ggwe oli Mugabi, Omutonyi, era Ow'ekisa ekitagerageranyizibwa.
 
 (Source category: ESSAALA Z'ABAANA N'ABAVUBUKA)
 (Bahaiprayers.net ID: 6227)
+
+
 
 
 ### <a id="bpn6228"></a> Prayer bpn6228 in Luganda
@@ -178,11 +276,15 @@ Ayi Katonda, Onkulembere, Onkuume, Onfuule ettala n'emunyenye eby'akayakana.  Gg
 (Bahaiprayers.net ID: 6228)
 
 
+
+
 ### <a id="bpn6229"></a> Prayer bpn6229 in Luganda
 Ayi Katonda, yigiriza abaana bano.  Abaana bano bye bisimbe byomulusuku Lwo, ebimuli eby'ettale Lyo.  Looza z'ennimiro Yo.  Weerezaenkuba Yo, ebatonyere, baakize omusana ogw'amazima wamun'okwagala Kwo.  Leka obuwewo Bwo obulungi bubazeemu endasi basobole okugunjulwa, okukula era n'okweyongera ate n'okulabikira mu bulungi obusukkiridde.  Ggwe oli Mugabi!  Ggwe oli Wa kisa.
 
 (Source category: ESSAALA Z'ABAANA N'ABAVUBUKA)
 (Bahaiprayers.net ID: 6229)
+
+
 
 
 ### <a id="bpn6230"></a> Prayer bpn6230 in Luganda
@@ -192,11 +294,15 @@ Ayi Ggwe Mukama ow'ekisa!  Abaanabano abatungi gye mirimugy'emikono Gyo, era obu
 (Bahaiprayers.net ID: 6230)
 
 
+
+
 ### <a id="bpn6231"></a> Prayer bpn6231 in Luganda
 Ayi Mukama!  Mukama wange!  Ndi mwana ow'emyaka emitono.  Ongabirire amabeere ag'ekisaakyo onjigirize okuva mu kifuba ky'okwagata Kwo, onsomese mu ssomero ly'obukulembeze Bwo, era onkulize wansi w'ekisiikirize ky'omukisa Gwo.  Onzigye mu kizikiza, Onfuule omusana Ogwakayakana; onsumulule okuva mu butasanyuka, onfuule ebimuli by'omunimiro eya looza; nyamba okufuuka omuwereza ku Mufuubeeto Gwo, era onfuule okuba omutukuvu; Nyamba okuba omugabi eri abantu bensi eno, era onyambaze engule ey'obuamu obutagwaawo.  Ddala ddala Ggwe oli w'Amaanyi, ow'Obuyinza, Alaba, era Awulira.
 
 (Source category: ESSAALA Z'ABAANA N'ABAVUBUKA)
 (Bahaiprayers.net ID: 6231)
+
+
 
 
 
@@ -224,6 +330,8 @@ Mazima ffena ddala tuli baguminkiriza mu Katonda. ( x19)
 (Bahaiprayers.net ID: 6235)
 
 
+
+
 ### <a id="bpn6236"></a> Prayer bpn6236 in Luganda
 Ekitiibwa kibe gyoli, Ayi MukamaKatonda wange!  Tomufeebya oyo gwewa gulumiziza nga oyita mu maanyi ag'obwakabaka Bwo obutagwaawo, era tomusuula wata oyo gwewakirizza okuyingira eweema ey'obutaggwawo Bwo.  Onoomusula muguluka, Ayi Katonda wange, oyo gw'osiikirizza n'obukama Bwo, era on'omugoba okuva Woli, oyo, Ayi Okwegomba kwange, nga Ggwe obaddeobubudamo bwe?  Oyinza okumussa wansi oyo gw'oyimusizza oba okumwerabira oyo Gwewasobozesa okukujukira?  
 Oli wakitiibwa, Ggwe oli wakitiibwa ekiyitiridde!  Ggwe okuva dda nedda, Ggwe Kabaka w'ebitonde byonna era Ggwe abiwa obulamu, era Ggwe emirembe n'emirembe, Ggwe olisigala nga Mukama ow'ebitonde byonna, era Ggwe abitonda. Oli wakitiibwa Ayi Mukama wange!  Singa Ggwe otekeraawo okukwatirwa abaddu Bo ekisa, ani anabalaga ekisa, era singa tobayamba, ani anabayamba?  
@@ -233,6 +341,8 @@ Oli wakitiibwa, Ggwe Oli wakitiibwa ekitayogerekeka!  Ggwe eyegombebwa mu mazima
 (Bahaiprayers.net ID: 6236)
 
 
+
+
 ### <a id="bpn6237"></a> Prayer bpn6237 in Luganda
 Ayi Katonda wange!  Ayi Ggwe Omusonyiyi w'ebyonoono, Omugabi w'ebirabo, Ajjawo okunyolwa!  
 Ddala ddala nkwegayiridde osonyiwe ebyonono byabo abavudde mu kyambalo kino ekyomubiri, nebagya munsi y'emwoyo.  
@@ -240,6 +350,8 @@ Ayi Mukama wange!  Banaazeeko ebyonoono byabwe, omalewo okunyolwa kwabwe, era ek
 
 (Source category: ESSAALA Z'ABAFU)
 (Bahaiprayers.net ID: 6237)
+
+
 
 
 
@@ -318,6 +430,8 @@ Mpa obujulirizi, Ayi Katonda wange, kwekyo abalonde Bo kyebajulira, era nzikiriz
 
 
 
+
+
 ## ESSALA EY'ETTEEKA ENYIMPI
 
 ### <a id="bpn6216"></a> Prayer bpn6216 in Luganda
@@ -333,6 +447,8 @@ Tewali Katonda mulala wabula Ggwe, Omuyambi mu kabi, Eyemaririra.
 
 (Source category: ESSALA EY'ETTEEKA ENYIMPI)
 (Bahaiprayers.net ID: 6216)
+
+
 
 
 
@@ -372,6 +488,8 @@ Mpa obujulizi ku bumu Bwo, n'obwa namunigina Bwo, nti Ggwe Katonda, era nti tewa
 
 
 
+
+
 ## ETTUMBI
 
 ### <a id="bpn6265"></a> Prayer bpn6265 in Luganda
@@ -381,6 +499,8 @@ Ayi Mukama, nkyusiza obwenyi bwange eri obw'akabaka bw'obumu Bwo, era nnenyise m
 
 (Source category: ETTUMBI)
 (Bahaiprayers.net ID: 6265)
+
+
 
 
 
@@ -395,6 +515,8 @@ Ayi Ggwe omusaasizi, Ayinza byonna!  Emyoyo gino egikungaanidde awamu, gikwegayi
 (Bahaiprayers.net ID: 6258)
 
 
+
+
 ### <a id="bpn6259"></a> Prayer bpn6259 in Luganda
 Ayi Katonda!  Ddala ddala tukunganidde wano mu kawoowo k'okwagala Kwo.  Tukyukidde eri obwa Kabaka Bwo.  Tewali kirala kyetunoonya, wabula Ggwe, era tetwetaaga kirala kyonna wabula obulungi Bwo.  Ofuule emmere eno okuba maanu ava mu ggulu, era oyambe abantu bano abakungaanye, okuba nga abagalwa Bo abomu ggulu.  Bafuule ensibuko y'okwagala Kwo, eri oluse lw'abantu.  Bafuule emikutu gyoyitamu okulungamya ensi.  Ddala ddala Ggwe Oli wamaanyi, Ggwe Oli mugabi, Ggwe Olimusonyi, Ggwe Ayinza byonna.
 
@@ -402,11 +524,15 @@ Ayi Katonda!  Ddala ddala tukunganidde wano mu kawoowo k'okwagala Kwo.  Tukyukid
 (Bahaiprayers.net ID: 6259)
 
 
+
+
 ### <a id="bpn6260"></a> Prayer bpn6260 in Luganda
 Ayi Ggwe omugabirizi Ow'ekisa!  Olukungaana luno lujudde abagalwa Bo abo abasikiriziddwa obulungi bwo, era bakolezebbwa omuliro gw'okwagala Kwo.  Emyoyo gino gifuule nga bamalayika Bo abo mu ggulu.  Obawe obulamu nga oyita mu mpewo z'omwoyo omutukuvu, obafuule abagezi abalina emitima emimalirivu.  Obawe amaanyi agomu ggulu, era n'ekisa n'okutegeera.  Bafuule ababunyisa obumu obw'abantu bonna mu bantu Bo era ensibuko ey'okwagala n'okwegata mu nsi.  Nawookeera w'obutamanya n'okusosolagana biggwerewo ddala nga biyita mu Musaana ogw'amazima.  Ensi eno embi, efune omusana ogw'ensi ey'omwoyo, langi ez'enjawulo zifuuke nga langi emu, olwo eddoboozi ery'ettendo liyimusibwe eri obwakabaka obw'obutuukirivu Bwo.
 
 (Source category: NKUGAANA)
 (Bahaiprayers.net ID: 6260)
+
+
 
 
 
@@ -423,11 +549,15 @@ Ggwe mu mazima, Ggwe Mukama era Kabaka w'abantu bonna, era oli wa buyinza, eri e
 (Bahaiprayers.net ID: 6261)
 
 
+
+
 ### <a id="bpn6262"></a> Prayer bpn6262 in Luganda
 Ngolokokedde mu bukuumi Bwo, Ayi Katonda wange, era nga kimugwanidde oyo anonya obukuumi Bwo, okunyweerera mu kifo Kyo ekitukuvu, ky'Okuuma, era mu kigo Kyo ekikuumibwa.  Osanyuse omutima gwange Ayi Mukama, n'okumasa-masa kw'omusana gw'okubikulirwa Kwo, era nga bw'ewasanyusa obulamu bwange n'omusana ogw'okunkya ogw'okusiima Kwo.
 
 (Source category: OBUDDE OBWOKU NKYA)
 (Bahaiprayers.net ID: 6262)
+
+
 
 
 
@@ -446,6 +576,8 @@ Ekitiibwa kibe Gyoli Ayi Katonda wange, ddala ddala omuddu wo ono n'omuzaana wo 
 
 
 
+
+
 ## OBUKUUMI
 
 ### <a id="bpn6270"></a> Prayer bpn6270 in Luganda
@@ -457,11 +589,15 @@ Ggwe mu mazima, Oli wamaanyi, Asingira ddala okugulumizibwa, Asonyiwa bulijjo, A
 (Bahaiprayers.net ID: 6270)
 
 
+
+
 ### <a id="bpn6271"></a> Prayer bpn6271 in Luganda
 Ayi Ggwe Omutukuvu atugabira by'etwetaga tujudde okunyolwa otusasire. Tubungeta, tuwe w'etwewagama.  Tusasanye otugatte wamu.  Tubuze otukunganye wamu mukisibo Kyo.  Abatalina kantu otuwe omugabo Gwo.  Abayonta, otunywese okuva ku nsulo ez'amazzi Go agobulamu; abanafu, otuwe amaanyi tusobole okuyimukiramu okuyamba enzikiriza Yo, tulyoke tweweyo nga sadaaka mu kkubo ly'okulungamizibwa Kwo.
 
 (Source category: OBUKUUMI)
 (Bahaiprayers.net ID: 6271)
+
+
 
 
 ### <a id="bpn6272"></a> Prayer bpn6272 in Luganda
@@ -477,11 +613,15 @@ Ddala ddala, Ggwe Oli Mugabi, Ggwe Oli wa maanyi, Ayinza byonna, Atakugirwa.  Te
 (Bahaiprayers.net ID: 6272)
 
 
+
+
 ### <a id="bpn6273"></a> Prayer bpn6273 in Luganda
 Ayi Katonda, Katonda wange!  Kugira abaagalwa bo, okuva ku ndowooza embi, n'okwegomba.  Obakuume n'amaaso g'ekisa ky'okwagala Kwo okuva mu bukyayi, ettima era n'obugya. Obakuumire mu kigo kyo ekigumu era ekinyweevu, okuva mu busaale obw'okubuusabuusa.  Bafuule aboolesa obubonero Bwo obw'ekitiibwa.  Sanyusa amaaso gabwe, n'omusana ogwaka okuva ku njuba ey'obumu Bwo obutukuvu, osanyuse emitima gyabwe n'enyiriri ezayolesebwa okuva mu bwakabaka Bwo.  Onyweeze ebimyu byabwe n'amaanyi Go agatanyenyezebwa, agava mu Bwakabaka Bwo obw'ekitiibwa.  Ggwe Oli mugabi wa byonna, Omukuumi, Ow'amaanyi, ow'ekisa.
 
 (Source category: OBUKUUMI)
 (Bahaiprayers.net ID: 6273)
+
+
 
 
 ### <a id="bpn6274"></a> Prayer bpn6274 in Luganda
@@ -490,6 +630,8 @@ Omuddu Wo ono gw'omulisizza muwe obubuddamo n'okukuuma Kwo, Ayi Ggwe omwoyo omut
 
 (Source category: OBUKUUMI)
 (Bahaiprayers.net ID: 6274)
+
+
 
 
 
@@ -502,11 +644,15 @@ Ayi Katonda wange, nkusaba kulw'erinya Lyo erisingira ddala ekitiibwa, onyambe m
 (Bahaiprayers.net ID: 6219)
 
 
+
+
 ### <a id="bpn6220"></a> Prayer bpn6220 in Luganda
 Waliwo ayinza okujawo ebizibu okujako Katonda?  Yatula nti Katonda atenderezebwe!  Ye ye Katonda!  Abantu bonna baddube, era bonna babeerawo, lwa kutagira kwe!
 
 (Source category: OBUYAMBI)
 (Bahaiprayers.net ID: 6220)
+
+
 
 
 ### <a id="bpn6221"></a> Prayer bpn6221 in Luganda
@@ -516,6 +662,8 @@ Yatula nti: Katonda amala mu buli kimu okusinga ebintu byonna, era tewali kintu 
 (Bahaiprayers.net ID: 6221)
 
 
+
+
 ### <a id="bpn6222"></a> Prayer bpn6222 in Luganda
 Ayi Mukama, tuli banaku, tuwe omukisa gwo; tuli baavutu bunduguleko omugabo okuva ku nnyanja y'obuggaga Bwo; tuli betaavu; tukuse; tunyoomebwa, tuwe ku kutiibwa Kyo.  Enyonyi ez'omubanga n'ensolo ez'omunsiko, zifuna emere yaazo buli lunaku okuva gyoli, era buli bilonde byonna bifuna ku bukuumi bwo era n'ekisa ky'okwagata Kwo.  Omunafu onotomusubya mikisa Gyo egy'ekyewunyo era kulw'amaanyi Go, oyiwe ku mwoyo guno oguteyam ba, emikisa Gyo.  Otuwe emmere yaffe eya buli lunaku era otwongere ku byetaago by'obulamu bwaffe, olwo tulyoke twegye kumulala yena wabula Ggwe, tunyumyenga Nawe, tutambulirenga mu makubo Go era twatulenga eby'amagero Byo.  Ggweddala oli w'Amaanyi, Omwagazi, Omugabirizi w'abantu bonna.
 
@@ -523,11 +671,15 @@ Ayi Mukama, tuli banaku, tuwe omukisa gwo; tuli baavutu bunduguleko omugabo okuv
 (Bahaiprayers.net ID: 6222)
 
 
+
+
 ### <a id="bpn6223"></a> Prayer bpn6223 in Luganda
 Ayi Mukama Katonda wange!  Yambaabagaalwa Bo okunywerera mu Ddini yo; okutambulira mu makubo go; okubeera abanyweevu mu Nzikiriza Yo.  Bawe ekisa Kyo okwewala okululunkana kw'obuntu era n'okwegomba. Bayambe okugoberera omusana ogw'obukulembeze obutukuvu.  Ggwe Oli wa buyinza, Ow'ekisa, Eyemalirira, Omugabi, Omusaasizi, Ayinza byonna, era Omugabi wa Byonna.
 
 (Source category: OBUYAMBI)
 (Bahaiprayers.net ID: 6223)
+
+
 
 
 
@@ -541,6 +693,8 @@ Ayi Katonda, Ggwe Oli wa kisa gyendi okusinga Nze bwe nnyinza okwekwatirwa ekisa
 (Bahaiprayers.net ID: 6278)
 
 
+
+
 ### <a id="bpn6279"></a> Prayer bpn6279 in Luganda
 Ayi Mukama! Tuli banafu, tuzzemu amaanYi.  AYi Katonda! Tuli babuya, tuwe okumanya.  Ayi Mukama, tuli bankuseere, tufuule bagagga.  Ayi Katonda tuli bafu, tuzeemu obulamu.  Ayi Katonda!  Tujjolongeddwa, tufuule ba kitiibwa mu bwakabaka Bwo.  Singa otuyamba ffe Ayi Mukama tujja kufuuka nga emmunyenye ezitemagana.  Singa totuyamba, olwo tujja kufuuka ba wansi n'okukira ettaka.
 Ayi Mukama! Tuzeemu amaanyi, Ayi Katonda, tuwe obuwanguzi. Ayi Katonda!  Tuyambe okuwangula okwerowoozaako tugobere ddala okwegomba.  Ayi Mukama, otugye mu buddu obw'ebintu eby'ensi, otulokole nga oyita mu mukka ogw'omwoyo omutukuvu, bwetutyo tulyoke tusitukiremu okukuwereza, twemalire mu kusinza Ggwe, era tunywerere mu bwakabaka Bwo n'obuwulize obusukiridde.
@@ -548,6 +702,8 @@ Ayi Mukama!  Ggwe Oli wa maanyi, nyi Katonda! Ggwe Oli musonyiyi!  Ayi Mukama, G
 
 (Source category: OKUKULA MU BY'OMWOYO)
 (Bahaiprayers.net ID: 6279)
+
+
 
 
 ### <a id="bpn6280"></a> Prayer bpn6280 in Luganda
@@ -558,11 +714,15 @@ Ggwe mu mazima ddala Oli wamaanyi, Nnyini kitiibwa kyonna, Ayinza byonna.
 (Bahaiprayers.net ID: 6280)
 
 
+
+
 ### <a id="bpn6281"></a> Prayer bpn6281 in Luganda
 Ayi Mukama wange, Omwagalwa wange, Okwegomba kwange!  Beera mukwano gwange mu kiwuubaalo kyange, era omperekere mu buwanganguse bwange.  Ojjewo ennaku Yange.  Nnyamba okwettanira obulungi Bwo.  Onzigye ku birala byonna wabula Ggwe.  Onsikirize n' obuwoowo bw'obutukuvu Bwo.  Nnyamba okwetaba mu bwakabaka bwo n'abo abegye ku birala byonna wabula Ggwe, abanoonya okuwereza ku kiggwa Kyo ekitukuvu, era abewaayo okuwereza Enzikiriza Yo.  Nnyamba okuba omu ku bazaana Bo abafunye essanyu Lyo eddungi.  Ddala ddala Ggwe Oliwa kisa, omugabi.
 
 (Source category: OKUKULA MU BY'OMWOYO)
 (Bahaiprayers.net ID: 6281)
+
+
 
 
 
@@ -573,6 +733,8 @@ Tusaba Katonda, kulw'ekisa Kye, ayambe abo ababuziddwabuziddwa, basobole okuba a
 
 (Source category: OKULUNGAMYA ABABUZI DDWA)
 (Bahaiprayers.net ID: 6241)
+
+
 
 
 
@@ -587,11 +749,15 @@ Ggwe oli Musonyiyi, Ow'ekisa.
 (Bahaiprayers.net ID: 6239)
 
 
+
+
 ### <a id="bpn6240"></a> Prayer bpn6240 in Luganda
 Ayi Mukama wange era essuubilwange!  Yamba abagalwa bo okubaabanywevu mu Ndagaano Yoey'amaanyi, babeere bamazima muNzikiriza Yo, era batuukirizeamateeka Go nga bwebagawandiika mu Kitabo ky'ekitangaata Kyo; Bafuuke bendera elungamya, era ettabaaza z'abatuuze b'eyo waggulu, enkuluze z'amagezi Go agatakoma, era emmunyenye ezirungamya obutuufu, nga bwezaaka okuva mu bwengula obusingira ddala.  Ddala ddala, Ggwe towakanyizibwa, Oli w'amaanyi, Oliwa buyinza.
 
 (Source category: OKUNYWERERA MU NDAGAANO)
 (Bahaiprayers.net ID: 6240)
+
+
 
 
 
@@ -604,11 +770,15 @@ Erinya Lyo litenderezebwe, Ayi Mukama Katonda wange!  Ggwe Ondabira ddala nga am
 (Bahaiprayers.net ID: 6282)
 
 
+
+
 ### <a id="bpn6283"></a> Prayer bpn6283 in Luganda
 Ayi Katonda, Ayi Katonda!  Eno yennyonyi emenyefu y'ekiwawatiro, era n'okubuuka kwayo kwa kasoobo - Muyambe okubuuka nga ayolekedde ku ntiko y'obuwanguzi n'obulokozi.  Okubuuka kwe kufuule kwa ssanyu, n'okwesiima okungi ennyo, nga ayita mu banga eritakoma.  Yimusa eddoboozi lye esseenekerevu mu mu linya Lyo ekkulu munsi zonna .  Wuliza amatu n'okukoowoola kuno, amaaso ogasanyuse n'okulaba obubonero obw'obukulembeze!  Ayi Mukama! Ndi bwomu, ndi bwa namunigina, era ndi munaku.  Sirina mubeezi yenna wabula Ggwe.  Tewali muyambi mulala, okujako Ggwe.  Tewali muwanirizi yenna wabula Ggwe.  Onkakase mu buwereza Bwo, onyambe n'ebibiina bya bamalayika Bo.  Nfuula muwanguzi mu kubunyisa ekigambo Kyo, era onzikirize okwogera n'amagezi Go mu bitonde Byo.  Ddala ddala, Ggwe muyambi w'abanafu, Omulwanirizi w'abaana abato, era ddala ddala, Oli wa buyinza, Ow'amaanyi, era Atawalirizibwa!
 
 (Source category: OKUSOMESA)
 (Bahaiprayers.net ID: 6283)
+
+
 
 
 ### <a id="bpn6284"></a> Prayer bpn6284 in Luganda
@@ -619,6 +789,8 @@ Ggwe ddala ddala Oli Mugabi, Omusonyiyi.
 (Bahaiprayers.net ID: 6284)
 
 
+
+
 ### <a id="bpn6285"></a> Prayer bpn6285 in Luganda
 Ayi Ggwe Katonda atagerageranyizibwa!  Ayi Ggwe Mukama ow'obwakabaka!  Emyoyo gino lye gye.  Lyo elyomu ggulu.  Giyambe era awamu ne bamalayika Bo abomu ggulu, bafuule bawanguzi; buli omu kubo, afuuke nga egye, era awangule ensi zino nga ayita mu kwagala kwa Katonda n'okutangaazibwa kw'enjigiriza entukuvu.  Ayi Katonda!  Beera omuwanirizi wabwe era omuyambi wabwe.  Mu nkoola, mu nsozi mu biwonvu, mu bibira, mu nsenyi, era ne ku nnyanja, beera obwesige bwabwe balyoke bogerere waggulu mu buyinza bw'obwakabaka.  Bwo era ne mu mukka ogw'Omwoyo.  Omutukuvu Ddala ddala.
 Ggwe Oli wa Buyinza, Owa Maanyi, Ayinza byonna, Oli wa Magezi, Awulira era Alaba.
@@ -627,12 +799,16 @@ Ggwe Oli wa Buyinza, Owa Maanyi, Ayinza byonna, Oli wa Magezi, Awulira era Alaba
 (Bahaiprayers.net ID: 6285)
 
 
+
+
 ### <a id="bpn6286"></a> Prayer bpn6286 in Luganda
 Ayi Katonda, Katonda wange!  Yamba abaddu Bo abesigwa okuba n'emitima emikakkamu era egirina okwagala.  Bayambe okubunyisa mu buli ggwanga lyonna ery'ensi ekitangaala ky'okulungamizi bwa Kwo okuva mu kibinja ekyomu ggulu.
 Ddala ddala, Ggwe Oli wa Maanyi, Ow'obuyinza, Nantamegwa, Afuga byonna, Omugabi butijjo.  Ddala ddala Ggwe Lugaba, Omuteefu, Omukakkamu, Asingira ddala ekisa.
 
 (Source category: OKUSOMESA)
 (Bahaiprayers.net ID: 6286)
+
+
 
 
 
@@ -650,12 +826,16 @@ Ddala ddala, Ggwe oti wa maanyi, Omugabi.  Tewali Katonda mulala wabula Ggwe, Ay
 (Bahaiprayers.net ID: 6242)
 
 
+
+
 ### <a id="bpn6243"></a> Prayer bpn6243 in Luganda
 Ettendo libe gyoli Ayi Mukama!  Otusonyiwe ebibi byaffe.  Otukwatirwe ekisa, era otusobozese okudda gyoli.  Tuyambe obutesigama ku mulala Yenna wabula Ggwe.  Era otuyiweko, nga oyita mu mukisa Gwo, ekyo Ggwe kyoyagala era Ggwe kyosiima, ekyo kyennyini, ekikusaanira.  Ogulumize ekifo kyabo abakukiririzaamu, era obasonyiwe kulw'ekisa eky'obusaasizi Bwo.
 Ddala ddala, Ggwe Muyambi mukabi, Eyemalirira.
 
 (Source category: OKUSONYIYIBWA)
 (Bahaiprayers.net ID: 6243)
+
+
 
 
 ### <a id="bpn6244"></a> Prayer bpn6244 in Luganda
@@ -665,11 +845,15 @@ Ayi Katonda wange, Ayi Mukamawange!  Nkusaba onsonyiwe olw'okunoonya essanyu edd
 (Bahaiprayers.net ID: 6244)
 
 
+
+
 ### <a id="bpn6245"></a> Prayer bpn6245 in Luganda
 Ayi Ggwe Mukama Asonyiwa ebibi! Ggwe ekiddukiro ky'abaddu Bo bonna. Ggwe omanyi ebyaama era otegeera byonna.  Tuli banafu era Ggwe Oli wa maanyi, Ayinza byonna.  Ffena tuli bonoonyi, era Ggwe Asonyiwa ebyonoono, Ow'ekisa, Omwagazi.  Ayi Mukama!  Tusaasirenga oyita mu kisa Kyo n'obugabi Bwo. Ebyonoono byaffe bingi, Naye enyannja ey'okusonyiwa Kwo, teriiko koma, Obunafu bwaffe Butuyinze, naye obuyambi Bwo n'okuduukirira Kwo, bibaawo bulijjo.  N'olwekyo tunyweeze era otwongere amaanyi.  Otuyambe okukola ekyo ekigwanira omufuubeeto Gwo.  Osanyuse emitima gyaffe, otuwe amaaso agalaba n'amatu agawulira.  Ozuukize abafu era owonye abalwadde.   Abankuseere obagaggawaze, owe emirembe n'obukuumi eri abali mu kutya.  Otukirize mu bwakabaka Bwo era otutangaaze n'ekitangaala ky'obukulembeze Bwo.  Ggwe oli Mugabi, Oli Musaasizi, Oli wa Kisa.
 
 (Source category: OKUSONYIYIBWA)
 (Bahaiprayers.net ID: 6245)
+
+
 
 
 
@@ -683,11 +867,15 @@ Tewali Katonda mulala wabula Ggwe wekka, Omu, Atagerageranyizibwa, Amanyi byonna
 (Bahaiprayers.net ID: 6253)
 
 
+
+
 ### <a id="bpn6254"></a> Prayer bpn6254 in Luganda
 Ayi Katonda, Katonda wange!  Nvudde mumaka gange, nga n'ekwatidde ddala ku wwuzi y'okwagala Kwo, era nga newereddeyo ddala mu bukuumi Bwo.  Nkusaba kulw'amaanyi Go, mwe wakuumira abagalwa Bo okuva eri abagyemu n'abanyoomi, abanyigiriza, era nababi abaabula okuva Gyoli, onkuume kulw'ekisa Kyo n'obuyambi Bwo.  Onyambe nate, okudda mu maka gange obulungi, kulw'amaanyi Go, n'obuyinza Bwo.  Ggwe mu mazima Oli wa buyinza, Omuyambi mu kabi, Eyemalirira.
 
 (Source category: OKUTAMBULA)
 (Bahaiprayers.net ID: 6254)
+
+
 
 
 
@@ -701,6 +889,8 @@ Zibula Ayi Mukama amaaso g'abaddu bo basobole okukulaba; naaza emitima gy'abwe b
 (Bahaiprayers.net ID: 6268)
 
 
+
+
 ### <a id="bpn6269"></a> Prayer bpn6269 in Luganda
 Ayi Katonda omusaasizi!  Nkwebaza olw'okunzukusa era n'onfuula atageera. Ompadde eriiso eriraba, era n'ompa n'okutu okuwulira.  Ontute mu bwakabaka Bwo era onkulembedde mu kubo Lyo.  Ggwe ondaze ekkubo etuufu, era n'onyamba okuyingira mu Kyombo ky'okutokolebwa.  Ayi Katonda!  Onkuume obutasagasagana ate ongumye era onyambe okuba omunyweevu.  Onkuume okuva eri ebikemo eby'amaanyi, era onywereze mu kigo Kyo ekinyweevu eky'amaanyi, eky'Endagaano Yo n'eddaame Lyo.  Ggwe Oli wa buyinza, Ggwe Alaba, era Ggwe Awulira.
 Ayi Ggwe Katonda omusaasizi!  Ontonere omutima ogufanana ng'endabirwamu, oguyinza okutemagana n'omusana ogw'okwagala Kwo, era ompe ebirowoozo ebiyinza okukyusa ensi eno okugifuula olusuku olulungi olw'ebimuli nga oyita mu kugaba Kwo okw'omwoyo n'ekisa.
@@ -708,6 +898,8 @@ Ggwe Oli Musaasizi, Ow'ekisa, Ggwe Katonda Asingira ddala obugabi.
 
 (Source category: OKUTENDEREZA N'OKWEBAZA)
 (Bahaiprayers.net ID: 6269)
+
+
 
 
 
@@ -720,6 +912,8 @@ Abagalwa ba Katonda bateekwa okuwaayo mu nsawo y'enzikiriza ne bwe kaba katono k
 (Bahaiprayers.net ID: 6246)
 
 
+
+
 ### <a id="bpn6247"></a> Prayer bpn6247 in Luganda
 Ayi Katonda, Katonda wange!  Sanyusa emitima gy'abagalwa Bo era obayambe nga oyita mu bamalayika Bo ab'obuwan guzi obutakugirwa.  Lungamya ebigere byabwe mu kkubo Lyo eggolokofu, era okuva mu mukisa Gwo ogw'emirembe egyedda, baggulirewo emiryango gy'emikisa gyo; kubanga basasaanyiza ku by'obugagga bwabwe bye wabawa, mu kkubo Lyo, nga bakuuma enzikiriza Yo, era nga bateeka obwesige bwabwe mu kukujukira Ggwe, era nga tebakodowalira ebyo Ggwe by'ewabawa, kulw'okwagala obulungi Bwo era n'okunoonya ebyo ebikussanyusa.  
 Ayi Mukama wange!  Obatekeretekere omugabo Gwo ogwemala, o'okubaweera.
@@ -727,6 +921,8 @@ Ddala ddala, Ggwe oli Muwanirizi, Oli Muyambi, Oli Mugabi, Oli wa mukisa, Agaba 
 
 (Source category: OKUWAAYO MU NSAWO Y'ENZIKIRIZA)
 (Bahaiprayers.net ID: 6247)
+
+
 
 
 
@@ -739,6 +935,8 @@ Erinya Lyo kwe kuwona kwange, Ayi Mukama wange, era okukujukira, lye ddagala lya
 (Bahaiprayers.net ID: 6250)
 
 
+
+
 ### <a id="bpn6251"></a> Prayer bpn6251 in Luganda
 Ggwe Oyo, Ayi Katonga wange, nga oyita mu manya Go, abalwadde bawonyezzebwa, era n'abayi ne basuuka, abayonta ne banywa, era n'abawotose, ne batojjera, ababuze ne balungamizibwa, era n'abakopi, nebaweebwa ekitiibwa, abawejere, bagaggawazibwa era n'ababuya ne n'ebayiga, nabanyikaavu basanyusibwa era n'abalina ennaku n'ebabudabuddibwa, abanyogoze babuguumizibwa era n'abalinyirirwa bafuna eddembe.  Mu linya Lyo, Ayi Katonda wange, ebitonde byonna byafu'na essanyu, era n'eggulu lyabikuka, n'ensi yonna nebeerawo, n'ebire byonna ne byekulumuulula, ne biretera enkuba okutonyera ensi yonna.  Kino mu mazima ddala kabonero akalaga ekisa Kyo, eri ebitonde Byo byonna.
 N'olwekyo nkwegayirira kulw'erinya Lyo, eryo mwewalagira obwaKatonda Bwo, era mwe wagulumiririza Enzikiriza Yo okusukuluma ebitonde byonna, era na buli kimu ku bitiibwa Byo, era n'ebikolwa Byo ebirungi ebitayogerekeka, omuyita ettendo Lyo okugulumizibwa, otonyese mu kiro kino, enkuba ey'okuwonya Kwo, eri omuwere ono, Ggwe gwottadde okumpi nawe mu bwakabaka bw'ebitonde Byo.  Omwambaze Ayi Mukama, n'omunagiro gw'obulamu era n'okusuuka obulungi, omukuume, Ayi Omwagalwa wange, okuva mu kunyolwa kwonna, era n'obutali butebenkevu n'okuva ku kirala kyonna ekitakusanyusa Ggwe.  Amaanyi Gomu Mazima gasinga ebintu byonna.  Ggwe mu Mazima Ggwe Osingira ddala amaanyi, Eyemalirira.  Omuwbreze Ayi Mukama, ebirungi eby'omunsi eno n'ensi eriddirira, era eby'omumirembe egyayita, n'eby'emirembe egirigya, Amaanyi Go n'amagezi Go awatali kubusabusa g'enkanira ddala kino.
@@ -747,11 +945,15 @@ N'olwekyo nkwegayirira kulw'erinya Lyo, eryo mwewalagira obwaKatonda Bwo, era mw
 (Bahaiprayers.net ID: 6251)
 
 
+
+
 ### <a id="bpn6249"></a> Prayer bpn6249 in Luganda
 Essaala ezabikulwa okusaba okuwonyezebwa zikozesebwa okusaba okuwonya okw'omubiri, n'okw'omwoyo.  Bwotyo zisabe olw'okuwonyo omwoyo nomubiri.
 
 (Source category: OKUWONYA)
 (Bahaiprayers.net ID: 6249)
+
+
 
 
 
@@ -768,11 +970,15 @@ Obuyinza Bwo bw'ankalakalira.
 (Bahaiprayers.net ID: 6233)
 
 
+
+
 ### <a id="bpn6234"></a> Prayer bpn6234 in Luganda
 Ayi Katonda wange era Mukama wange!  Negyekubange, era nga mpita mu Ggwe, noonya okwegya ku bonna ababeera munsi.  Bulijjo mbeere mweteefuteefu okufuna ekyo ekitenderezebwa mu maaso Go.  Mbunduggulaako ebirungi ebinanzigya ku kirala kyonna wabula Ggwe, era ompe omugabo ogwemala, okuva ku migabo Gyo egitakoma.   Ddala ddala Ggwe Mukama Ow'omukisa Ogutakugirwa.
 
 (Source category: OKWEGYA KU BY'ENSI)
 (Bahaiprayers.net ID: 6234)
+
+
 
 
 
@@ -787,6 +993,8 @@ Ggwe oli wakisa, Omugabi, Omutonyi, Asingira ddala amaanyi, Alaga ekisa, Omusaas
 (Bahaiprayers.net ID: 6275)
 
 
+
+
 ### <a id="bpn6276"></a> Prayer bpn6276 in Luganda
 *Mukungaanire wamu, mu ssanyu eritalinaamu nnyike, Olwo ku ntandikwo Y'olukkungaano lwamwe musome essaala eno:
 Ayi Ggwe Mukama ow'obwakabaka!  Wadde nga emibiri gyaffe gikungaanidde wamu, naye emitima gyaffe, giweddemu ne gitwalibwa okwagala Kwo, era ne tusanyusibwa amaaso Go ag'ekisa.  Wadde nga tuli banafu, tulindirira okubikkulirwa amaanyi ag'obuyinza Bwo.  Wadde nga tuli bankuseere abatalina kantu wadde akatono, naye era tufuna eby'obugagga, okuva mu mawanika g'obwakabaka Bwo.  Wadde nga tuli nga amatondo, naye era tusena okuva mubuziba bw'ennyanja Yo, wadde nga tuli nga obuwojjolo, naye obutangiavu bwaffe, bulabikira mu kitiibwa ekY'omusana Ggwo.
@@ -794,6 +1002,8 @@ Ayi Ggwe omugabirizi, tuwereeza obuyambi Bwo.  Olwo buli omu kuffe abakungaanidd
 
 (Source category: OLUKIIKO OLW'OMWOYO)
 (Bahaiprayers.net ID: 6276)
+
+
 
 
 ### <a id="bpn6277"></a> Prayer bpn6277 in Luganda
@@ -805,6 +1015,9 @@ Ddala ddala, Ggwe Oli Mugabi, atukwatirwa ekisa, Ggwe alina ebirungi byonna, era
 
 (Source category: OLUKIIKO OLW'OMWOYO)
 (Bahaiprayers.net ID: 6277)
+
+
+
 
 
 

@@ -3,6 +3,28 @@ title = "American Indian"
 tags = ['lang=nai-US', 'prayerbook']
 +++
 
+
+
+[Chippewa](#Chippewa)
+
+[Kumeyaay](#Kumeyaay)
+
+[Lakota](#Lakota)
+
+[Mescalero / Apache](#Mescalero / Apache)
+
+[Mohegan-Pequot](#Mohegan-Pequot)
+
+[Mono](#Mono)
+
+[Navajo](#Navajo)
+
+[Saulteaux](#Saulteaux)
+
+[Shoshone](#Shoshone)
+
+
+
 ## Chippewa
 
 ### <a id="bpn6846"></a> Prayer bpn6846 in American Indian
@@ -43,6 +65,8 @@ hath been made, and His praise glorified.
 (Bahaiprayers.net ID: 6846)
 
 
+
+
 ### <a id="bpn5406"></a> Prayer bpn5406 in American Indian
 O Manitou Ogwissiman! Neen - nitam - gegitowin - oway: Nin - dan Benidewin, Kijewadisiwin, gaie, Wasseiasiwin kide, eway - Keen, che - atake, Kitchi - Ogimawin, Gete, Gashkiewisiwin gaie kagige.  
 
@@ -50,6 +74,8 @@ O Son of Spirit!  My first counsel is this: Possess a pure, kindly and radiant
 
 (Source category: Chippewa)
 (Bahaiprayers.net ID: 5406)
+
+
 
 
 ### <a id="bpn5405"></a> Prayer bpn5405 in American Indian
@@ -61,6 +87,8 @@ O Gitchi - Manitou! Kegagwetchemin chiminut, ni - manitoum chi - min - ain - dun
 
 (Source category: Chippewa)
 (Bahaiprayers.net ID: 5405)
+
+
 
 
 
@@ -76,6 +104,8 @@ Osi vitte Kueichanchyo, netitinihsha, Nit tsut, Kititihchya tenitenitutula. Kenj
 (Bahaiprayers.net ID: 4156)
 
 
+
+
 ### <a id="bpn4154"></a> Prayer bpn4154 in American Indian
 Ma Mi-shitz-pul quootch-man, O Myha, puy me-cha Myha coo-see-eye. Hull-pie r Myha, yi-um-a Myhab new-eye. Myha new-way new-man a mik-u-wik cow-wuk mut-pe-ya mut-ye-mitch qew-u. Myha, neamages, nea-wu chums You-witches, nea-wu chums We-ow, nea-wu chums Pie-qua-chatch.
 
@@ -85,6 +115,8 @@ Ma Mi-shitz-pul quootch-man, O Myha, puy me-cha Myha coo-see-eye. Hull-pie r Myh
 (Bahaiprayers.net ID: 4154)
 
 
+
+
 ### <a id="bpn4155"></a> Prayer bpn4155 in American Indian
 My-shin ta-pow mauw Ma-eye Myha cum-lie Anusch? Keye Myha a-chan! Ne-ip Myah! Nea chums Myha muk-a-wik witch, nea chums we-eech-pull me na!.
 
@@ -92,6 +124,8 @@ My-shin ta-pow mauw Ma-eye Myha cum-lie Anusch? Keye Myha a-chan! Ne-ip Myah! Ne
 
 (Source category: Kumeyaay)
 (Bahaiprayers.net ID: 4155)
+
+
 
 
 ### <a id="bpn4153"></a> Prayer bpn4153 in American Indian
@@ -104,6 +138,8 @@ Qua-han, Myha Muk-u-wik Myha Quaw-tie.
 
 (Source category: Kumeyaay)
 (Bahaiprayers.net ID: 4153)
+
+
 
 
 
@@ -138,6 +174,8 @@ Tuwé ke éyaš tȟawówaši héčhapi, tuwé kiŋ iyúha iyé tȟaw
 (Bahaiprayers.net ID: 8003)
 
 
+
+
 ### <a id="bpn4275"></a> Prayer bpn4275 in American Indian
 Waayantanin bluha
 Wakantanka mitawa
@@ -160,6 +198,8 @@ There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 (Bahaiprayers.net ID: 4275)
 
 
+
+
 ### <a id="bpn4142"></a> Prayer bpn4142 in American Indian
 Wakȟáŋ Tȟáŋka mitȟáwa kiŋ, slolčhíyiŋ na wakȟáŋčhila kta čha mayákaǧe k’uŋ hé blaátȟaŋiŋ.
 
@@ -177,6 +217,8 @@ Wakȟáŋ Tȟáŋka waŋžíla k’uŋ hé niyé, wókȟokipȟe ičhúŋhaŋ waw
 (Bahaiprayers.net ID: 4142)
 
 
+
+
 ### <a id="bpn4274"></a> Prayer bpn4274 in American Indian
 Nita Caje he woakisni mitawa, o mita Wakan Tanka, na ciksuye ki han he ookiye mitawa. Nikiyela ki han he awacin mitawa nahan tecihila ki han he mita kola. Wowaunsila Nitawa ki he le ounyan nahan ounyan iyokihe nupin ekta woakisni mitawa na wawokiye mitawa numwe. Tuwa Waoh’anpi Owas’in ki, Tuwa lyuha Waslolye ki, Tuwa lyuha.
 
@@ -184,6 +226,8 @@ Nita Caje he woakisni mitawa, o mita Wakan Tanka, na ciksuye ki han he ookiye mi
 
 (Source category: Lakota)
 (Bahaiprayers.net ID: 4274)
+
+
 
 
 ### <a id="bpn4273"></a> Prayer bpn4273 in American Indian
@@ -196,11 +240,15 @@ Awicalustanpiktesni, tka, Nita wooslolye oiyoyanpa ogna siowepi cankuwicayayinkt
 (Bahaiprayers.net ID: 4273)
 
 
+
+
 ### <a id="bpn4139"></a> Prayer bpn4139 in American Indian
 Oyáŋke kiŋ na thípi kiŋ yawáštepi na owáŋka kiŋ, na otȟúŋwahe kiŋ na čhaŋté kiŋ, na ȟé kiŋ na oónakižiŋ kiŋ, na iǧúǧa oȟlóka kiŋ na ósmaka kiŋ, na makȟóčhe kiŋ na mniwáŋča kiŋ, na wíta kiŋ na obláye waŋ ektá Wakȟáŋ Tȟáŋka káǧapi k’uŋ hé, na ektá tȟawóyawašte wóčhažeyalyapi.
 
 (Source category: Lakota)
 (Bahaiprayers.net ID: 4139)
+
+
 
 
 ### <a id="bpn4140"></a> Prayer bpn4140 in American Indian
@@ -212,6 +260,8 @@ Wakȟáŋ Tȟáŋka kiŋ išnála wótheȟi yuȟéyab ičú.  Heyá po: Wakȟá�
 (Bahaiprayers.net ID: 4140)
 
 
+
+
 ### <a id="bpn4141"></a> Prayer bpn4141 in American Indian
 Wakȟáŋ Tȟáŋka, kašká mayúza yo, awáŋmaglaka yo, pȟetížaŋžaŋ wíyakpa na wičháȟpi iléǧa čha makáǧa yo.
  Waníš’akiŋ na wíyoyakihi. 
@@ -220,6 +270,8 @@ Wakȟáŋ Tȟáŋka, kašká mayúza yo, awáŋmaglaka yo, pȟetížaŋžaŋ wí
 
 (Source category: Lakota)
 (Bahaiprayers.net ID: 4141)
+
+
 
 
 
@@ -236,6 +288,8 @@ Bikeguidan ne na sha: Bikeguidan nibika’ nshinzti negusií, ashi ni chi itedis
 
 
 
+
+
 ## Mohegan-Pequot
 
 ### <a id="bpn4145"></a> Prayer bpn4145 in American Indian
@@ -248,6 +302,8 @@ Kiyawun wámi wucshák Manto, qá yaqi nákum mus kuputukimun.
 (Bahaiprayers.net ID: 4145)
 
 
+
+
 ### <a id="bpn4144"></a> Prayer bpn4144 in American Indian
 Iwásh: Manto wustô tapi cáqansh wámi wáwápi cáqansh wámi qa mucáq ayômi kisuquk qa akiki wipi Manto wástwaunash tapi. Wáyômwáti isuw wahakák Wáhtôk, Kotunihtôk, Mihkikut wuci wami.
 
@@ -257,6 +313,8 @@ Iwásh: Manto wustô tapi cáqansh wámi wáwápi cáqansh wámi qa mucáq ayôm
 (Bahaiprayers.net ID: 4144)
 
 
+
+
 ### <a id="bpn4143"></a> Prayer bpn4143 in American Indian
 Qutaháwowi Kuqunôhqusuw, O Manto! Pohqasunan wucina matôpáwôk wuci áyhqapi ta wuták nahakunônuk, wáwápi nuhkunôkunônak, wáwápi nuhkunôkunônak, nutunahk, numiyac, aqu nusitunônash ta wami ôkutak wusash yôcánáyak matôpáwôk. Mohci, Ki kuwacônô wámi nánôwiyuw sôhkáyan micimi.
 
@@ -264,6 +322,8 @@ Qutaháwowi Kuqunôhqusuw, O Manto! Pohqasunan wucina matôpáwôk wuci áyhqapi
 
 (Source category: Mohegan-Pequot)
 (Bahaiprayers.net ID: 4143)
+
+
 
 
 
@@ -277,6 +337,8 @@ Nu vo ada han e cuda e Tanawa Tanawa e wap pie-it nush ta Weed cada my a too Wee
 
 (Source category: Mono)
 (Bahaiprayers.net ID: 4164)
+
+
 
 
 
@@ -294,6 +356,8 @@ There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 (Bahaiprayers.net ID: 4171)
 
 
+
+
 ### <a id="bpn4170"></a> Prayer bpn4170 in American Indian
 Yízhí bee Ni’dóójíinii ‘éí náshííldzii’, shi Diyin Nílíinii, áádóó bee nééhanihii ‘éí bee náádiisdzá.
 Níighahgii anísht’é dooleel ‘éí laanaa nisin ‘áádóó shee ayóó’ó’ó’ni Nil hólóó ‘éí bee náás yiisháál. Bee shaajíníba’ígíí ‘éí    
@@ -304,6 +368,8 @@ Ni, t’áá ‘aní, t’áá ‘altsoní Baanidlee’ t’áá ‘altsóní  N
 
 (Source category: Navajo)
 (Bahaiprayers.net ID: 4170)
+
+
 
 
 ### <a id="bpn4169"></a> Prayer bpn4169 in American Indian
@@ -318,6 +384,8 @@ T’áá “aaníí, Ni bíká ‘anánílwo’í í Nílí áádóó Binanit’
 (Bahaiprayers.net ID: 4169)
 
 
+
+
 ### <a id="bpn4167"></a> Prayer bpn4167 in American Indian
 Bik’ihojidlíigo haz’á lahgo, ‘índa dahooghangóó dóó dabinaagóó dóó kin hadaas áágóó. dóó hajéí dabiyi’góó, dóó nléí dzil dani’áágóó, dóó nléí yisdádahwiit’ééhgóó, dóó tsé’áán góne’ dóó tééh góyáá, dóó kéyah dah naazkaad bikáá’góó, dóó tálkáá’góó, dóó nléí kéyah tálkáá’ dah naaznilgóó, dóó dahootsogóó, dóó ha’át’éegi da ‘Aláahdi Diyin Nilíinii bee ‘ahil dahani’ góó dóó ‘Aláahdi Diyin Nilíinii dadílzingóó.
 
@@ -327,6 +395,8 @@ Bik’ihojidlíigo haz’á lahgo, ‘índa dahooghangóó dóó dabinaagóó d�
 (Bahaiprayers.net ID: 4167)
 
 
+
+
 ### <a id="bpn4168"></a> Prayer bpn4168 in American Indian
 Aláahdi Diyin Nilíinii ts’ídá daats’í ’éí t’éiyá yá’át’éehgo hasht’e’ ninánihidoo’nilgo haz’á? Dooda, ‘éí doo ‘ákót’ée da.   Aláshdi Diyin Nilíinii t’óó nahdéé’ nihá yik’eh áhósingo dóó yee nihich’i yálti’íí bik’ehgóó ániit’éego ‘éí bee t’áá nihí ‘ádíká ‘anídiilwolgo haz’á. Bee ha’hóníinii dóó bee ‘adsiil nilíinii ts’ídá ‘éí t’éiya nihá hólóogo ‘ayósin Aláahdi Diyin Nilíinii. ‘Ayóó ‘ádayíníi’níigo bich’i’ ntsídeikeesígíí ‘éí Bá nideilnishii ‘ádaniit’é, áádóó ‘índa ts’ídá lá kót’éego ‘áda’joolíil dooleel ni niho’níigo yee nihich’i’ ntsékeesígíí t’aa nihil béédahózinígi ‘altso bik’ehgóó ádaniit’é, t’áá ‘altso bida’ííníilzin.
 
@@ -334,6 +404,8 @@ Aláahdi Diyin Nilíinii ts’ídá daats’í ’éí t’éiyá yá’át’é
 
 (Source category: Navajo)
 (Bahaiprayers.net ID: 4168)
+
+
 
 
 
@@ -350,6 +422,8 @@ There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 
 
 
+
+
 ## Shoshone
 
 ### <a id="bpn4277"></a> Prayer bpn4277 in American Indian
@@ -361,6 +435,8 @@ NA SOON DI SEEKH, DEAS DA GANIH, DEAS SOOKH DEAS DA SOH GANIH, DEAS DA BEYUH, DE
 (Bahaiprayers.net ID: 4277)
 
 
+
+
 ### <a id="bpn4276"></a> Prayer bpn4276 in American Indian
 DA-MEH UPEH, DA-MEH UPEH,
 SEMES DA-NEH-MEH-NEH HA BEYUH MEH, DEAS MA-DE-ZA-POING DA BE-YAH NA-HA-NEE-DOH SOO- WI-KH DA-MEH UPEH DE-NEE TA GWAP DEAS DA DE-NEE-TA-GWAP KOOPH NAHK. MA DE DE-MA-ZI, UPEH, SU-KA MA-DEH HA-NEE DOH, DEAS GU-TA MA DEH M-EH SOO-NEEK SEE-DEH U-MA-BEE-ZA-KHON-DOH. DAMEH UPEH. GA DEAS MA-DEH ZA-PEH-TINDH, MA-DEH-DAH-TI-GEEK, MA-DEH NA-SOO BA-DU KHAN DOH, SOO-KA DA-NA-BOO-IPH. DEAS MA-DEH BE-YUH ZA-NEE-SHOON-GAH, MA-DEH GA-ME-NGH.
@@ -369,6 +445,9 @@ SEMES DA-NEH-MEH-NEH HA BEYUH MEH, DEAS MA-DE-ZA-POING DA BE-YAH NA-HA-NEE-DOH S
 
 (Source category: Shoshone)
 (Bahaiprayers.net ID: 4276)
+
+
+
 
 
 

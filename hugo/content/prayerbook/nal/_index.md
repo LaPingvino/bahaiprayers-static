@@ -3,6 +3,26 @@ title = "Nalik"
 tags = ['lang=nal', 'prayerbook']
 +++
 
+
+
+[A Vaaratulaaiing sin Ahmád (Tablet of Ahmád)](#A Vaaratulaaiing sin Ahmád (Tablet of Ahmád))
+
+[A Vaaroving i la waanas (Short obligatory prayer)](#A Vaaroving i la waanas (Short obligatory prayer))
+
+[A Vaaroving i pan a Vatuing (Unity)](#A Vaaroving i pan a Vatuing (Unity))
+
+[A Vaaroving i pana Naande di Waan Fis (Funeral)](#A Vaaroving i pana Naande di Waan Fis (Funeral))
+
+[A Vaaroving i pana Virviraing (healing)](#A Vaaroving i pana Virviraing (healing))
+
+[A Vaaroving i wan a Vaarmuxosing (Marriage)](#A Vaaroving i wan a Vaarmuxosing (Marriage))
+
+[A Vaaroving kun a Zaan di Yaalaxaaf (Remover of Difficulties)](#A Vaaroving kun a Zaan di Yaalaxaaf (Remover of Difficulties))
+
+[A Vaaroving sin a Funalik Naat (Children)](#A Vaaroving sin a Funalik Naat (Children))
+
+
+
 ## A Vaaratulaaiing sin Ahmád (Tablet of Ahmád)
 
 ### <a id="bpn13016"></a> Prayer bpn13016 in Nalik
@@ -38,6 +58,8 @@ Faaratunaan marase, Naan a Baraai a Varamaalufing ma Naan ka i puuk saait.  Saau
 
 
 
+
+
 ## A Vaaroving i la waanas (Short obligatory prayer)
 
 ### <a id="bpn13009"></a> Prayer bpn13009 in Nalik
@@ -50,6 +72,8 @@ O a vaartulaaiing a ku Nakmai, Nu a wanga na vaaribuking aang ni kuna ga na rexa
 
 
 
+
+
 ## A Vaaroving i pan a Vatuing (Unity)
 
 ### <a id="bpn13011"></a> Prayer bpn13011 in Nalik
@@ -57,6 +81,8 @@ Saaule Nakmai!  Saaule Nakmai!  Fatuing a mun mamaangon a yaanakilaaing Sunum.  
 
 (Source category: A Vaaroving i pan a Vatuing (Unity))
 (Bahaiprayers.net ID: 13011)
+
+
 
 
 
@@ -102,6 +128,8 @@ Kalxal di zi marangingit saxot a Nakmai. (Fazangaaflu ma vizikfaat.)
 
 
 
+
+
 ## A Vaaroving i pana Virviraing (healing)
 
 ### <a id="bpn13012"></a> Prayer bpn13012 in Nalik
@@ -109,6 +137,8 @@ Saaule Nakmai!  Pan a Izaam ka malasing a virviraing ku ni. Pan a nonomaaing pan
 
 (Source category: A Vaaroving i pana Virviraing (healing))
 (Bahaiprayers.net ID: 13012)
+
+
 
 
 
@@ -133,6 +163,8 @@ Bahá'u'lláh
 
 
 
+
+
 ## A Vaaroving kun a Zaan di Yaalaxaaf (Remover of Difficulties)
 
 ### <a id="bpn13010"></a> Prayer bpn13010 in Nalik
@@ -143,6 +175,8 @@ Tamon a mun saan di yaalaxaaf di na paazaai be wan a Nakmai?  Fakilaan: a vavisf
 
 
 
+
+
 ## A Vaaroving sin a Funalik Naat (Children)
 
 ### <a id="bpn13014"></a> Prayer bpn13014 in Nalik
@@ -150,6 +184,9 @@ Saaule Nakmai, famazaam a funalik aakare.  A funalik aakare a fnuaai i la maskan
 
 (Source category: A Vaaroving sin a Funalik Naat (Children))
 (Bahaiprayers.net ID: 13014)
+
+
+
 
 
 

@@ -3,6 +3,82 @@ title = "Dansk"
 tags = ['lang=da', 'prayerbook']
 +++
 
+
+
+[Adskillelsens Ild](#Adskillelsens Ild)
+
+[Aften](#Aften)
+
+[Beskyttelse](#Beskyttelse)
+
+[Besøgelsens Breve](#Besøgelsens Breve)
+
+[Brevet Til Ahmad](#Brevet Til Ahmad)
+
+[Bønner For Undervisning Fra Den Guddommelige Plans Breve](#Bønner For Undervisning Fra Den Guddommelige Plans Breve)
+
+[Børn Og Unge](#Børn Og Unge)
+
+[Den Døde](#Den Døde)
+
+[Den Hellige Søfarer](#Den Hellige Søfarer)
+
+[Enhed](#Enhed)
+
+[Familier](#Familier)
+
+[Fasten](#Fasten)
+
+[Fonden](#Fonden)
+
+[For Den Døde](#For Den Døde)
+
+[Frigjorthed](#Frigjorthed)
+
+[Helbredelse](#Helbredelse)
+
+[Hjælp Og Støtte](#Hjælp Og Støtte)
+
+[Indskudsdagene](#Indskudsdagene)
+
+[Kort Obligatorisk Bøn](#Kort Obligatorisk Bøn)
+
+[Lang Bøn For Helbredelse](#Lang Bøn For Helbredelse)
+
+[Lang Obligatorisk Bøn](#Lang Obligatorisk Bøn)
+
+[Lovprisning Og Taknemmelighed](#Lovprisning Og Taknemmelighed)
+
+[Menneskeheden](#Menneskeheden)
+
+[Middellang Obligatorisk Bøn](#Middellang Obligatorisk Bøn)
+
+[Morgen](#Morgen)
+
+[Møder](#Møder)
+
+[Nytår](#Nytår)
+
+[Pagten](#Pagten)
+
+[Prøvelser Og Vanskeligheder](#Prøvelser Og Vanskeligheder)
+
+[Standhaftighed](#Standhaftighed)
+
+[Tilgivelse](#Tilgivelse)
+
+[Troens Sejr](#Troens Sejr)
+
+[Undervisning](#Undervisning)
+
+[Åndelige Egenskaber](#Åndelige Egenskaber)
+
+[Åndelige Råd](#Åndelige Råd)
+
+[Ægteskab](#Ægteskab)
+
+
+
 ## Adskillelsens Ild
 
 ### <a id="bpn8148"></a> Prayer bpn8148 in Dansk
@@ -189,6 +265,8 @@ Om alle tjenerne læste og overvejede dette, vil der i deres årer blive tændt 
 
 
 
+
+
 ## Aften
 
 ### <a id="bpn8006"></a> Prayer bpn8006 in Dansk
@@ -198,6 +276,8 @@ Ingen Gud er der uden Dig, Den Almægtige, Den Altbesejrende, Den Ubetingede.
 
 (Source category: Aften)
 (Bahaiprayers.net ID: 8006)
+
+
 
 
 ### <a id="bpn8007"></a> Prayer bpn8007 in Dansk
@@ -213,6 +293,8 @@ Dette er mit oprigtige håb og håbet for dem, der kan glæde sig ved at være D
 (Bahaiprayers.net ID: 8007)
 
 
+
+
 ### <a id="bpn8008"></a> Prayer bpn8008 in Dansk
 O du sandhedssøgende! Hvis du ønsker, at Gud skal åbne dine øjne, må du anråbe Gud, bede til Ham og samtale med Ham ved midnat og sige:
 
@@ -222,6 +304,8 @@ O Herre, oplys mit syn ved at skue Dine lys i denne mørke nat og gør mig glad 
 
 (Source category: Aften)
 (Bahaiprayers.net ID: 8008)
+
+
 
 
 
@@ -246,6 +330,8 @@ Du er i sandhed Den Alherlige, Den Mest Gavmilde.
 (Bahaiprayers.net ID: 8009)
 
 
+
+
 ### <a id="bpn8010"></a> Prayer bpn8010 in Dansk
 Lovpriset være Du, o Herre min Gud! Dette er Din tjener, der af Din nådes hænder har drukket Din milde barmhjertigheds vin og smagt sødmen i Din kærlighed i Din tid. Jeg bønfalder Dig, ved legemliggørelserne af Dine navne, som ingen sorg kan forhindre i at glædes i Din kærlighed eller beskue Dit ansigt, og som alle de ligegyldiges skarer ikke magter at vende fra Din glædes vej, om at forsyne ham med de goder, Du besidder, og løfte ham op til sådanne højder, at han vil betragte verden som en skygge, der flygter hastigere end øjets blinken.
 
@@ -253,6 +339,8 @@ Bevar ham også sikkert, o min Gud, ved kraften i Din ubegrænsede storhed, for 
 
 (Source category: Beskyttelse)
 (Bahaiprayers.net ID: 8010)
+
+
 
 
 ### <a id="bpn8011"></a> Prayer bpn8011 in Dansk
@@ -264,6 +352,8 @@ Bevar Dine tjenere og Dine tjenerinder, o min Herre, mod tomme drømme og forfæ
 (Bahaiprayers.net ID: 8011)
 
 
+
+
 ### <a id="bpn8012"></a> Prayer bpn8012 in Dansk
 O Gud, min Gud! Jeg har begivet mig bort fra mit hjem, medens jeg holder fast ved Din kærligheds reb, og har overgivet mig helt til Din omsorg og beskyttelse. Jeg anråber Dig ved Din magt, hvormed Du beskyttede Dine elskede mod de oprørske og de onde og mod enhver ubøjelig tyran og enhver forøver af ondt, der har forvildet sig bort fra Dig, om ved Din gavmildhed og Din nåde at bevare mig i sikkerhed. Lad mig da vende tilbage til mit hjem ved hjælp af Din styrke og Din magt.
 
@@ -271,6 +361,8 @@ Du er i sandhed Den Almægtige, Hjælpen i Fare, den Selvbestående.
 
 (Source category: Beskyttelse)
 (Bahaiprayers.net ID: 8012)
+
+
 
 
 ### <a id="bpn8013"></a> Prayer bpn8013 in Dansk
@@ -288,6 +380,8 @@ Der er ingen magt eller styrke undtagen hos Gud, Den Mest Ophøjede, Den Mægtig
 (Bahaiprayers.net ID: 8013)
 
 
+
+
 ### <a id="bpn8014"></a> Prayer bpn8014 in Dansk
 Æret være Du, o Gud! Du er den Gud, der har levet før alt, der vil leve efter alt og vil vare ud over alt. Du er den Gud, der ved alt og er over alt. Du er den Gud, der handler barmhjertigt med alt, der dømmer mellem alt, og hvis fremsyn omfatter alt. Du er Gud min Herre, Du kender mit stade, Du bekræfter mit indre og ydre væsen.
 
@@ -295,6 +389,8 @@ Skænk Din tilgivelse til mig og til de troende, der har besvaret Din kalden. V�
 
 (Source category: Beskyttelse)
 (Bahaiprayers.net ID: 8014)
+
+
 
 
 ### <a id="bpn8015"></a> Prayer bpn8015 in Dansk
@@ -310,6 +406,8 @@ Uendelig ophøjet er Du, o Herre! Beskærm os mod det, der ligger foran os og ba
 (Bahaiprayers.net ID: 8015)
 
 
+
+
 ### <a id="bpn8029"></a> Prayer bpn8029 in Dansk
 O Gud, min Gud! Værn Dine betroede tjenere mod selvets og lidenskabens onder, beskyt dem med Din kærligheds årvågne øje mod al bitterhed, had og misundelse, skærm dem i Din omsorgs uindtagelige fæstning og gør dem, i sikkerhed for tvivlens pile, til manifesteringer af Dine herlige tegn, oplys deres ansigter med de funklende stråler, der kastes fra Din guddommelige enheds daggry, fryd deres hjerter med versene der er åbenbaret fra Dit hellige rige, styrk deres lænder med Din altbeherskende kraft, der kommer fra Din herligheds rige. Du er Den Mest Gavmilde, Beskytteren, Den Almægtige, Den Nådige.
 
@@ -319,6 +417,8 @@ O Gud, min Gud! Værn Dine betroede tjenere mod selvets og lidenskabens onder, b
 (Bahaiprayers.net ID: 8029)
 
 
+
+
 ### <a id="bpn8030"></a> Prayer bpn8030 in Dansk
 O min Herre! Du ved, at folket er indkredset af smerte og ulykker og omgivet af lidelser og bekymring. Alle prøvelser rammer mennesket, og enhver alvorlig hjemsøgelse angriber det som angrebet fra en slange. Der er intet ly eller tilflugt for det undtagen under vingen af Din beskyttelse, bevarelse, bevogtning og varetægt. O Du den Barmhjertige! O min Herre! Gør din beskærmelse til min rustning, Din bevarelse til mit skjold, ydmyghed foran Din enheds dør til min vogter og Din varetægt og Dit forsvar til min fæstning og min bolig. Bevar mig mod selvets og begærets indskydelser og beskyt mig mod enhver sygdom, prøvelse, vanskelighed og pine.
 
@@ -326,6 +426,8 @@ I sandhed, Du er Beskytteren, Vogteren, Bevareren, Den Fyldestgørende, og sande
 
 (Source category: Beskyttelse)
 (Bahaiprayers.net ID: 8030)
+
+
 
 
 
@@ -354,6 +456,8 @@ Velsign Du, o Herre min Gud, Det Guddommelige Lotustræ og dets blade og dets gr
 (Bahaiprayers.net ID: 8150)
 
 
+
+
 ### <a id="bpn8151"></a> Prayer bpn8151 in Dansk
 Denne bøn, åbenbaret af ’Abdu’l-Bahá læses ved hans gravmæle. Den benyttes også ved personlig bøn.
 
@@ -373,6 +477,8 @@ Du er Giveren, Den Medlidende, Den mest Gavmilde, Den Nådige, Den Barmhjertige,
 
 (Source category: Besøgelsens Breve)
 (Bahaiprayers.net ID: 8151)
+
+
 
 
 
@@ -422,6 +528,8 @@ I sandhed, Han er Den Barmhjertige, Den Medfølende. Lovet være Gud, Herren ove
 
 
 
+
+
 ## Bønner For Undervisning Fra Den Guddommelige Plans Breve
 
 ### <a id="bpn8154"></a> Prayer bpn8154 in Dansk
@@ -433,6 +541,8 @@ I sandhed, Du er Den Magtfulde, Den Mægtige og Den Almægtige, og Du er Den Vis
 
 (Source category: Bønner For Undervisning Fra Den Guddommelige Plans Breve)
 (Bahaiprayers.net ID: 8154)
+
+
 
 
 ### <a id="bpn8155"></a> Prayer bpn8155 in Dansk
@@ -450,6 +560,8 @@ Sandelig, Du er Bekræfteren, for hvem Du end vil det, i hvad Du ønsker, og san
 (Bahaiprayers.net ID: 8155)
 
 
+
+
 ### <a id="bpn8156"></a> Prayer bpn8156 in Dansk
 Lad enhver, der rejser i forskellige egne for at undervise læse denne bøn over bjerg, ørken, land og hav.
 
@@ -465,6 +577,8 @@ I sandhed, Du er Den Milde, Den Magtfulde, Den Mægtige og Den Mest Barmhjertige
 
 (Source category: Bønner For Undervisning Fra Den Guddommelige Plans Breve)
 (Bahaiprayers.net ID: 8156)
+
+
 
 
 ### <a id="bpn8157"></a> Prayer bpn8157 in Dansk
@@ -496,6 +610,8 @@ I sandhed, Du er Den Mest Gavmilde, Herren af rig nåde og i sandhed, Du er Den 
 (Bahaiprayers.net ID: 8157)
 
 
+
+
 ### <a id="bpn8158"></a> Prayer bpn8158 in Dansk
 Den følgende bøn skal læsesdagligt af lærerne og vennerne.
 
@@ -513,6 +629,8 @@ Sandelig, Du er Den Magtfulde, Den Mægtige, Den Vise og Den Seende.
 (Bahaiprayers.net ID: 8158)
 
 
+
+
 ### <a id="bpn8159"></a> Prayer bpn8159 in Dansk
 Hver sjæl, som rejser gennem byerne og landsbyerne i disse stater og er optaget af at sprede Guds vellugte, bør læse denne bøn hver morgen.
 
@@ -528,6 +646,8 @@ Du er Den Almægtige og den der gør, hvad Du vil.
 (Bahaiprayers.net ID: 8159)
 
 
+
+
 ### <a id="bpn8160"></a> Prayer bpn8160 in Dansk
 Lad dem, der spreder Guds vellugte, fremsige denne bøn hver morgen.
 
@@ -541,6 +661,8 @@ O Herre! Jeg er svag, styrk mig ved Din kraft og magt. Min tunge svigter, lad mi
 (Bahaiprayers.net ID: 8160)
 
 
+
+
 ### <a id="bpn8161"></a> Prayer bpn8161 in Dansk
 Den følgende bøn skal læses... hver dag.
 
@@ -552,6 +674,8 @@ O Herre! Jeg er ensom, alene og ringe. For mig findes der ingen støtte undtagen
 (Bahaiprayers.net ID: 8161)
 
 
+
+
 ### <a id="bpn8162"></a> Prayer bpn8162 in Dansk
 Priset være Du, o min Gud! Disse er Dine tjenere, der er tiltrukket af Din barmhjertigheds dufte, optændte af den ild, der brænder i Din enheds træ, og hvis øjne er blevet oplyste ved at se stråleglansen fra lyset, der skinner på Din enheds Sinai.
 
@@ -561,6 +685,8 @@ I sandhed, Du er Den Almægtige, Den Mest Ophøjede, Den Evigt Tilgivende, Den A
 
 (Source category: Bønner For Undervisning Fra Den Guddommelige Plans Breve)
 (Bahaiprayers.net ID: 8162)
+
+
 
 
 ### <a id="bpn8163"></a> Prayer bpn8163 in Dansk
@@ -579,6 +705,8 @@ Sandelig, Du er Den Magtfulde, Den Mægtige og Den Almægtige.
 
 
 
+
+
 ## Børn Og Unge
 
 ### <a id="bpn8031"></a> Prayer bpn8031 in Dansk
@@ -592,6 +720,8 @@ Priset være Du, o min Mest Elskede, før de søde dufte fra Din overjordiske ga
 (Bahaiprayers.net ID: 8031)
 
 
+
+
 ### <a id="bpn8032"></a> Prayer bpn8032 in Dansk
 O Du uforlignelige Herre! Lad dette spæde barn blive næret ved Din kærlige omsorgs bryst, beskyt det i Din sikkerheds og beskyttelses vugge og lad det vokse op i Din milde kærligheds arme.
 
@@ -599,11 +729,15 @@ O Du uforlignelige Herre! Lad dette spæde barn blive næret ved Din kærlige om
 (Bahaiprayers.net ID: 8032)
 
 
+
+
 ### <a id="bpn8033"></a> Prayer bpn8033 in Dansk
 O Gud! Lad dette lille barn blive opfostret i Din kærligheds favn og giv det mælk fra Dit forsyns bryst. Dyrk denne unge plante i Din kærligheds rosenhave og hjælp den at vokse op med Din gavmildheds byger. Gør det til et barn af kongeriget og led det til Dit himmelske rige. Du er stærk og god, og Du er Giveren, Den Gavmilde, Herren af overvældende nåde.
 
 (Source category: Børn Og Unge)
 (Bahaiprayers.net ID: 8033)
+
+
 
 
 ### <a id="bpn8034"></a> Prayer bpn8034 in Dansk
@@ -615,11 +749,15 @@ Lad Din brise forfriske dem, at de kan blive opøvet, vokse og udvikle sig og fr
 (Bahaiprayers.net ID: 8034)
 
 
+
+
 ### <a id="bpn8035"></a> Prayer bpn8035 in Dansk
 O Du gode Herre! Disse dejlige børn er hvad Din krafts hænder har formet og de vidunderlige tegn på Din storhed. O Gud! Beskyt disse børn, hjælp dem nådigt til at udvikle sig og gør dem rede til at tjene menneskehedens verden. O Gud! Disse børn er perler, lad dem blive opfostret i Din kærligheds muslingeskal. Du er Den Gavmilde, den der elsker alle.
 
 (Source category: Børn Og Unge)
 (Bahaiprayers.net ID: 8035)
+
+
 
 
 ### <a id="bpn8036"></a> Prayer bpn8036 in Dansk
@@ -633,11 +771,15 @@ Du er den Magtfulde, den der elsker alle.
 (Bahaiprayers.net ID: 8036)
 
 
+
+
 ### <a id="bpn8037"></a> Prayer bpn8037 in Dansk
 O Gud, led mig, beskyt mig, gør mig til en lysende lampe og en tindrende stjerne. Du er den Mægtige og den Magtfulde.
 
 (Source category: Børn Og Unge)
 (Bahaiprayers.net ID: 8037)
+
+
 
 
 ### <a id="bpn8038"></a> Prayer bpn8038 in Dansk
@@ -651,11 +793,15 @@ I sandhed, Du er Den Magtfulde, Den Mægtige, Den Seende, Den Hørende.
 (Bahaiprayers.net ID: 8038)
 
 
+
+
 ### <a id="bpn8039"></a> Prayer bpn8039 in Dansk
 O Uforlignelige Herre! Vær du et ly for dette arme barn og en god og tilgivende mester for denne vildfarne og ulykkelige sjæl. O Herre! Selv om vi kun er værdiløse planter, så hører vi dog hjemme i Din rosenhave. Skønt vi er spæde træer uden blade og blomster, så er vi dog en del af Din frugthave. Plej da denne plante med regnfaldet fra Din milde barmhjertigheds skyer og opliv og forfrisk dette unge træ med de genoplivende pust fra Din åndelige forårstid. Gør ham årvågen, klarsynet og ædel og giv at han kan få evigt liv og bo i Dit Rige til evig tid.
 
 (Source category: Børn Og Unge)
 (Bahaiprayers.net ID: 8039)
+
+
 
 
 ### <a id="bpn8040"></a> Prayer bpn8040 in Dansk
@@ -665,6 +811,8 @@ Giv ham kundskab, skænk ham fornyet styrke ved hvert morgengry og våg over ham
 
 (Source category: Børn Og Unge)
 (Bahaiprayers.net ID: 8040)
+
+
 
 
 
@@ -679,6 +827,8 @@ Forherliget, uendelig forherliget være Du! Du bliver tilbedt i Din sandhed, og 
 
 (Source category: Den Døde)
 (Bahaiprayers.net ID: 8041)
+
+
 
 
 ### <a id="bpn8042"></a> Prayer bpn8042 in Dansk
@@ -708,6 +858,8 @@ Der er ingen anden Gud end Dig, Den Ene, Den Eneste, Den Magtfulde, Den Alvidend
 (Bahaiprayers.net ID: 8042)
 
 
+
+
 ### <a id="bpn8043"></a> Prayer bpn8043 in Dansk
 O min Gud! O Du der tilgiver synder, skænker gaver, fjerner lidelser! I sandhed, jeg beder Dig om at tilgive dem deres synder, der har afkastet den fysiske klædedragt og er steget op til den åndelige verden.
 
@@ -715,6 +867,8 @@ O min Herre! Rens dem for overtrædelser, fjern deres sorger og vend deres mørk
 
 (Source category: Den Døde)
 (Bahaiprayers.net ID: 8043)
+
+
 
 
 ### <a id="bpn8044"></a> Prayer bpn8044 in Dansk
@@ -726,6 +880,8 @@ I sandhed, Du er Den Gavmilde, Den Magtfulde, Tilgiveren og Giveren.
 
 (Source category: Den Døde)
 (Bahaiprayers.net ID: 8044)
+
+
 
 
 
@@ -961,6 +1117,8 @@ sønderrev deres klæder, slog sig i ansigtet, glemte deres glæde, udgød tåre
 
 
 
+
+
 ## Enhed
 
 ### <a id="bpn8045"></a> Prayer bpn8045 in Dansk
@@ -968,6 +1126,8 @@ O min Gud! O min Gud! Foren Dine tjeneres hjerter og åbenbar for dem Dit store 
 
 (Source category: Enhed)
 (Bahaiprayers.net ID: 8045)
+
+
 
 
 ### <a id="bpn8046"></a> Prayer bpn8046 in Dansk
@@ -986,6 +1146,8 @@ I sandhed, Du er Den Almægtige, Den Selvbestående, Giveren, Den Tilgivende, De
 
 
 
+
+
 ## Familier
 
 ### <a id="bpn8047"></a> Prayer bpn8047 in Dansk
@@ -999,6 +1161,8 @@ Velsign mig, o min Gud, og den der vil tro på Dine tegn på den forudbestemte d
 (Bahaiprayers.net ID: 8047)
 
 
+
+
 ### <a id="bpn8048"></a> Prayer bpn8048 in Dansk
 Jeg beder om Din tilgivelse, O min Gud, og bønfalder om forladelse på den måde, Du ønsker at Dine tjenere skal vende sig til Dig. Jeg beder Dig om at bortvaske vore synder, som det sømmer sig for Dit Herredømme og om at tilgive mig, mine forældre og dem, der i Dine øjne er trådt ind i Din kærligheds bolig på en måde, der er Din overjordiske kongemagt værdig og anstår sig Din himmelske krafts herlighed.
 
@@ -1008,6 +1172,8 @@ O min Gud! Du har opildnet min sjæl til at rette sin bønfaldelse mod Dig, og v
 (Bahaiprayers.net ID: 8048)
 
 
+
+
 ### <a id="bpn8049"></a> Prayer bpn8049 in Dansk
 O Herre! I denne allerstørste guddommelige ordning godtager Du børns forbøn for deres forældre.
 
@@ -1015,6 +1181,8 @@ Dette er en af de særlige umådelige gaver i denne orden. Derfor, o du gode Her
 
 (Source category: Familier)
 (Bahaiprayers.net ID: 8049)
+
+
 
 
 ### <a id="bpn8050"></a> Prayer bpn8050 in Dansk
@@ -1030,6 +1198,8 @@ I sandhed, Du er Den Dyrebare, den Evigt Givende, Den Gavmilde.
 (Bahaiprayers.net ID: 8050)
 
 
+
+
 ### <a id="bpn8051"></a> Prayer bpn8051 in Dansk
 Min Herre! Min Herre! Jeg priser Dig, og jeg takker Dig for det, hvormed Du har begunstiget Din ydmyge tjenerinde, Din træl der anråber og bønfalder Dig, fordi Du virkelig har ledet hende til Dit åbenbare rige og ladet hende høre Din ophøjede kalden i denne timelige verden og se Dine tegn, der beviser tilsynekomsten af Dit sejrrige herredømme over alt.
 
@@ -1037,6 +1207,8 @@ O min Herre! Jeg tilegner Dig det, der er i mit skød. Lad det da blive et prisv
 
 (Source category: Familier)
 (Bahaiprayers.net ID: 8051)
+
+
 
 
 
@@ -1081,6 +1253,8 @@ Jeg bønfalder Dig, o min Herre, ved Dig selv og ved Dine tegn og Dine klare vid
 (Bahaiprayers.net ID: 8181)
 
 
+
+
 ### <a id="bpn8182"></a> Prayer bpn8182 in Dansk
 Disse er, o min Gud, de dage hvor Du pålagde Dine tjenere at overholde fasten. Med den smykkede Du indledningen til Dine loves bog, åbenbaret for Dine skabninger, og afdækkede Dine buds skatkamre for øjnene af alle, der er i Din himmel, og alle, der er på Din jord. Du har forlenet hver time af disse dage med en særlig egenskab, uudgrundelig for alle undtagen Dig, hvis kundskab omfatter alle ting. Du har endvidere tildelt hver sjæl en del af denne kraft i overensstemmelse med brevet om Din lov og skrifterne om Din uomstødelige dom. Hvert blad i disse bøger og skrifter har Du ydermere tilegnet hvert folk og hver slægt på jorden.
 
@@ -1104,6 +1278,8 @@ Gør Din sag sejrrig, o min Herre, og ydmyg Dine fjender. Nedskriv da for os det
 
 (Source category: Fasten)
 (Bahaiprayers.net ID: 8182)
+
+
 
 
 ### <a id="bpn8183"></a> Prayer bpn8183 in Dansk
@@ -1144,6 +1320,8 @@ Ingen Gud er der ud over Dig, Den Almægtige, Den Alherlige, den hvis hjælp sø
 
 
 
+
+
 ## Fonden
 
 ### <a id="bpn8153"></a> Prayer bpn8153 in Dansk
@@ -1161,6 +1339,8 @@ Sandelig, Du er Opretholderen, Hjælperen, Den Gavmilde, Den Nådige, Den evigt 
 
 (Source category: Fonden)
 (Bahaiprayers.net ID: 8153)
+
+
 
 
 
@@ -1196,6 +1376,8 @@ Vi er i sandhed alle tålmodige over for Gud.
 
 
 
+
+
 ## Frigjorthed
 
 ### <a id="bpn8052"></a> Prayer bpn8052 in Dansk
@@ -1209,6 +1391,8 @@ Forherliget være Dit navn, o Du, som er Kongen over alle Konger!
 (Bahaiprayers.net ID: 8052)
 
 
+
+
 ### <a id="bpn8053"></a> Prayer bpn8053 in Dansk
 Forherliget være Du, o min Gud! Jeg skænker Dig tak, fordi Du har givet mig kendskab til Ham, der er daggryet for Din barmhjertighed og dæmringsstedet for Din nåde og gemmestedet for Din sag. Jeg bønfalder Dig ved Dit navn, hvorved ansigterne hos dem, der er Dig nær, blev hvide og hjerterne hos dem, der er Dig hengivne, har rettet deres vingeflugt mod Dig, om at give at jeg til evig tid og under alle forhold kan holde fast ved Dit reb og være løsrevet fra al tilknytning til nogen anden end Dig og lade mine øjne være rettet mod Din åbenbarings horisont og udføre, hvad Du har foreskrevet mig i Dine breve.
 
@@ -1220,6 +1404,8 @@ Du er sandelig hele menneskehedens Herre og Besidderen af denne verden og den n�
 (Bahaiprayers.net ID: 8053)
 
 
+
+
 ### <a id="bpn8054"></a> Prayer bpn8054 in Dansk
 Lovet være Dit navn, O min Gud! Jeg bønfalder Dig ved duften fra Din nådes klædning, der på Dit bud og i overensstemmelse med Dit ønske, blev udbredt over hele skabelsen, og ved Din viljes dagstjerne, der har skinnet klart, gennem kraften i Din magt og i Dit herredømme over Din barmhjertigheds horisont, om fra mit hjerte at slette alle ørkesløse forestillinger og forfængelige indbildninger, at jeg med hele min hengivelse kan vende mig til Dig, o Du hele menneskehedens Herre!
 
@@ -1229,6 +1415,8 @@ Du er, i sandhed, verdenernes Herre og Gud for alle, der er i himlen, og alle, d
 
 (Source category: Frigjorthed)
 (Bahaiprayers.net ID: 8054)
+
+
 
 
 ### <a id="bpn8055"></a> Prayer bpn8055 in Dansk
@@ -1244,6 +1432,8 @@ Din magt kan, i sandhed, måle sig med alle ting.
 (Bahaiprayers.net ID: 8055)
 
 
+
+
 ### <a id="bpn8056"></a> Prayer bpn8056 in Dansk
 Jeg ved ikke, o min Gud, hvad det er for en ild Du har antændt i Dit land. Jord kan aldrig skygge for dens lysende glans, og vand kan ikke slukke dens flamme. Alle folkeslagene i verden er ude af stand til at modstå dens kraft. Stor er velsignelsen for den, der er draget den nær og hørte dens buldren.
 
@@ -1255,6 +1445,8 @@ Magtfuld er Du til at handle, som det behager Dig. Du er i sandhed Den Almægtig
 
 (Source category: Frigjorthed)
 (Bahaiprayers.net ID: 8056)
+
+
 
 
 ### <a id="bpn8057"></a> Prayer bpn8057 in Dansk
@@ -1274,6 +1466,8 @@ Der er ingen anden Gud end Dig, Den Almægtige, Den Godgørende.
 (Bahaiprayers.net ID: 8057)
 
 
+
+
 ### <a id="bpn8058"></a> Prayer bpn8058 in Dansk
 I Din Herres navn, Skaberen, Kongen, Den Fyldestgørende, Den Mest Ophøjede, den om hvis hjælp alle mennesker bønfalder.
 
@@ -1285,6 +1479,8 @@ Skænk Dine velsignelser, o min Herre, til budbringerne, de hellige og de retfæ
 
 (Source category: Frigjorthed)
 (Bahaiprayers.net ID: 8058)
+
+
 
 
 ### <a id="bpn8059"></a> Prayer bpn8059 in Dansk
@@ -1302,6 +1498,8 @@ Dig tilhører den absolutte myndighed til at befale.
 (Bahaiprayers.net ID: 8059)
 
 
+
+
 ### <a id="bpn8060"></a> Prayer bpn8060 in Dansk
 O Gud, min Gud! Du er mit Håb og min Elskede, mit højeste mål og ønske! I stor ydmyghed og fuldkommen hengivelse beder jeg Dig om at gøre mig til en minaret for Din kærlighed i Dit land, en lampe for Din kundskab blandt Dine skabninger og et banner for guddommelig gavmildhed i Dit rige.
 
@@ -1315,6 +1513,8 @@ Du er i sandhed Den Almægtige, Den Alherlige, Den Mest Magtfulde.
 (Bahaiprayers.net ID: 8060)
 
 
+
+
 ### <a id="bpn8061"></a> Prayer bpn8061 in Dansk
 O Gud, min Gud! Fyld mit bæger med løsrivelse fra alt og til forsamlingen til Din pragt og Dine tildelinger glæd mig med den vin at elske Dig. Befri mig fra angreb af lidenskab og begær, bryd denne nedre verdens lænker for mig, drag mig i lyksalighed til Dit himmelske rige og forfrisk mig blandt Dine tjenerinder med Din helligheds åndedrag.
 
@@ -1324,6 +1524,8 @@ Du er i sandhed Den Magtfulde, Den Evigt Givende, Den Formående, Den Altbehersk
 
 (Source category: Frigjorthed)
 (Bahaiprayers.net ID: 8061)
+
+
 
 
 
@@ -1340,11 +1542,15 @@ Magtfuld er Du til at gøre det, der behager Dig. Der er ingen Gud undtagen Dig,
 (Bahaiprayers.net ID: 8062)
 
 
+
+
 ### <a id="bpn8063"></a> Prayer bpn8063 in Dansk
 Dit navn er min helbredelse, O min Gud, og ihukommelse af Dig er min lægedom. At være Dig nær er mit håb, og kærlighed til Dig er min ledsager. Din barmhjertighed mod mig er min lægedom og min støtte både i denne verden og i den kommende verden. Du er i sandhed Den Algavmilde, Den Alvidende, Den Alvise.
 
 (Source category: Helbredelse)
 (Bahaiprayers.net ID: 8063)
+
+
 
 
 ### <a id="bpn8064"></a> Prayer bpn8064 in Dansk
@@ -1354,6 +1560,8 @@ Du er i sandhed Helbrederen, Bevareren, Hjælperen, Den Almægtige, Den Magtfuld
 
 (Source category: Helbredelse)
 (Bahaiprayers.net ID: 8064)
+
+
 
 
 ### <a id="bpn8065"></a> Prayer bpn8065 in Dansk
@@ -1367,6 +1575,8 @@ Du er sandelig Herren over dette liv og over det næste. Du er i sandhed Den Evi
 
 (Source category: Helbredelse)
 (Bahaiprayers.net ID: 8065)
+
+
 
 
 ### <a id="bpn8066"></a> Prayer bpn8066 in Dansk
@@ -1383,6 +1593,8 @@ Du er i sandhed umådeligt ophøjet over alt undtagen Dig selv. Du er sandelig H
 
 
 
+
+
 ## Hjælp Og Støtte
 
 ### <a id="bpn8067"></a> Prayer bpn8067 in Dansk
@@ -1394,11 +1606,15 @@ Du er i sandhed Kongen over alle mennesker. Der er ingen Gud undtagen Dig, Den E
 (Bahaiprayers.net ID: 8067)
 
 
+
+
 ### <a id="bpn8068"></a> Prayer bpn8068 in Dansk
 Min Gud, min Tilbedte, min Konge, min Attrå! Hvilket tungemål kan udtrykke min tak til Dig? Jeg var ligegyldig, Du vækkede mig. Jeg havde vendt mig bort fra Dig. Du hjalp mig nådigt at vende mig til Dig. Jeg var som en død, Du genoplivede mig med livets vand. Jeg var sygnet hen, Du styrkede mig med Din tales himmelske flod, der er strømmet fra Den Albarmhjertiges pen. O Guddommelige Forsyn! Alt liv er undfanget ved Din nåde; berøv det ikke Din gavmildheds vande og hold det ikke borte fra Din barmhjertigheds hav. Jeg bønfalder Dig om at hjælpe og støtte mig til hver en tid og under alle forhold og søger fra Din nådes himmel Din urgamle gunst. Du er i sandhed gavmildhedens Herre og Herskeren over evighedens rige.
 
 (Source category: Hjælp Og Støtte)
 (Bahaiprayers.net ID: 8068)
+
+
 
 
 ### <a id="bpn8069"></a> Prayer bpn8069 in Dansk
@@ -1416,11 +1632,15 @@ Alle udfører Hans bud, og alle jordens og himlens beboere fejrer Hans pris, og 
 (Bahaiprayers.net ID: 8069)
 
 
+
+
 ### <a id="bpn8070"></a> Prayer bpn8070 in Dansk
 O min Gud, min Herre og min Mester! Jeg har frigjort mig fra min slægt og har gennem Dig søgt at blive uafhængig af alle, der bor på jorden, og altid at være rede til at modtage det, der er prisværdigt i Dine øjne. Skænk mig sådanne goder at det vil gøre mig uafhængig af alt andet end Dig, og giv mig en større andel af Din uendelige gunst. I sandhed, Du er Herren af rig nåde.
 
 (Source category: Hjælp Og Støtte)
 (Bahaiprayers.net ID: 8070)
+
+
 
 
 ### <a id="bpn8071"></a> Prayer bpn8071 in Dansk
@@ -1434,6 +1654,8 @@ Giv os vort daglige brød og tildel os Din forøgelse af livets fornødenheder, 
 (Bahaiprayers.net ID: 8071)
 
 
+
+
 ### <a id="bpn8072"></a> Prayer bpn8072 in Dansk
 O Du gode Herre! Vi er tjenere ved Din tærskel, der søger ly ved Din hellige dør. Vi søger ingen anden tilflugt end denne stærke søjle, vi søger ingen havn undtagen din varetægt. Beskyt os, velsign os, hjælp os, få os alene til at elske Dit velbehag, tale til Din pris, alene følge sandhedens vej, at vi må blive rige nok til at kunne undvære alt undtagen Dig og modtage vore gaver fra Dit velgørende hav, at vi altid skal stræbe efter at ophøje Din sag og sprede Dine vellugte vidt og bredt, at vi må blive selvforglemmende og kun beskæftige os med Dig og skille os fra alt andet og blive grebet af Dig.
 
@@ -1441,6 +1663,8 @@ O Du Forsyn, o Du Tilgiver! Skænk os Din nåde og Din kærlige omsorg, Dine gav
 
 (Source category: Hjælp Og Støtte)
 (Bahaiprayers.net ID: 8072)
+
+
 
 
 ### <a id="bpn8073"></a> Prayer bpn8073 in Dansk
@@ -1452,6 +1676,8 @@ Du er i sandhed Den Ene, Den Eneste, Den Mægtige, Den Alvidende, Den Alvise.
 
 (Source category: Hjælp Og Støtte)
 (Bahaiprayers.net ID: 8073)
+
+
 
 
 
@@ -1479,6 +1705,8 @@ Du er sandelig Den Almægtige, Den Alvidende, Den Altoplyste.
 
 
 
+
+
 ## Kort Obligatorisk Bøn
 
 ### <a id="bpn8145"></a> Prayer bpn8145 in Dansk
@@ -1496,6 +1724,8 @@ Der er ingen anden Gud end Dig, hjælpen i fare, Den Selvbestående.
 
 (Source category: Kort Obligatorisk Bøn)
 (Bahaiprayers.net ID: 8145)
+
+
 
 
 
@@ -1601,6 +1831,8 @@ Du er i sandhed Den Magtfulde, Den Alt Fyldestgørende, Den Helbredende, Den Bes
 
 
 
+
+
 ## Lang Obligatorisk Bøn
 
 ### <a id="bpn8147"></a> Prayer bpn8147 in Dansk
@@ -1673,6 +1905,8 @@ Jeg vidner, o min Gud, om det, som Dine udvalgte har vidnet om, og erkender det,
 
 
 
+
+
 ## Lovprisning Og Taknemmelighed
 
 ### <a id="bpn8074"></a> Prayer bpn8074 in Dansk
@@ -1682,6 +1916,8 @@ Oplys, o Herre, Dine tjeneres ansigter at de kan se Dig; og rens deres hjerter a
 
 (Source category: Lovprisning Og Taknemmelighed)
 (Bahaiprayers.net ID: 8074)
+
+
 
 
 ### <a id="bpn8076"></a> Prayer bpn8076 in Dansk
@@ -1705,6 +1941,8 @@ Jeg bønfalder Dig, o min Herre, ved Dit største Navn, hvorved Du adskilte lys 
 (Bahaiprayers.net ID: 8076)
 
 
+
+
 ### <a id="bpn8077"></a> Prayer bpn8077 in Dansk
 Al majestæt og ære, o min Gud, og al magt og lys og storhed og glans hører Dig til. Du skænker herredømme til dem, Du vil, og tilbageholder det fra dem, du ønsker. Ingen Gud er der uden Dig, Den Altbesiddende, Den Mest Ophøjede. Du er Ham, der ud af intet skabte universet og alt, hvad der dvæler deri. Intet er Dig værdigt undtagen Dit selv, medens alle andre end Dig er som udstødte i Din hellige nærværelse og som intet sammenlignet med herligheden i Dit eget væsen.
 
@@ -1720,6 +1958,8 @@ Jeg tilbeder Dig, fordi Du har kaldet mig til Dig, thi havde det ikke været for
 
 (Source category: Lovprisning Og Taknemmelighed)
 (Bahaiprayers.net ID: 8077)
+
+
 
 
 ### <a id="bpn8075"></a> Prayer bpn8075 in Dansk
@@ -1738,6 +1978,8 @@ Højt priset og forherliget være Du, om hvem alle ting vidner, at Du er én, og
 
 
 
+
+
 ## Menneskeheden
 
 ### <a id="bpn8078"></a> Prayer bpn8078 in Dansk
@@ -1749,6 +1991,8 @@ Alle er kun fattige og nødlidende, og Du er sandelig Den Altbesiddende, Den Alt
 
 (Source category: Menneskeheden)
 (Bahaiprayers.net ID: 8078)
+
+
 
 
 ### <a id="bpn8079"></a> Prayer bpn8079 in Dansk
@@ -1764,11 +2008,15 @@ Foren os og sammenføj vore hjerter med Dit uløselige bånd. I sandhed, Du er G
 (Bahaiprayers.net ID: 8079)
 
 
+
+
 ### <a id="bpn8080"></a> Prayer bpn8080 in Dansk
 O Du gode Herre! O Du som er storsindet og barmhjertig! Vi er tjenerne ved Din Tærskel og er samlet under Din guddommelige enheds skærmende skygge. Din barmhjertigheds sol skinner på alle, og Din gavmildheds skyer regner på alle. Dine gaver omfatter alle. Dit kærlige forsyn hjælper alle, Din beskyttelse overskygger alle og Din begunstigelses blikke kastes på alle. O Herre! Skænk Dine ubegrænsede gaver og lad Din ledelses lys skinne. Oplys øjnene, glæd hjerterne med evig fryd. Skænk alle mennesker en ny ånd og giv dem evigt liv. Opluk dørene til sand forståelse og lad troens lys skinne strålende. Saml alle mennesker under Din miskundheds skygge og lad dem forenes i harmoni, således at de må blive som strålerne fra én sol, som bølgerne på ét hav og som frugterne på ét træ. Måtte de drikke af den samme kilde. Måtte de blive forfrisket af den samme brise. Måtte De modtage oplysning fra den samme lyskilde. Du er Giveren, Den Barmhjertige, Den Almægtige.
 
 (Source category: Menneskeheden)
 (Bahaiprayers.net ID: 8080)
+
+
 
 
 ### <a id="bpn8081"></a> Prayer bpn8081 in Dansk
@@ -1790,6 +2038,8 @@ Du er Den Mægtige og Magtfulde, Du er Den Tilgivende, og Du er den der bærer o
 
 (Source category: Menneskeheden)
 (Bahaiprayers.net ID: 8081)
+
+
 
 
 
@@ -1835,6 +2085,8 @@ Du har i sandhed åbenbaret Din sag, fuldbyrdet Din pagt og åbnet Din nådes d�
 
 
 
+
+
 ## Morgen
 
 ### <a id="bpn8082"></a> Prayer bpn8082 in Dansk
@@ -1850,11 +2102,15 @@ Du er i sandhed Herren og Kongen over alle mennesker, og Du har magt over alt.
 (Bahaiprayers.net ID: 8082)
 
 
+
+
 ### <a id="bpn8083"></a> Prayer bpn8083 in Dansk
 Jeg er vågnet i Din varetægt, o min Gud, og det tilkommer den, der søger den varetægt, at forblive inden for Din beskyttelses helligdom og Dit forsvars fæstning. Oplys mit indre væsen, o min Herre, med glansen fra Din åbenbarings daggry som Du oplyste mit ydre væsen med Din nådes morgenlys.
 
 (Source category: Morgen)
 (Bahaiprayers.net ID: 8083)
+
+
 
 
 ### <a id="bpn8084"></a> Prayer bpn8084 in Dansk
@@ -1864,6 +2120,8 @@ Der er ingen anden Gud end Dig, Den Ene, Den Uforlignelige, Den Alvidende, Den A
 
 (Source category: Morgen)
 (Bahaiprayers.net ID: 8084)
+
+
 
 
 ### <a id="bpn8085"></a> Prayer bpn8085 in Dansk
@@ -1884,6 +2142,8 @@ Bestem Du for mig det der sømmer sig for Din gavmildheds himmel og Din nådes h
 
 
 
+
+
 ## Møder
 
 ### <a id="bpn8086"></a> Prayer bpn8086 in Dansk
@@ -1895,6 +2155,8 @@ Du er i sandhed Hjælpen i fare, Den Utilgængelige, Den Almægtige, Den Mest Ga
 
 (Source category: Møder)
 (Bahaiprayers.net ID: 8086)
+
+
 
 
 ### <a id="bpn8087"></a> Prayer bpn8087 in Dansk
@@ -1912,6 +2174,8 @@ O Gud! Udrust os med Dit forsyn. Du er Den Magtfulde. Du er Giveren. Du er Den G
 (Bahaiprayers.net ID: 8087)
 
 
+
+
 ### <a id="bpn8088"></a> Prayer bpn8088 in Dansk
 O Du gode Herre! Disse er Dine tjenere, der er forsamlet i dette møde, har vendt sig til Dit rige og trænger til Din gave og velsignelse. O Du, som er Gud! Åbenbar og afslør tegnene på Din enhed, der er blevet nedlagt i alle livets virkeligheder. Afdæk og udfold de egenskaber, Du har gjort mulige og skjult i disse menneskelige virkeligheder.
 
@@ -1921,6 +2185,8 @@ O Gud! Vi er som planter, og Din nåde er som regnen, forfrisk disse planter og 
 (Bahaiprayers.net ID: 8088)
 
 
+
+
 ### <a id="bpn8089"></a> Prayer bpn8089 in Dansk
 O min Gud! O min Gud! Sandelig disse tjenere vender sig til Dig og anråber Din barmhjertigheds rige. I sandhed, de er tiltrukket af Din hellighed og optændt af Din kærligheds ild og søger om bekræftelse fra Dit underfulde rige i håb om at blive optaget i Dit himmelske kongedømme. I sandhed, de længes efter at Dine gaver skal dale ned og ønsker oplysning fra virkelighedens sol. O Herre! Gør dem til lysende lamper, barmhjertige tegn, frugtbare træer og strålende stjerner. Må de vinde frem i Din tjeneste og blive knyttet til Dig med Din kærligheds og forenings bånd i længsel efter lysene fra Din gunst. O Herre! Gør dem til tegn på ledelse, bannere for Dit udødelige rige, bølger på Din barmhjertigheds hav, spejle for lyset i Din kongelige magt.
 
@@ -1928,6 +2194,8 @@ I sandhed, Du er Den Gavmilde. I sandhed, Du er Den Barmhjertige, i sandhed, Du 
 
 (Source category: Møder)
 (Bahaiprayers.net ID: 8089)
+
+
 
 
 ### <a id="bpn8090"></a> Prayer bpn8090 in Dansk
@@ -1945,11 +2213,15 @@ Du er Den Magtfulde, Den Almægtige, Den Barmhjertige, og Du er Den Godgørende,
 (Bahaiprayers.net ID: 8090)
 
 
+
+
 ### <a id="bpn8091"></a> Prayer bpn8091 in Dansk
 O Guddommelige Forsyn! Denne forsamling er sammensat af Dine venner, der drages mod Din skønhed og er optændt af Din kærligheds ild. Forvandl disse sjæle til himmelske engle, genopliv dem med åndedragene fra Din Helligånd, giv dem veltalende tunger og beslutsomme hjerter, skænk dem himmelsk kraft og barmhjertig følsomhed, gør dem til forkyndere af menneskeslægtens enhed og årsag til kærlighed og harmoni i menneskehedens verden, at det faretruende mørke i uvidenheds fordomme kan svinde ved lyset fra Sandhedens Sol, denne formørkede verden blive oplyst, dette jordbundne rige optage strålerne fra åndens verden, disse forskelligartede farver blive sammensmeltet til én farve og lovprisningens toner hæve sig op til Din helligheds rige. I sandhed, Du er Den Almagtsfulde og Den Almægtige.
 
 (Source category: Møder)
 (Bahaiprayers.net ID: 8091)
+
+
 
 
 
@@ -1975,6 +2247,8 @@ Du er i sandhed Den Alvidende, Den Alvise.
 
 
 
+
+
 ## Pagten
 
 ### <a id="bpn8164"></a> Prayer bpn8164 in Dansk
@@ -1988,6 +2262,8 @@ Ingen Gud er der undtagen Dig, Den Almægtige, Den Alvise.
 
 (Source category: Pagten)
 (Bahaiprayers.net ID: 8164)
+
+
 
 
 ### <a id="bpn8165"></a> Prayer bpn8165 in Dansk
@@ -2005,6 +2281,8 @@ Bestem for mig i kraft af Din nåde, o Herre, det, der skal gavne mig i denne ve
 (Bahaiprayers.net ID: 8165)
 
 
+
+
 ### <a id="bpn8166"></a> Prayer bpn8166 in Dansk
 Gør vore trin faste, o Herre, på Din vej og styrk Du vore hjerter i lydighed mod Dig. Vend vore ansigter mod Din enheds skønhed og glæd vore hjerter med tegnene på Din guddommelige enhed.
 
@@ -2018,6 +2296,8 @@ Du er Tilgiveren, Den Nådige.
 (Bahaiprayers.net ID: 8166)
 
 
+
+
 ### <a id="bpn8167"></a> Prayer bpn8167 in Dansk
 O Du medfølende Gud! Du være takket for at have vækket mig og gjort mig klartseende. Du har givet mig et seende øje og begunstiget mig med et lyttende øre, har ført mig til Dit rige og ledet mig til Din sti. Du har vist mig den rette vej og ladet mig betræde frelsens ark. O Gud! Lad mig forblive urokkelig og gør mig fast og pålidelig. Beskyt mig mod voldsomme prøvelser og bevar og skærm mig i Din Pagts og Dit Testamentes stærkt befæstede borg. Du er Den Magtfulde, Du er Den Seende, Du er Den Hørende.
 
@@ -2027,6 +2307,8 @@ Du er Den Medfølende, Den Barmhjertige. Du er Den Store, Givende Gud.
 
 (Source category: Pagten)
 (Bahaiprayers.net ID: 8167)
+
+
 
 
 ### <a id="bpn8168"></a> Prayer bpn8168 in Dansk
@@ -2039,6 +2321,8 @@ I sandhed er Du Den Uovervindelige, Den Almægtige, Den Almagtsfulde.
 
 
 
+
+
 ## Prøvelser Og Vanskeligheder
 
 ### <a id="bpn8092"></a> Prayer bpn8092 in Dansk
@@ -2046,6 +2330,8 @@ O Du hvis prøvelser er en helbredende lægedom for dem, der er Dig nær, hvis s
 
 (Source category: Prøvelser Og Vanskeligheder)
 (Bahaiprayers.net ID: 8092)
+
+
 
 
 ### <a id="bpn8093"></a> Prayer bpn8093 in Dansk
@@ -2061,6 +2347,8 @@ Magtfuld er Du til at gøre, som det behager dig. Ingen Gud er der uden Dig, Hj�
 (Bahaiprayers.net ID: 8093)
 
 
+
+
 ### <a id="bpn8094"></a> Prayer bpn8094 in Dansk
 Lovpriset være Du, O Herre min Gud! Hvert menneske med indsigt erkender Dit herredømme og Din herskermagt, og hvert klarsynet øje opfatter storheden i Din majestæt og den betvingende styrke i Din magt. Prøvelsens vinde magter ikke at tilbageholde dem, der glædes ved nærhed til Dig, i at vende deres ansigter mod Din herligheds horisont, og prøvelsens storme må opgive at fjerne og hindre dem, der fuldstændig har helliget sig Din vilje, i at nærme sig Din bolig.
 
@@ -2070,6 +2358,8 @@ Jeg bønfalder Dig, o min Gud, ved dem og ved sukkene, som deres hjerter udstød
 
 (Source category: Prøvelser Og Vanskeligheder)
 (Bahaiprayers.net ID: 8094)
+
+
 
 
 ### <a id="bpn8095"></a> Prayer bpn8095 in Dansk
@@ -2083,6 +2373,8 @@ Og endelig beder jeg Dig ved Dit åsyns lys at velsigne mine forehavender og eft
 (Bahaiprayers.net ID: 8095)
 
 
+
+
 ### <a id="bpn8096"></a> Prayer bpn8096 in Dansk
 Lovet og forherliget være Du, o min Gud! Jeg bønfalder Dig ved Dine elskedes suk og ved de tårer, der fældes af dem, der længes efter at skue Dig, om ikke at tilbageholde Din milde barmhjertighed fra mig på Din dag eller berøve mig tonerne fra duen, der hylder Din enhed foran lyset, der skinner fra Dit ansigt. Jeg er den, der er nødstedt, o Gud! Se, hvordan jeg klynger mig fast til Dit navn, Den Altbesiddende. Jeg er den, der med vished skal forgå, se, hvordan jeg klynger mig til Dit navn, det udødelige. Jeg anråber Dig derfor ved Dig selv, Den Ophøjede, Den Højeste, om ikke at overlade mig til mig selv og til begæret i en slet tilbøjelighed. Hold Du min hånd med Din magts hånd og løsriv mig fra mine drømmes og tomme fantasiers dyb og rens mig for alt, hvad Du afskyer.
 
@@ -2090,6 +2382,8 @@ Lad mig da vende mig helt til Dig, sætte hele min lid til Dig, opsøge Dig, som
 
 (Source category: Prøvelser Og Vanskeligheder)
 (Bahaiprayers.net ID: 8096)
+
+
 
 
 ### <a id="bpn8097"></a> Prayer bpn8097 in Dansk
@@ -2103,11 +2397,15 @@ Umådelig ophøjet er Du, o Herre, over himlene og jorden, over alle menneskers 
 (Bahaiprayers.net ID: 8097)
 
 
+
+
 ### <a id="bpn8098"></a> Prayer bpn8098 in Dansk
 Er der nogen, der kan fjerne vanskeligheder undtagen Gud? Sig: Lovet være Gud! Han er Gud! Alle er hans tjenere, og alle må underkaste sig Hans bud.
 
 (Source category: Prøvelser Og Vanskeligheder)
 (Bahaiprayers.net ID: 8098)
+
+
 
 
 ### <a id="bpn8099"></a> Prayer bpn8099 in Dansk
@@ -2117,6 +2415,8 @@ Sig: Gud er frem for alt fyldestgørende for alle ting, og intet i himlene eller
 (Bahaiprayers.net ID: 8099)
 
 
+
+
 ### <a id="bpn8100"></a> Prayer bpn8100 in Dansk
 Jeg besværger Dig ved Din magt, o min Gud! Lad intet ondt indkredse mig i prøvelsens tid og led ubesindige stunder i mine skridt på rette vej gennem Din inspiration. Du er Gud, mægtig er Du til at gøre det, Du ønsker. Ingen kan modstå Din Vilje eller modarbejde Din Hensigt.
 
@@ -2124,11 +2424,15 @@ Jeg besværger Dig ved Din magt, o min Gud! Lad intet ondt indkredse mig i prøv
 (Bahaiprayers.net ID: 8100)
 
 
+
+
 ### <a id="bpn8101"></a> Prayer bpn8101 in Dansk
 O Herre! Du borttager enhver lidelse og ophæver enhver prøvelse. Du er den, der fjerner enhver bekymring og frigør enhver slave, Forløseren af hver sjæl! O Herre! Skænk befrielse gennem Din barmhjertighed og regn mig blandt dem af Dine tjenere, der har opnået frelse.
 
 (Source category: Prøvelser Og Vanskeligheder)
 (Bahaiprayers.net ID: 8101)
+
+
 
 
 ### <a id="bpn8102"></a> Prayer bpn8102 in Dansk
@@ -2156,6 +2460,8 @@ Du er i sandhed Den Nådige, Den Herliggjorte, Den Mægtige, Den Almagtsfulde.
 (Bahaiprayers.net ID: 8102)
 
 
+
+
 ### <a id="bpn8103"></a> Prayer bpn8103 in Dansk
 Han er Den Medfølende, Den Alnådige!
 
@@ -2167,11 +2473,15 @@ Bevar under Din beskyttelse, o Du Renheds Ånd, Du som er Den Alnådige Forsørg
 (Bahaiprayers.net ID: 8103)
 
 
+
+
 ### <a id="bpn8104"></a> Prayer bpn8104 in Dansk
 O min Herre, min Elskede, min Attrå! Vær i min ensomhed min ven og ledsag mig i min landflygtighed. Borttag min sorg. Lad mig hengive mig til Din skønhed. Hold mig borte fra alt andet end Dig. Tiltræk mig med Din helligheds dufte. Lad mig i Dit rige være forenet med dem, der er adskilt fra alt andet end Dig, som længes efter at tjene Din hellige tærskel og formår at arbejde for Din sag. Lad mig være en af Dine tjenerinder, der har opnået Dit velbehag. I sandhed, Du er den Nådige, den Gavmilde.
 
 (Source category: Prøvelser Og Vanskeligheder)
 (Bahaiprayers.net ID: 8104)
+
+
 
 
 
@@ -2196,6 +2506,8 @@ Du er i sandhed Magtens Gud, Hjælpen i Fare, den Alherlige, den Almægtige.
 (Bahaiprayers.net ID: 8105)
 
 
+
+
 ### <a id="bpn8106"></a> Prayer bpn8106 in Dansk
 O Gud, min Gud! Jeg har vendt mig til Dig med anger, og Du er i sandhed Tilgiveren, Den Medfølende.
 
@@ -2215,6 +2527,8 @@ Jeg beder Dig, O Herre over alle skabninger og Konge over det sete og det usete,
 (Bahaiprayers.net ID: 8106)
 
 
+
+
 ### <a id="bpn8107"></a> Prayer bpn8107 in Dansk
 Forherliget være Du, o Herre min Gud! Jeg bønfalder Dig ved ham, der er Dit Allerstørste Navn, der er blevet smerteligt hjemsøgt af dem af Dine skabninger, der har afvist Din sandhed, og som er blevet omringet af sorger, som ingen tunge kan beskrive, om at give at jeg må ihukomme Dig og lovsynge Din pris i disse dage, hvor alle har vendt sig bort fra Din skønhed, har kæmpet imod Dig og vendt sig bort med ringeagt fra Ham, der er Din sags åbenbarer. Der findes ingen, O min Herre, der kan hjælpe Dig undtagen Du selv og ingen magt til at støtte Dig undtagen Din egen magt.
 
@@ -2222,6 +2536,8 @@ Jeg anråber Dig om at lade mig holde fast ved Din kærlighed og Din ihukommelse
 
 (Source category: Standhaftighed)
 (Bahaiprayers.net ID: 8107)
+
+
 
 
 ### <a id="bpn8108"></a> Prayer bpn8108 in Dansk
@@ -2241,11 +2557,15 @@ Sandelig, Du er Den Høje Hersker, Den Eneherskende Sandhed, Hjælpen i fare, De
 (Bahaiprayers.net ID: 8108)
 
 
+
+
 ### <a id="bpn8109"></a> Prayer bpn8109 in Dansk
 O Herre min Gud! Hjælp Dine elskede at være faste i Din tro, at vandre ad Dine veje, at være trofaste i Din sag. Skænk dem Din nåde til at modstå selvets og lidenskabens angreb, at følge lyset i guddommelig ledelse. Du er Den Magtfulde, Den Nådige, Den Algavmilde.
 
 (Source category: Standhaftighed)
 (Bahaiprayers.net ID: 8109)
+
+
 
 
 ### <a id="bpn8110"></a> Prayer bpn8110 in Dansk
@@ -2260,6 +2580,8 @@ I sandhed, Du er Den Gavmilde, Den Altid Givende, Den Dyrebare, Den Mest Velgør
 
 
 
+
+
 ## Tilgivelse
 
 ### <a id="bpn8111"></a> Prayer bpn8111 in Dansk
@@ -2271,6 +2593,8 @@ Jeg er, o min Gud, Din tjener og søn af Din tjener. Jeg har erkendt Din sandhed
 (Bahaiprayers.net ID: 8111)
 
 
+
+
 ### <a id="bpn8112"></a> Prayer bpn8112 in Dansk
 Du ser mig, o min Herre, med mit ansigt vendt mod Din gavmildheds himmel og Dine gavers hav, fjernt fra alt undtagen Dig. Jeg beder Dig ved stråleglansen fra Din åbenbarings sol på Sinai og de tindrende stråler fra Din nådes himmellegeme, der skinner fra horisonten i Dit Navn, Den Evigt Tilgivende, om at skænke mig Din forladelse og have barmhjertighed med mig. Nedskriv da for mig med Din herligheds Pen det der skal ophøje mig gennem Dit Navn i skabelsens verden.
 
@@ -2278,6 +2602,8 @@ Hjælp mig, o min Herre, at vende mig til Dig og lytte til stemmen fra Dine elsk
 
 (Source category: Tilgivelse)
 (Bahaiprayers.net ID: 8112)
+
+
 
 
 ### <a id="bpn8113"></a> Prayer bpn8113 in Dansk
@@ -2289,6 +2615,8 @@ Tilgiv da, o min Herre, Dine tjenere og Dine tjenerinder. Du er i sandhed Den Ev
 
 (Source category: Tilgivelse)
 (Bahaiprayers.net ID: 8113)
+
+
 
 
 ### <a id="bpn8114"></a> Prayer bpn8114 in Dansk
@@ -2304,6 +2632,8 @@ Du er Den øverste Hersker, Den store Skaber, Den Ophøjede, Den Alt Elskende.
 (Bahaiprayers.net ID: 8114)
 
 
+
+
 ### <a id="bpn8115"></a> Prayer bpn8115 in Dansk
 Lovet være Du, o Herre. Tilgiv os vore synder, hav barmhjertighed med os og få os til at vende tilbage til Dig. Lad os ikke fæste lid til noget andet end Dig og skænk os ved Din gavmildhed det som Du elsker og ønsker og som sømmer sig for Dig. Ophøj deres rang, der i sandhed har troet, og forlad dem med Din nådige tilgivelse. I sandhed, Du er Hjælpen i fare, Den Selvbestående.
 
@@ -2311,11 +2641,15 @@ Lovet være Du, o Herre. Tilgiv os vore synder, hav barmhjertighed med os og få
 (Bahaiprayers.net ID: 8115)
 
 
+
+
 ### <a id="bpn8116"></a> Prayer bpn8116 in Dansk
 Jeg beder Dig tilgive mig, o min Herre, enhver tale undtagen talen om Dig, og enhver lovprisning undtagen lovprisningen af Dig, og enhver fryd undtagen fryden over Din nærværelse, og enhver glæde undtagen glæden ved at være i forbindelse med Dig, og enhver lykke undtagen lykken ved Din kærlighed og Dit velbehag og alt, der hører mig til, der ikke har nogen tilknytning til Dig, o Du, som er Herrernes Herre, Ham der tilvejebringer midlerne og oplåser dørene.
 
 (Source category: Tilgivelse)
 (Bahaiprayers.net ID: 8116)
+
+
 
 
 ### <a id="bpn8117"></a> Prayer bpn8117 in Dansk
@@ -2327,6 +2661,8 @@ Forherliget er Du, o Herre, Du tilgiver til alle tider de tjenere deres synder, 
 (Bahaiprayers.net ID: 8117)
 
 
+
+
 ### <a id="bpn8118"></a> Prayer bpn8118 in Dansk
 O Du tilgivende Herre! Du er tilflugten for alle disse Dine tjenere. Du kender hemmelighederne og er vidende om alt. Vi er alle hjælpeløse, og Du er Den Magtfulde, Den Almægtige. Vi er alle syndere, og Du er Tilgiveren af synder, Den Barmhjertige, Den Medfølende. O Herre! Se ikke på vore mangler. Gør med os, som det anstår sig Din nåde og gavmildhed. Vore mangler er talrige, men Din tilgivelses hav er grænseløst. Vor svaghed er sørgelig , men tegnene på Din hjælp og støtte er klare. Bestyrk os derfor og giv os kraft. Gør os i stand til at udføre det, der er Din hellige tærskel værdig. Oplys vore hjerter, skænk os klarsynede øjne og opmærksomme øren. Genopliv de døde og helbred de syge. Skænk de fattige rigdom og giv de frygtsomme fred og vished. Modtag os i Dit rige og oplys os med ledelsens lys. Du er Den Magtfulde og Den Almægtige. Du er Den Gavmilde.
 
@@ -2334,6 +2670,8 @@ Du er Den Milde, Du er den Venlige.
 
 (Source category: Tilgivelse)
 (Bahaiprayers.net ID: 8118)
+
+
 
 
 
@@ -2352,6 +2690,8 @@ Magtfuld er Du til at gøre, som det behager Dig. Du er sandelig Hjælpen i fare
 (Bahaiprayers.net ID: 8170)
 
 
+
+
 ### <a id="bpn8171"></a> Prayer bpn8171 in Dansk
 Æret være Du, o Herre, Du som har kaldt alle skabte ting til live, gennem magten i Dit bud.
 
@@ -2365,6 +2705,8 @@ Giv Du, O Herre, at deres hjerter gennem trofasthed mod denne Din ukrænkelige t
 (Bahaiprayers.net ID: 8171)
 
 
+
+
 ### <a id="bpn8172"></a> Prayer bpn8172 in Dansk
 O Herre! Drag omsorg for den hastige vækst i Din guddommelige enheds træ; vand det da, o Herre, med Din glædes strømmende vande og få det foran åbenbarelserne af Din guddommelige bekræftelse til at afkaste de frugter, som Du attrår til Din forherligelse og ophøjelse, Din lovprisning og taksigelse og til Dit navns pris, til lovprisning af Dit inderste væsens enhed og til at skænke Dig tilbedelse, eftersom alt dette er i Din magt og i ingen andens.
 
@@ -2372,6 +2714,8 @@ Stor er velsignelsen for dem, med hvis blod Du har valgt at vande Din bekræftel
 
 (Source category: Troens Sejr)
 (Bahaiprayers.net ID: 8172)
+
+
 
 
 ### <a id="bpn8173"></a> Prayer bpn8173 in Dansk
@@ -2387,11 +2731,15 @@ Sandelig, Du er vor Herre og Herren over alt. I Dine hænder overgiver vi os i l
 (Bahaiprayers.net ID: 8173)
 
 
+
+
 ### <a id="bpn8174"></a> Prayer bpn8174 in Dansk
 O Herre! Lad alle jordens folk få adgang til Din tros paradis, således at intet skabt væsen vil forblive uden for Din omsorgs grænser. Fra umindelig tid har Du været mægtig til at gøre, hvad der behager Dig, og hævet over, hvad Du end ønsker.
 
 (Source category: Troens Sejr)
 (Bahaiprayers.net ID: 8174)
+
+
 
 
 ### <a id="bpn8175"></a> Prayer bpn8175 in Dansk
@@ -2405,6 +2753,8 @@ Sandelig Du er Den Givende, Den Tilgivende, Den Evigt Givende. Sandelig er Du De
 
 (Source category: Troens Sejr)
 (Bahaiprayers.net ID: 8175)
+
+
 
 
 ### <a id="bpn8176"></a> Prayer bpn8176 in Dansk
@@ -2422,6 +2772,8 @@ Herre! Tænd Du i deres hjerter Din guddommelige tiltræknings flamme og giv, at
 
 (Source category: Troens Sejr)
 (Bahaiprayers.net ID: 8176)
+
+
 
 
 
@@ -2446,6 +2798,8 @@ Du er i sandhed Den Mest Magtfulde, Den Højeste, Den Alvidende, Den Alvise.
 (Bahaiprayers.net ID: 8119)
 
 
+
+
 ### <a id="bpn8120"></a> Prayer bpn8120 in Dansk
 Forherliget er Du, o verdens Herre og nationernes attrå, o Du, der er blevet manifesteret i Det Største Navn, hvorved perlerne i visdom og tale er kommet til syne i muslingeskallerne i Din kundskabs store hav, og guddommelig åbenbarings himle er blevet smykket med lyset i tilsynekomsten af Dit åsyns sol.
 
@@ -2461,6 +2815,8 @@ Der er ingen Gud undtagen Dig, Den Ene, Den Uforlignelige, Beskytteren, Den Selv
 (Bahaiprayers.net ID: 8120)
 
 
+
+
 ### <a id="bpn8121"></a> Prayer bpn8121 in Dansk
 O Gud, som er Skaberen af alle manifestationer, kilden til alle kilder, oprindelsen til alle åbenbaringer og udspringet for alle lys! Jeg bevidner, at ved Dit navn er forståelsens himmel blevet smykket, og talens hav har bruset, og Dit forsyns tilskikkelser blevet kundgjort for alle religionernes tilhængere.
 
@@ -2474,6 +2830,8 @@ Du er i sandhed styrkens og magtens Gud, der er skikket til at svare dem, der be
 (Bahaiprayers.net ID: 8121)
 
 
+
+
 ### <a id="bpn8122"></a> Prayer bpn8122 in Dansk
 O min Gud, hjælp Din tjener at opløfte Ordet og modbevise, hvad der er forfængeligt og falsk, at ophøje sandheden, sprede de hellige vers vidt omkring, åbenbare pragten og få morgenlyset til at dæmre i de retfærdiges hjerter.
 
@@ -2483,11 +2841,15 @@ Du er sandelig Den Gavmilde, Den Tilgivende.
 (Bahaiprayers.net ID: 8122)
 
 
+
+
 ### <a id="bpn8123"></a> Prayer bpn8123 in Dansk
 O Gud, min Gud! Hjælp Dine betroede tjenere til at eje kærlige og milde hjerter. Støt dem blandt jordens nationer til at sprede ledelsens lys, der kommer fra forsamlingen i det høje. Sandelig, Du er Den Stærke, Den Magtfulde, Den Mægtige, Den Altbeherskende, Den Evigt Givende. I sandhed, Du er Den Gavmilde, Den Milde, Den Blide, Den Mest Nådige.
 
 (Source category: Undervisning)
 (Bahaiprayers.net ID: 8123)
+
+
 
 
 ### <a id="bpn8124"></a> Prayer bpn8124 in Dansk
@@ -2504,6 +2866,8 @@ I sandhed, Du er Ham, hvis nåde findes i overflod. Der er ingen anden Gud uden 
 
 
 
+
+
 ## Åndelige Egenskaber
 
 ### <a id="bpn8129"></a> Prayer bpn8129 in Dansk
@@ -2513,11 +2877,15 @@ Fra Din evigheds sødt duftende strømme giv mig at drikke, o min Gud, og af fru
 (Bahaiprayers.net ID: 8129)
 
 
+
+
 ### <a id="bpn8130"></a> Prayer bpn8130 in Dansk
 Skab i mig et rent hjerte, o min Gud, og giv mig påny en rolig samvittighed, o mit Håb! Ved magtens ånd bestyrk Du mig i Din sag, o min højest Elskede, og ved Din herligheds lys åbenbar Din vej for mig, O Du målet for min længsel! Ved styrken i Din ophøjede magt løft mig op til Din helligheds himmel, o min tilværelses Kilde, og gennem Din evigheds briser glæd mig, o Du som er min Gud. Lad Dine evige toner ånde ro over mig, o min Ledsager, og lad Dit urgamle åsyns rigdomme frigøre mig fra alt undtagen Dig, o min Mester, og lad budskaberne om åbenbaringen af Dit inderste uforgængelige væsen bringe mig glæde, o Du, som er det mest åbenlyse af det åbenlyse og det mest skjulte af det skjulte!
 
 (Source category: Åndelige Egenskaber)
 (Bahaiprayers.net ID: 8130)
+
+
 
 
 ### <a id="bpn8131"></a> Prayer bpn8131 in Dansk
@@ -2535,6 +2903,8 @@ der er ingen anden Gud end Dig, Den Ene, Den Alvidende, Den Alvise.
 (Bahaiprayers.net ID: 8131)
 
 
+
+
 ### <a id="bpn8132"></a> Prayer bpn8132 in Dansk
 O min Herre! Lad Din skønhed være min føde og Din nærværelse min drik og Din glæde mit håb og lovprisning af Dig min gerning og ihukommelse af Dig min ledsager og Dit herredømmes magt min støtte og Din bolig mit hjem og mit opholdssted det sæde, Du har helliggjort for de begrænsninger, der er lagt på dem, der er lukket ude fra Dig som ved et slør.
 
@@ -2544,6 +2914,8 @@ Du er i sandhed Den Almægtige, Den Allerherligste, Den Mest Magtfulde.
 (Bahaiprayers.net ID: 8132)
 
 
+
+
 ### <a id="bpn8133"></a> Prayer bpn8133 in Dansk
 O min Gud, gavmildheds og barmhjertigheds Gud! Du er den konge, på hvis bud hele skabelsen er blevet kaldt til live; og Du er Den Ene Alnådige, der aldrig af sine tjeneres gerninger har ladet sig hindre i at vise sin nåde, ej heller har de tilbageholdt åbenbarelserne af Hans gavmildhed.
 
@@ -2551,6 +2923,8 @@ Lad denne tjener, derom bønfalder jeg Dig, opnå det, der er årsag til hans fr
 
 (Source category: Åndelige Egenskaber)
 (Bahaiprayers.net ID: 8133)
+
+
 
 
 ### <a id="bpn8134"></a> Prayer bpn8134 in Dansk
@@ -2570,6 +2944,8 @@ Du er sandelig Den Almægtige, Den Tilgivende, Den Medfølende.
 (Bahaiprayers.net ID: 8134)
 
 
+
+
 ### <a id="bpn8135"></a> Prayer bpn8135 in Dansk
 Forherliget er Du, o Herre min Gud! Jeg takker Dig for at Du har givet mig liv i Dine dage, og indgydt i mig Din kærlighed og Din viden. Jeg bønfalder Dig ved Dit navn, hvorved Din visdoms og Din ytrings prægtige perler blev bragt frem fra de af Dine tjeneres hjerter, som er Dig nær, og gennem hvilke dagstjernen for Dit navn, Det Medfølende, har kastet sin stråleglans på alle, der er i Din himmel og på Din jord, til ved Din gavmildhed og nåde at give mig Dine underfulde og skjulte nådegaver.
 
@@ -2579,6 +2955,8 @@ Jeg er, o min Gud, blot et lille frø, som Du har sået i Din kærligheds jord o
 
 (Source category: Åndelige Egenskaber)
 (Bahaiprayers.net ID: 8135)
+
+
 
 
 ### <a id="bpn8136"></a> Prayer bpn8136 in Dansk
@@ -2594,6 +2972,8 @@ I sandhed, skulle Du ønske at skænke velsignelse til en tjener, da ville Du fr
 (Bahaiprayers.net ID: 8136)
 
 
+
+
 ### <a id="bpn8137"></a> Prayer bpn8137 in Dansk
 O Gud! Genopfrisk og glæd min ånd. Rens mit hjerte. Oplys mine evner. Jeg lægger alt, hvad mig angår, i Din hånd. Du er min Vejleder og min Tilflugt. Jeg vil ikke længere være bedrøvet og sorgfuld, jeg vil være en glad og lykkelig skabning. O Gud! Jeg vil ikke længere være fuld af uro, ej heller vil jeg lade bekymringer pine mig. Jeg vil ikke dvæle ved livets ubehagelige sider.
 
@@ -2601,6 +2981,8 @@ O Gud! Du er en bedre ven for mig end jeg er for mig selv. Jeg overgiver mig til
 
 (Source category: Åndelige Egenskaber)
 (Bahaiprayers.net ID: 8137)
+
+
 
 
 ### <a id="bpn8138"></a> Prayer bpn8138 in Dansk
@@ -2616,11 +2998,15 @@ I sandhed, Du er barmhjertig, og Du er, sandelig, Den Mest Gavmilde, hvis hjælp
 (Bahaiprayers.net ID: 8138)
 
 
+
+
 ### <a id="bpn8139"></a> Prayer bpn8139 in Dansk
 O min Herre, O min Herre! Dette er en lampe, der er tændt ved Din kærligheds ild, og som blusser med den flamme, der er antændt i Din barmhjertigheds træ. O min Herre! Forøg dens lue, hede og flamme med den ild, der er tændt på Din manifestations Sinai. I sandhed, Du er Bekræfteren, Hjælperen, Den Magtfulde, Den Gavmilde, Den Elskende.
 
 (Source category: Åndelige Egenskaber)
 (Bahaiprayers.net ID: 8139)
+
+
 
 
 ### <a id="bpn8140"></a> Prayer bpn8140 in Dansk
@@ -2630,6 +3016,8 @@ Sandelig, Du er den Mest Gavmilde, Herren af rig nåde. Der er ingen anden Gud e
 
 (Source category: Åndelige Egenskaber)
 (Bahaiprayers.net ID: 8140)
+
+
 
 
 ### <a id="bpn8141"></a> Prayer bpn8141 in Dansk
@@ -2645,6 +3033,8 @@ I sandhed, Du er Den Mægtige, Den Magtfulde, Beskytteren, Den Stærke, Den Godg
 (Bahaiprayers.net ID: 8141)
 
 
+
+
 ### <a id="bpn8142"></a> Prayer bpn8142 in Dansk
 O Gud, min Gud! Disse er Dine svage tjenere; de er Dine trofaste trælle og Dine tjenerinder, der har bøjet sig for Din ophøjede tale og ydmyget sig ved Din lysende Tærskel og båret vidnesbyrd om Din enhed, hvorved solen er blevet bragt til at skinne i sin middagshøjdes stråleglans. De har lyttet til den kalden, Du opløftede fra Dit skjulte rige, og med hjerter skælvende af kærlighed og lyksalighed har de besvaret Din kalden.
 
@@ -2654,6 +3044,8 @@ Du er sandelig Den Mægtige, Den Ophøjede, Den Magtfulde, Han der alene forbliv
 
 (Source category: Åndelige Egenskaber)
 (Bahaiprayers.net ID: 8142)
+
+
 
 
 ### <a id="bpn8143"></a> Prayer bpn8143 in Dansk
@@ -2667,6 +3059,8 @@ O Herre, min Gud! Ydmyge er disse Dine tjenere, ophøj dem i Dit rige i det høj
 
 (Source category: Åndelige Egenskaber)
 (Bahaiprayers.net ID: 8143)
+
+
 
 
 ### <a id="bpn8144"></a> Prayer bpn8144 in Dansk
@@ -2683,6 +3077,8 @@ Du er Den Mægtige, Den Magtfulde, og Du er styrkens Gud, Den Almægtige, Den Al
 
 
 
+
+
 ## Åndelige Råd
 
 ### <a id="bpn8177"></a> Prayer bpn8177 in Dansk
@@ -2694,6 +3090,8 @@ O Gud, min Gud! Vi er Dine tjenere, der med hengivenhed har vendt sig til Dit he
 (Bahaiprayers.net ID: 8177)
 
 
+
+
 ### <a id="bpn8178"></a> Prayer bpn8178 in Dansk
 Mød hinanden i ren glæde og fremsig ved mødets indledning denne bøn:
 
@@ -2703,6 +3101,8 @@ O Du vor Forsørger! Nedsend Din hjælp at enhver, der er samlet her, kan blive 
 
 (Source category: Åndelige Råd)
 (Bahaiprayers.net ID: 8178)
+
+
 
 
 ### <a id="bpn8179"></a> Prayer bpn8179 in Dansk
@@ -2718,6 +3118,8 @@ I sandhed, Du er Den Storsindede, Den Barmhjertige. Du er Besidderen af stor gav
 
 (Source category: Åndelige Råd)
 (Bahaiprayers.net ID: 8179)
+
+
 
 
 
@@ -2742,6 +3144,8 @@ Han siger, stor er Hans herlighed: "Indgå ægteskab, o mennesker, at der fra je
 (Bahaiprayers.net ID: 8125)
 
 
+
+
 ### <a id="bpn8126"></a> Prayer bpn8126 in Dansk
 Han er Gud!
 
@@ -2751,6 +3155,8 @@ Foren Du derfor i Din barmhjertigheds himmel disse to fugle i Din kærligheds re
 
 (Source category: Ægteskab)
 (Bahaiprayers.net ID: 8126)
+
+
 
 
 ### <a id="bpn8127"></a> Prayer bpn8127 in Dansk
@@ -2764,6 +3170,8 @@ Foren Du derfor i Din barmhjertigheds himmel disse to fugle i Din kærligheds re
 (Bahaiprayers.net ID: 8127)
 
 
+
+
 ### <a id="bpn8128"></a> Prayer bpn8128 in Dansk
 O min Herre! O min Herre! Disse to lysende måner er viet i Din kærlighed, forenet i tjeneste ved Din hellige tærskel, sammenføjet i arbejde for Din sag. Lad dette ægteskab blive som lysskær fra Din rige nåde, o min Herre, den Alnådige, og tindrende stråler fra Dine begunstigelser, o Du Den Godgørende, Den evigt Givende, at der fra dette store træ må forgrene sig kviste, der skal vokse sig grønne og blomstrende ved de gaver, der regner ned fra Din nådes skyer.
 
@@ -2771,6 +3179,9 @@ Sandelig, Du er Den Storsindede. Sandelig, Du er den Almægtige. Sandelig, Du er
 
 (Source category: Ægteskab)
 (Bahaiprayers.net ID: 8128)
+
+
+
 
 
 

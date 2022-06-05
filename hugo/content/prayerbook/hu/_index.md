@@ -3,6 +3,100 @@ title = "Magyar"
 tags = ['lang=hu', 'prayerbook']
 +++
 
+
+
+[A Ridván tábla](#A Ridván tábla)
+
+[A férjért](#A férjért)
+
+[A szent tengerész táblája](#A szent tengerész táblája)
+
+[A szülőkért](#A szülőkért)
+
+[A tűz táblája](#A tűz táblája)
+
+[Alap](#Alap)
+
+[Az elhunytakért](#Az elhunytakért)
+
+[Család](#Család)
+
+[Dicséret és háládatosság](#Dicséret és háládatosság)
+
+[Egység](#Egység)
+
+[Emberiség](#Emberiség)
+
+[Emlékima Bahá’u’lláh sírjánál](#Emlékima Bahá’u’lláh sírjánál)
+
+[Emlékima ’Abdu’l-bahá sírjánál](#Emlékima ’Abdu’l-bahá sírjánál)
+
+[Este](#Este)
+
+[Gyermekek és ifjak](#Gyermekek és ifjak)
+
+[Gyógyulás](#Gyógyulás)
+
+[Holtak imája](#Holtak imája)
+
+[Hosszú gyúgyító ima](#Hosszú gyúgyító ima)
+
+[Hosszú kötelező ima](#Hosszú kötelező ima)
+
+[Huqúqu’lláh](#Huqúqu’lláh)
+
+[Házasság](#Házasság)
+
+[Hűség a szövetséghez](#Hűség a szövetséghez)
+
+[Ifjusági imák](#Ifjusági imák)
+
+[Isten felé fordulás](#Isten felé fordulás)
+
+[Isten ügyének kezei](#Isten ügyének kezei)
+
+[Középső kötelező ima](#Középső kötelező ima)
+
+[Lelki növekedés](#Lelki növekedés)
+
+[Megbocsátás](#Megbocsátás)
+
+[Megpróbáltatások és nehézségek](#Megpróbáltatások és nehézségek)
+
+[Mártírok](#Mártírok)
+
+[Naw-Rúz](#Naw-Rúz)
+
+[Reggel](#Reggel)
+
+[Rövid kötelező ima](#Rövid kötelező ima)
+
+[Segítség félrevezetetteknek](#Segítség félrevezetetteknek)
+
+[Segítségkérés](#Segítségkérés)
+
+[Szellemi tanácsok](#Szellemi tanácsok)
+
+[Szökőnapok](#Szökőnapok)
+
+[Tanítás](#Tanítás)
+
+[Tizenkilenc napi ünnep](#Tizenkilenc napi ünnep)
+
+[Tábla ahmedhez](#Tábla ahmedhez)
+
+[Várandós anyáknak](#Várandós anyáknak)
+
+[Védelem](#Védelem)
+
+[Összejövetelek](#Összejövetelek)
+
+[Útrakelten](#Útrakelten)
+
+[Úttörők imája](#Úttörők imája)
+
+
+
 ## A Ridván tábla
 
 ### <a id="bpn2754"></a> Prayer bpn2754 in Magyar
@@ -38,6 +132,8 @@ Oly mámorító Isten szavainak hatása Arra, Ki kétségtelen bizonyítékainak
 
 
 
+
+
 ## A férjért
 
 ### <a id="bpn2618"></a> Prayer bpn2618 in Magyar
@@ -51,6 +147,8 @@ Valóban, Te vagy a Drága, a Mindig Adakozó, Kinek keze mindig nyitva vagyon.
 
 (Source category: A férjért)
 (Bahaiprayers.net ID: 2618)
+
+
 
 
 
@@ -235,6 +333,8 @@ Dicsőíttessék Urunk, a Legmagasabb!
 
 
 
+
+
 ## A szülőkért
 
 ### <a id="bpn2615"></a> Prayer bpn2615 in Magyar
@@ -244,11 +344,15 @@ Látod, ó, Uram, könyörgő kezünk kegyed és nagylelkűséged mennyországa 
 (Bahaiprayers.net ID: 2615)
 
 
+
+
 ### <a id="bpn2616"></a> Prayer bpn2616 in Magyar
 Ó, Uram! E Legnagyobb Törvénykorszakodban elfogadod Te a gyermekek közbenjárását szüleikért. Ez jelen korszakod egyik különleges, végtelen adománya. Ezért hát, ó, kedves Uram, fogadd el Egyedüliséged küszöbén álló szolgád kérését, és merítsd bele édesatyját kegyelmed óceánjába, minthogy e fiú kiállt, hogy Néked szolgáljon, és mindenkor szereteted ösvényén munkálkodik. Valóban, Te vagy, Ki ad, a Megbocsátó és a Kedves!
 
 (Source category: A szülőkért)
 (Bahaiprayers.net ID: 2616)
+
+
 
 
 
@@ -362,6 +466,8 @@ Ha minden szolga elolvassa és megfontolja magában ezen sorokat, olyan tűz gy�
 
 
 
+
+
 ## Alap
 
 ### <a id="bpn2610"></a> Prayer bpn2610 in Magyar
@@ -369,6 +475,8 @@ Isten minden barátja ... adományozzon annyit, amennyit csak tud, bármilyen cs
 
 (Source category: Alap)
 (Bahaiprayers.net ID: 2610)
+
+
 
 
 ### <a id="bpn2611"></a> Prayer bpn2611 in Magyar
@@ -380,6 +488,8 @@ Bizony, Te vagy a Megtartó, a Segítő, a Nagylelkű, a Jóságos, a Mindig Ada
 
 (Source category: Alap)
 (Bahaiprayers.net ID: 2611)
+
+
 
 
 
@@ -396,6 +506,8 @@ Dicsőíttessél, végtelenül dicsőíttessél! Igazságodban dicsőítenek Té
 (Bahaiprayers.net ID: 2630)
 
 
+
+
 ### <a id="bpn2631"></a> Prayer bpn2631 in Magyar
 Ó, Istenem! Te, a vétkek Megbocsátója, az Adakozó, a megpróbáltatások Elhárítója!
 
@@ -407,6 +519,8 @@ Esedezem Hozzád, hogy bocsásd meg azoknak bűneit, akik levetették testi ölt
 (Bahaiprayers.net ID: 2631)
 
 
+
+
 ### <a id="bpn2632"></a> Prayer bpn2632 in Magyar
 Ó, Istenem! Ó, Istenem! Alázattal isteni fenséged magasztossága előtt, szerényen egységed kapujánál állva, e szolgád valóban hitt Benned és verseidben, tanúságot tett szavadról, lángra gyúlt szereteted tüze által, belemerült tudásod óceánjának mélységeibe, a Te szellőid vonzották őt, Rád bízta magát, arcát Feléd fordította, Hozzád könyörgött, és bízott megbocsátásodban és jóindulatodban. Elhagyta e halandó létet és a halhatatlanság királyságába repült, sóvárogva a kegyért, hogy találkozhasson Véled.
 
@@ -414,6 +528,8 @@ Esedezem Hozzád, hogy bocsásd meg azoknak bűneit, akik levetették testi ölt
 
 (Source category: Az elhunytakért)
 (Bahaiprayers.net ID: 2632)
+
+
 
 
 
@@ -445,6 +561,8 @@ Aki az erő és bölcsesség forrása.
 (Bahaiprayers.net ID: 2613)
 
 
+
+
 ### <a id="bpn2614"></a> Prayer bpn2614 in Magyar
 Áldott az a pont, az a ház,
 az a hely, és a város,
@@ -459,11 +577,15 @@ az a hely, és a város,
 (Bahaiprayers.net ID: 2614)
 
 
+
+
 ### <a id="bpn2612"></a> Prayer bpn2612 in Magyar
 Áldott, ki Istennel társalogván megemlékszik szüleiről.
 
 (Source category: Család)
 (Bahaiprayers.net ID: 2612)
+
+
 
 
 
@@ -480,6 +602,8 @@ Valóban, Te vagy a hatalom, a dicsőség és a bőkezűség Istene. Nincsen má
 (Bahaiprayers.net ID: 2619)
 
 
+
+
 ### <a id="bpn2620"></a> Prayer bpn2620 in Magyar
 Dicsőíttessék a Te Neved, ó, én Istenem és minden dolgok Istene, ó, Dicsőségem és minden dolgok Dicsősége, ó, Vágyódásom és minden dolgok Vágyódása, ó, Erősségem és minden dolgok Erőssége, ó, Királyom és minden dolgok Királya, ó, Uram és minden dolgok Ura, ó, Végső Célom és minden dolgok Végső Célja, ó, Megébresztőm és minden dolgok Megébresztője! Könyörgöm Hozzád, ne hagyd, hogy távol maradjak kegyes jótéteményeid óceánjától és elűzessek közelséged partjától!
 
@@ -491,6 +615,8 @@ Bocsáss meg, ó, Uram, szolgáidnak és szolgálóleányaidnak! Valóban, Te va
 (Bahaiprayers.net ID: 2620)
 
 
+
+
 ### <a id="bpn2621"></a> Prayer bpn2621 in Magyar
 Minden dicsőítés szálljon Feléd, ó, Istenem, Ki minden dicsőség és fenség, nagyság és tisztelet, hatalom és uralom, emelkedettség és kegy, áhítat és erő Forrása vagy! Közel engeded Te a Legnagyobb Óceánhoz azt, akit csak kívánsz, és akire csak akarod, reáruházod Te a kegyet, hogy Legősibb Neved felismerhesse. Uralkodói Akaratodnak sem mennybéli, sem földi ellen nem szegülhet. Az örökkévalóság óta Te uralkodsz az egész teremtés fölött, és örökkön Néked lesz alávetve minden teremtett dolog. Nincsen más Isten, csak Te, a Mindenható, a Legmagasztosabb, a Mindenek Felett Hatalmas, a Mindenek Felett Bölcs.
 
@@ -498,6 +624,8 @@ Ragyogd be, ó, Uram, szolgáid arcát, hogy megláthassanak, és tisztítsd meg
 
 (Source category: Dicséret és háládatosság)
 (Bahaiprayers.net ID: 2621)
+
+
 
 
 ### <a id="bpn2622"></a> Prayer bpn2622 in Magyar
@@ -517,6 +645,8 @@ Rajtad kívül soha senki nem volt képes Misztériumodat felfogni, és Nagyság
 (Bahaiprayers.net ID: 2622)
 
 
+
+
 ### <a id="bpn2623"></a> Prayer bpn2623 in Magyar
 Dicsőíttessék a Te Neved, ó, Isten. Tiéd valóban a Teremtés és Kinyilatkoztatás Királysága, és bizony Urunkba helyeztük mi minden bizodalmunkat. Illessen minden dicsőítés Téged, ó, Isten. Te vagy a mennyek és a föld Teremtője, és mindeneké a kettő között, és bizony Te vagy a legfőbb Uralkodó, az Alkotó, a Mindenek Felett Bölcs. Dicsőíttessél, ó, Urunk! Bizonyosan össze fogod Te gyűjteni az emberiséget azon Napra, melynek eljöveteléről kétség nem lehet – a Napra, mikor mindenki meg fog jelenni Előtted, és életet talál Benned. Ez az egy igaz Isten Napja – a Nap, melyet úgy hozol el, miként Neked tetszik, parancsolatod erejénél fogva.
 
@@ -526,6 +656,8 @@ Te vagy a korlátlan Uralkodó, a csodás Teremtő, a Hatalmas, a Legszeretetteb
 (Bahaiprayers.net ID: 2623)
 
 
+
+
 ### <a id="bpn2624"></a> Prayer bpn2624 in Magyar
 Dicsőített és magasztalt vagy, ó, Isten! Add, hogy a szent jelenléted elé való járulás napja hamar elérkezzen. Vidítsd fel szívünket szereteted és jó tetszésed erejével, és adj nékünk kitartást, hogy készségesen alávessük mi magunkat Akaratodnak és Parancsodnak. Bizony, a Te tudásod átölel mindeneket, miket teremtettél, és miket teremteni fogsz, és mennyei hatalmad felülmúl mindent, amit létre hívtál, vagy létre fogsz hívni. Nincs más magasztalandó, csak Te, nincs más kívánandó, csak Te, nincs más imádandó, csak Te, és nincs más szeretni való, csak a Te jó tetszésed.
 
@@ -533,6 +665,8 @@ Valóban, Te vagy a legfőbb Uralkodó, a Független Igazság, a Veszélyben Olt
 
 (Source category: Dicséret és háládatosság)
 (Bahaiprayers.net ID: 2624)
+
+
 
 
 ### <a id="bpn2625"></a> Prayer bpn2625 in Magyar
@@ -547,6 +681,8 @@ Te vagy a Könyörületes, az Irgalmas. Te vagy a Hatalmas, Jóakaró Isten.
 
 
 
+
+
 ## Egység
 
 ### <a id="bpn2626"></a> Prayer bpn2626 in Magyar
@@ -556,6 +692,8 @@ Adja Isten, hogy az egység fénye ragyoghassa be az egész földet, és az „I
 (Bahaiprayers.net ID: 2626)
 
 
+
+
 ### <a id="bpn2627"></a> Prayer bpn2627 in Magyar
 Ó, Istenem, ó, Istenem! Egyesítsd szolgáid szívét, és tárd fel nékik a Te nagy célodat! Engedd, hogy kövessék parancsolataidat, és tartsanak ki a Te törvényed mellett! Segítsd őket, ó, Isten, igyekezetükben, s adj erőt nékik, hogy szolgálhassanak Téged!
 
@@ -563,6 +701,8 @@ Adja Isten, hogy az egység fénye ragyoghassa be az egész földet, és az „I
 
 (Source category: Egység)
 (Bahaiprayers.net ID: 2627)
+
+
 
 
 ### <a id="bpn2628"></a> Prayer bpn2628 in Magyar
@@ -578,11 +718,15 @@ Tárd fel előttünk, ó, Isten, a Te magasztos örökkévalóságodat, azt, hog
 (Bahaiprayers.net ID: 2628)
 
 
+
+
 ### <a id="bpn2629"></a> Prayer bpn2629 in Magyar
 Ó, Te, Ki az Urak Ura vagy! Bizonyságot teszek, hogy Te vagy a teremtés Ura és minden lények, láthatók és láthatatlanok Tanítómestere. Tanúságot teszek, hogy hatalmad átfogja az egész világegyetemet, földi seregek Téged soha meg nem rémíthetnek, sem minden népek és nemzetek uralma Téged célodtól el nem tántoríthat. Vallom, hogy nincsen más vágyad, mint az egész világ új életre keltése, népei egységének megteremtése, és mindenek megváltása, kik ott lakoznak.
 
 (Source category: Egység)
 (Bahaiprayers.net ID: 2629)
+
+
 
 
 
@@ -607,11 +751,15 @@ Te vagy a Hatalmas és Erős, Te vagy a Megbocsátó, és Te vagy, Ki elnézi az
 (Bahaiprayers.net ID: 2633)
 
 
+
+
 ### <a id="bpn2634"></a> Prayer bpn2634 in Magyar
 Ó, Isten! Gyengék vagyunk, adj erőt nékünk. Szegények vagyunk, ajándékozz meg minket határtalan kincseiddel. Betegek vagyunk, részesíts minket isteni gyógyírodban. Erőtlenek vagyunk, juttass nékünk mennyei erődből. Ó, Urunk! Tégy minket hasznossá e világban, és szabadíts meg minket önzésünk és vágyaink nyűgétől. Ó, Urunk! Erősíts meg minket szeretetedben, és add, hogy szerethessük az egész emberiséget. Szilárdíts meg minket az emberi világ szolgálatában, hogy szolgálóid szolgálóivá válhassunk, szerethessük minden teremtményedet, és jószívűek lehessünk összes népedhez. Ó, Urunk! Te vagy a Mindenható. Te vagy az Irgalmas. Te vagy a Megbocsátó. Te vagy a Mindenek Felett Hatalmas.
 
 (Source category: Emberiség)
 (Bahaiprayers.net ID: 2634)
+
+
 
 
 
@@ -639,6 +787,8 @@ Szellemem légyen az áldozat azokért a bántalmazásokért, melyeket el kellet
 
 
 
+
+
 ## Emlékima ’Abdu’l-bahá sírjánál
 
 ### <a id="bpn2640"></a> Prayer bpn2640 in Magyar
@@ -662,6 +812,8 @@ Te vagy az Adományozó, a Megszánó, a Legbőkezűbb, a Kegyes, az Irgalmas, a
 
 
 
+
+
 ## Este
 
 ### <a id="bpn2635"></a> Prayer bpn2635 in Magyar
@@ -675,6 +827,8 @@ Nincsen más Isten csak Te, a Mindenható, a Mindent Lebíró, a Korlátozatlan.
 (Bahaiprayers.net ID: 2635)
 
 
+
+
 ### <a id="bpn2636"></a> Prayer bpn2636 in Magyar
 Miként aludhatnék, ó, Isten, én Istenem, mikor az Utánad sóvárgók szeme le nem csukódhat, mert távol vannak Tőled? És miként térhetnék nyugovóra, mikor a Téged szeretők lelkét elemészti a Te jelenlétedtől való távollét?
 
@@ -684,6 +838,8 @@ Hatalmadra! Álomban vagy ébren, nem kérek én semmi mást, csak amit Te kív�
 
 (Source category: Este)
 (Bahaiprayers.net ID: 2636)
+
+
 
 
 ### <a id="bpn2637"></a> Prayer bpn2637 in Magyar
@@ -698,6 +854,8 @@ Valóban, Te vagy az Adakozó, a Nagylelkű, a Könyörületes, a Megbocsátó.
 
 
 
+
+
 ## Gyermekek és ifjak
 
 ### <a id="bpn2653"></a> Prayer bpn2653 in Magyar
@@ -709,11 +867,15 @@ Dicsértessél, ó, Te, Kit legjobban szeretek! Tereld feléje páratlan bőség
 (Bahaiprayers.net ID: 2653)
 
 
+
+
 ### <a id="bpn2654"></a> Prayer bpn2654 in Magyar
 Ó, páratlan Úr! Hadd növekedhessen e csecsemő szerető kedvességed emlőjén, óvd őt biztonságod és védelmed bölcsőjében, és add, hogy jóakaratod gyengéd karjaiban nevelkedjen.
 
 (Source category: Gyermekek és ifjak)
 (Bahaiprayers.net ID: 2654)
+
+
 
 
 ### <a id="bpn2655"></a> Prayer bpn2655 in Magyar
@@ -723,11 +885,15 @@ Dicsértessél, ó, Te, Kit legjobban szeretek! Tereld feléje páratlan bőség
 (Bahaiprayers.net ID: 2655)
 
 
+
+
 ### <a id="bpn2656"></a> Prayer bpn2656 in Magyar
 Ó, Istenem, vezess és oltalmazz engem, tégy sugárzó lámpássá és ragyogó csillaggá. Te vagy a Hatalmas és Erős.
 
 (Source category: Gyermekek és ifjak)
 (Bahaiprayers.net ID: 2656)
+
+
 
 
 ### <a id="bpn2657"></a> Prayer bpn2657 in Magyar
@@ -737,6 +903,8 @@ Dicsértessél, ó, Te, Kit legjobban szeretek! Tereld feléje páratlan bőség
 (Bahaiprayers.net ID: 2657)
 
 
+
+
 ### <a id="bpn2658"></a> Prayer bpn2658 in Magyar
 Ó, kegyes Urunk! E szép gyermekek a Te hatalmad kezemunkái és a Te nagyságod csodálatos jelei. Ó, Isten! Védelmezd e gyermekeket, segítsd őket kegyesen, hogy tanulhassanak és szolgálhassák az emberi világot. Ó, Isten! Gyöngyszemek e gyermekek, hadd növekedjenek szerető kedvességed kagylójában.
 
@@ -744,6 +912,8 @@ Te vagy a Nagylelkű, a Mindeneket Szerető.
 
 (Source category: Gyermekek és ifjak)
 (Bahaiprayers.net ID: 2658)
+
+
 
 
 ### <a id="bpn2659"></a> Prayer bpn2659 in Magyar
@@ -756,11 +926,15 @@ Bizony, Te vagy az Erős, a Hatalmas, a Látó, a Halló.
 (Bahaiprayers.net ID: 2659)
 
 
+
+
 ### <a id="bpn2660"></a> Prayer bpn2660 in Magyar
 Ó, legdicsőbb Úr! Tedd kis szolgálóleányod áldottá és boldoggá, hadd dédelgessék őt Egyedüliséged küszöbénél, és hadd ihasson mélyen szereteted poharából, hogy szent elragadtatás és túláradó öröm töltse el és édes illatokat árasszon. Te vagy a Hatalmas és Erős, és Te vagy a Mindentudó és a Mindent Látó.
 
 (Source category: Gyermekek és ifjak)
 (Bahaiprayers.net ID: 2660)
+
+
 
 
 
@@ -776,6 +950,8 @@ A Te neved az én gyógyulásom, ó, Istenem, és a Rád való emlékezés az é
 (Bahaiprayers.net ID: 2663)
 
 
+
+
 ### <a id="bpn2664"></a> Prayer bpn2664 in Magyar
 Ó, Isten, én Istenem! Gyógyító erőd óceánjára és kegyelmed ragyogó Napcsillagára könyörgöm Hozzád, és Nevedre esedezem, mely által lebírtad Te minden szolgádat, és magasztos Szavad mindent átható erejére és fenséges Tollad hatalmára kérlek, s csakúgy irgalmadra, mely már azelőtt létezett, hogy megteremtettél mindeneket a mennyben és a földön, tisztíts meg engem kegyelmed áradó vizével minden szenvedéstől és lelki bajtól, gyengeségtől és erőtlenségtől.
 
@@ -787,6 +963,8 @@ Hatalmadban áll, hogy azt tedd, amit csak kívánsz. Nincs más Isten, csak Te,
 (Bahaiprayers.net ID: 2664)
 
 
+
+
 ### <a id="bpn2665"></a> Prayer bpn2665 in Magyar
 Te vagy az, ó, Istenem, Ki nevei által meggyógyít minden beteget, és megvigasztal minden szenvedőt, Ki inni ad minden szomjazónak, megnyugtat minden reszketőt, útbaigazít minden tévelygőt, felemel minden megalázottat, gazdaggá tesz minden szegényt, felnyitja minden tudatlan szemét. Te vagy az, Ki fényt gyújt a sötétben, felvidítja a szomorkodót, meleget ád a fázónak, és felemel minden elnyomottat. A Te Neved, ó, Istenem, megébresztett minden teremtett dolgot, kiterítette a mennyeket, megteremtette a földet, felemelte a felhőket és leküldte velük az esőt. Ez bizony kegyelmed jele összes teremtményed számára.
 
@@ -794,6 +972,8 @@ Könyörgöm Hozzád ezért nevedre, mellyel kinyilatkoztattad Istenségedet és
 
 (Source category: Gyógyulás)
 (Bahaiprayers.net ID: 2665)
+
+
 
 
 
@@ -818,6 +998,8 @@ Bizony, mi mindnyájan megnyugszunk Istenben.
 
 (Source category: Holtak imája)
 (Bahaiprayers.net ID: 2755)
+
+
 
 
 
@@ -919,6 +1101,8 @@ Mert bizony Te vagy a Hatalmas, a Mindeneket Megelégítő, a Gyógyító, a Vé
 
 
 
+
+
 ## Hosszú kötelező ima
 
 ### <a id="bpn2609"></a> Prayer bpn2609 in Magyar
@@ -981,6 +1165,8 @@ Hitvallást teszek, ó, Istenem, amiről a Te választottaid tanuskodtak, és el
 
 
 
+
+
 ## Huqúqu’lláh
 
 ### <a id="bpn2669"></a> Prayer bpn2669 in Magyar
@@ -990,11 +1176,15 @@ A Huqúqu'lláh valóban nagyszerű törvény. E felajánlás kötelessége mind
 (Bahaiprayers.net ID: 2669)
 
 
+
+
 ### <a id="bpn2670"></a> Prayer bpn2670 in Magyar
 Magasztalt vagy Te, Ó, Ura az egész teremtésnek, az Egyetlen, Kihez minden dolognak fordulnia kell. Külső és belső nyelvemmel tanúságot teszek arról, hogy megnyilvánítottad és feltártad Önmagad, leküldvén jeleidet és kihirdetvén tanúbizonyságaidat. Tanúskodom arról, hogy Önmagadban tökéletes vagy, független bármi mástól Magadat kivéve, és szentséged minden földi dolog felett áll. Ügyed minden mást felülmúló dicsőségére és Igéd mindenek felett álló hatalmára könyörgök Hozzád, adj megerősítést azoknak, kik fel kívánják ajánlani azt, amit elrendeltél számukra Könyvedben, és meg kívánják tartani azt, ami a Te elfogadásod illatát árasztja majd. Bizony, Te vagy a Leghatalmasabb, a Legkegyesebb, a Mindent Megbocsátó, a Legnagylelkűbb.
 
 (Source category: Huqúqu’lláh)
 (Bahaiprayers.net ID: 2670)
+
+
 
 
 
@@ -1009,6 +1199,8 @@ Bizony, mi mindnyájan ragaszkodni fogunk Isten akaratához.
 (Bahaiprayers.net ID: 2666)
 
 
+
+
 ### <a id="bpn2667"></a> Prayer bpn2667 in Magyar
 Dicsőség Néked, ó, Istenem! Ímé, irgalmad árnyékába gyülekezett szolgálód és szolgálóleányod, és kegyedből és nagylelkűségedből egyesülnek egymással. Ó, Uram! Segítsd őket ezen világodban és királyságodban, és bőséged és kegyelmed által halmozd el őket minden jóval. Ó, Uram! Erősítsd meg őket szolgálatodban, és segítsd őket, hogy szolgálhassanak Téged. Engedd, hogy Neved jeleivé válhassanak világodban, és védelmezd meg őket adományaiddal, melyeknek száma végtelen ebben és az eljövendő világban is. Ó, Uram! Irgalmasságod királyságához esedeznek ők, és Egyedüliséged birodalmát hívják segítségül. Bizony, a Te parancsolatod szerint házasodnak ők. Hadd legyenek hát az egyetértés és egység jelei az idők végezetéig.
 
@@ -1016,6 +1208,8 @@ Valóban, Te vagy a Mindenek Felett Hatalmas, a Mindenhol Jelenlévő, a Mindenh
 
 (Source category: Házasság)
 (Bahaiprayers.net ID: 2667)
+
+
 
 
 ### <a id="bpn2668"></a> Prayer bpn2668 in Magyar
@@ -1032,6 +1226,8 @@ Valóban, Te vagy a Mindenek Felett Hatalmas, a Mindenhol Jelenlévő, a Mindenh
 
 
 
+
+
 ## Hűség a szövetséghez
 
 ### <a id="bpn2671"></a> Prayer bpn2671 in Magyar
@@ -1045,6 +1241,8 @@ Te vagy a Megbocsátó, a Kegyes.
 (Bahaiprayers.net ID: 2671)
 
 
+
+
 ### <a id="bpn2672"></a> Prayer bpn2672 in Magyar
 Ó, Uram és Reményem! Segítsd, kiket szeretsz, hogy szilárdak lehessenek hatalmas Szövetségedben, hűségesek maradhassanak testet öltött Ügyedhez, és betarthassák parancsolataidat, melyeket a Ragyogás Könyvébe foglaltál, hogy iránymutató zászlókká válhassanak és a mennybéli Gyülekezet lámpásává, határtalan bölcsességed kútfejévé és a felséges mennyboltról utat mutató csillagokká.
 
@@ -1052,6 +1250,8 @@ Mert bizony Te vagy a Győzhetetlen, a Mindenható, a Mindenek Felett Hatalmas.
 
 (Source category: Hűség a szövetséghez)
 (Bahaiprayers.net ID: 2672)
+
+
 
 
 
@@ -1064,6 +1264,8 @@ Mert bizony Te vagy a Győzhetetlen, a Mindenható, a Mindenek Felett Hatalmas.
 (Bahaiprayers.net ID: 2661)
 
 
+
+
 ### <a id="bpn2662"></a> Prayer bpn2662 in Magyar
 Ó, kedves Urunk! Kegyesen ruházd fel e fiókákat mennyei szárnyakkal, és adj nékik szellemi erőt, hogy e végtelen téren át röpülhessenek és az Abhá Királyság magaslataira szárnyalhassanak.
 
@@ -1073,6 +1275,8 @@ Te vagy a Hatalmas és az Erős; Te vagy az Adományozó és a Mindenek Felett S
 
 (Source category: Ifjusági imák)
 (Bahaiprayers.net ID: 2662)
+
+
 
 
 
@@ -1091,6 +1295,8 @@ Te vagy az én Segítőm, a Hatalmas, a Mindenható.
 (Bahaiprayers.net ID: 2673)
 
 
+
+
 ### <a id="bpn2674"></a> Prayer bpn2674 in Magyar
 Ó, Uram! Hozzád térek menedékért és a Te jeleidre figyelmez szívem.
 
@@ -1106,6 +1312,8 @@ Tiéd minden hatalom a parancsolásra.
 (Bahaiprayers.net ID: 2674)
 
 
+
+
 ### <a id="bpn2675"></a> Prayer bpn2675 in Magyar
 Részesíts, ó, Istenem, szereteted és tetszésed teljes mértékében, és csodásan ragyogó fényed vonzásával bájold el szívünket, ó, Te, Ki a Legfőbb Bizonyíték és a Legdicsőségesebb vagy. Küldd le reám, kegyelmed jeléül, életadó fuvallataidat napközben és éjszaka, ó, a bőkezűség Ura.
 
@@ -1119,11 +1327,15 @@ Valóban, ha Te meg kívánnád áldani egy szolgádat, kitörölnél Te szíve 
 (Bahaiprayers.net ID: 2675)
 
 
+
+
 ### <a id="bpn2676"></a> Prayer bpn2676 in Magyar
 Ó, Istenem, Uram, és Mesterem! Elszakítottam magam immár véreimtől és Általad keresem, miként légyek független e Föld lakóitól és hogyan álljak mindig készen, hogy befogadjam, mi dicséretreméltó Előtted. Halmozz el annyi jóval, hogy ne légyen parancsolóm Rajtad kívül, és növeld meg részem határtalan jótéteményeidből. Bizony, Te vagy a bőségesen áradó kegyelem Ura.
 
 (Source category: Isten felé fordulás)
 (Bahaiprayers.net ID: 2676)
+
+
 
 
 
@@ -1136,6 +1348,8 @@ Fény és dicsőség, üdv és dicséret Isten Ügye Kezeinek, kiken keresztül 
 
 (Source category: Isten ügyének kezei)
 (Bahaiprayers.net ID: 2677)
+
+
 
 
 
@@ -1181,6 +1395,8 @@ Tanúságot teszek egységedről és egyedüliségedről, és arról, hogy Te va
 
 
 
+
+
 ## Lelki növekedés
 
 ### <a id="bpn2678"></a> Prayer bpn2678 in Magyar
@@ -1188,6 +1404,8 @@ Mondd: ó, Isten, én Istenem! Ékesítsd fejemet az igazság koronájával és 
 
 (Source category: Lelki növekedés)
 (Bahaiprayers.net ID: 2678)
+
+
 
 
 ### <a id="bpn2679"></a> Prayer bpn2679 in Magyar
@@ -1199,11 +1417,15 @@ Valóban, Te vagy a Mindenható, a Mindenek Felett Dicső, a Leghatalmasabb.
 (Bahaiprayers.net ID: 2679)
 
 
+
+
 ### <a id="bpn2680"></a> Prayer bpn2680 in Magyar
 Tiszta szívet teremts bennem, ó, Istenem, és adj nékem ismét nyugodt lelkiismeretet, ó, Reménységem! Az erő szellemével szilárdíts meg engem Ügyedben, ó, Szerettem, és dicsőséged fényével tárd fel ösvényedet előttem, ó, Te, vágyaim Célja! Földöntúli hatalmad erejével emelj fel engem szentséged egébe, ó, létemnek Forrása, és örvendeztess meg örökkévalóságod szellőivel, ó, Te, Ki az én Istenem vagy! Örök dallamaid leheljenek nyugalmat belém, ó, Kísérőm, és ősi orcád gazdagsága szabadítson meg mindentől Rajtad kívül, ó, Mesterem. Halhatatlan Lényeged kinyilatkoztatásának hírével szerezz nékem örömet, ó, Te, Ki a Legnyilvánvalóbb vagy a nyilvánvalók, és a Legrejtettebb az elrejtettek között!
 
 (Source category: Lelki növekedés)
 (Bahaiprayers.net ID: 2680)
+
+
 
 
 ### <a id="bpn2681"></a> Prayer bpn2681 in Magyar
@@ -1215,6 +1437,8 @@ Istenem, Imádottam, Királyom, Vágyam! Mily nyelv mondhatná el köszönetemet
 (Bahaiprayers.net ID: 2681)
 
 
+
+
 ### <a id="bpn2682"></a> Prayer bpn2682 in Magyar
 Örökkévalóságod illatos folyamaiból adj innom, ó, Istenem, és Lényed fájának gyümölcseiből hadd kóstoljak, ó, Reménységem! Szereteted kristálytiszta forrásaiból hadd kortyolhassak, ó, Dicsőségem, és örök gondviselésed árnyékában adj szállást, ó, Fényességem! Engedd, hogy közelséged mezőin barangoljak színed előtt, ó, Szerettem, és hogy irgalmad trónja jobbján foglaljak helyet, ó, Vágyam! Örömöd édes szellői hadd legyezzenek, ó, Célom, és bocsáss be valóságod magas paradicsomkertjébe, ó, Imádottam! Engedd, hogy hallhassam egyedüliséged galambjának dallamait, ó, Ragyogó Uram, és hatalmad és erőd szellemével kelts új életre, ó, Fenntartóm! Tégy engem állhatatossá szeretetedben, ó, Segítőm, és tedd határozottá lépteimet tetszésed ösvényén, ó, Teremtőm! Halhatatlanságod kertjében, a Te orcád előtt lakozzak mindörökre, ó, Te, Ki irgalmas vagy hozzám, és kínálj nékem helyet dicsőséged székhelyén, ó, Te, Ki az Uram vagy! Szerető kedvességed egébe emelj fel engem, ó, Életadóm, és vezess el útmutatásod Napcsillagához, ó, Te, Ki Magadhoz vonzol engem! Láthatatlan szellemed kinyilatkoztatásai elé hívjál engem, ó, Létem Forrása és leghőbb Vágyam, és hadd térjek vissza szépséged illatos lényegéhez, melyet kinyilvánítani kívánsz, ó, Te, Ki az én Istenem vagy!
 
@@ -1222,6 +1446,8 @@ Hatalmas vagy Te megtenni, amit csak kívánsz. Bizony, Te vagy a Legmagasztosab
 
 (Source category: Lelki növekedés)
 (Bahaiprayers.net ID: 2682)
+
+
 
 
 ### <a id="bpn2683"></a> Prayer bpn2683 in Magyar
@@ -1237,6 +1463,8 @@ Mondd: Ó, Istenem! Ó, Te, Ki a mennyek és a föld Alkotója vagy, ó, a Kirá
 (Bahaiprayers.net ID: 2683)
 
 
+
+
 ### <a id="bpn2684"></a> Prayer bpn2684 in Magyar
 Esdekelve kérlek dicsőséges arcod fényének ragyogására, időtlen nagyságod fenségére és mindent meghaladó uralmad erejére, hogy rendelj most számunkra mértéket mindenből, mi jó és illő, és rendelj nékünk részt kegyelmed kiáradásának minden részéből. Mert ajándékok osztása Néked veszteséget nem okoz, sem a kegyek adása nem csökkenti a Te gazdagságodat.
 
@@ -1244,6 +1472,8 @@ Dicsőített vagy, Uram! Én bizony szegény vagyok, míg Te valóban gazdag vag
 
 (Source category: Lelki növekedés)
 (Bahaiprayers.net ID: 2684)
+
+
 
 
 ### <a id="bpn2685"></a> Prayer bpn2685 in Magyar
@@ -1259,6 +1489,8 @@ Hőn könyörgöm Hozzád, ó Istenem, részesíts kegyesen megelégedésedben, 
 (Bahaiprayers.net ID: 2685)
 
 
+
+
 ### <a id="bpn2686"></a> Prayer bpn2686 in Magyar
 Dicsőíttessék a Te Neved, ó, Urunk, Istenünk! Te vagy, valóban, a láthatatlan dolgok Ismerője. Rendelj számunkra olyan javakat, melyeket a Te mindent átfogó tudásod tud kimérni. Te vagy a korlátlan hatalmú Úr, a Mindenható, a Legimádottabb.
 
@@ -1272,6 +1504,8 @@ Mondd: Isten, valóban, mindennek az Alkotója. Bőséges táplálékot ad Ő an
 (Bahaiprayers.net ID: 2686)
 
 
+
+
 ### <a id="bpn2687"></a> Prayer bpn2687 in Magyar
 Dicsőség Néked, ó, Uram, én Imádottam! Tégy engem erőssé Ügyedben, és add, hogy azok közé számíttassak, kik nem szegték meg Szövetségedet, sem nem követték saját meddő képzelgéseik bálványait. Majd tégy képessé arra, hogy elnyerjem az igazság egy székét Színed előtt, ruházd rám irgalmasságod jelét, és engedd, hogy azon szolgáidhoz csatlakozhassam, akik nem fognak félni, és akik nem lesznek bánatnak kitéve. Ne hagyj magamra, ó, Uram, ne fossz meg Annak felismerésétől, Ki Önmagad Megnyilvánulása, sem ne számíts engem azokhoz, kik elfordultak szent színedtől. Számlálj engem, ó, Istenem, azok közé, kiknek megadatott a kiváltság, hogy Szépségedet szemlélhessék, és akik ebben olyan örömöt találnak, hogy nem cserélnék el ennek egyetlen percét sem a mennyek és a föld királysága fölötti hatalomért, vagy a teremtés egész birodalmáért. Légy hozzám irgalmas, ó, Uram, ezekben a napokban, mikor Földed népei súlyosan eltévelyedtek, majd láss el engem, ó, Istenem, azzal, mi szemedben jó és illő. Te vagy, valóban, a Mindenek Felett Hatalmas, a Kegyes, a Nagylelkű, a Mindig Megbocsátó.
 
@@ -1281,6 +1515,8 @@ Add, ó, Istenem, hogy ne számíttassak azok közé, kiknek füle süket, szeme
 (Bahaiprayers.net ID: 2687)
 
 
+
+
 ### <a id="bpn2688"></a> Prayer bpn2688 in Magyar
 Ó, Isten! Üdítsd és vidítsd fel lelkemet. Tisztítsd meg szívemet. Világosítsd meg képességeimet. Minden ügyemet a Te kezedbe helyezem. Te vagy az Irányítóm és Menedékem. Nem leszek többé bánatos és gondterhelt, hanem boldog és vidám. Ó, Isten! Nem leszek többé tele félelemmel és aggodalommal. Nem foglalkozom ezentúl az élet kellemetlen dolgaival.
 
@@ -1288,6 +1524,8 @@ Add, ó, Istenem, hogy ne számíttassak azok közé, kiknek füle süket, szeme
 
 (Source category: Lelki növekedés)
 (Bahaiprayers.net ID: 2688)
+
+
 
 
 ### <a id="bpn2689"></a> Prayer bpn2689 in Magyar
@@ -1303,11 +1541,15 @@ Mert bizony, Te vagy a Mindenható, a Mindenek Felett Dicső, a Mindenek Felett 
 (Bahaiprayers.net ID: 2689)
 
 
+
+
 ### <a id="bpn2690"></a> Prayer bpn2690 in Magyar
 Ó, Uram, Szerelmem, Vágyam! Légy barátom magányomban és társam számkivetettségemben. Szabadíts meg bánatomtól. Tedd, hogy szépséged imádója legyek. Fordíts el engem mindentől Rajtad kívül. Vonzz Magadhoz szentséged illatával. Hadd lehessek együtt Királyságodban azokkal, kik minden köteléket elvágtak, mely nem Hozzád fűzi őket, kik a szent Küszöböd előtti szolgálat után vágyódnak, és kik kiállnak, hogy Ügyedért munkálkodjanak. Tégy engem képessé arra, hogy szolgálóleányaid egyike lehessek, kik elnyerték tetszésedet. Valóban, Te vagy a Kegyes, a Nagylelkű.
 
 (Source category: Lelki növekedés)
 (Bahaiprayers.net ID: 2690)
+
+
 
 
 ### <a id="bpn2691"></a> Prayer bpn2691 in Magyar
@@ -1317,11 +1559,15 @@ Mert bizony, Te vagy a Mindenható, a Mindenek Felett Dicső, a Mindenek Felett 
 (Bahaiprayers.net ID: 2691)
 
 
+
+
 ### <a id="bpn2692"></a> Prayer bpn2692 in Magyar
 Ó, Te könyörületes Úr, Ki nagylelkű vagy és mindenre képes! Szolgáid vagyunk, akiket gondviselésed oltalmaz. Vesd reánk kegyes tekinteted. Adj látást szemünknek, hallást fülünknek, szívünket értelemmel és szeretettel töltsd el. Örömhíreiddel tedd lelkünket vidámmá és boldoggá. Ó, Uram! Mutasd meg számunkra királyságod útját, és kelts új életre valamennyiünket a Szentlélek leheletével. Adj nekünk örök életet, és részeltess bennünket végtelen tisztességben. Egyesítsd az emberiséget, és áraszd el fénnyel az emberi világot. Hadd járjunk mindnyájan a Te ösvényeden, hadd keressük mind a Te tetszésedet, hadd kutassuk Királyságod rejtelmeit. Ó, Isten! Tedd, hogy egyek legyünk, s megbonthatatlan kötelékeddel fűzd össze szíveinket. Bizony, Te vagy az Adakozó, Te vagy a Jóságos és Te vagy a Mindenható.
 
 (Source category: Lelki növekedés)
 (Bahaiprayers.net ID: 2692)
+
+
 
 
 
@@ -1345,6 +1591,8 @@ Valóban, Te vagy az Erős, a Jóságos. Nincsen Isten Rajtad kívül, Ki a Hata
 (Bahaiprayers.net ID: 2694)
 
 
+
+
 ### <a id="bpn2695"></a> Prayer bpn2695 in Magyar
 Dicsőíttessél, ó, Uram, én Istenem! Akárhányszor csak említeni merészellek, hatalmas bűneim és súlyos, Ellened való cselekedeteim visszatartanak, és kegyelmedtől megfosztottnak és teljesen erőtlennek érzem magam, hogy dicséreted zengjem. És mégis, nagy bizodalmam jóságodban új reménnyel tölt el, és a bizonyosság, hogy bőséged kezét nyújtod felém, arra bátorít, hogy magasztaljalak Téged, és olyan dolgokért esedezzem, melyekkel csak Te rendelkezel.
 
@@ -1360,6 +1608,8 @@ Dicsőítessék Isten, minden világok Ura!
 (Bahaiprayers.net ID: 2695)
 
 
+
+
 ### <a id="bpn2696"></a> Prayer bpn2696 in Magyar
 *[Részlet Bahá’u’lláh Ragyogások - Ishráqát című táblájából]:
 
@@ -1373,6 +1623,8 @@ Hatalmad a tanúm! Ha nem a Te dicséretedet zengené, nyelvem nem lenne hasznom
 (Bahaiprayers.net ID: 2696)
 
 
+
+
 ### <a id="bpn2697"></a> Prayer bpn2697 in Magyar
 Dicsőség Néked, ó, Uram! Bocsásd meg bűneinket, könyörülj rajtunk s tégy képessé, hogy visszatérhessünk Hozzád. Ne engedd, hogy másban bízzunk Rajtad kívül, és nagylelkűen küldd le reánk azt, amit szeretsz és kívánsz és ami illendő Előtted. Magasztald fel azokat, kik szívből hisznek és bocsáss meg nékik kegyes jóakaratoddal.
 
@@ -1382,11 +1634,15 @@ Mert bizony Te vagy a Veszélyben Oltalmazó, az Önmagától Való.
 (Bahaiprayers.net ID: 2697)
 
 
+
+
 ### <a id="bpn2698"></a> Prayer bpn2698 in Magyar
 Ó, Istenem, ó, Uram, ó, Mesterem! Könyörgöm Hozzád, bocsásd meg nékem, ha más örömöt keresek, mint a Te szereteted, vagy más vigasztalást, mint a Te közelséged, vagy más boldogságot, mint a Te tetszésed, vagy más létezést a Véled való kapcsolaton kívül.
 
 (Source category: Megbocsátás)
 (Bahaiprayers.net ID: 2698)
+
+
 
 
 ### <a id="bpn2699"></a> Prayer bpn2699 in Magyar
@@ -1398,6 +1654,8 @@ Dicsőítessél, ó, Uram, Ki mindenkor megbocsátja azon szolgái bűneit, kik 
 (Bahaiprayers.net ID: 2699)
 
 
+
+
 ### <a id="bpn2700"></a> Prayer bpn2700 in Magyar
 Jól tudom, ó, Uram, hogy vétkeim színed előtt szégyenbe borították arcom, és teherként nehezedtek hátamra Előtted, elválasztottak engem a Te szépséges orcádtól, körülvettek minden oldalról, és minden felől akadályoztak abban, hogy eljuthassak mennyei erőd kinyilatkoztatásaihoz.
 
@@ -1405,6 +1663,8 @@ Jól tudom, ó, Uram, hogy vétkeim színed előtt szégyenbe borították arcom
 
 (Source category: Megbocsátás)
 (Bahaiprayers.net ID: 2700)
+
+
 
 
 ### <a id="bpn2701"></a> Prayer bpn2701 in Magyar
@@ -1416,11 +1676,15 @@ Megbocsátásodért könyörgöm, ó, Istenem, és bocsánatodért esedezem oly 
 (Bahaiprayers.net ID: 2701)
 
 
+
+
 ### <a id="bpn2702"></a> Prayer bpn2702 in Magyar
 Könyörgöm Hozzád, ó, Uram, bocsáss meg nékem minden említést a Te említéseden kívül, és minden dicsőítést a Te dicsőítéseden kívül, és minden örömet a Hozzád való közelség örömén kívül, és minden gyönyörűséget a Véled való kapcsolat gyönyörűségén kívül, és minden boldogságot a Te szereteted és tetszésed boldogságán kívül, és mindent, mi hozzám tartozik, de nincs kapcsolatban Véled, ó, Te, Ki az urak Ura vagy, Ki biztosítja az eszközöket és megnyitja a kapukat.
 
 (Source category: Megbocsátás)
 (Bahaiprayers.net ID: 2702)
+
+
 
 
 ### <a id="bpn2703"></a> Prayer bpn2703 in Magyar
@@ -1431,6 +1695,8 @@ Könyörgöm Hozzád, ó, Uram, bocsáss meg nékem minden említést a Te emlí
 
 
 
+
+
 ## Megpróbáltatások és nehézségek
 
 ### <a id="bpn2704"></a> Prayer bpn2704 in Magyar
@@ -1438,6 +1704,8 @@ Könyörgöm Hozzád, ó, Uram, bocsáss meg nékem minden említést a Te emlí
 
 (Source category: Megpróbáltatások és nehézségek)
 (Bahaiprayers.net ID: 2704)
+
+
 
 
 ### <a id="bpn2705"></a> Prayer bpn2705 in Magyar
@@ -1451,6 +1719,8 @@ Legnagyobb Nevedre, legősibb fenségedre kérlek könyörögve, tekints le szer
 (Bahaiprayers.net ID: 2705)
 
 
+
+
 ### <a id="bpn2706"></a> Prayer bpn2706 in Magyar
 Oszlasd el bánatomat jótékonyságoddal és bőkezűségeddel, ó, Isten, én Istenem, és szüntesd szívfájdalmamat fenségeddel és hatalmaddal. Látod, ó, Istenem, arcomat Feléd fordítom egy olyan időben, mikor szomorúság vesz körül minden oldalról. Ó, Te, Ki minden lét Ura vagy, s Ki felülmúlsz minden láthatót és láthatatlant, könyörgöm Nevedre, mely által az emberek szívét és lelkét uralod, és irgalmad Óceánjának hullámaira és jótékonyságod fénylő Napcsillagának ragyogására kérlek, számíts engem azok közé, kiket semmi sem tudott meggátolni abban, hogy Feléd fordítsák arcukat, ó, Te, minden nevek Ura és az egek Teremtője!
 
@@ -1460,6 +1730,8 @@ Végezetül, orcád fényére könyörgöm Hozzád, áldd meg lépteimet, bocsá
 
 (Source category: Megpróbáltatások és nehézségek)
 (Bahaiprayers.net ID: 2706)
+
+
 
 
 ### <a id="bpn2707"></a> Prayer bpn2707 in Magyar
@@ -1477,6 +1749,8 @@ Tedd, ó, Istenem, Benned hívő és Ügyedet támogató szolgádat rendíthetet
 (Bahaiprayers.net ID: 2707)
 
 
+
+
 ### <a id="bpn2708"></a> Prayer bpn2708 in Magyar
 Hatalmadra szólítlak, ó, Istenem! Ne érjen engem semmi rossz a próbák idején, és a hanyagság pillanataiban vezéreld lépteim egyenesen sugallatoddal. Te vagy az Isten, hatalmas vagy Te azt tenni, amit csak kívánsz. Akaratodnak senki ellent nem állhat, sem Célod nem keresztezheti senki.
 
@@ -1484,11 +1758,15 @@ Hatalmadra szólítlak, ó, Istenem! Ne érjen engem semmi rossz a próbák idej
 (Bahaiprayers.net ID: 2708)
 
 
+
+
 ### <a id="bpn2709"></a> Prayer bpn2709 in Magyar
 Ó, Uram! Te vagy minden szenvedés Eloszlatója és minden nyomorúság Megszüntetője! Te vagy, Ki elűz minden bánatot és megszabadít minden rabot, s Te vagy minden lelkek Megváltója. Ó, Uram, ments meg engem irgalmad erejével, s számlálj azon szolgáid közé, kik megváltást nyertek.
 
 (Source category: Megpróbáltatások és nehézségek)
 (Bahaiprayers.net ID: 2709)
+
+
 
 
 ### <a id="bpn2710"></a> Prayer bpn2710 in Magyar
@@ -1502,6 +1780,8 @@ Mérhetetlenül magasztosan állsz Te, ó, a mennyek és a föld Ura, minden emb
 (Bahaiprayers.net ID: 2710)
 
 
+
+
 ### <a id="bpn2711"></a> Prayer bpn2711 in Magyar
 Ó, Uram! Te előtted nyilvánvaló, hogy az embereket fájdalom és balsors veszi körül, hogy bajok és nehézségek környezik őket. Minden megpróbáltatás és minden szörnyű csapás úgy éri az embert, mint a kígyó harapása. Nincsen más menedékhely és mentsvár számára, mint a Te védőszárnyaid alatti védelem, oltalom, őrizet és gondoskodás.
 
@@ -1511,6 +1791,8 @@ Valóban, Te vagy a Védelmező, az Oltalmazó, a Megtartó, a Megelégítő, s 
 
 (Source category: Megpróbáltatások és nehézségek)
 (Bahaiprayers.net ID: 2711)
+
+
 
 
 ### <a id="bpn2712"></a> Prayer bpn2712 in Magyar
@@ -1541,6 +1823,8 @@ Mert valóban Te vagy a Kegyes, a Dicsőített, a Hatalmas, a Mindenható.
 
 
 
+
+
 ## Mártírok
 
 ### <a id="bpn2693"></a> Prayer bpn2693 in Magyar
@@ -1564,6 +1848,8 @@ Bizony, Te vagy a Nagylelkű, a Hatalmas, a Mindenható, a Korlátozatlan. Nincs
 
 
 
+
+
 ## Naw-Rúz
 
 ### <a id="bpn2753"></a> Prayer bpn2753 in Magyar
@@ -1584,6 +1870,8 @@ Valóban, Te vagy a Mindenek Tudója, a Mindenek Felett Bölcs.
 
 
 
+
+
 ## Reggel
 
 ### <a id="bpn2716"></a> Prayer bpn2716 in Magyar
@@ -1599,11 +1887,15 @@ Valóban, Te vagy minden ember Ura és Királya, és hatalmad van minden dolgok 
 (Bahaiprayers.net ID: 2716)
 
 
+
+
 ### <a id="bpn2717"></a> Prayer bpn2717 in Magyar
 Menedékedben ébredtem, ó, Istenem, és illendő annak, ki ezt keresi, hogy oltalmad Szentélyében és védőkarod Erősségében lakozzék. Világítsd meg benső lényemet, ó, Uram, Kinyilatkoztatásod Hajnalának ragyogásával, miként külső lényemet beragyogja kegyed reggeli fénye.
 
 (Source category: Reggel)
 (Bahaiprayers.net ID: 2717)
+
+
 
 
 
@@ -1630,6 +1922,8 @@ Nincs más Isten, csak Te, a Veszélyben Oltalmazó, az Önmagától Való.
 
 
 
+
+
 ## Segítség félrevezetetteknek
 
 ### <a id="bpn2718"></a> Prayer bpn2718 in Magyar
@@ -1637,6 +1931,8 @@ Istenhez fohászkodunk, kegyesen segítse azokat, kik félrevezettettek, hogy ig
 
 (Source category: Segítség félrevezetetteknek)
 (Bahaiprayers.net ID: 2718)
+
+
 
 
 
@@ -1653,11 +1949,15 @@ Mi mindnyájan csupán szegények és szűkölködők vagyunk, és bizony, Te va
 (Bahaiprayers.net ID: 2719)
 
 
+
+
 ### <a id="bpn2720"></a> Prayer bpn2720 in Magyar
 Ó, Istenem! Legdicsőbb Nevedre kérlek, segíts engem mindabban, mi szolgáidnak hasznára válik, és abban, mi által felvirágzanak városaid. Mert bizony Néked van hatalmad minden dolgok fölött.
 
 (Source category: Segítségkérés)
 (Bahaiprayers.net ID: 2720)
+
+
 
 
 ### <a id="bpn2721"></a> Prayer bpn2721 in Magyar
@@ -1667,11 +1967,15 @@ Van-e eltávolítója a nehézségeknek Istenen kívül? Mondd: dicséret Istenn
 (Bahaiprayers.net ID: 2721)
 
 
+
+
 ### <a id="bpn2722"></a> Prayer bpn2722 in Magyar
 Mondd: az Úr ad megelégedést mindeneknek mindenek fölött. A mennyekben vagy a földön nem segíthet más, csak Isten. Valóban, Ő Önmagában a Tudó, a Fenntartó, a Mindenható.
 
 (Source category: Segítségkérés)
 (Bahaiprayers.net ID: 2722)
+
+
 
 
 ### <a id="bpn2723"></a> Prayer bpn2723 in Magyar
@@ -1685,6 +1989,8 @@ Add meg nekünk mindennapi kenyerünket, hadd gyarapodjunk földi dolgainkban, h
 (Bahaiprayers.net ID: 2723)
 
 
+
+
 ### <a id="bpn2724"></a> Prayer bpn2724 in Magyar
 Ó, Isten, én Istenem! Íme esendő alattvalóid, kik a Te hűséges szolgáid és szolgálóleányaid, kik meghajtották magukat magasztos Kijelentésed előtt és alázattal hajoltak meg fényed Küszöbe előtt, és tanúságot tettek Egységedről, melyen keresztül delelői tündöklésben sugárzott elő a Nap. Hallgattak ők hívásodra, mely rejtett Birodalmadból hallatszott, és szeretettől és elragadtatástól remegő szívvel válaszoltak hívó Szavadra.
 
@@ -1696,11 +2002,15 @@ Te vagy valóban a Hatalmas, a Magasztos, az Erős, Ki a mennyekben és a föld�
 (Bahaiprayers.net ID: 2724)
 
 
+
+
 ### <a id="bpn2725"></a> Prayer bpn2725 in Magyar
 Ó, Uram, én Istenem! Nyújtsd kezed azoknak, akiket szeretsz, hogy hívek lehessenek Hitedhez, a Te utadon járhassanak és szilárdak lehessenek Ügyedben. Bocsásd rájuk kegyelmedet, hogy megállhassanak az önzés és szenvedély támadásai közepette, és az isteni útmutatás fényét követhessék. Te vagy az Erős, a Kegyelmes, az Önmagától Való, az Adakozó, a Könyörületes, a Mindenható, a Mindenek Felett Bőkezű.
 
 (Source category: Segítségkérés)
 (Bahaiprayers.net ID: 2725)
+
+
 
 
 ### <a id="bpn2726"></a> Prayer bpn2726 in Magyar
@@ -1715,6 +2025,8 @@ Te vagy, valóban, az Egyetlen, az Egyedülálló, a Hatalmas, a Mindenek Tudój
 
 
 
+
+
 ## Szellemi tanácsok
 
 ### <a id="bpn2727"></a> Prayer bpn2727 in Magyar
@@ -1726,6 +2038,8 @@ Te vagy, valóban, az Egyetlen, az Egyedülálló, a Hatalmas, a Mindenek Tudój
 (Bahaiprayers.net ID: 2727)
 
 
+
+
 ### <a id="bpn2728"></a> Prayer bpn2728 in Magyar
 *Gyűljetek össze tiszta örömben, és az ülés kezdetén imádkozzátok az alábbi imát:
 
@@ -1735,6 +2049,8 @@ Te vagy, valóban, az Egyetlen, az Egyedülálló, a Hatalmas, a Mindenek Tudój
 
 (Source category: Szellemi tanácsok)
 (Bahaiprayers.net ID: 2728)
+
+
 
 
 ### <a id="bpn2729"></a> Prayer bpn2729 in Magyar
@@ -1750,6 +2066,8 @@ Bizony, Te vagy a Nagylelkű, az Irgalmas. Te vagy a nagy bőség Birtokosa, és
 
 (Source category: Szellemi tanácsok)
 (Bahaiprayers.net ID: 2729)
+
+
 
 
 
@@ -1775,6 +2093,8 @@ Te vagy, valóban, a Mindenható, a Mindenek Tudója, Ki előtt nem marad rejtve
 (Bahaiprayers.net ID: 2749)
 
 
+
+
 ### <a id="bpn2750"></a> Prayer bpn2750 in Magyar
 A böjt
 *[A tizenkilenc napos böjti időszak egybeesik az ‘Alá’ hónappval, vagyis általában a március 2-20. közötti időszakkal, közvetlenül a Szökőnapok végetérte után következik, és a Naw-Rúz ünnep követi.]
@@ -1794,6 +2114,8 @@ Nincsen más Isten, csak Te, a Mindenek Tudója, a Mindenek Felett Bölcs. Minde
 
 (Source category: Szökőnapok)
 (Bahaiprayers.net ID: 2750)
+
+
 
 
 ### <a id="bpn2751"></a> Prayer bpn2751 in Magyar
@@ -1819,11 +2141,15 @@ Tedd Ügyedet győzedelmessé, ó, Uram, és alázd meg ellenségeidet. Rendeld 
 (Bahaiprayers.net ID: 2751)
 
 
+
+
 ### <a id="bpn2752"></a> Prayer bpn2752 in Magyar
 Ó, Isteni Gondviselés! Miként megtartóztatom magam a testi vágyaktól és nem figyelmezek ételre-italra, úgy tisztítsd és szenteld meg az én szívemet egyedül Feléd forduló szeretettel, és védd meg és őrizd lelkemet a romlott vágyaktól és ördögi vonásoktól, hogy szellemem a szentség leheletével társaloghasson és megtartóztassa magát minden említéstől a Te említéseden kívül.
 
 (Source category: Szökőnapok)
 (Bahaiprayers.net ID: 2752)
+
+
 
 
 
@@ -1836,6 +2162,8 @@ Dicsőség Istennek, minden világok Urának!
 
 (Source category: Tanítás)
 (Bahaiprayers.net ID: 2730)
+
+
 
 
 ### <a id="bpn2731"></a> Prayer bpn2731 in Magyar
@@ -1851,6 +2179,8 @@ Te vagy valóban a Leghatalmasabb, a Legmagasztosabb, a Mindenek Tudója, a Mind
 (Bahaiprayers.net ID: 2731)
 
 
+
+
 ### <a id="bpn2732"></a> Prayer bpn2732 in Magyar
 Dicsőség légyen Néked, ó, Uram, Ki parancsod erejével életre hívtál minden teremtett dolgot.
 
@@ -1864,11 +2194,15 @@ Add meg nékik, ó, Uram, hogy szívük ehhez a Hithez, a Te sérthetetlen Hited
 (Bahaiprayers.net ID: 2732)
 
 
+
+
 ### <a id="bpn2733"></a> Prayer bpn2733 in Magyar
 Dicsértessék a Te Neved, ó, Isten! Te vagy valóban a mi Urunk. Te tudsz mindenről a mennyekben és a földön. Küldd le hát reánk irgalmad egy zálogát. Te valóban felülmúlhatatlan vagy az irgalmat gyakorlók között. Minden dicsőség Néked, ó, Urunk! Rendeld el számunkra jelenlétedből azt, mi őszinte szolgáid szívét megvigasztalja. Dicsőített vagy Te, ó, Isten, Te vagy a mennyek és a föld s a kettő között fekvő dolgok Teremtője. Te vagy a korlátlan Úr, a Legszentebb, a Mindenható, a Mindenek Felett Bölcs. Magasztaltassék a Te Neved, ó, Isten, küldj azoknak, akik hisznek Istenben és jeleiben, oly hatalmas segítséget jelenlétedből, hogy képesek legyenek érvényesülni az emberiség javarésze fölött.
 
 (Source category: Tanítás)
 (Bahaiprayers.net ID: 2733)
+
+
 
 
 ### <a id="bpn2734"></a> Prayer bpn2734 in Magyar
@@ -1878,6 +2212,8 @@ Dicsértessék a Te Neved, ó, Isten! Te vagy valóban a mi Urunk. Te tudsz mind
 (Bahaiprayers.net ID: 2734)
 
 
+
+
 ### <a id="bpn2735"></a> Prayer bpn2735 in Magyar
 Ó, Isten! Ó, Isten! Ímé, egy törött szárnyú madár, röpte nagyon lassú – segíts néki, hogy a jólét és megváltás csúcsa felé repülhessen, a legnagyobb örömben és boldogságban szárnyalhasson a határtalan térben, Legfőbb Nevedben szólhasson éneke minden vidék felett, örvendeztethesse meg a füleket e hívással, és ragyogtathassa fel a szemeket az útmutatás jeleivel.
 
@@ -1885,6 +2221,8 @@ Dicsértessék a Te Neved, ó, Isten! Te vagy valóban a mi Urunk. Te tudsz mind
 
 (Source category: Tanítás)
 (Bahaiprayers.net ID: 2735)
+
+
 
 
 ### <a id="bpn2736"></a> Prayer bpn2736 in Magyar
@@ -1898,6 +2236,8 @@ Bizony, Te vagy az Erős, a Hatalmas, a Mindenható, és Te vagy a Bölcs, a Hal
 (Bahaiprayers.net ID: 2736)
 
 
+
+
 ### <a id="bpn2737"></a> Prayer bpn2737 in Magyar
 Ó, Istenem! Segítsd szolgádat, hogy felemelhesse Szavadat, visszautasíthasson mindent, mely hiábavaló és hamis, megláttathassa az igazságot, messze földön terjeszthesse szent verseidet, felfedhesse a ragyogásokat, és általa felragyoghasson a hajnalpír az igazak szívében.
 
@@ -1907,11 +2247,15 @@ Valóban, Te vagy a Nagylelkű, a Megbocsátó.
 (Bahaiprayers.net ID: 2737)
 
 
+
+
 ### <a id="bpn2738"></a> Prayer bpn2738 in Magyar
 Ó, Isten, én Istenem! Segítsd bizalmas szolgáidat, hogy szerető és kedves szívet nyerhessenek. Hadd terjesszék a föld minden népe között a Magasságbéli Gyülekezettől alászálló útmutatás fényét. Valóban, Te vagy az Erős, a Hatalmas, a Mindenható, a Mindeneket Lebíró, a Mindig Adományozó. Valóban, Te vagy a Nagylelkű, a Gyengéd, a Szelíd, a Legbőkezűbb.
 
 (Source category: Tanítás)
 (Bahaiprayers.net ID: 2738)
+
+
 
 
 
@@ -1926,6 +2270,8 @@ Valóban, Te vagy a Nagylelkű, a Megbocsátó.
 (Bahaiprayers.net ID: 2747)
 
 
+
+
 ### <a id="bpn2748"></a> Prayer bpn2748 in Magyar
 —`Abdu’l-Bahá
 
@@ -1936,6 +2282,8 @@ Valóban, Te vagy a Nagylelkű, a Megbocsátó.
 
 (Source category: Tizenkilenc napi ünnep)
 (Bahaiprayers.net ID: 2748)
+
+
 
 
 
@@ -1982,6 +2330,8 @@ Bizony, Ő az Irgalmas, a Könyörületes. Magasztaltassék Isten, minden világ
 
 
 
+
+
 ## Várandós anyáknak
 
 ### <a id="bpn2617"></a> Prayer bpn2617 in Magyar
@@ -1991,6 +2341,8 @@ Uram, én Uram! Dicsőítlek Téged és hálát adok Néked mindazért, mivel ki
 
 (Source category: Várandós anyáknak)
 (Bahaiprayers.net ID: 2617)
+
+
 
 
 
@@ -2007,6 +2359,8 @@ Te valóban a Mindenható vagy, a Legmagasztosabb, a Mindig Megbocsátó, a Legn
 (Bahaiprayers.net ID: 2742)
 
 
+
+
 ### <a id="bpn2743"></a> Prayer bpn2743 in Magyar
 Isten, az ellenállhatatlan fenség Ura, a Mindeneknek Parancsoló Nevében.
 
@@ -2020,6 +2374,8 @@ Mérhetetlenül magasztos vagy, ó, Uram! Védj meg minket mindentől, ami előt
 (Bahaiprayers.net ID: 2743)
 
 
+
+
 ### <a id="bpn2744"></a> Prayer bpn2744 in Magyar
 Ezen ima eredetije a Báb saját keze által íródott pentagram formában.
 
@@ -2029,11 +2385,15 @@ Ezen ima eredetije a Báb saját keze által íródott pentagram formában.
 (Bahaiprayers.net ID: 2744)
 
 
+
+
 ### <a id="bpn2745"></a> Prayer bpn2745 in Magyar
 Ó, Te, isteni Gondviselés! Hitványak vagyunk, segíts meg minket; hontalanul vándorlunk, adj nékünk menedéket; szétszórattunk, egyesíts minket; eltévelyedtünk, gyűjts minket nyájadba; semmink sincsen, rendelj nékünk részt; szomjúhozunk, vezess minket az Élet forrásához; esendők vagyunk, önts erőt belénk, hogy kiállhassunk Ügyedet segíteni, és önmagunkat ajánlhassuk élő áldozatként a vezérlet ösvényén.
 
 (Source category: Védelem)
 (Bahaiprayers.net ID: 2745)
+
+
 
 
 ### <a id="bpn2746"></a> Prayer bpn2746 in Magyar
@@ -2046,6 +2406,8 @@ Fogadd védőszárnyaid alá, ó, Te, a tisztaság Szelleme, Te, Ki a Mindenkin�
 
 
 
+
+
 ## Összejövetelek
 
 ### <a id="bpn2713"></a> Prayer bpn2713 in Magyar
@@ -2055,11 +2417,15 @@ Fogadd védőszárnyaid alá, ó, Te, a tisztaság Szelleme, Te, Ki a Mindenkin�
 (Bahaiprayers.net ID: 2713)
 
 
+
+
 ### <a id="bpn2714"></a> Prayer bpn2714 in Magyar
 Ó, Isten! Összegyűltünk itt szereteted illatában, és Királyságod felé fordulunk. Nem keresünk mást, csak Téged, és nincs egyéb vágyunk, mint hogy tetszésedet elnyerjük. Ó, Istenünk! Tedd ez étket mennyei mannáddá, és add, hogy e gyülekezet szentjeid seregévé válhasson! Hadd legyenek ők a szeretet kovásza az emberek között, és a megvilágosodás forrása az egész emberi faj számára. Hadd legyenek ők vezérleted eszközei a földön. Mert bizony Te vagy a Hatalmas, Te vagy az Adományozó, Te vagy a Megbocsátó, s Te vagy a Mindenható!
 
 (Source category: Összejövetelek)
 (Bahaiprayers.net ID: 2714)
+
+
 
 
 ### <a id="bpn2715"></a> Prayer bpn2715 in Magyar
@@ -2069,6 +2435,8 @@ Valóban, Te vagy a Mindenható és a Mindenek Felett Hatalmas!
 
 (Source category: Összejövetelek)
 (Bahaiprayers.net ID: 2715)
+
+
 
 
 
@@ -2083,11 +2451,15 @@ Nincsen más Isten, csak Te, az Egyetlen, az Összehasonlíthatatlan, a Mindenek
 (Bahaiprayers.net ID: 2740)
 
 
+
+
 ### <a id="bpn2741"></a> Prayer bpn2741 in Magyar
 Ó, Istenem, én Istenem! Szereteted kötelékébe erősen kapaszkodván keltem útra otthonomból, és teljességgel gondviselésedre és védelmedre bíztam magamat. Erődre könyörgöm Hozzád, mellyel megvédted szeretteidet az önfejűektől és a romlottaktól, minden csökönyös zsarnoktól és minden gonosztevőtől, kik messze tévelyedtek Tőled, hogy nagylelkűséged és kegyed által védelmezz meg engem. Majd engedd, hogy erőd és hatalmad segedelmével megtérhessek otthonomba. Mert bizony Te vagy a Mindenható, a Veszélyben Oltalmazó, az Önmagától Való.
 
 (Source category: Útrakelten)
 (Bahaiprayers.net ID: 2741)
+
+
 
 
 
@@ -2102,6 +2474,9 @@ Tudod, ó, Isten, és tanúskodsz mellettem, hogy nem él más vágy a szívembe
 
 (Source category: Úttörők imája)
 (Bahaiprayers.net ID: 2739)
+
+
+
 
 
 

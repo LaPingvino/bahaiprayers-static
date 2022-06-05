@@ -3,6 +3,64 @@ title = "Hrvatski"
 tags = ['lang=hr', 'prayerbook']
 +++
 
+
+
+[Brak](#Brak)
+
+[Duhovne Kvalitete](#Duhovne Kvalitete)
+
+[Hvaljenje I Zahvalnost](#Hvaljenje I Zahvalnost)
+
+[Iscjeljenje](#Iscjeljenje)
+
+[Jedinstvo](#Jedinstvo)
+
+[Jutro](#Jutro)
+
+[Kušnje I Poteškoće](#Kušnje I Poteškoće)
+
+[Mladi](#Mladi)
+
+[Muževi](#Muževi)
+
+[Noć](#Noć)
+
+[Obitelji](#Obitelji)
+
+[Odvojenost](#Odvojenost)
+
+[Oprost](#Oprost)
+
+[Pomoć](#Pomoć)
+
+[Ponoć](#Ponoć)
+
+[Postojanost U Pogodbi](#Postojanost U Pogodbi)
+
+[Pravda](#Pravda)
+
+[Preminuli](#Preminuli)
+
+[Putovanje](#Putovanje)
+
+[Roditelji](#Roditelji)
+
+[Skupovi](#Skupovi)
+
+[Službenice](#Službenice)
+
+[Trijumf Božje Stvari](#Trijumf Božje Stvari)
+
+[Trudnice](#Trudnice)
+
+[Vodstvo](#Vodstvo)
+
+[Zaštita](#Zaštita)
+
+[Čovječanstvo](#Čovječanstvo)
+
+
+
 ## Brak
 
 ### <a id="bpn3891"></a> Prayer bpn3891 in Hrvatski
@@ -20,11 +78,15 @@ On je Darovatelj, Dobrostivi! Hvaljen bio Bog, Drevni, Vjekovječni, Nepromjenjl
 (Bahaiprayers.net ID: 3891)
 
 
+
+
 ### <a id="bpn3892"></a> Prayer bpn3892 in Hrvatski
 Slava Tebi, o, Bože moj! Doista ovaj sluga Tvoj i službenica Tvoja udružili su se u sjeni Tvog milosrđa i sjedinjeni Tvojom ljubavlju i veliko- dušjem. O, Gospode! Pomozi im u ovom Tvom svijetu i Kraljevstvu Tvome i svako dobro odredi za njih dobrostivošću i milošću Tvojom. O, Gospode! Daj im snage da Ti služe i pomozi im u službi Tvojoj. Dopusti im da postanu znaci Tvog Imena u Tvojem svijetu i zaštiti ih Tvojim darovima koji su neiscrpni u ovome i u svijetu koji će doći. O, Gospode! Oni mole Kraljevstvo Tvoga milosrđa i zazivaju kraljevinu tvoje jednosti. Doista, vjenčani su štujući Tvoju zapovijed. Dopusti im da postanu znaci sklada i jedinstva za sve vijeke. Doista, Ti si Svemoćni, Sveprisutni i Svemogući!
 
 (Source category: Brak)
 (Bahaiprayers.net ID: 3892)
+
+
 
 
 ### <a id="bpn3893"></a> Prayer bpn3893 in Hrvatski
@@ -35,6 +97,8 @@ On je Bog! O, Gospode Neusporedivi! U Tvojoj svemogućoj mudrosti podario si lju
 
 
 
+
+
 ## Duhovne Kvalitete
 
 ### <a id="bpn3898"></a> Prayer bpn3898 in Hrvatski
@@ -42,6 +106,8 @@ Stvori me čista srca, o, Bože moj, i obnovi moju mirnu savjest, o, Nado moja! 
 
 (Source category: Duhovne Kvalitete)
 (Bahaiprayers.net ID: 3898)
+
+
 
 
 
@@ -57,6 +123,8 @@ O, Božanska Providnosti! Sve što postoji začeto je Tvojom dobrotom; ne uskrat
 
 
 
+
+
 ## Iscjeljenje
 
 ### <a id="bpn3900"></a> Prayer bpn3900 in Hrvatski
@@ -67,6 +135,8 @@ Ime Tvoje moje je iscjeljenje, o, Bože moj, a spomen na Tebe moj je lijek. Tvoj
 
 
 
+
+
 ## Jedinstvo
 
 ### <a id="bpn3901"></a> Prayer bpn3901 in Hrvatski
@@ -74,6 +144,8 @@ O, moj Bože! O, moj Bože! Ujedini srca Svojih slugu i otkrij im Svoj veliki ci
 
 (Source category: Jedinstvo)
 (Bahaiprayers.net ID: 3901)
+
+
 
 
 ### <a id="bpn3902"></a> Prayer bpn3902 in Hrvatski
@@ -87,6 +159,8 @@ Otkrij nam, o, Bože, Svoju uzvišenu vječnost- da si Ti oduvijek bio i da će�
 
 (Source category: Jedinstvo)
 (Bahaiprayers.net ID: 3902)
+
+
 
 
 ### <a id="bpn3903"></a> Prayer bpn3903 in Hrvatski
@@ -105,6 +179,8 @@ Doista, Ti si Svemogući, Samodovoljni, Darovatelj, Oprostitelj, Ti Praštaš, S
 
 
 
+
+
 ## Jutro
 
 ### <a id="bpn3904"></a> Prayer bpn3904 in Hrvatski
@@ -112,6 +188,8 @@ Probudih se u Tvom zaklonu, o, moj Bože, a onome koji Taj zaklon traži prilič
 
 (Source category: Jutro)
 (Bahaiprayers.net ID: 3904)
+
+
 
 
 
@@ -124,11 +202,15 @@ Oboružanog snagom Tvog imena ništa me nikada ne može povrijediti, s Tvojom lj
 (Bahaiprayers.net ID: 3905)
 
 
+
+
 ### <a id="bpn3906"></a> Prayer bpn3906 in Hrvatski
 Ima li drugog Otklonitelja poteškoća osim Boga? Recite: Hvaljen bio Bog! On je Bog! Svi su Njegovi sluge i svi žive po Njegovoj zapovijedi!
 
 (Source category: Kušnje I Poteškoće)
 (Bahaiprayers.net ID: 3906)
+
+
 
 
 ### <a id="bpn3907"></a> Prayer bpn3907 in Hrvatski
@@ -138,11 +220,15 @@ Recite: Bog dostaje svim stvarima iznad svih stvari, i ništa u nebu ili na zeml
 (Bahaiprayers.net ID: 3907)
 
 
+
+
 ### <a id="bpn3908"></a> Prayer bpn3908 in Hrvatski
 Zaklinjem Te Tvojom moći, o, moj Bože! Ne daj da me zadesi ikakvo zlo u doba kušnji, a u trenucima nesmotrenosti nadahnućem tvojim vodi pravo moje korake. Ti si Bog, imaš moć činiti što god poželiš. Nitko se ne može suprotstaviti tvojoj volji ili osujetiti Tvoj plan.
 
 (Source category: Kušnje I Poteškoće)
 (Bahaiprayers.net ID: 3908)
+
+
 
 
 ### <a id="bpn3909"></a> Prayer bpn3909 in Hrvatski
@@ -171,6 +257,8 @@ Oslobodi jezik moj da bi hvalio Tvoje Ime među Tvojim narodom, da bi se moj gla
 
 
 
+
+
 ## Mladi
 
 ### <a id="bpn3910"></a> Prayer bpn3910 in Hrvatski
@@ -178,6 +266,8 @@ O, Bože! Ozari ovog mladca i prenesi dobrotu Svoju na ovo jadno stvorenje. Poda
 
 (Source category: Mladi)
 (Bahaiprayers.net ID: 3910)
+
+
 
 
 
@@ -195,6 +285,8 @@ O, moj Gospodine! Digni koprenu s očiju njegovih. Izlij na njega dobrotu Svoju,
 
 
 
+
+
 ## Noć
 
 ### <a id="bpn3912"></a> Prayer bpn3912 in Hrvatski
@@ -209,6 +301,8 @@ Tvoje mi moći! Ne tražim ništa ni u snu niti na javi, do li onoga što Ti že
 
 
 
+
+
 ## Obitelji
 
 ### <a id="bpn3913"></a> Prayer bpn3913 in Hrvatski
@@ -216,6 +310,8 @@ O, Bože, moj Bože! Preklinjem Te krvlju onih koji Te istinski ljube, koji su s
 
 (Source category: Obitelji)
 (Bahaiprayers.net ID: 3913)
+
+
 
 
 ### <a id="bpn3914"></a> Prayer bpn3914 in Hrvatski
@@ -227,6 +323,8 @@ Blagoslovi me, o, Bože moj, i one koji će vjerovati u Tvoje znamenje na određ
 
 (Source category: Obitelji)
 (Bahaiprayers.net ID: 3914)
+
+
 
 
 
@@ -243,11 +341,15 @@ Preklinjem Te, o, moj Gospodine, Njime Koji je Tvoje Ime, Koji se, snagom Tvog v
 (Bahaiprayers.net ID: 3915)
 
 
+
+
 ### <a id="bpn3916"></a> Prayer bpn3916 in Hrvatski
 O, moj Bože, moj Gospode i moj Gospodaru! Odvojio sam se od svoje rodbine i nastojao kroz Tebe postati neovisan od svega što živi na zemlji i uvijek pripravan primiti ono što je vrijedno hvale u Tvojim očima. Daruj mi takvo dobro koje će me učiniti neovisnim od svega osim od Tebe, i daj mi obilniji udio u Tvojim beskrajnim darovima. Doista, Ti si Gospodin pun milosti.
 
 (Source category: Odvojenost)
 (Bahaiprayers.net ID: 3916)
+
+
 
 
 ### <a id="bpn3917"></a> Prayer bpn3917 in Hrvatski
@@ -270,6 +372,8 @@ Neka se moje srce ispuni radošću i duhom potvrde iz Tvog Kraljevstva, a moje o
 
 
 
+
+
 ## Oprost
 
 ### <a id="bpn3918"></a> Prayer bpn3918 in Hrvatski
@@ -285,6 +389,8 @@ Ti imaš moć činiti što poželiš; nema Boga osim Tebe, Sveslavnog, koji vje�
 (Bahaiprayers.net ID: 3918)
 
 
+
+
 ### <a id="bpn3919"></a> Prayer bpn3919 in Hrvatski
 Slava Tebi, o, Gospode. Oprosti nam grijehe naše, smiluj nam se i pomozi nam da se Tebi vratimo. Ne dopusti da se oslanjamo na ikoga drugog osim na Tebe i daruj nam, Svojom dobrotom, ono što voliš i želiš i ono što dolikuje Tebi. Uzvisi položaj onih koji istinski vjeruju i oprosti im Svojim milostivim oproštenjem. Uistinu, Ti si Pomoć u Nevolji, Samoopstojni.
 
@@ -292,11 +398,15 @@ Slava Tebi, o, Gospode. Oprosti nam grijehe naše, smiluj nam se i pomozi nam da
 (Bahaiprayers.net ID: 3919)
 
 
+
+
 ### <a id="bpn3920"></a> Prayer bpn3920 in Hrvatski
 O, Ti, Gospode koji praštaš! Ti si zaklon svih ovih slugu Tvojih. Ti znaš tajne i svjestan si svih stvari. Svi smo mi bespomoćni, a Ti si Moćnik, Svemogući. Svi smo mi griješnici, a Ti si Oprostitelj grijeha, Milosrdni, Suosjećajni. O, Gospodine! Ne gledaj na naše mane. Postupaj s nama prema milosti Svojoj i dobroti. Naše su mane mnoge, ali je Ocean Tvog oproštaja beskrajan. Bolna je slabost naša, ali jasni su dokazi Tvoje pomoći i potpore. Stoga, učvrsti nas i osnaži. Pomozi nam da činimo ono štoje dostojno Tvog svetog Praga. Ozari srca naša, daj nam bistre oči i pozorne uši. Uskrisi mrtve i iscijeli bolesne. Podari blago siromasima, a mir i sigurnost daj plahima. Prihvati nas u Svom Kraljevstvu i obasjaj nas svjetlošću vodstva. Ti si Moćni i Svemogući. Ti si Blagi.
 
 (Source category: Oprost)
 (Bahaiprayers.net ID: 3920)
+
+
 
 
 
@@ -315,6 +425,8 @@ Ti, uistinu, jesi Kralj svih ljudi, nema drugog Boga do li Tebe, Koji sve prašt
 (Bahaiprayers.net ID: 3921)
 
 
+
+
 ### <a id="bpn3922"></a> Prayer bpn3922 in Hrvatski
 Hvaljeno neka bude ime Tvoje, o, moj Bože i Bože svih stvari, moja Slavo i Slavo svih stvari, moja Čežnjo i Čežnjo svih stvari, moja Snago i Snago svih stvari, moj Kralju i Kralju svih stvari, moj posjedniče i Posjedniče svih stvari, Pokretaču moj i Pokretaču svih stvari! Ne daj, preklinjem te, da budem lišen Tvojih nježnimh milosti, niti da budem odbačen daleko od obala Tvoje blizine.
 
@@ -326,11 +438,15 @@ Oprosti tad, o, moj Gospode, Svojim slugama i službenicama. Ti uistinu jesi Ona
 (Bahaiprayers.net ID: 3922)
 
 
+
+
 ### <a id="bpn3923"></a> Prayer bpn3923 in Hrvatski
 O, Gospodine, Bože moj! Pomozi svojim ljubljenima da budu čvrsti u Tvojoj Vjeri, da idu Tvojim putovima, da budu postojani u Tvojoj Stvari. Daj im Svoju milost da podnesu nalete svoga "ja" i strasti, da slijede svijetlo božanskog vodstva, Ti si Snažni, Milostivi, Skrbnik, Samodovolni, Milosrdni, Svemogući, Darežljivi.
 
 (Source category: Pomoć)
 (Bahaiprayers.net ID: 3923)
+
+
 
 
 ### <a id="bpn3924"></a> Prayer bpn3924 in Hrvatski
@@ -344,6 +460,8 @@ Daj nam kruh naš svagdašnji i udovolji našim životnim potrebama da ne ovisim
 (Bahaiprayers.net ID: 3924)
 
 
+
+
 ### <a id="bpn3925"></a> Prayer bpn3925 in Hrvatski
 Ne uklanjaj, o, Gospode stol svečano prostrt u Tvoje Ime i ne gasi žarki plamen upaljen Tvojom neugasivom vatrom. Ne ustavljaj tu živu vodu Tvoju koja žubori pjesmom slave Tvoje i Tvog spomena, i ne lišavaj sluge Tvoje miomirisa koji se širi iz daška ljubavi Tvoje.
 
@@ -353,6 +471,8 @@ Ti si, doista, Jedan, Jedini, Moćni, Sveznajući, Premudri.
 
 (Source category: Pomoć)
 (Bahaiprayers.net ID: 3925)
+
+
 
 
 
@@ -370,6 +490,8 @@ Uistinu, Ti si davalac, Velikodušni, Milosrdni, Oprostitelj.
 
 
 
+
+
 ## Postojanost U Pogodbi
 
 ### <a id="bpn3927"></a> Prayer bpn3927 in Hrvatski
@@ -377,6 +499,8 @@ O, Moj Bože i moja Nado! Pomozi svojim ljubljenima da budu postojani u Tvojoj m
 
 (Source category: Postojanost U Pogodbi)
 (Bahaiprayers.net ID: 3927)
+
+
 
 
 ### <a id="bpn3928"></a> Prayer bpn3928 in Hrvatski
@@ -391,6 +515,8 @@ Ti si Oprostitelj, Milosrdni.
 
 
 
+
+
 ## Pravda
 
 ### <a id="bpn3929"></a> Prayer bpn3929 in Hrvatski
@@ -400,11 +526,15 @@ Bit svega što Smo ti otkrili jest Pravda, dana je čovjeku da bi se oslobodio j
 (Bahaiprayers.net ID: 3929)
 
 
+
+
 ### <a id="bpn3930"></a> Prayer bpn3930 in Hrvatski
 Recite: O, Bože, moj Bože! Okiti moju glavu krunom pravde, a moj hram uresom pravičnosti. Ti, uistinu, jesi Posjednik svih darova i bogatstava.
 
 (Source category: Pravda)
 (Bahaiprayers.net ID: 3930)
+
+
 
 
 
@@ -417,11 +547,15 @@ Smrt nudi svakom odanom vjerniku pehar koji je uistinu život… Ona daje dar ž
 (Bahaiprayers.net ID: 3931)
 
 
+
+
 ### <a id="bpn3932"></a> Prayer bpn3932 in Hrvatski
 O, Bože moj! O, Ti, Oprostitelju grijeha! O, Davatelju darova! Otklonitelju jada! Zaista, preklinjem Te da oprostiš grijehe onih koji napustiše tjelesni plašt i uspeše se ka duhovnom svijetu. O, moj Gospodine! Očisti ih od grijeha, ublaži njihovu tugu i pretvori mrak njihov u svijetlost. Učini da u vrt sreće uđu, najčistijom ih vodom umij i daj da gledaju Tvoje divote na najvišoj gori.
 
 (Source category: Preminuli)
 (Bahaiprayers.net ID: 3932)
+
+
 
 
 
@@ -434,11 +568,15 @@ Pristaje im da kao najbolju opremu za put odaberu uzdanje u Boga i zaogrnu se lj
 (Bahaiprayers.net ID: 3933)
 
 
+
+
 ### <a id="bpn3934"></a> Prayer bpn3934 in Hrvatski
 O, Bože, moj Bože! Krenuh iz svog doma čvrsto se držeći niti Tvoje ljubavi i potpuno se potčinih Tvojoj skrbi i zaštiti. Molim Te snagom kojom si zaštitio Svoje ljubljene od stranputice i izopačenja i od svakog nepokornog tlačitelja, i svakog onog koji čini zlo i koji se daleko od Tebe okrenuo, da me zaštitiš svojom dobrotom i milošću. Daj onda da se uz pomoć Tvoje snage i Tvoje moći vratim svome domu. Ti si, doista, Svemogući, Pomoćnik u nevolji, Samoodržavajući.
 
 (Source category: Putovanje)
 (Bahaiprayers.net ID: 3934)
+
+
 
 
 
@@ -451,11 +589,15 @@ Ti vidiš, o, Gospode, naše molećive ruke podignute ka nebu Tvoje naklonosti i
 (Bahaiprayers.net ID: 3936)
 
 
+
+
 ### <a id="bpn3935"></a> Prayer bpn3935 in Hrvatski
 Blagoslovljen onaj koji se sjeća svojih roditelja u razgovoru s Bogom.
 
 (Source category: Roditelji)
 (Bahaiprayers.net ID: 3935)
+
+
 
 
 ### <a id="bpn3937"></a> Prayer bpn3937 in Hrvatski
@@ -467,11 +609,15 @@ O, Bože moj! Potaknuo si dušu moju da Ti uputi ovu molbu, i da nije radi Tebe,
 (Bahaiprayers.net ID: 3937)
 
 
+
+
 ### <a id="bpn3938"></a> Prayer bpn3938 in Hrvatski
 O, Gospodine! U ovoj najvećoj Providnosti Ti si prihvatio zagovor djece za svoje roditelje. To je jedan od osobitih darova ove Providnosti. Stoga, o, Ti blagi Gospodine, prihvati molbu ovoga sluge Tvog na pragu Tvoje jedinosti i uroni oca njegova u Ocean Tvoje milosti jer je ovaj sin ustao da Ti služi i trudi se u svako doba na stazi Tvoje ljubavi. Doista, Ti si Davatelj, Oprostitelj i Blagi!
 
 (Source category: Roditelji)
 (Bahaiprayers.net ID: 3938)
+
+
 
 
 ### <a id="bpn3939"></a> Prayer bpn3939 in Hrvatski
@@ -483,6 +629,8 @@ O, Gospodine! U ovoj najvećoj Providnosti Ti si prihvatio zagovor djece za svoj
 
 
 
+
+
 ## Skupovi
 
 ### <a id="bpn3940"></a> Prayer bpn3940 in Hrvatski
@@ -490,6 +638,8 @@ O, Bože! Doista, okupili smo se ovdje u miomirisu Tvoje ljubavi. Okrenusmo se T
 
 (Source category: Skupovi)
 (Bahaiprayers.net ID: 3940)
+
+
 
 
 
@@ -509,6 +659,8 @@ Nema Boga osim Tebe, Svemoćnog, Svevišnjeg, Sveslavnog, Samoopstojnog.
 (Bahaiprayers.net ID: 3941)
 
 
+
+
 ### <a id="bpn3942"></a> Prayer bpn3942 in Hrvatski
 O, moj Gospodine, Ljubljeni moj, Željo moja! Budi mi prijateljem u samoći i prati me u mom progonstvu. Otkloni žalost moju. Učini da budem odana Ljepoti Tvojoj. Odvuci me od svega osim od Tebe. Privuci me svojim mirisom svetosti. Daj da se u Tvom Kraljevstvu združim s onimakoji se odijeliše od svega osim od Tebe, koji čeznu da na Tvom svetom Pragu služe, koji postojano rade za Tvoju Stvar.
 
@@ -518,6 +670,8 @@ Dopusti da budem jedna od službenica Tvojih koje radost Tvoju dosegnuše. Uisti
 (Bahaiprayers.net ID: 3942)
 
 
+
+
 ### <a id="bpn3943"></a> Prayer bpn3943 in Hrvatski
 O, Ti blagi Gospodine! Podari nebesku potvrdu ovoj kćeri Kraljevstva i pomozi joj milostivo da ostane čvrsta i postojana u Tvojoj Stvari i da poput slavuja u ružičnjaku otajstava najčudesnijim glasovima pjeve pjesme u kraljevstvu Abha (Slave), svakom sreću donoseći. Uzvisi je među kćeri Kraljevstva i pomozi joj da život vječni dosegne.
 
@@ -525,6 +679,8 @@ Ti si darovatelj, Ti ljubiš.
 
 (Source category: Službenice)
 (Bahaiprayers.net ID: 3943)
+
+
 
 
 
@@ -543,6 +699,8 @@ Moćan si Ti činiti što Te volja. Ti si, doista, Pomoć u Nevolji, Samoodržav
 (Bahaiprayers.net ID: 3944)
 
 
+
+
 ### <a id="bpn3945"></a> Prayer bpn3945 in Hrvatski
 O, Gospode! Daj da svim ljudima bude dopušteno ući u Raj Tvoje Vjere, tako da ni jedno stvorenje ne ostane izvan međa Tvojeg zadovoljstva.
 
@@ -550,6 +708,8 @@ Od pamtivijeka Ti si moćan činiti što Ti se sviđa i nadilaziš sve.
 
 (Source category: Trijumf Božje Stvari)
 (Bahaiprayers.net ID: 3945)
+
+
 
 
 
@@ -562,6 +722,8 @@ O, službenice Milosrdnoga! Dano vam je u dužnost odgajati djecu od najranije d
 (Bahaiprayers.net ID: 3946)
 
 
+
+
 ### <a id="bpn3947"></a> Prayer bpn3947 in Hrvatski
 Gospode moj! Gospode moj! Hvalim Te i zahvaljujem Ti za ono čime Si obdario Tvoju skromnu službenicu, robinju Tvoju koja Te preklinje i moli, jer Ti si je uistinu uveo u Svoje jasno Kraljevstvo i učinio da čuje Tvoj veličanstveni Poziv u ovom nesigurnom svijetu i da ugleda Tvoje Znamenje koje dokazuje postojanje Tvoje pobjedonosne vladavinenad svim stvarima.
 
@@ -569,6 +731,8 @@ O, Gospode moj, Tebi posvećujem ono što je u utrobi mojoj. Tvojom naklonošću
 
 (Source category: Trudnice)
 (Bahaiprayers.net ID: 3947)
+
+
 
 
 
@@ -587,6 +751,8 @@ Molimo Te, o, Providnosti, da pokažeš Svij put svim ljudima i da ih vodiš pra
 (Bahaiprayers.net ID: 3948)
 
 
+
+
 ### <a id="bpn3949"></a> Prayer bpn3949 in Hrvatski
 Molimo Boga da milostivo pomogne onima koji skrenuše s puta da postanu pravedni i pošteni i svijesni onoga što zanemariše. On, doista, jest Svedarežljivi, Najvelikodušniji. Ne odbijaj Svoje sluge, o, moj Gospodine, od vrata Svoje milosti, i ne tjeraj ih od dvora Svoje prisutnosti. Pomozi im da rasprše maglu ispraznih maštanja i razderu velove jalove uobrazilje i nada. Ti si, uistinu, Sveposjedujući, Svemoćni, Milostivi.
 
@@ -594,11 +760,15 @@ Molimo Boga da milostivo pomogne onima koji skrenuše s puta da postanu pravedni
 (Bahaiprayers.net ID: 3949)
 
 
+
+
 ### <a id="bpn3950"></a> Prayer bpn3950 in Hrvatski
 Slavljen si, o, Gospodine moj Bože! Izlij, preklinjem Te, iz oblaka Tvoje obilne milosti,ono što će očistiti srca slugu Tvojih od svega što ih može spriječiti da gledaju Tvoje lice, da se okrenu k Tebi, da bi mogli spoznati Njega koji je njihov Uobličitelj, Stvoritelj. Pomozi im, tad. o, Bože, da snagom Tvoje svevišnje moći, dosegnu takvo stanje da odmah razabrati uzmognu svaki kužni zadah od odjeće onoga koji nosi najviše i najveličajnije Ime Tvoje, da se uzmognu svom svjom naklonošću prema Tebi okrenuti i toliko blisko zajedništvo s Tobom uživati, da, ponudi li im se sve što je u nebu i na zemlji, to odbiju, smatrajući nedostojnim pogleda njihova i da se ne prestanu Tebe sjećati i vrline Tvoje veličati. Zaštiti, ja Te molim, o, moj Ljubljeni, Željo srca moga, slugu Svojega koji lik Tvoj traži od strijela onih što Te porekoše i od kopalja onih što istinu Tvoju odbaciše. Daj da bude posve odan Tebi, da ime Tvoje obznanjuje i upravi pogled svoj ka hramu Otkrivenja Tvojega. Ti si, uistinu, Onaj koji nikad odbio nisi onih što nade svoje u Tebe polagahu, niti si zapriječio onima što tragahu za Tobom da u dvotr milosti Tvoje uđu. Nema Boga osim Tebe, Najmoćnijeg, Svevišnjega, Pomoći u nevolji, Sveslavljenog, Što sve pokreće, Neuvjetovanog.
 
 (Source category: Vodstvo)
 (Bahaiprayers.net ID: 3950)
+
+
 
 
 
@@ -615,11 +785,15 @@ Ti si doista Svemogući, Svevišnji, Uvijek praštaš i Najvelikodušniji.
 (Bahaiprayers.net ID: 3951)
 
 
+
+
 ### <a id="bpn3953"></a> Prayer bpn3953 in Hrvatski
 "…trudite se dostići ovo uzvišeno i najplemenitije stanje, stanje koje može pružiti zaštitu i sigurnost cijelog čovječanstva…"
 
 (Source category: Zaštita)
 (Bahaiprayers.net ID: 3953)
+
+
 
 
 ### <a id="bpn3952"></a> Prayer bpn3952 in Hrvatski
@@ -631,6 +805,8 @@ Uistinu, Ti si Zaštitnik, Čuvar, Branilac, Udovoljitelj I, doista, Ti si Milos
 
 (Source category: Zaštita)
 (Bahaiprayers.net ID: 3952)
+
+
 
 
 
@@ -647,11 +823,15 @@ Ti si moćni i snažni, Ti praštaš i Onaj si koji previđa mane čovječanstva
 (Bahaiprayers.net ID: 3894)
 
 
+
+
 ### <a id="bpn3895"></a> Prayer bpn3895 in Hrvatski
 O, Bože! Slabi smo; daj nam snage. siromašni smo, udijeli nam Svoja bezgranična blaga. Bolesni smo; daj nam Svoje božansko iscjeljenje. Nemoćni smo; daj nam Svoju nebesku moć. O, Gospode! Učini nas korisnima na ovome svijetu; oslobodi nas stanja sebičnosti i želje. O, Gospode! Učvrsti nas u Svojoj ljubavi i učini da budemo puni ljubavi za cijelo čovječanstvo. Učvrsti nas u služenju svijetu čovječanstva, da bismo postali sluge Tvojih slugu, da bismo voljeli sva tvoja stvorenja i da bismo suosjećali sa svim Tvojim ljudima. O, Gospode! Ti si Svemoguć! Ti si milosrdan! Ti praštaš! Ti si Svemoćan!
 
 (Source category: Čovječanstvo)
 (Bahaiprayers.net ID: 3895)
+
+
 
 
 ### <a id="bpn3896"></a> Prayer bpn3896 in Hrvatski
@@ -663,11 +843,16 @@ O, Bože, vodi me, učini me sjajnom svjetiljkom i blistavom zvijezdom. Ti si Mo
 (Bahaiprayers.net ID: 3896)
 
 
+
+
 ### <a id="bpn3897"></a> Prayer bpn3897 in Hrvatski
 O, Bože! Odgoji ovu djecu. Ova djeca su biljke u Tvom voćnjaku, cvjetovi na Tvojoj livadi, ruže u Tvome vrtu. Nek tvoja kiša pada po njima; neka ih Sunce Stvarnosti obasja Tvojom ljubavlju. Neka ih osvježe Tvoji lahori da bi se obrazovali, rasli i razvijali i pojavili se u konačnoj ljepoti. Ti si Davalac. Ti suosjećaš.
 
 (Source category: Čovječanstvo)
 (Bahaiprayers.net ID: 3897)
+
+
+
 
 
 

@@ -3,6 +3,84 @@ title = "Norsk"
 tags = ['lang=no', 'prayerbook']
 +++
 
+
+
+[Aften](#Aften)
+
+[Ahmads tavle](#Ahmads tavle)
+
+[Barmhjertighet](#Barmhjertighet)
+
+[Barn](#Barn)
+
+[Begravelse](#Begravelse)
+
+[Beskyttelse](#Beskyttelse)
+
+[Besøkelsens tavle](#Besøkelsens tavle)
+
+[Besøkelsesbønn](#Besøkelsesbønn)
+
+[Bønn for de døde](#Bønn for de døde)
+
+[Enhet](#Enhet)
+
+[Faste](#Faste)
+
+[Helbredelse](#Helbredelse)
+
+[Hjelp](#Hjelp)
+
+[Ild-tavlen](#Ild-tavlen)
+
+[Innskutte dager](#Innskutte dager)
+
+[Kort obligatorisk bønn](#Kort obligatorisk bønn)
+
+[Lang obligatorisk bønn](#Lang obligatorisk bønn)
+
+[Ledelse](#Ledelse)
+
+[Lengsel](#Lengsel)
+
+[Lovprisning](#Lovprisning)
+
+[Løsrivelse](#Løsrivelse)
+
+[Menneskeheten](#Menneskeheten)
+
+[Middels lang obligatorisk bønn](#Middels lang obligatorisk bønn)
+
+[Midnatt](#Midnatt)
+
+[Møter](#Møter)
+
+[Naw-rúz](#Naw-rúz)
+
+[Opplysning](#Opplysning)
+
+[Prøvelser og vanskeligheter](#Prøvelser og vanskeligheter)
+
+[Rettferdighet](#Rettferdighet)
+
+[Sakens hender](#Sakens hender)
+
+[Standhaftighet](#Standhaftighet)
+
+[Svangerskap](#Svangerskap)
+
+[Tilgivelse](#Tilgivelse)
+
+[Undervisning](#Undervisning)
+
+[Velsignelse](#Velsignelse)
+
+[Vielse](#Vielse)
+
+[Åndelig vekst](#Åndelig vekst)
+
+
+
 ## Aften
 
 ### <a id="bpn3491"></a> Prayer bpn3491 in Norsk
@@ -16,6 +94,8 @@ Ved din makt! Hva enten jeg sover eller er våken, ber jeg ikke om annet enn det
 (Bahaiprayers.net ID: 3491)
 
 
+
+
 ### <a id="bpn3492"></a> Prayer bpn3492 in Norsk
 O min Gud, min Mester, mine lengslers mål! Denne din tjener søker å sove i din barmhjertighets ly og å hvile under din nådes hvelving idet han bønnfaller om din omsorg og din beskyttelse.
  
@@ -25,6 +105,8 @@ Ingen annen Gud er der enn deg, den allmektige, den altbetvingende, den absolutt
 
 (Source category: Aften)
 (Bahaiprayers.net ID: 3492)
+
+
 
 
 
@@ -74,6 +156,8 @@ Sannelig, han er den barmhjertige, den medlidende. Lovet være Gud, Herren over 
 
 
 
+
+
 ## Barmhjertighet
 
 ### <a id="bpn3493"></a> Prayer bpn3493 in Norsk
@@ -85,6 +169,8 @@ Du er i sannhet den evig tilgivende, den mest barmhjertige.
 
 (Source category: Barmhjertighet)
 (Bahaiprayers.net ID: 3493)
+
+
 
 
 
@@ -103,11 +189,15 @@ Lovet være Gud, Herren over alle verdener.
 (Bahaiprayers.net ID: 3494)
 
 
+
+
 ### <a id="bpn3495"></a> Prayer bpn3495 in Norsk
 O Gud, led meg, beskytt meg, gjør meg til en skinnende lampe og til en tindrende stjerne. Du er den mektige og den sterke.
 
 (Source category: Barn)
 (Bahaiprayers.net ID: 3495)
+
+
 
 
 ### <a id="bpn3496"></a> Prayer bpn3496 in Norsk
@@ -117,11 +207,15 @@ O Gud! Oppdra dette spebarn i din kjærlighets skjød, og gi det melk fra ditt f
 (Bahaiprayers.net ID: 3496)
 
 
+
+
 ### <a id="bpn3497"></a> Prayer bpn3497 in Norsk
 O Gud! Opplær disse barn. Disse barn er plantene i din frukthave, blomstene på din eng, rosene i din have. La ditt regn falle på dem; la virkelighetens sol skinne på dem med din kjærlighet. La din bris forfriske dem så at de kan oppøves, vokse og utvikles og fremstå i den største skjønnhet. Du er giveren. Du er den medlidende.
 
 (Source category: Barn)
 (Bahaiprayers.net ID: 3497)
+
+
 
 
 ### <a id="bpn3498"></a> Prayer bpn3498 in Norsk
@@ -133,6 +227,8 @@ O du den selvbestående Gud! Gjør meg fortrolig med det usettes rike. Sannelig,
 (Bahaiprayers.net ID: 3498)
 
 
+
+
 ### <a id="bpn3499"></a> Prayer bpn3499 in Norsk
 O min Herre! O min Herre!
  
@@ -142,6 +238,8 @@ Sannelig, du er den sterke, den mektige, den seende, den hørende.
 
 (Source category: Barn)
 (Bahaiprayers.net ID: 3499)
+
+
 
 
 
@@ -174,6 +272,8 @@ Sannelig, vi er alle tålmodige i Gud.
 
 
 
+
+
 ## Beskyttelse
 
 ### <a id="bpn3501"></a> Prayer bpn3501 in Norsk
@@ -185,6 +285,8 @@ Der er ingen annen Gud enn deg, den ene, den uforlignelige, den allvitende, den 
 (Bahaiprayers.net ID: 3501)
 
 
+
+
 ### <a id="bpn3502"></a> Prayer bpn3502 in Norsk
 Lovet være du, o Herre min Gud! Dette er din tjener som har drukket dypt av din milde barmhjertighets vin fra din nådes hender og smakt din kjærlighets sødme i dine dager. Jeg bønnfaller deg, ved dine navns legemliggjørelser som ingen sorg kan hindre i å fryde seg over din kjærlighet eller i å beskue ditt åsyn, og som alle skarene av likegyldige ikke makter å få vendt bort fra ditt velbehags vei, om å gi ham de gode ting som du eier, og om å heve ham til slike høyder at han vil betrakte verden akkurat som en skygge som forsvinner hurtigere enn øyet kan blunke.
  
@@ -192,6 +294,8 @@ Beskytt ham også, o min Gud, ved din umåtelige veldes makt, mot alt som du avs
 
 (Source category: Beskyttelse)
 (Bahaiprayers.net ID: 3502)
+
+
 
 
 ### <a id="bpn3503"></a> Prayer bpn3503 in Norsk
@@ -211,6 +315,8 @@ Lovet være du, som er hele skapningens Herre.
 (Bahaiprayers.net ID: 3503)
 
 
+
+
 ### <a id="bpn3504"></a> Prayer bpn3504 in Norsk
 Priset være ditt navn, o Herre min Gud! Jeg bønnfaller deg ved ditt navn ved hvilket Timen er slagen, og Oppstandelsen fant sted, og frykt og beven grep alle som er i himmelen og alle som er på jorden, om å la regne ned, fra din barmhjertighets himmel og din kjærlige medlidenhets skyer, det som vil fryde hjertene hos dine tjenere, som har vendt seg mot deg og fremmet din Sak.
  
@@ -220,6 +326,8 @@ Du er sannelig den allmektige, den mest opphøyede, den evig tilgivende, den mes
 
 (Source category: Beskyttelse)
 (Bahaiprayers.net ID: 3504)
+
+
 
 
 ### <a id="bpn3500"></a> Prayer bpn3500 in Norsk
@@ -236,11 +344,15 @@ Umåtelig opphøyet er du, o Herre! Beskytt oss mot det som ligger foran oss og 
 (Bahaiprayers.net ID: 3500)
 
 
+
+
 ### <a id="bpn3505"></a> Prayer bpn3505 in Norsk
 O Gud, min Gud! Vern dine betrodde tjenere mot selvets og begjærets onder, beskytt dem med din miskunnhets årvåkne øye mot alt nag, alt hat og all misunnelse, gi dem ly i din omsorgs uinntagelige festning, og, i sikkerhet for tvilens kastespyd, gjør dem til vitnesbyrd om dine herlige tegn, gjør deres ansikter forklaret med de skinnende stråler fra din guddommelige enhets daggry, gled deres hjerter med de ord som er åpenbart fra ditt hellige rike, styrk deres lender med din altbeherskende kraft som kommer fra din herlighets kongedømme. Du er den overmåte gavmilde, beskytteren, den allmektige, den nådige.
 
 (Source category: Beskyttelse)
 (Bahaiprayers.net ID: 3505)
+
+
 
 
 
@@ -268,6 +380,8 @@ Velsign du, o Herre min Gud, det Guddommelige Lotustre og dets blader og dets gr
 
 
 
+
+
 ## Besøkelsesbønn
 
 ### <a id="bpn3589"></a> Prayer bpn3589 in Norsk
@@ -292,6 +406,8 @@ Du er giveren, den medfølende, den mest gavmilde, den nådige, den barmhjertige
 
 
 
+
+
 ## Bønn for de døde
 
 ### <a id="bpn3506"></a> Prayer bpn3506 in Norsk
@@ -303,6 +419,8 @@ Lovpriset, umåtelig lovpriset er du! Du er elsket i din sannhet, og sannelig, d
 
 (Source category: Bønn for de døde)
 (Bahaiprayers.net ID: 3506)
+
+
 
 
 ### <a id="bpn3507"></a> Prayer bpn3507 in Norsk
@@ -332,6 +450,8 @@ Der er ingen annen Gud enn deg, den ene, den eneste, den sterke, den allvitende,
 (Bahaiprayers.net ID: 3507)
 
 
+
+
 ### <a id="bpn3508"></a> Prayer bpn3508 in Norsk
 O min Gud! O du som tilgir synd, som skjenker gaver, som fordriver lidelser!
  
@@ -344,6 +464,8 @@ O min Herre! Rens dem for overtredelser, fordriv deres sorger, og gjør deres m�
 
 
 
+
+
 ## Enhet
 
 ### <a id="bpn3509"></a> Prayer bpn3509 in Norsk
@@ -351,6 +473,8 @@ O min Gud! O min Gud! Foren dine tjeneres hjerter, og åpenbar for dem ditt stor
 
 (Source category: Enhet)
 (Bahaiprayers.net ID: 3509)
+
+
 
 
 ### <a id="bpn3510"></a> Prayer bpn3510 in Norsk
@@ -366,6 +490,8 @@ Sannelig, du er den allmektige, den selvbestående, giveren, den tilgivende, den
 
 (Source category: Enhet)
 (Bahaiprayers.net ID: 3510)
+
+
 
 
 
@@ -392,6 +518,8 @@ Der er ingen annen Gud enn deg, den allvitende, den allvise. All ære være Gud,
 
 
 
+
+
 ## Helbredelse
 
 ### <a id="bpn3511"></a> Prayer bpn3511 in Norsk
@@ -401,6 +529,8 @@ Ditt navn er min helbredelse, o min Gud, og ihukommelse av deg er mitt legemidde
 (Bahaiprayers.net ID: 3511)
 
 
+
+
 ### <a id="bpn3512"></a> Prayer bpn3512 in Norsk
 Du er den, o min Gud, ved hvis navn de syke blir helbredet, og de svakelige finner legedom, og de tørstende blir gitt å drikke, og de forpinte blir skjenket hvile, og de egensindige blir veiledet, og de fornedrede blir opphøyet, og de fattige blir beriket, og de uvitende blir opplyst, og de tungsindige fylles av lys, og de sørgmodige blir oppmuntret, og de kalde blir varmet, og de undertrykte blir oppreist. Ved ditt navn, o min Gud, ble alle skapte ting opplivet, og himmelen ble utspent, og jorden ble grunnfestet, og skyene ble hevet og bragt til å regne på jorden. Dette, i sannhet, er et tegn på din nåde mot alle dine skapninger.
  
@@ -408,6 +538,8 @@ Jeg bønnfaller deg derfor ved ditt navn hvorved du åpenbarte din guddom og opp
 
 (Source category: Helbredelse)
 (Bahaiprayers.net ID: 3512)
+
+
 
 
 ### <a id="bpn3513"></a> Prayer bpn3513 in Norsk
@@ -503,6 +635,8 @@ Du er i sannhet den sterke, den evig fyldestgjørende, den helbredende, beskytte
 (Bahaiprayers.net ID: 3513)
 
 
+
+
 ### <a id="bpn3514"></a> Prayer bpn3514 in Norsk
 Lovet være du, o Herre min Gud! Jeg bønnfaller deg, ved ditt Største Navn hvorved du oppildnet dine tjenere og bygget dine byer, og ved dine ypperste titler og dine uendelig opphøyede egenskaper, om å hjelpe ditt folk til å vende seg i retning av dine mangfoldige gaver og vende ansiktet mot din visdoms ernakel. Helbred du de sykdommer som har angrepet sjelene på alle kanter og avholdt dem fra å rette blikket mot det paradis som ligger i ly av ditt beskyttende navn, som du utså til Konge over alle navn for alle som er i himmelen og alle som er på jorden. Mektig er du til å gjøre som det behager deg. I din hånd ligger herredømmet over alle navn. Der er ingen annen Gud enn deg, den mektige, den vise.
  
@@ -512,6 +646,8 @@ Du er i sannhet Herren over dette liv og over det neste. Du er, i sannhet, den e
 
 (Source category: Helbredelse)
 (Bahaiprayers.net ID: 3514)
+
+
 
 
 ### <a id="bpn3515"></a> Prayer bpn3515 in Norsk
@@ -525,6 +661,8 @@ Mektig er du til å gjøre det som behager deg. Der er ikke noen annen Gud enn d
 (Bahaiprayers.net ID: 3515)
 
 
+
+
 ### <a id="bpn3516"></a> Prayer bpn3516 in Norsk
 Ære være deg, o Herre min Gud! Jeg bønnfaller deg ved ditt navn, hvorved du hevet din ledelses bannere, og utgjøt din miskunnhets stråleglans, og åpenbarte ditt herredømmes velde; hvorved dine navns lampe er kommet til syne i dine egenskapers nisje, og han som er din enhets ernakel og manifestasjonen av løsrivelse har strålt frem; hvorved din ledelses veier ble gjort kjent og ditt velbehags stier ble trukket opp; hvorved villfarelsens grunnvoller ble bragt til å ryste og ondskapens tegn er tilintetgjort; hvorved visdommens kilder har sprunget frem og det himmelske taffel er sendt ned; hvorved du vernet dine tjenere og skjenket din helbredelse; hvorved du gav dine kjærlige velsignelser til kjenne for dine tjenere og åpenbarte din tilgivelse blant dine skapninger -jeg bønnfaller deg om å beskytte den som har holdt fast ved og vendt tilbake til deg og har klynget seg til din barmhjertighet og grepet tak i ditt kjærlige forsyns kjortelsøm. Send så ned over ham din helbredelse, og gjør ham frisk, og betenk ham med en standhaftighet forunt ham av deg, og en ro skjenket ham av din opphøyethet.
  
@@ -532,6 +670,8 @@ Du er i sannhet helbrederen, beskytteren, hjelperen, den allmektige, den sterke,
 
 (Source category: Helbredelse)
 (Bahaiprayers.net ID: 3516)
+
+
 
 
 ### <a id="bpn3517"></a> Prayer bpn3517 in Norsk
@@ -548,6 +688,8 @@ Du, i sannhet, er umåtelig opphøyet over alt annet enn deg selv. Du er sanneli
 
 
 
+
+
 ## Hjelp
 
 ### <a id="bpn3518"></a> Prayer bpn3518 in Norsk
@@ -559,6 +701,8 @@ O guddommelige forsyn! Alt som er til er unnfanget ved din nåde; berøv det ikk
 (Bahaiprayers.net ID: 3518)
 
 
+
+
 ### <a id="bpn3519"></a> Prayer bpn3519 in Norsk
 O du hvis åsyn er gjenstand for min tilbedelse, hvis skjønnhet er min helligdom, hvis bolig er mitt mål, hvis lovprisning er mitt håp, hvis forsyn er min ledsager, hvis kjærlighet er årsaken til min eksistens, hvis omtale er min trøst, hvis nærhet er min attrå, hvis nærvær er mitt kjæreste ønske og min sterkeste lengsel, jeg bønnfaller deg om ikke å holde tilbake fra meg de ting du forordnet for de utvalgte blant dine tjenere. Skjenk meg derfor det som er godt i denne verden og i den neste.
  
@@ -566,6 +710,8 @@ Du, i sannhet, er alle menneskers Konge. Der er ingen annen Gud enn deg, den evi
 
 (Source category: Hjelp)
 (Bahaiprayers.net ID: 3519)
+
+
 
 
 
@@ -679,6 +825,8 @@ Skulle alle tjenerne lese og overveie dette, så vil det i deres årer tennes en
 
 
 
+
+
 ## Innskutte dager
 
 ### <a id="bpn3591"></a> Prayer bpn3591 in Norsk
@@ -701,6 +849,8 @@ Du er i sannhet den allmektige, den allvitende, den best underrettede.
 
 
 
+
+
 ## Kort obligatorisk bønn
 
 ### <a id="bpn3488"></a> Prayer bpn3488 in Norsk
@@ -716,6 +866,8 @@ Der er ingen annen Gud enn deg, hjelperen i fare, den selvbestående.
 
 (Source category: Kort obligatorisk bønn)
 (Bahaiprayers.net ID: 3488)
+
+
 
 
 
@@ -774,6 +926,8 @@ Jeg vitner, o min Gud, om det som dine utvalgte har vitnet om, og erkjenner det 
 
 
 
+
+
 ## Ledelse
 
 ### <a id="bpn3520"></a> Prayer bpn3520 in Norsk
@@ -781,6 +935,8 @@ Vi ber til Gud om at han nådigst må hjelpe dem som er ført vill til å være 
 
 (Source category: Ledelse)
 (Bahaiprayers.net ID: 3520)
+
+
 
 
 ### <a id="bpn3521"></a> Prayer bpn3521 in Norsk
@@ -797,6 +953,8 @@ O Gud, tenn i dine elskedes hjerter din kjærlighets ild, slik at den kan fortæ
 
 
 
+
+
 ## Lengsel
 
 ### <a id="bpn3522"></a> Prayer bpn3522 in Norsk
@@ -808,6 +966,8 @@ Om mitt legeme enn pines av de prøvelser som vederfares meg fra deg, om det enn
 
 (Source category: Lengsel)
 (Bahaiprayers.net ID: 3522)
+
+
 
 
 
@@ -829,6 +989,8 @@ Jeg bønnfaller deg, o min Herre, ved ditt Største Navn hvorved du skilte lys f
 (Bahaiprayers.net ID: 3523)
 
 
+
+
 ### <a id="bpn3524"></a> Prayer bpn3524 in Norsk
 Min Gud, du som jeg ærer og tilber, du som er sterkest! Jeg bevitner at ingen skapt tings beskrivelse noensinne kan åpenbare deg, og at ingen lovprisning som noe vesen er i stand til å frembære kan beskrive deg. Hverken fatteevnen hos noen i hele verden eller forstanden til noen av dens folk kan, som det jo anstår seg for deg, oppnå adgang til din hellighets kongesete eller løse ditt mysterium. Hvilken synd har holdt innbyggerne i dine navns stad så langt borte fra din overmåte herlige horisont, og berøvet dem adkomsten til ditt Største Osean? En eneste bokstav fra din Bok er alle ytringers mor, og et ord fra den er hele skapningens far. Hvilken utakknemlighet har dine tjenere vist slik at du har holdt dem tilbake, alle som en, fra å anerkjenne deg? En dråpe fra din barmhjertighets osean er tilstrekkelig til å slukke helvetes flammer, og en gnist fra din kjærlighets ild er nok til å sette en hel verden i brann.
  
@@ -840,6 +1002,8 @@ Hva som enn måtte hende oss, så bønnfaller vi om din urgamle tilgivelse, og s
 
 (Source category: Lovprisning)
 (Bahaiprayers.net ID: 3524)
+
+
 
 
 ### <a id="bpn3525"></a> Prayer bpn3525 in Norsk
@@ -857,6 +1021,8 @@ Vi er dine tjenere, o min Herre, og er i din makt. Om du straffer oss med den st
 (Bahaiprayers.net ID: 3525)
 
 
+
+
 ### <a id="bpn3526"></a> Prayer bpn3526 in Norsk
 Priset være ditt navn, o min Gud! Jeg bevitner at ingen forestilling om deg, hvor vidunderlig den enn måtte være, noensinne kan nå opp til din kunnskaps himmel, og at ingen lovprisning av deg, likegyldig hvor opphøyet den måtte være, kan stige opp til din visdoms atmosfære. Fra evighet har du vært høyt hevet over å kunne nås eller fattes av dine tjeneres forstand, og umåtelig opphøyet over dine trellers bestrebelser på å finne uttrykk for ditt mysterium. Hvilken kraft kan den forgjengelige skapning gjøre krav på å besitte ansikt til ansikt med ham som er den uskapte?
  
@@ -866,6 +1032,8 @@ Mektig er du til å gjøre det som behager deg. Du, i sannhet, er den overmåte 
 
 (Source category: Lovprisning)
 (Bahaiprayers.net ID: 3526)
+
+
 
 
 
@@ -882,6 +1050,8 @@ Du, i sannhet, er hele menneskehetens Herre og besitteren av denne verden og av 
 (Bahaiprayers.net ID: 3528)
 
 
+
+
 ### <a id="bpn3529"></a> Prayer bpn3529 in Norsk
 O Gud, og alle navns Gud, og himlenes skaper! Jeg bønnfaller deg ved ditt navn hvorved han som er din veldes daggry og din styrkes demringssted er blitt åpenbart, hvorved enhver fast ting er gjort flytende, og ethvert dødt legeme er gitt nytt liv, og enhver ånd med evnen til bevegelse er blitt bestyrket -jeg bønnfaller deg om å gjøre meg i stand til å fri meg for all tilknytning til hvem som helst uten deg, og til å tjene din Sak, og til å ønske det som du ønsket ved ditt herredømmes styrke, og til å utføre det som er din vilje til behag.
  
@@ -889,6 +1059,8 @@ Jeg trygler deg enn videre, o min Gud, om å forordne for meg det som vil gjøre
 
 (Source category: Løsrivelse)
 (Bahaiprayers.net ID: 3529)
+
+
 
 
 ### <a id="bpn3530"></a> Prayer bpn3530 in Norsk
@@ -902,6 +1074,8 @@ Du er i sannhet Herre over alle verdener og Gud over alle som er i himmelen og a
 (Bahaiprayers.net ID: 3530)
 
 
+
+
 ### <a id="bpn3531"></a> Prayer bpn3531 in Norsk
 Tillat meg, o min Gud, å komme deg nær og å dvele innenfor ditt kongesetes enemerker, for min fjernhet fra deg har nesten fortært meg. Gi meg å hvile i skyggen av din nådes beskyttende vinger, for adskillelsens ild har svidd meg i hjertet. Før meg nærmere den elv som i sannhet er liv, for min sjel brenner av tørst i sin uavlatelige søken etter deg. Mine sukk, o min Gud, kunngjør hvor bitter min smerte er, og de tårer jeg feller bevitner min kjærlighet til deg.
  
@@ -911,6 +1085,8 @@ Forherliget være ditt navn, o du som er alle kongers Konge!
 
 (Source category: Løsrivelse)
 (Bahaiprayers.net ID: 3531)
+
+
 
 
 ### <a id="bpn3527"></a> Prayer bpn3527 in Norsk
@@ -929,6 +1105,8 @@ Hos deg ligger den absolutte myndighet til å befale.
 
 
 
+
+
 ## Menneskeheten
 
 ### <a id="bpn3533"></a> Prayer bpn3533 in Norsk
@@ -940,6 +1118,8 @@ Alle er bare fattige og trengende, og du er i sannhet den altbesittende, den alt
 
 (Source category: Menneskeheten)
 (Bahaiprayers.net ID: 3533)
+
+
 
 
 ### <a id="bpn3534"></a> Prayer bpn3534 in Norsk
@@ -955,11 +1135,15 @@ Du er den overmåte gavmilde, den nådige.
 (Bahaiprayers.net ID: 3534)
 
 
+
+
 ### <a id="bpn3535"></a> Prayer bpn3535 in Norsk
 O du som er herrenes Herre! Jeg bevitner at du er hele skapningens Herre, og oppdrageren av alle vesener, synlige og usynlige. Jeg vitner om at din makt har omsluttet hele universet, og om at jordens skarer aldri kan forferde deg, ei heller alle folks og nasjoners herskermakt avskrekke deg fra å gjennomføre ditt forsett. Jeg bekjenner at du har intet annet ønske enn hele verdens gjenfødelse og opprettelse av enhet blant dens folk, og frelse for alle dem som lever i den.
 
 (Source category: Menneskeheten)
 (Bahaiprayers.net ID: 3535)
+
+
 
 
 ### <a id="bpn3532"></a> Prayer bpn3532 in Norsk
@@ -969,6 +1153,8 @@ Fra uminnelige tider har du vært mektig til å gjøre hva deg behager og suvere
 
 (Source category: Menneskeheten)
 (Bahaiprayers.net ID: 3532)
+
+
 
 
 ### <a id="bpn3536"></a> Prayer bpn3536 in Norsk
@@ -990,6 +1176,8 @@ Du er den mektige og sterke, du er den tilgivende, og du er den som bærer over 
 
 (Source category: Menneskeheten)
 (Bahaiprayers.net ID: 3536)
+
+
 
 
 
@@ -1024,6 +1212,8 @@ Jeg vitner om din enhet og om at du er en, og om at du er Gud og at der ikke er 
 
 
 
+
+
 ## Midnatt
 
 ### <a id="bpn3537"></a> Prayer bpn3537 in Norsk
@@ -1035,6 +1225,8 @@ Sannelig, du er giveren, den gavmilde, den barmhjertige, den tilgivende.
 
 (Source category: Midnatt)
 (Bahaiprayers.net ID: 3537)
+
+
 
 
 
@@ -1053,6 +1245,8 @@ O Gud! Betenk oss med ditt forsyn. Du er den sterke. Du er giveren. Du er den go
 (Bahaiprayers.net ID: 3593)
 
 
+
+
 ### <a id="bpn3594"></a> Prayer bpn3594 in Norsk
 O du gode Herre! Dette er dine tjenere som har samlet seg I dette møte, har vendt seg mot ditt rike og trenger din gave og velsignelse. O du Gud! Gi klart og tydelig til kjenne din enhets tegn  end t nedlagt I alt livs innerste virkelighet.
  
@@ -1066,6 +1260,8 @@ Du er mektig. Du er sterk. Du er giveren, og du er den evig gavmilde.
 (Bahaiprayers.net ID: 3594)
 
 
+
+
 ### <a id="bpn3595"></a> Prayer bpn3595 in Norsk
 O Gud, min Gud! Vi er dine tjenere som har  end toss
 Når dere går inn I rådsværelset, les da denne bønn med et hjerte som banker av kjærlighet til Gud og med en tunge så lutret at den kun kommer ham I hu, slik at den allmektige nådigst kan hjelpe dere til å  end den største seier:
@@ -1075,6 +1271,8 @@ O Gud, min Gud! Vi er dine tjenere som har  end toss med hengivenhet mot ditt he
 
 (Source category: Møter)
 (Bahaiprayers.net ID: 3595)
+
+
 
 
 ### <a id="bpn3592"></a> Prayer bpn3592 in Norsk
@@ -1087,6 +1285,8 @@ Du er den tilgivende, den nådige.
 
 (Source category: Møter)
 (Bahaiprayers.net ID: 3592)
+
+
 
 
 
@@ -1112,6 +1312,8 @@ Du er i sannhet den allvitende, den allvise.
 
 
 
+
+
 ## Opplysning
 
 ### <a id="bpn3538"></a> Prayer bpn3538 in Norsk
@@ -1121,6 +1323,8 @@ Jeg har våknet under din beskyttelse, o min Gud, og det sømmer seg for den som
 
 (Source category: Opplysning)
 (Bahaiprayers.net ID: 3538)
+
+
 
 
 ### <a id="bpn3539"></a> Prayer bpn3539 in Norsk
@@ -1134,6 +1338,8 @@ Du er i sannhet alle menneskers Herre og Konge og har makt over alle ting.
 
 (Source category: Opplysning)
 (Bahaiprayers.net ID: 3539)
+
+
 
 
 
@@ -1154,11 +1360,15 @@ Du er i sannhet skaperverkets Herre. Ingen Gud er der utenom deg, den evig tilgi
 (Bahaiprayers.net ID: 3542)
 
 
+
+
 ### <a id="bpn3543"></a> Prayer bpn3543 in Norsk
 O du hvis prøvelser er et middel til legedom for dem som er deg nær, hvis sverd er den brennende lengsel for alle dem som elsker deg, hvis pil er det kjæreste ønske for de hjerter som lengter etter deg, hvis forordning er det eneste håp for dem som har anerkjent din sannhet! Jeg bønnfaller deg, ved din guddommelige mildhet og ved glansen av ditt åsyns herlighet, om å sende ned over oss fra ditt skjul i det høye det som vil gjøre oss i stand til å komme deg nærmere. Gi derfor våre føtter sikkert feste i din Sak, o min Gud, og opplys våre hjerter ved glansen av din kunnskap, og fyll vårt indre med lyset av dine navns strålende klarhet.
 
 (Source category: Prøvelser og vanskeligheter)
 (Bahaiprayers.net ID: 3543)
+
+
 
 
 ### <a id="bpn3544"></a> Prayer bpn3544 in Norsk
@@ -1168,6 +1378,8 @@ La meg så vende meg helt og fullt mot deg, sette all min lit til deg, søke deg
 
 (Source category: Prøvelser og vanskeligheter)
 (Bahaiprayers.net ID: 3544)
+
+
 
 
 ### <a id="bpn3545"></a> Prayer bpn3545 in Norsk
@@ -1183,6 +1395,8 @@ Mektig er du til å gjøre det som behager deg. Ingen annen Gud er der enn deg, 
 (Bahaiprayers.net ID: 3545)
 
 
+
+
 ### <a id="bpn3540"></a> Prayer bpn3540 in Norsk
 Finnes det noen som fjerner vanskeligheter uten Gud? Si: Lovet være Gud! Han er Gud! Alle er hans tjenere, og alle holder fast ved hans bud!
 
@@ -1190,11 +1404,15 @@ Finnes det noen som fjerner vanskeligheter uten Gud? Si: Lovet være Gud! Han er
 (Bahaiprayers.net ID: 3540)
 
 
+
+
 ### <a id="bpn3541"></a> Prayer bpn3541 in Norsk
 Si: Gud er alle ting tilstrekkelig fremfor alle ting, og intet i himlene eller på jorden eller i hva som enn ligger mellom dem er tilstrekkelig uten Herren din Gud. Sannelig, han er i seg selv den vitende, den opprettholdende, den allmektige.
 
 (Source category: Prøvelser og vanskeligheter)
 (Bahaiprayers.net ID: 3541)
+
+
 
 
 ### <a id="bpn3546"></a> Prayer bpn3546 in Norsk
@@ -1209,6 +1427,8 @@ Ta under din beskyttelse, o du renhetens ånd, du som er den overmåte gavmilde 
 
 
 
+
+
 ## Rettferdighet
 
 ### <a id="bpn3547"></a> Prayer bpn3547 in Norsk
@@ -1219,6 +1439,8 @@ Si: O Gud, min Gud! Pryd mitt hode med rettferdighetens krone og ikle mitt tempe
 
 
 
+
+
 ## Sakens hender
 
 ### <a id="bpn3597"></a> Prayer bpn3597 in Norsk
@@ -1226,6 +1448,8 @@ Lys og herlighet, hyllest og lovprisning være over hans Saks Hender, ved hvem s
 
 (Source category: Sakens hender)
 (Bahaiprayers.net ID: 3597)
+
+
 
 
 
@@ -1242,6 +1466,8 @@ Lovet være du, o du som er elsket av dem som har kjent deg!
 (Bahaiprayers.net ID: 3548)
 
 
+
+
 ### <a id="bpn3549"></a> Prayer bpn3549 in Norsk
 O du hvis nærhet er mitt ønske, hvis nærvær er mitt håp, hvis ihukommelse er min attrå, hvis herlighets kongesete er mitt mål, hvis bolig er mitt siktepunkt, hvis navn er min helbredelse, hvis kjærlighet er mitt hjertes stråleglans, hvis tjeneste er min sterkeste higen! Jeg bønnfaller deg ved ditt navn, hvorved du har satt dem som har anerkjent deg i stand til å heve seg mot de herligste høyder av kunnskap om deg, og hvorved du har gjort det mulig for slike som inderlig tilber deg å stige opp til og tre inn på enemerkene for dine hellige gunstbevisningers kongesete, om å hjelpe meg til å vende mitt ansikt mot ditt åsyn, og til å feste mitt blikk på deg og til å tale om din herlighet.
  
@@ -1253,6 +1479,8 @@ Du er sannelig maktens Gud, hjelperen i fare, den overmåte herlige, den allmekt
 (Bahaiprayers.net ID: 3549)
 
 
+
+
 ### <a id="bpn3550"></a> Prayer bpn3550 in Norsk
 O medlidende Gud! Deg skje takk for at du har vekket meg og gjort meg bevisst. Du har gitt meg et seende øye og skjenket meg et lydhørt øre, ført meg til ditt rike og ledet meg til din sti. Du har vist meg den rette vei og gitt meg å tre inn i forløsningens ark. O Gud! La meg forbli standhaftig, og gjør meg sterk og trofast. Beskytt meg mot hårde prøvelser, og bevar og vern meg i din Pakts og ditt Testamentes sterkt befestede festning. Du er den mektige. Du er den seende. Du er den hørende.
  
@@ -1262,6 +1490,8 @@ Du er den medlidende, den barmhjertige. Du er den store, velgjørende Gud.
 
 (Source category: Standhaftighet)
 (Bahaiprayers.net ID: 3550)
+
+
 
 
 
@@ -1277,6 +1507,8 @@ O min Herre, jeg vier det  uns t I mitt morsliv til deg. Gjør det derfor til et
 
 
 
+
+
 ## Tilgivelse
 
 ### <a id="bpn3552"></a> Prayer bpn3552 in Norsk
@@ -1286,6 +1518,8 @@ Du ser meg, o min Herre, med mitt ansikt vendt mot din gavmildhets himmel og din
 (Bahaiprayers.net ID: 3552)
 
 
+
+
 ### <a id="bpn3553"></a> Prayer bpn3553 in Norsk
 Jeg er, o min Herre, den som har vendt sitt ansikt mot deg og satt sitt håp til din nådes undere og din gavmildhets åpenbaringer. Jeg ber deg om at du ikke vil tillate at jeg vender meg skuffet bort fra din barmhjertighets dør, ei heller overlate meg til slike av dine skapninger som har fornektet din Sak.
  
@@ -1293,6 +1527,8 @@ Jeg er, o min Gud, din tjener og sønn av din tjener. Jeg har erkjent din sannhe
 
 (Source category: Tilgivelse)
 (Bahaiprayers.net ID: 3553)
+
+
 
 
 ### <a id="bpn3554"></a> Prayer bpn3554 in Norsk
@@ -1306,11 +1542,15 @@ Tilgi så, o min Herre, dine tjenere og dine tjenerinner. Du er i sannhet den ev
 (Bahaiprayers.net ID: 3554)
 
 
+
+
 ### <a id="bpn3551"></a> Prayer bpn3551 in Norsk
 Lovet være du, o Herre. Tilgi oss våre synder, ha barmhjertighet med oss og gjør oss i stand til å vende tilbake til deg. La oss ikke sette vår lit til noe annet enn deg, og skjenk oss, ved din gavmildhet, det som du elsker og attrår og som anstår deg vel. Gi dem som i sannhet har trodd, en opphøyet stilling, og la din nådige tilgivelse bli dem til del. Sannelig, du er hjelperen i fare, den selvbestående.
 
 (Source category: Tilgivelse)
 (Bahaiprayers.net ID: 3551)
+
+
 
 
 
@@ -1325,6 +1565,8 @@ Gjør dine tjeneres ansikter forklaret, o Herre, slik at de kan skue deg; og ren
 (Bahaiprayers.net ID: 3557)
 
 
+
+
 ### <a id="bpn3558"></a> Prayer bpn3558 in Norsk
 Lovpriset være ditt navn, o min Gud, for at du har åpenbart den Dag som er dagenes konge, den Dag som du forkynte for dine utvalgte og dine profeter i dine ypperste tavler, den Dag da du kastet glansen av alle dine navns herlighet over alle skapte ting. Storlig velsignet er hver den som har vendt seg mot deg, og trådt inn i ditt nærvær, og hørt din røst tale.
  
@@ -1334,6 +1576,8 @@ Siden du har ledet dem, o min Herre, til din nådes levende vann, så gi ved din
 
 (Source category: Undervisning)
 (Bahaiprayers.net ID: 3558)
+
+
 
 
 ### <a id="bpn3559"></a> Prayer bpn3559 in Norsk
@@ -1349,6 +1593,8 @@ Du er i sannhet styrkens og maktens Gud, som er den rette til å svare dem som b
 (Bahaiprayers.net ID: 3559)
 
 
+
+
 ### <a id="bpn3560"></a> Prayer bpn3560 in Norsk
 O min Gud! Jeg ber deg, ved ditt herligste navn, om å bistå meg i det som vil fremme dine tjeneres anliggender og få dine byer til å blomstre. Du har i sannhet makt over alle ting!
 
@@ -1356,11 +1602,15 @@ O min Gud! Jeg ber deg, ved ditt herligste navn, om å bistå meg i det som vil 
 (Bahaiprayers.net ID: 3560)
 
 
+
+
 ### <a id="bpn3561"></a> Prayer bpn3561 in Norsk
 Ære være deg som har fått alle de hellige til å bekjenne sin hjelpeløshet overfor de mangfoldige åpenbaringer av din velde og enhver profet til å erkjenne sin absolutte ringhet ansikt til ansikt med din bestandige herlighets glans. Jeg bønnfaller deg, ved ditt navn som har åpnet himmelens porter og fylt skaren i det høye med ekstatisk fryd, om å gjøre meg i stand til å tjene deg, på denne Dag, og om å gi meg styrke til å overholde det som du foreskrev i din Bok. Du vet, o min Herre, hva som bor i meg; men jeg vet ikke hva som bor i deg. Du er den allvitende, den best underrettede.
 
 (Source category: Undervisning)
 (Bahaiprayers.net ID: 3561)
+
+
 
 
 ### <a id="bpn3562"></a> Prayer bpn3562 in Norsk
@@ -1376,11 +1626,15 @@ Jeg ber deg inderlig, o du tilværelsens Konge og beskytter av det sette og det 
 (Bahaiprayers.net ID: 3562)
 
 
+
+
 ### <a id="bpn3555"></a> Prayer bpn3555 in Norsk
 Priset være ditt navn, o Gud. Du er i sannhet vår Herre; du er oppmerksom på hva som enn er i himmelen og på jorden. Send derfor ned over oss et tegn på din barmhjertighet. Sannelig, du har ingen overmann blant dem som viser barmhjertighet. Høylovet være du, o Herre. Bestem for oss fra ditt nærvær det som vil vederkvege hjertene til de oppriktige blant dine tjenere. Forherliget er du, o Gud; du er skaperen av himmelen og jorden og det som ligger mellom dem. Du er den høyeste Herre, den helligste, den allmektige, den allvise. Lovpriset være ditt navn, o Gud; send ned over dem som har trodd på Gud og på hans tegn, en mektig hjelp fra ditt nærvær slik at de blir i stand til å vinne seier over størstedelen av menneskeheten.
 
 (Source category: Undervisning)
 (Bahaiprayers.net ID: 3555)
+
+
 
 
 ### <a id="bpn3556"></a> Prayer bpn3556 in Norsk
@@ -1396,6 +1650,8 @@ Gi du, o Herre, at deres hjerter -gjennom troskap mot denne din ukrenkelige tro 
 (Bahaiprayers.net ID: 3556)
 
 
+
+
 ### <a id="bpn3563"></a> Prayer bpn3563 in Norsk
 O du gode Herre! Lovet være du for at du har vist oss ledelsens vei, åpnet rikets dører og åpenbart deg gjennom virkelighetens sol. Til de blinde har du gitt syn; til de døve har du skjenket hørsel; du har gjenoppvekket de døde; du har gjort de fattige rike; du har vist veien for dem som er kommet på avveier; du har ledet dem som har uttørrede lepper til ledelsens kilde; du har tillatt de tørstende fisker å nå virkelighetens osean; og du har innbudt de flakkende fugler til nådens rosenhave.
  
@@ -1409,6 +1665,8 @@ Sannelig, du er den sterke, den mektige, den vise og den seende.
 (Bahaiprayers.net ID: 3563)
 
 
+
+
 ### <a id="bpn3564"></a> Prayer bpn3564 in Norsk
 O du uforlignelige Gud! O du kongerikets Herre! Disse sjeler er din himmelske hær. Bistå dem, og gjør dem seierrike med styrkene fra den høyeste hærskare, slik at hver av dem kan bli som et regiment og erobre disse land ved Guds kjærlighet og den guddommelige læres lys.
  
@@ -1418,6 +1676,8 @@ Sannelig, du er den sterke, den veldige og den allmektige, og du er den vise, de
 
 (Source category: Undervisning)
 (Bahaiprayers.net ID: 3564)
+
+
 
 
 ### <a id="bpn3565"></a> Prayer bpn3565 in Norsk
@@ -1431,6 +1691,8 @@ Sannelig, du bestyrker hvem du vil i det som du ønsker, og sannelig, du er den 
 
 (Source category: Undervisning)
 (Bahaiprayers.net ID: 3565)
+
+
 
 
 ### <a id="bpn3566"></a> Prayer bpn3566 in Norsk
@@ -1447,6 +1709,8 @@ Sannelig, du er den milde, den sterke, den mektige, og den nådigste av de nådi
 (Bahaiprayers.net ID: 3566)
 
 
+
+
 ### <a id="bpn3567"></a> Prayer bpn3567 in Norsk
 O Gud! O Gud! Dette er en vingestekket fugl, og dens flukt er meget langsom. Hjelp den, så den kan fly mot lykkens og frelsens tinde, vinge sin vei med den største glede og fryd gjennom det uendelige himmelrom, istemme sin melodi i ditt Høyeste Navn i alle egner, fryde ørene med denne kallen og gjøre øynene strålende ved synet av ledelsens tegn!
  
@@ -1456,6 +1720,8 @@ O Herre! Jeg er enslig, alene og ubetydelig. For meg er der ingen annen støtte 
 (Bahaiprayers.net ID: 3567)
 
 
+
+
 ### <a id="bpn3568"></a> Prayer bpn3568 in Norsk
 O min Gud! O min Gud! Du ser meg i min ringhet og svakhet, beskjeftiget med dette største foretagende, fast bestemt på å oppløfte ditt ord blant massene og på å utbre din lære blant dine folk. Hvordan kan jeg lykkes med mindre du bistår meg med den Hellige Ånds ånde, hjelper meg til seier med hærskarene fra ditt herlige rike og utøser over meg dine bekreftelser, som alene kan forvandle en mygg til en ørn, en vanndråpe til elver og sjøer og et atom til lys og soler? O min Herre! Bistå meg med din seierrike og virkningsfulle kraft, så at min tunge kan prise deg og tale om dine egenskaper blant alle mennesker og min sjel strømme over av din kjærlighets og kunnskaps vin.
  
@@ -1463,6 +1729,8 @@ Du er den allmektige og den som gjør hva du enn vil.
 
 (Source category: Undervisning)
 (Bahaiprayers.net ID: 3568)
+
+
 
 
 
@@ -1477,6 +1745,8 @@ Naken er jeg, o min Gud! Kle meg med dine kjærlige velsignelsers kappe. Jeg er 
 (Bahaiprayers.net ID: 3570)
 
 
+
+
 ### <a id="bpn3571"></a> Prayer bpn3571 in Norsk
 Ære være deg, o min Gud! Du hører dem som inderlig elsker deg jamre seg i sin adskillelse fra deg og slike som har anerkjent deg klage seg fordi de er langt borte fra ditt nærvær. Slå du din nådes porter opp for deres øyne, slik at de kan tre inn gjennom dem med din tillatelse og etter din vilje, og kan stå for din veldes trone, og høre din røst tale, og bli opplyst av glansen fra ditt åsyns lys.
  
@@ -1488,6 +1758,8 @@ Du er i sannhet den evig tilgivende, den mest medlidende.
 (Bahaiprayers.net ID: 3571)
 
 
+
+
 ### <a id="bpn3569"></a> Prayer bpn3569 in Norsk
 Jeg bønnfaller deg ved lysglansen fra ditt herlige åsyn, ved din urgamle storhets velde og ved ditt altoverskyggende herredømmes kraft, om å forordne for oss i denne stund ethvert mål av det som er godt og tilbørlig og om å bestemme for oss enhver andel av din nådes utgytelser. For det å skjenke gaver volder deg ikke tap, heller ikke minsker utdeling av gunstbevisninger din rikdom.
  
@@ -1495,6 +1767,8 @@ Forherliget er du, o Herre! I sannhet er jeg fattig mens du visselig er rik; i s
 
 (Source category: Velsignelse)
 (Bahaiprayers.net ID: 3569)
+
+
 
 
 
@@ -1513,6 +1787,8 @@ Og da han ønsket å vise nåde og velgjørenhet overfor menneskene, og å skape
 (Bahaiprayers.net ID: 3600)
 
 
+
+
 ### <a id="bpn3598"></a> Prayer bpn3598 in Norsk
 Svangerskap
 Min Herre! Min Herre! Jeg priser deg og jeg takker deg for det hvormed du har begunstiget din ydmyke tjenerinne, din trell som trygler og bønnfaller deg, fordi du I sannhet har ledet henne til ditt åpenbare rike og latt henne få høre din opphøyede kallen I den timelige verden og skue dine tegn som viser at ditt seierrike herredømme over alle ting er kommet til syne.
@@ -1521,6 +1797,8 @@ O min Herre, jeg vier det  uns t I mitt morsliv til deg. Gjør det derfor til et
 
 (Source category: Vielse)
 (Bahaiprayers.net ID: 3598)
+
+
 
 
 ### <a id="bpn3601"></a> Prayer bpn3601 in Norsk
@@ -1532,11 +1810,15 @@ O du gode Herre! La du dette ekteskap frembringe koraller og perler. Du er i san
 (Bahaiprayers.net ID: 3601)
 
 
+
+
 ### <a id="bpn3602"></a> Prayer bpn3602 in Norsk
 Ære være deg, o min Gud! Sannelig, denne din tjener og denne din tjenerinne er kommet sammen under din barmhjertighets vern, og de er forenet ved din velvilje og godhet. O Herre! Hjelp dem i denne verden og i ditt rike, og bestem for dem ethvert gode ved din gavmildhet og nåde. O Herre! Styrk dem i din tjeneste, og hjelp dem til å tjene deg. Gi dem å bli ditt navns tegn i din verden, og beskytt dem ved dine gaver som er uuttømmelige i denne verden og den kommende verden. O Herre! De bønnfaller din miskunnhets kongedømme og påkaller din enhets rike. Sannelig, de har inngått ekteskap i lydighet mot ditt bud. Gi at de må bli tegn på harmoni og enhet inntil tidenes ende. Sannelig, du er den overmåte sterke, den allestedsnærværende, den allmektige.
 
 (Source category: Vielse)
 (Bahaiprayers.net ID: 3602)
+
+
 
 
 
@@ -1549,6 +1831,8 @@ Mektig er du til å gjøre det som deg behager. Du er i sannhet den mest opphøy
 
 (Source category: Åndelig vekst)
 (Bahaiprayers.net ID: 3574)
+
+
 
 
 ### <a id="bpn3575"></a> Prayer bpn3575 in Norsk
@@ -1564,6 +1848,8 @@ Mektig er du til å gjøre det som deg behager. Du er i sannhet den allmektige, 
 (Bahaiprayers.net ID: 3575)
 
 
+
+
 ### <a id="bpn3576"></a> Prayer bpn3576 in Norsk
 Lovet være du, o Herre min Gud! Jeg bevitner at du fra evighet var opphøyet i din altoverskyggende velde og makt, og at du til evighet vil forbli i din altoverstrålende kraft og herlighet. Ingen i jordens og himmelens riker makter å gjøre ditt forsett til intet; ingen i alle åpenbaringens og skapningens verdener kan beseire deg. På ditt bud gjør du hva du vil, og ved ditt herredømmes kraft hersker du som du behager.
  
@@ -1573,6 +1859,8 @@ Jeg er idel ynkelighet, o min Herre, og du er den sterkeste, den allmektige. For
 
 (Source category: Åndelig vekst)
 (Bahaiprayers.net ID: 3576)
+
+
 
 
 ### <a id="bpn3577"></a> Prayer bpn3577 in Norsk
@@ -1590,6 +1878,8 @@ Der er ingen annen Gud enn deg, den allmektige, den velgjørende.
 (Bahaiprayers.net ID: 3577)
 
 
+
+
 ### <a id="bpn3578"></a> Prayer bpn3578 in Norsk
 O min Gud, gavmildhetens og barmhjertighetens Gud! Du er den Konge ved hvis bydende ord hele skaperverket er blitt frembragt; og du er den overmåte gavmilde hvis tjeneres gjerninger aldri har hindret ham fra å gi uttrykk for sin nåde, ei heller fra å åpenbare sin gavmildhet.
  
@@ -1597,6 +1887,8 @@ Tillat denne tjener, bønnfaller jeg deg, å nå frem til det som er kilden til 
 
 (Source category: Åndelig vekst)
 (Bahaiprayers.net ID: 3578)
+
+
 
 
 ### <a id="bpn3579"></a> Prayer bpn3579 in Norsk
@@ -1608,11 +1900,15 @@ Du er i sannhet den allmektige, den overmåte herlige, den sterkeste.
 (Bahaiprayers.net ID: 3579)
 
 
+
+
 ### <a id="bpn3580"></a> Prayer bpn3580 in Norsk
 Skap i meg et rent hjerte, o min Gud, og gi meg på ny en rolig samvittighet, o mitt håp! Ved kraftens ånd bestyrk du meg i din Sak, o min høyst-elskede, og ved din herlighets lys åpenbar for meg din vei, o du mine lengslers mål! Ved din altoverskyggende veldes kraft løft meg opp til din hellighets himmel, o mitt vesens opphav, og gled meg ved din evighets milde vinder, o du som er min Gud! La dine evigvarende melodier ånde ro over meg, o min ledsager, og la ditt urgamle åsyns rikdom fri meg fra alt uten deg, o min Mester, og la budskapet om åpenbaringen av ditt uforgjengelige vesen bringe meg glede, o du som er det mest åpenbare av det åpenbare og det mest skjulte av det skjulte!
 
 (Source category: Åndelig vekst)
 (Bahaiprayers.net ID: 3580)
+
+
 
 
 ### <a id="bpn3572"></a> Prayer bpn3572 in Norsk
@@ -1632,6 +1928,8 @@ Sannelig, du er den overmåte sterke, beskytteren, den allmektige, den selvbest�
 (Bahaiprayers.net ID: 3572)
 
 
+
+
 ### <a id="bpn3573"></a> Prayer bpn3573 in Norsk
 Forherliget være ditt navn, o Herre! Hos hvem skal jeg finne tilflukt når du i sannhet er min Gud og min elskede? Hos hvem skal jeg søke ly når du er min Herre og min besitter? Og til hvem skal jeg flykte når du i sannhet er min Mester og mitt tilfluktssted? Og hvem skal jeg bønnfalle når du i sannhet er min skatt og min lengsels mål? Og gjennom hvem skal jeg fremføre min bønn til deg når du i sannhet er min sterkeste higen og mitt høyeste ønske? Hvert et håp er gjort til intet unntatt lengselen etter din himmelske nåde, og hver en dør er sperret uten den portal som fører til dine velsignelsers kildevell.
  
@@ -1643,6 +1941,8 @@ Sannelig, der finnes ingen kraft eller styrke uten i deg.
 (Bahaiprayers.net ID: 3573)
 
 
+
+
 ### <a id="bpn3581"></a> Prayer bpn3581 in Norsk
 O Gud! Forfrisk og gled min ånd. Rens mitt hjerte. Styrk mine evner. Alt hva meg angår legger jeg i din hånd. Du er min leder og min tilflukt. Jeg vil ikke lenger være sørgmodig og bedrøvet; jeg vil være lykkelig og glad. O Gud! Jeg vil ikke lenger være full av angst, ei heller vil jeg la vanskeligheter plage meg. Jeg vil ikke dvele ved livets ubehageligheter.
  
@@ -1650,6 +1950,8 @@ O Gud! Du er en bedre venn for meg enn jeg selv er. Jeg vier meg til deg, o Herr
 
 (Source category: Åndelig vekst)
 (Bahaiprayers.net ID: 3581)
+
+
 
 
 ### <a id="bpn3582"></a> Prayer bpn3582 in Norsk
@@ -1661,6 +1963,8 @@ Sannelig, du er den mest gavmilde, den overmåte nådige Herre. Der er ingen ann
 (Bahaiprayers.net ID: 3582)
 
 
+
+
 ### <a id="bpn3583"></a> Prayer bpn3583 in Norsk
 O min Herre! O min Herre! Dette er en lampe som er tent av din kjærlighets ild og som brenner med den flamme som er tent i din barmhjertighets tre. O min Herre! Øk dens glød, varme og flamme, med den ild som er tent i din manifestasjons Sinai. Sannelig, du er den bestyrkende, den hjelpende, den mektige, den gavmilde, den kjærlige.
 
@@ -1668,11 +1972,16 @@ O min Herre! O min Herre! Dette er en lampe som er tent av din kjærlighets ild 
 (Bahaiprayers.net ID: 3583)
 
 
+
+
 ### <a id="bpn3584"></a> Prayer bpn3584 in Norsk
 O min herlige Herre! Hjelp meg til å avstå fra enhver avvikende tilbøyelighet; til å holde enhver opprørsk lidenskap i tømme; til å gjøre motivene for min oppførsel rene; til å tilegne meg den ydmykhet som ikke lar seg anfekte av noen utfordring, den tålmodighet som ingen lidelse kan gjøre slutt på, den rettskaffenhet som ingen selviskhet kan rokke, så at jeg kan bli skikket til å tjene deg og utbre ditt Ord.
 
 (Source category: Åndelig vekst)
 (Bahaiprayers.net ID: 3584)
+
+
+
 
 
 

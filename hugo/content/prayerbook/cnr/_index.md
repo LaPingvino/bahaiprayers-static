@@ -3,6 +3,30 @@ title = "Montenegrin"
 tags = ['lang=cnr', 'prayerbook']
 +++
 
+
+
+[Djeca](#Djeca)
+
+[Duhovne Vrline](#Duhovne Vrline)
+
+[Iscjeljenje](#Iscjeljenje)
+
+[Jedinstvo i Mir](#Jedinstvo i Mir)
+
+[Jutro](#Jutro)
+
+[Noć](#Noć)
+
+[Pomoć](#Pomoć)
+
+[Slava Bogu](#Slava Bogu)
+
+[Teškoće](#Teškoće)
+
+[Za Preminule](#Za Preminule)
+
+
+
 ## Djeca
 
 ### <a id="bpn5341"></a> Prayer bpn5341 in Montenegrin
@@ -12,11 +36,15 @@ O Bože,vodi me, zaštiti me, načini od mene sjajnu svjetiljku i blistavu zv
 (Bahaiprayers.net ID: 5341)
 
 
+
+
 ### <a id="bpn5342"></a> Prayer bpn5342 in Montenegrin
 O Bože! Odgoji ovu djecu. Ova djeca su biljke u Tvom voćnjaku, cvjetovi na Tvojoj livadi, ruže u Tvome vrtu. Nek tvoja kiša pada po njima; neka ih sunce Stvarnosti obasja Tvojom ljubavlju. Neka ih osvježe Tvoji lahori da bi se obrazovali, rasli i razvijali i pojavili se u konačnoj ljepoti. Ti si Davalac. Ti si Saosjećajni.
 
 (Source category: Djeca)
 (Bahaiprayers.net ID: 5342)
+
+
 
 
 
@@ -30,11 +58,15 @@ Ti si, odista, Svemoćni, Najdivniji, Najmoćniji.
 (Bahaiprayers.net ID: 5331)
 
 
+
+
 ### <a id="bpn5332"></a> Prayer bpn5332 in Montenegrin
 Stvori u meni čisto srce, o moj Bože, i mirnu savjest obnovi u meni, o Nado moja! Duhom moći ojačaj me da služim Tvojoj Stvari, o Najljubljeniji moj, i svijetlom Svoje slave pokaži mi put Tvoj, o Ti koji si cilj čežnje moje! Snagom Svoje nenadmašne moći uzdigni me do nebesa Svoje svetosti, o Izvorištu moga bića, i razgali me lahorima Svoje vječnosti o Ti Koji si Bog moj! Neka me Tvoje melodije vječnosti ispune spokojem, o moj Sadruže, i neka me raskoš ljepote Tvog drevnog lika izbavi od svega osim Tebe, o Učitelju moj, i neka mi vijest o otkrovenju Tvoje nepromjenljive Suštine donese radost, o Ti Koji si najvidljiviji od svega vidljivoga i najskriveniji od svega skrivenoga!
 
 (Source category: Duhovne Vrline)
 (Bahaiprayers.net ID: 5332)
+
+
 
 
 ### <a id="bpn5333"></a> Prayer bpn5333 in Montenegrin
@@ -43,6 +75,8 @@ O Bože! Ti si mi veći prijatelj no što sam ja samome sebi. Posvećujem se
 
 (Source category: Duhovne Vrline)
 (Bahaiprayers.net ID: 5333)
+
+
 
 
 
@@ -55,12 +89,16 @@ Tvoje ime je moje iscjeljenje, o Bože moj, pomen na Tebe moj je lijek. Tvoja b
 (Bahaiprayers.net ID: 5337)
 
 
+
+
 ### <a id="bpn5338"></a> Prayer bpn5338 in Montenegrin
 O Bože, moj Bože! Zaklinjem te, Okeanom Tvojih iscjeljiteljskih moći, i sjajnom Danicom Tvog milosrđa, i Tvojim Imenom kojem se pokoravaju Tvoje sluge, i sveprožimajućom snagom Tvoje najuzvišenije Riječi, i silom Tvog najdivnijeg Pera, i Tvojom milošću, koja je prethodila stvaranju svega što obitava na nebu i na zemlji, pročisti me vodom svoje dobrote, speri sa mene svaku nesreću i bolest, svaku slabost i nemoć.
 Ti vidiš, O moj Gospode, molioca koji čeka pred vratima Tvoje darežljivosti, onoga koji je svu svoju nadu položio u Tebe, držeći se za uže Tvoje plemenitosti. Preklinjem Te da mu ne uskratiš ono što traži od Okeana Tvoje milosti i od Danice Tvog saosjećanja. Ti imaš moć da činiš šta god poželiš. Nema drugog Boga osim Tebe, Koji sve praštaš, Najvelikodušnijeg.
 
 (Source category: Iscjeljenje)
 (Bahaiprayers.net ID: 5338)
+
+
 
 
 
@@ -73,11 +111,15 @@ O Bože moj! O Bože moj! Ujedini srca Svojih slugu, i otkrij im Svoju veliku 
 (Bahaiprayers.net ID: 5344)
 
 
+
+
 ### <a id="bpn5345"></a> Prayer bpn5345 in Montenegrin
 O Bože! Mi smo slabi; daj nam snage.Siromašni smo; podari nam Svoje neizmjerno blago. Bolesni smo; pošalji nam Svoje božansko iscjeljenje. Nemoćni smo; daj nam udio Svoje nebeske moći. O Gospode! Omogući nam da budemo od koristi u ovom svijetu; oslobodi nas sebičnosti i žudnje. O Gospode! Podrži nas Svojom ljubavlju i uputi nas kako da volimo čitavo čovječanstvo. Osnaži nas u službi ljudima širom svijeta, da budemo sluge Tvojih slugu, da možemo da volimo sva Tvoja stvorenja i osjetimo saosjećanje za sve Tvoje narode. O Gospode! Ti si Svemoćni! Ti si Milosrdni! Ti si Onaj koji prašta! Ti si Svemogući.
 
 (Source category: Jedinstvo i Mir)
 (Bahaiprayers.net ID: 5345)
+
+
 
 
 
@@ -88,6 +130,8 @@ Probudio sam se u Tvom okrilju, O moj Bože, a priliči onome koji za tim utoc
 
 (Source category: Jutro)
 (Bahaiprayers.net ID: 5339)
+
+
 
 
 
@@ -103,6 +147,8 @@ Nema drugog Boga osim Tebe, Svemogućeg, Onog Koji sve pokorava, Neuslovljenog.
 
 
 
+
+
 ## Pomoć
 
 ### <a id="bpn5334"></a> Prayer bpn5334 in Montenegrin
@@ -110,6 +156,8 @@ O moj Bože! Molim Te da mi, po Svom Preslavnom Imenu, pomogneš u onome što
 
 (Source category: Pomoć)
 (Bahaiprayers.net ID: 5334)
+
+
 
 
 ### <a id="bpn5335"></a> Prayer bpn5335 in Montenegrin
@@ -123,6 +171,8 @@ Ti si Svemogući, Onaj koji ljubi i brine se za čitavo čovječanstvo.
 (Bahaiprayers.net ID: 5335)
 
 
+
+
 ### <a id="bpn5336"></a> Prayer bpn5336 in Montenegrin
 Ne sklanjaj, o Gospode, prazničnu trpezu koja je postavljena u Tvoje Ime, i ne gasi plamen koji je razgorjela Tvoja neuništiva vatra. Ne zaustavljaj tok svoje žive vode što žubori pjesmom Tvoje slave i Tvoga pomena, i ne lišavaj Svoje sluge Svojih slasnih miomirisa što donose daške Tvoje ljubavi.
 Gospode! Preobrazi opterećujuće brige Tvojih svetih u olakšanje, njihove patnje u utjehu, njihovo poniženje u slavu, njihovu tugu u blaženu radost, o Ti koji Svojom rukom upravljaš čitavim ljudskim rodom!
@@ -130,6 +180,8 @@ Ti si, zaista, Jedan, Jedini, Moćni, Sveznajući, Premudri.
 
 (Source category: Pomoć)
 (Bahaiprayers.net ID: 5336)
+
+
 
 
 
@@ -141,6 +193,8 @@ Ozari svijetlom, O Gospode, lica svojih slugu, da Te mogu gledati; i srca im pro
 
 (Source category: Slava Bogu)
 (Bahaiprayers.net ID: 5330)
+
+
 
 
 
@@ -157,6 +211,8 @@ Moćan si Ti da činiš kako Ti volja. Nema drugog Boga osim Tebe, Pomagača
 (Bahaiprayers.net ID: 5348)
 
 
+
+
 ### <a id="bpn5346"></a> Prayer bpn5346 in Montenegrin
 Ima li drugog Uklonitelja teškoća osim Boga?Recite: Neka je hvaljen Bog! On je Bog! Svi su Njegove sluge, i svi se pokoravaju zapovjesti Njegovoj!
 
@@ -164,11 +220,15 @@ Ima li drugog Uklonitelja teškoća osim Boga?Recite: Neka je hvaljen Bog! On 
 (Bahaiprayers.net ID: 5346)
 
 
+
+
 ### <a id="bpn5347"></a> Prayer bpn5347 in Montenegrin
 Zaklinjem Te Tvojom silom, O moj Bože! Neka mi ništa ne naudi u vremenima iskušenja, a u trenucima nemarnosti moje Svojim me nadahnućem vrati na pravi put. Ti si Bog, imaš moć da činiš sve što poželiš. Niko se ne može oduprijeti Tvojoj Volji, niti osujetiti Namjeru Tvoju. Báb
 
 (Source category: Teškoće)
 (Bahaiprayers.net ID: 5347)
+
+
 
 
 
@@ -181,6 +241,9 @@ O moj Gospode! Očisti ih od prestupa, rasprši njihovu tugu, a njihovu tamu p
 
 (Source category: Za Preminule)
 (Bahaiprayers.net ID: 5343)
+
+
+
 
 
 

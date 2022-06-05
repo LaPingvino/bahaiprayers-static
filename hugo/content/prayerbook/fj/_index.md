@@ -3,6 +3,66 @@ title = "Fiji"
 tags = ['lang=fj', 'prayerbook']
 +++
 
+
+
+[BOSE](#BOSE)
+
+[BULA VAKAYALO](#BULA VAKAYALO)
+
+[GONELALAI KEI NA TABA GONE](#GONELALAI KEI NA TABA GONE)
+
+[INTERCALARY DAYS](#INTERCALARY DAYS)
+
+[MASU NI VEISIKO VAKAYALO](#MASU NI VEISIKO VAKAYALO)
+
+[MATABOSE VAKAYALO](#MATABOSE VAKAYALO)
+
+[MATAKA](#MATAKA)
+
+[MATATAMATA](#MATATAMATA)
+
+[NA DUAVATA](#NA DUAVATA)
+
+[NA IVOLA NEI AHMAD](#NA IVOLA NEI AHMAD)
+
+[NA LOLO](#NA LOLO)
+
+[NA MASU VAKAROTI BALAVU](#NA MASU VAKAROTI BALAVU)
+
+[NA MASU VAKAROTI KA VAKARAUTA GA NA KENA BALAVU](#NA MASU VAKAROTI KA VAKARAUTA GA NA KENA BALAVU)
+
+[NA MASU VAKAROTI LEKALEKA](#NA MASU VAKAROTI LEKALEKA)
+
+[NA MATE](#NA MATE)
+
+[NA VAKAMAU](#NA VAKAMAU)
+
+[NA VEISEREKI](#NA VEISEREKI)
+
+[NA VEIVAKABULAI](#NA VEIVAKABULAI)
+
+[NA VEIVAKACAUCAUTAKI KEI NA VAKAVINAVINAKA](#NA VEIVAKACAUCAUTAKI KEI NA VAKAVINAVINAKA)
+
+[NA VEIVAKADEITAKI E NA VEIYALAYALATI](#NA VEIVAKADEITAKI E NA VEIYALAYALATI)
+
+[NA VEIVAKATAVULICI](#NA VEIVAKATAVULICI)
+
+[NA VEIVAKATOVOLEI](#NA VEIVAKATOVOLEI)
+
+[NA VEIVOSOTI](#NA VEIVOSOTI)
+
+[NA VEIVUKEI](#NA VEIVUKEI)
+
+[NA VEIVUKEI KEI NA VEIVAKATOVOLEI](#NA VEIVUKEI KEI NA VEIVAKATOVOLEI)
+
+[NA YALAYALA](#NA YALAYALA)
+
+[NAW-RÚZ](#NAW-RÚZ)
+
+[YAKAVI](#YAKAVI)
+
+
+
 ## BOSE
 
 ### <a id="bpn6950"></a> Prayer bpn6950 in Fiji
@@ -15,6 +75,8 @@ E dina sara, O i Kemuni na Dauveivukei. E dina sara, O i Kemuni na Dauveinanumi.
 
 
 
+
+
 ## BULA VAKAYALO
 
 ### <a id="bpn6951"></a> Prayer bpn6951 in Fiji
@@ -22,6 +84,8 @@ Mo ni sa vakatubura mada e lomaqu e dua na yalo sa savasava Sara, O i Kemuni na 
 
 (Source category: BULA VAKAYALO)
 (Bahaiprayers.net ID: 6951)
+
+
 
 
 ### <a id="bpn6952"></a> Prayer bpn6952 in Fiji
@@ -33,6 +97,8 @@ Sa tu vei Kemuni na kaukauwa kei na qaqa Mo ni vakayacora kina na ka e taleitaka
 (Bahaiprayers.net ID: 6952)
 
 
+
+
 ### <a id="bpn6953"></a> Prayer bpn6953 in Fiji
 O i Kemuni na Kalou! Ni vakabulabulataka mada ka vakamarautaka tale ga na yaloqu. Mo ni vakasavasavataka na utoqu. Mo ni vakalougatataka na noqu sasaga. Au sa vakotora na veika kece me baleti au e Ligamuni. O i Kemuni ga na noqu Dauniveivakasalataki ka noqu i Drodro. Au na sega tale ni dau yalorarawa se loma bibi, au na reki ka bula mamarau tiko ga. O i Kemuni na Kalou! Au sa na sega tale ni vakasinaita wale tu ga na yaloqu e na loma ocaoca, se vakalaiva na leqa me rawai au. Au na vakanadakuya na veika kece sa sega ni kilikili e na bula oqo.
 
@@ -40,6 +106,8 @@ O i Kemuni na Kalou! O ni sa noqu i tokani voleka cake sara ka yawa o i au ki ve
 
 (Source category: BULA VAKAYALO)
 (Bahaiprayers.net ID: 6953)
+
+
 
 
 
@@ -56,11 +124,15 @@ E dina ga, ni O i Kemuni sa kaukauwa, na iGu Cecekia, na Dauveirairaici, na Dauv
 (Bahaiprayers.net ID: 6954)
 
 
+
+
 ### <a id="bpn6955"></a> Prayer bpn6955 in Fiji
 O i Kemuni na Kalou! Ni vakatavulici ira mada na gone oqo. O ira na gone oqo erai tei ni Nomuni loga ni kau vuata, na senikau ni Nomuni veibuca, na senirosi ni Nomuni loga ni veisenikau. Me vakatauci mada vei ira na Nomuni uca, me cilavi ira na Nomuni Matanisiga ni Dina e na Nomuni loloma. Me vakabulabulataki ira na Nomuni cagi ni veiceguvi, ka me ra na rawa ni vakavulici, bula ka tubu cake, ka vakaraitaki e na i serau totoka duadua. Sa i Kemuni ga na Dausolisoli. Sa i Kemuni na Dauloloma.
 
 (Source category: GONELALAI KEI NA TABA GONE)
 (Bahaiprayers.net ID: 6955)
+
+
 
 
 ### <a id="bpn6956"></a> Prayer bpn6956 in Fiji
@@ -70,11 +142,15 @@ O i Kemuni na Kalou, Ni tuberi au, taqomaki au, qisi au me u cina ramase ka me u
 (Bahaiprayers.net ID: 6956)
 
 
+
+
 ### <a id="bpn6957"></a> Prayer bpn6957 in Fiji
 O i Kemuni na Turaga! Qisi koya mada na gone oqo e na veivakararamataki, ka vakadeitaka na tamata dravudravua oqo e na Nomuni veisaututaki. Mo ni solia mada vua na kilaka, vakuria na nona kaukauwa e na kida ni siga ni veimataka lailai ka karoni koya e na ruku ni Nomuni veitaqomaki ka me rawa ni vagalalataki laivi e na valavalaca, me rawa kina ni solia na nona bula ki na Nomuni Cakacaka, ka me rawa ni veituberi kivei ira na lako sese, vakasalataki ira na veilecayaki, sereki ira era vesuki tu vakayalo ka vakayadrata na nodra vakasama na lecaika, ka me ra vakalougatataki e na Nomuni veinanumi kei na veivakalagilagi. O i Kemuni ga na iGu Cecekia kei na kaukauwa.
 
 (Source category: GONELALAI KEI NA TABA GONE)
 (Bahaiprayers.net ID: 6957)
+
+
 
 
 
@@ -105,6 +181,8 @@ Sa i Kemuni, e dina, na Vu ni iGu Cecekia, na Vu ni Vuku, na Vu ni Vakatakila.
 
 
 
+
+
 ## MASU NI VEISIKO VAKAYALO
 
 ### <a id="bpn6987"></a> Prayer bpn6987 in Fiji
@@ -132,6 +210,8 @@ Sa i Kemuni ga na Dauveisaututaki, na Dauveinanumi, na Dauloloma Soli wale Duadu
 
 
 
+
+
 ## MATABOSE VAKAYALO
 
 ### <a id="bpn6958"></a> Prayer bpn6958 in Fiji
@@ -139,6 +219,8 @@ O i Kemuni na Kalou! Na noqu Kalou! O i keimami na Nomuni tamata ka vakanamata e
 
 (Source category: MATABOSE VAKAYALO)
 (Bahaiprayers.net ID: 6958)
+
+
 
 
 
@@ -153,11 +235,15 @@ Sa sega tale ni dua na Kalou Oi Kemuni ga, na Duabau, O Koya e Sega ni Vakatauta
 (Bahaiprayers.net ID: 6959)
 
 
+
+
 ### <a id="bpn6960"></a> Prayer bpn6960 in Fiji
 Au sa yadra cake mai na loma ni Nomuni veivakarurugi, O i Kemuni na noqu Kalou, ia sa yaco mada vaka kina ki vua sa vakasaqara nai vakaruru ko ya me sa tiko ga e loma ni i Tikotiko Tabu ni Nomuni veimaroroi kei na Baivatu ni Nomuni veitaqomaki. Ni serauna na yaloqu e loma, O i Kemuni na noqu Turaga, e na serau lagilagi e na i vurevure ni matanisiga vakayalo ni Nomuni Veivakaraitaki, me vaka ga na Nomuni a dau serauna tu na vei tiki ni yagoqu e tautuba e na i serau ni cila ni siga ni Nomuni loloma.
 
 (Source category: MATAKA)
 (Bahaiprayers.net ID: 6960)
+
+
 
 
 ### <a id="bpn6961"></a> Prayer bpn6961 in Fiji
@@ -174,6 +260,8 @@ O i Kemuni, dina, na Turaga kei na Tui ni matatamata kece ga, ka kaukauwa vei ir
 
 
 
+
+
 ## MATATAMATA
 
 ### <a id="bpn6962"></a> Prayer bpn6962 in Fiji
@@ -181,6 +269,8 @@ O i Kemuni na Turaga yalololoma! O i Kemuni sa dau lomasoli ka rawata na veika k
 
 (Source category: MATATAMATA)
 (Bahaiprayers.net ID: 6962)
+
+
 
 
 ### <a id="bpn6963"></a> Prayer bpn6963 in Fiji
@@ -205,6 +295,8 @@ Sa i Kemuni na iGu Cecekia kei na kaukauwa, sa i Kemuni na Dauveivosoti ka sa i 
 
 
 
+
+
 ## NA DUAVATA
 
 ### <a id="bpn6964"></a> Prayer bpn6964 in Fiji
@@ -212,6 +304,8 @@ I noqu Kalou! I noqu Kalou! Ni vakaduavatataka mada na utodra na Nomuni tamata, 
 
 (Source category: NA DUAVATA)
 (Bahaiprayers.net ID: 6964)
+
+
 
 
 
@@ -258,6 +352,8 @@ E dina, sa i Koya ga na Dauveivosoti, na Dauloloma. Me vakacaucautaki tiko ga na
 
 (Source category: NA IVOLA NEI AHMAD)
 (Bahaiprayers.net ID: 6986)
+
+
 
 
 
@@ -313,6 +409,8 @@ Au masuti Kemuni, I noqu Kalou, e na Vukumuni kei na vuku ni Nomuni vakatakilaki
 (Bahaiprayers.net ID: 6989)
 
 
+
+
 ### <a id="bpn6990"></a> Prayer bpn6990 in Fiji
 Mo ni sa vakalagilagi ga O i Kemuni Turaga na noqu Kalou! Au masuti Kemuni e na vuku ni Vakatakilakila ka vukica na butobuto me rarama, o koya e vakavuna me tara kina na Vale ni Soro Dau sikovi, ka vakavotukanataki kina na Masu Vakarautaki, ka cereki mai kina na iVola Vivigi, me sovaraki mai vei au, kei ira era tu vakavolivoliti au me rawa kina ni keimami torovi Kemuni yani e na Nomuni itikotiku tabu mai lomalagi, me savati keimami mai kina e na neimami dau vakatitiqa me vaka e dau vakataotaki ira na so e na nodra curuma yani na Valelaca Tabu ni Nomuni duavata.
 
@@ -324,6 +422,8 @@ Sa sega tale ni dua na Kalou sa i Kemuni ga, na Vu ni Kilaka, na Vu ni Vuku. Mo 
 
 (Source category: NA LOLO)
 (Bahaiprayers.net ID: 6990)
+
+
 
 
 
@@ -400,6 +500,8 @@ Au sa vakadinata, O i Kemuni na noqu Kalou, na veika era sa vakadinadinataka na 
 
 
 
+
+
 ## NA MASU VAKAROTI KA VAKARAUTA GA NA KENA BALAVU
 
 ### <a id="bpn6948"></a> Prayer bpn6948 in Fiji
@@ -441,6 +543,8 @@ Au sa kune i vakadinadina e na Nomuni duavata kei na Nomuni duabau, ka ni O ni s
 
 
 
+
+
 ## NA MASU VAKAROTI LEKALEKA
 
 ### <a id="bpn6947"></a> Prayer bpn6947 in Fiji
@@ -459,6 +563,8 @@ Sa sega tale ni dua na Kalou ia o Kemuni ga, na Dauveivukei e na Gauna ni Leqa, 
 
 
 
+
+
 ## NA MATE
 
 ### <a id="bpn6965"></a> Prayer bpn6965 in Fiji
@@ -470,6 +576,8 @@ Mo ni sa vakalagilagi, ka vakalagilagi vakalevu sara O i Kemuni! O ni sa rokovi 
 
 (Source category: NA MATE)
 (Bahaiprayers.net ID: 6965)
+
+
 
 
 ### <a id="bpn6966"></a> Prayer bpn6966 in Fiji
@@ -500,6 +608,8 @@ Keimami sa dau yalovosota kece, vakaidina, e na vukuna na Kalou.
 
 
 
+
+
 ## NA VAKAMAU
 
 ### <a id="bpn6967"></a> Prayer bpn6967 in Fiji
@@ -507,6 +617,8 @@ Keimami sa dau yalovosota kece, vakaidina, e na vukuna na Kalou.
 
 (Source category: NA VAKAMAU)
 (Bahaiprayers.net ID: 6967)
+
+
 
 
 
@@ -525,6 +637,8 @@ Sa dina ga, na Nomuni kaukauwa, sa vakatautauvatataki kei na veika kece ga.
 (Bahaiprayers.net ID: 6970)
 
 
+
+
 ### <a id="bpn6971"></a> Prayer bpn6971 in Fiji
 Mo ni vakalagilagi ga, O i Kemuni na noqu Kalou! O i au e dua vei ira na Nomuni dauveiqaravi, ka u sa dau vakabauti Kemuni kei na Nomuni veivakatakilakila. O ni sa raica ni u sa vakanamata yani ki na katuba ni Nomuni veivosoti, ka vagolea na mataqu ki na gaunisala ni Nomuni dauloloma ka yalovinaka. Au masuti Kemuni, e na Nomuni veiyaca buli uasivi duadua kei na Nomuni i tovo cecere duadua me dolava mada ki na mataqu na toba ni Nomuni i solisoli loloma. Ni vukei au, gona kina, me u vakayacora na veika sa vinaka, O i Kemuni na i Taukei ni vei yaca kece ga kei na i vakarau vinaka kece ga.
 
@@ -541,6 +655,8 @@ Sa sega tale ni dua na Kalou O i Kemuni ga, na Vu ni iGu Cecekia, na Dauveivakal
 
 
 
+
+
 ## NA VEIVAKABULAI
 
 ### <a id="bpn6972"></a> Prayer bpn6972 in Fiji
@@ -548,6 +664,8 @@ Sa vu ni bula vei au na Yacamuni, O i Kemuni na noqu Kalou, ka u sa vakabulai e 
 
 (Source category: NA VEIVAKABULAI)
 (Bahaiprayers.net ID: 6972)
+
+
 
 
 
@@ -564,6 +682,8 @@ O ni sa kaukauwa Mo ni vakayacora na veika sa Lomamuni. Sa i Kemuni, dina ga, na
 (Bahaiprayers.net ID: 6973)
 
 
+
+
 ### <a id="bpn6974"></a> Prayer bpn6974 in Fiji
 Me sa vakalevulevui na Yacamuni, O i Kemuni na Turaga na noqu Kalou! Sa i Kemuni o Koya ka ra sa masuta na veika kece ga, ka O ni sa sega ni masuta e dua, O ni sa nodra Turaga na veika kece ga, ka O ni sa sega ni vakararavi vua e dua, o Koya sa kila na veika kece ga ka sega e dua sa kilai Koya. Sa Nomuni gagadre Mo ni kilai vei ira na tamata; sa i koya gona, O ni sa vakayacora kina, e na duabulu ga na vosa mai na Gusumuni, ka sa yaco kina me bula na tamata ka vakaiukuukutaki kina na vuravura. Sa sega tale ni dua na Kalou sa i Kemuni ga, na Daunilewa, na Dauniveibuli,na Cecekia, na kaukauwa Duabau.
 
@@ -573,6 +693,8 @@ Sa i Kemuni ga na Kalou ni qaqa, ni lagilagi kei na sautu. Sa sega tale ni dua n
 
 (Source category: NA VEIVAKACAUCAUTAKI KEI NA VAKAVINAVINAKA)
 (Bahaiprayers.net ID: 6974)
+
+
 
 
 
@@ -587,6 +709,8 @@ O i Kemuni ga na Yalololoma, na Dauveivosoti. O i Kemuni na Kalou e Levu na Nomu
 
 (Source category: NA VEIVAKADEITAKI E NA VEIYALAYALATI)
 (Bahaiprayers.net ID: 6975)
+
+
 
 
 
@@ -605,6 +729,8 @@ Sa i Kemuni, dina ga, na Kalou ni qaqa kei na kaukauwa, o Koya sa dau sotava ka 
 (Bahaiprayers.net ID: 6978)
 
 
+
+
 ### <a id="bpn6977"></a> Prayer bpn6977 in Fiji
 *O koya vakayadua e lakova na veikoro lelevu, veikoro lalai kei na veiyasana e na Matanitu oqo ka vakaitavi e na kena cakacakataki me curu maliwa na i tukutuku lagilagi ni Kalou, e dodonu me vakamuria na gaunisala ni veimasulaki oqo e na veimataka:
 
@@ -614,6 +740,8 @@ O i Kemuni sa kaukauwa duadua ga ka Vu ni veika kece ga O ni sa virikotora.
 
 (Source category: NA VEIVAKATAVULICI)
 (Bahaiprayers.net ID: 6977)
+
+
 
 
 ### <a id="bpn6979"></a> Prayer bpn6979 in Fiji
@@ -628,6 +756,8 @@ E dina sara, ni sa i Kemuni ga na kaukauwa, na iGu Cecekia Duadua ka Uasivi Duad
 
 
 
+
+
 ## NA VEIVAKATOVOLEI
 
 ### <a id="bpn6976"></a> Prayer bpn6976 in Fiji
@@ -635,6 +765,8 @@ O i Kemuni o Koya na Nona veivakatovolei e dau wai ni veivakabulai vei ira era s
 
 (Source category: NA VEIVAKATOVOLEI)
 (Bahaiprayers.net ID: 6976)
+
+
 
 
 
@@ -654,6 +786,8 @@ O i Kemuni dina ga na Vu ni Sautu, na Dauloloma.
 
 
 
+
+
 ## NA VEIVUKEI
 
 ### <a id="bpn6981"></a> Prayer bpn6981 in Fiji
@@ -668,6 +802,8 @@ Mo ni solia mai vei keimami na keimami madrai e na veisiga, ka Mo ni tosoya cake
 
 
 
+
+
 ## NA VEIVUKEI KEI NA VEIVAKATOVOLEI
 
 ### <a id="bpn6982"></a> Prayer bpn6982 in Fiji
@@ -677,11 +813,15 @@ O cei li na Dauveivakacegui e na gauna ni leqa me tautauvata kei na Kalou? Mo ka
 (Bahaiprayers.net ID: 6982)
 
 
+
+
 ### <a id="bpn6983"></a> Prayer bpn6983 in Fiji
 Mo kaya tiko ga: Sa uasivi duadua na Kalou e na veika kece ga, ka sa sega tale ni dua na ka e lomalagi e cake se e na vuravura e ra me uasivi cake ia na Kalou duadua ga. Sa dina ga, sa i Koya vakataki Koya na Kilaka, na Dauveivakacegui, na kaukauwa duadua ga.
 
 (Source category: NA VEIVUKEI KEI NA VEIVAKATOVOLEI)
 (Bahaiprayers.net ID: 6983)
+
+
 
 
 ### <a id="bpn6984"></a> Prayer bpn6984 in Fiji
@@ -712,6 +852,8 @@ Sa i Kemuni, e na dina taucoko, sa Dauloloma, na Lagilagi, na iGu Cecekia, na ka
 
 
 
+
+
 ## NA YALAYALA
 
 ### <a id="bpn6968"></a> Prayer bpn6968 in Fiji
@@ -723,6 +865,8 @@ Mo ni sa vakalagilagi O i Kemuni, I noqu Kalou! E dina, ni oqo na Nomuni turaga 
 
 (Source category: NA YALAYALA)
 (Bahaiprayers.net ID: 6968)
+
+
 
 
 ### <a id="bpn6969"></a> Prayer bpn6969 in Fiji
@@ -738,6 +882,8 @@ O i Kemuni na Turaga yalo vinaka! Ni vakalougatataka na vakamau oqo me vure mai 
 
 (Source category: NA YALAYALA)
 (Bahaiprayers.net ID: 6969)
+
+
 
 
 
@@ -763,6 +909,8 @@ Sa i Kemuni, e dina, na Vu ni Kilaka, na Vu ni Vuku.
 
 
 
+
+
 ## YAKAVI
 
 ### <a id="bpn6985"></a> Prayer bpn6985 in Fiji
@@ -774,6 +922,9 @@ E na vuku ni Nomuni igu! Au sega ni rawa ni kerea e na gauna ni noqu moce se gau
 
 (Source category: YAKAVI)
 (Bahaiprayers.net ID: 6985)
+
+
+
 
 
 

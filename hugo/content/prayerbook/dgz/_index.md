@@ -3,6 +3,36 @@ title = "Daga"
 tags = ['lang=dgz', 'prayerbook']
 +++
 
+
+
+[Ayop Was Taragasepen U’uraewa (Praise)](#Ayop Was Taragasepen U’uraewa (Praise))
+
+[Baigan U’uraewa (Unity)](#Baigan U’uraewa (Unity))
+
+[Bop U’uraewa (Burial)](#Bop U’uraewa (Burial))
+
+[Daiyo Manimani U’uraewa (Travel)](#Daiyo Manimani U’uraewa (Travel))
+
+[Ewat Virip Tapen U’uraewa (The Fast)](#Ewat Virip Tapen U’uraewa (The Fast))
+
+[Koewa Toborapen U’uraewa (Assistance)](#Koewa Toborapen U’uraewa (Assistance))
+
+[Marek Iyanupe U’uraewa (Short Obligatory Prayer)](#Marek Iyanupe U’uraewa (Short Obligatory Prayer))
+
+[Nainit (Wedding Vow)](#Nainit (Wedding Vow))
+
+[Nainit U’uraewa  (Marriage)](#Nainit U’uraewa  (Marriage))
+
+[Orup Otua U'ura Mugawa  (Children)](#Orup Otua U'ura Mugawa  (Children))
+
+[Vek Waeto U’uraaea (Healing)](#Vek Waeto U’uraaea (Healing))
+
+[Wadidi I’uraewa (Teaching)](#Wadidi I’uraewa (Teaching))
+
+[Wat Aimagam U’uraewa (Blessed Is the Spot)](#Wat Aimagam U’uraewa (Blessed Is the Spot))
+
+
+
 ## Ayop Was Taragasepen U’uraewa (Praise)
 
 ### <a id="bpn13006"></a> Prayer bpn13006 in Daga
@@ -13,6 +43,8 @@ Wat aimagam irani Maman Ge inagap.  Iwa Ge dun ganat, koa mentarin, Ge yaibobot 
 
 
 
+
+
 ## Baigan U’uraewa (Unity)
 
 ### <a id="bpn12997"></a> Prayer bpn12997 in Daga
@@ -20,6 +52,8 @@ Maman!  Maman! Nao gega taine nagire tobot ta amba Ge nao Gega kanamawa pauwa me
 
 (Source category: Baigan U’uraewa (Unity))
 (Bahaiprayers.net ID: 12997)
+
+
 
 
 
@@ -61,11 +95,15 @@ Nu uruga ipiri Kwataem momon Maman inap taiyanit. (19)
 (Bahaiprayers.net ID: 13002)
 
 
+
+
 ### <a id="bpn13003"></a> Prayer bpn13003 in Daga
 Maman!  Ge koewa imuwarat apanewa.  Puraput nunianawa.  Wat tondak apanewa.  Ipiri ne sitatao genan waiangin, Ge me bigip mega bigi wat, me esuwa piup ma mega gase bare Ge piup gega dotauven.  Ayop negawa!  Mu bigimu wat, kayawan mega ise wat mut, amba sisip to entane ganat tauvep.  Dimat mum, mu Ge aton gega gam tauvep kaum gega irena gapan ugumu bigi wat, amba mu sururugaet entodage Ge bonam gega dotauvep.
 
 (Source category: Bop U’uraewa (Burial))
 (Bahaiprayers.net ID: 13003)
+
+
 
 
 
@@ -76,6 +114,8 @@ Ne mumaget ao yon waingen Ge aeamat gega gapan.  Mamanawa!  Amba at pa nega aeve
 
 (Source category: Daiyo Manimani U’uraewa (Travel))
 (Bahaiprayers.net ID: 13007)
+
+
 
 
 
@@ -90,6 +130,8 @@ Wat taragat irani kwiman Ayop ge inagap.  Ne ao bariangin Ge inagap aroe gan sis
 (Bahaiprayers.net ID: 13004)
 
 
+
+
 ### <a id="bpn13005"></a> Prayer bpn13005 in Daga
 *Ewat virip tapen siragam `Alá (Aigap) wam derewa (2) gapan aepi wam apane daiton (20) gapan uon tata.  Yaumak ap gapan ewat go kaum da marek eya dotauvepi gapan nata aepi wam geyarepi pauwa.  Yaumak ma guwanu aro wanapen, ao wasupen wamewa.  Orup en muga (15) gauwarap virip eya tain, waen bagurenawa, orup am nainiwa vek denawa, amba waenapan tanewa den.
 
@@ -100,6 +142,8 @@ Ne esuna ewat mega virip taiyangin taba ge kaum den virip taiyangin.  Ap menan b
 
 
 
+
+
 ## Koewa Toborapen U’uraewa (Assistance)
 
 ### <a id="bpn12996"></a> Prayer bpn12996 in Daga
@@ -107,6 +151,8 @@ Endi koewa toborapen apane Maman?  Wata ge:  Maman wat taragasepen.  Me Maman di
 
 (Source category: Koewa Toborapen U’uraewa (Assistance))
 (Bahaiprayers.net ID: 12996)
+
+
 
 
 
@@ -134,6 +180,8 @@ Ne ipiri wakakayatsiagin endi mari, ne aroyan uon amba Ge amun gega gapan. Ne vi
 
 
 
+
+
 ## Nainit (Wedding Vow)
 
 ### <a id="bpn13085"></a> Prayer bpn13085 in Daga
@@ -143,6 +191,8 @@ Nop ma nainit wamewa gapan waen ge apan mu dere, waenapan dere den wagup namumup
 
 (Source category: Nainit (Wedding Vow))
 (Bahaiprayers.net ID: 13085)
+
+
 
 
 
@@ -160,6 +210,8 @@ Wat Ganatam Iragi, Maman!  Ipiri ma ge nao gega apanewa amba Ge nao gega waenewa
 
 
 
+
+
 ## Orup Otua U'ura Mugawa  (Children)
 
 ### <a id="bpn13000"></a> Prayer bpn13000 in Daga
@@ -169,6 +221,8 @@ Maman!  Tamanam nimanek, kwayup tanek, dun mine wat ganatam nimanek amba buwanae
 (Bahaiprayers.net ID: 13000)
 
 
+
+
 ### <a id="bpn13084"></a> Prayer bpn13084 in Daga
 Maman!  Otasin gega ma asik mun, mu irani Ge naewa gegawa. guwa, Ge dinip rarema ere bobon ge nao gega potap yanine mine.  Ge gese upuru gega aigamup wat ganatamep, moe ginayam den.  Ge irot gwarot gega aimagewa ugumu nauvisigan, den negin tamanawa gapan tauvep.  Mu kakaevet yane darat wap, amba wae uwon yane dorep.  Ge nuniana apanewa.  Ge aigap iragena apanewa.
 
@@ -176,11 +230,15 @@ Maman!  Otasin gega ma asik mun, mu irani Ge naewa gegawa. guwa, Ge dinip rarema
 (Bahaiprayers.net ID: 13084)
 
 
+
+
 ### <a id="bpn13001"></a> Prayer bpn13001 in Daga
 Ayop negawa!  Ayop negawa!.  Ne orup osu bodu nega arita uon.  Ne ge am gega kakaewa gan wasunek, bagusisi den, negin tamanawa gapan tamanam nimanek, baigan den.  Asik ge negin kakaewa nen, Ge imuga ganase irenawa me gogon mega gauwarap, sisip arige gapan ma wat tananek, tanege ne merao me yagwan mine ganasin wap.  Bagusisi ra inanap eya tauvep.  Tanege ne rarema suwa aimage ra nao gega potap yanini mine tap.
 
 (Source category: Orup Otua U'ura Mugawa  (Children))
 (Bahaiprayers.net ID: 13001)
+
+
 
 
 
@@ -194,6 +252,8 @@ Ge yauga ne dom gigit negawa, Maman! amba genan anuinawa ap ne inak neniwan.  Ma
 
 
 
+
+
 ## Wadidi I’uraewa (Teaching)
 
 ### <a id="bpn13008"></a> Prayer bpn13008 in Daga
@@ -204,6 +264,8 @@ Maman! Ge om gega da uon!  Ge Ayop wande iram!  Iyan ma Ge kwiman ita dun gegawa
 
 
 
+
+
 ## Wat Aimagam U’uraewa (Blessed Is the Spot)
 
 ### <a id="bpn12994"></a> Prayer bpn12994 in Daga
@@ -211,6 +273,9 @@ Wat aimagam uruga at outu koewa, at pa, amba pa sewa, amba at bumaggewa, amba su
 
 (Source category: Wat Aimagam U’uraewa (Blessed Is the Spot))
 (Bahaiprayers.net ID: 12994)
+
+
+
 
 
 

@@ -3,6 +3,88 @@ title = "Kalaallisut"
 tags = ['lang=kl', 'prayerbook']
 +++
 
+
+
+[Aalajaassuseq](#Aalajaassuseq)
+
+[Ahmad-imut Allakkat](#Ahmad-imut Allakkat)
+
+[Ajornartorsiutit misiligaanerillu](#Ajornartorsiutit misiligaanerillu)
+
+[Ajorunnaarnissamut](#Ajorunnaarnissamut)
+
+[Anersaakkut Isumasioqatigiiffiik](#Anersaakkut Isumasioqatigiiffiik)
+
+[Anersaakkut ineriartorneq](#Anersaakkut ineriartorneq)
+
+[Angerusermi Aalajaatsuuneq](#Angerusermi Aalajaatsuuneq)
+
+[Aningaasaateqarfik](#Aningaasaateqarfik)
+
+[Ataasiussuseq](#Ataasiussuseq)
+
+[Ataatsimiinnerit](#Ataatsimiinnerit)
+
+[Avissaarsimanerup Innera](#Avissaarsimanerup Innera)
+
+[Canadami Kalaallillu Nunaanni Bahá'í-nut](#Canadami Kalaallillu Nunaanni Bahá'í-nut)
+
+[Iisinnginniarneq](#Iisinnginniarneq)
+
+[Ikioqquneq Tapersersoqqunerlu](#Ikioqquneq Tapersersoqqunerlu)
+
+[Ilaqutariit – Anaanat](#Ilaqutariit – Anaanat)
+
+[Ilaqutariit – Angajoqqaat](#Ilaqutariit – Angajoqqaat)
+
+[Ilaqutariit – Uiit](#Ilaqutariit – Uiit)
+
+[Ilinniartitsineq](#Ilinniartitsineq)
+
+[Ilinniartitsinissamut Qinnutit Pilersaarutip Guuterpaluttup Allagaanit](#Ilinniartitsinissamut Qinnutit Pilersaarutip Guuterpaluttup Allagaanit)
+
+[Inuiassuit](#Inuiassuit)
+
+[Isumakkeerfiginninneq](#Isumakkeerfiginninneq)
+
+[Katerisimaarnerit](#Katerisimaarnerit)
+
+[Katinneq](#Katinneq)
+
+[Kiffaanngissuseq](#Kiffaanngissuseq)
+
+[Meeqqat inuusuttullu](#Meeqqat inuusuttullu)
+
+[Najuuttumut Allakkat](#Najuuttumut Allakkat)
+
+[Pinngitsoorani Qinnutissaq Naatsoq](#Pinngitsoorani Qinnutissaq Naatsoq)
+
+[Pinngitsoorani Qinnutissaq Takineq](#Pinngitsoorani Qinnutissaq Takineq)
+
+[Pinngitsoorani Qinnutissaq Takkajaaq](#Pinngitsoorani Qinnutissaq Takkajaaq)
+
+[Sernissortinneq](#Sernissortinneq)
+
+[Toqusimasunut](#Toqusimasunut)
+
+[Ukiortaaq](#Ukiortaaq)
+
+[Ullaakkut](#Ullaakkut)
+
+[Ullut Tapiliussat](#Ullut Tapiliussat)
+
+[Umiartortoq Illernartoq](#Umiartortoq Illernartoq)
+
+[Unnersiutiginninneq qujamasunnerlu](#Unnersiutiginninneq qujamasunnerlu)
+
+[Unnuap Qeqqa](#Unnuap Qeqqa)
+
+[Unnukkut](#Unnukkut)
+
+[Upperisap Ajugaanera](#Upperisap Ajugaanera)
+
+
+
 ## Aalajaassuseq
 
 ### <a id="bpn7020"></a> Prayer bpn7020 in Kalaallisut
@@ -18,11 +100,15 @@ Qinnuigaakkit, Illit-aa pinngortitap suulluunniit Naalagaa, ersitsup ersinngitsu
 (Bahaiprayers.net ID: 7020)
 
 
+
+
 ### <a id="bpn7021"></a> Prayer bpn7021 in Kalaallisut
 Naalagara, Guutiga! Asasatit ikiukkit Illit Upperisanni qularunnaartillugit, Siunertarisannilu aalajaatsunngortillugit. Saammaassinermik tunikkit piumatussutsip imminerullu saassussineranik akiuisinnaaqqullugit, Siulersuinerullu Illernangaartup qaamanera malissinnaallugu. Illit tassaavutit pissaanilik, Saammaassisoq, Imminut napatittoq, Tunisisoq, Tukkusooq, Ajugaqanngitsoq, Sukkulluunniit tunisiuartoq.
 
 (Source category: Aalajaassuseq)
 (Bahaiprayers.net ID: 7021)
+
+
 
 
 
@@ -66,6 +152,8 @@ Ilumut, Taanna Naakkinnittuuvoq, Misiginneqataasoq. Guuti naalannarsili, silarsu
 
 
 
+
+
 ## Ajornartorsiutit misiligaanerillu
 
 ### <a id="bpn7022"></a> Prayer bpn7022 in Kalaallisut
@@ -75,11 +163,15 @@ Allanik Guutiunngitsumik ajornartorsiutinut ajugaasinnaasoqarnerluni? Oqarit: Gu
 (Bahaiprayers.net ID: 7022)
 
 
+
+
 ### <a id="bpn7023"></a> Prayer bpn7023 in Kalaallisut
 Oqarit: Guuti tamanut naammattuuvoq tamanit, qilanni tamanit nunamiluunniit tamanit Guuti kisimi naammattuuvoq. Ilumut Nammineq Immini tassaavoq Ilisimasoq, Atatitsisoq, Ajugaqanngitsoq.
 
 (Source category: Ajornartorsiutit misiligaanerillu)
 (Bahaiprayers.net ID: 7023)
+
+
 
 
 ### <a id="bpn7024"></a> Prayer bpn7024 in Kalaallisut
@@ -89,11 +181,15 @@ Pissaanerit pillugu qinnuigaakkit Guutiga-aa! Misilinneqarfiit nalaanni ajoquseq
 (Bahaiprayers.net ID: 7024)
 
 
+
+
 ### <a id="bpn7025"></a> Prayer bpn7025 in Kalaallisut
 Naalagaq-aa! Tassaavutit anniaatinik tamanik Qimagutsitsisoq naalliuutinillu Peersitsisartoq. Tassaavutit Taanna aliasunnernik tamanik piujunnaarsitsisoq, naalliutsitaasunillu aniguisitsisoq, tarnit tamarmik Annaassisuat. Naalagaq! Naakkinninnerit aqqutigalugu aniguisitsinermik tunniussigit. Kiffavillu annassimanermik angusaqarsimasut akornannut naatsorsuutinnga.
 
 (Source category: Ajornartorsiutit misiligaanerillu)
 (Bahaiprayers.net ID: 7025)
+
+
 
 
 ### <a id="bpn7026"></a> Prayer bpn7026 in Kalaallisut
@@ -105,12 +201,16 @@ Killeqanngitsumik Naalannarsingaarit, Illit-aa qilaat nunallu Naalagaa, inuit ta
 (Bahaiprayers.net ID: 7026)
 
 
+
+
 ### <a id="bpn7040"></a> Prayer bpn7040 in Kalaallisut
 Tassaavoq Misiginneqataasoq, Tukkusooq. Guuti-aa, Guutiga! Isigaarma nalunngilarma; Tassaavutit Qimarnguffigisara Annertoqqutiga. Allamik Illiunngitsumik qinigaqanngilanga, allamillu qinigaqarniarnanga, aqqutiginngisannik allamik tummagaqarsimanngilanga, aqqummillu allamik tummagaqassananga Asanninnerpit aqqutaanngitsumik. Ernumatsannerup unnuaani taaqisumi ilimasulluarlunga neriulluarlungalu Saammaassinerpit naassaanngitsup qaaneranut saappunga, qaalernermilu Kusanassuserpit Naammalluinnassuserpillu eqqaamanninneranik tarniga nakangasoq inuummarissisinneqarpoq nakussatsinneqarlunilu. Kinaluunniit Naakkinnissuserpit saammaanneranik ikiorneqartoq, kuserninnguugaluaruniluunniit imavissuartut killeqanngitsutut ilissavoq, qiviunnguugaluaruniluunniit Asanninnerpit kuugaarneranit ikiorneqartoq qaammassavoq, allaat ullorissatut qaammarissutut qaamatigilerluni. 
 Kiffat una nammineersinnaanngissutsit qilarsugaat, kajumissuseqalersimasoq, Illersuinerpit ataanut pisiguk, Illit minguissutsip anersaava, Illit tassaasoq tukkusumik kikkunnik tamanik Isumaginnittoq. Silarsuarmi maani tapersersoruk Ilinnut asanninnermini mattusuunngoqqullugu aalajaatsunngoqqullugulu, Isumagigiuttaaq una timmiaq isarorsimasoq Ullunni naleqanngitsuusumi naalagaaffiinniittumi oqquiffissarseqqullugu qimaaffissarseqqullugulu.
 
 (Source category: Ajornartorsiutit misiligaanerillu)
 (Bahaiprayers.net ID: 7040)
+
+
 
 
 ### <a id="bpn7041"></a> Prayer bpn7041 in Kalaallisut
@@ -130,6 +230,8 @@ Ilumut tassaavutit Saammaassisoq, Iluartoq, Pissarsuaq Ajugaqanngitsoq.
 
 
 
+
+
 ## Ajorunnaarnissamut
 
 ### <a id="bpn7019"></a> Prayer bpn7019 in Kalaallisut
@@ -137,6 +239,8 @@ Aqqit katsorsaatigaara Guutiga-aa, Ilinnik eqqaamanninneq uannut katsorsaataavoq
 
 (Source category: Ajorunnaarnissamut)
 (Bahaiprayers.net ID: 7019)
+
+
 
 
 ### <a id="bpn8372"></a> Prayer bpn8372 in Kalaallisut
@@ -241,6 +345,8 @@ Illit ilumoortumik tassaavutit Pissaaneqarluartoq, taanna Tamanik-Naammassinnitt
 
 
 
+
+
 ## Anersaakkut Isumasioqatigiiffiik
 
 ### <a id="bpn12570"></a> Prayer bpn12570 in Kalaallisut
@@ -251,6 +357,8 @@ Guuti-aa, Guutiga! Tassaavugut kiffatit Kiinnannut Illernartumut tunniusimalluti
 
 (Source category: Anersaakkut Isumasioqatigiiffiik)
 (Bahaiprayers.net ID: 12570)
+
+
 
 
 ### <a id="bpn12571"></a> Prayer bpn12571 in Kalaallisut
@@ -270,6 +378,8 @@ Ilumut, Tunisisuuvutit, Naakkinnittoq. Tukkussutsimik angingaartumik piginnittoq
 
 
 
+
+
 ## Anersaakkut ineriartorneq
 
 ### <a id="bpn7018"></a> Prayer bpn7018 in Kalaallisut
@@ -277,6 +387,8 @@ Naalagara! Kusanassutsit inuussutigilara Qanissutsillu imeruersaatigalugu; Iluar
 
 (Source category: Anersaakkut ineriartorneq)
 (Bahaiprayers.net ID: 7018)
+
+
 
 
 ### <a id="bpn6863"></a> Prayer bpn6863 in Kalaallisut
@@ -291,6 +403,8 @@ Inuunerup nuanniitsortai uninngaffigeqqikkumanngilakka. Guuti-aa, Illimmi uannil
 
 
 
+
+
 ## Angerusermi Aalajaatsuuneq
 
 ### <a id="bpn7017"></a> Prayer bpn7017 in Kalaallisut
@@ -300,6 +414,8 @@ Naalagaq! Makku tassaapput kiffat Illit Angerusernut Kingornussassarisarnullu aa
 
 (Source category: Angerusermi Aalajaatsuuneq)
 (Bahaiprayers.net ID: 7017)
+
+
 
 
 
@@ -317,6 +433,8 @@ aalajangeriikkamik taarsiivigalugit, qularnaatsumillu akilikkit. Ilumoortumik Ta
 
 
 
+
+
 ## Ataasiussuseq
 
 ### <a id="bpn7255"></a> Prayer bpn7255 in Kalaallisut
@@ -324,6 +442,8 @@ Guutiga! Guutiga! Kiffavit uummataat peqatigiilersikkit Anguniakkavillu pissaasu
 
 (Source category: Ataasiussuseq)
 (Bahaiprayers.net ID: 7255)
+
+
 
 
 ### <a id="bpn7256"></a> Prayer bpn7256 in Kalaallisut
@@ -340,6 +460,8 @@ Ilumut, tassaavutit Ajugaqanngitsoq, Imminut napatittoq, Tunisisoq, Isumakkeerfi
 
 
 
+
+
 ## Ataatsimiinnerit
 
 ### <a id="bpn12579"></a> Prayer bpn12579 in Kalaallisut
@@ -349,6 +471,8 @@ Torlorfigaakkit Illit namminiussutsikkut Tassuunalu Illit qanoq ittuuninnik Saqq
 
 (Source category: Ataatsimiinnerit)
 (Bahaiprayers.net ID: 12579)
+
+
 
 
 ### <a id="bpn12572"></a> Prayer bpn12572 in Kalaallisut
@@ -362,6 +486,8 @@ Guuti-aa! Isumassuininnik pilluaqqutigut. Illit tassaavutit Pissaaneqarluartoq. 
 (Bahaiprayers.net ID: 12572)
 
 
+
+
 ### <a id="bpn12573"></a> Prayer bpn12573 in Kalaallisut
 Illit-aa Naalagaq ajunngitsoq! Uku tassa kiffatit, ataatsimiinnermut matumunnga katersuuttut, Illit naalagaaffinnut saassimasut Illillu tunissutinnut pilluaqqussutinnullu pisariaqartitsipput. Illit-aa Guutiusutit! Ataasiussutsit inuunerup piviussusiini tamani allassimasoq saqqummersiguk nalunaaqqutitillu qulaarlugit. Piginnaassutsit inuttut inuunerup piviussusiini ittut pisinnaalersillugillu toqqorsimasatit qulaajakkit nittarterlugillu. 
 
@@ -373,11 +499,15 @@ Pissaneqaqaatit! Nakooqaatit. Illit tassa Tunisisoq, Soraajuitsumillu Tukkortuuv
 (Bahaiprayers.net ID: 12573)
 
 
+
+
 ### <a id="bpn12574"></a> Prayer bpn12574 in Kalaallisut
 Guutiga-aa! Guutiga-aa! Ilumut uku kiffatit Ilinnut saapput nallittuinerpillu naalagaffia torlorfigalugu. Ilumoortumik Illit illernassutsinnut kajungerput Illillu asanninnerpit inneranik ikissimallutik, ujartorpaallu naalagaaffippit tupinnartup uppernarsaatissaa neriuutigalugu Illit naalagaaffinnut qilammiittumut ilanngutitaanissartik. Ilumoortumik qilanaaraat Tunissutivit ammukarnissaat, kissaatigaallu Piviussutsip Seqernata qaammarsassagaatik. Naalagaq-aa! Tassaalersikkit qaammaqqutit qaammarissut, nalunaaqqutit nallittuisut, orpiit inerittoqarluartartut ullorissallu uisorilalluartut. Qanortoq Ilinnut kiffartornerminni siumukarluarlik, Ilinnullu atalerlik asanninnerpit peqatigiiffippillu qilerutaasigut qaammaqqutit, Illit iluarinninninnut qilanaaruteqartut. Naalagaq-aa! Siulersuinermut nalunaaqqutaalersikkit, Illit naalagaafflnnut nungujuitsumut assissanngortikkit, nallittuissutsivit imaani malinngortikkit, kunngisut pissaaneqarnerpit qaamaneranut tarrarsuutinngortikkit. Ilumoortumik Illit tassaavutit Tukkortoq. Ilumoortumik Illit tassaavutit Nallittuisoq, ilumoortumik Illit tassaavutit Erlinnartoq taanna Asasaq.
 
 (Source category: Ataatsimiinnerit)
 (Bahaiprayers.net ID: 12574)
+
+
 
 
 
@@ -492,6 +622,8 @@ Kiffat tamarmik manna atuassagaluarpassuk eqqarsaatigilluarlugulu, taava taqaann
 
 
 
+
+
 ## Canadami Kalaallillu Nunaanni Bahá'í-nut
 
 ### <a id="bpn12867"></a> Prayer bpn12867 in Kalaallisut
@@ -510,6 +642,8 @@ Ilumut Illit tassaavutit Pissaaneqartoq, Pissaasoq Ajugaqanngitsorlu.
 (Bahaiprayers.net ID: 12867)
 
 
+
+
 ### <a id="bpn6864"></a> Prayer bpn6864 in Kalaallisut
 #Ilinniartitsinissamut qinnutit Pilersaarutip Guuterpaluttup Allagaanit
 ##Canadami Kalaallillu Nunaanni Bahá'í-nut
@@ -523,6 +657,8 @@ Ilumoortumik Illit Ajugaqanngitsuuvutit, Tamanit Nersornarnerusoq, Soraajuitsumi
 
 (Source category: Canadami Kalaallillu Nunaanni Bahá'í-nut)
 (Bahaiprayers.net ID: 6864)
+
+
 
 
 
@@ -563,6 +699,8 @@ Qinnuigaakkit Illit, Naalagara-aa, Ilikkut namminikkut Illillu nalunaaqqutikkut 
 (Bahaiprayers.net ID: 9979)
 
 
+
+
 ### <a id="bpn9981"></a> Prayer bpn9981 in Kalaallisut
 Ataqqinartitaagit Illit, Naalagaq Guutiga-aa! Makku tassaapput ullut Illit inunnut tamanut iisinnginniarfissatut peqqusatit, taamaaliornermikkut tarnitik eqqiarniassammatigik, atassuteqarnernullu sunulluunniit Illiunngitsunut qilerussaarniassammata, aammalu taakkua uummataannit pilerniassammat Illit ataqqinassutsivit inaanm naleqquttoq aammalu Illit saqqummernerpit ataasiussusiata issiavianut iluarinartoq. Tunniuguk, Naalagara-aa iisinnginniarnerup matuma imermik inuunartumik kuulluarnissaa, aammalu ileqqorissaarutit Illit taassuminnga pisuunngortitsinensavit saqqummersinnissaat.Taassuma ikiuutissaatigut eqqiakkit Illit kiffavit uummataat, taakku silarsuarmi ajortunit Illit Aterpit, tamanit illernarnerpaasup, alarnissaanut akornusigaanngitsoorsimasut, aammalu Illit nalunaaqqutinnik ajasoornarnerpaanik, Illit saqqummernerpit takkunneranik malittaasunik Illit Naalagaffmnik, Pissaaninnik, Ataqqinassutsinnik Illernassutsinnillu peqatiginnilersissimasannik, uppensaqanngitsut nipiliornersuinit eqqissiviinnerinillu sunnigaanngitsoorsimasut. Makku tassa kiffatit, Illit qaaqqusinerit tusarniariarlugu Illit nallittuissutsinnut tuaviinnaq aggersut aammalu silarsuup matuma allanngornerinik nalaatsornerinillu imaluunniit inuit killilersuutigisaannit unitsitaasimanngitsut.
 
@@ -594,6 +732,8 @@ Pissaaneqarputit Illit iluarisat malillugu iliuuseqarsinnaanissamut. Allamik Guu
 (Bahaiprayers.net ID: 9981)
 
 
+
+
 ### <a id="bpn9980"></a> Prayer bpn9980 in Kalaallisut
 Ullut makku, Guutiga-aa, tassaapput Illit kiffannut peqqusinikkut iisinnginniarnermik maleruaaffigeqqusatit. Taakku aqqutigalugit Illit Inatsisivit Atuagaata aallaqqaasernera pinnersarpat, Illit pinngortitannut saqqummersillugu, aammalu Illit Peqqusavit Erlinnartuusivii qulaarpatit kikkunnut tamanut Illit qilanniittunut tamanullu Illit nunanniittunut. Ulluni taakkunani nalunaaquttap akunneri tamaasa piginnaassutsinik immikkut ittunik pilersorsimavatit, tamanit paasissaanngitsunit taamaallaat Ilinnit, ilisimassutsivimmi suut tamaasa imarimmagit. Aammattaaq tarningit tamaasa nukiup taassuma ilaanik tuniorarsimavatit Illit Inatsisitit pillugit Allakkat aqqutigalugu aammalu Eqqartuussinerpit tunuartinneqarsinnaanngitsup Allagaatai tunaartaralugit. Atuakkat Allakkallu taakku qupperneri tamaasa Illit nunarsuarmi inuiannut kinguaariinnullu pigititassanngortissimavatit.
 
@@ -615,11 +755,15 @@ Siunertat ajugaagajuttunngortiguk, Naalagara-aa, Illillu akeqqatit nikanartikkit
 (Bahaiprayers.net ID: 9980)
 
 
+
+
 ### <a id="bpn9982"></a> Prayer bpn9982 in Kalaallisut
 Guuti-aa! Timip piumasai qimallugit iisinnginniartillunga nerinermik imernermillu sammisaqannginnikkut uummatiga inuuneralu tamanit Illit Asanninnerinngisannit minguiaruk illernartunngortillugulu, tarnigattaaq kissaatinit namminissarsiortunit nersuterpalussutsiniillu illersorlugulu ataavaqqujuk. Taamaalilluni anersaaq Illernassutsip tipigissusaannik peqateqarniassamat, allanit tamanit Ilinnik eqqartuinerunngitsumik pinaveersaaqqullugu.
 
 (Source category: Iisinnginniarneq)
 (Bahaiprayers.net ID: 9982)
+
+
 
 
 
@@ -630,6 +774,8 @@ Guutiga, Qinnuiga, Naalagara, Maqaasisara! Oqqap suup Ilinnut qujaniarnera oqaat
 
 (Source category: Ikioqquneq Tapersersoqqunerlu)
 (Bahaiprayers.net ID: 7257)
+
+
 
 
 
@@ -644,6 +790,8 @@ Naalagara-aa! Ilinnut pigisassanngortippara maanna uppatinniittoq. Qanortoq tass
 
 
 
+
+
 ## Ilaqutariit – Angajoqqaat
 
 ### <a id="bpn7259"></a> Prayer bpn7259 in Kalaallisut
@@ -654,12 +802,16 @@ Guutiga-aa! Angerlarsimaffinnut inoqutigiit Upperisannik akuersaarsimasinnut Tuk
 (Bahaiprayers.net ID: 7259)
 
 
+
+
 ### <a id="bpn7260"></a> Prayer bpn7260 in Kalaallisut
 Naalagaq-aa! Uani upperisami ataqatigiissami anginersaasumi meeqqat angajoqqaaminnut qinnussinerat akueraat. Tamanna tassaavoq Siunertap nalissaqanngitsup massuma tunissuterpassuisa immikkut ittut ilaat. Taamaammat, Illit Naalagaq Ajunngitsoq, qinnut manna kiffanniit Asseqanngissutsivit isaariaani akueriuk. Angutaa Saammaassinerpit imaanut aqqartiguk, erneq una Illit kiffartorniarlutit nikuissimammat, qanoq ilisukkulluunniit asanninnerpit aqqusinnersimanerani ilungersorluni.
 Ilumut Tunisisuuvutit, Isumakkeerisoq Asannittorlu.
 
 (Source category: Ilaqutariit – Angajoqqaat)
 (Bahaiprayers.net ID: 7260)
+
+
 
 
 
@@ -676,6 +828,8 @@ Ilumut, Illit tassaavutit Erlinnartoq, Tamanik Tunisiuartoq, Assaa Isuissimasoq.
 
 
 
+
+
 ## Ilinniartitsineq
 
 ### <a id="bpn7262"></a> Prayer bpn7262 in Kalaallisut
@@ -683,6 +837,8 @@ Guutiga! Qinnuigaakkit atikkut qaammarinnersaasukkut ikioqqullunga kiffavit suli
 
 (Source category: Ilinniartitsineq)
 (Bahaiprayers.net ID: 7262)
+
+
 
 
 ### <a id="bpn7263"></a> Prayer bpn7263 in Kalaallisut
@@ -693,6 +849,8 @@ Ilumut Illit pissaanerup piginnaanerullu Guuteraatit, Tassaasoq qinusumik Akisus
 
 (Source category: Ilinniartitsineq)
 (Bahaiprayers.net ID: 7263)
+
+
 
 
 ### <a id="bpn12580"></a> Prayer bpn12580 in Kalaallisut
@@ -708,6 +866,8 @@ Allamik Guuteqanngilaq taamaallaat Illit, Tamanik Ilisimasalik, Tamanik Ilisimas
 (Bahaiprayers.net ID: 12580)
 
 
+
+
 ### <a id="bpn7264"></a> Prayer bpn7264 in Kalaallisut
 Guutiga-aa, Illit Kiffat Oqaatsip qullartinnissaanut ikioruk, pisuusaarnerup perrortunerullu qanoq ikkaluartulluunniit eqqunngissusiinik uppernarsaasooqqullugu, ilumuussuseq atuutileqqullugu, versit iluartut tamanut tamaanga siammaqqullugit, pinningaassutsit saqqummeqqullugit, naapertuilluartullu uummataanni ullaakkut qaalernerup qaammarissusia seqeqqullugu Ilumummi Illit tukkortuuvutit, Isumakkeerisoq.
 
@@ -715,11 +875,15 @@ Guutiga-aa, Illit Kiffat Oqaatsip qullartinnissaanut ikioruk, pisuusaarnerup per
 (Bahaiprayers.net ID: 7264)
 
 
+
+
 ### <a id="bpn7265"></a> Prayer bpn7265 in Kalaallisut
 Guuti-aa, Guutiga! Kiffatit tatigisatit sallaatsumik asannittumillu uummateqaqqullugit ikiukkit. Tapersikkit nunarsuup nunaani tamani siunnersorneqarnerup qaamaneranik Katersaarsuarniit aallaaveqartunik siammartereqqullugit. Ilumut tassaavutit Nakuusoq, Pissaanilik, Angingaartoq, Tamanut Naalagaasoq. Ilumut tassaavutit Tukkortoq, Sallaatsoq, Saamasoq, Tamanit saammaannerpaaq.
 
 (Source category: Ilinniartitsineq)
 (Bahaiprayers.net ID: 7265)
+
+
 
 
 
@@ -738,6 +902,8 @@ Ilumut sanngiitsut ikiortigaatsit, minnerusunillu Illersortaallutit, ilumullu ta
 (Bahaiprayers.net ID: 9115)
 
 
+
+
 ### <a id="bpn9116"></a> Prayer bpn9116 in Kalaallisut
 *Kialuunniit sumulluunniit ilinniartitsiartorluni angalasup, qaqqakkoortup, inoqajuitsukkoortup, nunakkoortup immakkoortullu qinnut inna atuaqqissaarliuk.
 
@@ -753,6 +919,8 @@ Ilumut, Tassaavutit Sallaatsoq, Pissaanilik, Angisooq, Naakkinnittunit Naakkinni
 
 (Source category: Ilinniartitsinissamut Qinnutit Pilersaarutip Guuterpaluttup Allagaanit)
 (Bahaiprayers.net ID: 9116)
+
+
 
 
 ### <a id="bpn9118"></a> Prayer bpn9118 in Kalaallisut
@@ -774,6 +942,8 @@ Ilumoortumik, Illit tassaavutit Tukkornerpaasoq, Naalagaq saammaalluartoq, aamma
 (Bahaiprayers.net ID: 9118)
 
 
+
+
 ### <a id="bpn9122"></a> Prayer bpn9122 in Kalaallisut
 *Qinnut tulliuttoq ilinniartitsisunit ikinngutinillu ullormut ataasiarluni Atuarneqartassaaq.
 
@@ -787,6 +957,8 @@ Ilumut, Illit tassaavutit Pissaaneqarluartoq, Pissaasoq, Ilisimasoq Takunnittorl
 
 (Source category: Ilinniartitsinissamut Qinnutit Pilersaarutip Guuterpaluttup Allagaanit)
 (Bahaiprayers.net ID: 9122)
+
+
 
 
 ### <a id="bpn9124"></a> Prayer bpn9124 in Kalaallisut
@@ -804,6 +976,8 @@ Naalagaq-aa! Sanngiitsuuvunga, Illit nukittussutsikkut pissaanikkullu nakussatsi
 (Bahaiprayers.net ID: 9124)
 
 
+
+
 ### <a id="bpn9117"></a> Prayer bpn9117 in Kalaallisut
 Illit-aa Guuti asseqanngitsutit! Illit-aa Naalagaaffiup Naalagaa! Tarnit makku tassaapput Sakkutuutit qilammiorpaluttut. Ikiukkit, Katersaarsuillu qutsinnerpaat ataatsimoortitat aqqutigalugit ajugaasinnaanngoqqukkit, taamaalillutik ataasiakkaarlutik amerlasoorsuartut ilerniassammata, nunallu makku Guutip asanninneratigut ilinniutillu guuterpaluttut qaammarsaanerisigut tiguarniassammatigit.
 
@@ -813,6 +987,8 @@ Ilumut, Tassaavutit Pissaanilik, Angisooq tamanit Anginersaasoq, Tassaavutillu I
 
 (Source category: Ilinniartitsinissamut Qinnutit Pilersaarutip Guuterpaluttup Allagaanit)
 (Bahaiprayers.net ID: 9117)
+
+
 
 
 ### <a id="bpn9123"></a> Prayer bpn9123 in Kalaallisut
@@ -835,6 +1011,8 @@ iliorsinnaasoq.
 
 (Source category: Ilinniartitsinissamut Qinnutit Pilersaarutip Guuterpaluttup Allagaanit)
 (Bahaiprayers.net ID: 9123)
+
+
 
 
 
@@ -862,6 +1040,8 @@ Illit angisuuvutit pissaallutillu. Tassaavutit Isumakkeerfiginnittoq, Illillu ta
 
 
 
+
+
 ## Isumakkeerfiginninneq
 
 ### <a id="bpn9960"></a> Prayer bpn9960 in Kalaallisut
@@ -871,11 +1051,15 @@ Guutiga tassaavutit Atikkut napparsimasunik Ajorunnaarsitsisartoq, sanngiitsunik
 (Bahaiprayers.net ID: 9960)
 
 
+
+
 ### <a id="bpn9961"></a> Prayer bpn9961 in Kalaallisut
 Isigaarma, Naalagara-aa, kiinara tukkussutsivit qilaata tungaanut tunissutivillu imaanut saatissimagiga, sunit tamanit avinngarusimallunga, taamaallaat Ilinnit pinnanga. Qinnuigaakkit Seqinikkut Sinaimit Saqqummersitakkut, Saammaassutsivillu Qilammi ulloriaata qinngorneranit uisorilalluartumit Illit atikkut killingusaamit saqqarsimasukkut, Soraajuitsumik Isumakkeerfiginnittoq, ajortunit qimagaatinnga, nallittunngalu. Taamaammat naalannassutsivit allaataanik uannut allaguk manna, Illit Atikkut pinngortitap silarsuaani uannut ataqqinarsisitsisussaq. Ikiunnga, Naalagara-aa, Ilinnut saaqqullunga, nipinillu Illit asasannit pisunit naalaaqqullunga, asasannit taakkunannga nunarsuarmi pissaanernit sanngiillisitaanngitsunit, naalagaaffiillu naalagaanerisa Ilinnik avissaartissinnaanngisaannit, aammalu Ilinnik naapitsiartornerminni oqartunit: ”Guuti tassa uagut Naalagarput, qilammiittunut tamanut, nunarsuarmiittunullu tamanut Naalagaasoq.”
 
 (Source category: Isumakkeerfiginninneq)
 (Bahaiprayers.net ID: 9961)
+
+
 
 
 ### <a id="bpn9962"></a> Prayer bpn9962 in Kalaallisut
@@ -893,6 +1077,8 @@ Unnersiutigisaali Guuti, silarsuit Naalagaat!
 (Bahaiprayers.net ID: 9962)
 
 
+
+
 ### <a id="bpn9963"></a> Prayer bpn9963 in Kalaallisut
 Aqqit unnersiutigisaali, Guutiga-aa suut tamarmik Guutiat, Naalannassutaatiga suut tamarmik Naalannassutaataat, Pilerigisara suut tamarmik Pilerigisaat, Nakuussutiga suut tamarmik Nakuussutaat, Kunngera suut tamarmik Kunngiat, Piginnitsera sunik tamanik Piginnittoq, Anguniagara suut tamarmik Anguniagaat, Aallartitaqaasitsisiga sunik tamanik Aallartitaqaasitsisoq! Nallittuinerpit saamasup imavianit, qinnuigaakkit, nigorsimateqinanga imaluunniit qanissutsivit sineriaanit avinngarusimateqinanga. 
 
@@ -904,11 +1090,15 @@ Taamaattumik, Naalagara-aa, kiffatit angutit arnallu isumakkeerfigikkit. Ilumut 
 (Bahaiprayers.net ID: 9963)
 
 
+
+
 ### <a id="bpn7015"></a> Prayer bpn7015 in Kalaallisut
 Uanga taannaavunga, Naalagara-aa, kiinnaminik Ilinnut saattoq, neriuumminillu Illit saammaassutsinni tupinnartulianut Tukkussutsivillu saqqummernerinut ivertitsisoq. Qinnuigaakkit pakatsisimallunga saammaassutsivit matuata silataanit qimagutseqqunanga imaluunniit pinngortitavit Illit Siunertannik tunutsisimasut akornannut ajattoqqunanga. Tassaavunga, Guutiga-aa, Illit kiffat, Illillu kiffavit ernera. Illit sallusuissutsit Illit nalinni pisoq miserratigisimanngilara, allornikkalu Illit ataasiussutsivit sineriaanut saatissimavakka, Illit immikkut issutsinnut angerpunga, Illit ilivitsuussutsit akuersaarpara neriuutigalugu Illit isumakkeerfiginninnerit ajortinillu isumakkeerinerit. Illit qanorluunniit iliornissamut pissaaneqarputit; allamik Guuteqanngilaq Illit peqartinnak, Naalannarnerpaaq, Soraajuitsumik Isumakkeerfiginnittoq.
 
 (Source category: Isumakkeerfiginninneq)
 (Bahaiprayers.net ID: 7015)
+
+
 
 
 ### <a id="bpn7016"></a> Prayer bpn7016 in Kalaallisut
@@ -920,12 +1110,16 @@ Allamik peqanngilaq, Naalagara-aa, uannut saammaannermik iliorsinnaasumik, kiinn
 (Bahaiprayers.net ID: 7016)
 
 
+
+
 ### <a id="bpn9964"></a> Prayer bpn9964 in Kalaallisut
 Guuti-aa Naalagarput! Saammaannikkut illersortigut tamanut Ilinnut akerliusunut, tunitigullu Ilinnut iluarinartunik. Annerusumik Tukkussutsinnit tunisigut pilluaqqullutalu. Qanoq iliuuserisimasavut pillugit isumakkeerfigitigut ajortivullu uatsinnit eqqiakkit, saammaannikkullu isumakkeerutinik isumakkeerfigitigut. Ilumoortumik, Illit tassaavutit Tamanit Ataqqinarnerpaaq, taanna Imminut-Napatittoq. Asannillutit isumaginnittuussutsivit qilammi nunamilu pinngortitat tamaasa poorpai, Isumakkeerfiginninnerpillu pinngortitaq tamaat qaangerpaa. Naalagaaffik Illit pigaat; Illit assanniipput Pinngortitap Saqqummersitallu naalagaaffii; Illit talerpinni pinngortitat tamaasa tigummivatit, tigummisannilu ippoq isumakkeerfiginninnerup ilaa uuttortagaq tunniussaasoq. Illit isumakkeerfigisarpat kinaluunniit kiffavit akornanniittoq Ilinnik iluarinnittoq. Ilumut, Illit tassaavutit Soraajuitsumik Isumakkeerfiginnittoq, taanna Tamanik-Asannittoq. Sumilluunniit peqanngilaq Illit ilisimassutsinnit pinngitsumik, sumillu peqanngilaq Ilinnut toqqortamik. Guuti-aa Naalagarput! Pissaanerpit nakuussusiagut illersortigut, qanortoq immavit tupinnartumik qaputtup ilanngutillisigut tunitigullu Ilinnut Iluarinartunik. 
 Illit tassaavutit Naalagaq Qullerpaaq, Pinngortitsisorsuaq, taanna Ataqqinarsisitaasoq, taanna Tamanik-Asannittoq.
 
 (Source category: Isumakkeerfiginninneq)
 (Bahaiprayers.net ID: 9964)
+
+
 
 
 ### <a id="bpn9965"></a> Prayer bpn9965 in Kalaallisut
@@ -935,11 +1129,15 @@ Unnersiutigisaagit Illit, Naalagaq-aa. Ajortuliavut isumakkeerfigikkit, nalligit
 (Bahaiprayers.net ID: 9965)
 
 
+
+
 ### <a id="bpn9966"></a> Prayer bpn9966 in Kalaallisut
 Qinnuigaakkit isumakkeerfigeqqullunga, Naalagara-aa, oqalunnermut sumulluunniit taamaallaat Ilinnik oqaluuseqarneq pinnagu, unnersiutiginninnermut sumulluunniit taamaallaat Ilinnik unnersiutiginninneq pinnagu, tipaatsuummut sumulluunniit taamaallaat Illit qaninnerit pillugu tipaatsunneq pinnagu, nuannaarnermut sumulluunniit taamaallaat Ilinnik attaveqarnermik nuannaaruteqarneq pinnagu, pilluarnermut sumulluunniit taamaallaat Illit asanninninnik pilluaateqarneq pinnagu, Illit nuannaarnerit, suullu tamaasa uannut tunngasut Ilinnut attuumassuteqanngitsut pillugit, Illit-aa Naalakkat Naalagaat, taanna atortussanik aggiussisoq matunillu paarnaarsimasunik ammaasoq.
 
 (Source category: Isumakkeerfiginninneq)
 (Bahaiprayers.net ID: 9966)
+
+
 
 
 ### <a id="bpn9967"></a> Prayer bpn9967 in Kalaallisut
@@ -952,6 +1150,8 @@ Illernarsisitaavutit Illit, Naalagaq-aa, Illit kiffatit ajortiminnik isumakkeerf
 (Bahaiprayers.net ID: 9967)
 
 
+
+
 ### <a id="bpn9968"></a> Prayer bpn9968 in Kalaallisut
 Isumakkeerfiginninnissat qinnutigaara, Guutiga-aa, isumakkiigaanerlu qinnutigalugu taamatut kiffavit Ilinnut saaffiginninnissaannik kissaatiginninnerit Malillugu. 
 Qinnuigaakkit naalagaaffiginninnerit naapertorlugu ajortigut errorlugit peeqqullugit, aammalu uanga isumakkeerfigeqqullunga, angajoqqaakka aammattaaq taakku misiliinerni asanninnerpit najugaanut isersimasut angingaassusernut akitsisitaangaarsusernullu naleqqulluartumik, pissaanerpillu qilammiorpaluttup ileqqussaalluarneranut tulluuttumut. 
@@ -962,6 +1162,8 @@ Unnersiutigineqarit naalannarsineqarlutillu: Illit unnersiutigaakkit uannut saqq
 
 (Source category: Isumakkeerfiginninneq)
 (Bahaiprayers.net ID: 9968)
+
+
 
 
 ### <a id="bpn9969"></a> Prayer bpn9969 in Kalaallisut
@@ -977,11 +1179,15 @@ Ilumut Illit isumakkeerfiginnittuuvutit, Nallittuisoq, Illit tassaavutit Tukkuso
 (Bahaiprayers.net ID: 9969)
 
 
+
+
 ### <a id="bpn9970"></a> Prayer bpn9970 in Kalaallisut
 Naalagara, Illit-aa Inuit neriuutaat! Tassaavutit kiffannut makkununnga tamanut Illersuisoq. Isertukkat paasissaanngitsullu Ilisimavatit. Tamatta ajortuliortuuvugut, ajortuliortunullu tassaavutit Illersuisoq. Naakkinnittoq, Sallaatsoq. Naalagara! Amigassutsigut isiginagit. Saammaassinerit tukkussutsillu malillugit pisigut. Amigassutsigut amerlaqaat, kisianni Saammaassinerpit imarsua nateqanngilaq. Taamaammat qularunnaarsillutalu nakussatsitsigut. Ikiortigut Isaariarpit saavani akuerinartunngoqqulluta. Uummatit qaammarsakkit, isit isigisinnaanngortikkit, siutit naalaarsinnaanngoqqukkit, toqungasut uummarsakkit, napparsimasullu uummarissarlugit. Piitsut pisuunngortikkit qimaasullu tatiginnittunngortillugit. Naalagaaffinni tikilluaqqusigut. Inussiarnissutsip qaamarnganik qaammarsartigut. Tassaavutit Isumassuingaartoq! Tassaavutit Sallaatsoq! Tassaavutit Ikinngutinnersoq!
 
 (Source category: Isumakkeerfiginninneq)
 (Bahaiprayers.net ID: 9970)
+
+
 
 
 
@@ -992,6 +1198,8 @@ Pilluaqqunneqarli manna, illu, sumiiffillu, illoqarfillu, uummallu, qaqqarlu, to
 
 (Source category: Katerisimaarnerit)
 (Bahaiprayers.net ID: 9120)
+
+
 
 
 
@@ -1014,6 +1222,8 @@ illernassusialu angeqaaq: ”Aappariileritsi, inuit-aa, ilissinnit saqqummeqqull
 (Bahaiprayers.net ID: 9971)
 
 
+
+
 ### <a id="bpn12575"></a> Prayer bpn12575 in Kalaallisut
 *Kitáb-I-Aqdasimi (Atuakkat Illernarnerpaavanni) maleruaqqusat naapertorlugit katikkumanermik angeqatigiinnerup versitai, katittut immikkoorlutik taasassaat, uppernarsaasussanik ikinnerpaamik marlunnik Anersaakkut Isumasioqatigiiffimmit akuerineqarsimasunit peqataasoqassapput, imaallutillu:
 
@@ -1031,11 +1241,15 @@ illernassusialu angeqaaq: "Aappariileritsi, inuit-aa, ilissinnit saqqummeqqullug
 (Bahaiprayers.net ID: 12575)
 
 
+
+
 ### <a id="bpn9972"></a> Prayer bpn9972 in Kalaallisut
 Naalannartinneqarit Guutiga-aa! Ilumut, kiffat una kiffallu arnaq una Naakkinninnerpit alannguani katersuussimapput, Akuerinninnerittaaq Tukkussutsillu aqqutigalugu kattusimallutik. Naalagaq-aa! Maani Illit Nunarsuarni Naalagaaffinnilu ikiukkit, Saammaannerit Tunisinerillu aqqutigalugu tamanik ajunngitsunik atugassaqartillugit. Naalagaq-aa! Ilinnik kiffartuussineranni qulakkeeriffigalugillu tapersersukkit. Illit Nunarsuarni Ativit ilisarnaataatut ilersikkit, Tunniussatillu maani nunarsuarni nunarsuassamilu nunguttussaanngitsut aqqutigalugit sernigikkit. Naalagaq-aa! Saammaannerpit Naalagaaffia qinnuigaat, Ataasiussutsivillu piviussusia nersorpaat. Ilumut Illit peqqusinerit malillugu katipput. Ataasioqatigiinnerup kattusimanerullu ilisarnaataatut ittunngoqqukkit piffissaq naasserlugu. Ilumut, Tassaavutit Tamanik Pissaanilik, Qanittuartoq, Tamanillu Pissaaneqarnerpaaq!
 
 (Source category: Katinneq)
 (Bahaiprayers.net ID: 9972)
+
+
 
 
 ### <a id="bpn12576"></a> Prayer bpn12576 in Kalaallisut
@@ -1058,6 +1272,8 @@ Isumakkeerfiginnittoq.
 
 
 
+
+
 ## Kiffaanngissuseq
 
 ### <a id="bpn7014"></a> Prayer bpn7014 in Kalaallisut
@@ -1071,6 +1287,8 @@ Illit iluarisannik sumilluunniit pinissamik Pissaaneqarputit. Illimmi ilumut Tas
 
 (Source category: Kiffaanngissuseq)
 (Bahaiprayers.net ID: 7014)
+
+
 
 
 
@@ -1091,6 +1309,8 @@ Guuti unnersiutigineqarli, silarsuit Naalagaat!
 (Bahaiprayers.net ID: 10521)
 
 
+
+
 ### <a id="bpn10522"></a> Prayer bpn10522 in Kalaallisut
 Oqarit :"Guuti-aa, Guutiga! Niaqora eqqortuliornerup niaqorutaanik qaaralu
 naligiissutsip ilisarnaataanik pinnersakkit. Ilumut tassaavutit tunissutinik
@@ -1100,12 +1320,16 @@ ajunngitsunillu tamanik piginnittoq"
 (Bahaiprayers.net ID: 10522)
 
 
+
+
 ### <a id="bpn10523"></a> Prayer bpn10523 in Kalaallisut
 Guuti-aa! Siulersunnga, illersunnga, uummatima qullia qaammarsaruk
 ullorianngortinngalu uisorilasoq. Tassaavutit Pissaanilik Nakuusorlu.
 
 (Source category: Meeqqat inuusuttullu)
 (Bahaiprayers.net ID: 10523)
+
+
 
 
 ### <a id="bpn10524"></a> Prayer bpn10524 in Kalaallisut
@@ -1123,6 +1347,8 @@ tassaavutit Pissaanilik, Piginnaassusilik, Isigisoq, Tusaasoq.
 (Bahaiprayers.net ID: 10524)
 
 
+
+
 ### <a id="bpn10525"></a> Prayer bpn10525 in Kalaallisut
 Guuti-aa! Meerannguaq una Asanninnerpit pakkussinerata iluani perorsaruk, Siulersuinerpillu sakiaanit immuttortillugu. Una naasoq pilerlaaq Asanninnerpit ruusaanik naatsiiviani naatiguk.
 Tukkussutsivillu sialuinik ineriartornissaanut ikioruk. Naalagaaffiup qitornanngortiguk Silarsuarnullu nalissaqanngitsumut siulersoruk.
@@ -1130,6 +1356,8 @@ Illit Nakuullutillu ajunngitsuuvutit aamma Tunisisuuvutit Isumassuisoq. Naalagaa
 
 (Source category: Meeqqat inuusuttullu)
 (Bahaiprayers.net ID: 10525)
+
+
 
 
 ### <a id="bpn10526"></a> Prayer bpn10526 in Kalaallisut
@@ -1145,11 +1373,15 @@ Tunniussisuuvutit, Illit Misiginneqataasuuvutit.
 (Bahaiprayers.net ID: 10526)
 
 
+
+
 ### <a id="bpn10527"></a> Prayer bpn10527 in Kalaallisut
 Naalagaq-aa! Inuusuttoq una qaammarissunngortiguk, pinngortitarlu nallinnartoq manna Illit tukkussutsit aqqutigalugu pissaqartiguk. Ilisimasaqassusermik tuniuk, ullaanngulernerullu qaammalerneri tamaasa nutaamik nukissaanik isaassiffigiuk, Sernissuinerpillu oqquiffiata iluani paariuk kukkunermit anigorsimasooqqullugu, Illit Siunertannut kiffartuussinissamut imminut tunniussimasooqqullugu, innarluttumillu ingerlasunut aqqutissiuisooqqullugu, atugarliortunut siulersuisooqqullugu, tigusaasimasut aniguisissinnaaqqullugit, ilisimaatsullu eqeersarsinnaaqqullugit, kikkut tamaasa Ilinnik eqqaamasaqarnermik nersorinninnermillu pilluaqqusaasinnaaqqullugit. Tassaavutit Pissarsuaq Pissaaneqartorlu.
 
 (Source category: Meeqqat inuusuttullu)
 (Bahaiprayers.net ID: 10527)
+
+
 
 
 
@@ -1173,6 +1405,8 @@ Pilluaqqujuk Illit, Naalagaq Guutiga-aa, Orpik Lotusi Nunamiorpalunngitsoq, taas
 
 (Source category: Najuuttumut Allakkat)
 (Bahaiprayers.net ID: 9986)
+
+
 
 
 ### <a id="bpn9987"></a> Prayer bpn9987 in Kalaallisut
@@ -1199,6 +1433,8 @@ Tassaavutit Tunisisoq, Misiginneqataasoq, sunit tamanit Tukkunerpaasoq, Saammass
 
 
 
+
+
 ## Pinngitsoorani Qinnutissaq Naatsoq
 
 ### <a id="bpn6849"></a> Prayer bpn6849 in Kalaallisut
@@ -1211,6 +1447,8 @@ Allamik Illiunngitsumik Guuteqanngilaq, ulorianartumi ikiortaasoq, Imminut napat
 
 (Source category: Pinngitsoorani Qinnutissaq Naatsoq)
 (Bahaiprayers.net ID: 6849)
+
+
 
 
 
@@ -1301,6 +1539,8 @@ Guutiga-aa, nalunaajaatigaara toqqakkavit nalunaajaatigisimasaat, akuersissutiga
 
 
 
+
+
 ## Pinngitsoorani Qinnutissaq Takkajaaq
 
 ### <a id="bpn9113"></a> Prayer bpn9113 in Kalaallisut
@@ -1342,6 +1582,8 @@ Ataasiussutsinnik Ilivitsuussutsinnillu nalunaajaavunga, Illillu Guutiuninnik, a
 
 
 
+
+
 ## Sernissortinneq
 
 ### <a id="bpn10529"></a> Prayer bpn10529 in Kalaallisut
@@ -1350,6 +1592,8 @@ Kiffatit angutit arnallu paarikkit, Naalagara-aa, sinnattunut imaqanngitsunut is
 
 (Source category: Sernissortinneq)
 (Bahaiprayers.net ID: 10529)
+
+
 
 
 ### <a id="bpn10530"></a> Prayer bpn10530 in Kalaallisut
@@ -1366,6 +1610,8 @@ Ajornartorsiornermi Ikiorti, Imminut-Atatittoq.
 
 (Source category: Sernissortinneq)
 (Bahaiprayers.net ID: 10530)
+
+
 
 
 ### <a id="bpn10528"></a> Prayer bpn10528 in Kalaallisut
@@ -1385,6 +1631,8 @@ kinaluunniit Illeqarani immini naammalersinnaanngilaq
 (Bahaiprayers.net ID: 10528)
 
 
+
+
 ### <a id="bpn10531"></a> Prayer bpn10531 in Kalaallisut
 Uannut aalajangeruk, Naalagara-aa, Ilinnullu upperinnittunut Illit isinni uatsinnut pitsaanerpaatitat, Pileqqaarnerata Atuagaani saqqummiussaasoq, Illimmi Assanniitippat sunut tamanut uuttortaat siumut aalajangeriigaq. 
 Tunissutitit pitsaasut unissanatik Illit Asanninninnik pingaartitsisunut tikiussorput, tunissutivit qilammiorpaluttut nalunaaqqutaat tupinnartut Illit qilammiorpaluttumik Ataasiussutsinnik miserratiginninngitsunut iluatigisaanatik tunniussugaapput. Paarisassatut Ilinnut inaalippavut uagutsinnut aalajangiussatit tamaasa, qinnuigaatsigillu tuneqqulluta ajunngitsunik tamanik Ilisimassutsivit imarisaanik. 
@@ -1393,6 +1641,8 @@ Allamik pissaanermik imaluunniit nakuussusermik peqanngilaq, taamaallaat Guutimi
 
 (Source category: Sernissortinneq)
 (Bahaiprayers.net ID: 10531)
+
+
 
 
 ### <a id="bpn10533"></a> Prayer bpn10533 in Kalaallisut
@@ -1406,11 +1656,15 @@ Killeqanngitsumik ataqqinarputit Illit, Naalagaq-aa! Siunitsinniittunut kingunit
 (Bahaiprayers.net ID: 10533)
 
 
+
+
 ### <a id="bpn10532"></a> Prayer bpn10532 in Kalaallisut
 Naalagara-aa! Nalunngilat inuiaat anniaammik ajunaarnermillu nalaanneqarsimasut, misilinneqaatinik aliasuutinillu iluneqarsimapput. Misilinneqaatit tamarmik inummik eqquipput, suullu takusarneqarnerit ilungersunartut saassuppaat pulateriaarsuup saassussineratut. Allanik isertorfissaqanngilaq qimaaffissaqaranilu, taamaallaat Illit illersuinerpit, sernissuinerpit, paaqqinninnerpit nakkutiginninnerpillu suluisa ataanni. Illit-aa Naakkinnittoq! Naalagara-aa! Illersuinerit uannut tassaalersiguk sakkunut ikilernaveeqqut, sernissuinerit eqqornaveeqqut, qanilaarneq Illit ataasiussutsivit matuata silataani uannut paaqqinnittunngortiguk, Illillu nakkutiginninnerit Illersuinerillu uannut pallittaalisanngortiguk inigisanngortillugulu. Namminiussutsip piumapilunnerullu tassanngaannaq takkuttarnerinut illersunnga, illersunngalu nappaammut, misiligummut, ajornartoornartumut anniarnermullu sumulluunniit. Ilumoortumimmi Illit Illersuisuuvutit, Paaqqinnittuuvutit, Sernissuisuuvutit, tamanik Naammassinnittoq, ilumoortumillu Illit tassaavutit Naakkinnittuni Naakkinninnerpaaq.
 
 (Source category: Sernissortinneq)
 (Bahaiprayers.net ID: 10532)
+
+
 
 
 
@@ -1443,6 +1697,8 @@ Allamik Illiunngitsumik Guuteqanngilaq, Ataasiusoq, Taannatuaasoq, Pissaaneqarto
 (Bahaiprayers.net ID: 9105)
 
 
+
+
 ### <a id="bpn12577"></a> Prayer bpn12577 in Kalaallisut
 *(Toqusimasunut qinnut atorneqartartussaavoq Bahá’í-nut 15-nik ukioqalereersimasunut. "Tassaavoq Bahá’í-t pinngitsoorani qinnutigisartagaanni katersuussimasut akornanni oqaatigineqarsinnaasutuaq: atuarneqartussaavoq uppertumit ataatsimit najuuttut tamarmik nikorfaneranni. Pisariaqartitaanngilaq Qiblih [Qinunermi Sammivik] saassallugu qinnut atuarneqartillugu"  —Kitáb-i-Aqdas-imit tigusaq)
 
@@ -1466,12 +1722,16 @@ Ilumut tamatta Guutimi naammagittartuuvugut.
 (Bahaiprayers.net ID: 12577)
 
 
+
+
 ### <a id="bpn9121"></a> Prayer bpn9121 in Kalaallisut
 Guutiga-aa! Illit ajortulianik isumakkeerisoq, tunissutinik tunisisoq, naalliuutinik peersitsisartoq! Ilumut qinnuigaakkit timimik qimatsisimasut anersaallu silarsuaanut pisimasut ajortuliaat isumakkeerfigeqqullugit. 
 Naalagara-aa! Unioqqutitsinernit minguiakkit, aliasuutaat piikkit taarsiornerilu qaamanermut saatsillugit. Pilluangaassutsip naatsiivianut isertikkit, minguinnerpaamik salikkit, Illillu qaamangaarnernik isiginnissinnaanngoqqukkit qaqqamit portunerpaamit.
 
 (Source category: Toqusimasunut)
 (Bahaiprayers.net ID: 9121)
+
+
 
 
 
@@ -1495,6 +1755,8 @@ Illit ilumut Tassaavutit Tamanik Ilisimannittoq, Tamanut Sianisoq.
 
 
 
+
+
 ## Ullaakkut
 
 ### <a id="bpn10534"></a> Prayer bpn10534 in Kalaallisut
@@ -1502,6 +1764,8 @@ Illit paaqqinninnikkut iterpunga, Guutiga-aa, paaqqinninnernillu qinerlertup pis
 
 (Source category: Ullaakkut)
 (Bahaiprayers.net ID: 10534)
+
+
 
 
 ### <a id="bpn10535"></a> Prayer bpn10535 in Kalaallisut
@@ -1512,6 +1776,8 @@ Allamik Illiunngitsumik Guuteqanngilaq, Ataasiusoq, Asseqanngitsoq, Arajutsisaqa
 (Bahaiprayers.net ID: 10535)
 
 
+
+
 ### <a id="bpn10536"></a> Prayer bpn10536 in Kalaallisut
 Unnersiutigaakkit, Guutiga-aa, sininnit itertikkamma, qimagusimaninnillu sassarteqqikkamma aanngaasimaninnillu kingumut eqeertikkamma. Ullaaq manna iterpunga kiinara Illit Saqqummernerpit Ulluata ulloriaanut akisuguttumut saatillugu, tassuunami pissaaneqarnerpit ataqqinassutsivillu qilai qaammarsimapput, Illit nalunaaqqutitit Atuagaatinnullu upperneq misiutiginagu, taamaanneranilu uanga Illit qilerutit tigulluarsimavara. 
 Qinnuigaakkit Piumassutsivit siunertarisannilu pissaanerup ajugaagajuttup sininninni sinnattukkut Takutitatit aallaavigalugit pilersissagitit asanninnerpit initaasa tunngavii isumannaannerpaat, asasavit uummataasa iluiniittut, Illillu saammaanninnut paaqqinninnernullu asannittumut uppernarsaatit saqqummissutissaanut sakkussat pitsaanerpaat. Uannut aalajangeruk Allaatit nersornarnerpaaq atorlugu, Naalagara-aa, nunarsuarmi maani tulliuttumilu ajunngitsoq. 
@@ -1520,6 +1786,8 @@ Kinaluunniit Ilinnik ujarlersoq pakatsisinngilat Ilinnillu kajungerinnittoq kina
 
 (Source category: Ullaakkut)
 (Bahaiprayers.net ID: 10536)
+
+
 
 
 
@@ -1540,6 +1808,8 @@ Ilumoortumik Tassaavutit Ajugaqanngitsoq, Tamanik-Ilisimannittoq, Tamanik-Paasis
 
 (Source category: Ullut Tapiliussat)
 (Bahaiprayers.net ID: 9978)
+
+
 
 
 
@@ -1772,6 +2042,8 @@ Unnersiutigisaagit Naalagara, Tamanit Qutsinnerpaaq!
 
 
 
+
+
 ## Unnersiutiginninneq qujamasunnerlu
 
 ### <a id="bpn9119"></a> Prayer bpn9119 in Kalaallisut
@@ -1780,6 +2052,8 @@ Kialuunniimmi inimini kisimi taallat Guutimit saqqummersitat appippagit Ajugaqan
 
 (Source category: Unnersiutiginninneq qujamasunnerlu)
 (Bahaiprayers.net ID: 9119)
+
+
 
 
 
@@ -1798,6 +2072,8 @@ Ilumut, Illit Tunisisuuvutit, Tukkusooq, Naakkinnittoq, Isumakkeerisoq.
 
 
 
+
+
 ## Unnukkut
 
 ### <a id="bpn9974"></a> Prayer bpn9974 in Kalaallisut
@@ -1812,6 +2088,8 @@ Allamik Illiungitsumik Guuteqanngilaq, Ajugaqanngitsoq, sunik tamanik Ajugaaffig
 
 
 
+
+
 ## Upperisap Ajugaanera
 
 ### <a id="bpn9976"></a> Prayer bpn9976 in Kalaallisut
@@ -1823,6 +2101,8 @@ Angivoq taamaammat pilluaqqussut taakkununnga aavat toqqarsimasannut Uppernarsaq
 (Bahaiprayers.net ID: 9976)
 
 
+
+
 ### <a id="bpn9975"></a> Prayer bpn9975 in Kalaallisut
 Naalagaq-aa! Nunarsuup inuiai tamaasa Upperisavit Paradiisianut isersinnaanissaannut periarfissaqartikkit, taamaalilluni pinngortitaq sunaluunniit Paaqqinninnerpit killeqarfiata avataaneeqqunagu. 
 
@@ -1830,6 +2110,8 @@ Piffissami qangarsuarniilli Tassaasimavutit Piumasannik iliornissamut pissaanili
 
 (Source category: Upperisap Ajugaanera)
 (Bahaiprayers.net ID: 9975)
+
+
 
 
 ### <a id="bpn9977"></a> Prayer bpn9977 in Kalaallisut
@@ -1842,6 +2124,9 @@ Ilumoortumik tassaavutit Naakkinnittoq, Misiginneqataasoq.
 
 (Source category: Upperisap Ajugaanera)
 (Bahaiprayers.net ID: 9977)
+
+
+
 
 
 

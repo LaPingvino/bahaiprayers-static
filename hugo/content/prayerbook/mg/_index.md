@@ -3,6 +3,68 @@ title = "Malagasy"
 tags = ['lang=mg', 'prayerbook']
 +++
 
+
+
+[ANDRO MANELANELANA](#ANDRO MANELANELANA)
+
+[ANKIZY](#ANKIZY)
+
+[ANTENIMIERA AM-PANAHY](#ANTENIMIERA AM-PANAHY)
+
+[FAHAFATESANA](#FAHAFATESANA)
+
+[FAHAMARINANA](#FAHAMARINANA)
+
+[FAMELAN-KELOKA](#FAMELAN-KELOKA)
+
+[FAMPIANARANA](#FAMPIANARANA)
+
+[FANAMBADIANA](#FANAMBADIANA)
+
+[FANAMPIANA](#FANAMPIANA)
+
+[FANGATAHAM-PAHASITRANANA](#FANGATAHAM-PAHASITRANANA)
+
+[FIAROVANA](#FIAROVANA)
+
+[FIDERANA](#FIDERANA)
+
+[FIFADIAN-KANINA](#FIFADIAN-KANINA)
+
+[FIRAISANKINA](#FIRAISANKINA)
+
+[FITSAPANA SY FAHASAHIRANANA](#FITSAPANA SY FAHASAHIRANANA)
+
+[FIVORIANA](#FIVORIANA)
+
+[HARIVA](#HARIVA)
+
+[MANGIRANDRATSY](#MANGIRANDRATSY)
+
+[MARAINA](#MARAINA)
+
+[MISASAK’ALINA](#MISASAK’ALINA)
+
+[TAKELA-PAHATSIAROVANA](#TAKELA-PAHATSIAROVANA)
+
+[TAKELAKY NY AFO](#TAKELAKY NY AFO)
+
+[TAKELAK’I AHMAD](#TAKELAK’I AHMAD)
+
+[TAOMBAOVAO](#TAOMBAOVAO)
+
+[TOETRA ARA-PANAHY](#TOETRA ARA-PANAHY)
+
+[VAVAKA FAMARANANA NY FIVORIAN’NY ANTENIMIERA AM-PANAHY](#VAVAKA FAMARANANA NY FIVORIAN’NY ANTENIMIERA AM-PANAHY)
+
+[VAVAKA HO AN’NY FIRENEN-DREHETRA](#VAVAKA HO AN’NY FIRENEN-DREHETRA)
+
+[VAVAKA HOAN’NY VALANARETINA](#VAVAKA HOAN’NY VALANARETINA)
+
+[VAVAKA TSY MAINTSY ATAO](#VAVAKA TSY MAINTSY ATAO)
+
+
+
 ## ANDRO MANELANELANA
 
 ### <a id="bpn9368"></a> Prayer bpn9368 in Malagasy
@@ -21,6 +83,8 @@ Ianao marina tokoa, Ilay Mahefa ny zavatra rehetra, Ilay Mahafantatra ny zavatra
 
 
 
+
+
 ## ANKIZY
 
 ### <a id="bpn9395"></a> Prayer bpn9395 in Malagasy
@@ -28,6 +92,8 @@ Ry Andriamanitro! Tariho aho, arovy aho, hazavao ny jiron’ny foko ary ataovy t
 
 (Source category: ANKIZY)
 (Bahaiprayers.net ID: 9395)
+
+
 
 
 ### <a id="bpn9396"></a> Prayer bpn9396 in Malagasy
@@ -39,12 +105,16 @@ Ianao Ilay Mpanome! Ianao Ilay Mpamindra fo!
 (Bahaiprayers.net ID: 9396)
 
 
+
+
 ### <a id="bpn9397"></a> Prayer bpn9397 in Malagasy
 Ry Andriamanitro! Tezao ity zaza menavava ity eo an-Tratram-pitiavanao ary omeo azy ny ronono avy amin’ny tratran’ny Fitahianao. Kolokoloy ity voly tanora ity ao amin’ny tanindraozin’ny Fitiavanao ary ampio izy mba hitombo amin’ny alalan’ny andon’ny Fitahianao.
 Ataovy zanaky ny Fanjakanao izy ary tariho ho eny amin’ny Fanjakan-danitrao. Mahery sy tsara Ianao, ary  Ianao Ilay Mpanome, Ilay Malala-tanana, Ilay Tompon’ny fanambinana tapitr’ ohatra.
 
 (Source category: ANKIZY)
 (Bahaiprayers.net ID: 9397)
+
+
 
 
 ### <a id="bpn9398"></a> Prayer bpn9398 in Malagasy
@@ -54,6 +124,8 @@ Marina tokoa, Ianao Ilay Mahery, Ilay Tsitoha, Izay Mpahita sy Mpihaino.
 
 (Source category: ANKIZY)
 (Bahaiprayers.net ID: 9398)
+
+
 
 
 
@@ -68,6 +140,8 @@ Ianao Ilay Matanjaka! Ianao Ilay Mahery! Ianao Ilay Mpanome ary Ianao ilay  Mala
 
 (Source category: ANTENIMIERA AM-PANAHY)
 (Bahaiprayers.net ID: 9402)
+
+
 
 
 ### <a id="bpn9403"></a> Prayer bpn9403 in Malagasy
@@ -85,6 +159,8 @@ Ianao Ilay Mpamindra fo, Ilay Mpanasoa, Ilay Mpanome, Ilay Tsitoha, Ilay be indr
 
 
 
+
+
 ## FAHAFATESANA
 
 ### <a id="bpn9360"></a> Prayer bpn9360 in Malagasy
@@ -97,6 +173,8 @@ Manana fahefana hanao izay sitrakao Ianao.
 
 (Source category: FAHAFATESANA)
 (Bahaiprayers.net ID: 9360)
+
+
 
 
 ### <a id="bpn9361"></a> Prayer bpn9361 in Malagasy
@@ -127,6 +205,8 @@ Isika rehetra, marina tokoa, dia manam-paharetana ao amin’Andriamanitra.
 (Bahaiprayers.net ID: 9361)
 
 
+
+
 ### <a id="bpn9362"></a> Prayer bpn9362 in Malagasy
 Andriamanitra Izy, Ilay Deraina, Ilay Tompon’ny Halemem-panahy sy ny fangorahana!
 Voninahitra ho Anao, ry Andriamanitro ô, Ilay Tompo Tsitoha. Izaho dia vavolombelon‘ny Fanananao fahefana, ny Herinao, ny Fiandriananao, ny Fahasoavanao be fitiavana, ny Famindramponao sy ny Fahefanao, ny maha-Tokana ny Fisianao sy ny maha-Iray ny tena maha-Izy Anao, ny Fahamasinanao sy ny Fisandratanao ambonin’ny tontolo ety an-tany sy izay rehetra misy eo aminy.
@@ -145,6 +225,8 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Tokana, Ilay tsy Manam-paharoa, 
 (Bahaiprayers.net ID: 9362)
 
 
+
+
 ### <a id="bpn9399"></a> Prayer bpn9399 in Malagasy
 Ry Andriamanitro ô! O Ianao izay mamela heloka, izay mizara ny soa, izay manaisotra ny alahelo!
 Marina tokoa, mitalaho Aminao aho mba hamela ny helok’ireo izay nandao ny akanjon’ny nofo ary   nisandratra eny amin’ny tontolom-panahy.
@@ -152,6 +234,8 @@ Ry Tompo ô! Diovy noho ny fandikan-dalàna izy ireo, savao ny alahelony ary sol
 
 (Source category: FAHAFATESANA)
 (Bahaiprayers.net ID: 9399)
+
+
 
 
 
@@ -166,6 +250,8 @@ Ianao, marina tokoa, Ilay Tompon’ny fanomezana sy ny fahalalan-tanana rehetra.
 (Bahaiprayers.net ID: 9358)
 
 
+
+
 ### <a id="bpn9359"></a> Prayer bpn9359 in Malagasy
 Izy Ilay Mpanome, Ilay Onena olona!
 Dera ho an’Andriamanitra, Ilay Fahagola, Ilay Mendrikaja mandrakizay, Ilay tsy miova, Ilay Maharitra mandrakizay! Izy, izay vavolombelon’ny maha-Izy Azy, izay marina tokoa fa Izy no Ilay Iray, Ilay Tokana, Ilay tsy refesi-mandidy, Ilay Ambony.
@@ -174,6 +260,8 @@ Ary rehefa nikasa haneho ny fahasoavany sy ny hatsaram-pony amin’ny olona Izy 
 
 (Source category: FAHAMARINANA)
 (Bahaiprayers.net ID: 9359)
+
+
 
 
 
@@ -188,12 +276,16 @@ Noho izany mamelà, ry Tompoko ô, ireo mpanompolahy sy mpanompovavinao. Marina 
 (Bahaiprayers.net ID: 9339)
 
 
+
+
 ### <a id="bpn9340"></a> Prayer bpn9340 in Malagasy
 Izaho, ry Andriamanitro, ilay  izay nampitodika ny tavako eny Aminao sy nametraka ny fanantenako tao amin’ireo zava-mahagagan’ny Fahasoavanao sy ny fanambarana ny Fahalalan-tananao. Miangavy Anao aho, aza avela aho hanalavitra amim-pahadisoam-panantenana ny varavaran’ny Indrafonao ary aza mandao ahy eo am-pelantanan-ireo voaharinao izay nandà ny Fototrao.
 Izaho, ry Andriamanitro, dia mpanomponao sy zanaky ny mpanomponao. Nahafantatra ny Fahamarinanao aho tamin’ireo Andronao, notarihako ny diako ho eny amoron’ny Firaisankinanao, nihaiky aho fa Irery sy Tokana Ianao ary nanantena ny Famelankelokao aho. Manana fahefana hanao izay fantatrao fa tsara Ianao; tsy misy Andriamanitra hafa afa-tsy Ianao, ilay Be Voninahitra, Ilay Mpamindrafo mandrakizay.
 
 (Source category: FAMELAN-KELOKA)
 (Bahaiprayers.net ID: 9340)
+
+
 
 
 ### <a id="bpn9317"></a> Prayer bpn9317 in Malagasy
@@ -204,12 +296,16 @@ Ry Tompo, raha tsy mamela ahy Ianao, iza indray no angatahana famelana, ary raha
 (Bahaiprayers.net ID: 9317)
 
 
+
+
 ### <a id="bpn9318"></a> Prayer bpn9318 in Malagasy
 Mangataka ny indrafonao aho, ry Andriamanitro, ary mitalaho ny famelanao araka ny fomba izay irinao itodihan’ireo mpanomponao any Aminao. Miangavy Anao aho mba hikosoka ny fahotanay araka ny  Fiandriananao sy hamela ahy , ireo ray aman-dreniko, sy ireo izay, araka ny Fanombananao , tafiditra teo amin’ny fonenan’ny Fitiavanao  tamin’ny fomba mendrika ny Fiandriananao ambony indrindra sy mifanaraka amin’ny voninahitry ny Fahefan-danitrao.
 Ry Andriamanitro! Nomenao aingam-panahy ny fanahiko mba haneho Aminao ny fitalahoany, ary raha tsy Ianao, tsy ho niantso Anao aho; ho deraina sy homem-boninahitra Ianao; mankalaza Anao aho satria niseho tamiko Ianao; ary mangataka Aminao aho mba hamela ahy, satria tsy nahatanteraka ny andraikitro hahafantatra Anao ary tsy nandeha tamin’ny lalan’ny Fitiavanao.
 
 (Source category: FAMELAN-KELOKA)
 (Bahaiprayers.net ID: 9318)
+
+
 
 
 ### <a id="bpn9319"></a> Prayer bpn9319 in Malagasy
@@ -219,11 +315,15 @@ Deraina anie Ianao, ry Tompo. Mamela ny helokay, mamindra fo aminay ary avelao i
 (Bahaiprayers.net ID: 9319)
 
 
+
+
 ### <a id="bpn9320"></a> Prayer bpn9320 in Malagasy
 Ry Andriamanitro, ry Tompoko, ry Mpampianatro! Miangavy Anao aho hamela ny heloko amin’ny fikarohako fahafinaretana hafa afa-tsy ny fitiavanao, fanohanana izay tsy ho eo akaiky Anao na fifaliana ankoatry ny fahafinaretanao, ny fiaimpiainana hafa tsy miray Aminao.
 
 (Source category: FAMELAN-KELOKA)
 (Bahaiprayers.net ID: 9320)
+
+
 
 
 ### <a id="bpn9378"></a> Prayer bpn9378 in Malagasy
@@ -235,6 +335,8 @@ Ianao Ilay Manam-pahefana, Ilay Tsitoha. Ianao Ilay Malala-tanana. Ianao Ilay Ma
 (Bahaiprayers.net ID: 9378)
 
 
+
+
 ### <a id="bpn9379"></a> Prayer bpn9379 in Malagasy
 Ry Tsitoaha! Mpanota aho, nefa Ianao Ilay izay mamela heloka! Malemy aho eo anatrehan’ny fakampanahy, nefa Ianao Ilay izay Mpangoraka! Ao  anaty aizim-piton’ny fahadisoana aho, nefa Ianao no fahazavan’ny famotsorana!
 Ianao, ry Andriamanitra be fitiavana, mamela ny heloko, omeo ahy ny tolotrao, mamindra fo amin’ny fahadisoaka, aoka ho fialofako Ianao, asitrio ao amin’ny loharanom-paharetanao aho ary sitrano amin’ny fangirifiriana sy ny aretina rehetra.
@@ -242,6 +344,8 @@ Diovy aho ary atolory ahy ny fahamasinanao. Aoka mba handray anjara amin’ny fi
 
 (Source category: FAMELAN-KELOKA)
 (Bahaiprayers.net ID: 9379)
+
+
 
 
 
@@ -257,6 +361,8 @@ Ianao, marina tokoa, Ilay Andriamanitry ny Tanjaka sy ny Fahefana, izay vonona h
 (Bahaiprayers.net ID: 9355)
 
 
+
+
 ### <a id="bpn9386"></a> Prayer bpn9386 in Malagasy
 O Ianao Andriamanitra Tsy manan-tsahala! Ianao, ry Tompon’ny Fanapahana! Ireto fanahy ireto no  mandrafitra ny Tafiky ny lanitra. Ampio izy ireo ary, miaraka amin’ny andiany mponin’ny Lanitra, ataovy mpandresy izy ireo, ka ny tsirairay amin’izy ireo dia ho toy ny tafika, handrombaka ireo tany ireo noho ny fitiavan’Andriamanitra sy ny fahazavan’ny fampianaran’Andriamanitra.
 Ry Andriamanitra! Aoka Ianao ho Mpanohana sy Mpanotrona azy ireo, ary any an-tany efitra, any an-tendrombohitra, any an-dohasaha, any an’ala, any an-tsaha sy an-dranomasina, aoka Ianao ho Tokiny, ka mba ho re ny antsony noho ny fahefan’ny Fanjakana sy ny tsiokan’ny Fanahy Masina.
@@ -266,6 +372,8 @@ Marina tokoa, Ianao Ilay Manam-pahefana, Ilay Mahery, Ilay Mahefa ny zavatra reh
 (Bahaiprayers.net ID: 9386)
 
 
+
+
 ### <a id="bpn9387"></a> Prayer bpn9387 in Malagasy
 Ry Andriamanitro ô! Andriamanitro! Hitanao aho amin’ny fanetren-tenako sy ny fahalemeko, sahirana manatanteraka asa lehibe indrindra, vonona hanandratra ny Teninao eo anivon’ny vahoaka ary hampiely ny Fampianaranao eo anivon’ny mponina. Ahoana no ahaizako hahomby amin’izany, raha tsy ampianao amin’ny tsiokan’ny Fanahy Masina, ome hay ny fandresena amin’ny alalan’ny tafiky ny Fanjakanao be voninahitra, arotsahy amiko ny Fanamafisanao, izay izany irery ihany no afaka hanova ny aloiloy ho voromahery, ny rano indray mitete ho renirano sy ranomasimbe, ny atoma ho fahazavana sy kintana mamirapiratra.
 Ry Tompo ô! Ampio aho amin’ny Hery mpandresy sy mahobinao, ka amin’izay ny lelako dia afaka manonona ny Fideranao sy ny Hatsaranao eo anivon’ny mponina ary ny fanahiko mba ho diboky ny divain’ny Fitiavanao sy ny Fahalalanao.
@@ -273,6 +381,8 @@ Marina tokoa, Ianao Manam-pahefana sy Mpanao izay Sitraponao ary ny Herinao dia 
 
 (Source category: FAMPIANARANA)
 (Bahaiprayers.net ID: 9387)
+
+
 
 
 ### <a id="bpn9388"></a> Prayer bpn9388 in Malagasy
@@ -286,6 +396,8 @@ Marina tokoa, Ianao Ilay Tsitoha, Ilay Mahaleo-tena.
 (Bahaiprayers.net ID: 9388)
 
 
+
+
 ### <a id="bpn9389"></a> Prayer bpn9389 in Malagasy
 Ry Andriamanitra ô! Andriamanitra! Hitanao aho raiki-pitia sy voasinton’ny Fanjakanao El-Abhá, miredaredan’ny afom-pitiavanao eo anivon’ny olona, manambara ny Fanjakanao ao amin’ireo firenena lehibe sy midadasika, tafasaraka tamin’ny zavatra rehetra afa-tsy Ianao, mandao ny fialan-tsasatra sy ny fiadanana, mametraka ny fitokisako Aminao.
 Lavitra ny tany nihaviako, mpisava lalana any amin’ireo faritra ireo, mpivahiny eto amin’ity tany ity, mitsangana am-panetren-tena aho eo anoloan’ny Tokonanao Masina, manaiky ny Fanapahanao ambony indrindra, mitalaho Aminao ny hariva sy amin’ny misasak’alina, miantso Anao sy mitaraina Aminao marain-tsy hariva mba hanampy ahy amin’ny fanompoana ny Fototrao, ny fanapariahana ny Fampianaranao sy ny fankalazana ny Teninao manerana ny tany Atsinanana sy Andrefana.
@@ -295,6 +407,8 @@ Marina tokoa, manamarina izay tianao amin’izay irianao atao Ianao, ary marina 
 
 (Source category: FAMPIANARANA)
 (Bahaiprayers.net ID: 9389)
+
+
 
 
 ### <a id="bpn9390"></a> Prayer bpn9390 in Malagasy
@@ -310,6 +424,8 @@ Marina tokoa, Ianao Ilay Malemy fanahy, Ilay Mahery, ary Ilay be indrafo amin’
 (Bahaiprayers.net ID: 9390)
 
 
+
+
 ### <a id="bpn9391"></a> Prayer bpn9391 in Malagasy
 Dera ho Anao, ry Andriamanitro ô! Marina tokoa, ireto ny mpanomponao voasariky ny hanitry ny Famindramponao, miredareda amin’ny afo mirehitra eo amin’ny hazon’ny Firaisanao ary ny masony mamirapiratra mandinika ny fahazavana manjopika eo amin’ny Sinaï-n’ny maha-Iray Anao.
 Ry Tompo, vahao ny lelany mba hankalazany Anao eo amin’ny vahoakanao, avelao hihira ny fiderana Anao izy ireo  noho ny Fankasitrahanao sy ny Fahasoavanao, ampio izy ireo amin’ny tafik’ireo anjelinao, atanjaho izy ireo eo amin’ny fanompoana Anao ary ataovy ho famantarana ny Fitarihanao izy ireo eo anivon’ireo voaharinao.
@@ -321,6 +437,8 @@ Marina tokoa, Ianao Ilay Mahery, Ilay Matanjaka, Ilay Mahefa ny zavatra rehetra.
 
 (Source category: FAMPIANARANA)
 (Bahaiprayers.net ID: 9391)
+
+
 
 
 
@@ -345,6 +463,8 @@ Ianao marina tokoa no Ilay Tsitoha, Ilay Lehibe Indrindra, Ilay mamela heloka ma
 
 
 
+
+
 ## FANAMPIANA
 
 ### <a id="bpn9353"></a> Prayer bpn9353 in Malagasy
@@ -356,12 +476,16 @@ Ary farany, mangataka Aminao aho, noho ny fahazavan’ny Endrikao mba hitahy ny 
 (Bahaiprayers.net ID: 9353)
 
 
+
+
 ### <a id="bpn9354"></a> Prayer bpn9354 in Malagasy
 O Ianao, Izay ny Endrikao no fototry ny fiderako, ny Hatsaran-tarehinao no fialofako masina, ny Fonenanao no tanjoko, ary ny Fiderana anao no fanantenako, ny Fitahianao no mpiaradia amiko, ny Fitiavanao no antom-pisiako, ny Fanononana Anao no fampionononana ahy, ny Fanakaikezanao no faniriako, ny Fanatrehanao no faniriana mamiko indrindra  sy fientanampoko ambony indrindra, miangavy Anao aho, mba tsy ho lavinao ho ahy izay nodidianao ho an’ny olom-boafidinao tamin’ireo mpanomponao. Vatsio aho  amin’ny harenan’ity tany ity sy ny any an-koatra.
 Ianao, marina tokoa no Ilay Mpanjakan’ny olon-drehetra. Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay mamela heloka mandrakariva, Ilay Be Fiantra.
 
 (Source category: FANAMPIANA)
 (Bahaiprayers.net ID: 9354)
+
+
 
 
 ### <a id="bpn9382"></a> Prayer bpn9382 in Malagasy
@@ -371,6 +495,8 @@ Marina tokoa, Ianao Ilay Andriamanitra Tokana, Ilay tsy manam-paharoa, Ilay Mahe
 
 (Source category: FANAMPIANA)
 (Bahaiprayers.net ID: 9382)
+
+
 
 
 ### <a id="bpn9383"></a> Prayer bpn9383 in Malagasy
@@ -383,6 +509,8 @@ Ianao Ilay Tsitoha, Ilay Andriamanitra fitiavana, Ilay Mpiahy ny olombelona rehe
 (Bahaiprayers.net ID: 9383)
 
 
+
+
 ### <a id="bpn9384"></a> Prayer bpn9384 in Malagasy
 Izy Ilay Mpangoraka! Ilay Malemy fanahy Indrindra!
 Ry Andriamanitro ô! Andriamanitro! Hitanao aho, fantatrao aho, Ianao no Fitodiako sy Fialofako. Tsy nisy notadiaviko sy hotadiaviko hafa afatsy Ianao; tsy nisy lalana hafa nodiaviko na hodiaviko afatsy ny lalan’ny Fitiavanao.
@@ -391,6 +519,8 @@ O Ianao Ilay Fanahin’ny fahadiovana, Ianao Ilay Mpanome, Ilay Be fangorahana, 
 
 (Source category: FANAMPIANA)
 (Bahaiprayers.net ID: 9384)
+
+
 
 
 ### <a id="bpn9385"></a> Prayer bpn9385 in Malagasy
@@ -411,6 +541,8 @@ Ianao, marina tokoa, Ilay Be fitiavana, Ilay Omem-boninahitra, Ilay Mahery, Ilay
 
 
 
+
+
 ## FANGATAHAM-PAHASITRANANA
 
 ### <a id="bpn9341"></a> Prayer bpn9341 in Malagasy
@@ -420,6 +552,8 @@ Ny Anaranao no fahasitranako, ry Andriamanitro ô, ary ny fahatsiarovana anao no
 (Bahaiprayers.net ID: 9341)
 
 
+
+
 ### <a id="bpn9342"></a> Prayer bpn9342 in Malagasy
 Ry Andriamanitra ô, ry Andriamanitro! Mangataka Aminao aho, noho ny ranomasimben’ny Fanasitrananao, noho ny famirapiratry ny Kintana Marainan’ny Fahasoavanao, noho ny Anaranao izay mandresy lahatra ny mpanomponao, noho ny hery mahasinton’ny Teninao be Voninahitra indrindra, noho ny herin’ny Peninao mendrikaja indrindra, ary noho ny Famindramponao izay nialoha ny fahariana ireo izay any an-danitra sy ety an-tany, mba hanadio ahy amin’ny ranon’ny Hamoramponao amin’ny fahoriana sy ny fikorontanana rehetra, ny fahalemena sy ny fahosana rehetra.
 Hitanao, ry Tompoko ô, ny mpitalaho Aminao miandry  eo am-baravaran’ny Famindramponao, izay nametraka ireo fanantenany Taminao mifikitra amin’ny tadim-pangorahanao.  Mitalaho Aminao aho, aza lavina ho azy  izay iangaviany amin’ny Ranomasimben’ny Fahasoavanao sy ny Kintana Marainan’ny Halemem-panahinao feno fitiavana.
@@ -427,6 +561,8 @@ Manam-pahefana hanao izay sitrakao Ianao. Tsy misy Andriamanitra hafa afa-tsy Ia
 
 (Source category: FANGATAHAM-PAHASITRANANA)
 (Bahaiprayers.net ID: 9342)
+
+
 
 
 ### <a id="bpn9343"></a> Prayer bpn9343 in Malagasy
@@ -439,6 +575,8 @@ Omeo azy an-koatra izany, ry Andriamanitro ô, ny tsara amin’ity tany ity sy n
 (Bahaiprayers.net ID: 9343)
 
 
+
+
 ### <a id="bpn9344"></a> Prayer bpn9344 in Malagasy
 Ankalazaina Ianao, ry Tompo Andriamanitro ô! Mitalaho Aminao aho, noho ny Anaranao Lehibe Indrindra izay namelombelona ny mpanomponao sy nanangana ny tanànanao, noho ny Anaram-boninahitrao tsara indrindra sy ireo fiantsoana Anao Mendrika Indrindra, mba hanampy ny vahoakanao hampitodika ny lalany eny amin’ireo fahasoavanao tsy tambo isaina, hampitràka ny endriny eny amin’ny tabernakelin’ny Fahendrenao. Sitrano ny aretina izay mamely ny fanahy hatraiza hatraiza sy nisakana azy hampihodina ny fijeriny any amin’ny Paradisa miorina eo amin’ny aloky ny Anaranao Mpiaro izay nodidinao ho Mpanjakan’ny Anarana rehetra ho an’ny mponina any an-danitra sy ety an-tany. Manam-pahefana hanao izay sitrakao Ianao. Eo am-pelatananao no misy ny fanapahan’ny anarana rehetra. Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Mahery, Ilay Hendry.
 Voahary mahantra aho, ry Tompoko ô; mifikitra amin’ny moron’ny harenao aho. Marary mafy aho ary mifikitra mafy tokoa amin’ny rohim-panasitrananao. Noho ny Famelanao heloka sy ny Fangorahanao, esory amin’ny fangirifiriana izay mamatotra ahy aho, diovy tanteraka amin’ny ranom-Pahasoavanao sy ny famindramponao ary tafio ny akanjom-pahasitranana. Ampifantohy Aminao ny masoko ary aza avela hanana firaiketana amin’izay tsy Ianao aho. Ampio aho hankato izay fanirianao sy hanatontosa izay sitrakao.
@@ -446,6 +584,8 @@ Marina tokoa fa Ianao Ilay Tompon’izao fiainana izao sy ny fiainana ho avy. Ia
 
 (Source category: FANGATAHAM-PAHASITRANANA)
 (Bahaiprayers.net ID: 9344)
+
+
 
 
 
@@ -464,6 +604,8 @@ Deraina anie Ianao, ô Ianao Ilay Tompon’ny Fahariana rehetra.
 (Bahaiprayers.net ID: 9345)
 
 
+
+
 ### <a id="bpn9346"></a> Prayer bpn9346 in Malagasy
 Fo mangatsiaka firifiry, ry Andriamanitro, no niredareda tamin’ny afon’ny Fototrao ary fanahy sondriana firifiry no nifoha tamin’ny antso malefakin’ny Feonao! Marobe ireo vao tonga izay nitady fialofana eo amin’ny aloky ny Firaisanao ary ireo mangetaheta izay naniry, amin’ity andro ity, izay Andronao, ny loharanon’ny Ranonao mamelombelona!
 Voatahy izay nitodika tany Aminao sy nihazakazaka hanatratra ny Kintana Marainan’ny fahazavan’ny Endrikao. Voatahy izay nampitodika ny firaiketam-pony eny amin’ny Somambisambin’ny Fanambaranao sy ny Loharanon’ny Tsindrimandrinao. Voatahy izay nandany teo amin’ny Lalanao izay natolotrao azy noho ny Fanomezanao sy ny Famindramponao. Voatahy izay nandà izay rehetra tsy Ianao, tao anatin’ny faniriana maharary hiantoraka Aminao. Voatahy izay nanana fiombonam-po lalina Taminao ka namaha ny fatorana rehetra na amin’inona na amin’inona, afatsy Aminao.
@@ -474,12 +616,16 @@ Marina tokoa, ny Herinao dia mitovy amin’ny zavatra rehetra.
 (Bahaiprayers.net ID: 9346)
 
 
+
+
 ### <a id="bpn9347"></a> Prayer bpn9347 in Malagasy
 Deraina Ianao, ry Tompo Andriamanitro ô! Ity ny mpanomponao izay nisotro avy tamin’ny tanam-pitiavanao ny divain’ny Famindramponao ary nanandrana ny tsiron’ny Fitiavanao ao amin’ireo Andronao. Mitalaho Aminao aho, noho ny fanehoana ny Anaranao, izay tsy misy alahelo afaka misakana ny fifaliana ao amin’ny fitiavanao na ny fandinihana ny Endrikao, ary izay tsy misy tompon’ny fiahiahiana hanan-kery hampiodina amin’ny lalan’ny Fahafinaretanao, mba hitalaho aminy ny harena tsara izay anananao ary hanandratra Azy amin’ny toerana ambony ka hijereny izao tontolo izao ho toy ny aloka izay hanjavona haingana kokoa noho ny indray mipi-maso.
 Arovy ihany koa izy, ry Andriamanitro ô, noho ny  fahefan’ny Fiandriananao tsy hita lany, amin’ireo rehetra izay ankahalainao. Ianao, marina tokoa, no Tompony sy Tompon’izao tontolo izao.
 
 (Source category: FIAROVANA)
 (Bahaiprayers.net ID: 9347)
+
+
 
 
 ### <a id="bpn9348"></a> Prayer bpn9348 in Malagasy
@@ -490,6 +636,8 @@ Satria tsy fantatr’izy ireo izay atokan’ny Famindramponao manerana ny fahari
 (Bahaiprayers.net ID: 9348)
 
 
+
+
 ### <a id="bpn9380"></a> Prayer bpn9380 in Malagasy
 Ry Tompoko ô! Fantatrao fa voahodidin’ny fijaliana sy ny lozabe ny olombelona, ao anaty zava-tsarotra sy  fikorontanana. Ny fitsapana rehetra dia samy mamely ny olona ary ny fahoriana mahamay rehetra dia manafika azy toy ny fanafihan’ny menarana. Tsy misy fialofana sy fierena ho azy afa-tsy eo ambany elatry ny Fiarovanao, ny Fiahianao, ny Fiambenanao sy ny Fikarakaranao.
 O Ianao Ilay Be indrafo! Ry Tompoko ô! Aoka ny Fiarovanao ho fiarovan-tenako, ny Fiahianao ho ampingako, ny fanetren-tenako eo anatrehan’ny varavaran’ny Maha iray Anao ho fiarovako, ary ny Fikarakaranao sy ny Fiarovanao ho mandako sy fonenako. Arovy amin’ny fitiavan-tena sy ny faniriana aho ary ambeno amin’ny aretina, ny fitsapàna, ny fahasahiranana sy ny fahoriana rehetra.
@@ -497,6 +645,8 @@ Ianao, marina tokoa, Ilay Mpiaro, Ilay Mpiambina, Ilay Mpiahy, Ilay ampy tokoa, 
 
 (Source category: FIAROVANA)
 (Bahaiprayers.net ID: 9380)
+
+
 
 
 ### <a id="bpn9381"></a> Prayer bpn9381 in Malagasy
@@ -510,6 +660,8 @@ Ianao Ilay Mpangoraka, Ilay Be Indrafo. Ianao Ilay Andriamanitra lehibe mpanome 
 
 
 
+
+
 ## FIDERANA
 
 ### <a id="bpn9327"></a> Prayer bpn9327 in Malagasy
@@ -520,12 +672,16 @@ Ry Fitondran’ny Lanitra ô! Ny fisiana rehetra dia ateraky ny Hamoramponao; az
 (Bahaiprayers.net ID: 9327)
 
 
+
+
 ### <a id="bpn9328"></a> Prayer bpn9328 in Malagasy
 Ny fiderana rehetra anie ho Anao, ry Andriamanitro ô, izay loharanon’ny voninahitra rehetra sy ny fiandrianana, ny fahalehibeazana sy ny haja, ny fanapahana sy ny fanjakana, ny fisandratana sy ny fahasoavana, ny fahagagana sy ny fahefana. Mitarika izay tianao Ianao ho any amin’ny Ranomasimbe Lehibe Indrindra, ary hanome ho an’izay tianao omena voninahitra hahafantatra ny Anaranao Fahagolantany. Amin’ireo rehetra izay any an-danitra sy eto an-tany, tsy misy na dia iray aza afaka hanohitra ny asan’ny Sitraponao feno fanapahana. Hatry ny fahagola nanapaka izay noforonina rehetra Ianao, ary hanohy mandrakizay ny fampiasana ny Fanapahanao amin’ny zavaboahary rehetra. Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Mahery Indrindra, Ilay Ambony Indrindra, Ilay Manampahefana, Ilay Hendry tokoa.
 Hazavao, ry Tompo, ny endriky ny mpanomponao mba ahazoany mibanjina Anao; ary diovy ny fony mba hitodihany any amin’ny lapan’ny Fahasoavan-danitrao ary miaiky Ilay Fanehoana Anao ihany sy ny Fiposaky ny Andron’ny maha-izy azy Anao. Marina tokoa fa Ianao Ilay Mpanjakan’izao tontolo izao. Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Tsitoha, Ilay tsy refesi-mandidy.
 
 (Source category: FIDERANA)
 (Bahaiprayers.net ID: 9328)
+
+
 
 
 ### <a id="bpn9329"></a> Prayer bpn9329 in Malagasy
@@ -538,6 +694,8 @@ Ianao Ilay Mpahalala ny zavatra rehetra, Ilay Mahafantatra.
 (Bahaiprayers.net ID: 9329)
 
 
+
+
 ### <a id="bpn9330"></a> Prayer bpn9330 in Malagasy
 Ankalazaina anie ny Anaranao, ry Tompo Andriamanitro!  Ianao  Ilay ankalazain’ny zavatra rehetra ary tsy mankalaza na inona na inona, Ilay Tompon’ny zavatra rehetra ary tsy eo ambany fahefan’iza na iza, Ilay mahalala ny zavatra rehetra ary tsy fantatr’iza na iza.  Naniry hanao izay ahafantaran’ny olona Anao Ianao, noho izany, avy tamin’ny tenin’ny Vavanao iray, nampisy ny zava-boahary Ianao ary namolavola izao tontolo izao. Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Mpamolavola, Ilay Mpamorona, Ilay Mahefa ny zavatra rehetra, Ilay Mahery indrindra.
 Mitalaho Aminao aho, noho ilay teny izay namirapiratra teny amin’ny vodilanitrin’ny Sitraponao, mba hamela ahy hisotro ny halalin’ny ranon’aina izay namelombelona ny fon’ireo olom-boafidinao sy namelombelona ny fanahin’ireo izay tia Anao, mba ahazoako, na amin’ny fotoana inona na amin’ny fepetra inona, hampitodika ny endriko iray manontolo eny Aminao.
@@ -545,6 +703,8 @@ Ianao ilay Andriamanitrin’ny hery, ny voninahitra sy ny fahalala-tanana. Tsy m
 
 (Source category: FIDERANA)
 (Bahaiprayers.net ID: 9330)
+
+
 
 
 ### <a id="bpn9331"></a> Prayer bpn9331 in Malagasy
@@ -555,11 +715,15 @@ Ianao Ilay Mahery indrindra, Ilay Ambony indrindra, Ilay  Be-voninahitra indrind
 (Bahaiprayers.net ID: 9331)
 
 
+
+
 ### <a id="bpn9313"></a> Prayer bpn9313 in Malagasy
 Deraina anie ny Anaranao, ry Andriamanitra. Ianao marina tokoa no Tomponay. Hainao avokoa izay rehetra ao an-danitra sy eto an-tany. Koa noho izany, ampidino aminay ny mariky ny Famindramponao. Marina tokoa, mihoatra ireo rehetra be famindram-po Ianao. Ny dera anie ho Anao, ry Tompo. Didio ho anay eo anatrehanao izay hampafana ny fon’ireo marina eo amin’ireo mpanomponao. Ankalazaina ny lanitra sy ny tany sy ireo rehetra eo anelanelan’izy ireo. Ianao Ilay Tompo Andriamanitra, Tena Masina, Tsitoha, Tena Hendry. Deraina anie ny Anaranao, ry Andriamanitro, eo amin’ny Fanatrehanao, omeo ho an’ireo izay mino an’Andriamanitra sy ny famantarana Azy, ny fanampiana mahery izay hahazoany mifanandrina amin’ny olona rehetra
 
 (Source category: FIDERANA)
 (Bahaiprayers.net ID: 9313)
+
+
 
 
 ### <a id="bpn9314"></a> Prayer bpn9314 in Malagasy
@@ -568,6 +732,8 @@ Marina tokoa, Ianao Ilay Mpanapaka ambony indrindra, Ilay Fahamarinana ambony in
 
 (Source category: FIDERANA)
 (Bahaiprayers.net ID: 9314)
+
+
 
 
 ### <a id="bpn9371"></a> Prayer bpn9371 in Malagasy
@@ -580,6 +746,8 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Be indrafo, Ilay Mahery indrindr
 
 (Source category: FIDERANA)
 (Bahaiprayers.net ID: 9371)
+
+
 
 
 
@@ -597,6 +765,8 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Mahalala ny zavatra rehetra, Ila
 
 
 
+
+
 ## FIRAISANKINA
 
 ### <a id="bpn9356"></a> Prayer bpn9356 in Malagasy
@@ -604,6 +774,8 @@ Ry Andriamanitro ô! Ry Andriamanitro ô! Ampiraiso ny fon’ny mpanomponao ary 
 
 (Source category: FIRAISANKINA)
 (Bahaiprayers.net ID: 9356)
+
+
 
 
 ### <a id="bpn9357"></a> Prayer bpn9357 in Malagasy
@@ -614,6 +786,8 @@ Ianao Ilay Tsitoha, Ilay Be Indrafo.
 
 (Source category: FIRAISANKINA)
 (Bahaiprayers.net ID: 9357)
+
+
 
 
 ### <a id="bpn9392"></a> Prayer bpn9392 in Malagasy
@@ -629,6 +803,8 @@ Marina tokoa, Ianao Ilay Tsitoha, Izay mampisy ny Tenany amin’ny alalan’ny T
 
 
 
+
+
 ## FITSAPANA SY FAHASAHIRANANA
 
 ### <a id="bpn9349"></a> Prayer bpn9349 in Malagasy
@@ -636,6 +812,8 @@ O Ianao, Izay ny fitsapàna dia fanafody mahasitrana ho an’ireo izay eo akaiki
 
 (Source category: FITSAPANA SY FAHASAHIRANANA)
 (Bahaiprayers.net ID: 9349)
+
+
 
 
 ### <a id="bpn9350"></a> Prayer bpn9350 in Malagasy
@@ -648,11 +826,15 @@ Ianao Ilay Manam-pahefana hanao izay sitrakao. Tsy misy Andriamanitra hafa afa-t
 (Bahaiprayers.net ID: 9350)
 
 
+
+
 ### <a id="bpn9351"></a> Prayer bpn9351 in Malagasy
 Ry Andriamanitra, ry Andriamanitro! Aza manalavitra ahy, satria ny fahoriana dia nihavosa manodidina ahy. Ry Andriamanitra, ry Andriamanitro! Aza mamela ahy ho an’ny tenako ihany, satria ny fahoriana dia nianjady tamiko. Amin’ny ronono madion’ny Halemem-panahinao feno fitiavana, afaho ny hetahetako satria ny hetaheta dia mandevona ahy tanteraka. Eo amin’ny alokin’ny elatry ny Famindraponao, alofy aho satria ny fahavaloko rehetra,  niara niombon-kevitra, dia namely ahy. Tehirizo eo akaikin’ny fanjakan’ny Fiandriananao aho, manoloana ny fanehoana ny marikin’ny Voninahitrao, satria ny loza dia nahatratra ahy tanteraka. Amin’ny voankazo ny Hazon’ny Mandrakizainao, fahano aho satria ny faharerahana mafy dia nahazo ahy. Amin’ny kapoakan’ny fifaliana atolotry ny tanan’ny Famindramponao be fitiavana, ampaherezo aho satria alahelo maro no nitambesatra mafy tamiko. Amin’ny akanjo voaravaky ny Fiandriananao mahery indrindra ampiakanjoy aho satria ny fahantrana dia nambabo ahy tanteraka. Rotsirotsian’ny fitolokon’ny Voromailalan’ny Mandrakizanao, avelao aho hiala sasatra satria ny fijaliana farany izay manjombona dia tonga tamiko. Manoloana ny fanjakan’ny maha-iray Anao sy ny taratry ny hatsaran’ny Endrikao, aoka honenako satria ny tahotra sy ny hovitra dia nandevona ahy. Ao amin’ny ranomasimben’ny Famelanao heloka, eo anoloan’ny fitopatopa tsy misy faran’ny fahalehibiazan’ny Voninahitrao, arobohy ao aho satria ny fahotako dia nanameloka ahy tanteraka.
 
 (Source category: FITSAPANA SY FAHASAHIRANANA)
 (Bahaiprayers.net ID: 9351)
+
+
 
 
 ### <a id="bpn9352"></a> Prayer bpn9352 in Malagasy
@@ -663,12 +845,16 @@ Ataovy izay hitodihako tanteraka any Aminao, hametrahako Aminao ny fitokisako re
 (Bahaiprayers.net ID: 9352)
 
 
+
+
 ### <a id="bpn9310"></a> Prayer bpn9310 in Malagasy
 Iza, afa-tsy Andriamanitra, no manaisotra ny fahasahiranana?
 Lazao: Deraina anie Andriamanitra! Izy no Andriamanitra! Mpanompony avokoa ny rehetra ary miankina amin’ny didiny ny rehetra.
 
 (Source category: FITSAPANA SY FAHASAHIRANANA)
 (Bahaiprayers.net ID: 9310)
+
+
 
 
 ### <a id="bpn9311"></a> Prayer bpn9311 in Malagasy
@@ -679,12 +865,16 @@ Marina tokoa, Izy amin’ny Tenany ihany Ilay Mahalala, Ilay Mpanohana, Ilay Mah
 (Bahaiprayers.net ID: 9311)
 
 
+
+
 ### <a id="bpn9312"></a> Prayer bpn9312 in Malagasy
 Amin’ny anaran’ny Tompo, Ilay Mpandresy amin’ny mpandresy dia manambara fa: Andriamanitra dia hanampy ireo izay mitsangana hanompo Azy.
 Tsy misy afaka manala aminy ny fanjakany, ny fiandrianany, satria any an-danitra sy ety an-tany ary ao amin’ny fanjakan’Andriamanitra rehetra, Izy no Mpandresy sy Mpambabo.
 
 (Source category: FITSAPANA SY FAHASAHIRANANA)
 (Bahaiprayers.net ID: 9312)
+
+
 
 
 
@@ -704,6 +894,8 @@ Ianao ilay Mahery. Ianao Ilay Mpanome. Ianao Ilay Mpanome soa.
 
 
 
+
+
 ## HARIVA
 
 ### <a id="bpn9325"></a> Prayer bpn9325 in Malagasy
@@ -715,6 +907,8 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Mahery Indrindra, Ilay tsy Refes
 (Bahaiprayers.net ID: 9325)
 
 
+
+
 ### <a id="bpn9326"></a> Prayer bpn9326 in Malagasy
 Ataoko ahoana no hisafidy ny hatory, ry Andriamanitra, ry Andriamanitro ô, raha toa ny mason’ireo izay maniry Anao tonga saina nohon’ny fisarahana Aminao; ary ataoka ahoana no mba hiala sasatra, nefa ny fanahin’ireo izay tia Anao dia mangahiahy noho ny fanalavitana ny Fanatrehanao?
 Ry Tompoko ô, napetrako ny fanahiko sy ny tenako manontolo eo amin’ny tanan-kavanan’ny Fanapahanao sy ny Fiarovanao; ampandriko eo amin’ny ondana ny lohako noho ny Fahefanao, ary hareniko izany noho ny Sitraponao sy ny Fahafinaretanao. Ianao marina tokoa Ilay Mpitahy, Ilay Mpiambina, Ilay Mahery indrindra, Ilay Manam-pahefana.
@@ -723,6 +917,8 @@ Izany marina tokoa no fanantenako sy fanantenan’ireo izay mankafy ny fanatonan
 
 (Source category: HARIVA)
 (Bahaiprayers.net ID: 9326)
+
+
 
 
 
@@ -739,6 +935,8 @@ Ianao marina tokoa, Ilay Tompo sy Mpanjakan’ny olon-drehetra ary manam-pahefan
 
 
 
+
+
 ## MARAINA
 
 ### <a id="bpn9322"></a> Prayer bpn9322 in Malagasy
@@ -747,6 +945,8 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Tokana, Ilay tsy Manan-tsahala, 
 
 (Source category: MARAINA)
 (Bahaiprayers.net ID: 9322)
+
+
 
 
 ### <a id="bpn9323"></a> Prayer bpn9323 in Malagasy
@@ -760,11 +960,15 @@ Tsy mandiso fanantenana na iza na iza Ianao amin’ireo izay nikaroka Anao ary t
 (Bahaiprayers.net ID: 9323)
 
 
+
+
 ### <a id="bpn9324"></a> Prayer bpn9324 in Malagasy
 Nifoha tao anatin’ny Fialofanao aho, ry Andriamanitro ô, ary adidin’izay mitady izany Fialofana izany ny hitoetra ao amin’ny Fitoerana Masin’ny fiarovanao sy ao anatin’ny Mandam-piarovan’ny Fiambenanao. Hazavao ny ati-fanahiko, ry Tompoko ô, amin’ny Famirapiratry ny Fiposaky ny Andron’ny Fanambaranao toy izay nanazavanao ny vatako rehetra tamin’ny tana-masoandron’ny marainan’ny Fahasoavanao.
 
 (Source category: MARAINA)
 (Bahaiprayers.net ID: 9324)
+
+
 
 
 
@@ -776,6 +980,8 @@ Marina tokoa, Ianao Ilay Mpanome, Ilay Onena olona, Ilay be Indrafo, Ilay Mpamel
 
 (Source category: MISASAK’ALINA)
 (Bahaiprayers.net ID: 9372)
+
+
 
 
 
@@ -797,6 +1003,8 @@ Tahio, Ry Tompo Andriamanitro ô, ny “Hazo-Farany” masina, ny raviny, ny ran
 (Bahaiprayers.net ID: 9363)
 
 
+
+
 ### <a id="bpn9400"></a> Prayer bpn9400 in Malagasy
 *Ity vavaka ity, nambaran’i ‘Abdu’l-Bahá, ity dia vakiana eo anoloan’ny Fasany. Vakiana koa ity amin’ny vavaky ny tena samirery. 
 *Izay mamaky ity vavaka ity amin-kafanam-po sy am-panetren-tena dia mitondra fifaliana sy fahasambarana ao am-pon’ity Mpanompo ity (‘Abdu’l-Bahá); toy ny mihaona mifanatrika Aminy 
@@ -811,6 +1019,8 @@ Ianao Ilay Mpanome, Ilay Mpangoraka, Ilay Onena olona, Ilay Mpamindra fo, Ilay B
 
 (Source category: TAKELA-PAHATSIAROVANA)
 (Bahaiprayers.net ID: 9400)
+
+
 
 
 
@@ -933,6 +1143,8 @@ Ry Ali-Akbar ô, Isaoro ny Tomponao noho ity takelaka ity. Azonao fohana ao ny h
 
 
 
+
+
 ## TAKELAK’I AHMAD
 
 ### <a id="bpn9367"></a> Prayer bpn9367 in Malagasy
@@ -958,6 +1170,8 @@ Marina tokoa, Izy Ilay be Indrafo, Ilay Mpangoraka. Deraina anie Andriamanitra, 
 
 
 
+
+
 ## TAOMBAOVAO
 
 ### <a id="bpn9370"></a> Prayer bpn9370 in Malagasy
@@ -973,6 +1187,8 @@ Marina tokoa fa Ianao Ilay Mahalala ny zavatra rehetra, Ilay tena Hendry.
 
 
 
+
+
 ## TOETRA ARA-PANAHY
 
 ### <a id="bpn9332"></a> Prayer bpn9332 in Malagasy
@@ -983,11 +1199,15 @@ Marina tokoa fa Ianao Ilay Mahery Indrindra, Ilay be Voninahitra Indrindra, Ilay
 (Bahaiprayers.net ID: 9332)
 
 
+
+
 ### <a id="bpn9333"></a> Prayer bpn9333 in Malagasy
 Amorony fo madio ao anatiko, ry Andriamanitro ô, ary havaozy ao anatiko ny saina tony ry Fanantenako ô! Amin’ny herim-panahy, hamafiso aho ao amin’ny Fototrao, ry Malalako indrindra ô,  ary amin’ny alalan’ny fahazavan’ny Voninahitrao, asehoy amiko ny Lalanao, ô Ianao ry Tanjon’ny faniriako! Amin’ny herin’ny Fahefanao avo indrindra, asandrato hatrany amin’ny lanitry ny Fahamasinanao aho, ry Loharanon’ny fisiako ô, ary amin’ny tsioka mamelombelona ny Mandrakizainao, ampifalio aho, ô Ianao, izay Andriamanitro! Aoka ny antsan-kiranao mamelovelo tsy manam-pahataperana  hamelona fitoniana ato amiko, ry Namana tsy mahasaraka ahy; ary aoka ny haren’ny Endrikao fahagola hanafaka ahy amin’izay rehetra hafa afa-tsy Ianao,  ry Tompoko ô, ary aoka ny vaovao mahafaly ny fanehoana ny maha-izy azy Anao tsy azon-hihodiovirana hitondra fifaliana ho ahy. Ianao, Ilay Miharihary noho ny miharihary,  ary Ilay Miafina indrindra noho ny miafina!
 
 (Source category: TOETRA ARA-PANAHY)
 (Bahaiprayers.net ID: 9333)
+
+
 
 
 ### <a id="bpn9334"></a> Prayer bpn9334 in Malagasy
@@ -998,6 +1218,8 @@ Aza lavinao amiko, ry Tompoko, izay anananao ary aza avela hanadino izay niriana
 
 (Source category: TOETRA ARA-PANAHY)
 (Bahaiprayers.net ID: 9334)
+
+
 
 
 ### <a id="bpn9335"></a> Prayer bpn9335 in Malagasy
@@ -1017,6 +1239,8 @@ Manampahefana hanao izay Sitrakao Ianao. Ianao marina tokoa, Ilay Avo Indrindra,
 (Bahaiprayers.net ID: 9335)
 
 
+
+
 ### <a id="bpn9336"></a> Prayer bpn9336 in Malagasy
 Omem-boninahitra Ianao, ry Tompo Andriamanitro ô! Misaotra Anao aho noho izay niantsoanao ahy tamin’ny fahavelomana amin’ny Andronao, ary noho izay namenoanao ny Fitiavanao sy ny Fahalalanao ao amiko.
 Mitalaho Aminao aho, noho ny Anaranao, izay nampitranga ny voahangy tsaran’ny Fahendrenao sy ny Teninao avy amin’ny tahirin’ny fon’ny Mpanomponao izay eo Akaikinao, ary koa avy amin’ny Kintan’ny Marainan’ny Anaranao, Ilay Mpangoraka, izay nandefa ny tarany amin’ireo rehetra izay any an-danitrao sy ny ety an-taninao, mitaraina Aminao aho hanome ahy, noho ny Fahasoavanao sy ny Hamoramponao, ireo hamoraponao mahatalanjona sy miafina.
@@ -1029,6 +1253,8 @@ Deraina anie Andriamanitra, Ilay Tompon’ny tontolo rehetra.
 (Bahaiprayers.net ID: 9336)
 
 
+
+
 ### <a id="bpn9337"></a> Prayer bpn9337 in Malagasy
 Voninahitra ho Anao, o Ianao izay Tompon’izao rehetra izao sy Malalan’ireo izay nanaiky Anao! Hitanao aho eo ambanin’ny sabatra mihantona amin’ny singan-kofehy, ary fantatrao fa amin’izany fepetra izany, tsy nanadino ny andraikitro manoloana ny Fototrao sy hampiely ny fankalazana Anao, hanambara ny Fahatanterahanao ary hilaza izay rehetra nandidianao ahy tao amin’ny Takelakao. Na dia efa akaiky hianjera eo amin’ny lohako aza ny sabatra, dia miantso ireo izay tianao aho,  tamin’ny lantom-peo izay nitondra ny fon’izy ireo  ho  eny amin’ny faravodilanitry ny Fiandriananao sy ny Fahalehibeazanao.
 Diovy ny sofin’izy ireo, ry Tompoko ô, mba ahazoany maheno ny antsa izay nisandratra eny ankavanan’ny seza Fiandriananao. Mianiana aho noho ny Herinao! Fa ireo izay mikasa hanongilantsofina amin’io firindrana io dia hanidina ho eny amin’ny fanjakan’ny Fanambaranao, fanjakana izay hanambaran’ny voahary rehetra fa Andriamanitra Ianao ary tsy misy Andriamanitra hafa afa-tsy Ianao, Ilay Mahefa ny zavatra rehetra, Ilay mamonjy amin’ny loza, Ilay Mampisy ny tenany amin’ny alalan’ny tenany. Sokafy ry Andriamanitra ô, ny mason’ny mpanomponao ary ampifalio izy ireo amin’ny hamamin’ny teninao, ka na ny loza aza tsy hanan-kery hisakana azy tsy hitodika any Aminao sy hitarika ny fijeriny any amin’ny faravodilanitry ny Fanambaranao. 
@@ -1039,6 +1265,8 @@ Manana ny fahefana hanao izay sitrakao Ianao. Tsy misy Andriamanitra afa-tsy Ian
 (Bahaiprayers.net ID: 9337)
 
 
+
+
 ### <a id="bpn9338"></a> Prayer bpn9338 in Malagasy
 Ry Andriamanitro, noho ny herinao sy ny fiandriananao izay mandrakotra ireo rehetra any an-danitra sy eto an-tany, mangataka Aminao aho hampahalala amin’ny mpanomponao ny lalana mazava sy mahitsy, mba ahafantarany marina ny Firaisanao sy ny maha-Iray Anao ka tsy ho voahelingelina noho ny hevi-dravin’ ireo  tsy mpino, na ho hamaizinin’ny fisainam-poanan’ireo be di-doha.
 Hazavao, ry Tompoko, ny mason’ny mpanomponao ary ampifalio ny fony amin’ny famirapiratry ny fahazavan’ny fahalalahanao, mba ahazoan’izy ireo mahafantatra ny halehibiazan’io laharana tena tsara io ary mahafantatra io faravodilanitra manjelanjelatra io, ka, soa ihany, fa na ny horakoraky ny olona aza dia tsy hanana hery hampiodina ny fijeriny amin’ny famirapiratry ny hazavan’ny Firaisanao , ary ny endriny eny amin’ny vodilanitry ny tsy firaiketana.
@@ -1047,11 +1275,15 @@ Hazavao, ry Tompoko, ny mason’ny mpanomponao ary ampifalio ny fony amin’ny f
 (Bahaiprayers.net ID: 9338)
 
 
+
+
 ### <a id="bpn9315"></a> Prayer bpn9315 in Malagasy
 Miangavy Anao aho hamela ny heloko, ry Tompo, noho ny fanambarana hafa afa-tsy ny fanambarana Anao, ny fiderana hafa afa-tsy ny fiderana Anao, ny firavoravoana hafa afa-tsy ny firavoravoana ny eo akaikinao,  ny fahafinaretana hafa afa-tsy ny fahafinaretana noho ny fiombonana Aminao sy ny hafaliana rehetra afa-tsy ny hafalian’ny Fitiavanao sy ny Sitraponao tsara,  ary ny zavatra mikasika ahy rehetra izay tsy hitondra ahy ho amin’ny fifandraisana Aminao, O Ianao izay Tompon’ny Tompo, Ianao izay manome ny fitaovana sy manokatra ny fanalahidy ny varavarana.
 
 (Source category: TOETRA ARA-PANAHY)
 (Bahaiprayers.net ID: 9315)
+
+
 
 
 ### <a id="bpn9316"></a> Prayer bpn9316 in Malagasy
@@ -1065,6 +1297,8 @@ Ianao, marina tokoa, no Tomponay sy Ilay Tompon’ny zava-drehetra. Apetrakay Am
 (Bahaiprayers.net ID: 9316)
 
 
+
+
 ### <a id="bpn9373"></a> Prayer bpn9373 in Malagasy
 Ry Tompoko ô! Ry Tompoko ô! Ity dia jiro iray nazavaina tamin’ny afon’ny Fitiavanao sy narehitra  tamin’ny lelafo nirehitra teo amin’ny hazon’ny Famindramponao.
 Ry Tompoko ô! Ampitomboy ny firehetany, ny hafanany sy ny lelafony, amin’ny afo izay nirehitra tao amin’ny Sinaïn’ny Fanehoanao.
@@ -1072,6 +1306,8 @@ Marina tokoa, Ianao Ilay Mpanamafy orina, Ilay Mpanotrona, Ilay Mahery, Ilay One
 
 (Source category: TOETRA ARA-PANAHY)
 (Bahaiprayers.net ID: 9373)
+
+
 
 
 ### <a id="bpn9374"></a> Prayer bpn9374 in Malagasy
@@ -1083,12 +1319,16 @@ Marina tokoa, Ianao Ilay Be fitiavana, Ilay Onena olona.
 (Bahaiprayers.net ID: 9374)
 
 
+
+
 ### <a id="bpn9375"></a> Prayer bpn9375 in Malagasy
 Ry Andriamanitra! Andriamanitro! Arovy ireo mpanomponao mahatoky amin’ny faharatsian’ny fitiavan-tena sy ny filan’ny nofo; arovy amin’ny maso matsilon’ny Fitiavanao izy ireo amin’ny lolompo, ny fankahalana sy ny fitsiriritana rehetra, alofy ao amin’ny mandan’ny Fikarakaranao izy ireo ary arovy amin’ny zanatsipikan’ny fisalasalana, ataovy fanehoana ny Famantaranao be voninahitra izy ireo, hazavao ny endriny amin’ny tara-pahazavana mamirapiratra izay nalatsaka avy amin’ny Somambisambin’ny Maha-Iray Anao, ampifalio ny fony amin’ireo andininy nambara avy amin’ny Fanjakanao masina ary amafiso ny valahany amin’ny Fahefanao ambony indrindra izay avy amin’ny Fanjakan’ny Voninahitrao.
 Ianao Ilay Mpangoraka, Ilay Mpiaro, Ilay Tsitoha, Ilay Be fahasoavana.
 
 (Source category: TOETRA ARA-PANAHY)
 (Bahaiprayers.net ID: 9375)
+
+
 
 
 ### <a id="bpn9376"></a> Prayer bpn9376 in Malagasy
@@ -1098,6 +1338,8 @@ Ry Andriamanitra ô, sakaizako akaiky noho ny tenako Ianao. Manokana ny tenako h
 
 (Source category: TOETRA ARA-PANAHY)
 (Bahaiprayers.net ID: 9376)
+
+
 
 
 ### <a id="bpn9377"></a> Prayer bpn9377 in Malagasy
@@ -1111,6 +1353,8 @@ Ianao, marina tokoa, Ilay Tsitoha, Be Voninahitra, Ilay Mahefa ny zavatra rehetr
 
 
 
+
+
 ## VAVAKA FAMARANANA NY FIVORIAN’NY ANTENIMIERA AM-PANAHY
 
 ### <a id="bpn9404"></a> Prayer bpn9404 in Malagasy
@@ -1121,6 +1365,8 @@ Marina tokoa, Ianao Ilay Malala-tanana, Ilay be indrafo! Ianao Ilay Manana fanom
 
 (Source category: VAVAKA FAMARANANA NY FIVORIAN’NY ANTENIMIERA AM-PANAHY)
 (Bahaiprayers.net ID: 9404)
+
+
 
 
 
@@ -1140,6 +1386,8 @@ Ianao Ilay Matanjaka, Ilay Mahery. Ianao Ilay Mpamela heloka ary Ianao Ilay Mami
 
 
 
+
+
 ## VAVAKA HOAN’NY VALANARETINA
 
 ### <a id="bpn12864"></a> Prayer bpn12864 in Malagasy
@@ -1155,6 +1403,8 @@ Tena mahery marina tokoa ambonin’ny zavatra rehetra Ianao. Manatanteraka izay 
 
 (Source category: VAVAKA HOAN’NY VALANARETINA)
 (Bahaiprayers.net ID: 12864)
+
+
 
 
 ### <a id="bpn12865"></a> Prayer bpn12865 in Malagasy
@@ -1286,6 +1536,8 @@ Ary mbola mitalaho Aminao aho, avy amin’ireo anarana soa indrindra ireo, avy a
 
 
 
+
+
 ## VAVAKA TSY MAINTSY ATAO
 
 ### <a id="bpn9364"></a> Prayer bpn9364 in Malagasy
@@ -1297,6 +1549,8 @@ Tsy misy Andriamanitra hafa afa-tsy Ianao, Izay mamonjy amin’ny loza, izay mam
 
 (Source category: VAVAKA TSY MAINTSY ATAO)
 (Bahaiprayers.net ID: 9364)
+
+
 
 
 ### <a id="bpn9365"></a> Prayer bpn9365 in Malagasy
@@ -1327,6 +1581,8 @@ Mijoro vavolombelona aho ny maha-Iray sy ny maha-Tokana Anao, ary Ianao dia Andr
 
 (Source category: VAVAKA TSY MAINTSY ATAO)
 (Bahaiprayers.net ID: 9365)
+
+
 
 
 ### <a id="bpn9366"></a> Prayer bpn9366 in Malagasy
@@ -1381,6 +1637,9 @@ Anao ny fanjakan’ny tany sy ny lanitra, ry Ilay Andrian’izao tontolo izao ô
 
 (Source category: VAVAKA TSY MAINTSY ATAO)
 (Bahaiprayers.net ID: 9366)
+
+
+
 
 
 

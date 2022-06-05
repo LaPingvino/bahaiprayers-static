@@ -3,6 +3,44 @@ title = "Frysk"
 tags = ['lang=fy', 'prayerbook']
 +++
 
+
+
+[Bern](#Bern)
+
+[Besikingen En Swierrichheden](#Besikingen En Swierrichheden)
+
+[Ferstoarnen](#Ferstoarnen)
+
+[Geastlike Groei](#Geastlike Groei)
+
+[Geastlike Ried](#Geastlike Ried)
+
+[Genêzing](#Genêzing)
+
+[Help En Bystân](#Help En Bystân)
+
+[Houlik](#Houlik)
+
+[Ienheid](#Ienheid)
+
+[It Koarte Ferplichte](#It Koarte Ferplichte)
+
+[Jûn](#Jûn)
+
+[Moarn](#Moarn)
+
+[Naw-Ruz](#Naw-Ruz)
+
+[Stânfêstigens](#Stânfêstigens)
+
+[Tafel Fan Ahmad](#Tafel Fan Ahmad)
+
+[Tafelgebedens](#Tafelgebedens)
+
+[Ûnderrjocht](#Ûnderrjocht)
+
+
+
 ## Bern
 
 ### <a id="AB04427LMP"></a> Prayer AB04427LMP in Frysk
@@ -13,12 +51,16 @@ Jo binne de Machtige en de Krêftige.
 (Bahaiprayers.net ID: 6018)
 
 
+
+
 ### <a id="bpn6019"></a> Prayer bpn6019 in Frysk
 O Jo, suvere God! Ik bin in lyts bern; meitsje de skurte fan Jo jefte ta in leaflik rêstplak fan treast, lit my groeie en fied wurde mei de hunnich en de molke fan Jo leafde en bring my grut mei Jo kennis; lit my frij wêze salang't ik in bern bin en jou my ealens!
 O Jo, bûtenwenstige God! Meitsje my de fertrouling fan it Keninkryk fan de Unsjenbere. Wierliken, Jo binne de Machtige en de Krêftige.
 
 (Source category: Bern)
 (Bahaiprayers.net ID: 6019)
+
+
 
 
 
@@ -31,12 +73,16 @@ Is der ien dy't swierrichheden ferdriuwt bûten God? Sis: Eare oan God! Hy is Go
 (Bahaiprayers.net ID: 6020)
 
 
+
+
 ### <a id="BB00015SUF"></a> Prayer BB00015SUF in Frysk
 Sis: God foldocht alle dingen boppe alle dingen en neat yn de himelen of op ierde útsein God is genôch.
 Wierliken, Hy is yn Himsels de Wittende, de Helper, de Almachtige.
 
 (Source category: Besikingen En Swierrichheden)
 (Bahaiprayers.net ID: 6021)
+
+
 
 
 
@@ -64,6 +110,8 @@ Wierliken, wy allegearre binne geduldich yn God. (19 x)
 (Bahaiprayers.net ID: 6023)
 
 
+
+
 ### <a id="AB11094"></a> Prayer AB11094 in Frysk
 O myn God! O Jo, Ferjouwer fan sûnden! Skinker fan jeften! Ferdriuwer fan smerten!
 Wierliken, ik smeekje Jo de sûnden te ferjaan fan harren dy't it stoflik klaad ôflein hawwe en nei de geastlike wrâld opstiigd binne.
@@ -71,6 +119,8 @@ O myn Hear! Suverje harren fan oertrêdings, ferdriuw harren fertriet en feroarj
 
 (Source category: Ferstoarnen)
 (Bahaiprayers.net ID: 6022)
+
+
 
 
 
@@ -83,11 +133,15 @@ Skep yn my in suver hert, o myn God, en fernij yn my in rêstich gewisse, o myn 
 (Bahaiprayers.net ID: 6024)
 
 
+
+
 ### <a id="bpn6025"></a> Prayer bpn6025 in Frysk
 O Jo , barmhertich God! Skink my in hert dat allyk in spegel strielet mei it ljocht fan Jo leafde en besielje my mei gedachten dy't troch Jo foldiedigens de wrâld feroarje litte yn in roazehôf. Jo binne de Barmhertige, de Genedige, de Alfoldiedege.
 
 (Source category: Geastlike Groei)
 (Bahaiprayers.net ID: 6025)
+
+
 
 
 ### <a id="bpn6026"></a> Prayer bpn6026 in Frysk
@@ -96,6 +150,8 @@ OGod, help my rjochtfeardich te wêzen, ferhef my boppe de oseaan fan byleauwe e
 
 (Source category: Geastlike Groei)
 (Bahaiprayers.net ID: 6026)
+
+
 
 
 
@@ -112,6 +168,8 @@ O Jo, ús Fersoarger! Stjoer Jo bystân del, dat elk dy't hjir sammele is as in 
 
 
 
+
+
 ## Genêzing
 
 ### <a id="BH01313NAM"></a> Thy name is my healing in Frysk
@@ -120,6 +178,8 @@ Jo, wierliken, binne de Alfoldedige, de Alwittende, de Alwize.
 
 (Source category: Genêzing)
 (Bahaiprayers.net ID: 6028)
+
+
 
 
 
@@ -133,12 +193,16 @@ Jo binne de Alwittende, de alles Kennende.
 (Bahaiprayers.net ID: 6029)
 
 
+
+
 ### <a id="BH10973"></a> Prayer BH10973 in Frysk
 O Jo, waans antlit it doel is fan myn oanbidding, Waans skientme myn hillichdom, Waans wente myn doel, Waans lofspraak myn hope, Waans foarsjennichheid myn selskipsman, Waans leafde de reden fan myn bestean, Waans neamd-wurden myn treast, Waans neite myn langstme, Waans tsjinwurdichheid myn dierberste winsk en heechste stribjen is. Ik smeekje Jo my net te ûnthâlden wat Jo foar de útkarden fan Jo tsjinners ornearre hawwe. Ferlien my dan it goede fan dizze wrâld en fan de neikommende.
 Jo, wierliken, binne de Kening fan alle minsken. Der is gjin God as Jo, de Jimmer-Ferjaande, de Grutmoedichste.
 
 (Source category: Help En Bystân)
 (Bahaiprayers.net ID: 6030)
+
+
 
 
 
@@ -154,6 +218,8 @@ Wierliken, Jo binne de Almogende, de Alomtsjintwurdige, de Almachtige.
 
 
 
+
+
 ## Ienheid
 
 ### <a id="BH10505"></a> Prayer BH10505 in Frysk
@@ -163,6 +229,8 @@ Wierliken, Jo binne harren Helper en harren Hear.
 
 (Source category: Ienheid)
 (Bahaiprayers.net ID: 6032)
+
+
 
 
 ### <a id="ABU0137ALL"></a> Prayer ABU0137ALL in Frysk
@@ -175,6 +243,8 @@ Jo binne de Machtige en de Krêftige! Jo binne de Ferjouwende en Jo binne Dyjing
 
 (Source category: Ienheid)
 (Bahaiprayers.net ID: 6033)
+
+
 
 
 
@@ -191,6 +261,8 @@ Der is gjin oare God as Jo, de Helper-yn-need, de Troch-Himsels-Besteande.
 
 
 
+
+
 ## Jûn
 
 ### <a id="BH00009SER"></a> Prayer BH00009SER in Frysk
@@ -203,6 +275,8 @@ Der is gjin God as Jo, de Almachtige, de Albehearsker, de Unbetinge.
 
 
 
+
+
 ## Moarn
 
 ### <a id="BH00009SHE"></a> Prayer BH00009SHE in Frysk
@@ -210,6 +284,8 @@ Ik bin ûnder Jo beskutting wekker wurden,o myn God, en it past him dy't dy besk
 
 (Source category: Moarn)
 (Bahaiprayers.net ID: 6035)
+
+
 
 
 ### <a id="BH00009AWA"></a> Prayer BH00009AWA in Frysk
@@ -224,6 +300,8 @@ Jo binne, wierliken, de Almachtige, de Almogende.
 
 (Source category: Moarn)
 (Bahaiprayers.net ID: 6036)
+
+
 
 
 
@@ -249,6 +327,8 @@ Jo, yn wierheid, binne de Alwittende, de Alwize.
 
 
 
+
+
 ## Stânfêstigens
 
 ### <a id="bpn6041"></a> Prayer bpn6041 in Frysk
@@ -258,6 +338,8 @@ Jo binne de Krêftige, de Genedige, de Troch-Himsels-Besteande, de Skinker, de M
 
 (Source category: Stânfêstigens)
 (Bahaiprayers.net ID: 6041)
+
+
 
 
 
@@ -294,6 +376,8 @@ Wierliken, Hy is de Genedige, de Meilydsume. Eare oan God, de Hear fan alle wrâ
 
 
 
+
+
 ## Tafelgebedens
 
 ### <a id="bpn6038"></a> Prayer bpn6038 in Frysk
@@ -301,6 +385,8 @@ Hy is God! Oanskôgje ús, o Hear, gearkommen om dizze tafel, tankber foar Jo go
 
 (Source category: Tafelgebedens)
 (Bahaiprayers.net ID: 6038)
+
+
 
 
 
@@ -312,6 +398,9 @@ Machtich binne Jo te dwaan nei Jins gefallichheid. Der is gjin oare God as Jo, d
 
 (Source category: Ûnderrjocht)
 (Bahaiprayers.net ID: 6039)
+
+
+
 
 
 

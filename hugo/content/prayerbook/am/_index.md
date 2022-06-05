@@ -3,6 +3,78 @@ title = "አማርኛ."
 tags = ['lang=am', 'prayerbook']
 +++
 
+
+
+[ለሕፃናት  (Infants)](#ለሕፃናት  (Infants))
+
+[ለመንፈሳዊ ጉባኤ ስብሰባ (Assemblies)](#ለመንፈሳዊ ጉባኤ ስብሰባ (Assemblies))
+
+[ለመዋጮ ፀሎት (Fund)](#ለመዋጮ ፀሎት (Fund))
+
+[ለሙታን፤ (For the Dead)](#ለሙታን፤ (For the Dead))
+
+[ለሰው ዘር (Mankind)](#ለሰው ዘር (Mankind))
+
+[ለስብሰባ (Meetings)](#ለስብሰባ (Meetings))
+
+[ለቤተሰብ (Family)](#ለቤተሰብ (Family))
+
+[ለአቅኚዎች (Pioneers)](#ለአቅኚዎች (Pioneers))
+
+[ለአንድነት (Unity)](#ለአንድነት (Unity))
+
+[ለእምነቱ ድል (Victory)](#ለእምነቱ ድል (Victory))
+
+[ለእርዳታ (Help)](#ለእርዳታ (Help))
+
+[ለወጣቶች፤ (Youth)](#ለወጣቶች፤ (Youth))
+
+[ለውዳሴና ለምስጋና (Thanksgiving)](#ለውዳሴና ለምስጋና (Thanksgiving))
+
+[ለይቅርታ  (Forgiveness)](#ለይቅርታ  (Forgiveness))
+
+[ለጥበቃ (Protection)](#ለጥበቃ (Protection))
+
+[ለጽናት (Steadfastness)](#ለጽናት (Steadfastness))
+
+[ለፈተናና ለችግር ጊዜ  (Tests)](#ለፈተናና ለችግር ጊዜ  (Tests))
+
+[መልእክተ እሳት (Fire Tablet)](#መልእክተ እሳት (Fire Tablet))
+
+[መንፈሳዊ ባህርያትን ለማዳበር (Spiritual Qualities)](#መንፈሳዊ ባህርያትን ለማዳበር (Spiritual Qualities))
+
+[መካከለኛው (Medium)](#መካከለኛው (Medium))
+
+[ረዥሙ የፈውስ ፀሎት (Long Healing)](#ረዥሙ የፈውስ ፀሎት (Long Healing))
+
+[ረጅሙ (Long)](#ረጅሙ (Long))
+
+[በአምላክ ቃል -ኪዳን ለመጽናት (Covenant)](#በአምላክ ቃል -ኪዳን ለመጽናት (Covenant))
+
+[አጭሩ (Short)](#አጭሩ (Short))
+
+[ከዓለማዊ ቁራኛነት ለመላቀቅ (Detachment)](#ከዓለማዊ ቁራኛነት ለመላቀቅ (Detachment))
+
+[የማላዳ ፀሎት (Prayer)](#የማላዳ ፀሎት (Prayer))
+
+[የማታ (Night)](#የማታ (Night))
+
+[የቀብር ፀሎት  (Funerals)](#የቀብር ፀሎት  (Funerals))
+
+[የቅዱሱ መርከበኛ  መልዕክት (Tablet of Ahmad)](#የቅዱሱ መርከበኛ  መልዕክት (Tablet of Ahmad))
+
+[የባሃኢ መዋጮ (Contributions)](#የባሃኢ መዋጮ (Contributions))
+
+[የናውሩዝ (የዓዲስ ዓመት ) ፀሎት (Naw-Ruz)](#የናውሩዝ (የዓዲስ ዓመት ) ፀሎት (Naw-Ruz))
+
+[የጋብቻ ጸሎት (Marriage)](#የጋብቻ ጸሎት (Marriage))
+
+[የፆም ፀሎት (Fasting)](#የፆም ፀሎት (Fasting))
+
+[ፀሎተ ትምህርት (Education)](#ፀሎተ ትምህርት (Education))
+
+
+
 ## ለሕፃናት  (Infants)
 
 ### <a id="bpn9921"></a> Prayer bpn9921 in አማርኛ.
@@ -20,6 +92,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: ለሕፃናት  (Infants))
 (Bahaiprayers.net ID: 9921)
+
+
 
 
 
@@ -44,6 +118,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## ለመዋጮ ፀሎት (Fund)
 
 ### <a id="bpn9912"></a> Prayer bpn9912 in አማርኛ.
@@ -53,6 +129,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: ለመዋጮ ፀሎት (Fund))
 (Bahaiprayers.net ID: 9912)
+
+
 
 
 
@@ -81,6 +159,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## ለሰው ዘር (Mankind)
 
 ### <a id="bpn9924"></a> Prayer bpn9924 in አማርኛ.
@@ -99,6 +179,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## ለስብሰባ (Meetings)
 
 ### <a id="bpn9910"></a> Prayer bpn9910 in አማርኛ.
@@ -114,6 +196,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## ለቤተሰብ (Family)
 
 ### <a id="bpn9919"></a> Prayer bpn9919 in አማርኛ.
@@ -123,6 +207,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: ለቤተሰብ (Family))
 (Bahaiprayers.net ID: 9919)
+
+
 
 
 
@@ -140,6 +226,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## ለአንድነት (Unity)
 
 ### <a id="bpn9917"></a> Prayer bpn9917 in አማርኛ.
@@ -153,6 +241,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: ለአንድነት (Unity))
 (Bahaiprayers.net ID: 9917)
+
+
 
 
 
@@ -189,6 +279,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## ለእርዳታ (Help)
 
 ### <a id="bpn9926"></a> Prayer bpn9926 in አማርኛ.
@@ -212,6 +304,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## ለወጣቶች፤ (Youth)
 
 ### <a id="bpn9911"></a> Prayer bpn9911 in አማርኛ.
@@ -224,6 +318,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: ለወጣቶች፤ (Youth))
 (Bahaiprayers.net ID: 9911)
+
+
 
 
 
@@ -249,6 +345,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: ለውዳሴና ለምስጋና (Thanksgiving))
 (Bahaiprayers.net ID: 9927)
+
+
 
 
 
@@ -281,6 +379,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## ለጥበቃ (Protection)
 
 ### <a id="bpn9928"></a> Prayer bpn9928 in አማርኛ.
@@ -306,6 +406,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## ለጽናት (Steadfastness)
 
 ### <a id="bpn9929"></a> Prayer bpn9929 in አማርኛ.
@@ -320,6 +422,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: ለጽናት (Steadfastness))
 (Bahaiprayers.net ID: 9929)
+
+
 
 
 
@@ -342,6 +446,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: ለፈተናና ለችግር ጊዜ  (Tests))
 (Bahaiprayers.net ID: 9914)
+
+
 
 
 
@@ -374,6 +480,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## መንፈሳዊ ባህርያትን ለማዳበር (Spiritual Qualities)
 
 ### <a id="bpn9930"></a> Prayer bpn9930 in አማርኛ.
@@ -390,6 +498,8 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9930)
 
 
+
+
 ### <a id="bpn9931"></a> Prayer bpn9931 in አማርኛ.
 *Spiritual Qualities
 *(በሴት የሚደረግ)
@@ -404,6 +514,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: መንፈሳዊ ባህርያትን ለማዳበር (Spiritual Qualities))
 (Bahaiprayers.net ID: 9931)
+
+
 
 
 
@@ -425,6 +537,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: መካከለኛው (Medium))
 (Bahaiprayers.net ID: 9905)
+
+
 
 
 
@@ -471,6 +585,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## ረጅሙ (Long)
 
 ### <a id="bpn9906"></a> Prayer bpn9906 in አማርኛ.
@@ -511,6 +627,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## በአምላክ ቃል -ኪዳን ለመጽናት (Covenant)
 
 ### <a id="bpn9932"></a> Prayer bpn9932 in አማርኛ.
@@ -538,6 +656,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## አጭሩ (Short)
 
 ### <a id="bpn9904"></a> Prayer bpn9904 in አማርኛ.
@@ -555,6 +675,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## ከዓለማዊ ቁራኛነት ለመላቀቅ (Detachment)
 
 ### <a id="bpn9918"></a> Prayer bpn9918 in አማርኛ.
@@ -565,6 +687,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: ከዓለማዊ ቁራኛነት ለመላቀቅ (Detachment))
 (Bahaiprayers.net ID: 9918)
+
+
 
 
 
@@ -579,6 +703,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: የማላዳ ፀሎት (Prayer))
 (Bahaiprayers.net ID: 9907)
+
+
 
 
 
@@ -597,6 +723,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: የማታ (Night))
 (Bahaiprayers.net ID: 9908)
+
+
 
 
 
@@ -637,6 +765,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## የቅዱሱ መርከበኛ  መልዕክት (Tablet of Ahmad)
 
 ### <a id="bpn9939"></a> Prayer bpn9939 in አማርኛ.
@@ -670,6 +800,8 @@ tags = ['lang=am', 'prayerbook']
 
 
 
+
+
 ## የባሃኢ መዋጮ (Contributions)
 
 ### <a id="bpn9933"></a> Prayer bpn9933 in አማርኛ.
@@ -679,6 +811,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: የባሃኢ መዋጮ (Contributions))
 (Bahaiprayers.net ID: 9933)
+
+
 
 
 
@@ -696,6 +830,8 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9920)
 
 
+
+
 ### <a id="bpn9938"></a> Prayer bpn9938 in አማርኛ.
 *Naw-Ruz
 
@@ -710,6 +846,8 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9938)
 
 
+
+
 ### <a id="bpn9941"></a> Prayer bpn9941 in አማርኛ.
 *Naw-Ruz Prayers
 
@@ -722,6 +860,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: የናውሩዝ (የዓዲስ ዓመት ) ፀሎት (Naw-Ruz))
 (Bahaiprayers.net ID: 9941)
+
+
 
 
 
@@ -753,6 +893,8 @@ tags = ['lang=am', 'prayerbook']
 (Bahaiprayers.net ID: 9909)
 
 
+
+
 ### <a id="bpn9934"></a> Prayer bpn9934 in አማርኛ.
 *Marriage
 
@@ -760,6 +902,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: የጋብቻ ጸሎት (Marriage))
 (Bahaiprayers.net ID: 9934)
+
+
 
 
 
@@ -789,6 +933,8 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: የፆም ፀሎት (Fasting))
 (Bahaiprayers.net ID: 9940)
+
+
 
 
 
@@ -822,6 +968,9 @@ tags = ['lang=am', 'prayerbook']
 
 (Source category: ፀሎተ ትምህርት (Education))
 (Bahaiprayers.net ID: 9935)
+
+
+
 
 
 

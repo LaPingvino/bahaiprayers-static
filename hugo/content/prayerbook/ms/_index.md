@@ -3,6 +3,120 @@ title = "Bahasa Melayu"
 tags = ['lang=ms', 'prayerbook']
 +++
 
+
+
+[AYYÁM-I-HÁ](#AYYÁM-I-HÁ)
+
+[BANTUAN & PERTOLONGAN](#BANTUAN & PERTOLONGAN)
+
+[BAYI YANG MENYUSU](#BAYI YANG MENYUSU)
+
+[BAYI YANG SAKIT](#BAYI YANG SAKIT)
+
+[BELIA](#BELIA)
+
+[BERKAT](#BERKAT)
+
+[BIMBINGAN](#BIMBINGAN)
+
+[CUBAAN & KESUKARAN](#CUBAAN & KESUKARAN)
+
+[DANA & REZEKI](#DANA & REZEKI)
+
+[DOA JENAZAH](#DOA JENAZAH)
+
+[DOA KESEMBUHAN PANJANG](#DOA KESEMBUHAN PANJANG)
+
+[DOA TENGAH MALAM](#DOA TENGAH MALAM)
+
+[DOA WAJIB MENENGAH](#DOA WAJIB MENENGAH)
+
+[DOA WAJIB PANJANG](#DOA WAJIB PANJANG)
+
+[DOA WAJIB PENDEK](#DOA WAJIB PENDEK)
+
+[Dituliskan kepada rakan-rakan Bahá'í di Amerika Syarikat dan Kanada](#Dituliskan kepada rakan-rakan Bahá'í di Amerika Syarikat dan Kanada)
+
+[Dituliskan kepada rakan-rakan Bahá'í di Negara-Negara Selatan](#Dituliskan kepada rakan-rakan Bahá'í di Negara-Negara Selatan)
+
+[FAJAR](#FAJAR)
+
+[IBU BAPA](#IBU BAPA)
+
+[KANAK-KANAK](#KANAK-KANAK)
+
+[KEDEKATAN KEPADA TUHAN](#KEDEKATAN KEPADA TUHAN)
+
+[KEKUATAN](#KEKUATAN)
+
+[KELUARGA](#KELUARGA)
+
+[KEMENANGAN AKIDAH](#KEMENANGAN AKIDAH)
+
+[KENDURI SEMBILAN BELAS HARI](#KENDURI SEMBILAN BELAS HARI)
+
+[KERIANGAN](#KERIANGAN)
+
+[KESATUAN](#KESATUAN)
+
+[KESEMBUHAN](#KESEMBUHAN)
+
+[KETAKTERIKATAN](#KETAKTERIKATAN)
+
+[KETEGUHAN DALAM WAADAT](#KETEGUHAN DALAM WAADAT)
+
+[LOH AHMAD](#LOH AHMAD)
+
+[LOH API](#LOH API)
+
+[LOH RIḌVÁN](#LOH RIḌVÁN)
+
+[LOH ZIARAH](#LOH ZIARAH)
+
+[LOH ZIARAH 'ABDU’L-BAHÁ](#LOH ZIARAH 'ABDU’L-BAHÁ)
+
+[MALAM](#MALAM)
+
+[MENGAJAR](#MENGAJAR)
+
+[NAW-RÚZ](#NAW-RÚZ)
+
+[PAGI](#PAGI)
+
+[PELOPOR](#PELOPOR)
+
+[PENGAMPUNAN](#PENGAMPUNAN)
+
+[PERJALANAN](#PERJALANAN)
+
+[PERKAHWINAN](#PERKAHWINAN)
+
+[PERLINDUNGAN](#PERLINDUNGAN)
+
+[PERTEMUAN & MAJLIS ROHANI](#PERTEMUAN & MAJLIS ROHANI)
+
+[PERTUMBUHAN ROHANI](#PERTUMBUHAN ROHANI)
+
+[PUASA](#PUASA)
+
+[PUJIAN & KESYUKURAN](#PUJIAN & KESYUKURAN)
+
+[SUAMI](#SUAMI)
+
+[UMAT MANUSIA](#UMAT MANUSIA)
+
+[UNTUK YANG MENINGGAL DUNIA](#UNTUK YANG MENINGGAL DUNIA)
+
+[WANITA](#WANITA)
+
+[WANITA YANG HAMIL](#WANITA YANG HAMIL)
+
+[WANITA YANG SAKIT](#WANITA YANG SAKIT)
+
+[ḤUQÚQU’LLÁH: HAK TUHAN](#ḤUQÚQU’LLÁH: HAK TUHAN)
+
+
+
 ## AYYÁM-I-HÁ
 
 ### <a id="bpn12192"></a> Prayer bpn12192 in Bahasa Melayu
@@ -26,6 +140,8 @@ Engkau, sesungguhnya, adalah Yang Maha Kuat, Yang Maha Tahu, Yang Maha Arif.
 
 
 
+
+
 ## BANTUAN & PERTOLONGAN
 
 ### <a id="bpn12039"></a> Prayer bpn12039 in Bahasa Melayu
@@ -35,6 +151,8 @@ Ya Tuhanku! Aku memohon kepada-Mu, dengan Nama-Mu yang teragung, untuk membantuk
 (Bahaiprayers.net ID: 12039)
 
 
+
+
 ### <a id="bpn12040"></a> Prayer bpn12040 in Bahasa Melayu
 Diagungkanlah Nama-Mu, Ya Tuhan, Tuhanku! Akulah yang telah memalingkan wajahku kepada-Mu dan telah bergantung sepenuhnya kepada-Mu. Aku memohon kepada-Mu demi Nama-Mu yang melaluinya samudera ucapan-Mu telah bergelora dan bayu-bayu ilmu-Mu telah ditiupkan, agar menyebabkan daku dibantu untuk mengabdi kepada Akidah-Mu dan diilhamkan untuk mengingati-Mu dan memuji-Mu. Turunkanlah kepadaku daripada syurga kedermawanan-Mu apa yang akan melindungiku daripada sesiapa pun kecuali Engkau dan akan menguntungkan daku di semua alam-alam-Mu. Sesungguhnya, Engkau adalah Berkuasa, Yang Tak Dapat Dicapai, Yang Tertinggi, Yang Tahu, Yang Arif.
 
@@ -42,11 +160,15 @@ Diagungkanlah Nama-Mu, Ya Tuhan, Tuhanku! Akulah yang telah memalingkan wajahku 
 (Bahaiprayers.net ID: 12040)
 
 
+
+
 ### <a id="bpn12041"></a> Prayer bpn12041 in Bahasa Melayu
 Ya Engkau Yang wajah-Nya adalah tujuan pujaanku, Yang keindahan-Nya adalah tempat perlindunganku, Yang kediaman-Nya adalah matlamat-Ku, Yang pujian-Nya adalah harapanku, Yang pemeliharaan-Nya adalah sahabatku, Yang cinta-Nya adalah punca kewujudanku, Yang sebutan-Nya adalah ketenanganku, Yang kedekatan-Nya adalah hasratku, Yang kehadiran-Nya adalah keinginanku yang terdalam dan cita-citaku yang tertinggi, aku memohon kepada-Mu agar jangan menahan daku daripada hal-hal yang telah Engkau tetapkan bagi orang-orang pilihan dalam kalangan hamba-Mu. Lalu anugerahilah daku dengan kebaikan dunia ini dan akhirat.          Sesungguhnya, Engkaulah Raja semua manusia. Tiada Tuhan selain Engkau, Yang Maha Mengampuni, Yang Maha Dermawan.
 
 (Source category: BANTUAN & PERTOLONGAN)
 (Bahaiprayers.net ID: 12041)
+
+
 
 
 ### <a id="bpn12042"></a> Prayer bpn12042 in Bahasa Melayu
@@ -59,11 +181,15 @@ Berpuaslah engkau dengan Daku dan janganlah mencari penolong yang lain. Kerana t
 (Bahaiprayers.net ID: 12042)
 
 
+
+
 ### <a id="bpn12043"></a> Prayer bpn12043 in Bahasa Melayu
 Adakah penghalau kesukaran-kesukaran selain Tuhan? Katakanlah: Terpujilah Tuhan! Dia adalah Tuhan! Semua adalah hamba-Nya dan semua tunduk pada perintah-Nya!
 
 (Source category: BANTUAN & PERTOLONGAN)
 (Bahaiprayers.net ID: 12043)
+
+
 
 
 ### <a id="bpn12044"></a> Prayer bpn12044 in Bahasa Melayu
@@ -73,6 +199,8 @@ Katakanlah: Tuhan mencukupi segala sesuatu di atas segala-galanya dan tidak ada 
 (Bahaiprayers.net ID: 12044)
 
 
+
+
 ### <a id="bpn12045"></a> Prayer bpn12045 in Bahasa Melayu
 Ya Tuhanku, Rajaku dan Tuanku! Aku telah memisahkan diriku daripada saudaraku dan mencari melalui-Mu agar menjadi bebas daripada semua yang ada di bumi dan bersiap sedia untuk menerima apa yang terpuji dalam pandangan-Mu. Kurniakanlah kepadaku kebaikan yang akan menjadikan daku bebas daripada semua kecuali Engkau, dan berikanlah daku bahagian yang besar daripada rahmat-Mu yang tak terbatas. Sesungguhnya, Engkau adalah Tuhan berkat yang tak terhingga.
 
@@ -80,11 +208,15 @@ Ya Tuhanku, Rajaku dan Tuanku! Aku telah memisahkan diriku daripada saudaraku da
 (Bahaiprayers.net ID: 12045)
 
 
+
+
 ### <a id="bpn12046"></a> Prayer bpn12046 in Bahasa Melayu
 Ya Tuhan! Izinkanlah semua manusia dunia ini untuk mendapat tempat dalam Syurga Akidah-Mu, agar tiada benda tercipta kekal jauh daripada lingkungan keredaan-Mu. Sejak zaman abadi lagi Engkau telah berkuasa untuk membuat apa sahaja yang Engkau senangi dan unggul daripada apa sahaja yang Engkau redai.
 
 (Source category: BANTUAN & PERTOLONGAN)
 (Bahaiprayers.net ID: 12046)
+
+
 
 
 ### <a id="bpn12047"></a> Prayer bpn12047 in Bahasa Melayu
@@ -98,6 +230,8 @@ Berikanlah makanan harian kami, dan kurniakanlah daripada-Mu peningkatan dalam k
 (Bahaiprayers.net ID: 12047)
 
 
+
+
 ### <a id="bpn12048"></a> Prayer bpn12048 in Bahasa Melayu
 Ya Tuhan, Tuhanku! Bantulah kekasih-kekasih-Mu untuk teguh dalam Akidah-Mu, untuk berjalan di jalan-jalan-Mu, untuk setia kepada Ajaran-Mu. Berikanlah kepada mereka kurnia-Mu untuk menahan serangan keakuan dan hawa nafsu, untuk mengikuti cahaya Bimbingan Ilahi. Engkau adalah Berkuasa, Maha Rahmat, Yang Berdiri Sendiri, Pemberi, Pengasih, Yang Maha Kuat, Yang Maha Rahmat.
 
@@ -105,11 +239,15 @@ Ya Tuhan, Tuhanku! Bantulah kekasih-kekasih-Mu untuk teguh dalam Akidah-Mu, untu
 (Bahaiprayers.net ID: 12048)
 
 
+
+
 ### <a id="bpn12049"></a> Prayer bpn12049 in Bahasa Melayu
 Ya Engkau Pembekal yang ilahi, kasihanilah kami, berikanlah pertolongan-Mu; pengembara yang tiada tempat berteduh, berikanlah perlindungan-Mu; terpisah, satukanlah Engkau kami; sesat, himpunlah kami ke lingkungan-Mu; memerlukan, kurniakanlah kepada kami bahagian dan habuan-Mu; dahaga, bimbingilah kami ke mata air Kehidupan; lemah, perkuatkanlah kami agar kami dapat bangkit untuk membantu Akidah-Mu dan menawarkan diri kami sebagai pengorbanan hidup di jalan bimbingan-Mu.
 
 (Source category: BANTUAN & PERTOLONGAN)
 (Bahaiprayers.net ID: 12049)
+
+
 
 
 
@@ -124,6 +262,8 @@ Diluhurkanlah Engkau, Ya Kekasihku Yang Tercinta, tiupkanlah kepadanya keharuman
 (Bahaiprayers.net ID: 12036)
 
 
+
+
 ### <a id="bpn12037"></a> Prayer bpn12037 in Bahasa Melayu
 Ya Tuhan yang tiada bandingan! Biarlah bayi yang sedang menyusu ini disusui daripada dada kasih sayang-Mu, jagalah dia dalam buaian keselamatan dan perlindungan-Mu dan biarlah dia diasuh dalam pelukan kasih sayang lembut-Mu.
 
@@ -131,11 +271,15 @@ Ya Tuhan yang tiada bandingan! Biarlah bayi yang sedang menyusu ini disusui dari
 (Bahaiprayers.net ID: 12037)
 
 
+
+
 ### <a id="bpn12038"></a> Prayer bpn12038 in Bahasa Melayu
 Ya Tuhan! Peliharalah bayi ini dalam dada cinta-Mu, dan berilah dia susu daripada dada Kurnia-Mu. Peliharalah pohon muda ini di taman mawar cinta-Mu dan bantulah ia tumbuh melalui hujan rahmat-Mu. Jadikanlah dia anak kerajaan, dan bimbinglah dia ke alam syurgawi-Mu. Engkau sesungguhnya berkuasa dan pemurah, dan Engkau adalah Pemberi, Dermawan, Raja rahmat yang berlimpah-limpah.
 
 (Source category: BAYI YANG MENYUSU)
 (Bahaiprayers.net ID: 12038)
+
+
 
 
 
@@ -151,6 +295,8 @@ Oleh sebab itu, aku memohon kepada-Mu, demi nama-Mu yang melaluinya Engkau telah
 
 
 
+
+
 ## BELIA
 
 ### <a id="bpn12051"></a> Prayer bpn12051 in Bahasa Melayu
@@ -160,11 +306,15 @@ Diberkatilah  dia yang dalam kemuncak zaman belianya dan kegemilangan hidupnya b
 (Bahaiprayers.net ID: 12051)
 
 
+
+
 ### <a id="bpn12052"></a> Prayer bpn12052 in Bahasa Melayu
 Ya Tuhan! Jadikanlah pemuda ini cemerlang, dan kurniakanlah rahmat-Mu kepada insan miskin ini. Anugerahkanlah kepadanya ilmu, kurniakanlah kepadanya kekuatan yang lebih pada setiap fajar dan lindungilah dia di bawah naungan perlindungan-Mu agar dia dapat dibebaskan daripada kesalahan, dapat mengabdikan diri kepada khidmat Akidah-Mu, dapat membimbingi yang sesat, memimpin yang malang, membebaskan yang tertawan dan menyedarkan yang alpa, agar semuanya dapat diberkati dengan ingatan dan pujian-Mu. Engkaulah Yang Maha Kuat dan Maha Kuasa.
 
 (Source category: BELIA)
 (Bahaiprayers.net ID: 12052)
+
+
 
 
 ### <a id="bpn12053"></a> Prayer bpn12053 in Bahasa Melayu
@@ -179,6 +329,8 @@ Engkaulah yang Maha Kuat dan Berkuasa; Engkaulah Pemberi dan Yang Maha Penyayang
 
 
 
+
+
 ## BERKAT
 
 ### <a id="bpn12054"></a> Prayer bpn12054 in Bahasa Melayu
@@ -186,6 +338,8 @@ Diberkatilah titik, dan rumah, dan tempat, dan kota, dan hati, dan gunung, dan p
 
 (Source category: BERKAT)
 (Bahaiprayers.net ID: 12054)
+
+
 
 
 
@@ -198,6 +352,8 @@ Kita berdoa kepada Tuhan agar dengan murah hati membantu mereka yang sudah terse
 (Bahaiprayers.net ID: 12055)
 
 
+
+
 ### <a id="bpn12056"></a> Prayer bpn12056 in Bahasa Melayu
 Ya Engkau Pembekal Suci! Kurniailah Engkau dalam segala benda kesucian dan kebersihan kepada orang-orang Bahá. Jadikanlah mereka bebas daripada semua kotoran, dan lepaskan mereka daripada semua ketagihan. Selamatkanlah mereka daripada melakukan sebarang tindakan yang menjijikkan, putuskanlah mereka daripada ikatan setiap tabiat jahat, supaya mereka dapat hidup dalam kemurnian dan kebebasan, baik dan bersih, layak untuk mengabdi kepada Ambang Kesucian-Mu dan sesuai untuk dihubungkan dengan Tuhan mereka.
 
@@ -207,11 +363,15 @@ Bebaskanlah mereka daripada minuman-minuman dan tembakau yang memabukkan, jagala
 (Bahaiprayers.net ID: 12056)
 
 
+
+
 ### <a id="bpn12057"></a> Prayer bpn12057 in Bahasa Melayu
 Maka kerahkanlah usaha yang besar agar kemurnian dan kesucian, yang disukai 'Abdu'l-Bahá atas segala benda, akan membezakan orang-orang Bahá; agar dalam setiap jenis kecemerlangan rakan-rakan Tuhan akan mengatasi manusia yang lain; agar secara luaran dan dalaman mereka akan terbukti unggul daripada yang lain; agar demi kemurnian, kesempurnaan, kehalusan, dan pemeliharaan kesihatan, mereka akan menjadi pemimpin di barisan depan mereka yang ketahui. Dan agar melalui kebebasan mereka daripada perhambaan, ilmu pengetahuan, ketahanan diri, mereka akan menjadi yang pertama dalam kalangan yang suci, yang bebas dan yang arif.
 
 (Source category: BIMBINGAN)
 (Bahaiprayers.net ID: 12057)
+
+
 
 
 
@@ -224,6 +384,8 @@ Maka, sebabkanlah daku menghadap sepenuhnya kepada-Mu, dengan meletakkan keperca
 
 (Source category: CUBAAN & KESUKARAN)
 (Bahaiprayers.net ID: 12058)
+
+
 
 
 ### <a id="bpn12059"></a> Prayer bpn12059 in Bahasa Melayu
@@ -239,6 +401,8 @@ Berkuasalah Engkau untuk melakukan apa yang Engkau redai. Tiada Tuhan melainkan 
 (Bahaiprayers.net ID: 12059)
 
 
+
+
 ### <a id="bpn12060"></a> Prayer bpn12060 in Bahasa Melayu
 Hilangkanlah duka laraku dengan rahmat-Mu dan kedermawanan-Mu, Ya Tuhan, Tuhanku, dan hapuskanlah kesengsaraanku melalui kedaulatan-Mu dan kekuatan-Mu. Engkau melihatku, Ya Tuhanku, dengan wajahku memaling kepada-Mu apabila kesedihan mengelilingiku dari semua penjuru. Aku memohon kepada-Mu, Ya Engkau Yang adalah Tuhan sekalian makhluk, dan melindungi semua benda yang kelihatan mahupun yang ghaib, demi Nama-Mu dengannya Engkau telah menakluki kalbu-kalbu dan jiwa-jiwa manusia, dan demi gelombang Samudera rahmat-Mu dan kecemerlangan Suria anugerah-Mu, untuk memasukkan daku dalam kalangan mereka yang tiada apa pun yang dapat menghalang mereka daripada memalingkan wajah mereka kepada-Mu, Ya Engkau Tuhan segala nama dan Pencipta syurga.
 
@@ -250,11 +414,15 @@ Dan akhirnya, aku merayu kepada-Mu demi cahaya wajah-Mu untuk memberkati hal ehw
 (Bahaiprayers.net ID: 12060)
 
 
+
+
 ### <a id="bpn12061"></a> Prayer bpn12061 in Bahasa Melayu
 Ya Engkau Yang cubaan-cubaan-Nya adalah ubat penyembuh bagi mereka yang dekat kepada-Mu, Yang pedang-Nya adalah hasrat terdalam bagi semua mereka yang mencintai-Mu, Yang anak panah-Nya adalah keinginan tertinggi bagi kalbu-kalbu mereka yang merindui-Mu, Yang perintah-Nya adalah satu-satunya harapan bagi mereka yang telah mengenal kebenaran-Mu! Aku memohon kepada-Mu demi kemanisan  ilahi-Mu dan demi kecemerlangan kemuliaan wajah-Mu, agar menurunkan kepada kami dari tempat tinggal-Mu yang tinggi, apa yang akan membolehkan kami untuk mendekati-Mu. Maka Ya Tuhanku, teguhkanlah langkah-langkah kami dalam Akidah-Mu, dan sinarilah kalbu-kalbu kami dengan kecemerlangan ilmu-Mu, dan terangilah dada kami dengan kegemilangan nama-nama-Mu.
 
 (Source category: CUBAAN & KESUKARAN)
 (Bahaiprayers.net ID: 12061)
+
+
 
 
 ### <a id="bpn12064"></a> Prayer bpn12064 in Bahasa Melayu
@@ -272,6 +440,8 @@ Ya Engkau Yang cubaan-cubaan-Nya adalah ubat penyembuh bagi mereka yang dekat ke
 (Bahaiprayers.net ID: 12064)
 
 
+
+
 ### <a id="bpn12062"></a> Prayer bpn12062 in Bahasa Melayu
 Aku merayu kepada-Mu demi kekuatan-Mu, Ya Tuhanku! Janganlah membiarkan kecelakaan menimpa diriku pada masa-masa cubaan, dan pada detik-detik kelalaian bimbingilah langkah-langkahku agar betul melalui ilham-Mu.        Engkaulah Tuhan, berkuasalah Engkau untuk melakukan apa yang Engkau hasratkan. Tiada lain yang dapat menahan kehendak-Mu atau menggagalkan tujuan-Mu.
 
@@ -279,11 +449,15 @@ Aku merayu kepada-Mu demi kekuatan-Mu, Ya Tuhanku! Janganlah membiarkan kecelaka
 (Bahaiprayers.net ID: 12062)
 
 
+
+
 ### <a id="bpn12063"></a> Prayer bpn12063 in Bahasa Melayu
 Ya Tuhan! Engkaulah Penghapus setiap kesengsaraan dan Penghalau setiap penderitaan. Engkaulah Dia Yang membuang setiap kesedihan dan membebaskan setiap hamba abdi, Penebus setiap roh. Ya Tuhan! Berikanlah penyelamatan melalui belas kasihan-Mu, dan tetapkanlah daku dalam kalangan hamba-Mu yang telah memperoleh keselamatan.
 
 (Source category: CUBAAN & KESUKARAN)
 (Bahaiprayers.net ID: 12063)
+
+
 
 
 ### <a id="bpn12065"></a> Prayer bpn12065 in Bahasa Melayu
@@ -297,11 +471,15 @@ Sesungguhnya, Engkaulah Pelindung, Penjaga, Pemelihara, Pencukup, dan sesungguhn
 (Bahaiprayers.net ID: 12065)
 
 
+
+
 ### <a id="bpn12066"></a> Prayer bpn12066 in Bahasa Melayu
 *”Janganlah bersedih atas penderitaan dan bencana yang telah menimpa dirimu. Semua bencana dan penderitaan telah diciptakan bagi manusia agar dia menolak dunia yang fana ini, iaitu dunia yang sangat dicintainya. Ketika manusia mengalami cubaan dan kesukaran yang hebat, barulah jiwanya akan mundur daripada keduniawian dan dia akan menginginkan Kerajaan Abadi, iaitu Kerajaan yang disucikan daripada semua penderitaan dan bencana.”
 
 (Source category: CUBAAN & KESUKARAN)
 (Bahaiprayers.net ID: 12066)
+
+
 
 
 
@@ -312,6 +490,8 @@ Sesungguhnya, Engkaulah Pelindung, Penjaga, Pemelihara, Pencukup, dan sesungguhn
 
 (Source category: DANA & REZEKI)
 (Bahaiprayers.net ID: 12067)
+
+
 
 
 ### <a id="bpn12068"></a> Prayer bpn12068 in Bahasa Melayu
@@ -326,6 +506,8 @@ Sesungguhnya, Engkaulah Pembekal, Penolong, Dermawan, Maha Rahim, Maha Pemberi.
 
 (Source category: DANA & REZEKI)
 (Bahaiprayers.net ID: 12068)
+
+
 
 
 
@@ -357,6 +539,8 @@ Kami semua, sesungguhnya, bersabar demi Tuhan.
 
 (Source category: DOA JENAZAH)
 (Bahaiprayers.net ID: 12187)
+
+
 
 
 
@@ -461,6 +645,8 @@ Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Mencukupi, Sang Penyembuh, Pe
 
 
 
+
+
 ## DOA TENGAH MALAM
 
 ### <a id="bpn12129"></a> Prayer bpn12129 in Bahasa Melayu
@@ -472,6 +658,8 @@ Sesungguhnya, Engkaulah Pemberi, Yang Dermawan, Penyayang, Pengampun!
 
 (Source category: DOA TENGAH MALAM)
 (Bahaiprayers.net ID: 12129)
+
+
 
 
 
@@ -508,6 +696,8 @@ Sesungguhnya, Engkaulah Pemberi, Yang Dermawan, Penyayang, Pengampun!
 
 (Source category: DOA WAJIB MENENGAH)
 (Bahaiprayers.net ID: 12034)
+
+
 
 
 
@@ -574,6 +764,8 @@ Ya Tuhan, Tuhanku! Belakangku telah dibongkokkan oleh beban dosaku dan kelalaian
 
 
 
+
+
 ## DOA WAJIB PENDEK
 
 ### <a id="bpn12033"></a> Prayer bpn12033 in Bahasa Melayu
@@ -602,6 +794,8 @@ Ya Tuhan, Tuhanku! Belakangku telah dibongkokkan oleh beban dosaku dan kelalaian
 
 
 
+
+
 ## Dituliskan kepada rakan-rakan Bahá'í di Amerika Syarikat dan Kanada
 
 ### <a id="bpn12147"></a> Prayer bpn12147 in Bahasa Melayu
@@ -616,6 +810,8 @@ Sesungguhnya, Engkaulah Pengesah kepada sesiapa pun yang Engkau kehendaki dalam 
 
 (Source category: Dituliskan kepada rakan-rakan Bahá'í di Amerika Syarikat dan Kanada)
 (Bahaiprayers.net ID: 12147)
+
+
 
 
 ### <a id="bpn12148"></a> Prayer bpn12148 in Bahasa Melayu
@@ -638,6 +834,8 @@ Sesungguhnya, Engkaulah Maha Pengampun, Yang Maha Kuasa, Yang Maha Kuat dan Yang
 
 
 
+
+
 ## Dituliskan kepada rakan-rakan Bahá'í di Negara-Negara Selatan
 
 ### <a id="bpn12202"></a> Prayer bpn12202 in Bahasa Melayu
@@ -649,6 +847,8 @@ Engkaulah Maha Kuasa dan Pembuat apa sahaja yang Engkau kehendaki.
 
 (Source category: Dituliskan kepada rakan-rakan Bahá'í di Negara-Negara Selatan)
 (Bahaiprayers.net ID: 12202)
+
+
 
 
 
@@ -667,6 +867,8 @@ Sesungguhnya, Engkau Tuhan dan Raja sekalian manusia dan berkuasa ke atas segala
 (Bahaiprayers.net ID: 12069)
 
 
+
+
 ### <a id="bpn12070"></a> Prayer bpn12070 in Bahasa Melayu
 ”Sering kali pada waktu fajar Aku telah berpaling daripada alam-alam Ghaib ke kediamanmu, dan menemui engkau di atas katil kesenanganmu menyibukkan diri dengan orang lain melainkan Daku. Lalu sepantas kilat roh, Aku telah kembali ke alam kemuliaan syurgawi dan tidak menyebutkan hal ini kepada para penghuni kesucian di kediaman-Ku di atas.”
 
@@ -679,6 +881,8 @@ Sesungguhnya, Engkau Tuhan dan Raja sekalian manusia dan berkuasa ke atas segala
 
 
 
+
+
 ## IBU BAPA
 
 ### <a id="bpn12073"></a> Prayer bpn12073 in Bahasa Melayu
@@ -688,6 +892,8 @@ Engkau lihat, Ya Tuhan, tangan rendah diri kami diangkatkan ke arah syurga kurni
 (Bahaiprayers.net ID: 12073)
 
 
+
+
 ### <a id="bpn12074"></a> Prayer bpn12074 in Bahasa Melayu
 ”Adalah patut bagi hamba Tuhan, selepas setiap doa, memohon kepada Tuhan agar memberikan belas kasihan dan pengampunan kepada ibu bapanya.  Kemudian seruan Tuhan akan dikumandangkan: ‘Beribu-ribu permohonanmu untuk ibu bapamu akan menjadi ganjaranmu!’ Diberkatilah dia yang mengingati ibu bapanya semasa berhubung dengan Tuhan. Tidak ada Tuhan melainkan-Nya, Yang Berkuasa, Yang Dikasihi.”
 
@@ -695,11 +901,15 @@ Engkau lihat, Ya Tuhan, tangan rendah diri kami diangkatkan ke arah syurga kurni
 (Bahaiprayers.net ID: 12074)
 
 
+
+
 ### <a id="bpn12075"></a> Prayer bpn12075 in Bahasa Melayu
 Aku memohon kemaafan-Mu, Ya Tuhanku, dan merayu pengampunan-Mu sebagaimana Engkau menginginkan hamba-hamba-Mu menghadap kepada-Mu. Aku merayu kepada-Mu agar menghapuskan dosa-dosa kami sesuai dengan martabat Ketuhanan-Mu, dan agar mengampuni daku, ibu bapaku, dan mereka yang menurut perhitungan-Mu telah memasuki tempat tinggal cinta-Mu, dengan cara yang layak bagi kedaulatan-Mu yang luhur dan patut bagi kekuasaan syurgawi-Mu yang mulia. Ya Tuhanku, Engkau telah mengilhami jiwaku untuk memohon kepada-Mu dan jika tidak kerana-Mu, aku tidak akan memanggil-Mu. Dimuliakanlah dan diluhurkanlah Engkau; aku bersyukur kepada-Mu kerana Engkau telah menjelmakan Diri-Mu kepadaku dan aku memohon kepada-Mu untuk mengampuni daku kerana aku telah melalaikan kewajipanku untuk mengenal-Mu dan telah gagal untuk berjalan di jalan cinta-Mu.
 
 (Source category: IBU BAPA)
 (Bahaiprayers.net ID: 12075)
+
+
 
 
 ### <a id="bpn12076"></a> Prayer bpn12076 in Bahasa Melayu
@@ -710,11 +920,15 @@ Ya Tuhan! Dalam Dispensasi yang Maha Agung ini Engkau telah menerima permohonan 
 (Bahaiprayers.net ID: 12076)
 
 
+
+
 ### <a id="bpn12077"></a> Prayer bpn12077 in Bahasa Melayu
 ”Jika engkau menunjukkan kebaikan hati dan       bertimbang rasa kepada ibu bapamu sehingga mereka berasa gembira, ia juga akan menggembirakan Daku, kerana ibu bapa harus amat dihormati dan adalah penting bagi mereka untuk berasa puas hati, kecuali apabila mereka menghalangmu untuk mencapai Ambang Yang Maha Berkuasa, atau menahanmu daripada berjalan di jalan Kerajaan.”
 
 (Source category: IBU BAPA)
 (Bahaiprayers.net ID: 12077)
+
+
 
 
 
@@ -729,6 +943,8 @@ Aku memohon kepada-Mu demi Nama-Mu, dengannya semua orang dibolehkan untuk menca
 (Bahaiprayers.net ID: 12078)
 
 
+
+
 ### <a id="bpn12079"></a> Prayer bpn12079 in Bahasa Melayu
 ”Berkenaan kanak-kanak: Kami telah          mengarahkan bahawa dari usia awal lagi mereka haruslah dilatih dalam amalan-amalan dan hukum-hukum agama; dan kemudiannya, dalam cabang-cabang ilmu pengetahuan yang bermanfaat, dan dalam perdagangan yang dibezakan oleh keluhurannya, dan dalam perlakuan-perlakuan yang akan melanjutkan kemenangan Akidah Tuhan atau akan menarik hasil-hasil yang akan mendekatkan seorang penganut kepada Tuhannya.”
 
@@ -740,6 +956,8 @@ Aku memohon kepada-Mu demi Nama-Mu, dengannya semua orang dibolehkan untuk menca
 (Bahaiprayers.net ID: 12079)
 
 
+
+
 ### <a id="bpn12080"></a> Prayer bpn12080 in Bahasa Melayu
 Ya Tuhan, bimbinglah daku, lindungilah daku, jadikanlah daku satu lampu bersinar dan satu bintang cemerlang. Engkaulah Maha Kuasa dan Maha Kuat.
 
@@ -747,11 +965,15 @@ Ya Tuhan, bimbinglah daku, lindungilah daku, jadikanlah daku satu lampu bersinar
 (Bahaiprayers.net ID: 12080)
 
 
+
+
 ### <a id="bpn12081"></a> Prayer bpn12081 in Bahasa Melayu
 Dialah Tuhan! Ya Tuhan, Tuhanku! Kurniakanlah ke atas daku hati yang murni, bagaikan sebutir mutiara.
 
 (Source category: KANAK-KANAK)
 (Bahaiprayers.net ID: 12081)
+
+
 
 
 ### <a id="bpn12082"></a> Prayer bpn12082 in Bahasa Melayu
@@ -764,6 +986,8 @@ Yá Bahá’u’l-Abhá!
 (Bahaiprayers.net ID: 12082)
 
 
+
+
 ### <a id="bpn12083"></a> Prayer bpn12083 in Bahasa Melayu
 Ya Tuhanku! Ya Tuhanku! Aku adalah anak yang muda. Asuhlah daku daripada dada belas kasihan-Mu, latihlah daku dalam pelukan cinta-Mu, didiklah daku dalam sekolah bimbingan-Mu dan besarkanlah daku di bawah naungan rahmat-Mu. Keluarkanlah daku daripada kegelapan, jadikanlah daku cahaya yang cemerlang; bebaskanlah daku daripada kesedihan, jadikanlah daku bunga di taman mawar; sebabkanlah daku menjadi seorang hamba di ambang-Mu dan anugerahkanlah ke atas daku kecenderungan dan sifat mereka yang lurus; jadikanlah daku punca rahmat kepada dunia kemanusiaan, dan nobatkanlah daku dengan mahkota kehidupan.
 
@@ -773,11 +997,15 @@ Sesungguhnya, Engkau adalah Yang Berkuasa, Yang Kuat, Yang Melihat, Yang Mendeng
 (Bahaiprayers.net ID: 12083)
 
 
+
+
 ### <a id="bpn12084"></a> Prayer bpn12084 in Bahasa Melayu
 Ya Tuhan yang Tiada Bandingan! Jadilah Engkau tempat teduh kepada kanak-kanak yang kasihan ini dan Raja yang baik dan pemaaf kepada jiwa yang bersalah dan tidak gembira ini. Ya Tuhan! Walau kami hanyalah tumbuh-tumbuhan yang tak bernilai, tetapi kami berasal dari taman mawar-Mu. Walaupun pohon muda tanpa daun dan bunga, tetapi kami sebahagian daripada kebun-Mu. Asuhlah tumbuh-tumbuhan ini melalui curahan awan belas kasihan-Mu dan perkuatkan dan segarkanlah pohon muda ini melalui nafas penghidup musim bunga rohani-Mu. Sebabkanlah dia menjadi sedar, arif dan mulia, dan kurniakanlah agar dia dapat mencapai kehidupan abadi dan menetap dalam Kerajaan-Mu selama-lamanya.
 
 (Source category: KANAK-KANAK)
 (Bahaiprayers.net ID: 12084)
+
+
 
 
 ### <a id="bpn12085"></a> Prayer bpn12085 in Bahasa Melayu
@@ -787,11 +1015,15 @@ Ya Engkau Tuhan yang maha mulia! Jadikanlah dayang-Mu yang muda ini diberkati da
 (Bahaiprayers.net ID: 12085)
 
 
+
+
 ### <a id="bpn12086"></a> Prayer bpn12086 in Bahasa Melayu
 Ya Tuhan! Didiklah kanak-kanak ini. Kanak-kanak ini ialah pohon-pohon dalam kebun-Mu, bunga-bunga dalam halaman-Mu, bunga-bunga mawar dalam taman-Mu. Turunkanlah hujan-Mu pada mereka; pancarkanlah Matahari Kebenaran pada mereka dengan cinta-Mu. Biarlah hembusan-Mu menyegarkan mereka, supaya mereka dapat dididik, tumbuh dan berkembang serta kelihatan seindah-indahnya. Engkaulah Maha Pemberi. Engkaulah Maha Pengasih.
 
 (Source category: KANAK-KANAK)
 (Bahaiprayers.net ID: 12086)
+
+
 
 
 ### <a id="bpn12087"></a> Prayer bpn12087 in Bahasa Melayu
@@ -805,6 +1037,8 @@ Engkau Yang Maha Kuasa, Yang Maha Pengasih.
 (Bahaiprayers.net ID: 12087)
 
 
+
+
 ### <a id="bpn12088"></a> Prayer bpn12088 in Bahasa Melayu
 Ya Tuhan yang Pengasih! Kanak-kanak comel ini adalah karya jari-jari-Mu yang berkuasa dan tanda-tanda yang indah daripada kebesaran-Mu. Ya Tuhan! Lindungilah kanak-kanak ini dan bantulah mereka dengan kasih sayang-Mu agar mereka dapat dididik dan dapat berkhidmat kepada umat manusia. Ya Tuhan! Kanak-kanak ini bagaikan mutiara, peliharalah mereka dalam cangkerang kasih sayang-Mu. Engkaulah Pemberi, Yang Maha Pengasih.
 
@@ -812,11 +1046,15 @@ Ya Tuhan yang Pengasih! Kanak-kanak comel ini adalah karya jari-jari-Mu yang ber
 (Bahaiprayers.net ID: 12088)
 
 
+
+
 ### <a id="bpn12089"></a> Prayer bpn12089 in Bahasa Melayu
 ”...dari permulaannya, kanak-kanak harus               menerima pendidikan rohani dan harus sentiasa dinasihati untuk mengingati Tuhan. Biarlah cinta kepada Tuhan memenuhi jiwa terdalam mereka.”
 
 (Source category: KANAK-KANAK)
 (Bahaiprayers.net ID: 12089)
+
+
 
 
 
@@ -833,6 +1071,8 @@ Sesungguhnya, Engkaulah Pemaaf Selalu, Yang Paling Mengasihani.
 (Bahaiprayers.net ID: 12090)
 
 
+
+
 ### <a id="bpn12091"></a> Prayer bpn12091 in Bahasa Melayu
 Dia adalah Belas Kasihan, Yang Maha Rahim! Ya Tuhan, Tuhanku! Engkau melihatku, Engkau mengenalku; Engkaulah Pelindung dan Penaungku. Tiada yang telahku cari mahupun akan daku mencari selain Engkau; tiada jalan yang telahku jejaki mahupun akan daku menjejaki selain jalan cinta-Mu. Dalam kegelapan malam yang penuh putus asa, mataku menunggu-nunggu dan berpaling dengan penuh harapan kepada pagi rahmat-Mu yang tak terhingga dan pada waktu fajar rohku yang lemah telah disegarkan dan diperkuatkan melalui pengingatan kepada keindahan dan kesempurnaan-Mu. Dia yang dibantu oleh kurnia belas kasihan-Mu, walaupun dia hanyalah setitis, akan menjadi samudera yang tak terbatas, dan atom yang paling kecil jika dibantu oleh kasih sayang-Mu, akan bersinar bagaikan bintang yang cemerlang.
 
@@ -840,6 +1080,8 @@ Naungilah di bawah perlindungan-Mu, Ya Engkau Semangat kesucian, Engkau Yang ada
 
 (Source category: KEDEKATAN KEPADA TUHAN)
 (Bahaiprayers.net ID: 12091)
+
+
 
 
 
@@ -860,6 +1102,8 @@ Naungilah di bawah perlindungan-Mu, Ya Engkau Semangat kesucian, Engkau Yang ada
 (Bahaiprayers.net ID: 12092)
 
 
+
+
 ### <a id="bpn12093"></a> Prayer bpn12093 in Bahasa Melayu
 Ya Tuhan! Kami lemah; berilah kami kekuatan. Kami miskin; anugerahilah kami dengan kekayaan-Mu yang tak terbatas. Kami sakit; berilah kami kesembuhan ketuhanan-Mu. Kami tak berdaya; berilah kami kekuatan syurgawi-Mu. Ya Tuhan! Jadikanlah kami berguna di dunia ini; bebaskanlah kami daripada keakuan dan hawa nafsu. Ya Tuhan! Jadikanlah kami teguh dalam cinta-Mu dan bolehkanlah kami mencintai seluruh umat manusia. Bantulah kami dalam pengabdian kepada dunia kemanusiaan agar kami dapat menjadi hamba kepada hamba-hamba-Mu, agar kami dapat mencintai semua makhluk-Mu dan mengasihi seluruh umat-Mu.
 
@@ -869,11 +1113,15 @@ Ya Tuhan! Engkaulah Maha Perkasa! Engkaulah Maha Pengasih! Engkaulah Maha Pengam
 (Bahaiprayers.net ID: 12093)
 
 
+
+
 ### <a id="bpn12094"></a> Prayer bpn12094 in Bahasa Melayu
 Ya Tuhan! Kami lemah; perkuatkanlah kami. Ya Tuhan! Kami jahil; jadikanlah kami berilmu; Ya Tuhan! Kami miskin; jadikanlah kami kaya. Ya Tuhan! Kami mati; hidupkanlah kami. Ya Tuhan! Kami sangat hina; muliakanlah kami di kerajaan-Mu. Jika Engkau membantu kami, kami akan menjadi bagai bintang yang berkilauan. Jika Engkau tidak membantu kami, kami akan menjadi lebih rendah daripada bumi. Ya Tuhan! Perkuatkanlah kami. Ya Tuhan! Berilah kami kemenangan. Ya Tuhan! Bolehkanlah kami untuk menakluki keakuan dan mengatasi hawa nafsu. Ya Tuhan! Bebaskanlah kami daripada ikatan dunia kebendaan. Ya Tuhan! Hidupkanlah kami melalui hembusan Roh Suci supaya kami dapat bangkit untuk mengabdi kepada-Mu, asyik dalam menyembah-Mu dan berusaha sekuat tenaga dalam kerajaan-Mu dengan penuh keikhlasan. Ya Tuhan! Engkaulah Maha Kuasa! Ya Tuhan, Engkaulah Maha Pengampun! Ya Tuhan! Engkaulah Maha Pengasih!
 
 (Source category: KEKUATAN)
 (Bahaiprayers.net ID: 12094)
+
+
 
 
 
@@ -889,6 +1137,8 @@ Sesungguhnya, Engkaulah Tuhan seluruh umat manusia, dan Pemilik dunia ini dan ak
 (Bahaiprayers.net ID: 12095)
 
 
+
+
 ### <a id="bpn12096"></a> Prayer bpn12096 in Bahasa Melayu
 Kemuliaan bagi-Mu, Ya Tuhan, Tuhanku! Aku memohon kepada-Mu agar mengampuni daku dan mereka yang membantu Akidah-Mu. Sesungguhnya, Engkaulah Raja yang berdaulat, Pengampun, Yang Maha Dermawan. Ya Tuhanku! Bolehkanlah hamba-hamba-Mu yang jahil untuk memasuki Akidah-Mu; kerana setelah mereka mengenal-Mu, mereka naik saksi akan kebenaran Hari Kiamat dan tidak akan membantah penjelmaan-penjelmaan rahmat-Mu. Turunkanlah kepada mereka tanda-tanda kurnia-Mu, dan berikanlah kepada mereka di mana sahaja mereka berada, bahagian yang besar daripada apa yang telah Engkau tetapkan bagi hamba-hamba-Mu yang suci. Sesungguhnya, Engkaulah Raja Yang Agung, Yang Maha Pemberi, Maha Dermawan.
 
@@ -898,11 +1148,15 @@ Ya Tuhanku! Biarkanlah curahan dari pemberian dan rahmat-Mu turun kepada rumah-r
 (Bahaiprayers.net ID: 12096)
 
 
+
+
 ### <a id="bpn12097"></a> Prayer bpn12097 in Bahasa Melayu
 ”Diberkatilah rumah yang telah mencapai rahmat-Mu yang mesra, yang dalamnya pengingatan-Ku dirayakan; yang menjadi mulia kerana kehadiran kekasih-kekasih-Ku yang mengumandangkan pujian-Ku, yang berpegang erat kepada tali kurnia-Ku dan yang diberi kehormatan kerana menyanyikan ayat-ayat-Ku.”
 
 (Source category: KELUARGA)
 (Bahaiprayers.net ID: 12097)
+
+
 
 
 
@@ -915,6 +1169,8 @@ Berkuasalah Engkau untuk membuat apa yang Engkau redai. Sesungguhnya, Engkaulah 
 
 (Source category: KEMENANGAN AKIDAH)
 (Bahaiprayers.net ID: 12098)
+
+
 
 
 ### <a id="bpn12099"></a> Prayer bpn12099 in Bahasa Melayu
@@ -930,6 +1186,8 @@ Bolehkanlah, Ya Tuhan, agar kalbu-kalbu mereka menjadi lebih kuat daripada apa p
 (Bahaiprayers.net ID: 12099)
 
 
+
+
 ### <a id="bpn12100"></a> Prayer bpn12100 in Bahasa Melayu
 Ya Tuhan! Bolehkanlah semua manusia di bumi untuk memasuki Syurga Akidah-Mu, agar tiada benda tercipta kekal jauh daripada batas keredaan-Mu.
 
@@ -940,6 +1198,8 @@ Sejak azali Engkau berkuasa untuk membuat apa yang Engkau redai dan maha tinggi 
 
 
 
+
+
 ## KENDURI SEMBILAN BELAS HARI
 
 ### <a id="bpn12169"></a> Prayer bpn12169 in Bahasa Melayu
@@ -947,6 +1207,8 @@ Ya Tuhan! Hilangkanlah semua unsur-unsur yang menyebabkan perselisihan, dan sedi
 
 (Source category: KENDURI SEMBILAN BELAS HARI)
 (Bahaiprayers.net ID: 12169)
+
+
 
 
 
@@ -967,12 +1229,16 @@ Ya Tuhan! Hilangkanlah semua unsur-unsur yang menyebabkan perselisihan, dan sedi
 (Bahaiprayers.net ID: 12101)
 
 
+
+
 ### <a id="bpn12102"></a> Prayer bpn12102 in Bahasa Melayu
 Jadikanlah daku bersedia, dalam segala keadaan, Ya Tuhanku, untuk mengabdi kepada-Mu dan untuk menetapkan diriku pada tempat suci Wahyu-Mu dan Keindahan-Mu yang dikasihi. Jika ia adalah keredaan-Mu, jadikanlah daku tumbuh bagaikan herba yang muda di padang kurnia-Mu, agar angin lembut kehendak-Mu akan bertiup ke atas diriku dan menundukkan daku mengikut keredaan-Mu, agar pergerakanku dan kesenyapanku akan diarahkan sepenuhnya oleh-Mu.
 ~ Bahá’u’lláh
 
 (Source category: KERIANGAN)
 (Bahaiprayers.net ID: 12102)
+
+
 
 
 ### <a id="bpn12103"></a> Prayer bpn12103 in Bahasa Melayu
@@ -984,11 +1250,15 @@ Wujudkanlah dalam diriku hati yang suci, Ya Tuhanku, dan baharuilah satu suara h
 (Bahaiprayers.net ID: 12103)
 
 
+
+
 ### <a id="bpn12104"></a> Prayer bpn12104 in Bahasa Melayu
 Ya Tuhan! Segarkan dan riangkanlah  jiwaku, murnikanlah hatiku, terangilah kuasa-kuasaku. Aku menyerahkan segala urusanku ke dalam tangan-Mu. Engkau adalah Pembimbing dan Pelindungku. Aku tidak akan lagi bersedih dan susah hati. Aku akan menjadi manusia yang riang dan gembira. Ya Tuhan, aku tidak akan lagi diliputi rasa cemas, mahupun membiarkan kesusahan membingungkan daku. Aku tidak akan memikirkan soal-soal kehidupan yang tidak menyenangkan. Ya Tuhan, Engkau lebih akrab kepadaku daripada aku kepada diriku sendiri. Aku menyerahkan diriku kepada-Mu, Ya Tuhan.
 
 (Source category: KERIANGAN)
 (Bahaiprayers.net ID: 12104)
+
+
 
 
 ### <a id="bpn12105"></a> Prayer bpn12105 in Bahasa Melayu
@@ -1003,6 +1273,8 @@ Sesungguhnya, Engkaulah Maha Perkasa, Yang Maha Mulia dan Yang Maha Kuasa.
 
 
 
+
+
 ## KESATUAN
 
 ### <a id="bpn12106"></a> Prayer bpn12106 in Bahasa Melayu
@@ -1010,6 +1282,8 @@ Ya Tuhanku! Ya Tuhanku! Persatukanlah hati hamba-hamba-Mu, dan perlihatkanlah ke
 
 (Source category: KESATUAN)
 (Bahaiprayers.net ID: 12106)
+
+
 
 
 ### <a id="bpn12107"></a> Prayer bpn12107 in Bahasa Melayu
@@ -1021,6 +1295,8 @@ Ya Tuhan, ciptakanlah dalam kalbu-kalbu kekasih-Mu api cinta-Mu, agar ia dapat m
 (Bahaiprayers.net ID: 12107)
 
 
+
+
 ### <a id="bpn12108"></a> Prayer bpn12108 in Bahasa Melayu
 Tuhan mengurniakan agar cahaya kesatuan dapat menyelubungi seluruh bumi, dan agar mohor, “Kerajaan adalah milik Tuhan”, dapat dicapkan pada dahi semua manusia.
 
@@ -1028,11 +1304,15 @@ Tuhan mengurniakan agar cahaya kesatuan dapat menyelubungi seluruh bumi, dan aga
 (Bahaiprayers.net ID: 12108)
 
 
+
+
 ### <a id="bpn12109"></a> Prayer bpn12109 in Bahasa Melayu
 ”Jika ada perselisihan timbul antara dirimu, lihatlah Daku berdiri di hadapanmu, dan lupakanlah kesalahan-kesalahan satu sama lain demi kepentingan Nama-Ku dan sebagai tanda cintamu kepada Akidah-Ku yang nyata dan cemerlang. Kami suka sekali melihat engkau sentiasa bergaul dalam persahabatan dan keharmonian dalam syurga kerelaan-Ku, dan        menikmati dalam perbuatan-perbuatanmu kemesraan dan kesatuan, kasih sayang dan persaudaraan. Demikianlah Yang Maha Mengetahui, Yang Maha Setia menasihatimu. Kami akan selalu bersamamu; jikalau Kami menikmati kewangian persahabatanmu, kalbu Kami pasti akan bersuka ria, kerana tiada lain yang dapat memuaskan Kami…”
 
 (Source category: KESATUAN)
 (Bahaiprayers.net ID: 12109)
+
+
 
 
 ### <a id="bpn12110"></a> Prayer bpn12110 in Bahasa Melayu
@@ -1049,6 +1329,8 @@ Ya Raja, Tuhan! Jadikanlah kami sebagai ombak di laut, bunga-bunga di taman, ber
 
 
 
+
+
 ## KESEMBUHAN
 
 ### <a id="bpn12111"></a> Prayer bpn12111 in Bahasa Melayu
@@ -1058,6 +1340,8 @@ Nama-Mu adalah kesembuhanku, Ya Tuhanku, dan mengenang Engkau adalah penawarku. 
 (Bahaiprayers.net ID: 12111)
 
 
+
+
 ### <a id="bpn12112"></a> Prayer bpn12112 in Bahasa Melayu
 Ya Tuhan, Tuhanku! Aku merayu kepada-Mu demi samudera penyembuhan-Mu, demi kecemerlangan Suria rahmat-Mu, demi Nama-Mu yang menakluki hamba-hamba-Mu, demi kuasa penyebaran Kalimat-Mu yang terluhur dan kekuatan Pena-Mu yang maha agung, dan demi rahmat-Mu yang telah mendahului penciptaan semua yang ada di syurga dan di bumi agar membersihkan daku dengan air kedermawanan-Mu, daripada setiap malapetaka dan penyakit, dan daripada segala kedaifan dan kelemahan. Engkau melihat, Ya Tuhanku, pemohon ini menunggu di ambang pintu rahmat-Mu, dan dia yang telah menaruh harapannya kepada-Mu bergantung kepada tali kedermawanan-Mu. Aku memohon kepada-Mu, janganlah menjauhkan dia daripada apa yang dicarinya daripada samudera kurnia-Mu dan daripada Suria kasih sayang-Mu.
 
@@ -1065,6 +1349,8 @@ Berkuasalah Engkau untuk melakukan apa yang     Engkau hasratkan. Tiada Tuhan se
 
 (Source category: KESEMBUHAN)
 (Bahaiprayers.net ID: 12112)
+
+
 
 
 ### <a id="bpn12113"></a> Prayer bpn12113 in Bahasa Melayu
@@ -1078,11 +1364,15 @@ Engkaulah sesungguhnya Tuhan kehidupan ini dan yang seterusnya. Sesungguhnya, En
 (Bahaiprayers.net ID: 12113)
 
 
+
+
 ### <a id="bpn12114"></a> Prayer bpn12114 in Bahasa Melayu
 ”Oleh itu berusahalah agar perbuatan-perbuatanmu hari demi hari akan menjadi doa-doa yang indah.  Berpalinglah kepada Tuhan, dan sentiasa berusaha melakukan apa yang betul dan mulia. Memperkaya yang miskin, mendukung yang telah jatuh, menenangkan yang sedih, menyembuhkan yang sakit, meyakinkan yang dipenuhi ketakutan, menyelamatkan yang tertindas, membawa harapan kepada yang berputus asa, melindungi yang melarat.”
 
 (Source category: KESEMBUHAN)
 (Bahaiprayers.net ID: 12114)
+
+
 
 
 
@@ -1103,6 +1393,8 @@ Tiada Tuhan lain kecuali Engkau, Yang Maha Berkuasa, Yang Dermawan.
 (Bahaiprayers.net ID: 12116)
 
 
+
+
 ### <a id="bpn12117"></a> Prayer bpn12117 in Bahasa Melayu
 Ya Tuhanku, biarlah aku mendekati-Mu, dan berdiam di lingkungan istana-Mu, kerana keterpencilan daripada-Mu telah hampir menghancurkan daku. Izinkanlah daku beristirahat di bawah naungan sayap-sayap rahmat-Mu, kerana terpisah daripada-Mu laksana api yang telah membakar hatiku dalam diriku. Dekatkanlah daku kepada sungai yang bagaikan kehidupan sejati kerana rohku terbakar oleh kedahagaan dalam usaha yang tidak terhenti-henti untuk mencari-Mu. Keluh-kesahku, Ya Tuhanku, menyatakan pahitnya kepedihanku, dan air mataku yang berlinangan membuktikan kasihku pada-Mu.
      
@@ -1114,6 +1406,8 @@ Dimuliakanlah nama-Mu, Ya Engkau Raja kepada Segala Raja!
 (Bahaiprayers.net ID: 12117)
 
 
+
+
 ### <a id="bpn12118"></a> Prayer bpn12118 in Bahasa Melayu
 Terpujilah nama-Mu, Ya Tuhanku! Aku memohon kepada-Mu demi keharuman pakaian belas kasihan-Mu yang pada perintah-Mu serta berdasarkan hasrat-Mu telah disebarkan kepada seluruh ciptaan, dan demi Suria kehendak-Mu telah bersinar dengan terang, melalui kuasa kekuatan-Mu dan keagungan-Mu, di atas ufuk kerahmatan-Mu, untuk menghapuskan daripada hatiku semua angan-angan kosong dan khayalan sia-sia, agar dengan segala kasih sayangku aku dapat berpaling kepada-Mu, Ya Engkau Tuhan semua manusia!
 
@@ -1123,6 +1417,8 @@ Sesungguhnya, Engkau adalah Tuhan segala dunia, dan Tuhan kepada semua yang ada 
 
 (Source category: KETAKTERIKATAN)
 (Bahaiprayers.net ID: 12118)
+
+
 
 
 ### <a id="bpn12119"></a> Prayer bpn12119 in Bahasa Melayu
@@ -1138,6 +1434,8 @@ Berkuasalah Engkau untuk melakukan apa yang Engkau redai. Sesungguhnya, Engkaula
 (Bahaiprayers.net ID: 12119)
 
 
+
+
 ### <a id="bpn12121"></a> Prayer bpn12121 in Bahasa Melayu
 ”Lepaskanlah dirimu daripada segala sesuatu kecuali Aku dan hadapkanlah wajahmu kepada wajah-Ku, kerana lebih baiklah ini bagimu daripada segala  sesuatu yang engkau miliki.”
 
@@ -1147,6 +1445,8 @@ Berkuasalah Engkau untuk melakukan apa yang Engkau redai. Sesungguhnya, Engkaula
 
 (Source category: KETAKTERIKATAN)
 (Bahaiprayers.net ID: 12121)
+
+
 
 
 ### <a id="bpn12120"></a> Prayer bpn12120 in Bahasa Melayu
@@ -1164,6 +1464,8 @@ Engkaulah memiliki kekuasaan mutlak untuk memerintahkan.
 (Bahaiprayers.net ID: 12120)
 
 
+
+
 ### <a id="bpn12122"></a> Prayer bpn12122 in Bahasa Melayu
 Ya Tuhan, Tuhanku! Penuhilah daku satu cawan ketakterikatan kepada segala benda, dan dalam himpunan rahmat dan anugerah-Mu, riangkanlah daku dengan wain kasih sayang-Mu. Bebaskanlah daku daripada serangan hawa nafsu, putuskanlah daripada diriku belenggu duniawi ini, tariklah daku dengan keseronokan kepada alam keagungan-Mu, dan segarkanlah daku dalam kalangan dayang-dayang dengan nafas kesucian-Mu.
 
@@ -1174,6 +1476,8 @@ Sesungguhnya, Engkaulah Yang Berkuasa, Pemberi Sentiasa, Yang Mampu, Yang Maha K
 
 (Source category: KETAKTERIKATAN)
 (Bahaiprayers.net ID: 12122)
+
+
 
 
 
@@ -1194,6 +1498,8 @@ Perintahkanlah kepadaku, demi rahmat-Mu, Ya Tuhan, apa yang akan memperkaya daku
 (Bahaiprayers.net ID: 12123)
 
 
+
+
 ### <a id="bpn12124"></a> Prayer bpn12124 in Bahasa Melayu
 Perteguhkanlah langkah-langkah kami, Ya Tuhan, di jalan-Mu dan perkuatkanlah Engkau hati kami dalam kepatuhan kepada-Mu. Palingkanlah wajah kami ke keindahan keesaan-Mu dan riangkanlah dada kami dengan tanda-tanda kesatuan ketuhanan-Mu. Hiasilah tubuh kami dengan jubah kurnia-Mu, dan singkirkanlah daripada mata kami tabir kedosaan, dan berikanlah kami cawan kurnia-Mu; agar inti segala kewujudan dapat menyanyikan pujian-Mu di hadapan visi keagungan-Mu. Jelmakanlah diri-Mu, Ya Tuhan, dengan ujaran kurnia-Mu dan misteri kewujudan suci-Mu, agar keghairahan doa suci dapat mengisi roh kami–satu doa yang akan melampaui kata dan huruf dan menjangkau bisikan kata dan bunyi–supaya segala benda dapat disatukan dalam kekosongan di hadapan revelasi kebesaran-Mu.
 
@@ -1203,6 +1509,8 @@ Engkau adalah Pengampun, Yang Rahim.
 
 (Source category: KETEGUHAN DALAM WAADAT)
 (Bahaiprayers.net ID: 12124)
+
+
 
 
 ### <a id="bpn12125"></a> Prayer bpn12125 in Bahasa Melayu
@@ -1216,6 +1524,8 @@ Sesungguhnya, Engkaulah Pemberi, Pengampun, Pengasih.
 (Bahaiprayers.net ID: 12125)
 
 
+
+
 ### <a id="bpn12126"></a> Prayer bpn12126 in Bahasa Melayu
 Ya Tuhanku dan Harapanku! Bantulah Engkau kekasih-kekasih-Mu untuk kekal teguh dalam Waadat teragung-Mu, untuk kekal setia kepada Akidah-Mu yang nyata, dan untuk melaksanakan perintah yang diturunkan oleh-Mu kepada mereka dalam Kitab Kebesaran-Mu; agar mereka dapat menjadi panji bimbingan dan lampu Angkatan di atas, sumber air kearifan-Mu yang tak terhingga, dan bintang-bintang yang memimpin dengan betul, apabila mereka bersinari dari langit yang maha luas.
 
@@ -1223,6 +1533,8 @@ Sesungguhnya, Engkaulah Yang Tak Terhalang, Yang Maha Kuat, Yang Maha Kuasa.
 
 (Source category: KETEGUHAN DALAM WAADAT)
 (Bahaiprayers.net ID: 12126)
+
+
 
 
 
@@ -1268,6 +1580,8 @@ Sesungguhnya, Dia Yang Maha Pengasih, Maha Penyayang. Pujian bagi Tuhan, Raja se
 
 (Source category: LOH AHMAD)
 (Bahaiprayers.net ID: 12198)
+
+
 
 
 
@@ -1388,6 +1702,8 @@ Seandainya semua hamba membaca dan merenungkan ini, maka dalam urat darah mereka
 
 
 
+
+
 ## LOH RIḌVÁN
 
 ### <a id="bpn12197"></a> Prayer bpn12197 in Bahasa Melayu
@@ -1409,6 +1725,8 @@ Bergembiralah dengan kebahagiaan yang amat, wahai umat Bahá, apabila engkau men
 
 (Source category: LOH RIḌVÁN)
 (Bahaiprayers.net ID: 12197)
+
+
 
 
 
@@ -1442,6 +1760,8 @@ Berkatilah lagi, Ya Tuhan, Tuhanku, hamba-hamba-Mu dan dayang-dayang-Mu yang tel
 
 
 
+
+
 ## LOH ZIARAH 'ABDU’L-BAHÁ
 
 ### <a id="bpn12199"></a> Prayer bpn12199 in Bahasa Melayu
@@ -1468,6 +1788,8 @@ Engkau Penganugerah, Yang Mengasihani, Yang Maha Dermawan, Yang Maha Rahim, Yang
 
 
 
+
+
 ## MALAM
 
 ### <a id="bpn12127"></a> Prayer bpn12127 in Bahasa Melayu
@@ -1481,6 +1803,8 @@ Tiada Tuhan kecuali Engkau, Yang Maha Kuat, Yang Maha Menakluki, Yang Tak Terbat
 (Bahaiprayers.net ID: 12127)
 
 
+
+
 ### <a id="bpn12128"></a> Prayer bpn12128 in Bahasa Melayu
 Bagaimana aku memilih untuk tidur, Ya Tuhan, Tuhanku, apabila mata mereka yang merindui Engkau sedang terjaga kerana mereka terpisah daripada-Mu; dan bagaimanakah aku dapat berbaring untuk istirahat sedangkan jiwa-jiwa para pencinta-Mu berasa susah hati kerana mereka berada jauh daripada kehadiran-Mu?
 
@@ -1490,6 +1814,8 @@ Demi kekuatan-Mu! Aku tak meminta apa pun, baik waktu tidur mahupun terjaga, mel
 
 (Source category: MALAM)
 (Bahaiprayers.net ID: 12128)
+
+
 
 
 
@@ -1506,6 +1832,8 @@ Kerana Engkau telah membimbing mereka, Ya Tuhanku, ke samudera kehidupan rahmat-
 (Bahaiprayers.net ID: 12130)
 
 
+
+
 ### <a id="bpn12131"></a> Prayer bpn12131 in Bahasa Melayu
 Pujian bagi-Mu, Ya Tuhan, Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang tak seorang pun layak mengenali, dan yang maksud-Nya tak ada sebarang jiwa pun mengerti; aku memohon kepada-Mu, demi Dia Yang adalah Sumber Wahyu-Mu dan Fajar tanda-tanda-Mu, agar menjadikan hatiku sebagai wadah cinta-Mu dan penuh pengingatan kepada-Mu. Maka hubungkanlah ia kepada Samudera-Mu yang maha besar, agar daripadanya akan mengalir air kehidupan kearifan-Mu dan sungai-sungai jernih kemuliaan dan pujian-Mu.
 
@@ -1517,6 +1845,8 @@ Takdirkanlah bagiku, Ya Tuhanku, apa yang layak bagi kebesaran keagungan-Mu, dan
 (Bahaiprayers.net ID: 12131)
 
 
+
+
 ### <a id="bpn12132"></a> Prayer bpn12132 in Bahasa Melayu
 Dimuliakanlah nama-Mu, Ya Tuhan, Tuhanku! Engkau melihat bagaimana pandanganku telah diarahkan pada rahmat-Mu yang mesra, dan bagaimana mataku dipusatkan pada ufuk kurnia-Mu, dan kasih sayang-Mu, dan bagaimana tanganku dihulurkan ke syurga pemberian-Mu. Kekuatan-Mu menjadi saksiku! Setiap anggota badanku merayu kepada-Mu dan mengatakan: "Ya Engkau yang adalah Kekasih seluruh alam, dan Raja segala yang ada di syurga dan di bumi, dan satu-satunya Hasrat bagi kalbu-kalbu yang mencintai Engkau! Aku memohon kepada-Mu, demi Samudera-Mu di mana Engkau telah memanggil para penghuni syurga dan para penduduk di bumi, untuk membantu hamba-hamba-Mu yang telah dihalangi dari menghadap kepadanya dan mendekati pantainya. Oleh sebab itu, Ya Tuhanku, jadikanlah mereka tak terikat kepada segala sesuatu kecuali Engkau dan bolehkanlah mereka mengucapkan pujian kepada-Mu dan menjunjung tinggi sifat-sifat-Mu. Selain daripada itu, Ya Tuhanku, berilah mereka Wain terpilih daripada kurnia-Mu, agar dapat menyebabkan mereka melupakan sesiapa pun kecuali Engkau dan agar dapat bangkit mengabdi kepada Akidah-Mu dan tetap teguh dalam cinta mereka kepada-Mu. Sesungguhnya, Engkau Raja kehidupan mereka dan Tujuan pemujaan mereka. Jika mereka diusir oleh-Mu, siapakah yang akan memelihara mereka; dan jika mereka dijauhkan daripada-Mu, siapakah yang dapat menolong mereka untuk mendekati Kehadiran-Mu? Aku bersumpah demi kekuatan-Mu! Tiada tempat untuk berlindung kecuali Engkau, dan tiada naungan yang dicari kecuali naungan-Mu, dan tidak ada perlindungan kecuali perlindungan-Mu. Malang akan menimpa dia yang telah menjadikan sesiapa pun sebagai Tuhan selain Engkau dan diberkatilah mereka yang telah menjauhkan diri daripada segala ikatan kepada semua penduduk bumi-Mu dan melekat pada jubah kedermawanan-Mu. Inilah! umat Bahá, di hadapan semua yang ada di syurga dan semua yang ada di bumi. Tiada Tuhan kecuali Engkau, Yang Maha Tahu, Yang Maha Arif."
 
@@ -1524,6 +1854,8 @@ Segala pujian bagi Tuhan, Raja sekalian alam.
 
 (Source category: MENGAJAR)
 (Bahaiprayers.net ID: 12132)
+
+
 
 
 ### <a id="bpn12139"></a> Prayer bpn12139 in Bahasa Melayu
@@ -1536,6 +1868,8 @@ Aku merayu kepada-Mu, Ya Engkau Raja kewujudan dan Pelindung apa yang dapat dili
 
 (Source category: MENGAJAR)
 (Bahaiprayers.net ID: 12139)
+
+
 
 
 ### <a id="bpn12140"></a> Prayer bpn12140 in Bahasa Melayu
@@ -1551,6 +1885,8 @@ Sesungguhnya, Engkau adalah Tuhan kekuatan dan kekuasaan, Yang layak untuk menja
 (Bahaiprayers.net ID: 12140)
 
 
+
+
 ### <a id="bpn12141"></a> Prayer bpn12141 in Bahasa Melayu
 Katakanlah: Dibesarkanlah Nama-Mu, Ya Tuhan, Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang melaluinya kecemerlangan cahaya kearifan telah bersinari dengan penuh gemilang apabila syurga ujaran ilahi telah digerakkan dalam kalangan manusia, untuk membantuku melalui pengesahan syurgawi-Mu dan membolehkan daku untuk menyebarkan Nama-Mu dalam kalangan hamba-Mu.
 
@@ -1560,6 +1896,8 @@ Sesungguhnya, berkuasalah Engkau untuk melakukan apa yang Engkau kehendaki, dan 
 
 (Source category: MENGAJAR)
 (Bahaiprayers.net ID: 12141)
+
+
 
 
 ### <a id="bpn12142"></a> Prayer bpn12142 in Bahasa Melayu
@@ -1573,6 +1911,8 @@ Sesungguhnya, berkuasalah Engkau untuk melakukan apa yang Engkau kehendaki, dan 
 (Bahaiprayers.net ID: 12142)
 
 
+
+
 ### <a id="bpn12133"></a> Prayer bpn12133 in Bahasa Melayu
 Ya Tuhan! Ya Tuhan! Ini seekor burung yang patah sayapnya dan terbangnya sangat lambat—bantulah dia agar dia dapat terbang ke mercu kesejahteraan dan keselamatan, melayang dengan penuh keriangan dan kegembiraan di seluruh ruang yang tak terbatas, menyanyikan melodinya demi Nama-Mu Yang Tertinggi di seluruh wilayah,               menggembirakan semua telinga dengan seruan ini, dan menerangi mata dengan memandang tanda-tanda bimbingan.
 
@@ -1580,6 +1920,8 @@ Ya Tuhan! Aku tunggal, keseorangan dan lemah. Bagiku tiada sokongan selain Engka
 
 (Source category: MENGAJAR)
 (Bahaiprayers.net ID: 12133)
+
+
 
 
 ### <a id="bpn12134"></a> Prayer bpn12134 in Bahasa Melayu
@@ -1593,6 +1935,8 @@ Sesungguhnya, Engkaulah Yang Maha Kuat, Yang Maha Perkasa dan Yang Maha Berkuasa
 (Bahaiprayers.net ID: 12134)
 
 
+
+
 ### <a id="bpn12135"></a> Prayer bpn12135 in Bahasa Melayu
 Ya Tuhanku, bantulah Engkau hamba-hamba-Mu untuk meluhurkan Kalimat, dan untuk menafikan apa yang sia-sia dan palsu, untuk mendirikan kebenaran, untuk menyebarluaskan kalimat-kalimat suci, menjelmakan kecemerlangan, dan menjadikan cahaya pagi terbit daripada kalbu mereka yang salih.
 
@@ -1602,11 +1946,15 @@ Engkaulah, sesungguhnya, Pemurah, Pengampun.
 (Bahaiprayers.net ID: 12135)
 
 
+
+
 ### <a id="bpn12136"></a> Prayer bpn12136 in Bahasa Melayu
 Ya Tuhan, Tuhanku! Bantulah Engkau hamba-hamba-Mu yang dipercayai untuk memiliki hati yang penyayang dan lembut. Tolonglah mereka untuk menyebarkan, dalam kalangan semua bangsa di bumi, cahaya bimbingan yang datang daripada Angkatan di atas. Sesungguhnya, Engkaulah yang Kuat, Berkuasa, Perkasa, Segala Menakluki, Pemberi Sentiasa. Sesungguhnya, Engkaulah Pemurah, Lemah-Lembut, Ramah-Tamah, Yang Maha Rahim.
 
 (Source category: MENGAJAR)
 (Bahaiprayers.net ID: 12136)
+
+
 
 
 ### <a id="bpn12137"></a> Prayer bpn12137 in Bahasa Melayu
@@ -1622,11 +1970,15 @@ Sesungguhnya, Engkaulah Dia yang memiliki kurnia yang melimpah ruah. Tiada Tuhan
 (Bahaiprayers.net ID: 12137)
 
 
+
+
 ### <a id="bpn12138"></a> Prayer bpn12138 in Bahasa Melayu
 Ya Tuhan! Bukakanlah Engkau pintu, sediakanlah caranya, berikanlah laluannya, jadikanlah jalan itu selamat, agar kami dapat dibimbing kepada roh-roh yang jiwa mereka bersedia untuk Akidah-Mu, dan agar mereka dapat dibimbing kepada kami. Sesungguhnya, Engkau adalah Rahim, Maha Kurnia, Segala Berkuasa.
 
 (Source category: MENGAJAR)
 (Bahaiprayers.net ID: 12138)
+
+
 
 
 
@@ -1648,6 +2000,8 @@ Engkau, sesungguhnya, adalah Yang Maha Tahu dan Yang Maha Arif.
 
 
 
+
+
 ## PAGI
 
 ### <a id="bpn12143"></a> Prayer bpn12143 in Bahasa Melayu
@@ -1655,6 +2009,8 @@ Aku telah bangun di bawah naungan-Mu, Ya Tuhanku, dan layak bagi dia yang mencar
 
 (Source category: PAGI)
 (Bahaiprayers.net ID: 12143)
+
+
 
 
 ### <a id="bpn12144"></a> Prayer bpn12144 in Bahasa Melayu
@@ -1672,11 +2028,15 @@ Engkau tidak menghampakan sesiapa pun yang telah mencari-Mu, mahupun Engkau menj
 (Bahaiprayers.net ID: 12144)
 
 
+
+
 ### <a id="bpn12145"></a> Prayer bpn12145 in Bahasa Melayu
 ”Penuhilah masamu dalam pengingatan kepada Keindahan Dia Yang adalah Yang Tak Terhalang pada setiap pagi, dan berusahalah untuk berhubung dengan Dia pada waktu fajar…”
 
 (Source category: PAGI)
 (Bahaiprayers.net ID: 12145)
+
+
 
 
 
@@ -1691,6 +2051,8 @@ Ya Tuhan! Lindungilah daku daripada cubaan-cubaan. Engkau ketahui penuh jelas ba
 
 (Source category: PELOPOR)
 (Bahaiprayers.net ID: 12146)
+
+
 
 
 
@@ -1713,6 +2075,8 @@ Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Dermawan! Tiada Tuhan kecuali
 (Bahaiprayers.net ID: 12149)
 
 
+
+
 ### <a id="bpn12150"></a> Prayer bpn12150 in Bahasa Melayu
 Terpujilah Nama-Mu, Ya Tuhanku dan Tuhan segala benda, Kemuliaanku dan Kemuliaan segala benda, Hasratku dan Hasrat segala benda, Kekuatanku dan Kekuatan segala benda, Rajaku dan Raja segala benda, Pemilikku dan Pemilik segala benda, Tujuanku dan Tujuan segala benda, Penggerakku dan Penggerak segala benda! Aku memohon kepada-Mu, janganlah Engkau membiarkan daku terpisah daripada samudera kasih sayang-Mu yang mesra, dan janganlah pula dijauhkan daripada pantai kedekatan-Mu.
 
@@ -1722,11 +2086,15 @@ Ya Tuhanku, tiada yang lain kecuali Engkau yang menguntungkan daku, dan tiada fa
 (Bahaiprayers.net ID: 12150)
 
 
+
+
 ### <a id="bpn12151"></a> Prayer bpn12151 in Bahasa Melayu
 Kemuliaan kepada-Mu, Ya Tuhan. Ampunilah dosa-dosa kami, kasihanilah kami dan bolehkanlah kami untuk kembali kepada-Mu. Deritailah kami untuk tidak bergantung kepada sesiapa melainkan Engkau, dan kurniailah kami, melalui limpah kurnia-Mu, apa yang Engkau cintai dan hasrati dan patut bagi-Mu. Muliakanlah kedudukan mereka yang telah benar-benar mempercayai dan maafkanlah mereka dengan rahmat pengampunan-Mu. Sesungguhnya, Engkaulah Penolong dalam Bencana, Yang Berdiri Sendiri.
 
 (Source category: PENGAMPUNAN)
 (Bahaiprayers.net ID: 12151)
+
+
 
 
 ### <a id="bpn12152"></a> Prayer bpn12152 in Bahasa Melayu
@@ -1736,6 +2104,8 @@ Ya Tuhanku, Ya Rajaku, Ya Tuanku! Aku merayu kepada-Mu untuk mengampuni daku ker
 (Bahaiprayers.net ID: 12152)
 
 
+
+
 ### <a id="bpn12153"></a> Prayer bpn12153 in Bahasa Melayu
 Aku merayu kepada-Mu untuk mengampuni daku, Ya Tuhanku, kerana setiap pengingatan kecuali pengingatan kepada-Mu, kerana setiap pujian kecuali pujian kepada-Mu, dan kerana setiap kegembiraan kecuali kegembiraan dalam kedekatan kepada-Mu, dan kerana setiap keseronokan kecuali keseronokan berhubung dengan-Mu, dan kerana setiap keriangan kecuali keriangan atas cinta-Mu dan atas keredaan-Mu, dan kerana semua benda yang berkaitan denganku yang tidak ada hubungan dengan-Mu, Ya Engkau Yang adalah Raja kepada segala raja, Dia Yang memberikan jalannya dan membuka kunci pintu-pintu.
 
@@ -1743,11 +2113,15 @@ Aku merayu kepada-Mu untuk mengampuni daku, Ya Tuhanku, kerana setiap pengingata
 (Bahaiprayers.net ID: 12153)
 
 
+
+
 ### <a id="bpn12154"></a> Prayer bpn12154 in Bahasa Melayu
 Ya Engkau Tuhan Yang Pengampun! Engkau adalah Pelindung bagi semua hamba-hamba-Mu. Engkau mengetahui rahsia-rahsia dan sedar akan segala sesuatu. Kami semua tak berdaya dan Engkaulah Yang Maha Kuat, Yang Maha Kuasa. Kami semua orang yang berdosa dan Engkaulah Pengampun dosa-dosa, Yang Maha Pengasih, Yang Maha Penyayang. Ya Tuhan! Janganlah melihat pada kekurangan-kekurangan kami. Perlakukanlah kami sesuai dengan rahmat dan kurnia-Mu. Kekurangan-kekurangan kami amatlah banyak tetapi samudera pengampunan-Mu adalah tak terbatas. Kelemahan kami amatlah menyedihkan tetapi bukti-bukti bantuan dan pertolongan-Mu adalah nyata. Maka, teguhkanlah dan kuatkanlah kami. Bolehkanlah kami berbuat apa yang patut bagi Ambang pintu-Mu yang suci. Terangilah kalbu-kalbu kami, berilah kami mata yang tajam dan telinga yang mendengar. Hidupkanlah yang mati dan sembuhkanlah yang sakit. Anugerahkanlah kekayaan kepada yang miskin dan berilah ketenteraman dan keamanan kepada yang takut. Terimalah kami di kerajaan-Mu dan terangilah kami dengan cahaya bimbingan. Engkaulah Maha Kuasa dan Perkasa. Engkaulah Dermawan. Engkaulah Maha Pengasih. Engkaulah Yang Baik Hati.
 
 (Source category: PENGAMPUNAN)
 (Bahaiprayers.net ID: 12154)
+
+
 
 
 
@@ -1760,11 +2134,15 @@ Aku telah bangun pagi ini kerana rahmat-Mu, Ya Tuhanku, dan telah meninggalkan r
 (Bahaiprayers.net ID: 12155)
 
 
+
+
 ### <a id="bpn12156"></a> Prayer bpn12156 in Bahasa Melayu
 Ya Tuhan, Tuhanku! Aku telah meninggalkan rumahku, berpegang teguh kepada tali cinta-Mu, dan aku telah menyerahkan diriku sepenuhnya kepada pemeliharaan-Mu dan perlindungan-Mu. Aku memohon kepada-Mu demi kuasa-Mu yang melaluinya Engkau telah melindungi kekasih-kekasih-Mu daripada yang sesat dan degil, dan daripada setiap penindas yang tegar, dan setiap pelaku kejahatan yang telah tersesat jauh daripada-Mu, untuk melindungi daku melalui rahmat-Mu dan kurnia-Mu. Maka, bolehkanlah daku untuk kembali ke rumahku melalui kuasa-Mu dan kekuatan-Mu. Sesungguhnya, Engkaulah Yang Maha Kuat, Penolong dalam Bencana, Yang Berdiri Sendiri.
 
 (Source category: PERJALANAN)
 (Bahaiprayers.net ID: 12156)
+
+
 
 
 
@@ -1790,11 +2168,15 @@ Dan apabila Dia berhasrat untuk menjelmakan rahmat dan kurnia kepada manusia, se
 (Bahaiprayers.net ID: 12157)
 
 
+
+
 ### <a id="bpn12158"></a> Prayer bpn12158 in Bahasa Melayu
 Kemuliaan kepada-Mu, Ya Tuhanku! Sesungguhnya, hamba-Mu ini dan dayang-Mu ini telah berhimpun di bawah naungan belas kasihan-Mu dan mereka telah disatukan melalui kurnia dan kedermawanan-Mu. Ya Tuhan! Bantulah mereka di dunia-Mu dan kerajaan-Mu ini dan takdirkanlah bagi mereka setiap kebaikan melalui berkat dan rahmat-Mu. Ya Tuhan! Sahkanlah mereka dalam pengabdian kepada-Mu dan bantulah mereka dalam khidmat kepada-Mu. Sebabkanlah mereka untuk menjadi tanda-tanda Nama-Mu di dunia-Mu dan lindungilah mereka melalui anugerah-Mu yang tak terhingga di dunia ini dan dunia yang akan datang. Ya Tuhan! Mereka sedang memohon kerajaan belas kasihan-Mu dan merayu alam ketunggalan-Mu. Sesungguhnya, mereka telah berkahwin dalam kepatuhan kepada seruan-Mu. Sebabkanlah mereka untuk menjadi tanda-tanda keharmonian dan kesatuan sehingga penghujung masa. Sesungguhnya, Engkau adalah Yang Maha Berkuasa, Yang Maha Wujud dan Yang Maha Kuat!
 
 (Source category: PERKAHWINAN)
 (Bahaiprayers.net ID: 12158)
+
+
 
 
 ### <a id="bpn12159"></a> Prayer bpn12159 in Bahasa Melayu
@@ -1804,6 +2186,8 @@ Sesungguhnya, Engkaulah yang Dermawan. Sesungguhnya, Engkaulah yang Maha Kuat. S
 
 (Source category: PERKAHWINAN)
 (Bahaiprayers.net ID: 12159)
+
+
 
 
 
@@ -1820,6 +2204,8 @@ Engkau, sesungguhnya, adalah Yang Maha Kuat, Yang Maha Luhur, Pemaaf Selalu, Yan
 (Bahaiprayers.net ID: 12160)
 
 
+
+
 ### <a id="bpn12161"></a> Prayer bpn12161 in Bahasa Melayu
 Dalam Nama-Nya, Yang Luhur, Yang Tertinggi, Yang Paling Suci!
 
@@ -1831,6 +2217,8 @@ Ya Engkau Raja segala Raja! Ya Engkau Tuhan yang baik hati! Ya Engkau Sumber rah
 (Bahaiprayers.net ID: 12161)
 
 
+
+
 ### <a id="bpn12162"></a> Prayer bpn12162 in Bahasa Melayu
 Terpujilah Engkau, Ya Tuhanku! Aku merayu kepada-Mu demi nama-Mu, Yang Paling Berbelas Kasihan, untuk melindungi hamba-hamba-Mu dan dayang-dayang-Mu apabila ribut kesukaran melanda mereka, dan cubaan-cubaan-Mu yang berlipat-ganda menyerang mereka. Maka, bolehkanlah mereka, Ya Tuhanku, untuk mencari perlindungan di dalam kubu cinta-Mu dan Wahyu-Mu, sehinggakan tidak dapat diatasi musuh-Mu mahupun penjahat dalam kalangan hamba-Mu, yang telah melanggar Waadat-Mu dan Testamen-Mu, dan telah berpaling dengan amat hina daripada Suria Inti-Mu dan Pewahyu kemuliaan-Mu.
 
@@ -1838,6 +2226,8 @@ Mereka sendiri, Ya Tuhanku, telah menunggu di depan pintu kurnia-Mu. Bukakanlahn
 
 (Source category: PERLINDUNGAN)
 (Bahaiprayers.net ID: 12162)
+
+
 
 
 ### <a id="bpn12163"></a> Prayer bpn12163 in Bahasa Melayu
@@ -1849,11 +2239,15 @@ Kurniakanlah kemaafan-Mu kepadaku dan kepada penganut-penganut yang telah menyah
 (Bahaiprayers.net ID: 12163)
 
 
+
+
 ### <a id="bpn12164"></a> Prayer bpn12164 in Bahasa Melayu
 Ya Tuhan, Tuhanku! Lindungilah hamba-hamba-Mu yang dipercayai daripada kejahatan diri dan hawa nafsu, peliharalah mereka dengan jagaan mata kasih sayang-Mu daripada semua dendam, kebencian dan iri hati, naungilah mereka dalam kubu kebal jagaan-Mu dan selamat daripada serangan keraguan, jadikanlah mereka penjelmaan tanda-tanda keagungan-Mu, terangilah wajah mereka dengan sinaran gemilang yang dipancarkan daripada Tempat Terbit kesatuan ilahi-Mu, riangkanlah kalbu mereka dengan kalimat-kalimat yang diwahyukan daripada kerajaan suci-Mu, perkuatkanlah loin mereka melalui ayunan maha kuasa-Mu yang datang daripada alam-Mu yang mulia. Engkau adalah Yang Maha Pemurah, Pelindung, Yang Maha Kuat, Berbelas Kasihan.
 
 (Source category: PERLINDUNGAN)
 (Bahaiprayers.net ID: 12164)
+
+
 
 
 
@@ -1870,6 +2264,8 @@ Engkau adalah Kuat. Engkau adalah Berkuasa. Engkau adalah Pemberi, dan Engkau Pe
 (Bahaiprayers.net ID: 12165)
 
 
+
+
 ### <a id="bpn12166"></a> Prayer bpn12166 in Bahasa Melayu
 Ya Tuhanku! Ya Tuhanku! Sesungguhnya, hamba-hamba ini sedang berpaling kepada-Mu, memohon belas kasihan kerajaan-Mu. Sesungguhnya, mereka telah tertarik kepada kesucian-Mu dan dikobarkan oleh api cinta-Mu, mencari pengesahan daripada kerajaan-Mu yang menakjubkan, dan mengharapkan pencapaian dalam alam syurgawi-Mu. Sesungguhnya, mereka menginginkan kemunculan anugerah-Mu, mengharapkan sinaran daripada Suria Kebenaran. Ya Tuhan! Jadikanlah mereka lampu-lampu yang cemerlang, tanda-tanda yang berbelas kasihan, pohon-pohon yang berbuah dan bintang-bintang yang bersinar. Semoga mereka bangkit dalam pengabdian kepada-Mu dan terhubung dengan-Mu melalui hubungan dan ikatan cinta-Mu, mengingini cahaya kurnia-Mu. Ya Tuhan! Jadikanlah mereka tanda-tanda bimbingan, standard-standard kerajaan abadi-Mu, ombak-ombak samudera kemaafan-Mu, cermin-cermin cahaya kedaulatan-Mu.
 
@@ -1877,6 +2273,8 @@ Sesungguhnya, Engkau adalah Pemurah. Sesungguhnya, Engkau adalah Berbelas Kasiha
 
 (Source category: PERTEMUAN & MAJLIS ROHANI)
 (Bahaiprayers.net ID: 12166)
+
+
 
 
 ### <a id="bpn12167"></a> Prayer bpn12167 in Bahasa Melayu
@@ -1888,6 +2286,8 @@ Engkau adalah Pemberi, Pemurah, dan Pengasih Selalu.
 (Bahaiprayers.net ID: 12167)
 
 
+
+
 ### <a id="bpn12168"></a> Prayer bpn12168 in Bahasa Melayu
 Ya Pemberi Ilahi! Perhimpunan ini mengandungi rakan-rakan-Mu yang telah tertarik pada keindahan-Mu dan telah dikobarkan dengan api cinta-Mu. Jadikanlah jiwa-jiwa ini malaikat syurgawi, hidupkanlah mereka semula melalui nafas Roh Suci, berikanlah mereka lidah yang fasih dan hati yang teguh, kurniailah mereka kuasa syurgawi dan kepekaan yang berbelas kasihan, sebabkanlah mereka untuk menjadi penyebar kesatuan umat manusia dan punca cinta dan keharmonian di dunia kemanusiaan, agar kegelapan kejahilan prasangka yang berbahaya akan dimusnahkan melalui cahaya Suria Kebenaran, dunia yang suram ini akan menjadi bersinar, alam kebendaan ini akan menyerap sinaran dunia roh, warna-warna yang berlainan ini akan disatukan menjadi satu warna dan melodi pujian akan naik ke kerajaan-Mu yang suci.
 
@@ -1895,6 +2295,8 @@ Sesungguhnya, Engkau adalah Yang Maha Kuasa, Yang Maha Kuat.
 
 (Source category: PERTEMUAN & MAJLIS ROHANI)
 (Bahaiprayers.net ID: 12168)
+
+
 
 
 
@@ -1909,11 +2311,15 @@ Engkau adalah, sesungguhnya, Yang Maha Kuat, Yang Maha Mulia, Yang Maha Berkuasa
 (Bahaiprayers.net ID: 12170)
 
 
+
+
 ### <a id="bpn12171"></a> Prayer bpn12171 in Bahasa Melayu
 Katakanlah: Ya Tuhan, Tuhanku! Hiasilah kepalaku dengan mahkota keadilan, dan tubuhku dengan perhiasan kesaksamaan. Engkau, sesungguhnya, adalah Pemilik segala anugerah dan rahmat.
 
 (Source category: PERTUMBUHAN ROHANI)
 (Bahaiprayers.net ID: 12171)
+
+
 
 
 ### <a id="bpn12172"></a> Prayer bpn12172 in Bahasa Melayu
@@ -1927,11 +2333,15 @@ Sebabkanlah hamba ini, Aku merayu kepada-Mu, untuk mencapai apa yang adalah punc
 (Bahaiprayers.net ID: 12172)
 
 
+
+
 ### <a id="bpn12173"></a> Prayer bpn12173 in Bahasa Melayu
 Aku merayu kepada-Mu, Ya Tuhanku, demi segala keagungan Nama-Mu yang unggul, untuk memakaikan mereka yang dikasihi-Mu jubah keadilan dan untuk menyinari kewujudan mereka dengan cahaya kebolehpercayaan. Engkau adalah Yang telah mempunyai kuasa untuk melakukan apa yang Dia redai dan Yang memegang dalam genggamannya kekuasaan terhadap segala benda, yang kelihatan dan yang tersembunyi.
 
 (Source category: PERTUMBUHAN ROHANI)
 (Bahaiprayers.net ID: 12173)
+
+
 
 
 ### <a id="bpn12174"></a> Prayer bpn12174 in Bahasa Melayu
@@ -1947,11 +2357,15 @@ Sesungguhnya, Engkau adalah yang berbelas kasihan dan, sesungguhnya, Engkau adal
 (Bahaiprayers.net ID: 12174)
 
 
+
+
 ### <a id="bpn12175"></a> Prayer bpn12175 in Bahasa Melayu
 Ya Tuhanku! Ya Tuhanku! Ini adalah lampu yang dinyalakan oleh api cinta-Mu dan dikobarkan dengan nyalaan yang dimarakkan pada pohon kemurahan-Mu. Ya Tuhanku! Tambahkanlah semaraknya, habanya dan nyalaannya, dengan api yang telah dinyalakan di Sinai Manifestasi-Mu. Sesungguhnya, Engkau adalah Pengesah, Penolong, Yang berkuasa, Dermawan, Pengasih.
 
 (Source category: PERTUMBUHAN ROHANI)
 (Bahaiprayers.net ID: 12175)
+
+
 
 
 ### <a id="bpn12176"></a> Prayer bpn12176 in Bahasa Melayu
@@ -1964,6 +2378,8 @@ Sesungguhnya, Engkau adalah Yang Maha Dermawan, Tuhan rahmat yang tak terhingga.
 
 
 
+
+
 ## PUASA
 
 ### <a id="bpn12193"></a> Prayer bpn12193 in Bahasa Melayu
@@ -1971,6 +2387,8 @@ Sesungguhnya, Engkau adalah Yang Maha Dermawan, Tuhan rahmat yang tak terhingga.
 
 (Source category: PUASA)
 (Bahaiprayers.net ID: 12193)
+
+
 
 
 ### <a id="bpn12194"></a> Prayer bpn12194 in Bahasa Melayu
@@ -1982,11 +2400,15 @@ Terpujilah Engkau, Ya Tuhan, Tuhanku! Kami telah mematuhi Puasa mengikut perinta
 (Bahaiprayers.net ID: 12194)
 
 
+
+
 ### <a id="bpn12195"></a> Prayer bpn12195 in Bahasa Melayu
 Ya Pembekal Ilahi! Sambil aku mengelakkan diri daripada hawa nafsu dan tidak makan dan minum, sucikanlah dan murnikanlah hatiku daripada cinta kepada sesiapa pun kecuali Engkau, dan lindungilah dan jagalah jiwaku daripada nafsu-nafsu korup dan sifat-sifat syaitan, agar rohku dapat berhubung dengan nafas kesucian-Mu, dan berpuasa daripada menyebut apa pun kecuali Engkau.
 
 (Source category: PUASA)
 (Bahaiprayers.net ID: 12195)
+
+
 
 
 
@@ -2001,6 +2423,8 @@ Terangilah, Ya Tuhan, wajah hamba-hamba-Mu, agar mereka dapat melihat Engkau; da
 (Bahaiprayers.net ID: 12177)
 
 
+
+
 ### <a id="bpn12178"></a> Prayer bpn12178 in Bahasa Melayu
 Tuhanku, Pujaanku, Rajaku, Hasratku! Bahasa apakah yang dapat menyampaikan rasa syukurku kepada-Mu? Aku telah alpa, Engkau telah menyedarkanku. Aku telah berpaling daripada-Mu, Engkau telah membantuku agar berpaling kepada-Mu dengan rahmat-Mu. Aku bagaikan orang mati, Engkau telah menghidupkanku  kembali dengan air kehidupan. Aku telah layu, Engkau telah menyegarkanku dengan sungai syurga ucapan-Mu yang telah mengalir daripada Pena Yang Maha Penyayang.
 
@@ -2008,6 +2432,8 @@ Ya Pemberi Ilahi! Segala kewujudan adalah kerana kemurahan-Mu; janganlah menjauh
 
 (Source category: PUJIAN & KESYUKURAN)
 (Bahaiprayers.net ID: 12178)
+
+
 
 
 
@@ -2026,6 +2452,8 @@ Sesungguhnya, Engkaulah Yang Disanjungi, Pemberi Selalu, Tangan yang Terbuka.
 
 
 
+
+
 ## UMAT MANUSIA
 
 ### <a id="bpn12180"></a> Prayer bpn12180 in Bahasa Melayu
@@ -2033,6 +2461,8 @@ Ya Engkau Tuhan yang Pengasih, Engkaulah Yang dermawan dan kaya! Kami adalah ham
 
 (Source category: UMAT MANUSIA)
 (Bahaiprayers.net ID: 12180)
+
+
 
 
 ### <a id="bpn12181"></a> Prayer bpn12181 in Bahasa Melayu
@@ -2055,6 +2485,8 @@ Engkau adalah Kuat dan Berkuasa, Engkau adalah Pemaaf dan Engkau Adalah Dia Yang
 (Bahaiprayers.net ID: 12181)
 
 
+
+
 ### <a id="bpn12182"></a> Prayer bpn12182 in Bahasa Melayu
 Ya Tuhan, Ya Engkau Yang telah memancarkan sinaran-Mu ke atas realiti manusia yang terang benderang, menyinari mereka cahaya pengetahuan dan bimbingan yang gemilang,  dan telah memilih mereka daripada segala benda tercipta bagi kurnia yang tertinggi ini, dan telah menyebabkan mereka untuk menjangkaui segala benda, untuk memahami inti mereka yang terdalam, dan untuk membongkarkan misteri-misteri mereka, lalu membawa mereka keluar daripada kegelapan ke arah dunia yang nyata! “Dia sesungguhnya menunjukkan belas kasihan-Nya yang istimewa kepada sesiapa yang Dia kehendaki.”
 
@@ -2064,6 +2496,8 @@ Engkau sesungguhnya adalah Berkuasa, Pelindung, Kuat, Pembela, Perkasa, Yang Mah
 
 (Source category: UMAT MANUSIA)
 (Bahaiprayers.net ID: 12182)
+
+
 
 
 
@@ -2077,6 +2511,8 @@ Izinkanlah, Ya Tuhanku, mereka yang telah naik kepada-Mu agar dipulihkan oleh Di
 (Bahaiprayers.net ID: 12183)
 
 
+
+
 ### <a id="bpn12184"></a> Prayer bpn12184 in Bahasa Melayu
 Ya Tuhanku! Ya Engkau pengampun dosa, pemberi anugerah, penghapus kesengsaraan!
 
@@ -2088,6 +2524,8 @@ Ya Tuhanku! Sucikanlah mereka daripada kesalahan, hapuskanlah kedukaan mereka, d
 (Bahaiprayers.net ID: 12184)
 
 
+
+
 ### <a id="bpn12185"></a> Prayer bpn12185 in Bahasa Melayu
 Ya Engkau Tuhan yang Pengampun!
 
@@ -2097,6 +2535,8 @@ Engkau adalah Pemaaf, Pemberi Cahaya dan Maha Kuasa.
 
 (Source category: UNTUK YANG MENINGGAL DUNIA)
 (Bahaiprayers.net ID: 12185)
+
+
 
 
 ### <a id="bpn12186"></a> Prayer bpn12186 in Bahasa Melayu
@@ -2111,6 +2551,8 @@ Engkau adalah, sesungguhnya, Yang Kuat, Yang Pengasih, Pemurah, Yang Berbelas Ka
 
 
 
+
+
 ## WANITA
 
 ### <a id="bpn12188"></a> Prayer bpn12188 in Bahasa Melayu
@@ -2120,11 +2562,15 @@ Ya Tuhan! Bantulah puteri Kerajaan-Mu ini untuk diluhurkan dalam kedua-dua dunia
 (Bahaiprayers.net ID: 12188)
 
 
+
+
 ### <a id="bpn12189"></a> Prayer bpn12189 in Bahasa Melayu
 Ya Tuhanku, Kekasihku dan Hasratku! Bersahabatlah dengan daku dalam kesepianku dan temanilah daku dalam pemencilanku. Hapuskanlah kedukaanku. Sebabkanlah daku untuk mengabdi kepada keindahan-Mu. Jauhkanlah daku daripada segala sesuatu kecuali Engkau. Jadikanlah daku tertarik kepada keharuman kesucian-Mu. Sebabkanlah daku untuk berhubung dengan mereka yang tak terikat kepada segala sesuatu kecuali Engkau, yang ingin mengabdi kepada ambang pintu-Mu yang suci dan yang tetap berkhidmat kepada Akidah-Mu. Bolehkanlah daku menjadi salah seorang dayang-Mu yang telah mencapai keredaan-Mu. Sesungguhnya, Engkau adalah Yang Maha Pengasih, Yang Maha Dermawan.
 
 (Source category: WANITA)
 (Bahaiprayers.net ID: 12189)
+
+
 
 
 
@@ -2137,6 +2583,8 @@ Ya Tuhanku, aku mempersembahkan kepada-Mu apa yang ada di dalam kandunganku. Lal
 
 (Source category: WANITA YANG HAMIL)
 (Bahaiprayers.net ID: 12190)
+
+
 
 
 
@@ -2155,6 +2603,8 @@ Engkau, sesungguhnya, jauh lebih luhur atas segala sesuatu kecuali Dirimu Sendir
 
 
 
+
+
 ## ḤUQÚQU’LLÁH: HAK TUHAN
 
 ### <a id="bpn12071"></a> Prayer bpn12071 in Bahasa Melayu
@@ -2167,6 +2617,8 @@ Dimuliakanlah Engkau, Ya Tuhan segala ciptaan, kepada Engkaulah harus segala ben
 (Bahaiprayers.net ID: 12071)
 
 
+
+
 ### <a id="bpn12072"></a> Prayer bpn12072 in Bahasa Melayu
 ”Katakanlah: Janganlah bergembira dalam benda yang engkau miliki; malam ini ianya kepunyaanmu, keesokan hari orang lain akan memilikinya.”
 
@@ -2176,6 +2628,9 @@ Dimuliakanlah Engkau, Ya Tuhan segala ciptaan, kepada Engkaulah harus segala ben
 
 (Source category: ḤUQÚQU’LLÁH: HAK TUHAN)
 (Bahaiprayers.net ID: 12072)
+
+
+
 
 
 

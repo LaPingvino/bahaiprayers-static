@@ -3,6 +3,42 @@ title = "Kube"
 tags = ['lang=kgf', 'prayerbook']
 +++
 
+
+
+[Ac Mosoc Hotoŋŋa Kaiwe Sêc Mepêsima Kecmu](#Ac Mosoc Hotoŋŋa Kaiwe Sêc Mepêsima Kecmu)
+
+[Eu Iniŋ Onac Memeseli Ac Mosoc](#Eu Iniŋ Onac Memeseli Ac Mosoc)
+
+[Eu Iniŋ Onac Memeseli Mosoc Ara](#Eu Iniŋ Onac Memeseli Mosoc Ara)
+
+[Ewa Niŋ Gêsiac Ac Mosoc](#Ewa Niŋ Gêsiac Ac Mosoc)
+
+[Humuc Zêzêtec Ac Mosoc](#Humuc Zêzêtec Ac Mosoc)
+
+[Hêna Hiawac Ac Mosoc](#Hêna Hiawac Ac Mosoc)
+
+[Kêpêsic Zêzêtec Ac Mosoc](#Kêpêsic Zêzêtec Ac Mosoc)
+
+[Merac Onac Kewu Mosoc](#Merac Onac Kewu Mosoc)
+
+[Nene Sigi Kekec Imuac Ac Mosoc](#Nene Sigi Kekec Imuac Ac Mosoc)
+
+[Qutulaŋ Ewa Momac Kekec Imuac Ac Mosoc](#Qutulaŋ Ewa Momac Kekec Imuac Ac Mosoc)
+
+[Siŋi Horuwia Wac Ac Mosoc](#Siŋi Horuwia Wac Ac Mosoc)
+
+[Siŋiawac Ac Mosoc](#Siŋiawac Ac Mosoc)
+
+[Siŋunec Ac Mosoc](#Siŋunec Ac Mosoc)
+
+[Uŋwambuŋga Baecsêc](#Uŋwambuŋga Baecsêc)
+
+[Uŋŋa Memeseli Ac Mosoc](#Uŋŋa Memeseli Ac Mosoc)
+
+[Yaŋ Hafi Nesimac Imuac Ac Mosoc](#Yaŋ Hafi Nesimac Imuac Ac Mosoc)
+
+
+
 ## Ac Mosoc Hotoŋŋa Kaiwe Sêc Mepêsima Kecmu
 
 ### <a id="bpn13034"></a> Prayer bpn13034 in Kube
@@ -15,6 +51,8 @@ O Kewu.  Ni deguc kaiwe ya mepêsi gênzua.  Imuac yomuhuc zêʒua, ni ic nenesi
 
 
 
+
+
 ## Eu Iniŋ Onac Memeseli Ac Mosoc
 
 ### <a id="bpn13039"></a> Prayer bpn13039 in Kube
@@ -22,6 +60,8 @@ Zêzê sêgisêgi mepê qepêsi Kewu geŋga moru haʒac.  O Kewu Yanda:  Nini yo
 
 (Source category: Eu Iniŋ Onac Memeseli Ac Mosoc)
 (Bahaiprayers.net ID: 13039)
+
+
 
 
 
@@ -37,6 +77,8 @@ Imi hêlacnec, nini moczoŋ Kewu nêŋêna Ewa siŋ hêna zêyec imuacnec mênda
 
 
 
+
+
 ## Ewa Niŋ Gêsiac Ac Mosoc
 
 ### <a id="bpn13044"></a> Prayer bpn13044 in Kube
@@ -44,6 +86,8 @@ Yomuhuc zêʒua.  O Kewu.  Kewu na orucna asacmararaŋ ganêŋ qezericna orucna 
 
 (Source category: Ewa Niŋ Gêsiac Ac Mosoc)
 (Bahaiprayers.net ID: 13044)
+
+
 
 
 
@@ -90,6 +134,8 @@ Imi hêlacnec, neŋaŋ Kewuguc bênzêŋ kecni.
 
 
 
+
+
 ## Hêna Hiawac Ac Mosoc
 
 ### <a id="bpn13048"></a> Prayer bpn13048 in Kube
@@ -97,6 +143,8 @@ O Nemu Yanda.  O Kewuna.  Gi hêna oriŋga ninicna sêcgêʒac imi meseli nênê
 
 (Source category: Hêna Hiawac Ac Mosoc)
 (Bahaiprayers.net ID: 13048)
+
+
 
 
 
@@ -110,6 +158,8 @@ O Kewu, geŋgaoc zêra bêra gêsina.  Baec iguc ic kuc mêŋŋê hia mênda nes
 
 
 
+
+
 ## Merac Onac Kewu Mosoc
 
 ### <a id="bpn13040"></a> Prayer bpn13040 in Kube
@@ -117,6 +167,8 @@ O Kewu.  Kekec hêna hiabia nêʒêna hêmba galeŋgê nênna asacmararaŋ gaŋ�
 
 (Source category: Merac Onac Kewu Mosoc)
 (Bahaiprayers.net ID: 13040)
+
+
 
 
 
@@ -132,6 +184,8 @@ O Kewu, guac uŋwambuŋ.  Ni sêwina wac kekec imi mênda ninʒêŋ geʒua.  Ni 
 
 
 
+
+
 ## Qutulaŋ Ewa Momac Kekec Imuac Ac Mosoc
 
 ### <a id="bpn13036"></a> Prayer bpn13036 in Kube
@@ -139,6 +193,8 @@ O Kewuna!  O Kewuna!  Hêna oriŋga ewa nina qutulaŋgêna ac koazêcgawac hêni
 
 (Source category: Qutulaŋ Ewa Momac Kekec Imuac Ac Mosoc)
 (Bahaiprayers.net ID: 13036)
+
+
 
 
 
@@ -154,6 +210,8 @@ O Nemu Yanda, Ni ewa qerina melemba geŋgamoru tilêŋtilêŋ kucgawac qeru haʒ
 
 
 
+
+
 ## Siŋiawac Ac Mosoc
 
 ### <a id="bpn13045"></a> Prayer bpn13045 in Kube
@@ -161,6 +219,8 @@ O Kewu Na.  Gi nuac maŋgocna.  Ni guac ewana kunen yanda heʒac.  Ai icga ni si
 
 (Source category: Siŋiawac Ac Mosoc)
 (Bahaiprayers.net ID: 13045)
+
+
 
 
 
@@ -174,6 +234,8 @@ O Kewu Yanda, tilêŋtilêŋ miŋŋina.  Ni ewa hia nimma mepêsi gênzua.  Nêm
 
 
 
+
+
 ## Uŋwambuŋga Baecsêc
 
 ### <a id="bpn13033"></a> Prayer bpn13033 in Kube
@@ -181,6 +243,8 @@ Kewu uŋwambuŋga baecsêc, amaiguc, ama qeru qutulaŋ amaiguc, ic embac qeri ig
 
 (Source category: Uŋwambuŋga Baecsêc)
 (Bahaiprayers.net ID: 13033)
+
+
 
 
 
@@ -194,6 +258,8 @@ O Kewu kunenna.  O Kewu kunenna.  Ai icga youmi imi kifaga geŋga uŋagawac uŋw
 
 
 
+
+
 ## Yaŋ Hafi Nesimac Imuac Ac Mosoc
 
 ### <a id="bpn13037"></a> Prayer bpn13037 in Kube
@@ -201,6 +267,9 @@ O Kewuna.  Qacga iminêŋ nuac sacmasi wamma hafina nesimac.  Ni imuhuc ninzêŋ
 
 (Source category: Yaŋ Hafi Nesimac Imuac Ac Mosoc)
 (Bahaiprayers.net ID: 13037)
+
+
+
 
 
 

@@ -3,6 +3,94 @@ title = "Deutsch"
 tags = ['lang=de', 'prayerbook']
 +++
 
+
+
+[Abend](#Abend)
+
+[Allgemein](#Allgemein)
+
+[Allmacht Gottes](#Allmacht Gottes)
+
+[Ayyám-í-Há](#Ayyám-í-Há)
+
+[Beistand](#Beistand)
+
+[Besuchsgebet - Zíyárat-Námih](#Besuchsgebet - Zíyárat-Námih)
+
+[Das kurze Pflichtgebet](#Das kurze Pflichtgebet)
+
+[Das lange Pflichtgebet](#Das lange Pflichtgebet)
+
+[Das mittlere Pflichtgebet](#Das mittlere Pflichtgebet)
+
+[Dienstbarkeit](#Dienstbarkeit)
+
+[Einheit](#Einheit)
+
+[Familie](#Familie)
+
+[Fasten](#Fasten)
+
+[Festigkeit im Bund](#Festigkeit im Bund)
+
+[Fonds](#Fonds)
+
+[Frieden](#Frieden)
+
+[Führung und Erkenntnis](#Führung und Erkenntnis)
+
+[Gebet der Begegnung - Munájátu'l-Liqá](#Gebet der Begegnung - Munájátu'l-Liqá)
+
+[Geistiger Rat](#Geistiger Rat)
+
+[Heilung](#Heilung)
+
+[Hochzeit](#Hochzeit)
+
+[Jugendliche](#Jugendliche)
+
+[Kinder](#Kinder)
+
+[Lehren](#Lehren)
+
+[Lob und Dank](#Lob und Dank)
+
+[Loslösung](#Loslösung)
+
+[Menschheit](#Menschheit)
+
+[Morgen](#Morgen)
+
+[Naw-Rúz](#Naw-Rúz)
+
+[Prüfungen und Schwierigkeiten](#Prüfungen und Schwierigkeiten)
+
+[Reue und Vergebung](#Reue und Vergebung)
+
+[Schutz](#Schutz)
+
+[Sieg der Gottessache](#Sieg der Gottessache)
+
+[Standhaftigkeit](#Standhaftigkeit)
+
+[Tafel an Ahmad - Lawh-i-Ahmad](#Tafel an Ahmad - Lawh-i-Ahmad)
+
+[Tafel vom Feuer - Qas-Ihtaraqa'l-Mukhlisún](#Tafel vom Feuer - Qas-Ihtaraqa'l-Mukhlisún)
+
+[Tafel vom Heiligen Seefahrer - Lawh-i-Malláhu'l-Quds](#Tafel vom Heiligen Seefahrer - Lawh-i-Malláhu'l-Quds)
+
+[Tischgebete](#Tischgebete)
+
+[Tugenden](#Tugenden)
+
+[Verfolgungen](#Verfolgungen)
+
+[Versammlungen](#Versammlungen)
+
+[Verstorbene](#Verstorbene)
+
+
+
 ## Abend
 
 ### <a id="bpn518"></a> Prayer bpn518 in Deutsch
@@ -14,6 +102,8 @@ Bei Deiner Macht! Ob schlafend oder wachend, erbitte ich nur, was Du wünschest.
 (Bahaiprayers.net ID: 518)
 
 
+
+
 ### <a id="bpn517"></a> Prayer bpn517 in Deutsch
 O mein Gott, mein Meister, Du Ziel meiner Sehnsucht. Dein Diener möchte schlafen im Schutze Deines Erbarmens und ruhen im Zelte Deiner Gnade. Er fleht um Deine sorgende Acht und Deinen Schutz.
 Ich bitte Dich, o mein Herr, bei Deinem Auge, das nicht schläft, behüte meine Augen, dass sie nichts schauen außer Dir. Schärfe alsdann ihren Blick, damit sie Deine Zeichen erkennen und den Horizont Deiner Offenbarung schauen. Du bist Der, vor Dessen Offenbarungen der Allmacht alle Macht in ihrem Wesenskern erbebt.
@@ -23,12 +113,16 @@ Es gibt keinen Gott außer Dir, dem Allmächtigen, dem Allbezwingenden, dem Unbe
 (Bahaiprayers.net ID: 517)
 
 
+
+
 ### <a id="AB06528MID"></a> Midnight Prayer in Deutsch
 O Wahrheitssucher! Wenn du wünschest, dass Gott dein geistiges Auge öffne, so flehe zu Ihm und halte Zwiesprache um Mitternacht mit folgenden Worten:O Herr, ich habe mein Angesicht Deinem Reich der Einheit zugewandt und lasse mich versinken im Meere Deiner Gnade. O Herr, erleuchte mein Auge mit Deinem Licht in dieser dunklen Nacht und beglücke mich mit dem Wein Deiner Liebe in dieser wunderbaren Zeit. O Herr, lasse mich Deinen Ruf hören und öffne vor meinem Angesicht die Tore Deines Himmels, damit ich das Licht Deiner Herrlichkeit schaue und hingezogen werde zu Deiner Schönheit.
 Wahrlich, Du bist der Geber, der Großmütige, der Barmherzige, der Verzeihende.
 
 (Source category: Abend)
 (Bahaiprayers.net ID: 440)
+
+
 
 
 
@@ -41,11 +135,15 @@ Selig der Ort und das Haus und der Platz und die Stadt und das Herz und der Berg
 (Bahaiprayers.net ID: 519)
 
 
+
+
 ### <a id="bpn520"></a> Prayer bpn520 in Deutsch
 Singe die Verse Gottes, o Mein Diener, die du empfangen, wie jene sie singen, die Ihm nahe sind, damit die Süße deiner Weise deine Seele entflamme und die Herzen aller Menschen anziehe. Wer zurückgezogen in seiner Kammer die von Gott offenbarten Verse spricht, wird erfahren, wie die Engel des Allmächtigen den Duft der Worte, die sein Mund ausspricht, überall verbreiten und das Herz jedes rechtschaffenen Menschen höher schlagen lassen. Mag er sich auch zunächst dieser Wirkung nicht bewußt werden, muß doch die Kraft der ihm gewährten Gnade früher oder später ihren Einfluß auf seine Seele üben. So sind die Geheimnisse der Offenbarung Gottes durch den Willen Dessen, der Urquell aller Macht und Weisheit ist, verfügt worden.
 
 (Source category: Allgemein)
 (Bahaiprayers.net ID: 520)
+
+
 
 
 
@@ -62,12 +160,16 @@ Du bist wahrlich der Herr der Schöpfung. Es gibt keinen Gott außer Dir, dem Im
 (Bahaiprayers.net ID: 522)
 
 
+
+
 ### <a id="bpn523"></a> Prayer bpn523 in Deutsch
 Ich flehe Dich an bei eben diesem Wort, das vom Horizonte Deines Willens hervorleuchtet, mache mich fähig, in tiefen Zügen von den Lebenswassern zu trinken, mit denen Du die Herzen Deiner Auserwählten belebst und die Seelen derer erquickest, die Dich lieben, damit ich mein Angesicht allezeit, in jeder Lage, völlig Dir zuwende.
 Du bist der Gott der Macht, der Herrlichkeit und Gnadenfülle. Es gibt keinen Gott außer Dir, dem Höchsten Herrscher, dem Allherrlichen, dem Allwissenden.
 
 (Source category: Allmacht Gottes)
 (Bahaiprayers.net ID: 523)
+
+
 
 
 ### <a id="bpn524"></a> Prayer bpn524 in Deutsch
@@ -80,6 +182,8 @@ Mächtig bist Du zu tun, was Dir gefällt. Du bist fürwahr der Allherrliche, de
 (Bahaiprayers.net ID: 524)
 
 
+
+
 ### <a id="bpn525"></a> Prayer bpn525 in Deutsch
 Gott bezeugt die Einheit Seiner Gottheit und die Einzigartigkeit Seines Wesens. Auf dem Thron der Ewigkeit, von den unzugänglichen Höhen Seiner Stufe verkündet Seine Zunge, dass es keinen Gott gibt außer Ihm. Unabhängig ist Er von allen anderen und seit je Zeuge Seiner Einzigkeit, Offenbarer und Verherrlicher Seines Wesens. Wahrlich, Er ist der Allgewaltige, der Allmächtige, der vollendet Schöne.
 Er ist höchster Herr über Seine Diener und steht über Seinen Geschöpfen. In Seiner Hand ist der Quell aller Herrschaft und Wahrheit. Durch Seine Zeichen ruft Er die Menschen ins Leben und lässt sie sterben durch Seinen Zorn. Er darf nicht befragt werden über Sein Tun, und Seine Macht ist allem gewachsen. Er ist der Mächtige, der Allunterwerfende. In Seinem Griff hält Er das Reich alles Erschaffenen, und fest ruht in Seiner Rechten das Reich Seiner Offenbarung. Seine Macht umfängt wahrlich die ganze Schöpfung. Sein ist Sieg und Allgewalt. Sein ist alle Macht und Herrschaft. Sein ist Ruhm und Größe. Er ist wahrhaftig der Allherrliche, der Gewaltigste, der Unbedingte.
@@ -88,12 +192,16 @@ Er ist höchster Herr über Seine Diener und steht über Seinen Geschöpfen. In 
 (Bahaiprayers.net ID: 525)
 
 
+
+
 ### <a id="bpn527"></a> Prayer bpn527 in Deutsch
 Sei gelobt, o Herr mein Gott! Wann immer ich von Dir zu sprechen wage, werde ich daran gehindert durch die Erhabenheit Deiner Stufe und die überwältigende Größe Deiner Macht. Denn wollte ich Dich auch preisen, solange Deine Herrschaft und höchste Macht währt, würde ich doch erkennen, dass mein Lob nur auf meinesgleichen passt, auf solche, die selbst nur Deine Geschöpfe sind, gezeugt durch die Macht Deines Befehls und gestaltet durch die Wirkkraft Deines Willens. Und wann immer meine Feder einen Deiner Namen rühmt, dünkt mir, ich höre die Stimme seines Wehklagens über seine Ferne von Dir und erkenne seinen Schrei, weil er von Dir getrennt ist. Ich bezeuge, dass alles außer Dir nur Deine Schöpfung ist, gehalten in der Höhlung Deiner Hand. Wenn Du von Deinen Geschöpfen eine Tat oder ein Lob annimmst, ist dies nur ein Beweis für die Wunder Deiner Gnade und Deiner großmütigen Gunstbeweise, eine Offenbarung Deiner Freigebigkeit und Vorsehung.
 Ich flehe Dich an, o mein Herr, bei Deinem Größten Namen, durch den Du Licht von Feuer, Wahrheit von Leugnung schiedest, sende hernieder auf mich und meine Lieben, die um mich sind, das Gute dieser und der zukünftigen Welt. Versieh uns alsdann mit Deinen wundersamen Gaben, die den Augen der Menschen verborgen sind. Du bist wahrlich der Gestalter der ganzen Schöpfung. Es gibt keinen Gott außer Dir, dem Allmächtigen, dem Allherrlichen, dem Höchsten.
 
 (Source category: Allmacht Gottes)
 (Bahaiprayers.net ID: 527)
+
+
 
 
 ### <a id="bpn521"></a> Prayer bpn521 in Deutsch
@@ -109,6 +217,8 @@ Aller Lobpreis und alle Herrlichkeit seien Dir, o Du, von dem alle Dinge bezeuge
 (Bahaiprayers.net ID: 521)
 
 
+
+
 ### <a id="bpn526"></a> Prayer bpn526 in Deutsch
 O Mein Gott, Du meiner Anbetung und meiner Sehnsucht Ziel, Du Allgütiger, Mitleidvollster! Alles Leben kommt von Dir, und alle Gewalt ruht in Deiner Allmacht Griff. Wen immer Du erhebst, der ist über die Engel erhoben und erreicht die Stufe des: „Wahrlich, Wir erhoben ihn zu hohem Rang“, und wen Du erniedrigst, der wird niedriger denn Staub, nein, geringer als das Nichts.
 O göttliche Vorsehung! Böse, sündig und haltlos wie wir sind, suchen wir dennoch bei Dir einen „Sitz der Wahrheit“ und sehnen uns, das Antlitz des Allmächtigen Königs zu schauen. Dein ist der Befehl, Dein ist alle Herrschaft, und das Reich der Macht beugt sich vor Deinem Geheiß. Alles, was Du tust, ist reine Gerechtigkeit, nein, Inbegriff der Gnade. Ein Strahl vom Glanze Deines Namens, der Allbarmherzige, genügt, jede Spur von Sündhaftigkeit aus der Welt zu bannen und zu tilgen, und ein Hauch der sanften Winde vom Tag Deiner Offenbarung reicht aus, die ganze Menschheit mit einem neuen Gewande zu schmücken.
@@ -117,6 +227,8 @@ Wir bitten Dich, o Vorsehung, zeige allen Menschen Deinen Weg und leite sie rech
 
 (Source category: Allmacht Gottes)
 (Bahaiprayers.net ID: 526)
+
+
 
 
 ### <a id="bpn639"></a> Prayer bpn639 in Deutsch
@@ -129,6 +241,8 @@ Unermesslich erhaben bist Du, o Herr! Behüte uns vor dem, was vor und was hinte
 (Bahaiprayers.net ID: 639)
 
 
+
+
 ### <a id="bpn638"></a> Prayer bpn638 in Deutsch
 Alle Herrlichkeit und Majestät, o mein Gott, alle Herrschaft, alle Erhabenheit und aller Lichtglanz seien Dein. Du verleihest Herrschaft, wem Du willst, und Du entziehst sie, wem Du wünschest. Es gibt keinen Gott außer Dir, dem Allbesitzenden, dem höchst Erhabenen. Du hast das Weltall aus dem Nichts erschaffen und alles, was darinnen ist. Nichts ist Deiner wert außer Dir selbst, sind doch alle außer Dir wie Ausgestoßene in Deiner heiligen Gegenwart, wie ein Nichts im Vergleich zur Herrlichkeit Deines Wesens..
 Es liegt mir fern, Deine Tugenden anders zu preisen als so, wie Du Dich selbst in Deinem gewichtigen Buche gepriesen hast, worin Du sagst: „Kein Auge kann Ihn erfassen, doch Er erfasst ein jedes Gesicht. Er ist der Feinsinnige, der Allkundige.“ Ruhm sei Dir, o mein Gott! Kein noch so scharfer, urteilsfähiger Geist und keine Schau kann fürwahr jemals das geringste Deiner Zeichen dem Wesen nach erfassen. Wahrlich, Du bist Gott; es gibt keinen Gott außer Dir. Ich bezeuge, dass in Dir allein Deine Eigenschaften zum Ausdruck kommen, dass niemandes Lobpreis außer dem Deinen zu Deinem heiligen Hof aufsteigen kann und dass niemand Deine Eigenschaften auszuloten vermag außer Dir selbst.
@@ -136,6 +250,8 @@ Ruhm sei Dir! Erhaben bist Du über jede Beschreibung außer der Deinen, denn me
 
 (Source category: Allmacht Gottes)
 (Bahaiprayers.net ID: 638)
+
+
 
 
 
@@ -154,6 +270,8 @@ Du bist wahrlich der Allmächtige, der Allwissende, der Allweise.
 
 
 
+
+
 ## Beistand
 
 ### <a id="bpn528"></a> Prayer bpn528 in Deutsch
@@ -165,6 +283,8 @@ Alle sind arm und bedürftig, Du aber bist wahrlich der Allbesitzende, der Allbe
 (Bahaiprayers.net ID: 528)
 
 
+
+
 ### <a id="bpn529"></a> Prayer bpn529 in Deutsch
 O Du, zu Dessen Antlitz sich meine Anbetung erhebt! Deine Schönheit ist mein Heiligtum, Deine Wohnstatt mein Ziel, Dein Lobpreis meine Hoffnung, Deine Vorsehung mein Gefährte, Deine Liebe der Grund meines Seins, Dein Gedenken mein Trost, Deine Nähe mein Verlangen, Deine Gegenwart mein liebster Wunsch und meine höchste Sehnsucht. Darum bitte ich Dich flehentlich, versage mir nicht, was Du für die Erwählten unter Deinen Dienern bestimmt hast, und versorge mich mit allem Guten in dieser und der zukünftigen Welt.
 Du bist fürwahr der König aller Menschen. Es gibt keinen Gott außer Dir, dem Immervergebenden, dem Großmütigsten.
@@ -173,12 +293,16 @@ Du bist fürwahr der König aller Menschen. Es gibt keinen Gott außer Dir, dem 
 (Bahaiprayers.net ID: 529)
 
 
+
+
 ### <a id="bpn530"></a> Prayer bpn530 in Deutsch
 Auf Dich, o mein Gott, richte ich mein Angesicht, auf die Wunder Deiner Gnade und die Offenbarungen Deiner Großmut setze ich meine Hoffnung. Ich bitte Dich, lass mich nicht enttäuscht am Tore Deiner Barmherzigkeit umkehren, und überlasse mich nicht solchen Deiner Geschöpfe, die Deine Sache zurückweisen.
 Ich bin, o mein Gott, Dein Diener und Deines Dieners Sohn. Ich habe in Deinen Tagen Deine Wahrheit erkannt, habe meine Schritte zu den Ufern Deiner Einzigkeit gelenkt, bekenne Deine Einmaligkeit, anerkenne Deine Einheit und hoffe auf Deine Vergebung und Verzeihung. Mächtig bist Du zu tun, was Du willst; es gibt keinen Gott außer Dir, dem Allherrlichen, dem Immervergebenden.
 
 (Source category: Beistand)
 (Bahaiprayers.net ID: 530)
+
+
 
 
 ### <a id="bpn531"></a> Prayer bpn531 in Deutsch
@@ -190,6 +314,8 @@ Du bist wahrhaftig der Immervergebende, der Mitleidvollste.
 (Bahaiprayers.net ID: 531)
 
 
+
+
 ### <a id="bpn532"></a> Prayer bpn532 in Deutsch
 Gelobt sei Dein Name, o Herr mein Gott! Ich flehe Dich an bei Deinem Namen, durch den die Stunde schlug, die Auferstehung geschah und Furcht und Zittern alle im Himmel und auf Erden ergriff, lass aus dem Himmel Deines Erbarmens, aus den Wolken Deines zarten Mitleids auf uns herabregnen, was die Herzen Deiner Diener, die sich Dir zuwenden und Deiner Sache beistehen, mit Freude erfüllt.
 Bewahre Deine Diener und Deine Mägde, o mein Gott, vor den Pfeilen eitlen Wahns und leeren Trugs, und reiche ihnen aus den Händen Deiner Gnade einen Trunk vom sanft fließenden Wasser Deiner Erkenntnis.
@@ -199,11 +325,15 @@ Du bist wahrlich der Allmächtige, der Erhabenste, der Immervergebende, der Frei
 (Bahaiprayers.net ID: 532)
 
 
+
+
 ### <a id="bpn533"></a> Prayer bpn533 in Deutsch
 O mein Gott! Ich bitte Dich bei Deinem erhabensten Namen, hilf mir zu tun, was die Belange Deiner Diener fördert und Deine Städte erblühen lässt. Du hast wahrlich Macht über alle Dinge.
 
 (Source category: Beistand)
 (Bahaiprayers.net ID: 533)
+
+
 
 
 ### <a id="bpn534"></a> Prayer bpn534 in Deutsch
@@ -213,11 +343,15 @@ Sprich: Ruhm sei Dir, der Du alle Heiligen ihre Hilflosigkeit vor den mannigfalt
 (Bahaiprayers.net ID: 534)
 
 
+
+
 ### <a id="bpn535"></a> Prayer bpn535 in Deutsch
 Preis sei Dir, o mein Herr, dass Du mich die Manifestation Deiner Selbst erkennen ließest und mir hilfst, mein Herz dem Hofe Deiner Gegenwart, dem Ziel der Anbetung meiner Seele, zuzuwenden. Ich flehe Dich an bei Deinem Namen, der die Himmel spaltete und die Erde bersten ließ, bestimme für mich, was Du für die bestimmt hast, die sich von allem außer Dir abwenden und ihr Herz fest auf Dich gründen. Gewähre, dass ich in Deiner Gegenwart auf dem Sitze der Wahrheit im Heiligtum der Herrlichkeit sitze. Mächtig bist Du zu tun, was Du willst. Es gibt keinen Gott außer Dir, dem Allherrlichen, dem Allweisen.
 
 (Source category: Beistand)
 (Bahaiprayers.net ID: 535)
+
+
 
 
 ### <a id="bpn536"></a> Prayer bpn536 in Deutsch
@@ -228,12 +362,16 @@ Du bist fürwahr der Vergebende, der Freigebige.
 (Bahaiprayers.net ID: 536)
 
 
+
+
 ### <a id="bpn537"></a> Prayer bpn537 in Deutsch
 Preis sei Dir, o Herr mein Gott, mein Meister! Du vernimmst die Seufzer derer, die trotz ihres Verlangens, Dein Antlitz zu schauen, von Dir getrennt und weit von Deinem Hof entfernt sind. Du bezeugst die Wehklagen derer, die Dich erkannt haben in ihrer Verbannung von Dir und ihrer Sehnsucht, Dir zu begegnen. Ich flehe Dich an bei jenen Herzen, die nur die Schätze Deines Gedenkens und Deines Lobpreises enthalten und nur die Beweise Deiner Größe und Deiner Macht verkünden, verleihe Deinen Dienern, die sich nach Dir sehnen, die Kraft, dem Thronsitz zu nahen, wo Deine Herrlichkeit ihren Strahlenglanz offenbart, und hilf denen, die ihre Hoffnung auf Dich setzen, in das Heiligtum Deiner allüberragenden Gunst und Gnade einzugehen.
 Ich bin nackt, o mein Gott; kleide mich in das Gewand Deines zarten Erbarmens. Ich leide heftigen Durst; gib mir zu trinken aus den Meeren Deiner Großmut und Gunst. Ich bin ein Fremdling; ziehe mich hin zum Quell Deiner Gaben. Ich bin krank; besprenge mich mit den heilenden Wassern Deiner Gnade. Gefangen bin ich; löse mich durch die Kraft Deiner Macht und die Stärke Deines Willens aus meinen Banden, auf dass ich mich auf den Schwingen der Loslösung in die höchsten Höhen Deiner Schöpfung erhebe. Wahrlich, Du tust, was Dir gefällt. Es gibt keinen Gott außer Dir, dem Helfer in Gefahr, dem Allherrlichen, dem Unbezwungenen.
 
 (Source category: Beistand)
 (Bahaiprayers.net ID: 537)
+
+
 
 
 ### <a id="bpn641"></a> Prayer bpn641 in Deutsch
@@ -244,6 +382,8 @@ O mein Herr, verleihe Deinen Segen den Boten, den Heiligen und den Gerechten. Wa
 
 (Source category: Beistand)
 (Bahaiprayers.net ID: 641)
+
+
 
 
 ### <a id="bpn642"></a> Prayer bpn642 in Deutsch
@@ -257,6 +397,8 @@ Dein ist die unumschränkte Befehlsgewalt.
 (Bahaiprayers.net ID: 642)
 
 
+
+
 ### <a id="bpn640"></a> Prayer bpn640 in Deutsch
 Sprich: Gott genügt allen Dingen über alle Dinge hinaus, und nichts in den Himmeln, auf Erden oder dazwischen kann genügen außer Gott, deinem Herrn. Wahrlich, Er ist der Wissende, der Erhalter, der Allmächtige.
 
@@ -264,11 +406,15 @@ Sprich: Gott genügt allen Dingen über alle Dinge hinaus, und nichts in den Him
 (Bahaiprayers.net ID: 640)
 
 
+
+
 ### <a id="bpn441"></a> Prayer bpn441 in Deutsch
 O Herr! Wir sind schwach; gib uns Kraft. O Gott! Wir sind unwissend, verleihe uns Wissen. O Herr! Wir sind arm; mache uns reich. O Gott! Wir sind tot, schenke uns Leben. O Herr! Zutiefst sind wir erniedrigt, verherrliche uns in Deinem Königreich. So Du uns beistehst, o Herr, werden wir funkelnden Sternen gleich; so Du uns nicht hilfst, werden wir geringer denn Staub. O Herr! Stärke uns. O Gott! Mache uns siegreich. O Gott! Hilf uns, das Selbst zu besiegen und die Gier zu überwinden. O Herr! Befreie uns aus der Knechtschaft der stofflichen Welt. O Herr! Belebe uns durch den Odem des Heiligen Geistes, damit wir uns erheben, Dir zu dienen und Dich anzubeten, und dass wir uns von ganzem Herzen in Deinem Königreich bemühen. O Herr! Du bist der Machtvolle! O Gott, Du bist der Vergebende! O Herr, Du bist der Mitleidvolle.
 
 (Source category: Beistand)
 (Bahaiprayers.net ID: 441)
+
+
 
 
 ### <a id="bpn442"></a> Prayer bpn442 in Deutsch
@@ -281,6 +427,8 @@ Wahrlich, Du bist der Mächtige, der Gewaltige, der Beschützer, der Starke, der
 (Bahaiprayers.net ID: 442)
 
 
+
+
 ### <a id="bpn443"></a> Prayer bpn443 in Deutsch
 O Du gütiger Herr! Wir sind Diener an Deiner Schwelle, die an Deinem heiligen Tor Obdach nehmen. Wir suchen keine Zuflucht als zu dieser starken Säule und wenden uns nach keinem Port als Deinem sicheren Gewahrsam. Beschütze uns, segne uns, hilf uns; lass uns nur Dein Wohlgefallen lieben, nur Dein Lob anstimmen, nur auf dem Pfad der Wahrheit wandeln, bis wir so reich werden, dass wir alles außer Dir entbehren können, unsere Gaben aus dem Meer Deiner Wohltätigkeit empfangen und allezeit danach trachten, Deine Sache zu erheben und Deine süßen Düfte nah und fern zu verbreiten, auf dass wir unser Selbst vergessen und, nur mit Dir befasst, alles für wertlos erachten und ganz in Dir aufgehen.
 O Du Versorger, o Du Vergeber! Gewähre uns Deine Güte und Gnade, Deine Gaben und Spenden, und gib uns die Kraft, unser Ziel zu erreichen. Du bist der Gewaltige, der Fähige, der Wissende, der Sehende; wahrlich, Du bist der Freigebige, wahrlich, Du bist der Allerbarmer, wahrlich, Du bist der Immervergebende, dem Reue geschuldet wird, der selbst die schwersten Sünden vergibt.
@@ -289,11 +437,15 @@ O Du Versorger, o Du Vergeber! Gewähre uns Deine Güte und Gnade, Deine Gaben u
 (Bahaiprayers.net ID: 443)
 
 
+
+
 ### <a id="bpn444"></a> Prayer bpn444 in Deutsch
 O mein Gott, mein Geliebter, mein Verlangen! Steh mir bei in meiner Einsamkeit und sei mit mir in meiner Verbannung. Nimm meinen Kummer hinweg und mache mich Deiner Schönheit ergeben. Löse mich von allem außer Dir. Lass mich angezogen sein von den Düften Deiner Heiligkeit. Lass mich in Deinem Reich mit denen vereint sein, die sich gelöst haben von allem außer Dir, die sich sehnen, an Deiner heiligen Schwelle zu dienen, und die in Deiner Sache an die Arbeit gehen. Befähige mich, eine Dienerin zu sein, die Dein Wohlgefallen erlangt hat. Wahrlich, Du bist der Gnädige, der Großmütige.
 
 (Source category: Beistand)
 (Bahaiprayers.net ID: 444)
+
+
 
 
 ### <a id="bpn445"></a> Prayer bpn445 in Deutsch
@@ -305,6 +457,8 @@ Du bist wahrlich der Eine, der Einzige, der Mächtige, der Allwissende, der Allw
 (Bahaiprayers.net ID: 445)
 
 
+
+
 ### <a id="bpn446"></a> Prayer bpn446 in Deutsch
 Herr! Wir sind bemitleidenswert, gewähre uns Deine Gunst; wir sind arm, schenke uns einen Anteil am Meere Deines Reichtums; bedürftig sind wir, gib uns, was uns mangelt; wir sind erniedrigt, verleihe uns Deine Herrlichkeit. Die Vögel in der Luft und die Tiere auf dem Felde erhalten ihre Nahrung täglich von Dir, und alle Wesen erfahren Deinen Schutz und Deine Güte.
 Entziehe diesem Schwachen nicht Deine wundersame Gnade und schenke durch Deine Macht dieser hilflosen Seele Deine Großmut.
@@ -312,6 +466,8 @@ Gib uns unser täglich Brot und was wir zum Leben bedürfen die Fülle, damit wi
 
 (Source category: Beistand)
 (Bahaiprayers.net ID: 446)
+
+
 
 
 
@@ -332,6 +488,8 @@ Segne, o Herr mein Gott, den göttlichen Lotosbaum, seine Blätter, seine Äste 
 
 
 
+
+
 ## Das kurze Pflichtgebet
 
 ### <a id="bpn663"></a> Prayer bpn663 in Deutsch
@@ -341,6 +499,8 @@ Ich bezeuge, o mein Gott, dass Du mich erschaffen hast, Dich zu erkennen und anz
 
 (Source category: Das kurze Pflichtgebet)
 (Bahaiprayers.net ID: 663)
+
+
 
 
 
@@ -385,6 +545,8 @@ Ich bezeuge, o mein Gott, was Deine Erwählten bezeugen, und bekenne, was die Be
 
 
 
+
+
 ## Das mittlere Pflichtgebet
 
 ### <a id="bpn664"></a> Prayer bpn664 in Deutsch
@@ -413,6 +575,8 @@ Ich bezeuge Deine Einheit und Deine Einzigkeit, dass Du Gott bist und es keinen 
 
 
 
+
+
 ## Dienstbarkeit
 
 ### <a id="bpn538"></a> Prayer bpn538 in Deutsch
@@ -420,6 +584,8 @@ O unser Gott! Wir bitten Dich beim König der Namen, dem Schöpfer von Himmel un
 
 (Source category: Dienstbarkeit)
 (Bahaiprayers.net ID: 538)
+
+
 
 
 ### <a id="bpn539"></a> Prayer bpn539 in Deutsch
@@ -430,11 +596,15 @@ Wahrlich, Du bist der Machtvolle, der Unzugängliche, der Höchste, der Wissende
 (Bahaiprayers.net ID: 539)
 
 
+
+
 ### <a id="bpn540"></a> Prayer bpn540 in Deutsch
 O mein Herr! Du siehst, wie sie sich an das Seil Deiner Gnade klammern, wie sie sich fest an den Saum des Gewandes Deiner Wohltätigkeit halten. Verordne für sie, was sie Dir näher bringt, und halte sie fern von allem außer Dir. Ich bitte Dich, Du König des Seins, Du Beschützer des Sichtbaren wie des Unsichtbaren, lass jeden, der sich erhebt, Deiner Sache zu dienen, zu einem Meere werden, das nach Deinem Wunsche wogt, und entflamme ihn mit dem Feuer Deines heiligen Baumes, das vom Horizont Deines Willens strahlt. Wahrlich, Du bist der Mächtige, den weder die Macht der ganzen Welt noch das Ungestüm der Völker schwächen können. Es gibt keinen Gott außer Dir, dem Einen, dem Unvergleichlichen, dem Beschützer, dem Selbstbestehenden.
 
 (Source category: Dienstbarkeit)
 (Bahaiprayers.net ID: 540)
+
+
 
 
 ### <a id="bpn541"></a> Prayer bpn541 in Deutsch
@@ -445,6 +615,8 @@ Du bist wahrhaftig der Gott der Stärke und Macht, der Du bereit bist, denen zu 
 
 (Source category: Dienstbarkeit)
 (Bahaiprayers.net ID: 541)
+
+
 
 
 ### <a id="bpn643"></a> Prayer bpn643 in Deutsch
@@ -459,6 +631,8 @@ Wahrlich, Du bist unser Herr und der Herr aller Dinge. Wir geben uns in Deine Ha
 
 
 
+
+
 ## Einheit
 
 ### <a id="bpn542"></a> Prayer bpn542 in Deutsch
@@ -468,11 +642,15 @@ O mein Gott, o mein Gott! Einige die Herzen Deiner Diener und enthülle ihnen De
 (Bahaiprayers.net ID: 542)
 
 
+
+
 ### <a id="bpn543"></a> Prayer bpn543 in Deutsch
 Gebe Gott, dass das Licht der Einheit die ganze Erde umfasse und das Siegel „Das Reich ist Gottes“ allen Völkern auf die Stirn gedrückt werde.
 
 (Source category: Einheit)
 (Bahaiprayers.net ID: 543)
+
+
 
 
 ### <a id="bpn447"></a> Prayer bpn447 in Deutsch
@@ -485,11 +663,15 @@ Du bist der Mächtige, der Gewaltige, und Du bist der Gott der Stärke, der Allm
 (Bahaiprayers.net ID: 447)
 
 
+
+
 ### <a id="bpn449"></a> Prayer bpn449 in Deutsch
 O Du gütiger Gott! O Du, der Du freigebig und barmherzig bist! Wir sind Diener an Deiner Schwelle und sind versammelt im schützenden Schatten Deiner göttlichen Einheit. Die Sonne Deines Erbarmens scheint auf alle und die Wolken Deiner Großmut regnen auf alle. Deine Gaben umfassen alle, Deine liebende Vorsehung erhält alle, Dein Schutz beschirmt alle, und Deine Gunst erfasst alle mit ihrem Leuchten. O Herr! Gewähre uns Deine unendlichen Gaben und lass das Licht Deiner Führung scheinen. Erleuchte die Augen, erfreue die Herzen mit bleibender Freude. Verleihe allen Menschen einen neuen Geist und schenke ihnen ewiges Leben. Öffne die Tore wahren Verstehens und lass das Licht des Glaubens strahlen. Sammle alle Menschen im Schatten Deiner Großmut und gib, dass sie sich einträchtig vereinen, auf dass sie wie die Strahlen einer Sonne, die Wellen eines Meeres und die Früchte eines Baumes werden. O dass sie doch alle trinken vom selben Born, dass sie erfrischt werden von derselben Brise und erleuchtet vom selben Lichtquell! Du bist der Gebende, der Barmherzige, der Allmächtige.
 
 (Source category: Einheit)
 (Bahaiprayers.net ID: 449)
+
+
 
 
 ### <a id="bpn448"></a> Prayer bpn448 in Deutsch
@@ -504,6 +686,8 @@ Wahrlich, Du bist der Allmächtige, der Selbstbestehende, der Geber, der Verzeih
 
 
 
+
+
 ## Familie
 
 ### <a id="bpn450"></a> Prayer bpn450 in Deutsch
@@ -511,6 +695,8 @@ O Herr! In dieser größten Sendung nimmst Du die Fürbitte der Kinder für ihre
 
 (Source category: Familie)
 (Bahaiprayers.net ID: 450)
+
+
 
 
 ### <a id="bpn452"></a> Prayer bpn452 in Deutsch
@@ -521,6 +707,8 @@ Dir weihe ich, o mein Herr, was ich unter dem Herzen trage. Lass es ein Kind wer
 (Bahaiprayers.net ID: 452)
 
 
+
+
 ### <a id="bpn451"></a> Prayer bpn451 in Deutsch
 O Gott, mein Gott! Deine Magd ruft Dich an, wendet vertrauensvoll ihr Angesicht Dir zu mit Bitten und Flehen: Ergieße über sie Deine himmlischen Gnadengaben, enthülle ihr Deine geistigen Geheimnisse und wirf auf sie das Licht Deiner Göttlichkeit.
 O mein Herr! Mache die Augen meines Gemahls sehend, erfreue sein Herz mit dem Lichte Deiner Erkenntnis, ziehe sein Gemüt hin zu Deiner strahlenden Schönheit und erheitere seinen Geist mit der Enthüllung Deiner offenbaren Herrlichkeit.
@@ -529,6 +717,8 @@ Wahrlich, Du bist der Kostbare, der Immergewährende, der Freigebige.
 
 (Source category: Familie)
 (Bahaiprayers.net ID: 451)
+
+
 
 
 
@@ -544,6 +734,8 @@ Es gibt keinen Gott außer Dir, dem Allwissenden, dem Allweisen. Aller Preis sei
 (Bahaiprayers.net ID: 678)
 
 
+
+
 ### <a id="bpn679"></a> Prayer bpn679 in Deutsch
 Dies sind die Tage, o mein Gott, da Du Deinen Dienern das Fasten gebotest. Mit ihm ziertest Du das Vorwort zum Buche Deiner Gesetze, das Du Deinen Geschöpfen offenbartest, mit ihm schmücktest Du die Schatztruhen Deiner Gebote vor den Augen aller, die in Deinem Himmel und auf Deiner Erde sind. Jede Stunde dieser Tage hast Du mit einer besonderen Wirkkraft ausgestattet, unerforschlich allen außer Dir, Dessen Wissen alles Erschaffene umfasst. Auch hast Du jede Seele an dieser Wirkkraft teilhaben lassen gemäß der Tafel Deines Ratschlusses und den Schriften Deines unwiderruflichen Urteils. Jedes Blatt dieser Bücher und Schriften hast Du zudem einem jeden Volk und Stamm der Erde zugewiesen.
 Für Deine glühenden Verehrer hältst Du nach Deinem Gebot an jedem Morgen den Kelch Deines Gedenkens bereit, o Du, der Du der Herrscher aller Herrscher bist! So trunken sind sie vom Weine Deiner überreichen Weisheit, dass sie auf ihr Lager verzichten in ihrem Verlangen, Dein Lob zu preisen und Deine Tugenden zu rühmen, und den Schlaf fliehen in ihrem Eifer, sich Deiner Gegenwart zu nähern und Deiner Wohltaten teilhaftig zu werden. Allezeit sind ihre Augen auf die Morgenröte Deiner Güte gerichtet, ihre Angesichter dem Urquell Deiner Eingebung zugewandt. So lass denn aus den Wolken Deines Erbarmens auf uns und auf sie herabregnen, was dem Himmel Deiner freigebigen Gnade entspricht.
@@ -557,6 +749,8 @@ Mache Deine Sache siegreich, o mein Herr, und demütige Deine Feinde. Alsdann sc
 
 (Source category: Fasten)
 (Bahaiprayers.net ID: 679)
+
+
 
 
 ### <a id="bpn677"></a> Prayer bpn677 in Deutsch
@@ -592,11 +786,15 @@ Du siehst mich, o mein Gott, an Deinem Namen festhalten, dem Heiligsten, dem Str
 (Bahaiprayers.net ID: 677)
 
 
+
+
 ### <a id="bpn666"></a> Prayer bpn666 in Deutsch
 O Gott! So wie ich mich fleischlicher Wünsche enthalte und Speise und Trank entrate, so reinige und heilige auch mein Herz von allem außer der Liebe zu Dir. Schütze und schirme meine Seele vor Selbstsucht und vor allem Tierischen, damit mein Geist sich dem Odem der Heiligkeit verbinde und in allem faste außer Deinem Gedenken.
 
 (Source category: Fasten)
 (Bahaiprayers.net ID: 666)
+
+
 
 
 
@@ -612,6 +810,8 @@ Es gibt keinen Gott außer Dir, dem Allmächtigen, dem Allweisen.
 (Bahaiprayers.net ID: 544)
 
 
+
+
 ### <a id="bpn545"></a> Prayer bpn545 in Deutsch
 Er ist der Mächtige, der Vergeber, der Mitleidvolle!
 O Gott, mein Gott! Du siehst Deine Diener im Abgrund des Verderbens und des Irrtums - wo ist Dein Licht göttlicher Führung, o Du Sehnsucht der Welt! Du kennst ihre Schwäche und Hilflosigkeit - wo ist Deine Macht, o Du, der Du die Mächte des Himmels und der Erde im Griff hältst!
@@ -622,12 +822,16 @@ Durch Deine Großmut, o Herr, bestimme für mich, was mir in dieser und in der z
 (Bahaiprayers.net ID: 545)
 
 
+
+
 ### <a id="bpn644"></a> Prayer bpn644 in Deutsch
 Preis sei Dir, o Herr, mein Meistgeliebter! Mache mich standhaft in Deiner Sache und gib, dass ich zu denen gerechnet werde, die weder Deinen Bund brechen noch den Götzen ihres eitlen Wahns folgen. Lass mich alsdann einen Sitz der Wahrheit in Deiner Gegenwart erlangen, gewähre mir ein Zeichen Deines Erbarmens und vereinige mich mit solchen Deiner Diener, über die keine Furcht und kein Kummer kommen soll. Überlasse mich nicht mir selbst, o mein Herr, noch beraube mich der Erkenntnis Dessen, der die Manifestation Deiner selbst ist, und rechne mich nicht zu denen, die sich abgewandt haben von Deiner heiligen Gegenwart. Zähle mich, o mein Gott, zu den Begünstigten, die ihren Blick fest auf Deine Schönheit richten und darin solche Freude finden, dass sie keinen Augenblick davon gegen die Herrschaft über Himmel und Erde oder das ganze Reich der Schöpfung eintauschten. Erbarme Dich meiner, o mein Herr, in diesen Tagen, da die Völker Deiner Erde schmerzlich irren; rüste mich sodann, o mein Gott, mit allem, was Du für gut und ziemlich hältst. Du bist wahrlich der Allmachtvolle, der Gütige, der Freigebige, der Immervergebende.
 Gib, o mein Gott, dass ich nicht zu denen zähle, deren Ohren taub, deren Augen blind, deren Zungen stumm sind und deren Herzen nicht begreifen wollen. Errette mich, o Herr, aus dem Feuer der Unwissenheit und der Selbstsucht; gewähre mir Zutritt an den Hof Deiner allüberragenden Gnade und sende auf mich hernieder, was Du für Deine Erwählten verordnet hast. Mächtig bist Du zu tun, was Du willst. Wahrlich, Du bist der Helfer in Gefahr, der Selbstbestehende.
 
 (Source category: Festigkeit im Bund)
 (Bahaiprayers.net ID: 644)
+
+
 
 
 ### <a id="bpn453"></a> Prayer bpn453 in Deutsch
@@ -638,6 +842,8 @@ Du bist wahrlich der Unbesiegbare, der Allmächtige, der Allgewaltige.
 (Bahaiprayers.net ID: 453)
 
 
+
+
 ### <a id="bpn454"></a> Prayer bpn454 in Deutsch
 O Du mitleidvoller Gott! Dank sei Dir, denn Du erwecktest mich und schenktest mir Bewusstsein. Du gabst mir Augen zu sehen und Ohren zu hören, Du führtest mich in Dein Reich und lenktest mich auf Deinen Pfad. Du wiesest mir den rechten Weg und ließest mich die Arche der Rettung betreten. O Gott! Gib, dass ich standhaft bleibe, mache mich fest und unerschütterlich. Behüte mich vor heftigen Prüfungen, bewahre und beschütze mich im festen Bollwerk Deines Bunds und Testaments. Du bist der Gewaltige. Du bist der Sehende. Du bist der Hörende. O Du mitleidvoller Gott! Schenke mir ein Herz, das wie ein Glas erleuchtet werde mit Deiner Liebe Licht, und verleihe mir Gedanken, die diese Welt durch die Ausgießungen himmlischer Gnade in einen Rosengarten verwandeln.
 Du bist der Mitleidvolle, der Barmherzige. Du bist der große wohltätige Gott.
@@ -646,12 +852,16 @@ Du bist der Mitleidvolle, der Barmherzige. Du bist der große wohltätige Gott.
 (Bahaiprayers.net ID: 454)
 
 
+
+
 ### <a id="AB06211"></a> Prayer AB06211 in Deutsch
 Mache unsere Schritte fest auf Deinem Pfad, o Herr, und stärke unsere Herzen in Deinem Gehorsam. Wende unser Angesicht der Schönheit Deiner Einzigkeit zu und erfreue unser Herz mit den Zeichen Deiner göttlichen Einheit. Schmücke unseren Leib mit dem Gewande Deiner Großmut, nimm uns den Schleier der Sündhaftigkeit von den Augen und reiche uns den Kelch Deiner Gnade, damit das innerste Wesen aller Geschöpfe vor dem Anblick Deiner Größe Dein Lob singe. Offenbare Dich dann, o Herr, durch Dein barmherziges Wort und das Geheimnis Deines göttlichen Seins, auf dass mit heiliger Inbrunst das Gebet unsere Seele erfülle, ein Gebet, das sich erhebe über Worte und Buchstaben und hinauswachse über das Gemurmel von Silben und Tönen, bis alle Dinge vor der Offenbarung Deines Glanzes in ein Nichts versinken.
 Herr, hier sind Diener, die fest und standhaft blieben in Deinem Bund und Testament, die sich festhalten am Seil der Beständigkeit in Deiner Sache, die sich an den Saum des Gewandes Deiner Größe klammern. Stehe ihnen bei, o Herr, mit Deiner Gnade, bestätige sie mit Deiner Macht und stärke ihre Lenden in Deinem Gehorsam. Du bist der Vergeber, der Gnädige.
 
 (Source category: Festigkeit im Bund)
 (Bahaiprayers.net ID: 455)
+
+
 
 
 ### <a id="bpn456"></a> Prayer bpn456 in Deutsch
@@ -665,6 +875,8 @@ Wahrlich, Du bist der Bestätiger, der Helfer, der Geliebte, der Machtvolle, der
 
 
 
+
+
 ## Fonds
 
 ### <a id="bpn457"></a> Prayer bpn457 in Deutsch
@@ -674,6 +886,8 @@ Wahrlich, Du bist der Erhalter, der Helfer, der Großmütige, der Freigebige, de
 
 (Source category: Fonds)
 (Bahaiprayers.net ID: 457)
+
+
 
 
 
@@ -699,6 +913,8 @@ Wahrlich, Du bist der Freigebigste, der Herr überfließender Gnade, und wahrlic
 
 
 
+
+
 ## Führung und Erkenntnis
 
 ### <a id="bpn546"></a> Prayer bpn546 in Deutsch
@@ -706,6 +922,8 @@ Ich bitte Dich, o mein Gott, bei Deiner Kraft und Deiner Macht und Deiner Herrsc
 
 (Source category: Führung und Erkenntnis)
 (Bahaiprayers.net ID: 546)
+
+
 
 
 ### <a id="bpn547"></a> Prayer bpn547 in Deutsch
@@ -718,6 +936,8 @@ Erbarme Dich sodann, o mein Gott, Deiner Diener, die versunken sind im Meere bö
 (Bahaiprayers.net ID: 547)
 
 
+
+
 ### <a id="bpn548"></a> Prayer bpn548 in Deutsch
 Preis sei Dir, o Herr mein Gott! Ich flehe Dich an bei Deinen Zeichen, welche die ganze Schöpfung umfangen, bei dem Lichte Deines Antlitzes, das alles erleuchtet, was im Himmel und auf Erden ist, bei Deinem Erbarmen, das alles Erschaffene übertrifft, und bei Deiner Gnade, die das ganze Weltall erfüllt, zerreiße die Schleier, die mich von Dir trennen, auf dass ich zum Urquell Deiner machtvollen Eingebungen, zur Morgenröte Deiner Offenbarung und großmütigen Gunst eile und eingetaucht werde in das Meer Deiner Nähe und Deines Wohlgefallens.
 Lass es nicht zu, o mein Herr, dass ich in Deinen Tagen Deiner Erkenntnis beraubt bin, und nimm mir den Mantel Deiner Führung nicht ab. Gib mir zu trinken aus dem Strome, der wahrhaftiges Leben ist, dessen Wasser dem Paradiese entströmen, darinnen der Thron Deines Namens, der Allbarmherzige, errichtet ward - auf dass meine Augen geöffnet, mein Angesicht strahlend, mein Herz fest, meine Seele erleuchtet und meine Schritte standhaft werden.
@@ -728,6 +948,8 @@ Du bist der große Geber, der Immervergebende, der Mitleidvollste.
 (Bahaiprayers.net ID: 548)
 
 
+
+
 ### <a id="bpn549"></a> Prayer bpn549 in Deutsch
 Er ist der Gnädige, der Allgroßmütige!
 O Gott, mein Gott! Dein Ruf hat mich angezogen und der Laut Deiner Feder der Herrlichkeit hat mich erweckt. Der Strom Deiner heiligen Rede hat mich hingerissen und der Wein Deiner Eingebung hat mich verzückt. Du siehst mich, o Herr, losgelöst von allem außer Dir, an das Seil Deiner Großmut geklammert, voll der Sehnsucht nach den Wundern Deiner Gnade. Ich bitte Dich bei den ewigen Wogen Deiner Gnade und dem strahlenden Leuchten Deiner zärtlichen Fürsorge und Gunst, gewähre mir, was mich Dir nahebringt, und mache mich reich durch Deine Fülle. Meine Zunge, meine Feder, mein ganzes Wesen legen Zeugnis ab für Deine Macht, Deine Stärke, Deine Gnade und Großmut, dass Du Gott bist und es keinen Gott gibt außer Dir, dem Gewaltigen, dem Mächtigen.
@@ -736,6 +958,8 @@ Herr! Halte mich nicht fern vom Meere Deines Reichtums und vom Himmel Deines Erb
 
 (Source category: Führung und Erkenntnis)
 (Bahaiprayers.net ID: 549)
+
+
 
 
 ### <a id="bpn550"></a> Prayer bpn550 in Deutsch
@@ -749,6 +973,8 @@ Es gibt keinen Gott außer Dir, dem Allmächtigen, dem Wohltätigen.
 (Bahaiprayers.net ID: 550)
 
 
+
+
 ### <a id="bpn551"></a> Prayer bpn551 in Deutsch
 Ruhm sei Dir, o Gott, für Deine Offenbarung der Liebe zur Menschheit. O Du, der Du unser Leben bist und unser Licht, führe Deine Diener auf Deinen Pfad, mache uns reich in Dir und frei von allem außer Dir.
 O Gott, lehre uns Deine Einzigkeit und lass uns Deine Einheit erkennen, so dass wir niemanden schauen außer Dir. Du bist der Barmherzige, der Spender reicher Gaben.
@@ -759,12 +985,16 @@ Offenbare uns, o Gott, Deine erhabene Ewigkeit - dass Du immer warst und immer s
 (Bahaiprayers.net ID: 551)
 
 
+
+
 ### <a id="bpn552"></a> Prayer bpn552 in Deutsch
 O Gott, Du Gott aller Namen, Du Schöpfer des Himmels! Ich flehe Dich an bei deinem Namen, durch den sich Er, die Morgenröte Deiner Macht und der Dämmerort Deiner Kraft, offenbarte, durch den jeder feste Körper verflüssigt, jeder Leichnam wieder belebt und jeder schweifende Geist gefestigt ward - ich flehe Dich an, mache mich fähig, mich von aller Bindung außer an Dich zu befreien, Deiner Sache zu dienen, zu wünschen, was Du durch die Macht Deiner höchsten Herrschaft wünschest, und zu tun, was Dir wohlgefällt.
 Sodann flehe ich Dich an, o mein Gott, mir zu bestimmen, was mich so reich macht, dass ich jeden anderen außer Dir entbehren kann. Du siehst mich, o mein Gott, mein Angesicht Dir zugekehrt, meine Hände an das Seil Deiner Gnade geklammert. Erbarme Dich meiner und verfüge für mich, was Du für Deine Auserwählten verfügst. Mächtig bist Du zu tun, was Dir gefällt. Es gibt keinen Gott außer Dir, dem Immervergebenden, dem Gabenreichsten.
 
 (Source category: Führung und Erkenntnis)
 (Bahaiprayers.net ID: 552)
+
+
 
 
 ### <a id="bpn553"></a> Prayer bpn553 in Deutsch
@@ -776,12 +1006,16 @@ Du bist wahrlich der Immervergebende, der Allbarmherzige.
 (Bahaiprayers.net ID: 553)
 
 
+
+
 ### <a id="bpn554"></a> Prayer bpn554 in Deutsch
 Verherrlicht seiest Du, o Herr mein Gott! Ich flehe Dich an bei den heranbrausenden Winden Deiner Gnade und bei ihnen, die die Sonnen Deines Ratschlusses, die Aufgangsorte Deiner Eingebung sind, sende hernieder auf mich und auf alle, die Dein Angesicht suchen, was Deiner Großmut und Deiner freigebigen Gnade entspricht und was Deiner Gaben und Deiner Gunst würdig ist. Arm und verlassen bin ich, o mein Herr! Lass mich versinken im Meer Deines Reichtums; durstig bin ich, lass mich trinken vom Lebenswasser Deiner Gnade.
 Ich flehe Dich an bei Dir selbst und bei Ihm, den Du zum Offenbarer Deines eigenen Seins und Deines beispiellosen Wortes bestimmt hast für alle, die im Himmel und auf Erden sind, sammle Deine Diener im Schatten des Baumes Deiner gnädigen Vorsehung. Hilf ihnen sodann, von seinen Früchten zu kosten, lass ihre Ohren dem Rauschen seiner Blätter und der süßen Stimme des Vogels lauschen, der in seinen Zweigen singt. Du bist wahrlich der Helfer in der Not, der Unerreichbare, der Allmächtige, der Allgütige.
 
 (Source category: Führung und Erkenntnis)
 (Bahaiprayers.net ID: 554)
+
+
 
 
 ### <a id="bpn555"></a> Prayer bpn555 in Deutsch
@@ -793,12 +1027,16 @@ Verherrlicht sei Dein Name, o Du, der Du der König aller Könige bist!
 (Bahaiprayers.net ID: 555)
 
 
+
+
 ### <a id="bpn556"></a> Prayer bpn556 in Deutsch
 Verherrlicht bist Du, o Herr mein Gott! Ich flehe Dich an, lass aus den Wolken Deiner überströmenden Gnade herabregnen, was die Herzen Deiner Diener reinigt von allem, was sie abhält, Dein Antlitz zu schauen und sich Dir zuzukehren, damit sie alle Ihn erkennen, der ihr Gestalter und ihr Schöpfer ist. Hilf ihnen alsdann, o Gott, mit der Stärke Deiner höchsten Macht, eine Stufe zu erreichen, auf der sie faulen Geruch leicht unterscheiden können vom Duft aus dem Gewand des Trägers Deines höchsterhabenen Namens. Hilf ihnen, dass sie mit all ihrer Liebe sich Dir zuwenden, und lass sie so vertraute Gemeinschaft mit Dir genießen, dass sie alles im Himmel und auf Erden, wäre es ihnen zu eigen, für wertlos hielten und sich weigerten, von Deinem Gedenken und dem Lobpreis Deiner Tugenden abzulassen.
 Ich bitte Dich, o mein Geliebter, Du meines Herzens Sehnsucht, schütze Deinen Diener, der Dein Antlitz sucht, vor den Pfeilen derer, die Dich leugnen, und vor den Speeren solcher, die Deine Wahrheit verwerfen. Lasse ihn Dir völlig ergeben sein, Deinen Namen kündend, den Blick fest auf das Heiligtum Deiner Offenbarung gerichtet. Nie hast Du wahrlich solche, die ihre Hoffnung auf Dich setzen, vom Tore Deines Erbarmens vertrieben, noch jene, die dich suchen, vom Hofe Deiner Gnade gewiesen. Es gibt keinen Gott außer Dir, dem Gewaltigsten, dem Allhöchsten, dem Helfer in Gefahr, dem Allherrlichen, dem Allbezwingenden, dem Unbedingten.
 
 (Source category: Führung und Erkenntnis)
 (Bahaiprayers.net ID: 556)
+
+
 
 
 ### <a id="bpn645"></a> Prayer bpn645 in Deutsch
@@ -811,11 +1049,15 @@ Fürwahr, willst Du einem Diener Gunst erweisen, so tilgst Du aus seines Herzens
 (Bahaiprayers.net ID: 645)
 
 
+
+
 ### <a id="bpn459"></a> Prayer bpn459 in Deutsch
 O mein Herr! O mein Herr! Diese Lampe ist erleuchtet vom Feuer Deiner Liebe und lodert mit der Flamme, die am Baume Deines Erbarmens entzündet ward. O mein Herr! Lass sie durch das Feuer, das im Sinai Deiner Offenbarung entfacht ist, noch stärker, heißer und flammender brennen! Wahrlich, Du bist der Bestätiger, der Helfer, der Gewaltige, der Großmütige, der Liebende.
 
 (Source category: Führung und Erkenntnis)
 (Bahaiprayers.net ID: 459)
+
+
 
 
 ### <a id="bpn460"></a> Prayer bpn460 in Deutsch
@@ -825,6 +1067,8 @@ Du bist wahrlich der Mächtige, der Erhabene, der Gewaltige, der allein in den H
 
 (Source category: Führung und Erkenntnis)
 (Bahaiprayers.net ID: 460)
+
+
 
 
 ### <a id="bpn461"></a> Prayer bpn461 in Deutsch
@@ -837,12 +1081,16 @@ Wahrlich, Du bist barmherzig, und wahrlich, Du bist der Freigebige, dessen Hilfe
 (Bahaiprayers.net ID: 461)
 
 
+
+
 ### <a id="bpn462"></a> Prayer bpn462 in Deutsch
 O mein Gott! O mein Gott! Wahrlich, diese Diener wenden sich zu Dir und flehen demütig zum Königreich Deines Erbarmens. Wahrlich, sie sind hingezogen zu Deiner Heiligkeit und entflammt vom Feuer Deiner Liebe. So suchen sie Bestätigung aus Deinem wundersamen Königreich und hoffen, in Dein himmlisches Reich aufgenommen zu werden. Wahrlich, sie sehnen sich danach, dass Deine Gnadengaben auf sie niederkommen, dass die Sonne Deines Seins sie erleuchte. O Herr! Mache sie zu strahlenden Leuchten, zu Zeichen der Barmherzigkeit, zu früchtebeladenen Bäumen und leuchtenden Sternen. Lass sie sich hervortun in Deinem Dienste, mit Dir verbunden durch die Bande Deiner Liebe, voll Sehnsucht nach den Lichtern Deiner Gunst. O Herr! Mache sie zu Zeichen der Führung, zu Bannern Deines unsterblichen Reiches, zu Wogen aus dem Meere Deines Erbarmens, zu Spiegeln Deines majestätischen Lichtes.
 Wahrlich, Du bist der Freigebige. Wahrlich, Du bist der Kostbare, der Geliebte!
 
 (Source category: Führung und Erkenntnis)
 (Bahaiprayers.net ID: 462)
+
+
 
 
 ### <a id="bpn463"></a> Prayer bpn463 in Deutsch
@@ -853,6 +1101,8 @@ Wahrlich, Du bist der Freigebigste, der Herr überströmender Gnade. Es gibt kei
 (Bahaiprayers.net ID: 463)
 
 
+
+
 ### <a id="bpn464"></a> Prayer bpn464 in Deutsch
 Er ist Gott!
 O Gott, mein Gott! Diese Diener sind in Deinen Tagen angezogen von den Wohlgerüchen Deiner Heiligkeit und entflammt von dem Feuer, das in Deinem heiligen Baume brennt. Sie antworten auf Deine Stimme und künden Deinen Lobpreis, sie sind erweckt von Deinen sanften Winden und aufgerüttelt von Deinen süßen Düften, sie betrachten Deine Zeichen und verstehen Deine Verse, sie hören Deine Worte, glauben Deiner Offenbarung und sind Deiner Gnade gewiss. Ihre Augen, o Herr, sind auf Dein Königreich strahlender Herrlichkeit gerichtet, ihre Angesichter Deinem Reich in der Höhe zugewandt, ihre Herzen pochen vor Liebe zu Deiner strahlenden, herrlichen Schönheit, ihre Seelen verzehren sich in den Flammen Deiner Liebe, o Du Herr dieser und der zukünftigen Welt, ihr Leben siedet in der Glut ihrer Sehnsucht nach Dir, ihre Tränen vergießen sie Deinethalben.
@@ -861,6 +1111,8 @@ O Herr, mein Gott! Niedrig sind Deine Diener, erhebe sie in Dein Reich der Höhe
 
 (Source category: Führung und Erkenntnis)
 (Bahaiprayers.net ID: 464)
+
+
 
 
 
@@ -881,6 +1133,8 @@ Du bist der Schenkende, der Mitleidige, der Allgütige, der Gnadenreiche, der Ba
 
 
 
+
+
 ## Geistiger Rat
 
 ### <a id="bpn667"></a> Prayer bpn667 in Deutsch
@@ -891,11 +1145,15 @@ O Du unser Versorger! Sende Deine Hilfe auf uns nieder, so dass jeder von uns hi
 (Bahaiprayers.net ID: 667)
 
 
+
+
 ### <a id="bpn668"></a> Prayer bpn668 in Deutsch
 Wenn ihr den Beratungsraum betretet, sprecht dieses Gebet mit einem Herzen, das in der Liebe Gottes schlägt, und mit einer Zunge, die geläutert ist von allem außer Seinem Gedenken, auf dass der Allmächtige euch gnädiglich helfe, den höchsten Sieg zu erringen:O Gott, mein Gott! Wir sind Deine Diener, die sich in Ergebenheit Deinem heiligen Antlitz zuwenden und sich an diesem herrlichen Tag von allem außer Dir loslösen. Wir sind zusammengekommen in diesem Geistigen Rat, einig in unseren Ansichten und Gedanken, und wir stimmen überein in dem Vorsatz, Dein Wort vor aller Menschheit zu erhöhen. O Herr, unser Gott! Mache uns zu Zeichen Deiner göttlichen Führung, zu Bannern Deines erhabenen Glaubens unter den Menschen, zu Dienern Deines mächtigen Bündnisses, o Du unser höchster Herr, zu Offenbarungen Deiner göttlichen Einheit in Deinem Reiche Abhá und zu strahlenden Sternen, die über alle Regionen scheinen. Herr, hilf uns, dass wir Meeren gleichen, die in den Wogen Deiner wundersamen Gnade branden, Wassern, die von Deinen allherrlichen Höhen fließen, guten Früchten am Baume Deiner himmlischen Sache, Bäumen, die der Windhauch Deiner Freigebigkeit in Deinem himmlischen Weinberg bewegt. O Gott, lass unsere Seelen dürsten nach den Versen Deiner göttlichen Einheit, unsere Herzen fröhlich sein durch den Strom Deiner Gnade, damit wir zusammenfließen wie die Wellen eines Meeres und ineinanderschmelzen wie die Strahlen Deines glänzenden Lichtes, bis unsere Gedanken, unsere Ansichten, unsere Gefühle eine Wirklichkeit werden, die den Geist der Eintracht über die ganze Welt hin kündet! Du bist der Gnädige, der Gütige, der Schenkende, der Allmächtige, der Barmherzige, der Mitleidvolle.
 
 (Source category: Geistiger Rat)
 (Bahaiprayers.net ID: 668)
+
+
 
 
 ### <a id="bpn669"></a> Prayer bpn669 in Deutsch
@@ -906,6 +1164,8 @@ Du bist wahrlich der Großmütige, der Barmherzige. Du bist der Herr der großen
 
 (Source category: Geistiger Rat)
 (Bahaiprayers.net ID: 669)
+
+
 
 
 
@@ -920,12 +1180,16 @@ Mächtig bist Du zu tun, was Dir gefällt. Es gibt keinen Gott außer Dir, dem I
 (Bahaiprayers.net ID: 563)
 
 
+
+
 ### <a id="bpn564"></a> Prayer bpn564 in Deutsch
 Im Namen Gottes, des Heilers, des Genügenden, des Helfers! Preis sei Dir, o Gott! O mein Gott, mein Geliebter! Bei Deinem Namen, durch den Dein Erbarmen allem Erschaffenen voranging, und bei der sonnengleichen Schönheit Deines Verborgenen Namens, die vom Horizont Deines Erscheinens herniederstrahlt, Deine Gnade für alle auf Erden und im Himmel zu vollenden, gieße über diesen Kranken aus den Wolken Deiner Barmherzigkeit, was ihn von jeglicher Krankheit, Schwäche und Trübsal läutert, und tauche ihn ein in Deiner Heilung Meer - o Du, in Dessen Griff das Reich des Schicksals und die Macht zum Vollzug liegt.
 Wahrlich, Du tust, was Du willst, und wahrlich, Du bist der Vergebende, der Mitleidvolle.
 
 (Source category: Heilung)
 (Bahaiprayers.net ID: 564)
+
+
 
 
 ### <a id="bpn565"></a> Prayer bpn565 in Deutsch
@@ -937,12 +1201,16 @@ Wahrlich, Du bist der Kraftvolle, der Sieghafte, der Mächtige, der Lebendige, d
 (Bahaiprayers.net ID: 565)
 
 
+
+
 ### <a id="BH07721"></a> Prayer BH07721 in Deutsch
 Ruhm sei Dir, o Herr mein Gott! Ich flehe Dich an bei Deinem Namen, durch den Du die Banner Deiner Führung hisstest, den Strahlenglanz Deiner Gnade ausgossest und die Allmacht Deiner Herrschaft kundtatest, durch den die Lampe Deiner Namen in der Nische Deiner Eigenschaften erschien und Er, das Heiligtum Deiner Einheit, der Offenbarer der Loslösung, hervorleuchtete, durch den die Wege Deiner Führung bekannt und die Pfade Deines Wohlgefallens vorgezeichnet wurden; durch den die Grundmauern des Irrtums erschüttert und die Zeichen der Gottlosigkeit getilgt wurden; durch den die Quellen der Weisheit sprudelten und die himmlische Tafel herniederkam; durch den Du Deine Diener bewahrtest und ihnen Deine Heilung gewährtest; durch den Du Deinen Dienern Dein zärtliches Erbarmen erwiesest und Deinen Geschöpfen Deine Vergebung offenbartest - ich flehe Dich an, nimm den in Deinen Schutz, der fest zu Dir hält und zu Dir zurückkehrt, der sich an Dein Erbarmen klammert und den Saum Deiner liebevollen Vorsehung ergreift. So sende denn Deine Heilung auf ihn nieder, lasse ihn genesen, schenke ihm Beständigkeit und Gelassenheit als Deiner Hoheit Gaben.
 Du bist wahrlich der Heiler, der Erhalter, der Helfer, der Allmächtige, der Kraftvolle, der Allherrliche, der Allwissende.
 
 (Source category: Heilung)
 (Bahaiprayers.net ID: 566)
+
+
 
 
 ### <a id="bpn567"></a> Prayer bpn567 in Deutsch
@@ -952,6 +1220,8 @@ Du bist wahrlich der Herr über dieses und das zukünftige Leben. Du bist in Wah
 
 (Source category: Heilung)
 (Bahaiprayers.net ID: 567)
+
+
 
 
 ### <a id="bpn568"></a> Prayer bpn568 in Deutsch
@@ -1004,6 +1274,8 @@ Du bist wahrlich der Machtvolle, der Allgenügende, der Heilende, der Beschütze
 (Bahaiprayers.net ID: 568)
 
 
+
+
 ### <a id="bpn569"></a> Prayer bpn569 in Deutsch
 Preis sei Dir, o Herr mein Gott! Ich bitte Dich bei Deinem Namen, durch den Er, Deine Schönheit, auf den Thron Deiner Sache gesetzt ist, bei Deinem Namen, durch den Du alles veränderst und alles versammelst, alles zur Rechenschaft ziehst und alles belohnst, alles bewahrst und alles erhältst - ich bitte Dich, behüte Deine Dienerin, die sich in Deinen Schutz begibt und Zuflucht sucht bei Ihm, in dem Du selbst offenbar bist, und die all ihr Vertrauen und ihre Zuversicht in Dich setzt.
 Sie ist krank, o mein Gott, und tritt in den Schatten des Baumes Deiner Heilung; sie leidet und flieht in die Stadt Deines Schutzes; sie ist krank und sucht den Urquell Deiner Gnade; sie ist tief betrübt und eilt zum unerschöpflichen Born Deiner Ruhe; sie ist mit Sünden beladen und richtet ihren Blick zum Hofe Deiner Vergebung.
@@ -1014,6 +1286,8 @@ Du bist fürwahr unermesslich erhaben über alles außer Dir. Und Du bist wahrli
 (Bahaiprayers.net ID: 569)
 
 
+
+
 ### <a id="bpn570"></a> Prayer bpn570 in Deutsch
 Du bist es, o mein Gott, der durch Seine Namen die Kranken heilt und die Leidenden wiederherstellt, der die Dürstenden tränkt und die Schmerzgequälten beruhigt, der die Verirrten führt und die Erniedrigten erhöht, der die Armen bereichert und die Unwissenden erleuchtet, der die Mühseligen erheitert und die Beladenen erfreut, der die Frierenden wärmt und die Unterdrückten aufrichtet. Durch Deinen Namen wurde alles Erschaffene aufgerüttelt, die Himmel wurden ausgebreitet, die Erde gegründet und die Wolken gebildet, auf die Erde herniederzuregnen. Dies ist wahrlich ein Zeichen Deiner Gnade für alle Deine Geschöpfe.
 Darum flehe ich Dich an bei Deinem Namen, durch den Du Dein göttliches Wesen offenbartest und Deine Sache über alle Schöpfung erhobst, bei jedem Deiner erhabensten Titel und Deiner herrlichsten Eigenschaften, bei all Deinen Tugenden, derenthalben Dein alles überschreitendes, höchst erhabenes Wesen gepriesen wird - sende heute Nacht aus den Wolken Deines Erbarmens die Regenschauer Deiner Heilung herab auf diesen Säugling, den Du im Reiche Deiner Schöpfung Deinem allherrlichsten Selbste verbunden hast. Kleide ihn alsdann, o mein Gott, durch Deine Gnade mit dem Gewande des Wohls und der Gesundheit und bewahre ihn, o mein Geliebter, vor jeder Heimsuchung und Krankheit und vor allem, was Dir zuwider ist. Deine Macht ist wahrlich allem gewachsen. Du bist wahrhaftig der Mächtigste, der Selbstbestehende. Auch sende ihm, o mein Gott, das Gute dieser und der zukünftigen Welt und das Gute vergangener und künftiger Geschlechter. Fürwahr, Deine Macht und Deine Weisheit sind dazu imstande.
@@ -1022,11 +1296,15 @@ Darum flehe ich Dich an bei Deinem Namen, durch den Du Dein göttliches Wesen of
 (Bahaiprayers.net ID: 570)
 
 
+
+
 ### <a id="bpn562"></a> Prayer bpn562 in Deutsch
 Dein Name ist meine Heilung, o mein Gott, Dein Gedenken meine Arznei, Deine Nähe meine Hoffnung und die Liebe zu Dir mein Gefährte. Dein Erbarmen ist meine Heilung und Hilfe in beiden Welten, in dieser und der künftigen. Du bist wahrlich der Allgütige, der Allwissende, der Allweise.
 
 (Source category: Heilung)
 (Bahaiprayers.net ID: 562)
+
+
 
 
 
@@ -1042,12 +1320,16 @@ Und als es Ihn verlangte, den Menschen Gnade und Wohltat zu erweisen und der Wel
 (Bahaiprayers.net ID: 571)
 
 
+
+
 ### <a id="bpn467"></a> Prayer bpn467 in Deutsch
 Er ist Gott! O Du unvergleichlicher Herr! In Deiner allmächtigen Weisheit hast Du den Völkern die Ehe anbefohlen, auf dass die Geschlechterreihen der Menschen in dieser Welt des Zufalls einander folgen und solange die Welt währt, an der Schwelle Deiner Einheit sich in Dienstbarkeit und Anbetung, in Gruß, Verehrung und Lobpreis ergehen. „Ich erschuf die Geister und Menschen nur um meiner Anbetung willen.“ Vermähle darum diese beiden Vögel aus dem Neste Deiner Liebe im Himmel Deines Erbarmens und mache sie zu Werkzeugen unablässiger Gnade, auf dass sich aus der Vereinigung dieser beiden Meere der Liebe eine Woge der Zärtlichkeit ergieße und die Perlen reiner, anmutiger Nachkommenschaft an das Gestade des Lebens trage. „Er hat den beiden Meeren ihren Lauf gelassen, dass sie einander begegnen. Zwischen ihnen ist eine Scheidewand, die sie nicht überschreiten. Welche der Wohltaten deines Herrn willst du da leugnen! Von jedem bringt Er größere und kleinere Perlen hervor.“
 O Du gütiger Herr! Lass aus dieser Ehe Korallen und Perlen hervorgehen. Du bist wahrlich der Allgewaltige, der Größte, der Immervergebende!
 
 (Source category: Hochzeit)
 (Bahaiprayers.net ID: 467)
+
+
 
 
 ### <a id="bpn468"></a> Prayer bpn468 in Deutsch
@@ -1058,11 +1340,15 @@ Wahrlich, Du bist der Freigebige, wahrlich, Du bist der Allmächtige, wahrlich, 
 (Bahaiprayers.net ID: 468)
 
 
+
+
 ### <a id="bpn469"></a> Prayer bpn469 in Deutsch
 Ruhm sei Dir, o mein Gott! Wahrlich, Dein Knecht und Deine Magd haben unter dem Schatten Deiner Gnade zusammengefunden und sind vereint durch Deine Gunst und Großmut. O Herr! Stehe ihnen bei in Deiner Erdenwelt, Deinem Königreich, und bestimme für sie alles Gute durch Deine Freigebigkeit und Gnade. O Herr! Bestätige sie in ihrer Pflicht vor Dir und hilf ihnen in Deinem Dienste. Lass sie in Deiner Welt zu Zeichen Deines Namens werden und schütze sie durch Deine Gaben, die unerschöpflich sind in dieser und der zukünftigen Welt. O Herr, sie flehen zum Königreich Deines Erbarmens und rufen das Reich Deiner Einzigkeit an. So lass sie denn bis ans Ende der Zeit zu Zeichen der Eintracht und der Einigkeit werden. Wahrlich, Du bist der Allgewaltige, der Allgegenwärtige, der Allmächtige.
 
 (Source category: Hochzeit)
 (Bahaiprayers.net ID: 469)
+
+
 
 
 
@@ -1075,6 +1361,8 @@ O Herr! Lass diesen jungen Menschen strahlen, erweise diesem armen Geschöpf Dei
 (Bahaiprayers.net ID: 475)
 
 
+
+
 ### <a id="bpn10259"></a> Prayer bpn10259 in Deutsch
 O Du gütiger Herr! Vom Horizont der Loslösung hast Du Seelen offenbart die, wie der schimmernde Mond, Strahlenglanz über das Reich der Herzen und Seelen ergossen, sich befreit haben von den Eigenschaften der Welt des Daseins und hinfort eilten zum Königreich der Unsterblichkeit. Mit einem Tropfen aus dem Ozean Deiner liebenden Güte hast Du oftmals die Gärten ihrer Herzen benetzt, bis sie unvergleichliche Frische und Schönheit erlangten. Der heilige Duft Deiner göttlichen Einheit wurde weit und breit verströmt, die süßen Weisen über die ganze Welt vergossen, was alle Gegenden der Erde veranlasst, diesen Wohlgeruch wahrzunehmen. 
 Sodann erhebe, O Geist der Reinheit, Seelen, die wie jene geheiligten Wesen frei und rein werden, die Welt des Seins mit einem neuen Gewand und einer wundersamen Tracht zieren, die niemanden suchen als Dich, keinen Pfad beschreiten als den Pfad Deines Wohlgefallens und nichts verkünden außer den Geheimnissen Deiner Sache.
@@ -1084,12 +1372,16 @@ O Du Gütiger Herr! Lass diesen jungen Menschen erlangen, was die tiefste Sehnsu
 (Bahaiprayers.net ID: 10259)
 
 
+
+
 ### <a id="bpn10260"></a> Prayer bpn10260 in Deutsch
 O Du gütiger Herr! Verleihe gnädiglich jedem dieser jungen Vögel himmlische Flügel und gib ihnen die geistige Kraft, den unendlichen Raum zu durchfliegen und sich in die Höhen des Reiches Abhá aufzuschwingen.
 O Herr! Stärke diese zerbrechlichen Setzlinge, damit jeder von ihnen zu einem fruchttragenden Baum heranwachse, grüne und blühe. Mache diese Seelen siegreich durch die Macht Deiner himmlischen Heerscharen, damit sie fähig werden, die Kräfte des Irrtums und der Unwissenheit zu zermalmen und das Banner der Freundschaft und Führung unter den Menschen zu entfalten, damit sie wie der belebende Frühlingswind die Bäume der Menschenseelen erfrischen und beleben und den Frühlingsschauern gleich die Wiesen dieser Gegend grün und fruchtbar machen. Du bist der Mächtige und der Kraftvolle. Du bist der Schenkende und der Allliebende.
 
 (Source category: Jugendliche)
 (Bahaiprayers.net ID: 10260)
+
+
 
 
 ### <a id="bpn10261"></a> Prayer bpn10261 in Deutsch
@@ -1103,6 +1395,8 @@ Du bist der Allmächtige, der Allherrliche, der Allgewaltige.
 
 
 
+
+
 ## Kinder
 
 ### <a id="bpn573"></a> Prayer bpn573 in Deutsch
@@ -1111,6 +1405,8 @@ Gelobt seiest Du, o mein Meistgeliebter! Lass über dieses Kind den süßen Duft
 
 (Source category: Kinder)
 (Bahaiprayers.net ID: 573)
+
+
 
 
 ### <a id="bpn572"></a> Prayer bpn572 in Deutsch
@@ -1123,11 +1419,15 @@ Preis sei Gott, dem Herrn aller Welten.
 (Bahaiprayers.net ID: 572)
 
 
+
+
 ### <a id="bpn470"></a> Prayer bpn470 in Deutsch
 O Gott! Erziehe diese Kinder. Sie sind die Pflanzen Deines Haines, die Blumen Deiner Aue, die Rosen Deines Gartens. Lass Deinen Regen auf sie niedergehen; lass die Sonne der Wirklichkeit Deine Liebe auf sie scheinen. Lass Deinen Windhauch sie erfrischen, damit sie erzogen werden, wachsen, gedeihen und sich in strahlender Schönheit entfalten. Du bist der Schenkende. Du bist der Mitleidvolle.
 
 (Source category: Kinder)
 (Bahaiprayers.net ID: 470)
+
+
 
 
 ### <a id="bpn471"></a> Prayer bpn471 in Deutsch
@@ -1136,6 +1436,8 @@ Du bist der Großmütige, der Alliebende.
 
 (Source category: Kinder)
 (Bahaiprayers.net ID: 471)
+
+
 
 
 ### <a id="bpn472"></a> Prayer bpn472 in Deutsch
@@ -1147,11 +1449,15 @@ Du bist der Gewaltige, der Alliebende.
 (Bahaiprayers.net ID: 472)
 
 
+
+
 ### <a id="bpn473"></a> Prayer bpn473 in Deutsch
 O Gott! Führe mich, beschütze mich, erleuchte die Lampe meines Herzens und mache mich zu einem strahlenden Stern. Du bist mächtig und stark.
 
 (Source category: Kinder)
 (Bahaiprayers.net ID: 473)
+
+
 
 
 ### <a id="bpn474"></a> Prayer bpn474 in Deutsch
@@ -1163,11 +1469,15 @@ Wahrlich, Du bist der Starke, der Mächtige, der Sehende, der Hörende.
 (Bahaiprayers.net ID: 474)
 
 
+
+
 ### <a id="bpn476"></a> Prayer bpn476 in Deutsch
 O Du unvergleichlicher Herr! Sei Du diesem armen Kinde ein Schutz, sei dieser irrenden, unglücklichen Seele ein gütig vergebender Herr und Meister. O Herr! Sind wir auch nur wertloses Gestrüpp, gehören wir doch zu Deinem Rosengarten. Sind wir auch blatt- und blütenlose Schößlinge, so sind wir doch Teil Deines Obstgartens. So nähre diese Pflanze durch die Regenschauer Deines zarten Erbarmens, und erquicke und erfrische diesen Schössling durch den Lebenshauch Deiner geistigen Frühlingszeit. Lass ihn achtsam, verständig und edel werden, lass ihn ewiges Leben erlangen und für immer in Deinem Königreich wohnen.
 
 (Source category: Kinder)
 (Bahaiprayers.net ID: 476)
+
+
 
 
 ### <a id="bpn477"></a> Prayer bpn477 in Deutsch
@@ -1178,6 +1488,8 @@ O Du selbstgenügender Gott! Mache mich zu einem Vertrauten im Königreich des U
 (Bahaiprayers.net ID: 477)
 
 
+
+
 ### <a id="bpn478"></a> Prayer bpn478 in Deutsch
 O Du unvergleichlicher Herr! Gib diesem Säugling Nahrung aus der Brust Deiner Gnade. Behüte ihn in der Wiege Deines sicheren Schutzes und lass ihn in den Armen Deiner zärtlichen Zuneigung gedeihen.
 
@@ -1185,11 +1497,15 @@ O Du unvergleichlicher Herr! Gib diesem Säugling Nahrung aus der Brust Deiner G
 (Bahaiprayers.net ID: 478)
 
 
+
+
 ### <a id="bpn479"></a> Prayer bpn479 in Deutsch
 O Gott! Erziehe dieses Kind im Schoße Deiner Liebe, und gib ihm Milch aus der Brust Deiner Fügung. Pflege diese junge Pflanze im Rosengarten Deiner Liebe und lass sie wachsen durch die Regenschauer Deiner Freigebigkeit. Mache dieses Kind zu einem Kind des Königreiches und führe es in Dein himmlisches Reich. Du bist mächtig und gütig, und Du bist der Schenkende, der Großmütige, der Herr unermesslicher Gabenfülle.
 
 (Source category: Kinder)
 (Bahaiprayers.net ID: 479)
+
+
 
 
 
@@ -1203,6 +1519,8 @@ Wahrlich, Du bist gewaltig in allem, was Du durch Dein Wort willst, Du bist der 
 (Bahaiprayers.net ID: 574)
 
 
+
+
 ### <a id="bpn575"></a> Prayer bpn575 in Deutsch
 Preis sei Dir, o Herr mein Gott! Ich flehe Dich an bei Deinem Namen, den niemand gebührend erkannt und dessen Bedeutung noch keine Seele ergründet hat. Ich flehe Dich an bei Ihm, dem Urquell Deiner Offenbarung und der Morgenröte Deiner Zeichen, mache mein Herz zu einem Gefäß Deiner Liebe und Deines Gedenkens. Vereinige es alsdann mit Deinem größten Meer, so dass ihm die Lebenswasser Deiner Weisheit und die kristallklaren Fluten Deiner Verherrlichung und Deines Lobpreises entströmen.
 Die Glieder meines Leibes bezeugen Deine Einheit, das Haar auf meinem Haupte verkündet die Kraft Deiner Herrschaft und Macht. Ich stehe am Tor Deiner Gnade in vollkommener Selbstverleugnung, ja Selbstauslöschung, und klammere mich an den Saum Deiner Großmut, die Augen auf den Horizont Deiner Gaben gerichtet. Bestimme Du für mich, o mein Gott, was der Größe Deiner Erhabenheit entspricht, und hilf mir durch Deine stärkende Gnade, Deine Sache so zu lehren, dass die Toten aus ihren Gräbern auferstehen und Dir entgegeneilen, ganz im Vertrauen auf Dich, dass sie ihren Blick auf den Morgen Deiner Sache und den Dämmerort Deiner Offenbarung lenken.
@@ -1210,6 +1528,8 @@ Du bist wahrlich der Gewaltigste, der Höchste, der Allwissende, der Allweise.
 
 (Source category: Lehren)
 (Bahaiprayers.net ID: 575)
+
+
 
 
 ### <a id="bpn576"></a> Prayer bpn576 in Deutsch
@@ -1222,6 +1542,8 @@ Ich bitte Dich, Du König des Seins, Du Beschützer des Sichtbaren wie des Unsic
 (Bahaiprayers.net ID: 576)
 
 
+
+
 ### <a id="bpn577"></a> Prayer bpn577 in Deutsch
 Verherrlicht sei Dein Name, o mein Gott, denn Du hast den Tag offenbart, der der König aller Tage ist, den Tag, den Du Deinen Auserkorenen und Deinen Propheten auf Deinen höchst erhabenen Tafeln angekündigt, den Tag, da Du den herrlichen Glanz all Deiner Namen auf alles Erschaffene ergossen. Groß ist die Glückseligkeit dessen, der sich Dir zuwendet, Deine Gegenwart erreicht und Deiner Stimme Klang vernimmt.
 Ich bitte Dich, o mein Herr, bei dem Namen Dessen, den das Reich Deiner Namen in Anbetung umkreist, hilf Du gnädiglich denen, die Dir teuer sind, Dein Wort unter Deinen Dienern zu verherrlichen und Dein Lob unter Deinen Geschöpfen zu verbreiten, damit Deine Offenbarung die Seelen aller Bewohner Deiner Erde verzücke.
@@ -1229,6 +1551,8 @@ Da Du sie, o mein Herr, zum Lebenswasser Deiner Gunst geführt hast, so gewähre
 
 (Source category: Lehren)
 (Bahaiprayers.net ID: 577)
+
+
 
 
 ### <a id="bpn480"></a> Prayer bpn480 in Deutsch
@@ -1239,11 +1563,15 @@ Du bist fürwahr der Freigebige, der Vergebende.
 (Bahaiprayers.net ID: 480)
 
 
+
+
 ### <a id="bpn481"></a> Prayer bpn481 in Deutsch
 O Gott, mein Gott! Stehe Deinen vertrauten Dienern bei, dass sie liebevolle, empfindsame Herzen haben. Hilf ihnen, der Führung Licht, das von den himmlischen Heerscharen ausgeht, unter allen Erdenvölkern zu verbreiten. Wahrlich, Du bist der Starke, der Gewaltige, der Mächtige, der Allunterwerfende, der Immervergebende. Wahrlich, Du bist der Freigebige, der Sanfte, der Empfindsame, der Großmütigste.
 
 (Source category: Lehren)
 (Bahaiprayers.net ID: 481)
+
+
 
 
 ### <a id="bpn482"></a> Prayer bpn482 in Deutsch
@@ -1253,6 +1581,8 @@ Wahrlich, Du bist der Machtvolle, der Starke und der Allmächtige, und Du bist d
 
 (Source category: Lehren)
 (Bahaiprayers.net ID: 482)
+
+
 
 
 ### <a id="bpn483"></a> Prayer bpn483 in Deutsch
@@ -1266,6 +1596,8 @@ Wahrlich, Du bestätigst, wen immer Du willst, indem, was Du wünschest, und wah
 (Bahaiprayers.net ID: 483)
 
 
+
+
 ### <a id="bpn484"></a> Prayer bpn484 in Deutsch
 Wer sich auf Lehrreise in verschiedene Gegenden begibt, der lese im Gebirg und in der Wüste, zu Lande und zu Wasser das folgende Bittgebet:O Gott! O Gott! Du siehst mich schwach, niedrig und bescheiden unter Deinen Geschöpfen; dennoch habe ich auf Dich vertraut und mich erhoben, Deine Lehren unter Deinen standhaften Dienern zu fördern, ganz im Vertrauen auf Deine Kraft und Macht!
 O Herr! Ich bin ein Vogel mit gebrochenen Schwingen, voll Sehnsucht, in Deine grenzenlosen Sphären emporzuschweben. Wie bin ich anders dazu fähig, als durch Deine Vorsehung und Gnade, Deine Bestätigung und Hilfe!
@@ -1275,6 +1607,8 @@ Wahrlich, Du bist der Gütige, der Kraftvolle, der Mächtige und der Barmherzigs
 
 (Source category: Lehren)
 (Bahaiprayers.net ID: 484)
+
+
 
 
 ### <a id="bpn485"></a> Prayer bpn485 in Deutsch
@@ -1287,12 +1621,16 @@ Wahrlich, Du bist der Gewaltige, der Mächtige, der Weise und der Sehende.
 (Bahaiprayers.net ID: 485)
 
 
+
+
 ### <a id="bpn486"></a> Prayer bpn486 in Deutsch
 Wer auf der Reise durch die Städte, Dörfer und Weiler dieser Staaten Gottes süße Düfte verbreitet, soll jeden Morgen dieses Gebet lesen:O mein Gott! O mein Gott! Du siehst, wie ich mich, niedrig und schwach, um das größte Werk mühe, entschlossen, Dein Wort unter den Massen zu künden und Deine Lehren unter Deinen Völkern zu verbreiten. Wie kann dies nur gelingen, es sei denn, Du stehst mir bei mit dem Odem des Heiligen Geistes, hilfst mir zum Triumph durch die Heerscharen Deines herrlichen Reiches, und lässest auf mich Deine Bestätigungen herabregnen, die allein eine Mücke in einen Adler, einen Wassertropfen in Ströme und Meere und ein Atom in Lichter und Sonnen zu verwandeln vermögen. O mein Herr! Steh mir bei mit Deiner siegreichen und allesbewirkenden Macht, auf dass meine Zunge Dein Lob und Deine Eigenschaften unter dem Volke preise und meine Seele überfließe vom Wein Deiner Liebe und Deiner Erkenntnis.
 Du bist der Allmächtige, und Du tust, was immer Du willst.
 
 (Source category: Lehren)
 (Bahaiprayers.net ID: 486)
+
+
 
 
 ### <a id="bpn487"></a> Prayer bpn487 in Deutsch
@@ -1304,12 +1642,16 @@ O Herr! Ich bin schwach, stärke mich mit Deiner Kraft und Macht. Lass meine sta
 (Bahaiprayers.net ID: 487)
 
 
+
+
 ### <a id="bpn488"></a> Prayer bpn488 in Deutsch
 Folgendes Gebet soll täglich gesprochen werden:O Gott! O Gott! Hier ist ein Vogel mit gebrochenen Schwingen, der nur langsam fliegen kann - stehe ihm bei, dass er sich zum Gipfel des Glücks und des Heils erhebe, in eitel Freude und Wonne sich durch den unendlichen Raum schwinge, dass er in Deinem hehrsten Namen über allen Gefilden sein Lied anstimme, die Ohren ergötze mit seinem Ruf und die Augen erhelle mit den Zeichen der Führung.
 O Herr! Ich bin einsam, allein und gering. Für mich gibt es keinen Erhalter außer Dir, keinen Helfer außer Dir, keinen Ernährer außer Dir. Bestätige mich in Deinem Dienst, stehe mir bei mit den Scharen Deiner Engel, mache mich siegreich in der Verbreitung Deines Wortes und lass mich Deine Weisheit unter Deinen Geschöpfen verkünden. Wahrlich, Du bist der Helfer der Armen, der Verteidiger der Geringen, und wahrlich, Du bist der Kraftvolle, der Mächtige und der Unbegrenzte!
 
 (Source category: Lehren)
 (Bahaiprayers.net ID: 488)
+
+
 
 
 ### <a id="bpn489"></a> Prayer bpn489 in Deutsch
@@ -1319,6 +1661,8 @@ Wahrlich, Du bist der Allgewaltige, der Höchsterhabene, der Immervergebende, de
 
 (Source category: Lehren)
 (Bahaiprayers.net ID: 489)
+
+
 
 
 ### <a id="bpn490"></a> Prayer bpn490 in Deutsch
@@ -1332,6 +1676,8 @@ Wahrlich, Du bist der Gewaltige, der Kraftvolle, der Allmächtige.
 
 
 
+
+
 ## Lob und Dank
 
 ### <a id="bpn578"></a> Prayer bpn578 in Deutsch
@@ -1342,12 +1688,16 @@ O göttliche Vorsehung! Alles Dasein ist durch Deine Gnadenfülle erzeugt; berau
 (Bahaiprayers.net ID: 578)
 
 
+
+
 ### <a id="bpn579"></a> Prayer bpn579 in Deutsch
 Gelobt sei Dein Name, o mein Gott, Du Gott aller Dinge, Du meine Herrlichkeit und aller Dinge Herrlichkeit, meine Sehnsucht und aller Dinge Sehnsucht, meine Stärke und aller Dinge Stärke, mein König und aller Dinge König, mein Besitzer und aller Dinge Besitzer, mein Ziel und aller Dinge Ziel, mein Urheber und aller Dinge Urheber! Lass es nicht zu, ich flehe Dich an, dass ich vom Meere Deines zarten Erbarmens ferngehalten werde oder von den Gestaden Deiner Nähe.
 Niemand außer Dir nützt mir, o mein Herr, und keines anderen Nähe bringt mir Gewinn. Ich flehe Dich an bei der Fülle Deines Reichtums, die Dich unabhängig macht von allem außer Dir selbst, zähle mich zu denen, die Dir ihr Angesicht zuwenden und sich erheben, Dir zu dienen. Und vergib, o mein Herr, Deinen Dienern und Dienerinnen. Du bist wahrlich der Immervergebende, der Mitleidvollste.
 
 (Source category: Lob und Dank)
 (Bahaiprayers.net ID: 579)
+
+
 
 
 ### <a id="bpn580"></a> Prayer bpn580 in Deutsch
@@ -1358,6 +1708,8 @@ Du bist der Allmächtige, der Erhabenste, der Allherrliche, der All-Liebende.
 (Bahaiprayers.net ID: 580)
 
 
+
+
 ### <a id="bpn581"></a> Prayer bpn581 in Deutsch
 O mein Gott! O mein Gott! Ich danke Dir, dass Du mich hin zu Dir lenkst, dass Du mich zu Deinem Horizonte hinführst, mir Deinen Pfad zeigst, mir Dein Zeugnis enthüllst und mich befähigst, mein Angesicht auf Dich zu richten, während die meisten Gelehrten und Geistlichen unter Deinen Dienern samt allen, die ihnen nachfolgen, ohne den geringsten Beweis und ohne jedes Zeugnis von Dir sich abkehren. Preis sei Dir, o Herr der Namen, und Ruhm sei Dir, o Schöpfer der Himmel, dass Du mir durch die Macht Deines Namens, der Selbstbestehende, von Deinem versiegelten Weine zu trinken gibst, mich Dir nahe kommen und den Morgen Deines Wortes, die Manifestation Deiner Zeichen, den Springquell Deiner Gesetze und Gebote, den Urgrund Deiner Weisheit und Deiner Gnadengaben erkennen lässest. Selig ist das Land, das Deine Fußstapfen adeln, darauf der Thron Deiner Allgewalt steht und darin der Duft Deines Gewandes sich verbreitet. Bei Deiner Herrlichkeit und Majestät, Deiner Macht und Kraft, ich wünsche mir mein Sehvermögen nur, um Deine Schönheit zu schauen, und mein Gehör allein, um Deinen Ruf und Deine Verse zu vernehmen.
 O mein Gott! O mein Gott! Halte die Augen nicht fern von den Dingen, für die Du sie erschaffen, noch verwehre den Angesichtern, sich Deinem Lichthimmel zuzuwenden, an den Toren Deiner Majestät zu huldigen, vor Deinem Throne zu erscheinen oder sich vor der strahlenden Sonne Deiner Gabenfülle zu verneigen.
@@ -1366,12 +1718,16 @@ O mein Gott! O mein Gott! Halte die Augen nicht fern von den Dingen, für die Du
 (Bahaiprayers.net ID: 581)
 
 
+
+
 ### <a id="bpn582"></a> Prayer bpn582 in Deutsch
 Aller Lobpreis sei Dir, o mein Gott, der Du der Quell bist aller Herrlichkeit und Majestät, der Größe und Ehre, höchster Macht und Herrschaft, der Erhabenheit und Gnade, der Ehrfurcht und der Kraft. Du lässest, wen Du willst, dem Größten Meere näherkommen, und schenkest, wem Du magst, die Ehre, Deinen urewigen Namen zu erkennen. Niemand von allen, die im Himmel und auf Erden sind, kann dem Walten Deines unumschränkten Willens widerstehen. Seit aller Ewigkeit herrschtest Du über die ganze Schöpfung und Du wirst immerdar über alles Erschaffene herrschen. Es gibt keinen Gott außer Dir, dem Allmächtigen, dem Erhabensten, dem Allgewaltigen, dem Allweisen.
 Erleuchte, o mein Herr, das Antlitz Deiner Diener, auf dass sie Dich schauen, und reinige ihr Herz, damit sie sich dem Hofe Deiner himmlischen Gunst zuwenden und Ihn, den Offenbarer Deiner selbst, die Morgenröte Deines Wesens, erkennen. Wahrlich, Du bist der Herr aller Welten. Es gibt keinen Gott außer Dir, dem Unbezwungenen, dem Allbezwingenden.
 
 (Source category: Lob und Dank)
 (Bahaiprayers.net ID: 582)
+
+
 
 
 
@@ -1384,6 +1740,8 @@ Ich flehe Dich an, o mein Gott, bei Deinem Namen, dessen Glanz Erde und Himmel u
 (Bahaiprayers.net ID: 583)
 
 
+
+
 ### <a id="bpn584"></a> Prayer bpn584 in Deutsch
 Ich weiß nicht, o mein Gott, was für ein Feuer Du in Deinem Lande entzündet hast. Erde kann niemals seinen Glanz verdunkeln noch Wasser seine Flamme löschen. Alle Völker der Welt sind machtlos, seiner Gewalt zu widerstehen. Groß ist die Seligkeit dessen, der ihm nahekommt und sein Tosen hört.
 Einigen, o mein Gott, gabst Du durch Deine stärkende Gnade die Kraft, sich Deinem Feuer zu nähern, während Du andere zurückhieltest wegen der Taten, die ihre Hände in Deinen Tagen begangen. Wer immer ihm zueilt und es erreicht im brennenden Verlangen, Deine Schönheit zu schauen, gibt sein Leben auf Deinem Pfade hin und steigt zu Dir empor in völliger Loslösung von allem außer Dir.
@@ -1394,6 +1752,8 @@ Du hast die Macht zu tun, was Dir gefällt. Du bist wahrlich der Allgewaltige, d
 (Bahaiprayers.net ID: 584)
 
 
+
+
 ### <a id="bpn585"></a> Prayer bpn585 in Deutsch
 Gelobt sei Dein Name, o mein Gott! Ich flehe Dich an bei den Düften des Gewandes Deiner Gnade, die auf Dein Geheiß und nach Deinem Wunsch über die ganze Schöpfung dahinwehten, und bei der Sonne Deines Willens, die in der Kraft Deiner Macht und Deiner höchsten Herrschaft hell über dem Horizonte Deines Erbarmens scheint, tilge aus meinem Herzen allen eitlen Wahn und leeren Trug, auf dass ich mit all meiner Liebe mich Dir zuwende, o Du Herr der ganzen Menschheit!
 Ich bin Dein Diener und Deines Dieners Sohn, o mein Gott! Ich halte mich fest am Griff Deiner Gnade und klammere mich an das Seil Deines zarten Erbarmens. Bestimme für mich das Gute, das von Dir kommt, und lass mich essen von der Tafel, die Du aus den Wolken Deiner Freigebigkeit und dem Himmel Deiner Gunst herabgesandt hast.
@@ -1401,6 +1761,8 @@ Du bist wahrlich der Herr der Welten und der Gott aller im Himmel und auf Erden.
 
 (Source category: Loslösung)
 (Bahaiprayers.net ID: 585)
+
+
 
 
 ### <a id="bpn586"></a> Prayer bpn586 in Deutsch
@@ -1413,6 +1775,8 @@ Deine Macht ist wahrlich allem gewachsen.
 (Bahaiprayers.net ID: 586)
 
 
+
+
 ### <a id="bpn587"></a> Prayer bpn587 in Deutsch
 Verherrlicht seiest Du, o mein Gott! Dank sei Dir, dass Du mich Ihn, die Morgenröte Deines Erbarmens und den Verwahrungsort Deiner Sache, erkennen ließest. Ich flehe Dich an bei Deinem Namen, durch den die Angesichter der Dir Nahen weiß wurden und die Herzen der Dir Ergebenen ihren Flug zu Dir erhoben, gib, dass ich mich in jeder Lage allezeit an Dein Seil klammere und mich von allen Bindungen außer der Deinen löse, dass ich meine Augen auf den Horizont Deiner Offenbarung richte und vollbringe, was Du mir auf Deinen Tafeln vorgeschrieben hast.
 Schmücke mich, o mein Herr, innerlich wie äußerlich mit dem Gewande Deiner Gunst und Güte. Bewahre mich alsdann vor allem, was Du verabscheust, und hilf mir und meinen Verwandten gnädiglich, Dir zu gehorchen und alles zu meiden, was einen bösen oder verderbten Wunsch in mir erwecken könnte.
@@ -1422,6 +1786,8 @@ Du bist wahrlich der Herr der ganzen Menschheit, der Herr über diese und die zu
 (Bahaiprayers.net ID: 587)
 
 
+
+
 ### <a id="bpn588"></a> Prayer bpn588 in Deutsch
 Sprich: O Gott, mein Gott! Du siehst, wie ich Deinen Willen umkreise, die Augen auf den Morgenhimmel Deiner Großmut gerichtet, im heftigen Verlangen nach dem Strahlenglanz der Sonne Deiner Gunst und Gnade. Ich bitte Dich, o Du Geliebter jedes verstehenden Herzens, Du Sehnsucht derer, die nahen Zugang zu Dir haben, gib, dass sich Deine Geliebten völlig loslösen von ihren eigenen Neigungen und sich fest an das halten, was Dir wohlgefällt. Kleide sie, o Herr, in das Gewand der Rechtschaffenheit und erleuchte sie mit dem strahlenden Lichte der Loslösung. Rufe sodann die Heerscharen weiser Rede zu ihrer Hilfe, auf dass sie Dein Wort unter Deinen Geschöpfen erhöhen und Deine Sache vor Deinen Dienern verkünden. Wahrlich, Du bist mächtig zu tun, was Du willst, und in Deinem Griff liegen die Zügel allen Geschehens. Es gibt keinen Gott außer Dir, dem Mächtigen, dem Ewigvergebenden.
 
@@ -1429,11 +1795,15 @@ Sprich: O Gott, mein Gott! Du siehst, wie ich Deinen Willen umkreise, die Augen 
 (Bahaiprayers.net ID: 588)
 
 
+
+
 ### <a id="bpn646"></a> Prayer bpn646 in Deutsch
 O mein Gott, mein Herr und mein Meister! Ich habe mich von meiner Verwandtschaft losgesagt und suche durch Dich unabhängig zu werden von allen, die auf Erden wohnen, allzeit bereit zu empfangen, was in Deinen Augen rühmlich ist. Verleihe mir das Gute, das mich unabhängig macht von allem außer Dir, und gewähre mir reichen Anteil an Deinen unbegrenzten Gaben. Wahrlich, Du bist der Herr grenzenloser Gnade.
 
 (Source category: Loslösung)
 (Bahaiprayers.net ID: 646)
+
+
 
 
 ### <a id="bpn491"></a> Prayer bpn491 in Deutsch
@@ -1446,6 +1816,8 @@ Du bist wahrlich der Machtvolle, der Immervergebende, der Fähige, der Allmächt
 
 
 
+
+
 ## Menschheit
 
 ### <a id="bpn492"></a> Prayer bpn492 in Deutsch
@@ -1453,6 +1825,8 @@ O Du mitleidvoller Gott, Du, der Du freigebig bist und dazu die Macht hast! Wir 
 
 (Source category: Menschheit)
 (Bahaiprayers.net ID: 492)
+
+
 
 
 ### <a id="bpn493"></a> Prayer bpn493 in Deutsch
@@ -1470,6 +1844,8 @@ Du bist der Mächtige und der Kraftvolle, Du bist der Vergebende und Du bist der
 
 
 
+
+
 ## Morgen
 
 ### <a id="bpn589"></a> Prayer bpn589 in Deutsch
@@ -1479,12 +1855,16 @@ In Deiner Obhut bin ich erwacht, o mein Gott, und wer Deine Obhut sucht, dem ste
 (Bahaiprayers.net ID: 589)
 
 
+
+
 ### <a id="bpn590"></a> Prayer bpn590 in Deutsch
 Durch Deine Gnade, o mein Gott, habe ich mich heute morgen erhoben, ganz im Vertrauen auf Dich habe ich mein Haus verlassen und mich Deiner Obhut anbefohlen. Sende nun aus dem Himmel Deines Erbarmens Deinen Segen auf mich nieder und lasse mich wohlbehalten wieder heimkehren, wie Du mich ausziehen ließest unter Deinem Schutz, Deiner unentwegt gedenkend.
 Es gibt keinen Gott außer Dir, dem Einen, dem Unvergleichlichen, dem Allwissenden, dem Allweisen.
 
 (Source category: Morgen)
 (Bahaiprayers.net ID: 590)
+
+
 
 
 ### <a id="bpn591"></a> Prayer bpn591 in Deutsch
@@ -1496,6 +1876,8 @@ Segne Ihn, o Herr mein Gott, den Du über Deine vortrefflichsten Namen gesetzt h
 (Bahaiprayers.net ID: 591)
 
 
+
+
 ### <a id="bpn592"></a> Prayer bpn592 in Deutsch
 Dich preise ich, o mein Gott, denn Du erwecktest mich aus dem Schlafe, Du ließest mich zurückkehren aus meinem Fernsein und wieder aufstehen aus meinem Schlummer. Beim Erwachen habe ich heute morgen mein Angesicht dem Sonnenglanz Deiner Offenbarung, der die Himmel Deiner Macht und Majestät erleuchtet, zugewandt. Ich bekenne mich zu Deinen Zeichen, ich glaube an Dein Buch und halte mich fest an Deinem Seile.
 Ich bitte Dich bei der Macht Deines Willens und der bezwingenden Kraft Deines Ratschlusses, mache was Du mir im Schlafe offenbartest, zum sicheren Baugrund für die Wohnstätten Deiner Liebe in den Herzen Deiner Geliebten und zum vortrefflichsten Werkzeug für die Offenbarung der Zeichen Deiner Huld und Gnade.
@@ -1505,6 +1887,8 @@ Du enttäuschest keinen, der Dich sucht, und hältst keinen zurück, der nach Di
 
 (Source category: Morgen)
 (Bahaiprayers.net ID: 592)
+
+
 
 
 
@@ -1522,6 +1906,8 @@ Du bist wahrhaftig der Allwissende, der Allweise.
 
 
 
+
+
 ## Prüfungen und Schwierigkeiten
 
 ### <a id="bpn593"></a> Prayer bpn593 in Deutsch
@@ -1534,6 +1920,8 @@ Mächtig bist Du zu tun, was Dir gefällt. Es gibt keinen Gott außer Dir, dem H
 (Bahaiprayers.net ID: 593)
 
 
+
+
 ### <a id="bpn594"></a> Prayer bpn594 in Deutsch
 O Gott! Die Prüfungen, die Du sendest, sind Balsam für die Wunden aller, die Deinem Willen ergeben sind. Deiner zu gedenken, ist heilende Arznei für die Herzen derer, die Deinem Hofe nahe sind. Die Nähe zu Dir ist das wahre Leben aller, die Dich lieben. Deine Gegenwart ist der brennende Wunsch derer, die sich danach sehnen, Dein Antlitz zu schauen. Ferne von Dir wird denen zur Qual, die Deine Einheit erkennen, und Trennung von Dir ist denen Tod, die Deine Wahrheit anerkennen.
 Ich flehe Dich an, bei den Seufzern derer, die sich fern von Deinem Hof nach Dir verzehren, und beim Wehklagen Deiner Geliebten, die ihre Trennung von Dir beweinen, stärke mich mit dem Weine Deiner Erkenntnis, mit dem Lebenswasser Deiner Liebe und Deines Wohlgefallens. Schau Deine Magd, o mein Herr, die alles außer Dir vergisst, beglückt durch Deine Liebe, wie sie wehklagt darüber, was die Hände der Frevler unter Deinen Geschöpfen Dir zufügten. Bestimme für sie, was Du denen Deiner Dienerinnen bestimmt hast, die den Thron Deiner Majestät umkreisen und zur Abendzeit wie am Morgen nach Deiner Schönheit schauen.
@@ -1541,6 +1929,8 @@ Du bist wahrlich der Herr am Tage des Gerichts.
 
 (Source category: Prüfungen und Schwierigkeiten)
 (Bahaiprayers.net ID: 594)
+
+
 
 
 ### <a id="bpn595"></a> Prayer bpn595 in Deutsch
@@ -1552,6 +1942,8 @@ Und bei dem Lichte Deines Angesichtes bitte ich Dich endlich, segne meine Gesch�
 (Bahaiprayers.net ID: 595)
 
 
+
+
 ### <a id="bpn597"></a> Prayer bpn597 in Deutsch
 Lob und Preis seien Dir, o mein Gott! Ich flehe Dich an bei den Seufzern und Tränen derer, die Dich lieben und sich danach sehnen, Dich zu schauen, versage mir in Deinen Tagen nicht Deine Gnadengaben und verwehre mir nicht, dem Liede der Taube zu lauschen, wenn sie im Lichte Deines Angesichts Deine Einzigkeit preist. Ich bin im Elend, o Gott! Sieh, wie ich mich festhalte an Deinem Namen, der Allbesitzende. Ich habe den Untergang vor Augen; sieh, wie ich mich klammere an Deinen Namen, der Unvergängliche. Darum flehe ich Dich an, bei Deinem Selbst, dem erhabenen, dem höchsten, überlasse mich nicht mir selbst und den Wünschen meiner verderbten Neigungen. Halte Du meine Hand mit der Hand Deiner Kraft, befreie mich aus den Abgründen meiner Launen und Wahngebilde und reinige mich von allem, was Dir zuwider ist.
 Bewirke alsdann, dass ich mich ganz Dir zuwende, mein ganzes Vertrauen auf Dich setze, bei Dir Zuflucht suche und vor Dein Antlitz fliehe. Du bist wahrlich Der, welcher kraft Seiner Macht tut, was immer Er wünscht, und durch die Gewalt Seines Willens befiehlt, was Ihm gefällt. Niemand kann dem Walten Deines Ratschlusses widerstehen, niemand den Lauf Deiner Entscheidung ablenken. Du bist wahrhaftig der Allmächtige, der Allherrliche, der Großmütigste.
@@ -1560,11 +1952,15 @@ Bewirke alsdann, dass ich mich ganz Dir zuwende, mein ganzes Vertrauen auf Dich 
 (Bahaiprayers.net ID: 597)
 
 
+
+
 ### <a id="bpn598"></a> Prayer bpn598 in Deutsch
 O Du, Dessen Prüfungen denen zum Heilmittel werden, die Dir nahe sind; Dessen Schwert alle heiß begehren, die Dich lieben, Dessen Pfeil der teuerste Wunsch derer ist, die nach Dir sich sehnen, Dessen Ratschluss die einzige Hoffnung derer ist, die Deine Wahrheit erkennen! Ich flehe Dich an, bei Deiner göttlichen Anmut, beim herrlichen Glanz Deines Angesichts, sende aus den Höhen Deiner Abgeschiedenheit auf uns hernieder, was uns Dir nahebringt. Festige sodann unsere Schritte in Deiner Sache, o mein Gott, erleuchte unsere Herzen mit dem Strahl Deiner Erkenntnis, und erfülle unsere Brust mit dem Glanz Deiner Namen.
 
 (Source category: Prüfungen und Schwierigkeiten)
 (Bahaiprayers.net ID: 598)
+
+
 
 
 ### <a id="bpn599"></a> Prayer bpn599 in Deutsch
@@ -1576,6 +1972,8 @@ Ich flehe Dich an, mein Gott, bei ihnen und den Seufzern, die sich ihren Herzen 
 (Bahaiprayers.net ID: 599)
 
 
+
+
 ### <a id="bpn600"></a> Prayer bpn600 in Deutsch
 Gelobt sei Dein Name, o mein Gott! Du siehst, wie der Sturm der Prüfungen die im Glauben Standhaften erzittern lässt, wie der Versuchung Hauch jene aufrührt, deren Herzen festen Grund gefunden hatten, außer denen, die aus den Händen der Manifestation Deines Namens, der Allerbarmer, des Weines teilhaftig werden, der in Wahrheit Leben ist. Sie kann kein anderes Wort bewegen als Dein höchst erhabenes Wort, sie kann nichts entzücken als der süße Duft vom Gewande Deines Gedenkens, o Du Besitzer aller Namen, Du Schöpfer von Himmel und Erde!
 Ich flehe Dich an, o Du geliebter Gefährte Bahás, bei Deinem Namen, der Allherrliche, lasse Deine Diener sicher sein im Flügelschatten Deines allumfassenden Erbarmens, damit die Frevler unter Deinen Geschöpfen, die nicht an Deine Zeichen glauben, ihnen nichts anhaben können mit den Pfeilen böser Einflüsterungen. Niemand auf Erden kann Deiner Macht widerstehen, und keiner im Reich Deiner Namen kann Deinen Ratschluss vereiteln. So tue denn kund die Macht Deiner höchsten Gewalt und Herrschaft und lehre Deine Geliebten, was sich in Deinen Tagen für sie ziemt.
@@ -1583,6 +1981,8 @@ Du bist fürwahr der Allmächtige, der Höchsterhabene, der Allherrliche, der Gr
 
 (Source category: Prüfungen und Schwierigkeiten)
 (Bahaiprayers.net ID: 600)
+
+
 
 
 ### <a id="bpn601"></a> Prayer bpn601 in Deutsch
@@ -1594,6 +1994,8 @@ Bei Deinem Größten Namen und Deiner urewigen Herrschaft flehe ich Dich an, sch
 (Bahaiprayers.net ID: 601)
 
 
+
+
 ### <a id="bpn647"></a> Prayer bpn647 in Deutsch
 Gibt es einen Befreier von Schwierigkeiten außer Gott? Sprich: Gelobt sei Gott! Er ist Gott! Alle sind Seine Diener und alle stehen unter Seinem Befehl.
 
@@ -1601,11 +2003,15 @@ Gibt es einen Befreier von Schwierigkeiten außer Gott? Sprich: Gelobt sei Gott!
 (Bahaiprayers.net ID: 647)
 
 
+
+
 ### <a id="bpn649"></a> Prayer bpn649 in Deutsch
 Ich beschwöre Dich bei Deiner Macht, o mein Gott! Lass kein Leid mich bedrängen in Zeiten der Prüfung und lenke, wenn ich achtlos bin, meine Schritte recht durch Deine Eingebung. Du bist Gott. Mächtig bist Du zu tun, was Du willst. Niemand kann Deinem Willen widerstehen oder Deine Absicht vereiteln.
 
 (Source category: Prüfungen und Schwierigkeiten)
 (Bahaiprayers.net ID: 649)
+
+
 
 
 ### <a id="bpn650"></a> Prayer bpn650 in Deutsch
@@ -1617,11 +2023,15 @@ Hoch erhaben bist Du, o Herr der Himmel und der Erde, über das Lob aller Mensch
 (Bahaiprayers.net ID: 650)
 
 
+
+
 ### <a id="bpn648"></a> Prayer bpn648 in Deutsch
 O Herr! Du vertreibst alle Qual und zerstreust jeden Kummer. Du bannst jedes Leid und befreist jeden Sklaven, Du erlösest jede Seele. O Herr! Errette mich durch Dein Erbarmen und zähle mich zu denen Deiner Diener, die das Heil erlangen.
 
 (Source category: Prüfungen und Schwierigkeiten)
 (Bahaiprayers.net ID: 648)
+
+
 
 
 ### <a id="bpn494"></a> Prayer bpn494 in Deutsch
@@ -1641,6 +2051,8 @@ Du bist wahrhaftig der Gnädige, der Verherrlichte, der Machtvolle, der Allmäch
 (Bahaiprayers.net ID: 494)
 
 
+
+
 ### <a id="bpn596"></a> Prayer bpn596 in Deutsch
 Er ist der Barmherzige, der Allgütige!
 O Gott, mein Gott! Du siehst mich, Du kennst mich. Du bist mein Hafen und meine Zuflucht. Ich habe keinen gesucht und will keinen suchen denn Dich. Keinen Pfad habe ich betreten und will keinen betreten als den Pfad Deiner Liebe. In der Verzweiflung dunkler Nacht wendet sich mein Herz voll Hoffnung dem Morgen Deiner grenzenlosen Gunst zu, und zur Stunde der Morgendämmerung wird meine matte Seele erfrischt und gestärkt im Gedenken an Deine Schönheit und Vollkommenheit. Wem die Gnade Deines Erbarmens hilft, der wird, und wäre er nur ein Tropfen, zu einem endlosen Meer, und das kleinste Atom leuchtet dank der Ausgießung Deiner Güte gleich einem strahlenden Stern.
@@ -1648,6 +2060,8 @@ Birg unter Deinem Schutz, Du Geist der Reinheit, Du allgütiger Versorger, Deine
 
 (Source category: Prüfungen und Schwierigkeiten)
 (Bahaiprayers.net ID: 596)
+
+
 
 
 
@@ -1660,6 +2074,8 @@ Du siehst, o mein Herr, wie ich mein Angesicht dem Himmel Deiner Gnade und dem M
 (Bahaiprayers.net ID: 602)
 
 
+
+
 ### <a id="bpn603"></a> Prayer bpn603 in Deutsch
 O Gott, mein Gott! Deine Gnade macht mir Mut, doch Deine Gerechtigkeit versetzt mich in Schrecken. Glücklich der Diener, der von Deiner Gnade erfüllt ist, wehe aber dem, der Deine Verdammnis verdient. Herr, ich fliehe Deine Gerechtigkeit und suche Dein Erbarmen. Ich wende mich ab von Deinem Zorn, Deine Vergebung zu erflehen.
 Bei Deiner Macht, Deiner höchsten Herrschaft, Deiner Herrlichkeit und Deinem Erbarmen bitte ich Dich, erleuchte die Menschheit so mit dem Lichte Deiner Erkenntnis, dass die ganze Schöpfung Dein Werk verkündet, die Mysterien Deiner Eigenschaften enthüllt und den Strahlenglanz Deiner Weisheit offenbart.
@@ -1670,12 +2086,16 @@ Du bist der Vergebende, der Allgütige, der Huldvolle.
 (Bahaiprayers.net ID: 603)
 
 
+
+
 ### <a id="bpn604"></a> Prayer bpn604 in Deutsch
 O Gott, mein Gott! Du siehst mich, wie ich vor der Tür Deiner Güte und Vergebung stehe, wie ich meinen Blick auf den Himmelssaum Deiner großmütigen Gunst und Deines mannigfachen Segens richte. Ich bitte Dich bei Deiner süßen Stimme und bei dem schrillen Laut Deiner Feder, o Du Herr der ganzen Menschheit, hilf gnädig Deinen Dienern, wie es Deinen Tagen entspricht und der Herrlichkeit Deiner Manifestation und Deiner Majestät ansteht. Wahrlich, Du bist mächtig zu tun, was Du willst. Alle Bewohner der Himmel und der Erde bezeugen Deine Kraft und Deine Macht, Deine Herrlichkeit und Deine Freigebigkeit. Preis sei Dir, Du Herr der Welten, Du Einziggeliebter für das Herz jedes Einsichtsvollen!
 Du siehst, o mein Gott, wie das Wesen der Armut das Meer Deines Reichtums sucht, wie sich der Inbegriff der Bosheit nach den Wassern Deiner Vergebung und Deiner sanften Gnade sehnt. Gewähre, o mein Gott, was Deiner großen Herrlichkeit entspricht und der Erhabenheit Deiner grenzenlosen Gnade entspringt. Du bist in Wahrheit der alles Gewährende, der Herr überströmender Gnade, der Gesetzgeber, der Allweise. Es gibt keinen Gott außer Dir, dem Mächtigsten, dem Allbezwingenden, dem Allmachtvollen.
 
 (Source category: Reue und Vergebung)
 (Bahaiprayers.net ID: 604)
+
+
 
 
 ### <a id="bpn605"></a> Prayer bpn605 in Deutsch
@@ -1689,12 +2109,16 @@ Wahrlich, Du bist der Kraftvolle, der Gütige. Es gibt keinen Gott außer Dir, d
 (Bahaiprayers.net ID: 605)
 
 
+
+
 ### <a id="bpn606"></a> Prayer bpn606 in Deutsch
 Die Milde Deiner Gnade, o mein Herr, überragt die Wut Deines Zornes, Deine Güte übertrifft Dein jähes Missfallen und Deine Gnade ist größer als Deine Gerechtigkeit. Nimm Du in Deiner wundersamen Gunst und Barmherzigkeit Deine Geschöpfe bei der Hand und lasse sie nicht von der Gnade ausgeschlossen sein, durch die sie Dich nach Deinem Willen erkennen sollen. Der Glanz Deiner Macht ist mein Zeuge! Sollte solches geschehen, so würde jede Seele heftig erschüttert, jeder Einsichtige verwirrt und jeder Wissende sprachlos, ausgenommen jene, denen durch die Hände Deiner Sache Hilfe zuteil ward, jene, die Du zu Empfängern der Offenbarungen Deiner Gnade und der Zeichen Deiner Gunst machtest.
 Ich schwöre bei Deiner Macht, o mein Gott! Wolltest Du Deine Diener nach ihrem Verdienst in Deinen Tagen betrachten, so verdienten sie gewiss nur Deine Strafe und Züchtigung. Du bist indes der große Wohltäter, dessen Gnade unermesslich ist. Schaue sie nicht an, o mein Gott, mit dem Blick Deiner Gerechtigkeit, sondern mit dem Auge Deines zärtlichen Mitleids und Deines Erbarmens. Verfahre alsdann mit ihnen, wie es Deiner Freigebigkeit und Deiner großmütigen Gunst entspricht. Mächtig bist Du zu tun, was immer Dir gefällt. Unvergleichlich bist Du. Es gibt keinen Gott außer Dir, dem Herrn des Thrones droben und auf Erden hienieden, dem Herrscher dieser und der zukünftigen Welt. Du bist der Gott der Großmut, der Immervergebende, der Große Geber, der Freigebigste.
 
 (Source category: Reue und Vergebung)
 (Bahaiprayers.net ID: 606)
+
+
 
 
 ### <a id="bpn607"></a> Prayer bpn607 in Deutsch
@@ -1708,6 +2132,8 @@ Preis sei Gott, dem Herrn der Welten!
 (Bahaiprayers.net ID: 607)
 
 
+
+
 ### <a id="bpn608"></a> Prayer bpn608 in Deutsch
 O Du, vor Dem alle Dinge in Furcht erschauern, vor Dessen strahlendem Antlitz alle Menschen die Augen niederschlagen, vor Dessen Offenbarungen höchster Herrschaft alle Nacken sich in Demut beugen, Der durch Seinen gebieterischen Willen alle Herzen überwältigt, Dessen ehrfurchtgebietende Majestät alle Dinge in ihren Grundfesten erbeben lässt und Der durch die Gewalt Seiner Herrschaft die Winde unterwarf! Ich flehe Dich an bei der bezwingenden Kraft Deiner Offenbarung, bei der Gewalt Deiner Macht, bei der Hoheit Deines Wortes und der Erhabenheit Deiner Herrschaft, zähle uns zu denen, die die Welt nicht daran hindern konnte, sich Dir zuzukehren.
 Lass mich zu denen gehören, o mein Herr, die mit Leib und Leben tapfer auf Deinem Pfade kämpfen. Schreibe sodann die Belohnung für mich nieder, die Du auf der Tafel Deines Befehls für sie bestimmt hast. Weise mir den Sitz der Wahrheit an in Deiner Gegenwart und geselle mich zu den Aufrichtigen unter Deinen Dienern.
@@ -1716,6 +2142,8 @@ Du bist fürwahr der Allmächtige, der Helfer in Gefahr, der Selbstbestehende.
 
 (Source category: Reue und Vergebung)
 (Bahaiprayers.net ID: 608)
+
+
 
 
 ### <a id="bpn609"></a> Prayer bpn609 in Deutsch
@@ -1731,6 +2159,8 @@ Ich bitte Dich, Du Herr allen Seins, Du König des Sichtbaren und des Unsichtbar
 (Bahaiprayers.net ID: 609)
 
 
+
+
 ### <a id="bpn610"></a> Prayer bpn610 in Deutsch
 Verherrlicht bist Du, o Herr mein Gott! Ich flehe Dich an bei Deinen Auserwählten, bei Deinen Vertrauten und bei Ihm, den Du zum Siegel Deiner Propheten und Boten bestimmt hast, lasse Dein Gedenken meinen Gefährten sein, Deine Liebe mein Streben, Dein Antlitz mein Ziel, Deinen Namen meine Leuchte, Deinen Wunsch mein Verlangen und Dein Wohlgefallen meine Freude.
 Ich bin ein Sünder, o mein Herr, und Du bist der Immervergebende. Kaum hatte ich Dich erkannt, da eilte ich hin zum erhabenen Hofe Deiner Gnade. Vergib, o mein Herr, meine Sünden, die mich daran hindern, auf den Pfaden Deines Wohlgefallens zu wandeln und die Ufer des Meeres Deiner Einheit zu erreichen.
@@ -1738,6 +2168,8 @@ Es gibt keinen, o mein Gott, der großmütig zu mir sein kann, so dass ich ihm m
 
 (Source category: Reue und Vergebung)
 (Bahaiprayers.net ID: 610)
+
+
 
 
 ### <a id="bpn651"></a> Prayer bpn651 in Deutsch
@@ -1748,11 +2180,15 @@ Verherrlicht seiest Du, o Herr! Du vergibst allezeit die Sünden jener Deiner Di
 (Bahaiprayers.net ID: 651)
 
 
+
+
 ### <a id="bpn652"></a> Prayer bpn652 in Deutsch
 Ich bitte Dich, o mein Herr, vergib mir jedes Gedenken außer dem Deinen, jeden Lobpreis außer dem Deinen, jede Wonne außer Deiner Nähe, jede Freude außer der Gemeinschaft mit Dir, jedes Entzücken außer Deiner Liebe und Deinem Wohlgefallen sowie alles, was mir zugehört und keine Verwandtschaft hat mit Dir, o Du, der Du der Herr der Herren bist, Er, der die Wege bereitet und die Türen öffnet.
 
 (Source category: Reue und Vergebung)
 (Bahaiprayers.net ID: 652)
+
+
 
 
 ### <a id="bpn653"></a> Prayer bpn653 in Deutsch
@@ -1763,11 +2199,15 @@ O mein Gott! Du hast meine Seele ermutigt, demütig zu Dir zu flehen, und nur um
 (Bahaiprayers.net ID: 653)
 
 
+
+
 ### <a id="bpn654"></a> Prayer bpn654 in Deutsch
 Preis sei Dir, o Herr! Vergib uns unsere Sünden, erbarme Dich unser und mache uns fähig, zu Dir zurückzukehren. Lasse nicht zu, dass wir auf anderes vertrauen als Dich, und gewähre uns durch Deine Freigebigkeit, was Du liebst und wünschest und was Deiner würdig ist. Erhöhe die Stufe derer, die wahrhaft glauben, und vergib ihnen mit Deiner gnädigen Vergebung. Wahrlich, Du bist der Helfer in Gefahr, der Selbstbestehende.
 
 (Source category: Reue und Vergebung)
 (Bahaiprayers.net ID: 654)
+
+
 
 
 ### <a id="bpn655"></a> Prayer bpn655 in Deutsch
@@ -1779,11 +2219,15 @@ Segne mich, o mein Gott, und jene, die am festgesetzten Tage an Deine Zeichen gl
 (Bahaiprayers.net ID: 655)
 
 
+
+
 ### <a id="bpn495"></a> Prayer bpn495 in Deutsch
 O Du vergebender Herr! Wenn auch manch eine Seele in Unwissenheit, Entfremdung und Selbstsucht verschied, so kann doch fürwahr eine einzige Woge aus dem Meer Deiner Vergebung den Sünder erlösen und befreien. Du erlösest, wen immer Du willst, und Du verweigerst Dich, wem Du willst. Übst Du Gerechtigkeit, so sind wir Sünder allzumal und verdienen, ausgeschlossen zu sein. Und verfährst Du nach Deiner Gnade, so wird ein jeder Sünder rein und jeder Fremde zum Freund. Vergib und verzeihe darum allen und erbarme Dich aller. Du bist der Vergeber, der Lichtspender, der Mitleidvolle.
 
 (Source category: Reue und Vergebung)
 (Bahaiprayers.net ID: 495)
+
+
 
 
 ### <a id="bpn496"></a> Prayer bpn496 in Deutsch
@@ -1796,11 +2240,15 @@ Wahrlich, Du bist der Vergeber, der Mitleidvolle, und Du bist der Freigebige, de
 (Bahaiprayers.net ID: 496)
 
 
+
+
 ### <a id="bpn497"></a> Prayer bpn497 in Deutsch
 O Du vergebender Herr! Du bist aller Deiner Diener Zuflucht. Du kennst die Geheimnisse und bist aller Dinge gewahr. Wir alle sind hilflos, Du aber bist der Machtvolle, der Allmächtige. Wir alle sind Sünder, Du aber bist der Vergeber der Sünden, der Barmherzige, der Mitleidvolle. O Herr! Sieh nicht auf unsere Fehler. Verfahre mit uns nach Deiner Gnade und Großmut. Groß ist die Zahl unserer Mängel, doch unendlich ist das Meer Deiner Vergebung. Schlimm ist unsere Schwäche, doch Deine Hilfe und Dein Beistand sind offensichtlich. Darum bestätige und festige uns. Mache uns fähig, zu vollbringen, was Deiner heiligen Schwelle würdig ist. Erleuchte unsere Herzen, verleihe uns scharfe Augen und Ohren. Erwecke die Toten und heile die Kranken. Verleihe den Armen Wohlstand, den Furchtsamen Frieden und Sicherheit. Nimm uns auf in Dein Reich und erleuchte uns mit dem Lichte der Führung. Du bist der Starke, der Allmächtige. Du bist der Freigebige. Du bist der Gnädige. Du bist der Gütige.
 
 (Source category: Reue und Vergebung)
 (Bahaiprayers.net ID: 497)
+
+
 
 
 
@@ -1813,6 +2261,8 @@ O Gott, mein Gott! Ich habe mich aus meinem Hause begeben, das Seil Deiner Liebe
 (Bahaiprayers.net ID: 611)
 
 
+
+
 ### <a id="bpn612"></a> Prayer bpn612 in Deutsch
 Preis sei Dir, o Herr mein Gott! Du siehst meine Tränen und meinen Jammer und hörst mein Seufzen, Weinen und schmerzliches Klagen. Ich bin es, o mein Herr, der sich festhält am Seil Deines Erbarmens, welches die ganze Schöpfung überragt. Ich klammere mich an den Saum Deiner Güte, o Du, in Dessen Hand das Reich der Namen liegt.
 Erbarme Dich meiner und aller, die mir nahestehen, durch die Wunder Deiner Gnade und Macht. Beschirme uns alsdann vor dem Unheil Deiner Feinde und stehe uns bei, Deinem Glauben zu helfen, Deine Sache zu schützen und Deine Herrlichkeit zu preisen. Du bist wahrlich Er, der seit Urbeginn auf den unzugänglichen Höhen Seiner Einheit wohnt und immerdar der Gleiche sein wird. Nichts entgeht Deinem Wissen und nichts kann Deinen Plan vereiteln. Es gibt keinen Gott außer Dir, dem Allmächtigen, dem Immergetreuen, dem Erhabensten, dem Allherrlichen, dem Meistgeliebten.
@@ -1822,6 +2272,8 @@ Gelobt und verherrlicht seiest Du, in Dessen Hand das Reich aller Dinge liegt.
 (Bahaiprayers.net ID: 612)
 
 
+
+
 ### <a id="bpn613"></a> Prayer bpn613 in Deutsch
 Gepriesen sei Dein Name, o Herr mein Gott! Ich bin Dein Diener, der das Seil Deines zarten Erbarmens ergreift und sich an den Saum Deiner Gnadenfülle klammert. Ich flehe Dich an bei Deinem Namen, durch den Du alles Erschaffene, das Sichtbare und das Verborgene, unterworfen hast und durch den Du den Odem, der wahrhaft Leben ist, über die ganze Schöpfung wehen ließest, stärke mich vor aller Krankheit und Trübsal. Ich bezeuge, dass Du der Herr aller Namen bist, der Verordner all dessen, was Dir gefällt. Es gibt keinen Gott außer Dir, dem Allmächtigen, dem Allwissenden, dem Allweisen.
 Bestimme Du für mich, o mein Herr, was mir in jeder Deiner Welten nützt. Versorge mich sodann mit dem, was Du für die Auserwählten Deiner Geschöpfe verzeichnet hast, die nichts abhalten kann, sich Dir zuzuwenden - weder der Vorwurf des Tadlers noch das Geschrei des Ungläubigen noch die Entfremdung derer, die sich von Dir zurückziehen.
@@ -1829,6 +2281,8 @@ In der Macht Deiner höchsten Herrschaft bist Du wahrlich der Helfer in Gefahr. 
 
 (Source category: Schutz)
 (Bahaiprayers.net ID: 613)
+
+
 
 
 ### <a id="bpn614"></a> Prayer bpn614 in Deutsch
@@ -1841,6 +2295,8 @@ Es gibt keinen Gott außer Dir, dem Allherrlichen, dem Großen Geber, dem Verzei
 (Bahaiprayers.net ID: 614)
 
 
+
+
 ### <a id="bpn615"></a> Prayer bpn615 in Deutsch
 Gelobt sei Dein Name, o Herr mein Gott! Finsternis hat sich auf alle Länder gesenkt, die Kräfte des Unheils umfangen alle Völker. Und doch erkenne ich darin Deiner Weisheit Glanz und Deiner Vorsehung strahlendes Licht.
 Die wie durch einen Schleier von Dir getrennt sind, wähnen, sie hätten die Macht, Dein Licht zu löschen, Dein Feuer zu ersticken und die Winde Deiner Gnade zum Schweigen zu bringen. Nein, Deine Macht bezeugt es mir! Wäre nicht jede Drangsal zum Träger Deiner Weisheit, jede Feuerprobe zum Werkzeug Deiner Vorsehung gemacht, niemand wagte es, sich uns zu widersetzen, selbst wenn die Mächte der Erde und des Himmels sich wider uns verbündeten. Wollte ich die wundersamen Geheimnisse Deiner Weisheit enthüllen, die offen vor mir liegen, die Zügel Deiner Feinde würden zerreißen.
@@ -1849,6 +2305,8 @@ Mächtig bist Du zu tun, was Dir gefällt. Du bist wahrlich der Helfer in Gefahr
 
 (Source category: Schutz)
 (Bahaiprayers.net ID: 615)
+
+
 
 
 ### <a id="bpn616"></a> Prayer bpn616 in Deutsch
@@ -1862,6 +2320,8 @@ Du bist wahrlich der Allherrliche, der Großmütigste.
 (Bahaiprayers.net ID: 616)
 
 
+
+
 ### <a id="bpn617"></a> Prayer bpn617 in Deutsch
 Gelobt sei Dein Name, o Herr mein Gott! Du bezeugst, dass Dein Wille über alles Erschaffene herrscht und Deine Barmherzigkeit alle überragt im Himmel und auf Erden. Und als nach Deinem Ratschluss Deine höchste Herrschaft entschleiert, Dein Wort verherrlicht und Deine Großmut und Barmherzigkeit offenbart werden sollte, da ließest Du einen Deiner Diener aufstehen, Du erwähltest Ihn vor allen Geschöpfen, Du sondertest Ihn aus für Deine Absicht, legtest Ihm das Gewand Deiner Führung an, tauchtest Ihn in die Meere Deiner Majestät und Größe, Du heiligtest Ihn von allem, was der Größe Deiner Herrlichkeit und der Gewalt Deiner Macht nicht entspricht und gebotest Ihm, den Ruf zu erheben vor allen im Himmel und auf Erden und die Menschen zuhauf vor die Manifestation Deines Selbstes und den Offenbarer Deiner Zeichen zu laden.
 Doch kaum hatte Er Deine Sache verkündet und sich erhoben, all das zu vollbringen, was Ihm auf den Tafeln Deines Ratschlusses geboten ward, da befiel Deine Geschöpfe der Große Schrecken. Einige wandten sich Dir zu und lösten sich von allem anderen; sie heiligten ihre Seelen von der Welt und allem darin, so hingerissen von Deiner süßen Stimme, dass sie allem entsagten, was Du im Reiche Deiner Schöpfung erschaffen hast. Etliche erkannten Dich und zauderten dann, andere ließen es zu, dass die Welt zwischen sie und Dich trat und sie davon abhielt, Dich anzuerkennen. Und es gab welche, die Dich verschmähten, sich von Dir abwandten und Dich daran hindern wollten, Dein Ziel zu erreichen. Doch siehe: Sie alle rufen Dich an in Erwartung dessen, was ihnen auf Deinen Tafeln verheißen. Und als der Verheißene unter ihnen erschien, erkannten sie Ihn nicht. Sie bezweifelten Deine Zeichen, verwarfen Deine klaren Beweise und irrten so schmerzlich ab von Deinem Pfade, dass sie Deine Diener erschlugen, deren strahlende Gesichter den höchsten Heerscharen die Angesichter erleuchtet hatten.
@@ -1872,12 +2332,16 @@ Verherrlicht sei Gott, der Herr der ganzen Schöpfung.
 (Bahaiprayers.net ID: 617)
 
 
+
+
 ### <a id="bpn656"></a> Prayer bpn656 in Deutsch
 Ruhm sei Dir, o Gott! Du bist der Gott, der vor allem war, der nach allem sein wird und alles überdauert. Du bist der Gott, der alles kennt und über alles erhaben ist. Du bist der Gott, der gnädig ist zu allem, der zwischen allem richtet und Dessen Schau alles umfasst. Du bist Gott, Du bist mein Herr, Du kennst meine Lage und siehst mein inneres wie mein äußeres Sein.
 Vergib mir und den Gläubigen, die auf Deinen Ruf antworten. Sei Du mein allgenügender Helfer vor dem Unheil derer, die Kummer auf mich laden möchten oder mir übel wollen. Wahrlich, Du bist der Herr alles Erschaffenen. Du genügst jedem, doch keiner ist sich selbst genug ohne Dich.
 
 (Source category: Schutz)
 (Bahaiprayers.net ID: 656)
+
+
 
 
 ### <a id="bpn657"></a> Prayer bpn657 in Deutsch
@@ -1890,6 +2354,8 @@ Es gibt weder Macht noch Kraft außer in Gott, dem höchst Erhabenen, dem Mächt
 (Bahaiprayers.net ID: 657)
 
 
+
+
 ### <a id="bpn658"></a> Prayer bpn658 in Deutsch
 O Gott, unser Herr! Beschütze uns durch Deine Gnade vor allem, was Du verabscheust, und gewähre uns, was Deiner würdig ist. Gib uns reichen Anteil an Deiner Gabenfülle und segne uns. Verzeihe uns, was wir getan, wasche unsere Sünden hinweg und vergib uns mit Deiner gnädigen Vorsehung. Wahrlich, Du bist der höchst Erhabene, der Selbstbestehende.
 Deine liebende Vorsehung umschließt alles Erschaffene in den Himmeln und auf Erden, und Deine Vergebung überragt die ganze Schöpfung. Dein ist die unumschränkte Herrschaft; in Deiner Hand sind die Reiche der Schöpfung und der Offenbarung; in Deiner Rechten hältst Du alle erschaffenen Dinge, und das festgesetzte Maß der Vergebung liegt in Deinem Griff. Du vergibst unter Deinen Dienern, wem Du willst. Wahrlich, Du bist der Immervergebende, der Alliebende. Nichts entgeht Deiner Kenntnis, und nichts ist vor Dir verborgen.
@@ -1900,11 +2366,15 @@ Du bist der unumschränkte Herrscher, der mächtig Handelnde, der Erhabene, der 
 (Bahaiprayers.net ID: 658)
 
 
+
+
 ### <a id="bpn498"></a> Prayer bpn498 in Deutsch
 O Gott, mein Gott! Bewahre Deine vertrauten Diener vor den übeln der Selbstsucht und der Leidenschaft. Behüte sie mit dem wachsamen Auge Deiner Gnade vor allem Groll, Hass und Neid. Gewähre ihnen Zuflucht in der uneinnehmbaren Feste Deiner Obhut, schütze sie vor den Pfeilen des Zweifels und mache sie zu Offenbarungen Deiner herrlichen Zeichen. Erleuchte ihr Angesicht mit den glänzenden Strahlen, die von der Morgenröte Deiner göttlichen Einheit ausgehen. Erfreue ihr Herz mit den Versen, die aus Deinem heiligen Königreich offenbart wurden, und stärke ihre Lenden mit Deiner allbeherrschenden Macht aus Deinem Reiche der Herrlichkeit. Du bist der Allgütige, der Beschützer, der Allmächtige, der Gnädige!
 
 (Source category: Schutz)
 (Bahaiprayers.net ID: 498)
+
+
 
 
 ### <a id="bpn499"></a> Prayer bpn499 in Deutsch
@@ -1917,6 +2387,8 @@ Wahrlich, Du bist der Beschützer, der Hüter, der Erhalter, der Genügende, und
 
 
 
+
+
 ## Sieg der Gottessache
 
 ### <a id="bpn618"></a> Prayer bpn618 in Deutsch
@@ -1926,12 +2398,16 @@ Mache Deine Sache siegreich, o mein Herr, und demütige Deine Feinde. Alsdann sc
 (Bahaiprayers.net ID: 618)
 
 
+
+
 ### <a id="bpn619"></a> Prayer bpn619 in Deutsch
 Verherrlicht sei Dein Name, o mein Gott! Da Du mich diese Wahrheit erkennen ließest, flehe ich Dich an, bei Deinem Namen, den kein Pergament ertragen, den kein Herz sich vorstellen und keine Zunge künden kann - einen Namen, der so lange verborgen bleibt, wie Du Dein Wesen verhüllst, und so lange verherrlicht, wie Dein Sein gepriesen wird - entfalte, ehe das gegenwärtige Jahr sich seinem Ende neigt, die Zeichen Deiner unbestrittenen Überlegenheit und Deines Triumphes, damit die ganze Schöpfung durch Deinen Überfluss bereichert und durch den veredelnden Einfluss Deiner erhabenen Allmacht erhoben werde, und damit alle aufstehen, Deine Sache zu fördern.
 Du bist wahrlich der Allmächtige, der Allhöchste, der Allherrliche, der Allunterwerfende, der Allbesitzende.
 
 (Source category: Sieg der Gottessache)
 (Bahaiprayers.net ID: 619)
+
+
 
 
 ### <a id="bpn620"></a> Prayer bpn620 in Deutsch
@@ -1944,6 +2420,8 @@ Mächtig bist Du zu tun, was Dir gefällt. Es gibt keinen Gott außer Dir, dem G
 (Bahaiprayers.net ID: 620)
 
 
+
+
 ### <a id="bpn659"></a> Prayer bpn659 in Deutsch
 O Herr! Lass alle Völker der Erde eintreten in das Paradies Deines Glaubens, so dass kein Geschöpf jenseits der Umfriedung Deines Wohlwollens bleibe.
 Seit unvordenklicher Zeit bist Du mächtig zu tun, was Du willst, und hoch erhaben über das, was Du wünschest.
@@ -1952,12 +2430,16 @@ Seit unvordenklicher Zeit bist Du mächtig zu tun, was Du willst, und hoch erhab
 (Bahaiprayers.net ID: 659)
 
 
+
+
 ### <a id="bpn660"></a> Prayer bpn660 in Deutsch
 O Herr! Gib, dass der Baum Deiner göttlichen Einheit rasch wachse; netze ihn, o Herr, mit den strömenden Wassern Deines Wohlgefallens und lasse ihn vor den Offenbarungen Deiner göttlichen Gewissheit solche Früchte tragen, wie Du sie wünschest, zu Deinem Ruhme, zu Deiner Verherrlichung, zu Deinem Lob und Dank, um Deinen Namen zu preisen, die Einzigkeit Deines Wesens zu rühmen und Dich zu verehren; denn dies alles liegt in Deiner und in keines anderen Hand.
 Groß ist die Seligkeit jener, deren Blut Du erwählt hast, den Baum Deiner Bestätigung zu tränken und so Dein heiliges, unwandelbares Wort zu erhöhen.
 
 (Source category: Sieg der Gottessache)
 (Bahaiprayers.net ID: 660)
+
+
 
 
 ### <a id="bpn661"></a> Prayer bpn661 in Deutsch
@@ -1970,6 +2452,8 @@ O Herr, lass ihre Herzen durch ihre Treue zu Deinem unverletzlichen Glauben stä
 (Bahaiprayers.net ID: 661)
 
 
+
+
 ### <a id="bpn500"></a> Prayer bpn500 in Deutsch
 O Gott, mein Gott! Preis sei Dir, da Du das Feuer göttlicher Liebe im Heiligen Baum auf den Gipfeln des erhabensten Berges entzündet hast: jenem Baum, der „weder des Ostens noch des Westens ist“, und jenes Feuer, das lichterloh brannte, bis seine Flamme die himmlischen Heerscharen erreichte, die das Licht der Führung einfingen und ausriefen: „Wahrlich, wir gewahrten ein Feuer am Hang des Berges Sinai.“
 O Gott, mein Gott! Lass dieses Feuer wachsen Tag für Tag, bis seine Glut die ganze Erde bewegt. O Du mein Herr! Entzünde Deiner Liebe Licht in jedem Herzen, hauche den Geist Deiner Erkenntnis den Menschen in die Seele und weite ihnen die Brust mit den Versen Deiner Einheit. Rufe die ins Leben zurück, die in ihren Gräbern wohnen, warne die Hoffärtigen, lass weltweit Freude auf Erden herrschen, sende Deine kristallklaren Wasser hernieder, und in der Versammlung offenbaren Strahlenglanzes lass den Kelch kreisen, der „gemischt ist an der Kampferquelle“.
@@ -1977,6 +2461,8 @@ Wahrlich, Du bist der Gebende, der Verzeihende, der Ewigschenkende. Wahrlich, Du
 
 (Source category: Sieg der Gottessache)
 (Bahaiprayers.net ID: 500)
+
+
 
 
 ### <a id="bpn501"></a> Prayer bpn501 in Deutsch
@@ -1988,6 +2474,8 @@ Die Herrlichkeit aller Herrlichkeiten ruhe auf denen, die fest und standhaft sin
 
 (Source category: Sieg der Gottessache)
 (Bahaiprayers.net ID: 501)
+
+
 
 
 
@@ -2003,6 +2491,8 @@ Wahrlich, Du bist der Mildtätige, der Vergebende.
 (Bahaiprayers.net ID: 621)
 
 
+
+
 ### <a id="bpn622"></a> Prayer bpn622 in Deutsch
 O Du, Dessen Nähe mein Verlangen, Dessen Gegenwart meine Hoffnung, Dessen Gedenken mein Wunsch, dessen Hof der Herrlichkeit und Dessen Wohnung mein Ziel ist, Dessen Name meine Heilung, Dessen Liebe die Leuchte meines Herzens und dessen Dienst meine tiefste Sehnsucht ist. Ich flehe Dich an bei Deinem Namen, durch den Du allen, die Dich erkennen, die Kraft gibst, sich zu den höchsten Höhen Deiner Erkenntnis emporzuschwingen, und durch den Du die Dich inbrünstig Anbetenden befähigst, in die Bereiche des Hofes Deiner heiligen Gunst aufzusteigen - hilf mir, mein Angesicht Deinem Antlitz zuzuwenden, meine Augen fest auf Dich zu richten und von Deiner Herrlichkeit zu künden.
 Alles außer Dir habe ich vergessen, o mein Herr, und, der Morgenröte Deiner Gnade zugewandt, alles aufgegeben außer Dir, in der Hoffnung, Deinem Hofe näherzukommen. So sieh mich denn hinaufschauen zu dem Thronsitz, der da leuchtet im Strahlenglanz Deines Antlitzes. Sende alsdann auf mich herab, was mich standhaft macht in Deiner Sache, auf dass die Zweifel der Ungläubigen mich nicht hindern, mich Dir zuzuwenden.
@@ -2012,12 +2502,16 @@ Du bist wahrlich der Gott der Macht, der Helfer in Gefahr, der Allherrliche, der
 (Bahaiprayers.net ID: 622)
 
 
+
+
 ### <a id="bpn623"></a> Prayer bpn623 in Deutsch
 Ich verherrliche Deinen Namen, o mein Gott, und sage Dir Dank, o meine Sehnsucht, dass Du mich befähigt hast, Deinen geraden Pfad klar zu erkennen, dass Du Deine Große Verkündigung vor meinen Augen enthülltest und mir halfest, mein Angesicht auf den Morgen Deiner Offenbarung und auf den Springquell Deiner Sache zu richten, während Deine Diener und Dein Volk sich von Dir abkehrten. Ich flehe Dich an, o Herr im Reiche der Ewigkeit, bei dem durchdringenden Ton der Allherrlichen Feder, bei dem Brennenden Feuer, das laut aus dem grünenden Baume ruft, und bei der Arche, die du eigens dem Volke Bahás bereitest: Lass mich standhaft bleiben in meiner Liebe zu Dir, zufrieden mit allem, was Du mir in Deinem Buche verordnet hast, fest in Deinem Dienst und im Dienst an Deinen Geliebten. Stehe sodann Deinen Dienern gnädig bei, o mein Gott, zu tun, was Deine Sache erhöhen hilft und was sie befähigt, alles zu befolgen, was Du in Deinem Buch offenbart hast.
 Wahrlich, Du bist der Herr der Kraft, Du bist mächtig zu bestimmen, was Du willst, und in Deinem Griff hältst Du die Zügel alles Erschaffenen. Es gibt keinen Gott außer Dir, dem Allmächtigen, dem Allwissenden, dem Allweisen.
 
 (Source category: Standhaftigkeit)
 (Bahaiprayers.net ID: 623)
+
+
 
 
 ### <a id="bpn624"></a> Prayer bpn624 in Deutsch
@@ -2030,12 +2524,16 @@ Du bist fürwahr der Helfer in Gefahr, der Selbstbestehende.
 (Bahaiprayers.net ID: 624)
 
 
+
+
 ### <a id="bpn625"></a> Prayer bpn625 in Deutsch
 Verherrlicht seiest Du, o Herr mein Gott! Ich flehe Dich an bei Ihm, der Dein Größter Name ist, Der tief betrübt wird von solchen Deiner Geschöpfe, die Deine Wahrheit verwerfen, Der von Leiden umzingelt ist, die keine Zunge beschreiben kann - gestatte, dass ich Deiner gedenke und Deinen Lobpreis verkünde in diesen Tagen, da alle sich von Deiner Schönheit abwenden, mit Dir hadern und sich vom Offenbarer Deiner Sache verächtlich abkehren. Niemand, o mein Herr, steht Dir bei außer Deinem eigenen Selbst, und keine Macht kommt Dir zu Hilfe denn Deine eigene.
 Ich bitte Dich, gib mir die Kraft, standhaft an Deiner Liebe und Deinem Gedenken festzuhalten. Dies steht wahrlich in meiner Macht, und Du allein weißt alles, was in mir ist. Du bist wahrhaftig wissend, von allem wohlunterrichtet. Beraube mich nicht, o mein Herr, des Strahlenglanzes Deines Angesichtes, dessen Helle die ganze Welt erleuchtet. Es gibt keinen Gott außer Dir, dem Gewaltigsten, dem Allherrlichen, dem Immervergebenden.
 
 (Source category: Standhaftigkeit)
 (Bahaiprayers.net ID: 625)
+
+
 
 
 ### <a id="bpn626"></a> Prayer bpn626 in Deutsch
@@ -2047,6 +2545,8 @@ Preis sei Dir, der Du der Geliebte aller bist, die Dich erkannt haben!
 (Bahaiprayers.net ID: 626)
 
 
+
+
 ### <a id="bpn627"></a> Prayer bpn627 in Deutsch
 Verherrlicht bist Du, o Herr mein Gott! Ich bete zu Dir bei Ihm, der Morgenröte Deiner Zeichen, der Manifestation Deines Namens, der Schatzkammer Deiner Eingebung und dem Speicher Deiner Weisheit, sende auf Deine Geliebten herab, was sie befähigt, Deiner Sache standhaft anzuhangen, Deine Einheit zu erkennen, Deine Einzigkeit zu bestätigen und Zeugnis abzulegen für Deine Göttlichkeit. Erhebe sie zu solchen Höhen, o mein Gott, dass sie die Zeichen der Macht der Manifestation Deines erhabensten, allherrlichen Selbstes in allen Dingen erkennen.
 Du bist Er, o mein Gott, der tut, was Er will, und bestimmt, was Ihm gefällt. Jeder Mächtige ist hilflos vor den Offenbarungen Deiner Macht, jeder Quell der Ehre ist verloren vor den mannigfachen Beweisen Deiner großen Herrlichkeit.
@@ -2054,6 +2554,8 @@ Ich flehe Dich an, bei dir selbst und bei allem, was von Dir ist, lass mich Dein
 
 (Source category: Standhaftigkeit)
 (Bahaiprayers.net ID: 627)
+
+
 
 
 ### <a id="bpn662"></a> Prayer bpn662 in Deutsch
@@ -2064,11 +2566,15 @@ Wahrlich, Du bist der höchste Herrscher, die unumschränkte Wahrheit, der Helfe
 (Bahaiprayers.net ID: 662)
 
 
+
+
 ### <a id="bpn502"></a> Prayer bpn502 in Deutsch
 O Herr, mein Gott! Stehe Deinen Geliebten bei, in Deinem Glauben fest zu sein, auf Deinen Wegen zu wandeln und in Deiner Sache standhaft zu sein. Schenke ihnen Deine Gnade, dass sie dem Ansturm der Selbstsucht und Leidenschaft widerstehen und dem Lichte göttlicher Führung folgen. Du bist der Gewaltige, der Gnädige, der Selbstbestehende, der Lehensherr, der Mitleidige, der Allmächtige, der Allgütige.
 
 (Source category: Standhaftigkeit)
 (Bahaiprayers.net ID: 502)
+
+
 
 
 ### <a id="bpn503"></a> Prayer bpn503 in Deutsch
@@ -2078,6 +2584,8 @@ Wahrlich, Du bist der Freigebige, der Immervergebende, der Kostbare, der Großm�
 
 (Source category: Standhaftigkeit)
 (Bahaiprayers.net ID: 503)
+
+
 
 
 
@@ -2120,6 +2628,8 @@ Wahrlich, Er ist der Barmherzige, der Mitleidvolle. Preis sei Gott, dem Herrn al
 
 (Source category: Tafel an Ahmad - Lawh-i-Ahmad)
 (Bahaiprayers.net ID: 672)
+
+
 
 
 
@@ -2180,6 +2690,8 @@ Wenn alle Diener es lesen und bedenken, so wird in ihren Adern ein Feuer entfach
 
 (Source category: Tafel vom Feuer - Qas-Ihtaraqa'l-Mukhlisún)
 (Bahaiprayers.net ID: 673)
+
+
 
 
 
@@ -2253,6 +2765,8 @@ Verherrlicht sei unser Herr, der Höchste! Und als sie ihren Zustand schauten un
 
 
 
+
+
 ## Tischgebete
 
 ### <a id="bpn505"></a> Prayer bpn505 in Deutsch
@@ -2262,11 +2776,15 @@ Er ist Gott! Sieh uns, o Herr, an dieser Tafel versammelt, dankbar für Deine Gn
 (Bahaiprayers.net ID: 505)
 
 
+
+
 ### <a id="bpn504"></a> Prayer bpn504 in Deutsch
 Er ist Gott! O Herr, wie sollen wir Dir danken! Grenzenlos ist Deine Großmut, und unsere Dankbarkeit ist nur begrenzt. Wie kann das Begrenzte dem Grenzenlosen Dank erweisen! Unfähig sind wir, Dir Dank zu sagen für Deine Gnadengaben. Völlig machtlos wenden wir uns Deinem Reiche zu und bitten Dich, Deine Gaben und Segnungen zu mehren. Du bist der Geber, der Schenkende, der Gewaltige.
 
 (Source category: Tischgebete)
 (Bahaiprayers.net ID: 504)
+
+
 
 
 
@@ -2279,12 +2797,16 @@ Erschaffe in mir ein reines Herz, o mein Gott, und schenke mir wieder ein ruhige
 (Bahaiprayers.net ID: 628)
 
 
+
+
 ### <a id="bpn629"></a> Prayer bpn629 in Deutsch
 O mein Herr! Lass Deine Schönheit meine Speise sein, Deine Gegenwart mein Trank, Dein Wohlgefallen meine Hoffnung, Dein Lobpreis meine Tat, das Gedenken Deiner mein Gefährte und die Macht Deiner Herrschaft mein Beistand, Deine Wohnung mein Heim, und meine Wohnstatt ein Ort, den Du heiligst über die Grenzen, denen gesetzt, die wie durch einen Schleier von Dir getrennt sind.
 Du bist wahrlich der Allmächtige, der Allherrliche, der Gewaltigste.
 
 (Source category: Tugenden)
 (Bahaiprayers.net ID: 629)
+
+
 
 
 ### <a id="bpn630"></a> Prayer bpn630 in Deutsch
@@ -2295,6 +2817,8 @@ Du hast die Macht zu tun, was Dir gefällt. Du bist wahrlich der Erhabenste, der
 (Bahaiprayers.net ID: 630)
 
 
+
+
 ### <a id="bpn631"></a> Prayer bpn631 in Deutsch
 Verherrlicht sei Dein Name, o mein Gott, durch den die Bäume im Garten Deiner Offenbarung sich mit Grün bekleiden und der Heiligkeit Früchte tragen in dieser Frühlingszeit, da die süßen Düfte Deiner Gnadengaben über alle Dinge wehen und sie hervorbringen lassen, was im Reich Deines unwiderruflichen Befehls und im Himmel Deines unabänderlichen Ratschlusses für sie vorherbestimmt ist. Bei diesem Namen flehe ich Dich an, lasse mich nicht fern bleiben von Deiner Herrlichkeit Hof, noch ausgeschlossen vom erhabenen Heiligtum Deiner Einheit und Einzigkeit.
 Entfache alsdann in meiner Brust, o mein Gott, das Feuer Deiner Liebe, auf dass seine Flamme alles verzehre außer meinem Gedenken an Dich, auf dass jede Spur verderbter Wünsche in mir ausgetilgt werde und nichts verbleibe als die Verherrlichung Deines allesüberschreitenden, allherrlichen Wesens. Dies ist mein höchstes Verlangen, mein glühender Wunsch, o Du, der Du über alles herrschest und in Dessen Hand das Reich der ganzen Schöpfung liegt. Du tust fürwahr, was Dir gefällt. Es gibt keinen Gott außer Dir, dem Allherrlichen, dem Immervergebenden.
@@ -2303,11 +2827,15 @@ Entfache alsdann in meiner Brust, o mein Gott, das Feuer Deiner Liebe, auf dass 
 (Bahaiprayers.net ID: 631)
 
 
+
+
 ### <a id="bpn632"></a> Prayer bpn632 in Deutsch
 Sprich: O Gott, mein Gott! Schmücke mein Haupt mit der Krone des Rechts und meinen Tempel mit der Zier der Treue. Wahrlich, Du bist der Besitzer aller Gnadengaben.
 
 (Source category: Tugenden)
 (Bahaiprayers.net ID: 632)
+
+
 
 
 ### <a id="bpn633"></a> Prayer bpn633 in Deutsch
@@ -2318,12 +2846,16 @@ Bewahre ihn auch, o mein Gott, durch die Macht Deiner unermesslichen Majestät v
 (Bahaiprayers.net ID: 633)
 
 
+
+
 ### <a id="bpn634"></a> Prayer bpn634 in Deutsch
 O mein Gott, Du Gott der Gnadenfülle und des Erbarmens! Du bist der König, durch dessen Befehl die ganze Schöpfung ins Dasein gerufen ist. Du bist der Allgroßmütige, den die Taten Seiner Diener niemals davon abhalten, Seine Gnade kundzutun und Seine Freigebigkeit zu offenbaren.
 Ich flehe Dich an, gestatte diesem Diener zu erreichen, was ihn in jeder Deiner Welten der Erlösung teilhaftig macht. Du bist wahrlich der Allmächtige, der Gewaltigste, der Allwissende, der Allweise.
 
 (Source category: Tugenden)
 (Bahaiprayers.net ID: 634)
+
+
 
 
 ### <a id="bpn635"></a> Prayer bpn635 in Deutsch
@@ -2335,6 +2867,8 @@ Es gibt keinen Gott außer Dir, dem Vergebenden, dem Liebenden.
 (Bahaiprayers.net ID: 635)
 
 
+
+
 ### <a id="bpn508"></a> Prayer bpn508 in Deutsch
 O Gott, mein Gott! Du bist meine Hoffnung und mein Geliebter, mein höchstes Ziel und mein Verlangen! In tiefer Demut und völliger Hingabe bitte ich Dich, mache mich zum Minarett Deiner Liebe in Deinem Lande, zur Leuchte Deines Wissens unter Deinen Geschöpfen und zu einem Banner göttlicher Großmut in Deinem Reiche.
 Zähle mich zu solchen Deiner Diener, die von allem losgelöst sind außer Dir, die geheiligt sind von den vergänglichen Dingen dieser Welt, gefeit gegen die Einflüsterungen der Vertreter eitlen Wahns.
@@ -2343,6 +2877,8 @@ Du bist wahrhaftig der Allmächtige, der Allherrliche, der Allgewaltige.
 
 (Source category: Tugenden)
 (Bahaiprayers.net ID: 508)
+
+
 
 
 
@@ -2360,6 +2896,8 @@ Du bist fürwahr der Allmächtige, der Vergebende, der Mitleidige.
 (Bahaiprayers.net ID: 636)
 
 
+
+
 ### <a id="bpn637"></a> Prayer bpn637 in Deutsch
 Gepriesen sei Dein Name, o Du, der Du alles siehst und selbst allem verborgen bist! Aus allen Landen hörest Du das Wehklagen derer, die Dich lieben, und aus jeder Richtung vernimmst Du den Jammer jener, die Deine höchste Herrschaft anerkennen. Würden ihre Unterdrücker gefragt: „Warum unterdrückt ihr sie und haltet sie in Baghdád und andernorts gefangen? Welches Unrecht haben sie begangen? Wen haben sie verraten, wessen Blut vergossen und wessen Eigentum geplündert?“, so wüssten sie keine Antwort.
 Du bist dessen wohl gewahr, o mein Gott, dass ihr einziges Verbrechen ist, Dich zu lieben. Darum haben ihre Unterdrücker Hand an sie gelegt und sie in alle Winde zerstreut. Wenn ich auch weiß, o mein Gott, dass Du auf Deine Diener nur herabsendest, was ihnen zum Vorteil gereicht, so flehe ich Dich gleichwohl an, bei Deinem Namen, der allen Dingen Schutz gewährt, lass zum Zeichen Deiner Gnade und zum Beweis Deiner Macht diejenigen erstehen, die sie vor ihren Feinden bewahren.
@@ -2367,6 +2905,8 @@ Mächtig bist Du zu tun, was Dir gefällt. Du bist fürwahr der Höchste Herrsch
 
 (Source category: Verfolgungen)
 (Bahaiprayers.net ID: 637)
+
+
 
 
 ### <a id="bpn509"></a> Prayer bpn509 in Deutsch
@@ -2384,6 +2924,8 @@ Wahrlich, Du bist der Gabenreiche, der Mächtige, der Allgewaltige, der Unbeding
 
 
 
+
+
 ## Versammlungen
 
 ### <a id="bpn510"></a> Prayer bpn510 in Deutsch
@@ -2393,12 +2935,16 @@ O Herr! Bestätige diese Versammlung und stehe ihr bei. Bestätige diese Seelen 
 (Bahaiprayers.net ID: 510)
 
 
+
+
 ### <a id="bpn511"></a> Prayer bpn511 in Deutsch
 O Du Mitleidvoller, Du Allmächtiger! Die hier versammelten Seelen wenden ihr Angesicht in Anbetung zu Dir. In tiefster Demut und Ergebenheit schauen sie auf Dein Reich und bitten Dich um Vergebung und Verzeihung. O Gott! Sei dieser Versammlung zugetan. Heilige diese Seelen und wirf die Strahlen Deiner Führung auf sie. Erleuchte ihre Herzen, erfreue ihren Geist mit Deiner frohen Botschaft. Heiße sie alle in Deinem heiligen Reiche willkommen, verleihe ihnen Deine unerschöpflichen Gnadengaben und mache sie glücklich in dieser und der zukünftigen Welt.
 O Gott! Wir sind schwach; gib uns Kraft. Wir sind arm; beschenke uns mit Deinen unendlichen Schätzen. Krank sind wir, gewähre uns Deine göttliche Heilung. Wir sind ohnmächtig, gib uns Deine himmlische Kraft. O Herr! Lass uns von Nutzen sein in dieser Welt; befreie uns aus dem Zustand der Selbstsucht und Begierde. O Herr! Lass uns Brüder in Deiner Liebe werden und alle Deine Kinder lieben. Bestätige uns im Dienst an der Menschenwelt, so dass wir die Diener Deiner Diener werden, alle Deine Geschöpfe lieben und Mitleid empfinden für Dein ganzes Volk. O Herr! Du bist der Allmächtige! Du bist der Barmherzige! Du bist der Vergeber! Du bist der Allmachtvolle!
 
 (Source category: Versammlungen)
 (Bahaiprayers.net ID: 511)
+
+
 
 
 ### <a id="bpn512"></a> Prayer bpn512 in Deutsch
@@ -2411,12 +2957,16 @@ O Gott! Begnade uns mit Deiner Vorsehung. Du bist der Gewaltige. Du bist der Geb
 (Bahaiprayers.net ID: 512)
 
 
+
+
 ### <a id="bpn513"></a> Prayer bpn513 in Deutsch
 O göttliche Vorsehung! Diese Versammlung Deiner Freunde ist von Deiner Schönheit angezogen und vom Feuer Deiner Liebe entflammt. Mache aus diesen Seelen himmlische Engel, erwecke sie zu neuem Leben durch den Odem Deines Heiligen Geistes, verleihe ihnen beredte Kraft und barmherzige Empfindsamkeit. Mache sie zu Wegbereitern für die Einheit des Menschengeschlechts, zur Wirkkraft für Liebe und Eintracht in der Menschenwelt, so dass die gefährliche Finsternis dummer Vorurteile durch der Wahrheit Sonnenlicht gebannt und diese düstere Welt erleuchtet werde, dass dies stoffliche Reich die Strahlen der Geisteswelt aufnehme, der Farben Vielfalt zu einer Farbe verschmelze und das Loblied sich erhebe im Königreich Deiner Heiligkeit.
 Wahrlich, Du bist der Allmächtige, der Allgewaltige!
 
 (Source category: Versammlungen)
 (Bahaiprayers.net ID: 513)
+
+
 
 
 ### <a id="bpn514"></a> Prayer bpn514 in Deutsch
@@ -2428,11 +2978,15 @@ Du bist mächtig. Du bist gewaltig. Du bist der Geber und Du bist der Ewig-Freig
 (Bahaiprayers.net ID: 514)
 
 
+
+
 ### <a id="bpn515"></a> Prayer bpn515 in Deutsch
 O Gott! Banne alles, was zu Zwietracht führt, und bereite uns, was Einheit und Einigkeit fördert. O Gott! Lasse himmlische Düfte über uns wehen und verwandle dieses Treffen in eine himmlische Versammlung. Gewähre uns jegliche Wohltat und jegliche Speise. Gib uns die Speise der Liebe! Gib uns die Speise der Erkenntnis! Bereite uns das Mahl himmlischer Erleuchtung!
 
 (Source category: Versammlungen)
 (Bahaiprayers.net ID: 515)
+
+
 
 
 ### <a id="bpn516"></a> Prayer bpn516 in Deutsch
@@ -2447,6 +3001,8 @@ Du bist der Gewaltige, der Allmächtige, der Barmherzige; Du bist der Freigebige
 
 
 
+
+
 ## Verstorbene
 
 ### <a id="bpn558"></a> Prayer bpn558 in Deutsch
@@ -2456,11 +3012,15 @@ Gib, o mein Herr, dass die zu Dir Emporgestiegenen Zuflucht finden bei Ihm, dem 
 (Bahaiprayers.net ID: 558)
 
 
+
+
 ### <a id="bpn559"></a> Prayer bpn559 in Deutsch
 Sprich: O Gott, mein Gott! Du hast mir ein Pfand anvertraut, und nach Deines Willens Wohlgefallen hast Du es nun zu Dir zurückgerufen. Es steht mir, Deiner Magd, nicht zu, zu fragen, weshalb mich solches traf oder wozu es geschah, denn Du wirst verherrlicht in all Deinen Taten, und Dir muss gehorcht werden in Deinem Ratschluss. Deine Magd, o mein Herr, hat ihre Hoffnungen auf Deine Gnade und Großmut gesetzt. Lass sie erreichen, was sie Dir nahe bringt, und was ihr in jeder Deiner Welten zuträglich ist. Du bist der Vergebende, der Allgütige. Es gibt keinen Gott außer Dir, dem Verordner, dem Altehrwürdigen der Tage.
 
 (Source category: Verstorbene)
 (Bahaiprayers.net ID: 559)
+
+
 
 
 ### <a id="bpn560"></a> Prayer bpn560 in Deutsch
@@ -2470,6 +3030,8 @@ Verherrlicht, unermesslich verherrlicht bist Du! Du wirst angebetet in Deiner Wa
 
 (Source category: Verstorbene)
 (Bahaiprayers.net ID: 560)
+
+
 
 
 ### <a id="bpn561"></a> Prayer bpn561 in Deutsch
@@ -2487,6 +3049,8 @@ Es gibt keinen Gott außer Dir, dem Einen, dem Einzigen, dem Mächtigen, dem All
 
 (Source category: Verstorbene)
 (Bahaiprayers.net ID: 561)
+
+
 
 
 ### <a id="bpn557"></a> Prayer bpn557 in Deutsch
@@ -2509,6 +3073,8 @@ Wahrlich, wir alle sind geduldig in Gott.
 (Bahaiprayers.net ID: 557)
 
 
+
+
 ### <a id="bpn465"></a> Prayer bpn465 in Deutsch
 O mein Gott! Du Vergeber der Sünden, Verleiher der Gaben, Verbanner der Not!
 Wahrlich, ich flehe Dich an, vergib die Sünden derer, die das irdische Gewand abgelegt haben und zur geistigen Welt aufgestiegen sind.
@@ -2518,6 +3084,8 @@ O mein Herr! Mache sie rein von Fehlern, vertreibe ihre Sorgen und wandle ihre F
 (Bahaiprayers.net ID: 465)
 
 
+
+
 ### <a id="bpn466"></a> Prayer bpn466 in Deutsch
 O mein Gott! O mein Gott! Wahrlich, Dein Diener, der demütig vor der Majestät Deiner höchsten, göttlichen Gewalt und bescheiden am Tor Deiner Einzigartigkeit steht, hat an Dich und Deine Verse geglaubt. Er hat für Dein Wort gezeugt und war entflammt vom Feuer Deiner Liebe. Tief war er in das Meer Deiner Erkenntnis eingetaucht und angezogen von Deinem Windhauch. Auf Dich hat er sich verlassen, Dir sein Angesicht zugewandt und Dir seine Gebete dargebracht, Deiner Vergebung und Verzeihung gewiss. Nun hat er dieses vergängliche Leben verlassen und sich emporgeschwungen in der Unsterblichkeit Reich, voll Sehnsucht nach der Gnade, Dir zu begegnen.
 O Herr, verherrliche seine Stufe, herberge ihn unter dem Thronzelt Deines höchsten Erbarmens, gewähre ihm Einlass in Dein herrliches Paradies und lass ihn immerdar leben in Deinem erhabenen Rosengarten, eingetaucht in die Welt der Mysterien wie in ein Lichtermeer.
@@ -2525,6 +3093,9 @@ Wahrlich, Du bist der Freigebige, der Gewaltige, der Vergebende und der Schenken
 
 (Source category: Verstorbene)
 (Bahaiprayers.net ID: 466)
+
+
+
 
 
 

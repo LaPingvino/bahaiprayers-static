@@ -3,6 +3,76 @@ title = "Vanuatu"
 tags = ['lang=bi', 'prayerbook']
 +++
 
+
+
+[19  DEI  FEAST](#19  DEI  FEAST)
+
+[ASKEM  GOD  BLONG  FOGIVIM  YUMI](#ASKEM  GOD  BLONG  FOGIVIM  YUMI)
+
+[ASKEM  HELP](#ASKEM  HELP)
+
+[DED  MAN  MO  WOMAN](#DED  MAN  MO  WOMAN)
+
+[FAND](#FAND)
+
+[FASTING](#FASTING)
+
+[HASBAN](#HASBAN)
+
+[HOLEM  STRONG  LONG  BILIF](#HOLEM  STRONG  LONG  BILIF)
+
+[LONGFALA  OBLIGATORI  PREA](#LONGFALA  OBLIGATORI  PREA)
+
+[MAMA  WE  I  GAT  BEL](#MAMA  WE  I  GAT  BEL)
+
+[MARED](#MARED)
+
+[MEDEL SAES OBLIGATORI PREA](#MEDEL SAES OBLIGATORI PREA)
+
+[MITING](#MITING)
+
+[MONING](#MONING)
+
+[NAET](#NAET)
+
+[OLGETA  PIPOL  LONG  WOL](#OLGETA  PIPOL  LONG  WOL)
+
+[PAEONIA](#PAEONIA)
+
+[PIKININI  MO  YANGFALA](#PIKININI  MO  YANGFALA)
+
+[PREISEM  MO  TALEM  TANGKYU LONG  GOD](#PREISEM  MO  TALEM  TANGKYU LONG  GOD)
+
+[PREISEM  PAOA  BLONG  GOD](#PREISEM  PAOA  BLONG  GOD)
+
+[PROTEKSEN](#PROTEKSEN)
+
+[SAM  NARAFALA  PREA](#SAM  NARAFALA  PREA)
+
+[SOTFALA  OBLIGATORI  PREA](#SOTFALA  OBLIGATORI  PREA)
+
+[SPIRITUL  ASEMBLI](#SPIRITUL  ASEMBLI)
+
+[STAP  KLOSAP  LONG  GOD](#STAP  KLOSAP  LONG  GOD)
+
+[TEKEMAOT  OL  TRABOL](#TEKEMAOT  OL  TRABOL)
+
+[TEKEMAOT  SIK](#TEKEMAOT  SIK)
+
+[TIJING](#TIJING)
+
+[TOKTOK BLONG BAHÁʼU’LLÁH I GO LONG AHMAD](#TOKTOK BLONG BAHÁʼU’LLÁH I GO LONG AHMAD)
+
+[VISITIM  SHRINE  BLONG  ‘ABDU’L-BAHÁ](#VISITIM  SHRINE  BLONG  ‘ABDU’L-BAHÁ)
+
+[VISITIM  SHRINE  BLONG BÁB  MO  BAHÁʼU’LLÁH](#VISITIM  SHRINE  BLONG BÁB  MO  BAHÁʼU’LLÁH)
+
+[WOMAN](#WOMAN)
+
+[YUNITI](#YUNITI)
+
+
+
 ## 19  DEI  FEAST
 
 ### <a id="bpn4952"></a> Prayer bpn4952 in Vanuatu
@@ -10,6 +80,8 @@ O God! Tekemaot ol samting we i mekem se mifala i faet. Mekem redi blong mifala 
 
 (Source category: 19  DEI  FEAST)
 (Bahaiprayers.net ID: 4952)
+
+
 
 
 
@@ -23,11 +95,15 @@ Yu Yu helpem mifala oltaem long taem blong trabol, mo Yu Yu save stap oltaem Yu 
 (Bahaiprayers.net ID: 4940)
 
 
+
+
 ### <a id="bpn4939"></a> Prayer bpn4939 in Vanuatu
 O Masta we Yu fogivim ol man oltaem! Yu Yu olsem wan sef ples we ol wokman blong Yu oli save haed long hem. Yu Yu save gud long olgeta tingting we mifala i stap haedem long hart blong mifala. Yu Yu save evri samting. Mifala i no gat paoa, be Yu nomo Yu gat bigfala paoa.  Mifala evriwan i fulap long ol sin, be Yu Yu fogivim ol sin mo Yu Yu sori long mifala oltaem.  O Masta, plis Yu no lukluk long ol mestek blong mifala.  Plis yu jajem mifala folem lav mo blesing blong Yu.  Ol mestek blong mifala i plante tumas, be bigfala solwora blong fogivnes blong yu i no gat en blong hem.  Mifala i no strong nating, be ol saen blong help blong Yu i klia tumas.   From hemia, plis Yu save sapotem mo givim paoa long mifala.  Plis Yu helpem mifala blong wokem olgeta aksen we i stret wetem Tabu Ples blong Yu.   Plis Yu laetemap hart blong mifala.  Plis Yu helpem mifala blong lukluk long wan klia fasin, mo blong harem gud ol toktok.  Plis Yu givim laef bakagen long ol ded man, mo plis Yu tekemaot ol sik blong ol sik man.  Plis Yu givim ol rijis long ol poa man, mo Yu helpem olgeta we oli fraet blong oli save stap sef mo kwaet.  Plis Yu letem mifala i kam insaed long kingdom blong Yu mo plis Yu laetemap mo soemaot stret rod long mifala.  Yu Yu hae tumas mo Yu Yu gat evri paoa.  Yu Yu givim ol gudfala samting long mifala oltaem. Yu Yu sori long mifala oltaem. Yu Yu kaen tumas.
 
 (Source category: ASKEM  GOD  BLONG  FOGIVIM  YUMI)
 (Bahaiprayers.net ID: 4939)
+
+
 
 
 
@@ -39,6 +115,8 @@ I tru se Yu Yu King blong olgeta pipol.  I no gat wan narafala God be Yu nomo. Y
 
 (Source category: ASKEM  HELP)
 (Bahaiprayers.net ID: 4928)
+
+
 
 
 
@@ -72,12 +150,16 @@ I tru se yumi evriwan i stap weit long wanem God i wantem (19 taem)
 (Bahaiprayers.net ID: 4926)
 
 
+
+
 ### <a id="bpn4927"></a> Prayer bpn4927 in Vanuatu
 O God blong mi! Yu Yu fogivim ol sin! Yu Yu givim ol presen! Yu Yu tekemaot ol trabol!
 Mi askem Yu blong fogivim ol sin blong olgeta man we oli bin lego long bodi blong olgeta blong go long wol blong spirit. O God blong mi! Mekem se olgeta oli sakem ol rabis fasin blong olgeta.  Tekemaot ol trabol long hart blong olgeta.  Jenisim daknes blong olgeta i kam laet. Mekem se olgeta i go insaed long garen blong glad filing. Klinim olgeta wetem wora we i klin tu mas. Mo letem olgeta i save lukim ol gud samting blong Yu we oli stap long big fala hil we i hae tu mas.
 
 (Source category: DED  MAN  MO  WOMAN)
 (Bahaiprayers.net ID: 4927)
+
+
 
 
 
@@ -96,6 +178,8 @@ I tru se Yu Yu givim laef long evri samting, Yu Yu helpem mifala, Yu Yu seraot o
 
 
 
+
+
 ## FASTING
 
 ### <a id="bpn4945"></a> Prayer bpn4945 in Vanuatu
@@ -108,11 +192,15 @@ I no gat narafala God be Yu. Yu Yu wan nomo. Yu Yu save evri samting. Yu Yu waes
 (Bahaiprayers.net ID: 4945)
 
 
+
+
 ### <a id="bpn4946"></a> Prayer bpn4946 in Vanuatu
 Ol preis i go long Yu, O God mo God blong mi! Hemia i ol dei we Yu bin askem long olgeta we Yu bin jusum, olgeta we Yu lavem, mo ol wokman blong Yu, blong oli holem Fast.  Yu bin mekem se Fast i olsem wan laet long ol pipol blong kingdom blong Yu, long sem fasin we Yu bin mekem se obligatori prea i wan lada we i leftemap olgeta we oli luksave long yuniti blong Yu. Tufala ia i tufala stamba post we Yu makem i givim olsem glori mo ona long olgeta pipol long wol.  Mi plis long Yu, tru long tufala stamba post ia, blong mekem se rilijin blong Yu i stap sef long ol trabol we i kamaot long olgeta we oli folem ol rabis fasin, mo i kamaot long olgeta rabis man we oli stap wok agensem Yu.  O Lod, plis yu no haedem laet we Yu bin rivilim tru strong paoa blong Yu mo ol paoa blong Yu we i kavremap evri samting.  Mo wetem ol armi we mifala i save lukim mo ol armi we mifala i no save lukim, plis Yu save helpem olgeta we oli gat tru bilif long Yu, tru long komand blong Yu mo paoa blong Yu we i antap long evri samting.  I no gat narafala God be Yu, Yu we Yu gat Evri Paoa mo Yu we Yu Strong Tumas.
 
 (Source category: FASTING)
 (Bahaiprayers.net ID: 4946)
+
+
 
 
 ### <a id="bpn4947"></a> Prayer bpn4947 in Vanuatu
@@ -122,6 +210,8 @@ Long Nem blong Hem we olgeta Buk blong God i bin promisim, Hem we i save Evri Sa
 (Bahaiprayers.net ID: 4947)
 
 
+
+
 ### <a id="bpn4948"></a> Prayer bpn4948 in Vanuatu
 Ol preis i go long Yu, O Lod mo God blong mi!  Mifala i bin holem Fast folem wanem Yu bin talem, mo mifala i stap brekem Fast ia naoia from lav blong Yu mo blong Yu glad long mifala.  O God blong mi!  Plis Yu save akseptem ol aksen we mifala i bin wokim long rod blong Yu from we mifala i lavem beauty blong Yu, wetem fes blong mifala i tan i go long Fet blong Yu, mo mifala i lego long evri samting be Yu Wan nomo. Folem hemia, plis Yu save givim fogivnes blong Yu long mifala, long ol abu blong mifala, mo long olgeta we i bin biliv long Yu mo long ol bigfala saen blong yu long tisfala Revelesen we i gat bigfala glori.  Yu Yu gat paoa blong mekem evri samting we Yu wantem.  I tru se Yu Yu Hem we i Hae Tumas, Hem we i Gat Evri Paoa, mo Hem we i Fri long Evri Samting.
 
@@ -129,11 +219,15 @@ Ol preis i go long Yu, O Lod mo God blong mi!  Mifala i bin holem Fast folem wan
 (Bahaiprayers.net ID: 4948)
 
 
+
+
 ### <a id="bpn4949"></a> Prayer bpn4949 in Vanuatu
 O God blong mi mo Masta blong mi!  Yu  lukim se mi mi stap long medel long olgeta we yu krietem we oli i bin go agensem Yu mo oli no folem wanem Yu talem.  Evri taem we mi invaetem olgeta blong oli go insaed long bigfala solwora blong save blong Yu, oli kam moa wos long fasin we oli talem se Fet blong Yu i no tru, mo oli kam moa strong long fasin we oli no wantem akseptem Stamba Ples we Wanem Yu Yu Wantem i kamaot long hem.  O God blong mi!  Mi go daon blong askem Yu, O God blong mi, tru long olgeta we oli bin holdem fast from lav blong Yu, mo oli dring long living wota blong godaon long yu aot log han blong ol blesing blong yu, blong yu givim long olgeta we yu lavem, olgeta we anda long faea blong ol test blong Yu oli hang strong long rop blong pateins, olgeta gudfala samting we yu bin raetem long ol Buk mo ol tablet blong Yu. Folem hemia, raetem daon plis, long olgeta we oli safa wetem ol trabol from lav blong Yu, ol riwod we yu givim long olgeta we oli bin martir long rod blong Yu, blong mekem se Yu Yu glad long olgeta. Mo plis Yu sendem long olgeta, Ol Lod, olgeta samting we i save mekem se fulumap hart blong olgeta wetem joy, tekemaot ol tabol long ae blong olgeta, mo givim niufala laef long spirit blong olgeta. I tru se Yu Yu gat Bigfala paoa, Yu Yu Hae Tumas, Yu we Yu  helpem ol long Taem blong Trabol, Yu we Yu gat Ol Save, Yu we Yu gat Ol Waes.
 
 (Source category: FASTING)
 (Bahaiprayers.net ID: 4949)
+
+
 
 
 
@@ -150,6 +244,8 @@ I tru se Yu Yu spesal tumas, Yu Yu stap givim ol samting long ol pipol oltaem, m
 
 
 
+
+
 ## HOLEM  STRONG  LONG  BILIF
 
 ### <a id="bpn4935"></a> Prayer bpn4935 in Vanuatu
@@ -163,6 +259,8 @@ O Masta blong evri samting we i gat laef!   O King blong evri samting we mifala 
 
 (Source category: HOLEM  STRONG  LONG  BILIF)
 (Bahaiprayers.net ID: 4935)
+
+
 
 
 
@@ -235,6 +333,8 @@ Mi agri tumas, O God blong mi, wetem tru toktok we olgeta we Yu bin jusum i bin 
 
 
 
+
+
 ## MAMA  WE  I  GAT  BEL
 
 ### <a id="bpn4921"></a> Prayer bpn4921 in Vanuatu
@@ -243,6 +343,8 @@ O God blong mi!  Hem we i stap long bel blong mi, mi givim long Yu.  Plis yu mek
 
 (Source category: MAMA  WE  I  GAT  BEL)
 (Bahaiprayers.net ID: 4921)
+
+
 
 
 
@@ -255,6 +357,8 @@ I tru se Yu Yu holem ol paoa, Yu Yu stap long evri ples, mo Yu Yu naes tu mas.
 
 (Source category: MARED)
 (Bahaiprayers.net ID: 4920)
+
+
 
 
 
@@ -299,6 +403,8 @@ I tru se Yu Yu holem ol paoa, Yu Yu stap long evri ples, mo Yu Yu naes tu mas.
 
 
 
+
+
 ## MITING
 
 ### <a id="bpn4911"></a> Prayer bpn4911 in Vanuatu
@@ -307,6 +413,8 @@ Evri gud samting i kamaot long Yu, mo evri blesing i kamaot long Yu nomo. Yu Yu 
 
 (Source category: MITING)
 (Bahaiprayers.net ID: 4911)
+
+
 
 
 
@@ -319,12 +427,16 @@ Mi jes wekap andanit long strong paoa blong Yu, O God blong mi. Mo from we mi no
 (Bahaiprayers.net ID: 4906)
 
 
+
+
 ### <a id="bpn4907"></a> Prayer bpn4907 in Vanuatu
 O God blong mi! Yu bin letem se mi save gerap long moning ia. Mi bin lego long haos blong mi wetem bigfala trast long Yu, mo mi bin putum mi long han blong Yu. Aot long heven blong sori blong Yu, plis Yu givim long mi wan gudfala samting long saed blong Yu. Mo helpem mi mi stap sef blong kasem bak haos blong mi, long sem fasin we Yu bin letem mi mi go aot long hem anda long proteksen blong Yu, wetem evri tingting blong mi we i stap oltaem long Yu.
 I no gat wan narafala God be Yu. Yu Yu wan. I no gat narafala olsem Yu. Yu Yu save evri samting. Yu Yu waes tumas.
 
 (Source category: MONING)
 (Bahaiprayers.net ID: 4907)
+
+
 
 
 ### <a id="bpn4908"></a> Prayer bpn4908 in Vanuatu
@@ -335,6 +447,8 @@ I tru tu mas se Yu Yu Masta mo King blong olgeta man, mo Yu Yu gat paoa long evr
 
 (Source category: MONING)
 (Bahaiprayers.net ID: 4908)
+
+
 
 
 
@@ -349,6 +463,8 @@ I no gat narafala God be Yu. Yu Yu gat strong paoa, Yu Yu mekem ol samting i go 
 
 
 
+
+
 ## OLGETA  PIPOL  LONG  WOL
 
 ### <a id="bpn4924"></a> Prayer bpn4924 in Vanuatu
@@ -356,6 +472,8 @@ O God!  Mifala i wik tumas.  Plis Yu save mekem se mifala i kam strong.  Mifala 
 
 (Source category: OLGETA  PIPOL  LONG  WOL)
 (Bahaiprayers.net ID: 4924)
+
+
 
 
 
@@ -372,6 +490,8 @@ O God, lukaotem mi blong ol test i no draonem mi.  Yu save gud se mi bin lego ev
 
 
 
+
+
 ## PIKININI  MO  YANGFALA
 
 ### <a id="bpn4912"></a> Prayer bpn4912 in Vanuatu
@@ -382,11 +502,15 @@ Yu Yu holem ol paoa, Yu Yu kaen, Yu Yu givim evri samting, Yu Yu seraot oltaem, 
 (Bahaiprayers.net ID: 4912)
 
 
+
+
 ### <a id="bpn4913"></a> Prayer bpn4913 in Vanuatu
 O God! Trenem ol pikinini ia.  Ol pikinini ia i ol smolsmol tri long plantesen blong Yu, ol flaoa long waet gras blong Yu, mo ol ros long garen blong Yu. Letem ren i fol daon long olgeta. Letem San blong ol Tru Samting i saen long olgeta wetem lav blong Yu. Letem ol smolsmol win we i blo i mekem se olgeta i harem gud, blong oli gat trening, oli gro blong kasem mak blong ol, mo oli kam naes tumas. Yu Yu givim ol samting. Yu Yu gat bigfala sori.
 
 (Source category: PIKININI  MO  YANGFALA)
 (Bahaiprayers.net ID: 4913)
+
+
 
 
 ### <a id="bpn4914"></a> Prayer bpn4914 in Vanuatu
@@ -397,6 +521,8 @@ Yu Yu strong, mo Yu Yu gat fulap paoa.
 (Bahaiprayers.net ID: 4914)
 
 
+
+
 ### <a id="bpn4915"></a> Prayer bpn4915 in Vanuatu
 O God! Go fas taem long mi, blong mi mi folem Yu. Lukaot gud long mi. Mekem laet blong Yu i saen long hart blong mi.  Mo mekem mi mi karem laet olsem wan sta we i stap saen gud.
 Yu Yu strong, mo Yu Yu gat fulap paoa.
@@ -405,12 +531,16 @@ Yu Yu strong, mo Yu Yu gat fulap paoa.
 (Bahaiprayers.net ID: 4915)
 
 
+
+
 ### <a id="bpn4916"></a> Prayer bpn4916 in Vanuatu
 O Masta blong mi!  O Masta blong mi!  Mi wan pikinini we i yang tumas. Plis Yu fidim mi wetem kakae blong sori blong Yu, lanem mi wetem lav blong Yu, givim mi save long skul blong stret rod blong Yu, mo mekem se mi gro bigwan wetem ol gud samting we Yu save givim. Plis Yu tekemaot mi long daknes, mo mekem mi mi kam wan strong laet. Plis Yu mekem se mi kam fri from evri samting we i mekem se mi harem no gud. Plis Yu mekem se mi kam wan flaoa long ros garen blong Yu. Plis Yu helpem mi blong kam wan man blong wok long haos blong Yu, mo mekem se mi folem olgeta fasin olsem ol man we i gud mo stret long saed blong Yu. Plis Yu mekem se mi kam wan gud man blong helpem olgeta pipol long wol. Plis Yu mekem se hart blong mi i stap saen wetem laef blong spirit we i no save finis. 
 I tru tu mas se Yu Yu strong, Yu Yu gat paoa, mo Yu Yu lukim mo harem evri samting.
 
 (Source category: PIKININI  MO  YANGFALA)
 (Bahaiprayers.net ID: 4916)
+
+
 
 
 
@@ -426,6 +556,8 @@ O God we Yu lukaotem mifala oltaem! Yu krieitem evri samting tru long ol blesing
 
 
 
+
+
 ## PREISEM  PAOA  BLONG  GOD
 
 ### <a id="bpn4923"></a> Prayer bpn4923 in Vanuatu
@@ -436,6 +568,8 @@ O God blong mi, God we i givimaot ol samting long yumi mo i gat bigfala sori lon
 
 
 
+
+
 ## PROTEKSEN
 
 ### <a id="bpn4950"></a> Prayer bpn4950 in Vanuatu
@@ -443,6 +577,8 @@ O God!  O God blong mi! Mi bin kamaot long haos blong mi mo mi bin hang strong l
 
 (Source category: PROTEKSEN)
 (Bahaiprayers.net ID: 4950)
+
+
 
 
 
@@ -458,11 +594,15 @@ Soemaot long mifala, O God, se Yu Yu hae tu mas, Yu Yu bin stap oltaem, mo bamba
 (Bahaiprayers.net ID: 4953)
 
 
+
+
 ### <a id="bpn4954"></a> Prayer bpn4954 in Vanuatu
 O God blong mi! Long nem blong Yu we i gat fulap glori, mi askem Yu blong helpem mi blong mekem ol wok blong ol wokman blong Yu i gohed gud. Mo plis Yu helpem mi blong mekem ol bigfala taon blong Yu i stanap strong. I tru se Yu nao Yu gat paoa long evri samting.
 
 (Source category: SAM  NARAFALA  PREA)
 (Bahaiprayers.net ID: 4954)
+
+
 
 
 ### <a id="bpn4955"></a> Prayer bpn4955 in Vanuatu
@@ -473,12 +613,16 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 4955)
 
 
+
+
 ### <a id="bpn4956"></a> Prayer bpn4956 in Vanuatu
 Mi plis long God blong letem laet blong yuniti i go raon long hol wol, mo blong saen “Wol ia i blong God” i save stap long fored long evri pipol blong wol.  
 Bahá’u’lláh
 
 (Source category: SAM  NARAFALA  PREA)
 (Bahaiprayers.net ID: 4956)
+
+
 
 
 ### <a id="bpn4957"></a> Prayer bpn4957 in Vanuatu
@@ -488,11 +632,15 @@ O Masta! Mifala i wik. Mekem mifala i kam strong! O God! Mifala i no gat save. M
 (Bahaiprayers.net ID: 4957)
 
 
+
+
 ### <a id="bpn4958"></a> Prayer bpn4958 in Vanuatu
 Hem i God! Lukluk long mifala, O Masta, we mifala i kam tugeta long tisfala teibol mo mifala i talem tangkyu long ol samting we Yu givim.  Ae blong mifala i stap lukluk long Kingdom blong Yu.   O Masta!  Sendem i kam long mifala ol tabu kakae mo ol blesing blong Yu.  I tru tumas se Yu Yu seraotem ol samting oltaem.   I tru tumas se Yu Yu givim ol blesing oltaem mo Yu Yu gat sori long ol man.
 
 (Source category: SAM  NARAFALA  PREA)
 (Bahaiprayers.net ID: 4958)
+
+
 
 
 ### <a id="bpn4959"></a> Prayer bpn4959 in Vanuatu
@@ -505,11 +653,15 @@ Yu Yu strong tumas, Yu Yu gat fulap lav, mo Yu Yu givim evri samting long ol pip
 (Bahaiprayers.net ID: 4959)
 
 
+
+
 ### <a id="bpn4960"></a> Prayer bpn4960 in Vanuatu
 O God! Mi plis long Yu blong Yu mekem se spirit blong mi i kam niu bakagen mo Yu mekem se hem i hapi. Tekemaot ol doti samting long hart blong mi.  Tijim mi olsem wanem blong mi yusum ol paoa blong mi. Mi livim olgeta wok blong mi long han blong Yu. Yu Yu lida blong mi, mo Yu Yu olsem ples blong haed blong mi long taem blong trabol. Bambae mi nomo karem sori, mo mi nomo tingbaot ol samting we i mekem se mi harem no gud.  Bambae mi glad olsem wan man we i fulap long laef mo i hapi oltaem. O God! Bambae mi nomo karem ol sori long hart blong mi, mo mi no letem trabol i spoilem mi. Bambae mi nomo holem ol rabis fasin blong wol i stap wetem mi. Mi givim laef blong mi long Yu, mo mi stanap strong long Yu, O Masta blong mi.
 
 (Source category: SAM  NARAFALA  PREA)
 (Bahaiprayers.net ID: 4960)
+
+
 
 
 ### <a id="bpn4961"></a> Prayer bpn4961 in Vanuatu
@@ -518,6 +670,8 @@ Yu Yu gat evri samting blong givim, Yu Yu lukaotem gud evri wan, Yu Yu strong, m
 
 (Source category: SAM  NARAFALA  PREA)
 (Bahaiprayers.net ID: 4961)
+
+
 
 
 ### <a id="bpn4962"></a> Prayer bpn4962 in Vanuatu
@@ -529,12 +683,16 @@ Yu Yu holem paoa, Yu Yu kaen tumas, Yu Yu save stap Yu wan nomo, Yu Yu givim ol 
 (Bahaiprayers.net ID: 4962)
 
 
+
+
 ### <a id="bpn4963"></a> Prayer bpn4963 in Vanuatu
 O God! O God! Hemia wan pijin we han blong hem i brok, mo hem i flae i go sloslo. Helpem hem blong hem i save flae antap go kasem ples we hem i sef mo we hem save winim ol gud samting. Letem hem i fri blong flae olbaot wetem glad filing. Helpem hem blong singaot Hae Nem blong Yu long evri ples. Helpem singsing blong hem i mekem se ol sora i glad. Mo mekem se ol ae blong ol man i open big wan, from we oli lukluk ol saen we i soem rod long olgeta.
 O Masta! Mi stap mi wan nomo, mo mi stap daon tumas. I no gat wan samting blong givim sapot long mi be Yu wan nomo. I no gat wan samting blong helpem mi be Yu wan nomo. Mo i no gat wan samting blong givim laef long mi be Yu wan nomo. Mekem se mi stanap strong long wok blong Yu. Helpem mi wetem olgeta enjel blong Yu.  Mekem se mi gat bigfala sakses blong talemaot ol Toktok blong Yu. Mo letem se mi talemaot ol waes tok blong Yu long olgeta we Yu Yu bin mekem. I tru se Yu Yu save helpem olgeta we i no strong nating, mo Yu Yu lukaotem olgeta we i smol. Mo i tru tumas se Yu Yu holem ol paoa, Yu Yu strong, mo i no gat wan narafala samting we i save holem Yu.
 
 (Source category: SAM  NARAFALA  PREA)
 (Bahaiprayers.net ID: 4963)
+
+
 
 
 
@@ -547,6 +705,8 @@ Mi talem stret, O God blong mi, se Yu Yu krieitem mi blong save Yu mo mi wosipim
 
 (Source category: SOTFALA  OBLIGATORI  PREA)
 (Bahaiprayers.net ID: 4902)
+
+
 
 
 
@@ -567,6 +727,8 @@ Yu Yu kaen tumas, Yu Yu gat evri samting, Yu Yu givimaot planti samting, Yu Yu h
 
 
 
+
+
 ## STAP  KLOSAP  LONG  GOD
 
 ### <a id="bpn4944"></a> Prayer bpn4944 in Vanuatu
@@ -575,6 +737,8 @@ O Yu Spirit we Yu klin tumas, Yu we Yu Stap Givimaot Evri Presen, plis Yu lukaot
 
 (Source category: STAP  KLOSAP  LONG  GOD)
 (Bahaiprayers.net ID: 4944)
+
+
 
 
 
@@ -587,11 +751,15 @@ O God blong mi!  Tru long bigfala paoa blong Yu, mi askem mo mi plis strong long
 (Bahaiprayers.net ID: 4917)
 
 
+
+
 ### <a id="bpn4918"></a> Prayer bpn4918 in Vanuatu
 Hu bakegen i save tekemaot ol trabol be God nomo i save? Hemia mi save sua: Yumi mas preisem God! Hem wan nomo i God! Olgeta man oli wok long Hem, mo oli gat laef nomo long toktok blong Hem.
 
 (Source category: TEKEMAOT  OL  TRABOL)
 (Bahaiprayers.net ID: 4918)
+
+
 
 
 
@@ -606,6 +774,8 @@ Yu Yu gat bigfala paoa blong mekem wanem Yu wantem. I no gat wan narafala God be
 (Bahaiprayers.net ID: 4941)
 
 
+
+
 ### <a id="bpn4942"></a> Prayer bpn4942 in Vanuatu
 O God blong mi! Tru long ol nem blong Yu, ol sik blong ol sik man i finis, ol wik pipol i kam strong bakagen, olgeta we oli tosta i kasem wora, olgeta we oli wari oli kasem pis long hart blong olgeta, olgeta we oli lus i faenem rod, olgeta we oli stap daon i kam antap, olgeta we oli poa i kasem ol rijis, olgeta we oli no gat save i kam moa waes,  olgeta we oli stap long daknes i kasem laet, olgeta we oli sori i kasem glad filing, olgeta we oli kolkol i kam klosap long faea, mo olgeta we ol man i fosem olgeta blong stap daon i gerap bakagen.  O God blong mi!   Tru long nem blong Yu, olgeta samting we Yu bin krieitem i kasem laef, mo skae i spred, mo graon i stanap, mo ol klaod i raesap mo i givim ren long graon.  I tru se hemia i wan saen blong ol blesing blong Yu we Yu givim long olgeta we Yu bin krietem.
 From hemia, mi go down mo mi plis strong long Yu blong Yu sendem i kam daon long mifala long tisfala naet, aot long ol klaod blong sori blong Yu, olgeta ren we i save tekemaot ol sik blong tisfala bebe we i joen wetem Yu.  Yu Yu gat bigfala glori long kingdom blong olgeta samting we Yu bin krietem.  Mi askem hemia tru long nem blong Yu we i soemaot se Yu Yu God, mo i leftemap Fet blong Yu antap long evri samting we Yu bin krietem, mo tru long ol wanwan fasin blong Yu we mak blong olgeta i hae tumas, mo tru long olgeta fasin we i preisem hae mak blong Yu.  O God blong mi, tru long ol blesing blong Yu, plis Yu save kavremap hem wetem klos blong gudfala helt.  O Yu we mi lavem Yu tumas, plis Yu save protektem hem long ol trabol mo ol samting we i mekem se hem i harem no gud, mo long olgeta rabis samtimg we Yu no laekem nating.  Paoa blong Yu i inaf blong daonem evri samting.  I tru se Yu Yu gat bigfala paoa, mo Yu Yu save stap Yu wan nomo.  O God blong mi!  Bakagen, plis Yu save sendem long hem olgeta gudfala samting blong wol ia mo blong wol we bambae i kam, mo olgeta gud samting blong bifo mo blong fiuja.  I tru se paoa mo waes blong Yu i inaf blong mekem hemia.
@@ -614,11 +784,15 @@ From hemia, mi go down mo mi plis strong long Yu blong Yu sendem i kam daon long
 (Bahaiprayers.net ID: 4942)
 
 
+
+
 ### <a id="bpn4943"></a> Prayer bpn4943 in Vanuatu
 Nem blong Yu i mekem sik blong mi i gowei, O God blong mi. Mo taem mi tingting long Yu, Yu olsem wan meresin we i save mekem mi mi gud. Mi wantem stap kolosap long Yu oltaem, mo mi wantem lav blong Yu i stap wetem mi oltaem. Bigfala lav blong Yu i save mekem sik bodi blong mi i kam gud, mo i save helpem mi long taem blong trabol long wol ia mo long wol we bambae i kam. I tru tu mas se Yu Yu karem fulap lav, Yu Yu save olgeta samting, mo Yu Yu waes.
 
 (Source category: TEKEMAOT  SIK)
 (Bahaiprayers.net ID: 4943)
+
+
 
 
 
@@ -633,12 +807,16 @@ I tru tumas se Yu Yu gat paoa, Yu Yu strong, mo Yu Yu lukaotem evri samting.  Yu
 (Bahaiprayers.net ID: 4929)
 
 
+
+
 ### <a id="bpn4930"></a> Prayer bpn4930 in Vanuatu
 O God!  Yu save gud mo Yu Yu witnes blong mi se mi gat wan tingting nomo long hart blong mi.  Tingting ia i blong wokem wanem i save mekem se Yu glad long mi, blong kasem save se Yu glad long ol servis blong mi, blong wok had long garen blong yu, mo blong sakrifaesem evri samting blong mi long rod blong Yu.  Yu Yu save evri samting mo Yu Yu lukim evri samting.   From we mi lavem Yu, mi wantem mekem wan samting nomo, mo hemia i blong wokbaot long ol maonten mo ol drae ples blong singaot long wan bigfala voes se Kingdom blong Yu i kam finis, mo blong leftemap singaot blong Yu long medel blong ol man.  O God!  Plis Yu openem rod blong mi, from mi no gat paoa nating.  Plis Yu givim meresin long mi, from we mi no strong nating.   Mo plis yu tekemaot sik blong mi from we mi sik tumas.  Mi go daon long fored blong Yu blong askem hemia wetem wan hart we i laetap mo tufala ae we oli fulap long wora.
 O God!  Plis Yu protektem mi long ol tes. Yu Yu save gud se mi bin tanem bak blong mi long evri samting, mo mi bin kam fri long evri tingting finis.  Mi gat wan wok nomo mo hemia i blong tingbaot Yu nomo.  Mi gat wan gol nomo mo hemia i blong servem Yu nomo.
 
 (Source category: TIJING)
 (Bahaiprayers.net ID: 4930)
+
+
 
 
 ### <a id="bpn4931"></a> Prayer bpn4931 in Vanuatu
@@ -649,6 +827,8 @@ I tru se Yu Yu gat paoa, Yu Yu hae tumas mo Yu Yu strong.
 
 (Source category: TIJING)
 (Bahaiprayers.net ID: 4931)
+
+
 
 
 ### <a id="bpn4932"></a> Prayer bpn4932 in Vanuatu
@@ -662,6 +842,8 @@ I tru tumas se Yu Yu fogivim mifala, Yu Yu gat bigfala paoa, Yu Yu strong tumas,
 (Bahaiprayers.net ID: 4932)
 
 
+
+
 ### <a id="bpn4933"></a> Prayer bpn4933 in Vanuatu
 O God blong Mi! O God blong Mi!  Yu Yu stap lukluk long mi long taem we mi stap daon mo mi no gat paoa.  Be mi stap mekem wan bigfala wok, from we mi tingting strong blong leftemap toktok blong Yu long medel blong evriwan, mo blong spredem ol tijing blong Yu long olgeta pipol blong Yu.  Mi save kasem sakses nomo sipos Yu Yu helpem mi wetem win blong Holi Spirit, sipos Yu Yu helpem mi blong kasem viktri tru long ami blong Kingdom blong Yu we i gat bigfala glori, mo sipos Yu Yu mekem se olgeta help blong Yu i foldaon long mi olsem ren.   Help blong Yu nomo i save jenisim wan moskito i kam wan igel, wan drop wora i kam olsem ol riva mo ol solwora,  mo wan smol pis graon i kam olsem ol san.
 O Masta blong mi!  Plis Yu helpem mi wetem strong paoa blong Yu we i stap win oltaem.  Hemia i blong tang blong mi i save singaotem ol preis mo ol gudfala fasin blong Yu long medel blong ol pipol.   Mo hemia i blong waen blong lav mo save blong Yu i save fulumap spirit blong mi.
@@ -671,12 +853,16 @@ Yu Yu gat bigfala paoa, mo Yu Yu wokim evri samting we Yu wantem.
 (Bahaiprayers.net ID: 4933)
 
 
+
+
 ### <a id="bpn4934"></a> Prayer bpn4934 in Vanuatu
 O God! O God blong mi!  Plis Yu helpem ol wokman blong Yu we Yu trastem olgeta blong oli gat ol hart we i sofsof mo i fulap long lav.  Helpem olgeta blong oli spredem ol laet blong gaedans long ol nesen blong wol.  Ol laet ia i kamaot long Olgeta we i stap long heven.
 I tru se Yu Yu strong, Yu Yu gat paoa, Yu Yu hae tumas, Yu Yu masta blong mifala mo Yu Yu givimaot olgeta samting oltaem.  I tru se Yu Yu stap seraot oltaem, Yu Yu kaen tumas, Yu Yu lavem mifala tumas mo Yu Yu givimaot ol presen long mifala oltaem.
 
 (Source category: TIJING)
 (Bahaiprayers.net ID: 4934)
+
+
 
 
 
@@ -708,6 +894,8 @@ I tru tumas se Hem nao Hem i gat bigfala lav, mo Hem i gat bigfala sori. Yumi ma
 
 
 
+
+
 ## VISITIM  SHRINE  BLONG  ‘ABDU’L-BAHÁ
 
 ### <a id="bpn4965"></a> Prayer bpn4965 in Vanuatu
@@ -728,6 +916,8 @@ Yu Yu givim olgeta gudfala samting, Yu Yu sori long mifala, Yu Yu givim ol blesi
 
 (Source category: VISITIM  SHRINE  BLONG  ‘ABDU’L-BAHÁ)
 (Bahaiprayers.net ID: 4965)
+
+
 
 
 
@@ -752,6 +942,8 @@ O God blong mi! Plis Yu blesem Tri blong Yu, wetem ol lif, ol branis, mo ol smol
 
 
 
+
+
 ## WOMAN
 
 ### <a id="bpn4919"></a> Prayer bpn4919 in Vanuatu
@@ -762,6 +954,8 @@ O Masta blong mi! Mi lavem Yu tumas, mo mi wantem Yu.  Lukaotem mi olsem wan fre
 
 
 
+
+
 ## YUNITI
 
 ### <a id="bpn4937"></a> Prayer bpn4937 in Vanuatu
@@ -769,6 +963,8 @@ O God blong mi! O God blong mi! Joenem i kam wan ples olgeta hart blong ol wokma
 
 (Source category: YUNITI)
 (Bahaiprayers.net ID: 4937)
+
+
 
 
 ### <a id="bpn4938"></a> Prayer bpn4938 in Vanuatu
@@ -783,6 +979,9 @@ Yu Yu gat bigfala paoa, Yu Yu fogivim ol man, mo Yu Yu no lukluk long ol mestek 
 
 (Source category: YUNITI)
 (Bahaiprayers.net ID: 4938)
+
+
+
 
 
 

@@ -3,6 +3,80 @@ title = "Svenska"
 tags = ['lang=sv', 'prayerbook']
 +++
 
+
+
+[Afton](#Afton)
+
+[Andliga egenskaper](#Andliga egenskaper)
+
+[Andligt råd](#Andligt råd)
+
+[Avskiljande](#Avskiljande)
+
+[Barn och ungdom](#Barn och ungdom)
+
+[Begravningsbön](#Begravningsbön)
+
+[Beskydd](#Beskydd)
+
+[Besöksskrifter](#Besöksskrifter)
+
+[Bistånd](#Bistånd)
+
+[Den Långa Helandebönen](#Den Långa Helandebönen)
+
+[Eldskriften](#Eldskriften)
+
+[Enhet](#Enhet)
+
+[Familj](#Familj)
+
+[Fastan](#Fastan)
+
+[Fasthet I Förbundet](#Fasthet I Förbundet)
+
+[Fonden](#Fonden)
+
+[För de bortgångna](#För de bortgångna)
+
+[Förlåtelse](#Förlåtelse)
+
+[Guds dag](#Guds dag)
+
+[Hälsa](#Hälsa)
+
+[Kort obligatorisk bön](#Kort obligatorisk bön)
+
+[Lång obligatorisk bön](#Lång obligatorisk bön)
+
+[Martyrskap](#Martyrskap)
+
+[Medellång obligatorisk bön](#Medellång obligatorisk bön)
+
+[Morgon](#Morgon)
+
+[Mänskligheten](#Mänskligheten)
+
+[Möten](#Möten)
+
+[Naw-Rúz](#Naw-Rúz)
+
+[Prövningar och svårigheter](#Prövningar och svårigheter)
+
+[Renhet](#Renhet)
+
+[Skottdagarna](#Skottdagarna)
+
+[Skriften till Ahmad](#Skriften till Ahmad)
+
+[Tacksägelse](#Tacksägelse)
+
+[Undervisning](#Undervisning)
+
+[Äktenskap](#Äktenskap)
+
+
+
 ## Afton
 
 ### <a id="bpn10265"></a> Prayer bpn10265 in Svenska
@@ -14,6 +88,8 @@ Ingen Gud finns utom Du, den Allsmäktige, den Allbetvingande, den Obundne.
 (Bahaiprayers.net ID: 10265)
 
 
+
+
 ### <a id="bpn10266"></a> Prayer bpn10266 in Svenska
 Hur kan jag välja sömnen, o min Gud, när  de längtandes ögon vakar för att de är skilda från Dig, och hur kan jag gå till vila medan Dina älskades själar pinas svårt i sin avlägsenhet från Din närvaro?
 Jag har anförtrott, o min Gud, min ande och hela mitt väsen i Din makts högra hand och i Ditt beskydd, och jag lägger mitt huvud på kudden genom Din kraft och lyfter det upp i enlighet med Din vilja och Ditt behag. Du är  i sanning Beskyddaren, Bevararen, den Allsmäktige, den Mäktigaste.
@@ -21,6 +97,8 @@ Vid Din makt! Vare sig jag sover eller är vaken, ber jag icke om något annat �
 
 (Source category: Afton)
 (Bahaiprayers.net ID: 10266)
+
+
 
 
 ### <a id="bpn10267"></a> Prayer bpn10267 in Svenska
@@ -33,6 +111,8 @@ Sannerligen, Du är Givaren, den Givmilde, den Barmhärtige, den Förlåtande.
 
 
 
+
+
 ## Andliga egenskaper
 
 ### <a id="bpn10268"></a> Prayer bpn10268 in Svenska
@@ -40,6 +120,8 @@ Skapa i mig ett rent hjärta, o min Gud, och skänk mig åter ett lugnt samvete,
 
 (Source category: Andliga egenskaper)
 (Bahaiprayers.net ID: 10268)
+
+
 
 
 ### <a id="bpn10269"></a> Prayer bpn10269 in Svenska
@@ -52,6 +134,8 @@ Du är i sanning maktens, styrkans och härlighetens Gud.
 (Bahaiprayers.net ID: 10269)
 
 
+
+
 ### <a id="bpn10270"></a> Prayer bpn10270 in Svenska
 Säg: O Gud, min Gud! Pryd mitt huvud  med rättvisans krona och min kropp med rättfärdighetens smycke. Du är sannerligen besittaren av alla gåvor och belöningar.
 
@@ -59,11 +143,15 @@ Säg: O Gud, min Gud! Pryd mitt huvud  med rättvisans krona och min kropp med
 (Bahaiprayers.net ID: 10270)
 
 
+
+
 ### <a id="bpn10271"></a> Prayer bpn10271 in Svenska
 Jag bönfaller Dig, o min Gud, vid Ditt namns upphöjda härlighet, att ikläda Dina älskade rättvisans klädnad och att upplysa deras väsen med trovärdighetens ljus. Du är den som har makt att göra vad Dig behagar och som i sitt grepp håller tyglarna till allt, synligt och osynligt.
 
 (Source category: Andliga egenskaper)
 (Bahaiprayers.net ID: 10271)
+
+
 
 
 ### <a id="bpn10272"></a> Prayer bpn10272 in Svenska
@@ -74,12 +162,16 @@ Tänd då, o min Gud, Din kärleks eld i mitt bröst så att dess flamma må fö
 (Bahaiprayers.net ID: 10272)
 
 
+
+
 ### <a id="bpn10273"></a> Prayer bpn10273 in Svenska
 Ur Din evighets ljuvligt doftande strömmar giv mig att dricka, o min Gud, och gör mig i stånd att smaka frukterna på Ditt väsens träd,  o mitt hopp! Ur Din kärleks kristallklara källor låt mig dricka djupt, o min härlighet, och i skuggan av Din eviga försyn låt mig bida, o mitt ljus! På Din närhets ängar, i Din närvaro, låt mig ströva,  o min älskade, och vid Din nådatrons högra sida låt mig sitta, o min åstundan! Från Din glädjes doftande briser låt en fläkt omsvepa mig, o mitt mål, och till höjderna i Din verklighets paradis giv mig tillträde, o min dyrkade! Gör mig i stånd att höra de ljuva melodierna från Din enhets duva, o Du strålande, och genom Din styrkas och Din makts ande vederkvick mig, o min försörjare!  I Din kärleks anda håll mig orubbligt fast, o min hjälpare, och på Ditt välbehags stig gör mina steg fasta, o min skapare! I Din odödlighets trädgård, i Din åsyn, låt mig bida för evigt, o Du som är barmhärtig mot mig, och på Din härlighets tron upphöj mig, o Du som besitter mig! Till Din givmilda vänskaps himmel lyft mig upp, o min vederkvickare, och till Din lednings Morgonstjärna för mig, o Du min lockelse! Inför Din osynliga andes uppenbarelser bjud mig att närvara, o Du som är mitt ursprung och min högsta önskan, och till det innersta i Din skönhets väldoft, vilken Du skall uppenbara, låt mig vända åter, o Du som är min Gud!
 Mäktig är Du att göra vad Dig behagar. Du är i sanning den mest Upphöjde, den Allhärlige, den Högste.
 
 (Source category: Andliga egenskaper)
 (Bahaiprayers.net ID: 10273)
+
+
 
 
 ### <a id="bpn10274"></a> Prayer bpn10274 in Svenska
@@ -92,12 +184,16 @@ Herre! Vänd mig icke bort från Din rikedoms ocean och Din barmhärtighets himm
 (Bahaiprayers.net ID: 10274)
 
 
+
+
 ### <a id="bpn10275"></a> Prayer bpn10275 in Svenska
 O Gud! Giv min själ glädje och vederkvickelse. Rena mitt hjärta. Genomstråla mina krafter. Jag lägger alla mina angelägenheter i Din hand. Du är min vägvisare och min tillflykt. Jag kommer ej längre att vara sorgsen och bekymrad. Jag kommer att vara en lycklig och glädjefylld människa. O Gud! Jag kommer ej längre att vara fylld av oro, ej heller kommer jag att låta bekymmer plåga mig. Jag kommer ej att uppehålla mig vid livets besvärligheter.
 O Gud! Du är en bättre vän till mig än vad jag är till mig själv. Jag överlämnar mig till Dig,  o Herre!
 
 (Source category: Andliga egenskaper)
 (Bahaiprayers.net ID: 10275)
+
+
 
 
 ### <a id="bpn10276"></a> Prayer bpn10276 in Svenska
@@ -110,6 +206,8 @@ Sannerligen, Du är barmhärtig och sannerligen, Du är den mest Frikostige, var
 (Bahaiprayers.net ID: 10276)
 
 
+
+
 ### <a id="bpn10277"></a> Prayer bpn10277 in Svenska
 O Gud, min Gud. Dessa är Dina svaga tjänare, Dina trofasta arbetare och tjänarinnor, som har bugat sig inför Ditt upphöjda yttrande, ödmjukat sig vid Ditt ljus tröskel och burit vittnesbörd om Din enhet, genom vilken solen har kommit att lysa i sin middagsglans. De har lyssnat till den kallelse Du utfärdade från Ditt dolda rike och med hjärtan skälvande av kärlek och hänryckning har de svarat på Din maning.
 O Herre, utgjut över dem Din barmhärtighets flöden och låt Din nåds vatten regna över dem. Hjälp dem att växa till vackra plantor i himmelens trädgård och låt Dina gåvors bräddfulla moln och Din överflödande nåds  sjöar vattna dem, så att denna trädgård kan blomstra och bevaras evigt grön och praktfull, skön, skimrande och ljus.
@@ -117,6 +215,8 @@ Du är sannerligen den Mäktige, den Upphöjde, den Kraftfulle, Den som allena �
 
 (Source category: Andliga egenskaper)
 (Bahaiprayers.net ID: 10277)
+
+
 
 
 
@@ -130,12 +230,16 @@ O Gud, min Gud! Vi är Dina tjänare som hängivet vänt oss mot Ditt heliga anl
 (Bahaiprayers.net ID: 10370)
 
 
+
+
 ### <a id="bpn10371"></a> Prayer bpn10371 in Svenska
 Församla er i renaste glädje och läs denna bön vid mötets början:
 O Du konungarikets Herre! Fastän våra kroppar är samlade här, är likväl våra hänförda hjärtan upplyfta av Din kärlek och hänryckta av strålarna från Ditt lysande anlete. Fastän svaga, inväntar vi uppenbarandet av Din makt och styrka. Fastän fattiga, i avsaknad av ägodelar och tillgångar, erhåller vi ändå rikedom från Ditt konungarikes skatter. Droppar är vi, likväl får vi näring ur Din oceans djup. Stoftkorn är vi, likväl glänser vi i Din praktfulla sols härlighet. O Du vår försörjare! Sänd oss Din hjälp, så att var och en som samlats här kan bli såsom ett tänt ljus, var och en som en magnet och var och en av oss en åkallare av Dina himmelska riken, så att vi slutligen gör denna jordiska värld till en spegelbild av Ditt paradis.
 
 (Source category: Andligt råd)
 (Bahaiprayers.net ID: 10371)
+
+
 
 
 ### <a id="bpn10372"></a> Prayer bpn10372 in Svenska
@@ -150,6 +254,8 @@ Sannerligen, Du är den Givmilde, den Barmhärtige! Du är besittaren av stora g
 
 
 
+
+
 ## Avskiljande
 
 ### <a id="bpn10278"></a> Prayer bpn10278 in Svenska
@@ -159,6 +265,8 @@ Du är i sanning världarnas Herre, och Gud för alla som är i himmelen och all
 
 (Source category: Avskiljande)
 (Bahaiprayers.net ID: 10278)
+
+
 
 
 ### <a id="bpn10279"></a> Prayer bpn10279 in Svenska
@@ -172,6 +280,8 @@ Mäktig är Du att göra vad Dig behagar. Du är sannerligen den Allsmäktige, d
 (Bahaiprayers.net ID: 10279)
 
 
+
+
 ### <a id="bpn10280"></a> Prayer bpn10280 in Svenska
 Månget modfällt hjärta, o min Gud, har  satts i brand av Din saks eld och mången slumrande har väckts av Din stämmas ljuvhet. Hur många är icke de främlingar som sökt skydd i skuggan av Din enhets träd, och hur talrika är icke de törstande som längtat efter Ditt levande vattens källa i Dina dagar.
 Välsignad är den som har vänt sig till Dig och skyndat att nå fram till gryningen för Ditt anletes ljus. Välsignad är den som med all sin hängivenhet har vänt sig till Din uppenbarelses gryningsplats och Din ingivelses källa. Välsignad är den som på Din väg har offrat det som Du genom Din givmildhet och ynnest har skänkt honom. Välsignad är den som i smärtfylld längtan efter Dig har avstått från allt utom Dig. Välsignad är den som kunnat glädja sig åt nära gemenskap med Dig och befriat sig från allt utom tillgivenhet till Dig.
@@ -180,6 +290,8 @@ Din makt kan i sanning mäta sig med allt.
 
 (Source category: Avskiljande)
 (Bahaiprayers.net ID: 10280)
+
+
 
 
 ### <a id="bpn10281"></a> Prayer bpn10281 in Svenska
@@ -192,6 +304,8 @@ Du är i sanning den Allsmäktige, den Allhärlige, den Allstarke.
 (Bahaiprayers.net ID: 10281)
 
 
+
+
 ### <a id="bpn10282"></a> Prayer bpn10282 in Svenska
 O Gud, min Gud! Fyll åt mig den bägare som är avskiljandet från allt, och i Din storslagenhets och Dina gåvors mångfald, gläd mig med det vin som är att älska Dig. Befria mig från lidelse och begär, bryt sönder mina bojor till denna lägre värld, drag mig i hänryckning till Ditt överjordiska land och vederkvick mig i skaran av tjänarinnor med Din helighets andedräkt.
 O Herre, gör mitt ansikte ljust med Dina gåvors glans, upplys mina ögon att de må se tecknen på Din allbetvingande makt, låt mitt hjärta glädjas över Din kunskaps härlighet som omfattar allt, gläd min själ med Ditt själsväckande budskap om stor fröjd,  o Du som är Konungen över denna värld och konungariket därovan, o Du herraväldets och maktens Herre, så att jag må sprida Dina tecken och bevis vida omkring och förkunna Din sak och främja Din lära, tjäna Din lag och upphöja Ditt ord.
@@ -199,6 +313,8 @@ Du är i sanning den Starke, den Allgivande, den Fullkomlige, den Allsmäktige.
 
 (Source category: Avskiljande)
 (Bahaiprayers.net ID: 10282)
+
+
 
 
 
@@ -212,11 +328,15 @@ Lovad vare Du, o min mest älskade! Låt de ljuva dofterna från Dina överjordi
 (Bahaiprayers.net ID: 10283)
 
 
+
+
 ### <a id="bpn10284"></a> Prayer bpn10284 in Svenska
 O Gud! Uppfostra dessa barn. Dessa barn är plantor i Din örtagård, blommor på Din äng, rosor i Din trädgård. Låt Ditt regn falla ned över dem. Låt Verklighetens sol lysa över dem med Din kärlek. Låt Din vind uppfriska dem så att de må fostras, växa och utvecklas och uppnå den största skönhet. Du är Givaren. Du är den Medlidsamme.
 
 (Source category: Barn och ungdom)
 (Bahaiprayers.net ID: 10284)
+
+
 
 
 ### <a id="bpn10286"></a> Prayer bpn10286 in Svenska
@@ -226,11 +346,15 @@ O Du oförliknelige Gud! Låt detta spädbarn näras vid Din godhets bröst, vak
 (Bahaiprayers.net ID: 10286)
 
 
+
+
 ### <a id="bpn10287"></a> Prayer bpn10287 in Svenska
 O Gud! Låt detta späda barn födas upp i Din kärleks famn och giv det mjölk från Din försyns bröst. Vårda denna nya planta i Din kärleks rosengård och hjälp den att växa genom Din välgörenhets regn. Gör det till ett barn i Konungariket och led det till Ditt himmelska land. Du är mäktig och god och Du är Förlänaren, den Frikostige, den gränslösa nådens Herre.
 
 (Source category: Barn och ungdom)
 (Bahaiprayers.net ID: 10287)
+
+
 
 
 ### <a id="bpn10288"></a> Prayer bpn10288 in Svenska
@@ -241,12 +365,16 @@ Du är den Ynnestrike, den Alltälskande.
 (Bahaiprayers.net ID: 10288)
 
 
+
+
 ### <a id="bpn10289"></a> Prayer bpn10289 in Svenska
 O Du gode Herre! Jag är ett litet barn,  upphöj mig genom att låta mig inträda i Konungariket. Jag är jordisk, gör mig himmelsk, jag är av denna världen, låt mig tillhöra riket därovan, jag är sorgsen, gör mig glad, jag är världslig, gör mig andlig och hjälp mig att uppvisa Dina oändliga gåvor.
 Du är den Mäktige, den Alltälskande.
 
 (Source category: Barn och ungdom)
 (Bahaiprayers.net ID: 10289)
+
+
 
 
 ### <a id="bpn10290"></a> Prayer bpn10290 in Svenska
@@ -257,12 +385,16 @@ Sannerligen, Du är den Starke, den Mäktige, den Seende, den Hörande!
 (Bahaiprayers.net ID: 10290)
 
 
+
+
 ### <a id="bpn10291"></a> Prayer bpn10291 in Svenska
 O Du fullkomlige Gud! Jag är ett litet barn, giv att Din gåvas famn blir till en kär och behaglig viloplats, låt mig växa och födas upp med Din kärleks mjölk och honung, fostra mig vid Din kunskaps bröst och gör mig ädel och vis redan i min barndom.
 O Du oförliknelige Gud! Gör mig förtrogen med den Osynliges konungarike! Sannerligen, Du är den Mäktige, den Starke!
 
 (Source category: Barn och ungdom)
 (Bahaiprayers.net ID: 10291)
+
+
 
 
 ### <a id="bpn10292"></a> Prayer bpn10292 in Svenska
@@ -272,11 +404,15 @@ O min Gud, o min Gud! Du ser dessa barn. Dessa barn är grenarna på livets trä
 (Bahaiprayers.net ID: 10292)
 
 
+
+
 ### <a id="bpn10293"></a> Prayer bpn10293 in Svenska
 O Herre! Upplys denna unga människa och förläna denna ringa varelse Din ynnest. Begåva henne med kunskap, bevilja henne förnyad kraft varje morgongryning och bevara henne i Ditt värnande beskydd, så att hon må befrias från felsteg och ägna sig åt att tjäna Din sak för att vägleda de vilsegångna, ledsaga de olyckliga, befria de fångna och väcka de försumliga, så att alla må välsignas med hågkomsten och lovprisandet av Dig. Du är den Mäktige och den Starke!
 
 (Source category: Barn och ungdom)
 (Bahaiprayers.net ID: 10293)
+
+
 
 
 ### <a id="bpn10294"></a> Prayer bpn10294 in Svenska
@@ -288,12 +424,16 @@ O Du gode Herre! Bevilja att denna unga människa uppnår det som är de heliga 
 (Bahaiprayers.net ID: 10294)
 
 
+
+
 ### <a id="bpn10285"></a> Prayer bpn10285 in Svenska
 O Gud! Led mig, skydda mig, tänd ljuset i mitt hjärta och gör mig till en strålande stjärna.
 Du är den Mäktige och den Starke.
 
 (Source category: Barn och ungdom)
 (Bahaiprayers.net ID: 10285)
+
+
 
 
 
@@ -320,6 +460,8 @@ Vi är alla i sanning tålmodiga inför Gud.
 
 
 
+
+
 ## Beskydd
 
 ### <a id="bpn10295"></a> Prayer bpn10295 in Svenska
@@ -327,6 +469,8 @@ O Gud, min Gud! Jag har lämnat mitt hem och håller fast vid Din kärleks band,
 
 (Source category: Beskydd)
 (Bahaiprayers.net ID: 10295)
+
+
 
 
 ### <a id="bpn10296"></a> Prayer bpn10296 in Svenska
@@ -338,12 +482,16 @@ Du är i sanning den Allsmäktige,  den mest Upphöjde, den evigt Förlåtande
 (Bahaiprayers.net ID: 10296)
 
 
+
+
 ### <a id="bpn10297"></a> Prayer bpn10297 in Svenska
 Ärad vare Du, o min Gud! Jag ber Dig vid Ditt namn, det mest barmhärtiga, att beskydda Dina tjänare och tjänarinnor då vedermödornas stormar drar fram över dem och Dina mångfaldiga prövningar ansätter dem. Gör dem då i stånd, o min Gud, att söka tillflykt inom Din kärleks och Din uppenbarelses fäste, så att varken Dina motståndare eller illgärningsmännen bland Dina tjänare, som har brutit Ditt förbund och Ditt testamente och på det mest föraktfulla sätt vänt sig bort från Ditt väsens daggryning och Din härlighets Uppenbarare, kan vinna seger över dem.
 De har väntat, o min Gud, vid Din nåds dörr. Upplåt den inför deras ansikten med Dina frikostiga gåvors nycklar. Mäktig är Du att göra vadhelst Du vill och att förordna vad Du önskar. Dessa är, o min Gud, de som har vänt sina ansikten mot Dig och Din boning. Behandla dem då såsom det anstår Din barmhärtighet, som övergår alla världar.
 
 (Source category: Beskydd)
 (Bahaiprayers.net ID: 10297)
+
+
 
 
 ### <a id="bpn10298"></a> Prayer bpn10298 in Svenska
@@ -353,12 +501,16 @@ O Gud, min Gud! Värna Dina betrodda tjänare mot själviskhetens och begärens 
 (Bahaiprayers.net ID: 10298)
 
 
+
+
 ### <a id="bpn10299"></a> Prayer bpn10299 in Svenska
 Han är den Medlidsamme, den Allgivande! O Gud, min Gud! Du ser mig, Du känner mig. Du är min hamn och min tillflykt. Ingen har jag sökt utom Dig och ingen annan skall jag söka. Ingen väg har jag vandrat utom Din kärleks väg och ingen annan skall jag vandra. I förtvivlans mörka natt vänds min blick i hopp och förväntan mot Din gränslösa välviljas morgon, och i gryningens timma blir min modlösa själ vederkvickt och styrkt i hågkomsten av Din skönhet och fullkomlighet. Vemhelst Din barmhärtighets nåd skänker hjälp, vore han blott en droppe, skall bli det gränslösa havet, och den blotta atom som Din kärleksfulla vänskaps flöden bistår, skall lysa som den strålande stjärnan.
 Beskydda under Ditt hägn, o Du renhetens ande, Du som är den allgivande Försörjaren, denne Din trälbundne, hänryckte tjänare. Hjälp honom i denna tillvarons värld att förbli ståndaktig och trogen i Din kärlek, och låt denna vingbrutna fågel finna en tillflykt och ett skydd i Ditt gudomliga näste, som vilar i det himmelska trädet.
 
 (Source category: Beskydd)
 (Bahaiprayers.net ID: 10299)
+
+
 
 
 
@@ -379,6 +531,8 @@ Välsigna, o Herre min Gud, det gudomliga Lotusträdet och dess blad, dess grena
 (Bahaiprayers.net ID: 10362)
 
 
+
+
 ### <a id="bpn10363"></a> Prayer bpn10363 in Svenska
 Denna bön, uppenbarad av ‘Abdu’l-Bahá, läses vid Hans gravhelgedom. Den används även i enskild andakt.
 Vemhelst som läser denna bön med ödmjukhet och innerlighet skänker glädje och fröjd till denne tjänares hjärta; det kommer att vara som om han mötte Honom ansikte mot ansikte.
@@ -394,6 +548,8 @@ Du är Förlänaren, Förbarmaren, den mest Givmilde, den Nåderike, den Barmhä
 
 
 
+
+
 ## Bistånd
 
 ### <a id="bpn10300"></a> Prayer bpn10300 in Svenska
@@ -402,6 +558,8 @@ Du är i sanning alla människors Konung. Det finns ingen Gud utom Du, den evigt
 
 (Source category: Bistånd)
 (Bahaiprayers.net ID: 10300)
+
+
 
 
 ### <a id="bpn10301"></a> Prayer bpn10301 in Svenska
@@ -414,6 +572,8 @@ Det finns ingen Gud jämte Dig, den Allhärlige, den store Givaren, den Förlåt
 (Bahaiprayers.net ID: 10301)
 
 
+
+
 ### <a id="bpn10302"></a> Prayer bpn10302 in Svenska
 Förhärligad vare Du, o Herre min Gud! Du är Han, vars kärleks eld har satt hjärtat i brand hos dem som har erkänt Din enhet och vars anletes prakt har upplyst ansiktena på dem som dragit nära Din förgård. Hur ymnig, o min Gud, är icke strömmen av Din kunskap! Hur sötmefylld, o min älskade, är ej den skada som jag i min kärlek till Dig och för Din saks skull får lida på grund av illdådarnas pilar! Hur välbehagliga är icke de sår som jag på Din stig ådrager mig genom de trolösas svärd för att förkunna Din tro!
 Jag bönfaller Dig, vid Ditt namn, genom vilket Du förvandlar oro till lugn, fruktan till tillförsikt, svaghet till styrka och förnedring till ära, att Du genom Din nåd hjälper mig och Dina tjänare att upphöja Ditt namn, att sprida Ditt budskap och att förkunna Din sak på ett sådant sätt att vi måtte förbli orubbliga, vare sig det är inför överträdarnas angrepp eller inför de trolösas vrede, o Du som är min högst älskade!
@@ -422,6 +582,8 @@ Mäktig är Du att göra vad Dig behagar. Du är i sanning den Allvetande, den A
 
 (Source category: Bistånd)
 (Bahaiprayers.net ID: 10302)
+
+
 
 
 ### <a id="bpn10303"></a> Prayer bpn10303 in Svenska
@@ -434,6 +596,8 @@ Bevärdiga då Din tjänare, o min Gud, godtagandet av det som han har framvisat
 (Bahaiprayers.net ID: 10303)
 
 
+
+
 ### <a id="bpn10304"></a> Prayer bpn10304 in Svenska
 Ärad vare Du, o min Gud! En av Dina tjänarinnor som har trott på Dig och Dina tecken har trätt in i skuggan av Din enhets träd. Giv henne ymnigt att dricka, o min Gud, vid Ditt uppenbara och fördolda namn, av Ditt utvalda förseglade vin, att detta må avlägsna henne från hennes eget jag och göra henne helt hängiven åminnelsen av Dig och helt frigjord från alla utom Dig.
 Nu när Du har uppenbarat för henne kunskapen om Dig, o min Herre, förvägra henne ej, vid Din givmildhet, Din nåd, och nu när Du har kallat henne till Dig, driv i Din välvilja henne ej bort från Dig. Förse henne då med det som överträffar allt som man kan finna på Din jord. Du är sannerligen den mest Givmilde, vars nåd är gränslös.
@@ -444,12 +608,16 @@ Det finns ingen Gud utom Du, maktens Gud, härlighetens Gud, kunskapens och vish
 (Bahaiprayers.net ID: 10304)
 
 
+
+
 ### <a id="bpn10305"></a> Prayer bpn10305 in Svenska
 Min Gud, min älskade, min konung, min åstundan! Vilken tunga kan uttrycka  min tacksägelse till Dig? Jag var tanklös,  Du väckte mig. Jag hade vänt mig ifrån Dig, Du bistod mig i Din nåd att vända mig till Dig. Jag var som död, Du väckte mig med livets vatten. Jag var förtvinad, Du gav mig liv med det himmelska flödet av Dina ord som har strömmat från den Allbarmhärtiges penna.
 O gudomliga Försyn! All tillvaro har frambragts av Din givmildhet; beröva den ej Din frikostighets vatten, håll den ej heller borta från Din nåds ocean. Jag bönfaller Dig att bistå och stödja mig vid alla tillfällen och under alla förhållanden, och söker från Din nåds himmel Din urgamla ynnest. Du är i sanning givmildhetens Herre och Härskaren över evighetens rike.
 
 (Source category: Bistånd)
 (Bahaiprayers.net ID: 10305)
+
+
 
 
 ### <a id="bpn10306"></a> Prayer bpn10306 in Svenska
@@ -459,6 +627,8 @@ Giv oss vårt dagliga bröd och bestå oss mer än livets nödtorft, så att vi 
 
 (Source category: Bistånd)
 (Bahaiprayers.net ID: 10306)
+
+
 
 
 
@@ -515,6 +685,8 @@ Du är sannerligen den Mäktige, den Allförsörjande, den Helande, Beskyddaren,
 
 (Source category: Den Långa Helandebönen)
 (Bahaiprayers.net ID: 10376)
+
+
 
 
 
@@ -577,6 +749,8 @@ Skulle alla tjänare läsa och begrunda detta, så skall i deras ådror tändas 
 
 
 
+
+
 ## Enhet
 
 ### <a id="bpn10311"></a> Prayer bpn10311 in Svenska
@@ -584,6 +758,8 @@ O min Gud! O min Gud! Förena Dina tjänares hjärtan och uppenbara för dem Dit
 
 (Source category: Enhet)
 (Bahaiprayers.net ID: 10311)
+
+
 
 
 
@@ -599,6 +775,8 @@ Sannerligen, Du är den Nåderike! Sannerligen, Du är de rikliga gåvornas Herr
 (Bahaiprayers.net ID: 10312)
 
 
+
+
 ### <a id="bpn10313"></a> Prayer bpn10313 in Svenska
 Bön för föräldrar
 O Herre! I denna största gudomliga lära godtar Du barns förbön för sina föräldrar. Detta är en av de särskilda och oändliga gåvorna i denna lära. Godtag därför, o Du gode Herre, denne Din tjänares begäran vid Din enhets tröskel och nedsänk hans fader i Din nåds ocean, då denne son har stått upp för att tjäna Dig och strävar efter att vandra Din kärleks stig. I sanning, Du är Givaren, Förlåtaren, den Gode.
@@ -607,11 +785,15 @@ O Herre! I denna största gudomliga lära godtar Du barns förbön för sina fö
 (Bahaiprayers.net ID: 10313)
 
 
+
+
 ### <a id="bpn10314"></a> Prayer bpn10314 in Svenska
 O Du gode Herre! O Du som är givmild och barmhärtig! Vi är tjänare vid Din tröskel och är församlade i Din gudomliga enhets beskyddande hägn. Din barmhärtighets sol lyser över alla och Din givmildhets moln låter sitt regn strömma ned över alla. Dina gåvor förlänas alla, Din kärleksfulla försyn stödjer alla, Ditt beskydd utsträckes till alla och Din ynnests blickar vilar  på alla och envar. O Herre! Bevilja oss Dina oändliga gåvor och låt Din väglednings ljus stråla. Upplys våra ögon och låt allas hjärtan fröjdas av bestående glädje. Utgjut en ny anda över alla människor och skänk dem evigt liv. Lås upp den sanna förståelsens portar och låt trons ljus lysa klart. Församla alla i Din nåds skugga och hjälp dem att förenas i harmoni,  så att de må bli såsom strålarna från en och samma sol, som vågor på en enda ocean och som frukter på ett enda träd. Låt dem dricka från en gemensam springbrunn, uppfriskas av samma  bris och upplysas av samma källa av ljus. Du är Givaren, den Barmhärtige, den Allsmäktige.
 
 (Source category: Familj)
 (Bahaiprayers.net ID: 10314)
+
+
 
 
 ### <a id="bpn10315"></a> Prayer bpn10315 in Svenska
@@ -622,6 +804,8 @@ O Gud, uppenbara för oss Din upphöjda evighet - att Du alltid har varit och al
 
 (Source category: Familj)
 (Bahaiprayers.net ID: 10315)
+
+
 
 
 
@@ -652,6 +836,8 @@ Jag bönfaller Dig, o min Herre, vid Dig och vid Dina tecken och Dina tydliga be
 
 
 
+
+
 ## Fasthet I Förbundet
 
 ### <a id="bpn10316"></a> Prayer bpn10316 in Svenska
@@ -664,6 +850,8 @@ Ingen Gud finns utom Du, den Allsmäktige, den Allvise.
 (Bahaiprayers.net ID: 10316)
 
 
+
+
 ### <a id="bpn10317"></a> Prayer bpn10317 in Svenska
 Han är den Mäktige, den Förlåtande, den Medlidsamme!
 O Gud, min Gud! Du ser Dina tjänare i fördärvets och villfarelsens avgrund. Var finns Din gudomliga lednings ljus, o Du världens åstundan? Du känner deras hjälplöshet och svaghet. Var finns Din kraft, o Du, i vars grepp himmelens och jordens krafter är inneslutna?
@@ -672,6 +860,8 @@ Förordna för mig, vid Din nåd, o Herre, allt det som skall gagna mig i denna 
 
 (Source category: Fasthet I Förbundet)
 (Bahaiprayers.net ID: 10317)
+
+
 
 
 ### <a id="bpn10318"></a> Prayer bpn10318 in Svenska
@@ -687,6 +877,8 @@ Jag ber Dig, o Herre över all tillvaro och Konung över det synliga och det osy
 (Bahaiprayers.net ID: 10318)
 
 
+
+
 ### <a id="bpn10319"></a> Prayer bpn10319 in Svenska
 O Herre, min Gud! Bistå Dina älskade att vara fasta i Din tro, att vandra Dina vägar, att vara ståndaktiga i Din sak. Giv dem Din nåd att motstå själviskhetens och begärens lockelser och att följa den gudomliga vägledningens ljus. 
 Du är den Starke, den Nådefulle, den Självbestående, den Givmilde, den Medlidsamme, den Allsmäktige, den Allvälgörande.
@@ -695,12 +887,16 @@ Du är den Starke, den Nådefulle, den Självbestående, den Givmilde, den Medli
 (Bahaiprayers.net ID: 10319)
 
 
+
+
 ### <a id="bpn10320"></a> Prayer bpn10320 in Svenska
 O min Herre och mitt hopp! Hjälp Dina älskade att vara fasta i Ditt mäktiga förbund, att förbli trofasta mot Din uppenbara sak och att åtlyda de påbud som Du nedskrivit för dem i Din härlighets bok, så att de måtte bli vägledningens baner och lampor från härskaran i höjden, källor av Din oändliga visdom och stjärnor som visar den rätta vägen, strålande med ljuset från den högsta himlen.
 Sannerligen, Du är den Oövervinnerlige, den Allsmäktige, den Allstarke.
 
 (Source category: Fasthet I Förbundet)
 (Bahaiprayers.net ID: 10320)
+
+
 
 
 ### <a id="bpn10321"></a> Prayer bpn10321 in Svenska
@@ -712,6 +908,8 @@ Du är den Förlåtande, den Nåderike.
 (Bahaiprayers.net ID: 10321)
 
 
+
+
 ### <a id="bpn10322"></a> Prayer bpn10322 in Svenska
 O medlidsamme Gud! Lovad vare Du, ty Du har väckt mig och gjort mig medveten. Du har givit mig ett seende öga och skänkt mig ett hörande öra.  Du har väglett mig till Ditt rike och ledsagat mig till Din stig. Du har visat mig den rätta vägen och fått mig att träda in i räddningens ark. O Gud! Bevara mig trofast och gör mig orubblig och säker. Beskydda mig mot svåra prövningar och bevara och beskydda mig i  Ditt förbunds och testamentes värnande fäste.  Du är den Starke. Du är den Seende. Du är  den Hörande.
 O Du medlidsamme Gud! Skänk mig ett hjärta som likt ett glas kan upplysas med Din kärleks ljus, och förläna mig tankar som genom utflödena av himmelsk nåd kan förvandla denna värld till en rosengård.
@@ -719,6 +917,8 @@ Du är den Medlidsamme, den Barmhärtige. Du är Gud, den Store, den Välgörand
 
 (Source category: Fasthet I Förbundet)
 (Bahaiprayers.net ID: 10322)
+
+
 
 
 
@@ -736,6 +936,8 @@ Sannerligen, Du är den Stödjande, Hjälparen, den Givmilde, den Frikostige, de
 
 
 
+
+
 ## För de bortgångna
 
 ### <a id="bpn10307"></a> Prayer bpn10307 in Svenska
@@ -745,6 +947,8 @@ Lovprisad, oändligt lovprisad vare Du! Du är dyrkad i Din sanning och sannerli
 
 (Source category: För de bortgångna)
 (Bahaiprayers.net ID: 10307)
+
+
 
 
 ### <a id="bpn10308"></a> Prayer bpn10308 in Svenska
@@ -764,6 +968,8 @@ Det finns ingen Gud utom Du, den Ende,  den Allenarådande, den Starke, den Al
 (Bahaiprayers.net ID: 10308)
 
 
+
+
 ### <a id="bpn10309"></a> Prayer bpn10309 in Svenska
 O min Gud! O Du syndernas förlåtare, gåvornas givare, bedrövelsens förjagare.
 Sannerligen, jag bönfaller Dig att ge syndernas förlåtelse till dem, som lagt av den jordiska klädnaden och uppstigit till den andliga världen.
@@ -773,12 +979,16 @@ O min Herre! Rena dem från synd, skingra deras sorg och omvandla deras mörker 
 (Bahaiprayers.net ID: 10309)
 
 
+
+
 ### <a id="bpn10310"></a> Prayer bpn10310 in Svenska
 O min Gud, o Du som förlåter synder och undanröjer lidande! O Du som är förlåtande och barmhärtig! Jag höjer mina bedjande händer mot Dig och bönfaller i tårar Ditt gudomliga väsens förgård att förlåta, genom Din barmhärtighet och nåd, Din tjänarinna som har uppstigit till sanningens säte. Låt henne, O Herre, överskyggas av Din frikostighets och ynnests moln och nedsänk henne i Din förlåtelses och mildhets ocean och gör det möjligt för henne att träda in i den helgade boningen, det himmelska paradiset. 
 	Du är sannerligen den Mäktige, den Medlidsamme, den Givmilde, den Barmhärtige.
 
 (Source category: För de bortgångna)
 (Bahaiprayers.net ID: 10310)
+
+
 
 
 
@@ -794,6 +1004,8 @@ Förlåt då, o min Herre, Dina tjänare och  Dina tjänarinnor. Du är sanner
 (Bahaiprayers.net ID: 10323)
 
 
+
+
 ### <a id="bpn10324"></a> Prayer bpn10324 in Svenska
 Ärad vare Du, o Gud! Du är den Gud som har funnits före allt annat och som kommer att finnas till efter allt och bortom allt. Du är den Gud som känner alla och är upphöjd över allt.  Du är den Gud som behandlar alla med barmhärtighet, som dömer mellan alla och vars blick omfattar allt. Du är Gud, min Herre, Du är varse mitt tillstånd, Du känner mitt inre  och yttre liv.
 Skänk Din förlåtelse till mig och de troende som svarat på Din kallelse. Var den Hjälpare jag behöver bland de orosstiftare som vill tillfoga mig skada och vill mig illa. Sannerligen, Du är hela skapelsens Herre. Du sörjer för alla, och ingen äger sin försörjning utan Dig.
@@ -802,12 +1014,16 @@ Skänk Din förlåtelse till mig och de troende som svarat på Din kallelse. Var
 (Bahaiprayers.net ID: 10324)
 
 
+
+
 ### <a id="bpn10325"></a> Prayer bpn10325 in Svenska
 O Du förlåtande Herre! Du är alla dessa Dina tjänares skydd. Du vet hemligheterna och är medveten om allt. Vi är alla hjälplösa och Du är den Mäktige, den Allsmäktige. Vi är alla syndare och Du är Förlåtaren av synder, den Barmhärtige, den Medlidsamme.
 O Herre! Se icke till våra brister. Behandla oss efter Din nåd och givmildhet. Våra brister är många, men Din förlåtelses ocean är obegränsad. Vår svaghet är smärtsam, men bevisen på Din hjälp och Ditt bistånd är tydliga. Giv oss då trygghet och styrka. Gör det möjligt för oss att utföra sådant som är värdigt Din heliga tröskel. Upplys våra hjärtan, gör våra ögon klarsynta och våra öron uppmärksamma. Återuppliva de döda och hela de sjuka. Skänk rikedom åt de fattiga och låt dem som fruktar finna frid och trygghet. Godtag oss i Ditt rike och upplys oss med det vägledande ljuset. Du är den Starke och den Allsmäktige. Du är den Givmilde, Du är den Nådige, Du är den Gode.
 
 (Source category: Förlåtelse)
 (Bahaiprayers.net ID: 10325)
+
+
 
 
 
@@ -823,6 +1039,8 @@ Då Du, o min Herre, har lett dem till Din nåds levande vatten, bevilja i Din f
 
 
 
+
+
 ## Hälsa
 
 ### <a id="bpn10327"></a> Prayer bpn10327 in Svenska
@@ -835,11 +1053,15 @@ Mäktig är Du att göra vad Dig behagar. Det finns ingen Gud utom Du, den evigt
 (Bahaiprayers.net ID: 10327)
 
 
+
+
 ### <a id="bpn10328"></a> Prayer bpn10328 in Svenska
 Ditt namn är min läkedom, o min Gud,  och hågkomsten av Dig mitt botemedel. Närhet till Dig är mitt hopp och kärlek till Dig min ledsagare. Din barmhärtighet mot mig är  min läkedom och min hjälp i såväl denna som  den kommande världen. Du är i sanning den Allgivande, den Allvetande, den Allvise.
 
 (Source category: Hälsa)
 (Bahaiprayers.net ID: 10328)
+
+
 
 
 ### <a id="bpn10329"></a> Prayer bpn10329 in Svenska
@@ -850,6 +1072,8 @@ Ditt namn är min läkedom, o min Gud,  och hågkomsten av Dig mitt botemedel.
 
 (Source category: Hälsa)
 (Bahaiprayers.net ID: 10329)
+
+
 
 
 
@@ -874,6 +1098,8 @@ Det finns ingen Gud utom Du, Hjälpen i farans stund, Den i sig själv varande.
 
 (Source category: Kort obligatorisk bön)
 (Bahaiprayers.net ID: 10262)
+
+
 
 
 
@@ -920,6 +1146,8 @@ Jag vittnar, o min Gud, om det varom Dina utvalda har vittnat och erkänner det,
 
 
 
+
+
 ## Martyrskap
 
 ### <a id="bpn10375"></a> Prayer bpn10375 in Svenska
@@ -933,6 +1161,8 @@ Sannerligen, Du är den Givmilde, den Mäktige, den Allsmäktige, den Obundne. D
 
 (Source category: Martyrskap)
 (Bahaiprayers.net ID: 10375)
+
+
 
 
 
@@ -973,6 +1203,8 @@ Om någon i stället för den långa versen väljer att läsa dessa ord: ”Gud 
 
 
 
+
+
 ## Morgon
 
 ### <a id="bpn10330"></a> Prayer bpn10330 in Svenska
@@ -982,12 +1214,16 @@ Jag har vaknat i Ditt beskydd, o min Gud, och det tillkommer den som söker dett
 (Bahaiprayers.net ID: 10330)
 
 
+
+
 ### <a id="bpn10331"></a> Prayer bpn10331 in Svenska
 Jag har stigit upp denna morgon genom Din nåd, o min Gud, och lämnat mitt hem i full förtröstan på Dig och överlämnat mig i Din vård. Sänd då ned från Din barmhärtighets himmel en välsignelse över mig från Din sida, och gör mig i stånd att återvända hem i trygghet, liksom Du lät mig bege mig åstad under Ditt beskydd med mina tankar orubbligt fästade på Dig.
 Det finns ingen Gud utom Du, den Ende, den Oförliknelige, den Allvetande, den Allvise.
 
 (Source category: Morgon)
 (Bahaiprayers.net ID: 10331)
+
+
 
 
 
@@ -1002,6 +1238,8 @@ Alla är ju fattiga och behövande och  Du är sannerligen den Allbesittande, 
 (Bahaiprayers.net ID: 10332)
 
 
+
+
 ### <a id="bpn10333"></a> Prayer bpn10333 in Svenska
 Lovat vare Ditt namn, o Herre min Gud! Mörker har fallit över varje land och fördärvets makter omger alla nationer. Men genom dem uppfattar jag Din lysande visdom  och urskiljer Din försyns klara ljus.
 De som är utestängda från Dig som av en slöja har inbillat sig att de har makt att utsläcka Ditt ljus, att kväva Din eld och att stilla Din nåds vindar. Nej, och till detta är Din makt mitt vittne! Hade icke varje vedermöda gjorts till bärare av Din visdom och varje prövning till förmedlare av Din försyn, skulle ingen ha vågat motsätta sig oss, även om jordens och himmelens makter hade varit i förbund mot oss. Redde jag ut Din visdoms underbara mysterier vilka ligger blottade framför mig, skulle Dina fienders lemmar klyvas sönder.
@@ -1010,6 +1248,8 @@ Mäktig är Du att göra vad Dig behagar.  Du är i sanning Hjälpen i farans 
 
 (Source category: Mänskligheten)
 (Bahaiprayers.net ID: 10333)
+
+
 
 
 ### <a id="bpn10334"></a> Prayer bpn10334 in Svenska
@@ -1028,6 +1268,8 @@ Du är den Mäktige och Starke, Du är den Förlåtande och Du är Den som över
 
 
 
+
+
 ## Möten
 
 ### <a id="bpn10335"></a> Prayer bpn10335 in Svenska
@@ -1039,12 +1281,16 @@ Du är sannerligen Hjälpen i farans stund,  den Ouppnåelige, den Allsmäktig
 (Bahaiprayers.net ID: 10335)
 
 
+
+
 ### <a id="bpn10336"></a> Prayer bpn10336 in Svenska
 O min Gud! O min Gud! Sannerligen, dessa tjänare vänder sig till Dig och bönfaller Din barmhärtighets rike. Sannerligen, de dras till Din helighet och är upptända av Din kärleks eld, söker bekräftelse från Ditt underbara rike och hoppas att uppnå Ditt himmelska land. Sannerligen,  de längtar efter nedsändandet av Din gåva och önskar upplysning från Verklighetens sol.  O Herre! Gör dem till strålande lampor, barmhärtiga tecken, fruktbärande träd och lysande stjärnor. Må de träda fram i Din tjänst och bli förenade med Dig genom Din kärleks bojor och band i längtan efter Din ynnests ljus.  O Herre! Gör dem till vägledande tecken, baner i Ditt odödliga rike, vågor på Din barmhärtighets hav, speglar för Ditt majestäts ljus.
 Sannerligen, Du är den Givmilde. Sannerligen, Du är den Barmhärtige. Sannerligen, Du är den Dyrbare, den Älskade.
 
 (Source category: Möten)
 (Bahaiprayers.net ID: 10336)
+
+
 
 
 ### <a id="bpn10337"></a> Prayer bpn10337 in Svenska
@@ -1057,6 +1303,8 @@ Du är den Starke, den Allsmäktige, den Barmhärtige och Du är den Givmilde, d
 
 (Source category: Möten)
 (Bahaiprayers.net ID: 10337)
+
+
 
 
 
@@ -1075,6 +1323,8 @@ Han som är Din gren och alla Dina följeslagare, o min Gud, har denna dag bruti
 
 
 
+
+
 ## Prövningar och svårigheter
 
 ### <a id="bpn10338"></a> Prayer bpn10338 in Svenska
@@ -1087,6 +1337,8 @@ Och slutligen ber jag Dig vid Ditt anletes ljus att välsigna mina angelägenhet
 (Bahaiprayers.net ID: 10338)
 
 
+
+
 ### <a id="bpn10339"></a> Prayer bpn10339 in Svenska
 Ärad vare Du, o min Gud! Vore det icke för vedermödorna som uthärdas på Din stig, hur skulle de som verkligen älskar Dig kunna kännas igen? Och vore det ej för prövningarna som bäres av kärlek till Dig, hur skulle ställningen hos sådana som längtar efter Dig kunna uppenbaras! Din makt är mitt vittne! Följeslagarna till alla dem som dyrkar Dig är tårarna de fäller, och trösten för sådana som söker Dig är suckarna de utstöter, och födan för dem som skyndar att möta Dig är spillrorna av deras brustna hjärtan.
 Hur ljuv för mig är icke dödens bitterhet när den genomlidits på Din stig, och hur högt skattar jag icke Dina fienders pilar när de träffat mig på grund av förhärligandet av Ditt ord. Låt mig, o min Gud, dricka djupt av allt det Du önskar i Din sak, och sänd i Din kärlek ned över mig allt Du föreskrivit. Vid Din härlighet! Jag önskar endast vad Du önskar och håller kärt vad Du håller kärt. Till Dig har jag i varje stund satt hela min tillit och förtröstan.
@@ -1095,6 +1347,8 @@ Mäktig är Du att göra vad Dig behagar. Ingen Gud finns utom Du, Hjälpen i fa
 
 (Source category: Prövningar och svårigheter)
 (Bahaiprayers.net ID: 10339)
+
+
 
 
 ### <a id="bpn10340"></a> Prayer bpn10340 in Svenska
@@ -1106,11 +1360,15 @@ Jag bönfaller Dig, o min Gud, vid dem och vid de suckar deras hjärtan utstöte
 (Bahaiprayers.net ID: 10340)
 
 
+
+
 ### <a id="bpn10341"></a> Prayer bpn10341 in Svenska
 O Du vars prövningar är ett läkande botemedel för dem som är nära Dig,  vars svärd är en brinnande åstundan hos alla dem som älskar Dig, vars pil är den käraste önskan för de hjärtan som längtar efter Dig, vars befallning är det enda hoppet hos dem som erkänt Din sanning. Jag bönfaller Dig, vid Din gudomliga ljuvhet och vid glansen från Ditt anletes härlighet, att sända ned över oss från Dina boningar i höjden det som skall göra oss redo att närma oss Dig. Gör då våra steg fasta, o min Gud, i Din sak, sprid Din kunskaps skimmer i våra hjärtan och lys upp våra bröst med Dina namns klarhet.
 
 (Source category: Prövningar och svårigheter)
 (Bahaiprayers.net ID: 10341)
+
+
 
 
 ### <a id="bpn10342"></a> Prayer bpn10342 in Svenska
@@ -1125,6 +1383,8 @@ Du är i sanning skapelsens Herre. Det finns ingen Gud jämte Dig, den evigt Fö
 (Bahaiprayers.net ID: 10342)
 
 
+
+
 ### <a id="bpn10343"></a> Prayer bpn10343 in Svenska
 Finns det någon befriare från svårigheter utom Gud! Säg: Prisad vare Gud! Han är Gud! Alla är Hans tjänare och alla lyder under Hans bud.
 
@@ -1132,11 +1392,15 @@ Finns det någon befriare från svårigheter utom Gud! Säg: Prisad vare Gud! Ha
 (Bahaiprayers.net ID: 10343)
 
 
+
+
 ### <a id="bpn10344"></a> Prayer bpn10344 in Svenska
 Säg: Gud tillfredsställer allt över allting  och ingenting i himlarna eller på jorden tillfredsställer utom Gud. Sannerligen, Han är  i sig själv den Vetande, den Stödjande, den Allsmäktige.
 
 (Source category: Prövningar och svårigheter)
 (Bahaiprayers.net ID: 10344)
+
+
 
 
 ### <a id="bpn10345"></a> Prayer bpn10345 in Svenska
@@ -1157,12 +1421,16 @@ Du är i sanning den Nådefulle, den Förhärligade, den Starke, den Allsmäktig
 (Bahaiprayers.net ID: 10345)
 
 
+
+
 ### <a id="bpn10346"></a> Prayer bpn10346 in Svenska
 O min Herre, min älskade, min åstundan! Hjälp mig i min ensamhet och beledsaga mig i min förvisning. Undanröj min sorg. Gör mig hängiven Din skönhet. Avlägsna mig från allt utom Dig. Fängsla mig genom Din helighets vällukt, låt mig förenas i Ditt rike med dem som är skilda från allt utom Dig, som längtar efter att tjäna Din heliga tröskel och som står upp för att arbeta för Din sak. Gör mig i stånd att bli en av Dina tjänarinnor som har vunnit Din välvilja. 
 Sannerligen, Du är den Nåderike, den Givmilde.
 
 (Source category: Prövningar och svårigheter)
 (Bahaiprayers.net ID: 10346)
+
+
 
 
 
@@ -1175,6 +1443,8 @@ Jag bönfaller Dig vid Din kraft, o min Gud!  Låt ingen skada drabba mig i pr
 (Bahaiprayers.net ID: 10347)
 
 
+
+
 ### <a id="bpn10348"></a> Prayer bpn10348 in Svenska
 O Herre! Hos Dig söker jag min fristad och till alla Dina tecken vänder jag mitt hjärta.
 O Herre! Vare sig jag befinner mig på resa eller i mitt hem, är vid mina sysslor eller vid mitt kall, sätter jag hela min tillit till Dig.
@@ -1184,6 +1454,8 @@ Du har oinskränkt myndighet att befalla.
 
 (Source category: Renhet)
 (Bahaiprayers.net ID: 10348)
+
+
 
 
 
@@ -1199,6 +1471,8 @@ Du är sannerligen den Allsmäktige, den Allvetande, den Allunderrättade.
 
 (Source category: Skottdagarna)
 (Bahaiprayers.net ID: 10364)
+
+
 
 
 
@@ -1246,6 +1520,8 @@ Sannerligen, Han är den Barmhärtige, den Medlidsamme. Pris vare Gud, alla vär
 
 
 
+
+
 ## Tacksägelse
 
 ### <a id="bpn10349"></a> Prayer bpn10349 in Svenska
@@ -1254,6 +1530,8 @@ Lys upp, o Herre, Dina tjänares anleten att de må skåda Dig, och rena deras h
 
 (Source category: Tacksägelse)
 (Bahaiprayers.net ID: 10349)
+
+
 
 
 ### <a id="bpn10350"></a> Prayer bpn10350 in Svenska
@@ -1265,6 +1543,8 @@ Det finns ingen Gud utom Du, den Nåderike, den Starke, den Högste.
 
 (Source category: Tacksägelse)
 (Bahaiprayers.net ID: 10350)
+
+
 
 
 
@@ -1281,6 +1561,8 @@ O min Herre! Du ser dem klamra sig fast vid Din nåds band och hålla fast vid f
 (Bahaiprayers.net ID: 10351)
 
 
+
+
 ### <a id="bpn10352"></a> Prayer bpn10352 in Svenska
 O Gud, som är upphovet till alla uppenbarare, ursprunget till alla källor, upprinnelsen till alla uppenbarelser och källan till alla  ljus! Jag vittnar om att genom Ditt namn har förståelsens himmel smyckats och yttrandets hav satts i svallning och Din försyns förordningar blivit kungjorda för alla religioners efterföljare.
 Jag bönfaller Dig att berika mig så, att jag kan undvara allt utom Dig och bli oberoende av alla utom Dig. Låt då från Din nåds moln nedströmma över mig det som skall gagna mig i alla Dina världar. Bistå mig genom Din styrkande nåd att så tjäna Din sak bland Dina tjänare, att jag måtte framvisa vad som skall göra mig ihågkommen så länge Ditt rike består och Ditt herravälde varar.
@@ -1291,6 +1573,8 @@ Du är i sanning styrkans och maktens Gud, som är skickad att svara dem som åk
 (Bahaiprayers.net ID: 10352)
 
 
+
+
 ### <a id="bpn10353"></a> Prayer bpn10353 in Svenska
 Mörker omsluter varje land, o min Gud, och har kommit de flesta av Dina tjänare att bäva. Jag bönfaller Dig, vid Ditt Största namn, att i varje stad uppväcka en ny skapelse, som skall vända sig till Dig och som skall minnas Dig bland Dina tjänare och som genom värdet av sitt tal och sin visdom skall uppenbara Din segers tecken och frigöra sig från alla skapade ting.
 Mäktig är Du att genomföra Din vilja. Det finns ingen Gud utom Du, den Mäktigaste, om vars hjälp alla människor bönfaller.
@@ -1299,12 +1583,16 @@ Mäktig är Du att genomföra Din vilja. Det finns ingen Gud utom Du, den Mäkti
 (Bahaiprayers.net ID: 10353)
 
 
+
+
 ### <a id="bpn10354"></a> Prayer bpn10354 in Svenska
 O min Gud, bistå Din tjänare att upphöja Ordet och att vederlägga det som är fåfängt och falskt, att upprätta sanningen, att sprida de heliga verserna vida omkring, att uppenbara strålglansen och låta morgonljuset gry i de rättfärdigas hjärtan.
 Du är i sanning den Givmilde, den Förlåtande.
 
 (Source category: Undervisning)
 (Bahaiprayers.net ID: 10354)
+
+
 
 
 ### <a id="bpn10355"></a> Prayer bpn10355 in Svenska
@@ -1317,6 +1605,8 @@ Sannerligen, Du är den Mäktige, den Starke och den Allsmäktige och Du är den
 (Bahaiprayers.net ID: 10355)
 
 
+
+
 ### <a id="bpn10356"></a> Prayer bpn10356 in Svenska
 Må var och en som beger sig ut på en undervisningsresa till någon plats, läsa denna bön dag och natt under sina resor i främmande trakter:
 O Gud! O Gud! Du ser mig hängiven och dragen till Ditt härliga rike, tänd av Din kärleks eld bland människorna, en budbringare för ditt rike i dessa omfattande och vidsträckta trakter, frigjord från allt utom Dig, i förlitan på Dig, försakande vila och bekvämlighet, långt från min hemtrakt, en vandrare i dessa områden, en främling som fallit till marken, ödmjuk inför Din upphöjda tröskel, lydig inför Din allsmäktiga härlighets himmel, åkallande Dig vid midnatt och vid dagbräckningen, bönfallande och ödmjukt bedjande Dig morgon och afton att nådefullt bistå mig att tjäna Din sak, att sprida Din lära och att förhärliga Ditt ord i öst och  i väst.
@@ -1326,6 +1616,8 @@ Sannerligen, Du är Den som skänker bekräftelse åt vemhelst Du vill för det 
 
 (Source category: Undervisning)
 (Bahaiprayers.net ID: 10356)
+
+
 
 
 ### <a id="bpn10357"></a> Prayer bpn10357 in Svenska
@@ -1340,6 +1632,8 @@ Sannerligen, Du är den Nådefulle, den Starke, den Mäktige och den mest barmh�
 (Bahaiprayers.net ID: 10357)
 
 
+
+
 ### <a id="bpn10358"></a> Prayer bpn10358 in Svenska
 Följande bön är avsedd att läsas dagligen av vännerna och av dem som undervisar om tron:
 O Du gode Herre! Pris vare Dig att Du har visat oss till vägledningens raka stråk, öppnat konungarikets portar och uppenbarat Dig genom Verklighetens sol. Till de blinda har Du givit syn, till de döva har Du givit hörsel. Du har uppväckt de döda, Du har berikat de fattiga, Du har visat vägen för dem som gått vilse, Du har fört dem med förtorkade läppar till vägledningens källa, Du har låtit den törstande fisken nå fram till verklighetens ocean och Du har inbjudit de vilsekomna fåglarna till nådens rosengård.
@@ -1351,6 +1645,8 @@ Sannerligen, Du är den Starke, den Mäktige, den Vise och den Seende.
 (Bahaiprayers.net ID: 10358)
 
 
+
+
 ### <a id="bpn10359"></a> Prayer bpn10359 in Svenska
 Var och en som reser genom städerna, samhällena och byarna i dessa stater, verksamma med spridandet av Guds väldofter bör läsa denna bön varje morgon:
 O min Gud! O min Gud! Du ser mig i min ringhet och svaghet, sysselsatt med den största av uppgifter, besluten att höja Ditt ord bland massorna och att sprida Din lära bland Ditt folk. Hur kan jag lyckas om icke Du bistår mig med den heliga andens andedräkt, hjälper mig till seger genom Ditt underbara rikes härskaror och utgjuter över mig Dina bekräftelser, vilka ensamma kan förvandla en mygga till en örn, en vattendroppe till floder och hav och en atom till ljusknippen och solar. O min Herre! Bistå mig med Din segerrika och genomträngande kraft, så att min tunga må lovprisa Dig och Dina egenskaper bland alla människor och min själ flöda över av Din kärleks och kunskaps vin.
@@ -1360,6 +1656,8 @@ Du är den Allsmäktige och Den som gör vadhelst han önskar.
 (Bahaiprayers.net ID: 10359)
 
 
+
+
 ### <a id="bpn10360"></a> Prayer bpn10360 in Svenska
 Följande bön är avsedd att läsas ... varje dag:
 O Gud! O Gud! Detta är en vingbruten fågel och hans flykt är mycket långsam. Bistå honom så att han kan svinga sig upp mot välståndets och frälsningens högsta topp, sväva i den största glädje och lycka genom den oändliga rymden, i Ditt Högsta namn höja sin melodi i alla nejder, glädja öronen med denna kallelse och upplysa ögonen genom åsynen av vägledningens tecken.
@@ -1367,6 +1665,8 @@ O Herre! Jag är ensam, utlämnad och ringa. För mig finns inget annat stöd ä
 
 (Source category: Undervisning)
 (Bahaiprayers.net ID: 10360)
+
+
 
 
 
@@ -1384,6 +1684,8 @@ Och när Han önskade visa människorna sin nåd och välvilja och införa ordni
 (Bahaiprayers.net ID: 10367)
 
 
+
+
 ### <a id="bpn10368"></a> Prayer bpn10368 in Svenska
 Han är Gud! 
 O oförliknelige Herre! I Din allsmäktiga visdom har Du för mänskligheten stiftat lagen om äktenskapet, på det att generation måtte följa på generation i denna ovissa värld och att människorna så länge världen finns till måtte ägna sig åt att tjäna, tillbedja och åkalla, dyrka och prisa Dig vid Din enhets tröskel. ”Jag har icke skapat själar och människor för något annat än tillbedjan av Mig.” Förena då i Din nåds himmel dessa två fåglar från Din kärleks näste och gör dem till redskap för Din eviga nåd, så att från föreningen av dessa två hav av kärlek en våg av ömhet må höja sig och låta pärlor av god avkomma sköljas upp på livets strand. ”Han har gjort dessa två hav fria så att de må möta varandra; mellan dem finns en gränslinje som de icke överskrider. Vilken av din Herres gåvor vill ni då förneka? Från var och en frambringar Han större och mindre pärlor.”
@@ -1393,12 +1695,17 @@ O Du gode Herre! Låt detta äktenskap frambringa koraller och pärlor. Du är s
 (Bahaiprayers.net ID: 10368)
 
 
+
+
 ### <a id="bpn10369"></a> Prayer bpn10369 in Svenska
 Ärad vare Du, o min Gud! Sannerligen, denne Din tjänare och 
 denna Din tjänarinna har inträtt i Din barmhärtighets skugga och är förenade genom Din ynnest och givmildhet.  O Herre! Bistå dem i denna Din värld och Ditt rike och bestäm för dem allt vad gott är genom Din givmildhet och nåd. O Herre! Styrk dem i Din tjänst och bistå dem i tjänandet av Dig. Låt dem bli ett tecken på Ditt namn i Din värld och skydda dem genom Dina gåvor som är outtömliga i denna värld och i den kommande världen.  O Herre! De vänder sig bönfallande till Din barmhärtighets konungarike och åkallar Din enhets rike. De är i sanning vigda i lydnad inför Ditt bud. Låt dem bli sinnebilden för harmoni och enighet intill tidens ände. Du är sannerligen den Allstarke, den Allestädes närvarande och den Allsmäktige!
 
 (Source category: Äktenskap)
 (Bahaiprayers.net ID: 10369)
+
+
+
 
 
 

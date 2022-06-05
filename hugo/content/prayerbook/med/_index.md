@@ -3,6 +3,42 @@ title = "Melpa"
 tags = ['lang=med', 'prayerbook']
 +++
 
+
+
+[ANATU TEK OUDUI ENGA ATENGA E](#ANATU TEK OUDUI ENGA ATENGA E)
+
+[KANG AMPÄGLA BÄNGA ATENGA](#KANG AMPÄGLA BÄNGA ATENGA)
+
+[KIKONTA ATENGA](#KIKONTA ATENGA)
+
+[KUI MÄN ATENGA](#KUI MÄN ATENGA)
+
+[MIN E TIP RAPDAMBA ENGA ATENGA](#MIN E TIP RAPDAMBA ENGA ATENGA)
+
+[MUKULMÄ WINTNGA ATENGA](#MUKULMÄ WINTNGA ATENGA)
+
+[NIT BÄ PENTIP KILI ENGA ATENGA](#NIT BÄ PENTIP KILI ENGA ATENGA)
+
+[NOMBALGA ÄNDING ENGA ATENGA](#NOMBALGA ÄNDING ENGA ATENGA)
+
+[NOMBOLGA ORADUI ENGA ATENGA E](#NOMBOLGA ORADUI ENGA ATENGA E)
+
+[RUMBULG RUI ENGA ATENGA E](#RUMBULG RUI ENGA ATENGA E)
+
+[RÄNG WAKRAP ANATU KEN ATENGA RUMIN EMEL](#RÄNG WAKRAP ANATU KEN ATENGA RUMIN EMEL)
+
+[TENGDUI ATENGA KINTINGA](#TENGDUI ATENGA KINTINGA)
+
+[WAMB DOIMB RUNDING ENGA ATANGE E](#WAMB DOIMB RUNDING ENGA ATANGE E)
+
+[WAMP ON ITENG ATENGA E](#WAMP ON ITENG ATENGA E)
+
+[WAMP TEPA TENTA MUNDI ATENGA](#WAMP TEPA TENTA MUNDI ATENGA)
+
+[WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK](#WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK)
+
+
+
 ## ANATU TEK OUDUI ENGA ATENGA E
 
 ### <a id="bpn13032"></a> Prayer bpn13032 in Melpa
@@ -10,6 +46,8 @@ Anatu nga numan wengdui ulg e kona kelkel bila pora tetem, mawaga, kona na kona 
 
 (Source category: ANATU TEK OUDUI ENGA ATENGA E)
 (Bahaiprayers.net ID: 13032)
+
+
 
 
 
@@ -23,6 +61,8 @@ Anutu O, na nombolga bä wakadui:  Nanga mundmong enga lamb ela rängalg ngana n
 
 
 
+
+
 ## KIKONTA ATENGA
 
 ### <a id="bpn13026"></a> Prayer bpn13026 in Melpa
@@ -30,6 +70,8 @@ Nanga Anutu nem bi panka.  Nimnga numan wengdui ugl, wamp numan ngui na wamp ki 
 
 (Source category: KIKONTA ATENGA)
 (Bahaiprayers.net ID: 13026)
+
+
 
 
 
@@ -43,6 +85,8 @@ Nanga Anatu O, Nemnga bi ent na etepa tetim.  Wete Neme pilip ko mund dam, Nem p
 
 
 
+
+
 ## MIN E TIP RAPDAMBA ENGA ATENGA
 
 ### <a id="bpn13019"></a> Prayer bpn13019 in Melpa
@@ -50,6 +94,8 @@ Anatu Ye, Nanga min iyä etikin kont mondokon numan e orong etiken kai pinti.  N
 
 (Source category: MIN E TIP RAPDAMBA ENGA ATENGA)
 (Bahaiprayers.net ID: 13019)
+
+
 
 
 
@@ -63,6 +109,8 @@ Nanga Anatu O!  Na nem nga ki kaemb ela rot nemb kai mondond.  Wamb ti ent nem n
 
 
 
+
+
 ## NIT BÄ PENTIP KILI ENGA ATENGA
 
 ### <a id="bpn13030"></a> Prayer bpn13030 in Melpa
@@ -70,6 +118,8 @@ Anatu elem ent nit bä pentipa kelimba.  Mel elepa mat ent kongon emel etemba mo
 
 (Source category: NIT BÄ PENTIP KILI ENGA ATENGA)
 (Bahaiprayers.net ID: 13030)
+
+
 
 
 
@@ -83,6 +133,8 @@ Na Neminga, mondopa pili ela rot niti nanga Anatu O, Nem kin pora mondop pilip n
 
 
 
+
+
 ## NOMBOLGA ORADUI ENGA ATENGA E
 
 ### <a id="bpn13018"></a> Prayer bpn13018 in Melpa
@@ -93,6 +145,8 @@ Nanga wuta Anatu O!  Neminga numan ngoron wamb tik rapandana, Nemnga miti ela ro
 
 
 
+
+
 ## RUMBULG RUI ENGA ATENGA E
 
 ### <a id="bpn13021"></a> Prayer bpn13021 in Melpa
@@ -100,6 +154,8 @@ Wä Nuim O!  Na Nemnga tep mumuk ropa, tenta iti ulg eya tip oldong ngolgmba Nem
 
 (Source category: RUMBULG RUI ENGA ATENGA E)
 (Bahaiprayers.net ID: 13021)
+
+
 
 
 
@@ -115,6 +171,8 @@ Ugla nga wipip ropa ngui wa na akap king nga kum pinti mel bä wak rop, nu na r�
 
 
 
+
+
 ## TENGDUI ATENGA KINTINGA
 
 ### <a id="bpn13031"></a> Prayer bpn13031 in Melpa
@@ -127,6 +185,8 @@ Na para dop nent, Anatu, nem ent na mim eteken, na peliken kandaken i eten ni na
 
 
 
+
+
 ## WAMB DOIMB RUNDING ENGA ATANGE E
 
 ### <a id="bpn13017"></a> Prayer bpn13017 in Melpa
@@ -134,6 +194,8 @@ O Anatu O!   Nem wamb ti ken kapalga mon!  Anatu Nem tip mumukrui kona enga ami.
 
 (Source category: WAMB DOIMB RUNDING ENGA ATANGE E)
 (Bahaiprayers.net ID: 13017)
+
+
 
 
 
@@ -177,6 +239,8 @@ Ten pora kopa Anatu ken raka nemp moromon.(19)
 
 
 
+
+
 ## WAMP TEPA TENTA MUNDI ATENGA
 
 ### <a id="bpn13029"></a> Prayer bpn13029 in Melpa
@@ -184,6 +248,8 @@ Nanga Anatu O!  Nanga Anatu O!  Nemnga kent mant wamp bänga noman bä teken ten
 
 (Source category: WAMP TEPA TENTA MUNDI ATENGA)
 (Bahaiprayers.net ID: 13029)
+
+
 
 
 
@@ -196,6 +262,9 @@ Nanga Anatu O!  Nanga Anatu O!  Nemnga kent mant wamp bänga noman bä teken ten
 
 (Source category: WÄ AMP KIKONTA TEPA RONDOGL MUNDI IK)
 (Bahaiprayers.net ID: 13027)
+
+
+
 
 
 

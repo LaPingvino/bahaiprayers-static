@@ -3,6 +3,90 @@ title = "Azərbaycan"
 tags = ['lang=az', 'prayerbook']
 +++
 
+
+
+[Ailələr](#Ailələr)
+
+[Allaha yaxınlıq üçün dualar](#Allaha yaxınlıq üçün dualar)
+
+[Atəş Lövhü, Əhməd Lövhü, Müqəddəs Dənizçi lövhü](#Atəş Lövhü, Əhməd Lövhü, Müqəddəs Dənizçi lövhü)
+
+[Axşam duası](#Axşam duası)
+
+[Azərbaycan Haqqında Dualar](#Azərbaycan Haqqında Dualar)
+
+[Bağışlanma duası](#Bağışlanma duası)
+
+[Birlik duaları](#Birlik duaları)
+
+[Böyük Namaz](#Böyük Namaz)
+
+[Bəşəriyyət üçün dualar](#Bəşəriyyət üçün dualar)
+
+[Dünyaya Bağlanmamaq Duaları](#Dünyaya Bağlanmamaq Duaları)
+
+[Gənclər üçün dualar](#Gənclər üçün dualar)
+
+[Hifz duaları](#Hifz duaları)
+
+[Hüququllah-Allahın Hüququ](#Hüququllah-Allahın Hüququ)
+
+[Həzrət Bəhaullahın və Həzrət Babın Ziyarətnaməsi](#Həzrət Bəhaullahın və Həzrət Babın Ziyarətnaməsi)
+
+[Həzrət Əbdül -Bəhanın Ziyarətnaməsi](#Həzrət Əbdül -Bəhanın Ziyarətnaməsi)
+
+[Kömək və yardım duaları](#Kömək və yardım duaları)
+
+[Nigah duaları](#Nigah duaları)
+
+[On doqquz gün ziyafəti](#On doqquz gün ziyafəti)
+
+[Orta Namaz](#Orta Namaz)
+
+[Osmanli Türkcəsində nazil olmuş dualar](#Osmanli Türkcəsində nazil olmuş dualar)
+
+[Qadınlar üçün dualar](#Qadınlar üçün dualar)
+
+[Qısa Namaz](#Qısa Namaz)
+
+[Ruhani Məhfildə oxunan dualar](#Ruhani Məhfildə oxunan dualar)
+
+[Ruhani inkişaf üçün dualar](#Ruhani inkişaf üçün dualar)
+
+[Sabitlik](#Sabitlik)
+
+[Sinaq və çətinliklərdə oxunan dualar](#Sinaq və çətinliklərdə oxunan dualar)
+
+[Süfrə duasi](#Süfrə duasi)
+
+[Səhər duaları](#Səhər duaları)
+
+[Səmavi bəxşiş duaları](#Səmavi bəxşiş duaları)
+
+[Toplantılarda oxunan dualar](#Toplantılarda oxunan dualar)
+
+[Uşaqlar üçün dualar](#Uşaqlar üçün dualar)
+
+[Vəfat edənlər üçün namaz və dualar](#Vəfat edənlər üçün namaz və dualar)
+
+[İanə haqqında dua](#İanə haqqında dua)
+
+[İlahi təyid duaları](#İlahi təyid duaları)
+
+[İlahi xidmət duaları](#İlahi xidmət duaları)
+
+[Şükr və minnətdarlıq duaları](#Şükr və minnətdarlıq duaları)
+
+[Şəfa duaları](#Şəfa duaları)
+
+[Şəhidlər üçün dualar](#Şəhidlər üçün dualar)
+
+[Əhddə möhkəmlik duaları](#Əhddə möhkəmlik duaları)
+
+[Əyyami-Ha, Orucluq, Novruz üçün dualar](#Əyyami-Ha, Orucluq, Novruz üçün dualar)
+
+
+
 ## Ailələr
 
 ### <a id="bpn4690"></a> Prayer bpn4690 in Azərbaycan
@@ -18,6 +102,8 @@ Mənə, Ey mənim Allahım, təyin olunmuş Gündə Sənin əlamətlərinə iman
 (Bahaiprayers.net ID: 4690)
 
 
+
+
 ### <a id="bpn4692"></a> Prayer bpn4692 in Azərbaycan
 Alqış Sənə, Ey Rəbbim, mənim Allahım! Yalvarıram Sənə, məni və Sənin Əmrinə kömək edənləri bağışla. Həqiqətən, Sən hökmran Allahsan, Bağışlayan və Ən Səxavətlisən. Ey mənim Allahım! Bixəbər qalmış bəndələrini Öz Əmrinə daxil olmağa qabil eylə; çünki onlar Sənin haqqında bilən kimi, Qiyamət Gününün doğruluğuna şəhadət verər və Sənin fəzlinin təzahürləri ilə mübahisə etməzlər. Onlara Sənin fəzlinin nişanələrini nazil eylə və Sənin bəndələrin arasında ən möminlərinə müəyyən etdiyindən onlara, harada yaşasalar da, bol pay əta eylə. Sən, həqiqətən, Ali Hökmran, Ən Kəramətli və Ən Comərdsən.
 
@@ -29,6 +115,8 @@ Mənə, Ey mənim Allahım, təyin olunmuş Gündə Sənin əlamətlərinə iman
 (Bahaiprayers.net ID: 4692)
 
 
+
+
 ### <a id="bpn4706"></a> Prayer bpn4706 in Azərbaycan
 Yalvarıram, bağışla məni, Ey mənim Allahım və Özün bəndələrinin Sənə necə üz tutmalarını istədiyin kimi, Sənin əfvini rica edirəm. Yalvarıram Sənə, Rəbliyinə layıq olan tərzdə bizim günahlarımızı sil və Öz əzəmətinin şərəfinə layiq və qüdrətinin cəlalına yaraşan şəkildə məni, valideynlərimi və Sənin məhəbbət məkanına daxil olmuş saydığın kəsləri bağışla.
 
@@ -38,11 +126,15 @@ Ey mənim Allahım! Sənə üz tutub yalvarmaq üçün ruhumu Sən ilhamlandırd
 (Bahaiprayers.net ID: 4706)
 
 
+
+
 ### <a id="bpn4707"></a> Prayer bpn4707 in Azərbaycan
 Ya Rəbb! Bu Ən Əzəmətli Zühurda Sən uşaqların öz valideyinləri üçün şəfaətini qəbul edirsən. Bu zühurun xüsusi və sonsuz bəxşişlərindən biri budur. Ona görə də, Ey mehriban Rəbbim, bu bəndənin Sənin təklik astananda xahişini qəbul eylə və onun atasını Sənin fəzl dəryanda qərq eylə, çünki bu oğul Sənə xidmət üçün ayağa qalxıb və Sənin məhəbbətin yolunda daim səy göstərməkdədir. Həqiqətən, Sən Verici, Bağışlayan və Mehribansan.
 
 (Source category: Ailələr)
 (Bahaiprayers.net ID: 4707)
+
+
 
 
 ### <a id="bpn4708"></a> Prayer bpn4708 in Azərbaycan
@@ -59,6 +151,8 @@ Həqiqətən, Sən Əziz, Həmişə Əta Edən və əli açıq Olansan.
 
 
 
+
+
 ## Allaha yaxınlıq üçün dualar
 
 ### <a id="bpn4693"></a> Prayer bpn4693 in Azərbaycan
@@ -72,11 +166,15 @@ Sən, həqiqətən, həmişə Bağışlayan, Ən Şəfqətlisən.
 (Bahaiprayers.net ID: 4693)
 
 
+
+
 ### <a id="bpn4711"></a> Prayer bpn4711 in Azərbaycan
 Həqiqətən, mən Sənin bəndənəm, Ey mənim Allahım, Sənin fəqir, yalvaran, həqir bir məxluqunam. Mən Sənin qapına gəlmişəm, Sənin sığınacağını axtarıram. Mənim razılığım ancaq Sənin məhəbbətində, coşğunluğum Sənin zikrində, şövqüm Sənə itaətdə, sevincim Sənə yaxınlıqda, sakitliyim Sənin vüsalındadır, bununla belə, mən bilirəm ki, bütün yaranmış şeylərin Sənin uca Zatına yolu bağlıdlr və bütün xilqət Sənin batini Varlığına yol tapmaqdan məhrum edilmişdir. Nə zaman mən Sənə yaxınlaşmağa cəhd edirəm, özümdə Sənin fəzlinin nişanələrindən başqa heç nə tapmıram və öz varlığımda Sənin inayətinin aşkar olmasını görürəm. Sadəcə Sənin bir məxluqun olan bir kimsə Səninlə qovuşmağa və Sənin hüzuruna yetişməyə necə can ata bilər, baxmayaraq ki, yaradılmış heç nə, əsla, nə Sənə şərik qoşula bilər, nə də bir şey Səni dərk edə bilər. Bu necə mümkün ola bilər ki, müti bəndə Səni tanısın və Sənin tərifini söyləsin, baxmayaraq ki, Sən Öz səltənətinin ələmətlərini və Öz hökmranlığının ecazkar dəlillərini onun üçün təyin etmisən? Beləliklə, hər bir yaranmış sey şəhadət verir ki, onun Sənin dərgahına yolu onun batini mahiyyətində qoyulmuş məhdudiyyətlərlə bağlanmışdır. Bununla belə, bu şübhəsizdir ki, Sənin cazibən həmişə Sənin yaratdıqlarının zatına xas olmuşdur, hərçənd ki, Sənin inayətinin müqəddəs dərgahına yaraşan şeylər bütün məxluqatın yetişməsindən çox ucadır. Bu, Ey mənim Allahım, Səni tərif etməklə mənim təmamilə acız olduğumu göstərir və Sənə şükr etməkdə mənim hədsiz gücsüzlüyümə dəlalət edir. Və bundan daha çox, Sənin ilahi birliyini dərk etməyə nail olmaqda və Sənin tərifinin, paklığının və cəlalının aydın əlamətlərinə yetişməkdə acizliyimi və gücsüzlüyümü göstərir. Xeyr, Sənin qüdrətinə and olsun, mən Sənin Özündən başqa heç nəyin həsrətində deyiləm, nə də Səndən qeyri bir kimsəni axtarıram.
 
 (Source category: Allaha yaxınlıq üçün dualar)
 (Bahaiprayers.net ID: 4711)
+
+
 
 
 ### <a id="bpn4712"></a> Prayer bpn4712 in Azərbaycan
@@ -90,11 +188,15 @@ Ey mənim Allahım! Sənin lütfünün əlamətlərinə and verirəm, mənə izn
 (Bahaiprayers.net ID: 4712)
 
 
+
+
 ### <a id="bpn4713"></a> Prayer bpn4713 in Azərbaycan
 Ey Allah, mənim Allahım, mənim Məhbubum, mənim ürəyimin Arzusu.
 
 (Source category: Allaha yaxınlıq üçün dualar)
 (Bahaiprayers.net ID: 4713)
+
+
 
 
 ### <a id="bpn4714"></a> Prayer bpn4714 in Azərbaycan
@@ -107,6 +209,8 @@ Odur Şəfqətli, Ən Səxavətli! Ey Allah, mənim Allahım! Sən görürsən m
 
 
 
+
+
 ## Atəş Lövhü, Əhməd Lövhü, Müqəddəs Dənizçi lövhü
 
 ### <a id="bpn4882"></a> Prayer bpn4882 in Azərbaycan
@@ -116,11 +220,15 @@ Hər şeyi Bilən və Hər şeydən Xəbərdar Olan Allahın Kitabında Vəd olu
 (Bahaiprayers.net ID: 4882)
 
 
+
+
 ### <a id="bpn4883"></a> Prayer bpn4883 in Azərbaycan
 Təriflər olsun Sənə, Ey Allah, mənim Allahım! Bu o günlərdir ki, Sən Öz seçilmişlərinə, sevimlilərinə və bəndələrinə Oruc tutmağı hökm etmisən və namazı Sənin birliyini tanıyanlara yüksəliş nərdivanı etdiyin kimi, onu səltənətinin adamlarına bir işıq etmisən. Səni and veriəm, Ey mənim Allahım, bütün bəşəriyyətə izzət və şərəf kimi müəyyən etdiyin bu iki qüdrətli sütuna - Öz dinini imansızların fitnəsindən və şər adamların pis niyyətlərindən hifz eylə. Ya Rəbb, Öz gücün və qüdrətinlə nazil etdiyin o işığı gizlətmə. Sonra Sənin əmrin və hökmranlığınla görünən və görünməyən qoşunlarla Sənə həqiqətən iman gətirənlərə kömək eylə. Səndən başqa Allah yoxdur, Qüdrətli, Ən Qüvvətli.
 
 (Source category: Atəş Lövhü, Əhməd Lövhü, Müqəddəs Dənizçi lövhü)
 (Bahaiprayers.net ID: 4883)
+
+
 
 
 ### <a id="bpn4884"></a> Prayer bpn4884 in Azərbaycan
@@ -154,6 +262,8 @@ Təriflər olsun Sənə, Ey mənim Allahım, çünki Sən bizə kömək etdin ki
 (Bahaiprayers.net ID: 4884)
 
 
+
+
 ### <a id="bpn4885"></a> Prayer bpn4885 in Azərbaycan
 Bunlar, Ey mənim Allahım, Öz bəndələrinə oruc tutmağı fərz buyurduğun günlərdir. Bununla Sən yaratdıqlarına nazil olmuş Qanunlar Kitabının müqəddiməsini bəzədin, göydə və yerdə olanların gözləri qarşısında hökmlərinin Xəzinələrini zinətləndirdin. Sən bu günlərin hər saatına Səndən, elmi bütün yaranmış şeyləri əhatə edən Kəsdən başqa heç kəsin dərk edə bilmədiyi xüsusi bir fəzilət əta etmisən. Sən həm də hər bir ruha bu fəzilətdən Sənin əmr Lövhünə və Sənin qəti hökm Kitablarına uyğun olaraq bir pay ayırmısan. Bundan başqa, bu Kitabların və bu Lövhlərin hər bir vərəqini yerdə olan xalqların və tayfaların hər birinə həsr etmisən.
 
@@ -179,6 +289,8 @@ Bu saat, İlahi, Sənin hər saatdan üstün etdiyin saatdır və onu Sənin mə
 (Bahaiprayers.net ID: 4885)
 
 
+
+
 ### <a id="bpn4886"></a> Prayer bpn4886 in Azərbaycan
 *Novruz, 20 və bəzi illər 21 Martda başlanır və Azərbaycan bəhailəri üçün yeni ilin birinci günüdür
 
@@ -194,6 +306,8 @@ Sən, həqiqətən, Hər şeyi Bilən, Ən Hikmətlisən.
 
 (Source category: Atəş Lövhü, Əhməd Lövhü, Müqəddəs Dənizçi lövhü)
 (Bahaiprayers.net ID: 4886)
+
+
 
 
 ### <a id="bpn4893"></a> Prayer bpn4893 in Azərbaycan
@@ -303,6 +417,8 @@ Ey Əli-Əkbər! Bu lövhə görə öz Rəbbinə şükr eylə ki, Mənim məzlum
 (Bahaiprayers.net ID: 4893)
 
 
+
+
 ### <a id="bpn4894"></a> Prayer bpn4894 in Azərbaycan
 *"Bu gündəlik namazlara, şəfa Duası, Əhməd Lövhü kimi digər bir neçə xüsusi dualarla yanaşı, Həzrət Bəhaullah tərəfindən fövqəladə güc və əhəmiyyət əta edilmişdir və ona görə də onları belə qəbul etmək lazımdır. Möminlər onları şübhəsiz iman və inamla oxumalıdırlar ki, onların vasitəsilə Allahla daha yaxın ünsiyyətə girə bilsinlər və özlərini Onun qanun və hökmləri ilə daha tam uyğunlaşdırsınlar.
 
@@ -342,6 +458,8 @@ Həqiqətən, O Rəhmlidir, Şəfqətlidir. Alqış olsun Allaha, aləmlərin R�
 
 (Source category: Atəş Lövhü, Əhməd Lövhü, Müqəddəs Dənizçi lövhü)
 (Bahaiprayers.net ID: 4894)
+
+
 
 
 ### <a id="bpn4895"></a> Prayer bpn4895 in Azərbaycan
@@ -582,6 +700,8 @@ Sübhandır Ucalar Ucası Rəbbimiz!
 
 
 
+
+
 ## Axşam duası
 
 ### <a id="bpn4691"></a> Prayer bpn4691 in Azərbaycan
@@ -595,6 +715,8 @@ Səndən başqa Allah yoxdur. Sən Qüdrətli, Qalib və İxtiyar Sahibisən.
 (Bahaiprayers.net ID: 4691)
 
 
+
+
 ### <a id="bpn4709"></a> Prayer bpn4709 in Azərbaycan
 Mən necə yata bilərəm, Ey Allah, mənim Allahım, Sənin həsrətini çəkənlərin gözləri Sənin hicranından oyaq ikən; və mən necə uzanıb dincələ bilərəm, Sənin aşiqlərinin qəlbləri Səndən uzaqlıqdan pərişan ikən?
 
@@ -606,6 +728,8 @@ And olsun Sənin Qüdrətinə! İstər yatarkən, istər oyaqkən, Sənin arzula
 (Bahaiprayers.net ID: 4709)
 
 
+
+
 ### <a id="bpn4710"></a> Prayer bpn4710 in Azərbaycan
 *Ey həqiqət axtaran! Əgər Allahın sənin gözünü açmasını istəyirsənsə, Sən gecəyarası Allaha yalvarmalı, Ona dua etməli və Onunla ünsiyyət edərək söyləməlisən:
 
@@ -615,6 +739,8 @@ Həqiqətən, Sən Vericisən, Səxavətli, Mərhəmətli və Bağışlayansan.
 
 (Source category: Axşam duası)
 (Bahaiprayers.net ID: 4710)
+
+
 
 
 
@@ -631,6 +757,8 @@ Rəbbim, Rəbbim! Bunlar Sənin bəndələrindir ki, Sən bəxş etdiyin sığı
 (Bahaiprayers.net ID: 4899)
 
 
+
+
 ### <a id="bpn4900"></a> Prayer bpn4900 in Azərbaycan
 Hüvəllah! Ey Ələst piyaləsindən məst
 
@@ -640,6 +768,8 @@ Ey mənim Allahım! Bu o şəhərdir ki, orada Sənin məhəbbətinin atəşi ş
 
 (Source category: Azərbaycan Haqqında Dualar)
 (Bahaiprayers.net ID: 4900)
+
+
 
 
 ### <a id="bpn4901"></a> Prayer bpn4901 in Azərbaycan
@@ -657,6 +787,8 @@ Ey Allahın dostları! Deyilir ki, Qafqaz əslində Qaf dağıdır və Qaf dağ�
 
 
 
+
+
 ## Bağışlanma duası
 
 ### <a id="bpn4694"></a> Prayer bpn4694 in Azərbaycan
@@ -668,6 +800,8 @@ Bir kəs yoxdur ki, İlahi, mənimlə comərd davransın, o kəs ki, üzümü on
 
 (Source category: Bağışlanma duası)
 (Bahaiprayers.net ID: 4694)
+
+
 
 
 ### <a id="bpn4715"></a> Prayer bpn4715 in Azərbaycan
@@ -683,6 +817,8 @@ Ya Rəbb! Mənim bütünlüklə Sənin İradənə təslim olmağıma və xidmət
 (Bahaiprayers.net ID: 4715)
 
 
+
+
 ### <a id="bpn4716"></a> Prayer bpn4716 in Azərbaycan
 Mən o kəsəm ki, İlahi, üzünü Sənə tutub, ümidini Sənin fəzlinin möcüzələrinə və kəramətinin təzəhürlərinə bağlayıb. Səndən diləyim budur ki, məni mərhəmət qapından peşiman qaytarmayasan və Əmrini inkar edənlərin ixtiyarına buraxmayasan.
 
@@ -692,11 +828,15 @@ Mən Sənin bəndənəm, Ey mənim Allahım və bəndənin oğluyam. Sənin gün
 (Bahaiprayers.net ID: 4716)
 
 
+
+
 ### <a id="bpn4717"></a> Prayer bpn4717 in Azərbaycan
 Sən görürsən məni, İlahi, Səndən başqa hər şeydən uzaqlaşaraq üzümü Sənin səxavət və əta dəryana tutmuşam. Rica edirəm, Sənin Turdakı Zühur Nurunun parıltıları və Həmişə Bağışlayan Adının üfüqündən doğan fəzl Günəşinin şuaları xatirinə, Öz əfvini mənə qismət et və mənə onu yaz ki, Sənin Adınla məni xilqət aləmində ucaltsın. Yardım et mənə, İlahi, üzümü Sənə tutum və Sənin övliyalarının nidasını eşidim, o kəslər ki, dünyanın gücləri onları zəiflədə bilmədi, ümmətlərin hökmranlığı onları Səndən uzaq saxlamaqda aciz qaldı, o kəslər ki, Sənə tərəf gələrək söyləmişlər: “Allah bizim Rəbbimizdir, göydə və yerdə olanların Rəbbidir.”
 
 (Source category: Bağışlanma duası)
 (Bahaiprayers.net ID: 4717)
+
+
 
 
 ### <a id="bpn4718"></a> Prayer bpn4718 in Azərbaycan
@@ -714,6 +854,8 @@ Sən o Kəssən ki, qüdrəti əzəldən ədəbiyyətə qədərdir. Heç bir şe
 (Bahaiprayers.net ID: 4718)
 
 
+
+
 ### <a id="bpn4719"></a> Prayer bpn4719 in Azərbaycan
 Ucalsın Sənin adın, Ey mənim Allahım və bütün şeylərin Allahı, mənim Şərəfim və bütün şeylərin Şərəfi, mənim Məqsudum və bütün şeylərin Məqsudu, mənim Qüvvətim və bütün şeyləri Qüvvəti, mənim Sultanım və bütün şeylərin Sultanı, mənim Sahibim və bütün şeylərin Sahibi, mənim Mətləbim və bütün şeylərin Mətləbi, mənim Hərəkətə Gətirənim və bütün şeylərin Hərəkətə Gətirəni! Diləyirəm səndən, Öz mərhəmət dəryandan məni mərhum etmə və Sənə yaxınlıq sahilindən məni uzaq salma.
 
@@ -725,11 +867,15 @@ Sonra, İlahi, Öz bəndələrini və kənizlərini bağışla. Sən, həqiqət�
 (Bahaiprayers.net ID: 4719)
 
 
+
+
 ### <a id="bpn4725"></a> Prayer bpn4725 in Azərbaycan
 Sən, Ey Bağışlayan Rəbb! Sənsən bütün bu bəndələrin sığınacağı. Sən bütün sirlərdən agahsan və hər şeydən xəbərdarsan. Biz hamımız acizik, Sən isə Qüdrətli və Qüvvətlisən. Biz hamımız günahkarıq, Sən isə günahları Bağışlayan, Mərhəmətli və Şəfqətlisən. İlahi! Bizim qüsurlarımıza baxma. Öz fəzl və bəxşişinlə bizimlə rəftar eylə. Bizim qüsurlarımız çoxdur, amma Sənin əfv dənizin tükənməzdir. Bizim acizliyimiz böyükdür, lakin Sənin kömək və yardımın bəllidir. Ona görə də yardımınla bizi müvəffəq eylə və qüvvətləndir. Bizi Sənin Müqəddəs Astanana layiq olan əməllər etməyə qadir eylə. Ürəklərimizi nurlandır, bizə bəsirət gözləri bağışla və eşidən qulaqlar əta eylə. Ölülərə həyat ver və xəstələrə şəfa bağışla. Yoxsullara zənginlik və qorxaqlara əmin-amanlıq ver. Bizi Öz Mələkutuna qəbul eylə və hidayət nuru ilə işıqlandır. Sən Qüdrətli və Qüvvətlisən. Sən Səxavətlisən. Sən Rəhmlisən. Sən Mehribansan.
 
 (Source category: Bağışlanma duası)
 (Bahaiprayers.net ID: 4725)
+
+
 
 
 ### <a id="bpn4720"></a> Prayer bpn4720 in Azərbaycan
@@ -745,11 +891,15 @@ Sənsən Hökmran Hakim, Qüdrətli Xaliq, Uca və Ən Sevimli.
 (Bahaiprayers.net ID: 4720)
 
 
+
+
 ### <a id="bpn4721"></a> Prayer bpn4721 in Azərbaycan
 Şükrlər olsun Sənə, Ya Rəbb! Bizim günahlarımızı əfv et, bizə rəhm eylə və Sənə qayıtmağa qadir eylə. İzn vermə ki, Səndən başqasına bel bağlayaq və Öz kəramətinlə bizə bəyəndiyin, razı qaldığın şeyləri və Sənə yaraşanları qismət eylə. Sənə həqiqətən inananların məqamını ucalt və Öz bağışlayıcılıq fəzlinlə onları əfv eylə. Həqiqətən, Sən Əzəmətli və Qəyyumsan.
 
 (Source category: Bağışlanma duası)
 (Bahaiprayers.net ID: 4721)
+
+
 
 
 ### <a id="bpn4722"></a> Prayer bpn4722 in Azərbaycan
@@ -759,6 +909,8 @@ Yalvarıram Sənə, İlahi, bağışla məni, Sənin zikrindən başqa hər bir 
 (Bahaiprayers.net ID: 4722)
 
 
+
+
 ### <a id="bpn4723"></a> Prayer bpn4723 in Azərbaycan
 Şükrlər olsun sənə, Ey Allah! Sən bütün aləm əhlinin zikrindən uca ikən, mən səni necə zikr edə bilərəm. Alqış Sənin Adına, İlahi, Sən Sultansan, Əbədi Həqiqətsən; göylərdə və yerdə olanlar Sənə agahdır və hamı Sənə qayıdacaqdır. Sən Öz İlahi Əmrini müəyyən və aydın bir ölçü ilə nazil etmisən. Alqış Sənə, Ya Rəbb! Sən istədiyin kəsi Öz əmrinlə, göyün bə yerin qoşunları və onların arasındakı hər şeylə qalib edirsən. Sən Hökmran, Əbədi Həqiqət və yenilməz qüdrət Rəbbisən.
 
@@ -766,6 +918,8 @@ Təriflər olsun Sənə, İlahi! Sən Öz bəndələrin arasından Səni əfvin 
 
 (Source category: Bağışlanma duası)
 (Bahaiprayers.net ID: 4723)
+
+
 
 
 ### <a id="bpn4724"></a> Prayer bpn4724 in Azərbaycan
@@ -778,6 +932,8 @@ Anlayiram mən, Ya Rəbb, xətalarım Sənin hüzurunda üzümü xəcalətlə qa
 
 
 
+
+
 ## Birlik duaları
 
 ### <a id="bpn4696"></a> Prayer bpn4696 in Azərbaycan
@@ -785,6 +941,8 @@ Ey mənim Allahım, Ey mənim Allahım! Sənə xıdmət edənlərin qəlblərini
 
 (Source category: Birlik duaları)
 (Bahaiprayers.net ID: 4696)
+
+
 
 
 ### <a id="bpn4730"></a> Prayer bpn4730 in Azərbaycan
@@ -800,6 +958,8 @@ Həqiqətən, Sən Qüdrətli, Qəyyum, Əta Edən, Bağışlayan, Əfvedən, H�
 
 (Source category: Birlik duaları)
 (Bahaiprayers.net ID: 4730)
+
+
 
 
 
@@ -873,6 +1033,8 @@ Ey mənim Allahım, Sənin seçilmişlərinin şəhadət verdiklərinə şəhad�
 
 
 
+
+
 ## Bəşəriyyət üçün dualar
 
 ### <a id="bpn4695"></a> Prayer bpn4695 in Azərbaycan
@@ -886,6 +1048,8 @@ Hamımız fəqir və möhtacıq, Sən isə həqiqətən, Hər Şeyə Malik, Hər
 (Bahaiprayers.net ID: 4695)
 
 
+
+
 ### <a id="bpn4726"></a> Prayer bpn4726 in Azərbaycan
 Sən Ey Şəfqətli Allah, Sən Ey Səxavətli və Qadir! Biz Sənin İlahi qüvvətinin altında pənah tapmış bəndələrik. Öz lütfünlə bizə bir nəzər sal. Gözlərimizə işıq ver, qulaqlarimizı eşıdən et, qəlblərımızə anlayış və məhəbbət sal. Müjdələrinlə ruhlarimizı şad və xoşhal eylə. Ya Rəbb! Sənin mələkutuna gedən yolu bizə göstər, Müqəddəs Ruhun nəfəsilə bizim hamımızı dirilt. Bizə əbədi həyat əta eylə və tükənməz şərəf bəxş et. Bəşəriyyəti birləşdir və insan aləmini işqlandır. Qoy hamımız Sənin yolunla gedək, Sənin razılığını arzu edək və Sənin mələkutunun sirlərini axtaraq. İlahi! Bizi birləşdir, Sənin qırılmaz tellərinlə ürəklərimizi bir-birinə bağla. Həqiqətən, Sən Bəxşedən, Mehriban və Qüdrətlisən.
 
@@ -893,11 +1057,15 @@ Sən Ey Şəfqətli Allah, Sən Ey Səxavətli və Qadir! Biz Sənin İlahi qüv
 (Bahaiprayers.net ID: 4726)
 
 
+
+
 ### <a id="bpn4727"></a> Prayer bpn4727 in Azərbaycan
 Sən Ey Mehriban Allah! Sən Ey Səxavətli və Mərhəmətli! Biz Sənin astananın bəndələriyik və Sənin İlahi birliyinin kölgəsinə sığınmışıq. Sənin mərhəmət işığın hamının üstünə saçır və Sənin inayət buludlarının yağışları hamının üzərinə yağır. Sənin bəxşişlərin hamını bürüyüb və Sənin fəzlin hamını saxlayır, Sənin himayən hamıya kölgə salır, Sənin lütf nəzərin hamının üzərindədir. İlahi! Sonsuz lütfünü bəxş et və qoy hidayət çırağı şölə sacsın. Gözləri nurlandır və daimi sevinclə ürəkləri sevindir. Bütün xalqlara yeni ruh əta eylə və əbədi həyat baxş eylə. İrfan qapılarını aç və iman nurunu parlat. Bütün xalqları kəramətinin kölgəsinə topla və onları barış içində birləşdir, ta ki, bir günəşin şuaları, bir dənizin dalğaları və bir ağacın meyvələri olsunlar. Qoy onalr eyni bir çeşmədən su içsinlər. Qoy onlar eyni bir nəsimlə təravətlənsinlər. Qoy onlar eyni bir nur mənbəyindən işıq alsınlar. Sənsən Ətaedən, Sənsən Mərhəmətli və Qüdrətli.
 
 (Source category: Bəşəriyyət üçün dualar)
 (Bahaiprayers.net ID: 4727)
+
+
 
 
 ### <a id="bpn4728"></a> Prayer bpn4728 in Azərbaycan
@@ -921,6 +1089,8 @@ Sən Qüdrətli və Qüvvətlisən, Sən Bağışlayansan və Sən O Kəssən ki
 (Bahaiprayers.net ID: 4728)
 
 
+
+
 ### <a id="bpn4729"></a> Prayer bpn4729 in Azərbaycan
 Ey Allah, Sən O Allahsan ki, bilik və hidayətin parlaq şüalarını insanların üzərinə saçaraq, Öz şəfəqlərini onların parlaq zatının üzərinə səpdi və onları bütün yaranmışların arasında bu yüksək fəzl üçün seçdi və onları qeyb aləmindən görünən aləmə gətirməklə hər şeyi əhatə etməyə, onların batini mahiyyətini dərk etməyə, onların sirlərini açmağa qabil etdi! “O Öz nemətini istədiyi şəxsə bəxş edər.” 1 (Quran, 3:73)
 
@@ -930,6 +1100,8 @@ Sən, həqiqətən, Qüdrətli, Hifzedən, Qadir, Qoruyan, Əzəmətli və Ən K
 
 (Source category: Bəşəriyyət üçün dualar)
 (Bahaiprayers.net ID: 4729)
+
+
 
 
 
@@ -946,6 +1118,8 @@ Alqış Sənin adına, Ey Sultanlar Sultanı.
 (Bahaiprayers.net ID: 4755)
 
 
+
+
 ### <a id="bpn4756"></a> Prayer bpn4756 in Azərbaycan
 Sübhansan Sən, Ey mənim Allahım! Sənə şükr edirəm ki, mənə Zühurunun Məşriqi, Mərhəmətinin Məzhəri, Əmrinin Xəzinəsi olan Kəsi tanıtdırdın. Yalvarıram Sənə, o Adınla ki, onunla yaxınların üzləri ağ oldu və sadiqlərin könulləri Sənə tərəf qanad açdı- mənə qismət eylə ki, mən hər zaman və hər bir halda Sənin ipindən yapışım, Səndən başqa hər kəsdən əlimi üzüm, gözlərimi Sənin Vəhy üfüqünə dikim, Lövhlərində mənə əmr etdiklərini yerinə yetirim.
 
@@ -955,6 +1129,8 @@ Sən, həqiqətən, bütün bəşərin Rəbbisən, bu dünyanın və o biri dün
 
 (Source category: Dünyaya Bağlanmamaq Duaları)
 (Bahaiprayers.net ID: 4756)
+
+
 
 
 ### <a id="bpn4757"></a> Prayer bpn4757 in Azərbaycan
@@ -968,6 +1144,8 @@ Sən, həqiqətən, aləmlərin Rəbbi, göydə və yerdə olanların Allahısan
 (Bahaiprayers.net ID: 4757)
 
 
+
+
 ### <a id="bpn4758"></a> Prayer bpn4758 in Azərbaycan
 Neçə-neçə buz bağlamış ürək, Ey mənim Allahım, Sənin Əmrinin atəşindən oda qalandı və necə-necə qafil Sənin nidanın şirinliyindən oyandı. Sənin günlərində necə-necə qərib Sənin vahidlik ağacının kölgəsinə sığındı və necə-necə təşnə dirilik suyunun çeşməsinə can atdı.
 
@@ -977,6 +1155,8 @@ Səni and verirəm, İlahi, Sənin adın olan Kəsə, o Kəs ki, Sənin hökmran
 
 (Source category: Dünyaya Bağlanmamaq Duaları)
 (Bahaiprayers.net ID: 4758)
+
+
 
 
 ### <a id="bpn4759"></a> Prayer bpn4759 in Azərbaycan
@@ -990,6 +1170,8 @@ Sən istədiyini etməyə Qadirsən. Həqiqətən, Sən Qüdrətli və Ən Səxa
 
 (Source category: Dünyaya Bağlanmamaq Duaları)
 (Bahaiprayers.net ID: 4759)
+
+
 
 
 ### <a id="bpn4760"></a> Prayer bpn4760 in Azərbaycan
@@ -1007,6 +1189,8 @@ Səndən başqa Allah yoxdur, Ən Qüdrətli və Ehsan Edən Allah.
 (Bahaiprayers.net ID: 4760)
 
 
+
+
 ### <a id="bpn4761"></a> Prayer bpn4761 in Azərbaycan
 Ya Rəbb! Sənə pənah gətirirəm və könlümü büsbütün Sənin nişanələrinə verirəm.
 
@@ -1022,11 +1206,15 @@ Mütləq hökm etmək ixtiyarı Səndədir.
 (Bahaiprayers.net ID: 4761)
 
 
+
+
 ### <a id="bpn4762"></a> Prayer bpn4762 in Azərbaycan
 Söylə: Allah hər üstün şeydən üstün Kifayətedicidir, yerdə və göydə olanlardan heç nə yox, yalnız Allah kifayətedicidir. Həqiqətən, O, Zatında Bilici, Yardımçı və Qüdrətlidir.
 
 (Source category: Dünyaya Bağlanmamaq Duaları)
 (Bahaiprayers.net ID: 4762)
+
+
 
 
 ### <a id="bpn4763"></a> Prayer bpn4763 in Azərbaycan
@@ -1042,6 +1230,8 @@ Sən, həqiqətdə, Qüdrətli, Ən Cəlallı və Ən Qüvvətlisən.
 (Bahaiprayers.net ID: 4763)
 
 
+
+
 ### <a id="bpn4764"></a> Prayer bpn4764 in Azərbaycan
 Ey Allah, mənim Allahım! Mənim üçün inqita piyaləsini doldur və Sənin cəlal və ehsan məclisində Öz məhəbbətinin şərabı ilə məni xoşhal eylə. Məni ehtiras və həvəsin hücumlarından qoru, bu rəzil dünyanın qandallarından məni azad et, məni heyranlıqla Öz uca səltənətinə cəzb eylə və mələklər arasında Sənin müqəddəslik nəfəsinlə məni təravətləndir.
 
@@ -1051,6 +1241,8 @@ Sən, həqiqətən, Qüvvətli, Həmişə Bəxşedən, Qadir və Güclüsən.
 
 (Source category: Dünyaya Bağlanmamaq Duaları)
 (Bahaiprayers.net ID: 4764)
+
+
 
 
 
@@ -1067,6 +1259,8 @@ Sən Ey Mehriban Allah! İzn ver, bu gənc, o pak övliyaların can atdığı ə
 (Bahaiprayers.net ID: 4736)
 
 
+
+
 ### <a id="bpn4737"></a> Prayer bpn4737 in Azərbaycan
 Sən Ey Mehriban Allah! Mərhəmətlə bu körpə quşların hər birinə bir cüt səmavi qanad əta eylə və onlara ruhani qüvvə ver ki, bu sonsuz fəzada pərvaz etsinlər və Əbha Mələkutunun zirvəsinə yetişsinlər.
 
@@ -1078,6 +1272,8 @@ Sən Qüvvətli və Qüdrətlisən; Sən Ətaedən və Sevənsən.
 (Bahaiprayers.net ID: 4737)
 
 
+
+
 ### <a id="bpn4738"></a> Prayer bpn4738 in Azərbaycan
 Sən Ey mehriban Allah! Bu mələkut qızına Öz səmavi təyidini bəxş eylə və mərhəmətlə ona kömək eylə ki, Sənin Əmrində möhkəm və səbatlı qalsın, əsrarəngiz gülşənin bülbülü kimi Əbha Mələkutunda ecazkar avazla oxusun və bununla hamıya şadlıq və sevinc gətirsin.
 
@@ -1087,6 +1283,8 @@ Sən Ətaedən və Sevənsən.
 
 (Source category: Gənclər üçün dualar)
 (Bahaiprayers.net ID: 4738)
+
+
 
 
 ### <a id="bpn4739"></a> Prayer bpn4739 in Azərbaycan
@@ -1102,11 +1300,15 @@ Həqiqətən, Sən Ən Qüdrətli, Ən Cəllallı və Qadirsən.
 (Bahaiprayers.net ID: 4739)
 
 
+
+
 ### <a id="bpn4740"></a> Prayer bpn4740 in Azərbaycan
 Ya Rəbb! Bu gənci işıq saçan eylə və Öz nemətini bu fəqir varlığın üzərinə yağdır. Ona həqiqi bilik əta eylə, hər dan yeri açılanda ona yeni güc bəxş eylə və onu Öz mühafizə çadırında qoru, ta ki, o, səhvlərdən azad olsun, özünü Sənin Əmrinə xidmətə həsr etsin, yolunu azmışlara yol göstərsin, biçarələri yönəltsin, əsirləri azad etsin, qafilləri oyatsın ki, hamı Sənin zikrin və tərifinlə xeyr-dua alsın. Sən Qüdrətli və Qüvvətlisən.
 
 (Source category: Gənclər üçün dualar)
 (Bahaiprayers.net ID: 4740)
+
+
 
 
 
@@ -1127,6 +1329,8 @@ Sənsən, həqiqətən, Ən Cəlallı, Ən Kəramətli.
 (Bahaiprayers.net ID: 4741)
 
 
+
+
 ### <a id="bpn4742"></a> Prayer bpn4742 in Azərbaycan
 Alqış Sənə, Ya Rəbb, mənim Allahım! Bu Sənin bəndəndir ki, Sənin fəzlinin əllərindən mərhəmət şərabını içdi və Sənin günlərində Sənin məhəbbətinin dadını bildi. Səni and verirəm, Sənin adlarının mücəssəmələrinə, o kəslər ki, Sənin sevgində sevinclərinə və nəzərlərini Sənin üzünə dikmələrinə kədər mane ola bilməz və o kəslər ki, qafillərin qoşunları Sənin razılıq yolundan onları döndərməkdə acizdir - ona Sənin malik olduğun xeyirləri nəsib eylə və onu elə zirvələrə qaldır ki, bu dünyaya o, bir göz qırpımından da tez yox olan bir kölgə kimi baxsın.
 
@@ -1134,6 +1338,8 @@ Daha sonra, Ey mənim Allahım, sonsuz əzəmətinin gücü ilə onu Sənin bəy
 
 (Source category: Hifz duaları)
 (Bahaiprayers.net ID: 4742)
+
+
 
 
 ### <a id="bpn4743"></a> Prayer bpn4743 in Azərbaycan
@@ -1147,11 +1353,15 @@ Sən, həqiqətən, Qüdrətli, Ən Uca, Həmişə Bağışlayan, Ən Səxavətl
 (Bahaiprayers.net ID: 4743)
 
 
+
+
 ### <a id="bpn4744"></a> Prayer bpn4744 in Azərbaycan
 Ey Allah, mənim Allahım! Mən öz evimdən Sənin məhəbbət ipindən tutaraq çıxdım və özümü tamamilə Sənin hifz və himayənə tapşırdım. Səni and verirəm o qüvvətinə ki, onunla Sən sevimlilərini hər azğın və sapqından, itaətsiz zalımdan və Səndən uzaqlaşmış hər bir şər adamdan qorudun - Öz kərəm və fəzlinlə məni mühafizə eylə. Sonra qadir eylə ki, qüvvət və qüdrətinlə evimə dönüm. Sən, həqiqətən, Qüdrətli, Əzəmətli və Qəyyumsan.
 
 (Source category: Hifz duaları)
 (Bahaiprayers.net ID: 4744)
+
+
 
 
 ### <a id="bpn4745"></a> Prayer bpn4745 in Azərbaycan
@@ -1161,6 +1371,8 @@ Sən Ey Sultanlar Sultanı! Sən Ey mehriban Rəbb! Sən Ey əzəli bəxşiş, s
 
 (Source category: Hifz duaları)
 (Bahaiprayers.net ID: 4745)
+
+
 
 
 ### <a id="bpn4746"></a> Prayer bpn4746 in Azərbaycan
@@ -1176,6 +1388,8 @@ Qüvvət və qüdrət yalnız Allaha məxsusdur, Uca və Ulu Allaha.
 (Bahaiprayers.net ID: 4746)
 
 
+
+
 ### <a id="bpn4747"></a> Prayer bpn4747 in Azərbaycan
 Alqış Sənə, Ey Allah! Sən O Allahsan ki, hər şeydən öncə var olmuş, sonra da var olacaq, varlığı hər şeyin fövqündə daim qalacaq. Sən O Allahsan ki, hər şeyi bilir və hər şeydən yüksəkdir. Sən O Allahsan ki, hər şeyə mərhəmətlə yanaşır, hər şeyi mühakimə edir və Onun baxışı hər şeyi əhatə edir. Sənsən mənim Rəbbim Allah, Sən mənim halımı bilirsən, batini və zahiri varlığıma şahidsən.
 
@@ -1183,6 +1397,8 @@ Məni və Çağırışına cavab verənləri bağışla. Mənə ziyan vurmaq ist
 
 (Source category: Hifz duaları)
 (Bahaiprayers.net ID: 4747)
+
+
 
 
 ### <a id="bpn4748"></a> Prayer bpn4748 in Azərbaycan
@@ -1198,11 +1414,15 @@ Nəhayətsiz ucasan Sən, Ya Rəbb! Qarşımızda və arxamızda, başımızın 
 (Bahaiprayers.net ID: 4748)
 
 
+
+
 ### <a id="bpn4749"></a> Prayer bpn4749 in Azərbaycan
 Ey Allah, mənim Allahım! Nəfs və ehtirasın şərinə qarşı Öz mömin bəndələrinə sipər ol, Sənin inayətinin ayıq gözlərilə bütün kin, nifrət və həsəddən onları mühafizə eylə, Sənin qayğının alınmaz qalasında onlara sığınacaq ver, şübhə oxlarından onları qoru, onları Sənin şanlı əlamətlərinin məzhərləri eylə, Sənin ilahi birlik Günəşinin parlaq şüaları ilə onların çöhrəsini nurlandır, Sənin müqəddəs mələkutundan nazil olan ayələrlə onların könüllərini sevindir, Sənin şərəf səmandan gələn hər şeyi hərəkətə gətirən qüvvətinlə onların qurşaqlarını bərkit. Sən ən Kəramətli, Hifzedən, Qüdrətli, Fəzl Sahibisən.
 
 (Source category: Hifz duaları)
 (Bahaiprayers.net ID: 4749)
+
+
 
 
 ### <a id="bpn4750"></a> Prayer bpn4750 in Azərbaycan
@@ -1214,6 +1434,8 @@ Həqiqətən, Sən Himayədar, Hifzedən, Qoruyan, Kifayətedənsən və həqiq�
 
 (Source category: Hifz duaları)
 (Bahaiprayers.net ID: 4750)
+
+
 
 
 ### <a id="bpn4751"></a> Prayer bpn4751 in Azərbaycan
@@ -1238,6 +1460,8 @@ Sən Ey İlahi Təqdir Sahibi, bizi saxla və hifz eylə! Sən Ey bizim Qalxanı
 
 
 
+
+
 ## Hüququllah-Allahın Hüququ
 
 ### <a id="bpn4887"></a> Prayer bpn4887 in Azərbaycan
@@ -1249,6 +1473,8 @@ Təriflər Sənə, Ey bütün xilqətin Rəbbi, Ey bütün şeylərin qayıdaca�
 (Bahaiprayers.net ID: 4887)
 
 
+
+
 ### <a id="bpn4888"></a> Prayer bpn4888 in Azərbaycan
 Alqış Sənə, Ey mənim Şəfqətli Rəbbim! Səni and verirəm Sənin müqəddəs bəyan dəryanın təlatümünə və Sənin ali hökmranlığının saysız nişanələrinə, Sənin Allahlığının qəti dəlillərinə və Sənin elmində gizli qalan sirlərinə - mənə Sənə və Sənin seçilmişlərinə xidmət etmək fəzli əta eylə və məni qadir et ki, Kitabında hökm etdiyin Hüququnu lazımınca ödəyim.
 
@@ -1258,6 +1484,8 @@ Rica edirəm Səndən, Ey bütün adların Rəbbi və göylərin Yaradanı, güc
 
 (Source category: Hüququllah-Allahın Hüququ)
 (Bahaiprayers.net ID: 4888)
+
+
 
 
 
@@ -1285,6 +1513,8 @@ Ey mənim Rəbbim Allah, İlahi Sidrəyə, onun yarpaqlarına, budaqlarına, pö
 
 
 
+
+
 ## Həzrət Əbdül -Bəhanın Ziyarətnaməsi
 
 ### <a id="bpn4897"></a> Prayer bpn4897 in Azərbaycan
@@ -1309,6 +1539,8 @@ Sən Bəxşedən, Mərhəmətli, Kəramətli, Fəzl Sahibi, Rəhmli və Şəfqə
 
 
 
+
+
 ## Kömək və yardım duaları
 
 ### <a id="bpn4765"></a> Prayer bpn4765 in Azərbaycan
@@ -1320,6 +1552,8 @@ Sən, həqiqətən, bütün insanların Sultanısan! Səndən başqa Allah yoxdu
 (Bahaiprayers.net ID: 4765)
 
 
+
+
 ### <a id="bpn4766"></a> Prayer bpn4766 in Azərbaycan
 Mənim Allahım, Məbudum, Sultanım, Məqsudum! Sənə şükrlərimi hansı dil bəyan edə bilər? Qafil idim, ayıltdın, Səndən üz çevirmişdim, Sənə tərəf dönməyimə mərhəmətlə kömək etdin. Ölü idim, dirilik suyu ilə mənə həyat verdin. Solmuşdum, Ən Mərhəmətlinin Qələmindən axan bəyan Kövsərindən mənə təravət bağışladın.
 
@@ -1327,6 +1561,8 @@ Ey Pərvərdigar! Bütün mövcudat Sənin kəramətindən yaranmışdır; Öz s
 
 (Source category: Kömək və yardım duaları)
 (Bahaiprayers.net ID: 4766)
+
+
 
 
 ### <a id="bpn4767"></a> Prayer bpn4767 in Azərbaycan
@@ -1342,11 +1578,15 @@ Söylə: Həqiqətən, Allah bütün şeylərin Xaliqidir! O bol ruzini istədiy
 (Bahaiprayers.net ID: 4767)
 
 
+
+
 ### <a id="bpn4768"></a> Prayer bpn4768 in Azərbaycan
 Ey mənim Allahım, mənim Rəbbim və mənim Mövlam! Mən yaxınlarımdan ayrılmışam, Sənin vasitənlə dünya əhlindən asılılıqdan qurtulmağa çalışmış və Sənin nəzərində layiqli olanları əldə etməyə tam hazır olmuşam. Mənə o nemətləri bəxş eylə ki, onunla Səndən başqa hər şeydən azad olum və mənə sonsuz bərəkətlərindən bol pay əta eylə. Həqiqətən, Sən böyük fəzl Sahibisən.
 
 (Source category: Kömək və yardım duaları)
 (Bahaiprayers.net ID: 4768)
+
+
 
 
 ### <a id="bpn4769"></a> Prayer bpn4769 in Azərbaycan
@@ -1360,6 +1600,8 @@ Gündəlik ruzimizi ver və bərəkətini ehsan et, ta ki, Səndən başqa heç 
 (Bahaiprayers.net ID: 4769)
 
 
+
+
 ### <a id="bpn4770"></a> Prayer bpn4770 in Azərbaycan
 Sən Ey mehriban Allah! Biz Sənin astananın bəndələriyik, Sənin müqəddəs Qapına sığınmışıq. Biz bu möhkəm sütundan başqa sığınacaq axtarmırıq, Sənin himayə pənahından başqa heç yerə üz tutmuruq. Bizi hifz eylə, inayət eylə, himayə göstər, bizi qabil eylə ki, ancaq Sənin razılığını sevək, təkcə Sənin tərifini söyləyək, yalnız həqiqət yolunda addımlayaq, ta ki, kifayət qədər zəngin olaq, Səndən başqa heç kimə möhtac olmayaq və Sənin səxavət dənizindən öz bəxşişlərimizi alaq; ta ki, hər zaman Sənin Əmrini ucaltmağa və Sənin şirin rahiyələrini yaymağa çalışaq; ta ki, özümüzü unudaq, yalnız Səninlə məşğul olaq və hamıdan əl üzək, Sənə bağlanaq.
 
@@ -1367,6 +1609,8 @@ Sən Ey Ruzi verən, Sən Ey Bağışlayan! Öz fəzlini, inayətini, feyzlərin
 
 (Source category: Kömək və yardım duaları)
 (Bahaiprayers.net ID: 4770)
+
+
 
 
 ### <a id="bpn4771"></a> Prayer bpn4771 in Azərbaycan
@@ -1378,6 +1622,8 @@ Sən, həqiqətən, Təksən, Vahidsən, Qüdrətli, Hər Şeyi Bilən və Ən H
 
 (Source category: Kömək və yardım duaları)
 (Bahaiprayers.net ID: 4771)
+
+
 
 
 
@@ -1397,6 +1643,8 @@ Və o zaman ki, O, bəşərə öz fəzl və ehsanını zahir etməyi və dünyan
 (Bahaiprayers.net ID: 4780)
 
 
+
+
 ### <a id="bpn4781"></a> Prayer bpn4781 in Azərbaycan
 Odur Allah! Ey misilsiz Rəbb! Öz qüdrətli hikmətinlə Sən ümmətlərə nigah bağlamağı əmr etdin ki, bu dünyada insanların nəsilləri bir-birini əvəz etsin və həmişəlik, dünya durduqca onlar Sənin vahidlik Astananda özlərini bəndəlik və ibadət, alqış, pərəstiş və şükrlə məşğul etsinlər. "Mən ruhları və insanları ancaq mənə ibadət etmək üçün yaratdım!" 1(Quran, 3:67) Ona görə də öz Rəhmaniyyət səmandan, Sənin məhəbbət yuvanın bu iki quşunun nigahını kəs və onları daimi fəzli cəzb edən vasitə eylə; ta ki, bu iki məhəbbət dənizindən zərif bir dalğa qalxsın və inci kimi nəcib nəsillərin mirvariləri həyat dənizi sahilinə tökülsün. " O, bu iki dənizi açıb buraxdı ki, onlar bir-biri ilə govuşsunlar: Onların arasında keçilməyən bir sərhəd vardır. Onda Rəbbinizin hansı bəxşişlərini inkar edə bilərsiniz. Hər birindən O, iri və kiçik incilər çıxarır."2 (Quran, 56:62)
 
@@ -1406,11 +1654,15 @@ Sən Ey Mehriban Allah! Bu nigahı mərcan və incilər yetirməyə nail eylə. 
 (Bahaiprayers.net ID: 4781)
 
 
+
+
 ### <a id="bpn4782"></a> Prayer bpn4782 in Azərbaycan
 Alqış Sənə, Ey mənim Allahım! Həqiqətən, Sənin bu bəndən və bu kənizin Sənin mərhəmətinin kölgəsinə daxil olub və Sənin lütf və səxavətinlə qovuşublar. Ya Rəbb! Sənin bu dünyanda və mələkutunda onlara yardım eylə və Öz kəramət və fəzlinlə onlara hər cür xeyir-bərəkət qismət eylə. Ya Rəbb! Onları Sənə bəndəlikdə müvəffəq eylə və Sənə xidmətdə onlara yardım et. Onlara izn ver ki, Sənin Adının bu dünyada nişanələri olsunlar. Bu dünyada və axirətdə tükənməz bəxşişlərinlə onları hifz eylə. Ya Rəbb! Onlar Sənin mərhəmət səltənətinə yalvarır və Sənin təklik hökmranlığını diləyirlər. Həqiqətən, onlar Sənin hökmünə itaət etməklə evləniblər. Onları sonadək ahəng və birlik nişanələri eylə. Həqiqətən, Sən Qadirsən, Hər Yerdə Var Olan və Qüvvətlisən!
 
 (Source category: Nigah duaları)
 (Bahaiprayers.net ID: 4782)
+
+
 
 
 ### <a id="bpn4783"></a> Prayer bpn4783 in Azərbaycan
@@ -1423,6 +1675,8 @@ Həqiqətən, Sən Səxavətlisən. Həqiqətən, Sən Ən Qüdrətlisən, Həqi
 
 
 
+
+
 ## On doqquz gün ziyafəti
 
 ### <a id="bpn4784"></a> Prayer bpn4784 in Azərbaycan
@@ -1430,6 +1684,8 @@ Ey Allah! İxtilafa səbəb olan bütün ünsürləri dağıt, bizə birlik və 
 
 (Source category: On doqquz gün ziyafəti)
 (Bahaiprayers.net ID: 4784)
+
+
 
 
 
@@ -1469,6 +1725,8 @@ Sənin birliyinə və təkliyinə, Sənin Allah olduğuna və Səndən başqa Al
 
 
 
+
+
 ## Osmanli Türkcəsində nazil olmuş dualar
 
 ### <a id="bpn4898"></a> Prayer bpn4898 in Azərbaycan
@@ -1476,6 +1734,8 @@ Hüvəl-Əbha! İlahi! Zülməte-firğət afaqı qapladı və atəşe-həsrət �
 
 (Source category: Osmanli Türkcəsində nazil olmuş dualar)
 (Bahaiprayers.net ID: 4898)
+
+
 
 
 
@@ -1492,6 +1752,8 @@ Alqış Sənə, Ey mənin Allahım! Sənə və Sənin əlamətlərinə iman gət
 (Bahaiprayers.net ID: 4772)
 
 
+
+
 ### <a id="bpn4773"></a> Prayer bpn4773 in Azərbaycan
 Sən görürsən, Ey mənim Allahım, Sənə arxa çevirmiş məxluqatının törətdiyi şər əməllər, Sənin Allahlığının zahir oldugu Kəslə Sənin bəndələrin arasına necə girmişdir. Onlara, Ey mənim Allhım, o şeyləri göndər ki, onları bir-birinin qayğıları ilə məşğul etsin. Sonra isə qoy onların zorakılığı öz aralarında qalsın ki, torpaq və onun üstündə yaşayanlar sakitlik tapa bilsinlər.
 
@@ -1501,6 +1763,8 @@ Sən istədiyini etməyə Qadirsən. Səndən başqa Allah yoxdur, Qüdrətli Al
 
 (Source category: Qadınlar üçün dualar)
 (Bahaiprayers.net ID: 4773)
+
+
 
 
 ### <a id="bpn4774"></a> Prayer bpn4774 in Azərbaycan
@@ -1516,6 +1780,8 @@ Səndən başqa Allah yoxdur, Qüdrətli, Dəyişməz, Kəramət Sahibi, Ən Sə
 (Bahaiprayers.net ID: 4774)
 
 
+
+
 ### <a id="bpn4775"></a> Prayer bpn4775 in Azərbaycan
 Alqış Sənə, ey mənim Allahım! Mənim üzüm Sənin üzünə yönəlmişdir və mənim üzüm, həqiqətən, Sənin üzündür, mənim nidam Sənin nidan, Mənim zühurum Sənin Zühürün və mənim özüm Sənin Özün, mənim Əmrim Sənin Əmrin, mənim hökmüm Sənin hökmün, mənim Varlığım Sənin Varlığın, mənim hökmranlığım, Sənin hökmranlığın, mənim şərəfim Sənin şərəfin, mənim qüdrətim Sənin qüdrətindir.
 
@@ -1527,6 +1793,8 @@ Səndən başqa Allh yoxdur, Qüdrətli, Ən Uca, Ən Nurlu, Qəyyum.
 (Bahaiprayers.net ID: 4775)
 
 
+
+
 ### <a id="bpn4776"></a> Prayer bpn4776 in Azərbaycan
 Alqış Sənə, Ya Rəbb, mənim Allahım! Sən O Kəssən ki, məhəbbətinin atəşi Sənin birliyini tanıyanların ürəyinə od saldı, üzünün nurları Sənin dərgahina yaxın olanların üzünü işıqlandirdi. Necə boldur, Ey mənim Allahım, Sənin irfan suların! Necə şirindir, Ey mənim Məhbubum, mənim Sənə məhəbbətim naminə və Sənin razılığın xatırınə zalımların atdığı öxlardan aldığım zədələr! Necə xoşdur Sənin yolunda və Sənin Dinini bəyan etmək üçün imansızların qılınclarından aldığım yaralar!
 
@@ -1536,6 +1804,8 @@ Mən, İlahi, Sənin o kənizinəm ki, Sənin nidanı eşidib, özündən qaçar
 
 (Source category: Qadınlar üçün dualar)
 (Bahaiprayers.net ID: 4776)
+
+
 
 
 ### <a id="bpn4777"></a> Prayer bpn4777 in Azərbaycan
@@ -1551,11 +1821,15 @@ Sən həqiqətən, qüdrət, güc və cəlal Allahısan.
 (Bahaiprayers.net ID: 4777)
 
 
+
+
 ### <a id="bpn4778"></a> Prayer bpn4778 in Azərbaycan
 Ey mənim Rəbbim, mənim Məhbubum, mənim Məqsudum! Tənhalığımda mənim dostum və sürgünümdə munisim ol. Mənim kədərimi dağıt. Məni gözəlliyinə heyran et. Məni özündən başqa hamıdan ayır. Məni müqəddəslik rayihələrinlə cəzb eylə. Qoy Sənin Mələkutunda onlarla ünsiyyət edim ki, Səndən başqa hamıdan ayrılıblar, Sənin müqəddəs astananda xidmət etməyi arzulayırlar, Sənin Əmrində çalışmaq üçün qalxıblar. Məni Sənin razılığına nail olmuş kənizlərindən biri olmağa qabil eylə. Həqiqətən, Sən Fəzl Sahibi və Səxavətlisən.
 
 (Source category: Qadınlar üçün dualar)
 (Bahaiprayers.net ID: 4778)
+
+
 
 
 ### <a id="bpn4779"></a> Prayer bpn4779 in Azərbaycan
@@ -1565,6 +1839,8 @@ Ey mənim Rəbbim, mənim Məhbubum, mənim Məqsudum! Tənhalığımda mənim d
 
 (Source category: Qadınlar üçün dualar)
 (Bahaiprayers.net ID: 4779)
+
+
 
 
 
@@ -1584,6 +1860,8 @@ Ey mənim Allahim, Səni tanımaq və Sənə ibadət etmək üçün məni yaratd
 
 
 
+
+
 ## Ruhani Məhfildə oxunan dualar
 
 ### <a id="bpn4890"></a> Prayer bpn4890 in Azərbaycan
@@ -1595,6 +1873,8 @@ Ey Allah, Ey mənim Allahım! Biz Sənin bəndələrinik ki, bu əzəmətli Gün
 (Bahaiprayers.net ID: 4890)
 
 
+
+
 ### <a id="bpn4891"></a> Prayer bpn4891 in Azərbaycan
 *Həqiqi sevinc və şadlıqla bir yerə toplaşın və görüşün əvvəlində bu münacatı oxuyun:
 
@@ -1604,6 +1884,8 @@ Sən Ey bizim Pərvərdigarımız! Özün kömək ol ki, buraya toplanmış hər
 
 (Source category: Ruhani Məhfildə oxunan dualar)
 (Bahaiprayers.net ID: 4891)
+
+
 
 
 ### <a id="bpn4892"></a> Prayer bpn4892 in Azərbaycan
@@ -1621,6 +1903,8 @@ Həqiqətən, Sən Səxavətli və Mərhəmətlisən. Sən böyük kəramət Sah
 
 
 
+
+
 ## Ruhani inkişaf üçün dualar
 
 ### <a id="bpn4785"></a> Prayer bpn4785 in Azərbaycan
@@ -1630,6 +1914,8 @@ Məndə təmiz bir ürək yarat, Ey mənim Allahım və sakit bir vicdan oyat, E
 (Bahaiprayers.net ID: 4785)
 
 
+
+
 ### <a id="bpn4786"></a> Prayer bpn4786 in Azərbaycan
 Ey mənim Rəbbim! Gözəlliyini ruzim, hüzurunu suyum, razılığını ümidim, tərifini əməlim, zikrini munisim, hökmranlıq qüdrətini köməyim, məkanını isə evim və Səndən pərdələnmişlərin məhdudiyyətlərindən pak olan məskənim eylə.
 
@@ -1637,6 +1923,8 @@ Sən, həqiqətən, Ən Qüdrətli, Ən Şərəfli, Ən Qüvvətlisən.
 
 (Source category: Ruhani inkişaf üçün dualar)
 (Bahaiprayers.net ID: 4786)
+
+
 
 
 ### <a id="bpn4787"></a> Prayer bpn4787 in Azərbaycan
@@ -1650,11 +1938,15 @@ Sən, həqiqətən, Öz hökmranlığının gücü ilə Qoruyucusan. Səndən ba
 (Bahaiprayers.net ID: 4787)
 
 
+
+
 ### <a id="bpn4788"></a> Prayer bpn4788 in Azərbaycan
 Səni and verirəm, Ey mənim Allahım, Sənin Adının ən yüksək cəlalına, Öz sevimlilərini ədalət libasına bürü və onların varlığını etibar işığı ilə nurlandır. Sən O Kəssən ki, istdəyi kimi etməyə qüdrəti var, görünən və görünüməyən bütün şeylərin cilovunu ovcunda saxlar.
 
 (Source category: Ruhani inkişaf üçün dualar)
 (Bahaiprayers.net ID: 4788)
+
+
 
 
 ### <a id="bpn4789"></a> Prayer bpn4789 in Azərbaycan
@@ -1664,6 +1956,8 @@ Sən istədiyini etməyə Qadirsən. Sən, həqiqətən, Ən Uca, Ən Cəlallı,
 
 (Source category: Ruhani inkişaf üçün dualar)
 (Bahaiprayers.net ID: 4789)
+
+
 
 
 ### <a id="bpn4790"></a> Prayer bpn4790 in Azərbaycan
@@ -1677,6 +1971,8 @@ Ya Rəbb! Sənin sərvət dəryandan və mərhəmət səmandan məni qaytarma v�
 (Bahaiprayers.net ID: 4790)
 
 
+
+
 ### <a id="bpn4791"></a> Prayer bpn4791 in Azərbaycan
 Ey mənim Allahım, kəramət və mərhəmət Allahı! Sən O Sultansan ki, Onun əmr kəlməsilə bütün mövcudat xəlq oldu; Sən O Kəramətli Kəssən ki, bəndələrinin əməlləri Onun fəzlini nümayiş etdirməsinə mane ola bilmədi və Onun səxavətinin aşkara çıxmasının qarşısını ala bilmədi.
 
@@ -1684,6 +1980,8 @@ Ey mənim Allahım, kəramət və mərhəmət Allahı! Sən O Sultansan ki, Onun
 
 (Source category: Ruhani inkişaf üçün dualar)
 (Bahaiprayers.net ID: 4791)
+
+
 
 
 ### <a id="bpn4792"></a> Prayer bpn4792 in Azərbaycan
@@ -1701,6 +1999,8 @@ Sən həqiqətən, Qüdrətli, Bagışlayan, Şəfqətlisən.
 (Bahaiprayers.net ID: 4792)
 
 
+
+
 ### <a id="bpn4793"></a> Prayer bpn4793 in Azərbaycan
 Lütf eylə mənə, Ey mənim Allahım, Sənin məhəbbətindən və Sənin razılığından bol bir pay alım və parlaq işığının cazıbəsi ilə bizim ürəklərimizi məftun eylə, Sən Ey Ən Yüksək Sübut və Ən Şərəfli. Fəzlinin bir nişanəsi kimi, bütün günü və gecəni Sənin həyatverici yellərini mənə göndər, Sən Ey Kəramət Sahibi!
 
@@ -1712,6 +2012,8 @@ Həqiqətən, Sən bir bəndəyə lütf etmək istəsən, Sən onun ürəyinin s
 
 (Source category: Ruhani inkişaf üçün dualar)
 (Bahaiprayers.net ID: 4793)
+
+
 
 
 ### <a id="bpn4794"></a> Prayer bpn4794 in Azərbaycan
@@ -1727,6 +2029,8 @@ Həqiqətən, Sən Mərhəmətlisən və həqiqətən Sən Ən Səxavətlisən, 
 (Bahaiprayers.net ID: 4794)
 
 
+
+
 ### <a id="bpn4795"></a> Prayer bpn4795 in Azərbaycan
 İlahi! İlahi! Bu bir çıraqdır ki, Sənin məhəbbətinin atəşilə yandırılıb və Sənin mərhəmət ağacında alışan alovdan od tutub. İlahi! Sənin Zühurunun Turunda yanan atəşlə onun odunu, hərarətini və alovunu şölələndir. Həqiqətən, Sən Təyid Edən, Yardımedən, Qüvvətli, Səxavətli və Sevənsən.
 
@@ -1734,11 +2038,15 @@ Həqiqətən, Sən Mərhəmətlisən və həqiqətən Sən Ən Səxavətlisən, 
 (Bahaiprayers.net ID: 4795)
 
 
+
+
 ### <a id="bpn4796"></a> Prayer bpn4796 in Azərbaycan
 İlahi! İlahi! Sənin bu bəndən, Sənə tərəf gəlib, Sənin məhəbbət səhranda divanə olub, Sənin xidmət yolunda addımlayır, Sənin lütfünü gözləyir, kəramətinə ümid edir, mələkutuna təvəkkül edir və Sənin bəxşiş şərabından məst olub. Ey mənim Allahım! Onun Sənə məhəbbətindəki hərarətini, Səni tərif etməkdə sabitliyini, Sənə eşqindəki vurğunluğunu artır. Həqiqətən, Sən Ən Səxavətlisən, bol fəzl Sahibisən. Səndən başqa Allah yoxdur, Bağışlayan, Mərhəmətli Allah.
 
 (Source category: Ruhani inkişaf üçün dualar)
 (Bahaiprayers.net ID: 4796)
+
+
 
 
 ### <a id="bpn4797"></a> Prayer bpn4797 in Azərbaycan
@@ -1754,6 +2062,8 @@ Həqiqətən, Sən Qüdrətlisən, Qüvvətlisən, Qoruyucu, Güclü, Xeyirxahsa
 (Bahaiprayers.net ID: 4797)
 
 
+
+
 ### <a id="bpn4798"></a> Prayer bpn4798 in Azərbaycan
 Ey Allah, mənim Allahım! Bunlar Sənin zəif bəndələrindir, bunlar Sənin Uca Bəyanın qarşısında baş əyən, Sənin nurunun Astanasında itaət göstərən, Günəşi ən parlaq zamanında parladan təkliyinə şəhadət verən sadiq qulların və kənizlərindir. Onlar Sənin gizli səltənətindən ucaltdığın nidanı eşitmiş, məhəbbət və məftunluqla vuran ürəklərilə Sənin çağırışına cavab vermişlər.
 
@@ -1765,6 +2075,8 @@ Sən, həqiqətən, Qüdrətli, Uca, Qüvvətlisən, göylərdə və yerdə dəy
 (Bahaiprayers.net ID: 4798)
 
 
+
+
 ### <a id="bpn4799"></a> Prayer bpn4799 in Azərbaycan
 Odur Allah! Ey Allah, mənim Allahım! Bunlar Sənin bəndələrindir ki, Sənin nidana səs verməklə, Sənin tərifini söyləməklə, Sənin günlərində Sənin müqəddəslik rahiyələrinlə cəzb olunublar, Sənin müqəddəs ağacından yanan oddan alışıblar, Sənin əlamətlərini müşahidə etməklə, ayələrini dərk etməklə, sözlərini eşitməklə, Vəhyinə inanmaqla və inayətinə əmin olmaqla Sənin nəsimlərinlə oyanıblar və xoş rahiyələrinlə həyəcanlanıblar. Onların gözləri, İlahi, Sənin parlaq cəlalının mələkutuna dikilib və üzləri Sənin yüksək səltənətinə çevrilib, onların ürəkləri Sənin nurlu və parlaq camalının məhəbbətilə döyünür, qəlbləri Sənin eşqinin atəşindən odlanıb, Ey bu dünyanın və axirətin Rəbbi, onların həyatı Sənə can atmaq şövqündən qaynayır və onların Səndən ötrü göz yaşları sel kimi axır.
 
@@ -1774,6 +2086,8 @@ Ya Rəbb! mənim Allahım! Sənin bu bəndələrin mütidirlər, onları Sənin 
 
 (Source category: Ruhani inkişaf üçün dualar)
 (Bahaiprayers.net ID: 4799)
+
+
 
 
 ### <a id="bpn4800"></a> Prayer bpn4800 in Azərbaycan
@@ -1789,6 +2103,8 @@ Sən Qüdrətlisən, Güclüsən, Sən qüvvət Allahısan, Qadirsən, hər şey
 (Bahaiprayers.net ID: 4800)
 
 
+
+
 ### <a id="bpn4801"></a> Prayer bpn4801 in Azərbaycan
 Ey Allah! Mənim ruhumu təravətləndir və sevindir. Mənim ürəyimi pak eylə. Mənim qabiliyyətlərimə işıq sal. Mən bütün işlərimi Sənə buraxıram. Sən mənim Bələdçim və Pənahımsan. Mən daha kədərli və qəmgin olmayacağam; xoşbəxt və şad bir varlıq olacağam. İlahi! Mən bir daha narahat olmayacağam, nə də qoyaram ki, qəm-qüssə məni incitsin. Mən həyatın xoş olmayan şeyləri üzərində daha durmayacağam.
 
@@ -1796,6 +2112,8 @@ Ey Allah! Sən mənə özümdən də yaxın dostsan. Sənə təslim edirəm öz�
 
 (Source category: Ruhani inkişaf üçün dualar)
 (Bahaiprayers.net ID: 4801)
+
+
 
 
 
@@ -1810,6 +2128,8 @@ Həqiqətən, Sən Qüdrət Sahibisən, istədiyini hökm etməyə Qadirsən və
 (Bahaiprayers.net ID: 4802)
 
 
+
+
 ### <a id="bpn4803"></a> Prayer bpn4803 in Azərbaycan
 Alqış Sənin Adına, Ya Rəbb, mənim Allahım! Səni and verirəm bütün yaranmışları bürüyən qüdrətinə, mövcudat üzərindəki hökmranlığına, hikmətinlə gizli saxladığın, vasitəsilə göyünü və yerini yaratdığın Kəlmənə, bizi qadir eylə ki, Sənə olan məhəbbətimizdə və Sənin razılığına itaətimizdə möhkəm olaq, nəzərlərimizi Sənin üzünə dikək və Sənin tərifini ucaldaq. Bizi gücləndir ki, Ey mənim Allahım, məxluqatın arasında Sənin əlamətlərini yayaq və səltənətində Sənin Dinini qoruyaq. Sən əzəldən yaratdıqlarının zikrindən asılı olmadan var olmusan və əbədiyyətədək də olduğun kimi qalacaqsan.
 
@@ -1821,6 +2141,8 @@ Alqış Sənə, Ey Səni tanıyanların Məhbubu!
 (Bahaiprayers.net ID: 4803)
 
 
+
+
 ### <a id="bpn4804"></a> Prayer bpn4804 in Azərbaycan
 Sən Ey yaxınlığı muradım, vüsalı ümidim, zikri diləyim, əzəmət dərgahı məqsədim, məkanı mətləbim, adı dərmanım, məhəbbəti könlümün nuru, xidmətində durmaq ən yüksək arzum! And verirəm Sənin o Adına ki, Sən onunla Səni tanıyanları Öz irfanının ən yüksək zirvələrinə uçurdun və sədaqətlə Sənə sitayiş edənləri müqəddəs lütflərinin sarayına yüksəlmələrinə yardım etdin - kömək eylə, üzümü Sənin üzünə çevirim, gözlərimi Sənə dikim və Sənin cəlalını vəsf edim.
 
@@ -1830,6 +2152,8 @@ Sən, həqiqətən, Qadir Allahsan, Əzəmətli, Ən Cəllalı, Qüdrətlisən.
 
 (Source category: Sabitlik)
 (Bahaiprayers.net ID: 4804)
+
+
 
 
 ### <a id="bpn4805"></a> Prayer bpn4805 in Azərbaycan
@@ -1851,6 +2175,8 @@ Səni and verirəm, ey bütün varlığın Rəbbi, görünən və görüməyənl
 (Bahaiprayers.net ID: 4805)
 
 
+
+
 ### <a id="bpn4806"></a> Prayer bpn4806 in Azərbaycan
 Alqış Sənə, Ya Rəbb, mənim Allahım! Səni and verirəm O Kəsə ki, Sənin Ən Böyük Adındır, O Kəs ki, Sənin həqiqətini inkar edənlərin əlindən cəfalara məruz qalıb və O Kəs ki, bəyana sığmayacaq sıxıntılarla əhatə olunub, hamının Sənin Gözəlliyindən üz çevirdiyi, Sənə etriaz etdiyi və Sənin Əmrini İzhar Edən Kəsə xor baxıb üz döndərdiyi bu günlərdə izn ver, Səni anım, Sənin tərifini ucaldım. Sənin Özündən başqa bir kimsə yoxdur ki, İlahi, Sənə kömək etsin, Öz qüvvəndən başqa bir qüvvə yoxdur ki, Sənə yardım etsin.
 
@@ -1858,6 +2184,8 @@ Yalvarıram Sənə, məni qadir eylə ki, Sənin məhəbbətindən və zikrində
 
 (Source category: Sabitlik)
 (Bahaiprayers.net ID: 4806)
+
+
 
 
 ### <a id="bpn4807"></a> Prayer bpn4807 in Azərbaycan
@@ -1871,6 +2199,8 @@ Sən istdəyini etməyə Qadirsən. Həqiqətən, Sən Əzəmətli və Qəyyumsa
 (Bahaiprayers.net ID: 4807)
 
 
+
+
 ### <a id="bpn4808"></a> Prayer bpn4808 in Azərbaycan
 Alqış və təriflər olsun Sənə, Ey Allah! Sənin müqəddəs hüzuruna yetişmək gününü tez yaxınlaşdır. Öz məhəbbətinin və razılığının qüdrəti ilə qəlblərimizi sevindir və bizə sabitlik bəxş eylə ki, Sənin İradənə və Sənin Hökmünə razılıqla tabe olaq. Həqiqətən, Sənin elmin yaratdığın və yaradacağın bütün şeyləri əhatə edir və Sənin İlahi qüdrətin xəlq etdiyin və ya edəcəyin hər şeyin fövqündədir. Səndən başqa pərəstiş olunan, Səndən başqa məqsud, Səndən qeyri məbud, Sənin razılığından özgə seviləcək bir şey yoxdur.
 
@@ -1880,11 +2210,15 @@ Həqiqətən, Sən Ali Hökmdar, Haqq Sultanı, Əzəmətli və Qəyyumsan
 (Bahaiprayers.net ID: 4808)
 
 
+
+
 ### <a id="bpn4809"></a> Prayer bpn4809 in Azərbaycan
 Ya Rəbb, mənim Allahım! Sevimlilərinə Öz Dinində mətin olmaqda, Sənin yolunda getməkdə, Əmrində sabit olmaqda yardım eylə. Onlara Öz fəzlini əta eylə ki, nəfs və ehtirasın hücumlarına müqavimət göstərsinlər, İlahi hidayət nurunun arxasınca getsinlər. Sən Qüvvətli, Səxavətli, Qəyyum, Bəxşedən, Şəfqətli, Qüdrətli və Kəramətlisən.
 
 (Source category: Sabitlik)
 (Bahaiprayers.net ID: 4809)
+
+
 
 
 ### <a id="bpn4810"></a> Prayer bpn4810 in Azərbaycan
@@ -1901,6 +2235,8 @@ Səndən başqa Allah yoxdur, Qüdrətli, Qüvvətli, Uca və Qabiliyyətli.
 
 
 
+
+
 ## Sinaq və çətinliklərdə oxunan dualar
 
 ### <a id="bpn4815"></a> Prayer bpn4815 in Azərbaycan
@@ -1908,6 +2244,8 @@ Sən Ey sınağı, Sənə yaxın olanların dərmanı; qılıncı, aşiqlərinin
 
 (Source category: Sinaq və çətinliklərdə oxunan dualar)
 (Bahaiprayers.net ID: 4815)
+
+
 
 
 ### <a id="bpn4816"></a> Prayer bpn4816 in Azərbaycan
@@ -1923,6 +2261,8 @@ Sən istədiyini etməyə Qadirsən. Səndən başqa Allah yoxdur, Əzəmətli v
 (Bahaiprayers.net ID: 4816)
 
 
+
+
 ### <a id="bpn4817"></a> Prayer bpn4817 in Azərbaycan
 Alqış Sənə, Ya Rəbb, mənim Allahım! Hər bir bəsirət sahibi Sənin səltənətini və hökmranlığını etiraf edir, hər bir görən göz Sənin əzəmətinin böyüklüyünü və Sənin qüdrətinin yenilməz qüvvətini anlayır. Sınaq tufanları gücsüzdür ki, Sənə yaxınlıqdan həzz alanların üzlərini Sənin cəlal üfüqünə tutmasına mane olsun; imtahan fırtınaları acizdir ki, Sənə vəfalı olanları Sənin dərgahına yaxınlaşmaqdan uzaq salsın və mane olsun.
 
@@ -1932,6 +2272,8 @@ Səni and verirəm, Ey mənim Allahım, onlara və ürəklərinin Səndən ayrı
 
 (Source category: Sinaq və çətinliklərdə oxunan dualar)
 (Bahaiprayers.net ID: 4817)
+
+
 
 
 ### <a id="bpn4818"></a> Prayer bpn4818 in Azərbaycan
@@ -1945,11 +2287,15 @@ Və sonda, Sənin üzünün nuruna iltimas edirəm, mənim işlərimə xeyir-bə
 (Bahaiprayers.net ID: 4818)
 
 
+
+
 ### <a id="bpn4819"></a> Prayer bpn4819 in Azərbaycan
 Varmıdır Allahdan başqa çətinliklərdən Qurtaran? Söylə: Sübhandır Allah! Odur Allah! Hamı Onun bəndələridir və hamı Onun hökmünü yerinə yetirir.
 
 (Source category: Sinaq və çətinliklərdə oxunan dualar)
 (Bahaiprayers.net ID: 4819)
+
+
 
 
 ### <a id="bpn4820"></a> Prayer bpn4820 in Azərbaycan
@@ -1963,11 +2309,15 @@ Bütün insanlarin tərifindən son dərəcə Ucasan Sən, Ey göylərin və yer
 (Bahaiprayers.net ID: 4820)
 
 
+
+
 ### <a id="bpn4821"></a> Prayer bpn4821 in Azərbaycan
 Sənin Qüdrətinə and verirəm, Ey mənim Allahım! Qoyma sınaqlar zamanı mənə zərər toxunsun və Öz ilhamınla qafil olduğum anlarda addımlarımı doğru yola yönəlt. Sən Allahsan, Sən Öz istədiyini etməyə Qadirsən. Heç kəs Sənin İradənə qarşı dura və Məqsədini poza bilməz.
 
 (Source category: Sinaq və çətinliklərdə oxunan dualar)
 (Bahaiprayers.net ID: 4821)
+
+
 
 
 ### <a id="bpn4822"></a> Prayer bpn4822 in Azərbaycan
@@ -1977,6 +2327,8 @@ Ya Rəbb! Sənsən hər bir dərdi Qaldıran və hər bir kədəri Dağıdan. S�
 (Bahaiprayers.net ID: 4822)
 
 
+
+
 ### <a id="bpn4823"></a> Prayer bpn4823 in Azərbaycan
 Alqiş və tərif Sənə, Ey mənim Allahım! And verirəm Sənin aşiqlərinin ahına və Səninlə görüşün həsrətini çəkənlərin göz yaşlarına, Sənin Günündə Öz mərhəmətindən məni məhrum etmə və Sənin üzündən saçılan nurların qarşısında Sənin təkliyini tərənnüm edən Göyərçinin nəğmələrindən məni binəsib qoyma. Mən miskinlik içində olan bir kəsəm, İlahi! Mənə nəzər sal, Sənin “Hər Şeyə Malik” Adından yapışmışam. Mən şübhəsiz fani olasıyam, İlahi! Mənə nəzər sal, Sənin “Əbədi” Adından tutmuşam. Ona görə də, Səni and verirəm Sənin Uca, Ən Yüksək Zatına, məni nəfsimin və ehtirasımın ixtıyarına buraxma. Öz qüdrət əlinlə mənim əlimdən tut, zənn və şəkk-şübhə burulğanından məni qurtar və bəyənmədiyin bütün şeylərdən məni təmizlə.
 
@@ -1984,6 +2336,8 @@ Sonra elə et ki, üzümü bütünlüklə Sənə tutum, tamamilə Sənə təvək
 
 (Source category: Sinaq və çətinliklərdə oxunan dualar)
 (Bahaiprayers.net ID: 4823)
+
+
 
 
 
@@ -1998,6 +2352,8 @@ Sən, həqiqətən, Bəxşedən, Rəhmli və Rəhmansan.
 (Bahaiprayers.net ID: 4824)
 
 
+
+
 ### <a id="bpn4825"></a> Prayer bpn4825 in Azərbaycan
 Odur Allah! Biz Sənə necə şükr edə bilərik, İlahi? Sənin nemətlərin hüdudsuz, bizi şükrlərimiz isə məhduddur. Məhdud qeyri-məhduda necə şükr edə bilər? Sənin lütflərinə şükr etməkdə acizik və tam zəifliklə Sənin Mələkutuna üz tutb bəxşiş və nemətlərini artırmanı diləyirik.
 
@@ -2005,6 +2361,8 @@ Sən Verici, Bəxşedən və Qüdrətlisən.
 
 (Source category: Süfrə duasi)
 (Bahaiprayers.net ID: 4825)
+
+
 
 
 
@@ -2023,11 +2381,15 @@ Sən, həqiqətən, bütün insanların Rəbbi və Sultanısan və hər şeyin �
 (Bahaiprayers.net ID: 4811)
 
 
+
+
 ### <a id="bpn4812"></a> Prayer bpn4812 in Azərbaycan
 Sənin sığınacağında yuxudan qalxmışam, Ey mənim Allahım və o sığınacağı axtarana yaraşır ki, yalnız Sənin himayə Məbədində və mühafizə Qalanda sakin olsun. Mənim zahiri varlığımı Öz bəxşiş səhərinin nuru ilə işıqlandırdığın kimi, batini varlığımı da, İlahi, Zühurunun Şəfəqinin nuru ilə aydınlat.
 
 (Source category: Səhər duaları)
 (Bahaiprayers.net ID: 4812)
+
+
 
 
 ### <a id="bpn4813"></a> Prayer bpn4813 in Azərbaycan
@@ -2037,6 +2399,8 @@ Səndən başqa Allah yoxdur, Sən Tək, Bərabəri Olmayan, Hər Şeyi Bilən v
 
 (Source category: Səhər duaları)
 (Bahaiprayers.net ID: 4813)
+
+
 
 
 ### <a id="bpn4814"></a> Prayer bpn4814 in Azərbaycan
@@ -2055,6 +2419,8 @@ Səni axtaranı Sən məyus etmirsən, nə də Səni arzulayanı uzaq tutursan. 
 
 
 
+
+
 ## Səmavi bəxşiş duaları
 
 ### <a id="bpn4697"></a> Prayer bpn4697 in Azərbaycan
@@ -2068,6 +2434,8 @@ Sən istədiyini etməyə Qadirsən. Səndən başqa Allah yoxdur, Hər Şeyi Bi
 (Bahaiprayers.net ID: 4697)
 
 
+
+
 ### <a id="bpn4698"></a> Prayer bpn4698 in Azərbaycan
 Alqış Sənə, Ya Rəbb mənim Allahım! Sənin hökmran qüdrətinin çaylarını aşkar eylə ki, Sənin Birliyinin suları bütün şeylərin zatından axsın, elə axsın ki, Sənin qüsursuz hidayətinin bayrağı Sənin əmr səltənətində ucalsın və Sənin ilahi şəfəqinin ulduzları Sənin əzəmət göyündə parlaq işıq saçsın.
 
@@ -2075,6 +2443,8 @@ Sən istədiyini etməyə Qadirsən. Sən, həqiqətən, Əzəmətli və Qəyyum
 
 (Source category: Səmavi bəxşiş duaları)
 (Bahaiprayers.net ID: 4698)
+
+
 
 
 ### <a id="bpn4699"></a> Prayer bpn4699 in Azərbaycan
@@ -2086,6 +2456,8 @@ Həqiqətən, Sən Qüdrətli, Həmişə Bağışlayan, Ən Səxavətlisən.
 (Bahaiprayers.net ID: 4699)
 
 
+
+
 ### <a id="bpn4700"></a> Prayer bpn4700 in Azərbaycan
 Ya Rəbb! Sənin ilahi Birlik Ağacının tez böyüməsinin qayğısına qal; sonra, Sənin razılığının axar suları ilə onu sula, Ya Rəbb, Sənin ilahi təminatının təzahürləri qarşısında izn ver ki, Səni alqışlamaq və vəsf etmək, Səni tərif etmək və Sənə şükr etmək, Sənin Adını ucaltmaq, Sənin Zatının vahidliyini yüksəltmək və Sənə pərəstiş etmək üçün Sənin istədiyin meyvələri versin, çünki bütün bunlar Sənin əlindədir və başqa hec kəsin əlində deyil.
 
@@ -2093,6 +2465,8 @@ Qanları ilə Sənin müqəddəs və sabit Sözünü ucaltmaq üçün seçdiyin 
 
 (Source category: Səmavi bəxşiş duaları)
 (Bahaiprayers.net ID: 4700)
+
+
 
 
 ### <a id="bpn4701"></a> Prayer bpn4701 in Azərbaycan
@@ -2106,6 +2480,8 @@ Həqiqətən, Sən bizim Rəbbimizsən və hər şeyin Rəbbisən. Biz özümüz
 (Bahaiprayers.net ID: 4701)
 
 
+
+
 ### <a id="bpn4702"></a> Prayer bpn4702 in Azərbaycan
 Ya Rəbb! Yer üzünün bütün xalqlarını Sənin Dininin Cənnətinə daxil olmağa qadir eylə, belə ki, heç bir yaradılmış varlıq Sənin razılığının hüdudlarından kənarda qalmasın.
 
@@ -2113,6 +2489,8 @@ Ya Rəbb! Yer üzünün bütün xalqlarını Sənin Dininin Cənnətinə daxil o
 
 (Source category: Səmavi bəxşiş duaları)
 (Bahaiprayers.net ID: 4702)
+
+
 
 
 ### <a id="bpn4703"></a> Prayer bpn4703 in Azərbaycan
@@ -2128,6 +2506,8 @@ Sən onların Rəbbisən, göylərin və yerin Rəbbisən, bütün aləmlərin R
 (Bahaiprayers.net ID: 4703)
 
 
+
+
 ### <a id="bpn4704"></a> Prayer bpn4704 in Azərbaycan
 Ey Allah, mənim Allahım! Təriflər olsun Sənə, cünki Sən ən uca dağın zirvəsində Müqəddəs Ağacda ilahi məhəbbət atəşini yandırdın: o Ağac ki, “nə Şərqdəndir, nə də Qərbdən. 1” o atəş ki, onun alovu qalxıb Səma sakinlərinə yetişdi və bundan o varlıqlar hidayət işığı əldə etdilər və söylədilər: “Həqiqətən, biz Tur Dağının yamacında bir od gördük.” 12
 
@@ -2137,6 +2517,8 @@ Həqiqətən, Sənsən Bəxşedən, Bağışlayan, Ətaedən. Həqiqətən, Sən
 
 (Source category: Səmavi bəxşiş duaları)
 (Bahaiprayers.net ID: 4704)
+
+
 
 
 ### <a id="bpn4705"></a> Prayer bpn4705 in Azərbaycan
@@ -2151,6 +2533,8 @@ Səbatlı və möhkəm olanların üzərinə Bəha olsun.
 
 
 
+
+
 ## Toplantılarda oxunan dualar
 
 ### <a id="bpn4853"></a> Prayer bpn4853 in Azərbaycan
@@ -2160,6 +2544,8 @@ Səni and verirəm Sənin Özünə, göydə və yerdə olanların hamısına Öz
 
 (Source category: Toplantılarda oxunan dualar)
 (Bahaiprayers.net ID: 4853)
+
+
 
 
 ### <a id="bpn4854"></a> Prayer bpn4854 in Azərbaycan
@@ -2175,6 +2561,8 @@ Ey Allah! Bizə Öz inayətini əta eylə. Sən Qüvvətlisən. Sən Bəxşedən
 (Bahaiprayers.net ID: 4854)
 
 
+
+
 ### <a id="bpn4855"></a> Prayer bpn4855 in Azərbaycan
 Sən Ey Mehriban Rəbb! Bunlar Sənin bəndələrindir ki, bu məclisdə toplaşıblar, Sənin mələkutuna yönəliblər, Sənin bəxşiş və nemətlərinə möhtacdırlar. Ey Allah! Həyatın bütün gerçəkliklərində gizli qalmış birlik nişanələrini açıb göstər. İnsan zatında saxladığın mübhəm qüvvələri zahir eylə.
 
@@ -2186,6 +2574,8 @@ Sənsən Qüdrətli, Sənsən Qüvvətli, Sənsən Bəxşedən, Sənsən həmiş
 (Bahaiprayers.net ID: 4855)
 
 
+
+
 ### <a id="bpn4856"></a> Prayer bpn4856 in Azərbaycan
 Ey mənim Allahım, Ey mənim Allahım! Həqiqətən, bu bəndələr Sənə üz tuturlar, Sənin mərhəmət səltənətinə yalvarırlar. Həqiqətən, onlar Sənin müqəddəsliyinə cəlb olunublar, məhəbbət odunla alovlanıblar, ecazkar mələkutundan kömək diləyirlər, səmavi aləminə yetişməyi arzulayırlar. Həqiqətən, onlar Sənin bəxşişlərinin enməsinin həsrətini çəkir və Həqiqət Günəşindən bir nur arzu edirlər. Ya Rəbb! Onları şöləsaçan çıraqlar, mərhəmət nişanələri, barlı-bəhrəli ağaclar və parlayan ulduzlar eylə. Qoy onlar Sənin xidmətində irəli gəlsinlər, Səninlə Sənin məhəbbət bağların və tellərinlə birləşsinlər, Sənin lütfünün nurları onların muradı olsun. Ya Rəbb! Onları hidayət nişanələri, əbədi səltənətinin nümunələri, mərhəmət dənizinin dalğaları və Sənin əzəmət işıqlarını əks etdirən güzgülər eylə.
 
@@ -2193,6 +2583,8 @@ Həqiqətən, Sən Səxavətlisən. Həqiqətən, Sən Mərhəmətlisən. Həqiq
 
 (Source category: Toplantılarda oxunan dualar)
 (Bahaiprayers.net ID: 4856)
+
+
 
 
 ### <a id="bpn4857"></a> Prayer bpn4857 in Azərbaycan
@@ -2210,6 +2602,8 @@ Sən Qüvvətlisən, Qadirsən, Mərhəmətlisən və Sən Səxavətlisən, Rəh
 (Bahaiprayers.net ID: 4857)
 
 
+
+
 ### <a id="bpn4858"></a> Prayer bpn4858 in Azərbaycan
 Sən Ey hidayət Edən İlahi Qüvvə! Bu məclis Sənin sevimli dostlarından ibarətdir ki, Sənin Camalına cəlb olunublar və Sənin eşqinin atəşindən alovlanıblar. Bu ruhları Səmavi mələklər eylə, onları Müqəddəs Ruhun nəfəsi ilə dirçəlt, onlara bəlağətli dil və əzmli qəlb bağışla, səmavi güc və rəhmani həssasiyyət əta eylə, onları bəşəriyyətin birliyinin carçıları və insan aləmində sevgi və ahəng yaradan eylə, ta ki, təhlükəli cəhalət təəssübkeşliyinin zülməti Həqiqət Günəşinin nurları ilə məhv olsun, bu tutqun dünya işıqlansın, bu maddi dünya ruhani aləmin Şəfəqlərinə bürünsün, bu müxtəlif rənglər bir rəngə çevrilsin və alqış və tərif nəğmələri Sənin müqəddəslik mələkutuna ucalsın.
 
@@ -2219,6 +2613,8 @@ Həqiqətən, Sən Qüdrətli və Qüvvətlisən!
 (Bahaiprayers.net ID: 4858)
 
 
+
+
 ### <a id="bpn4859"></a> Prayer bpn4859 in Azərbaycan
 Sən Ey mehriban Pərvərdigar! Bu ruhlar Mələkutun nidasını eşitmiş və gözlərini Həqiqət Günəşinin cəlalına dikmişlər. Onlar məhəbbətin təravətləndirici səmasına yüksəlmişlər; onlar Sənin təbiətinə məftun olmuşlar və Sənin camalına sitayiş edirlər. Özlərini Sənə tərəf çevirmişlər, bir-birilə Səndən danışırlar, Sənin məkanını axtarırlar və Sənin səma səltənətindən axan sular üçün susamışlar.
 
@@ -2226,6 +2622,8 @@ Sənsən Bəxşedən, Ətaedən və həmişə Sevən.
 
 (Source category: Toplantılarda oxunan dualar)
 (Bahaiprayers.net ID: 4859)
+
+
 
 
 
@@ -2242,6 +2640,8 @@ Həqiqətən, Sən əzəldən istədiyini etməyə qadir olmusan və əbədiyyə
 (Bahaiprayers.net ID: 4860)
 
 
+
+
 ### <a id="bpn4871"></a> Prayer bpn4871 in Azərbaycan
 Alqış Sənə, Ey mənim Rəbbim Allah! Bu körpəni Öz mərhəmət və inayət döşündən qidalandır və onu Öz səmavi ağacının meyvələri ilə bəslə. Onu Səndən başqa bir kimsənin himayəsinə buraxma, çünki Sən Özün onu Öz iradə və qüdrətinin hökmü ilə yaratmısan və həyata gətirmisən. Səndən başqa Allah yoxdur, Sən Ən Qüdrətli və Hər Şeyi Bilənsən.
 
@@ -2251,6 +2651,8 @@ Sən Sübhansan, Ey mənim Məhbubum, onun üzərinə Sənin fövqəl səxavəti
 (Bahaiprayers.net ID: 4871)
 
 
+
+
 ### <a id="bpn4861"></a> Prayer bpn4861 in Azərbaycan
 İlahi! Bu uşaqları tərbiyə eylə. Bu uşaqlar Sənin bağının bitkiləri, Sənin Çəmənliyinin gülləri, Sənin bağçanın çiçəkləridir. Qoy Sənin yağışın onların üzərinə yağsın; qoy Sənin həqiqət Günəşin Sənin məhəbbətinlə onları nurlandırsın; qoy Sənin nəsimin onları təravətləndirsin ki, tərbiyə alsınlar, böyüsünlər, inkişaf etsinlər və kamil bir gözəlliklə meydana çıxsınlar. Sən Əta Edənsən, Sən Mərhəmətlisən.
 
@@ -2258,11 +2660,15 @@ Sən Sübhansan, Ey mənim Məhbubum, onun üzərinə Sənin fövqəl səxavəti
 (Bahaiprayers.net ID: 4861)
 
 
+
+
 ### <a id="bpn4862"></a> Prayer bpn4862 in Azərbaycan
 Sən Ey mehriban Rəbb! Bu nazənin uşaqlar Sənin qüdrət barmaqlarının əsərləri, əzəmətinin ecazkar nişanəsidirlər. Ey Allah! Bu uşaqları hifz eylə, onlara elm öyrənməkdə kərəminlə kömək eylə və bəşəriyyət aləminə xidmət etməkdə onlara yardım eylə. Ey Allah! Bu uşaqlar dürr dənəsidirlər, onları Öz inayət sədəfinin qoynunda bəslə. Sən Kəramətli, Ən Mehribansan.
 
 (Source category: Uşaqlar üçün dualar)
 (Bahaiprayers.net ID: 4862)
+
+
 
 
 ### <a id="bpn4863"></a> Prayer bpn4863 in Azərbaycan
@@ -2276,6 +2682,8 @@ Sən Qüvvətli və Ən Mehribansan.
 (Bahaiprayers.net ID: 4863)
 
 
+
+
 ### <a id="bpn4864"></a> Prayer bpn4864 in Azərbaycan
 Odur Allah! Ey Allah, mənim Allahım! Mənə dürr təkin saf bir qəlb əta eylə.
 
@@ -2283,11 +2691,15 @@ Odur Allah! Ey Allah, mənim Allahım! Mənə dürr təkin saf bir qəlb əta ey
 (Bahaiprayers.net ID: 4864)
 
 
+
+
 ### <a id="bpn4865"></a> Prayer bpn4865 in Azərbaycan
 Ey Allah, mənə yol göstər, məni qoru, məni şölə saçan bir çıraq və parlaq bir ulduz eylə. Sən Qüdrətli və Qüvvətlisən.
 
 (Source category: Uşaqlar üçün dualar)
 (Bahaiprayers.net ID: 4865)
+
+
 
 
 ### <a id="bpn4866"></a> Prayer bpn4866 in Azərbaycan
@@ -2299,11 +2711,15 @@ Həqiqətən, Sənsən Qüvvətli, Qüdrətli, Görən və Eşidən.
 (Bahaiprayers.net ID: 4866)
 
 
+
+
 ### <a id="bpn4867"></a> Prayer bpn4867 in Azərbaycan
 Ey Bənzərsiz Allah! Bu yazıq uşağa pənah ol. Bu xətalı və qəmgin ruha bağışlayan və mehriban Mövla ol. İlahi, faydasız bitkilər də olsaq, Sənin gülşənindənik. Yarpaqsız və çiçəksiz fidanlar da olsaq, amma Sənin bağındanıq. Elə isə bu bitkini Sənin inayət buludunun yağışları ilə bəslə, ruhani baharın nəsimi ilə bu solmuş fidana canlılıq və təravət bağışla. Onu ayılt, nəcib böyüt, huşyar eylə və ona əbədi həyat bəxş eylə ki, Sənin Mələkutunda daim yaşasın.
 
 (Source category: Uşaqlar üçün dualar)
 (Bahaiprayers.net ID: 4867)
+
+
 
 
 ### <a id="bpn4868"></a> Prayer bpn4868 in Azərbaycan
@@ -2315,6 +2731,8 @@ Ey Allah, bizim Rəbbimiz! Biz Sənə alqış oxuyur, Sənin müqəddəsliyinə 
 (Bahaiprayers.net ID: 4868)
 
 
+
+
 ### <a id="bpn4869"></a> Prayer bpn4869 in Azərbaycan
 Ya Rəbb! Mən bir uşağam; Məni Öz inayət kölgəndə böyüt. Mən zərif bir bitkiyəm, məni Öz feyz buludlarının yağışları ilə bəslə. Mən məhəbbət bağının fidanıyam, məni bəhrəli bir ağac eylə.
 
@@ -2324,6 +2742,8 @@ Sən Qüdrətli və Qüvvətlisən. Sən Mehribansan, Sən hər şeyi Bilən və
 (Bahaiprayers.net ID: 4869)
 
 
+
+
 ### <a id="bpn4870"></a> Prayer bpn4870 in Azərbaycan
 Sən Ey mənim Cəlallı Rəbbim! Özünün bu balaca kənizini xoşhal və bəxtəvər bir gız eylə; Öz vahidlik dərgahında onu əziz tut və qoy o Sənin məhhəbətinin piyaləsindən doyunca içsin ki, şövq və vəcdlə dolsun, müşk və ətir saçsın. Sən Qüdrətli və Qüvvətlisən, Sən Hər Şeyi Bilən və Hər Şeyi Görənsən.
 
@@ -2331,6 +2751,8 @@ Sən Ey mənim Cəlallı Rəbbim! Özünün bu balaca kənizini xoşhal və bəx
 
 (Source category: Uşaqlar üçün dualar)
 (Bahaiprayers.net ID: 4870)
+
+
 
 
 
@@ -2363,6 +2785,8 @@ Biz hamımız, həqiqətən, Allah xatirinə səbr edənlərik.
 (Bahaiprayers.net ID: 4872)
 
 
+
+
 ### <a id="bpn4873"></a> Prayer bpn4873 in Azərbaycan
 Alqış Sənə, Ya Rəbb, mənim Allahım! Öz əzəli hökmranlığının ğücü ilə ucaltdıgın kəsi həqir etmə və Sənin əbədiyyət çadırina daxil etdiyin kimsəni Özündən uzaqlaşdırma. Qovarsanmı, Ey mənim Allahım, o kəsi ki, onu Öz Rəbliyinlə himayə etmisən, rədd edərsənmi o kəsi ki, Ey mənim Məqsudum, ona Özün sığınacaq olmusan, xar edərsənmi o kəsi ki, Özün şərəfləndirmisən, ya unudarsanmı o kəsi ki, Səni xatırlamağa Özün qadir etmisən?
 
@@ -2372,6 +2796,8 @@ Ucasan Sən, sonsuz Ucasan! Sən Öz həqiqətində sitayiş olunansan və Sən�
 
 (Source category: Vəfat edənlər üçün namaz və dualar)
 (Bahaiprayers.net ID: 4873)
+
+
 
 
 ### <a id="bpn4874"></a> Prayer bpn4874 in Azərbaycan
@@ -2395,6 +2821,8 @@ Səndən başqa Allah yoxdur, Tək, Vahid, Qadir, Hər Şeyi Bilən və Kəramə
 (Bahaiprayers.net ID: 4874)
 
 
+
+
 ### <a id="bpn4875"></a> Prayer bpn4875 in Azərbaycan
 Ey mənim Allahım! Sən Ey günahları Bağışlayan, bəxşişlər Əta Edən, qəm-qüssəni Dağıdan!
 
@@ -2406,6 +2834,8 @@ Ey Mənim Rəbbim! Onları günahlardan pak eylə, kədərlərini dağıt və z�
 (Bahaiprayers.net ID: 4875)
 
 
+
+
 ### <a id="bpn4876"></a> Prayer bpn4876 in Azərbaycan
 Sən Ey Bağışlayan Allah! Baxmayarq ki, bəzi ruhlar öz həyatlarını qəflətdə keçirib, biganə və itaətsiz olublar, amma Sənin əfv dənizinin bir dalğası ilə o günahlara batanların hamısı azad olar. Sən kimi istəsən, onu məhrəm edirsən və kimsə Sənin seçiminə düşməsə, o günahkar sayılar. Əgər Sən Öz ədalətinə yanaşsan, biz hamımız günahkarıq və binəsibliyə layiqik, amma mərhəmətlə yanaşsan, hər günahkar pak olar və hər bir yad yaxın dost olar. Elə isə əfv və bağışlamanı əta et və Öz mərhəmətini hamıya bəxş eylə.
 
@@ -2413,6 +2843,8 @@ Sən Bağışlayan, Nurlandıran və Qüdrətlisən.
 
 (Source category: Vəfat edənlər üçün namaz və dualar)
 (Bahaiprayers.net ID: 4876)
+
+
 
 
 ### <a id="bpn4877"></a> Prayer bpn4877 in Azərbaycan
@@ -2424,6 +2856,8 @@ Sən həqiqqətən, Qüdrətli, Şəfqətli, Səxavətli və Mərhəmətlisən.
 (Bahaiprayers.net ID: 4877)
 
 
+
+
 ### <a id="bpn4878"></a> Prayer bpn4878 in Azərbaycan
 Ya Rəbb! Sən Ey mərhəməti hamını saran, rəhmi böyük, kəraməti yüksək, əfvi və səxavətli hamını burüyən, bağışının işığı bütün dünyanı tutan! Ey Cəlal Sahibi! Hərarət və göz yaşlarımla Sənə yalvarıram, Sənə doğru yüksəlmiş bu kənizinə mərhəmət gözü ilə bax; Ona Uca Cənnətin zinətləri ilə parlayan mərhəmət xalatı geyindir və vahidlik ağacının kölgəsində sığınacaq verməklə onun üzünü mərhəmət nuru ilə işıqlandır.
 
@@ -2431,6 +2865,8 @@ Sənin səmavi kənizini, İlahi, Öz əfvinin ruhundan doğan müqəddəs rayih
 
 (Source category: Vəfat edənlər üçün namaz və dualar)
 (Bahaiprayers.net ID: 4878)
+
+
 
 
 ### <a id="bpn4879"></a> Prayer bpn4879 in Azərbaycan
@@ -2442,6 +2878,8 @@ Sən Ey günahları Bağışlayan! Bu ayılmış bəndənə yol aç ki, Sənin M
 
 (Source category: Vəfat edənlər üçün namaz və dualar)
 (Bahaiprayers.net ID: 4879)
+
+
 
 
 
@@ -2461,6 +2899,8 @@ Ey Allah, mənim Allahım! Öz həqiqi aşiqlərinin alınlarını nurlandır v�
 
 
 
+
+
 ## İlahi təyid duaları
 
 ### <a id="bpn4834"></a> Prayer bpn4834 in Azərbaycan
@@ -2476,6 +2916,8 @@ Sən, həqiqətən, qüvvət və qüdrət Allahısan, Sənə dua edənlərə cav
 (Bahaiprayers.net ID: 4834)
 
 
+
+
 ### <a id="bpn4835"></a> Prayer bpn4835 in Azərbaycan
 Söylə: Ucalsın Sənin Adın, Ya Rəbb, mənim Allahım. Səni and verirəm o Adına ki, onunla müdriklik işığının şüaları parladı, o zaman ki, İlahi bəyan göyləri bəşərin arasında hərəkətə gətirildi – Öz səmavi təyidinlə mənə kömək eylə və bəndələrin arasında Sənin Adını ucaltmağa məni qadir eylə.
 
@@ -2485,6 +2927,8 @@ Həqiqətən, Sən hər nə iradə etsən, onu yerinə yetirməyə Qadirsən, S�
 
 (Source category: İlahi təyid duaları)
 (Bahaiprayers.net ID: 4835)
+
+
 
 
 ### <a id="bpn4836"></a> Prayer bpn4836 in Azərbaycan
@@ -2498,6 +2942,8 @@ Səni and verirəm, Ey mənim Allahım, O Kəsin adına ki, Onun ətrafında bü
 (Bahaiprayers.net ID: 4836)
 
 
+
+
 ### <a id="bpn4837"></a> Prayer bpn4837 in Azərbaycan
 Təriflər olsun Sənə, Ya Rəbb mənim Allahım! And verirəm Sənin o adına ki, Onu heç kəs layiqincə tanıya bilməyib, mahiyyətini heç kim dərk edə bilməyib; Səni and verirəm, Vəhyinin Çeşməsi və əlamətlərinin Günəşi olan Kəsə - mənim ürəyimi Sənin məhəbbətinin və Sənin zikrinin xəzinəsi eylə. Sonra onu Sənin ən böyük Dəryana qovuşdur, ta ki, ondan Sənin hikmətinin dirilik suları və Sənin tərifinin və alqışının saf fəvvarələri çağlasın.
 
@@ -2509,6 +2955,8 @@ Sən, həqiqətən, Qüdrət Sahibi, Ən Uca, Hər Şeyi Bilən və Ən Hikmətl
 
 (Source category: İlahi təyid duaları)
 (Bahaiprayers.net ID: 4837)
+
+
 
 
 ### <a id="bpn4838"></a> Prayer bpn4838 in Azərbaycan
@@ -2526,6 +2974,8 @@ Sən, həqiqətən Qüdrətlisən, O Kəssən ki, Onu nə bütün dünyanın qü
 (Bahaiprayers.net ID: 4838)
 
 
+
+
 ### <a id="bpn4839"></a> Prayer bpn4839 in Azərbaycan
 Sən bilirsən, ey Allah və şahidsən ki, mənim ürəyimdə Sənin razılığını qazanmaqdan, Sənə bəndəlikdə müvəffəq olmaqdan, özümü Sənin xidmətinə həsr etməkdən, Sənin böyük üzümlüyündə zəhmət çəkməkdən və hər şeyi Sənin yolunda qurban verməkdən başqa bir arzum yoxdur. Sən hər şeyi Bilən və hər şeyi Görənsən. Mənim Sənə olan məhəbbətimdən, yalnız Sənin səltənətinin gəlişini bəyan etmək və bütün insanlar arasında Sənin çağrışını ucaltmaq üçün qədəmlərimi dağlara və düzlərə yönəltməkdən başqa heç bir istəyim yoxdur. Ey Allah! Bu köməksizin yolunu aç, bu xəstəyə Öz ilacını əta eylə və bu dərdliyə Öz şəfanı bəxş eylə. Yanar ürəklə və gözləri yaşlı Sənin Astananda Sənə yalvarıram.
 
@@ -2537,6 +2987,8 @@ Ey Allah! Məni sınaqlardan qoru. Sən yaxşı bilirsən ki, mən hər şeydən
 (Bahaiprayers.net ID: 4839)
 
 
+
+
 ### <a id="bpn4840"></a> Prayer bpn4840 in Azərbaycan
 Ey mənim Allahım, Öz bəndənə kömək et ki, Sənin Sözünü ucaltsın, bihudə və uydurma olanı rədd etsin, haqqı bərqərar etsin, müqəddəs ayələri yaysın, təcəlliləri zahir etsin, səhər şəfəqlərinin möminlərin ürəyində doğmasına səbəb olsun.
 
@@ -2546,11 +2998,15 @@ Sən, həqiqətən, Səxavətlisən, Bağışlayansan.
 (Bahaiprayers.net ID: 4840)
 
 
+
+
 ### <a id="bpn4841"></a> Prayer bpn4841 in Azərbaycan
 Ey Allah, mənim Allahım! Öz etibarlı bəndələrinə kömək eylə ki, mehriban və incə ürək sahibi olsunlar. Onlara kömək eylə ki, səma Sakinlərindən gələn hidayət nurunu yer üzünün bütün millətləri arasında yaysınlar. Həqiqətən, Sən Güclü, Qüdrətli, Qüvvətli, Qalibiyyətli, Həmişə Bəxşedənsən. Həqiqətən, Sən Səxavətlisən, Rəhmlisən, Şəfqətlisən, Kərimsən.
 
 (Source category: İlahi təyid duaları)
 (Bahaiprayers.net ID: 4841)
+
+
 
 
 ### <a id="bpn4842"></a> Prayer bpn4842 in Azərbaycan
@@ -2566,6 +3022,8 @@ Həqiqətən, Sən bol fəzl Sahibsən. Səndən başqa Allah yoxdur. Qüdrətli
 (Bahaiprayers.net ID: 4842)
 
 
+
+
 ### <a id="bpn4843"></a> Prayer bpn4843 in Azərbaycan
 Sən Ey Bənzərsiz Allah! Sən Ey Mələkutun Rəbbi! Bu ruhlar Sənin səmavi qoşunundur. Onlara kömək eylə, Uca Səma Sakinlərinin dəstəsi ilə onlara zəfər bəxş eylə, ta ki, onlardan hər biri bir alay olsun və Allahın məhəbbəti və ilahi təlimlərin nuru ilə bu ölkələri fəth etsin.
 
@@ -2575,6 +3033,8 @@ Həqiqətən, Sən Qüdrətlisən, Əzəmətli və Qadirsən və Sən Hikmətli,
 
 (Source category: İlahi təyid duaları)
 (Bahaiprayers.net ID: 4843)
+
+
 
 
 ### <a id="bpn4844"></a> Prayer bpn4844 in Azərbaycan
@@ -2590,6 +3050,8 @@ Həqiqətən, Sən arzu etdiyin hər bir şeydə istədiyin kəsə təyid əta E
 (Bahaiprayers.net ID: 4844)
 
 
+
+
 ### <a id="bpn4845"></a> Prayer bpn4845 in Azərbaycan
 İlahi! İlahi! Sənin yaratdıqların qarşısında mənim zəifliyimi, təvazökarlığımı və mütiliyimi görürsən, bununla belə, Sənə etibar etmişəm. Sənin qüvvət və qüdrətinə təvəkkül edərək, Sənin təlimlərini Sənin güclü bəndələrin arasında yaymaq üçün ayağa qalxmışam.
 
@@ -2603,6 +3065,8 @@ Həqiqətən, Sən Şəfqətli, Qüdrətli, Əzəmətli və Rəhmlilərin Rəhml
 
 (Source category: İlahi təyid duaları)
 (Bahaiprayers.net ID: 4845)
+
+
 
 
 ### <a id="bpn4846"></a> Prayer bpn4846 in Azərbaycan
@@ -2634,6 +3098,8 @@ Həqiqətən, Sən Ən Səxavətli, bol fəzl Sahibisən, həqiqətən, Sən Ş�
 (Bahaiprayers.net ID: 4846)
 
 
+
+
 ### <a id="bpn4847"></a> Prayer bpn4847 in Azərbaycan
 Sən Ey Mehriban Allah! Təriflər olsun Sənə ki, hidayət yollarını bizə göstərdin, mələkut qapılarını açdın və Həqiqət Günəşi vasitəsilə Özünü aşkar etdin. Korlara Sən işıq verdin; karlara Sən eşitmə əta etdin; Sən ölüləri diriltdin; kasıbları varlı etdin; yolunu azanlara Sən yol göstərdin; dodaqları susuzluqdan quruyanları hidayət çeşməsinə yönəltdin; Sən izn verdin ki, yanan balıq həqiqət dəryasına yetsin; sərgərdan quşları fəzl gülşəninə Sən dəvət etdin.
 
@@ -2647,6 +3113,8 @@ Həqiqətən, Sən Qüvvətlisən, Qüdrətlisən, Hikmətli və Görənsən.
 (Bahaiprayers.net ID: 4847)
 
 
+
+
 ### <a id="bpn4848"></a> Prayer bpn4848 in Azərbaycan
 Ey mənim Allahım! Ey mənim Allahım! Heçliyim və zəifiyimlə Sən məni görürsən, böyük bir məsuliyyət altına girmişəm, kütlələr arasında Sənin sözünü ucaltmaq və Sənin təlimlərini insanlar arasında yaymaq üçün ayağa qalxmaq əzmindəyəm. Əgər Sən Müqəddəs Ruhun nəfəsilə mənə kömək etməsən, mən necə müvəffəq ola bilərəm. Mənə kömək eylə, Sənin cəlal səltənətinin qoşunları ilə qələbə çalım və mənə təyidini nazil eylə ki, o, təkbaşına kiçik bir cücünü qartala, bir damlanı çaylara və dənizlərə, zərrəni isə səyyarə və günəşlərə çevirər!
 
@@ -2654,6 +3122,8 @@ Ey mənim Allahım! Ey mənim Allahım! Heçliyim və zəifiyimlə Sən məni g�
 
 (Source category: İlahi təyid duaları)
 (Bahaiprayers.net ID: 4848)
+
+
 
 
 ### <a id="bpn4849"></a> Prayer bpn4849 in Azərbaycan
@@ -2669,6 +3139,8 @@ Ya Rəbb! Məni şölə saçan bir çıraq eylə, parlayan bir ulduz, budaqları
 (Bahaiprayers.net ID: 4849)
 
 
+
+
 ### <a id="bpn4850"></a> Prayer bpn4850 in Azərbaycan
 Ey Allah! Ey Allah! Bu qanadı sınıq bir quşdur və onun uçuşu çox zəifdir, ona elə kömək et ki, firavanlıq və xilas zirvəsinə uça bilsin, sonsuz fəza boyunca onun yolunu ən yüksək sevinc və şadlıqla qanadlandır, Sənin Ən Uca Adınla onun nəğmələrini bütün diyarlarda yüksəlt, qulaqları onun səsilə sevindir, gözləri hidayət nişanələrini görməklə işıqlandır.
 
@@ -2676,6 +3148,8 @@ Ya Rəbb! Mən yalnızam, tək və kimsəsizəm. Səndən başqa mənim dayağı
 
 (Source category: İlahi təyid duaları)
 (Bahaiprayers.net ID: 4850)
+
+
 
 
 ### <a id="bpn4851"></a> Prayer bpn4851 in Azərbaycan
@@ -2687,6 +3161,8 @@ Həqiqətən, Sən Ən Qüvvətlisən, Ən Ucasan, Həmişə Bağışlayan, Ən 
 
 (Source category: İlahi təyid duaları)
 (Bahaiprayers.net ID: 4851)
+
+
 
 
 ### <a id="bpn4852"></a> Prayer bpn4852 in Azərbaycan
@@ -2703,6 +3179,8 @@ Həqiqətən, Sən Qüvvətli, Qüdrətli və Qadirsən.
 
 
 
+
+
 ## İlahi xidmət duaları
 
 ### <a id="bpn4752"></a> Prayer bpn4752 in Azərbaycan
@@ -2712,6 +3190,8 @@ Yenə yalvarıram Sənə, Ey mənim Allahım, mənə onları qismət eylə ki, m
 
 (Source category: İlahi xidmət duaları)
 (Bahaiprayers.net ID: 4752)
+
+
 
 
 ### <a id="bpn4753"></a> Prayer bpn4753 in Azərbaycan
@@ -2736,6 +3216,8 @@ Sən, həqiqətən, Qüdrətli, Ən Uca, Hər şeyi Bilən və Hikmət Sahibisə
 
 
 
+
+
 ## Şükr və minnətdarlıq duaları
 
 ### <a id="bpn4830"></a> Prayer bpn4830 in Azərbaycan
@@ -2745,6 +3227,8 @@ Ya Rəbb, Sənin bəndələrinin üzlərini nurlandır ki, onlar Sənə baxsınl
 
 (Source category: Şükr və minnətdarlıq duaları)
 (Bahaiprayers.net ID: 4830)
+
+
 
 
 ### <a id="bpn4831"></a> Prayer bpn4831 in Azərbaycan
@@ -2760,6 +3244,8 @@ Bütün tərif və alqış Sənə olsun, O Kəs ki, bütün şeylər şəhadət 
 (Bahaiprayers.net ID: 4831)
 
 
+
+
 ### <a id="bpn4832"></a> Prayer bpn4832 in Azərbaycan
 Sübhansan Sən, Ya Rəbb, mənim Allahım! Şükr edirəm Sənə, çünki məni qabil etdin ki, Zatının Məzhərini tanıyım və Sənin düşmənlərindən məni ayırdın, Öz günlərində mənim gözüm qarşısında onların bəd əməllərini və şər işlərini açdın, onlara olan bütün bağlılıqlardan məni qurtardın, məni tamamilə Öz fəzlinə və bol nemətlərinə doğru döndərdin. Yenə Sənə şükr edirəm ki, Öz iradə buludlarından məni imansızların eyhamından və kafirlərin kinayəsindən pak edən şeyləri nazil etdin və beləcə mən ürəyimi Sənə bağladım və Sənin üzünün nurunu dananlardan uzaqlaşdım. Yenə də Sənə şükr edirəm ki, Sənin məhəbbətində sabit olmaqda, Səni tərif etməkdə və sifətlərini ucaltmaqda mənə qüvvə verdin, görünən və görünməyən hər şeyi saran mərhəmətinin piyaləsindən mənə içirdin.
 
@@ -2767,6 +3253,8 @@ Sən Qüdrətli, Ən Uca, Ən Cəlallı, Ən Mehribansan.
 
 (Source category: Şükr və minnətdarlıq duaları)
 (Bahaiprayers.net ID: 4832)
+
+
 
 
 ### <a id="bpn4833"></a> Prayer bpn4833 in Azərbaycan
@@ -2778,6 +3266,8 @@ Alqış Sənə, Sən Özündən başqa hər kəsin vəsfindən yüksəksən, ç�
 
 (Source category: Şükr və minnətdarlıq duaları)
 (Bahaiprayers.net ID: 4833)
+
+
 
 
 
@@ -2794,11 +3284,15 @@ Sən istədiyini etməyə Qadirsən. Səndən başqa Allah yoxdur, Həmişə Ba�
 (Bahaiprayers.net ID: 4826)
 
 
+
+
 ### <a id="bpn4827"></a> Prayer bpn4827 in Azərbaycan
 Sənin adın mənim şəfamdır, Ey mənim Allahım, Səni zikr etmək mənim dərmanımdır. Sənə yaxınlıq mənim ümidim və Sənə məhəbbət mənim munisimdir. Sənin mənə mərhəmətin həm bu, həm də o biri dünyada mənim şəfam və yardımımdır. Sən, həqiqətən, ən Kəramətli, ən çох Bilən və ən Hikmətlisən.
 
 (Source category: Şəfa duaları)
 (Bahaiprayers.net ID: 4827)
+
+
 
 
 ### <a id="bpn4828"></a> Prayer bpn4828 in Azərbaycan
@@ -2810,6 +3304,8 @@ Sən, həqiqətən, Şəfaverən, Qoruyan, Kömək Edən, Qüdrətli, Qüvvətli
 (Bahaiprayers.net ID: 4828)
 
 
+
+
 ### <a id="bpn4829"></a> Prayer bpn4829 in Azərbaycan
 Təriflər olsun Sənə, Ey mənim Rəbbim Allah! Sənin ən Böyük Adına and verirəm ki, onunla Sən bəndələrini hərəkətə gətirdin, şəhərlərini inşa etdin və Səni and verirəm ən ali adlarına və ən uca sifətlərinə, Öz xalqına yardım eylə ki, Sənin bol kəramətinə tərəf dönsünlər və üzlərini Sənin hikmət Məbədinə çevirsinlər. O xəstəlikləri sağalt ki, canları hər tərəfdən bürüyüb və onları, nəzərlərini Sənin himayədar Adının sığınacağında olan Cənnətə yönəlməkdən məhrum edib, O Adın ki, Sən onu göydə və yerdə olanlar üçün adların Sultanı təyin etmisən. Sən istədiyini etməyə Qadirsən. Bütün adların səltənəti Sənin əlindədir. Səndən başqa Allah yoxdur, Qüdrət və Hikmət Sahibi.
 
@@ -2819,6 +3315,8 @@ Sən, həqiqətən, bu aləmin və o biri aləmin Rəbbisən. Sən, həqiqətən
 
 (Source category: Şəfa duaları)
 (Bahaiprayers.net ID: 4829)
+
+
 
 
 
@@ -2844,6 +3342,8 @@ Həqiqətən, Sən Kəramətlisən, Qüdrətlisən, hər şeyə Qadirsən, İxti
 
 
 
+
+
 ## Əhddə möhkəmlik duaları
 
 ### <a id="bpn4731"></a> Prayer bpn4731 in Azərbaycan
@@ -2859,6 +3359,8 @@ Səndən başqa Allah yoxdur, Sən Qüdrət və Hikmət Sahibisən.
 (Bahaiprayers.net ID: 4731)
 
 
+
+
 ### <a id="bpn4732"></a> Prayer bpn4732 in Azərbaycan
 O, Qüdrətli, Əfv Edən və Şəfqətlidir! Ey Allah, mənim Allahım! Sən bəndələrinin azğınlıq və xəta çölündə sərgərdan qaldığını görürsən; haradadır Sənin hidayətinin nuru, Sən, Ey aləmin Məqsudu? Sən onların acız və köməksiz olduğunu görürsən; haradadır Sənin qüdrətin, Sən Ey göyün və yerin qüvvələrini ovcunda Saxlayan?
 
@@ -2868,6 +3370,8 @@ Səni and verirəm, Ya Rəbb, mənim Allahım, Sənin inayət günəşinin şəf
 
 (Source category: Əhddə möhkəmlik duaları)
 (Bahaiprayers.net ID: 4732)
+
+
 
 
 ### <a id="bpn4733"></a> Prayer bpn4733 in Azərbaycan
@@ -2881,6 +3385,8 @@ Sən Bağışlayan və Mərhəmətlisən.
 (Bahaiprayers.net ID: 4733)
 
 
+
+
 ### <a id="bpn4734"></a> Prayer bpn4734 in Azərbaycan
 Ey Şəfqətli Allah! Şükürlər Sənə, məni ayıltdın və huşyar etdin. Görən göz verdin və eşidən qulaq əta etdin, səltənətinə istiqamətləndirin və Öz yoluna hidayət etdin. Doğru yolu göstərdin və nicat gəmisinə daxil eylədin. Ey Allah! Məni mətanətli saxla, səbatlı və sədaqətli eylə. Ağır sınaqlardan məni qoru, Əhdi-Peymanının möhkəm qalasında sığınacaq ver və məni hifz eylə. Sən Qüvvətlisən. Sən Görənsən. Sən Eşidənsən.
 
@@ -2892,6 +3398,8 @@ Sən Şəfqətlisən, Mərhəmətlisən. Sən Böyük Lütf Sahibisən.
 (Bahaiprayers.net ID: 4734)
 
 
+
+
 ### <a id="bpn4735"></a> Prayer bpn4735 in Azərbaycan
 Ey mənim Rəbbim və mənim Ümidim! Öz sevimlilərinə kömək eylə ki, Sənin əzəmətli Əhdində möhkəm olsunlar, Sənin aşkar Əmrində sadiq qalsınlar və Nurlu Kitabında onlara hökm etdiklərini yerinə yetirsinlər, ta ki, onlar hidayət bayraqlarına çevrilsinlər, Yaxınlıq Əhlinin çıraqları, Sənin sonsuz hikmətinin çeşmələri olsunlar və ilahi üfüqdə doğru yol göstərən ulduzlar kimi, yeri işıqlandırsınlar.
 
@@ -2899,6 +3407,8 @@ Həqiqətən, Sən Yenilməz, Qudrətli və Qüvvət Sahibisən.
 
 (Source category: Əhddə möhkəmlik duaları)
 (Bahaiprayers.net ID: 4735)
+
+
 
 
 
@@ -2921,6 +3431,8 @@ Sən, həqiqətən, Ən Qüdrətli, Hər Şeyi Bilən və Hər şeydən Xəbərd
 (Bahaiprayers.net ID: 4880)
 
 
+
+
 ### <a id="bpn4881"></a> Prayer bpn4881 in Azərbaycan
 *Kitabi-Əqdəsdə buyrulur: "Biz sizə hökm etmişik ki, kamala çatandan (15 yaş) namaz qılıb oruc tutasınız; Bu Allah tərəfindən, Sizin Rəbbiniz və babalarınızın Rəbbi tərəfindən hökm olunmuşdur.... Səfərdə olana, xəstəyə, uşaqlı və ya süd verən analara Oruc tutmaq hökmü şamil edilmir... Yeməkdən və içməkdən günçıxandan günbatana qədər pəhriz edin və məbada Kitabda təyin olunmuş bu nemətdən özünüzü məhrum edəsiniz" Orucluq müddəti Martın 2-dən 20-sinə qədərdir. Xahış olunur Bəhai təqviminə müraciə edəsiniz.
 
@@ -2930,6 +3442,9 @@ Yardım eylə onlara, Ey mənim Allahım, Sənin uğrunda qələbə qazansınlar
 
 (Source category: Əyyami-Ha, Orucluq, Novruz üçün dualar)
 (Bahaiprayers.net ID: 4881)
+
+
+
 
 
 

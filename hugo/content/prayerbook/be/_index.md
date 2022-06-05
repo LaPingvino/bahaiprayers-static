@@ -3,6 +3,54 @@ title = "Беларускі"
 tags = ['lang=be', 'prayerbook']
 +++
 
+
+
+[Аб вылячэнні](#Аб вылячэнні)
+
+[Аб дапамозе](#Аб дапамозе)
+
+[Аб навучанні Веры](#Аб навучанні Веры)
+
+[Ахова](#Ахова)
+
+[Блаславёны](#Блаславёны)
+
+[Выпрабаванні і цяжкасці](#Выпрабаванні і цяжкасці)
+
+[Вячэрняя](#Вячэрняя)
+
+[Духоўныя якасці](#Духоўныя якасці)
+
+[За бацькоў](#За бацькоў)
+
+[За будучых маці](#За будучых маці)
+
+[За дзяцей і моладзь](#За дзяцей і моладзь)
+
+[За моладзь](#За моладзь)
+
+[За нябожчыкаў](#За нябожчыкаў)
+
+[Кароткая абавязковая малітва](#Кароткая абавязковая малітва)
+
+[Пасланне аб наведванні](#Пасланне аб наведванні)
+
+[Паўночная](#Паўночная)
+
+[Пра кіраўніцтва](#Пра кіраўніцтва)
+
+[Пра сустрэчы](#Пра сустрэчы)
+
+[Пра шлюб](#Пра шлюб)
+
+[Ранішняя](#Ранішняя)
+
+[Хвала і ўдзячнасць](#Хвала і ўдзячнасць)
+
+[Чалавецтва](#Чалавецтва)
+
+
+
 ## Аб вылячэнні
 
 ### <a id="bpn2336"></a> Prayer bpn2336 in Беларускі
@@ -10,6 +58,8 @@ tags = ['lang=be', 'prayerbook']
 
 (Source category: Аб вылячэнні)
 (Bahaiprayers.net ID: 2336)
+
+
 
 
 
@@ -24,6 +74,8 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
+
 ## Аб навучанні Веры
 
 ### <a id="bpn2339"></a> Prayer bpn2339 in Беларускі
@@ -32,6 +84,8 @@ tags = ['lang=be', 'prayerbook']
 
 (Source category: Аб навучанні Веры)
 (Bahaiprayers.net ID: 2339)
+
+
 
 
 
@@ -47,6 +101,8 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
+
 ## Блаславёны
 
 ### <a id="bpn2326"></a> Prayer bpn2326 in Беларускі
@@ -57,6 +113,8 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
+
 ## Выпрабаванні і цяжкасці
 
 ### <a id="bpn2338"></a> Prayer bpn2338 in Беларускі
@@ -64,6 +122,8 @@ tags = ['lang=be', 'prayerbook']
 
 (Source category: Выпрабаванні і цяжкасці)
 (Bahaiprayers.net ID: 2338)
+
+
 
 
 
@@ -79,6 +139,8 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
+
 ## Духоўныя якасці
 
 ### <a id="bpn2334"></a> Prayer bpn2334 in Беларускі
@@ -86,6 +148,8 @@ tags = ['lang=be', 'prayerbook']
 
 (Source category: Духоўныя якасці)
 (Bahaiprayers.net ID: 2334)
+
+
 
 
 
@@ -100,6 +164,8 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
+
 ## За будучых маці
 
 ### <a id="bpn2341"></a> Prayer bpn2341 in Беларускі
@@ -108,6 +174,8 @@ tags = ['lang=be', 'prayerbook']
 
 (Source category: За будучых маці)
 (Bahaiprayers.net ID: 2341)
+
+
 
 
 
@@ -122,6 +190,8 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
+
 ## За моладзь
 
 ### <a id="bpn2333"></a> Prayer bpn2333 in Беларускі
@@ -129,6 +199,8 @@ tags = ['lang=be', 'prayerbook']
 
 (Source category: За моладзь)
 (Bahaiprayers.net ID: 2333)
+
+
 
 
 
@@ -143,6 +215,8 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
+
 ## Кароткая абавязковая малітва
 
 ### <a id="bpn2327"></a> Prayer bpn2327 in Беларускі
@@ -152,6 +226,8 @@ tags = ['lang=be', 'prayerbook']
 
 (Source category: Кароткая абавязковая малітва)
 (Bahaiprayers.net ID: 2327)
+
+
 
 
 
@@ -174,6 +250,8 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
+
 ## Паўночная
 
 ### <a id="bpn2330"></a> Prayer bpn2330 in Беларускі
@@ -186,6 +264,8 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
+
 ## Пра кіраўніцтва
 
 ### <a id="bpn2332"></a> Prayer bpn2332 in Беларускі
@@ -193,6 +273,8 @@ tags = ['lang=be', 'prayerbook']
 
 (Source category: Пра кіраўніцтва)
 (Bahaiprayers.net ID: 2332)
+
+
 
 
 
@@ -208,6 +290,8 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
+
 ## Пра шлюб
 
 ### <a id="bpn2347"></a> Prayer bpn2347 in Беларускі
@@ -217,6 +301,8 @@ tags = ['lang=be', 'prayerbook']
 
 (Source category: Пра шлюб)
 (Bahaiprayers.net ID: 2347)
+
+
 
 
 
@@ -230,6 +316,8 @@ tags = ['lang=be', 'prayerbook']
 
 
 
+
+
 ## Хвала і ўдзячнасць
 
 ### <a id="bpn2343"></a> Prayer bpn2343 in Беларускі
@@ -238,6 +326,8 @@ tags = ['lang=be', 'prayerbook']
 
 (Source category: Хвала і ўдзячнасць)
 (Bahaiprayers.net ID: 2343)
+
+
 
 
 
@@ -255,6 +345,9 @@ tags = ['lang=be', 'prayerbook']
 
 (Source category: Чалавецтва)
 (Bahaiprayers.net ID: 2344)
+
+
+
 
 
 

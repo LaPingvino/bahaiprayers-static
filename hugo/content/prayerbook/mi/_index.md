@@ -3,6 +3,90 @@ title = "Māori"
 tags = ['lang=mi', 'prayerbook']
 +++
 
+
+
+[KARAKIA MŌ TE MOANANUIA-KIWA](#KARAKIA MŌ TE MOANANUIA-KIWA)
+
+[MŌ NGĀ HUI](#MŌ NGĀ HUI)
+
+[MŌ TE AHIAHI](#MŌ TE AHIAHI)
+
+[MŌ TE ATA](#MŌ TE ATA)
+
+[MŌ TE HUNGA MATE](#MŌ TE HUNGA MATE)
+
+[MŌ TE HUNGA RANGATAHI](#MŌ TE HUNGA RANGATAHI)
+
+[MŌ TE HUNGA TAMARIKI](#MŌ TE HUNGA TAMARIKI)
+
+[MŌ TE HUNGA WAHINE](#MŌ TE HUNGA WAHINE)
+
+[MŌ TE HUNGA WĀHINE E KŌPŪ ANA](#MŌ TE HUNGA WĀHINE E KŌPŪ ANA)
+
+[MŌ TE IRA TANGATA](#MŌ TE IRA TANGATA)
+
+[MŌ TE KOTAHITANGA](#MŌ TE KOTAHITANGA)
+
+[MŌ TE KŌHUNGAHUNGA](#MŌ TE KŌHUNGAHUNGA)
+
+[MŌ TE MURUNGA HARA](#MŌ TE MURUNGA HARA)
+
+[MŌ TE MĀRAMATANGA](#MŌ TE MĀRAMATANGA)
+
+[MŌ TE MĀRENA](#MŌ TE MĀRENA)
+
+[MŌ TE NOHOTAPU KI TE KOREKAI](#MŌ TE NOHOTAPU KI TE KOREKAI)
+
+[MŌ TE PIRIPONO](#MŌ TE PIRIPONO)
+
+[MŌ TE PONONGATANGA](#MŌ TE PONONGATANGA)
+
+[MŌ TE PŪTEA](#MŌ TE PŪTEA)
+
+[MŌ TE RŪNANGA WAIRUA TAPU](#MŌ TE RŪNANGA WAIRUA TAPU)
+
+[MŌ TE TATA RAWA KI TE ATUA](#MŌ TE TATA RAWA KI TE ATUA)
+
+[MŌ TE TIAKITANGA](#MŌ TE TIAKITANGA)
+
+[MŌ TE TUPU O TE WAIRUA](#MŌ TE TUPU O TE WAIRUA)
+
+[MŌ TE WETEWETENGA](#MŌ TE WETEWETENGA)
+
+[MŌ TE WHAKAAKO](#MŌ TE WHAKAAKO)
+
+[MŌ TE WHAKAKORŌRIA ME TE WHAKAWHETAI](#MŌ TE WHAKAKORŌRIA ME TE WHAKAWHETAI)
+
+[MŌ TE WHAKAORA](#MŌ TE WHAKAORA)
+
+[MŌ TE WHAKAPĀTARITARI ME TE RARURARU](#MŌ TE WHAKAPĀTARITARI ME TE RARURARU)
+
+[MŌ TE WHĀNAU](#MŌ TE WHĀNAU)
+
+[MŌ TE ĀWHINA ME TE MANAAKI](#MŌ TE ĀWHINA ME TE MANAAKI)
+
+[MŌ TE Ū KI TE KAWENATA](#MŌ TE Ū KI TE KAWENATA)
+
+[MŌ WAENGANUI PŌ](#MŌ WAENGANUI PŌ)
+
+[NGĀ PUKATUHI O TE TORO HAERE](#NGĀ PUKATUHI O TE TORO HAERE)
+
+[TE KARAKIA POTO ME TAKI](#TE KARAKIA POTO ME TAKI)
+
+[TE KARAKIA ROA ME TAKI](#TE KARAKIA ROA ME TAKI)
+
+[TE KARAKIA ĀHUA ROA  ME TAKI](#TE KARAKIA ĀHUA ROA  ME TAKI)
+
+[TE PAPATUHI E MUMURA AI TE NGĀKAU PONO](#TE PAPATUHI E MUMURA AI TE NGĀKAU PONO)
+
+[TE PAPATUHI O AḤMAD](#TE PAPATUHI O AḤMAD)
+
+[TE PAPATUHI O CARMEL](#TE PAPATUHI O CARMEL)
+
+[ḤUQÚQU’LLÁH: KO TĒTAHI MŌTIKA NĀ TE ATU](#ḤUQÚQU’LLÁH: KO TĒTAHI MŌTIKA NĀ TE ATU)
+
+
+
 ## KARAKIA MŌ TE MOANANUIA-KIWA
 
 ### <a id="bpn10246"></a> Prayer bpn10246 in Māori
@@ -15,6 +99,8 @@ E Koe tōku Ariki ngākau māhaki! Tukua mai ki ahau te kaha e āhei ai ahau ki 
 
 
 
+
+
 ## MŌ NGĀ HUI
 
 ### <a id="bpn10190"></a> Prayer bpn10190 in Māori
@@ -22,6 +108,8 @@ E te Atua Manaaki. Ko tēnei huihuinga ko Ōu hoa kua aukumea ki tō ātaahua, k
 
 (Source category: MŌ NGĀ HUI)
 (Bahaiprayers.net ID: 10190)
+
+
 
 
 
@@ -36,6 +124,8 @@ Kāore he Atua tua atu i a Koe, te Kaha Rawa, te Whakamārie Rawa, te Takahuriha
 
 
 
+
+
 ## MŌ TE ATA
 
 ### <a id="bpn10185"></a> Prayer bpn10185 in Māori
@@ -43,6 +133,8 @@ Kua whakaarahia nei ahau ki raro i Tāu maru, e tōku Atua, ā, he taunga nōna 
 
 (Source category: MŌ TE ATA)
 (Bahaiprayers.net ID: 10185)
+
+
 
 
 
@@ -76,6 +168,8 @@ Ko tātou katoa, tūturu, e hūmārire ana i roto i Te Atua (x19)
 (Bahaiprayers.net ID: 10191)
 
 
+
+
 ### <a id="bpn10192"></a> Prayer bpn10192 in Māori
 Ko Ia Te Atua, korōria ki a Ia, ko Ia Te Ariki o te aroha me te tōnui!
 
@@ -105,6 +199,8 @@ Kāore he Atua i tua atu i a Koe, te Kotahi, te Takitahi, te Pūkaha, te Mātau-
 (Bahaiprayers.net ID: 10192)
 
 
+
+
 ### <a id="bpn10193"></a> Prayer bpn10193 in Māori
 Kei tōku Atua! e Koe te poumuru i te hara te kaituku i ngā tākoha, te kaiwhakaora o ngā mate! 
 
@@ -117,6 +213,8 @@ Kei tōku Atua! Kia horoia rātou i ngā hara, kia mahea ō rātou pōkē, kia t
 
 
 
+
+
 ## MŌ TE HUNGA RANGATAHI
 
 ### <a id="bpn10201"></a> Prayer bpn10201 in Māori
@@ -124,6 +222,8 @@ E Koe te Ariki ngākau māhaki! Tukua mai koa ētahi parirau e rua mai i te rang
 
 (Source category: MŌ TE HUNGA RANGATAHI)
 (Bahaiprayers.net ID: 10201)
+
+
 
 
 ### <a id="bpn10202"></a> Prayer bpn10202 in Māori
@@ -135,11 +235,15 @@ Ko Koe te Poutuku, te Rauaroha-Katoa.
 (Bahaiprayers.net ID: 10202)
 
 
+
+
 ### <a id="bpn10203"></a> Prayer bpn10203 in Māori
 E Te Ariki! Meinga tēnei taiohi kia kōpura, hōmai rā Tāu manaaki ki runga ki tēnei kīrehe rawakore. Tukua mai te māturanga ki runga i a ia, kia whaikaha anō i te pūao o te atatū, tiakina hoki ia i te ataata o Tāu maru kia wātea ia mai i te hē, ka piripono ai ia ki te ponongatanga ki Tō Kaupapa, ka arataki ai ia i te hunga pōrori, ka ārahi ai i te taitaiā, whakawātea i te mauhere, whakaara hoki i te arokore, ka whakapaingia ai te katoa ki Tōu maumahara, korōria hoki. Ko Koe te Mananui me te Pūkaha.
 
 (Source category: MŌ TE HUNGA RANGATAHI)
 (Bahaiprayers.net ID: 10203)
+
+
 
 
 ### <a id="bpn10204"></a> Prayer bpn10204 in Māori
@@ -156,6 +260,8 @@ Ko Koe te Pūkaha-Katoa, te Korōria-Katoa, te Kaha Rawa.
 
 
 
+
+
 ## MŌ TE HUNGA TAMARIKI
 
 ### <a id="bpn10206"></a> Prayer bpn10206 in Māori
@@ -167,6 +273,8 @@ Tēnei ahau te inoi nei ki a Koe mā Tōu ingoa, e taea ai e te katoa te whakawh
 (Bahaiprayers.net ID: 10206)
 
 
+
+
 ### <a id="bpn10207"></a> Prayer bpn10207 in Māori
 E Te Atua! Whakaakona ēnei tamariki. Ko aua tamariki nei ngā tupunga o Tāu māra, ngā pūāwai o Tāu raorao, ngā rōhi o Tāu kāri. Tukua Tō ua kia heke ki runga i a rātou; kia whiti te Rā o Tūturutanga ki runga ki a rātou me Tōu aroha. Kia whaiora ai rātou i tō hau angiangi kia whakaakona ai rātou, kia tupu, kia pūāwai, kia puta ki te ātaahua nui whakahirahira. Ko Koe te Pouhōmai. Ko Koe te Mākoha.
 
@@ -174,11 +282,15 @@ E Te Atua! Whakaakona ēnei tamariki. Ko aua tamariki nei ngā tupunga o Tāu m�
 (Bahaiprayers.net ID: 10207)
 
 
+
+
 ### <a id="bpn10208"></a> Prayer bpn10208 in Māori
 E Te Atua, ārahina ahau, tiakina mai, kia meinga ahau hei rama pīataata, hei whetū tīramarama. Ko Koe te Mananui me te Pūkaha.
 
 (Source category: MŌ TE HUNGA TAMARIKI)
 (Bahaiprayers.net ID: 10208)
+
+
 
 
 ### <a id="bpn10209"></a> Prayer bpn10209 in Māori
@@ -192,11 +304,15 @@ Ko Koe te Pūkaha, te Rauaroha-Katoa.
 (Bahaiprayers.net ID: 10209)
 
 
+
+
 ### <a id="bpn10210"></a> Prayer bpn10210 in Māori
 Ko Ia Te Atua! e Te Atua, tōku Atua! Tukua mai ki ahau te manawa parakore, he ōrite ki te poe.
 
 (Source category: MŌ TE HUNGA TAMARIKI)
 (Bahaiprayers.net ID: 10210)
+
+
 
 
 ### <a id="bpn10211"></a> Prayer bpn10211 in Māori
@@ -207,11 +323,15 @@ Ko Koe te Mananui me te Pūkaha, ā, ko Koe te Rauaroha-Katoa, te Mōhio-Katoa, 
 (Bahaiprayers.net ID: 10211)
 
 
+
+
 ### <a id="bpn10212"></a> Prayer bpn10212 in Māori
 E Koe te Āriki korōria tonu! Meinga tēnei hāwini iti Nāu kia whakapaingia kia harikoa; kia whakaahurutia ki te aroaro o Tōu kotahitanga, kia inu mai i te kapu o Tōu aroha ka whakakiia ai ia ki te mataora me te manawarū ka tūringiringitia ai ngā tīare kakara pū. Ko Koe te Mananui me te Pūkaha, ā, ko Koe te Mōhio-Katoa, te Kite-Katoa.
 
 (Source category: MŌ TE HUNGA TAMARIKI)
 (Bahaiprayers.net ID: 10212)
+
+
 
 
 
@@ -228,6 +348,8 @@ Ko Koe, tūturu, te Ariki o te Rā Whakawā.
 (Bahaiprayers.net ID: 10197)
 
 
+
+
 ### <a id="bpn10195"></a> Prayer bpn10195 in Māori
 Korōria ki a Koe, E Te Ariki tōku Atua! Ko Koe tēnā Nāu te ahi i ngiha ai kia mura mai ngā manawa o te hunga e mōhio ana ki Tāu kotahitanga; nā ngā hahanatanga o Tōu mata i mārama ai ngā kanohi o te hunga kua tata ki Tō kōti. Te hōrapa hoki e tōku Atua, o te awa o Tāu Matatau! Te reka hoki e tōku Kōingo, o te wharanga, nā tōku aroha ki a Koe, me te take o Tāu rēhia, i pāngia ai ahau ki ngā rāti o te hunga mahi kino! Kātahi te rekareka o ngā tūnga koirā Tāu ara, ā hei whakaatu i Tāu Whakapono, ka mau i ahau mai i ngā hoari o te hunga whakaponokore!
 
@@ -241,6 +363,8 @@ Pūkaha ai Koe ki te mahi i tāu e hiahia ai. Ko Koe, tūturu, te Mōhio-Katoa, 
 (Bahaiprayers.net ID: 10195)
 
 
+
+
 ### <a id="bpn10196"></a> Prayer bpn10196 in Māori
 Korōria ki a Koe, E Te Ariki tōku Atua! Ko Koe rā Ia Nāna ngā mea katoa i hanga mā te kupu o Tāu i hiahia ai, te orokohanganga katoa i puta ai mā te mana o Tōu tino rangatiratanga mananui. Ko ngā tāngata whaikaha nui kua whakaititia i mua i ngā whakakitenga o Tōu korōria, ā ko rātou e whaingoi ana kua kūnāwiri i te kitenga i ngā taunakitanga o Tōu kaha rawa. Ko ia tangata matakite kua kore e pērā mai i te mumura o te kororia o Tōu kanohi, a ko ia e whairawa ana kua rawakore, kua pōhara i te kitenga o te nunui o Tōu tōnuitanga. 
 
@@ -252,6 +376,8 @@ Kei a Koe te kaha e taea ai Tāu e hiahia ai, Tāu e tohungia ai, Tāu e pai ai.
 
 (Source category: MŌ TE HUNGA WAHINE)
 (Bahaiprayers.net ID: 10196)
+
+
 
 
 ### <a id="bpn10198"></a> Prayer bpn10198 in Māori
@@ -268,6 +394,8 @@ Kāore kau he Atua i tua atu i a Koe, te Atua mananui, te Atua korōria, te Atua
 (Bahaiprayers.net ID: 10198)
 
 
+
+
 ### <a id="bpn10194"></a> Prayer bpn10194 in Māori
 E Te Ariki, e ko Koe Nāu te tohu aroha e karapoti nei i te katoa, Nāu te murunga hara mārama pai, Nāu te whakahirahira, Nāu te murunga hara me te manakitanga ki te katoa, me ngā rama o Tāna murunga hara he mea tuku ki te ao katoa! e Te Ariki o te Korōria! Tēnei ahau te kaha inoi atu nei ki a Koe me te whiu roimata kia ūwhia tāu hāwini, kua piki ake nei ki a Koe, ko ngā tirohanga mai i te whatu o Tāu tohu atawhai. Kākahuria a ia ki te pueru o Tō atawhai e hahana ana ki ngā whakarei o te Wāhi Pai Rawa i te rangi, ā, kia whai maru a ia ki raro o te rākau o Tō kotahitanga whakahahanatia tana kanohi ki ngā rama o Tāu tohu aroha me Tō ngākau māhaki.
 
@@ -277,11 +405,15 @@ Tukua mai ki tō hāwini e Te Atua, ngā kakara tapu i pupū mai i te wairua o T
 (Bahaiprayers.net ID: 10194)
 
 
+
+
 ### <a id="bpn10199"></a> Prayer bpn10199 in Māori
 E tōku Ariki, tōku Tōmina! Tauhoatia mai ahau me taku kaha moke, haere ngātahi mai ki tōku manenetanga. Tangohia taku pāpōuri. Meinga ahau kia piripono ki Tō ātaahua. Unuhia ahau mai i te katoa i tua atu i a Koe. Autōhia ahau mā Ōu kakara o te taputanga. Meinga ahau kia noho ki Tōu Kīngitanga ki a rātou kua tauwehea ki te katoa i tua atu i a Koe, rātou e minaka ana ki te whakarato i Tōu aroaro tapu, rātou e kaha ana ki te tū ki te mahi mō Tō Kaupapa. Whakakahangia mai ahau kia tū hei hāwini Nāu e whakaea nei i Tāu e pai ai. Tūturu ko Koe te Tohu Tūpore, te Marere.
 
 (Source category: MŌ TE HUNGA WAHINE)
 (Bahaiprayers.net ID: 10199)
+
+
 
 
 
@@ -294,6 +426,8 @@ e tōku Ariki, ka tapaea e ahau te hua o tōku kōpū ki a Koe. Māu rā pea ia 
 
 (Source category: MŌ TE HUNGA WĀHINE E KŌPŪ ANA)
 (Bahaiprayers.net ID: 10200)
+
+
 
 
 
@@ -320,6 +454,8 @@ Ko Koe te Mananui me te Pūkaha. Ko Koe te Murunga Hara ko Koe anō te Pouwhakar
 (Bahaiprayers.net ID: 10213)
 
 
+
+
 ### <a id="bpn10214"></a> Prayer bpn10214 in Māori
 E Te Atua e Koe, Nāu Tōu ātaahua i maka ki runga o ngā tūturutanga whakaharahara o te tangata, te waiho ki runga ki a rātou ngā rama muramura o te mātauranga me te tohutohu. Nāu rātou i kōwhirihia ai mai i ngā ōrokohanganga katoa ki tēnei aroha whakahirahira, Nāu rātou i kōpakina ai ki ngā mea katoa kia mōhio ai rātou ki te tino mauri o roto, kia whakaaturia ai ō rātou pohewa, te kukume i a rātou mai i te pōuritanga ki te ao mārama! “Ko Ia tūturu te whakaatu nei i Tōna aroha motuhake ki ērā ki tāna e hiahia ai.” 
 
@@ -332,6 +468,8 @@ Tūturu ko Koe te Pūkaha, te Kaitiaki, Te Mananui, te Pouwawao, te Mananui, Te 
 
 
 
+
+
 ## MŌ TE KOTAHITANGA
 
 ### <a id="bpn10219"></a> Prayer bpn10219 in Māori
@@ -339,6 +477,8 @@ E tōku Atua! e tōku Atua! Whakakotahitia ngā ngākau o Āu pononga, whakaatur
 
 (Source category: MŌ TE KOTAHITANGA)
 (Bahaiprayers.net ID: 10219)
+
+
 
 
 ### <a id="bpn10220"></a> Prayer bpn10220 in Māori
@@ -357,6 +497,8 @@ Tūturu, ko Koe te Kaharawa, te Matua-Kore Ora Tonu Ake, te Pouhōmai, te Tohu A
 
 
 
+
+
 ## MŌ TE KŌHUNGAHUNGA
 
 ### <a id="bpn10215"></a> Prayer bpn10215 in Māori
@@ -368,6 +510,8 @@ Nō reira tāku tino inoi ki a Koe, mā Tōu ingoa Nāna Tāu whakatinanatanga i
 (Bahaiprayers.net ID: 10215)
 
 
+
+
 ### <a id="bpn10216"></a> Prayer bpn10216 in Māori
 Korōria ki a Koe , E Te Ariki tōku Atua! Tukua mai koa ki tēnei pōtiki kia whāngaia mai i te uma o Tōu tohu atawhai, manaakitanga aroha hoki, me te whāngaia ki ngā hua o Āu rākau o te rangi. Kaua ia e tukua kia poipoia e tētehi atu i a Koe, ināhoki ko Koe, ki Tāu ake, nā te kaha o Tāu mana motuhake, Nāu ia i hanga, i karanga ki te ao-mārama. Kāore he Atua i tua atu i a Koe, te Kaharawa, te Mōhio-Katoa. 
 
@@ -377,6 +521,8 @@ Kōrōria ki a Koe, e te Tino Tau, horahia ki runga ki a ia ngā konakona o Tāu
 (Bahaiprayers.net ID: 10216)
 
 
+
+
 ### <a id="bpn10217"></a> Prayer bpn10217 in Māori
 E Koe Te Ariki kotahi tonu! Tukua tēnei kōhungahunga kia ngote ki te ū o Tāu kaingākaunui, tiakina rā ia ki te kōhanga o Tāu piringa maru, inā, tukua ia kia whakatupuria ki ngā ringa o Tōu ngākau māhaki.
 
@@ -384,11 +530,15 @@ E Koe Te Ariki kotahi tonu! Tukua tēnei kōhungahunga kia ngote ki te ū o Tāu
 (Bahaiprayers.net ID: 10217)
 
 
+
+
 ### <a id="bpn10218"></a> Prayer bpn10218 in Māori
 E Te Atua! Whakatupuria tēnei pēpē ki te uma o Tōu aroha, whāngotehia ki te ū o Tāu Manaaki. Kia tīmatatia tēnei tupunga mata ki te māra rōhi o Tōu aroha, āwhinatia hoki ia kia tupu mā ngā kōpatapata o Āu rawa nui. Meinga ia hei tama o te kīngitanga, ārahina ki Tōu mananui i te rangi. He pūkaha Koe, he atawhai, ko Koe hoki te Poutuku, te Marere, te Ariki o te tōnui pahika.
 
 (Source category: MŌ TE KŌHUNGAHUNGA)
 (Bahaiprayers.net ID: 10218)
+
+
 
 
 
@@ -407,11 +557,15 @@ Tūturu ko Koe te Poumurunga Hara, Te Mākoha, ko Koe te Marere, te Tau!
 (Bahaiprayers.net ID: 10223)
 
 
+
+
 ### <a id="bpn10224"></a> Prayer bpn10224 in Māori
 Ete Ariki murunga hara! Ko Koe te piringa o te katoa o Ōu pononga. e mōhio ana Koe ki ngā mea muna, ki ngā mea katoa hoki. He ngoikore mātou katoa, ko Koe te Mananui, te Kaha Rawa. He hunga hara mātou katoa, ko Koe te Poumuru i te hara, te Tohu Atawhai, te Mākoha. e Te Ariki! Kaua ō mātou ngoikore e tirohia. Mā Tōu atawhai me Tōu tōnui mātou e taurimatia ai. He maha ō mātou ngoikoretanga ēngari kāore he rohenga o te moananui o Tōu murunga hara. He nui rawa tō mātou kahakore, ēngari ko ngā taunakitanga o Tāu āwhina mai he mārama. Nō reira tautokona mai, whakakahatia mai mātou. Kia āhei mātou ki te mahi i ngā mahi tika ki Tōu Mahau. Whakangihangia ō mātou ngākau, tukua mai ki a mātou he kanohi mārama te titiro, he taringa koi te whakarongo, Whakaorangia te hunga mate, te hunga tūroro. Tukua ki te hunga pōhara te whairawa, ki te hunga mataku te haumaru. Tukua mātou kia uru ki roto o Tō kīngitanga, whakangihangia mātou ki te rama o te arataki, Ko Koe te Pūkaha me te Kaha Rawa. Ko Koe te Marere. Ko Koe te Rongomau. Ko Koe te Ngākau Māhaki.
 
 (Source category: MŌ TE MURUNGA HARA)
 (Bahaiprayers.net ID: 10224)
+
+
 
 
 
@@ -428,6 +582,8 @@ Ko Koe te Pouhōmai Nui, te Tohu Atawhai i ngā wā katoa, te Mākoha Rawa.
 
 (Source category: MŌ TE MĀRAMATANGA)
 (Bahaiprayers.net ID: 10258)
+
+
 
 
 
@@ -455,6 +611,8 @@ E Koe Te Ariki atawhai! Kia meinga e Koe tēnei mārena kia whai hua ā-kāoa ā
 
 
 
+
+
 ## MŌ TE NOHOTAPU KI TE KOREKAI
 
 ### <a id="bpn10221"></a> Prayer bpn10221 in Māori
@@ -471,6 +629,8 @@ Awhinatia mai rātou, e tōku Atua, kia tukua ki a Koe te wikitōria, kia whakak
 
 
 
+
+
 ## MŌ TE PIRIPONO
 
 ### <a id="bpn10225"></a> Prayer bpn10225 in Māori
@@ -482,6 +642,8 @@ Ko ahau rā ia, e tōku Ariki, tēnei te wareware nei ki te katoa i tua atu i a 
 (Bahaiprayers.net ID: 10225)
 
 
+
+
 ### <a id="bpn10226"></a> Prayer bpn10226 in Māori
 Whakakorōriatia ana, whakamoemititia ana  ko Koe e Te Atua! Tukua mai kia horo te rā o te whakaekenga ki Tōu aroaro tapu. Whakaharikoangia ō mātou ngākau ki te kaha o Tōu aroha, o Tāu manako, ā, tukua mai ki a mātou te manawanui e taea ai e mātou te koropiko ki Tāu e Hiahia ai, ki Tāu e Kī ai. Tūturu, ko Tāu māramatanga ia te tauawhia o ngā mea katoa Nāu i hanga, ā, Māu e hanga, ā, ko Tōu kaha o runga rawa tērā te whiti ake ki Tāu i karanga ai, e karanga ai rānei kia hangangia. Kāore i tua atu i a Koe hei koropikonga, hei kōingotanga, hei tauawhinga, kāore hoki i tua atu i Tāu e hiahia ai hei arohatanga.
 
@@ -491,11 +653,15 @@ Tūturu, ko Koe te Ariki o ngā ariki, te Pono Mananui, te Pouāwhina i ngā Wā
 (Bahaiprayers.net ID: 10226)
 
 
+
+
 ### <a id="bpn10227"></a> Prayer bpn10227 in Māori
 E Te Ariki tōku Atua! Āwhinatia mai ngā tau o Tōu ate kia pūmau ki Tō Whakapono, kia hīkoitia Āu ara, kia manawanui ki Tō Kaupapa. Tukua mai ki a rātou Tō atawhai kia taea ai te haukoti i ngā whakaekenga o te kaiponu me te manawawera, te whai hoki i te rama o te aratakinga tapu. Ko Koe te Pūkaha, te Tohu Tūpore, te Kotahi Tonu, te Poutuku, te Mākoha, te Kaharawa, te Whairawanui-Katoa.
 
 (Source category: MŌ TE PIRIPONO)
 (Bahaiprayers.net ID: 10227)
+
+
 
 
 
@@ -510,6 +676,8 @@ Whaikaha ai Koe ki te mahi i tāu e hiahia ai. Kāore he Atua i tua atu i a Koe,
 
 (Source category: MŌ TE PONONGATANGA)
 (Bahaiprayers.net ID: 10228)
+
+
 
 
 
@@ -529,6 +697,8 @@ Tūturu, Ko Koe te Poumanaaki, te Pouāwhina, te Marere, te Whairawa, te Poutuku
 
 
 
+
+
 ## MŌ TE RŪNANGA WAIRUA TAPU
 
 ### <a id="bpn10230"></a> Prayer bpn10230 in Māori
@@ -541,6 +711,8 @@ E Te Atua, tōku Atua! Ko mātou he pononga Nāu kua tahuri me te piripono ki T�
 
 
 
+
+
 ## MŌ TE TATA RAWA KI TE ATUA
 
 ### <a id="bpn10231"></a> Prayer bpn10231 in Māori
@@ -550,6 +722,8 @@ Haumarutia ki Tōu tiakitanga, e Koe te Wairua o te parakore, ā, ko Koe Te Pouh
 
 (Source category: MŌ TE TATA RAWA KI TE ATUA)
 (Bahaiprayers.net ID: 10231)
+
+
 
 
 
@@ -566,11 +740,15 @@ Ko Koe, tūturu, te Kaharawa, te Whaikorōria rawa, te Poumurunga-Hara i ngā W�
 (Bahaiprayers.net ID: 10232)
 
 
+
+
 ### <a id="bpn10233"></a> Prayer bpn10233 in Māori
 E Te Atua, tōku Atua! Kua wehe ahau i tōku whare, e pupuri ana i te aho o Tōu aroha, ā, kua herea katoa ahau ki Tōu manaaki, ki Tōu tiakitanga. Tēnei ahau te inoi nei ki a Koe mā Tōu kaha nāna Koe i tiaki ai ngā tau o Tōu ate mai i te hunga pōrori, houkeke hoki, i te kaipēpehi whakatuturi, i te hunga mahi kikino kua kōtiti matara atu i a Koe, kia noho haumaru ahau ki Tōu Tōnui me Tō atawhai. Ā tēnā, whakakahangia ahau kia hoki ahau ki tōku whare mā Tōu kaha me Tōu mana. Ko Koe, tūturu, te Kaharawa, te Pouāwhina mai i te Mōrearea, te Matua-Kore.
 
 (Source category: MŌ TE TIAKITANGA)
 (Bahaiprayers.net ID: 10233)
+
+
 
 
 
@@ -585,11 +763,15 @@ Mai i te kakara o ngā wai o Tōu mutungakore, hōmai ki ahau hei inu, e tōku A
 (Bahaiprayers.net ID: 10234)
 
 
+
+
 ### <a id="bpn10235"></a> Prayer bpn10235 in Māori
 Hangaia mai ki roto i a ahau he ngākau parakore, e tōku Atua, whakahoungia he manako hūmārire ki roto i ahau, e tōku Whakapono! Mā te wairua o te kaha whakaūngia ahau e Koe ki Tō Kaupapa, e tōku Tino Tau, ā, mā te rama o Tōu korōria Tōu ara e mārama ai ki ahau, e Koe te Rure o tōku Tōmina! Mā te kaha o Tōu kaha matakite ahau e hikitia ai ki te rangi o Tōu tapu, e te Mātāpuna o tōku mauri, ā mā ngā hau o Tōu mutungakore ahau e harakoa ai, e Koe tōku Atua! Tukua ko ō waiata mutungakore kia hā mai te hūmārire, e tōku Hoa, ā mā ngā rawa o Tōu mata onamata ahau e wātea atu i te katoa i tua atu i a Koe, e tōku Rangatira, ā, mā ngā rongopai o te whakakitenga o Tōu Mauri pono ahau e harakoa ai, e Koe te tino whakatinanatanga o ngā whakatinanatanga, te tino huna o ngā mea huna!
 
 (Source category: MŌ TE TUPU O TE WAIRUA)
 (Bahaiprayers.net ID: 10235)
+
+
 
 
 ### <a id="bpn10236"></a> Prayer bpn10236 in Māori
@@ -599,6 +781,8 @@ Ko Koe, tūturu, te Kaharawa, te Korōria-Rawa, ko koe te Tino Pūkaha Rawa Atu.
 
 (Source category: MŌ TE TUPU O TE WAIRUA)
 (Bahaiprayers.net ID: 10236)
+
+
 
 
 ### <a id="bpn10237"></a> Prayer bpn10237 in Māori
@@ -616,11 +800,15 @@ Ko Koe tūturu te Kaharawa, te Poumuru hara, te Mākoha.
 (Bahaiprayers.net ID: 10237)
 
 
+
+
 ### <a id="bpn10240"></a> Prayer bpn10240 in Māori
 Tēnei tāku inoi ki a Koe, e tōku Atua, mā te korōria matakite o Tōu Ingoa, kia kākahuria ngā tau o Tōu ate ki te korowai o te tika kia whakapīataatatia rātou ki te rama o te whakawhirinaki. Ko Koe Tērā Nāna te kaha kia mahi i Tāna e hiahia ai, kei Ōna ringa hoki ngā reina o ngā mea katoa, e kitea ana e kore hoki e kitea.
 
 (Source category: MŌ TE TUPU O TE WAIRUA)
 (Bahaiprayers.net ID: 10240)
+
+
 
 
 ### <a id="bpn10238"></a> Prayer bpn10238 in Māori
@@ -632,11 +820,15 @@ e Te Atua! Hoa nui kē atu Koe i ahau ki ahau anō. Kua tāpae atu ahau i ahau a
 (Bahaiprayers.net ID: 10238)
 
 
+
+
 ### <a id="bpn10239"></a> Prayer bpn10239 in Māori
 E Tōku Ariki! e Tōku Ariki! He rama tēnei kua ngiha mai i te ahi o Tōu aroha, e kā ana i te mura kua tahuna ki te rākau o Tāu tohu atawhai. e Tōku Ariki! Whakakahangia tōna ngiha, tōna wera, tōna mura ki te ahi i tahuna ki te Hīnai o Tāu Whakatinanatanga. Tūturu, ko Koe te pou taunaki, te Pouāwhina, te Pūkaha, te marere, te Pourauaroha.
 
 (Source category: MŌ TE TUPU O TE WAIRUA)
 (Bahaiprayers.net ID: 10239)
+
+
 
 
 
@@ -660,6 +852,8 @@ Kāore he Atua i tua atu i a Koe, te Kaha rawa, te Māhaki rawa.
 
 
 
+
+
 ## MŌ TE WHAKAAKO
 
 ### <a id="bpn10244"></a> Prayer bpn10244 in Māori
@@ -677,6 +871,8 @@ Tūturu, ko Koe te Pūkaha, te Mananui me te Kaha Rawa me te Pūkaha Nui, ā ko 
 (Bahaiprayers.net ID: 10244)
 
 
+
+
 ### <a id="bpn10245"></a> Prayer bpn10245 in Māori
 ##MEA WHAKAATU KI NGĀ BAHÁ’Í O TE TONGA O AMERIKA
 
@@ -691,6 +887,8 @@ Ko Koe te Kaha Rawa me te Poumahi o Tāu e hiahia ai.
 
 
 
+
+
 ## MŌ TE WHAKAKORŌRIA ME TE WHAKAWHETAI
 
 ### <a id="bpn10247"></a> Prayer bpn10247 in Māori
@@ -699,6 +897,8 @@ Whakangihangia mai, e te Ariki, ngā kanohi o Āu pononga, ka kite ai rātou i a
 
 (Source category: MŌ TE WHAKAKORŌRIA ME TE WHAKAWHETAI)
 (Bahaiprayers.net ID: 10247)
+
+
 
 
 
@@ -715,11 +915,15 @@ Pūkaha ai Koe ki te mahi i Tāu e hiahia ai. Kāore he Atua i tua atu i a Koe, 
 (Bahaiprayers.net ID: 10248)
 
 
+
+
 ### <a id="bpn10249"></a> Prayer bpn10249 in Māori
 Ko Tō ingoa tōku whakaoranga, e tōku Atua ā, ko te maumahara ki a Koe tōku rongoā. Ko te pātata ki a Koe tōku tūmanako, ko taku aroha Mōu tōku hoa. Ko tō ātawhai mōku taku whakaoranga me taku āwhina ki tēnei ao me te ao kei te haere mai. Ko Koe, tūturu, te WhairawanuiKatoa, Mōhio-Katoa, te Whaiwhakaaronui-Katoa.
 
 (Source category: MŌ TE WHAKAORA)
 (Bahaiprayers.net ID: 10249)
+
+
 
 
 
@@ -732,11 +936,15 @@ Ko tāku tono ki a Koe ki Tōu kaha, e tōku Atua! Kia kaua ahau e whara i ngā 
 (Bahaiprayers.net ID: 10251)
 
 
+
+
 ### <a id="bpn10250"></a> Prayer bpn10250 in Māori
 He Pouwetewete i te raruraru i tua atu i Te Atua? Meatia: Korōria ki Te Atua! Ko Ia Te Atua. Ko ngā mea katoa Āna pononga, katoa he whakarongo ki Tāna e hiahia ai!
 
 (Source category: MŌ TE WHAKAPĀTARITARI ME TE RARURARU)
 (Bahaiprayers.net ID: 10250)
+
+
 
 
 
@@ -750,6 +958,8 @@ E Te Ariki! Ki tēnei Whakawāteatanga Nui Whakaharahara Rawa Atu kua whakaaea e
 
 
 
+
+
 ## MŌ TE ĀWHINA ME TE MANAAKI
 
 ### <a id="bpn10187"></a> Prayer bpn10187 in Māori
@@ -760,6 +970,8 @@ Ko Koe, tūturu, te Kīngi o ngā tāngata katoa. Kāhore he Atua i tua atu i a 
 (Bahaiprayers.net ID: 10187)
 
 
+
+
 ### <a id="bpn10188"></a> Prayer bpn10188 in Māori
 E Tōku Atua, tōku Pūaroha, tōku Kīngi, tōku Tōmina! Mā tēwhea arero e kawe āku whakamoemiti ki a Koe? Kīhai ahau i whakarongo, Nāu ahau i whakaara. I tahuri atu ahau i a Koe, Nā Tāu tohu atawhai ahau i tino āwhina ai ki te tahuri ki a Koe. Anō nei ahau he mea tūpāpaku kau. Nāu ahau i whakaora ki te waiora. Anō nei ahau he mea memenge kau. Nāu ahau i whakaora ki te awa tapu o Tāu kupu, he mea tere mai i te Pene o te Whai Tohu Atawhai -Katoa. e Te Atua Manaaki! Nā Tō whairawa te mauri o te katoa i waihanga; kia kaua ia e aukatia i ngā wai o Tōu tohu atawhai, kia kaua hoki e tātāwhia mai i te moananui o Tōu atawhai. Kei te inoi ahau ki a Koe, Māu ahau e āwhina, e manaaki i ngā wā katoa, i raro i ngā āhuatanga katoa, ki te rapu mai i te rangi o Tō atawhai, Tōu manako onamata. Ko Koe, tūturu, te Ariki o te whairawa, te Kīngi o te kīngitanga mutungakore.
 
@@ -767,11 +979,15 @@ E Tōku Atua, tōku Pūaroha, tōku Kīngi, tōku Tōmina! Mā tēwhea arero e k
 (Bahaiprayers.net ID: 10188)
 
 
+
+
 ### <a id="bpn10189"></a> Prayer bpn10189 in Māori
 Kī atu: Ko Te Atua ko Ia te whakatutukinga o ngā mea katoa o runga o ngā mea katoa, kāhore hoki tētahi mea o ngā rangi o te whenua e ea i tētahi o tua atu i Te Atua. Tūturu, ko Ia ki a Ia tonu, te Poumātau, te Pouwhakaora, te Kaha Rawa.
 
 (Source category: MŌ TE ĀWHINA ME TE MANAAKI)
 (Bahaiprayers.net ID: 10189)
+
+
 
 
 
@@ -788,6 +1004,8 @@ Ko Koe te Poumuru hara, te Tohu Tūpore.
 (Bahaiprayers.net ID: 10241)
 
 
+
+
 ### <a id="bpn10242"></a> Prayer bpn10242 in Māori
 E Te Atua mākoha! Kia whakamoemititia Koe i te mea Nāu ahau i whakaoho, Nāu i tō mai te hiringa o te mahara. Nāu i hōmai te karu hei titiro, i aroha mai ki te taringa rongo, Nāu ahau i ārahi ki Tōu kīngitanga, i arataki ki te huarahi tika hei haerenga māku, Nāu ahau i tātaki ki Tōu nei Ara. Nāu te huarahi tika i whakaata mai, nāu ahau i uru atu ai ki te Āka o te Whakaoranga. e Te Atua! Māu ahau e tū tika, Māu ahau e tū pakari, e tū mārō. Māu e kaupare atu ngā whakamātau ririhau, Māu ahau e tiaki, e whakaruru ki roto o te pātūwatawata o Tāu Kawenata, Oati hoki. Ko Koe te Pūkaha. Kitea ana e Koe ngā mea katoa. e rangona ana e Koe ngā mea katoa. 
 
@@ -797,6 +1015,8 @@ Ko Koe te Mākoha, te Tohu Atawhai. Ko Koe Te Atua Marere Nui.
 
 (Source category: MŌ TE Ū KI TE KAWENATA)
 (Bahaiprayers.net ID: 10242)
+
+
 
 
 
@@ -812,6 +1032,8 @@ Tūturu, ko Koe te Pouhōmai, te Marere, te Tohu Atawhai, te Poumurunga Hara.
 
 (Source category: MŌ WAENGANUI PŌ)
 (Bahaiprayers.net ID: 10186)
+
+
 
 
 
@@ -838,6 +1060,8 @@ Kia whakapaingia Koe, e te Ariki tōku Atua, te Rākau-Rote Tapu me ōna raurau,
 (Bahaiprayers.net ID: 10256)
 
 
+
+
 ### <a id="bpn10257"></a> Prayer bpn10257 in Māori
 *(Ko tēnei karakia, nā ‘Abdu’l-Bahá, i whakakite, he mea pānui ki Tōna Toma. He mea karakia anō mā te tangata ki tōna kotahi.)
 *Ka hari ka koa te ngākau o tēnei Pononga ki te tangata e whakatātaki ana i tēnei karakia i runga i te whakaiti me te hīkaka; anō nei kua tūtaki i a Ia kanohi ki te kanohi. 
@@ -859,6 +1083,8 @@ Ko Koe te Poutuku, te Whaiaroha, Te Tino Poumanaaki, te Tohu Tūpore, te Tohu At
 
 
 
+
+
 ## TE KARAKIA POTO ME TAKI
 
 ### <a id="bpn10181"></a> Prayer bpn10181 in Māori
@@ -870,6 +1096,8 @@ Tēnei ahau te whakaatu nei, E tōku Atua, Nāu ahau i hanga kia mōhio ahau ki 
 
 (Source category: TE KARAKIA POTO ME TAKI)
 (Bahaiprayers.net ID: 10181)
+
+
 
 
 
@@ -938,6 +1166,8 @@ Tēnei ahau te whakaatu nei e tōku Atua, ki tērā nā Ō Kōwhiringa i whakaat
 
 
 
+
+
 ## TE KARAKIA ĀHUA ROA  ME TAKI
 
 ### <a id="bpn10182"></a> Prayer bpn10182 in Māori
@@ -963,6 +1193,8 @@ Tēnei ahau te kaiwhakaatu o Tōu kotahitanga pū, ā, ko Koe Te Atua, kāhore h
 
 (Source category: TE KARAKIA ĀHUA ROA  ME TAKI)
 (Bahaiprayers.net ID: 10182)
+
+
 
 
 
@@ -1079,6 +1311,8 @@ Mā te pānuitanga e ngā pononga katoa, mā te aro ki a ia, kātahi ka ngiha ai
 
 
 
+
+
 ## TE PAPATUHI O AḤMAD
 
 ### <a id="bpn10253"></a> Prayer bpn10253 in Māori
@@ -1127,6 +1361,8 @@ Tūturu, ko Ia te Tohu Atawhai, te Mākoha. Korōria ki Te Atua, te Ariki o ngā
 
 
 
+
+
 ## TE PAPATUHI O CARMEL
 
 ### <a id="bpn10255"></a> Prayer bpn10255 in Māori
@@ -1145,6 +1381,8 @@ Whakatapua ana te Ariki o ngā tāngata katoa, ki te whakatātakitanga o Tōna i
 
 
 
+
+
 ## ḤUQÚQU’LLÁH: KO TĒTAHI MŌTIKA NĀ TE ATU
 
 ### <a id="bpn10205"></a> Prayer bpn10205 in Māori
@@ -1154,6 +1392,9 @@ Whakanui akehia ai Koe, e Te Ariki o te orokohanganga katoa, kia tahuri ngā mea
 
 (Source category: ḤUQÚQU’LLÁH: KO TĒTAHI MŌTIKA NĀ TE ATU)
 (Bahaiprayers.net ID: 10205)
+
+
+
 
 
 

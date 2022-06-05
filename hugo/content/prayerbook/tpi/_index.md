@@ -3,6 +3,76 @@ title = "Tok Pisin"
 tags = ['lang=tpi', 'prayerbook']
 +++
 
+
+
+[ASSISTANCE](#ASSISTANCE)
+
+[BURIAL OF THE DEAD](#BURIAL OF THE DEAD)
+
+[CHILDREN](#CHILDREN)
+
+[EXPECTANT MOTHERS](#EXPECTANT MOTHERS)
+
+[FAMILY](#FAMILY)
+
+[FORGIVENESS](#FORGIVENESS)
+
+[FUND](#FUND)
+
+[HEALING](#HEALING)
+
+[JUSTICE](#JUSTICE)
+
+[MARRIAGE](#MARRIAGE)
+
+[MEETINGS](#MEETINGS)
+
+[MIDNIGHT](#MIDNIGHT)
+
+[MORNING](#MORNING)
+
+[NAW RUZ](#NAW RUZ)
+
+[NIGHT](#NIGHT)
+
+[PARENTS](#PARENTS)
+
+[PRAISE OF GOD](#PRAISE OF GOD)
+
+[PRAYER FOR THE DEPARTED](#PRAYER FOR THE DEPARTED)
+
+[PRAYER FOR THE PACIFIC](#PRAYER FOR THE PACIFIC)
+
+[SHORT OBLIGATORY PRAYER](#SHORT OBLIGATORY PRAYER)
+
+[SPIRITUAL ASSEMBLY](#SPIRITUAL ASSEMBLY)
+
+[STEADFASTNESS](#STEADFASTNESS)
+
+[TABLET OF AHMAD](#TABLET OF AHMAD)
+
+[TABLET OF VISITATION](#TABLET OF VISITATION)
+
+[TABLET OF VISITATION - 'Abdu'l-Baha](#TABLET OF VISITATION - 'Abdu'l-Baha)
+
+[TEACHING](#TEACHING)
+
+[TESTS AND DIFFICULTIES](#TESTS AND DIFFICULTIES)
+
+[THANKS TO GOD](#THANKS TO GOD)
+
+[THE FAST](#THE FAST)
+
+[TRAVEL](#TRAVEL)
+
+[UNITY](#UNITY)
+
+[YOUTH](#YOUTH)
+
+[Ḥuqúqu'lláh](#Ḥuqúqu'lláh)
+
+
+
 ## ASSISTANCE
 
 ### <a id="bpn12948"></a> Prayer bpn12948 in Tok Pisin
@@ -17,6 +87,8 @@ Thou, truly, art the King of all men.  There is no God but Thee, the Ever-Forgiv
 
 (Source category: ASSISTANCE)
 (Bahaiprayers.net ID: 12948)
+
+
 
 
 ### <a id="bpn12949"></a> Prayer bpn12949 in Tok Pisin
@@ -34,6 +106,8 @@ Thou art, verily, the Almighty, the All-Glorious, the Most Powerful.
 (Bahaiprayers.net ID: 12949)
 
 
+
+
 ### <a id="bpn12950"></a> Prayer bpn12950 in Tok Pisin
 O Bikpela bilong mi!  O Bikpela bilong mi!  Dispela man i wanpela lam i save kisim lait long paia bilong lav bilong Yu. Em i paia long lait i save kamap insait long diwai bilong marimari bilong Yu.   O Bikpela bilong mi!  Dispela paia em paia i bin lait long Sainai bilong Mausman bilong Yu.  Inap bai Yu mekim lait na hat na paia bilong dispela man i kamap bikpela moa.  Tru tumas.  Yu Strongim Olgeta Man.  Yu Save Helpim Olgeta.  Yu Gat Pawa.  Yu Givim Planti Samting.  Yu Laikim Tru Ol Manmeri. 
  
@@ -41,6 +115,8 @@ O my Lord!  O my Lord!  This is a lamp lighted by the fire of Thy love and ablaz
 
 (Source category: ASSISTANCE)
 (Bahaiprayers.net ID: 12950)
+
+
 
 
 ### <a id="bpn12951"></a> Prayer bpn12951 in Tok Pisin
@@ -56,6 +132,8 @@ O God!  Thou art more friend to me that I am to myself.  I dedicate myself to Th
 
 (Source category: ASSISTANCE)
 (Bahaiprayers.net ID: 12951)
+
+
 
 
 ### <a id="bpn12959"></a> Prayer bpn12959 in Tok Pisin
@@ -74,6 +152,8 @@ Give us our daily bread and grant Thy increase in the necessities of life, that 
 
 (Source category: ASSISTANCE)
 (Bahaiprayers.net ID: 12959)
+
+
 
 
 
@@ -118,6 +198,8 @@ We all, verily, are patient in God. (19 times)
 
 
 
+
+
 ## CHILDREN
 
 ### <a id="bpn12940"></a> Prayer bpn12940 in Tok Pisin
@@ -129,6 +211,8 @@ O God, guide me, protect me, make of me a shining lamp and a brilliant star.  Th
 (Bahaiprayers.net ID: 12940)
 
 
+
+
 ### <a id="bpn12941"></a> Prayer bpn12941 in Tok Pisin
 O God!  Skulim ol dispela pikinini.  Ol dispela pikinini em ol kru long gaden diwai bilong Yu, ol plaua long ples kunai bilong Yu na ol ros long gaden bilas bilong Yu. Inap ren bilong Yu i pundaun long ol.  Inap San bilong Trupela Ples bilong Yu i lait long ol wantaim lav bilong Yu. Inap ol i kisim gutpela win bilong Yu, bai ol i skul gut, gro gut, na kamap gut olgeta.  Bai ol i naispela tumas i stap.  Yu Save Givim Olgeta Samting.  Yu Save Sori Long Olgeta Man. 
 
@@ -136,6 +220,8 @@ O God!  Educate these children.  These children are the plants of Thine orchard,
 
 (Source category: CHILDREN)
 (Bahaiprayers.net ID: 12941)
+
+
 
 
 ### <a id="bpn12942"></a> Prayer bpn12942 in Tok Pisin
@@ -149,6 +235,8 @@ O my Lord! O my Lord!  I am a child of tender years. Nourish me from the breast 
 (Bahaiprayers.net ID: 12942)
 
 
+
+
 ### <a id="bpn12943"></a> Prayer bpn12943 in Tok Pisin
 O Bikpela, Yu Naispela Olgeta!  Inap Yu mekim dispela liklik wokmeri bilong Yu i kamap amamas na pulap long marimari bilong Yu. Inap Yu mekim em i kisim bikpela lav long dua bilong Yu.  Yu wanpela tasol.   Na inap Yu helpim em long dring gut tru long kap bilong lav bilong Yu.  Olsem na bai em i ken pulap long bikpela amamas tru.  Bai em inap long givimaut naispela smel i swit tru.  Yu Strong na Yu Gat Pawa.  Yu Save Long Olgeta Samting.  Na Yu Gat Olgeta Save na Yu Save Lukim Olgeta Samting. 
 
@@ -156,6 +244,8 @@ O Thou most glorious Lord!  Make this little maidservant of Thine blessed and ha
 
 (Source category: CHILDREN)
 (Bahaiprayers.net ID: 12943)
+
+
 
 
 
@@ -170,6 +260,8 @@ My Lord!  My Lord!  I praise Thee and I thank Thee for that whereby Thou hast fa
 (Bahaiprayers.net ID: 12937)
 
 
+
+
 ### <a id="bpn12938"></a> Prayer bpn12938 in Tok Pisin
 O Bikpela bilong mi!  Mi makim dispela pikinini i stap insait long bel bilong mi long Yu.  Inap Yu helpim long mekim dispela pikinini i kamap gutpela long Kingdom bilong Yu.  Inap Yu helpim em wantaim marimari na gutpela bilong Yu, olsem em i ken kamap pikinini i gat blesing.  Na helpim em long kamap gut na kisim save long skul bilong Yu.  Tru tumas.  Yu Save Marimari Long Olgeta!  Tru tumas.  Yu Papa Bilong Bikpela Blesing! 
 
@@ -178,6 +270,8 @@ O my Lord, I dedicate that which is in my womb unto Thee. Then cause it to be a 
 
 (Source category: EXPECTANT MOTHERS)
 (Bahaiprayers.net ID: 12938)
+
+
 
 
 
@@ -193,6 +287,8 @@ O my God!  Let the outpourings of Thy bounty and blessings descend upon homes wh
 
 
 
+
+
 ## FORGIVENESS
 
 ### <a id="bpn12964"></a> Prayer bpn12964 in Tok Pisin
@@ -203,6 +299,8 @@ O my God, O my Lord, O my Master! I beg Thee to forgive me for seeking any pleas
 
 (Source category: FORGIVENESS)
 (Bahaiprayers.net ID: 12964)
+
+
 
 
 
@@ -228,6 +326,8 @@ Verily, Thou art the Sustainer, the Helper, the Generous, the Bountiful, the Eve
 
 
 
+
+
 ## HEALING
 
 ### <a id="bpn12952"></a> Prayer bpn12952 in Tok Pisin
@@ -242,6 +342,8 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness
 (Bahaiprayers.net ID: 12952)
 
 
+
+
 ### <a id="bpn12953"></a> Prayer bpn12953 in Tok Pisin
 O God, O God bilong mi!  Mi askim strong long Yu long solwara bilong Yu bilong winim sik. Na long bikpela lait bilong San bilong marimari bilong Yu.  Na long Nem bilong Yu, em Nem i save bosim ol wokman bilong Yu.  Na long strongpela pawa bilong Tok bilong Yu, em Tok i stap antap tru long olgeta samting.  Na long pawa bilong Ing na Pen bilong Yu, em Pen i gutpela tru.  Na long marimari bilong Yu, em i bin stap bipo long taim Yu bin mekim kamap olgeta samting long heven na long graun.  Long ol dispela gutpela samting mi askim strong long Yu long wasim mi wantaim wara bilong blesing bilong Yu, inap ol kain kain sik na ol kain kain samting i laik bagarapim mi bai lusim mi na mi stap strong gen. 
  
@@ -251,6 +353,8 @@ Yu gat pawa inap long mekim wanem samting Yu gat laik long mekim.  I no gat nara
 
 (Source category: HEALING)
 (Bahaiprayers.net ID: 12953)
+
+
 
 
 ### <a id="bpn12954"></a> Prayer bpn12954 in Tok Pisin
@@ -265,6 +369,8 @@ Powerful art Thou to do what pleaseth Thee. There is none other God save Thee, t
 
 
 
+
+
 ## JUSTICE
 
 ### <a id="bpn12935"></a> Prayer bpn12935 in Tok Pisin
@@ -274,6 +380,8 @@ Say: O God, my God!  Attire mine head with the crown of justice, and my temple w
 
 (Source category: JUSTICE)
 (Bahaiprayers.net ID: 12935)
+
+
 
 
 
@@ -290,6 +398,8 @@ Say: O God, my God!  Attire mine head with the crown of justice, and my temple w
 
 (Source category: MARRIAGE)
 (Bahaiprayers.net ID: 12965)
+
+
 
 
 ### <a id="bpn12966"></a> Prayer bpn12966 in Tok Pisin
@@ -321,6 +431,8 @@ Verily Thou art the Omnipotent, the Omnipresent and the Almighty!
 
 
 
+
+
 ## MEETINGS
 
 ### <a id="bpn12972"></a> Prayer bpn12972 in Tok Pisin
@@ -346,6 +458,8 @@ O God!  Endow us with Thy providence.  Thou art the Powerful. Thou art the Giver
 (Bahaiprayers.net ID: 12972)
 
 
+
+
 ### <a id="bpn12973"></a> Prayer bpn12973 in Tok Pisin
 O God bilong mi!  O God bilong mi!  Tru tumas. Ol dispela wokman i tanim i go long Yu na ol i askim strong long kingdom bilong marimari bilong Yu.  Tru tumas.  Pasin holi bilong Yu i wok long pulim ol i kam long Yu na ol i pulap long lait i kam long paia bilong bikpela laik long Yu.  Ol i painim blesing i kam long naispela kingdom bilong Yu na ol i gat bikpela laik long kamap long hap bilong heven bilong Yu. Tru tumas, ol i gat bikpela laik long lukim blesing bilong Yu i pundaun long ol.   Na ol i laikim bai lait bilong San bilong Trupela Laip i lait long ol.  O Bikpela!  Mekim olsem bai ol i kamap olsem ol lam i pulap long lait.  Inap bai ol i kamap mak bilong marimari.  Inap bai ol i 
 kamap olsem ol diwai i karim planti kaikai.  Inap bai ol i lait olsem ol sta.  Inap bai ol kirap long wokim wok bilong Yu na holimpas long rop bilong bikpela laik long Yu na painim ol lait i kam long blesing bilong Yu. O Bikpela!  Mekim olsem bai ol i kamap olsem ol mak bilong soim rot na soimaut ol pasin bilong kingdom bilong Yu.  Dispela kingdom i stap oltaim.  Inap bai ol i kamap olsem solwara bilong marimari bilong Yu i bruk.  Inap bai ol i kamap olsem glas bilong lukim lait bilong bikpela bilong Yu.  Tru tumas. Yu Givim Planti Samting.  Tru tumas.  Yu Save Sori Long Olgeta Man.  Tru tumas.  Yu Gat Bikpela Namba na Olgeta Man I Laikim Yu Tru. ’Abdu’l-Bahá’í 
@@ -355,6 +469,8 @@ O my God!  O my God!  Verily, these servants are turning to Thee, supplicating T
 
 (Source category: MEETINGS)
 (Bahaiprayers.net ID: 12973)
+
+
 
 
 ### <a id="bpn12975"></a> Prayer bpn12975 in Tok Pisin
@@ -386,6 +502,8 @@ Verily, Thou art the Generous, the Merciful!  Thou art the Possessor of great bo
 
 
 
+
+
 ## MIDNIGHT
 
 ### <a id="bpn12958"></a> Prayer bpn12958 in Tok Pisin
@@ -407,6 +525,8 @@ Verily, Thou art the Giver, the Generous, the Merciful, the Forgiving.
 
 
 
+
+
 ## MORNING
 
 ### <a id="bpn12955"></a> Prayer bpn12955 in Tok Pisin
@@ -418,6 +538,8 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 
 (Source category: MORNING)
 (Bahaiprayers.net ID: 12955)
+
+
 
 
 
@@ -459,6 +581,8 @@ Thou, in truth, art the All-Knowing, the All-Wise.
 
 
 
+
+
 ## NIGHT
 
 ### <a id="bpn12956"></a> Prayer bpn12956 in Tok Pisin
@@ -472,6 +596,8 @@ I no gat narapela God. Yu tasol i stap. Yu Gat Olgeta Strong na Yu Bosim Olgeta 
 (Bahaiprayers.net ID: 12956)
 
 
+
+
 ### <a id="bpn12957"></a> Prayer bpn12957 in Tok Pisin
 O my God, my Master, the Goal of my desire!  This, Thy servant, seeketh to sleep in the shelter of Thy mercy, and to repose beneath the canopy of Thy grace, imploring Thy care and Thy protection. 
  
@@ -481,6 +607,8 @@ No God is there but Thee, the Almighty, the All-Subduing, the Unconditioned.
 
 (Source category: NIGHT)
 (Bahaiprayers.net ID: 12957)
+
+
 
 
 
@@ -496,6 +624,8 @@ Thou seest, O Lord, our suppliant hands lifted up towards the heaven of Thy favo
 
 
 
+
+
 ## PRAISE OF GOD
 
 ### <a id="bpn12934"></a> Prayer bpn12934 in Tok Pisin
@@ -505,6 +635,8 @@ Say:  God sufficeth all things above all things.  And nothing in the heavens or 
 
 (Source category: PRAISE OF GOD)
 (Bahaiprayers.net ID: 12934)
+
+
 
 
 
@@ -528,6 +660,8 @@ O my Lord! Purify them from trespasses, dispel their sorrows, and change their d
 
 
 
+
+
 ## PRAYER FOR THE PACIFIC
 
 ### <a id="bpn12981"></a> Prayer bpn12981 in Tok Pisin
@@ -537,6 +671,8 @@ O Thou Pure and Omnipotent God!  O Thou my kind Lord! Grant us such power as to 
 
 (Source category: PRAYER FOR THE PACIFIC)
 (Bahaiprayers.net ID: 12981)
+
+
 
 
 
@@ -561,6 +697,8 @@ I bear witness, O my God, that Thou hast created me to know Thee and to worship 
 
 (Source category: SHORT OBLIGATORY PRAYER)
 (Bahaiprayers.net ID: 12930)
+
+
 
 
 
@@ -590,6 +728,8 @@ O God!  My God!  We are servants of Thine that have turned with devotion to Thy 
 
 
 
+
+
 ## STEADFASTNESS
 
 ### <a id="bpn12960"></a> Prayer bpn12960 in Tok Pisin
@@ -601,6 +741,8 @@ O Lord my God!  Assist Thy loved ones to be firm in Thy Faith, to walk in Thy wa
 
 (Source category: STEADFASTNESS)
 (Bahaiprayers.net ID: 12960)
+
+
 
 
 ### <a id="bpn12961"></a> Prayer bpn12961 in Tok Pisin
@@ -622,6 +764,8 @@ Thou art the Pardoner, the Gracious.
 
 (Source category: STEADFASTNESS)
 (Bahaiprayers.net ID: 12961)
+
+
 
 
 
@@ -709,6 +853,8 @@ Verily, He is the Merciful, the Compassionate.  Praise be to God, the Lord of al
 
 
 
+
+
 ## TABLET OF VISITATION
 
 ### <a id="bpn12979"></a> Prayer bpn12979 in Tok Pisin
@@ -754,6 +900,8 @@ Bless Thou, O Lord my God, the Divine Lote-Tree and its leaves, and its boughs, 
 
 
 
+
+
 ## TABLET OF VISITATION - 'Abdu'l-Baha
 
 ### <a id="bpn12980"></a> Prayer bpn12980 in Tok Pisin
@@ -796,6 +944,8 @@ Thou art the Bestower, the Pitiful, the Most Bountiful, the Gracious, the Mercif
 
 
 
+
+
 ## TEACHING
 
 ### <a id="bpn12962"></a> Prayer bpn12962 in Tok Pisin
@@ -818,6 +968,8 @@ Verily, Thou art the Powerful, the Mighty and the Omnipotent, and Thou art the W
 
 
 
+
+
 ## TESTS AND DIFFICULTIES
 
 ### <a id="bpn12931"></a> Prayer bpn12931 in Tok Pisin
@@ -825,6 +977,8 @@ Is there any Remover of difficulties save God?  Say: Praised be God!  He is God!
 
 (Source category: TESTS AND DIFFICULTIES)
 (Bahaiprayers.net ID: 12931)
+
+
 
 
 ### <a id="bpn12932"></a> Prayer bpn12932 in Tok Pisin
@@ -843,6 +997,8 @@ Shelter under Thy protection, O Thou Spirit of Purity, Thou Who art the All-Boun
 
 
 
+
+
 ## THANKS TO GOD
 
 ### <a id="bpn12933"></a> Prayer bpn12933 in Tok Pisin
@@ -858,6 +1014,8 @@ O Divine Providence!  All existence is begotten by Thy bounty; deprive it not of
 
 (Source category: THANKS TO GOD)
 (Bahaiprayers.net ID: 12933)
+
+
 
 
 
@@ -884,6 +1042,8 @@ There is no God but Thee, the All-Knowing, the All-Wise.  All praise be to God, 
 (Bahaiprayers.net ID: 12977)
 
 
+
+
 ### <a id="bpn12976"></a> Prayer bpn12976 in Tok Pisin
 *Taim bilong Lusim Kaikai em long mun bilong ‘Ala (Antap), long namba 2 de bilong mun Mas I go inap long namba 20 de bilong mun Mas.  Long ol dispela de long taim bilong san ol Bahá’í i no ken dring o kaikai.  Em taim bilong prea bilong strongim spirit.  Husat man o meri i no winim 15 krismas o em i raun o em i gat sik o em i lapun tru, em i no mas lusim kaikai.  Na tu mama husat i gat bel o em i givim susu, em i no mas lusim kaikai long dispela taim. 
  
@@ -895,6 +1055,8 @@ O Divine Providence! As I am abstaining from bodily desires and not occupied wit
 
 (Source category: THE FAST)
 (Bahaiprayers.net ID: 12976)
+
+
 
 
 
@@ -915,6 +1077,8 @@ There is none other God but Thee, the One, the Incomparable, the All-Knowing, th
 
 
 
+
+
 ## UNITY
 
 ### <a id="bpn12944"></a> Prayer bpn12944 in Tok Pisin
@@ -925,6 +1089,8 @@ O my God!  O my God!  Unite the hearts of Thy servants, and reveal to them Thy g
 
 (Source category: UNITY)
 (Bahaiprayers.net ID: 12944)
+
+
 
 
 ### <a id="bpn12945"></a> Prayer bpn12945 in Tok Pisin
@@ -946,6 +1112,8 @@ O God, create in the hearts of Thy beloved the fire of Thy love, that it may con
 (Bahaiprayers.net ID: 12945)
 
 
+
+
 ### <a id="bpn12946"></a> Prayer bpn12946 in Tok Pisin
 Plis God, inap Yu karamapim olgeta hap graun wantaim lait bilong bung wantaim.  Na putim wanpela mak olsem, em  "dispela Kingdom em Kingdom bilong God" i stap long poret bilong ol lain manmeri long dispela graun. 
  
@@ -953,6 +1121,8 @@ God grant that the light of unity may envelop the whole earth, and that the seal
 
 (Source category: UNITY)
 (Bahaiprayers.net ID: 12946)
+
+
 
 
 ### <a id="bpn12947"></a> Prayer bpn12947 in Tok Pisin
@@ -996,6 +1166,8 @@ Thou art the Mighty and Powerful, Thou art the Forgiving and Thou art the One Wh
 
 
 
+
+
 ## YOUTH
 
 ### <a id="bpn12982"></a> Prayer bpn12982 in Tok Pisin
@@ -1005,6 +1177,8 @@ O Bikpela!  Mekim dispela yangpela i pulap long lait, na givim blesing bilong Yu
 
 (Source category: YOUTH)
 (Bahaiprayers.net ID: 12982)
+
+
 
 
 
@@ -1018,6 +1192,9 @@ Magnified art Thou, O Lord of the entire creation, the One unto Whom all things 
 
 (Source category: Ḥuqúqu'lláh)
 (Bahaiprayers.net ID: 12971)
+
+
+
 
 
 

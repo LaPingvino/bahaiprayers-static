@@ -3,6 +3,62 @@ title = "Esperanto"
 tags = ['lang=eo', 'prayerbook']
 +++
 
+
+
+[Asisto kaj helpo](#Asisto kaj helpo)
+
+[Epistolo al Aĥmad](#Epistolo al Aĥmad)
+
+[Fasto](#Fasto)
+
+[Firmeco en la Interligo](#Firmeco en la Interligo)
+
+[Forpasintoj](#Forpasintoj)
+
+[Gepatroj](#Gepatroj)
+
+[Homaro](#Homaro)
+
+[Infanoj kaj Junuloj](#Infanoj kaj Junuloj)
+
+[Instruado](#Instruado)
+
+[La Longa Deviga Preĝo](#La Longa Deviga Preĝo)
+
+[La Mallonga Deviga Preĝo](#La Mallonga Deviga Preĝo)
+
+[La Mezlonga Deviga Preĝo](#La Mezlonga Deviga Preĝo)
+
+[Laŭdo kaj Danko](#Laŭdo kaj Danko)
+
+[Malligiteco](#Malligiteco)
+
+[Mateno](#Mateno)
+
+[Pardono](#Pardono)
+
+[Protektado](#Protektado)
+
+[Renkontiĝo](#Renkontiĝo)
+
+[Sanigo](#Sanigo)
+
+[Spirita kreskado](#Spirita kreskado)
+
+[Testoj kaj malfacilaĵoj](#Testoj kaj malfacilaĵoj)
+
+[Triumfo de la Afero](#Triumfo de la Afero)
+
+[Unueco](#Unueco)
+
+[Vespero](#Vespero)
+
+[Virtoj](#Virtoj)
+
+[Vojaĝo](#Vojaĝo)
+
+
+
 ## Asisto kaj helpo
 
 ### <a id="BH10973"></a> Prayer BH10973 in Esperanto
@@ -12,11 +68,15 @@ Ho Vi, Kies vizaĝo estas la objekto de mia adoro, Kies beleco estas mia sanktej
 (Bahaiprayers.net ID: 4344)
 
 
+
+
 ### <a id="AB00431PIT"></a> Prayer AB00431PIT in Esperanto
 Eternulo! Kompatindaj estas ni, donu al ni Vian favoron; malriĉaj, donacu al ni porcion el la oceano de Via riĉeco; senhavaj, provizu nin; malaltigitaj, donu al ni Vian gloron. La birdoj de la ĉielo kaj la bestoj de la kampo ĉiutage sian nutraĵon ricevas de Vi, kaj ĉiuj partoprenas Viajn prizorgon kaj amfavoron. Ne senigu tiun ĉi malfortulon je Via mirinda favoro, kaj per Via potenco donu al ĉi tiu senhelpulo Viajn donacojn. Donu al ni nian ĉiutagan panon kaj permesu Vian pliigon de la vivnecesaĵoj, por ke ni dependu de neniu krom Vi, komuniiĝu plene kun Vi, iru laŭ Viaj vojoj kaj proklamu Viajn misterojn. Vi estas la Ĉio-pova kaj la Amema kaj la Provizanto de la tuta homaro.
 
 (Source category: Asisto kaj helpo)
 (Bahaiprayers.net ID: 4325)
+
+
 
 
 ### <a id="AB06012"></a> Prayer AB06012 in Esperanto
@@ -28,11 +88,15 @@ Ho Dio, mia Dio! Vi vidas min, Vi konas min; Vi estas mia Haveno kaj mia Rifuĝe
 (Bahaiprayers.net ID: 4328)
 
 
+
+
 ### <a id="AB10769"></a> Prayer AB10769 in Esperanto
 Ho mia Sinjoro, mia Amato, mia Deziro! Konsolu min en mia soleco kaj akompanu min en mia ekzilo. Forigu mian ĉagrenon. Faru min fidela al Via beleco. Senigu min de ĉio krom Vi. Allogu min per la bonodoro de Via sankteco. Kunigu min en Via Regno kun tiuj, kiuj seniĝis de ĉio krom Vi kaj alstrebas servi ĉe Via sankta sojlo, pretaj labori por Via Afero. Ebligu al mi esti unu el Viaj servantinoj, kiu atingis Vian bonfavoron. Vere, Vi estas la Graca, la Malavara.
 
 (Source category: Asisto kaj helpo)
 (Bahaiprayers.net ID: 4329)
+
+
 
 
 ### <a id="AB02866"></a> Prayer AB02866 in Esperanto
@@ -49,6 +113,8 @@ Vere, Vi estas la Donema, la Glora, la Potenca, la Ĉio-pova.
 
 (Source category: Asisto kaj helpo)
 (Bahaiprayers.net ID: 4336)
+
+
 
 
 
@@ -82,6 +148,8 @@ Vere, Li estas la Mizerikorda, la Kompatema. Laŭdata estu Dio, la Sinjoro de ĉ
 
 
 
+
+
 ## Fasto
 
 ### <a id="BH07657"></a> Prayer BH07657 in Esperanto
@@ -89,6 +157,8 @@ Laŭdo estu al Vi, ho Sinjoro mia Dio! Mi petegas al Vi je tiu ĉi Revelacio, pe
 
 (Source category: Fasto)
 (Bahaiprayers.net ID: 4309)
+
+
 
 
 
@@ -101,11 +171,15 @@ Glorata estu Vi, ho Eternulo mia Dio! Mi petegas Vin je Li, Kiu estas Via Plej A
 (Bahaiprayers.net ID: 4343)
 
 
+
+
 ### <a id="BH08244"></a> Prayer BH08244 in Esperanto
 Glorata estu Via Nomo, ho Eternulo, mia Dio! Mi petegas Vin je Via potenco, kiu ĉirkaŭas ĉiujn kreitaĵojn, kaj je Via suvereneco, kiu superas la tutan universon, kaj je Via Vorto, Kiu estas kaŝita pro Via saĝeco kaj per Kiu Vi kreis la ĉielon kaj la teron, ke Vi ebligu al ni esti konstantaj en nia amo al Vi kaj en nia obeado al Via volo, kaj ke ni fiksu nian rigardon al Via Vizaĝo kaj atestu Vian gloron. Ebligu al ni, ho mia Dio, dissemi Viajn signojn inter Viaj kreitoj kaj gardi Vian Kredon je Via regno. Eterne Vi ekzistas sendepende de la mencio de ĉiuj el Viaj kreitoj kaj ĉiam restos tia, kia Vi estas. En Vin mi metas mian tutan konfidon, al Vi mi turnas mian vizaĝon, la kordonon de Via amema prizorgo mi firme tenas, kaj al la ombro de Via kompato mi rapidas. Ne pelu min kiel ĉagreniton for el Via pordo, ho mia Dio, kaj ne detenu de mi Vian favoron, ĉar nur al Vi mi sopiras. Ne estas alia Dio krom Vi, la Ĉiam-Pardonanta, la Plej-Donacema. Laŭdado estu al Vi, ho Vi, Kiu estas la Plejamata de tiuj, kiuj konas Vin.
 
 (Source category: Firmeco en la Interligo)
 (Bahaiprayers.net ID: 4348)
+
+
 
 
 ### <a id="BH09960"></a> Prayer BH09960 in Esperanto
@@ -115,11 +189,15 @@ Laŭdegata estas Via nomo, ho Eternulo mia Dio! Vi estas Tiu, Kiun ĉio adoras k
 (Bahaiprayers.net ID: 4339)
 
 
+
+
 ### <a id="AB02342AWA"></a> Prayer AB02342AWA in Esperanto
 Ho Vi kompatema Dio! Dankoj estu al Vi por ke Vi vekis kaj konsciigis min. Vi donis al mi vidantajn okulojn kaj donacis al mi aŭdantajn orelojn. Vi kondukis min al Via regno kaj gvidis min sur Vian vojon. Vi montris al mi la ĝustan direkton kaj igis min eniri la Arkeon de Saviĝo. Ho Dio! Igu min konstanta, firma kaj fidela. Protektu min de teruraj provoj kaj gardu kaj ŝirmu min en la fortikaĵo de Via Sankta Interligo kaj Testamento. Vi estas la Potenca! Vi estas la Vidanta! Vi estas la Aŭdanta! Ho Vi kompatema Dio! Donacu al mi koron, kiu estu iluminita kiel spegulo per la lumo de Via amo, kaj inspiru al mi pensojn kapablajn ŝanĝi la mondon al rozĝardeno per la elverŝoj de ĉiela graco. Vi estas la Kompatema, la Malavara! Vi estas la Granda Bonfara Dio!
 
 (Source category: Firmeco en la Interligo)
 (Bahaiprayers.net ID: 4327)
+
+
 
 
 ### <a id="AB00001FIR"></a> Prayer AB00001FIR in Esperanto
@@ -129,11 +207,15 @@ Ho Eternulo, mia Dio! Asistu Viajn amatojn, por ke ili estu firmaj en Via Kredo,
 (Bahaiprayers.net ID: 4333)
 
 
+
+
 ### <a id="AB00065STE"></a> Prayer AB00065STE in Esperanto
 Ho mia Sinjoro kaj mia espero! Helpu Vi la amatojn Viajn persisti en Via potenca Interligo, resti fidela al Via evidenta Afero kaj efektivigi la ordonojn, kiujn Vi por ili dekretis en Via Libro de l’ Splendoroj; por ke ili fariĝu standardoj de l’ gvidado kaj lampoj de l’ Kompanio supra, fontoj de Via saĝo senlima kaj steloj ĝuste direktantaj brilante desur la ĉielaj altoj. Vere estas Vi la Nevenkebla, la Ĉiopova, la Ĉiopotenca.
 
 (Source category: Firmeco en la Interligo)
 (Bahaiprayers.net ID: 4373)
+
+
 
 
 
@@ -148,6 +230,8 @@ Ho mia Dio! Ho Vi, pardonanto de pekoj, donacanto de bonoj, forpelanto de aflikt
 
 
 
+
+
 ## Gepatroj
 
 ### <a id="AB02000DIS"></a> Prayer AB02000DIS in Esperanto
@@ -155,6 +239,8 @@ Ho Eternulo! En tiu ĉi Plej Granda Misio Vi akceptas la propeton de infanoj por
 
 (Source category: Gepatroj)
 (Bahaiprayers.net ID: 4313)
+
+
 
 
 
@@ -168,6 +254,8 @@ Ho Vi bonkora Sinjoro! Vi kreis la tutan homaron el la sama radiko. Vi decidis, 
 
 
 
+
+
 ## Infanoj kaj Junuloj
 
 ### <a id="ABU0129EDU"></a> Prayer ABU0129EDU in Esperanto
@@ -177,11 +265,15 @@ Ho Dio! Eduku ĉi tiujn infanojn. Ĉi infanoj estas la plantoj de Via horto, la 
 (Bahaiprayers.net ID: 4317)
 
 
+
+
 ### <a id="AB04427LMP"></a> Prayer AB04427LMP in Esperanto
 Ho Dio! Gvidu min, protektu min, faru min lumanta lampo kaj stelo brila. Vi estas la Pova kaj la Potenca.
 
 (Source category: Infanoj kaj Junuloj)
 (Bahaiprayers.net ID: 4319)
+
+
 
 
 ### <a id="AB04004BAB"></a> Prayer AB04004BAB in Esperanto
@@ -191,11 +283,15 @@ Ho Dio! Eduku ĉi tiun malgrandan bebon en la sino de Via amo kaj donu al ĝi la
 (Bahaiprayers.net ID: 4316)
 
 
+
+
 ### <a id="AB10703RAD"></a> Prayer AB10703RAD in Esperanto
 Ho Dio! Lumigu ĉi tiun junulon kaj favoru ĉi tiun malfortulon. Donacu al li scion, garantiu al li forton ĉiutage pliiĝantan kaj gardu lin sub la ŝirmo de Via protektado, tiel ke il estu pur-savita de ĉia peko, sindonu por la servo al Via Kredo, konduku la devojiĝintojn, gvidu la malriĉulojn kaj malfortulojn, liberigu la kaptitojn kaj veku la dormantojn, por ke ĉiuj estu benataj per rememoro kaj adoro al Vi. Vi estas la Potenca, la Saga!
 
 (Source category: Infanoj kaj Junuloj)
 (Bahaiprayers.net ID: 4318)
+
+
 
 
 
@@ -209,11 +305,15 @@ Laŭdegata estu Via nomo, ho mia Dio, ĉar Vi manifestis tiun Tagon, kiu estas l
 (Bahaiprayers.net ID: 4354)
 
 
+
+
 ### <a id="AB05805SER"></a> Prayer AB05805SER in Esperanto
 Ho mia Dio, helpu Vian servanton levi alten la Vorton kaj refuti, kio estas vana kaj falsa, kaj establi la veron, dissemi la sanktajn versojn, riveli la radiojn kaj briligi la matenan lumon en la koroj de la fidelaj. Vi estas vere la Donema, la Pardonanta.
 
 (Source category: Instruado)
 (Bahaiprayers.net ID: 4334)
+
+
 
 
 ### <a id="AB00210BIR"></a> Prayer AB00210BIR in Esperanto
@@ -224,12 +324,16 @@ Ho Eternulo! Estas mi sola, forlasita kaj humila. Por mi ne estas subteno alia o
 (Bahaiprayers.net ID: 4372)
 
 
+
+
 ### <a id="AB00049RAP"></a> Prayer AB00049RAP in Esperanto
 *Kiu ekas al vojaĝo ien por diskonigi la kredon, tiu citu tiun ĉi preĝon tage kaj nokte dum siaj vojaĝoj tra fremdaj landoj: 
 Ho Dio, mia Dio! Vi vidas min ravita kaj altirata de Via glora reĝejo, flamigata per la fajro de Via amo inter la homaro, heroldo de Via regno en tiuj ĉi grandaj vastaj landoj, fortranĉita de ĉio alia krom Vi, fidanta al Vi, forlasinta ripozon kaj komforton, for de mia indiĝena hejmo, migranto en tiuj ĉi regionoj, fremdulo falinta surteren, humila antaŭ Via altega Sojlo, obeema al la ĉielo de Via ĉiopova gloro, peteganta al Vi en la mezo de la nokto kaj je tagekiĝo, alvokanta kaj alpreĝanta Vin matene kaj vespere por graceme helpi min servi Vian Aferon, disvastigi ĉien Viajn Instruojn kaj laŭdegi Vian Vorton tra la tutaj Oriento kaj Okcidento. Ho, Eternulo! Fortigu mian lumbon, kapabligu min servi al Vi per pleja penado kaj ne forlasu min al mi mem, soleca kaj senhelpa en tiu ĉi forejo. Ho, Eternulo! Donacu al mi komunion kun Vi en mia forlasiteco kaj estu mia kunestanto en tiuj ĉi fremdaj landoj. Vere, Vi konfirmas kiun ajn Vi volas je tio kion Vi deziras, kaj vere Vi estas la Ĉio-pova, la Plejpotenca.
 
 (Source category: Instruado)
 (Bahaiprayers.net ID: 4335)
+
+
 
 
 
@@ -298,6 +402,8 @@ Mi atestas, ho mia Dio, kion Viaj Elektitoj atestis, kaj rekonas, kion la loĝan
 
 
 
+
+
 ## La Mallonga Deviga Preĝo
 
 ### <a id="BH11209"></a> Short Obligatory Prayer in Esperanto
@@ -308,6 +414,8 @@ Mi atestas, ho mia Dio, ke Vi kreis min, por ke mi konu Vin kaj adoru Vin. Mi at
 
 (Source category: La Mallonga Deviga Preĝo)
 (Bahaiprayers.net ID: 4279)
+
+
 
 
 
@@ -340,6 +448,8 @@ Mi atestas Vian unuecon kaj Vian ununurecon, kaj ke Vi estas Dio kaj ke ne estas
 
 
 
+
+
 ## Laŭdo kaj Danko
 
 ### <a id="BH09401"></a> Prayer BH09401 in Esperanto
@@ -349,11 +459,15 @@ Mi atestas Vian unuecon kaj Vian ununurecon, kaj ke Vi estas Dio kaj ke ne estas
 (Bahaiprayers.net ID: 4338)
 
 
+
+
 ### <a id="BH00074BLE"></a> Blessed is the Spot in Esperanto
 Benita estas la punkto, kaj la domo, kaj la loko, kaj la urbo, kaj la koro, kai la monto, kaj la ŝirmejo, kaj la kavo, kaj la valo, kaj la lando, kaj la maro, kaj la insulo, kaj la kampo, kie oni Dion mencias kaj Lin laŭde gloras.
 
 (Source category: Laŭdo kaj Danko)
 (Bahaiprayers.net ID: 4337)
+
+
 
 
 
@@ -366,6 +480,8 @@ Multe da frostaj koroj, ho mia Dio, ekflamis per la fajro de Via Kredo, kaj mult
 (Bahaiprayers.net ID: 4350)
 
 
+
+
 ### <a id="BH02848IMP"></a> Prayer BH02848IMP in Esperanto
 Mi petegas al Vi, ho mia Dio, je Via nomo, kies brileco ĉirkaŭas la teron kaj la ĉielon, ebligi al mi tiel cedi mian volon al tio, kion Vi dekretis en Viaj Epistoloj, ke mi ĉesu trovi en mi ian deziron krom tio, kion Vi deziras pere de la potenco de Via suvereneco, kaj ian volon krom tio, kion Vi difinas por mi de Via volo.
 
@@ -373,11 +489,15 @@ Mi petegas al Vi, ho mia Dio, je Via nomo, kies brileco ĉirkaŭas la teron kaj 
 (Bahaiprayers.net ID: 4352)
 
 
+
+
 ### <a id="BB00015SUF"></a> Prayer BB00015SUF in Esperanto
 Diru: Dio sufiĉas al ĉio kaj super ĉio, kaj nenio en la ĉieloj nek sur la tero krom Dio sufiĉas. Vere, Li estas en Si Mem la Scianto, la Subtenanto, la Ĉio-pova.
 
 (Source category: Malligiteco)
 (Bahaiprayers.net ID: 4357)
+
+
 
 
 
@@ -390,11 +510,15 @@ Mi vekiĝis sub Via ŝirmo, ho mia Dio, kaj decas al tiu, kiu serĉas tiun ŝirm
 (Bahaiprayers.net ID: 4340)
 
 
+
+
 ### <a id="BH00009GRA"></a> Prayer BH00009GRA in Esperanto
 Mi ellitiĝis ĉi-matene pro Via favoro, ho mia Dio, kaj iris for el mia hejmo, fidante tutplene je Vi kaj konfidante min al Via prizorgo. Donu al mi el la ĉielo de Via kompato benon Vian kaj ebligu al mi reveni hejmen tiel sekure, kiel vi ebligis al mi foriri sub Via protekto, kun miaj pensoj konstante fiksitaj al Vi. Ne estas alia Dio krom Vi, la Unusola, la Ne-komparebla, la Ĉioscia, la Plejsaĝa.
 
 (Source category: Mateno)
 (Bahaiprayers.net ID: 4341)
+
+
 
 
 
@@ -409,6 +533,8 @@ Vi estas la Potenca kaj la Ĉio-pova. Vi estas la Grandanima. Vi estas la Indulg
 
 
 
+
+
 ## Protektado
 
 ### <a id="BH10578"></a> Prayer BH10578 in Esperanto
@@ -418,6 +544,8 @@ Laŭdata estu Via nomo, ho Eternulo mia Dio! Mi petegas Vin je Via Nomo, per kiu
 (Bahaiprayers.net ID: 4345)
 
 
+
+
 ### <a id="AB07759"></a> Prayer AB07759 in Esperanto
 Ho mia Eternulo! Vi scias, ke la homoj estas ĉirkaŭataj de doloroj kaj afliktoj kaj de malfacilaĵoj kaj ĉagrenoj. Ĉiu tento kaptas la homon, kaj ĉiu terura mizero atakas lin kvazaŭ serpento. Ne estas ŝirmo kaj rifuĝo por li krom sub la flugiloj de Viaj protekto, gardo, zorgo kaj konservado. Ho Vi Kompatema! Ho mia Eternulo! Via protektado estu mia armo, Via konservado mia ŝirmo, humileco antaŭ la pordo de Via unueco mia gvardio, kaj Viaj zorgado kaj defendo miaj fortikaĵo kaj restadejo. Protektu min de la sugestoj de memo kaj deziro, kaj gardu min de ĉiu malsano, tento, malfacilaĵo kaj aflikto. Vere, Vi estas la Protektanto, la Gardanto, la Konservanto, la Sufiĉanto, kaj vere Vi estas la Kompatema el la Plej Kompatemaj!
 
@@ -425,11 +553,15 @@ Ho mia Eternulo! Vi scias, ke la homoj estas ĉirkaŭataj de doloroj kaj aflikto
 (Bahaiprayers.net ID: 4321)
 
 
+
+
 ### <a id="AB00001SHI"></a> Prayer AB00001SHI in Esperanto
 Ho Dio, mia Dio! Ŝirmu Viajn fidelajn servantojn je la malbonoj de memo kaj pasio, protektu ilin per la gardema okulo de Via amfavoro je ĉiuj malico, malamo kaj envio, ŝirmu ilin en la nekaptebla fortikaĵo de Via prizorgo, kaj, sekuraj je la pikiloj de dubo, faru ilin la malkaŝantoj de Viaj gloraj signoj, lumigu iliajn vizaĝojn per la brilegaj radioj elvenantaj el la Tagiĝo de Via dia unueco, feliĉigu iliajn korojn per la versoj revelaciitaj el Via sankta regno, fortikigu iliajn lumbojn per Via ĉion-reganta potenco, kiu venas el Via regno de gloro. Vi estas la Plej Donacema, la Protektanta, la Ĉio-pova, la Bonvola.
 
 (Source category: Protektado)
 (Bahaiprayers.net ID: 4326)
+
+
 
 
 
@@ -443,6 +575,8 @@ Ho Vi, bonema Dio! Jen Viaj geservantoj, kiuj kolektiĝis en tiu ĉi kunveno, si
 
 
 
+
+
 ## Sanigo
 
 ### <a id="BH01313NAM"></a> Thy name is my healing in Esperanto
@@ -452,11 +586,15 @@ Via nomo estas mia kuraco, ho mia Dio, kaj rememoro pri Vi mia medikamento. Prok
 (Bahaiprayers.net ID: 4311)
 
 
+
+
 ### <a id="BH08013"></a> Prayer BH08013 in Esperanto
 Ho Dio, mia Dio! Mi petegas al Vi je la oceano de Via kuraco, kaj je la brilo de la Tagstelo de Via favoro, kaj je Via Nomo, per kiu Vi subigis Viajn servantojn, kaj je la penetra forto de Via plej supera Vorto kaj la potenco de Via plej majesta Plumo, kaj je Via mizerikordo ekzistanta jam de antaŭ la kreo de ĉiuj en la ĉielo kaj sur la tero, purigu min per la akvoj de Via malavaro de ĉiu aflikto kaj malordo, kaj de ĉia feblo kaj malforto. Vi vidas, ho mia Sinjoro, la peteganton Vian atendanta ĉe la sojlo de Via graco, kaj tiun, kiu metis ĉiujn siajn esperojn je Vi, alkroĉita al la kordono de Via malavaro. Ne lasu lin, mi petegas al Vi, sen tio, kion li serĉas el la oceano de Via graco kaj de la tagstelo de Via ama prizorgo. Potenca Vi estas fari kion Vi ŝatas. Estas neniu alia Dio krom Vi, la Ĉiam-Pardonanta, la Plej Malavara.
 
 (Source category: Sanigo)
 (Bahaiprayers.net ID: 4310)
+
+
 
 
 ### <a id="BH00870"></a> Long Healing Prayer in Esperanto
@@ -513,6 +651,8 @@ Vi vere estas la Potenca, la Ĉion-Sufiĉanta, la Kuracanta, la Protektanto, la 
 
 
 
+
+
 ## Spirita kreskado
 
 ### <a id="BH04421HEA"></a> Prayer BH04421HEA in Esperanto
@@ -520,6 +660,8 @@ Kreu en mi puran koron, ho mia Dio, kaj renovigu en mi trankvilan konsciencon, h
 
 (Source category: Spirita kreskado)
 (Bahaiprayers.net ID: 4346)
+
+
 
 
 ### <a id="BH00005ALL"></a> Prayer BH00005ALL in Esperanto
@@ -532,12 +674,16 @@ Ni petas Vin, ho Providenco, montru al ĉiuj homoj Vian vojon kaj ĝuste ilin gv
 (Bahaiprayers.net ID: 4374)
 
 
+
+
 ### <a id="ABU1863REF"></a> Prayer ABU1863REF in Esperanto
 Ho Dio! Refreŝigu kaj ĝojigu mian spiriton. Purigu mian koron. Iluminu miajn fortojn. Mi metas ĉiujn miajn aferojn en Vian manon. Vi estas mia Gvidanto kaj Rifuĝejo. Mi ne plu estos malĝoja kaj ĉagrenita; mi estos feliĉa kaj ĝojplena. Ho Dio! Mi ne plu estos zorgoplena, nek mi permesas, ke afliktoj turmentu min. Mi ne plu fiksiĝos je la malagrablaj aferoj de la vivo. 
 Ho Dio! Vi estas plia amiko al mi ol mi estas al mi mem. Mi dediĉas min al Vi, ho Eternulo!
 
 (Source category: Spirita kreskado)
 (Bahaiprayers.net ID: 4332)
+
+
 
 
 
@@ -551,6 +697,8 @@ Ho Dio! Vi estas plia amiko al mi ol mi estas al mi mem. Mi dediĉas min al Vi, 
 
 
 
+
+
 ## Triumfo de la Afero
 
 ### <a id="BB00004REN"></a> Prayer BB00004REN in Esperanto
@@ -560,11 +708,15 @@ Gloro estu al Vi, ho Eternulo, Vi Kiu ekzistigis ĉion kreitan per la potenco de
 (Bahaiprayers.net ID: 4355)
 
 
+
+
 ### <a id="BB00002ENA"></a> Prayer BB00002ENA in Esperanto
 Ho Eternulo! Ebligu al ĉiuj popoloj de la mondo akiri enlason en la Paradizon de Via Kredo, por ke neniu kreito restu ekster la limoj de Via bonŝato. De pratempoj Vi estas potenca fari kio ajn plaĉas al Vi kaj transcendanta ĉion ajn, kion Vi deziras.
 
 (Source category: Triumfo de la Afero)
 (Bahaiprayers.net ID: 4358)
+
+
 
 
 
@@ -577,6 +729,8 @@ Ho mia Dio! Ho mia Dio! Unuigu la korojn de Viaj servantoj kaj revelaciu al ili 
 (Bahaiprayers.net ID: 4353)
 
 
+
+
 ### <a id="ABU0023UNI"></a> Prayer ABU0023UNI in Esperanto
 Ho mia Dio! Ho mia Dio! Vere, mi alvokas Vin kaj preĝas antaŭ Via sojlo, petante Vin, ke ĉiuj Viaj benoj descendu sur ĉi tiujn animojn. Distingu ilin per Via favoro kaj Via vero. Ho Eternulo! Unuigu kaj kunligu la korojn, akordigu ĉiujn animojn kaj ĝojigu la spiritojn per la signoj de Viaj sankteco kaj ununureco. Ho Eternulo! Faru ĉi tiujn vizaĝojn radiantaj per la lumo de Via unueco. Fortigu la lumbojn de Viaj servantoj por la servado al Via regno. Ho Eternulo, Vi la posedanto de senlima kompato! Ho Dio de senkulpigo kaj pardonemo! Pardonu niajn pekojn, ekskuzu niajn malfortojn kaj igu nin turniĝi al la reĝejo de Via indulgo, alvokante la regnon de forto kaj potenco, humiliĝante ĉe Via sanktejo kaj submetiĝante antaŭ la gloro de Viaj evidentecoj. Ho Sinjoro Dio! Faru nin ondoj de l'maro, floroj de l’ĝardeno, unuiĝintaj, unuanimaj per la donaco de Via amo. Ho Eternulo! Vastigu la brustojn per la signoj de Via ununureco kaj faru la tutan homaron steloj brilantaj desur la sama alto de gloro, perfektaj fruktoj kreskantaj sur Via arbo de vivo. Vere, Vi estas la Ĉiopova, la Mem-Ekzistanta, la Donanta, la Pardonanta, la Senkulpiganto, la Ĉio-scia, la Ununura Kreanto.
 
@@ -584,11 +738,15 @@ Ho mia Dio! Ho mia Dio! Vere, mi alvokas Vin kaj preĝas antaŭ Via sojlo, petan
 (Bahaiprayers.net ID: 4322)
 
 
+
+
 ### <a id="ABU0009SER"></a> Prayer ABU0009SER in Esperanto
 Ho Vi, kompatema Sinjoro, Vi Kiu estas malavara kaj pova! Ni estas servantoj Viaj ŝirmataj sub Via providenco. Rigardu nin per Via favoro. Donu lumon al niaj okuloj, aŭdkapablon al niaj oreloj kaj komprenon kaj amon al niaj koroj. Faru niajn animojn gajaj kaj feliĉaj per Via ĝoja  sciigo. Ho Sinjoro! Montru al ni la vojon al Via regno kaj vivigu nin ĉiujn per la spiroj de Via Sankta Spirito. Havigu al ni vivon eternan kaj sendu al ni honoron senfinan. Unuigu la homaron kaj lumigu la homan mondon. Sekvu ni ĉiuj Vian vojon, soifu ni al Via bonplezuro kaj serĉu ni la misterojn de Via Regno. Ho Dio! Unuigu nin kaj kunigu niajn korojn per Via nedisŝirebla ligo. Vere, Vi estas la Donanto, la Bonema kaj la Ĉio-pova.
 
 (Source category: Unueco)
 (Bahaiprayers.net ID: 4324)
+
+
 
 
 
@@ -601,6 +759,8 @@ Ho mia Dio, mia Mastro, la Celo de mia deziro! Ĉi tiu servanto Via sopiras dorm
 (Bahaiprayers.net ID: 4342)
 
 
+
+
 ### <a id="AB06528MID"></a> Midnight Prayer in Esperanto
 *Ho serĉanto de l’Vero! Se vi deziras, ke Dio malfermu vian okulon, vi devas petegi al Dio, preĝi al Li kaj komuniki kun Li je noktomezo, dirante la jenon: 
 Ho Eternulo, mi turnis mian vizaĝon al Via regno de unueco kaj mi mergiĝis en la maro de Via kompatemo. Ho Eternulo, heligu mian vidkapablon pere de Viaj lumoj en ĉi obskura nokto, kaj feliĉigu min per la vino de Via amo en ĉi mirinda epoko. Ho Eternulo, igu min aŭskulti Vian vokon, kaj malfermu antaŭ mia vizaĝo la pordojn de Via ĉielo, por ke mi vidu la lumon de Via gloro kaj estu altirata al Via beleco. 
@@ -608,6 +768,8 @@ Vere, Vi estas la Donanto, la Malavara, la Kompatema, la Pardonanta.
 
 (Source category: Vespero)
 (Bahaiprayers.net ID: 4330)
+
+
 
 
 
@@ -620,11 +782,15 @@ Ho mia Dio, la Dio de donacado kaj kompato! Vi estas la Reĝo, per Kies ordona v
 (Bahaiprayers.net ID: 4347)
 
 
+
+
 ### <a id="BH07426FOO"></a> Prayer BH07426FOO in Esperanto
 Ho mia Eternulo! Faru Vian belecon mia mangaĵo kaj Vian ĉeeston mia trinkaĵo, kaj Vian plaĉon mia espero, kaj gloradon al Vi mia agado, kaj rememoron pri Vi mia akompananto, kaj la potencon de Via suvereneco mia helpo, kaj Vian restadejon mia hejmo, kaj mian vivejon la loko, kiun Vi sanktigis de la limoj metitaj al tiuj, kiuj kvazaŭ per vualo estas forfermitaj de Vi. Vi estas vere la Ĉio-pova, la Plejglora, la Plejpotenca.
 
 (Source category: Virtoj)
 (Bahaiprayers.net ID: 4351)
+
+
 
 
 
@@ -635,6 +801,9 @@ Ho Dio, mia Dio! Mi forlasis mian hejmon, firme tenante la kordonon de Via amo, 
 
 (Source category: Vojaĝo)
 (Bahaiprayers.net ID: 4349)
+
+
+
 
 
 

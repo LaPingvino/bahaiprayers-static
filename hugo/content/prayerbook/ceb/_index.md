@@ -3,6 +3,68 @@ title = "Cebuano"
 tags = ['lang=ceb', 'prayerbook']
 +++
 
+
+
+[ANG TABLA NI AHMAD](#ANG TABLA NI AHMAD)
+
+[Alang sa Bana](#Alang sa Bana)
+
+[Alang sa Bata](#Alang sa Bata)
+
+[Alang sa Ginikanan](#Alang sa Ginikanan)
+
+[Alang sa Mabdos](#Alang sa Mabdos)
+
+[Ang Taas nga Pangadyeon sa Pag-alim](#Ang Taas nga Pangadyeon sa Pag-alim)
+
+[Ang Tabla sa Balaang Marinero](#Ang Tabla sa Balaang Marinero)
+
+[Ang Tabla sa Kalayo](#Ang Tabla sa Kalayo)
+
+[Espirituhanong Hiyas](#Espirituhanong Hiyas)
+
+[Hardships](#Hardships)
+
+[Mga Pagsulay ug Kalisdanan](#Mga Pagsulay ug Kalisdanan)
+
+[Mga Pulong sa Kaalam](#Mga Pulong sa Kaalam)
+
+[Pag-alim](#Pag-alim)
+
+[Pag-ampo alang sa Katawhan](#Pag-ampo alang sa Katawhan)
+
+[Pagdalayeg ug Pagpasalamat](#Pagdalayeg ug Pagpasalamat)
+
+[Paggiya (sa mga nahisalaag)](#Paggiya (sa mga nahisalaag))
+
+[Pagkalig-on Diha sa Kasabutan](#Pagkalig-on Diha sa Kasabutan)
+
+[Pagkatulog](#Pagkatulog)
+
+[Pagkawalaykawili](#Pagkawalaykawili)
+
+[Pagtudlo](#Pagtudlo)
+
+[Panabang](#Panabang)
+
+[Panaghiusa](#Panaghiusa)
+
+[Pangadyeon alang sa Pagpanalipod](#Pangadyeon alang sa Pagpanalipod)
+
+[Pangadyeon alang sa Patay](#Pangadyeon alang sa Patay)
+
+[Pangadyeon sa Pagpanalipud](#Pangadyeon sa Pagpanalipud)
+
+[Pasaylo](#Pasaylo)
+
+[Puasa](#Puasa)
+
+[Tabla sa Pagduaw](#Tabla sa Pagduaw)
+
+[Tigum](#Tigum)
+
+
+
 ## ANG TABLA NI AHMAD
 
 ### <a id="bpn13425"></a> Prayer bpn13425 in Cebuano
@@ -29,6 +91,8 @@ Siya ang Hari, ang Nasayod sa tanan, ang Maalam!
 
 
 
+
+
 ## Alang sa Bana
 
 ### <a id="bpn13537"></a> Prayer bpn13537 in Cebuano
@@ -37,6 +101,8 @@ O Diyos, akong Diyos! Kining Imong babayeng alagad nagtawag Kanimo, nagasalig Ka
 
 (Source category: Alang sa Bana)
 (Bahaiprayers.net ID: 13537)
+
+
 
 
 
@@ -50,6 +116,8 @@ O Diyos, tudloi kining mga kabataan. Kining mga kabataan mga tanum sa Imong tana
 
 
 
+
+
 ## Alang sa Ginikanan
 
 ### <a id="bpn13534"></a> Prayer bpn13534 in Cebuano
@@ -59,6 +127,8 @@ Nakita Mo O Ginoo, ang among mga mapangamuyoong kamot gibayaw padulong sa langit
 (Bahaiprayers.net ID: 13534)
 
 
+
+
 ### <a id="bpn13533"></a> Prayer bpn13533 in Cebuano
 Bulahan siyang mohinumdom sa iyang mga ginikanan samtang siya nakigsulti sa Diyos.
 
@@ -66,11 +136,15 @@ Bulahan siyang mohinumdom sa iyang mga ginikanan samtang siya nakigsulti sa Diyo
 (Bahaiprayers.net ID: 13533)
 
 
+
+
 ### <a id="bpn13535"></a> Prayer bpn13535 in Cebuano
 O Ginoo! Niining Labing Bantugang Kapanahunan modawat Ka sa pangamuyo sa mga anak alang sa ilang mga ginikanan. Usa kini sa talagsaon ug walay kinutubang mga paghatag alang niining Panahona. Busa, O Ikaw nga maloloy-ong  Ginoo, dawata ang hangyo niining Imong alagad sa ganghaan sa Imong kausahan ug iunlod ang iyang amahan ilalom sa lawod sa Imong kalolot, tungod kay kini nga anak mibangon na aron pag-alagad Kanimo ug nanglimbasog sa tanang higayon diha sa alagian sa Imong gugma. Sa pagkamatuod, Ikaw ang Maghahatag, ang Tigpasaylo ug ang Maloloy-on!
 
 (Source category: Alang sa Ginikanan)
 (Bahaiprayers.net ID: 13535)
+
+
 
 
 
@@ -82,6 +156,8 @@ Akong Ginoo! Akong Ginoo! Ako nagdalayeg Kanimo ug ako nagpasalamat Kanimo nga I
 
 (Source category: Alang sa Mabdos)
 (Bahaiprayers.net ID: 13536)
+
+
 
 
 
@@ -137,6 +213,8 @@ Siya ang Moalim, ang Motagbaw, ang Motabang, ang Hingpit nga Mopasaylo, ang Laba
 
 (Source category: Ang Taas nga Pangadyeon sa Pag-alim)
 (Bahaiprayers.net ID: 13541)
+
+
 
 
 
@@ -326,6 +404,8 @@ Himayaon ta ang atong Ginoo, ang Labing Halangdon!
 
 
 
+
+
 ## Ang Tabla sa Kalayo
 
 ### <a id="bpn13542"></a> Prayer bpn13542 in Cebuano
@@ -386,6 +466,8 @@ Sa Ngalan sa Diyos, ang Labing Karaan, ang Labing Dungganan.
 
 
 
+
+
 ## Espirituhanong Hiyas
 
 ### <a id="bpn13530"></a> Prayer bpn13530 in Cebuano
@@ -394,6 +476,8 @@ O Ginoo ko! Himoa ang Imong katahum nga maakong pagkaon, ug ang Imong pag-atuban
 
 (Source category: Espirituhanong Hiyas)
 (Bahaiprayers.net ID: 13530)
+
+
 
 
 
@@ -406,11 +490,15 @@ Ang mga hiyas ug kinaiyahan kalabot sa Diyos dayag ug tataw, ug sila gihisgotan 
 (Bahaiprayers.net ID: 13428)
 
 
+
+
 ### <a id="bpn13429"></a> Prayer bpn13429 in Cebuano
 Ikaw mao Siya nga mopuli pinaagi sa Iyang kabubut-on sa kaulawanan ngadto sa himaya, sa kahuyang ngadto sa kusog, sa pagkawalaygahom ngadto sa gahom, sa kahadlok ngadto sa kalinaw, ug sa pagduhaduha ngadto sa kasigurohan.
 
 (Source category: Hardships)
 (Bahaiprayers.net ID: 13429)
+
+
 
 
 ### <a id="bpn13430"></a> Prayer bpn13430 in Cebuano
@@ -420,11 +508,15 @@ Dili kini mga adlaw sa kauswagan ug kadaogan. Ang tanang katawhan nalikosan sa m
 (Bahaiprayers.net ID: 13430)
 
 
+
+
 ### <a id="bpn13431"></a> Prayer bpn13431 in Cebuano
 O kamong mga minahal nga higala! Ang kalibotan anaa sa  kagubot ug ang katawhan gikapoy ug nakigbisog nga mabuhi. Ang mangitngit nga kagabhion sa kayugot mipuli, ug ang kahayag sa balaang pagtuo gipapas. Ang katawhan ug mga kaliwatan sa kalibotan mibaid sa ilang mga kuko, ug nakigbatok usa ngadto sa usa. Ang sukaranan mismo sa banay sa katawhan giguba. Libo ka libo ka mga panimalay ang walay padulngan ug walay kabtangan, ug matag tuig libo ka libo sa katawhan dugoang nagkurog diha sa abog nga awayanan…
 
 (Source category: Hardships)
 (Bahaiprayers.net ID: 13431)
+
+
 
 
 ### <a id="bpn13432"></a> Prayer bpn13432 in Cebuano
@@ -433,6 +525,8 @@ Pagmalig-on kamo sama sa mga hataas nga bukid, sama sa mga bituon nga misubang i
 
 (Source category: Hardships)
 (Bahaiprayers.net ID: 13432)
+
+
 
 
 
@@ -445,11 +539,15 @@ O Ikaw Kansang mga pagsulay maoy makaalim nga tambal nilang haduol kanimo, Kansa
 (Bahaiprayers.net ID: 13513)
 
 
+
+
 ### <a id="bpn13514"></a> Prayer bpn13514 in Cebuano
 Gipangamuyo ko Kanimo pinaagi sa Imong gahum, O Diyos ko! Wala untay kadaot nga modangat kanako sa mga panahon sa pagsulay, ug sa mga higayon nga ako magmagahion, agaka ang akong mga lakang nga magmatarong pinaagi sa Imong pagdasig. Ikaw ang Diyos, makagagahum Kang mobuhat sa Imong kagustuhan. Walay ni usang makababag sa Imong Pagbuot o makasanta sa Imong Tumong.
 
 (Source category: Mga Pagsulay ug Kalisdanan)
 (Bahaiprayers.net ID: 13514)
+
+
 
 
 ### <a id="bpn13515"></a> Prayer bpn13515 in Cebuano
@@ -459,6 +557,8 @@ O Ginoo ko! Nahibaloan Mo nga ang katawhan nalikusan sa kasakit ug mga katalagma
 
 (Source category: Mga Pagsulay ug Kalisdanan)
 (Bahaiprayers.net ID: 13515)
+
+
 
 
 
@@ -495,6 +595,8 @@ Sa Ngalan sa Diyos, ang Dalayegon, ang Labing Halangdon.
 
 
 
+
+
 ## Pag-alim
 
 ### <a id="bpn13517"></a> Prayer bpn13517 in Cebuano
@@ -506,6 +608,8 @@ O Diyos, akong Diyos! Nangaliyupo ako kanimo pinaagi sa lawod sa Imong pag-alim,
 (Bahaiprayers.net ID: 13517)
 
 
+
+
 ### <a id="bpn13518"></a> Prayer bpn13518 in Cebuano
 Ang himaya maanaa kanimo, O Ginoo akong Diyos! Gipangamuyo ko Kanimo pinaagi sa Imong Ngalan, diin Imong gibayaw ang mga timailhan sa Imong pag-agak ug gipasanag ang kahayag sa Imong mahigugmaong kalooy, ug gipakita ang kamandoan sa Imong Pagkaginoo; diin ang lampara sa Imong mga ngalan napadayag diha sa tipiganan sa Imong mga hiyas, ug Siya nga Mao ang Tabernakulo sa Imong kahiusahan ug ang Pagpadayag sa pagkawalaykawili midan-ag; diin ang mga dalan sa Imong pag-agak nahibaloan, ug ang mga alagianan sa Imong kahimuot nahatagan ug ilhanan; diin ang mga sukaranan sa kasaypanan nauyog, ug ang mga timailhan sa kadautan nawagtang; diin ang mga tuburan sa kaalam napaagos ug ang langitnong talad napakunsad; diin Imong gipanalipdan ang Imong mga alagad ug gipakunsad ang Imong pag-alim; diin gipakita Mo ang Imong mga malumong kalooy ngadto sa Imong mga alagad ug gipadayag ang Imong pagpasaylo ngadto sa Imong mga linalang - nangamuyo ako Kanimo sa pagpanalipud kaniya nga hugot nagkupot ug mibalik nganha Kanimo, ug nagkapyot sa Imong kalooy, ug naggunit sa sidsid sa Imong mahigugmaong pag-agak. Ipadala, gilayon, kaniya ang Imong pag-alim, ug himoa siyang bug-os, ug hatagi siya ug pagkamakanunayon nga nagagikan Kanimo, ug kalinaw nga gituga gikan sa Imong kahalangdon. 
          Ikaw, sa pagkamatuod, mao ang Mag-aalim, ang Mag-aamping, ang Magtatabang, ang Labing Kusgan, ang Makagagahum, ang Labawng Mahimayaon, ang Nasayod sa Tanan.
@@ -514,11 +618,15 @@ Ang himaya maanaa kanimo, O Ginoo akong Diyos! Gipangamuyo ko Kanimo pinaagi sa 
 (Bahaiprayers.net ID: 13518)
 
 
+
+
 ### <a id="bpn13519"></a> Prayer bpn13519 in Cebuano
 Ang Imong Ngalan maoy makaalim Kanako, O Diyos ko, ug ang paghandum Kanimo maoy akong tambal. Ang pagkahaduol ko Kanimo maoy akong paglaom, ug ang gugma ko Kanimo maoy akong kauban. Ang Imong kalooy kanako maoy makaalim ug makatabang kanako niini nga kalibutan ug sa kalibutan nga moabot. Ikaw sa pagkamatuod mao ang Labing Mahatagon, ang Labing Nasayod, ang Labing Maalam.
 
 (Source category: Pag-alim)
 (Bahaiprayers.net ID: 13519)
+
+
 
 
 
@@ -546,6 +654,8 @@ Ikaw ang Kusgan ug ang Makagagahom, Ikaw ang Mapasayluon ug Ikaw ang Tigpasaylo 
 
 
 
+
+
 ## Pagdalayeg ug Pagpasalamat
 
 ### <a id="bpn13498"></a> Prayer bpn13498 in Cebuano
@@ -554,6 +664,8 @@ Ang Diyos mopanghimatuod sa kausahan sa Iyang Pagka-Diyos ug sa pagkausa lamang 
 
 (Source category: Pagdalayeg ug Pagpasalamat)
 (Bahaiprayers.net ID: 13498)
+
+
 
 
 ### <a id="bpn13499"></a> Prayer bpn13499 in Cebuano
@@ -565,6 +677,8 @@ Dalayegon ang Imong ngalan, O Diyos ko! Saksihan ko nga walay hunahuna alang Kan
 (Bahaiprayers.net ID: 13499)
 
 
+
+
 ### <a id="bpn13500"></a> Prayer bpn13500 in Cebuano
 Dalayegon Ka, O Ginoo akong Diyos! Sa matag panahon nga ako mosugod paghisgot Kanimo, babagan ako sa kahataas sa Imong espirituhanong kahimtang ug sa mabuntogong kusog sa Imong gahum. Tungod kay kon ako modalayeg Kanimo sa gidugayon sa Imong kamandoan ug sa gidugayon sa Imong kaharian, masuta nako nga ang akong pagdalayeg Kanimo angayan lamang kanilang susama kanako, nga mismo Imong mga linalang, ug gilalang pinaagi sa gahum sa Imong pagmando ug giumol pinaagi sa kusog sa Imong kabubut-on. Ug sa bisan unsang panahon nga ang akong pluma mohubit ug himaya sa bisan usa sa Imong mga ngalan, mahunahuna nako nga akong mabati ang tingog sa iyang pagbakho tungod sa kahalayo niya Kanimo, ug makakita ako sa iyang paghilak tungod sa pagkabulag niini sa Imong Kaugalingon. Saksihan ko nga ang tanang butang gawas Kanimo Imong linalang ug gihuptan diha sa Imong kamot. Ang Imong pagdawat ug uhat o pagdalayeg gikan sa Imong mga linalang maoy kamatuoran sa katalagsaon sa Imong kalooy ug buhong nga mga panabang, ug usa ka pagpadayag sa Imong kamahatagon ug pagbantay.
          Gipangamuyo ko Kanimo, O Ginoo ko, pinaagi sa Imong Labing Halangdong Ngalan diin Imong gipinig ang kahayag gikan sa kalayo, ug ang kamatuoran gikan sa bakak, sa paghatag kanako ug sa akong mga gihigugma, nga akong kauban sa kaayohan niining kalibutan ug ang sa sunod. Buboi kami karon sa mga talagsaon Mong gasa nga nalilong sa mga mata sa katawhan. Ikaw, sa pagkamatuod, Mao ang Mag-uumol sa tanang linalang. Walay laing Diyos gawas Kanimo ang Labing Gamhanan, ang Labawng Mahimayaon, ang Labing Dungganan.
@@ -573,12 +687,16 @@ Dalayegon Ka, O Ginoo akong Diyos! Sa matag panahon nga ako mosugod paghisgot Ka
 (Bahaiprayers.net ID: 13500)
 
 
+
+
 ### <a id="bpn13501"></a> Prayer bpn13501 in Cebuano
 Akong Diyos, akong Gisimba, akong Hari, akong Tinguha! Unsang dila ang makalitok sa akong mga pagpasalamat Kanimo? Nagmagahi ako, Imo akong gipukaw. Mitalikud ako Kanimo, Imo akong gibuligan nga mabination sa paglingi nganha Kanimo. Susama ako sa patay, Imo akong gibanhaw sa tubig sa kinabuhi. Nalarag na ako, Imo akong gipalunhaw sa langitnong sapa sa Imong pagpamulong nga miagus gikan sa Pluma sa Maloloy-on sa tanan.
          O Diyosnong Paghatag! Ang tanang linalang butang nagagikan sa Imong paghatag; hikawi kini ayaw sa mga sapa sa Imong kamahatagon, ni ipalayo Mo gikan niini ang lawod sa Imong kalooy. Nangaliyupo ako Kanimo sa pagbulig ug pag-agak kanako sa tanang panahon ug ubos sa tanang kahimtamg, ug nangamuyo ako diha sa langit sa Imong pagkamabination sa Imong karaang paghatag. Ikaw, sa pagkamatuod, Mao ang Ginoo sa paghatag, ang Hari sa walay kamatayong gingharian.
 
 (Source category: Pagdalayeg ug Pagpasalamat)
 (Bahaiprayers.net ID: 13501)
+
+
 
 
 ### <a id="bpn13502"></a> Prayer bpn13502 in Cebuano
@@ -590,6 +708,8 @@ Ang tanang pagdalayeg maanaa kanimo, O Diyos ko, nga Mao ang Tinubdan sa tanang 
 
 
 
+
+
 ## Paggiya (sa mga nahisalaag)
 
 ### <a id="bpn13525"></a> Prayer bpn13525 in Cebuano
@@ -597,6 +717,8 @@ Gipangamuyo Namo sa Diyos nga mabinationg mabuligan silang nahisalaag aron magma
 
 (Source category: Paggiya (sa mga nahisalaag))
 (Bahaiprayers.net ID: 13525)
+
+
 
 
 
@@ -611,12 +733,16 @@ Dalayegon  Ka, O Ginoo akong Diyos! Nangamuyo ako Kanimo pinaagi Kaniya nga Mao 
 (Bahaiprayers.net ID: 13503)
 
 
+
+
 ### <a id="bpn13504"></a> Prayer bpn13504 in Cebuano
 Ang himaya maanaa Kanimo, nga nakaaghat sa tanang balaang Linalang sa pagmatuod sa ilang pagkawalaygahum atubangan sa daghang timailhan sa Imong gahum, ug sa matag usa ka Propeta sa pag-ila sa Iyang pagkawalaybili atubangan sa kahayag sa Imong maunongong himaya. Gipangamuyo Ko Kanimo, pinaagi sa Imong ngalan nga nag-abli sa mga ganghaan sa Langit ug mipuno sa hilabihang kalipay ngadto sa Kahugpungan sa kahitas-an, sa pagtugot kanako nga mosilbi Kanimo, niining Adlawa, ug sa paglig-on kanako sa pagtuman niadtong gimando Mo sa imong basahon. 
          Nahibalo ka, O Ginoo ko, unsay anaa kanako; apan wala ako makahibalo unsay anaa Kanimo. Ikaw ang Labawng Nakahibalo, ang Nasayod sa Tanan.
 
 (Source category: Pagkalig-on Diha sa Kasabutan)
 (Bahaiprayers.net ID: 13504)
+
+
 
 
 ### <a id="bpn13505"></a> Prayer bpn13505 in Cebuano
@@ -628,6 +754,8 @@ Dalayegon ang ngalan Mo, O Ginoo akong Diyos! Gipangamuyo ko Kanimo pinaagi sa I
 (Bahaiprayers.net ID: 13505)
 
 
+
+
 ### <a id="bpn13506"></a> Prayer bpn13506 in Cebuano
 Ang himaya maanaa Kanimo, O Ikawng Ginoo sa kalibutan ug Tinguha sa mga nasud. O Ikawng mao ang gipadayag diha sa Labing Halangdong Ngalan, diin ang mga perlas sa kaalam ug pagpamulong nagpakita gikan sa mga litub sa dakong lawod sa Imong kahibalo, ug ang mga langit sa Diyosnong pagpadayag nadayandayanan sa kahayag sa pagsubang sa adlaw sa Imong panagway. 
          Nangamuyo ako Kanimo, pinaagi nianang Pulong diin ang Imong timailhan nahingpit diha sa Imong mga linalang ug ang Imong timaan natuman diha sa Imong mga alagad, sa paglig-on sa Imong katawhan nga ang panagway sa Kawsa modan-ag sa Imong kamandoan, ug ang mga bandila sa Imong gahum mapakayab diha sa Imong katawhan, ug mga estardante sa Imong pag-agak mapasaka diha sa Imong kayutaan.
@@ -636,6 +764,8 @@ Ang himaya maanaa Kanimo, O Ikawng Ginoo sa kalibutan ug Tinguha sa mga nasud. O
 
 (Source category: Pagkalig-on Diha sa Kasabutan)
 (Bahaiprayers.net ID: 13506)
+
+
 
 
 
@@ -651,6 +781,8 @@ Unsaon ko paghikatulog, O Diyos, akong Diyos, kun ang mga mata nilang nangandoy 
 
 
 
+
+
 ## Pagkawalaykawili
 
 ### <a id="bpn13510"></a> Prayer bpn13510 in Cebuano
@@ -662,11 +794,15 @@ Dalayegon ang ngalan Mo, O Diyos ko, nga Ikaw nagpadayag sa Adlaw nga maoy Hari 
 (Bahaiprayers.net ID: 13510)
 
 
+
+
 ### <a id="bpn13511"></a> Prayer bpn13511 in Cebuano
 O Diyos ko, akong Ginoo ug akong Agalon! Mibulag ako sa akong kabanayan ug nangaliya Kanimo nga mamahimo unta ako nga bulag sa tanang nga lumolupyo niini nga kalibutan ug kanunayng andam nga modawat niadtong dalayegon diha sa Imong panan-aw. Hatagi ako niadtong kaayohan nga makahimo kanako nga bulag sa tanan gawas Kanimo, ug tugahi ako ug igong pahat sa Imong walay kinutubang gasa. Sa pagkamatuod, Ikaw ang Ginoo sa tugob nga paghatag.
 
 (Source category: Pagkawalaykawili)
 (Bahaiprayers.net ID: 13511)
+
+
 
 
 ### <a id="bpn13512"></a> Prayer bpn13512 in Cebuano
@@ -678,6 +814,8 @@ O Ginoo! Nganha Kanimo ako mangitag pasilongan, ug diha sa tanan Nimo nga timaan
 
 (Source category: Pagkawalaykawili)
 (Bahaiprayers.net ID: 13512)
+
+
 
 
 
@@ -693,6 +831,8 @@ Dalayegon Ka, O Ginoo akong Diyos! Nangaliyupo ako Kanimo, pinaagi sa Imong Ngal
 (Bahaiprayers.net ID: 13507)
 
 
+
+
 ### <a id="bpn13508"></a> Prayer bpn13508 in Cebuano
 O Ikawng dili ikatanding Diyos! O Ikawng Ginoo sa Gingharian! Kining mga kalag Imong langitnong kasundalohan. Buligi sila ug, inubanan sa mga panon sa Labing Gamhanang Katiguman, himoa silang madaugon, aron ang usag usa kanila mamahimong susama sa rehimento ug mobuntug niining mga nasud pinaagi sa gugma sa Diyos ug sa lamdag sa mga Diyosnong pagtulon-an.
          O Diyos! Ikaw unta ang ilang magbubulig ug ilang magtatabang, ug taliwala sa kalasangan, sa bukid, sa walog, sa kakahoyan, sa kabalilihan ug sa kadagatan, Ikaw unta ang ilang sumbunganan - aron sila mosangyaw pinaagi sa gahum sa Gingharian ug sa ginhawa sa Balaang Espiritu.
@@ -700,6 +840,8 @@ O Ikawng dili ikatanding Diyos! O Ikawng Ginoo sa Gingharian! Kining mga kalag I
 
 (Source category: Pagtudlo)
 (Bahaiprayers.net ID: 13508)
+
+
 
 
 
@@ -714,6 +856,8 @@ O Ikaw Kansang nawong maoy tumong sa akong pagsimba, Kansang katahum maoy akong 
 
 
 
+
+
 ## Panaghiusa
 
 ### <a id="bpn13532"></a> Prayer bpn13532 in Cebuano
@@ -723,6 +867,8 @@ O Ikaw nga Ginoo sa mga Ginoo! Saksihan kong Ikaw ang Ginoo sa tanang kabinuhata
 (Bahaiprayers.net ID: 13532)
 
 
+
+
 ### <a id="bpn13522"></a> Prayer bpn13522 in Cebuano
 O Ikaw nga Maloloy-ong Ginoo! Ikaw nga mahatagon ug takus! Kami Imong mga alagad nga nasilongan ubos sa Imong panabang. Tan-awa kami sa Imong mahatagong pagtan-aw. Hatagig lamdag ang among mga mata, pagpamati ang among mga dalunggan ug pagsabot ug gugma ang among mga kasingkasing. Lipaya ug dasiga ang among mga kalag pinaagi sa Imong mga malipayong balita. O Ginoo! Itudlo ngari kanamo ang alagianan sa Imong gingharian, ug banhawa kaming tanan pinaagi sa mga ginhawa sa Espiritu Santo. Hatagi kamig dumalayong kinabuhi ug tugahi kamig walay katapusang dungog. Hiusaha ang katawhan ug dan-agi ang ilang kalibutan. Hinaut unta nga mosunod kami sa Imong dalan, mangandoy sa Imong maloloy-ong kahimuot, ug mangita sa mga linilong sa Imong gingharian. O Diyos! Hiusaha kami ug dugtunga ang among mga kasingkasing pinaagi sa Imong dili magun-ob nga dugtong. Sa pagkamatuod, Ikaw ang Maghahatag, Ikaw ang Usang Maloloy-on ug Ikaw ang labing Makagagahum!
 
@@ -730,11 +876,15 @@ O Ikaw nga Maloloy-ong Ginoo! Ikaw nga mahatagon ug takus! Kami Imong mga alagad
 (Bahaiprayers.net ID: 13522)
 
 
+
+
 ### <a id="bpn13523"></a> Prayer bpn13523 in Cebuano
 O Maloloy-ong Ginoo! Ikaw ang manggihatagon ug maloloy-on! Kami mga alagad sa Imong natad ug ubos kami sa Imong pagbantay ug kalolot. Ang adlaw sa Imong panabang midan-ag sa tanan ug ang kapanganuran sa Imong kalooy mibunok sa tanan. Ang Imong mga gasa milangkob sa tanan, ang Imong panabang maoy nagpabuhi sa tanan, ang Imong pagpanalipod mipandong sa tanan, ug ang mga siplat sa Imong kahimuot milamdag sa tanan. O Ginoo! Hatagi kami sa Imong walay katapusang paghatag ug pasigaa ang suga sa Imong pag-agak. Hayagi ang mga mata, lipaya ang mga kalag ug sul-ubig bag-ong espiritu ang mga kasingkasing. Hatagi silag dumalayong kinabuhi. Buksi ang mga pultahan sa Imong kahibalo, tugoti nga mapasiga ang suga sa pagtuo. Hiusaha ug dad-a ang katawhan ngadto sa usa ka silonganan ubos sa bandila sa Imong pagpanalipod, aron sila mamahimong sama sa mga balud sa usa ka dagat, mga dahon ug sanga sa usa ka kahoy, ug mamahimong magtigum ilalom sa landong sa samang tolda. Makainum unta sila sa samang tuburan. Mapabag-o unta sila sa samang huyohoy. Malamdagan unta sila sa samang gigikanan sa kahayag ug kinabuhi. Ikaw ang Maghahatag ang Maloloy-on.
 
 (Source category: Panaghiusa)
 (Bahaiprayers.net ID: 13523)
+
+
 
 
 
@@ -753,6 +903,8 @@ Ipalayo usab siya, O Diyos ko, gikan sa tanang kasakit ug kalisdanan, O Ikaw Nga
 (Bahaiprayers.net ID: 13426)
 
 
+
+
 ### <a id="bpn13434"></a> Prayer bpn13434 in Cebuano
 Kon moabot ang makahahadlok nga katalagman sa kinaiyahan, hinumdomi ang gahom ug kahalangdon sa inyong Ginoo, Siya Nga nakabati ug nakakita sa tanan, ug mobungat: “Ang Kamandoan Iya sa Diyos, ang Ginoo sa makita ug sa dili makita, ang Ginoo sa paglalang”.
 
@@ -760,11 +912,15 @@ Kon moabot ang makahahadlok nga katalagman sa kinaiyahan, hinumdomi ang gahom ug
 (Bahaiprayers.net ID: 13434)
 
 
+
+
 ### <a id="bpn13435"></a> Prayer bpn13435 in Cebuano
 Sa panahon nga moabot na ang kadaugan, ang matag usa moangkon nga siya tumotuo ug magdali pagduol ilalom sa pandong sa Tinuhoan as Diyos. Bulahan sila kinsa sa panahon sa mga katalagman nga mibukot sa tibuok kalibotan, lig-ong mibarog diha sa Kawsa ug midumili sa pagtipas gikan sa iyang kamatuoran.
 
 (Source category: Pangadyeon alang sa Pagpanalipod)
 (Bahaiprayers.net ID: 13435)
+
+
 
 
 ### <a id="bpn13427"></a> Prayer bpn13427 in Cebuano
@@ -775,6 +931,8 @@ Dili masukod ang Imong kahalangdon, O Ginoo! Panalipdi kami gikan niadtong anaa 
 (Bahaiprayers.net ID: 13427)
 
 
+
+
 ### <a id="bpn13436"></a> Prayer bpn13436 in Cebuano
 Kon ang Katalagman Moabot
 
@@ -782,6 +940,8 @@ Kon ang katalagman moabot, pagmapailobon ug dili-matugaw. Bisan unsa kabug-at sa
 
 (Source category: Pangadyeon alang sa Pagpanalipod)
 (Bahaiprayers.net ID: 13436)
+
+
 
 
 
@@ -803,6 +963,8 @@ O Diyos ko! Kini ang Imong alagad ug ang anak sa Imong alagad nga mituo Kanimo u
 (Bahaiprayers.net ID: 13520)
 
 
+
+
 ### <a id="bpn13521"></a> Prayer bpn13521 in Cebuano
 O Diyos ko! O Ikaw nga tigpasaylo sa mga kasal-anan, ang maghahatag sa mga gasa, ug ang mowagtang sa mga kasakitan!
          Sa pagkamatuod, ako nangamuyo Kanimo sa pagpasaylo sa mga kasal-anan kanilang mibiya na sa lawasnong sapot ug misaka na ngadto sa espirituhanon nga kalibutan.
@@ -810,6 +972,8 @@ O Diyos ko! O Ikaw nga tigpasaylo sa mga kasal-anan, ang maghahatag sa mga gasa,
 
 (Source category: Pangadyeon alang sa Patay)
 (Bahaiprayers.net ID: 13521)
+
+
 
 
 
@@ -824,6 +988,8 @@ Isulti: Ang Diyos paigo alang kanako. Siya Mao ang nagkupot pinaagi sa Iyang kam
 
 
 
+
+
 ## Pasaylo
 
 ### <a id="bpn13528"></a> Prayer bpn13528 in Cebuano
@@ -835,6 +1001,8 @@ Dalayegon Ka, O Ginoo akong Diyos! Gipangamuyo ko Kanimo pinaagi sa Imong mga Pi
 (Bahaiprayers.net ID: 13528)
 
 
+
+
 ### <a id="bpn13529"></a> Prayer bpn13529 in Cebuano
 Nakita Mo ako, O Ginoo ko, nga ang akong nawong nagtan-aw sa langit sa Imong paghatag ug sa lawod sa Imong kahimuot, bulag sa tanan gawas Kanimo. Gipangamuyo ko Kanimo, pinaagi sa kasilak sa Adlaw sa Imong pagpadayag diha sa Sinai, ug sa mga bidlisiw sa Adlaw sa Imong kalooy nga midan-ag gikan sa kapunawpunawan sa Imong Ngalan, ang Kanunayng Mapasayloon, sa paghatahag kanako sa Imong pasaylo ug kalooy. Sulata alang kanako pinaagi sa Imong pluma sa himaya kadtong makabayaw kanako diha sa Imong Ngalan niining kalibutan sa paglalang. Buligi ako, O Ginoo ko, nga magmalig-on diha Kanimo ug sa pagpamati sa tingug sa Imong mga hinigugma, kinsa ang kagahuman sa kalibutan wala makapahuyang, ug ang kamandoan sa mga nasud walay gahum sa pagpugong diha Kanimo, ug si kinsa, sa ilang pagpadulong Kanimo nag-ingon: ‘Ang Diyos mao ang among Ginoo, ang Ginoo sa tanan nga anaa sa langit ug sa tanan nga anaa sa yuta’.
 
@@ -842,11 +1010,15 @@ Nakita Mo ako, O Ginoo ko, nga ang akong nawong nagtan-aw sa langit sa Imong pag
 (Bahaiprayers.net ID: 13529)
 
 
+
+
 ### <a id="bpn13526"></a> Prayer bpn13526 in Cebuano
 O Diyos ko, O Ginoo ko, O akong Agalon! Gipangamuyo ko Kanimo ang pagpasaylo kanako sa akong pagpangitag kalipay gawas sa Imong gugma, o kaharuhay gawas sa Imong kahaduol, o kamaya gawas sa Imong maloloy-ong kahimuot, o sa pagpakabuhi gawas sa pakighimamat Kanimo.
 
 (Source category: Pasaylo)
 (Bahaiprayers.net ID: 13526)
+
+
 
 
 ### <a id="bpn13527"></a> Prayer bpn13527 in Cebuano
@@ -857,6 +1029,8 @@ Dalayegon Ka, O Ginoo. Pasayloa kami sa among mga kasal-anan, malooy Ka kanamo u
 
 
 
+
+
 ## Puasa
 
 ### <a id="bpn13539"></a> Prayer bpn13539 in Cebuano
@@ -864,6 +1038,8 @@ O Diyosnong Paghatag! Samtang ako nagpuasa sa mga kahinam sa lawas ug nagdumili 
 
 (Source category: Puasa)
 (Bahaiprayers.net ID: 13539)
+
+
 
 
 
@@ -885,6 +1061,8 @@ O Diyosnong Paghatag! Samtang ako nagpuasa sa mga kahinam sa lawas ug nagdumili 
 
 
 
+
+
 ## Tigum
 
 ### <a id="bpn13531"></a> Prayer bpn13531 in Cebuano
@@ -892,6 +1070,9 @@ O Diyos! Sa pagkatinuod, kami nagkatigum dinhi ubos sa alimyon sa Imong gugma. M
 
 (Source category: Tigum)
 (Bahaiprayers.net ID: 13531)
+
+
+
 
 
 

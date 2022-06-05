@@ -3,6 +3,74 @@ title = "Malti"
 tags = ['lang=mt', 'prayerbook']
 +++
 
+
+
+[Familja](#Familja)
+
+[Fejqan](#Fejqan)
+
+[Fil-Għodu](#Fil-Għodu)
+
+[Għajnuna w Assistenza](#Għajnuna w Assistenza)
+
+[Għaqda](#Għaqda)
+
+[IT-TAVLA TA’ AḤMAD](#IT-TAVLA TA’ AḤMAD)
+
+[IT-TWAVEL TAL-VIŻITAZZJONI](#IT-TWAVEL TAL-VIŻITAZZJONI)
+
+[Irġiel Miżżewġa](#Irġiel Miżżewġa)
+
+[Is-Sawm](#Is-Sawm)
+
+[JIEM INTERKALARI](#JIEM INTERKALARI)
+
+[Kenn](#Kenn)
+
+[Kobor Spiritwali](#Kobor Spiritwali)
+
+[L-erwieħ li ħallewna](#L-erwieħ li ħallewna)
+
+[Maħfra](#Maħfra)
+
+[Nisa](#Nisa)
+
+[Ommijiet fit-tqala](#Ommijiet fit-tqala)
+
+[Qtugħ](#Qtugħ)
+
+[Rebħ tal-Kawza](#Rebħ tal-Kawza)
+
+[Sodi fil-Patt](#Sodi fil-Patt)
+
+[TALBA OBBLIGATORJA QASIRA](#TALBA OBBLIGATORJA QASIRA)
+
+[TALBA OBLIGATORJA MEDJA](#TALBA OBLIGATORJA MEDJA)
+
+[TALBA OBLIGATORJA TWILA](#TALBA OBLIGATORJA TWILA)
+
+[Tagħlim](#Tagħlim)
+
+[Tfal](#Tfal)
+
+[Tifħir u Gratitudini](#Tifħir u Gratitudini)
+
+[Tiġrib u ebusija](#Tiġrib u ebusija)
+
+[Umanità](#Umanità)
+
+[Ġemgħat](#Ġemgħat)
+
+[Ġenituri](#Ġenituri)
+
+[Żamma fis-sod](#Żamma fis-sod)
+
+[Żgħażagħ](#Żgħażagħ)
+
+[Żwieġ](#Żwieġ)
+
+
+
 ## Familja
 
 ### <a id="bpn7954"></a> Prayer bpn7954 in Malti
@@ -14,6 +82,8 @@ Berkini, O Alla tiegħi, u lil dawk li għad jemmu fl-egħliem tiegħeK fil-Jum 
 
 (Source category: Familja)
 (Bahaiprayers.net ID: 7954)
+
+
 
 
 
@@ -30,11 +100,15 @@ Setgħani Int li tagħmel dak li jogħġboK. M’hemmx Alla ieħor għajreK, Li 
 (Bahaiprayers.net ID: 7962)
 
 
+
+
 ### <a id="bpn8001"></a> Prayer bpn8001 in Malti
 L-Isem tiegħeK hu l-fejqan tiegħi, O Alla tiegħi, u l-fakra tiegħeK hija l-kura tiegħi. QarbieneK huwa it-tama tiegħi, u l-imħabba għaliK hija s-sieħba tiegħi. Il-ħniena tiegħeK lejja hija il-fejqan tiegħi u l-għajnuna tiegħi kemm f’din id-dinja u fid-dinja li ġejja. Inti, fis-sewwa, it-Tajjeb f’Kollox, li Taf-Kollox, il-Għaref f’Kollox.
 
 (Source category: Fejqan)
 (Bahaiprayers.net ID: 8001)
+
+
 
 
 
@@ -47,6 +121,8 @@ Jien stenbaht fil-kenn tiegħeK, O Alla tiegħi u jixraqlu dak li jfittex dak il
 (Bahaiprayers.net ID: 7967)
 
 
+
+
 ### <a id="bpn7968"></a> Prayer bpn7968 in Malti
 Jien qomt dal-għodu bil-grazzja tiegħeK, O Alla tiegħi, u ħallejt dari b’fiduċja sħiħa fiK, u nerħi lili nnifsi f’idejK. Niżżel fuqi, immela, mis-sema tal-ħniena tiegħeK, barka min-naħa tiegħeK, u ħallini nerġa lura d-dar qawwi u sħiħ kif Inti ħallejtni noħroġ taħt il- harsien tiegħeK  bi ħsebijieti fissi fuqeK. 
 
@@ -54,6 +130,8 @@ M’hemmx Alla ieħor għajreK, il-Wieħed, li Bħalu M’Hemmx, li Jaf Kollox, 
 
 (Source category: Fil-Għodu)
 (Bahaiprayers.net ID: 7968)
+
+
 
 
 
@@ -68,6 +146,8 @@ Inti, fis-sewwa, is-Sultan tal-bnedmin kollha. M’hemmx Alla għajreK, Li Jaħf
 (Bahaiprayers.net ID: 7942)
 
 
+
+
 ### <a id="bpn7943"></a> Prayer bpn7943 in Malti
 Sid! Aħna nġibu ħniena, urina l-għoġba tiegħeK; foqra, agħtina sehem mill-oċejan tal-ġid tiegħeK; fil-bżonn, xebbagħna Inti; imkejna, agħtina l-glorja tiegħeK. It-tjur tas-sema u l-bhejjem tal-għalqa jingħataw l-ikel kuljum mingħandeK, u l-ħlejjaq kollha jieħdu sehemhom mill-ħsieb u mill-ħanina mħabbteK.
 
@@ -80,6 +160,8 @@ Agħtina il-ħobż ta’ kuljum, u kattar il-ħtiġijiet tal-ħajja, biex ma naq
 
 
 
+
+
 ## Għaqda
 
 ### <a id="bpn7991"></a> Prayer bpn7991 in Malti
@@ -87,6 +169,8 @@ O Alla tiegħi! O Alla tiegħi! Għaqqad il-qlub tal-qaddejja tiegħeK, u ikxef 
 
 (Source category: Għaqda)
 (Bahaiprayers.net ID: 7991)
+
+
 
 
 ### <a id="bpn7992"></a> Prayer bpn7992 in Malti
@@ -102,6 +186,8 @@ Fis-sew, Int is-Setgħani, Li Tgħix Fik InnifseK, Li Tagħti, Li Taħfer, Li Ta
 
 (Source category: Għaqda)
 (Bahaiprayers.net ID: 7992)
+
+
 
 
 
@@ -151,6 +237,8 @@ Fis-sew, Hu il-Hanin, li Jagħder. Tifħir lil Alla, is-Sid tad-dinjiet kollha.
 
 
 
+
+
 ## IT-TWAVEL TAL-VIŻITAZZJONI
 
 ### <a id="bpn7998"></a> Prayer bpn7998 in Malti
@@ -177,6 +265,8 @@ Bierek Int, O Sid Alla tiegħi, is-Siġra Divina tal-Lotu u l-weraq tagħha, u l
 
 
 
+
+
 ## Irġiel Miżżewġa
 
 ### <a id="bpn7964"></a> Prayer bpn7964 in Malti
@@ -193,6 +283,8 @@ Fis-sew, Int il-Għani, li Tagħti Dejjem, l-Id Miftuħa.
 
 
 
+
+
 ## Is-Sawm
 
 ### <a id="bpn8000"></a> Prayer bpn8000 in Malti
@@ -205,6 +297,8 @@ M’hemmx Alla għajreK,  Li Jaf-Kollox, il-Għaref f’Kollox. Kull tifħir lil
 
 (Source category: Is-Sawm)
 (Bahaiprayers.net ID: 8000)
+
+
 
 
 
@@ -230,6 +324,8 @@ Int, fis-sew, is-Setgħani, Li Jaf-Kollox, li Mgħarraf-b’Kollox.
 
 
 
+
+
 ## Kenn
 
 ### <a id="bpn7973"></a> Prayer bpn7973 in Malti
@@ -241,12 +337,16 @@ Itkun imfaħħar, O Sid Alla tiegħi! Dan huwa l-qaddej tiegħeK li xorob minn i
 (Bahaiprayers.net ID: 7973)
 
 
+
+
 ### <a id="bpn7974"></a> Prayer bpn7974 in Malti
 O Alla, O Alla tiegħi! Jien ħriġt minn dari, inżomm sewwa mal-ħabel ta’ l-imħabba 
 tiegħeK, u erħejt ruħi għal kollox f’idejK u taħt il-ħarsien tiegħeK. NitolboK, f’ġieh il-qawwa li biha Int ħarist lill-maħbubin tiegħeK mill-imgħawweġ u mill-imħajjen, u minn kull ħakkiem stinat, u minn kull ħajjen li terraq ’il bogħod minneK, sabiex iżżommni fiż-żgur bit-tjieba tiegħeK u l-grazzja tiegħeK. Ħallini, immela, nerġa’ lura lejn dari bil-qawwa tiegħeK u bis-setgħa tiegħeK. Inti, fis-sew, is-Setgħan, l-Għajnuna fis-Saram, li Tgħix Fik Innifsek.
 
 (Source category: Kenn)
 (Bahaiprayers.net ID: 7974)
+
+
 
 
 
@@ -261,11 +361,15 @@ Setgħani Int li tagħmel dak li jogħġboK. Inti, fis-sewwa, l-Aktar Għoli, il
 (Bahaiprayers.net ID: 7975)
 
 
+
+
 ### <a id="bpn7976"></a> Prayer bpn7976 in Malti
 Oħloq fija qalb safja, O Alla tiegħi, u ġedded kuxjenza kalma ġo fija, O Tama tiegħi! Bl-ispirtu tal-qawwa saħħaħni fil-Kawża tiegħeK, O l-Aktar Li Nħobb, u bid-dwal tal-glorja tiegħeK urini it-triq tiegħeK O Int il-Għan tax-xewqa tiegħi! Bil-qawwa ta’ setgħeteK sebbieqa erfagħni lejn is-sema tal-qdusija tiegħeK, O Għajn l-essenza tiegħi, u biż-żiffiet ta’ dwiemeK ferraħni, O Int Li inti Alla tiegħi! Halli l-għanjiet tiegħek bla tmien iniffsu s-sliem fuqi, O Sieħeb tiegħi, u ħalli l-għana tal-qadim wiċċeK jeħlisni minn kollox għajr minneK, O Mgħallem tiegħi, u ħalli ħbarijiet ir-rivelazzjoni ta’ l-Essenza tiegħeK li ma titħassarx twassalli l-ferħ, O Inti l-aktar muri minn dak muri u l-aktar moħbi minn dak moħbi.
 
 (Source category: Kobor Spiritwali)
 (Bahaiprayers.net ID: 7976)
+
+
 
 
 ### <a id="bpn7977"></a> Prayer bpn7977 in Malti
@@ -275,11 +379,15 @@ O Sid tiegħi! Agħmel ġmieleK l-ikel tiegħi, u l-preżenza tiegħeK ix-xorb t
 (Bahaiprayers.net ID: 7977)
 
 
+
+
 ### <a id="bpn7978"></a> Prayer bpn7978 in Malti
 O Alla tiegħi, l-Alla tat-tjieba u l-ħniena! Inti dak is-Sultan li għall-kelma ta’ amar tiegħU il-ħolqien kollu issejjaħ biex ikun; u Inti Dak Li Tajjeb f’Kollox li egħamejjel tal-qaddejja tiegħU qatt ma fixkluĦ milli juri l-grazzja tiegħU, la xejn id-deħriet ta tjubitU. Halli lil dan il-qaddej, nitolboK, jikseb dak li jġagħlu jsalva f’kull dinja ta’ dinjieteK. Inti, fis-sewwa, is-Setgħani, l-Aktar Qawwi, Li Taf Kollox, l-Għaref f’Kollox.
 
 (Source category: Kobor Spiritwali)
 (Bahaiprayers.net ID: 7978)
+
+
 
 
 ### <a id="bpn7979"></a> Prayer bpn7979 in Malti
@@ -291,11 +399,15 @@ O Alla! Int ħabib tiegħi aktar milli jien ħabib tiegħi innifsi. Jien niddedi
 (Bahaiprayers.net ID: 7979)
 
 
+
+
 ### <a id="bpn7980"></a> Prayer bpn7980 in Malti
 O Sid tiegħi! O Sid tiegħi! Din hija lampa mixgħula min-nar ta’ l-imħabba tiegħeK u tħaġġeġ bil-fjamma li mkebbsa fis-siġra tal-ħniena tiegħeK. O Sid tiegħi! Kattar tkebbisu, sħana u fjamma, bin-nar li hu mkebbes fis-Sinaj tal-Wiri tiegħeK. Fis-sewwa, Int il-Wettieq,  Dak li Jgħin, il-Qawwi, il-Ġeneruż, Li Tħobb.
 
 (Source category: Kobor Spiritwali)
 (Bahaiprayers.net ID: 7980)
+
+
 
 
 ### <a id="bpn7981"></a> Prayer bpn7981 in Malti
@@ -305,6 +417,8 @@ Fis-sew, Int l-Aktar Ġeneruż, is-Sid tal-grazzja kotrana. M’hemmx Alla ieħo
 
 (Source category: Kobor Spiritwali)
 (Bahaiprayers.net ID: 7981)
+
+
 
 
 
@@ -330,6 +444,8 @@ Aħna lkoll, fis-sew, nistabru f’Alla.
 (Bahaiprayers.net ID: 7947)
 
 
+
+
 ### <a id="bpn7948"></a> Prayer bpn7948 in Malti
 O Alla tiegħi! O Int li taħfer id-dnubiet, li tagħti d-doni, li tkeċċi l-mard!
 Fis-sewwa, nitolboK taħfer dnubiet dawk li ħallew il-libsa tal-ġisem u għolew lejn id-dinja tal-ispirtu.
@@ -338,6 +454,8 @@ O Sid tiegħi! Saffihom min-nuqqasijiet, keċċilhom id-dwejjaq tagħhom, u bidd
 
 (Source category: L-erwieħ li ħallewna)
 (Bahaiprayers.net ID: 7948)
+
+
 
 
 
@@ -355,11 +473,15 @@ M’hemm ħadd, O Sid tiegħi, li jaf jurini tjieba li lejh nista’ ndawwar wi�
 (Bahaiprayers.net ID: 7957)
 
 
+
+
 ### <a id="bpn7958"></a> Prayer bpn7958 in Malti
 NitolboK li taħfirli, O Sid tiegħi, għal kull titrif għajr għal titrifeK, u għal kull tifħir għajr għal tifħireK, u għal kull għaxqa għajr l-għaxqa ta’ qarbieneK, għal kull pjaċir għajr il-pjaċir tal-għaqda miegħeK, u għal kull ferħ għajr il-ferħ ta’ mħabbteK u tal-għoġba tajba tiegħeK, u għall-ħwejjeġ kollha li huma tieghi li ma għandhom l-ebda rabta miegħeK, O Int Li int Sid is-sidien, Hu Li jipprovdi l-mezzi u jiftaħ il-bibien.
 
 (Source category: Maħfra)
 (Bahaiprayers.net ID: 7958)
+
+
 
 
 
@@ -373,6 +495,8 @@ O Sid tiegħi, Maħbub tiegħi, Xewqa tiegħi! Tħabbeb miegħi waħdi kif jien 
 
 
 
+
+
 ## Ommijiet fit-tqala
 
 ### <a id="bpn7953"></a> Prayer bpn7953 in Malti
@@ -382,6 +506,8 @@ O Sid tiegħi, jiena noffri dak li hemm ġo ġufi lileK. Immela ħalli jkun wild
 
 (Source category: Ommijiet fit-tqala)
 (Bahaiprayers.net ID: 7953)
+
+
 
 
 
@@ -400,6 +526,8 @@ Is-setgħa tiegħeK, fis-sewwa, tiddaqqas ma’ kollox.
 (Bahaiprayers.net ID: 7949)
 
 
+
+
 ### <a id="bpn7950"></a> Prayer bpn7950 in Malti
 Jien ma nafx, O Alla tiegħi, x’inhu in-Nar li Inti tkebbes f’arteK. Id dinja ma tista’ qatt iddaħħan il-ħeġġa tiegħu, la l-ilma ma jitfi l-ilsna tiegħu. Il-ġnus kollha tad-dinja m’għandhomx saħħa jieqfu l-qawwa tiegħu. Kbira hija l-barka ta’dak li reseq lejh, u sema’ t-tgargir tiegħu.
 
@@ -411,6 +539,8 @@ Setgħani Inti li tagħmel dal li jogħġboK. Inti, fis-sewwa, is-Setgħani f’
 
 (Source category: Qtugħ)
 (Bahaiprayers.net ID: 7950)
+
+
 
 
 ### <a id="bpn7951"></a> Prayer bpn7951 in Malti
@@ -428,6 +558,8 @@ Tiegħek id-dritt assolut li tamar.
 (Bahaiprayers.net ID: 7951)
 
 
+
+
 ### <a id="bpn7952"></a> Prayer bpn7952 in Malti
 O Alla, Alla tiegħi! Imla għalija il-bieqja tal-firda minn kollox, u fil-ġemgħa ta’ dwaleK u għotjieteK, ferraħni bl-inbid ta’ l-imħabba lejK. Eħlisni mill-ħebb tal-passjoni u x-xewqa, kissirli l-manetti ta’ din id-dinja taħtana, iġbidni imsaħħar lejn saltnateK fuqana, u ġeddidni fost il-qaddejja b’nifsijiet qdusiteK.
 
@@ -437,6 +569,8 @@ Inti, fis-sewwa, is-Setgħani, li Tagħti-Dejjem, il-Ħili, li Tista’ Kollox.
 
 (Source category: Qtugħ)
 (Bahaiprayers.net ID: 7952)
+
+
 
 
 
@@ -452,6 +586,8 @@ Setgħani Int li tagħmel dak li jogħġboK. Inti fis-sewwa, l-Għajnuna fis-Sar
 (Bahaiprayers.net ID: 7986)
 
 
+
+
 ### <a id="bpn7987"></a> Prayer bpn7987 in Malti
 O Sid! Ħalli lill-ġnus kollha tad-dinja jiksbu d-dħul fil-Ġenna tal-Fidi tiegħeK, biex l-ebda maħluq ma jibqa’ lil hinn mill-fruntieri tal-għoġba-tajba tiegħeK.
 
@@ -459,6 +595,8 @@ Sa miż-żmien lil hinn mill-fakra Int kont setgħan li tagħmel dak li jogħġb
 
 (Source category: Rebħ tal-Kawza)
 (Bahaiprayers.net ID: 7987)
+
+
 
 
 
@@ -473,11 +611,15 @@ Fis-sew, Int Li Ma Tintrebaħx, is-Setgħan, il-Qawwi f’Kollox.
 (Bahaiprayers.net ID: 7955)
 
 
+
+
 ### <a id="bpn7956"></a> Prayer bpn7956 in Malti
 O Sid Alla tiegħi! Għin lill-maħbubin tiegħeK ħalli jkunu sodi fil Fidi tiegħeK, li jimxu fi triqateK, li jkunu sodi fil Kawża tiegħeK. Agħtihom il-grazzja tiegħeK ħalli jifilħu għall-ħbit ta’ nfushom u tal-ġibdiet, biex jimxu wara d-dawl tat-tmexxija divina. Int is-Setgħan, il-Ħlejju, Li Tgħix Fik InnifseK, Li Tagħti, Li Tħenn, il-Qawwi, it-Tajjeb f’Kollox.
 
 (Source category: Sodi fil-Patt)
 (Bahaiprayers.net ID: 7956)
+
+
 
 
 
@@ -493,6 +635,8 @@ M’hemmx Alla ieħor għajr Inti, l-Għajnuna fis-Saram, li Tgħix Fik Innifsek
 
 (Source category: TALBA OBBLIGATORJA QASIRA)
 (Bahaiprayers.net ID: 7994)
+
+
 
 
 
@@ -531,6 +675,8 @@ Jien xhud tal-għaqda tiegħeK u tal-waħdan tiegħeK, u li Inti Alla, u li m’
 
 (Source category: TALBA OBLIGATORJA MEDJA)
 (Bahaiprayers.net ID: 7995)
+
+
 
 
 
@@ -605,6 +751,8 @@ Jien xhud, O Alla tiegħi, għal dak li għalih xehdu il-magħżulin tiegħeK, u
 
 
 
+
+
 ## Tagħlim
 
 ### <a id="bpn7983"></a> Prayer bpn7983 in Malti
@@ -618,6 +766,8 @@ Ladarba Int mexxejtom, O Sid tiegħi, lejn l-ilmijiet ħajja tal-grazzja tiegħe
 (Bahaiprayers.net ID: 7983)
 
 
+
+
 ### <a id="bpn7984"></a> Prayer bpn7984 in Malti
 O Alla tiegħi, għin Int lill-qaddej tiegħeK ħa’ jqajjem il-Kelma, u jmeri dak li hu fieragħ u falz, isejjes is-sew, ixerred fil-wisa’ il-vrus imqaddsa, jikxef id-dijiet, u jġagħal dawl il-għodwa isebbaħ fil-qlub tat-tajbin. 
 
@@ -625,6 +775,8 @@ Inti, fis-sew, il-Ġeneruż,  Li Taħfer.
 
 (Source category: Tagħlim)
 (Bahaiprayers.net ID: 7984)
+
+
 
 
 ### <a id="bpn7985"></a> Prayer bpn7985 in Malti
@@ -639,6 +791,8 @@ Fis-sewwa, Inti il-Qawwi, is-Setgħani u Li Tista’ Kollox, u Inti il-Għaref, 
 
 
 
+
+
 ## Tfal
 
 ### <a id="bpn7944"></a> Prayer bpn7944 in Malti
@@ -648,6 +802,8 @@ O Alla! Eduka lil dawn it-tfal. Dawn it-tfal huma x-xtieli tal-ġnejna tiegħeK,
 (Bahaiprayers.net ID: 7944)
 
 
+
+
 ### <a id="bpn7945"></a> Prayer bpn7945 in Malti
 Huwa Alla! O Alla, Alla tiegħi! Agħtini qalb safja, bħalma perla!
 
@@ -655,11 +811,15 @@ Huwa Alla! O Alla, Alla tiegħi! Agħtini qalb safja, bħalma perla!
 (Bahaiprayers.net ID: 7945)
 
 
+
+
 ### <a id="bpn7946"></a> Prayer bpn7946 in Malti
 O Alla, mexxini, ħarisni, agħmel minni lampa tiddi u kewkba tgħammex. Int is-Setgħani u l-Qawwi.
 
 (Source category: Tfal)
 (Bahaiprayers.net ID: 7946)
+
+
 
 
 
@@ -674,6 +834,8 @@ Dawwal, O Sid, l-uċuh tal-qaddejja tiegħeK, biex huma jkunu jistgħu jarawK; u
 (Bahaiprayers.net ID: 7970)
 
 
+
+
 ### <a id="bpn7971"></a> Prayer bpn7971 in Malti
 Imkabbar Ikun ismeK, O Sid Alla tiegħi! Int huwa Dak Li l-ħwejjeġ kollha jqimu u Li ma tqim lil ħadd, Li int is-Sid ta’ kollox u il-qaddej ta’ xejn, Li taf kollox u magħruf minn xejn. Inti xtaqt li l-bnedmin ikunu jafuK; għalhekk, Int, bil-kelma ta’ fommoK, sawwart il-ħolqien u fassalt l-univers. M’hemmx Alla ieħor għajreK, il-Fassal, il-Ħallieq, is-Setgħan, l-Aktar Qawwi.
 
@@ -685,6 +847,8 @@ Int l-Alla tal-qawwa, tal-glorja u tal- ġid. M’hemmx Alla għajreK, il-Mexxej
 (Bahaiprayers.net ID: 7971)
 
 
+
+
 ### <a id="bpn7972"></a> Prayer bpn7972 in Malti
 Inti glorifikat, O Sid Alla tiegħi! Jien niżżiK ħajr talli hallejtni nagħraf il-Wiri tiegħeK Innifsek, u talli qtajtni mill-egħdewwa tiegħeK, u berraħt quddiem għajnejja l-egħmejjel ħziena tagħhom u ħidmiethom ħajna fil-jiem tiegħeK, u talli ħlistni minn kull irbit magħhom, u ġagħaltni indur għal kollox lejn il-grazzja u l-għoġbat tajba tiegħeK. Jien niżżiK ħajr, ukoll, talli niżżilt fuqi mis-sħab tar-rieda tiegħeK dak li hekk qaddisni mill-ħjiel tal-infidili u taqwil dawk li jemmnux li jien waħħalt qalbi fis-sod fuqeK, u ħrabt minn dawk li ċaħdu d-dawl ta’ wiċċeK. Mill-ġdid nerġa’ niżżiK ħajr talli tajtni s-saħħa li nkun sod fl-imħabba tiegħeK, u li nlissen it-tifħir lileK u ngħolli tjibateK, u talli tajtni nixrob mill-bieqja tal-ħniena tiegħeK li għaddiet kull ħaġa li tidher jew li ma tidherx. 
 
@@ -692,6 +856,8 @@ Int is-Setgħani, l-Aktar Għoli, l-Aktar Glorjuż, li Tħobb Kollox.
 
 (Source category: Tifħir u Gratitudini)
 (Bahaiprayers.net ID: 7972)
+
+
 
 
 
@@ -708,6 +874,8 @@ U, fl-aħħarnett, nitolboK f’ġieh id-dawl ta’wiċċeK biex tbierek ħidmie
 (Bahaiprayers.net ID: 7988)
 
 
+
+
 ### <a id="bpn7989"></a> Prayer bpn7989 in Malti
 O Int Li tiġribeK huwa duwa fejjieqa għal dawk qrib tiegħeK, Li x-xabla tiegħeK hija x-xabla tiegħeK hija x-xewqa mħaġġa ta’ dawk kollha li jħobbuK, Li l-vleġġa tiegħeK hija l-egħżeż xewqa ta’ dawk il-qlub li jixxennqu għaliK, Li l-amar tiegħeK huwa t-tama waħdana ta’ dawk li għarfu is-sewwa tiegħeK! Jien nitolbok, f’ġieh il-ħlewwa divina tiegħeK u f’ġieh dijiet il-glorja ta’ wiċċeK, biex tniżżel fuqna mir-rifuġji tiegħeK fil-għoli dak illi jqarribna lejK. Qiegħed, immela, riġlejna sodi, O Alla tiegħi, fil-Kawża tiegħeK, u dawwal lil qlubna bid-dija tgħammex tal-għarfien tiegħeK, u ixgħel sidirna bil-leħħa ta’ ismijieteK.
 
@@ -715,11 +883,15 @@ O Int Li tiġribeK huwa duwa fejjieqa għal dawk qrib tiegħeK, Li x-xabla tieg�
 (Bahaiprayers.net ID: 7989)
 
 
+
+
 ### <a id="bpn7990"></a> Prayer bpn7990 in Malti
 O Sid! Int in-Neħħej ta’ kull diqa u l-Keċċej ta’ kull deni. Inti Dak  Li tbiegħed kull niket u teħles mill-jasar lil kull ilsir, il-Hellies ta’ kull ruh. O Sid! Agħti l-ħelsien bil-ħniena tiegħeK, u għoddni fost il-qaddejja tiegħeK li kisbu il-ħelsien.
 
 (Source category: Tiġrib u ebusija)
 (Bahaiprayers.net ID: 7990)
+
+
 
 
 
@@ -745,6 +917,8 @@ Int is-Setgħan u l-Qawwi, Int Dak li Jaħfer u Inti Dak li jagħlaq għajnejĦ 
 
 
 
+
+
 ## Ġemgħat
 
 ### <a id="bpn7959"></a> Prayer bpn7959 in Malti
@@ -752,6 +926,8 @@ Imbierek il-post, u d-dar, u l-imkien, u l-belt, u l-qalb, u l-ġebel u l-kenn, 
 
 (Source category: Ġemgħat)
 (Bahaiprayers.net ID: 7959)
+
+
 
 
 ### <a id="bpn7960"></a> Prayer bpn7960 in Malti
@@ -764,6 +940,8 @@ NitolboK, f’ġieh Innifsek u f’ġieh Dak li  Int ħtart bħala Wirja tal-Ess
 (Bahaiprayers.net ID: 7960)
 
 
+
+
 ### <a id="bpn7961"></a> Prayer bpn7961 in Malti
 O Alla tiegħi, O Alla tiegħi! Fis-sewwa, dawn il-qaddejja qed iduru lejK, jitolbu lis-saltna tal-ħniena tiegħeK. Fis-sewwa, huma miġbudin mill-qdusija tiegħeK u mkebbsin bin-nar ta’ l-imħabba tiegħeK, ifittxu l-konferma minn saltnateK tal-għaġeb, u jittamaw li jiksbu saltnateK smewija. Fis-sewwa, huma mxennqin għal inżul għotjietek, jixtiequ d-dawl mix-Xemx tar Realtà. O Sid! Agħmilhom lampi jiddu, egħliem ta’ ħniena, siġar għammiela u kwiekeb imxejxa. Halli jersqu ’l quddiem fis-servizz tiegħeK u jkunu magħqudin miegħeK bil-qofol u bl-irbit ta’ l-imħabba tiegħeK, jixxenqu għad-dwal tal-għoġba tiegħeK. O Sid! Agħmilhom egħliem ta’ tmexxija, mudelli ta’ SaltnateK li ma tintemmx, mewġ il-baħar tal-ħniena tiegħeK, mirja ta’dawl il-maestà tiegħeK. 
 
@@ -771,6 +949,8 @@ Fis-sewwa, Inti il-Ġeneruż. Fis-sewwa, Int il-Ħanin. Fis-sewwa, Int il-prezzj
 
 (Source category: Ġemgħat)
 (Bahaiprayers.net ID: 7961)
+
+
 
 
 
@@ -783,6 +963,8 @@ O Alla tiegħi! Int ispirajt lil ruħi biex toffri it-talba tagħha lileK, u li 
 
 (Source category: Ġenituri)
 (Bahaiprayers.net ID: 7969)
+
+
 
 
 
@@ -808,6 +990,8 @@ Jien nistaqsiK, O Sid ta’ kull maħluq u Sultan ta’ dak li jidher u ta’ da
 
 
 
+
+
 ## Żgħażagħ
 
 ### <a id="bpn8002"></a> Prayer bpn8002 in Malti
@@ -815,6 +999,8 @@ O Sid! Agħmel lil dan iż-żagħżugħ middi, u xerred tjubiteK fuq din l-imsej
 
 (Source category: Żgħażagħ)
 (Bahaiprayers.net ID: 8002)
+
+
 
 
 
@@ -830,6 +1016,8 @@ U meta Hu xtaq juri l-grazzja u t-tjieba lill-bnedmin, u jqiegħed id-dinja fl-o
 (Bahaiprayers.net ID: 7965)
 
 
+
+
 ### <a id="bpn7966"></a> Prayer bpn7966 in Malti
 O Sid tiegħi, O Sid tieghi! Dawn iż-żewġ globi jiddu huma mżewġin fl-imħabba tiegħeK, magħqudin biex jaqdu l-Għatba Mqaddsa tiegħeK, imwaħħdin għat-twettieq tal-Kawża tiegħeK. Agħmel Int dan iż-żwieġ li jkun bħal dwal riffiesa tal-grazzja kotrana tiegħeK, O Sid tiegħi, il-Ħanin f’Kollox, u raġġi mdawlin tal-għotjiet tiegħeK, O Inti Qalb Tajba, li Dejjem-Tagħti, ħalli jkunu jistgħu joħorġu minn din is-siġra kbira friegħi li jikbru ħodor u għammiela bid-doni li jraxxu fuqhom mis-sħab tal-grazzja tiegħeK.
 
@@ -837,6 +1025,9 @@ Fis-sewwa, Int il-Ġeneruż. Fis-sewwa, Int is-Setgħani. Fis-sewwa, Int Dak li 
 
 (Source category: Żwieġ)
 (Bahaiprayers.net ID: 7966)
+
+
+
 
 
 

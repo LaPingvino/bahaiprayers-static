@@ -3,6 +3,34 @@ title = "Kiswahili"
 tags = ['lang=sw', 'prayerbook']
 +++
 
+
+
+[ALFAJIRI](#ALFAJIRI)
+
+[ASUBUHI](#ASUBUHI)
+
+[BAADHI YA SALA NYINGINE](#BAADHI YA SALA NYINGINE)
+
+[BARAZA LA KIROHO](#BARAZA LA KIROHO)
+
+[JIONI](#JIONI)
+
+[KUPONYA](#KUPONYA)
+
+[MCHANGO KWENYE AKIBA](#MCHANGO KWENYE AKIBA)
+
+[MFUNGO](#MFUNGO)
+
+[NDOA](#NDOA)
+
+[SALA FUPI YA FARADHI](#SALA FUPI YA FARADHI)
+
+[SALA KWA WALIOKUFA](#SALA KWA WALIOKUFA)
+
+[SALA KWA WATOTO NA VIJANA](#SALA KWA WATOTO NA VIJANA)
+
+
+
 ## ALFAJIRI
 
 ### <a id="bpn11208"></a> Prayer bpn11208 in Kiswahili
@@ -19,6 +47,8 @@ Ee Mungu na Bwana wangu!  Mimi ni mutumishi Wako na Mwana wa mtumishi Wako.  Nim
 
 
 
+
+
 ## ASUBUHI
 
 ### <a id="bpn11209"></a> Prayer bpn11209 in Kiswahili
@@ -28,6 +58,8 @@ Nimeamka katika himaya Yako, Ee Mungu wangu, na imembidi Yule ambaye anatafuta h
 (Bahaiprayers.net ID: 11209)
 
 
+
+
 ### <a id="bpn11210"></a> Prayer bpn11210 in Kiswahili
 Nimeamka asubuhi hii kwa rehema Yako, Ee Mungu wangu, na nimeacha maskani yangu nikiwa na tumaini kamili Kwako, na nikijiweka katika uangalizi Wako.  Nishushie basi, kutoka mbingu ya rehema Yako, baraka kutoka ubavuni Mwako, na Uniwezeshe kurudi maskani mwangu katika usalama kama Ulivyoniwezesha kuondoka nikiwa chini ya ulinzi Wako na mawazo yangu yakiwa yamekaziwa kabisa juu Yako. 
  
@@ -35,6 +67,8 @@ Nimeamka asubuhi hii kwa rehema Yako, Ee Mungu wangu, na nimeacha maskani yangu 
 
 (Source category: ASUBUHI)
 (Bahaiprayers.net ID: 11210)
+
+
 
 
 
@@ -53,11 +87,15 @@ Tufunulie, Ee Mungu, milele Yako iliyotukuka – kwamba Wewe umekuwako, na utaku
 (Bahaiprayers.net ID: 11223)
 
 
+
+
 ### <a id="bpn11224"></a> Prayer bpn11224 in Kiswahili
 Ee Mungu wangu!  Ee Mungu wangu!  Unganisha mioyo ya watumishi Wako na uwafunulie kusudi Lako lililo kuu.  Wafuate amri Zako na kukaa katika sheria Yako Uwasaidie, Ee Mungu katika jitihada yao, na uwape nguvu kukutumikia.  Ee Mungu, usiwaache peke yao bali uongoze hatua zao kwa mwanga wa maarifa yako na furahisha mioyo yao kwa upendo Wako. Hakika, Wewe ndiwe Msaidizi na Bwana Wao.
 
 (Source category: BAADHI YA SALA NYINGINE)
 (Bahaiprayers.net ID: 11224)
+
+
 
 
 ### <a id="bpn11225"></a> Prayer bpn11225 in Kiswahili
@@ -67,11 +105,15 @@ Sema:  Ee Mungu, Mungu wangu!  Vika kichwa changu kwa taji la haki na paji la us
 (Bahaiprayers.net ID: 11225)
 
 
+
+
 ### <a id="bpn11226"></a> Prayer bpn11226 in Kiswahili
 Ee, Mungu wangu!  Nakuomba kwa Jina Lako tukufu kabisa, kunisaidia katika lile litakalofanya shughuli za watumishi Wako kufanikiwa, na miji Yako kusitawi.  Wewe, kweli, una uwezo juu ya vitu vyote!
 
 (Source category: BAADHI YA SALA NYINGINE)
 (Bahaiprayers.net ID: 11226)
+
+
 
 
 ### <a id="bpn11227"></a> Prayer bpn11227 in Kiswahili
@@ -81,11 +123,15 @@ Mungu jalia kwamba nuru ya umoja iweze kufunika dunia yote, na kwamba mhuri, “
 (Bahaiprayers.net ID: 11227)
 
 
+
+
 ### <a id="bpn11228"></a> Prayer bpn11228 in Kiswahili
 Kuna mwondoa shida yeyote isipokuwa Mungu?  Sema: Mungu asifiwe!  Yeye ni Mungu!  Wote ni watumishi Wake, na wote wanaishi kwa mapenzi Yake!
 
 (Source category: BAADHI YA SALA NYINGINE)
 (Bahaiprayers.net ID: 11228)
+
+
 
 
 ### <a id="bpn11229"></a> Prayer bpn11229 in Kiswahili
@@ -97,6 +143,8 @@ Ee Mungu! Wewe U rafiki kwangu zaidi ya mimi nilivyo mweneyewe kwangu. Najitoa m
 (Bahaiprayers.net ID: 11229)
 
 
+
+
 ### <a id="bpn11230"></a> Prayer bpn11230 in Kiswahili
 Ee Bwana wangu, Mpendwa wangu, Haja yangu!  Nifanye rafiki katika ukiwa wangu na ufuatane nami katika uhamisho wangu.  Ondoa huzuni yangu.  Nifanye kujitoa kwa uzuri Wako.  Nitoe kwa vyote ila Wewe.  Nivutie kupitia manukato Yako ya utakatifu.  Nifanye kuwa mshirika katika Ufalme Wako na wale ambao wamejitenga na yote isipokuwa Wewe na wanaotamani kuhudumu katika enzi yako takatifu na wanaosimama kufanya kazi katika Hoja Yako.  Uniwezeshe kuwa mmoja wa watumishi wako wa kike ambao wamepata ridhaa Yako njema.  Hakika, Wewe ni mwenye Rehema, Karimu.
 
@@ -104,11 +152,15 @@ Ee Bwana wangu, Mpendwa wangu, Haja yangu!  Nifanye rafiki katika ukiwa wangu na
 (Bahaiprayers.net ID: 11230)
 
 
+
+
 ### <a id="bpn11231"></a> Prayer bpn11231 in Kiswahili
 Ee Bwana Mungu wangu!  Wasaidie wapendwa Wako kuwa imara katika Imani Yako, kutembea katika njia Zako, kuwa dhabiti katika Hoja Yako.  Wape neema Yako kuzuia mashambulio ya nafsi na tamaa, kufuata mwanga wa Uongozi Mtakatifu.  Wewe ni Mwenye nguvu, Mwenye rehema, Aishiye Mwenyewe, Mpaji, Mwenye huruma, Mwenyezi, Karibu) kabisa.
 
 (Source category: BAADHI YA SALA NYINGINE)
 (Bahaiprayers.net ID: 11231)
+
+
 
 
 ### <a id="bpn11232"></a> Prayer bpn11232 in Kiswahili
@@ -122,6 +174,8 @@ Utupe hakula chetu cha kila siku na utuongezee maisha yetu, ili tusitegemee yeyo
 (Bahaiprayers.net ID: 11232)
 
 
+
+
 ### <a id="bpn11233"></a> Prayer bpn11233 in Kiswahili
 Ee Bwana!  Sisi tu wanyonge; tuimarishe.  Ee Mungu! Tu wajinga; tufanye wajuzi.  Ee Bwana!  Tu maskini; tufanye matajiri.  Ee Mungu!  Tu wafu; tuhuishe.  Ee Bwana!  Sisi tu fedheha yenyewe; tutukuze katika Ufalme Wako.  Ukitusaidia, Ee Bwana, tutakuwa kama nyota zimemetekazo.  Usipotusaidia, tutakuwa na hali ya chini kuliko udongo. Ee Bwana!  Tuimarishe.  Ee Mungu!  Tujalie ushindi.  Ee Mungu! Tuwezeshe kushinda nafsi na tamaa  Ee Bwana!  Tuokoe kutoka katika utumwa wa mambo ya kidunia.  Ee Bwana!  Tuhuishe kupitia pumzi ya Roho Mtakatifu ili tuamke kukutumikia, tujishughulishe katika kukuabudu Wewe na kujibidiisha wenyewe katika ufalme Wako kwa ukweli kabisa.  Ee Bwana!  U Mwenye nguvu!  Ee Mungu, U Msamehevu!  Ee Bwana, U Mwenye Rehema!
 
@@ -129,11 +183,15 @@ Ee Bwana!  Sisi tu wanyonge; tuimarishe.  Ee Mungu! Tu wajinga; tufanye wajuzi. 
 (Bahaiprayers.net ID: 11233)
 
 
+
+
 ### <a id="bpn11234"></a> Prayer bpn11234 in Kiswahili
 Ee Mungu, Mungu wangu!  Wakinge watumishi Wako waaminifu na maovu ya tamaa walinde na jicho Lako la upendo dhidi ya chuki, karaha ni kijicho, uwahifadhi katika Neno Lako lisilopotoka wawe salama kwa mishale ya mashaka, wafanye wajumbe wa ishara Zako tukufu, ng’arisha nyuso zao kwa miale inayong’aa itokayo katika chimbuko la umoja Wako mtukufu, furahisha mioyo yao kwa maneno yatokayo katika ufalme Wako mtukufu na tia nguvu viuno vyao kwa nguvu itokayo katika milki Yako tukufu.  Wewe ni Mwenye Baraka Zote Mlinzi, Mwenyezi na Mwenye rehema.
 
 (Source category: BAADHI YA SALA NYINGINE)
 (Bahaiprayers.net ID: 11234)
+
+
 
 
 ### <a id="bpn11235"></a> Prayer bpn11235 in Kiswahili
@@ -146,6 +204,8 @@ Ewe Bwana!  Mimi ni pweke, mmoja na aliye chini.  Kwangu mimi sina wa kutegemea 
 
 
 
+
+
 ## BARAZA LA KIROHO
 
 ### <a id="bpn11215"></a> Prayer bpn11215 in Kiswahili
@@ -155,6 +215,8 @@ Ee Mungu, Mungu wangu! Sisi tu watumishi Wako ambao wameugeukia kwa moyo uso Wak
 
 (Source category: BARAZA LA KIROHO)
 (Bahaiprayers.net ID: 11215)
+
+
 
 
 
@@ -172,6 +234,8 @@ Hayupo Mungu ila Wewe, Mwenyezi, mtiisha kabisa, Asiyeshurutishwa.
 
 
 
+
+
 ## KUPONYA
 
 ### <a id="bpn11214"></a> Prayer bpn11214 in Kiswahili
@@ -179,6 +243,8 @@ Jina Lako ndilo kuponywa kwangu, Ee Mungu wangu, na kukukumbuka Wewe ni dawa yan
 
 (Source category: KUPONYA)
 (Bahaiprayers.net ID: 11214)
+
+
 
 
 
@@ -198,6 +264,8 @@ Hakika Wewe ndiye Mhifadhi, Msaidizi, Karimu, Mwenye Baraka, Mpaji daima.
 
 
 
+
+
 ## MFUNGO
 
 ### <a id="bpn11212"></a> Prayer bpn11212 in Kiswahili
@@ -214,6 +282,8 @@ Hakuna Mungu ila Wewe, Ajuaye yote, Mwenye hekima zote.  Sifa zote ziwe kwa Mung
 
 
 
+
+
 ## NDOA
 
 ### <a id="bpn11213"></a> Prayer bpn11213 in Kiswahili
@@ -221,6 +291,8 @@ Utukufu uwe Kwako, Ee Mungu wangu!  Hakika mtumishi Wako huyu na mjakazi Wako hu
 
 (Source category: NDOA)
 (Bahaiprayers.net ID: 11213)
+
+
 
 
 
@@ -237,6 +309,8 @@ Utukufu uwe Kwako, Ee Mungu wangu!  Hakika mtumishi Wako huyu na mjakazi Wako hu
 
 (Source category: SALA FUPI YA FARADHI)
 (Bahaiprayers.net ID: 11207)
+
+
 
 
 
@@ -264,6 +338,8 @@ Sisi sote, hakika, tu wenye subira katika Mungu.
 (Bahaiprayers.net ID: 11221)
 
 
+
+
 ### <a id="bpn11222"></a> Prayer bpn11222 in Kiswahili
 Ee Mungu wangu!  Ee Ewe msamehe dhambi, Mpaji thawabu, mwondoa huzuni!   
 
@@ -276,6 +352,8 @@ Ee Bwana wangu!  Uwatakase kutokana na makosa, ondoa huzuni zao, na ubadilshe gi
 
 
 
+
+
 ## SALA KWA WATOTO NA VIJANA
 
 ### <a id="bpn11216"></a> Prayer bpn11216 in Kiswahili
@@ -285,11 +363,15 @@ Ee Mungu!  Mlee mtoto huyu mchanga katika moyo wa upendo Wako, na umpe maziwa ku
 (Bahaiprayers.net ID: 11216)
 
 
+
+
 ### <a id="bpn11217"></a> Prayer bpn11217 in Kiswahili
 Ee Mungu! Wafundishe watoto hawa.  Watoto hawa ni miche ya kiunga Chako cha miti ya matunda, maua ya shamba Lako, waridi ya bustani Yako.  Acha mvua Yako iwanyeshee; acha Jua la ukweli liwaangazie na upendo Wako.  Acha upendo Wako uwaburudishe ili kwamba waweze kufundishwa, kukua na kuendelea na kuonekana katika uzuri wa juu kabisa.  Wewe u Mpaji!  Wewe u Mwenye huruma.
 
 (Source category: SALA KWA WATOTO NA VIJANA)
 (Bahaiprayers.net ID: 11217)
+
+
 
 
 ### <a id="bpn11218"></a> Prayer bpn11218 in Kiswahili
@@ -300,11 +382,16 @@ Wewe ndiye Mwenye uwezo na Mwenye nguvu.
 (Bahaiprayers.net ID: 11218)
 
 
+
+
 ### <a id="bpn11219"></a> Prayer bpn11219 in Kiswahili
 Ee Mungu, niongoze, nilinde, nifanye taa inayowaka na nyota ing’aayo.  Wewe ni Mwenyezi na Mwenye nguvu.
 
 (Source category: SALA KWA WATOTO NA VIJANA)
 (Bahaiprayers.net ID: 11219)
+
+
+
 
 
 

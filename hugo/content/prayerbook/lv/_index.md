@@ -3,6 +3,72 @@ title = "Latviešu"
 tags = ['lang=lv', 'prayerbook']
 +++
 
+
+
+[Aizsardzība](#Aizsardzība)
+
+[Atsacīšanās](#Atsacīšanās)
+
+[Ausma](#Ausma)
+
+[Bērni](#Bērni)
+
+[Cildināšana un pateikšanās](#Cildināšana un pateikšanās)
+
+[Cilvēce](#Cilvēce)
+
+[Dieva Diena](#Dieva Diena)
+
+[Dziedināšana](#Dziedināšana)
+
+[Garā obligātā lūgšana](#Garā obligātā lūgšana)
+
+[Garīgums](#Garīgums)
+
+[Garīgās Padomes](#Garīgās Padomes)
+
+[Gavēnis](#Gavēnis)
+
+[Grūtības un pārbaudījumi](#Grūtības un pārbaudījumi)
+
+[Jaungada diena](#Jaungada diena)
+
+[Laulības](#Laulības)
+
+[Lestarpinātās dienas](#Lestarpinātās dienas)
+
+[Mācības sludināšana](#Mācības sludināšana)
+
+[Palīdzība](#Palīdzība)
+
+[Par aizgājušajiem](#Par aizgājušajiem)
+
+[Piedošana](#Piedošana)
+
+[Rīts](#Rīts)
+
+[Saieti](#Saieti)
+
+[Svētceļojuma vēstules](#Svētceļojuma vēstules)
+
+[Ticības izplatīšanai - Lūgšanas no Dievišķā Plāna Vēstulēm](#Ticības izplatīšanai - Lūgšanas no Dievišķā Plāna Vēstulēm)
+
+[Uzticība Derībai](#Uzticība Derībai)
+
+[Uzticība Mācībai](#Uzticība Mācībai)
+
+[Vakars](#Vakars)
+
+[Vidēji garā obligātā lūgšana](#Vidēji garā obligātā lūgšana)
+
+[Vienotība](#Vienotība)
+
+[Vēstule Ahmadam](#Vēstule Ahmadam)
+
+[Īsā obligātā lūgšana](#Īsā obligātā lūgšana)
+
+
+
 ## Aizsardzība
 
 ### <a id="bpn2354"></a> Prayer bpn2354 in Latviešu
@@ -13,12 +79,16 @@ Savā neizmērojamā cēlumā pasargā viņu no visa, kas nav Tev pieņemams. Tu
 (Bahaiprayers.net ID: 2354)
 
 
+
+
 ### <a id="bpn2355"></a> Prayer bpn2355 in Latviešu
 Ak Dievs, mans Dievs! Es esmu devies ceļā prom no mājām, un, turoties cieši pie Tavas mīlestības saites, es pilnībā ļaujos Tavai gādībai un aizstāvībai.
 Tu Savā spēkā esi sargājis Savus mīļotos no vieglprātīgajiem un samaitātājiem, no apspiedēju nievām un no ikviena ļaundara, kurš no Tevis tālu aizklīdis, – es lūdzu Tevi, sargā mani Savā žēlsirdībā un vēlībā, un ļauj man atkal atgriezties mājās. Tu esi varens un spēcīgs. Patiesi, Tu esi Visvarenais, Palīgs briesmās, Neatkarīgais.
 
 (Source category: Aizsardzība)
 (Bahaiprayers.net ID: 2355)
+
+
 
 
 ### <a id="bpn2356"></a> Prayer bpn2356 in Latviešu
@@ -32,6 +102,8 @@ Patiesi, Tu esi Visgodātais, Visdāsnais.
 (Bahaiprayers.net ID: 2356)
 
 
+
+
 ### <a id="bpn2357"></a> Prayer bpn2357 in Latviešu
 Lai slavēts top Tavs Vārds, ak Dievs, mans Kungs! Piesaucot Tavu Vārdu, kas lika stundai sist un vēstīt Augšāmcelšanos, un bailēm un trīsām pārņemt visus, kas ir debesīs un uz zemes, es lūdzu Tevi, no Savas žēlastības debesīm un Savas maigās līdzjūtības mākoņiem, liec pār Saviem kalpiem prieka lietum līt un spirdzināt to sirdis, kas ir Tev pievērsušies un Tavu Mācību stiprinājuši.
 Sargā Savus kalpus un Savas kalpones, ak mans Kungs, no dīkas iztēles un tukšu iedomu bultām, un ar Savām žēlīgajām rokām sniedz tiem malku veldzes no Tevis zināšanas liegi plūstošajiem ūdeņiem
@@ -39,6 +111,8 @@ Tu, patiesi, esi Visvarenais, Visaugstais, mūžam Piedodošais, Visdāsnais.
 
 (Source category: Aizsardzība)
 (Bahaiprayers.net ID: 2357)
+
+
 
 
 ### <a id="bpn2358"></a> Prayer bpn2358 in Latviešu
@@ -49,6 +123,8 @@ Tu esi Visdāsnais, Aizstāvis, Visvarenais, Visžēlīgais.
 (Bahaiprayers.net ID: 2358)
 
 
+
+
 ### <a id="bpn2359"></a> Prayer bpn2359 in Latviešu
 Ak mans Kungs! Tu zini, ka sāpes un ciešanas apņem cilvēkus, ka visapkārt viņiem ir grūtums un raizes. Neviens pārbaudījums neiet viņiem secen, un kā čūskas dzelonis viņiem draud drūms posts. Vienīgo glābiņu un patvērumu viņi rod zem Tava saudzējošā un sargājošā spārna.
 Ak Žēlsirdīgais! Ak mans Kungs! Lai Tava aizstāvība ir manas bruņas. Tava aizsardzība lai ir mans vairogs. Pazemība Tavas vienesmes vārtu priekšā lai ir mans sargs. Tava uzraudzība un aizbildniecība lai ir mana stiprā pils un mana mītne. Pasargi mani no iekāres un savtības čukstiem. Glāb mani no ikvienas kaites, bēdas, grūtības un pārbaudījuma.
@@ -56,6 +132,8 @@ Patiesi, Tu esi Aizstāvis, Sargs, Saglabātājs, Apgādātājs, un Tu esi Visž
 
 (Source category: Aizsardzība)
 (Bahaiprayers.net ID: 2359)
+
+
 
 
 
@@ -70,6 +148,8 @@ Es teicu Tavu slavu, ko Tu pats esi Sev radījis, un cildinu Tavu Būtību, kā 
 (Bahaiprayers.net ID: 2360)
 
 
+
+
 ### <a id="bpn2361"></a> Prayer bpn2361 in Latviešu
 Lai slava Tev, ak mans Dievs! Es pateicos Tev, ka Tu man esi atklājis Viņu, Kas ir Tavas žēlsirdības Gaismas Avots un Tavas laipnības Ausmas Centrs, un Tavas Mācības Dārgumu Glabātājs. Piesaucot Tavu Vārdu, kas ir licis nobālēt Taviem tuvajiem un vēlējis Tev uzticīgo sirdīm celties spārnos un traukties pie Tevis, es lūdzu, ļauj man vienmēr un visos apstākļos rast saikni ar Tevi, neļauj man pieķerties nevienam citam kā Tev, vērs manas acis uz Tavas Atklāsmes Apvārsni un liec man piepildīt to, ko Tu man Savos Vēstījumos esi vēlējis piepildīt.
 Tērp, ak mans Kungs, manu iekšējo un ārējo būtni Savas labestības un labvēlības drānās. Sargi mani no visa, kas Tev netīkams, un žēlīgi palīdzi man un maniem tuvajiem paklausīt Tev, un vairīties no visa, kas manī varētu modināt jebkādas ļaunas dziņas vai netīras iekāres.
@@ -79,6 +159,8 @@ Patiesi, Tu esi visas cilvēces Valdnieks, un Tev pieder šī pasaule un tā, ka
 (Bahaiprayers.net ID: 2361)
 
 
+
+
 ### <a id="bpn2362"></a> Prayer bpn2362 in Latviešu
 Lai cildināts top Tavs Vārds, ak mans Dievs! Tik tiešām, kā uz Tavu pavēli un saskaņā ar Tavu vēlmi visu radību pārņēma Tava labestības tērpa smaržas, un caur Tavu valdīšanu, varenību un spēku virs Tavas žēlastības apvāršņa atmirdzēja Tavas Gribas Saule, es lūdzu Tevi, izdzēs no manas sirds jebkādu dīku iztēli un jebkādas tukšas iedomas, lai ar visu savu jūtu spēku es pievēršos Tev, ak Tu visas cilvēces Valdniek!
 Es esmu Tavs kalps un Tava kalpa dēls, ak mans Dievs! Uz Tavu labestību ceru es un pie Tavas līdzjūtības maigās saites turos cieši. Piešķir man to labo, kas pieder Tev, un spēcini mani no Galda, ko no Sava dāsnuma debesīm Tu esi mums sūtījis.
@@ -86,6 +168,8 @@ Tu, patiesi, esi pasauļu Valdnieks un Dievs visam, kas ir debesīs un uz zemes.
 
 (Source category: Atsacīšanās)
 (Bahaiprayers.net ID: 2362)
+
+
 
 
 ### <a id="bpn2363"></a> Prayer bpn2363 in Latviešu
@@ -98,6 +182,8 @@ Tava vara, tik tiešām, ir augstāka par visu.
 (Bahaiprayers.net ID: 2363)
 
 
+
+
 ### <a id="bpn2364"></a> Prayer bpn2364 in Latviešu
 Es nezinu, ak mans Dievs, kas tā ir par uguni, ko Tu esi iededzis Savā zemē. Nedz zemes putekļi spēs jebkad aptumšot tās spožumu, nedz ūdens tās liesmu izdzēst. Tai pretī stāties nav pa spēkam nevienai pasaules tautai. Augsti svētīts ir tas, kas ir nācis tai tuvu un saklausījis tās šalkas.
 Dažiem, ak mans Dievs, Tu Savā spēcinošajā žēlsirdībā esi ļāvis tai tuvoties, bet citus, par to, ko viņu rokas Tavās Dienās bija nodarījušas, Tu tai klāt nepielaidi. Ikviens, kas uz to ir traucies un to sasniedzis, kvēli vēloties raudzīt Tavu Daili, ir atdevis savu dzīvību Tavā ceļā un, no visa atraisīts, ir pie Tevis uzkāpis.
@@ -106,6 +192,8 @@ Tev ir tā vara piepildīt Savu gribu. Patiesi, Tu esi Visstiprais un Visaugstsi
 
 (Source category: Atsacīšanās)
 (Bahaiprayers.net ID: 2364)
+
+
 
 
 ### <a id="bpn2365"></a> Prayer bpn2365 in Latviešu
@@ -119,6 +207,8 @@ Nav cita Dieva bez Tevis, Visvarenā, Labdarīgā.
 (Bahaiprayers.net ID: 2365)
 
 
+
+
 ### <a id="bpn2366"></a> Prayer bpn2366 in Latviešu
 Mans Dievs! Mans Dievs! Tu esi mana Cerība un mana Mīlestība, mans Mērķis un mans Ilgojums. Lielā pazemībā un dziļā ticībā es Tevi lūdzu, ļauj man kļūt par Tavas mīlas troni Tavā valstībā, par Tevis zināšanas lāpu Tavas radības vidū un par Tevis dāvātu karogu Tavā Ķēniņvalstī.
 Uzņem mani Savu pielūdzēju pulkā, kas ir atraisījušies no visa, izņemot Tevi, kas noraida visu pasaulīgo un ir brīvi no šaubīšanās kļūdām. Ļauj manai sirdij atplaukt priekā, svētī un apgaismo manu skatu, Savā varenībā sūtot man vienu veiksmi pēc otras.
@@ -126,6 +216,8 @@ Tu esi Visvarenais, Neredzamais, Visspēcīgais.
 
 (Source category: Atsacīšanās)
 (Bahaiprayers.net ID: 2366)
+
+
 
 
 
@@ -141,6 +233,8 @@ Svētī, ak Dievs, mans Kungs, To, Kuru esi pacēlis pāri Saviem visaugstākaji
 
 
 
+
+
 ## Bērni
 
 ### <a id="bpn2368"></a> Prayer bpn2368 in Latviešu
@@ -148,6 +242,8 @@ Ak Dievs, vadi mani, sargā mani, dedz manā sirdī gaismu, lai es kļūstu kā 
 
 (Source category: Bērni)
 (Bahaiprayers.net ID: 2368)
+
+
 
 
 ### <a id="bpn2369"></a> Prayer bpn2369 in Latviešu
@@ -158,12 +254,16 @@ Ak Tu, Kam līdzīga nav. Ļauj man liecināt par Tavu neredzamo Ķēniņvalsti.
 (Bahaiprayers.net ID: 2369)
 
 
+
+
 ### <a id="bpn2370"></a> Prayer bpn2370 in Latviešu
 Ak mans Kungs! Ak mans Kungs! Es esmu mazs bērns. Baro mani no Savas žēlsirdības krūts, māci mani Savas mīlestības azotē, izglīto mani Savas vadības skolā un pilnveido mani Savas vēlības pavēnī. Atpestī mani no tumsības, veido mani par spožu gaismu, atbrīvo mani no nelaimes, dari mani par ziedu rožu dārzā, ļauj man tapt par kalpu pie Tava sliekšņa un dāvā man taisnīga cilvēka dabu, dari mani par balvu cilvēcei un rotā manu galvu ar mūžīgās dzīvošanas diadēmu.
 Patiesi, Tu esi Spēcīgais, Varenais, visu Redzošais, visu Dzirdošais.
 
 (Source category: Bērni)
 (Bahaiprayers.net ID: 2370)
+
+
 
 
 ### <a id="bpn2371"></a> Prayer bpn2371 in Latviešu
@@ -174,12 +274,16 @@ Tu esi Dāsnais, Tu esi Līdzjūtīgais!
 (Bahaiprayers.net ID: 2371)
 
 
+
+
 ### <a id="bpn2372"></a> Prayer bpn2372 in Latviešu
 Ak Dievs! Audzini šo bērniņu Savas mīlas azotē, sniedz viņam pienu no Sava likteņa krūts. Kop šo jauno stādiņu Savas mīlestības rožu dārzā un veldzē viņu ar Sava dāsnuma lietu. Iecel viņu par Ķēniņvalsts bērnu un vadi viņu uz Savu Debesu Valstību.
 Tu esi spēcīgs un laipns, Tu esi Devējs un Apveltītājs, visaugstākās svētības Kungs.
 
 (Source category: Bērni)
 (Bahaiprayers.net ID: 2372)
+
+
 
 
 
@@ -194,12 +298,16 @@ Tu esi varas, slavas un dāsnuma Dievs. Nav cita Dieva bez Tevis, visaugstākā 
 (Bahaiprayers.net ID: 2373)
 
 
+
+
 ### <a id="bpn2374"></a> Prayer bpn2374 in Latviešu
 Lai slava Tev, ak mans Dievs! Tu esi majestātiskuma un slavas, diženuma un goda, varas un valdīšanas, cēluma un žēlastības, godbijības un spēka Avots. Savus izredzētos Tu tuvini Vislielajam Okeānam, un Saviem nolūkotajiem Tu piešķir godu iepazīt Savu Senseno vārdu. Neviens debesīs un uz zemes nespēj pretoties Tavai augstajai gribai. No mūžīgiem laikiem Tu valdi pār visu radību, un uz mūžīgiem laikiem Tu turpināsi valdīt pār visām Tevis radītajām būtnēm. Nav cita Dieva bez Tevis, Visvarenā, Visaugstā, Visspēcīgā, Visgudrā.
 Apgaismo, ak Kungs, Savu kalpu sejas, lai viņi spētu ieraudzīt Tevi; apskaidro viņu sirdis, lai viņi spētu griezties pie Tavas atzinības Galma un atzīt Viņu, kas ir Tevis Izpausme un Tavas Būtības Gaisma. Patiesi, Tu esi visu pasauļu Kungs. Nav cita Dieva bez Tevis, Neierobežotā, Vispakļaujošā.
 
 (Source category: Cildināšana un pateikšanās)
 (Bahaiprayers.net ID: 2374)
+
+
 
 
 ### <a id="bpn2375"></a> Prayer bpn2375 in Latviešu
@@ -210,6 +318,8 @@ Tu esi Visvarenais, Visaugstais, Visgodātais, Vismīlošais.
 (Bahaiprayers.net ID: 2375)
 
 
+
+
 ### <a id="bpn2376"></a> Prayer bpn2376 in Latviešu
 Visaugstā Dieva vārdā! Esi slavēts un cildināts, Visvarenais Kungs! Tu, Kura gudrības priekšā apklust visi pasaules gudrie, Kura zināšanu priekšā visi mācītie vīri atzīstas savā tumsonībā, Kura spēka priekšā stiprie kļūst vāji, Kura bagātības priekšā bagātie liecina par savu nabadzību, Kura gaismas priekšā apgaismotie staigā tumsā, ap Kura zināšanu svētnīcu griežas saprāta būtība un ap Kura tuvuma templi riņķo visu cilvēku dvēseles. Kā gan lai dziedu un paužu Tavu būtību, ja viedo gudrība un mācīto vīru zināšanas nepalīdz tiem aptvert to, un neviens nevar dziedāt par neaptveramo, nedz runāt par neaizsniedzamo, jo no mūžseniem laikiem Tu esi neaizsniedzams un neatrodams. Lai gan es nespēju iekāpt Tavas godības debesīs, nedz pacelties Tavas zināšanas karaļvalstī, es tomēr varu slavēt zīmes, caur kurām atklāta tiek Tavas radības pilnveidība.
 Pie Tavas slavas! Visu Sirdsmīļotais, Vienīgais, Kas var remdēt skumjas tiem, kuri ilgojas pēc Tevis. Ja visi debesu un zemes iemītnieki apvienotos, lai slavētu visniecīgāko no Tavām zīmēm, caur kurām Tu esi atklājis Sevi, arī tad viņi nespēs pienācīgi slavēt Tavu svēto Vārdu, jo Tu esi visu zīmju Radītājs.
@@ -217,6 +327,8 @@ Esi slavēts un cildināts! Visa radība liecina, ka Tu esi viens vienīgs, un n
 
 (Source category: Cildināšana un pateikšanās)
 (Bahaiprayers.net ID: 2376)
+
+
 
 
 
@@ -231,6 +343,8 @@ Visi ir nabadzīgi un trūcīgi, un Tev, patiesi, pieder viss, Tev pakļaujas vi
 (Bahaiprayers.net ID: 2377)
 
 
+
+
 ### <a id="bpn2378"></a> Prayer bpn2378 in Latviešu
 Lai slavēts ir Tavs Vārds, ak Dievs, mans Kungs!
 Tumsa ir nolaidusies pār visām zemēm, un ļaunie spēki ir apsēduši visas tautas. Tomēr cauri visam tam es jaušu Tavas gudrības mirdzumu un Tava likteņa spožo gaismu.
@@ -240,6 +354,8 @@ Tev ir tas spēks piepildīt Savu gribu. Patiesi, Tu esi Palīgs briesmās, Pats
 
 (Source category: Cilvēce)
 (Bahaiprayers.net ID: 2378)
+
+
 
 
 
@@ -253,6 +369,8 @@ Es lūdzu Tevi, ak mans Kungs, un piesaucu Viņa vārdu, ap kuru pielūgsmē ri�
 (Bahaiprayers.net ID: 2382)
 
 
+
+
 ### <a id="bpn2379"></a> Prayer bpn2379 in Latviešu
 Ak laipnais Kungs, žēlīgais un vēlīgais! Mēs esam kalpi pie Tava sliekšņa Tavā žēlsirdīgā aizsardzībā. Tava likteņa Saule spīd pār visiem, un Tavas debesis lej žēlastību pār ikvienu. Tavas veltes aptver visus, Tavs liktenis lemts visiem. Tavas aizsardzības pavēnis sedz visus, un visiem atmirdz Tavas labvēlības gaišais skats. Ak Kungs! Dāvā mums visiem Savas neskaitāmās dāvanas un liec Savas vadības gaismai atmirdzēt. Apgaismo acis, priecē dvēseles un vies sirdīs jaunu garu. Dod tām mūžīgo dzīvošanu. Paver vārtus uz Savām zināšanām, liec ticības gaismai plūst.
 Apvieno un savāc visu cilvēku saimi vienā patvērumā zem Savas aizsardzības karoga tā, lai tie kļūst kā vienas jūras viļņi, kā viena koka zari un lapas, un lai pavēni tie meklē kopējā teltī. Lai dzer tie no viena un tā paša avota. Lai spirdzina tos vienas un tās pašas vēsmas. Lai smeļas tie apgaismību no viena un tā paša dzīvības un gaismas avota.
@@ -260,6 +378,8 @@ Tu esi Devējs, Tu esi Žēlotājs.
 
 (Source category: Dieva Diena)
 (Bahaiprayers.net ID: 2379)
+
+
 
 
 ### <a id="bpn2380"></a> Prayer bpn2380 in Latviešu
@@ -270,11 +390,15 @@ Patiesi, Tu esi Devējs, Tu esi Mīlošais, un Tu esi Visvarenais.
 (Bahaiprayers.net ID: 2380)
 
 
+
+
 ### <a id="bpn2381"></a> Prayer bpn2381 in Latviešu
 Ak labsirdīgais Kungs! Tu esi radījis visu cilvēci no vienas saknes. Tu esi noteicis, lai visi būtu vienas saimes piederīgie. Tava svētā vaiga priekšā visi rod patvērumu Tavas Svētnīcas pavēnī. Visi pulcējas ap galdu, kas pilns Tavu dāvanu, un visi staro Tava likteņa gaismā. Ak Dievs! Pret visiem Tu esi labsirdīgs. Par visiem Tu gādā. Visus Tu pasargā. Visiem Tu dāvā dzīvību. Visus Tu esi apveltījis spējām un dotībām. Pār visiem plūst Tavas žēlastības valgme. Ak labsirdīgais Kungs! Vieno visus, dod saskaņu ticībā, padari visas tautas par vienu draudzi, lai visi būtu vienoti kā vienas tēvu zemes atvases. Lai visi biedrotos vienprātībā un saskaņā. Ak Dievs! Pacel augstu cilvēces vienības karogu! Ak Dievs! Ievadi Vislielo mieru! Saliedē sirdis, ak Dievs! Ak mīļais Dievs Tēvs! Ielīksmo sirdis ar Savas mīlestības saldo smaržu, apskaidro acis ar Savas vadības gaismu. Ieaijā dzirdi ar Sava vārda melodiju un ietver mūs Sava likteņa lokā. Tu esi varens un spēcīgs! Tu piedod mūsu grēkus un neņem vērā cilvēku nepilnības.
 
 (Source category: Dieva Diena)
 (Bahaiprayers.net ID: 2381)
+
+
 
 
 
@@ -289,12 +413,16 @@ Tev ir tā vara piepildīt Savu gribu. Nav neviena cita Dieva bez Tevis, Mūžam
 (Bahaiprayers.net ID: 2383)
 
 
+
+
 ### <a id="bpn2386"></a> Prayer bpn2386 in Latviešu
 Lai slava Tev, ak Dievs, mans Kungs! Piesaucot Tavu vārdu, kuru Tu pacēli kā Savas vadības karogu un caur kuru tu izstaroji Savas mīlošās laipnības mirdzumu, un liki apjaust Savas valdīšanas varu, caur kuru Tavu vārdu lāpa izgaismoja Tavas īpašības un caur kuru parādījās Tas, Kas ir Tavas vienības un vienesmes Svētnīca, un Tavas brīvības Izpausme, caur Kuru tapa zināmi Tavas vadības ceļi un tika iezīmētas Tavas labās gribas takas, caur Kuru tika iedragāti maldu pamati un iznīcinātas ļaunuma zīmes, caur Kuru sāka strāvot gudrības avoti un lejup nolaidās debesu galds, caur Kuru Tu iemantoji Sev kalpus un dāvāji dziedināšanu, caur Kuru Tu Saviem kalpiem paudi Savu maigo žēlastību un pasludināji Savai radībai piedošanu, es Tevi lūdzu, pasargā to, kas ir atgriezies un stingri turējies pie Tevis, kas ir paļāvies uz Tavu Žēlastību un sedzies ar Tavas gādības tērpa maliņu. Nes no debesīm viņam dziedināšanu, dari viņu veselu, liec viņam būt uzticīgam un dāvā viņam mieru no Saviem debesu augstumiem.
 Tu, patiesi, esi Dziednieks, Sargātājs, Palīgs, Visvarenais, Spēcīgais, Visgodātais, Viszinošais.
 
 (Source category: Dziedināšana)
 (Bahaiprayers.net ID: 2386)
+
+
 
 
 ### <a id="bpn2387"></a> Prayer bpn2387 in Latviešu
@@ -306,12 +434,16 @@ Tu, patiesi, pacelies pāri visam un visiem, tik Sev vien nē. Tu esi, patiesi, 
 (Bahaiprayers.net ID: 2387)
 
 
+
+
 ### <a id="bpn2384"></a> Prayer bpn2384 in Latviešu
 Tavs Vārds ir mana dziedināšana, ak mans Kungs, un Tevis pieminēšana ir mana veldze. Tavs tuvums ir mana cerība, un mīlestība uz Tevi ir mana pavadone. Tava žēlastība mani spirdzina un balsta kā šajā pasaulē, tā arī tajā, kas nāks.
 Patiesi, Tu esi Visdāsnais, Viszinošais, Visgudrais.
 
 (Source category: Dziedināšana)
 (Bahaiprayers.net ID: 2384)
+
+
 
 
 ### <a id="bpn2385"></a> Prayer bpn2385 in Latviešu
@@ -321,6 +453,8 @@ Patiesi, Tu esi Kungs šai dzīvē un tajā, kas vēl nāks. Tu esi, patiesi, m�
 
 (Source category: Dziedināšana)
 (Bahaiprayers.net ID: 2385)
+
+
 
 
 
@@ -395,6 +529,8 @@ Es apliecinu, ak mans Dievs, to, ko apliecinājuši ir Tavi Izredzētie, un es a
 
 
 
+
+
 ## Garīgums
 
 ### <a id="bpn2388"></a> Prayer bpn2388 in Latviešu
@@ -406,11 +542,15 @@ Patiesi, Tu esi Visuvarenais, Visspēcīgais, Viszinošais, Visgudrais.
 (Bahaiprayers.net ID: 2388)
 
 
+
+
 ### <a id="bpn2389"></a> Prayer bpn2389 in Latviešu
 Ak Dievs, atspirdzini un iepriecini manu garu. Šķīsti manu sirdi. Apgaismo manas spējas. Tavās rokās es ielieku visus savus pasākumus. Tu esi mans Vadītājs un mans Patvērums. Man vairs nebūs ne bēdu, ne skumju. Es būšu līksms un prieka pilns. Ak Dievs, visas raizes no manis attālināsies, un šķēršļi man vairs ceļā nestāsies. Mani vairs nenospiedīs dzīves ēnas. Ak Dievs! Tu esi man vēl tuvāks nekā es pats sev. Es Tev ziedojos, ak Kungs!
 
 (Source category: Garīgums)
 (Bahaiprayers.net ID: 2389)
+
+
 
 
 ### <a id="bpn2390"></a> Prayer bpn2390 in Latviešu
@@ -423,6 +563,8 @@ Patiesi, Tu esi Žēlsirdīgais, un, patiesi, Tu esi augstsirdīgais Palīgs.
 (Bahaiprayers.net ID: 2390)
 
 
+
+
 ### <a id="bpn2391"></a> Prayer bpn2391 in Latviešu
 Ak mans Kungs! Ak mans Kungs! Es esmu kā lampa, kas dod gaismu caur Tavas mīlestības uguni un liesmo ar Tavas žēlastības koka iedegto liesmu. Ak mans Kungs! Liec man aizvien vairāk iekvēloties, kaist un liesmot ar Tavas Atklāsmes Sinajā iedegto guni.
 Tik tiešām, Tu esi Apstiprinātājs, Nodrošinātājs, Varenais, Augstsirdīgais, Mīlošais.
@@ -431,12 +573,16 @@ Tik tiešām, Tu esi Apstiprinātājs, Nodrošinātājs, Varenais, Augstsirdīga
 (Bahaiprayers.net ID: 2391)
 
 
+
+
 ### <a id="bpn2392"></a> Prayer bpn2392 in Latviešu
 Ak mans Dievs! Ak mans Dievs! Šeit ir Tavs kalps, kas ir tiecies uz Tevi un savā sirds degsmē ceļojis pāri tuksnesim Tavai mīlai pretī, gājis Tavu ceļu, jauzdams Tavu labestību, cerēdams uz Tavu dāsnumu, paļaudamies uz Tavu valstību un Tevis sniegtajā vīnā pacilātību gūdams. Ak mans Dievs! Vairo viņa degsmi pēc Tevis, viņa uzticību Tevis cildināšanā, viņa kvēli mīlā pret Tevi.
 Patiesi, Tu esi Vislabvēlīgais, pārpilnas vēlības Kungs. Nav cita Dieva bez Tevis, Piedodošā un Žēlsirdīgā.
 
 (Source category: Garīgums)
 (Bahaiprayers.net ID: 2392)
+
+
 
 
 ### <a id="bpn2393"></a> Prayer bpn2393 in Latviešu
@@ -450,6 +596,8 @@ Patiesi, Tu esi Žēlīgais, Visdāsnais!
 (Bahaiprayers.net ID: 2393)
 
 
+
+
 ### <a id="bpn2394"></a> Prayer bpn2394 in Latviešu
 Viņš ir Žēlīgais, Visdāsnais!
 Ak Dievs, mans Dievs! Tavs aicinājums ir sasniedzis mani un Tavas Godības Spalvas rakstītais ir mani atmodinājis, Tavu svēto vārdu straume ir mani savaldzinājusi, un Tavas iedvesmas vīns ir mani saviļņojis. Tu mani redzi, ak Kungs, no visa atraisījušos, tikai no Tevis vien nē. Es turos pie Tava dāsnuma saites, ilgodamies Tavas labvēlības brīnumu. Es lūdzu Tevi, tik tiešām, kā mūžam strāvo Tava mīla un labestība, un mirdz Tavu maigo rūpju un labvēlības gaisma, dod man to, kas tuvinās mani Tev, un Savā bagātībā dari mani bagātu. Mana mēle, mana spalva un visa mana būtne apliecina Tavu spēku, Tavu varu, Tavu žēlastību un Tavu dāsnumu. Tu esi Dievs un bez Tevis nav cita Dieva, Tu Stiprais, Varenais.
@@ -459,6 +607,8 @@ Patiesi, Tu sēdi Savā visaugstās žēlastības tronī, nav cita Dieva bez Tev
 
 (Source category: Garīgums)
 (Bahaiprayers.net ID: 2394)
+
+
 
 
 ### <a id="bpn2395"></a> Prayer bpn2395 in Latviešu
@@ -475,6 +625,8 @@ Patiesi, Tu esi Visvarenais, visu Piedevējs, Līdzjūtīgais.
 
 
 
+
+
 ## Garīgās Padomes
 
 ### <a id="bpn2445"></a> Prayer bpn2445 in Latviešu
@@ -488,6 +640,8 @@ Tu esi Žēlīgais, Dāsnais, Devējs, Visvarenais, Visžēlsirdīgais, Līdzjū
 (Bahaiprayers.net ID: 2445)
 
 
+
+
 ### <a id="bpn2446"></a> Prayer bpn2446 in Latviešu
 *Lūgšana, kas jāskaita garīgajai sanāksmei noslēdzoties.
 
@@ -498,6 +652,8 @@ Patiesi, Tu esi Augstsirdīgais un Žēlīgais! Tu esi Labdarīgais, un, patiesi
 
 (Source category: Garīgās Padomes)
 (Bahaiprayers.net ID: 2446)
+
+
 
 
 
@@ -528,6 +684,8 @@ Pie Tevis Paša un pie Tavām zīmēm, un pie nepārprotamiem Taviem apliecināj
 (Bahaiprayers.net ID: 2448)
 
 
+
+
 ### <a id="bpn2450"></a> Prayer bpn2450 in Latviešu
 Lai slava Tev, ak Dievs, mans Kungs. Šīs ir tās dienas, kurās Tu visiem cilvēkiem esi vēlējis ievērot gavēni, lai caur to šķīstītos viņu dvēseles, lai viņi atraisītos no saiknēm ar visu, tik ar Tevi vien nē, un lai viņu sirdīs mājotu tikai tas, kas ir Tava cēlā galma cienīgs, Tavas Vienesmes Atklāsmes Sēdekļa cienīgs. Liec, ak Kungs, lai kļūst par dzīvības ūdeņu upi šis gavēnis un lai tas atnes to tikuma spēku, ar kādu Tu esi to apveltījis. Šķīsti ar to Savu kalpu sirdis, kuras šīs pasaules ļaunumiem nav izdevies novērst no tiekšanās uz Tavu Visgaišo Vārdu, kurus neskartus ir atstājis to troksnis un kņada, kas pulgo Tavas visdižās zīmes, kuras vēstīja, ka nāk Tava Izpausme visā Tevis piešķirtajā varenībā, spēkā, dižumā un godībā. Šie ir Tavi kalpi, kas ir saklausījuši Tavu aicinājumu un traucās pretī Tavai žēlsirdībai, kurus no Tevis nav atturējušas nedz likteņa kaprīzes, nedz arī cilvēku aprobežotība.
 Es apliecinu, ak mans Dievs, Tavu vienesmi. Es atzīstu, ka Tu esi viens un pazemībā liecos Tava dižuma atklāsmju priekšā, un ar nolaistu skatu es atzīstu, cik žilbinoši spoža ir Tavas netveramās godības gaisma. Es ticu Tev, kopš Tu man ļāvi Sevi iepazīt, un tam, ko Tu Savā spēkā un varenībā esi atsedzis cilvēku acīm. Pie Viņa es esmu griezies, pilnībā no visa atraisījies un cieši turoties pie Tavas labvēlības un labestības Saites. Es esmu pieņēmis Viņa patiesību un visu to brīnumaino likumu, un priekšrakstu patiesību, kas ir tikuši Viņam vēstīti. Mīlā uz Tevi un paklausībā Tavai pavēlei es esmu gavējis un pārtraucis gavēt ar Tavu slavinājumu uz lūpām un atbilstoši Tavai gribai. Nepieļauj, ak mans Kungs, ka mani pieskaita pie tiem, kas ir gavējuši dienā un naktī Tava vaiga priekšā krituši, bet tomēr Tavu patiesību noraidījuši un Tavām zīmēm nav ticējuši, nolieguši Tavas liecības un Tavus vārdus sagrozījuši.
@@ -547,6 +705,8 @@ Tev ir tas spēks piepildīt Savu gribu. Nav cita Dieva bez Tevis, Visvarenā, V
 (Bahaiprayers.net ID: 2450)
 
 
+
+
 ### <a id="bpn2449"></a> Prayer bpn2449 in Latviešu
 Šīs, ak mans Dievs, ir tās dienas, kurās Tu Saviem kalpiem esi licis ievērot gavēni. Ar to Tu rotāji Savas Likumu Grāmatas ievadu, ko Tu atklāji Savai radībai, un greznoji Savu baušļu krājumus, lai tos skata visi, kas ir Tavās debesīs, un visi, kas ir uz Tavas zemes. Katrai stundai šajās dienās Tu esi piešķīris īpašu spēku, kas bez Tevis nav izzināms nevienam, jo Tava zināšana ietver visu, kas ir radīts. Tāpat Tu katrai dvēselei esi piešķīris daļiņu no šī spēka saskaņā ar Sava likuma Vēstuli un Sava neatsaucamā sprieduma Rakstiem. Vēl jo vairāk, ikvienu šo Grāmatu un Rakstu lapu Tu esi veltījis ikvienai no zemes tautām un ciltīm.
 Tevi kvēli mīlošajiem pēc Sava lēmuma Tu esi veltījis kausu Tevis pieminēšanas ausmas stundā, ak Valdnieku Valdniek! Šie ir ļaudis, kas, Tavas gudrības daudzveidības vīna reibināti, pamet savas dusas vietas, ilgodamies daudzināt Tavu slavu un cildināt Tavus tikumus, un bēg miega, traukdamies iemantot Tavu tuvumu un baudīt no Tava dāsnuma. Viņu acis ir vienmēr vērušās Tavas mīlošās laipnības Avotā, un viņu vaigs ir bijis vērsts uz Tavas iedvesmas Pirmavotu. No Savas žēlastības debesīm liec līt dāvanām pār viņiem, kas ir Tava dāsnuma un labestības debesu cienīgas.
@@ -563,6 +723,8 @@ Savai Mācībai nes uzvaru, ak mans Kungs, un liec Taviem naidniekiem krist. Tad
 
 
 
+
+
 ## Grūtības un pārbaudījumi
 
 ### <a id="bpn2396"></a> Prayer bpn2396 in Latviešu
@@ -574,6 +736,8 @@ Un vēl es lūdzu Tevi, ar Sava vaiga gaismu svētī manus darbus, izpērc manus
 (Bahaiprayers.net ID: 2396)
 
 
+
+
 ### <a id="bpn2397"></a> Prayer bpn2397 in Latviešu
 Esi slavēts un cildināts, ak mans Kungs! Pie to nopūtām un izlietajām asarām, kas Tevi mīl un ilgojas Tevi skatīt, es Tevi lūdzu, neliedz man Tavā Dienā Savu maigo žēlastību un ļauj man klausīties Tavas dūjas dziesmā, kas Tava vaiga starojumā slavē Tavu vienesmi. Es esmu bēdu mākts, ak Dievs. Tu redzi mani turamies jo cieši pie Tava Vārda, ak Tu, Kam pieder viss. Man ir lemts iet bojā, Tu redzi mani tveramies pie Tava Vārda, Mūžam Pastāvošā. Tāpēc piesaucot Tevi, Visaugsto, Viscildeno, es lūdzu Tevi, neatstāj mani vienu manu ļauno dziņu varā. Turi manu roku Savā spēcīgajā rokā un atpestī mani no manu dīko iedomu un iegribu valgiem, un attīri mani no visa, kas Tev nav pieņemams.
 Tad liec man ar visu sirdi pievērsties Tev, pilnībā paļauties uz Tevi, meklēt patvērumu pie Tevis, tverties Tavā tuvumā. Patiesi, Tu esi Tas, Kas Savā varenībā dara visu, ko vien vēlas, un Savas gribas spēkā pavēl visiem, kam vien vēlas. Neviens nespēj pretoties Taviem likumiem, neviens nevar novērst, ko esi lēmis.
@@ -583,11 +747,15 @@ Patiesi, Tu esi Visvarenais, Visgodātais, Visdāsnais.
 (Bahaiprayers.net ID: 2397)
 
 
+
+
 ### <a id="bpn2398"></a> Prayer bpn2398 in Latviešu
 Ak Tu, Kura pārbaudījumi nes dziedināšanu Tev tuvajiem, Kura zobenu ilgojas tie, kas Tevi mīl, Kura bultas ir dārgas visiem, kas Tevis ilgojas, Kura likums ir vienīgā cerība tiem, kas ir atzinuši Tavu patiesību. Pieminot Tavu dievišķo laipnību un Tava vaiga gaismu, es Tevi lūdzu, no Saviem augstumiem palīdzi mums tiekties pēc Tevis. Dari drošus mūsu soļus, ak mans Dievs, kalpojot Tavai Mācībai, apgaismo mūsu sirdis ar Tevis zināšanas spožumu un iekvēlini mūsu dvēseles ar Savu vārdu gaišo uguni un Tava dāsnuma Saules mirdzumu, un ierindo mūs to pulkā, kurus neviens nav spējis novērst no Tevis, ak visu Vārdu Valdniek un debesu Radītāj!
 
 (Source category: Grūtības un pārbaudījumi)
 (Bahaiprayers.net ID: 2398)
+
+
 
 
 ### <a id="bpn2399"></a> Prayer bpn2399 in Latviešu
@@ -601,6 +769,8 @@ Tev ir tā vara piepildīt visu, ko vēlies. Nav cita Dieva bez Tevis, Palīga b
 (Bahaiprayers.net ID: 2399)
 
 
+
+
 ### <a id="bpn2400"></a> Prayer bpn2400 in Latviešu
 Esi slavēts, ak Dievs, mans Kungs! Katrs vērīgais atzīst Tavu varu un valdīšanu, un katra redzīga acs saskata Tavu diženumu un Tavas varas neuzveicamo spēku. Nekāds pretvējš nespēj kavēt tos, kas bauda Tavu tuvumu, celt skatu uz Tavas godības Apvārsni, un nekādas pārbaudījumu vētras nevar novērst no ceļa un apturēt tos, kas, uzticoties Tavai gribai, dodas uz Tavu Galmu.
 Manuprāt, Tavas mīlestības liesma deg viņu sirdīs, un Tava maiguma gaisma kvēlo viņu dvēselēs. Nekādas likstas nespēj likt tiem nodot Tavu Mācību, un nekādas likteņa kaprīzes nevar piespiest tos novirzīties no Tev tīkama ceļa.
@@ -610,11 +780,15 @@ Pieminot viņus un viņu siržu nopūtas tālumā no Tevis, es Tevi lūdzu, sarg
 (Bahaiprayers.net ID: 2400)
 
 
+
+
 ### <a id="bpn2401"></a> Prayer bpn2401 in Latviešu
 Vai ir vēl kāds cits, kas spēj grūtības novērst, kā Dievs? Saki: Lai slavēts ir Dievs! Viņš ir Dievs! Visi ir Viņa kalpi, un visi dzīvo pēc Viņa likumiem.
 
 (Source category: Grūtības un pārbaudījumi)
 (Bahaiprayers.net ID: 2401)
+
+
 
 
 ### <a id="bpn2402"></a> Prayer bpn2402 in Latviešu
@@ -624,6 +798,8 @@ Saki: Pār visām lietām Dievs ir piepildījums, un nav apmierinājuma bez Diev
 (Bahaiprayers.net ID: 2402)
 
 
+
+
 ### <a id="bpn2403"></a> Prayer bpn2403 in Latviešu
 Viņš ir Līdzjūtīgais, Viņš ir Augstsirdīgais.
 Ak Dievs, mans Dievs! Tu redzi mani. Tu zini mani. Tu esi mana Osta un Patvērums. Neviena es neesmu meklējis un neviena es nemeklēšu, tik vien Tevi. Nevienu ceļu es neesmu gājis, nedz iešu, izņemot Tavas mīlestības ceļu. Tumšā izmisuma naktī, cerību un gaidu pilnas, manas acis vēršas uz Tavas neizmērojamās labestības rītiem, un rītausmas stundā mana pagurusī dvēsele atceras Tavu Daili un pilnību un top atkal spēcināta un stipra. Ikviens, kam palīdz Tava gaišā žēlastība, un kaut viņš būtu tikai kā lāsīte, kļūs kā neaptverama jūra, un vissīkākais puteklītis, kuru apmirdz Tavas mīlas un vēlības starojums, atspīdēs kā mirdzoša zvaigzne.
@@ -631,6 +807,8 @@ Ak Dievs, mans Dievs! Tu redzi mani. Tu zini mani. Tu esi mana Osta un Patvērum
 
 (Source category: Grūtības un pārbaudījumi)
 (Bahaiprayers.net ID: 2403)
+
+
 
 
 ### <a id="bpn2404"></a> Prayer bpn2404 in Latviešu
@@ -646,12 +824,16 @@ Tu, patiesi, esi Žēlīgais, Godātais, Varenais, Visspēcīgais!
 (Bahaiprayers.net ID: 2404)
 
 
+
+
 ### <a id="bpn2405"></a> Prayer bpn2405 in Latviešu
 Ak mans Kungs, mans Mīļotais, mans Ilgojums! Manā vientulībā pieņem mani, trimdā pavadi mani, kliedē manas bēdas, Tavai Dailei liec man būt uzticīgam, atbrīvo mani no visa, tikai no Sevis vien nē, ar Sava svētuma dvašu saisti mani. Savā Ķēniņvalstī ļauj man būt kopā ar tiem, kas ir atraisījušies no visa, tikai no Tevis vien nē, kas ilgojas kalpot pie Tava svētā Sliekšņa un kas ceļas, lai kalpotu Tavai Mācībai. Ļauj, lai esmu viena no Tavām kalponēm, ar kuru Tu esi mierā.
 Patiesi, Tu esi Žēlīgais, Augstsirdīgais!
 
 (Source category: Grūtības un pārbaudījumi)
 (Bahaiprayers.net ID: 2405)
+
+
 
 
 
@@ -671,6 +853,8 @@ Patiesi, Tu esi Viszinošais, Visgudrais.
 
 
 
+
+
 ## Laulības
 
 ### <a id="bpn2452"></a> Prayer bpn2452 in Latviešu
@@ -687,6 +871,8 @@ Un, kad Viņam labpatika izrādīt pret cilvēkiem žēlastību un labvēlību, 
 (Bahaiprayers.net ID: 2452)
 
 
+
+
 ### <a id="bpn2453"></a> Prayer bpn2453 in Latviešu
 *"Bet bahājiešiem saderināšanās ir abu pušu pilnīga saprašanās un vienošanās. Viņiem tomēr ir jābūt ļoti uzmanīgiem un jāiepazīst vienam otra raksturs, un viņu starpā noslēgtajām stingrajām derībām ir jākļūst par mūžīgu saiti, un viņu nolūkam ir jāietver mūžīga radniecība, draudzība, vienotība un dzīve."
 
@@ -698,12 +884,16 @@ Patiesi, Tu esi Visstiprais, Visdiženais, mūžam Piedodošais.
 (Bahaiprayers.net ID: 2453)
 
 
+
+
 ### <a id="bpn2454"></a> Prayer bpn2454 in Latviešu
 Lai Tev slava, ak mans Dievs! Patiesi, Tavs kalps un Tava kalpone ir nākuši kopā Tavas žēlsirdības pavēnī, un caur Tavu augstsirdību un labvēlību viņi ir apvienoti, ak Kungs! Palīdzi viņiem šai Tavā pasaulē un Tavā Ķēniņvalstī, un piešķir tiem Savā dāsnumā un žēlsirdībā visu labo. Ak Kungs! Atbalsti viņus un pieņem viņus Savā kalpībā, un palīdzi viņiem Tev kalpot! Liec, lai kļūst viņi par Tava Vārda zīmēm Tavā pasaulē un nodrošini viņus ar Savām dāvanām, kuras ir nebeidzamas šajā pasaulē un tajā, kas nāks. Ak Kungs! Viņi lūdzas, tiecoties uz Tavas žēlsirdības Ķēniņvalsti, un viņi piesauc Tavu valstību, kur valdi Tu viens. Patiesi, viņi stājas laulībā, paklausot tikai Tavai gribai. Ļauj, lai viņi kļūst par saskaņas un vienotības zīmēm, līdz laika beigām.
 Patiesi, Tu esi Visvarenais, visur Esošais, Visspēcīgais.
 
 (Source category: Laulības)
 (Bahaiprayers.net ID: 2454)
+
+
 
 
 
@@ -723,6 +913,8 @@ Patiesi, Tu esi Visvarenais un Viszinošais.
 
 
 
+
+
 ## Mācības sludināšana
 
 ### <a id="bpn2408"></a> Prayer bpn2408 in Latviešu
@@ -732,6 +924,8 @@ Tu, patiesi, esi Visvarenais, Visaugstais, Viszinošais, Visgudrais.
 
 (Source category: Mācības sludināšana)
 (Bahaiprayers.net ID: 2408)
+
+
 
 
 ### <a id="bpn2409"></a> Prayer bpn2409 in Latviešu
@@ -744,6 +938,8 @@ Es Tevi lūdzu, Tu esamības Valdniek un visa redzamā un neredzamā Aizstāvi, 
 (Bahaiprayers.net ID: 2409)
 
 
+
+
 ### <a id="bpn2410"></a> Prayer bpn2410 in Latviešu
 Ak Dievs, Tu esi visu Savu Izpausmju Cēlonis, visu Pirmsākumu Pirmsākums, visu Atklāsmju Pirmavots, visas Gaismas Sākums! Es apliecinu, ka Tavs Vārds ir rota pie izpratnes debesīm, ka caur To ir uzvirmojusi Mācības vārdu jūra un Tava likteņa veltes ir dāvātas visu ticību ticīgajiem.
 Es lūdzu Tevi, dari mani bagātu, lai varu iztikt bez visa un lai tikai Tu vien esi man vajadzīgs. No Sava dāsnuma debesīm lej pār mani Savas pilnības lietu, kas liks man plaukt un zelt jebkurā no Tavām pasaulēm. Tad palīdzi man Savā stiprinošajā žēlsirdībā Tavu kalpu vidū Tavai Mācībai kalpot tā, lai manī atklājas tas, kā dēļ mani atcerēsies, kamēr vien pastāvēs Tava Ķēniņvalsts un kamēr vien ilgs Tava valdīšana.
@@ -754,12 +950,16 @@ Tu, patiesi, esi varenais un spēcīgais Dievs, Kas spēj atbildēt uz Savu lūd
 (Bahaiprayers.net ID: 2410)
 
 
+
+
 ### <a id="bpn2407"></a> Prayer bpn2407 in Latviešu
 Ak Kungs! Atver plaši durvis, dāvā iespējas, sagatavo ceļu, novērs briesmas, lai mēs spētu sasniegt tos, kuru sirdis Tu esi sagatavojis Savai Mācībai, un lai viņi spētu sasniegt mūs.
 Patiesi, Tu esi Visžēlīgais, Visdāsnais, Visspēcīgais.
 
 (Source category: Mācības sludināšana)
 (Bahaiprayers.net ID: 2407)
+
+
 
 
 
@@ -773,11 +973,15 @@ Ak Dievišķais Likteni! Visa radība ceļas no Tava dāsnuma. Neliedz tai Savas
 (Bahaiprayers.net ID: 2411)
 
 
+
+
 ### <a id="bpn2412"></a> Prayer bpn2412 in Latviešu
 Ak mans Dievs! Piesaucot Tavu cildeno Vārdu, es lūdzu Tevi palīdzēt man darīt to, kas liks Tavu kalpu dzīvei labklājībā zelt un Tavām pilsētām krāšņi plaukt. Tev patiešām ir vara pār visām lietām!
 
 (Source category: Palīdzība)
 (Bahaiprayers.net ID: 2412)
+
+
 
 
 ### <a id="bpn2416"></a> Prayer bpn2416 in Latviešu
@@ -788,12 +992,16 @@ Patiesi, Tu esi visu cilvēku Ķēniņš. Nav cita Dieva bez Tevis, allaž visu 
 (Bahaiprayers.net ID: 2416)
 
 
+
+
 ### <a id="bpn2413"></a> Prayer bpn2413 in Latviešu
 Ak Kungs, mans Dievs! Palīdzi Saviem mīļotajiem būt stipriem Tavā ticībā, staigāt Tavus ceļus un būt nelokāmiem Tavā Mācībā. Visžēlīgi palīdzi viņiem pārvarēt savtību un kaislības un sekot dievišķās vadības gaismai.
 Tu esi Spēcīgais, Žēlīgais, Pats par Sevi Pastāvošais, Dāsnais, Līdzjūtīgais, Visvarenais, Vismīlošais.
 
 (Source category: Palīdzība)
 (Bahaiprayers.net ID: 2413)
+
+
 
 
 ### <a id="bpn2414"></a> Prayer bpn2414 in Latviešu
@@ -806,6 +1014,8 @@ Tu esi Visvarenais, visus Mīlošais, un Tu gādā par visu cilvēci.
 (Bahaiprayers.net ID: 2414)
 
 
+
+
 ### <a id="bpn2415"></a> Prayer bpn2415 in Latviešu
 Neatņem mums, ak Kungs, to svētku galdu, kas ir Tavā vārdā klāts, un neslāpē to spožo liesmu, kas ir iedegusies no Tavas neizdzēšamās uguns. Neliedz plūst Saviem dzīvības ūdeņiem, kuru melodiskās šalkas vēstī Tavu slavu un atgādina par Tevi, un nelaupi Saviem kalpiem Savu saldo elpu, kas vieš Tavas mīlestības smaržu.
 Kungs! Vērs vieglumā rūpes, kuras nomāc tos, kas tiecas pēc svētuma, vērs grūtumu mierinājumā, nievas cildinājumā un bēdas svētlaimes priekā, ak Tu, Kas Savās rokās turi visas cilvēces likteņus.
@@ -813,6 +1023,8 @@ Tik tiešām, Tu esi Viens un Vienīgs, Visvarenais, Viszinošais, Visgudrais Di
 
 (Source category: Palīdzība)
 (Bahaiprayers.net ID: 2415)
+
+
 
 
 
@@ -825,6 +1037,8 @@ Cildināms, bezgala cildināms Tu esi! Sava patiesīguma dēļ Tu tieci dievinā
 
 (Source category: Par aizgājušajiem)
 (Bahaiprayers.net ID: 2351)
+
+
 
 
 ### <a id="bpn2353"></a> Prayer bpn2353 in Latviešu
@@ -845,11 +1059,15 @@ Nav neviena cita Dieva bez Tevis, Viena Vienīgā, Varenā, Zinošā, Dāsnā!
 (Bahaiprayers.net ID: 2353)
 
 
+
+
 ### <a id="bpn2352"></a> Prayer bpn2352 in Latviešu
 Ak mans Dievs! Ak Tu grēku Piedevējs! Dāvanu Devējs! Bēdu Kliedētājs! Tik tiešām, es Tevi lūdzu, piedod grēkus tiem, kas ir atstājuši savu miesas tērpu un pacēlušies gara pasaulē. Ak mans Kungs! Šķīsti viņus no pārkāpumiem, kliedē viņu bēdas un vērs viņu tumsu gaismā. Ļauj viņiem ienākt laimes dārzā, mazgā tos vistīrākajos ūdeņos un liec, lai visaugstākajā kalnā viņi skata Tavu mirdzumu.
 
 (Source category: Par aizgājušajiem)
 (Bahaiprayers.net ID: 2352)
+
+
 
 
 
@@ -863,11 +1081,15 @@ Es esmu, ak mans Dievs, Tavs kalps un Tava kalpa dēls. Es esmu apjautis Tavu pa
 (Bahaiprayers.net ID: 2417)
 
 
+
+
 ### <a id="bpn2418"></a> Prayer bpn2418 in Latviešu
 Tu redzi mani, ak mans Kungs, raugāmies uz Tava dāsnuma debesīm un Tavas labestības okeānu, atteikušos no visa, tik no Tevis vien nē. Pie Tavas Atklāsmes Saules Sinaja kalnā, pie Tavas žēlsirdības acs mirdzuma, kas atspīd pie Tava, Mūžam Piedodošā, Vārda debesīm, es lūdzu Tevi, apžēlojies par mani un dāvā man piedošanu. Pieraksti man ar Savu godības spalvu to, kas caur Tavu vārdu cels godā mani Tavas radības pasaulē. Palīdzi man, ak mans Kungs, tiekties pēc Tevis un ieklausīties Tavu mīļoto balsīs, kurus šīs zemes varenie nav spējuši salauzt, kurus tautu valdīšana nav spējusi atraut no Tevis un kas, tuvodamies Tev, ir sacījuši: “Dievs ir mūsu Kungs, Viņš ir Kungs pār visu, kas ir debesīs un uz zemes!”
 
 (Source category: Piedošana)
 (Bahaiprayers.net ID: 2418)
+
+
 
 
 ### <a id="bpn2419"></a> Prayer bpn2419 in Latviešu
@@ -880,12 +1102,16 @@ Piedod, ak mans Kungs, Saviem kalpiem un kalponēm. Tu, patiesi, esi Vispiedodo�
 (Bahaiprayers.net ID: 2419)
 
 
+
+
 ### <a id="bpn2420"></a> Prayer bpn2420 in Latviešu
 Ak Kungs, Tu cilvēku cerība. Tu esi patvērums visiem tiem, kas Tev kalpo. Tavā ziņā ir visi noslēpumi un brīnumi. Mēs visi esam grēcinieki, un Tu, Žēlīgais, Maigais, esi grēcinieku patvērums. Ak Kungs! Neraugies uz mūsu trūkumiem. Esi pret mums žēlīgs un vēlīgs. Mums trūkumu ir daudz, bet neizmērojama ir Tava piedošana. Tāpēc dod mums spēku un stiprini mūs. Palīdzi mums kļūt Tava sliekšņa cienīgiem. Apskaidro mums sirdis, dari redzīgas mūsu acis, dari dzirdīgas mūsu ausis, atdzīvini mirušos un dziedini sirgstošos. Dari nabagos bagātus un vies paļāvību gļēvajos. Uzņem mūs Savā Ķēniņvalstī. Dod mums labestības gaismu.
 Tu esi Augstsirdīgais! Tu esi Maigais! Tu esi Žēlīgais!
 
 (Source category: Piedošana)
 (Bahaiprayers.net ID: 2420)
+
+
 
 
 
@@ -898,12 +1124,16 @@ Es esmu atmodies, Tevis pasargāts, ak mans Dievs, un tas, kas pēc Tavas sargā
 (Bahaiprayers.net ID: 2421)
 
 
+
+
 ### <a id="bpn2422"></a> Prayer bpn2422 in Latviešu
 Es esmu cēlies šorīt caur Tavu žēlastību, ak mans Dievs, un izgājis no mājas pilnā paļāvībā uz Tevi, nododams sevi Tavā gādībā. Tad sūti man no Savas žēlsirdības debesīm svētību un ļauj man neskartam atkal atgriezties mājās tāpat, kā Tu man ļāvi iziet Tavā aizsardzībā, domās pievēršoties tikai Tev.
 Nav neviena cita Dieva bez Tevis, Vienīgā, Nesalīdzināmā, Viszinošā, Visgudrā.
 
 (Source category: Rīts)
 (Bahaiprayers.net ID: 2422)
+
+
 
 
 ### <a id="bpn2423"></a> Prayer bpn2423 in Latviešu
@@ -918,6 +1148,8 @@ Tu neliec vilties nevienam, kas ir Tevi meklējis. Nevienu, kas ir Tevis ilgojie
 
 
 
+
+
 ## Saieti
 
 ### <a id="bpn2424"></a> Prayer bpn2424 in Latviešu
@@ -929,12 +1161,16 @@ Pie Tevis Paša un pie Tiem, Kurus Tu sūtīji Savu Būtību un Savu skaidro Vā
 (Bahaiprayers.net ID: 2424)
 
 
+
+
 ### <a id="bpn2425"></a> Prayer bpn2425 in Latviešu
 Ak žēlīgais Dievs! Ak Tu varenais un spēcīgais! Ak Tu labsirdīgais Tēvs! Tavi kalpi ir pulcējušies pie Tava sliekšņa un lūdz Tevi. Tie ilgojas Tavu nebeidzamo dāvanu un paļaujas uz Tevi. Tik vien Tava labā griba ir viņiem padomā, tik vien cilvēku saimei vēlas tie kalpot. Ak Dievs! Ļauj šeit sanākušajiem atplaukt smaidā. Vies tiem sirdīs žēlastību. Lai krīt tiem par tiesu Svētā Gara veltes. No debesīm dod tiem spēku. Svētī viņus ar debesu domām. Vairo viņos sirsnīgu patiesīgumu, lai visā pazemībā un grēku nožēlā tie pievēršas Tavai Ķēniņvalstij un kalpo cilvēku saimei. Lai ikviens kļūst kā starojoša svecīte. Lai ikviens top kā mirdzoša zvaigzne. Lai ikviens atviz skaistās krāsās un vēdī Dieva Ķēniņvalsts smaržas. Ak, svētī mūs, žēlīgais Tēvs! Neraugies uz mūsu trūkumiem. Tavā aizsardzībā ļauj mums patvērumu rast. Nepiemini mums mūsu grēkus. Dziedē mūs ar Savu žēlastību. Mēs esam vāji, Tu esi stiprs. Mēs esam nabagi, Tu esi bagāts. Mēs esam slimi, Tu esi Dziednieks. Mūs spiež vajadzības, Tu esi dāsns.
 Ak Dievs, ņem mūs Savā gādībā! Tu esi stiprs! Tu esi Devējs. Tu esi laba Darītājs.
 
 (Source category: Saieti)
 (Bahaiprayers.net ID: 2425)
+
+
 
 
 ### <a id="bpn2426"></a> Prayer bpn2426 in Latviešu
@@ -946,6 +1182,8 @@ Tu esi varens. Tu esi spēcīgs. Tu esi Devējs, Tu esi mūžam Dāsnais.
 (Bahaiprayers.net ID: 2426)
 
 
+
+
 ### <a id="bpn2427"></a> Prayer bpn2427 in Latviešu
 Ak mans Dievs! Ak mans Dievs! Patiesi, Tavi kalpi griežas pie Tevis un lūdz Tavu žēlastību, kas ir Tava Ķēniņvalsts. Patiesi, Tavs svētums pievelk viņus, un Tavas mīlestības uguns liek tiem kvēlot un tiekties pēc Tavas brīnumainās Ķēniņvalsts atzinības, un tie cer iekļūt Tavā debesu Valstībā. Patiesi, viņi ilgojas Tavu dāvanu, viņi tvīkst pēc patiesības Saules. Ak Kungs! Vērs tos starojošos gaismas avotos, žēlastības zīmēs, augļus nesošos kokos un mirdzošās zvaigznēs. Lai sāk viņi kalpot Tev, un lai saista viņus pie Tevis mīlestības saites, lai ilgojas viņi pēc Tavas labestības gaismas. Ak Kungs! Vērs viņus Tavas vadības zīmēs, Tavas nemirstīgās Ķēniņvalsts karogos, viļņos Tavas žēlastības jūrā, Tavas godības gaišos atspulgos.
 Patiesi, Tu esi Dāsnais. Patiesi, Tu esi Žēlsirdīgais. Patiesi, Tu esi Godātais un Mīļotais.
@@ -954,12 +1192,16 @@ Patiesi, Tu esi Dāsnais. Patiesi, Tu esi Žēlsirdīgais. Patiesi, Tu esi Godā
 (Bahaiprayers.net ID: 2427)
 
 
+
+
 ### <a id="bpn2428"></a> Prayer bpn2428 in Latviešu
 Ak Tu piedodošais Dievs! Šie kalpi raugās uz Tavu Ķēniņvalsti un ilgojas Tavas žēlsirdīgās vēlības. Ak Dievs! Dari tīras un labas viņu sirdis, lai viņi spēj kļūt Tavas mīlas cienīgi. Šķīstī un svētī viņu garu, lai viņi atstaro Patiesības gaismas Sauli. Šķīstī un svētī viņu acis, lai spēj tās uztvert Tavu gaismu. Šķīstī un svētī viņu ausis, lai spēj tās saklausīt Tavas Ķēniņvalsts aicinājumu. Ak Kungs! Patiesi, mēs esam nespēcīgi, bet Tu esi spēcīgs. Patiesi, mēs esam nabagi, bet Tu esi bagāts. Mēs esam meklētāji, un Tu esi Meklētais. Ak Kungs! Apžēlojies par mums un piedod mums, un dod mums spējas un gatavību, lai varam atsaukties uz Tavu labestību, lai Tavas Ķēniņvalsts aicinājums mūsos iededzina Tavas mīlestības liesmas un lai Tava Svētā Gara dvaša atdzīvina mūs šai starojošajā gadsimtā.
 Tu esi Visvarenais, Tu esi Visžēlīgais, un Tu esi Dāsnais.
 
 (Source category: Saieti)
 (Bahaiprayers.net ID: 2428)
+
+
 
 
 
@@ -981,6 +1223,8 @@ Patiesi, Tu esi Visdāsnais, un Tava žēlastība ir nebeidzama. Nav cita Dieva 
 (Bahaiprayers.net ID: 2443)
 
 
+
+
 ### <a id="bpn2444"></a> Prayer bpn2444 in Latviešu
 *Šo ‘Abdu’l-Bahá doto lūgsnu lasa Viņa Svētnīcā. To izmanto arī individuālās lūgšanās.
 
@@ -997,6 +1241,8 @@ Tu esi Devējs, Žēlotājs, Visdāsnais, Svētītājs, Līdzjūtīgais.
 
 
 
+
+
 ## Ticības izplatīšanai - Lūgšanas no Dievišķā Plāna Vēstulēm
 
 ### <a id="bpn2406"></a> Prayer bpn2406 in Latviešu
@@ -1006,6 +1252,8 @@ Patiesi, Tu esi Spēcīgais, Visvarenais, Viszinošais, Visgudrais, Dzirdošais 
 
 (Source category: Ticības izplatīšanai - Lūgšanas no Dievišķā Plāna Vēstulēm)
 (Bahaiprayers.net ID: 2406)
+
+
 
 
 ### <a id="bpn4093"></a> Prayer bpn4093 in Latviešu
@@ -1021,6 +1269,8 @@ Patiesi, Tu dod svētību, kam vien Tu gribi, darbiem, kurus Tu izvēlies. Patie
 (Bahaiprayers.net ID: 4093)
 
 
+
+
 ### <a id="bpn4094"></a> Prayer bpn4094 in Latviešu
 *Lai šo lūgšanu lasa ikviens, kas ceļo uz dažādām pusēm mācīt, lai lasa to kalnos, tuksnešos, uz zemes un uz jūras.
 
@@ -1034,6 +1284,8 @@ Patiesi, Tu esi Maigais, Spēcīgais, Varenais, Visžēlīgais no Žēlīgajiem!
 
 (Source category: Ticības izplatīšanai - Lūgšanas no Dievišķā Plāna Vēstulēm)
 (Bahaiprayers.net ID: 4094)
+
+
 
 
 ### <a id="bpn4095"></a> Prayer bpn4095 in Latviešu
@@ -1055,6 +1307,8 @@ Patiesi, Tu esi Maigais un Cēlsirdīgais. Patiesi, Tu esi Līdzjūtīgais un Ž
 (Bahaiprayers.net ID: 4095)
 
 
+
+
 ### <a id="bpn4096"></a> Prayer bpn4096 in Latviešu
 *Sekojošā lūgšana skolotājiem un draugiem ir jālasa katru dienu.
 
@@ -1068,6 +1322,8 @@ Patiesi, Tu esi Spēcīgais, Varenais, Gudrais un Redzošais.
 (Bahaiprayers.net ID: 4096)
 
 
+
+
 ### <a id="bpn4097"></a> Prayer bpn4097 in Latviešu
 *Ikvienai dvēselei, kas ceļo pa šo štatu pilsētām, ciemiem un miestiņiem šajos štatos un kas ir apņēmusies izplatīt Dieva mācību, katru rītu jāpārlasa šī lūgšana.
 
@@ -1077,6 +1333,8 @@ Ak mans Kungs! Savā lielajā un uzvarošajā varenībā palīdzi man, lai mana 
 
 (Source category: Ticības izplatīšanai - Lūgšanas no Dievišķā Plāna Vēstulēm)
 (Bahaiprayers.net ID: 4097)
+
+
 
 
 ### <a id="bpn4098"></a> Prayer bpn4098 in Latviešu
@@ -1092,6 +1350,8 @@ Patiesi, Tu esi Varenais, Stiprais, Neierobežotais.
 (Bahaiprayers.net ID: 4098)
 
 
+
+
 ### <a id="bpn4099"></a> Prayer bpn4099 in Latviešu
 Ak Dievs! Ak Dievs! Tavā priekšā ir putns ar aizlauztiem spārniem, un viņa lidojums ir ļoti lēns. Palīdzi viņam, lai spēj viņš lidot uz glābšanas un labklājības virsotni, lai lido viņš līksms un laimīgs cauri neaptveramajam visumam, lai dzied viņš Augstajā Vārdā Tavu dziesmu visās šajās zemēs, lai priecē viņš ausis ar šo aicinājumu un liek iemirdzēties acīm, saskatot Tavas vadības zīmes!
 Ak Kungs! Es esmu vientuļš un necils. Nav man cita atbalsta bez Tevis, nedz cita palīga bez Tevis. Pieņem mani Savā kalpībā, palīdzi man ar Savu eņģeļu Pulkiem, nes man uzvaru, Tavu Vārdu izplatot, un ļauj man Tavas radības vidū Tavu gudrību paust.
@@ -1101,6 +1361,8 @@ Patiesi, Tu esi nabadzīgo Aizstāvis un, patiesi, Tu esi Stiprais, Varenais, Ne
 (Bahaiprayers.net ID: 4099)
 
 
+
+
 ### <a id="bpn4100"></a> Prayer bpn4100 in Latviešu
 Lai slava Tev, ak Dievs! Patiesi, šeit ir Tavi kalpi, kurus pievelk Tavas žēlsirdības aromāts, kurus iekvēlinājusi Tavas Vienības Kokā iedegtā guns, kuru acis deg, skatot Tavas Vienesmes Sinaja gaismas zibšņus.
 Ak Kungs! Raisi viņu mēles Tevis pieminēšanai ļaužu vidū, caur Savu labestību un žēlastību ļauj tiem slavēt Tevi, ar Savu eņģeļu Pulkiem palīdzi viņiem, Tev kalpojot, savelc tiem spēka jostas un liec tiem būt Tavas vadības zīmēm Tavas radības vidū!
@@ -1108,6 +1370,8 @@ Patiesi, Tu esi Visstiprais, Visaugstais, Piedodošais, Žēlojošais.
 
 (Source category: Ticības izplatīšanai - Lūgšanas no Dievišķā Plāna Vēstulēm)
 (Bahaiprayers.net ID: 4100)
+
+
 
 
 ### <a id="bpn4101"></a> Prayer bpn4101 in Latviešu
@@ -1125,6 +1389,8 @@ Patiesi, Tu esi Visspēcīgais un Visvarenais!
 
 
 
+
+
 ## Uzticība Derībai
 
 ### <a id="bpn2429"></a> Prayer bpn2429 in Latviešu
@@ -1137,6 +1403,8 @@ Nav cita Dieva bez Tevis, Visvarenā, Visgudrā.
 (Bahaiprayers.net ID: 2429)
 
 
+
+
 ### <a id="bpn2430"></a> Prayer bpn2430 in Latviešu
 Viņš ir Varenais, Piedevējs, Līdzjūtīgais!
 Ak Dievs, mans Dievs! Tu redzi Savu kalpu maldus un iznīcību bezdibeņa malā; kur ir Tavas dievišķās vadības gaisma, ak pasaules Ilgojums? Tu redzi viņu bezpalīdzību un viņu vārgumu; kur ir Tavs spēks, ak Tu, Kas Savā rokā turi varu pār debesīm un pār zemi?
@@ -1145,6 +1413,8 @@ Savā vēlībā dāvā man, ak Kungs, to, kas ļaus man plaukt un zelt šajā un
 
 (Source category: Uzticība Derībai)
 (Bahaiprayers.net ID: 2430)
+
+
 
 
 
@@ -1159,12 +1429,16 @@ Patiesi, Tu esi varenais Dievs, Palīgs briesmās, Visgodātais, Visspēcīgais.
 (Bahaiprayers.net ID: 2431)
 
 
+
+
 ### <a id="bpn2432"></a> Prayer bpn2432 in Latviešu
 Esi slavēts, ak Dievs, mans Kungs! Tā vārdā Kas ir Visdižākais no Taviem Vārdiem, Kam gauži pāri darījuši tie, kas atstūmuši Tavu patiesību, Kuru ielenc bēdas, ko neviena mēle nespēj aprakstīt, es Tevi lūdzu, palīdzi man vienmēr atcerēties un slavēt Tevi šajās dienās, kad visi ir novērsušies no Tavas Dailes, apstrīd Tevi un nicinājumā pagriezuši muguru Tavas Mācības Atklājējam. Ak mans Kungs, nav neviena cita, kas Tavu Mācību atbalsta, kā vien Tevis Paša vara.
 Es lūdzu Tevi, ļauj man cieši turēties pie Tavas mīlestības un vienmēr atcerēties Tevi. Tas, patiesi, ir manos spēkos, un Tu vienīgais zini, ko es spēju. Patiesi, Tu esi Zinošais un Viedais. Nelaupi man, ak mans Kungs, Sava gaišā vaiga mirdzumu, kas apspīd visu pasauli. Nav neviena cita Dieva bez Tevis, Visspēcīgā, Viscildenā, Mūžam Piedodošā.
 
 (Source category: Uzticība Mācībai)
 (Bahaiprayers.net ID: 2432)
+
+
 
 
 
@@ -1179,6 +1453,8 @@ Nav cita Dieva bez Tevis, Visvarenā, Visu Pakļāvēja, Neatkarīgā.
 (Bahaiprayers.net ID: 2437)
 
 
+
+
 ### <a id="bpn2438"></a> Prayer bpn2438 in Latviešu
 Kā gan man gulēt, ak Dievs, mans Dievs, ja acis ir nomodā tiem, kas atšķirtībā ilgojas pēc Tevis, un kā gan iet man pie miera, ja dvēseles ir gauži satrauktas tiem, kas tālumā no Tevis Tevi mīl?
 Tavā stiprajā labajā rokā, ak mans Kungs, un Tavā gādībā es nododu savu garu un visu savu būtni, un Tu man dod spēku nolikt galvu uz spilvena un to no tā atkal pacelt pēc Tavas gribas un vēlmes. Patiesi, Tu esi Saglabātājs, Sargātājs, Visvarenais, Visspēcīgais.
@@ -1186,6 +1462,8 @@ Pie Tavas varenības! Vai esmu nomodā, vai guļu, es lūdzu tikai to, kas tīka
 
 (Source category: Vakars)
 (Bahaiprayers.net ID: 2438)
+
+
 
 
 ### <a id="bpn2433"></a> Prayer bpn2433 in Latviešu
@@ -1196,6 +1474,8 @@ Tu esi Spēcīgais, Žēlīgais, Pats par Sevi Pastāvošais, Līdzjūtīgais, V
 (Bahaiprayers.net ID: 2433)
 
 
+
+
 ### <a id="bpn2434"></a> Prayer bpn2434 in Latviešu
 Dari stingrus mūsu soļus, ak Kungs, Tavu ceļu ejot, un dari mūsu sirdis stipras, Tevi klausot. Vērs mūsu skatus uz Tavas vienesmes skaistumu un priecē mūsu sirdis ar Savas dievišķās vienības zīmēm. Rotā mūsu miesas ar Sava dāsnuma tērpu un noņem no mūsu acīm grēcīguma plīvuru, un sniedz mums Savas žēlastības kausu tā, lai, Tavu augstsirdību redzot, visas radības būtība dzied Tev slavu. Atklājies jel, ak Kungs, Savos žēlsirdības Vārdos un Savas dievišķās Esības neizdibināmībā, lai lūgsnu svētā jūsma pilda mūsu dvēseles, kas celsies pār vārdiem un burtiem, un pārvarēs zilbju un skaņu šalkoņu, un lai Tavas godības atklāšanās priekšā visas lietas iegrimtu nebūtībā.
 Kungs, šeit ir Tavi kalpi, kas ir palikuši stingri uzticībā Tavam Novēlējumam un Tavai Derībai, kas ir cieši turējušies pie Tavas Mācības kā pie drošības saites un tvērušies Tavas godības tērpa pavēnī. Savā vēlībā, palīdzi viņiem, ak Kungs, iedrošini viņus ar Savu atzinību, un lai tiem par spēka jostu kļūst paklausība Tev.
@@ -1203,6 +1483,8 @@ Tu esi Piedevējs, Tu esi Žēlotājs.
 
 (Source category: Vakars)
 (Bahaiprayers.net ID: 2434)
+
+
 
 
 ### <a id="bpn2435"></a> Prayer bpn2435 in Latviešu
@@ -1218,6 +1500,8 @@ Es lūdzu Tevi, ak visas esības Kungs, un visa redzamā un neredzamā Ķēniņ�
 (Bahaiprayers.net ID: 2435)
 
 
+
+
 ### <a id="bpn2436"></a> Prayer bpn2436 in Latviešu
 Ak līdzjūtīgais Dievs! Lai Tev pateicība par to, ka esi atmodinājis mani un devis man apziņu. Tu esi man dāvājis acis, kas redz, ausis, kas dzird, Tu esi mani atvedis uz Savu Ķēniņvalsti un vadījis mani pa Savu Taku. Tu esi man rādījis pareizo ceļu un ļāvis man tverties Pestīšanas Šķirstā.
 Ak Dievs! Liec man būt uzticīgam, stingram un nelokāmam. Tu esi spēcīgs, Tu esi redzošs, Tu esi dzirdīgs! Tu esi Dievs, Tu jūti līdzi. Dod man tādu sirdi, kurā kā spogulī atspīd Tavas mīlestības gaisma, un piešķir man domu, kas caur gara dāsnumu var šo pasauli vērst rožu dārzā. Tu esi Līdzjūtīgais, Tu esi Žēlsirdīgais, Tu esi augstsirdīgais Dievs!
@@ -1225,6 +1509,8 @@ Aiztaupi man smagus pārbaudījumus un dod man pajumti, un sargā mani Savā sti
 
 (Source category: Vakars)
 (Bahaiprayers.net ID: 2436)
+
+
 
 
 ### <a id="bpn2439"></a> Prayer bpn2439 in Latviešu
@@ -1235,6 +1521,8 @@ Patiesi, Tu esi Devējs, Dāsnais, Žēlīgais, Piedodošais!
 
 (Source category: Vakars)
 (Bahaiprayers.net ID: 2439)
+
+
 
 
 
@@ -1281,6 +1569,8 @@ Es apliecinu Tavu vienību un vienesmi, un to, ka Tu esi Dievs un ka nav cita Di
 
 
 
+
+
 ## Vienotība
 
 ### <a id="bpn2440"></a> Prayer bpn2440 in Latviešu
@@ -1291,12 +1581,16 @@ Patiesi, Tu esi viņu Palīgs un viņu Kungs.
 (Bahaiprayers.net ID: 2440)
 
 
+
+
 ### <a id="bpn2441"></a> Prayer bpn2441 in Latviešu
 Ak mans Dievs, ak mans Dievs! Patiesi, es piesaucu Tevi un lūdzu pie Tava sliekšņa, lai Tava žēlastība nolaižas pār šīm dvēselēm. Izraugi viņas Savai labestībai un Savai patiesībai, ak Kungs, apvieno viņu sirdis, liec skanēt saskaņā visām dvēselēm, pacilā viņu garu ar Sava svētuma un vienesmes zīmēm. Ak Kungs! Liec sejām starot Tavas vienesmes gaismā. Lai kalpošana Tavai Ķēniņvalstij kļūst par spēka jostu Taviem kalpiem. Ak Kungs! Bezgala žēlīgais! Ak piedodošais un attaisnojošais Dievs! Piedod mums mūsu grēkus un trūkumus un liec mums pievērsties Tavas maigās žēlsirdības Ķēniņvalstij, piesaukt Tavu stipro un vareno valstību, zemoties Tava altāra priekšā un pakļauties Tavu zīmju spožumam. Ak Kungs! Ar Savas mīlestības dāsnumu liec mums būt vienotiem un saskaņā kā viļņiem jūrā, kā ziediem dārzā. Ak Kungs! Ar Savas vienesmes zīmēm liec krūtīm elpā celties un vērt cilvēkus zvaigznēs, kas atmirdz no vieniem un tiem pašiem godības augstumiem, skaistos augļos, kas aug Tavā dzīvības Kokā.
 Patiesi, Tu esi Varenais, Pats par Sevi Pastāvošais, Devējs, Piedevējs, Attaisnotājs, Viszinošais, Vienīgais Radītājs!
 
 (Source category: Vienotība)
 (Bahaiprayers.net ID: 2441)
+
+
 
 
 
@@ -1328,6 +1622,8 @@ Patiesi, Viņš ir Žēlīgais, Viņš ir Līdzcietīgais. Slava Dievam, visu Pa
 
 
 
+
+
 ## Īsā obligātā lūgšana
 
 ### <a id="bpn2348"></a> Prayer bpn2348 in Latviešu
@@ -1342,6 +1638,9 @@ Nav neviena cita Dieva bez Tevis, Palīga briesmās, Paša par Sevi Pastāvošā
 
 (Source category: Īsā obligātā lūgšana)
 (Bahaiprayers.net ID: 2348)
+
+
+
 
 
 

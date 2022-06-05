@@ -3,6 +3,88 @@ title = "한국어"
 tags = ['lang=ko', 'prayerbook']
 +++
 
+
+
+[「아흐마드」의 서한](#「아흐마드」의 서한)
+
+[가족](#가족)
+
+[결혼](#결혼)
+
+[기금](#기금)
+
+[깨우침](#깨우침)
+
+[노우루즈](#노우루즈)
+
+[단편 필수기도](#단편 필수기도)
+
+[대업의 승리](#대업의 승리)
+
+[망자](#망자)
+
+[보호](#보호)
+
+[봉사](#봉사)
+
+[불의 서한](#불의 서한)
+
+[선교](#선교)
+
+[성스런 수부(水夫)의 서한](#성스런 수부(水夫)의 서한)
+
+[성약](#성약)
+
+[세속을 끊음](#세속을 끊음)
+
+[시녀](#시녀)
+
+[시련과 고난](#시련과 고난)
+
+[신성회](#신성회)
+
+[아침](#아침)
+
+[알현의 서한](#알현의 서한)
+
+[어린이와 청소년](#어린이와 청소년)
+
+[여행](#여행)
+
+[용서](#용서)
+
+[원조](#원조)
+
+[융합](#융합)
+
+[이 영혼을](#이 영혼을)
+
+[인도](#인도)
+
+[인류](#인류)
+
+[자정 및 저녁](#자정 및 저녁)
+
+[장편 필수기도](#장편 필수기도)
+
+[정신적 품성](#정신적 품성)
+
+[중편 필수기도](#중편 필수기도)
+
+[집회](#집회)
+
+[찬송과 감사](#찬송과 감사)
+
+[치유](#치유)
+
+[하느님께 다가감](#하느님께 다가감)
+
+[호꾸꼴라: 하느님의 권리](#호꾸꼴라: 하느님의 권리)
+
+[확고한 믿음](#확고한 믿음)
+
+
+
 ## 「아흐마드」의 서한
 
 ### <a id="bpn6659"></a> Prayer bpn6659 in 한국어
@@ -30,6 +112,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 가족
 
 ### <a id="bpn6485"></a> Prayer bpn6485 in 한국어
@@ -45,6 +129,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6485)
 
 
+
+
 ### <a id="bpn6486"></a> Prayer bpn6486 in 한국어
 저희들과 저희들의 부모들을 용서
 
@@ -52,6 +138,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 가족)
 (Bahaiprayers.net ID: 6486)
+
+
 
 
 ### <a id="bpn6484"></a> Prayer bpn6484 in 한국어
@@ -65,6 +153,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6484)
 
 
+
+
 ### <a id="bpn6487"></a> Prayer bpn6487 in 한국어
 저희들의 죄를,저와 저의 부모를 용서,주님의 사랑의 거처로 들어온 이들을 모두 용서
 
@@ -75,6 +165,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6487)
 
 
+
+
 ### <a id="bpn6488"></a> Prayer bpn6488 in 한국어
 ##이 아들은,  저의 아버지를
 
@@ -82,6 +174,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 가족)
 (Bahaiprayers.net ID: 6488)
+
+
 
 
 ### <a id="bpn6489"></a> Prayer bpn6489 in 한국어
@@ -96,6 +190,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6489)
 
 
+
+
 ### <a id="bpn6490"></a> Prayer bpn6490 in 한국어
 ##제 뱃속에 있는 아이를
 
@@ -105,6 +201,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 가족)
 (Bahaiprayers.net ID: 6490)
+
+
 
 
 
@@ -130,6 +228,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6492)
 
 
+
+
 ### <a id="bpn6493"></a> Prayer bpn6493 in 한국어
 주님의 이 종과 이 시녀는
 
@@ -137,6 +237,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 결혼)
 (Bahaiprayers.net ID: 6493)
+
+
 
 
 ### <a id="bpn6494"></a> Prayer bpn6494 in 한국어
@@ -147,6 +249,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 결혼)
 (Bahaiprayers.net ID: 6494)
+
+
 
 
 
@@ -166,6 +270,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 깨우침
 
 ### <a id="bpn6491"></a> Prayer bpn6491 in 한국어
@@ -177,6 +283,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 깨우침)
 (Bahaiprayers.net ID: 6491)
+
+
 
 
 
@@ -194,6 +302,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 노우루즈)
 (Bahaiprayers.net ID: 6652)
+
+
 
 
 ### <a id="bpn6653"></a> Prayer bpn6653 in 한국어
@@ -217,6 +327,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6653)
 
 
+
+
 ### <a id="bpn6654"></a> Prayer bpn6654 in 한국어
 저희들과 그들에게....., 제가 비오니,
 … 주께서 사랑하시는 이들을 높이 끌어 올려 줄 것을...,
@@ -233,6 +345,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 노우루즈)
 (Bahaiprayers.net ID: 6654)
+
+
 
 
 ### <a id="bpn6655"></a> Prayer bpn6655 in 한국어
@@ -256,6 +370,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6655)
 
 
+
+
 ### <a id="bpn6656"></a> Prayer bpn6656 in 한국어
 저의 영혼을
 
@@ -263,6 +379,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 노우루즈)
 (Bahaiprayers.net ID: 6656)
+
+
 
 
 
@@ -286,6 +404,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 대업의 승리
 
 ### <a id="bpn6496"></a> Prayer bpn6496 in 한국어
@@ -300,6 +420,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6496)
 
 
+
+
 ### <a id="bpn6497"></a> Prayer bpn6497 in 한국어
 주님의 종들을
 
@@ -312,6 +434,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6497)
 
 
+
+
 ### <a id="bpn6498"></a> Prayer bpn6498 in 한국어
 땅위의 모든 백성들이
 
@@ -320,6 +444,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 대업의 승리)
 (Bahaiprayers.net ID: 6498)
+
+
 
 
 ### <a id="bpn6499"></a> Prayer bpn6499 in 한국어
@@ -332,6 +458,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 대업의 승리)
 (Bahaiprayers.net ID: 6499)
+
+
 
 
 
@@ -359,6 +487,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 보호
 
 ### <a id="bpn6505"></a> Prayer bpn6505 in 한국어
@@ -371,6 +501,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6505)
 
 
+
+
 ### <a id="bpn6506"></a> Prayer bpn6506 in 한국어
 저 자신과... 저를 사랑하는 이들에게 힘을, 저와 제가 사랑하는 이들을
 
@@ -378,6 +510,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 보호)
 (Bahaiprayers.net ID: 6506)
+
+
 
 
 ### <a id="bpn6507"></a> Prayer bpn6507 in 한국어
@@ -391,6 +525,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6507)
 
 
+
+
 ### <a id="bpn6508"></a> Prayer bpn6508 in 한국어
 저와 저의 친족들을
 
@@ -400,6 +536,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 보호)
 (Bahaiprayers.net ID: 6508)
+
+
 
 
 ### <a id="bpn6509"></a> Prayer bpn6509 in 한국어
@@ -413,6 +551,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6509)
 
 
+
+
 ### <a id="bpn6510"></a> Prayer bpn6510 in 한국어
 저와 믿는 이들에게
 
@@ -421,6 +561,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 보호)
 (Bahaiprayers.net ID: 6510)
+
+
 
 
 ### <a id="bpn6511"></a> Prayer bpn6511 in 한국어
@@ -434,6 +576,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6511)
 
 
+
+
 ### <a id="bpn6512"></a> Prayer bpn6512 in 한국어
 저를
 
@@ -445,6 +589,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6512)
 
 
+
+
 ### <a id="bpn6513"></a> Prayer bpn6513 in 한국어
 주께서 신임하시는 종들을
 
@@ -452,6 +598,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 보호)
 (Bahaiprayers.net ID: 6513)
+
+
 
 
 
@@ -465,6 +613,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 봉사)
 (Bahaiprayers.net ID: 6514)
+
+
 
 
 
@@ -530,6 +680,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 선교
 
 ### <a id="bpn6515"></a> Prayer bpn6515 in 한국어
@@ -544,6 +696,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6515)
 
 
+
+
 ### <a id="bpn6516"></a> Prayer bpn6516 in 한국어
 저를 도우사 제가
 
@@ -553,6 +707,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 선교)
 (Bahaiprayers.net ID: 6516)
+
+
 
 
 ### <a id="bpn6517"></a> Prayer bpn6517 in 한국어
@@ -566,6 +722,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6517)
 
 
+
+
 ### <a id="bpn6518"></a> Prayer bpn6518 in 한국어
 그들이 주님의 말씀을 주님의 종들에게
 
@@ -576,6 +734,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 선교)
 (Bahaiprayers.net ID: 6518)
+
+
 
 
 ### <a id="bpn6519"></a> Prayer bpn6519 in 한국어
@@ -593,6 +753,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6519)
 
 
+
+
 ### <a id="bpn6520"></a> Prayer bpn6520 in 한국어
 이 사람은 날개가 꺾인 새, 저를
 
@@ -601,6 +763,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 선교)
 (Bahaiprayers.net ID: 6520)
+
+
 
 
 ### <a id="bpn6521"></a> Prayer bpn6521 in 한국어
@@ -617,6 +781,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6521)
 
 
+
+
 ### <a id="bpn6522"></a> Prayer bpn6522 in 한국어
 저는 미천하고 약한 자이오나
 
@@ -624,6 +790,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 선교)
 (Bahaiprayers.net ID: 6522)
+
+
 
 
 ### <a id="bpn6523"></a> Prayer bpn6523 in 한국어
@@ -635,6 +803,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6523)
 
 
+
+
 ### <a id="bpn6524"></a> Prayer bpn6524 in 한국어
 주님의 신임 받는 종들을 도우사
 
@@ -642,6 +812,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 선교)
 (Bahaiprayers.net ID: 6524)
+
+
 
 
 ### <a id="bpn6525"></a> Prayer bpn6525 in 한국어
@@ -655,6 +827,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6525)
 
 
+
+
 ### <a id="bpn6526"></a> Prayer bpn6526 in 한국어
 이 영혼들은 주님의 하늘나라 군대
 
@@ -664,6 +838,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 선교)
 (Bahaiprayers.net ID: 6526)
+
+
 
 
 ### <a id="bpn6527"></a> Prayer bpn6527 in 한국어
@@ -677,6 +853,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6527)
 
 
+
+
 ### <a id="bpn6528"></a> Prayer bpn6528 in 한국어
 그들을 도와 주시와
 
@@ -686,6 +864,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 선교)
 (Bahaiprayers.net ID: 6528)
+
+
 
 
 
@@ -820,6 +1000,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 성약
 
 ### <a id="bpn6529"></a> Prayer bpn6529 in 한국어
@@ -834,6 +1016,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6529)
 
 
+
+
 ### <a id="bpn6530"></a> Prayer bpn6530 in 한국어
 저로 하여금
 
@@ -843,6 +1027,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 성약)
 (Bahaiprayers.net ID: 6530)
+
+
 
 
 ### <a id="bpn6531"></a> Prayer bpn6531 in 한국어
@@ -856,6 +1042,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6531)
 
 
+
+
 ### <a id="bpn6532"></a> Prayer bpn6532 in 한국어
 저를
 
@@ -867,6 +1055,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6532)
 
 
+
+
 ### <a id="bpn6533"></a> Prayer bpn6533 in 한국어
 주님의 사랑받는 이들을
 
@@ -875,6 +1065,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 성약)
 (Bahaiprayers.net ID: 6533)
+
+
 
 
 
@@ -891,6 +1083,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6534)
 
 
+
+
 ### <a id="bpn6535"></a> Prayer bpn6535 in 한국어
 저는
 
@@ -902,6 +1096,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 세속을 끊음)
 (Bahaiprayers.net ID: 6535)
+
+
 
 
 ### <a id="bpn6536"></a> Prayer bpn6536 in 한국어
@@ -916,6 +1112,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6536)
 
 
+
+
 ### <a id="bpn6537"></a> Prayer bpn6537 in 한국어
 저를, 저희로 하여금
 
@@ -925,6 +1123,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 세속을 끊음)
 (Bahaiprayers.net ID: 6537)
+
+
 
 
 ### <a id="bpn6538"></a> Prayer bpn6538 in 한국어
@@ -939,6 +1139,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6538)
 
 
+
+
 ### <a id="bpn6539"></a> Prayer bpn6539 in 한국어
 제가
 
@@ -949,6 +1151,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 세속을 끊음)
 (Bahaiprayers.net ID: 6539)
+
+
 
 
 ### <a id="bpn6540"></a> Prayer bpn6540 in 한국어
@@ -963,6 +1167,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6540)
 
 
+
+
 ### <a id="bpn6541"></a> Prayer bpn6541 in 한국어
 저로 하여금
 
@@ -973,6 +1179,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 세속을 끊음)
 (Bahaiprayers.net ID: 6541)
+
+
 
 
 
@@ -989,6 +1197,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6542)
 
 
+
+
 ### <a id="bpn6543"></a> Prayer bpn6543 in 한국어
 저는 주님의 시녀들 중 하나, .... 저희들을
 
@@ -1001,6 +1211,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6543)
 
 
+
+
 ### <a id="bpn6544"></a> Prayer bpn6544 in 한국어
 왕국의 이 딸에게, 그를
 
@@ -1011,6 +1223,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6544)
 
 
+
+
 ### <a id="bpn6545"></a> Prayer bpn6545 in 한국어
 주님의 이 어린 시녀를, 그를
 
@@ -1018,6 +1232,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 시녀)
 (Bahaiprayers.net ID: 6545)
+
+
 
 
 
@@ -1033,6 +1249,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6546)
 
 
+
+
 ### <a id="bpn6547"></a> Prayer bpn6547 in 한국어
 저의 슬픔을 없애 주시옵고
 
@@ -1042,6 +1260,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 시련과 고난)
 (Bahaiprayers.net ID: 6547)
+
+
 
 
 ### <a id="bpn6548"></a> Prayer bpn6548 in 한국어
@@ -1056,6 +1276,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6548)
 
 
+
+
 ### <a id="bpn6549"></a> Prayer bpn6549 in 한국어
 저희에게
 
@@ -1063,6 +1285,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 시련과 고난)
 (Bahaiprayers.net ID: 6549)
+
+
 
 
 ### <a id="bpn6550"></a> Prayer bpn6550 in 한국어
@@ -1076,6 +1300,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6550)
 
 
+
+
 ### <a id="bpn6551"></a> Prayer bpn6551 in 한국어
 주께서 사랑하는 이들과 저를
 
@@ -1087,6 +1313,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6551)
 
 
+
+
 ### <a id="bpn6552"></a> Prayer bpn6552 in 한국어
 하느님께서는
 
@@ -1094,6 +1322,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 시련과 고난)
 (Bahaiprayers.net ID: 6552)
+
+
 
 
 ### <a id="bpn6553"></a> Prayer bpn6553 in 한국어
@@ -1105,6 +1335,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6553)
 
 
+
+
 ### <a id="bpn6554"></a> Prayer bpn6554 in 한국어
 시련의 때에 제가 아무런 해를
 
@@ -1112,6 +1344,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 시련과 고난)
 (Bahaiprayers.net ID: 6554)
+
+
 
 
 ### <a id="bpn6555"></a> Prayer bpn6555 in 한국어
@@ -1122,6 +1356,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 시련과 고난)
 (Bahaiprayers.net ID: 6555)
+
+
 
 
 
@@ -1137,6 +1373,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6556)
 
 
+
+
 ### <a id="bpn6557"></a> Prayer bpn6557 in 한국어
 그대들은 합금이 아닌 순금의 기쁨 속에 함께 모여서, 회의 서두에 이 기도를 낭송하라:
 
@@ -1146,6 +1384,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 신성회)
 (Bahaiprayers.net ID: 6557)
+
+
 
 
 ### <a id="bpn6558"></a> Prayer bpn6558 in 한국어
@@ -1159,6 +1399,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 아침
 
 ### <a id="bpn6559"></a> Prayer bpn6559 in 한국어
@@ -1168,6 +1410,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 아침)
 (Bahaiprayers.net ID: 6559)
+
+
 
 
 ### <a id="bpn6560"></a> Prayer bpn6560 in 한국어
@@ -1183,6 +1427,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6560)
 
 
+
+
 ### <a id="bpn6561"></a> Prayer bpn6561 in 한국어
 저와 제가 사랑하는 이들과 저의 친족들을, 그분을 축복, 주님의 낱말, 주님의 문자인 분들을, 얼굴을 주님께로 돌려 주님의 부르심을 듣는 이들을
 
@@ -1196,6 +1442,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 아침)
 (Bahaiprayers.net ID: 6561)
+
+
 
 
 
@@ -1220,6 +1468,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6660)
 
 
+
+
 ### <a id="bpn6662"></a> Prayer bpn6662 in 한국어
 윤일 기도
 월26일부터 3월1일까지의 윤일은 단식을 위 한 준비기간이고, 이 동안에 접대와 자선을 하고 선물을 주기도 한다.
@@ -1234,6 +1484,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 알현의 서한)
 (Bahaiprayers.net ID: 6662)
+
+
 
 
 ### <a id="bpn6661"></a> Prayer bpn6661 in 한국어
@@ -1256,6 +1508,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 어린이와 청소년
 
 ### <a id="bpn6562"></a> Prayer bpn6562 in 한국어
@@ -1270,6 +1524,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6562)
 
 
+
+
 ### <a id="bpn6563"></a> Prayer bpn6563 in 한국어
 저를 이끌어 주시옵고
 
@@ -1277,6 +1533,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 어린이와 청소년)
 (Bahaiprayers.net ID: 6563)
+
+
 
 
 ### <a id="bpn6564"></a> Prayer bpn6564 in 한국어
@@ -1289,6 +1547,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6564)
 
 
+
+
 ### <a id="bpn6565"></a> Prayer bpn6565 in 한국어
 저는 아직 어린 아이옵니다
 
@@ -1297,6 +1557,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 어린이와 청소년)
 (Bahaiprayers.net ID: 6565)
+
+
 
 
 ### <a id="bpn6566"></a> Prayer bpn6566 in 한국어
@@ -1308,6 +1570,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6566)
 
 
+
+
 ### <a id="bpn6567"></a> Prayer bpn6567 in 한국어
 이 불쌍한 어린이를, 이 그릇되고 불행한 영혼에게
 
@@ -1315,6 +1579,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 어린이와 청소년)
 (Bahaiprayers.net ID: 6567)
+
+
 
 
 ### <a id="bpn6568"></a> Prayer bpn6568 in 한국어
@@ -1326,6 +1592,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6568)
 
 
+
+
 ### <a id="bpn6569"></a> Prayer bpn6569 in 한국어
 이 젊은이를, 이 미천한 이에게
 
@@ -1333,6 +1601,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 어린이와 청소년)
 (Bahaiprayers.net ID: 6569)
+
+
 
 
 ### <a id="bpn6570"></a> Prayer bpn6570 in 한국어
@@ -1343,6 +1613,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 어린이와 청소년)
 (Bahaiprayers.net ID: 6570)
+
+
 
 
 
@@ -1359,6 +1631,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6571)
 
 
+
+
 ### <a id="bpn6572"></a> Prayer bpn6572 in 한국어
 저는 집을 나왔사오며... 집으로 돌아갈 수 있게
 
@@ -1366,6 +1640,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 여행)
 (Bahaiprayers.net ID: 6572)
+
+
 
 
 
@@ -1381,6 +1657,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6573)
 
 
+
+
 ### <a id="bpn6574"></a> Prayer bpn6574 in 한국어
 저는 죄인
 
@@ -1390,6 +1668,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 용서)
 (Bahaiprayers.net ID: 6574)
+
+
 
 
 ### <a id="bpn6575"></a> Prayer bpn6575 in 한국어
@@ -1405,6 +1685,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6575)
 
 
+
+
 ### <a id="bpn6576"></a> Prayer bpn6576 in 한국어
 저를, 주님의 종들과 시녀들을
 
@@ -1416,6 +1698,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6576)
 
 
+
+
 ### <a id="bpn6577"></a> Prayer bpn6577 in 한국어
 제가 용서를
 
@@ -1423,6 +1707,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 용서)
 (Bahaiprayers.net ID: 6577)
+
+
 
 
 ### <a id="bpn6578"></a> Prayer bpn6578 in 한국어
@@ -1433,6 +1719,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 용서)
 (Bahaiprayers.net ID: 6578)
+
+
 
 
 ### <a id="bpn6579"></a> Prayer bpn6579 in 한국어
@@ -1447,6 +1735,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6579)
 
 
+
+
 ### <a id="bpn6580"></a> Prayer bpn6580 in 한국어
 저희들의 죄를, 믿은 이들을
 
@@ -1456,6 +1746,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6580)
 
 
+
+
 ### <a id="bpn6581"></a> Prayer bpn6581 in 한국어
 저희들은 모두 죄인
 
@@ -1463,6 +1755,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 용서)
 (Bahaiprayers.net ID: 6581)
+
+
 
 
 
@@ -1478,6 +1772,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6582)
 
 
+
+
 ### <a id="bpn6583"></a> Prayer bpn6583 in 한국어
 언제나, 어떤 경우에도 저를 도와주시기를
 
@@ -1486,6 +1782,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 원조)
 (Bahaiprayers.net ID: 6583)
+
+
 
 
 ### <a id="bpn6584"></a> Prayer bpn6584 in 한국어
@@ -1497,6 +1795,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6584)
 
 
+
+
 ### <a id="bpn6585"></a> Prayer bpn6585 in 한국어
 저를
 
@@ -1506,6 +1806,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6585)
 
 
+
+
 ### <a id="bpn6586"></a> Prayer bpn6586 in 한국어
 제가 주님 밖에는 아무에게도 의존하지 않게
 
@@ -1513,6 +1815,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 원조)
 (Bahaiprayers.net ID: 6586)
+
+
 
 
 ### <a id="bpn6587"></a> Prayer bpn6587 in 한국어
@@ -1527,6 +1831,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6587)
 
 
+
+
 ### <a id="bpn6588"></a> Prayer bpn6588 in 한국어
 저희가 미천하오니, 이 나약한 자에게도
 
@@ -1536,6 +1842,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 원조)
 (Bahaiprayers.net ID: 6588)
+
+
 
 
 ### <a id="bpn6589"></a> Prayer bpn6589 in 한국어
@@ -1549,6 +1857,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6589)
 
 
+
+
 ### <a id="bpn6590"></a> Prayer bpn6590 in 한국어
 저희는
 
@@ -1559,6 +1869,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6590)
 
 
+
+
 ### <a id="bpn6591"></a> Prayer bpn6591 in 한국어
 저희는 약하오니
 
@@ -1566,6 +1878,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 원조)
 (Bahaiprayers.net ID: 6591)
+
+
 
 
 
@@ -1580,6 +1894,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6592)
 
 
+
+
 ### <a id="bpn6593"></a> Prayer bpn6593 in 한국어
 주님의 종들의 마음을 통합시켜
 
@@ -1588,6 +1904,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 융합)
 (Bahaiprayers.net ID: 6593)
+
+
 
 
 ### <a id="bpn6594"></a> Prayer bpn6594 in 한국어
@@ -1600,6 +1918,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6594)
 
 
+
+
 ### <a id="bpn6595"></a> Prayer bpn6595 in 한국어
 제가 고백하오니 주님께는 온 세계를 다시 소생시키는 일과 인류통합을 확립하는 일과
 
@@ -1607,6 +1927,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 융합)
 (Bahaiprayers.net ID: 6595)
+
+
 
 
 ### <a id="bpn6596"></a> Prayer bpn6596 in 한국어
@@ -1620,6 +1942,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 융합)
 (Bahaiprayers.net ID: 6596)
+
+
 
 
 
@@ -1638,6 +1962,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6501)
 
 
+
+
 ### <a id="bpn6502"></a> Prayer bpn6502 in 한국어
 그이를
 
@@ -1651,6 +1977,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6502)
 
 
+
+
 ### <a id="bpn6503"></a> Prayer bpn6503 in 한국어
 그들을
 
@@ -1662,6 +1990,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6503)
 
 
+
+
 ### <a id="bpn6504"></a> Prayer bpn6504 in 한국어
 주님의 이 종은
 
@@ -1671,6 +2001,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 이 영혼을)
 (Bahaiprayers.net ID: 6504)
+
+
 
 
 
@@ -1686,6 +2018,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6597)
 
 
+
+
 ### <a id="bpn6598"></a> Prayer bpn6598 in 한국어
 저희가, 그들이, 모든 사람들에게
 
@@ -1698,6 +2032,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6598)
 
 
+
+
 ### <a id="bpn6599"></a> Prayer bpn6599 in 한국어
 저희가 비오니, 길을 잘못 든 이들을... 주님의 종들을
 
@@ -1705,6 +2041,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 인도)
 (Bahaiprayers.net ID: 6599)
+
+
 
 
 
@@ -1721,6 +2059,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6600)
 
 
+
+
 ### <a id="bpn6601"></a> Prayer bpn6601 in 한국어
 저희들은
 
@@ -1728,6 +2068,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 인류)
 (Bahaiprayers.net ID: 6601)
+
+
 
 
 ### <a id="bpn6602"></a> Prayer bpn6602 in 한국어
@@ -1746,6 +2088,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 자정 및 저녁
 
 ### <a id="bpn6603"></a> Prayer bpn6603 in 한국어
@@ -1759,6 +2103,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6603)
 
 
+
+
 ### <a id="bpn6604"></a> Prayer bpn6604 in 한국어
 제가
 
@@ -1768,6 +2114,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 자정 및 저녁)
 (Bahaiprayers.net ID: 6604)
+
+
 
 
 ### <a id="bpn6605"></a> Prayer bpn6605 in 한국어
@@ -1780,6 +2128,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 자정 및 저녁)
 (Bahaiprayers.net ID: 6605)
+
+
 
 
 
@@ -1853,6 +2203,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 정신적 품성
 
 ### <a id="bpn6606"></a> Prayer bpn6606 in 한국어
@@ -1867,6 +2219,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6606)
 
 
+
+
 ### <a id="bpn6607"></a> Prayer bpn6607 in 한국어
 저를
 
@@ -1876,6 +2230,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 정신적 품성)
 (Bahaiprayers.net ID: 6607)
+
+
 
 
 ### <a id="bpn6608"></a> Prayer bpn6608 in 한국어
@@ -1888,6 +2244,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6608)
 
 
+
+
 ### <a id="bpn6609"></a> Prayer bpn6609 in 한국어
 저에게
 
@@ -1895,6 +2253,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 정신적 품성)
 (Bahaiprayers.net ID: 6609)
+
+
 
 
 ### <a id="bpn6610"></a> Prayer bpn6610 in 한국어
@@ -1907,6 +2267,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6610)
 
 
+
+
 ### <a id="bpn6611"></a> Prayer bpn6611 in 한국어
 주님의 아름다움을 저의 먹을 것으로
 
@@ -1915,6 +2277,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 정신적 품성)
 (Bahaiprayers.net ID: 6611)
+
+
 
 
 ### <a id="bpn6612"></a> Prayer bpn6612 in 한국어
@@ -1931,6 +2295,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6612)
 
 
+
+
 ### <a id="bpn6620"></a> Prayer bpn6620 in 한국어
 정의
 저의 머리에
@@ -1939,6 +2305,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 정신적 품성)
 (Bahaiprayers.net ID: 6620)
+
+
 
 
 ### <a id="bpn6613"></a> Prayer bpn6613 in 한국어
@@ -1953,6 +2321,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6613)
 
 
+
+
 ### <a id="bpn6614"></a> Prayer bpn6614 in 한국어
 저를
 
@@ -1965,6 +2335,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6614)
 
 
+
+
 ### <a id="bpn6615"></a> Prayer bpn6615 in 한국어
 이 사람은
 
@@ -1972,6 +2344,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 정신적 품성)
 (Bahaiprayers.net ID: 6615)
+
+
 
 
 ### <a id="bpn6616"></a> Prayer bpn6616 in 한국어
@@ -1986,6 +2360,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6616)
 
 
+
+
 ### <a id="bpn6617"></a> Prayer bpn6617 in 한국어
 이 종은, 그를
 
@@ -1994,6 +2370,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 정신적 품성)
 (Bahaiprayers.net ID: 6617)
+
+
 
 
 ### <a id="bpn6618"></a> Prayer bpn6618 in 한국어
@@ -2007,6 +2385,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6618)
 
 
+
+
 ### <a id="bpn6619"></a> Prayer bpn6619 in 한국어
 이 사람들은
 
@@ -2017,6 +2397,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 정신적 품성)
 (Bahaiprayers.net ID: 6619)
+
+
 
 
 
@@ -2065,6 +2447,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 집회
 
 ### <a id="bpn6621"></a> Prayer bpn6621 in 한국어
@@ -2077,6 +2461,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6621)
 
 
+
+
 ### <a id="bpn6622"></a> Prayer bpn6622 in 한국어
 이 종들은, 그들은
 
@@ -2085,6 +2471,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 집회)
 (Bahaiprayers.net ID: 6622)
+
+
 
 
 ### <a id="bpn6623"></a> Prayer bpn6623 in 한국어
@@ -2098,6 +2486,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6623)
 
 
+
+
 ### <a id="bpn6624"></a> Prayer bpn6624 in 한국어
 이 영혼들을
 
@@ -2106,6 +2496,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 집회)
 (Bahaiprayers.net ID: 6624)
+
+
 
 
 ### <a id="bpn6625"></a> Prayer bpn6625 in 한국어
@@ -2121,6 +2513,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 찬송과 감사
 
 ### <a id="bpn6626"></a> Prayer bpn6626 in 한국어
@@ -2131,6 +2525,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 찬송과 감사)
 (Bahaiprayers.net ID: 6626)
+
+
 
 
 ### <a id="bpn6627"></a> Prayer bpn6627 in 한국어
@@ -2145,6 +2541,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6627)
 
 
+
+
 ### <a id="bpn6628"></a> Prayer bpn6628 in 한국어
 주님께 찬송, 주님의 종들의 얼굴을
 
@@ -2152,6 +2550,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 찬송과 감사)
 (Bahaiprayers.net ID: 6628)
+
+
 
 
 ### <a id="bpn6629"></a> Prayer bpn6629 in 한국어
@@ -2165,6 +2565,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6629)
 
 
+
+
 ### <a id="bpn6630"></a> Prayer bpn6630 in 한국어
 모든 장엄과 모든 영광이, 제가 주님을 안 것은
 
@@ -2172,6 +2574,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 찬송과 감사)
 (Bahaiprayers.net ID: 6630)
+
+
 
 
 
@@ -2186,6 +2590,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6631)
 
 
+
+
 ### <a id="bpn6632"></a> Prayer bpn6632 in 한국어
 저의 이 고통과 질환과 허약을, 제가 간원하오니 그가 간구하는 것을 거절하지 마소서
 
@@ -2197,6 +2603,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6632)
 
 
+
+
 ### <a id="bpn6633"></a> Prayer bpn6633 in 한국어
 주님을 굳게 붙들고 주님께 되돌아온 그를
 
@@ -2205,6 +2613,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 치유)
 (Bahaiprayers.net ID: 6633)
+
+
 
 
 ### <a id="bpn6634"></a> Prayer bpn6634 in 한국어
@@ -2220,6 +2630,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6634)
 
 
+
+
 ### <a id="bpn6635"></a> Prayer bpn6635 in 한국어
 이 시녀를
 
@@ -2231,6 +2643,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6635)
 
 
+
+
 ### <a id="bpn6636"></a> Prayer bpn6636 in 한국어
 이 젖먹이에게
 
@@ -2239,6 +2653,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 치유)
 (Bahaiprayers.net ID: 6636)
+
+
 
 
 ### <a id="bpn6637"></a> Prayer bpn6637 in 한국어
@@ -2292,6 +2708,8 @@ tags = ['lang=ko', 'prayerbook']
 
 
 
+
+
 ## 하느님께 다가감
 
 ### <a id="bpn6638"></a> Prayer bpn6638 in 한국어
@@ -2304,6 +2722,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6638)
 
 
+
+
 ### <a id="bpn6639"></a> Prayer bpn6639 in 한국어
 저를 끌어 당겨 주시옵고
 
@@ -2314,6 +2734,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6639)
 
 
+
+
 ### <a id="bpn6640"></a> Prayer bpn6640 in 한국어
 제 가슴 속 소망이시여
 
@@ -2321,6 +2743,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 하느님께 다가감)
 (Bahaiprayers.net ID: 6640)
+
+
 
 
 ### <a id="bpn6641"></a> Prayer bpn6641 in 한국어
@@ -2340,6 +2764,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6641)
 
 
+
+
 ### <a id="bpn6642"></a> Prayer bpn6642 in 한국어
 저를
 
@@ -2348,6 +2774,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 하느님께 다가감)
 (Bahaiprayers.net ID: 6642)
+
+
 
 
 
@@ -2365,6 +2793,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6643)
 
 
+
+
 ### <a id="bpn6644"></a> Prayer bpn6644 in 한국어
 제가 주님께 간청드리오니
 
@@ -2374,6 +2804,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 호꾸꼴라: 하느님의 권리)
 (Bahaiprayers.net ID: 6644)
+
+
 
 
 
@@ -2393,6 +2825,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6645)
 
 
+
+
 ### <a id="bpn6646"></a> Prayer bpn6646 in 한국어
 제가 주님을 기억하고 주님을 칭송하도록
 
@@ -2401,6 +2835,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 확고한 믿음)
 (Bahaiprayers.net ID: 6646)
+
+
 
 
 ### <a id="bpn6647"></a> Prayer bpn6647 in 한국어
@@ -2414,6 +2850,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6647)
 
 
+
+
 ### <a id="bpn6648"></a> Prayer bpn6648 in 한국어
 저희들로 하여금, 저를
 
@@ -2423,6 +2861,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 확고한 믿음)
 (Bahaiprayers.net ID: 6648)
+
+
 
 
 ### <a id="bpn6649"></a> Prayer bpn6649 in 한국어
@@ -2435,6 +2875,8 @@ tags = ['lang=ko', 'prayerbook']
 (Bahaiprayers.net ID: 6649)
 
 
+
+
 ### <a id="bpn6650"></a> Prayer bpn6650 in 한국어
 주께서 사랑하시는 이들을 도우시와 그들이
 
@@ -2442,6 +2884,8 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 확고한 믿음)
 (Bahaiprayers.net ID: 6650)
+
+
 
 
 ### <a id="bpn6651"></a> Prayer bpn6651 in 한국어
@@ -2453,6 +2897,9 @@ tags = ['lang=ko', 'prayerbook']
 
 (Source category: 확고한 믿음)
 (Bahaiprayers.net ID: 6651)
+
+
+
 
 
 

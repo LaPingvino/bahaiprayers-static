@@ -3,6 +3,120 @@ title = "Kreyol Ayisyen"
 tags = ['lang=ht', 'prayerbook']
 +++
 
+
+
+[Ansèyman](#Ansèyman)
+
+[Asanble Espirityèl yo](#Asanble Espirityèl yo)
+
+[Aswè](#Aswè)
+
+[Bebe](#Bebe)
+
+[Desizyon](#Desizyon)
+
+[Detache ou ak Lavi a](#Detache ou ak Lavi a)
+
+[Douvanjou](#Douvanjou)
+
+[Epit Dife a](#Epit Dife a)
+
+[Eprèv ak Difikilte](#Eprèv ak Difikilte)
+
+[Fidelite](#Fidelite)
+
+[Fèmte nan Alyans lan](#Fèmte nan Alyans lan)
+
+[Fèt 19 Jou](#Fèt 19 Jou)
+
+[Gerison Bebe](#Gerison Bebe)
+
+[Gerizon](#Gerizon)
+
+[Gerizon Fanm](#Gerizon Fanm)
+
+[Huqúqu’lláh](#Huqúqu’lláh)
+
+[Jèn Fi yo](#Jèn Fi yo)
+
+[Jèn yo](#Jèn yo)
+
+[Kalite Espirityèl](#Kalite Espirityèl)
+
+[Kontribisyon nan Fon yo](#Kontribisyon nan Fon yo)
+
+[Kout Priyè Obligatwa](#Kout Priyè Obligatwa)
+
+[Limanite](#Limanite)
+
+[Linite](#Linite)
+
+[Long Priyè Obligatwa](#Long Priyè Obligatwa)
+
+[Long Priyè pou Gerizon](#Long Priyè pou Gerizon)
+
+[Lwanj ak Rekonesans](#Lwanj ak Rekonesans)
+
+[Maryaj](#Maryaj)
+
+[Maten](#Maten)
+
+[Minwi](#Minwi)
+
+[Mwayen Priyè Obligatwa](#Mwayen Priyè Obligatwa)
+
+[Padon](#Padon)
+
+[Paran yo](#Paran yo)
+
+[Priyè Ahmad la](#Priyè Ahmad la)
+
+[Priyè Fanm pou Mari li](#Priyè Fanm pou Mari li)
+
+[Priyè Obligatwa Pou Moun Ki Mouri](#Priyè Obligatwa Pou Moun Ki Mouri)
+
+[Priyè Vizitasyon pou Bahá’u’lláh e Le Báb](#Priyè Vizitasyon pou Bahá’u’lláh e Le Báb)
+
+[Priyè Vizitasyon pou ‘Abdu’l-Bahá](#Priyè Vizitasyon pou ‘Abdu’l-Bahá)
+
+[Priyè pou Ayyám-i-Há](#Priyè pou Ayyám-i-Há)
+
+[Priyè pou Fanm](#Priyè pou Fanm)
+
+[Priyè pou Fanm Ansent](#Priyè pou Fanm Ansent)
+
+[Priyè pou Fanm ki Mouri](#Priyè pou Fanm ki Mouri)
+
+[Priyè pou Jèn nan](#Priyè pou Jèn nan)
+
+[Priyè pou Moun ki Mouri](#Priyè pou Moun ki Mouri)
+
+[Priyè pou Naw-Rúz](#Priyè pou Naw-Rúz)
+
+[Priyè pou tout Jèn nan](#Priyè pou tout Jèn nan)
+
+[Pwoteksyon](#Pwoteksyon)
+
+[Pwoteksyon nan Evènman Natirèl yo](#Pwoteksyon nan Evènman Natirèl yo)
+
+[Rankont yo](#Rankont yo)
+
+[Sipò](#Sipò)
+
+[Sèvis](#Sèvis)
+
+[Sèvis - Priyè pou Fanm](#Sèvis - Priyè pou Fanm)
+
+[Timoun](#Timoun)
+
+[Timoun - Fi](#Timoun - Fi)
+
+[Viktwa Fwa a](#Viktwa Fwa a)
+
+[Èd avèk Eprèv yo](#Èd avèk Eprèv yo)
+
+
+
 ## Ansèyman
 
 ### <a id="bpn7620"></a> Prayer bpn7620 in Kreyol Ayisyen
@@ -15,6 +129,8 @@ Mwen sipliye Ou, O Ou menm Ki Wa egzistans lan ak Pwotektè pou tout sa ki vizib
 (Bahaiprayers.net ID: 7620)
 
 
+
+
 ### <a id="bpn7621"></a> Prayer bpn7621 in Kreyol Ayisyen
 Lwanj pou Ou, O Senyè Bondye mwen! Mwen sipliye Ou, poutèt Non Ou pèsonn moun pa te rekonèt nan fason li ta merite a, yon Non okenn nanm pa te vrèman konprann siyifikasyon li; mwen sipliye Ou poutèt Li menm Ki se Tèt Sous Revelasyon Ou an ak Solèy siyn Ou yo, pou fè kè mwen vin yon vèso pou kenbe lanmou Ou ak souvni Ou. Fè kè mwen vin atache ak pi gran Oseyan Ou an, pou fè dlo sajès Ou yo k’ap bay lavi ansanm ak sous klè yo k’ap ba Ou glwa ak lwanj koule soti nan li.
 Manm kò mwen temwaye sou linite Ou, epi cheve nan tèt mwen deklare pouvwa otorite Ou ak pisans Ou. Mwen te kanpe devan pòt gras Ou kote mwen te konplètman bliye tèt mwen e mwen te konplètman elimine volonte mwen, kote mwen te kenbe fèm ke wòb bonte Ou, e mwen te fikse je mwen nan syèl favè Ou yo.
@@ -25,6 +141,8 @@ An verite, se Ou menm Ki Gen Plis Pouvwa, Ki Pi Wo, Ki Konnen Tout Bagay, Ki Gen
 (Bahaiprayers.net ID: 7621)
 
 
+
+
 ### <a id="bpn7622"></a> Prayer bpn7622 in Kreyol Ayisyen
 O Bondye, Ou menm Ki Pa Gen Parèy! O Ou menm Senyè Wayòm nan! Se nanm sa yo ki fòme lame selès Ou a. Ba yo èd Ou, epi fè yo jwenn viktwa avèk sipò twoup ki nan Fòs Siprèm nan, pou yo chak ta vin tankou yon rejiman solda k’ap pote viktwa sou peyi sa yo akoz lanmou yo gen pou Bondye ak limyè ki nan ansèyman diven yo.
 O Bondye! Ranfòse yo epi soutni yo, asosye Ou ak yo nan teren kote moun pa viv yo, nan mòn yo ak nan vale yo, nan forè yo, nan plèn yo e nan lanmè yo pou yo kapab lanse apèl la avèk èd pouvwa Wayòm nan ak souf Lespri Sen an.
@@ -32,6 +150,8 @@ An verite, se Ou menm Ki Fò, Ki Pisan, Ki Gen Tout Otorite, se Ou menm Ki Saj, 
 
 (Source category: Ansèyman)
 (Bahaiprayers.net ID: 7622)
+
+
 
 
 ### <a id="bpn7623"></a> Prayer bpn7623 in Kreyol Ayisyen
@@ -45,6 +165,8 @@ An verite, se Ou menm Ki Gen Pouvwa, Ki Pisan, Ki Gen Tout Otorite.
 (Bahaiprayers.net ID: 7623)
 
 
+
+
 ### <a id="bpn7624"></a> Prayer bpn7624 in Kreyol Ayisyen
 *Chak nanm k’ap travèse vil yo, vilaj yo ak bouk yo ki nan Eta sa yo e ki angaje nan gaye pafen Bondye, ta dwe fè lekti priyè sa a chak maten:
 O Bondye mwen! O Bondye mwen! Ou wè mwen piti e fèb, men mwen okipe nan pi gran travay la, avèk fèm desizyon pou egzalte pawòl Ou pami mas pèp yo e pou gaye ansèyman Ou pami sèvitè Ou yo. Kòman mwen kapab reyisi si Ou pa pote èd pou mwen avèk souf Lespri Sen an? - si Ou pa ede mwen jwenn viktwa a avèk sipò lame selès nan wayòm glwa Ou, e si Ou pa voye ranfòsman sou mwen tankou lapli? Se ranfòsman Ou sèlman ki kapab fè yon bigay tounen yon malfini, ki kapab fè yon gout dlo tounen plizyè rivyè ak lanmè, e ki kapab fè yon ti pousyè tounen yon kantite limyè ak solèy. O Senyè mwen! Ede mwen avèk pouvwa Ou ki pisan k’ap bay viktwa a, pou pèmèt lang mwen chante lwanj pou Ou epi rakonte kalite Ou yo pami tout pèp yo, pou pèmèt nanm mwen debòde avèk bwason diven lanmou ak konesans Ou. 
@@ -54,6 +176,8 @@ Se Ou menm Ki Gen Pisans sou tout bagay, Ki Fè tout sa Ou deside.
 (Bahaiprayers.net ID: 7624)
 
 
+
+
 ### <a id="bpn7625"></a> Prayer bpn7625 in Kreyol Ayisyen
 Lwanj pou Ou, O Bondye mwen! Sa yo se sèvitè Ou ki atire avèk pafen mizèrikòd Ou, ki chofe akoz dife k’ap boule nan pyebwa linite Ou, e ki gen je k’ap klere akoz y’ap gade ekla limyè k’ap briye nan Sinayi linite Ou. 
 O Senyè! Libere lang yo pou yo kapab site Non Ou pami pèp Ou yo. Pèmèt yo louwe Ou akoz gras Ou ak jantiyès Ou ki plen lanmou, ede yo avèk lame zanj Ou yo, ranfòse kouraj yo nan sèvis Ou, epi fè yo tounen siyn direksyon Ou pami kreyati Ou yo. 
@@ -61,6 +185,8 @@ An verite, se Ou menm Ki Gen Tout Pouvwa, Ki Pi Egzalte a, K’ap Toujou Padone,
 
 (Source category: Ansèyman)
 (Bahaiprayers.net ID: 7625)
+
+
 
 
 ### <a id="bpn7626"></a> Prayer bpn7626 in Kreyol Ayisyen
@@ -75,12 +201,16 @@ An verite, se Ou menm Ki Padone, Ki Gen Pouvwa, Ki Pisan, Ki Pi Mizèrikòdye pa
 (Bahaiprayers.net ID: 7626)
 
 
+
+
 ### <a id="bpn7627"></a> Prayer bpn7627 in Kreyol Ayisyen
 O Bondye! O Bondye! Sa a se yon zwazo ki gen yon zèl kase, epi vòl li ralanti - ede li monte anlè nan direksyon richès yo ak delivrans lan, fè li vole avèk pi gran jwa ak kontantman toupatou nan espas ki pa gen fen an, kite li chante melodi li pou Pi Gran Non Ou an nan tout rejyon yo, pèmèt li fè zòrèy yo rejwi akoz apèl sa a, epi fè je yo klere paske y’ap gade siyn pawòl Ou yo. 
 O Senyè! Mwen sèl, mwen pou kont mwen, e ba. Pou mwen menm, pa gen okenn sipò sof Ou menm, okenn èd esepte Ou menm, mwen pa gen pèsonn pou soutni mwen, si se pa Ou menm. Fè mwen rete fèm nan sèvis Ou, ede mwen avèk lame zanj Ou yo, fè mwen jwenn viktwa nan gaye Pawòl Ou epi kite mwen pale sajès Ou pami kreyati Ou yo. An verite, se Ou menm Ki ede fèb yo, Ki defann sila yo ki ba, e an verite se Ou menm Ki Plen Pouvwa, Pisan an, Sila a Ki pa sibi okenn kontrent.
 
 (Source category: Ansèyman)
 (Bahaiprayers.net ID: 7627)
+
+
 
 
 ### <a id="bpn7628"></a> Prayer bpn7628 in Kreyol Ayisyen
@@ -91,11 +221,15 @@ An verite, se Ou menm Ki Renmen Bay, Sila a Ki Padone.
 (Bahaiprayers.net ID: 7628)
 
 
+
+
 ### <a id="bpn7629"></a> Prayer bpn7629 in Kreyol Ayisyen
 O Bondye, Bondye mwen! Ede sèvitè Ou yo Ou fè konfyans gen kè ki plen lanmou e ki dou. Asiste yo pami tout nasyon yo ki sou latè pou yo kapab gaye limyè direksyon an ki soti nan Lame zanj ki anwo a. An verite, se Ou menm Ki Fò, Ki Gen Pouvwa, Ki Pisan, K’ap Domine Tout Bagay, Ki Toujou ap Bay. An verite, se Ou menm Ki Renmen Bay, Ki Dou, Ki Plen Afeksyon, Sila a Ki Gen Plis Bonte a.
 
 (Source category: Ansèyman)
 (Bahaiprayers.net ID: 7629)
+
+
 
 
 ### <a id="bpn7630"></a> Prayer bpn7630 in Kreyol Ayisyen
@@ -109,11 +243,15 @@ An verite, se Ou menm Ki bay sipò ak nenpòt moun Ou chwazi nan tout sa Ou vle,
 (Bahaiprayers.net ID: 7630)
 
 
+
+
 ### <a id="bpn7631"></a> Prayer bpn7631 in Kreyol Ayisyen
 O Bondye, Bondye mwen! Bay èd Ou pou sèvitè fidèl Ou yo kapab genyen kè ki plen lanmou e ki dou. Ede yo gaye pami tout nasyon yo ki sou latè limyè direksyon an ki soti nan Lame anwo a. An verite, se Ou menm Ki Fò, Ki Plen Pouvwa a, Pisan an, Sila a K’ap Domine Tout Bagay, K’ap Toujou Padone. An verite, se Ou menm Ki Renmen Bay, Ki Ale Dousman, Ki Gen Kè Sansib, Sila a Ki Gen Plis Bonte.
 
 (Source category: Ansèyman)
 (Bahaiprayers.net ID: 7631)
+
+
 
 
 ### <a id="bpn7632"></a> Prayer bpn7632 in Kreyol Ayisyen
@@ -122,6 +260,8 @@ An verite, se Ou menm Ki Renmen Bay, Ki Padone.
 
 (Source category: Ansèyman)
 (Bahaiprayers.net ID: 7632)
+
+
 
 
 
@@ -135,6 +275,8 @@ O Bondye, Bondye mwen! Nou se sèvitè Ou ki te vire avèk devouman nan direksyo
 (Bahaiprayers.net ID: 7633)
 
 
+
+
 ### <a id="bpn7634"></a> Prayer bpn7634 in Kreyol Ayisyen
 *Reyini nou ansanm avèk yon jwa ki pa gen tach, e nan kòmansman reyinyon an, resite priyè sa a:
 O Ou menm Senyè Wayòm nan! Menm si kò nou rasanble isi a ansanm, men fòs lanmou Ou ap lemante kè nou pote yo ale, epi reyon limyè figi Ou genyen ap transpòte lespri nou ale. Menm si nou fèb, n’ap tann revelasyon pisans ak pouvwa Ou. Menm si nou pòv, e nou pa gen byen materyèl ni mwayen, kanmenm nou pran richès nan trezò Wayòm Ou an. Menm si nou tankou gout dlo yo, men nou toujou ap pran nan pwofondè Oseyan Ou yo. Malgre se lonbraj nou ye, kanmenm nou klere nan glwa Solèy briyan Ou an.
@@ -142,6 +284,8 @@ O Ou menm Ki okipe bezwen nou! Voye desann èd Ou, pou pèmèt nou chak ki reyin
 
 (Source category: Asanble Espirityèl yo)
 (Bahaiprayers.net ID: 7634)
+
+
 
 
 ### <a id="bpn7635"></a> Prayer bpn7635 in Kreyol Ayisyen
@@ -156,6 +300,8 @@ An verite, se Ou menm Ki Renmen Bay, Ki Mizèrikòdye. Se Ou menm Ki Posede gran
 
 
 
+
+
 ## Aswè
 
 ### <a id="bpn7636"></a> Prayer bpn7636 in Kreyol Ayisyen
@@ -167,6 +313,8 @@ Pa gen okenn Bondye esepte Ou menm, Toupisan an, Li menm Ki Domine Tout Bagay, K
 (Bahaiprayers.net ID: 7636)
 
 
+
+
 ### <a id="bpn7637"></a> Prayer bpn7637 in Kreyol Ayisyen
 O Bondye, Bondye mwen! Kòman mwen kapab chwazi dòmi, lè sila yo ki anvi jwenn Ou gen je klè akoz separasyon yo ak Ou; epi kòman mwen kapab kouche pou repoze pandan nanm amoure Ou yo boulvèse poutèt distans yo genyen ak prezans Ou? 
 Mwen kite lespri mwen ak tout egzistans mwen nan men dwat pisans Ou ak pwoteksyon Ou, O Senyè mwen, e mwen mete tèt sou zoreye mwen akoz pouvwa Ou, epi mwen leve li ankò daprè volonte Ou ak bon plezi Ou. Se Ou menm, vrèman, Ki Pwotektè a, Ki Sere nou lwen danje, Toupisan an, Ki Gen Plis Pouvwa. 
@@ -174,6 +322,8 @@ Ak pisans Ou! Pandan m’ap dòmi oubyen pandan mwen reveye, mwen mande Ou sèlm
 
 (Source category: Aswè)
 (Bahaiprayers.net ID: 7637)
+
+
 
 
 
@@ -187,6 +337,8 @@ Se Ou Ki louwe, O Pi Byeneme mwen! Soufle sou li dous pafen bonte selès Ou yo a
 (Bahaiprayers.net ID: 7763)
 
 
+
+
 ### <a id="bpn7764"></a> Prayer bpn7764 in Kreyol Ayisyen
 O Bondye! Elve ti bebe sa a nan kè lanmou Ou, ba li lèt nan tete Pwovidans Ou an. Pran swen nouvo plant sa a nan jaden woz afeksyon Ou epi ede li grandi nan lapli bonte Ou yo. Fè li tounen yon timoun nan wayòm nan, e mennen li jwenn paradi selès Ou a. Se Ou menm Ki plen pouvwa e byenveyan, Ou menm Ki Renmen Bay, Ki Bay an kantite, Senyè a Ki gen yon bonte ki depase tout bagay.
 
@@ -194,11 +346,15 @@ O Bondye! Elve ti bebe sa a nan kè lanmou Ou, ba li lèt nan tete Pwovidans Ou 
 (Bahaiprayers.net ID: 7764)
 
 
+
+
 ### <a id="bpn7765"></a> Prayer bpn7765 in Kreyol Ayisyen
 O Ou menm Senyè Ki pa gen parèy! Pèmèt ti bebe nourison sa a nouri nan tete jantiyès Ou an ki plen lanmou, veye li pandan li nan bèso sekirite ak pwoteksyon Ou epi asepte pou li grandi nan bra dous afeksyon Ou yo.
 
 (Source category: Bebe)
 (Bahaiprayers.net ID: 7765)
+
+
 
 
 
@@ -211,6 +367,8 @@ Ou wè, O Bondye mwen, jan mwen libere ak tout bagay esepte Ou menm e jan mwen a
 
 (Source category: Desizyon)
 (Bahaiprayers.net ID: 7643)
+
+
 
 
 
@@ -227,6 +385,8 @@ Pa gen okenn lòt Bondye esepte Ou, Sila a Ki Toupisan, K’ap Toujou Fè Byen.
 (Bahaiprayers.net ID: 7639)
 
 
+
+
 ### <a id="bpn7640"></a> Prayer bpn7640 in Kreyol Ayisyen
 O Bondye mwen! Pèmèt mwen avanse bò kote Ou, epi rete nan vwazinaj lakou Ou, paske distans mwen avèk Ou preske fini avèk mwen. Fè mwen repoze anba lonbraj zèl gras Ou yo, paske dife separasyon mwen ak Ou te fonn kè mwen. Atire mwen pi pre rivyè a ki se vrè lavi a, paske nanm mwen vrèman swaf nan rechèch l’ap fè san relach pou jwenn Ou. O Bondye mwen, soupi mwen yo montre kòman chagren mwen amè, epi dlo k’ap koule nan je mwen bay temwayaj sou lanmou mwen genyen pou Ou.
 Mwen sipliye Ou, poutèt lwanj Ou sèvi pou louwe pwòp tèt Ou, ak glwa Ou sèvi pou glorifye pwòp Lespri pa Ou, mwen sipliye Ou pou asepte konte nou pami moun ki te rekonèt Ou e ki te admèt souverènte Ou pandan jou Ou yo. Answit, O Bondye mwen, ede nou avèk dwèt mizèrikòd Ou yo, pou nou ta byen bwè nan dlo dous jantiyès Ou yo k’ap bay lavi a, pou pèmèt nou konplètman bliye tout lòt bagay esepte Ou menm, pou nou okipe nou avèk Ou menm sèlman. Ou gen pouvwa pou fè tout sa Ou vle. Pa gen okenn Bondye espete Ou, Pisan an, Sekou nan Danje a, Sila a Ki Egziste Pou Kont Li.
@@ -234,6 +394,8 @@ Glorifye se non Ou, O Ou menm Ki se Wa a pou tout Wa yo!
 
 (Source category: Detache ou ak Lavi a)
 (Bahaiprayers.net ID: 7640)
+
+
 
 
 ### <a id="bpn7641"></a> Prayer bpn7641 in Kreyol Ayisyen
@@ -244,6 +406,8 @@ O Senyè mwen! Voye benediksyon Ou yo sou Mesaje Ou yo, sou sen yo, ak sou moun 
 
 (Source category: Detache ou ak Lavi a)
 (Bahaiprayers.net ID: 7641)
+
+
 
 
 ### <a id="bpn7642"></a> Prayer bpn7642 in Kreyol Ayisyen
@@ -258,6 +422,8 @@ Se Ou menm Ki gen tout otorite pou kòmande.
 
 
 
+
+
 ## Douvanjou
 
 ### <a id="bpn7709"></a> Prayer bpn7709 in Kreyol Ayisyen
@@ -268,6 +434,8 @@ An verite, se Ou menm Ki Senyè a ak Wa pou tout lèzòm, Li menm Ki gen pouvwa 
 
 (Source category: Douvanjou)
 (Bahaiprayers.net ID: 7709)
+
+
 
 
 
@@ -331,6 +499,8 @@ Nan Non Bondye, Sila a Ki Pi Ansyen an, Pi Gran an.
 
 
 
+
+
 ## Eprèv ak Difikilte
 
 ### <a id="bpn7650"></a> Prayer bpn7650 in Kreyol Ayisyen
@@ -340,6 +510,8 @@ O Ou menm Ki voye eprèv yo - moun ki rete pre Ou konsidere difikilte sa yo tank
 (Bahaiprayers.net ID: 7650)
 
 
+
+
 ### <a id="bpn7651"></a> Prayer bpn7651 in Kreyol Ayisyen
 Se Ou menm Ki Glorifye, O Senyè Bondye mwen! Chak moun ki konprann ap deklare souverènte Ou ak otorite Ou, chak je ki kapab wè ap rekonèt grandè majeste Ou ak fòs pouvwa pisans Ou. Gwo van eprèv yo pa gen pouvwa pou anpeche moun ki pre Ou fikse figi yo nan direksyon syèl glwa Ou, epi, pou moun ki dedye tèt yo avèk tout kè yo nan volonte Ou, tanpèt difikilte yo pa kapab detounen yo ak anpeche yo nan pwogrè y’ap fè pou jwenn lakou prezans Ou. 
 Daprè mwen menm, lanp lanmou Ou ap boule nan kè yo, epi limyè jantiyès Ou limen nan nanm yo. Difikilte grav yo sibi pa gen kapasite pou separe yo ak Koz Ou a, e move chans ki genyen nan lavi a p’ap janm kapab fè yo kite chemen bon plezi Ou. 
@@ -347,6 +519,8 @@ Mwen priye Ou anpil, O Bondye mwen, poutèt yo menm, e poutèt soupi ki soti nan
 
 (Source category: Eprèv ak Difikilte)
 (Bahaiprayers.net ID: 7651)
+
+
 
 
 ### <a id="bpn7652"></a> Prayer bpn7652 in Kreyol Ayisyen
@@ -360,11 +534,15 @@ O Bondye mwen! Fè sèvitè Ou ki te kwè nan Ou rete fidèl pou li kapab ede Ko
 (Bahaiprayers.net ID: 7652)
 
 
+
+
 ### <a id="bpn7653"></a> Prayer bpn7653 in Kreyol Ayisyen
 Kiyès aprè Bondye ki kapab fè difikilte yo disparèt? Se pou nou di: Louwe Bondye! Se Li menm sèl Ki Bondye! Nou tout se sèvitè Li, epi nou tout ap viv daprè volonte Li.
 
 (Source category: Eprèv ak Difikilte)
 (Bahaiprayers.net ID: 7653)
+
+
 
 
 ### <a id="bpn7654"></a> Prayer bpn7654 in Kreyol Ayisyen
@@ -374,6 +552,8 @@ O Senyè syèl la ak tè a, Ou konplètman egzalte pi wo pase lwanj tout lèzòm
 
 (Source category: Eprèv ak Difikilte)
 (Bahaiprayers.net ID: 7654)
+
+
 
 
 
@@ -389,6 +569,8 @@ Lwanj pou Ou, O Ou menm Ki Byeneme a pou tout moun ki te rekonèt Ou!
 (Bahaiprayers.net ID: 7661)
 
 
+
+
 ### <a id="bpn7662"></a> Prayer bpn7662 in Kreyol Ayisyen
 O Senyè! Vwazinaj Ou se espwa mwen, prezans Ou se rèv mwen, souvni Ou se dezi mwen, lakou glwa Ou se bi mwen, abitasyon Ou se objektif mwen, non Ou se gerizon mwen, lanmou Ou se limyè kè mwen, epi reyisi sèvi Ou se pi gran entansyon mwen! Mwen sipliye Ou poutèt Non Ou, ki te pèmèt moun ki te rekonèt Ou vole nan pi wo otè konesans Ou yo, e ki te fè Ou bay moun ki adore ou avèk devouman pouvwa pou monte bò lakou sen favè Ou yo, mwen sipliye Ou pou ede mwen vire figi mwen nan direksyon figi Ou, pou mwen fikse je mwen sou Ou, epi pale sou glwa Ou. 
 Se mwen, O Senyè mwen, ki te bliye tout lòt bagay esepte Ou menm, ki te vire bò Sous gras Ou, ki te abandone tout bagay sof Ou menm avèk espwa mwen ta kapab apwoche pre lakou Ou. Gade mwen, Senyè, avèk je mwen leve nan direksyon Syèj la k’ap klere avèk ekla limyè Figi Ou. Epi, voye desann sou mwen, O Byeneme mwen, sa ki pral pèmèt mwen rete fidèl nan Koz Ou, pou dout enkredil yo pa reyisi anpeche mwen vire nan direksyon Ou. 
@@ -396,6 +578,8 @@ An verite, Se Ou menm Bondye Pouvwa a, Ou menm Ki Bay Sekou nan Danje, Tout Glor
 
 (Source category: Fidelite)
 (Bahaiprayers.net ID: 7662)
+
+
 
 
 ### <a id="bpn7663"></a> Prayer bpn7663 in Kreyol Ayisyen
@@ -408,6 +592,8 @@ Pa genyen lòt Bondye aprè Ou, Toupisan an, Li menm Ki Gen Tout Sajès la.
 (Bahaiprayers.net ID: 7663)
 
 
+
+
 ### <a id="bpn7664"></a> Prayer bpn7664 in Kreyol Ayisyen
 Glwa pou Ou, O Senyè Bondye mwen! Mwen priye Ou fò poutèt Li menm Ki se Pi Gran Non Ou an, Ki te soufri anpil nan men kreyati Ou yo ki te rejte verite Ou, Sila a Ki te antoure ak anpil chagren okenn lang pa kapab esplike, mwen priye Ou pou pèmèt mwen sonje Ou ak selebre lwanj Ou, nan jou sa yo kote tout moun te vire kite bèlte Ou, te diskite avèk Ou menm, epi vire do avèk ògèy bay Li menm K’ap Revele Koz Ou a. Pa gen yon moun, O Senyè mwen, ki kapab ede Ou, se sèl Ou menm, e pa gen okenn pouvwa ki kapab soutni Ou sof pwòp pouvwa pa Ou. 
 Mwen sipliye Ou pou pèmèt mwen kenbe fèm ak lanmou Ou e ak souvni Ou. An verite, li posib pou mwen fè sa, e se Ou menm sèl Ki konnen tout sa ki anndan mwen. An verite, Ou konnen, epi Ou konprann tout bagay. Pa anpeche mwen wè, O Senyè mwen, glwa a ki nan limyè figi Ou, yon limyè ki tèlman briyan li te klere tout mond la. Pa gen lòt Bondye esepte Ou menm, Sila a Ki Gen Plis Pouvwa, Tout Gloriye a, Li menm Ki Toujou Padone.
@@ -416,12 +602,16 @@ Mwen sipliye Ou pou pèmèt mwen kenbe fèm ak lanmou Ou e ak souvni Ou. An veri
 (Bahaiprayers.net ID: 7664)
 
 
+
+
 ### <a id="bpn7665"></a> Prayer bpn7665 in Kreyol Ayisyen
 Se Ou menm Ki louwe ak glorifye, O Bondye! Fè jou kote n’ap jwenn sen prezans Ou an rive vit. Rejwi kè nou avèk pisans lanmou Ou ak bon plezi Ou, epi voye fidelite sou nou pou pèmèt nou swiv Volonte Ou ak Lòd Ou avèk tout kè nou. An verite, konesans Ou anbrase tout bagay Ou te kreye nan tan pase yo ak tout bagay Ou pral kreye nan lavni, epi pouvwa selès Ou depase pouvwa tout sa Ou te fè egziste ak tout sa Ou pral fè egziste. Pa gen anyen lòt pou nou ta adore esepte Ou menm, pa gen anyen lòt pou nou ta vle jwenn esepte Ou menm, pa gen anyen lòt pou nou ta onore esepte Ou menm, e pa gen anyen pou nou ta renmen sof bon plezi Ou.
 An verite, se Ou menm Ki Dirijan siprèm nan, Verite Souveren an, Sila a Ki Bay Sekou nan Danje, Ki Egziste Pou Kont Li.
 
 (Source category: Fidelite)
 (Bahaiprayers.net ID: 7665)
+
+
 
 
 ### <a id="bpn7666"></a> Prayer bpn7666 in Kreyol Ayisyen
@@ -433,6 +623,8 @@ Se Ou menm Ki Gen Kè Sansib, Ki Mizèrikòdye a. Se Ou menm Bondye Ki Gen Gran 
 (Bahaiprayers.net ID: 7666)
 
 
+
+
 ### <a id="bpn7667"></a> Prayer bpn7667 in Kreyol Ayisyen
 O Ou menm, Bondye mwen, Ou menm K’ap gide chèchè a pou li jwenn chemen k’ap mennen li kòrèkteman, Ou menm K’ap delivre nanm nan ki pèdi, ki avèg, pou li soti nan dezè destriksyon an, Ou menm K’ap voye sou sensè yo gran bonte ak favè Ou yo, K’ap pwoteje moun ki nan perèz anndan refij solid Ou a, Ou menm Ki rete nan pi wo paradi Ou, Ki reponn kri moun ki lanse apèl pou Ou. Lwanj pou Ou menm, O Senyè mwen! Ou te gide moun ki kite chemen an fè yo soti nan lamò manke kwayans, epi Ou te mennen moun ki vle apwoche Ou fè yo jwenn objektif vwayaj la, Ou te rejwi sila yo pami sèvitè Ou yo ki gen konfyans paske Ou te pèmèt yo jwenn dezi yo ki te pi chè a, epi, depi nan Wayòm bèlte Ou a, Ou te ouvri baryè rankont lan devan figi moun ki anvi jwenn Ou, e Ou te retire yo nan dife dezespwa ak peche - pou fè yo prese pou avanse nan direksyon Ou, jwenn prezans Ou, rive nan pòt Ou k’ap ofri akèy, epi resevwa yon bon pòsyon nan kado Ou yo. 
 O Senyè mwen, yo te swaf, Ou te bay bouch sèch yo dlo rankont lan. O Ou menm Ki Dou, Sila a K’ap Bay Favè yo, Ou te kalme doulè yo avèk remèd bonte ak gras Ou, e Ou te geri maladi yo avèk medikaman siprèm nan ki se mizèrikòd Ou. O Senyè, kenbe pye yo fèm nan chemen dwat Ou a, fè je zegwi a laj pou yo, e fè yo mache nan glwa pandan tout tan, byen abiye ak rad fanmi wa yo. 
@@ -440,6 +632,8 @@ An verite, se Ou menm Ki Renmen Bay, K’ap Toujou Bay, Ki Gen Anpil Valè, Ki G
 
 (Source category: Fidelite)
 (Bahaiprayers.net ID: 7667)
+
+
 
 
 
@@ -455,6 +649,8 @@ O Senyè, chwazi pou mwen, avèk bonte Ou, sa ki pral mennen mwen jwenn richès 
 (Bahaiprayers.net ID: 7655)
 
 
+
+
 ### <a id="bpn7656"></a> Prayer bpn7656 in Kreyol Ayisyen
 Lwanj pou Ou, O Senyè, Byeneme mwen an! Fè mwen fèm nan Koz Ou a, e pa kite mwen konte pami sila yo ki te vyole Alyans Ou e ki te swiv idòl ki soti nan imajinasyon initil yo. Alò, pèmèt mwen jwenn yon syèj laverite nan prezans Ou, voye sou mwen yon siyn mizèrikòd Ou e asepte pou mwen rasanble avèk yo menm pami sèvitè Ou yo ki pa pral gen perèz e ki pa pral tonbe nan chagren. Pa abandone mwen pou kont mwen, O Senyè mwen, e pa anpeche mwen rekonèt Sila a Ki se Manifestasyon Pwòp Lespri Ou, ni pa konte mwen pami yo menm ki te vire do bay prezans sakre Ou a. Konte mwen, O Bondye mwen, pami moun ki jwenn privilèj pou fikse rega yo sou Bote Ou e ki tèlman jwenn kontantman nan Bote sa a yo pa t’ap chanje yon sèl moman ladann li pou souverènte syèl la ak tè a ni pou tout wayòm kreyasyon an. Gen mizèrikòd pou mwen, O Senyè, nan jou sa yo kote pèp ki viv sou tè Ou a te plonje nan erè; epi voye pou mwen, O Bondye mwen, sa ki bon e kòrèk daprè Ou menm. An verite, se Ou menm Ki Gen Tout Pouvwa, Ki Plen Gras, Ki Plen Bonte, K’ap Toujou Padone. 
 Asepte, O Bondye mwen, pou mwen pa t’ap konte pami yo menm ki gen zòrèy men ki pa kapab tande, ki gen je ki avèg, ki gen lang men ki pa kapab pale e ki gen kè ki manke konprann. Delivre mwen, O Senyè, anba dife inyorans ak dezi egoyis, pèmèt mwen jwenn chans antre nan lakou mizèrikòd Ou ki depase tout bagay e voye desann sou mwen sa Ou te sere pou moun Ou te chwazi yo. Ou gen pisans pou fè tout sa Ou vle. An verite, se Ou menm Ki Pote Sekou nan Danje, Ki Egziste Pou Kont Ou.
@@ -463,11 +659,15 @@ Asepte, O Bondye mwen, pou mwen pa t’ap konte pami yo menm ki gen zòrèy men 
 (Bahaiprayers.net ID: 7656)
 
 
+
+
 ### <a id="bpn7657"></a> Prayer bpn7657 in Kreyol Ayisyen
 O Senyè Bondye mwen! Ede moun Ou renmen yo pou yo rete fèm nan Relijyon Ou, pou yo mache nan chemen Ou, pou yo fidèl nan Koz Ou a. Ba yo gras Ou pou yo reziste kont atak egoyis ak pasyon yo, pou yo swiv limyè direksyon diven an. Se Ou menm Ki Gen Pouvwa, Ki Plen Gras, Ki Egziste Pou Kont Ou, Sila a Ki Bay, Ki Gen Yon Kè Sansib, Toupisan an, Li menm Ki Gen Tout Bonte a.
 
 (Source category: Fèmte nan Alyans lan)
 (Bahaiprayers.net ID: 7657)
+
+
 
 
 ### <a id="bpn7658"></a> Prayer bpn7658 in Kreyol Ayisyen
@@ -479,12 +679,16 @@ Se Ou menm Ki Padone, Ki Plen Gras.
 (Bahaiprayers.net ID: 7658)
 
 
+
+
 ### <a id="bpn7659"></a> Prayer bpn7659 in Kreyol Ayisyen
 O Senyè mwen, Espwa mwen! Voye èd Ou pou byeneme Ou yo kapab fèm nan Alyans pisan Ou an, pou yo rete fidèl nan Koz Ou ki revele byen klè, e swiv kòmandman yo Ou te ekri pou yo nan Liv Glwa Ou a; pou yo kapab vin drapo k’ap bay direksyon, ak lanp Asanble Selès la, sous sajès Ou ki pa gen limit, ak zetwal k’ap montre bon chemen an pandan y’ap klere depi nan syèl diven an. 
 An verite, se Ou menm Ki Toujou Gen Viktwa, Toupisan an, Ki Gen Tout Pouvwa.
 
 (Source category: Fèmte nan Alyans lan)
 (Bahaiprayers.net ID: 7659)
+
+
 
 
 
@@ -505,6 +709,8 @@ O Bondye! Elimine tout bagay ki koz dezakò, epi prepare pou nou tout bagay ki k
 
 
 
+
+
 ## Gerison Bebe
 
 ### <a id="bpn7671"></a> Prayer bpn7671 in Kreyol Ayisyen
@@ -513,6 +719,8 @@ Poutèt sa, mwen sipliye Ou, avèk non Ou te sèvi pou devwale Divinite Ou, e po
 
 (Source category: Gerison Bebe)
 (Bahaiprayers.net ID: 7671)
+
+
 
 
 
@@ -526,6 +734,8 @@ Non Ou se gerizon mwen, O Bondye, lè mwen sonje Ou mwen jwenn remèd mwen. Vwaz
 (Bahaiprayers.net ID: 7668)
 
 
+
+
 ### <a id="bpn7669"></a> Prayer bpn7669 in Kreyol Ayisyen
 O Bondye, Bondye mwen! Mwen sipliye Ou poutèt oseyan gerizon Ou ak gran limyè ki soti nan Solèy gras Ou a, e poutèt Non Ou - yon non Ou te sèvi pou domine tout sèvitè Ou yo, e poutèt pouvwa Pawòl egzalte Ou a ki antoure tout bagay, ak pisans Plim Ou an ki pi wo, ak mizèrikòd Ou ki te egziste anvan kreyasyon tout sa ki nan syèl la ak tout sa ki sou tè a, mwen sipliye Ou pou byen pwòpte mwen ak dlo bonte Ou yo kont tout maladi ak dezòd, kont tout feblès ak enkapasite. 
 Ou wè, O Senyè mwen, sèvitè Ou sa a k’ap sipliye Ou nan pòt favè Ou, li menm ki te mete espwa li nan Ou, k’ap kenbe fèm kòd bonte Ou a. Mwen priye Ou, pou pa refize li, men fè li jwenn bagay l’ap chèche nan oseyan gras Ou e nan Solèy jantiyès Ou a.
@@ -533,6 +743,8 @@ Ou gen pouvwa pou fè tout sa k’ap fè Ou kontan. Pa genyen lòt Bondye pase O
 
 (Source category: Gerizon)
 (Bahaiprayers.net ID: 7669)
+
+
 
 
 ### <a id="bpn7783"></a> Prayer bpn7783 in Kreyol Ayisyen
@@ -545,6 +757,8 @@ Lwanj pou Ou, O Senyè Bondye mwen! Mwen sipliye Ou, poutèt Pi Gran Non Ou an O
 
 
 
+
+
 ## Gerizon Fanm
 
 ### <a id="bpn7670"></a> Prayer bpn7670 in Kreyol Ayisyen
@@ -553,6 +767,8 @@ An verite, se Ou menm Ki Geri, Ki Pwoteje, Ki Bay Èd, Toupisan an, Ki Plen Pouv
 
 (Source category: Gerizon Fanm)
 (Bahaiprayers.net ID: 7670)
+
+
 
 
 
@@ -570,6 +786,8 @@ Ou glorifye, O Senyè tout kreyasyon an, Sila a tout bagay oblije vire jwenn nan
 (Bahaiprayers.net ID: 7672)
 
 
+
+
 ### <a id="bpn7673"></a> Prayer bpn7673 in Kreyol Ayisyen
 Se Ou menm Ki glorifye, O Senyè Ki Gen Yon Kè Sansib! Mwen sipliye Ou avèk boulvès oseyan diskou sakre Ou te fè, e avèk tout siyn souverènte siprèm Ou an, avèk prèv Divinite Ou yo ki pa kapab diskite, e avèk mistè kache yo ki rete dèyè vwal anndan konesans Ou, pou ban mwen gras reyisi gen chans sèvi Ou e sèvi sila a yo Ou te chwazi yo, e pou pèmèt mwen ofri avèk devouman ak disiplin Huqúq Ou a, sa Ou te bay kòmandman sou li nan Liv Ou a.
 Se mwen menm, O Senyè mwen, ki te mete tout espwa li sou wayòm glwa Ou a, e ki te kenbe avèk anpil fòs woulo wòb gran favè Ou a. O Ou menm Ki se Senyè tout egzistans lan e Dirijan wayòm non yo, mwen sipliye Ou pou pa anpeche mwen jwenn bagay Ou posede yo, ni pou pa anpeche mwen jwenn tout sa ou te deside pou sila a yo Ou te chwazi yo.
@@ -577,6 +795,8 @@ Mwen priyè Ou fò, O Senyè tout non yo ak Kreyatè syèl yo, pou ede mwen rete
 
 (Source category: Huqúqu’lláh)
 (Bahaiprayers.net ID: 7673)
+
+
 
 
 
@@ -588,6 +808,8 @@ O Ou menm Senyè Ki janti! Voye fèmte selès la sou pitit fi wayòm sa a, ede l
 
 (Source category: Jèn Fi yo)
 (Bahaiprayers.net ID: 7777)
+
+
 
 
 
@@ -603,11 +825,15 @@ Se Ou menm Ki glorifye, O Senyè Bondye mwen! Mwen remèsye Ou paske Ou te kreye
 (Bahaiprayers.net ID: 7782)
 
 
+
+
 ### <a id="bpn7674"></a> Prayer bpn7674 in Kreyol Ayisyen
 O Senyè! Fè jèn sa a klere, e voye bonte Ou yo sou kreyati pòv sa a. Fè li jwenn konesans, ba li pi plis fòs chak douvanjou epi pwoteje li anndan abri pwoteksyon Ou pou pèmèt li evite erè, e dedye tèt li nan sèvis Koz Ou a, pou li kapab gide sila yo ki te pèdi chemen an, epi mennen malere yo, libere prizonye yo e reveye neglijan yo, pou tout moun ta jwenn benediksyon nan sonje Ou ak nan ba Ou lwanj. Se Ou menm Ki Pisan, Ki Plen Pouvwa.
 
 (Source category: Jèn yo)
 (Bahaiprayers.net ID: 7674)
+
+
 
 
 ### <a id="bpn7675"></a> Prayer bpn7675 in Kreyol Ayisyen
@@ -620,6 +846,8 @@ Se Ou menm Ki Toupisan an, Tout Gloriye a, Sila a Ki Gen Tout Pouvwa a.
 (Bahaiprayers.net ID: 7675)
 
 
+
+
 ### <a id="bpn7676"></a> Prayer bpn7676 in Kreyol Ayisyen
 O Ou menm Senyè Ki janti! Avèk gras Ou, fè chak nan ti zwazo sa yo jwenn yon pè zèl selès, epi ba yo pouvwa espirityèl la pou yo kapab vole nan espas sa a ki pa gen limit e plane nan otè Wayòm Abhá a.
 O Senyè! Ranfòse grenn sa yo ki frajil pou chak nan yo kapab tounen yon pyebwa, vèt e flerisan, ki chaje ak fwi. Rann nanm sa yo viktoriye avèk pisans lame selès Ou yo, pou pèmèt yo kraze fòs erè ak inyorans lan epi monte drapo zanmitay ak direksyon pami tout pèp yo. O Senyè! Menm jan avèk souf prentan an k’ap bay lavi, pèmèt nanm sa yo fè pyebwa nanm imen yo vin rafrechi e jwenn lavi; pèmèt yo vin tankou lapli prentan yo pou fè vale ki nan rejyon sa a vin vèt ak fètil.
@@ -627,6 +855,8 @@ Se Ou menm Ki Pisan, Sila a Ki Plen Pouvwa; se Ou menm Ki Bay Favè yo, Ki Toujo
 
 (Source category: Jèn yo)
 (Bahaiprayers.net ID: 7676)
+
+
 
 
 
@@ -640,6 +870,8 @@ Mwen sipliye Ou pou pèmèt sèvitè sa a rive jwenn sa k’ap koz delivrans li 
 (Bahaiprayers.net ID: 7677)
 
 
+
+
 ### <a id="bpn7678"></a> Prayer bpn7678 in Kreyol Ayisyen
 Lwanj pou Non Ou, O Senyè Bondye mwen! Mwen se sèvitè Ou ki te rale Kòd dous mizèrikòd Ou yo, e ki te kenbe fèm sou ke wòb gran bonte Ou a. Mwen priye Ou poutèt non Ou ki fè Ou domine tout bagay ki te kreye, ni sa ki vizib ni sa ki envizib, e ki te fè Ou soufle vrè souf lavi a sou tout kreyasyon an, pou ranfòse mwen avèk pouvwa Ou ki te antoure syèl la ak tè a, e pou pwoteje mwen kont tout maladi ak tribilasyon. Mwen bay temwayaj se Ou menm Ki Senyè tout non yo, e se Ou menm Ki Bay Lòd pou akonpli tout sa ki ta kapab fè Ou kontan. Pa gen okenn lòt Bondye pase Ou, Toupisan an, Sila a Ki Konnen Tout Bagay, Ki Gen Tout Sajès la. 
 O Senyè mwen! Chwazi pou mwen sa ki pral bon pou mwen nan chak mond pami tout mond Ou yo. Epi, voye desann pou mwen sa Ou te ekri pou moun Ou te chwazi pami kreyati Ou yo - yo menm ki pa te kite kritik moun k’ap kritike yo, ni bwi enkredil yo, ni separasyon moun ki elwanye tèt yo ak Ou, anpeche yo vire nan direksyon Ou. 
@@ -647,6 +879,8 @@ Vrèman, se Ou menm Ki Pote Sekou nan Danje avèk pouvwa souverènte Ou. Pa gen 
 
 (Source category: Kalite Espirityèl)
 (Bahaiprayers.net ID: 7678)
+
+
 
 
 ### <a id="bpn7679"></a> Prayer bpn7679 in Kreyol Ayisyen
@@ -657,11 +891,15 @@ Ou gen pisans pou fè sa k’ap fè Ou plezi. An verite, se Ou menm Ki Pi Egzalt
 (Bahaiprayers.net ID: 7679)
 
 
+
+
 ### <a id="bpn7680"></a> Prayer bpn7680 in Kreyol Ayisyen
 Kreye nan mwen yon kè ki san tach, O Bondye mwen, e remete anndan mwen yon konsyans ki pezib, O Espwa mwen! Avèk lespri pouvwa a, fè mwen fèm nan Koz Ou, O Pi Byeneme Mwen an, e avèk limyè glwa Ou, devwale pou mwen chemen Ou, O Ou menm Ki Bi dezi mwen yo! Avèk pouvwa pisans Ou ki depase tout bagay, leve mwen jis nan syèl sentete Ou, O Sous egzistans mwen, e avèk souf lavi etènèl Ou, fè mwen kontan, O Ou menm Ki Bondye mwen! Kite melodi Ou yo k’ap kontinye pou tout tan soufle sou mwen voye trankilite, O Konpayon mwen, e fè richès ki nan vizaj ansyen Ou an delivre mwen anba tout bagay esepte Ou menm, O Mèt mwen, epi asepte pou nouvèl sou revelasyon Lespri Ou ki pa janm chanje a pote lajwa pou mwen, O Ou menm Ki pi vizib pase sila yo ki vizib e ki pi kache pase yo menm ki kache yo!
 
 (Source category: Kalite Espirityèl)
 (Bahaiprayers.net ID: 7680)
+
+
 
 
 ### <a id="bpn7681"></a> Prayer bpn7681 in Kreyol Ayisyen
@@ -672,11 +910,15 @@ An verite, se Ou menm Ki Toupisan an, Tout Gloriye a, Sila a Ki Gen Plis Pouvwa 
 (Bahaiprayers.net ID: 7681)
 
 
+
+
 ### <a id="bpn7682"></a> Prayer bpn7682 in Kreyol Ayisyen
 Se pou nou di: O Bondye, Bondye mwen! Kouwone tèt mwen avèk kouwòn jistis la, epi dekore fon mwen avèk bijou yon lespri ekilibre. An verite, se Ou menm Ki Posede tout favè ak bonte yo.
 
 (Source category: Kalite Espirityèl)
 (Bahaiprayers.net ID: 7682)
+
+
 
 
 ### <a id="bpn7683"></a> Prayer bpn7683 in Kreyol Ayisyen
@@ -689,11 +931,15 @@ Senyè! Pa voye mwen ale kite oseyan richès Ou ak syèl mizèrikòd Ou, epi ede
 (Bahaiprayers.net ID: 7683)
 
 
+
+
 ### <a id="bpn7684"></a> Prayer bpn7684 in Kreyol Ayisyen
 Mwen sipliye Ou, O Bondye mwen, poutèt tout glwa a ki nan Non Ou ki pi wo pase tout bagay, pou abiye byeneme Ou yo avèk wòb jistis la epi limen nanm yo avèk limyè a ki soti nan merite konfyans. Se Ou menm Sila a Ki gen pouvwa pou fè tout sa Li vle e Ki kenbe nan men Li kòd yo k’ap dirije tout bagay, ni sa ki vizib, ni sa ki envizib.
 
 (Source category: Kalite Espirityèl)
 (Bahaiprayers.net ID: 7684)
+
+
 
 
 ### <a id="bpn7685"></a> Prayer bpn7685 in Kreyol Ayisyen
@@ -706,6 +952,8 @@ An verite, si Ou ta vle voye benediksyon sou yon sèvitè, lè sa a Ou t’ap el
 (Bahaiprayers.net ID: 7685)
 
 
+
+
 ### <a id="bpn7686"></a> Prayer bpn7686 in Kreyol Ayisyen
 O Bondye mwen! O Bondye mwen! Sa a se sèvitè Ou ki te avanse nan direksyon Ou, l’ap mache avèk anpil devouman nan dezè lanmou Ou, l’ap avanse nan chemen sèvis Ou, l’ap konte sou sipò Ou, li gen espwa pou jwenn bonte Ou, li depann sou Wayòm Ou, e li vin soule avèk bwason diven favè Ou a. O Bondye mwen! Ogmante chalè afeksyon li pou Ou, ogmante fidelite lwanj li pou Ou ansanm ak devouman lanmou li gen pou Ou. 
 An verite, se Ou menm Ki Plis Renmen Bay, Senyè a Ki gen gras k’ap debòde. Pa gen lòt Bondye aprè Ou, Sila a K’ap Padone, Mizèrikòdye a!
@@ -714,11 +962,15 @@ An verite, se Ou menm Ki Plis Renmen Bay, Senyè a Ki gen gras k’ap debòde. P
 (Bahaiprayers.net ID: 7686)
 
 
+
+
 ### <a id="bpn7687"></a> Prayer bpn7687 in Kreyol Ayisyen
 O Senyè mwen! O Senyè mwen! Sa a se yon lanp ki limen ak dife lanmou Ou e ki anflame avèk flanm k’ap pran dife nan pyebwa mizèrikòd Ou. O Senyè mwen! Ogmante limyè, chalè ak flanm li avèk pouvwa dife a ki limen sou Sinayi Manifestasyon Ou an. An verite, Se Ou menm Ki Ranfòse, Sila a K’ap Bay Èd, Ki Plen Pouvwa, Ki Renmen Bay, K’ap Toujou Bay Lanmou.
 
 (Source category: Kalite Espirityèl)
 (Bahaiprayers.net ID: 7687)
+
+
 
 
 ### <a id="bpn7688"></a> Prayer bpn7688 in Kreyol Ayisyen
@@ -730,11 +982,15 @@ An verite, se Ou menm Ki Pisan, Ki Egzalte, Ki Plen Pouvwa, Sila a sèl, nan tou
 (Bahaiprayers.net ID: 7688)
 
 
+
+
 ### <a id="bpn7689"></a> Prayer bpn7689 in Kreyol Ayisyen
 O Senyè! Nou fèb; ban nou fòs. O Bondye! Nou inyoran; fè nou konprann. O Senyè! Nou pòv; fè nou rich. O Bondyè! Nou tankou mò yo; resisite nou. O Senyè! Nou imilye; fè nou jwenn glwa nan Wayòm Ou an. Si Ou ede nou, O Senyè, nou pral vin tankou zetwal k’ap klere nan syèl la. Si Ou pa ban nou èd Ou, nou pral tonbe pi ba pase tè a. O Senyè! Ranfòse nou. O Bondye! Rann nou viktoriye. O Bondye! Pèmèt nou gen viktwa sou santiman egoyis la epi domine dezi terès yo. O Senyè! Delivre nou anba chenn mond materyèl la. O Senyè! Soufle nan nou souf Lespri Sen an pou nou kapab leve pou sèvi Ou, okipe nou nan ba Ou lwanj e dedye efò nou yo avèk pi gran serye nan travay Wayòm Ou an. O Senyè, Ou plen pouvwa. O Bondye, Ou toujou padone. O Senyè, Ou gen yon kè ki sansib.
 
 (Source category: Kalite Espirityèl)
 (Bahaiprayers.net ID: 7689)
+
+
 
 
 
@@ -752,6 +1008,8 @@ An verite, se Ou menm Ki Soutni, Èd la, Sila a Ki Renmen Bay, Ki Plen Bonte, K�
 
 
 
+
+
 ## Kout Priyè Obligatwa
 
 ### <a id="bpn7611"></a> Prayer bpn7611 in Kreyol Ayisyen
@@ -765,6 +1023,8 @@ An verite, se Ou menm Ki Soutni, Èd la, Sila a Ki Renmen Bay, Ki Plen Bonte, K�
 
 
 
+
+
 ## Limanite
 
 ### <a id="bpn7691"></a> Prayer bpn7691 in Kreyol Ayisyen
@@ -774,11 +1034,15 @@ O Ou menm Senyè Ki gen kè sansib, Ou menm Ki gen men ki renmen bay e Ki gen po
 (Bahaiprayers.net ID: 7691)
 
 
+
+
 ### <a id="bpn7692"></a> Prayer bpn7692 in Kreyol Ayisyen
 O Ou menm Senyè a Ki bon! O Ou menm Ki renmen bay e Ki plen mizèrikòd! Nou se sèvitè ki kanpe devan papòt Ou e nou reyini anba pwoteksyon lonbraj ki soti nan linite diven Ou an. Solèy mizèrikòd Ou a ap klere sou tout moun, e nyaj bonte Ou yo ap voye favè sou tout moun tankou lapli. Kado Ou yo antoure tout moun, swen Ou ki plen lanmou ap soutni tout moun, pwoteksyon Ou kouvri tout moun, e rega favè Ou yo tonbe sou tout moun. O Senyè! Voye benediksyon Ou yo ki pa gen limit, e pèmèt limyè direksyon Ou klere. Limen je yo, rejwi kè yo avèk yon jwa ki p’ap janm fini. Bay yon nouvo lespri pou tout pèp yo, epi fè yo jwenn lavi etènèl la. Detake pòt vrè konprann yo e pèmèt limyè kwayans lan klere avèk anpil ekla. Ramase tout pèp anba lonbraj bonte Ou e fè yo ini avèk yon gran akò, pou pèmèt yo vin tankou reyon yon sèl solèy, tankou vag yon sèl lanmè, tankou fwi yon sèl pyebwa. Pèmèt yo bwè nan menm fontèn nan. Pèmèt yo rafrechi avèk menm briz la. Pèmèt yo vin klere avèk menm sous limyè a. Se Ou menm Ki Bay, Ki Plen Mizèrikòd, Ki Gen Tout Otorite.
 
 (Source category: Limanite)
 (Bahaiprayers.net ID: 7692)
+
+
 
 
 ### <a id="bpn7693"></a> Prayer bpn7693 in Kreyol Ayisyen
@@ -796,6 +1060,8 @@ Se Ou menm Ki Pisan an, Ki Plen Pouvwa, se Ou menm Ki Padone e se Ou menm Sila a
 
 
 
+
+
 ## Linite
 
 ### <a id="bpn7694"></a> Prayer bpn7694 in Kreyol Ayisyen
@@ -803,6 +1069,8 @@ O Bondye mwen! O Bondye mwen! Ini kè sèvitè Ou yo,  revele pou yo gran plan O
 
 (Source category: Linite)
 (Bahaiprayers.net ID: 7694)
+
+
 
 
 ### <a id="bpn7695"></a> Prayer bpn7695 in Kreyol Ayisyen
@@ -814,6 +1082,8 @@ An verite, se Ou menm Ki Toupisan an, Sila a Ki Egziste Pou Kont Li, Ki Bay, K�
 
 (Source category: Linite)
 (Bahaiprayers.net ID: 7695)
+
+
 
 
 
@@ -879,6 +1149,8 @@ Bondye pi gran pase tout gran yo!
 
 
 
+
+
 ## Long Priyè pou Gerizon
 
 ### <a id="bpn7617"></a> Prayer bpn7617 in Kreyol Ayisyen
@@ -935,6 +1207,8 @@ Se Li menm Ki Konn Geri, Ki Sifi pou tout moun, Ki Toujou Ede, K’ap Toujou Pad
 
 
 
+
+
 ## Lwanj ak Rekonesans
 
 ### <a id="bpn7696"></a> Prayer bpn7696 in Kreyol Ayisyen
@@ -950,6 +1224,8 @@ O Senyè, limen figi sèvitè Ou yo pou pèmèt yo wè Ou; pwòpte kè yo pou p�
 (Bahaiprayers.net ID: 7696)
 
 
+
+
 ### <a id="bpn7697"></a> Prayer bpn7697 in Kreyol Ayisyen
 Lwanj pou non Ou, O Senyè Bondye mwen! Se Ou menm tout bagay adore men Ou menm Ou pa adore anyen, Ou menm Ki Senyè tout bagay men Ou pa depann sou pèsonn, Ou menm Ki konnen tout bagay men pa gen anyen ki konnen Ou. Ou te vle fè lèzom rekonèt Ou; poutèt sa, avèk yon sèl mo ki te soti nan bouch Ou, Ou te fè kreyasyon an parèt e Ou te bay linivè a fòm li. Pa gen okenn lòt Bondye esepte Ou, Atizan an, Kreyatè a, Toupisan an, Li menm Ki Gen Plis Pouvwa. 
 Mwen sipliye Ou, poutèt menm mo sa a ki te klere nan syèl volonte Ou, pou pèmèt mwen byen bwè nan dlo ki bay lavi a - dlo Ou te sèvi pou fè kè moun Ou te chwazi yo bat pi fò epi ajoute sou angouman nanm moun ki renmen Ou - mwen sipliye Ou pou fè mwen vire figi mwen konplètman nan direksyon Ou nan tout moman e nan tout sikonstans. 
@@ -957,6 +1233,8 @@ Se Ou menm Bondye Ki gen pouvwa a, Ki gen glwa ak bonte. Pa gen lòt Bondye apr�
 
 (Source category: Lwanj ak Rekonesans)
 (Bahaiprayers.net ID: 7697)
+
+
 
 
 ### <a id="bpn7698"></a> Prayer bpn7698 in Kreyol Ayisyen
@@ -969,12 +1247,16 @@ Tout lwanj ak glwa pou Ou, O Ou menm Ki te fè tout bagay temwaye pou di Ou se y
 (Bahaiprayers.net ID: 7698)
 
 
+
+
 ### <a id="bpn7699"></a> Prayer bpn7699 in Kreyol Ayisyen
 Glwa pou Ou, O Senyè Bondye mwen! Mwen remèsye Ou paske Ou te ede mwen rekonèt Manifestasyon Ou Menm menm, e paske Ou te retire mwen nan men enmi Ou yo, e Ou te pèmèt mwen vin wè klè move zak ak mechanste enmi sa yo te fè nan jou Ou yo, e paske Ou te elimine nan mwen tout atachman pou yo, e Ou te fè mwen vire konplètman nan direksyon gras ak gran favè Ou yo. Anplis, mwen remèsye Ou poutèt Ou te voye desann sou mwen, depi nan nyaj volonte Ou yo, sa ki te tèlman sanntifye mwen kont sijèsyon enkredil yo e kont pawòl moun ki pa kwayan yo sa te fè mwen byen fikse kè mwen sou Ou, e mwen te kouri kite tout moun ki te rejte limyè ki klere nan vizaj Ou. Yon lòt fwa ankò mwen remèsye Ou poutèt Ou te ban mwen kapasite pou mwen rete fidèl nan lanmou Ou, e deklare lwanj Ou ak glorifye kalite Ou yo, e poutèt Ou te ban mwen bwè nan tas mizèrikòd Ou a - yon mizèrikòd ki te depase tout sa nou kapab wè ak tout sa nou pa kapab wè. 
 Se Ou menm Ki Toupisan an, Ki Pi Egzalte a, Ki Gen Tout Glwa a, K’ap Toujou Bay Lanmou.
 
 (Source category: Lwanj ak Rekonesans)
 (Bahaiprayers.net ID: 7699)
+
+
 
 
 ### <a id="bpn7700"></a> Prayer bpn7700 in Kreyol Ayisyen
@@ -984,6 +1266,8 @@ Beni se kote a, kay la, zòn nan, vil la, kè a, montay la, refij la, gwòt la, 
 (Bahaiprayers.net ID: 7700)
 
 
+
+
 ### <a id="bpn7701"></a> Prayer bpn7701 in Kreyol Ayisyen
 O Bondye mwen, tout majeste ak glwa, tout otorite ak limyè, tout grandè ak bèlte se pou Ou.Ou voye souverènte sou moun Ou vle, e moun Ou pa vle, Ou anpeche yo jwenn li. Pa gen okenn Bondye esepte Ou menm, Ki Posede Tout Bagay, Ki Pi Egzalte a. Se Ou menm Sila a Ki te pran kote ki pa te genyen anyen an pou kreye linivè a ak tout sa ki abite ladann li. Pa gen anyen ki diyn pou rive jwenn Ou sof Ou Menm menm, pandan nan sen prezans Ou an tout bagay esepte Ou menm rete tankou moun ki egzile epi yo parèt tankou yo pa anyen lè nou konpare yo ak glwa Pwòp Lespri pa Ou. 
 Sa depase kapasite mwen pou louwe kalite Ou yo sof si mwen sèvi ak jan Ou te louwe pwòp tèt pa Ou nan pisan Liv Sen Ou an, kote Ou di: “Pa gen okenn je ki kapab wè Li, men Li wè tout sila yo ki kapab wè. Se Li menm Ki Konprann, Sila a Ki Okouran Tout Bagay.” Glwa pou Ou, O Senyè mwen, vrèman okenn lespri oubyen je, kèlkeswa jan li fò oubyen jan li gen kapasite pou wè byen, p’ap janm kapab konprann vrè nati pi piti siyn pami tout siyn Ou te revele yo. An verite, se Ou menm Ki Bondye, pa gen okenn Bondye esepte Ou menm. Mwen temwen se Ou menm pou kont Ou sèlman Ki kapab montre siyn Ou yo; ni pa gen lwanj pèsonn moun ta bay ki kapab jamè rive jwenn lakou sakre Ou a - se lwanj pa Ou sèlman ki kapab rive la, ni pèsonn moun p’ap janm kapab konprann kalite Ou yo - se Ou menm sèlman ki konprann yo.
@@ -991,6 +1275,8 @@ Glwa pou Ou, se Ou menm Ki egzalte pi wo pase esplikasyon nenpòt moun ta kapab 
 
 (Source category: Lwanj ak Rekonesans)
 (Bahaiprayers.net ID: 7701)
+
+
 
 
 
@@ -1011,6 +1297,8 @@ E lè Li te vle montre gras ak bonte Li pou lèzòm, pou mete lòd nan mond la, 
 (Bahaiprayers.net ID: 7702)
 
 
+
+
 ### <a id="bpn7703"></a> Prayer bpn7703 in Kreyol Ayisyen
 O Senyè mwen, O Senyè mwen! De kò selès ki klere sa yo ap marye nan lanmou Ou, y’ap reyini nan sèvis yo devan Papòt Sakre Ou a, yo ini yo nan okipe zafè Koz Ou a. O Senyè mwen, Tout Mizèrikòdye a! Fè maryaj sa a vin tankou très ki fèt avèk reyon limyè yo akoz gras Ou k’ap debòde, fè li tankou reyon benediksyon Ou yo k’ap klere, O Ou menm Ki Renmen Bay, K’ap Toujou Bay, pou pèmèt branch ap soti nan gran pyebwa sa a, pouse tou vèt, tou fre akoz favè Ou yo k’ap desann soti nan nyaj gras Ou yo tankou lapli.
 An verite, se Ou menm Ki Renmen Bay. An verite, se Ou menm Ki Toupisan. An verite, se Ou menm Ki Gen Konpasyon, Tout-Mizèrikòdye a.
@@ -1019,11 +1307,15 @@ An verite, se Ou menm Ki Renmen Bay. An verite, se Ou menm Ki Toupisan. An verit
 (Bahaiprayers.net ID: 7703)
 
 
+
+
 ### <a id="bpn7704"></a> Prayer bpn7704 in Kreyol Ayisyen
 Glwa pou Ou, O Bondye mwen! An verite, sèvitè Ou sa a ak sèvant Ou sa a te rasanble anba lonbraj mizèrikòd Ou e yo ini poutèt favè ak bonte Ou. O Senyè! Ede yo nan mond Ou ak wayòm Ou sa a epi voye pou yo tout bon bagay avèk bonte ak gras Ou. O Senyè! Ranfòse yo nan efò y’ap fè pou sèvi Ou epi ede yo nan travay Ou. Pèmèt yo tounen siyn Non Ou nan mond Ou an e pwoteje yo avèk benediksyon Ou yo ki p’ap janm fini. O Senyè! Y’ap sipliye syèl mizèrikòd Ou a e y’ap priye paradi inite Ou. An verite, yo marye nan obeyisans ak kòmandman Ou. Fè yo vin siyn zanmitay ak inite jiskaske tan an fini. An verite, Ou Gen Pouvwa Sou Tout Bagay, Ou Tout Kote, Ou Toupisan!
 
 (Source category: Maryaj)
 (Bahaiprayers.net ID: 7704)
+
+
 
 
 ### <a id="bpn7705"></a> Prayer bpn7705 in Kreyol Ayisyen
@@ -1036,6 +1328,8 @@ O Ou menm, Senyè mizèrikòdye! Pèmèt maryaj sa a fè kokiyaj ak bijou parèt
 
 
 
+
+
 ## Maten
 
 ### <a id="bpn7706"></a> Prayer bpn7706 in Kreyol Ayisyen
@@ -1045,12 +1339,16 @@ Mwen reveye anba abri Ou, O Bondye mwen, e li ta bon pou sila a ki ap chèche ab
 (Bahaiprayers.net ID: 7706)
 
 
+
+
 ### <a id="bpn7707"></a> Prayer bpn7707 in Kreyol Ayisyen
 Mwen leve maten an akoz gras Ou, O Bondye mwen, epi mwen te kite lakay mwen ak tout konfyans mwen nan Ou menm, kote mwen te remèt tèt mwen nan men Ou. Poutèt sa, fè desann sou mwen yon benediksyon ki soti kote Ou nan syèl mizèrikòd Ou a, e pèmèt mwen retounen lakay mwen sen e sof menm jan Ou te pèmèt mwen soti maten an anba pwoteksyon Ou avèk panse mwen yo byen fikse sou Ou. 
 Pa genyen lòt Bondye pase Ou, Ou menm Ki Pou Kont Ou, Ki San Parèy, Ki Konnen Tout Bagay, Ki Gen Tout Sajès la.
 
 (Source category: Maten)
 (Bahaiprayers.net ID: 7707)
+
+
 
 
 ### <a id="bpn7708"></a> Prayer bpn7708 in Kreyol Ayisyen
@@ -1065,6 +1363,8 @@ Ou toujou satisfè moun ki chèche èd Ou, ni Ou pa janm repouse nenpòt moun Ki
 
 
 
+
+
 ## Minwi
 
 ### <a id="bpn7638"></a> Prayer bpn7638 in Kreyol Ayisyen
@@ -1074,6 +1374,8 @@ An verite, se Ou menm Ki Bay, Ki Gen Men Ki Ouvè, Ki Plen Mizèrikòd, K’ap T
 
 (Source category: Minwi)
 (Bahaiprayers.net ID: 7638)
+
+
 
 
 
@@ -1113,6 +1415,8 @@ An verite, se Ou menm Ki Bay, Ki Gen Men Ki Ouvè, Ki Plen Mizèrikòd, K’ap T
 
 
 
+
+
 ## Padon
 
 ### <a id="bpn7710"></a> Prayer bpn7710 in Kreyol Ayisyen
@@ -1123,11 +1427,15 @@ Mwen se sèvitè Ou, O Bondye mwen, ak pitit sèvitè Ou. Mwen te rekonèt verit
 (Bahaiprayers.net ID: 7710)
 
 
+
+
 ### <a id="bpn7711"></a> Prayer bpn7711 in Kreyol Ayisyen
 Ou wè mwen, O Senyè mwen, avèk figi mwen vire nan direksyon paradi bonte Ou ak oseyan favè Ou, mwen detache ak tout bagay sof Ou menm. Mwen mande Ou, poutèt ekla Solèy revelasyon Ou ki te klere sou Sinayi a, ak Limyè Selès gras Ou k’ap briye nan syèl Non Ou, Sila a K’ap Toujou Padone a, mwen mande Ou pou padone mwen e pou gen mizèrikòd pou mwen. Epi, ekri pou mwen, avèk plim glwa Ou, sa ki pral egzalte mwen nan mond kreyasyon an akoz Non Ou. Ede mwen, O Senyè, pou mwen vire nan direksyon Ou, epi koute vwa byeneme Ou yo - yo menm pouvwa tèrès yo pa t’ kapab febli, epi otorite nasyon yo pa t’ kapab anpeche yo jwenn prezans Ou, yo menm ki te avanse nan direksyon Ou pandan yo t’ap di: “Bondye se Senyè nou, Senyè tout sa ki nan syèl la ak tout sa ki sou tè a.”
 
 (Source category: Padon)
 (Bahaiprayers.net ID: 7711)
+
+
 
 
 ### <a id="bpn7712"></a> Prayer bpn7712 in Kreyol Ayisyen
@@ -1139,6 +1447,8 @@ Poutèt sa, O Senyè mwen, padone sèvitè Ou yo ak sèvant Ou yo. Vrèman, se O
 (Bahaiprayers.net ID: 7712)
 
 
+
+
 ### <a id="bpn7713"></a> Prayer bpn7713 in Kreyol Ayisyen
 Lwanj pou Ou, O Senyè. Padone nou poutèt peche nou yo, gen mizèrikòd pou nou e pèmèt nou retounen jwenn Ou. Pa kite nou depann sou okenn lòt esepte Ou menm, epi, avèk bonte Ou, voye pou nou sa Ou renmen ak sa Ou vle pou nou ak sa ki ta diyn pou majeste Ou. Egzalte ran moun ki te vrèman kwè, epi padone yo avèk padon Ou ki plen gras. An verite, se Ou menm Ki Pote Sekou nan Danje, Sila a Ki Egziste Pou Kont Li.
 
@@ -1146,11 +1456,15 @@ Lwanj pou Ou, O Senyè. Padone nou poutèt peche nou yo, gen mizèrikòd pou nou
 (Bahaiprayers.net ID: 7713)
 
 
+
+
 ### <a id="bpn7714"></a> Prayer bpn7714 in Kreyol Ayisyen
 Mwen sipliye Ou, O Senyè mwen, pou padone mwen poutèt tout pawòl mwen di ki neglije Ou, poutèt tout lwanj mwen bay ki pa pou Ou, pou tout kontantman mwen santi ki pa soti nan prezans Ou, pou tout plezi mwen jwenn ki pa soti nan plezi ki genyen lè m’ap priye Ou, pou tout jwa ki pa jwa ki genyen nan lanmou Ou ni nan bon plezi Ou, e pou tout bagay ki lye avèk mwen menm men ki pa gen okenn relasyon avèk Ou, O Ou memn Ki Senyè tout senyè yo, Sila a Ki bay mwayen yo e Ki detake pòt yo.
 
 (Source category: Padon)
 (Bahaiprayers.net ID: 7714)
+
+
 
 
 ### <a id="bpn7715"></a> Prayer bpn7715 in Kreyol Ayisyen
@@ -1161,12 +1475,16 @@ O Bondye mwen! Ou te motive nanm mwen pou li te kapab ofri lapriyè li pou Ou, e
 (Bahaiprayers.net ID: 7715)
 
 
+
+
 ### <a id="bpn7716"></a> Prayer bpn7716 in Kreyol Ayisyen
 Glwa pou Ou, O Bondye. Kòman mwen ta kapab pale sou Ou pandan Ou menm Ou sanntifye pi wo pase lwanj tout limanite. Louwe Non Ou, O Bondye, se Ou menm Ki Wa, Laverite Etènèl la; Ou konnen tout sa ki nan syèl la ak sou tè a, e tout kreyasyon an dwe retounen jwenn Ou. Ou te voye desann Revelasyon diven Ou daprè yon limit klè Ou te fikse. Se Ou menm ki louwe, O Senyè! Ou bay viktwa daprè kòmandman Ou pou nenpòt moun Ou vle, avèk sipò lame yo ki nan syèl la ak sou tè a e nan tout sa ki egziste nan mitan yo. Se Ou menm Souveren an, Laverite Etènèl la, Senyè Ki posede yon pisans ki toujou gen viktwa. 
 Glorifye se Ou menm, O Senyè! Nan tout moman Ou padone peche pou sila pami sèvitè Ou yo ki sipliye padon Ou. Lave peche mwen yo ak peche moun ki chèche padon Ou nan chak douvanjou, moun ki priye Ou pandan jounen an e pandan lanwit, ki pa anvi jwenn anyen esepte Bondye, ki sakrifye tout sa Bondye te voye pou yo avèk gras Li, moun ki chante lwanj Ou nan maten yo ak nan lanjelis yo, e ki pa neglijan nan devwa yo.
 
 (Source category: Padon)
 (Bahaiprayers.net ID: 7716)
+
+
 
 
 ### <a id="bpn7717"></a> Prayer bpn7717 in Kreyol Ayisyen
@@ -1179,12 +1497,16 @@ Se Ou menm Dirijan Souveren an, Sila a Ki fè zèv avèk pisans, Egzalte a, Li m
 (Bahaiprayers.net ID: 7717)
 
 
+
+
 ### <a id="bpn7718"></a> Prayer bpn7718 in Kreyol Ayisyen
 O Ou menm Senyè mizèrikòdye a! Nou se sèvitè devan Papòt Ou, k’ap chèche abri nan Pòt sakre Ou a. Nou pa chèche lòt refij sof nan vwazinaj pilye solid sa a, nou pa gade okenn lòt kote pou jwenn sekirite nou esepte anba pwoteksyon Ou. Pwoteje nou, beni nou, ban nou sipò, fè nou devlope pou nou kapab renmen sèlman bon plezi Ou, jiskaske se sèlman lwanj Ou nou chante, jiskaske se sèlman chemen laverite nou swiv, pou nou kapab vin ase rich pou nou abondone tout bagay esepte Ou menm, epi jwenn favè nou yo nan lanmè bonte Ou a, pou nou kapab toujou travay pou egzalte Koz Ou a ak gaye dous pafen Ou yo toupatou, pou nou kapab bliye tèt nou e vin okipe sèlman avèk Ou menm, pou nou mete akote tout lòt bagay e vin enterese nan Ou menm sèlman.
 O Ou menm Ki Satisfè Bezwen yo, O Ou menm Ki Padone! Ban nou gras Ou ak jantiyès Ou ki plen lanmou, ban nou kado Ou ak favè Ou, epi soutni nou, pou nou kapab rive jwenn objektif nou. Se Ou menm Ki Gen Pouvwa, Ki Kapab, Ki Konnen, Ki Wè; e, an verite, se Ou menm Ki Renmen Bay, e, an verite, se Ou menm Ki Pi Mizèrikòdye a, e, an verite, se Ou menm K’ap Toujou Padone, Li menm nou tout dwe repanti devan Li, Sila a K’ap Padone menm peche ki pi grav yo.
 
 (Source category: Padon)
 (Bahaiprayers.net ID: 7718)
+
+
 
 
 ### <a id="bpn7719"></a> Prayer bpn7719 in Kreyol Ayisyen
@@ -1195,6 +1517,8 @@ O Ou menm Senyè K’ap Padone! Se Ou menm Ki sèvi kòm pwoteksyon pou tout sè
 
 
 
+
+
 ## Paran yo
 
 ### <a id="bpn7721"></a> Prayer bpn7721 in Kreyol Ayisyen
@@ -1202,6 +1526,8 @@ O Senyè! Ou asepte, nan Pi Gran Epòk sa a, pou pitit yo sipliye Ou nan non par
 
 (Source category: Paran yo)
 (Bahaiprayers.net ID: 7721)
+
+
 
 
 
@@ -1231,6 +1557,8 @@ Se Li Ki Wa, Ki Konnen Tout Bagay, Ki Saj la!
 
 
 
+
+
 ## Priyè Fanm pou Mari li
 
 ### <a id="bpn7726"></a> Prayer bpn7726 in Kreyol Ayisyen
@@ -1241,6 +1569,8 @@ An verite, se Ou menm Ki Gen Anpil Valè pou nou, K’ap Toujou Bay, Sila a Ki R
 
 (Source category: Priyè Fanm pou Mari li)
 (Bahaiprayers.net ID: 7726)
+
+
 
 
 
@@ -1267,6 +1597,8 @@ An verite, se Ou menm Ki Gen Anpil Valè pou nou, K’ap Toujou Bay, Sila a Ki R
 
 
 
+
+
 ## Priyè Vizitasyon pou Bahá’u’lláh e Le Báb
 
 ### <a id="bpn7618"></a> Prayer bpn7618 in Kreyol Ayisyen
@@ -1290,6 +1622,8 @@ Lwanj ki te soti nan pi wo Lespri Ou a, e glwa ki te klere depi Bote Ou ki pi br
 
 
 
+
+
 ## Priyè Vizitasyon pou ‘Abdu’l-Bahá
 
 ### <a id="bpn7619"></a> Prayer bpn7619 in Kreyol Ayisyen
@@ -1308,6 +1642,8 @@ Se Li menm Ki Tout-Gloriye a!
 
 (Source category: Priyè Vizitasyon pou ‘Abdu’l-Bahá)
 (Bahaiprayers.net ID: 7619)
+
+
 
 
 
@@ -1335,6 +1671,8 @@ An verite, Ou se Toupisan an, Ki Konnen Tout Bagay, Ki Gen Tout Sajès.
 
 
 
+
+
 ## Priyè pou Fanm
 
 ### <a id="bpn7722"></a> Prayer bpn7722 in Kreyol Ayisyen
@@ -1346,6 +1684,8 @@ An verite, se Ou menm Ki Toujou Padone, Ki Pi Mizèrikòdye a.
 (Bahaiprayers.net ID: 7722)
 
 
+
+
 ### <a id="bpn7723"></a> Prayer bpn7723 in Kreyol Ayisyen
 O Bondye, Bondye mwen! Ranpli pou mwen tas lespri ki detache ak tout bagay, e rejwi mwen nan asanble glwa ak bonte Ou avèk bwason diven lanmou Ou. Libere mwen anba atak pasyon ak dezi yo, kase pou mwen chenn lemonn materyèl sa a, atire mwen avèk gran kontantman pou wayòm Ou ki anwo a, epi rafrechi mwen, pami sèvant yo, avèk souf sentete Ou yo. 
 O Senyè, limen figi mwen avèk limyè benediksyon Ou yo, klere je mwen pandan m’ap gade siyn pisans Ou yo ki domine tout bagay, rejwi kè mwen avèk glwa konesans Ou ki antoure tout bagay, O Ou menm Ki Wa mond sa a ak Wayòm anwo a, O Ou menm Senyè pouvwa ak pisans, fè nanm mwen kontan avèk bòn nouvèl Ou sou gran lajwa k’ap rebay nanm yo lavi, pou pèmèt mwen gaye siyn ak prèv Ou yo toupatou, epi pwoklame Koz Ou, pataje Ansèyman Ou yo, rann sèvis ak Lwa Ou e egzalte Pawòl Ou.
@@ -1353,6 +1693,8 @@ An verite, se Ou menm Ki Plen Pouvwa, Ki Toujou Bay, Ki Kapab, Ki Gen Otorite so
 
 (Source category: Priyè pou Fanm)
 (Bahaiprayers.net ID: 7723)
+
+
 
 
 
@@ -1367,6 +1709,8 @@ O Senyè mwen, mwen dedye pou Ou sa ki nan matris mwen an. Fè li vin yon timoun
 
 
 
+
+
 ## Priyè pou Fanm ki Mouri
 
 ### <a id="bpn7731"></a> Prayer bpn7731 in Kreyol Ayisyen
@@ -1377,6 +1721,8 @@ An verite, se Ou menm Ki Pisan, Ki Gen Konpasyon, Ki Renmen Bay, Ki Plen Mizèri
 (Bahaiprayers.net ID: 7731)
 
 
+
+
 ### <a id="bpn7732"></a> Prayer bpn7732 in Kreyol Ayisyen
 O Ou menm Senyè Ki Gen Kè Dou! Sèvant Ou sa a ki chè pou nou te vle avanse nan direksyon Ou, e li te sèvi avèk panse li ak jijman li pou chèche jwenn prezans Ou e antre nan wayòm Ou yo. Avèk dlo nan je li, li te vire rega li sou Wayòm Mistè a. Li te pase anpil nwit nan fon lapriyè avèk Ou, e li te viv anpil jou avèk panse li yo ki plen lanmou fikse sou Ou. Chak maten li t’ap sonje Ou, epi chak lanjelis li t’ap mete panse li yo sou Ou. Li te chante vèsè sakre yo tankou yon wosinyòl, e li te chèche reflete limyè Ou tankou yon glas.
 O Ou menm Ki Padone peche yo! Ouvri chemen an pou pèmèt nanm ki reveye sa a ta kapab antre nan Wayòm Ou an, e fè zwazo sa a Ou te antrene avèk men Ou reyisi vole nan jaden woz ki p’ap janm fini an. Li gen gran anvi pou avanse pi pre Ou; pèmèt li rive jwenn prezans Ou. Li twouble e li ajite nan separasyon li ak Ou menm; ba li dwa antre nan Kay Selès Ou a.
@@ -1384,6 +1730,8 @@ O Senyè! Nou se pechè, men se Ou menm Ki Padone. Nou plonje nan oseyan defo no
 
 (Source category: Priyè pou Fanm ki Mouri)
 (Bahaiprayers.net ID: 7732)
+
+
 
 
 
@@ -1400,6 +1748,8 @@ Ede yo, O Bondye mwen, pou rann Ou viktoriye epi egzalte Pawòl Ou a. O Bondye! 
 (Bahaiprayers.net ID: 7769)
 
 
+
+
 ### <a id="bpn7770"></a> Prayer bpn7770 in Kreyol Ayisyen
 ##Priyè pou Fèmen Jèn nan 
 
@@ -1411,6 +1761,8 @@ Lwanj pou Ou, O Senyè Bondye mwen! Nou te swiv Jèn nan daprè kòmand Ou epi n
 (Bahaiprayers.net ID: 7770)
 
 
+
+
 ### <a id="bpn7771"></a> Prayer bpn7771 in Kreyol Ayisyen
 ##Priyè pou Tout Jèn nan 
 
@@ -1420,11 +1772,15 @@ Nan Non Sila a Liv Sen Bondye yo te pwomi, Li menm Ki Konnen Tout Bagay, Ki Okou
 (Bahaiprayers.net ID: 7771)
 
 
+
+
 ### <a id="bpn7772"></a> Prayer bpn7772 in Kreyol Ayisyen
 Lwanj pou Ou, O Bondye, Bondye mwen! Sa yo se jou Ou te kòmande sila yo Ou te chwazi, byeneme Ou yo ak sèvitè Ou yo pou yo swiv Jèn nan - Ou te fè Jèn nan yon limyè pou pèp yo nan wayòm Ou an, menm jan an Ou te fè priyè obligatwa a yon nechèl pou moun ki rekonèt linite Ou ta kapab monte. Mwen sipliye Ou, O Bondye mwen, poutèt de poto pisan sa yo, poto Ou te kòmande kòm yon glwa ak yon onè pou tout limanite, pou pwoteje relijyon Ou kont dezòd moun ki pèdi chemen an e kont konplo mechan yo. O Senyè, pa kache limyè a Ou te revele avèk pouvwa Ou ak pisans siprèm Ou an. Daprè kòmand Ou ak souverènte Ou, asiste moun ki vrèman kwè nan Ou avèk lame nou kapab wè a ak lame zanj envizib la. Pa gen lòt Bondye pase Ou menm, Toupisan an, Li menm Ki Gen Plis Pouvwa.
 
 (Source category: Priyè pou Jèn nan)
 (Bahaiprayers.net ID: 7772)
+
+
 
 
 ### <a id="bpn7773"></a> Prayer bpn7773 in Kreyol Ayisyen
@@ -1442,6 +1798,8 @@ Bay Koz Ou laviktwa, O Bondye mwen, e bese enmi Ou yo. Epi, ekri pou nou tout sa
 (Bahaiprayers.net ID: 7773)
 
 
+
+
 ### <a id="bpn7774"></a> Prayer bpn7774 in Kreyol Ayisyen
 O Bondye Mizèrikòdye a, Ou menm Ki genyen pouvwa ki antoure tout bagay ki kreye, Ou wè sèvitè sa yo ki koube yo nèt devan Ou, ki, daprè bon plezi Volonte Ou, ap swiv pandan jounen an jèn nan Ou te kòmande a. Yo leve menm anvan douvanjou a pou site Non Ou, e pou chante lwanj Ou, avèk espwa y’ap jwenn pòsyon pa yo nan bon bagay Ou te sere nan trezò gras ak bonte Ou yo. O Ou menm Ki kenbe nan men Ou kòd k’ap dirije tout kreyasyon an, O Ou menm Ki sere tout wayòm non Ou yo ak kalite Ou yo, mwen sipliye Ou, nan Jou Ou a, pou pa kite sèvitè Ou yo manke jwenn lapli k’ap soti nan nyaj mizèrikòd Ou yo, ni pa anpeche yo pran pòsyon pa yo nan oseyan bon plezi Ou a.
 Tout bagay ki tou piti sou latè bay temwayaj sou grandè pouvwa Ou ak souverènte Ou, O Senyè mwen; e tout siyn nan linivè a pwouve glwa majeste Ou ak pisans Ou. O Ou menm Ki se Senyè souveren tout bagay, Ou menm Ki Wa jou ki p’ap fini yo, ak Dirijan tout nasyon yo! Mwen lapriyè Ou, O Senyè, pou genyen mizèrikòd pou sèvitè sa yo, yo menm ki te kenbe fèm ak kòd kòmandman Ou an, yo menm ki te bese tèt yo devan revelasyon lwa Ou yo ki te desann nan syèl Volonte Ou.
@@ -1451,6 +1809,8 @@ Ou wè, O Senyè, men nou ki leve, y’ap sipliye bò kote syèl favè ak bonte 
 
 (Source category: Priyè pou Jèn nan)
 (Bahaiprayers.net ID: 7774)
+
+
 
 
 ### <a id="bpn7775"></a> Prayer bpn7775 in Kreyol Ayisyen
@@ -1473,6 +1833,8 @@ Lwanj pou Ou, O Bondye mwen, paske Ou te ede nou rekonèt e renmen Li. Poutèt s
 
 
 
+
+
 ## Priyè pou Moun ki Mouri
 
 ### <a id="bpn7727"></a> Prayer bpn7727 in Kreyol Ayisyen
@@ -1482,6 +1844,8 @@ Glorifye, Ou pi glorifye pase tout bagay ki kapab mezire! Nou adore Ou nan verit
 
 (Source category: Priyè pou Moun ki Mouri)
 (Bahaiprayers.net ID: 7727)
+
+
 
 
 ### <a id="bpn7728"></a> Prayer bpn7728 in Kreyol Ayisyen
@@ -1501,6 +1865,8 @@ Pa genyen lòt Bondye pase Ou menm, Sila a Ki pa gen parèy, Ki pou kont Li, Ki 
 (Bahaiprayers.net ID: 7728)
 
 
+
+
 ### <a id="bpn7729"></a> Prayer bpn7729 in Kreyol Ayisyen
 O Ou menm, Senyè K’ap padone!
 Malgre kèk nanm te pase tout jou lavi yo nan inyorans, e yo te vin separe e viv nan yon gran dezobeyisans, men, avèk yon sèl vag nan oseyan padon Ou, tout moun sa yo ki antoure ak peche pral libere. Nenpòt moun Ou chwazi, Ou fè li tounen yon moun ki jwenn konfyans Ou, e nenpòt moun Ou pa chwazi pral konte pami pechè yo. Si Ou ta trete nou tout avèk jistis Ou, nou tout t’ap merite bloke kòm pechè ki p’ap janm jwenn Ou, men si Ou ta aji ak mizèrikòd, sa t’ap pwòpte chak pechè fè li vin san tach e fè chak etranje tounen yon zanmi. Poutèt sa, voye padon Ou, efase peche nou yo, e bay mizèrikòd Ou pou tout moun. 
@@ -1508,6 +1874,8 @@ Se Ou menm Ki Padone, Ki Bay Limyè, Ki Gen Tout Otorite.
 
 (Source category: Priyè pou Moun ki Mouri)
 (Bahaiprayers.net ID: 7729)
+
+
 
 
 ### <a id="bpn7730"></a> Prayer bpn7730 in Kreyol Ayisyen
@@ -1519,6 +1887,8 @@ O Senyè mwen! Lave peche yo, elimine tristès yo, epi chanje fènwa yo nan limy
 (Bahaiprayers.net ID: 7730)
 
 
+
+
 ### <a id="bpn7781"></a> Prayer bpn7781 in Kreyol Ayisyen
 *Priyè pou moun ki mouri 
 
@@ -1528,6 +1898,8 @@ O Bondye mwen! O Bondye mwen! An verite, sèvitè Ou, ki bese li devan majeste o
 
 (Source category: Priyè pou Moun ki Mouri)
 (Bahaiprayers.net ID: 7781)
+
+
 
 
 
@@ -1547,6 +1919,8 @@ An verite, se Ou menm Ki Konnen Tout Bagay, Ki Genyen Tout Sajès la.
 
 
 
+
+
 ## Priyè pou tout Jèn nan
 
 ### <a id="bpn7778"></a> Prayer bpn7778 in Kreyol Ayisyen
@@ -1561,6 +1935,8 @@ Lwanj pou Ou, O Senyè Bondye mwen! Mwen sipliye Ou poutèt Revelasyon sa a ki t
 
 
 
+
+
 ## Pwoteksyon
 
 ### <a id="bpn7733"></a> Prayer bpn7733 in Kreyol Ayisyen
@@ -1569,6 +1945,8 @@ O Bondye mwen! Pwoteje li osi, avèk pouvwa majeste Ou ki depase tout sa nou kap
 
 (Source category: Pwoteksyon)
 (Bahaiprayers.net ID: 7733)
+
+
 
 
 ### <a id="bpn7734"></a> Prayer bpn7734 in Kreyol Ayisyen
@@ -1580,11 +1958,15 @@ An verite, se Ou menm Ki Toupisan, Pi Egzalte a, Sila a K’ap Toujou Padone, Ki
 (Bahaiprayers.net ID: 7734)
 
 
+
+
 ### <a id="bpn7735"></a> Prayer bpn7735 in Kreyol Ayisyen
 O Dye, Bondye mwen! Mwen te kite lakay mwen, pandan mwen t’ap kenbe fèm fil lanmou Ou, epi mwen te mete tèt mwen konplètman anba swen Ou ak pwoteksyon Ou. Mwen sipliye Ou, avèk pouvwa a Ou te sèvi pou pwoteje byeneme Ou yo kont moun ki pèdi chemen an ak moun imoral yo, kont chak opresè rebèl, e kont chak mechan dezobeyisan ki rete byen lwen Ou, mwen sipliye Ou pou kenbe mwen an sekirite avèk bonte Ou ak gras Ou. Epi, pèmèt mwen retounen lakay mwen akoz pouvwa Ou ak pisans Ou. Vrèman, se Ou menm Ki Toupisan an, Sila a Ki Pote Sekou Nan Danje, Ki Egziste pou kont Li.
 
 (Source category: Pwoteksyon)
 (Bahaiprayers.net ID: 7735)
+
+
 
 
 ### <a id="bpn7736"></a> Prayer bpn7736 in Kreyol Ayisyen
@@ -1597,6 +1979,8 @@ Ou egzalte pi wo pase sa ki kapab mezire, O Senyè! Pwoteje nou kont sa ki rete 
 (Bahaiprayers.net ID: 7736)
 
 
+
+
 ### <a id="bpn7737"></a> Prayer bpn7737 in Kreyol Ayisyen
 Voye pou mwen, O Senyè mwen, ak pou moun ki kwè nan Ou, sa Ou estime k’ap pi bon pou nou, jan li prezante nan Manman Liv la, paske Ou kenbe anba kontwòl Ou pòsyon ki etabli pou tout bagay. 
 Ou voye desann bon kado Ou yo san rete sou tout moun ki vrèman apresye lanmou Ou, e Ou bay avèk jenewozite siyn mèveye bonte selès Ou yo sou tout moun ki kwè nan Linite diven Ou. Nou mete anba swen Ou tout sa Ou te chwazi pou lavni nou, epi nou priye Ou pou deside voye pou nou tout bon bagay konesans Ou posede. 
@@ -1607,6 +1991,8 @@ Pa gen okenn pouvwa ni fòs esepte nan Bondye, Pi Egzalte a, Pi Pisan an.
 (Bahaiprayers.net ID: 7737)
 
 
+
+
 ### <a id="bpn7738"></a> Prayer bpn7738 in Kreyol Ayisyen
 Glwa pou Ou, O Bondye! Se Ou menm Bondye Ki te egziste anvan tout bagay, Ki ap egziste aprè tout bagay e Ki pral kontinye pi lontan pase tout bagay. Se Ou menm Bondye Ki konnen tout bagay, Ki gen otorite sou tout bagay. Se Ou menm Bondye Ki trete tout bagay avèk mizèrikòd, Ki jije ant tout bagay e Ki gen yon konesans ki anbrase tout bagay. Se Ou menm Bondye Senyè mwen, se Ou menm Ki konprann pozisyon mwen, se Ou menm Ki temwaye egzistans espirityèl ak materyèl mwen an. 
 Voye padon Ou pou mwen e pou kwayan yo ki te reponn ak Apèl Ou. Bondye, se pou rete sipò a k’ap sifi pou mwen kont mechanste nenpòt moun ki ta vle voye tristès sou mwen oubyen ki espere malè rive sou mwen. An verite, se Ou menm Ki Senyè pou tout bagay ki te kreye. Se Ou menm Ki sifi pou tout moun, men pèsonn moun pa sifi pou kont li san Ou menm.
@@ -1615,11 +2001,15 @@ Voye padon Ou pou mwen e pou kwayan yo ki te reponn ak Apèl Ou. Bondye, se pou 
 (Bahaiprayers.net ID: 7738)
 
 
+
+
 ### <a id="bpn7739"></a> Prayer bpn7739 in Kreyol Ayisyen
 O Bondye, Bondye mwen! Defann sèvitè fidèl Ou yo kont mechanste egoyis ak pasyon, pwoteje yo avèk je bonte Ou ki plen lanmou e k’ap veye sou tout bagay pou yo pa gen gwo kè, oubyen tonbe nan rayisman ak jalouzi, ba yo azil nan fòterès swen Ou pèsonn moun pa kapab vyole a, fè yo montre siyn gloriye Ou yo byen lwen flèch dout yo, limen figi yo avèk reyon briyan yo ki soti nan Solèy linite diven Ou an, rejwi kè yo avèk vèsè Ou te revele yo depi nan Wayòm sakre Ou a, ranfòse rèn yo avèk pouvwa Ou ki soti nan syèl glwa Ou a ki domine tout bagay. Se Ou menm Ki Gen Tout Bonte a, Pwotektè a, Toupisan an, Sila a Ki Plen Gras.
 
 (Source category: Pwoteksyon)
 (Bahaiprayers.net ID: 7739)
+
+
 
 
 ### <a id="bpn7740"></a> Prayer bpn7740 in Kreyol Ayisyen
@@ -1632,6 +2022,8 @@ An verite, se Ou menm Ki Pwotektè a, Gadyen an, Siveyan an, Sila a Ki Sifi pou 
 
 
 
+
+
 ## Pwoteksyon nan Evènman Natirèl yo
 
 ### <a id="bpn7741"></a> Prayer bpn7741 in Kreyol Ayisyen
@@ -1640,6 +2032,8 @@ Otorite se pou Bondye, Senyè a pou tout sa nou kapab wè ak tout sa nou pa kapa
 
 (Source category: Pwoteksyon nan Evènman Natirèl yo)
 (Bahaiprayers.net ID: 7741)
+
+
 
 
 
@@ -1655,12 +2049,16 @@ O Bondye! Voye pou nou swen diven Ou an. Se Ou menm Ki Plen Pouvwa. Se Ou menm K
 (Bahaiprayers.net ID: 7742)
 
 
+
+
 ### <a id="bpn7743"></a> Prayer bpn7743 in Kreyol Ayisyen
 O Pwovidans Diven an! Rankont sa a regwoupe zanmi Ou ki atire ak bèlte Ou e k’ap boule ak dife lanmou Ou. Fè nanm sa yo tounen zanj syèl la, resisite yo avèk souf Lespri Sen Ou an, ba yo don lapawòl ak kè ki fèm, voye sou yo yon pouvwa selès ak lespri mizèrikòdye, fè yo vin zouti pou linite limanite, koz lanmou ak antant nan mond imen an, pou pèmèt fènwa danjere ki nan prejije inyoran yo kapab disparèt akoz limyè Solèy Verite a, pou pèmèt mond tris sa a kapab klere, pou wayòm materyèl sa a kapab bwè reyon ki soti nan wayòm lespri a, pou divès koulè sa yo kapab reyini nan yon sèl koulè, epi pou melodi lwanj la kapab monte jis nan wayòm sentete Ou a. 
 An verite, se Ou menm Ki Gen Tout Otorite, Ki Toupisan an!
 
 (Source category: Rankont yo)
 (Bahaiprayers.net ID: 7743)
+
+
 
 
 ### <a id="bpn7744"></a> Prayer bpn7744 in Kreyol Ayisyen
@@ -1672,6 +2070,8 @@ Ou pisan. Ou plen pouvwa. Se Ou menm Ki Bay, e se Ou menm Ki Toujou Plen Bonte.
 (Bahaiprayers.net ID: 7744)
 
 
+
+
 ### <a id="bpn7780"></a> Prayer bpn7780 in Kreyol Ayisyen
 *Rankont yo 
 
@@ -1680,6 +2080,8 @@ O Bondye mwen! O Bondye mwen! An verite, sèvitè sa yo ap vire nan direksyon Ou
 
 (Source category: Rankont yo)
 (Bahaiprayers.net ID: 7780)
+
+
 
 
 
@@ -1695,6 +2097,8 @@ Revele pou yo, O Bondye, Etènite Ou Ki Pi Wo a; sa vle di, Ou te toujou egziste
 (Bahaiprayers.net ID: 7748)
 
 
+
+
 ### <a id="bpn7749"></a> Prayer bpn7749 in Kreyol Ayisyen
 Se Ou menm Ki Gloriye, O Senyè Bondye mwen! Chak fwa mwen eseye site Non Ou, mwen gen yon anpechman poutèt gwo peche mwen yo ak dezobeyisans grav mwen fè kont volonte Ou, e mwen remake mwen anpeche tèt mwen jwenn gras Ou, e sa fè mwen vrèman manke fòs pou selebre lwanj Ou. Kanmenm, akoz mwen gen anpil konfyans nan bonte Ou, sa renouvle espwa mwen nan Ou, ak fèm konesans mwen genyen Ou pral trete mwen avèk bonte Ou, ki ban mwen kouraj pou chante lwanj Ou, epi mande Ou voye pou mwen bagay Ou posede yo. 
 Mwen sipliye Ou, O Bondye mwen, poutèt mizèrikòd Ou ki depase tout bagay ki te kreye - yon mizèrikòd ki jwenn temwayaj tout moun ki plonje nan oseyan non Ou yo - mwen sipliye Ou pou pa abandone mwen pou kont mwen, paske kè mwen kapab tonbe nan mechanste. Pwoteje mwen, poutèt sa, nan fòterès pwoteksyon Ou e nan abri swen Ou. Se mwen menm, O Bondye mwen, ki gen dezi pou wè sèlman sa Ou te deside avèk pouvwa pisans Ou. Sèl bagay mwen te chwazi pou pwòp tèt mwen se pou jwenn sipò ki soti nan chwa Ou fè yo avèk gras Ou e avèk desizyon volonte Ou, e pou mwen jwenn èd nan siyn yo ki soti nan lòd Ou ak jijman Ou. 
@@ -1706,6 +2110,8 @@ Lwanj pou Bondye, Senyè tout mond yo!
 (Bahaiprayers.net ID: 7749)
 
 
+
+
 ### <a id="bpn7750"></a> Prayer bpn7750 in Kreyol Ayisyen
 Bondye mwen, Sila a mwen Adore a, Wa mwen, Dezi mwen! Ki lang ki kapab esplike rekonesans mwen genyen pou Ou? Mwen te neglijan, Ou te reveye mwen. Mwen te vire do ba Ou, Ou te ede mwen avèk gras Ou pou tounen nan direksyon Ou. Mwen te tankou yon mò, Ou te ban mwen lavi avèk dlo lavi a. Mwen te deseche, Ou te resisite mwen avèk sous selès diskou Ou ki te koule soti nan Plim Tout Mizèrikòdye a.
 O Pwovidans Diven an! Tout egzistans lan fèt akoz favè Ou; pa retire sou li dlo bonte Ou yo, ni pa anpeche li jwenn oseyan mizèrikòd Ou a. Mwen sipliye Ou pou ede mwen ak kore mwen nan tout moman e nan tout sikonstans, epi mwen chèche nan syèl gras Ou a ansyen favè Ou yo. An verite, Ou se Senyè bonte a, ak Souveren an pou wayòm etènite a.
@@ -1714,12 +2120,16 @@ O Pwovidans Diven an! Tout egzistans lan fèt akoz favè Ou; pa retire sou li dl
 (Bahaiprayers.net ID: 7750)
 
 
+
+
 ### <a id="bpn7751"></a> Prayer bpn7751 in Kreyol Ayisyen
 O Bondye, se figi Ou ki objektif lwanj mwen, se bèlte Ou ki azil mwen, se abitasyon Ou ki bi mwen, se rive adore Ou ki espwa mwen, se pwoteksyon Ou ki konpayon mwen, se lanmou Ou ki sous egzistans mwen, se site Non Ou ki soulajman mwen, se rete pre Ou ki dezi mwen, se prezans Ou ki pi gran anvi mwen genyen ak pi gwo anbisyon mwen; mwen sipliye Ou pou pa anpeche mwen jwenn sa sila yo Ou te chwazi pami sèvitè Ou yo te jwenn daprè kòmand Ou. Poutèt sa, voye pou mwen sa ki bon nan mond sa a ak nan lòt mond la tou.
 An verite, se Ou menm Ki Wa tout lèzòm. Pa gen okenn Bondye esepte Ou menm, Sila a Ki Toujou Padone, Ki Plis Renmen Bay.
 
 (Source category: Sipò)
 (Bahaiprayers.net ID: 7751)
+
+
 
 
 ### <a id="bpn7752"></a> Prayer bpn7752 in Kreyol Ayisyen
@@ -1732,6 +2142,8 @@ Se pou nou di: An verite se Bondye Ki Atizan tout bagay. Li bay sekou an kantite
 (Bahaiprayers.net ID: 7752)
 
 
+
+
 ### <a id="bpn7779"></a> Prayer bpn7779 in Kreyol Ayisyen
 *sipò
 
@@ -1739,6 +2151,8 @@ O Bondye, Bondye mwen, Byeneme mwen, Dezi kè mwen.
 
 (Source category: Sipò)
 (Bahaiprayers.net ID: 7779)
+
+
 
 
 ### <a id="bpn7753"></a> Prayer bpn7753 in Kreyol Ayisyen
@@ -1751,6 +2165,8 @@ Ban nou pen chak jou a, ban nou pi plis pase sa nou bezwen nan lavi a, pou nou k
 
 
 
+
+
 ## Sèvis
 
 ### <a id="bpn7745"></a> Prayer bpn7745 in Kreyol Ayisyen
@@ -1760,12 +2176,16 @@ O Bondye mwen! Nan Non Ou ki genyen tout glwa, mwen mande Ou pou ede mwen fè za
 (Bahaiprayers.net ID: 7745)
 
 
+
+
 ### <a id="bpn7746"></a> Prayer bpn7746 in Kreyol Ayisyen
 O Bondye, Bondye tout Non yo, ak Kreyatè syèl yo! Mwen sipliye Ou avèk Non Ou te sèvi pou fè Sous pisans Ou ak Douvanjou pouvwa Ou parèt, Non Ou te sèvi pou fè tout bagay solid tounen likid e koule, pou fè chak kadav jwenn lavi, e pou fè chak lespri ki an mouvman jwenn fidelite - mwen sipliye Ou pou pèmèt mwen elimine nan mwen menm tout atachman ak tout moun, pou mwen atache sèlman ak Ou menm, e pou mwen sèvi Koz Ou a, epi vle sa Ou te vle avèk pouvwa otorite Ou, e pou mwen akonpli sa ki mache avèk bon plezi volonte Ou. 
 Anplis, mwen priye Ou fò, O Bondye mwen, pou chwazi pou mwen sa ki pral fè mwen ase rich pou mwen endepandan ak tout moun e pou mwen depann sèlman sou Ou menm. Ou wè mwen, O Bondye mwen, avèk figi mwen fikse nan direksyon Ou, avèk men mwen yo k’ap kenbe fèm ak kòd gras Ou a. Voye desann mizèrikòd Ou sou mwen, epi ekri pou desten mwen sa Ou te ekri kòm desten pou yo menm Ou te chwazi yo. Ou gen pouvwa pou fè tout sa Ou vle. Pa gen okenn Bondye esepte Ou menm, Sila a Ki Toujou Padone, Ki Gen Tout Bonte a.
 
 (Source category: Sèvis)
 (Bahaiprayers.net ID: 7746)
+
+
 
 
 ### <a id="bpn7747"></a> Prayer bpn7747 in Kreyol Ayisyen
@@ -1786,6 +2206,8 @@ An verite, se Ou menm Ki Plen Gras, Glorifye a, Pisan an, Sila a Ki Gen Tout Oto
 
 
 
+
+
 ## Sèvis - Priyè pou Fanm
 
 ### <a id="bpn7724"></a> Prayer bpn7724 in Kreyol Ayisyen
@@ -1793,6 +2215,8 @@ O Senyè mwen, Byeneme mwen an, Dezi mwen! Rete yon zanmi pou mwen lè mwen sant
 
 (Source category: Sèvis - Priyè pou Fanm)
 (Bahaiprayers.net ID: 7724)
+
+
 
 
 
@@ -1805,11 +2229,15 @@ O Bondye! Edike timoun sa yo. Timoun sa yo se plant nan jaden fwi Ou, flè nan p
 (Bahaiprayers.net ID: 7754)
 
 
+
+
 ### <a id="bpn7755"></a> Prayer bpn7755 in Kreyol Ayisyen
 Se Li menm Ki Bondye! O Bondye, Bondye mwen! Voye sou mwen yon kè ki san tach, tankou yon bijou ki gen anpil valè.
 
 (Source category: Timoun)
 (Bahaiprayers.net ID: 7755)
+
+
 
 
 ### <a id="bpn7756"></a> Prayer bpn7756 in Kreyol Ayisyen
@@ -1820,11 +2248,15 @@ Se Ou menm Ki Plen Bonte, Ki Gen Lanmou pou Tout Bagay.
 (Bahaiprayers.net ID: 7756)
 
 
+
+
 ### <a id="bpn7757"></a> Prayer bpn7757 in Kreyol Ayisyen
 O Bondye, gide mwen, pwoteje mwen, limen lanp kè mwen e fè mwen tounen yon zetwal briyan. Se Ou Ki Fò, se Ou Ki Pisan.
 
 (Source category: Timoun)
 (Bahaiprayers.net ID: 7757)
+
+
 
 
 ### <a id="bpn7758"></a> Prayer bpn7758 in Kreyol Ayisyen
@@ -1836,12 +2268,16 @@ Se Ou menm Ki Plen Pouvwa, Ki Toujou Bay Lanmou.
 (Bahaiprayers.net ID: 7758)
 
 
+
+
 ### <a id="bpn7759"></a> Prayer bpn7759 in Kreyol Ayisyen
 O Bondye mwen! O Bondye mwen! Ou wè timoun sa yo ki se tij nan pyebwa lavi a, zwazo nan forè delivrans lan, koki nan lanmè gras Ou, ak woz nan jaden flè konsèy Ou.
 O Bondye, Senyè nou an! Nou chante lwanj Ou, nou bay temwayaj sou sentete Ou epi nou sipliye Ou nan paradi mizèrikòd Ou pou fè nou tounen limyè k’ap gide, ak zetwal k’ap klere limanite pi wo syèl glwa etènèl yo, e pou Ou anseye nou yon konesans ki soti nan Ou menm. Yá Bahá’u’l-Abhá!
 
 (Source category: Timoun)
 (Bahaiprayers.net ID: 7759)
+
+
 
 
 ### <a id="bpn7760"></a> Prayer bpn7760 in Kreyol Ayisyen
@@ -1853,12 +2289,16 @@ An verite, se Ou menm Ki Plen Pouvwa, Ki Pisan an, Sila a Ki Wè, Ki Tande.
 (Bahaiprayers.net ID: 7760)
 
 
+
+
 ### <a id="bpn7761"></a> Prayer bpn7761 in Kreyol Ayisyen
 O Senyè! Mwen se yon timoun; pèmèt mwen grandi anba lonbraj jantiyès Ou an ki plen lanmou. Mwen se yon nouvo plant; fè mwen nouri nan lapli k’ap soti nan nyaj bonte Ou yo. Mwen se yon jèn pyebwa nan jaden lanmou; fè mwen vin yon pyebwa ki chaje ak fwi.
 Se Ou menm Ki Pisan e Ki Plen Pouvwa, se Ou menm Ki gen lanmou pou tout bagay, Ki Konnen Tout Bagay, Ki Wè Tout Bagay.
 
 (Source category: Timoun)
 (Bahaiprayers.net ID: 7761)
+
+
 
 
 
@@ -1869,6 +2309,8 @@ O Ou menm Senyè Ki pi gloriye a! Fè jèn sèvant Ou sa a beni e kontan; fè mo
 
 (Source category: Timoun - Fi)
 (Bahaiprayers.net ID: 7762)
+
+
 
 
 
@@ -1884,12 +2326,16 @@ O Senyè, pèmèt kè yo vin fò, poutèt atachman yo genyen ak Fwa Ou ki pa kap
 (Bahaiprayers.net ID: 7766)
 
 
+
+
 ### <a id="bpn7767"></a> Prayer bpn7767 in Kreyol Ayisyen
 O Senyè! Pèmèt tout pèp ki sou latè antre nan Paradi Relijyon Ou, jiskaske pa gen yon sèl kreyati ki rete deyò limit Ou fikse pou li ta teyisi jwenn bon plezi Ou. 
 Depi nan tan lontan, Ou te toujou pisan pou fè sa ki fè Ou plezi e Ou rete pi wo pase tout sa Ou vle.
 
 (Source category: Viktwa Fwa a)
 (Bahaiprayers.net ID: 7767)
+
+
 
 
 
@@ -1904,12 +2350,16 @@ Epi, finalman, mwen sipliye Ou, poutèt limyè figi Ou, pou beni aktivite mwen y
 (Bahaiprayers.net ID: 7644)
 
 
+
+
 ### <a id="bpn7645"></a> Prayer bpn7645 in Kreyol Ayisyen
 Nou ba Ou lwanj ak glwa, O Bondye mwen! Mwen sipliye Ou, poutèt soupi amoure Ou yo e poutèt dlo k’ap koule nan je moun ki anvi wè Ou, pou pa anpeche mwen jwenn dous mizèrikòd Ou yo nan Jou Ou a, ni pou pa anpeche mwen tande melodi zwazo Kolonb la k’ap chante lwanj sou linite Ou devan limyè a k’ap klere nan figi Ou. Mwen se yon moun ki nan soufrans, O Bondye! Gade jan m’ap kenbe fèm ak Non Ou, Sila a Ki Posede Tout Bagay. Mwen konnen mwen pral peri; gade jan mwen kenbe fèm ak Non Ou, Sila a Ki p’ap janm peri a. Poutèt sa, mwen sipliye Ou poutèt Ou menm, Egzalte a, Ki Pi Wo a, pou pa abandone mwen pou kont mwen ni pa kite mwen tonbe nan dezi ki soti nan yon move anvi. Kenbe men mwen avèk men pouvwa Ou, sove mwen anba tout panse lejè ak imajinasyon initil mwen yo, epi pwòpte mwen kont tout sa Ou rayi. 
 Kidonk, fè mwen tounen konplètman nan direksyon Ou, fè mwen mete tout konfyans mwen nan Ou, chèche Ou kòm Refij mwen, epi kouri nan direksyon figi Ou. An verite, se Ou menm Ki fè tout sa Li vle avèk pouvwa pisans Li, e Ki kòmande kèlkeswa sa Li chwazi poutèt fòs volonte Li. Pèsonn pa kapab anpeche Ou akonpli lòd Ou; pèsonn pa kapab detounen Ou nan chemen desizyon Ou. Vrèman, se Ou Ki Toupisan an, Sila a Ki Gen Tout Glwa a, Ki Gen Tout Bonte a.
 
 (Source category: Èd avèk Eprèv yo)
 (Bahaiprayers.net ID: 7645)
+
+
 
 
 ### <a id="bpn7646"></a> Prayer bpn7646 in Kreyol Ayisyen
@@ -1920,11 +2370,15 @@ Se pou nou di: Bondye kapab satisfè tout bagay pi byen pase tout lòt bagay, e 
 (Bahaiprayers.net ID: 7646)
 
 
+
+
 ### <a id="bpn7647"></a> Prayer bpn7647 in Kreyol Ayisyen
 O Senyè! Se Ou menm Ki fè chak doulè disparèt e Ki elimine tout soufrans. Se Ou menm Ki chase chak tristès e Ki libere chak esklav, Sovè a pou chak nanm. O Senyè! Voye delivrans pou mwen avèk mizèrikòd Ou, epi konte mwen pami sèvitè Ou yo ki te jwenn Wayòm nan.
 
 (Source category: Èd avèk Eprèv yo)
 (Bahaiprayers.net ID: 7647)
+
+
 
 
 ### <a id="bpn7648"></a> Prayer bpn7648 in Kreyol Ayisyen
@@ -1934,12 +2388,17 @@ O Bondye mwen! Ak tout kè m’, mwen mande Ou, avèk pisans Ou, pou pa kite oke
 (Bahaiprayers.net ID: 7648)
 
 
+
+
 ### <a id="bpn7649"></a> Prayer bpn7649 in Kreyol Ayisyen
 Se Li Ki Gen Konpasyon, Ki Gen Tout Bonte a! O Bondye, Bondye mwen! Ou wè mwen, Ou konnen mwen; se Ou menm Ki Azil mwen ak Abri mwen. Mwen pa te chèche pèsonn ni mwen pa pral chèche okenn moun, mwen chèche Ou menm sèl; mwen pa te mache sou okenn chemen ni mwen pa pral mache sou okenn chemen sof nan chemen lanmou Ou. Nan gran fènwa lanwit dezespwa a, je mwen ap gade avèk anvi e plen espwa pou wè maten favè Ou ki pa gen limit epi, nan lè douvanjou a, nanm fane mwen an vin rafrechi e li ranfòse nan sonje bèlte Ou ak pèfeksyon Ou. Nenpòt moun Ou deside ede avèk gras mizèrikòd Ou, menm si se te yon sèl gout li te ye, pral tounen yon oseyan ki pa gen fen, e menm yon ti grenn pousyè tou piti ki jwenn èd nan inondasyon jantiyès Ou ki plen lanmou, pral klere menm jan an ak yon zetwal briyan.
 O Ou menm Lespri Ki san tach, Ou menm Ki Bay avèk Tout Bonte, ofri azil pwoteksyon Ou pou sèvitè Ou sa a ki soule e ki anflame akoz bèlte Ou. Ede li nan mond materyèl sa a pou li kapab rete fidèl ak fèm nan lanmou Ou e asepte pou zwazo sa a ki gen zèl li kase kapab rive jwenn azil ak pwoteksyon nan nich diven Ou an ki chita nan pyebwa selès la.
 
 (Source category: Èd avèk Eprèv yo)
 (Bahaiprayers.net ID: 7649)
+
+
+
 
 
 

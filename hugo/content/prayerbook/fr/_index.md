@@ -3,6 +3,78 @@ title = "Français"
 tags = ['lang=fr', 'prayerbook']
 +++
 
+
+
+[26 Prières de ‘Abdu’l-Bahá Avril 2021](#26 Prières de ‘Abdu’l-Bahá Avril 2021)
+
+[Assemblée spirituelle](#Assemblée spirituelle)
+
+[Assistance](#Assistance)
+
+[Ayyám-i-Há](#Ayyám-i-Há)
+
+[Constance](#Constance)
+
+[Contributions aux Fonds](#Contributions aux Fonds)
+
+[Détachement](#Détachement)
+
+[Enfants et jeunes](#Enfants et jeunes)
+
+[Enseignement et service](#Enseignement et service)
+
+[Familles](#Familles)
+
+[Fermeté dans l’alliance](#Fermeté dans l’alliance)
+
+[Guérison](#Guérison)
+
+[Louange et gratitude](#Louange et gratitude)
+
+[Mains de la cause](#Mains de la cause)
+
+[Mariage](#Mariage)
+
+[Matin](#Matin)
+
+[Naw-Rúz](#Naw-Rúz)
+
+[Pardon](#Pardon)
+
+[Prière pour les Martyrs et leur famille](#Prière pour les Martyrs et leur famille)
+
+[Prières de souvenance](#Prières de souvenance)
+
+[Prières pour le jeûne](#Prières pour le jeûne)
+
+[Prières pour les morts](#Prières pour les morts)
+
+[Prières prescrites](#Prières prescrites)
+
+[Progrès de la cause](#Progrès de la cause)
+
+[Protection](#Protection)
+
+[Qualités spirituelles](#Qualités spirituelles)
+
+[Réconfort dans les épreuves](#Réconfort dans les épreuves)
+
+[Réunions](#Réunions)
+
+[Soir](#Soir)
+
+[Tablette du Saint Nautonier](#Tablette du Saint Nautonier)
+
+[Tablette du feu](#Tablette du feu)
+
+[Tablette à Ahmad](#Tablette à Ahmad)
+
+[Unité](#Unité)
+
+[Épreuves et difficultés](#Épreuves et difficultés)
+
+
+
 ## 26 Prières de ‘Abdu’l-Bahá Avril 2021
 
 ### <a id="bpn12904"></a> Prayer bpn12904 in Français
@@ -13,11 +85,15 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12904)
 
 
+
+
 ### <a id="bpn12905"></a> Prayer bpn12905 in Français
 Ô invisible Ami! Ô Désir de tous en ce monde et dans le monde à venir! Ô Bien-Aimé compatissant! Ces âmes sans défense sont captivées par ton amour et ces êtres faibles cherchent refuge auprès de ton seuil. Chaque nuit, ils soupirent et gémissent d’être éloignés de toi, et chaque matin, ils se lamentent et pleurent à cause des attaques des malveillants. À chaque instant une nouvelle angoisse les envahit, et à chaque souffle ils subissent la tyrannie de cruels oppresseurs. Loué sois-tu car, malgré cela, ils sont embrasés comme un temple de feu et resplendissent tels le soleil et la lune. Tels des étendards hissés, ils se tiennent bien droits dans la cause de Dieu et se hâtent dans l’arène comme de vaillants cavaliers. Ils ont éclos comme de belles fleurs et sont pleins de joie telle la rose épanouie. Alors, ô Dispensateur affectueux, aide ces saintes âmes par la grâce céleste émanant de ton royaume et accepte que ces êtres sanctifiés manifestent les signes du Très-Haut. Tu es le Très-Généreux, le Clément, le Très-Miséricordieux, le Compatissant.
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12905)
+
+
 
 
 ### <a id="bpn12906"></a> Prayer bpn12906 in Français
@@ -28,12 +104,16 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12906)
 
 
+
+
 ### <a id="bpn12907"></a> Prayer bpn12907 in Français
 Ô mon éternel Bien-Aimé, mon ami adoré! Combien de temps resterai-je privé de ta présence et cruellement affligé par mon éloignement de toi? Dans les retraites de ton royaume céleste, conduis-moi et, depuis le lieu où apparaît ton règne divin, jette sur moi le regard de ton amour bienveillant. 
 Ô Seigneur omnipotent! Compte-moi parmi les habitants du Royaume. Ce monde mortel est ma demeure; accorde-moi d’habiter dans les royaumes de l’infini. J’appartiens à ce plan terrestre, répands sur moi l’éclat de ta glorieuse lumière. J’habite ce monde de poussière, fais que je réside en ton royaume céleste, afin que j’offre ma vie sur ton chemin et réalise le désir de mon cœur, que je couronne ma tête du diadème de la faveur divine et lance le cri triomphal Ô Gloire de Dieu, le Très-Glorieux!
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12907)
+
+
 
 
 ### <a id="bpn12908"></a> Prayer bpn12908 in Français
@@ -46,11 +126,15 @@ Elles appartenaient à ce monde ici-bas; tu les as accueillies dans ton royaume.
 (Bahaiprayers.net ID: 12908)
 
 
+
+
 ### <a id="bpn12909"></a> Prayer bpn12909 in Français
 Ô divine Providence! Des difficultés troublantes ont surgi et de formidables écueils sont apparus. Ô Seigneur! Dissipe ces difficultés et manifeste les signes de ta puissance et de ton pouvoir. Adoucis ces épreuves et aplanis les obstacles sur ce chemin difficile. Ô divine Providence! Les obstacles sont inébranlables, et à notre labeur et à nos tourments se conjuguent une myriade d’adversités. Il n’est ni aide ni de secours à part toi. Nous plaçons tous nos espoirs en toi, nous confions toutes nos affaires à tes soins. Tu es le Guide et Celui qui dissipe toute difficulté, et tu es le Sage, Celui qui voit et qui entend.
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12909)
+
+
 
 
 ### <a id="bpn12910"></a> Prayer bpn12910 in Français
@@ -61,12 +145,16 @@ Elles appartenaient à ce monde ici-bas; tu les as accueillies dans ton royaume.
 (Bahaiprayers.net ID: 12910)
 
 
+
+
 ### <a id="bpn12911"></a> Prayer bpn12911 in Français
 Ô divine Providence! Éveille-moi, rends-moi conscient. Fais que je sois détaché de tout autre que toi et captivé par l’amour de ta beauté. Répands sur moi le souffle de l’Esprit saint et faismoi entendre l’appel du royaume d’Abhá. Accorde-moi un pouvoir céleste et allume la lampe de l’esprit au tréfonds de mon cœur. Libère-moi de tout lien, délivre-moi de tout attachement afin que je n’aie d’autre désir que ton bon plaisir, que je ne recherche rien d’autre que ta face et ne suive d’autre voie que la tienne. Fais que, grâce à moi, les insouciants deviennent vigilants et que les endormis s’éveillent, que j’offre l’eau de la vie à ceux qui ont grand-soif et que j’apporte la guérison divine à ceux qui sont malades et souffrants. 
 Je suis modeste, humble et pauvre, mais tu es mon havre, mon refuge, mon soutien et mon appui. Fais descendre ton aide en sorte que tous en soient stupéfaits. Ô Dieu! Tu es, en vérité, le Tout-Puissant, l’Omnipotent, le Bienfaiteur, le Généreux, Celui qui voit tout.
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12911)
+
+
 
 
 ### <a id="bpn12912"></a> Prayer bpn12912 in Français
@@ -79,11 +167,15 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12912)
 
 
+
+
 ### <a id="bpn12913"></a> Prayer bpn12913 in Français
 Ô Seigneur! Accorde-moi une part de ta grâce et de ta bienveillance, de tes soins et de ta protection, de ton soutien et de ta générosité, pour que la fin de chacun de mes jours soit meilleure que son début et que la fin de ma vie m’ouvre les portes de tes multiples bénédictions. Que ta bienveillance et ta générosité descendent à chaque instant sur moi et qu’à chacun de mes souffles, tu m’accordes ton pardon et ta miséricorde jusqu’à ce que, sous l’ombre protectrice de ton étendard déployé, je puisse enfin atteindre le royaume du TrèsLoué. Tu es le Généreux, Celui qui aime éternellement, et tu es, en vérité, le Seigneur de grâce et de générosité.
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12913)
+
+
 
 
 ### <a id="bpn12914"></a> Prayer bpn12914 in Français
@@ -94,12 +186,16 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12914)
 
 
+
+
 ### <a id="bpn12915"></a> Prayer bpn12915 in Français
 Il est Dieu. 
 Seigneur, ô toi qui pardonnes! Ces serviteurs étaient de nobles âmes et leurs cœurs resplendissaient de la lumière de tes conseils. Ils ont bu une coupe débordante du vin de ton amour et prêté l’oreille aux mystères éternels que révèlent les mélodies de ton savoir. Leurs cœurs se sont liés à toi et, libérés du piège de l’éloignement, ils se sont attachés à ton unité. Fais de ces âmes précieuses les compagnes des habitants du ciel, et admets-les dans le cercle de tes élus. Fais d’elles des confidentes de tes mystères dans les retraites du royaume d’en haut, et immerge-les dans l’océan de lumière. Tu es le Dispensateur, le Lumineux et le Bienveillant.
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12915)
+
+
 
 
 ### <a id="bpn12916"></a> Prayer bpn12916 in Français
@@ -109,11 +205,15 @@ Seigneur, ô toi qui pardonnes! Ces serviteurs étaient de nobles âmes et leurs
 (Bahaiprayers.net ID: 12916)
 
 
+
+
 ### <a id="bpn12917"></a> Prayer bpn12917 in Français
 Ô Seigneur de bonté! Sanctifie mon cœur de tout attachement, et réjouis mon âme de joyeuses nouvelles. Libère-moi de tout attachement tant à l’ami qu’à l’étranger, et captive-moi par ton amour afin que je me consacre entièrement à toi et que je sois transporté par un intense ravissement; que je ne désire rien d’autre que toi, ne cherche nul autre que toi, ne suive aucun autre chemin que le tien et ne communie qu’avec toi; que, tel un rossignol, je sois envoûté par ton amour et que, jour et nuit, je soupire, gémisse, pleure et m’écrie : Yá Bahá’u’l-Abhá!
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12917)
+
+
 
 
 ### <a id="bpn12918"></a> Prayer bpn12918 in Français
@@ -124,11 +224,15 @@ Seigneur, ô toi qui pardonnes! Ces serviteurs étaient de nobles âmes et leurs
 (Bahaiprayers.net ID: 12918)
 
 
+
+
 ### <a id="bpn12919"></a> Prayer bpn12919 in Français
 Ô toi, Seigneur tout-puissant! Nous sommes tous sous la formidable emprise de ton pouvoir. Tu es notre soutien et notre aide. Accorde-nous ta tendre miséricorde et ta générosité, ouvre les portes de la grâce et pose sur nous le regard de tes faveurs. Qu’une brise vivifiante souffle sur nous et ravive nos cœurs languissants. Éclaire nos yeux et fais que le sanctuaire de notre cœur fasse l’envie de toutes les charmilles fleuries. Ravis chaque âme, réjouis chaque esprit. Révèle ton antique puissance et manifeste ton grand pouvoir. Fais que les oiseaux des âmes humaines prennent leur envol vers de nouveaux sommets et permets que tes confidents en ce monde ici-bas comprennent les mystères de ton royaume. Affermis nos pas et accorde-nous un cœur inébranlable. Nous sommes des pécheurs, et tu es Celui qui toujours pardonne. Nous sommes tes serviteurs, et tu es le souverain Seigneur. Nous errons sans abri, et tu es notre havre et notre refuge. Par ta grâce, assiste-nous, aide-nous à diffuser tes doux parfums et à exalter ta parole. Élève le rang des dépossédés et accorde ton trésor inépuisable aux indigents. Donne ta force aux faibles et confère une puissance céleste aux vulnérables. Tu es le Bienfaiteur, tu es le Bienveillant, tu es le Seigneur qui règne sur toutes choses.
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12919)
+
+
 
 
 ### <a id="bpn12920"></a> Prayer bpn12920 in Français
@@ -141,12 +245,16 @@ Au nom de Dieu, le Compatissant, le Miséricordieux! Louange à Dieu, le Seigneu
 (Bahaiprayers.net ID: 12920)
 
 
+
+
 ### <a id="bpn12921"></a> Prayer bpn12921 in Français
 Ô Seigneur, notre Dieu! Nous sommes impuissants, tu es le Seigneur de force et de puissance. Nous sommes misérables, tu es le Tout-Puissant, le Très-Glorieux. Nous sommes pauvres, tu es Celui qui possède tout, le Munificent. Dans ta miséricorde, aide-nous à servir à ton seuil sacré et, par ta grâce fortifiante, aide-nous à t’adorer dans ces lieux d’où s’élève ta louange. Permets-nous de diffuser tes saintes fragrances parmi tes créatures, et fortifie nos reins pour te servir parmi tes serviteurs, afin que nous guidions toutes les nations vers ton Plus-GrandNom et conduisions tous les peuples aux rives du glorieux océan de ton unicité. 
 Ô Seigneur! Délivre-nous de nos attachements au monde et à ses peuples, des transgressions du passé et des épreuves à venir. Ainsi nous nous lèverons pour exalter ta parole dans la plus grande joie et le plus grand rayonnement et célébrerons jour et nuit ta louange, nous appellerons tous les peuples à suivre la voie de tes conseils et leur enjoindrons de faire preuve de droiture, et nous chanterons les versets de ton unité au sein de ta création. Tu as le pouvoir de faire ce qui te plaît. Tu es, en vérité, l’Omnipotent, le Tout-Puissant.
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12921)
+
+
 
 
 ### <a id="bpn12922"></a> Prayer bpn12922 in Français
@@ -158,12 +266,16 @@ Il est Dieu.
 (Bahaiprayers.net ID: 12922)
 
 
+
+
 ### <a id="bpn12923"></a> Prayer bpn12923 in Français
 Il est le Très-Glorieux. 
 Ô mon Seigneur, mon roi, mon maître, mon souverain! Ma voix, mon cœur et mon âme t’invoquent en disant : Revêts ce serviteur du vêtement de ton soutien, de l’habit de ton aide indéfectible et de l’armure de ta protection. Aide-le à te mentionner et à exalter tes vertus parmi ton peuple, et délie sa langue pour qu’il chante ta gloire et tes louanges dans chaque assemblée qui célèbre ton unité et ta sainteté. Tu es, en vérité, le Fort, le Tout-Puissant, le Très-Glorieux, l’Absolu.
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12923)
+
+
 
 
 ### <a id="bpn12924"></a> Prayer bpn12924 in Français
@@ -174,12 +286,16 @@ Il est le Très-Glorieux.
 (Bahaiprayers.net ID: 12924)
 
 
+
+
 ### <a id="bpn12925"></a> Prayer bpn12925 in Français
 Il est le Très-Glorieux, le Très-Lumineux. 
 Ô divine Providence, ô Seigneur qui pardonne! Comment pourrais-je jamais chanter dignement tes louanges ou suffisamment t’adorer et te glorifier? Toute description de toi est erronée, quelle que soit la langue qui la prononce, et toute plume qui se fixe la tâche redoutable de te décrire est insensée. La langue n’est qu’un instrument composé d’éléments; la voix et la parole ne sont que des attributs accessoires. Dès lors, comment pourrais-je célébrer, d’une voix terrestre, la louange de celui qui n’a ni pair ni semblable? Tout ce que je peux dire ou vouloir est limité par la compréhension de l’esprit humain et les contraintes de ce monde. Comment la pensée humaine pourrait-elle jamais atteindre les hauts sommets de la sainteté divine, et comment l’araignée des vaines chimères pourrait-elle jamais tisser la frêle toile des imaginations futiles dans les retraites de sainteté? Je ne peux que témoigner de mon impuissance et avouer mon échec. Tu es, en vérité, le Possesseur de toutes choses, l’Inaccessible, Celui qui dépasse infiniment la compréhension de ceux qui sont doués d’entendement.
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12925)
+
+
 
 
 ### <a id="bpn12926"></a> Prayer bpn12926 in Français
@@ -189,11 +305,15 @@ Il est le Très-Glorieux, le Très-Lumineux.
 (Bahaiprayers.net ID: 12926)
 
 
+
+
 ### <a id="bpn12927"></a> Prayer bpn12927 in Français
 Ô toi, Dieu incomparable! Nous sommes tes humbles serviteurs et tu es le Très-Glorieux. Nous sommes des pécheurs et tu es Celui qui toujours pardonne. Nous sommes captifs, pauvres et humbles et tu es notre refuge et notre soutien. Nous sommes comme de minuscules fourmis et tu es le Seigneur de majesté, trônant au plus haut des cieux. En signe de ta grâce, protège-nous et ne nous refuse pas ta sollicitude et ton assistance. Ô Seigneur! tes épreuves sont vraiment douloureuses, et elles peuvent détruire des fondations faites d’acier. Préservenous et fortifie-nous, réconforte et réjouis nos cœurs. Aide-nous par ta grâce à servir, comme ‘Abdu’l-Bahá, à ton seuil sacré.
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12927)
+
+
 
 
 ### <a id="bpn12928"></a> Prayer bpn12928 in Français
@@ -205,6 +325,8 @@ Il est Dieu.
 
 (Source category: 26 Prières de ‘Abdu’l-Bahá Avril 2021)
 (Bahaiprayers.net ID: 12928)
+
+
 
 
 ### <a id="bpn12929"></a> Prayer bpn12929 in Français
@@ -231,6 +353,8 @@ Ne considère ni notre mérite ni notre valeur, Mais seule ta grâce infinie, ô
 
 
 
+
+
 ## Assemblée spirituelle
 
 ### <a id="bpn9129"></a> Prayer bpn9129 in Français
@@ -242,6 +366,8 @@ Ne considère ni notre mérite ni notre valeur, Mais seule ta grâce infinie, ô
 (Bahaiprayers.net ID: 9129)
 
 
+
+
 ### <a id="bpn9130"></a> Prayer bpn9130 in Français
 *Unissez-vous dans la joie la plus intense et récitez cette prière en début de réunion :
 Ô toi, Seigneur du royaume, nos corps sont bien réunis ici, mais ce sont nos cœurs fascinés que ton amour fait vibrer, et nous sommes transportés par le rayonnement de ta face resplendissante. Faibles, nous sommes dans l’attente des révélations de ta puissance et de ton pouvoir. Pauvres, sans biens ni moyens, nous sommes riches des trésors de ton royaume. Simples gouttes, nous surgissons cependant des profondeurs de ton océan. Grains de poussière, nous brillons toutefois dans la gloire de ton soleil resplendissant. 
@@ -249,6 +375,8 @@ Ne considère ni notre mérite ni notre valeur, Mais seule ta grâce infinie, ô
 
 (Source category: Assemblée spirituelle)
 (Bahaiprayers.net ID: 9130)
+
+
 
 
 ### <a id="bpn9131"></a> Prayer bpn9131 in Français
@@ -262,6 +390,8 @@ Ne considère ni notre mérite ni notre valeur, Mais seule ta grâce infinie, ô
 
 
 
+
+
 ## Assistance
 
 ### <a id="bpn9132"></a> Prayer bpn9132 in Français
@@ -270,6 +400,8 @@ Tu es, en vérité, le roi de tous les hommes. Il n’est pas d’autre Dieu que
 
 (Source category: Assistance)
 (Bahaiprayers.net ID: 9132)
+
+
 
 
 ### <a id="bpn9134"></a> Prayer bpn9134 in Français
@@ -282,12 +414,16 @@ Glorifié, immensément glorifié sois-tu ! Tu es adoré en ta vérité et c’e
 (Bahaiprayers.net ID: 9134)
 
 
+
+
 ### <a id="bpn9133"></a> Prayer bpn9133 in Français
 Mon Dieu, mon adoré, mon roi, mon désir, quelle langue peut exprimer ma gratitude à ton égard ? J’étais insouciant, tu m’as éveillé. Je m’étais détourné de toi, tu m’as aidé par ta bienveillance à revenir vers toi. J’étais mort, tu m’as ranimé par l’eau de la vie. Je dépérissais, tu m’as revivifié par le flot céleste de la parole qui s’écoule de la plume du Très-Miséricordieux.
 Ô divine Providence, toute existence émane de ta bonté ; ne la prive pas des eaux de ta générosité et ne la retiens pas loin de l’océan de ta miséricorde. Je te supplie de m’assister et de me secourir en tous temps et en toutes circonstances et je demande au ciel de ta grâce, ton antique faveur. En vérité, tu es le Seigneur généreux et le Souverain du royaume éternel.
 
 (Source category: Assistance)
 (Bahaiprayers.net ID: 9133)
+
+
 
 
 ### <a id="bpn9135"></a> Prayer bpn9135 in Français
@@ -302,11 +438,15 @@ Dis : Dieu est en vérité l’Auteur de toutes choses. Il comble qui il veut. I
 (Bahaiprayers.net ID: 9135)
 
 
+
+
 ### <a id="bpn9136"></a> Prayer bpn9136 in Français
 Ô mon Dieu, mon Seigneur et mon Maître, je me suis détaché des miens, j’ai cherché à travers toi, à être indépendant de tout ce qui habite sur terre et toujours prêt à suivre ce qui est louable à tes yeux. Accorde-moi ce bien qui me rendra indépendant de tout autre que toi, accorde-moi une part plus grande encore de tes faveurs infinies. En vérité, tu es le Seigneur de grâces abondantes.
 
 (Source category: Assistance)
 (Bahaiprayers.net ID: 9136)
+
+
 
 
 ### <a id="bpn9137"></a> Prayer bpn9137 in Français
@@ -318,12 +458,16 @@ Ne prive pas cet être faible de ta grâce prodigieuse et, par ton pouvoir, acco
 (Bahaiprayers.net ID: 9137)
 
 
+
+
 ### <a id="bpn9138"></a> Prayer bpn9138 in Français
 Ô toi, Seigneur de bonté, serviteurs de ton Seuil, nous nous abritons sous ton Porche sacré. Nous ne cherchons d’autre asile que ce puissant pilier, d’autre havre que ta protection. Garde-nous, bénisnous, soutiens-nous, fais que nous ne chérissions que ton bon plaisir, ne célébrions que ta louange, ne suivions que le chemin de la vérité. Ainsi nous deviendrons assez riches pour nous détacher de tout sauf de toi et recevoir nos dons de l’océan de ta bienfaisance ; ainsi nous nous efforcerons toujours d’exalter ta cause et de diffuser tes douces saveurs ; ainsi nous deviendrons oublieux de nousmêmes, ne pensant plus qu’à toi, nous renierons tout autre que toi et serons sous ton emprise.
 Ô toi qui donnes et qui pardonnes, accorde-nous ta grâce et ta tendre bonté, tes dons et tes faveurs, et soutiens-nous pour que nous atteignions notre but. Tu es le Puissant, l’Omnipotent, le Savant, le Clairvoyant. En vérité, tu es le Généreux ; en vérité, tu es le Miséricordieux ; en vérité, tu es le Magnanime. Devant toi il convient de se repentir, tu remets les péchés, même les plus graves.
 
 (Source category: Assistance)
 (Bahaiprayers.net ID: 9138)
+
+
 
 
 ### <a id="bpn9139"></a> Prayer bpn9139 in Français
@@ -333,6 +477,8 @@ Tu es, en vérité, le Seul, l’Unique, le Puissant, l’Omniscient, l’infini
 
 (Source category: Assistance)
 (Bahaiprayers.net ID: 9139)
+
+
 
 
 
@@ -356,6 +502,8 @@ Tu es vraiment l’Omnipotent, l’Omniscient, l’Informé.
 
 
 
+
+
 ## Constance
 
 ### <a id="bpn9140"></a> Prayer bpn9140 in Français
@@ -368,6 +516,8 @@ Il n’est de Dieu que toi, le Magnanime, le TrèsGénéreux. Loué sois-tu, toi
 (Bahaiprayers.net ID: 9140)
 
 
+
+
 ### <a id="bpn9141"></a> Prayer bpn9141 in Français
 Ô toi dont je souhaite la proximité, dont j’espère la présence et dont je désire me souvenir, toi dont le glorieux parvis est mon but, la demeure mon objectif, le nom ma guérison, l’amour le rayonnement de mon cœur, toi que j’aspire d’abord à servir ! Par ton nom, qui a permis à ceux qui te reconnaissent de s’élever vers les sommets suprêmes de la connaissance de toi et à ceux qui te vénèrent de s’élever jusqu’à l’enceinte de la cour de tes saintes faveurs, je te supplie de m’aider à tourner mon visage vers ta face, à fixer mes yeux sur toi, à proclamer ta gloire.
 Ô mon Dieu, j’ai tout oublié sauf toi et je me suis tourné vers l’Aurore de ta grâce, j’ai renoncé à tout sauf à toi dans l’espoir de m’approcher de ta cour. Vois mes yeux tournés vers le Trône qui réfléchit la splendeur de ton visage. Envoie-moi, ô mon Bien-Aimé, ce qui me permettra de rester ferme en ta cause et de me tourner vers toi malgré les doutes des infidèles. 
@@ -375,6 +525,8 @@ En vérité, tu es le Dieu de puissance, le Secours, le Très-Glorieux, le Tout-
 
 (Source category: Constance)
 (Bahaiprayers.net ID: 9141)
+
+
 
 
 ### <a id="bpn9142"></a> Prayer bpn9142 in Français
@@ -391,12 +543,16 @@ Heureux qui tient fermement ta corde indéfectible et agrippe le pan de ton mant
 (Bahaiprayers.net ID: 9142)
 
 
+
+
 ### <a id="bpn9143"></a> Prayer bpn9143 in Français
 Loué sois-tu, ô Seigneur, mon Dieu ! Par celui qui est ton Plus-Grand-Nom, qui a été cruellement éprouvé par ceux qui ont répudié ta vérité, et qui a été accablé de souffrances telles qu’aucune langue ne peut les exprimer, je te supplie. Permets-moi de me souvenir de toi et de te louer en ces jours où tous s’éloignent de ta beauté, te contredisent et se détournent dédaigneusement de celui qui est le révélateur de ta cause. Nul ne peut t’aider, ô mon Dieu, si ce n’est toi-même, aucun pouvoir ne peut te secourir si ce n’est ton propre pouvoir.
 Je te supplie de m’ancrer dans ton amour et dans ton souvenir. J’en ai certainement la capacité et toi, tu sais ce qui est en moi. En vérité, tu es le Sage, informé de tout. Ô mon Seigneur, ne me prive pas des splendeurs de ta face dont l’éclat illumine le monde entier. Il n’est de Dieu que toi, le Très-Puissant, le Très-Glorieux, le Magnanime.
 
 (Source category: Constance)
 (Bahaiprayers.net ID: 9143)
+
+
 
 
 ### <a id="bpn9144"></a> Prayer bpn9144 in Français
@@ -408,12 +564,16 @@ Ne me compte pas parmi ceux dont l’oreille est sourde, l’œil aveugle, la la
 (Bahaiprayers.net ID: 9144)
 
 
+
+
 ### <a id="bpn9145"></a> Prayer bpn9145 in Français
 Loué et glorifié sois-tu, ô Seigneur ! Fais qu’approche rapidement le jour où nous atteindrons ta sainte présence. Réjouis nos cœurs par le pouvoir de ton amour et de ton bon plaisir, accorde-nous la constance afin que nous nous soumettions de plein gré à ta volonté et à ton décret. En vérité, ta connaissance embrasse toutes les choses que tu as créées et que tu créeras, ta puissance céleste transcende tout ce que tu as appelé et appelleras à l’existence. Toi seul dois être révéré, toi seul dois être désiré, toi seul dois être adoré et seul ton bon plaisir doit être prisé.
 En vérité, tu es le Souverain suprême, la Vérité souveraine, le Secours, l’Absolu.
 
 (Source category: Constance)
 (Bahaiprayers.net ID: 9145)
+
+
 
 
 ### <a id="bpn9146"></a> Prayer bpn9146 in Français
@@ -424,6 +584,8 @@ En vérité, tu es le Souverain suprême, la Vérité souveraine, le Secours, l�
 (Bahaiprayers.net ID: 9146)
 
 
+
+
 ### <a id="bpn9147"></a> Prayer bpn9147 in Français
 Ô toi, mon Dieu, tu conduis le chercheur vers le droit chemin, tu délivres des affres de la perdition l’âme en détresse et aveugle, tu accordes bénédictions et faveurs aux sincères, tu protèges le craintif dans ton invincible refuge et tu réponds du haut de ton lointain horizon, au cri de ceux qui t’implorent. Loué sois-tu, ô mon Seigneur ! 
 Tu évites aux égarés la mort de l’incroyance et tu conduis au terme de leur voyage ceux qui se rapprochent de toi. Tu réjouis ceux de tes serviteurs qui sont constants en répondant à leurs vœux les plus chers. Du haut de ton royaume de beauté, tu ouvres les portes de la réunion devant ceux qui se languissent de toi et tu les sauves des flammes de la privation et de l’égarement. Aussi se hâtent-ils vers toi et accèdent-ils à ta présence, parviennentils à ta porte accueillante et reçoivent-ils une part abondante de tes dons. 
@@ -432,6 +594,8 @@ Tu es en vérité, le Généreux, l’éternel Dispensateur, l’Inestimable, le
 
 (Source category: Constance)
 (Bahaiprayers.net ID: 9147)
+
+
 
 
 
@@ -447,6 +611,8 @@ Tu es en vérité, le Généreux, l’éternel Dispensateur, l’Inestimable, le
 (Bahaiprayers.net ID: 9148)
 
 
+
+
 ### <a id="bpn9149"></a> Prayer bpn9149 in Français
 *Prière pour le Hquqúqu’lláh (le droit de Dieu).
 
@@ -456,6 +622,8 @@ Gloire à toi, ô mon Seigneur, le Compatissant !Par l’océan tumultueux de ta
 
 (Source category: Contributions aux Fonds)
 (Bahaiprayers.net ID: 9149)
+
+
 
 
 
@@ -472,6 +640,8 @@ Il n’est pas d’autre Dieu que toi, le Puissant, le Secours, l’Absolu. Que 
 (Bahaiprayers.net ID: 9150)
 
 
+
+
 ### <a id="bpn9151"></a> Prayer bpn9151 in Français
 Glorifié sois-tu, ô mon Dieu ! Je te rends grâce de m’avoir fait connaître celui qui est l’aurore de ta miséricorde, l’aube de ta grâce, le dépositaire de ta cause. Par ton nom qui a fait pâlir le visage de ceux qui te sont proches et s’envoler vers toi le cœur de ceux qui te sont dévoués, je te supplie. Permets qu’en tous temps et en toutes circonstances, je tienne fermement ta corde, me détache de tous sauf de toi, garde mes yeux fixés sur l’horizon de ta révélation et exécute ce que tu m’as prescrit dans tes écrits.
 Ô mon Seigneur, revêts mon être spirituel et mon être matériel du vêtement de tes faveurs et de ta bienveillance. Préserve-moi de tout ce que tu abhorres et, par ta bonté, aide-moi et aide les miens à t’obéir et à fuir tout ce qui pourrait susciter en nous un désir mauvais ou corrompu.
@@ -482,6 +652,8 @@ Il n’est pas d’autre Dieu que toi, l’Omniscient, le Très-Sage.
 (Bahaiprayers.net ID: 9151)
 
 
+
+
 ### <a id="bpn9152"></a> Prayer bpn9152 in Français
 Loué soit ton nom, ô mon Dieu ! Par les fragrances du manteau de ta grâce qui, sur ton ordre et selon ton désir, furent répandues à travers la création tout entière, par le soleil de ta volonté qui resplendit au-dessus de l’horizon de ta miséricorde, et par le pouvoir de ta puissance et de ta souveraineté, je t’implore. Efface de mon cœur toute folle chimère et vaine imagination afin que je me tourne avec ferveur vers toi, ô Seigneur de toute l’humanité !
 Ô mon Dieu, je suis ton serviteur et le fils de ton serviteur. J’ai saisi la main de ta grâce et m’agrippe à la corde de ta tendre bonté. Accordemoi tout le bien que tu possèdes et nourris-moi à la table que tu as fait descendre des nuées de ta bonté et des cieux de ta faveur.
@@ -489,6 +661,8 @@ Tu es, en vérité, le Seigneur des mondes et le Dieu de tout ce qui existe au c
 
 (Source category: Détachement)
 (Bahaiprayers.net ID: 9152)
+
+
 
 
 ### <a id="bpn9153"></a> Prayer bpn9153 in Français
@@ -501,6 +675,8 @@ Ta puissance, en vérité, égale toutes choses.
 (Bahaiprayers.net ID: 9153)
 
 
+
+
 ### <a id="bpn9154"></a> Prayer bpn9154 in Français
 Ô mon Dieu, je ne sais quel est ce feu que tu as allumé en tes domaines. Jamais la terre ne pourra occulter sa splendeur ni l’eau éteindre sa flamme. Nul ne peut résister à sa force. Grande est la félicité de celui qui s’en approche et l’entend gronder.
 Ô mon Dieu, par ta grâce fortifiante, tu permets à certains de l’approcher alors que tu en tiens d’autres éloignés pour ce que leurs mains ont perpétré en tes jours. Dans son ardent désir de contempler sa beauté, quiconque se hâte vers lui et le rejoint, offre sa vie dans ton sentier et s’élève vers toi, entièrement détaché de tout sauf de toi.
@@ -509,6 +685,8 @@ Tu as le pouvoir d’agir selon ton bon plaisir. Tu es, en vérité, le Tout-Pui
 
 (Source category: Détachement)
 (Bahaiprayers.net ID: 9154)
+
+
 
 
 ### <a id="bpn9155"></a> Prayer bpn9155 in Français
@@ -523,6 +701,8 @@ Il n’est de Dieu que toi, le Tout-Puissant, le Bienfaisant.
 (Bahaiprayers.net ID: 9155)
 
 
+
+
 ### <a id="bpn9156"></a> Prayer bpn9156 in Français
 Au nom de ton Seigneur, le Créateur, le Souverain, Celui qui suffit à tout, le Suprême, Celui dont tous les hommes implorent le secours ! Dis : Ô mon Dieu, toi, le Créateur du ciel et de la terre, le Seigneur du royaume, tu connais les secrets de mon cœur, mais ton essence reste impénétrable à tout autre que toi. Tu vois ce qui est en moi, ce que nul autre ne peut voir. Par ta grâce, accordemoi ce qui me permettra de me passer de tout sauf de toi et me rendra indépendant de tout autre que toi. Laisse-moi recueillir les bénéfices de ma vie dans ce monde et dans l’autre. Ouvre-moi la porte de ta grâce et dispense-moi ta tendre miséricorde et tes bienfaits.
 Ô Seigneur de grâces abondantes, entoure ceux qui t’aiment de ta protection céleste et accorde-nous les dons et les bienfaits que tu possèdes. Sois notre appui en toutes choses, pardonne nos péchés, aie pitié de nous. Tu es notre Seigneur et le Seigneur de toutes choses créées. Nous n’invoquons que toi et n’implorons que tes faveurs. Tu es le Seigneur de bonté et de grâce, au pouvoir invincible, aux desseins inégalés. Il n’est pas d’autre Dieu que toi, le Possesseur de toutes choses, le Suprême.
@@ -532,6 +712,8 @@ Au nom de ton Seigneur, le Créateur, le Souverain, Celui qui suffit à tout, le
 (Bahaiprayers.net ID: 9156)
 
 
+
+
 ### <a id="bpn9157"></a> Prayer bpn9157 in Français
 Ô Seigneur, en toi je cherche refuge et vers tes signes je tourne mon cœur. Ô Seigneur, en voyage ou chez moi, durant mes activités ou dans mon travail, je place en toi mon entière confiance. 
 Envoie-moi l’aide qui me rendra indépendant de toutes choses, ô toi dont la miséricorde est sans pareille ! Ô Seigneur, accorde-moi la part qui te convient, et fais que j’accepte tout ce que tu me destines.
@@ -539,6 +721,8 @@ Envoie-moi l’aide qui me rendra indépendant de toutes choses, ô toi dont la 
 
 (Source category: Détachement)
 (Bahaiprayers.net ID: 9157)
+
+
 
 
 ### <a id="bpn9158"></a> Prayer bpn9158 in Français
@@ -551,6 +735,8 @@ Tu es, en vérité, le Tout-Puissant, le TrèsGlorieux, l’Omnipotent.
 (Bahaiprayers.net ID: 9158)
 
 
+
+
 ### <a id="bpn9159"></a> Prayer bpn9159 in Français
 Ô Dieu, mon Dieu, remplis pour moi la coupe du détachement de toutes choses et, en la compagnie de tes splendeurs et de tes bienfaits, enivre-moi du vin d’amour pour toi. Libère-moi des assauts de la passion et du désir, délivre-moi des entraves de ce bas monde, entraîne-moi avec ravissement vers ton royaume céleste et, parmi tes servantes, rafraîchis-moi des souffles de ta sainteté.
 Ô Seigneur, éclaire mon visage de la lumière de tes bienfaits, illumine mon regard par la contemplation des signes de ta puissance conquérante, ravis mon cœur par la gloire de ton savoir universel et réjouis mon âme de tes joyeuses et vivifiantes nouvelles, ô toi, Roi de ce monde et du royaume d’en haut, toi, Seigneur de l’autorité et de la puissance ! Qu’ainsi je dissémine tes signes et tes preuves, proclame ta cause, diffuse tes enseignements, serve ta loi et exalte ta parole !
@@ -558,6 +744,8 @@ Tu es, en vérité, le Fort, l’éternel Bienfaiteur, le Tout-Puissant, l’Omn
 
 (Source category: Détachement)
 (Bahaiprayers.net ID: 9159)
+
+
 
 
 
@@ -570,6 +758,8 @@ Tu es, en vérité, le Fort, l’éternel Bienfaiteur, le Tout-Puissant, l’Omn
 (Bahaiprayers.net ID: 9160)
 
 
+
+
 ### <a id="bpn9161"></a> Prayer bpn9161 in Français
 Ô Dieu, élève ce nouveau-né dans le sein de ton amour et nourris-le du lait de ta sollicitude. Cultive cette jeune pousse dans la roseraie de ton amour et arrose-la des ondées de ta bonté. 
 Fais de lui un enfant du royaume et guide-le vers ta céleste demeure. Tu es puissant et bon. Tu es le Dispensateur, le Généreux, le Seigneur d’infinie miséricorde.
@@ -578,11 +768,15 @@ Fais de lui un enfant du royaume et guide-le vers ta céleste demeure. Tu es pui
 (Bahaiprayers.net ID: 9161)
 
 
+
+
 ### <a id="bpn9162"></a> Prayer bpn9162 in Français
 Ô Dieu, éduque ces enfants. Ce sont les plantesde ton verger, les fleurs de ta prairie, les roses de ton jardin. Que ta pluie les arrose, que le Soleil de réalité brille sur eux de tout ton amour ! Que ta brise les rafraîchisse afin qu’ils soient bien éduqués, grandissent, se développent et apparaissent dans tout l’éclat de leur beauté ! Tu es le Dispensateur, tu es le Compatissant.
 
 (Source category: Enfants et jeunes)
 (Bahaiprayers.net ID: 9162)
+
+
 
 
 ### <a id="AB10714"></a> Prayer AB10714 in Français
@@ -593,11 +787,15 @@ Tu es le Généreux, le Très-Aimant.
 (Bahaiprayers.net ID: 9163)
 
 
+
+
 ### <a id="bpn9164"></a> Prayer bpn9164 in Français
 Ô Seigneur, fais de ces enfants des plantes merveilleuses. Qu’ils croissent et se développent dans le jardin de ton Alliance et que les ondées du royaume d’Abhá leur apportent fraîcheur et beauté ! Ô toi, Dieu de bonté, je suis un petit enfant, élève-moi et accepte-moi dans le royaume. Je suis terrestre, rends-moi céleste. Je suis de ce monde, ouvre-moi le royaume d’en haut. Je suis triste, rends-moi radieux ; matériel, rendsmoi spirituel ; et accorde-moi de manifester tes grâces infinies. Tu es le Puissant, le Très-Aimant.
 
 (Source category: Enfants et jeunes)
 (Bahaiprayers.net ID: 9164)
+
+
 
 
 ### <a id="bpn9165"></a> Prayer bpn9165 in Français
@@ -607,12 +805,16 @@ Il est Dieu ! Ô Dieu, mon Dieu, accorde-moi un cœur pur, pareil à une perle.
 (Bahaiprayers.net ID: 9165)
 
 
+
+
 ### <a id="bpn9167"></a> Prayer bpn9167 in Français
 Ô mon Seigneur, ô mon Seigneur, je suis un enfant d’âge tendre. Nourris-moi du lait de ta miséricorde. Élève-moi dans ton amour, instruis-moi à l’école de tes conseils et fais-moi grandir à l’ombre de ta munificence. Délivre-moi des ténèbres, fais de moi une brillante lumière. Préserve-moi du malheur, fais-moi fleurir dans ta roseraie. Souffre que je devienne un serviteur de ton seuil et confère-moi les aptitudes et la nature des justes. Fais de moi une source de bienfaits pour l’humanité et couronne-moi du diadème de la vie éternelle.
 En vérité, tu es le Fort, le Puissant, Celui qui voit, Celui qui entend.
 
 (Source category: Enfants et jeunes)
 (Bahaiprayers.net ID: 9167)
+
+
 
 
 ### <a id="bpn9168"></a> Prayer bpn9168 in Français
@@ -624,11 +826,15 @@ Aussi, nourris cette plante des ondées de ta tendre miséricorde, ravive et raf
 (Bahaiprayers.net ID: 9168)
 
 
+
+
 ### <a id="bpn9169"></a> Prayer bpn9169 in Français
 Ô Dieu, fais rayonner ce jeune et sois généreux envers cette pauvre créature. Accorde-lui la connaissance. Chaque matin, donne-lui une force accrue et protège-le afin qu’il soit affranchi de toute erreur, qu’il se consacre au service de ta cause, guide les rebelles et les infortunés, libère les captifs, éveille les insouciants, et que tous bénéficient de ton souvenir et ta louange. Tu es le Puissant, le Fort.
 
 (Source category: Enfants et jeunes)
 (Bahaiprayers.net ID: 9169)
+
+
 
 
 ### <a id="bpn9166"></a> Prayer bpn9166 in Français
@@ -637,6 +843,8 @@ brillante. Tu es le Fort, le Puissant.
 
 (Source category: Enfants et jeunes)
 (Bahaiprayers.net ID: 9166)
+
+
 
 
 
@@ -652,6 +860,8 @@ Par le nom de celui autour duquel le royaume de tes noms gravite en signe d’ad
 (Bahaiprayers.net ID: 9170)
 
 
+
+
 ### <a id="bpn9171"></a> Prayer bpn9171 in Français
 Loué sois-tu, ô Seigneur, mon Dieu ! Je te supplie par ton Nom que personne n’a reconnu comme il convient et dont aucune âme n’a pénétré le sens. Je te supplie par celui qui est la source de ta révélation et l’aurore de tes signes. Fais de mon cœur un réceptacle de ton amour et de ton souvenir. Unis-le à ton très grand Océan, qu’il déverse les eaux vives de ta sagesse et les flots cristallins de ta gloire et de ta louange.
 Les membres de mon corps attestent ton unité et les cheveux de ma tête proclament le pouvoir de ta souveraineté et de ta puissance. Je me tiens debout à la porte de ta grâce dans un renoncement total et une abnégation absolue, agrippé au pan de ta générosité, les yeux fixés sur l’horizon de tes dons.
@@ -660,6 +870,8 @@ En vérité, tu es le Très-Puissant, le Très-Haut, l’Omniscient, le Très-Sa
 
 (Source category: Enseignement et service)
 (Bahaiprayers.net ID: 9171)
+
+
 
 
 ### <a id="bpn9172"></a> Prayer bpn9172 in Français
@@ -672,6 +884,8 @@ Par ton Verbe qui parachève ta preuve parmi tes créatures et accomplit ta prom
 (Bahaiprayers.net ID: 9172)
 
 
+
+
 ### <a id="bpn9173"></a> Prayer bpn9173 in Français
 Ô Dieu, toi qui es l’Auteur de toutes les manifestations, la Source de toutes les sources, la Source de toutes les révélations, la Source de toutes les lumières ! Je témoigne que ton Nom auréole le ciel de la compréhension, fait surgir l’océan de la parole et promulgue les décrets de ta providence pour tous les disciples de toutes les religions.
 Je te supplie de m’enrichir au point de renoncer à tout sauf à toi, de m’affranchir de tout sauf de toi. Des nuages de ta miséricorde, fais pleuvoir ce qui me sera profitable dans chacun de tes mondes. Et aide-moi, par ta grâce fortifiante, à si bien servir ta cause parmi tes serviteurs que mon souvenir vivra aussi longtemps que ton propre royaume et ton empire.
@@ -682,11 +896,15 @@ Tu es, en vérité, le Dieu de force et de puissance, tu réponds à ceux qui te
 (Bahaiprayers.net ID: 9173)
 
 
+
+
 ### <a id="bpn9174"></a> Prayer bpn9174 in Français
 Ô mon Dieu, aide ce serviteur à proclamer la parole et à réfuter ce qui est vain et faux, à établir la vérité et à faire connaître les saints versets, à révéler les splendeurs et à faire naître l’aurore dans le cœur des justes. En vérité, tu es le Généreux, l’Indulgent.
 
 (Source category: Enseignement et service)
 (Bahaiprayers.net ID: 9174)
+
+
 
 
 ### <a id="bpn9175"></a> Prayer bpn9175 in Français
@@ -695,6 +913,8 @@ les à diffuser parmi toutes les nations de la terre la lumière directrice qui 
 
 (Source category: Enseignement et service)
 (Bahaiprayers.net ID: 9175)
+
+
 
 
 ### <a id="bpn9176"></a> Prayer bpn9176 in Français
@@ -707,6 +927,8 @@ Tu es le Seigneur très généreux. Il n’est pas d’autre Dieu que toi, le Fo
 (Bahaiprayers.net ID: 9176)
 
 
+
+
 ### <a id="bpn9177"></a> Prayer bpn9177 in Français
 Ô Dieu, toi qui répands ta splendeur sur les réalités lumineuses des hommes, les éclairant des feux resplendissants de ta connaissance et de ta sagesse, et qui les as choisis parmi toutes les créatures pour bénéficier de cette grâce divine, toi qui les amènes à saisir toutes choses, à comprendre leur essence profonde et à dévoiler leurs mystères, les tirant de l’ombre vers le monde visible ! « La grâce est dans la main de Dieu : il la donne à qui il veut ».*
 Ô Seigneur, permets à tes aimés d’acquérir la connaissance, les sciences, les arts et de découvrir les secrets enchâssés dans la réalité profonde de tous les êtres créés. Fais qu’ils entendent les vérités cachées, gravées et serties au cœur de tout ce qui est. Qu’ils deviennent des bannières ralliant toutes les créatures et, dans cette « première naissance »† des rayons éclatants de l’esprit. Fais d’eux des  guides menant vers toi, des bergers ouvrant ton chemin, des messagers exhortant les hommes vers ton royaume.
@@ -714,6 +936,8 @@ Tu es, en vérité, le Puissant, le Protecteur, l’Omnipotent, le Défenseur, l
 
 (Source category: Enseignement et service)
 (Bahaiprayers.net ID: 9177)
+
+
 
 
 
@@ -726,6 +950,8 @@ Béni est le lieu, la maison et l’endroit,la ville et le cœur,la montagne et 
 (Bahaiprayers.net ID: 9406)
 
 
+
+
 ### <a id="bpn9182"></a> Prayer bpn9182 in Français
 Gloire à toi, ô Seigneur, mon Dieu ! Pardonnemoi, je t’en supplie, et pardonne à ceux qui professent ta foi. En vérité, tu es le Seigneur souverain, le Clément, le Très-Généreux. Ô mon Dieu, permets à tes serviteurs privés de connaissance d’être admis en ta cause. Dès qu’ils te connaîtront, ils attesteront la vérité du jour du jugement et ne contesteront point les révélations de ta bonté. Envoie-leur les signes de ta grâce et accorde-leur une part généreuse de ce que tu destines à tes pieux serviteurs, à quelque endroit qu’ils soient. Tu es, en vérité, le Souverain suprême, l’infiniment Généreux, le Très-Magnanime.
 Ô mon Dieu, en signe de la grâce et de la tendre bonté qui émanent de ta présence, prodigue ta bienveillance et ta générosité dans les foyers de ceux qui ont embrassé ta foi. En vérité, ta clémence est sans égale. Comment pourrait-il être compté parmi les disciples de la Foi en ton Jour celui à qui tu refuserais ta générosité ?
@@ -733,6 +959,8 @@ Bénis-moi, ô mon Dieu, bénis ceux qui croiront en tes signes au Jour fixé, e
 
 (Source category: Familles)
 (Bahaiprayers.net ID: 9182)
+
+
 
 
 ### <a id="BB00018FOR"></a> Prayer BB00018FOR in Français
@@ -743,11 +971,15 @@ Bénis-moi, ô mon Dieu, bénis ceux qui croiront en tes signes au Jour fixé, e
 (Bahaiprayers.net ID: 9183)
 
 
+
+
 ### <a id="bpn9184"></a> Prayer bpn9184 in Français
 Ô Seigneur, tu permets aux enfants d’intercéder en faveur de leurs parents dans cette très grande révélation. C’est l’un de ses innombrables privilèges. Ô Dieu de bonté, accepte donc la requête de ce serviteur prosterné au seuil de ton unicité et immerge son père dans l’océan de ta grâce, car ce fils s’est levé pour te servir et s’efforce en tout temps de suivre le sentier de ton amour. En vérité, tu es le Bienfaiteur, le Clément, le Bienveillant.
 
 (Source category: Familles)
 (Bahaiprayers.net ID: 9184)
+
+
 
 
 ### <a id="bpn9185"></a> Prayer bpn9185 in Français
@@ -760,12 +992,16 @@ En vérité, tu es le Précieux, l’éternel Dispensateur, la Main ouverte.
 (Bahaiprayers.net ID: 9185)
 
 
+
+
 ### <a id="bpn9186"></a> Prayer bpn9186 in Français
 Mon Seigneur, mon Seigneur, je te glorifie et te remercie pour les faveurs que tu as accordées à ton humble servante, ton esclave qui t’implore et te supplie. En vérité, tu l’as guidée vers ton royaume manifeste et dans ce monde contingent, tu lui as fait entendre ton appel exalté et contempler les signes qui prouvent l’apparition de ton règne victorieux sur toutes choses.
 Ô mon Seigneur, je t’offre le fruit de mes entrailles. Par ta bienveillance et ta générosité, fais de lui un enfant vertueux et comblé dans ton royaume, et permets que, grâce à ton éducation, il grandisse et se développe. En vérité, tu es le Clément. En vérité, tu es le Seigneur de grande bonté.
 
 (Source category: Familles)
 (Bahaiprayers.net ID: 9186)
+
+
 
 
 
@@ -781,6 +1017,8 @@ Il n’est pas d’autre Dieu que toi, le ToutPuissant, le Très-Sage.
 (Bahaiprayers.net ID: 9187)
 
 
+
+
 ### <a id="bpn9188"></a> Prayer bpn9188 in Français
 Il est le Puissant, le Clément, le Compatissant Ô Dieu, mon Dieu, tu vois tes serviteurs dans l’abîme de la perdition et de l’erreur ; où est la lumière de ta providence, ô Désir du monde ? Tu connais leur impuissance et leur faiblesse ; où est ta force, ô toi qui détiens les pouvoirs du ciel et de la terre ?
 Ô Seigneur, mon Dieu, par la splendeur des lumières de ta tendre bonté, par les flots de l’océan de ta connaissance et de ta sagesse, et par ta parole qui a soumis les peuples à ton autorité, je te demande d’être compté parmi ceux qui observent les commandements de ton livre. De plus, prescrismoi ce que tu prescris à tes fidèles qui boivent à longs traits le vin de l’inspiration divine au calice de ta bonté et qui s’empressent de te satisfaire et de respecter ton alliance et ton pacte. Tu as le pouvoir de faire ce que tu veux. Il n’est pas d’autre Dieu que toi, l’Omniscient, le Très-Sage.
@@ -788,6 +1026,8 @@ Il est le Puissant, le Clément, le Compatissant Ô Dieu, mon Dieu, tu vois tes 
 
 (Source category: Fermeté dans l’alliance)
 (Bahaiprayers.net ID: 9188)
+
+
 
 
 ### <a id="bpn9189"></a> Prayer bpn9189 in Français
@@ -798,12 +1038,16 @@ Seigneur, voici tes serviteurs restés fermes et fidèles à ton alliance et à 
 (Bahaiprayers.net ID: 9189)
 
 
+
+
 ### <a id="bpn9191"></a> Prayer bpn9191 in Français
 Ô mon Seigneur et mon Espoir, aide tes bienaimés à demeurer fermes dans ta puissante alliance, à rester fidèles à ta cause manifeste, et à observer tes commandements révélés dans le livre des splendeurs ; qu’ils deviennent des étendards de ta providence, des lumières de l’Assemblée céleste, des sources de ton infinie sagesse et de brillantes étoiles qui du firmament, montrent le droit chemin !
 En vérité, tu es l’Invincible, le Tout-Puissant.
 
 (Source category: Fermeté dans l’alliance)
 (Bahaiprayers.net ID: 9191)
+
+
 
 
 ### <a id="bpn9190"></a> Prayer bpn9190 in Français
@@ -817,6 +1061,8 @@ Tu es le Compatissant, le Miséricordieux, le Grand, le Bienfaisant.
 
 
 
+
+
 ## Guérison
 
 ### <a id="bpn9192"></a> Prayer bpn9192 in Français
@@ -826,6 +1072,8 @@ Tu as le pouvoir d’agir selon ton bon plaisir. Il n’est pas d’autre Dieu q
 
 (Source category: Guérison)
 (Bahaiprayers.net ID: 9192)
+
+
 
 
 ### <a id="bpn9194"></a> Prayer bpn9194 in Français
@@ -883,12 +1131,16 @@ Tu es en vérité le Puissant, le Dispensateur, Celui qui guérit, le Protecteur
 (Bahaiprayers.net ID: 9194)
 
 
+
+
 ### <a id="bpn9196"></a> Prayer bpn9196 in Français
 Ô mon Dieu, tu es celui dont les noms guérissent les malades, soignent les infirmes, désaltèrent les assoiffés, apaisent les âmes tourmentées, guident les égarés, relèvent les humiliés, enrichissent les pauvres, instruisent les ignorants, réconfortent les désespérés, consolent les affligés, raniment les cœurs glacés et soulagent les opprimés. Ô mon Dieu, par ton nom, toute chose créée s’anima, les cieux se déployèrent, la terre fut créée, les nuages se formèrent, la pluie se déversa sur la terre. Ce sont, en vérité, des signes de ta grâce envers toutes tes créatures.
 C’est pourquoi, par ton nom par lequel tu manifestes ta divinité et exaltes ta cause au-dessus de la création tout entière, par chacun de tes titres très excellents, de tes attributs très augustes et par toutes les vertus qui célèbrent ton Être suprême et transcendant, je t’implore. Fais pleuvoir en cette nuit, des nuées de ta miséricorde, les ondées de la guérison sur ce nourrisson que tu as rattaché à ton Être très glorieux dans le royaume de ta création. Ô mon Dieu, revêts-le par ta grâce, du manteau du bien-être et de la santé, et protègele de tout chagrin, de tout désordre et de tout ce que tu réprouves, ô mon Bien-Aimé ! En vérité, ton pouvoir égale toutes choses. En vérité, tu es le Très-Puissant, l’Absolu. Ô mon Dieu, accorde-lui aussi le bien de ce monde et de l’autre et celui des générations anciennes et nouvelles. En vérité, tu en as le pouvoir et la sagesse.
 
 (Source category: Guérison)
 (Bahaiprayers.net ID: 9196)
+
+
 
 
 ### <a id="bpn9195"></a> Prayer bpn9195 in Français
@@ -903,11 +1155,15 @@ Tu es le plus puissant des puissants. Que la gloire de Dieu repose sur toi, ô S
 (Bahaiprayers.net ID: 9195)
 
 
+
+
 ### <a id="bpn9193"></a> Prayer bpn9193 in Français
 Ton nom est ma guérison, ô mon Dieu, ton souvenir mon remède. Ta présence est mon espoir et mon amour pour toi mon compagnon. Ta miséricorde est ma guérison et mon secours en ce monde et dans l’autre. En vérité, tu es le TrèsGénéreux, l’Omniscient, l’Infiniment Sage.
 
 (Source category: Guérison)
 (Bahaiprayers.net ID: 9193)
+
+
 
 
 
@@ -921,6 +1177,8 @@ Ton nom est ma guérison, ô mon Dieu, ton souvenir mon remède. Ta présence es
 (Bahaiprayers.net ID: 9197)
 
 
+
+
 ### <a id="bpn9198"></a> Prayer bpn9198 in Français
 Au nom du Seigneur, le Suprême, tu es loué et glorifié, Seigneur, Dieu omnipotent ! Devant ta sagesse, le sage reconnaît ses limites et s’incline ; devant ta connaissance, le savant confesse son ignorance ; devant ta puissance, l’homme fort vacille ; devant ton opulence, le riche atteste sa pauvreté ; devant ta lumière, l’homme éclairé se trouve perdu dans les ténèbres ; vers le temple de ta connaissance se tourne l’essence de toute compréhension, et autour du sanctuaire de ta présence gravitent les âmes de l’humanité tout entière.
 Comment puis-je mentionner et célébrer ton essence que n’ont pu saisir la sagesse du sage ni la science du savant, puisque personne ne peut célébrer ce qu’il ne comprend pas, ni décrire ce qui le dépasse et que de toute éternité tu es l’Inaccessible, l’Insondable ? Cependant, tout impuissant que je sois à m’élever jusqu’au ciel de ta gloire et à m’élancer dans les royaumes de ta connaissance, je peux dire tes signes qui proclament le glorieux ouvrage de tes mains.
@@ -929,6 +1187,8 @@ Louange et gloire à toi ! Toutes choses attestent que tu es l’Unique et qu’
 
 (Source category: Louange et gratitude)
 (Bahaiprayers.net ID: 9198)
+
+
 
 
 ### <a id="BH09960"></a> Prayer BH09960 in Français
@@ -940,12 +1200,16 @@ Tu es le Dieu de puissance, de gloire et de munificence. Il n’est de Dieu que 
 (Bahaiprayers.net ID: 9199)
 
 
+
+
 ### <a id="bpn9200"></a> Prayer bpn9200 in Français
 Gloire à toi, ô Seigneur, mon Dieu ! Grâce te soit rendue, car tu m’as permis de reconnaître la manifestation de ton Être et tu m’as séparé de tes ennemis ; tu as dévoilé à mes yeux leurs méfaits et leurs actions perverses en tes jours, tu m’as libéré de tout attachement pour eux et tu m’as amené à me tourner entièrement vers ta miséricorde et tes bienfaits généreux. Grâce te soit rendue, car tu m’as envoyé, des nuages de ta volonté, ce qui m’a protégé des insinuations des infidèles et des allusions des mécréants ; ainsi mon cœur s’est fermement attaché à toi et j’ai fui ceux qui ont refusé de reconnaître la lumière de ta face. Grâce te soit rendue encore, car tu m’as permis de demeurer ferme en ton amour, de proclamer ta louange et d’exalter tes vertus. Grâce te soit rendue enfin, car tu m’as abreuvé à la coupe de ta miséricorde qui surpasse toutes choses visibles et invisibles.
 Tu es le Très-Haut, le Suprême, le TrèsGlorieux et le Très-Aimant.
 
 (Source category: Louange et gratitude)
 (Bahaiprayers.net ID: 9200)
+
+
 
 
 ### <a id="bpn9201"></a> Prayer bpn9201 in Français
@@ -956,11 +1220,15 @@ Loué sois-tu, ô Seigneur, mon Dieu ! Chaque fois que je tente de mentionner to
 (Bahaiprayers.net ID: 9201)
 
 
+
+
 ### <a id="bpn9202"></a> Prayer bpn9202 in Français
 Dis : Gloire à toi qui amènes tous les saints à confesser leur impuissance devant les multiples révélations de ta puissance et chacun des prophètes à reconnaître son néant devant la splendeur de ta gloire immuable ! Par ton nom qui ouvre les portes du ciel et remplit d’extase l’Assemblée céleste, je te supplie de me rendre apte à te servir en ce jour et de m’accorder la force d’observer les préceptes de ton livre. Ô mon Seigneur, tu sais ce qui est en moi, mais j’ignore ce qui est en toi. Tu es l’Omniscient, l’Informé.
 
 (Source category: Louange et gratitude)
 (Bahaiprayers.net ID: 9202)
+
+
 
 
 ### <a id="bpn9203"></a> Prayer bpn9203 in Français
@@ -971,6 +1239,8 @@ Tu es, en vérité, le Tout-Puissant, le Suprême, le Très-Glorieux, le Très-S
 
 (Source category: Louange et gratitude)
 (Bahaiprayers.net ID: 9203)
+
+
 
 
 ### <a id="bpn9204"></a> Prayer bpn9204 in Français
@@ -984,6 +1254,8 @@ Tu as le pouvoir d’agir selon ton bon plaisir. Il n’est de Dieu que toi, le 
 (Bahaiprayers.net ID: 9204)
 
 
+
+
 ### <a id="bpn9205"></a> Prayer bpn9205 in Français
 Toute gloire et majesté, toute autorité et lumière, toute grandeur et splendeur t’appartiennent, ô mon Dieu ! Tu octroies la souveraineté à qui tu veux, tu la refuses à qui tu désires. Il n’est pas d’autre Dieu que toi, le Possesseur de toutes choses, le Suprême. Du néant tu créas l’univers et tout ce qui s’y trouve. Rien n’est digne de toi, si ce n’est toi-même, tout autre que toi est un paria en ta sainte présence et il n’est rien, comparé à la gloire de ton Être.
 Je ne peux exalter tes vertus qu’en me référant à ce que tu as toi-même célébré dans ton livre magistral où tu dis : « Aucune vision ne peut l’appréhender, mais il les appréhende toutes ».* Gloire à toi, ô mon Dieu ! Aucun esprit, aucune vision, quels que soient leur acuité ou leur discernement, ne pourront saisir la nature du plus insignifiant de tes signes. En vérité, tu es Dieu, et il n’est de Dieu que toi. J’atteste que toi, et toi seul, es l’unique expression de tes attributs, toi seul les sonderas jamais, et ta louange est la seule qui  parviendra jamais à ta cour sacrée.
@@ -995,11 +1267,15 @@ Toute tentative de tes créatures à te décrire ou à te connaître resterait i
 (Bahaiprayers.net ID: 9205)
 
 
+
+
 ### <a id="bpn9206"></a> Prayer bpn9206 in Français
 Ô Dieu, mon Dieu, protège tes serviteurs fidèles des maux de l’égoïsme et de la passion afin que l’œil vigilant de ta tendre bonté les garde de toute rancune, haine et envie ; abrite-les dans la forteresse imprenable de ta cause et, les préservant des flèches du doute, fais d’eux des manifestations de tes signes glorieux. Illumine leur visage de l’aurore de ta divine unité. Réjouis leur cœur par les versets révélés de ton saint royaume et affermis leurs reins par le pouvoir suprême qui émane de ton règne de gloire. Tu es le Généreux, le Protecteur, le Tout-Puissant, le Bienveillant.
 
 (Source category: Louange et gratitude)
 (Bahaiprayers.net ID: 9206)
+
+
 
 
 
@@ -1011,6 +1287,8 @@ La souveraineté est à Dieu, le Créateur des cieux, le Seigneur du royaume des
 
 (Source category: Mains de la cause)
 (Bahaiprayers.net ID: 9309)
+
+
 
 
 
@@ -1036,12 +1314,16 @@ Il est le Dispensateur, le Généreux ! Louange à Dieu, l’Ancien, l’Immuabl
 (Bahaiprayers.net ID: 9207)
 
 
+
+
 ### <a id="bpn9208"></a> Prayer bpn9208 in Français
 Il est Dieu ! Ô Seigneur incomparable, en ta suprême sagesse, tu as enjoint aux hommes de se marier afin que leurs générations se succèdent en ce monde contingent et qu’à jamais, aussi longtemps que durera le monde, elles se dévouent au seuil de ton unité avec humilité et ferveur, adoration, déférence et vénération. « Je n’ai créé les esprits et les hommes que pour qu’ils m’adorent. »* Au ciel de ta miséricorde, unis ces deux oiseaux du nid de ton amour ; fais d’eux des instruments qui attirent la grâce éternelle afin que, de l’union de ces deux océans d’amour, une vague de tendresse surgisse et porte aux rivages de la vie les perles d’une postérité pure et belle. « Il a permis à deux océans de se rencontrer. Entre eux il est une limite qu’ils ne doivent pas franchir. Lequel des bienfaits de votre Seigneur refuserez-vous ? De chacun d’eux, Il fait sortir des perles variées. »†
 Ô Seigneur bienveillant, fais que de cette union naissent perles et coraux. En vérité, tu es le ToutPuissant, le Très-Grand, le Magnanime.
 
 (Source category: Mariage)
 (Bahaiprayers.net ID: 9208)
+
+
 
 
 ### <a id="bpn9209"></a> Prayer bpn9209 in Français
@@ -1052,12 +1334,16 @@ En vérité, tu es l’Omnipotent, l’Omniprésent, le Tout-Puissant.
 (Bahaiprayers.net ID: 9209)
 
 
+
+
 ### <a id="bpn9210"></a> Prayer bpn9210 in Français
 Ô mon Seigneur, ô mon Seigneur, ces deux astres lumineux se sont unis dans ton amour, se sont associés pour servir ton seuil sacré et se sont réunis pour soutenir ta cause. Que ce mariage soit semblable à des rais de ton immense bonté, ô mon Seigneur, le Très-Miséricordieux ! Qu’il soit semblable aux rayons lumineux de tes bienfaits, ô toi le Très-Généreux, l’éternel Dispensateur ! Que ce bel arbre donne ainsi naissance à des rameaux que feront verdir et fleurir les pluies de tes faveurs tombant des nuages de ta grâce !
 En vérité, tu es le Généreux. En vérité, tu es le Tout-Puissant. En vérité, tu es le Compatissant, le Très-Miséricordieux.
 
 (Source category: Mariage)
 (Bahaiprayers.net ID: 9210)
+
+
 
 
 
@@ -1074,6 +1360,8 @@ Tu es, en vérité, le Seigneur et le Roi de tous les hommes, tu as pouvoir sur 
 (Bahaiprayers.net ID: 9211)
 
 
+
+
 ### <a id="bpn9212"></a> Prayer bpn9212 in Français
 Je me suis éveillé dans ton refuge, ô mon Dieu, et il convient à celui qui recherche cet abri de demeurer dans le sanctuaire de ta protection et dans la forteresse de ta défense. Ô mon Dieu, illumine mon être intérieur des splendeurs de l’aurore de ta révélation, comme tu as éclairé mon être matériel de la lumière matinale de tes bienfaits.
 
@@ -1081,11 +1369,15 @@ Je me suis éveillé dans ton refuge, ô mon Dieu, et il convient à celui qui r
 (Bahaiprayers.net ID: 9212)
 
 
+
+
 ### <a id="bpn9213"></a> Prayer bpn9213 in Français
 Je me suis levé ce matin par ta grâce, ô mon Dieu, et entièrement confiant en toi, m’en remettant à tes soins, j’ai quitté mon foyer. Du ciel de ta miséricorde, accorde-moi ta bénédiction et permets-moi de regagner sain et sauf ma demeure comme tu m’as permis de la quitter sous ta protection, mes pensées fermement fixées sur  toi. Il n’est pas d’autre Dieu que toi, l’Unique, l’Incomparable, l’Omniscient, le Très-Sage.
 
 (Source category: Matin)
 (Bahaiprayers.net ID: 9213)
+
+
 
 
 ### <a id="bpn9214"></a> Prayer bpn9214 in Français
@@ -1099,6 +1391,8 @@ Tu ne déçois pas celui qui te cherche et tu n’écartes pas celui qui te dés
 
 (Source category: Matin)
 (Bahaiprayers.net ID: 9214)
+
+
 
 
 
@@ -1118,6 +1412,8 @@ Révèle à tes serviteurs ce rang qui est le tien afin qu’ils conçoivent que
 
 
 
+
+
 ## Pardon
 
 ### <a id="bpn9221"></a> Prayer bpn9221 in Français
@@ -1132,6 +1428,8 @@ Ne me rejette pas loin de ta grâce et ne me prive pas des flots abondants de ta
 (Bahaiprayers.net ID: 9221)
 
 
+
+
 ### <a id="bpn9222"></a> Prayer bpn9222 in Français
 Ô 
 mon Seigneur, j’ai dirigé vers toi mon visage et placé mon espoir dans les merveilles de ta grâce et les révélations de ta générosité. Ne souffre pas, je t’en prie, que je m’éloigne, déçu, du seuil de ta miséricorde et ne m’abandonne pas aux mains de ceux qui ont répudié ta cause.
@@ -1143,11 +1441,15 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 9222)
 
 
+
+
 ### <a id="bpn9223"></a> Prayer bpn9223 in Français
 Ô mon Seigneur, tu me vois, le visage tourné vers le ciel de ta bonté et l’océan de ta faveur, détaché de tout sauf de toi. Par les splendeurs du Soleil de ta révélation sur le Sinaï et par les rayons de l’Astre de ta grâce resplendissant à l’horizon de ton nom, le Magnanime, je te demande de m’accorder ton pardon et ta miséricorde. De ta plume de gloire, inscris alors ce qui, par ton nom, me grandira dans le monde de la création. Aidemoi, ô mon Seigneur, à me tourner vers toi et à écouter la voix de tes bien-aimés que les puissances de la terre ne peuvent affaiblir, ni l’emprise des nations éloigner de toi. S’avançant vers toi, ils disent : « Dieu est notre Seigneur, le Seigneur de tous ceux qui sont au ciel et sur la terre. »
 
 (Source category: Pardon)
 (Bahaiprayers.net ID: 9223)
+
+
 
 
 ### <a id="bpn9224"></a> Prayer bpn9224 in Français
@@ -1162,12 +1464,16 @@ Ton pouvoir demeure de toute éternité. Rien n’échappe à ta connaissance. T
 (Bahaiprayers.net ID: 9224)
 
 
+
+
 ### <a id="bpn9225"></a> Prayer bpn9225 in Français
 Loué soit ton nom, ô mon Dieu et le Dieu de toutes choses, ma gloire et la gloire de toutes choses, mon désir et le désir de toutes choses, ma force et la force de toutes choses, mon roi et le roi de toutes choses, mon possesseur et le possesseur de toutes choses, mon but et le but de toutes choses, mon animateur et l’animateur de toutes choses ! Je t’en supplie, ne me retiens pas loin de l’océan de ta miséricorde ni des rivages de ta proximité.
 Ô mon Dieu, toi seul m’es de quelque secours et seul l’accès à ta présence peut m’être profitable. Par l’abondance des richesses qui te rend indépendant de tout sauf de toi, je te supplie. Compte-moi parmi ceux qui tournent leur visage vers toi et se lèvent pour te servir. Ô mon Seigneur, pardonne à tes serviteurs et à tes servantes. Tu es, en vérité, le Magnanime, le Très-Compatissant.
 
 (Source category: Pardon)
 (Bahaiprayers.net ID: 9225)
+
+
 
 
 ### <a id="bpn9226"></a> Prayer bpn9226 in Français
@@ -1180,6 +1486,8 @@ Tu es le Souverain suprême, le puissant Créateur, l’Éminent, le Très-Aiman
 (Bahaiprayers.net ID: 9226)
 
 
+
+
 ### <a id="bpn9227"></a> Prayer bpn9227 in Français
 Louange à toi, ô Seigneur ! Pardonne nos péchés, aie pitié de nous et permets-nous de retourner à toi. Souffre que nous placions notre confiance en toi seul et octroie-nous, dans ta bonté, ce que tu aimes, ce que tu désires, ce qui te convient. Exalte le rang de ceux qui ont véritablement cru en toi et, en ta bienveillante clémence, accorde-leur ton pardon. En vérité, tu es le Secours, l’Absolu.
 
@@ -1187,11 +1495,15 @@ Louange à toi, ô Seigneur ! Pardonne nos péchés, aie pitié de nous et perme
 (Bahaiprayers.net ID: 9227)
 
 
+
+
 ### <a id="bpn9228"></a> Prayer bpn9228 in Français
 Ô mon Seigneur, je te supplie de me pardonner pour toute mention autre que ta mention, toute louange autre que ta louange, toute joie autre que celle de ta présence, tout plaisir autre que celui de la communion avec toi, toute allégresse autre que celle de t’aimer et de te plaire. Pardonne-moi aussi pour tout ce qui m’appartient et qui est sans rapport avec toi, ô Seigneur des seigneurs, toi qui fournis les moyens et qui ouvres les portes !
 
 (Source category: Pardon)
 (Bahaiprayers.net ID: 9228)
+
+
 
 
 ### <a id="bpn9229"></a> Prayer bpn9229 in Français
@@ -1203,11 +1515,15 @@ Glorifié sois-tu, ô Seigneur ! Tu pardonnes toujours les péchés de ceux parm
 (Bahaiprayers.net ID: 9229)
 
 
+
+
 ### <a id="ABU0030SHE"></a> Prayer ABU0030SHE in Français
 Ô toi, Dieu indulgent, tu es le refuge de tous tes serviteurs. Tu connais les secrets, rien ne t’échappe. Nous sommes tous faibles, tu es le Puissant, l’Omnipotent. Nous sommes tous des pécheurs, tu pardonnes les péchés, toi, le Miséricordieux, le Compatissant. Ô Seigneur, ne considère pas nos faiblesses. Traite-nous selon ta grâce et ta miséricorde. Nombreux sont nos défauts, mais infini est l’océan de ton pardon, grande est notre indigence, mais manifestes sont les signes de ton aide et de ton soutien. Aussi, confirme-nous et fortifie-nous. Que nos actes soient dignes de ton seuil divin ! Illumine nos cœurs, donne-nous des yeux qui voient et des oreilles qui entendent. Ressuscite le mort et guéris le malade. Accorde la richesse au pauvre, la paix et la sécurité à celui qui a peur. Accepte-nous dans ton royaume, éclaire-nous de la lumière de tes conseils. Tu es le Puissant et l’Omnipotent, tu es le Généreux, tu es le Clément, tu es le Bienveillant.
 
 (Source category: Pardon)
 (Bahaiprayers.net ID: 9230)
+
+
 
 
 
@@ -1223,6 +1539,8 @@ En vérité, tu es le Généreux, le Puissant, l’Omnipotent, l’Indépendant.
 
 (Source category: Prière pour les Martyrs et leur famille)
 (Bahaiprayers.net ID: 9308)
+
+
 
 
 
@@ -1244,6 +1562,8 @@ Puisse mon esprit être offert en sacrifice pour les injustices dont tu as souff
 (Bahaiprayers.net ID: 9301)
 
 
+
+
 ### <a id="bpn9302"></a> Prayer bpn9302 in Français
 *Cette prière révélée par ‘Abdu’l-Bahá est lue à son tombeau. On peut également la lire en privé. Celui qui récite cette prière avec ferveur et humilité apporte joie et contentement au cœur de ce serviteur ; c’est comme s’il le rencontrait face à face.
 
@@ -1254,6 +1574,8 @@ Tu es le Bienfaiteur, le Compatissant, le TrèsGénéreux, le Clément, le Très
 
 (Source category: Prières de souvenance)
 (Bahaiprayers.net ID: 9302)
+
+
 
 
 
@@ -1297,6 +1619,8 @@ Vois, ô mon Dieu : je m’attache ton Nom, le plus saint, le plus lumineux, le 
 (Bahaiprayers.net ID: 9304)
 
 
+
+
 ### <a id="bpn9305"></a> Prayer bpn9305 in Français
 Ô mon Dieu, en ces jours tu enjoins à tes serviteurs d’observer le jeûne. Aux yeux de tous, sur la terre comme au ciel, tu en fais un ornement du préambule du Livre des lois révélé pour tes créatures et une parure du précieux recueil de tes commandements. Tu dotes chaque heure de ces jours d’une vertu que toi seul discernes, toi dont la connaissance embrasse toute la création. Tu assignes également à chaque âme une part de cette vertu, en accord avec le livre de ton décret et les écrits de ton jugement irrévocable. Plus encore, tu alloues à chaque peuple de la terre une page de ces livres et de ces écrits.
 Ô toi, le Roi des rois, à l’aube de chaque jour et selon ton décret, tu offres la coupe de ton souvenir à tes amants passionnés. Enivrés du vin de ton infinie sagesse, ils abandonnent leur couche dans leur désir de célébrer ta louange et de chanter tes vertus, et fuient le sommeil dans leur ardent désir d’approcher ta présence et de jouir de ta générosité. Leurs yeux restent fixés sur l’Aube de ta bonté et leur visage se tourne vers la Source de ton inspiration. Fais donc pleuvoir sur nous et sur eux, des nuages de ta bonté, ce qui convient au ciel de ta générosité et ta grâce.
@@ -1312,6 +1636,8 @@ Rends ta cause victorieuse, ô mon Seigneur, et abaisse tes ennemis. Décrète p
 
 (Source category: Prières pour le jeûne)
 (Bahaiprayers.net ID: 9305)
+
+
 
 
 ### <a id="bpn9306"></a> Prayer bpn9306 in Français
@@ -1338,6 +1664,8 @@ Loué sois-tu, ô mon Dieu, car tu nous aides à le reconnaître et à l’aimer
 
 (Source category: Prières pour le jeûne)
 (Bahaiprayers.net ID: 9306)
+
+
 
 
 
@@ -1368,6 +1696,8 @@ En vérité, tous nous sommes patients devant la volonté de Dieu.
 (Bahaiprayers.net ID: 9128)
 
 
+
+
 ### <a id="bpn9215"></a> Prayer bpn9215 in Français
 *La mort tend à chaque croyant sincère la coupe qui est la vraie vie. Elle dispense la joie et apporte le bonheur. Elle confère le don de la vie éternelle.
 
@@ -1379,12 +1709,16 @@ Tu as le pouvoir de faire ce qui te plaît.
 (Bahaiprayers.net ID: 9215)
 
 
+
+
 ### <a id="bpn9216"></a> Prayer bpn9216 in Français
 Dis : ô Dieu, mon Dieu, tu m’as confié ce gage et selon ta volonté, tu as voulu le rappeler à toi. Il ne m’appartient pas, à moi qui ne suis que ta servante, de me dire : « D’où vient ceci ou pourquoi cela ? » car tu es glorifié en tous tes actes et selon ton décret tu dois être obéi.
 Ô mon Seigneur, ta servante place ses espoirs en ta grâce et en ta bonté. Accorde-lui ce qui la rapprochera de toi et lui sera profitable dans chacun de tes mondes. Tu es le Clément, le Très-Généreux. Il n’est d’autre Dieu que toi, l’Ordonnateur, l’Ancien des jours.
 
 (Source category: Prières pour les morts)
 (Bahaiprayers.net ID: 9216)
+
+
 
 
 ### <a id="BH03109KIN"></a> Prayer BH03109KIN in Français
@@ -1402,6 +1736,8 @@ Il n’est pas d’autre Dieu que toi, l’Unique, le Puissant, l’Omniscient, 
 (Bahaiprayers.net ID: 9217)
 
 
+
+
 ### <a id="bpn9219"></a> Prayer bpn9219 in Français
 Ô mon Dieu, ô mon Dieu, humble devant la majesté de ta divine suprématie, soumis devant la porte de ton unicité, ton serviteur croit en toi et en tes versets ; il témoigne de ta parole, il est embrasé par le feu de ton amour ; il est immergé dans les profondeurs de l’océan de ta connaissance, et charmé par tes brises ; il place sa confiance en toi et tourne son visage vers toi ; il t’offre ses suppliques et reçoit l’assurance de ton pardon et de ta clémence. Il quitte cette vie mortelle pour s’envoler vers le royaume de l’immortalité, aspirant au privilège de te rencontrer.
 Ô Seigneur, glorifie son rang, abrite-le sous le tabernacle de ta miséricorde suprême, admets-le dans ton paradis glorieux et perpétue son existence dans ta roseraie divine afin qu’il plonge dans l’océan de lumière du monde des mystères.
@@ -1409,6 +1745,8 @@ En vérité tu es le Généreux, le Puissant, le Magnanime, le Dispensateur.
 
 (Source category: Prières pour les morts)
 (Bahaiprayers.net ID: 9219)
+
+
 
 
 ### <a id="bpn9220"></a> Prayer bpn9220 in Français
@@ -1419,12 +1757,16 @@ Tu es le Clément, l’Omnipotent, Celui qui donne la lumière.
 (Bahaiprayers.net ID: 9220)
 
 
+
+
 ### <a id="bpn9218"></a> Prayer bpn9218 in Français
 Ô mon Dieu, toi qui pardonnes les péchés, dispenses les bienfaits, dissipes les afflictions ! En vérité, je te supplie de pardonner les péchés de ceux qui ont abandonné l’enveloppe physique et se sont élevés vers le monde spirituel.
 Ô mon Seigneur, efface leurs transgressions, dissipe leurs peines et change leurs ténèbres en lumière. Ouvre-leur le jardin du bonheur ; purifie-les par l’eau la plus limpide et accorde-leur de contempler tes splendeurs du mont le plus élevé.
 
 (Source category: Prières pour les morts)
 (Bahaiprayers.net ID: 9218)
+
+
 
 
 
@@ -1446,6 +1788,8 @@ Tu es le Clément, l’Omnipotent, Celui qui donne la lumière.
 
 (Source category: Prières prescrites)
 (Bahaiprayers.net ID: 9125)
+
+
 
 
 ### <a id="bpn9126"></a> Prayer bpn9126 in Français
@@ -1485,6 +1829,8 @@ En vérité, tu es Celui qui pardonne, le TrèsGénéreux.
 
 (Source category: Prières prescrites)
 (Bahaiprayers.net ID: 9126)
+
+
 
 
 ### <a id="bpn9127"></a> Prayer bpn9127 in Français
@@ -1546,6 +1892,8 @@ Loué sois-tu, ô notre Dieu ! Tu nous révèles ce qui nous rapproche de toi, e
 
 
 
+
+
 ## Progrès de la cause
 
 ### <a id="bpn9231"></a> Prayer bpn9231 in Français
@@ -1556,6 +1904,8 @@ Tu as le pouvoir de faire ce que tu veux. Tu es, en vérité, le Secours, l’Ab
 
 (Source category: Progrès de la cause)
 (Bahaiprayers.net ID: 9231)
+
+
 
 
 ### <a id="bpn9232"></a> Prayer bpn9232 in Français
@@ -1569,12 +1919,16 @@ Tu es leur Seigneur, le Seigneur des cieux et de la terre, le Seigneur de tous l
 (Bahaiprayers.net ID: 9232)
 
 
+
+
 ### <a id="bpn9233"></a> Prayer bpn9233 in Français
 Ô Dieu, favorise le développement rapide de l’arbre de l’unité divine. Ô Seigneur, arrose-le des eaux abondantes de ton bon plaisir. Qu’en raison de la révélation des promesses divines, il donne les fruits que tu souhaites pour te glorifier et t’exalter, te louer et te rendre grâce, pour magnifier ton nom, célébrer l’unité de ton essence et te vénérer, car tout ceci repose entre tes seules mains !
 Bénis ceux dont tu as choisi le sang pour arroser l’arbre de ton assertion et exalter ainsi ta sainte et immuable parole.
 
 (Source category: Progrès de la cause)
 (Bahaiprayers.net ID: 9233)
+
+
 
 
 ### <a id="bpn9234"></a> Prayer bpn9234 in Français
@@ -1586,12 +1940,16 @@ En vérité, tu es notre Seigneur et le Seigneur de toutes choses. Nous nous en 
 (Bahaiprayers.net ID: 9234)
 
 
+
+
 ### <a id="bpn9235"></a> Prayer bpn9235 in Français
 Ô Seigneur, permets à tous les peuples de la terre d’accéder au paradis de ta foi afin qu’aucune créature ne demeure hors des limites de ton bon plaisir.
 De temps immémorial, tu as le pouvoir de faire ce qui te plaît et tu transcendes tout ce que tu désires.
 
 (Source category: Progrès de la cause)
 (Bahaiprayers.net ID: 9235)
+
+
 
 
 ### <a id="bpn9236"></a> Prayer bpn9236 in Français
@@ -1604,6 +1962,8 @@ Tu es le Bienfaiteur, l’Indulgent, l’éternel Dispensateur. En vérité, tu 
 (Bahaiprayers.net ID: 9236)
 
 
+
+
 ### <a id="bpn9237"></a> Prayer bpn9237 in Français
 Il est Dieu ! Ô Seigneur, mon Dieu, mon Bien-Aimé, tes serviteurs que voici ont perçu ta voix, ils ont prêté l’oreille à ta parole et entendu ton appel. Ils ont cru en toi, ils ont vu tes merveilles, reconnu ta preuve et ton signe. Ils ont marché dans tes pas, ils ont suivi tes conseils, ils ont découvert tes mystères et saisi les secrets de ton livre, les versets de tes manuscrits et les nouvelles contenues dans tes épîtres et tes tablettes. Ils se sont agrippés au pan de ton vêtement et se sont accrochés au manteau de ta lumière et de ta grandeur. Ton alliance a rendu leurs pas plus sûrs et ton pacte a fortifié leur cœur. 
 Seigneur, dans leur cœur allume la flamme de l’attrait divin et fais chanter l’oiseau de l’amour et de la concorde. Qu’ils deviennent des signes puissants, des modèles resplendissants, aussi parfaits que ton Verbe ! Grâce à eux, exalte ta cause, déploie tes bannières et diffuse au loin tes merveilles. Grâce à eux, fais triompher ta parole, et fortifie les reins de tes aimés. Délie leur langue pour louer ton nom, et inspire-les pour accomplir ta sainte volonté et ton bon plaisir. Dans ton royaume de sainteté illumine leur visage, et exalte leur joie en les aidant à se lever pour le triomphe de ta cause.
@@ -1612,6 +1972,8 @@ La gloire des gloires soit sur ceux qui sont fermes et résolus !
 
 (Source category: Progrès de la cause)
 (Bahaiprayers.net ID: 9237)
+
+
 
 
 
@@ -1627,6 +1989,8 @@ Louange à toi, ô Seigneur, mon Dieu ! Tu sais que j’ai appelé tes serviteur
 (Bahaiprayers.net ID: 9238)
 
 
+
+
 ### <a id="bpn9239"></a> Prayer bpn9239 in Français
 Loué sois-tu, ô Seigneur, mon Dieu ! Voici ton serviteur qui, des mains de ta grâce, boit le vin de ta tendre miséricorde et goûte, en tes jours, la saveur de ton amour. Par ceux qui incarnent tes noms, se réjouissent de ton amour malgré leur chagrin et contemplent ta face, par ceux que les armées de l’insouciance ne peuvent détourner du sentier de ton bon plaisir, je te supplie de lui procurer les biens que tu possèdes et de l’élever à de telles hauteurs qu’il regardera le monde comme une ombre disparaissant plus vite encore que le battement de la paupière.
 Ô mon Dieu, par le pouvoir de ton incommensurable majesté, préserve-le de tout ce que tu abhorres. En vérité, tu es son Seigneur et le Seigneur de tous les mondes.
@@ -1636,11 +2000,15 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 9239)
 
 
+
+
 ### <a id="bpn9240"></a> Prayer bpn9240 in Français
 Ô Dieu, mon Dieu, j’ai quitté ma demeure, tenant fermement la corde de ton amour, m’abandonnant entièrement à tes soins et à ta protection. Par ton pouvoir qui protège tes bienaimés de l’insoumis et du pervers, de l’oppresseur rebelle et du malfaiteur qui s’est écarté de toi, je te supplie. Protège-moi par ta bonté et par ta grâce. Permets-moi de regagner ma demeure, par ton pouvoir et ta puissance. Tu es, en vérité, le ToutPuissant, le Secours, l’Absolu.
 
 (Source category: Protection)
 (Bahaiprayers.net ID: 9240)
+
+
 
 
 ### <a id="bpn9241"></a> Prayer bpn9241 in Français
@@ -1651,6 +2019,8 @@ Il n’est pas d’autre Dieu que toi, le TrèsGlorieux, le Très-Généreux, l�
 
 (Source category: Protection)
 (Bahaiprayers.net ID: 9241)
+
+
 
 
 ### <a id="bpn9242"></a> Prayer bpn9242 in Français
@@ -1666,12 +2036,16 @@ Tu as le pouvoir d’agir comme il te plaît. Il n’est de Dieu que toi, le Tr�
 (Bahaiprayers.net ID: 9242)
 
 
+
+
 ### <a id="bpn9243"></a> Prayer bpn9243 in Français
 Louange à toi, ô Seigneur, mon Dieu ! J’ai recherché ton bon plaisir et dirigé mes pas vers le siège de tes bienveillantes faveurs. J’ai tout abandonné, je me suis réfugié auprès de toi et j’ai tourné mon visage vers le tabernacle de ta révélation, vers le sanctuaire de ta gloire. Ô mon Seigneur, par ton appel qui pousse ceux qui reconnaissent ton unité à rechercher l’ombre de ton immense sollicitude et qui incite les hommes sincères à se détourner de leur moi pour se tourner vers ton nom, le Suprême, le Tout-Glorieux, nom qui révéla tes versets, accomplit ta parole et manifesta ta preuve, qui suscita le soleil de ta beauté, établit ton témoignage et dévoila tes signes, je te supplie. Accorde-moi la faveur d’être de ceux qui boivent, des mains de ta tendre sollicitude, le vin qui est la vie, se libèrent sur ton chemin de tout attachement à tes créatures et sont tellement enivrés par ton infinie sagesse qu’ils se hâtent vers le lieu du sacrifice, ta louange aux lèvres et ton souvenir au cœur. Ô mon Dieu, fais également descendre sur moi ce qui me purifiera de tout ce qui n’est pas de toi et me délivrera des ennemis qui refusent de croire en tes signes.
 Tu as le pouvoir de faire ce que tu veux. Il n’est de Dieu que toi, le Secours, l’Absolu.
 
 (Source category: Protection)
 (Bahaiprayers.net ID: 9243)
+
+
 
 
 ### <a id="bpn9244"></a> Prayer bpn9244 in Français
@@ -1691,11 +2065,15 @@ Et par ton nom, le Conquéreur, soumets à ta loi les habitants de ton royaume a
 (Bahaiprayers.net ID: 9244)
 
 
+
+
 ### <a id="bpn9245"></a> Prayer bpn9245 in Français
 Ô Dieu, mon Dieu, ne reste pas loin de moi quand m’assaillent les tribulations. Ô Dieu, mon Dieu, ne me laisse pas seul quand me frappe l’extrême adversité. Au sein de ta tendre bonté, abreuve-moi de lait pur quand me consume la soif. À l’ombre des ailes de ta miséricorde abrite-moi quand tous mes adversaires se jettent sur moi. Garde-moi auprès du trône de ta majesté, face à la révélation des signes de ta gloire, quand m’affecte cruellement l’infortune. Nourris-moi des fruits de l’arbre de ton éternité quand m’accable l’extrême faiblesse. À la coupe de joie tendue par la main de ta tendre miséricorde, réconforte-moi quand de nombreux chagrins me frappent avec cruauté. Du vêtement brodé de ta souveraineté toute-puissante revêts-moi quand m’atteint la pauvreté totale. Accepte que je repose, bercé par le roucoulement de la colombe de ton éternité, quand fondent sur moi les plus noirs tourments. Laisse-moi demeurer devant le trône de ta réalité, baigné de l’éclat resplendissant de ta face, quand me terrassent la crainte et la peur. Et plonge-moi dans l’océan de ton pardon, face à l’agitation incessante du Léviathan de gloire, quand mes péchés m’ont entièrement condamné.
 
 (Source category: Protection)
 (Bahaiprayers.net ID: 9245)
+
+
 
 
 ### <a id="bpn9246"></a> Prayer bpn9246 in Français
@@ -1709,6 +2087,8 @@ Tu es, en vérité, celui dont la grâce les guide avec justesse, celui qui se p
 (Bahaiprayers.net ID: 9246)
 
 
+
+
 ### <a id="bpn9247"></a> Prayer bpn9247 in Français
 Ô toi dont la face est l’objet de l’adoration de ceux qui se languissent de toi, dont la présence est l’espoir de ceux qui sont entièrement dévoués à ta volonté, dont la proximité est le désir de tous ceux qui se sont approchés de ta cour, dont la face est le compagnon de ceux qui ont reconnu ta vérité, dont le nom est le moteur des âmes qui brûlent de contempler ton visage, dont la voix est la vraie vie de tes adorateurs et dont les paroles sont les eaux mêmes de la vie pour tous ceux qui sont sur la terre et au ciel.
 Par les injustices dont tu as souffert et par les maux que t’ont infligés les armées des méchants, je te supplie de faire descendre sur moi, des nuages de ta miséricorde, ce qui me purifiera de tout ce qui n’est pas de toi, afin que je sois digne de te louer et capable de t’aimer.
@@ -1719,11 +2099,15 @@ Il n’est de Dieu que toi, le Fort, l’Éternel, le Dieu de grande bonté, l�
 (Bahaiprayers.net ID: 9247)
 
 
+
+
 ### <a id="bpn9248"></a> Prayer bpn9248 in Français
 Magnifié soit ton nom, ô mon Dieu ! Par ce nom qu’aucun écrit ne peut contenir, nul cœur concevoir et nulle langue exprimer, nom qui demeurera scellé aussi longtemps que ta propre essence restera cachée et célébré aussi longtemps que ton être sera glorifié, je t’implore. Maintenant que tu m’as permis de saisir cette vérité, déploie avant la fin de cette année les étendards de ta suprématie et de ton triomphe incontesté. Ainsi la création tout entière bénéficiera de ta richesse, s’ennoblira sous l’influence de ta souveraineté transcendante et tous se lèveront pour promouvoir ta cause. Tu es, en vérité, le Tout-Puissant, le Suprême, le Très-Glorieux, le Conquérant, le Possesseur de toutes choses.
 
 (Source category: Protection)
 (Bahaiprayers.net ID: 9248)
+
+
 
 
 ### <a id="bpn9249"></a> Prayer bpn9249 in Français
@@ -1735,11 +2119,15 @@ Il n’est de Dieu que toi, l’éternel Magnanime, le Très-Généreux.
 (Bahaiprayers.net ID: 9249)
 
 
+
+
 ### <a id="bpn9250"></a> Prayer bpn9250 in Français
 Ô mon Dieu, par ton pouvoir, ta puissance et ta souveraineté qui rassemblent tous ceux qui sont sur la terre et au ciel, je te supplie de faire connaître à tes serviteurs cette voie lumineuse et ce sentier droit. Qu’ils reconnaissent ton unité et ton unicité avec une telle certitude qu’elle ne soit pas ébranlée par les idées vaines des sceptiques ni obscurcie par les futiles imaginations des obstinés ! Ô mon Seigneur, illumine les yeux de tes serviteurs et éclaire leur cœur par les splendeurs de la lumière de ta connaissance. Qu’ils comprennent ainsi la grandeur de ce rang sublime et reconnaissent cet horizon lumineux afin que la clameur des hommes ne puisse détourner leurs regards de la resplendissante lumière de ton unité, ni leur visage de l’horizon du détachement !
 
 (Source category: Protection)
 (Bahaiprayers.net ID: 9250)
+
+
 
 
 ### <a id="bpn9251"></a> Prayer bpn9251 in Français
@@ -1752,12 +2140,16 @@ Nous attestons, ô mon Dieu, que tu es Dieu et qu’il n’est de Dieu que toi. 
 (Bahaiprayers.net ID: 9251)
 
 
+
+
 ### <a id="bpn9252"></a> Prayer bpn9252 in Français
 Dieu atteste l’unité de sa divinité et l’unicité de son Etre. Du trône de l’éternité, des hauteurs inaccessibles de son rang, sa langue proclame qu’il n’est de Dieu que lui. Indépendamment de tout autre, il a toujours témoigné de son unité, révélé sa nature et glorifié son essence. Il est, en vérité, le Très-Fort, le Tout-Puissant, le Magnifique.
 Il est souverain sur ses serviteurs et se tient audessus de ses créatures. Dans sa main se trouve la source de l’autorité et de la vérité. Il donne la vie aux hommes par ses signes, il les fait mourir par sa colère. Il n’a pas à répondre de ses actes et sa puissance égale toutes choses. Il est le Puissant, le Conquérant. En son pouvoir, il détient l’empire de toutes choses et dans sa main droite le royaume de sa révélation. En vérité, sa puissance embrasse la création tout entière. C’est à lui qu’appartiennent la victoire et la suzeraineté, le pouvoir et l’autorité, la gloire et la grandeur. Il est, en vérité, le TrèsGlorieux, le Tout-Puissant, l’Inconditionné.
 
 (Source category: Protection)
 (Bahaiprayers.net ID: 9252)
+
+
 
 
 ### <a id="bpn9253"></a> Prayer bpn9253 in Français
@@ -1770,6 +2162,8 @@ Il n’est aucun pouvoir, aucune force si ce n’est en Dieu, le Suprême, le To
 (Bahaiprayers.net ID: 9253)
 
 
+
+
 ### <a id="bpn9254"></a> Prayer bpn9254 in Français
 Gloire à toi, ô Dieu ! Tu existas avant toutes choses, tu existeras après toutes choses, tu dureras au-delà de toutes choses. Tu connais toutes choses, tu as la suprématie sur toutes choses. 
 Tu traites toutes choses avec miséricorde, tu juges entre toutes choses, ta vision embrasse toutes choses. Tu es Dieu, mon Seigneur ! Tu es conscient de ma condition, tu vois mon être spirituel et mon être matériel.
@@ -1777,6 +2171,8 @@ Accorde-moi ton pardon ainsi qu’aux croyants qui ont répondu à ton appel. So
 
 (Source category: Protection)
 (Bahaiprayers.net ID: 9254)
+
+
 
 
 ### <a id="bpn9255"></a> Prayer bpn9255 in Français
@@ -1788,6 +2184,8 @@ Tu es infiniment loué, ô Seigneur ! Garde-nous de ce qui se trouve devant nous
 (Bahaiprayers.net ID: 9255)
 
 
+
+
 ### <a id="bpn9256"></a> Prayer bpn9256 in Français
 Ô mon Seigneur, tu sais de combien de souffrances et de calamités, de tribulations et d’afflictions, est entourée l’humanité. Les épreuves et les infortunes s’attaquent à l’homme tels des serpents. Il n’est pour lui ni abri ni refuge si ce n’est sous l’aile de ta protection et de ton assistance, de ta garde et de ta tutelle.
 Ô toi, le Miséricordieux, ô mon Seigneur, fais de ta protection mon armure, de ton assistance mon bouclier, de l’humilité au seuil de ton unité ma sauvegarde, de ta tutelle et de ta défense ma forteresse et ma demeure. Préserve-moi de l’influence de mon ego et de mes désirs, et protège-moi de toute épreuve et maladie, difficulté et tribulation.
@@ -1795,6 +2193,8 @@ En vérité, tu es le Protecteur, le Gardien, le Défenseur. Tu es celui qui suf
 
 (Source category: Protection)
 (Bahaiprayers.net ID: 9256)
+
+
 
 
 
@@ -1816,11 +2216,15 @@ Tu as le pouvoir de faire ce qui te plaît. Tu es, en vérité, le Très-Élevé
 (Bahaiprayers.net ID: 9257)
 
 
+
+
 ### <a id="bpn9258"></a> Prayer bpn9258 in Français
 Crée en moi un cœur pur, ô mon Dieu et ranime en moi une conscience paisible, ô mon Espérance ! Que l’esprit de puissance me confirme en ta cause, ô mon Bien-Aimé, et que la lumière de ta gloire me révèle ta voie, ô toi, unique objet de mon désir ! Par la vertu de ton pouvoir transcendant, élève-moi jusqu’au ciel de ta sainteté, ô Source de mon être, et que les brises de ton éternité me réjouissent, ô toi qui es mon Dieu ! Que le souffle de tes éternelles mélodies m’apporte la sérénité, ô mon Compagnon ! Que les richesses de ta présence immémoriale me délivrent de tout ce qui n’est pas toi, ô mon Maître, et que les nouvelles de la révélation de ton inaltérable essence m’emplissent de joie, ô toi, souveraine évidence, toi, le plus secret des mystères !
 
 (Source category: Qualités spirituelles)
 (Bahaiprayers.net ID: 9258)
+
+
 
 
 ### <a id="bpn9259"></a> Prayer bpn9259 in Français
@@ -1829,6 +2233,8 @@ Tu es, en vérité, le Possesseur de tous les dons et de toutes les générosit�
 
 (Source category: Qualités spirituelles)
 (Bahaiprayers.net ID: 9259)
+
+
 
 
 ### <a id="bpn9260"></a> Prayer bpn9260 in Français
@@ -1841,11 +2247,15 @@ En vérité, tu es le Seigneur du propitiatoire,* trônant au plus haut des cieu
 (Bahaiprayers.net ID: 9260)
 
 
+
+
 ### <a id="bpn9261"></a> Prayer bpn9261 in Français
 Ô mon Seigneur, fais de ta beauté ma nourriture, de ta présence mon breuvage, de ton plaisir mon espoir, de ta louange mon action, de ton souvenir mon compagnon, de ta puissance souveraine mon secours, de ton logis mon foyer, et fais de ma demeure le lieu que tu as purifié des limitations imposées à ceux qu’un voile sépare de toi. Tu es, en vérité, le Tout-Puissant, le Très-Glorieux, l’Omnipotent.
 
 (Source category: Qualités spirituelles)
 (Bahaiprayers.net ID: 9261)
+
+
 
 
 ### <a id="bpn9262"></a> Prayer bpn9262 in Français
@@ -1854,6 +2264,8 @@ Je t’en supplie, laisse ce serviteur accéder à ce qui lui vaudra son salut d
 
 (Source category: Qualités spirituelles)
 (Bahaiprayers.net ID: 9262)
+
+
 
 
 ### <a id="bpn9263"></a> Prayer bpn9263 in Français
@@ -1868,6 +2280,8 @@ Tu es, en vérité, le Tout-Puissant, le Magnanime, le Compatissant.
 (Bahaiprayers.net ID: 9263)
 
 
+
+
 ### <a id="bpn9264"></a> Prayer bpn9264 in Français
 Glorifié es-tu, ô Seigneur, mon Dieu ! Je te rends grâce, car tu m’as appelé à l’existence en tes jours et tu as insufflé en moi ton amour et ta connaissance. Par ton nom qui, des trésors du cœur des serviteurs proches de toi, fait jaillir les perles précieuses de ta sagesse et de tes paroles, ton nom par lequel le soleil de ton titre, le Compatissant, répand son éclat sur tout ce qui est en ton ciel et sur ta terre, je te supplie. Par ta grâce et ta générosité, accorde-moi tes dons merveilleux et cachés.
 Ô mon Dieu, voici les premiers jours de ma vie que tu as reliés à tes propres jours. Maintenant que tu m’as conféré un si grand honneur, ne me prive pas de ce que tu destines à tes élus.
@@ -1877,6 +2291,8 @@ Loué soit Dieu, le Seigneur des mondes.
 
 (Source category: Qualités spirituelles)
 (Bahaiprayers.net ID: 9264)
+
+
 
 
 ### <a id="bpn9265"></a> Prayer bpn9265 in Français
@@ -1889,11 +2305,15 @@ En vérité, si tu désirais accorder ta bénédiction à l’un de tes serviteu
 (Bahaiprayers.net ID: 9265)
 
 
+
+
 ### <a id="bpn9266"></a> Prayer bpn9266 in Français
 Ô Dieu, rafraîchis et réjouis mon esprit. Purifie mon cœur. Éclaire mes facultés. Je remets toutes mes affaires entre tes mains. Tu es mon guide et mon refuge. Je ne veux plus m’abandonner à la tristesse ni au chagrin, je veux rayonner de joie et de bonheur. Ô Dieu, je ne veux plus me laisser envahir par l’anxiété, ni accabler par les tourments. Je ne veux plus m’appesantir sur les ennuis de la vie. Ô Dieu, tu es plus proche de moi que je ne le suis moi-même. Je me consacre à toi, ô Seigneur.
 
 (Source category: Qualités spirituelles)
 (Bahaiprayers.net ID: 9266)
+
+
 
 
 ### <a id="bpn9267"></a> Prayer bpn9267 in Français
@@ -1906,6 +2326,8 @@ Tu es en vérité miséricordieux, et tu es en vérité le Très-Généreux, cel
 (Bahaiprayers.net ID: 9267)
 
 
+
+
 ### <a id="bpn9268"></a> Prayer bpn9268 in Français
 Ô mon Seigneur, ô mon Seigneur, voici une lampe embrasée par le feu de ton amour et par la flamme allumée dans l’arbre de ta miséricorde. Ô mon Seigneur, accrois son rayonnement, sa chaleur et sa flamme par le feu qui brûle au Sinaï de ta Manifestation.
 En vérité, tu es le Confirmateur, le Soutien, le Puissant, le Généreux, le Dieu d’amour.
@@ -1914,12 +2336,16 @@ En vérité, tu es le Confirmateur, le Soutien, le Puissant, le Généreux, le D
 (Bahaiprayers.net ID: 9268)
 
 
+
+
 ### <a id="AB09139"></a> Prayer AB09139 in Français
 Ô mon Dieu, ô mon Dieu, voici que ton serviteur s’avance vers toi et qu’il parcourt avec passion le désert de ton amour, suivant la voie de ton service, dans l’attente de tes faveurs et dans l’espoir de ta générosité, confiant en ton royaume et grisé du vin de tes bienfaits. Ô mon Dieu, accrois sa piété, sa constance à te célébrer et l’ardeur de son amour.
 En vérité, tu es le Très-Généreux, le Seigneur de toute grâce. Il n’est pas d’autre Dieu que toi, le Clément, le Miséricordieux.
 
 (Source category: Qualités spirituelles)
 (Bahaiprayers.net ID: 9269)
+
+
 
 
 ### <a id="bpn9270"></a> Prayer bpn9270 in Français
@@ -1932,6 +2358,8 @@ En vérité, tu es le Fort, le Puissant, le Protecteur, l’Inébranlable, le Bi
 (Bahaiprayers.net ID: 9270)
 
 
+
+
 ### <a id="bpn9271"></a> Prayer bpn9271 in Français
 Ô mon Dieu, ô mon Dieu, voici ceux qui te servent malgré leur faiblesse. Ce sont tes loyaux serviteurs et servantes, ils s’inclinent devant ta sublime Parole, se prosternent sur le seuil de ta lumière et témoignent de l’unité qui a fait resplendir le Soleil à l’apogée de sa splendeur. Ils écoutent les injonctions que tu exprimes depuis ton royaume caché, ils répondent à ton appel, le cœur vibrant d’amour et ivre de joie.
 Ô Seigneur, fais pleuvoir sur eux les effusions de ta grâce, les eaux de ta miséricorde. Qu’ils deviennent de merveilleuses plantes dans le jardin céleste ! Fais fleurir ce jardin par les nuages débordants de tes bienfaits et les eaux profondes de ton abondante grâce. Conserve-lui à jamais sa verdure et son éclat, sa fraîcheur, son lustre et sa beauté.
@@ -1939,6 +2367,8 @@ En vérité, tu es le Puissant, le Suprême, le Fort, celui qui seul, sur la ter
 
 (Source category: Qualités spirituelles)
 (Bahaiprayers.net ID: 9271)
+
+
 
 
 ### <a id="bpn9272"></a> Prayer bpn9272 in Français
@@ -1951,6 +2381,8 @@ Ordonne pour eux tout le bien que tu destines à tes mondes, visibles et invisib
 (Bahaiprayers.net ID: 9272)
 
 
+
+
 ### <a id="bpn9273"></a> Prayer bpn9273 in Français
 Ô toi, le Bienfaiteur, tu souffles sur les amis d’occident les doux effluves de l’Esprit saint, et la lumière de ta providence éclaire leur ciel. Tu ramènes à toi ceux qui s’étaient éloignés. Tu transformes des inconnus en amis bienveillants. Tu éveilles ceux qui dorment. Tu rends attentifs les insouciants.
 Ô toi, le Bienfaiteur, aide ces nobles amis à mériter ton bon plaisir, fais d’eux les compagnons de l’étranger comme de l’ami. Conduis-les dans ce monde éternel, accorde-leur une part de ta grâce céleste, fais d’eux de vrais bahá’ís, des serviteurs sincères de Dieu ; préserve-les de toute apparence trompeuse et installe-les durablement dans la vérité. Qu’ils deviennent des signes et des témoignages de ton royaume, des étoiles lumineuses au-dessus de l’horizon de cette vie terrestre ! Qu’ils deviennent un réconfort et une consolation pour l’humanité, des serviteurs de la paix dans le monde ! Vivifieles du vin de tes conseils et permets qu’ils foulent le chemin de tes commandements.
@@ -1959,6 +2391,8 @@ Tu es le Fort, le Puissant. Tu es le souverain Seigneur, l’Omnipotent, celui q
 
 (Source category: Qualités spirituelles)
 (Bahaiprayers.net ID: 9273)
+
+
 
 
 
@@ -1975,12 +2409,16 @@ Il n’est pas d’autre Dieu que toi, celui qui entend, toujours prêt à répo
 (Bahaiprayers.net ID: 9274)
 
 
+
+
 ### <a id="bpn9275"></a> Prayer bpn9275 in Français
 Loué et glorifié sois-tu, ô mon Dieu ! Par les soupirs de ceux qui t’aiment et les larmes de ceux qui désirent ardemment te contempler, je te supplie. Ne me refuse pas ta tendre miséricorde en ton jour, ne me prive pas des mélodies de la colombe qui exalte ton unité devant la rayonnante clarté de ta face. Je suis dans la souffrance, ô Dieu ! Vois, je m’attache fermement à ton nom, le Possesseur de toutes choses. Je me sais assuré de périr, et vois, je m’accroche à ton nom, l’Impérissable. Aussi, par ton Être, le Suprême, le Très-Haut, je t’implore de ne pas m’abandonner à moi-même ni aux désirs de penchants corrompus. Prends ma main dans la main de ta puissance, délivre-moi des ténèbres de mes chimères et vaines imaginations, et purifiemoi de tout ce que tu abhorres.
 Fais que je me tourne entièrement vers toi, qu’en toi je place toute ma confiance, qu’en toi je cherche refuge et que je trouve asile devant ta face. Tu es, en vérité, celui qui, par la force de son pouvoir, fait ce qu’il désire et, par la puissance de sa volonté, ordonne ce qu’il choisit. Nul ne peut s’opposer à l’accomplissement de ton décret, nul ne peut détourner le cours de tes arrêts. Certes, tu es l’Omnipotent, le Très-Glorieux, le Très Généreux.
 
 (Source category: Réconfort dans les épreuves)
 (Bahaiprayers.net ID: 9275)
+
+
 
 
 ### <a id="bpn9278"></a> Prayer bpn9278 in Français
@@ -1991,11 +2429,15 @@ Qu’aucun mal ne m’assaille dans les épreuves, et que ton inspiration guide 
 (Bahaiprayers.net ID: 9278)
 
 
+
+
 ### <a id="bpn9279"></a> Prayer bpn9279 in Français
 Ô Seigneur, tu dissipes toutes les angoisses et chasses toutes les afflictions. Tu bannis tous les chagrins et libères tous les esclaves, tu es le rédempteur de toutes les âmes. Ô Seigneur, dans ta miséricorde, délivre-moi et compte-moi au nombre de tes serviteurs qui ont gagné le salut.
 
 (Source category: Réconfort dans les épreuves)
 (Bahaiprayers.net ID: 9279)
+
+
 
 
 ### <a id="BB00015SUF"></a> Prayer BB00015SUF in Français
@@ -2005,11 +2447,15 @@ Dis : Dieu suffit à tout, au-delà de tout, et rien, ni dans les cieux ni sur l
 (Bahaiprayers.net ID: 9277)
 
 
+
+
 ### <a id="BB00623"></a> Prayer BB00623 in Français
 Qui, hormis Dieu, dissipe les difficultés ? Dis : Loué soit Dieu ! Lui seul est Dieu ! Tous sont ses serviteurs et tous se soumettent à son commandement.
 
 (Source category: Réconfort dans les épreuves)
 (Bahaiprayers.net ID: 9276)
+
+
 
 
 ### <a id="bpn9280"></a> Prayer bpn9280 in Français
@@ -2030,6 +2476,8 @@ Tu es, en vérité, le Miséricordieux, le Glorifié, le Puissant, l’Omnipoten
 (Bahaiprayers.net ID: 9280)
 
 
+
+
 ### <a id="bpn9281"></a> Prayer bpn9281 in Français
 Il est le Compatissant, le Très-Généreux ! Ô Dieu, mon Dieu, tu me vois, tu me connais, tu es mon havre et mon refuge. Je n’ai cherché et ne chercherai nul autre que toi, je n’ai foulé et ne foulerai d’autre sentier que celui de ton amour. Dans la sombre nuit du désespoir, mes yeux se tournent, pleins d’attente et d’espérance, vers le matin de ta faveur infinie. Dès l’aurore, mon âme languissante est rafraîchie et fortifiée au souvenir de ta beauté et de ta perfection. Celui qu’assiste la grâce de ta miséricorde, ne fût-il qu’une goutte, deviendra un océan sans limites, et le plus simple atome, aidé par l’effusion de ta tendre bonté, brillera comme l’étoile radieuse.
 Esprit de pureté, toi, le très généreux Dispensateur, prends sous ta protection ton serviteur ardent et passionné. Aide-le en ce monde, à demeurer ferme et constant en ton amour, et permets à cet oiseau aux ailes brisées de trouver refuge au creux de ton nid divin dans l’arbre céleste.
@@ -2038,11 +2486,15 @@ Esprit de pureté, toi, le très généreux Dispensateur, prends sous ta protect
 (Bahaiprayers.net ID: 9281)
 
 
+
+
 ### <a id="bpn9282"></a> Prayer bpn9282 in Français
 Ô mon Seigneur, mon aimé, mon désir, sois mon compagnon dans ma solitude et mon exil. Dissipe ma peine. Consacre-moi à ta beauté. Éloigne-moi de tout autre que toi. Attire-moi par le parfum de ta sainteté. Associe-moi dans ton royaume à ceux qui sont détachés de tout sauf de toi et qui aspirent à servir à ton seuil sacré, à ceux qui se lèvent et œuvrent pour ta cause. Aide-moi à devenir l’une de ces servantes qui ont atteint ton bon plaisir. En vérité, tu es le Bienveillant, le Généreux.
 
 (Source category: Réconfort dans les épreuves)
 (Bahaiprayers.net ID: 9282)
+
+
 
 
 
@@ -2056,6 +2508,8 @@ Par toi-même et par celui que tu as désigné parmi tous ceux qui sont au ciel 
 (Bahaiprayers.net ID: 9283)
 
 
+
+
 ### <a id="bpn9284"></a> Prayer bpn9284 in Français
 Ô Dieu de miséricorde, toi qui es fort et puissant ! 
 Ô Père très bon, voici tes serviteurs réunis et tournés vers toi, suppliants devant ton seuil, désireux d’obtenir les inépuisables faveurs que tu leur as promises. Ils n’aspirent qu’à se conformer à ton bon plaisir, à servir l’humanité.
@@ -2065,6 +2519,8 @@ Par toi-même et par celui que tu as désigné parmi tous ceux qui sont au ciel 
 
 (Source category: Réunions)
 (Bahaiprayers.net ID: 9284)
+
+
 
 
 ### <a id="bpn9285"></a> Prayer bpn9285 in Français
@@ -2078,12 +2534,16 @@ Tu es Fort, tu es Puissant. Tu es le Généreux, l’éternel Bienveillant.
 (Bahaiprayers.net ID: 9285)
 
 
+
+
 ### <a id="bpn9286"></a> Prayer bpn9286 in Français
 Ô Dieu, mon Dieu, ces serviteurs se tournent vers toi et supplient ton royaume de miséricorde. En vérité, ils sont attirés par ta sainteté et embrasés par le feu de ton amour, ils cherchent confirmation auprès de ton merveilleux royaume et espèrent se réaliser en ton empire céleste. En vérité, ils souhaitent recevoir tes bienfaits, être illuminés par le Soleil de réalité. Ô Seigneur, fais d’eux des lumières radieuses, des signes de ta miséricorde, des arbres chargés de fruits et des étoiles brillantes. Qu’ils se mettent à ton service, s’unissent à toi par les liens de ton amour et soupirent après l’éclat de ta faveur. Ô Seigneur, fais d’eux des signes de ta providence, des étendards de ton royaume immortel, des vagues de l’océan de ta miséricorde, des miroirs de la lumière de ta majesté.
 En vérité, tu es le Généreux. En vérité, tu es le Miséricordieux. En vérité, tu es l’Inestimable, le Bien-Aimé.
 
 (Source category: Réunions)
 (Bahaiprayers.net ID: 9286)
+
+
 
 
 ### <a id="bpn9287"></a> Prayer bpn9287 in Français
@@ -2097,12 +2557,16 @@ Tu es le Puissant, l’Omnipotent, le Miséricordieux, le Généreux, le Bienfai
 (Bahaiprayers.net ID: 9287)
 
 
+
+
 ### <a id="bpn9288"></a> Prayer bpn9288 in Français
 Ô divine Providence, tes amis, réunis en cette assemblée, sont attirés par ta beauté et embrasés par le feu de ton amour. Fais de ces âmes des anges célestes, ranime-les par le souffle de l’Esprit saint, accorde-leur éloquence et détermination, force divine et cœur compatissant. Qu’ils propagent l’unité du genre humain et soient des sources d’amour et de concorde pour tous les hommes afin que les préjugés obscurs et dangereux de l’ignorance s’évanouissent à la lumière du Soleil de vérité, que ce triste monde s’illumine, que ce royaume matériel s’imprègne du rayonnement du monde de l’esprit, que ces différentes couleurs fusionnent et qu’un concert de louanges s’élève vers ton royaume de sainteté.
 En vérité, tu es l’Omnipotent et le ToutPuissant !
 
 (Source category: Réunions)
 (Bahaiprayers.net ID: 9288)
+
+
 
 
 
@@ -2117,6 +2581,8 @@ Il n’est pas d’autre Dieu que toi, le ToutPuissant, le Conquérant, l’Abso
 (Bahaiprayers.net ID: 9289)
 
 
+
+
 ### <a id="BH00009HOW"></a> Prayer BH00009HOW in Français
 Ô Dieu, mon Dieu, comment puis-je préférer le sommeil, alors que l’éloignement tient éveillés ceux qui aspirent à toi ? Et comment puis-je me reposer tandis que les âmes de ceux qui t’aiment souffrent cruellement de demeurer loin de ta présence ?
 Ô mon Seigneur, j’ai remis mon esprit et tout mon être dans la main droite de ta puissance et de ta protection. Par ton pouvoir, je pose ma tête sur l’oreiller et je la relève selon ta volonté et ton bon plaisir. Tu es, en vérité, le Protecteur, le Gardien, le Tout-Puissant, l’Omnipotent.
@@ -2126,12 +2592,16 @@ Par ton pouvoir, endormi ou éveillé, je ne demande que ce que tu désires. Je 
 (Bahaiprayers.net ID: 9290)
 
 
+
+
 ### <a id="bpn9291"></a> Prayer bpn9291 in Français
 Ô toi, chercheur de vérité, si tu désires que Dieu t’ouvre les yeux, tu dois, au cœur de la nuit, le supplier, le prier et communier avec lui par ces mots : Ô Seigneur, le visage tourné vers ton royaume d’unité, je me plonge dans l’océan de ta miséricorde. Ô Seigneur, que la contemplation de tes lumières éclaire ma vue en cette sombre nuit et que le vin de ton amour m’emplisse de joie en cet âge merveilleux ! Ô Seigneur, fais-moi entendre ton appel et ouvre devant moi les portes de ton ciel afin que je voie la lumière de ta gloire et que je sois attiré par ta beauté.
 En vérité, tu es le Bienfaisant, le Généreux, le Miséricordieux, l’Indulgent.
 
 (Source category: Soir)
 (Bahaiprayers.net ID: 9291)
+
+
 
 
 
@@ -2245,6 +2715,8 @@ Glorifié soit notre Seigneur, le Très-Haut !
 
 
 
+
+
 ## Tablette du feu
 
 ### <a id="bpn9299"></a> Prayer bpn9299 in Français
@@ -2306,6 +2778,8 @@ Oui, j’entends ton appel, ô très-glorieux BienAimé ! Maintenant la chaleur 
 
 
 
+
+
 ## Tablette à Ahmad
 
 ### <a id="bpn9298"></a> Prayer bpn9298 in Français
@@ -2334,6 +2808,8 @@ En vérité, il est le Miséricordieux, le Compatissant. Loué soit Dieu, le Sei
 
 
 
+
+
 ## Unité
 
 ### <a id="bpn9292"></a> Prayer bpn9292 in Français
@@ -2345,11 +2821,15 @@ Ils sont tous pauvres et nécessiteux et tu es, en vérité, le Possesseur de to
 (Bahaiprayers.net ID: 9292)
 
 
+
+
 ### <a id="bpn9293"></a> Prayer bpn9293 in Français
 Ô mon Dieu, ô mon Dieu, unis les cœurs de tes serviteurs et révèle-leur ton grand dessein. Puissent-ils suivre tes commandements et observer ta loi. Aide-les, ô mon Dieu, dans leurs efforts et accorde-leur la force de te servir. Ô Dieu, ne les abandonne pas à eux-mêmes, mais de la lumière de ta connaissance, guide leurs pas et de ton amour, réjouis leur cœur. En vérité, tu es leur Soutien et leur Seigneur.
 
 (Source category: Unité)
 (Bahaiprayers.net ID: 9293)
+
+
 
 
 ### <a id="bpn9294"></a> Prayer bpn9294 in Français
@@ -2364,11 +2844,15 @@ En vérité, tu es le Tout-Puissant, l’Absolu, le Généreux, l’Indulgent, l
 (Bahaiprayers.net ID: 9294)
 
 
+
+
 ### <a id="bpn9295"></a> Prayer bpn9295 in Français
 Ô toi, Seigneur compatissant, toi qui es généreux et puissant ! Voici tes serviteurs réfugiés sous l’aile de ta providence. Pose sur nous un regard indulgent. Dessille nos yeux, purifie nos oreilles et ouvre nos cœurs à la compréhension et à l’amour. Que tes bonnes nouvelles apportent joie et bonheur à notre âme ! Ô Seigneur, montre-nous la voie vers ton royaume, ranime-nous par le souffle de l’Esprit saint. Accorde-nous la vie éternelle, et confère-nous un honneur sans fin. Unifie le genre humain, éclaire le monde de l’humanité. Puissions-nous suivre ton chemin, désirer ton bon plaisir, et rechercher les mystères de ton royaume ! Ô Dieu, unis-nous et relie nos cœurs de ton lien indissoluble. En vérité, tu es le Dispensateur, tu es le Généreux, tu es le Tout-Puissant.
 
 (Source category: Unité)
 (Bahaiprayers.net ID: 9295)
+
+
 
 
 ### <a id="bpn9296"></a> Prayer bpn9296 in Français
@@ -2377,6 +2861,8 @@ Tu es le Dispensateur, le Miséricordieux, l’Omnipotent.
 
 (Source category: Unité)
 (Bahaiprayers.net ID: 9296)
+
+
 
 
 ### <a id="bpn9297"></a> Prayer bpn9297 in Français
@@ -2394,6 +2880,8 @@ Tu es le Fort, le Puissant, tu es le Clément, l’Indulgent qui pardonne les fa
 
 
 
+
+
 ## Épreuves et difficultés
 
 ### <a id="bpn9178"></a> Prayer bpn9178 in Français
@@ -2401,6 +2889,8 @@ Tu es le Fort, le Puissant, tu es le Clément, l’Indulgent qui pardonne les fa
 
 (Source category: Épreuves et difficultés)
 (Bahaiprayers.net ID: 9178)
+
+
 
 
 ### <a id="bpn9179"></a> Prayer bpn9179 in Français
@@ -2414,6 +2904,8 @@ Tu as le pouvoir de faire ce qui te plaît. Il n’est pas d’autre Dieu que to
 (Bahaiprayers.net ID: 9179)
 
 
+
+
 ### <a id="bpn9180"></a> Prayer bpn9180 in Français
 Loué sois-tu, ô Seigneur, mon Dieu ! Tout homme perspicace atteste ta souveraineté et ton autorité, tout œil clairvoyant perçoit la grandeur de ta majesté et la puissance irrésistible de ton pouvoir. Malgré les vents de l’épreuve, ceux qui ont le bonheur d’être près de toi gardent la force de tourner leur visage vers l’horizon de ta gloire et ceux qui sont tout dévoués à ta volonté réussissent à s’approcher de ton parvis, malgré les tempêtes de l’adversité.
 Je sais que la lampe de ton amour brûle dans leur cœur et que la lumière de ta tendresse resplendit en eux. Les adversités ne peuvent les éloigner de ta cause, ni les infortunes les dévoyer de ton bon plaisir.
@@ -2423,6 +2915,8 @@ Je sais que la lampe de ton amour brûle dans leur cœur et que la lumière de t
 (Bahaiprayers.net ID: 9180)
 
 
+
+
 ### <a id="bpn9181"></a> Prayer bpn9181 in Français
 Tu sais parfaitement, ô mon Dieu, que les tribulations pleuvent sur moi de tous côtés et que nul si ce n’est toi, ne peut les transmuer ni les dissiper. Je sais assurément, en raison de mon amour pour toi, que tu n’accableras jamais aucune âme, à moins de désirer exalter sa condition dans ton céleste paradis et étayer son cœur, en cette vie terrestre, du rempart de ton irrésistible pouvoir, afin qu’il n’éprouve aucun penchant pour les vanités de ce monde. Tu sais parfaitement qu’en toutes circonstances, je chéris ton souvenir bien davantage que la possession de tout ce qui est dans les cieux et sur la terre.
 Ô mon Dieu, fortifie mon cœur dans ton obéissance et dans ton amour, libère-moi, je te prie, de l’ensemble de tes ennemis. En vérité, je jure par ta gloire que je ne désire personne d’autre que toi ; je ne souhaite que ta miséricorde et ne redoute que ta justice. Je te prie de me pardonner et de pardonner à ceux que tu aimes, selon ton bon plaisir. En vérité, tu es le Puissant, le Généreux.
@@ -2430,6 +2924,9 @@ Tu sais parfaitement, ô mon Dieu, que les tribulations pleuvent sur moi de tous
 
 (Source category: Épreuves et difficultés)
 (Bahaiprayers.net ID: 9181)
+
+
+
 
 
 

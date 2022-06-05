@@ -3,6 +3,46 @@ title = "Eesti"
 tags = ['lang=et', 'prayerbook']
 +++
 
+
+
+[Abi](#Abi)
+
+[Abielu](#Abielu)
+
+[Abikaasa](#Abikaasa)
+
+[Andestamine](#Andestamine)
+
+[Eraldatus](#Eraldatus)
+
+[Hommikupalved](#Hommikupalved)
+
+[Inimkond](#Inimkond)
+
+[Kaitse](#Kaitse)
+
+[Katsumused ja raskused](#Katsumused ja raskused)
+
+[Lahkunuile](#Lahkunuile)
+
+[Lapsed ja noored](#Lapsed ja noored)
+
+[Lapseootel naisele](#Lapseootel naisele)
+
+[Tervenemine](#Tervenemine)
+
+[Tõeotsija palve](#Tõeotsija palve)
+
+[Vaimsed omadused](#Vaimsed omadused)
+
+[Vanemad](#Vanemad)
+
+[Õhtupalved](#Õhtupalved)
+
+[Ühtsus](#Ühtsus)
+
+
+
 ## Abi
 
 ### <a id="bpn3683"></a> Prayer bpn3683 in Eesti
@@ -12,12 +52,16 @@ Hajuta minu mure oma helduse ja suuremeelsusega, oo Jumal mu Jumal, ning peleta 
 (Bahaiprayers.net ID: 3683)
 
 
+
+
 ### <a id="bpn3684"></a> Prayer bpn3684 in Eesti
 Mu Jumal, mu Palveldatu, mu Kuningas, mu Ihaldus! Missugune keel suudaks küll lausuda Sulle mu tänu? Ma olin hoolimatu, Sina äratasid mind. Ma olin pööranud Sinust ära, Sina aitasid mul lahkelt pöörduda Su poole. Ma olin kui surnu, Sina virgutasid mind elu veega. Ma olin närbunud, Sina elustasid mind oma väljenduse taevaliku vooga, mis on hoovanud välja Kõigearmulisema Sulest.
 Oo Jumalik Kaitselmus! Kõik olemasolev on tekkinud Sinu heldusest, ära jäta seda ilma oma suu- remeelsuse veest ega hoia seda eemal oma halastuse ookeanist. Ma palun härdalt Sinu abi, et Sa aitaksid mind alati ja igas olukorras, ning otsin iidset soosingut Sinu armu taevast. Sina oled tõesti helduse Issand ja igaviku kuningriigi Valitseja!
 
 (Source category: Abi)
 (Bahaiprayers.net ID: 3684)
+
+
 
 
 ### <a id="bpn3685"></a> Prayer bpn3685 in Eesti
@@ -30,6 +74,8 @@ Oo Jumal! Hüvita neile, kes taluvad kannatlikult Sinu päevil ja tugevda nende 
 (Bahaiprayers.net ID: 3685)
 
 
+
+
 ### <a id="bpn3686"></a> Prayer bpn3686 in Eesti
 Ütle: Jumal rahuldab kõiki asju üle kõikide asjade ja pole taevas ega maa peal midagi peale Jumala, mis rahuldaks. Tema on tõesti Iseendas Teadlik, Toetaja, Kõikvõimas.
 
@@ -37,11 +83,15 @@ Oo Jumal! Hüvita neile, kes taluvad kannatlikult Sinu päevil ja tugevda nende 
 (Bahaiprayers.net ID: 3686)
 
 
+
+
 ### <a id="bpn3687"></a> Prayer bpn3687 in Eesti
 Issand! Oleme haletsusväärsed, luba meile oma soosingut. Oleme vaesed, anneta meile osa oma rikkuse ookeanist. Kannatame puudust, rahulda meid. Oleme alandatud, kingi meile oma hiilgust. Taeva linnud ja metsa loomad saavad iga päev Sinult toidu ning kõik olendid tunnevad Sinu hoolitsust ja armastavat lahkust. Ära keela sellele jõuetule oma imepärast armu ja oma võimu läbi osuta sellele abitule hingele oma heldust. Anna meile meie igapäevast leiba ning luba meile heldesti kõike meie elutarbeks, et oleksime sõltumatud kellestki muust peale Sinu; et võiksime täielikult suhelda Sinuga, käia Sinu teid ja kuulutada Sinu saladusi. Sina oled Kõigevägevam ja Armastav, kogu inimkonna Hooldaja.
 
 (Source category: Abi)
 (Bahaiprayers.net ID: 3687)
+
+
 
 
 
@@ -53,6 +103,8 @@ Sina oled tõesti Võimukas, Kõikjalolev ja Kõigevägevam.
 
 (Source category: Abielu)
 (Bahaiprayers.net ID: 3721)
+
+
 
 
 
@@ -69,6 +121,8 @@ Sina oled tõesti Kallis, Alatiannetav, Avali Käega.
 
 
 
+
+
 ## Andestamine
 
 ### <a id="bpn3688"></a> Prayer bpn3688 in Eesti
@@ -80,12 +134,16 @@ Pole kedagi, oo mu Issand, kes võiks mind kohelda heldelt, kelle poole võiksin
 (Bahaiprayers.net ID: 3688)
 
 
+
+
 ### <a id="bpn3689"></a> Prayer bpn3689 in Eesti
 Ülistatud olgu Sinu nimi, oo minu Jumal ja kõikide asjade Jumal, minu Hiilgus ja kõikide asjade Hiilgus, minu Ihaldus ja kõikide asjade Ihaldus, minu Tugevus ja kõikide asjade Tugevus, minu Kuningas ja kõikide asjade Kuningas, minu Omanik ja kõikide asjade Omanik, minu Eesmärk ja kõikide asjade Eesmärk, minu Innustaja ja kõikide asjade Innustaja! Anun Sind, et Sa ei hoiaks mind eemal oma õrnade helduste ookeanist ega jätaks mind kaugele oma läheduse kallastest. Ükski asi peale Sinu, oo mu Issand, ei tule mulle kasuks ega juurdepääs kellelegi muule kui Sinule ei ole mulle abiks. Palun Sind härdalt Sinu külluslike rikkuste nimel, tänu millele Sa oled tulnud toime ilma kelletagi peale Iseenda, et Sa arvaksid mind nende hulka, kes on pööranud oma palge Sinu poole ning tõusnud Sind teenima.
 Andesta siis, oo mu Issand, oma teenritele ja ümmardajatele. Sina oled tõesti Alatiandestav, Kõige Kaastundlikum.
 
 (Source category: Andestamine)
 (Bahaiprayers.net ID: 3689)
+
+
 
 
 ### <a id="bpn3690"></a> Prayer bpn3690 in Eesti
@@ -95,6 +153,8 @@ Oo mu Jumal, oo mu Issand, oo mu Meister! Ma palun Sul andestada mulle, et olen 
 (Bahaiprayers.net ID: 3690)
 
 
+
+
 ### <a id="bpn3691"></a> Prayer bpn3691 in Eesti
 Kiitus olgu Sulle, oo Issand! Andesta meile meie patud, halasta meie peale ja võimalda meil pöörduda tagasi Sinu juurde. Ära lase meil toetuda kellelegi muule peale Sinu ja luba meile oma heldusest seda, mida Sa armastad ja soovid ja mis on Sinu vääriline. Ülenda nende seisust, kes on tõeliselt uskunud ning anna neile andeks oma heasoovliku andestusega. Sina oled tõesti Abi Hädas, Iseolev.
 
@@ -102,11 +162,15 @@ Kiitus olgu Sulle, oo Issand! Andesta meile meie patud, halasta meie peale ja v�
 (Bahaiprayers.net ID: 3691)
 
 
+
+
 ### <a id="bpn3692"></a> Prayer bpn3692 in Eesti
 Ma anun Sind, et Sa andestaksid mulle, oo mu Issand, iga mainimise eest peale Sinu mainimise ja iga kiituse eest peale Sinu kiituse, ja iga õndsuse eest peale Sinu läheduse õndsuse ja iga naudingu eest peale Sinuga suhtlemise naudingu, ja iga rõõmu eest peale Sinu armastusest ja meeleheast tuleneva rõõmu, ning kõigi nende asjade eest, mis on seotud minuga, kuid ei ole ühenduses Sinuga, oo Sina, kes Sa oled isandate Issand – oled See, kes annab vahendid ja avab uksed.
 
 (Source category: Andestamine)
 (Bahaiprayers.net ID: 3692)
+
+
 
 
 ### <a id="bpn3693"></a> Prayer bpn3693 in Eesti
@@ -119,11 +183,15 @@ Sina oled tõesti Andestaja, Kaastundlik, Sina oled Helde, Armastatu!
 (Bahaiprayers.net ID: 3693)
 
 
+
+
 ### <a id="bpn3694"></a> Prayer bpn3694 in Eesti
 Oo Sina andestav Issand! Sina oled kõigi nende teenrite varjupaik. Sina tead saladusi ja oled teadlik kõigest. Me kõik oleme abitud aga Sina oled Vägev, Võimukas. Me kõik oleme patused aga Sina oled pattude Andestaja, Armuline, Kaastundik. Oo Issand! Ära vaata meie puudusi. Kohtle meid oma armu ja heldusega. Meil on palju puudusi, kuid Sinu andestuse ookean on ääretu. Meie nõrkus on kohutav aga Sinu abi ja toetuse tõendid on ilmsed. Seepärast kinnita ja tugevda meid. Võimalda meil teha seda, mis on Sinu püha Künnise vääriline. Valgusta meie südameid, anna meile märkavad silmad ja valvsad kõrvad. Elusta surnuid ja paranda haigeid. Lase vaestele osaks saada rikkust ning anna kartlikele rahu ja turvalisust. Võta meid vastu oma kuningriiki ja valgusta meid juhatuse laternaga. Sina oled Võimas ja Võimukas. Sina oled Suuremeelne. Sina oled Hooliv. Sina oled Hea.
 
 (Source category: Andestamine)
 (Bahaiprayers.net ID: 3694)
+
+
 
 
 
@@ -136,6 +204,8 @@ Luba mul, oo mu Jumal, läheneda Sinule ja viibida Su õuel, sest eemalolek Sinu
 (Bahaiprayers.net ID: 3695)
 
 
+
+
 ### <a id="bpn3696"></a> Prayer bpn3696 in Eesti
 Kiitus olgu Sulle, oo mu Jumal! Ma olen üks Sinu teenritest, kes on uskunud Sinusse ja Su märkidesse. Sina näed, kuidas ma olen pöördunud Sinu armu ukse poole ja pööranud oma palge Sinu armastava lahkuse suunas. Ma palun Sind Su kõige suurepärasemate tiitlite ja kõige ülevamate omaduste nimel, et Sa avaksid minu ees oma andide väravad. Aita mul siis teha seda, mis on hea, oo Sina, kes Sa oled kõikide nimede ja omaduste Omaja.
 Ma olen vaene, oo mu Issand, aga Sina oled rikas. Ma olen pööranud oma palge Sinu poole ning eraldunud kõigest muust peale Sinu. Anun Sind, et Sa ei jätaks mind ilma oma õrna armu puhangutest ega hoiaks mind eemal sellest, mida Sa oled määranud väljavalitutele oma teenrite seas.
@@ -146,6 +216,8 @@ Lausun Sulle tänu, oo mu Jumal, et Sa oled äratanud mind mu unest ja innustanu
 (Bahaiprayers.net ID: 3696)
 
 
+
+
 ### <a id="bpn3697"></a> Prayer bpn3697 in Eesti
 Oo Issand! Sinu juurest otsin ma varjupaika ja kõigi Sinu märkide järgi sean oma südame. Oo Issand! Olles reisil või kodus, ametis või tööl, panen ma kogu oma lootuse Sinule.
 Luba siis mulle oma piisavat abi, et see võiks teha mind sõltumatuks kõikidest asjadest, oo Sina, kes Sa oled ületamatu oma halastuses!
@@ -153,6 +225,8 @@ Anneta mulle mu osa, oo Issand, nii nagu Sa soovid ning luba mul olla rahul kõi
 
 (Source category: Eraldatus)
 (Bahaiprayers.net ID: 3697)
+
+
 
 
 ### <a id="bpn3698"></a> Prayer bpn3698 in Eesti
@@ -166,6 +240,8 @@ Sina oled tõesti Vägevaim, Kõikhiilgav, Kõikvõimas.
 
 
 
+
+
 ## Hommikupalved
 
 ### <a id="bpn3699"></a> Prayer bpn3699 in Eesti
@@ -173,6 +249,8 @@ Olen ärganud Sinu kaitse all, oo mu Jumal, ja temal, kes otsib seda kaitset, s�
 
 (Source category: Hommikupalved)
 (Bahaiprayers.net ID: 3699)
+
+
 
 
 ### <a id="bpn3700"></a> Prayer bpn3700 in Eesti
@@ -183,6 +261,8 @@ Pole muud Jumalat kui Sina, Ainus, Võrreldamatu, Kõiketeadev, Kõiges Tark.
 (Bahaiprayers.net ID: 3700)
 
 
+
+
 ### <a id="bpn3701"></a> Prayer bpn3701 in Eesti
 Oo mu Jumal ja mu Meister! Olen Sinu teener ja Su teenri poeg. Olen tõusnud oma voodist sel koidutunnil, mil Sinu ainsuse Päevatäht on kiiranud Su tahte Koidikust ja valanud oma sära üle kogu maailma, nii nagu on määratud Su Seadluse Raamatutes.
 Kiitus olgu Sulle, oo mu Jumal, et oleme ärganud Sinu tundmise valguse sära peale. Saada siis meile alla seda, oo mu Issand, mis võimaldaks meil tulla toime kelletagi peale Sinu ning vabaneda kõigest kiindumusest muusse kui Sinusse. Pane ka kirja minu ja nende jaoks, kes on mulle kallid, ja minu sugulastele, nii meestele kui naistele, selle ja tulevase maailma hüvangut. Hoia siis meid, oo Sina, kes Sa oled kogu loodu Arm ja terve universumi Ihaldus, oma eksimatu kaitse abil turvas nende eest, kelle Sa oled loonud Kurja Sosistaja ilminguteks, kes sosistavad inimeste rinnus. Sinul on võim talitada oma meele järele. Sina oled tõesti Kõigevägevam, Abi Hädas, Iseolev.
@@ -191,6 +271,8 @@ Sina oled tõepoolest kõigi inimeste Issand ja Kuningas ning omad võimu kõiki
 
 (Source category: Hommikupalved)
 (Bahaiprayers.net ID: 3701)
+
+
 
 
 
@@ -205,11 +287,15 @@ Kõik on vaid vaesed ja puuduses, kuid Sina oled tõesti Kõikeomav, Kõikealist
 (Bahaiprayers.net ID: 3702)
 
 
+
+
 ### <a id="bpn3703"></a> Prayer bpn3703 in Eesti
 Oo Sina hea Issand! Oo Sina suuremeelne ja halastav! Me oleme Sinu läve teenrid, kes on kogunenud Sinu jumaliku ühtsuse kaitsva varju alla. Sinu halastuse päike särab kõigile ja Su helduse pilvedest sajab vihma kõikide peale. Sinu kingitused ümbritsevad kõiki, Su armastav kaitselmus toetab kõiki, Su kaitse varjab kõiki ja Su soosingu pilgud on suunatud kõigile. Oo Issand! Anna meile oma piirituid ande ja lase särada oma juhatuse valgusel. Valgusta silmi, rõõmusta südameid püsiva rõõmuga. Jaga uut vaimu kõigile inimestele ja anneta neile igavene elu. Ava tõelise mõistmise väravad ja lase usu valgusel hiilgavalt paista. Kogu inimesed ühte oma helduse varju alla ja aita neil ühineda üksmeeles, nii et neist saaksid nagu ühe päikese kiired, ühe mere lained ja ühe puu viljad. Joogu nad ühest ja samast lättest. Värskendagu neid üks ja sama tuulepuhang. Ammendagu nad vaimuvalgust ühest ja samast valgusallikast. Sina oled Andja, Armuline, Võimukas.
 
 (Source category: Inimkond)
 (Bahaiprayers.net ID: 3703)
+
+
 
 
 ### <a id="bpn3704"></a> Prayer bpn3704 in Eesti
@@ -225,6 +311,8 @@ Sina oled Vägev ja Võimas, Sina oled Andestav ja Sina oled see, kes ei pööra
 
 
 
+
+
 ## Kaitse
 
 ### <a id="bpn3705"></a> Prayer bpn3705 in Eesti
@@ -235,6 +323,8 @@ Luba minule ja neile usklikele, kes on vastanud Sinu kutsele, oma andestust. Ole
 (Bahaiprayers.net ID: 3705)
 
 
+
+
 ### <a id="bpn3706"></a> Prayer bpn3706 in Eesti
 Oo Jumal, mu Jumal! Varja oma usaldatud teenreid isekuse ja kire pahede eest, hoia neid oma armastava headuse valvsa silma all igasuguse vimma, vihkamise ja kadeduse eest, turva neid oma hoole võitmatus kantsis ning tee neist oma hiilgavate märkide ilmingud, kes on kaitstud ebaluse noolte vastu. Valgusta nende palgeid oma jumaliku ühtsuse Päevaallikast voogavate säravate kiirtega, rõõmusta nende südameid oma pühast kuningriigist ilmutatud salmidega ning tugevda nende niudeid oma kõikeva litseva jõuga, mis tuleb Sinu auhiilguse riigist. Sina oled Kõikhelde, Turvaja, Kõigevägevam, Armuline.
 
@@ -242,11 +332,15 @@ Oo Jumal, mu Jumal! Varja oma usaldatud teenreid isekuse ja kire pahede eest, ho
 (Bahaiprayers.net ID: 3706)
 
 
+
+
 ### <a id="bpn3707"></a> Prayer bpn3707 in Eesti
 Oo Sina jumalik Kaitselmus, hoia ja varja meid! Oo Sina, kes Sa oled meie kilp, vabasta ja toeta meid! Hoia meid oma kaitse all ja päästa meid oma abiga kõigist õnnetusist. Sina oled tõesti ustav Hooldaja, nähtamatu Kaitsja, taevalik Hoidja, jumalik armastav Issand.
 
 (Source category: Kaitse)
 (Bahaiprayers.net ID: 3707)
+
+
 
 
 ### <a id="bpn3708"></a> Prayer bpn3708 in Eesti
@@ -259,6 +353,8 @@ Sina oled tõesti Turvaja, Kaitsja, Hoidja, Rahuldaja, ja Sina oled tõesti armu
 
 
 
+
+
 ## Katsumused ja raskused
 
 ### <a id="bpn3709"></a> Prayer bpn3709 in Eesti
@@ -268,11 +364,15 @@ Oo Jumal, mu Jumal! Ära ole minust kaugel, sest katsumus katsumuse järel on ko
 (Bahaiprayers.net ID: 3709)
 
 
+
+
 ### <a id="bpn3710"></a> Prayer bpn3710 in Eesti
 Oo Sina, kelle katsumused on tervendavaks ravimiks neile, kes on Sinu lähedal, kelle mõõk on kõikide nende tuline ihaldus, kes Sind armastavad, kelle oda on selliste südamete armsaim soov, kes Sinu järele igatsevad, kelle määrus on ainus lootus neile, kes on ära tundnud Sinu tõe! Ma anun Sind, et Sa saadaksid oma jumaliku sulniduse ja oma palge auhiilguse sädeluse kaudu meile alla oma kõrguste riigist seda, mis võimaldaks meil pääseda Sinu lähedusse. Tee siis meie jalad kindlaiks oma Usus, oo mu Jumal, ja valgusta meie südameid oma teadmise säraga ning ehi meie rinda oma nimede helgiga.
 
 (Source category: Katsumused ja raskused)
 (Bahaiprayers.net ID: 3710)
+
+
 
 
 ### <a id="bpn3716"></a> Prayer bpn3716 in Eesti
@@ -281,6 +381,8 @@ Valgusta, oo Issand, oma teenrite palgeid, et nad võiksid Sind näha, ning puha
 
 (Source category: Katsumused ja raskused)
 (Bahaiprayers.net ID: 3716)
+
+
 
 
 ### <a id="bpn3717"></a> Prayer bpn3717 in Eesti
@@ -296,11 +398,15 @@ Sina oled võimu, auhiilguse ja helduse Jumal. Pole teist Jumalat kui Sina, Üli
 (Bahaiprayers.net ID: 3717)
 
 
+
+
 ### <a id="bpn3711"></a> Prayer bpn3711 in Eesti
 Kas on kedagi raskuste kõrvaldajat peale Jumala? Ütle: Kiidetud olgu Jumal! Tema on Jumal! Kõik on Tema teenrid ja kõik kuuletuvad Tema käsule.
 
 (Source category: Katsumused ja raskused)
 (Bahaiprayers.net ID: 3711)
+
+
 
 
 ### <a id="bpn3712"></a> Prayer bpn3712 in Eesti
@@ -310,11 +416,15 @@ Anun Sind Sinu väe nimel, oo mu Jumal! Ära lase mulle katsumuste aegadel juhtu
 (Bahaiprayers.net ID: 3712)
 
 
+
+
 ### <a id="bpn3713"></a> Prayer bpn3713 in Eesti
 Oo Issand! Sina oled kõikide piinade Kõrvaldaja ja kõikide hädade Hajutaja. Sina oled see, kes peletab eemale kõik mured ja vabastab kõik orjad, kõikide hingede Lunastaja. Oo Issand! Vabasta mind oma armu läbi ning loe mind nende oma teenrite hulka, kes on saanud päästetud.
 
 (Source category: Katsumused ja raskused)
 (Bahaiprayers.net ID: 3713)
+
+
 
 
 ### <a id="bpn3714"></a> Prayer bpn3714 in Eesti
@@ -324,6 +434,8 @@ Mõõtmatult kõrgemal oled Sina, oo taeva ja maa Issand, kõikide inimeste kiit
 
 (Source category: Katsumused ja raskused)
 (Bahaiprayers.net ID: 3714)
+
+
 
 
 ### <a id="bpn3715"></a> Prayer bpn3715 in Eesti
@@ -344,6 +456,8 @@ Sina oled tõepoolest Armuline, Ülistatud, Vägev, Kõikvõimas.
 
 
 
+
+
 ## Lahkunuile
 
 ### <a id="bpn3718"></a> Prayer bpn3718 in Eesti
@@ -354,6 +468,8 @@ Sina oled tõepoolest Armuline, Ülistatud, Vägev, Kõikvõimas.
 
 (Source category: Lahkunuile)
 (Bahaiprayers.net ID: 3718)
+
+
 
 
 ### <a id="bpn3719"></a> Prayer bpn3719 in Eesti
@@ -373,6 +489,8 @@ Pole muud Jumalat kui Sina, Üks, Ainus, Võimas, Kõiketeadev, Helde.
 (Bahaiprayers.net ID: 3719)
 
 
+
+
 ### <a id="bpn3720"></a> Prayer bpn3720 in Eesti
 Oo mu Jumal! Oo Sina pattude andestaja, kinkide annetaja, hädade hajutaja!
 Tõesti, ma anun Sind, et Sa andestaksid nende patud, kes on maha jätnud oma kehalise rüü ja tõusnud vaimsesse maailma.
@@ -381,6 +499,8 @@ veega ja luba neil näha Sinu hiilgust kõige kõrgemal mäel.
 
 (Source category: Lahkunuile)
 (Bahaiprayers.net ID: 3720)
+
+
 
 
 
@@ -393,11 +513,15 @@ Oo Jumal! Kasvata seda väikest lapsukest oma armastuse põues ja anna talle pii
 (Bahaiprayers.net ID: 3723)
 
 
+
+
 ### <a id="bpn3724"></a> Prayer bpn3724 in Eesti
 Oo Jumal! Hari neid lapsi. Need lapsed on Sinu puuviljaaia taimed, Sinu niidu lilled, Sinu aia roosid. Lase oma vihmal sadada nende peale, pane Tõelisuse Päike paistma nende peale Sinu armastust. Luba oma tuulepuhangul värskendada neid, nii et nad võiksid saada õpetust, kasvada ja areneda ning ilmuda äärmises ilus. Sina oled Andja. Sina oled Kaastundlik.
 
 (Source category: Lapsed ja noored)
 (Bahaiprayers.net ID: 3724)
+
+
 
 
 ### <a id="bpn3725"></a> Prayer bpn3725 in Eesti
@@ -407,6 +531,8 @@ Oo Jumal, juhata mind, kaitse mind, tee minust hiilgav lamp ja särav täht. Sin
 (Bahaiprayers.net ID: 3725)
 
 
+
+
 ### <a id="bpn3726"></a> Prayer bpn3726 in Eesti
 Oo mu Issand! Oo mu Issand! Ma olen õrnas eas laps. Toida mind oma halastuse rinnast, õpeta mind oma armastuse põues, hari mind oma juhenduse koolis ja arenda mind oma helduse varju all. Päästa mind pimedusest, tee minust särav valgus. Vabasta mind kurvastusest, muuda mind roosiaia lilleks. Luba mul saada teenriks Sinu lävel ning anna mulle õiglase meelelaad ja olemus. Tee minust helduse põhjus maailmale ja krooni mu pead igavese elu pärjaga. Sina oled tõesti Võimas, Vägev, Nägija, Kuulja.
 
@@ -414,11 +540,15 @@ Oo mu Issand! Oo mu Issand! Ma olen õrnas eas laps. Toida mind oma halastuse ri
 (Bahaiprayers.net ID: 3726)
 
 
+
+
 ### <a id="bpn3727"></a> Prayer bpn3727 in Eesti
 Oo Issand! Tee see nooruk kiirgavaks ja osuta sellele vaesele olendile oma heldust. Lase talle osaks saada teadmisi, anna talle lisandunud jõudu igal hommikupuhtel ning valva teda oma kaitse varju all nii, et ta võiks vabaneda eksimusest, pühenduda Sinu Usu teenimisele, juhendada isemeelseid, juhtida õnnetuid, vabastada köidetuid ja äratada hoolimatuid, selleks et kõik võiksid saada õnnistatud Sinu meenutuse ja kiitusega. Sina oled Vägev ja Võimas.
 
 (Source category: Lapsed ja noored)
 (Bahaiprayers.net ID: 3727)
+
+
 
 
 
@@ -433,6 +563,8 @@ Oo mu Issand, pühendan Sinule selle, mis on minu rüpes. Lase tal siis olla kii
 
 
 
+
+
 ## Tervenemine
 
 ### <a id="bpn3731"></a> Prayer bpn3731 in Eesti
@@ -444,11 +576,15 @@ Sinul on võim teha seda, mis Sulle meeldib. Ei ole muud Jumalat kui Sina, Alati
 (Bahaiprayers.net ID: 3731)
 
 
+
+
 ### <a id="bpn3732"></a> Prayer bpn3732 in Eesti
 Sinu nimi on minu tervendus, oo mu Jumal, ja Sinu meenutamine on minu ravim. Sinu lähedus on minu lootus ja armastus Sinu vastu on minu kaaslane. Sinu halastus minu peale on mu tervenemine ja abiks mulle nii selles kui ka tulevases maailmas. Sina oled tõesti Heldeim, Kõiketeadev, Kõiges Tark.
 
 (Source category: Tervenemine)
 (Bahaiprayers.net ID: 3732)
+
+
 
 
 ### <a id="bpn3733"></a> Prayer bpn3733 in Eesti
@@ -457,6 +593,8 @@ Seepärast palun ma Sind Sinu nime juures, mille kaudu Sa ilmutasid oma Jumalust
 
 (Source category: Tervenemine)
 (Bahaiprayers.net ID: 3733)
+
+
 
 
 
@@ -473,6 +611,8 @@ Sina oled tõesti Andja, Suuremeelne, Halastav, Andestav.
 
 
 
+
+
 ## Vaimsed omadused
 
 ### <a id="bpn3735"></a> Prayer bpn3735 in Eesti
@@ -483,11 +623,15 @@ Sinul on võim teha seda, mis Sinule meeldib. Sina oled tõesti Ülevaim, Kõige
 (Bahaiprayers.net ID: 3735)
 
 
+
+
 ### <a id="bpn3736"></a> Prayer bpn3736 in Eesti
 Loo mulle puhas süda, oo mu Jumal, ja taasta minus rahulik südametunnistus, oo mu Lootus! Jõu vaimu läbi tugevda mind oma Usus, oo mu Kõigearmastatum, ja oma hiilguse valgusel näita mulle oma rada, oo Sina, mu ihalduse Eesmärk! Oma inimmõistust ületava väe võimuga tõsta mind üles oma pühaduse taevasse, oo mu olemasolu Allikas, ning oma igaviku tuulepuhangutest rõõmusta mind, oo Sina, kes Sa oled mu Jumal! Luba oma igikestvatel meloodiatel sisendada mulle rahu, oo mu Kaaslane, ja oma iidse palge rikkustel vabastada mind kõigest muust peale Sinu, oo mu Meister, ning oma rikundumatu Olemuse ilmutuse sõnumil tuua mulle rõõmu, oo Sina, kes Sa oled kõige ilmsem ilmsetest ja kõige peidetum peidetuist!
 
 (Source category: Vaimsed omadused)
 (Bahaiprayers.net ID: 3736)
+
+
 
 
 ### <a id="bpn3737"></a> Prayer bpn3737 in Eesti
@@ -497,11 +641,15 @@ Loo mulle puhas süda, oo mu Jumal, ja taasta minus rahulik südametunnistus, oo
 (Bahaiprayers.net ID: 3737)
 
 
+
+
 ### <a id="bpn3738"></a> Prayer bpn3738 in Eesti
 Oo mu Jumal! Tee oma ilu mu toiduks ja oma juuresolek mu joogiks ning oma meelehea mu lootuseks ja Sinu kiitmine mu tegevuseks ja Sinu meenutamine mu kaaslaseks ja Su ülemvõimu jõud mu abiliseks ning oma eluase mu koduks ja minu elukoht paigaks, mille Sa oled puhastanud nende peale pandud kitsendustest, kes on nagu looriga eraldatud Sinust. Sina oled tõesti Kõigevägevam, Kõikhiilgav, Kõige Võimsam.
 
 (Source category: Vaimsed omadused)
 (Bahaiprayers.net ID: 3738)
+
+
 
 
 ### <a id="bpn3739"></a> Prayer bpn3739 in Eesti
@@ -513,12 +661,16 @@ Tõepoolest, kui Sa peaksid soovima õnnistada seda teenrit, siis kustutad Sa te
 (Bahaiprayers.net ID: 3739)
 
 
+
+
 ### <a id="bpn3740"></a> Prayer bpn3740 in Eesti
 Oo Jumal! Värskenda ja rõõmusta minu hinge! Puhasta mu süda! Valgusta mu võimeid! Usaldan Sinu kätte kõik oma asjad. Sina oled mu Teejuht ja Varjupaik. Ma pole enam murelik ega kurb, vaid olen õnnelik ja rõõmus. Oo Jumal! Ma pole enam täis ärevust ega lase muredel kimbutada end. Ma ei viibi elu ebameeldivatel asjadel.
 Oo Jumal! Sina oled mulle suuremaks sõbraks kui ma ise. Pühendan end Sulle, oo Issand.
 
 (Source category: Vaimsed omadused)
 (Bahaiprayers.net ID: 3740)
+
+
 
 
 
@@ -531,12 +683,16 @@ Sina näed, oo Issand, meie härdalt paluvaid käsi sirutatuna üles Sinu heatah
 (Bahaiprayers.net ID: 3729)
 
 
+
+
 ### <a id="bpn3730"></a> Prayer bpn3730 in Eesti
 Ma palun Sinu andestust, oo mu Jumal, ja anun armu moel, nagu Sa soovid, et Sinu teenrid Su poole pöörduksid. Ma palun, et Sa peseksid ära meie patud, nii nagu sobib Sinu Issandlikkusele ning andestaksid mulle, mu vanematele ja neile, kes on Sinu arvates astunud Su armastuse elukohta, viisil, mis on Sinu kõrgeima ülemvõimu vääriline ja Sinu taevase väe hiilguse kohane.
 Oo mu Jumal! Sa oled innustanud mu hinge esitama Sulle oma härrast palvet ning kui ei oleks Sind, ei hüüaks ma Sinu poole. Kiidetud ja ülistatud oled Sina! Lausun Sulle kiitust, sest Sa oled ilmutanud end mulle, ning palun Sinult andestust, et ma pole suutnud täita oma kohustust Sind tunda ja mul pole õnnestunud käia Su armastuse rajal.
 
 (Source category: Vanemad)
 (Bahaiprayers.net ID: 3730)
+
+
 
 
 
@@ -551,6 +707,8 @@ Pole muud Jumalat kui Sina, Kõigevägevam, Kõikealistav, Tingimatu.
 (Bahaiprayers.net ID: 3741)
 
 
+
+
 ### <a id="bpn3742"></a> Prayer bpn3742 in Eesti
 Kuidas võin ma uinuda, oo Jumal mu Jumal, kui Sind igatsevate silmad on ärkvel Sinust lahusoleku tõttu, ja kuidas võin ma heita puhkama, kui valust vaevatud, olles kaugel Sinu lähedusest?
 Ma olen usaldanud, oo mu Issand, oma vaimu ja kogu oma olemuse Su väe ja kaitse paremasse kätte ning asetan oma pea padjale Sinu jõul, tõstes selle sealt jälle üles vastavalt Su tahtele ja meeleheale. Sina oled tõepoolest Kaitsja, Hoidja, Kõigevägevam, Võimsaim.
@@ -558,6 +716,8 @@ Sinu väe nimel! Ma ei palu muud, olgu unes või ilmsi, kui vaid seda, mida soov
 
 (Source category: Õhtupalved)
 (Bahaiprayers.net ID: 3742)
+
+
 
 
 
@@ -573,11 +733,15 @@ Avalda meile, oo Jumal, oma ülev igavik – et Sina oled alati olnud ja jääd 
 (Bahaiprayers.net ID: 3743)
 
 
+
+
 ### <a id="bpn3744"></a> Prayer bpn3744 in Eesti
 Oo mu Jumal! Oo mu Jumal! Liida ühte oma teenrite südamed ja avalda neile oma suur eesmärk! Järgigu nad Sinu käske ja püsigu Sinu seaduses. Aita neid, oo Jumal, nende püüdluses ning anna neile jõudu Sind teenida. Oo Jumal! Ära jäta neid omapead, vaid juhi nende samme oma teadmiste valgusega ja rõõmusta nende südameid oma armastusega. Tõesti, Sina oled nende Aitaja ja nende Issand.
 
 (Source category: Ühtsus)
 (Bahaiprayers.net ID: 3744)
+
+
 
 
 ### <a id="bpn3745"></a> Prayer bpn3745 in Eesti
@@ -589,6 +753,9 @@ Sina oled tõesti Kõigevägevam, Iseolev, Andja, Andestav, Andeksandja, Kõiket
 
 (Source category: Ühtsus)
 (Bahaiprayers.net ID: 3745)
+
+
+
 
 
 

@@ -3,6 +3,78 @@ title = "Bidayuh"
 tags = ['lang=sne', 'prayerbook']
 +++
 
+
+
+[Doa Bitogant](#Doa Bitogant)
+
+[Doa Ganyuk Ulah Rohani](#Doa Ganyuk Ulah Rohani)
+
+[Doa Kahwent](#Doa Kahwent)
+
+[Doa Kesatuan](#Doa Kesatuan)
+
+[Doa Mitia Apunt](#Doa Mitia Apunt)
+
+[Doa Mudi Duoh Kesyukuran](#Doa Mudi Duoh Kesyukuran)
+
+[Doa Ngajar](#Doa Ngajar)
+
+[Doa Ngudung/Bitapod/Bigupul](#Doa Ngudung/Bitapod/Bigupul)
+
+[Doa Nyinung Nyabal](#Doa Nyinung Nyabal)
+
+[Doa Onu Singalom](#Doa Onu Singalom)
+
+[Doa Pibatue Duoh Pinulung](#Doa Pibatue Duoh Pinulung)
+
+[Doa Piminien](#Doa Piminien)
+
+[Doa Pimujul Agama](#Doa Pimujul Agama)
+
+[Doa Pinguji Duoh Kilapont](#Doa Pinguji Duoh Kilapont)
+
+[Doa Pinulung Daang Pinguji](#Doa Pinulung Daang Pinguji)
+
+[Doa Puasa](#Doa Puasa)
+
+[Doa Rawang](#Doa Rawang)
+
+[Doa Sa’ant Amerika](#Doa Sa’ant Amerika)
+
+[Doa Sa’ant Boli](#Doa Sa’ant Boli)
+
+[Doa Sa’ant Manusia](#Doa Sa’ant Manusia)
+
+[Doa Sa’ant Nya’a Dek Kobos](#Doa Sa’ant Nya’a Dek Kobos)
+
+[Doa Sa’ant Onak Opot Duoh Bujang Donak](#Doa Sa’ant Onak Opot Duoh Bujang Donak)
+
+[Doa Sa’ant Pingoma](#Doa Sa’ant Pingoma)
+
+[Doa Sipagi Onu](#Doa Sipagi Onu)
+
+[Doa Togap Binaan](#Doa Togap Binaan)
+
+[Doa Togap-Totod Daang Wa’adat](#Doa Togap-Totod Daang Wa’adat)
+
+[Loh Ahmad (Surat Bisaka)](#Loh Ahmad (Surat Bisaka))
+
+[Loh Bisaka Nomi](#Loh Bisaka Nomi)
+
+[Naw – Ruz](#Naw – Ruz)
+
+[Onu Pingosah (Ayyam-I-Ha)](#Onu Pingosah (Ayyam-I-Ha))
+
+[Pibatue Duoh Pinulung](#Pibatue Duoh Pinulung)
+
+[Simayang Wajib Kodit](#Simayang Wajib Kodit)
+
+[Simayang Wajib Sodang Omu](#Simayang Wajib Sodang Omu)
+
+[Sugu Fund](#Sugu Fund)
+
+
+
 ## Doa Bitogant
 
 ### <a id="bpn11796"></a> Prayer bpn11796 in Bidayuh
@@ -14,6 +86,8 @@ Ngin Mulia ndu Adon Ingan, O Ingan Nyaa dek jadin Raja ndu sua Raja!
 (Bahaiprayers.net ID: 11796)
 
 
+
+
 ### <a id="bpn11797"></a> Prayer bpn11797 in Bidayuh
 Ingan leh dek Mulia, O Topa ku! Oku ngin Ingan terima kasih sebab Ingan mbok ngin pu’ant tudu oku Iyoh Nyaa dek jadin Musim Bunga pirasie Ingan, bia jadin Topat Pinusak budi Ingan, bia jadin Godang Agama Ingan. Oku nguwai Ingan pakai Adon Ingan, pakai sok jowin bala dimuno dek ngaduah tudu Ingan mbok bitukar mopuk, bia otin bala dimuno dek mbok setia tudu Ingan mbok ngilad timilib nuju Ingan, ngibonar oku pod-pod setiap masa, bia daang sua keadaan, bikagont ndu tolint bokos Ingan, bia nonant sua bisamah tudu osi sija jok-eh Ingan, bia sak ku ninga tolonk-tolonk nuju talis Revelasi Ingan, bia alit nai nunda oni sija pinanon Ingan tudu oku daang Loh-Loh Ingan. 
 Pilaon, O Raja ku, soduwoh duwoh daang bia sopak idip ku pakai pakaian dek suka Ingan bia pangirinduk bitulut Ingan. Jaga leh oku odak selamat, adin tiyak, sok oni sija dek pama-pama toban pangisisil tudu Ingan, bia dengan sudi tulung oku bia madih ayua ku odak nunda sina Ingan, bia gupil oni sija dek nimbul simun-mun pangija’at ato niat ja’at da’ang oku.
@@ -21,6 +95,8 @@ Ingan, dek tok, dek jadin Raja sua Manusia, bia jadin nyaa dek kakue dunya tih b
 
 (Source category: Doa Bitogant)
 (Bahaiprayers.net ID: 11797)
+
+
 
 
 ### <a id="bpn11798"></a> Prayer bpn11798 in Bidayuh
@@ -32,6 +108,8 @@ Ingan, daang dek tok sebonar-eh, jadin Raja sok duwoh dunia, bia jadin Topa tudu
 (Bahaiprayers.net ID: 11798)
 
 
+
+
 ### <a id="bpn11799"></a> Prayer bpn11799 in Bidayuh
 Bogok otin dek obow, O Topa ku, mbok obuah kibangoh pakai opui Agama Ingan, bia bogok geh dek loloe bo’os mbok ngooh odak sina mosiak Ingan. Mbok kudu tiyak nyaa dek saluh saluh mbok mitia ngilukuh ndu ribuak adung tongon koyuh Ingan dek ndi, bia main kiyang dek bodoh asong mbok balingap kalik tobol pi’in pingidip Ingan daang onu onu Ingan!
 Nai odak kudus iyoh dek mbok nak odop-eh nuju Ingan, bia mbok bigaut yak tungang so’ont jawak Musim Bunga onu jowin Ingan. Nai odak kudus iyoh dek mbok dengan sua pangirinduk-eh tikos tudu Topat Pinusak Revelasi Ingan bia Bak tobol pigolak Ingan. Nai odak kudus iyoh dek mbok piluwah modal bilannya da’ang olant Ingan onik dek ogi Ingan pisoh tudu iyoh pakai sok pingungin Ingan duoh pingodak. Nai odak kudus iyoh dek, daang sukup po’it pilopas jobong sok Ingan, mbok sa’at tolant sua onik dibokon jok-eh Ingan dek sadik. Nai odak kudus iyoh dek munuas biubung rapat duwoh Ingan, bia kadi odop-eh sok segala-gala rapat jangit tudu simun-mun nyaa jok eh Ingan.
@@ -40,6 +118,8 @@ Kekuatan Ingan, daang dek sibonar-eh samah ndi wat tudu sua-sua onik.
 
 (Source category: Doa Bitogant)
 (Bahaiprayers.net ID: 11799)
+
+
 
 
 ### <a id="bpn11800"></a> Prayer bpn11800 in Bidayuh
@@ -53,6 +133,8 @@ Doie leh Topa dibokon pak-eh Ingan, dek Paling-Doras, dek Pingutung.
 (Bahaiprayers.net ID: 11800)
 
 
+
+
 ### <a id="bpn11801"></a> Prayer bpn11801 in Bidayuh
 Daang Adon Raja Ingan, dek Pimotan, dek Agong, dek Paling-Pinyukup, dek Bigatung Omu, Iyoh Nyaa dek pinulung-eh dek ngugai sua manusia.
 Sobot leh: O Topa ku! O Ingan Nyaa dek Tukang Nai surga bia geh tanak, O Raja Pritah Topa! Ingan dek lobih pu’ant rahsia-rahsia otin ku, sedang kan Wujud Ingan dik tungang obuah ngiloti tudu dek sua-sua jok Odop Ingan. Ingan kilint oni sija pasal oku, sedangkan doie nyaa dibokon dek ponai wat noh jok-eh Ingan. Murah otin tudu oku, pakai sok budi Ingan, onik dek odak oku dik-eh perlu duwoh dek sua-sua jok-eh Ingan, bia notu sa’ant ku onik dek yak odak oku biladik sok sua nyaa dibokon luar sok Ingan. Ngibonar sak ku nugung pingutung idip ku daang dunya tih bia dek dikan. Bitanga tudu jowin ku tiban-tiban budi Ingan, bia dengan sudi pisoh tudu tunt ku tulut pirasie Ingan bia pah pala.
@@ -61,6 +143,8 @@ Pisoh berkat Ingan, O Raja ku, tudu tunt Bala Pingutus, bala dek kudus bia nya�
 
 (Source category: Doa Bitogant)
 (Bahaiprayers.net ID: 11801)
+
+
 
 
 ### <a id="bpn11802"></a> Prayer bpn11802 in Bidayuh
@@ -73,6 +157,8 @@ Ngin tudu oku duman ku O Raja, nunda dek suka Ingan, bia odak leh oku puas odak 
 
 
 
+
+
 ## Doa Ganyuk Ulah Rohani
 
 ### <a id="bpn11853"></a> Prayer bpn11853 in Bidayuh
@@ -80,6 +166,8 @@ Pijadi daang oku otin tulen, O Topa ku, bia piba’uh suara batin dek kobar daan
 
 (Source category: Doa Ganyuk Ulah Rohani)
 (Bahaiprayers.net ID: 11853)
+
+
 
 
 ### <a id="bpn11854"></a> Prayer bpn11854 in Bidayuh
@@ -91,12 +179,16 @@ Raja! Mbak sigient oku juak sok laut kayaraya Ingan bia surga pirasie Ingan, bia
 (Bahaiprayers.net ID: 11854)
 
 
+
+
 ### <a id="bpn11855"></a> Prayer bpn11855 in Bidayuh
 O Raja ku! Nai pangisangon Ingan odak jadin pinguman ku, pimonog Ingan pingunuak ku, pingodak Ingan pingarapku, mudi Ingan pingunai ku, panginatong ndu Ingan pingulu ku, kuasa kedaulatan Ingan jadin pinoduh ku, topat Ingan ro’o boli ku, bia topat-ngilonah ku pusat dek mbok kisig Ingan sok ba’at amalan tipu-daya dek obuah bala dimunih dek tikuab tutuas koda sinung duwoh Ingan. 
 Ingan leh, totap, dek Bigagah, dek Paling-Mulia, dek Paling Bikuasa.
 
 (Source category: Doa Ganyuk Ulah Rohani)
 (Bahaiprayers.net ID: 11855)
+
+
 
 
 ### <a id="bpn11856"></a> Prayer bpn11856 in Bidayuh
@@ -108,6 +200,8 @@ Ingan, sebonar-eh, dek jadin Pinulung daang Pinusah pakai sok kuasa kedaulatan I
 (Bahaiprayers.net ID: 11856)
 
 
+
+
 ### <a id="bpn11857"></a> Prayer bpn11857 in Bidayuh
 Murah otin bih tudu oku, O Topa ku, singant-ngant sukat pangirinduk Ingan bia paguh-moon Ingan duoh lagi pakai dek sok pimikat doras sokab jawak Ingan pirami otin koih, O Ingan Nyaa dek Tibukti Agung duoh dek Paling-Mulia. Pimuun tudu oku, dek yak jadin lambang budi Ingan, obus idip bidaya, sok daang dek singonu bia daang dek singalom, O Raja dek bibudi. Doie pingunai dek mbok nai ku, O Topa ku, dek yak obuah noga pakai ninga jowin Ingan, bia jawak ku pu’ant nang mo ku idip sitiyant nog piobuae dunia oku totap gagal pijadi sikamun pingunai nyam tadah dek berhak terima pingodah tih, setegal stesen dek ndi na’an ulunt alit potod olant tudu pagar Kudus Ingan, jok-eh simo pingungin Ingan harus nog oku duoh lagi binulut perasie Ingan nyolap oku bia rindu-tulut Ingan nyokuab oku. 
 Sua pimudi tudu Ingan, O Ingan selain Nyaa Noh doie dibokon luar sok Topa. Sudi leh odak oku tungang ma’ad tudu Ingan, obuah ngibonar kehormatan tokont sikidan Ingan bia dapod sina kilakar duwoh sadik Ingan. Doie Topa dibokon pak-eh Ingan. 
@@ -117,12 +211,16 @@ Sebonar-eh mo Ingan harus ingin yak pisoh berkat tudu ulunt Ingan noh Ingan patu
 (Bahaiprayers.net ID: 11857)
 
 
+
+
 ### <a id="bpn11858"></a> Prayer bpn11858 in Bidayuh
 O Topa! Ngidonat duoh kanuas jiwa ku. Nai odak otin ku tulen. Odak bigongab kuasa ku. Oku posan sua urusan ku daang tongan Ingan. Ingan leh Pingotag bia Pangirawan ku. Idoh dik ku tiyak-yak susah otin duoh mopuat, oku totap yak jadin manusia dek doont duoh munuas. O Topa! Idoh dik ku tiyak yak bigaduh, idoh geh dik ku tiyak odak pinusah nyolang oku. Idoh dik ku tiyak tokont ngilonok ndu pingidip dek dik totu towant. 
 O Topa! Ingan leh dek suka lobih tudu oku sok oku suka odop ku. Oku suwual odop ku tudu Ingan, O Raja.
 
 (Source category: Doa Ganyuk Ulah Rohani)
 (Bahaiprayers.net ID: 11858)
+
+
 
 
 ### <a id="bpn11859"></a> Prayer bpn11859 in Bidayuh
@@ -134,11 +232,15 @@ O Topa! Ngisuk oku odak bisig sok sua dibokon jok-eh Ingan, kisig oku sok tomad 
 (Bahaiprayers.net ID: 11859)
 
 
+
+
 ### <a id="bpn11860"></a> Prayer bpn11860 in Bidayuh
 O Raja ku! O Raja ku! Itih nikan lampu dek obuah tung pakai opui pangirinduk Ingan bia bidudue pakai sijiliab dek bigongab daang tongon pirasie Ingan. O Raja ku! Nyongah sidudue iyoh, bigongam duoh bijiliab, pakai opui dek bigongab daang Sinai Manifestasi Ingan. Totap, Ingan leh dek Tukang Notap, dek Tukang Tulung, dek Bikuasa, dek Murah Otin, dek Pangirinduk.
 
 (Source category: Doa Ganyuk Ulah Rohani)
 (Bahaiprayers.net ID: 11860)
+
+
 
 
 ### <a id="bpn11861"></a> Prayer bpn11861 in Bidayuh
@@ -147,6 +249,8 @@ Totap, Ingan dek Paling-Murah Otin, Raja budi dek muyah mogond. Doie Topa diboko
 
 (Source category: Doa Ganyuk Ulah Rohani)
 (Bahaiprayers.net ID: 11861)
+
+
 
 
 ### <a id="bpn11862"></a> Prayer bpn11862 in Bidayuh
@@ -159,6 +263,8 @@ Totap, Ingan leh dek Doras, dek Bikuasa, dek Pangirawan, dek Bigagah, dek Pingut
 (Bahaiprayers.net ID: 11862)
 
 
+
+
 ### <a id="bpn11863"></a> Prayer bpn11863 in Bidayuh
 O Topa, Topa ku! Dimutik leh ulunt Ingan dek solut; bala dimutik yoh leh onak dali bia onak dayung Ingan dek setia, nyaa dek mbok guluk ngoluab odop-eh ngaduap Pingunang simomu Ingan bia pidouk odop-eh ndu jawak Pinutuab Ingan, bia ngakon ndu pinyindik Ingan pakai dek sok Boton Onu dek mbok obuah nai bidonang jawak u’unt onu. Bala tih mbok ngojit tudu bogant pinanon dek ogi Ingan bitamus sok Alam Ingan dek dik-eh tonga, bia daang otin simodup odak pangirinduk duoh munuas do’ont, bala tih mbok sangup terima bogan Ingan.
 O Raja, duwian tunt bala tih soyuak pirasie Ingan, nijuah tunt bala tih sua-sua liliaq budi Ingan. Nai odak bala tih tumue samah kodae pimuluah daang kobont surga, bia sok goduang duoh sidatak pah pala Ingan dek mepel bia dek sok libu budi Ingan dek muyah mogond Ingan nai leh odak kobont tih bisuwat, piala odak alit ijau bia dik-eh layue, alit segar bia bilinyak duoh sangon.
@@ -166,6 +272,8 @@ Ingan leh, totap, dek Doras, dek Bigatung, dek Bikuasa, Iyoh Nyaa dek sadik, daa
 
 (Source category: Doa Ganyuk Ulah Rohani)
 (Bahaiprayers.net ID: 11863)
+
+
 
 
 ### <a id="bpn11864"></a> Prayer bpn11864 in Bidayuh
@@ -176,6 +284,8 @@ O Raja, Topa ku! Sukup labuk bala ulunt Ingan dimutik, pakat pa’ad iyoh ka’a
 
 (Source category: Doa Ganyuk Ulah Rohani)
 (Bahaiprayers.net ID: 11864)
+
+
 
 
 
@@ -193,6 +303,8 @@ Duoh lagi apabila Iyoh ingin yak bikirient budi bia pingutung tudu manusia, bia 
 (Bahaiprayers.net ID: 11841)
 
 
+
+
 ### <a id="bpn11842"></a> Prayer bpn11842 in Bidayuh
 Iyoh leh Topa! O Raja dek doie Tanding Daang kekuatan bijaksana Ingan. Ingan mbok meritah kahwent tudu manusia, sak pulih manusia pod-pod bitukar bigati daang atuad dunya, duoh lagi sak adu-adu, selagi dunia tih ogi, sak kadu iyoh pibidu odop-eh ndu Pinutuab pinyindi Ingan pakai sikap ngulunt batak duoh nyombah, pakai bipama, muja duoh mudi. “ Aluak doie ku motan roh bia manusia, pak-eh sunggu wat inoh iyoh harus nyombah oku.” Lugan inoh, Ingan ngawent leh daang surga rahmat Ingan manuk dek duwoh tih daang solint pangirinduk Ingan, bia nai odak bala dek duwoh tih cara mikat budi dek dik kangan-kangan; sak supaya sok gabungan laut pangirinduk dek duwoh tih nikan gelumbang bait otin pod-pod ngilajak duoh tatol mutiara-mutiara dek tolen bia hal-hal dek toban asil tudu ongan pingidip. “ Iyoh mbok pilongar laut dek duwoh noh, sak iyoh bitapod duwoh dingan-eh: Diantara odop eh dek duwoh ogi nikan suwang dek dik iyoh so’ont maduas. Mun ki lagi adin pingungin Raja mu dek ngidoh mu? Sok dek setiap na’ant Iyoh ngutae mutiara dek ayuh bia dek isok.” O Ingan Raja dek tulut! Ingan nai odak kahwent tih luwah toban batuh karang duoh mutiara-mutiara. Ingan leh totap dek Paling Bikuasa, dek Paling Ayuh, dek Selalu- Pingapunt.
 
@@ -200,11 +312,15 @@ Iyoh leh Topa! O Raja dek doie Tanding Daang kekuatan bijaksana Ingan. Ingan mbo
 (Bahaiprayers.net ID: 11842)
 
 
+
+
 ### <a id="bpn11843"></a> Prayer bpn11843 in Bidayuh
 Ngin mulia tudu Ingan, O Topa ku! Totap, itih ulunt Ingan bia itih dayung ulunt Ingan mbok bigupul ndu ribua adung pirasie Ingan bia bala tih bisatu pakai pingodak Ingan duoh murah otin. O Raja! Tulung iyoh daang dunya tih bia pritah Topa Ingan bia notu sa’ant bala tih setiap pangipaguh dek sok pingungin Ingan duoh budi. O Raja! Notap bala tih daang ngulunt batak Ingan bia tulung bala tih daang khidmat Ingan. Nusah bala tih odak jadin tanda-tanda Adon Ingan daang dunya Ingan bia ngirawan bala tih pakai sok pah pala dek dik-eh mungan-mungan daang dunya, tih bia dunya dek yak nog. O Raja! Bala tih mujok bito’os pritah bait pirasie Ingan bia mogan-nguwai alam dek sadik Ingan. Totap, bala tih kahwent daang pimodo tudu titah Ingan. Odak bala tih ponai jadin tanda-tanda bitamonk bia bisatu simogal nog nyuang idip. Totap, Ingan leh dek Ogi Kuasa Ayuh, dek Bibaya Katik Kanih bia dek Sukup Doras!
 
 (Source category: Doa Kahwent)
 (Bahaiprayers.net ID: 11843)
+
+
 
 
 ### <a id="bpn11844"></a> Prayer bpn11844 in Bidayuh
@@ -216,6 +332,8 @@ Totap, Ingan leh dek Murah Otin. Totap, Ingan leh dek Doras. Totap, Ingan leh de
 
 
 
+
+
 ## Doa Kesatuan
 
 ### <a id="bpn11883"></a> Prayer bpn11883 in Bidayuh
@@ -223,6 +341,8 @@ O Topa ku! O Topa ku! Nguluk ngupul otin ulunt-ulunt Ingan, bia buka ngulia tudu
 
 (Source category: Doa Kesatuan)
 (Bahaiprayers.net ID: 11883)
+
+
 
 
 ### <a id="bpn11884"></a> Prayer bpn11884 in Bidayuh
@@ -237,6 +357,8 @@ Totap, Ingan leh dek Doras, dek Biginong Sadik, dek Tukang Ngin, dek Pingapunt, 
 
 
 
+
+
 ## Doa Mitia Apunt
 
 ### <a id="bpn11822"></a> Prayer bpn11822 in Bidayuh
@@ -248,6 +370,8 @@ Doie nyaa dibokon, O Raja ku, biratur dengan murah otin duwoh oku tudu osi leh o
 (Bahaiprayers.net ID: 11822)
 
 
+
+
 ### <a id="bpn11823"></a> Prayer bpn11823 in Bidayuh
 Oku leh, nyaa, O Raja ku, dek mbok nak jowin-eh nuju Ingan, bia notap pingarap-eh tudu keajaiban budi Ingan bia pingungin Ingan dek obuah bikirient. Oku bidoa tudu Ingan sak Ingan dik-eh odak oku susah tikokos buu daang otin dek luluh sok tiban pirasie Ingan, ato supiah oku tutuas kodae ngan Ingan supiah pimotan pimotan Ingan dek mbok doliak terima Agama Ingan. 
 Oku tih, O Topa ku, ulunt Ingan duoh onak dali ulunt Ingan. Oku mbok piluh pangibonar Ingan daang onu-onu Ingan, bia mbok suual sakuang ku nuju ladae pinyindi Ingan, ngaku Ingan dek sadik, nyawot kesatuan Ingan, bia arap-arap tudu pingapunt duoh pimaaf Ingan. Bikuasa leh Ingan mana wat dek suka Ingan, doie Topa di bokon luar sok Ingan, dek Paling Mulia, dek Selalu Pingapunt.
@@ -256,11 +380,15 @@ Oku tih, O Topa ku, ulunt Ingan duoh onak dali ulunt Ingan. Oku mbok piluh pangi
 (Bahaiprayers.net ID: 11823)
 
 
+
+
 ### <a id="bpn11824"></a> Prayer bpn11824 in Bidayuh
 Ingan ningak leh oku, O Raja ku, dengan jowin ku kos nuju surga pingungin Ingan bia laut pingodah Ingan, luwah buu sok sua dibokon dek luar sok Ingan. Oku mitia tudu Ingan, pakai timogah ayuh Boton Onu revelasi Ingan ndu Sinai, bia gonga Olung budi Ingan dek bijiliab sok talis Adon Ingan, dek Selalu-Pingapunt, odak ngibonar tudu oku apunt maaf bia odak masik ndu oku. Nulis, adin, sa’ant ku pakai pen pimulia Ingan onik dek yak pa’ad oku pakai sok Adon Ingan daang dunya pimotan. Batue oku, O Raja ku, pigulue odop ku nuju Ingan, bia ngojit tudu daluag bala pirinduk Ingan, bala dek kuasa-kuasa tanak mbok gagal ngilumak, bia dek kaku kuasa negara mbok doie kuasa naan sok Ingan, bia nyaa dek, bipodual nuju Ingan, mbok nang ineh: “ Topa leh Raja koih neh, Raja tudu sua nyaa ndu daang surga duoh sua nyaa ndu tunt tanak!”.
 
 (Source category: Doa Mitia Apunt)
 (Bahaiprayers.net ID: 11824)
+
+
 
 
 ### <a id="bpn11825"></a> Prayer bpn11825 in Bidayuh
@@ -272,6 +400,8 @@ Ngapunt, adin, O Raja ku, ulunt-ulunt Ingan bia bala dayung Ingan. Ingan leh, si
 (Bahaiprayers.net ID: 11825)
 
 
+
+
 ### <a id="bpn11826"></a> Prayer bpn11826 in Bidayuh
 O Topa Raja koih! Nyinung nyabal koih pakai budi Ingan sok oni sija dek boleh jadi pangibu’ui tudu Ingan, bia bimurah otin tudu koih onik dek biguna daang Ingan: Ngin tudu koih bogok-bogok onik nog sok pingungin Ingan, duoh ngin berkat koih. Maaf koih tilanan onik dek mbok nai koih, bia mamiak kadi dosa-dosa koih, bia ngapunt koih pakai sudi apunt Ingan. Totap, Inganleh dek Paling Bigatung, dek Biginong-Sadik.
 Pangilaan rinduk Ingan mbok nyokuab sua dek obuah motan daang surga bia ndu tunt tanak, bia pingapunt Ingan mbok ngilobih seluruag-luruag dek obuah motan. Ingan dek ngasi; daang tongan Ingan Pritah Pimotan duoh Revelasi, daang tongan to’uh Ingan-Ingan kagont sua onik dek obuah motan, bia daang aguam Ingan leh tugas sukat apunt maaf. Ingan ngapunt leh osi sija diantara ulunt-ulunt Ingan mana suka Ingan. Totap, Ingan leh dek Selalu-Ngapunt, dek Paling Rinduk; Oni pun sija doie dek dusah Ingan pu’ant, bia doie geh dek ponai bisukant sok Ingan.
@@ -281,6 +411,8 @@ O Topa Raja koih! Nyinung nyabal koih pakai sok kekuatan ngasi Ingan, odak koih 
 (Bahaiprayers.net ID: 11826)
 
 
+
+
 ### <a id="bpn11827"></a> Prayer bpn11827 in Bidayuh
 Ngin mudi tudu Ingan, O Raja. Ngapunt dosa-dosa koih, masik tudu koih bia dapod odak koih palik tudu Ingan. Nusah koih jaman odak sinongak tudu dibokon luar sok Ingan, bia bimurah otin tudu koih, pakai sok pingungin Ingan, onik dek rinduk Ingan bia hasrat duoh dek biguna ndu Ingan. Pa’ad topat piguluk bala dek mbok bonar-bonar bisaya, bia ngapunt bala pakai sudi apunt maaf Ingan. Totap, Ingan leh dek jadin Pinulung daang Pinusah dek Biginong Sadik.
 
@@ -288,11 +420,15 @@ Ngin mudi tudu Ingan, O Raja. Ngapunt dosa-dosa koih, masik tudu koih bia dapod 
 (Bahaiprayers.net ID: 11827)
 
 
+
+
 ### <a id="bpn11828"></a> Prayer bpn11828 in Bidayuh
 Oku mitia mujok Ingan odak ngapunt oku, O Rajaku, tilanan setiap pinyobot ku pak-eh pinyobot pasal Ingan, bia tilanan setiap pimudiku pak-eh pimudi pasal Ingan, bia tilanan setiap pimunuas pak-eh pimunuas daang sinok Ingan, bia setiap pimoon pak-eh pimoon bi’ubung duwoh Ingan, bia setiap pangirami pak-eh pangirami rinduk Ingan duoh paguh moon Ingan, bia tilanan sua-sua dek bikait tudu oku dek doie tolint jangit tudu Ingan, O Ingan Nyaa dek jadin Raja segala Raja, Iyoh Nyaa dek ngidiya cara duoh dek buka tiban.
 
 (Source category: Doa Mitia Apunt)
 (Bahaiprayers.net ID: 11828)
+
+
 
 
 ### <a id="bpn11829"></a> Prayer bpn11829 in Bidayuh
@@ -303,11 +439,15 @@ Mulia manah Ingan, O Raja, Ingan ngapunt daang setiap masa dosa-dosa ulunt Ingan
 (Bahaiprayers.net ID: 11829)
 
 
+
+
 ### <a id="bpn11830"></a> Prayer bpn11830 in Bidayuh
 O Ingan Raja dek Pingapunt! Ingan dek jadin gadang sua ulunt Ingan dimutik. Ingan pu’ant rahsia-rahsia duoh awas daang sua onik. Koih dek sua-sua doie otak daya, Ingan leh dek Bigagah, dek Ogi Kuasa. Koih dek sua-sua nyaa dek bidosa, Ingan leh Pingapunt dosa, dek Pirasie, dek Pinubuas. O Raja! Mbak ninga tudu salah biyuk koih. Biteken duwoh koih timosok tudu budi Ingan duoh pingungin. Salah koih sikiya bogok, pak-eh laut apunt maaf Ingan luwas. Kurang ondae koih sukup baat, pak-eh bukti pangibatue Ingan duoh pinulung jawak tonga. Ngan-eh wat inoh notap duoh nogap leh koih. Odak leh koih ponai nai onik dek wajar ndu Pinutuab kudus Ingan. Pijawak otin koih, ngibonar koih boton dek suki bia kojit noton. Dek kobos ngosa odak paguh duoh ngubat dek monam. Pisoh pangikaya tudu dek botak bia ngin pinoduh duoh ngin gadang tudu dek tolu. Terima leh koih daang pritah Ingan bia pijawak koih pakai sokad jawak pingimam. Ingan leh dek Bikuasa duoh dek Ogi kuasa Ayuh. Ingan leh dek Murah Otin. Ingan leh dek Pimuwas, Ingan leh dek Tulut.
 
 (Source category: Doa Mitia Apunt)
 (Bahaiprayers.net ID: 11830)
+
+
 
 
 
@@ -321,6 +461,8 @@ Pijawak, O Raja, jowin ulunt-ulunt Ingan, sak bala pod-pod kilint Ingan, bia ngi
 (Bahaiprayers.net ID: 11885)
 
 
+
+
 ### <a id="bpn11886"></a> Prayer bpn11886 in Bidayuh
 Bilagah adon Ingan, O Raja Topa ku! Ingan leh Iyoh Nyaa dek sok sua-sua onik nyombah bia Nyaa dek dik-eh nyombah osi-osi, Nyaa dek jadin Raja ndu sua onik duoh dik-eh jadin hamba ndu osi-osi, Nyaa dek pu’ant sua onik duoh doie dek tungang piluh. Ingan mbok ingin odak Odop Ingan tungang obuah piluh tudu manusia. Lugan inoh, Ingan mbok, pakai sok bang sina bobak Ingan, nutak pimotan odak idip bia nokoh dunia tanak. Doie Topa dibokon jok-eh Ingan, dek jadin Pinokoh, dek Pimotan, dek Doras, dek Paling Bikuasa.
 Oku ngugai Ingan, pakai bang sina dek paling kona tih dek mbok luwah tonga ndu somu talis dek ingin Ingan, odak oku tungang nuguak pi’in pingidip pakai sok noh Ingan mbok ngasae otin bala tipilih Ingan bia ganyuk minat jiwa bala dek rinduk ndu Ingan, sak pod-pod ku daang tibilang masa bia daang sua keadaan oku kos jowin ku punuae-punuae nuju Ingan. 
@@ -330,12 +472,16 @@ Ingan leh Topa dek ogi kuasa, mulia bia pingungin. Doie Topa dibokon luar sok In
 (Bahaiprayers.net ID: 11886)
 
 
+
+
 ### <a id="bpn11887"></a> Prayer bpn11887 in Bidayuh
 Mulia manah Ingan, O Raja Topa ku! Oku jugan tudu Ingan terima kasih tilanan mbok odak oku dapod piluh Manifestasi Odop Ingan, bia tilanan mbok nukas oku sok musuh-musuh Ingan, bia buka bidaah ndu sulung boton ku salah gaya bala bia pinyudang daang onu-onu Ingan, bia tilanan mbok mapak oku sok sua birapat tudu bala, bia mbok dapod odak oku tikos sepunuae-punuae nuju budi Ingan bia rasa mesra dek muyah. Oku ngin tudu Ingan terima kasih, geh lagi, tilanan mbok pimuun tudu oku sok sidatak pingodak dek bonar-bonar mbok kisig oku sok petua-petua nyaa dek doie agama bia sikinoh nyaa dek pingabah noh ngan ku mbok notap otin ku totod ndu Ingan, bia buu togant kodae-eh dek mbok ngidoh jawak jowin Ingan. Ndi sidoh lagi oku ngin terima kasih tudu Ingan tilanan ogi ngin kuasa tudu oku odak togap daang pongirinduk Ingan, bia piluwah sina mudi Ingan duoh mudi sanyung sifat-sifat konae Ingan, bia tilanan ogi odak oku nuak makup pirasie Ingan dek mbok ngilobih sua onik dek tonga duoh dek dik eh tonga. 
 Ingan leh dek Doras, dek Paling Bigatung, dek Paling Mulia, dek Pangirinduk.
 
 (Source category: Doa Mudi Duoh Kesyukuran)
 (Bahaiprayers.net ID: 11887)
+
+
 
 
 
@@ -350,6 +496,8 @@ Kiduung Ingan mbok ngotag bala, O Raja ku, tudu pi’in pingidip budi Ingan, ngi
 (Bahaiprayers.net ID: 11870)
 
 
+
+
 ### <a id="bpn11871"></a> Prayer bpn11871 in Bidayuh
 Mulia manah Ingan, O Raja dunia duoh Pinyoot negara, O Ingan Nyaa dek ogi tonga daang Adon Maha Agung, luban mutiara-mutiara bijaksana bia pingunang mbok tomus nog sok tiga’ant laut luwas ilmu pangipu’ant Ingan bia longit revelasi ilahi mbok obuah ngabunt pakai towa boton onu dek bitanga rupa Ingan. 
 Oku mitia mujok Ingan, pakai Bang sina noh leh sok bukti Ingan dianggap sempurna diantara pimotan-pimotan bia pinerang bukti Ingan punuae nyukup uunt uluk ulunt Ingan, odak nogap rakyat Ingan daang dek wat noh luban jowin Agama totap bijiliab daang pritah raja Ingan, standard kuasa Ingan totap obuah puluah diantara ulunt-ulunt Ingan, bendera pingotag Ingan totap obuah pa’ad tudu siluruag pritah raja Ingan. 
@@ -361,6 +509,8 @@ Oku mitia mujok Ingan, O Ingan Raja pinimul bia jadin Sinung Sabal dek bitolus d
 (Bahaiprayers.net ID: 11871)
 
 
+
+
 ### <a id="bpn11872"></a> Prayer bpn11872 in Bidayuh
 O Topa, Nyaa dek jadin Susud sua Manifestasi, Otak ndu sua Otak, Bak Pinobol ndu sua Revelasi, Tilaga ndu sua Pangijawak! Oku ngaku nang pakai Adon Ingan longit ilmu pangipu’ant mbok obuah ngabunt, bia bagih pangilaan Ingan mbok obuah ngabar tudu sua pengikut-pengikut sua agama.
 Oku nguwai Ingan wat tih sak oku ogi otak daya sak dik pilelu dibokon jok-eh Ingan, bia ponai biladik sok simun-mun nyaa jok-eh Odop Ingan. Nijuah, adin, ndu tunt oku dek sok sidatak pingungin Ingan onik dek harus ngutung oku daang sikamun dunya-dunya Ingan. Tulung oku, adin, pakai sok budi taant tuui Ingan, takal inoh tiak ngin khidmat ndu Agama Ingan ndu uunt uluk ulunt-ulunt Ingan sak oku pod-pod tanon bitanga onik dek yak odak oku dapod obuah natong selama pritah dek kakue Ingan bijont bia nog piobuak pritah raja Ingan. 
@@ -368,6 +518,8 @@ Itih leh ulunt Ingan, O Raja ku, nyaa dek dengan sipunuae idip dotin eh mbok tik
 
 (Source category: Doa Ngajar)
 (Bahaiprayers.net ID: 11872)
+
+
 
 
 ### <a id="bpn11873"></a> Prayer bpn11873 in Bidayuh
@@ -378,11 +530,15 @@ Ingan leh, totap, dek Murah Otin, dek Pingapunt.
 (Bahaiprayers.net ID: 11873)
 
 
+
+
 ### <a id="bpn11874"></a> Prayer bpn11874 in Bidayuh
 O Topa, Topa ku! Ingan batue leh ulunt-ulunt Ingan dek bisayak odak ogi pangirinduk bia otin binulut. Tulung bala ngan-eh kapah, diantara sua negara ndu tanak, towa pingotag dek nog sok Pingimam ndu somu. Totap, Ingan leh dek Bigagah, dek Bikuasa, dek Doras, dek Nguwasa sua-sua, dek Selalu-Ngin. Totap, Ingan leh dek Murah Otin, dek Pakit, dek Binulut, dek Paling Pingungin.
 
 (Source category: Doa Ngajar)
 (Bahaiprayers.net ID: 11874)
+
+
 
 
 
@@ -398,6 +554,8 @@ O Topa! Bikanyad koih pakai pingodah Ingan. Ingan leh dek Bikuasa. Ingan leh dek
 (Bahaiprayers.net ID: 11845)
 
 
+
+
 ### <a id="bpn11846"></a> Prayer bpn11846 in Bidayuh
 O Ingan Raja dek tulut! Dimutik ulunt-ulunt Ingan nyaa dek mbok bigupul daang udung tih, mbok tikos tudu pritah Ingan bia bonar-bonar pilelu pah pala duoh berkat Ingan. O Ingan Topa! Bitanga duoh nai odak tibukti tanda-tanda pinyindi Ingan dek pernah obuah panyal daang sua-sua: hakikat pingidip. Buka duoh nguliak nilai-nilai murni dek mbok nai Ingan odak timolam bia bisukant daang hakikat manusia.
 O Topa! Koih dimutik tutuas kodae pimuluah, yoh mbok pingungin Ingan tutuas kodae ijan, kadud duoh nai odak pimuluah dimutik mokat tumue pakai sok upant Ingan. Koih dimutik doie pu’ant oni-oni, nai odak koih ponai. Koih dimutik todang, nai odak koih mokat idip. Koih dimutik tubue gonan, bikanyad koih pakai roh. Koih dimutik osant boloh, nai odak koih suwah daang rahsia-rahsia Ingan. Koih dimutik sotok, nai odak koih kaya duoh ngin berkat koih pakai sok bolont Ingan dek doie silik. O Topa! Kidip ba’uh koih; ngin tudu koih boton dek kilint; ngin tudu koih kojit dek kilingah; kanyat koih pakai rahsia-rahsia pingidip, sak supaya rahsia-rahsia pritah Ingan pod-pod buka tikuliae tudu koih daang dunya dotin tih bia lasuk koih ngaku pinyindi Ingan. Setiap pah pala simula-mula nog sok Ingan, setiap pinumas doa Ingan dek kaku. 
@@ -407,12 +565,16 @@ Ingan leh dek Doras, Ingan leh dek Bikuasa, Ingan leh dek Tukang Ngin, bia Ingan
 (Bahaiprayers.net ID: 11846)
 
 
+
+
 ### <a id="bpn11847"></a> Prayer bpn11847 in Bidayuh
 O Topa ku! O Topa ku! Totap, dimutik leh ulunt-ulunt Ingan mbok tikos tudu Ingan, mujok bito’os pirasie pritah Ingan. Totap, bala dimutik tipikat odak pingudus Ingan bia mbok bilonyih jowin pakai opui pangirinduk Ingan, kalik pinotap sok pritah Ingan dek ajaib bia arap-arap pingobin ndu daang jajah Ingan dek surga. Totap, bala dimutik gili’ient hak waris pah pala Ingan, ngipungon gongab jawak sok Sebonar Boton Onu. O Raja! Nai odak bala dimutik jadin lapu dek jawak terang, tanda-tanda otin bait, tongon dek bibuak bia bitang bikilap. Sak kadu bala dimutik odi tilobih diyok daang khidmat Ingan bia bilasu bisalu duwoh Ingan pakai tolint bia bokos pangirinduk Ingan, gili’ient lingieng pingodah Ingan. O Raja! Nai odak bala dimutik tanda-tanda pingimam, tiang pritah Ingan dek noggond, gelumbang laut pirasie Ingan, silomin lingieng keagungan Ingan. 
 Totap, Ingan leh dek Murah Otin. Totap, Ingan leh dek Perasie. Totap, Ingan leh dek Biloga, dek obuah Nyayang.
 
 (Source category: Doa Ngudung/Bitapod/Bigupul)
 (Bahaiprayers.net ID: 11847)
+
+
 
 
 ### <a id="bpn11848"></a> Prayer bpn11848 in Bidayuh
@@ -426,12 +588,16 @@ Ingan leh dek bikuasa, dek Ogi Kuasa Ayuh, dek Pirasie , bia Ingan leh dek Murah
 (Bahaiprayers.net ID: 11848)
 
 
+
+
 ### <a id="bpn11849"></a> Prayer bpn11849 in Bidayuh
 O Pangilaan Ilahi! Uluk kubunt tih yoh leh kabant bala dingan-dingan Ingan nyaa dek tipikat tudu pangisangon Ingan bia doont odak opui pangirinduk Ingan. Kibalui jiwa-jiwa dimutik odak jadin malaikat-malaikat surga, kidip asong bala dimutik pakai sok asong Roh Kudus Ingan, ngibonar bala dimutik jolae-jolae dek basial bia otin dek togap totod, jugan tudu bala dimutik kuasa surga bia bisuh ndu pirasie, nai odak bala dimutik jadin pimagah pasal pinyindi manusia bia pinyobab pangirinduk duoh bitamong daang dunia manusia, sak supaya bahaya opung biyuk salah sakak pod-pod musuap nundak jawak Boton Onu Kebenaran, dunia bilaom tih pod-pod jadin jawak, alam dotin tih pod-pod nyuwop jawak dunia roh, warna dek okon-okon pod-pod bisalot jadin ndi warna bia ayong pimudi pod-pod ma’ad tudu pritah Ingan dek bigoris. 
 Totap, Ingan leh dek Ogi Kuasa Ayuh, duoh dek Doras Manah!
 
 (Source category: Doa Ngudung/Bitapod/Bigupul)
 (Bahaiprayers.net ID: 11849)
+
+
 
 
 ### <a id="bpn11850"></a> Prayer bpn11850 in Bidayuh
@@ -443,6 +609,8 @@ O Topa, Topa ku! Koih dimutik ulunt-ulunt Ingan dek mbok biraduap dengan taat se
 (Bahaiprayers.net ID: 11850)
 
 
+
+
 ### <a id="bpn11851"></a> Prayer bpn11851 in Bidayuh
 *Nog samah tikuluk da’ang do’ont dek tulen, bia takal su’ud ngudung, nang leh doa tih:
 O Ingan Raja ndu Pritah Topa! Sungu polonk koih bigupul bisamah-samah datik, sungu wat inoh otin tikoyoe koih ngilayang odak pangirinduk Ingan, bia takal tih adin koih obuah pindah odak sokad lingieng jowin Ingan. Sungu lemah pun koih dimutik, koih kajon geh revelasi kekuatan duoh kuasa Ingan. Sungu botak pun koih dimutik sama ada paguh ato pun ja’at, totap mit koih pangikaya sok bolont Pritah Ingan. Ndi tiag pun koih dimutik, totap geh koih luwah nog sok laut tuluap Ingan. Abok dobu pun koih dimutik, totap geh koih bilingieng daang pimulia dek sukup puas otin Boton Onu Ingan.
@@ -450,6 +618,8 @@ O Ingan Pembekal koih! Tod pimuun tulung-batue Ingan, sak supaya tibilang polonk
 
 (Source category: Doa Ngudung/Bitapod/Bigupul)
 (Bahaiprayers.net ID: 11851)
+
+
 
 
 ### <a id="bpn11852"></a> Prayer bpn11852 in Bidayuh
@@ -465,6 +635,8 @@ Totap, Ingan leh dek Murah otin, dek Pirasie. Ingan leh Pemilik budi paling ayuh
 
 
 
+
+
 ## Doa Nyinung Nyabal
 
 ### <a id="bpn11888"></a> Prayer bpn11888 in Bidayuh
@@ -477,12 +649,16 @@ Pimuun, sibilin-eh, O Raja ku, tudu oku bia tudu bala kekasih ku, onik dek yak n
 (Bahaiprayers.net ID: 11888)
 
 
+
+
 ### <a id="bpn11889"></a> Prayer bpn11889 in Bidayuh
 Mudi Ingan, O Raja Topa ku! Itih ulunt Ingan nyaa dek mbok nuak sok tongan budi Ingan arak pirasie binulut Ingan, bia ngisap kaus pangirinduk Ingan daang onu-onu Ingan. Oku nguwai Ingan, pakai jungae timbul adon-adon Ingan doie nyaa dek sedih ponai nonant sok iyoh suwak doont daang pangirinduk Ingan ato yak dusah ningae jowin Ingan, jek sua nyaa dek jadin pinganyul bobal sak-eh doie manah kuasa yak odak tikokos sok olant pimoon Ingan, yak ngibokal iyoh pakai onik dek paguh dek ogi ndu Ingan, bia yak pakat pa’ad iyoh tudu dek muwae bigatung sak supaya iyoh dapod angap dunia tutuas sibamia dek dapod musuap laju sok ndi diap boton. 
 Nai odak iyoh selamat geh, O Topa ku, pakai kuasa keagungan dek dik-eh tikakod Ingan, sok sua dek sisil Ingan. Ingan leh, totap, Raja ndu iyoh duoh Raja ndu sua dunia.
 
 (Source category: Doa Nyinung Nyabal)
 (Bahaiprayers.net ID: 11889)
+
+
 
 
 ### <a id="bpn11890"></a> Prayer bpn11890 in Bidayuh
@@ -493,12 +669,16 @@ Nyikon odak selamat ulunt-ulunt Ingan bia dayung ulunt Ingan, O Raja ku, sok asu
 (Bahaiprayers.net ID: 11890)
 
 
+
+
 ### <a id="bpn11891"></a> Prayer bpn11891 in Bidayuh
 *(Ponu sositing topat)
 O Topa, Topa ku! Oku mbok luwah ponu sok boli ku, bikagient togap tudu tolint pangirinduk Ingan, duoh lagi oku mbok nyerah odop ku sepunuae-punuae tudu pangilaan Ingan duoh gadang Ingan. Oku nguwai Ingan pakai kuasa Ingan sok noh leh Ingan nyinung bala kekasih Ingan sok nyaa dek koras bia sok nyaa dek ngilangar atur, bia dek sok simun-mun pimuyuak dek suka bilawant, bia sok simun-mun nyaa dek nai pinyudang dimuno leh nyaa dek mbok osat juok sok Ingan, nai leh oku odak selamat pakai pingungin Ingan duoh budi Ingan. Nai odak oku, adin, dapod palik ki boli ku pakai kuasa Ingan duoh kekuatan Ingan. Ingan leh, sebonar-eh, dek Doras, dek ngin Pinulung daang Pinusah, dek Biginong Sadik.
 
 (Source category: Doa Nyinung Nyabal)
 (Bahaiprayers.net ID: 11891)
+
+
 
 
 ### <a id="bpn11892"></a> Prayer bpn11892 in Bidayuh
@@ -511,12 +691,16 @@ Doie kuasa dibokon maupun kekuatan jok eh daang Topa, dek Sukup Bigatung, dek Su
 (Bahaiprayers.net ID: 11892)
 
 
+
+
 ### <a id="bpn11893"></a> Prayer bpn11893 in Bidayuh
 Ingan leh dek Mulia, O Topa! Ingan leh Topa dek mbok ujud ndu depan sua onik, Nyaa dek yak ujud selopas sua onik bia dek yak nolee ngilobih sua onik. Ingan leh Topa dek pu’ant sua onik, bia dek paling ayuh daang sua onik. Ingan leh Topa dek ngosa dengan bait duwoh sua onik, Nyaa dek ngibotul diantara sua onik bia jadin Nyaa dek visi-eh ngalob sua onik. Ingan leh Topa Raja ku, Ingan leh dek ngoon wat kedudukan oku, Ingan leh dek jadin bukti tudu aang duoh sopak idipku. 
 Ngibonar leh apunt maaf Ingan tudu oku bia tudu dek bisayak dek nyawot Bogant Ingan. Ba leh Ingan jadin pinulung sukup tudu oku bilawant duwoh mala petaka osi sija dek biniyat toban pinusah tudu oku ato ingin odak oku monam. Totap, Ingan leh Raja tudu sua onik dek obuah motan. Ingan mbok nyukup tibilang polonk, doie ndi na’an dek ponai nyukup sadik odop-eh kumo doie Ingan.
 
 (Source category: Doa Nyinung Nyabal)
 (Bahaiprayers.net ID: 11893)
+
+
 
 
 ### <a id="bpn11894"></a> Prayer bpn11894 in Bidayuh
@@ -527,6 +711,8 @@ Dik-eh tingakod bigatung ayuh Ingan, O Raja! Nyinung nyabal koih sok onik dek og
 
 (Source category: Doa Nyinung Nyabal)
 (Bahaiprayers.net ID: 11894)
+
+
 
 
 
@@ -542,6 +728,8 @@ Pakai Kekuatan Ingan! Idoh dik ku sikien, bo’os ato ngooh, pak-eh onik dek has
 (Bahaiprayers.net ID: 11810)
 
 
+
+
 ### <a id="bpn11811"></a> Prayer bpn11811 in Bidayuh
 *(Doa Tuluap Ngalom)
 *	O nyaa de kalik pangibonar! Simo daang niat ingan sak Topa pod-pod buka boton ingan, ingan mesti mujok bito’os tudu Topa, bidoa tudu bia biubung duwoh Iyoh takal jojuab tuluap ngalom, nang ineh:
@@ -550,6 +738,8 @@ Totap, Ingan leh Tukang Ngin, dek Murah Otin, dek Pirasie, dek Pingapunt.
 
 (Source category: Doa Onu Singalom)
 (Bahaiprayers.net ID: 11811)
+
+
 
 
 
@@ -563,6 +753,8 @@ O Pangilaan Ilahi sua pinimul ogi tonga odak pingodak Ingan, mbak jaman donu bai
 (Bahaiprayers.net ID: 11769)
 
 
+
+
 ### <a id="bpn11770"></a> Prayer bpn11770 in Bidayuh
 Mudi Adon Ingan, O Raja Topa koih! Inganleh sibonar-eh dek Pu’ant sua-sua onik dek dik eh tonga. Notap sa’ant koih pangipaguh dimuno kidu-ung Ingan pu’ant nga-ki pangipu’ant dek pakuak Ingan. Ingan leh Raja dek bigagah, dek Ayuh Kuasa, Perinduk dek Sinunuh. 
 Sua pimudi tudu Ingan, O Raja Topa koih! Koih patut kalik budi Ingan daang Onu dek obuah nitah itih, bia patut nak sepunua punua sinongak da’ang Ingan, dek Jadin Raja koih. Mulia manah Ingan, O Topa! Ngin tudu koih mana mun dek paguh bia dek pod-pod odak koih dik tiyak bibagih duwoh sua dibokon pak eh Ingan. Totap, Ingan leh Raja tudu sua dunia.
@@ -574,11 +766,15 @@ Sobot leh, nang Topa kodae dek mbok diok nye pu’ant Jadin Pimanai tudu sua oni
 (Bahaiprayers.net ID: 11770)
 
 
+
+
 ### <a id="bpn11771"></a> Prayer bpn11771 in Bidayuh
 O Topa ku, Raja ku, Guru ku! Oku mbok misah odop ku duwoh nya’a dibokon bia mbok mitia sok Ingan odak biladik sok sua onik dek ogi ndu tanak duoh sedia terima onik dek tipuji daang boton Ingan. Ngin tudu oku mana mun dek paguh dek dapod odak oku biladik sok onik dibokon pak-eh Ingan, bia ngin duman de sukup sok pinulung Ingan dek doie silik-eh. Totap, Ingan leh Raja budi dek bogok manah.
 
 (Source category: Doa Pibatue Duoh Pinulung)
 (Bahaiprayers.net ID: 11771)
+
+
 
 
 ### <a id="bpn11877"></a> Prayer bpn11877 in Bidayuh
@@ -590,6 +786,8 @@ Oku mitia mujok Ingan odak ngapunt oku samah sikoda-eh bala nyaa dek rinduk tudu
 (Bahaiprayers.net ID: 11877)
 
 
+
+
 ### <a id="bpn11772"></a> Prayer bpn11772 in Bidayuh
 Raja! Todah wat koih, ngin tudu koih pinulung Ingan, botak, jugan tudu koih bagih dek sok laut pangikaya Ingan; sotok, Ingan kanuas leh koih; silatak, ngin tudu koih pimulia Ingan. Manuk manuk ndu a’au bia binatang ndu tolunt terima daging bilang konu sok Ingan, bia sua dek idip suwak ki’ant piduli bia turut perasie Ingan. 
 Mbak jaman nya’a dek budua tih budi ajaib Ingan bia pimurah otin dek sok kuasa Ingan ndu tunt jiwa dek doie otak daya tih pingungin Ingan.
@@ -597,6 +795,8 @@ Ngin tudu koih pinguman dek nudak onu, bia jugan keperluan idip pinyongah Ingan,
 
 (Source category: Doa Pibatue Duoh Pinulung)
 (Bahaiprayers.net ID: 11772)
+
+
 
 
 ### <a id="bpn11773"></a> Prayer bpn11773 in Bidayuh
@@ -607,6 +807,8 @@ O Ingan dek Penyukup, O Ingan dek Pingapunt! Ngin tudu koih budi Ingan bia rindu
 (Bahaiprayers.net ID: 11773)
 
 
+
+
 ### <a id="bpn11774"></a> Prayer bpn11774 in Bidayuh
 Mbak kadi, O Raja, ambar onu perami dek mbok obuah kapah daang  Adon Ingan, bia mbak mulae sidudue lapu dek mbok obuah tung pakai opui Ingan dek dik eh timulae. Mbak nobat pi’in pingidip paman nog sok Ingan dek simoyuak pakai ayong mulia Ingan duoh panginatong Ingan, bia mbak madog asong ulunt-ulunt Ingan yak kodok puate osiak wangi pangirinduk Ingan dek sidik.
 O Raja! Kibalui sisa sengsara bala onak kudus Ingan odak jadin sonang, susah payah iyoh tudu mo-on, O Ingan dek kagonk daang aguam Ingan onik dek ngasul manusia!
@@ -615,6 +817,8 @@ Ingan leh, totap, Nya’a dek Ndi, Sadik-Sadik, dek Doras, dek Paling Pu’ant, 
 
 (Source category: Doa Pibatue Duoh Pinulung)
 (Bahaiprayers.net ID: 11774)
+
+
 
 
 
@@ -629,11 +833,15 @@ Bikuasa leh Ingan mana wat dek suka Ingan. Doie Topa dibokon jok-eh Ingan, dek S
 (Bahaiprayers.net ID: 11832)
 
 
+
+
 ### <a id="bpn11833"></a> Prayer bpn11833 in Bidayuh
 Adon Ingan mbok jadin piminien ku, O Topa ku, bia panginatong ndu Ingan jadin pinawar ku. Bilinok tudu Ingan mok jadin pingarap ku, pangirinduk tilanan Ingan jadin ayua kabant ku. Pirasie Ingan tudu oku jadin piminien ku bia jadin pinoduh ndu oku daang sok duwoh dunya tih bia dunya dek yak nog. Ingan, totap, leh dek Paling-Pingungin, dek Paling-Pangipu’ant, dek Paling Bijaksana.
 
 (Source category: Doa Piminien)
 (Bahaiprayers.net ID: 11833)
+
+
 
 
 ### <a id="bpn11834"></a> Prayer bpn11834 in Bidayuh
@@ -645,6 +853,8 @@ Ingan leh, totap, dek Tukang Kadud, dek Paliara, dek Tukang Tulung, dek Bigagah,
 (Bahaiprayers.net ID: 11834)
 
 
+
+
 ### <a id="bpn11835"></a> Prayer bpn11835 in Bidayuh
 Mudi Ingan, O Raja Topa ku! Oku ngugai Ingan, pakai Adon Maha Agung Ingan sok inoh leh Ingan ogi pakat majak ulunt-ulunt Ingan bia pakat kajuag negara-negara Ingan, bia pakai gelar-gelar paling kona Ingan, bia sifat-sifat paling luhur Ingan, odak tulung rakyat Ingan tikos nuju nuwak pingungin muyah mogond Ingan, bia nak jowin-eh nuju Galang bijaksana Ingan. Ingan ngubat leh tiboie dek mbok nyorang jiwa-jiwa sok tibilang kawa, bia mbok ngibatang iyoh yak ningak tolonk-tolonk nuju Surga dek tokont da’ang gadang sibamia Adon Ingan, kodae dek mbok ogi Ingan nitah odak jadin Raja sua adon tudu sua nyaa dek ogi daang surga bia sua nyaa dek ogi ndu tanak. Ingan leh dek ngasi nai nunda suka Ingan. Daang tongan Ingan leh empayar sua-sua adon. Doie Topa dibokon pak-eh Ingan, dek Bigagah, dek Arif. 
 Oku tih pak-eh nyaa dek botak, O Raja ku; oku mbok bitabieng tudu piet pangikaya Ingan. Oku tih solut monam; Oku kagient togap tudu tolint piminien Ingan. Odak oku owas owas sok onam dek pilulung oku, bia mamiak oku bisig-bisig pakai pi’in budi Ingan duoh pirasie, bia pilaon oku pakai pakaian paguh kona, pakai sok apunt maaf Ingan duoh pingungin. Notap, adin, boton ku tudu Ingan, bia odak oku osant-boloh sok sua biramah duwoh dibokon jok-eh Odop Ingan. Batue oku odak nai onik dek ingin Ingan, bia nai sukup onik dek suka Ingan. 
@@ -652,6 +862,8 @@ Ingan leh sibonar Raja ndu pingidip tih bia dek dikan. Ingan leh, daang dek sibo
 
 (Source category: Doa Piminien)
 (Bahaiprayers.net ID: 11835)
+
+
 
 
 ### <a id="bpn11836"></a> Prayer bpn11836 in Bidayuh
@@ -667,6 +879,8 @@ Ingan, daang dek sibonar-eh, dek bigatung simomu sok sua dibokon jok-eh Odop Ing
 
 
 
+
+
 ## Doa Pimujul Agama
 
 ### <a id="bpn11878"></a> Prayer bpn11878 in Bidayuh
@@ -679,6 +893,8 @@ Ngasi leh Ingan nai mana wat dek suka Ingan. Ingan leh, totap, jadin Pinulung da
 (Bahaiprayers.net ID: 11878)
 
 
+
+
 ### <a id="bpn11879"></a> Prayer bpn11879 in Bidayuh
 Ingan leh dek mulia, O Raja, Ingan leh Nyaa dek toban odak idip sua onik dek obuah motan, pakai sok kuasa pingodak Ingan.
 O Raja! Tulung bala nyaa dek mbok supiah togant sua dibokon pak-eh Ingan, bia ngibonar bala kemenangan dek ayuh. Pimuun tudu bala, O Raja, padang topat bigupul malaikat-malaikat daang surga duoh tanak bia sua ndu auw, odak batue ulunt-ulunt Ingan, odak tulung sotok sandat duoh nogap bala, odak bala tungang so’ont kejayaan, odak naan magog bala, odak modung bala pakai pimulia, odak pisoh tudu bala kehormatan duoh bigatung tipaad, odak bala biotak bidaya bia nai odak bala bujur pakai pimujul dek ajaib. 
@@ -689,12 +905,16 @@ Ingan ngibonar negeh, O Raja, sak kadu otin iyoh, pakai biradat pimodo tudu itih
 (Bahaiprayers.net ID: 11879)
 
 
+
+
 ### <a id="bpn11880"></a> Prayer bpn11880 in Bidayuh
 O Raja! Ngidiya odak sogat tumue Tongon Kesatuan ilahi Ingan, nijuah mei tiyak, O Raja, pakai soyuak pi’in paguh moon Ingan, bia odak iyoh, ndu depan revelasi keyakinan ilahi Ingan, odak piluwah buak kodae dek obuah niat sa’ant kemegahan Ingan duoh ayuh bigatung, pimudi Ingan duoh rasa terima kasih, bia bilagah Adon Ingan, odak mudi pinyindik Sijati Ingan duoh odak sanggup ngin muja ndu Ingan, setegal sua dimutik bitangak ndu daang aguam Ingan bia dek daang eh noh doie dibokon. 
 Ayuh manah leh berkat ndu odop-eh dimuno dek doyak eh Ingan mbok pilih pakai ngan-eh mamuh Tongon pengesahan Ingan, jek sijurus noh ngan-eh pakat pingudus Ingan duoh Bangsina dek dik-eh birubah.
 
 (Source category: Doa Pimujul Agama)
 (Bahaiprayers.net ID: 11880)
+
+
 
 
 ### <a id="bpn11881"></a> Prayer bpn11881 in Bidayuh
@@ -706,12 +926,16 @@ Totap, Ingan leh Raja koih bia Raja ndu sua onik. Ndu daang tongan Ingan sok koi
 (Bahaiprayers.net ID: 11881)
 
 
+
+
 ### <a id="bpn11882"></a> Prayer bpn11882 in Bidayuh
 O Raja! Odak sua manusia ndu dunia tungang so’ont pimolot ndu daang Surga Agama Ingan, sak kadu doie pimotan dek ogi idip ge aluae supiah nuwak dek osat sok pinuju paguh moon Ingan. 
 Mbok sok no’uh eh geh Ingan mbok jadin ngasi nai mana wat dek suka Ingan bia dek lu’ad lobih kisomu ndu oni sija dek ingin Ingan.
 
 (Source category: Doa Pimujul Agama)
 (Bahaiprayers.net ID: 11882)
+
+
 
 
 
@@ -724,6 +948,8 @@ O Ingan Nyaa dek ngin pinguji jadin ubat piminien tudu sikoda-eh nyaa dek sinok 
 (Bahaiprayers.net ID: 11875)
 
 
+
+
 ### <a id="bpn11876"></a> Prayer bpn11876 in Bidayuh
 Mulia manah Ingan, O Raja Topa ku! Setiap manusia dek ngiloti tuluap ngaku Kedaulatan Ingan duoh pritah raja Ingan, bia setiap boton lojak tiluti sukup ayuh keagungan Ingan bia kuasa nyogat gagah Ingan. Sobak pinguji mbok doie kuasa yak naan odak tipalik bala dek mbok munuas bilinok tudu Ingan sok bala yak suual jowin-eh nuju talis pimulia Ingan, bia ribut sorab manusia pasti gagal toban buu bia atam jaman sikoda-eh dek punua setia tudu pinyuka Ingan sok-eh yak bipodual odi ndu tipalunk Ingan. 
 Dek saai-saai ku, lapu pangirinduk Ingan mbok bidudue daang otin bala, bia towa bait otin Ingan bijiliab daang sodua bala. Sidap mala totap dik eh tungang yak pilongang bala sok Agama Ingan, bia bitukar birubah pun nasib sekalik dik-eh ponai odak bala yak osat sok pimoon Ingan. 
@@ -731,6 +957,8 @@ Oku nguwai Ingan, O Topa ku, pakai sok bala duoh pakai sok ngaduoh dek obuah sob
 
 (Source category: Doa Pinguji Duoh Kilapont)
 (Bahaiprayers.net ID: 11876)
+
+
 
 
 
@@ -745,6 +973,8 @@ Duwoh del piobuak-eh tih, oku bonar-bonar mitia Ingan pakai jawak rupa Ingan ngi
 (Bahaiprayers.net ID: 11804)
 
 
+
+
 ### <a id="bpn11805"></a> Prayer bpn11805 in Bidayuh
 O Topa ku, Guru ku, Topat tujuan niat ku! Itih, ulunt Ingan, kalik yak bo’os daang gadang pirasie Ingan, bia yak ngilonah ndu ribuak adung budi Ingan, ngugai kingat bia sinung sabal Ingan. 
 Oku mitia bo’ow lagi Ingan, O Raja ku, pakai boton Ingan dek dik-eh bo’os odak jaga botonku sok iyoh yak ningak dibokon luar sok Ingan. Nogap, adin, pingiduang-eh sak iyoh piluh tanda-tanda Ingan bia ningak talis revelasi Ingan. Ingan leh Iyoh dek siluang revelasi Nyaa dek ogi kuasa ayuh daang saripati kuasa mbok timudab.
@@ -754,11 +984,15 @@ Doie Topa dibokon pak-eh Ingan, dek Doras, dek Paling Pijajah, dek Doie Syarat.
 (Bahaiprayers.net ID: 11805)
 
 
+
+
 ### <a id="bpn11806"></a> Prayer bpn11806 in Bidayuh
 Ogi keh Pinulak pinusah dibokon luar sok Topa? Sobot: Tipuji leh Topa! Iyoh leh Topa! Dek sua-sua-eh ulunt Topa, bia dek sua-sua eh patoh tudu pingodak Iyoh!
 
 (Source category: Doa Pinulung Daang Pinguji)
 (Bahaiprayers.net ID: 11806)
+
+
 
 
 ### <a id="bpn11807"></a> Prayer bpn11807 in Bidayuh
@@ -768,6 +1002,8 @@ Sobot leh nang: Topa nyukup sua onik ngilobih sua onik bia doie dek daang surga 
 (Bahaiprayers.net ID: 11807)
 
 
+
+
 ### <a id="bpn11808"></a> Prayer bpn11808 in Bidayuh
 Oku mitia Ingan pakai kekuatan Ingan, O Topa ku! Mbak odak pangirusak kapunk oku daang masa pingungin, bia daang takal ngolok ngotag sakak ku tongont tongont pakai sok pimajak Ingan. Ingan leh Topa, Ingan dek ngasi nai nunda dek suka Ingan. Doie osi-osi dek tungang naan pingodak Ingan ato mapaq Tujuan Ingan.
 
@@ -775,11 +1011,15 @@ Oku mitia Ingan pakai kekuatan Ingan, O Topa ku! Mbak odak pangirusak kapunk oku
 (Bahaiprayers.net ID: 11808)
 
 
+
+
 ### <a id="bpn11809"></a> Prayer bpn11809 in Bidayuh
 O Raja! Ingan leh Pinulak setiap sisa-sengsara bia Tukang Kayap ulid ngopok. Ingan leh Nyaa dek ngisuk kadi setiap duka lara bia pilopus setiap kuli batak, Pinubuas setiap jiwa. O Raja! Ngibonar penyelamat pakai sok pirasie Ingan, bia ngibilang oku antara ulunt ulunt Ingan dimuno dek mbok terima pinulung Ingan.
 
 (Source category: Doa Pinulung Daang Pinguji)
 (Bahaiprayers.net ID: 11809)
+
+
 
 
 
@@ -792,11 +1032,15 @@ Itih leh, O Topa ku, siluang onu-onu takal Ingan mbok tanon odak bala-bala pirin
 (Bahaiprayers.net ID: 11909)
 
 
+
+
 ### <a id="bpn11910"></a> Prayer bpn11910 in Bidayuh
 Daang Adon Iyoh Nyaa dek mbok obuah janji daang Buk-Buk Topa, dek Pangipuant, dek Selalu Puant! Onu-onu puasa mbok ogi nog dano leh sok bala ulunt dek pilulung perintah Ingan bia dek mbok ogi ninga pimonog Ingan mbok nai puasa. Sobot leh nang: O Topa tudu sua adon bia dek jadin pimotan longit duoh tanak! Oku mitia masie pakai Adon Ingan, dek Paling Ayuh, odak terima puasa bala dimuno dek mbok nai puasa setegal rindu tudu Ingan bia madas setegal paguh moon Ingan bia nai tanggungjawab-eh ndu onik dek mbok nitah Ingan tudu bala dimuno nunda daang Buk-Buk duoh Loh-Loh Ingan. Oku ngugai Ingan pakai sok bala dimuno odak tulung oku pakat pimaju Toga Ingan bia nai odak oku togap daang pangirindu Ingan, sak pimonu ku dik-eh yak bidasual ndu daluag kaie sa-ut manusia Ingan. Totap, Ingan leh dek bikuasa ndu oni sija dek la’ant Ingan. Doie Topa dibokon pak-eh Ingan, dek Bidudus, dek Paling Bikuasa, dek Selalu Ngin dek Bina’in daang sua Joja Dunya.
 
 (Source category: Doa Puasa)
 (Bahaiprayers.net ID: 11910)
+
+
 
 
 ### <a id="bpn11911"></a> Prayer bpn11911 in Bidayuh
@@ -806,6 +1050,8 @@ Ngin pimudi tudu Ingan, O Topa Raja ku! Koih mbok mit-nai Puasa sambil biturut d
 (Bahaiprayers.net ID: 11911)
 
 
+
+
 ### <a id="bpn11912"></a> Prayer bpn11912 in Bidayuh
 Topa Ku Guru Ku! Ingan ninga oku diantara manusia Ingan dek mbok lawant duoh ngibowant Ingan. Setiap kali oku jemput bala dimuno odi tudu laut ilmu Ingan, pinyakal ndu Toga Ingan bitambah duoh lagi bala dimuno ngubia Topat Pinusak Wasiat Ingan bitambah ngogas. Oku mujok bito’os ndu Ingan, O Topa, pakai sok bala dek mbok nai puasa setegal rindu ndu Ingan bia dek mbok niguk pi’in pingidip biturut sok tongan-tongan pingungin Ingan, odak nitah sa’ant bala pirindu Ingan, bala noh leh dek ogi ndu ribuae sidudue boton onu pinguji Ingan mbok bikagient tudu tolin bisabar, sua pangipaguh duda Ingan daang Buk-Buk bia Loh-Loh Ingan. Nulis, adin geh sa’ant bala dek sisa pikir sisa polonk dek duwoh pinusah setegal adon Ingan. Pimuun leh, bia lagi tudu bala, O Raja, onik dek yak kanuas otin bala dimuno muwas boton bala dimuno, bia pirami jiwa bala dimuno. Ingan leh, sibonar-eh dek Paling Doras, dek Paling Bigatung, Jadin Pinulung daang Pinusah, dek Selalu Puant, dek Paling Ponai.
 
@@ -813,11 +1059,15 @@ Topa Ku Guru Ku! Ingan ninga oku diantara manusia Ingan dek mbok lawant duoh ngi
 (Bahaiprayers.net ID: 11912)
 
 
+
+
 ### <a id="bpn11913"></a> Prayer bpn11913 in Bidayuh
 Ngin pimudi tudu Ingan, O Topa, Topa ku! Takal onu-onu dimutik leh Ingan mbok ngin tudu bala tipilih Ingan, bala pirindu Ingan bia ulunt-ulunt Ingan odak mit-nai Puasa, bala dek mbok nai Ingan odak jadin nikan sokad jawak tudu manusia daang perintah Ingan, lagi pun Ingan mbok ogi nai semayang wajib nikan tunguah pima’ad sa’ant bala-bala dek mit puant pinyidi Ingan. Oku mujok bito’os tudu Ingan O Topa Ku, pakai soduwoh tiang dek bikuasa tih, dek mbok nitah Ingan odak jadin pimulia duoh bipakat saant sua manusia, ngan eh odak agama Ingan selamat sok petaka dek dik-eh paguh bia sok sipokat simun-mun nyaa dek biniat jaat. O Raja, mbak suwant jawak dek mbok ngulia Ingan Pakai dek sok kekuatan Ingan bia kuasa dek kakue Ingan. Tulung leh adin, bala dimuno dek bonar-bonar bisayae daang Ingan pakai pinokont-pinokont dek tonga bia dek dik-eh tonga pakai sok atur Ingan bia kuasa ngasi Ingan. Doie Topa dibokon pak-eh Ingan, dek Bikuasa, dek Paling Doras.
 
 (Source category: Doa Puasa)
 (Bahaiprayers.net ID: 11913)
+
+
 
 
 
@@ -832,6 +1082,8 @@ Ngin berkat tudu oku, O Topa ku, bia bala dimuno mbok bisayak daang tanda-tanda 
 (Bahaiprayers.net ID: 11812)
 
 
+
+
 ### <a id="bpn11813"></a> Prayer bpn11813 in Bidayuh
 Oku ngugai pingapunt Ingan, O Topa ku, bia mitia maaf tudu wat ulah gaya dek ingin Ingan tudu ulunt-ulunt Ingan ngan iyoh tanon odop-eh tudu Ingan. Oku ngugai Ingan odak mamiak ngisuk dosa-dosa koih samah timosok duwoh pritah Raja Ingan, bia ngapunt oku, pingoma-pingoma ku, bia osi sija nyaa dek fikir Ingan nang mbok molot boli pangirinduk Ingan daang ulah gaya dek layak daang kuasa ayuh Ingan bia dek dapod obuah terima ndu kuasa pingudus Ingan dek tipuji. 
 O Topa ku! Ingan mbok majak jiwa ku odak buka nai pimujok tudu Ingan, bia mo dik eh setegal Ingan, idoh dik ku mogan Ingan. Tipuji duoh mulia leh Ingan, oku serah tudu Ingan pimudi kiduung Ingan mbok ogi bitanga Odop Ingan tudu oku, bia oku ngugai Ingan odak ngapunt oku, diyok sok kanok geh oku gagal daang tanggungjawab ku pu’ant Ingan bia mbok gagal ponu daang olant pangirinduk Ingan.
@@ -840,11 +1092,15 @@ O Topa ku! Ingan mbok majak jiwa ku odak buka nai pimujok tudu Ingan, bia mo dik
 (Bahaiprayers.net ID: 11813)
 
 
+
+
 ### <a id="bpn11814"></a> Prayer bpn11814 in Bidayuh
 O Raja! Daang Dispensasi Paling Agung tih Ingan ogi terima doa wakil sok onak bagi pihak pingoma-eh. Itih leh nikan pangipisoh ngasal dek istimewa Dispensasi tih. Ngan-eh mbok wat inoh, O Ingan Raja dek tulut, terima leh pimitia ulunt Ingan itih ndu pinutuab Ingan dek sadik bia suluam leh samak-eh daang laut budi Ingan, setegal dali tih mbok jogia ngin tudu Ingan khidmat bia mbok bisusah payah nai usaha setiap masa daang olant pangirinduk Ingan. Totap, Ingan leh dek Tukang Ngin, dek Pingapunt duoh dek Tulut.
 
 (Source category: Doa Rawang)
 (Bahaiprayers.net ID: 11814)
+
+
 
 
 ### <a id="bpn11815"></a> Prayer bpn11815 in Bidayuh
@@ -859,6 +1115,8 @@ Totap, Ingan leh dek Biloga, dek Selalu-Pangipisoh, Tongan dek Tibukak.
 (Bahaiprayers.net ID: 11815)
 
 
+
+
 ### <a id="bpn11816"></a> Prayer bpn11816 in Bidayuh
 *(Doa Dayung dek Bitiyiek)
 Raja ku! Raja ku! Oku mudi Ingan duoh lagi oku ngin terima kasih tudu Ingan lugant Ingan mbok nyukong dayung ulunt Ingan dek pidouk odop-eh, kuli Ingan nguwai bia mujok Ingan, setegal Ingan mbok totap ngotag iyoh tudu Pritah Topa Ingan dek nyata bia odak iyoh kilingah Bogant bigatung Ingan daang dunia ta-ae-modo bia odak kilint tanda-tanda Ingan dek jadin bukti bitanga pengaruh kejayaan Ingan ndu tunt sua onik.
@@ -866,6 +1124,8 @@ O Raja ku, oku nyerah onik dek ogi daang to’in ku tudu Ingan. Mokua noh nai od
 
 (Source category: Doa Rawang)
 (Bahaiprayers.net ID: 11816)
+
+
 
 
 
@@ -880,6 +1140,8 @@ O Topa! Amerika tih Negara dek patut terima pingodah bia dek patut terima pirasi
 
 
 
+
+
 ## Doa Sa’ant Boli
 
 ### <a id="bpn11902"></a> Prayer bpn11902 in Bidayuh
@@ -891,6 +1153,8 @@ Totap Iyoh leh dek suka Ngojit, dek Tukang Jawab, Iyoh leh Nyaa dek ngiloti sua 
 (Bahaiprayers.net ID: 11902)
 
 
+
+
 ### <a id="bpn11899"></a> Prayer bpn11899 in Bidayuh
 O Topa ku! Odak negeh soyuak pingungin Ingan bia berkat muun ndu boli senada bala dimuno dek mbok dokuap Agama Ingan, jadin nikan pingodak budi Ingan bia jadin tanda rindu tulut dek sok pimonog Ingan. Totap Ingan leh dek dik kangan kangan ngibonar apunt maaf. Harus keh Ingan naan pingungin Ingan sok simun mun nyaa, oni ngopak iyoh dek obuah milak-miliae diantara pengikut-pengikut Agama daang Onu Ingan?
 
@@ -900,11 +1164,15 @@ Nai odak oku kudus, O Topa ku, bia bala dibokon dek yak bisayak daang tanda-tand
 (Bahaiprayers.net ID: 11899)
 
 
+
+
 ### <a id="bpn11900"></a> Prayer bpn11900 in Bidayuh
 Oku nguwai Topa sak dengan sudi nai odak boli mu jadin pusat bisorap jawak pingulu Kudus, jadin pikambang Kalimat Topa bia pimasang setiap masa opui pongirinduk daang otin ulunt-ulunt dali-dayung setia iyoh. Muu mbok pu’ant dengan pasti nang setiap boli daang eh noh gayai lagu pimudi obuah pakat tudu Printah Pimulia takal ngan eh ngaluh Adon Topa sememang-eh boli dek kudus bia jadin nikan kobon pimunuas dek tutuas Surga Topa.
 
 (Source category: Doa Sa’ant Boli)
 (Bahaiprayers.net ID: 11900)
+
+
 
 
 ### <a id="bpn11901"></a> Prayer bpn11901 in Bidayuh
@@ -928,12 +1196,16 @@ nye cinta nyaa dibokon.
 (Bahaiprayers.net ID: 11901)
 
 
+
+
 ### <a id="bpn11903"></a> Prayer bpn11903 in Bidayuh
 Tudu Ingan O Topa, dengan khas koih nyerah boli tih. Kisig boli tih sok sua onik dek bilikias tudu Ingan sak boli tih layak obuah trimak odak Ingan bia dingan-dingan bia nyaa dek saluh-saluh tutuas nyam odop koih, jadin nikan topat, dek bitu’uap sok pahaman harta, Ingan ngisie leh O Topa boli koih pakai pinoduh duoh pongirami, pakai towoh tojit duoh pimoon, pakai gonggab kasih sayang bia pimunuas dek tilesek punuae, supaya daang pundue otin koih pongirinduk ogi topat ngilonah bia Odop Ingan siniri dapod odak boli tih jadin boli Odop Ingan. 
 Topa, Ingan nai odak boli koih tih kobon dek sidie, nikan topat asak pongirinduk, danoe leh sok kuasa-kuasa timolam otin koih obuah buka, kombang duoh piluwah buae-buae pimunuas dek nolee.
 
 (Source category: Doa Sa’ant Boli)
 (Bahaiprayers.net ID: 11903)
+
+
 
 
 
@@ -948,6 +1220,8 @@ Dek sua-sua-eh pak-eh botak duoh sotok, jek Ingan, totap, dek Paling Birada, dek
 (Bahaiprayers.net ID: 11837)
 
 
+
+
 ### <a id="bpn11838"></a> Prayer bpn11838 in Bidayuh
 O Ingan Raja dek pinubuas, Ingan leh Nyaa dek murah otin duoh tungang! Koih dimutik ulunt-ulunt Ingan ngilukuh ndu ribua pangilaan Ingan. Tatol diyok pingodah Ingan tudu koih. Ngin sokad jawak tudu boton koih, kojit gilinging tudu koih, duoh lagi ngiloti bia pangirinduk tudu otin koih. Nai odak jiwa koih rami duoh sonang pakai sok berita pimoon Ingan. O Raja! Tijuk tanon tudu koih olant pimonu pritah Ingan bia palik asong sua koih pakai asong Roh Kudus. Kurnia tudu koih pingidip nolee bia pisoh tudu koih loga jiwa dek di-eh mungan. Sapul nguluk manusia duoh pijawak dunia manusia. Sak kadu koih dek sua-sua nunda olant pimonu Ingan, gili’ient setegal paguh moon Ingan bia kalik rahsia pritah Ingan. O Topa! Nyatu koih bia tatum otin koih pakai bokos Ingan dek di-eh tuduak. Totap, Ingan leh dek Tukang Ngin, Ingan leh Nyaa dek Tulut bia Ingan leh dek Bigagah.
 
@@ -955,11 +1229,15 @@ O Ingan Raja dek pinubuas, Ingan leh Nyaa dek murah otin duoh tungang! Koih dimu
 (Bahaiprayers.net ID: 11838)
 
 
+
+
 ### <a id="bpn11839"></a> Prayer bpn11839 in Bidayuh
 O Ingan Raja dek tulut! O Ingan Nyaa dek murah otin duoh masik! Koih dimutik ulunt-ulunt pinutuab Ingan bia tikuluk ndu ribuak adung gadang kesatuan ilahi Ingan. Boton onu pirasie Ingan mbok nyokab tunt dek sua-sua, bia abunt pirasie Ingan mbok nyabui dek sua-sua. Hadiah-hadiah Ingan mbok pilulung dek sua-sua, pingodah rinduk Ingan nyongan dek sua-sua, pangirawan Ingan mbok nyokuab dek sua-sua, sipiak pingodah Ingan obuah tatol tudu dek sua-sua. O Raja! Ngibonar pangipisoh dek doie silik, bia odak negeh pangijawak pingotag Ingan nyokab. Pijawak boton, nai odak otin doon pakai pimunuas dek nolee. Pisoh semangat ba’uh tudu sua nyaa bia kurnia tudu bala dimuno pingidip nogond. Bukak sinung pemahaman sibonar bia odak negeh pangijawak keimanan ngokab bikilap. Ngupul sua nyaa ndu ribuak adung pingungin Ingan bia odak leh iyoh tikuluk daang bitamonk, sak kadu iyoh dapod kodae sokad boton onu dek ndi, koda gelumbang laut dek ndi, bia koda buak sok ndi tongon. Sak kadu iyoh nuak sok tobol pi’in dek samah. Sak kadu iyoh obuah kadud pakai obus sobak dek samah. Sak kadu iyoh terima lingieng sok pangijawak dek samah. Ingan leh dek Tukang Ngin, dek Pirasie, dek Ogi Kuasa Ayuh.
 
 (Source category: Doa Sa’ant Manusia)
 (Bahaiprayers.net ID: 11839)
+
+
 
 
 ### <a id="bpn11840"></a> Prayer bpn11840 in Bidayuh
@@ -973,6 +1251,8 @@ Ingan leh dek Bigagah duoh dek Bikuasa, Ingan leh dek Pingapunt duoh lagi Ingan 
 
 (Source category: Doa Sa’ant Manusia)
 (Bahaiprayers.net ID: 11840)
+
+
 
 
 
@@ -994,6 +1274,8 @@ Doie Topa dibokon pak-eh Ingan, dek Ndi, dek Sadik-Sadik, dek Bikuasa, dek Pu’
 (Bahaiprayers.net ID: 11789)
 
 
+
+
 ### <a id="bpn11790"></a> Prayer bpn11790 in Bidayuh
 Ngin Pimudi tudu Ingan, O Raja Topa ku! Mbak nadah iyoh nya’a dek mbok pa’ad Ingan pakai kuasa kedaulatan nolee Ingan, bia mbak kadi odak juok sok Ingan iyoh dek mbok nai Ingan odak molot ki balai noggond Ingan. Yak pibuu Ingan keh, O Topa ku, iyoh dek ngadung ndu ribuak Kuasa Pritah Ingan, bia iyoh keh dek yak buu Ingan toggant, O Harapan ku, iyoh leh dek mbok pernah ngilukuh ndu Ingan? Idoh dik Ingan yak ponai pilabuk iyoh tih dek pernah Ingan pakat, ato yak komut iyoh dek ogi Ingan odak tungang natong Ingan? 
 Mulia, sukup-sukup mulia-eh Ingan! Ingan leh Nyaa dek sok no’uh eh mbok jadin Raja tudu dek ogi idip nog adin bia jadin Piayuh Gotak, bia Ingan leh dek jadin sok no’uh adu adu nog adin jadin Raja ndu sua onik dek obuah nai duoh jadin Pinitah ndu onik dimunok. Mulia manah leh Ingan, O Topa ku! Simo Ingan kangan jadin pimasie tudu ulunt ulunt Ingan, osi lagi, adin, dek la’ant masie tudu iyoh, bia simo Ingan doliak yak tulung perinduk-perinduk Ingan, osi lagi dek ogi dapod tulung iyoh?
@@ -1001,6 +1283,8 @@ Mulia, sukup sukup Mulia-eh Ingan! Ingan leh dek obuah hormat daang pangibonar I
 
 (Source category: Doa Sa’ant Nya’a Dek Kobos)
 (Bahaiprayers.net ID: 11790)
+
+
 
 
 ### <a id="bpn11795"></a> Prayer bpn11795 in Bidayuh
@@ -1030,12 +1314,16 @@ Sua koih, totap, mbok sabar daang Topa (19x)
 (Bahaiprayers.net ID: 11795)
 
 
+
+
 ### <a id="bpn11791"></a> Prayer bpn11791 in Bidayuh
 O Topa ku! O Ingan dek apunt sua salah, dek pisoh hadiah, dek kadi pinusah! Totap, Oku nguwai Ingan odak ngapunt sua salah iyoh dek mbok supiah dunia dotin duoh ma’ad tudu dunia roh. 
 O Raja ku! Kisig iyoh sok salah biyuk, odak iyoh tikadi sok onik dek odak iyoh susah, bia nukar mopung pipiat iyoh tudu jawak. Nai odak iyoh pakai pi’in dek paling bisig, bia ngibonar iyoh odak ninga timogah ayuh Ingan ndu bung dorod dek bigatung omu.
 
 (Source category: Doa Sa’ant Nya’a Dek Kobos)
 (Bahaiprayers.net ID: 11791)
+
+
 
 
 ### <a id="bpn11792"></a> Prayer bpn11792 in Bidayuh
@@ -1046,11 +1334,15 @@ O Topa, odak roh iyoh bisig, duoh kadi segala pinusah, duoh ngulu iyoh pakai ola
 (Bahaiprayers.net ID: 11792)
 
 
+
+
 ### <a id="bpn11793"></a> Prayer bpn11793 in Bidayuh
 O Ingan Raja dek Pingapunt! Sungu pun ogi jiwa-jiwa dek mbok pakai masa selama idip iyoh idip daang jahil, duoh jadin longang bia biladik, masih geh, samah-samah daang ndi gilumang sok laut pingapunt Ingan, sua odop-eh dek obuah ngilokuab odak dosa dapod obuah pilopas. Osi mun sija Ingan la’ant Ingan ngin amanah, bia osi mun sija de dik eh jadin soto pilihan Ingan mit kira dek ngilangar janji. Nyam tadah Ingan bijanji duwoh koih pasal keadilan Ingan, koih dek sua-sua eh pak-eh nyaa dek bidosa bia patut obuah kuab sok Ingan, pak-eh nyam tadah Ingan bela pirasie, setiap nyaa dek bidosa patut nai odak kudus duoh setiap dek saluh ba’uh jadin dingan. Jugan leh, tiyak apunt duoh maaf Ingan, bia ngibonar pirasie Ingan tudu dek sua-sua. Ingan leh dek Pingapunt, dek Pijawak bia dek Ogi Kuasa Ayuh.
 
 (Source category: Doa Sa’ant Nya’a Dek Kobos)
 (Bahaiprayers.net ID: 11793)
+
+
 
 
 ### <a id="bpn11794"></a> Prayer bpn11794 in Bidayuh
@@ -1064,6 +1356,8 @@ Totap, Ingan leh dek Murah Otin, dek Bikuasa, dek Pingapunt bia dek Pangipisoh.
 
 
 
+
+
 ## Doa Sa’ant Onak Opot Duoh Bujang Donak
 
 ### <a id="bpn11775"></a> Prayer bpn11775 in Bidayuh
@@ -1074,12 +1368,16 @@ Ingan dek Tipuji, O Perinduk ku dek Paling Konae, nyabui tunt iyoh osiak sidik p
 (Bahaiprayers.net ID: 11775)
 
 
+
+
 ### <a id="bpn11776"></a> Prayer bpn11776 in Bidayuh
 (Onak kuwek)
 O Ingan Raja dek doie banding! Odak negeh kuwek dek nyiduak tih obuah siduak sok sisunt rinduk-pirasie Ingan, jaga leh iyoh daang pakuak adag pangilamat Ingan bia ngibonar iyoh sak obuah angan daang pidokuap somon kasih Ingan.
 
 (Source category: Doa Sa’ant Onak Opot Duoh Bujang Donak)
 (Bahaiprayers.net ID: 11776)
+
+
 
 
 ### <a id="bpn11777"></a> Prayer bpn11777 in Bidayuh
@@ -1089,6 +1387,8 @@ O Topa! Nggan onak kuwek tih daang otin-otin pangirinduk Ingan, bia ngin susu so
 (Bahaiprayers.net ID: 11777)
 
 
+
+
 ### <a id="bpn11778"></a> Prayer bpn11778 in Bidayuh
 O Topa! Ngajar onak opot dimutik. Kabant onak opot dimutik yoh leh uwuong tongont okid Ingan, uwuong bunga padang Ingan, uwuang ros toyak Ingan. Odak negeh ijan Ingan nijuah tunt odop-eh dimutik; odak negeh Boton Onu Sejati jawak tunt odop-eh dimutik pakai pangirinduk Ingan. Odak negeh abunt kadud iyoh dimutik sak supaya onak opot dimutik obuah mateh, tumue duoh maju, bia mokat biulah sangon-moson. Ingan leh Nyaa dek Ngin, Ingan leh dek Pinubuas.
 
@@ -1096,11 +1396,15 @@ O Topa! Ngajar onak opot dimutik. Kabant onak opot dimutik yoh leh uwuong tongon
 (Bahaiprayers.net ID: 11778)
 
 
+
+
 ### <a id="bpn11779"></a> Prayer bpn11779 in Bidayuh
 O Ingan Raja dek tulut! Onak-onak pa’tuh dimutik yoh leh kroja bitik tilinyuk Ingan dek doras bia tanda ajaib keagungan Ingan. O Topa! Nyinung – nyabal onak opot dimutik, dengan sudi ngimam iyoh odak bilajar- ponai bia dapod odak iyoh ngin khidmat tudu dunia manusia. O Topa! Onak opot dimutik mutiara – mutiara, odak leh iyoh ponai obuah bitai-ngilaan daang lodieng rinduk binulut Ingan. Ingan leh dek Pingungin, dek Paling Rinduk.
 
 (Source category: Doa Sa’ant Onak Opot Duoh Bujang Donak)
 (Bahaiprayers.net ID: 11779)
+
+
 
 
 ### <a id="bpn11780"></a> Prayer bpn11780 in Bidayuh
@@ -1112,6 +1416,8 @@ Ingan leh dek bikuasa, dek paling rinduk.
 (Bahaiprayers.net ID: 11780)
 
 
+
+
 ### <a id="bpn11781"></a> Prayer bpn11781 in Bidayuh
 Iyoh leh Topa! O Topa Topa ku! Jugan tudu oku otin dek tolen, dek tutuas ndi kiluwang mutiara.
 
@@ -1119,11 +1425,15 @@ Iyoh leh Topa! O Topa Topa ku! Jugan tudu oku otin dek tolen, dek tutuas ndi kil
 (Bahaiprayers.net ID: 11781)
 
 
+
+
 ### <a id="bpn11782"></a> Prayer bpn11782 in Bidayuh
 O Topa, ngotag oku, nyinung nyabal oku, nai oku jadin lapu dek bidudue bia jadin bitang dek bikilat bilingieng. Ingan leh dek Doras duoh dek Bikuasa.
 
 (Source category: Doa Sa’ant Onak Opot Duoh Bujang Donak)
 (Bahaiprayers.net ID: 11782)
+
+
 
 
 ### <a id="bpn11783"></a> Prayer bpn11783 in Bidayuh
@@ -1134,6 +1444,8 @@ Totap, Ingan leh dek Bikuasa, dek Doras, dek Kilint, dek Kilingah.
 (Bahaiprayers.net ID: 11783)
 
 
+
+
 ### <a id="bpn11784"></a> Prayer bpn11784 in Bidayuh
 O Raja dek doie banding-eh! Ba..syi Ingan jadin gadang sa’ant onak opot dek sotok tih bia dek tulut bia Guru dek pingapunt tudu jiwa dek taeng-taeng bia dek birusah tih. O Raja! Sungu koih dimutik pak-eh pimuluah dek dik eh biloti, masih geh koih bipulih tudu toyak ros Ingan. Sungu koih dimutik onak tongon olae dek doie dowon duoh suwat, masih geh koih sebahagian dek sok orkid Ingan. Kidip leh pimuluah tih tiyak pakai tatieg pi’in abunt tulut pirasie Ingan bia pakat duoh kadud onak tongon olae tih pakai asong idip musim bunga rohani Ingan. Nusah iyoh odak jadin pakit, cerdik, pulih dek mulia, bia ngibonar odak iyoh pod-pod so’ont idip nolee duoh patuh daang pritah Topa adu-adu.
 
@@ -1141,11 +1453,15 @@ O Raja dek doie banding-eh! Ba..syi Ingan jadin gadang sa’ant onak opot dek so
 (Bahaiprayers.net ID: 11784)
 
 
+
+
 ### <a id="bpn11785"></a> Prayer bpn11785 in Bidayuh
 O Raja! Nai bujang donak tih, bia pisoh tudu manusia sotok tih pingungin Ingan. Jugan tudu iyoh pangipu’ant, ngibonar iyoh tenaga lobih takal ketika setiap pagi bia jaga iyoh daang gadang pangirawan Ingan sak iyoh dapod buu sok silap, ngulunt odop-eh tudu khidmat Agama Ingan, ngotag nyaa dek koras, ngubak nyaa dek malang, pilopas nyaa dek obuah naan duoh pingaoh nyaa dek ngolok, sak sua-sua nyaa pod-pod obuah ngin berkat pakai panginatong bia pimudi Ingan. Ingan leh dek Doras duoh dek Bikuasa.
 
 (Source category: Doa Sa’ant Onak Opot Duoh Bujang Donak)
 (Bahaiprayers.net ID: 11785)
+
+
 
 
 
@@ -1158,6 +1474,8 @@ O Topa, Topa ku! Oku ngugai Ingan pakai doyak bala perinduk sejati Ingan dek sek
 (Bahaiprayers.net ID: 11786)
 
 
+
+
 ### <a id="bpn11787"></a> Prayer bpn11787 in Bidayuh
 Oku mohon apunt sabal, O Topa ku, duoh ngugai kemaafan tudu wat ulah gaya ulunt-ulunt Ingan bilo’on odop-eh tudu Ingan. Oku mitia odak Ingan mamiak kadi dosa-dosa koih nunda dek wajar daang Pritah Raja Ingan, bia ngapunt oku, pingoma-pingomaku bia bala dibokon dek sakak Ingan nang mbok molot ki romin pongirinduk Ingan daang ulah gaya dek layak ndu kedaulatan Ingan bia dapod ngosok pimulia kuasa surga Ingan. 
 O Topa ku! Ingan mbok kidip jiwa ku odak la’ant nai pimujuk tudu Ingan, bia simo dik eh setegal Ingan, idoh di ku nguwai Ingan. Tipuji duoh Mulia leh Ingan; Oku serah pimudi tudu Ingan tilanan Ingan mok ogi bitanga Odop Ingan tudu oku, duoh lagik oku mitia Ingan ngapunt oku, setegal oku doie nai tanggungjawab ku pu’ant Ingan duoh gagal ponu olant pangirinduk Ingan.
@@ -1166,11 +1484,15 @@ O Topa ku! Ingan mbok kidip jiwa ku odak la’ant nai pimujuk tudu Ingan, bia si
 (Bahaiprayers.net ID: 11787)
 
 
+
+
 ### <a id="bpn11788"></a> Prayer bpn11788 in Bidayuh
 O Raja! Daang Dispensasi Ingan dek Paling Agung tih Ingan ogi terima doa piwatas onak sa’ant bala pingoma. Itih nikan pangipisoh ngasal dek kusus Dispensasi itih. Ngan-eh wat inoh, O Ingan Raja dek tulut, terima leh pimitia ulunt Ingan tih ndu pinutuab Ingan dek sadik-sadik bia nguluam samak eh daang laut budi Ingan, sebab onak eh tih mbok mokat ngin ndu Ingan khidmat duoh mbok usaha ngogas setiap masa daang olant pangirinduk Ingan. Totap, Ingan leh dek Ngin Tongan, dek Pingapunt bia dek Tulut.
 
 (Source category: Doa Sa’ant Pingoma)
 (Bahaiprayers.net ID: 11788)
+
+
 
 
 
@@ -1186,11 +1508,15 @@ Ingan leh, sebonar, Raja duoh Agong tudu sua manusia, bia dek ngasi daang sua-su
 (Bahaiprayers.net ID: 11895)
 
 
+
+
 ### <a id="bpn11896"></a> Prayer bpn11896 in Bidayuh
 Oku mbok mokat daang gadang Ingan, O Topa ku, bia jadin nyaa dek kalik gadang yak ngilukuh ndu daang Boli Pemuja pangijaga Ingan duoh Kuta-Kuta pangirawan Ingan. Pijawak jiwa ku, O Raja ku, pakai donab Musim Bunga Revelasi Ingan, kodae ngan Ingan pijawak tunt gonan ku pakai pangijawak sipagi onu pimujul Ingan.
 
 (Source category: Doa Sipagi Onu)
 (Bahaiprayers.net ID: 11896)
+
+
 
 
 ### <a id="bpn11897"></a> Prayer bpn11897 in Bidayuh
@@ -1203,6 +1529,8 @@ Ingan leh Iyoh Nyaa dek ngubah pakai sok dek odak Ingan dek hina jadin mulia, bi
 (Bahaiprayers.net ID: 11897)
 
 
+
+
 ### <a id="bpn11898"></a> Prayer bpn11898 in Bidayuh
 *(Takar Ponu Sok Boli)
 Oku mbok mokat pagi tih pakai budi Ingan, O Topa ku, jek boli ku supiah dengan sepunuae punuae bisayak daang Ingan, bia nyelah odop ku tudu pangijaga Ingan. Pimuun, adin, tudu oku, onik dek sok longit perasie Ingan, nikan rahmat dek sok kawa Ingan, bia odak oku tungang lopus palik ke boli daang selamat koda ngan Ingan dapod odak oku luwah ponu pakai sinung sabal Ingan sinada pimikir ku no’od togap tudu Ingan. 
@@ -1210,6 +1538,8 @@ Doie Topa di bokon pak eh Ingan, dek Ndi, dek Doie Banding, dek Sukup Pu’ant, 
 
 (Source category: Doa Sipagi Onu)
 (Bahaiprayers.net ID: 11898)
+
+
 
 
 
@@ -1224,6 +1554,8 @@ Ingan dek obuah mudi, O Ingan leh Nyaa dek jadin Kekasih bala dek mbok pu’ant 
 (Bahaiprayers.net ID: 11865)
 
 
+
+
 ### <a id="bpn11866"></a> Prayer bpn11866 in Bidayuh
 O Ingan Nyaa dek sinok daang hajat ku, pimonog Nyaa dek arap-arapku, panginatong Nyaa dek gili’ient ku, gilangang mulia Nyaa dek so’ot ku, topat tokont Nyaa dek nyetey ku, adon Nyaa dek jadin piminien ku, pangirinduk Nyaa dek jadin donab otin ku, khidmat Nyaa dek jadin pimajak ayuh ku! Oku nguwai Ingan pakai Adon Ingan, pakai sok dek mbok odak Ingan ngan –eh dapod odak bala dek mbok piluh Ingan bikibow tudu a-uw keluhuran ilmu pangipuant Ingan bia ogi kuasa sikoda-eh dengan isin-isin nyombah Ingan ngan-eh ma’ad tudu bingon balai pingodak kudus Ingan, ngan eh batue oku kos jowin ku nuju jowin Ingan, ngan-eh ngibotoh boton ku tudu Ingan, bia ngan-eh tanon pimulia Ingan. 
 Oku leh odop eh, O Raja ku, nyaa dek mbok komut sua dibokon pak-eh Ingan, bia tikos nuju Musim Bunga budi Ingan, nyaa dek mbok bitotas katod sua-sua jok-eh Ingan Sija daang dek arap-arap dapod odi sinok tudu balai Ingan. Ningak leh oku, adin, dengan boton ku bigalong nuju Pingulue dek bilingieng pakai jawak towa jowin Ingan. Pimuun, adin, tudu oku, O Kekasih ku, onik dek dapod odak oku binaan daang Agama Ingan, supaya pinusah dek kafir pod-pod dik-eh pilongang oku sok tikos nuju Ingan. 
@@ -1231,6 +1563,8 @@ Ingan leh, totap, Topa dek Kaku Kuasa, jadin Pinulung daang Pinusah, dek Paling-
 
 (Source category: Doa Togap Binaan)
 (Bahaiprayers.net ID: 11866)
+
+
 
 
 ### <a id="bpn11867"></a> Prayer bpn11867 in Bidayuh
@@ -1246,6 +1580,8 @@ Oku odak Ingan, O Raja ndu sua dek ogi idip bia dek jadin Raja bitolus duoh dek 
 (Bahaiprayers.net ID: 11867)
 
 
+
+
 ### <a id="bpn11868"></a> Prayer bpn11868 in Bidayuh
 Obuah mudi duoh mulia leh Ingan, O Topa! Ngibonar sak supaya onu yak soont pimonog Ingan pod-pod likas nog. Kanuas otin koih pakai sok potensi pangirinduk Ingan bia paguh-moon, bia ngupah koih pakai binaan togap sak koih pod-pod dengan ikhlas biserah tudu Wasiat Ingan bia Pinitah Ingan. Totap, ilmu pangipu’ant Ingan pakua sua onik dek mbok motan Ingan ato dek yak obuah motan, bia kekuatan longit Ingan ngilobih oni sija dek mbok obuah ngamo ato dek yak obuah mogan odak ogi idip. Doie Topa dibokon dek yak obuah nyombah pak-eh Ingan, doie geh dibokon dek daang niat jok-eh Ingan, doie geh dek yak obuah muja jok-eh Ingan bia doie geh dibokon dek yak jadin pinyuka pak-eh paguh-moon Ingan. 
 Totap, Ingan leh Ketua dek ayuh, Kedaulatan dek Bonar, dek jadin Pinulung daang Pinusah, dek Biginong Sadik.
@@ -1254,11 +1590,15 @@ Totap, Ingan leh Ketua dek ayuh, Kedaulatan dek Bonar, dek jadin Pinulung daang 
 (Bahaiprayers.net ID: 11868)
 
 
+
+
 ### <a id="bpn11869"></a> Prayer bpn11869 in Bidayuh
 O Raja Topa ku! Tulung bala perinduk Ingan odak totod daang Iman Ingan, ponu daang olant Ingan, odak binaan togap daang Agama Ingan. Ngin tudu iyoh budi Ingan ngan-eh naan sorang senirik odop duoh nafsu, odak nunda jawak pingulu ilahi. Ingan leh dek Bikuasa, dek Bibudi, dek Biginong-Sadik, dek Ngupah, dek Pinyayang, dek Doras, dek Paling-Pingungin.
 
 (Source category: Doa Togap Binaan)
 (Bahaiprayers.net ID: 11869)
+
+
 
 
 
@@ -1273,6 +1613,8 @@ Mbak munyad oku, O Raja ku, wangi pakaian Ingan daang onu-onu Ingan, bia mbak ng
 (Bahaiprayers.net ID: 11817)
 
 
+
+
 ### <a id="bpn11818"></a> Prayer bpn11818 in Bidayuh
 Iyoh leh dek Gagah, dek Pimaaf, dek Pinubuas! O Topa, Topa ku! Ingan kilint ulunt-ulunt Ingan daang lubang patuab rubuh duoh salah biyuk, daki leh sok lapu pingulu kudus Ingan, O Ingan dek jadin Hasrat dunia? Ingan pu’ant geh nang iyoh doie oni-oni duoh doie otak daya, daki leh sok kuasa surga duoh tanak?
 Oku mitia tudu Ingan, O Raja Topa ku, pakai lingieng jawak rinduk-bitulut Ingan bia gilumbang laut ilmu Ingan bia bijaksana, bia pakai Bang Sina Ingan sok noh leh Ingan mbok pungien manusia dek ogi daang pritah kuasa Ingan, odak ngibonar sak ku pod-pod salah ndi dek sok bala dek mbok tiluti arahan Ingan daang buk Ingan. Bia ba Ingan nitah sa’ant ku onik dek mbok nitah Ingan sa’ant iyoh dek mbok bisayak Ingan tudu-eh, bala dek mbok nyu’uop arak pimajak dek sok sakil pingungin Ingan bia dek sogat tudu pinyuka Ingan bia ngaluh Waadat duoh Wasiat Ingan. Bikuasa leh Ingan nai nunda dek ingin Ingan. Doie Topa dibokon pak-eh Ingan, dek Paling Pangipu’ant, dek Paling Bijaksana.
@@ -1282,12 +1624,16 @@ Notu sa’ant ku, pakai sok pingungin Ingan, O Raja, onik dek harus yak ngutung 
 (Bahaiprayers.net ID: 11818)
 
 
+
+
 ### <a id="bpn11819"></a> Prayer bpn11819 in Bidayuh
 Nai odak totod pimonu-pimonu ku, O Raja, daang olant Ingan bia naan nogap leh Ingan otin koih daang pimodo Ingan. Kos jowin koih nuju pangisangon pinyindi Ingan, bia odak doont pundue otin koih pakai tanda-tanda kesatuan kudus Ingan. Pilaon gonan koih pakai jubbah pingungin Ingan, bia kadi sok boton koih tutu dek bidosa, bia ngin tudu koih sakil budi Ingan, sak isin sejati sua dek idip pod pod ngayong pimudi Ingan ndu depan pangisangon visi Ingan. Bitanga lopas tih Odop Ingan, O Raja, pakai sina-sina pirasie Ingan bia misteri idip ilahi Ingan, sak supaya pimunuas doa kudus ngisik jiwa koih- doa dek harus ma’ad ki somu buak sina, bia bang-bang sina bia ngilobih gayai buak pingajar duoh ayong – sak sua onik pod-pod bisapul jadin dik eh biguna ndu depan revelasi Ingan dek mulia.
 Raja! Ulunt-ulunt Ingan dimutik aluak masih togap duoh totod daang Waadat Ingan bia Wasiat Ingan, mbok bikagient togap tudu tolint gongot otin daang Agama Ingan bia bipawoh tudu tipulont jubbah pakat ayuh Ingan. Tulung iyoh, O Raja, pakai budi Ingan ngin pinotap pakai kuasa Ingan bia nogap kubaub iyoh daang pimodo tudu Ingan. Ingan leh dek Pimaaf, dek Bibudi.
 
 (Source category: Doa Togap-Totod Daang Wa’adat)
 (Bahaiprayers.net ID: 11819)
+
+
 
 
 ### <a id="bpn11820"></a> Prayer bpn11820 in Bidayuh
@@ -1299,12 +1645,16 @@ Ingan leh dek Pinubuas, dek Pirasie. Ingan leh Topa Pingutung dek Agung.
 (Bahaiprayers.net ID: 11820)
 
 
+
+
 ### <a id="bpn11821"></a> Prayer bpn11821 in Bidayuh
 O Raja ku bia Pingarap ku! Tulung leh Ingan kekasih-kekasih Ingan odak togap daang Waadat Ingan dek bigagah, odak sentiasa setia tudu Agama Ingan dek tonga, bia odak patuh nunda hukum-hukum Ingan dek mbok ogi obuah ngidiya sa’ant eh daang Buk Timogah Ayuh Ingan, sak iyoh jadin bendera pingotag bia lapu Ayua Pingimam ndu somu, tilaga pi’in bijaksana dik-eh tingakod Ingan bia jadin bitang pedoman dek botul, tutuas kodae iyoh piluwah lingieng jawak sok auu longit. 
 Totap, Ingan leh dek Bigagah-Pogant, dek Doras, dek Paling-Bikuasa.
 
 (Source category: Doa Togap-Totod Daang Wa’adat)
 (Bahaiprayers.net ID: 11821)
+
+
 
 
 
@@ -1333,6 +1683,8 @@ Totap, Iyoh dek Paling Bait, dek Pinyayang. Mudi Topa, Raja daang sua dunya.
 
 
 
+
+
 ## Loh Bisaka Nomi
 
 ### <a id="bpn11904"></a> Prayer bpn11904 in Bidayuh
@@ -1348,6 +1700,8 @@ Ingan nai leh odak kudus, O Raja Topa ku, Tongon Koyuh Lote Topa bia dowon-dowon
 (Bahaiprayers.net ID: 11904)
 
 
+
+
 ### <a id="bpn11905"></a> Prayer bpn11905 in Bidayuh
 *( Doa itih, obuah bikirien odak Abdu’l-Baha, basa dek totok Kubur Iyoh. Dapod geh doa tih obuah basa takar nye bidoa sadie.)
 *Osi sija de basa doa tih dengan rendah otin duoh sepunua otin doa tih dapod toban pimunuas duoh pirami otin Pingulunt tih, doa tih kana-kani tutuas biraduap jowin duwoh Iyoh. 
@@ -1359,6 +1713,8 @@ Ingan leh, dek Bikanyad, dek Masie, dek Selalu-Ngin, dek Bibudi, dek Bait, dek P
 
 (Source category: Loh Bisaka Nomi)
 (Bahaiprayers.net ID: 11905)
+
+
 
 
 
@@ -1379,6 +1735,8 @@ Ingan leh, daang dek sibonareh, dek Paling Puant, dek Paling Ponai.
 
 
 
+
+
 ## Onu Pingosah (Ayyam-I-Ha)
 
 ### <a id="bpn11907"></a> Prayer bpn11907 in Bidayuh
@@ -1394,6 +1752,8 @@ Ingan, sibonar eh, dek Bikuasa, dek Paling Pu’ant, dek Lilieg Ngin Pu’ant.
 
 
 
+
+
 ## Pibatue Duoh Pinulung
 
 ### <a id="bpn11768"></a> Prayer bpn11768 in Bidayuh
@@ -1405,6 +1765,8 @@ Ingan, sebonar eh, Raja suo manusia. Doie Topa dibokon pak eh Ingan dek Selalu N
 
 
 
+
+
 ## Simayang Wajib Kodit
 
 ### <a id="bpn11766"></a> Prayer bpn11766 in Bidayuh
@@ -1413,6 +1775,8 @@ Doie Topa dibokon pak-eh Ingan, dek Jadin pinulung Daang pinusah, dek Biginong S
 
 (Source category: Simayang Wajib Kodit)
 (Bahaiprayers.net ID: 11766)
+
+
 
 
 
@@ -1442,6 +1806,8 @@ Oku ngakont tudu kesatuan Ingan duoh pinyindi Ingan, bia Ingan noh leh Topa, duo
 
 
 
+
+
 ## Sugu Fund
 
 ### <a id="bpn11831"></a> Prayer bpn11831 in Bidayuh
@@ -1452,6 +1818,9 @@ O Raja ku! Nitah sa’ant iyoh duman dek muyah mogond, ganjaran dek obuah takdir
 
 (Source category: Sugu Fund)
 (Bahaiprayers.net ID: 11831)
+
+
+
 
 
 

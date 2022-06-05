@@ -3,6 +3,12 @@ title = "Irish"
 tags = ['lang=ga', 'prayerbook']
 +++
 
+
+
+[General](#General)
+
+
+
 ## General
 
 ### <a id="bpn6016"></a> Prayer bpn6016 in Irish
@@ -21,6 +27,8 @@ agus inar móradh a ghlóir.
 (Bahaiprayers.net ID: 6016)
 
 
+
+
 ### <a id="bpn6015"></a> Prayer bpn6015 in Irish
 ##Remover of Difficulties 
 
@@ -29,6 +37,9 @@ Abair, 'Moladh le Dia! Is é Dia é!  Is seirbhíseach leis cách, agus leanann 
 
 (Source category: General)
 (Bahaiprayers.net ID: 6015)
+
+
+
 
 
 

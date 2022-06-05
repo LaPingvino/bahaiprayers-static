@@ -3,6 +3,34 @@ title = "Chamorro"
 tags = ['lang=ch', 'prayerbook']
 +++
 
+
+
+[DINAÑA’ ESPIRITUAT](#DINAÑA’ ESPIRITUAT)
+
+[HINEMLO’](#HINEMLO’)
+
+[I AYUNAT](#I AYUNAT)
+
+[KASAMIENTO](#KASAMIENTO)
+
+[KONTRIBUSION I FONDO](#KONTRIBUSION I FONDO)
+
+[MACHAKCHAK](#MACHAKCHAK)
+
+[OGGA’AN](#OGGA’AN)
+
+[OTRO SIHA NA TINAITAI](#OTRO SIHA NA TINAITAI)
+
+[PARA I MANMATAI](#PARA I MANMATAI)
+
+[PUPUENGI](#PUPUENGI)
+
+[TINAITAI OPBLIGASION](#TINAITAI OPBLIGASION)
+
+[TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN](#TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN)
+
+
+
 ## DINAÑA’ ESPIRITUAT
 
 ### <a id="bpn6114"></a> Prayer bpn6114 in Chamorro
@@ -23,6 +51,8 @@ O God, my God! We are servants of Thine that have turned with devotion to Thy Ho
 
 
 
+
+
 ## HINEMLO’
 
 ### <a id="bpn6113"></a> Prayer bpn6113 in Chamorro
@@ -34,6 +64,8 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness
 
 (Source category: HINEMLO’)
 (Bahaiprayers.net ID: 6113)
+
+
 
 
 
@@ -58,6 +90,8 @@ There is no God but Thee, the All-Knowing, the All-Wise. All praise be to God, t
 
 
 
+
+
 ## KASAMIENTO
 
 ### <a id="bpn6112"></a> Prayer bpn6112 in Chamorro
@@ -71,6 +105,8 @@ O Lord! Assist them in this Thy world and Thy kingdom and destine for them every
 
 (Source category: KASAMIENTO)
 (Bahaiprayers.net ID: 6112)
+
+
 
 
 
@@ -97,6 +133,8 @@ Verily, Thou art the Sustainer, the Helper, the Generous, the Bountiful, the Eve
 
 
 
+
+
 ## MACHAKCHAK
 
 ### <a id="bpn6107"></a> Prayer bpn6107 in Chamorro
@@ -117,6 +155,8 @@ Bless Thou, O Lord my God, Him Whom Thou hast set over Thy most excellent Titles
 
 
 
+
+
 ## OGGA’AN
 
 ### <a id="bpn6108"></a> Prayer bpn6108 in Chamorro
@@ -131,6 +171,8 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 (Bahaiprayers.net ID: 6108)
 
 
+
+
 ### <a id="bpn6109"></a> Prayer bpn6109 in Chamorro
 Makmata yo’ este na ogga’an ginen i grasia- Mu, O Yu’os-Hu, ya hu dingu i saga-hu ya hu pega todu i inangokko-ku giya Hagu, ya hu entrega yo’ guatu gi katgo-Mu.
 Na’tunokgue gi hilo’-hu, ginen i langet i mina’ase’-Mu, bendision ni ginen Hagu, ya kosaki siña tuma’lo yo’ tatte gi saga-hu gi sinafo’ taiguihi nai Un na’hanao yo’ gi papa’ i proteksion-Mu yan i hinasso-ku ni chetton giya Hagu.
@@ -142,6 +184,8 @@ Wise.
 
 (Source category: OGGA’AN)
 (Bahaiprayers.net ID: 6109)
+
+
 
 
 
@@ -166,6 +210,8 @@ Reveal to us, O God, Thine exalted eternity - that Thou hast ever been and wilt 
 (Bahaiprayers.net ID: 6122)
 
 
+
+
 ### <a id="bpn6123"></a> Prayer bpn6123 in Chamorro
 O Yu’os-hu! O Yu’os-hu! Na’fandaña’ i kora- son todu i setbente-Mu ya Un na’fanmanli’e’ ni dangkolon intension-Mu nu siha. Siña mohon u ma tattiyi siha i tinago’-Mu yan u konsigi siha gi areklao-Mu. O Yu’os, ayuda todu siha ni’ i mana’kekesiña mo’na yan na’i lokkue’ ni i minet- got na Un masetbe. O Yu’os, cha’-Mu dumidingu siha na maisa, giha pinekkat-ñiha mo’na ni i kan- det i tiningo’-Mu, ya na’magof i korason-ñiha ni guinaiya-Mu. Gof magahet, Hagu i Ayudante yan Sainan-ñiha.
 
@@ -173,6 +219,8 @@ O my God! O my God! Unite the hearts of Thy servants, and reveal to them Thy gre
 
 (Source category: OTRO SIHA NA TINAITAI)
 (Bahaiprayers.net ID: 6123)
+
+
 
 
 ### <a id="bpn6124"></a> Prayer bpn6124 in Chamorro
@@ -184,6 +232,8 @@ Say: “O God, my God! Attire mine head with the crown of justice, and my temple
 (Bahaiprayers.net ID: 6124)
 
 
+
+
 ### <a id="bpn6126"></a> Prayer bpn6126 in Chamorro
 Yu’os na’huyong na i kandet dinaña’ u inina todu i tano’, ya i fino’, “iyon Yu’os i Raino,” u matugge’ gi ha’en todu i taotao.
 
@@ -191,6 +241,8 @@ God grant that the light of unity may envelop the whole earth, and that the seal
 
 (Source category: OTRO SIHA NA TINAITAI)
 (Bahaiprayers.net ID: 6126)
+
+
 
 
 ### <a id="bpn6125"></a> Prayer bpn6125 in Chamorro
@@ -202,6 +254,8 @@ Omy God! I ask Thee, by Thy most glorious Name, to aid me in that which will cau
 (Bahaiprayers.net ID: 6125)
 
 
+
+
 ### <a id="bpn6127"></a> Prayer bpn6127 in Chamorro
 Kao guaha Na’suhan minappot fuera ki si Yu’os? Sangan: Matuna si Yu’os, Yu’os Gue’! Todu setbente-Ña, ya todu umo’osge i malago’- Ña!
 
@@ -209,6 +263,8 @@ Is there any Remover of difficulties save God? Say: Praised be God! He is God! A
 
 (Source category: OTRO SIHA NA TINAITAI)
 (Bahaiprayers.net ID: 6127)
+
+
 
 
 ### <a id="bpn6129"></a> Prayer bpn6129 in Chamorro
@@ -220,6 +276,8 @@ O my Lord, my Beloved, my Desire! Befriend me in my loneliness and accompany me 
 (Bahaiprayers.net ID: 6129)
 
 
+
+
 ### <a id="bpn6130"></a> Prayer bpn6130 in Chamorro
 Saina Yu’os-hu! Asiste i manguinaya-Mu na u fanmetgot gi Hinengge-Mu, u fanmamok-kat gi karera-Mu, ya u fanfitme gi che’cho’-Mu. Na’i ni grasia-Mu para u ma sungon i inatakan i tailayen yan i sensen, ya u ma tattiyi i kandet i yini’usan na giniha. Hagu i Minina’siña, i Grasiosu, i Lala’la’-Maisa, i Nana’i, i Gai Yo’ase’, i Tagahlo’, i Todu Geftao.
 
@@ -227,6 +285,8 @@ O Lord, my God! Assist Thy loved ones to be firm in Thy Faith, to walk in Thy wa
 
 (Source category: OTRO SIHA NA TINAITAI)
 (Bahaiprayers.net ID: 6130)
+
+
 
 
 ### <a id="bpn6132"></a> Prayer bpn6132 in Chamorro
@@ -237,6 +297,8 @@ O Lord! We are weak; strengthen us. O God! We are ignorant; make us knowing. O L
 
 (Source category: OTRO SIHA NA TINAITAI)
 (Bahaiprayers.net ID: 6132)
+
+
 
 
 ### <a id="bpn6134"></a> Prayer bpn6134 in Chamorro
@@ -253,6 +315,8 @@ O Lord! I am single, alone and lowly. For me there is no support save Thee, no h
 (Bahaiprayers.net ID: 6134)
 
 
+
+
 ### <a id="bpn6133"></a> Prayer bpn6133 in Chamorro
 O Yu’os, Yu’os-hu. Pattang i manangokkuyon na setbente-Mu gi i baba i tinailayen yan i sensen, protehi siha ni gof inatan yo’ase’ na guinaiya-Mu gi minala’et, chinatli’e’ yan inembidia, na’fanliheng siha gi lugat ni ti siña mahatme sa’ pot i inadahi-Mu, yan safo’ gi i flechan dinida, siha Un na’fanmanu’i i gloriosu na siñat-Mu, na’manila’ i matan-ñiha ni i mina’lak i ininan i Be’bo’ Ha’anen i Yini’usan na Dinaña’-Mu, na’fanmagof i korason-ñiha ni i fino’ ni’ mafatta ginen i Sinantusan na Raino-Mu, na’fanmetgot i sinturan-ñiha ginen i todu gainina’siñan na mi- netgot-Mu ni mafatto ginen i Gloriosu na Raino- Mu. Hagu i Todu-Geftao, i A’adahi, i Tagahlo’, i Grasiosu.
 
@@ -260,6 +324,8 @@ O God, my God! Shield Thy trusted servants from the evils of self and passion, p
 
 (Source category: OTRO SIHA NA TINAITAI)
 (Bahaiprayers.net ID: 6133)
+
+
 
 
 ### <a id="bpn6131"></a> Prayer bpn6131 in Chamorro
@@ -277,6 +343,8 @@ Give us our daily bread, and grant Thine increase in the necessities of life, th
 (Bahaiprayers.net ID: 6131)
 
 
+
+
 ### <a id="bpn6128"></a> Prayer bpn6128 in Chamorro
 O Yu’os! Na’fresko yan na’minagof i espiritu- hu. Na’gasgas i korason-hu. Na’ma’lak i nina’siña-hu. Hu po’lo todu i inangokku-ku gi kannai-Mu. Hagu i Giha-hu yan i Fanliheng-hu. Esta ti bai hu triste pat piniti; bai hu magogof na taotao. O Yu’os! Esta ti bai hu michathinasso pat bai sedi i problema na u momye yo! Ti bai hu ha- hasso ha’ i ti minaolek siha gi lina’la’.
 
@@ -289,6 +357,8 @@ O God! Thou art more friend to me than I am to myself. I dedicate myself to Thee
 
 (Source category: OTRO SIHA NA TINAITAI)
 (Bahaiprayers.net ID: 6128)
+
+
 
 
 
@@ -333,6 +403,8 @@ We all, verily, are patient in God.
 (Bahaiprayers.net ID: 6120)
 
 
+
+
 ### <a id="bpn6121"></a> Prayer bpn6121 in Chamorro
 O Yu’os-hu! Hagu i manasisi’i ni’ isao, i mannana’i guinaha, yan sasatba gi chinat- saga siha.
 Gi inimitde, hu gagagao Hao na Un asi’i i isao todu ni esta ma abandona i magagon este na tano’ ya kahulo’ gi tano’ espirituat.
@@ -345,6 +417,8 @@ O my Lord! Purify them from trespasses, dispel their sorrows, and change their d
 
 (Source category: PARA I MANMATAI)
 (Bahaiprayers.net ID: 6121)
+
+
 
 
 
@@ -363,6 +437,8 @@ No God is there but Thee, the Almighty, the All-Subduing, the Unconditioned.
 
 (Source category: PUPUENGI)
 (Bahaiprayers.net ID: 6110)
+
+
 
 
 
@@ -385,6 +461,8 @@ There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 
 
 
+
+
 ## TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN
 
 ### <a id="bpn6115"></a> Prayer bpn6115 in Chamorro
@@ -399,6 +477,8 @@ O God! Rear this little babe in the bosom of Thy love, and give it milk from the
 (Bahaiprayers.net ID: 6115)
 
 
+
+
 ### <a id="bpn6116"></a> Prayer bpn6116 in Chamorro
 O Yu’os! Eduka este siha na famagu’on. Este siha na famagu’on tinanom siha gi gualo’Mu, flores i sabana-Mu, flores rosa i hatdin-Mu. Na’faninichani ni ichan-Mu; Na’faninina ni atd- aon minagahet ginen i guinaiya-Mu. Na’fanfresko ni’ manglo’-Mu kosa ki siña maninarekla gi tininas, mandangkolo yan manadilanto yan u fanannok i etmas na buninitu. Hagu i Geftao. Hagu i Yo’ase’.
 
@@ -406,6 +486,8 @@ O God! Educate these children. These children are the plants of Thine orchard, t
 
 (Source category: TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN)
 (Bahaiprayers.net ID: 6116)
+
+
 
 
 ### <a id="bpn6117"></a> Prayer bpn6117 in Chamorro
@@ -417,6 +499,8 @@ O Lord! Make this youth radiant, and confer Thy bounty upon this poor creature. 
 (Bahaiprayers.net ID: 6117)
 
 
+
+
 ### <a id="bpn6118"></a> Prayer bpn6118 in Chamorro
 O Yu’os, giha yo’, protehi yo’, po’lo yo’ kulan un maninila’ na kandet yan ma’lak na estreyas. Hagu i Metgot yan Gainina’siña.
 
@@ -424,6 +508,9 @@ O God, guide me, protect me, make of me a shining lamp and a brilliant star. Tho
 
 (Source category: TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN)
 (Bahaiprayers.net ID: 6118)
+
+
+
 
 
 

@@ -3,6 +3,38 @@ title = "Marshallese"
 tags = ['lang=mh', 'prayerbook']
 +++
 
+
+
+[AJRI IM JODRIKDRIK](#AJRI IM JODRIKDRIK)
+
+[ARMIJ OTEMJIJ](#ARMIJ OTEMJIJ)
+
+[BAMLE](#BAMLE)
+
+[BIN ILO BUJEN EO](#BIN ILO BUJEN EO)
+
+[ELLOK JEN MEN KO AN MOUR IN](#ELLOK JEN MEN KO AN MOUR IN)
+
+[JAR EO EKADU](#JAR EO EKADU)
+
+[JAR IN JIBAN](#JAR IN JIBAN)
+
+[JAR IN JIBON](#JAR IN JIBON)
+
+[JAR IN JOTA](#JAR IN JOTA)
+
+[JAR IN KEMOUR](#JAR IN KEMOUR)
+
+[JAR IN KWELOK KO](#JAR IN KWELOK KO)
+
+[JIBAN KIN MENIN MELEJON KO](#JIBAN KIN MENIN MELEJON KO)
+
+[MARE](#MARE)
+
+[RO DRI MIJ](#RO DRI MIJ)
+
+
+
 ## AJRI IM JODRIKDRIK
 
 ### <a id="bpn6195"></a> Prayer bpn6195 in Marshallese
@@ -16,6 +48,8 @@ Kwe Kwokajur, Eo eobrak kin yokwe.
 (Bahaiprayers.net ID: 6195)
 
 
+
+
 ### <a id="bpn6196"></a> Prayer bpn6196 in Marshallese
 O Anij! Kojelalokjen ajri rein. Ajri rein rej ine in jikin kallib in wijki eo Am, ut ko ilo melaj eo Am, rose ko in jikin kallib eo Am. Komman bwe Am wit en wotlok ioier, komman bwe Al in Mol eo en romak ioier kin yokwe eo Am.
 
@@ -26,6 +60,8 @@ Komman bwe Kituom en kemourur ir bwe ren maron katak, edrok im wonmanlok im bed 
 
 
 
+
+
 ## ARMIJ OTEMJIJ
 
 ### <a id="bpn6206"></a> Prayer bpn6206 in Marshallese
@@ -33,6 +69,8 @@ O Kwe Iroij in jouij, Kwe Eo Kwojouij im maron! Kimij Drijilkam im emoj am koonw
 
 (Source category: ARMIJ OTEMJIJ)
 (Bahaiprayers.net ID: 6206)
+
+
 
 
 
@@ -50,6 +88,8 @@ O ao Anij! Emoj Am kakajur jitob eo ao bwe en kajitok jiban jen Yuk, ejelok bar 
 (Bahaiprayers.net ID: 6190)
 
 
+
+
 ### <a id="bpn6202"></a> Prayer bpn6202 in Marshallese
 Ij oware jolok bwid eo Am, O ao Anij, im kajitok kin jolok bwid ilo wewen eo Kwoknan bwe dri jerbal ro Am ren jede Ibbam kake. Ij oware Yuk bwe Kwon jeerlok jerawiwi ko am ekkar nan Am Iroij, im jolok ao bwid, an jino im jema, im ro ilo lomnak eo Am bwe emoj air drelone waj imon yokwe eo Am ilo wewen eo ejejet im ekkar nan Kajur potata eo Am ellalok jen men otemjij im ejjejet nan aibuijuij in Kajur eo Am ilan.
 
@@ -57,6 +97,8 @@ O ao Anij! Emoj Am kakajur jitob eo ao bwe en kajitok jiban jen Yuk, ejelok bar 
 
 (Source category: BAMLE)
 (Bahaiprayers.net ID: 6202)
+
+
 
 
 
@@ -73,6 +115,8 @@ Kwe Dri jolok bwid im Dri jouij.
 (Bahaiprayers.net ID: 6203)
 
 
+
+
 ### <a id="bpn6204"></a> Prayer bpn6204 in Marshallese
 O Anij in tiriamo! Lewoj kamolol nan Kwe bwe Kwar karuj im kemour io. Emoj am letok meja bwe in lolokjen im letok lojilnu bwe in ronlokjen, im tel io nan ailin eo Am im kwalok nan io ial eo Am. Emoj Am kwalok nan io ial eo ejimwe im komman bwe in drelone wan lomor eo. O Anij! Komman bwe in bin im kajur. Kejbarok io jen melejon ko rekajur im kejbarok im wonake io ilo jikin likibejnak ilo Bujen im Kallimur eo Am. Kwe Dri lolokjen. Kwe Dri ronjake.
 
@@ -82,6 +126,8 @@ Kwoj Dri yokwe, Dri tiriamo. Kwe Anij in letok jeramon elab.
 
 (Source category: BIN ILO BUJEN EO)
 (Bahaiprayers.net ID: 6204)
+
+
 
 
 
@@ -96,6 +142,8 @@ Eaibuijuij Etam, O Kwe eo Kwoj King in king ro otemjij.
 
 (Source category: ELLOK JEN MEN KO AN MOUR IN)
 (Bahaiprayers.net ID: 6198)
+
+
 
 
 ### <a id="bpn6199"></a> Prayer bpn6199 in Marshallese
@@ -113,6 +161,8 @@ Aolep maron rej Am ekkar nan Ankilam.
 (Bahaiprayers.net ID: 6199)
 
 
+
+
 ### <a id="bpn6200"></a> Prayer bpn6200 in Marshallese
 O Anij, ao Anij! Kwoj ao Kejatdrikdrik im ao Jitenburu, ao Kotobar eo Eutiej tata im ao Konan! Ilo etta im buru emol ij jar nan Yuk bwe Kwon likit io bwe in juon kokkalen yokwe eo Am eutiej ilo lal eo Am, juon lamp in jelalokjen eo Am ilubiljin menin komanman ko Am, im juon flag in jeramon eo ekwojarjar ilo ailin eo Am.
 
@@ -124,6 +174,8 @@ Kwe, ilo mol, Kwokajur potata, Kwoaibuijuij potata im Kwokajur otem kajur.
 
 (Source category: ELLOK JEN MEN KO AN MOUR IN)
 (Bahaiprayers.net ID: 6200)
+
+
 
 
 
@@ -143,6 +195,8 @@ Ij kamol, O ao Anij, bwe Kwar kommane io bwe in jela kin Yuk im kabun nan Yuk. I
 
 
 
+
+
 ## JAR IN JIBAN
 
 ### <a id="bpn6191"></a> Prayer bpn6191 in Marshallese
@@ -152,6 +206,8 @@ O Kwe eo im Turin mejen ej unjen ao kabun, im aibuijuij eo An ej jikin ao kone, 
 (Bahaiprayers.net ID: 6191)
 
 
+
+
 ### <a id="bpn6192"></a> Prayer bpn6192 in Marshallese
 Ao Anij, Eo ij kabun im kautiej E, ao King, Eo buruo eaikuiji ! Loo, ta emaron kwalok ainikien kamolol ko ao nan Yuk? Iar jerata im jol, Kwar karuj io, iar einwot juon eo emij, Kwar kemour io kin dren kwojarjar eo Am ejelok jemlokin im emoj an tor tok jen Naan in tiriamo eo Am elab.
 
@@ -159,6 +215,8 @@ Dri onake Eo ekwojarkar! Aolep menin komanman rar walok jen kejramon eo Am; jab 
 
 (Source category: JAR IN JIBAN)
 (Bahaiprayers.net ID: 6192)
+
+
 
 
 
@@ -178,6 +236,8 @@ Emol, Kwoj Iroij im King an armij otemjij, im maron ion aolep men otemjij.
 
 
 
+
+
 ## JAR IN JOTA
 
 ### <a id="bpn6201"></a> Prayer bpn6201 in Marshallese
@@ -192,6 +252,8 @@ Kin kajur eo Am! Ejelok bar juon men inaj, ilo ien ao kiki ak ilo ien ao ruj, ak
 
 
 
+
+
 ## JAR IN KEMOUR
 
 ### <a id="bpn6205"></a> Prayer bpn6205 in Marshallese
@@ -199,6 +261,8 @@ Et eo Etam ej menin kemour io, O ao Anij, im ao kemejmej Yuk ej menin kejmour io
 
 (Source category: JAR IN KEMOUR)
 (Bahaiprayers.net ID: 6205)
+
+
 
 
 
@@ -214,6 +278,8 @@ Emol, Kwe Dri jouij. Emol, Kwe Dri tiriamo. Emol, Kwoaurok, Eo Jitenburu.
 
 
 
+
+
 ## JIBAN KIN MENIN MELEJON KO
 
 ### <a id="bpn6193"></a> Prayer bpn6193 in Marshallese
@@ -221,6 +287,8 @@ Ewor ke bar juon Dri jolok aban ko ijelokin Anij? Jen ba: Nebar Anij! E Ej Anij!
 
 (Source category: JIBAN KIN MENIN MELEJON KO)
 (Bahaiprayers.net ID: 6193)
+
+
 
 
 ### <a id="bpn6194"></a> Prayer bpn6194 in Marshallese
@@ -231,6 +299,8 @@ O Iroij! Kwoj Dri jolok aolep menin buromoj, im Dri namejlan aolep menin aban. K
 
 
 
+
+
 ## MARE
 
 ### <a id="bpn6207"></a> Prayer bpn6207 in Marshallese
@@ -238,6 +308,8 @@ Kwoaibuijuij, O ao Anij! Emol, dri jerbal rein Am rej kobatok iumin ailurlur in 
 
 (Source category: MARE)
 (Bahaiprayers.net ID: 6207)
+
+
 
 
 
@@ -252,6 +324,9 @@ O ao Iroj! Kareoik ir jen bwid ko air, jolok burumij ko air im ukot ir jen bed i
 
 (Source category: RO DRI MIJ)
 (Bahaiprayers.net ID: 6197)
+
+
+
 
 
 

@@ -3,6 +3,110 @@ title = "Tiếng Việt"
 tags = ['lang=vi', 'prayerbook']
 +++
 
+
+
+[An Ủi](#An Ủi)
+
+[Buổi Sáng](#Buổi Sáng)
+
+[Buổi Tối](#Buổi Tối)
+
+[Can Đảm](#Can Đảm)
+
+[Cha Mẹ](#Cha Mẹ)
+
+[Chúc Tụng](#Chúc Tụng)
+
+[Chữa Bệnh](#Chữa Bệnh)
+
+[Công Lý](#Công Lý)
+
+[Cầu Cho Các Quốc Gia](#Cầu Cho Các Quốc Gia)
+
+[Cứu Giúp](#Cứu Giúp)
+
+[Dài Nhất](#Dài Nhất)
+
+[Dài Trung Bình](#Dài Trung Bình)
+
+[Dư Nhật](#Dư Nhật)
+
+[Dịu Dàng](#Dịu Dàng)
+
+[Dứt Bỏ](#Dứt Bỏ)
+
+[Giữa Khuya](#Giữa Khuya)
+
+[Hài Lòng](#Hài Lòng)
+
+[Hôn Lễ](#Hôn Lễ)
+
+[Họp Hội Đồng](#Họp Hội Đồng)
+
+[Hội Họp](#Hội Họp)
+
+[Kinh Ahmad](#Kinh Ahmad)
+
+[Kinh Bản Carmel](#Kinh Bản Carmel)
+
+[Kinh Bản Giao Ước](#Kinh Bản Giao Ước)
+
+[Kiên Định](#Kiên Định)
+
+[Lửa Thiêng](#Lửa Thiêng)
+
+[Lửa Đức Tin](#Lửa Đức Tin)
+
+[Mẹ Sắp Sinh Con](#Mẹ Sắp Sinh Con)
+
+[Nawruz](#Nawruz)
+
+[Ngắn Nhất](#Ngắn Nhất)
+
+[Nhân Loại](#Nhân Loại)
+
+[Những Người Lạc Đường](#Những Người Lạc Đường)
+
+[Phò Trợ](#Phò Trợ)
+
+[Phục Tùng](#Phục Tùng)
+
+[Phụng Sự](#Phụng Sự)
+
+[Ridvan](#Ridvan)
+
+[Rạng Đông](#Rạng Đông)
+
+[Sức Mạnh](#Sức Mạnh)
+
+[Tang Lễ](#Tang Lễ)
+
+[Thanh Niên](#Thanh Niên)
+
+[Thống Nhất](#Thống Nhất)
+
+[Thử Thách Và Khó Khăn](#Thử Thách Và Khó Khăn)
+
+[Trai Giới](#Trai Giới)
+
+[Tri Thức](#Tri Thức)
+
+[Trong Sạch](#Trong Sạch)
+
+[Truyền Giáo](#Truyền Giáo)
+
+[Trẻ Em](#Trẻ Em)
+
+[Tạ Ơn](#Tạ Ơn)
+
+[Viếng Nơi Thánh](#Viếng Nơi Thánh)
+
+[Đóng Góp](#Đóng Góp)
+
+[Đức Tính Tâm Linh](#Đức Tính Tâm Linh)
+
+
+
 ## An Ủi
 
 ### <a id="bpn4977"></a> Prayer bpn4977 in Tiếng Việt
@@ -12,6 +116,8 @@ Lạy Thượng Đế, con xin dâng trọn đời con cho Ngài.
 
 (Source category: An Ủi)
 (Bahaiprayers.net ID: 4977)
+
+
 
 
 
@@ -26,12 +132,16 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng Duy nhất, Đấng 
 (Bahaiprayers.net ID: 4978)
 
 
+
+
 ### <a id="bpn4979"></a> Prayer bpn4979 in Tiếng Việt
 Lạy Thượng Đế của con, con trở dậy trong sự phò trì của Ngài, và thật phước cho ai đi tìm nơi nương tựa này để được ở trong Thánh điện phù trợ của Ngài và ở trong thành trì bảo vệ của Ngài. Lạy Thượng Đế của con, xin cho ánh Bình minh Huy hoàng Mặc khải của Ngài soi sáng bản thể nội tại con, cũng như Ngài đã soi sáng bản thể ngoại tại của con bằng ánh sáng ban mai của Thiên ân.
 Đức Baha'u'llah
 
 (Source category: Buổi Sáng)
 (Bahaiprayers.net ID: 4979)
+
+
 
 
 ### <a id="bpn4980"></a> Prayer bpn4980 in Tiếng Việt
@@ -48,6 +158,8 @@ Ngài không bao giờ làm thất vọng những kẻ tìm kiếm Ngài và kh�
 (Bahaiprayers.net ID: 4980)
 
 
+
+
 ### <a id="bpn4981"></a> Prayer bpn4981 in Tiếng Việt
 Lạy Thượng Đế, Thượng Đế của con! Con rời khỏi nhà con, trong tay nắm chắc Dây yêu thương của Ngài, hoàn toàn giao phó thân mạng con cho sự chăm sóc và phò trợ của Ngài. Con khẩn cầu Ngài, với quyền năng mà Ngài đã dùng để che chở những kẻ Ngài yêu thương thoát khỏi ảnh hưởng của phường bệnh hoạn xấu xa, thoát khỏi tai họa của những loài hung bạo và bọn hành ác đã rời xa đường Ngài, xin giữ cho con được yên ổn trong thiên phúc và thiên ân của Ngài. Với quyền năng và với uy lực của Ngài, xin giúp con trở về nhà bình yên. Quả thực, Ngài là Đấng Toàn năng, Đấng Cứu khổ, Đấng Tự hữu. 
 Đức Baha’u’llah
@@ -56,12 +168,16 @@ Lạy Thượng Đế, Thượng Đế của con! Con rời khỏi nhà con, tro
 (Bahaiprayers.net ID: 4981)
 
 
+
+
 ### <a id="bpn4982"></a> Prayer bpn4982 in Tiếng Việt
 Lạy Thượng Đế Đại Từ bi, con cảm tạ Ngài đã thức tỉnh con và đem con về với lương tri. Ngài đã ban cho con đôi mắt tinh anh và đôi tai thính nhạy, đã đưa con đến Vương quốc của Ngài và dắt dẫn con vào Chánh Đạo của Ngài, Ngài đã chỉ cho con nẻo chánh và đưa con lên Thuyền Giải thoát. Lạy Thượng Đế, xin giúp con vững tin, bền dạ và trung tín. Xin che chở con trước những thử thách dữ dội và xin gìn giữ con, bảo bọc con trong thành trì kiên cố của Giao ước Ngài. Ngài là Đấng Toàn lực! Ngài là Đấng thấy khắp! Ngài là Đấng nghe khắp!
 Lạy Ngài là Đấng Thượng Đế Đại Từ bi! Xin ban cho con trái tim giống như pha lê, để có thể phản chiếu ánh sáng Tình yêu của Ngài, và xin ban cho con tư tưởng cao diệu có thể biến thế giới này thành vườn hồng nhờ ân đức tâm linh. Ngài là Đấng Đại Từ bi, Đấng Khoan dung! Ngài là Đấng Thượng Đế Toàn thiện.
 
 (Source category: Buổi Sáng)
 (Bahaiprayers.net ID: 4982)
+
+
 
 
 
@@ -77,6 +193,8 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng Toàn năng, Đấng
 (Bahaiprayers.net ID: 4983)
 
 
+
+
 ### <a id="bpn4984"></a> Prayer bpn4984 in Tiếng Việt
 Lạy Thượng Đế, Thượng Đế của con, làm sao con có thể an nghỉ trong khi biết bao người khao khát Ngài đang thao thức vì xa cách Ngài; và làm sao con có thể nằm yên trong khi biết bao linh hồn yêu mến Ngài đang sầu khổ vì xa rời sự hiện diện của Ngài?
 Lạy Thượng Đế của con, con đã giao phó tinh thần và trọn bản thân con trong bàn tay phải uy lực và phò trợ của Ngài; nhờ thiên uy Ngài, con đặt đầu trên gối hay cất đầu con lên theo ý chí và ý thích Ngài. Quả thật, Ngài là Đấng Phò trợ, Đấng Chăm sóc, Đấng Toàn lực, Đấng Toàn năng.
@@ -85,6 +203,8 @@ Ngài thật đáng tán tụng, lạy Ngài là Đấng Thượng Đế của c
 
 (Source category: Buổi Tối)
 (Bahaiprayers.net ID: 4984)
+
+
 
 
 
@@ -99,6 +219,8 @@ Ngài là Đấng Hùng mạnh, Đấng Cao cả, Đấng Tự tồn, Đấng Ba
 
 
 
+
+
 ## Cha Mẹ
 
 ### <a id="bpn4988"></a> Prayer bpn4988 in Tiếng Việt
@@ -108,6 +230,8 @@ Lạy Thượng Đế, Ngài thấy đôi tay khẩn cầu của chúng con vư�
 (Bahaiprayers.net ID: 4988)
 
 
+
+
 ### <a id="bpn4987"></a> Prayer bpn4987 in Tiếng Việt
 Phước cho ai nhớ tới cha mẹ mình khi thông công với Thượng Đế.
 
@@ -115,11 +239,15 @@ Phước cho ai nhớ tới cha mẹ mình khi thông công với Thượng Đ�
 (Bahaiprayers.net ID: 4987)
 
 
+
+
 ### <a id="bpn4989"></a> Prayer bpn4989 in Tiếng Việt
 Lạy Thượng Đế! Trong Kỳ Cứu độ Tối đại này Ngài đã chấp thuận để con cái cầu thay cho cha mẹ. Đây là một thiên ân vô hạn đặc biệt của Kỳ Cứu độ này. Thế nên, lạy Ngài là Đấng Thượng Đế từ bi, xin Ngài chấp nhận lời cầu xin của tôi tớ Ngài nơi thánh điện đơn nhất của Ngài và dìm thân phụ kẻ tôi tớ này trong đại dương thiên ân của Ngài, bởi vì người con này đã đứng lên phụng sự thánh nghiệp của Ngài và luôn luôn cố gắng trên đường tình yêu của Ngài. Quả thật, Ngài là Đấng Ban cho, Đấng Tha thứ, Đấng Từ bi!
 
 (Source category: Cha Mẹ)
 (Bahaiprayers.net ID: 4989)
+
+
 
 
 
@@ -133,6 +261,8 @@ Ngài là Đấng Toàn tri, Đấng Toàn giác.
 (Bahaiprayers.net ID: 4990)
 
 
+
+
 ### <a id="bpn4991"></a> Prayer bpn4991 in Tiếng Việt
 Lạy Thượng Đế của con, Đấng Thờ phượng của con, Đấng Vua của con, Đấng Khát khao của con! Lưỡi nào có thể diễn tả được lòng tri ân của con đối với Ngài? Con rơi vào cơn mê muội, Ngài đã thức tỉnh con. Con rời xa Ngài, Ngài đã dùng thiên ân dắt dẫn con trở lại cùng Ngài. Con như đã chết, Ngài làm con sống lại bằng làn sóng thiêng liêng của thánh ngôn Ngài tuôn đổ từ ngọn bút Đấng Đại Từ bi.
 Lạy Đấng Quan phòng thiêng liêng! Mọi sự sinh tồn xuất phát bởi lượng từ ái của Ngài; xin đừng cách trở nó với nguồn nước hồng ân của Ngài và xin đừng tách rời nó khỏi đại dương bác ái của Ngài. Con khẩn cầu Ngài giúp con và cứu con bất cứ lúc nào, trong bất cứ hoàn cảnh nào, và nơi bầu trời thiên ân của Ngài, con cầu xin đặc ân cố cựu của Ngài.
@@ -140,6 +270,8 @@ Quả thật, Ngài là Đấng Đại lượng và là Đấng Vua Vương qu�
 
 (Source category: Chúc Tụng)
 (Bahaiprayers.net ID: 4991)
+
+
 
 
 ### <a id="bpn4992"></a> Prayer bpn4992 in Tiếng Việt
@@ -150,6 +282,8 @@ Quả thật, Ngài là Đấng Thượng Đế của tất cả các thế gi�
 
 (Source category: Chúc Tụng)
 (Bahaiprayers.net ID: 4992)
+
+
 
 
 ### <a id="bpn4993"></a> Prayer bpn4993 in Tiếng Việt
@@ -172,6 +306,8 @@ L
 
 
 
+
+
 ## Chữa Bệnh
 
 ### <a id="bpn4994"></a> Prayer bpn4994 in Tiếng Việt
@@ -180,6 +316,8 @@ Quả thật, Ngài là Đấng Đại từ  Đại bi, Đấng Toàn tri, Đấ
 
 (Source category: Chữa Bệnh)
 (Bahaiprayers.net ID: 4994)
+
+
 
 
 ### <a id="bpn4995"></a> Prayer bpn4995 in Tiếng Việt
@@ -191,6 +329,8 @@ Ngài có quyền năng làm điều Ngài muốn. Không có Thượng Đế n�
 (Bahaiprayers.net ID: 4995)
 
 
+
+
 ### <a id="bpn4996"></a> Prayer bpn4996 in Tiếng Việt
 Vinh quang thuộc về Ngài, lạy Ngài là Đấng Thượng Đế của con! Con cầu xin Tối Đại Danh mà Ngài đã làm sinh động các tôi tớ Ngài và tạo dựng các thành phố, con cầu xin các Tôn hiệu ưu việt và các Đặc tính tối cao của Ngài, giúp con dân Ngài hướng về vô số ân huệ của Ngài và quay về Thánh điện Minh triết của Ngài. Xin chữa lành những căn bệnh, từ mọi phía, đã tấn công các linh hồn và ngăn trở họ hướng tầm mắt về cõi Thiên đàng dưới bóng Thánh Danh phò trợ của Ngài, mà theo phán lệnh Ngài, Danh ấy là Vua các Danh đối với tất cả cư dân cõi trời và cõi đất. Ngài có quyền năng làm điều Ngài muốn. Quyền lực của tất cả các Danh nằm trong tay Ngài. Không có Thượng Đế nào khác ngoài Ngài, Đấng Toàn năng, Đấng Toàn trí.
 Lạy Thượng Đế của con, con chỉ là sinh vật nghèo nàn và sống nhờ vào sản nghiệp của Ngài. Con rất đớn đau và bám chặt vào dây chữa bệnh của Ngài. Xin cứu con khỏi mọi căn bệnh đang vây phủ con, xin thanh lọc con hoàn toàn bằng nước ân phúc và bác ái của Ngài, xin mặc lại cho con y phục sức khoẻ do sự tha thứ  và lượng khoan dung của Ngài. Xin gắn chặt vào Ngài cái nhìn của con và xin giải thoát con khỏi mọi ràng buộc với ai khác ngoài Ngài. Xin giúp con hành động theo ý Ngài và hoàn tất điều Ngài muốn.
@@ -198,6 +338,8 @@ Quả thật, Ngài là Đấng Thượng Đế đời này và đời sau. Ngà
 
 (Source category: Chữa Bệnh)
 (Bahaiprayers.net ID: 4996)
+
+
 
 
 ### <a id="bpn4997"></a> Prayer bpn4997 in Tiếng Việt
@@ -407,6 +549,8 @@ Quả thật, Ngài là Đấng Hùng mạnh, Đấng Đầy đủ Nhất, Đấ
 
 
 
+
+
 ## Công Lý
 
 ### <a id="bpn4999"></a> Prayer bpn4999 in Tiếng Việt
@@ -418,6 +562,8 @@ Quả thật, Ngài là Đấng Từ bi, Đấng Toàn năng Toàn thắng. Khô
 
 (Source category: Công Lý)
 (Bahaiprayers.net ID: 4999)
+
+
 
 
 
@@ -435,6 +581,8 @@ Lạy Thượng Đế Từ bi vô lượng, xin Ngài thấm nhuần trái tim c
 
 
 
+
+
 ## Cứu Giúp
 
 ### <a id="bpn5000"></a> Prayer bpn5000 in Tiếng Việt
@@ -443,6 +591,8 @@ Quả thực, Ngài là Vua cả nhân loại. Không có Thượng Đế nào k
 
 (Source category: Cứu Giúp)
 (Bahaiprayers.net ID: 5000)
+
+
 
 
 ### <a id="bpn5001"></a> Prayer bpn5001 in Tiếng Việt
@@ -454,6 +604,8 @@ Lạy Thượng Đế của con, xin đừng để con rời xa ánh sáng huy h
 (Bahaiprayers.net ID: 5001)
 
 
+
+
 ### <a id="bpn5002"></a> Prayer bpn5002 in Tiếng Việt
 Lạy Thượng Đế, Thánh nhan Ngài là Đối tượng tôn thờ của tất cả những kẻ mòn mỏi tìm kiếm Ngài, sự hiện diện Ngài là hy vọng của những kẻ hoàn toàn xả thân cho Ý chí Ngài, sự kề cận Ngài là khát vọng của những kẻ vươn tới triều đường Ngài, thánh điện Ngài là bạn đường của những kẻ nhận biết chân lý Ngài, Danh Ngài là động cơ khiến mọi tâm hồn bừng cháy ước vọng chiêm ngưỡng Thánh nhan Ngài, giọng nói Ngài là lẽ sống thật sự đối với những kẻ yêu Ngài, miệng Ngài thốt ra lời là nước sự sống đối với tất cả cư dân của cõi trời và cõi đất.
 Bởi những nỗi bất công Ngài phải chịu đựng, bởi những đớn đau mà đạo binh của lũ bất xứng đã gây ra cho Ngài, con khẩn cầu Ngài ban xuống cho con những đám mây bác ái của Ngài để thanh lọc con khỏi mọi sự không thuộc về Ngài, để con xứng đáng ca tụng Ngài và có năng lực kính yêu Ngài.
@@ -462,6 +614,8 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng Hùng mạnh, Đấn
 
 (Source category: Cứu Giúp)
 (Bahaiprayers.net ID: 5002)
+
+
 
 
 
@@ -548,6 +702,8 @@ Lạy Thượng Đế của con, con xin làm chứng cho những điều mà c�
 
 
 
+
+
 ## Dài Trung Bình
 
 ### <a id="bpn4975"></a> Prayer bpn4975 in Tiếng Việt
@@ -598,6 +754,8 @@ Thượng Đế chứng nhận rằng không có Thượng Đế nào khác ngo�
 
 
 
+
+
 ## Dư Nhật
 
 ### <a id="bpn5004"></a> Prayer bpn5004 in Tiếng Việt
@@ -614,6 +772,8 @@ Ngài thực sự là Đấng Toàn năng, Đấng Toàn tri, Đấng Toàn giá
 
 
 
+
+
 ## Dịu Dàng
 
 ### <a id="bpn5003"></a> Prayer bpn5003 in Tiếng Việt
@@ -621,6 +781,8 @@ Lạy Thượng Đế, Thượng Đế của con! Xin Ngài ban cho những tôi
 
 (Source category: Dịu Dàng)
 (Bahaiprayers.net ID: 5003)
+
+
 
 
 
@@ -635,6 +797,8 @@ Lạy Ngài là Đấng Thượng Đế của con, Danh Ngài thật đáng ca n
 
 
 
+
+
 ## Giữa Khuya
 
 ### <a id="bpn5012"></a> Prayer bpn5012 in Tiếng Việt
@@ -646,6 +810,8 @@ Quả thật, Ngài là Đấng Ban cho, Đấng Đại lượng, Đấng Khoan 
 
 (Source category: Giữa Khuya)
 (Bahaiprayers.net ID: 5012)
+
+
 
 
 
@@ -665,6 +831,8 @@ Lạy Thượng Đế! Xin ban cho con phần con theo ý Ngài và khiến con 
 
 
 
+
+
 ## Hôn Lễ
 
 ### <a id="bpn5018"></a> Prayer bpn5018 in Tiếng Việt
@@ -677,12 +845,16 @@ Vĩ đại thay vinh quang Ngài, Ngài dạy: “Hỡi dân chúng, hãy bướ
 (Bahaiprayers.net ID: 5018)
 
 
+
+
 ### <a id="bpn5019"></a> Prayer bpn5019 in Tiếng Việt
 Lạy Thượng Đế của con, Ngài thật là vinh quang! Quả thực, đây là tôi trai của Ngài và đây là tớ gái của Ngài, cùng tề tựu dưới bóng từ bi của Ngài, và cả hai cùng hợp nhất nhờ ân huệ và sự độ lượng của Ngài. Lạy Thượng Đế! Xin giúp đỡ đôi bạn trong thế giới này của Ngài và trong Vương quốc của Ngài, và xin ban cho hai người mọi điều lành nhờ hồng ân và hồng phúc của Ngài. Lạy Thượng Đế! Xin bổ sức cho đôi bạn trong việc phụng sự Ngài, và giúp đỡ hai người trong sự nghiệp của Ngài. Xin biến đôi bạn thành dấu hiệu của Danh Ngài trong thế giới này, và phò trợ hai người bằng thiên phúc của Ngài vốn dư dật trong thế giới này và trong thế giới sau. Lạy Thượng Đế! Hai người này đang nài xin Vương quốc từ bi của Ngài và kêu cầu thế giới đơn nhất của Ngài. Quả thực, hai người làm lễ thành hôn trong sự vâng phục phán lệnh của Ngài. Xin biến đôi vợ chồng này thành những dấu hiệu của sự thống nhất và hòa hợp cho đến thời chung cuộc.
 Quả thực, Ngài là Đấng Toàn tri, Đấng Hằng hữu, Đấng Toàn năng!
 
 (Source category: Hôn Lễ)
 (Bahaiprayers.net ID: 5019)
+
+
 
 
 
@@ -696,6 +868,8 @@ Lạy Thượng Đế, Thượng Đế của chúng con! Chúng con là tôi t�
 
 
 
+
+
 ## Hội Họp
 
 ### <a id="bpn5015"></a> Prayer bpn5015 in Tiếng Việt
@@ -703,6 +877,8 @@ Lạy Ngài là Đấng Xót thương, Đấng Toàn năng! Những linh hồn t
 
 (Source category: Hội Họp)
 (Bahaiprayers.net ID: 5015)
+
+
 
 
 ### <a id="bpn5016"></a> Prayer bpn5016 in Tiếng Việt
@@ -716,6 +892,8 @@ Chúng con yếu đuối, Ngài thì hùng mạnh; chúng con nghèo nàn, Ngài
 (Bahaiprayers.net ID: 5016)
 
 
+
+
 ### <a id="bpn5017"></a> Prayer bpn5017 in Tiếng Việt
 Lạy Thượng Đế, Đấng Khoan dung! Lạy Đấng Giáo dục Thiêng liêng! Cuộc họp này được tô điểm bởi sự nhắc nhở đến Thánh Danh Ngài. Các tôi con Ngài đang hướng mặt về Vương quốc Ngài, với tâm hồn vui sướng, với linh hồn bình an.
 Lạy Thượng Đế, Đấng Tha thứ! Xin khiến chúng con vượt khỏi mọi khiếm khuyết của chúng con. Xin nhận chúng con vào Vương quốc Thiêng liêng của Ngài và xin dành cho con một chỗ ở, nơi đó không còn có điều lầm lỗi. Xin ban cho chúng con sự bình an; xin ban cho chúng con kiến thức, và xin mở cửa thiên đàng Ngài cho chúng con.
@@ -723,6 +901,8 @@ Ngài là Đấng Ban cho của vạn vật! Ngài là Đấng Khoan dung! Ngài
 
 (Source category: Hội Họp)
 (Bahaiprayers.net ID: 5017)
+
+
 
 
 
@@ -752,6 +932,8 @@ Sự thực, Ngài là Đấng Khoan dung, Đấng Từ bi. Lành thay Thượng
 
 
 
+
+
 ## Kinh Bản Carmel
 
 ### <a id="bpn5025"></a> Prayer bpn5025 in Tiếng Việt
@@ -772,6 +954,8 @@ Cao cả thay Đấng Thượng Đế của cả nhân loại, mà mỗi khi Dan
 
 (Source category: Kinh Bản Carmel)
 (Bahaiprayers.net ID: 5025)
+
+
 
 
 
@@ -801,6 +985,8 @@ Mọi người phải bày tỏ sự lịch thiệp và tôn kính đối với 
 
 
 
+
+
 ## Kiên Định
 
 ### <a id="bpn5020"></a> Prayer bpn5020 in Tiếng Việt
@@ -813,6 +999,8 @@ Quả thật, Ngài là Đấng Cứu khổ, Đấng Tự tồn.
 (Bahaiprayers.net ID: 5020)
 
 
+
+
 ### <a id="bpn5021"></a> Prayer bpn5021 in Tiếng Việt
 Danh Ngài thật đáng tán tụng, lạy Ngài là Đấng Thượng Đế của con! Ngài đã thấy các tôi tớ Ngài bị vây phủ khắp nơi bởi các tai ương như thế nào, các đối thủ cùng đứng lên chống đối họ và hãm hại họ trầm trọng như thế nào. Vinh quang Ngài làm chứng cho con! Nếu tất cả các kẻ làm ác trên trái đất câu kết nhau để chống lại chúng con, để ném chúng con vào thứ lửa chưa có ai từng nhen lên, họ cũng không đủ sức lôi kéo cái nhìn của chúng con ra khỏi chân trời Thánh Danh Ngài, Đấng Chí tôn, Đấng Tối cao, và sẽ không thể lái tâm hồn chúng con ra khỏi ngôi vinh quang rực rỡ của Ngài.
 Con nguyện bởi uy lực Ngài! Những mũi tên gắn vào người chúng con trên đường Ngài là vật trang sức vầng trán chúng con, và những mũi lao đâm vào chúng con trong tình yêu của chúng con đối với Ngài là lụa mịn đối với thân thể chúng con. Bởi vinh quang uy lực của Ngài! Không có cái gì xứng với tôi con Ngài ngoại trừ điều mà Ngọn bút không dời đổi của phán lệnh Ngài đã ghi trong Kinh bản cao cả và vô giá của Ngài.
@@ -820,6 +1008,8 @@ Tất cả lời ca ngợi xin dâng lên Ngài bất cứ lúc nào, bất cứ
 
 (Source category: Kiên Định)
 (Bahaiprayers.net ID: 5021)
+
+
 
 
 ### <a id="bpn5022"></a> Prayer bpn5022 in Tiếng Việt
@@ -832,6 +1022,8 @@ Quả thật, Ngài là Đấng Toàn năng, Đấng Toàn vinh, Đấng Ban ph�
 (Bahaiprayers.net ID: 5022)
 
 
+
+
 ### <a id="bpn5023"></a> Prayer bpn5023 in Tiếng Việt
 Lạy Thượng Đế của con, Danh Ngài thật vinh quang, vì Ngài đã làm biểu hiện Ngày là Vua của các ngày, Ngày mà Ngài đã thông báo cho các Đấng Tiên tri trong những Kinh bản tôn quí nhất của Ngài, là Ngày mà Ngài tuôn đổ vẻ huy hoàng vinh quang của tất cả các Danh Ngài lên mọi vật thọ tạo. Ơn phước to lớn nhất thuộc về bất cứ ai đã hướng về Ngài, bước vào sự hiện diện của Ngài, và nghe được những âm sắc của giọng nói Ngài.
 Lạy Thượng Đế của con, bởi Danh của Đấng mà Vương quốc các Danh của Ngài đã chầu hầu trong sự tôn thờ, con cầu xin Ngài rộng lượng giúp cho những ai là người thân yêu của Ngài biết tôn vinh Thánh ngôn Ngài trong vòng các tôi tớ Ngài, và truyền rộng ra lời chúc tụng Ngài giữa chúng sinh, để cho sự hoan lạc của Mặc khải Ngài tràn ngập linh hồn tất cả cư dân trên trái đất của Ngài.
@@ -840,6 +1032,8 @@ Lạy Thượng Đế của con, vì Ngài đã dắt dẫn họ đến những 
 
 (Source category: Kiên Định)
 (Bahaiprayers.net ID: 5023)
+
+
 
 
 
@@ -992,6 +1186,8 @@ Hãy ca ngợi Thượng Đế đã mặc khải bản Kinh này, để các ng�
 
 
 
+
+
 ## Lửa Đức Tin
 
 ### <a id="bpn5028"></a> Prayer bpn5028 in Tiếng Việt
@@ -1007,6 +1203,8 @@ Ngài có quyền năng làm điều Ngài thích. Quả thật, Ngài là Đấ
 
 
 
+
+
 ## Mẹ Sắp Sinh Con
 
 ### <a id="bpn5029"></a> Prayer bpn5029 in Tiếng Việt
@@ -1015,6 +1213,8 @@ Lạy Thượng Đế của con, con xin dâng lên Ngài sinh vật trong bụn
 
 (Source category: Mẹ Sắp Sinh Con)
 (Bahaiprayers.net ID: 5029)
+
+
 
 
 
@@ -1036,6 +1236,8 @@ Quả thật, Ngài là Đấng Toàn tri, Đấng Toàn trí.
 
 
 
+
+
 ## Ngắn Nhất
 
 ### <a id="bpn4974"></a> Prayer bpn4974 in Tiếng Việt
@@ -1054,6 +1256,8 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng Cứu nạn, Đấng
 
 
 
+
+
 ## Nhân Loại
 
 ### <a id="bpn5031"></a> Prayer bpn5031 in Tiếng Việt
@@ -1062,6 +1266,8 @@ Lạy Thượng Đế! Ngài là Đấng Toàn năng! Ngài là Đấng Tha th�
 
 (Source category: Nhân Loại)
 (Bahaiprayers.net ID: 5031)
+
+
 
 
 
@@ -1075,6 +1281,8 @@ Chúng con cầu xin Thượng Đế độ lượng giúp cho những người l
 
 
 
+
+
 ## Phò Trợ
 
 ### <a id="bpn5033"></a> Prayer bpn5033 in Tiếng Việt
@@ -1083,6 +1291,8 @@ Con là một trong những nữ tì của Ngài, lạy Thượng Đế của co
 
 (Source category: Phò Trợ)
 (Bahaiprayers.net ID: 5033)
+
+
 
 
 ### <a id="bpn5034"></a> Prayer bpn5034 in Tiếng Việt
@@ -1098,6 +1308,8 @@ Ngài thật đáng ca tụng, lạy Ngài là Đấng Thượng Đế của t�
 (Bahaiprayers.net ID: 5034)
 
 
+
+
 ### <a id="bpn5035"></a> Prayer bpn5035 in Tiếng Việt
 Lạy Thượng Đế của con, biết bao tâm hồn băng giá đã được nung nấu bởi lửa Chánh Đạo Ngài và biết bao tinh thần mê ngủ đã được đánh thức bởi âm sắc dịu ngọt của giọng nói Ngài! Trong những Ngày này là những Ngày của Ngài, biết bao kẻ mới đến đã tìm kiếm sự ẩn náu dưới bóng Thống nhất của Ngài và biết bao kẻ khát khao đã khổ công dò tìm giếng nước hồi sinh của Ngài.
 Phước thay cho ai hướng về Ngài và hối hả vượt tới Vầng Thái dương ánh sáng thiên nhan Ngài. Phước thay cho kẻ mà mọi tình cảm đều tập trung vào Đấng Hừng đông Mặc khải Ngài và Đấng Nguồn mạch linh ứng của Ngài. Phước thay cho kẻ biết chi dụng trên đường Ngài những gì Ngài đã ban cho y bởi lượng bao dung của Ngài và bởi ân huệ Ngài. Phước thay cho kẻ biết vứt bỏ mọi sự không thuộc về Ngài trong khi nhận chịu sự đớn đau để được trở về cùng Ngài. Phước thay cho kẻ được hưởng sự thông công mật thiết cùng Ngài và đã dứt bỏ sự ràng buộc với vạn vật, ngoại trừ Ngài.
@@ -1105,6 +1317,8 @@ Lạy Thượng Đế của con, bởi Đấng là Danh Ngài và Đấng, do Đ
 
 (Source category: Phò Trợ)
 (Bahaiprayers.net ID: 5035)
+
+
 
 
 ### <a id="bpn5036"></a> Prayer bpn5036 in Tiếng Việt
@@ -1116,6 +1330,8 @@ Lạy Thượng Đế của con, bởi quyền năng sự tôn nghiêm vô hạn
 (Bahaiprayers.net ID: 5036)
 
 
+
+
 ### <a id="bpn5037"></a> Prayer bpn5037 in Tiếng Việt
 Thánh Danh Ngài thật đáng ca ngợi, lạy Ngài là Đấng Thượng Đế của con! Con là tôi tớ Ngài, đang bấu víu vào sợi dây bác ái hiền dịu của Ngài và đang nắm chắc viền áo Khoan dung của Ngài! Bởi Thánh Danh Ngài đã chế ngự cả vạn vật, hữu hình cũng như vô hình, và bởi hơi thở sự sống thực sự vốn bao trùm cả vạn vật, con cầu xin Ngài dùng uy lực mà Ngài đã trải khắp đất trời khiến con thành hùng mạnh, và che chở con khỏi mọi tai ương, bệnh tật. Con xin chứng nhận rằng Ngài là Vua của tất cả các danh và là Đấng An bài mọi điều hợp ý Ngài. Không có Thượng Đế nào khác ngoài Ngài, Đấng Toàn năng, Đấng Toàn giác, Đấng Minh triết.
 Lạy Thượng Đế của con, xin ban cho con điều gì sẽ làm lợi cho con trong mỗi thế giới của Ngài. Xin ban cho con điều gì Ngài hứa ban cho những tạo vật được Ngài tuyển chọn để cho lời cáo buộc của kẻ vu khống, tiếng la ó của kẻ bất nghĩa, sự điên loạn trong tâm hồn những kẻ xa cách Ngài không thể ngăn trở con hướng về Ngài.
@@ -1123,6 +1339,8 @@ Quả thật, Ngài là Đấng Cứu giúp trong cảnh hiểm nghèo bởi uy 
 
 (Source category: Phò Trợ)
 (Bahaiprayers.net ID: 5037)
+
+
 
 
 ### <a id="bpn5038"></a> Prayer bpn5038 in Tiếng Việt
@@ -1134,12 +1352,16 @@ Ngài là Đấng Thượng Đế quyền uy, vinh quang và từ bi. Không có
 (Bahaiprayers.net ID: 5038)
 
 
+
+
 ### <a id="bpn5039"></a> Prayer bpn5039 in Tiếng Việt
 Lạy Ngài là Đấng Thượng Đế Vô song! Lạy Ngài là Vua của Vương quốc! Những linh hồn này là đạo thiên binh của Ngài. Xin giúp đỡ họ và, bằng đạo binh nơi Quần hội Tối thượng, xin khiến họ thành công, để từng người có thể trở nên như một đạo quân và chinh phục các nước bằng tình yêu của Thượng Đế và bằng ánh sáng của giáo lý thiêng liêng.
 Lạy Thượng Đế! Xin Ngài hãy là Đấng cứu giúp và nâng đỡ họ, và xin Ngài hãy là niềm trông cậy của họ ở nơi hoang dã, núi non, thung lũng, rừng rú, ruộng đồng và biển cả - để họ có thể ca lên nhờ uy quyền của Vương quốc và nhờ hơi thở của Thánh Linh.
 
 (Source category: Phò Trợ)
 (Bahaiprayers.net ID: 5039)
+
+
 
 
 
@@ -1155,6 +1377,8 @@ Dù thân thể con bị đau đớn vì những tai ương do Ngài ban xuống
 
 
 
+
+
 ## Phụng Sự
 
 ### <a id="bpn5041"></a> Prayer bpn5041 in Tiếng Việt
@@ -1164,6 +1388,8 @@ Cây hy vọng sẽ trổ xanh. Chất đồng miệt thị và khinh rẻ sẽ 
 
 (Source category: Phụng Sự)
 (Bahaiprayers.net ID: 5041)
+
+
 
 
 
@@ -1188,6 +1414,8 @@ Hỡi Ngòi bút, trong Ngày này ngươi có thể tìm thấy ai khác ngoài
 
 
 
+
+
 ## Rạng Đông
 
 ### <a id="bpn10469"></a> Prayer bpn10469 in Tiếng Việt
@@ -1202,6 +1430,8 @@ Quả thật, Ngài là Thượng Đế và là Vua của mọi người; vạn 
 
 
 
+
+
 ## Sức Mạnh
 
 ### <a id="bpn10468"></a> Prayer bpn10468 in Tiếng Việt
@@ -1210,6 +1440,8 @@ Quả thật, Ngài là Đấng Cứu giúp và là Thượng Đế của họ.
 
 (Source category: Sức Mạnh)
 (Bahaiprayers.net ID: 10468)
+
+
 
 
 
@@ -1222,6 +1454,8 @@ Sự chết đem đến cho mỗi tín đồ chiếc cốc sự sống thật s�
 (Bahaiprayers.net ID: 5046)
 
 
+
+
 ### <a id="bpn5047"></a> Prayer bpn5047 in Tiếng Việt
 Lạy Thượng Đế của con, xin cho những người về với Ngài được nấp bóng Ngài là Bạn đường Tối cao. Xin cho người được ở lại dưới bóng Thánh điện uy nghi của Ngài và nơi Triều đường Vinh quang của Ngài.
 Lạy Thượng Đế của con, từ đại dương Khoan thứ của Ngài xin ban cho người điều khiến người trở nên xứng đáng được cư trú trong Vương quốc Tối cao của Ngài, dưới sự ngự trị cao cả của Ngài, lâu đời như sự tồn tại chính uy quyền tối thượng của Ngài.
@@ -1231,6 +1465,8 @@ Ngài có quyền năng hành động theo tôn ý Ngài.
 (Bahaiprayers.net ID: 5047)
 
 
+
+
 ### <a id="bpn5048"></a> Prayer bpn5048 in Tiếng Việt
 Hãy tụng: Lạy Thượng Đế của con, lạy Thượng Đế của con! Ngài đã giao phó cho con bảo chứng này Phát sinh từ Ngài, và Ngày nay theo tôn ý Ngài, Ngài gọi người về cùng Ngài. Là tôi tớ Ngài, con đâu được phép tự hỏi: “Điều này từ đâu đến và tại sao?”, bởi vì mọi hành động của Ngài đều thánh thiện và tất cả chỉ dụ của Ngài đều phải tuân tùng.
 Lạy Thượng Đế của con, kẻ tôi tớ Ngài xin đặt trọn hy vọng nơi thiên ân và lòng từ ái của Ngài. Xin ban cho người điều gì khiến linh hồn người được đến gần Ngài và điều gì khiến người trở nên cao quí trong mỗi thế giới của Ngài. Ngài là Đấng Tha thứ, Đấng Thượng Đế hoàn toàn từ bi.
@@ -1238,6 +1474,8 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng An bài Tối cao, �
 
 (Source category: Tang Lễ)
 (Bahaiprayers.net ID: 5048)
+
+
 
 
 ### <a id="bpn5049"></a> Prayer bpn5049 in Tiếng Việt
@@ -1258,12 +1496,16 @@ QUẢ THẬT, TẤT CẢ CHÚNG CON ĐỀU BỀN LÒNG TRONG THƯỢNG ĐẾ.
 (Bahaiprayers.net ID: 5049)
 
 
+
+
 ### <a id="bpn5050"></a> Prayer bpn5050 in Tiếng Việt
 Lạy Thượng Đế của con! Lạy Ngài là Đấng Xá tội! Đấng Ban thưởng! Đấng Cứu khổ! Quả thật, con cầu xin Ngài tha thứ tội lỗi cho những người rời bỏ chiếc áo thân xác và vươn lên thế giới tâm linh.
 Lạy Thượng Đế của con! Xin thanh tẩy những quá phạm của người, xin xóa bỏ nỗi khổ não của người, và biến bóng tối nơi người thành ánh sáng. Xin cho linh hồn người vào vườn lạc phúc, xin thanh tẩy người bằng nước tinh khiết nhất, và xin cho người được thấy hào quang của Ngài ở trên đỉnh non cao nhất.
 
 (Source category: Tang Lễ)
 (Bahaiprayers.net ID: 5050)
+
+
 
 
 
@@ -1274,6 +1516,8 @@ Lạy Thượng Đế! Xin Ngài khiến người thanh niên này trở nên tr
 
 (Source category: Thanh Niên)
 (Bahaiprayers.net ID: 5051)
+
+
 
 
 
@@ -1289,12 +1533,16 @@ Ngài là Đấng Toàn năng, Đấng Bác ái.
 (Bahaiprayers.net ID: 5052)
 
 
+
+
 ### <a id="bpn5053"></a> Prayer bpn5053 in Tiếng Việt
 Lạy Thượng Đế của con, bởi sức mạnh, uy lực và quyền tối thượng của Ngài vốn bao trùm mọi kẻ ở cõi trời và cõi đất của Ngài, con cầu xin Ngài khiến các tôi tớ Ngài được biết Đường Sáng và Nẻo Chánh này, để họ thức ngộ được sự thống nhất và sự đơn nhất của Ngài với niềm xác tín vững chắc đến nỗi họ không bị rối loạn bởi ý tưởng hão huyền của kẻ hoài nghi và bị tăm tối bởi những tưởng tượng vô giá trị của kẻ ương ngạnh.
 Lạy Thượng Đế của con, xin soi sáng mắt các tôi tớ Ngài và làm phấn khởi tâm hồn họ bởi vẻ huy hoàng của ánh sáng tri thức Ngài, để họ hiểu được sự vĩ đại của cương vị rất cao cả này và nhận biết chân trời rực sáng này, hầu cho họ được hạnh phúc, và tiếng la ó của người đời không thể ngăn họ tiếp tục hướng nhìn về ánh sáng huy hoàng sự thống nhất của Ngài và hướng mặt về chân trời giải thoát.
 
 (Source category: Thống Nhất)
 (Bahaiprayers.net ID: 5053)
+
+
 
 
 ### <a id="bpn5054"></a> Prayer bpn5054 in Tiếng Việt
@@ -1307,12 +1555,16 @@ Bởi mắt của những kẻ chiêm ngưỡng Ngài khi Ngài ngự trị trê
 (Bahaiprayers.net ID: 5054)
 
 
+
+
 ### <a id="bpn5055"></a> Prayer bpn5055 in Tiếng Việt
 Thượng Đế chứng nhận rằng thần tính của Ngài là duy nhất và bất khả phân. Từ trên Ngai Vĩnh cửu, từ những đỉnh cao không ai vượt tới của cương vị tối cao của Ngài, lưỡi Ngài công bố rằng không có Thượng Đế nào khác ngoài Ngài. Chính Ngài, độc lập đối với bất cứ ai khác, đã là Nhân chứng về sự đơn nhất riêng Ngài, Đấng mặc khải bản thể riêng Ngài, là Đấng tôn vinh tinh hoa riêng Ngài. Sự thật, Ngài là Đấng Toàn năng, Đấng Tối cao, Đấng Mỹ lệ.
 Ngài có quyền tối thượng ở trên các tôi tớ Ngài và Ngài ngự trị các tạo vật Ngài. Nguồn cội chân lý và uy quyền ở trong tay Ngài. Bởi dấu hiệu của Ngài, Ngài ban sự sống cho con người, và bởi cơn thịnh nộ của Ngài, Ngài khiến họ phải chết. Không ai có quyền chất vấn hành động Ngài và không ai vượt được uy lực của Ngài. Ngài là Đấng Hùng mạnh, Đấng Chiến thắng. Ngài nắm trong tay Ngài chủ quyền của mọi vật và Vương quốc mặc khải cũng gắn liền với tay phải Ngài. Quả thật, uy lực Ngài bao trùm toàn thể tạo vật. Sự thắng lợi và quyền tối thượng, năng lực và uy thế, vinh quang và sự vĩ đại đều thuộc về Ngài. Quả thật, Ngài là Đấng Vinh quang, Đấng Toàn năng, Đấng Tuyệt đối.
 
 (Source category: Thống Nhất)
 (Bahaiprayers.net ID: 5055)
+
+
 
 
 ### <a id="bpn5056"></a> Prayer bpn5056 in Tiếng Việt
@@ -1338,6 +1590,8 @@ C
 
 
 
+
+
 ## Thử Thách Và Khó Khăn
 
 ### <a id="bpn5057"></a> Prayer bpn5057 in Tiếng Việt
@@ -1349,6 +1603,8 @@ Lạy Thượng Đế của con, xin củng cố bước chân chúng con trong 
 (Bahaiprayers.net ID: 5057)
 
 
+
+
 ### <a id="bpn5058"></a> Prayer bpn5058 in Tiếng Việt
 Ngài vinh quang thay, lạy Ngài là Đấng Thượng Đế của con! Mọi người có huệ giác đều tin nhận quyền tối thượng của Ngài và sự ngự trị của Ngài; mọi linh nhãn đều nhận thấy sự vĩ đại của thiên uy và quyền lực toàn thắng của sức mạnh Ngài. Những cơn gió thử thách không đủ sức ngăn trở những người thấy đường tiến tới gần Ngài, hướng mặt về chân trời vinh quang của Ngài; những trận bão tai ương không thể cuốn hút ra xa và cản trở những người toàn tâm phục tùng Ý chí Ngài, tiến về triều đường của Ngài.
 Con thấy ngọn đèn tình yêu của Ngài rực cháy trong tim họ, và ánh sáng sự hiền dịu của Ngài chói lọi trong ngực họ. Tai họa không sao làm họ thành xa lạ với Chánh Đạo của Ngài, và những biến chuyển của thời vận không bao giờ khiến họ rời bỏ sự hài lòng của Ngài.
@@ -1356,6 +1612,8 @@ Lạy Thượng Đế của con, vì họ và vì tiếng thổn thức mà lòn
 
 (Source category: Thử Thách Và Khó Khăn)
 (Bahaiprayers.net ID: 5058)
+
+
 
 
 ### <a id="bpn5059"></a> Prayer bpn5059 in Tiếng Việt
@@ -1366,12 +1624,16 @@ Con cầu xin Ngài giúp con giữ chặt tình yêu của Ngài và sự tư�
 (Bahaiprayers.net ID: 5059)
 
 
+
+
 ### <a id="bpn5060"></a> Prayer bpn5060 in Tiếng Việt
 Vinh quang thay Danh Ngài, lạy Ngài là Đấng Thượng Đế của Con! Ngài thấy nơi ở của Con, và nhà tù mà người ta đã ném Con vào và những tai họa Con phải nhận chịu. Bởi quyền lực Ngài! Không bút nào kể hết những điều ấy; không lưỡi nào tả được hoặc đếm được những tai họa đó. Lạy Thượng Đế của Con, Con không hiểu vì mục đích gì Ngài phó mặc Con cho những kẻ thù Ngài. Vinh quang Ngài làm chứng cho Con! Con không sầu khổ vì những phiền toái Con phải chịu đựng vì tình yêu của Ngài, Con cũng không hoang mang vì những tai họa vây phủ Con trên đường Ngài. Con chỉ khổ vì Ngài chậm hoàn thành điều Ngài đã quyết định trong các Kinh bản của Mặc khải Ngài và thiết định trong các Thánh thư chỉ dụ và phán quyết của Ngài.
 Máu của Con vẫn hằng kêu gào với Con: “Hỡi Ngài, chính Ngài là hình ảnh Đấng Đại Khoan dung! Còn bao lâu nữa Ngài mới giải phóng con khỏi sự cầm giam nơi trần thế này, và giải thoát con khỏi những ràng buộc của cuộc đời này? Ngài đã chẳng hứa dùng con để nhuộm đất này, và rưới con lên mặt những cư dân trong thiên đàng của Ngài đó sao?” Về lời ấy Con đã đáp: “Ngươi hãy kiên nhẫn và an tâm. Những điều ngươi muốn chỉ diễn ra một giờ. Tuy nhiên, về phần Ta, Ta đã liên tục uống chén chỉ dụ của Thượng Đế trên đường Ngài, và không hề mong phán lệnh của Ý chí Ngài ngưng tác động, hoặc mong chấm dứt những tai họa Ta chịu đựng vì Thượng Đế của Ta, Đấng Tối cao, Đấng Toàn vinh. Ngươi hãy tìm ý muốn của Ta và bỏ đi ý muốn của ngươi. Sự ràng buộc ngươi không phải để bảo vệ Ta nhưng để giúp Ta gánh lấy những tai ương dồn dập, và chuẩn bị cho Ta đón nhận những thử thách sẽ tới tấp tấn công Ta. Trong tình yêu đối với người tình mà còn phân biệt sự thích thú với sự độc hại, thì người yêu đó đáng bị hủy diệt! Ngươi hãy thỏa mãn với điều Thượng Đế đã an bài cho ngươi. Quả thật, Ngài khiến sử dụng ngươi tùy ý muốn và ý thích của Ngài. Không có Thượng Đế nào khác ngoài Ngài, Đấng không ai vươn tới, Đấng Tối cao.”
 
 (Source category: Thử Thách Và Khó Khăn)
 (Bahaiprayers.net ID: 5060)
+
+
 
 
 ### <a id="bpn5061"></a> Prayer bpn5061 in Tiếng Việt
@@ -1383,12 +1645,16 @@ Bởi Tối Đại Danh của Ngài và bởi quyền ngự trị tối cổ c�
 (Bahaiprayers.net ID: 5061)
 
 
+
+
 ### <a id="bpn5062"></a> Prayer bpn5062 in Tiếng Việt
 Vinh thay Danh Ngài, lạy Ngài là Đấng Thượng Đế của thiên đàng! Xin trang sức đầu con bằng vương miện của sự tử đạo, như Ngài đã tô điểm thân thể con bằng trang phục tai ương trước tất cả những người cư ngụ trên đất Ngài. Cũng xin ban cho những người, mà tâm hồn khao khát Ngài, điều gì khiến họ có thể được thu hút đến gần chân trời ân phúc của Ngài, nơi đó Mặt trời Mỹ lệ của Ngài tỏa rực hào quang. Xin Ngài cũng ban cho họ điều gì khiến họ trở nên giàu có đến mức không còn tùy thuộc ai ngoại trừ Ngài, tách họ khỏi mọi ràng buộc với những kẻ chối bỏ các dấu hiệu của Ngài.
 Không có ai ngoài Ngài là Thượng Đế, Đấng Giáo hộ, Đấng Tự tồn.
 
 (Source category: Thử Thách Và Khó Khăn)
 (Bahaiprayers.net ID: 5062)
+
+
 
 
 ### <a id="bpn5063"></a> Prayer bpn5063 in Tiếng Việt
@@ -1401,6 +1667,8 @@ Ngài có đủ quyền năng làm diều Ngài thích. Quả thật, Ngài là 
 (Bahaiprayers.net ID: 5063)
 
 
+
+
 ### <a id="bpn5064"></a> Prayer bpn5064 in Tiếng Việt
 Vinh quang thuộc về Ngài, lạy Thượng Đế của Con! Làm sao người ta nhận biết được những kẻ thật sự tôn thờ Ngài nếu họ không chịu đựng tai họa trên đường Ngài? Làm sao hàng ngũ những kẻ khao khát Thánh nhan Ngài được tỏ rõ nếu họ không vui nhận thử thách bởi tình yêu Ngài? Quyền năng Ngài làm chứng cho Con về điều này! Bạn đường những kẻ thờ phượng Ngài là những giọt lệ tuôn rơi từ mắt họ; nguồn an ủi của những kẻ tìm kiếm Ngài là tiếng rên siết của chính họ, và thức ăn của những kẻ hối hả tìm gặp Ngài là những mảnh vỡ tim họ.
 Vị đắng cái chết trên đường Ngài đối với lưỡi Con thật ngọt ngào biết bao, và những mũi tên của kẻ thù nghịch đối với mắt Con quí giá biết dường nào, khi những mũi tên ấy được đón nhận để nêu cao Thánh ngôn Ngài! Lạy Thượng Đế của Con, xin cho Con uống no nê trong Chánh Đạo Ngài bất cứ thứ gì Ngài dành cho Con, và xin ban xuống cho Con tất cả những gì Ngài đã ấn định trong tình yêu Ngài. Bởi Vinh quang Ngài, Con chỉ ước ao điều Ngài ước ao và chỉ quí điều Ngài quí. Luôn luôn Con đặt trọn sự xác tín và niềm tin cậy của Con nơi Ngài.
@@ -1411,11 +1679,15 @@ Ngài có quyền năng làm điều Ngài thích, không có Thượng Đế n�
 (Bahaiprayers.net ID: 5064)
 
 
+
+
 ### <a id="bpn5065"></a> Prayer bpn5065 in Tiếng Việt
 Lạy Thượng Đế, Thượng Đế của con! Xin đừng ở xa con bởi vì các tai họa đang vây phủ con. Lạy Thượng Đế, Thượng Đế của con! Xin đừng bỏ con một mình, bởi vì nghịch cảnh gay go nhất đang dằn vặt con. Xin giải khát con bằng sữa tinh khiết đức từ ái ngọt ngào của Ngài, bởi vì cái khát đang làm cho con hoàn toàn kiệt quệ. Xin che chở con dưới bóng đôi cánh bác ái Ngài, bởi tất cả những kẻ thù của con đã đồng thanh nhất trí tấn công con. Xin giữ con ở gần ngai uy nghi của Ngài, trước Mặc khải những dấu hiệu vinh quang của Ngài, bởi sự bất hạnh đang đè nặng lên con. Xin nuôi con bằng trái ngon trên Cây Vĩnh cửu của Ngài, bởi vì con trở nên vô cùng suy yếu. Xin tăng sức con với chiếc ly hoan lạc nơi bàn tay bác ái dịu hiền của Ngài, bởi vì bao nhiêu sự phiền muộn đang thô bạo giáng xuống người con. Xin mặc lại cho con chiếc áo tô điểm với quyền tối thượng toàn năng của Ngài, bởi vì sự nghèo nàn đã khiến con hoàn toàn trần trụi. Xin cho con được an nghỉ trong tiếng ru Chim Bồ câu Vĩnh cửu của Ngài, bởi vì những phiền muộn tối tăm đã đến với con. Xin cho con được ở trước ngai thống nhất của Ngài và trước ánh sáng diễm lệ của Thánh nhan Ngài, bởi vì sự sợ sệt và sự run rẫy đã hủy diệt con. Xin dìm con xuống đại dương tha thứ của Ngài trước sự di động không ngừng của chiếc thuyền Vinh quang, bởi vì các tội lỗi của con đọa đày con hoàn toàn.
 
 (Source category: Thử Thách Và Khó Khăn)
 (Bahaiprayers.net ID: 5065)
+
+
 
 
 ### <a id="bpn5066"></a> Prayer bpn5066 in Tiếng Việt
@@ -1424,6 +1696,8 @@ Xin chấp thuận cho con hướng về Ngài hoàn toàn, đặt nơi Ngài s�
 
 (Source category: Thử Thách Và Khó Khăn)
 (Bahaiprayers.net ID: 5066)
+
+
 
 
 ### <a id="bpn5067"></a> Prayer bpn5067 in Tiếng Việt
@@ -1435,6 +1709,8 @@ Quả thật, Ngài là Đấng đã lấy ân phúc Ngài dắt dẫn họ vào
 (Bahaiprayers.net ID: 5067)
 
 
+
+
 ### <a id="bpn5068"></a> Prayer bpn5068 in Tiếng Việt
 Lạy Thượng Đế, Thượng Đế của con, bởi đức từ ái và lượng khoan dung Ngài đã xóa bỏ nỗi khổ não của con, xin lấy quyền tối thượng và uy lực Ngài loại trừ sự phiền muộn của con. Lạy Thượng Đế của con, Ngài thấy con đã hướng mặt về Ngài trong khi những sầu khổ vây phủ con khắp mọi phía. Lạy Ngài là Đấng Thượng Đế của vạn vật, Đấng Che chở vạn vật hữu hình và vô hình, con cầu xin Ngài lấy Thánh Danh mà Ngài đã chế ngự tâm hồn và linh hồn mọi người và lấy những đợt sóng Đại dương khoan dung của Ngài và vẻ huy hoàng Ngôi Sao Mai ân phúc Ngài, kể con trong số những kẻ không gì có thể ngăn họ quay mặt về Ngài, lạy Ngài là Vua của tất cả các Danh và là Đấng Sáng tạo các cõi trời.
 Lạy Thượng Đế của con, Ngài thấy rõ những điều xảy đến với con trong những Ngày của Ngài. Bởi Đấng Bình minh các Danh Ngài và Đấng Bình minh các Đặc tính Ngài, con cầu xin Ngài ban cho con điều gì sẽ giúp con đứng lên phụng sự Ngài và tuyên dương các phẩm hạnh Ngài. Quả thật, Ngài là Đấng Toàn năng, Đấng Tối Quyền thế, Đấng Sẵn sàng đáp ứng lời cầu nguyện của mọi người!
@@ -1442,6 +1718,8 @@ Và sau hết, con cầu xin Ngài lấy ánh sáng Thánh nhan Ngài ban phúc 
 
 (Source category: Thử Thách Và Khó Khăn)
 (Bahaiprayers.net ID: 5068)
+
+
 
 
 
@@ -1459,6 +1737,8 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng Toàn tri, Đấng T
 
 
 
+
+
 ## Tri Thức
 
 ### <a id="bpn5075"></a> Prayer bpn5075 in Tiếng Việt
@@ -1470,6 +1750,8 @@ Quả thật, Ngài là Đấng Thượng Đế Quyền uy, Đấng Cứu nạn,
 (Bahaiprayers.net ID: 5075)
 
 
+
+
 ### <a id="bpn5076"></a> Prayer bpn5076 in Tiếng Việt
 Lạy Thượng Đế, Ngài là Đấng Phát sinh mọi Biểu hiện, là Nguyên thủy của mọi Cội nguồn, là Căn gốc của mọi Mặc khải và mọi Ánh sáng. Bởi Danh Ngài đã điểm tô rực rỡ bầu trời tri thức, con xin chứng nhận rằng đại dương Thánh ngôn Ngài đã dâng lên và những ban phát thiên ân Ngài đã tuôn đổ xuống cho tín đồ mọi tôn giáo.
 Con khẩn cầu Ngài khiến con trở nên giàu có tới mức có thể dứt bỏ tất cả và trở nên độc lập đối với bất cứ ai ngoài Ngài. Từ những đám mây đại lượng của Ngài, xin tuôn đổ xuống điều gì ích lợi cho con trong mỗi thế giới của Ngài. Với ân đức thêm sức của Ngài xin giúp con phụng sự thật tốt Chánh Đạo Ngài trong vòng các tôi tớ Ngài để con có thể thực hiện điều khiến con được nhớ mãi như sự tồn tại vĩnh cửu của Vương quốc và Quyền tối thượng của Ngài.
@@ -1478,6 +1760,8 @@ Quả thật, Ngài là Đấng Thượng Đế của sức mạnh và quyền n
 
 (Source category: Tri Thức)
 (Bahaiprayers.net ID: 5076)
+
+
 
 
 
@@ -1492,6 +1776,8 @@ Quả thật, Ngài là Đấng Tối cao của toàn thể các thế giới v�
 (Bahaiprayers.net ID: 5077)
 
 
+
+
 ### <a id="bpn5078"></a> Prayer bpn5078 in Tiếng Việt
 Lạy Ngài là Đấng Thượng Đế Khoan dung! Những kẻ tôi tớ này đang hướng về Vương quốc Ngài, kiếm tìm thiên phúc và thiên ân của Ngài.
 Lạy Thượng Đế! Xin khiến tâm hồn họ nên tốt và sạch để họ có thể xứng đáng với tình yêu của Ngài. Xin thanh lọc và thánh hóa tinh thần để họ có thể được ánh sáng Mặt trời Thực tại rọi đến. Xin thanh lọc và thánh hóa đôi mắt để họ có thể tiếp nhận ánh sáng của Ngài. Xin thanh lọc và thánh hóa đôi tai để họ có thể nghe tiếng gọi từ Vương quốc của Ngài.
@@ -1500,6 +1786,8 @@ Lạy Thượng Đế! Quả thật, chúng con yếu đuối nhưng Ngài hùng
 
 (Source category: Trong Sạch)
 (Bahaiprayers.net ID: 5078)
+
+
 
 
 
@@ -1514,6 +1802,8 @@ Quả thực, Ngài là Đấng Toàn năng, Đấng Tối cao, Đấng Toàn vi
 (Bahaiprayers.net ID: 5079)
 
 
+
+
 ### <a id="bpn5080"></a> Prayer bpn5080 in Tiếng Việt
 Lạy Thượng Đế, lạy Thượng Đế của con!
 Đây là con chim bị gãy cánh và bay rất chậm chạp. Xin hãy giúp đỡ nó, để nó có thể bay đến nơi cao điểm của sự thịnh vượng và cứu rỗi, tung cánh bay lên với niềm hoan lạc và hạnh phúc tuyệt đỉnh trong bầu trời vô hạn, hót lên những âm thanh du dương của Tối Đại Danh Ngài đến khắp mọi nơi trong vũ trụ, làm thỏa thích đôi tai bằng lời kêu gọi này, và làm sáng chói đôi mắt bằng những dấu hiệu của sự hướng dẫn!
@@ -1521,6 +1811,8 @@ Lạy Thượng Đế! Con là kẻ cô độc, đơn chiếc và thấp hèn. �
 
 (Source category: Truyền Giáo)
 (Bahaiprayers.net ID: 5080)
+
+
 
 
 
@@ -1535,11 +1827,15 @@ Lạy Thượng Đế của con, xin Ngài cũng ban cho cháu bé điều lành
 (Bahaiprayers.net ID: 5074)
 
 
+
+
 ### <a id="bpn5070"></a> Prayer bpn5070 in Tiếng Việt
 Lạy Thượng Đế của con, xin Ngài dắt dẫn con, che chở con, thắp sáng ngọn đèn tâm hồn con và biến con thành ngôi sao sáng. Quả thật, Ngài là Đấng Hùng mạnh và Uy quyền.
 
 (Source category: Trẻ Em)
 (Bahaiprayers.net ID: 5070)
+
+
 
 
 ### <a id="bpn5071"></a> Prayer bpn5071 in Tiếng Việt
@@ -1549,11 +1845,15 @@ Lạy Thượng Đế! Xin giáo dục các cháu bé này. Các cháu là cây 
 (Bahaiprayers.net ID: 5071)
 
 
+
+
 ### <a id="bpn5072"></a> Prayer bpn5072 in Tiếng Việt
 Lạy Thượng Đế! Xin nuôi dưỡng cháu hài nhi này trong lồng ngực tình yêu của Ngài, và ban cho cháu bầu sữa từ bi của Ngài. Xin trồng cây non này trong vườn hồng tình yêu của Ngài và giúp cháu phát triển nhờ cơn mưa ân phúc của Ngài. Xin biến cháu thành em bé trong Vương quốc của Ngài và xin dắt dẫn cháu vào thế giới Thiên thượng của Ngài. Ngài là Đấng Hùng mạnh và Từ ái, Ngài là Đấng Ban cho, Đấng Đại lượng, Đấng Thượng Đế của ơn phước tràn trề.
 
 (Source category: Trẻ Em)
 (Bahaiprayers.net ID: 5072)
+
+
 
 
 ### <a id="bpn5073"></a> Prayer bpn5073 in Tiếng Việt
@@ -1564,6 +1864,8 @@ Lạy Ngài là Đấng Thượng Đế Vô song! Xin cho cháu hài nhi này đ
 
 
 
+
+
 ## Tạ Ơn
 
 ### <a id="bpn5043"></a> Prayer bpn5043 in Tiếng Việt
@@ -1571,6 +1873,8 @@ Lạy Ngài là Đấng Thượng Đế Vô song! Xin cho cháu hài nhi này đ
 
 (Source category: Tạ Ơn)
 (Bahaiprayers.net ID: 5043)
+
+
 
 
 ### <a id="bpn5044"></a> Prayer bpn5044 in Tiếng Việt
@@ -1584,12 +1888,16 @@ Quả thật, Ngài là Đấng Cứu nạn, Đấng Tự tồn.
 (Bahaiprayers.net ID: 5044)
 
 
+
+
 ### <a id="bpn5045"></a> Prayer bpn5045 in Tiếng Việt
 Lạy Ngài là Đấng Thượng Đế của con, Ngài thật là vinh quang! Con xin dâng lên Ngài lời cảm tạ vì đã giúp con nhận biết Đấng Biểu hiện Bản thể Ngài, và tách con ra khỏi những kẻ thù Ngài, và phơi trần trước mắt con những hành vi sai lạc của họ và những sự nghiệp xấu xa của họ trong những Ngày của Ngài, vì đã cắt đứt mọi ràng buộc giữa con với họ và khiến con hoàn toàn hướng về thiên ân và huệ phúc dồi dào của Ngài. Con cũng dâng lên Ngài lời cảm tạ, vì từ những đám mây Ý chí của Ngài, Ngài đã ban xuống cho con những gì giúp con thoát khỏi những gợi ý của kẻ nghịch đạo và những lời bóng gió của kẻ vô tín, khiến lòng con gắn bó chặt chẽ vào Ngài, và lánh xa những kẻ chối bỏ ánh sáng thánh nhan Ngài. Con cũng tạ ơn Ngài vì đã ban sức mạnh để con được kiên định trong tình yêu của Ngài, nói lên lời chúc tụng Ngài và tán dương những thánh đức của Ngài, vì Ngài đã cho con được uống chén ân phúc của Ngài vốn quí báu hơn mọi vật hữu hình và vô hình.
 Ngài là Đấng Toàn năng, Đấng Chí tôn, Đấng Toàn vinh, Đấng Đại bi.
 
 (Source category: Tạ Ơn)
 (Bahaiprayers.net ID: 5045)
+
+
 
 
 
@@ -1613,6 +1921,8 @@ Không có Thượng Đế nào khác ngoài Ngài, Đấng luôn luôn tha th�
 
 
 
+
+
 ## Đóng Góp
 
 ### <a id="bpn5006"></a> Prayer bpn5006 in Tiếng Việt
@@ -1622,6 +1932,8 @@ Quả thật, Ngài là Đấng Nuôi dưỡng, Đấng Cứu giúp, Đấng Đ�
 
 (Source category: Đóng Góp)
 (Bahaiprayers.net ID: 5006)
+
+
 
 
 
@@ -1636,6 +1948,8 @@ Quả thực, Ngài là Đấng Toàn năng, Đấng Quang vinh vô hạn, Đấ
 (Bahaiprayers.net ID: 5007)
 
 
+
+
 ### <a id="bpn5008"></a> Prayer bpn5008 in Tiếng Việt
 Lạy Thượng Đế của con, xin tạo cho con trái tim trong sạch. Lạy Đấng Hy vọng của con, xin làm tái sinh trong con một lương tri bình thản! Lạy Đấng Kính yêu của con, xin lấy tinh thần uy lực Ngài củng cố đức tin của con nơi Chánh Đạo Ngài. Lạy Ngài là Đấng Tôn chỉ nguyện vọng của con, xin lấy ánh sáng vinh quang mặc khải đường Ngài cho con.
 Lạy Đấng Cội nguồn bản thể của con, xin lấy uy lực tối cao nâng con lên cõi trời Thánh thiện của Ngài. Lạy Ngài là Đấng Thượng Đế của con, xin làm phấn khởi tâm hồn con với những làn gió vĩnh cửu của Ngài!
@@ -1643,6 +1957,8 @@ Lạy Đấng Bạn đường của con, xin đem lại cho con sự an tỉnh b
 
 (Source category: Đức Tính Tâm Linh)
 (Bahaiprayers.net ID: 5008)
+
+
 
 
 ### <a id="bpn5009"></a> Prayer bpn5009 in Tiếng Việt
@@ -1654,6 +1970,8 @@ Quả thực, Ngài là Đấng Hùng mạnh Nhất, Đấng Tối cao, Đấng 
 
 (Source category: Đức Tính Tâm Linh)
 (Bahaiprayers.net ID: 5009)
+
+
 
 
 ### <a id="bpn5010"></a> Prayer bpn5010 in Tiếng Việt
@@ -1680,6 +1998,8 @@ Ngài có quyền năng làm điều Ngài muốn. Quả thật, Ngài là Đấ
 (Bahaiprayers.net ID: 5010)
 
 
+
+
 ### <a id="bpn5011"></a> Prayer bpn5011 in Tiếng Việt
 Vinh quang thuộc về Ngài, Đấng Thượng Đế của tất cả các thế giới, Đấng Kính yêu của những ai nhận biết Ngài! Ngài thấy con bị đe dọa bởi thanh kiếm treo đầu sợi chỉ, và Ngài biết rằng trong bất cứ hoàn cảnh nào con cũng không thiếu bổn phận đối với Chánh Đạo Ngài, bổn phận quảng bá sự ca tụng Ngài, bổn phận rao truyền sự hoàn hảo của Ngài, và bổn phận tuyên ngôn tất cả những điều Ngài truyền dạy trong các Thánh kinh của Ngài. Dù cho thanh kiếm có sẵn sàng rơi xuống đầu con, con cũng chỉ cầu xin những điều Ngài yêu thích bằng những âm sắc có thể khiến mọi tâm hồn được cuốn hút về phía chân trời tôn nghiêm và vĩ đại của Ngài.
 Lạy Thượng Đế của con, xin gạn sạch tai họ để họ có thể nghe những bài hát ngọt ngào cất lên từ cánh phải ngai Vinh quang của Ngài. Với uy lực của Ngài, con xin minh thệ rằng bất cứ ai muốn hòa mình trong những điệu hoan ca đó đều được thêm sức để vượt tới Vương quốc Mặc khải của Ngài, nơi đó vạn vật đều tuyên dương rằng Ngài là Thượng Đế và không có Thượng Đế nào khác ngoài Ngài, Đấng Toàn năng, Đấng Cứu giúp trong cảnh hiểm nghèo, Đấng Tự hữu. Lạy Thượng Đế của con, xin Ngài mở rộng mi mắt các tôi tớ Ngài, và với sự êm dịu của Thánh ngôn Ngài, xin khơi động tâm hồn họ tới mức các tai họa đều không thể ngăn họ hướng về Ngài và nhìn về chân trời Mặc khải của Ngài.
@@ -1690,11 +2010,16 @@ Ngài có quyền năng hành động theo tôn ý của Ngài. Không có Thư�
 (Bahaiprayers.net ID: 5011)
 
 
+
+
 ### <a id="bpn4998"></a> Prayer bpn4998 in Tiếng Việt
 Hãy tụng: Lạy Thượng Đế, Thượng Đế của con! Xin trang sức đầu con với chiếc mão công lý và thái dương con với vật trang sức công bằng. Quả thật, Ngài là Đấng Sở hữu tất cả các ân phúc và tất cả các ân huệ.
 
 (Source category: Đức Tính Tâm Linh)
 (Bahaiprayers.net ID: 4998)
+
+
+
 
 
 

@@ -3,6 +3,44 @@ title = "Tetum"
 tags = ['lang=tet', 'prayerbook']
 +++
 
+
+
+[Asisténsia](#Asisténsia)
+
+[Dezenvolvimentu Espirituál](#Dezenvolvimentu Espirituál)
+
+[Ema Mate](#Ema Mate)
+
+[Foin-sa’e sira](#Foin-sa’e sira)
+
+[Haketak-an](#Haketak-an)
+
+[Hanorin](#Hanorin)
+
+[Inan-aman](#Inan-aman)
+
+[Isin-Di’ak](#Isin-Di’ak)
+
+[Jerál](#Jerál)
+
+[Labarik sira](#Labarik sira)
+
+[Orasaun Obrigatóriu](#Orasaun Obrigatóriu)
+
+[Perdaun](#Perdaun)
+
+[Protesaun](#Protesaun)
+
+[Soru-mutu](#Soru-mutu)
+
+[Tempu Susar](#Tempu Susar)
+
+[Umanidade](#Umanidade)
+
+[Unidade](#Unidade)
+
+
+
 ## Asisténsia
 
 ### <a id="bpn12531"></a> Prayer bpn12531 in Tetum
@@ -12,11 +50,15 @@ Maromak sufisiente mai ha’u. Tebes duni, Nia mak sufisiente liu buat hotu-hotu
 (Bahaiprayers.net ID: 12531)
 
 
+
+
 ### <a id="bpn12533"></a> Prayer bpn12533 in Tetum
 Oh ha’u-nia Maromak! Ha’u husu Ita-Boot, ho Ita-Boot nia Naran gloriozu, atu tulun ha’u iha buat ne’ebé sei haburas esforsu husi Ita-Boot nia atan sira, no avansa Ita-Boot nia sidade sira. Tebes duni, Ita-Boot mak iha podér hodi ukun buat hotu-hotu!
 
 (Source category: Asisténsia)
 (Bahaiprayers.net ID: 12533)
+
+
 
 
 ### <a id="bpn12536"></a> Prayer bpn12536 in Tetum
@@ -26,11 +68,15 @@ Oh ha’u-nia Maromak! Kria iha ha’u fuan ne'ebé moos no renova konsiénsia h
 (Bahaiprayers.net ID: 12536)
 
 
+
+
 ### <a id="bpn12530"></a> Prayer bpn12530 in Tetum
 Dehan: Maromak sufisiente liu buat hotu-hotu, no laiha buat ida iha lalehan ka iha rai, só Maromak de’it ne’ebé sufisiente. Tebes duni, Nia mesak Hatene-na’in, Sustenta-na’in, Omnipotente.
 
 (Source category: Asisténsia)
 (Bahaiprayers.net ID: 12530)
+
+
 
 
 ### <a id="bpn12534"></a> Prayer bpn12534 in Tetum
@@ -40,6 +86,8 @@ Iha buat ida ne’ebé bele hasai susar hotu, se karik la’ós Maromak? Dehan: 
 (Bahaiprayers.net ID: 12534)
 
 
+
+
 ### <a id="bpn12532"></a> Prayer bpn12532 in Tetum
 Oh Ita-Boot Maromak Laran-murak. Haraik mai ha’u laran ida ne’ebé, hanesan vidru, bele sai nabilan liuhosi naroman husi Ita-Boot nia Domin, no fó mai ha’u hanoin sira ne’ebé bele troka mundu ne’e ba jardín roza ida, liuhosi grasa ne’ebé tun mai husi lalehan.
 
@@ -47,11 +95,15 @@ Oh Ita-Boot Maromak Laran-murak. Haraik mai ha’u laran ida ne’ebé, hanesan 
 (Bahaiprayers.net ID: 12532)
 
 
+
+
 ### <a id="bpn12535"></a> Prayer bpn12535 in Tetum
 Na’i! Ami folin-laek, haraik mai ami Ita-Boot nia favór; kiak, haraik mai ami sahin husi oseanu Ita-Boot nia rikusoin nian. Mukit, halo ami satisfás; rebaixu, fó mai ami Ita-Boot nia glória. Manu-fuik sira iha anin leten no balada sira iha rai simu sira nia hahán loroloron husi Ita-Boot, no hotu-hotu hola parte husi Ita-Boot nia kuidadu no domin-laran-di'ak.
 
 (Source category: Asisténsia)
 (Bahaiprayers.net ID: 12535)
+
+
 
 
 
@@ -65,6 +117,8 @@ Ita-Boot, tebes, maka iha kbiit hotu-hotu, glorioza hotu-hotu no podér liu hotu
 (Bahaiprayers.net ID: 12537)
 
 
+
+
 ### <a id="bpn12538"></a> Prayer bpn12538 in Tetum
 Oh Maromak! Gia ha’u no proteje ha’u. Halo ha’u hanesan lampu nabilan no fitun brillante. Ita-Boot maka iha kbiit no podér.
 
@@ -72,11 +126,15 @@ Oh Maromak! Gia ha’u no proteje ha’u. Halo ha’u hanesan lampu nabilan no f
 (Bahaiprayers.net ID: 12538)
 
 
+
+
 ### <a id="bpn12539"></a> Prayer bpn12539 in Tetum
 Nia mak Maromak! Oh Maromak! Ha’u-nia Maromak! Haraik mai ha’u laran moos hanesan fatuk murak ida.
 
 (Source category: Dezenvolvimentu Espirituál)
 (Bahaiprayers.net ID: 12539)
+
+
 
 
 
@@ -92,6 +150,8 @@ Oh ha’u-nia Na’i! Hamoos sira husi sala hotu, hasai sira-nia susar, no muda 
 
 
 
+
+
 ## Foin-sa’e sira
 
 ### <a id="bpn12541"></a> Prayer bpn12541 in Tetum
@@ -100,6 +160,8 @@ Ita-Boot mak iha Kbiit no Podér.
 
 (Source category: Foin-sa’e sira)
 (Bahaiprayers.net ID: 12541)
+
+
 
 
 ### <a id="bpn12542"></a> Prayer bpn12542 in Tetum
@@ -112,6 +174,8 @@ Ita-Boot mak iha Kbiit no Podér. Ita-Boot mak Haraik-Na’in no Hadomi-Na’in 
 
 
 
+
+
 ## Haketak-an
 
 ### <a id="bpn12543"></a> Prayer bpn12543 in Tetum
@@ -119,6 +183,8 @@ Oha’u-nia Maromak, ha’u-nia Na’i no ha’u-nia Liurai! Ha’u haketak ona 
 
 (Source category: Haketak-an)
 (Bahaiprayers.net ID: 12543)
+
+
 
 
 ### <a id="bpn12544"></a> Prayer bpn12544 in Tetum
@@ -131,11 +197,15 @@ Ita-Boot nia autoridade mak absoluta hodi ukun.
 (Bahaiprayers.net ID: 12544)
 
 
+
+
 ### <a id="bpn12545"></a> Prayer bpn12545 in Tetum
 Oh Maromak, ha’u-nia Maromak! Ita-Boot mak ha’u-nia Esperansa no ha’u-nia Amadu, ha’u-nia Alvu no Deseju aas liu hotu! Ho haraik-an tebes no devosaun tomak ha’u reza ba Ita-Boot atu halo ha’u minarete ida husi Ita-Boot nia domin iha Ita-Boot nia rai, lampu ida husi Ita-Boot nia koñesimentu entre Ita-Boot nia kriatura sira, no bandeira ida husi bensa divinu iha Ita-Boot nia domíniu.
 
 (Source category: Haketak-an)
 (Bahaiprayers.net ID: 12545)
+
+
 
 
 
@@ -151,6 +221,8 @@ Oh Na'i! Halo ha’u hanesan lampu nabilan, fitun brilliante no ai-hun sagradu n
 (Bahaiprayers.net ID: 12546)
 
 
+
+
 ### <a id="bpn12547"></a> Prayer bpn12547 in Tetum
 Oh Ita-Boot Na’i laran-di’ak! Ami hahi’i Ita-Boot tanba Ita-Boot hatudu ona matadalan mai ami, loke ona odamatan sira husi reinu no fó-sai ona Ita-Boot nia-an liuhosi Loromatan Realidade nian. Ita-Boot halo ona matan-delek sira haree, diuk sira rona, mate sira moris-hikas, kiak sira riku. Ita-Boot hatudu ona dalan ba sira ne’ebé la’o sala-dalan, lori ona sira ne'ebé ibun-kulit maran ba bee-matan konsellu nian, gia ona ikan sira ne'ebé hamrook to’o iha oseanu realidade nian, no konvida ona manu-fuik la’o-rai sira ba jardín ai-funan roza grasa nian.
 Oh Ita-Boot ne'ebé Omnipotente. Ami mak Ita-Boot nia atan no oan-kiak sira; ami mesak no hakarak tebes Ita-Boot nia prezensa; ami hamrook ba bee husi Ita-Boot nia bee-matan; ami moras, deseju tebes ba Ita-Boot nia kura. Ami la’o hela iha Ita-Boot nia dalan no laiha objetivu ka esperansa seluk só atu halekar de’it Ita-Boot nia morin, hodi nune’e klamar hotu-hotu bele hakilar ‘Oh Maromak, gia ami ba dalan loos’. Hein katak matan sira bele nakloke atu haree naroman, no sira bele livre husi nakukun ignoránsia nian, katak sira bele halibur hamutuk hale’u naroman husi Ita-Boot nia matadalan, katak sahin-laek ida-idak bele simu sahin ida, katak sira ne’ebé kiak bele sai konfidente ba Ita-Boot nia mistériu sira.
@@ -161,12 +233,16 @@ Tebes, Ita-Boot mak iha Kbiit, iha Podér, Matenek-na’in, no Haree-na’in.
 (Bahaiprayers.net ID: 12547)
 
 
+
+
 ### <a id="bpn12548"></a> Prayer bpn12548 in Tetum
 Oh ha’u-nia Maromak! Oh ha’u-nia Maromak! Ita-Boot haree ha’u iha inferioridade no frakeza, okupadu ho knaar ne'ebé boot liu hotu, determinadu atu haklaken Ita-Boot nia liafuan no halekar Ita-Boot nia hanorin iha ema-lubun-boot nia leet. Oinsá ha’u bele hetan susesu se Ita-Boot la asiste ha’u ho iis husi Espíritu Santu, tulun ha’u atu triunfa liuhosi anju sira husi Ita-Boot nia Reinu gloriozu, no haraik mai ha’u Ita-Boot nia konfirmasaun, ne’ebé mesak, bele transforma lalar ida sai makikit, bee-turun ida sai mota no tasi, no átomu ida sai naroman no loromatan? Oh ha’u-nia Na’i! Asiste ha’u ho Ita-Boot nia kbiit ne'ebé triunfante no efetivu, hodi nune’e ha’u-nia nanál bele hato’o Ita-Boot nia hahi’i no atributu sira iha ema hotu nia leet no ha’u-nia klamar bele nakonu ho tua-uvas husi Ita-Boot nia domin no koñesimentu.
 Ita-Boot mak Omnipotente no Halo-na’in ba buat saida de’it Ita-Boot hakarak.
 
 (Source category: Hanorin)
 (Bahaiprayers.net ID: 12548)
+
+
 
 
 
@@ -180,6 +256,8 @@ Oh Na’i, Ita-Boot haree ami nia liman sira ne'ebé suplikante hi’it sa’e b
 
 
 
+
+
 ## Isin-Di’ak
 
 ### <a id="bpn12550"></a> Prayer bpn12550 in Tetum
@@ -187,6 +265,8 @@ Oh ha’u-nia Maromak, Ita-Boot nia naran ha’u-nia isin-di’ak no hanoin ba I
 
 (Source category: Isin-Di’ak)
 (Bahaiprayers.net ID: 12550)
+
+
 
 
 
@@ -199,11 +279,15 @@ Oh Ha’u-nia atan, hananu Maromak nia versu sira ne’ebé ó simu, hananu nu�
 (Bahaiprayers.net ID: 12551)
 
 
+
+
 ### <a id="bpn12552"></a> Prayer bpn12552 in Tetum
 Rahun-di’ak ba rai-fatin, no uma, no fatin, no sidade, no fuan, no foho, no subar-fatin, no fatuk-kuak, no foho-leet, no rai, no tasi, no illa, no du’ut-laran, ne'ebé haktuir kona-ba Maromak halo ona, no Ninia hahi’i glorifika ona.
 
 (Source category: Jerál)
 (Bahaiprayers.net ID: 12552)
+
+
 
 
 
@@ -216,11 +300,15 @@ Oh Maromak! Eduka labarik sira ne’e. Labarik sira ne’e mak hanesan ai-horis 
 (Bahaiprayers.net ID: 12553)
 
 
+
+
 ### <a id="bpn12554"></a> Prayer bpn12554 in Tetum
 Oh Ita-Boot Na’i laran-di'ak! Labarik kmanek sira-ne'e mak hanesan artezanatu husi liman-fuan husi Ita-Boot nia kbiit no hanesan sinál maravillozu husi Ita-Boot nia kmanek-bain. Oh Maromak! Proteje labarik sira ne'e, tulun sira ho laran-murak atu sai edukadu no hakbiit sira atu serbí mundu umanidade nian. Oh Maromak! Labarik sira ne’e mak hanesan pérola, hakiak sira iha Ita-Boot nia domin no laran-di’ak. Ita-Boot mak Laran-luak, Hadomi-na’in ba hotu-hotu.
 
 (Source category: Labarik sira)
 (Bahaiprayers.net ID: 12554)
+
+
 
 
 ### <a id="bpn12555"></a> Prayer bpn12555 in Tetum
@@ -230,11 +318,15 @@ Oh Na’i! Ha’u hanesan labarik ida; fó kbiit mai ha’u atu dezenvolve liuho
 (Bahaiprayers.net ID: 12555)
 
 
+
+
 ### <a id="bpn12556"></a> Prayer bpn12556 in Tetum
 Oh Ita-Boot Na’i laran-di’ak! Ha’u labarik ki’ik ida, onra ha’u liuhosi hatama ha’u ba reinu. Ha’u rai nian, halo ha’u lalehan nian, ha’u mundu-kraik nian, halo ha’u pertense ba mundu-aas; solok-laek, permite ha’u atu sai nabilan; materiál, halo ha’u espirituál, no haraik mai ha’u hodi ha’u bele manifesta Ita-Boot nia bensaun rohan-laek. Ita-Boot iha forsa liu hotu-hotu, hadomi hotu-hotu.
 
 (Source category: Labarik sira)
 (Bahaiprayers.net ID: 12556)
+
+
 
 
 ### <a id="bpn12557"></a> Prayer bpn12557 in Tetum
@@ -243,6 +335,8 @@ Oh Maromak, ami nia Na’i! Ami hananu no hahi’i Ita-Boot, fó sasin ba Ita-Bo
 
 (Source category: Labarik sira)
 (Bahaiprayers.net ID: 12557)
+
+
 
 
 
@@ -261,6 +355,8 @@ Laiha Maromak seluk tan só Ita-Boot de’it, Tulun-na’in iha susar laran, Ita
 
 
 
+
+
 ## Perdaun
 
 ### <a id="bpn12558"></a> Prayer bpn12558 in Tetum
@@ -268,6 +364,8 @@ Oh Na’i, louvór ba Ita-Boot. Perdua ami nia sala sira, laran-sadi’a mai ami
 
 (Source category: Perdaun)
 (Bahaiprayers.net ID: 12558)
+
+
 
 
 ### <a id="bpn12559"></a> Prayer bpn12559 in Tetum
@@ -278,6 +376,8 @@ Ha’u husu ho laran tomak ba Ita-Boot atu perdua ha’u, Oh ha’u-nia Na’i, 
 
 
 
+
+
 ## Protesaun
 
 ### <a id="bpn12560"></a> Prayer bpn12560 in Tetum
@@ -285,6 +385,8 @@ Nia mak Laran-murak, Laran-luak! Oh Maromak, ha’u-nia Maromak! Ita-Boot haree 
 
 (Source category: Protesaun)
 (Bahaiprayers.net ID: 12560)
+
+
 
 
 
@@ -299,6 +401,8 @@ Oh Maromak! Ami hanesan ai-horis, no Ita-Boot nia laran-sadi’a mak hanesan uda
 
 
 
+
+
 ## Tempu Susar
 
 ### <a id="bpn12562"></a> Prayer bpn12562 in Tetum
@@ -306,6 +410,8 @@ Oh ha’u-nia Maromak! Ha’u husu ho fuan no laran-tomak ba Ita-Boot hodi Ita-B
 
 (Source category: Tempu Susar)
 (Bahaiprayers.net ID: 12562)
+
+
 
 
 ### <a id="bpn12563"></a> Prayer bpn12563 in Tetum
@@ -316,11 +422,15 @@ Oh Maromak! Ita-Boot belun di’ak liu ba ha’u, liután fali ha’u belun ha h
 (Bahaiprayers.net ID: 12563)
 
 
+
+
 ### <a id="bpn12564"></a> Prayer bpn12564 in Tetum
 O Na’i! Ha’u fraku, haforte ha’u ho Ita-Boot nia forsa no poténsia. Ha’u-nia ibun to’os, permite ha’u atu temi Ita-Boot nia komemorasaun no hahi’i. Ha’u kraik, fó onra mai ha’u liuhosi admite ha’u ba Ita-Boot nia reinu.
 
 (Source category: Tempu Susar)
 (Bahaiprayers.net ID: 12564)
+
+
 
 
 ### <a id="bpn12565"></a> Prayer bpn12565 in Tetum
@@ -329,6 +439,8 @@ Nia tebes duni mak iha forsa atu ukun buat hotu-hotu.
 
 (Source category: Tempu Susar)
 (Bahaiprayers.net ID: 12565)
+
+
 
 
 
@@ -349,6 +461,8 @@ Ita-Boot Omnipotente no Forsa-na’in, Ita-Boot Perdua-na’in no Ita-Boot Mesak
 
 
 
+
+
 ## Unidade
 
 ### <a id="bpn12568"></a> Prayer bpn12568 in Tetum
@@ -358,12 +472,17 @@ Oh ha’u-nia Maromak! Oh ha’u-nia Maromak! Halo Ita-Boot nia atan sira fuan n
 (Bahaiprayers.net ID: 12568)
 
 
+
+
 ### <a id="bpn12567"></a> Prayer bpn12567 in Tetum
 Oh Na’i Maromak! Halo ami hotu hanesan laloran tasi nian, hanesan ai-funan jardín nian, ho unidade, ne’ebé konkorda liuhosi domin husi Ita-Boot nia laran-luak. Oh Na’i! Haluan ami nia laran liuhosi Ita-Boot nia sinál unidade nian, no halo umanidade hotu-hotu hanesan fitun sira ne'ebé esklarese husi tutun Gloriozu ida de’it, hanesan ai-fuan perfeitu sira ne’ebé buras iha Ita-Boot nia ai-hun moris nian.
 Tebes duni, Ita-Boot Omnipotente, Independente, Haraik-na’in, Perdua-na’in, Hatene-na’in, Kriadór mesak Ida de’it.
 
 (Source category: Unidade)
 (Bahaiprayers.net ID: 12567)
+
+
+
 
 
 

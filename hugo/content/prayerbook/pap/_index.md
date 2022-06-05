@@ -3,6 +3,28 @@ title = "Papiamentu"
 tags = ['lang=pap', 'prayerbook']
 +++
 
+
+
+[Aid and assistance](#Aid and assistance)
+
+[Children](#Children)
+
+[Detachment](#Detachment)
+
+[Gatherings](#Gatherings)
+
+[Journey](#Journey)
+
+[Short Obligatory Prayer](#Short Obligatory Prayer)
+
+[Tests and difficulties](#Tests and difficulties)
+
+[Unity](#Unity)
+
+[Youth](#Youth)
+
+
+
 ## Aid and assistance
 
 ### <a id="AB00431PIT"></a> Prayer AB00431PIT in Papiamentu
@@ -13,6 +35,8 @@ E paranan den aire i e bestianan den mondi ta resibí tur dia nan alimentashon d
 
 (Source category: Aid and assistance)
 (Bahaiprayers.net ID: 6867)
+
+
 
 
 
@@ -27,6 +51,8 @@ O Dios!  Eduka e yunan aki.  E yunan aki ta matanan di Bo hòfi,  ta flornan di 
 (Bahaiprayers.net ID: 6872)
 
 
+
+
 ### <a id="AB04427LMP"></a> Prayer AB04427LMP in Papiamentu
 *Oh, God guide me 
 
@@ -34,6 +60,8 @@ O Dios, guiami, protehami, iluminá e lampi di mi kurason, i hasimi un strea bri
 
 (Source category: Children)
 (Bahaiprayers.net ID: 6873)
+
+
 
 
 
@@ -46,6 +74,8 @@ Bisá:  Dios ta sufisiente riba tur kos i nada den shelunan o riba tera ta sufis
 
 (Source category: Detachment)
 (Bahaiprayers.net ID: 6868)
+
+
 
 
 
@@ -62,6 +92,8 @@ i e laman, i e isla, i e pradera,  unda ku Dios ta menshoná, i su alabansa ta g
 
 
 
+
+
 ## Journey
 
 ### <a id="BH00009GRA"></a> Prayer BH00009GRA in Papiamentu
@@ -71,6 +103,8 @@ Mi a lanta awe mainta pa fabor di Bo grasia, O mi Dios,  i a laga mi kas konfian
 
 (Source category: Journey)
 (Bahaiprayers.net ID: 6870)
+
+
 
 
 
@@ -86,6 +120,8 @@ Mi ta duna testimonio, o mi Dios, ku Bo a kriami pa mi konosé Bo i adorá Bo.  
 
 
 
+
+
 ## Tests and difficulties
 
 ### <a id="BB00623"></a> Prayer BB00623 in Papiamentu
@@ -95,6 +131,8 @@ Tin otro kitador di difikultatnan si no ta Dios? Bisá: Alabá sea Dios.  E ta D
 
 (Source category: Tests and difficulties)
 (Bahaiprayers.net ID: 6869)
+
+
 
 
 
@@ -110,6 +148,8 @@ O mi Dios! O mi Dios!  Uni e kurasonnan di Bo sirbidornan i rebela nan Bo obheti
 
 
 
+
+
 ## Youth
 
 ### <a id="bpn6871"></a> Prayer bpn6871 in Papiamentu
@@ -119,6 +159,9 @@ O Dios! Hasi e hoben aki radiante i konfiere su bondat riba e kriatura pober aki
 
 (Source category: Youth)
 (Bahaiprayers.net ID: 6871)
+
+
+
 
 
 

@@ -3,6 +3,94 @@ title = "Español"
 tags = ['lang=es', 'prayerbook']
 +++
 
+
+
+[Agradecimiento y alabanza](#Agradecimiento y alabanza)
+
+[América](#América)
+
+[Asamblea Espiritual](#Asamblea Espiritual)
+
+[Ayuda](#Ayuda)
+
+[Ayuno](#Ayuno)
+
+[Cercanía a Dios](#Cercanía a Dios)
+
+[Constancia](#Constancia)
+
+[Cualidades espirituales](#Cualidades espirituales)
+
+[Curación](#Curación)
+
+[Desprendimiento](#Desprendimiento)
+
+[Difuntos](#Difuntos)
+
+[Días intercalares](#Días intercalares)
+
+[Enseñanza](#Enseñanza)
+
+[Familia](#Familia)
+
+[Firmeza en la Alianza](#Firmeza en la Alianza)
+
+[Fondos](#Fondos)
+
+[Humanidad](#Humanidad)
+
+[Iluminación](#Iluminación)
+
+[Jóvenes](#Jóvenes)
+
+[Marido](#Marido)
+
+[Matrimonio](#Matrimonio)
+
+[Mañana](#Mañana)
+
+[Mujeres](#Mujeres)
+
+[Mártires y sus familias](#Mártires y sus familias)
+
+[Naw-Rúz](#Naw-Rúz)
+
+[Niños](#Niños)
+
+[Noche](#Noche)
+
+[Obediencia](#Obediencia)
+
+[Oración obligatoria corta](#Oración obligatoria corta)
+
+[Oración obligatoria larga](#Oración obligatoria larga)
+
+[Oración obligatoria mediana](#Oración obligatoria mediana)
+
+[Perdón](#Perdón)
+
+[Protección](#Protección)
+
+[Pruebas y Tribulaciones](#Pruebas y Tribulaciones)
+
+[Reuniones](#Reuniones)
+
+[Tabla de Aḥmad](#Tabla de Aḥmad)
+
+[Tabla de Visitación](#Tabla de Visitación)
+
+[Tabla del Fuego](#Tabla del Fuego)
+
+[Tabla del Santo Marinero](#Tabla del Santo Marinero)
+
+[Triunfo de la Causa](#Triunfo de la Causa)
+
+[Unidad](#Unidad)
+
+[Ḥuqúqu’lláh](#Ḥuqúqu’lláh)
+
+
+
 ## Agradecimiento y alabanza
 
 ### <a id="BH07661"></a> Prayer BH07661 in Español
@@ -11,6 +99,8 @@ Te suplico, oh mi Señor, por Tu Más Grande Nombre, mediante el cual separaste 
 
 (Source category: Agradecimiento y alabanza)
 (Bahaiprayers.net ID: 11456)
+
+
 
 
 ### <a id="bpn11457"></a> Prayer bpn11457 in Español
@@ -23,12 +113,16 @@ Toda alabanza y gloria sean para Ti, de Quien todas las cosas han atestiguado qu
 (Bahaiprayers.net ID: 11457)
 
 
+
+
 ### <a id="bpn11458"></a> Prayer bpn11458 in Español
 ¡Glorificado eres Tú, oh Señor mi Dios! Te doy gracias por haberme permitido reconocer a la Manifestación de Ti mismo, por haberme separado de Tus enemigos y haber expuesto ante mi vista sus maldades y perversas acciones en Tus días, y por haberme librado de todo apego a ellos, y por hacer que me vuelva completamente hacia Tu gracia y Tus generosos favores. Te doy gracias, asimismo, por haberme enviado, desde las nubes de Tu voluntad, aquello que me ha purificado de tal modo de las insinuaciones de los infieles y las alusiones de los incrédulos que he fijado el corazón firmemente en Ti y he huido de aquellos que han negado la luz de Tu semblante. Te agradezco también que me hayas facultado para ser firme en Tu amor, proclamar Tu alabanza y ensalzar Tus virtudes. Y Te doy gracias por cuanto me has dado de beber del cáliz de Tu misericordia que ha superado todo lo visible y lo invisible.
 Tú eres el Todopoderoso, el Más Exaltado, el Todoglorioso, el Amoroso.
 
 (Source category: Agradecimiento y alabanza)
 (Bahaiprayers.net ID: 11458)
+
+
 
 
 ### <a id="bpn11459"></a> Prayer bpn11459 in Español
@@ -38,6 +132,8 @@ Tú eres el Dios de poder, de gloria y de munificencia. No hay Dios sino Tú, el
 
 (Source category: Agradecimiento y alabanza)
 (Bahaiprayers.net ID: 11459)
+
+
 
 
 ### <a id="bpn11460"></a> Prayer bpn11460 in Español
@@ -59,6 +155,8 @@ Toda generosidad es Tuya, oh Tú que eres el Señor de la generosidad, y el Sobe
 (Bahaiprayers.net ID: 11460)
 
 
+
+
 ### <a id="bpn11461"></a> Prayer bpn11461 in Español
 Toda majestad y gloria, oh mi Dios, y todo dominio, luz, grandeza y esplendor sean para Ti. Tú otorgas soberanía a quien quieres y se la niegas a quien deseas. No hay Dios sino Tú, Quien todo lo posee, el Exaltadísimo. Tú eres Quien crea de la nada el universo y a todos cuantos lo habitan. No existe nada digno de Ti salvo Tú mismo, mientras que todos los demás son como proscritos ante Tu santa presencia y son como la nada comparados con la gloria de Tu propio Ser.
 Lejos esté de mí ensalzar Tus virtudes, salvo por lo que Tú Te has ensalzado a Ti mismo en Tu poderoso Libro, donde dices: «Ninguna visión Lo abarca, mas Él abarca toda visión. Él es el Sutil, Quien todo lo percibe».  ¡Gloria sea a Ti, oh mi Dios! En verdad, ninguna mente ni visión, por aguda o perspicaz que sea, podrá jamás comprender la naturaleza de la más insignificante de Tus señales. Verdaderamente, Tú eres Dios, y no hay Dios más que Tú. Doy testimonio de que Tú mismo eres la única expresión de Tus atributos, de que la alabanza de nadie fuera de Ti jamás podrá alcanzar Tu santa corte, y de que Tus atributos jamás podrán ser desentrañados por nadie fuera de Ti mismo.
@@ -66,6 +164,8 @@ Gloria sea a Ti; Tú estás muy por encima de la descripción de nadie fuera de 
 
 (Source category: Agradecimiento y alabanza)
 (Bahaiprayers.net ID: 11461)
+
+
 
 
 
@@ -81,6 +181,8 @@ Gloria sea a Ti; Tú estás muy por encima de la descripción de nadie fuera de 
 
 
 
+
+
 ## Asamblea Espiritual
 
 ### <a id="bpn11675"></a> Prayer bpn11675 in Español
@@ -90,6 +192,8 @@ Gloria sea a Ti; Tú estás muy por encima de la descripción de nadie fuera de 
 
 (Source category: Asamblea Espiritual)
 (Bahaiprayers.net ID: 11675)
+
+
 
 
 ### <a id="bpn11676"></a> Prayer bpn11676 in Español
@@ -104,6 +208,8 @@ Verdaderamente, Tú eres el Generoso, el Misericordioso. Tú eres el Poseedor de
 (Bahaiprayers.net ID: 11676)
 
 
+
+
 ### <a id="bpn11677"></a> Prayer bpn11677 in Español
 *Reuníos con verdadera alegría, y recitad esta oración al principio de la reunión
 
@@ -112,6 +218,8 @@ Verdaderamente, Tú eres el Generoso, el Misericordioso. Tú eres el Poseedor de
 
 (Source category: Asamblea Espiritual)
 (Bahaiprayers.net ID: 11677)
+
+
 
 
 
@@ -125,12 +233,16 @@ Verdaderamente, Tú eres el Generoso, el Misericordioso. Tú eres el Poseedor de
 (Bahaiprayers.net ID: 11462)
 
 
+
+
 ### <a id="bpn11463"></a> Prayer bpn11463 in Español
 ¡Glorificado seas, oh Señor mi Dios! Te imploro, por los impetuosos vientos de Tu gracia, y por Aquellos que son las Auroras de Tu propósito y los Puntos de Amanecer de Tu inspiración, que me envíes a mí y a todos los que han buscado Tu semblante aquello que sea propio de Tu generosidad y de Tu munífica gracia y sea digno de Tus dádivas y Tus favores. Estoy necesitado y desolado, oh mi Señor; sumérgeme en el océano de Tu riqueza. Estoy sediento; permíteme beber de las aguas vivas de Tu amorosa bondad.
 Te suplico, por Tu propio Ser, y por Aquel a Quien Tú has designado como la Manifestación de Tu propia Esencia y Tu Palabra discernidora para todos los que están en el cielo y en la tierra, que reúnas a Tus siervos a la sombra del árbol de Tu bondadosa providencia. Ayúdalos, pues, a participar de sus frutos, a inclinar el oído al murmullo de sus hojas y a la dulzura de la voz del Ave que canta en sus ramas. Tú eres, verdaderamente, Quien ayuda en el peligro, el Inaccesible, el Todopoderoso, el Munífico.
 
 (Source category: Ayuda)
 (Bahaiprayers.net ID: 11463)
+
+
 
 
 ### <a id="bpn11464"></a> Prayer bpn11464 in Español
@@ -143,11 +255,15 @@ Di: Dios es, en verdad, el Hacedor de todas las cosas. Él da sustento en abunda
 (Bahaiprayers.net ID: 11464)
 
 
+
+
 ### <a id="bpn11465"></a> Prayer bpn11465 in Español
 ¡Oh mi Dios, mi Amo y mi Señor! Me he desligado de mis familiares y, a través de Ti, he procurado ser independiente de todos los que habitan en la tierra y estar siempre dispuesto a recibir lo que es loable ante Tu vista. Concédeme todo bien que me haga independiente de todo cuanto no seas Tú, y otórgame una porción más amplia de Tus ilimitados favores. Verdaderamente, Tú eres el Señor de abundante gracia.
 
 (Source category: Ayuda)
 (Bahaiprayers.net ID: 11465)
+
+
 
 
 ### <a id="bpn11469"></a> Prayer bpn11469 in Español
@@ -158,12 +274,16 @@ Haz descender Tu lluvia celestial con copiosa abundancia. Tú eres el Poderoso, 
 (Bahaiprayers.net ID: 11469)
 
 
+
+
 ### <a id="bpn11466"></a> Prayer bpn11466 in Español
 ¡Oh bondadoso Señor! Somos siervos de Tu Umbral, resguardados en Tu sagrada Puerta. No buscamos otro refugio más que este firme pilar; no recurrimos a otro amparo más que Tu custodia. Protégenos, bendícenos, apóyanos; haz que no amemos sino Tu complacencia, que no expresemos sino Tu ala-banza, que solo sigamos el camino de la verdad, que lleguemos a ser lo suficientemente ricos para prescindir de todo salvo de Ti, y recibir nuestros dones del mar de Tu beneficencia, que nos esforcemos siempre por exaltar Tu Causa y difundir Tus dulces fragancias por doquier, que nos olvidemos de nosotros mismos y nos ocupemos tan solo de Ti, y reneguemos de todo lo demás y quedemos cautivados por Ti.
 ¡Oh Proveedor! ¡Oh Perdonador! Concédenos Tu gracia y Tu bondad, Tus dones y Tus dádivas, y apóyanos para que podamos lograr nuestro objetivo. Tú eres el Poderoso, el Capaz, el Conocedor, el que ve; verdaderamente, Tú eres el Generoso; verdaderamente, Tú eres el Todomisericordioso; y, verdaderamente, Tú eres Quien siempre perdona, Aquel a Quien Se Le debe arrepentimiento, Aquel que perdona hasta el más grave de los pecados.
 
 (Source category: Ayuda)
 (Bahaiprayers.net ID: 11466)
+
+
 
 
 ### <a id="AB10275"></a> Prayer AB10275 in Español
@@ -175,6 +295,8 @@ Tú eres, verdaderamente, el Único, el Indiviso, el Fuerte, el Omnisciente, el 
 (Bahaiprayers.net ID: 11468)
 
 
+
+
 ### <a id="bpn11467"></a> Prayer bpn11467 in Español
 ¡Señor! Dignos de lástima somos, concédenos Tu favor; somos pobres, confiérenos una porción del océano de Tu riqueza; estamos necesitados, satisfácenos; estamos humillados, danos Tu gloria. Las aves del aire y las bestias del campo reciben cada día su alimento de Ti, y todos los seres participan de Tu cuidado y amorosa bondad.
 No prives a este débil ser de Tu maravillosa gracia y, por medio de Tu poder, otorga Tu generosidad a esta alma desamparada.
@@ -182,6 +304,8 @@ Danos nuestro pan de cada día y confiérenos Tu abundancia en las necesidades d
 
 (Source category: Ayuda)
 (Bahaiprayers.net ID: 11467)
+
+
 
 
 ### <a id="bpn11470"></a> Prayer bpn11470 in Español
@@ -193,6 +317,8 @@ Tú, ciertamente, ayudas a quienquiera que desees, y Tú eres, verdaderamente, e
 
 (Source category: Ayuda)
 (Bahaiprayers.net ID: 11470)
+
+
 
 
 
@@ -210,6 +336,8 @@ Ayúdales, oh mi Dios, a hacerte victorioso y a exaltar Tu Palabra. Permite, pue
 (Bahaiprayers.net ID: 11678)
 
 
+
+
 ### <a id="bpn11679"></a> Prayer bpn11679 in Español
 ¡Alabanzas Te sean dadas, oh Señor mi Dios! Hemos observado el ayuno en conformidad con Tu mandato, y lo rompemos ahora por Tu amor y Tu complacencia. Dígnate aceptar, oh mi Dios, las obras que hemos llevado a cabo en Tu camino enteramente por Tu belleza, con los rostros vueltos hacia Tu Causa, libres de cuanto no seas Tú. Concédenos, pues, Tu perdón, a nosotros, a nuestros antepasados y a todos los que han creído en Ti y en Tus poderosas señales en esta muy grande y gloriosísima Revelación. Potente eres Tú para hacer lo que elijas. Tú eres, verdaderamente, el Más Exaltado, el Omnipotente, el Libre.
 
@@ -217,11 +345,15 @@ Ayúdales, oh mi Dios, a hacerte victorioso y a exaltar Tu Palabra. Permite, pue
 (Bahaiprayers.net ID: 11679)
 
 
+
+
 ### <a id="bpn11680"></a> Prayer bpn11680 in Español
 ¡Alabado seas, oh Dios, mi Dios! Tú has ordenado a Tus elegidos, a Tus amados y a Tus siervos, oh mi Dios, observar durante estos días el ayuno, del cual has hecho una luz para los habitantes de Tu reino, tal como hiciste de la oración obligatoria una escalera de ascenso para quienes reconocen Tu unidad. Te suplico, oh mi Dios, por estos dos sólidos pilares que has ordenado como gloria y honor de toda la humanidad, que protejas Tu religión de las intrigas de los infieles y las conspiraciones de los malvados. Oh Señor, no ocultes la luz que has revelado mediante Tu fuerza y Tu omnipotencia. Ayuda, pues, a los que verdaderamente creen en Ti con las huestes de lo visible y lo invisible, mediante Tu mandato y Tu soberanía. No hay Dios sino Tú, el Omnipotente, el Todopoderoso.
 
 (Source category: Ayuno)
 (Bahaiprayers.net ID: 11680)
+
+
 
 
 ### <a id="bpn11681"></a> Prayer bpn11681 in Español
@@ -234,11 +366,15 @@ No hay Dios sino Tú, el Omnisciente, el Sapientísimo. Toda alabanza sea para D
 (Bahaiprayers.net ID: 11681)
 
 
+
+
 ### <a id="bpn11682"></a> Prayer bpn11682 in Español
 ¡En el Nombre de Quien ha sido prometido en los Libros de Dios, el Omnisciente, el Informado de todo! Han llegado los días de ayuno, en los que han ayunado los siervos que circulan alrededor de Tu trono y han alcanzado Tu presencia. Di: ¡Oh Dios de los nombres y creador del cielo y de la tierra! Te suplico, por Tu Nombre, el Todoglorioso, que aceptes el ayuno de quienes han ayunado por amor a Ti y por Tu complacencia, y han realizado lo que les has ordenado en Tus Libros y en Tus Tablas. Te imploro, por ellos, que me asistas en la promoción de Tu Causa y me hagas firme en Tu amor, para que mis pasos no vacilen ante el clamor de Tus criaturas. En verdad, Tú eres potente para hacer lo que desees. No hay Dios sino Tú, el Vivificador, el Omnipotente, el Más Generoso, el Anciano de Días.
 
 (Source category: Ayuno)
 (Bahaiprayers.net ID: 11682)
+
+
 
 
 ### <a id="BH00778"></a> Prayer BH00778 in Español
@@ -260,6 +396,8 @@ Alabado seas, oh mi Dios, por habernos ayudado a reconocerle y amarle. Por tanto
 (Bahaiprayers.net ID: 11683)
 
 
+
+
 ### <a id="bpn11684"></a> Prayer bpn11684 in Español
 ¡Oh mi Dios! Tú has ordenado a Tus siervos observar el ayuno durante estos días. Con él adornaste el preámbulo del Libro de Tus Leyes revelado a Tus criaturas, y engalanaste a los Depositarios de Tus mandamientos ante la vista de todos los que están en Tu cielo y todos los que están en Tu tierra. Tú has dotado cada hora de estos días con una virtud especial, inescrutable para cualquier otro que no seas Tú, Cuya sabiduría abarca todo lo creado. También has asignado a cada alma una porción de esta virtud, de acuerdo con la Tabla de Tu decreto y las Escrituras de Tu juicio irrevocable. Además, has asignado cada página de estos Libros y de estas Escrituras a cada uno de los pueblos y razas de la tierra.
 Según Tu decreto, has reservado a cada amanecer el cáliz de Tu recuerdo para Tus fervientes amantes, oh Tú que eres el Soberano de los soberanos. Ellos son los que tan embriagados están con el vino de Tu consumada sabiduría que abandonan el lecho en su anhelo por celebrar Tu alabanza y ensalzar Tus virtudes, y escapan del sueño en su afán por acercarse a Tu presencia y participar de Tus dádivas. Sus ojos han estado dirigidos en todo momento hacia la Aurora de Tu amorosa bondad, y sus rostros, vueltos hacia el Manantial de Tu inspiración. Haz descender, pues, sobre nosotros y sobre ellos, de las nubes de Tu misericordia, lo que sea digno del cielo de Tu munificencia y de Tu gracia.
@@ -273,6 +411,8 @@ Haz victoriosa a Tu Causa, oh mi Señor, y humilla a Tus enemigos. Decreta, pues
 
 (Source category: Ayuno)
 (Bahaiprayers.net ID: 11684)
+
+
 
 
 ### <a id="BH01125"></a> Prayer BH01125 in Español
@@ -295,6 +435,8 @@ Te imploro, oh mi Señor, por Ti mismo, por Tus señales, por Tus claros testimo
 (Bahaiprayers.net ID: 11685)
 
 
+
+
 ### <a id="bpn11686"></a> Prayer bpn11686 in Español
 Tú ves, oh Dios de Misericordia, oh Tú Cuyo poder penetra todas las cosas creadas, a estos siervos Tuyos, Tus esclavos, que, de acuerdo con el beneplácito de Tu Voluntad, observan de día el ayuno prescrito por Ti, que se levantan con las primeras luces para hacer mención de Tu Nombre y celebrar Tu alabanza, con la esperanza de obtener su parte de las cosas buenas que están guardadas en los tesoros de Tu gracia y munificencia. Te imploro, oh Tú que tienes en Tus manos las riendas de la creación entera, bajo Cuyo dominio se encuentra todo el reino de Tus nombres y de Tus atributos, que no prives en Tu Día a Tus siervos de las lluvias que caen de las nubes de Tu misericordia, ni les impidas que tomen su porción del océano de Tu complacencia.
 Todos los átomos de la tierra dan testimonio, oh mi Señor, de la grandeza de Tu poder y de Tu soberanía, y todos los signos del universo atestiguan la gloria de Tu majestad y de Tu fuerza. ¡Oh Tú que eres el soberano Señor de todos, el Rey de los días sempiternos y Monarca de todas las naciones! Ten misericordia, pues, de estos siervos Tuyos, que se han aferrado a la cuerda de Tus mandamientos y se han inclinado ante las revelaciones de Tus leyes, enviadas desde el cielo de Tu Voluntad.
@@ -306,11 +448,15 @@ Tú ves, oh Señor, nuestras manos suplicantes levantadas hacia el cielo de Tu f
 (Bahaiprayers.net ID: 11686)
 
 
+
+
 ### <a id="bpn11687"></a> Prayer bpn11687 in Español
 ¡Oh mi Dios y mi Maestro! Tú me ves entre aquellas de Tus criaturas que se han rebelado y han transgredido contra Ti. Cada vez que las invito al océano de Tu conocimiento, aumenta su repudio de Tu Causa y crece su rechazo al Punto de Amanecer de Tu Voluntad. Te suplico, oh mi Dios, por aquellos que han ayunado por amor a Ti y han bebido las aguas vivas de la sumisión de manos de Tu generosidad, que ordenes para Tus amados, quienes bajo el ardor del astro de Tus pruebas se han aferrado a la cuerda de la paciencia, todo lo bueno que has dispuesto en Tus Libros y en Tus Tablas. Decreta, pues, para aquellos que han sido afligidos con adversidades por amor a Ti, la recompensa de quienes han sufrido el martirio en el camino de Tu complacencia. Envía, además, para ellos, oh Señor, lo que regocije sus corazones, dé solaz a sus ojos y deleite sus almas. Tú, verdaderamente, eres el Omnipotente, el Más Exaltado, Quien ayuda en el peligro, el Omnisciente, el Sapientísimo.
 
 (Source category: Ayuno)
 (Bahaiprayers.net ID: 11687)
+
+
 
 
 ### <a id="bpn11688"></a> Prayer bpn11688 in Español
@@ -338,6 +484,8 @@ Te suplico, oh Señor, por Él y por ellos, y por Aquel a Quien has establecido 
 
 
 
+
+
 ## Cercanía a Dios
 
 ### <a id="bpn11472"></a> Prayer bpn11472 in Español
@@ -349,6 +497,8 @@ En verdad, Tú eres Quien siempre perdona, el Más Compasivo.
 (Bahaiprayers.net ID: 11472)
 
 
+
+
 ### <a id="bpn11473"></a> Prayer bpn11473 in Español
 ¡Oh Dios, mi Dios! Glorificado seas por cuanto me has guiado al horizonte de Tu Revelación, me has iluminado con los esplendores de la luz de Tu gracia y misericordia, has hecho que declare Tu alabanza y me has dejado contemplar lo que ha sido revelado por Tu Pluma. 
 Te suplico, oh Tú que eres el Señor del reino de los nombres y el Hacedor de la tierra y el cielo, por el susurro del divino Árbol del Loto, y por Tu dulcísima expresión, que ha embelesado las realidades de todas las cosas creadas, que me alces en Tu Nombre en medio de Tus siervos. Soy aquel que, de día y de noche, ha deseado permanecer ante la puerta de Tu generosidad y personarse ante el trono de Tu justicia. ¡Oh Señor! No alejes de Ti a quien se ha aferrado al cordón de Tu cercanía, ni apartes a quien ha dirigido sus pasos hacia Tu muy sublime posición, la cumbre de la gloria y el supremo objetivo, esa posición en la que cada átomo exclama en la lengua más elocuente: «¡La tierra y el cielo, la gloria y el dominio son de Dios, el Todopoderoso, el Todoglorioso, el Más Generoso!»
@@ -357,12 +507,16 @@ Te suplico, oh Tú que eres el Señor del reino de los nombres y el Hacedor de l
 (Bahaiprayers.net ID: 11473)
 
 
+
+
 ### <a id="bpn11474"></a> Prayer bpn11474 in Español
 ¡Él es el Todoglorioso!
 ¡Alabado seas, oh mi Dios! Tú me llamaste, y yo Te respondí. Me convocaste, y yo me dirigí presuroso hacia Ti, y me puse al amparo de Tu misericordia y busqué refugio en el umbral de la puerta de Tu gracia. Tú me has educado, oh mi Señor, mediante Tu providencia, me has escogido para Ti solo, me has creado para servirte y me has elegido para presentarme ante Ti. Te suplico, por Tu muy glorioso Nombre y por Tu belleza que ha asomado sobre el horizonte de Tu exaltadísima Esencia, que me relaciones contigo, tal como hiciste en otro tiempo, y no me separes de Ti. Haz, entonces, oh mi Dios, que de mí brote aquello que sea digno de Ti. Tú eres, en verdad, poderoso sobre todas las cosas.
 
 (Source category: Cercanía a Dios)
 (Bahaiprayers.net ID: 11474)
+
+
 
 
 ### <a id="bpn11471"></a> Prayer bpn11471 in Español
@@ -375,11 +529,15 @@ Potente eres Tú para hacer lo que deseas. Tú eres, ciertamente, el Omnipotente
 (Bahaiprayers.net ID: 11471)
 
 
+
+
 ### <a id="bpn11475"></a> Prayer bpn11475 in Español
 Verdaderamente, soy Tu siervo, oh mi Dios, y Tu necesitado, y Tu suplicante, y Tu desdichada criatura. He llegado a Tu puerta buscando Tu protección. No he hallado contento alguno salvo en Tu amor, ni alborozo excepto en Tu recuerdo, ni anhelo salvo en la obediencia a Ti, ni alegría fuera de Tu cercanía, ni tranquilidad más que en la reunión contigo, pese a que soy consciente de que todas las cosas creadas tienen negada la admisión a Tu sublime Esencia, y la creación entera está privada del acceso a Tu íntimo Ser. Cuandoquiera que intento acercarme a Ti, no percibo en mí más que las señales de Tu gracia y no observo en mi ser más que las revelaciones de Tu tierna bondad. ¿Cómo puede alguien que no es sino Tu criatura buscar la reunión contigo y alcanzar Tu presencia, si ninguna cosa creada puede jamás ser asociada contigo, ni nada puede comprenderte? ¿Cómo es posible que un humilde siervo Te reconozca y exalte Tu alabanza, a pesar de que has destinado para él las revelaciones de Tu dominio y los maravillosos testimonios de Tu soberanía? Así, toda cosa creada atestigua su exclusión del santuario de Tu presencia, por causa de las limitaciones impuestas a su realidad íntima. Sin embargo, es indudable que la influencia de Tu atracción ha sido eternamente inherente a las realidades de Tu obra, aunque lo que es digno de la sagrada corte de Tu providencia está mucho más allá del alcance de la creación entera. Ello indica, oh mi Dios, mi total incapacidad para alabarte y revela mi suma impotencia para agradecerte y, cuánto más, para llegar al reconocimiento de Tu divina unidad o lograr alcanzar las claras señales de Tu alabanza, Tu santidad y Tu gloria. Es más, lo juro por Tu poder, no anhelo nada que no sea Tu propio Ser y no busco a nadie fuera de Ti.
 
 (Source category: Cercanía a Dios)
 (Bahaiprayers.net ID: 11475)
+
+
 
 
 ### <a id="bpn11476"></a> Prayer bpn11476 in Español
@@ -391,11 +549,15 @@ Verdaderamente, soy Tu siervo, oh mi Dios, y Tu necesitado, y Tu suplicante, y T
 (Bahaiprayers.net ID: 11476)
 
 
+
+
 ### <a id="bpn11477"></a> Prayer bpn11477 in Español
 Oh Dios, mi Dios, mi Bienamado, el Deseo de mi corazón.
 
 (Source category: Cercanía a Dios)
 (Bahaiprayers.net ID: 11477)
+
+
 
 
 
@@ -414,6 +576,8 @@ Te pido, oh Señor de todos los seres y Rey de lo visible y lo invisible, por Tu
 (Bahaiprayers.net ID: 11478)
 
 
+
+
 ### <a id="bpn11479"></a> Prayer bpn11479 in Español
 ¡Glorificado sea Tu Nombre, oh Señor mi Dios! Te suplico, por Tu poder, que ha abarcado todas las cosas creadas, y por Tu Soberanía, que ha trascendido a la creación entera, y por Tu Palabra, que estaba oculta en Tu sabiduría y mediante la cual creaste Tu cielo y Tu tierra, que nos permitas ser firmes en nuestro amor por Ti y en nuestra obediencia a Tu agrado, fijar la mirada en Tu semblante y celebrar Tu gloria. Capacítanos, entonces, oh mi Dios, para esparcir por doquier Tus señales entre Tus criaturas y proteger tu Fe en Tu dominio. Tú siempre has existido independientemente de la mención de cualquiera de Tus criaturas, y así permanecerás eternamente.
 En Ti he puesto toda mi confianza, hacia Ti he vuelto mi rostro, a la cuerda de Tu amorosa providencia me he asido, y hacia la sombra de Tu misericordia he acudido presuroso. No me eches de Tu puerta como a un ser decepcionado, oh mi Dios, y no me niegues Tu gracia, pues solo a Ti procuro encontrar. No existe más Dios que Tú, Quien siempre perdona, el Más Generoso.
@@ -423,12 +587,16 @@ En Ti he puesto toda mi confianza, hacia Ti he vuelto mi rostro, a la cuerda de 
 (Bahaiprayers.net ID: 11479)
 
 
+
+
 ### <a id="BH08822"></a> Prayer BH08822 in Español
 ¡Glorificado eres, oh Señor mi Dios! Te imploro, por Aquel que es Tu Más Grande Nombre, Quien ha sido penosamente afligido por aquellas de Tus criaturas que han repudiado Tu verdad, y Quien ha estado rodeado de tales infortunios que ninguna lengua puede describir, que me permitas recordarte y celebrar Tu alabanza en estos días en que todos se han apartado de Tu belleza, han disputado contigo y se han alejado desdeñosamente de Aquel que es el Revelador de Tu Causa. No hay nadie, oh mi Señor, que Te ayude salvo Tu propio Ser, ni poder alguno que Te socorra excepto Tu propio poder.
 Te suplico que me permitas asirme fuertemente a Tu amor y a Tu recuerdo. Ciertamente, esto está en mi poder, y Tú eres Quien conoce todo lo que hay en mí. En verdad, Tú eres conocedor y estás informado de todo. No me prives, oh mi Señor, de los resplandores de la luz de Tu semblante, cuyo brillo ha iluminado el mundo entero. No hay Dios sino Tú, el Omnipotente, el Todoglorioso, Quien siempre perdona.
 
 (Source category: Constancia)
 (Bahaiprayers.net ID: 11480)
+
+
 
 
 ### <a id="bpn11481"></a> Prayer bpn11481 in Español
@@ -440,12 +608,16 @@ Tú eres, verdaderamente, el Dios de Poder, Quien ayuda en el peligro, el Todogl
 (Bahaiprayers.net ID: 11481)
 
 
+
+
 ### <a id="bpn11482"></a> Prayer bpn11482 in Español
 Magnifico Tu Nombre, oh mi Dios, y Te doy gracias, oh mi Deseo, por cuanto me has permitido que perciba claramente Tu recto Sendero, has descubierto ante mis ojos Tu Magno Anuncio y me has ayudado a dirigir el rostro hacia la Aurora de Tu Revelación y el Manantial de Tu Causa, mientras que Tus siervos y Tu pueblo se han apartado de Ti. Te imploro, oh Señor del Reino de la eternidad, por la voz estridente de la Pluma de la Gloria, por el Fuego Ardiente que clama desde el Árbol frondoso y por el Arca que has elegido especialmente para el pueblo de Bahá, que me permitas permanecer firme en mi amor por Ti, estar satisfecho con todo lo que has prescrito para mí en Tu Libro, y mantenerme constante en Tu servicio y en el servicio a Tus amados. Ayuda, pues, benévolamente a Tus siervos, oh mi Dios, para que hagan lo que sirva para exaltar Tu Causa y les permita cumplir con todo cuanto has revelado en Tu Libro.
 Verdaderamente, Tú eres el Señor de la Fuerza, Tú eres potente para ordenar lo que desees y en Tus manos están las riendas de todas las cosas creadas. No hay otro Dios sino Tú, el Todopoderoso, el Omnisciente, el Sapientísimo.
 
 (Source category: Constancia)
 (Bahaiprayers.net ID: 11482)
+
+
 
 
 ### <a id="bpn11483"></a> Prayer bpn11483 in Español
@@ -456,6 +628,8 @@ En verdad, Tú eres poderoso para hacer todo cuanto sea Tu voluntad, y en Tu pu�
 (Bahaiprayers.net ID: 11483)
 
 
+
+
 ### <a id="BB00621"></a> Prayer BB00621 in Español
 ¡Alabado y glorificado eres Tú, oh Dios! Haz que se aproxime rápidamente el día de la llegada a Tu santa presencia. Alegra nuestros corazones mediante la fuerza de Tu amor y Tu complacencia, y concédenos firmeza para que nos sometamos gustosos a Tu Voluntad y Tu Decreto. Verdaderamente, Tu conocimiento abarca todas las cosas que has creado o hayas de crear, y Tu poder celestial trasciende todo cuanto has traído o hayas de traer a la existencia. No hay nadie a quien rendir culto sino a Ti; no hay nadie a quien desear excepto a Ti; no hay nadie a quien adorar fuera de Ti, y nada que amar excepto Tu complacencia.
 En verdad, Tú eres el Gobernante Supremo, la Verdad Soberana, Quien ayuda en el peligro, Quien subsiste por Sí mismo.
@@ -464,11 +638,15 @@ En verdad, Tú eres el Gobernante Supremo, la Verdad Soberana, Quien ayuda en el
 (Bahaiprayers.net ID: 11484)
 
 
+
+
 ### <a id="bpn11485"></a> Prayer bpn11485 in Español
 ¡Oh Señor, mi Dios! Ayuda a Tus amados a ser firmes en Tu Fe, a caminar por Tus senderos y a ser constantes en Tu Causa. Concédeles Tu gracia para resistir los asaltos del egoísmo y la pasión, y seguir la luz de la guía divina. Tú eres el Poderoso, el Bondadoso, Quien subsiste por Sí mismo, el Donador, el Compasivo, el Todopoderoso, el Todogeneroso.
 
 (Source category: Constancia)
 (Bahaiprayers.net ID: 11485)
+
+
 
 
 ### <a id="bpn11486"></a> Prayer bpn11486 in Español
@@ -480,6 +658,8 @@ En verdad, Tú eres el Generoso, el Eterno Dador, el Preciado, el Más Generoso.
 (Bahaiprayers.net ID: 11486)
 
 
+
+
 ### <a id="bpn11487"></a> Prayer bpn11487 in Español
 ¡Oh amado de mi corazón y de mi alma! No tengo refugio alguno salvo Tú. No pronuncio palabra al amanecer que no sea en Tu conmemoración y alabanza. Tu amor me envuelve y Tu gracia es perfecta. En Ti está mi esperanza. 
 ¡Oh Dios! Dame una nueva vida a cada instante y confiéreme, en todo momento, los hálitos del Espíritu Santo, para que permanezca constante en Tu amor, logre felicidad inmensa, perciba la luz manifiesta y me encuentre en un estado de máxima tranquilidad y sumisión.
@@ -487,6 +667,8 @@ Verdaderamente, Tú eres el Donador, el Perdonador, el Compasivo.
 
 (Source category: Constancia)
 (Bahaiprayers.net ID: 11487)
+
+
 
 
 
@@ -500,6 +682,8 @@ Permite, Te lo suplico, que este siervo alcance lo que sea causa de su salvació
 (Bahaiprayers.net ID: 11488)
 
 
+
+
 ### <a id="BH00531TRA"></a> Prayer BH00531TRA in Español
 Te imploro, oh mi Dios, por toda la gloria trascendente de Tu Nombre, que atavíes a Tus amados con el manto de la justicia e ilumines su ser con la luz de la honradez.
 Tú eres Quien tiene poder de hacer lo que Le plazca y Quien sujeta con Su mano las riendas de todas las cosas, visibles e invisibles.
@@ -508,12 +692,16 @@ Tú eres Quien tiene poder de hacer lo que Le plazca y Quien sujeta con Su mano 
 (Bahaiprayers.net ID: 11489)
 
 
+
+
 ### <a id="bpn11492"></a> Prayer bpn11492 in Español
 De las perfumadas corrientes de Tu eternidad, dame de beber, oh mi Dios, y de los frutos del árbol de Tu ser, permíteme gustar, oh mi Esperanza. De los manantiales cristalinos de Tu amor, déjame beber, oh mi Gloria, y a la sombra de Tu eterna providencia, permíteme habitar, oh mi Luz. En las praderas de Tu proximidad, ante Tu presencia, haz que pueda vagar, oh mi Bienamado, y a la diestra del trono de Tu merced, hazme sentar, oh mi Deseo. De las fragantes brisas de Tu alegría, haz que un soplo llegue hasta mí, oh mi Objetivo, y en las alturas del paraíso de Tu realidad, permíteme entrar, oh mi Adorado. Las melodías de la paloma de Tu unicidad, déjame escuchar, oh Tú, el Resplandeciente, y mediante el espíritu de Tu fuerza y Tu poder, vivifícame, oh mi Proveedor. En el espíritu de Tu amor, mantenme constante, oh mi Auxiliador, y en el sendero de Tu complacencia, afianza mis pasos, oh mi Hacedor. Dentro del jardín de Tu inmortalidad, ante Tu semblante, déjame habitar eternamente, oh Tú que eres misericordioso conmigo, y en la sede de Tu gloria, permite que me establezca, oh Tú que eres mi Poseedor. Hacia el cielo de Tu amorosa bondad, elévame, oh mi Vivificador, y hacia el Sol de Tu guía, condúceme, oh mi Cautivador. Ante las revelaciones de Tu invisible espíritu, llámame a estar presente, oh Tú que eres mi Origen y mi elevadísimo Deseo, y hacia la esencia de la fragancia de Tu belleza, que has de manifestar, hazme volver, oh Tú que eres mi Dios.
 Potente eres Tú para hacer lo que Te place. Tú eres, en verdad, el Más Exaltado, el Todoglorioso, el Altísimo.
 
 (Source category: Cualidades espirituales)
 (Bahaiprayers.net ID: 11492)
+
+
 
 
 ### <a id="bpn11493"></a> Prayer bpn11493 in Español
@@ -526,6 +714,8 @@ Soy testigo en este momento, oh mi Dios, de mi impotencia y de Tu soberanía, de
 (Bahaiprayers.net ID: 11493)
 
 
+
+
 ### <a id="bpn11494"></a> Prayer bpn11494 in Español
 ¡Glorificado eres Tú, oh Señor, mi Dios! Te doy gracias, pues me has dado la existencia en Tus días y me has infundido Tu amor y Tu conocimiento. Te imploro, por Tu Nombre, mediante el cual las delicadas perlas de Tu sabiduría y Tu expresión fueron extraídas de los erarios de los corazones de aquellos de Tus siervos que están cerca de Ti, y por medio del cual el Sol de Tu Nombre, el Compasivo, ha derra-mado su resplandor sobre todos los que están en Tu cielo y en Tu tierra, que me brindes, por Tu gracia y munificencia, Tus dádivas ocultas y maravillosas.
 Estos son los primeros días de mi vida, oh mi Dios, que Tú has vinculado a Tus propios días. Ya que me has conferido tan grande honor, no me prives de las cosas que has ordenado para Tus elegidos.
@@ -536,6 +726,8 @@ Estos son los primeros días de mi vida, oh mi Dios, que Tú has vinculado a Tus
 (Bahaiprayers.net ID: 11494)
 
 
+
+
 ### <a id="bpn11491"></a> Prayer bpn11491 in Español
 ¡Oh mi Señor! Haz de Tu belleza mi alimento, y de Tu presencia, mi bebida; de Tu agrado, mi esperanza, y de Tu alabanza, mi acción; de Tu recuerdo, mi compañero, y del poder de Tu soberanía, mi socorro; de Tu aposento, mi hogar, y de mi morada, la sede que Tú has elevado por encima de las limitaciones impuestas a quienes están separados de Ti como por un velo.
 Tú eres, verdaderamente, el Todopoderoso, el Todoglorioso, el Omnipotente.
@@ -544,11 +736,15 @@ Tú eres, verdaderamente, el Todopoderoso, el Todoglorioso, el Omnipotente.
 (Bahaiprayers.net ID: 11491)
 
 
+
+
 ### <a id="bpn11490"></a> Prayer bpn11490 in Español
 Crea en mí un corazón puro, oh mi Dios, y renueva una conciencia tranquila dentro de mí, oh mi Esperanza. Por medio del espíritu del poder, confírmame en Tu Causa, oh mi Bienamado, y con la luz de Tu gloria, revélame Tu camino, oh Tú que eres el Objeto de mi deseo. Mediante la fuerza de Tu transcendente poder, elévame hasta el cielo de Tu santidad, oh Fuente de mi ser, y con las brisas de Tu eternidad, alégrame, oh Tú que eres mi Dios. Haz que Tus eternas melodías me inspiren tranquilidad, oh mi Compañero, y que las riquezas de Tu antiguo semblante me libren de todo salvo de Ti, oh mi Maestro, y que las nuevas de la revelación de Tu incorruptible Esencia me traigan alegría, oh Tú que eres el más manifiesto de lo manifiesto y el más oculto de lo oculto.
 
 (Source category: Cualidades espirituales)
 (Bahaiprayers.net ID: 11490)
+
+
 
 
 ### <a id="BB00374"></a> Prayer BB00374 in Español
@@ -561,6 +757,8 @@ En verdad, si desearas otorgar bendiciones a un siervo, borrarías del dominio d
 (Bahaiprayers.net ID: 11495)
 
 
+
+
 ### <a id="bpn11496"></a> Prayer bpn11496 in Español
 ¡Oh Proveedor! Tú has exhalado sobre los amigos de Occidente la perfumada fragancia del Espíritu Santo y, con la luz de la guía divina, has iluminado el cielo del Oeste. Has hecho que se acerquen a Ti quienes otrora se hallaban alejados; has convertido a los extraños en amigos amorosos; has despertado a aquellos que dormían; has vuelto conscientes a los desatentos.
 ¡Oh Proveedor! Ayuda a estos nobles amigos a ganarse Tu complacencia, y hazlos bienquerientes de extraños y de amigos por igual. Condúcelos al mundo que perdura por siempre; otórgales una parte de la gracia celestial; haz que sean bahá’ís verdaderos, entregados sinceramente a Dios; guárdalos de las apariencias y afiánzalos firmemente en la verdad. Hazlos signos y señales del Reino, estrellas luminosas en los horizontes de esta vida inferior. Haz que sean un consuelo y un solaz para el género humano, y sirvientes de la paz del mundo. Alégralos con el vino de Tu consejo, y permite que todos ellos sigan el camino de Tus mandamientos.
@@ -569,6 +767,8 @@ Tú eres el Fuerte, el Poderoso, y Tú eres el Dios de fuerza, el Omnipotente, Q
 
 (Source category: Cualidades espirituales)
 (Bahaiprayers.net ID: 11496)
+
+
 
 
 ### <a id="bpn11497"></a> Prayer bpn11497 in Español
@@ -581,6 +781,8 @@ Ampáralos dentro de la fortaleza de Tu protección y seguridad; resguárdalos c
 (Bahaiprayers.net ID: 11497)
 
 
+
+
 ### <a id="AB00128FEE"></a> Prayer AB00128FEE in Español
 ¡Oh Dios, mi Dios! Estos son Tus débiles siervos; son Tus esclavos leales y Tus siervas, que se han inclinado ante Tu exaltada Palabra y se han mostrado humildes ante Tu Umbral de luz, y han dado testimonio de Tu unicidad, mediante la cual se ha hecho brillar el Sol en su esplendor meridiano. Han escuchado el llamamiento que elevaste desde Tu Dominio oculto y, con corazones estremecidos de amor y embeleso, han respondido a Tu llamado.
 Oh Señor, derrama sobre ellos todas las efusiones de Tu misericordia; haz llover sobre ellos todas las aguas de Tu gracia. Haz que crezcan como hermosas plantas en el jardín del cielo y, con las nubes rebosantes de Tus dádivas y los profundos remansos de Tu abundante gracia, haz que este jardín florezca y se mantenga siempre verde y esplendoroso, siempre fresco, resplandeciente y hermoso.
@@ -588,6 +790,8 @@ Tú eres, verdaderamente, el Fuerte, el Exaltado, el Poderoso, Aquel que es el �
 
 (Source category: Cualidades espirituales)
 (Bahaiprayers.net ID: 11498)
+
+
 
 
 ### <a id="AB07709CON"></a> Prayer AB07709CON in Español
@@ -600,6 +804,8 @@ Verdaderamente, Tú eres misericordioso y, verdaderamente, Tú eres el Más Gene
 (Bahaiprayers.net ID: 11499)
 
 
+
+
 ### <a id="bpn11500"></a> Prayer bpn11500 in Español
 ¡Oh mi Dios, oh mi Dios! Este siervo Tuyo ha avanzado hacia Ti, vaga apasionado por el desierto de Tu amor, camina por el sendero de Tu servicio, espera Tus favores, anhela Tu munificencia, confía en Tu reino y está embriagado con el vino de Tu dádiva. ¡Oh mi Dios! Aumenta el fervor de su devoción por Ti, la constancia de su alabanza de Ti y el ardor de su amor por Ti.
 Verdaderamente, Tú eres el Más Generoso, el Señor de gracia abundante. No hay otro Dios más que Tú, el Perdonador, el Misericordioso.
@@ -608,11 +814,15 @@ Verdaderamente, Tú eres el Más Generoso, el Señor de gracia abundante. No hay
 (Bahaiprayers.net ID: 11500)
 
 
+
+
 ### <a id="bpn11501"></a> Prayer bpn11501 in Español
 ¡Oh mi Señor! ¡Oh mi Señor! Esta es una lámpara encendida con el fuego de Tu amor, que arde con la llama prendida en el árbol de Tu misericordia. ¡Oh mi Señor! Aviva su luz, su calor y su llama con el fuego que arde en el Sinaí de Tu Manifestación. Verdaderamente, Tú eres el Confirmador, el Auxiliador, el Poderoso, el Generoso, el Amoroso.
 
 (Source category: Cualidades espirituales)
 (Bahaiprayers.net ID: 11501)
+
+
 
 
 ### <a id="bpn11502"></a> Prayer bpn11502 in Español
@@ -632,6 +842,8 @@ Tú eres, verdaderamente, el Benévolo, el Glorificado, el Poderoso, el Omnipote
 (Bahaiprayers.net ID: 11502)
 
 
+
+
 ### <a id="bpn11503"></a> Prayer bpn11503 in Español
 ¡Oh Dios, mi Dios! Este es Tu siervo radiante, Tu cautivo espiritual, que se ha acercado a Ti y se ha aproximado a Tu presencia. Ha vuelto su rostro hacia el Tuyo, reconociendo Tu unicidad y confesando Tu singularidad, y ha hecho llamamientos en Tu nombre entre las naciones y ha conducido a las gentes hacia las aguas corrientes de Tu misericordia. ¡Oh Generosísimo Señor! A quienes lo han pedido, les ha dado de beber del cáliz de la guía que rebosa con el vino de Tu gracia inmensurable
 ¡Oh Señor, ayúdale en todas las condiciones, dale a conocer Tus bien guardados misterios y derrama sobre él Tus perlas ocultas! Haz de él una enseña que ondee en el pináculo de los castillos, con las brisas de Tu ayuda celestial; haz de él un manantial de aguas cristalinas.
@@ -640,6 +852,8 @@ Tú eres, verdaderamente, el Benévolo, el Glorificado, el Poderoso, el Omnipote
 
 (Source category: Cualidades espirituales)
 (Bahaiprayers.net ID: 11503)
+
+
 
 
 
@@ -654,12 +868,16 @@ Tú eres, verdaderamente, el Señor de esta vida y de la venidera. Tú eres, en 
 (Bahaiprayers.net ID: 11504)
 
 
+
+
 ### <a id="bpn11505"></a> Prayer bpn11505 in Español
 ¡Gloria sea a Ti, oh Señor mi Dios! Te imploro, por Tu Nombre, mediante el cual izaste las enseñas de Tu guía, derramaste el resplandor de Tu bondad y revelaste la soberanía de Tu Señorío; mediante el cual ha aparecido la lámpara de Tus nombres en la hornacina de Tus atributos, y ha resplandecido Aquel que es el Tabernáculo de Tu unidad y la Manifestación del desprendimiento; mediante el cual se han dado a conocer los caminos de Tu guía y han sido señalados los senderos de Tu complacencia; mediante el cual se han estremecido los cimientos del error y han sido abolidas las señales de la perversidad; mediante el cual han brotado las fuentes de la sabiduría y se ha hecho descender la mesa celestial; mediante el cual has preservado a Tus siervos y has conferido Tu curación; mediante el cual has manifestado Tus tiernas mercedes a Tus siervos y has revelado Tu misericordia entre Tus criaturas; Te imploro que mantengas a salvo a quien ha permanecido firme y ha retornado a Ti, se ha aferrado a Tu misericordia y se ha asido del manto de Tu amorosa providencia. Envíale, pues, Tu curación, sánalo y dótalo de una constancia otorgada por Ti y una tranquilidad conferida por Tu majestad.
 Tú eres, en verdad, el Sanador, el Preservador, el Auxiliador, el Todopoderoso, el Potente, el Todoglorioso, el Omnisciente.
 
 (Source category: Curación)
 (Bahaiprayers.net ID: 11505)
+
+
 
 
 ### <a id="bpn11506"></a> Prayer bpn11506 in Español
@@ -669,6 +887,8 @@ Poderoso eres Tú para hacer lo que Te place. No hay otro Dios sino Tú, Quien s
 
 (Source category: Curación)
 (Bahaiprayers.net ID: 11506)
+
+
 
 
 ### <a id="bpn11508"></a> Prayer bpn11508 in Español
@@ -681,6 +901,8 @@ Te imploro, pues, por Tu nombre, mediante el cual manifestaste Tu Deidad y exalt
 (Bahaiprayers.net ID: 11508)
 
 
+
+
 ### <a id="bpn11509"></a> Prayer bpn11509 in Español
 ##Mujeres
 
@@ -691,6 +913,8 @@ Tú, en verdad, estás inmensamente por encima de todo cuanto no seas Tú mismo.
 
 (Source category: Curación)
 (Bahaiprayers.net ID: 11509)
+
+
 
 
 ### <a id="bpn11510"></a> Prayer bpn11510 in Español
@@ -748,11 +972,15 @@ Tú eres, en verdad, el Poderoso, el Suficiente, el Sanador, el Protector, el Da
 (Bahaiprayers.net ID: 11510)
 
 
+
+
 ### <a id="BH01313NAM"></a> Thy name is my healing in Español
 Tu nombre es mi curación, oh mi Dios, y el recuerdo de Ti es mi remedio. La proximidad a Ti es mi esperanza y el amor por Ti es mi compañero. Tu misericordia hacia mí es mi curación y mi socorro, tanto en este mundo como en el venidero. Tú, verdaderamente, eres el Todogeneroso, el Omnisciente, el Sapientísimo.
 
 (Source category: Curación)
 (Bahaiprayers.net ID: 11507)
+
+
 
 
 
@@ -767,6 +995,8 @@ Tú eres, en verdad, el Señor de los mundos y el Dios de todos los que están e
 (Bahaiprayers.net ID: 11511)
 
 
+
+
 ### <a id="bpn11512"></a> Prayer bpn11512 in Español
 ¡Glorificado eres, oh mi Dios! Te doy gracias por haberme hecho conocer a Aquel que es la Aurora de Tu misericordia, el Alba de Tu gracia y el Depositario de Tu Causa. Te imploro, por Tu Nombre, por el cual los rostros de quienes están cerca de Ti han palidecido y los corazones de quienes están consagrados a Ti han emprendido su vuelo hacia Ti, que me permitas asirme a Tu cuerda en todo momento y bajo cualquier condición, y librarme de todo apego a cualquiera que no seas Tú, y mantener los ojos dirigidos hacia el horizonte de Tu Revelación y cumplir lo que me has prescrito en Tus Tablas.
 Atavía, oh mi Señor, mi ser interior y exterior con la vestidura de Tus favores y Tu cariñosa bondad. Protégeme, pues, de todo lo que Te sea detestable, y ayúdanos bondadosamente a mí y a mis familiares a obedecerte, y a eludir todo cuanto pueda suscitar algún deseo malo o corrupto en mí.
@@ -774,6 +1004,8 @@ Verdaderamente, Tú eres el Señor de toda la humanidad y el Poseedor de este mu
 
 (Source category: Desprendimiento)
 (Bahaiprayers.net ID: 11512)
+
+
 
 
 ### <a id="BH09024"></a> Prayer BH09024 in Español
@@ -784,6 +1016,8 @@ En verdad, Tu poder es suficiente para todo.
 
 (Source category: Desprendimiento)
 (Bahaiprayers.net ID: 11513)
+
+
 
 
 ### <a id="bpn11514"></a> Prayer bpn11514 in Español
@@ -800,6 +1034,8 @@ Tú, ciertamente, eres el Todopoderoso, el Más Exaltado, el Omnisciente, el Sap
 (Bahaiprayers.net ID: 11514)
 
 
+
+
 ### <a id="bpn11515"></a> Prayer bpn11515 in Español
 Oh mi Dios, permíteme acercarme a Ti y habitar dentro de los recintos de Tu corte, pues el alejamiento de Ti casi me ha consumido. Haz que repose a la sombra de las alas de Tu gracia, pues la llama de mi separación de Ti me ha fundido el corazón dentro de mí. Acércame al río que es, en verdad, la vida, pues mi alma se consume de sed en su incesante búsqueda de Ti. Mis suspiros, oh mi Dios, proclaman la amargura de mi angustia, y las lágrimas que derramo atestiguan mi amor por Ti.
 Te imploro, por la alabanza con que Te alabas a Ti mismo y la gloria con que glorificas Tu propia Esencia, que nos permitas ser contados entre aquellos que Te han reconocido y han confesado Tu soberanía en Tus días. Ayúdanos, entonces, oh mi Dios, a beber de las manos de la misericordia las aguas vivas de Tu amorosa bondad, para que nos olvidemos por completo de todo excepto de Ti y estemos ocupados solo contigo. Poderoso eres Tú para hacer lo que deseas. No hay Dios sino Tú, el Poderoso, Quien ayuda en el peligro, Quien subsiste por Sí mismo.
@@ -807,6 +1043,8 @@ Te imploro, por la alabanza con que Te alabas a Ti mismo y la gloria con que glo
 
 (Source category: Desprendimiento)
 (Bahaiprayers.net ID: 11515)
+
+
 
 
 ### <a id="bpn11516"></a> Prayer bpn11516 in Español
@@ -820,11 +1058,15 @@ No hay otro Dios sino Tú, el Todopoderoso, el Benéfico.
 (Bahaiprayers.net ID: 11516)
 
 
+
+
 ### <a id="bpn11517"></a> Prayer bpn11517 in Español
 ¡Alabado seas, oh Señor mi Dios! Santifica mi ojo, y mi oído, y mi lengua, y mi espíritu, y mi corazón, y mi alma, y mi cuerpo, y todo mi ser, para que no se vuelva hacia nadie que no seas Tú. Dame de beber, entonces, de la copa que rebosa con el vino sellado de Tu gloria.
 
 (Source category: Desprendimiento)
 (Bahaiprayers.net ID: 11517)
+
+
 
 
 ### <a id="BB00522"></a> Prayer BB00522 in Español
@@ -838,6 +1080,8 @@ Tú tienes autoridad absoluta para ordenar.
 (Bahaiprayers.net ID: 11518)
 
 
+
+
 ### <a id="bpn11520"></a> Prayer bpn11520 in Español
 ¡Oh Dios, mi Dios! ¡Tú eres mi Esperanza y mi Bienamado, mi más elevado Propósito y Deseo! Con gran humildad y entera devoción Te suplico que hagas de mí un minarete de Tu amor en Tu tierra, una lámpara de Tu conocimiento entre Tus criaturas y un estandarte de munificencia divina en Tu dominio.
 Cuéntame entre aquellos siervos Tuyos que se han desprendido de todo menos de Ti, se han purificado de las cosas transitorias de este mundo y se han librado de las insinuaciones de los que difunden ociosas fantasías.
@@ -846,6 +1090,8 @@ Tú eres, en verdad, el Todopoderoso, el Todoglorioso, el Omnipotente.
 
 (Source category: Desprendimiento)
 (Bahaiprayers.net ID: 11520)
+
+
 
 
 
@@ -868,6 +1114,8 @@ No hay otro Dios más que Tú, el Único, el Indiviso, el Poderoso, el Omniscien
 (Bahaiprayers.net ID: 11521)
 
 
+
+
 ### <a id="bpn11522"></a> Prayer bpn11522 in Español
 ¡Gloria sea a Ti, oh Señor mi Dios! No humilles a quien has exaltado mediante el poder de Tu soberanía eterna, y no alejes de Ti a quien has hecho entrar en el tabernáculo de Tu eternidad. ¿Rechazarás, oh mi Dios, a quien has protegido con Tu Señorío, y apartarás de Ti, oh mi Deseo, a aquel para quien has sido un refugio? ¿Podrás degradar a quien has elevado u olvidar a quien permitiste que Te recordara?
 ¡Glorificado, inmensamente glorificado eres Tú! Tú eres Aquel que, desde siempre, ha sido el Rey de toda la creación y su Primer Motor; y eternamente permanecerás siendo el Señor y Ordenador de todas las cosas creadas. ¡Glorificado eres, oh mi Dios! Si dejas de ser misericordioso con Tus siervos, ¿quién, entonces, les mostrará misericordia? Y, si rehúsas socorrer a Tus amados, ¿quién podrá soco-rrerlos?
@@ -875,6 +1123,8 @@ No hay otro Dios más que Tú, el Único, el Indiviso, el Poderoso, el Omniscien
 
 (Source category: Difuntos)
 (Bahaiprayers.net ID: 11522)
+
+
 
 
 ### <a id="bpn11531"></a> Prayer bpn11531 in Español
@@ -899,6 +1149,8 @@ Todos, en verdad, somos pacientes en Dios.
 (Bahaiprayers.net ID: 11531)
 
 
+
+
 ### <a id="bpn11523"></a> Prayer bpn11523 in Español
 ¡Oh mi Dios! ¡Oh mi Dios! Verdaderamente, Tu siervo, humilde ante la majestad de Tu divina supremacía, sumiso ante la puerta de Tu unicidad, ha creído en Ti y en Tus versículos, ha dado testimonio de Tu palabra, ha sido encendido con el fuego de Tu amor, ha sido sumergido en las profundidades del océano de Tu conocimiento, ha sido atraído por Tus brisas, ha confiado en Ti, ha vuelto el rostro hacia Ti, Te ha ofrecido sus súplicas y le han sido asegurados Tu perdón y Tu clemencia. Ha abandonado esta vida mortal y ha volado hacia el reino de la inmortalidad, anhelando el favor de encontrarse contigo.
 ¡Oh Señor! Glorifica su posición, cobíjalo en el pabellón de Tu suprema misericordia, haz que entre en Tu glorioso paraíso y perpetúa su existencia en Tu exaltado rosedal, para que pueda sumergirse en el mar de luz que se halla en el mundo de los misterios.
@@ -906,6 +1158,8 @@ En verdad, Tú eres el Generoso, el Poderoso, el Perdonador y el Donador.
 
 (Source category: Difuntos)
 (Bahaiprayers.net ID: 11523)
+
+
 
 
 ### <a id="AB11094"></a> Prayer AB11094 in Español
@@ -916,12 +1170,16 @@ En verdad, Tú eres el Generoso, el Poderoso, el Perdonador y el Donador.
 (Bahaiprayers.net ID: 11524)
 
 
+
+
 ### <a id="bpn11525"></a> Prayer bpn11525 in Español
 Aunque algunas almas han pasado los días de su vida en la ignorancia y se han distanciado y se han vuelto contumaces, con una sola ola del océano de Tu indulgencia, todos los que están rodeados de pecado serán liberados. Tú conviertes en confidente a quien deseas, y quien no es objeto de Tu elección se cuenta entre los transgresores. Si nos trataras con Tu justicia, no seríamos más que pecadores y mereceríamos estar apartados de Ti; mas si mostraras misericordia, todo pecador sería purificado y todo extraño se convertiría en amigo. Concede, pues, Tu indulgencia y perdón, y confiere a todos Tu misericordia.
 Tú eres el Perdonador, el Iluminador, el Omnipotente.
 
 (Source category: Difuntos)
 (Bahaiprayers.net ID: 11525)
+
+
 
 
 ### <a id="bpn11526"></a> Prayer bpn11526 in Español
@@ -933,6 +1191,8 @@ Tú eres el Señor de tierno amor, Tú eres la meta final del corazón anhelante
 (Bahaiprayers.net ID: 11526)
 
 
+
+
 ### <a id="bpn11527"></a> Prayer bpn11527 in Español
 ¡Oh mi Dios, oh Tú que perdonas los pecados y disipas las aflicciones! ¡Oh Tú que eres el Indulgente, el Misericordioso! Levanto hacia Ti mis manos suplicantes y, con lágrimas en los ojos, imploro a la corte de Tu divina Esencia que, mediante Tu gracia y Tu clemencia, perdones a Tu sierva, que ha ascendido hacia la sede de la verdad. ¡Oh Señor! Haz que la envuelvan las nubes de Tu munificencia y favor, sumérgela en el océano de Tu clemencia y perdón, y permítele entrar en la excelsa morada de Tu paraíso celestial.
 Verdaderamente, Tú eres el Poderoso, el Compasivo, el Generoso, el Misericordioso.
@@ -941,11 +1201,15 @@ Verdaderamente, Tú eres el Poderoso, el Compasivo, el Generoso, el Misericordio
 (Bahaiprayers.net ID: 11527)
 
 
+
+
 ### <a id="bpn11528"></a> Prayer bpn11528 in Español
 ¡Oh Señor, oh Tú Cuya misericordia ha envuelto a todos, Cuya indulgencia es trascendente, Cuya munificencia es sublime, Cuya clemencia y generosidad lo abarcan todo, y las luces de Cuyo perdón se difunden por todo el mundo! ¡Oh Señor de gloria! Te ruego, con fervor y lágrimas en los ojos, que dirijas la mirada del ojo de Tu misericordia a Tu sierva, que ha ascendido hacia Ti. Vístela con el manto de Tu gracia, que brilla con los adornos del Paraíso celestial, y, al amparo del árbol de Tu unicidad, ilumina su rostro con la luz de Tu misericordia y compasión. ¡Oh Dios! Confiere a Tu sierva celestial las santas fragancias provenientes del espíritu de Tu indulgencia. Hazla habitar en una bendita morada, cura sus pesares con el bálsamo de la reunión contigo y, conforme a Tu voluntad, permítele entrar en Tu santo Paraíso. Haz que desciendan en sucesión sobre ella los ángeles de Tu amorosa bondad, y cobíjala bajo Tu Árbol bendito. Tú eres, verdaderamente, Quien siempre perdona, el Más Generoso, el Munífico.
 
 (Source category: Difuntos)
 (Bahaiprayers.net ID: 11528)
+
+
 
 
 ### <a id="bpn11529"></a> Prayer bpn11529 in Español
@@ -957,6 +1221,8 @@ Verdaderamente, Tú eres el Poderoso, el Compasivo, el Generoso, el Misericordio
 (Bahaiprayers.net ID: 11529)
 
 
+
+
 ### <a id="bpn11530"></a> Prayer bpn11530 in Español
 ¡Oh Dios perdonador! Perdona los pecados de mi amorosa madre, absuelve sus faltas, dirige sobre ella la mirada de Tu bondadosa providencia, y permite que sea admitida en Tu Reino.
 ¡Oh Dios! Desde los primeros días de mi vida, ella me educó y me alimentó, mas yo no la recompensé por su trabajo y su esfuerzo. Recompénsala otorgándole vida eterna y exaltándola en Tu Reino.
@@ -964,6 +1230,8 @@ Verdaderamente, Tú eres el Perdonador, el Donador y el Bondadoso.
 
 (Source category: Difuntos)
 (Bahaiprayers.net ID: 11530)
+
+
 
 
 
@@ -983,6 +1251,8 @@ Tú eres, verdaderamente, el Todopoderoso, el Omnisciente, el Informado de todo.
 
 
 
+
+
 ## Enseñanza
 
 ### <a id="BH08363"></a> Prayer BH08363 in Español
@@ -995,6 +1265,8 @@ Tú eres, en verdad, el Dios de fuerza y poder, y estás dispuesto a responder a
 (Bahaiprayers.net ID: 11532)
 
 
+
+
 ### <a id="bpn11533"></a> Prayer bpn11533 in Español
 Gloria sea a Ti, oh Señor del mundo y Deseo de las naciones; oh Tú que Te has hecho manifiesto en el Más Grande Nombre, por medio del cual las perlas de la sabiduría y de la expresión han aparecido en las conchas del gran mar de Tu conocimiento, y los cielos de la revelación divina han sido adornados con la luz de la aparición del Sol de Tu semblante. 
 Te suplico, por esa Palabra, mediante la cual fue perfeccionada Tu prueba entre Tus criaturas y se cumplió Tu testimonio entre Tus siervos, que fortalezcas a Tu pueblo en aquello que haga irradiar la faz de la Causa en Tu reino, enarbolar las enseñas de Tu poder entre Tus siervos y alzar los estandartes de Tu guía en Tus dominios.
@@ -1002,6 +1274,8 @@ Te suplico, por esa Palabra, mediante la cual fue perfeccionada Tu prueba entre 
 
 (Source category: Enseñanza)
 (Bahaiprayers.net ID: 11533)
+
+
 
 
 ### <a id="bpn11534"></a> Prayer bpn11534 in Español
@@ -1013,6 +1287,8 @@ Oh mi Señor, ya que los has guiado hasta las aguas vivas de Tu gracia, permite,
 (Bahaiprayers.net ID: 11534)
 
 
+
+
 ### <a id="bpn11535"></a> Prayer bpn11535 in Español
 Di: ¡Magnificado sea Tu Nombre, oh Señor mi Dios! Te ruego, por Tu Nombre, mediante el cual brilló resplandeciente la luz de la sabiduría cuando los cielos de la expresión divina se pusieron en movimiento entre la humanidad, que me ayudes generosamente con Tus confirmaciones celestiales y me permitas exaltar Tu Nombre entre Tus siervos.
 ¡Oh Señor! Hacia Ti he vuelto el rostro, desprendido de todo excepto de Ti y asiéndome firmemente del borde del manto de Tus múltiples bendiciones. Desata, por tanto, mi lengua para que proclame aquello que cautive las mentes y regocije las almas y los espíritus. Fortaléceme, pues, en Tu Causa, de modo tal que no me inhiba el predominio de los opresores entre Tus criaturas ni me detenga el ataque de los incrédulos entre los que moran en Tu reino. Haz de mí una lámpara que relumbre en todas Tus tierras, para que con su resplandor sean guiados aquellos en cuyos corazones brilla la luz de Tu conocimiento y perdura el anhelo por Tu amor.
@@ -1022,6 +1298,8 @@ Verdaderamente, potente eres Tú para hacer cuanto Te place y en Tu mano sostien
 (Bahaiprayers.net ID: 11535)
 
 
+
+
 ### <a id="bpn11536"></a> Prayer bpn11536 in Español
 ¡Oh Tú que sostienes en Tu puño el Reino de los nombres y el Dominio de todas las cosas! Tú ves cómo me he vuelto un extraño fuera de mi país a causa de mi amor por Ti. Te suplico, por la belleza de Tu rostro, que hagas de la lejanía de mi tierra un medio para que Tus siervos se aproximen al Manantial de Tu Causa y al Amanecer de Tu Revelación. ¡Oh Dios! Te invoco con una lengua que no ha expresado una sola palabra de desobediencia a Ti, implorándote que, por Tu soberanía y poder, me mantengas a salvo en el refugio de Tu misericordia y me concedas fuerza para servirte a Ti y para servir a mi padre y a mi madre. Tú eres, en verdad, el Todopoderoso, Quien ayuda en el peligro, Quien subsiste por Sí mismo.
 
@@ -1029,11 +1307,15 @@ Verdaderamente, potente eres Tú para hacer cuanto Te place y en Tu mano sostien
 (Bahaiprayers.net ID: 11536)
 
 
+
+
 ### <a id="bpn11537"></a> Prayer bpn11537 in Español
 Alabado seas, oh Señor mi Dios, por guiarme al horizonte de Tu Revelación y hacer que sea mencionado por Tu Nombre. Te suplico, por los rayos que difunde el Sol de Tu providencia y por las olas ondulantes del Océano de Tu misericordia, que permitas que mis palabras contengan un vestigio de la influencia de Tu propia excelsa Palabra, para que atraigan así las realidades de todas las cosas creadas. Potente eres para hacer Tu voluntad por medio de Tu maravillosa e incomparable Palabra.
 
 (Source category: Enseñanza)
 (Bahaiprayers.net ID: 11537)
+
+
 
 
 ### <a id="bpn11538"></a> Prayer bpn11538 in Español
@@ -1046,11 +1328,15 @@ Tú eres Quien todo lo sabe y todo lo ve. En mi amor por Ti, no tengo deseo algu
 (Bahaiprayers.net ID: 11538)
 
 
+
+
 ### <a id="bpn11539"></a> Prayer bpn11539 in Español
 ¡Oh Dios, mi Dios! Ayuda a Tus siervos leales a tener corazones tiernos y amorosos. Asísteles para que difundan entre todas las naciones de la tierra la luz de guía que proviene del Concurso de lo alto. En verdad, Tú eres el Fuerte, el Potente, el Poderoso, Quien todo lo subyuga, el Eterno Donador. Ver-daderamente, Tú eres el Generoso, el Amable, el Tierno, el Más Bondadoso.
 
 (Source category: Enseñanza)
 (Bahaiprayers.net ID: 11539)
+
+
 
 
 ### <a id="bpn11540"></a> Prayer bpn11540 in Español
@@ -1061,6 +1347,8 @@ Tú eres, verdaderamente, el Generoso, el Perdonador.
 (Bahaiprayers.net ID: 11540)
 
 
+
+
 ### <a id="bpn11541"></a> Prayer bpn11541 in Español
 Tú me ves, oh mi Dios, inclinado en sumisión, humilde ante Tus mandamientos, sometido a Tu soberanía, temblando ante el poder de Tu dominio, huyendo de Tu ira, implorando Tu gracia, confiando en Tu perdón, estremecido de temor ante Tu furia. Te imploro con corazón palpitante, con un torrente de lágrimas y con el alma llena de anhelo, y completamente desprendido de todas las cosas, que hagas de Tus amantes rayos de luz que atraviesen Tus dominios, y que ayudes a Tus siervos escogidos a exaltar Tu Palabra, de modo que sus rostros se vuelvan hermosos y radiantes de esplendor, sus corazones se llenen con los misterios, y cada alma deponga su carga de pecados. Protégelos, pues, del agresor, de aquel que se ha convertido en un desvergonzado y blasfemo malhechor.
 En verdad, Tus amantes están sedientos, oh mi Señor; condúcelos al manantial de munificencia y gracia. En verdad, están hambrientos; hazles llegar Tu mesa celestial. En verdad, están desnudos; atavíalos con las prendas del saber y del conocimiento.
@@ -1069,6 +1357,8 @@ En verdad, Tú estás dotado de abundante gracia. No hay otro Dios más que Tú,
 
 (Source category: Enseñanza)
 (Bahaiprayers.net ID: 11541)
+
+
 
 
 ### <a id="bpn11551"></a> Prayer bpn11551 in Español
@@ -1086,6 +1376,8 @@ Verdaderamente, Tú eres el Fuerte, el Poderoso, el Omnipotente.
 (Bahaiprayers.net ID: 11551)
 
 
+
+
 ### <a id="bpn11550"></a> Prayer bpn11550 in Español
 ##Oraciones para la enseñanza tomadas de las Tablas del Plan Divino
 ##Revelada para los bahá’ís de Canadá
@@ -1096,6 +1388,8 @@ Verdaderamente, Tú eres el Todopoderoso, el Más Exaltado, Quien siempre perdon
 
 (Source category: Enseñanza)
 (Bahaiprayers.net ID: 11550)
+
+
 
 
 ### <a id="bpn11549"></a> Prayer bpn11549 in Español
@@ -1109,6 +1403,8 @@ Verdaderamente, Tú eres el Todopoderoso, el Más Exaltado, Quien siempre perdon
 
 (Source category: Enseñanza)
 (Bahaiprayers.net ID: 11549)
+
+
 
 
 ### <a id="bpn11548"></a> Prayer bpn11548 in Español
@@ -1125,6 +1421,8 @@ Verdaderamente, Tú eres el Todopoderoso, el Más Exaltado, Quien siempre perdon
 (Bahaiprayers.net ID: 11548)
 
 
+
+
 ### <a id="bpn11547"></a> Prayer bpn11547 in Español
 ##Oraciones para la enseñanza tomadas de las Tablas del Plan Divino
 ##Reveladas para los bahá’ís de los estados meridionales
@@ -1136,6 +1434,8 @@ Tú eres el Omnipotente y Quien hace lo que Le place.
 
 (Source category: Enseñanza)
 (Bahaiprayers.net ID: 11547)
+
+
 
 
 ### <a id="bpn11546"></a> Prayer bpn11546 in Español
@@ -1151,6 +1451,8 @@ En verdad, Tú eres el Potente, el Poderoso, el Sabio y el que ve.
 
 (Source category: Enseñanza)
 (Bahaiprayers.net ID: 11546)
+
+
 
 
 ### <a id="bpn11545"></a> Prayer bpn11545 in Español
@@ -1174,6 +1476,8 @@ Verdaderamente, Tú eres el Más Generoso, el Señor de gracia abundante y, verd
 (Bahaiprayers.net ID: 11545)
 
 
+
+
 ### <a id="bpn11544"></a> Prayer bpn11544 in Español
 ##Oraciones para la enseñanza tomadas de las Tablas del Plan Divino
 ##Reveladas para los bahá’ís de los Estados Unidos y Canadá
@@ -1188,6 +1492,8 @@ Verdaderamente, Tú eres el Clemente, el Potente, el Poderoso y el Más Miserico
 
 (Source category: Enseñanza)
 (Bahaiprayers.net ID: 11544)
+
+
 
 
 ### <a id="bpn11543"></a> Prayer bpn11543 in Español
@@ -1205,6 +1511,8 @@ Verdaderamente, Tú confirmas a quien quieres en lo que Tú deseas y, en verdad,
 (Bahaiprayers.net ID: 11543)
 
 
+
+
 ### <a id="bpn11542"></a> Prayer bpn11542 in Español
 ##Oraciones para la enseñanza tomadas de las Tablas del Plan Divino
 ##Reveladas para los bahá’ís de los Estados Unidos y Canadá
@@ -1214,6 +1522,8 @@ Verdaderamente, Tú confirmas a quien quieres en lo que Tú deseas y, en verdad,
 
 (Source category: Enseñanza)
 (Bahaiprayers.net ID: 11542)
+
+
 
 
 
@@ -1229,6 +1539,8 @@ Verdaderamente, Tú eres el Señor de la rectitud, el Exaltadísimo.
 (Bahaiprayers.net ID: 11552)
 
 
+
+
 ### <a id="bpn11553"></a> Prayer bpn11553 in Español
 Ruego Tu perdón, oh mi Dios, y Te imploro indulgencia de la manera que Tú deseas que Tus siervos se dirijan a Ti. Te suplico que limpies nuestros pecados como corresponde a Tu Señorío, y me perdones a mí, a mis padres y a quienes a Tu juicio han entrado en la morada de Tu amor, de una manera que sea digna de Tu trascendente soberanía y acorde con la gloria de Tu poder celestial.
 ¡Oh mi Dios! Tú has inspirado mi alma para que eleve su súplica a Ti, y, si no fuera por Ti, yo no Te invocaría. Loado y glorificado eres Tú. Te rindo alabanza, por cuanto Tú Te has revelado a mí, y Te ruego que me perdones, pues he faltado a mi deber de conocerte y no he seguido el camino de Tu amor.
@@ -1237,11 +1549,15 @@ Ruego Tu perdón, oh mi Dios, y Te imploro indulgencia de la manera que Tú dese
 (Bahaiprayers.net ID: 11553)
 
 
+
+
 ### <a id="bpn11554"></a> Prayer bpn11554 in Español
 ¡Oh Señor! En esta Grandísima Dispensación Tú aceptas la intercesión de los hijos en favor de sus padres. Este es uno de los infinitos dones especiales de esta Dispensación. Por tanto, oh bondadoso Señor, acepta la súplica de este siervo Tuyo en el umbral de Tu unicidad y sumerge a su padre en el océano de Tu gracia, porque este hijo se ha levantado a prestarte servicio y se está esforzando en todo momento en el camino de Tu amor. Verdaderamente, Tú eres el Donador, el Perdonador y el Bondadoso.
 
 (Source category: Familia)
 (Bahaiprayers.net ID: 11554)
+
+
 
 
 
@@ -1257,6 +1573,8 @@ Decreta para mí, por Tu generosidad, oh Señor, aquello que me haga prosperar e
 (Bahaiprayers.net ID: 11555)
 
 
+
+
 ### <a id="BH07683"></a> Prayer BH07683 in Español
 ¡Gloria a Ti, oh Rey de la eternidad, Hacedor de naciones y Modelador de todo hueso que se deshace! Te ruego, por Tu Nombre, mediante el cual llamaste a toda la humanidad hacia el horizonte de Tu majestad y gloria y guiaste a Tus siervos a la corte de Tu gracia y Tus favores, que me cuentes entre aquellos que se han librado de todo excepto de Ti y se han vuelto hacia Ti, y a quienes las desgracias que Tú has decretado no les han impedido volverse hacia Tus dádivas.
 Me he aferrado, oh mi Señor, al asidero de Tu bondad y me he sujetado firmemente al borde del manto de Tu favor. Haz descender, pues, sobre mí, desde las nubes de Tu generosidad, aquello que me purifique del recuerdo de cualquiera que no seas Tú y me capacite para dirigirme hacia Aquel que es el Objeto de la adoración de toda la humanidad, contra Quien se han dispuesto en formación los agitadores de sedición, que han roto Tu alianza y no han creído en Ti ni en Tus señales.
@@ -1265,6 +1583,8 @@ No hay Dios sino Tú, el Todopoderoso, el Sapientísimo.
 
 (Source category: Firmeza en la Alianza)
 (Bahaiprayers.net ID: 11556)
+
+
 
 
 ### <a id="bpn11557"></a> Prayer bpn11557 in Español
@@ -1277,6 +1597,8 @@ Tú eres el Compasivo, el Misericordioso. Tú eres el Gran Dios Benéfico.
 (Bahaiprayers.net ID: 11557)
 
 
+
+
 ### <a id="bpn11558"></a> Prayer bpn11558 in Español
 ¡Alabanzas Te sean dadas, oh Señor, mi Bienamado! Hazme firme en Tu Causa y permite que sea contado entre quienes no han violado Tu Alianza ni seguido a los dioses de sus propias vanas fantasías. Permíteme, pues, obtener una sede de verdad en Tu presencia, confiéreme una muestra de Tu misericordia y deja que me una a aquellos siervos Tuyos que no tienen temor ni se ven afligidos. No me abandones a mí mismo, oh mi Señor, ni me prives de reconocer a Aquel que es la Manifestación de Tu propio Ser, ni me cuentes entre quienes se han apartado de Tu santa presencia. Cuéntame, oh mi Dios, entre aquellos que tienen el privilegio de fijar los ojos en Tu Belleza y sienten tal dicha por ello que no cambiarían ni uno solo de esos momentos por la soberanía del reino de los cielos y de la tierra ni por todo el dominio de la creación. Ten misericordia de mí, oh Señor, en estos días en que las gentes de Tu tierra han errado gravemente; provéeme, pues, oh mi Dios, con aquello que a Tu juicio sea bueno y apropiado. Tú eres, verdaderamente, el Todopoderoso, el Magnánimo, el Bondadoso, Quien siempre perdona.
 No consientas, oh mi Dios, que sea contado entre aquellos cuyos oídos están sordos, cuyos ojos son ciegos, cuyas lenguas están mudas y cuyos corazones no han llegado a comprender. Líbrame, oh Señor, del fuego de la ignorancia y del deseo egoísta, permíteme entrar en los recintos de Tu trascendente misericordia y haz descender sobre mí aquello que has ordenado para Tus elegidos. Potente eres Tú para hacer lo que deseas. En verdad, Tú eres Quien ayuda en el peligro, Quien subsiste por Sí mismo.
@@ -1285,12 +1607,16 @@ No consientas, oh mi Dios, que sea contado entre aquellos cuyos oídos están so
 (Bahaiprayers.net ID: 11558)
 
 
+
+
 ### <a id="bpn11559"></a> Prayer bpn11559 in Español
 ¡Oh mi Señor y mi Esperanza! Ayuda a Tus amados a ser firmes en Tu poderosa Alianza, a permanecer fieles a Tu Causa manifiesta y a cumplir los mandamientos que Tú les has prescrito en Tu Libro de Esplendores, para que lleguen a ser enseñas de guía y lámparas del Concurso de lo alto, manantiales de Tu infinita sabiduría, y estrellas que guían rectamente, brillando desde el firmamento celestial.
 Verdaderamente, Tú eres el Invencible, el Todopoderoso, el Omnipotente.
 
 (Source category: Firmeza en la Alianza)
 (Bahaiprayers.net ID: 11559)
+
+
 
 
 ### <a id="AB06211"></a> Prayer AB06211 in Español
@@ -1302,11 +1628,15 @@ Tú eres el Perdonador, el Benévolo.
 (Bahaiprayers.net ID: 11560)
 
 
+
+
 ### <a id="bpn11561"></a> Prayer bpn11561 in Español
 ¡Oh Dios, mi Dios! Dame de beber del cáliz de Tu dádiva e ilumina mi rostro con la luz de la guía. Hazme firme en el camino de la fidelidad, ayúdame a ser constante en Tu poderosa Alianza y permite que sea contado entre Tus siervos elegidos. Abre ante mí las puertas de la abundancia, otórgame la salvación y, por medios que no puedo concebir, susténtame con los tesoros del cielo. Permíteme volver el rostro hacia la faz de Tu generosidad y consagrarme plenamente a Ti, oh Tú que eres misericordioso y compasivo. Tú, verdaderamente, confieres la gracia y eres generoso con aquellos que se sujetan firmemente a Tu Alianza. Toda alabanza sea para Dios, el Señor de los mundos.
 
 (Source category: Firmeza en la Alianza)
 (Bahaiprayers.net ID: 11561)
+
+
 
 
 
@@ -1325,6 +1655,8 @@ Verdaderamente, Tú eres el Sostenedor, el Auxiliador, el Generoso, el Munífico
 
 
 
+
+
 ## Humanidad
 
 ### <a id="bpn11563"></a> Prayer bpn11563 in Español
@@ -1336,12 +1668,16 @@ Todos son pobres y necesitados, y Tú eres, en verdad, Quien todo lo posee, Quie
 (Bahaiprayers.net ID: 11563)
 
 
+
+
 ### <a id="bpn11564"></a> Prayer bpn11564 in Español
 ¡Oh Señor compasivo, Tú que eres generoso y capaz! Somos siervos Tuyos al abrigo de Tu providencia. Dirige hacia nosotros Tu mirada de favor. Da luz a nuestros ojos, percepción a nuestros oídos y comprensión y amor a nuestros corazones. Regocija y alegra nuestras almas mediante Tus buenas nuevas. ¡Oh Señor! Indícanos el sendero de Tu reino y resucítanos a todos mediante los hálitos del Espíritu Santo. Concédenos vida eterna y confiérenos honor infinito. Une al género humano e ilumina el mundo de la humanidad. Que todos sigamos Tu camino, anhelemos Tu complacencia e indaguemos los misterios de Tu reino. ¡Oh Dios! Únenos y enlaza nuestros corazones con Tu lazo indisoluble.
 Verdaderamente, Tú eres el Donador, Tú eres el Bondadoso y Tú eres el Todopoderoso.
 
 (Source category: Humanidad)
 (Bahaiprayers.net ID: 11564)
+
+
 
 
 ### <a id="bpn11565"></a> Prayer bpn11565 in Español
@@ -1358,6 +1694,8 @@ Tú eres el Poderoso y el Fuerte. Tú eres el Perdonador y Tú eres Quien pasa p
 (Bahaiprayers.net ID: 11565)
 
 
+
+
 ### <a id="bpn11566"></a> Prayer bpn11566 in Español
 ¡Oh Dios, oh Tú que has derramado Tu esplendor sobre las realidades luminosas de los seres humanos, vertiendo sobre ellos las luces brillantes del conocimiento y la guía, y los has elegido de entre todas las cosas creadas para esta gracia suprema, y has hecho que abarquen todas las cosas, comprendan su íntima esencia, descubran sus misterios y los saquen de la oscuridad y los traigan al mundo visible! «Él, ciertamente, muestra Su especial misericordia a quien desea». 
 Oh Señor, ayuda a Tus amados a adquirir conocimiento y a descubrir las ciencias y las artes, y a desentrañar los secretos atesorados en la realidad más íntima de todos los seres creados. Haz que oigan las verdades ocultas que están escritas y grabadas en lo más hondo de todo cuanto existe. Haz que sean enseñas de guía entre todas las criaturas y penetrantes rayos de la mente que derramen su luz en esta «primera vida».  Haz de ellos líderes que conduzcan hacia Ti, guías que lleven a Tu camino, heraldos que apremien a las almas a dirigirse hacia Tu Reino. 
@@ -1365,6 +1703,8 @@ Tú eres, en verdad, el Poderoso, el Protector, el Potente, el Defensor, el Fuer
 
 (Source category: Humanidad)
 (Bahaiprayers.net ID: 11566)
+
+
 
 
 
@@ -1378,6 +1718,8 @@ Ilumina, oh Señor, los rostros de Tus siervos para que puedan verte, y limpia s
 (Bahaiprayers.net ID: 11567)
 
 
+
+
 ### <a id="bpn11568"></a> Prayer bpn11568 in Español
 *Respecto a sus asuntos, que repita diecinueve veces: «Tú me ves, oh mi Dios, desprendido de todo salvo de Ti y aferrándome a Ti. Guíame pues, en todos mis asuntos, hacia aquello que me favorezca para la gloria de Tu Causa y la grandeza de la posición de Tus amados». Que luego reflexione sobre ello y lleve a efecto lo que le venga a la mente. Esta violenta oposición de los enemigos dará paso, sin duda, a la suprema prosperidad.
 
@@ -1385,11 +1727,15 @@ Ilumina, oh Señor, los rostros de Tus siervos para que puedan verte, y limpia s
 (Bahaiprayers.net ID: 11568)
 
 
+
+
 ### <a id="bpn11569"></a> Prayer bpn11569 in Español
 ¡Oh bondadoso Señor! ¡Oh Tú que eres generoso y misericordioso! Somos siervos de Tu umbral y estamos reunidos a la sombra protectora de Tu divina unidad. El sol de Tu misericordia brilla sobre todos y las nubes de Tu generosidad derraman su lluvia sobre todos. Tus dádivas abarcan a todos, Tu amorosa providencia mantiene a todos, Tu protección envuelve a todos y la mirada de Tu favor se dirige hacia todos. ¡Oh Señor! Otorga Tus infinitos dones y haz resplandecer la luz de Tu guía. Ilumina los ojos, alegra los corazones con felicidad perdurable. Confiere un espíritu nuevo a todas las gentes y concédeles vida eterna. Abre las puertas del verdadero entendimiento y permite que brille resplandeciente la luz de la fe. Reúne a todas las gentes al amparo de Tu generosidad y haz que se unan en armonía, para que lleguen a ser como los rayos de un solo sol, como las olas de un mismo océano y como el fruto de un solo árbol. Que beban del mismo manantial. Que se refresquen con la misma brisa. Que obtengan iluminación de la misma fuente de luz. Tú eres el Donador, el Misericordio-so, el Omnipotente.
 
 (Source category: Iluminación)
 (Bahaiprayers.net ID: 11569)
+
+
 
 
 
@@ -1404,12 +1750,16 @@ Haz que aparezcan, pues, oh espíritu de Pureza, almas que, al igual que esos se
 (Bahaiprayers.net ID: 11570)
 
 
+
+
 ### <a id="bpn11571"></a> Prayer bpn11571 in Español
 ¡Oh bondadoso Señor! Confiere, por Tu gracia, un par de alas celestiales a cada uno de estos pajarillos, y concédeles poder espiritual para que levanten el vuelo por este espacio ilimitado y se remonten a las alturas del Reino de Abhá.
 ¡Oh Señor! Fortalece estas delicadas plantas para que cada una de ellas llegue a ser un árbol fructífero, verde y floreciente. Haz victoriosas a estas almas mediante la potencia de Tus huestes celestiales, para que puedan aplastar las fuerzas del error y la ignorancia y desplegar el estandarte de la fraternidad y de la guía entre las gentes; para que, cual brisas vivificantes de la primavera, refresquen y reanimen los árboles de las almas humanas y, como lluvias vernales, tornen verdes y fértiles los prados de esa región. Tú eres el Fuerte y el Poderoso; Tú eres el Conferidor y el Amoroso.
 
 (Source category: Jóvenes)
 (Bahaiprayers.net ID: 11571)
+
+
 
 
 ### <a id="AB10492"></a> Prayer AB10492 in Español
@@ -1420,11 +1770,15 @@ Tú eres el Otorgador, el Amoroso.
 (Bahaiprayers.net ID: 11572)
 
 
+
+
 ### <a id="bpn11573"></a> Prayer bpn11573 in Español
 ¡Oh Señor! Haz radiante a este joven y confiere Tu generosidad a esta pobre criatura. Otórgale conoci-miento, concédele mayor fuerza a la alborada de cada día y resguárdalo al amparo de Tu cuidado, para que se libre del error, se consagre al servicio de Tu Causa, guíe a los descarriados, encamine a los desventurados, libere a los cautivos y despierte a los desatentos, a fin de que todos sean bendecidos con Tu recuerdo y Tu alabanza. Tú eres el Poderoso y el Potente.
 
 (Source category: Jóvenes)
 (Bahaiprayers.net ID: 11573)
+
+
 
 
 ### <a id="bpn11574"></a> Prayer bpn11574 in Español
@@ -1438,6 +1792,8 @@ Tú eres el Todopoderoso, el Todoglorioso, el Omnipotente.
 (Bahaiprayers.net ID: 11574)
 
 
+
+
 ### <a id="bpn11575"></a> Prayer bpn11575 in Español
 ¡Oh bondadoso Señor!
 Permite que estos árboles lleguen a ser el adorno del Paraíso de Abhá. Haz que crezcan por medio de Tu dádiva celestial. Hazlos verdes y lozanos y humedécelos con gotas del rocío del paraíso. Atavíalos con mantos de radiante belleza y corona sus cabezas con preciosas flores. Adórnalos con excelentes frutos y esparce sobre ellos Tus dulces aromas.
@@ -1447,11 +1803,15 @@ Tú eres el Otorgador, el Más Amoroso, el Más Esplendoroso, el Más Resplandec
 (Bahaiprayers.net ID: 11575)
 
 
+
+
 ### <a id="bpn11576"></a> Prayer bpn11576 in Español
 ¡Oh mi Dios, oh mi Dios! Verdaderamente, esta planta ha dado su fruto y permanece con el tallo erguido. Verdaderamente, ha dejado atónitos a los campesinos y ha inquietado a los envidiosos. ¡Oh Dios! Riégala con las lluvias que caen de la nube de Tus favores, y haz que produzca grandes cosechas, acumuladas como imponentes colinas en Tus tierras. Enciende los corazones con un rayo que brille desde Tu Reino de la Unicidad. Ilumina los ojos al contemplar los signos de Tu gracia, y deleita los oídos al escuchar las melodías de las aves de Tus confirmaciones que cantan en Tus jardines celestiales, de tal modo que estas almas lleguen a ser como peces sedientos que nadan en los remansos de Tu guía, y verdaderos leones que recorren las selvas de Tu munificencia. Verdaderamente, Tú eres el Generoso, el Compasivo, el Glorioso y el Conferidor.
 
 (Source category: Jóvenes)
 (Bahaiprayers.net ID: 11576)
+
+
 
 
 
@@ -1465,6 +1825,8 @@ Verdaderamente, Tú eres el Preciado, el Eterno Donador, el Munífico.
 
 (Source category: Marido)
 (Bahaiprayers.net ID: 11595)
+
+
 
 
 
@@ -1498,12 +1860,16 @@ Y cuando deseó manifestar gracia y beneficencia a los seres humanos y poner el 
 (Bahaiprayers.net ID: 11581)
 
 
+
+
 ### <a id="bpn11582"></a> Prayer bpn11582 in Español
 ¡Oh Señor incomparable! En Tu omnipotente sabiduría has ordenado el matrimonio a los pueblos para que las generaciones se sucedan unas a otras en este mundo contingente y para que siempre, mientras exista el mundo, se ocupen en el Umbral de Tu unicidad en servirte y adorarte, en rendirte homenaje, venerarte y alabarte. «No he creado a los espíritus y a los hombres sino para que me adoren» . Por tanto, desposa en el cielo de Tu misericordia a estas dos aves del nido de Tu amor, y haz de ellas el medio de atraer gracia perpetua; para que de la unión de estos dos mares de amor surja una ola de ternura que vierta en la playa de la vida perlas de pura y hermosa descendencia. «Él ha soltado los dos mares para que se encuentren. Entre ellos hay una barrera que no sobrepasan. Así pues, ¿cuál de los dones de vuestro Señor negaréis? De cada uno Él saca perlas y corales» .
 ¡Oh bondadoso Señor! Haz que este matrimonio produzca corales y perlas. Tú eres, verdaderamente, el Todopoderoso, el Más Grande, Quien siempre perdona.
 
 (Source category: Matrimonio)
 (Bahaiprayers.net ID: 11582)
+
+
 
 
 ### <a id="bpn11583"></a> Prayer bpn11583 in Español
@@ -1514,12 +1880,16 @@ Verdaderamente, Tú eres el Omnipotente, el Omnipresente y el Todopoderoso.
 (Bahaiprayers.net ID: 11583)
 
 
+
+
 ### <a id="AB02596"></a> Prayer AB02596 in Español
 ¡Oh mi Señor, oh mi Señor! Estos dos astros brillantes están desposados en Tu amor, enlazados en la servidumbre ante Tu Sagrado Umbral, unidos en el servicio a Tu Causa. Haz que este matrimonio sea como un haz de luz de Tu abundante gracia, oh mi Señor, el Todomisericordioso, y como rayos luminosos de Tus dádivas, oh Tú, el Benéfico, el Eterno Donador, para que de este gran árbol broten ramas que crezcan verdes y florecientes mediante las dádivas que llueven de Tus nubes de gracia.
 En verdad, Tú eres el Generoso. En verdad, Tú eres el Compasivo, el Todomisericordioso.
 
 (Source category: Matrimonio)
 (Bahaiprayers.net ID: 11584)
+
+
 
 
 
@@ -1532,12 +1902,16 @@ He despertado bajo Tu amparo, oh mi Dios, y corresponde a quien busca ese amparo
 (Bahaiprayers.net ID: 11577)
 
 
+
+
 ### <a id="bpn11578"></a> Prayer bpn11578 in Español
 Me he levantado esta mañana por Tu gracia, oh mi Dios, y he dejado mi hogar confiando plenamente en Ti y entregándome a Tu cuidado. Haz descender, pues, sobre mí, desde el cielo de Tu misericordia, una bendición de Tu parte, y permíteme regresar a salvo a mi hogar, tal como me permitiste salir de él bajo Tu protección, con los pensamientos firmemente orientados hacia Ti. 
 No hay otro Dios más que Tú, el Único, el Incomparable, el Omnisciente, el Sapientísimo.
 
 (Source category: Mañana)
 (Bahaiprayers.net ID: 11578)
+
+
 
 
 ### <a id="bpn11579"></a> Prayer bpn11579 in Español
@@ -1551,6 +1925,8 @@ Tú no decepcionas a nadie que Te haya buscado, ni apartas a quien Te haya desea
 (Bahaiprayers.net ID: 11579)
 
 
+
+
 ### <a id="bpn11580"></a> Prayer bpn11580 in Español
 ¡Oh mi Dios y mi Maestro! Soy Tu siervo y el hijo de Tu siervo. Me he levantado de mi lecho en este amanecer en que el Sol de Tu unicidad ha brillado desde la Aurora de Tu voluntad y ha derramado su resplandor sobre todo el mundo, de acuerdo con lo que ha sido ordenado en los Libros de Tu Decreto.
 Alabado seas, oh mi Dios, por cuanto hemos despertado a los esplendores de la luz de Tu conocimiento. Envíanos pues, oh mi Señor, lo que nos permita prescindir de todos excepto de Ti, y nos libre de todo apego a cualquier cosa que no seas Tú. Decreta, además, para mí, para quienes me son queridos, y para mis parientes, tanto hombres como mujeres, el bien de este mundo y del mundo venidero. Resguárdanos, pues, mediante Tu infalible protección, oh Bienamado de la creación entera y Deseo de todo el universo, de aquellos a quienes has denominado las manifestaciones del Susurrador Maligno, que susurran en el pecho de las gentes. Potente eres Tú para hacer lo que Te place. Tú eres, verdaderamente, el Todopoderoso, Quien ayuda en el peligro, Quien subsiste por Sí mismo.
@@ -1559,6 +1935,8 @@ Tú eres, en verdad, el Señor y Rey de todos los seres, y eres poderoso sobre t
 
 (Source category: Mañana)
 (Bahaiprayers.net ID: 11580)
+
+
 
 
 
@@ -1574,6 +1952,8 @@ No hay Dios fuera de Ti, el Poderoso, el Perdurable, el Munífico, el Más Gener
 (Bahaiprayers.net ID: 11585)
 
 
+
+
 ### <a id="BH09399"></a> Prayer BH09399 in Español
 ¡Gloria sea a Ti, oh mi Dios! Mi rostro se ha dirigido hacia Tu rostro, y mi rostro es, ciertamente, Tu rostro, y mi llamamiento es Tu llamamiento, y mi Revelación, Tu Revelación, y mi ser, Tu Ser, y mi Causa, Tu Causa, y mi mandato, Tu mandato, y mi Existencia, Tu Existencia, y mi soberanía, Tu soberanía, y mi gloria, Tu gloria, y mi poder, Tu poder.
 Yo te imploro, oh Tú Modelador de las naciones y Rey de la eternidad, que resguardes a Tus siervas en el tabernáculo de Tu castidad, y canceles aquellos de sus actos que sean indignos de Tus días. Purifícalas pues, oh mi Dios, de toda duda y ociosa fantasía, y libéralas de todo cuanto no sea propio de su asociación contigo, oh Tú que eres el Señor de los nombres y el Origen de la expresión. Tú eres Aquel en Cuyo poder están las riendas de toda la creación.
@@ -1581,6 +1961,8 @@ No hay Dios sino Tú, el Todopoderoso, el Más Exaltado, el Todoglorioso, Quien 
 
 (Source category: Mujeres)
 (Bahaiprayers.net ID: 11586)
+
+
 
 
 ### <a id="bpn11587"></a> Prayer bpn11587 in Español
@@ -1593,6 +1975,8 @@ Tú eres, en verdad, el Dios de poder, de fortaleza y de gloria.
 (Bahaiprayers.net ID: 11587)
 
 
+
+
 ### <a id="bpn11588"></a> Prayer bpn11588 in Español
 ¡Gloria sea a Ti, oh mi Dios! Una de Tus siervas, que ha creído en Ti y en Tus señales, se ha puesto a la sombra del árbol de Tu unicidad. Dale de beber, oh mi Dios, por Tu Nombre, el Manifiesto y el Oculto, de Tu selecto Vino sellado, para que la aleje de sí misma y haga que esté enteramente consagrada a Tu recuerdo y completamente desprendida de cualquiera que no seas Tú.
 Ya que Tú le has revelado el conocimiento de Ti, oh mi Señor, no le niegues Tu gracia, mediante Tu bondad; y ya que la has llamado hacia Ti, no la alejes de Ti, mediante Tu generosidad. Provéela, pues, con aquello que exceda a todo lo que pueda encontrarse en Tu tierra. Tú eres, verdaderamente, el Munificente, Cuya gracia es ilimitada.
@@ -1603,6 +1987,8 @@ No hay Dios sino Tú, el Dios de poder, el Dios de gloria, el Dios de conocimien
 (Bahaiprayers.net ID: 11588)
 
 
+
+
 ### <a id="BH10231"></a> Prayer BH10231 in Español
 Tú ves, oh mi Dios, cómo los males cometidos por aquellas de Tus criaturas que Te han vuelto la espalda se han interpuesto entre Aquel en Quien Tu Deidad está manifiesta y Tus siervos. Haz descender sobre ellos, oh mi Señor, aquello que haga que se ocupen en sus propios afanes. Haz, pues, que su violencia se limite a ellos mismos, para que la tierra y los que en ella habitan encuentren paz.
 Una de Tus siervas, oh mi Señor, ha buscado Tu rostro y se ha elevado hacia la atmósfera de Tu complacencia. No le niegues, oh mi Señor, las cosas que ordenaste para las elegidas de entre Tus siervas. Permítele, pues, que se sienta tan atraída por Tus palabras que celebre Tu alabanza entre ellas.
@@ -1610,6 +1996,8 @@ Potente eres Tú para hacer lo que Te place. No hay Dios sino Tú, el Todopodero
 
 (Source category: Mujeres)
 (Bahaiprayers.net ID: 11589)
+
+
 
 
 ### <a id="bpn11590"></a> Prayer bpn11590 in Español
@@ -1623,11 +2011,15 @@ En verdad, Tú eres el Rey de todos los seres. No hay Dios sino Tú, Quien siemp
 (Bahaiprayers.net ID: 11590)
 
 
+
+
 ### <a id="bpn11591"></a> Prayer bpn11591 in Español
 ¡Oh mi Señor, mi Amado, mi Deseo! Sé mi amigo en la soledad y acompáñame en mi exilio. Disipa mi tristeza. Haz que me consagre a Tu belleza. Aléjame de todo excepto de Ti. Atráeme con Tus fragancias de santidad. Haz que me asocie en Tu Reino con aquellos que se han desligado de todo salvo de Ti, que anhelan servir en Tu sagrado umbral y están dispuestos a trabajar en Tu Causa. Permíteme que sea una de Tus siervas que han alcanzado Tu complacencia. Verdaderamente, Tú eres el Magnánimo, el Generoso.
 
 (Source category: Mujeres)
 (Bahaiprayers.net ID: 11591)
+
+
 
 
 ### <a id="AB00553"></a> Prayer AB00553 in Español
@@ -1639,12 +2031,16 @@ Verdaderamente, Tú eres el Poderoso, el Eterno Dador, el Capaz, el Omnipotente.
 (Bahaiprayers.net ID: 11592)
 
 
+
+
 ### <a id="bpn11593"></a> Prayer bpn11593 in Español
 ¡Oh Señor! Ayuda a esta hija del Reino a que sea exaltada en ambos mundos; haz que se aleje de este mundo mortal de polvo y de quienes han puesto en él sus corazones, y permítele comulgar con el mundo de la inmortalidad y permanecer estrechamente asociada con él. Concédele poder celestial y fortalécela con los hálitos del Espíritu Santo para que se disponga a servirte. 
 Tú eres el Poderoso.
 
 (Source category: Mujeres)
 (Bahaiprayers.net ID: 11593)
+
+
 
 
 ### <a id="bpn11594"></a> Prayer bpn11594 in Español
@@ -1654,6 +2050,8 @@ Verdaderamente, Tú eres el Generoso. Verdaderamente, Tú eres el Señor de Gran
 
 (Source category: Mujeres)
 (Bahaiprayers.net ID: 11594)
+
+
 
 
 
@@ -1673,6 +2071,8 @@ Verdaderamente, Tú eres el Munífico, el Poderoso, el Omnipotente, el Libre. No
 
 
 
+
+
 ## Naw-Rúz
 
 ### <a id="bpn11693"></a> Prayer bpn11693 in Español
@@ -1687,6 +2087,8 @@ Tú eres, en verdad, el Omnisciente, el Sapientísimo.
 
 
 
+
+
 ## Niños
 
 ### <a id="bpn11596"></a> Prayer bpn11596 in Español
@@ -1695,6 +2097,8 @@ Te imploro, por Tu nombre, el cual permite a todos alcanzar el objeto de su dese
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11596)
+
+
 
 
 ### <a id="BH09855"></a> Prayer BH09855 in Español
@@ -1708,6 +2112,8 @@ No dejes que se encomiende al cuidado de nadie salvo de Ti, puesto que Tú mismo
 (Bahaiprayers.net ID: 11617)
 
 
+
+
 ### <a id="bpn11519"></a> Prayer bpn11519 in Español
 En el Nombre de Tu Señor, el Creador, el Soberano, el Suficiente, el Exaltadísimo, Aquel Cuya ayuda todos imploran.
 Di: ¡Oh mi Dios! ¡Oh Tú que eres el Hacedor de los cielos y de la tierra! ¡Oh Señor del Reino! Tú bien conoces los secretos de mi corazón, mientras que Tu ser es inescrutable para todos, salvo para Ti mismo. Tú ves todo cuanto me pertenece, mientras que nadie más puede hacer esto, salvo Tú. Concédeme, mediante Tu gracia, aquello que me permita prescindir de todo excepto de Ti y destíname aquello que me haga independiente de todos, excepto de Ti. Permíteme cosechar los beneficios de mi vida en este mundo y en el venidero. Ábreme las puertas de Tu gracia, y confiéreme bondadosamente Tu tierna misericordia y Tus dones.
@@ -1718,11 +2124,15 @@ Di: ¡Oh mi Dios! ¡Oh Tú que eres el Hacedor de los cielos y de la tierra! ¡O
 (Bahaiprayers.net ID: 11519)
 
 
+
+
 ### <a id="bpn11597"></a> Prayer bpn11597 in Español
 ¡Oh mi Dios! ¡Oh mi Dios! Tú ves a estos niños, que son los retoños del árbol de la vida, las aves de las praderas de la salvación, las perlas del océano de Tu gracia, las rosas del jardín de Tu guía. ¡Oh Dios, nuestro Señor! Entonamos Tu alabanza, damos testimonio de Tu santidad e imploramos fervientemente al cielo de Tu misericordia que hagas de nosotros luces de guía, estrellas que brillan sobre los horizontes de gloria eterna entre la humanidad, y que nos instruyas en un conocimiento que proviene de Ti. ¡Yá Bahá’u’l-Abhá!
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11597)
+
+
 
 
 ### <a id="bpn11598"></a> Prayer bpn11598 in Español
@@ -1732,11 +2142,15 @@ Di: ¡Oh mi Dios! ¡Oh Tú que eres el Hacedor de los cielos y de la tierra! ¡O
 (Bahaiprayers.net ID: 11598)
 
 
+
+
 ### <a id="bpn11599"></a> Prayer bpn11599 in Español
 ¡Él es Dios! ¡Oh Dios, mi Dios! Concédeme un corazón puro como una perla.
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11599)
+
+
 
 
 ### <a id="bpn11600"></a> Prayer bpn11600 in Español
@@ -1746,11 +2160,15 @@ Di: ¡Oh mi Dios! ¡Oh Tú que eres el Hacedor de los cielos y de la tierra! ¡O
 (Bahaiprayers.net ID: 11600)
 
 
+
+
 ### <a id="bpn11601"></a> Prayer bpn11601 in Español
 ¡Oh Dios! Guíame, protégeme, haz de mí una lámpara brillante y una estrella resplandeciente. Tú eres el Fuerte y el Poderoso.
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11601)
+
+
 
 
 ### <a id="bpn11602"></a> Prayer bpn11602 in Español
@@ -1761,11 +2179,15 @@ Verdaderamente, Tú eres el Fuerte, el Poderoso, Quien ve y Quien oye.
 (Bahaiprayers.net ID: 11602)
 
 
+
+
 ### <a id="bpn11603"></a> Prayer bpn11603 in Español
 ¡Oh Señor incomparable! Sé Tú un refugio para esta pobre criatura y un Maestro bondadoso y clemente para esta alma errante e infeliz. ¡Oh Señor! Aunque no seamos más que plantas sin provecho, pertenecemos a Tu jardín de rosas. Aunque arbolitos sin hojas ni flores, somos parte de Tu huerto. Nutre esta planta, pues, con las lluvias de las nubes de Tu tierna misericordia y vivifica y refresca este arbolito con el hálito reanimador de Tu primavera espiritual. Haz que llegue a ser atento, juicioso y noble, y permite que obtenga vida eterna y habite por siempre en Tu Reino.
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11603)
+
+
 
 
 ### <a id="AB10701"></a> Prayer AB10701 in Español
@@ -1777,12 +2199,16 @@ Tú eres el Poderoso, el Más Amoroso.
 (Bahaiprayers.net ID: 11604)
 
 
+
+
 ### <a id="bpn11605"></a> Prayer bpn11605 in Español
 ¡Oh bondadoso Señor! Estos niños adorables son obra de los dedos de Tu poder y señales maravillosas de Tu grandeza. ¡Oh Dios! Protégelos, ayúdalos bondadosamente a educarse y permite que puedan prestar servicio al mundo de la humanidad. ¡Oh Dios! Estos niños son perlas; haz que se cultiven dentro de la concha de Tu amorosa bondad.
 Tú eres el Munífico, el Más Amoroso.
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11605)
+
+
 
 
 ### <a id="bpn11606"></a> Prayer bpn11606 in Español
@@ -1793,6 +2219,8 @@ Tú eres el Fuerte y el Poderoso.
 (Bahaiprayers.net ID: 11606)
 
 
+
+
 ### <a id="bpn11607"></a> Prayer bpn11607 in Español
 ¡Él es el Más Glorioso!
 ¡Oh mi Señor misericordioso! Este es un jacinto que ha crecido en el jardín de Tu agrado y un retoño que ha aparecido en el vergel del conocimiento verdadero. ¡Oh Señor de munificencia! Haz que sea refrescado continuamente con Tus brisas vivificantes y que reverdezca, lozano y floreciente, mediante las efusiones de las nubes de Tus favores, oh Tú Señor bondadoso.
@@ -1800,6 +2228,8 @@ Verdaderamente, Tú eres el Todoglorioso.
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11607)
+
+
 
 
 ### <a id="bpn11608"></a> Prayer bpn11608 in Español
@@ -1812,6 +2242,8 @@ Tú eres el Otorgador, el Munífico, el Más Amoroso.
 (Bahaiprayers.net ID: 11608)
 
 
+
+
 ### <a id="bpn11609"></a> Prayer bpn11609 in Español
 ¡Él es Dios!
 ¡Oh Dios puro! Permite que estos retoños, que han brotado junto al torrente de Tu guía, se vuelvan verdes y lozanos mediante las efusiones de las nubes de Tu tierna misericordia; haz que se mezan con las suaves brisas que soplan desde las praderas de Tu unicidad, y permite que sean revividos por los rayos del Sol de la Realidad, para que continuamente crezcan y florezcan y se cubran de flores y frutos.
@@ -1820,6 +2252,8 @@ Tú eres el Fuerte y el Poderoso.
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11609)
+
+
 
 
 ### <a id="bpn11610"></a> Prayer bpn11610 in Español
@@ -1831,12 +2265,16 @@ En verdad, Tú eres el Otorgador, el Misericordioso, el Compasivo.
 (Bahaiprayers.net ID: 11610)
 
 
+
+
 ### <a id="bpn11611"></a> Prayer bpn11611 in Español
 ¡Oh Señor de maravillosa gracia!
 Concédenos nuevas bendiciones. Confiérenos el frescor de la primavera. Somos retoños plantados por los dedos de Tu munificencia y hemos sido creados del agua y la arcilla de Tu tierno afecto. Tenemos sed de las aguas vivas de Tus favores y dependemos de las efusiones de las nubes de Tu generosidad. No abandones a su suerte esta arboleda donde se albergan nuestras esperanzas ni la prives de las lluvias de tu bondadoso afecto. Permite que de las nubes de Tu misericordia caiga una lluvia copiosa para que los árboles de nuestra vida den fruto y alcancemos el más caro deseo de nuestro corazón.
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11611)
+
+
 
 
 ### <a id="bpn11612"></a> Prayer bpn11612 in Español
@@ -1848,6 +2286,8 @@ Verdaderamente, Tú eres el Fuerte, el Poderoso.
 (Bahaiprayers.net ID: 11612)
 
 
+
+
 ### <a id="bpn11613"></a> Prayer bpn11613 in Español
 ¡Oh Señor! Protege a los niños que nacen en Tu día, que se nutren del pecho de Tu amor y se crían en el seno de Tu gracia.
 ¡Oh Señor! En verdad, son ramas jóvenes que crecen en los jardines de Tu conocimiento, tallos que brotan en Tus vergeles de gracia. Permite que participen de Tus generosos dones, que prosperen y florezcan bajo la lluvia que cae de las nubes de Tu munificencia. 
@@ -1857,11 +2297,15 @@ Verdaderamente, Tú eres el Fuerte, el Poderoso.
 (Bahaiprayers.net ID: 11613)
 
 
+
+
 ### <a id="bpn11614"></a> Prayer bpn11614 in Español
 ¡Oh Dios Compasivo! ¡Oh Señor de las Huestes! Alabado seas por cuanto has preferido a estos pequeños niños por sobre los mayores y adultos, y les has concedido Tus especiales favores. Tú los has guiado. Tú has sido bondadoso con ellos. Les has conferido iluminación y espiritualidad. Confírmanos de modo que, cuando hayamos crecido, nos ocupemos en el servicio a Tu Reino, nos convirtamos en causa de la educación de otros, ardamos como cirios resplandecientes y reluzcamos como brillantes estrellas. Tú eres el Munificente, el Conferidor, el Compasivo.
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11614)
+
+
 
 
 ### <a id="bpn11615"></a> Prayer bpn11615 in Español
@@ -1875,11 +2319,15 @@ Tú eres el Perdonador, el Resplandeciente, el Amoroso.
 (Bahaiprayers.net ID: 11615)
 
 
+
+
 ### <a id="bpn11616"></a> Prayer bpn11616 in Español
 ¡Oh gloriosísimo Señor! Bendice y haz feliz a esta pequeña sierva Tuya; cuídala tiernamente en el umbral de Tu unicidad y permite que beba en abundancia de la copa de Tu amor, para que se llene de arrobamiento y de éxtasis y difunda delicadas fragancias. Tú eres el Fuerte y el Poderoso, y Tú eres el Omnisciente, Quien todo lo ve.
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11616)
+
+
 
 
 ### <a id="bpn11618"></a> Prayer bpn11618 in Español
@@ -1891,12 +2339,16 @@ Tú eres poderoso y bondadoso, y Tú eres el Otorgador, el Magnánimo, el Señor
 (Bahaiprayers.net ID: 11618)
 
 
+
+
 ### <a id="bpn11619"></a> Prayer bpn11619 in Español
 ##Bebés
 ¡Oh Señor incomparable! Haz que este lactante se nutra del seno de Tu amorosa bondad, resguárdalo en la cuna de Tu seguridad y protección, y permite que se críe en los brazos de Tu tierno cariño.
 
 (Source category: Niños)
 (Bahaiprayers.net ID: 11619)
+
+
 
 
 
@@ -1911,6 +2363,8 @@ No hay Dios sino Tú, el Todopoderoso, Quien todo lo subyuga, el Incondicionado.
 (Bahaiprayers.net ID: 11620)
 
 
+
+
 ### <a id="bpn11621"></a> Prayer bpn11621 in Español
 ¿Cómo puedo querer dormir, oh Dios, mi Dios, cuando los ojos de aquellos que Te anhelan están en vela por su separación de Ti? ¿Y cómo puedo reposar mientras las almas de Tus amantes están desconsoladas por su lejanía de Ti?
 Oh mi Señor, he encomendado mi espíritu y todo mi ser a la diestra de Tu poder y Tu protección, y pongo la cabeza sobre la almohada mediante Tu potestad, y la levanto de acuerdo con Tu voluntad y Tu complacencia. Tú eres, en verdad, el Preservador, el Guardián, el Omnipotente, el Todopoderoso.
@@ -1920,6 +2374,8 @@ Oh mi Señor, he encomendado mi espíritu y todo mi ser a la diestra de Tu poder
 (Bahaiprayers.net ID: 11621)
 
 
+
+
 ### <a id="AB06528MID"></a> Midnight Prayer in Español
 *¡Oh buscador de la Verdad! Si deseas que Dios abra tus ojos, debes suplicarle, orar y comulgar con Él a medianoche diciendo:
 
@@ -1927,6 +2383,8 @@ Oh mi Señor, he encomendado mi espíritu y todo mi ser a la diestra de Tu poder
 
 (Source category: Noche)
 (Bahaiprayers.net ID: 11622)
+
+
 
 
 
@@ -1940,12 +2398,16 @@ Oh mi Señor, he encomendado mi espíritu y todo mi ser a la diestra de Tu poder
 (Bahaiprayers.net ID: 11623)
 
 
+
+
 ### <a id="bpn11624"></a> Prayer bpn11624 in Español
 ¡En el Nombre de nuestro Señor, el Más Santo, el Más Grande, el Excelso, el Más Glorioso!
 ¡Oh Dios, mi Dios! Tú ves cómo Tu siervo ha vuelto el rostro hacia Ti deseando tener el honor de realizar aquello que se le ha ordenado en Tu Libro. Decreta para él, mediante Tu Exaltadísima Pluma, aquello que le haga acercarse a la Cumbre Más Sublime. Tú eres, verdaderamente, el Educador del mundo y el Señor de las naciones, y Tú eres, en verdad, el Potente, Quien todo lo subyuga, el Todopoderoso.
 
 (Source category: Obediencia)
 (Bahaiprayers.net ID: 11624)
+
+
 
 
 
@@ -1964,6 +2426,8 @@ No hay otro Dios sino Tú, Quien ayuda en el peligro, Quien subsiste por Sí mis
 
 (Source category: Oración obligatoria corta)
 (Bahaiprayers.net ID: 11453)
+
+
 
 
 
@@ -2038,6 +2502,8 @@ Atestiguo, oh mi Dios, lo que han atestiguado Tus Elegidos, y reconozco lo que h
 
 
 
+
+
 ## Oración obligatoria mediana
 
 ### <a id="bpn11454"></a> Prayer bpn11454 in Español
@@ -2074,6 +2540,8 @@ Doy testimonio de Tu unidad y Tu unicidad, y de que Tú eres Dios y no hay otro 
 
 
 
+
+
 ## Perdón
 
 ### <a id="bpn11625"></a> Prayer bpn11625 in Español
@@ -2084,12 +2552,16 @@ Bahá’u’lláh
 (Bahaiprayers.net ID: 11625)
 
 
+
+
 ### <a id="BH08600FAC"></a> Prayer BH08600FAC in Español
 Soy aquel, oh mi Señor, que ha vuelto el rostro hacia Ti y ha fijado su esperanza en las maravillas de Tu gracia y en las revelaciones de Tu munificencia. Te ruego que no permitas que me aleje desilusionado de la puerta de Tu misericordia, ni me dejes a merced de aquellas criaturas Tuyas que han repudiado Tu Causa.
 ¡Oh mi Dios! Soy Tu siervo y el hijo de Tu siervo. He reconocido Tu verdad en Tus días y he dirigido los pasos hacia las orillas de Tu unicidad, confesando Tu singularidad, reconociendo Tu unidad y esperando Tu indulgencia y perdón. Poderoso eres Tú para hacer lo que deseas. No hay Dios más que Tú, el Todoglorioso, Quien siempre perdona.
 
 (Source category: Perdón)
 (Bahaiprayers.net ID: 11626)
+
+
 
 
 ### <a id="bpn11627"></a> Prayer bpn11627 in Español
@@ -2101,11 +2573,15 @@ Perdona, pues, oh mi Señor, a Tus siervos y a Tus siervas. Tú eres, en verdad,
 (Bahaiprayers.net ID: 11627)
 
 
+
+
 ### <a id="bpn11628"></a> Prayer bpn11628 in Español
 ¡Alabado seas, oh Señor! Perdona nuestros pecados, ten misericordia de nosotros y permítenos volver a Ti. Haz que confiemos solamente en Ti y concédenos, por Tu munificencia, aquello que amas y deseas, y que es digno de Ti. Exalta la posición de los que verdaderamente han creído, y absuélvelos con Tu bondadoso perdón. Verdaderamente, Tú eres Quien ayuda en el peligro, Quien subsiste por Sí mismo.
 
 (Source category: Perdón)
 (Bahaiprayers.net ID: 11628)
+
+
 
 
 ### <a id="bpn11629"></a> Prayer bpn11629 in Español
@@ -2118,6 +2594,8 @@ Tú eres el Gobernante Supremo, el Poderoso Hacedor, el Exaltado, Quien todo lo 
 (Bahaiprayers.net ID: 11629)
 
 
+
+
 ### <a id="bpn11630"></a> Prayer bpn11630 in Español
 Gloria sea a Ti, oh Dios. ¿Cómo puedo hacer mención de Ti, en tanto que Tú estás por encima de la alabanza de toda la humanidad? ¡Magnificado sea Tu Nombre, oh Dios! Tú eres el Rey, la Verdad Eterna. Tú sabes lo que hay en los cielos y en la tierra, y a Ti todos han de volver. Tú has enviado Tu Revelación divinamente ordenada, conforme a una clara medida. ¡Alabado eres, oh Señor! Mediante Tu decreto, Tú haces victorioso a quien Te place con las huestes del cielo y de la tierra y de todo cuanto hay entre ellos. Tú eres el Soberano, la Verdad Eterna, el Señor de invencible poder.
 Glorificado eres, oh Señor. Tú perdonas en todo momento los pecados de aquellos de entre Tus siervos que imploran Tu perdón. Absuelve mis pecados y los pecados de aquellos que piden Tu perdón al amanecer, quienes Te rezan de día y de noche, quienes no tienen otro anhelo sino Dios, quienes ofrendan todo cuanto Dios les ha otorgado bondadosamente, quienes celebran Tu alabanza por la mañana y al atardecer, y no faltan a sus deberes.
@@ -2126,11 +2604,15 @@ Glorificado eres, oh Señor. Tú perdonas en todo momento los pecados de aquello
 (Bahaiprayers.net ID: 11630)
 
 
+
+
 ### <a id="bpn11631"></a> Prayer bpn11631 in Español
 Te ruego, oh mi Señor, que me perdones por toda mención que no sea la mención de Ti, y por toda alabanza que no sea Tu alabanza, y por todo deleite salvo el deleite en Tu cercanía, y por todo placer que no sea el placer de la comunión contigo, y por toda alegría excepto la alegría de Tu amor y de Tu complacencia, y por todas las cosas que a mí me pertenecen y que no guardan relación contigo, oh Tú que eres el Señor de los señores, Quien provee los medios y abre las puertas.
 
 (Source category: Perdón)
 (Bahaiprayers.net ID: 11631)
+
+
 
 
 ### <a id="bpn11632"></a> Prayer bpn11632 in Español
@@ -2141,11 +2623,15 @@ Soy consciente, oh Señor, de que mis transgresiones me han cubierto el rostro d
 (Bahaiprayers.net ID: 11632)
 
 
+
+
 ### <a id="ABU0030SHE"></a> Prayer ABU0030SHE in Español
 ¡Oh Señor perdonador! Tú eres el refugio de todos estos siervos Tuyos. Tú conoces los secretos y estás informado de todas las cosas. Todos somos débiles y Tú eres el Fuerte, el Omnipotente. Todos somos pecadores y Tú eres el Perdonador de los pecados, el Misericordioso, el Compasivo. ¡Oh Señor! No consideres nuestras faltas. Trátanos de acuerdo con Tu gracia y generosidad. Nuestras faltas son muchas, pero el océano de Tu perdón es ilimitado. Nuestra debilidad es muy grande, pero las pruebas de Tu ayuda y auxilio son evidentes. Así pues, confírmanos y fortalécenos. Permítenos hacer lo que sea digno de Tu Sagrado Umbral. Ilumina los corazones, otórganos ojos perceptivos y oídos atentos. Resucita a los muertos y sana a los enfermos. Confiere abundancia a los pobres, y paz y seguridad a los temerosos. Acéptanos en Tu reino e ilumínanos con la luz de la guía. Tú eres el Poderoso y el Om-nipotente. Tú eres el Generoso. Tú eres el Clemente. Tú eres el Bondadoso.
 
 (Source category: Perdón)
 (Bahaiprayers.net ID: 11633)
+
+
 
 
 
@@ -2160,12 +2646,16 @@ Tú eres, en verdad, el Todopoderoso, el Exaltadísimo, Quien siempre perdona, e
 (Bahaiprayers.net ID: 11634)
 
 
+
+
 ### <a id="bpn11635"></a> Prayer bpn11635 in Español
 ¡Alabado seas, oh Señor mi Dios! Este es Tu siervo, que ha bebido de las manos de Tu gracia el vino de Tu tierna merced, y ha conocido el sabor de Tu amor en Tus días. Te imploro, por las encarnaciones de Tus nombres, a quienes ninguna aflicción puede impedir que se regocijen en Tu amor o que contemplen Tu rostro, y a quienes todas las huestes de los negligentes son incapaces de apartarlos del sendero de Tu agrado, que otorgues a Tu siervo las cosas buenas que Tú posees, y lo eleves a tales alturas que considere el mundo como una sombra que se desvanece más rápido que un abrir y cerrar de ojos.
 Protégelo también, oh mi Dios, mediante el poder de Tu inmensurable majestad, de todo lo que Tú detestas. Tú eres, verdaderamente, su Señor y el Señor de todos los mundos.
 
 (Source category: Protección)
 (Bahaiprayers.net ID: 11635)
+
+
 
 
 ### <a id="bpn11636"></a> Prayer bpn11636 in Español
@@ -2179,11 +2669,15 @@ Tú eres, verdaderamente, el Todoglorioso, el Más Generoso.
 (Bahaiprayers.net ID: 11636)
 
 
+
+
 ### <a id="bpn11637"></a> Prayer bpn11637 in Español
 ¡Oh Dios, mi Dios! He salido de mi hogar aferrándome fuertemente a la cuerda de Tu amor, y me he encomendado enteramente a Tu cuidado y protección. Te imploro, por Tu poder, por medio del cual protegiste a Tus amados del descarriado y del perverso, de todo opresor contumaz y de todo malhechor que se ha apartado lejos de Ti, que me protejas mediante Tu munificencia y Tu gracia. Permíteme, pues, regresar a mi hogar por Tu fuerza y Tu poder. Tú eres, en verdad, el Todopoderoso, Quien ayuda en el peligro, Quien subsiste por Sí mismo.
 
 (Source category: Protección)
 (Bahaiprayers.net ID: 11637)
+
+
 
 
 ### <a id="BH05801"></a> Prayer BH05801 in Español
@@ -2195,6 +2689,8 @@ Tú eres, verdaderamente, el Todoglorioso, el Más Generoso.
 (Bahaiprayers.net ID: 11638)
 
 
+
+
 ### <a id="bpn11639"></a> Prayer bpn11639 in Español
 ¡Alabado sea Tu Nombre, oh Señor mi Dios! Soy Tu siervo que se ha asido a la cuerda de Tus tiernas mercedes y se ha aferrado al borde del manto de Tu munificencia. Te suplico, por Tu Nombre, mediante el cual has sometido a todas las cosas creadas, visibles e invisibles, y por el cual se ha difundido por toda la creación el hálito que es, en verdad, la vida, que me fortalezcas con Tu poder, que ha envuelto los cielos y la tierra, y me protejas de toda enfermedad y tribulación. Atestiguo que Tú eres el Señor de todos los nombres y Quien ordena todo lo que Le place. No hay otro Dios sino Tú, el Todopoderoso, el Omnisciente, el Sapientísimo.
 Ordena para mí, oh mi Señor, lo que me beneficie en cada mundo de Tus mundos. Provéeme, pues, con lo que has decretado para los elegidos de entre Tus criaturas, a quienes ni la denuncia del acusador, ni el clamor del infiel, ni el distanciamiento de aquellos que se han alejado de Ti les ha impedido volverse hacia Ti.
@@ -2202,6 +2698,8 @@ Tú, verdaderamente, eres Quien ayuda en el peligro mediante el poder de Tu sobe
 
 (Source category: Protección)
 (Bahaiprayers.net ID: 11639)
+
+
 
 
 ### <a id="bpn11640"></a> Prayer bpn11640 in Español
@@ -2212,12 +2710,16 @@ Tú, verdaderamente, eres Quien ayuda en el peligro mediante el poder de Tu sobe
 (Bahaiprayers.net ID: 11640)
 
 
+
+
 ### <a id="bpn11641"></a> Prayer bpn11641 in Español
 ¡Gloria sea a Ti, oh Señor! Tú eres el Dios que ha existido antes de todas las cosas, Quien existirá después de todas las cosas y perdurará más allá de todas las cosas. Tú eres el Dios que conoce todas las cosas y predomina sobre todas las cosas. Tú eres el Dios que trata con misericordia a todas las cosas, Quien juzga entre todas las cosas y Cuya visión abarca a todas las cosas. Tú eres Dios mi Señor, Tú eres consciente de mi posición, Tú presencias mi ser interior y exterior.
 Concédenos Tu perdón, a mí y a todos los creyentes que respondieron a Tu Llamamiento. Sé mi socorro suficiente contra las maldades de quien quiera causarme dolor o me desee algún mal. Verdaderamente, Tú eres el Señor de todas las cosas creadas. Tú eres suficiente para todos, mientras que nadie puede ser autosuficiente sin Ti.
 
 (Source category: Protección)
 (Bahaiprayers.net ID: 11641)
+
+
 
 
 ### <a id="bpn11642"></a> Prayer bpn11642 in Español
@@ -2230,6 +2732,8 @@ Di: Dios me es suficiente. Él es Quien sostiene en Su puño el reino de todas l
 (Bahaiprayers.net ID: 11642)
 
 
+
+
 ### <a id="bpn11643"></a> Prayer bpn11643 in Español
 Decreta para mí, oh mi Señor, y para aquellos que creen en Ti lo que a Tu juicio sea mejor para nosotros, tal como está establecido en el Libro Madre, pues en el dominio de Tu mano se encuentran las medidas fijadas para todas las cosas.
 Tus excelentes dádivas llueven sin cesar sobre aquellos que abrigan Tu amor, y las maravillosas muestras de Tus dones celestiales son ampliamente conferidas a quienes reconocen Tu divina Unidad. A Tu cuidado confiamos todo cuanto has destinado para nosotros, y Te imploramos nos concedas todo el bien que Tu conocimiento abarque.
@@ -2240,11 +2744,15 @@ No hay poder ni fortaleza salvo en Dios, el Exaltadísimo, el Más Poderoso.
 (Bahaiprayers.net ID: 11643)
 
 
+
+
 ### <a id="AB00001SHI"></a> Prayer AB00001SHI in Español
 ¡Oh Dios, mi Dios! Escuda a Tus siervos leales contra los males del egoísmo y la pasión; protégelos con la mirada vigilante de Tu amorosa bondad de todo rencor, odio y envidia; ampáralos dentro de la fortaleza inexpugnable de Tu cuidado y, libres de los dardos de la duda, hazlos las manifestaciones de Tus gloriosas señales; ilumina sus rostros con los refulgentes rayos emanados de la Aurora de Tu divina unidad; alegra sus corazones con los versículos revelados desde Tu reino de santidad; y fortalece sus espaldas con Tu poder irresistible proveniente de Tu dominio de gloria. Tú eres el Todogeneroso, el Protector, el Todopoderoso, el Magnánimo.
 
 (Source category: Protección)
 (Bahaiprayers.net ID: 11644)
+
+
 
 
 ### <a id="bpn11645"></a> Prayer bpn11645 in Español
@@ -2254,6 +2762,8 @@ No hay poder ni fortaleza salvo en Dios, el Exaltadísimo, el Más Poderoso.
 
 (Source category: Protección)
 (Bahaiprayers.net ID: 11645)
+
+
 
 
 ### <a id="bpn11646"></a> Prayer bpn11646 in Español
@@ -2270,6 +2780,8 @@ Los tiranos están al acecho como lobos, y el rebaño, agraviado e inocente, no 
 (Bahaiprayers.net ID: 11646)
 
 
+
+
 ### <a id="bpn11647"></a> Prayer bpn11647 in Español
 ¡Él es el Compasivo, el Todogeneroso!
 ¡Oh Dios, mi Dios! Tú me ves, Tú me conoces, Tú eres mi Asilo y mi Refugio. A nadie he buscado ni a nadie buscaré salvo a Ti; ningún camino he hollado ni camino alguno hollaré sino el camino de Tu amor. En la lúgubre noche de la desesperación, mi mirada expectante y llena de esperanza se vuelve hacia la aurora de Tu ilimitado favor, y a la hora del amanecer mi alma lánguida se reanima y fortalece con el recuerdo de Tu belleza y perfección. Quien sea asistido por la gracia de Tu misericordia, aunque no sea más que una gota, se convertirá en un océano sin límites, y el átomo más insignificante que sea ayudado por la efusión de Tu cariñosa bondad brillará como una estrella resplandeciente.
@@ -2277,6 +2789,8 @@ Los tiranos están al acecho como lobos, y el rebaño, agraviado e inocente, no 
 
 (Source category: Protección)
 (Bahaiprayers.net ID: 11647)
+
+
 
 
 
@@ -2290,6 +2804,8 @@ Haz, por tanto, que me vuelva completamente hacia Ti, que ponga en Ti toda mi co
 (Bahaiprayers.net ID: 11648)
 
 
+
+
 ### <a id="bpn11650"></a> Prayer bpn11650 in Español
 ¡Glorificado eres, oh Señor, mi Dios! Toda persona de discernimiento confiesa Tu soberanía y Tu do-minio, y todo ojo perspicaz percibe la grandeza de Tu majestad y la fuerza irresistible de Tu poder. Los vientos de las pruebas son incapaces de impedir que quienes gozan de Tu cercanía vuelvan el rostro hacia el horizonte de Tu gloria, y las tempestades de las tribulaciones no podrán alejar a quienes están totalmente consagrados a Tu voluntad ni evitar que se acerquen a Tu corte.
 Pareciera que la lámpara de Tu amor ardiera en sus corazones, y que la luz de Tu ternura estuviera encendida en sus pechos. Las adversidades son incapaces de alejarlos de Tu Causa y las vicisitudes de la suerte jamás podrán desviarlos de Tu voluntad.
@@ -2299,11 +2815,15 @@ Te imploro, oh mi Dios, por ellos y por los suspiros que exhalan sus corazones e
 (Bahaiprayers.net ID: 11650)
 
 
+
+
 ### <a id="bpn11651"></a> Prayer bpn11651 in Español
 ¡Oh Tú, Cuyas pruebas son un remedio curativo para quienes están cerca de Ti, Cuya espada es el deseo ardiente de todos los que Te aman, Cuyo dardo es el más caro deseo de los corazones que Te anhelan, Cuyo decreto es la única esperanza de quienes han reconocido Tu verdad! Te imploro, por Tu divina dulzura y por los resplandores de la gloria de Tu rostro, que nos envíes, desde Tus aposentos de lo alto, aquello que nos haga acercarnos a Ti. Afianza, pues, nuestros pies en Tu Causa, oh mi Dios, ilumina nuestros corazones con el fulgor de Tu conocimiento y alumbra nuestros pechos con el brillo de Tus nombres.
 
 (Source category: Pruebas y Tribulaciones)
 (Bahaiprayers.net ID: 11651)
+
+
 
 
 ### <a id="bpn11652"></a> Prayer bpn11652 in Español
@@ -2313,6 +2833,8 @@ Y, finalmente, Te pido, por la luz de Tu semblante, que bendigas mis asuntos, re
 
 (Source category: Pruebas y Tribulaciones)
 (Bahaiprayers.net ID: 11652)
+
+
 
 
 ### <a id="bpn11653"></a> Prayer bpn11653 in Español
@@ -2327,11 +2849,15 @@ Tú eres, verdaderamente, el Todopoderoso, el Perdonador, el Compasivo.
 (Bahaiprayers.net ID: 11653)
 
 
+
+
 ### <a id="bpn11658"></a> Prayer bpn11658 in Español
 ¡Puro y santificado eres, oh mi Dios! Cómo ha de correr la pluma y fluir la tinta después de que han cesado las brisas del tierno afecto y han desaparecido las señales de la munificencia, cuando se ha levantado el sol de la humillación y se han desenvainado las espadas de la calamidad, cuando se han elevado los cielos del dolor, y las nubes del poder han descargado los dardos de la aflicción y las lanzas de la venganza, de tal manera que las señales de la alegría han abandonado todos los corazones, las muestras de regocijo se han borrado de todos los horizontes, se han cerrado las puertas de la esperanza, la misericordia de la brisa celestial ha dejado de soplar sobre el rosedal de la fidelidad, y el torbellino de la extinción ha sacudido el árbol de la existencia. La pluma gime, la tinta deplora su condición y la tabla está sobrecogida ante este clamor. La mente está agitada por el sabor de esta pena y este dolor, y el divino Ruiseñor clama: «¡Ay! ¡Ay por todo lo que se ha hecho que aparezca!». Y esto, oh mi Dios, no proviene sino de Tus dádivas ocultas.
 
 (Source category: Pruebas y Tribulaciones)
 (Bahaiprayers.net ID: 11658)
+
+
 
 
 ### <a id="BH02524"></a> Prayer BH02524 in Español
@@ -2344,6 +2870,8 @@ Potente eres Tú para hacer lo que Te place. No hay Dios sino Tú, Quien ayuda e
 (Bahaiprayers.net ID: 11649)
 
 
+
+
 ### <a id="bpn11654"></a> Prayer bpn11654 in Español
 ¡Oh Señor! Tú eres Quien disipa todas las angustias y elimina todas las aflicciones. Tú eres Quien aleja cualquier pena y libera a todo esclavo, el Redentor de toda alma. ¡Oh Señor! Redímeme por Tu misericordia y cuéntame entre aquellos siervos Tuyos que han logrado la salvación.
 
@@ -2351,11 +2879,15 @@ Potente eres Tú para hacer lo que Te place. No hay Dios sino Tú, Quien ayuda e
 (Bahaiprayers.net ID: 11654)
 
 
+
+
 ### <a id="bpn11655"></a> Prayer bpn11655 in Español
 ¡Te imploro por Tu poder, oh mi Dios! No dejes que me asedie ningún daño a la hora de las pruebas y, en momentos de negligencia, guía mis pasos rectamente mediante Tu inspiración. Tú eres Dios; potente eres Tú para hacer lo que deseas. Nadie puede resistir Tu voluntad ni frustrar Tu propósito.
 
 (Source category: Pruebas y Tribulaciones)
 (Bahaiprayers.net ID: 11655)
+
+
 
 
 ### <a id="bpn11657"></a> Prayer bpn11657 in Español
@@ -2367,12 +2899,16 @@ Inmensamente por encima de toda alabanza estás Tú, oh Señor de los cielos y d
 (Bahaiprayers.net ID: 11657)
 
 
+
+
 ### <a id="bpn11656"></a> Prayer bpn11656 in Español
 ¿Hay quien nos libre de las dificultades salvo Dios?
 Di: ¡Bendito sea Dios! ¡Él es Dios! ¡Todos son Sus siervos y todos se atienen a Su mandato!
 
 (Source category: Pruebas y Tribulaciones)
 (Bahaiprayers.net ID: 11656)
+
+
 
 
 
@@ -2386,6 +2922,8 @@ Di: ¡Bendito sea Dios! ¡Él es Dios! ¡Todos son Sus siervos y todos se atiene
 (Bahaiprayers.net ID: 11659)
 
 
+
+
 ### <a id="ABU0070GAT"></a> Prayer ABU0070GAT in Español
 ¡Oh bondadoso Señor! Estos son Tus siervos que han concurrido a esta reunión, se han vuelto hacia Tu reino y necesitan Tus dádivas y bendiciones. ¡Oh Dios! Manifiesta y haz evidentes las señales de Tu unicidad que han sido depositadas en todas las realidades de la vida. Revela y despliega las virtudes que has dejado latentes y ocultas en estas realidades humanas.
 ¡Oh Dios! Nosotros somos como plantas y Tu generosidad es como la lluvia; refresca y haz crecer estas plantas mediante Tu favor. Somos Tus siervos; líbranos de las cadenas de la existencia física. Somos ignorantes; haznos sabios. Estamos muertos; vivifícanos. Somos de materia; dótanos de espíritu. Estamos excluidos; haznos los confidentes de Tus misterios. Estamos necesitados; enriquécenos y bendícenos con Tu tesoro ilimitado. ¡Oh Dios! Resucítanos; danos vista; danos oído; familiarízanos con los misterios de la vida, para que los secretos de Tu reino nos sean revelados en este mundo de la existencia y podamos confesar Tu unicidad. Toda dádiva emana de Ti; toda bendición es Tuya.
@@ -2393,6 +2931,8 @@ Tú eres fuerte. Tú eres poderoso. Tú eres el Donador y Tú eres el Siempre Mu
 
 (Source category: Reuniones)
 (Bahaiprayers.net ID: 11660)
+
+
 
 
 ### <a id="bpn11661"></a> Prayer bpn11661 in Español
@@ -2403,6 +2943,8 @@ Tú eres fuerte. Tú eres poderoso. Tú eres el Donador y Tú eres el Siempre Mu
 
 (Source category: Reuniones)
 (Bahaiprayers.net ID: 11661)
+
+
 
 
 ### <a id="bpn11662"></a> Prayer bpn11662 in Español
@@ -2416,6 +2958,8 @@ Tú eres el Poderoso, el Omnipotente, el Misericordioso, y Tú eres el Generoso,
 (Bahaiprayers.net ID: 11662)
 
 
+
+
 ### <a id="bpn11663"></a> Prayer bpn11663 in Español
 ¡Oh Proveedor amoroso! Estas almas han prestado oído al llamamiento del Reino y han contemplado la gloria del Sol de la Verdad. Se han elevado hacia los reconfortantes cielos del amor; están enamorados de Tu esencia y adoran Tu belleza.
 Se han vuelto hacia Ti, hablando entre sí de Ti, en pos de Tu morada, y sedientos de los arroyos de Tu dominio celestial.
@@ -2425,11 +2969,15 @@ Tú eres el Donador, el Otorgador, el Siempre Amoroso.
 (Bahaiprayers.net ID: 11663)
 
 
+
+
 ### <a id="bpn11664"></a> Prayer bpn11664 in Español
 ¡Oh Dios! ¡Disipa todo lo que sea causa de discordia y provéenos de todo aquello que sea causa de unidad y acuerdo! ¡Oh Dios! ¡Haz que descienda sobre nosotros la Fragancia Celestial, y transforma esta reunión en una reunión del Cielo! Concédenos todo bien y todo sustento. ¡Prepáranos el manjar del Amor! ¡Danos el alimento del Conocimiento! ¡Otórganos el pan de la Iluminación celestial!
 
 (Source category: Reuniones)
 (Bahaiprayers.net ID: 11664)
+
+
 
 
 
@@ -2461,6 +3009,8 @@ Verdaderamente, Él es el Misericordioso, el Compasivo. ¡Alabado sea Dios, el S
 
 
 
+
+
 ## Tabla de Visitación
 
 ### <a id="bpn11697"></a> Prayer bpn11697 in Español
@@ -2476,6 +3026,8 @@ Bendice, oh Señor, mi Dios, el divino Árbol del Loto, y sus hojas, y sus vást
 
 (Source category: Tabla de Visitación)
 (Bahaiprayers.net ID: 11697)
+
+
 
 
 ### <a id="bpn11698"></a> Prayer bpn11698 in Español
@@ -2494,6 +3046,8 @@ Con esta oración Tu siervo Te llama al amanecer y durante la noche. Cumple el d
 
 (Source category: Tabla de Visitación)
 (Bahaiprayers.net ID: 11698)
+
+
 
 
 
@@ -2554,6 +3108,8 @@ Si todos los siervos leen y meditan sobre esto, se les encenderá en las venas u
 
 (Source category: Tabla del Fuego)
 (Bahaiprayers.net ID: 11695)
+
+
 
 
 
@@ -2687,6 +3243,8 @@ Y, al contemplar su estado y comprender una palabra del relato contado por el Jo
 
 
 
+
+
 ## Triunfo de la Causa
 
 ### <a id="bpn11665"></a> Prayer bpn11665 in Español
@@ -2699,12 +3257,16 @@ Potente eres Tú para hacer lo que desees. No hay Dios sino Tú, el Omnisciente,
 (Bahaiprayers.net ID: 11665)
 
 
+
+
 ### <a id="BH11278RIV"></a> Prayer BH11278RIV in Español
 ¡Gloria sea a Ti, oh Señor mi Dios! Haz manifiestos los torrentes de Tu poder soberano para que las aguas de Tu Unidad fluyan a través de las realidades íntimas de todas las cosas, de tal modo que el estandarte de Tu infalible guía se alce en el reino de Tu mandato, y las estrellas de Tu divino esplendor brillen intensamente en el cielo de Tu majestad.
 Potente eres Tú para hacer lo que Te place. Tú eres, en verdad, Quien ayuda en el peligro, Quien subsiste por Sí mismo.
 
 (Source category: Triunfo de la Causa)
 (Bahaiprayers.net ID: 11666)
+
+
 
 
 ### <a id="bpn11667"></a> Prayer bpn11667 in Español
@@ -2716,6 +3278,8 @@ Verdaderamente, Tú eres el Todopoderoso, Quien siempre perdona, el Más Generos
 (Bahaiprayers.net ID: 11667)
 
 
+
+
 ### <a id="BB00543VIC"></a> Prayer BB00543VIC in Español
 ¡Oh Señor! Haz victoriosos en Tus días a Tus sufridos siervos y concédeles un merecido triunfo, por cuanto han anhelado el martirio en Tu camino. Haz descender sobre ellos lo que alivie su mente, alegre su ser interior, dé seguridad a sus corazones y tranquilidad a sus cuerpos, y permita que sus almas asciendan a la presencia de Dios, el Exaltadísimo, y alcancen el supremo Paraíso y los retiros de gloria que Tú has destinado para las personas de virtud y verdadero conocimiento. En verdad, Tú sabes todas las cosas, mientras que nosotros no somos más que Tus siervos, Tus cautivos, Tus vasallos y Tus necesitados. A ningún otro Señor invocamos salvo a Ti, oh Dios, nuestro Señor, ni imploramos bendiciones o gracia a nadie fuera de Ti, oh Tú que eres el Dios de misericordia para este mundo y el venidero. No somos más que encarnaciones de la pobreza, de la nada, de la impotencia y la perdición, mientras que todo Tu Ser es indicio de riqueza, independencia, gloria, majestad y gracia ilimitada.
 ¡Oh Señor! Convierte nuestra recompensa en aquello que sea digno de Ti de entre todo el bien de este mundo y del venidero, y de las múltiples dádivas que abarcan desde lo alto hasta la tierra.
@@ -2723,6 +3287,8 @@ Verdaderamente, Tú eres nuestro Señor y el Señor de todas las cosas. A Ti nos
 
 (Source category: Triunfo de la Causa)
 (Bahaiprayers.net ID: 11668)
+
+
 
 
 ### <a id="bpn11669"></a> Prayer bpn11669 in Español
@@ -2733,12 +3299,16 @@ Grande es la bienaventuranza de aquellos cuya sangre has escogido para regar el 
 (Bahaiprayers.net ID: 11669)
 
 
+
+
 ### <a id="bpn11670"></a> Prayer bpn11670 in Español
 ¡Oh Señor! Permite que todos los pueblos de la tierra sean admitidos en el Paraíso de Tu Fe para que ningún ser creado quede fuera de los límites de Tu complacencia.
 Desde tiempo inmemorial, Tú has sido potente para hacer Tu voluntad, y libre de hacer cuanto deseas.
 
 (Source category: Triunfo de la Causa)
 (Bahaiprayers.net ID: 11670)
+
+
 
 
 ### <a id="BB00004REN"></a> Prayer BB00004REN in Español
@@ -2751,6 +3321,8 @@ Tú eres su Señor, el Señor de los cielos y de la tierra, el Señor de todos l
 (Bahaiprayers.net ID: 11671)
 
 
+
+
 ### <a id="bpn11672"></a> Prayer bpn11672 in Español
 ¡Él es Dios!
 ¡Oh Señor, mi Dios, mi Bienamado! Estos son siervos Tuyos que han percibido Tu Voz, han escuchado Tu Palabra y han prestado oído a Tu Llamado. Han creído en Ti, han presenciado Tus maravillas, han re-conocido Tu prueba y han atestiguado Tu evidencia. Han caminado por Tus senderos, han seguido Tu guía, han descubierto Tus misterios, han comprendido los secretos de Tu Libro, los versículos de Tus Pergaminos y las buenas nuevas de Tus Epístolas y Tablas. Se han aferrado al borde de Tu vestidura y se han asido fuertemente del manto de Tu luz y Tu grandeza. Sus pasos se han afianzado en Tu Alianza y sus corazones se han consolidado en Tu Testamento. ¡Señor! Enciende en su corazón la llama de Tu divina atracción y haz que cante en su pecho el ave del amor y la comprensión. Permite que sean como señales poderosas, enseñas radiantes, y perfectos como Tu Palabra. Exalta Tu Causa por medio de ellos, despliega Tus estandartes y difunde Tus maravillas por doquier. Haz triunfante Tu Palabra mediante ellos, y fortalece las espaldas de Tus amados. Desata sus lenguas para que alaben Tu Nombre, e inspíralos para que obren de acuerdo con Tu santa voluntad y complacencia. Ilumina sus rostros en Tu Reino de santidad, e intensifica su alegría ayudándolos a levantarse para el triunfo de Tu Causa.
@@ -2759,6 +3331,8 @@ La gloria de las glorias sea con aquellos que son fieles y firmes.
 
 (Source category: Triunfo de la Causa)
 (Bahaiprayers.net ID: 11672)
+
+
 
 
 ### <a id="bpn11673"></a> Prayer bpn11673 in Español
@@ -2771,6 +3345,8 @@ Verdaderamente, Tú eres el Donador, el Perdonador, el Eterno Conferidor. Verdad
 
 
 
+
+
 ## Unidad
 
 ### <a id="bpn11674"></a> Prayer bpn11674 in Español
@@ -2778,6 +3354,8 @@ Verdaderamente, Tú eres el Donador, el Perdonador, el Eterno Conferidor. Verdad
 
 (Source category: Unidad)
 (Bahaiprayers.net ID: 11674)
+
+
 
 
 
@@ -2794,6 +3372,8 @@ Magnificado seas Tú, oh Señor de la creación entera, Aquel a Quien han de vol
 (Bahaiprayers.net ID: 11690)
 
 
+
+
 ### <a id="bpn11691"></a> Prayer bpn11691 in Español
 ¡Glorificado seas, oh mi Señor compasivo! Te suplico, por el agitado océano de Tu santa expresión, y por las múltiples muestras de Tu suprema soberanía, y por las convincentes pruebas de Tu Divinidad, y por los misterios ocultos que se esconden en Tu conocimiento, que me concedas Tu gracia para servirte a Ti y a Tus escogidos y me permitas ofrecer obedientemente Tu Ḥuqúq, el cual has prescrito en Tu Libro.
 Soy aquel, oh mi Señor, que ha puesto sus afectos en Tu dominio de gloria, y se ha asido tenazmente de la orla de Tu generosidad. ¡Oh Tú que eres el Señor de todos los seres y el Gobernante del reino de los nombres! Te suplico que no me niegues las cosas que Tú posees ni me prives de lo que Tú has ordenado para Tus escogidos.
@@ -2801,6 +3381,9 @@ Te imploro, oh Señor de todos los nombres y Creador de los cielos, que me ayude
 
 (Source category: Ḥuqúqu’lláh)
 (Bahaiprayers.net ID: 11691)
+
+
+
 
 
 

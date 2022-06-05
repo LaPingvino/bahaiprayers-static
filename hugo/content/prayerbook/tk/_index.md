@@ -3,6 +3,94 @@ title = "Türkmençe"
 tags = ['lang=tk', 'prayerbook']
 +++
 
+
+
+[Ahmet Ýazgysy](#Ahmet Ýazgysy)
+
+[Alkyş We Şükür Etmek](#Alkyş We Şükür Etmek)
+
+[Ataş Ýazgysy](#Ataş Ýazgysy)
+
+[Bereket We Işi-Rowaçlyk Dilemek](#Bereket We Işi-Rowaçlyk Dilemek)
+
+[Bilbiller Ýazgysy](#Bilbiller Ýazgysy)
+
+[Bäbek Üçin](#Bäbek Üçin)
+
+[Didar Dogasy](#Didar Dogasy)
+
+[Dostluk We Agzybirlik](#Dostluk We Agzybirlik)
+
+[Ene-Atalar](#Ene-Atalar)
+
+[Gorag Dogalary](#Gorag Dogalary)
+
+[Gysga namaz](#Gysga namaz)
+
+[Gündelik Dogalar](#Gündelik Dogalar)
+
+[Hedaýat](#Hedaýat)
+
+[Hezreti Babyň Şehit Bolmagynyň Hatyrasyna Açylan Ýazgy](#Hezreti Babyň Şehit Bolmagynyň Hatyrasyna Açylan Ýazgy)
+
+[Hezreti Bahaulla We  Hezreti Baba Mahsus Bolan “Zyýaratnama“](#Hezreti Bahaulla We  Hezreti Baba Mahsus Bolan “Zyýaratnama“)
+
+[Hyzmat We Gulluk Dilemek](#Hyzmat We Gulluk Dilemek)
+
+[Iman We Tanyklyk Dilemek](#Iman We Tanyklyk Dilemek)
+
+[Jynaza Namazy](#Jynaza Namazy)
+
+[Kömek Soramak](#Kömek Soramak)
+
+[Merhemet We Jomartlyk Dilemek](#Merhemet We Jomartlyk Dilemek)
+
+[Merhumlar Üçin Dogalar](#Merhumlar Üçin Dogalar)
+
+[Nika Dogalary](#Nika Dogalary)
+
+[Nika Hutbasy](#Nika Hutbasy)
+
+[Nowruz Dogasy](#Nowruz Dogasy)
+
+[Nowruz Ýazgysy](#Nowruz Ýazgysy)
+
+[Orta namaz](#Orta namaz)
+
+[Parahatlyk Dilemek](#Parahatlyk Dilemek)
+
+[Rizwan Ýazgysy](#Rizwan Ýazgysy)
+
+[Ruhy Kämillik Dilemek](#Ruhy Kämillik Dilemek)
+
+[Sabyr We Çydam Dilemek](#Sabyr We Çydam Dilemek)
+
+[Syýam (Oraza) Aýynyň Dogalary](#Syýam (Oraza) Aýynyň Dogalary)
+
+[Uly namaz](#Uly namaz)
+
+[Umumy Ýygnaklar Üçin Mynajatlar](#Umumy Ýygnaklar Üçin Mynajatlar)
+
+[Ylahy Sözleri Ýetirmek](#Ylahy Sözleri Ýetirmek)
+
+[Ähdiňe Berklik Dilemek](#Ähdiňe Berklik Dilemek)
+
+[Çagalar We Ýaşlar](#Çagalar We Ýaşlar)
+
+[Ötünç Soramak](#Ötünç Soramak)
+
+[Özüňden Geçmek (Pida Bolmak)](#Özüňden Geçmek (Pida Bolmak))
+
+[Üzňelik We Töwekgellik Dilemek](#Üzňelik We Töwekgellik Dilemek)
+
+[Şypa Üçin Dogalar](#Şypa Üçin Dogalar)
+
+[Şypa Ýazgysy](#Şypa Ýazgysy)
+
+[“Ha” Eýýamynyň Ýazgysy](#“Ha” Eýýamynyň Ýazgysy)
+
+
+
 ## Ahmet Ýazgysy
 
 ### <a id="bpn12021"></a> Prayer bpn12021 in Türkmençe
@@ -24,6 +112,8 @@ Oldur Bilimli hem Dana Patyşa!
 
 
 
+
+
 ## Alkyş We Şükür Etmek
 
 ### <a id="bpn11918"></a> Prayer bpn11918 in Türkmençe
@@ -35,6 +125,8 @@ Eý Perwerdigär! Eýýamyňa laýyk däl zatlary al hem gerekli zatlary bagş e
 (Bahaiprayers.net ID: 11918)
 
 
+
+
 ### <a id="bpn11917"></a> Prayer bpn11917 in Türkmençe
 Päk we Mukaddes Sen, Eý meniň Taňrym!
     Barhudaýa! Sen ýaradylan däl, Özüň ýaradýaň. Sen ösdürim däl, Özüň ösdürýäň. Sen bilinýän däl, Özüň bar zady bilýän Iň Uly Dana.
@@ -43,6 +135,8 @@ Päk we Mukaddes Sen, Eý meniň Taňrym!
 
 (Source category: Alkyş We Şükür Etmek)
 (Bahaiprayers.net ID: 11917)
+
+
 
 
 ### <a id="bpn11919"></a> Prayer bpn11919 in Türkmençe
@@ -63,12 +157,16 @@ Keremiňden balu-per, ganat döret.
 (Bahaiprayers.net ID: 11919)
 
 
+
+
 ### <a id="bpn11920"></a> Prayer bpn11920 in Türkmençe
 Hu’Alla.
     Barhudaýa! Bu köňli we bu jany janana ýetireniň üçin hem-de bu binesibe tükeniksiz paý bereniň üçin Saňa şükür edýärin. Sen bu awarany Öz köýüňe çagyrdyň hem bu sergezdany Öz penahyňda saklap, dogry ýola saldyň. Sensiň Sahy, Geçirimli, Ebedi we Mähriban.
 
 (Source category: Alkyş We Şükür Etmek)
 (Bahaiprayers.net ID: 11920)
+
+
 
 
 ### <a id="bpn11921"></a> Prayer bpn11921 in Türkmençe
@@ -80,12 +178,16 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11921)
 
 
+
+
 ### <a id="bpn11922"></a> Prayer bpn11922 in Türkmençe
 Hu’äl-Äbha.
     Eý Ýeke-Täk Dilber, Eý taýsyz Mahbup! Bu biçäre awarany Öz Merhemetiňden we Keremiňden berip sylanyň üçin, “Änisa” şejeriniň giňden ýaýran saýasynda aman bereniň üçin Saňa şükür edýärin.
 
 (Source category: Alkyş We Şükür Etmek)
 (Bahaiprayers.net ID: 11922)
+
+
 
 
 
@@ -148,6 +250,8 @@ Gadym we Ägirt uly bolan Allanyň Ady bilen.
 
 
 
+
+
 ## Bereket We Işi-Rowaçlyk Dilemek
 
 ### <a id="bpn11923"></a> Prayer bpn11923 in Türkmençe
@@ -157,6 +261,8 @@ Hu’äl-Äbha.
 
 (Source category: Bereket We Işi-Rowaçlyk Dilemek)
 (Bahaiprayers.net ID: 11923)
+
+
 
 
 
@@ -176,6 +282,8 @@ Oldur Gadyrly, Belent mertebe we Uly.
 
 
 
+
+
 ## Bäbek Üçin
 
 ### <a id="bpn11928"></a> Prayer bpn11928 in Türkmençe
@@ -184,6 +292,8 @@ Oldur Gadyrly, Belent mertebe we Uly.
 
 (Source category: Bäbek Üçin)
 (Bahaiprayers.net ID: 11928)
+
+
 
 
 
@@ -201,6 +311,8 @@ Hu-äl-Äbha.
 
 
 
+
+
 ## Dostluk We Agzybirlik
 
 ### <a id="bpn11929"></a> Prayer bpn11929 in Türkmençe
@@ -212,11 +324,15 @@ Ylahy, Ylahy! Bendeleriň köňüllerini bir-birine bagla hem olaryň öz islegl
 (Bahaiprayers.net ID: 11929)
 
 
+
+
 ### <a id="bpn11933"></a> Prayer bpn11933 in Türkmençe
 Eý Perwerdigär! Günbatarly ýaranlaryň goluny Gündogarly dostlaryň goýnunda görerin diýip, ynsanlary tükeniksiz mähir bilen bir toparyň agzalary, bir ummanyň damjalary, bir bakjanyň guşlary, bir deňziň dürleri, bir agajyň ýapraklary we bir güneşiň ýalkymlary bolarlar diýip, bu Seniň dergähiň guly arzuw edýändir. Sensiň Gudratly we Başarjaň, Sensiň Kadyr, Eziz hem Görüji.
 
 (Source category: Dostluk We Agzybirlik)
 (Bahaiprayers.net ID: 11933)
+
+
 
 
 ### <a id="bpn11932"></a> Prayer bpn11932 in Türkmençe
@@ -232,6 +348,8 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11932)
 
 
+
+
 ### <a id="bpn11931"></a> Prayer bpn11931 in Türkmençe
 Hu’Alla.
     Eý meniň Mähriban Taňrym! Seniň Rähmetli saýaňa üýşen bu jemiň ünsi Seniň Melekutyňa maýyldyr.
@@ -241,6 +359,8 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11931)
 
 
+
+
 ### <a id="bpn11930"></a> Prayer bpn11930 in Türkmençe
 Hu’Alla.
     Eý Perwerdigär! Ýarlary wysala ýetir, olary Öz bendeligiňe hemdem we hemra kyl. Ynsanlar äleminde söýgi we mähriň düýbi tutulyp, adamzat nesli bir-birine aşyk we Mähriban bolar ýaly, ýürekleri nurana et we ýüzleri Rahmany eýle. Gündogar goluny Günbataryň goynuna salsyn hem Günbatar ýaýdanman muhabbet ýoluny tutsyn. Türk täjigi özüne hemdem bilip, ony ýoldaş we Mähriban saýsyn we ahli ynsanlar bir-birek bilen tükeniksiz dostluk bilen gatnaşykda bolsun. Bigänelik galmasyn, gybat bolmasyn. Hemmeler bir-birini aşna, dost we dertdeş duýsunlar.
@@ -248,6 +368,8 @@ Hu’Alla.
 
 (Source category: Dostluk We Agzybirlik)
 (Bahaiprayers.net ID: 11930)
+
+
 
 
 
@@ -262,6 +384,8 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11934)
 
 
+
+
 ### <a id="bpn11935"></a> Prayer bpn11935 in Türkmençe
 Hu’Alla.
     Eý Perwerdigär! Seniň dergähiň bu bendesiniň ene-atasyny Rähmet deňziňde gaýdyr, günäden, hatadan tämiz we päk eýle. Geçirim et, bagyşla, rehim eýle, ýalka. Sensiň Ýalkaýjy. Sensiň Bagyşlaýjy. Sensiň köp-köp baýlyk beriji.
@@ -269,6 +393,8 @@ Hu’Alla.
 
 (Source category: Ene-Atalar)
 (Bahaiprayers.net ID: 11935)
+
+
 
 
 
@@ -290,6 +416,8 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11938)
 
 
+
+
 ### <a id="bpn11940"></a> Prayer bpn11940 in Türkmençe
 Hu’äl-Äbha.
     Eý Taýsyz Taňry! Biz Seniň şermende bendeleriň, Sen bolsa geçirimlisiň. Biz günäkärler, Sen bolsa Ýalkaýjysyň. Biz ýesir, biz pahyr, biz biçäre, Sen bolsa pena Beriji we goldan Tutujysyň. Biz ejiz garynjalar ýaly, Sen bolsa, asmanly tagtynda oturan şöwketli Süleýmansyň. Öz Jomartlygyň hatyrasy üçin bizi gora hem Öz gözegçiligiňi we kömegiňi bizden gaýgyrma.
@@ -297,6 +425,8 @@ Hu’äl-Äbha.
 
 (Source category: Gorag Dogalary)
 (Bahaiprayers.net ID: 11940)
+
+
 
 
 ### <a id="bpn11939"></a> Prayer bpn11939 in Türkmençe
@@ -311,12 +441,16 @@ Hu’ Alla
 (Bahaiprayers.net ID: 11939)
 
 
+
+
 ### <a id="bpn11941"></a> Prayer bpn11941 in Türkmençe
 Hu’Alla.
     Eý Perwerdigär! Sen bu awaralary Öz saýaňa saldyň we olaryň durmuşyna ugur berdiň. Sen ýokluga barlyk hem heläk bolana dirilik bagyş etdiň. Sen teşnelere dury suw berdiň hem açlara saçak ýazyp nygmatlar saçdyň. Onda her ýagdaýda ýardam bol, pena ber, hem her ugurda kömekçi bol, goldaw ber. Sensiň Başarjaň we Gudratly, Sensiň Eşidiji, Güýçli we Görüji.
 
 (Source category: Gorag Dogalary)
 (Bahaiprayers.net ID: 11941)
+
+
 
 
 
@@ -332,6 +466,8 @@ Hu’Alla.
 
 
 
+
+
 ## Gündelik Dogalar
 
 ### <a id="bpn11943"></a> Prayer bpn11943 in Türkmençe
@@ -344,6 +480,8 @@ Senden özge tagzym etmeli Alla ýokdur!
 (Bahaiprayers.net ID: 11943)
 
 
+
+
 ### <a id="bpn11944"></a> Prayer bpn11944 in Türkmençe
 *(Gije dogalary)
 
@@ -353,6 +491,8 @@ Oldur Atlaryň Soltany.
 
 (Source category: Gündelik Dogalar)
 (Bahaiprayers.net ID: 11944)
+
+
 
 
 ### <a id="bpn11945"></a> Prayer bpn11945 in Türkmençe
@@ -369,6 +509,8 @@ Oldur Başarjaň we Binyýaz.
 (Bahaiprayers.net ID: 11945)
 
 
+
+
 ### <a id="bpn11942"></a> Prayer bpn11942 in Türkmençe
 *(Säher dogalary)
 
@@ -378,6 +520,8 @@ Oldur Eşidiji we çagyranlary Ýalkaýjy!
 
 (Source category: Gündelik Dogalar)
 (Bahaiprayers.net ID: 11942)
+
+
 
 
 ### <a id="bpn11946"></a> Prayer bpn11946 in Türkmençe
@@ -391,6 +535,8 @@ Oldur Şany uly we Başarjaň bolan Allatagala. Eý bu mazlumuň ýanynda ýatla
 (Bahaiprayers.net ID: 11946)
 
 
+
+
 ### <a id="bpn11947"></a> Prayer bpn11947 in Türkmençe
 (Saçak başynda okalýan dogalar)
 
@@ -398,6 +544,8 @@ Oldur Şany uly we Başarjaň bolan Allatagala. Eý bu mazlumuň ýanynda ýatla
 
 (Source category: Gündelik Dogalar)
 (Bahaiprayers.net ID: 11947)
+
+
 
 
 ### <a id="bpn11948"></a> Prayer bpn11948 in Türkmençe
@@ -414,6 +562,8 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11948)
 
 
+
+
 ### <a id="bpn11950"></a> Prayer bpn11950 in Türkmençe
 Hu’Alla.
     Eý meniň Taňrym, Eý meniň Umydym!
@@ -425,6 +575,8 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11950)
 
 
+
+
 ### <a id="bpn11949"></a> Prayer bpn11949 in Türkmençe
 Hu’Alla.
     Eý meniň Taňrym, Eý meniň Umydym! Bu ruhany nahary, bu ylahy nygmaty we bu asmanly bereketi bereniň üçin Saňa alkyş edýäris.
@@ -432,6 +584,8 @@ Hu’Alla.
 
 (Source category: Gündelik Dogalar)
 (Bahaiprayers.net ID: 11949)
+
+
 
 
 
@@ -447,6 +601,8 @@ Sözle: Eý dostlar! Ýol salgy berýän geldi, sözleriň içinde sözleri bell
 (Bahaiprayers.net ID: 11952)
 
 
+
+
 ### <a id="bpn11951"></a> Prayer bpn11951 in Türkmençe
 Ýa Ylahy, Ýa Magbut, Ýa Maksut, Ýa Kerim, Ýa Rahym!
     Janlar Sendendir we güýçler Seniň gudratyň astynda. Kimi göterseň dünýe mülkünden geçer we onuň orny “Iň Gözel we Belent Mekana” ýeter. Kimi ýyksaň gumdanam pesdir, belki puç hem ondan belentdir.
@@ -457,6 +613,8 @@ Sözle: Eý dostlar! Ýol salgy berýän geldi, sözleriň içinde sözleri bell
 
 (Source category: Hedaýat)
 (Bahaiprayers.net ID: 11951)
+
+
 
 
 ### <a id="bpn11953"></a> Prayer bpn11953 in Türkmençe
@@ -471,6 +629,8 @@ Sözle: Eý dostlar! Ýol salgy berýän geldi, sözleriň içinde sözleri bell
 
 
 
+
+
 ## Hezreti Babyň Şehit Bolmagynyň Hatyrasyna Açylan Ýazgy
 
 ### <a id="bpn12026"></a> Prayer bpn12026 in Türkmençe
@@ -480,6 +640,8 @@ Hu-äl-Äbha.
 
 (Source category: Hezreti Babyň Şehit Bolmagynyň Hatyrasyna Açylan Ýazgy)
 (Bahaiprayers.net ID: 12026)
+
+
 
 
 
@@ -503,6 +665,8 @@ Uly Durkuňdan äşgär bolan Alkyş we Äbha, Jemalyňdan saçylýan ýalkym Se
 
 
 
+
+
 ## Hyzmat We Gulluk Dilemek
 
 ### <a id="bpn11954"></a> Prayer bpn11954 in Türkmençe
@@ -513,6 +677,8 @@ Uly Durkuňdan äşgär bolan Alkyş we Äbha, Jemalyňdan saçylýan ýalkym Se
 
 (Source category: Hyzmat We Gulluk Dilemek)
 (Bahaiprayers.net ID: 11954)
+
+
 
 
 ### <a id="bpn11956"></a> Prayer bpn11956 in Türkmençe
@@ -527,6 +693,8 @@ Hu’äl-Äbha
 (Bahaiprayers.net ID: 11956)
 
 
+
+
 ### <a id="bpn11955"></a> Prayer bpn11955 in Türkmençe
 Hu’äl-Äbha.
     Barhudaýa! Sen bize şeýle bir jomartlyk etdiň, Sen bize şeýle bir Merhemet paýladyň. Ýürekleriň birleşmegine höküm berdiň hem her ynsana özüne mahsus bolan gatnaşyk. Jisimlere jan duýgusyny we jesetlere ruh aňyny bagyş etdiň. Bu toprak zerrelerine, Rahmany güneşiň ýalkymy bilen görnük we barlyk berdiň, bu pany damjalara Birlik deňziniň tolkunlaryndan hyjuw we tupan merhemet etdiň.
@@ -534,6 +702,8 @@ Hu’äl-Äbha.
 
 (Source category: Hyzmat We Gulluk Dilemek)
 (Bahaiprayers.net ID: 11955)
+
+
 
 
 
@@ -546,6 +716,8 @@ Hu’Alla.
 
 (Source category: Iman We Tanyklyk Dilemek)
 (Bahaiprayers.net ID: 11957)
+
+
 
 
 
@@ -580,6 +752,8 @@ Jynaza namazyň zikirleri
 
 
 
+
+
 ## Kömek Soramak
 
 ### <a id="bpn11958"></a> Prayer bpn11958 in Türkmençe
@@ -589,6 +763,8 @@ Sensiň Alla we Senden başga Alla ýokdur.
 
 (Source category: Kömek Soramak)
 (Bahaiprayers.net ID: 11958)
+
+
 
 
 ### <a id="bpn11960"></a> Prayer bpn11960 in Türkmençe
@@ -601,12 +777,16 @@ Alladan başga, işlerde rowaçlyk döredýän barmy?
 (Bahaiprayers.net ID: 11960)
 
 
+
+
 ### <a id="bpn11959"></a> Prayer bpn11959 in Türkmençe
 Barhudaýa! Dogrudanam gaýgylary ýeňledýän, jepalary azaldýan, gam-gusany daş edýän, gullary halas edýän, her dirini azat edýän diňe Sensiň.
     Ýa Reb! Öz Rähmetiň bilen meni azat eýle hem Öz halas bolan bendeleriň arasyna sal.
 
 (Source category: Kömek Soramak)
 (Bahaiprayers.net ID: 11959)
+
+
 
 
 ### <a id="bpn11961"></a> Prayer bpn11961 in Türkmençe
@@ -619,6 +799,8 @@ Eý Perwerdigär! Eý Ýalkaýjy! Olaryň bary Ylahy meýlisiň myhmanlary we yk
 (Bahaiprayers.net ID: 11961)
 
 
+
+
 ### <a id="bpn11962"></a> Prayer bpn11962 in Türkmençe
 Allah-u’Äbha.
     Eý Hudaýa ýüz tutan! Gözleriňi bar zatlardan sowup, Äbha Melekutyna aç. Isleýän zadyňy ondan isle, dileýän zadyňy ondan dile. Birje nazar salaýsa, ýüz müň hajaty rowa kylar. Birje bakaýsa, ýüz müň dermansyz derdi şypa eýlär. Rähmet bilen ýaralara melhem ýapar, bir bakyşda köňülleri gaýgy – gamdan halas eder. Biziň başarjak kärimiz ýokdur, diňe Özi Başarjaňdyr. Ýazgyt näme bolsa şony eder. Erki näme bolsa, şoňa-da höküm eder. Onda geçirimli Taňra baş egip, töwekgel etmek ýagşydyr. 
@@ -626,6 +808,8 @@ Wel’Baha-u eleýk. (Ululyk we Jelal saňa bolsun)
 
 (Source category: Kömek Soramak)
 (Bahaiprayers.net ID: 11962)
+
+
 
 
 
@@ -640,6 +824,8 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11983)
 
 
+
+
 ### <a id="bpn11984"></a> Prayer bpn11984 in Türkmençe
 Hu’Alla.
     Eý meniň Binyýaz Taňrym, Eý meniň syrlarymyň Mähremi, eý Mähriban Ýar!
@@ -647,6 +833,8 @@ Hu’Alla.
 
 (Source category: Merhemet We Jomartlyk Dilemek)
 (Bahaiprayers.net ID: 11984)
+
+
 
 
 ### <a id="bpn11985"></a> Prayer bpn11985 in Türkmençe
@@ -657,12 +845,16 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11985)
 
 
+
+
 ### <a id="bpn11982"></a> Prayer bpn11982 in Türkmençe
 Barhudaýa! 
     Bu Eýýamyň soňy, başyndan has ýagşy bolar ýaly hem ýaşaýşyň soňy Rähmet ýeňşini gazanyp biler ýaly eçil, enaýat eýle, gora, hemaýat eýle, sakla, merhemet eýle. Giňişlik saýasynda, Maksut baýdagynyň astynda, Mahmud Melekutyna öwrülip biler ýaly, Sen maňa her dem enaýat we merhemet ýetir. Her dem ýalka, rähmet eýle. Sensiň Jomart we Mähriban, Sensiň Sahylyk we Rähmetiň Allahy.
 
 (Source category: Merhemet We Jomartlyk Dilemek)
 (Bahaiprayers.net ID: 11982)
+
+
 
 
 ### <a id="bpn11981"></a> Prayer bpn11981 in Türkmençe
@@ -672,6 +864,8 @@ Hu’Alla.
 
 (Source category: Merhemet We Jomartlyk Dilemek)
 (Bahaiprayers.net ID: 11981)
+
+
 
 
 
@@ -696,6 +890,8 @@ Oldur enaýaty we merhemeti köp bolan Alla.
 (Bahaiprayers.net ID: 11963)
 
 
+
+
 ### <a id="bpn11965"></a> Prayer bpn11965 in Türkmençe
 Hu’Alla.
     Eý Taýsyz Taňry! Bu eziz dostuňy kabul et, başyny Ýalkaw telpegi bilen beze, Ebedi jahanyň jahanbanlyk täjini ber we asmanly baýlyklary bilen başyna zynat ber. Ol didara muşdakdy, Öz aýanlyk meýlisiňe ýoluny aç. Ol görmäge zardy, oňa duşuşyk ýalkymyňy saç. Arzuwly perwanady, Jemalyň çyrasyna golaýlat. Köp ýanan bilbildi, ony gülüň wysalyna gowşur.
@@ -703,6 +899,8 @@ Pyrkatyňda köňüller ýangyndan halas bolar ýaly, aýralyk hem hijranyňda �
 
 (Source category: Merhumlar Üçin Dogalar)
 (Bahaiprayers.net ID: 11965)
+
+
 
 
 ### <a id="bpn11968"></a> Prayer bpn11968 in Türkmençe
@@ -714,6 +912,8 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11968)
 
 
+
+
 ### <a id="bpn11969"></a> Prayer bpn11969 in Türkmençe
 Hu’äl-Äbha.
     Eý Perwerdigär! Bu päk janlar, bu toprak dünýeden bizar bolup, Seniň älemiňe perwaz etdiler. Bu garaňky ülkeden, bir ýagty yklyma göçdiler. Bu pes ketekde köňülleri gysylyp, asmanly höwürtgäniň maksadyny arzuw etdiler. Ylgadylar, uçdylar, ahyry ýetdiler.
@@ -721,6 +921,8 @@ Hu’äl-Äbha.
 
 (Source category: Merhumlar Üçin Dogalar)
 (Bahaiprayers.net ID: 11969)
+
+
 
 
 ### <a id="bpn11970"></a> Prayer bpn11970 in Türkmençe
@@ -733,12 +935,16 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11970)
 
 
+
+
 ### <a id="bpn11967"></a> Prayer bpn11967 in Türkmençe
 Hu’äl-Äbha.
     Eý Perwerdigär, Eý Mähriban! Bu dostlar Seniň gapyň işigine bendiwan we bu ýaranlar Seniň yşkyň oduna ýanyp duran şöhledirler, Seniň ýadyňda, tolkun atýan deňiz ýaly we Töwhid meýlisinde ýalkym saçýan çyra ýaly. Her biri Seniň Rähmet deňziň bir tolkuny, her biri hedaýat dürüniň bir kiçijik sandygy. Her säher açyk köňül bilen zar aglaýarlar we her gije Seniň Jemalyň ýadynda uka batýarlar. Sensiň Geçirimli, Mähriban we Sensiň Ebedi we Rahman. Aýrylanlary Merhemet eýle, galanlara sabyr ber. Hatalardan geç hem günäleri öt. Sen Ýaşyryjy, Sen Ýalkaýjy, Wel-Baha’u-äleýküm.
 
 (Source category: Merhumlar Üçin Dogalar)
 (Bahaiprayers.net ID: 11967)
+
+
 
 
 ### <a id="bpn11966"></a> Prayer bpn11966 in Türkmençe
@@ -751,6 +957,8 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11966)
 
 
+
+
 ### <a id="bpn11964"></a> Prayer bpn11964 in Türkmençe
 Oldur Allatagala.
     Eý Perwerdigär, eý Ýalkaýjy! Bir eziz ynsan Seniň ägälik Melekutyňa galkyndy. Bu pany toprakdan, ol Ebedi jahana bardy. Täze myhmandyr sylag et, gadym bendäňdir üýtgeşik täze don geýdir.
@@ -758,6 +966,8 @@ Oldur Allatagala.
 
 (Source category: Merhumlar Üçin Dogalar)
 (Bahaiprayers.net ID: 11964)
+
+
 
 
 
@@ -771,6 +981,8 @@ Eý Perwerdigär! Bu baglan ýanýoldaşlyk nikaňy berk et we bu bendäň bilen
 (Bahaiprayers.net ID: 12017)
 
 
+
+
 ### <a id="bpn12018"></a> Prayer bpn12018 in Türkmençe
 Hu’Alla.
     Eý Taýsyz Taňrym! Adamzat nesli barlyk äleminde dowam etsin diýip elmydama Seniň birlik dergähiňe tagzym edip hem sygynyp, saňa ybadat hem alkyş etsin diýip, Öz çäksiz uly hikmetiň bilen, öýlenmek däbini asyrlar boýunça ýazgyt etdiň. Ynsy-jynsy Saňa tagzym etmek üçin ýaratdyň. Indi, söýgi höwürtgesiniň guşlary bolan bu iki ynsana, bu iki söýgi deňziniň birikmesinden dostluk tolkuny galkynyp päk hem Mukaddes nesliň dürleri kenara geler ýaly, olara Öz Taňrylyk Melekutyňda söýgi nikasyny bagla we olara Ebedi ykbal bagyş eýle. “Iki deňiz bir-birine ýetende birigýändir, hem olaryň arasynda bir araçäk bardyr, ondan geçmek bolýan däldir. Ol ikisinden dür we merjen dökülýändir. Onda siz Taňryňyzyň haýsy bir nygmatyny inkär edip bilersiňiz?”
@@ -778,6 +990,8 @@ Hu’Alla.
 
 (Source category: Nika Dogalary)
 (Bahaiprayers.net ID: 12018)
+
+
 
 
 
@@ -803,6 +1017,8 @@ Allanyň Jomart we Baý Ady bilen.
 
 
 
+
+
 ## Nowruz Dogasy
 
 ### <a id="bpn12012"></a> Prayer bpn12012 in Türkmençe
@@ -811,6 +1027,8 @@ Hu’Alla.
 
 (Source category: Nowruz Dogasy)
 (Bahaiprayers.net ID: 12012)
+
+
 
 
 
@@ -827,6 +1045,8 @@ Oldur Ägirt Uly.
 
 (Source category: Nowruz Ýazgysy)
 (Bahaiprayers.net ID: 12011)
+
+
 
 
 
@@ -858,6 +1078,8 @@ Oldur Ägirt Uly.
 
 
 
+
+
 ## Parahatlyk Dilemek
 
 ### <a id="bpn11980"></a> Prayer bpn11980 in Türkmençe
@@ -868,12 +1090,16 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11980)
 
 
+
+
 ### <a id="bpn11979"></a> Prayer bpn11979 in Türkmençe
 Hu’Alla.
     Eý Mähriban Hudaý! Biçäreleriň dadyna ýetiş. Eý Päk Taňry! Bu ýetim çagalara rehim eýle. Eý Binyýaz Alla! Bu güýçli daşgyny gutar. Eý ynsanlary Ýaradan! Bu tüteýän ody öçür. Eý dada Ýetişýän! Ýetimleriň perýadyna ýetiş. Eý hakyky Kazy! Bagry ýanan enelere teselli ber. Eý Rahman! Eý Rahym! Gözi girýan, köňli ýanýan atalara rehim eýle. Bu tupany gutar we bu jeňden doly jahany parahatlyga, asudalyga öwür. Sensiň Görüji we Eşidiji.
 
 (Source category: Parahatlyk Dilemek)
 (Bahaiprayers.net ID: 11979)
+
+
 
 
 ### <a id="bpn11978"></a> Prayer bpn11978 in Türkmençe
@@ -883,6 +1109,8 @@ Hu’Alla
 
 (Source category: Parahatlyk Dilemek)
 (Bahaiprayers.net ID: 11978)
+
+
 
 
 
@@ -903,6 +1131,8 @@ Dogrudanam budur, Jomartlygyň belent mertebe şapagyndan aýdyň bolan Ylahy ba
 
 
 
+
+
 ## Ruhy Kämillik Dilemek
 
 ### <a id="bpn11986"></a> Prayer bpn11986 in Türkmençe
@@ -910,6 +1140,8 @@ Kalbyma päklik ber, Eý meniň Taňrym! Ruhuma ynjalyk ber, Eý meniň Umydym! 
 
 (Source category: Ruhy Kämillik Dilemek)
 (Bahaiprayers.net ID: 11986)
+
+
 
 
 ### <a id="bpn11987"></a> Prayer bpn11987 in Türkmençe
@@ -921,12 +1153,16 @@ Sowuk çesmeleriň joşgunyndan dolan, Ylahy derýalaryň suwundan meni gandyr, 
 (Bahaiprayers.net ID: 11987)
 
 
+
+
 ### <a id="bpn11989"></a> Prayer bpn11989 in Türkmençe
 Hu’äl-Äbha.
     Uçur bagyň ol guşlaryny! Bossanyň ol bilbillerini saýramaga sazlaşdyr, hem olary Äbha Melekutynyň owazyna syrdaş eýle. Ýüreklere heýjan, şatlyk guý. Bendelerde, ruhlarda hyjuw hem maýyllyk döret. Goý olar saz bilen, dep bilen, tüýdük bilen haý-haý edip başlasynlar we Saňa edilmeli alkyşyň sypatyny aýtsynlar. Belki älemiň göwresi galkynyp, Ylahy sazyň mukamyny aýdym edip Äbha Melekutyna ýetirsinler.
 
 (Source category: Ruhy Kämillik Dilemek)
 (Bahaiprayers.net ID: 11989)
+
+
 
 
 ### <a id="bpn11991"></a> Prayer bpn11991 in Türkmençe
@@ -939,6 +1175,8 @@ Barhudaýa!
 (Bahaiprayers.net ID: 11991)
 
 
+
+
 ### <a id="bpn11988"></a> Prayer bpn11988 in Türkmençe
 Hu’äl-Äbha.
     Eý meniň Mähriban Taňrym! Eý meniň Janym, Eý meniň Jananym! Sen äşgäre we pynhana ägäsiň. Bu dostlar peýman badasyndan mestandyrlar hem jahan meýlisinde ellerinde peýmana. Olar Seniň Mähir asmanyň ýyldyzlary, Seniň gögüň ýalkym saçýan çyralary hem Seniň Jennet bossanyň guşlarydyr. Bu ýyldyzlary parlak et. Bu çyralary bipaýan nur bilen taban eýle. Bu guşlara asmanly owazy hem erkanalyk gögünde perwaz etmegi öwret. Olar gije-gündiz Seniň roýuň ýadynda, Seniň zülpüň perişany, Seniň gylygyň aşygy, Seniň ysyň beýhuşy we Seniň köýüň sergezdanydyrlar. Alkyş Saňa, dileg Saňa, Sen ýaradylşy sahylyk bilen bezediň we sadyklaryň ornuna arşda bolmagyny islediň.
@@ -947,12 +1185,16 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11988)
 
 
+
+
 ### <a id="bpn11990"></a> Prayer bpn11990 in Türkmençe
 Oldur tabanlaryň Tabany.
     Eý meniň Mukaddes Taňrym! Bu hemişelik bendäňi gamgyn isleme. Oňa asmanly şatlyk we Ylahy şan bagyş eýle. Ony parlak ýyldyz eýle hem bossan güli. Ony Öz işigiň serweri kyl hem-de arşyň täjini onuň başyna geýdir. Onuň rugsaryny ýagtylt, göwherini saç. Janyna müşk ber hem köňlüni gülzar eýle. Goý hoş gylygyň ysy onuň ruhuny ösdürsin we roýunyň ýalkymy aýdan, ýyldyzdan zyýada bolsun. Sensiň Mähriban, Sensiň Jomart we Başarjaň.
 
 (Source category: Ruhy Kämillik Dilemek)
 (Bahaiprayers.net ID: 11990)
+
+
 
 
 
@@ -965,6 +1207,8 @@ Eý Allanyň eziz kenizi! Bu pany dünýede ylahy synaglary görüp umydyňy ýi
 (Bahaiprayers.net ID: 11992)
 
 
+
+
 ### <a id="bpn11994"></a> Prayer bpn11994 in Türkmençe
 Hu’äl-Äbha.
     Eý Ylahy yşkynyň bossanynyň ter we täze nahallary! Takdyryň agyrdygyndan ýanjamaň, musybatlardan, belalardan aglamaň. Sabyrly boluň, ynjalykly boluň hem-de çydamly, kararly bolmagy öz sypatyňyza öwrüň. Sabyr kamysyndan biçilen köýnek iň gözel köýnekdir, ony durkuňyza geýiň. Çydam we sabyrlylyk dony iň mübärek dondyr, Melekuty göwräňizi şonuň bilen bezäň. Hudaýa şükür! Ol ýaşyl we şat kepderi enaýat pudagyna gowuşdy we ýeke-täklik jennetinde täzelendi. Ylahy Melekutyna girdi we soňsyz barlygyň baýlygyna ýetişdi. Ýagşy soňlamagy başardy. Onda bu ýer gaýgy-gamyň ýa-da agyň ýeri däldir, şadyýanlyk hem begenjiň jaýydyr. 
@@ -973,6 +1217,8 @@ Wäl-Baha’u-eleýkom ýa Ählil-Baha, minel-ofokul-Äbha.
 
 (Source category: Sabyr We Çydam Dilemek)
 (Bahaiprayers.net ID: 11994)
+
+
 
 
 ### <a id="bpn11993"></a> Prayer bpn11993 in Türkmençe
@@ -987,6 +1233,8 @@ Hezreti Abdul-Baha
 
 
 
+
+
 ## Syýam (Oraza) Aýynyň Dogalary
 
 ### <a id="bpn12015"></a> Prayer bpn12015 in Türkmençe
@@ -997,6 +1245,8 @@ bolsun.
 
 (Source category: Syýam (Oraza) Aýynyň Dogalary)
 (Bahaiprayers.net ID: 12015)
+
+
 
 
 ### <a id="bpn12014"></a> Prayer bpn12014 in Türkmençe
@@ -1017,6 +1267,8 @@ Onda Eý älemiň Allasy we Eý ezeliň Eýesi we Eý illeriň Soltany! Seniň B
 
 (Source category: Syýam (Oraza) Aýynyň Dogalary)
 (Bahaiprayers.net ID: 12014)
+
+
 
 
 
@@ -1089,6 +1341,8 @@ Onda Eý älemiň Allasy we Eý ezeliň Eýesi we Eý illeriň Soltany! Seniň B
 
 
 
+
+
 ## Umumy Ýygnaklar Üçin Mynajatlar
 
 ### <a id="bpn12001"></a> Prayer bpn12001 in Türkmençe
@@ -1100,6 +1354,8 @@ Hu’Alla.
 (Bahaiprayers.net ID: 12001)
 
 
+
+
 ### <a id="bpn12002"></a> Prayer bpn12002 in Türkmençe
 Hu’Alla.
     Eý Ylahy dostlarym! Begenç we şadyýanlyk wagtydyr hem Ylahy häsiýetlere eýelenmek zamany. Bu pany dünýe puç kölege ýaly geçip baradyr. Ömür günleri ötüp baradyr. Ynha bir gün, bu dünýeden ol dünýä baramyzda, elimizde çyra, ýüzümizde ýalkym, janymyzda ruh bolmalydyr. Serediň göwre zannyň nyşanydyr.
@@ -1107,6 +1363,8 @@ Hu’Alla.
 
 (Source category: Umumy Ýygnaklar Üçin Mynajatlar)
 (Bahaiprayers.net ID: 12002)
+
+
 
 
 ### <a id="bpn12000"></a> Prayer bpn12000 in Türkmençe
@@ -1117,12 +1375,16 @@ Hu’Alla.
 (Bahaiprayers.net ID: 12000)
 
 
+
+
 ### <a id="bpn11999"></a> Prayer bpn11999 in Türkmençe
 Eý dostlar! Hudaýa şükür, söýgi çölünde awara, Alla yşkynda sergezdansyňyz. Ýar köýüne bendiwan, Onuň müşk saçýan saçyna perişansyňyz. Alla ýolunda binowa bolduňyz hem Mübärek Jemalyň yşkynda ryswa hem bikararsyňyz. Sergeşte hem mejnun siz, awara hem şeýda siz. Bu ykbalyň gadyryny biliň hem bu Jomartlygyň, bu Keremiň gymmatyna düşüniň.
     Ynha soltan hem raýat, wezir hem emir, baý hem garyp bary toprak gatlarynyň astynda gömlüp, atsyz, nyşansyz mazarlaryň düýbünde ýatandyrlar. Siz bolsa taban ýyldyzlar ýaly, hakykat daňyndan barlyk äleminde parlap, ýyllar we asyrlar geçdigiçe has röwşen ýalkym saçarsyňyz. Siziň Ebedi sylagyňyz günbe-gün artar we arşyň üstünde ýagty rugsaryňyz bilen şeýle bir jilwe taparsyňyz ki, siziň nurana ýalkymyňyz asyrlar boýy şölhe saçar. Bu dünýäniň ýagtylygyna sebäpkär bolmak üçin her dem hümmet ediň hem-de ähli ynsanlara ýol salgy bermek üçin gije-gündiz hyzmat ediň. Hakyky tebipler boluň, sökellere şypa beriň, ýaralara melhem ýapyň. Nadanlara ylym-bilim öwrediň, azaşanlara halas ediji ýol salgy beriň. Onda ýene bir pyýala paýlap, ýene doly jam içiň. Täzeden bir hezil ediň.
 
 (Source category: Umumy Ýygnaklar Üçin Mynajatlar)
 (Bahaiprayers.net ID: 11999)
+
+
 
 
 
@@ -1137,12 +1399,16 @@ Päk we Mukaddes Sen Eý meniň Taňrym.
 (Bahaiprayers.net ID: 12006)
 
 
+
+
 ### <a id="bpn12008"></a> Prayer bpn12008 in Türkmençe
 Hu’Alla.
     Eý Perwerdigär! Meni oýar, meni hüşgär eýle. Meni Özüňden özgeden bizar eýle. Meni Öz Jemalyň yşkyna giriftar eýle. Mukaddes ruhuň demini ber, Äbha Melekutynyň aýdymyn eşitdir. Rahmany kuwwat ber we çüýşe ýüregimde Ylahy çyraňy otla. Seniň razylygyňdan başga zady islemez yaly, Seniň roýuňdan gaýry agtarmaz ýaly we Seniň ýoluňdan özge ýoly aşmaz ýaly, meni her bir bentden azat eýle, her bir baglanşykdan halas et. Goý men gapyl ynsanlary hüşgär edip, ýatanlary oýaraýyn. Teşnelere dirilik suwundan içirip, bimarlara Ylahy em bereýin. Men pahyr bolsamda, zelil bolsamda, garyp bolsamda arkadagym, penahym Sensiň. Ýarym, Ýaranym Sensiň. Sen maňa şeýle bir goldaw ber welin iller oňa haýran galsyn. Sensiň Gudratly we Başarjaň, Bagyşlaýjy, Jomart we Görüji.
 
 (Source category: Ylahy Sözleri Ýetirmek)
 (Bahaiprayers.net ID: 12008)
+
+
 
 
 ### <a id="bpn12009"></a> Prayer bpn12009 in Türkmençe
@@ -1154,6 +1420,8 @@ Hu’Alla.
 (Bahaiprayers.net ID: 12009)
 
 
+
+
 ### <a id="bpn12007"></a> Prayer bpn12007 in Türkmençe
 Hu’Alla.
     Eý meniň Taýsyz Taňrym! Eý Melekutyň Allahy! Bu ynsanlar Seniň asmanly goşunyňdyr. Her biri, bir leşger bolup, Alla yşky bilen hem Ylahy taglymatyň ýalkymy bilen, ülkeleri ýeňip biler ýaly olara ýardam et, olara Arşyň Mukaddes goşuny bilen kömek et.
@@ -1161,6 +1429,8 @@ Hu’Alla.
 
 (Source category: Ylahy Sözleri Ýetirmek)
 (Bahaiprayers.net ID: 12007)
+
+
 
 
 
@@ -1174,6 +1444,8 @@ Eý sözüne berk bolan!
 (Bahaiprayers.net ID: 11936)
 
 
+
+
 ### <a id="bpn11937"></a> Prayer bpn11937 in Türkmençe
 Ylahym, Ylahym!
     Maňa sahylyk jamyny içir we ýüzümi hedaýat nury bilen röwşen eýle. Meni öz sözüme wepadar et hem eden ähdi-peýmanymda berk eýle. Meni Öz saýlan bendeleriň arasyna salyp, meniň üçin asudalyk gapylaryny açyk goý. Maňa şeýle bir çäre tap ki, hyýalymda hem görülmedik asmanly gençleriňden rysgal tapaýyn. 
@@ -1181,6 +1453,8 @@ Ylahym, Ylahym!
 
 (Source category: Ähdiňe Berklik Dilemek)
 (Bahaiprayers.net ID: 11937)
+
+
 
 
 
@@ -1194,6 +1468,8 @@ Hu’Alla!
 (Bahaiprayers.net ID: 11924)
 
 
+
+
 ### <a id="bpn11926"></a> Prayer bpn11926 in Türkmençe
 Hu’Alla.
     Ýa Reb! Ýa Reb! Bir ýaş çaga men. Mähir göwsünden emdir we muhabbet gujagynda ösdür. Hedaýat mekdebinde tälim ber we enaýat saýasynda terbiýe kyl. Çyrany otla, tümlükden gutar. Solgunlykdan halas et, bakjanyň gülüne öwür. Öz dergähiň işiginiň bendesi eýle, Maňa dogrularyň gylyk-häsiýetini bagyş et. Ynsanlar jahanyň guwanjy bolsam, Ebedi diriligiň täjini geýdir. Sensiň Gudratly we Başarjaň. Sensiň Eşidiji we Görüji.
@@ -1202,11 +1478,15 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11926)
 
 
+
+
 ### <a id="bpn11927"></a> Prayer bpn11927 in Türkmençe
 Barhudaýa! Bir bigünä çaga men. Penaňda sakla, ýalka, Merhemet eýle, terbiýe ber. Bol durmuşda ösdür. Sen maňa şeýle bir zehin ber ki, Melekuty bolaýyn, Ylahy bolaýyn, ruhany bolaýyn, nurana bolaýyn. Sensiň Başarjaň, Güýçli we Mähriban.
 
 (Source category: Çagalar We Ýaşlar)
 (Bahaiprayers.net ID: 11927)
+
+
 
 
 ### <a id="bpn11925"></a> Prayer bpn11925 in Türkmençe
@@ -1218,6 +1498,8 @@ Hu’Alla.
 
 
 
+
+
 ## Ötünç Soramak
 
 ### <a id="bpn11973"></a> Prayer bpn11973 in Türkmençe
@@ -1226,6 +1508,8 @@ Hu’Alla.
 
 (Source category: Ötünç Soramak)
 (Bahaiprayers.net ID: 11973)
+
+
 
 
 ### <a id="bpn11971"></a> Prayer bpn11971 in Türkmençe
@@ -1240,12 +1524,16 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11971)
 
 
+
+
 ### <a id="bpn11972"></a> Prayer bpn11972 in Türkmençe
 Ýa Ylahym, ýa Mahbup, ýa Hudaýym, ýa Maksut!
     Saňa geldim we Seniň Merhemetiňe sebäp boljak zady senden dileýärin. Sensiň Rähmet deňzi we barlygyň Eýesi. Seniň hemişelik goraýşyň, Seniň geçirimlilik we sahylygyň aýdyňlygyna nyşandyr. Öz bendeleriňi mahrum eýleme hem Mukaddes ýakynlyk saçagyňdan kowma. Sensiň Bagyşlaýjy we Mähriban. Senden özge Ägirt uly we has Geçirimli bolan Alla ýokdyr.
 
 (Source category: Ötünç Soramak)
 (Bahaiprayers.net ID: 11972)
+
+
 
 
 ### <a id="bpn11976"></a> Prayer bpn11976 in Türkmençe
@@ -1257,6 +1545,8 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11976)
 
 
+
+
 ### <a id="bpn11975"></a> Prayer bpn11975 in Türkmençe
 Hu’Alla.
     Eý Mähriban Taňrym! Boýdan-başa günäli biz. Seniň ýoluň tozy biz. Her säher aglap seni çagyrýarys.
@@ -1266,6 +1556,8 @@ Hu’Alla.
 (Bahaiprayers.net ID: 11975)
 
 
+
+
 ### <a id="bpn11974"></a> Prayer bpn11974 in Türkmençe
 Hu’Alla.
     Eý Hudaýa ýüz tutan! Gözüňi gaýyp Melekutyň Ululyk Älemine dikip, şeýle doga bilen dilege başla:
@@ -1273,6 +1565,8 @@ Hu’Alla.
 
 (Source category: Ötünç Soramak)
 (Bahaiprayers.net ID: 11974)
+
+
 
 
 
@@ -1289,6 +1583,8 @@ Hu’Alla.
 
 
 
+
+
 ## Üzňelik We Töwekgellik Dilemek
 
 ### <a id="bpn12004"></a> Prayer bpn12004 in Türkmençe
@@ -1299,6 +1595,8 @@ Hezreti Abdul-Baha
 
 (Source category: Üzňelik We Töwekgellik Dilemek)
 (Bahaiprayers.net ID: 12004)
+
+
 
 
 ### <a id="bpn12003"></a> Prayer bpn12003 in Türkmençe
@@ -1312,6 +1610,8 @@ Hezreti Abdul-Baha
 (Bahaiprayers.net ID: 12003)
 
 
+
+
 ### <a id="bpn12005"></a> Prayer bpn12005 in Türkmençe
 Hu’äl-Äbha.
     Barhudaýa! Köňlümde hem ruhumda Seniň razylygyň arzuwyndan başga hiç myradym ýokdyr we Seniň ähdi-peýman meýlisiňden özge ýerde ýol hem wysal gözlemeýändigime Sen şaýat hem ägäsiň. Gije-gündiz Seniň derdiň dertkeşi men, gije-gündiz seň tygyňdan, Seň okuňdan ýaraly men. Seniň röwşen Melekutyňdan başga ýerde aglamaryn. Seniň ýalňyzlygyň daldawundan özge ýerden aman soramaryn. Men bigäneden bizar bolup diňe Seniň dostlugyňa köňül bagladym. Özgelerden aryp, ownuklardan daşlaşdym.
@@ -1319,6 +1619,8 @@ Hu’äl-Äbha.
 
 (Source category: Üzňelik We Töwekgellik Dilemek)
 (Bahaiprayers.net ID: 12005)
+
+
 
 
 
@@ -1333,11 +1635,15 @@ Hu’äl-Äbha.
 (Bahaiprayers.net ID: 11996)
 
 
+
+
 ### <a id="bpn11995"></a> Prayer bpn11995 in Türkmençe
 Ýa Ylahym! Adyň şypadyr, Zikriň dermanym. Ýanyň arzuwymdyr, Mähriň hemdemim. Bu dünýe, ol dünýe Rähmetiň, tebibim hem ýarymdyr. Sensiň Sahy, Dana we Görüji.
 
 (Source category: Şypa Üçin Dogalar)
 (Bahaiprayers.net ID: 11995)
+
+
 
 
 ### <a id="bpn11997"></a> Prayer bpn11997 in Türkmençe
@@ -1349,12 +1655,16 @@ Ylahym, Ylahym! Seniň Baýlyk gapyňy maksat edinen bu garyby görýänsiň. Se
 (Bahaiprayers.net ID: 11997)
 
 
+
+
 ### <a id="bpn11998"></a> Prayer bpn11998 in Türkmençe
 Hu’Alla.
     Eý Perwerdigär! Bu ýaşaýyş suwuna suwsany Dirilik çeşmesinden gandyr. Bu hassany Melekuty derman bilen em et. Bu bimara hakyky şypa ber. Bu ýykylana Agzam däri bilen kuwwat hem güýç ber. Sensiň Şypakär. Sensiň Binyýaz. Sensiň Wepadar.
 
 (Source category: Şypa Üçin Dogalar)
 (Bahaiprayers.net ID: 11998)
+
+
 
 
 
@@ -1454,6 +1764,8 @@ Oldur Şypakär, Binyýaz, Goldaýjy, Ýalkaýjy we Mähriban.
 
 
 
+
+
 ## “Ha” Eýýamynyň Ýazgysy
 
 ### <a id="bpn12010"></a> Prayer bpn12010 in Türkmençe
@@ -1467,6 +1779,9 @@ Bismi-el-Agzam!
 
 (Source category: “Ha” Eýýamynyň Ýazgysy)
 (Bahaiprayers.net ID: 12010)
+
+
+
 
 
 

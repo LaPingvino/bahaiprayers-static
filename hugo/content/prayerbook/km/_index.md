@@ -3,6 +3,14 @@ title = "ភាសាខ្មែរ"
 tags = ['lang=km', 'prayerbook']
 +++
 
+
+
+[General Prayers](#General Prayers)
+
+[Short Obligatory Prayer](#Short Obligatory Prayer)
+
+
+
 ## General Prayers
 
 ### <a id="bpn9108"></a> Prayer bpn9108 in ភាសាខ្មែរ
@@ -12,6 +20,8 @@ tags = ['lang=km', 'prayerbook']
 (Bahaiprayers.net ID: 9108)
 
 
+
+
 ### <a id="bpn9109"></a> Prayer bpn9109 in ភាសាខ្មែរ
 ឱម្នាលនៃមនុស្សលេាកអេីយ¡ អ្នកដឹងហេីយថាគ្រប់ទីស្នាក់អាស្រ័យដែលព្រះជាម្ចាស់បានលេីកតមេី្កង និង អធិដ្ឋានដល់អាណាចក្ររបស់ព្រះជាម្ចាស់ ដែលទីកន្លែងទាំងនេាះហេីយគឺជាសួនច្បារ និងជាឋានសួគ’នៃឋានបរមសុខ របស់ព្រះអង្គ ។
 
@@ -19,11 +29,15 @@ tags = ['lang=km', 'prayerbook']
 (Bahaiprayers.net ID: 9109)
 
 
+
+
 ### <a id="bpn9111"></a> Prayer bpn9111 in ភាសាខ្មែរ
 ធម’អធិដ្ឋានសុំការជួយទ្រទ្រង់ តេីមានអ្នកកំចាត់ ក្ដីទុក្ខវិបត្ដិដទៃទៀតប¤? ក្រេៅពីព្រះជាម្ចាស់ ។ ¬ពេាល¦ សូមសេចក្ដីសរសេីរចូលមាន ដល់ព្រះអង្គទ្រង់ជាម្ចាស់¡ យេីង´ទូលព្រះបង្គំ ទាំងអស់គ្នាជាអ្នកបំរេីរបស់ព្រះអង្គ និងជាអ្នកប្រតិបត្ដិ ខ្ជាប់តាម ព្រះធម្មបពាØត្ដិរបស់ព្រះអង្គ ។
 
 (Source category: General Prayers)
 (Bahaiprayers.net ID: 9111)
+
+
 
 
 ### <a id="bpn9112"></a> Prayer bpn9112 in ភាសាខ្មែរ
@@ -36,6 +50,8 @@ tags = ['lang=km', 'prayerbook']
 
 
 
+
+
 ## Short Obligatory Prayer
 
 ### <a id="bpn9110"></a> Prayer bpn9110 in ភាសាខ្មែរ
@@ -45,6 +61,9 @@ tags = ['lang=km', 'prayerbook']
 
 (Source category: Short Obligatory Prayer)
 (Bahaiprayers.net ID: 9110)
+
+
+
 
 
 
