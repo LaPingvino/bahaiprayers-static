@@ -105,9 +105,11 @@ tags = ['lang=ro', 'prayerbook']
 
 
 
+<a id="Adunări Spirituale"></a> 
 ## Adunări Spirituale
 
-### <a id="bpn2105"></a> Prayer bpn2105 in România
+<a id="bpn2105"></a> 
+### Prayer bpn2105 in România
 *Veniţi împreună cu bucurie neumbrit şi la începutul întâlnirii rostiţi această rugăciune:
 
 O, Tu Stăpâne al Împărăţiei!
@@ -121,7 +123,10 @@ O, Tu Cel Care Te îngrijeşti de noi! Coboară asupra noastră ajutorul Tău, c
 
 
 
-### <a id="bpn2106"></a> Prayer bpn2106 in România
+
+
+<a id="bpn2106"></a> 
+### Prayer bpn2106 in România
 O,  Dumnezeule! O, Dumnezeule!
 Din împărăţia nevăzută a unicităţii Tale priveşte-ne adunaţi în această întrunire spirituală, crezând în Tine, încrezători în semnele Tale, statornici în Legământul şi Testamentul Tău, atraşi către Tine, cuprinşi de focul iubirii Tale şi sinceri în Cauza Ta. Noi suntem slujitori în via Ta, propovăduitori ai religiei Tale, adoratori devotaţi ai chipului Tău, smeriţi faţă de cei iubiţi de Tine, supuşi înaintea uşii Tale şi implorându-Te să ne confirmi întru slujirea aleşilor Tăi, să ne susţii cu oştirile Tale nevăzute, să ne întăreşti puterile pentru slujirea Ta şi să ne faci supuşi preaplecaţi şi adoratori apropiaţi de Tine.
 
@@ -137,7 +142,10 @@ Cu adevărat, Tu eşti Cel Generos, Cel Milostiv. Tu eşti Stăpânul marii dăr
 
 
 
-### <a id="bpn2104"></a> Prayer bpn2104 in România
+
+
+<a id="bpn2104"></a> 
+### Prayer bpn2104 in România
 *Ori de câte ori intraţi în încăperea de consultaţie, rostiţi această rugăciune cu o inimă vibrând de iubire pentru Dumnezeu şi un grai purificat de tot în afară de pomenirea Sa, astfel încât Cel Atotputernic să vă ajute cu bunăvoinţa Sa să dobândiţi victoria supremă.
 
 O, Doamne, Dumnezeul meu! Noi suntem slujitorii Tăi, care ne-am îndreptat cu devoţiune spre Faţa Ta Sfântă şi care, în această Zi slăvită, ne-am detaşat de toate în afară de Tine. Ne-am întrunit în această Adunare Spirituală, uniţi în vederile şi gândurile noastre, şi cu acelaşi ţel: acela de a-ţi preamări Cuvântul printre oameni. O, Doamne, Dumnezeul nostru! Fă din noi semnele Călăuzirii Tale Divine, Stindardele Credinţei Tale sublime printre oameni, slujitori ai puternicului Tău Legământ, o, Tu, Domnul nostru Preamărit, manifestări ale Unităţii Tale Divine în Împărăţia Ta Abhá3 şi stele strălucitoare luminând peste toate ţinuturile. Doamne! Ajută-ne să devenim mări înspumate de talazurile Harului Tău minunat, torente curgând din înălţimile Tale preaslăvite, roade alese din Pomul Cauzei Tale cereşti, arbori plecându-se sub adierea dărniciei Tale în Via Ta cerească. O, Doamne! Fă astfel încât sufletele noastre să nu se poată lipsi de Versetele Divinei Tale Unităţi, inimile noastre să se bucure prin revărsarea Bunăvoinţei Tale, ca să ne unim asemenea valurilor unei singure mări şi să fim contopiţi asemenea razelor Luminii Tale strălucitoare, astfel încât gândurile, vederile, simţămintele noastre să devină o singură realitate, care să manifeste spiritul unităţii în întreaga lume. Tu eşti Cel Plin de Har, Cel Mărinimos, Cel Darnic, Cel Atotputernic, Cel Milostiv şi Plin de Compasiune.
@@ -149,9 +157,13 @@ O, Doamne, Dumnezeul meu! Noi suntem slujitorii Tăi, care ne-am îndreptat cu d
 
 
 
+
+
+<a id="Ajutor şi Sprijin"></a> 
 ## Ajutor şi Sprijin
 
-### <a id="bpn2107"></a> Prayer bpn2107 in România
+<a id="bpn2107"></a> 
+### Prayer bpn2107 in România
 O, Doamne, Dumnezeul meu!
 Invocându-ţi Numele cel mai slăvit, Te rog să mă ajuţi în ceea ce va face să prospere treburile slujitorilor Tăi şi să înflorească oraşele lor. Tu ai, cu adevărat, putere asupra tuturor lucrurilor!
 
@@ -161,7 +173,10 @@ Invocându-ţi Numele cel mai slăvit, Te rog să mă ajuţi în ceea ce va face
 
 
 
-### <a id="bpn2108"></a> Prayer bpn2108 in România
+
+
+<a id="bpn2108"></a> 
+### Prayer bpn2108 in România
 Preamărit fie numele Tău, o, Tu în ale Cărui mâini sunt frâiele sufletelor tuturor celor ce Te-au recunoscut, şi în a Cărui mână dreaptă se află destinele tuturor celor ce sunt în cer şi a tuturor celor ce sunt pe pământ! Tu faci, prin puterea tăriei Tale, ceea ce voieşti, şi porunceşti, printr-un act al voinţei Tale, ceea ce Îţi place. Voinţa celor mai hotărâţi dintre oameni este asemenea neantului atunci când este asemuită cu dovezile biruitoare ale voinţei Tale, şi hotărârea celor mai neclintite dintre făpturile Tale se risipeşte în faţa revelaţiilor multiple ale scopului Tău.
 
 Tu eşti Acela care, printr-un cuvânt, ai vrăjit în asemenea măsură inimile aleşilor Tăi încât, în iubirea lor pentru Tine, s-au detaşat de toate lucrurile în afară de Tine, şi-au aşternut vieţile şi şi-au sacrificat sufletele în calea Ta, şi au îndurat, de dragul Tău, ceea ce niciuna dintre făpturile Tale n-a mai îndurat.
@@ -178,7 +193,10 @@ Tu eşti, cu adevărat, Domnul întregii creaţii. Nu există alt Dumnezeu în a
 
 
 
-### <a id="bpn2109"></a> Prayer bpn2109 in România
+
+
+<a id="bpn2109"></a> 
+### Prayer bpn2109 in România
 Dumnezeul meu Cel Adorat, Regele meu, Dorinţa mea! Ce limbă ar putea da glas mulţumirilor mele pentru Tine? Am fost nesocotit şi Tu m-ai trezit. Mi-am întors faţa de la Tine şi Tu m-ai ajutat, cu bunăvoinţă, să mă întorc spre Tine. Am fost asemenea unui mort iar Tu m-ai însufleţit cu apa vieţii. Am fost slăbit, iar Tu m-ai înviorat cu şuvoiul ceresc al rostirii Tale, ce a ţâşnit din Pana Celui Atotmilostiv.
 
 O, Divină Providenţă! Întreaga existenţă a fost zămislită prin dărnicia Ta; nu o lipsi de apele generozităţii Tale şi nici nu o îndepărta de la oceanul milostivirii Tale. Te implor să mă ajuţi şi să-mi fii alături mereu şi în toate împrejurările, să obţin din raiul harului Tău străvechea Ta bunăvoinţă. Tu eşti, cu adevărat, Stăpânul dărniciei şi Suveranul împărăţiei eternităţii.
@@ -189,7 +207,10 @@ O, Divină Providenţă! Întreaga existenţă a fost zămislită prin dărnicia
 
 
 
-### <a id="bpn2110"></a> Prayer bpn2110 in România
+
+
+<a id="bpn2110"></a> 
+### Prayer bpn2110 in România
 O, Dumnezeul meu, Dumnezeul dărniciei şi al milostivirii! Tu eşti Acel Rege prin al cărui cuvânt poruncitor întreaga creaţie a fost chemată întru fiinţă; şi Tu eşti acel Atotmărinimos pe care faptele slujitorilor Săi nu L-au împiedicat niciodată să-şi manifeste harul, nici n-au zădărnicit revelaţiile mărinimiei Sale.
 
 Te implor, îngăduie acestui slujitor să atingă ceea ce va duce la izbăvirea sa în fiecare dintre lumile Tale. Tu eşti, cu adevărat, Cel Tare, Cel Preaputernic, Cel Atotştiutor, Cel Atotînţelept.
@@ -200,7 +221,10 @@ Te implor, îngăduie acestui slujitor să atingă ceea ce va duce la izbăvirea
 
 
 
-### <a id="bpn2111"></a> Prayer bpn2111 in România
+
+
+<a id="bpn2111"></a> 
+### Prayer bpn2111 in România
 Lăudat fie numele Tău, o, Doamne
 Dumnezeul meu! Tu vezi cum m-am întors către Tine şi mi-am îndreptat faţa spre harul şi darurile Tale. Te implor, întru numele Tău prin care le-ai îngăduit tuturor celor ce ţi-au recunoscut unitatea să se împărtăşească din vinul milostivirii Tale, şi tuturor celor ce s-au apropiat de Tine să soarbă din apele vii ale bunătăţii Tale duioase, să mă cureţi pe de-a întregul de toate închipuirile deşarte şi să mă înclini înaintea harului Tău, o, Tu care eşti Stăpânul tuturor oamenilor!
 
@@ -216,7 +240,10 @@ Ai milă apoi, o, Dumnezeul meu, de slujitorii Tăi care s-au cufundat în ocean
 
 
 
-### <a id="bpn2112"></a> Prayer bpn2112 in România
+
+
+<a id="bpn2112"></a> 
+### Prayer bpn2112 in România
 Lăudat fii Tu, o, Doamne Dumnezeul meu! Stau mărturie că din veşnicie Tu ai fost înălţat în maiestatea şi tăria Ta transcendentă, şi vei sălăşlui în veşnicie în puterea şi gloria Ta neîntrecută. Nimeni din împărăţiile pământului şi ale cerului nu-ţi poate zădărnici scopul. Nimeni din împărăţiile revelaţiei şi ale creaţiei nu poate izbândi împotriva Ta. Prin porunca Ta faci ceea ce doreşti şi prin puterea suveranităţii Tale cârmuieşti după cum Îţi place.
 
 Te implor, o, Tu care faci zorii să răsară, prin lampa Ta pe care ai luminat-o cu focul iubirii Tale înaintea tuturor celor din cer şi de pe pământ, şi a cărei flacără o hrăneşti cu înţelepciunea Ta în împărăţia creaţiei Tale, să mă faci unul dintre cei ce s-au înălţat în zbor în văzduhul Tău şi şi-au închinat voinţa poruncii Tale.
@@ -229,7 +256,10 @@ Eu sunt doar neputinţă, o, Domnul meu, şi Tu eşti Cel Preaputernic, Cel Tare
 
 
 
-### <a id="bpn2113"></a> Prayer bpn2113 in România
+
+
+<a id="bpn2113"></a> 
+### Prayer bpn2113 in România
 Lăudat şi slăvit eşti Tu, o, Dumnezeul meu! Te implor, întru suspinele celor ce Te iubesc şi întru lacrimile vărsate de cei plini de dorul de a Te vedea, să nu îndepărtezi de mine blândele Tale milostiviri în Ziua Ta, nici să nu mă lipseşti de melodiile Porumbiţei care preamăreşte unicitatea Ta înaintea luminii ce străluceşte dinspre faţa Ta. Eu sunt cel care se află în mizerie, o, Dumnezeule! Priveşte-mă ţinându-mă strâns de Numele Tău, Cel Atotstăpânitor. Eu sunt cel care va pieri cu siguranţă; priveşte-mă cum mă agăţ de Numele Tău, Cel Nepieritor. Te implor, de aceea, întru Numele Tău, Cel Slăvit, Cel Preaînalt, să nu mă părăseşti mie însumi şi dorinţelor unei înclinaţii corupte. ţine-mă de mână cu mâna puterii Tale, eliberează-mă din adâncurile închipuirilor şi plăsmuirilor mele deşarte şi curăţă-mă de tot ce nu-ţi este pe plac.
 
 Ajută-mă, atunci, să mă îndrept cu totul spre Tine, să-mi pun întreaga încredere în Tine, să-mi caut Refugiul în Tine şi să alerg pentru adăpost către faţa Ta. Tu eşti, cu adevărat, Cel care, prin puterea tăriei Sale, face ceea ce doreşte şi porunceşte, prin puterea voinţei Sale, ceea ce alege. Nimeni nu se poate împotrivi poruncii Tale; nimeni nu poate întoarce cursul hotărârii Tale. Tu eşti, cu adevărat, Cel Tare, Cel Atotslăvit, Cel Preamărinimos.
@@ -240,7 +270,10 @@ Ajută-mă, atunci, să mă îndrept cu totul spre Tine, să-mi pun întreaga î
 
 
 
-### <a id="bpn2114"></a> Prayer bpn2114 in România
+
+
+<a id="bpn2114"></a> 
+### Prayer bpn2114 in România
 Lăudat fii Tu, o, Doamne Dumnezeul meu, Stăpânul meu! Tu auzi suspinele celor care, deşi năzuiesc să privească faţa Ta, sunt totuşi despărţiţi de Tine şi departe de curtea Ta. Tu adevereşti tânguirile celor ce Te-au recunoscut, din pricina pribegiei lor de lângă Tine şi a dorului lor de a Te întâlni. Te implor, întru acele inimi ce nu cuprind nimic în afară de comorile pomenirii şi laudei Tale, şi care proclamă doar dovezile măreţiei Tale şi mărturiile tăriei Tale, să acorzi slujitorilor Tăi care Te doresc puterea de a se apropia de locul revelaţiei splendorii gloriei Tale şi să-i ajuţi pe cei care şi-au pus speranţa în Tine să intre în tabernacolul bunăvoinţei şi milostivirii Tale transcendente.
 
 Eu sunt despuiat, o, Dumnezeul meu! Înveşmântează-mă cu mantia blândelor Tale milostiviri. Sunt mistuit de sete; dă-mi să beau din oceanele favorii Tale pline de mărinimie. Sunt venetic; apropie-mă de izvorul darurilor Tale. Sunt bolnav; stropeşte-mă cu apele tămăduitoare ale harului Tău. Sunt captiv; eliberează-mă din robia mea prin puterea tăriei Tale şi prin forţa voinţei Tale, ca să mă pot înălţa în zbor pe aripile detaşării pe cele mai înalte culmi ale creaţiei Tale. Tu faci, cu adevărat, ceea ce alegi. Nu există alt Dumnezeu în afară de Tine, Ajutorul în Primejdie, Cel Atotslăvit, Cel Neconstrâns.
@@ -251,7 +284,10 @@ Eu sunt despuiat, o, Dumnezeul meu! Înveşmântează-mă cu mantia blândelor T
 
 
 
-### <a id="bpn2115"></a> Prayer bpn2115 in România
+
+
+<a id="bpn2115"></a> 
+### Prayer bpn2115 in România
 Slava fie cu Tine, Cel care ai făcut ca toţi sfinţii să-şi mărturisească neputinţa în faţa revelaţiilor multiple ale tăriei Tale, şi ca fiecare Profet să-şi adeverească nimicnicia în faţa strălucirii gloriei Tale nepieritoare. Te implor, întru numele Tău care a descuiat porţile raiului şi a umplut de desfătare Adunarea din înalturi, să-mi îngădui să Te slujesc, în această Zi şi să mă întăreşti ca să pot respecta ceea ce ai poruncit în Cartea Ta. Tu ştii, o, Domnul meu, ceea ce este în mine; dar eu nu ştiu ce este în Tine. Tu eşti Cel Atotştiutor, Cel Atotcunoscător.
 
 (Source category: Ajutor şi Sprijin)
@@ -260,7 +296,10 @@ Slava fie cu Tine, Cel care ai făcut ca toţi sfinţii să-şi mărturisească 
 
 
 
-### <a id="bpn2116"></a> Prayer bpn2116 in România
+
+
+<a id="bpn2116"></a> 
+### Prayer bpn2116 in România
 Lăudat fie numele Tău, o, Doamne Dumnezeul nostru! Tu eşti într-adevăr Cunoscătorul lucrurilor nevăzute. Hărăzeşte-ne tot binele măsurat de cunoaşterea Ta atotcuprinzătoare. Tu eşti Stăpânul suveran, Cel Tare, Cel Preaiubit.
 
 Toată lauda fie cu Tine, o, Doamne! În Ziua hotărâtă vom căuta harul Tău şi ne vom pune toată nădejdea în Tine, Care eşti Stăpânul nostru. Slăvit eşti Tu, o, Dumnezeule! Hărăzeşte-ne ceea ce este bun şi potrivit, ca să ne putem lipsi de orice altceva în afară de Tine. Cu adevărat, Tu eşti Stăpânul tuturor lumilor.
@@ -275,7 +314,10 @@ Spune: Dumnezeu este cu adevărat Ziditorul tuturor lucrurilor. El dă întărir
 
 
 
-### <a id="bpn2119"></a> Prayer bpn2119 in România
+
+
+<a id="bpn2119"></a> 
+### Prayer bpn2119 in România
 Cine altul dacă nu Dumnezeu risipeşte toate greutăţile? Spune: Lăudat fie Dumnezeu! El singur este Dumnezeu! Toţi sunt slujitorii Lui şi toţi depind de porunca Lui.
 
 (Source category: Ajutor şi Sprijin)
@@ -284,7 +326,10 @@ Cine altul dacă nu Dumnezeu risipeşte toate greutăţile? Spune: Lăudat fie D
 
 
 
-### <a id="bpn2120"></a> Prayer bpn2120 in România
+
+
+<a id="bpn2120"></a> 
+### Prayer bpn2120 in România
 Spune: Dumnezeu împlineşte toate, mai presus de toate. Nimic, nici în cer, nici pe pământ, nu poate fi împlinit decât de Dumnezeu.
 
 Cu adevărat, El este în sinea Lui, Atotştiutorul, Cel ce poartă grija, Cel Atotputernic.
@@ -295,7 +340,10 @@ Cu adevărat, El este în sinea Lui, Atotştiutorul, Cel ce poartă grija, Cel A
 
 
 
-### <a id="bpn2117"></a> Prayer bpn2117 in România
+
+
+<a id="bpn2117"></a> 
+### Prayer bpn2117 in România
 O, Tu Stăpâne Bun! Noi suntem slujitori ai Pragului Tău, adăpostindu-ne la Uşa Ta sfântă. Nu căutăm nici un alt refugiu în afară de acest puternic pilon, nu ne întoarcem spre nici un alt liman în afara protecţiei Tale. Ocroteşte-ne, binecuvântează-ne, susţine-ne, fă-ne astfel încât să iubim doar bunul Tău plac, rostind doar slăvirea Ta, urmând doar cărarea adevărului, ca să putem deveni îndeajuns de bogaţi încât să ne lipsim de orice altceva în afară de Tine şi să primim daruri din marea generozităţii Tale, ca să ne străduim mereu să înălţăm Cauza Ta şi să răspândim dulcile Tale miresme în depărtare, ca să putem deveni străini de sine şi ocupaţi numai cu Tine, şi să renunţăm la orice altceva şi să fim atraşi de Tine.
 
 O, Tu Cel care Dăruieşti, o, Tu Cel care Ierţi! Îngăduie-ne harul şi bunătatea Ta iubitoare, darurile şi răsplăţile Tale, şi susţine-ne, ca să ne putem atinge ţelul. Tu eşti Cel Puternic, Cel Capabil, Cunoscătorul, Văzătorul; şi, cu adevărat, Tu eşti Cel Generos şi, cu adevărat, Tu eşti Cel Atotmilostiv şi, cu adevărat, Tu eşti Cel Veşnic Iertător, Cel în faţa căruia trebuie să ne căim, Cel care iartă chiar şi cele mai cumplite păcate.
@@ -306,7 +354,10 @@ O, Tu Cel care Dăruieşti, o, Tu Cel care Ierţi! Îngăduie-ne harul şi bună
 
 
 
-### <a id="bpn2118"></a> Prayer bpn2118 in România
+
+
+<a id="bpn2118"></a> 
+### Prayer bpn2118 in România
 Nu îndepărta, o, Doamne, masa sărbătorească pe care ai aşternut-o în Numele Tău, şi nu stinge flacăra arzătoare aprinsă de focul Tău nepotolit. Nu opri apa Ta vie ce murmură melodia slavei şi pomenirii Tale, şi nu-i lipsi pe slujitorii Tăi de mireasma dulcilor Tale arome ce adie parfumul iubirii Tale.
 
 Doamne! Preschimbă în uşurare grijile dureroase ale sfinţilor Tăi, greutăţile lor în tihnă, înjosirea lor în glorie, durerea lor în desfătătoare bucurie, o, Tu ce ţii în mână frâiele întregii omeniri!
@@ -320,9 +371,13 @@ Tu eşti, cu adevărat, Unicul, Singurul, Cel Tare, Cel Atotştiutor, Cel Atotî
 
 
 
+
+
+<a id="Apărare şi Protecţie"></a> 
 ## Apărare şi Protecţie
 
-### <a id="bpn2123"></a> Prayer bpn2123 in România
+<a id="bpn2123"></a> 
+### Prayer bpn2123 in România
 O, Doamne, Dumnezeul meu! Fă din frumuseţea Ta hrana mea, din prezenţa Ta băutura mea, din plăcerea Ta speranţa mea, din slăvirea Ta ocupaţia mea, din amintirea Ta tovarăşul meu, din puterea suveranităţii Tale sprijinul meu, din locuinţa Ta căminul meu şi din casa mea locul pe care l-ai sanctificat de toate limitările pe care le-ai impus celor pe care doar un văl îi desparte de Tine.
 
 Tu eşti, cu adevărat, Cel Tare, Cel Atotslăvit, Cel Preaputernic.
@@ -333,7 +388,10 @@ Tu eşti, cu adevărat, Cel Tare, Cel Atotslăvit, Cel Preaputernic.
 
 
 
-### <a id="bpn2124"></a> Prayer bpn2124 in România
+
+
+<a id="bpn2124"></a> 
+### Prayer bpn2124 in România
 Dumnezeul meu venerat şi adorat! Stau mărturie unităţii şi unicităţii Tale şi adeveresc toate darurile Tale trecute şi prezente. Tu eşti Cel Atotdarnic, Cel care îşi revarsă ploaia milostivirii peste cel de sus precum şi peste cel de jos şi luminează cu splendorile harului Său pe cel supus precum şi pe cel răzvrătit.
 
 O, Dumnezeu al milostivirii, în faţa uşii Căruia însăşi chintesenţa miluirii s-a închinat, şi în jurul cărui sanctuar al Cauzei Tale, s-a rotit în esenţa ei intimă bunătatea duioasă, Te rugăm fierbinte, invocându-ţi străvechiul har şi căutându-Ţi favoarea prezentă, să Te înduri de toţi cei care sunt manifestări ale lumii existenţei şi să nu le refuzi efuziunile harului Tău în vremea zilelor Tale.
@@ -346,7 +404,10 @@ Noi suntem cu toţii sărmani şi nevoiaşi, pe când Tu eşti, cu adevărat, At
 
 
 
-### <a id="bpn2125"></a> Prayer bpn2125 in România
+
+
+<a id="bpn2125"></a> 
+### Prayer bpn2125 in România
 Lauda fie cu Tine, o, Doamne Dumnezeul meu! Tu vezi şi ştii că i-am îndemnat pe slujitorii Tăi să nu-şi întoarcă faţa decât înspre darurile Tale şi i-am rugat să se supună lucrurilor pe care le-ai poruncit în Cartea Ta cea clară, Carte pe care ai pogorât-o în lumina poruncii Tale indiscutabile şi a scopului Tău irevocabil.
 
 Nu pot rosti nici un cuvânt, o, Dumnezeul meu, dacă nu am îngăduinţa Ta şi nu mă pot mişca în nici o parte, decât numai cu consimţământul Tău.
@@ -365,7 +426,10 @@ Tu eşti, cu adevărat, Cel Atotslăvit, Cel Preamărinimos.
 
 
 
-### <a id="bpn2129"></a> Prayer bpn2129 in România
+
+
+<a id="bpn2129"></a> 
+### Prayer bpn2129 in România
 Preamărit fie numele Tău, o, Doamne Dumnezeul meu! Nu ştiu ce fel de apă este cea cu care m-ai creat, nici ce fel de foc ai aprins în mine, nici din ce fel de lut m-ai plămădit. Neliniştea fiecărei mări a fost potolită, dar nu şi neliniştea acestui Ocean ce se mişcă la porunca vânturilor Voinţei Tale. Flacăra fiecărui foc a fost stinsă, în afară de Flacăra pe care mâinile atotputerniciei Tale au aprins-o şi a cărei strălucire ai răspândit-o, prin puterea numelui Tău, înaintea tuturor celor ce se află în cerul Tău şi a tuturor celor ce se află pe pământul Tău. Pe măsură ce suferinţele se adâncesc, ea devine tot mai fierbinte.
 
 Priveşte atunci, o, Dumnezeul meu, cum lumina Ta a fost înconjurată de vânturile neiertătoare ale poruncii Tale, cum furtunile ce s-au abătut asupra ei din toate părţile i-au înteţit strălucirea şi i-au sporit splendoarea.
@@ -379,7 +443,10 @@ Te implor, întru Numele Tău Cel Mai Mare şi întru străvechea Ta suveranitat
 
 
 
-### <a id="bpn2130"></a> Prayer bpn2130 in România
+
+
+<a id="bpn2130"></a> 
+### Prayer bpn2130 in România
 Slăvit eşti Tu, o, Doamne Dumnezeul meu! Tu eşti Cel a cărui foc al iubirii a înflăcărat inimile celor ce-au recunoscut unitatea Ta şi splendorile cărui chip au iluminat feţele celor ce s-au apropiat de curtea Ta. Cât de îmbelşugat, o, Stăpânul meu, este şuvoiul cunoaşterii Tale! Cât de dulce este, o, Preaiubitul meu, rana pricinuită de lăncile răufăcătorilor Tăi şi din pricina căruia sufăr numai din iubirea mea pentru Tine şi de dragul bunului Tău plac! Cât de plăcute sunt rănile pe care, pe calea Ta şi pentru a proclama Credinţa Ta, le sufăr din partea săbiilor necredincioşilor!
 
 Te implor, întru Numele Tău prin care Tu preschimbi neodihna în linişte, teama în încredere, slăbiciunea în tărie şi înjosirea în slavă, ca prin harul Tău să mă ajuţi pe mine şi pe ceilalţi slujitori ai Tăi să preamărim numele Tău, să împărtăşim Mesajul Tău şi să proclamăm Credinţa în Tine, în aşa fel încât să rămânem neclintiţi la asalturile nelegiuiţilor şi la mânia necredincioşilor, o, Tu, Care eşti Preaiubitul meu!
@@ -394,7 +461,10 @@ Tu ai puterea de a face ceea ce Îţi place. Tu eşti, cu adevărat, Cel Atotşt
 
 
 
-### <a id="bpn2131"></a> Prayer bpn2131 in România
+
+
+<a id="bpn2131"></a> 
+### Prayer bpn2131 in România
 O, Doamne, Dumnezeul meu! Nu Te îndepărta de mine, căci nenorocirile, una după alta, s-au abătut asupra mea. O, Doamne, Dumnezeul meu! Nu mă lăsa singur, căci cea mai mare năpastă m-a lovit. Din laptele curat, de la pieptul iubirii Tale duioase, dă-mi să beau, căci setea m-a mistuit. La umbra aripilor milostivirii Tale adăposteşte-mă, căci toţi vrăjmaşii mei, într-un singur gând, s-au năpustit asupra mea. Lasă-mă să stau lângă tronul maiestăţii Tale, în faţa revelaţiei semnelor slavei Tale, căci nenorocirea m-a atins cumplit. Cu roadele Copacului Eternităţii Tale hrăneşte-mă, căci o slăbiciune fără margini m-a cuprins. Din cupele bucuriei, întinse de mâinile milostivirii Tale duioase, lasă-mă să beau, căci nenumărate supărări s-au abătut cu putere asupra mea. Cu veşmântul brodat al Suveranitaţii Tale Atotputernice împodobeşte-mă, căci sărăcia m-a despuiat de tot. Legănat de uguitul Porumbiţei Veşniciei Tale lasă-mă să dorm, căci cele mai sumbre nenorociri m-au lovit. În faţa tronului unicităţii Tale şi a splendorii chipului Tău lasă-mă să stau, căci teama şi tremurul m-au zdrobit cumplit. În oceanul iertării Tale, în faţa neliniştii leviatanului de slavă cufundă-mă, căci păcatele m-au osândit amarnic.
 
 (Source category: Apărare şi Protecţie)
@@ -403,7 +473,10 @@ O, Doamne, Dumnezeul meu! Nu Te îndepărta de mine, căci nenorocirile, una dup
 
 
 
-### <a id="bpn2132"></a> Prayer bpn2132 in România
+
+
+<a id="bpn2132"></a> 
+### Prayer bpn2132 in România
 Slavă Ţie, o, Dumnezeul meu! Te implor întru numele Tău, Cel Preamilostiv, să-i ocroteşti pe slujitorii şi slujitoarele Tale atunci când furtunile încercărilor vor trece peste ei şi nenumăratele Tale încercări îi vor asalta. Îngăduie-le atunci, o, Dumnezeul meu, să caute refugiu în fortăreaţa iubirii şi revelaţiei Tale, astfel încât nici duşmanii Tăi şi nici răufăcătorii dintre slujitorii Tăi care au încălcat Legământul şi Testamentul Tău şi s-au întors cu dispreţ de la Aurora Esenţei Tale şi Cel care a dezvăluit slava Ta, să nu poată birui înaintea lor.
 
 Ei înşişi, o, Domnul meu, au aşteptat la uşa bunăvoinţei Tale. Deschide-o înaintea feţelor lor, cu cheile favorurilor Tale pline de mărinimie. Tu ai puterea de a face ceea ce doreşti şi de a porunci ceea ce Îţi place. Aceştia sunt cei, o, Stăpânul meu, care şi-au întors feţele spre Tine şi s-au îndreptat spre sălaşul Tău. De aceea, fă cu ei ceea ce se cuvine milostivirii Tale, care a întrecut lumile.
@@ -414,7 +487,10 @@ Ei înşişi, o, Domnul meu, au aşteptat la uşa bunăvoinţei Tale. Deschide-o
 
 
 
-### <a id="bpn2133"></a> Prayer bpn2133 in România
+
+
+<a id="bpn2133"></a> 
+### Prayer bpn2133 in România
 Lăudat fie numele Tău, o, Dumnezeul meu! Tu vezi cum vânturile neiertătoare ale încercărilor i-au făcut pe cei statornici în cauza Ta să se clatine, şi cum suflarea încercărilor i-a răscolit pe cei ale căror inimi au fost ferm aşezate, în afară de cei ce s-au împărtăşit din vinul care este viaţă adevărată din mâinile Manifestării numelui Tău, Cel Prea Milostiv. Aceştia sunt cei pe care nici un cuvânt în afară de cuvântul Tău cel prea înălţat nu poate să-i mişte, pe care nimic în afară de dulcea mireasmă a veşmântului pomenirii Tale nu poate să-i vrăjească, o, Tu Care eşti Posesorul tuturor numelor şi Făcătorul cerului şi al pământului!
 
 Te implor, o, Tu Ce eşti iubitul tovarăş al lui Bahá, întru numele Tău, Cel Atotslăvit, să-i ţii în siguranţă pe aceşti slujitori ai Tăi, la umbra aripilor milostivirii Tale atotcuprinzătoare, ca săgeţile sugestiilor ticăloase ale răufăcătorilor dintre creaturile Tale, ce n-au crezut în semnele Tale, să poată fi ţinute departe de ei. Nimeni de pe pământ, o, Domnul meu, nu poate sta împotriva puterii Tale şi nimeni în toată împărăţia numelor Tale nu poate să frustreze scopul tău. Arată, atunci, puterea suveranităţii şi stăpânirii Tale, şi învaţă-i pe cei iubiţi de Tine ceea ce li se cuvine în zilele Tale.
@@ -427,7 +503,10 @@ Tu eşti, cu adevărat, Cel Atotputernic, Cel Preaînălţat, Cel Atotslăvit, C
 
 
 
-### <a id="bpn2134"></a> Prayer bpn2134 in România
+
+
+<a id="bpn2134"></a> 
+### Prayer bpn2134 in România
 Slăvit eşti Tu, o, Doamne Dumnezeul
 meu! Revarsă, Te implor, din norii harului Tău îmbelşugat, ceea ce va purifica inimile slujitorilor Tăi de orice i-ar putea împiedica să-Ţi privească faţa, sau i-ar putea împiedica să se îndrepte spre Tine, ca să-L poată cu toţii recunoaşte pe Cel care este Făuritorul şi Creatorul lor. Ajută-i, Doamne, aşadar, să ajungă, prin puterea tăriei Tale suverane, la un asemenea rang, încât să distingă cu uşurinţă orice miros urât de mireasma veşmântului Celui Ce poartă numele Tău cel mai înalt şi mai slăvit, ca să se poată întoarce cu toată afecţiunea spre Tine, şi să se bucure de o comuniune atât de strânsă cu Tine, încât dacă le-ar fi dat să aibă tot ce se află în ceruri şi pe pământ, le-ar privi ca fiind nedemne de atenţia lor, şi ar refuza să se oprească din pomenirea Ta şi slăvirea virtuţilor Tale.
 
@@ -439,7 +518,10 @@ Ocroteşte-l te rog, o, Preaiubitul meu, Dorinţa inimii mele, pe slujitorul Tă
 
 
 
-### <a id="bpn2121"></a> Prayer bpn2121 in România
+
+
+<a id="bpn2121"></a> 
+### Prayer bpn2121 in România
 Slava fie cu Tine, o, Dumnezeule! Tu eşti Dumnezeu, Cel care a existat înainte de toate lucrurile, care va exista după toate lucrurile şi va dura dincolo de toate lucrurile. Tu eşti Dumnezeu, Cel care cunoaşte toate lucrurile şi este mai presus de toate lucrurile. Tu eşti Dumnezeu, Cel care Te porţi plin de milostivire cu toate lucrurile, care pune în balanţă toate lucrurile şi a Cărui viziune cuprinde toate lucrurile. Tu eşti Dumnezeu, Stăpânul meu, Tu îmi cunoşti rangul, Tu aduci mărturie fiinţei mele lăuntrice şi exterioare.
 
 Acordă-ne iertarea Ta, mie precum şi celor credincioşi care au răspuns chemării Tale. Fii Tu ajutorul meu, Cel îndeajuns, împotriva uneltirilor oricui ar vrea să-mi pricinuiască durere sau îmi doreşte răul. Cu adevărat, Tu eşti Domnul tuturor lucrurilor create. Tu eşti de ajuns tuturor şi nimeni nu-şi poate ajunge sieşi fără de Tine.
@@ -450,7 +532,10 @@ Acordă-ne iertarea Ta, mie precum şi celor credincioşi care au răspuns chem�
 
 
 
-### <a id="bpn2122"></a> Prayer bpn2122 in România
+
+
+<a id="bpn2122"></a> 
+### Prayer bpn2122 in România
 În Numele lui Dumnezeu, Stăpânul
 maiestăţii copleşitoare, Cel Atotbiruitor. Slăvit fie Domnul în mâna Căruia este izvorul stăpânirii. El aduce în fiinţă tot ceea ce doreşte prin cuvântul poruncii Sale „Fii”, şi este.
 
@@ -478,7 +563,10 @@ Nemăsurat de solemn eşti Tu, o, Doamne! Ocroteşte-ne de ceea ce ne stă înai
 
 
 
-### <a id="bpn2126"></a> Prayer bpn2126 in România
+
+
+<a id="bpn2126"></a> 
+### Prayer bpn2126 in România
 Hărăzeşte, o, Stăpânul meu, mie şi celor care cred în Tine, ceea ce Tu socoteşti că este mai bine pentru noi, după cum ai arătat în Cartea Mamă, căci în mâna Ta ţii măsura dinainte hotărâtă a tuturor lucrurilor.
 
 Darurile Tale pline de frumuseţe sunt revărsate fără încetare asupra celor ce preţuiesc iubirea Ta, iar dovezile minunate ale mărinimiei Tale cereşti sunt acordate cu prisosinţă celor ce recunosc unitatea Ta divină. Am încredinţat grijii Tale tot ceea ce ne-ai menit şi Te implorăm să ne acorzi tot binele pe care cunoaşterea Ta îl cuprinde.
@@ -493,7 +581,10 @@ Nu există nici putere nici tărie decât numai în Dumnezeu, Cel Preaînălţat
 
 
 
-### <a id="bpn2127"></a> Prayer bpn2127 in România
+
+
+<a id="bpn2127"></a> 
+### Prayer bpn2127 in România
 O, Doamne, Dumnezeul meu! Apără-i pe slujitorii Tăi credincioşi de relele egoismului şi patimii; ocroteşte-i cu ochiul vigilent al bunătăţii Tale duioase de orice răutate, ură şi pizmă; adăposteşte-i în fortăreaţa de nebiruit a oblăduirii Tale şi, păzindu-i de săgeţile îndoielii, fă din ei manifestările semnelor Tale glorioase, luminează-le feţele cu razele luminoase revărsate de Aurora unităţii Tale divine, înveseleşte-le inimile cu versetele revelate din sfânta Ta împărăţie, întăreşte-i cu puterea Ta atotstăpânitoare ce emană din tărâmul Tău de Slavă. Tu eşti Cel Atotmărinimos, Ocrotitorul, Cel Tare, Cel Plin de Har.
 
 (Source category: Apărare şi Protecţie)
@@ -502,7 +593,10 @@ O, Doamne, Dumnezeul meu! Apără-i pe slujitorii Tăi credincioşi de relele eg
 
 
 
-### <a id="bpn2128"></a> Prayer bpn2128 in România
+
+
+<a id="bpn2128"></a> 
+### Prayer bpn2128 in România
 El este Cel Îndurător, Cel Atotmărinimos! O, Doamne, Dumnezeul meu! Tu mă vezi, Tu mă cunoşti; Tu eşti Limanul şi Refugiul meu. Pe nimeni n-am căutat şi pe nimeni nu voi căuta în afară de Tine; pe nici o cărare n-am călcat şi pe nici una nu voi călca afară de cărarea iubirii Tale. În întunecoasa noapte a disperării, ochii mei se îndreaptă, aşteptând şi sperând, spre dimineaţa favorii Tale nemărginite, iar la revărsatul zorilor, sufletul meu fără vlagă este împrospătat şi întărit la amintirea frumuseţii şi a desăvârşirii Tale. Cel care este ajutat de harul milostivirii Tale, de-ar fi doar cât o picătură, va deveni un ocean fără margini, iar cel mai simplu atom, dacă este ajutat de revărsarea bunătăţii Tale duioase, va străluci ca o stea luminoasă.
 
 O, Tu, Spirit al Purităţii, Cel Atotmărinimos, Cel care Te îngrijeşti de toţi, adăposteşte-l sub ocrotirea Ta pe acest slujitor supus şi înflăcărat. Ajută-l ca în această lume a existenţei să rămână statornic şi neclintit în iubirea lui pentru Tine şi îngăduie acestei păsărele cu aripile frânte să găsească adăpost şi refugiu în cuibul Tău divin, aşezat în pomul celest.
@@ -514,9 +608,13 @@ O, Tu, Spirit al Purităţii, Cel Atotmărinimos, Cel care Te îngrijeşti de to
 
 
 
+
+
+<a id="Calităţi Spirituale"></a> 
 ## Calităţi Spirituale
 
-### <a id="bpn2137"></a> Prayer bpn2137 in România
+<a id="bpn2137"></a> 
+### Prayer bpn2137 in România
 Din şuvoaiele înmiresmate ale veşniciei Tale lasă-mă să beau, o, Dumnezeul meu, şi din roadele pomului fiinţei Tale îngăduie-mi să gust, o, Tu, Speranţa mea! Din izvoarele cristaline ale iubirii Tale lasă-mă să sorb, o, Slava mea şi la umbra providenţei Tale nepieritoare lasă-mă să stau, o, Lumina mea!
 
 Pe pajiştile apropierii de Tine şi înaintea prezenţei Tale lasă-mă să colind, o, Tu, Preaiubitul meu, şi la dreapta tronului milostivirii Tale aşează-mă, o, Dorinţa mea! Din adierile înmiresmate ale bucuriei Tale, lasă o boare să treacă peste mine, o, ţelul meu, şi pe culmile paradisului realităţii Tale lasă-mă să ajung, o, Tu, Adoratul meu! Lasă-mă să ascult melodiile porumbiţei unicităţii Tale, o, Tu, Cel Strălucitor, şi prin spiritul puterii şi tăriei Tale însufleţeşte-mă, o, Tu, Binefăcătorul meu! În spiritul iubirii Tale fă să rămân statornic, o, Tu, Sprijinul meu, şi pe cărarea bunului Tău plac întăreşte-
@@ -531,7 +629,10 @@ Tu ai puterea de a face ceea ce Îţi place. Tu eşti, cu adevărat, Cel Preasl�
 
 
 
-### <a id="bpn2138"></a> Prayer bpn2138 in România
+
+
+<a id="bpn2138"></a> 
+### Prayer bpn2138 in România
 Crează în mine o inimă curată, o, Doamne, Dumnezeul meu, şi reînnoieşte în mine o conştiinţă senină, o, Tu, Speranţa mea. Prin spiritul puterii, confirmă-mă în Cauza Ta, o, Tu, Cel Iubit şi cu lumina gloriei Tale, dezvăluie-mi calea Ta, o, Tu, ţelul dorinţei mele. Prin virtutea puterii Tale transcendente, înalţă-mă în cerul sfinţeniei Tale, o, Tu, izvorul fiinţei mele, şi cu adierea eternităţii Tale, înveseleşte-mă, o, Tu, Care eşti Dumnezeul meu. Lasă melodiile Tale nepieritoare să-mi aducă liniştea, o, Tu, Însoţitorul meu, lasă bogăţiile străvechiului Tău chip să mă descătuşeze de tot ce nu eşti Tu, o, Tu, Stăpânul meu, şi lasă veştile mari ale revelaţiei Esenţei Tale incoruptibile să-mi aducă bucurie, o, Tu, supremă evidenţă printre cei manifestaţi, o, Tu, cel mai tainic dintre taine.
 
 (Source category: Calităţi Spirituale)
@@ -540,7 +641,10 @@ Crează în mine o inimă curată, o, Doamne, Dumnezeul meu, şi reînnoieşte �
 
 
 
-### <a id="bpn2139"></a> Prayer bpn2139 in România
+
+
+<a id="bpn2139"></a> 
+### Prayer bpn2139 in România
 El este Cel Îngăduitor, Cel Atotmărinimos!
 O, Doamne, Dumnezeul meu! Chemarea Ta m-a atras şi vocea Condeiului Tău de Slavă m-a trezit. şuvoiul sfintei Tale rostiri m-a vrăjit şi vinul inspiraţiei Tale m-a îmbătat. Tu mă vezi, o, Doamne, detaşat de toate lucrurile
 
@@ -556,7 +660,10 @@ Doamne! Nu mă îndepărta de oceanul bogăţiei Tale şi de raiul milostivirii 
 
 
 
-### <a id="bpn2140"></a> Prayer bpn2140 in România
+
+
+<a id="bpn2140"></a> 
+### Prayer bpn2140 in România
 Slăvit fie Numele Tău, o, Doamne Dumnezeul meu! Eu sunt slujitorul Tău care s-a ţinut de funia blândelor Tale milostiviri şi s-a agăţat de poala mărinimiei Tale. Te implor întru numele Tău prin care ai supus toate lucrurile create, văzute şi nevăzute, şi prin care suflarea, ce este viaţă cu adevărat, a adiat asupra întregii creaţii, să mă întăreşti prin puterea Ta ce a cuprins cerurile şi pământul, şi să mă fereşti de orice boală şi durere. Stau mărturie că Tu eşti Stăpânul tuturor numelor şi Rânduitorul a tot ceea ce-ţi este pe plac. Nu există alt Dumnezeu în afară de Tine, Cel Tare, Cel Atotştiutor, Cel Atotînţelept.
 
 Hărăzeşte-mi, o, Domnul meu, ceea ce-mi va fi de folos în fiecare dintre lumile Tale. Dă-mi, atunci, ceea ce ai poruncit pentru cei aleşi între făpturile Tale, pe care nici osânda asupritorilor, nici zarva necredincioşilor, nici înstrăinarea celor ce s-au îndepărtat de Tine nu i-au împiedicat a se întoarce spre Tine.
@@ -569,7 +676,10 @@ Tu eşti, cu adevărat, prin puterea suveranităţii Tale, Ajutorul în Primejdi
 
 
 
-### <a id="bpn2141"></a> Prayer bpn2141 in România
+
+
+<a id="bpn2141"></a> 
+### Prayer bpn2141 in România
 O, Dumnezeul meu, Dumnezeul mărinimiei şi al milostivirii! Tu eşti acel Rege prin al Cărui cuvânt poruncitor întreaga creaţie a fost chemată în fiinţă; şi Tu eşti Acel Atotmărinimos pe care faptele slujitorilor Săi nu L-au împiedicat vreodată să-şi arate bunăvoinţa şi nici n-au zădărnicit revelările mărinimiei Sale.
 
 Îngăduie acestui slujitor, Te implor, să ajungă la ceea ce va fi pricina mântuirii sale în fiecare dintre lumile Tale. Tu eşti, cu adevărat, Cel Tare, Cel Preaputernic, Cel Atotştiutor, Cel Atotînţelept.
@@ -580,7 +690,10 @@ O, Dumnezeul meu, Dumnezeul mărinimiei şi al milostivirii! Tu eşti acel Rege 
 
 
 
-### <a id="bpn2142"></a> Prayer bpn2142 in România
+
+
+<a id="bpn2142"></a> 
+### Prayer bpn2142 in România
 Dumnezeu este Cel care aude rugăciunea şi răspunde rugăciunii! Pe slava Ta, o, Preaiubitule, Tu dătătorule de lumină lumii! Flăcările despărţirii de Tine m-au mistuit şi îndărătnicia mea a topit inima din mine. Te rog, întru Cel Mai Mare Nume al Tău, o, Tu Dorinţa lumii şi Preaiubitul omenirii, să îngădui ca adierea inspiraţiei Tale să poată susţine sufletul meu, ca vocea Ta minunată să poată ajunge la urechea mea, ca ochii mei să poată privi semnele Tale şi lumina Ta, aşa cum este revelată în manifestările numelor şi atributelor Tale, o, Tu în a cărui mână se află toate lucrurile!
 
 Tu vezi, o, Doamne, Dumnezeul meu, lacrimile celor privilegiaţi de Tine, vărsate din cauza despărţirii lor de Tine şi temerile celor ce-ţi sunt devotaţi în depărtarea lor de Curtea Ta Sfântă. Pe puterea Ta ce stăpâneşte toate lucrurile văzute şi nevăzute! Se cuvine celor iubiţi de Tine să verse lacrimi de sânge pentru ceea ce s-a abătut asupra credincioşilor din partea celor răi şi a asupritorilor de pe pământ. Tu priveşti, o, Dumnezeul meu, cum necredincioşii au cuprins oraşele şi tărâmurile Tale! Te rog întru Mesagerii Tăi şi aleşii Tăi şi pe Cel prin care stindardul unităţii Tale divine a fost înfipt în mijlocul slujitorilor Tăi, să-i aperi prin mărinimia Ta. Tu eşti, cu adevărat, Cel Îngăduitor, Cel Atotmărinimos.
@@ -597,7 +710,10 @@ Tu eşti cu adevărat Cel Tare, Cel Îngăduitor, Cel Plin de Compasiune.
 
 
 
-### <a id="bpn2151"></a> Prayer bpn2151 in România
+
+
+<a id="bpn2151"></a> 
+### Prayer bpn2151 in România
 Asupra Ta fie slava, o, Doamne Dumnezeul meu! Te implor, întru semnele Tale care cuprind întreaga creaţie; şi întru lumina chipului Tău care i-a iluminat pe toţi cei ce sunt în cer şi pe pământ; şi întru milostivirea Ta care a întrecut toate lucrurile create; şi întru harul Tău care s-a revărsat asupra întregului univers, să sfâşii vălurile care m-au despărţit de Tine, ca să mă pot grăbi spre izvorul puternicei Tale inspiraţii şi către Aurora Revelaţiei Tale şi a favorurilor Tale pline de mărinimie, şi să pot fi cufundat în Oceanul apropierii de Tine şi al placului Tău.
 
 Nu îngădui, o Domnul meu, să fiu lipsit de cunoaşterea de Tine în vremea zilelor Tale, şi nu mă despuia de veşmântul călăuzirii Tale. Dă-mi să beau din râul care este viaţă cu adevărat, ale căruit ape au ţâşnit din Paradisul5 în care tronul numelui Tău, Cel Atotmilostiv, a fost întemeiat, ca ochii mei să se poată deschide, ca faţa mea să poată fi luminată, şi inima mea încredinţată, şi sufletul meu iluminat, şi paşii mei statornici.
@@ -612,7 +728,10 @@ Tu eşti Marele Dăruitor, Cel ce veşnic Iartă, Cel Plin de Compasiune.
 
 
 
-### <a id="bpn2152"></a> Prayer bpn2152 in România
+
+
+<a id="bpn2152"></a> 
+### Prayer bpn2152 in România
 Ţie îţi aduc laudă, o, Dumnezeul meu, pentru că mireasma bunătăţii Tale duioase m-a desfătat şi blândele adieri ale milostivirii Tale m-au înclinat în direcţia mărinimoaselor Tale favoruri. Fă-mă să beau, o, Domnul meu, din mâinile dărniciei Tale, apa vie ce i-a îngăduit fiecărui om ce s-a împărtăşit din ea să se cureţe de ataşamentul pentru oricine în afară de Tine; şi să-şi înalţe zborul în atmosfera detaşării de toate făpturile Tale; şi să-şi aţintească privirea asupra providenţei Tale iubitoare şi a nenumăratelor Tale daruri.
 
 Fă-mă pregătit, în toate împrejurările, o, Stăpânul meu, să Te slujesc şi să mă îndrept către sanctuarul adorat al Revelaţiei Tale şi al Frumuseţii Tale. De va fi plăcerea Ta, fă-mă să cresc asemenea unei fragede plante pe pajiştile harului Tău, ca blândele adieri ale voinţei Tale să mă înfioare şi să mă aplece după bunul Tău plac, astfel încât mişcarea şi neclintirea mea să fie întru totul poruncite de Tine.
@@ -635,7 +754,10 @@ Tu eşti, cu adevărat, Cel Tare, Cel Preaînălţat, Cel Atotştiutor, Cel Atot
 
 
 
-### <a id="bpn2153"></a> Prayer bpn2153 in România
+
+
+<a id="bpn2153"></a> 
+### Prayer bpn2153 in România
 Slăvit fii Tu, Doamne, pentru că ţi-ai arătat iubirea faţă de omenire! O, Tu care eşti Viaţa şi Lumina noastră, călăuzeşte-i pe slujitorii Tăi pe calea Ta, îmbogăţeşte-ne prin Tine şi eliberează-ne de orice în afară de Tine.
 
 O, Dumnezeule, învaţă-ne Unicitatea Ta şi fă-ne să înţelegem Unitatea Ta, ca să nu vedem pe nimeni altul afară de Tine. Tu eşti Cel Milostiv, Cel Darnic.
@@ -652,7 +774,10 @@ Cu adevărat în Tine găsim mângâiere şi tărie.
 
 
 
-### <a id="bpn2143"></a> Prayer bpn2143 in România
+
+
+<a id="bpn2143"></a> 
+### Prayer bpn2143 in România
 Acordă-mi, o, Dumnezeul meu, întreaga măsură a iubirii Tale şi a bunului Tău plac, iar prin farmecul luminii Tale strălucitoare vrăjeşte-ne inimile, o, Tu Ce eşti Dovada Supremă şi Cel Atotslăvit. Pogoară asupra mea, ca o mărturie a harului Tău, adierile Tale înviorătoare, în timpul zilei şi la vreme de noapte, o Stăpân al dărniciei.
 
 Nici o faptă n-am făptuit, o, Dumnezeul meu, pentru a merita să-ţi privesc faţa şi ştiu cu certitudine că de-ar fi să trăiesc atât cât lumea va dura, n-aş reuşi să îndeplinesc vreo faptă care să merite această favoare, întrucât rangul slujitorului nu poate avea vreodată acces la sfintele Tale hotare, afară numai dacă mărinimia Ta mă va atinge şi blânda Ta milostivire mă va pătrunde şi bunătatea Ta iubitoare mă va înconjura.
@@ -667,7 +792,10 @@ Toată lauda fie cu Tine, o, Tu pe lângă Care nu se află nici un alt Dumnezeu
 
 
 
-### <a id="bpn2150"></a> Prayer bpn2150 in România
+
+
+<a id="bpn2150"></a> 
+### Prayer bpn2150 in România
 Slăvit fie Numele Tău, o, Doamne!
 La cine să caut refugiu când Tu eşti cu adevărat Dumnezeul meu preaiubit; spre cine să mă îndrept pentru adăpost când Tu eşti Dumnezeul şi Stăpânul meu; şi la cine să alerg când Tu eşti cu adevărat Comoara şi ţinta dorinţei mele; şi de la cine altul să cer când Tu eşti aspiraţia mea cea mai înaltă şi dorinţa mea supremă? Orice speranţă a fost spulberată afară de dorul pentru harul Tău ceresc şi orice uşă e închisă afară de poarta ce duce către izvorul binecuvântărilor Tale.
 
@@ -681,7 +809,10 @@ Adevărat, nu există nici putere şi nici tărie decât în Tine.
 
 
 
-### <a id="bpn2135"></a> Prayer bpn2135 in România
+
+
+<a id="bpn2135"></a> 
+### Prayer bpn2135 in România
 O, Doamne! Înviorează şi înveseleşte-mi sufletul. Purifică-mi inima. Luminează-mi mintea. În mâinile Tale las toate treburile mele. Tu eşti Călăuza şi Refugiul meu. Nu vreau să mă mai las pradă tristeţii şi amărăciunii, ci vreau să fiu plin de bucurie şi fericire. O, Doamne, Dumnezeule! Nu vreau să mai fiu cuprins de teamă şi nici să mai las necazurile să mă copleşească. Nu vreau să mai stărui asupra neplăcerilor vieţii.
 
 O, Doamne! Tu eşti pentru mine un prieten mai bun decât sunt eu însumi pentru mine. ţie îţi închin viaţa, Doamne, Dumnezeul meu!
@@ -692,7 +823,10 @@ O, Doamne! Tu eşti pentru mine un prieten mai bun decât sunt eu însumi pentru
 
 
 
-### <a id="bpn2136"></a> Prayer bpn2136 in România
+
+
+<a id="bpn2136"></a> 
+### Prayer bpn2136 in România
 O, Domnul meu! O, Stăpânul meu!
 Aceasta este o lampă aprinsă de focul iubirii Tale şi învăluită de flacăra ce-a ţâşnit din copacul milostivirii Tale. O, Domnul meu! Sporeşte-i lumina, căldura şi flacăra cu focul ce este aprins în Sinaiul Manifestării Tale. Cu adevărat, Tu eşti Cel care confirmă,
 
@@ -704,7 +838,10 @@ Cel ce ajută, Cel Puternic, Cel Generos, Cel care iubeşte.
 
 
 
-### <a id="bpn2144"></a> Prayer bpn2144 in România
+
+
+<a id="bpn2144"></a> 
+### Prayer bpn2144 in România
 O, Doamne Dumnezeul meu! O, Doamne Dumnezeul meu! Slava fie cu Tine căci m-ai confirmat în mărturisirea unicităţii Tale, m-ai atras spre cuvântul singularităţii Tale, m-ai înflăcărat cu focul iubirii Tale şi mi-ai dat ca ocupaţie pomenirea Ta şi slujirea prietenilor şi a slujitoarelor Tale.
 
 O, Doamne, ajută-mă să fiu smerit şi modest şi întăreşte-mă să mă detaşez de toate lucrurile şi să mă ţin de poala veşmântului slavei Tale, încât inima să mi se umple de iubirea Ta astfel să nu mai existe nici un loc pentru iubirea de lume sau ataşamentul faţă de calităţile sale.
@@ -719,7 +856,10 @@ Cu adevărat, Tu eşti milostiv şi cu adevărat, Tu eşti Cel Preageneros al C�
 
 
 
-### <a id="bpn2145"></a> Prayer bpn2145 in România
+
+
+<a id="bpn2145"></a> 
+### Prayer bpn2145 in România
 O, Doamne Dumnezeul meu!
 O, Doamne Dumnezeul meu! Acest slujitor al Tău a înaintat către Tine, rătăceşte cu patimă în deşertul iubirii Tale, merge pe calea slujirii Tale, aşteptând favorurile Tale, sperând la mărinimia Ta, bizuindu-se pe împărăţia Ta şi îmbătat de vinul darurilor Tale. O, Dumnezeul meu! Sporeşte ardoarea afecţiunii lui pentru Tine, perseverenţa lui în slăvirea Ta şi ardoarea iubirii lui pentru Tine.
 
@@ -731,7 +871,10 @@ Cu adevărat, Tu eşti Cel Preageneros, Stăpânul Harului îmbelşugat. Nu exis
 
 
 
-### <a id="bpn2146"></a> Prayer bpn2146 in România
+
+
+<a id="bpn2146"></a> 
+### Prayer bpn2146 in România
 O, Doamne, Dumnezeul meu! Acesta este slujitorul Tău radios, robul Tău spiritual care s-a apropiat de Tine şi de prezenţa Ta. şi-a întors faţa către Tine, a recunoscut unicitatea Ta, a mărturisit singularitatea Ta, a proclamat în numele Tău în mijlocul naţiunilor şi a condus oamenii către şuvoaiele milostivirii Tale. O, Tu Stăpâne Preageneros! Celor care au cerut le-ai dat să bea din cupa călăuzirii ce se revarsă de vinul harului Tău nesecat.
 
 O, Doamne, asistă-l în toate condiţiile, fă-l să înveţe misterele Tale bine păzite şi revarsă asupra lui perlele Tale ascunse. Fă-l un stindard ce unduieşte pe meterezele castelelor în bătaia vânturilor ajutorului Tău ceresc, fă-l o fântână de ape cristaline.
@@ -746,7 +889,10 @@ Cu adevărat, Tu eşti Cel Tare, Cel Puternic, Protectorul, Cel Trainic, Cel Bin
 
 
 
-### <a id="bpn2147"></a> Prayer bpn2147 in România
+
+
+<a id="bpn2147"></a> 
+### Prayer bpn2147 in România
 O, Doamne Dumnezeul meu! Aceştia sunt plăpânzii Tăi slujitori; ei sunt sclavii Tăi loiali şi slujitoarele Tale ce s-au înclinat înaintea Rostirii Tale preamărite şi s-au smerit la Pragul Tău de lumină, şi au adus mărturie unicităţii Tale prin care Soarele a fost făcut să strălucească în splendoarea lui vernală. Ei au ascultat îndemnurile pe care le-ai înălţat din Tărâmul Tău tainic şi cu inimile vibrând de iubire şi desfătare au răspuns chemării Tale.
 
 O, Doamne, cerne asupra lor şuvoaiele milostivirii Tale, revarsă asupra lor apele binecuvântărilor Tale. Ajută-i să crească asemeni unor plante minunate în grădina raiului, şi din norii grei ai darurilor Tale şi din oceanele adânci ale harului Tău îmbelşugat fă această grădină să înflorească şi păstreaz-o pentru vecie verde şi strălucitoare, veşnic tânără, pură şi atrăgătoare.
@@ -759,7 +905,10 @@ Tu eşti, cu adevărat, Cel Tare, Cel Preaslăvit, Cel Puternic, Cel ce singur s
 
 
 
-### <a id="bpn2148"></a> Prayer bpn2148 in România
+
+
+<a id="bpn2148"></a> 
+### Prayer bpn2148 in România
 El este Dumnezeu! O, Doamne
 Dumnezeul meu! Aceştia sunt slujitori care în vremea zilelor Tale au fost atraşi de miresmele sfinţeniei Tale, aprinşi de flacăra arzândă în copacul Tău sfânt, răspunzând vocii Tale, rostind laude pentru Tine, treziţi de adierea Ta, răscoliţi de dulcile Tale arome privind semnele Tale, înţelegând versetele Tale, grăbindu-se să dea ascultare cuvintelor Tale, crezând în Revelaţia Ta şi încredinţaţi de bunătatea Ta duioasă. Ochii lor, o, Doamne, sunt aţintiţi asupra împărăţiei gloriei Tale strălucitoare, iar feţele lor s-au îndreptat către stăpânirea Ta din înalturi, inimile lor bat din iubire pentru frumuseţea Ta strălucitoare şi glorioasă, sufletele lor sunt mistuite de flacăra iubirii Tale, o, Stăpâne al acestei lumi şi a lumii ce va să fie, vieţile lor clocotesc cu ardoare de dorul lor pentru Tine şi lacrimile lor curg de dragul Tău.
 
@@ -773,7 +922,10 @@ O, Doamne Dumnezeul meu! Umili sunt aceşti slujitori ai Tăi, ridică-i în îm
 
 
 
-### <a id="bpn2149"></a> Prayer bpn2149 in România
+
+
+<a id="bpn2149"></a> 
+### Prayer bpn2149 in România
 O, Tu Cel ce Dăruieşti! Tu ai suflat asupra prietenilor din vest dulcile miresme ale Sfântului Spirit şi cu lumina divinei călăuziri ai luminat cerul occidentului. Tu i-ai făcut pe cei ce odată au stat departe să se apropie de Tine; Tu i-ai preschimbat pe străini în prieteni iubitori; Tu i-ai trezit pe cei care dormeau; Tu i-ai făcut pe cei nesocotiţi să ia aminte.
 
 O, Tu Cel ce Dăruieşti! Asistă-i pe aceşti nobili prieteni să câştige bunul Tău plac şi fă-i să dorească binele atât pentru prieteni cât şi pentru străini. Hărăzeşte-le existenţa ce va domni veşnic; dă-le o porţie a harului Tău ceresc; fă-i să fie adevăraţi bahá’í, ai lui Dumnezeu cu sinceritate; apără-i de asemănări superficiale şi întăreşte-i cu statornicie în adevăr. Fă-i semne şi mărturii ale Împărăţiei, stele luminoase deasupra orizontului acestei vieţi pământeşti. Fă-i să fie mângâierea şi alinarea omenirii şi slujitori pentru pacea lumii. Înflăcărează-i cu focul sfatului Tău şi îngăduie ca toţi să poată merge pe calea poruncilor Tale.
@@ -788,7 +940,10 @@ Tu eşti cu adevărat Cel Tare, Cel Atotştiutor, Cel Preaputernic şi Cel Atotv
 
 
 
-### <a id="bpn2154"></a> Prayer bpn2154 in România
+
+
+<a id="bpn2154"></a> 
+### Prayer bpn2154 in România
 O, Doamne, suntem slabi: întăreşte-ne!
 O, Dumnezeule, suntem neştiutori: instruieşte-ne! O, Doamne, suntem săraci: fă-ne bogaţi! O, Dumnezeule, suntem morţi: însufleţeşte-ne! O, Doamne, suntem umilinţa însăşi: dă-ne slavă în Împărăţia Ta! Dacă ne vei ajuta, Doamne, vom deveni asemenea unor stele strălucitoare, iar fără ajutorul Tău vom ajunge mai prejos decât pulberea pământului. O, Doamne, întăreşte-ne! O, Dumnezeule, ajută-ne să dobândim victoria! O, Doamne, dă-ne putinţa de a ne învinge egoismul şi de a ne stăpâni dorinţele! O, Dumnezeule, eliberează-ne de sclavia lumii materiale! O, Doamne, reînsufleţeşte-ne cu suflarea sfântului Spirit ca să ne putem ridica pentru a Te sluji şi a Te preamări şi a lucra cu cea mai deplină sinceritate, în Împărăţia Ta. O, Doamne, Tu eşti Cel Puternic! O, Doamne, Tu eşti Cel Iertător! O, Doamne, Tu eşti Cel Milostiv!
 
@@ -799,9 +954,13 @@ O, Dumnezeule, suntem neştiutori: instruieşte-ne! O, Doamne, suntem săraci: f
 
 
 
+
+
+<a id="Cartea Legământului"></a> 
 ## Cartea Legământului
 
-### <a id="bpn2305"></a> Prayer bpn2305 in România
+<a id="bpn2305"></a> 
+### Prayer bpn2305 in România
 Kitáb-i-‘Ahd
 Împărăţia Slavei nu cunoaşte deşertăciunile lumeşti; totuşi, cuprinsă în comoara încrederii şi resemnării, Noi am lăsat urmaşilor Noştri o moştenire măreaţă şi nepreţuită. Comorile ei nu sunt dintre cele pământeşti, sporind astfel grijile pe care le conţin acestea. Gândiţi-vă şi aduceţi-vă aminte de ceea ce a revelat Cel Atotmilostiv în Coran: „Blestemul fie pe capul defăimătorului şi calomniatorului, al aceluia ce adună şi socoteşte bogăţii”13. Trecătoare sunt bogăţiile lumii; tot ce e pieritor şi schimbător nu este şi n-a fost vreodată demn de atenţie, decât într-o măsură bine stabilită.
 
@@ -836,9 +995,13 @@ Neînţelegerile şi vrăjmăşia sunt cu desăvârşire interzise de Cartea Sa.
 
 
 
+
+
+<a id="Copii şi Tineri"></a> 
 ## Copii şi Tineri
 
-### <a id="bpn2168"></a> Prayer bpn2168 in România
+<a id="bpn2168"></a> 
+### Prayer bpn2168 in România
 Lăudat fii Tu, o, Doamne Dumnezeul meu!
 Îngăduie cu bunăvoinţă ca acest prunc să fie alăptat la sânul blândei Tale milostiviri şi al providenţei Tale iubitoare, şi să fie hrănit cu roadele pomilor Tăi cereşti. Nu îngădui ca el să fie încredinţat grijii nimănui altcuiva decât Tine, căci Tu Însuţi, prin puterea voinţei şi tăriei Tale suverane, l-ai creat şi l-ai chemat întru fiinţă. Nu există alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Atotştiutor.
 
@@ -850,7 +1013,10 @@ Lăudat eşti Tu, o, Preaiubitul meu, adie peste el dulcile arome ale mărinimie
 
 
 
-### <a id="bpn2162"></a> Prayer bpn2162 in România
+
+
+<a id="bpn2162"></a> 
+### Prayer bpn2162 in România
 O, Doamne, Dumnezeule! Creşte acest prunc la pieptul iubirii Tale şi dă-i lapte de la sânul Providenţei Tale. Creşte această fragedă plantă în grădina de trandafiri a iubirii Tale şi ajut-o să crească cu ploile bogate ale mărinimiei Tale. Fă din el un copil al Împărăţiei şi călăuzeşte-l spre tărâmul Tău ceresc. Tu eşti puternic şi bun şi Tu eşti Cel Darnic, Cel Generos, Dumnezeul mărinimiei fără de egal.
 
 (Source category: Copii şi Tineri)
@@ -859,7 +1025,10 @@ O, Doamne, Dumnezeule! Creşte acest prunc la pieptul iubirii Tale şi dă-i lap
 
 
 
-### <a id="bpn2163"></a> Prayer bpn2163 in România
+
+
+<a id="bpn2163"></a> 
+### Prayer bpn2163 in România
 O, Doamne, Dumnezeule! Educă-i pe aceşti copii. Aceşti copii sunt plantele livezii Tale, florile poienii Tale, trandafirii grădinii Tale. Lasă ploaia Ta să cadă peste ei; lasă Soarele Adevărului să strălucească peste ei cu dragostea Ta. Lasă adierea Ta să-i învioreze astfel încât să fie educaţi, să crească, să se dezvolte şi să devină pure manifestări ale frumuseţii Tale. Tu eşti Cel Ce Dăruie. Tu eşti Cel Îndurător.
 
 (Source category: Copii şi Tineri)
@@ -868,7 +1037,10 @@ O, Doamne, Dumnezeule! Educă-i pe aceşti copii. Aceşti copii sunt plantele li
 
 
 
-### <a id="bpn2164"></a> Prayer bpn2164 in România
+
+
+<a id="bpn2164"></a> 
+### Prayer bpn2164 in România
 O, Doamne, Dumnezeule! Călăuzeşte-mă, ocroteşte-mă, luminează lampa inimii mele şi fă din mine o stea strălucitoare. Tu eşti Cel Tare şi Puternic!
 
 (Source category: Copii şi Tineri)
@@ -877,7 +1049,10 @@ O, Doamne, Dumnezeule! Călăuzeşte-mă, ocroteşte-mă, luminează lampa inimi
 
 
 
-### <a id="bpn2165"></a> Prayer bpn2165 in România
+
+
+<a id="bpn2165"></a> 
+### Prayer bpn2165 in România
 O, Doamne! Acordă acestui tânăr strălucire şi dăruieşte mărinimia Ta acestei biete făpturi. Dăruieşte-i cunoaştere, dă-i putere sporită în zorii fiecărei dimineţi şi pune-l la adăpostul ocrotirii Tale, ca să fie ferit de orice eroare, să se poată consacra slujirii Cauzei Tale, să-l călăuzească pe cel rătăcit, să-l sprijine pe cel nenorocit, să-l elibereze pe cel captiv şi să-l trezească pe cel nesocotit, astfel ca toţi să poată fi binecuvântaţi prin pomenirea şi slăvirea Ta. Tu eşti Cel Tare şi Puternic.
 
 (Source category: Copii şi Tineri)
@@ -886,7 +1061,10 @@ O, Doamne! Acordă acestui tânăr strălucire şi dăruieşte mărinimia Ta ace
 
 
 
-### <a id="bpn2166"></a> Prayer bpn2166 in România
+
+
+<a id="bpn2166"></a> 
+### Prayer bpn2166 in România
 O, Doamne neasemuit! Fii adăpost pentru acest biet copil şi un Stăpân bun şi iertător pentru acest suflet păcătos şi nefericit. O, Doamne! Deşi suntem doar plante neînsemnate, totuşi aparţinem grădinii Tale de trandafiri. Deşi suntem doar vlăstare fără frunze sau flori, totuşi aparţinem livezii Tale. Hrăneşte deci această plantă prin revărsările norilor blândei tale milostiviri şi înviorează şi animă acest vlăstar prin adierea înviorătoare a primăverii Tale spirituale. Îngăduie-i să devină atent, nobil şi plin de discernământ şi fă să poată atinge viaţa veşnică şi să sălăşluiască în Împărăţia Ta pentru vecie.
 
 (Source category: Copii şi Tineri)
@@ -895,7 +1073,10 @@ O, Doamne neasemuit! Fii adăpost pentru acest biet copil şi un Stăpân bun ş
 
 
 
-### <a id="bpn2167"></a> Prayer bpn2167 in România
+
+
+<a id="bpn2167"></a> 
+### Prayer bpn2167 in România
 O, Doamne! Sădeşte această fragedă mlădiţă în grădina multelor Tale daruri, ud-o din fântâna bunătăţii Tale duioase şi îngăduie-i să crească o plantă minunată cu ajutorul revărsărilor harului şi favorii Tale.
 
 Tu eşti Cel Tare şi Cel Puternic.
@@ -906,7 +1087,10 @@ Tu eşti Cel Tare şi Cel Puternic.
 
 
 
-### <a id="bpn2169"></a> Prayer bpn2169 in România
+
+
+<a id="bpn2169"></a> 
+### Prayer bpn2169 in România
 O, Doamne, Dumnezeul meu! O, Doamne, Dumnezeul meu! Sunt un copil de vârstă fragedă. Hrăneşte-mă la pieptul milostivirii Tale, instruieşte-mă la sânul iubirii Tale, educă-mă la şcoala călăuzirii Tale şi ajută-mă să mă dezvolt la umbra mărinimiei Tale. Eliberează-mă din întunecime şi fă din mine o lumină strălucitoare; eliberează-mă de nefericire şi fă din mine o floare în grădina Ta de trandafiri; îngăduie să devin un slujitor la Pragul Tău şi acordă-mi calităţile şi firea celor drepţi; fă din mine un temei al generozităţii Tale pentru lumea oamenilor şi aşează-mi pe cap diadema vieţii veşnice.
 
 Cu adevărat, Tu eşti Cel Puternic, Cel Tare, Cel Ce Vede, Cel Ce Aude.
@@ -917,7 +1101,10 @@ Cu adevărat, Tu eşti Cel Puternic, Cel Tare, Cel Ce Vede, Cel Ce Aude.
 
 
 
-### <a id="bpn2170"></a> Prayer bpn2170 in România
+
+
+<a id="bpn2170"></a> 
+### Prayer bpn2170 in România
 - ‘Abdu’l-Bahá
 O, Tu Stăpâne preaslăvit! Fă ca această mică slujitoare a Ta să fie binecuvântată şi fericită; fă ca ea să fie îndrăgită la pragul unicităţii Tale şi îngăduie-i să soarbă adânc din cupa iubirii Tale, ca să se umple de desfătare şi extaz şi să răspândească miresme dulci-mirositoare. Tu eşti Cel Tare şi Cel Puternic şi Tu eşti Cel Atotştiutor, Cel Atoatevăzător.
 
@@ -927,7 +1114,10 @@ O, Tu Stăpâne preaslăvit! Fă ca această mică slujitoare a Ta să fie binec
 
 
 
-### <a id="bpn2171"></a> Prayer bpn2171 in România
+
+
+<a id="bpn2171"></a> 
+### Prayer bpn2171 in România
 - ‘Abdu’l-Bahá
 O, Tu Stăpâne neasemuit! Îngăduie acestui prunc sugar să fie alăptat la sânul bunătăţii Tale duioase, ocroteşte-l în leagănul siguranţei şi ocrotirii Tale şi îngăduie să fie crescut în braţele blândei Tale afecţiuni.
 
@@ -937,7 +1127,10 @@ O, Tu Stăpâne neasemuit! Îngăduie acestui prunc sugar să fie alăptat la s�
 
 
 
-### <a id="bpn2172"></a> Prayer bpn2172 in România
+
+
+<a id="bpn2172"></a> 
+### Prayer bpn2172 in România
 - ‘Abdu’l-Bahá
 O, Tu Stăpâne bun! Aceşti copii adorabili sunt lucrarea degetelor tăriei Tale şi semnele minunate ale măreţiei Tale. O, Doamne! Ocroteşte aceşti copii, asistă-i cu harul Tău să fie educaţi şi îngăduie-le să slujească lumea umanităţii. O, Doamne! Aceşti copii sunt perle, fă-i să crească la adăpostul bunătăţii Tale duioase.
 
@@ -949,7 +1142,10 @@ Tu eşti Cel Darnic, Cel Atoateiubitor.
 
 
 
-### <a id="bpn2173"></a> Prayer bpn2173 in România
+
+
+<a id="bpn2173"></a> 
+### Prayer bpn2173 in România
 - ‘Abdu’l-Bahá
 O, Tu, Stăpâne bun! Cu bunăvoinţa Ta dăruieşte acestor pui o pereche de aripi cereşti şi dă-le putere spirituală ca să-şi poată înălţa zborul prin spaţiul nemărginit şi să plutească spre înălţimile Împărăţiei Abhá6.
 
@@ -963,7 +1159,10 @@ Tu eşti Cel Tare şi Cel Puternic, Tu eşti Cel ce Dăruieşte şi Cel Atoateiu
 
 
 
-### <a id="bpn2174"></a> Prayer bpn2174 in România
+
+
+<a id="bpn2174"></a> 
+### Prayer bpn2174 in România
 - ‘Abdu’l-Bahá
 O, Stăpânul meu milostiv! Această zambilă a răsărit în grădina bunului Tău plac şi această rămurică a crescut în livada adevăratei cunoaşteri. O, Stăpân al mărinimiei, fă să fie înviorată mereu şi fără încetare de adierile Tale însufleţitoare şi fă-o verde, proaspătă şi înfloritoare prin revărsările norilor favorurilor Tale, o, Tu Stăpâne bun!
 
@@ -975,7 +1174,10 @@ Cu adevărat, Tu eşti Cel Atotslăvit.
 
 
 
-### <a id="bpn2175"></a> Prayer bpn2175 in România
+
+
+<a id="bpn2175"></a> 
+### Prayer bpn2175 in România
 - ‘Abdu’l-Bahá
 El este Dumnezeu! O, Doamne, Dumnezeul meu! O, Doamne Dumnezeul meu! Tu vezi aceşti copii care sunt rămurelele pomului vieţii, păsările păşunilor mântuirii, perlele oceanului harului Tău, trandafirii grădinii călăuzirii Tale.
 
@@ -989,7 +1191,10 @@ Yá Bahá’u’l-Abhá7!
 
 
 
-### <a id="bpn2176"></a> Prayer bpn2176 in România
+
+
+<a id="bpn2176"></a> 
+### Prayer bpn2176 in România
 - ‘Abdu’l-Bahá
 O, Doamne! Ocroteşte copiii care se nasc în Ziua Ta, sunt crescuţi la sânul iubirii Tale şi sunt îngrijiţi la pieptul harului Tău.
 
@@ -1003,7 +1208,10 @@ Tu eşti, cu adevărat, Cel Generos, Cel Blând, Cel Îndurător.
 
 
 
-### <a id="bpn2177"></a> Prayer bpn2177 in România
+
+
+<a id="bpn2177"></a> 
+### Prayer bpn2177 in România
 - ‘Abdu’l-Bahá
 O, Tu Dumnezeule preacurat! Sunt un mic copil; îngăduie ca sânul ce-l îndrăgesc să fie sânul bunătăţii Tale duioase; îngăduie să fiu hrănit cu mierea şi cu laptele iubirii Tale; creşte-mă la pieptul cunoaşterii Tale şi dăruieşte-mi nobleţe şi înţelepciune cât sunt încă copil.
 
@@ -1015,7 +1223,10 @@ O, Tu Dumnezeule ce-ţi eşti ţie Însuţi îndeajuns! Fă din mine un slujitor
 
 
 
-### <a id="bpn2178"></a> Prayer bpn2178 in România
+
+
+<a id="bpn2178"></a> 
+### Prayer bpn2178 in România
 - ‘Abdu’l-Bahá
 O, Doamne! Fă din aceşti copii plante desăvârşite. Îngăduie-le şi dăruieşte-le prospeţime şi frumuseţe prin revărsările norilor Împărăţiei Abhá8.
 
@@ -1029,7 +1240,10 @@ Tu eşti Cel Puternic, Cel Atoateiubitor.
 
 
 
-### <a id="bpn2179"></a> Prayer bpn2179 in România
+
+
+<a id="bpn2179"></a> 
+### Prayer bpn2179 in România
 - ‘Abdu’l-Bahá
 O, Doamne Dumnezeul meu!
 Noi suntem copiii ce am sorbit laptele cunoaşterii divine de la sânul iubirii Tale şi am fost primiţi în Împărăţia Ta pe când aveam o vârstă fragedă. Te implorăm la vreme de zi şi în ceas de noapte spunând: O, Doamne! Fă paşii noştri statornici în Credinţa Ta, protejează-ne în fortăreaţa ocrotirii Tale, hrăneşte-ne la masa Ta cerească, îngăduie-ne să devenim semne ale călăuzirii divine şi lămpi aprinse de buna purtare, şi ajută-ne cu puterea îngerilor Tăi, o, Tu ce eşti Domnul tăriei şi maiestăţii!
@@ -1042,7 +1256,10 @@ Cu adevărat Tu eşti Cel Darnic, Cel Milostiv, Cel Îndurător.
 
 
 
-### <a id="bpn2180"></a> Prayer bpn2180 in România
+
+
+<a id="bpn2180"></a> 
+### Prayer bpn2180 in România
 O, Tu Stăpâne bun! Noi suntem bieţi copii, nevoiaşi şi neînsemnaţi, dar totuşi suntem plante ce am încolţit datorită şuvoiului Tău ceresc şi mlădiţe tâşnind în floare în timpul primăverii Tale divine. Fă-ne proaspeţi şi verzi prin revărsările norilor milostivirii Tale; ajută-ne să creştem şi să ne dezvoltăm prin razele soarelui darurilor Tale minunate şi fă-ne să fim învioraţi de brizele însufleţitoare adiind dinspre păşunile Adevărului. Îngăduie să devenim pomi înfloritori încărcaţi de roade în livada cunoaşterii, stele scânteietoare sclipind deasupra orizontului fericirii veşnice şi lămpi strălucitoare aruncându-şi lumina asupra adunării oamenilor.
 
 O, Doamne! De-ar fi ca blânda Ta grijă să ne fie acordată, fiecare dintre noi, asemenea unui vultur, s-ar ridica în zbor la piscul cunoaşterii, dar de-am fi lăsaţi în voia sorţii, ne-am risipi şi am cădea în greşeală şi zădărnicie. Orice suntem de la Tine purcedem şi înaintea pragului Tău căutăm refugiu.
@@ -1055,7 +1272,10 @@ Tu eşti Cel Darnic, Cel Ce Dăruieşte, Cel Atoateiubitor.
 
 
 
-### <a id="bpn2181"></a> Prayer bpn2181 in România
+
+
+<a id="bpn2181"></a> 
+### Prayer bpn2181 in România
 El este Dumnezeu! O, Doamne Dumnezeul meu! Dăruieşte-mi o inimă curată, asemenea unei perle.
 
 (Source category: Copii şi Tineri)
@@ -1064,7 +1284,10 @@ El este Dumnezeu! O, Doamne Dumnezeul meu! Dăruieşte-mi o inimă curată, asem
 
 
 
-### <a id="bpn2182"></a> Prayer bpn2182 in România
+
+
+<a id="bpn2182"></a> 
+### Prayer bpn2182 in România
 O, Doamne! Sunt un copil; îngăduie-mi să cresc la umbra iubirii Tale duioase. Sunt o plantă fragedă, fă să fiu îngrijit prin revărsările norilor mărinimiei Tale. Sunt o mlădiţă în grădina iubirii; preschimbă-mă într-un pom plin de roade.
 
 Tu eşti Tare şi Puternic, şi Tu eşti Cel Atoateiubitor, Cel Atotştiutor, Cel Atotvăzător.
@@ -1075,7 +1298,10 @@ Tu eşti Tare şi Puternic, şi Tu eşti Cel Atoateiubitor, Cel Atotştiutor, Ce
 
 
 
-### <a id="bpn2183"></a> Prayer bpn2183 in România
+
+
+<a id="bpn2183"></a> 
+### Prayer bpn2183 in România
 El este Dumnezeu! O, Tu Dumnezeule Îndurător! O, Stăpâne al Oştirilor! Lauda fie asupra Ta, căci Tu ai preferat aceşti copii tineri înaintea celor crescuţi şi maturi, i-ai înzestrat cu mărinimia Ta deosebită, i-ai călăuzit, le-ai dăruit lumina Ta şi le-ai dat spiritualitate. Confirmă-ne astfel încât atunci când vom atinge maturitatea să fim în stare să slujim Împărăţia Ta, să putem instrui sufletele, să putem deveni candele aprinse şi să strălucim asemeni stelelor. Tu eşti Dăruitorul, Cel Darnic şi Bun.
 
 (Source category: Copii şi Tineri)
@@ -1085,9 +1311,13 @@ El este Dumnezeu! O, Tu Dumnezeule Îndurător! O, Stăpâne al Oştirilor! Laud
 
 
 
+
+
+<a id="Călătorie"></a> 
 ## Călătorie
 
-### <a id="bpn2155"></a> Prayer bpn2155 in România
+<a id="bpn2155"></a> 
+### Prayer bpn2155 in România
 O, Doamne, Dumnezeul meu!
 Am plecat de acasă, ţinându-mă strâns de funia iubirii Tale, şi m-am încredinţat cu totul grijii şi ocrotirii Tale. Te implor, prin puterea Ta cu care i-ai ocrotit pe cei pe care-i iubeşti de cei îndărătnici şi perverşi, şi de fiecare asupritor neînduplecat şi de fiecare răufăcător ce a rătăcit departe de Tine, să mă ţii în siguranţă prin mărinimia şi harul Tău. Îngăduie-mi, deci, să mă întorc acasă prin puterea şi tăria Ta. Tu eşti, cu adevărat, Cel Atotputernic, Ajutorul în Primejdie, Cel de Sine Stătător.
 
@@ -1097,7 +1327,10 @@ Am plecat de acasă, ţinându-mă strâns de funia iubirii Tale, şi m-am încr
 
 
 
-### <a id="bpn2156"></a> Prayer bpn2156 in România
+
+
+<a id="bpn2156"></a> 
+### Prayer bpn2156 in România
 M-am trezit prin harul Tău în dimineaţa aceasta, o, Dumnezeul meu, şi cu o neclintită încredere în Tine am plecat de acasă, lăsându-mă în grija Ta. Coboară aşadar asupra mea, din cerul milostivirii Tale, o binecuvântare din partea Ta şi îngăduie-mi să mă întorc în siguranţă la căminul meu, aşa cum mi-ai îngăduit să plec, sub ocrotirea Ta, cu toate gândurile mele ferm aţintite spre Tine.
 
 Nu există alt Dumnezeu în afară de Tine, Cel Unic, Cel Incomparabil, Cel Atotştiutor şi Atotînţelept.
@@ -1108,7 +1341,10 @@ Nu există alt Dumnezeu în afară de Tine, Cel Unic, Cel Incomparabil, Cel Atot
 
 
 
-### <a id="bpn2158"></a> Prayer bpn2158 in România
+
+
+<a id="bpn2158"></a> 
+### Prayer bpn2158 in România
 *Legământul căsătoriei, versetul ce trebuie rostit în mod individual de către mire şi mireasă în prezenţa a cel puţin doi martori acceptaţi de Adunarea Spirituală, este stipulat în Kitáb-i-Aqdas:
 
 *„Cu adevărat, vom rămâne cu toţii credincioşi voinţei lui Dumnezeu.”
@@ -1125,9 +1361,13 @@ Lăudat fie Dumnezeu, Cel Străvechi, Cel Veşnic Statornic, Cel Neschimbător, 
 
 
 
+
+
+<a id="Călăuzire Pentru cei Rătăciţi"></a> 
 ## Călăuzire Pentru cei Rătăciţi
 
-### <a id="bpn2157"></a> Prayer bpn2157 in România
+<a id="bpn2157"></a> 
+### Prayer bpn2157 in România
 Îl rugăm pe Dumnezeu să-i ajute cu harul Său pe cei rătăciţi să fie cinstiţi şi cu mintea dreaptă, şi să-i facă conştienţi de lucrurile pe care până acum le-au nesocotit. El, cu adevărat, este Cel Atotmărinimos, Cel Preageneros. Nu-i înlătura, o, Doamne, pe slujitorii Tăi, de la uşa harului Tău, şi nu-i exclude din curtea prezenţei Tale. Ajută-i să risipească negura iluziilor trândave şi să sfâşie vălurile închipuirilor şi speranţelor deşarte. Tu eşti, cu adevărat, Atoateposesorul, Cel Preaînalt. Nu este alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Plin de Har.
 
 (Source category: Călăuzire Pentru cei Rătăciţi)
@@ -1137,9 +1377,13 @@ Lăudat fie Dumnezeu, Cel Străvechi, Cel Veşnic Statornic, Cel Neschimbător, 
 
 
 
+
+
+<a id="Căsătorie"></a> 
 ## Căsătorie
 
-### <a id="bpn2161"></a> Prayer bpn2161 in România
+<a id="bpn2161"></a> 
+### Prayer bpn2161 in România
 O, Domnul meu, o, Domnul meu!
 Aceste două astre luminoase s-au căsătorit prin iubirea Ta, legaţi prin slujire la Pragul Tău Sfânt, uniţi în servirea Cauzei Tale. Fă din această căsătorie o lumină pătrunzătoare a harului Tău îmbelşugat, o, Domnul meu Cel Atotmilostiv, şi raze strălucitoare ale binecuvântărilor Tale, o, Tu care eşti Binefăcătorul, Cel Veşnic Darnic, pentru ca din acest copac măreţ să răsară ramuri care să înverzească şi să înflorescă prin revărsările de daruri din norii harului Tău.
 
@@ -1151,7 +1395,10 @@ Cu adevărat, Tu eşti Cel Generos. Cu adevărat, Tu eşti Cel Atotputernic. Cu 
 
 
 
-### <a id="bpn2160"></a> Prayer bpn2160 in România
+
+
+<a id="bpn2160"></a> 
+### Prayer bpn2160 in România
 El este Dumnezeu! O, Dumnezeule Neasemuit!
 În înţelepciunea Ta atotputernică, Tu ai poruncit oamenilor să se căsătorească, pentru ca generaţiile să se succeadă una după alta în această lume terestră şi pentru ca, atât cât va dura lumea, oamenii să Te slujescă la Pragul Unicităţii Tale cu servitudine şi veneraţie, cu bucurie, adoraţie şi laudă. „Am creat spirite şi oameni numai pentru ca ei să Mă adore.” De aceea, cunună în raiul îndurării Tale aceste două păsări din cuibul iubirii Tale, şi ajută-le să dobândescă harul Tău etern; pentru ca din uniunea acestor două mări de iubire să se înalţe un val de tandreţe care să arunce pe ţărmurile vieţii perlele unor vlăstare pure şi alese. „El a eliberat cele două mări pentru ca ele să se întâlnească. Între ele se află un hotar peste care nu pot trece. Care dintre darurile Domnului vostru le veţi refuza? Din fiecare, El culege perle mai mari şi mai mici.”
 
@@ -1163,7 +1410,10 @@ O, Bunule Dumnezeu! Fie ca din această căsătorie să se reverse corali şi pe
 
 
 
-### <a id="bpn2159"></a> Prayer bpn2159 in România
+
+
+<a id="bpn2159"></a> 
+### Prayer bpn2159 in România
 Slavă ţie, Dumnezeul meu! Cu adevărat, acest slujitor al Tău şi această slujitoare a Ta s-au întâlnit sub umbrarul milostivirii Tale şi s-au unit prin generozitatea şi bunăvoinţa Ta. O, Doamne! Ajută-i în această lume şi în Împărăţia Ta şi dăruieşte-le tot ce-i bun prin bunătatea şi harul Tău. O, Doamne! Confirmă-i în supunerea lor faţă de Tine şi sprijină-i în slujirea Ta. Îngăduie-le să devină mărturiile Numelui Tău în lumea Ta şi apără-i prin binecuvântările Tale ce sunt infinite în această lume şi în lumea ce va să vie. O, Doamne! Ei imploră Împărăţia milostivirii Tale şi invocă tărâmul unicităţii Tale. Cu adevărat, ei s-au căsătorit din supunere faţă de porunca Ta. Fă ca ei să devină simboluri ale armoniei şi unităţii până la sfârşitul vremurilor. Cu adevărat, Tu eşti Cel Omnipotent, Cel Omniprezent şi Cel Atotputernic.
 
 (Source category: Căsătorie)
@@ -1173,9 +1423,13 @@ Slavă ţie, Dumnezeul meu! Cu adevărat, acest slujitor al Tău şi această sl
 
 
 
+
+
+<a id="Decizii"></a> 
 ## Decizii
 
-### <a id="bpn2184"></a> Prayer bpn2184 in România
+<a id="bpn2184"></a> 
+### Prayer bpn2184 in România
 O, Doamne Dumnezeul meu, Tu mă vezi detaşat de toate lucrurile în afară de Tine, ţinându-mă aproape de Tine; călăuzeşte-mă aşadar în faptele mele către ceea ce-mi va fi de folos pentru gloria Cauzei Tale şi înălţarea rangului slujitorilor Tăi.
 
 (Source category: Decizii)
@@ -1185,9 +1439,13 @@ O, Doamne Dumnezeul meu, Tu mă vezi detaşat de toate lucrurile în afară de T
 
 
 
+
+
+<a id="Detaşare"></a> 
 ## Detaşare
 
-### <a id="bpn2185"></a> Prayer bpn2185 in România
+<a id="bpn2185"></a> 
+### Prayer bpn2185 in România
 Îngăduie, o, Dumnezeul meu, să mă apropii de Tine, şi să sălăşluiesc înlăuntrul hotarelor curţii Tale, căci depărtarea de Tine aproape că m-a mistuit. Fă să mă odihnesc la umbra aripilor harului Tău, căci flacăra separării de Tine a topit inima din mine. Du-mă mai aproape de râul care e viaţă cu adevărat, căci sufletul meu arde de sete în căutarea sa neîncetată de Tine. Suspinele mele, o, Dumnezeul meu, proclamă amărăciunea suferinţei mele şi lacrimile pe care le vărs adeveresc iubirea mea pentru Tine.
 
 Te implor, întru lauda cu care Te preaslăveşti pe Tine Însuţi şi întru gloria cu care Tu glorifici propria Ta Esenţă să îngădui să putem fi socotiţi printre cei care Te-au recunoscut şi Ţi-au adeverit suveranitatea în vremea zilelor Tale. Ajută-ne să sorbim, o, Dumnezeul meu, din palmele milostivirii Tale, apele vii ale bunătăţii Tale duioase, ca să putem uita întru totul de orice alt lucru în afară de Tine şi să ne ocupăm numai cu Tine. Tu ai puterea de a face ceea ce voieşti. Nu se află alt Dumnezeu afară de Tine, Cel Tare, Ajutorul în Primejdie, Cel de Sine Stătător.
@@ -1200,7 +1458,10 @@ Preamărit fie Numele Tău, al Tău care eşti Regele regilor!
 
 
 
-### <a id="bpn2186"></a> Prayer bpn2186 in România
+
+
+<a id="bpn2186"></a> 
+### Prayer bpn2186 in România
 Slăvit eşti Tu, o, Dumnezeul meu! Îţi aduc mulţumiri căci mi-ai făcut cunoscut pe Cel care este Aurora milostivirii Tale, Orientul harului Tău şi Păstrătorul Credinţei Tale. Te implor întru Numele Tău prin care feţele celor ce sunt aproape de Tine au devenit albe şi inimile celor ce-ţi sunt devotaţi şi-au înălţat zborul spre Tine, să îngădui să pot, în toate timpurile şi în toate împrejurările, să mă ţin strâns de funia Ta, şi să mă scutur de orice ataşament faţă de oricine afară de Tine, şi să-mi ţin ochii aţintiţi în direcţia orizontului Revelaţiei Tale, şi să pot duce la îndeplinire ceea ce mi-ai poruncit în Tabletele Tale.
 
 Împodobeşte-mi, o, Doamne, atât fiinţa lăuntrică cât şi pe cea exterioară cu podoaba favorurilor Tale şi a bunătăţii Tale duioase. Ocroteşte-mă, deci, de orice Îţi poate fi respingător şi ajută-mă cu bunăvoinţa Ta plină de har, pe mine şi pe cei din neamul meu, să Te ascultăm şi să alungăm orice ar putea răscoli în mine vreo dorinţă rea sau coruptă.
@@ -1213,7 +1474,10 @@ Tu eşti, cu adevărat, Domnul întregii omeniri, şi Posesorul acestei lumi şi
 
 
 
-### <a id="bpn2187"></a> Prayer bpn2187 in România
+
+
+<a id="bpn2187"></a> 
+### Prayer bpn2187 in România
 Multe inimi îngheţate, o, Dumnezeul meu, au fost aprinse cu focul Cauzei Tale şi mulţi adormiţi au fost treziţi de dulceaţa glasului Tău. Cât de mulţi sunt străinii care au căutat adăpost la umbra pomului unicităţii Tale şi cât de numeroşi cei însetaţi care au tânjit după fântâna apelor Tale vii în zilele Tale!
 
 Binecuvântat este cel ce s-a îndreptat spre Tine şi s-a grăbit să atingă Aurora luminii feţei Tale. Binecuvântat este cel ce cu toată afecţiunea lui s-a întors spre Orientul Revelaţiei Tale şi Fântâna inspiraţie Tale. Binecuvântat este cel ce a cheltuit în calea Ta ceea ce i-ai acordat prin mărinimia şi bunăvoinţa Ta. Binecuvântat este cel ce, în dorul lui arzător după Tine, a lăsat în urma lui orice altceva în afară de Tine. Binecuvântat este cel ce s-a bucurat de comuniunea intimă cu Tine şi s-a eliberat de orice ataşament faţă de oricine altcineva în afară de Tine.
@@ -1228,7 +1492,10 @@ Cu adevărat, tăria Ta, este la fel de mare înaintea tuturor lucrurilor.
 
 
 
-### <a id="bpn2188"></a> Prayer bpn2188 in România
+
+
+<a id="bpn2188"></a> 
+### Prayer bpn2188 in România
 Eu nu ştiu, o, Dumnezeul meu, ce este focul pe care l-ai aprins în ţinutul Tău. Pământul nu va putea să-i întunece vreodată splendoarea, nici apa să-i stingă flacăra. Toate popoarele pământului sunt neputincioase în a rezista forţei sale. Mare e binecuvântarea celui ce s-a apropiat de el şi i-a auzit trăznetul.
 
 Câtorva, o, Dumnezeul meu, le-ai îngăduit, prin harul Tău întăritor, să se apropie de el, în timp ce pe alţii i-ai îndepărtat din cauza a ceea ce mâinile lor au săvârşit în vremea zilelor Tale. Cel care s-a grăbit spre el şi l-a atins, şi-a oferit viaţa în calea Ta, în nerăbdarea lui de a privi frumuseţea Ta şi s-a înălţat spre Tine, cu totul detaşat de orice altceva în afară de Tine.
@@ -1243,7 +1510,10 @@ Tu ai puterea de a face ceea ce Îţi place. Tu eşti, cu adevărat, Cel Atotput
 
 
 
-### <a id="bpn2189"></a> Prayer bpn2189 in România
+
+
+<a id="bpn2189"></a> 
+### Prayer bpn2189 in România
 Lauda fie cu Tine, o, Dumnezeul meu!
 Sunt unul dintre slujitorii Tăi, care a crezut în Tine şi în semnele Tale. Tu vezi cum m-am îndreptat spre uşa milostivirii Tale şi mi-am întors faţa în direcţia bunătăţii Tale duioase. Te implor, prin numele Tale excelente şi atributele tale cele mai înălţate, să deschizi înaintea feţei mele portalurile darurilor Tale. Ajută-mă, atunci, să fac ceea ce e bine, o, Tu care eşti Posesorul tuturor numelor şi atributelor!
 
@@ -1261,7 +1531,10 @@ Nu se află alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Binefăcător.
 
 
 
-### <a id="bpn2195"></a> Prayer bpn2195 in România
+
+
+<a id="bpn2195"></a> 
+### Prayer bpn2195 in România
 O, Dumnezeule, şi Dumnezeul tuturor
 Numelor şi Făuritorul cerurilor! Te implor întru Numele Tău prin care Cel Ce este Aurora tăriei Tale şi răsăritul puterii Tale a fost manifestat, prin care fiecare lucru solid a fost făcut să curgă, ficare trup a fost însufleţit şi fiecare spirit în mişcare a fost confirmat - Te implor să-mi îngădui să mă scutur de toate ataşamentele faţă de oricine în afară de Tine, să slujesc Cauza Ta, să doresc ceea ce Tu doreşti prin puterea suveranităţii Tale şi să îndeplinesc ceea ce este bunul plac al voinţei Tale.
 
@@ -1273,7 +1546,10 @@ Mai mult, te implor, să-mi hărăzeşti ceea ce mă face îndeajuns de bogat pe
 
 
 
-### <a id="bpn2190"></a> Prayer bpn2190 in România
+
+
+<a id="bpn2190"></a> 
+### Prayer bpn2190 in România
 În Numele Domnului Tău, Creatorul, Suveranul, Cel lui Însuşi deajuns, Cel Preaînălţat, Cel al cărui ajutor e implorat de toţi oamenii.
 
 Spune: o, Dumnezeul meu! O, Tu Care eşti Făuritorul cerurilor şi al pământului, o, Domn al împărăţiei! Tu ştii bine secretele inimii mele, în timp ce Fiinţa Ta e de nepătruns pentru toţi afară de Tine. Tu vezi tot ce e cu mine, în timp ce nimeni altcineva nu poate face aceasta în afară de Tine. Acordă-mi, prin bunăvoinţa Ta, ceea ce îmi va permite să mă lipsesc de toţi în afară de Tine şi hărăzeşte-mi ceea ce mă va face independent de oricine altcineva afară de Tine. Îngăduie să pot culege roadele vieţii mele în această lume şi în cea următoare. Deschide înaintea feţei mele portalurile feţei Tale şi conferă asupra mea, cu bunăvoinţa Ta plină de har, blânda Ta milostivire şi darurile Tale.
@@ -1288,7 +1564,10 @@ Conferă binecuvântările Tale, o, Domnul meu, asupra Mesagerilor, asupra celor
 
 
 
-### <a id="bpn2191"></a> Prayer bpn2191 in România
+
+
+<a id="bpn2191"></a> 
+### Prayer bpn2191 in România
 O, Doamne! Întru Tine caut refugiu şi către toate semnele Tale îmi îndrept inima.
 
 O, Doamne! Călătorind ori acasă, în ocupaţia ori în munca mea, îmi pun în Tine toată încrederea. Acordă-mi deci ajutorul Tău deplin ca să mă facă independent de toate cele, o, Tu, Care eşti neîntrecut în milostivirea Ta! Aşa după cum e placul Tău, dă-mi mie partea mea, o, Doamne, şi fă-mă să fiu mulţumit cu orice ai orânduit pentru mine.
@@ -1301,7 +1580,10 @@ A Ta este autoritatea absolută de a porunci.
 
 
 
-### <a id="bpn2192"></a> Prayer bpn2192 in România
+
+
+<a id="bpn2192"></a> 
+### Prayer bpn2192 in România
 O, Dumnezeul meu, Domnul meu şi
 Stăpânul meu! M-am detaşat de neamul meu şi-am căutat prin Tine să devin independent de toţi cei ce sălăşluiesc pe pământ şi mereu gata să primesc ceea ce e demn de laudă în ochii Tăi. Dăruieşte-mi atâtea binefaceri, încât să mă facă independent de orice în afară de Tine, şi îngăduie-mi o măsură mai mare din favorurile Tale fără de margini. Cu adevărat, Tu eşti Stăpânul harului îmbelşugat.
 
@@ -1311,7 +1593,10 @@ Stăpânul meu! M-am detaşat de neamul meu şi-am căutat prin Tine să devin i
 
 
 
-### <a id="bpn2193"></a> Prayer bpn2193 in România
+
+
+<a id="bpn2193"></a> 
+### Prayer bpn2193 in România
 O, Doamne, Dumnezeul meu! Tu eşti Speranţa şi Iubitul meu, ţelul şi Dorinţa mea cea mai înaltă! Cu adâncă smerenie şi cu întreaga devoţiune Te rog să mă preschimbi într-un minaret al iubirii Tale în ţinutul Tău, o lampă a cunoaşterii Tale între creaturile Tale şi un stindard al mărinimiei divine în împărăţia Ta.
 
 Socoteşte-mă printre aceia dintre slujitorii Tăi care s-au detaşat de toate lucrurile în afară de Tine, s-au sanctificat de lucrurile trecătoare ale acestei lumi şi s-au eliberat de îndemnurile celor ce sunt întruchipări ale închipuirilor deşarte.
@@ -1326,7 +1611,10 @@ Tu eşti, cu adevărat, Cel Tare, Cel Atotslăvit, Cel Atotputernic.
 
 
 
-### <a id="bpn2194"></a> Prayer bpn2194 in România
+
+
+<a id="bpn2194"></a> 
+### Prayer bpn2194 in România
 O, Doamne, Dumnezeul meu! Umple pentru mine cupa detaşării de toate lucrurile, şi în adunarea splendorilor şi darurilor Tale, bucură-mă cu vinul iubirii Tale. Eliberează-mă de asalturile patimii şi dorinţei, scutură-mă de cătuşele acestei lumi pământene, atrage-mă în extaz către tărâmul Tău ceresc şi înviorează-mă între slujitoarele Tale cu adierile sfinţeniei Tale.
 
 O, Doamne, luminează-mi faţa cu luminile darurilor Tale, luminează-mi ochii lăsându-i să privească semnele tăriei Tale atotcuceritoare; desfată-mi inima cu gloria cunoaşterii Tale ce cuprinde toate lucrurile, bucură-mi sufletul cu veştile Tale însufleţitoare de mare bucurie, o, Tu Rege al acestei lumi şi a Împărăţiei de sus, o, Tu Domn al stăpânirii şi tăriei, ca să pot răspândi în depărtare semnele şi dovezile Tale şi să proclam Cauza Ta şi să promovez Învăţăturile Tale şi să slujesc Legea Ta şi să preamăresc Cuvântul Tău.
@@ -1339,7 +1627,10 @@ Tu eşti, cu adevărat, Cel Puternic, Cel Veşnic Dăruitor, Cel Omnipotent.
 
 
 
-### <a id="bpn2196"></a> Prayer bpn2196 in România
+
+
+<a id="bpn2196"></a> 
+### Prayer bpn2196 in România
 O, Doamne, Dumnezeul meu!
 O, Doamne, Dumnezeul meu! Eu sunt un slujitor atras către Tine, apropiindu-mă cu smerenie de uşa unicităţii Tale.
 
@@ -1356,9 +1647,13 @@ Tu eşti Protectorul, Păzitorul, Cel Îndurător şi Cel Milostiv.
 
 
 
+
+
+<a id="Dimineaţa"></a> 
 ## Dimineaţa
 
-### <a id="bpn2197"></a> Prayer bpn2197 in România
+<a id="bpn2197"></a> 
+### Prayer bpn2197 in România
 O, Dumnezeul şi Stăpânul meu! Eu sunt slujitorul Tău şi fiul slujitorului Tău. M-am ridicat din aşternut în zorii zilei, când Luceafărul unicităţii Tale s-a ridicat din Aurora voinţei Tale revărsându-şi scânteierea asupra întregii lumi, aşa după cum a fost scris în Cărţile poruncii Tale.
 
 Laudă ţie, Dumnezeul meu, că ne-am trezit la splendorile luminii cunoaşterii Tale. Pogoară peste noi, o, Doamne, ceea ce ne va permite să ne lipsim de tot ce nu eşti Tu şi ne va slobozi de orice ataşament în afară de Tine. Mai hărăzeşte-mi mie, cât şi celor ce-mi sunt dragi, neamului meu, bărbaţi şi femei deopotrivă, binele acestei lumi şi a celei ce va să vie. O, Tu, Preaiubitul întregii făpturi şi Dorinţa întregului univers, păzeşte-ne, prin ocrotirea Ta neclintită, de cei pe care i-ai făcut întruchipări ale Celui Rău care şopteşte în inimile oamenilor. Tu ai puterea de a face după cum ţi-e placul. Tu eşti, cu adevărat, Cel Atotputernic, Ajutorul în Primejdie, Cel de Sine Stătător.
@@ -1373,7 +1668,10 @@ Tu eşti, cu adevărat, Domnul şi Regele tuturor oamenilor, iar puterea Ta se �
 
 
 
-### <a id="bpn2198"></a> Prayer bpn2198 in România
+
+
+<a id="bpn2198"></a> 
+### Prayer bpn2198 in România
 M-am trezit, o, Dumnezeul meu,
 la adăpostul Tău, şi se cuvine celui ce caută acest adăpost să rămână în Sanctuarul ocrotirii Tale şi în Fortăreaţa apărării Tale. Luminează-mi fiinţa lăuntrică, o, Domnul meu, cu splendorile Aurorei Revelaţiei Tale, aşa cum mi-ai luminat făptura exterioară cu lumina matinală a bunăvoinţei Tale.
 
@@ -1383,7 +1681,10 @@ la adăpostul Tău, şi se cuvine celui ce caută acest adăpost să rămână �
 
 
 
-### <a id="bpn2199"></a> Prayer bpn2199 in România
+
+
+<a id="bpn2199"></a> 
+### Prayer bpn2199 in România
 Îţi aduc laudă ţie, o, Dumnezeul meu, că m-ai trezit din somnul meu şi m-ai scos la iveală după absenţa mea, şi m-ai ridicat din adormirea mea. M-am trezit în această dimineaţă cu faţa îndreptată către splendorile Luceafărului Revelaţiei Tale, prin care cerurile puterii şi maiestăţii Tale au fost luminate, adeverind semnele Tale, crezând în Cartea Ta şi ţinându-mă strâns de funia Ta.
 
 Te implor, prin forţa voinţei Tale şi puterea biruitoare a ţelului Tău, să faci din ceea ce mi-ai revelat în somnul meu temelia cea mai sigură pentru palatele iubirii Tale, care se află în inimile celor iubiţi de Tine, şi mijlocul cel mai bun pentru revelarea dovezilor harului Tău şi a bunătăţii Tale duioase.
@@ -1401,9 +1702,13 @@ Tu nu-l dezamăgeşti pe cel ce Te-a căutat, nici nu-l îndepărtezi de Tine pe
 
 
 
+
+
+<a id="Familie şi Cămin"></a> 
 ## Familie şi Cămin
 
-### <a id="bpn2201"></a> Prayer bpn2201 in România
+<a id="bpn2201"></a> 
+### Prayer bpn2201 in România
 adevărat, Tu eşti Domnul suveran, Cel Iertător, Cel Preageneros. O, Dumnezeul meu! Ajută-i pe slujitorii Tăi lipsiţi de cunoaştere să fie acceptaţi în Cauza Ta; căci de îndată ce vor afla de Tine, vor mărturisi adevărul Judecăţii de Apoi şi nu vor tăgădui revelaţiile generozităţii Tale. Trimite asupra lor mărturiile harului Tău şi acordă-le, oriunde s-ar afla, o parte mărinimoasă din ceea ce Tu ai hotărât pentru slujitorii Tăi devotaţi. Tu eşti, cu adevărat, Cârmuitorul Suprem, Atotdarnicul, Cel Nesfârşit de Bun.
 
 O, Dumnezeul meu! Fie ca revărsările dărniciei şi binecuvântărilor Tale să coboare asupra căminelor acelora care au îmbrăţişat Credinţa Ta, ca un semn al harului Tău şi ca o mărturie a iubirii duioase din partea prezenţei Tale. Cu adevărat, Tu eşti neîntrecut în a acorda iertare. Dacă ai refuza cuiva bunătatea Ta, cum ar putea fi el socotit printre discipolii Credinţei Tale în Ziua Ta?
@@ -1416,7 +1721,10 @@ Binecuvântează-mă, o, Dumnezeul meu, pe mine şi pe cei ce vor crede în semn
 
 
 
-### <a id="bpn2202"></a> Prayer bpn2202 in România
+
+
+<a id="bpn2202"></a> 
+### Prayer bpn2202 in România
 Slavă ţie, Doamne, Dumnezeul meu! Te rog să mă ierţi pe mine şi pe aceia ce sprijină Credinţa Ta. Cu adevărat, Tu eşti Domnul suveran, Cel Iertător, Cel Preageneros. O, Dumnezeul meu! Ajută-i pe slujitorii Tăi lipsiţi de cunoaştere să fie acceptaţi în Cauza Ta; căci de îndată ce vor afla de Tine, vor mărturisi adevărul Judecăţii de Apoi şi nu vor tăgădui revelaţiile generozităţii Tale. Trimite asupra lor mărturiile harului Tău şi acordă-le, oriunde s-ar afla, o parte mărinimoasă din ceea ce Tu ai hotărât pentru slujitorii Tăi devotaţi. Tu eşti, cu adevărat, Cârmuitorul Suprem, Atotdarnicul, Cel Nesfârşit de Bun.
 
 O, Dumnezeul meu! Fie ca revărsările dărniciei şi binecuvântărilor Tale să coboare asupra căminelor acelora care au îmbrăţişat Credinţa Ta, ca un semn al harului Tău şi ca o mărturie a iubirii duioase din partea prezenţei Tale. Cu adevărat, Tu eşti neîntrecut în a acorda iertare. Dacă ai refuza cuiva bunătatea Ta, cum ar putea fi el socotit printre discipolii Credinţei Tale în Ziua Ta?
@@ -1429,7 +1737,10 @@ Binecuvântează-mă, o, Dumnezeul meu, pe mine şi pe cei ce vor crede în semn
 
 
 
-### <a id="bpn2200"></a> Prayer bpn2200 in România
+
+
+<a id="bpn2200"></a> 
+### Prayer bpn2200 in România
 Locuinţa mea este căminul păcii.
 Locuinţa mea e căminul bucuriei şi desfătării.
 Locuinţa mea e căminul veseliei şi înălţării.
@@ -1448,9 +1759,13 @@ Aceasta e locuinţa iubirii:cei ce vin înăuntru trebuie să înveţe lecţia i
 
 
 
+
+
+<a id="Femei"></a> 
 ## Femei
 
-### <a id="bpn2203"></a> Prayer bpn2203 in România
+<a id="bpn2203"></a> 
+### Prayer bpn2203 in România
 De-ar fi să înţelegi dulceaţa titlului „O, slujitoarea Mea”, te-ai găsi detaşată de întreaga omenire, angajată cu devoţiune, zi şi noapte, în comuniune cu Cel Care este singura Dorinţă a lumii... Pe dreptatea lui Dumnezeu! Titlul „O, slujitoarea Mea” întrece de departe orice alt lucru ce poate fi văzut în lume.
 
 (Source category: Femei)
@@ -1459,7 +1774,10 @@ De-ar fi să înţelegi dulceaţa titlului „O, slujitoarea Mea”, te-ai găsi
 
 
 
-### <a id="bpn2204"></a> Prayer bpn2204 in România
+
+
+<a id="bpn2204"></a> 
+### Prayer bpn2204 in România
 Slujitoarea Ta şi-a pus nădejdea, o, Domnul meu, în graţia Ta şi în generozitatea Ta. Îngăduie-i să dobândească ceea ce o va aduce aproape de Tine şi-i va aduce folos în fiecare dintre lumile Tale. Tu eşti Cel Iertător, Cel Atotbinevoitor. Nu există alt Dumnezeu în afară de Tine, Cel ce orânduieşte toate, Cel dintru început.
 
 Acordă binecuvântarea Ta, o Doamne Dumnezeul meu, acelora care au sorbit din licoarea iubirii Tale în faţa oamenilor şi care, în ciuda duşmanilor tăi au recunoscut unitatea Ta, au mărturisit unicitatea Ta, şi-au afirmat acea credinţă care a făcut să se înfioare mădularele asupritorilor Tăi şi au făcut să tremure carnea celor trufaşi ai pământului. Eu mărturisec că Suveranitatea Ta nu poate pieri niciodată şi că Voinţa Ta nu poate fi schimbată. Hotărăşte pentru cei ce şi-ai întors faţa spre Tine şi pentru slujitoarele Tale care au rămas credincioase legăturii cu Tine ceea ce este pe măsura Oceanului dărniciei Tale şi cerului Graţiei Tale.
@@ -1472,7 +1790,10 @@ Tu eşti, o Doamne, Cel care s-a proclamat Domnul Bogăţiei şi a caracterizat 
 
 
 
-### <a id="bpn2205"></a> Prayer bpn2205 in România
+
+
+<a id="bpn2205"></a> 
+### Prayer bpn2205 in România
 Tu vezi, o, Dumnezeul meu, cum relele înfăptuite de acele dintre creaturile Tale care şi-au întors faţa de la Tine s-au interpus între Cel prin care Dumnezeirea Ta se manifestă şi slujitorii Tăi. Coboară asupra lor, o Domnul meu, ceea ce îi va face să se ocupe unii cu problemele celorlalţi. Îngăduie, atunci, ca violenţa lor să se restrângă doar la ei înşişi, ca pământul şi toţi cei ce sălăşluiesc în el să găsească pacea.
 
 Una dintre slujitoarele Tale, o, Domnul meu, a căutat faţa Ta, s-a înălţat în zbor în atmosfera bunului Tău plac. Nu îndepărta de la ea, o, Domnul meu, lucrurile pe care le-ai poruncit pentru alesele Tale dintre slujitoarele Tale. Îngăduie-i, atunci, să fie atât de atrasă de rostirile Tale încât să preamărească slăvirea Ta printre ele.
@@ -1485,7 +1806,10 @@ Tu ai puterea de a face tot ceea ce Îţi place. Nu există alt Dumnezeu afară 
 
 
 
-### <a id="bpn2206"></a> Prayer bpn2206 in România
+
+
+<a id="bpn2206"></a> 
+### Prayer bpn2206 in România
 Slăvit fie numele Tău, o, Doamne
 Dumnezeul meu! Priveşte ochiul meu ce aşteaptă să zăbovească asupra minunilor milostivirii Tale, şi urechea mea în dorul de-a zori la auzul dulcilor Tale melodii, şi inima mea tânjind după apele vii ale cunoaşterii Tale. Tu o vezi pe slujitoarea Ta, o, Domnul meu, stând înaintea lăcaşului milostivirii Tale, şi chemându-Te prin numele Tău pe care l-ai ales deasupra tuturor celorlalte nume şi l-ai aşezat peste tot ce se află în cer şi pe pământ. Trimite asupra ei suflarea milostivirii Tale, ca ea să se poată îndepărta cu totul de ea însăşi, şi să fie în întregime atrasă spre locul care, strălucind cu slava feţei Tale, aruncă în depărtare razele suveranităţii Tale, şi e întemeiat ca şi tronul Tău. Tu ai puterea de a face ceea ce doreşti. Nu este alt Dumnezeu afară de Tine, Cel Atotglorios, Cel Preamărinimos.
 
@@ -1499,7 +1823,10 @@ Tu eşti, cu adevărat, Cel ce veşnic Iartă, Cel Preamilostiv.
 
 
 
-### <a id="bpn2207"></a> Prayer bpn2207 in România
+
+
+<a id="bpn2207"></a> 
+### Prayer bpn2207 in România
 O, Tu a cărui faţă e obiectul adoraţiei tuturor celor care tânjesc după Tine, a Cărui prezenţă e speranţa celor care sunt întru totul devotaţi voinţei Tale, a Cărui apropiere e speranţa tuturor celor care s-au apropiat de curtea ta, al Cărui chip este tovarăşul celor care ţi-au recunoscut adevărul, al Cărui nume este mişcătorul sufletelor care tânjesc să-ţi privească faţa, a Cărui voce este adevărata viaţă a iubitorilor Tăi, ale Cărui cuvinte sunt precum apa vie pentru toţi cei ce sunt în cer şi pe pământ!
 
 Te implor, întru răul pe care l-ai suferit şi bolile abătute asupra ta de oştirile răufăcătorilor, să cobori asupra mea din norii milostivirii Tale ceea ce mă va purifica de tot ce nu eşti Tu, ca să pot fi demnă de a te lăuda şi potrivită să te iubesc.
@@ -1514,7 +1841,10 @@ Nu există alt Dumnezeu afară de Tine, Cel Tare, Cel Statornic în veci, Cel At
 
 
 
-### <a id="bpn2208"></a> Prayer bpn2208 in România
+
+
+<a id="bpn2208"></a> 
+### Prayer bpn2208 in România
 Lăudat fii Tu, o, Doamne Dumnezeule!
 Tu eşti Cel care ai creat toate lucrurile printr-un cuvânt rostit prin porunca Ta şi ai făurit întreaga creaţie prin puterea suveranităţii şi tăriei Tale. Cel mai tare dintre oameni se pleacă în faţa revelaţiilor Tale de slavă, iar cei care sunt înzestraţi cu putere tremură atunci când se află în faţa dovezilor tăriei Tale. Orice om pătrunzător este lipsit de viziune atunci când se confruntă cu strălucirea slavei chipului Tău, iar cel care stăpâneşte bogăţii este sărac şi dezolat când priveşte belşugul bogăţiei Tale.
 
@@ -1530,7 +1860,10 @@ Tu ai puterea de face ceea ce doreşti şi Tu porunceşti ceea ce Îţi place.
 
 
 
-### <a id="bpn2209"></a> Prayer bpn2209 in România
+
+
+<a id="bpn2209"></a> 
+### Prayer bpn2209 in România
 O, Tu, la a Cărui cumplită maiestate toate lucrurile s-au cutremurat, în ale Cărui mâini sunt treburile tuturor oamenilor, către ale Cărui har şi milostivire s-au îndreptat feţele tuturor făpturilor Tale! Te implor, întru Numele Tău pe care l-ai poruncit a fi spiritul tuturor numelor ce sunt în împărăţia numelor, să ne ocroteşti de şoaptele celor ce s-au întors de la Tine, şi au repudiat adevărul existenţei Tale auguste şi preamărite, în această Revelaţie care a făcut să se cutremure împărăţia numelor Tale.
 
 Eu sunt una dintre slujitoarele Tale, o, Domnul meu! Mi-am întors faţa către sanctuarul favorurilor Tale pline de har şi către tabernacolul adorat al slavei Tale. Purifică-mă de tot ceea ce nu este al Tău, şi întăreşte-mă să Te iubesc şi să fac plăcerea Ta, ca să mă pot desfăta în contemplarea frumuseţii Tale, şi să mă scutur de ataşamentul faţă de oricare dintre făpturile Tale şi să pot, în fiece clipă, să exclam: „Preamărit fie Dumnezeu, Stăpânul lumilor!”
@@ -1545,7 +1878,10 @@ Tu eşti, cu adevărat, Dumnezeul puterii, al tăriei şi al gloriei.
 
 
 
-### <a id="bpn2210"></a> Prayer bpn2210 in România
+
+
+<a id="bpn2210"></a> 
+### Prayer bpn2210 in România
 O, Domnul meu, Cel Preaiubit, Dorinţa
 mea! Susţine-mă în singurătatea mea şi însoţeşte-mă în exilul meu. Scapă-mă de necazuri şi ajută-mă să mă dedic frumuseţii Tale. Îndepărtează-mă de tot ce nu eşti Tu şi atrage-mă cu mireasma sfinţeniei Tale. Îngăduie-mi să mă alătur, în Împărăţia Ta, celor ce s-au detaşat de tot ce nu eşti Tu, ce aspiră să slujească la pragul Tău sfânt şi sunt gata să lucreze pentru Cauza Ta. Dă-mi putinţa să devin una dintre slujitoarele Tale ce Ţi-au atins placul şi Ţi-au împlinit vrerea. Tu eşti, cu adevărat, Cel Plin de Har, Cel Generos.
 
@@ -1556,9 +1892,13 @@ mea! Susţine-mă în singurătatea mea şi însoţeşte-mă în exilul meu. Sca
 
 
 
+
+
+<a id="Fond"></a> 
 ## Fond
 
-### <a id="bpn2211"></a> Prayer bpn2211 in România
+<a id="bpn2211"></a> 
+### Prayer bpn2211 in România
 O, Doamne, Dumnezeul meu!
 Luminează frunţile celor ce Te iubesc cu adevărat, şi cu oştirile Tale îngereşti condu-i spre o victorie sigură. Întăreşte-le paşii pe cărarea Ta şi, prin străvechea Ta mărinimie, deschide-le porţile spre binecuvântările Tale. Ei cheltuiesc pe cărările Tale ceea ce Tu le-ai dăruit; apărându-ţi credinţa ei îşi pun nădejdea în gândul la Tine şi din iubire pentru Tine ei Îţi oferă inimile; căutând căile de a-ţi fi pe plac, ei nu refuză nimic din ceea ce posedă, din iubire pentru frumuseţea Ta.
 
@@ -1573,9 +1913,13 @@ Tu eşti, cu adevărat, Cel Ce Sprijină, Cel Ce ajută, Cel Generos, Cel Plin d
 
 
 
+
+
+<a id="Iertare"></a> 
 ## Iertare
 
-### <a id="bpn2212"></a> Prayer bpn2212 in România
+<a id="bpn2212"></a> 
+### Prayer bpn2212 in România
 Doamne Dumnezeul meu, Doamne Dumnezeul meu!
 Dacă nimeni nu va fi găsit să se abată de la calea Ta, cum va putea fi arborat atunci stindardul milostivirii Tale, ori înălţat drapelul generoasei Tale favori? şi dacă fărădelegea nu ar fi făptuită, care lucru din câte există ar putea să Te proclame ca pe Cel ce ascunde păcatele oamenilor, Cel ce veşnic Iartă, Cel Atotştiutor, Cel Atotînţelept? Fie ca sufletul meu să fie un sacrificiu pentru păcatele celor ce păcătuiesc împotriva Ta, căci deasupra acestor păcate adie dulcile miresme ale blândelor milostiviri ale numelui Tău, Cel Îndurător, Cel Atotmilostiv.
 
@@ -1585,7 +1929,10 @@ Dacă nimeni nu va fi găsit să se abată de la calea Ta, cum va putea fi arbor
 
 
 
-### <a id="bpn2213"></a> Prayer bpn2213 in România
+
+
+<a id="bpn2213"></a> 
+### Prayer bpn2213 in România
 ... Mărturisirea păcatelor şi greşelilor înaintea fiinţelor omeneşti nu e îngăduită... Păcătosul trebuie, singur în faţa lui Dumnezeu, să implore milostivire de la oceanul miliostivirii, să implore iertare de la Raiul generozităţii şi să spună:
 
 O, Doamne Dumnezeul meu!
@@ -1607,7 +1954,10 @@ Cu adevărat Tu eşti Cel Puternic şi Darnic. Nu există alt Dumnezeu în afar�
 
 
 
-### <a id="bpn2214"></a> Prayer bpn2214 in România
+
+
+<a id="bpn2214"></a> 
+### Prayer bpn2214 in România
 Eu sunt cel, o, Domnul meu, ce şi-a
 întors faţa către Tine şi şi-a îndreptat speranţele asupra minunilor harului Tău şi revelaţiilor dărniciei tale. Te rog să nu îngădui să mă întorc dezamăgit de la uşa milostivirii Tale, nici să nu mă părăseşti acelora dintre creaturile Tale care au negat Cauza Ta.
 
@@ -1619,7 +1969,10 @@ Eu sunt, o, Dumnezeul meu, slujitorul Tău şi fiul slujitorului Tău. Am recuno
 
 
 
-### <a id="bpn2215"></a> Prayer bpn2215 in România
+
+
+<a id="bpn2215"></a> 
+### Prayer bpn2215 in România
 Tu mă vezi, o, Domnul meu, cu faţa întoarsă către raiul dărniciei Tale şi oceanul favorii Tale, îndepărtat de orice altceva în afară de Tine. Te rog, pe splendorile soarelui revelaţiei Tale de pe Sinai şi strălucirile Astrului harului Tău ce scânteiază la orizontul numelui Tău, Cel Veşnic Iertător, să-mi acorzi îngăduinţa ta şi să ai milă de mine. Aşterne, atunci, pentru mine, cu pana slavei Tale, ceea ce mă va înălţa prin numele Tău în lumea creaţiei. Ajută-mă, o, Stăpânul meu, să mă îndrept către Tine, şi să mă grăbesc la vocea celor iubiţi de Tine, pe care puterile pământului n-au reuşit să-i slăbească şi stăpânirea naţiunilor a fost neputincioasă în a-i îndepărta de Tine şi care, înaintând către Tine, au spus: „Dumnezeu este Stăpânul nostru, Stăpânul tuturor celor ce sunt în ceruri şi a tuturor celor de pe pământ!”
 
 (Source category: Iertare)
@@ -1628,7 +1981,10 @@ Tu mă vezi, o, Domnul meu, cu faţa întoarsă către raiul dărniciei Tale şi
 
 
 
-### <a id="bpn2216"></a> Prayer bpn2216 in România
+
+
+<a id="bpn2216"></a> 
+### Prayer bpn2216 in România
 Slăvit fii Tu, o, Doamne, Dumnezeul meu! De câte ori încerc să Te pomenesc, sunt reţinut de păcatele mele cumplite şi de încălcările mele grave şi mă trezesc cu totul lipsit de harul Tău şi fără nici o putinţă de a Te preaslăvi. Marea mea încredere în generozitatea Ta însă, îmi redeşteaptă speranţa în Tine, iar certitudinea că mă vei trata cu mărinimie mă îndeamnă să Te preamăresc şi să-ţi cer ceea ce posezi.
 
 Te implor, o, Dumnezeul meu, în numele milostivirii Tale ce a întrecut toate lucrurile create şi pentru care toţi cei ce se află cufundaţi în oceanul numelor Tale aduc mărturie, să nu mă părăseşti, lăsându-mă singur, căci inima mi-e înclinată spre rele. ţine-mă, deci, în fortăreaţa ocrotirii Tale şi la adăpostul grijii Tale. Eu sunt cel, o, Dumnezeul meu, care nu doreşte decât ceea ce Tu ai hotărât prin puterea forţei Tale. Tot ceea ce vreau pentru mine este de a fi sprijinit de hotărârile Tale binevoitoare şi de cârma voinţei Tale, şi de a fi ajutat de toate mărturiile poruncilor şi judecăţii Tale.
@@ -1645,7 +2001,10 @@ Lăudat fie Dumnezeu, Stăpânul lumilor!
 
 
 
-### <a id="bpn2217"></a> Prayer bpn2217 in România
+
+
+<a id="bpn2217"></a> 
+### Prayer bpn2217 in România
 Lauda fie cu Tine, o, Doamne. Iartă-ne păcatele, ai milă de noi şi îngăduie-ne să ne întoarcem la Tine. Nu îngădui să ne bizuim pe nimeni altul decât pe Tine, şi acordă-ne, prin mărinimia Ta, ceea ce Tu iubeşti şi doreşti şi ceea ce ţi se cuvine. Înalţă rangul celor ce au crezut cu adevărat şi iartă-i cu iertarea Ta plină de har.
 
 Cu adevărat Tu eşti Ajutorul în Primejdie, Cel de Sine Stătător.
@@ -1656,7 +2015,10 @@ Cu adevărat Tu eşti Ajutorul în Primejdie, Cel de Sine Stătător.
 
 
 
-### <a id="bpn2218"></a> Prayer bpn2218 in România
+
+
+<a id="bpn2218"></a> 
+### Prayer bpn2218 in România
 Te implor să mă ierţi, o, Stăpânul meu,
 pentru orice pomenire în afară de pomenirea Ta, şi pentru orice laudă în afară de lauda Ta, şi pentru orice desfătare în afară de desfătarea apropierii de Tine, şi pentru orice plăcere în afară de plăcerea comuniunii cu Tine, şi pentru orice bucurie în afară de bucuria iubirii tale şi a bunului Tău plac, şi pentru toate lucrurile legate de mine ce nu au nici o legătură cu Tine, o Tu care eşti Stăpânul stăpânilor, Cel ce oferă mijloacele şi deschide uşile.
 
@@ -1671,7 +2033,10 @@ Slăvit fii Tu, o, Doamne, Tu ierţi mereu păcatele acelora dintre slujitorii T
 
 
 
-### <a id="bpn2219"></a> Prayer bpn2219 in România
+
+
+<a id="bpn2219"></a> 
+### Prayer bpn2219 in România
 O, Dumnezeule, Stăpânul nostru!
 Ocroteşte-ne cu harul Tău de tot ceea ce-ţi este respingător, şi acordă-ne ceea ce ţi se cuvine. Dăruieşte-ne mai mult din mărinimia Ta şi binecuvântează-ne. Iartă-ne pentru lucrurile pe care le-am făcut, şi spală păcatele noastre, şi iartă-ne cu iertarea Ta plină de har. Cu adevărat, Tu eşti Cel Preaînalt, Cel de Sine Stătător.
 
@@ -1687,7 +2052,10 @@ Tu eşti Cârmuitorul Suveran, Cel ce Înfăptuieşte, Cel Înălţat, Cel Atoat
 
 
 
-### <a id="bpn2220"></a> Prayer bpn2220 in România
+
+
+<a id="bpn2220"></a> 
+### Prayer bpn2220 in România
 O, Tu Stăpâne iertător! Tu eşti adăpostultuturor acestor slujitori ai Tăi. Tu cunoşti secretele şi ai ştiinţă de toate lucrurile. Noi suntem neajutoraţi, iar Tu eşti Cel Tare, Cel Omnipotent. Noi suntem cu toţii păcătoşi şi Tu eşti Cel ce Iartă păcatele, Cel Milostiv, Cel Îndurător. O, Doamne! Nu te uita la greşelile noastre. Priveşte la noi cu bunăvoinţa şi mărinimia Ta. Greşelile noastre sunt multe, dar oceanul iertării Tale este neţărmurit. Slăbiciunea noastră este dureroasă, dar dovezile ajutorului şi asistenţei Tale sunt clare. De aceea, confirmă-ne şi întăreşte-ne. Îngăduie-ne să facem ceea ce e demn de Pragul Tău sfânt. Luminează-ne inimile, acordă-ne ochi pătrunzători şi urechi atente. Învie morţii şi vindecă bolnavii. Acordă bogăţie celui sărac şi dăruieşte pace şi siguranţă celui temător. Acceptă-ne în împărăţia Ta şi luminează-ne cu lumina călăuzirii. Tu eşti Cel Generos. Tu eşti Cel Milostiv. Tu eşti Cel Bun.
 
 (Source category: Iertare)
@@ -1697,9 +2065,13 @@ O, Tu Stăpâne iertător! Tu eşti adăpostultuturor acestor slujitori ai Tăi.
 
 
 
+
+
+<a id="Laudă şi Mulţumire"></a> 
 ## Laudă şi Mulţumire
 
-### <a id="bpn2240"></a> Prayer bpn2240 in România
+<a id="bpn2240"></a> 
+### Prayer bpn2240 in România
 Toată lauda fie cu Tine, Doamne, Dumnezeul meu, care eşti izvorul întregii glorii şi maiestăţi, de mărire şi onoare, de suveranitate şi stăpânire, de elevaţie şi bunăvoinţă, de teamă şi putere. Pe cine vrei Tu, îndrepţi spre oceanul Tău cel mare şi cui vrei Tu, îi acorzi onoarea de a recunoaşte numele Tău Cel Mai Străvechi. Dintre toţi cei din cer şi de pe pământ, nimeni nu poate rezista împlinirii voinţei Tale supreme. Eternă este domnia Ta peste întreaga creaţiune şi aşa va rămâne în vecii vecilor peste toate cele create de Tine. Nu există alt Dumnezeu afară de Tine, Cel Tare, Cel Preamărit, Cel Atotputernic, Cel Atotînţelept.
 
 Luminează, Doamne, faţa supuşilor Tăi, ca să Te poată contempla, purifică-le inimile ca să se poată îndrepta spre curtea favorurilor Tale cereşti şi să recunoască pe Cel care este manifestarea Ta şi aurora Esenţei Tale. Adevărat, Tu eşti Stăpânul tuturor lumilor. Nu există alt Dumnezeu afară de Tine, Cel Nebiruit şi Atotbiruitor.
@@ -1712,7 +2084,10 @@ Luminează, Doamne, faţa supuşilor Tăi, ca să Te poată contempla, purifică
 
 
 
-### <a id="bpn2241"></a> Prayer bpn2241 in România
+
+
+<a id="bpn2241"></a> 
+### Prayer bpn2241 in România
 Preamărit fie Numele Tău, o, Doamne, Dumnezeul meu! Tu eşti Cel venerat de tot ce există şi care nu venerează pe nimeni; Tu eşti Domnul tuturor lucrurilor şi vasalul nimănui, Cel ce cunoaşte toate lucrurile şi e tuturor necunoscut. Tu ai dorit să Te faci cunoscut oamenilor şi de aceea printr-un cuvânt rostit de Tine, ai creat lumea şi ai zidit universul. Nu există alt Dumnezeu în afară de Tine, Ziditorul, Creatorul, Cel Atotputernic, Cel plin de Tărie.
 
 Te implor, prin acest cuvânt însuşi care a strălucit la orizontul voinţei Tale, să-mi îngădui să mă adap la izvoarele dătătoare de viaţă cu care ai însufleţit inimile aleşilor Tăi şi ai animat sufletele celor care Te iubesc, ca să pot, în orice moment şi în toate condiţiile, să-mi întorc faţa complet spre Tine.
@@ -1727,7 +2102,10 @@ Tu eşti Dumnezeul puterii, al gloriei şi al dărniciei. Nu există alt Dumneze
 
 
 
-### <a id="bpn2242"></a> Prayer bpn2242 in România
+
+
+<a id="bpn2242"></a> 
+### Prayer bpn2242 in România
 Slăvit fii Tu, o, Doamne Dumnezeul meu!
 Îţi aduc mulţumiri că mi-ai permis să recunosc Manifestarea Sinelui Tău, că m-ai despărţit de vrăjmaşii Tăi, ai dezvelit înaintea ochilor mei faptele lor rele în Zilele Tale, pentru că m-ai curăţat de orice ataşament faţă de ei şi m-ai făcut să mă întorc cu totul către harul şi favorurile Tale pline de mărinimie. Îţi mulţumesc pentru a fi coborât asupra mea din norii voinţei Tale, ceea ce m-a purificat în asemenea măsură de aluziile infidelilor şi ale necredincioşilor, încât mi-am fixat inima cu statornicie asupra Ta şi am fugit de cei care au tăgăduit lumina chipului Tău. şi din nou Îţi mulţumesc, că mi-ai dat putere să fiu statornic în iubirea Ta şi să rostesc lauda Ta şi să-Ţi preamăresc virtuţile şi pentru a-mi fi dat să beau din cupa milostivirii ce a întrecut toate lucrurile văzute şi nevăzute.
 
@@ -1741,7 +2119,10 @@ Tu eşti Cel Atotputernic, Cel Preaînalt, Cel Atotslăvit, Cel Atotiubitor.
 
 
 
-### <a id="bpn2243"></a> Prayer bpn2243 in România
+
+
+<a id="bpn2243"></a> 
+### Prayer bpn2243 in România
 Lăudat fie Numele Tău, o, Dumnezeul meu şi Dumnezeul tuturor lucrurilor, Slava mea şi Slava tuturor lucrurilor, Dorinţa mea şi Dorinţa tuturor lucrurilor, Puterea mea şi Puterea tuturor lucrurilor, Regele meu şi Regele tuturor lucrurilor, Stăpânul meu şi Stăpânul tuturor lucrurilor, Ţinta mea şi Ţinta tuturor lucrurilor, Forţa mea şi Forţa tuturor lucrurilor! Îngăduie-mi, Te implor, să nu fiu ţinut departe de oceanul milostivirilor Tale duioase şi să nu fiu îndepărtat de la ţărmurile apropierii de Tine.
 
 Nimic în afară de Tine, o, Doamne, Dumnezeule, nu-mi este de nici un folos şi apropierea de nimeni în afară de Tine nu-mi serveşte la nimic. Te rog fierbinte, prin prea plinul bogăţiilor Tale, pe care le-ai împărţit la toţi, exceptându-Te pe Tine, să mă socoteşti printre cei ce şi-au întors faţa către Tine şi s-au ridicat să Te slujească.
@@ -1756,7 +2137,10 @@ Iartă-i, apoi, o, Doamne, Dumnezeule, pe slujitorii şi slujitoarele Tale. Tu e
 
 
 
-### <a id="bpn2244"></a> Prayer bpn2244 in România
+
+
+<a id="bpn2244"></a> 
+### Prayer bpn2244 in România
 O, Tu a Cărui pomenire e desfătarea sufletelor tuturor celor care tânjesc după Tine, al Cărui nume e încântarea inimilor tuturor celor ce sunt cu totul devotaţi voinţei Tale, a Cărui laudă e încălzită la sânul celor ce s-au apropiat de curtea Ta, a Cărui faţă e dorinţa arzătoare a tuturor celor ce Ţi-au recunoscut adevărul, a Cărui încercare e vindecarea bolilor celor ce-au îmbrăţişat Cauza Ta, a Cărui năpastă e aspiraţia cea mai înaltă a celor ce s-au scuturat de orice ataşament în afară de Tine!
 
 Slăvit, nemăsurat de slăvit eşti Tu, în mâinile Căruia se află imperiul a tot ce este în ceruri şi a tot ce este pe pământ, Tu, Care doar printr-un cuvânt al Tău ai făcut toate lucrurile să treacă şi să se destrame, şi Care, printr-un alt cuvânt, ai făcut ca tot ce-a fost separat să fie combinat şi reunit! Preamărit fie numele Tău, o, Tu Care ai putere asupra a tot ce se află în ceruri şi pe pământ, a Cărui stăpânire îmbrăţişează tot ce se află în cerul Revelaţiei Tale şi în împărăţia creaţiei Tale. Nimeni nu Te poate egala în tărâmurile create de Tine; nimeni nu se poate compara cu Tine în universul pe care l-ai făurit. Mintea nimănui nu Te-a cuprins şi aspiraţia nici unui suflet nu Te-a ajuns. Jur pe puterea Ta! De-ar fi ca cineva să se înalţe, pe oricare aripi, atât cât propria Ta fiinţă ar răbda, prin imensitatea cunoaşterii Tale, tot ar rămâne neputincios în a depăşi hotarele pe care lumea limitărilor le-a trasat pentru el. Cum ar putea atunci un astfel de om să aspire să-şi ia zborul în atmosfera prezenţei Tale preaînălţate?
@@ -1773,7 +2157,10 @@ Noi suntem slujitorii Tăi, o, Domnul meu, şi în stăpânirea puterii Tale. Da
 
 
 
-### <a id="bpn2246"></a> Prayer bpn2246 in România
+
+
+<a id="bpn2246"></a> 
+### Prayer bpn2246 in România
 Slăvit fii Tu, o, Doamne Dumnezeul meu! Te implor, întru Străvechea Ta Frumuseţe şi întru Cel Mai Mare Nume al Tău, pe care L-ai sacrificat pentru ca toţi locuitorii cerului şi pământului Tău să se poată naşte din nou, şi pe care L-ai aruncat în temniţă, ca o dovadă a mărinimiei şi tăriei Tale suverane, pentru ca omenirea să poată fi eliberată din sclavia patimilor deşarte şi a dorinţelor corupte, să mă numeri printre cei care au inhalat atât de adânc mireasma milostivirii Tale, şi s-au grăbit cu asemenea repeziciune către apele vii ale harului Tău, încât nici o săgeată nu i-a putut împiedica de-a se întoarce dinspre Tine şi nici o suliţă nu i-a oprit de a-şi îndrepta feţele către orizontul Revelaţiei Tale.
 
 Mărturisim, o, Stăpânul meu, că Tu eşti Dumnezeu şi că nu există alt Dumnezeu afară de Tine. Din vecie Tu ai fost întronat pe înălţimile inaccesibile ale puterii Tale şi stăpânirea Ta transcendentă şi neîncătuşată va continua veşnic. Oştirile lumii sunt neputincioase în a zădărnici voinţa Ta, iar locuitorii cerului şi pământului nu pot să-Ţi anuleze porunca. Tu eşti cu adevărat Cel Atotputernic, Cel Preaslăvit, Cel Preamăreţ.
@@ -1786,7 +2173,10 @@ Binecuvântează, o, Dumnezeul meu, pe aceia dintre adepţii Bayánului care se 
 
 
 
-### <a id="bpn2247"></a> Prayer bpn2247 in România
+
+
+<a id="bpn2247"></a> 
+### Prayer bpn2247 in România
 Lăudat fii Tu, o, Doamne, Dumnezeul meu! Ori de câte ori încerc să Te pomenesc, sunt împiedicat de rangul Tău sublim şi de măreţia copleşitoare a suveranităţii Tale. Căci de-ar fi să Te preamăresc prin toată întinderea stăpânirii Tale şi atât cât va ţine suveranitatea Ta, aş afla că lauda mea de Tine se potriveşte numai celor ce sunt asemeni mie, care sunt ei înşişi creaturile Tale şi au fost generaţi prin puterea poruncii Tale. şi oricând condeiul meu aşterne glorie oricăruia dintre Numele Tale, aud glasul tânguirilor sale în depărtarea lui de Tine şi pot să recunosc ţipătul datorat despărţirii de Tine. Adeveresc că orice altceva decât Tine e doar creaţia Ta şi stă în pumnul mâinii Tale. A accepta orice faptă sau laudă din partea creaturilor Tale e doar o dovadă a minunilor harului Tău şi a favorurilor Tale pline de mărinimie şi o expresie a generozităţii şi providenţei Tale.
 
 Te implor, o, Domnul meu, întru Cel Mai Mare Nume al Tău prin care ai separat lumina de foc şi adevărul de tăgadă, să cobori, asupra mea şi a celor dragi mie ce-mi sunt aproape, binele acestei lumi şi a celei următoare. Dă-mi, atunci, darurile Tale minunate ce sunt ascunse de ochii oamenilor. Tu eşti, cu adevărat, Făuritorul întregii creaţii. Nu există alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Atotslăvit, Cel Preaînalt.
@@ -1797,7 +2187,10 @@ Te implor, o, Domnul meu, întru Cel Mai Mare Nume al Tău prin care ai separat 
 
 
 
-### <a id="bpn2248"></a> Prayer bpn2248 in România
+
+
+<a id="bpn2248"></a> 
+### Prayer bpn2248 in România
 Lăudat şi slăvit eşti Tu, O, Doamne Dumnezeul meu! Cum aş putea vorbi eu de Tine când sunt sigur că nici o făptură oricât de mare ar fi înţelepciunea ei, nu Ţi poate preamări Numele aşa cum se cuvine; şi nici pasărea inimii omeneşti, oricât de mare i ar fi dorul, nu poate nădăjdui să se înalţe în cerul maiestăţii şi cunoaşterii Tale.
 
 Dacă Te aş defini, O, Dumnezeul meu, ca pe Cel Atotpătrunzător, trebuie să admit că Acei ce sunt cea mai înaltă întruchipare a percepţiei au fost creaţi prin porunca Ta. Şi dacă Te slăvesc ca pe Cel Înţelept, sunt de asemenea silit să recunosc că Izvoarele Înţelepciunii au fost aduse la existenţă prin acţiunea voinţei Tale. Şi dacă proclam că Tu eşti Cel Incomparabil, descopăr foarte curând că Cei ce sunt însăşi esenţa unicităţii au fost trimişi în lume de Tine şi sunt doar mărturii ale operei Tale. Şi dacă Te preamăresc ca pe Cel Atotştiutor, trebuie să recunosc că Cei ce sunt Chintesenţa cunoaşterii sunt doar creaţia şi instrumentul Scopului Tău.
@@ -1816,7 +2209,10 @@ Nimeni, în afară de Tine, n a fost vreodată în stare să înţeleagă taina 
 
 
 
-### <a id="bpn2249"></a> Prayer bpn2249 in România
+
+
+<a id="bpn2249"></a> 
+### Prayer bpn2249 in România
 Lumina şi gloria, salutul şi lauda fie asupra
 Mâinilor Cauzei Sale, prin care lumina dârzeniei a strălucit şi adevărul a fost întemeiat, autoritatea de a alege rămâne a lui Dumnezeu, Cel Puternic, Cel Tare, Cel Neconstrâns, şi prin care oceanul mărinimiei şi-a înălţat talazurile şi mireasma favorurilor pline de har ale lui Dumnezeu a fost răspândită. Noi Îl implorăm - Slăvit fie El - să le fie pavăză prin puterea oştirilor Sale, să-i apere prin puterea stăpânirii Sale şi să-i ajute prin forţa Sa de neînvins care stă deasupra tuturor lucrurilor create. Suveranitatea este a lui Dumnezeu, Creatorul Cerurilor şi Stăpânul Împărăţiei Numelor.
 
@@ -1826,7 +2222,10 @@ Mâinilor Cauzei Sale, prin care lumina dârzeniei a strălucit şi adevărul a 
 
 
 
-### <a id="bpn2245"></a> Prayer bpn2245 in România
+
+
+<a id="bpn2245"></a> 
+### Prayer bpn2245 in România
 O, Tu Dăruitorule iubitor! Aceste suflete s-au grăbit la îndemnurile împărăţiei şi au privit slava Soarelui Adevărului. Ei s-au ridicat către cerurile înviorătoare ale iubirii. Ei sunt îndrăgostiţi de natura Ta şi preamăresc frumuseţea Ta. Ei s-au întors către Tine, vorbind despre Tine, căutând sălaşul Tău şi însetaţi de pârâiaşele tărâmului Tău ceresc.
 
 Tu eşti Cel ce Dăruieşte, Dătătorul, Cel Veşnic Iubitor.
@@ -1838,9 +2237,13 @@ Tu eşti Cel ce Dăruieşte, Dătătorul, Cel Veşnic Iubitor.
 
 
 
+
+
+<a id="Miezul Nopţii"></a> 
 ## Miezul Nopţii
 
-### <a id="bpn2250"></a> Prayer bpn2250 in România
+<a id="bpn2250"></a> 
+### Prayer bpn2250 in România
 O, căutător al Adevărului! De vrei ca Dumnezeu să-ţi deschidă ochii, trebuie să-L implori, să I te rogi şi să fii în comuniune cu El la miezul nopţii, spunând:
 
 O Doamne, mi-am întors faţa către
@@ -1855,9 +2258,13 @@ Cu adevărat, Tu eşti Cel ce Dăruieşte, Cel Generos, Cel Milostiv, Cel Iertă
 
 
 
+
+
+<a id="Omenire"></a> 
 ## Omenire
 
-### <a id="bpn2251"></a> Prayer bpn2251 in România
+<a id="bpn2251"></a> 
+### Prayer bpn2251 in România
 O, Doamne Dumnezeul meu! Bunăvoinţa Ta mi-a dat curaj şi dreptatea Ta m-a umplut de spaimă. Fericit e omul pe care l-ai înzestrat cu bunăvoinţa Ta şi vai de cel ce primeşte dreptatea Ta.
 
 Doamne! Am fugit dinaintea dreptăţii Tale şi am căutat bunăvoinţa Ta, m-am îndepărtat de mânia Ta şi am implorat îngăduinţa Ta. Te implor, întru puterea Ta, suveranitatea Ta, slava Ta şi favoarea Ta să luminezi omenirea cu lumina cunoaşterii Tale, astfel ca toate lucrurile să poată arăta măiestria Ta, să poată desfăşura misterele puterii Tale şi să poată revela lumina cunoaşterii Tale.
@@ -1872,7 +2279,10 @@ Tu eşti Cel Atotmărinimos, Cel Binevoitor.
 
 
 
-### <a id="bpn2252"></a> Prayer bpn2252 in România
+
+
+<a id="bpn2252"></a> 
+### Prayer bpn2252 in România
 O, Tu, bunule Dumnezeu! Tu ai făcut întreaga omenire din aceeaşi plămadă. Tu ai poruncit ca toţi să aparţină aceleiaşi familii. În Sfânta Ta prezenţă, toţi sunt slujitorii Tăi şi întreaga omenire se adăposteşte sub Tabernacolul Tău. Toţi s-au adunat în jurul mesei Tale îmbelşugate şi toţi sunt luminaţi de lumina Providenţei Tale.
 
 O, Doamne! Tu eşti bun cu toţi, fiecăruia i-ai purtat de grijă, pe toţi îi adăposteşti şi tuturora le dai viaţă. Pe toţi i-ai înzestrat cu talente şi calităţi şi toţi sunt cufundaţi în Oceanul Milostivirii Tale.
@@ -1895,7 +2305,10 @@ Tu eşti Cel Tare şi Puternic, Tu eşti Cel Iertător şi Tu eşti Cel ce trece
 
 
 
-### <a id="bpn2253"></a> Prayer bpn2253 in România
+
+
+<a id="bpn2253"></a> 
+### Prayer bpn2253 in România
 O, Tu Stăpâne Îndurător, Tu Care eşti generos şi potent! Noi suntem slujitorii Tăi, adăpostiţi la umbra providenţei Tale. Coboară asupra noastră privirea favorii Tale. Dă lumină ochilor noştri, auz urechilor noastre, şi înţelegere şi iubire inimilor noastre. Fă-ne sufletele bucuroase şi fericite cu veştile Tale cele bune. O, Doamne! Arată-ne calea Împărăţiei Tale şi reanimă-ne pe toţi cu suflarea Sfântului Spirit. Dăruieşte-ne viaţă veşnică şi conferă asupra noastră nesfârşită onoare. Uneşte omenirea şi luminează lumea umanităţii. Fie ca toţi să urmăm calea Ta, să năzuim la bunul Tău plac şi să căutăm misterele împărăţiei Tale. O, Dumnezeule! Uneşte-ne şi leagă-ne inimile cu legătura Ta indisolubilă. Cu adevărat, Tu eşti Dăruitorul, Tu eşti Cel Bun şi Tu eşti Cel Atotputernic!
 
 (Source category: Omenire)
@@ -1904,7 +2317,10 @@ O, Tu Stăpâne Îndurător, Tu Care eşti generos şi potent! Noi suntem slujit
 
 
 
-### <a id="bpn2254"></a> Prayer bpn2254 in România
+
+
+<a id="bpn2254"></a> 
+### Prayer bpn2254 in România
 O, Tu Stăpâne bun! Tu Care eşti generos şi milostiv! Noi suntem slujitorii pragului Tău şi ne-am adunat la umbra ocrotitoare a unităţii Tale divine. Soarele providenţei Tale străluceşte deasupra tuturor şi norii mărinimiei Tale se revarsă asupra tuturor. Darurile Tale îi cuprind pe toţi, providenţa Ta iubitoare îi susţine pe toţi, ocrotirea Ta îi adumbreşte pe toţi şi privirile favorii Tale cad asupra tuturor. O, Doamne! Acordă-ne darurile Tale infinite şi lasă lumina călăuzirii să strălucească. Luminează ochii, bucură inimile cu o bucurie Statornică. Conferă tuturor oamenilor un spirit nou şi dăruieşte-le viaţă veşnică. Descuie porţile adevăratei înţelegeri şi lasă lumina credinţei să strălucească. Adună toţi oamenii la umbra mărinimiei Tale şi la adăpostul ocrotirii Tale, ca ei să poată deveni asemenea razelor unui singur soare, asemenea valurilor unui singur ocean, asemenea roadelor unui singur pom. Fie ca ei să bea din aceeaşi fântână. Fie ca ei să fie învioraţi de aceleaşi adieri. Fie ca ei să obţină iluminare de la acelaşi izvor de lumină. Tu eşti Dăruitorul, Cel Milostiv, Cel Omnipotent!
 
 (Source category: Omenire)
@@ -1913,7 +2329,10 @@ O, Tu Stăpâne bun! Tu Care eşti generos şi milostiv! Noi suntem slujitorii p
 
 
 
-### <a id="bpn2255"></a> Prayer bpn2255 in România
+
+
+<a id="bpn2255"></a> 
+### Prayer bpn2255 in România
 O, Doamne! Cu adevărat, noi suntem
 slabi; fă-ne tari. Suntem săraci; ajută-ne din comoara bogăţiei Tale. Suntem morţi; înviorează-ne cu suflarea Sfântului Spirit. Ne lipseşte îndurarea şi răbdarea în încercări; îngăduie-ne să atingem luminile unicităţii. O, Doamne! Fă această adunare cauza înălţării stindardului unicităţii lumii umanităţii, şi confirmă aceste suflete astfel încât ele să poată deveni promotorii păcii internaţionale.
 
@@ -1930,9 +2349,13 @@ O, Doamne: orizonturile lumii sunt întunecate de aceste neînţelegeri. O, Dumn
 
 
 
+
+
+<a id="Pentru cei Răposaţi"></a> 
 ## Pentru cei Răposaţi
 
-### <a id="bpn2261"></a> Prayer bpn2261 in România
+<a id="bpn2261"></a> 
+### Prayer bpn2261 in România
 Află cu adevărat că sufletul, după ce se va despărţi de trup, va continua să progreseze, până ce va atinge prezenţa lui Dumnezeu, într-o stare şi o condiţie pe care nici trecerea erelor şi a veacurilor şi nici schimbările şi întâmplările acestei lumi nu le vor putea altera.
 
 (Source category: Pentru cei Răposaţi)
@@ -1941,7 +2364,10 @@ Află cu adevărat că sufletul, după ce se va despărţi de trup, va continua 
 
 
 
-### <a id="bpn2263"></a> Prayer bpn2263 in România
+
+
+<a id="bpn2263"></a> 
+### Prayer bpn2263 in România
 *Această rugăciune se foloseşte pentru bahá'íi care au împlinit vârsta de cincisprezece ani. „Este singura rugăciune obligatorie Bahá'í care se recită în congregaţie; trebuie recitată de un singur credincios, în timp ce toţi cei prezenţi stau în picioare. Nu e nevoie să se întoarcă spre Qiblih în timp ce recită această rugăciune.” - Bahá'u'lláh, Kitáb-i-Aqdas
 
 O, Dumnezeul meu! Acesta este slujitorul Tău şi fiul slujitorului Tău care a crezut în Tine şi în semnele Tale şi care şi-a întors faţa spre Tine, pe de-a întregul detaşat de tot în afară de Tine. Tu eşti, cu adevărat, cel mai milostiv dintre milostivi.
@@ -1971,7 +2397,10 @@ Noi toţi, cu adevărat, suntem răbdători în Dumnezeu.
 
 
 
-### <a id="bpn2264"></a> Prayer bpn2264 in România
+
+
+<a id="bpn2264"></a> 
+### Prayer bpn2264 in România
 El este Dumnezeu, slăvit este El, Stăpânul dărniciei şi al duioasei bunătăţi! Slava fie cu Tine, O, Tu, Dumnezeul meu, Stăpâne Atotputernic. Adeveresc omnipotenţa şi tăria Ta, suveranitatea Ta şi bunătatea Ta duioasă, harul Tău şi puterea Ta, unicitatea fiinţei Tale şi unitatea esenţei Tale, sanctitatea Ta şi înălţarea Ta deasupra lumii existenţei şi a tot ce se află în ea.
 
 O, Dumnezeul meu! Tu mă vezi detaşat de tot afară de Tine, ţinându-mă strâns de Tine şi îndreptându-mă spre oceanul dărniciei Tale, spre cerul favorii Tale şi spre Luceafărul bunătăţii Tale.
@@ -1998,7 +2427,10 @@ Nu există alt Dumnezeu afară de Tine, Cel Unic, Singurul, Cel Puternic, Cel At
 
 
 
-### <a id="bpn2265"></a> Prayer bpn2265 in România
+
+
+<a id="bpn2265"></a> 
+### Prayer bpn2265 in România
 Slavă ţie, o, Doamne Dumnezeul meu!
 Nu-l coborî pe cel pe care l-ai ridicat prin puterea suveranităţii Tale nepieritoare, şi nu-l îndepărta de Tine pe cel pe care l-ai făcut să intre în tabernacolul eternităţii Tale. Îl vei alunga Tu oare de la Tine, o, Dumnezeul meu, pe cel pe care l-ai adumbrit cu Stăpânirea Ta, şi-l vei întoarce oare de la Tine, o, Dorinţa mea, pe cel pentru care ai fost liman? Ai putea Tu oare să-l înjoseşti pe cel pe care l-ai înălţat, sau să-l uiţi pe cel căruia i-ai dat putinţa să-şi amintească de Tine?
 
@@ -2012,7 +2444,10 @@ Slăvit, nemăsurat de slăvit eşti Tu! Tu eşti adorat în adevărul Tău, şi
 
 
 
-### <a id="bpn2262"></a> Prayer bpn2262 in România
+
+
+<a id="bpn2262"></a> 
+### Prayer bpn2262 in România
 Când sufletul omului îşi va purta zborul din această movilă trecătoare de ţărână şi se va înălţa în lumea lui Dumnezeu, atunci vălurile vor cădea, adevărurile vor ieşi la lumină şi toate lucrurile neştiute înainte vor deveni limpezi, iar adevărurile tăinuite vor fi înţelese.
 
 (Source category: Pentru cei Răposaţi)
@@ -2021,7 +2456,10 @@ Când sufletul omului îşi va purta zborul din această movilă trecătoare de 
 
 
 
-### <a id="bpn2266"></a> Prayer bpn2266 in România
+
+
+<a id="bpn2266"></a> 
+### Prayer bpn2266 in România
 Dumnezeul meu! O, Tu, Care ierţi păcatele, Care împarţi binefacerile şi alungi necazurile! Cu adevărat, Te implor să ierţi păcatele celor care au abandonat veşmântul fizic şi s-au înălţat spre lumea spiritului.
 
 O, Domnul meu! Purifică-i de nelegiuirile lor, risipeşte-le durerile şi preschimbă în lumină întunericul în care se găsesc. Ajută-i să intre în grădina fericirii, spală-i cu apa cea mai curată şi îngăduie-le să-ţi contemple splendorile pe muntele cel mai semeţ.
@@ -2032,7 +2470,10 @@ O, Domnul meu! Purifică-i de nelegiuirile lor, risipeşte-le durerile şi presc
 
 
 
-### <a id="bpn2267"></a> Prayer bpn2267 in România
+
+
+<a id="bpn2267"></a> 
+### Prayer bpn2267 in România
 O, Dumnezeule! O, Dumnezeule!
 Cu adevărat, slujitorul Tău, umil în faţa supremaţiei Tale divine, smerit la pragul unicităţii Tale a crezut în Tine şi în versetele Tale, a adus mărturie cuvântului Tău, a fost însufleţit de focul iubirii Tale, a fost scufundat în adâncurile oceanului cunoaşterii Tale, a fost atras de adierile dinspre Tine, şi-a pus încrederea în Tine, şi-a întors faţa către Tine, ţi-a adresat rugăciuni fierbinţi şi a avut certitudinea iertătii Tale. El a abandonat această viaţă muritoare şi s-a ridicat în împărăţia nemuririi, arzând de dorinţa de a Te întâlni.
 
@@ -2047,9 +2488,13 @@ Cu adevărat, Tu eşti Cel Generos, Cel Puternic, Cel Darnic şi Iertător.
 
 
 
+
+
+<a id="Pionieri"></a> 
 ## Pionieri
 
-### <a id="bpn2268"></a> Prayer bpn2268 in România
+<a id="bpn2268"></a> 
+### Prayer bpn2268 in România
 O, Tu Dumnezeule neasemuit! O, Tu Stăpâne al Împărăţiei! Aceste suflete sunt armia Ta cerească. Ajută-le, şi cu cohortele Adunării Supreme, fă-le victorioase, astfel încât fiecare să devină asemeni unui regiment şi să cucerească aceste ţări prin iubirea faţă de Dumnezeu şi lumina divinelor învăţături.
 
 O, Dumnezeule! Fii Tu sprijinul şi ajutorul lor, şi în pustie, în munte, în vale, în codrii, în câmpie şi pe mări, fii Tu confidentul lor, pentru ca ei să poată vesti, prin puterea Împărăţiei şi adierea Sfântului Spirit.
@@ -2062,7 +2507,10 @@ Cu adevărat, Tu eşti Cel Puternic, Cel Tare, Cel Omnipotent şi Tu eşti Cel c
 
 
 
-### <a id="bpn2269"></a> Prayer bpn2269 in România
+
+
+<a id="bpn2269"></a> 
+### Prayer bpn2269 in România
 O, Doamne Dumnezeul meu! Tu mă vezi vrăjit şi atras către împărăţia Ta glorioasă, cuprins de focul iubirii Tale în mijlocul oamenilor, un vestitor al Împărăţiei Tale în aceste ţinuturi vaste, despărţit de tot în afară de Tine, bizuindu-mă pe Tine, lepădându-mă de tihnă şi confort, departe de căminul meu natal, un rătăcitor în aceste ţinuturi, un străin căzut la pâmănt, umil înaintea Pragului Tău sfânt, supus înaintea raiului gloriei Tale omnipotente, implorându-Te în adâncul nopţii şi la revărsatul zorilor, implorându-Te şi invocându-Te dimineaţa şi pe înserat, să mă ajuţi cu bunăvoinţă să slujesc Cauza Ta şi să-ţi preamăresc Cuvântul la răsărit şi la apus.
 
 O, Doamne! Întăreşte-mă, îngăduie-mi să Te slujesc cu cea mai mare strădanie şi nu mă părăsi mie însumi, singur şi neajutorat în aceste ţinuturi.
@@ -2077,7 +2525,10 @@ Cu adevărat, Tu eşti Cel Ce confirmă pe cine doreşte, şi cu adevărat, Tu e
 
 
 
-### <a id="bpn2270"></a> Prayer bpn2270 in România
+
+
+<a id="bpn2270"></a> 
+### Prayer bpn2270 in România
 O, Dumnezeule! O, Dumnezeule! Tu vezi slăbiciunea mea, smerenia şi umilinţa mea înaintea creaturilor Tale. Cu toate acestea, am avut încredere în Tine şi m-am ridicat pentru promovarea învăţăturilor Tale între slujitorii Tăi puternici, bizuindu-mă pe puterea şi tăria Ta.
 
 O, Doamne! Sunt o pasăre cu aripile frânte şi doresc să mă înalţ în zbor în spaţiul Tău nesfârşit. Cum este cu putinţă pentru mine să fac acest lucru, dacă nu prin providenţa şi harul Tău, confirmarea şi ajutorul Tău?
@@ -2094,7 +2545,10 @@ Cu adevărat, Tu eşti Cel Îngăduitor, Cel Puternic, Cel Tare şi Cel Mai Milo
 
 
 
-### <a id="bpn2271"></a> Prayer bpn2271 in România
+
+
+<a id="bpn2271"></a> 
+### Prayer bpn2271 in România
 O, Tu Stăpâne bun! Lauda fie cu Tine căci mi-ai arătat magistrala călăuzirii, ai deschis uşile împărăţiei şi Te-ai arătat prin Soarele Realităţii. Celor orbi Tu le-ai dat vedere; celor surzi Tu le-ai acordat auzul; Tu i-ai înviat pe cei morţi; Tu i-ai îmbogăţit pe cei săraci; Tu le-ai arătat calea celor ce s-au rătăcit; Tu i-ai condus pe cei cu buzele însetate către fântâna călăuzirii; Tu i-ai îngăduit peştelui însetat să atingă oceanul realităţii; Tu ai invitat păsările rătăcitoare către grădina de trandafiri a harului.
 
 O, Tu Cel Atotputernic! Noi suntem slujitorii Tăi şi săracii Tăi; noi suntem departe şi tânjim după prezenţa Ta, suntem însetaţi de apa fântânii Tale, suntem bolnavi şi ne e dor de vindecare ta. Păşim pe calea Ta şi nu avem alt ţel sau speranţă decât răspândirea miresmelor Tale, astfel încât toate sufletele să poată înălţa strigătul „O, Dumnezeule, călăuzeşte-ne pe calea cea dreaptă!”. Fie ca ochii lor să fie deschişi ca să poată privi lumina şi fie ca ei să fie eliberaţi din întunecimea ignoranţei. Fie ca ei să se poată strânge în jurul lămpii călăuzirii Tale. Fie ca fiecare să-şi primească partea, fie ca cei văduviţi de soartă să devină confidenţi ai misterelor Tale.
@@ -2109,7 +2563,10 @@ Cu adevărat, Tu eşti Cel Puternic, Cel Tare,Cel Înţelept şi Cel ce Vede.
 
 
 
-### <a id="bpn2272"></a> Prayer bpn2272 in România
+
+
+<a id="bpn2272"></a> 
+### Prayer bpn2272 in România
 O, Doamne Dumnezeul meu!
 O, Dumnezeul meu! Tu mă vezi în decăderea şi slăbiciunea mea, ocupat cu cea mai mare încercare, hotărât să-ţi slăvesc cuvântul printre oameni şi să răspândesc învăţăturile Tale în mijlocul popoarelor Tale. Cum aş putea să reuşesc dacă Tu nu mă asişti cu suflarea Sfântului Spirit, nu mă ajuţi să izbândesc cu oştirile împărăţiei Tale glorioase, şi nu reverşi asupra mea confirmările Tale, care singure pot preschimba un ţânţar într-un şoim, o picătură de apă în mări şi oceane, şi un atom în lumini şi sori? O, Domnul meu! Ajută-mă prin puterea Ta triumfătoare şi izbitoare, astfel încât glasul meu să poată aduce laude pentru Tine şi să rostească atributele Tale între toţi oamenii şi sufletul meu să se reverse cu vinul iubirii şi cunoaşterii Tale.
 
@@ -2121,7 +2578,10 @@ Tu eşti Cel Omnipotent şi Înfăptuitorul a tot ceea ce voieşti.
 
 
 
-### <a id="bpn2273"></a> Prayer bpn2273 in România
+
+
+<a id="bpn2273"></a> 
+### Prayer bpn2273 in România
 O, Doamne Dumnezeul meu!
 Lauda şi mulţumirea fie cu Tine căci m-ai călăuzit către magistrala împărăţiei, mi-ai îngăduit să păşesc pe această cărare prelungă şi dreaptă, mi-ai deschis ochii lăsându-i să privească spledorile luminii Tale, mi-ai înclinat urechea către melodiile păsărilor sfinţeniei din împărăţia misterelor şi mi-ai atras inima cu iubirea Ta în mijlocul celor neprihăniţi.
 
@@ -2135,7 +2595,10 @@ O, Doamne, eu sunt slab, întăreşte-mă cu puterea şi tăria Ta. Glasul meu t
 
 
 
-### <a id="bpn2274"></a> Prayer bpn2274 in România
+
+
+<a id="bpn2274"></a> 
+### Prayer bpn2274 in România
 O, Doamne! O, Doamne!
 Iată o pasăre cu aripile frânte al cărei zbor a încetinit; ajut-o să se înalţe spre culmile prosperităţii şi ale mântuirii, ca să-şi poată urma drumul, cu cea mai deplină bucurie şi cea mai mare fericire, prin spaţiile nesfârşite, iar cântu-i întru slăvirea Numelui Tău Suprem să se reverse asupra tuturor regiunilor lumii şi să înveselească auzurile prin chemarea sa şi să lumineze ochii care recunosc semnele călăuzirii.
 
@@ -2147,7 +2610,10 @@ O, Doamne! Sunt umil şi singur. Nu am pe nimeni ca să mă sprijine decât pe T
 
 
 
-### <a id="bpn2275"></a> Prayer bpn2275 in România
+
+
+<a id="bpn2275"></a> 
+### Prayer bpn2275 in România
 Lauda fie cu Tine, o, Dumnezeul meu!
 Aceştia sunt slujitorii Tăi ce sunt atraşi de miresmele milostivirii Tale, aprinşi de focul ce arde în pomul unităţii Tale, şi ai căror ochi sunt luminaţi privind splendorile luminii ce străluceşte în Sinaiul unicităţii Tale.
 
@@ -2161,7 +2627,10 @@ Cu adevărat, Tu eşti Cel Atotputernic, Cel Preaînălţat, Cel ce Veşnic Iart
 
 
 
-### <a id="bpn2276"></a> Prayer bpn2276 in România
+
+
+<a id="bpn2276"></a> 
+### Prayer bpn2276 in România
 O, Dumnezeule, Dumnezeul meu!
 Tu îl vezi pe acest slabănog implorând tărie celestă, pe acest sărac tânjind după comorile Tale cereşti, pe acest însetat tânjind după fântâna vieţii veşnice, pe acest suferind nădăjduind la vindecarea făgăduită prin milostivirea Ta fără de margini pe care ai hărăzit-o slujitorilor Tăi aleşi în împărăţia din înalturi.
 
@@ -2178,9 +2647,13 @@ Cu adevărat, Tu eşti Cel Puternic, Cel Tare, Cel Omnipotent.
 
 
 
+
+
+<a id="Post"></a> 
 ## Post
 
-### <a id="bpn2306"></a> Prayer bpn2306 in România
+<a id="bpn2306"></a> 
+### Prayer bpn2306 in România
 *Vam poruncit să vă rugaţi şi să postiţi de la începutul maturităţii... Reţineţi-vă de la mâncare şi băutură de la răsărit până la asfinţit şi păziţi-vă ca nu cumva dorinţa să vă lipsească de acest har ce a fost desemnat în Carte... - Bahá'u'lláh
 
 Vârsta maturităţii este la cincisprezece ani; bărbaţii şi femeile se aseamănă în acest sens... Călătorul, cel suferind şi cele ce poartă copil sau alăptează, nu sunt obligaţi să postească...
@@ -2191,7 +2664,10 @@ Vârsta maturităţii este la cincisprezece ani; bărbaţii şi femeile se aseam
 
 
 
-### <a id="bpn2307"></a> Prayer bpn2307 in România
+
+
+<a id="bpn2307"></a> 
+### Prayer bpn2307 in România
 Te implor, o, Dumnezeul meu, pe Semnul
 Tău cel puternic şi întru revelaţia Harului Tău între oameni, să nu mă alungi de la poarta cetăţii prezenţei Tale şi să nu dezamăgeşti speranţele ce mi le-am pus în manifestările harului Tău printre făpturile Tale. Tu mă vezi, o, Doamne, Dumnezeul meu, ţinându-mă de Numele Tău, Cel Mai Sfânt, Cel Mai Luminos, Cel Mai Puternic, Cel Măreţ, Cel Înălţat, Cel Glorios şi agăţându-mă de poala veşmântului de care s-au agăţat toţi în lumea aceasta şi ce va să vie.
 
@@ -2227,7 +2703,10 @@ Te implor, o, Dumnezeul meu, întru Tine Însuţi şi pe semnele Tale, pe dovezi
 
 
 
-### <a id="bpn2308"></a> Prayer bpn2308 in România
+
+
+<a id="bpn2308"></a> 
+### Prayer bpn2308 in România
 Slavă ţie, Doamne, Stăpâne, Dumnezeul
 meu! Te implor, pe această Revelaţie care a schimbat întunericul în lumină şi prin care a fost ridicat Templul cu ardoare vizitat, prin care Tableta Scrisă a fost revelată şi Sulul manuscrisului a fost desfăşurat şi dezvăluit, pogoară asupra Mea şi a celor ce-mi sunt alături, ceea ce ne va ajuta să ne ridicăm în zbor spre cerurile slavei Tale transcendente şi ne va curăţa de pata îndoielilor ce i-au împiedicat pe cei neîncrezători să intre în tabernacolul unităţii Tale.
 
@@ -2243,7 +2722,10 @@ Nu există alt Dumnezeu în afară de Tine, Atotştiutorul, Cel Atotînţelept. 
 
 
 
-### <a id="bpn2309"></a> Prayer bpn2309 in România
+
+
+<a id="bpn2309"></a> 
+### Prayer bpn2309 in România
 Acestea sunt, o Dumnezeul meu, zilele în care Tu le-ai prescris slujitorilor Tăi să ţină post. Cu el Tu ai împodobit prefaţa Cărţii Legilor Tale revelată făpturilor Tale, şi ai înveşmântat Păstrătorii poruncilor Tale dinaintea ochilor tuturor celor ce se află în cerul şi pe pământul Tău. Tu ai înzestrat fiecare ceas al acestor zile cu o virtute deosebită, ascunsă tuturor în afară de Tine, Cel a cărui cunoaştere cuprinde toate lucrurile create. De asemenea, Tu ai atribuit fiecărui suflet o parte din această virtute potrivit Tabletei poruncii Tale şi Scripturilor Judecăţii Tale irevocabile. Mai mult, fiecare pagină a acestor Cărţi şi Scripturi ai hărăzit-o fiecăruia dintre popoarele şi neamurile pământului.
 
 Pentru cei care Te iubesc cu ardoare ai rezervat, la fiecare revărsat de zori, potrivit poruncii Tale, cupa pomenirii Tale, o Tu care eşti Cârmuitorul cârmuitorilor! Aceştia sunt cei ce au fost atât de îmbătaţi de vinul înţelepciunii Tale nespus de bogate, încât îşi părăsesc aşternutul în năzuinţa lor de a celebra lauda Ta şi de a-ţi preamări virtuţile, şi alungă somnul în nerăbdarea lor de a se apropia de prezenţa Ta şi de a se împărtăşi din mărinimia Ta. Ochii lor au fost mereu aplecaţi asupra Aurorei bunătăţii Tale duioase, şi feţele lor îndreptate către Fântâna inspiraţiei Tale. Revarsă, deci, asupra noastră şi asupra lor, din norii milostivirii Tale, ceea ce se cuvine cerului mărinimiei şi harului Tău.
@@ -2268,7 +2750,10 @@ Fă victorioasă Cauza Ta, o, Domnul meu şi înjoseşte-i pe vrăjmaşii Tăi. 
 
 
 
-### <a id="bpn2310"></a> Prayer bpn2310 in România
+
+
+<a id="bpn2310"></a> 
+### Prayer bpn2310 in România
 Slavă ţie, o, Doamne, Dumnezeul meu!
 Acestea sunt zilele în care Tu le-ai poruncit tuturor oamenilor să respecte postul, ca prin el să-şi poată purifica sufletele şi să se elibereze de orice ataşament faţă de oricine în afară de Tine şi ca din inimile lor să se poată înălţa ceea ce este demn de curtea maiestăţii Tale şi se cuvine sălaşului revelaţiei unicităţii Tale. Îngăduie, o, Domnul meu, ca acest post să poată deveni un râu cu ape dătătoare de viaţă şi să dăruiască virtutea cu care l-ai înzestrat. Curăţă prin el inimile slujitorilor Tăi pe care relele lumii nu au reuşit să-i împiedice de a se întoarce spre Numele Tău atotslăvit şi care nu au fost mişcaţi de zgomotul şi tumultul făcut de cei care au repudiat semnele Tale cele mai strălucitoare, ce au însoţit venirea Manifestării Tale, pe Care ai investit-o cu suveranitatea Ta, cu puterea Ta, cu maiestatea şi slava Ta. Aceştia sunt slujitorii care, de îndată ce chemarea Ta i-a ajuns, s-au grăbit înspre milostivirea Ta şi n-au fost îndepărtaţi de la Tine de către schimbările şi întâmplările acestei lumi, sau de oricare dintre limitările omeneşti.
 
@@ -2303,9 +2788,13 @@ Lăudat fii Tu, o, Dumnezeul meu, întrucât Tu ne-ai ajutat să-L recunoaştem 
 
 
 
+
+
+<a id="Propovăduire"></a> 
 ## Propovăduire
 
-### <a id="bpn2277"></a> Prayer bpn2277 in România
+<a id="bpn2277"></a> 
+### Prayer bpn2277 in România
 Preamărit fie numele Tău, o, Dumnezeul meu, căci Tu ai dezvăluit Ziua care este Regina Zilelor, Ziua pe care ai anunţat-o Aleşilor Tăi şi Profeţilor Tăi în minunatele Tale Tablete, Ziua în care Tu ai răspândit splendoarea gloriei tuturor numelor Tale asupra tuturor lucrurilor create. Mare este binecuvântarea oricui s-a îndreptat către Tine şi a intrat în prezenţa Ta şi a surprins tonalităţile glasului Tău.
 
 Te implor, o, Domnul meu, întru numele Celui în jurul Căruia gravitează în adoraţie împărăţia numelor Tale, să-i ajuţi, cu bunăvoinţa Ta, pe cei ce-ţi sunt dragi să-ţi poată glorifica Cuvântul în mijlocul slujitorilor Tăi, să răspândească în depărtare laude pentru Tine în mijlocul făpturilor Tale, astfel încât extazul revelaţiei Tale să umple sufletele tuturor locuitorilor pământului Tău.
@@ -2318,7 +2807,10 @@ Din moment ce Tu i-ai călăuzit, o, Domnul meu, către apele vii ale harului T�
 
 
 
-### <a id="bpn2278"></a> Prayer bpn2278 in România
+
+
+<a id="bpn2278"></a> 
+### Prayer bpn2278 in România
 Laudă ţie, o, Doamne Dumnezeul meu!
 Te implor, prin Numele Tău pe care nimeni nu L-a recunoscut aşa cum se cuvine, şi a cărui semnificaţie nici un suflet nu a pătruns-o. Te implor, prin Cel care este Fântâna Revelaţiei Tale şi Aurora semnelor Tale, să faci ca inima mea să devină o fântână a iubirii Tale şi a pomenirii de Tine. Împleteşte-o, aşadar, la Oceanul Tău cel preamăreţ, ca din ea să poată curge apele vii ale înţelepciunii Tale şi şuvoaiele cristaline ale laudei şi preamăririi Tale.
 
@@ -2334,7 +2826,10 @@ Cu adevărat, Tu eşti, Cel Atotputernic, Cel Prea Înalt, Cel Atotştiutor, Cel
 
 
 
-### <a id="bpn2279"></a> Prayer bpn2279 in România
+
+
+<a id="bpn2279"></a> 
+### Prayer bpn2279 in România
 Slava fie cu Tine, o, Stăpân al lumii şi Dorinţă a naţiunilor, o, Tu ce Te-ai dezvăluit prin Cel Mai Mare Nume, prin care perlele înţelepciunii şi rostirii au apărut din scoicile imensei mări a cunoaşterii Tale, şi cerurile revelaţiei divine au fost împodobite de lumina răsăririi soarelui chipului Tău.
 
 Te implor, pe acel Cuvânt prin care dovada Ta a fost desăvârşită între creaturile Tale, şi mărturia Ta a fost împlinită în mijlocul slujitorilor Tăi, să întăreşti poporul Tău întru ceea ce va face ca faţa Cauzei Tale să strălucească în stăpânirea Ta, stindardele puterii Tale să fie înălţate în mijlocul slujitorilor Tăi şi drapelele călăuzirii să fie înălţate pretutindeni în stăpânirea Ta.
@@ -2349,7 +2844,10 @@ Te implor, o, Tu Rege al existenţei şi Protector al văzutelor şi nevăzutelo
 
 
 
-### <a id="bpn2280"></a> Prayer bpn2280 in România
+
+
+<a id="bpn2280"></a> 
+### Prayer bpn2280 in România
 O, Dumnezeule, care eşti Autorul
 tuturor Manifestărilor, Izvorul tuturor Izvoarelor, Fântâna tuturor Revelaţiilor, şi Izvorul nesecat al tuturor luminilor! Aduc mărturie că prin Numele Tău, Cerul înţelegerii a fost împodobit şi oceanul înţelegerii şi-a înălţat talazurile, şi dispensaţiile providenţei Tale au fost proclamate adepţilor tuturor religiilor.
 
@@ -2365,7 +2863,10 @@ Tu eşti, cu adevărat, Dumnezeul tăriei şi al puterii, care răspunzi celor c
 
 
 
-### <a id="bpn2281"></a> Prayer bpn2281 in România
+
+
+<a id="bpn2281"></a> 
+### Prayer bpn2281 in România
 O, Doamne Dumnezeul meu, ajută-l pe
 slujitorul Tău să preamărească
 Cuvântul şi să dezmintă ceea ce e van şi neadevărat, să descopere adevărul, să răspândească în depărtare versetele sacre, să dezvăluie splendorile şi să facă lumina dimineţii să răsară în inimile celor drepţi.
@@ -2378,7 +2879,10 @@ Tu eşti, cu adevărat, Cel Generos, Cel Iertător.
 
 
 
-### <a id="bpn2282"></a> Prayer bpn2282 in România
+
+
+<a id="bpn2282"></a> 
+### Prayer bpn2282 in România
 O, Doamne Dumnezeul meu! Ajută-i pe
 slujitorii Tăi demni de încredere să aibă inimi iubitoare şi blânde. Ajută-i să răspândească, printre naţiunile pământului, lumina călăuzirii ce vine de la Adunarea din Înalturi. Cu adevărat, Tu eşti Cel Tare, Cel Puternic, Cel Autoritar, Cel Atoatecuceritor, Cel ce Veşnic Dăruieşte. Cu adevărat, Tu eşti Cel Generos, Cel Blând, Cel Tandru, Cel Preamărinimos.
 
@@ -2388,7 +2892,10 @@ slujitorii Tăi demni de încredere să aibă inimi iubitoare şi blânde. Ajut�
 
 
 
-### <a id="bpn2283"></a> Prayer bpn2283 in România
+
+
+<a id="bpn2283"></a> 
+### Prayer bpn2283 in România
 Tu mă vezi, o, Dumnezeul meu, plecat cu
 umilinţă, smeridu-mă înaintea poruncilor Tale, supunându-mă suveranităţii Tale, tremurând în faţa stăpânirii Tale, fugind de mânia Ta, implorând generozitatea Ta, bizuindu-mă pe iertarea Ta, tremurând de teama furiei Tale. Te implor cu inima vibrândă, cu ochii înlăcrimaţi şi cu sufletul plin de dor, şi în desăvârşită detaşare de toate lucrurile, să-i faci pe cei ce Te iubesc asemenea razelor de lumină scăldând tărâmurile Tale, şi să-i ajuţi pe slujitorii Tăi aleşi să-ţi preamărească Cuvântul, pentru ca feţele lor să poată deveni frumoase şi strălucitoare de splendoare, ca inimile lor să poată fi umplute de mistere, şi ca fiecare suflet să poată fi despovărat de păcat. Păzeşte-i atunci de agresor, de cel ce-a devenit un răufăcător neruşinat şi blasfemator.
 
@@ -2405,9 +2912,13 @@ Cu adevărat, Tu eşti Cel cu har îmbelşugat. Nu există alt Dumnezeu în afar
 
 
 
+
+
+<a id="Părinţi"></a> 
 ## Părinţi
 
-### <a id="bpn2260"></a> Prayer bpn2260 in România
+<a id="bpn2260"></a> 
+### Prayer bpn2260 in România
 Tu vezi, o Doamne, mâinile noastre
 imploratoare ridicându-se către raiul favorii şi mărinimiei Tale. Îngăduie ca ele să fie umplute de comorile dărniciei şi favorurilor Tale generoase. Iartă-ne pe noi, pe taţii şi mamele noastre, şi împlineşte tot ceea ce am dorit din oceanul harului şi generozităţii Tale divine. Acceptă, o Preaiubitul inimilor noastre, toate lucrările noastre pe calea Ta. Tu eşti, cu adevărat, Cel Preaputernic, Cel Preaslăvit, Cel Neasemuit, Cel Unic, Cel Ce Iartă, Cel Plin de Har.
 
@@ -2417,7 +2928,10 @@ imploratoare ridicându-se către raiul favorii şi mărinimiei Tale. Îngăduie
 
 
 
-### <a id="bpn2256"></a> Prayer bpn2256 in România
+
+
+<a id="bpn2256"></a> 
+### Prayer bpn2256 in România
 Se cuvine ca slujitorul să-L implore pe Dumnezeu, după fiecare rugăciune, să acorde iertare şi îndurare părinţilor săi. După care se va auzi cuvântul lui Dumnezeu: „Răsplata ta va fi de mii şi mii de ori mai mare decât ceea ce ai cerut pentru părinţii tăi!” Binecuvântat fie acela care îşi aminteşte de părinţii săi atunci când comunică cu Dumnezeu. Cu adevărat nu există alt Dumnezeu decât El, Cel Plin de Tărie, Cel Preaiubit.
 
 (Source category: Părinţi)
@@ -2426,7 +2940,10 @@ Se cuvine ca slujitorul să-L implore pe Dumnezeu, după fiecare rugăciune, să
 
 
 
-### <a id="bpn2257"></a> Prayer bpn2257 in România
+
+
+<a id="bpn2257"></a> 
+### Prayer bpn2257 in România
 Îţi cer iertare, o, Dumnezeul meu, şi te implor să-mi acorzi îngăduinţă, aşa cum doreşti ca slujitorii Tăi să se îndrepte spre Tine. Te rog să ne speli de păcate, după cum se cuvine Maiestăţii Tale, şi să mă ierţi pe mine, pe părinţii mei şi pe aceia care, potrivit înţelepciunii Tale, au intrat în sălaşul iubirii Tale într-un mod care este demn de suveranitatea ta transcendentă şi pe măsura puterii Tale cereşti.
 
 O, Dumnezeul meu! Tu mi-ai inspirat sufletul să-ţi ofere această rugă, iar dacă n-ai fi Tu, eu nu aş şti spre cine să mă întorc. Lăudat şi slăvit eşti Tu; Îţi aduc laude deoarece Te-ai dezvăluit fiinţei mele, şi Te implor să mă ierţi, căci nu mi-am împlinit datoria de a Te cunoaşte şi n-am reuşit să merg pe cărarea iubirii Tale.
@@ -2437,7 +2954,10 @@ O, Dumnezeul meu! Tu mi-ai inspirat sufletul să-ţi ofere această rugă, iar d
 
 
 
-### <a id="bpn2258"></a> Prayer bpn2258 in România
+
+
+<a id="bpn2258"></a> 
+### Prayer bpn2258 in România
 O, Doamne! În această Dispensaţie Preamărită, Tu accepţi rugăciunile copiilor în favoarea părinţilor lor. Acesta este unul din minunatele daruri infinite ale acestei Dispensaţii. De aceea, o, Tu, bunule Dumnezeu, acceptă ruga slujitorului Tău la pragul unicităţii Tale şi cufundă-l pe tatăl său în oceanul harului Tău, căci acest fiu s-a ridicat pentru a Te sluji şi se străduieşte neîncetat pe cărarea dragostei Tale. Tu eşti, cu adevărat, Cel Darnic, Cel Iertător, Cel plin de Bunătate.
 
 (Source category: Părinţi)
@@ -2446,7 +2966,10 @@ O, Doamne! În această Dispensaţie Preamărită, Tu accepţi rugăciunile copi
 
 
 
-### <a id="bpn2259"></a> Prayer bpn2259 in România
+
+
+<a id="bpn2259"></a> 
+### Prayer bpn2259 in România
 O, Doamne, iartă-i pe părinţii mei pentru greşelile lor. Îndreaptă către ei privirea providenţei Tale şi însoţeşte-i în Împărăţia Ta. Ei m-au educat şi m-au crescut de la începutul vieţii mele. N-am avut putinţa să-i răsplătesc pentru truda lor.
 
 Răsplăteşte-i Tu. Dăruieşte-le viaţă veşnică şi îngăduie-le să păşească în Împărăţia Ta.
@@ -2458,9 +2981,13 @@ Răsplăteşte-i Tu. Dăruieşte-le viaţă veşnică şi îngăduie-le să pă�
 
 
 
+
+
+<a id="Rugăciunea Lungă de Însănătoşire"></a> 
 ## Rugăciunea Lungă de Însănătoşire
 
-### <a id="bpn2311"></a> Prayer bpn2311 in România
+<a id="bpn2311"></a> 
+### Prayer bpn2311 in România
 ##Rugăciunea lungă de însănătoşire
 El este Tămăduitorul, Cel Ce Ajunge, Ajutorul, Cel Atotiertător, Cel Atotmilostiv.
 Pe Tine Te chem, o, Singurul Cel Înălţat, o, Singurul Cel Credincios, o, Singurul Cel Glorios! Tu Cel de Ajuns, Tu Cel Ce Tămăduieşte, Tu Cel Ce Dăinuie, o, Tu, Singurul Care Dăinuie!
@@ -2519,9 +3046,13 @@ Tu eşti cu adevărat Cel Plin de Forţă, Cel Atotdeajuns, Tămăduirea, Ocroti
 
 
 
+
+
+<a id="Rugăciunea Obligatorie Lungă"></a> 
 ## Rugăciunea Obligatorie Lungă
 
-### <a id="bpn2103"></a> Prayer bpn2103 in România
+<a id="bpn2103"></a> 
+### Prayer bpn2103 in România
 De spus o dată pe zi
 
 Cel ce doreşte să spună această rugăciune trebuie să stea în picioare, să se întoarcă spre Dumnezeu şi apoi, stând neclintit, să se uite la dreapta şi la stânga, ca şi cum ar aştepta mila Stăpânului său Cel 
@@ -2589,9 +3120,13 @@ Mărturisesc, o, Doamne, Dumnezeul meu, ceea ce au afirmat aleşii Tăi şi recu
 
 
 
+
+
+<a id="Rugăciunea Obligatorie Medie"></a> 
 ## Rugăciunea Obligatorie Medie
 
-### <a id="bpn2102"></a> Prayer bpn2102 in România
+<a id="bpn2102"></a> 
+### Prayer bpn2102 in România
 De spus în fiecare zi, dimineaţa, la amiază şi seara.
 
 *Cel ce doreşte să se roage, să-şi spele mâinile,şi spălându-se să spună:
@@ -2629,9 +3164,13 @@ Stau mărturie unităţii Tale şi unicităţii Tale, că Tu eşti Dumnezeu şi 
 
 
 
+
+
+<a id="Rugăciunea Obligatorie Scurtă"></a> 
 ## Rugăciunea Obligatorie Scurtă
 
-### <a id="bpn2101"></a> Prayer bpn2101 in România
+<a id="bpn2101"></a> 
+### Prayer bpn2101 in România
 A fi recitată o dată în intervalul de douăzeci şi patru de ore, la amiază
 Stau mărturie, o, Dumnezeul meu, că m‐ai creat ca să Te cunosc şi să te slăvesc.  Adeveresc, în clipa aceasta, neputinţa mea şi puterea Ta, sărăcia mea şi bogăţia Ta. Nu există niciun alt Dumnezeu înafară de Tine, Ajutorul în Primejdie, Cel De Sine  Stătător.
 
@@ -2648,9 +3187,13 @@ Stau mărturie, o, Dumnezeul meu, că m‐ai creat ca să Te cunosc şi să te s
 
 
 
+
+
+<a id="Seara"></a> 
 ## Seara
 
-### <a id="bpn2284"></a> Prayer bpn2284 in România
+<a id="bpn2284"></a> 
+### Prayer bpn2284 in România
 O, Doamne, Dumnezeul şi Stăpânul meu, ţinta dorinţei mele! Acest slujitor al Tău caută să adoarmă la adăpostul îndurării Tale şi să se odihnească în baldachinul milostivirii Tale, implorând grija şi ocrotirea Ta.
 
 Te implor, o, Domnul meu, întru ochiul Tău care nu doarme niciodată, să-mi fereşti ochii de a privi altceva decât pe Tine. Aşadar, întăreşte-le puterea de a vedea, ca să poată desluşi semnele Tale şi să contemple Orizontul Revelaţiei Tale. Tu eşti Cel în faţa revelaţiilor atotputerniciei, Căruia însăşi chintesenţa puterii s-a cutremurat.
@@ -2663,7 +3206,10 @@ Nu există alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Atotbiruitor, Cel 
 
 
 
-### <a id="bpn2285"></a> Prayer bpn2285 in România
+
+
+<a id="bpn2285"></a> 
+### Prayer bpn2285 in România
 Cum aş putea să adorm, o, Doamne, Dumnezeul meu, când ochii celor ce năzuiesc spre Tine nu se pot închide din cauza despărţirii lor de Tine; şi cum aş putea să-mi întind trupul spre odihnă, când sufletele celor care Te iubesc suferă cumplit de durerea depărtării lor de prezenţa Ta?
 
 O, Domnul meu, mi-am încredinţat spiritul şi întreaga mea fiinţă în mâna dreaptă a tăriei şi ocrotirii Tale şi îmi las capul pe pernă prin puterea Ta, şi îl ridic după voinţa şi bunul Tău plac. Tu eşti, cu adevărat, Apărătorul, Păstrătorul, Cel Plin de Tărie, Cel Preaputernic.
@@ -2677,9 +3223,13 @@ Pe tăria Ta! Nu Îţi cer, dormind sau treaz fiind, decât ceea ce Tu doreşti.
 
 
 
+
+
+<a id="Serbarea de Nouăsprezece Zile"></a> 
 ## Serbarea de Nouăsprezece Zile
 
-### <a id="bpn2312"></a> Prayer bpn2312 in România
+<a id="bpn2312"></a> 
+### Prayer bpn2312 in România
 Serbarea v-a fost poruncită o dată pe lună, chiar de-ar fi să fie numai cu apă, căci Dumnezeu a dorit să aducă laolaltă inimile oamenilor, chiar de-ar fi nevoie de toate mijloacele în cer şi pe pământ.
 
 (Source category: Serbarea de Nouăsprezece Zile)
@@ -2688,7 +3238,10 @@ Serbarea v-a fost poruncită o dată pe lună, chiar de-ar fi să fie numai cu a
 
 
 
-### <a id="bpn2313"></a> Prayer bpn2313 in România
+
+
+<a id="bpn2313"></a> 
+### Prayer bpn2313 in România
 O, Doamne Dumnezeule! Risipeşte toate
 acele elemente care sunt cauza discordiei, şi pregăteşte pentru noi toate acele lucruri care sunt sursa unităţii şi bunei înţelegeri! O, Doamne, Dumnezeule! Coboară asupra noastră Mireasma Divină şi schimbă această întrunire într-o întrunire a Raiului! Acordă-ne tot ceea ce este benefic şi toată hrana. Pregăteşte-ne hrana iubirii! Dă-ne hrana cunoaşterii! Acordă-ne hrana iluminării Divine!
 
@@ -2699,9 +3252,13 @@ acele elemente care sunt cauza discordiei, şi pregăteşte pentru noi toate ace
 
 
 
+
+
+<a id="Soţ"></a> 
 ## Soţ
 
-### <a id="bpn2286"></a> Prayer bpn2286 in România
+<a id="bpn2286"></a> 
+### Prayer bpn2286 in România
 O, Doamne, Dumnezeul meu! Iată această slujitoare a Ta invocându-Te pe Tine, punându-şi încrederea în Tine, întorcându-şi faţa spre Tine, implorându-Te să reverşi asupra ei binecuvântările Tale cereşti, să-i dezvălui tainele Tale spirituale şi să cobori asupra ei luminile Divinităţii Tale.
 
 O, Domnul meu! Fă ca ochii soţului meu să vadă. Bucură inima lui cu lumina cunoaşterii Tale, deschide-i mintea către frumuseţea Ta strălucitoare, înveseleşte-i sufletul revelându-i splendorile Tale clare.
@@ -2717,9 +3274,13 @@ Tu eşti, cu adevărat, Cel Nepreţuit, Cel ce Veşnic Dăruie, Cel Generos.
 
 
 
+
+
+<a id="Statornicie în Legământ"></a> 
 ## Statornicie în Legământ
 
-### <a id="bpn2287"></a> Prayer bpn2287 in România
+<a id="bpn2287"></a> 
+### Prayer bpn2287 in România
 Slava fie cu Tine, o, Rege al veşniciei,
 Făcător al naţiunilor şi Modelator al fiecărui os în parte. Mă rog ţie, întru Numele Tău prin care ai chemat toată omenirea la orizontul maiestăţii şi slavei Tale şi i-ai călăuzit pe slujitorii Tăi la curtea bunăvoinţei şi generozităţii Tale, să mă socoteşti printre cei ce s-au eliberat de orice în afară de Tine, şi s-au îndreptat către Tine şi n-au ezitat de a se întoarce spre darurile Tale şi n-au fost reţinuţi de acele calamităţi care au fost poruncite de Tine.
 
@@ -2735,7 +3296,10 @@ Nu există alt Dumnezeu afară de Tine, Cel Atotputernic, Cel Atotînţelept.
 
 
 
-### <a id="bpn2288"></a> Prayer bpn2288 in România
+
+
+<a id="bpn2288"></a> 
+### Prayer bpn2288 in România
 El este Cel Tare, Cel ce Iartă, Cel Milostiv!
 O, Doamne Dumnezeul meu! Tu îi vezi pe slujitorii Tăi în abisul pieirii şi al erorii; unde e lumina călăuzirii Tale divine, o, Tu Dorinţă a lumii? Tu cunoşti neajutorarea şi slăbiciunea lor; unde e puterea Ta, o, Tu în a Cărui mână sunt puterile cerului şi ale pământului?
 
@@ -2749,7 +3313,10 @@ Hărăzeşte-mi, prin dărnicia Ta, ceea ce-mi îngăduie să prosper în aceast
 
 
 
-### <a id="bpn2289"></a> Prayer bpn2289 in România
+
+
+<a id="bpn2289"></a> 
+### Prayer bpn2289 in România
 O, Tu a Cărui apropiere e dorinţa mea, a Cărui prezenţă e speranţa mea, a Cărui pomenire e dorinţa mea, a Cărui curte de slavă e ţelul meu, al Cărui nume e vindecarea mea, a Cărui iubire e strălucirea inimii mele, a Cărui slujire e aspiraţia mea cea mai înaltă! Te implor, întru numele Tău prin care le-ai îngăduit celor ce Te-au recunoscut să se înalţe în zbor spre minunatele înălţimi ale cunoaşterii Tale şi le-ai dat putere celor ce Te preamăresc cu devoţiune să urce înlăuntrul hotarelor curţii sfintelor Tale favoruri, să mă ajuţi să-mi întorc privirea către faţa Ta, să-mi aţintesc ochii asupra Ta şi să vorbesc despre slava Ta.
 
 Eu sunt cel, o, Domnul meu, ce a uitat totul în afară de Tine în nădejdea sa de a se apropia de curtea Ta. Iată-mă atunci, cu ochii ridicaţi spre Locul ce străluceşte de splendorile luminii Feţei Tale. Coboară, deci, asupra mea, o, Preaiubitul meu, ceea ce-mi va permite să fiu statornic în Cauza Ta, astfel încât îndoielile infidelilor să nu mă poată împiedica să mă întorc spre Tine.
@@ -2762,7 +3329,10 @@ Tu eşti, cu adevărat, Dumnezeul puterii, Ajutorul în Primejdie, Cel Atotslăv
 
 
 
-### <a id="bpn2290"></a> Prayer bpn2290 in România
+
+
+<a id="bpn2290"></a> 
+### Prayer bpn2290 in România
 O, Doamne Dumnezeul meu! M-am întors către Tine cu pocăinţă, cu adevărat Tu eşti Cel Îngăduitor, Cel Milostiv.
 
 O, Doamne Dumnezeul meu! M-am reîntors la Tine, cu adevărat Tu eşti Cel ce veşnic Iartă, Cel Plin de Har.
@@ -2783,7 +3353,10 @@ Te rog, o, Stăpân al întregii făpturi şi Rege al văzutelor şi nevăzutelo
 
 
 
-### <a id="bpn2291"></a> Prayer bpn2291 in România
+
+
+<a id="bpn2291"></a> 
+### Prayer bpn2291 in România
 Slăvit fii Tu, o, Doamne Dumnezeul
 meu! Te implor întru Cel care este Cel Mai Mare Nume al Tău, întru Cel care a fost cumplit încercat de acele creaturi ale Tale care au negat adevărurile Tale şi întru Cel care a fost cuprins de suferinţe pe care nici un glas nu la poate descrie, să îngădui să Te pomenesc şi să Te preamăresc în aceste zile când toţi au întors de la frumuseţea Ta, s-au certat cu Tine şi au întors spatele cu dispreţ Celui care este Revelatorul Credinţei Tale. Nu există nimeni, o, Domnul meu, care să Te ajute în afară de Tine Însuţi şi nici o putere care să Te sprijine în afară de propria Ta putere.
 
@@ -2795,7 +3368,10 @@ Te implor să-mi îngădui să mă ţin cu statornicie de iubirea şi pomenirea 
 
 
 
-### <a id="bpn2296"></a> Prayer bpn2296 in România
+
+
+<a id="bpn2296"></a> 
+### Prayer bpn2296 in România
 Slăvit eşti Tu, o, Dumnezeul meu!
 Te implor întru Locul Răsăritului semnelor Tale şi întru Cel Care a revelat dovezile Tale clare, să îngădui să pot, în toate condiţiile, să mă ţin strâns de funia providenţei Tale iubitoare şi să mă agăţ cu dârzenie de poala generozităţii Tale. Numără-mă atunci printre cei pe care schimbările şi întâmplările lumii n-au reuşit să-i împiedice de a Te sluji şi de a-şi arăta loialitatea faţă de Tine, pe care asaltul oamenilor n-a avut puterea să-i oprească a premări Numele Tău şi a Te preaslăvi. Ajută-mă cu bunăvoinţa Ta plină de har, o, Domnul meu, să fac orice Tu iubeşti şi doreşti. Dă-mi putinţa de a împlini ceea ce va înălţa Numele Tău şi va aprinde focul iubirii Tale.
 
@@ -2807,7 +3383,10 @@ Tu eşti, cu adevărat, Cel ce Iartă, Cel Mărinimos*.
 
 
 
-### <a id="bpn2292"></a> Prayer bpn2292 in România
+
+
+<a id="bpn2292"></a> 
+### Prayer bpn2292 in România
 Lauda fie cu Tine, o, Doamne, Preaiubitul
 meu! Fă-mă statornic în Cauza Ta şi îngăduie să fiu numărat printre cei care n-au încălcat Legământul Tău, nici n-au urmat zeii propriilor lor închipuiri deşarte. Îngăduie-mi, atunci, să obţin un loc de adevăr în prezenţa Ta, dăruieşte-mi mărturia milostivirii Tale şi lasă-mă să mă alătur acelor slujitori ai Tăi ce nu vor fi cuprinşi de teamă şi nici nu vor fi daţi pradă suferinţei. Nu mă părăsi mie însumi, o, Domnul meu, nici nu mă lipsi de a-L recunoaşte pe Cel care este Manifestarea Propriului Tău Sine şi nu mă socoti printre aceia ce s-au întors de la sfânta Ta prezenţă. Numără-mă, o, Dumnezeul meu, printre cei care au privilegiul de a-şi aţinti privirea asupra Frumuseţii Tale şi care sunt atât de încântaţi de aceasta încât n-ar schimba un singur astfel de moment pentru suveranitatea împărăţiei cerurilor şi pământului sau pentru întregul tărâm al creaţiei. Ai milă de mine, o, Domnul meu, în aceste zile când oamenii pământului Tău au greşit cumplit; dă-mi, atunci, ceea ce în aprecierea Ta e bun şi potrivit. Tu eşti, cu adevărat, Cel Atotputernic, Cel Plin de Har, Cel Mărinimos, Cel ce veşnic Iartă.
 
@@ -2819,7 +3398,10 @@ meu! Fă-mă statornic în Cauza Ta şi îngăduie să fiu numărat printre cei 
 
 
 
-### <a id="bpn2293"></a> Prayer bpn2293 in România
+
+
+<a id="bpn2293"></a> 
+### Prayer bpn2293 in România
 Lăudat şi slăvit eşti Tu, o, Dumnezeule!
 Îngăduie ca ziua atingerii sfintei Tale prezenţe să se apropie cu repeziciune. Bucură-ne inimile prin preaplinul iubirii şi bunului Tău plac şi acordă-ne statornicie ca să ne supunem de bunăvoie Voinţei şi Dorinţei Tale. Cu adevărat, cunoaşterea Ta cuprinde toate lucrurile pe care le-ai creat sau le vei crea şi tăria Ta celestă transcede toate lucrurile pe care le-ai chemat sau le vei chema întru fiinţă. Nimeni în afară de Tine nu poate fi preamărit, nu există nimeni pentru a fi dorit în afară de Tine, nu se află nimeni pentru a fi adorat afară de Tine şi nimic pentru a fi iubit afară de bunul tău plac.
 
@@ -2831,7 +3413,10 @@ Cu adevărat, Tu eşti Cârmuitorul Suprem, Adevărul Suveran, Ajutorul în Prim
 
 
 
-### <a id="bpn2294"></a> Prayer bpn2294 in România
+
+
+<a id="bpn2294"></a> 
+### Prayer bpn2294 in România
 O, Doamne, Dumnezeul meu! Ajută-i pe cei ce-i iubeşti să fie statornici în Credinţa Ta, să meargă pe căile Tale, să rămână neclintiţi în Cauza Ta. Acordă-le harul Tău, pentru a se împotrivi asalturilor egoismului şi a pasiunilor şi de a urma lumina călăuzirii divine. Tu eşti Cel Puternic, Cel Îngăduitor, Cel de Sine Stătător, Cel Darnic, Cel Plin de Compasiune, Cel Tare, Cel Atotmărinimos.
 
 (Source category: Statornicie în Legământ)
@@ -2840,7 +3425,10 @@ O, Doamne, Dumnezeul meu! Ajută-i pe cei ce-i iubeşti să fie statornici în C
 
 
 
-### <a id="bpn2295"></a> Prayer bpn2295 in România
+
+
+<a id="bpn2295"></a> 
+### Prayer bpn2295 in România
 O, Tu, Dumnezeul meu, care-l călăuzeşti pe căutător la calea ce-a dreaptă, care-l eliberezi pe cel cu sufletul pierdut şi orb din pustiurile pierzaniei, o, Tu care acorzi celor sinceri mari daruri şi favoruri, care-l păzeşti pe cel speriat în refugiul Tău de neînvins, care răspunzi, din orizontul Tău cel preaînalt, strigătului celor care Te cheamă. Lăudat fii Tu, o, Domnul meu! Tu l-ai călăuzit pe cel rătăcit din moartea necredinţei; şi i-ai adus pe cei ce se apropie de Tine la capătul drumului lor; şi i-ai bucurat pe cei încredinţaţi dintre slujitorii Tăi împlinindu-le dorinţele lor cele mai dragi; şi ai deschis, din Împărăţia Ta de frumuseţe, înaintea feţelor celor ce tânjesc după Tine, porţile reuniunii şi i-ai salvat din focurile nevoilor şi pieirii - astfel încât ei s-au grăbit spre Tine şi au atins prezenţa Ta; şi au ajuns la uşa Ta primitoare; şi au primit o porţie îmbelşugată din darurile Tale.
 
 O, Domnul meu, ei sunt însetaţi, ridică la buzele lor aprinse apele reunirii. O, Tu Cel Blând, o, Tu Cel ce Dăruieşti, Tu care le-ai liniştit durerea cu balsamul mărinimiei şi harului Tău şi le-ai vindecat suferinţele cu leacul suveran al compasiunii Tale. O, Doamne, fă ca paşii lor pe calea Ta cea dreaptă să fie fermi, lărgeşte pentru ei urechea acului şi îngăduie-le ca, înveşmântaţi în haine regale, să păşească în slavă în veci de veci.
@@ -2854,9 +3442,13 @@ Cu adevărat, Tu eşti Cel Generos, Cel ce veşnic Dăruieşte, Cel Preţios, Ce
 
 
 
+
+
+<a id="Tableta Focului"></a> 
 ## Tableta Focului
 
-### <a id="bpn2316"></a> Prayer bpn2316 in România
+<a id="bpn2316"></a> 
+### Prayer bpn2316 in România
 În numele Domnului, Cel Străvechi, Cel Măreţ.
 Într-adevăr, inimile celor sinceri se mistuie în focul despărţirii: Unde este lumina strălucitoare a chipului Tău, o, Preaiubit al lumilor toate?
 
@@ -2965,9 +3557,13 @@ O, ‘Alí-Akbar, mulţumeşte Domnului tău pentru această tabletă, din care 
 
 
 
+
+
+<a id="Tableta Marinarului Sfânt"></a> 
 ## Tableta Marinarului Sfânt
 
-### <a id="bpn2318"></a> Prayer bpn2318 in România
+<a id="bpn2318"></a> 
+### Prayer bpn2318 in România
 *Studiaţi Tableta Marinarului Sfânt ca să puteţi afla adevărul, şi luaţi seama că Frumuseţea Binecuvântată a prezis în întregime evenimentele viitoare. Fie ca cei ce înţeleg să ia aminte! - ‘Abdu’l-Bahá
 
 El este Cel Milostiv, Cel Multiubit!
@@ -3152,9 +3748,13 @@ Slăvit fie Stăpânul nostru, Cel Preaînalt!
 
 
 
+
+
+<a id="Tableta de Naw‑Rúz"></a> 
 ## Tableta de Naw‑Rúz
 
-### <a id="bpn2314"></a> Prayer bpn2314 in România
+<a id="bpn2314"></a> 
+### Prayer bpn2314 in România
 Naw-Rúz, 21 martie, este prima zi a anului Bahá’í, o zi de bucurie şi ospitalitate
 
 Preamărit fii Tu, o, Dumnezeul meu, pentru că ai orânduit Naw-Rúz drept sărbătoare pentru cei care au ţinut post din iubire pentru Tine şi s-au înfrânat de la tot ceea ce este detestabil înaintea Ta. Îngăduie, o, Domnul meu, ca focul iubirii Tale şi căldura creată de postul poruncit de Tine să-i înflăcăreze în Cauza Ta şi fă-i să-şi dedice timpul laudei şi pomenirii Tale.
@@ -3174,9 +3774,13 @@ Tu eşti cu adevărat Cel Atotştiutor, Cel Atotînţelept.
 
 
 
+
+
+<a id="Tableta de Ridvan"></a> 
 ## Tableta de Ridvan
 
-### <a id="bpn2315"></a> Prayer bpn2315 in România
+<a id="bpn2315"></a> 
+### Prayer bpn2315 in România
 ivina primăvară a venit, O, Prea Slăvită Pană, căci Sărbătoarea Celui Preamilostiv se apropie cu repeziciune. Grăbiţi vă şi lăudaţi numele lui Dumnezeu în faţa întregii creaţii; preamăriţi gloria Sa în aşa fel încât toate lucrurile create să fie regenerate şi înnoite. Vorbeşte, nu păstra tăcerea. Luceafărul fericirii străluceşte la orizontul numelui Nostru, Cel Preafericit căci împărăţia numelui lui Dumnezeu a fost împodobită cu ornamentul numelui Domnului, Creatorul cerurilor. Ridică te în faţa naţiunilor pământului şi înarmează te cu puterea acestui Nume Suprem şi nu fi dintre cei ce şovăie.
 
 Eu cred că te ai oprit în loc şi nu te ndrepţi spre Tableta Mea. Oare strălucirea chipului Divin te a speriat, sau vorbăria goală a celor îndărătnici te a îndurerat şi ţi a paralizat mişcările? Ia seama că nimic să nu te împiedice să slăveşti măreţia acestei Zile   Ziua în care degetul maiestăţii şi puterii a rupt pecetea de pe Vinul Reunirii şi i a chemat pe toţi cei ce se află în ceruri şi pe pământ. Oare preferi tu să şovăi atunci când adierea care vesteşte Ziua lui Dumnezeu a suflat deja asupra ta, sau eşti cumva dintre acei care sunt despărţiţi de El ca printr un văl?
@@ -3222,9 +3826,13 @@ Atât de puternic este efectul cuvântului lui Dumnezeu asupra Celui ce este Rev
 
 
 
+
+
+<a id="Tableta lui Ahmad"></a> 
 ## Tableta lui Ahmad
 
-### <a id="bpn2317"></a> Prayer bpn2317 in România
+<a id="bpn2317"></a> 
+### Prayer bpn2317 in România
 El este Regele, Atotştiutorul, Cel Înţelept!
 Iată, Privighetoarea paradisului cântă, pe ramurile Copacului Eternităţii, melodii sfinte şi dulci, anunţând sufletelor sincere vestea cea bună a apropierii lui Dumnezeu, invitându-i pe cei care cred în Unitatea Divină la curtea Prezenţei Celui Generos, informându-i pe cei detaşaţi de mesajul revelat de Dumnezeu, Regele, Cel Slăvit, Cel Fără de Seamăn, călăuzindu-i pe adoratori spre lăcaşul de sfinţire şi spre această strălucitoare Frumuseţe. Cu adevărat, iată Frumuseţea sublimă, anunţată în Cărţile Mesagerilor, prin Care adevărul se va distinge de eroare şi prin care înţelepciunea fiecărei porunci va fi dovedită. Cu adevărat, El este Arborele vieţii care poartă roadele lui Dumnezeu, Cel Atotslăvit, Cel Puternic, Cel Mare.
 
@@ -3263,9 +3871,13 @@ Cu adevărat, El este Cel Milostiv şi Bun. Lăudat fie Dumnezeu, Stăpânul tut
 
 
 
+
+
+<a id="Tabletele vizitării Bahá’u’lláh şi Báb"></a> 
 ## Tabletele vizitării Bahá’u’lláh şi Báb
 
-### <a id="bpn2320"></a> Prayer bpn2320 in România
+<a id="bpn2320"></a> 
+### Prayer bpn2320 in România
 *Această Tabletă se citeşte la mormintele lui Báb şi Bahá’u’lláh. De asemenea este folosită frecvent şi pentru comemorarea Înălţării lui Báb şi Bahá’u’lláh
 
 Fie ca lauda ce a izvorât din însăşi maiestatea Firii Tale şi slava ce a străluminat din scânteietoarea Ta frumuseţe să poposească la Tine - o, Tu Cel care eşti Întruparea Măreţiei, Împăratul Veşniciei şi Stăpânul tuturor celor din cer şi de pe pământ! Aduc mărturie că prin Tine suveranitatea lui Dumnezeu şi stăpânirea Sa, măreţia lui Dumnezeu şi nobleţea Sa au fost dezvăluite; că Luceferii splendorii din vechime şi-au trimis razele în cerul hotărârii Tale de neclintit; că frumuseţea Celui Nevăzut a răsărit la orizontul creaţiei. Mai mult, aduc mărturie că printr-un semn al Penei Tale îndemnul „FII” s-a întărit; taina cea ascunsă a lui Dumnezeu s-a făcut ştiută; toate lucrurile create au fost atrase chemate întru fiinţă şi toate Revelaţiile au fost trimise pe pământ.
@@ -3293,9 +3905,13 @@ Cu adevărat Tu eşti Cel Atotdarnic, a cărui bunăvoinţă este fără margini
 
 
 
+
+
+<a id="Tabletele vizitării Bahíyyih Khánum"></a> 
 ## Tabletele vizitării Bahíyyih Khánum
 
-### <a id="bpn2321"></a> Prayer bpn2321 in România
+<a id="bpn2321"></a> 
+### Prayer bpn2321 in România
 El este Cel Veşnic! Aceasta este mărturia Mea pentru cea care a auzit vocea mea şi s-a apropiat de Mine. Cu adevărat, ea este o frunză care a înmugurit din această Rădăcină preexistentă. Ea s-a făcut cunoscută în Numele Meu şi a gustat dulceaţa amintirii sfinţeniei Mele, a minunatei Mele bucurii. O dată i-am dat să bea din Gura Mea dulce ca mierea, altă dată am lăsat-o să se înfrupte din puterea Mea, din Kawtharul28 Meu luminos. Asupra ei odihneşte slava Numelui Meu şi mireasma veşmântului Meu scânteietor.
 
 Fie ca aceste cuvinte preaslăvite să fie cântecul tău de iubire în copacul Slavei, o, tu, frunză preasfântă şi strălucitoare: „Dumnezeu, în afară de Care nu există alt Dumnezeu, Stăpânul acestei lumi şi a celei ce va să vie!” Cu adevărat, te-am înălţat la rangul uneia dintre cele mai distinse printre cele de sexul tău şi ţi-am acordat, un loc pe care nici o altă femeie nu l-a întrecut, la curtea Mea. Astfel te-am preferat pe tine şi te-am ridicat deasupra celorlalte, ca un semn de bunăvoinţă din partea Celui care este Stăpânul tronului din înalturi şi al pământului de dedesupt. Noi am creat ochii tăi ca să privească lumina chipului Meu, urechile tale pentru a se grăbi să asculte melodia cuvintelor Mele, trupul tău pentru a aduce omagiu înaintea tronului Meu. Adu mulţumiri lui Dumnezeu, Stăpânul tău şi Stăpânul întregii lumi.
@@ -3309,9 +3925,13 @@ Cât de distinsă este mărturia lui Sadratu’l-Muntahá29 pentru frunza Sa. C�
 
 
 
+
+
+<a id="Tabletele vizitării Mírzá Mihdí"></a> 
 ## Tabletele vizitării Mírzá Mihdí
 
-### <a id="bpn2322"></a> Prayer bpn2322 in România
+<a id="bpn2322"></a> 
+### Prayer bpn2322 in România
 Asupra ta, o, Ramură a lui Dumnezeu, fie amintirea de Dumnezeu şi preaslăvirea Lui, şi lauda tuturor celor ce sălăşluiesc pe Tărâmul Nemuririi şi a tuturor locuitorilor Împărăţiei Numelor. Fericit eşti tu întrucât ai fost credincios Legământului lui Dumnezeu şi Testamentului Său până în clipa în care te-ai sacrificat înaintea chipului Domnului tău, Cel Atotputernic, Cel Neconstrâns. Tu ai fost, cu adevărat, asuprit şi întru aceasta mărturiseşte Frumuseţea Lui, Cel de Sine Stătător. În primele zile ale vieţii tale ai îndurat ceea ce a făcut ca toate lucrurile să geamă şi ca fiecare stâlp să se clatine. Fericit este cel care îşi aminteşte de tine şi se apropie, prin tine, de Dumnezeu, Creatorul Zorilor …
 
 Binecuvântat eşti tu şi binecuvântat este cel ce se întoarce spre tine şi-ţi vizitează mormântul şi se apropie, prin tine, de Dumnezeu, Stăpânul a tot ce a fost şi va fi. Mărturisesc că tu te-ai întors în smerenie la sălaşul tău. Mare este binecuvântarea ta şi binecuvântarea celor ce se ţin strâns de poala veşmântului tău. Când te-ai aşezat în pământ spre odihnă, pământul însuşi s-a cutremurat de dorul de a te întâlni. Astfel a fost poruncit şi totuşi oamenii nu înţeleg... De-ar fi să socotim misterele înălţării tale, cei ce sunt adormiţi s-ar trezi şi toate făpturile s-ar aprinde de focul amintirii Numelui Meu, Cel Tare, Cel Iubitor.
@@ -3323,9 +3943,13 @@ Binecuvântat eşti tu şi binecuvântat este cel ce se întoarce spre tine şi-
 
 
 
+
+
+<a id="Tabletele vizitării Navváb"></a> 
 ## Tabletele vizitării Navváb
 
-### <a id="bpn2323"></a> Prayer bpn2323 in România
+<a id="bpn2323"></a> 
+### Prayer bpn2323 in România
 O, credincioşi! De va fi să vizitaţi locul de odihnă al Celei Mai Slăvite Frunze, ce s-a înălţat către Tovarăşul Sfânt, staţi în picioare şi spuneţi:
 
 „Onoarea, binecuvântarea şi slava fie asupra ta, o, sfântă frunză care ai obârşia în Copacul Divin. Stau mărturie că tu ai crezut în Dumnezeu şi în semnele Sale, ai răspuns chemării Sale, te-ai întors către El, te-ai ţinut strâns de funia Sa şi te-ai agăţat de poala bunăvoinţei Sale; ţi-ai părăsit casa pe cărarea Lui şi ai ales să trăieşti ca un străin din iubire pentru prezenţa Lui şi dornică să-L slujeşti. Fie ca Dumnezeu să se îndure de cel care s-a apropiat de Tine şi îşi aminteşte de tine prin lucruile pe care Pana Mea le-a cântat din acest loc preamărit. Îl rugăm pe Dumnezeu ca să ne ierte şi să-i ierte pe toţi cei care s-au îndreptat spre tine şi să răspundă vrerilor lor, dăruindu-le, prin graţia Sa minunată, orice ei ar dori. El este cu adevărat Cel Darnic, Cel Generos. Lauda fie cu Dumnezeu, Cel care este Dorinţa tuturor lumilor şi Preaiubitul tuturor celor care Îl recunosc.”
@@ -3337,9 +3961,13 @@ O, credincioşi! De va fi să vizitaţi locul de odihnă al Celei Mai Slăvite F
 
 
 
+
+
+<a id="Tabletele vizitării ‘Abdu’l‑bahá"></a> 
 ## Tabletele vizitării ‘Abdu’l‑bahá
 
-### <a id="bpn2319"></a> Prayer bpn2319 in România
+<a id="bpn2319"></a> 
+### Prayer bpn2319 in România
 *(Această rugăciune revelată de ‘Abdu’l-Bahá se va citi la mormântul acestuia. Poate fi citită şi în alte momente.)
 
 Oricine recită această rugăciune cu smerenie şi înflăcărare va aduce încântare şi bucurie în inima acestui Servitor; va fi ca şi cum s-ar întâlni faţă în faţă cu El.
@@ -3362,9 +3990,13 @@ Tu eşti Cel Darnic, Cel Plin de Har, Cel Plin de Milă, Cel Mai Mărinimos, Cel
 
 
 
+
+
+<a id="Triumful Cauzei lui Dumnezeu"></a> 
 ## Triumful Cauzei lui Dumnezeu
 
-### <a id="bpn2297"></a> Prayer bpn2297 in România
+<a id="bpn2297"></a> 
+### Prayer bpn2297 in România
 Slava fie cu Tine, o, Doamne, Tu Cel care, prin puterea poruncii Tale, ai chemat întru fiinţă toate lucrurile create.
 
 O, Doamne! Ajută-i pe cei care au renunţat la tot în afară de Tine, şi îngăduie-le o mare victorie. Coboară asupra lor, o, Doamne, adunarea îngerilor din ceruri şi de pe pământ şi tot ce se află între ele, ca să-i ajute pe slujitorii Tăi, să-i sprijine şi să-i întărească, să le îngăduie să dobândească succesul, să-i susţină, să-i investească cu glorie, să confere asupra lor onoare şi înălţare, să-i îmbogăţească şi să-i facă triumfători.
@@ -3379,7 +4011,10 @@ Tu eşti Domnul lor, Stăpânul cerurilor şi al pământului, Stăpânul tuturo
 
 
 
-### <a id="bpn2298"></a> Prayer bpn2298 in România
+
+
+<a id="bpn2298"></a> 
+### Prayer bpn2298 in România
 O, Doamne! Ajută la creşterea rapidă a Pomului unităţii Tale divine; udă-l apoi, o, Doamne, cu apele curgătoare ale bunului Tău plac şi înaintea revelaţiilor asigurării Tale divine, ai grijă să poarte roadele pe care Tu le doreşti pentru slăvirea şi înălţarea Ta, lauda şi mulţumirea Ta, ca să preamărească numele Tău, să laude unicitatea Esenţei Tale şi să Te adore, întrucât toate acestea stau în puterea Ta şi a nimănui altcuiva.
 
 Mare este binecuvântarea celor al căror sânge l-ai ales pentru a uda cu el Pomul afirmării Tale şi astfel să înalţi Cuvântul Tău sfânt şi statornic.
@@ -3390,7 +4025,10 @@ Mare este binecuvântarea celor al căror sânge l-ai ales pentru a uda cu el Po
 
 
 
-### <a id="bpn2299"></a> Prayer bpn2299 in România
+
+
+<a id="bpn2299"></a> 
+### Prayer bpn2299 in România
 O, Doamne! Fă-i victorioşi pe slujitorii Tăi răbdători în zilele Tale, îngăduindu-le o victorie cuvenită, întrucât ei au căutat martiriul în calea Ta. Coboară asupra lor ceea ce va aduce confort minţilor lor, le va bucura fiinţa lăuntrică, va da încredinţare trupurilor lor şi va permite sufletelor lor să ajungă în prezenţa lui Dumnezeu, Cel Preaînalt şi să atingă Paradisul suprem şi acele sălaşuri de slavă pe care le-ai hărăzit oamenilor de adevărată cunoaştere şi virtute. Cu adevărat, Tu cunoşti toate lucrurile, în timp ce noi suntem doar slujitorii Tăi, sclavii Tăi, robii Tăi şi săracii Tăi. Nici un alt Stăpân în afară de Tine nu invocăm, o, Dumnezeule, Stăpânul nostru, nici nu implorăm binecuvântări sau har de la nimeni altul decât Tine, o, Tu care eşti Dumnezeul milostivirii pentru această lume şi pentru cea care va urma. Noi suntem doar întrupări ale sărăciei, ale nimicniciei, neajutorării şi pierzaniei, în timp ce întreaga Ta fiinţă înseamnă bogăţie, independenţă, glorie, maiestate şi har fără de margini.
 
 Preschimbă răsplata noastră, o, Domnul meu, în ceea ce ţi se cuvine din binele acestei lumi şi a celei ce va urma, şi din nenumăratele mărinimii care se întind din înalturi până jos pe pământ.
@@ -3403,7 +4041,10 @@ Cu adevărat, Tu eşti Stăpânul nostru şi Stăpânul tuturor lucrurilor. În 
 
 
 
-### <a id="bpn2300"></a> Prayer bpn2300 in România
+
+
+<a id="bpn2300"></a> 
+### Prayer bpn2300 in România
 O, Doamne! Îngăduie tuturor popoarelor pământului să intre în Paradisul Credinţei Tale, astfel nici un lucru creat să nu rămână dincolo de hotarele bunului Tău plac.
 
 Din timpuri imemoriale Tu ai avut puterea de a face ceea ce Îţi place şi ai fost transcendent deasupra a tot ceea ce doreşti.
@@ -3415,9 +4056,13 @@ Din timpuri imemoriale Tu ai avut puterea de a face ceea ce Îţi place şi ai f
 
 
 
+
+
+<a id="Unitate"></a> 
 ## Unitate
 
-### <a id="bpn2303"></a> Prayer bpn2303 in România
+<a id="bpn2303"></a> 
+### Prayer bpn2303 in România
 O, Dumnezeul meu! O, Dumnezeul meu! Uneşte inimile slujitorilor Tăi şi revelează-le ţelul Tău măreţ. Fie ca ei să asculte de poruncile Tale şi să se supună legii Tale. Ajută-i, o, Doamne, în străduinţa lor şi dă-le putere să Te slujească. O, Dumnezeule! Nu-i lăsa singuri, ci călăuzeşte-le paşii cu lumina cunoaşterii Tale şi adu-le bucurie în inimi cu dragostea Ta. Tu eşti, cu adevărat, Ajutorul şi Stăpânul lor.
 
 (Source category: Unitate)
@@ -3426,7 +4071,10 @@ O, Dumnezeul meu! O, Dumnezeul meu! Uneşte inimile slujitorilor Tăi şi revele
 
 
 
-### <a id="bpn2301"></a> Prayer bpn2301 in România
+
+
+<a id="bpn2301"></a> 
+### Prayer bpn2301 in România
 O, Doamne, Dumnezeul meu! Lauda fie cu Tine pentru că ai aprins focul iubirii Tale divine în Pomul Sfânt de pe vârful celui mai înalt munte: acel Pom „care nu este nici al răsăritului nici al apusului”10, acel foc care arde până ce flacăra lui se ridică la Adunarea Cerească, şi de la care acele realităţi şi-au luat lumina călăzirii şi au strigat: „Cu adevărat noi am desluşit un foc pe coasta Muntelui Sinai.”
 
 O, Doamne, Dumnezeul meu! Înteţeşte acest foc, zi după zi, până când văpaia lui va pune în mişcare întreg pământul. O, Tu, Stăpânul meu! Aprinde lumina iubirii Tale în fiecare inimă, suflă în sufletele oamenilor spiritul cunoaşterii Tale, bucură-le pieptul cu versetele unicităţii Tale. Cheamă-i la viaţă pe cei care sălăşluiesc în mormintele lor, avertizează-i pe cei mândri, fă fericirea universală, revarsă apele Tale cristaline iar în adunarea splendorilor dezvăluite, treci roată cupa „oţelită la fântâna de camfor”12.
@@ -3439,7 +4087,10 @@ Cu adevărat, Tu eşti Cel Ce dăruie, Cel Iertător, Cel Veşnic Mărinimos. Cu
 
 
 
-### <a id="bpn2302"></a> Prayer bpn2302 in România
+
+
+<a id="bpn2302"></a> 
+### Prayer bpn2302 in România
 El este Dumnezeu! O, Doamne, Dumnezeul meu, Preaiubitul meu! Aceştia sunt slujitorii Tăi care au auzit Vocea Ta, au plecat urechea la Cuvântul Tău şi s-au grăbit la Chemarea Ta. Ei au crezut în Tine, au stat mărturie minunilor Tale, au adeverit dovada Ta şi au mărturisit existenţa Ta. Ei au mers pe cărările Tale, au urmat călăuzirea Ta, au descoperit tainele Tale, au înţeles secretele Cărţii Tale, versetele Pergamentelor Tale şi veştile Epistolelor şi Tabletelor Tale. Ei s-au agăţat de poala veşmântului Tău şi s-au ţinut strâns de mantia luminii şi splendorii Tale. Paşii lor au fost întăriţi în Legământul Tău şi inimile lor au rămas credincioase Testamentului Tău. Doamne! Aprinde în inimile lor atracţia Ta divină şi îngăduie ca pasărea iubirii şi înţelegerii să cânte în inimile lor. Îngăduie să poată fi semne convingătoare, stindarde strălucitoare şi perfecte asemenea cuvântului Tău. Prin ei înalţă Cauza Ta, desfăşoară stindardele Tale şi răspândeşte în lung şi în lat minunile Tale. Fă prin ei Cuvântul Tău triumfător şi întăreşte puterile celor iubiţi de Tine. Dezleagă-le limbile ca să preamărească Numele Tău şi inspiră-i să se supună sfintei Tale voinţe şi plăceri. Iluminează feţele lor în Împărăţia Ta de sfinţenie şi desăvârşeşte bucuria lor ajutându-i să se ridice pentru triumful Cauzei Tale.
 
 Doamne! Noi suntem slabi; întăreşte-ne pentru a răspândi miresmele sfinţeniei Tale. Suntem săraci, îmbogăţeşte-ne din comorile Unităţii Tale Divine. Suntem despuiaţi, înveşmântează-ne în mantia mărinimiei Tale. Suntem păcătoşi, iartă păcatele noastre cu harul Tău, bunăvoinţa Ta şi îngăduinţa Ta. Tu eşti, cu adevărat, Cel ce Susţine, Cel ce Ajută, Cel Plin de Har, Cel Tare, Cel Puternic.
@@ -3453,9 +4104,13 @@ Slava Slavei odihnească asupra celor ce sunt statornici şi neclintiţi.
 
 
 
+
+
+<a id="Viitoare Mame"></a> 
 ## Viitoare Mame
 
-### <a id="bpn2304"></a> Prayer bpn2304 in România
+<a id="bpn2304"></a> 
+### Prayer bpn2304 in România
 Domnul meu, Stăpânul meu! Îţi aduc laude şi îţi mulţumesc pentru favoarea ce ai acordat-o umilei Tale slujitoare, sclava Ta care Te roagă şi Te imploră, căci Tu, cu adevărat, ai călăuzit-o spre Împărăţia Ta de netăgăduit, pentru că ai făcut-o să audă Chemarea Ta preamărită, în această lume terestră şi să vadă Semnele Tale care mărturisesc apariţia suveranităţii Tale victorioase asupra tuturor lucrurilor.
 
 O, Domnul meu, ţie îţi închin ceea ce este în pântecul meu. Fă astfel încât să devină un copil demn de laudă în Împărăţia Ta şi să se bucure de favoarea şi generozitatea Ta; să se dezvolte şi să crească la adăpostul educaţiei Tale. Cu adevărat, Tu eşti Cel Plin de Har! Cu adevărat, Tu eşti Domnul Generozităţii!
@@ -3467,9 +4122,13 @@ O, Domnul meu, ţie îţi închin ceea ce este în pântecul meu. Fă astfel în
 
 
 
+
+
+<a id="Zilele Intercalare"></a> 
 ## Zilele Intercalare
 
-### <a id="bpn2324"></a> Prayer bpn2324 in România
+<a id="bpn2324"></a> 
+### Prayer bpn2324 in România
 *Zilele Intercalare, 26 februarie - 1 martie, sunt zile de pregătire pentru Post, zile de ospitalitate, dragoste de semeni şi oferire de daruri.
 
 O, Pană a Celui Preaînalt! Spune:
@@ -3481,7 +4140,10 @@ O, popoare ale pământului! Noi v-am poruncit să postiţi pentru o perioadă s
 
 
 
-### <a id="bpn2325"></a> Prayer bpn2325 in România
+
+
+<a id="bpn2325"></a> 
+### Prayer bpn2325 in România
 Dumnezeul meu, Focul meu şi Lumina
 mea! Zilele pe care Tu le-ai numit Ayyám-i-Há30 în Cartea Ta au început, o, Tu, Care eşti Regele numelor, şi postul pe care Pana Ta prea slăvită a poruncit să-l ţină toţi cei ce sunt în împărăţia creaţiei Tale se apropie. Te implor, o, Domnul meu, prin aceste zile şi prin cei care în această perioadă s-au agăţat de funia poruncilor Tale şi au ţinut cu străşnicie cârma preceptelor Tale, să îngădui ca fiecărui suflet să-i fie hărăzit un lăcaş înlăuntrul hotarelor curţii Tale şi un loc la revelarea splendorilor luminii chipului Tău.
 
@@ -3500,9 +4162,13 @@ Tu eşti, cu adevărat, Cel Tare, Cel Atotştiutor, Cel Atotcunoscător.
 
 
 
+
+
+<a id="Încercări şi Dificultăţi"></a> 
 ## Încercări şi Dificultăţi
 
-### <a id="bpn2222"></a> Prayer bpn2222 in România
+<a id="bpn2222"></a> 
+### Prayer bpn2222 in România
 Risipeşte-mi supărarea prin bunătatea şi generozitatea Ta, o, Doamne, Dumnezeul meu şi alungă-mi suferinţa prin suveranitatea şi tăria Ta. Tu mă vezi, o, Dumnezeul meu, cu faţa întoarsă către Tine, într-un moment în care necazurile m-au înconjurat din toate părţile. O, Tu, care eşti stăpânul tuturor fiinţelor şi care adăposteşti toate lucrurile, văzute şi nevăzute. Te implor, întru Numele Tău cu care ai cucerit inimile şi sufletele oamenilor şi întru talazurile Oceanului milostivirii Tale şi splendorile Luceafărului bunătăţii Tale, să mă socoteşti printre cei pe care nimic nu i-a împiedicat de a-şi întoarce faţa spre Tine, o, Tu, Stăpânul tuturor numelor şi Făuritorul cerurilor!
 
 Tu vezi, o, Doamne, Dumnezeul meu, cele ce s-au abătut asupra mea în vremea zilelor Tale. Te implor, în numele Aceluia care este Aurora numelor Tale şi locul în care s-au ivit atributele Tale, să-mi hărăzeşti puterea de a mă ridica pentru a Te sluji şi a-Ţi preamări virtuţile. Tu eşti, cu adevărat, Cel Omnipotent, Cel Preaputernic, Cel deprins a răspunde rugăciunilor tuturor oamenilor!
@@ -3515,7 +4181,10 @@ Tu vezi, o, Doamne, Dumnezeul meu, cele ce s-au abătut asupra mea în vremea zi
 
 
 
-### <a id="bpn2223"></a> Prayer bpn2223 in România
+
+
+<a id="bpn2223"></a> 
+### Prayer bpn2223 in România
 O, Tu ale Cărui încercări sunt un leac tămăduitor pentru cei ce sunt aproape de Tine, a Cărui spadă este dorinţa cea mai fierbinte a tuturor celor ce Te iubesc, a Cărui săgeată este dorinţa cea mai dragă a acelor inimi ce tânjesc după Tine, a Cărui poruncă este singura speranţă a celor ce au recunoscut adevărul Tău! Te implor, pe dulceaţa Ta divină şi pe splendorile gloriei feţei Tale, să cobori asupra noastră din sălaşurile Tale din înalturi, ceea ce ne va permite să ne apropiem de Tine. Fă, deci, statornici paşii noştri în Cauza Ta, o, Dumnezeul meu, luminează-ne inimile cu strălucirea cunoaşterii Tale şi pieptul cu strălucirea numelor Tale.
 
 (Source category: Încercări şi Dificultăţi)
@@ -3524,7 +4193,10 @@ O, Tu ale Cărui încercări sunt un leac tămăduitor pentru cei ce sunt aproap
 
 
 
-### <a id="bpn2224"></a> Prayer bpn2224 in România
+
+
+<a id="bpn2224"></a> 
+### Prayer bpn2224 in România
 Slavă Ţie, o, Dumnezeul meu! Dacă n-ar fi suferinţele îndurate în calea Ta, cum ar putea fi recunoscuţi adevăraţii Tăi îndrăgostiţi, şi dacă n-ar fi încercările susţinute din iubire pentru Tine, cum ar putea fi dezvăluit rangul celor ce tânjesc după Tine? Tăria Ta îmi stă mărturie! Însoţitoarele celor ce Te adoră sunt lacrimile pe care ei le varsă, şi alinătorii celor ce Te caută sunt gemetele lor, şi hrana celor ce se grăbesc să Te întâlnească sunt fărâmele inimilor lor zdrobite.
 
 Cât de dulce este pentru mine gustul amărăciunii unei morţi suferite în calea Ta şi cât de preţioase, în aprecierea mea, sunt săgeţile vrăjmaşilor Tăi când sunt întâmpinate de dragul înălţării cuvântului Tău! Lasă-mă să sorb în Cauza Ta, o, Dumnezeul meu, orice Tu ai dorit, şi prin dragostea Ta coboară asupra mea tot ceea ce ai poruncit. Pe Slava Ta! Eu doresc numai ceea ce Tu doreşti şi îndrăgesc numai ceea ce Tu îndrăgeşti. În Tine am pus mereu întreaga mea încredere şi certitudine.
@@ -3539,7 +4211,10 @@ Tu ai puterea de face ceea ce Îţi place. Nu există alt Dumnezeu în afară de
 
 
 
-### <a id="bpn2225"></a> Prayer bpn2225 in România
+
+
+<a id="bpn2225"></a> 
+### Prayer bpn2225 in România
 O, Dumnezeule! Încercările pe care le trimiţi sunt o alinare pentru toţi cei ce sunt devotaţi voinţei Tale; pomenirea Ta este un leac tămăduitor pentru inimile celor ce s-au apropiat de curtea Ta; apropierea de Tine este adevărata viaţă pentru cei ce Te iubesc; prezenţa Ta este dorinţa cea mai fierbinte a celor ce năzuiesc să-Ţi privească faţa; depărtarea de Tine este chinul celor care au recunoscut unicitatea Ta, iar despărţirea de Tine este moarte pentru cei care au recunoscut adevărul Tău!
 
 Te implor, pe suspinele pe care cei ale căror suflete tânjesc după Tine le-au rostit în depărtarea lor de curtea Ta şi pe plânsetele acelora dintre cei ce Te iubesc care se tânguie în despărţirea lor de Tine, să mă hrăneşti cu vinul cunoaşterii Tale şi cu apele vii ale iubirii şi plăcerii Tale. Priveşte-o pe slujitoarea Ta, o, Domnul meu, care a uitat de toate în afară de Tine, s-a desfătat în iubirea Ta şi s-a tânguit pentru lucrurile care s-au abătut asupra Ta în mâinile răufăcătorilor dintre făpturile Tale. Porunceşte pentru ea ceea ce ai poruncit pentru acelea dintre slujitoarele Tale care se rotesc în jurul tronului maiestăţii Tale şi privesc, pe înserat şi la revărsatul zorilor, frumuseţea Ta.
@@ -3552,7 +4227,10 @@ Tu eşti, cu adevărat, Domnul Zilei Judecăţii.
 
 
 
-### <a id="bpn2226"></a> Prayer bpn2226 in România
+
+
+<a id="bpn2226"></a> 
+### Prayer bpn2226 in România
 Tu ştii bine, o, Dumnezeul meu, că suferinţele s-au abătut asupra mea din toate părţile, şi nimeni nu le poate risipi sau preschimba în afară de Tine. Eu ştiu cu certitudine, prin virtutea iubirii mele pentru Tine, că Tu nu vei face niciodată suferinţele să se abată asupra vreunui suflet decât dacă doreşti să-i înalţi rangul în Paradisul Tău celest şi să-i întăreşti, în această viaţă pământească, inima cu bastionul puterii Tale atotbiruitoare, ca să nu se încline către vanităţile acestei lumi. Tu ştii într-adevăr că în toate condiţiile voi îndrăgi pomenirea Ta mult mai mult decât posesiunea a tot ceea ce se află în ceruri şi pe pământ.
 
 Întăreşte-mi inima, o, Dumnezeul meu, în supunerea faţă de Tine şi în iubirea Ta şi îngăduie să fiu eliberat de însoţirea vrăjmaşilor Tăi. Cu adevărat, jur pe slava Ta, că nu tânjesc după nimic în afară de Tine, şi nu doresc nimic în afară de milostivirea Ta, şi nu mă tem decât de dreptatea Ta. Te implor să mă ierţi, ca şi pe cei pe care-i iubeşti, după placul Tău. Cu adevărat, Tu eşti Cel Tare, Cel Mărinimos.
@@ -3565,7 +4243,10 @@ Nemăsurat de înălţat eşti Tu, o, Stăpânul cerului şi al pământului, de
 
 
 
-### <a id="bpn2229"></a> Prayer bpn2229 in România
+
+
+<a id="bpn2229"></a> 
+### Prayer bpn2229 in România
 O, Doamne! Tu îndepărtezi toate suferinţele şi risipeşti toate durerile. Tu eşti Cel Ce alungă toate necazurile şi eliberează fiecare sclav, Mântuitorul fiecărui suflet. O, Doamne! Îngăduie-mi eliberarea prin milostivirea Ta şi socoteşte-mă printre acei slujitori ai Tăi care au atins mântuirea.
 
 (Source category: Încercări şi Dificultăţi)
@@ -3574,7 +4255,10 @@ O, Doamne! Tu îndepărtezi toate suferinţele şi risipeşti toate durerile. Tu
 
 
 
-### <a id="bpn2221"></a> Prayer bpn2221 in România
+
+
+<a id="bpn2221"></a> 
+### Prayer bpn2221 in România
 Cu cât vei întâmpina mai multe greutăţi în lume, cu atât vei deveni mai desăvârşit.
 
 Cu cât vei ara şi săpa mai mult pământul, cu atât acesta va deveni mai roditor.
@@ -3593,7 +4277,10 @@ De aceea, cu cât ai mai multe suferinţe, cu atât devii mai desăvârşit.
 
 
 
-### <a id="bpn2227"></a> Prayer bpn2227 in România
+
+
+<a id="bpn2227"></a> 
+### Prayer bpn2227 in România
 O, Doamne, Dumnezeule! Tu ştii că omenirea este înconjurată de suferinţe şi calamităţi, împresurată de greutăţi şi necazuri. Fiecare încercare îl asaltează pe om şi fiecare vitregie crudă îl atacă ca un şarpe. Nu există pentru el nici adăpost, nici refugiu, decât sub aripa ocrotirii, apărării, vigilenţei şi pazei Tale.
 
 O, Tu, Cel Milostiv! O, Doamne, Dumnezeule! Fă din protecţia Ta armura mea, din ocrotirea Ta scutul meu, din umilinţa în faţa uşii unicităţii Tale apărarea mea, iar din paza şi ocrotirea Ta fortăreaţa şi locuinţa mea. Fereşte-mă de ideile mele personale şi de poftele mele şi apără-mă de orice boală, încercare, greutate şi necaz.
@@ -3606,7 +4293,10 @@ Tu eşti, cu adevărat, Ocrotitorul, Păzitorul, Apărătorul, Îndestulătorul 
 
 
 
-### <a id="bpn2228"></a> Prayer bpn2228 in România
+
+
+<a id="bpn2228"></a> 
+### Prayer bpn2228 in România
 O, Doamne, Dumnezeul meu şi Adăpostul meu în primejdie! Scutul meu în nenorociri! Căminul şi refugiul meu în ceasul de nevoie şi însoţitorul meu în izolarea mea! În chinurile mele mângâiere şi în singurătatea mea un prieten duios! Tu eşti Cel ce-mi alini suferinţele şi care-mi ierţi păcatele.
 
 Spre Tine-mi îndrept întreaga fiinţă, rugându-Te fierbinte, din toată inima, sufletul şi glasul meu să mă fereşti de tot ceea ce, în acest ciclu al unităţii Tale, se opune voinţei Tale, şi să mă fereşti de toate pângăririle ce m-ar putea împiedica să mă îndrept nepătat şi curat spre umbrarul copacului milostivirii Tale.
@@ -3634,9 +4324,13 @@ Tu eşti, cu adevărat, Cel Plin de Har, Cel Preamărit, Cel Tare şi Atotputern
 
 
 
+
+
+<a id="Însănătoşire"></a> 
 ## Însănătoşire
 
-### <a id="bpn2232"></a> Prayer bpn2232 in România
+<a id="bpn2232"></a> 
+### Prayer bpn2232 in România
 Numele Tău este însănătoşirea mea, o, Doamne, Dumnezeul meu, şi gândul la Tine este leacul meu. Apropierea de Tine este speranţa mea şi iubirea ce ţi-o port este tovarăşul meu; mila Ta pentru mine este vindecarea mea şi sprijinul meu în ambele lumi, în lumea aceasta şi ce va să vie. Tu eşti, cu adevărat, Cel Atoatedăruitor, Cel Atotştiutor, Cel Preaînţelept!
 
 (Source category: Însănătoşire)
@@ -3645,7 +4339,10 @@ Numele Tău este însănătoşirea mea, o, Doamne, Dumnezeul meu, şi gândul la
 
 
 
-### <a id="bpn2233"></a> Prayer bpn2233 in România
+
+
+<a id="bpn2233"></a> 
+### Prayer bpn2233 in România
 O, Doamne, Dumnezeul meu! Te implor,
 întru oceanul însănătoşirii Tale, întru splendorile Luceafărului harului Tău, întru Numele Tău care i-a cucerit pe slujitorii Tăi, întru puterea plină de pătrundere a Cuvântului Tău preaslăvit, întru forţa slăvitei Tale Pene şi întru milostivirea Ta care a precedat creaţia a tot ce există în cer şi pe pământ, să mă cureţi cu apele generozităţii Tale de orice suferinţă şi boală, de orice slăbiciune şi debilitate.
 
@@ -3659,7 +4356,10 @@ Tu ai puterea de a face ceea ce-ţi place. Nu există alt Dumnezeu în afară de
 
 
 
-### <a id="bpn2234"></a> Prayer bpn2234 in România
+
+
+<a id="bpn2234"></a> 
+### Prayer bpn2234 in România
 Slavă ţie, o, Doamne Dumnezeul meu!
 Te implor prin Numele Tău, prin care ai înălţat stindardul călăuzirii, ai răspândit strălucirea bunătăţii Tale duioase şi prin care ai revelat suveranitatea stăpânirii tale; prin care lampa numelor Tale a apărut în nişa atributelor Tale, iar Cel care este tabernacolul unităţii Tale şi Manifestarea detaşării a răsărit; prin care căile călăuzirii au fost revelate şi cărările bunului Tău plac au fost însemnate; prin care temeliile erorii au fost zdruncinate şi semnele răutăţii au fost abolite; prin care au ţâşnit fântânile înţelepciunii şi masa cerească a fost întinsă; prin care ţi-ai ocrotit slujitorii şi le-ai acordat vindecarea Ta; prin care ţi-ai arătat blânda milostivire către slujitorii Tăi şi ţi-ai revelat iertarea în mijlocul creaturilor Tale - te implor să-l ţii în siguranţă pe cel ce s-a ţinut strâns şi s-a întors la Tine, s-a agăţat de milostivirea Ta şi a apucat poala înţelepciunii tale iubitoare. Pogoară atunci, asupra lui, vindecarea Ta, şi fă-l întreg, şi înzestrează-l cu o statornicie acordată prin bunăvoinţa Ta şi o linişte dăruită de Maiestatea Ta.
 
@@ -3671,7 +4371,10 @@ Tu eşti, cu adevărat, Vindecătorul, Păstrătorul, Ajutorul, Cel Tare, Cel Pu
 
 
 
-### <a id="bpn2235"></a> Prayer bpn2235 in România
+
+
+<a id="bpn2235"></a> 
+### Prayer bpn2235 in România
 Tu eşti Cel, o, Dumnezeul meu, al cărui nume aduce sănătate celor bolnavi, refacere celor suferinzi, potolire celor însetaţi, pace celor necăjiţi, călăuzire celor rătăciţi, înălţare celor umiliţi, bogăţie celor săraci, cunoaştere celor ignoranţi, lumină celor întunecaţi, veselie celor întristaţi, căldură celor înfriguraţi, onoare celor oprimaţi. Prin numele Tău, o, Doamne Dumnezeule, toate lucrurile create au fost puse în mişcare, cerurile au fost întinse, pământul întemeiat, norii ridicaţi în înălţimi pentru a-şi revărsa ploaia peste pământ. Aceasta este cu adevărat o dovadă a harului Tău întru toate făpturile Tale.
 
 Cu adevărat puterea Ta egalează toate lucrurile. Tu eşti, într-adevăr, Cel Atotputernic, Cel ce subzistă prin El Însuşi. Mai trimite, o, Doamne Dumnezeule, tot ce-i bun în această lume şi în cea de dincolo şi tot ceea ce a fost bun pentru generaţiile din trecut şi până în ziua de azi.
@@ -3684,7 +4387,10 @@ Cu adevărat, puterea şi înţelepciunea Ta îţi îngăduie toate acestea.
 
 
 
-### <a id="bpn2230"></a> Prayer bpn2230 in România
+
+
+<a id="bpn2230"></a> 
+### Prayer bpn2230 in România
 Rugăciunile ce au fost revelate pentru a cere însănătoşire se referă atât la însănătoşirea fizică cât şi la cea spirituală. Recitaţi-le, deci, pentru a însănătoşi atât trupul cât şi sufletul...
 
 (Source category: Însănătoşire)
@@ -3693,7 +4399,10 @@ Rugăciunile ce au fost revelate pentru a cere însănătoşire se referă atât
 
 
 
-### <a id="bpn2231"></a> Prayer bpn2231 in România
+
+
+<a id="bpn2231"></a> 
+### Prayer bpn2231 in România
 Dacă sănătatea şi bunăstarea trupului sunt cheltuite pe calea Împărăţiei, acest lucru e acceptabil şi demn de laudă; iar dacă sunt cheltuite pentru a fi de folos lumii în general, chiar dacă ar fi pentru beneficiul ei material şi ca un mijloc de a face bine, şi acest lucru e acceptabil... Dacă-ţi doreşti sănătate, doreşte-ţi sănătate pentru slujirea Împărăţiei.
 
 (Source category: Însănătoşire)
@@ -3703,9 +4412,13 @@ Dacă sănătatea şi bunăstarea trupului sunt cheltuite pe calea Împărăţie
 
 
 
+
+
+<a id="Întâlniri"></a> 
 ## Întâlniri
 
-### <a id="bpn2236"></a> Prayer bpn2236 in România
+<a id="bpn2236"></a> 
+### Prayer bpn2236 in România
 O, Tu Dumnezeule milostiv!
 O, Tu Care eşti tare şi puternic!
 O, Tu Părinte preabun! Aceşti slujitori s-au adunat împreună, întorcându-se spre Tine, implorând la pragul Tău, aşteptând, dinspre încrederea în Tine, darurile Tale nesfârşite. Ei nu au alt ţel decât bunul Tău plac. Ei nu au altă intenţie decât slujirea lumii umanităţii.
@@ -3722,7 +4435,10 @@ O, Dumnezeule! Înzestrează-ne cu chibzuinţa Ta. Tu eşti Cel Puternic. Tu eş
 
 
 
-### <a id="bpn2237"></a> Prayer bpn2237 in România
+
+
+<a id="bpn2237"></a> 
+### Prayer bpn2237 in România
 O, Divină Providenţă! Această adunare este
 alcătuită din prietenii Tăi ce sunt atraşi de frumuseţea Ta şi sunt aprinşi de focul iubirii Tale. Preschimbă aceste suflete în îngeri, reanimă-i prin suflarea Sfântului Spirit, acordă-le o exprimare elocventă şi inimi hotărâte, dăruieşte-le putere celestă şi sensibilitate plină de milostivire, fă-i să devină promotorii unităţii omenirii şi cauza iubirii şi bunei înţelegeri în lumea umanităţii, astfel încât primejdioasa întunecime a prejudecăţii pline de ignoranţă să se risipească prin lumina Soarelui Adevărului; această lume dezolată să poată fi iluminată, acest tărâm material să poată absorbi razele lumii spiritului, aceste culori diferite să se poată contopi într-o singură culoare şi melodia preamăririi să se poată înălţa către împărăţia suveranităţii Tale.
 
@@ -3734,7 +4450,10 @@ Cu adevărat, Tu eşti Cel Omnipotent şi Cel Tare!
 
 
 
-### <a id="bpn2238"></a> Prayer bpn2238 in România
+
+
+<a id="bpn2238"></a> 
+### Prayer bpn2238 in România
 O, Tu Dumnezeule iertător! Aceşti slujitori se întorc către împărăţia Ta şi caută bunăvoinţa şi mărinimia Ta. O, Doamne! Fă inimile lor bune şi curate pentru ca ei să poată deveni demni de iubirea Ta. Purifică şi sfinţeşte spiritele astfel încât lumina Soarelui Realităţii să poată străluci asupra lor. Purifică şi sfinţeşte ochii ca să poată desluşi lumina Ta. Purifică şi sfinţeşte urechile ca să poată auzi chemarea împărăţiei Tale.
 
 O, Doamne! Cu adevărat, noi suntem slabi, dar Tu eşti Cel tare. Cu adevărat, noi suntem săraci, dar Tu eşti bogat. Noi suntem căutătorii, dar Tu eşti Cel căutat. O, Doamne! Îndură-Te de noi şi iartă-ne; acordă-ne o astfel de abilitate şi receptivitate încât să putem fi demni de favorurile Tale şi să putem fi atraşi către împărăţia Ta, ca să putem sorbi adânc din apa vie, să putem fi aprinşi de focul iubirii Tale şi să fim reanimaţi prin adierile Sfântului Spirit în acest veac strălucitor.
@@ -3753,7 +4472,10 @@ Tu eşti Cel Puternic, Cel Omnipotent, Cel Milostiv şi Tu eşti Cel Generos, Ce
 
 
 
-### <a id="bpn2239"></a> Prayer bpn2239 in România
+
+
+<a id="bpn2239"></a> 
+### Prayer bpn2239 in România
 O, Dumnezeul meu! O, Dumnezeul meu!
 Cu adevărat, aceşti slujitori se întorc către Tine, implorând împărăţia milostivirii Tale. Cu adevărat ei sunt atraşi de sfinţenia Ta şi aprinşi de focul iubirii Tale, căutând confirmare de la împărăţia Ta minunată şi sperând să atingă tărâmul Tău ceresc. Cu adevărat, ei tânjesc după darurile Tale, dorind iluminare de la Soarele Realităţii. O, Doamne! Fă-i lămpi strălucitoare, semne milostive, pomi roditori şi stele scânteietoare. Fie ca ei să se ridice în slujba Ta şi să fie ataşaţi de Tine prin legăturile iubirii Tale, tânjind după luminile favorii Tale. O, Doamne! Fă-i semnele călăuzirii, stindardele împărăţiei Tale nemuritoare, valuri pe marea milostivirii Tale, oglinzi ale luminii maiestăţii Tale. Cu adevărat, Tu eşti Cel Generos. Cu adevărat, Tu eşti Cel Milostiv. Cu adevărat, Tu eşti Cel Drag, Cel Preaiubit.
 
@@ -3761,6 +4483,8 @@ Cu adevărat, aceşti slujitori se întorc către Tine, implorând împărăţia
 
 (Source category: Întâlniri)
 (Bahaiprayers.net ID: 2239)
+
+
 
 
 

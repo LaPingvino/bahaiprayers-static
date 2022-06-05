@@ -69,9 +69,11 @@ tags = ['lang=tl', 'prayerbook']
 
 
 
+<a id="Ang Pag-Aayuno"></a> 
 ## Ang Pag-Aayuno
 
-### <a id="bpn4537"></a> Prayer bpn4537 in Filipino
+<a id="bpn4537"></a> 
+### Prayer bpn4537 in Filipino
 *Sinasabi ng Aqdas: “Inuutusan Namin kayo na manalangin at mag-ayuno mula sa pagsapit sa hustong gulang (15 taon); ito ay iniuutos ng Diyos, ang inyong Panginoon at ang Panginoon ng inyong mga ninuno... Ang manlalakbay, ang may karamdaman, yaong nagdadalantao o nagpapasuso, ay hindi nasasaklaw ng Pag-aayuno... Huwag kumain at uminom mula sa pagsikat ng araw hanggang sa paglubog ng araw, at mag-ingat na baka ang hangarin ay pagkaitan kayo ng pagpapala na ito na itinakda sa Aklat.” Ang panahon ng Pag-aayuno ay buhat sa Marso 2 hanggang Marso 20.
 
 Isinasamo ko sa Iyo, O aking Diyos sa Iyong makapangyarihang Tanda, at sa kapahayagan ng Iyong biyaya sa mga tao, na huwag Mo akong ilayo sa pintuan ng lunsod ng Iyong kinaroroonan, at huwag biguin ang mga pag-asang iniukol ko sa mga kapahayagan ng Iyong biyaya sa Iyong mga nilalang.  Nakikita Mo ako, O aking Diyos, na nakahawak sa Iyong Pangalan, ang Pinakabanal, ang Pinakamaningning, ang Pinakamakapangyarihan, ang Pinakadakila, ang Pinakamataas, ang Pinakamaluwalhati, at nakapangapit sa laylayan ng damit na pinangapitan ng lahat sa daigdig na ito at sa daigdig na darating.
@@ -108,7 +110,10 @@ Isinasamo ko sa Iyo, O aking Panginoon, sa Iyong Sarili, at sa Iyong mga tanda, 
 
 
 
-### <a id="bpn4538"></a> Prayer bpn4538 in Filipino
+
+
+<a id="bpn4538"></a> 
+### Prayer bpn4538 in Filipino
 Purihin Ka, O Panginoon kong Diyos! Sumasamo ako sa Iyo sa Rebelasyon na ito na naging sanhi ng pagliliwanag ng karimlan, na sa pamamagitan niyon ay naitayo ang Templong Laging Dinadalaw, at naihayag ang Nakasulat na Tableta, at naalisan ng takip ang Rolyong Nakaladlad, na ihulog sa akin at sa mga nasa aking piling yaong makatutulot na kami’y pumailanlang sa mga langit ng Iyong nangingibabaw na kaluwalhatian, at makapaghuhugas sa amin ng mantsa ng mga alinlangang nakahahadlang sa mga mapaghinala mula sa pagpasok sa tabernakulo ng Iyong kaisahan.
 
 Ako ay siya, O aking Panginoon, na mahigpit na nakahawak sa kuldon ng Iyong mapagmahal na kahabagan, at nakapangapit sa laylayan ng Iyong awa at tangkilik. Iatas Mo para sa akin at para sa aking mga mahal ang mabuti ng daigdig na ito at ng daigdig na darating. Pagkalooban sila, kung gayon, ng Tagong Handog na iniatas Mo para sa pinakatatangi sa Iyong mga nilalang.
@@ -123,7 +128,10 @@ Walang Diyos liban sa Iyo, ang Nakababatid ng Lahat, ang Marunong sa Lahat. Laha
 
 
 
-### <a id="bpn4539"></a> Prayer bpn4539 in Filipino
+
+
+<a id="bpn4539"></a> 
+### Prayer bpn4539 in Filipino
 Ang mga ito, O aking Diyos, ang mga araw na ang Iyong mga tagapaglingkod ay inatasan Mong magsagawa ng pag-aayuno. Sa pamamagitan niyon pinalamutihan Mo ang paunang-bahagi ng Aklat ng Iyong mga Batas na inihayag sa Iyong mga nilalang, at ginayakan ang mga Taguan ng Iyong kautusan sa paningin ng lahat ng nasa Iyong langit at lahat ng nasa Iyong lupa. Pinagkalooban Mo ang bawat oras ng mga araw na ito ng isang natatanging kabutihan, na hindi mauunawaan ng sinuman liban sa Iyo, na ang Kaniyang kaalaman ay sumasaklaw sa lahat ng nilalang na bagay. Naglaan Ka rin sa bawat kaluluwa ng isang bahagi ng kabutihang ito alinsunod sa Tableta ng Iyong kautusan at sa mga Kasulatan ng Iyong di mababaling Hatol. Bawat dahon ng mga Aklat at Kasulatang ito ay inilaan Mo rin sa bawat isa sa mga mamamayan at mga kaanak ng lupa.
 
 Para sa mga umiibig nang mataimtim sa Iyo, alinsunod sa Iyong kautusan ay naglaan Ka, sa pagpitak ng bawat umaga, ng kopa ng Iyong paggunita, O Ikaw na Tagapamahala ng mga tagapamahala! Ang mga ito ay silang nalango sa alak ng Iyong napakaraming kadunungan kung kaya iniwan nila ang kanilang mga higaan sa kanilang paghahangad na maipagdiwang ang pagpuri at pagpaparangal sa Iyong mga kabutihan, at tumakas buhat sa pagkakatulog sa kanilang kasabikang makalapit sa Iyong kinaroroonan at makabahagi sa Iyong pagpapala. Sa lahat ng panahon, ang kanilang mga mata ay nakabaling sa Pamimitak ng Iyong mapagmahal na kaawaan, at ang kanilang mga mukha ay nakatuon sa Ulong-Bukal ng Iyong inspirasyon. Paulanin, kung gayon, sa amin at sa kanila buhat sa mga ulap ng Iyong kahabagan yaong karapat-dapat sa langit ng Iyong kagandahang-loob at biyaya.
@@ -149,9 +157,13 @@ Pagtagumpayin Mo ang Iyong Kapakanan, O aking Panginoon, at gapiin ang Iyong mga
 
 
 
+
+
+<a id="Ang Tableta Ng Apoy"></a> 
 ## Ang Tableta Ng Apoy
 
-### <a id="bpn4532"></a> Prayer bpn4532 in Filipino
+<a id="bpn4532"></a> 
+### Prayer bpn4532 in Filipino
 Sa Ngalan ng Diyos, ang Napakatanda, ang Pinakadakila.
 
 Tunay na ang mga puso ng mga matatapat ay nauubos na sa apoy ng pagkakahiwalay: Nasaan ang ningning ng ilaw ng Iyong Mukha, O Minamahal ng mga daigdig?
@@ -263,9 +275,13 @@ Kung babasahin at pagninilay-nilayan ito ng lahat ng mga tagapaglingkod, magnini
 
 
 
+
+
+<a id="Ang Tableta Ng Pagdalaw"></a> 
 ## Ang Tableta Ng Pagdalaw
 
-### <a id="bpn4534"></a> Prayer bpn4534 in Filipino
+<a id="bpn4534"></a> 
+### Prayer bpn4534 in Filipino
 Ang Tabletang ito ay binabasa sa mga Dambana ni Bahá’u’lláh at ng Báb. Ito ay malimit ding gamitin sa paggunita sa Kanilang mga anibersaryo.
 
 Ang papuring nagliwayway buhat sa Iyong kamahal-mahalang Sarili, at ang kaluwalhatiang sumikat buhat sa Iyong maningning na Kagandahan, ay nananahan sa Iyo, O Ikaw na Kapahayagan ng Kamaharlikaan, at Hari ng Kawalang-hanggan, at Panginoon ng lahat ng nasa langit at nasa lupa! Pinatutunayan ko na sa pamamagitan Mo ang paghahari ng Diyos at ang Kaniyang kaharian, at ang kamaharlikaan, ay nahayag, at ang mga Araw-Bituin ng matandang karilagan ay nagpalaganap ng kanilang ningning sa langit ng Iyong di-mababaling kautusan, at ang Kagandahan ng Di-nakikita at sumikat sa itaas ng guhit-sugpungan ng santinakpan. Pinatutunayan ko, at higit dito, na sa isa lamang kilos ng Iyong Panulat ang Iyong utos na “Ikaw ay maging” ay naipatupad, at ang nakatagong Lihim ng Diyos ay naihayag, at lahat ng nilikhang bagay ay tinawag sa pagkabuhay, at lahat ng Kapahayagan ay ipinapanaog.
@@ -288,7 +304,10 @@ Pagpalain Mo, Panginoon kong Diyos, ang Banal na Punong-Lote at ang mga dahon ni
 
 
 
-### <a id="bpn4535"></a> Prayer bpn4535 in Filipino
+
+
+<a id="bpn4535"></a> 
+### Prayer bpn4535 in Filipino
 Ang dalanging ito, na inihayag ni ‘Abdu’l-Bahá, ay binabasa sa Kaniyang Dambana. Ginagamit din ito sa pansariling panalangin.
 
 Sinumang umusal sa dalanging ito nang may kapakumbabaan at kataimtiman ay maghahatid ng galak at tuwa sa puso ng Tagapaglingkod na ito: ito ay magiging tulad na rin ng pakikipagtagpo sa Kaniya nang harapan.
@@ -310,9 +329,13 @@ Ikaw ang Tagapagkaloob, ang Maawain, ang Pinakamapagpala, ang Mapagbigay-biyaya,
 
 
 
+
+
+<a id="Ang Tableta Ni Ahmad"></a> 
 ## Ang Tableta Ni Ahmad
 
-### <a id="bpn4533"></a> Prayer bpn4533 in Filipino
+<a id="bpn4533"></a> 
+### Prayer bpn4533 in Filipino
 *“Ang pang araw-araw na mga dalanging ito na katungkulang isagawa, kasama ng ilan pang natutukoy, gaya ng Dalangin sa Pagpapagaling, ang Tableta ni Ahmad, ay pinagkalooban ni Bahá’u’lláh ng isang tanging bisa at kahalagahan, at samakatwid ay dapat na tanggaping gayon at usalin ng mga mananampalataya lakip ang walang alinlangang pananalig at pagtitiwala, na sa pamamagitan ng mga iyon ay magkakaroon sila ng higit na mahigpit na pakikipagkaisa sa Diyos, at higit nilang masusunod ang Kaniyang mga batas at mga alituntunin” -Shoghi Effendi
 
 Siya ang Hari, ang Nakababatid ng Lahat, ang Madunong!
@@ -356,9 +379,13 @@ Tunay, Siya ang Mahabagin, ang Maawain. Luwalhatiin ang Diyos, ang Panginoon ng 
 
 
 
+
+
+<a id="Banal Na Kasunduan"></a> 
 ## Banal Na Kasunduan
 
-### <a id="bpn4379"></a> Prayer bpn4379 in Filipino
+<a id="bpn4379"></a> 
+### Prayer bpn4379 in Filipino
 Luwalhatiin Ka, O Hari ng kawalang hanggan, at Maylikha ng mga bansa, at Mayhabi ng bawat nadudurog na buto! Idinadalangin ko sa Iyo, sa Iyong Pangalan na namagitan sa pagtawag Mo sa lahat ng sangkatauhan patungo sa sugpungang-guhit ng Iyong kamahalan at kaluwalhatian, at sa pagpatnubay Mo sa Iyong mga tagapaglingkod tungo sa liwasan ng Iyong biyaya at pagtatangkilik, na ibilang Mo ako sa mga nakapag-alis ng lahat ng kanilang sarili liban sa Iyong Sarili, at nakapag-ukol ng kanilang sarili tungo sa Iyo, at hindi napigil ng mga kasawiang-palad na gaya ng mga itinakda Mo sa pagbaling sa kinaroroonan ng Iyong mga handog.
 
 Humawak ako, O aking Panginoon, sa ugit ng Iyong pagpapala, at mahigpit na nangapit sa laylayan ng damit ng Iyong pagtatangkilik. Ihulog, kung gayon, sa akin, buhat sa mga alapaap ng Iyong kagandahang-loob, yaong makapag-aalis sa akin ng gunita ng sinuman liban sa Iyo, at loobin Mong makabaling ako sa Kaniya na Kinauukulan ng pagsamba ng lahat ng sangkatauhan at laban sa Kaniya ay naihanay ang mga manunulsol ng paghihimagsik na lumabag sa Iyong banal na kasunduan, at hindi naniniwala sa Iyo at sa Iyong mga tanda.
@@ -373,7 +400,10 @@ Walang Diyos liban sa Iyo, ang Makapangyarihan sa Lahat, ang Matalino sa Lahat.
 
 
 
-### <a id="bpn4380"></a> Prayer bpn4380 in Filipino
+
+
+<a id="bpn4380"></a> 
+### Prayer bpn4380 in Filipino
 Siya ang Makapangyarihan, ang Nagpapatawad, ang Mahabagin!
 
 O Diyos, aking Diyos! Nakikita Mo ang Iyong mga tagapaglingkod sa bangin ng pagkapahamak at pagkakamali; nasaan ang Iyong liwanag ng banal na pamamatnubay, O Ikaw na hangarin ng daigdig? Batid mo ang kanilang kawalang-kakayahan at ang kanilang kahinaan; nasaan ang Iyong lakas, O Ikaw na naghahawak sa mga lakas ng langit at lupa?
@@ -388,7 +418,10 @@ Iatas mo para sa akin, sa Iyong pag­papala, O Panginoon, yaong makapagpapasagan
 
 
 
-### <a id="bpn4381"></a> Prayer bpn4381 in Filipino
+
+
+<a id="bpn4381"></a> 
+### Prayer bpn4381 in Filipino
 Patatagin ang aming mga hakbang, O Panginoon, sa Iyong landas at palakasin Mo ang aming mga puso sa pagsunod sa Iyo. Ibaling ang aming mga mukha tungo sa kagandahan ng Iyong pagkakaisa at bigyang-galak ang aming mga dibdib sa pamamagitan ng mga tanda ng Iyong banal na kaisahan. Palamutihan ang aming mga katawan ng damit ng Iyong pagpapala at alisin sa aming mga mata ang lambong ng pagkamakasalanan at bigyan kami ng kalis ng Iyong biyaya; upang ang ubod ng lahat ng nilalang ay umawit ng papuri sa Iyo sa harap ng pangitain ng Iyong kamaharlikahan. Ipahayag ang Iyong Sarili, O Panginoon, sa pamamagitan ng Iyong mahabaging pananalita at hiwaga ng Iyong Banal na Sarili, upang ang banal na lubos na kaligayahan ng panalangin ay pumuspos sa aming mga kaluluwa—isang panalanging mangingibabaw sa mga salita at mga titik at makalalampas sa usal ng mga kataga at tunog—upang ang lahat ng bagay ay pagsama-samahin sa kawalan sa harap ng kapahayagan ng Iyong kaluwalhatian.
 
 Panginoon! Ito ang mga tagapaglingkod na nanatiling matapat sa Iyong Banal na Kasunduan at sa Iyong Habilin, na mahigpit na nanghawak sa kuldon ng pagpapakatapat sa Iyong Kapakanan at nangapit sa laylayan ng damit ng Iyong kamaharlikaan. Tulungan Mo sila, O Panginoon, sa Iyong biyaya, pagtibayin ng Iyong kapangyarihan at palakasin ang kanilang mga balakang sa pagsunod sa Iyo.
@@ -401,7 +434,10 @@ Ikaw ang Nagpapatawad, ang Mapagbigay-biyaya.
 
 
 
-### <a id="bpn4382"></a> Prayer bpn4382 in Filipino
+
+
+<a id="bpn4382"></a> 
+### Prayer bpn4382 in Filipino
 O Mahabaging Diyos! Salamat sa Iyo dahil sa ginising Mo ako at binigyan ng kamalayan. Pinagkalooban Mo ako ng nakakikitang mata at itinangi Mo ako sa pagbibigay ng nakaririnig na tainga; inakay Mo akong patungo sa Iyong kaharian at pinamatnubayan Mo ako sa Iyong Landas. Ipinakita Mo sa akin ang tumpak na daan at itinulot Mong makapasok ako sa Arko ng Kaligtasan. O Diyos! Panatilihin akong maging matatag at gawin Mo akong matibay at malakas. Ipagtanggol Mo ako sa mararahas na pagsubok at panatilihing ligtas at ikanlong sa matibay na moog ng Iyong Banal na Kasunduan at Habilin. Ikaw ang Makapangyarihan. Ikaw ang Nakakikita. Ikaw ang Nakaririnig. Ikaw ang Mahabaging Diyos. Ipagkaloob Mo sa akin ang isang pusong tulad ng kristal ay mapagliliwanag ng tanglaw ng Iyong pag-ibig, at ibigay Mo sa akin ang isang kaisipang makapagbabago sa daigdig na ito upang maging isang halamanan ng rosas sa pamamagitan ng pagpapalang espiritwal. Ikaw ang Mahabagin, ang Maawain. Ikaw ang Dakilang Mapagpalang Diyos.
 
 (Source category: Banal Na Kasunduan)
@@ -410,7 +446,10 @@ O Mahabaging Diyos! Salamat sa Iyo dahil sa ginising Mo ako at binigyan ng kamal
 
 
 
-### <a id="bpn4383"></a> Prayer bpn4383 in Filipino
+
+
+<a id="bpn4383"></a> 
+### Prayer bpn4383 in Filipino
 O aking Panginoon at aking Pag-asa! Tulungan Mo ang Iyong mga minamahal na maging matatag sa Iyong matibay na Banal na Kasunduan, na manatiling matapat sa Iyong malinaw na Kapakanan, at isakatuparan ang mga utos na Iyong sadyang itinalaga para sa kanila sa Iyong Aklat ng mga Karilagan; nang sila ay maging mga bandila ng patnubay at mga ilawan ng Kapulungan sa Itaas, bukal ng Iyong walang hanggang dunong, at mga bituing gumagabay nang wasto, habang sila ay sumisikat sa lupa mula sa kalangitan ng Diyos.
 
 Sa katunayan, Ikaw ang Hindi Malulupig; ang Pinakamalakas, ang Makapangyarihan sa Lahat.
@@ -422,9 +461,13 @@ Sa katunayan, Ikaw ang Hindi Malulupig; ang Pinakamalakas, ang Makapangyarihan s
 
 
 
+
+
+<a id="Espiritwal Na Mga Katangian"></a> 
 ## Espiritwal Na Mga Katangian
 
-### <a id="bpn4394"></a> Prayer bpn4394 in Filipino
+<a id="bpn4394"></a> 
+### Prayer bpn4394 in Filipino
 Buhat sa humahalimuyak na mga batis ng Iyong kawalang-hanggan, bigyan Mo ako ng inumin, O aking Diyos, at sa mga bunga ng punong kahoy ng Iyong sarili, hayaan Mo akong tumikim, O aking Pag-asa! Sa mga kristal na bukal ng Iyong pag-ibig, tulutan Mo akong uminom, O aking Luwalhati, at sa lilim ng anino ng Iyong walang katapusang pagpapala, hayaan Mo akong manahan, O aking Liwanag! Sa loob ng mga pastulan ng Iyong kalapitan sa harap Mo, pahintulutan Mong ako’y makagala, O aking Mahal, at sa gawing kanan ng trono ng Iyong Habag ay iluklok ako, O aking Ninanais! Buhat sa mababangong hangin ng Iyong kaligayahan, hayaang may dumapyo sa akin na isang simoy, O aking Hantungan, at sa mga kataasan ng paraiso ng Iyong realidad, tulutan akong makapasok, O aking Sinasamba! Sa mga awitin ng kalapati ng Iyong kaisahan, tulutan Mo akong makapakinig, O Lubhang Maningning, at sa pamamagitan ng espiritu ng Iyong lakas at Iyong kapangyarihan buhayin Mo ako, O aking Tagapagtustos! Sa diwa ng Iyong pag-ibig loobin Mo akong maging matapat, O aking Tagasaklolo, at sa landas ng Iyong mabuting kasiyahan patatagin ang aking mga hakbang, O aking Manlilikha! Sa loob ng hardin ng Iyong kawalang-kamatayan, sa harap ng Iyong kaanyuan, tulutan Mo akong manahan magpakailanman, O Ikaw na Mahabagin sa akin, at sa luklukan ng Iyong kaluwalhatian itatag Mo ako, O Ikaw na aking Tagapagmay-ari! Sa langit ng Iyong mapagmahal na kabutihan itaas Mo ako, O aking Tagapagbuhay, at tungo sa Bituing-Araw ng Iyong pamamatnubay akayin Mo ako, O Ikaw na aking Taga-akit! Sa harap ng mga kahayagan ng Iyong di-nakikitang espiritu tawagin Mo ako’t paharapin, O Ikaw na aking Pinagmulan at aking Pinakamatayog na Hangarin, at sa buod ng kabanguhan ng Iyong kagandahan, na Iyong ihahayag, loobin Mo akong makabalik, O Ikaw na aking Diyos!
 
 May kakayahan Kang gumawa ng Iyong ninanais. Tunay na Ikaw ang Kataas-taasan, ang Maluwalhati sa Lahat, ang Matayog sa Lahat.
@@ -435,7 +478,10 @@ May kakayahan Kang gumawa ng Iyong ninanais. Tunay na Ikaw ang Kataas-taasan, an
 
 
 
-### <a id="bpn4395"></a> Prayer bpn4395 in Filipino
+
+
+<a id="bpn4395"></a> 
+### Prayer bpn4395 in Filipino
 Likhain Mo sa akin ang isang pusong dalisay, O aking Diyos, at gawin Mong panibago ang isang payapang budhi sa loob ng aking sarili, O aking Pag-asa! Sa pamamagitan ng espiritu ng lakas, pagtibayin Mo ako sa Iyong Kapakanan, O aking Pinakamamahal, at sa pamamagitan ng liwanag ng Iyong kaluwalhatian, ihayag Mo sa akin ang Iyong landas, O Ikaw na Hantungan ng aking hangarin! Sa pamamagitan ng lakas ng Iyong nangingibabaw na mauring kapangyarihan, itaas Mo ako patungo sa langit ng Iyong kabanalan, O Mula ng aking pagkatao, at sa pamamagitan ng mga simoy ng Iyong kawalang-hanggan, bigyang-kagalakan Mo ako, O Ikaw na aking Diyos! Tulutang ang Iyong walang hanggang mga awitin ay sumimoy ang katiwasayan sa akin, O aking Kasama, at tulutang ang mga kayamanan ng Iyong napakatandang kaanyuan ay maglayo sa akin sa lahat liban sa Iyo, O aking Panginoon, at tulutang ang mga balita ng kapahayagan ng Iyong di-nasisirang Diwa ay maghatid sa akin ng lugod, O Ikaw na pinakahayag sa lahat ng hayag at pina­katago sa lahat ng natatago!
 
 (Source category: Espiritwal Na Mga Katangian)
@@ -444,7 +490,10 @@ Likhain Mo sa akin ang isang pusong dalisay, O aking Diyos, at gawin Mong paniba
 
 
 
-### <a id="bpn4396"></a> Prayer bpn4396 in Filipino
+
+
+<a id="bpn4396"></a> 
+### Prayer bpn4396 in Filipino
 Siya ang Magandang-loob, ang Mapagpala sa Lahat!
 
 O Diyos, aking Diyos! Ang Iyong Tawag ay nakaakit sa akin at ang Tinig ng Iyong Panulat ng Kaluwalhatian ay gumising sa akin. Ang daloy ng Iyong banal na pananalita ay bumalot sa akin at ang alak ng Iyong inspirasyon ay nakabighani sa akin. Nakikita Mo ako, O Panginoon, na hiwalay sa lahat ng bagay liban sa Iyo, nakahawak sa kuldon ng Iyong pagpapala at naghahangad ng mga kahanga-hanga sa Iyong biyaya. Hinihiling ko sa Iyo, sa walang hanggang mga alon ng Iyong mapagmahal na kahabagaan at nagniningning na mga liwanag ng Iyong masuyong pag-aalaga at pagtatangkilik, na ipagkaloob yaong maglalapit sa akin sa Iyo at makapagpapasagana sa akin sa Iyong kayamanan. Ang aking dila, ang aking panulat, ang aking buong katauhan, ay sumasaksi sa Iyong lakas, sa Iyong kapangyarihan, sa Iyong biyaya at sa Iyong pagpapala, sumasaksing Ikaw ang Diyos at walang iba pang Diyos liban sa Iyo, ang Mala­kas, ang Makapangyarihan.
@@ -459,7 +508,10 @@ Panginoon! Huwag Mo akong ilayo sa karagatan ng Iyong kayamanan at sa langit ng 
 
 
 
-### <a id="bpn4397"></a> Prayer bpn4397 in Filipino
+
+
+<a id="bpn4397"></a> 
+### Prayer bpn4397 in Filipino
 O Aking Panginoon! Ang Iyong kagandahan ay gawin Mong aking pagkain at ang pagkamalas sa Iyo ang aking inumin, at ang Iyong kasiyahan ang aking pag-asa, at ang pagpuri sa Iyo ang aking kilos, at ang gunita Mo ang aking kasama, at ang lakas ng Iyong paghahari ang aking tagasaklolo, at ang Iyong kinaroroonan ang aking tahanan, at ang aking tirahan ang luklukang iniligtas Mo sa mga sagabal na iniatang sa kanilang inilingid wari ng isang lambong sa Iyo.
 
 Tunay na Ikaw ang Makapangyarihan sa lahat, ang Maluwalhati sa Lahat, ang Pinakamalakas.
@@ -470,7 +522,10 @@ Tunay na Ikaw ang Makapangyarihan sa lahat, ang Maluwalhati sa Lahat, ang Pinaka
 
 
 
-### <a id="bpn4398"></a> Prayer bpn4398 in Filipino
+
+
+<a id="bpn4398"></a> 
+### Prayer bpn4398 in Filipino
 Purihin nawa ang Iyong Pangalan, O Panginoon kong Diyos! Ako ang Iyong tagapaglingkod na humawak sa kuldon ng Iyong masuyong kahabagan, at nangapit sa laylayan ng Iyong kasaganaan. Isinasamo ko sa Iyo sa Iyong Pangalang ginamit Mo sa pagsakop sa lahat ng kinapal na nakikita at di nakikita, at sa pamamagitan niyon ay naikalat sa buong santinakpan ang hiningang siyang tunay na buhay, isinasamo kong palakasin ako ng Iyong lakas na nakapalibot sa mga langit at sa lupa, at ipag-adya ako sa lahat ng pagkakaramdam at paghihirap. Saksi ako na Ikaw ang Panginoon ng lahat ng mga pangalan, at Tagapagatas ng lahat na ikasisiya Mo. Walang ibang Diyos liban sa Iyo, ang Makapangyarihan sa Lahat, ang Nakababatid ng Lahat, ang Matalino sa Lahat.
 
 Iatas Mo para sa akin, O aking Panginoon, yaong pakikinabangan ko sa bawat daigdig ng Iyong mga daigdig. Tustusan Mo ako, kung gayon, niyong inilagda Mo sa Iyong mga pinili sa Iyong mga kinapal, na hindi nailayo sa Iyo ng pagsisi ng mga maninisi, ni ng pag-uudyok ng mga walang pananampalataya, ni ng paglayo ng mga nagsilayo sa Iyo.
@@ -483,7 +538,10 @@ Tunay na Ikaw ang Tulong sa Panganib sa pamamagitan ng lakas ng Iyong paghahari.
 
 
 
-### <a id="bpn4399"></a> Prayer bpn4399 in Filipino
+
+
+<a id="bpn4399"></a> 
+### Prayer bpn4399 in Filipino
 O aking Diyos, ang Diyos ng pagpapala at kahabagan! Ikaw yaong Haring sa pamamagitan ng Kaniyang nag-uutos na salita ay nalikha ang buong santinakpan; at Ikaw yaong Mapagpala sa Lahat na ang mga gawa ng Kaniyang mga tagapaglingkod ay hindi nakahadlang sa Kaniyang biyaya, ni hindi nagbigay kabiguan sa mga pagpapahayag ng Kaniyang pagpapala.
 
 Tulutan ang tagapaglingkod na ito, isinasamo ko sa Iyo, ay makarating doon sa dahilan ng kaniyang kaligtasan sa bawat daigdig ng Iyong mga daigdig. Tunay na Ikaw ang Makapangyarihan sa Lahat, ang Pinakamalakas, ang Nakababatid ng Lahat, ang Matalino sa Lahat.
@@ -494,7 +552,10 @@ Tulutan ang tagapaglingkod na ito, isinasamo ko sa Iyo, ay makarating doon sa da
 
 
 
-### <a id="bpn4400"></a> Prayer bpn4400 in Filipino
+
+
+<a id="bpn4400"></a> 
+### Prayer bpn4400 in Filipino
 Siya ang Diyos na dumidinig sa dalangin, ang Diyos na tumutugon sa dalangin!
 
 Saksi ang Iyong kaluwalhatian, O Minamahal, Ikaw na tagapagbigay ng liwanag sa daigdig! Ang mga apoy ng pagkahiwalay ay lumamon sa akin at ang aking pagsusuway ay tumunaw sa aking puso. Hinihiling ko sa Iyo, sa Iyong Pinakadakilang Pangalan, O Ikaw na Hangarin ng daigdig at Pinakamamahal ng sangkatauhan, na ipagkaloob na ang simoy ng Iyong inspirasyon ay makabuhay sa aking kaluluwa, na ang Iyong kahanga-hangang tinig ay makarating sa aking tainga, na ang aking mga mata ay makamalas sa Iyong mga tanda at sa Iyong liwanag na gaya ng pagkahayag sa mga kaanyuan ng Iyong mga pangalan at Iyong mga katangian, O Ikaw na sa Kaniyang hawak ay ang lahat ng mga bagay!
@@ -511,7 +572,10 @@ Saksi ang Iyong kapangyarihan, O Ikaw na niluwalhati sa mga puso ng mga tao, ako
 
 
 
-### <a id="bpn4402"></a> Prayer bpn4402 in Filipino
+
+
+<a id="bpn4402"></a> 
+### Prayer bpn4402 in Filipino
 Ipagkaloob sa akin, O aking Diyos, ang kabuuang sukat ng Iyong pag-ibig at Iyong mabuting kasiyahan, at sa pamamagitan ng mga pag-aakit ng Iyong nagniningning na liwanag, pagalakin nang masidhi ang aming mga puso, O Ikaw na Siyang Sukdulan na Katibayan at ang Luwalhati sa Lahat. Ipagkaloob sa akin, bilang tanda ng Iyong kagandahang loob, ang Iyong nagbibigay-buhay na mga simoy sa buong maghapon at sa panahon ng gabi, O Panginoon ng biyaya.
 
 Wala akong nagawa, O aking Panginoon, upang maging karapat-dapat na masilayan ang Iyong mukha, at tiyak na alam ko na kahit mabuhay pa ako hanggang narito pa ang daigdig ay hindi pa rin ako makagagawa ng anumang bagay upang maging karapat-dapat sa ganitong biyaya, yamang ang kalagayan ng isang tagapaglingkod ay hindi kailanman makaaabot sa Iyong banal na mga kapaligiran, maliban lamang kung umabot sa akin ang Iyong pagpapala at ang Iyong mapagmahal na habag ay lumaganap sa akin at ang Iyong mapagmahal na Kagandahang-loob ay pumalibot sa akin.
@@ -526,7 +590,10 @@ Sa katunayan kung nanaisin Mo na magbigay ng biyaya sa isang tagapaglingkod, kak
 
 
 
-### <a id="bpn4408"></a> Prayer bpn4408 in Filipino
+
+
+<a id="bpn4408"></a> 
+### Prayer bpn4408 in Filipino
 O Diyos, aking Diyos! Ito ang Iyong mahihinang mga tagapaglingkod; sila ang Iyong matatapat na mga alipin at mga babaeng naglilingkod, na nagsi­pagyuko sa harap ng Iyong dindakilang Salita at nagsipagpakumbaba sa Iyong Pintuan ng liwanag, at nagsipagsaksi sa Iyong kaisahan na sa pamamagitan nito ang Araw ay napasikat sa katanghaliang kaningningan nito. Nakinig sila sa mga tawag na binigkas Mo mula sa natatago Mong Kaharian, at nang may mga pu­song kinikilig sa pag-ibig at masidhing kagalakan, tumugon sila sa Iyong tawag.
 
 O Panginoon, paulanin sa kanila ang lahat ng mga agos ng Iyong awa, ibuhos sa kanila ang lahat ng mga tubig ng Iyong biyaya. Palakihin sila na tulad ng magagandang mga halaman sa hardin ng langit, at mula sa punong-puno at umaapaw na mga ulap ng Iyong mga kaloob at mula sa malalalim na mga lawa ng Iyong masaganang pagpapala tulutan Mong mamulaklak ang harding ito, at panatilihin itong laging luntian at ma­kintab, laging sariwa at kumikinang at maganda.
@@ -539,7 +606,10 @@ Ikaw, sa katunayan, ang Malakas, ang Dinadakila, ang Makapangyarihan, na Siya la
 
 
 
-### <a id="bpn4403"></a> Prayer bpn4403 in Filipino
+
+
+<a id="bpn4403"></a> 
+### Prayer bpn4403 in Filipino
 O Diyos, panariwain at bigyang-galak ang aking espiritu. Dalisayin ang aking puso. Tanglawan ang aking mga kakayahan. Lahat ng aking mga gawain ay ipinagkakatiwala ko sa Iyong kamay. Ikaw ang aking Patnubay at ang aking Kanlungan. Hindi na ako malulungkot at magdadalamhati pa, ako ay magiging isang nilalang na maligaya at lipos ng tuwa. O Diyos, hindi na ako mapupuspos ng bagabag, ni hindi ko na tutulutang pahirapan pa ako ng mga kaguluhan. Hindi ko na pagkakaabalahan ang di kasiya-siyang mga bagay sa buhay. O Diyos, Ikaw ay higit na kaibigan sa akin kaysa ako sa aking sarili. Iniha­handog ko ang aking sarili sa Iyo, O Panginoon.
 
 (Source category: Espiritwal Na Mga Katangian)
@@ -548,7 +618,10 @@ O Diyos, panariwain at bigyang-galak ang aking espiritu. Dalisayin ang aking pus
 
 
 
-### <a id="bpn4404"></a> Prayer bpn4404 in Filipino
+
+
+<a id="bpn4404"></a> 
+### Prayer bpn4404 in Filipino
 O aking Diyos! O aking Diyos! Luwalhatiin Ka dahil sa pinagtibay Mo ako sa paghahayag ng Iyong kaisahan, inakit Mo ako sa salita ng Iyong pagkaisa, pinagningas Mo ako sa apoy ng Iyong pag-ibig, at ginawa Mo akong abala sa pagbanggit sa Iyo at sa paglilingkod sa Iyong mga kaibigan at mga babaing kawaksi.
 
 O Panginoon, tulungan Mo akong maging malumanay at mababang-loob at bigyan-lakas ako sa paghiwalay ng aking sarili sa lahat ng mga bagay at sa paghawak sa laylayan ng damit ng Iyong kaluwalhatian upang ang aking puso ay mapuno ng Iyong pag-ibig at huwag mag-iwan ng puwang ukol sa pag-ibig sa daigdig at sa pagkakaugnay sa mga kaurian niyon.
@@ -563,7 +636,10 @@ Tunay na Ikaw ay Mahabagin at tunay na Ikaw ang Pinaka Magandang-loob, ang Matul
 
 
 
-### <a id="bpn4405"></a> Prayer bpn4405 in Filipino
+
+
+<a id="bpn4405"></a> 
+### Prayer bpn4405 in Filipino
 O aking Panginoon! O aking Panginoon! Ito ay isang ilawang pinagsindi ng apoy ng Iyong pag-ibig at pinagliyab ng apoy na sinindihan sa punong-kahoy ng Iyong kahabagan. O aking Panginoon! Dagdagan Mo pa ang pagniningas nito, ang init at lagablab ng apoy na pinagsindi sa Sinai ng Iyong Kapahayagan. Tunay na Ikaw ang Tagapagpatibay, ang Tumutulong, ang Malakas, ang Magandang-loob, ang Mapagmahal.
 
 (Source category: Espiritwal Na Mga Katangian)
@@ -572,7 +648,10 @@ O aking Panginoon! O aking Panginoon! Ito ay isang ilawang pinagsindi ng apoy ng
 
 
 
-### <a id="bpn4406"></a> Prayer bpn4406 in Filipino
+
+
+<a id="bpn4406"></a> 
+### Prayer bpn4406 in Filipino
 O aking Diyos! O aking Diyos! Ito ang Iyong tagapaglingkod, ay sumulong tungo sa Iyo, buong sigasig na gumagala sa disyerto ng Iyong pag-ibig, nananalunton sa landas ng paglilingkod sa Iyo, umaasam ng Iyong pagtatangkilik, umaasa sa Iyong pagpapala, nananangan sa Iyong Kaharian, at nilango ng alak ng Iyong kaloob. O aking Diyos! Dagdagan ang alab ng kaniyang pag-ibig sa Iyo, ang kaniyang pagkamatapat sa pagpupuri sa Iyo at ang kaniyang kataimtiman sa Iyong pag-ibig. Tunay na Ikaw ang Mapagpala at puspos ng kagandahang-loob! Walang Diyos liban sa Iyo, ang Mapagpatawad, ang Mahabagin.
 
 (Source category: Espiritwal Na Mga Katangian)
@@ -581,7 +660,10 @@ O aking Diyos! O aking Diyos! Ito ang Iyong tagapaglingkod, ay sumulong tungo sa
 
 
 
-### <a id="bpn4407"></a> Prayer bpn4407 in Filipino
+
+
+<a id="bpn4407"></a> 
+### Prayer bpn4407 in Filipino
 O Diyos, aking Diyos! Ito ang Iyong nagniningning na tagapaglingkod, ang Iyong espiritwal na alipin, na lumapit sa Iyo at sumapit sa Iyong kinaroroonan. Ibinaling niya ang kaniyang mukha sa Iyo, kinikilala ang Iyong pagkakaisa, sumasaksi sa Iyong pag-iisa, at isinigaw niya ang Iyong pangalan sa mga bansa, at inakay ang mga tao patungo sa dumadaloy na mga tubig ng Iyong habag, O Ikaw na Pinakabukas-Palad na Panginoon! Sa mga nagtanong pinainom Niya buhat sa kalis ng pamamatnubay na umaapaw sa alak ng Iyong di masusukat na biyaya.
 
 O Panginoon, tulungan siya sa lahat ng mga kalagayan, tulutang matuunan niya ang Iyong tunay na natatagong mga himala, at paulanin sa kaniya ang Iyong nakatagong mga perlas. Gawin siyang isang bandila sa mga tuktok ng kastilyo na wumagayway sa mga hangin ng Iyong makalangit na tulong, gawin siyang bukal ng napakalinaw na tubig.
@@ -596,7 +678,10 @@ Sa katunayan, Ikaw ang Napakalakas, ang Makapangyarihan, ang Tagapagtanggol, ang
 
 
 
-### <a id="bpn4409"></a> Prayer bpn4409 in Filipino
+
+
+<a id="bpn4409"></a> 
+### Prayer bpn4409 in Filipino
 Siya ay Diyos! O Diyos, aking Diyos! Ang mga ito ay tagapaglingkod Mo na naaakit sa Iyong mga araw sa pamamagitan ng kabanguhan ng Iyong kabanalan, pinagningas ng apoy na nagliliyab sa Iyong banal na punong-kahoy, tumutugon sa Iyong tinig, bumibigkas ng papuri sa Iyo, ginigising ng Iyong hangin, pinasigla ng Iyong matatamis na halimuyak, nagmamalas sa Iyong mga tanda, nakauunawa sa Iyong mga taludtod, dumirinig sa Iyong mga salita, nananalig sa Iyong Rebelasyon at may katiyakan sa Iyong mapagmahal na kahabagan. Ang kanilang mga mata, O Panginoon, ay nakapako sa Iyong Kaharian ng nagniningning na kaluwalhatian at ang kanilang mga mukha ay nakaharap sa Iyong kaharian sa itaas, ang kanilang mga puso ay pumipintig sa pag-ibig ng Iyong maningning at maluwalhating kagandahan, ang kanilang mga kaluluwa ay natutupok sa apoy ng Iyong pag-ibig, O Panginoon ng daigdig na ito at ng daigdig na susunod, ang kanilang mga buhay ay sabik na sabik sa init ng kanilang paghahangad sa Iyo at ang kanilang mga luha ay tumatagaktak nang dahil sa Iyo.
 
 Ikanlong Mo sila sa kuta ng Iyong pangangalaga at pagliligtas, kupkupin sila ng Iyong mapagmasid na pag-aalaga, bantayan sila ng mga mata ng Iyong pagpapala at habag, gawin silang mga tanda ng Iyong banal na kaisahan na hayag sa lahat ng pook, mga bandila ng Iyong kapangyarihan na wumawagayway sa itaas ng Iyong maharlikang mga mansiyon, ang nagniningning na mga ilawan na umaapoy sa langis ng Iyong karunungan sa mga salamin ng Iyong pamamatnubay, mga ibon ng hardin ng Iyong kaalaman na nagsisihuni sa pinakamataas na sanga ng Iyong lumililim na paraiso at mga balyena ng karagatan ng Iyong pagpapala na sa pamamagitan ng kataas-taasan Mong kahabagan ay sumisisid sa di-maarok na mga kalaliman.
@@ -609,7 +694,10 @@ O Panginoon, aking Diyos! Aba ang Iyong mga tagapaglingkod na ito, luwalhatiin M
 
 
 
-### <a id="bpn4410"></a> Prayer bpn4410 in Filipino
+
+
+<a id="bpn4410"></a> 
+### Prayer bpn4410 in Filipino
 O Ikaw na Nagkakaloob! Ihininga Mo sa mga kaibigan sa Kanluran ang matamis na samyo ng Banal na Espiritu, at sa pamamagitan ng ilaw ng banal na pamamatnubay ay pinaliwanag Mo ang langit ng kanluran. Ginawa Mong mapalapit sa Iyong Sarili yaong dating mga malalayo; ginawa Mong mapagmahal na mga kaibigan yaong dating mga di-magkakilala; ginising Mo yaong mga natutulog; ginawa Mong maingat yaong dating pabaya.
 
 O Ikaw na Nagkakaloob! Tulungan ang mga marangal na mga kaibigan na ito na makamtan ang Iyong mabuting kasiyahan, at gawin silang mga tagahangad ng kabutihan sa kapwa di-kilala at kaibigan. Papasukin sila sa daigdig na nananatili nang magpakailanman; pagkalooban sila ng bahagi ng makalangit na pagpapala; gawin silang mga tunay na Bahá’í, tunay na maka-Diyos; iligtas sila sa panlabas na mga anyo, at matibay na itatag sila sa katotohanan. Gawin silang mga sagisag at palatandaan ng Kaharian, nagniningning na mga bituin sa itaas ng sugpungang-guhit ng buhay na ito sa ibaba. Gawin silang kaginhawaan at kaaliwan para sa sangkatauhan at mga tagapaglingkod para sa kapayapaan ng daigdig. Gawing masayang-masaya sila sa pamamagitan ng alak ng Iyong payo, at tulutan na silang lahat ay makalakad sa landas ng Iyong mga utos. O Ikaw na Nagkakaloob! Ang pinakamimithing hangarin nitong tagapaglingkod ng Iyong Pintuan ay ang makita ang mga kaibigan sa Silangan at sa Kanluran na mahigpit na magkaakap; na makita ang lahat ng mga kasapi ng lipunan ng tao na may pag-ibig na natitipon sa isang malaking kalipunan, tulad ng bawat patak ng tubig na tinipon sa iisang malawakang dagat; na makita silang lahat na tulad ng mga ibon sa iisang hardin ng mga rosas, na tulad ng mga perlas ng iisang dagat, na tulad ng mga dahon ng iisang puno, na tulad ng mga silahis ng iisang araw.
@@ -623,9 +711,13 @@ Ikaw ang Malakas, ang Makapangyarihan, at Ikaw ang Diyos ng kalakasan, ang Makap
 
 
 
+
+
+<a id="Gabi"></a> 
 ## Gabi
 
-### <a id="bpn4411"></a> Prayer bpn4411 in Filipino
+<a id="bpn4411"></a> 
+### Prayer bpn4411 in Filipino
 O aking Diyos, aking Panginoon, Hantungan ng aking hangarin! Ito, ang Iyong tagapaglingkod, ay naglalayong matulog sa kanlungan ng Iyong kahabagan, at humimlay sa ilalim ng bubong ng Iyong biyaya, humihingi ng Iyong pangangalaga at pagtatanggol. Isinasamo ko sa Iyo, O aking Panginoon, sa pamamagitan ng Iyong matang hindi natutulog na tanuran ang aking mga mata upang huwag itong makakita ng anuman liban sa Iyo. Palakasin, kung gayon, ang kanilang paningin upang makita nila ang Iyong mga tanda, at mamalas ang Sugpungang-guhit ng Iyong Rebelasyon. Ikaw Siya na sa harap ng mga kahayagan ng Iyong walang hanggang kapangyarihan ay nangatal ang kabuuran ng lakas.
 
 Walang ibang Diyos liban sa Iyo, ang Makapangyarihan sa Lahat, ang Nakasasakop sa Lahat, ang Ganap.
@@ -636,7 +728,10 @@ Walang ibang Diyos liban sa Iyo, ang Makapangyarihan sa Lahat, ang Nakasasakop s
 
 
 
-### <a id="bpn4412"></a> Prayer bpn4412 in Filipino
+
+
+<a id="bpn4412"></a> 
+### Prayer bpn4412 in Filipino
 Paano ko mapipiling tumulog, O Diyos, aking Diyos, samantalang ang mga mata nilang naghahangad sa Iyo ay gising dahil sa kanilang pagkahiwalay sa Iyo; at paano ako makahihiga upang mapahingalay samantalang ang mga kaluluwa ng mga umiibig sa Iyo ay labis na naghihirap sa kanilang pagkalayo sa Iyong harapan?
 
 Naipagkatiwala ko, O aking Pangi­noon ang aking espiritu at ang aking buong sarili sa kanang kamay ng Iyong kapangyarihan at ng Iyong pagkukupkop, at inihihimlay ko ang aking ulo sa aking unan sa pamamagitan ng Iyong kapangyarihan at ibinabangon iyon ayon sa Iyong kalooban at sa Iyong mabuting kasiyahan. Tunay na Ikaw ang Tagapagligtas, ang Tagapagkupkop, ang Makapangyarihan sa Lahat, ang Pinakamalakas.
@@ -649,7 +744,10 @@ Saksi ang Iyong kapangyarihan! Wala akong hinihiling, tulog o gising man, kundi 
 
 
 
-### <a id="bpn4413"></a> Prayer bpn4413 in Filipino
+
+
+<a id="bpn4413"></a> 
+### Prayer bpn4413 in Filipino
 *O naghahanap ng Katotohanan! Kung ninanais mong buksan ng Diyos ang iyong espiritwal na mata, magsumamo ka sa Diyos, dumalangin at maki­isa sa Kaniya sa hatinggabi, sa pagsasabing:
 
 O Panginoon, ibinaling ko ang aking mukha sa Iyong Kaharian ng Pagkaisa at ako’y nalulunod sa dagat ng Iyong kahabagan! O Panginoon, liwanagin ang aking paningin sa pamamagitan ng pagmalas sa Iyong mga tanglaw sa madilim na gabing ito, at paligayahin ako sa pamamagitan ng alak ng Iyong pag-ibig sa kahanga-hangang panahong ito! O Panginoon, hayaang marinig ko ang Iyong tawag, at buksan sa harap ng aking mukha ang mga pinto ng Iyong kalangitan, upang makita ko ang liwanag ng Iyong kaluwalhatian (Bahá) at maakit ako sa Iyong kagandahan!
@@ -663,9 +761,13 @@ Tunay, Ikaw ang Tagapagbigay, ang Magandang-loob, ang Mahabagin, ang Mapagpatawa
 
 
 
+
+
+<a id="Kabuhayan"></a> 
 ## Kabuhayan
 
-### <a id="bpn4414"></a> Prayer bpn4414 in Filipino
+<a id="bpn4414"></a> 
+### Prayer bpn4414 in Filipino
 *Lahat ng mga kaibigan ng Diyos. . . ay dapat na magbigay ng kanilang abot-kaya, gaanuman kaliit ang kanilang handog. Ang Diyos ay hindi nagpapapasan ng higit sa kakayahan ng bawat kaluluwa. Ang mga abuloy na ito ay dapat na magbuhat sa lahat ng mga sentro at sa lahat ng mga mananampalataya. . . O mga Kaibigan ng Diyos! Tiyakin na bilang kapalit ng mga ambag na ito, ang inyong agrikultura, ang inyong industriya at ang inyong pangangalakal ay pagpapalain ng maraming karagdagan, at mga mabubuting mga biyaya at mga kaloob. Sinumang gumawa ng isang mabuting bagay ay tatanggap ng sampung-ulit na gantimpala. Walang alinlangan na ang buhay na Panginoon ay bukas-palad na magpapatibay doon sa mga gumugugol ng kanilang kayamanan para sa Kaniyang landas.
 
 
@@ -681,7 +783,10 @@ Tunay na Ikaw ang Nagbibigay Lakas, ang Tumutulong, ang Magandang-loob, ang Mapa
 
 
 
-### <a id="bpn4415"></a> Prayer bpn4415 in Filipino
+
+
+<a id="bpn4415"></a> 
+### Prayer bpn4415 in Filipino
 Panginoon! Kahabag-habag kami, kaya’t pagkalooban Mo kami ng Iyong tangkilik; mga dukha, kami’y pagkalooban Mo ng isang bahagi sa karagatan ng Iyong kayamanan; mga nangangailangan, kami’y Iyong bigyan ng kasiyahan; mga naaba, kami’y pagkalooban Mo ng Iyong kaluwalhatian. Ang mga ibon sa himpapawid at ang mga hayop sa parang ay nagsisitanggap ng kanilang pagkain araw-araw buhat sa Iyo, at lahat ng nilalang ay nakikibahagi sa Iyong Pangangalaga at mapagmahal na kagandahang-loob.
 
 Huwag Mong ipagkait sa mahinang ito ang Iyong kahanga-hangang biyaya at ipagkaloob sa pamamagitan ng Iyong kapangyarihan ang Iyong pagpapala sa walang kakayahang kaluluwang ito.
@@ -695,9 +800,13 @@ Ipagkaloob Mo sa amin ang kakanin sa araw-araw at ang Iyong mga karagdagang biya
 
 
 
+
+
+<a id="Kapatawaran"></a> 
 ## Kapatawaran
 
-### <a id="bpn4416"></a> Prayer bpn4416 in Filipino
+<a id="bpn4416"></a> 
+### Prayer bpn4416 in Filipino
 Nasa kaluwalhatian Ka, O Panginoon kong Diyos! Ipinamamanhik Ko sa Iyo, sa pamamagitan ng Iyong mga Pinili, at sa pamamagitan ng mga Tagapagdala ng Iyong Tiwala, at sa pa­mamagitan Niya na inatasan Mong maging Selyo ng Iyong mga Propeta at ng Iyong mga Tagapagbalita, na ipahintulot Mong ang Iyong gunita ang aking maging kasama, at ang Iyong pag-ibig ang aking maging layunin, at ang Iyong mukha ang aking maging hantungan, at ang Iyong pangalan ang aking maging tanglaw, at ang Iyong kalooban ang aking maging hangarin, at ang Iyong kasiyahan ang aking maging kaligayahan.
 
 Ako ay isang makasalanan, O aking Panginoon, at Ikaw ang Laging Nagpapatawad. Sa sandaling nakilala Kita, nagmadali akong makarating sa mataas na liwasan ng Iyong mapagmahal na kabaitan. Patawarin Mo ako, O aking Panginoon, sa aking mga kasalanang nakahadlang sa akin sa pagtalunton sa mga landas ng Iyong mabuting kasiyahan, at sa pagsapit sa mga pampang ng karagatan ng Iyong pagkaisa.
@@ -710,7 +819,10 @@ Walang iba, O aking Panginoon, na makapagpapala sa akin at mapagbabalingan ko ng
 
 
 
-### <a id="bpn4417"></a> Prayer bpn4417 in Filipino
+
+
+<a id="bpn4417"></a> 
+### Prayer bpn4417 in Filipino
 Ako siya, O aking Panginoon, na nagtuon ng Kaniyang mukha tungo sa Iyo, at nagpako ng aking pag-asa sa kamanghaan ng Iyong biyaya at sa mga kapahayagan ng Iyong pagpapala. Idinadalangin ko sa Iyo na hindi Mo tutulutang tumalikod ako nang bigo sa pintuan ng Iyong habag, ni hindi ako pababayaan sa gayong mga nilikha Mo na hindi tumanggap sa Iyong Kapakanan.
 
 Ako, O aking Diyos ay Iyong tagapaglingkod at anak ng Iyong tagapaglingkod. Nakilala ko ang Iyong katotohanan sa Iyong mga araw, at itinuon ko ang aking mga hakbang tungo sa mga dalampasigan ng Iyong pagkaisa, kaalinsabay sa pagpapahayag sa Iyong pagiging nag-iisa, pagtanggap sa Iyong kaisahan at pag-asa sa Iyong pagpapaumanhin at pagpapatawad. Makapangyarihan Ka at magagawa Mo ang Iyong loobin; walang Diyos liban sa Iyo, ang Maluwalhati sa Lahat, ang Laging Nagpapatawad.
@@ -721,7 +833,10 @@ Ako, O aking Diyos ay Iyong tagapaglingkod at anak ng Iyong tagapaglingkod. Naki
 
 
 
-### <a id="bpn4418"></a> Prayer bpn4418 in Filipino
+
+
+<a id="bpn4418"></a> 
+### Prayer bpn4418 in Filipino
 Nakikita Mo ako, O aking Panginoon, na ang aking mukha ay nakabaling sa langit ng Iyong pagpapala at sa karagatan ng Iyong tangkilik, hiwalay sa lahat ng iba pa liban sa Iyo. Hinihiling ko sa Iyo, sa pamamagitan ng mga kaningningan ng Araw ng Iyong rebelasyon sa Sinai, at sa pamamagitan ng sinag ng Buntala ng Iyong biyaya na sumisikat sa sugpungang guhit ng Iyong Pangalan, ang Laging Nagpapatawad, na ipagkaloob sa akin ang Iyong patawad at magkaroon Ka ng habag sa akin. Ilagda para sa akin sa pamamagitan ng Iyong panulat ng kaluwalhatian yaong magtataas sa akin sa pamamagitan ng Iyong Pangalan sa daigdig ng mga nilalang. Tulungan Mo ako, O aking Panginoon, na mag-ukol ng aking sarili sa Iyo, at duminig sa tinig ng Iyong mga minamahal, na hindi pinahina ng mga kapangyarihan sa lupa, at hindi nailayo sa Iyo ng mga kaharian ng mga bansa, at silang sa paglapit sa Iyo ay nagsabi: “Ang Diyos ang aming Panginoon, ang Panginoon ng lahat ng nasa langit at lahat ng nasa lupa!”
 
 (Source category: Kapatawaran)
@@ -730,7 +845,10 @@ Nakikita Mo ako, O aking Panginoon, na ang aking mukha ay nakabaling sa langit n
 
 
 
-### <a id="bpn4419"></a> Prayer bpn4419 in Filipino
+
+
+<a id="bpn4419"></a> 
+### Prayer bpn4419 in Filipino
 Luwalhatiin Ka nawa, O Panginoon kong Diyos! Tuwing nangangahas akong banggitin Ka, ako’y pinipigilan ng aking malalaking mga kasalanan at malubhang mga pagkakasala laban sa Iyo, at namamalas ang aking sarili na lubos na pinagkakaitan ng Iyong pagpapala, at ganap na walang kakayahan na ipagdiwang ang pagpuri sa Iyo. Ang aking malaking tiwala sa Iyong kagandahang loob, gayunman, ang muling bumubuhay sa aking pag-asa sa Iyo, at ang aking katiyakan na pakikitunguhan Mo ako nang buong kasaganahan ay nagpalakas ng loob ko na Ikaw ay purihin, at hingin sa Iyo ang mga bagay na Iyong tinataglay.
 
 Nagsusumamo ako sa Iyo, O aking Diyos, sa pamamagitan ng Iyong habag na nilalampasan ang lahat ng mga bagay na nilikha, at sinasaksihan ng lahat ng mga lubog sa ilalim ng mga karagatan ng Iyong mga pangalan, na huwag akong pabayaan sa aking sarili, sapagkat ang aking puso ay madaling maakit sa kasa­maan. Pangalagaan Mo ako kung gayon, sa loob ng matibay na kuta ng Iyong pagtanggol at sa kanlungan ng Iyong pangangalaga. Ako siya, O aking Diyos, na ang tanging hangarin ay kung ano ang Iyong itinakda sa pamamagitan ng kapangyarihan ng Iyong lakas. Ang lahat ng pinili ko para sa aking sarili ay ang matulungan ng Iyong mapagmahal na paghirang at ang pamamayani ng Iyong kagustuhan, at ang matulungan ng mga palatandaan ng Iyong ipinag-uutos at paghatol.
@@ -747,7 +865,10 @@ Purihin ang Diyos, ang Panginoon ng mga daigdig!
 
 
 
-### <a id="bpn4420"></a> Prayer bpn4420 in Filipino
+
+
+<a id="bpn4420"></a> 
+### Prayer bpn4420 in Filipino
 Purihin nawa ang Iyong Pangalan, O aking Diyos at Diyos ng lahat ng bagay, aking Luwalhati at Luwalhati ng lahat ng bagay, aking Hangarin at Hangarin ng Lahat ng bagay, aking Lakas at Lakas ng lahat ng bagay, aking Hari at Hari ng lahat ng bagay, aking Tagapagmay-ari at Tagapagmay-ari ng lahat ng bagay, aking Layunin at Layunin ng lahat ng bagay, aking Tagapagpakilos at Tagapagpakilos ng lahat ng bagay! Huwag Mong tulutan, isinasamo ko sa Iyo, na ako’y mapigilan mula sa karagatan ng Iyong mga masuyong kahabagan, ni huwag Mong itulot na ako ay maging malayo sa mga dalampasigan ng pagkakalapit sa Iyo.
 
 Walang iba pa liban sa Iyo, O aking Panginoon, na nakapagdudulot ng ikinabubuti ko, at ang pagkalapit sa sinuman liban sa Iyo ay walang naibibigy na mabuti sa akin. Isinasamo ko sa Iyo sa kasaganaan ng Iyong mga kayamanan, na siyang dahilan kung bakit hindi Mo kailangan ang iba pa liban sa Iyo, na ibilang Mo ako sa mga nagharap ng kanilang mukha tungo sa Iyo at nagsibangon upang maglingkod sa Iyo.
@@ -760,7 +881,10 @@ Patawarin, kung gayon, O aking Panginoon, ang Iyong mga tagapaglingkod at ang Iy
 
 
 
-### <a id="bpn4423"></a> Prayer bpn4423 in Filipino
+
+
+<a id="bpn4423"></a> 
+### Prayer bpn4423 in Filipino
 Nagsusumamo ako na patawarin Mo ako, O aking Panginoon, sa bawat pagbanggit liban sa pagbanggit sa Iyo, at sa bawat papuri liban sa papuri sa Iyo at sa bawat kagalakan liban sa kagalakan sa pagkalapit sa Iyo, at sa bawat kaluguran liban sa kaluguran sa pakikipagniig sa Iyo, at sa bawat ligaya maliban sa kaligayahan sa Iyong pag-ibig at sa Iyong mabuting kaluguran, at sa lahat ng mga bagay na nauukol sa akin na walang kaugnayan sa Iyo, O Ikaw na Panginoon ng mga panginoon, Siya na nagbibigay ng mga kaparaanan at nagbubukas ng mga pintuan.
 
 (Source category: Kapatawaran)
@@ -769,7 +893,10 @@ Nagsusumamo ako na patawarin Mo ako, O aking Panginoon, sa bawat pagbanggit liba
 
 
 
-### <a id="bpn4421"></a> Prayer bpn4421 in Filipino
+
+
+<a id="bpn4421"></a> 
+### Prayer bpn4421 in Filipino
 O Diyos na aming Panginoon! Pangalagaan kami sa pamamagitan ng Iyong biyaya mula sa anumang kinasusuklaman Mo at marapatin para sa amin ang mga bagay na makasisiya sa Iyo. Pagkalooban Mo pa kami mula sa Iyong biyaya, at pagpalain Mo kami. Patawarin Mo kami sa mga bagay na aming nagawa, at hugasan ang aming mga kasalanan, at patawarin kami ng Iyong mapagmahal na pagpapatawad. Sa katunayan Ikaw ang Pinakamataas, ang Sariling Ganap.
 
 Ang Iyong mapagmahal na kalinga ang sumaklaw sa lahat ng mga bagay na nilalang sa mga langit at sa lupa, at ang Iyong pagpapatawad ang humigit sa buong nilikha. Nasa Iyo ang kataas-taasang kapangyarihan; nasa Iyo ang mga Kaharian ng Sangnilikha at Rebelasyon; sa Iyong kanang kamay tinatanganan Mo ang lahat ng mga nilikhang bagay, at hawak Mo ang mga itinakdang sukat ng kapatawaran. Pinatatawad Mo ang sinuman sa Iyong mga tagapaglingkod na ninanais Mo. Sa katunayan, Ikaw ang Laging Nagpapatawad, ang Laging Mapagmahal. Walang anumang makalalagpas sa Iyong kaalaman, at walang anumang maililihim sa Iyo.
@@ -784,7 +911,10 @@ Ikaw ang Pinakamataas na Pinuno, ang Makapangyarihang Gumagawa, ang Kataas-taasa
 
 
 
-### <a id="bpn4422"></a> Prayer bpn4422 in Filipino
+
+
+<a id="bpn4422"></a> 
+### Prayer bpn4422 in Filipino
 Purihin Ka, O Panginoon! Patawarin kami sa aming mga kasalanan, kaawaan kami at tulutang makabalik kami sa Iyo. Huwag Mo kaming hayaan na umasa sa sinuman liban sa Iyo, at marapatin para sa amin, sa pamamagitan ng Iyong kagandahang-loob, ang anumang minamahal at ninanais Mo at nababagay sa Iyo. Itaas Mo ang katayuan nila na tunay na naniniwala, at patawarin sila ng Iyong mapagpalang kapatawaran. Ikaw ang Tulong sa Panganib, ang Sariling-Ganap.
 
 (Source category: Kapatawaran)
@@ -793,7 +923,10 @@ Purihin Ka, O Panginoon! Patawarin kami sa aming mga kasalanan, kaawaan kami at 
 
 
 
-### <a id="bpn4424"></a> Prayer bpn4424 in Filipino
+
+
+<a id="bpn4424"></a> 
+### Prayer bpn4424 in Filipino
 Luwalhati sa Iyo, O Diyos! Paano ako makababanggit ng ukol sa Iyo samantalang Ikaw ay di-maaabot ng papuri ng buong sangkatauhan. Dakilain nawa ang Iyong Pangalan, O Diyos, Ikaw ang Hari, ang Walang Hanggang Katotohanan; nalalaman Mo kung ano ang nasa mga kalangitan at sa lupa, at sa Iyo lahat ay babalik. Ipinadala Mo ang Iyong banal na itinakdang Rebelasyon sang-ayon sa malinaw na panukat. Purihin Ka, O Panginoon! Sa Iyong kautusan pinagtatagumpay Mo ang sinumang nais Mo, sa pamamagitan ng mga hukbo ng langit at lupa at anumang naroroon sa pagitan nila. Ikaw ang Makapangyarihan, ang Walang-hanggang Katotohanan, ang Panginoon ng Dimalupig na Kalakasan.
 
 Luwalhatiin Ka nawa, O Panginoon, pinatatawad Mo sa lahat ng oras ang mga kasalanan ng gayon sa Iyong mga tagapaglingkod na nagsusumamo sa Iyong pagpapatawad. Hugasan ang aking mga pagkakasala at ang mga pagkakasala nilang naghahangad na Iyong kapatawaran sa bukang-liwayway at sila na nananalangin sa Iyo sa mga oras ng araw at sa panahon ng gabi, sila na nagnanasa ng walang iba liban sa Diyos, sila na nag-aalay ng anumang magiliw na ipagkaloob sa kanila ng Diyos, sila na nagdiriwang ng papuri sa Iyo sa umaga at takipsilim, at sila na hindi nagkukulang sa kanilang mga tungkulin.
@@ -804,7 +937,10 @@ Luwalhatiin Ka nawa, O Panginoon, pinatatawad Mo sa lahat ng oras ang mga kasala
 
 
 
-### <a id="bpn4425"></a> Prayer bpn4425 in Filipino
+
+
+<a id="bpn4425"></a> 
+### Prayer bpn4425 in Filipino
 O Ikaw na mapagpatawad na Panginoon! Ikaw ang kanlungan ng lahat ng mga ito na Iyong tagapaglingkod. Nalalaman Mo ang mga lihim at batid Mo ang lahat ng mga bagay. Kaming lahat ay walang kakayahan, at Ikaw ang Napakalakas, ang Makapangyarihan sa Lahat. Kaming lahat ay mga makasala­nan, at Ikaw ang Nagpapatawad ng mga kasalanan, ang Mahabagin, ang Maawain. O Panginoon! Huwag Mong tingnan ang aming mga pagkukulang. Pakitunguhan kami sang-ayon sa Iyong pagpapala at biyaya. Ang aming mga pagkukulang ay marami, ngunit ang karagatan ng Iyong pagpapatawad ay walang-hanggan. Ang aming karupukan ay napakatindi, ngunit ang mga palatandaan ng Iyong tangkilik at tulong ay maliwanag. Sa ganoon, pagtibayin at palakasin Mo kami. Tulutan kaming makagawa ng yaong karapat-dapat sa banal na Pintuan ng Iyong Dambana. Tanglawan ang aming mga puso, pagkalooban kami ng nakauunawang mga mata, at ng nakikinig na mga tainga. Buhayin muli ang patay at pagalingin ang may sakit. Pagkalooban ng kayamanan ang mga mahirap at bigyan ng kapayapaan at katiwasayan ang mga natatakot. Tanggapin Mo kami sa Iyong kaharian at tanglawan Mo kami ng liwanag ng Iyong patnubay. Ikaw ang Pinakamalakas, ang Pinakanakapangyarihan. Ikaw ang Mapagbigay, Ikaw ang Mahabagin, Ikaw ang Mabait.
 
 (Source category: Kapatawaran)
@@ -814,9 +950,13 @@ O Ikaw na mapagpatawad na Panginoon! Ikaw ang kanlungan ng lahat ng mga ito na I
 
 
 
+
+
+<a id="Katamtamang Dalanging Katungkulang Isagawa"></a> 
 ## Katamtamang Dalanging Katungkulang Isagawa
 
-### <a id="bpn4377"></a> Prayer bpn4377 in Filipino
+<a id="bpn4377"></a> 
+### Prayer bpn4377 in Filipino
 Dapat usalin sa umaga, sa tanghali at sa gabi
 
  
@@ -878,9 +1018,13 @@ Saksi ako sa Iyong kaisahan at sa Iyong pagkakaisa, na Ikaw ang Diyos, at walang
 
 
 
+
+
+<a id="Katatagan"></a> 
 ## Katatagan
 
-### <a id="bpn4427"></a> Prayer bpn4427 in Filipino
+<a id="bpn4427"></a> 
+### Prayer bpn4427 in Filipino
 O Ikaw na ang pagkalapit sa Iyo ay siyang aking nais, na ang pagkamalas sa Iyo ay siyang aking pag-asa, na ang pagkagunita sa Iyo ay siyang aking hangarin, na ang liwasan ng Iyong luwalhati ay siyang aking tunguhin, na ang tahanan Mo ay aking layunin, na ang pangalan Mo ay siyang aking lunas, na ang pag-ibig Mo ay siyang magpapaningning sa aking puso, na ang paglilingkod sa Iyo ang aking pinakamataas na adhikain! Isinasamo ko sa Iyo sa Iyong Pangalan na sa pamamagitan nito pumailanlang silang mga nakakilala sa Iyo sa pinakamataas na kabatiran tungkol sa Iyo at silang mga matatapat na sumasamba sa Iyo ay magkaroon ng lakas na makaakyat sa mga kapaligiran ng liwasan ng Iyong banal na pagtatangkilik, na tulungan Mo akong magbaling ng aking mukha tungo sa Iyong mukha, magpako ng aking mga mata sa Iyo, at magsaysay ng Iyong kaluwalhatian.
 Ako, O aking Panginoon, yaong nakalimot sa lahat ng iba pa liban sa Iyo, at nagbaling sa Pamimitak ng Iyong biyaya, yaong nag-iwan ng lahat liban sa Iyong sarili sa pag-asang malalapit sa Iyong liwasan. Masdan Mo ako na ang aking mga mata’y nakatitig nang paitaas sa Luklukang pinakikinang ng mga sinag ng liwanag ng Iyong Mukha. Ihulog Mo sa akin, O aking Mahal, yaong makatutulong na ako’y maging matatag sa Iyong Kapakanan, upang ang mga pag-aalinlangan ng mga walang pananampalataya ay hindi makahadlang sa akin sa patungo sa Iyo.
 
@@ -892,7 +1036,10 @@ Ikaw, tunay, ang Diyos ng Kalakasan, ang Tulong sa Panganib, ang Malu­ walhati 
 
 
 
-### <a id="bpn4428"></a> Prayer bpn4428 in Filipino
+
+
+<a id="bpn4428"></a> 
+### Prayer bpn4428 in Filipino
 O Diyos, aking Diyos! Buong pagbabalik-loob na nagbaling ako sa Iyo at tunay na Ikaw ang Nagpapatawad, ang Mahabagin.
 
 O Diyos, aking Diyos! Nagbalik ako sa Iyo, at tunay na Ikaw ang Laging Nag­ papatawad, ang Mapagbigay-biyaya.
@@ -913,7 +1060,10 @@ Hinihiling ko sa Iyo, O Panginoon ng lahat na kinapal at Hari ng mga nakikita at
 
 
 
-### <a id="bpn4426"></a> Prayer bpn4426 in Filipino
+
+
+<a id="bpn4426"></a> 
+### Prayer bpn4426 in Filipino
 Luwalhatiin nawa ang Iyong Panga lan, O Panginoon kong Diyos! Isinasamo ko sa Iyong lakas na nakapangyayari sa lahat ng kinapal, at sa Iyong paghahari na nangibabaw sa buong santinakpan, at sa Iyong Salita na nakatago sa Iyong karunungan at namagitan sa Iyong paglikha sa langit Mo at sa lupa Mo upang kapwa mapagtibay ng mga ito kami sa aming pag-ibig sa Iyo at sa aming pagiging masunurin sa Iyong ikasisiya, at upang maipako namin ang aming paningin sa Iyong mukha, at maipagdiwang ang Iyong kaluwalhatian. Bigyang-lakas Mo kami, kung gayon, O aking Diyos, na maipalaganap sa ibayong lugar ang Iyong mga tanda sa piling ng Iyong mga nilalang, at matanuran ang Iyong Pananampalataya sa Iyong lupain. Kailanman ay nanatili Kang malaya sa pagbanggit ng alinman sa Iyong mga kinapal, at lagi at laging manananatili Kang ganyan.
 
 Sa Iyo inilagak ko ang aking buong pagtitiwala, sa Iyo ibinaling ko ang aking mukha, sa kuldon ng Iyong mapagmahal na pagpapala ako ay nangapit, at patungo sa lilim ng Iyong kahabagan ako ay nagmadali. Huwag Mo akong paalising palabas sa Iyong pinto na tulad ng isang nabigo, O aking Diyos at huwag Mong ilingid sa akin ang Iyong biyaya, sapagkat tanging Ikaw ang aking hinahanap. Walang ibang Diyos liban sa Iyo, ang Laging Nagpapatawad, ang Pinakamapagpala.
@@ -926,7 +1076,10 @@ Purihin Ka nawa, O Ikaw na Minamahal ng Lahat ng nakakikilala sa Iyo!
 
 
 
-### <a id="bpn4429"></a> Prayer bpn4429 in Filipino
+
+
+<a id="bpn4429"></a> 
+### Prayer bpn4429 in Filipino
 Purihin Ka nawa, O Panginoon, aking Pinakamamahal! Gawin akong matatag sa Iyong Kapakanan, at tulutang mapabilang ako sa yaong mga hindi lumabag sa Iyong Banal na Kasunduan ni hindi sumunod sa mga diyos-diyosan ng kanilang walang kabuluhang guni-guni. Tulutan, kung gayon, na makakamit ako ng luklukan ng katotohanan sa Iyong kinaroroonan, pagkalooban ako ng tanda ng Iyong awa at isama ako sa yaong mga tagapaglingkod Mo na hindi makadarama ng takot ni hindi maglulumbay. Huwag akong hayaan sa aking sarili, O aking Panginoon, ni ipagkait sa akin ang pagkilala sa Kaniya na Kahayagan ng Iyong Sarili, ni ipalagay akong kasama sa yaong mga tumalikod sa Iyong banal na kinaroroonan. Ibilang ako, O aking Diyos sa yaong mga binigyan ng karapatan na ituon ang kanilang mga titig sa Iyong Kagandahan at ganoon na lamang ang kanilang kagalakan rito na hindi nila ipagpapalit ang isang sandali nito sa kapangyarihan ng kaharian ng mga langit at lupa o sa buong kaharian ng mga sangnilikha. Magkaroon Ka ng habag sa akin, O aking Diyos, sa mga araw na ito na ang mga tao sa Iyong daigdig ay lubhang nagkasala; ipagkaloob sa akin kung gayon, O aking Diyos, yaong mabuti at karapat-dapat sa Iyong paningin. Ikaw sa katunayan ang Makapangyarihan sa Lahat, ang Mapagmahal, ang Mapagpala, ang Laging-Nagpapatawad.
 
 Tulutan, O aking Diyos, na hindi ako mabilang sa yaong bingi ang mga tainga, bulag ang mga mata, pipi ang mga dila, at hindi nakauunawa ang mga puso. Iadya ako, O Panginoon, sa apoy ng kamangmangan at ng makasariling pagnanasa, tulutan akong makarating sa mga kapaligiran ng Iyong nangingibabaw na habag at ipagkaloob sa akin yaong itinalaga Mo para sa Iyong mga pinili. May kapangyarihan Kang gawin ang Iyong ninanais. Sa katunayan Ikaw ang Tulong sa Panganib, ang Sariling-Ganap.
@@ -937,7 +1090,10 @@ Tulutan, O aking Diyos, na hindi ako mabilang sa yaong bingi ang mga tainga, bul
 
 
 
-### <a id="bpn4430"></a> Prayer bpn4430 in Filipino
+
+
+<a id="bpn4430"></a> 
+### Prayer bpn4430 in Filipino
 Purihin at luwalhatiin Ka, O Diyos! Tulutan na ang araw ng pagtatamo sa Iyong banal na piling ay mabilis na papalapit. Pagalakin ang aming mga puso sa pamamagitan ng bisa ng Iyong pag-ibig at mabuting-kasiyahan, at pagkalooban kami ng katatagan nang sa ganoon ay kusang-loob kaming sumailalim sa Iyong Kalooban at Iyong Atas. Tunay na ang Iyong kaalaman ay sumasaklaw sa lahat ng mga bagay na Iyong nilalang o lalalangin, at ang Iyong makalangit na kapangyarihan ay higit sa anumang Iyong nilikha o lilikhain. Walang dapat sambahin maliban sa Iyo, walang dapat mithiin maliban sa Iyo, walang dapat pakamahalin maliban sa Iyo at walang dapat ibigin maliban sa Iyong mabuting-kasiyahan.
 
 Sa katunayan, Ikaw ang kataas-taasang Pinuno, ang Pinakamataas na Katotohanan, ang Tulong sa Panganib, ang Sariling-Ganap.
@@ -948,7 +1104,10 @@ Sa katunayan, Ikaw ang kataas-taasang Pinuno, ang Pinakamataas na Katotohanan, a
 
 
 
-### <a id="bpn4431"></a> Prayer bpn4431 in Filipino
+
+
+<a id="bpn4431"></a> 
+### Prayer bpn4431 in Filipino
 O Panginoon kong Diyos! Tulungan Mo ang Iyong mga minamahal na maging matatag sa Iyong Pananampalataya, na makapanunton sa Iyong mga landas, na makapanatili sa Iyong Kapakanan. Ipagkaloob Mo sa kanila ang Iyong biyaya upang mapaglabanan nila ang udyok ng sarili at kapusukan, upang masundan ang liwanag ng Banal na Pamamatnubay. Ikaw ang Malakas, ang Mapagbigay-biyaya, ang Sariling Ganap, ang Tagapagkaloob, ang Mahabagin, ang Makapangyarihan sa Lahat, ang Mapagpala sa Lahat.
 
 (Source category: Katatagan)
@@ -957,7 +1116,10 @@ O Panginoon kong Diyos! Tulungan Mo ang Iyong mga minamahal na maging matatag sa
 
 
 
-### <a id="bpn4432"></a> Prayer bpn4432 in Filipino
+
+
+<a id="bpn4432"></a> 
+### Prayer bpn4432 in Filipino
 O Ikaw, aking Diyos, Ikaw na namamatnubay sa naghahanap patungo sa landas na nagbigay-daan nang wasto, Ikaw na lumiligtas sa naliligaw at nabubulag na kaluluwa mula sa kaparangan ng pagkapahamak, Ikaw na Siyang nagkakaloob sa mga tapat ng labis na biyaya at kagandahang-loob, Siyang nangangalaga sa mga takot sa loob ng Iyong di-magagaping kanlungan, Siyang sumasagot, mula sa Iyong kataas-taasang sugpungang-guhit, sa tawag nilang mga tumatawag sa Iyo. Purihin Ka nawa, O aking Panginoon! Patnubayan Mo ang nalilito na makaligtas sa kamatayan ng di-pagsampalataya, at hinatid Mo silang mga lumalapit sa Iyo sa hantungan ng paglalakbay, at pinaligaya Mo ang mga nakatitiyak sa Iyong mga tagapaglingkod sa pamamagitan ng pagkakaloob sa kanila ng kanilang pinakamimithing mga hangarin, at mula sa Iyong Kaharian ng kagandahan ay binuksan Mo sa mga mukha ng mga nananabik sa Iyo ang mga tarangkahan ng muling pagsasama, at iniligtas Mo sila sa mga apoy ng kasalatan at kapahamakan, nang sa gayon ay nagmadali sila patungo sa Iyo at sumapit sa Iyong harapan, at dumating sa Iyong malugod na tumanggap na pintuan, at nakatanggap ng masaganang bahagi ng mga biyaya.
 
 O aking Panginoon, sila ay nauhaw, itinaas Mo sa kanilang mga tuyot na labi ang mga tubig ng muling-pagsasama. O Siyang Magiliw, Siyang Nagkakaloob, pinawi Mo ang kanilang pagdurusa sa pamamagitan ng pang-alo ng Iyong biyaya at kaloob, at ginamot Mo ang kanilang mga karamdaman sa pamamagitan ng pinakamabisang gamot ng Iyong malasakit. O Panginoon, patatagin ang kanilang mga paa sa Iyong tuwid na landas, palakihin para sa kanila ang butas ng karayum, at tulutan sila, samantalang nakasuot ng mga damit ng maharlika, na lumakad sa kaluwalhatian magpakailanman.
@@ -971,9 +1133,13 @@ Sa katunayan Ikaw ang Mapagkaloob, ang Laging Nagbibigay, ang Pinakamamahal, ang
 
 
 
+
+
+<a id="Maikling Dalanging Katungkulang Isagawa"></a> 
 ## Maikling Dalanging Katungkulang Isagawa
 
-### <a id="bpn4378"></a> Prayer bpn4378 in Filipino
+<a id="bpn4378"></a> 
+### Prayer bpn4378 in Filipino
 Dapat usalin minsan sa dalawampu't apat na oras
 
 *Sinumang nagnanais na umusal sa panalanging ito, hayaang siya ay tumindig at humarap sa Diyos, at habang siya ay nakatayo sa kaniyang lugar, hayaang siya ay tumingin sa kanan at sa kaliwa, na waring naghihintay ng habag ng kaniyang Panginoon, ang Pinaka Mahabagin, ang Madamayin. Pagkatapos, hayaang sabihin niya:
@@ -1042,7 +1208,10 @@ Pinatutunayan ko, O aking Diyos, yaong pinatunayan ng Iyong mga hinirang, at tin
 
 
 
-### <a id="bpn4376"></a> Prayer bpn4376 in Filipino
+
+
+<a id="bpn4376"></a> 
+### Prayer bpn4376 in Filipino
 *Dapat usalin sa tanghali
 
 Saksi ako, O aking Diyos, na nilalang Mo ako upang kumilala sa Iyo at
@@ -1059,9 +1228,13 @@ Sariling-Ganap.
 
 
 
+
+
+<a id="Mga Bata At Kabataan"></a> 
 ## Mga Bata At Kabataan
 
-### <a id="bpn4384"></a> Prayer bpn4384 in Filipino
+<a id="bpn4384"></a> 
+### Prayer bpn4384 in Filipino
 Purihin ka nawa, O Panginoon aking Diyos! Magiliw na ipahintulot na ang sanggol na ito ay mapakain buhat sa dibdib ng Iyong mapagmahal na kahabagan, at madamaying kalinga at maging malusog sa bunga ng Iyong makalangit na mga punong-kahoy. Huwag siyang ipahintulot na pangalagaan ng sinuman maliban sa Iyo, yamang Ikaw, sa Iyong Sarili, sa tulong ng lakas ng Iyong pinakadakilang kagustuhan at kapangyarihan ay nagawang malikha at tawagin siya sa pagkabuhay. Walang ibang Diyos maliban sa Iyo, ang Pinakamakapangyarihan, ang Nakaaalam ng Lahat.
 
 Purihin Ka, O aking Pinakamamahal, ipasamyo sa kaniya ang matamis na linamnam ng Iyong nangingibabaw na kagandahang-loob at ng mga halimuyak ng Iyong banal na pagpapala. Gawin sana niya kung gayon na hanapin ang kanlungan sa ilalim ng Iyong pinakadakilang Pangalan, O Ikaw na Siyang may tangan sa kaharian ng mga pangalan at mga katangian. Tunay na Ikaw ay may kapangyarihan ng gawin ang anumang Iyong nais, at Ikaw sa katunayan ang Malakas, ang Dakila, ang Laging Nagpapatawad, ang Magiliw, ang Mapagkaloob, ang Maawain.
@@ -1072,7 +1245,10 @@ Purihin Ka, O aking Pinakamamahal, ipasamyo sa kaniya ang matamis na linamnam ng
 
 
 
-### <a id="bpn4401"></a> Prayer bpn4401 in Filipino
+
+
+<a id="bpn4401"></a> 
+### Prayer bpn4401 in Filipino
 Luwalhati Ka nawa, O Panginoon kong Diyos! Nagpapasalamat ako sa Iyo dahil nilikha Mo ako sa Iyong mga araw, at isinalin Mo sa akin ang Iyong pag-ibig at ang Iyong kaalaman. Nagsusumamo ako sa Iyo, sa Iyong pangalan na sa pamamagitan nito ang mabubuting mga perlas ng Iyong karunungan at Iyong mga salita ay inilabas mula sa mga kabanyaman ng mga puso nilang mga tagapaglingkod Mo na malalapit sa Iyo, at sa pamamagitan nito ang Pamimitak ng Iyong pangalan, ang Mapagmalasakit, ay nagbigay ng liwanag sa lahat ng nasa Iyong kalangitan at sa ibabaw ng Iyong lupa, na ipagkaloob sa akin sa pamamagitan ng Iyong biyaya at pagpapala, ng Iyong kamangha-mangha at natatagong mga biyaya.
 
 Ito ang pinakamaagang mga araw ng aking buhay, O aking Diyos, na iniugnay Mo sa Sarili Mong mga araw. Ngayon na pinagkablooban Mo ako ng gayong kalaking karangalan, huwag Mong ipagkait sa akin yaong mga bagay na itinalaga Mo para sa Iyong mga napili.
@@ -1087,7 +1263,10 @@ Purihin ang Diyos, ang Panginoon ng mga daigdig.
 
 
 
-### <a id="bpn4385"></a> Prayer bpn4385 in Filipino
+
+
+<a id="bpn4385"></a> 
+### Prayer bpn4385 in Filipino
 O ikaw na walang kahambing na Panginoon! Tulutang maalagaan ang pasusuhing sanggol na ito mula sa dibdib ng Iyong mapagmahal na kabutihang-loob, bantayan siya sa loob ng duyan ng Iyong kaligtasan at pangalagaan at ipahintulot na siya ay mapalaki sa mga bisig ng Iyong magiliw na pagmamahal.
 
 (Source category: Mga Bata At Kabataan)
@@ -1096,7 +1275,10 @@ O ikaw na walang kahambing na Panginoon! Tulutang maalagaan ang pasusuhing sangg
 
 
 
-### <a id="bpn4386"></a> Prayer bpn4386 in Filipino
+
+
+<a id="bpn4386"></a> 
+### Prayer bpn4386 in Filipino
 O Diyos! Palakihin ang munting sanggol na ito sa sinapupunan ng Iyong pag-ibig at bigyan siya ng gatas buhat sa dibdib ng Maykapal. Alagaan ang sariwang halamang ito sa hardin ng rosas ng Iyong pag-ibig at tulungan siyang lumaki sa pamamagitan ng mga ambon ng Iyong pagpapala. Gawin siyang isang anak ng Kaharian at akayin siya tungo sa Iyong banal na daigdig. Ikaw ay makapangyarihan at maawain, at Ikaw ang Tagapagbigay, ang Tagapagkaloob, na ang mga pagpapala ay higit sa lahat!
 
 (Source category: Mga Bata At Kabataan)
@@ -1105,7 +1287,10 @@ O Diyos! Palakihin ang munting sanggol na ito sa sinapupunan ng Iyong pag-ibig a
 
 
 
-### <a id="bpn4387"></a> Prayer bpn4387 in Filipino
+
+
+<a id="bpn4387"></a> 
+### Prayer bpn4387 in Filipino
 O Diyos! Turuan ang mga batang ito. Ang mga batang ito ang mga pananim sa Iyong Taniman, ang mga bulaklak sa Iyong parang, ang mga rosas sa Iyong hardin. Bayaang ang Iyong ulan ay pumatak sa kanila; bayaang ang Araw ng Katotohanan ay sumikat sa kanila lakip ang Iyong pag-ibig. Bayaang ang Iyong simoy ang magpasariwa sa kanila upang sila’y masanay, lumaki at lumusog at magkaroon ng anyong sukdulang ganda. Ikaw ang Tagapagbigay! Ikaw ang Mahabagin!
 
 (Source category: Mga Bata At Kabataan)
@@ -1114,7 +1299,10 @@ O Diyos! Turuan ang mga batang ito. Ang mga batang ito ang mga pananim sa Iyong 
 
 
 
-### <a id="bpn4388"></a> Prayer bpn4388 in Filipino
+
+
+<a id="bpn4388"></a> 
+### Prayer bpn4388 in Filipino
 O Ikaw na matulunging na Pangnoon! Ang mga kaibig-ibig na mga batang ito ay gawang-kamay ng mga daliri ng Iyong lakas at ang kahanga-hangang mga tanda ng Iyong kadakilaan. O Diyos! Pangalagaan ang mga batang ito, magiliw na tulungan silang maturuan upang sila ay makapaglingkod sa daigdig ng sangkatauhan. O Diyos! Ang mga batang ito ay mga perlas, hayaan silang maalagaan sa loob ng kabibi ng Iyong mapagkandiling pagmamahal.
 
 Ikaw ang Mapagbigay, ang Mapagmahal sa Lahat.
@@ -1125,7 +1313,10 @@ Ikaw ang Mapagbigay, ang Mapagmahal sa Lahat.
 
 
 
-### <a id="bpn4389"></a> Prayer bpn4389 in Filipino
+
+
+<a id="bpn4389"></a> 
+### Prayer bpn4389 in Filipino
 O Panginoon! Gawin ang mga batang ito na maging napakagaling na mga halaman. Hayaan silang lumaki at yumabong sa Hardin ng Iyong Banal na Kasunduan, at ipagkaloob ang kasariwaan at kagandahan sa tulong ng mga ulan ng mga ulap sa Kahariang Abhá.
 
 O Ikaw na matulunging Panginoon! Ako ay isang maliit na bata, itaas ako, sa pagtanggap sa akin sa kaharian. Ako ay makalupa, gawin akong makalangit; ako ay nasa daigdig sa ibaba, hayaan akong mabilang sa kaharian sa kaitaasan; mapanglaw, pahintulutan akong maging makinang; makalupa, gawin akong makalangit, at ipahintulot na aking maipamalas ang Iyong walang hanggang kagandahang-loob.
@@ -1138,7 +1329,10 @@ Ikaw ang Makapangyarihan, ang Mapagmahal sa Lahat.
 
 
 
-### <a id="bpn4390"></a> Prayer bpn4390 in Filipino
+
+
+<a id="bpn4390"></a> 
+### Prayer bpn4390 in Filipino
 Siya ay Diyos! O Diyos, aking Diyos! Pagkalooban Mo ako ng isang dalisay na puso, na tulad ng isang perlas.
 
 (Source category: Mga Bata At Kabataan)
@@ -1147,7 +1341,10 @@ Siya ay Diyos! O Diyos, aking Diyos! Pagkalooban Mo ako ng isang dalisay na puso
 
 
 
-### <a id="bpn4391"></a> Prayer bpn4391 in Filipino
+
+
+<a id="bpn4391"></a> 
+### Prayer bpn4391 in Filipino
 O Diyos, patnubayan Mo ako, pangalagaan Mo ako, pagningasin ang tanglaw ng aking puso at gawin Mo akong isang maningning na bituin. Ikaw ang Malakas at Makapangyarihan.
 
 (Source category: Mga Bata At Kabataan)
@@ -1156,7 +1353,10 @@ O Diyos, patnubayan Mo ako, pangalagaan Mo ako, pagningasin ang tanglaw ng aking
 
 
 
-### <a id="bpn4392"></a> Prayer bpn4392 in Filipino
+
+
+<a id="bpn4392"></a> 
+### Prayer bpn4392 in Filipino
 O aking Panginoon! O aking Panginoon!
 
 Ako ay isang batang may murang  gulang. Pasusuhin Mo ako sa dibdib ng Iyong kahabagan, sanayin Mo ako sa pinakapuso ng Iyong pag-ibig, turuan Mo ako sa paaralan ng Iyong pamamatnubay at paunlarin Mo ako sa lilim ng anino ng Iyong pagpapala! Iligtas Mo ako buhat sa kadiliman, gawin Mo akong isang maningning na liwanag; palayain Mo ako buhat sa kawalang-galak, gawin Mo akong isang bulaklak sa halamanan ng rosas; tulutan Mo akong maging tagapaglingkod sa Iyong Pintuan at ipagkaloob Mo sa akin ang kaisipan at kaugalian ng mga matuwid; gawin Mo akong isang dahilan ng pagpapala sa daigdig ng tao at putungan Mo ako ng korona ng walang hanggang buhay!
@@ -1169,7 +1369,10 @@ Tunay na Ikaw ang Malakas, ang Makapangyarihan, ang Nakakikita, ang Nakaririnig!
 
 
 
-### <a id="bpn4393"></a> Prayer bpn4393 in Filipino
+
+
+<a id="bpn4393"></a> 
+### Prayer bpn4393 in Filipino
 O Panginoon! Paningningin ang kabataan ito, at ipagkaloob ang Iyong biyaya sa kahabag-habag na nilikhang ito. Ipagkaloob sa kaniya ang karunungan, bigyan siya ng karagdagang lakas sa simula ng bawat araw at tanuran siya sa lilim ng Iyong pangangalaga upang maligtas siya sa kamalian, ng maihandog niya ang kaniyang sarili sa paglilingkod sa Iyong Kapakanan, mapatnubayan ang mga naliligaw ang landas, maakay ang mga sawimpalad, mapalaya ang mga bihag at magising ang mga pabaya, nang ang lahat ay pagpalain sa Iyong pag-alaala at papuri. Ikaw ang Malakas at Makapangyarihan.
 
 (Source category: Mga Bata At Kabataan)
@@ -1179,9 +1382,13 @@ O Panginoon! Paningningin ang kabataan ito, at ipagkaloob ang Iyong biyaya sa ka
 
 
 
+
+
+<a id="Mga Pagpupulong"></a> 
 ## Mga Pagpupulong
 
-### <a id="bpn4454"></a> Prayer bpn4454 in Filipino
+<a id="bpn4454"></a> 
+### Prayer bpn4454 in Filipino
 O Ikaw na maawaing Diyos! O Ikaw na makapangyarihan at malakas! O Ikaw na pinakamabuting Ama! Ang mga tagapaglingkod na ito ay nagsipag-ipun-ipon, bumabaling sa Iyo, nananawagan sa Iyong pintuan, naghahangad ng Iyong walang katapusang pagpapala buhat sa Iyong dakilang katiyakan. Wala silang layunin liban sa Iyong mabuting kasiyahan. Wala silang adhikain liban sa paglilingkod sa daigdig ng sangkatauhan.
 
 O Diyos! Pagningningngin ang kapulungang ito. Gawing mahabagin ang mga puso. Ipagkaloob ang mga pagpapala ng Banal na Espiritu. Pagkalooban sila ng isang kapangyarihang buhat sa langit. Bigyan sila ng mga makalangit na isipan. Dagdagan ang kanilang katapatan upang may buong kapakumbabaan at pagsisisi ay bumaling sila sa Iyong Kaharian at puspusang maglingkod sa daigdig ng sangkatauhan. Nawa’y maging isang maningning na kandila ang bawat isa. Nawa’y maging isang maluningning na bituin ang bawat isa. Nawa’y magkaroon ng magandang kulay at maging mabangung-mabango sa Kaharian ng Diyos ang bawat isa.
@@ -1196,7 +1403,10 @@ O Diyos! Pagkalooban kami ng Iyong pagpapala. Ikaw ang Makapangyarihan! Ikaw ang
 
 
 
-### <a id="bpn4455"></a> Prayer bpn4455 in Filipino
+
+
+<a id="bpn4455"></a> 
+### Prayer bpn4455 in Filipino
 O Ikaw na mahabaging Panginoon! Ito ay Iyong mga tagapaglingkod na nagsipagtipon sa kapulungang ito, nagbaling sa Iyong Kaharian at nangangailangan ng Iyong kaloob at basbas. O Ikaw na Diyos! Ipahayag at ipakilala ang mga tanda ng Iyong pagkaisa na inilagak sa lahat ng mga realidad ng buhay. Ihayag at ipakita ang mabubuting katangian na Iyong ipinaloob at itinago dito sa mga realidad ng tao.
 
 O Diyos! Kami ay tulad ng mga halaman at ang Iyong pagpapala ay tulad ng ulan. Panariwain Mo at palakihin ang mga halamang ito sa pamamagitan ng Iyong mga kaloob. Kami ay mga tagapaglingkod Mo; palayain Mo kami sa mga tanikala ng materyal na pagkabuhay. Kami ay mga walang muwang; gawin kaming madunong. Kami ay patay; buhayin kami. Kami ay materyal; bigyan kami ng espiritu. Kami ay mga pinagkaitan; gawin kaming mga nakatatalos ng Iyong mga hiwaga. Kami ay mga nangangailangan; bigyan kami ng kasaganaan at pagpapala buhat sa Iyong walang hanggang kabanyaman. O Diyos! Muling buhayin kami, bigyan kami ng paningin, bigyan kami ng pandinig. Sanayin kami sa mga hiwaga ng buhay, upang ang mga lihim ng Iyong Kaharian ay mahayag sa amin sa daigdig na ito ng nilalang at aming ipahayag ang Iyong kaisahan. Bawat kaloob ay nagbubuhat sa Iyo; bawat basbas ay Iyo.
@@ -1209,7 +1419,10 @@ Ikaw ay Makapangyarihan! Ikaw ay Malakas! Ikaw ang Tagapagbigay at Ikaw ang Lagi
 
 
 
-### <a id="bpn4456"></a> Prayer bpn4456 in Filipino
+
+
+<a id="bpn4456"></a> 
+### Prayer bpn4456 in Filipino
 O Ikaw na mapagpatawad na Diyos! Ang mga tagapaglingkod na ito ay nagsisibaling sa Iyong Kaharian at nagsisipaghanap ng Iyong biyaya at pagpapala. O Diyos! Pabutihin at padalisayin ang kanilang mga puso upang sila’y maging karapat-dapat sa Iyong pag-ibig. Dalisayin at banalin ang kanilang mga espiritu upang ang liwanag ng Araw ng Katotohanan ay sumikat sa kanila. Dalisayin at banalin ang mga mata upang mamalas nila ang Iyong liwanag. Dalisayin at banalin ang mga tainga upang marinig nila ang tawag ng Iyong Kaharian. 
 
 O Panginoon! Tunay na kami ay mahihina ngunit Ikaw ay malakas. Tunay na kami ay mga dukha ngunit Ikaw ay mayaman. Kami ay mga naghahanap at Ikaw ang hinahanap. O Panginoon! Mahabag Ka sa amin at kami’y patawarin; ipagkaloob sa amin ang kakayahan at kahandaan upang kami’y maging karapat-dapat sa Iyong mga pagtatangkilik, maakit sa Iyong Kaharian, mapagningas ng apoy ng Iyong pag-ibig at mabuhay sa pamamagitan ng mga hininga ng Iyong Banal na Espiritu sa maningning na Siglong ito.
@@ -1226,7 +1439,10 @@ Ikaw ay Malakas; Ikaw ay Makapangyarihan sa Lahat; Ikaw ay Mahabagin; at Ikaw ay
 
 
 
-### <a id="bpn4457"></a> Prayer bpn4457 in Filipino
+
+
+<a id="bpn4457"></a> 
+### Prayer bpn4457 in Filipino
 O Banal ns Pagpapala! Ang lupong ito ay binubuo ng Iyong mga kaibigan na naaakit sa Iyong Kagandahan at naglalagablab sa apoy ng Iyong pag-ibig. Baguhin ang mga kaluluwang ito upang maging makalangit na mga anghel, muli silang buhayin sa pamamagitan ng hininga ng Iyong Banal na Espiritu, bigyan sila ng mahusay na mga dila at matatag na mga puso, ipagkaloob sa kanila ang makalangit na lakas at maawaing mga damdamin, gawin Mo silang maging mga tagapamalita ng pagkakaisa ng sangkatauhan at sanhi ng pag-ibig at pagkakasunduan dito sa daigdig ng sangkatauhan nang sa ganoon ang mapanganib na lagim na walang batayang paniniwala na dulot ng kamangmangan ay mawala sa pamamagitan ng liwanag ng Araw ng Katotohanan, ang malungkot na daigdig na ito ay lumiwanag, ang makalupang kaharian na ito ay tumanggap ng mga sinag ng daigdig ng espiritu, ang iba’t-ibang mga kulay na ito ay maging iisang kulay at ang himig ng pagpaparangal ay maka-akyat sa kaharian ng Iyong kabanalan.
 
 Sa katunayan Ikaw ang Pinakamakapangyarihan at ang Pinakamalakas.
@@ -1238,9 +1454,13 @@ Sa katunayan Ikaw ang Pinakamakapangyarihan at ang Pinakamalakas.
 
 
 
+
+
+<a id="Mga Pamilya"></a> 
 ## Mga Pamilya
 
-### <a id="bpn4475"></a> Prayer bpn4475 in Filipino
+<a id="bpn4475"></a> 
+### Prayer bpn4475 in Filipino
 Luwalhatiin Ka, O Panginoon kong Diyos! Isinasamo ko sa Iyo na patawarin Mo ako at yaong mga nagtataguyod sa Iyong Pananampalataya. Tunay, Ikaw ang pinakadakilang Panginoon, ang Tagapagpatawad, ang Mapagpala sa Lahat. O aking Diyos! Tulutan ang yaong mga tagapaglingkod Mo na pinagkaitan ng kaalaman ay matanggap sa Iyong Kapakanan: sapagkat kung kilala Ka na nila nagpapatunay sila sa katotohanan ng Araw ng Paghukom at hindi sila tumututol sa mga palatandaan ng Iyong pagpapala, at pagkalooban sila, saan man sila nananahan, ng masaganang bahagi ng mga bagay na Iyong iniatas para sa mga banal sa Iyong mga tagapaglingkod. Ikaw sa katotohanan ang kataas-taasang Pinuno, ang Laging-Mapagpala, ang Pinakamapagkawanggawa.
 
 O aking Diyos! Tulutang ang mga daloy ng Iyong biyaya at mga pagpapala ay manaog sa mga tahanan na ang mga naninirahan ay yumakap sa Iyong Pananampalataya, bilang sagisag ng Iyong pagpapala at tanda ng mapagmahal na kabaitan mula sa Iyo. Tunay na wala Kang kapantay sa pagbibigay ng kapatawaran. Kung ang Iyong biyaya ay ipagkait sa sinuman, papaano siya maituturing na kabilang sa mga tagasunod ng Pananampalataya sa Iyong Araw? 
@@ -1253,7 +1473,10 @@ Pagpalain Mo ako, O aking Diyos, at sila na maniniwala sa Iyong mga sagisag sa i
 
 
 
-### <a id="bpn4476"></a> Prayer bpn4476 in Filipino
+
+
+<a id="bpn4476"></a> 
+### Prayer bpn4476 in Filipino
 Sumasamo ako sa Iyong kapatawaran, O aking Diyos, at nagsusumamo ng paumanhin tulad ng pamamaraan na ninanais Mo mula sa Iyong mga tagapaglingkod sa kanilang pagbaling sa Iyo. Isinasamo ko sa Iyo na hugasan ang aming mga kasalanan na naaangkop sa Iyong pagka-Panginoon at patawarin ako, ang aking mga magulang, at sila na sa Iyong panantiya ay nakapasok sa tahanan ng Iyong pagmamahal sa pamamaraang karapat-dapat sa Iyong nangingibabaw na kadakilaan at naaayon sa kaluwalhatian ng Iyong makalangit na kapangyarihan.
 
 O aking Diyos! Binigyan Mo ng pagnanais ang aking kaluluwa na maghandog ng panalangin sa Iyo, at kung hindi dahil sa Iyo, hindi ako tatawag sa Iyo. Pinupuri at niluluwalhati Ka; ipinapasa-Iyo ko ang aking pagpuri sapagkat ipinahayag Mo sa akin ang Iyong sarili, at isinasamo ko sa Iyo na patawarin ako, sapagkat nagkulang ako sa aking tungkuling kumilala sa Iyo at hindi nakatupad sa daan ng Iyong pag-ibig.
@@ -1264,7 +1487,10 @@ O aking Diyos! Binigyan Mo ng pagnanais ang aking kaluluwa na maghandog ng panal
 
 
 
-### <a id="bpn4477"></a> Prayer bpn4477 in Filipino
+
+
+<a id="bpn4477"></a> 
+### Prayer bpn4477 in Filipino
 O Panginoon! Sa Pinakadakilang Dispensasyon na ito ay tinatanggap Mo na mamagitan ang mga anak sa ngalan ng kanilang mga magulang. Ito ay isa sa mga natatanging walang hanggang mga kaloob sa Dispensasyon na ito. Samakatwid, O Ikaw na mabuting Panginoon, tanggapin ang kahilingan nitong Iyong tagapaglingkod sa bungad ng Iyong kaisahan at itubog ang kanyang ama sa dagat ng Iyong pagpapala, sapagkat ang anak na ito ay bumangon na upang maglingkod sa Iyo at nagsisikap sa lahat ng panahon sa landas ng Iyong pagmamahal. Sa katunayan, Ikaw ang Nagbibigay, ang Nagpapatawad at ang Mabuti!
 
 (Source category: Mga Pamilya)
@@ -1273,7 +1499,10 @@ O Panginoon! Sa Pinakadakilang Dispensasyon na ito ay tinatanggap Mo na mamagita
 
 
 
-### <a id="bpn4478"></a> Prayer bpn4478 in Filipino
+
+
+<a id="bpn4478"></a> 
+### Prayer bpn4478 in Filipino
 O Diyos, aking Diyos! Itong Iyong babaeng naglilingkod ay tumatawag sa Iyo, nagtitiwala sa Iyo, nagbabaling ng kaniyang mukha sa Iyo, nagsusumamo sa Iyo na padaluyin ang makalangit na biyaya sa kaniya, at ihayag sa kaniya ang Iyong mga espiritwal na himala, at ipaabot sa kaniya ang mga liwanag ng Iyong pagka-Diyos.
 
 O aking Panginoon! Gawing makakita ang mga mata ng aking asawa. Pasayahin ang kaniyang puso sa pamamagitan ng liwanag ng kaalaman tungkol sa Iyo, ibaling Mo ang kaniyang isip sa maningning Mong kagandahan, pasiglahin Mo ang kaniyang espiritu sa pamamagitan ng pagpapahayag sa kaniya ng Iyong lantad na mga kaluwalhatian.
@@ -1288,7 +1517,10 @@ Sa katunayan, Ikaw ang Minimithi, ang Laging-Nagbibigay, ang Bukas ang Kamay.
 
 
 
-### <a id="bpn4479"></a> Prayer bpn4479 in Filipino
+
+
+<a id="bpn4479"></a> 
+### Prayer bpn4479 in Filipino
 Aking Panginoon! Aking Panginoon! Pinupuri Kita at pinasasalamatan Kita para doon sa mga bagay na pinagkaloob Mo sa Iyong mapagkumbabang kawaksing babae, ang Iyong tagapaglingkod na nagsusumamo at nagmamakaawa sa Iyo, sapagkat sa katunayan ay inakay Mo siya sa Iyong malinaw na Kaharian at itinulot Mong marinig niya ang Iyong kataas-taasang Tawag sa lumilipas na mundong ito at upang mamalas niya ang Iyong mga Tanda na nagpapatunay sa pagdating ng Iyong matagumpay na pamamahala sa lahat ng mga bagay.
 
 O aking Panginoon, inihahandog ko ang nasa aking sinapupunan sa Iyo. Kung gayon ay gawin siyang kapuri-puring bata sa Iyong Kaharian at isang mapalad sa pamamagitan ng Iyong biyaya at sa Iyong kagandahang-loob; upang umunlad at lumaki sa ilalim ng pamamatnubay ng Iyong pagtuturo. Sa katunayan, Ikaw ang Mapagpala! Sa katunayan, Ikaw ang Panginoon ng Dakilang Biyaya.
@@ -1300,9 +1532,13 @@ O aking Panginoon, inihahandog ko ang nasa aking sinapupunan sa Iyo. Kung gayon 
 
 
 
+
+
+<a id="Naw-Rúz"></a> 
 ## Naw-Rúz
 
-### <a id="bpn4540"></a> Prayer bpn4540 in Filipino
+<a id="bpn4540"></a> 
+### Prayer bpn4540 in Filipino
 *Ang Naw-Rúz, Marso21, ay ang unang araw ng taon ng Bahá’í.
 
 Purihin ka, O aking Diyos, sa pag-aatas Mo na ang Naw-Rúz ay maging isang kapistahan sa mga nagsasagawa ng pag-aayuno nang dahil sa pag-ibig sa Iyo at nagsilayo sa lahat ng kasuklam-suklam sa Iyo. Loobin, O aking Panginoon na ang apoy ng Iyong pag-ibig at ang init na nalikha ng pag-aayunong iniatas Mo ay makapagparubdob sa kanila sa Iyong Kapakanan, at gawin silang abala sa pagpuri sa Iyo at sa paggunita sa Iyo.
@@ -1322,9 +1558,13 @@ Ikaw, sa katotohanan, ang Nakababatid ng Lahat, ang Matalino sa Lahat.
 
 
 
+
+
+<a id="Pag-Iisang Dibdib"></a> 
 ## Pag-Iisang Dibdib
 
-### <a id="bpn4433"></a> Prayer bpn4433 in Filipino
+<a id="bpn4433"></a> 
+### Prayer bpn4433 in Filipino
 *“Ang pag-iisang dibdib ng Bahá’í ay ang pagbubuklod at magalang na pagmamahal sa pagitan ng dalawang panig. Gayunman, dapat silang gumamit ng sukdulang ingat at makilala ang pag-uugali ng isa’t isa. Itong di-magmamaliw na pagkaka-ugnay sa kanila ay dapat pagtibayin ng matatag na kasunduan, at ang kanilang layunin ay upang patibayin ang pagkakasundo, pagkakaibigan, pag­ kakaisa at upang matamo ang buhay na walang hanggan.” — ‘Abdu’l-Bahá
 
 *Ang sumpa ng pag-iisang dibdid, ang pariralang magkasunod na bibigkasin ng nobya at nobyo sa harap ng dalawa man lamang saksi na tinatanggap ng Spiritual Assembly, sang-ayon sa nakasaad sa Kitáb-i-Aqdas, ay:
@@ -1343,7 +1583,10 @@ At nang naisin Niyang magpakita ng biyaya at pagpapala sa tao, at isaayos ang da
 
 
 
-### <a id="bpn4434"></a> Prayer bpn4434 in Filipino
+
+
+<a id="bpn4434"></a> 
+### Prayer bpn4434 in Filipino
 Luwalhati sa Iyo, O aking Diyos! Tunay, ang Iyong tagapaglingkod at Iyong babaeng naglilingkod ay natitipon sa lilim ng anino ng Iyong kahabagan at sila’y pinag-isa sa pamamagitan ng Iyong pagtatangkilik at kagandahang loob. O Panginoon! Tulungan sila sa daigdig Mong ito at sa Iyong Kaharian at itadhana para sa kanila ang bawat mabuti sa pamamagitan ng Iyong pagpapala at biyaya. O Panginoon! Pagtibayin sila sa pagsisilbi sa Iyo at tulungan sila sa paglilingkod sa Iyo. Loobing sila’y maging mga tanda ng Iyong Pangalan sa Iyong daigdig at kalingain sila sa pamamagitan ng Iyong mga kaloob na hindi masasaid sa daigdig na ito at sa daigdig na darating. O Panginoon! Sila ay naninikluhod patungo sa Kaharian ng Iyong kahabagan at nananawagan sa lupain ng Iyong kaisahan. Tunay na Sila’y pinag-isang dibdib sa pagsunod sa Iyong kautusan. Loobing sila’y maging tanda ng pagkakasundo at pagkakaisa hanggang sa wakas ng panahon. Tunay na Ikaw ang Walang-hanggang Lakas, ang Sumasalahat at ang Makapangyarihan sa Lahat!
 
 (Source category: Pag-Iisang Dibdib)
@@ -1352,7 +1595,10 @@ Luwalhati sa Iyo, O aking Diyos! Tunay, ang Iyong tagapaglingkod at Iyong babaen
 
 
 
-### <a id="bpn4435"></a> Prayer bpn4435 in Filipino
+
+
+<a id="bpn4435"></a> 
+### Prayer bpn4435 in Filipino
 Siya ay Diyos! O walang kapantay na Panginoon! Sa Iyong dunong na makapangyarihan sa lahat, iniatas Mong magsipag-asawa ang mga tao, upang ang mga salinlahi ng tao ay magsusunod-sunod sa walang katiyakang daigdig na ito at upang magpakailan man, habang ang daigdig ay nananatili, sila’y maging abala sa pintuan ng Iyong pagkaisa sa paglilingkod at pagsamba, nang may pagbati, pananambalan at pagpupuri. “Hindi ko nilikha ang mga espiritu at mga tao, kundi upang sila’y sumamba sa akin.” (Qur'án 51:56) Kung gayon, pag-isahing dibdib Mo sa langit ng Iyong habag ang dalawang ibong ito ng pugad ng Iyong pag-ibig, at gawin silang tagapang-akit ng walang hanggang biyaya; nang upang sa pag-iisa ng dalawang dagat na ito ng pag-ibig ay dumagsa ang isang alon ng pagkamasuyo at ihagis ang mga perlas ng dalisay at mabuting supling sa dalampasigan ng buhay. “Pinawalan Niya ang dalawang dagat, nang upang magkatagpo sila: Sa pagitan nila ay may isang hadlang na hindi nila matawiran. Alin sa mga pagpapala ng iyong Panginoon ang iyong itatanggi? Buhat sa bawat isa, Siya ay naghahango ng malalaki at mumunting perlas.”(Qur'án 55:19-22) 
 
 O Ikaw na mabait na Panginoon! Gawin Mo ang pag-iisang dibdib na ito ay makapagbigay ng korales at perlas. Tunay na Ikaw ang Malakas sa Lahat, ang Pinakadakila, ang Laging Nagpapa­ tawad!
@@ -1363,7 +1609,10 @@ O Ikaw na mabait na Panginoon! Gawin Mo ang pag-iisang dibdib na ito ay makapagb
 
 
 
-### <a id="bpn4436"></a> Prayer bpn4436 in Filipino
+
+
+<a id="bpn4436"></a> 
+### Prayer bpn4436 in Filipino
 O aking Panginoon, O aking Panginoon! Itong dalawang maningning na liwanag ay pinag-isang dibdib sa Iyong pagmamahal, pinagsama sa paglilingkod sa Iyong Banal na Dambana, magkaisa sa pagtulong sa Iyong Kapakanan. Gawin Mong ang pag-iisang dibdib na ito ay maging tulad ng mga nilalakarang liwanag ng Iyong nag-uumapaw na biyaya, O aking Panginoon, ang Maawain sa lahat, ang mga maluningning na silahis ng Iyong mga pagpapala, O Ikaw na Mabait, ang Laging Nagbibigay, upang mayroon mga tutubo dito sa dakilang puno na mga sanga na yayabong na luntian at malusog sa pamamagitan ng Iyong mga ulap ng pagpapala.
 
 Sa katunayan, Ikaw ang Mapagbigay. Sa katunayan, Ikaw ang Makapangyarihan. Sa katunayan, Ikaw ang Mahabagin, ang Maawain sa Lahat.
@@ -1375,9 +1624,13 @@ Sa katunayan, Ikaw ang Mapagbigay. Sa katunayan, Ikaw ang Makapangyarihan. Sa ka
 
 
 
+
+
+<a id="Pagkakaisa"></a> 
 ## Pagkakaisa
 
-### <a id="bpn4438"></a> Prayer bpn4438 in Filipino
+<a id="bpn4438"></a> 
+### Prayer bpn4438 in Filipino
 O aking Diyos! O aking Diyos! Tunay na tinatawagan Kita at naninikluhod ako sa Iyong pintuan at humihiling sa Iyo na ang lahat ng awa Mo ay ipagkaloob sa mga kaluluwang ito. Dalubhasain Mo sila para sa Iyong tangkilik at sa Iyong katotohanan.
 
 O Panginoon! Pag-isahin at bigkising sama-sama ang mga puso, pagkasunduin ang lahat ng mga kaluluwa at pasiglahin ang mga espiritu sa pamamagitan ng mga tanda ng Iyong kabanalan at pagkakaisa. O Panginoon! Ang mga mukhang ito ay pagningningin sa pamamagitan ng liwanag ng Iyong pagkakaisa. Palakasin ang mga balakang ng Iyong mga tagapaglingkod sa paglilingkod sa Iyong kaharian.
@@ -1394,7 +1647,10 @@ Tunay na Ikaw ang Makapangyarihan sa Lahat, ang Sariling-Ganap, ang Tagapagkaloo
 
 
 
-### <a id="bpn4437"></a> Prayer bpn4437 in Filipino
+
+
+<a id="bpn4437"></a> 
+### Prayer bpn4437 in Filipino
 O aking Diyos! O aking Diyos! Pagkaisahin ang mga puso ng Iyong mga tagapaglingkod, at ihayag sa kanila ang Iyong dakilang layunin. Nawa’y manalunton sila sa Iyong mga kautusan at manatili sa Iyong batas. Tulungan sila, O Diyos, sa kanilang pagsisikap, at pagkalooban sila ng lakas na maglingkod sa Iyo. O Diyos! Huwag Mo silang iiwan sa kanilang mga sarili, kundi patnubayan Mo ang kanilang mga hakbag sa liwanag ng Iyong kaalaman at bigyang galak ang kanilang mga puso ng Iyong pag- ibig. Tunay na Ikaw ang kanilang Tulong at ang kanilang Panginoon.
 
 (Source category: Pagkakaisa)
@@ -1404,9 +1660,13 @@ O aking Diyos! O aking Diyos! Pagkaisahin ang mga puso ng Iyong mga tagapaglingk
 
 
 
+
+
+<a id="Pagkawalay"></a> 
 ## Pagkawalay
 
-### <a id="bpn4439"></a> Prayer bpn4439 in Filipino
+<a id="bpn4439"></a> 
+### Prayer bpn4439 in Filipino
 Tulutan Mo, O aking Diyos, na makalapit ako sa Iyo, at makapanahan sa loob ng saklaw ng Iyong liwasan, sapagkat ang pagkalayo sa Iyo ay halos ikinawasak ko. Pagpahingahin Mo ako sa lilim ng mga bagwis ng Iyong biyaya dahil sa ang apoy ng pagkawalay ko sa Iyo ay tumunaw sa pusong nasa loob ko. Ilapit Mo ako sa ilog na siyang tunay na buhay, sapagkat ang aking kaluluwa ay labis na nauuhaw sa walang tigil na paghahanap sa Iyo. Ang aking mga daing O aking Diyos, ay naghahayag ng kapaitan ng aking pagdurusa, at ang mga luhang itinigis ko ay patunay ng aking pag-ibig sa Iyo.
 
 Isinasamo ko sa Iyo, sa papuring ipinagpupuri Mo sa Iyong Sarili at sa luwalhati Mo sa Iyong Pinakadiwa, na ipahintulot na kami ay mabilang sa kanilang nakakilala sa Iyo at kumilala sa Iyong paghahari sa Iyong mga araw. Tulungan Mo kami, kung gayon, O aking Diyos, na makainom mula sa mga daliri ng Iyong kahabagan ng nabubuhay na mga tubig ng Iyong mapagmahal na kabutihang loob upang ganap naming malimot ang lahat liban sa Iyo, at mapuspos kami ng Iyong Sarili lamang. Makapangyarihan Ka at magagawa Mo ang Iyong naisin. Walang ibang Diyos liban sa Iyo, ang Makapangyarihan, ang Tulong sa Panganib, ang Sariling-Ganap.
@@ -1419,7 +1679,10 @@ Luwalhatiin ang Iyong pangalan, O Ikaw na Hari ng lahat ng Hari!
 
 
 
-### <a id="bpn4440"></a> Prayer bpn4440 in Filipino
+
+
+<a id="bpn4440"></a> 
+### Prayer bpn4440 in Filipino
 Nasa kaluwalhatian Ka, O aking Diyos! Nagpapasalamat ako sa Iyo sapagkat ipinakilala Mo sa akin Siya na Pamimitak ng Iyong kahabagan, at Pook-Liwayway ng Iyong biyaya, at Tinggalan ng Iyong Kapakanan. Isinasamo ko sa Iyo sa Iyong Pangalan, na sa pamamagitan niyon ay pumuti ang mga mukha ng malapit sa Iyo, at ang mga puso ng matatapat sa Iyo ay mabilis na nakalipad patungo sa Iyo na ipagkaloob Mong makahawa ako sa Iyong Kuldon sa lahat ng sandali at sa ilalim ng lahat ng kalagayan, at maputol ang lahat ng pagkakaugnay ko sa sinuman liban sa Iyo, at mapanatili ko ang aking paninging nakatuon sa sugpungang-guhit ng Iyong Rebelasyon, at nawa’y maisagawa ko ang iniatas Mo sa akin sa Iyong mga tableta.
 
 Damtan Mo, O aking Panginoon, kapwa ang aking panloob at panlabas na katauhan, ng damit ng Iyong mga pagtatangkilik at ng Iyong mapagmahal na kahabagan. Ingatan Mo akong ligtas, kung gayon, sa anumang kasuklam suklam sa Iyo, at buong kagandahang loob na tulungan Mo ako at ang aking mga kaanak na makasunod sa Iyo, at malayuan ang anumang nakapupukaw ng anumang kasamaan o balakyot na hangarin sa loob ng aking sarili.
@@ -1432,7 +1695,10 @@ Tunay na Ikaw ang Panginoon ng lahat ng tao, ang nagmamay-ari sa daigdig na ito 
 
 
 
-### <a id="bpn4441"></a> Prayer bpn4441 in Filipino
+
+
+<a id="bpn4441"></a> 
+### Prayer bpn4441 in Filipino
 Maraming malamig na puso, O aking Diyos, ang pinapagningas ng apoy ng Iyong Kapakanan, at maraming nangatutulog ang ginising ng katamisan ng Iyong tinig. Gaano karami ang di-kilala na nakatagpo ng kanlungan sa lilim ng anino ng punong-kahoy ng Iyong kaisahan, at gaano karami ang humihingal para sa bukal ng Iyong buhay na mga tubig sa Iyong mga araw!
 
 Pinagpala siya na nag-ukol ng sarili sa Iyo, at nagmadaling makarating sa Pamimitak ng mga liwanag ng Iyong mukha. Pinagpala siya na buong pag-ibig na bumaling sa Pook-Liwayway ng Iyong Rebelasyon at sa Ulong-Bukal ng Iyong inspirasyon. Pinagpala siya na gumugol sa Iyong landas ng ipinagkaloob Mo sa kaniya sa pamamagitan ng Iyong pagpapala at pagtatangkilik. Pinagpala siya na sa kaniyang masidhing paghahangad sa Iyo ay nag-alis ng lahat liban sa Iyong Sarili. Pinagpala siya na nagtamasa ng matalik na pakikipag-isa sa Iyo at pumutol sa lahat ng kaniyang pakakaugnay sa sinuman liban sa Iyo.
@@ -1447,7 +1713,10 @@ Ang Iyong kapangyarihan, sa katotohanan, ay katimbang ng lahat ng bagay.
 
 
 
-### <a id="bpn4442"></a> Prayer bpn4442 in Filipino
+
+
+<a id="bpn4442"></a> 
+### Prayer bpn4442 in Filipino
 Hindi ko batid, O aking Diyos, kung ano ang Apoy na pinagningas Mo sa Iyong lupain. Hindi kailanman matatabingan ng daigdig ang ningning niyon, ni mapapatay ng tubig, ang apoy niyon. Lahat ng tao sa daigdig ay walang kakayahang makalaban sa lakas niyon. Malaki ang pagpapala niya na nakalapit doon at nakarinig sa dagundong niyon.
 
 Ang ilan, O aking Diyos, sa pamamagitan ng nagbibigay-lakas Mong biyaya ay niloob Mong makalapit doon, samantalang ang iba ay hindi Mo tinutulan dahil sa mga bagay na ginawa ng kanilang mga kamay sa Iyong mga araw. Sinumang nagmadaling magtungo roon at nakarating doon, sa kaniyang pananabik na makamalas sa Iyong kagandahan, ay naghain ng kaniyang buhay sa Iyong landas, at nakaakyat patungo sa Iyo, nang ganap na nakahiwalay sa anumang iba pa liban sa Iyong Sarili.
@@ -1462,7 +1731,10 @@ Makapangyarihan Ka, at magagawa Mo ang Iyong naisin. Tunay na Ikaw ang Makapangy
 
 
 
-### <a id="bpn4443"></a> Prayer bpn4443 in Filipino
+
+
+<a id="bpn4443"></a> 
+### Prayer bpn4443 in Filipino
 Luwalhatiin Ka, O aking Diyos! Ako ay isa sa Iyong mga tagapaglingkod na sumasampalataya sa Iyo at sa Iyong mga tanda. Nakikita Mo kung paano naitungo ko ang aking sarili sa pintuan ng Iyong kahabagan, at naibaling ko ang aking mukha sa kinaroroonan ng Iyong mapagmahal na kabaitan. Isinasamo ko sa Iyo, sa Iyong pinakamagaling na mga pamagat at sa Iyong pinakamaluwalhating mga katangian, na buksan sa harap ko ang mga pinto ng Iyong mga kaloob. Tulungan Mo ako, kung gayon, na makagawa ng mabuti, O ikaw na Nagmamay-ari ng lahat ng pangalan at katangian!
 
 Ako ay dukha, O aking Panginoon, at Ikaw ang mayaman. Iniharap ko ang aking mukha sa Iyo, at inihiwalay ko ang aking sarili sa lahat liban sa Iyo. Huwag Mong ipagkait sa akin, isinasamo ko sa Iyo, ang mga simoy ng Iyong masuyong kahabagan, at huwag Mong ilingid sa aking yaong mga iniatas Mo para sa pinili sa Iyong mga tagapaglingkod.
@@ -1479,7 +1751,10 @@ Walang iba pang Diyos liban sa Iyo ang Makapangyarihan sa Lahat, ang Mapagpala.
 
 
 
-### <a id="bpn4444"></a> Prayer bpn4444 in Filipino
+
+
+<a id="bpn4444"></a> 
+### Prayer bpn4444 in Filipino
 Sa Pangalan ng Iyong Panginoon, ang Maylikha, ang Makapangyarihan, ang Nakasasapat sa Lahat, ang Pinakadakila. Siya na ang tulong ay hinihiling ng lahat ng tao.
 
 Sabihin: O aking Diyos! O Ikaw na Siyang gumawa ng mga langit at lupa, O Panginoon ng Kaharian! Ikaw ay lubos na nakaaalam sa mga lihim ng mga puso, samantalang ang Iyong Kalagayan ay hindi naunawaan ng lahat maliban sa Iyong Sarili. Nakikita Mo ang anumang nauukol sa akin, samantalang walang sinumang makagagawa nito maliban sa Iyo. Marapatin Mo para sa akin, sa pamamagitan ng Iyong biyaya, yaong nakapag-aalis sa lahat liban sa Iyo at italaga Mo para sa akin na hindi ako aasa sa sinuman maliban sa Iyo. Ipagkaloob na aking matamo ang kapakinabangan ng aking buhay sa daigdig na ito at sa susunod. Buksan sa aking harapan ang mga pintuan ng Iyong pagpapala, at buong pagmamahal na ipagkaloob sa akin ang Iyong magiliw na habag at mga biyaya.
@@ -1494,7 +1769,10 @@ Ipagkaloob ang Iyong mga pagpapala, O aking Panginoon, sa mga Tagapagbalita, sa 
 
 
 
-### <a id="bpn4445"></a> Prayer bpn4445 in Filipino
+
+
+<a id="bpn4445"></a> 
+### Prayer bpn4445 in Filipino
 O Panginoon! Sa Iyo ako pumupunta upang magpakupkup at ang aking puso ay itinututok ko sa lahat ng Iyong mga tanda.
 
 O Panginoon! Kahiman naglalakbay o kaya’y nasa tahanan, at sa aking tungkulin at sa aking gawain, inilalagay ko ang aking buong pagtitiwla saa Iyo.
@@ -1509,7 +1787,10 @@ Nasa Iyo ang ganap na kapangyarihang mag-utos.
 
 
 
-### <a id="bpn4446"></a> Prayer bpn4446 in Filipino
+
+
+<a id="bpn4446"></a> 
+### Prayer bpn4446 in Filipino
 Diyos Ko! Diyos Ko! Ikaw ang aking pag-asa at ang aking Minamahal, ang aking pinakamataas na Layunin at Hangarin! Buong pagpapakumbaba at buong pag-ibig na idinadalangin ko sa Iyo na gawin Mo akong tore ng Iyong pag-ibig sa Iyong pook, ilawa ng Iyong karunungan sa Iyong mga nilikha at bandila ng banal na biyaya sa Iyong Kaharian.
 
 Ibilang Mo akong isa sa Iyong mga tagapaglingkod na naghiwalay ng kanilang sarili sa lahat liban sa Iyo, na pinalaya ang mga sarili sa mga pag-udyok ng mga nagsasabi ng mga walang kabuluhang guni-guni. 
@@ -1524,7 +1805,10 @@ Ikaw ang Makapangyarihan sa Lahat, ang Maluwalhati sa lahat, ang Malakas sa Laha
 
 
 
-### <a id="bpn4447"></a> Prayer bpn4447 in Filipino
+
+
+<a id="bpn4447"></a> 
+### Prayer bpn4447 in Filipino
 O Diyos, aking Diyos! Punuin Mo para sa akin ang kopa ng pagkawalay sa lahat ng mga bagay, at sa kapulungan ng Iyong karilagan at mga pagpapala, pasayahin Mo ako sa alak ng pagmamahal sa Iyo. Palayain Mo ako sa mga pagsalakay ng silakbo ng damdamin at pagnanasa, patirin Mo ang aking kadena sa makalupang daigdig na ito, akitin Mo ako sa masidhing kagalakan tungo sa Iyong makalangit na kaharian, at panariwain ako sa kalipunan ng mga babaeng naglilingkod sa pamamagitan ng mga hinga ng Iyong kabanalan.
 
 O Panginoon, paliwanagin Mo ang aking mukha sa mga ilaw ng Iyong mga pagpapala, tanglawan Mo ang aking mga mata sa pamamagitan ng pagtanaw ng mga tanda ng Iyong laging lumulupig na lakas; pagalakin Mo ang aking puso, sa kaluwalhatian ng Iyong kaalaman na sumakop sa lahat ng mga bagay, pasayahin Mo ang aking kaluluwa, O Ikaw na Hari ng daigdig na ito at ng kaharian sa itaas, O Ikaw na Panginoon ng kapangyarihan at lakas, nang sa gayon ay maikalat ko sa iba’t-ibang dako ang Iyong mga tanda at mga patotoo, at ipahayag ang Iyong Kapakanan, at palaganapin ang Iyong mga Aral, at paglingkuran ang Iyong Batas at dakilain ang Iyong Salita.
@@ -1538,9 +1822,13 @@ Ikaw nga, tunay, ang Malakas, ang Laging Nagbibigay, ang May Kakaya­ han, ang M
 
 
 
+
+
+<a id="Pagpapagaling"></a> 
 ## Pagpapagaling
 
-### <a id="bpn4448"></a> Prayer bpn4448 in Filipino
+<a id="bpn4448"></a> 
+### Prayer bpn4448 in Filipino
 O Diyos, aking Diyos! Isinasamo ko sa Iyo sa karagatan ng Iyong pagpapagaling, at sa ningning ng Araw-Bituin ng Iyong biyaya, at sa pagsakop sa Pangalan na ginamit Mo sa pagsakop sa Iyong mga tagapaglingkod, at sa nakapagpapalagos na lakas ng Iyong pinakamaluwalhating Salita at kapangyarihan ng Iyong pinakadakilang Panulat, at sa Iyong kahabagan na nauna pa sa paglalang ng lahat ng nasa lupa, na sa pamamagitan ng mga tubig ng Iyong pagpapala ay linisin ako sa bawat paghihirap at kaguluhan, at sa lahat ng kahinaan at karupukan.
 
 Nakikita Mo, O aking Panginoon, ang sa Iyo’y naninikluhod na naghihintay sa pintuan ng Iyong pagpapala, gayon din siyang nag-ukol ng kaniyang mga pag-asa sa Iyo at nangangapit sa kuldon ng Iyong kagandahang-loob. Isinasamo ko na huwag Mong ipagkait sa kaniya ang mga bagay na hinahanap niya sa karagatan ng Iyong biyaya at sa Araw-Bituin ng Iyong mapagmahal na kahabagan.
@@ -1553,7 +1841,10 @@ Makapangyarihan Ka at magagawa Mo ang Iyong marapatin. Walang ibang Diyos liban 
 
 
 
-### <a id="bpn4450"></a> Prayer bpn4450 in Filipino
+
+
+<a id="bpn4450"></a> 
+### Prayer bpn4450 in Filipino
 Luwalhati sa Iyo, O Panginoon kong Diyos! Isinasamo ko sa Iyo sa Iyong Pangalan, na sa pamamagitan niyon ay itinaas Mo ang mga bandila ng Iyong pamamatnubay, at pinadaloy ang ningning ng Iyong mapagmahal na kahabagan, at ipinahayag ang kapangyarihan ng Iyong pagka-Panginoon; na sa pamamagitan niyon ay lumitaw ang lampara ng Iyong mga pangalan sa loob ng kinalalagyan ng Iyong mga katangian, at Siya na Tabernakulo ng Iyong kaisahan at Kapahayagan ng pagkakatiwalag ay sumikat; na sa pamamagitan niyon ay naipakilala ang mga daan ng Iyong pamamatnubay, nabigyang-tanda ang mga landas ng Iyong mabuting kasiyahan; na sa pamamagitan niyon ang mga saligan ng katiwalian ay nagawang mayanig at ang mga tanda ng kasamaan ay naiwaksi; na sa pamamagitan niyon ang mga bukal ng kadunungan ay bumulwak, at naibaba ang makalangit na hapag; na sa pamamagitan niyon ay napangalagaan Mo ang Iyong mga tagapaglingkod at naipagkaloob ang Iyong pagpapagaling; na sa pamamagitan niyon ay naipakita Mo ang Iyong masuyong mga habag sa Iyong mga tagapaglingkod at naipahayag ang Iyong pagpapatawad sa Iyong mga nilalang—isinasamo ko sa Iyo na ingatan siya na mahigpit na nangangapit at nagbalik sa Iyo, at nanghahawak sa Iyong habag, at nakakapit sa laylayan ng Iyong mapagmahal na kalinga. Ihulog Mo, kung gayon, sa kaniya ang Iyong lunas, at siya’y pagalingin Mo, at bigyan Mo siya ng hindi nagbabagong katapatan na ipinagkaloob Mo, at ng katiwasayan na kaloob ng Iyong Kataasan.
 
 Tunay na Ikaw ang Tagapagpagaling, ang Tagapagbuhay, ang Tumutulong, ang Makapangyarihan sa Lahat, ang Malakas, ang Maluwalhati sa Lahat, ang Nakababatid ng Lahat.
@@ -1564,7 +1855,10 @@ Tunay na Ikaw ang Tagapagpagaling, ang Tagapagbuhay, ang Tumutulong, ang Makapan
 
 
 
-### <a id="bpn4451"></a> Prayer bpn4451 in Filipino
+
+
+<a id="bpn4451"></a> 
+### Prayer bpn4451 in Filipino
 Purihin Ka, O Panginoon kong Diyos! Sa pamamagitan ng Iyong Pinakadakilang Pangalan na ginamit Mo sa pagpukaw sa Iyong mga tagapaglingkod at pagtatayo ng Iyong mga lunsod, at sa pamamagitan ng Iyong mga pinakadakilang katangian, isinasamo ko sa Iyo na tulungan Mo ang Iyong mga tao na bumaling sa kinaroroonan ng masagana Mong pagpapala, at iharap ang kanilang mga mukha sa Tabernakulo ng Iyong dunong. Pagalingin Mo ang mga karamdamang nagpapahirap sa mga kaluluwa sa bawat panig at nakapigil sa kanila sa pag-uukol ng kanilang paningin sa Paraisong naroon sa lilim ng Iyong lumulukob na Pangalan, na iniatas Mong maging Hari ng lahat ng nasa lupa. May kakayahan Kang gumawa ng minamarapat Mo. Nasa Iyong mga kamay ang imperyo ng lahat ng pangalan. W alang ibang Diyos liban sa Iyo, ang Makapangyarihan, ang Madunong.
 
 Ako ay isa lamang hamak na nilalang, O aking Panginoon; nangangapit ako sa laylayan ng Iyong mga kayamanan. Ako ay malubhang may sakit; mahigpit akong nangapit sa kuldon ng Iyong pagpapagaling. Iligtas Mo ako sa mga karamdamang nakapalibot sa akin, at hugasan Mo akong ganap ng mga tubig ng Iyong kagandahang-loob at kaawaan, at damtan Mo ako ng saplot ng kagalingan, sa pamamagitan ng Iyong pagpapatawad at pagpapala. Ipako Mo, kung gayon, ang aking mga mata sa Iyo, at putulin Mo ang lahat ng pagkakaugnay ko sa alin mang iba pa liban sa Iyo. Tulungan Mo akong makagawa ng Iyong ninanais, at maisakatuparan ko ang nakasisiya sa Iyo.
@@ -1577,7 +1871,10 @@ Tunay na Ikaw ang Panginoon ng buhay na ito at ng darating. Ikaw sa katotohanan,
 
 
 
-### <a id="bpn4452"></a> Prayer bpn4452 in Filipino
+
+
+<a id="bpn4452"></a> 
+### Prayer bpn4452 in Filipino
 Luwalhati sa Iyo, O Panginoon kong Diyos! Ipinamamanhik ko sa Iyo sa Iyong Pangalan na sa pamamagitan niyon ay naitatag ang Iyong kagandahan sa trono ng Iyong Kapakanan, at sa Iyong Pangalan na sa pamamagitan niyon ay binago Mo ang lahat ng bagay, at inipon Mo ang lahat ng bagay, at ginantimpalaan ang lahat ng bagay, at iningatan ang lahat ng bagay, at pinanatili ang lahat ng bagay—ipinamamanhik ko sa Iyo na tanuran ang kawaksing babaing ito na tumakas patungo sa kublihan Mo, at humanap ng kanlungan sa Kaniya na kung Kanino Ikaw Mismo ay nahahayag, at naglagak ng kaniyang buong pagtitiwala at pag-asa sa Iyo.
 
 Siya ay may sakit, O aking Diyos, at napasa-lilim ng punungkahoy ng Iyong pagpapagaling; naghihirap, at tumakas tungo sa Lunsod ng Iyong pagkukupkop; may karamdaman, at humarap sa Ulong-Bukal ng Iyong pagtatangkilik; labis na nagdurusa, at nagmadaling makarating sa Batis ng Iyong kapayapaan; nabibigatan sa pagkakasala, at nagharap ng kaniyang mukha sa liwasan ng Iyong pagpapatawad.
@@ -1592,7 +1889,10 @@ Tunay na Ikaw ay lubhang maluwalhati sa ibabaw ng lahat ng iba liban sa Iyo. Tun
 
 
 
-### <a id="bpn4453"></a> Prayer bpn4453 in Filipino
+
+
+<a id="bpn4453"></a> 
+### Prayer bpn4453 in Filipino
 Siya ang Tagalunas, ang Nagbibigay ng Sapat, ang Katulong, ang Laging Nagpapatawad, ang Pinaka Maawain.
 
 Tumawag ako sa Iyo O Siyang Marangal, O Siyang Matapat, O Siyang Maluwalhati! Ikaw na Nagbibigay nang Sapat, Ikaw na Lumulunas, Ikaw na Walang-maliw, O Ikaw na Siyang Walang-maliw!
@@ -1691,7 +1991,10 @@ Ikaw sa katunayan ang Pinakamalakas, ang Laging may Kasapatan, ang Lumulunas, an
 
 
 
-### <a id="bpn4449"></a> Prayer bpn4449 in Filipino
+
+
+<a id="bpn4449"></a> 
+### Prayer bpn4449 in Filipino
 Ang Iyong Pangalan ang makapagpapagaling sa akin, O aking Diyos, at ang Iyong gunita ang aking lunas. Ang pagkalapit sa Iyo ang aking pag-asa, at ang pag-ibig sa Iyo ang aking kasama. Ang awa Mo sa akin ang siya kong lunas at timbulan sa daigdig na ito at sa daigdig na darating. Tunay na Ikaw ang Mapagpala sa Lahat, ang Nakababatid sa Lahat, ang Marunong sa Lahat.
 
 (Source category: Pagpapagaling)
@@ -1701,9 +2004,13 @@ Ang Iyong Pangalan ang makapagpapagaling sa akin, O aking Diyos, at ang Iyong gu
 
 
 
+
+
+<a id="Pagtuturo"></a> 
 ## Pagtuturo
 
-### <a id="bpn4458"></a> Prayer bpn4458 in Filipino
+<a id="bpn4458"></a> 
+### Prayer bpn4458 in Filipino
 Dakilain ang Iyong pangalan, O aking Diyos, sapagkat ipinamalas Mo ang Araw na Siyang Hari ng mga Araw, ang Araw na ipinahayag mo sa Iyong mga Hinirang at mga Propeta sa Iyong pinakamagaling na mga tableta, ang Araw na dito’y ibinubuhos Mo ang liwanag ng luwalhati ng lahat ng nilikhang mga bagay. Napakalaki ng kaniyang biyaya sinumang sinaayos ang kaniyang sarili patungo sa Iyo, at pumasok sa Iyong kinaroroonan, at naulinigan ang mga himig ng Iyong boses.
 
 Ako ay sumasamo sa Iyo, O aking Panginoon, sa ngalan Niya na Siyang nililibitan sa pagsamba ang kaharian ng Iyong mga pangalan, na magiliw Mong tutulungan silang malapit sa Iyo na luwalhatiin ang Iyong salita sa Iyong mga tagapaglingkod at ikalat sa ibayong lugar ang pagpuri sa Iyo sa Iyong mga nilikha, upang ang mga lubos na kagalakan ng Iyong Rebelasyon ay mapuspos ang mga kaluluwa ng lahat ng naninira­ han sa Iyong sangkalupaan.
@@ -1716,7 +2023,10 @@ Ngayon na pinatnubayan Mo sila, O aking Panginoon, patungo sa mga buhay ng tubig
 
 
 
-### <a id="bpn4459"></a> Prayer bpn4459 in Filipino
+
+
+<a id="bpn4459"></a> 
+### Prayer bpn4459 in Filipino
 Purihin Ka, O Panginoon kong Diyos! Isinasamo ko sa Iyo, sa Iyong Pangalan na walang sinumang tunay na nakakilala at ang kahalagahan ay hindi natarok ng sinumang kaluluwa; Isinasamo ko sa Iyo, sa Kaniya na Siyang Ulong-bukal ng Iyong Rebelasyon at Araw-Bukal ng Iyong mga tanda, na ang aking puso ay gawing isang sisidlan ng Iyong pag-ibig at ng gunita sa Iyo. Ihabi Mo ito, kung gayon, sa Iyong pinakadakilang Karagatan, upang dumaloy buhat doon ang buhay na tubig ng Iyong karunungan at ang mga kristal na daloy ng pagluwalhati at pagpupuri sa Iyo.
 
 Ang aking mga paa at kamay ay saksi sa Iyong kaisahan, at ang aking buhok ay nagpapahayag ng lakas ng Iyong paghahari at kapangyarihan. Tumayo ako sa pintuan ng Iyong biyaya nang buong kaabahan, at walang pahalaga sa sarili, at nangapit sa laylayan ng Iyong pagpapala, at nagpako ng aking mga mata sa sugpungang-guhit ng Iyong mga handog.
@@ -1731,7 +2041,10 @@ Ikaw, tunay, ang Pinakamalakas, ang Kataas-taasan, ang Nakababatid ng Lahat, ang
 
 
 
-### <a id="bpn4460"></a> Prayer bpn4460 in Filipino
+
+
+<a id="bpn4460"></a> 
+### Prayer bpn4460 in Filipino
 Luwalhatiin Ka, O Ikaw na Diyos ng daigdig at Hangarin ng mga bansa, O Ikaw na nahayag sa Pinakadakilang Pangalan, na sa pamamagitan niyon ay nagsilitaw ang mga perlas ng kadunungan at pananalita buhat sa mga kabibi ng malaking dagat ng Iyong kaalaman, at ang mga langit ng banal na rebelasyon ay napalamutihan ng liwanag ng paglitaw ng araw ng Iyong kaanyuan! Isinasamo ko sa Iyo, sa Salitang yaon na sa pamamagitan nito ang Iyong patunay ay ginawang ganap sa piling ng Iyong mga nilalang at ang Iyong pagsasaksi ay natupad sa Iyong mga tagapaglingkod, na palakasin ang Iyong mga tao sa isang paraang ang mukha ng Kapakanan ay magliliwanag sa Iyong nasasakupan at ang mga bandila ng Iyong pamamatnubay ay maitatatag sa kabuuan ng Iyong mga lupain sa Iyong mga tagapaglingkod.
 
 O aking Diyos! Namamalas Mo silang nakapangapit sa lubid ng Iyong biyaya at mahigpit na nakahawak sa laylayan ng tapis ng Iyong pagpapala. Iatas Mo para sa kanila yaong makapaglalapit sa kanila sa Iyo, at ilayo Mo sila sa lahat ng iba pa liban sa Iyo.
@@ -1744,7 +2057,10 @@ Isinasamo ko sa Iyo, O Ikaw na Hari ng pagkabuhay at tagapagtanggol ng nakikita 
 
 
 
-### <a id="bpn4461"></a> Prayer bpn4461 in Filipino
+
+
+<a id="bpn4461"></a> 
+### Prayer bpn4461 in Filipino
 O Diyos, na May-Akda ng Lahat ng Kahayagan, at Pinagmulan ng lahat ng mga Pinagmulan, na Ulong-Bukal ng lahat ng Rebelasyon, at Pinagbubukalan ng lahat ng mga Liwanag! Sumasaksi ako na sa Iyong Pangalan ang langit ng pag-unawa ay pinalamutihan, at ang karagatan ng pananalita ay dumaluyong, at ang mga kaloob ng Iyong pagpapala ay pinalaganap sa mga tagasunod ng lahat ng relihiyon.
 
 Isinasamo ko sa Iyo na payamanin Mo ako nang upang hindi na umasa sa lahat liban sa Iyo, at upang maging malaya ako sa anuman liban sa Iyong Sarili. Paulanin Mo, kung gayon, sa akin buhat sa mga alapaap ng Iyong pagpapala yaong pakikinabangan ko sa bawat daigdig ng Iyong mga daigdig. Tulungan Mo ako, kung gayon sa pamamagitan ng Iyong nagpapalakas na biyaya, upang makapaglingkod sa Iyong Kapakanan sa piling ng Iyong mga tagapaglingkod at nang maipakita ko yaong magtutulot na ako’y maalaala habang nananatili ang Iyong sariling Kaharian at nabubuhay ang Iyong mga sakop.
@@ -1759,7 +2075,10 @@ Ikaw, sa katotohanan, ang Diyos ng lakas at kapangyarihan, na nakatutugon sa lah
 
 
 
-### <a id="bpn4462"></a> Prayer bpn4462 in Filipino
+
+
+<a id="bpn4462"></a> 
+### Prayer bpn4462 in Filipino
 O aking Diyos, tulungan Mo ang Iyong mga tagapaglingkod na itaguyod ang Salita, at pabulaanan ang kapalaluan at kasinungalingan, itatag ang katotohanan, ipalaganap ang mga banal na taludtod sa ibayong lugar, ipahayag ang mga kaluwalhatian, at gawin ang liwanag ng umaga na mamitak sa mga puso ng mga matuwid na Kapulungan sa kaitaasan.
 Ikaw, sa katunayan, ang Mapagbigay, ang Mapagpatawad.
 
@@ -1769,7 +2088,10 @@ Ikaw, sa katunayan, ang Mapagbigay, ang Mapagpatawad.
 
 
 
-### <a id="bpn4463"></a> Prayer bpn4463 in Filipino
+
+
+<a id="bpn4463"></a> 
+### Prayer bpn4463 in Filipino
 O Diyos, aking Diyos! Tulungan Mo ang Iyong pinankakatiwalaang mga tagapaglingkod na magkaroon ng mapagmahal at mahabaging mga puso. Tulungan Mo silang ipalaganap, sa mga bansa sa sangkalupaan, ang liwanag ng patnubay na galing sa Samahan sa Kaitaasan. Sa katunayan, Ikaw ang Matibay, ang Makapangyarihan, ang Napakalakas, ang Sumusugpo sa lahat, ang Laging Nagkakaloob. Sa katunayan, Ikaw ang Mapagbigay, ang Mahinahon, ang Mahabagin, ang Pinakamasagana.
 
 (Source category: Pagtuturo)
@@ -1778,7 +2100,10 @@ O Diyos, aking Diyos! Tulungan Mo ang Iyong pinankakatiwalaang mga tagapaglingko
 
 
 
-### <a id="bpn4464"></a> Prayer bpn4464 in Filipino
+
+
+<a id="bpn4464"></a> 
+### Prayer bpn4464 in Filipino
 Nakikita Mo ako, o aking Diyos, na nakayukod sa kababaan, nagpapakumbaba sa harap ng Iyong mga utos, nagpapasaklaw sa Iyong kapangyarihan, nanginginig sa lakas ng Iyong pamamahala, patakbong lumalayo sa Iyong galit, nagsusumamo sa Iyong pagpapala, umaasa sa Iyong pagpapatawad, nangangatal sa pagkasindak sa Iyong matinding galit. Nagsusumamo ako sa Iyo nang may malakas na tibok ng puso, nang may umaagos na mga luha, at nananabik na kaluluwa at buong pagkawalay sa lahat ng mga bagay, na gawin ang Iyong mga mangingibig na tulad ng silahis ng liwanag sa kalawakanng Iyong mga nasasakupan, at tulungan ang Iyong hinirang na mga tagapaglingkod na parangalan ang Iyong Salita, nang ang kanilang mga mukha ay maging magaganda at maliliwanag na may luningning, nang ang kanilang mga puso ay mapuspos ng hiwaga, nang ang bawat kaluluwa ay maibaba ang pasanin ng kasalanan nito. Pangalagaan sila kung gayon sa mga mananalakay, sa kaniya na nawalan na ng hiya at lapastangan sa Diyos na gumagawa ng kamalian.
 
 Sa katunayan, ang Iyong mga mangingibig ay nauuhaw, O aking Panginoon; akayin sila sa pinagbubukalan ng biyaya at pagpapala. Sa katunayan, sila ay gutom, ipadala Mo sa kanila ang Iyong makalangit nga habag. Sa katunayan, sila ay hubad; bihisan Mo sila sa mga damit ng pagkatuto at kaalaman.
@@ -1793,7 +2118,10 @@ Sa katunayan, Ikaw yaong may walang hanggang pagpapala. Walang ibang Diyos liban
 
 
 
-### <a id="bpn4465"></a> Prayer bpn4465 in Filipino
+
+
+<a id="bpn4465"></a> 
+### Prayer bpn4465 in Filipino
 O Ikaw na walang kahambing na Diyos! O Ikaw na Panginoon ng Kaharian! Ang mga kaluluwang ito ang Iyong hukbo sa langit. Tulungan sila at sa pamamagitan ng mga pangkat ng Kataas-taasang Kalipunan ay pagtagumpayin sila; upang ang bawat isa sa kanila ay maging tulad ng isang rehimyento at masakop ang mga bansang ito sa pamamagitan ng pag-ibig ng Diyos at pagtanglaw ng mga banal na aral.
 
 O Diyos! Ikaw ang maging tagatangkilik at katulong nila, at sa ilang, sa bundok, sa kalambakan, sa mga gubat, sa malalawak na damuhan at sa mga dagat, Ikaw ang kanilang maging katapatang-lihim—upang sila’y makasigaw sa pamamagitan ng kapangyarihan at hininga ng Banal na Espiritu!
@@ -1806,7 +2134,10 @@ Tunay na Ikaw ang Malakas, ang Makapangyarihan at ang Nakababatid ng Lahat, at I
 
 
 
-### <a id="bpn4466"></a> Prayer bpn4466 in Filipino
+
+
+<a id="bpn4466"></a> 
+### Prayer bpn4466 in Filipino
 O Diyos! O Diyos! Nakikita Mo akong nababalani at naaakit sa Iyong kaharian, ang El-Abhá, pinagniningas ng apoy ng Iyong pag-ibig sa sangkatauhan, isang tagapagbalita ng Iyong Kaharian sa malapad at malawak na mga bansang ito, hiwalay sa anuman liban sa Iyo, nananangan sa Iyo, nag-iwan ng kapahingahan at kaginhawahan, malayo sa aking sariling tahanan, isang lagalag sa mga pook na ito, isang dayuhang nabuwal sa lupa, hamak sa harap ng Iyong maluwalhating pintuan, mapagkumbaba sa Iyong pinakamataas na lupain, nagsusumamo sa Iyo sa kalaliman ng gabi at sa pagbubukang-liwayway, namamanhik at nananawagan sa Iyo sa umaga at gabi upang buong giliw na tulungan Mo ako sa paglilingkod sa Iyong Kapakanan, sa pagpapalaganap ng Iyong mga Turo at sa pagluwalhaati sa Iyong Salita sa kabuuan ng Silangan at ng Kanluran.
 
 O Panginoon! Palakasin ang aking likod at pagtibayin ako sa aking paglilingkod na lakip ang lahat kong pagsisikap, at huwag Mo akong iwanang walang kasama, nag-iisa at walang kakayahan sa sa mga rehiyon na ito.
@@ -1821,7 +2152,10 @@ Tunay na Ikaw ang Tagapagpatibay ng sinumang loobin Mo sa anumang Iyong hinahang
 
 
 
-### <a id="bpn4467"></a> Prayer bpn4467 in Filipino
+
+
+<a id="bpn4467"></a> 
+### Prayer bpn4467 in Filipino
 O Diyos, O Diyos! Nakikita Mo ang aking kahinaan, kababaan at pagkahamak sa harap ng Iyong mga nilalang; gayon man ay nagtiwala ako sa Iyo at nagbangon sa pagpapalaganap ng Iyong mga Turo sa Iyong malalakas na tagapaglingkod, nananangan sa Iyong lakas at kapangyarihan!
 
 O Panginoon! Ako ay isang ibong may baling bagwis at nagnanais na lumipad dito sa Iyong kalawakang walang hanggan. Paano ko magagawa ito kung hindi sa pamamagitan ng Iyong pamamatnubay at biyaya, ng Iyong pagpapatibay at pagtulong!
@@ -1840,7 +2174,10 @@ Tunay na Ikaw ang Mapagbigay, ang Malakas, ang Makapangyarihan, ang Pinakamahaba
 
 
 
-### <a id="bpn4468"></a> Prayer bpn4468 in Filipino
+
+
+<a id="bpn4468"></a> 
+### Prayer bpn4468 in Filipino
 O Diyos! O Diyos! Nakikita Mo na ang maitim na karimlan ay kumukubkob sa lahat ng pook, lahat ng bansa ay nasisilab sa sunog ng kasuwailan at ang apoy ng digmaan at pagpatay ay nagsiklab sa mga silangan ng lupa at mga kanluran niyon. Ang dugo ay nabububo, at ang mga bangkay ay nagratay sa lupa at ang mga pugot na ulo ay nagsibagsakan sa alabok ng larangan ng digmaan.
 
 O Panginoon! Magdalang-habag sa mga walang muwang na ito, itunghay sa kanila ang mata ng pagpapaumanhin at pagpapatawad. Subhan ang apoy na ito upang ang mapapanglaw na ulap na nakatakip sa sugpungang guhit ay maikalat; ang Araw ng Katotohanan ay makasikat na taglay ang mga sinag ng pagkakasundo; ang karimlang ito ay mapunit at lahat ng bansa ay matanglawan ng mga liwanag ng kapayapaan.
@@ -1873,7 +2210,10 @@ Tunay na Ikaw ang Pinaka Bukas Palad, ang Panginoon ng Masaganang Biyaya, at tun
 
 
 
-### <a id="bpn4469"></a> Prayer bpn4469 in Filipino
+
+
+<a id="bpn4469"></a> 
+### Prayer bpn4469 in Filipino
 O Ikaw na maawaing Panginoon! Purihin Ka sa pagpapakita Mo sa amin ng malawak na daan ng pamamatnubay, sa pagbubukas sa mga pinto ng Kaharian at sa pagpapahayag ng Iyong sarili sa pamamagitan ng Araw ng Katotohanan. Sa bulag ay nagkaloob Ka ng paningin; sa bingi ay nagbigay Ka ng pandinig; muli Mong binuhay ang patay; pinayaman Mo ang mahirap; ipinakita Mo ang daan sa mga naligaw; inakay Mo yaong may mga tigang na labi tungo sa bukal ng pamamatnubay; pinahintulutan Mong ang nauuhaw na isda ay makarating sa karagatan ng katotohanan at inanyayahan Mo ang nagsisigalang ibon sa halamanan ng rosas ng biyaya.
 
 O Ikaw na Makapangyarihan sa Lahat! Kami ay Iyong mga tagapaglingkod at Iyong mga dukha! Kami ay malayo at nagnanais na makasama Ka; kami’y nauuhaw sa tubig ng Iyong bukal; kami’y may sakit, nagnanais ng Iyong pagpapagaling. Kami’y lumalakad sa Iyong landas at walang layunin o pag-asa kundi ang maikalat ang Iyong mga kabanguhan upang ang mga kaluluwa ay isigaw ang: “O Diyos! Akayin kami sa tuwid na landas!” Nawa’y buksan nila ang kanilang mga mata sa pagmalas sa mga liwanag at maging malaya sila sa karimlan ng kamangmangan! Nawa’y lumakad silang palibot sa ilaw ng pamamatnubay! Nawa’y ang bawat walang bahagi ay tumanggap ng isang bahagi. Nawa’y ang mga pinagkaitan ay maging mga katapatang-lihim ng Iyong mga hiwaga!
@@ -1886,7 +2226,10 @@ O Makapangyarihan sa Lahat! Itunghay sa amin ang sulyap ng kahabagan! Pagkalooba
 
 
 
-### <a id="bpn4470"></a> Prayer bpn4470 in Filipino
+
+
+<a id="bpn4470"></a> 
+### Prayer bpn4470 in Filipino
 O aking Diyos! O aking Diyos! Nakikita Mo ako sa aking kababaan at kahinaan, na abala sa pinakadakilang Gawain, nagtitikang itaas ang Iyong salita sa mga karamihan at ikalat ang Iyong mga turo sa Iyong mga tao. Paano ako magtatagumpay kung hindi Mo ako tutulungan sa pamamagitan ng hininga ng Banal na Espiritu, tulungan akong magtagumpay sa pamamagitan ng mga hukbo ng Iyong maluwalhating kaharian, at paulanin sa akin ang Iyong mga pagpapatibay, na sila lamang ang makapagpapabago ng niknik upang maging isang agila, isang patak ng tubig upang maging mga ilog at mga dagat, at ng isang atomo upang maging mga liwanag at mga araw? O aking Panginoon! Tulungan ako sa pamamagitan ng Iyong matagumpay at mabisang lakas, nang sa gayon ang dila ko ay bumigkas ng Iyong mga papuri at mga katangian sa lahat ng mga tao at ang kaluluwa ko ay umapaw sa alak ng Iyong pag-ibig at kaalaman.
 
 Ikaw ang Makapangyarihan sa Lahat at ang Gumagawa ng anumang ninanais Mo.
@@ -1897,7 +2240,10 @@ Ikaw ang Makapangyarihan sa Lahat at ang Gumagawa ng anumang ninanais Mo.
 
 
 
-### <a id="bpn4471"></a> Prayer bpn4471 in Filipino
+
+
+<a id="bpn4471"></a> 
+### Prayer bpn4471 in Filipino
 O Panginoon, aking Diyos! Ang papuri at pasasalamat ay suma-Iyo dahil sa pinamtnubayan Mo ako sa malawak na daan ng Kaharian, pinahintulutan akong lumakad sa tuwid at mahabang landas na ito, niliwanagan ang aking mata sa pagkamalas ng mga karingalan ng Iyong liwanag, hinayaan akong makinig sa mga awitin ng mga ibon ng kabanalan buhat sa Kaharian ng mga Hiwaga at inakit ang aking puso sa Iyong Pag-ibig sa piling ng mga nasa katuwiran.
 
 O Panginoon! Pagtibayin ako sa Banal na Espiritu, upang makatawag ako sa Iyong Pangalan sa mga bansa at makapagbigay ng masasayang balita ng paghahayag ng Iyong Kaharian sa palibot ng mga tao.
@@ -1910,7 +2256,10 @@ O Panginoon! Ako ay mahina, palakasin ako ng Iyong lakas at kakayahan. Ang aking
 
 
 
-### <a id="bpn4472"></a> Prayer bpn4472 in Filipino
+
+
+<a id="bpn4472"></a> 
+### Prayer bpn4472 in Filipino
 O Diyos, O Diyos! Ito ay isang ibong may baling bagwis at ang kaniyang paglipad ay napakabagal—tulungan siya upang makalipad tungo sa tugatog ng kasaganaan at pagkaligtas, bigyang bagwis siya sa kaniyang landas na lakip ang pinakasukdulang tuwa at kaligayahan sa walang hangganang kalawakan, itaas ang kaniyang awitin sa Iyong Kataas-taasang Pangalan sa lahat ng pook, pasiglahin ang mga tainga sa tawag na ito, at paningningin ang mga mata sa pagkamalas sa mga tanda ng pamamatnubay!
 
 O Panginoon! Ako’y walang kasama, nag-iisa at aba. Para sa akin, walang gabay kundi Ikaw, walang katulong liban sa Iyo at walang tagapagtaguyod kundi Ikaw. Pagtibayin ako sa paglilingkod sa Iyo, tulungan ako sa pamamagitan ng mga pangkat ng Iyong mga anghel, pagtagumpayin ako sa pagpapalaganap ng Iyong Salita at itulot na maisaysay ko ang Iyong kadunungan sa Iyong mga nilalang. Tunay, Ikaw ang tagapagkupkop ng mga dukha at tagapagtanggol ng mga mumunti, at tunay na Ikaw ang Malakas, ang Makapangyarihan at ang Di-mapipigilan!
@@ -1921,7 +2270,10 @@ O Panginoon! Ako’y walang kasama, nag-iisa at aba. Para sa akin, walang gabay 
 
 
 
-### <a id="bpn4473"></a> Prayer bpn4473 in Filipino
+
+
+<a id="bpn4473"></a> 
+### Prayer bpn4473 in Filipino
 Luwalhatiin Ka, O aking Diyos! Ito ay Iyong mga tagapaglingkod, na naakit ng mga kabanguhan ng Iyong pagkamahabagin, pinagningas ng apoy na naglalagablab sa punung-kahoy ng Iyong pagiging nag-iisa at ang kanilang mga mata ay pinakinang ng pagkamalas sa kaluningningan ng liwanag na kumi­ kislap sa Sinai ng Iyong pagkaisa!
 
 O Panginoon! Pakawalan ang kanilang mga dila sa paggunita sa Iyo sa nakapalibot sa Iyong mga tao; tulutang maisaysay nila ang Iyong kapurihan sa pamamagitan ng Iyong pagtatangkilik at biyaya, tulungan sila sa pamamagitan ng mga pangkat ng Iyong mga anghel, palakasin ang kanilang mga balakang sa paglilingkod sa Iyo at gawin silang mga tanda ng Iyong pamamatnubay sa Iyong mga nilalang!
@@ -1934,7 +2286,10 @@ Tunay, Ikaw ang Malakas, ang Maluwalhati, ang Tagapagpatawad at ang Mahabagin!
 
 
 
-### <a id="bpn4474"></a> Prayer bpn4474 in Filipino
+
+
+<a id="bpn4474"></a> 
+### Prayer bpn4474 in Filipino
 O Diyos, aking Diyos! Nakikita Mo ang mahinang ito na namamalimos ng makalangit na lakas sa Iyong Kaharian! Ang dukhang ito na humihiling ng mga kayamanan sa Iyong langit! Ang nauuhaw na ito na nagnanais ng bukal ng walang hanggang buhay! Ang maysakit na ito na nananabik sa Iyong ipinangakong pagpapagaling sa pamamagitan ng Iyong walang hanggang kahabagan, na itinalaga Mo para sa Iyong mga piling tagapaglingkod sa Iyong Kataas-taasang Kaharian.
 
 O Panginoon! Wala akong ibang katulong liban sa Iyo, walang kanlungan liban sa Iyo at walang ibang tagapagtaguyod maliban sa Iyo. Tulungan Mo ako sa pamamagitan ng Iyong mga anghel sa pagkakalat ng Iyong mga banal na kabanguhan at sa pagpapalaganap ng Iyong mga turo sa pinakapili sa Iyong mga tao!
@@ -1950,9 +2305,13 @@ Tunay, Ikaw ang Malakas, ang Ma­kapangyarihan at Pinakamabisa.
 
 
 
+
+
+<a id="Pangangalaga"></a> 
 ## Pangangalaga
 
-### <a id="bpn4480"></a> Prayer bpn4480 in Filipino
+<a id="bpn4480"></a> 
+### Prayer bpn4480 in Filipino
 Purihin Ka, O Panginoon kong Diyos! Nakikita Mo ako at nababatid na tumawag ako sa Iyong mga tagapaglingkod upang sila’y huwag magbaling kahit saan liban sa kinaroroonan ng Iyong mga kaloob, at inatasan ko silang huwag gumawa ng anuman liban sa mga bagay na itinakda Mo sa Iyong malinaw na Aklat, ang Aklat na ipinapanaog ayon sa Iyong di malirip na kautusan at di-mababaling layunin.
 
 Wala akong mabibigkas na salita, O aking Diyos, liban sa kung ako’y pahintulutan Mo, at hindi ako makatutungo saanman liban sa kung ako’y magtamo ng Iyong pagpapatibay, Ikaw, O aking Diyos, ang tumawag sa akin upang mabuhay sa pamamagitan ng lakas ng Iyong kapangyarihan, at pinuspos ako ng Iyong biyaya upang maipahayag ang Iyong Kapakanan. Sa gayon ako’y pinalasap ng gayong mga paghihirap na ang aking dila ay napigil sa pagpupuri sa Iyo at pagdadakila sa Iyong kaluwalhatian.
@@ -1967,7 +2326,10 @@ Ihulog Mo, kung gayon, O Panginoon ko, sa akin at sa aking mga mahal yaong makap
 
 
 
-### <a id="bpn4481"></a> Prayer bpn4481 in Filipino
+
+
+<a id="bpn4481"></a> 
+### Prayer bpn4481 in Filipino
 Purihin Ka, O Panginoon kong Diyos! Ito ay Iyong tagapaglingkod na uminom buhat sa mga kamay ng Iyong biyaya ng alak ng Iyong masuyong kahabagan, at nakatikim ng tamis ng Iyong pag-ibig sa Iyong mga araw. Isinasamo ko sa Iyo sa mga kumakatawan sa Iyong mga pangalan na hindi mapipigilan ng anumang dalamhati sa pagdiriwang sa Iyong pag-ibig o sa pagmamalas sa Iyong mukha, at walang kakayahan ang lahat ng mga kawan ng mga pabaya na ilihis sila buhat sa landas na Iyong ikinasisiya, na pagkakalooban Mo siya ng mabubuting bagay na inaangkin Mo, at dalhin Mo siya sa kataasan upang buhat doon ay maituring niya ang daigdig na isang aninong nawawala nang mabilis pa sa isang kisapmata.
 
 Ingatan Mo rin siyang ligtas, O aking Diyos, sa pamamagitan ng kapangyarihan ng Iyong di-masukat na kamahalan, mula sa lahat ng Iyong kinasusuklaman. Tunay na Ikaw ang kaniyang Panginoon at ang Panginoon ng lahat ng daigdig.
@@ -1978,7 +2340,10 @@ Ingatan Mo rin siyang ligtas, O aking Diyos, sa pamamagitan ng kapangyarihan ng 
 
 
 
-### <a id="bpn4482"></a> Prayer bpn4482 in Filipino
+
+
+<a id="bpn4482"></a> 
+### Prayer bpn4482 in Filipino
 O Diyos, aking Diyos! Ako ay lumabas buhat sa aking tahanan, na nakahawak nang mahigpit sa kuldon ng Iyong pag-ibig, at inilaan kong ganap ang aking sarili sa Iyong pag-iingat at sa Iyong pagtatanggol. Isinasamo ko sa Iyo, sa Iyong kapangyarihang ginamit Mo sa pagtatanggol sa Iyong mga minamahal laban sa nangaligaw at masasama, at sa bawat mapaghimagsik na manlulupig, at sa bawat nagsisigawa ng masama na nagsilayo sa Iyo, na ingatan akong ligtas sa pamamagitan ng Iyong pagpapala at ng Iyong biyaya. Loobin Mong makauwi ako sa aking tahanan sa pamamagitan ng Iyong lakas at kapangyarihan. Tunay na Ikaw ang Makapangyarihan sa Lahat, ang Tulong sa Panganib, ang Sariling-ganap.
 
 (Source category: Pangangalaga)
@@ -1987,7 +2352,10 @@ O Diyos, aking Diyos! Ako ay lumabas buhat sa aking tahanan, na nakahawak nang m
 
 
 
-### <a id="bpn4483"></a> Prayer bpn4483 in Filipino
+
+
+<a id="bpn4483"></a> 
+### Prayer bpn4483 in Filipino
 Iukol sa akin, O aking Panginoon, at sa mga naniniwala sa Iyo, ang siyang ipinalagay Mong pinakamabuti para sa amin sa Iyong paningin, sang­ayon sa nakasaad sa Inang-Aklat, dahil sa hawak ng Iyong kamay ay natatanganan Mo ang tiyak na sukat ng lahat ng mga bagay.
 
 Ang Iyong mabubuting mga kaloob ay walang-patid na umaambon sa kanilang mga nagmamahal sa Iyong pag-ibig, at ang kamangha-manghang mga tanda ng Iyong makalangit na mga biyaya ay labis na ipinagkaloob sa kanilang mga kumikilala sa Iyong banal na Kaisahan. Ipinauubaya namin sa Iyong pag-iingat ang anumang nakatakda para sa amin, at nagsusumamo sa Iyo na ipagkaloob sa amin ang lahat ng kabutihan na sinasaklawan ng Iyong kaalaman.
@@ -2002,7 +2370,10 @@ Walang Kapangyarihan o lakas mali­ ban sa Diyos, ang Pinakamataas, ang Pinakama
 
 
 
-### <a id="bpn4484"></a> Prayer bpn4484 in Filipino
+
+
+<a id="bpn4484"></a> 
+### Prayer bpn4484 in Filipino
 Luwalhatiin Ka, O Diyos! Ikaw ang Diyos na umiral bago pa ang lahat, Siya na iiral paglipas ng lahat ng mga bagay at mananatili lagpas sa lahat ng mga bagay. Ikaw ang Diyos na nakaaalam sa lahat ng mga bagay at pinakamataas sa lahat ng mga bagay. Ikaw ang Diyos na nakikitungo nang may awa sa lahat ng mga bagay, na humahatol at namamagitan sa lahat ng mga bagay at Siyang ang pananaw ay sumasaklaw sa lahat ng mga bagay. Ikaw ang Diyos at aking Panginoon, alam Mo ang aking panloob at panlabas na anyo.
 
 Idulot Mo ang Iyong pagpapatawad sa akin at sa mga mananampalataya na tumanggap sa Iyong Tawag. Ikaw sana ang maging aking sapat na katulong laban sa masamang gawain ng sinumang magnais na magdulot ng pighati sa akin, o maghangad ng masama sa akin. Sa katunayan, Ikaw ang Panginoon ng Lahat ng mga nilalang. Sapat Ka kanino man, subalit walang sinuman ang makasasapat sa sarili nang wala Ka.
@@ -2013,7 +2384,10 @@ Idulot Mo ang Iyong pagpapatawad sa akin at sa mga mananampalataya na tumanggap 
 
 
 
-### <a id="bpn4485"></a> Prayer bpn4485 in Filipino
+
+
+<a id="bpn4485"></a> 
+### Prayer bpn4485 in Filipino
 Sa Ngalan ng Diyos, ang Panginoong may nag-uumapaw na kamaharlikaan, at Nananaig sa Lahat. Sambahin ang Panginoon na nasa Kaniyang kamay ang pinanggagalingan ng kapangyarihan. Nililikha Niya anuman ang Kaniyang gustuhin sa pamamagitan ng utos ng Kaniyang Salita “maging” at tupad na ito. Laging nasa Kanya ang lakas ng kapangyarihan ngayon at kailanman, at ito ay mananatili sa Kaniya magpakailanman. Kaniyang pinagtatagumpay ang sinumang Kaniyang kinasisiya, sa bisa ng Kaniyang kagustuhan. Siya sa katotohanan ang Pinakamalakas, ang Makapangyarihan sa Lahat. Para sa Kaniya nauukol lahat ng luwalhati at makamaharlikaan sa mga kaharian ng Rebelasyon at Sangnilikha at anumang nasa pagitan nito. Sa katunayan, Siya ang Mabisa, ang Maluwalhati sa Lahat. Mula sa walang hanggan Siya na ang Pinanggagalingan ng di-mapasukong lakas at mananatiling ganito hanggang sa walang hanggan. Siya sa katunayan ang Panginoon ng lakas at kapangyrihan. Lahat ng mga kaharian ng langit at lupa at anupang nasa pagitan nito ay sa Diyos, at ang Kaniyang lakas ay nakatataas sa lahat ng mga bagay. Lahat ng mga kayamanan ng lupa at langit at lahat ng nasa pagitan nito ay Kaniya, at ang Kaniyang pangangalaga ay umaabot sa lahat. Siya ang Lumikha ng mga langit at ng lupa at anupamang nasa pagitan nito, at Siya sa katunayan ay saksi sa ibabaw ng lahat ng mga bagay. Siya ang Panginoon ng Pagtutuos para sa lahat ng naninirarahan sa mga langit at sa lupa at anumang nasa pagitan nito, at sa katunayan ang Diyos ay mabilis humatol. Siya ang naglalagay ng takdang sukat sa lahat ng nasa mga langit at lupa at anumang nasa pagitan nito. Sa katunayan, Siya ang Pinakamataas na Tagapangalaga. Hawak Niya sa Kaniyang mga kamay ang mga susi ng langit at lupa at ng anupamang nasa pagitan nito. At sa Sarili Niyang pasiya ay nagkakaloob Siya ng mga biyaya, sa lakas ng Kaniyang utos. Sa katunayan ang Kaniyang pagpapala ay sumasaklaw sa lahat, at Siya ang nakaaalam ng Lahat. Sabihin ang Diyos at sapat sa akin; Siya Yaong humahawak sa Kanyang mga kamay ang kaharian ng lahat ng mga bagay. Sa kapangyarihan ng Kaniyang mga hukbo ng langit at lupa at anupamang nasa pagitan nito, kinakalinga Niya ang sinumang nais Niya sa Kaniyang mga tagapaglingod. Ang Diyos, sa katotohanan, ay sumusubaybay sa lahat ng mga bagay.
 
 Di-masukat ang Iyong kadakilaan, O Panginoon! Pangalagaan Mo kami doon sa nasa harapan namin at nasa likuran namin, nasa ibabaw ng aming mga ulo, nasa aming kanan, nasa aming kaliwa, nasa ilalim ng aming mga paa at lahat ng iba pang panig na kami ay nakalantad. Sa katunayan, ang Iyong kalinga sa lahat ng mga bagay ay hindi mabibigo.
@@ -2024,7 +2398,10 @@ Di-masukat ang Iyong kadakilaan, O Panginoon! Pangalagaan Mo kami doon sa nasa h
 
 
 
-### <a id="bpn4486"></a> Prayer bpn4486 in Filipino
+
+
+<a id="bpn4486"></a> 
+### Prayer bpn4486 in Filipino
 O Diyos, aking Diyos! Ipagsanggalang ang Iyong pinagkakatiwalaang mga tagapaglinkod mula sa mga kasamaan ng sarili at mapusok na damdamin, pangalagaaan sila ng mapagmasid na mata ng Iyong mapagmahal na kahabagan laban sa lahat ng poot, pagkamuhi at inggit, kupkupin sila sa matibay na kuta ng Iyong Pangangalaga, at nang ligtas sa mga palaso ng paghihinala, sila ay gawing mga kapahayagan ng Iyong maluwalhating mga tanda, liwanagan ang kanilang mga mukha ng maningning na sinag na isinasabog ng Pamimitak ng Iyong banal na Kaisahan, bigyang-galak ang kanilang mga puso sa pamamagitan ng mga taludtod na ipinahayag mula sa Iyong banal na Kaharian, palakasin ang kanilang mga balakang sa pamamagitan ng Iyong walang-makahahadlang na kapangyarihang nagmumula sa Iyong Kaharian ng kaluwalhatian. Ikaw ang Mapagpala sa Lahat, ang Tagapagtanggol, ang Makapangyarihan sa Lahat, ang Mapagbigay-biyaya!
 
 (Source category: Pangangalaga)
@@ -2033,7 +2410,10 @@ O Diyos, aking Diyos! Ipagsanggalang ang Iyong pinagkakatiwalaang mga tagapaglin
 
 
 
-### <a id="bpn4487"></a> Prayer bpn4487 in Filipino
+
+
+<a id="bpn4487"></a> 
+### Prayer bpn4487 in Filipino
 O aking Panginoon, batid Mo na ang mga tao ay nalilibot ng dusa at kapahamakan at naliligid ng mga hirap at bagabag. Bawat pagsubok na sumasapit sa tao at bawat mahigpit na pakikipagtunggali ay dumarating sa kaniya na tulad ng pagsalakay ng isang ahas. Walang lilim at kanlungan para sa kaniya liban sa ilalim ng pakpak ng Iyong pangangalaga, pagtatanggol, pagtatanod at pagkupkop.
 
 O Ikaw, ang Siyang Mahabagin! O aking Panginoon! Ang Iyong pangangalaga ay gawin Mong aking kalasag, ang Iyong pagtatanggol ay aking panangga, ang kababaang-loob sa harap ng pintuan ng Iyong kaisahan ay aking tanod, at ang Iyong pag-aampon at pagtatanggol ay aking moog at aking tahanan. Iligtas Mo ako sa mga adyok ng aking sarili at pagnanasa, at ipag-adya Mo ako sa bawat pagkakasakit, pagsubok, kahirapan at pagdurusa.
@@ -2047,9 +2427,13 @@ Tunay na Ikaw ang Tagapagtanggol, ang Tagapag-ampon, ang Tagapagligtas, ang Taga
 
 
 
+
+
+<a id="Paningit Na Mga Araw"></a> 
 ## Paningit Na Mga Araw
 
-### <a id="bpn4536"></a> Prayer bpn4536 in Filipino
+<a id="bpn4536"></a> 
+### Prayer bpn4536 in Filipino
 *Ang Paningit na mga Araw, Pebrero 26 hanggang Marso 1, ay mga araw ng paghahanda para sa Pag-aayuno, mga araw ng magiliw na pagtanggap sa mga panauhin, pagkakawanggawa at pagbibigay ng mga handog.
 
 Aking Diyos, aking Apoy at aking Liwanag! Ang mga araw na pinangalanan Mong Ayyám-i-Há sa Iyong Aklat ay nagsimula na, O Ikaw na Hari ng mga pangalan, at ang pag-aayunong iniatas ng Iyong pinakamaluwalhating Panulat sa lahat ng nasa kaharian ng Iyong santinakpan na kanilang ipangilin ay dumarating na. Isinasamo ko sa Iyo, O aking Panginoon, sa mga araw na ito at sa lahat na sa panahong ito ay nangapit sa kuldon ng Iyong mga kautusan at humawak sa ugit ng Iyong mga alituntunin, na loobing bawat kaluluwa ay mabigyan ng isang lugar sa loob ng mga kapaligiran ng Iyong liwasan, at ng isang luklukan sa kapahayagan ng mga karilagan ng liwanag ng Iyong kaanyuhan.
@@ -2069,9 +2453,13 @@ Ikaw, tunay, ang Makapangyarihan sa Lahat, ang Nakababatid ng Lahat, ang Nakatat
 
 
 
+
+
+<a id="Papuri At Pasasalamat"></a> 
 ## Papuri At Pasasalamat
 
-### <a id="bpn4488"></a> Prayer bpn4488 in Filipino
+<a id="bpn4488"></a> 
+### Prayer bpn4488 in Filipino
 Lahat ng papuri, O aking Diyos ay suma-Iyo nawa, Ikaw na Pinagmumulan ng lahat ng kaluwalhatian at kamahalan, ng kadakilaan at karangalan, ng paghahari at pamumuno, ng kataasan at biyaya, ng pagkamangha at kapangyarihan. Sinumang marapatin Mo ay niloloob Mong mapalapit sa Pinakadakilang Karagatan at sinumang naisin Mo ay pinagkalooban Mo ng karangalang makilala ang Iyong Lubhang Napakatandang Pangalan. Sa lahat ng nasa langit at lupa, walang sinumang makatututol sa pagsasakatuparan ng Iyong makapangyarihang Kalooban. Buhat sa lahat ng walang-hanggan ay pinamahalaan Mo ang buong santinakpan, at magpakailan man ay magpapatuloy Kang mamahala sa lahat ng kinapal. Walang ibang Diyos liban sa Iyo, ang Makapangyarihan sa Lahat, ang Pinakamaluwalhati, ang Malakas sa Lahat, and Marunong sa Lahat. 
 
 Tanglawan, O Panginoon, ang mga mukha ng Iyong mga tagapaglingkod, upang mamalas Ka nila; at linisin ang kanilang mga puso upang sila’y manumbalik sa liwasan ng Iyong mga panlangit na pagtatangkilik, at makilala nila Siya na Kapahayagan ng Iyong Sarili at Araw Bukal ng Iyong Diwa. Tunay na Ikaw ang Panginoon ng lahat ng daigdig. Walang Diyos liban sa Iyo, ang Di-napipigilan, ang Nakasasakop sa Lahat.
@@ -2082,7 +2470,10 @@ Tanglawan, O Panginoon, ang mga mukha ng Iyong mga tagapaglingkod, upang mamalas
 
 
 
-### <a id="bpn4489"></a> Prayer bpn4489 in Filipino
+
+
+<a id="bpn4489"></a> 
+### Prayer bpn4489 in Filipino
 Sa Pangalan ng Diyos, ang Kataas-taasan! Purihin at luwalhatiin Ka, Panginoon, Diyos na Makapangyarihan sa Lahat! Ikaw na sa harap ng Iyong kadunungan ang madunong ay hindi nakapantay at nabigo, sa harap ng Iyong kaalaman ang marunong ay umamin ng kaniyang kamangmangan, sa harap ng Iyong lakas ang malakas ay nanghina, sa harap ng Iyong kasaganaan ang mayaman ay sumasaksi sa kaniyang kahirapan, sa harap ng Iyong liwanag ang naliliwanagan ay nawawala sa karimlan, tungo sa dambana Iyong kaalaman ay bumaling ang diwa ng lahat ng pag-unawa at palibot ng santuwaryo ng Iyong kinaroroonan ay umiikot ang mga kaluluwa ng sangkatauhan.
 
 Paano ko maaawit, kung gayon, at masasabi ang Iyong Diwa, yamang ang dunong ng madudunong at ang kaalaman ng mga maaalam ay nabigong maunawaan ito, yamang hindi magagawang awitin ng sinumang tao yaong hindi niya nauunawaan, ni hindi maisasaysay yaong hindi niya naaabot, samantalang buhat pa sa walang hanggan Ikaw ay yaon nang Di-Naaabot, ang Di-Malirip. Bagaman ako’y walang lakas na maka­akyat sa mga langit ng Iyong kaluwalhatian at makalipad sa mga pook ng Iyong kaalaman, ang tangi kong magagawa ay isaysay ang mga sagisag na nagbabadya ng Iyong kahanga-hangang gawa.
@@ -2095,7 +2486,10 @@ Saksi ang Iyong Kaluwalhatian! O Minamahal ng lahat ng puso, Ikaw na nag-iisang 
 
 
 
-### <a id="bpn4490"></a> Prayer bpn4490 in Filipino
+
+
+<a id="bpn4490"></a> 
+### Prayer bpn4490 in Filipino
 Dumakila nawa ang Iyong Pangalan, O Panginoon kong Diyos! Ikaw yaong sinasamba ng lahat ng bagay at yaong walang sinasambang sinuman, ang Panginoon ng lahat ng bagay at hindi tagasunod ng sinuman, ang nakababatid ng lahat ng bagay at hindi batid ng sinuman. Ninais Mong ipakilala ang Iyong sarili sa mga tao; kung kaya sa pamamagitan ng isang salita ng Iyong bibig, nilalang Mo ang mga kinapal at nilikha ng daigdig. Walang ibang Diyos liban sa Iyo, ang Manlilikha, ang Maykapal, ang Makapangyarihan sa lahat, ang Pinakamalakas.
 
 Isinasamo ko sa Iyo, sa salitang ito na nagninging sa itaas ng sugpungang-guhit ng Iyong kalooban, na tulutan Mong makainom akong mabuti sa mga buhay na tubig na ibinuhay Mo sa mga puso ng Iyong mga pinili at bumuhay sa mga kaluluwa ng mga umiibig sa Iyo, nang magawa ko, sa lahat ng sandali at sa lahat ng kalagayan, na ganap na maibaling ang aking mukha sa Iyo.
@@ -2108,7 +2502,10 @@ Ikaw ang Diyos ng lakas, ng kaluwalhatian at pagpapala. Walang Diyos liban sa Iy
 
 
 
-### <a id="bpn4491"></a> Prayer bpn4491 in Filipino
+
+
+<a id="bpn4491"></a> 
+### Prayer bpn4491 in Filipino
 Purihin Ka nawa, O Panginoon kong Diyos! Sa bawat sandaling sinusubukan kong banggitin Ka, napipigilan ako sa karilagan ng Iyong kahayagan at sa nakapupuspus na kadakilaaan ng Iyong kapangyarihan. Dahil kung pupurihin Kita sa buong kahabaan ng Iyong kaharian at sa buong panahon ng Iyong kapangyarihan, matutuklasan ko na ang pagpuri ko sa Iyo ay angkop lamang doon sa nakakatulad ko na sila man ay Iyong nilikha sa pamamagitan ng kapangyarihan ng Iyong kautusan at hinubog sa pamamagitan ng Iyong kagustuhan. At sa anumang sandali ang aking panulat ay maghadog ng luwalhati sa isa man sa Iyong mga pangalan, pakiwari ay naririnig ko ang tinig ng kaniyang paghihinagpis dahil sa kalayuan nito sa Iyo, at nakikilala ko ang kaniyang panaghoy dahil sa kaniyang pagkakawalay sa Iyong Sarili. Sumasaksi ako na ang lahat ng bagay maliban sa Iyo ay pawang nilalang Mo at hawak sa palad ng Iyong kamay. Na tinanggap Mo ang anumang kilos o papuri na galing sa Iyong nilikha ay palatandaan lamang ng Iyong mga kahanga-hangang biyaya at maraming pagpapala, at isang kahayagan ng Iyong kagandahang-loob at kalinga. 
 
 Sumasamo ako sa Iyo, O aking Panginoon, sa Iyong Pinakadakilang Pangalan na sa pamamagitan nito ay inihiwalay Mo ang liwanag sa apoy, ang katotohanan sa pagtatakwil, na ipadala sa akin at doon sa aking minamahal mga na aking kasama ang mabuti dito sa daigdig at sa susunod. Pagkalooban kami, kung gayon, ng Iyong mga kahanga hangang biyaya na natatago mula sa mga mata ng tao. Ikaw ay, sa katunayan, ang Tagahu­ bog ng lahat ng nilikha. Walang Diyos maliban sa Iyo, ang Makapangyarihan, ang Pinakamataas.
@@ -2119,7 +2516,10 @@ Sumasamo ako sa Iyo, O aking Panginoon, sa Iyong Pinakadakilang Pangalan na sa p
 
 
 
-### <a id="bpn4492"></a> Prayer bpn4492 in Filipino
+
+
+<a id="bpn4492"></a> 
+### Prayer bpn4492 in Filipino
 Lahat ng kamaharlikaan at kaluwalhatian, O aking Diyos, at lahat ng pamamahala at liwanag at kadakilaan at kaningningan ay suma-Iyo. Ipinagkakaloob Mo ang kapangyarihan sa kanino mang Iyong gustuhin at ipinagkakait ito sa sinumang Iyong naisin. Walang ibang Diyos liban sa Iyo, ang Nag-aangkin ng Lahat, ang Pinakadakila. Ikaw yaong lumikha mula sa kawalan ng santinakpan at lahat ng naninirahan dito. Walang karapat-dapat sa Iyo maliban sa Iyong Sarili, samantalang ang lahat maliban sa Iyo ay mga itinakwil sa Iyong harapan at mga walang halaga kung ihahambing sa luwalhati ng Iyong Sarili.
 Malayo para sa akin na parangalan ang Iyong mga katangian maliban sa mga yaong pinarangalan ng Iyong sarili sa Iyong matimbang na Aklat na dito ay Iyong sinabi, “Walang nakauunawa sa Kaniya, ngunit nauunawaan Niya ang lahat. Siya ang Mahiwaga, ang Nakadarama sa Lahat.” Luwalhatiin Ka, O aking Diyos, tunay na walang isip o pananaw, na gaanumang katalas o lubos na maingat, ay kailanman mauunawaan ang sariling katangian, ng pinaka walang halaga sa Iyong mga tanda. Sa katunayan, Ikaw ang Diyos, walang ibang Diyos maliban sa Iyo. Ako ay sumasaksi na Ikaw at Ikaw lamang ang tanging nagpapahayag ng Iyong mga katangian, na walang pagpuri ng sinuman maliban sa Iyo ay nakaabot sa Iyong banal na korte o ang Iyong mga katangian ay maarok ninoman maliban sa Iyong Sarili.
 
@@ -2132,9 +2532,13 @@ Luwalhatiin Ka, hindi maabot ninoman na ilarawan Ka maliban sa Iyong Sarili, dah
 
 
 
+
+
+<a id="Para Sa Yumao"></a> 
 ## Para Sa Yumao
 
-### <a id="bpn4527"></a> Prayer bpn4527 in Filipino
+<a id="bpn4527"></a> 
+### Prayer bpn4527 in Filipino
 *(Ang Dalangin para sa Yumao ay ginagamit para sa mga Bahá’í na higit sa labinlimang gulang. Ito ay “ang natatanging panalanging Bahá’í na katungkulang bigkasin ng kongregasyon; ito ay dapat usalin ng isang mananampalataya samantalang ang lahat ng naroroon ay tahimik na nakatayo. Nilinaw ni Bahá’u’lláh na ang Dalangin para sa Yumao ay kailangan lamang kung ang yumao ay nasa hustong gulang, na ang pag-usal ay dapat mauna sa paglilibing ng pumanaw, at hindi kinakailangang humarap sa Qiblih kapag inuusal ang panalanging ito.” — AngKitáb-i-Aqdas)
 
 O aking Diyos! Ito ay ang Iyong tagapaglingkod at anak ng Iyong tagapaglingkod na nanalig sa Iyo at sa Iyong mga palatandaan, at nagbaling ng kaniyang mukha sa Iyo, ganap na nakahiwalay sa lahat maliban sa Iyo. Ikaw, sa katunayan ang pinakamahabagin sa lahat ng nagpapakita ng habag.
@@ -2159,7 +2563,10 @@ Kaming lahat, sa katunayan, ay mapagtiyaga sa Diyos.
 
 
 
-### <a id="bpn4528"></a> Prayer bpn4528 in Filipino
+
+
+<a id="bpn4528"></a> 
+### Prayer bpn4528 in Filipino
 Luwalhati sa Iyo, O Panginoon kong Diyos! Huwag Mong abain siyang Iyong itinaas sa pamamagitan ng kapangyarihan ng Iyong walang hanggang paghahari, at huwag ilayo sa Iyo siyang niloob Mong makapasok sa tabernakulo ng Iyong kawalang hanggan. Ititiwalag Mo ba, O aking Diyos, siyang nilukuban Mo ng Iyong Kapangyarihan at ilalayo Mo ba siya sa Iyo, O aking Hangarin, siyang Ikaw ang naging kanlungan? Maari Mo ba siyang hamakin, siyang itinaas Mo, o malilimot Mo ba siyang binigyan Mo ng kakayahang umalaala sa Iyo?
 
 Ikaw ay niluluwalhati, lubos na niluluwalhati! Ikaw yaong buhat sa kawalang hanggan ay naging Hari ng buong santinakpan at ang Pangunahing Nagpapakilos dito, at magpakailanman ay manatili kang Panginoon ng lahat ng nilalang at Ikaw ang kanilang Tagapag-atas. Nasa kaluwalhatian Ka, O aking Diyos! Kung ihihinto Mo ang pagiging mahabagin sa Iyong mga tagapaglingkod, sino pa ang magpapamalas ng habag sa kanila? At kung tatanggi Kang sumaklolo sa Iyong mga minamahal, sino pa ang makasasaklolo sa kanila?
@@ -2172,7 +2579,10 @@ Ikaw ay niluluwalhati, di masukat ang pagluluwalhati sa Iyo! Sinasamba Ka sa Iyo
 
 
 
-### <a id="bpn6844"></a> Prayer bpn6844 in Filipino
+
+
+<a id="bpn6844"></a> 
+### Prayer bpn6844 in Filipino
 Siya ay Diyos, nasa kaluwalhatian Siya, ang Panginoon ng mapagmahal na kabutihang-loob at pagpapala!
 
 Luwalhatiin Ka, Ikaw O aking Diyos, ang Panginoong Makapangyarihan sa lahat. Sumasaksi ako sa Iyong walang hanggang kakayahan at sa Iyong kapangyarihan, sa Iyong paghahari at sa Iyong mapagmahal na kabutihang loob, sa Iyong biyaya at Iyong lakas, sa kaisahan ng Iyong Sarili at sa pagkakaisa ng Iyong diwa, sa Iyong kabanalan at kaluwalhatian sa ibabaw ng daigdig ng mga nabubuhay at sa lahat ng naroon.
@@ -2201,7 +2611,10 @@ Walang ibang Diyos liban sa Iyo, ang Isa, ang Nag-iisa, ang Makapangyarihan, ang
 
 
 
-### <a id="bpn4529"></a> Prayer bpn4529 in Filipino
+
+
+<a id="bpn4529"></a> 
+### Prayer bpn4529 in Filipino
 O aking Diyos! O Ikaw na nagpapatawad ng mga kasalanan! Tagapagkaloob ng mga handog! Tagapawi ng mga paghihirap!
 
 Tunay, Sumasamo ako sa Iyo na patawarin Mo ang mga pagkakasala ng mga nag-iwan ng pangkatawang saplot at umakyat na sa daigdig ng espiritu.
@@ -2214,7 +2627,10 @@ O aking Panginoon! Padalisayin Mo sila sa kanilang mga pagkakasala, pawiin ang k
 
 
 
-### <a id="bpn4530"></a> Prayer bpn4530 in Filipino
+
+
+<a id="bpn4530"></a> 
+### Prayer bpn4530 in Filipino
 O aking Diyos! O aking Diyos! Tunay, ang Iyong tagapaglingkod, hamak sa harap ng kamaharlikaan ng Iyong banal na paghahari, aba sa pintuan ng Iyong kaisahan, naniniwala sa Iyo at sa Iyong mga taludtud, na sumaksi sa Iyong salita, napagningas ng apoy ng Iyong pag-ibig, na nakatubog sa kalaliman ng dagat ng Iyong kaalaman, naakit sa pamamagitan ng Iyong mga hangin, umasa sa Iyo, nakabaling ang kanyang mukha sa Iyo, inialay ang kaniyang mga pagsusumamo sa Iyo, at tumanggap ng katiyakan ng Iyong pagpapaumanhin at pagpapatawd. Iniwan na niya ang mortal na buhay na ito at lumipad na sa kaharian ng walang kamatayan, nananabik sa biyaya ng pakikipagtagpo sa Iyo.
 
 O Panginoon, luwalhatiin ang kanyang katayuan, isilong siya sa tolda ng Iyong pinakamataas na awa, tulutan siyang makapasok sa Iyong maluwalhating paraiso, at panatilihin ang kaniyang buhay sa Iyong dakilang hardin ng rosas, nang sa gayon siya ay makasisid sa dagat ng liwanag tungo sa daigdig ng hiwaga.
@@ -2227,7 +2643,10 @@ Tunay, Ikaw ang Mapagbigay, ang Makapangyarihan, ang Mapagpatawad at ang Mapagpa
 
 
 
-### <a id="bpn4531"></a> Prayer bpn4531 in Filipino
+
+
+<a id="bpn4531"></a> 
+### Prayer bpn4531 in Filipino
 O Ikaw na mapagpatawad na Panginoon!
 
 Bagaman may mga kaluluwang pinalipas ang mga araw ng kanilang mga buhay sa kamangmangan, at napawalay, at naging suwail, ngunit, sa pamamagitan ng isang alon buhat sa karagatan ng Iyong pagpapatawad, ang lahat ng nalilibutan ng kasalanan ay mapapalaya. Ang sinumang ninanais Mo ay ginagawa Mong katapatang loob, at ang sinumang hindi Mo isaalang-alang sa Iyong pagpili ay nabibilang na nagkasala. Kung pakikitunguhan Mo kami sang-ayon sa Iyong katarungan, lahat kami ay pawang mga makasalanan at karapat-dapat lamang na hindi makalapit sa Iyo, ngunit kung itataguyod Mo ang awa, ang bawat makasalanan ay magiging dalisay at ang bawat dayuhan ay magiging kaibigan. Ipagkaloob, sa ganoon, ang Iyong paumanhin at kapatawaran, at ikaloob ang Iyong awa sa lahat.
@@ -2241,9 +2660,13 @@ Ikaw ang Nagpapatawad, ang Nagbibigay ng Liwanag, ang Makapangyarihan sa Lahat.
 
 
 
+
+
+<a id="Sangkatauhan"></a> 
 ## Sangkatauhan
 
-### <a id="bpn4493"></a> Prayer bpn4493 in Filipino
+<a id="bpn4493"></a> 
+### Prayer bpn4493 in Filipino
 Aking Diyos, na dinadalanginan ko at sinasamba! Saksi ako sa Iyong kaisahan at sa Iyong pagkaisa, at kinikilala ko ang Iyong mga kaloob, sa nakaraan at sa kasalukuyan. Ikaw ang Mapagpala sa Lahat, na ang nag-uumapaw na mga ulan ay pumatak sa matataas at gayon din sa mabababang lugar, at ang ningning ng Iyong biyaya ay nasabog sa mga masunurin at gayon din sa mga mapaghimagsik.
 
 O Diyos ng habag, na sa Iyong pintuan ay yumukod ang pinakabuod ng habag, na sa paligid ng santuwaryo ng Iyong Kapakanan ay nakapalibot ang mapagmahal na kahabagan sa pinakabuod na diwa nito, ipinamamanhik ko sa Iyo, lakip ang pagsamo sa Iyong dati nang biyaya at ang paglapit sa Iyong kasalukuyang pagtatangkilik, na magkaroon Ka sana ng habag sa lahat ng kapahayagan ng daigdig ng buhay, at huwag ipagkait sa kanila ang mga taglay ng Iyong biyaya sa Iyong mga araw.
@@ -2256,7 +2679,10 @@ Lahat ay dukha at nangangailangan, at tunay na Ikaw ang May-ari ng Lahat, ang Na
 
 
 
-### <a id="bpn4494"></a> Prayer bpn4494 in Filipino
+
+
+<a id="bpn4494"></a> 
+### Prayer bpn4494 in Filipino
 O Ikaw na mahabaging Panginoon! Ikaw na magandang-loob at may kakayahan! Kami ay Iyong mga tagapaglingkod na sumisilong sa lilim ng Iyong pagpapala. Ilingap sa amin ang Iyong sulyap ng pagtatangkilik. Bigyan ng liwanag ang aming mga mata, pandinig ang aming mga tainga at pang-unawa at pag-ibig ang aming mga puso. Pagalakin at paligayahin ang aming mga kaluluwa sa pamamagitan ng Iyong masasayang balita. O Panginoon! Ituro sa amin ang landas ng Iyong Kaharian at ibangon muli kaming lahat sa pamamagitan ng hininga ng Banal na Espiritu. Ipagkaloob sa amin ang walang hanggang buhay at putungan kami ng walang katapusang karangalan. Bigkisin ang sangkatauhan at tanglawan ang daigdig ng mga tao. Nawa’y taluntunin naming lahat ang Iyong mga landas, hangarin ang Iyong mabuting kasiyahan at hanapin ang mga hiwaga ng Iyong Kaharian. O Diyos! Pagkaisahin kami at bigkisin ang aming mga puso ng Iyong di-nalalagot na ugnayan. Tunay na Ikaw ang Tagapagbigay, Ikaw ang Mahabagin at Ikaw ang Makapangyarihan sa Lahat!
 
 (Source category: Sangkatauhan)
@@ -2265,7 +2691,10 @@ O Ikaw na mahabaging Panginoon! Ikaw na magandang-loob at may kakayahan! Kami ay
 
 
 
-### <a id="bpn4495"></a> Prayer bpn4495 in Filipino
+
+
+<a id="bpn4495"></a> 
+### Prayer bpn4495 in Filipino
 O Ikaw na mahabaging Panginoon! Nilalang Mo ang lahat ng sangkatauhan buhat sa iisang pinagmulan. Nilalayon Mong lahat ay mabilang sa iisang sambahayan. Sa Iyong Banal na Harapan, silang lahat ay Iyong mga tagapaglingkod at lahat ng sangkatauhan ay sumisilong sa lilim ng Iyong Tabernakulo; lahat ay naiipon sa Iyong hapag ng pagpapala at nagniningning sa liwanag ng Iyong pagkukupkop.
 
 O Diyos! Ikaw ay mahabagin sa lahat, pinagkalooban Mo ang lahat, nililiman Mo ang lahat, binigyan Mo ng buhay ang lahat. Lahat ay binibigyan Mo ng talino at kakayahan; lahat ay nakalubog sa karagatan ng Iyong kaawaan.
@@ -2288,7 +2717,10 @@ Ikaw ang Makapangyarihan at Malakas! Ikaw ang Mapagpatawad at Ikaw Siya na hindi
 
 
 
-### <a id="bpn4496"></a> Prayer bpn4496 in Filipino
+
+
+<a id="bpn4496"></a> 
+### Prayer bpn4496 in Filipino
 O Diyos, O Ikaw na nagsabog ng Iyong karingalan sa nagniningning na mga realidad ng mga tao, na ipinasinag sa kanila ang makinang na mga liwanag ng kaalaman at pamamatnubay, at pinili sila mula sa lahat ng nilikhang bagay para sa marilag na biyayang ito, at ginawa silang makasaklaw ng lahat ng bagay, na maunawaan ang kanilang kaibuturang diwa, at ibunyag ang kanilang mga hiwaga, na inilalabas ang mga ito mula sa karimlan tungo sa nakikitang daigdig! “Siya ay tunay na nagpapakita ng Kaniyang tanging habag sa kaninumang loobin Niya.” (Qur’án 3:67)
 
 O Panginoon, tulungan Mo ang Iyong mga minamahal na matamo ang kaalaman at ang mga agham at ang mga sining, at tastasin ang mga lihim na iniingatan sa kaloob-loobang realidad ng lahat ng nilikhang bagay. Gawing marinig nila ang natatagong mga katotohanan na nakasulat at nakabaon sa pinakapuso ng lahat ng umiiral. Gawin silang mga watawat ng patnubay sa lahat ng mga nilalang, at tumatagos na mga sinag ng kaisipan na nagpapasikat ng kanilang liwanag dito, sa “unang buhay.” (Qur’án 56:62) Gawin silang mga taga-akay sa Iyo, mga gabay sa Iyong landas, mga tumatakbo na humihimok sa mga tao tungo sa Iyong kaharian.
@@ -2302,9 +2734,13 @@ Ikaw sa katunayan ay ang Makapangyarihan, ang Tagapangalaga, ang Mabisa, ang Tag
 
 
 
+
+
+<a id="Spiritual Assembly"></a> 
 ## Spiritual Assembly
 
-### <a id="bpn4497"></a> Prayer bpn4497 in Filipino
+<a id="bpn4497"></a> 
+### Prayer bpn4497 in Filipino
 *Kailanma’t pumasaok ka sa silid sanggunian, usalin ang dalanging ito nang ang puso ay tumitibok ng pag-ibig sa Diyos at ang dila ay walang taglay ng anuman liban sa paggunita sa Kaniya, at nang ang Makapangyarihan sa Lahat ay buong kabaitang tumulong sa iyo na nakapagtamo ng sukdulang tagumpay.
 
 O Diyos! Aking Diyos! Kami ay mga tagapaglingkod Mo na nagsibaling nang buong kataimtiman sa Iyong banal na Mukha, na nagsipagwalay ng sarili sa lahat liban sa Iyo sa maluwalhating araw na ito. Kami’y nagtipon sa Spiritual Assembly na ito, nagkakaisa sa aming mga pananaw at isipan, na ang aming mga layunin ay nagkakaisa sa pagluluwalhati sa Iyong Salita sa sangkatauhan. O Panginoon, aming Diyos! Gawin kaming mga tanda ng Iyong banal na pamamatnubay, O Ikaw na aming Kataas-taasang Panginoon, mga kapahayagan ng Iyong Banal na Pagkakaisa sa Kahariang ‘Abhá, at ang maningning na mga bituin na nagliliwanag sa lahat ng mga pook. Panginoon! Tulungan kaming maging mga dagat na nagtutumaan sa malalaking alon ng Iyong kahanga-hangang Biyaya, mga batis na dumadaloy buhat sa Iyong kaluwalhatiang Kataasan, mabubuting bunga sa punong kahoy ng Iyong makalangit na Kapakanan, mga punong kahoy na nagsisiugoy sa mga hangin ng Iyong Pagpapala sa Iyong Ubasang makalangit. O Diyos! Pananganin ang aming mga kaluluwa sa mga Taludtod ng Iyong Banal na Kaisahan, ang aming mga puso ay pasiglahin sa mga tagay ng Iyong Biyaya, upang kami’y mabigkis na tulad ng mga alon ng isang dagat at mapagsama-sama na tulad ng mga sinag ng Iyong maluningning na Liwanag; upang ang aming mga isipan, ang aming mga pananaw, ang aming mga damdamin ay maging iisang realidad, na nagpapahayag ng espiritu ng pagkaisa sa buong daigdig. Ikaw ang Mapagbigay-biyaya, ang Masagana, ang Mapagpala, ang Tagapagkaloob, ang Makapangyarihan sa Lahat, ang Maawain, ang Mahabagin.
@@ -2315,7 +2751,10 @@ O Diyos! Aking Diyos! Kami ay mga tagapaglingkod Mo na nagsibaling nang buong ka
 
 
 
-### <a id="bpn4498"></a> Prayer bpn4498 in Filipino
+
+
+<a id="bpn4498"></a> 
+### Prayer bpn4498 in Filipino
 *Magtipon kayo sa dalisay na kagalakan, at sa simula ng pagpupulong, bigkasin ninyo ang panalanging ito:
 
 O Ikaw na Panginoon ng Kaharian! Bagama’t ang aming mga katawan ay natitipon dito, gayumpaman ang aming mga nabighaning puso at natatangay ng Iyong pagmamahal, at gayumpaman kami ay nadadala ng mga silahis ng Iyong maluningning na mukha. Wala man kaming lakas, kami ay naghihintay ng pagpapahayag ng Iyong kapangyarihan at lakas. Mahirap man kami, na walang yaman ni pagkukunan, kumukuha pa rin kami ng yaman sa mga kayamanan ng Iyong Kaharian. Mga patak man kami, sumasalok pa rin kami sa kailaliman ng Iyong mga karagatan. Alikabok man kami, kumikislap pa rin kami sa luwalhati ng Iyong maningning ng Araw.
@@ -2327,7 +2766,10 @@ O Ikaw na aming Nagkakaloob! Ibaba ang Iyong tulong, na bawat isa sa natitipon d
 
 
 
-### <a id="bpn4499"></a> Prayer bpn4499 in Filipino
+
+
+<a id="bpn4499"></a> 
+### Prayer bpn4499 in Filipino
 *Dalangin na uusalin sa pagtatapos ng pagpupulong ng Spiritual Assembly.
 
 O Diyos! O Diyos! Nakatunghay Ka sa amin buhat sa Iyong di-nakikitang Kaharian ng pagkaisa, namamalas na kami’y naiipon sa spiritual assembly na ito, nananampalataya sa Iyo, nagtitiwala sa Iyong mga tanda, matatag sa Iyong Banal na Kasunduan at Habilin at naakit sa Iyo, nagniningas sa apoy ng Iyong pag-ibig, at matapat sa Iyong Kapakanan, mga tagapaglingkod sa Iyong ubasan, tagapagpalaganap ng Iyong relihiyon, taimtim na mga sumasamba sa Iyong mukha, mapagkumbaba sa Iyong mga minamahal, nagpapahinuhod sa Iyong pintuan at sumasamong pagtibayin Mo kami sa paglilingkod sa Iyong mga pinili. Tangkilikin kami sa pamamagitan ng Iyong di-nakikitang mga hukbo, palakasin ang aming mga balakang sa paglilingkod sa Iyo at gawin kaming mga masunurin at nagmamahal na mga lingkod, nakikipagniig sa Iyo.
@@ -2345,9 +2787,13 @@ Tunay na Ikaw ang Magandang-loob, ang Mahabagin! Ikaw ang Nagmamay-ari ng malaki
 
 
 
+
+
+<a id="Tagumpay Ng Kapakanan"></a> 
 ## Tagumpay Ng Kapakanan
 
-### <a id="bpn4500"></a> Prayer bpn4500 in Filipino
+<a id="bpn4500"></a> 
+### Prayer bpn4500 in Filipino
 Luwalhati sa Iyo, O Panginoon, Ikaw na Siyang bumuo ng lahat ng mga nilikhang bagay sa pamamagitan ng Iyong utos.
 
 O Panginoon! Tulungan silang mga tumalikod sa lahat maliban sa Iyo, at bigyan sila ng dakilang tagumpay. Ipadala sa kanila, O Panginoon, ang kalipunan ng mga anghel sa langit at lupa at sa lahat ng nasa pagitan nito, upang tulungan ang Iyong mga tagapaglingkod, upang bigyan sila ng kakayahan na makamit ang tagumpay, upang alalayan sila, upang gawaran sila ng karangalan at kadakilaan, upang pagyamanin sila at gawin silang matagumpay sa pamamagitan ng kamangha-manghang tagumpay.
@@ -2362,7 +2808,10 @@ Ipagkaloob Mo, O Panginoon, na ang kanilang mga puso, sa pamamagitan ng katapata
 
 
 
-### <a id="bpn4501"></a> Prayer bpn4501 in Filipino
+
+
+<a id="bpn4501"></a> 
+### Prayer bpn4501 in Filipino
 O Panginoon! Itadhana ang mabilis na paglaki ng Puno ng Iyong banal na pagkakaisa; diligin ito sa gayon, O Panginoon, ng dumadaloy na mga tubig ng Iyong kabutihang-loob, at tulutan ito, sa harap ng mga kahayagan ng Iyong banal na katiyakan, na magbunga ng yaong mga prutas na ninanais Mo para sa Iyong kaluwalhatian at kaitaasan, sa Iyong papuri at pasasalamat, at upang dakilain ang Iyong Pangalan, upang papurihan ang kaisahan ng Iyong Diwa at upang maghandog ng pagsamba sa Iyo, dahil sa ang lahat ng mga bagay na ito ay nasa Iyong hawak at sa walang iba.
 
 Napakalaki ng kabanalan nila na ang kanilang dugo ang Iyong napili na pandilig sa Puno ng Iyong pagpapatibay, at sa gayon ay dakilain ang Iyong banal at di-mababagong Salita.
@@ -2373,7 +2822,10 @@ Napakalaki ng kabanalan nila na ang kanilang dugo ang Iyong napili na pandilig s
 
 
 
-### <a id="bpn4502"></a> Prayer bpn4502 in Filipino
+
+
+<a id="bpn4502"></a> 
+### Prayer bpn4502 in Filipino
 O Panginoon! Gawing matagumpay ang Iyong mapagtiis na mga tagapaglingkod sa Iyong mga araw sa pamamagitan ng pagkakaloob sa kanila ng isang karapat-dapat na tagumpay, dahil sa pinili nila ang pagkakamartir sa Iyong landas. Ipagkaloob sa kanila yaong magbibigay ng kaginhawahan sa kanilang mga isip, magpapaligaya sa kanilang panloob na sarili, magbibigay ng katiyakan sa kanilang mga puso at katahimikan sa kanilang mga katawan at magbibigay ng kakayahan sa kanilang mga kaluluwa na umakyat sa kinaroroonan ng Diyos, ang Pinakamataas, at upang makamit nila ang katas-taasang Paraiso at yaong mga pahingahan ng kaluwalhatian na itinadhana Mo para sa mga taong may tunay na kaalaman at kabutihan. Sa katunayan nalalaman Mo ang lahat ng bagay, samantalang kami ay Iyong mga tagapaglingkod lamang, Iyong mga sakop, Iyong mga takdang katulong at Iyong mga dukha. Walang ibang Panginoon maliban sa Iyo ang aming tinatawagan, O Diyos, aming Panginoon, ni hindi kami nagsusumamo ng mga biyaya o kaloob mula sa kanino man maliban sa Iyo, O Ikaw na Siyang Diyos ng habag sa daigdig na ito at sa susunod. Kami ay siya lamang mga larawan ng karukhaan, ng kawalaan, ng kawalang kakayahan at ng kapahamakan, samantalang ang Iyong buong Sarili ay sumasagisag sa kayamanan, kasarinlan, kaluwalhatian, kamahalan at walang-hanggang pagpapala.
 
 Gawin ang aming kabayaran, O Panginoon, na maging yaong karapat-dapat sa Iyo sa mga kabutihan ng daigdig na ito at ng susunod, at ang iba’t-ibang mga biyaya na nagbubuhat sa kaitaasan tungo sa daigdig sa ibaba.
@@ -2386,7 +2838,10 @@ Sa katunayan Ikaw ang aming Panginoon at ang Panginoon ng lahat ng mga bagay. Sa
 
 
 
-### <a id="bpn4503"></a> Prayer bpn4503 in Filipino
+
+
+<a id="bpn4503"></a> 
+### Prayer bpn4503 in Filipino
 O Panginoon! Tulutang makapsok ang lahat ng mga tao ng daigdig sa Paraiso ng Iyong Pananampalataya, nang sa ganoon ay walang nilikha ang maiiwan sa labas ng Iyong kabutihang-loob. Mula pa sa panahong hindi na magunita ang makapangyarihan Ka na gawin ang ikasisiya Mo at nangingibabaw sa anumang ninanais Mo.
 
 (Source category: Tagumpay Ng Kapakanan)
@@ -2395,7 +2850,10 @@ O Panginoon! Tulutang makapsok ang lahat ng mga tao ng daigdig sa Paraiso ng Iyo
 
 
 
-### <a id="bpn4504"></a> Prayer bpn4504 in Filipino
+
+
+<a id="bpn4504"></a> 
+### Prayer bpn4504 in Filipino
 O Diyos, aking Diyos! Purihin Ka nawa sa pagpaparikit ng apoy ng banal na pag-ibig sa Banal na Puno sa tuktok ng pinakamataas na bundok: yaong Puno na “hindi mula sa Silangan o sa Kanluran.” Yaong apoy na lumiyab hanggang ang alab nito ay umakyat patungo sa Kalipunan sa kaitasan, at mula dito yaong mga katotohanan ay nakakuha ng ilaw ng pamamatnubay, at nagsipagsigaw sila ng: “Sa katunayan ay nakita naming ang apoy sa libis ng Bundok Sinai.”
 
 O Diyos, aking Diyos! Palakihin Mo ang apoy na ito, tulad ng isang araw na sinusundan ng isa pang araw, hanggang ang bugso nito ay magpapakilos sa buong daigdig. O Ikaw, aking Panginoon! Pagningasin ang ilaw ng Iyong pag-ibig sa bawat puso, ihinga sa kaluluwa ng mga tao ang espiritu ng Iyong kaalaman, pagalakin ang kanilang mga dibdib sa mga taludtod ng Iyong kaisahan. Buhayin Mo silang mga nananahan sa kanilang mga libingan, babalaan ang mga mapagmalaki, gawing pandaigdigan ang kasiyahan, ipadala ang Iyong kristal na mga tubig, at sa kalipunan ng mga hayag na karingalan ay ipasa ang kalis na “Itinimpla sa bukal ng alkampor.”
@@ -2408,7 +2866,10 @@ Sa katunayan, Ikaw ang Nagbibigay, ang Nagpapatawad, ang Laging Nagka­ kaloob. 
 
 
 
-### <a id="bpn4505"></a> Prayer bpn4505 in Filipino
+
+
+<a id="bpn4505"></a> 
+### Prayer bpn4505 in Filipino
 Siya ang Diyos! 
 
 O Panginoon, aking Diyos, aking Pinakamamahal! Ito ang Iyong mga tagapaglingkod na nakarinig sa Iyong Tinig, nakinig sa Iyong Salita at dininig ang Iyong Tawag. Naniwala sila sa Iyo, sumaksi sa Iyong mga himala, kumilala sa Iyong katibayan at nagpatotoo sa Iyong katunayan. Naglakad sila sa Iyong mga daan, sumunod sa Iyong pamamatnubay, nakatuklas sa Iyong mga hiwaga, nakaunawa sa mga lihim ng Iyong Aklat, sa mga taludtod ng Iyong Pergamino at sa mga balita ng Iyong mga Epistolo at mga Tableta. Nakahawak sila sa laylayan ng Iyong damit at nangapit nang mahigpit sa kasuotan ng Iyong ilaw at karingalan. Ang kanilang mga yapak ay pinalakas sa Iyong Banal na Kasunduan at ang kanilang mga puso ay pinatatag sa Iyong Habilin. Panginooon! Pagningasin sa kanilang mga puso ang alab sa Iyong banal na pag-aakit at tulutang ang ibon ng pag-ibig at pag-uunawa ay umawit sa kanilang mga puso. Tulutan silang maging halintulad ng mabisang mga palatandaan, maningning na mga bandila, at kasing ganap ng Iyong Salita. Dakilain ang Iyong Kapakanan sa pamamagitan nila, iladlad ang Iyong mga watawat at ipahayag sa kalayuan at kalawakan ang Iyong mga himala. Sa pamamagitan nila ay gawing matagumpay ang Iyong Salita, at palakasin ang mga balakang ng Iyong mga minamahal. Kalagan ang kanilang mga dila upang purihin ang Iyong Pangalan, at pukawin silang gawin ang Iyong banal na kalooban at kagustuhan. Tanglawan ang kanilang mga mukha sa Iyong Kaharian ng kabanalan, at gawing ga­ nap ang kanilang kaligayahan sa pamamagitan ng pagtulong sa kanila na makabangon para sa ikatatagumpay ng Iyong Kapakanan.
@@ -2424,9 +2885,13 @@ Ang luwalhati ng mga kaluwalhatianay mapasakanilang mga matibay at matatag.
 
 
 
+
+
+<a id="Tulong"></a> 
 ## Tulong
 
-### <a id="bpn4506"></a> Prayer bpn4506 in Filipino
+<a id="bpn4506"></a> 
+### Prayer bpn4506 in Filipino
 O Ikaw na ang mukha ay siyang hantungan ng aking pagsamba, na ang kagandahan ay siyang aking kanlungan, na ang tirahan ay siyang aking hangarin, na ang pagpuri ay siyang aking pag-asa, na ang kalinga ay siyang aking kasama, na ang pag-ibig ay siyang dahilan ng aking pagkabuhay, na ang pagbanggit ay siyang aking kaaliwan, na ang pagkakalapit ay siyang aking hangarin, na ang makapiling Ka ay siyang aking pinakananais at pinakamataas napangarap, isinasamo ko sa Iyo na huwag Mo akong pagkaitan ng mga bagay na itinalaga mo para sa mga pinili sa Iyong mga tagapaglingkod. Pagkalooban Mo ako, kung gayon, ng mga kabutihan sa daigdig na ito at sa susunod.
 
 Tunay na Ikaw ang Hari ng lahat ng tao. Walang Diyos liban sa Iyo, ang Laging Nagpapatawad, ang Pinakabukas-palad.
@@ -2437,7 +2902,10 @@ Tunay na Ikaw ang Hari ng lahat ng tao. Walang Diyos liban sa Iyo, ang Laging Na
 
 
 
-### <a id="bpn4507"></a> Prayer bpn4507 in Filipino
+
+
+<a id="bpn4507"></a> 
+### Prayer bpn4507 in Filipino
 Diyos ko, tanging aking Sinasamba, aking Hari, aking Hangarin! Anong wika ang makapagbibigay-tinig sa aking pasasalamat sa Iyo! Ako’y hindi nakikinig, pinukaw Mo ako. Ako ay tumalikod sa Iyo, buong magiliw na tinulungan Mo ako na bumaling sa Iyo. Ako ay tulad sa isang patay, ibinangon Mo ako sa pamamagitan ng tubig ng buhay. Ako ay laing, pinanariwa Mo ako sa pamamagitan ng makalangit na bukal ng Iyong pangungusap na dumaloy sa Panulat ng Mahabagin sa Lahat.
 
 O Dakilang Maykapal! Ang santinakpan ay nilalang sa Iyong pagpapala; huwag pagkaitan ang mga iyon ng Iyong kalinga, huwag ding ilayo iyon sa dagat ng Iyong kahabagan. Isinasamo kong tulungan Mo at patnubayan ako sa lahat ng panahon at sa anumang kalagayan, at hinahangad buhat sa langit ng Iyong biyaya ang Iyong dating pagtatangkilik. Ikaw, sa katotohanan, ang Panginoon ng pagpapala, at ang Makapangyarihan sa kaharian ng kawalang hanggan.
@@ -2448,7 +2916,10 @@ O Dakilang Maykapal! Ang santinakpan ay nilalang sa Iyong pagpapala; huwag pagka
 
 
 
-### <a id="bpn4508"></a> Prayer bpn4508 in Filipino
+
+
+<a id="bpn4508"></a> 
+### Prayer bpn4508 in Filipino
 O aking Diyos, aking Panginoon, at aking Sinusunod! Inihiwalay ko ang aking sarili mula sa aking kaanak at hinangad sa pamamagitan Mo na maging malaya sa lahat ng naninirahan sa lupa at laging handa na tumanggap ng anumang kapuri-puri sa Iyong paningin. Ipagkaloob Mo sa akin ang mabuting bagay upang maging malaya liban sa Iyo at pagkalooban ako ng sapat na bahagi ng Iyong walang-hanggang mga pagpapala. Tunay, Ikaw ang Panginoon ng masaganang biyaya.
 
 (Source category: Tulong)
@@ -2457,7 +2928,10 @@ O aking Diyos, aking Panginoon, at aking Sinusunod! Inihiwalay ko ang aking sari
 
 
 
-### <a id="bpn4509"></a> Prayer bpn4509 in Filipino
+
+
+<a id="bpn4509"></a> 
+### Prayer bpn4509 in Filipino
 O Ikaw na mabuting Panginoon!
 
 Kami ay mga tagapaglingkod sa Iyong Pintuan, nanganganlong sa Iyong banal na Pinto. Hindi kami naghahangad ng ibang kublihan liban sa matatag na haliging ito, hindi bumabaling sa ibang kanlungan liban sa Iyong pagkakandili. Pangalagaan kami, pagpalain kami, tulungan kami, gawin kami na walang mamahalin maliban sa Iyong mabuting kaluguran, na bibigkasin lamang ang Iyong papuri, tataluntunin lamang ang landas ng katotohanan, upang maging sapat na mariwasa nawa kami na maiwaksi ang lahat liban sa Iyo, at matanggap ang aming biyaya mula sa karagatan ng Iyong kagandahang-loob, upang lagi kaming magsikap na dakilain ang Iyong Kapakanan at mapalaganap sa lahat ng lugar ang matamis Mong halimuyak, upang malimot namin ang sarili at maging abala lamang sa Iyo, at maitakwil ang lahat at maakit lamang sa Iyo.
@@ -2470,7 +2944,10 @@ O Ikaw na Tagapagbigay, O Ikaw na Tagapagpatawad! Ipagkaloob sa amin ang Iyong p
 
 
 
-### <a id="bpn4510"></a> Prayer bpn4510 in Filipino
+
+
+<a id="bpn4510"></a> 
+### Prayer bpn4510 in Filipino
 Huwag Mong alisin, O Panginoon, ang dulang na inilatag sa Iyong Pangalan at huwag patayin ang ningas na pinagsindi ng Iyong hindi napapatay na apoy. Huwag pigilin sa pagdaloy ang Iyong Buhay na Tubig na umaaliw-iw sa himig ng Iyong kaluwalhatian at ng Iyong gunita, at huwag ipagkait sa Iyong mga tagapaglingkod ang samyo ng Iyong matatamis na halimuyak na ikinakalat ang kabanguhan ng Iyong pag-ibig.
 
 Panginoon! Ang nakababagabag na mga alalahanin ng Iyong mga kasaping banal ay loobin Mong maging kapanatagan, ang kanilang kaabahan ay maging kaluwalhatian, ang kanilang kalungkutan ay maging kagalakan, O Ikaw na naghahawak sa ugit ng buong sangkatauhan!
@@ -2484,9 +2961,13 @@ Tunay na Ikaw ang Isa, ang Nag-iisa, ang Makapangyarihan, ang Nakababatid ng Lah
 
 
 
+
+
+<a id="Tulong Sa Mga Pagsubok"></a> 
 ## Tulong Sa Mga Pagsubok
 
-### <a id="bpn4511"></a> Prayer bpn4511 in Filipino
+<a id="bpn4511"></a> 
+### Prayer bpn4511 in Filipino
 Pawiin ang aking kalungkutan sa pamamagitan ng Iyong pagpapala at ng Iyong kagandahang-loob, O Diyos, aking Diyos, at iwaksi ang aking pagdurusa sa pamamagitan ng Iyong paghahari at ng Iyong kapangyarihan. Nakikita Mo ako, O aking Diyos, na ang mukha’y nakatuon sa Iyo sa isang panahong ang mga dalamhati ay nakapaligid sa akin. Isinasamo ko sa Iyo, O Ikaw na Panginoon ng lahat ng kinapal, at lumililim sa lahat ng bagay na nakikita at di-nakikita, sa Iyong Pangalan na sumakop sa mga puso at mga kaluluwa ng mga tao, at sa matataas na alon ng Karagatan ng Iyong kahabagan at sa ningning ng Araw-Bituin ng Iyong pagpapala, na ibilang Mo ako sa kanilang hindi napigil ng anuman sa pagtutuon ng kanilang mukha sa Iyo, O Ikaw na Panginoon ng lahat ng pangalan at Maylikha ng mga langit.
 
 Namamalas Mo, O aking Panginoon, ang mga bagay na naganap sa akin sa Iyong mga araw. Isinasamo ko sa Iyo, sa Kaniya na Pamimitak ng Iyong mga pangalan at Pook-Liwayway ng Iyong mga katangian, na iatas Mo para sa akin yaong makapagtutulot na magbangon ako upang maglingkod sa Iyo at purihing maigi ang Iyong mga kabutihan, Tunay na Ikaw ang Makapangyarihan sa Lahat, ang Pinakamalakas, na sanay na tumugon sa mga dalangin ng lahat ng tao!
@@ -2499,7 +2980,10 @@ At sa wakas, hinihiling ko sa Iyo sa Liwanag ng Iyong kaanyuan na pagpalain ang 
 
 
 
-### <a id="bpn4512"></a> Prayer bpn4512 in Filipino
+
+
+<a id="bpn4512"></a> 
+### Prayer bpn4512 in Filipino
 Pinupuri at niluluwalhati Ka, O aking Diyos! Isinasamo ko sa Iyo sa hinaing ng mga umiibig sa Iyo at sa luhang itinigis ng mga naghahangad na makamalas sa Iyo, na huwag Mong ipagkait sa akin ang Iyong masusuyong kahabagan sa Iyong Araw, ni huwag Mong alisin sa akin ang mga awitin ng Kalapating nagpupuri sa Iyong pagkaisa sa harap ng liwanag na nagbubuhat sa Iyong mukha. Ako ay isang nasa kahirapan, O Diyos! Masdan Mo akong nakapangapit sa Iyong Pangalan, ang Nagmamay-ari ng Lahat. Ako ang nakatitiyak na maglalaho; masdan Mo akong nakapangapit sa Iyong Pangalan, ang Di-Maglalaho. Isinasamo ko sa Iyo, samakatwid, sa Iyong Sarili, ang Maluwalhati, ang Kataas-taasan, na huwag Mo akong pabayan sa aking sarili at sa mga hangarin ng isang masamang hilig. Hawakan Mo ang aking kamay sa pamamagitan ng kamay ng Iyong lakas, at hanguin Mo ako sa kalaliman ng aking mga walang katuturang isipin at guni-guni at hugasan Mo ako sa lahat ng kasuklam-suklam sa Iyo.
 Tulutan Mo ako, kung gayon, na ganap na makabaling sa Iyo, mailagak ang aking buong pagtitiwala sa Iyo, mahanap ko Ikaw bilang aking kanlungan, at makatakas akong patungo sa Iyong mukha. Ikaw nga Siya na sa pamamagitan ng lakas ng Kaniyang kapangyarihan ay nakagagawa ng anumang naisin Niya, at nakapag-uutos sa pamamagitan ng kakayahan ng Kaniyang kalooban, ng anumang Kaniyang marapatin. Walang makasasalansang sa pagkatupad ng Iyong kautusan; walang makapagbabaling sa takbo ng Iyong paghirang. Ikaw, sa katotohanan, ang Makapangyarihan sa Lahat, ang Maluwalhati sa Lahat, ang Pinakamapagpala.
 
@@ -2509,7 +2993,10 @@ Tulutan Mo ako, kung gayon, na ganap na makabaling sa Iyo, mailagak ang aking bu
 
 
 
-### <a id="bpn4513"></a> Prayer bpn4513 in Filipino
+
+
+<a id="bpn4513"></a> 
+### Prayer bpn4513 in Filipino
 O Ikaw na ang mga pagsubok ay isang panlunas na gamot sa mga malapit sa Iyo, na ang tabak ay ang masidhing hangarin ng lahat ng umiibig sa Iyo, na ang tunod ay ang pinakananais ng mga pusong nagnanais sa Iyo, na ang kautusan ay ang tanging pag-asa ng mga nakakikilala sa Iyong katotohanan! Isinasamo ko sa Iyo, sa Iyong banal na katamisan at sa ningning ng kaluwalhatian ng Iyong mukha, na ihulog sa amin buhat sa Iyong mga kanlungan sa itaas yaong makapagtutulot na mapalapit kami sa Iyo. Gawin Mo, kung gayon, na maging matatag ang aming mga paa, O aking Diyos, sa Iyong Kapakanan, at liwanagan ang aming mga puso ng ningning ng Iyong kaalaman, at liwanagan ang aming mga dibdib ng kaluningningan ng Iyong mga pangalan.
 
 (Source category: Tulong Sa Mga Pagsubok)
@@ -2518,7 +3005,10 @@ O Ikaw na ang mga pagsubok ay isang panlunas na gamot sa mga malapit sa Iyo, na 
 
 
 
-### <a id="bpn4514"></a> Prayer bpn4514 in Filipino
+
+
+<a id="bpn4514"></a> 
+### Prayer bpn4514 in Filipino
 Luwalhati sa Iyo, O aking Diyos! Kung hindi sa mga paghihirap na ibinalikat sa Iyong landas, papaano makikilala ang mga tunay na mangingibig sa Iyo; at kung hindi sa mga pagsubok na dinanas sa pag-ibig sa Iyo, paano mahahayag ang kalagayan ng mga naghahangad sa Iyo? Ang Iyong kapangyarihan ay aking sinasaksihan! Ang mga kasama ng lahat ng sumasamba sa Iyo at ang mga luhang itinigis nila, at ang kaginhawahan ng mga naghahanap sa Iyo ay ang mga daing na kanilang ipinarinig at ang pagkain ng mga nagmamadaling makipagtagpo sa Iyo ay ang mga piraso ng kanilang mga pusong wasak.
 
 Gaano katamis sa aking panlasa ang kapaitan ng kamatayang tinamo sa Iyong landas, at gaano kahalaga sa aking pagtantiya ang mga sibat ng Iyong mga kaaway kapag nakaharap nang dahil sa pagpapaluwalhati sa Iyong salita! Tulutan Mong inumin ko sa Iyong Kapakanan, O aking Diyos, ang anumang naisin Mo, at ihulog Mo sa akin sa Iyong pag-ibig ang lahat ng Iyong iniatas. Saksi ang Iyong kaluwalhatian! Ang ninanais ko ay ang Iyong nais lamang, at ang pinakamamahal ko ay ang Iyong pinakamamahal. Sa Iyo, sa lahat ng panahon, inilalagak ko ang aking buong pagtitiwala.
@@ -2533,7 +3023,10 @@ May kakayahan Kang gumawa ng Iyong ikasisiya. Walang Diyos liban sa Iyo, ang Tul
 
 
 
-### <a id="bpn4515"></a> Prayer bpn4515 in Filipino
+
+
+<a id="bpn4515"></a> 
+### Prayer bpn4515 in Filipino
 Mayroon bang Tagapag-alis ng mga kahirapan liban sa Diyos? Sabihin: Purihin ang Diyos! Siya ay Diyos! Lahat ay Kaniyang tagapaglingkod, at lahat ay sumusunod sa Kaniyang mga utos!
 
 (Source category: Tulong Sa Mga Pagsubok)
@@ -2542,7 +3035,10 @@ Mayroon bang Tagapag-alis ng mga kahirapan liban sa Diyos? Sabihin: Purihin ang 
 
 
 
-### <a id="bpn4516"></a> Prayer bpn4516 in Filipino
+
+
+<a id="bpn4516"></a> 
+### Prayer bpn4516 in Filipino
 Sabihin: Ang Diyos ay sapat sa lahat ng bagay at higit sa anumang bagay, at walang anumang bagay sa langit o sa lupa ay makasasapat liban sa Diyos. Tunay, Siya sa Kaniyang Sarili ay ang Nakababatid, ang Tumutustos, ang Makapangyarihan sa Lahat.
 
 (Source category: Tulong Sa Mga Pagsubok)
@@ -2551,7 +3047,10 @@ Sabihin: Ang Diyos ay sapat sa lahat ng bagay at higit sa anumang bagay, at wala
 
 
 
-### <a id="bpn4517"></a> Prayer bpn4517 in Filipino
+
+
+<a id="bpn4517"></a> 
+### Prayer bpn4517 in Filipino
 Nagsusumamo ako sa Iyo sa pamamagitan ng Iyong lakas, O aking Diyos! Huwag hayaang mapahamak ako sa panahon ng mga pagsubok, at sa mga sandali ng kapabayaan patnubayan ang aking mga yapak sa kawastuan sa pamamagitan ng Iyong inspirasyon. Ikaw ang Diyos, makapangyarihan Ka na gawin ang Iyong nais. Walang makapipigil sa Iyong Kagustuhan o makapagbabago sa Iyong Layunin.
 
 (Source category: Tulong Sa Mga Pagsubok)
@@ -2560,7 +3059,10 @@ Nagsusumamo ako sa Iyo sa pamamagitan ng Iyong lakas, O aking Diyos! Huwag hayaa
 
 
 
-### <a id="bpn4518"></a> Prayer bpn4518 in Filipino
+
+
+<a id="bpn4518"></a> 
+### Prayer bpn4518 in Filipino
 O Panginoon! Ikaw ang Tagapag-alis ng bawat pagdurusa at tagapawi ng bawat dalamhati. Ikaw ang Siyang nagwawaksi ng bawat kalungkutan at nagpapalaya sa bawat alipin, ang Manunubos ng bawat kaluluwa. O Panginoon! Ipagkaloob ang kaligtasan sa pamamagitan ng Iyong awa, at ibaling ako sa Iyong mga tagapaglingkod na nakatamo na ng kaligtasan.
 
 (Source category: Tulong Sa Mga Pagsubok)
@@ -2569,7 +3071,10 @@ O Panginoon! Ikaw ang Tagapag-alis ng bawat pagdurusa at tagapawi ng bawat dalam
 
 
 
-### <a id="bpn4519"></a> Prayer bpn4519 in Filipino
+
+
+<a id="bpn4519"></a> 
+### Prayer bpn4519 in Filipino
 Alam na alam Mo, O aking Diyos, na ang mga paghihirap ay umulan sa akin buhat sa lahat ng dako at na walang makawawaksi o makababago sa mga ito maliban sa Iyo. Tiyak na alam ko, sa pamamagitan ng aking pag-ibig sa Iyo, na hindi Mo kailanman tutulutang sumapit ang paghihirap sa anumang kaluluwa kung hindi Mo ninanais na itaas ang kanayang kalagayan sa Iyong makalangit na Paraiso at palakasin ang kaniyang puso sa makalupang buhay na ito sa pamamagitan ng tagapagsanggalang ng Iyong laging-nakapipilit na kapangyarihan, nang sa gayon ay hindi ito mahilig sa mga karangyaan ng daigdig na ito. Sa katunayan ay alam na alam Mo na sa lahat ng kalagayan ay pakamamahalin ko ang pag-alaala sa Iyo higit na higit pa sa pag-aari ng lahat ng nasa mga langit at sa lupa.
 
 Palakasin ang aking puso, O aking Diyos, sa pagsunod sa Iyo at sa Iyong pag-ibig, at tulutang malayo ako sa buong lupon ng Iyong mga kaaway. Tunay na isinisumpa ko sa Iyong kaluwalhatian na wala akong hinahangad liban sa Iyong Sarili, ni wala rin akong ninanais bukod sa Iyong habag, ni wala rin akong kinatatakutan maliban sa Iyong katarungan. Isinasamo ko sa Iyo na patawarin ako at pati na rin ang mga minamahal Mo, sa anumang paraang ninanais Mo. Sa katunayan, Ikaw ang Makapangyarihan sa Lahat, ang Mapagbigay.
@@ -2582,7 +3087,10 @@ Napakataas Mo, O Panginooon ng mga langit at lupa, para sa papuri ng lahat ng mg
 
 
 
-### <a id="bpn4520"></a> Prayer bpn4520 in Filipino
+
+
+<a id="bpn4520"></a> 
+### Prayer bpn4520 in Filipino
 O Panginoon, aking Diyos at aking Kanlungan sa aking pagkabagabag! Aking Kalasag at aking Silungan sa aking mga salaghati! Aking Takbuhan at Taguan sa panahon ng pangangailangan at sa pangungulila ko ay aking Kasama! Sa aking pagdurusa ay Kaaliwan ko, at sa aking pag-iisa ay isang mapagmahal na kaibigan! Ang Tagapag-alis ng mga hapdi ng Aking kalungkutan at Tagapagpatawad ng aking mga kasalanan!
 
 Ganap na sa Iyo ako bumabaling, mataimtim na nagsusumamo sa Iyo na lakip ang buong puso, pag-iisip at dila, na sanggahan ako sa lahat ng lumalabag sa Iyong kalooban, dito, sa siglo ng Iyong banal na kaisahan, at linisin mo ako sa lahat ng karumihan na hahadlang sa akin sa paghanap, nang walang batikat walang dungis, sa lilim ng Punongkahoy ng Iyong Biyaya.
@@ -2609,7 +3117,10 @@ Ikaw, sa buong katotohanan, ang Mapagbigay-biyaya, ang Maluwalhati, ang Malakas,
 
 
 
-### <a id="bpn4521"></a> Prayer bpn4521 in Filipino
+
+
+<a id="bpn4521"></a> 
+### Prayer bpn4521 in Filipino
 Siya ang Mahabagin, ang Mapagpala sa Lahat!
 
 O Diyos, aking Diyos! Nakikita Mo ako, nakikilala Mo ako; Ikaw ang aking Kanlungan at ang aking Takbuhan. Wala akong hinanap at walang hahanapin liban sa Iyo, walang landas na nilakaran ko o lalakaran pa kundi ang landas ng Iyong pag-ibig. Sa madilim na gabi ng kawalang pag-asa, ang aking mata ay umaasam at lipos ng pag-asang bumabaling sa umaga ng Iyong walang- hanggang pagtatangkilik at sa oras ng pagmamadaling araw, ang aking lantang kaluluwa ay nananariwa at lumalakas sa paggunita sa Iyong kagandahan at kaganapan. Siya na tinulungan ng Iyong kahabagan, kung siya man ay maging isa lamang patak, siya ay magiging walang hanggang karagatan, at ang pinakamunting atomo lamang na tutulungan ng pagbuhos ng Iyong mapagmahal na kagandahang-loob ay magliliwanag na tulad ng maluningning na bituin.
@@ -2622,7 +3133,10 @@ Kupkupin sa lilim ng Iyong pangangalaga, O Ikaw na Espiritu ng kadalisayan, O ik
 
 
 
-### <a id="bpn4522"></a> Prayer bpn4522 in Filipino
+
+
+<a id="bpn4522"></a> 
+### Prayer bpn4522 in Filipino
 O Panginoon ko, aking Mahal, aking Hangarin! Kaibiganin Mo ako sa aking pangungulila at samahan Mo ako sa aking pagkakatapon; pawiin ang aking kalungkutan, loobing ako’y maging matapat sa Iyong kagandahan, ilayo ako sa lahat maliban sa Iyo, akitin ako sa pamamagitan ng mga kabanguhan ng Iyong kabanalan, loobing ako’y mapasama sa Iyong Kaharian kabilang ng mga nahiwalay sa lahat maliban sa Iyo, at nagsisipagnais na maglingkod sa Iyong banal na pintuan at nakahandang gumawa ukol sa Iyong Kapakanan. Tulutan Mong ako ay maging isa sa Iyong mga babaeng tagapaglingkod na natamo na ang Iyong mabuting kasiyahan. Tunay na ikaw ay ang Mapagbigay-biyaya, ang Magandang loob!
 
 (Source category: Tulong Sa Mga Pagsubok)
@@ -2632,9 +3146,13 @@ O Panginoon ko, aking Mahal, aking Hangarin! Kaibiganin Mo ako sa aking pangungu
 
 
 
+
+
+<a id="Umaga"></a> 
 ## Umaga
 
-### <a id="bpn4523"></a> Prayer bpn4523 in Filipino
+<a id="bpn4523"></a> 
+### Prayer bpn4523 in Filipino
 O aking Diyos at aking Panginoon! Ako ay Iyong tagapaglingkod at anak ng Iyong tagapaglingkod. Nagbangon ako buhat sa aking higaan sa madaling araw na ito na ang Araw-Bituin ng Iyong kaisahan ay sumikat na buhat sa Pamimitak ng Iyong kalooban, at nagsasabog na ng kaniyang ningning sa buong daigdig, ayon sa iniatas sa mga Aklat ng Iyong Kautusan.
 
 Purihin Ka, O aking Diyos, sa pagkagising namin sa mga karingalan ng liwanag ng Iyong kaalaman. Ihulog Mo, kung gayon, sa amin, O aking Panginoon, ang anumang magpapahintulot sa lahat ng pagkaka-ugnay namin sa alin man liban sa Iyo. Isulat Mo rin para sa akin, at para sa aking mga mahal, at para sa aking mga kaanak, lalaki at babae man, ang kabutihan ng daigdig na ito at ng daigdig na darating. Sa pamamagitan ng Iyong walang maliw na pangangalaga, O Ikaw na Minamahal ng lahat ng nilalang at Hangarin ng buong sansinukob, panatilihin Mo kaming ligtas sa kanila na ginawa Mong maging tagapagpahayag ng Masamang Manunulsol na bumubulong sa mga dibdib ng mga tao. May kakayahan Kang gumawa ng Iyong ikinasisiya. Tunay na Ikaw ang Makapangyarihan sa Lahat, ang tulong sa Panganib, ang Sariling-Ganap. 
@@ -2649,7 +3167,10 @@ Tunay na Ikaw ang Panginoon at Hari ng lahat ng tao, at makapangyarihan sa lahat
 
 
 
-### <a id="bpn4524"></a> Prayer bpn4524 in Filipino
+
+
+<a id="bpn4524"></a> 
+### Prayer bpn4524 in Filipino
 Nagising ako sa Iyong kanlungan, O aking Diyos, at marapat sa kaniyang naghahanap ng kanlungan na ito na Manahan sa loob na Santuwaryo ng Iyong pangangalaga at sa Kuta ng Iyong pagtatanggol. Tanglawan ang aking panloob na sarili, O aking Panginoon, ng mga karingalan ng Pamimitak ng Iyong Kapahayagan, gaya rin ng Iyong pagkakatanglaw sa aking panlabas na katauhan sa pamamagitan ng ilaw sa umaga ng Iyong pagtatangkilik.
 
 (Source category: Umaga)
@@ -2658,7 +3179,10 @@ Nagising ako sa Iyong kanlungan, O aking Diyos, at marapat sa kaniyang naghahana
 
 
 
-### <a id="bpn4525"></a> Prayer bpn4525 in Filipino
+
+
+<a id="bpn4525"></a> 
+### Prayer bpn4525 in Filipino
 Nagbangon ako ngayong umaga sa Iyong biyaya, O aking Diyos, at nilisan ang aking tahanan nang ganap na nagtitiwala sa Iyo, at inilalagak ang aking sarili sa Iyong pangangalaga. Ipagkaloob kung gayon, sa akin buhat sa langit ng Iyong kahabagan ang isang pagpapala buhat sa Iyong panig at pahintulutan Mong makauwi ako ng ligtas sa aking tahanan tulad na pagkapahintulot mong lumabas na nasa ilalim ng Iyong pangangalaga nang ang mga kaisipan ay matatag na nakaukol sa Iyo.
 
 Walang iba pang Diyos liban sa Iyo, ang Iisa, ang Walang Kahambing, ang Nakababatid ng Lahat, ang Marunong sa Lahat.
@@ -2669,7 +3193,10 @@ Walang iba pang Diyos liban sa Iyo, ang Iisa, ang Walang Kahambing, ang Nakababa
 
 
 
-### <a id="bpn4526"></a> Prayer bpn4526 in Filipino
+
+
+<a id="bpn4526"></a> 
+### Prayer bpn4526 in Filipino
 Nagbibigay-puri ako sa Iyo, O aking Diyos, sapagkat ginising Mo ako buhat sa aking pagkakatulog at ibinalik Mo ako pagkaraan ng aking pagkawala, at ibinangon Mo ako buhat sa pagkakahimlay. Nagising ako ngayong umaga nang ang aking mukha ay nakaharap sa mga ningning ng Araw-Bituin ng Iyong Kapahayagan, na sa pamamagitan Niyon ay natatanglawan ang mga langit ng Iyong lakas at ng Iyong kamahalan, kumikilala sa Iyong mga tanda, naniniwala sa Iyong Aklat, at nangangapit sa Iyong Kuldon.
 
 Isinasamo ko sa Iyo, sa bisa ng Iyong kalooban at sa nag-aatas na lakas ng Iyong layunin, na ang ipinahayag Mo sa akin sa aking pagtulog ay gawin Mong pinakatiyak na saligan ng mga gusali ng Iyong pag-ibig na nasa loob ng mga puso ng Iyong mga minamahal, at pinakamabuting kasangkapan para sa pagpapahayag ng mga sagisag ng Iyong biyaya at ng Iyong mapagmahal na kahabagan.
@@ -2682,6 +3209,8 @@ Hindi Mo binibigo ang sinumang naghahanap sa Iyo, ni hindi Mo hinahadlangan sa I
 
 (Source category: Umaga)
 (Bahaiprayers.net ID: 4526)
+
+
 
 
 

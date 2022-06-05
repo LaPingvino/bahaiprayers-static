@@ -9,9 +9,11 @@ tags = ['lang=ga', 'prayerbook']
 
 
 
+<a id="General"></a> 
 ## General
 
-### <a id="bpn6016"></a> Prayer bpn6016 in Irish
+<a id="bpn6016"></a> 
+### Prayer bpn6016 in Irish
 ##Blessed is the Spot
 
 Is beannaithe an ball, agus an teach,
@@ -29,7 +31,10 @@ agus inar móradh a ghlóir.
 
 
 
-### <a id="bpn6015"></a> Prayer bpn6015 in Irish
+
+
+<a id="bpn6015"></a> 
+### Prayer bpn6015 in Irish
 ##Remover of Difficulties 
 
 An bhfuil aon duine chun fadhbanna a réiteach ach Dia amháin! 
@@ -37,6 +42,8 @@ Abair, 'Moladh le Dia! Is é Dia é!  Is seirbhíseach leis cách, agus leanann 
 
 (Source category: General)
 (Bahaiprayers.net ID: 6015)
+
+
 
 
 

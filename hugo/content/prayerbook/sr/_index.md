@@ -69,9 +69,11 @@ tags = ['lang=sr', 'prayerbook']
 
 
 
+<a id="AHMEDOVA TABLICA"></a> 
 ## AHMEDOVA TABLICA
 
-### <a id="bpn10795"></a> Prayer bpn10795 in Srpski српски
+<a id="bpn10795"></a> 
+### Prayer bpn10795 in Srpski српски
 *"Ovim svakodnevnim obaveznim molitvama, uz nekoliko drugih, posebnih, kao što su Molitva Isceljenja i Ahmedova Tablica, Bahá'u'lláh je pridao izuzetan značaj i dejstvo, i njih zato treba tako i prihvatiti. Vernici treba da ih deklamuju bez sumnje i sa ubeđenjem, da bi kroz njih doživeli mnogo prisniju vezu s Bogom, i poistovetili se u većoj meri s Njegovim zakonima i odredbama."
 				                                                       
 *Šogi Efendi
@@ -118,9 +120,13 @@ Odista, On je Milosrdni, Saosećajni. Slava Bogu, Gospodu svih svetova.
 
 
 
+
+
+<a id="BRAK"></a> 
 ## BRAK
 
-### <a id="bpn10734"></a> Prayer bpn10734 in Srpski српски
+<a id="bpn10734"></a> 
+### Prayer bpn10734 in Srpski српски
 *Mlada i mladoženja, svaki za sebe, izgovaraju sledeći stih kao bračnu zakletvu u prisustvu najmanje dva svedoka odobrenih od strane Duhovne skupštine, kao što je utvrđeno u Kitabi Akdasu (Najsvetijoj knjizi):
 
 *˝ Mi ćemo se, uistinu, svi pokoravati Volji Božijoj.˝
@@ -137,9 +143,13 @@ Uistinu, Ti si Velikodušni. Vaistinu, Ti si Svemogući. Doista, Ti si Saosećaj
 
 
 
+
+
+<a id="DECA"></a> 
 ## DECA
 
-### <a id="bpn10735"></a> Prayer bpn10735 in Srpski српски
+<a id="bpn10735"></a> 
+### Prayer bpn10735 in Srpski српски
 O Bože, vodi me, zaštiti me, načini od mene blistavu svetiljku i sjajnu zvezdu. Ti si Silan i Moćan.
 
 (Source category: DECA)
@@ -148,7 +158,10 @@ O Bože, vodi me, zaštiti me, načini od mene blistavu svetiljku i sjajnu zvezd
 
 
 
-### <a id="bpn10736"></a> Prayer bpn10736 in Srpski српски
+
+
+<a id="bpn10736"></a> 
+### Prayer bpn10736 in Srpski српски
 O dobri Gospode! Ova divna deca su rukotvorina koju su ispleli prsti Tvoje sile, i čudesni znaci Tvoje veličine. O Bože! Zaštiti ovu decu, milostivo pomozi da dobiju obrazovanje i osposobi ih da služe čovečanstvu. O Bože! Ova su deca biseri, neka budu odgajana u školjki Tvoje ljubavi i dobrote.
 
 Ti si Darežljivi, Koji Sve Voliš.
@@ -159,7 +172,10 @@ Ti si Darežljivi, Koji Sve Voliš.
 
 
 
-### <a id="bpn10737"></a> Prayer bpn10737 in Srpski српски
+
+
+<a id="bpn10737"></a> 
+### Prayer bpn10737 in Srpski српски
 O Ti dobri Gospode! Sa horizonta nezavisnosti doneo si duše, koje poput sjajnog meseca obasjaše prostore srca i duše, i slobodne od atributa sveta postojanja pohitaše ka carstvu besmrtnosti. Kapima okeana Svoje ljubavi kvasio bi često vrtove njihovih srca sve dok ne bi zadobili neuporedivu svežinu i lepotu. Sveti dah Tvog božanskog jedinstva širio se nadaleko, sipajući svoju slast po celom svetu, opojnim mirisom ispunjavajući predele zemaljske.
 
 Podigni onda, O duhu Čistote, duše koje će poput tih posvećenih bića postati slobodne i čiste, ukrasiti svet bivstvovanja odorom novom i čudesnim odelom, koje neće tražiti ništa osim Tebe, niti koračati stazom drugom osim one koja je po Tvojoj volji, niti zboriti išta osim tajanstava Tvoje Vere.
@@ -173,9 +189,13 @@ O Ti dobri Gospode! Učini da ovaj mladić stigne do onoga što je najviša aspi
 
 
 
+
+
+<a id="DUGAČKA  OBAVEZNA  MOLITVA"></a> 
 ## DUGAČKA  OBAVEZNA  MOLITVA
 
-### <a id="bpn10791"></a> Prayer bpn10791 in Srpski српски
+<a id="bpn10791"></a> 
+### Prayer bpn10791 in Srpski српски
 *DA  SE  DEKLAMUJE  JEDNOM  U  DVADESET-ČETIRI  SATA 
 
 
@@ -246,9 +266,13 @@ Svedočim, O moj Bože, onome čemu su svedočili Tvoji Izabrani, i potvrđujem 
 
 
 
+
+
+<a id="DUGAČKA MOLITVA ISCELJENJA"></a> 
 ## DUGAČKA MOLITVA ISCELJENJA
 
-### <a id="bpn10798"></a> Prayer bpn10798 in Srpski српски
+<a id="bpn10798"></a> 
+### Prayer bpn10798 in Srpski српски
 On je Iscelitelj, Udovoljitelj, Pomagač, Svepraštajući, Svemilosrdni.
 
 Prizvam Tebe O Uzvišeni, O Verni, O Slavni!
@@ -384,9 +408,13 @@ Vaistinu Ti si Moćni, Svedovoljni, Isceljujući, Zaštitnik, Darivajući, Saose
 
 
 
+
+
+<a id="DUHOVNA SKUPŠTINA"></a> 
 ## DUHOVNA SKUPŠTINA
 
-### <a id="bpn10746"></a> Prayer bpn10746 in Srpski српски
+<a id="bpn10746"></a> 
+### Prayer bpn10746 in Srpski српски
 *Kadagod uđete u salu za savetovanje, izgovorite ovu molitvu srcem koje bije ljubavlju prema Bogu i jezikom pročišćenim od svega osim Njegovog pomena, kako bi vam Svemoćni milostivo pomogao da ostvarite vrhunsku pobedu.
 
 O, Ti, Gospode Kraljevstva! Dok su naša tela okupljena ovde, naša očarana srca, pak, uznesena su ljubavlju Tvojom, a mi smo nošeni zracima sjaja Tvoga blještavog lika. Iako smo slabi, iščekujemo otkrovenja Tvoje moći i snage. Iako smo siromašni , bez dobara i sredstava, ipak uzimamo blago iz riznice Tvoga Kraljevstva. Iako smo samo kapi, ipak crpemo iz dubina Tvoga Okeana. Iako smo samo čestice, ipak blistamo u slavi Tvoga divotnog Sunca.
@@ -400,9 +428,13 @@ O, Ti Opskrbitelju naš! Pošalji nam pomoć Svoju, da svako od nas ovde okuplje
 
 
 
+
+
+<a id="DUHOVNA SNAGA"></a> 
 ## DUHOVNA SNAGA
 
-### <a id="bpn10747"></a> Prayer bpn10747 in Srpski српски
+<a id="bpn10747"></a> 
+### Prayer bpn10747 in Srpski српски
 U mnogim se sleđenim srcima, O moj Bože, razbuktala vatra Tvoje Vere, i mnoge usnule probudi umilni zvuk Tvog  glasa. Koliko li je neznanaca koji  potražiše utočište u hladu drveta Tvog jedinstva, i kako su brojni žedni koji izgaraše za izvorištem Tvojih živih voda u danima Tvojim!
 
 Blago onome ko se usmeri ka Tebi, i pohita da stigne do Svanuća svetlosti Tvoga lica.
@@ -421,7 +453,10 @@ Tvoja je sila, uistinu, ravna svim stvarima.
 
 
 
-### <a id="bpn10748"></a> Prayer bpn10748 in Srpski српски
+
+
+<a id="bpn10748"></a> 
+### Prayer bpn10748 in Srpski српски
 O Gospode! Tebi se obraćam za utočište, i ka svim Tvojim znacima usmeravam srce.
 O Gospode! Na putu ili u svom domu, zauzet svojim zanimanjem ili radom, svu veru polažem u Tebe.
 Pruži mi zato dovoljno pomoći, tako da budem nezavistan od svih stvari,   O Ti čija je milost nenadmašna!
@@ -434,7 +469,10 @@ Tvoja je vladavina neprikosnovena.
 
 
 
-### <a id="bpn10749"></a> Prayer bpn10749 in Srpski српски
+
+
+<a id="bpn10749"></a> 
+### Prayer bpn10749 in Srpski српски
 Učvrsti nam korake, O Gospode, na Tvojoj stazi i osnaži nam srca u poslušnosti Tebi. Upravi nam lica ka Lepoti Tvoje jedinstvenosti i razgali nam grudi nagoveštajima Tvog Božanskog Zajedništva. Ukrasi nam tela ruhom svoje darežljivosti, ukloni s naših očiju koprenu greha i pruži nam pehar Svoje milosti; da suština svih bića može da Ti peva hvalospeve, zagledana u viziju Tvoje veličine. Ukaži se, dakle, O Gospode, milostivom porukom i tajanstvom Svog Božanskog Bića, da nam se duše ispune svetim ushitom molitve – molitve, koja će se uzdići iznad reči i slova i prevazići žamor slogova i glasova – tako da se sve stvari sliju u ništavilo pred otkrovenjem Tvog sjaja.
 
 Gospode! Ovde su sluge koje su ostale čvrste i nepokolebljive u ispunjavanju Tvog Zaveta i Tvoje Volje, koje su se čvrsto držale za uže postojanosti težeći Tvome Cilju, i prionule uz skute Tvoje veličine. Pomozi im, O Gospode, milošću svojom, osnaži ih svojom silom i pripremi ih za napore u pokornoj službi Tebi.
@@ -447,9 +485,13 @@ Ti si Onaj Koji prašta, Milostivi.
 
 
 
+
+
+<a id="DUHOVNE OSOBINE"></a> 
 ## DUHOVNE OSOBINE
 
-### <a id="bpn10738"></a> Prayer bpn10738 in Srpski српски
+<a id="bpn10738"></a> 
+### Prayer bpn10738 in Srpski српски
 Stvori u meni čisto srce, O moj Bože, i obnovi mi mirnu savest, O moja Nado! Osnaži me svojim moćnim duhom da služim Tvom Cilju, O moj Najvoljeniji, i veličanstvenim svetlom mi razotkri Svoju stazu, O Ti za kojim čeznem! Nenadmašnom silom uzdigni me u nebesa gde vlada Tvoja svetost, O Izvorištu mog bića, i razgali me lahorom koji dopire iz Tvoje večnosti, O Ti Koji si moj Bog! Neka me Tvoje neprekidne melodije ispune spokojem, O moj Sadruže, i neka me raskošna lepota Tvog drevnog lika izbavi od svega i veže samo za Tebe, O moj Učitelju, i neka mi vest o otkrovenju Tvoje nepromenljive Suštine donese radost, O Ti Koji si najočevidniji i najskriveniji!
 
 (Source category: DUHOVNE OSOBINE)
@@ -458,7 +500,10 @@ Stvori u meni čisto srce, O moj Bože, i obnovi mi mirnu savest, O moja Nado! O
 
 
 
-### <a id="bpn10739"></a> Prayer bpn10739 in Srpski српски
+
+
+<a id="bpn10739"></a> 
+### Prayer bpn10739 in Srpski српски
 O moj Gospode! Daj da se hranim Tvojom lepotom, i da se napojim Tvojim prisustvom, da se nadam da Ti udovoljim, da moja dela zavrede Tvoju hvalu, da mi pomen na Tebe bude sadrug, Tvoje silno carstvo pomoć, i Tvoj stan moje prebivalište, i da mi dom bude ono sedište koje si Ti uzvisio, nedosežno onima koji kao da su velom odeljeni od tebe.
 
 Ti si, odista, Svemoćni, Najdivniji, Najmoćniji.
@@ -469,7 +514,10 @@ Ti si, odista, Svemoćni, Najdivniji, Najmoćniji.
 
 
 
-### <a id="bpn10740"></a> Prayer bpn10740 in Srpski српски
+
+
+<a id="bpn10740"></a> 
+### Prayer bpn10740 in Srpski српски
 Daj da se napojim na miomirisnim potocima Tvoje večnosti , O moj Bože, i dopusti da kušam plodove sa drveta Tvog bivstvovanja, O moja Nado! 
 Sa kristalno čistih izvora Tvoje ljubavi dozvoli mi da ispijam, O Veličanstveni, i da boravim pod senkom Tvog večnog proviđenja, O moja Svetlosti! 
 Da lutam po livadama koje su Tebi blizu, u Tvom prisustvu, O moj Voljeni, i da sedim s desne strane Tvog milosrdnog trona, O moja Žudnjo! Neka mirisni lahori Tvoje radosti dopru i do mene, O moje Odredište, i dopusti da se vinem u raj koji je Tvoja stvarnost, O moj Obožavani! 
@@ -487,7 +535,10 @@ Ti imaš Moć da činiš šta Ti se svidi. Ti si, odista, Najuzvišeniji, Najsla
 
 
 
-### <a id="bpn10741"></a> Prayer bpn10741 in Srpski српски
+
+
+<a id="bpn10741"></a> 
+### Prayer bpn10741 in Srpski српски
 O Bože! Osveži mi i razgali dušu. Očisti mi srce. Prosvetli me da spoznam svoje moći. Sve svoje poslove polažem u Tvoje ruke. Ti si mi Vodič i Utočište. Više neću biti nesrećan i pun jada; bivstvovaću u zadovoljstvu i sreći. O Bože! Više neću biti pun nemira, niti ću dopustiti da me muče brige. Neću biti zaokupljen neprijatnim stvarima u životu.
 
 O Bože! Ti si mi veći prijatelj no što sam ja samome sebi. Posvećujem se Tebi, O Gospode.
@@ -498,7 +549,10 @@ O Bože! Ti si mi veći prijatelj no što sam ja samome sebi. Posvećujem se Teb
 
 
 
-### <a id="bpn10742"></a> Prayer bpn10742 in Srpski српски
+
+
+<a id="bpn10742"></a> 
+### Prayer bpn10742 in Srpski српски
 O moj Gospode, Voljeni moj, moja Žudnjo! Budi mi prijatelj u samoći i sadrug u izgnanstvu. Ukloni moju tugu. Uputi me kako da se posvetim Tvojoj lepoti. Da se povučem od svega i okrenem samo Tebi. Primami me  mirisima svetosti. Omogući mi da se u Tvom Carstvu povežem sa onima koji su se odrekli svega sem Tebe, koji čeznu da Ti služe na Tvom svetom pragu i koji rade na ostvarenju Tvog Cilja. Omogući mi da budem jedna od Tvojih sluškinja, koje su uspele da izvrše Tvoju volju. 
 Uistinu, Ti si Milosrdni, Velikodušni.
 
@@ -508,7 +562,10 @@ Uistinu, Ti si Milosrdni, Velikodušni.
 
 
 
-### <a id="bpn10743"></a> Prayer bpn10743 in Srpski српски
+
+
+<a id="bpn10743"></a> 
+### Prayer bpn10743 in Srpski српски
 O Samilosni Bože! Hvala Ti što si me probudio i osvestio. Podario si mi oči koje vide i uši koje čuju; poveo si me do Svog Carstva i usmerio me ka Tvojoj Stazi. Pokazao si mi ispravan put i uveo me u Barku Izbavljenja. O Bože! Daj da budem postojan i čvrst u veri. Zaštiti me od nasilnih iskušenja, zakloni me i sačuvaj iza čvrstih bedema u tvrđavi Tvog Zaveta i Tvoje Oporuke. Ti si Silan. Ti sve vidiš. Ti sve čuješ.
 
 O Ti Samilosni Bože! Podari mi srce u koje, kao kroz prozirno staklo, može da prodre svetlost Tvoje ljubavi, i pokloni mi misli koje ovaj svet mogu da preobrate u vrt ruža putem izliva nebeske milosti.
@@ -520,7 +577,10 @@ Ti si Saosećajni, Milosrdni. Ti si Veliki Blagorodni Bog.
 
 
 
-### <a id="bpn10744"></a> Prayer bpn10744 in Srpski српски
+
+
+<a id="bpn10744"></a> 
+### Prayer bpn10744 in Srpski српски
 O Bože! O Bože! Evo jedne ptice slomljenog krila čiji je let veoma spor – pomozi joj, da može da se vine ka vrhuncima blagostanja i spasenja, da na krilima stigne do nepomućene radosti i sreće, leteći kroz neograničen prostor. Neka se njen poj, posvećen Tvom Višnjem Imenu, zaori na sve strane, neka donese ushit svima koji čuju taj poziv, i neka zasijaju oči svima koji ugledaju putokaze!
 
 O Gospode! Ja sam bez ikog, usamljen i bedan. Nema za mene druge potpore sem Tebe, nijednog pomoćnika osim Tebe, niti druge podrške osim Tvoje. Daj da Ti služim s čvrstom verom, da uspešno širim Tvoju reč i propovedam Tvoju mudrost među onima koje si stvorio. Uistinu, Ti si pomoć slabima i odbrana nejakima, i zaista si Silni, Moćni, Neograničeni!
@@ -531,7 +591,10 @@ O Gospode! Ja sam bez ikog, usamljen i bedan. Nema za mene druge potpore sem Teb
 
 
 
-### <a id="bpn10745"></a> Prayer bpn10745 in Srpski српски
+
+
+<a id="bpn10745"></a> 
+### Prayer bpn10745 in Srpski српски
 O moj Bože, pomozi svom slugi da uzdigne Reč, i da odbaci svaku taštinu i laž, da ustanovi istinu, da širom sveta prenosi svete stihove, otkriva divote, i da podstakne buđenje jutarnje svetlosti u srcima pravednika.
 Ti si, zaista, Velikodušni, Onaj Koji prašta.
 
@@ -542,9 +605,13 @@ Ti si, zaista, Velikodušni, Onaj Koji prašta.
 
 
 
+
+
+<a id="ISCELJENJE"></a> 
 ## ISCELJENJE
 
-### <a id="bpn10750"></a> Prayer bpn10750 in Srpski српски
+<a id="bpn10750"></a> 
+### Prayer bpn10750 in Srpski српски
 O Bože, moj Bože! Zaklinjem te, Okeanom Tvojih isceliteljskih moći, i sjajnom zvezdom Danicom Tvog milosrđa, i Tvojim Imenom kojem se pokoravaju Tvoje sluge, i sveprožimajućom snagom Tvoje najuzvišenije Reči, i silom Tvog najdivnijeg Pera, i Tvojom milošću, koja je prethodila stvaranju svega što obitava na nebu i na zemlji, pročisti me vodom svoje dobrote, speri sa mene svaku nesreću i bolest, svaku slabost i nemoć.
 
 Ti vidiš, O moj Gospode, molioca koji čeka pred vratima Tvoje darežljivosti, onoga koji je svu svoju nadu položio u Tebe, držeći se za uže Tvoje plemenitosti. Preklinjem Te da mu ne uskratiš ono što traži od Okeana Tvoje milosti i od zvezde Danice Tvog saosećanja.
@@ -557,7 +624,10 @@ Ti imaš moć da činiš šta god poželiš. Nema drugog Boga osim Tebe, Koji Sv
 
 
 
-### <a id="bpn10751"></a> Prayer bpn10751 in Srpski српски
+
+
+<a id="bpn10751"></a> 
+### Prayer bpn10751 in Srpski српски
 Tvoje me ime isceljuje, O moj Bože, i pomen na Tebe me leči. Tvoja blizina je meni uzdanje, i ljubav prema Tebi moj je sadrug. Milost koju mi ukazuješ je moje ozdravljenje i potpora u ovom i u narednom svetu. Ti si, uistinu, Najvelikodušniji, Sveznajući, Najmudriji.
 
 (Source category: ISCELJENJE)
@@ -567,9 +637,13 @@ Tvoje me ime isceljuje, O moj Bože, i pomen na Tebe me leči. Tvoja blizina je 
 
 
 
+
+
+<a id="JEDINSTVO"></a> 
 ## JEDINSTVO
 
-### <a id="bpn10753"></a> Prayer bpn10753 in Srpski српски
+<a id="bpn10753"></a> 
+### Prayer bpn10753 in Srpski српски
 Neka Bog dâ da svetlost jedinstva obavije čitavu planetu, i da se pečat, "Ovo je Carstvo Božije", utisne na čelo svih naroda.
 
 (Source category: JEDINSTVO)
@@ -578,7 +652,10 @@ Neka Bog dâ da svetlost jedinstva obavije čitavu planetu, i da se pečat, "Ovo
 
 
 
-### <a id="bpn10752"></a> Prayer bpn10752 in Srpski српски
+
+
+<a id="bpn10752"></a> 
+### Prayer bpn10752 in Srpski српски
 O moj Bože! O moj Bože! Sjedini srca Svojih slugu, i otkri im Svoju veliku nameru. Neka slede Tvoje zapovesti i drže se Tvog zakona. Pomozi im, o Bože, u njihovom pregalaštvu, i daj im snage da Te služe. O Bože! Ne prepuštaj ih samima sebi. Neka im svetlost Tvog znanja vodi korake, obraduj im srca Svojom ljubavlju. Uistinu , Ti si im Pomagalac i Gospod.
 
 (Source category: JEDINSTVO)
@@ -587,7 +664,10 @@ O moj Bože! O moj Bože! Sjedini srca Svojih slugu, i otkri im Svoju veliku nam
 
 
 
-### <a id="bpn10754"></a> Prayer bpn10754 in Srpski српски
+
+
+<a id="bpn10754"></a> 
+### Prayer bpn10754 in Srpski српски
 O Ti dobri Gospode! Ti si sazdao čitavo čovečanstvo od iste loze. Ti si naložio da svi treba da pripadaju jednoj porodici. U Tvom Svetom Prisustvu svi su Tvoje sluge, i čitav ljudski rod nalazi utočište u Tvom Svetilištu; svi su se okupili oko Tvoje Izdašne Trpeze; svi su obasjani svetlom Tvog Proviđenja.
 O Bože! Ti si dobar prema svima, sve opskrbljuješ, svima pružaš sklonište, svima darivaš život. Ti si svakog ponaosob obdario talentima i sposobnostima, i svi su zagnjureni u Okean Tvoje Milosti.
 O Ti dobri Gospode! Ujedini sve. Neka se religije usaglase i neka sve nacije postanu jedno, da mogu da sagledaju jedni druge kao jednu porodicu, i čitavu planetu kao jedan dom. Da svi žive zajedno u savršenom skladu.
@@ -603,7 +683,10 @@ Ti si Silni i Moćni, Ti si Onaj Koji prašta i Onaj Koji prelazi preko mana či
 
 
 
-### <a id="bpn10755"></a> Prayer bpn10755 in Srpski српски
+
+
+<a id="bpn10755"></a> 
+### Prayer bpn10755 in Srpski српски
 O Bože! Mi smo slabi; daj nam snage. Siromašni smo; podari nam Svoje neizmerno blago. Bolesni smo; pošalji nam Svoje božansko isceljenje. Nemoćni smo; daj nam udeo Svoje nebeske moći. O Gospode! Omogući nam da budemo od koristi u ovom svetu; oslobodi nas sebičnosti i žudnje. O Gospode! Podrži nas svojom ljubavlju i uputi nas kako da volimo čitavo čovečanstvo. Osnaži nas u službi ljudima širom sveta, da budemo sluge Tvojih slugu, da možemo da volimo sva Tvoja stvorenja i osetimo saosećanje za sve Tvoje narode. O Gospode! Ti si Svemoćni! Ti si Milosrdni! Ti si Onaj koji prašta! Ti si Svemogući.
 
 (Source category: JEDINSTVO)
@@ -612,7 +695,10 @@ O Bože! Mi smo slabi; daj nam snage. Siromašni smo; podari nam Svoje neizmerno
 
 
 
-### <a id="bpn10756"></a> Prayer bpn10756 in Srpski српски
+
+
+<a id="bpn10756"></a> 
+### Prayer bpn10756 in Srpski српски
 O Bože! Uistinu smo se okupili ovde gde se širi miris Tvoje ljubavi. Okrenuli smo se ka Tvom carstvu. Ne treba nam ništa osim Tebe i ne žudimo ni za čim drugim osim da udovoljimo Tvojoj dobroti. O Bože! Neka ova hrana bude Tvoja mana sa nebesa i neka ovo okupljanje bude zbor Tvojih vrhovnika. Neka oni prouzrokuju da oživi ljubav u svim ljudima i neka budu izvorište prosvetljenja za ljudsku rasu. Neka budu alatke Tvog vođstva na zemlji. Odista, Ti si Moćan, Ti si Darodavac, Ti si Onaj koji prašta, i Ti si Svemogući!
 
 (Source category: JEDINSTVO)
@@ -622,9 +708,13 @@ O Bože! Uistinu smo se okupili ovde gde se širi miris Tvoje ljubavi. Okrenuli 
 
 
 
+
+
+<a id="JUTRO"></a> 
 ## JUTRO
 
-### <a id="bpn10757"></a> Prayer bpn10757 in Srpski српски
+<a id="bpn10757"></a> 
+### Prayer bpn10757 in Srpski српски
 Probudio sam se u Tvom utočištu, O moj Bože, a priliči onome koji za tim utočištem čezne, da boravi u Svetilištu Tvoje zaštite i u Tvrđavi Tvoje odbrane. Prosvetli moje unutrašnje biće, O moj Gospode, raskošnim sjajem Svanuća Tvog Otkrovenja, baš kao što si blagonaklono obasjao moje telo jutarnjom svetlošću.
 
 (Source category: JUTRO)
@@ -634,9 +724,13 @@ Probudio sam se u Tvom utočištu, O moj Bože, a priliči onome koji za tim uto
 
 
 
+
+
+<a id="KRATKA OBAVEZNA MOLITVA"></a> 
 ## KRATKA OBAVEZNA MOLITVA
 
-### <a id="bpn10789"></a> Prayer bpn10789 in Srpski српски
+<a id="bpn10789"></a> 
+### Prayer bpn10789 in Srpski српски
 *Postoje  tri dnevne obavezne molitve…Vernik je slobodan da odabere bilo koju od ove tri molitve, ali je u obavezi da deklamuje jednu od njih u skladu sa uputstvima datim uz nju.
 
  
@@ -653,9 +747,13 @@ Nema Boga osim Tebe, Pomagača u nevolji, Samodovoljnog.
 
 
 
+
+
+<a id="MOLITVA  ZA  BALKAN"></a> 
 ## MOLITVA  ZA  BALKAN
 
-### <a id="bpn10733"></a> Prayer bpn10733 in Srpski српски
+<a id="bpn10733"></a> 
+### Prayer bpn10733 in Srpski српски
 O Ti Plemeniti, Svemogući , pred tronom milosrđa  preklinjemo Te za milost za naše grehe; milost za veliko uništenje života, za krv prolivenu na Balkanu, decu pretvorenu u siročad, majke koje izgubiše sinove, sinove koji ostaše bez očeva, gradove koji su uništeni, srca preplavljena krvlju, mnoge prolivene suze i mnoge uznemirene duhove! O Gospode budi milosti, ugasi taj duh rata, tu proždiruću vatru, taj užas, ukloni tu sumornu tminu sa lica zemlje. Poveži ova srca u zajedništvo. Neka sunce istine
 osvane za sve. O Gospode! Ovaj svet je mračan, vodi nas ka blistavoj svetlosti; vidik je zatamnjen oblacima rata, raznesi te neprozirne oblake. Podari nam svetost i smirenje; otkloni ove svađe; obasjaj horizont života tako da zraci sunca istinske odanosti mogu da zablistaju. Neka ova mračna srca budu prosvetljena, neka slepe oči progledaju, neka gluve uši budu obdarene sluhom. O Gospode, učini da se Tvoja božanska pravda pojavi na ovom svetu. Okupi ove ljude na gozbi međunarodnog mira, tako da mogu da žive zajedno u najvećoj ljubavi. Neka se sve religije i narodi zagrle u duhu sveopšte dobrote, i neka mržnja bude zaboravljena. O Gospode! Podrži pravednu vladu u uspostavljanju mira, tako da može visoko da podigne barjak pomirenja na Balkanu. Neka svetlo ljubavi sija i plamsa neukaljano.
  
@@ -668,9 +766,13 @@ O Gospode, Ti si Svemoguć, Ti si Milostiv, Ti si Blag, Ti si Dobar!
 
 
 
+
+
+<a id="NO  RUZ   (NOVA GODINA)"></a> 
 ## NO  RUZ   (NOVA GODINA)
 
-### <a id="bpn10793"></a> Prayer bpn10793 in Srpski српски
+<a id="bpn10793"></a> 
+### Prayer bpn10793 in Srpski српски
 Slavljen da si, O moj Bože, jer si odredio da No Ruz bude svetkovina onima koji su poštovali post iz ljubavi prema Tebi i uzdržavali se od svega Tebi gnusnog. Daj, O moj Gospode, da ih vatra Tvoje ljubavi i vrelina proistekla iz posta koji si Ti odredio, zapali u Veri Tvojoj, i učini da postanu zaokupljeni slavljenjem i spominjanjem Tebe.
 Ako si ih okitio, O moj Gospode, ukrasom posta koji si propisao, onda ih milošću i velikodušnošću Svojom obdari i ukrasom Tvoga prihvatanja. Jer dela ljudi sva zavise od Tvoje volje, i uslovljena su Tvojim nalogom. Budeš li Ti gledao na onoga koji prekrši post jednako kao i na onoga koji je post izvršio, takav čovek će se ubrajati među one koji se od pamtiveka pridržavaše posta. A budeš li odredio da je onaj koji je izvršio post isti kao i da ga je prekršio, ta osoba će se ubrajati među one koji prašinom ukaljaše Odoru Tvoga Otkrovenja, i biše udaljeni daleko od kristalnih voda ovog životvornog Izvora.
 Ti si Onaj Kojim je podignut znak ˝Slavljen da si Ti u delima Svojim˝ i razvijen barjak ˝Slušan si Ti u zapovesti Svojoj˝. Objavi ovaj položaj Tvoj slugama Svojim, O Bože moj, da bi postali svesni da izvrsnost svih stvari zavisi od Tvoje zapovesti i Tvoje reči, a da je vrlina svakog čina uslovljena Tvojim dopuštenjem i Tvojom dobrom voljom, i da bi priznali da su uzde svih dela ljudskih u rukama Tvog prihvatanja i Tvoje zapovesti. Učini da spoznaju ovo, da ih baš ništa ne bi moglo da ogradi od Tvoje Lepote, u danima u kojima Hrist kliče: ˝Sva vlast je Tvoja, O Ti Začetniče Duha (Isusa)˝; a Tvoj Prijatelj (Muhamed) uzvikuje: ˝Slava Tebi, O Najvoljeniji, jer si razotkrio Svoju Lepotu, i zapisao za Svoje izabranike ono što će ih dovesti do sedišta otkrovenja Tvog Najvećeg Imena, zbog kojega su jadikovali svi narodi osim onih koji se odvojiše od svega osim Tebe, i usmeriše se ka Onome Koji  je Objava Tebe i Otelovljenje Tvojih atributa.˝
@@ -684,9 +786,13 @@ Ti si, uistinu, Sveznajući, Svemudri.
 
 
 
+
+
+<a id="NOĆ"></a> 
 ## NOĆ
 
-### <a id="bpn10758"></a> Prayer bpn10758 in Srpski српски
+<a id="bpn10758"></a> 
+### Prayer bpn10758 in Srpski српски
 O moj Bože, moj Učitelju, Odredištu za kojim žudim! Ovaj Tvoj sluga čezne da zaspi u skloništu Tvoje milosti, i da otpočine ispod baldahina Tvoje božanske dobrote, preklinjući Te da se o njemu brineš i da ga zaštitiš.
 Molim Te, O moj Gospode, tako Ti Tvog oka koje ne spava, da čuvaš moje oči, da ne bi gledale ni u šta osim u Tebe. Izoštri mi, dakle, vid, da bi oči mogle da razaznaju Tvoje znake, i ugledaju Horizont Tvog Otkrovenja. Ti si Onaj pred kojim je sama srž energije zadrhtala, u trenucima kada se otkrivala Njegova svemoć.
 Nema drugog Boga osim Tebe, Svemogućeg, Koji sve pokoravaš, Bezuslovnog.
@@ -697,7 +803,10 @@ Nema drugog Boga osim Tebe, Svemogućeg, Koji sve pokoravaš, Bezuslovnog.
 
 
 
-### <a id="bpn10759"></a> Prayer bpn10759 in Srpski српски
+
+
+<a id="bpn10759"></a> 
+### Prayer bpn10759 in Srpski српски
 *"O Tragaoče za Istinom! Ako želiš da Bog otvori tvoje oko, moraš mu se obratiti, moliti se i savetovati se s Njim u ponoć, izgovarajući:" –
 
 O Gospode! Upravio sam lice prema Tvom Carstvu jedinstva i uronio sam u more Tvog milosrđa. O Gospode, prosvetli moj vid, da ugledam Tvoje svetiljke u ovoj tamnoj noći, i obraduj me vinom svoje ljubavi u ovo divno doba. O Gospode, pomozi mi da čujem Tvoj poziv, i otvori preda mnom vratnice svojih nebesa, da mogu da vidim svetlost Tvoje slave i da me očara Tvoja lepota.
@@ -711,9 +820,13 @@ Odista, Ti si Darodavac, Velikodušni, Milostivi, Onaj koji prašta.
 
 
 
+
+
+<a id="OPROŠTAJ"></a> 
 ## OPROŠTAJ
 
-### <a id="bpn10760"></a> Prayer bpn10760 in Srpski српски
+<a id="bpn10760"></a> 
+### Prayer bpn10760 in Srpski српски
 Ja sam onaj, O moj Gospode, koji je okrenuo lice ka Tebi, i utemeljio svoju nadu na Tvojoj čudesnoj milosti i otkrovenjima Tvoje dobrote. Molim Ti se da ne dozvoliš da odem razočaran sa praga Tvog milosrđa, i da me ne ostaviš na nemilost onima koje si Ti stvorio, a koji su odbacili Tvoj Cilj.
 Ja sam, O moj Bože, Tvoj sluga i sin Tvoga sluge. Prihvatio sam Tvoju istinu u Tvojim danima, i usmerio korake ka obalama Tvoje jednosti, priznajući Tvoju jedinstvenost, obznanjujući Tvoje jedinstvo, i nadajući se Tvom oprostu i pomilovanju. Ti imaš moć da činiš šta Ti je volja: nema  Boga osim Tebe, Veličanstvenog, Koji uvek prašta.
 
@@ -723,7 +836,10 @@ Ja sam, O moj Bože, Tvoj sluga i sin Tvoga sluge. Prihvatio sam Tvoju istinu u 
 
 
 
-### <a id="bpn10761"></a> Prayer bpn10761 in Srpski српски
+
+
+<a id="bpn10761"></a> 
+### Prayer bpn10761 in Srpski српски
 Hvalimo Te, O Gospode. Oprosti nam naše grehe, smiluj se na nas i pomozi nam da se vratimo Tebi. Ne daj da se oslonimo na ma šta drugo osim na Tebe, i udostoji nas, svojom dobrotom, onoga što Ti voliš i želiš i što Tebi dolikuje. Uzvisi one koji su uistinu verovali i daj im svoj milosrdni oproštaj.
 Ti si zaista Pomoć u Opasnosti, Samosvojni.
 
@@ -733,7 +849,10 @@ Ti si zaista Pomoć u Opasnosti, Samosvojni.
 
 
 
-### <a id="bpn10762"></a> Prayer bpn10762 in Srpski српски
+
+
+<a id="bpn10762"></a> 
+### Prayer bpn10762 in Srpski српски
 O, Ti milostivi Gospode! Ti si utočište za sve svoje sluge. Znaš tajne i svestan si svih stvari. Mi smo svi nemoćni, a Ti si Silni, Svemoćni. Mi smo svi grešnici, a Ti si Onaj Koji prašta grehe, Milosrdni, Saosećajni. O Gospode! Ne obaziri se na naše mane. Odnosi se prema nama u skladu sa svojom milošću i dobrotom. Naše su mane brojne, ali okean Tvog praštanja je bezgraničan. Naši su nedostatci ozbiljni, ali jasno vidimo dokaze Tvoje pomoći i potpore. Učvrsti nas zato i ojačaj. Pomozi nam da činimo dela vredna Tvog svetog Praga. Obasjaj nam srca, podari nam pronicljiv vid i prijemčivo uho. Vaskrsni mrtve i zaceli bolesne. Sirotima daj blago, a zastrašenima mir i sigurnost. Primi nas u svoje carstvo i obasjaj nas lučom vodiljom. Ti si Silni i Svemoćni. Ti si Darežljivi. Ti si Milosrdni. Ti si Plemeniti.
 
 (Source category: OPROŠTAJ)
@@ -743,9 +862,13 @@ O, Ti milostivi Gospode! Ti si utočište za sve svoje sluge. Znaš tajne i sves
 
 
 
+
+
+<a id="PODUČAVANJE"></a> 
 ## PODUČAVANJE
 
-### <a id="bpn10763"></a> Prayer bpn10763 in Srpski српски
+<a id="bpn10763"></a> 
+### Prayer bpn10763 in Srpski српски
 O Gospode! Osposobi sve narode na zemlji da zadobiju pristup Raju Tvoje Vere, tako da nijedno stvorenje ne ostane izvan granica Tvog odobrenja.
 Od pamtiveka si Ti bio moćan da činiš kako Ti je drago i natpojavan iznad svega što poželiš.
 
@@ -755,7 +878,10 @@ Od pamtiveka si Ti bio moćan da činiš kako Ti je drago i natpojavan iznad sve
 
 
 
-### <a id="bpn10764"></a> Prayer bpn10764 in Srpski српски
+
+
+<a id="bpn10764"></a> 
+### Prayer bpn10764 in Srpski српски
 O Gospode! Otvori vrata, daj sredstva, pripremi put, učini stazu bezbednom da budemo vođeni ka onim dušama čija su srca spremna za Tvoju Veru i da one budu vođene do nas. Uistinu, Ti si Milostivi, Najdarežljiviji, Svemoćni.
 
 (Source category: PODUČAVANJE)
@@ -765,9 +891,13 @@ O Gospode! Otvori vrata, daj sredstva, pripremi put, učini stazu bezbednom da b
 
 
 
+
+
+<a id="POMOĆ"></a> 
 ## POMOĆ
 
-### <a id="bpn10765"></a> Prayer bpn10765 in Srpski српски
+<a id="bpn10765"></a> 
+### Prayer bpn10765 in Srpski српски
 O moj Bože! Molim Te Tvojim najslavnijim imenom, da mi pomogneš u onim poduhvatima koji će omogućiti da Tvoje sluge budu uspešne, i da Tvoji gradovi cvetaju. Ti, uistinu, imaš moć nad svim stvarima!
 
 (Source category: POMOĆ)
@@ -776,7 +906,10 @@ O moj Bože! Molim Te Tvojim najslavnijim imenom, da mi pomogneš u onim poduhva
 
 
 
-### <a id="bpn10766"></a> Prayer bpn10766 in Srpski српски
+
+
+<a id="bpn10766"></a> 
+### Prayer bpn10766 in Srpski српски
 O Ti Čije je lice predmet mog obožavanja, Čija je lepota meni utočište, Čije je prebivalište moj cilj, Čijoj se pohvali nadam, Čije je proviđenje meni sadrug, Čija je ljubav uzrok mog postojanja, Čiji je pomen meni uteha, Čiju blizinu priželjkujem, Čije prisustvo je moja najdraža želja i najviše stremljenje, preklinjem Te da mi ne uskratiš ono što si odredio za izabranike među Svojim slugama. Opskrbi me, dakle, blagodetima ovog sveta i narednog.
 Ti si, uistini, Kralj svim ljudima. Nema nijednog Boga sem Tebe,  Svepraštajućeg, Najplemenitijeg.
 
@@ -786,7 +919,10 @@ Ti si, uistini, Kralj svim ljudima. Nema nijednog Boga sem Tebe,  Svepraštajuć
 
 
 
-### <a id="bpn10767"></a> Prayer bpn10767 in Srpski српски
+
+
+<a id="bpn10767"></a> 
+### Prayer bpn10767 in Srpski српски
 Gospode! Ništavni smo mi, podari nam naklonost Svoju; siroti smo, daruj nam deo Svog okeanskog bogatstva; nemamo šta nam treba, Ti nas zadovolji; uniženi smo, daj nam Svoju slavu. Ptice na nebu i zveri na polju svakoga dana primaju hranu od Tebe, i sva bića imaju udela u Tvojoj brizi i blagonaklonosti.
 
 Ne lišavaj ovog nejakog stvora Svoje čudotvorne milosti i tako Ti sile Tvoje, udostoji ovu bespomoćnu dušu Svoje darežljivosti.
@@ -799,7 +935,10 @@ Nahrani nas hlebom danas, i u životnim potrepštinama daj nam više, da ne zavi
 
 
 
-### <a id="bpn10768"></a> Prayer bpn10768 in Srpski српски
+
+
+<a id="bpn10768"></a> 
+### Prayer bpn10768 in Srpski српски
 Ne uklanjaj, O Gospode, prazničnu trpezu koja je razastrta u Tvoje Ime, i ne utrnjuj plamen koji je razgorela Tvoja neuništiva vatra. Ne zaustavljaj tok svoje žive vode, koja žubori pesmom Tvoje slave i Tvoga pomena, i ne lišavaj svoje sluge miomirisa Tvoje slatke hrane koja odiše dahom Tvoje ljubavi.
 
 Gospode! Preobrazi bolne brige svojih posvećenika u olakšanje, njihove patnje u utehu, njihova poniženja u slavu, njihovu tugu u blaženu radost, O Ti koji svojom rukom upravljaš čitavim ljudskim rodom!
@@ -812,9 +951,13 @@ Ti si, uistinu, Jedan, Jedini, Moćni, Sveznajući, Najmudriji.
 
 
 
+
+
+<a id="POST"></a> 
 ## POST
 
-### <a id="bpn10792"></a> Prayer bpn10792 in Srpski српски
+<a id="bpn10792"></a> 
+### Prayer bpn10792 in Srpski српски
 *Određeno je da Post bude jedanput godišnje i to tokom poslednjeg meseca bahajske godine, meseca Ala´(Uzvišenosti),od 2. do 20. marta.Za vreme tih 19 dana ne treba da se uzima bilo kakva hrana ili piće od izlaska do zalaska sunca.To je vreme molitve i duhovne obnove.Obično se tokom Posta praktikuje molitva u zoru.Osobe mlađe od 15 i starije od 70 godina,slabi i bolesni,trudnice kao i putnici su oslobođeni obaveze da poste.  
 
 
@@ -836,9 +979,13 @@ Nema Boga osim Tebe, Sveznajućeg, Svemudrog. Sva hvala neka je Bogu, Gospodu sv
 
 
 
+
+
+<a id="PUTOVANJE"></a> 
 ## PUTOVANJE
 
-### <a id="bpn10771"></a> Prayer bpn10771 in Srpski српски
+<a id="bpn10771"></a> 
+### Prayer bpn10771 in Srpski српски
 O Bože, moj Bože! Krenuo sam od kuće, držeći se čvrsto za uže Tvoje ljubavi, i potpuno sam se prepustio Tvojoj brizi i zaštiti. Tako Ti Tvoje sile, kojom si štitio svoje miljenike od zabludelih i izopačenih, i od svakog svojevoljnog tiranina, i od svakog grešnog vinovnika koji je zalutao i odaljio se od Tebe, da me svojom dobrotom i svojom milošću čuvaš. Svojom silom i moćima omogući mi, dakle, da se vratim kući. Ti si, uistinu, Svemoćni, Pomoć u Opasnosti, Samosvojni.
 
 (Source category: PUTOVANJE)
@@ -848,9 +995,13 @@ O Bože, moj Bože! Krenuo sam od kuće, držeći se čvrsto za uže Tvoje ljuba
 
 
 
+
+
+<a id="RODITELJI"></a> 
 ## RODITELJI
 
-### <a id="bpn10772"></a> Prayer bpn10772 in Srpski српски
+<a id="bpn10772"></a> 
+### Prayer bpn10772 in Srpski српски
 Ti vidiš, O Gospode, naše ruke uzdignute u molitvi ka nebu Tvoje blagonaklonost i darežljivost. Napuni bogatstvima Svoje izdašne dobrote i naklonosti. Oprosti nam, i oprosti našim očevima i majkama, i ispuni nam želje šta god da smo zatražili iz okeana Tvog milosrđa i Božanske velikodušnosti. Prihvati, O Voljeni, sva dela koja učinismo na Tvojoj stazi. Ti si, odista, Najsilniji, Najuzvišeniji, Neuporedivi, Jedinstveni, Onaj koji prašta, Milostivi.
 
 (Source category: RODITELJI)
@@ -860,9 +1011,13 @@ Ti vidiš, O Gospode, naše ruke uzdignute u molitvi ka nebu Tvoje blagonaklonos
 
 
 
+
+
+<a id="SLAVA BOGU"></a> 
 ## SLAVA BOGU
 
-### <a id="bpn10773"></a> Prayer bpn10773 in Srpski српски
+<a id="bpn10773"></a> 
+### Prayer bpn10773 in Srpski српски
 Sva slava, O moj Bože, pripada Tebi Koji si Izvor svega divnog i uzvišenog, veličine i časti, carstva i vladavine, dostojanstva i milosti, strahopoštovanja i moći. Koga god hoćeš, možeš privući u svoj Nepregledni Okean, i kome god želiš možeš dodeliti čast da prepozna Tvoje Najdrevnije Ime. Niko od onih koji obitavaju na nebesima i na zemlji, ne može se odupreti delovanju Tvoje vrhovne Volje. Od vajkada Ti vladaš svim stvorenim bićima, i nastavićeš zauvek da sprovodiš svoju vlast nad svime što postoji. Nema drugog Boga osim Tebe, Svemoćnog, Najuzvišenijeg, Najsilnijeg, Najmudrijeg.
 
 Ozari svetlom, O Gospode, lica svojih slugu, da mogu da Te ugledaju; pročisti im srca, da bi se okrenuli ka dvoru Tvoje nebeske dobrote, i prepoznali Onoga Ko je Manifestacija Tvog Jastva i Svanuće Tvoje Suštine. Odista, ti si Gospodar svih svetova. Nema drugog Boga osim Tebe, Neograničenog, Kome se svi pokoravaju.
@@ -874,9 +1029,13 @@ Ozari svetlom, O Gospode, lica svojih slugu, da mogu da Te ugledaju; pročisti i
 
 
 
+
+
+<a id="SREDNJA OBAVEZNA MOLITVA"></a> 
 ## SREDNJA OBAVEZNA MOLITVA
 
-### <a id="bpn10790"></a> Prayer bpn10790 in Srpski српски
+<a id="bpn10790"></a> 
+### Prayer bpn10790 in Srpski српски
 *TREBA  DA  SE  IZGOVARA  SVAKOG  DANA  UJUTRO, U  PODNE, I  UVEČE
 
 *Neka onaj koji želi da se moli opere ruke, i dok ih pere neka izgovori:
@@ -910,9 +1069,13 @@ Svedočim o Tvom jedinstvu i Tvojoj jedinstvenosti, da si Ti Bog, i da nema Boga
 
 
 
+
+
+<a id="SVETKOVINA  DEVETNAEST  DANA"></a> 
 ## SVETKOVINA  DEVETNAEST  DANA
 
-### <a id="bpn10774"></a> Prayer bpn10774 in Srpski српски
+<a id="bpn10774"></a> 
+### Prayer bpn10774 in Srpski српски
 *Obaveza vam je da održavate Svetkovinu jednom u svakom mesecu, pa makar da samo voda bude poslužena, Bog je uistinu namerio da zajedno okupi ljudska srca, pa makar to zahtevalo sva sredstva koja postoje na zemlji i na nebu.
                                                                  
  *(Kitabi Akdas)
@@ -942,9 +1105,13 @@ O Bože! Ukloni sve ono što je uzrok nesklada, i spremi za nas sve ono što je 
 
 
 
+
+
+<a id="TABLICA  POHOĐENJA"></a> 
 ## TABLICA  POHOĐENJA
 
-### <a id="bpn10797"></a> Prayer bpn10797 in Srpski српски
+<a id="bpn10797"></a> 
+### Prayer bpn10797 in Srpski српски
 *(Ova molitva se čita u Bahulahovom i u Babovom hramu. Obično se čita i prilikom obeležavanja godišnjica Njihovih rođenja i smrti.)
 
 
@@ -969,9 +1136,13 @@ Blagoslovi, O Gospode moj Bože, Božansko Drvo Lot, njegovo lišće i granje, i
 
 
 
+
+
+<a id="TABLICA  VATRE"></a> 
 ## TABLICA  VATRE
 
-### <a id="bpn10796"></a> Prayer bpn10796 in Srpski српски
+<a id="bpn10796"></a> 
+### Prayer bpn10796 in Srpski српски
 U ime Boga, Najdrevnijega, Najvećega.
 
 Doista srca iskrenih proždrta su vatrom razdvojenosti:
@@ -1127,9 +1298,13 @@ Budu li sve sluge čitale i promišljale ovo, u njihovim venama zaiskriće se va
 
 
 
+
+
+<a id="TABLICA REZVANA   (TABLICA RAJA)"></a> 
 ## TABLICA REZVANA   (TABLICA RAJA)
 
-### <a id="bpn10794"></a> Prayer bpn10794 in Srpski српски
+<a id="bpn10794"></a> 
+### Prayer bpn10794 in Srpski српски
 *(Odlomci)
 
 *Slavlje Rezvana (21. april – 2. maj) je komemoracija Objave Bahaulahove  Misije Njegovim sledbenicima. Bahaulah ga je proglasio za ˝Kralja svih Slavlja˝ i opisao ga u Kitabi Akdasu kao Dan ˝kada su sve stvorene stvari bile uronjene u more pročišćenja˝.
@@ -1163,9 +1338,13 @@ Tako opojno deluju reči Božije na Onoga Koji Objavljuje Njegove nepobitne doka
 
 
 
+
+
+<a id="TEŠKOĆE"></a> 
 ## TEŠKOĆE
 
-### <a id="bpn10775"></a> Prayer bpn10775 in Srpski српски
+<a id="bpn10775"></a> 
+### Prayer bpn10775 in Srpski српски
 Slavljen si Ti, O Gospode moj Bože! Svaki čovek koji je imao duhovni uvid priznaje Tvoju vrhovnu vlasti i Tvoje kraljevstvo, i svako pronicljivo oko opaža Tvoje veličanstvo i Tvoju neodoljivu silu. Vetrovi iskušenja ne mogu zadržati one koji uživaju u Tvojoj blizini, niti ih sprečiti da uprave lica ka horizontu Tvog sjaja. Bure koje ih stavljaju na probu neće uspeti da odvrate niti osujete one koji su potpuno posvećeni izvršenju Tvoje volje, i oni će stići do Tvog dvora.
 
 Nazirem svetiljku Tvoje ljubavi u njihovim srcima, i luču Tvoje nežnosti koja im obasjava grudi. Nedaće ih neće outđiti od Tvog Cilja, niti će zbog preokreta sudbine odustati od težnje da Te zadovolje.
@@ -1178,7 +1357,10 @@ Preklinjem Te, O moj Bože, u njihovo ime i zarad uzdaha koji im se otima iz gru
 
 
 
-### <a id="bpn10781"></a> Prayer bpn10781 in Srpski српски
+
+
+<a id="bpn10781"></a> 
+### Prayer bpn10781 in Srpski српски
 Bog je meni dovoljan. On uistinu svemu dostaje. U Njega neka se verni uzdaju.
 
 (Source category: TEŠKOĆE)
@@ -1187,7 +1369,10 @@ Bog je meni dovoljan. On uistinu svemu dostaje. U Njega neka se verni uzdaju.
 
 
 
-### <a id="bpn10782"></a> Prayer bpn10782 in Srpski српски
+
+
+<a id="bpn10782"></a> 
+### Prayer bpn10782 in Srpski српски
 Slava Tebi, O moj Bože! Da nije patnji na putu Tvome kako bi oni koji Te istinski ljube bili prepoznati; i da nije iskušenja podnetih za ljubav Tvoju, kako bi uzvišenost onih koji za Tobom žude postala vidljiva? Tvoja moć mi je svedok! Družbenice svih koji Tebe vole su suze koje prolivaju, a utehe onih koji Te traže su jauci njihovi, dok je hrana onih koji ka Tebi hitaju od komada njihovih slomljenih srca.
 
 Kako je slatka mome ukusu gorčina smrti podnete na Tvome putu, a dragocenost meni najveća izloženost kopljima Tvojih neprijatelja radi uzdizanja reči Tvoje! Daj da okusim u Veri Tvojoj, O moj Bože, štagod bila želja Tvoja, i pošalji na me u ljubavi Svojoj sve što si mi odredio. Slave mi Tvoje! Želim samo što Ti želiš i volim samo šta Ti voliš. U Tebe polažem, u trenutku svakom, svu moju veru i pouzdanje.
@@ -1202,7 +1387,10 @@ Moćan si Ti da činiš kako Ti volja. Nema Boga osim Tebe, Pomagača u nevolji,
 
 
 
-### <a id="bpn10776"></a> Prayer bpn10776 in Srpski српски
+
+
+<a id="bpn10776"></a> 
+### Prayer bpn10776 in Srpski српски
 Ima li ikog sem Boga ko može ukloniti nedaće? Recite: Hvala Bogu! On je Bog! Svi su Njegove sluge, i svi se pokoravaju Njegovoj zapovesti!
 
 (Source category: TEŠKOĆE)
@@ -1211,7 +1399,10 @@ Ima li ikog sem Boga ko može ukloniti nedaće? Recite: Hvala Bogu! On je Bog! S
 
 
 
-### <a id="bpn10777"></a> Prayer bpn10777 in Srpski српски
+
+
+<a id="bpn10777"></a> 
+### Prayer bpn10777 in Srpski српски
 Recite: Bog je dovoljan u svim stvarima i iznad svih stvari, i ništa na nebesima ili na zemlji ne može zadovoljiti, sem Boga. Odista, On je u samome sebi Znalac, Održitelj, Svemogući.
 
 (Source category: TEŠKOĆE)
@@ -1220,7 +1411,10 @@ Recite: Bog je dovoljan u svim stvarima i iznad svih stvari, i ništa na nebesim
 
 
 
-### <a id="bpn10778"></a> Prayer bpn10778 in Srpski српски
+
+
+<a id="bpn10778"></a> 
+### Prayer bpn10778 in Srpski српски
 Zaklinjem Te Tvojom silom, O moj Bože! Neka mi ništa ne naudi u trenucima iskušenja, i kada sam nesmotren, nadahnućem Svojim vrati me na pravi put. Ti si Bog, imaš moć da činiš sve što poželiš. Niko se ne može odupreti Tvojoj Volji, niti osujetiti Tvoju Nameru.
 
 (Source category: TEŠKOĆE)
@@ -1229,7 +1423,10 @@ Zaklinjem Te Tvojom silom, O moj Bože! Neka mi ništa ne naudi u trenucima isku
 
 
 
-### <a id="bpn10779"></a> Prayer bpn10779 in Srpski српски
+
+
+<a id="bpn10779"></a> 
+### Prayer bpn10779 in Srpski српски
 O Gospode! Ti uklanjaš svaku patnju i izbavljaš od svakog jada. Ti si Onaj Koji odagna svu tugu i oslobodi svakog roba, Iskupitelj svake duše. O Gospode! Izbavi nas milošću svojom; i ubroj me medju one Svoje sluge koje su zavredele spasenje.
 
 (Source category: TEŠKOĆE)
@@ -1238,7 +1435,10 @@ O Gospode! Ti uklanjaš svaku patnju i izbavljaš od svakog jada. Ti si Onaj Koj
 
 
 
-### <a id="bpn10780"></a> Prayer bpn10780 in Srpski српски
+
+
+<a id="bpn10780"></a> 
+### Prayer bpn10780 in Srpski српски
 O Gospode, moj Bože i moje Utočište u nevolji! Moj Štitu i Zaklonu od jada! Ti si moje Pribežište i Sklonište kad nastupe neprilike i moj Sadrug u samoći! U patnji si mi Uteha, i u usamljenosti brižni Prijatelj! Ti uklanjaš žaoku tuge i praštaš mi grehe!
 Okrećem Ti se celim bićem, moleći Te revnosno svim srcem, čitavim umom i moćima govora, da me zaštitiš od svega što je suprotno Tvojoj volji, u ovom ciklusu Tvog božanskog jedinstva, i da me pročistiš od svake nečistoće koja bi me mogla omesti da bez mrlje, neukaljan, stignem do hlada pod drvetom Tvoje milosti.
 Smiluj se, O Bože, na nejake, zaceli bolesne, i utaži goruću žeđ.
@@ -1258,9 +1458,13 @@ Ti si, odista, Milostivi, Slavljeni, Silni, Svemoćni!
 
 
 
+
+
+<a id="VOĐSTVO"></a> 
 ## VOĐSTVO
 
-### <a id="bpn10783"></a> Prayer bpn10783 in Srpski српски
+<a id="bpn10783"></a> 
+### Prayer bpn10783 in Srpski српски
 Molimo se Bogu da milosrdno pomogne zabludelima da postanu pravični i nepristrasni, i da ih učini svesnima onoga na šta se nisu obazirali. On je, uistinu, Najdarežljiviji, Najvelikodušniji. Ne zaključavaj za svoje sluge, O Gospode, vrata svoje milosti, i ne teraj ih sa dvora gde Ti obitavaš. Pomozi im da rasteraju maglu dokonih uobraženja, da strgnu velove sujetnog umišljanja i očekivanja. Ti si, zaista, Sveobuhvatni, Najuzvišeniji. Nema  Boga sem Tebe, Svemoćnog, Milostivog.
 
 (Source category: VOĐSTVO)
@@ -1269,7 +1473,10 @@ Molimo se Bogu da milosrdno pomogne zabludelima da postanu pravični i nepristra
 
 
 
-### <a id="bpn10784"></a> Prayer bpn10784 in Srpski српски
+
+
+<a id="bpn10784"></a> 
+### Prayer bpn10784 in Srpski српски
 O Ti, pred Čijim je zastrašujućim veličanstvom sve drhtalo, u Čijim su rukama svi ljudski poslovi, ka Čijim se čarima i milosti upravljaju lica svih koje si stvorio! Zaklinjem Te, Tvojim Imenom za koje si odredio da bude duh svih imena koja postoje u Kraljevstvu imena, da nas zaštitiš od šapata onih koji su se odvratili od Tebe, i koji su odbacili istinu o Tvom najdivnijem i najuzvišenijem Biću, u ovom Otkrovenju od kojeg je Kraljevstvo Tvojih imena zadrhtalo.
 
 Ja sam jedna od Tvojih sluškinja, O moj Gospode! Upravila sam lice ka svetilištu Tvoje milosrdne dobrote i ka divnoj kući molitve gde se Ti slaviš. Očisti me od svega što ne potiče od Tebe, i daj mi snage da Te volim i udovoljim Ti, da budem očarana premišljajući o Tvojoj lepoti, da više ne budem vezana ni za jedno od Tvojih stvorenja, i da mogu u svakom trenutku da objavim: "Veličajmo Boga, Gospodara svetova!"
@@ -1285,9 +1492,13 @@ Ti si, zaista, Bog moći, snage i slave.
 
 
 
+
+
+<a id="ZA PREMINULE"></a> 
 ## ZA PREMINULE
 
-### <a id="bpn10769"></a> Prayer bpn10769 in Srpski српски
+<a id="bpn10769"></a> 
+### Prayer bpn10769 in Srpski српски
 *Ovo je molitva za sve bahajce starije od petnaest godina.To je jedina obavezna molitva koja se izgovara u kongregaciji; govori je jedan vernik dok ostali stoje.Kod ove molitve nije potrebno okrenuti se prema Kibli.
 
 O, Bože moj! Ovo je sluga Tvoj i sin Tvoga sluge koji je verovao u Tebe i znamenja Tvoja i upravio svoje lice ka Tebi, posve odvojen od svega osim Tebe. Ti si, vaistinu, od svih koji iskazuju milost najmilosrdniji.
@@ -1319,7 +1530,10 @@ Slavljen, neizmerno slavljen si Ti! Obožavamo Te u Tvojoj istini i Tebi se svi,
 
 
 
-### <a id="bpn10770"></a> Prayer bpn10770 in Srpski српски
+
+
+<a id="bpn10770"></a> 
+### Prayer bpn10770 in Srpski српски
 O moj Bože! O Ti, koji praštaš grehe! Darodavče! Ti Koji odagnavaš patnju!
 Iskreno Ti se molim da oprostiš grehe onima koji su napustili svoje fizičko ruho i vinuli se u duhovni svet.
 
@@ -1332,9 +1546,13 @@ O moj Gospode! Očisti ih od prestupa, rasprši njihovu tugu, i njihovu tamu pre
 
 
 
+
+
+<a id="ZAŠTITA"></a> 
 ## ZAŠTITA
 
-### <a id="bpn10785"></a> Prayer bpn10785 in Srpski српски
+<a id="bpn10785"></a> 
+### Prayer bpn10785 in Srpski српски
 Hvaljeno bilo Tvoje ime, O Gospode, moj Bože! Preklinjem Te, tako Ti Tvog Imena sa kojim je kucnuo Čas, i dogodilo se Vaskrsnuće, i zadrhtali su od straha svi koji obitavaju na nebu i na zemlji, da nas orosiš kišom sa nebesa Tvoje milosti, iz oblaka Tvog nežnog saosećanja, kišom koja će razgaliti srca Tvojih slugu, koji su se okrenuli Tebi i pomažu da se ostvari Tvoj Cilj.
 Zaštiti svoje sluge i sluškinje, O moj Gospode, od strela dokonih uobraženja i sujetnog umišljanja, i daj im da iz Tvoje milostive ruke ispiju gutljaj vode iz umilne reke Tvoje mudrosti.
 Ti si, odista, Svemoćni, Najuzvišeniji, Onaj koji uvek prašta, Najvelikodušniji.
@@ -1345,7 +1563,10 @@ Ti si, odista, Svemoćni, Najuzvišeniji, Onaj koji uvek prašta, Najvelikodušn
 
 
 
-### <a id="bpn10786"></a> Prayer bpn10786 in Srpski српски
+
+
+<a id="bpn10786"></a> 
+### Prayer bpn10786 in Srpski српски
 *(Originalnu molitvu je Bab ispisao sopstvenom rukom u obliku pentagrama)
 
 U  Ime Boga, Gospoda nadmoćne veličanstvenosti, Svepotčinjavajućeg.
@@ -1362,7 +1583,10 @@ Neizmerno uzvišen si Ti, O Gospode! Zaštiti nas od onoga što je ispred nas i 
 
 
 
-### <a id="bpn10787"></a> Prayer bpn10787 in Srpski српски
+
+
+<a id="bpn10787"></a> 
+### Prayer bpn10787 in Srpski српски
 O moj Gospode! Ti znaš da su ljudi okruženi bolom i razaranjem, da su svuda oko njih nedaće i nevolje. Sva moguća iskušenja nasrću na čoveka i sve strahote navaljuju na njega, kao napadi zmije. Nema za njega skrovišta ni utočišta osim pod Tvojim krilom, da mu pruži zaštitu, da ga sačuva, odbrani i nadzire.
 
 O, Ti Milosrdni! O moj Gospode! Neka Tvoja zaštita bude meni oklop, Tvoje staranje moj štit, skromnost pred vratima Tvog jedinstva neka bude moj stražar, a tvoj nadzor i odbrana moja utvrda i moje boravište. Sačuvaj me od nagoveštaja sebičnosti i požude, i odbrani me od svake bolesti, iskušenja, poteškoće i muke.
@@ -1375,11 +1599,16 @@ Uistinu, Ti si Zaštitnik, Čuvar, Onaj koji održava život, Koji zadovoljava, 
 
 
 
-### <a id="bpn10788"></a> Prayer bpn10788 in Srpski српски
+
+
+<a id="bpn10788"></a> 
+### Prayer bpn10788 in Srpski српски
 O Ti božansko Proviđenje, mi smo bedni, priteci nam u pomoć; beskućnici smo i lutalice, Ti nam pruži sklonište; rasuti smo, ujedini nas; zalutali smo, okupi nas u svoju pastvu; lišeni smo svega, Ti nam udeli; žedni smo, povedi nas do izvora života; nejaki smo, osnaži nas da možemo da ustanemo i pomognemo ostvarenju Tvog Cilja, i ponudimo sebe kao živu žrtvu i putokaz na duhovnoj stazi.
 
 (Source category: ZAŠTITA)
 (Bahaiprayers.net ID: 10788)
+
+
 
 
 

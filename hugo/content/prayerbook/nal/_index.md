@@ -23,9 +23,11 @@ tags = ['lang=nal', 'prayerbook']
 
 
 
+<a id="A Vaaratulaaiing sin Ahmád (Tablet of Ahmád)"></a> 
 ## A Vaaratulaaiing sin Ahmád (Tablet of Ahmád)
 
-### <a id="bpn13016"></a> Prayer bpn13016 in Nalik
+<a id="bpn13016"></a> 
+### Prayer bpn13016 in Nalik
 Naan be a Xalxaal, ka mazaam a mun saan mumupis ma a mazampes.  Ei mbasaan, a Roxis i Liaa xa dodor rataangis put laaur wan a rangaana a yaai tapal, pana a ling faarala ma xa raangis maaluf.  Ka pitfiaat sin a mun ubina si nis a doring na nanaming kuna a Nakmai xa vaasilik pan naande.  Ka viring naande di vaarungtungaai wana a Nakmai be Azaxei, akula la Bikabar a i naxam Maalufing.  Ka vaze nis naande di milung, kuna viaat aang a doring sina a Nakmai, a Xalxaal, a Maravas a Owaari.  Ka pinaowing lis si nis naande di i naxam maaluf akula la burburaai na vaaralaing ka matmari doxo marase.
 
 Faaratunaan, Naan be xa Matmari Daxo Marase.  Ka xalxal la maskan a kadaking sin a mun Wangpaang.  Pa Naan be xa na galum buaak a vaaratunaaning ma a vaagiting ma xa na daring a malagaaf a mazaam aang a mun lus.  Faaratunaan marase, Naan a Yaai a Roroing, ka lis fawut a Vuaii a Nakmai.  Naan ka zi laaup, ka maradikdik ma xa lilingaaing.
@@ -60,9 +62,13 @@ Faaratunaan marase, Naan a Baraai a Varamaalufing ma Naan ka i puuk saait.  Saau
 
 
 
+
+
+<a id="A Vaaroving i la waanas (Short obligatory prayer)"></a> 
 ## A Vaaroving i la waanas (Short obligatory prayer)
 
-### <a id="bpn13009"></a> Prayer bpn13009 in Nalik
+<a id="bpn13009"></a> 
+### Prayer bpn13009 in Nalik
 *(La raan gu na vaarovaai la mun taan saksaxei la biru la waanas, gu na rutaawok suaai a Bina Vaarala o Israel xa zi vatok a yaas ka si ma gu na mainung pan a vaaroving i la waanas.)
 
 O a vaartulaaiing a ku Nakmai, Nu a wanga na vaaribuking aang ni kuna ga na rexaasing ma vaaroving Nu.  Naambare be ga xalxal adu ni a vupiran ma Nu nanga a Uwaari ma pan a balagofing surugu ma pan a uwaagangnum.  Ka vit kaarik na roxun taaza a Nakmai.  Nu a Vaaratulaaiing la raan a rouzaat ma Nu nanga Gu paazaai wan Nu.
@@ -74,9 +80,13 @@ O a vaartulaaiing a ku Nakmai, Nu a wanga na vaaribuking aang ni kuna ga na rexa
 
 
 
+
+
+<a id="A Vaaroving i pan a Vatuing (Unity)"></a> 
 ## A Vaaroving i pan a Vatuing (Unity)
 
-### <a id="bpn13011"></a> Prayer bpn13011 in Nalik
+<a id="bpn13011"></a> 
+### Prayer bpn13011 in Nalik
 Saaule Nakmai!  Saaule Nakmai!  Fatuing a mun mamaangon a yaanakilaaing Sunum.  Gu na viaat a divavun a vaamuzesing Sunum.  Ma xa daxo tamon di valos a mun burburaaiing ma ngeiwulut Sunum.  Saaule Nakmai a i naxaaming funfun sin naande ma fadikdik naande xu na varamaraat aang a vaamuzesing si naande.  Saaule Nakmai!  Gu na pen pengin pizin naande ma singsaxei Gu na valos naande wan a vamaravaas aang a rexaasing ma fananaam a mun mamaangon naande wan a nanaming.  Vaaratunaan marase, Nu a Baraai a Pilaning ma Nu a Piraannaande.
 
 (Source category: A Vaaroving i pan a Vatuing (Unity))
@@ -86,9 +96,13 @@ Saaule Nakmai!  Saaule Nakmai!  Fatuing a mun mamaangon a yaanakilaaing Sunum.  
 
 
 
+
+
+<a id="A Vaaroving i pana Naande di Waan Fis (Funeral)"></a> 
 ## A Vaaroving i pana Naande di Waan Fis (Funeral)
 
-### <a id="bpn13015"></a> Prayer bpn13015 in Nalik
+<a id="bpn13015"></a> 
+### Prayer bpn13015 in Nalik
 *Taaza vilaanaande la maskan a xulutung ka na raraf, kun a vaavis- faaruing ma di na ramaraat.
 
 
@@ -130,9 +144,13 @@ Kalxal di zi marangingit saxot a Nakmai. (Fazangaaflu ma vizikfaat.)
 
 
 
+
+
+<a id="A Vaaroving i pana Virviraing (healing)"></a> 
 ## A Vaaroving i pana Virviraing (healing)
 
-### <a id="bpn13012"></a> Prayer bpn13012 in Nalik
+<a id="bpn13012"></a> 
+### Prayer bpn13012 in Nalik
 Saaule Nakmai!  Pan a Izaam ka malasing a virviraing ku ni. Pan a nonomaaing pan Nu ka malasing a makara aku. Ga vaasilik pan Nu, xa vazum ni ma a i naxam maalufing pan Nu ka malasing a vilaanago.  A Varamaalufing Sunum ka malasing a virviraing pa ni ka vamada ni wan a roroing aaka re ma roroing mur zaait. Ga xalxal, Gu i tagoning maam na Nu a Baraai a Mazaming ma a Mazampes.
 
 (Source category: A Vaaroving i pana Virviraing (healing))
@@ -142,9 +160,13 @@ Saaule Nakmai!  Pan a Izaam ka malasing a virviraing ku ni. Pan a nonomaaing pan
 
 
 
+
+
+<a id="A Vaaroving i wan a Vaarmuxosing (Marriage)"></a> 
 ## A Vaaroving i wan a Vaarmuxosing (Marriage)
 
-### <a id="bpn13013"></a> Prayer bpn13013 in Nalik
+<a id="bpn13013"></a> 
+### Prayer bpn13013 in Nalik
 ##BAHA´I MARRIAGE:
 *La maskan a Kitáb-i-Aqdas o a Buk Faarala si Bahá’u’lláh, ka piaat, nis nadiaa di saxot di na vaamuxosaa, di na pitfiaataa a doring aang ka re si nis nadiaa di na tagoning a vaamuxasing la wan a kilaaing sin a Spiritual Asembli i la Bina:
 
@@ -165,9 +187,13 @@ Bahá'u'lláh
 
 
 
+
+
+<a id="A Vaaroving kun a Zaan di Yaalaxaaf (Remover of Difficulties)"></a> 
 ## A Vaaroving kun a Zaan di Yaalaxaaf (Remover of Difficulties)
 
-### <a id="bpn13010"></a> Prayer bpn13010 in Nalik
+<a id="bpn13010"></a> 
+### Prayer bpn13010 in Nalik
 Tamon a mun saan di yaalaxaaf di na paazaai be wan a Nakmai?  Fakilaan: a vavisfaaruing kun a Nakmai! Naan be a Nakmai!  Naande a mun yaanakilaaing Sina, ma di nat falos a vaartulaaiing Sina!
 
 (Source category: A Vaaroving kun a Zaan di Yaalaxaaf (Remover of Difficulties))
@@ -177,13 +203,19 @@ Tamon a mun saan di yaalaxaaf di na paazaai be wan a Nakmai?  Fakilaan: a vavisf
 
 
 
+
+
+<a id="A Vaaroving sin a Funalik Naat (Children)"></a> 
 ## A Vaaroving sin a Funalik Naat (Children)
 
-### <a id="bpn13014"></a> Prayer bpn13014 in Nalik
+<a id="bpn13014"></a> 
+### Prayer bpn13014 in Nalik
 Saaule Nakmai, famazaam a funalik aakare.  A funalik aakare a fnuaai i la maskan a pailiu Zunum, ma a mun firaing la maskan a xumanar Zunum, ma mun fira na ros la maskan a uma Zunum.  Tudaxoing lisam daavur na tus naande.  Tudaxoing lisam minminingit a Yaas pana i Naxaam Maalufing Sunum ku naande.  Tudaxoing lisam raraaif maalur na vamarif naande, kuna di na vangaai waaluk a varviraaiing daxo ku nat faxauxaao vamarala yaang naande kun a pazar matmari daxo tapaling si naande.  Nu a Baraai a Talasing ma a Baraai a Varamaalufing.
 
 (Source category: A Vaaroving sin a Funalik Naat (Children))
 (Bahaiprayers.net ID: 13014)
+
+
 
 
 

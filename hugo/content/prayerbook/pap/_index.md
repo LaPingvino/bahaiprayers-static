@@ -25,9 +25,11 @@ tags = ['lang=pap', 'prayerbook']
 
 
 
+<a id="Aid and assistance"></a> 
 ## Aid and assistance
 
-### <a id="AB00431PIT"></a> Prayer AB00431PIT in Papiamentu
+<a id="AB00431PIT"></a> 
+### Prayer AB00431PIT in Papiamentu
 *Lord! Pitiful are we, grant us Thy favor… 
 
 Señor, nos tin mester di miserikordia, duna nos Bo fabor; nos ta pober,  drama riba nos un parti di e oseano di Bo rikesa; nos ta den nesesidat, satisfase nos; nos ta humiyá, duna nos Bo gloria.
@@ -40,9 +42,13 @@ E paranan den aire i e bestianan den mondi ta resibí tur dia nan alimentashon d
 
 
 
+
+
+<a id="Children"></a> 
 ## Children
 
-### <a id="ABU0129EDU"></a> Prayer ABU0129EDU in Papiamentu
+<a id="ABU0129EDU"></a> 
+### Prayer ABU0129EDU in Papiamentu
 *Oh, God! Educate these children.  
 
 O Dios!  Eduka e yunan aki.  E yunan aki ta matanan di Bo hòfi,  ta flornan di Bo sabana, ta rosanan di Bo hardin. Laga awasero kai riba nan. Laga e solo di realidat lumbranan ku Bo amor. Laga Bo brisa refreskanan, pa nan por siñá, kresé, desaroyá i aparesé den e bunitesa di mas grandi. Bo ta esun ku ta duná, Bo ta esun miserikordioso.
@@ -53,7 +59,10 @@ O Dios!  Eduka e yunan aki.  E yunan aki ta matanan di Bo hòfi,  ta flornan di 
 
 
 
-### <a id="AB04427LMP"></a> Prayer AB04427LMP in Papiamentu
+
+
+<a id="AB04427LMP"></a> 
+### Prayer AB04427LMP in Papiamentu
 *Oh, God guide me 
 
 O Dios, guiami, protehami, iluminá e lampi di mi kurason, i hasimi un strea briyante. Bo ta esun poderoso i fuerte.
@@ -65,9 +74,13 @@ O Dios, guiami, protehami, iluminá e lampi di mi kurason, i hasimi un strea bri
 
 
 
+
+
+<a id="Detachment"></a> 
 ## Detachment
 
-### <a id="BB00015SUF"></a> Prayer BB00015SUF in Papiamentu
+<a id="BB00015SUF"></a> 
+### Prayer BB00015SUF in Papiamentu
 *Say: God sufficeth all things above all things… 
 
 Bisá:  Dios ta sufisiente riba tur kos i nada den shelunan o riba tera ta sufisiente sino Dios. En berdat, E ta den Su mes e konosedor, e sostenedor, e omnipotente.
@@ -79,9 +92,13 @@ Bisá:  Dios ta sufisiente riba tur kos i nada den shelunan o riba tera ta sufis
 
 
 
+
+
+<a id="Gatherings"></a> 
 ## Gatherings
 
-### <a id="BH00074BLE"></a> Blessed is the Spot in Papiamentu
+<a id="BH00074BLE"></a> 
+### Blessed is the Spot in Papiamentu
 *Blessed is the spot…
 
 Santifiká sea e sitio, i e kas, i e lugá, i e siudat, i e kurason, i e seru,  i e refuhio, i e kueba, i e vaye, i e tera, 
@@ -94,9 +111,13 @@ i e laman, i e isla, i e pradera,  unda ku Dios ta menshoná, i su alabansa ta g
 
 
 
+
+
+<a id="Journey"></a> 
 ## Journey
 
-### <a id="BH00009GRA"></a> Prayer BH00009GRA in Papiamentu
+<a id="BH00009GRA"></a> 
+### Prayer BH00009GRA in Papiamentu
 *I have risen this morning by Thy grace 
 
 Mi a lanta awe mainta pa fabor di Bo grasia, O mi Dios,  i a laga mi kas konfiando henteramente den Bo, i rekomendando mi mes na Bo kuido. Basha anto riba mi for di e shelu de Bo miserikordia un bendishon di Bo, i permitimi di bolbe mi kas sano i salbo, meskos ku Bo a permitimi di sali bou Bo protekshon ku mi pensamentunan fihá firmemente riba Bo. No tin otro Dios sino Bo, esun uniko, esun incomparabel, esun ku sabi tur kos, esun di mas prudente.
@@ -108,9 +129,13 @@ Mi a lanta awe mainta pa fabor di Bo grasia, O mi Dios,  i a laga mi kas konfian
 
 
 
+
+
+<a id="Short Obligatory Prayer"></a> 
 ## Short Obligatory Prayer
 
-### <a id="BH11209"></a> Short Obligatory Prayer in Papiamentu
+<a id="BH11209"></a> 
+### Short Obligatory Prayer in Papiamentu
 ##Short Obligatory Prayer
 
 Mi ta duna testimonio, o mi Dios, ku Bo a kriami pa mi konosé Bo i adorá Bo.  Mi ta testigo na e momento aki di mi flakesa i di Bo poder, di mi pobresa i di Bo rikesa.  No tin ningun otro Dios sino Bo, e auxilio den peliger, esun ku ta subsistí di Su mes.
@@ -122,9 +147,13 @@ Mi ta duna testimonio, o mi Dios, ku Bo a kriami pa mi konosé Bo i adorá Bo.  
 
 
 
+
+
+<a id="Tests and difficulties"></a> 
 ## Tests and difficulties
 
-### <a id="BB00623"></a> Prayer BB00623 in Papiamentu
+<a id="BB00623"></a> 
+### Prayer BB00623 in Papiamentu
 *Is there any remover of difficulties save God… 
 
 Tin otro kitador di difikultatnan si no ta Dios? Bisá: Alabá sea Dios.  E ta Dios. Tur ta su sirbidornan i tur ta rekonosé su pidimentu.
@@ -136,9 +165,13 @@ Tin otro kitador di difikultatnan si no ta Dios? Bisá: Alabá sea Dios.  E ta D
 
 
 
+
+
+<a id="Unity"></a> 
 ## Unity
 
-### <a id="BH10505"></a> Prayer BH10505 in Papiamentu
+<a id="BH10505"></a> 
+### Prayer BH10505 in Papiamentu
 *Oh, my God! Oh my God! Unite the hearts of Thy servants  
 
 O mi Dios! O mi Dios!  Uni e kurasonnan di Bo sirbidornan i rebela nan Bo obhetivo grandi. Hasí  nan sigi Bo mandamentunan i biba den Bo ley. Yuda nan, o Dios, den nan esfuerso, i duna nan forsa pa sirbi Bo.  O Dios, no laga  nan pa nan kuenta, pero guia nan pasonan ku e lus di Bo sabidoria, i hubilá nan kurasonnan den Bo amor. En berdat, bo ta nan yudador, i nan Señor.
@@ -150,15 +183,21 @@ O mi Dios! O mi Dios!  Uni e kurasonnan di Bo sirbidornan i rebela nan Bo obheti
 
 
 
+
+
+<a id="Youth"></a> 
 ## Youth
 
-### <a id="bpn6871"></a> Prayer bpn6871 in Papiamentu
+<a id="bpn6871"></a> 
+### Prayer bpn6871 in Papiamentu
 *Oh, God! Make this youth radiant 
 
 O Dios! Hasi e hoben aki radiante i konfiere su bondat riba e kriatura pober aki. Duné konosementu i un forsa nobo kada dia, asina ku e tin kuido i salbashon den Bo protekshon di tur pika pa e sirbí Bo kousa, pa guia esnan ku ta pober i debil, pa librá esnan ku ta den prison i esklabitut, pa lanta esnan ku ta na soño i pa ta felis kordando i pensando riba Bo. Bo ta esun di tur poder, esun di tur sabidoría.
 
 (Source category: Youth)
 (Bahaiprayers.net ID: 6871)
+
+
 
 
 

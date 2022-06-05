@@ -73,9 +73,11 @@ tags = ['lang=tpi', 'prayerbook']
 
 
 
+<a id="ASSISTANCE"></a> 
 ## ASSISTANCE
 
-### <a id="bpn12948"></a> Prayer bpn12948 in Tok Pisin
+<a id="bpn12948"></a> 
+### Prayer bpn12948 in Tok Pisin
 O God.  Mi laikim tumas pes bilong Yu.  Naispela bilong Yu i olsem ples strong we mi nap stap gutpela insait long en.  Mi laik i stap insait long wanem ples we Yu save stap.  Mi litimapim nem bilong Yu na mi save kisim strong.  Gutpela pasin bilong Yu long lukautim mi i olsem poroman bilong mi.  Lav bilong Yu i bin mekim kamap mi.  Na mi save amamas taim mi kolim nem bilong Yu.  Mi laik i stap klostu long Yu.  Na mi gat bikpela laik olsem bai Yu stap wantaim mi.  Mi askim strong long Yu long givim long mi ol gutpela samting Yu bin makim long go long ol gutpela wokman bilong Yu.  Orait, inap bai Yu givim long mi ol gutpela samting bilong dispela laip na bilong laip bihain tu. 
  
 Tru tumas. Yu King bilong olgeta man.  I no gat narapela God.  Yu tasol i stap.  Yu Save Pogivim Oltaim na Yu Givim Planti Samting Tru. 
@@ -91,7 +93,10 @@ Thou, truly, art the King of all men.  There is no God but Thee, the Ever-Forgiv
 
 
 
-### <a id="bpn12949"></a> Prayer bpn12949 in Tok Pisin
+
+
+<a id="bpn12949"></a> 
+### Prayer bpn12949 in Tok Pisin
 O Bikpela bilong mi!  Mekim Naispela bilong Yu i stap olsem kaikai bilong mi.  Na sapos Yu stap klostu long mi, orait dispela samting i mas olsem dring bilong mi.  Inap bai mi wetim ol gutpela samting i kamap sapos Yu save amamas long mi.  Na wok bilong mi em i mas long litimapim nem bilong Yu.  Na sapos mi tingim Yu dispela tingting i mas kamap olsem poroman bilong mi.  Inap pawa bilong Yu i ken lukautim mi na  ples bilong Yu i kamap olsem ples bilong mi.  Haus bilong mi i mas i stap olsem dispela ples holi we i no gat sampela ol man husat i no bilip long yu. 
  
 Tru tumas.  Yu Gat Olgeta Strong.  Glori Bilong Yu I Gutpela Olgeta.  Pawa Bilong Yu I Bikpela Tru.  
@@ -108,7 +113,10 @@ Thou art, verily, the Almighty, the All-Glorious, the Most Powerful.
 
 
 
-### <a id="bpn12950"></a> Prayer bpn12950 in Tok Pisin
+
+
+<a id="bpn12950"></a> 
+### Prayer bpn12950 in Tok Pisin
 O Bikpela bilong mi!  O Bikpela bilong mi!  Dispela man i wanpela lam i save kisim lait long paia bilong lav bilong Yu. Em i paia long lait i save kamap insait long diwai bilong marimari bilong Yu.   O Bikpela bilong mi!  Dispela paia em paia i bin lait long Sainai bilong Mausman bilong Yu.  Inap bai Yu mekim lait na hat na paia bilong dispela man i kamap bikpela moa.  Tru tumas.  Yu Strongim Olgeta Man.  Yu Save Helpim Olgeta.  Yu Gat Pawa.  Yu Givim Planti Samting.  Yu Laikim Tru Ol Manmeri. 
  
 O my Lord!  O my Lord!  This is a lamp lighted by the fire of Thy love and ablaze with the flame which is ignited in the tree of Thy mercy.  O my Lord!  Increase his enkindlement, heat and flame, with the fire which is kindled in the Sinai of Thy Manifestation.  Verily, Thou art the Confirmer, the Assister, the Powerful, the Generous, the Loving!
@@ -119,7 +127,10 @@ O my Lord!  O my Lord!  This is a lamp lighted by the fire of Thy love and ablaz
 
 
 
-### <a id="bpn12951"></a> Prayer bpn12951 in Tok Pisin
+
+
+<a id="bpn12951"></a> 
+### Prayer bpn12951 in Tok Pisin
 O God, mekim spirit bilong mi i kamap nupela gen na amamas.  Rausim ol samting nogut i stap insait long bel bilong mi inap i ken kamap klin gen.  Givim lait long tingting bilong mi.  Mi putim ol hevi bilong mi long han bilong Yu.  Yu soim gutpela rot long mi na Yu lukautim mi.  Mi mas pinis long sori nau.  Mi mas amamas tasol.  O God.  Mi no ken pulap gen long ol sori na wari.  Na mi no ken larim ol trabel i ranim mi.  Mi no ken tingting tumas long ol samting bilong dispela laip i save givim hevi long mi. 
  
 O God.  Laik bilong Yu long mi i winim laik bilong mi long mi yet.  O Bikpela.  Mi makim laip bilong mi long Yu. 
@@ -136,7 +147,10 @@ O God!  Thou art more friend to me that I am to myself.  I dedicate myself to Th
 
 
 
-### <a id="bpn12959"></a> Prayer bpn12959 in Tok Pisin
+
+
+<a id="bpn12959"></a> 
+### Prayer bpn12959 in Tok Pisin
 Bikpela!  Mipela i tarangu tru.  Inap Yu marimari long mipela.  Yes, mipela i rabis pinis.  Inap Yu blesim mipela wantaim hap samting i kam long solwara bilong ol gutpela samting bilong Yu.  Mipela i sot long olgeta samting.  Inap Yu inapim mipela.  Mipela i stap daunbilo.  Inap Yu apim mipela wantaim glori bilong Yu.  Ol pisin bilong skai wantaim ol abus bilong graun, olgeta i save kisim kaikai long han bilong Yu long olgeta wan wan de.  Yu save lukautim ol wantaim gutpela lav bilong Yu. 
  
 Mi yet mi no gat strong.  Olsem na, no ken pasim ol gutpela marimari bilong Yu long kam long mi.  Na givim mi ol gutpela presen bilong Yu,  em ol presen i kam long Strong bilong Yu.  
@@ -157,9 +171,13 @@ Give us our daily bread and grant Thy increase in the necessities of life, that 
 
 
 
+
+
+<a id="BURIAL OF THE DEAD"></a> 
 ## BURIAL OF THE DEAD
 
-### <a id="bpn12967"></a> Prayer bpn12967 in Tok Pisin
+<a id="bpn12967"></a> 
+### Prayer bpn12967 in Tok Pisin
 Wanpela man o meri i mas kolim dispela prea taim olgeta i bung na sanap.  Bihain long prea ol i ken planim bodi.  Sapos dispela Bahá’í , husat i dai, em meri, orait senisim prea na tok olsem: "Dispela em wokmeri bilong Yu na pikinini meri bilong wokmeri bilong Yu..." 
  
 O God bilong mi!  Dispela em wokman bilong Yu na pikinini man bilong wokman bilong Yu.  Em i 
@@ -200,9 +218,13 @@ We all, verily, are patient in God. (19 times)
 
 
 
+
+
+<a id="CHILDREN"></a> 
 ## CHILDREN
 
-### <a id="bpn12940"></a> Prayer bpn12940 in Tok Pisin
+<a id="bpn12940"></a> 
+### Prayer bpn12940 in Tok Pisin
 O God, soim rot long mi.  Lukautim mi.  Mekim mi i kamap olsem lam i lait na sta i lait tru.  Yu Strong na Yu Gat Pawa. 
 
 O God, guide me, protect me, make of me a shining lamp and a brilliant star.  Thou art the Mighty and the Powerful.
@@ -213,7 +235,10 @@ O God, guide me, protect me, make of me a shining lamp and a brilliant star.  Th
 
 
 
-### <a id="bpn12941"></a> Prayer bpn12941 in Tok Pisin
+
+
+<a id="bpn12941"></a> 
+### Prayer bpn12941 in Tok Pisin
 O God!  Skulim ol dispela pikinini.  Ol dispela pikinini em ol kru long gaden diwai bilong Yu, ol plaua long ples kunai bilong Yu na ol ros long gaden bilas bilong Yu. Inap ren bilong Yu i pundaun long ol.  Inap San bilong Trupela Ples bilong Yu i lait long ol wantaim lav bilong Yu. Inap ol i kisim gutpela win bilong Yu, bai ol i skul gut, gro gut, na kamap gut olgeta.  Bai ol i naispela tumas i stap.  Yu Save Givim Olgeta Samting.  Yu Save Sori Long Olgeta Man. 
 
 O God!  Educate these children.  These children are the plants of Thine orchard, the flowers of Thy meadow, the roses of Thy garden.  Let Thy rain fall upon them; let the Sun of Reality shine upon them with Thy love.  Let Thy breeze refresh them in order that they may be trained, grow and develop and appear in the utmost beauty.  Thou art the Giver!  Thou art the Compassionate!
@@ -224,7 +249,10 @@ O God!  Educate these children.  These children are the plants of Thine orchard,
 
 
 
-### <a id="bpn12942"></a> Prayer bpn12942 in Tok Pisin
+
+
+<a id="bpn12942"></a> 
+### Prayer bpn12942 in Tok Pisin
 O Bikpela bilong mi! O Bikpela bilong mi! 
 Mi yangpela pikinini yet na mi no gat planti krismas.  Inap Yu givim kaikai long mi, em kaikai i kam long gutpela marimari bilong Yu.  Inap Yu lainim mi wantaim lav bilong Yu inap long mi ken kamap gut.  Inap Yu givim skul long mi, we dispela skul i kam long rot Yu Yet i soim long mi.  Na inap Yu helpim mi long kamap strong taim mi stap aninit long marimari bilong Yu.  Inap yu helpim mi long lusim tudak. Yes, inap Yu mekim mi kamap olsem wanpela lait i lait olgeta.  Inap Yu helpim mi long pinis long sori nau.  Mekim mi kamap olsem wanpela ros plaua i bilasim gaden bilong Yu.  Larim mi kamap olsem wanpela wokman long dua bilong Yu.  Na givim gutpela pasin na sindaun long mi. Yes, em dispela pasin na sindaun we ol manmeri husat i gat stretpela pasin i kisim.  Inap Yu mekim mi kamap olsem gutpela presen i ken helpim ol manmeri long graun.  Na bilasim het bilong mi wantaim hat king bilong laip i stap oltaim oltaim. 
 
@@ -237,7 +265,10 @@ O my Lord! O my Lord!  I am a child of tender years. Nourish me from the breast 
 
 
 
-### <a id="bpn12943"></a> Prayer bpn12943 in Tok Pisin
+
+
+<a id="bpn12943"></a> 
+### Prayer bpn12943 in Tok Pisin
 O Bikpela, Yu Naispela Olgeta!  Inap Yu mekim dispela liklik wokmeri bilong Yu i kamap amamas na pulap long marimari bilong Yu. Inap Yu mekim em i kisim bikpela lav long dua bilong Yu.  Yu wanpela tasol.   Na inap Yu helpim em long dring gut tru long kap bilong lav bilong Yu.  Olsem na bai em i ken pulap long bikpela amamas tru.  Bai em inap long givimaut naispela smel i swit tru.  Yu Strong na Yu Gat Pawa.  Yu Save Long Olgeta Samting.  Na Yu Gat Olgeta Save na Yu Save Lukim Olgeta Samting. 
 
 O Thou most glorious Lord!  Make this little maidservant of Thine blessed and happy; cause her to be cherished at the threshold of Thy oneness and let her drink deep from the cup of Thy love so that she may be filled with rapture and ecstasy and diffuse sweet-scented fragrance.  Thou art the Mighty and the Powerful, and Thou art the All-Knowing, the All-Seeing.
@@ -249,9 +280,13 @@ O Thou most glorious Lord!  Make this little maidservant of Thine blessed and ha
 
 
 
+
+
+<a id="EXPECTANT MOTHERS"></a> 
 ## EXPECTANT MOTHERS
 
-### <a id="bpn12937"></a> Prayer bpn12937 in Tok Pisin
+<a id="bpn12937"></a> 
+### Prayer bpn12937 in Tok Pisin
 Bikpela bilong mi!  Bikpela bilong mi!  Mi litimapim Nem bilong Yu na mi tok tenkyu long Yu, long wanem Yu bin marimari long dispela wokmeri i rabis tru.  Yes, dispela wokmeri i askim strong long Yu na prea long Yu long wanem Yu bin stiaim em long Kingdom bilong Yu.  Na Yu bin mekim olsem em i harim Singaut bilong Yu long dispela graun.  Na Yu bin mekim olsem em i lukim ol mak bilong Yu.  Em ol dispela mak i soim olsem Yu King bilong olgeta samting. 
  
 My Lord!  My Lord!  I praise Thee and I thank Thee for that whereby Thou hast favored Thine humble maid-servant, Thy slave beseeching and supplicating Thee, because Thou hast verily guided her unto Thine obvious Kingdom and caused her to hear Thine exalted Call in the contingent world and to behold Thy Signs which prove the appearance of Thy victorious reign over all things.
@@ -262,7 +297,10 @@ My Lord!  My Lord!  I praise Thee and I thank Thee for that whereby Thou hast fa
 
 
 
-### <a id="bpn12938"></a> Prayer bpn12938 in Tok Pisin
+
+
+<a id="bpn12938"></a> 
+### Prayer bpn12938 in Tok Pisin
 O Bikpela bilong mi!  Mi makim dispela pikinini i stap insait long bel bilong mi long Yu.  Inap Yu helpim long mekim dispela pikinini i kamap gutpela long Kingdom bilong Yu.  Inap Yu helpim em wantaim marimari na gutpela bilong Yu, olsem em i ken kamap pikinini i gat blesing.  Na helpim em long kamap gut na kisim save long skul bilong Yu.  Tru tumas.  Yu Save Marimari Long Olgeta!  Tru tumas.  Yu Papa Bilong Bikpela Blesing! 
 
 
@@ -275,9 +313,13 @@ O my Lord, I dedicate that which is in my womb unto Thee. Then cause it to be a 
 
 
 
+
+
+<a id="FAMILY"></a> 
 ## FAMILY
 
-### <a id="bpn12936"></a> Prayer bpn12936 in Tok Pisin
+<a id="bpn12936"></a> 
+### Prayer bpn12936 in Tok Pisin
 O God bilong mi!  Inap Yu salim traipela blesing na gutpela presen bilong Yu i kam daun long ol haus bilong ol manmeri husat i kam insait long Lotu bilong Yu.  Dispela samting em mak bilong marimari na gutpela lav i kam long Yu. 
 
 O my God!  Let the outpourings of Thy bounty and blessings descend upon homes whose inmates have embraced Thy Faith, as a token of Thy grace and as a mark of loving-kindness from Thy presence.
@@ -289,9 +331,13 @@ O my God!  Let the outpourings of Thy bounty and blessings descend upon homes wh
 
 
 
+
+
+<a id="FORGIVENESS"></a> 
 ## FORGIVENESS
 
-### <a id="bpn12964"></a> Prayer bpn12964 in Tok Pisin
+<a id="bpn12964"></a> 
+### Prayer bpn12964 in Tok Pisin
 O God bilong mi!  O Bikpela bilong mi!  O Papa bilong mi!  Mi askim strong long Yu long pogivim mi sapos mi wok long painim ol laik bilong mi na mi lusim tingting long laikim Yu.  O sapos mi painim gutpela sindaun, tasol mi no tingting long stap klostu long Yu.  O sapos mi painim amamas, tasol mi no tingim amamas bilong Yu.  O sapos mi laik i stap laip, tasol mi no tingting long prea long Yu.   
 
 
@@ -304,9 +350,13 @@ O my God, O my Lord, O my Master! I beg Thee to forgive me for seeking any pleas
 
 
 
+
+
+<a id="FUND"></a> 
 ## FUND
 
-### <a id="bpn12970"></a> Prayer bpn12970 in Tok Pisin
+<a id="bpn12970"></a> 
+### Prayer bpn12970 in Tok Pisin
 O God, God bilong mi!  Givim lait long poret bilong ol lain manmeri, husat i laikim Yu tru.  Na helpim ol wantaim ol bikpela lain ensel bilong Yu, em ol ensel i save win oltaim.  Strongim lek bilong ol long wokabaut long stretpela rot bilong Yu.  Opim ol dua inap bai ol i ken lukim ol gutpela presen bilong Yu, em ol presen i kam long Blesing bilong Yu bilong oltaim.  Mekim ol dispela samting long ol, long wanem ol i save givim bek ol samting Yu bin givim long ol taim ol i bihainim rot bilong Yu.  Ol i save lukautim Lotu bilong Yu.  Ol i save tingim Yu, olsem ol i bilip tru long Yu.  Ol i makim lewa bilong ol long Yu, long wanem ol i laikim Yu tumas.  Ol i no holimpas moa long ol gutpela samting bilong ol, long wanem ol i laikim Yu tumas. Ol i no holimpas moa long ol gutpela samting bilong ol, long wanem ol i save laikim tru Naispela bilong Yu na ol i painim sampela rot bilong amamasim Yu. 
  
 O Bikpela bilong mi!  Makim bikpela hap samting i go long ol, em olsem gutpela pe i go long ol.  Bai ol i ken kisim gutpela pe tru bihain taim.  Bai ol i save tru olsem ol dispela gutpela samting bai kamap. 
@@ -328,9 +378,13 @@ Verily, Thou art the Sustainer, the Helper, the Generous, the Bountiful, the Eve
 
 
 
+
+
+<a id="HEALING"></a> 
 ## HEALING
 
-### <a id="bpn12952"></a> Prayer bpn12952 in Tok Pisin
+<a id="bpn12952"></a> 
+### Prayer bpn12952 in Tok Pisin
 O God bilong mi.  Nem bilong Yu i helpim mi long winim sik. Sapos mi tingim Yu, dispela tingting i olsem marasin bilong mi.  Sapos mi stap klostu long Yu, orait, bai mi wetim ol gutpela samting i kamap.   Mi laikim tumas Yu na dispela lav i stap olsem poroman bilong mi.  Marimari bilong Yu i 
 save rausim ol sik bilong mi na helpim mi long dispela taim we mi stap long dispela graun na long laip bihain wantaim.  Tru tumas.  Yu Save Blesim Oltaim.  Yu Gat Olgeta Save na Yu Save Olgeta. 
  
@@ -344,7 +398,10 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness
 
 
 
-### <a id="bpn12953"></a> Prayer bpn12953 in Tok Pisin
+
+
+<a id="bpn12953"></a> 
+### Prayer bpn12953 in Tok Pisin
 O God, O God bilong mi!  Mi askim strong long Yu long solwara bilong Yu bilong winim sik. Na long bikpela lait bilong San bilong marimari bilong Yu.  Na long Nem bilong Yu, em Nem i save bosim ol wokman bilong Yu.  Na long strongpela pawa bilong Tok bilong Yu, em Tok i stap antap tru long olgeta samting.  Na long pawa bilong Ing na Pen bilong Yu, em Pen i gutpela tru.  Na long marimari bilong Yu, em i bin stap bipo long taim Yu bin mekim kamap olgeta samting long heven na long graun.  Long ol dispela gutpela samting mi askim strong long Yu long wasim mi wantaim wara bilong blesing bilong Yu, inap ol kain kain sik na ol kain kain samting i laik bagarapim mi bai lusim mi na mi stap strong gen. 
  
 O Bikpela bilong mi.  Yu lukim dispela man i sanap na i wet long dua bilong blesing bilong Yu.  Em i wetim ol gutpela i samting i kamap long Yu.  Na em i holimpas long rop bilong gutpela pasin bilong Yu, em pasin we Yu save givim planti samting.  Mi askim strong long Yu.  No ken pasim dispela man long kisim ol gutpela samting i kam long solwara bilong marimari bilong Yu na San bilong gutpela lav bilong Yu. 
@@ -357,7 +414,10 @@ Yu gat pawa inap long mekim wanem samting Yu gat laik long mekim.  I no gat nara
 
 
 
-### <a id="bpn12954"></a> Prayer bpn12954 in Tok Pisin
+
+
+<a id="bpn12954"></a> 
+### Prayer bpn12954 in Tok Pisin
 O God, my God!  I beg of Thee by the ocean of Thy healing, and by the splendors of the Day-Star of Thy grace, and by Thy Name through which Thou didst subdue Thy servants, and by the pervasive power of Thy most exalted Word and the potency of Thy most august Pen, and by Thy mercy that hath preceded the creation of all who are in heaven and on earth, to purge me with the waters of Thy bounty from every affliction and disorder, and from all weakness and feebleness. 
  
 Thou seest, O my Lord, Thy suppliant waiting at the door of Thy bounty, and him who hath set his hopes on Thee clinging to the cord of Thy generosity.  Deny him not, I beseech Thee, the things he seeketh from the ocean of Thy grace and the Day-Star of Thy loving-kindness. 
@@ -371,9 +431,13 @@ Powerful art Thou to do what pleaseth Thee. There is none other God save Thee, t
 
 
 
+
+
+<a id="JUSTICE"></a> 
 ## JUSTICE
 
-### <a id="bpn12935"></a> Prayer bpn12935 in Tok Pisin
+<a id="bpn12935"></a> 
+### Prayer bpn12935 in Tok Pisin
 Tok olsem: O God. God bilong mi! Bilasim het bilong mi long hat king bilong stretpela pasin.  Na bilasim bodi bilong mi long bilas bilong gutpela pasin bilong skelim stret olgeta samting. Tru tumas.  Yu Papa bilong olgeta presen na olgeta blesing. 
 
 Say: O God, my God!  Attire mine head with the crown of justice, and my temple with the ornament of equity.  Thou, verily, art the Possessor of all gifts and bounties.
@@ -385,9 +449,13 @@ Say: O God, my God!  Attire mine head with the crown of justice, and my temple w
 
 
 
+
+
+<a id="MARRIAGE"></a> 
 ## MARRIAGE
 
-### <a id="bpn12965"></a> Prayer bpn12965 in Tok Pisin
+<a id="bpn12965"></a> 
+### Prayer bpn12965 in Tok Pisin
 *Man na meri, taim tupela i laik marit, wan wan i mas autim Tok Promis bilong Marit long ai bilong tupela pesman, husat Spiritual Asembli bilong Ples i bin makim.  Bahá’íullÆh i bin raitim dispela Tok Promis bilong Marit insait long Buk i Holi Tru, em Kitab-i-Aqdas, olsem: 
  
 *"Tru tumas, bai mipela olgeta i bihainim Laik bilong God." 
@@ -402,7 +470,10 @@ Say: O God, my God!  Attire mine head with the crown of justice, and my temple w
 
 
 
-### <a id="bpn12966"></a> Prayer bpn12966 in Tok Pisin
+
+
+<a id="bpn12966"></a> 
+### Prayer bpn12966 in Tok Pisin
 Em I Givim Planti Samting!  Em i Save Blesim Oltaim! 
  
 Litimapim nem bilong God, God Bilong Taim Bipo.  Em I Save Stap Oltaim.  Em I No Save Senis.  Em I Stap Oltaim Oltaim!  God i singaut long Spirit bilong En Yet.  Em i singaut olsem, tru tumas, 
@@ -433,9 +504,13 @@ Verily Thou art the Omnipotent, the Omnipresent and the Almighty!
 
 
 
+
+
+<a id="MEETINGS"></a> 
 ## MEETINGS
 
-### <a id="bpn12972"></a> Prayer bpn12972 in Tok Pisin
+<a id="bpn12972"></a> 
+### Prayer bpn12972 in Tok Pisin
 O God bilong marimari!  Yu gat strong na pawa.  Na Yu olsem naispela Papa! Ol dispela wokman i bung wantaim na tanim pes i go long Yu.  Ol i askim strong long dua bilong Yu.  Ol i laik kisim ol blesing i save kam long Yu oltaim long strongim ol.  Ol i gat wanpela bikpela laik tasol, em long amamasim Yu.  Ol i laik wokim wanpela samting tasol, em long kamap wokman bilong olgeta manmeri long graun. 
  
 O God!  Mekim olsem bai dispela kibung i pulap long lait.  Mekim olsem bai lewa bilong ol dispela manmeri i pulap long marimari. Karamapim ol wantaim blesing bilong Spirit Holi.  Givim pawa bilong heven long ol.  Blesim tingting bilong ol, inap bai ol i gat tingting i kam long heven tasol.  Strongim ol long stap tru, inap bai ol i bihainim daunpasin na wok sori na tanim i go long Kingdom bilong Yu.  Inap bai ol i wok long helpim olgeta manmeri long dispela graun.  Inap olgeta wan wan i ken kamap olsem wanpela kandel i givim bikpela lait.  Inap olgeta wan wan i ken kamap olsem sta i pulap long lait.  Inap olgeta wan wan i gat naispela kala na naispela smel long Kingdom bilong God.  
@@ -460,7 +535,10 @@ O God!  Endow us with Thy providence.  Thou art the Powerful. Thou art the Giver
 
 
 
-### <a id="bpn12973"></a> Prayer bpn12973 in Tok Pisin
+
+
+<a id="bpn12973"></a> 
+### Prayer bpn12973 in Tok Pisin
 O God bilong mi!  O God bilong mi!  Tru tumas. Ol dispela wokman i tanim i go long Yu na ol i askim strong long kingdom bilong marimari bilong Yu.  Tru tumas.  Pasin holi bilong Yu i wok long pulim ol i kam long Yu na ol i pulap long lait i kam long paia bilong bikpela laik long Yu.  Ol i painim blesing i kam long naispela kingdom bilong Yu na ol i gat bikpela laik long kamap long hap bilong heven bilong Yu. Tru tumas, ol i gat bikpela laik long lukim blesing bilong Yu i pundaun long ol.   Na ol i laikim bai lait bilong San bilong Trupela Laip i lait long ol.  O Bikpela!  Mekim olsem bai ol i kamap olsem ol lam i pulap long lait.  Inap bai ol i kamap mak bilong marimari.  Inap bai ol i 
 kamap olsem ol diwai i karim planti kaikai.  Inap bai ol i lait olsem ol sta.  Inap bai ol kirap long wokim wok bilong Yu na holimpas long rop bilong bikpela laik long Yu na painim ol lait i kam long blesing bilong Yu. O Bikpela!  Mekim olsem bai ol i kamap olsem ol mak bilong soim rot na soimaut ol pasin bilong kingdom bilong Yu.  Dispela kingdom i stap oltaim.  Inap bai ol i kamap olsem solwara bilong marimari bilong Yu i bruk.  Inap bai ol i kamap olsem glas bilong lukim lait bilong bikpela bilong Yu.  Tru tumas. Yu Givim Planti Samting.  Tru tumas.  Yu Save Sori Long Olgeta Man.  Tru tumas.  Yu Gat Bikpela Namba na Olgeta Man I Laikim Yu Tru. ’Abdu’l-Bahá’í 
  
@@ -473,7 +551,10 @@ O my God!  O my God!  Verily, these servants are turning to Thee, supplicating T
 
 
 
-### <a id="bpn12975"></a> Prayer bpn12975 in Tok Pisin
+
+
+<a id="bpn12975"></a> 
+### Prayer bpn12975 in Tok Pisin
 ##PREA BILONG PASIM KIBUNG BILONG ASEMBLI 
  
  
@@ -504,9 +585,13 @@ Verily, Thou art the Generous, the Merciful!  Thou art the Possessor of great bo
 
 
 
+
+
+<a id="MIDNIGHT"></a> 
 ## MIDNIGHT
 
-### <a id="bpn12958"></a> Prayer bpn12958 in Tok Pisin
+<a id="bpn12958"></a> 
+### Prayer bpn12958 in Tok Pisin
 O man, husat i painim Trupela Tok!  Sapos yu laikim bai God i opim ai bilong yu, orait yu mas askim strong long God, prea long En na tingting strong long En long biknait na tok: 
  
 O Bikpela.  Mi bin tanim pes bilong mi i go long kingdom bilong Yu, em i wanpela tasol. Na mi stap insait tru long solwara bilong marimari bilong Yu. O Bikpela. Givim lait long ai bilong mi taim mi lukim ol lait bilong Yu Yet long dispela nait, em i tudak tru. Na amamasim bel bilong mi wantaim wain bilong bikpela laik long Yu long dispela taim i gutpela olgeta.  O Bikpela.  Helpim mi long harim singaut bilong Yu. Na opim ol dua bilong Heven bilong Yu long pes bilong mi, inap mi ken lukim lait bilong glori bilong Yu. Inap naispela bilong Yu i ken pulim mi long kam long Yu. 
@@ -527,9 +612,13 @@ Verily, Thou art the Giver, the Generous, the Merciful, the Forgiving.
 
 
 
+
+
+<a id="MORNING"></a> 
 ## MORNING
 
-### <a id="bpn12955"></a> Prayer bpn12955 in Tok Pisin
+<a id="bpn12955"></a> 
+### Prayer bpn12955 in Tok Pisin
 O God bilong mi!  Mi kirap nau na mi stap gut insait long gutpela haus bilong Yu.  Husat man i laik painim dispela haus, em i mas i stap insait long Gutpela Ples bilong Yu.  Em Gutpela Ples we Yu ken was long em na em Strongpela Haus, we Yu ken lukautim em.  O Papa bilong mi!  Sutim bikpela lait bilong Tulait bilong Tokaut bilong Yu i go long spirit bilong mi, wankain olsem Yu bin sutim dispela gutpela lait bilong moning i go long bodi bilong mi.  Yes, dispela lait i presen i kam long Yu.  
  
   
@@ -543,9 +632,13 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 
 
 
+
+
+<a id="NAW RUZ"></a> 
 ## NAW RUZ
 
-### <a id="bpn12978"></a> Prayer bpn12978 in Tok Pisin
+<a id="bpn12978"></a> 
+### Prayer bpn12978 in Tok Pisin
 ##Naw Ruz
 
  
@@ -583,9 +676,13 @@ Thou, in truth, art the All-Knowing, the All-Wise.
 
 
 
+
+
+<a id="NIGHT"></a> 
 ## NIGHT
 
-### <a id="bpn12956"></a> Prayer bpn12956 in Tok Pisin
+<a id="bpn12956"></a> 
+### Prayer bpn12956 in Tok Pisin
 O God bilong mi! Yu Papa bilong mi na mi laikim tumas Yu.  Dispela wokman bilong Yu i laik slip long ples we sori bilong Yu i save karamapim em.  Na em i askim Yu long was gut long em na lukautim em taim em i slip long ples bilong marimari bilong Yu. 
  
 O Bikpela bilong mi.  Ai bilong Yu i no save slip.  Olsem na mi askim Yu long lukautim gut ai bilong mi bai mi no nap long lukim arapela samting.  Bai mi lukim Yu tasol.  Strongim ai bilong mi long luksave long ol mak bilong Yu tasol na luksave long Tulait bilong Tokaut bilong Yu.  Ol mak bilong pawa bilong Yu i bin mekim ol pawa bilong graun i guria. 
@@ -598,7 +695,10 @@ I no gat narapela God. Yu tasol i stap. Yu Gat Olgeta Strong na Yu Bosim Olgeta 
 
 
 
-### <a id="bpn12957"></a> Prayer bpn12957 in Tok Pisin
+
+
+<a id="bpn12957"></a> 
+### Prayer bpn12957 in Tok Pisin
 O my God, my Master, the Goal of my desire!  This, Thy servant, seeketh to sleep in the shelter of Thy mercy, and to repose beneath the canopy of Thy grace, imploring Thy care and Thy protection. 
  
 I beg of Thee, O my Lord, by Thine eye that sleepeth not, to guard mine eyes from beholding aught beside Thee.  Strengthen, then, their vision that they may discern Thy signs, and behold the Horizon of Thy Revelation.  Thou art He before the revelations of Whose omnipotence the quintessence of power hath trembled. 
@@ -612,9 +712,13 @@ No God is there but Thee, the Almighty, the All-Subduing, the Unconditioned.
 
 
 
+
+
+<a id="PARENTS"></a> 
 ## PARENTS
 
-### <a id="bpn12939"></a> Prayer bpn12939 in Tok Pisin
+<a id="bpn12939"></a> 
+### Prayer bpn12939 in Tok Pisin
 O Bikpela!  Yu lukim olsem mipela i apim han bilong mipela i go long heven bilong lav na blesing bilong Yu.  Inap Yu pulapim han bilong mipela wantaim gutpela na bikpela lav bilong Yu.  Inap Yu pogivim mipela.  Na pogivim ol papa na ol mama bilong mipela. Na inapim ol laik bilong mipela long solwara bilong marimari na gutpela bilong Yu.  O Lewa bilong mipela!  Inap Yu oraitim ol wok mipela i bin mekim long rot bilong Yu.  Tru tumas.  Pawa Bilong Yu I Antap Olgeta.  Yu Stap Antap Olgeta.  I No Gat Narapela Olsem Yu.  Yu Wanpela Tasol I Stap.  Yu Save Pogivim Ol Rong.  Yu Save Marimari Long Olgeta Man. 
 
 Thou seest, O Lord, our suppliant hands lifted up towards the heaven of Thy favor and bounty.  Grant that they may be filled with the treasures of Thy munificence and bountiful favors.  Forgive us, and our fathers and our mothers, and fulfill whatsoever we have desired from the ocean of Thy grace and Divine generosity.  Accept, O Beloved of our hearts all our works in Thy path.  Thou art, verily, the Most Powerful, the Most Exalted, the Incomparable, the One, the Forgiving, the Gracious.
@@ -626,9 +730,13 @@ Thou seest, O Lord, our suppliant hands lifted up towards the heaven of Thy favo
 
 
 
+
+
+<a id="PRAISE OF GOD"></a> 
 ## PRAISE OF GOD
 
-### <a id="bpn12934"></a> Prayer bpn12934 in Tok Pisin
+<a id="bpn12934"></a> 
+### Prayer bpn12934 in Tok Pisin
 Tok olsem:  God i save inapim olgeta samting na Em i winim olgeta samting.  Na i no gat wanpela samting long heven o daunbilo long graun i save inapim olsem.  Nogat. God tasol.  Tru tumas.  God Yet I Gat Save, Em I Givim Laip, Em I Strong Olgeta. 
  
 Say:  God sufficeth all things above all things.  And nothing in the heavens or in the earth but God sufficeth.  Verily, He is in Himself the Knower, the Sustainer, the Omnipotent. BÆb
@@ -640,9 +748,13 @@ Say:  God sufficeth all things above all things.  And nothing in the heavens or 
 
 
 
+
+
+<a id="PRAYER FOR THE DEPARTED"></a> 
 ## PRAYER FOR THE DEPARTED
 
-### <a id="bpn12968"></a> Prayer bpn12968 in Tok Pisin
+<a id="bpn12968"></a> 
+### Prayer bpn12968 in Tok Pisin
 O God bilong mi!  O Yu, Husat i save pogivim ol rong!  O Yu, Husat i save givim ol gutpela presen!  O Yu, Husat i save rausim ol bikpela hevi! 
  
 Tru tumas.  Mi askim strong long Yu long pogivim ol rong bilong ol husat man i bin lusim pinis bilas bilong bodi na ol i bin go antap long ples bilong spirit. 
@@ -662,9 +774,13 @@ O my Lord! Purify them from trespasses, dispel their sorrows, and change their d
 
 
 
+
+
+<a id="PRAYER FOR THE PACIFIC"></a> 
 ## PRAYER FOR THE PACIFIC
 
-### <a id="bpn12981"></a> Prayer bpn12981 in Tok Pisin
+<a id="bpn12981"></a> 
+### Prayer bpn12981 in Tok Pisin
 O God, Yu Husat I Klin na Strong Olgeta!  O Bikpela bilong mi, Yu Husat I Save Mekim Gut Long Olgeta Manmeri!  Mekim mipela i gat kain pawa we mipela inap long karim ol kain kain hevi i stap long olgeta hap long graun.  Na givim strong long mipela, inap bai ol wok bilong mipela i bruk olsem Pasifik Osen long ol nambis long hap we san i kamap wantaim hap we san i go daun. Abdu l-Bahá’í 
  
 O Thou Pure and Omnipotent God!  O Thou my kind Lord! Grant us such power as to enable us to withstand the perils of the entire world, and give us such might as to cause the waves of our endeavours, like unto the Pacific Ocean, to reach the shores of both East and West.
@@ -676,9 +792,13 @@ O Thou Pure and Omnipotent God!  O Thou my kind Lord! Grant us such power as to 
 
 
 
+
+
+<a id="SHORT OBLIGATORY PRAYER"></a> 
 ## SHORT OBLIGATORY PRAYER
 
-### <a id="bpn12930"></a> Prayer bpn12930 in Tok Pisin
+<a id="bpn12930"></a> 
+### Prayer bpn12930 in Tok Pisin
 ##SOTPELA PREA BILONG KOLIM LONG OLGETA WAN WAN DE 
  
  
@@ -702,9 +822,13 @@ I bear witness, O my God, that Thou hast created me to know Thee and to worship 
 
 
 
+
+
+<a id="SPIRITUAL ASSEMBLY"></a> 
 ## SPIRITUAL ASSEMBLY
 
-### <a id="bpn12974"></a> Prayer bpn12974 in Tok Pisin
+<a id="bpn12974"></a> 
+### Prayer bpn12974 in Tok Pisin
 ##PREA BILONG OPIM KIBUNG BILONG ASEMBLI 
  
 *Taim yupela opim kibung bilong Asembli, "kolim dispela prea long pasin we bel bilong yupela i pulap long lav long God na maus bilong yupela i klin na i save tingim God tasol.  Olsem na inap 
@@ -730,9 +854,13 @@ O God!  My God!  We are servants of Thine that have turned with devotion to Thy 
 
 
 
+
+
+<a id="STEADFASTNESS"></a> 
 ## STEADFASTNESS
 
-### <a id="bpn12960"></a> Prayer bpn12960 in Tok Pisin
+<a id="bpn12960"></a> 
+### Prayer bpn12960 in Tok Pisin
 O Bikpela, God bilong mi!  Helpim ol pipel husat Yu laikim tru, inap bai ol i stap strong insait long Lotu bilong Yu, na wokabaut long rot bilong Yu, na bihainim tru Lotu bilong Yu.  Inap Yu marimari long ol, bai ol i ken i stap strong, taim laik nogut bilong ol yet i birua wantaim ol.  Olsem na bai ol inap long bihainim lait bilong rot bilong God. 
  
 Yu Gat Pawa.  Yu Marimari Long Olgeta.  Yu Inapim Yu Yet.  Yu Givim Gutpela Presen.  Yu Save Sori Long Olgeta.  Yu Gat Olgeta Strong.  Yu Save Blesim Oltaim.  
@@ -745,7 +873,10 @@ O Lord my God!  Assist Thy loved ones to be firm in Thy Faith, to walk in Thy wa
 
 
 
-### <a id="bpn12961"></a> Prayer bpn12961 in Tok Pisin
+
+
+<a id="bpn12961"></a> 
+### Prayer bpn12961 in Tok Pisin
 O Bikpela!  Helpim mipela long wokabaut long rot bilong Yu tasol, na strongim mipela bai mipela i ken bihainim gut ol toktok bilong Yu tasol.  Tanim pes bilong mipela i go long Yu tasol,  inap mipela i ken lukim naispela bilong Yu na save olsem Yu Wanpela tasol i stap.  Amamasim bel bilong mipela wantaim ol dispela mak bilong Yu, ol i soimaut olsem Yu Wanpela tasol i stap.  Bilasim mipela wantaim dispela bilas bilong Yu, em bilas bilong gutpela blesing bilong Yu.  Na rausim ol rong i laik pasim ai bilong mipela.  Na givim kap bilong marimari bilong Yu long mipela.  Mekim ol dispela samting olsem bambai as tru bilong olgeta samting long graun i ken litimapim nem bilong Yu na luksave long bikpela bilong Yu. 
  
 O Bikpela!  Mekim gutpela toktok bilong Yu na ol pasin bilong Yu i kamap ples klia.  Inap spirit bilong ol pipel i ken pulap tru long amamas taim ol i prea.  Yes.  Kain prea olsem em i winim ol arapela toktok.  Ol arapela hap tok i stap olsem tok nating.  Inap bikpela lait bilong toktok bilong Yu em i ken mekim olgeta arapela samting i kamap olsem samting nating. 
@@ -769,9 +900,13 @@ Thou art the Pardoner, the Gracious.
 
 
 
+
+
+<a id="TABLET OF AHMAD"></a> 
 ## TABLET OF AHMAD
 
-### <a id="bpn12969"></a> Prayer bpn12969 in Tok Pisin
+<a id="bpn12969"></a> 
+### Prayer bpn12969 in Tok Pisin
 ##PAS I GO LONG AHMAD 
 
 Em I King.  Em I Gat Olgeta Save.  Em I Save Tru! 
@@ -855,9 +990,13 @@ Verily, He is the Merciful, the Compassionate.  Praise be to God, the Lord of al
 
 
 
+
+
+<a id="TABLET OF VISITATION"></a> 
 ## TABLET OF VISITATION
 
-### <a id="bpn12979"></a> Prayer bpn12979 in Tok Pisin
+<a id="bpn12979"></a> 
+### Prayer bpn12979 in Tok Pisin
 ##TABLET OF VISITATION 
  
  
@@ -902,9 +1041,13 @@ Bless Thou, O Lord my God, the Divine Lote-Tree and its leaves, and its boughs, 
 
 
 
+
+
+<a id="TABLET OF VISITATION - 'Abdu'l-Baha"></a> 
 ## TABLET OF VISITATION - 'Abdu'l-Baha
 
-### <a id="bpn12980"></a> Prayer bpn12980 in Tok Pisin
+<a id="bpn12980"></a> 
+### Prayer bpn12980 in Tok Pisin
 ##TABLET OF VISITATION - 'Abdul-Bahá’í 
 
 *Dispela prea em wanpela prea ‘Abdul-Bahá’í Yet i raitim.  Ol Bahá’í i save kolim dispela prea long ples matmat bilong ‘Abdul-Baha.  Na tu ol i save kolim em bilong tingim ‘Abdul-Bahá’í.  ‘AbdulBahá’í Yet i tok olsem: "Husat man i kolim strong dispela prea na daunim em yet, dispela man i amamasim tru bel bilong dispela wokman (‘Abdul-Bahá).  I olsem dispela man i bung wantaim Em na lukim pes bilong Em." 
@@ -946,9 +1089,13 @@ Thou art the Bestower, the Pitiful, the Most Bountiful, the Gracious, the Mercif
 
 
 
+
+
+<a id="TEACHING"></a> 
 ## TEACHING
 
-### <a id="bpn12962"></a> Prayer bpn12962 in Tok Pisin
+<a id="bpn12962"></a> 
+### Prayer bpn12962 in Tok Pisin
 O God!  I no gat narapela olsem Yu.  O God, Yu Papa bilong Kingdom!  Ol dispela lain, em ol ami bilong heven bilong Yu.  Helpim ol, bai ol i win wantaim helpim i kam long ol lain ami bilong Ples Bung I Antap Tru.  Inap bai wan wan yet i ken kamap olsem wanpela bikpela lain ami na winim ol dispela kantri wantaim lav bilong God na lait bilong ol gutpela tok skul bilong God. 
  
 O God!  Sambai long ol na helpim ol long ples i no gat man na long maunten na ples daun na ol bikbus na ol ples kunai na ol solwara.  Yes, long ol dispela ples, harim nek bilong ol dispela lain.  Inap bai ol i ken singaut wantaim pawa bilong Kingdom na win bilong Holi Spirit! 
@@ -970,9 +1117,13 @@ Verily, Thou art the Powerful, the Mighty and the Omnipotent, and Thou art the W
 
 
 
+
+
+<a id="TESTS AND DIFFICULTIES"></a> 
 ## TESTS AND DIFFICULTIES
 
-### <a id="bpn12931"></a> Prayer bpn12931 in Tok Pisin
+<a id="bpn12931"></a> 
+### Prayer bpn12931 in Tok Pisin
 Is there any Remover of difficulties save God?  Say: Praised be God!  He is God!  All are His servants and all abide by His bidding!
 
 (Source category: TESTS AND DIFFICULTIES)
@@ -981,7 +1132,10 @@ Is there any Remover of difficulties save God?  Say: Praised be God!  He is God!
 
 
 
-### <a id="bpn12932"></a> Prayer bpn12932 in Tok Pisin
+
+
+<a id="bpn12932"></a> 
+### Prayer bpn12932 in Tok Pisin
 Em I God Bilong Marimari, Em I Save Givim Olgeta Blesing! 
 O God!  O God bilong mi!  Yu lukim mi na Yu save long pasin bilong mi.  Yu lukautim mi na Yu stap olsem ples hait bilong mi.  Mi bin wok long painim Yu tasol, na mi no bin painim narapela.  Nogat tru.  Mi bin wokabaut long rot bilong lav bilong Yu tasol, na mi no laik wokabaut long narapela rot. Taim mi stap long tudak bilong sori, ai bilong mi i lukluk i go long tulait bilong marimari bilong Yu tasol.  Na long tulait mi tingting long pasin bilong Yu.  Yu naispela na gutpela olgeta.  Olsem na spirit bilong mi em i kamap nupela na strong gen.  Sapos Yu marimari long wanpela man, orait, pastaim dispela man i stap olsem liklik hap wara, tasol marimari bilong yu i mekim dispela man i kamap bikpela olsem solwara.  Na sapos Yu soim gutpela lav long wanpela liklik samting, orait, dispela samting bai lait tru olsem bikpela sta. 
  
@@ -999,9 +1153,13 @@ Shelter under Thy protection, O Thou Spirit of Purity, Thou Who art the All-Boun
 
 
 
+
+
+<a id="THANKS TO GOD"></a> 
 ## THANKS TO GOD
 
-### <a id="bpn12933"></a> Prayer bpn12933 in Tok Pisin
+<a id="bpn12933"></a> 
+### Prayer bpn12933 in Tok Pisin
 O God bilong mi.  Mi laikim tumas yu.  Yu King bilong mi.  Mi gat bikpela laik long stap wantaim 
 Yu.  Maus bilong mi i no nap long tokaut long tenkyu bilong mi long Yu.  Mi no bin harim tok bilong Yu, tasol Yu bin kirapim mi.  Mi bin tanim baksait long Yu, tasol Yu bin marimari long mi na Yu bin helpim mi long tanim i kam bek gen long Yu.  Mi bin stap olsem wanpela daiman, tasol Yu bin kirapim mi wantaim wara bilong laip.  Mi bin lusim strong bilong mi, tasol toktok bilong Yu i bin givim laip long mi gen.  Yes, dispela toktok bilong Yu i olsem wara bilong heven.  Ol dispela toktok i kamaut long Ing na Pen bilong Yu.  Na Yu Save Marimari long Olgeta Man. 
  
@@ -1019,9 +1177,13 @@ O Divine Providence!  All existence is begotten by Thy bounty; deprive it not of
 
 
 
+
+
+<a id="THE FAST"></a> 
 ## THE FAST
 
-### <a id="bpn12977"></a> Prayer bpn12977 in Tok Pisin
+<a id="bpn12977"></a> 
+### Prayer bpn12977 in Tok Pisin
 Litimapim Nem bilong Yu, O Bikpela, God bilong mi!  Mi askim strong long dispela Tokaut, em tokaut i bin mekim tudak i kamap lait.  Na em i bin mekim Haus Lotu i kamap, na em i bin raitim Pas Holi, na em i bin mekim Tok Holi i kamap ples klia.  Olsem na mi askim strong long en long salim ol gutpela samting i kam daun long mi wantaim ol lain husat i stap wantaim mi.  Em ol dispela gutpela samting i ken helpim mipela long flai antap long heven bilong bikpela glori bilong Yu, bai ol dispela gutpela samting i ken rausim mak bilong ol kain kain wari tingting o tubel long bel bilong mipela.  Ol dispela kain tingting nogut i bin pasim ol man, husat i save tubel, long kam kamap long tempel bilong wanbel bilong Yu. 
  
 O Bikpela bilong mi!  Mi wanpela mi bin holimpas long rop bilong gutpela lav bilong Yu na mi holimpas long arere bilong klos bilong marimari wantaim blesing bilong Yu.  Inap bai Yu makim ol gutpela samting bilong dispela graun wantaim ol gutpela samting bilong laip bihain i kam long mi wantaim ol lain bilong mi, husat mi laikim tru.  Givim dispela Presen i Stap Hait long ol, em dispela Presen Yu bin makim long ol lain, husat i gat bikpela namba tru long ai bilong Yu.  Yes, ol dispela lain i winim ol arapela samting Yu bin mekim kamap long graun.   
@@ -1044,7 +1206,10 @@ There is no God but Thee, the All-Knowing, the All-Wise.  All praise be to God, 
 
 
 
-### <a id="bpn12976"></a> Prayer bpn12976 in Tok Pisin
+
+
+<a id="bpn12976"></a> 
+### Prayer bpn12976 in Tok Pisin
 *Taim bilong Lusim Kaikai em long mun bilong ‘Ala (Antap), long namba 2 de bilong mun Mas I go inap long namba 20 de bilong mun Mas.  Long ol dispela de long taim bilong san ol Bahá’í i no ken dring o kaikai.  Em taim bilong prea bilong strongim spirit.  Husat man o meri i no winim 15 krismas o em i raun o em i gat sik o em i lapun tru, em i no mas lusim kaikai.  Na tu mama husat i gat bel o em i givim susu, em i no mas lusim kaikai long dispela taim. 
  
 O Blesing bilong God!  Mi no tingting long skin bilong mi na mi no save kaikai o dring.  Olsem na mekim lewa bilong mi i kamap klin na holi, inap bai em i pulap long bikpela laik long Yu tasol.  Na tu lukautim tewel bilong mi, inap bai em i no ken pulap long ol laik nogut wantaim ol pasin bilong Satan.  Inap spirit bilong mi i ken toktok wantaim ol naispela win holi.  Inap spirit bilong mi i ken lusim tingting long toktok long narapela samting na toktok long Yu tasol. 
@@ -1060,9 +1225,13 @@ O Divine Providence! As I am abstaining from bodily desires and not occupied wit
 
 
 
+
+
+<a id="TRAVEL"></a> 
 ## TRAVEL
 
-### <a id="bpn12963"></a> Prayer bpn12963 in Tok Pisin
+<a id="bpn12963"></a> 
+### Prayer bpn12963 in Tok Pisin
 O God bilong mi.  Marimari bilong Yu i bin kirapim mi long dispela moning.  Na taim mi lusim haus mi bilip tru olsem, Yu Yet bai Yu sambai long mi.  Na mi putim laip bilong mi long han bilong Yu.  Olsem na inap Yu salim blesing bilong Yu i kam daun long mi.  Dispela blesing i kam long heven bilong marimari bilong Yu.  Yu bin helpim mi long kirap na raun na Yu save lukautim mi.  Oltaim mi save sutim tingting bilong mi i go long Yu tasol.  Olsem na long wankain pasin helpim mi long raun na kambek gen long haus bilong mi. 
  
 I no gat narapela God. Yu Wanpela tasol i stap. I No Gat Narapela Olsem Yu.  Yu Gat Olgeta Save. Yu Save Olgeta. 
@@ -1079,9 +1248,13 @@ There is none other God but Thee, the One, the Incomparable, the All-Knowing, th
 
 
 
+
+
+<a id="UNITY"></a> 
 ## UNITY
 
-### <a id="bpn12944"></a> Prayer bpn12944 in Tok Pisin
+<a id="bpn12944"></a> 
+### Prayer bpn12944 in Tok Pisin
 O God bilong mi! O God bilong mi!  Bungim wantaim ol bel bilong olgeta wokman bilong Yu, na soim ol long as bilong bikpela wok bilong Yu.  I gutpela sapos ol i bihainim ol lo na ol tok bilong Yu.  O God.  Helpim ol long mekim wok bilong Yu na strongim ol bai ol inap long wok long Yu.  O God, Yu no ken lusim ol.  Lait bilong Yu i mas soim ol long rot ol i ken wokabaut long en, na Yu mas amamasim bel bilong ol.  Tru tumas.  Yu helpim ol na Yu Bikpela bilong ol. 
 
  
@@ -1093,7 +1266,10 @@ O my God!  O my God!  Unite the hearts of Thy servants, and reveal to them Thy g
 
 
 
-### <a id="bpn12945"></a> Prayer bpn12945 in Tok Pisin
+
+
+<a id="bpn12945"></a> 
+### Prayer bpn12945 in Tok Pisin
 Glori i go long Yu, O God, long wanem Yu bin soimaut bikpela laik long ol manmeri!  O Yu, Husat i Laip na Lait bilong mipela.  Soim rot bilong Yu long ol wokmanmeri bilong Yu.  Mekim mipela i 
 kamap olsem papa bilong planti samting long wanem mipela i bilip long Yu.  Na helpim mipela long lusim tingting long ol arapela samting na holimpas long Yu tasol. 
  
@@ -1114,7 +1290,10 @@ O God, create in the hearts of Thy beloved the fire of Thy love, that it may con
 
 
 
-### <a id="bpn12946"></a> Prayer bpn12946 in Tok Pisin
+
+
+<a id="bpn12946"></a> 
+### Prayer bpn12946 in Tok Pisin
 Plis God, inap Yu karamapim olgeta hap graun wantaim lait bilong bung wantaim.  Na putim wanpela mak olsem, em  "dispela Kingdom em Kingdom bilong God" i stap long poret bilong ol lain manmeri long dispela graun. 
  
 God grant that the light of unity may envelop the whole earth, and that the seal, "the Kingdom is God’s", may be stamped upon the brow of all its peoples.
@@ -1125,7 +1304,10 @@ God grant that the light of unity may envelop the whole earth, and that the seal
 
 
 
-### <a id="bpn12947"></a> Prayer bpn12947 in Tok Pisin
+
+
+<a id="bpn12947"></a> 
+### Prayer bpn12947 in Tok Pisin
 O gutpela Papa!  Yu bin mekim kamap olgeta manmeri long wanpela papa na wanpela mama tasol.  Yu bin tokaut olsem olgeta i mas i stap insait long wanpela haus tasol.  Long ai bilong Yu, olgeta man i wokman bilong Yu na Yu lukautim olgeta insait long Haus Holi bilong Yu.  Olgeta i bung wantaim long Tebol bilong Blesing bilong Yu.  Olgeta i kisim lait long lait bilong Marimari bilong Yu.  
  
 O God!  Yu save soim gutpela pasin long olgeta.  Yu save givim olgeta samting long olgeta.  Yu save givim haus long olgeta.  Yu save givim laip long olgeta.  Long wan wan man Yu bin givim ol gutpela save.  Olgeta i stap insait long Solwara bilong Marimari bilong Yu. 
@@ -1168,9 +1350,13 @@ Thou art the Mighty and Powerful, Thou art the Forgiving and Thou art the One Wh
 
 
 
+
+
+<a id="YOUTH"></a> 
 ## YOUTH
 
-### <a id="bpn12982"></a> Prayer bpn12982 in Tok Pisin
+<a id="bpn12982"></a> 
+### Prayer bpn12982 in Tok Pisin
 *PRAYER FOR YOUTH (FEAST OF ASMA, 20 AUGUST 2000) 
 
 O Bikpela!  Mekim dispela yangpela i pulap long lait, na givim blesing bilong Yu long dispela tarangu.  Givim bikpela save long em, givim bikpela strong moa long em long stat bilong wan wan de na lukautim em gut tru long gutpela ples bilong Yu.  Inap em i no ken mekim rong.  Inap em i makim laip bilong en yet long wokim wok bilong Lotu.  Inap em i ken soim rot long ol man i paul nabaut na helpim ol man i save lusim tingting long Yu.  Inap em i ken helpim ol man i stap olsem kalabusman na kirapim tingting bilong ol man.  Inap olgeta manmeri i ken kisim blesing i save pundaun taim ol i tingim Yu na litimapim Nem bilong Yu.  Yu gat Strong na Pawa.
@@ -1182,9 +1368,13 @@ O Bikpela!  Mekim dispela yangpela i pulap long lait, na givim blesing bilong Yu
 
 
 
+
+
+<a id="Ḥuqúqu'lláh"></a> 
 ## Ḥuqúqu'lláh
 
-### <a id="bpn12971"></a> Prayer bpn12971 in Tok Pisin
+<a id="bpn12971"></a> 
+### Prayer bpn12971 in Tok Pisin
 Litimapim Nem bilong Yu, O Papa bilong olgeta samting.  Olgeta samting i mas tanim i go long Yu.  Maus wantaim spirit bilong mi i tokaut olsem,  Yu bin kamap ples klia, Yu bin soimaut ol mak bilong Yu,  na Yu bin telimautim ol tok bilong Yu.  Mi tokaut tu olsem, Yu tasol inap long inapim Yu Yet.  Yu stap holi na antap long olgeta samting long graun.  Glori bilong Lotu bilong Yu i antap tumas na pawa bilong Toktok bilong Yu i bikpela tru.  Olsem na mi askim strong long Yu long givim blesing i go long husat man i gat laik long givim ol samting Yu bin askim long en long Buk bilong Yu na givim blesing long husat man i gat laik long bihainim ol lo, inap gutpela smel bilong amamas bilong Yu i ken kamap long en.  Tru tumas, Yu Gat Olgeta Stong, Yu Save Marimari Olgeta, Yu Save Pogivim Olgeta Rong, Yu Save Givim Olgeta Samting. 
 
 
@@ -1192,6 +1382,8 @@ Magnified art Thou, O Lord of the entire creation, the One unto Whom all things 
 
 (Source category: Ḥuqúqu'lláh)
 (Bahaiprayers.net ID: 12971)
+
+
 
 
 

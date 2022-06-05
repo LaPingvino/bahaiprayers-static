@@ -49,23 +49,27 @@ var TMPLPRAYERBOOK = template.Must(template.New("markdown").Parse(`+++
 title = "{{.LanguageName}}"
 tags = ['lang={{.LanguageCode}}', 'prayerbook']
 +++
-{{$crosslinks := .CrossLinks}}
+{{$pm := .PrayerMap}}
 
 {{range $cat, $discard := .ByCategory}}
 [{{$cat}}](#{{$cat}})
 {{end}}
 
 {{range $cat, $prayer := .ByCategory}}
+<a id="{{$cat}}"></a> 
 ## {{$cat}}
 {{range $prayer}}
-### <a id="{{.PrayerCode}}"></a> {{.Title}}
+<a id="{{.PrayerCode}}"></a> 
+### {{.Title}}
 {{.Text}}
 
 (Source category: {{.Category}})
 (Bahaiprayers.net ID: {{.Id}})
 
-{{range $crosslinks}}
+{{with (index $pm .PrayerCode)}}
+{{range .Prayers}}
 [../{{.LanguageCode}}/#{{.PrayerCode}}](#{{.LanguageName}})
+{{end}}
 {{end}}
 
 {{end}}
@@ -102,7 +106,7 @@ type PrayerBook struct {
 	LanguageName string
 	LanguageCode string
 	ByCategory   map[string][]Prayer
-	CrossLinks    map[string][]Prayer
+	PrayerMap    *map[string]Prayerfile
 }
 
 type PrayerBooks map[string]PrayerBook
@@ -115,14 +119,10 @@ func FillPrayerBooks(prayers []Prayer, prayerMap map[string]Prayerfile) PrayerBo
 				LanguageName: p.LanguageName,
 				LanguageCode: p.LanguageCode,
 				ByCategory:   make(map[string][]Prayer),
-				CrossLinks:   make(map[string][]Prayer),
+				PrayerMap:    &prayerMap,
 			}
 		}
 		books[p.LanguageCode].ByCategory[p.Category] = append(books[p.LanguageCode].ByCategory[p.Category], p)
-		// Fill the cross links with all prayers under the same prayer code
-		for _, p2 := range prayerMap[p.PrayerCode].Prayers {
-			books[p.LanguageCode].CrossLinks[p2.Category] = append(books[p.LanguageCode].CrossLinks[p2.Category], p2)
-		}
 	}
 	return books
 }

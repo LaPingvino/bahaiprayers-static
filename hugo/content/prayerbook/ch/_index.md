@@ -31,9 +31,11 @@ tags = ['lang=ch', 'prayerbook']
 
 
 
+<a id="DINAÑA’ ESPIRITUAT"></a> 
 ## DINAÑA’ ESPIRITUAT
 
-### <a id="bpn6114"></a> Prayer bpn6114 in Chamorro
+<a id="bpn6114"></a> 
+### Prayer bpn6114 in Chamorro
 ##DINAÑA’ ESPIRITUAT
 *SPIRITUAL ASSEMBLY
 
@@ -53,9 +55,13 @@ O God, my God! We are servants of Thine that have turned with devotion to Thy Ho
 
 
 
+
+
+<a id="HINEMLO’"></a> 
 ## HINEMLO’
 
-### <a id="bpn6113"></a> Prayer bpn6113 in Chamorro
+<a id="bpn6113"></a> 
+### Prayer bpn6113 in Chamorro
 ##HINEMLO’
 *HEALING
 I Na’an-Mu i hinemlo’-hu, O Yu’os-hu, ya i hi- nasso-ku put Hagu i remediu-hu. I hinihot giya Hagu ninangga-ku, ya i guinaiya para Hagu i ga’chong-hu. I mina’ase’-Mu giya guahu i hinem- lo’-hu yan alibiu-hu parehu guini na tano’ yan manmamamaila’ na tano! Hagu, sen magahet, i Todu Miguinaha, i Todu-Gaitiningo’, i Todu- Tomtom.
@@ -69,9 +75,13 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness
 
 
 
+
+
+<a id="I AYUNAT"></a> 
 ## I AYUNAT
 
-### <a id="bpn6111"></a> Prayer bpn6111 in Chamorro
+<a id="bpn6111"></a> 
+### Prayer bpn6111 in Chamorro
 ##I AYUNAT
 *THE FAST
 Itinina giya Hagu, O Asaina i Yu’os-hu! Hu gagagao Hao na ginen este na Ribilasion nai i hinemhom mana’manana, ayu nai Mafatotoigue na Templo nai mahatsa, yan i matuge na Table- ru mana’annok, ya i Babayon na Royu mababa, nai Un na’tunokguan gi hilo’-hu yan gi hilo’ ayu siha i mangga’chong-hu ayu nai ni’ u na’siña ham manggupu hulo’ gi i langet i ti ayukon na gloria- Mu, ya u fa’gasse ham gi minanchan dinida ni’ pumapatang i mansospechosu para u fanhalom gi tabinakulon i dinaña’-Mu.
@@ -92,9 +102,13 @@ There is no God but Thee, the All-Knowing, the All-Wise. All praise be to God, t
 
 
 
+
+
+<a id="KASAMIENTO"></a> 
 ## KASAMIENTO
 
-### <a id="bpn6112"></a> Prayer bpn6112 in Chamorro
+<a id="bpn6112"></a> 
+### Prayer bpn6112 in Chamorro
 ##KASAMIENTO
 *MARRIAGE
 Gloria giya Hagu, O Yu’os-hu! Sen magahet, este i dos na setbente-Mu dumaña’ gi papa’ i anineng i mina’ase’-Mu ya ginen i fabot-Mu yan i geftao-Mu. O Asaina! Asiste siha guini gi tano’-Mu yan i raino-Mu ya destinayi siha todu i minaolek ginen i guinaha-Mu yan i grasia-Mu. O Asaina! Konfitma siha para setbente-Mu ya asiste siha gi setbisiu-Mu. Opbliga na siha u fanmama’siñat i Na’an-Mu gi tano’-Mu ya pro- tehi siha ginen i nina’i-Mu ni taihinekkok guini na tano’ yan i tano’ ni mamamaila’. O Asaina! Mananayuyot i dos gi Rainon i mina’ase’-Mu yan mamamaisen bendision ginen i rainon i Uniku- Mu. Sen magahet na umasagua sigun i inesgen i tinago’-Mu. Otdena siha na u fansiñat i ina- danche yan dinaña’ esta i uttemon i tiempo. Sen magahet na Hagu i Pudet, i Presente gi todu i lu- gat, yan i Tagahlo’!
@@ -110,9 +124,13 @@ O Lord! Assist them in this Thy world and Thy kingdom and destine for them every
 
 
 
+
+
+<a id="KONTRIBUSION I FONDO"></a> 
 ## KONTRIBUSION I FONDO
 
-### <a id="bpn6119"></a> Prayer bpn6119 in Chamorro
+<a id="bpn6119"></a> 
+### Prayer bpn6119 in Chamorro
 ##KONTRIBUSION I FONDO
 *CONTRIBUTIONS TO THE FUND
 
@@ -135,9 +153,13 @@ Verily, Thou art the Sustainer, the Helper, the Generous, the Bountiful, the Eve
 
 
 
+
+
+<a id="MACHAKCHAK"></a> 
 ## MACHAKCHAK
 
-### <a id="bpn6107"></a> Prayer bpn6107 in Chamorro
+<a id="bpn6107"></a> 
+### Prayer bpn6107 in Chamorro
 ##MACHAKCHAK
 *DAWN
 
@@ -157,9 +179,13 @@ Bless Thou, O Lord my God, Him Whom Thou hast set over Thy most excellent Titles
 
 
 
+
+
+<a id="OGGA’AN"></a> 
 ## OGGA’AN
 
-### <a id="bpn6108"></a> Prayer bpn6108 in Chamorro
+<a id="bpn6108"></a> 
+### Prayer bpn6108 in Chamorro
 ##OGGA’AN
 *MORNING
 
@@ -173,7 +199,10 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 
 
 
-### <a id="bpn6109"></a> Prayer bpn6109 in Chamorro
+
+
+<a id="bpn6109"></a> 
+### Prayer bpn6109 in Chamorro
 Makmata yo’ este na ogga’an ginen i grasia- Mu, O Yu’os-Hu, ya hu dingu i saga-hu ya hu pega todu i inangokko-ku giya Hagu, ya hu entrega yo’ guatu gi katgo-Mu.
 Na’tunokgue gi hilo’-hu, ginen i langet i mina’ase’-Mu, bendision ni ginen Hagu, ya kosaki siña tuma’lo yo’ tatte gi saga-hu gi sinafo’ taiguihi nai Un na’hanao yo’ gi papa’ i proteksion-Mu yan i hinasso-ku ni chetton giya Hagu.
 Taya’ mas Yu’os ki Hagu, i Maisa, i Ti Akom- parayon, i Todu-Ha-Tungo’, i Todu-Tomtom.
@@ -189,9 +218,13 @@ Wise.
 
 
 
+
+
+<a id="OTRO SIHA NA TINAITAI"></a> 
 ## OTRO SIHA NA TINAITAI
 
-### <a id="bpn6122"></a> Prayer bpn6122 in Chamorro
+<a id="bpn6122"></a> 
+### Prayer bpn6122 in Chamorro
 ##OTRO SIHA NA TINAITAI
 *SOME OTHER PRAYERS
 
@@ -212,7 +245,10 @@ Reveal to us, O God, Thine exalted eternity - that Thou hast ever been and wilt 
 
 
 
-### <a id="bpn6123"></a> Prayer bpn6123 in Chamorro
+
+
+<a id="bpn6123"></a> 
+### Prayer bpn6123 in Chamorro
 O Yu’os-hu! O Yu’os-hu! Na’fandaña’ i kora- son todu i setbente-Mu ya Un na’fanmanli’e’ ni dangkolon intension-Mu nu siha. Siña mohon u ma tattiyi siha i tinago’-Mu yan u konsigi siha gi areklao-Mu. O Yu’os, ayuda todu siha ni’ i mana’kekesiña mo’na yan na’i lokkue’ ni i minet- got na Un masetbe. O Yu’os, cha’-Mu dumidingu siha na maisa, giha pinekkat-ñiha mo’na ni i kan- det i tiningo’-Mu, ya na’magof i korason-ñiha ni guinaiya-Mu. Gof magahet, Hagu i Ayudante yan Sainan-ñiha.
 
 O my God! O my God! Unite the hearts of Thy servants, and reveal to them Thy great purpose. May they follow Thy commandments and abide in Thy law. Help them, O God, in their endeavor, and grant them strength to serve Thee. O God! Leave them not to themselves, but guide their steps by the light of Thy knowledge, and cheer their hearts by Thy love. Verily, Thou art their Helper and their Lord.
@@ -223,7 +259,10 @@ O my God! O my God! Unite the hearts of Thy servants, and reveal to them Thy gre
 
 
 
-### <a id="bpn6124"></a> Prayer bpn6124 in Chamorro
+
+
+<a id="bpn6124"></a> 
+### Prayer bpn6124 in Chamorro
 Sangan: “O Yu’os, Yu’os-hu! Muda i ilu-hu ni koronan hustisia, yan adotno i templo-ku yan i tininas. Hagu, sen magahet, chumuchule’ todu i nina’i yan i guinaha.”
 
 Say: “O God, my God! Attire mine head with the crown of justice, and my temple with the ornament of equity. Thou, verily, art the Possessor of all gifts and bounties.”
@@ -234,7 +273,10 @@ Say: “O God, my God! Attire mine head with the crown of justice, and my temple
 
 
 
-### <a id="bpn6126"></a> Prayer bpn6126 in Chamorro
+
+
+<a id="bpn6126"></a> 
+### Prayer bpn6126 in Chamorro
 Yu’os na’huyong na i kandet dinaña’ u inina todu i tano’, ya i fino’, “iyon Yu’os i Raino,” u matugge’ gi ha’en todu i taotao.
 
 God grant that the light of unity may envelop the whole earth, and that the seal, “the Kingdom is God’s”, may be stamped upon the brow of all its peoples.
@@ -245,7 +287,10 @@ God grant that the light of unity may envelop the whole earth, and that the seal
 
 
 
-### <a id="bpn6125"></a> Prayer bpn6125 in Chamorro
+
+
+<a id="bpn6125"></a> 
+### Prayer bpn6125 in Chamorro
 O Yu’os-hu, hu fafaisen Hao ginen i mas gloiosu na Na’an-Mu, na Un ayuda yo’ mo’na gi ayu u na’libiano i che’cho’ i setbente-Mu ya u guaha mas inabansa gi todu i Siudat-Mu. Hagu, magahet, gai nina’siña entre todu i guinaha!
 
 Omy God! I ask Thee, by Thy most glorious Name, to aid me in that which will cause the affairs of Thy servants to prosper, and Thy cities to flourish. Thou, indeed, hast power over all things!
@@ -256,7 +301,10 @@ Omy God! I ask Thee, by Thy most glorious Name, to aid me in that which will cau
 
 
 
-### <a id="bpn6127"></a> Prayer bpn6127 in Chamorro
+
+
+<a id="bpn6127"></a> 
+### Prayer bpn6127 in Chamorro
 Kao guaha Na’suhan minappot fuera ki si Yu’os? Sangan: Matuna si Yu’os, Yu’os Gue’! Todu setbente-Ña, ya todu umo’osge i malago’- Ña!
 
 Is there any Remover of difficulties save God? Say: Praised be God! He is God! All are His servants and all abide by His bidding!
@@ -267,7 +315,10 @@ Is there any Remover of difficulties save God? Say: Praised be God! He is God! A
 
 
 
-### <a id="bpn6129"></a> Prayer bpn6129 in Chamorro
+
+
+<a id="bpn6129"></a> 
+### Prayer bpn6129 in Chamorro
 O Yu’os-hu, i Guinaiya-ku, i Tinanga-hu! Fa’amigu-Mu yo’ gi minahalang-hu ya dalalake yo’ mo’na gi madesteladu-hu. Na’suha i piniti-hu. Na’dibotu yo’ gi ginatbo-Mu. Na’suha yo’ gi todu fuera ki Hagu. Bense yo’ yan i sinan- tusan paopao-Mu. Na’fanhami gi Raino-Mu yan todu ayu siha i manasipara gi todu fuera ki Hagu, ni matatanga ma setbe i sinantusan na saga-Mu ya fanohge para u makomple i che’cho’-Mu. Na’faset na guahu unu gi famalao’an na setbente- Mu ni mumiresi i minaolek-Mu. Sen magahet, Hagu i Grasiosu, i Geftao.
 
 O my Lord, my Beloved, my Desire! Befriend me in my loneliness and accompany me in my exile. Remove my sorrow. Cause me to be devoted to Thy beauty. Withdraw me from all else save Thee. Attract me through Thy fragrances of holiness. Cause me to be associated in Thy Kingdom with those who are severed from all else save Thee, who long to serve Thy sacred threshold and who stand to work in Thy Cause. Enable me to be one of Thy maidservants who have attained to Thy good pleasure. Verily, Thou art the Gracious, the Generous.
@@ -278,7 +329,10 @@ O my Lord, my Beloved, my Desire! Befriend me in my loneliness and accompany me 
 
 
 
-### <a id="bpn6130"></a> Prayer bpn6130 in Chamorro
+
+
+<a id="bpn6130"></a> 
+### Prayer bpn6130 in Chamorro
 Saina Yu’os-hu! Asiste i manguinaya-Mu na u fanmetgot gi Hinengge-Mu, u fanmamok-kat gi karera-Mu, ya u fanfitme gi che’cho’-Mu. Na’i ni grasia-Mu para u ma sungon i inatakan i tailayen yan i sensen, ya u ma tattiyi i kandet i yini’usan na giniha. Hagu i Minina’siña, i Grasiosu, i Lala’la’-Maisa, i Nana’i, i Gai Yo’ase’, i Tagahlo’, i Todu Geftao.
 
 O Lord, my God! Assist Thy loved ones to be firm in Thy Faith, to walk in Thy ways, to be steadfast in Thy Cause. Give them Thy grace to withstand the onslaught of self and passion, to follow the light of Divine Guidance. Thou art the Powerful, the Gracious, the Self-Subsisting, the Bestower, the Compassionate, the Almighty, the All-Bountiful.
@@ -289,7 +343,10 @@ O Lord, my God! Assist Thy loved ones to be firm in Thy Faith, to walk in Thy wa
 
 
 
-### <a id="bpn6132"></a> Prayer bpn6132 in Chamorro
+
+
+<a id="bpn6132"></a> 
+### Prayer bpn6132 in Chamorro
 O Asaina! Mandebet ham; na’i ham animu. O Yu’os! Mantaitiningo’ ham, na’fanmanungo’ ham. O Asaina! Mamopble ham, na’fanmiguinaha ham. O Yu’os! Manmatai ham, na’fanlala’la’ ham. O Asaina! Manna’mamahlao ham; na’fanggloriosu ham gi Raino-Mu. Yanggen Hagu umasiste ham, siempre mama’ma’lak estreyas ham. Yanggen ti Un asiste ham, siempre manakpapa’ña ham kinu i edda’. O Asaina, na’metgot ham. O Yu’os! Na’i i ginanna giya hami. O Yu’os, na’i ham kapasidat na bai in igi i sensen yan i diniseha. O Asaina, na’fanlibre ham gi ginedden i matiriat na tano’. O Asaina! Na’fanla’la’ ham ginen i hinagong i Espiritu Santo kosaki in fangahulo’ para bai in setbe Hao, in tina Hao, ya in na’i animu gi raino-Mu
 yan i etmas sinseru. O Asaina! Metgot Hao! O Yu’os, manasisi’i Hao. O Asaina, yo’ase’ Hao.
 
@@ -301,7 +358,10 @@ O Lord! We are weak; strengthen us. O God! We are ignorant; make us knowing. O L
 
 
 
-### <a id="bpn6134"></a> Prayer bpn6134 in Chamorro
+
+
+<a id="bpn6134"></a> 
+### Prayer bpn6134 in Chamorro
 O Yu’os,! O Yu’os! Guiya este i paluma ni mahlok papa-ña ya i hinanao-ña sen ti geftan - ayuda gue’ kosaki u gupu guatu gi puntan i ginefsaga yan i satbasion, u palapayi i hinanao-ña gi manyahululo’ na minagof yan felisidat gi halom i ti finakpo na lugat, u kanta huyong gi Mas Takkhilo’ na Na’an-Mu gi todu i lugat, u na’fanmagof i talanga ni inagang-ña, yan u na’fanma’lak i at- adok ginen i ma atan i siñat giniha!
 
 O Asaina! Unu yo’, guahu ha’ na maisa, yan takpapa’. Para guahu taya’ ayudu fuera ki Hagu, taya’ ayudante fuera ki Hagu, yan taya’ munana’nahong mas ki Hagu. Aprueba yo’ gi setbisio-Mu, asiste yo’ yan i inetnot i mananghetMu, na’fangganna yo’ gi ma’abansan i Fino’-Mu ya afuetsas yo’ na bai hu sangan huyong i tinem-
@@ -317,7 +377,10 @@ O Lord! I am single, alone and lowly. For me there is no support save Thee, no h
 
 
 
-### <a id="bpn6133"></a> Prayer bpn6133 in Chamorro
+
+
+<a id="bpn6133"></a> 
+### Prayer bpn6133 in Chamorro
 O Yu’os, Yu’os-hu. Pattang i manangokkuyon na setbente-Mu gi i baba i tinailayen yan i sensen, protehi siha ni gof inatan yo’ase’ na guinaiya-Mu gi minala’et, chinatli’e’ yan inembidia, na’fanliheng siha gi lugat ni ti siña mahatme sa’ pot i inadahi-Mu, yan safo’ gi i flechan dinida, siha Un na’fanmanu’i i gloriosu na siñat-Mu, na’manila’ i matan-ñiha ni i mina’lak i ininan i Be’bo’ Ha’anen i Yini’usan na Dinaña’-Mu, na’fanmagof i korason-ñiha ni i fino’ ni’ mafatta ginen i Sinantusan na Raino-Mu, na’fanmetgot i sinturan-ñiha ginen i todu gainina’siñan na mi- netgot-Mu ni mafatto ginen i Gloriosu na Raino- Mu. Hagu i Todu-Geftao, i A’adahi, i Tagahlo’, i Grasiosu.
 
 O God, my God! Shield Thy trusted servants from the evils of self and passion, protect them with the watchful eye of Thy loving kindness from all rancor, hate and envy, shelter them in the impregnable stronghold of Thy care and, safe from the darts of doubtfulness, make them the manifestations of Thy glorious Signs, illumine their faces with the effulgent rays shed from the Dayspring of Thy Divine Unity, gladden their hearts with the verses revealed from Thy Holy Kingdom, strengthen their loins by Thy all-swaying power that cometh from Thy Realm of Glory. Thou art the All-Bountiful, the Protector, the Almighty, the Gracious!
@@ -328,7 +391,10 @@ O God, my God! Shield Thy trusted servants from the evils of self and passion, p
 
 
 
-### <a id="bpn6131"></a> Prayer bpn6131 in Chamorro
+
+
+<a id="bpn6131"></a> 
+### Prayer bpn6131 in Chamorro
 Asaina! Manna’ma’ase’ ham, na’i ham ni fabot-Mu; mamopble ham, na’i ham patte ginen i tasen i guinaha-Mu; meggai in nisisita, Hagu Un satesfecho ham; manmagacha’; na’i ham ni gloria-Mu. I paharo gi aire yan i ga’ga’ gi tano’ ma risisibi i aggon-ñiha kada diha ginen Hagu ya todu i manaotao mañasaonao gi inadahi-Mu yan gi yine’ase’ ginefli’e’-Mu.
 Munga machule’ i tagahlo na grasia-Mu ginen este i tainina’siñan taotao, yan na’guahayi para este na tainina’siñan ante i gineftao-Mu ginen i nina’siña-Mu.
 Nai ham ni aggon-mami ya Un aomenta i nisisidat i lina’la’, kosaki ti in fanmanangokko gi ni’ hayi fuera ki Hagu, in fanadaña’ enteramente giya Hagu, in fanmamokkat gi karera-Mu ya in diklara i misteriu-Mu. Hagu i Tagahlo’ yan i Guaguaiya yan i Prubienadot todu i taotao. 
@@ -345,7 +411,10 @@ Give us our daily bread, and grant Thine increase in the necessities of life, th
 
 
 
-### <a id="bpn6128"></a> Prayer bpn6128 in Chamorro
+
+
+<a id="bpn6128"></a> 
+### Prayer bpn6128 in Chamorro
 O Yu’os! Na’fresko yan na’minagof i espiritu- hu. Na’gasgas i korason-hu. Na’ma’lak i nina’siña-hu. Hu po’lo todu i inangokku-ku gi kannai-Mu. Hagu i Giha-hu yan i Fanliheng-hu. Esta ti bai hu triste pat piniti; bai hu magogof na taotao. O Yu’os! Esta ti bai hu michathinasso pat bai sedi i problema na u momye yo! Ti bai hu ha- hasso ha’ i ti minaolek siha gi lina’la’.
 
 O Yu’os! Hagu mas amigu-hu para guahu kinu guahu mismo. O Asaina, hu ofresi Hao ni’ gua-
@@ -362,9 +431,13 @@ O God! Thou art more friend to me than I am to myself. I dedicate myself to Thee
 
 
 
+
+
+<a id="PARA I MANMATAI"></a> 
 ## PARA I MANMATAI
 
-### <a id="bpn6120"></a> Prayer bpn6120 in Chamorro
+<a id="bpn6120"></a> 
+### Prayer bpn6120 in Chamorro
 ##PARA I MANMATAI
 *FOR THE DEPARTED
 
@@ -405,7 +478,10 @@ We all, verily, are patient in God.
 
 
 
-### <a id="bpn6121"></a> Prayer bpn6121 in Chamorro
+
+
+<a id="bpn6121"></a> 
+### Prayer bpn6121 in Chamorro
 O Yu’os-hu! Hagu i manasisi’i ni’ isao, i mannana’i guinaha, yan sasatba gi chinat- saga siha.
 Gi inimitde, hu gagagao Hao na Un asi’i i isao todu ni esta ma abandona i magagon este na tano’ ya kahulo’ gi tano’ espirituat.
 
@@ -422,9 +498,13 @@ O my Lord! Purify them from trespasses, dispel their sorrows, and change their d
 
 
 
+
+
+<a id="PUPUENGI"></a> 
 ## PUPUENGI
 
-### <a id="bpn6110"></a> Prayer bpn6110 in Chamorro
+<a id="bpn6110"></a> 
+### Prayer bpn6110 in Chamorro
 ##PUPUENGI
 *EVENING
 OYu’os, Ma’gas-hu, i Uttemon i tinanga-hu! Este, i setbente-Mu, manespipiha deskanso gi i fanliheng i mina’ase’-Mu, ya u maigo’ gi sagan i grasia-Mu, yan tumatayuyot i inadahi-Mu yan proteksion-Mu.
@@ -442,9 +522,13 @@ No God is there but Thee, the Almighty, the All-Subduing, the Unconditioned.
 
 
 
+
+
+<a id="TINAITAI OPBLIGASION"></a> 
 ## TINAITAI OPBLIGASION
 
-### <a id="bpn6106"></a> Prayer bpn6106 in Chamorro
+<a id="bpn6106"></a> 
+### Prayer bpn6106 in Chamorro
 #TINAITAI OPBLIGASION
 ##OBLIGATORY PRAYER
 
@@ -463,9 +547,13 @@ There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 
 
 
+
+
+<a id="TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN"></a> 
 ## TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN
 
-### <a id="bpn6115"></a> Prayer bpn6115 in Chamorro
+<a id="bpn6115"></a> 
+### Prayer bpn6115 in Chamorro
 ##TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN
 *PRAYERS FOR CHILDREN AND YOUTH
 
@@ -479,7 +567,10 @@ O God! Rear this little babe in the bosom of Thy love, and give it milk from the
 
 
 
-### <a id="bpn6116"></a> Prayer bpn6116 in Chamorro
+
+
+<a id="bpn6116"></a> 
+### Prayer bpn6116 in Chamorro
 O Yu’os! Eduka este siha na famagu’on. Este siha na famagu’on tinanom siha gi gualo’Mu, flores i sabana-Mu, flores rosa i hatdin-Mu. Na’faninichani ni ichan-Mu; Na’faninina ni atd- aon minagahet ginen i guinaiya-Mu. Na’fanfresko ni’ manglo’-Mu kosa ki siña maninarekla gi tininas, mandangkolo yan manadilanto yan u fanannok i etmas na buninitu. Hagu i Geftao. Hagu i Yo’ase’.
 
 O God! Educate these children. These children are the plants of Thine orchard, the flowers of Thy meadow, the roses of Thy garden. Let Thy rain fall upon them; let the Sun of Reality shine upon them with Thy love. Let Thy breeze refresh them in order that they may be trained, grow and develop, and appear in the utmost beauty. Thou art the Giver. Thou art the Compassionate.
@@ -490,7 +581,10 @@ O God! Educate these children. These children are the plants of Thine orchard, t
 
 
 
-### <a id="bpn6117"></a> Prayer bpn6117 in Chamorro
+
+
+<a id="bpn6117"></a> 
+### Prayer bpn6117 in Chamorro
 O Asaina! Na’fanma’lak este na hoben, yan na’i ni’ guinaha-Mu este na popblen prohimu. Na’i gue’ tiningo, na’i gue’ kada ogga’an mas minetgot ya Un pulan gi papa’ i liheng i proteksion-Mu kosa ki u libre gi linachi, u na’facho’cho’ gue’ gi i setbisio-Mu, giha mo’na i manlalachi, ayuda i mandimalas, na’libre i manmapopongle yan na’fanmakmata i ti manmanatetende, kosaki todu u fambinendisi ni’ mimorias-Mu yan i matuna-Mu. Hagu i Metgot yan Gainina’siña.
 
 O Lord! Make this youth radiant, and confer Thy bounty upon this poor creature. Bestow upon him knowledge, grant him added strength at the break of every morn and guard him within the shelter of Thy protection so that he may be freed from error, may devote himself to the service of Thy Cause, may guide the wayward, lead the hapless, free the captives and awaken the heedless, that all may be blessed with Thy remembrance and praise. Thou art the Mighty and the Powerful.
@@ -501,13 +595,18 @@ O Lord! Make this youth radiant, and confer Thy bounty upon this poor creature. 
 
 
 
-### <a id="bpn6118"></a> Prayer bpn6118 in Chamorro
+
+
+<a id="bpn6118"></a> 
+### Prayer bpn6118 in Chamorro
 O Yu’os, giha yo’, protehi yo’, po’lo yo’ kulan un maninila’ na kandet yan ma’lak na estreyas. Hagu i Metgot yan Gainina’siña.
 
 O God, guide me, protect me, make of me a shining lamp and a brilliant star. Thou art the Mighty and the Powerful.
 
 (Source category: TINAYUYOT PARA FAMAGU’ON YAN MANHOBEN)
 (Bahaiprayers.net ID: 6118)
+
+
 
 
 

@@ -105,9 +105,11 @@ tags = ['lang=nl', 'prayerbook']
 
 
 
+<a id="Aanstaande moeders"></a> 
 ## Aanstaande moeders
 
-### <a id="bpn9734"></a> Prayer bpn9734 in Nederlands
+<a id="bpn9734"></a> 
+### Prayer bpn9734 in Nederlands
 Mijn Heer! Mijn Heer! Ik loof U en ik dank U voor datgene waarmee Gij Uw nederige dienares, Uw slavin die tot U bidt en smeekt, hebt begunstigd, daar Gij haar waarlijk naar Uw duidelijke Koninkrijk hebt geleid en haar Uw verheven Roep in deze vergankelijke wereld hebt laten horen en Uw tekenen die bewijzen dat Uw zegevierende bewind over alle dingen is verschenen hebt laten waarnemen.
 O mijn Heer, ik draag hetgeen zich in mijn schoot bevindt aan U op. Geef dan dat het door Uw gunst en edelmoedigheid een lovenswaardig en gelukkig kind wordt in Uw Koninkrijk, dat het opgroeit en zich ontwikkelt onder de hoede van Uw opvoeding. Waarlijk, Gij zijt de Genadige! Waarlijk, Gij zijt de Heer van grote gaven!
 
@@ -118,9 +120,13 @@ O mijn Heer, ik draag hetgeen zich in mijn schoot bevindt aan U op. Geef dan dat
 
 
 
+
+
+<a id="Algemene gebeden voor overledenen"></a> 
 ## Algemene gebeden voor overledenen
 
-### <a id="bpn9687"></a> Prayer bpn9687 in Nederlands
+<a id="bpn9687"></a> 
+### Prayer bpn9687 in Nederlands
 #Algemene gebeden voor overledenen
 
 
@@ -134,7 +140,10 @@ Verheerlijkt, onmetelijk verheerlijkt zijt Gij! Gij wordt aanbeden om Uw waarhei
 
 
 
-### <a id="bpn9688"></a> Prayer bpn9688 in Nederlands
+
+
+<a id="bpn9688"></a> 
+### Prayer bpn9688 in Nederlands
 Hij is God, verheven is Hij, de Heer van goedertierenheid en milddadigheid!
 Verheerlijkt zijt Gij, o mijn God, de Almachtige Heer. Ik getuig van Uw almacht en Uw macht, Uw soevereiniteit en Uw goedertierenheid, Uw genade en Uw kracht, het één-zijn van Uw Wezen en de eenheid van Uw Essentie, Uw heiligheid en Uw verheven-zijn boven deze wereld en al wat zich daarin bevindt.
 O mijn God! Gij ziet mij, onthecht van alles buiten U, mij vasthoudend aan U en mij kerend naar de oceaan van Uw milddadigheid, naar de hemel van Uw gunst, naar de dagster van Uw genade.
@@ -153,7 +162,10 @@ Er is geen ander God dan Gij, de Ene, de Enige, de Machtige, de Alwetende, de Mi
 
 
 
-### <a id="bpn9689"></a> Prayer bpn9689 in Nederlands
+
+
+<a id="bpn9689"></a> 
+### Prayer bpn9689 in Nederlands
 Vergun, o mijn Heer, dat zij die naar U zijn opgestegen zich naar Hem die de verhevenste Metgezel is mogen begeven, en onder de schaduw van de tabernakel van Uw majesteit en het heiligdom van Uw heerlijkheid mogen verblijven.
 Besprenkel hen, o mijn Heer, uit de oceaan van Uw vergeving met hetgeen hen waardig zal maken om zolang Uw oppermacht voortduurt in Uw verhevenste Koninkrijk en Uw allerhoogste gebied te verblijven. Machtig zijt Gij te doen naar Uw behagen.
 
@@ -163,7 +175,10 @@ Besprenkel hen, o mijn Heer, uit de oceaan van Uw vergeving met hetgeen hen waar
 
 
 
-### <a id="bpn9690"></a> Prayer bpn9690 in Nederlands
+
+
+<a id="bpn9690"></a> 
+### Prayer bpn9690 in Nederlands
 O God, mijn God! Gij hebt aan mijn handen een pand van U toevertrouwd en hebt het thans naar Uw wil en welbehagen tot U teruggeroepen. Het is niet aan mij, Uw dienares, om te zeggen: vanwaar komt dit tot mij of waarom is dit geschied, daar Gij verheerlijkt zijt in al Uw daden, en Uw gebod gehoorzaamd dient te worden. Uw dienares, o mijn Heer, heeft haar hoop op Uw genade en milddadigheid gevestigd. Vergun dat zij verkrijgt hetgeen haar U zal doen naderen en haar in elk van Uw werelden zal baten.
 Gij zijt de Vergevende, de Almilddadige. Er is geen ander God dan Gij, de Beschikker, de Aloude van Dagen.
 
@@ -173,7 +188,10 @@ Gij zijt de Vergevende, de Almilddadige. Er is geen ander God dan Gij, de Beschi
 
 
 
-### <a id="AB11094"></a> Prayer AB11094 in Nederlands
+
+
+<a id="AB11094"></a> 
+### Prayer AB11094 in Nederlands
 O mijn God! O Gij die zonden vergeeft, gaven schenkt en kwellingen verdrijft!
 Waarlijk, ik smeek U de zonden te vergeven van hen die het stoffelijk gewaad hebben afgelegd en naar de geestelijke wereld zijn opgestegen.
 O mijn Heer! Zuiver hen van overtredingen, verdrijf hun droefheid en verander hun duisternis in licht. Doe hen de tuin van geluk betreden, reinig hen met het zuiverste water en laat hen Uw luister op de verhevenste berg aanschouwen.
@@ -184,7 +202,10 @@ O mijn Heer! Zuiver hen van overtredingen, verdrijf hun droefheid en verander hu
 
 
 
-### <a id="bpn9692"></a> Prayer bpn9692 in Nederlands
+
+
+<a id="bpn9692"></a> 
+### Prayer bpn9692 in Nederlands
 O mijn God! O mijn God! Waarlijk, Uw dienaar, deemoedig voor de majesteit van Uw goddelijke oppermacht, nederig aan de deur van Uw één-zijn, heeft in U en in Uw verzen geloofd, heeft getuigd van Uw woord, is aangestoken met het vuur van Uw liefde, is gedompeld in de diepten van de oceaan van Uw kennis, is aangetrokken door Uw bries, vertrouwt op U, heeft zijn gelaat naar U gewend, heeft zijn smeekbeden aan U opgedragen, en is overtuigd van Uw gratie en vergeving. Hij heeft dit sterfelijk leven achter zich gelaten en heeft zich naar het koninkrijk van onsterfelijkheid gespoed, verlangend naar het voorrecht U te ontmoeten.
 O Heer, verheerlijk zijn staat, beschut hem in het paviljoen van Uw opperste genade, laat hem Uw allerheerlijkste paradijs betreden, en bestendig zijn bestaan in Uw verheven rozengaard, opdat hij zich in de zee van licht in de wereld van mysteriën mag dompelen.
 Waarlijk, Gij zijt de Edelmoedige, de Krachtige, de Vergevende, de Schenker.
@@ -195,7 +216,10 @@ Waarlijk, Gij zijt de Edelmoedige, de Krachtige, de Vergevende, de Schenker.
 
 
 
-### <a id="bpn9693"></a> Prayer bpn9693 in Nederlands
+
+
+<a id="bpn9693"></a> 
+### Prayer bpn9693 in Nederlands
 O Gij vergevingsgezinde Heer!
 Hoewel sommige zielen de dagen van hun leven in onwetendheid hebben doorgebracht en vervreemd en opstandig werden, kunnen allen die in zonde gevangen zijn toch bevrijd worden met één golf van de oceaan Uwer vergeving. Al wie Gij wilt maakt Gij tot vertrouweling en al wie niet door U is uitverkoren wordt als overtreder gezien. Indien Gij ons naar Uw gerechtigheid zou behandelen, waren wij allen slechts zondaars en verdienden wij het van U uitgesloten te worden, doch indien Gij erbarmen zou betonen dan zou elke zondaar zuiver worden en elke vreemdeling een vriend. Schenk dan Uw vergeving en gratie, en verleen allen Uw barmhartigheid.
 Gij zijt de Vergevende, de Schenker van licht en de Almachtige.
@@ -207,9 +231,13 @@ Gij zijt de Vergevende, de Schenker van licht en de Almachtige.
 
 
 
+
+
+<a id="Avond"></a> 
 ## Avond
 
-### <a id="bpn9527"></a> Prayer bpn9527 in Nederlands
+<a id="bpn9527"></a> 
+### Prayer bpn9527 in Nederlands
 O mijn God, mijn Meester, Doel van mijn verlangen! Deze dienaar van U zoekt de slaap in de beschutting van Uw erbarmen en de rust onder het baldakijn van Uw genade, smekend om Uw zorg en Uw bescherming.
 Ik smeek U, o mijn Heer, bij Uw oog dat niet slaapt, mijn ogen te behoeden iets anders te zien dan U. Sterk dan hun blik, opdat zij Uw tekenen mogen waarnemen en de horizon Uwer Openbaring mogen aanschouwen. Gij zijt Degeen voor Wiens openbaringen van almacht de kern van macht beeft.
 Geen God is er dan Gij, de Almachtige, de Albeheerser, de Absolute.
@@ -220,7 +248,10 @@ Geen God is er dan Gij, de Almachtige, de Albeheerser, de Absolute.
 
 
 
-### <a id="bpn9528"></a> Prayer bpn9528 in Nederlands
+
+
+<a id="bpn9528"></a> 
+### Prayer bpn9528 in Nederlands
 Hoe kan ik wensen te slapen, o God, mijn God, wanneer zij die naar U hunkeren niet kunnen slapen omdat zij van U gescheiden zijn, en hoe kan ik mij te rusten leggen terwijl de zielen van Uw minnaars gekweld worden doordat zij veraf zijn van Uw tegenwoordigheid?
 Ik heb mijn geest en mijn gehele wezen, o mijn Heer, toevertrouwd aan de rechterhand van Uw macht en Uw bescherming; door Uw kracht leg ik mijn hoofd op mijn kussen en naar Uw wil en welbehagen hef ik het op. Gij zijt waarlijk de Behoeder, de Bewaker, de Almachtige, de Almogende.
 Bij Uw macht! Slapend of wakend vraag ik slechts hetgeen Gij wenst. Ik ben Uw dienaar en ik ben in Uw handen. Helpt Gij mij genadiglijk te doen wat de zoete geur van Uw welbehagen zal verspreiden. Dit is waarlijk mijn hoop en de hoop van hen die U nabij zijn. Geprezen zijt Gij, o Heer der werelden!
@@ -232,9 +263,13 @@ Bij Uw macht! Slapend of wakend vraag ik slechts hetgeen Gij wenst. Ik ben Uw di
 
 
 
+
+
+<a id="Beproevingen en moeilijkheden"></a> 
 ## Beproevingen en moeilijkheden
 
-### <a id="BH08600TES"></a> Prayer BH08600TES in Nederlands
+<a id="BH08600TES"></a> 
+### Prayer BH08600TES in Nederlands
 O Gij, Wiens beproevingen een heilzaam middel zijn voor hen die U nabij zijn, Wiens zwaard het vurige verlangen is van allen die U liefhebben, Wiens pijl de dierbaarste wens is van de harten die naar U hunkeren, Wiens gebod de enige hoop is van hen die Uw waarheid erkennen! Ik smeek U, bij Uw goddelijke lieflijkheid en bij de pracht van de glorie van Uw aangezicht, datgene tot ons neer te zenden uit Uw afzondering in den hoge waardoor wij nader tot U kunnen komen. Maak ons standvastig in Uw Zaak, o mijn God, verblijd ons hart met de pracht van Uw kennis, en verlicht ons gemoed met de glans van Uw namen.
 
 (Source category: Beproevingen en moeilijkheden)
@@ -243,7 +278,10 @@ O Gij, Wiens beproevingen een heilzaam middel zijn voor hen die U nabij zijn, Wi
 
 
 
-### <a id="bpn9532"></a> Prayer bpn9532 in Nederlands
+
+
+<a id="bpn9532"></a> 
+### Prayer bpn9532 in Nederlands
 Verheerlijkt zijt Gij, o Heer mijn God! Ieder weldenkend mens belijdt Uw soevereiniteit en Uw heerschappij, en ieder onderscheidend oog neemt de grootheid van Uw majesteit en de onweerstaanbare kracht van Uw macht waar. De storm van bezoekingen kan hen die U nabij zijn niet beletten om hun gelaat naar de horizon van Uw glorie te richten, en de stormen van beproevingen zullen er niet in slagen hen die Uw wil geheel zijn toegewijd te belemmeren Uw hof te naderen, of hen ervan weg te houden.
 Mij dunkt, de lamp van Uw liefde brandt in hun hart en het licht van Uw genegenheid is ontstoken in hun borst. Zij kunnen niet door tegenslagen van Uw Zaak vervreemd worden, en de wisselvalligheden van het lot kunnen hen nooit doen afdwalen van Uw welgevallen.
 Ik smeek U, o mijn God, bij hen en bij de hartgrondige zuchten die zij slaken in hun gescheiden zijn van U, hen te beschermen tegen het kwaad van Uw tegenstanders en hun ziel te voeden met hetgeen Gij beschikt hebt voor Uw geliefden die geen angst zullen kennen en die geen leed berokkend zal worden.
@@ -254,7 +292,10 @@ Ik smeek U, o mijn God, bij hen en bij de hartgrondige zuchten die zij slaken in
 
 
 
-### <a id="bpn9533"></a> Prayer bpn9533 in Nederlands
+
+
+<a id="bpn9533"></a> 
+### Prayer bpn9533 in Nederlands
 Verdrijf mijn verdriet met Uw milddadigheid en Uw grootmoedigheid, o God, mijn God, en verban mijn smart door Uw soevereiniteit en Uw macht. Gij ziet mij, o mijn God, met naar U geheven gelaat nu leed mij aan alle kanten omgeeft. Ik smeek U, o Gij die de Heer zijt van alle zijn en die alle dingen, zichtbaar en onzichtbaar, beschut, bij Uw Naam waarmee Gij hart en ziel der mensen onderwerpt, en bij het deinen van de Oceaan Uwer genade en de pracht van de Dagster Uwer milddadigheid, mij te rekenen tot hen die door niets worden belet hun gelaat tot U te heffen, o Gij Heer aller namen en Maker der hemelen!
 Gij ziet, o mijn Heer, hetgeen mij in Uw dagen is overkomen. Ik smeek U, bij Hem die het ochtendgloren Uwer namen en de dageraadsplaats Uwer eigenschappen is, datgene voor mij te bestemmen wat maakt dat ik kan opstaan om U te dienen en Uw deugden te prijzen. Gij zijt waarlijk de Almachtige, de Almogende, die de gebeden aller mensen pleegt te verhoren!
 En ten laatste smeek ik U, bij het licht van Uw aanschijn, mijn aangelegenheden te zegenen, mijn schulden te vereffenen en mijn behoeften te bevredigen. Gij zijt Degeen van Wiens macht en van Wiens heerschappij iedere tong getuigt, en Wiens majesteit en Wiens soevereiniteit ieder begrijpend hart erkent. Geen God is er dan Gij, die luistert en bereid zijt te antwoorden.
@@ -265,7 +306,10 @@ En ten laatste smeek ik U, bij het licht van Uw aanschijn, mijn aangelegenheden 
 
 
 
-### <a id="bpn9531"></a> Prayer bpn9531 in Nederlands
+
+
+<a id="bpn9531"></a> 
+### Prayer bpn9531 in Nederlands
 Ere zij U, o mijn God! Hoe zouden Uw ware minnaars anders worden herkend dan door de beproevingen die zij te verduren krijgen op Uw pad; en hoe zou de rang van hen die hevig naar U verlangen anders kunnen worden onthuld dan door de beproevingen die zij uit liefde voor U verdragen? Uw macht is mij tot getuige! Allen die U aanbidden hebben hun tranen tot metgezel, en zij die U zoeken worden vertroost door hun eigen kreunen, en zij die zich tot U haasten hebben de scherven van hun gebroken hart tot voedsel.
 Hoe zoet smaakt mij de bitterheid des doods op Uw pad, en hoe waardevol acht ik de pijlen van Uw vijanden die ik het hoofd bied omwille van het verheerlijken van Uw woord! Laat mij in Uw Zaak, o mijn God, met diepe teugen drinken van al wat Gij verlangt, en zend mij in Uw liefde al hetgeen Gij hebt verordend. Bij Uw heerlijkheid! Ik wens slechts hetgeen Gij wenst en koester hetgeen Gij koestert. In U heb ik te allen tijde mijn gehele hoop en vertrouwen gesteld.
 Ik smeek U, o mijn God, laat als helpers van deze Openbaring diegenen opstaan die Uw Naam en Uw soevereiniteit waardig geacht worden, dat zij mij zullen gedenken onder Uw schepselen en de vaandels van Uw zege in Uw land zullen heffen.
@@ -277,7 +321,10 @@ Machtig zijt Gij te doen naar Uw behagen. Geen God is er dan Gij, de Helper in n
 
 
 
-### <a id="bpn9534"></a> Prayer bpn9534 in Nederlands
+
+
+<a id="bpn9534"></a> 
+### Prayer bpn9534 in Nederlands
 Geprezen en verheerlijkt zijt Gij, o mijn God! Ik smeek U, bij het zuchten van hen die U liefhebben en bij de tranen vergoten door hen die ernaar verlangen U te aanschouwen, mij in Uw Dag Uw tedere genade niet te onthouden, en mij de melodieën van de Duif die Uw één-zijn verheerlijkt in het licht dat van Uw gelaat straalt niet te ontzeggen. Ik verkeer in nood, o God! Zie hoe ik mij stevig vasthoud aan Uw Naam, de Albezitter. Ik zal zeker ten onder gaan; zie hoe ik mij vastklamp aan Uw Naam, de Onvergankelijke. Ik smeek U daarom bij Uzelf, de Verhevene, de Allerhoogste, mij niet over te laten aan mijn eigen ik en aan de verlangens van een verdorven aard. Houdt Gij mijn hand vast met Uw hand van macht, en verlos mij uit de diepten van mijn fantasieën en nutteloze verbeeldingen, en zuiver mij van al wat U weerzinwekkend is.
 Zorg dan dat ik mij geheel tot U keer, mijn gehele vertrouwen in U stel, bij U schuil en naar Uw aangezicht vlucht. Gij zijt waarlijk Degeen die door de kracht van Zijn macht al wat Hij wenst doet, en door de macht van Zijn wil al wat Hij verkiest beveelt. Niemand kan de werking van Uw gebod weerstaan; niemand kan het verloop van Uw beschikking wijzigen. Gij zijt in waarheid de Almachtige, de Alglorierijke, de Milddadigste.
 Bahá´u´lláh
@@ -291,7 +338,10 @@ Is er iemand die moeilijkheden wegneemt buiten God? Zeg: Ere zij God! Hij is God
 
 
 
-### <a id="bpn9535"></a> Prayer bpn9535 in Nederlands
+
+
+<a id="bpn9535"></a> 
+### Prayer bpn9535 in Nederlands
 Gij weet zeer wel, o mijn God, dat ik vanuit alle richtingen word overstelpt door rampspoed en dat niemand dan Gij deze kan verdrijven of omvormen. Vanuit mijn liefde voor U ben ik er vast van overtuigd dat Gij geen ziel ooit rampspoed zal doen overkomen tenzij Gij zijn rang in Uw hemels Paradijs wenst te verhogen en zijn hart in dit aardse leven wenst te schragen met de schans van Uw algebiedende kracht, opdat het niet zal neigen naar de ijdelheden van deze wereld. Gij zijt zekerlijk gewaar dat Uw gedachtenis mij onder alle omstandigheden veel dierbaarder is dan het bezit van al wat in de hemelen en op aarde is.
 Sterk mijn hart, o mijn God, in gehoorzaamheid aan U en in liefde tot U, en sta toe dat ik bij de gehele schare van Uw tegenstanders vandaan mag blijven. Waarlijk, ik zweer bij Uw glorie dat ik naar niets dan U smacht, niets verlang buiten Uw erbarmen, en uitsluitend beducht ben voor Uw gerechtigheid. Ik smeek U mij en ook hen die Gij liefhebt te vergeven hoe het U dan ook behaagt. Waarlijk, Gij zijt de Almachtige, de Milddadige.
 Onmetelijk verheven zijt Gij, o Heer van hemel en aarde, boven de lof van alle mensen, en vrede zij met Uw getrouwe dienaren en glorie zij God, de Heer aller werelden.
@@ -302,7 +352,10 @@ Onmetelijk verheven zijt Gij, o Heer van hemel en aarde, boven de lof van alle m
 
 
 
-### <a id="bpn9536"></a> Prayer bpn9536 in Nederlands
+
+
+<a id="bpn9536"></a> 
+### Prayer bpn9536 in Nederlands
 Ik smeek U bij Uw macht, o mijn God! Laat mij geen kwaad overkomen in tijden van beproevingen, en houd mij in ogenblikken van achteloosheid op het rechte pad door Uw bezieling. Gij zijt God, machtig zijt Gij te doen wat Gij wenst. Niemand kan Uw wil weerstaan of Uw plan verhinderen.
 
 (Source category: Beproevingen en moeilijkheden)
@@ -311,7 +364,10 @@ Ik smeek U bij Uw macht, o mijn God! Laat mij geen kwaad overkomen in tijden van
 
 
 
-### <a id="bpn9537"></a> Prayer bpn9537 in Nederlands
+
+
+<a id="bpn9537"></a> 
+### Prayer bpn9537 in Nederlands
 O Heer! Gij zijt Degeen die alle smart wegneemt en iedere kwelling verdrijft. Gij zijt Degeen die alle verdriet uitbant en elke slaaf vrijmaakt, de bevrijder van elke ziel. O Heer! Verlos ons door Uw genade, en schaar mij onder diegenen van Uw dienaren die gered zijn.
 
 (Source category: Beproevingen en moeilijkheden)
@@ -321,9 +377,13 @@ O Heer! Gij zijt Degeen die alle smart wegneemt en iedere kwelling verdrijft. Gi
 
 
 
+
+
+<a id="Bescherming"></a> 
 ## Bescherming
 
-### <a id="bpn9538"></a> Prayer bpn9538 in Nederlands
+<a id="bpn9538"></a> 
+### Prayer bpn9538 in Nederlands
 Geprezen zijt Gij, o Heer mijn God! Gij ziet en weet dat ik Uw dienaren heb gemaand zich in geen andere richting te wenden dan in de richting van Uw gaven, en hen heb bevolen niets anders in acht te nemen dan hetgeen Gij in Uw Duidelijke Boek hebt voorgeschreven, het Boek dat is neergezonden overeenkomstig Uw ondoorgrondelijk besluit en onherroepelijk plan.
 Ik kan geen woord uiten, o mijn God, tenzij Gij mij dit toestaat, en ik kan mij in geen enkele richting begeven tot Gij mij toestemming verleent. Gij zijt het, o mijn God, die mij tot leven hebt geroepen door de kracht van Uw macht, en mij hebt begiftigd met Uw genade om Uw Zaak te openbaren. Ik ben daarom onderworpen aan tegenslagen die mijn tong beletten U te loven en Uw glorie te verheerlijken.
 Alle lof zij U, o mijn God, voor de dingen die Gij voor mij hebt beschikt door Uw gebod en door de macht van Uw soevereiniteit. Ik smeek U mij en ook hen die mij liefhebben te sterken in onze liefde voor U en ons standvastig te laten blijven in Uw Zaak. Ik zweer bij Uw macht! O mijn God! Schande is het voor Uw dienaar om als door een sluier van U gescheiden te zijn, en roem is het voor hem U te kennen. Gewapend met de macht van Uw Naam kan niets mij ooit deren, en met Uw liefde in mijn hart kunnen alle rampspoeden van de wereld mij geenszins verontrusten.
@@ -336,7 +396,10 @@ Gij zijt waarlijk de Alglorierijke, de Almilddadige.
 
 
 
-### <a id="bpn9539"></a> Prayer bpn9539 in Nederlands
+
+
+<a id="bpn9539"></a> 
+### Prayer bpn9539 in Nederlands
 Geprezen zijt Gij, o Heer mijn God! Dit is Uw dienaar die met diepe teugen de wijn van Uw tedere barmhartigheid uit de handen van Uw genade heeft gedronken en de smaak van Uw liefde in Uw dagen heeft geproefd. Ik smeek U bij de belichamingen van Uw namen die zich door geen enkel leed laten beletten zich te verheugen in Uw liefde of hun blik op Uw gelaat te laten rusten, en die zich door geen enkele schare van achtelozen af laten brengen van het pad van Uw welbehagen, hem te voorzien van het goede dat Gij bezit, en hem tot zulk een hoogte te verheffen dat hij de wereld zal beschouwen als slechts een schaduw die sneller dan een oogwenk voorbij vliedt.
 Behoed hem dan ook voor al wat Gij verafschuwt, o mijn God, door de kracht van Uw onmetelijke majesteit. Gij zijt waarlijk zijn Heer en de Heer aller werelden.
 
@@ -346,7 +409,10 @@ Behoed hem dan ook voor al wat Gij verafschuwt, o mijn God, door de kracht van U
 
 
 
-### <a id="bpn9540"></a> Prayer bpn9540 in Nederlands
+
+
+<a id="bpn9540"></a> 
+### Prayer bpn9540 in Nederlands
 Geloofd zij Uw Naam, o Heer mijn God! Ik smeek U bij Uw Naam waardoor het uur heeft geslagen en de wederopstanding is geschied, en angst en beven allen die in de hemel zijn en allen die op aarde zijn heeft gegrepen, om vanuit de hemel van Uw erbarmen en de wolken van Uw tedere mededogen datgene te laten neerregenen wat het hart van Uw dienaren zal verblijden, zij die zich tot U hebben gekeerd en Uw Zaak hebben geholpen.
 Behoed Uw dienaren en dienaressen voor de pijlen van ijdele waan en nutteloze verbeelding, o mijn Heer, en schenk hun een teug van de kabbelende wateren van Uw kennis uit de hand van Uw genade.
 Gij zijt waarlijk de Almachtige, de Verhevenste, de Immervergevende, de Grootmoedigste.
@@ -357,7 +423,10 @@ Gij zijt waarlijk de Almachtige, de Verhevenste, de Immervergevende, de Grootmoe
 
 
 
-### <a id="bpn9541"></a> Prayer bpn9541 in Nederlands
+
+
+<a id="bpn9541"></a> 
+### Prayer bpn9541 in Nederlands
 O God, mijn God! Ik ben van mijn huis vertrokken, mij vastklemmend aan het koord van Uw liefde, en ik heb mij geheel aan Uw zorg en Uw bescherming toevertrouwd. Ik smeek U bij Uw kracht, waarmee Gij Uw geliefden hebt beschermd tegen de eigenzinnigen en de verdorvenen, tegen iedere weerspannige onderdrukker en tegen iedere boosaardige die ver van U is afgedwaald, om mij met Uw milddadigheid en Uw genade te beschermen. Laat mij dan door Uw kracht en Uw macht naar mijn huis terugkeren. Gij zijt waarlijk de Almachtige, de Helper in Nood, de Bij-zich-bestaande.
 
 (Source category: Bescherming)
@@ -366,7 +435,10 @@ O God, mijn God! Ik ben van mijn huis vertrokken, mij vastklemmend aan het koord
 
 
 
-### <a id="bpn9542"></a> Prayer bpn9542 in Nederlands
+
+
+<a id="bpn9542"></a> 
+### Prayer bpn9542 in Nederlands
 In Naam van Hem, de Verhevene, de Allerhoogste, de Subliemste!
 Verheerlijkt zijt Gij, o Heer mijn God! O Gij die mijn God zijt, en mijn Meester, en mijn Heer, en mijn Steun, en mijn Hoop, en mijn Schuilplaats, en mijn Licht. Ik vraag U, bij Uw verborgen en welbewaarde Naam die niemand buiten Uzelf kent, de drager van deze Tafel te behoeden voor alle rampspoed en pestilentie, voor iedere boosaardige man of vrouw, voor het kwaad van de boosdoeners en voor de samenzweringen van de ongelovigen. Bewaar hem bovendien, o mijn God, voor alle pijn en kwelling, o Gij die de heerschappij over alle dingen in Uw hand houdt. Gij hebt waarlijk macht over alle dingen. Gij doet naar Uw wil en beschikt naar Uw behagen.
 O Gij Koning der koningen! O Gij liefderijk Heer! O Gij Bron van aloude milddadigheid, van genade, van weldaad en gaven! O Gij Genezer van ziekten! O Gij Leniger van noden! O Gij Licht van het licht! O Gij Licht boven alle lichten! O Gij Openbaarder van iedere Manifestatie! O Gij de Meedogende! O Gij de Genadige! Weest Gij barmhartig voor de drager van deze Tafel door Uw allergrootste barmhartigheid en Uw overvloedige genade, o Gij de Genadige, Gij de Milddadige. Beschut hem bovendien, door Uw bescherming, voor al wat hij met hart en verstand weerzinwekkend vindt. Van degenen die met macht bekleed zijn zijt Gij waarlijk de machtigste. De Glorie van God ruste op u, o gij rijzende zon! Leg getuigenis af van hetgeen God van Zichzelf heeft getuigd, dat er geen ander God is buiten Hem, de Almachtige, de Meestgeliefde.
@@ -377,7 +449,10 @@ O Gij Koning der koningen! O Gij liefderijk Heer! O Gij Bron van aloude milddadi
 
 
 
-### <a id="bpn9543"></a> Prayer bpn9543 in Nederlands
+
+
+<a id="bpn9543"></a> 
+### Prayer bpn9543 in Nederlands
 Leid Uw dienaren, o mijn Heer, naar het hof van Uw gunst en milddadigheid en laat hen niet verstoken zijn van de wonderen van Uw genade en van Uw menigvuldige zegeningen. Want zij weten niet wat Gij voor hen hebt beschikt krachtens Uw barmhartigheid die de gehele schepping omvat. O Heer, uiterlijk zijn zij zwak en hulpeloos, en innerlijk zijn zij slechts wezen. Gij zijt de Almilddadige, de Weldadige, de Verhevenste, de Grootste. O mijn God, laat Uw felle toorn niet op hen neerkomen en zorg dat zij wachten tot de tijd dat de wonderen van Uw barmhartigheid zullen zijn geopenbaard, opdat zij tot U mogen terugkeren en U om vergiffenis vragen voor alles wat zij U hebben aangedaan. Waarlijk, Gij zijt de Vergevende, de Albarmhartige.
 
 (Source category: Bescherming)
@@ -386,7 +461,10 @@ Leid Uw dienaren, o mijn Heer, naar het hof van Uw gunst en milddadigheid en laa
 
 
 
-### <a id="bpn9544"></a> Prayer bpn9544 in Nederlands
+
+
+<a id="bpn9544"></a> 
+### Prayer bpn9544 in Nederlands
 Beschik voor mij en voor hen die in U geloven, o mijn Heer, hetgeen naar Uw oordeel het beste voor ons is, zoals beschreven in het Moederboek, want Gij houdt de vastgestelde maat van alle dingen in Uw greep.
 Uw goede gaven worden onophoudelijk uitgestort over hen die Uw liefde koesteren, en de wondere tekenen van Uw hemelse genadegaven worden overvloedig geschonken aan hen die Uw goddelijke eenheid erkennen. Wat Gij ook maar voor ons bestemt vertrouwen wij toe aan Uw zorg, en wij smeken U ons al het goede dat Uw kennis behelst te schenken.
 Bescherm mij, o mijn Heer, tegen ieder kwaad dat Gij in Uw alwetendheid kent, daar er kracht noch sterkte is dan in U, geen overwinning mogelijk is dan vanuit Uw tegenwoordigheid en het alleen aan U is om te bevelen. Wat God wil geschiedt, en wat Hij niet wil zal niet geschieden.
@@ -398,7 +476,10 @@ Er is kracht noch sterkte dan in God, de Verhevenste, de Machtigste.
 
 
 
-### <a id="BB00100EXI"></a> Prayer BB00100EXI in Nederlands
+
+
+<a id="BB00100EXI"></a> 
+### Prayer BB00100EXI in Nederlands
 Glorie zij U, o God! Gij zijt de God die vóór alle dingen bestond, die na alle dingen zal bestaan en die voorbij alle dingen voortduurt. Gij zijt de God die alle dingen kent en over alle dingen heerst. Gij zijt de God die alle dingen barmhartig behandelt, die over alle dingen recht spreekt en Wiens blik alle dingen omvat. Gij zijt God mijn Heer, Gij weet waar ik sta, Gij ziet en kent mijn innerlijk en mijn uiterlijk.
 Schenk mij en de gelovigen die gehoor hebben gegeven aan Uw roep Uw vergeving. Weest Gij mijn toereikende helper tegen het onheil van degenen die mij verdriet willen berokkenen of kwaad toewensen. Waarlijk, Gij zijt de Heer van al het geschapene. Gij zijt eenieder toereikend, terwijl niemand zonder U kan bestaan.
 
@@ -408,7 +489,10 @@ Schenk mij en de gelovigen die gehoor hebben gegeven aan Uw roep Uw vergeving. W
 
 
 
-### <a id="BB00490"></a> Prayer BB00490 in Nederlands
+
+
+<a id="BB00490"></a> 
+### Prayer BB00490 in Nederlands
 In Naam van God, de Heer van overweldigende majesteit, de Algebiedende.
 Geheiligd zij de Heer in Wiens hand de bron van heerschappij ligt. Hij schept wat Hij ook maar wil door Zijn gebiedend Woord “Wees” en het is. Immer heeft de kracht van gezag aan Hem behoord en deze zal Hem blijven behoren. Hij schenkt de overwinning aan wie het Hem behaagt door de kracht van Zijn bevel. Hij is in waarheid de Krachtige, de Almachtige. Hem behoren alle glorie en majesteit van het koninkrijk van openbaring en schepping en al wat daartussen is toe. Waarlijk, hij is de Machtige, de Alglorierijke. Sedert het begin der tijden is Hij de bron van onbedwingbare kracht geweest en dat zal Hij voor eeuwig blijven. Hij is voorwaar de Heer van macht en kracht. Alle koninkrijken van hemel en aarde en al wat daartussen is zijn van God en Zijn kracht overtreft alle dingen. Alle schatten van hemel en aarde en alles daartussen behoren aan Hem, en Zijn bescherming omvat alle dingen. Hij is de Schepper van de hemelen en de aarde en al wat daartussen is, en Hij is waarlijk getuige van alle dingen. Hij is de Heer des oordeels voor allen die in de hemelen en op aarde en al wat daartussen is verblijven, en God oordeelt werkelijk snel. Hij bepaalt de maatstaf waarmee allen in de hemelen en op aarde en al wat daartussen is worden beoordeeld. Waarlijk, Hij is de Opperste Beschermer. Hij houdt de sleutels van hemel en aarde en van alles daartussen in Zijn greep. Naar Zijn goeddunken schenkt Hij gaven door de kracht van Zijn bevel. Voorwaar, Zijn genade omvat allen, en Hij is de Alwetende.
 Zeg: God is mij toereikend; Hij is Degeen die het koninkrijk aller dingen in Zijn greep houdt. Door de kracht van Zijn legers van hemel en aarde en al wat zich daartussen bevindt beschermt Hij wie van Zijn dienaren Hij maar wil. God houdt waarlijk de wacht over alle dingen.
@@ -420,7 +504,10 @@ Onmetelijk verheven zijt Gij, o Heer! Bescherm ons tegen wat voor ons en achter 
 
 
 
-### <a id="bpn9547"></a> Prayer bpn9547 in Nederlands
+
+
+<a id="bpn9547"></a> 
+### Prayer bpn9547 in Nederlands
 O God, mijn God! Bescherm Uw vertrouwde dienaren tegen het kwaad van zelfzucht en begeerte; behoed hen met het wakend oog Uwer goedertierenheid voor alle wrok, haat en afgunst; beschut hen in de onaantastbare vesting van Uw zorg en maak hen, veilig voor de pijlen van twijfel, de manifestaties van Uw heerlijke tekenen; verlicht hun gelaat met de schitterende stralen uit de dageraad van Uw goddelijke eenheid; verblijd hun hart met de vanuit Uw heilig Koninkrijk geopenbaarde verzen; sterk hun lendenen door Uw albeheersende kracht die voortkomt uit Uw rijk van heerlijkheid. Gij zijt de Almilddadige, de Beschermer, de Almachtige, de Genadige.
 
 (Source category: Bescherming)
@@ -429,7 +516,10 @@ O God, mijn God! Bescherm Uw vertrouwde dienaren tegen het kwaad van zelfzucht e
 
 
 
-### <a id="bpn9548"></a> Prayer bpn9548 in Nederlands
+
+
+<a id="bpn9548"></a> 
+### Prayer bpn9548 in Nederlands
 O mijn Heer! Gij weet dat de mensen omringd worden door pijn en rampen en omgeven worden door tegenspoed en moeilijkheden. Allerlei beproevingen vallen de mens ten deel en iedere verpletterende tegenslag komt als de aanval van een slang. Er is geen schuilplaats of toevluchtsoord voor hem dan onder de vleugels van Uw bescherming, behoud, hoede en zorg.
 O Gij de Barmhartige! O mijn Heer! Maak Uw bescherming tot mijn pantser, Uw hoede mijn schild, nederigheid aan de deur van Uw één-zijn mijn behoud en Uw zorg en beschutting mijn verblijfplaats en veste. Behoed mij voor de inblazingen van zelfzucht en begeerte, en bescherm mij tegen alle ziekten, beproevingen, moeilijkheden en bezoekingen.
 Waarlijk, Gij zijt de Beschermer, de Behoeder, de Bewaarder, de Toereikende, en waarlijk, Gij zijt de Barmhartigste der barmhartigen.
@@ -440,7 +530,10 @@ Waarlijk, Gij zijt de Beschermer, de Behoeder, de Bewaarder, de Toereikende, en 
 
 
 
-### <a id="bpn9549"></a> Prayer bpn9549 in Nederlands
+
+
+<a id="bpn9549"></a> 
+### Prayer bpn9549 in Nederlands
 O Gij vriendelijke en liefhebbende Voorzienigheid! Het oosten is in beweging en het westen woelt als de eeuwige golven van de zee. De zachte bries van heiligheid verspreidt zich, en de stralen van de hemelbol van waarheid schijnen luisterrijk vanuit het ongeziene koninkrijk. De hymnen van goddelijke eenheid weerklinken en de vlaggen van hemelse macht wapperen. De engelenstem wordt aangeheven en roept als het gebulder van de leviathan op tot onbaatzuchtigheid en zelfuitwissing. De triomferende uitroep Yá Bahá’u’l-Abhá weerklinkt van alle kanten, en de roep Yá ‘Alíyyu’l-‘Alá  galmt door alle streken. Er beweegt niets in de wereld dan de glorie van de Betoveraar des harten, en buiten het aanzwellen van liefde voor Hem, de Onvergelijkelijke, de Welbeminde is er geen rumoer.
 De geliefden van de Heer, met hun naar muskus geurende adem, branden als heldere kaarsen in iedere landstreek, en de vrienden van de Albarmhartige zijn als ontluikende bloemen te vinden in alle gebieden. Geen moment rusten zij; zij ademen slechts in gedachtenis aan U, en hunkeren slechts naar het dienen van Uw Zaak. In de weiden van waarheid zijn zij als kwinkelerende nachtegalen, en in de bloementuin van leiding zijn zij als felgekleurde bloesems. Met mystieke bloemen tooien zij de paden van de Tuin van Werkelijkheid; als wuivende cipressen staan ze langs de oevers van de rivier van Goddelijke Wil. Boven de horizon van het bestaan schijnen zij als stralende sterren; aan het firmament van de wereld fonkelen zij als luisterrijke hemellichamen. De manifestatie van hemelse genade zijn zij, het ochtendkrieken van het licht van goddelijke bijstand.
 Geef, o Gij liefhebbend Heer, dat allen vastberaden en sterk mogen staan, stralend in eeuwigdurende pracht, zodat met iedere ademtocht een zachte bries vanuit de priëlen van Uw goedertierenheid mag zweven; dat er wolken vanuit de oceaan van Uw genade mogen ontstaan; dat de milde regen van Uw liefde verfrissing mag bieden, en de zefier het parfum uit de rozengaard van goddelijk eenheid mag verspreiden.
@@ -456,9 +549,13 @@ O Gij goddelijke Voorzienigheid, behoed en bescherm ons! O Gij die ons schild zi
 
 
 
+
+
+<a id="Bijeenkomsten"></a> 
 ## Bijeenkomsten
 
-### <a id="bpn9550"></a> Prayer bpn9550 in Nederlands
+<a id="bpn9550"></a> 
+### Prayer bpn9550 in Nederlands
 O Gij barmhartig God! O Gij die machtig en krachtig zijt! O Gij allervriendelijkste Vader! Deze dienaren zijn bijeengekomen, keren zich tot U, smeken aan Uw drempel en verlangen naar Uw oneindige milddadigheid volgens Uw grootse belofte. Zij hebben geen ander doel dan Uw welbehagen. Zij hebben geen andere bedoeling dan het dienen van de wereld der mensheid.
 O God! Laat dit gezelschap stralen. Maak de harten mild. Schenk de gaven van de Heilige Geest. Begiftig hen met hemelse kracht. Zegen hen met hemels verstand. Vergroot hun oprechtheid, zodat zij zich volkomen nederig en boetvaardig tot Uw koninkrijk mogen wenden en zich inzetten voor dienstbaarheid aan de wereld der mensheid. Moge ieder een stralende kaars worden. Moge ieder een fonkelende ster worden. Moge ieder prachtig van kleur en welriekend van geur worden in Gods koninkrijk.
 O vriendelijk Vader! Verleen Uw zegeningen. Zie niet naar onze tekortkomingen. Beschut ons onder Uw bescherming. Denk niet aan onze zonden. Heel ons met Uw genade. Wij zijn zwak; Gij zijt machtig. Wij zijn arm; Gij zijt rijk. Wij zijn ziek; Gij zijt de Geneesheer. Wij zijn behoeftig; Gij zijt zeer vrijgevig.
@@ -470,7 +567,10 @@ O God! Omgeef ons met Uw voorzienigheid. Gij zijt de Krachtige. Gij zijt de Geve
 
 
 
-### <a id="bpn9551"></a> Prayer bpn9551 in Nederlands
+
+
+<a id="bpn9551"></a> 
+### Prayer bpn9551 in Nederlands
 O Gij vriendelijk Heer! Dit zijn Uw dienaren die in deze samenkomst bijeen zijn, zich naar Uw koninkrijk wenden en Uw gaven en zegen behoeven. O Gij God! Maak de tekenen van Uw één-zijn die in alle werkelijkheden des levens gelegd zijn duidelijk zichtbaar. Openbaar en onthul de latente deugden die Gij in deze menselijke werkelijkheden hebt verborgen.
 O God! Wij zijn als planten en Uw milddadigheid is als de regen; verfris deze planten en laat ze groeien door Uw gaven. Wij zijn Uw dienaren, bevrijd ons van de ketenen van het stoffelijk bestaan. Wij zijn onwetend, maak ons wijs. Wij zijn dood, maak ons levend. Wij zijn stoffelijk, beziel ons. Wij zijn misdeeld, maak ons Uw mysteriën deelachtig. Wij zijn behoeftig, maak ons rijk en zegen ons vanuit Uw grenzeloze rijkdommen. O God! Doe ons herleven, geef ons zicht, geef ons gehoor, wijd ons in in de mysteriën van het leven, zodat de geheimen van Uw koninkrijk ons in dit bestaan onthuld mogen worden en wij Uw één-zijn mogen belijden. Alle gaven komen van U, elke zegening is door U geschonken.
 Gij zijt machtig. Gij zijt krachtig. Gij zijt de Gever, en Gij zijt de Immermilddadige.
@@ -481,7 +581,10 @@ Gij zijt machtig. Gij zijt krachtig. Gij zijt de Gever, en Gij zijt de Immermild
 
 
 
-### <a id="bpn9552"></a> Prayer bpn9552 in Nederlands
+
+
+<a id="bpn9552"></a> 
+### Prayer bpn9552 in Nederlands
 O mijn God! O mijn God! Waarlijk, deze dienaren keren zich tot U en roepen Uw koninkrijk van barmhartigheid aan. Waarlijk, zij zijn aangetrokken door Uw heiligheid en in gloed gezet door het vuur van Uw liefde; zij zoeken bekrachtiging uit Uw wonderbare koninkrijk en hopen Uw hemels rijk te bereiken. Waarlijk, zij hunkeren naar de uitstorting van Uw gaven en verlangen ernaar verlicht te worden door de Zon van Werkelijkheid. O Heer! Maak hen tot helder schijnende lampen, tekenen van barmhartigheid, vruchtdragende bomen en stralende sterren. Mogen zij voorwaarts treden in Uw dienst en met U verbonden worden door de sterke banden van Uw liefde, vol verlangen naar het licht van Uw gunst. O Heer! Maak hen tekenen van leiding, vaandels van Uw onvergankelijk koninkrijk, golven in de zee van Uw genade, spiegels voor het licht van Uw majesteit.
 Waarlijk, Gij zijt de Edelmoedige. Waarlijk, Gij zijt de Barmhartige. Waarlijk, Gij zijt de Dierbare, de Geliefde.
 
@@ -491,7 +594,10 @@ Waarlijk, Gij zijt de Edelmoedige. Waarlijk, Gij zijt de Barmhartige. Waarlijk, 
 
 
 
-### <a id="bpn9553"></a> Prayer bpn9553 in Nederlands
+
+
+<a id="bpn9553"></a> 
+### Prayer bpn9553 in Nederlands
 O Gij vergevingsgezinde God! Deze dienaren richten zich tot Uw koninkrijk en verlangen naar Uw genade en milddadigheid. O God! Maak hun hart zuiver en goed opdat zij Uw liefde waardig mogen worden. Zuiver en heilig hun geest opdat het licht van de Zon van Werkelijkheid op hen mag schijnen. Zuiver en heilig hun ogen opdat zij Uw licht mogen waarnemen. Zuiver en heilig hun oren opdat zij de roep van Uw koninkrijk mogen horen.
 O Heer! Wij zijn waarlijk zwak, doch Gij zijt machtig. Wij zijn waarlijk arm, doch Gij zijt rijk. Wij zijn zoekende, en Gij zijt de Gezochte. O Heer! Heb mededogen met ons en vergeef ons; verleen ons dat vermogen en die ontvankelijkheid waardoor wij Uw gaven waardig zullen zijn en tot Uw koninkrijk worden aangetrokken, opdat wij met diepe teugen van het water des levens zullen drinken, in vlam gezet mogen worden door het vuur van Uw liefde en weer tot leven gewekt door de adem van de Heilige Geest in deze stralende eeuw.
 O God, mijn God! Laat de blik van Uw goedertierenheid op deze bijeenkomst rusten. Neem eenieder veilig onder Uw hoede en bescherming. Zend Uw hemelse zegeningen neer op deze zielen. Dompel hen in de oceaan van Uw barmhartigheid, en doe hen herleven door de ademtochten van de Heilige Geest.
@@ -504,7 +610,10 @@ Gij zijt de Krachtige, de Almogende, de Barmhartige, en Gij zijt de Edelmoedige,
 
 
 
-### <a id="bpn9554"></a> Prayer bpn9554 in Nederlands
+
+
+<a id="bpn9554"></a> 
+### Prayer bpn9554 in Nederlands
 O Goddelijke Voorzienigheid! Dit gezelschap bestaat uit Uw vrienden die zijn aangetrokken tot Uw schoonheid en in vlam zijn gezet met het vuur van Uw liefde. Verander deze zielen in hemelse engelen, doe hen opleven door de adem van de Heilige Geest, geef hun een welsprekende tong en een vastberaden hart, schenk hun hemelse kracht en maak hen meedogend, laat hen voorvechters worden van het één-zijn van de mensheid en de oorzaak van liefde en harmonie in de wereld der mensheid, zodat de hachelijke duisternis van blinde vooroordelen verdreven mag worden door het licht van de Zon der Waarheid, deze sombere wereld verlicht mag worden, dit stoffelijk rijk de stralen van de geestelijke wereld mag opnemen, deze verschillende kleuren tot één kleur mogen worden en er lofzangen naar het koninkrijk van Uw heiligheid mogen stijgen.
 Waarlijk, Gij zijt de Almogende en de Almachtige!
 
@@ -514,7 +623,10 @@ Waarlijk, Gij zijt de Almogende en de Almachtige!
 
 
 
-### <a id="bpn9555"></a> Prayer bpn9555 in Nederlands
+
+
+<a id="bpn9555"></a> 
+### Prayer bpn9555 in Nederlands
 O Gij liefdevolle Verzorger! Deze zielen hebben gehoor gegeven aan de roep van het Koninkrijk, en hebben de glorie van de Zon der Waarheid aanschouwd. Zij zijn opgestegen naar het verfrissende uitspansel van liefde; zij worden bekoord door Uw aard, en zij aanbidden Uw schoonheid. Zij keren zich tot U, spreken samen van U, bezoeken Uw woning en dorsten naar de waterstromen van Uw hemelse rijk.
 Gij zijt de Gever, de Schenker, de Immerliefhebbende.
 
@@ -524,7 +636,10 @@ Gij zijt de Gever, de Schenker, de Immerliefhebbende.
 
 
 
-### <a id="bpn9556"></a> Prayer bpn9556 in Nederlands
+
+
+<a id="bpn9556"></a> 
+### Prayer bpn9556 in Nederlands
 O Gij Meedogende, Almachtige! Deze hier bijeengekomen zielen hebben hun gelaat in aanbidding tot U gekeerd. Met de uiterste nederigheid en ootmoed zien zij naar Uw Koninkrijk en smeken zij U om gratie en vergeving. O God! Sluit dit gezelschap in Uw hart. Heilig deze zielen en beschijn hen met het licht van Uw leiding. Verlicht hun hart en verblijd hun gemoed met Uw blijde boodschap. Ontvang hen allen in Uw heilig Koninkrijk, schenk hun Uw onuitputtelijke milddadigheid, maak hen gelukkig in deze wereld en in de wereld die komen zal. O God! Wij zijn zwak, geef ons kracht. Wij zijn arm, verleen ons Uw onbegrensde rijkdommen. Wij zijn ziek, schenk ons Uw goddelijke genezing. Wij zijn krachteloos, geef ons Uw hemelse kracht. O Heer! Maak ons nuttig in deze wereld, bevrijd ons uit de staat van zelfzucht en begeerte. O Heer! Maak ons eensgezind in Uw liefde en maak dat wij al Uw kinderen liefhebben. Bekrachtig ons in dienstbaarheid aan de wereld der mensheid, zodat wij dienaren van Uw dienaren mogen worden, opdat wij al Uw schepselen zullen liefhebben en Uw gehele volk mededogen zullen betonen. O Heer, Gij zijt de Almachtige. Gij zijt de Barmhartige. Gij zijt de Vergevende. Gij zijt de Almogende.
 
 (Source category: Bijeenkomsten)
@@ -534,9 +649,13 @@ O Gij Meedogende, Almachtige! Deze hier bijeengekomen zielen hebben hun gelaat i
 
 
 
+
+
+<a id="Dienstbaarheid"></a> 
 ## Dienstbaarheid
 
-### <a id="BH09498"></a> Prayer BH09498 in Nederlands
+<a id="BH09498"></a> 
+### Prayer BH09498 in Nederlands
 O God, en de God aller namen, en de Maker der hemelen! Ik smeek U bij Uw Naam waardoor Hij die het ochtendgloren van Uw macht en de dageraadsplaats van Uw kracht is werd gemanifesteerd, waardoor alles van vaste stof vloeibaar werd, en elk levenloos lichaam tot leven kwam, en iedere bezielende geest bevestigd werd – ik smeek U mij in staat te stellen mij van alle gehechtheid aan iemand buiten U te ontdoen, en Uw Zaak te dienen, en te wensen hetgeen Gij door de kracht van Uw soevereiniteit wenst, en te volvoeren hetgeen Uw wil behaagt.
 Daarenboven smeek ik U, o mijn God, voor mij te beschikken hetgeen mij zo rijk maakt dat ik niemand buiten U van node zal hebben. Gij ziet mij, o mijn God, met naar U gekeerd gelaat en met mijn handen geklemd aan het koord van Uw genade. Zend mij Uw barmhartigheid, en schrijf voor mij neer wat Gij voor Uw uitverkorenen hebt neergeschreven. Krachtig zijt Gij te doen naar Uw behagen. Geen God is er dan Gij, de Immervergevende, de Almilddadige.
 
@@ -546,7 +665,10 @@ Daarenboven smeek ik U, o mijn God, voor mij te beschikken hetgeen mij zo rijk m
 
 
 
-### <a id="bpn9559"></a> Prayer bpn9559 in Nederlands
+
+
+<a id="bpn9559"></a> 
+### Prayer bpn9559 in Nederlands
 Ik prijs U, o mijn God, aangezien de geur van Uw goedertierenheid mij in vervoering heeft gebracht, en de zachte bries van Uw barmhartigheid mij in de richting van Uw milddadige gaven heeft doen neigen. Laat mij, o mijn Heer, uit de hand van Uw goedertierenheid drinken van het levende water waardoor eenieder die ervan gedronken heeft zich heeft kunnen ontdoen van alle gehechtheid aan iemand buiten U, en zijn vlucht heeft kunnen nemen naar de sferen van onthechting van al Uw schepselen, en zijn oog heeft kunnen vestigen op Uw liefdevolle voorzienigheid en Uw veelvuldige gaven.
 Maak, o mijn Heer, dat ik onder alle omstandigheden bereid ben U te dienen en mij te richten op het aanbeden heiligdom van Uw Openbaring en van Uw Schoonheid. Maak mij, als het U behaagt, als een teer kruid dat groeit op de velden van Uw genade, opdat de zachte bries van Uw wil mij kan beroeren en mij naar Uw wil buigt, op zulk een wijze dat mijn stilstaan en bewegen geheel en al door U worden aangestuurd.
 Gij zijt Degeen door Wiens Naam het verborgen geheim werd onthuld en de welbewaarde Naam werd geopenbaard en de zegels van de verzegelde bokaal werden verbroken, waarmee zijn geur verspreid werd over de gehele schepping van verleden en toekomst. O mijn Heer, de dorstige haast zich de levende wateren van Uw genade te bereiken en het armzalige schepsel verlangt ernaar zich in de oceaan van Uw rijkdom onder te dompelen.
@@ -563,9 +685,13 @@ Gij zijt waarlijk de Almachtige, de Verhevenste, de Alwetende, de Alwijze.
 
 
 
+
+
+<a id="Echtgenoot"></a> 
 ## Echtgenoot
 
-### <a id="bpn9590"></a> Prayer bpn9590 in Nederlands
+<a id="bpn9590"></a> 
+### Prayer bpn9590 in Nederlands
 O  God, mijn God! Deze dienares roept U aan, vertrouwt op U, keert haar gelaat tot U en smeekt U Uw hemelse gaven over haar uit te storten, haar Uw geestelijke mysteriën te onthullen en het licht van Uw Godheid op haar te laten schijnen.
 O mijn Heer! Open de ogen van mijn echtgenoot. Verblijd zijn hart met het licht van Uw kennis, vestig zijn aandacht op Uw lichtende schoonheid en verblijd zijn geest door hem de bewijzen van Uw pracht te openbaren.
 O mijn Heer! Neem de sluier voor zijn ogen weg. Laat Uw overvloedige genadegaven op hem neerregenen, bedwelm hem met de wijn van liefde voor U, maak hem één van Uw engelen die deze aarde bewandelen terwijl hun ziel zich hoog ten hemel heft. Maak hem tot een stralende lamp, fonkelend met het licht van Uw wijsheid te midden van Uw volk.
@@ -578,9 +704,13 @@ Waarlijk, Gij zijt de Dierbare, de Edelmoedige, de Vrijgevige.
 
 
 
+
+
+<a id="Eenheid"></a> 
 ## Eenheid
 
-### <a id="bpn9560"></a> Prayer bpn9560 in Nederlands
+<a id="bpn9560"></a> 
+### Prayer bpn9560 in Nederlands
 O mijn God! O mijn God! Verenig de harten van Uw dienaren en openbaar hun Uw verheven plan. Mogen zij Uw geboden nakomen en bij Uw wet verblijven. Help hen, o God, in hun streven en schenk hun kracht U te dienen. O God, laat hen niet aan zichzelf over, maar leid hun schreden met het licht van Uw kennis en verblijd hun hart met Uw liefde. Waarlijk, Gij zijt hun Helper en hun Heer.
 
 (Source category: Eenheid)
@@ -589,7 +719,10 @@ O mijn God! O mijn God! Verenig de harten van Uw dienaren en openbaar hun Uw ver
 
 
 
-### <a id="ABU0023UNI"></a> Prayer ABU0023UNI in Nederlands
+
+
+<a id="ABU0023UNI"></a> 
+### Prayer ABU0023UNI in Nederlands
 O mijn God! O mijn God! Waarlijk, ik roep U aan en smeek aan Uw drempel, en vraag U om al Uw barmhartigheid tot deze zielen te laten neerdalen. Maak hen geschikt voor Uw gunst en Uw waarheid.
 O Heer! Verenig en verbind de harten, breng alle zielen in harmonie, en verblijd aller geest door de tekenen van Uw heiligheid en één-zijn. O Heer! Laat deze gezichten stralen met het licht van Uw één-zijn. Sterk de lendenen van Uw dienaren in dienstbaarheid aan Uw koninkrijk.
 O Heer, Gij bezitter van oneindige barmhartigheid! O Heer van vergeving en gratie! Vergeef onze zonden, verontschuldig onze tekortkomingen en maak dat wij ons tot het koninkrijk van Uw genade wenden, en nederig voor Uw heiligdom en ootmoedig voor de glorie van Uw bewijzen het koninkrijk van kracht en macht aanroepen.
@@ -603,9 +736,13 @@ Waarlijk, Gij zijt de Almachtige, de Bij-zich-bestaande, de Gever, de Vergevende
 
 
 
+
+
+<a id="Fondsen"></a> 
 ## Fondsen
 
-### <a id="bpn9562"></a> Prayer bpn9562 in Nederlands
+<a id="bpn9562"></a> 
+### Prayer bpn9562 in Nederlands
 *Alle vrienden van God […] moeten in de mate waarin dat mogelijk is bijdragen, hoe bescheiden hun gift ook mag zijn. God belast geen mens boven zijn kunnen. Zulke bijdragen moeten uit alle centra, van alle gelovigen komen… O vrienden van God! Weest gij ervan verzekerd dat uw landbouw, uw industrie en uw handel gezegend zullen worden met veelvuldige toename voor deze bijdragen, en met goede gaven en gunsten. Hij die met één goede daad komt zal een tienvoudige beloning ontvangen. Het lijdt geen twijfel dat de levende Heer degenen die hun rijkdom op Zijn pad besteden overvloedig zal bevestigen.
 
 
@@ -620,9 +757,13 @@ Waarlijk, Gij zijt de Schragende, de Helper, de Edelmoedige, de Milddadige, de I
 
 
 
+
+
+<a id="Gebed voor de doden"></a> 
 ## Gebed voor de doden
 
-### <a id="BH09085"></a> Prayer for the Dead in Nederlands
+<a id="BH09085"></a> 
+### Prayer for the Dead in Nederlands
 #Gebed voor de doden
 
 *Het Gebed voor de doden is het enige verplichte bahá’í-gebed dat gezamenlijk gereciteerd moet worden; het moet door één gelovige gereciteerd worden terwijl alle aanwezigen in stilte staan. Baha’u’llah heeft toegelicht dat dit gebed alleen vereist is als de overledene 15 jaar of ouder is, dat het reciteren ervan vooraf moet gaan aan de teraardebestelling van de overledene en dat het niet vereist is zich tijdens dit gebed naar de Qiblih te wenden. Eerst wordt eenmaal “Alláh-u-Abhá” gezegd, gevolgd door het eerste van de zes verzen, dat negentien maal gereciteerd wordt. Vervolgens wordt er nogmaals “Alláh-u-Abhá” gezegd, gevolgd door het tweede vers, dat weer negentien maal gereciteerd wordt, enzovoort.
@@ -648,9 +789,13 @@ Waarlijk, wij allen zijn geduldig in God.
 
 
 
+
+
+<a id="Geestelijke Raad"></a> 
 ## Geestelijke Raad
 
-### <a id="AB01023SAE"></a> Prayer AB01023SAE in Nederlands
+<a id="AB01023SAE"></a> 
+### Prayer AB01023SAE in Nederlands
 *Reciteer dit gebed telkens als u de raadskamer binnengaat met een hart dat bonst van liefde voor God en een tong die is gezuiverd van alles buiten het Hem gedenken, opdat de Almachtige u genadiglijk zal bijstaan om de hoogste overwinning te behalen.
 
 
@@ -662,7 +807,10 @@ O God, mijn God! Wij zijn Uw dienaren die zich vol toewijding tot Uw heilig Gela
 
 
 
-### <a id="bpn9736"></a> Prayer bpn9736 in Nederlands
+
+
+<a id="bpn9736"></a> 
+### Prayer bpn9736 in Nederlands
 *Kom tezamen in pure blijdschap en reciteer dit gebed bij het begin van de vergadering:
 
 
@@ -675,7 +823,10 @@ O Gij onze Verzorger! Zend ons Uw hulp, opdat eenieder die hier aanwezig is een 
 
 
 
-### <a id="bpn9737"></a> Prayer bpn9737 in Nederlands
+
+
+<a id="bpn9737"></a> 
+### Prayer bpn9737 in Nederlands
 *Gebed om bij de sluiting van de vergadering van de Geestelijke Raad te zeggen.
 
 
@@ -691,9 +842,13 @@ Waarlijk, Gij zijt de Grootmoedige, de Barmhartige. Gij zijt de Bezitter van gro
 
 
 
+
+
+<a id="Geestelijke groei"></a> 
 ## Geestelijke groei
 
-### <a id="BH06296"></a> Prayer BH06296 in Nederlands
+<a id="BH06296"></a> 
+### Prayer BH06296 in Nederlands
 Geef mij te drinken uit de zoetgeurende stromen van Uw eeuwigheid, o mijn God, en laat mij de vruchten te proeven van de boom van Uw wezen, o mijn Hoop! Veroorloof mij volop te drinken van de kristalheldere bronnen van Uw liefde, o mijn Glorie, en laat mij verblijven in de schaduw van Uw eeuwigdurende voorzienigheid, o mijn Licht! Laat mij over de velden van Uw nabijheid zwerven in Uw tegenwoordigheid, o mijn Geliefde, en zetel mij ter rechterzijde van de troon van Uw barmhartigheid, o mijn Verlangen! Laat een vleug van de geurige bries van Uw vreugde over mij gaan, o mijn Doel, en vergun mij de hoogten van het paradijs van Uw werkelijkheid te betreden, o mijn Aanbedene! Sta mij toe te luisteren naar de melodieën van de duif Uwer één-zijn, o Luisterrijke, en beziel mij door de geest van Uw kracht en Uw macht, o mijn Verzorger! Laat mij standvastig blijven in de geest van Uw liefde, o mijn Helper, en plaats mijn voeten stevig op het pad van Uw welbehagen, o mijn Maker! Laat mij voor immer in de tuin van Uw onsterfelijkheid verblijven voor Uw aangezicht, o Gij die mij genadig zijt, en plaats mij op de zetel van Uw heerlijkheid, o Gij die mijn Bezitter zijt! Verhef mij tot de hemel van Uw goedertierenheid, o mijn Bezieler, en leid mij tot de Dagster van Uw leiding, o Gij die mij bekoort! Roep mij op aanwezig te zijn bij de openbaringen van Uw onzichtbare geest, o Gij die mijn oorsprong en mijn hoogste wens zijt, en laat mij terugkeren tot de essentie van de zoete geur van Uw schoonheid die Gij zult openbaren, o Gij die mijn God zijt!
 Machtig zijt Gij te doen naar Uw behagen. Gij zijt waarlijk de Verhevenste, de Alglorierijke, de Allerhoogste.
 
@@ -703,7 +858,10 @@ Machtig zijt Gij te doen naar Uw behagen. Gij zijt waarlijk de Verhevenste, de A
 
 
 
-### <a id="BH04421HEA"></a> Prayer BH04421HEA in Nederlands
+
+
+<a id="BH04421HEA"></a> 
+### Prayer BH04421HEA in Nederlands
 Schep in mij een zuiver hart, o mijn God, en vernieuw in mij een rustig geweten, o mijn Hoop! Bekrachtig mij in Uw Zaak door de geest van macht, o mijn Meestgeliefde, en toon mij Uw weg door het licht van Uw heerlijkheid, o Gij het doel van mijn verlangen! Verhef mij tot de hemel van Uw heiligheid door de kracht van Uw alles te boven gaande macht, o Bron van mijn wezen, en verblijd mij door de ademtocht van Uw eeuwigheid, o Gij die mijn God zijt! Laat Uw eeuwigdurende melodieën mij rust geven, o mijn Metgezel, en laat de rijkdom van Uw aloude aanschijn mij verlossen van alles buiten U, o mijn Meester, en laat de tijdingen van de openbaring van Uw onvergankelijke Essentie mij vreugde brengen, o Gij die de kenbaarste van het kenbare zijt en de verborgenste van het verborgene!
 
 (Source category: Geestelijke groei)
@@ -712,7 +870,10 @@ Schep in mij een zuiver hart, o mijn God, en vernieuw in mij een rustig geweten,
 
 
 
-### <a id="BH06026"></a> Prayer BH06026 in Nederlands
+
+
+<a id="BH06026"></a> 
+### Prayer BH06026 in Nederlands
 Hij is de Genadige, de Almilddadige!
 O God, mijn God! Uw roep trok mij aan en de stem van Uw Pen van heerlijkheid heeft mij gewekt. De stroom van Uw heilige woorden heeft mij betoverd en de wijn van Uw bezieling heeft mij in vervoering gebracht. Gij ziet mij, o Heer, onthecht van alles buiten U, mij vastklemmend aan het koord van Uw milddadigheid en hunkerend naar de wonderen van Uw genade. Ik vraag U, bij de eeuwige golven van Uw goedertierenheid en het glanzende licht van Uw liefdevolle zorg en genegenheid, mij datgene te verlenen wat mij nader tot U zal brengen en mij rijk zal maken in Uw overvloed. Mijn spraak, mijn pen en mijn gehele wezen getuigen van Uw kracht, Uw macht, Uw genade en Uw milddadigheid, dat Gij God zijt en er geen God is buiten U, de Krachtige, de Machtige.
 Ik getuig op dit moment, o mijn God, van mijn hulpeloosheid en Uw soevereiniteit, mijn zwakheid en Uw kracht. Ik weet niet wat mij ten goede komt of wat mij kwaad berokkent; Gij zijt waarlijk de Alwetende, de Alwijze. Beschikt Gij voor mij, o Heer, mijn God en mijn Meester, wat mij tevreden zal doen zijn met Uw eeuwige beschikking en mij zal doen gedijen in elk van Uw werelden. Gij zijt in waarheid de Genadige, de Milddadige.
@@ -724,7 +885,10 @@ Heer! Stuur mij niet weg van de oceaan van Uw rijkdom en de hemel van Uw genade,
 
 
 
-### <a id="bpn9566"></a> Prayer bpn9566 in Nederlands
+
+
+<a id="bpn9566"></a> 
+### Prayer bpn9566 in Nederlands
 O mijn Heer! Laat Uw schoonheid mijn voedsel zijn en Uw tegenwoordigheid mijn drank, Uw behagen mijn hoop, het U loven mijn daad en het U gedenken mijn metgezel, de kracht van Uw soevereiniteit mijn helper, Uw verblijf mijn woning en mijn verblijfplaats de zetel die Gij hebt geheiligd van de beperkingen opgelegd aan hen die als door een sluier van U zijn gescheiden.
 Gij zijt waarlijk de Almachtige, de Alglorierijke, de Krachtigste.
 
@@ -734,7 +898,10 @@ Gij zijt waarlijk de Almachtige, de Alglorierijke, de Krachtigste.
 
 
 
-### <a id="bpn9567"></a> Prayer bpn9567 in Nederlands
+
+
+<a id="bpn9567"></a> 
+### Prayer bpn9567 in Nederlands
 Geprezen zij Uw Naam, o Heer mijn God! Ik ben Uw dienaar die het koord van Uw tedere barmhartigheid heeft gegrepen en zich aan de zoom van Uw milddadigheid heeft geklemd. Ik smeek U bij Uw Naam waarmee Gij al het geschapene, zichtbaar en onzichtbaar, onderworpen hebt en waardoor de ademtocht die het ware leven is over de gehele schepping streek, mij te sterken door Uw kracht die de hemelen en de aarde omvat, en mij te behoeden voor alle ziekte en rampspoed. Ik getuig dat Gij de Heer aller namen zijt, en de Beschikker van al hetgeen U behagen mag. Er is geen ander God dan Gij, de Almachtige, de Alwetende, de Alwijze.
 Beschik voor mij, o mijn Heer, wat mij in elk van Uw werelden ten goede zal komen. Voorzie mij dan van hetgeen Gij hebt neergeschreven voor de uitverkorenen onder Uw schepselen, die zich noch door de beschuldiging van de beschuldiger, noch door het getier van de ongelovige, noch door de vervreemding van hen die zich van U hebben teruggetrokken lieten weerhouden zich tot U te keren.
 Gij zijt waarlijk de Helper in nood door de macht van Uw soevereiniteit. Geen God is er dan Gij, de Almachtige, de Krachtigste.
@@ -745,7 +912,10 @@ Gij zijt waarlijk de Helper in nood door de macht van Uw soevereiniteit. Geen Go
 
 
 
-### <a id="BH00554"></a> Prayer BH00554 in Nederlands
+
+
+<a id="BH00554"></a> 
+### Prayer BH00554 in Nederlands
 O mijn God, de God van milddadigheid en erbarmen! Gij zijt de Koning door Wiens gebiedend Woord de gehele schepping tot bestaan is gewekt, en Gij zijt de Almilddadige die door de daden van Zijn dienaren nimmer is weerhouden Zijn genade te betonen, noch hebben deze de openbaring van Zijn milddadigheid kunnen tegenhouden.
 Ik smeek U, laat deze dienaar datgene bereiken wat in elk van Uw werelden tot zijn verlossing zal leiden. Gij zijt waarlijk de Almachtige, de Krachtigste, de Alwetende, de Alwijze.
 
@@ -755,7 +925,10 @@ Ik smeek U, laat deze dienaar datgene bereiken wat in elk van Uw werelden tot zi
 
 
 
-### <a id="BH03562"></a> Prayer BH03562 in Nederlands
+
+
+<a id="BH03562"></a> 
+### Prayer BH03562 in Nederlands
 Hij is de God die gebeden verhoort en beantwoordt!
 Bij Uw glorie, o Geliefde, Gij die de wereld licht schenkt! Het vuur van scheiding verslindt mij, en mijn weerspannigheid verteert mijn hart. Ik vraag U, bij Uw Allergrootste Naam, o Gij het Verlangen der wereld en de Welbeminde der mensheid, te geven dat de bries van Uw bezieling mijn ziel steunt, opdat Uw wondere stem mijn oor bereikt en mijn oog Uw tekenen en Uw licht aanschouwt zoals dat is onthuld in de openbaring van Uw Namen en Uw eigenschappen, o Gij in Wiens greep alle dingen liggen!
 Gij ziet, o Heer mijn God, de tranen die Uw uitverkorenen plengen om hun gescheiden zijn van U, en de angsten van hen die U toegewijd zijn in hun veraf zijn van Uw heilig Hof. Bij Uw kracht die over al het zichtbare en onzichtbare heerst! Het past Uw dienaren tranen van bloed te plengen vanwege hetgeen de gelovigen is aangedaan door de verdorvenen en de onderdrukkers der aarde. Gij ziet, o mijn God, hoe de goddelozen Uw steden en Uw rijken hebben omsingeld! Ik vraag U bij Uw Boodschappers en Uw uitverkorenen en bij Hem door wie het vaandel van Uw goddelijke eenheid onder Uw dienaren is geplant, hen te beschermen met Uw milddadigheid. Gij zijt waarlijk de Genadige, de Almilddadige.
@@ -769,7 +942,10 @@ Gij zijt waarlijk de Almachtige, de Verontschuldiger, de Meedogende.
 
 
 
-### <a id="BH00531TRA"></a> Prayer BH00531TRA in Nederlands
+
+
+<a id="BH00531TRA"></a> 
+### Prayer BH00531TRA in Nederlands
 Ik smeek U, o mijn God, bij de alles te boven gaande glorie van Uw Naam, Uw geliefden te kleden met de mantel van rechtvaardigheid en hun wezen te verlichten met het licht van betrouwbaarheid. Gij zijt Degeen die de macht heeft te doen naar Zijn behagen en Degeen die de teugels aller dingen, zichtbaar en onzichtbaar, in Zijn greep houdt.
 
 (Source category: Geestelijke groei)
@@ -778,7 +954,10 @@ Ik smeek U, o mijn God, bij de alles te boven gaande glorie van Uw Naam, Uw geli
 
 
 
-### <a id="bpn9571"></a> Prayer bpn9571 in Nederlands
+
+
+<a id="bpn9571"></a> 
+### Prayer bpn9571 in Nederlands
 Geprezen zijt Gij, o Heer mijn God! Ik smeek U bij Uw tekenen die de gehele schepping omvatten, en bij het licht van Uw aangezicht dat allen die in de hemel en op aarde zijn verlicht, en bij Uw barmhartigheid die al het geschapene te boven gaat, en bij Uw genade die over het gehele universum is uitgestort, de sluiers die mij van U scheiden vaneen te scheuren, opdat ik mij spoede naar de Bron van Uw machtige bezieling en naar de Dageraad van Uw Openbaring en milddadige gunsten, en worde ondergedompeld in de oceaan van Uw nabijheid en welbehagen.
 Laat mij in Uw dagen niet verstoken zijn van het U kennen, o mijn Heer, en neem de mantel van Uw leiding niet van mij weg. Geef mij te drinken uit de rivier die het ware leven is, waarvan de wateren zijn voortgestroomd uit het Paradijs (Riḍván) alwaar de troon van Uw Naam, de Albarmhartige, is opgericht, dat mijn ogen geopend, mijn gelaat verhelderd, mijn hart bemoedigd, mijn ziel verlicht en mijn schreden onwankelbaar gemaakt mogen worden.
 Gij zijt Degeen die door de kracht van Zijn macht eeuwig boven alle dingen verheven waart, en die door de werking van Zijn wil alle dingen heeft kunnen bepalen. Volstrekt niets in Uw hemel of op Uw aarde kan U van Uw plan afhouden. Wees mij dan genadig, o mijn Heer, door Uw goedgunstige voorzienigheid en grootmoedigheid, en neig mijn oor naar de zoete melodieën van de vogels die Uw lof zingen op de takken van de boom van Uw één-zijn.
@@ -790,7 +969,10 @@ Gij zijt de Grote Gever, de Immervergevende, de Meedogendste.
 
 
 
-### <a id="bpn9572"></a> Prayer bpn9572 in Nederlands
+
+
+<a id="bpn9572"></a> 
+### Prayer bpn9572 in Nederlands
 Ik smeek U, o mijn God, bij Uw verhevenste Woord, dat Gij hebt bestemd tot het goddelijke elixer voor allen die zich in Uw rijk bevinden, het elixer door welks kracht het ruwe metaal van het menselijk leven veranderd is in het zuiverste goud, o Gij in Wiens hand zich zowel de zichtbare als de onzichtbare koninkrijken bevinden, te beschikken dat mijn keuze in overeenstemming met Uw keuze zal zijn, en mijn wens met Uw wens; dat ik volkomen tevreden mag zijn met hetgeen Gij verlangt en geheel voldaan met hetgeen Gij in Uw milddadigheid en gunst voor mij hebt bestemd. Machtig zijt Gij te doen naar Uw wil. Gij zijt, in waarheid, de Alglorierijke, de Alwijze.
 
 (Source category: Geestelijke groei)
@@ -799,7 +981,10 @@ Ik smeek U, o mijn God, bij Uw verhevenste Woord, dat Gij hebt bestemd tot het g
 
 
 
-### <a id="bpn9573"></a> Prayer bpn9573 in Nederlands
+
+
+<a id="bpn9573"></a> 
+### Prayer bpn9573 in Nederlands
 O God, mijn God! Gij hoort het zuchten van Hem die Uw Licht (Bahá) is, beluistert Zijn weeklachten bij dag en nacht, en weet dat Hij niets voor Zichzelf wenst, doch er veeleer naar streeft de ziel van elk van Uw dienaren te heiligen en hen te verlossen van het vuur waardoor zij te allen tijde worden bedreigd. O Heer! De handen van Uw welbegunstigde dienaren zijn geheven naar de hemel van Uw milddadigheid en de handen van hen die U oprecht liefhebben reiken naar de verheven hoogten van Uw grootmoedigheid. Ik smeek U, stel hen niet teleur in wat zij zoeken in de oceaan van Uw gunst en in de hemel van Uw genade en de Dagster van Uw milddadigheid. Help hen, o Heer, die deugden te verwerven die hun aanzien onder de volkeren van de wereld zullen verhogen. Waarlijk, Gij zijt de Krachtige, de Machtige, de Edelmoedigste.
 
 (Source category: Geestelijke groei)
@@ -808,7 +993,10 @@ O God, mijn God! Gij hoort het zuchten van Hem die Uw Licht (Bahá) is, beluiste
 
 
 
-### <a id="bpn9574"></a> Prayer bpn9574 in Nederlands
+
+
+<a id="bpn9574"></a> 
+### Prayer bpn9574 in Nederlands
 Zeg: O God, mijn God! Tooi mijn hoofd met de kroon van gerechtigheid en mijn slapen met het sieraad van rechtvaardigheid. Gij zijt waarlijk de Bezitter van alle gaven en weldaden.
 
 (Source category: Geestelijke groei)
@@ -817,7 +1005,10 @@ Zeg: O God, mijn God! Tooi mijn hoofd met de kroon van gerechtigheid en mijn sla
 
 
 
-### <a id="bpn9575"></a> Prayer bpn9575 in Nederlands
+
+
+<a id="bpn9575"></a> 
+### Prayer bpn9575 in Nederlands
 Verleen mij, o mijn God, de volle maat van Uw liefde en Uw welbehagen, en breng ons hart in vervoering door de bekoring van Uw schitterend licht, o Gij die het Hoogste Bewijs en de Allerheerlijkste zijt. Zend mij, als teken van Uw genade, bij dag en bij nacht Uw levenschenkende bries, o Heer van milddadigheid.
 Niets, o mijn God, heb ik gedaan waardoor ik het verdien Uw gelaat te aanschouwen, en ik weet zeker dat ik, ook al zou ik voortleven zolang de wereld bestaat, geen enkele daad zal kunnen volbrengen om deze gunst te verdienen, aangezien de rang van dienaar nimmer toereikend is om toegang tot Uw heilige voorhof te verkrijgen, tenzij Uw milddadigheid mij bereikt en Uw liefdevolle barmhartigheid mij doordringt en Uw liefderijkheid mij omgeeft.
 Alle lof zij U, o Gij buiten wie er geen ander God is. Sta mij genadiglijk toe tot U te komen, de eer te genieten in Uw nabijheid te verblijven en alleen met U te verkeren. Geen God is er dan Gij.
@@ -829,7 +1020,10 @@ Waarlijk, zoudt Gij een dienaar willen zegenen dan zoudt Gij ieder noemen van ie
 
 
 
-### <a id="AB07709CON"></a> Prayer AB07709CON in Nederlands
+
+
+<a id="AB07709CON"></a> 
+### Prayer AB07709CON in Nederlands
 O mijn God! O mijn God! Glorie zij U daar Gij mij hebt bevestigd in het belijden van Uw één-zijn, mij hebt aangetrokken tot het woord van Uw enig-zijn, in vlam hebt gezet met het vuur van Uw liefde en mij vervuld hebt van het U noemen en het dienen van Uw vrienden en dienaressen.
 O Heer, help mij deemoedig en nederig te zijn en sterk mij om mijzelf los te maken van alle dingen en mij vast te houden aan de zoom van de mantel van Uw glorie, zodat mijn hart vervuld mag worden van Uw liefde en er geen ruimte meer is voor liefde voor de wereld en gehechtheid aan haar eigenschappen.
 O God! Heilig mij van alles buiten U, zuiver mij van het droesem van zonden en overtredingen en laat mij een geestelijk hart en geweten krijgen.
@@ -841,7 +1035,10 @@ Gij zijt waarlijk barmhartig, en Gij zijt waarlijk de Edelmoedigste, Wiens hulp 
 
 
 
-### <a id="AB11281"></a> Prayer AB11281 in Nederlands
+
+
+<a id="AB11281"></a> 
+### Prayer AB11281 in Nederlands
 O mijn Heer! O mijn Heer! Dit is een lamp die is aangestoken met het vuur van Uw liefde en brandt met de vlam die in de boom van Uw barmhartigheid is ontstoken. O mijn Heer! Vergroot zijn ontvlambaarheid, hitte en vuur met de vlam die in de Sinaï van Uw Manifestatie is ontstoken. Waarlijk, Gij zijt de Bekrachtiger, de Helper, de Krachtige, de Edelmoedige, de Liefderijke.
 
 (Source category: Geestelijke groei)
@@ -850,7 +1047,10 @@ O mijn Heer! O mijn Heer! Dit is een lamp die is aangestoken met het vuur van Uw
 
 
 
-### <a id="AB09139"></a> Prayer AB09139 in Nederlands
+
+
+<a id="AB09139"></a> 
+### Prayer AB09139 in Nederlands
 O mijn God! O mijn God! Deze dienaar is nader tot U gekomen, zwerft hartstochtelijk door de woestijn van Uw liefde, bewandelt het pad van dienstbaarheid aan U, ziet uit naar Uw gunsten, hoopt op Uw gaven, vertrouwt op Uw koninkrijk en is bedwelmd door de wijn van Uw gift. O mijn God! Vermeerder het vuur van zijn genegenheid voor U, de standvastigheid van zijn lof voor U en het vuur van zijn liefde voor U.
 Waarlijk, Gij zijt de Edelmoedigste, de Heer van overvloedige genade. Er is geen ander God dan Gij, de Vergevende, de Barmhartige.
 
@@ -860,7 +1060,10 @@ Waarlijk, Gij zijt de Edelmoedigste, de Heer van overvloedige genade. Er is geen
 
 
 
-### <a id="bpn9579"></a> Prayer bpn9579 in Nederlands
+
+
+<a id="bpn9579"></a> 
+### Prayer bpn9579 in Nederlands
 O God, mijn God! Dit is Uw stralende dienaar, Uw geestelijke slaaf die U nabij is gekomen en Uw tegenwoordigheid is genaderd. Hij heeft zijn gelaat naar het Uwe gekeerd, erkent Uw één-zijn en belijdt Uw enig-zijn, en hij heeft in Uw Naam de volkeren opgeroepen en de mensen naar de stromende wateren van Uw barmhartigheid geleid, o Gij edelmoedigste Heer! Hij heeft hen die er om vroegen te drinken gegeven uit de beker van leiding die overvloeit van de wijn van Uw onbegrensde genade.
 O Heer, sta hem onder alle omstandigheden bij, laat hem Uw welbewaarde mysteriën leren, en regen Uw verborgen parelen op hem neer. Maak hem tot een banier dat hoog van de kantelen wappert in de wind van Uw hemelse hulp, maak hem tot een bron van kristalhelder water.
 O mijn vergevingsgezinde Heer! Verlicht de harten met de stralen van een lamp die zijn lichtbundels alom verspreidt, en de werkelijkheid aller dingen openbaart aan diegenen onder Uw dienaren die Gij overvloedig hebt begunstigd.
@@ -872,7 +1075,10 @@ Waarlijk, Gij zijt de Machtige, de Krachtige, de Beschermer, de Sterke, de Goedg
 
 
 
-### <a id="bpn9580"></a> Prayer bpn9580 in Nederlands
+
+
+<a id="bpn9580"></a> 
+### Prayer bpn9580 in Nederlands
 O God, mijn God! Dit zijn Uw zwakke dienaren; zij zijn Uw getrouwe lijfeigenen en Uw dienaressen, die zich voor Uw verheven Woorden hebben gebogen, zich voor Uw Drempel van licht hebben verootmoedigd en hebben getuigd van Uw één-zijn waardoor de Zon in haar middagpracht is gaan schijnen. Zij hebben gehoor gegeven aan de oproep die Gij deed uitgaan vanuit Uw verborgen Rijk, en hebben Uw roep beantwoord met een hart dat bonst van liefde en vervoering.
 O Heer, stort de volle stroom van Uw barmhartigheid over hen uit, doe al de wateren van Uw genade op hen neerkomen. Laat hen als prachtige planten gedijen in de hemelse tuin, en laat deze tuin vanuit de overvloeiende wolken van Uw gaven en de diepe poelen van Uw overvloedige genade bloeien, en houd hem voor altijd groen en luisterrijk, voor immer fris, glinsterend en mooi.
 Gij zijt waarlijk de Machtige, de Verhevene, de Krachtige, Hij die als enige in de hemelen en op aarde onveranderd blijft. Er is geen ander God dan Gij, de Heer van duidelijke tekenen en aanwijzingen.
@@ -883,7 +1089,10 @@ Gij zijt waarlijk de Machtige, de Verhevene, de Krachtige, Hij die als enige in 
 
 
 
-### <a id="AB02326"></a> Prayer AB02326 in Nederlands
+
+
+<a id="AB02326"></a> 
+### Prayer AB02326 in Nederlands
 Hij is God!
 O God, mijn God! Dit zijn dienaren die in Uw dagen bekoord zijn door de geuren van Uw heiligheid, die aangestoken zijn door de vlam die brandt in Uw heilige boom, gehoor geven aan Uw stem, Uw lof uiten, gewekt zijn door Uw bries, geroerd zijn door Uw zoete geuren, Uw tekenen aanschouwen, Uw verzen begrijpen, Uw woorden beluisteren, in Uw Openbaring geloven en zeker zijn van Uw goedertierenheid. O Heer, hun blik is gevestigd op Uw koninkrijk van luisterrijke glorie en hun gelaat is gekeerd naar Uw rijk in den hoge, hun hart klopt van liefde voor Uw stralende en glorierijke schoonheid, hun ziel wordt verteerd door de vlam van Uw liefde, o Heer van deze wereld en de wereld hierna, hun leven ziedt met het vuur van hun verlangen naar U en hun tranen stromen voor U.
 Bescherm hen in de vesting van Uw beschutting en veiligheid, bewaar hen met Uw waakzame zorg, bezie hen met het oog van Uw voorzienigheid en erbarmen, maak hen tot tekenen van Uw goddelijke eenheid die in alle streken zichtbaar zijn, banieren van Uw macht die op Uw verblijven van grootsheid wapperen, stralende lampen die branden met de olie van Uw wijsheid in het lampenglas van Uw leiding, vogels van de tuin van Uw kennis die op de bovenste twijgen van Uw beschutte paradijs kwelen, en leviathanen van de oceaan van Uw genadegaven die door Uw opperste erbarmen in de onpeilbare diepten duiken.
@@ -895,7 +1104,10 @@ O Heer, mijn God! Nederig zijn deze dienaren van U, verhef hen in Uw koninkrijk 
 
 
 
-### <a id="AB00044PRO"></a> Prayer AB00044PRO in Nederlands
+
+
+<a id="AB00044PRO"></a> 
+### Prayer AB00044PRO in Nederlands
 O Gij Verzorger! Gij hebt de zoete geur van de Heilige Geest over de vrienden in het Westen geademd en met het licht van goddelijke leiding de westelijke hemel verlicht. Gij hebt hen die ooit veraf waren nader tot Uzelf gebracht; Gij hebt vreemden in liefdevolle vrienden veranderd; Gij hebt de slapenden doen ontwaken; Gij hebt de achtelozen opmerkzaam gemaakt.
 O Gij Verzorger! Sta deze nobele vrienden bij om Uw welbehagen te verwerven en laat hen mensen worden die het goed voor hebben met zowel vriend als vreemdeling. Breng hen de wereld die eeuwig voortbestaat binnen; vergun hun een deel van de hemelse genade; breng hen ertoe ware bahá’ís te zijn, oprecht tot God behorend; verlos hen van uiterlijke schijn en vestig hen hecht in de waarheid. Maak hen tekenen en symbolen van het Koninkrijk, lichtende sterren boven de horizon van dit aardse leven. Maak hen tot steun en troost voor de mensheid en dienaren van wereldvrede. Breng hen in vervoering met de wijn van Uw raad, en vergun dat zij allen het pad van Uw geboden mogen bewandelen.
 O Gij Verzorger! De dierbaarste wens van deze dienaar aan Uw drempel is de vrienden van Oost en West innig omarmd te zien, om alle leden van de samenleving liefdevol bijeengebracht te zien in één groots gezelschap, gelijk afzonderlijke waterdruppels samengevoegd in één machtige zee, hen allen te aanschouwen als vogels in één rozentuin, als parelen in één oceaan, als bladeren van één boom, als stralen van één zon.
@@ -908,9 +1120,13 @@ Gij zijt de Machtige, de Krachtige, en Gij zijt de God van sterkte, de Almachtig
 
 
 
+
+
+<a id="Genezing"></a> 
 ## Genezing
 
-### <a id="bpn9583"></a> Prayer bpn9583 in Nederlands
+<a id="bpn9583"></a> 
+### Prayer bpn9583 in Nederlands
 O God, mijn God! Ik smeek U bij de oceaan van Uw genezing en de pracht van de Dagster van Uw genade, bij Uw Naam waarmee Gij Uw dienaren onderwerpt en bij de doordringende kracht van Uw verhevenste Woord, bij de macht van Uw verhevenste Pen en bij Uw genade die aan de schepping van allen in de hemel en op aarde vooraf is gegaan, mij met de wateren van Uw milddadigheid te verlossen van iedere kwelling en kwaal en van alle zwakte en krachteloosheid.
 Gij ziet, o mijn Heer, Uw smekeling wachten aan de deur van Uw milddadigheid en hem die zijn hoop op U heeft gevestigd zich vastklemmen aan het koord van Uw grootmoedigheid. Ik smeek U, weiger hem niet wat hij van de oceaan van Uw genade en de Dagster van Uw goedertierenheid verlangt.
 Krachtig zijt Gij te doen naar Uw behagen. Er is geen ander God dan Gij, de Immervergevende, de Edelmoedigste.
@@ -921,7 +1137,10 @@ Krachtig zijt Gij te doen naar Uw behagen. Er is geen ander God dan Gij, de Imme
 
 
 
-### <a id="BH01313NAM"></a> Thy name is my healing in Nederlands
+
+
+<a id="BH01313NAM"></a> 
+### Thy name is my healing in Nederlands
 Uw Naam is mijn genezing, o mijn God, en het U gedenken is mijn medicijn. U nabij te zijn is mijn hoop, en liefde voor U is mijn metgezel. Uw erbarmen met mij is mijn genezing en mijn steun in deze wereld en in de wereld die komen gaat. Gij zijt waarlijk de Almilddadige, de Alwetende, de Alwijze.
 
 (Source category: Genezing)
@@ -930,7 +1149,10 @@ Uw Naam is mijn genezing, o mijn God, en het U gedenken is mijn medicijn. U nabi
 
 
 
-### <a id="bpn9585"></a> Prayer bpn9585 in Nederlands
+
+
+<a id="bpn9585"></a> 
+### Prayer bpn9585 in Nederlands
 Glorie zij U, o Heer mijn God! Ik smeek U bij Uw Naam waardoor Gij de vaandels van Uw leiding hebt geheven, en de schittering van Uw goedertierenheid hebt verspreid, en de soevereiniteit van Uw heerschappij hebt onthuld, waardoor de lamp van Uw namen is verschenen in de nis van Uw eigenschappen, en Hij die de tabernakel van Uw eenheid en de manifestatie van onthechting is helder schijnt, waardoor het pad van Uw leiding bekend is gemaakt, en de wegen van Uw welbehagen aangegeven zijn, waardoor de fundamenten van dwaling zijn gaan wankelen en de tekenen van verdorvenheid zijn afgeschaft, waaruit de bron van wijsheid is ontsprongen, en de hemelse tafel is neergezonden, waardoor Gij Uw dienaren hebt beschut en Uw genezing hebt verleend, waardoor Gij Uw tedere barmhartigheid hebt betoond aan Uw dienaren, en Uw vergeving hebt onthuld temidden van Uw schepselen – ik smeek U hem te behoeden die zich aan U vasthoudt en tot U is weergekeerd, en zich aan Uw erbarmen klemt, en de zoom van Uw liefdevolle voorzienigheid vastgrijpt. Zend dan Uw genezing op hem neer en heel hem, schenk hem de onveranderlijke vastberadenheid die Gij verleent en de rust die Uw verhevenheid schenkt.
 Gij zijt waarlijk de Genezer, de Bewaarder, de Helper, de Almachtige, de Krachtige, de Allerheerlijkste, de Alwetende.
 
@@ -940,7 +1162,10 @@ Gij zijt waarlijk de Genezer, de Bewaarder, de Helper, de Almachtige, de Krachti
 
 
 
-### <a id="bpn9586"></a> Prayer bpn9586 in Nederlands
+
+
+<a id="bpn9586"></a> 
+### Prayer bpn9586 in Nederlands
 ##Genezing voor vrouwen
 
 
@@ -955,7 +1180,10 @@ Gij zijt in waarheid onmetelijk verheven boven alles buiten Uzelf. Gij zijt waar
 
 
 
-### <a id="bpn9587"></a> Prayer bpn9587 in Nederlands
+
+
+<a id="bpn9587"></a> 
+### Prayer bpn9587 in Nederlands
 ##Genezing voor zuigelingen
 
 
@@ -968,7 +1196,10 @@ Ik smeek U daarom, bij Uw Naam waardoor Gij Uw Godheid openbaarde en Uw Zaak bov
 
 
 
-### <a id="bpn9588"></a> Prayer bpn9588 in Nederlands
+
+
+<a id="bpn9588"></a> 
+### Prayer bpn9588 in Nederlands
 ##Het lange genezingsgebed
 
 
@@ -1026,7 +1257,10 @@ Gij zijt waarlijk de Krachtige, de Altoereikende, de Genezer, de Beschermer, de 
 
 
 
-### <a id="bpn9589"></a> Prayer bpn9589 in Nederlands
+
+
+<a id="bpn9589"></a> 
+### Prayer bpn9589 in Nederlands
 O Gij, Almachtige! Ik ben een zondaar, doch Gij zijt de Vergevende! Ik ben vol tekortkomingen, doch Gij zijt de Meedogende! Ik wandel in het duister van dwaling, doch Gij zijt het Licht van vergiffenis!
 O Gij, grootmoedig God, vergeef mij daarom mijn zonden, schenk mij Uw gaven, zie niet naar mijn fouten, bescherm mij, dompel mij in de bron van Uw geduld en genees mij van alle ziekten en kwalen.
 Zuiver en heilig mij. Geef mij een deel van de uitstorting van heiligheid, dat kommer en kwel zullen verdwijnen, vreugde en geluk neerdalen, moedeloosheid en hopeloosheid in opgewektheid en vertrouwen veranderen, en moed in de plaats trede van vrees.
@@ -1039,9 +1273,13 @@ Waarlijk, Gij zijt de Vergevende, de Meedogende. Gij zijt de Edelmoedige, de Gel
 
 
 
+
+
+<a id="Handen Van de Zaak van God"></a> 
 ## Handen Van de Zaak van God
 
-### <a id="bpn9738"></a> Prayer bpn9738 in Nederlands
+<a id="bpn9738"></a> 
+### Prayer bpn9738 in Nederlands
 icht en glorie, groet en ere zij de Handen van Zijn Zaak, door wie het licht van standvastigheid heeft geschenen en de waarheid is vastgesteld dat de macht om te kiezen berust bij God, de Krachtige, de Machtige, de Onbeperkte, door wie de oceaan van gaven is aangezwollen en de geur van Gods genadige gunsten, de Heer der mensheid, is verspreid. Wij smeken Hem –verheven is Hij– hen te beschutten met de kracht van Zijn scharen, hen te beschermen met de macht van Zijn heerschappij en hen te helpen met Zijn onbedwingbare kracht die over al het geschapene heerst. De Heerschappij is aan God, de Schepper der hemelen en de Heer van het Koninkrijk van namen.
 
 (Source category: Handen Van de Zaak van God)
@@ -1051,9 +1289,13 @@ icht en glorie, groet en ere zij de Handen van Zijn Zaak, door wie het licht van
 
 
 
+
+
+<a id="Het Negentiendaagsfeest"></a> 
 ## Het Negentiendaagsfeest
 
-### <a id="bpn9557"></a> Prayer bpn9557 in Nederlands
+<a id="bpn9557"></a> 
+### Prayer bpn9557 in Nederlands
 O God! Verdrijf al hetgeen de oorzaak van onenigheid is, en bereid voor ons al wat eenheid en overeenstemming brengt! O God! Laat hemelse geuren op ons neerdalen en maak van deze bijeenkomst een hemelse bijeenkomst! Geef ons alle voedsel en al het goede. Bereid ons het voedsel der liefde! Geef ons het voedsel der kennis! Schenk ons het voedsel van hemelse verlichting!
 
 (Source category: Het Negentiendaagsfeest)
@@ -1063,9 +1305,13 @@ O God! Verdrijf al hetgeen de oorzaak van onenigheid is, en bereid voor ons al w
 
 
 
+
+
+<a id="Het korte Verplichte Gebed"></a> 
 ## Het korte Verplichte Gebed
 
-### <a id="bpn9525"></a> Prayer bpn9525 in Nederlands
+<a id="bpn9525"></a> 
+### Prayer bpn9525 in Nederlands
 *Eens in de vierentwintig uur te reciteren, in de middag
 
 
@@ -1079,9 +1325,13 @@ Er is geen ander God dan Gij, de Helper in nood, de Bij-zich-bestaande.
 
 
 
+
+
+<a id="Het lange Verplichte Gebed"></a> 
 ## Het lange Verplichte Gebed
 
-### <a id="BH00987"></a> Long Obligatory Prayer in Nederlands
+<a id="BH00987"></a> 
+### Long Obligatory Prayer in Nederlands
 ##Het lange Verplichte Gebed
 *Eens in de vierentwintig uur te reciteren.
 
@@ -1153,9 +1403,13 @@ Ik betuig, o mijn God, hetgeen Uw uitverkorenen betuigen en erken hetgeen de bew
 
 
 
+
+
+<a id="Het middellange Verplichte Gebed"></a> 
 ## Het middellange Verplichte Gebed
 
-### <a id="BH03447"></a> Medium Obligatory Prayer in Nederlands
+<a id="BH03447"></a> 
+### Medium Obligatory Prayer in Nederlands
 *Dagelijks te reciteren, ’s ochtends, ‘s middags en ’s avonds.
 
 
@@ -1192,9 +1446,13 @@ Ik getuig van Uw eenheid en Uw één-zijn, en dat Gij God zijt, en dat er geen a
 
 
 
+
+
+<a id="Hulp en bijstand"></a> 
 ## Hulp en bijstand
 
-### <a id="BH10973"></a> Prayer BH10973 in Nederlands
+<a id="BH10973"></a> 
+### Prayer BH10973 in Nederlands
 O Gij, Wiens gelaat het voorwerp is van mijn aanbidding, Wiens schoonheid mijn heiligdom, Wiens woning mijn doel, Wiens lof mijn hoop, Wiens voorzienigheid mijn metgezel, Wiens liefde de reden van mijn bestaan, Wiens noemen mijn troost, Wiens nabijheid mijn verlangen, Wiens tegenwoordigheid mijn dierbaarste wens en hoogste streven is, ik smeek U mij niet te onthouden hetgeen Gij voor de uitverkorenen onder Uw dienaren hebt bestemd. Verleen mij dan het goede van deze wereld en van de volgende.
 Gij zijt waarlijk de Koning van alle mensen. Er is geen God dan Gij, de Immervergevende, de Grootmoedigste.
 
@@ -1204,7 +1462,10 @@ Gij zijt waarlijk de Koning van alle mensen. Er is geen God dan Gij, de Immerver
 
 
 
-### <a id="bpn9594"></a> Prayer bpn9594 in Nederlands
+
+
+<a id="bpn9594"></a> 
+### Prayer bpn9594 in Nederlands
 Mijn God, mijn Aanbedene, mijn Koning, mijn verlangen! Welke tong kan mijn dank aan U uiten? Ik was achteloos, Gij deed mij ontwaken. Ik had mij van U afgekeerd, Gij hebt mij genadiglijk geholpen mij tot U te keren. Ik was als een dode, Gij hebt mij verkwikt met het water des levens. Ik was verdord, Gij deed mij herleven door de hemelse stroom van Uw woorden die voortvloeit uit de Pen van de Albarmhartige.
 O goddelijke Voorzienigheid! Alle bestaan is door Uw milddadigheid voortgebracht, ontneem het niet de wateren van Uw edelmoedigheid en houd het niet af van de oceaan van Uw genade. Ik smeek U mij altijd en onder alle omstandigheden bij te staan en te helpen, en hoop op Uw aloude gunst uit de hemel van Uw genade. Gij zijt, in waarheid, de Heer van milddadigheid en de Heerser van het koninkrijk van eeuwigheid.
 
@@ -1214,7 +1475,10 @@ O goddelijke Voorzienigheid! Alle bestaan is door Uw milddadigheid voortgebracht
 
 
 
-### <a id="bpn9595"></a> Prayer bpn9595 in Nederlands
+
+
+<a id="bpn9595"></a> 
+### Prayer bpn9595 in Nederlands
 Glorie zij U, o mijn God! De eerste tekenen van de lente van Uw genade zijn verschenen en hebben Uw aarde met pril groen bedekt. De wolken van de hemel van Uw milddadigheid hebben hun regen uitgestort over deze stad, binnen wier muren Hij die ernaar verlangt Uw schepselen te redden gevangen gehouden wordt. Daardoor is de grond van deze stad met bloemen bedekt, zijn haar bomen met gebladerte bekleed en haar inwoners verblijd.
 Het hart van Uw geliefden kan zich echter slechts verheugen in de goddelijke lentetijd van Uw tedere barmhartigheid, die het hart nieuw leven schenkt, de ziel vernieuwt en de boom van ‘s mensen bestaan vrucht doet dragen.
 O mijn Heer, de plant die in het hart van Uw geliefden was ontsproten is verkwijnd. Zend vanuit de wolken van Uw geest datgene op hen neer wat het tere kruid van Uw kennis en wijsheid in hun boezem zal doen gedijen. Verblijd dan hun hart met het verkondigen van Uw Zaak en het verheerlijken van Uw oppermacht.
@@ -1226,7 +1490,10 @@ O mijn Heer, hun ogen zijn vol verwachting op Uw milddadigheid gericht en hun ge
 
 
 
-### <a id="bpn9596"></a> Prayer bpn9596 in Nederlands
+
+
+<a id="bpn9596"></a> 
+### Prayer bpn9596 in Nederlands
 Zeg: Ere zij U die alle heiligen hun hulpeloosheid deed bekennen tegenover de menigvuldige openbaringen van Uw macht, en iedere Profeet zijn nietigheid deed erkennen bij de glans van Uw blijvende heerlijkheid. Ik smeek U, bij Uw Naam die de hemelpoorten heeft ontsloten en de Schare in den hoge met verrukking heeft vervuld, mij in staat te stellen U te dienen in deze Dag en mij te sterken om hetgeen Gij in Uw Boek hebt voorgeschreven na te komen. Gij weet, o mijn Heer, wat in mij is, doch ik weet niet wat in U is. Gij zijt de Alwetende, de Welingelichte.
 
 (Source category: Hulp en bijstand)
@@ -1235,7 +1502,10 @@ Zeg: Ere zij U die alle heiligen hun hulpeloosheid deed bekennen tegenover de me
 
 
 
-### <a id="bpn9597"></a> Prayer bpn9597 in Nederlands
+
+
+<a id="bpn9597"></a> 
+### Prayer bpn9597 in Nederlands
 Geloofd zij Uw Naam, o Heer onze God! Gij zijt waarlijk de Kenner van het ongeziene. Beschik voor ons het goede naar de maat van Uw alomvattende kennis. Gij zijt de soevereine Heer, de Almachtige, de Meestgeliefde.
 Alle lof zij U, o Heer! Op de aangewezen dag zullen wij Uw gunst zoeken en ons volle vertrouwen stellen in U die onze Heer zijt. Verheerlijkt zijt Gij, o God! Verleen ons wat goed en betamelijk is, opdat wij niets buiten U van node zullen hebben. Waarlijk, Gij zijt de Heer aller werelden.
 O God! Beloon hen die in Uw dagen geduldig hun lot dragen en sterk hun hart om zonder afwijken het pad van Waarheid te bewandelen. Verleen dan, o Heer, de goede gaven waardoor zij toegang tot Uw heerlijke Paradijs verkrijgen. Verheven zijt Gij, o Here God. Laat Uw hemelse zegeningen neerdalen op die huizen waarvan de bewoners in U geloven. Waarlijk, Gij zijt onovertroffen in het neerzenden van goddelijke zegeningen. Zend, o God, die legers uit die Uw getrouwe dienaren de overwinning zullen brengen. Gij vormt het geschapene door de kracht van Uw bevel naar Uw behagen. Gij zijt in waarheid de Heerser, de Schepper, de Alwijze.
@@ -1247,7 +1517,10 @@ Zeg: God is waarlijk de Maker aller dingen. Hij geeft overvloedige steun aan wie
 
 
 
-### <a id="bpn9598"></a> Prayer bpn9598 in Nederlands
+
+
+<a id="bpn9598"></a> 
+### Prayer bpn9598 in Nederlands
 O mijn God, mijn Heer en mijn Meester! Ik heb mij losgemaakt van mijn verwanten en heb getracht door U onafhankelijk te worden van allen die op aarde verblijven en altijd bereid te zijn datgene te ontvangen wat prijzenswaardig is in Uw ogen. Schenk mij hetgeen mij onafhankelijk zal maken van alles buiten U en verleen mij een groter deel van Uw grenzeloze gunsten. Waarlijk, Gij zijt de God van overvloedige genade.
 
 (Source category: Hulp en bijstand)
@@ -1256,7 +1529,10 @@ O mijn God, mijn Heer en mijn Meester! Ik heb mij losgemaakt van mijn verwanten 
 
 
 
-### <a id="AB00431PIT"></a> Prayer AB00431PIT in Nederlands
+
+
+<a id="AB00431PIT"></a> 
+### Prayer AB00431PIT in Nederlands
 Heer! Erbarmelijk zijn wij, verleen ons Uw gunst; arm zijn wij, schenk ons een deel uit de oceaan van Uw rijkdom; behoeftig zijn wij, voldoe aan onze noden; vernederd zijn wij, geef ons Uw heerlijkheid. De vogels in de lucht en de dieren op het veld ontvangen iedere dag van U hun voedsel en alle schepselen ondervinden Uw zorg en goedertierenheid.
 Onthoud deze zwakke Uw wondere genade niet en schenk door Uw macht deze hulpeloze ziel Uw weldaden.
 Geef ons ons dagelijks brood en voorzie steeds meer in onze levensbehoeften, opdat wij van niemand anders dan U afhankelijk zijn, volkomen in U opgaan, Uw wegen bewandelen en Uw geheimen bekendmaken. Gij zijt de Almachtige en de Liefderijke en de Verzorger van de gehele mensheid.
@@ -1267,7 +1543,10 @@ Geef ons ons dagelijks brood en voorzie steeds meer in onze levensbehoeften, opd
 
 
 
-### <a id="bpn9600"></a> Prayer bpn9600 in Nederlands
+
+
+<a id="bpn9600"></a> 
+### Prayer bpn9600 in Nederlands
 O Gij vriendelijk Heer! Wij zijn dienaren van Uw drempel en zoeken beschutting aan Uw heilige deur. Wij zoeken geen andere bescherming dan deze steunpilaar, en wenden ons slechts tot Uw hoede voor veiligheid. Bescherm ons, zegen ons, schraag ons, maak dat wij niets dan Uw welbehagen liefhebben, slechts Uw lof zingen en de weg van waarheid volgen, dat wij zo rijk mogen worden dat wij niemand buiten U van node hebben en onze gaven uit de zee van Uw weldadigheid kunnen ontvangen, en er voortdurend naar mogen streven om Uw Zaak te verheffen en Uw lieflijke geuren wijd en zijd te verspreiden, dat wij onszelf geheel mogen vergeten en ons uitsluitend bezighouden met U, al het andere verwerpen en in U opgaan.
 O Gij Verzorger, o Gij Vergevende! Verleen ons Uw genade en goedertierenheid, Uw giften en Uw gaven, en steun ons, dat wij ons doel mogen bereiken. Gij zijt de Machtige, de Bekwame, de Wetende, de Ziende; en waarlijk, Gij zijt de Grootmoedige, en waarlijk, Gij zijt de Albarmhartige, en waarlijk, Gij zijt de Immervergevende, Hij aan wie berouw verschuldigd is, Hij die zelfs de zwaarste zonden vergeeft.
 
@@ -1277,7 +1556,10 @@ O Gij Verzorger, o Gij Vergevende! Verleen ons Uw genade en goedertierenheid, Uw
 
 
 
-### <a id="AB10275"></a> Prayer AB10275 in Nederlands
+
+
+<a id="AB10275"></a> 
+### Prayer AB10275 in Nederlands
 Neem, o Heer, de feestdis niet weg die in Uw Naam is gespreid en doof niet de brandende vlam die door Uw onblusbaar vuur is ontstoken. Stuit niet het stromen van Uw levend water dat voortkabbelt met de melodie van Uw heerlijkheid en Uw gedachtenis, en onthoud Uw dienaren niet de welriekendheid van Uw zoete geuren die het parfum van Uw liefde verspreiden.
 Heer! Verander de kwellende zorgen van Uw heiligen in rust, hun tegenspoed in voorspoed, hun vernedering in heerlijkheid, hun verdriet in zalige vreugde, o Gij die de teugels van de gehele mensheid in Uw greep houdt!
 Gij zijt waarlijk de Ene, de Enige, de Machtige, de Alwetende, de Alwijze.
@@ -1289,9 +1571,13 @@ Gij zijt waarlijk de Ene, de Enige, de Machtige, de Alwetende, de Alwijze.
 
 
 
+
+
+<a id="Huqúqu’lláh, Gods recht"></a> 
 ## Huqúqu’lláh, Gods recht
 
-### <a id="BH01554HUQ"></a> Prayer BH01554HUQ in Nederlands
+<a id="BH01554HUQ"></a> 
+### Prayer BH01554HUQ in Nederlands
 *Ḥuqúqu'lláh is waarlijk een grootse wet. Iedereen is verplicht dit offer te brengen omdat dit een bron is van genade, van overvloed en van al het goede. Het is een milddadigheid die bij iedere ziel zal blijven in elke wereld van de werelden van God, de Albezittende, de Almilddadige. Bahá'u'lláh
 
 
@@ -1304,9 +1590,13 @@ Verheerlijkt zijt Gij, o Heer van de gehele schepping, Degeen tot Wie alle dinge
 
 
 
+
+
+<a id="Huwelijk"></a> 
 ## Huwelijk
 
-### <a id="bpn9602"></a> Prayer bpn9602 in Nederlands
+<a id="bpn9602"></a> 
+### Prayer bpn9602 in Nederlands
 *”Het bahá’í-huwelijk is de verbintenis en hartelijke genegenheid tussen twee partijen. Zij moeten echter uiterst zorgvuldig zijn en elkanders karakter leren kennen. Deze eeuwige verbintenis moet geborgd worden door een hecht verbond en moet erop gericht zijn harmonie, kameraadschap en eenheid aan te kweken en eeuwig leven te bereiken.” – Abdu’l-Baha
 
  
@@ -1327,7 +1617,10 @@ Toen Hij de mensen genade en milddadigheid wenste te betonen en de wereld wenste
 
 
 
-### <a id="bpn9603"></a> Prayer bpn9603 in Nederlands
+
+
+<a id="bpn9603"></a> 
+### Prayer bpn9603 in Nederlands
 Hij is God!
 O weergaloos Heer! In Uw almachtige wijsheid hebt Gij de volkeren het huwelijk opgelegd, opdat de generaties elkaar zullen opvolgen in deze vergankelijke wereld en de mensen zich zolang de wereld voortduurt zullen beijveren aan de drempel van Uw één-zijn met dienstbaarheid en aanbidding, met begroeting, verering en lof. “Ik heb geesten en mensen slechts geschapen opdat zij Mij zullen aanbidden.”  Huwt Gij daarom deze twee vogelen uit het nest Uwer liefde in de hemel van Uw erbarmen, en laat hen het middel worden om eeuwigdurende genade aan te trekken, opdat uit de verbintenis van deze twee zeeën van liefde een golf van tederheid aanrolle die de parelen van zuiver en edel nakomelingschap op de kust des levens werpt. “Hij heeft de twee zeeën vrijgelaten, opdat zij elkaar ontmoeten. Tussen hen is een grens welke zij niet overschrijden. Welke weldaad van Uw Heer wilt gij dan loochenen? Uit elk brengt Hij grote en kleine parelen naar boven.” 
 O Gij, liefderijk Heer! Maakt Gij dat dit huwelijk koraal en parelen voortbrengt. Gij zijt waarlijk de Almachtige, de Grootste, de Immervergevende.
@@ -1338,7 +1631,10 @@ O Gij, liefderijk Heer! Maakt Gij dat dit huwelijk koraal en parelen voortbrengt
 
 
 
-### <a id="AB07158"></a> Prayer AB07158 in Nederlands
+
+
+<a id="AB07158"></a> 
+### Prayer AB07158 in Nederlands
 Glorie zij U, o mijn God! Waarlijk, deze dienaar en dienares van U zijn onder de schaduw van Uw barmhartigheid samengekomen en zijn door Uw gunst en edelmoedigheid met elkaar verbonden. O Heer! Sta hen bij in Uw wereld en in Uw koninkrijk en bestem voor hen al het goede door Uw milddadigheid en genade. O Heer! Versterk hen in hun dienstbaarheid en help hen U te dienen. Laat hen de tekenen worden van Uw Naam in Uw wereld en bescherm hen door Uw weldaden, die onuitputtelijk zijn in deze wereld en in de wereld die komen gaat. O Heer! Zij roepen het koninkrijk van Uw barmhartigheid aan en smeken tot het rijk van Uw enig-zijn. Waarlijk, zij zijn in de echt verbonden in gehoorzaamheid aan Uw gebod. Laat hen tot het einde der tijden de tekenen van harmonie en eenheid worden. Waarlijk, Gij zijt de Almogende, de Alomtegenwoordige en de Almachtige!
 
 (Source category: Huwelijk)
@@ -1347,7 +1643,10 @@ Glorie zij U, o mijn God! Waarlijk, deze dienaar en dienares van U zijn onder de
 
 
 
-### <a id="bpn9605"></a> Prayer bpn9605 in Nederlands
+
+
+<a id="bpn9605"></a> 
+### Prayer bpn9605 in Nederlands
 O mijn Heer, o mijn Heer! Deze twee heldere hemellichamen zijn gehuwd in liefde tot U, verbonden in dienstbaarheid aan Uw heilige drempel, verenigd in het werken voor Uw Zaak. Maakt Gij dit huwelijk tot een doordringend licht van Uw overvloedige genade, o mijn Heer, de Albarmhartige, en een lichtstraal van Uw gaven, o Gij de Weldadige, de Immergevende, dat er takken aan deze uitmuntende boom mogen ontspringen die groen worden en gaan bloeien door de gaven die uit de wolken van Uw genade neerregenen.
 Waarlijk, Gij zijt de Edelmoedige. Waarlijk, Gij zijt de Almachtige. Waarlijk, Gij zijt de Meedogende, de Albarmhartige.
 
@@ -1358,9 +1657,13 @@ Waarlijk, Gij zijt de Edelmoedige. Waarlijk, Gij zijt de Almachtige. Waarlijk, G
 
 
 
+
+
+<a id="Jongeren"></a> 
 ## Jongeren
 
-### <a id="bpn9606"></a> Prayer bpn9606 in Nederlands
+<a id="bpn9606"></a> 
+### Prayer bpn9606 in Nederlands
 O Gij vriendelijk Heer! Van de horizon van onthechting hebt Gij zielen doen voortkomen die, als de lichtende maan, hun glans hebben verspreid over het rijk van hart en ziel, zich van de eigenschappen van de wereld van het bestaan hebben ontdaan en zich naar het koninkrijk van onsterfelijkheid hebben gespoed. Met een druppel uit de oceaan van Uw goedertierenheid hebt Gij de tuin van hun hart menigmaal bevochtigd, tot die weergaloos fris en prachtig werd. De heilige geur van Uw goddelijke eenheid werd wijd en zijd verbreid, waarbij haar zoete geuren over de gehele wereld werden uitgestort, en alle gebieden op aarde met parfum doordrenkt raakten.
 O geest van Zuiverheid, laat dan zielen opstaan die, zoals deze geheiligde wezens, vrij en zuiver worden, de bestaanswereld met een nieuw gewaad en een wonderschoon kleed tooien, niemand buiten U zoeken, slechts het pad van Uw welbehagen begaan en slechts van de mysteriën van Uw Zaak spreken.
 O Gij vriendelijk Heer! Vergun dat deze jongere mag bereiken wat het hoogste verlangen van de heiligen is. Begiftig hem met de vleugels van Uw sterkende genade –vleugels van onthechting en goddelijke bijstand– opdat hij daarmee zijn vlucht mag nemen tot de sferen van Uw tedere barmhartigheid, zal delen in Uw hemelse gaven en een teken van goddelijke leiding en een banier van de Scharen in den hoge mag worden. Gij zijt de Machtige, de Krachtige, de Ziende, de Horende.
@@ -1371,7 +1674,10 @@ O Gij vriendelijk Heer! Vergun dat deze jongere mag bereiken wat het hoogste ver
 
 
 
-### <a id="bpn9607"></a> Prayer bpn9607 in Nederlands
+
+
+<a id="bpn9607"></a> 
+### Prayer bpn9607 in Nederlands
 O Gij vriendelijk Heer! Schenk ieder van deze jonge vogels genadiglijk hemelse vleugels en geef hun geestelijke kracht, zodat zij hun vlucht nemen in deze oneindige ruimte en opwieken naar de hoogten van het Abhá-Koninkrijk.
 O Heer! Sterk deze tere zaailingen opdat elk een vruchtdragende boom wordt, groen en bloeiend. Schenk deze zielen de overwinning door de macht van Uw hemelse scharen, opdat zij de krachten van dwaling en onwetendheid kunnen vernietigen en de banier van kameraadschap en leiding onder de mensen kunnen ontplooien; dat zij als een vernieuwende lentebries de boom van de menselijke ziel mogen verfrissen en doen herleven, en gelijk lenteregens de weiden aldaar groen en vruchtbaar maken.
 Gij zijt de Machtige en de Krachtige; Gij zijt de Schenker en de Liefderijke.
@@ -1382,7 +1688,10 @@ Gij zijt de Machtige en de Krachtige; Gij zijt de Schenker en de Liefderijke.
 
 
 
-### <a id="AB10492"></a> Prayer AB10492 in Nederlands
+
+
+<a id="AB10492"></a> 
+### Prayer AB10492 in Nederlands
 O Gij vriendelijk Heer! Schenk deze dochter van het koninkrijk hemelse gaven en help haar genadiglijk standvastig en sterk te blijven in Uw Zaak, opdat zij, gelijk een nachtegaal in de rozentuin van mysteriën, wonderschone melodieën mag zingen in het Abhá-koninkrijk en zo iedereen vreugde mag brengen. Verhef haar onder de dochters van het koninkrijk en laat haar eeuwig leven verwerven.
 Gij zijt de Schenker, de Liefderijke.
 
@@ -1392,7 +1701,10 @@ Gij zijt de Schenker, de Liefderijke.
 
 
 
-### <a id="bpn9609"></a> Prayer bpn9609 in Nederlands
+
+
+<a id="bpn9609"></a> 
+### Prayer bpn9609 in Nederlands
 O Heer! Laat deze jongere stralen en verleen dit arme schepsel Uw milddadigheid. Schenk hem kennis, doe zijn krachten toenemen bij het aanbreken van iedere nieuwe dag en neem hem in bescherming en waak over hem, dat hij verlost moge worden van dwaling, zich moge wijden aan het dienen van Uw Zaak, de eigenzinnigen tot gids moge zijn, de ongelukkigen leiden, de gevangenen bevrijden en de achtelozen wekken, opdat allen gezegend mogen worden met het U loven en gedenken. Gij zijt de Machtige en de Krachtige.
 
 (Source category: Jongeren)
@@ -1401,7 +1713,10 @@ O Heer! Laat deze jongere stralen en verleen dit arme schepsel Uw milddadigheid.
 
 
 
-### <a id="bpn9610"></a> Prayer bpn9610 in Nederlands
+
+
+<a id="bpn9610"></a> 
+### Prayer bpn9610 in Nederlands
 Lof en eer zij U, o Heer mijn God! Dit is een uitverkoren jong boompje dat Gij in de weiden van Uw liefde hebt geplant en met de vingers van Uw Heerschappij hebt gevoed. Gij hebt het water gegeven uit de bron van eeuwig leven die opwelt in de tuinen van Uw één-zijn, en Gij hebt de wolken van Uw tedere barmhartigheid Uw gunsten erop doen neerregenen. Het is nu volgroeid en volledig tot ontwikkeling gekomen onder de beschutting van Uw zegeningen die zichtbaar zijn in de Morgenstond van Uw goddelijk wezen. Het is uitgebarsten in bladeren en bloesems, beladen met vruchten door de voorzienigheid van Uw wondere gaven en genadegiften, en het beweegt in de lieflijke bries die vanuit Uw goedertierenheid waait.
 O Heer! Laat deze jonge boom groen en fris worden en gedijen door de uitstortingen van Uw bijzondere milddadigheid en gunst, waarmee Gij de heilige tabernakelen van Uw eeuwig koninkrijk hebt gesierd en de essenties van eenheid in de arena van hereniging hebt getooid.
 O Heer! Help hem met Uw sterkende genade die uit Uw onzichtbaar Koninkrijk voortstroomt, en sta hem bij met de scharen die voor de ogen van Uw dienaren verborgen zijn, en geef hem vaste voet in Uw tegenwoordigheid. Maak zijn tong los om U te noemen en verblijd zijn hart zodat hij Uw lof bezingt. Verlicht zijn gelaat in Uw Koninkrijk, begunstig hem in het hemelse rijk en bevestig hem genadiglijk in dienstbaarheid aan Uw Zaak.
@@ -1414,9 +1729,13 @@ Gij zijt de Almogende, de Alglorierijke, de Almachtige.
 
 
 
+
+
+<a id="Kinderen"></a> 
 ## Kinderen
 
-### <a id="bpn9611"></a> Prayer bpn9611 in Nederlands
+<a id="bpn9611"></a> 
+### Prayer bpn9611 in Nederlands
 O Heer mijn God! Dit is een kind dat is voortgekomen uit de lendenen van een van Uw dienaren die Gij een onderscheiden staat hebt verleend in de Tafelen van Uw onherroepelijke bevel in de boeken van Uw beschikking.
 Ik smeek U bij Uw Naam, waardoor eenieder in staat is gesteld het doel van zijn verlangen te bereiken, te geven dat dit kind een volwassen ziel onder Uw dienaren mag worden; laat hem stralen door de kracht van Uw Naam, laat hem Uw lof verkondigen, zijn gelaat tot U keren en nader tot U komen. Waarlijk, Gij hebt al sinds het begin der tijden het vermogen te doen naar Uw wil en Gij zult tot in de eeuwigheid in staat zijn te doen naar Uw behagen. Er is geen ander God dan Gij, de Verhevene, de Doorluchtige, de Onderwerper, de Machtige, de Algebiedende.
 
@@ -1426,7 +1745,10 @@ Ik smeek U bij Uw Naam, waardoor eenieder in staat is gesteld het doel van zijn 
 
 
 
-### <a id="bpn9612"></a> Prayer bpn9612 in Nederlands
+
+
+<a id="bpn9612"></a> 
+### Prayer bpn9612 in Nederlands
 O God! Voed deze kinderen op. Deze kinderen zijn de planten van Uw boomgaard, de bloemen van Uw weide, de rozen van Uw tuin. Laat Uw regen op hen vallen en laat de Zon van Werkelijkheid op hen schijnen met Uw liefde. Laat Uw bries hen verfrissen, opdat zij worden opgeleid, groeien, tot ontwikkeling komen en zich in volkomen schoonheid ontplooien. Gij zijt de Schenker. Gij zijt de Meedogende.
 
 (Source category: Kinderen)
@@ -1435,7 +1757,10 @@ O God! Voed deze kinderen op. Deze kinderen zijn de planten van Uw boomgaard, de
 
 
 
-### <a id="AB10714"></a> Prayer AB10714 in Nederlands
+
+
+<a id="AB10714"></a> 
+### Prayer AB10714 in Nederlands
 O Gij vriendelijk Heer! Deze liefelijke kinderen zijn het werk van de vingers van Uw macht en de wondere tekenen van Uw grootheid. O God! Bescherm deze kinderen, help hen door Uw genade om opgeleid te worden en stel hen in staat dienstbaar te zijn aan de mensheid. O God! Deze kinderen zijn parelen, laat hen gekoesterd worden in de schelp van Uw goedertierenheid.
 Gij zijt de Genadige, de Liefderijke.
 
@@ -1445,7 +1770,10 @@ Gij zijt de Genadige, de Liefderijke.
 
 
 
-### <a id="AB10701"></a> Prayer AB10701 in Nederlands
+
+
+<a id="AB10701"></a> 
+### Prayer AB10701 in Nederlands
 O Heer! Maak deze kinderen tot voortreffelijke planten. Laat hen groeien en zich ontwikkelen in de Tuin van Uw Verbond en maak hen fris en mooi door de uitstortingen vanuit de wolken van het Alglorierijke Koninkrijk.
 O Gij vriendelijk Heer! Ik ben een klein kind, verhef mij door mij tot het koninkrijk toe te laten. Ik ben aards, maak mij hemels; ik ben van de wereld hier beneden, laat mij tot het hemelse rijk behoren; somber, laat mij stralen; stoffelijk, maak mij geestelijk, en geef dat ik Uw oneindige gaven ten toon mag spreiden.
 Gij zijt de Krachtige, de Liefderijke.
@@ -1456,7 +1784,10 @@ Gij zijt de Krachtige, de Liefderijke.
 
 
 
-### <a id="bpn9615"></a> Prayer bpn9615 in Nederlands
+
+
+<a id="bpn9615"></a> 
+### Prayer bpn9615 in Nederlands
 Hij is God! O God, mijn God! Schenk mij een zuiver hart, net als een parel.
 
 (Source category: Kinderen)
@@ -1465,7 +1796,10 @@ Hij is God! O God, mijn God! Schenk mij een zuiver hart, net als een parel.
 
 
 
-### <a id="AB04427LMP"></a> Prayer AB04427LMP in Nederlands
+
+
+<a id="AB04427LMP"></a> 
+### Prayer AB04427LMP in Nederlands
 O God, leid mij, bescherm mij, maak mij een stralende lamp en een schitterende ster.
 Gij zijt de Machtige en de Krachtige.
 
@@ -1475,7 +1809,10 @@ Gij zijt de Machtige en de Krachtige.
 
 
 
-### <a id="bpn9617"></a> Prayer bpn9617 in Nederlands
+
+
+<a id="bpn9617"></a> 
+### Prayer bpn9617 in Nederlands
 O mijn Heer! O mijn Heer!
 Ik ben een jong kind. Voed mij aan de borst van Uw genade, breng mij groot aan de boezem van Uw liefde, onderwijs mij in de school van Uw leiding en ontwikkel mij onder de beschutting van Uw milddadigheid. Verlos mij van het donker, maak mij een schitterend licht; bevrijd mij van verdriet, maak mij een bloem in de rozengaard; laat mij een dienaar worden aan Uw drempel en verleen mij het karakter en de aard van de rechtschapenen; maak mij een bron van goedheid voor de mensen en kroon mijn hoofd met het diadeem van eeuwig leven.
 Waarlijk, Gij zijt de Krachtige, de Machtige, de Ziende, de Horende.
@@ -1486,7 +1823,10 @@ Waarlijk, Gij zijt de Krachtige, de Machtige, de Ziende, de Horende.
 
 
 
-### <a id="bpn9618"></a> Prayer bpn9618 in Nederlands
+
+
+<a id="bpn9618"></a> 
+### Prayer bpn9618 in Nederlands
 O Weergaloos Heer! Weest Gij een schuilplaats voor dit arme kind en een vriendelijke en vergevingsgezinde Meester voor deze dwalende en ongelukkige ziel. O Heer! Hoewel wij slechts nietswaardige planten zijn, behoren wij toch tot Uw rozengaard. Hoewel wij jonge boompjes zonder blad of bloesem zijn, maken wij toch deel uit van Uw boomgaard. Voed deze plant dan met de uitstortingen uit de wolken van Uw tedere genade en verfris en sterk deze jonge boom door de levengevende adem van Uw geestelijke lente. Laat hem oplettend, scherpzinnig en edel te worden, en geef dat hij het eeuwige leven mag verkrijgen en voor immer in Uw Koninkrijk mag verblijven.
 
 (Source category: Kinderen)
@@ -1495,7 +1835,10 @@ O Weergaloos Heer! Weest Gij een schuilplaats voor dit arme kind en een vriendel
 
 
 
-### <a id="AB10324"></a> Prayer AB10324 in Nederlands
+
+
+<a id="AB10324"></a> 
+### Prayer AB10324 in Nederlands
 O mijn God! O mijn God! Gij ziet deze kinderen die de twijgen van de boom des levens zijn, de vogels van de weiden van verlossing, de parelen in de oceaan van Uw genade, de rozen in de tuin van Uw leiding.
 O God, onze Heer! Wij zingen Uw lof, getuigen van Uw heiligheid en smeken de hemel van Uw genade vurig om ons tot lichten van leiding te maken, sterren die te midden van de mensheid boven de horizon van eeuwige glorie schijnen, en ons de kennis die uit U voortkomt te onderwijzen.
 Yá Bahá’u’l-Abhá!
@@ -1506,7 +1849,10 @@ Yá Bahá’u’l-Abhá!
 
 
 
-### <a id="AB09794CHI"></a> Prayer AB09794CHI in Nederlands
+
+
+<a id="AB09794CHI"></a> 
+### Prayer AB09794CHI in Nederlands
 O Heer! Ik ben een kind, laat mij groeien in de schaduw van Uw goedertierenheid. Ik ben een teer plantje, voed mij met de regen uit de wolken van Uw milddadigheid. Ik ben een jong boompje in de tuin van liefde, laat mij een vruchtdragende boom worden.
 Gij zijt de Machtige en de Krachtige, en Gij zijt de Liefderijke, de Alwetende, de Alziende.
 
@@ -1516,7 +1862,10 @@ Gij zijt de Machtige en de Krachtige, en Gij zijt de Liefderijke, de Alwetende, 
 
 
 
-### <a id="AB10685"></a> Prayer AB10685 in Nederlands
+
+
+<a id="AB10685"></a> 
+### Prayer AB10685 in Nederlands
 O Gij glorierijkste Heer! Maak deze kleine dienares van U gezegend en gelukkig. Koester haar aan de drempel van Uw één-zijn en laat haar met volle teugen drinken uit de beker van Uw liefde, opdat zij vervuld mag worden van verrukking en vervoering, en zoete geuren mag verspreiden. Gij zijt de Machtige en de Krachtige, en Gij zijt de Alwetende, de Alziende.
 
 (Source category: Kinderen)
@@ -1526,9 +1875,13 @@ O Gij glorierijkste Heer! Maak deze kleine dienares van U gezegend en gelukkig. 
 
 
 
+
+
+<a id="Lof en dankbaarheid"></a> 
 ## Lof en dankbaarheid
 
-### <a id="BH09401"></a> Prayer BH09401 in Nederlands
+<a id="BH09401"></a> 
+### Prayer BH09401 in Nederlands
 Alle lof, o mijn God, zij U die de bron zijt van alle glorie en majesteit, van grootheid en eer, van soevereiniteit en heerschappij, van verhevenheid en genade, van ontzag en macht. Al wie Gij wilt doet Gij de Allergrootste Oceaan naderen, en al wie Gij verkiest verleent Gij de eer Uw Aloude Naam te erkennen. Van allen die in de hemel en op aarde zijn kan niemand de werking van Uw soevereine wil weerstaan. In alle eeuwigheid heerste Gij over de gehele schepping en Gij zult voor immer voortgaan Uw heerschappij over al het geschapene uit te oefenen. Er is geen ander God dan Gij, de Almachtige, de Verhevenste, de Almogende, de Alwijze.
 Verlicht, o Heer, het gelaat van Uw dienaren, opdat zij U kunnen aanschouwen, zuiver hun hart, opdat zij zich tot het hof van Uw hemelse gunsten kunnen wenden en Hem erkennen die de manifestatie is van Uzelf en de dageraad van Uw Essentie. Waarlijk, Gij zijt de Heer aller werelden. Er is geen God dan Gij, de Onbeperkte, de Albeheerser.
 
@@ -1538,7 +1891,10 @@ Verlicht, o Heer, het gelaat van Uw dienaren, opdat zij U kunnen aanschouwen, zu
 
 
 
-### <a id="bpn9626"></a> Prayer bpn9626 in Nederlands
+
+
+<a id="bpn9626"></a> 
+### Prayer bpn9626 in Nederlands
 In Naam van God, de Allerhoogste! Geprezen en verheerlijkt zijt Gij, Heer, Almachtig God! Gij, voor Wiens wijsheid de wijze tekort schiet en faalt, voor Wiens kennis de geleerde zijn onwetendheid bekent, voor Wiens macht de sterke zwak wordt, voor Wiens rijkdom de rijke zijn armoede betuigt, voor Wiens licht de verlichte in duisternis dwaalt, naar de tempel van Wiens kennis de kern van alle begrip zich keert en rondom het heiligdom van Wiens tegenwoordigheid de zielen van de gehele mensheid cirkelen.
 Hoe kan ik dan zingen en vertellen van Uw Essentie, die door de wijsheid der wijzen en de kennis der geleerden niet is begrepen, daar toch geen mens kan bezingen wat hij niet bevat, noch kan verhalen van wat hij niet kan bereiken, terwijl Gij toch sedert het begin der tijden de Ontoegankelijke, de Ondoorgrondelijke waart? Machteloos als ik ben om tot de hemelen van Uw heerlijkheid te stijgen en mij tot de rijken van Uw kennis te verheffen, kan ik slechts verhalen van Uw tekenen die van het heerlijke werk Uwer handen getuigen.
 Bij Uw Heerlijkheid! O Gij, Geliefde aller harten, de Enige die de pijn van verlangen naar U kan stillen! Al zouden alle bewoners van hemel en aarde zich verenigen om het kleinste Uwer tekenen waarin en waardoor Gij Uzelf hebt geopenbaard te verheerlijken, toch zouden zij falen; hoeveel te meer wanneer zij Uw heilig Woord, de schepper van al Uw tekenen, zouden willen prijzen.
@@ -1550,7 +1906,10 @@ Alle lof en heerlijkheid zij U, Gij van wie alle dingen getuigen dat Gij één z
 
 
 
-### <a id="bpn9627"></a> Prayer bpn9627 in Nederlands
+
+
+<a id="bpn9627"></a> 
+### Prayer bpn9627 in Nederlands
 Verheerlijkt zij Uw Naam, o Heer mijn God! Gij zijt Degeen die door alle dingen wordt aanbeden en die Zelf niemand aanbidt, die de Heer is van alle dingen en niemands vazal, die alle dingen kent en door niemand wordt gekend. Gij wenste Uzelf aan de mensen kenbaar te maken; daarom deed Gij, door één woord uit Uw mond, de schepping ontstaan en vormde Gij het heelal. Er is geen ander God dan Gij, de Vormer, de Schepper, de Almachtige, de Krachtigste.
 Ik smeek U, bij dit woord dat boven de horizon van Uw wil helder schijnt, mij met diepe teugen te laten drinken van de levende wateren waarmee Gij het hart van Uw uitverkorenen hebt doen herleven en de ziel van hen die U beminnen hebt verkwikt, dat ik mijn gelaat altijd en onder alle omstandigheden geheel tot U mag keren.
 Gij zijt de God van kracht, van glorie en milddadigheid. Geen God is er buiten U, de Allerhoogste Heerser, de Alglorierijke, de Alwetende.
@@ -1561,7 +1920,10 @@ Gij zijt de God van kracht, van glorie en milddadigheid. Geen God is er buiten U
 
 
 
-### <a id="bpn9628"></a> Prayer bpn9628 in Nederlands
+
+
+<a id="bpn9628"></a> 
+### Prayer bpn9628 in Nederlands
 Glorie zij U, o Heer mijn God! Ik dank U dat Gij mij in staat hebt gesteld de manifestatie van Uzelf te erkennen, en mij van Uw vijanden hebt gescheiden, en hun wandaden en verdorven werken in Uw dagen voor mij hebt blootgelegd, en mij hebt bevrijd van alle gehechtheid aan hen, en mij me geheel deed keren naar Uw genade en milddadige gaven. Ik dank U eveneens dat Gij vanuit de wolken van Uw wil tot mij hebt neergezonden hetgeen mij zo geheiligd heeft van de toespelingen van de ongelovigen en de zinspelingen van de misleiders, dat ik mijn hart stevig op U heb gericht en ben weggevlucht van hen die het licht van Uw gelaat ontkend hebben. Wederom dank ik U dat Gij mij gesterkt hebt in mijn trouw aan Uw liefde, en het bezingen van Uw lof en het verheerlijken van Uw deugden, en dat Gij mij te drinken hebt gegeven uit de kelk van Uw barmhartigheid die alle dingen, zichtbaar en onzichtbaar, te boven gaat.
 Gij zijt de Almachtige, de Verhevenste, de Alglorierijke, de Liefderijke.
 
@@ -1571,7 +1933,10 @@ Gij zijt de Almachtige, de Verhevenste, de Alglorierijke, de Liefderijke.
 
 
 
-### <a id="bpn9629"></a> Prayer bpn9629 in Nederlands
+
+
+<a id="bpn9629"></a> 
+### Prayer bpn9629 in Nederlands
 Geprezen zijt Gij, o Heer mijn God! Immer wanneer ik poog U te noemen, word ik daarin belemmerd door de verhevenheid van Uw staat en de overweldigende grootheid van Uw macht. Want al zou ik U prijzen gedurende geheel Uw heerschappij en zolang Uw soevereiniteit voortduurt, dan nog zou ik bemerken dat mijn lof voor U slechts passend is voor hen die mij gelijk zijn, die zelf Uw schepselen zijn, door de kracht van Uw gebod werden gevormd en door de macht van Uw wil werden geschapen. En steeds wanneer mijn pen eer betuigt aan welke Uwer namen ook, is het of ik haar stem kan horen weeklagen vanwege het veraf zijn van U, en haar kreten kan herkennen vanwege het van U gescheiden zijn. Ik betuig dat alles buiten U slechts Uw schepping is en zich in de holte van Uw hand bevindt. Het aanvaarden van enige daad of lof van Uw schepselen is slechts een bewijs van Uw wondere genade en overvloedige gunsten, en een blijk van Uw edelmoedigheid en voorzienigheid.
 Ik smeek U, o mijn Heer, bij Uw allergrootste Naam waardoor Gij licht van vuur en waarheid van verloochening hebt gescheiden, om tot mij en mijn geliefden die met mij zijn het goede van deze wereld en van de volgende neer te zenden. Voorzie ons dan van Uw wondere gaven die verborgen zijn voor de ogen der mensen. Gij zijt waarlijk de Vormer van de gehele schepping. Geen God is er dan Gij, de Almachtige, de Alglorierijke, de Allerhoogste.
 
@@ -1581,7 +1946,10 @@ Ik smeek U, o mijn Heer, bij Uw allergrootste Naam waardoor Gij licht van vuur e
 
 
 
-### <a id="bpn9630"></a> Prayer bpn9630 in Nederlands
+
+
+<a id="bpn9630"></a> 
+### Prayer bpn9630 in Nederlands
 O Gij, Wien te gedenken de zielsverrukking is van allen die naar U hunkeren, Wiens naam de jubelende vreugde is van allen die zich geheel aan Uw wil wijden, Wiens eer en lof wordt gekoesterd door hen die Uw hof nabij zijn, Wiens gelaat het vurige verlangen is van allen die Uw waarheid erkennen, Wiens beproeving de genezing is van hen die Uw Zaak omhelzen, Wiens bezoeking het hoogste verlangen is van hen die bevrijd zijn van alle gehechtheid aan eenieder buiten U!
 Verheerlijkt, onmetelijk verheerlijkt zijt Gij, in Wiens hand de heerschappij ligt over al hetgeen in de hemelen en op aarde is. Gij die door een enkel woord uit Uw mond alle dingen hebt doen vergaan en uiteenvallen en die, door weer een ander woord, al wat gescheiden was hebt samengevoegd en herenigd! Verheerlijkt zij Uw Naam, o Gij die macht hebt over allen die in de hemelen en allen die op aarde zijn, Wiens heerschappij alles omvat wat in de hemel van Uw Openbaring en in het koninkrijk van Uw schepping bestaat. Niemand kan U evenaren in de door U geschapen rijken; niemand kan zich in het heelal dat Gij hebt gevormd met U meten. Geen enkel verstand heeft U begrepen en geen enkel menselijk streven heeft U bereikt. Ik zweer bij Uw macht! Zou iemand al die tijd dat Uw eigen Wezen voortduurt op welke wieken ook door de onmetelijkheid van Uw kennis zweven, dan nog was hij niet bij machte de beperkingen die de vergankelijke wereld hem stelt te overstijgen. Hoe kan dan zulk een mens zijn vlucht pogen te nemen naar de sferen van Uw verhevenste tegenwoordigheid?
 Hij die zijn machteloosheid erkent en zijn zonden belijdt is waarlijk met inzicht begiftigd, want mocht enig schepsel, wanneer hij voor de oneindige wonderen van Uw Openbaring staat, aanspraak maken op enig bestaan, dan was een dergelijke godslasterlijke aanmatiging gruwelijker dan enige andere misdaad in alle gebieden van de door U vormgegeven schepping. Wie is er, o mijn Heer, die, wanneer Gij de eerste schittering van de tekenen van Uw alles te boven gaande soevereiniteit en macht openbaart, de kracht heeft voor zichzelf enige vorm van bestaan op te eisen? Het bestaan zelf is als niets tegenover de machtige en menigvuldige wonderen van Uw onvergelijkelijk Wezen.
@@ -1594,7 +1962,10 @@ Wij zijn Uw dienaren, o mijn Heer, in de greep van Uw macht. Indien Gij ons kast
 
 
 
-### <a id="bpn9631"></a> Prayer bpn9631 in Nederlands
+
+
+<a id="bpn9631"></a> 
+### Prayer bpn9631 in Nederlands
 Lof zij U, o mijn God, daar Gij het gelaat van Uw dienaren naar de rechterzijde van de troon van Uw gaven hebt gekeerd en hen onthecht deed zijn van alles buiten U, opdat zij Uw oppermacht en Uw heerlijkheid zullen erkennen. Ik getuig van de kracht van Uw Zaak, de alles doordringende invloed van Uw gebod, de onveranderlijkheid van Uw wil, de oneindigheid van Uw bedoeling. Alle dingen liggen gevangen in de greep van Uw macht en de gehele schepping is armzalig tegenover de tekenen van Uw rijkdom.
 Handel daarom, o mijn God, mijn Geliefde, mijn hoogste Verlangen, met Uw dienaren en met al het door U geschapene naar het Uw schoonheid en Uw grootheid betaamt, en Uw edelmoedigheid en gaven waardig is. Gij zijt in waarheid Degeen Wiens barmhartigheid alle werelden omvat en Wiens genade allen die in de hemel en op aarde verblijven omsluit. Wie heeft U aangeroepen zonder dat zijn gebed verhoord werd? Waar is hij die U trachtte te bereiken zonder dat Gij hem nader liet komen? Wie kan zeggen dat hij zijn blik op U vestigde en dat Gij het oog van Uw goedertierenheid niet op hem richtte? Ik getuig dat Gij U naar Uw dienaren hebt gekeerd eer zij zich naar U keerden, en dat Gij aan hen hebt gedacht eer zij aan U dachten. Alle genade is van U, o Gij in Wiens hand het rijk van goddelijke gaven en de bron van elk onherroepelijk gebod ligt.
 Zend daarom, o mijn God, tot allen die U zoeken datgene neer wat hen geheel zal bevrijden van alles wat niet van U is, en hen U zal doen naderen. Sta hen met Uw genade bij om U lief te hebben en zich te voegen naar hetgeen U zal behagen. Geef dan dat zij het pad van Uw Zaak blijven volgen, het pad waarop de voeten van de weifelaars onder Uw volk en de weerspannigen onder Uw dienaren uitglijden. Gij zijt waarlijk de Almogende, de Almachtige, de Grootste.
@@ -1605,7 +1976,10 @@ Zend daarom, o mijn God, tot allen die U zoeken datgene neer wat hen geheel zal 
 
 
 
-### <a id="bpn9632"></a> Prayer bpn9632 in Nederlands
+
+
+<a id="bpn9632"></a> 
+### Prayer bpn9632 in Nederlands
 O Gij die de Heer der Heren zijt! Ik betuig dat Gij de Heer zijt van al het geschapene en de Opvoeder van alle wezens, zichtbaar en onzichtbaar. Ik getuig dat Uw macht het ganse universum omvat, dat aardse legerscharen U nooit kunnen ontstellen, noch dat de heerschappij van alle volkeren en naties U ervan kan weerhouden Uw plan uit te voeren. Ik belijd dat Gij geen andere wens hebt dan het vernieuwen van de gehele wereld, het vestigen van de eenheid van haar volkeren en de verlossing van allen die daar wonen.
 
 (Source category: Lof en dankbaarheid)
@@ -1614,7 +1988,10 @@ O Gij die de Heer der Heren zijt! Ik betuig dat Gij de Heer zijt van al het gesc
 
 
 
-### <a id="bpn9633"></a> Prayer bpn9633 in Nederlands
+
+
+<a id="bpn9633"></a> 
+### Prayer bpn9633 in Nederlands
 Alle majesteit en heerlijkheid, o mijn God, en alle heerschappij en licht en grootsheid en pracht zij U. Gij verleent soevereiniteit aan wie Gij wilt en onthoudt haar aan wie Gij wenst. Geen God is er dan Gij, de Albezitter, de Verhevenste. Gij zijt Degeen die uit het niets het universum en allen die er in verkeren hebt geschapen. Niets buiten Uzelf is U waardig en allen buiten U zijn als verworpenen in Uw heilige tegenwoordigheid en als niets naast de heerlijkheid van Uw eigen Wezen.
 Verre zij het van mij Uw deugden te prijzen met iets anders dan dat waarmee Gij Uzelf hebt geprezen in Uw gezaghebbend Boek, waarin Gij zegt: “Ogen kunnen Hem niet bereiken, doch Hij bereikt alle ogen. Want Hij is de Scherpzinnige, de Alziende.”  Ere zij U, o mijn God, want geen enkel verstand of inzicht, hoe scherp of oordeelkundig ook, kan ooit de aard van het onbeduidendste Uwer tekenen bevatten. Waarlijk, Gij zijt God, geen God is er buiten U. Ik getuig dat alleen Gijzelf de enige uitdrukking zijt van Uw eigenschappen, dat de lof van niemand buiten U ooit Uw heilige hof kan bereiken noch Uw eigenschappen ooit door iemand buiten Uzelf kunnen worden doorgrond.
 Ere zij U, Gij zijt verheven boven de beschrijving van eenieder buiten Uzelf, daar het buiten het menselijk bevattingsvermogen ligt Uw eigenschappen passend te verheerlijken of de innerlijke werkelijkheid van Uw Essentie te begrijpen. Verre zij het van Uw heerlijkheid dat Uw schepselen U zouden beschrijven of dat iemand buiten Uzelf U ooit zou kennen. Ik ken U, o mijn God, omdat Gij Uzelf aan mij kenbaar hebt gemaakt, want als Gij U niet aan mij had geopenbaard dan zou ik U niet gekend hebben. Ik aanbid U, omdat Gij mij tot U geroepen hebt, want ware het niet vanwege Uw oproep dan zou ik U niet aanbeden hebben.
@@ -1625,7 +2002,10 @@ Ere zij U, Gij zijt verheven boven de beschrijving van eenieder buiten Uzelf, da
 
 
 
-### <a id="bpn9634"></a> Prayer bpn9634 in Nederlands
+
+
+<a id="bpn9634"></a> 
+### Prayer bpn9634 in Nederlands
 Verheerlijkt zij Uw Naam, o Heer! Tot wie zal ik mijn toevlucht nemen terwijl Gij in waarheid mijn God en mijn beminde zijt; bij wie zal ik beschutting zoeken terwijl Gij mijn Heer en mijn bezitter zijt; naar wie zal ik vluchten terwijl Gij in waarheid mijn meester en mijn toevluchtsoord zijt; tot wie zal ik smeken terwijl Gij in waarheid mijn schat en het doel van mijn verlangen zijt; en door wie zal ik bij U pleiten terwijl Gij in waarheid mijn hoogste streven en grootste verlangen zijt? Alle hoop is weggevaagd, slechts het verlangen naar Uw hemelse genade blijft bestaan, en iedere deur is vergrendeld behalve de poort die leidt naar de bron van Uw zegeningen.
 Ik smeek U, o mijn Heer, bij Uw luisterrijkste glans, die zo helder is dat iedere ziel zich er nederig bij neerbuigt en zich om Uwentwille in aanbidding ter aarde werpt – een glans zo stralend dat vuur in licht verandert, de doden tot leven komen en iedere last in gemak verandert. Ik smeek U bij deze geweldige, deze wonderbaarlijke glans en bij de heerlijkheid van Uw verheven soevereiniteit, o Gij die de Heer van onbedwingbare macht zijt, ons door Uw milddadigheid om te vormen tot datgene wat Gij Zelf bezit, ons een bron van Uw licht te laten worden en ons genadiglijk datgene te verlenen wat de majesteit van Uw alles te boven gaande heerschappij past. Want naar U heb ik mijn handen geheven, o Heer, en bij U heb ik beschuttende steun gevonden, o Heer, en aan U heb ik mij overgegeven, o Heer, en in U heb ik al mijn vertrouwen gesteld, o Heer, en door U ben ik gesterkt, o Heer.
 Waarlijk, er is geen macht of kracht dan in U.
@@ -1636,7 +2016,10 @@ Waarlijk, er is geen macht of kracht dan in U.
 
 
 
-### <a id="bpn9635"></a> Prayer bpn9635 in Nederlands
+
+
+<a id="bpn9635"></a> 
+### Prayer bpn9635 in Nederlands
 Ik smeek U bij de glans van het licht van Uw heerlijk gelaat, bij de majesteit van Uw aloude grootheid en bij de macht van Uw alles te boven gaande soevereiniteit, op dit ogenblik al wat goed en gepast is voor ons te beschikken en al Uw genadegiften voor ons te bestemmen. Het schenken van gaven levert U immers geen verlies op, noch vermindert het verlenen van gunsten Uw rijkdom.
 Verheerlijkt zijt Gij, o Heer! Waarlijk ik ben arm, terwijl Gij in waarheid rijk zijt; waarlijk ik ben nederig, terwijl Gij in waarheid machtig zijt; waarlijk ik ben krachteloos, terwijl Gij in waarheid krachtig zijt; waarlijk ik ben vernederd, terwijl Gij in waarheid de verhevenste zijt; waarlijk ik ben gekweld, terwijl Gij in waarheid de Heer van macht zijt.
 
@@ -1647,9 +2030,13 @@ Verheerlijkt zijt Gij, o Heer! Waarlijk ik ben arm, terwijl Gij in waarheid rijk
 
 
 
+
+
+<a id="Martelaren en hun familie"></a> 
 ## Martelaren en hun familie
 
-### <a id="AB02024"></a> Prayer AB02024 in Nederlands
+<a id="AB02024"></a> 
+### Prayer AB02024 in Nederlands
 Hij is God!
 O Heer mijn God! O Gij Helper van de zwakken, Steun van de armen en Verlosser van de hulpelozen die zich tot U keren.
 In uiterste deemoed hef ik mijn smekende handen tot Uw koninkrijk van schoonheid en roep ik U innerlijk vurig aan, zeggende: o God, mijn God! Help mij U te aanbidden, sterk mijn lendenen om U te dienen, sta mij met Uw genade bij in mijn dienstbaarheid aan U, vergun mij standvastig te blijven in mijn gehoorzaamheid aan U, stort de overvloedige stromen van Uw milddadigheid over mij uit, laat de blik van het oog van Uw goedertierenheid op mij rusten en dompel mij in de oceaan van Uw vergeving. Vergun dat ik word bevestigd in mijn trouw aan Uw Geloof en verleen mij een grotere mate van zekerheid en vertrouwen, opdat ik het geheel zonder de wereld kan stellen, mijn gelaat met volkomen toewijding naar Uw aangezicht mag keren, door de overtuigende kracht van bewijzen en getuigenissen word versterkt en, met majesteit en macht bekleed, iedere land- en hemelstreek achter mij kan laten. Waarlijk, Gij zijt de Barmhartige, de Alglorierijke, de Goedgunstige, de Meedogende.
@@ -1666,9 +2053,13 @@ Waarlijk, Gij zijt de Milddadige, de Machtige, de Almogende, de Onbeperkte. Er i
 
 
 
+
+
+<a id="Mensheid"></a> 
 ## Mensheid
 
-### <a id="BH00868WIT"></a> Prayer BH00868WIT in Nederlands
+<a id="BH00868WIT"></a> 
+### Prayer BH00868WIT in Nederlands
 Mijn God, die ik aanbid en vereer! Ik getuig van Uw eenheid en Uw één-zijn en erken Uw gaven van verleden en heden. Gij zijt de Almilddadige, Wiens overvloedige genaderegens over hoog en laag zijn uitgestort, en Wiens stralende barmhartigheid zowel over de gehoorzamen als de opstandigen is uitgegoten.
 O God van erbarmen, aan Wiens deur de kern van erbarmen knielt en rond het heiligdom van Wiens Zaak het diepste wezen van goedertierenheid cirkelt, wij bidden U, Uw aloude genade afsmekend en Uw huidige gunst zoekend, dat Gij allen die de belichaming van de bestaanswereld zijn genadig moogt zijn, en hen de uitstortingen van Uw genade in Uw dagen niet onthoudt.
 Allen zijn slechts arm en behoeftig, en Gij zijt waarlijk de Albezitter, de Albeheerser, de Alvermogende.
@@ -1679,7 +2070,10 @@ Allen zijn slechts arm en behoeftig, en Gij zijt waarlijk de Albezitter, de Albe
 
 
 
-### <a id="bpn9637"></a> Prayer bpn9637 in Nederlands
+
+
+<a id="bpn9637"></a> 
+### Prayer bpn9637 in Nederlands
 O Gij meedogend Heer, Gij die vrijgevig en bekwaam zijt! Wij zijn Uw dienaren die door Uw voorzienigheid worden beschut. Laat Uw blik van genegenheid op ons rusten. Schenk onze ogen licht, onze oren gehoor, en ons hart begrip en liefde. Breng onze ziel vreugde en geluk met Uw blijde tijdingen. O Heer! Wijs ons het pad naar Uw koninkrijk en doe ons allen herleven met de adem van de Heilige Geest. Verleen ons eeuwig leven en bekleed ons met oneindige eer. Verenig het mensdom en verlicht de wereld der mensheid. Mogen wij allen Uw pad volgen, naar Uw goedertierenheid verlangen en naar de mysteriën van Uw koninkrijk zoeken. O God! Verenig ons en verbind onze harten met Uw onverbrekelijke band. Waarlijk, Gij zijt de Gever, Gij zijt de Vriendelijke en Gij zijt de Almachtige.
 
 (Source category: Mensheid)
@@ -1688,7 +2082,10 @@ O Gij meedogend Heer, Gij die vrijgevig en bekwaam zijt! Wij zijn Uw dienaren di
 
 
 
-### <a id="bpn9638"></a> Prayer bpn9638 in Nederlands
+
+
+<a id="bpn9638"></a> 
+### Prayer bpn9638 in Nederlands
 O Gij vriendelijk Heer! O Gij die edelmoedig en barmhartig zijt! Wij zijn dienaren van Uw drempel, bijeengebracht onder de beschuttende schaduw van Uw goddelijke eenheid. De zon van Uw barmhartigheid beschijnt allen en de wolken van Uw genade storten hun regen over allen uit. Uw gaven omvatten allen, Uw liefdevolle voorzienigheid schraagt allen, Uw bescherming beschut allen en de blik van Uw genegenheid rust op allen. O Heer! Verleen ons Uw oneindige gaven en laat het licht van Uw leiding schijnen. Verlicht de ogen en verblijd de harten met blijvende vreugde. Begiftig alle mensen met een nieuwe geest en schenk hun eeuwig leven. Open de poorten van waar begrip en laat het licht van geloof helder schijnen. Breng alle mensen bijeen onder de schaduw van Uw genade en laat hen zich in harmonie verenigen, zodat zij als de stralen van één zon mogen worden, als de golven van één zee en de vruchten van één boom. Mogen zij drinken uit dezelfde bron. Moge zij verfrist worden door dezelfde bries. Mogen zij verlicht worden door dezelfde lichtbron. Gij zijt de Gever, de Genadige, de Alvermogende.
 
 (Source category: Mensheid)
@@ -1697,7 +2094,10 @@ O Gij vriendelijk Heer! O Gij die edelmoedig en barmhartig zijt! Wij zijn dienar
 
 
 
-### <a id="bpn9639"></a> Prayer bpn9639 in Nederlands
+
+
+<a id="bpn9639"></a> 
+### Prayer bpn9639 in Nederlands
 O Gij liefderijk Heer! Gij hebt de gehele mensheid geschapen uit dezelfde ouders. Gij hebt beschikt dat allen tot dezelfde familie behoren. In Uw heilige tegenwoordigheid zijn allen Uw dienaren, en de gehele mensheid wordt door Uw tabernakel beschut; allen zijn verzameld rond Uw Tafel van overvloed; allen worden verlicht met het licht van Uw voorzienigheid.
 O God! Gij zijt vriendelijk voor allen, Gij zorgt voor allen, beschut allen en verleent leven aan allen. Gij hebt eenieder met talenten en mogelijkheden begiftigd, en allen zijn gedompeld in de oceaan van Uw genade.
 O Gij, liefderijk Heer! Verenig allen. Laat de godsdiensten eensgezind zijn; maak de volkeren één, zodat zij elkaar als één familie zullen beschouwen en de gehele aarde als één thuis. Mogen zij allen in volmaakte harmonie samenleven.
@@ -1713,7 +2113,10 @@ Gij zijt de Machtige en de Krachtige, Gij zijt de Vergevende en Gij zijt Degeen 
 
 
 
-### <a id="bpn9640"></a> Prayer bpn9640 in Nederlands
+
+
+<a id="bpn9640"></a> 
+### Prayer bpn9640 in Nederlands
 O God, o Gij die Uw luister over de schitterende werkelijkheid der mensen hebt uitgestort, hen met het luisterrijke licht van kennis en leiding hebt beschenen, hen uit al het geschapene voor deze hemelse genade hebt uitverkoren en hebt gezorgd dat zij alle dingen bevatten, de diepste essentie ervan begrijpen en hun mysteriën onthullen door ze uit de duisternis in de zichtbare wereld te brengen! “Hij toont Zijn bijzondere genade waarlijk aan al wie Hij wil.” 
 O Heer, help Uw geliefden om kennis te verwerven, zich de wetenschappen en kunsten eigen te maken, en de geheimen te ontrafelen die als een schat diep binnenin de werkelijkheid van alle geschapen wezens bewaard liggen. Laat hen de verborgen waarheden horen die diep in de kern van alle bestaan geschreven staan. Laat hen tekenen van leiding worden onder alle schepselen, en doordringende stralen van de geest die hun licht uitstorten in dit “eerste leven.” 
 Maak hen loodsen naar U, gidsen naar Uw pad, boodschappers die de mensen oproepen tot Uw Koninkrijk.
@@ -1726,9 +2129,13 @@ Gij zijt waarlijk de Krachtige, de Beschermer, de Sterke, de Verdediger, de Mach
 
 
 
+
+
+<a id="Middernacht"></a> 
 ## Middernacht
 
-### <a id="bpn9529"></a> Prayer bpn9529 in Nederlands
+<a id="bpn9529"></a> 
+### Prayer bpn9529 in Nederlands
 *O zoeker naar Waarheid! Indien gij wenst dat God uw ogen opent, moet gij Hem aanroepen en u om middernacht in gebed tot Hem keren met de woorden:
 
 
@@ -1742,9 +2149,13 @@ Waarlijk, Gij zijt de Schenker, de Edelmoedige, de Genadige, de Vergevende.
 
 
 
+
+
+<a id="Nader tot God"></a> 
 ## Nader tot God
 
-### <a id="bpn9641"></a> Prayer bpn9641 in Nederlands
+<a id="bpn9641"></a> 
+### Prayer bpn9641 in Nederlands
 Glorie zij U, o mijn God! Gij hoort Uw vurige minnaars wenen omdat zij van U gescheiden zijn, en hoort hen die U erkend hebben weeklagen vanwege hun veraf zijn van Uw tegenwoordigheid. Open voor hen de poorten van Uw genade, o mijn Heer, dat zij die met Uw toestemming en naar Uw wil kunnen binnengaan, en voor de troon van Uw majesteit mogen staan, de klank van Uw stem horen, en verlicht raken met het licht dat van Uw gelaat straalt.
 Machtig zijt Gij te doen naar Uw behagen. Niemand kan de kracht van Uw soevereine macht weerstaan. Sedert het begin der tijden waart gij alleen, zonder gelijke, en Gij blijft voor eeuwig ver verheven boven iedere voorstelling of beschrijving van U. Erbarm U dan over Uw dienaren met Uw genade en milddadigheid, en laat hen niet weerhouden worden van de kust van de oceaan van Uw nabijheid. Wie zal zich over hen ontfermen indien Gij hen verlaat, en wie zal hun genegenheid betonen indien Gij hen verre van U houdt? Zij hebben geen ander Heer dan U, niemand om te aanbidden dan U. Behandel hen grootmoedig in Uw overvloedige genade.
 Gij zijt in waarheid de Immervergevende, de Meedogendste.
@@ -1755,7 +2166,10 @@ Gij zijt in waarheid de Immervergevende, de Meedogendste.
 
 
 
-### <a id="bpn9642"></a> Prayer bpn9642 in Nederlands
+
+
+<a id="bpn9642"></a> 
+### Prayer bpn9642 in Nederlands
 Ik ben waarlijk Uw dienaar, o mijn God, en Uw arme en Uw smekeling en Uw armzalig schepsel. Ik ben aan Uw poort gekomen en zoek Uw beschutting. Ik vind slechts voldoening in Uw liefde, slechts verrukking in het U gedenken, slechts geestdrift in gehoorzaamheid aan U, slechts vreugde in het U nabij zijn, en slechts rust in hereniging met U, terwijl ik mij er toch van bewust ben dat al het geschapene is uitgesloten van Uw verheven Essentie en de gehele schepping de toegang tot Uw diepste Zijn is ontzegd. Telkens wanneer ik poog U te naderen bemerk ik niets anders in mijzelf dan de tekenen van Uw genade en aanschouw ik niets in mijn wezen dan de openbaringen van Uw goedertierenheid. Hoe kan iemand die slechts Uw schepsel is hereniging met U zoeken en Uw tegenwoordigheid bereiken, waar geen schepsel ooit met U verbonden kan zijn, noch iemand U kan begrijpen? Hoe kan een nederige dienaar U erkennen en Uw lof prijzen, terwijl Gij immers de openbaring van Uw heerschappij en de wondere getuigenissen van Uw soevereiniteit voor hem hebt bestemd? Zo getuigt ieder schepsel dat het uitgesloten wordt van het heiligdom van Uw tegenwoordigheid vanwege de beperkingen van zijn innerlijke werkelijkheid. Het is echter onbetwist dat de invloed van Uw aantrekkingskracht altoos al besloten lag in de werkelijkheid van Uw handwerk, hoewel hetgeen het heilige hof van Uw voorzienigheid past verheven is boven de gehele schepping. Dit toont mijn algehele onvermogen om U te prijzen, o mijn God, en onthult mijn uiterste onmacht om U dank te brengen; hoeveel te meer om tot erkenning van Uw goddelijke eenheid te komen of de duidelijke tekenen van Uw lof, Uw heiligheid en Uw glorie te onderkennen. Neen, bij Uw macht, ik smacht slechts naar Uw eigen Zelf en zoek geen ander dan U.
 
 (Source category: Nader tot God)
@@ -1764,7 +2178,10 @@ Ik ben waarlijk Uw dienaar, o mijn God, en Uw arme en Uw smekeling en Uw armzali
 
 
 
-### <a id="bpn9643"></a> Prayer bpn9643 in Nederlands
+
+
+<a id="bpn9643"></a> 
+### Prayer bpn9643 in Nederlands
 O mijn God! Er is niemand dan Gij om mijn zielenleed te verzachten, en Gij zijt mijn grootste verlangen, o mijn God. Mijn hart is verknocht aan niemand buiten U en aan degenen die Gij liefhebt. Ik verklaar plechtig dat mijn leven en mijn sterven U toebehoren. Gij zijt waarlijk onvergelijkelijk en hebt geen deelgenoot.
 O mijn Heer! Ik smeek U mij te vergeven dat ik mij van U afgesloten heb. Bij Uw glorie en majesteit, ik heb U niet op passende wijze kunnen erkennen en aanbidden, terwijl Gij Uzelf toch aan mij kenbaar maakt en mij oproept U te gedenken naar het Uw rang waardig is. Groot onheil zou mij treffen, o mijn Heer, indien Gij mij zou grijpen vanwege mijn wandaden en overtredingen. Ik ken geen ander helper dan U. Ik kan naar geen andere schuilplaats vluchten dan naar U. Geen van Uw schepselen durft zonder Uw instemming voorspraak bij U te doen. Voor Uw hof houd ik vast aan Uw liefde, en naar Uw gebod aanbid ik U vurig zoals het Uw glorie betaamt. Ik smeek U naar mijn roepen te luisteren zoals Gij mij beloofd hebt. Gij zijt waarlijk God; geen God is er dan Gij. Alleen en zonder hulp zijt Gij onafhankelijk van al het geschapene. De toewijding van Uw minnaars kan U niet baten, noch kunnen de wandaden van de ongelovigen U schaden. Waarlijk, Gij zijt mijn God, die Zijn belofte altijd zal nakomen.
 O mijn God! Ik smeek U bij de tekenen van Uw gunst om mij nader te laten komen tot de verheven hoogten van Uw heilige tegenwoordigheid, en mij te behoeden toe te geven aan de subtiele verlokkingen van alles buiten U. Leid mijn schreden, o mijn God, naar hetgeen voor U aanvaardbaar en aangenaam is. Beschut mij door Uw macht voor de furie van Uw toorn en kastijding, en weerhoud mij van het betreden van door U niet gewenste woningen.
@@ -1775,7 +2192,10 @@ O mijn God! Ik smeek U bij de tekenen van Uw gunst om mij nader te laten komen t
 
 
 
-### <a id="bpn9644"></a> Prayer bpn9644 in Nederlands
+
+
+<a id="bpn9644"></a> 
+### Prayer bpn9644 in Nederlands
 O God, mijn God, mijn Geliefde, mijn Hartsverlangen.
 
 (Source category: Nader tot God)
@@ -1784,7 +2204,10 @@ O God, mijn God, mijn Geliefde, mijn Hartsverlangen.
 
 
 
-### <a id="bpn9645"></a> Prayer bpn9645 in Nederlands
+
+
+<a id="bpn9645"></a> 
+### Prayer bpn9645 in Nederlands
 O Heer, mijn God en mijn schuilplaats in mijn wanhoop! Mijn schild en mijn beschutting in mijn leed! Mijn vrijplaats en mijn toevlucht in tijden van nood en in mijn eenzaamheid mijn metgezel! In mijn smart mijn trooster en in mijn verlatenheid een liefdevol vriend! Degeen die de pijn mijner droefenis wegneemt en mijn zonden verontschuldigt!
 Ik keer mij geheel tot U en smeek U vurig, met mijn gehele hart, verstand en tong, mij in dit tijdperk Uwer goddelijke eenheid te beschermen tegen al wat in strijd is met Uw wil, en mij te reinigen van alle smetten die mij zullen beletten onbevlekt en onbesmeurd de schaduw van de boom van Uw genade te zoeken.
 Heb erbarmen met de zwakken, o Heer, heel de zieken en les de brandende dorst.
@@ -1803,7 +2226,10 @@ Gij zijt waarlijk de Genadige, de Verheerlijkte, de Machtige, de Alvermogende.
 
 
 
-### <a id="AB06012"></a> Prayer AB06012 in Nederlands
+
+
+<a id="AB06012"></a> 
+### Prayer AB06012 in Nederlands
 Hij is de Meedogende, de Almilddadige! O God, mijn God! Gij ziet mij, Gij kent mij; Gij zijt mijn schuilplaats en mijn toevlucht. Niemand heb ik gezocht noch zal ik zoeken buiten U; geen pad heb ik begaan noch zal ik begaan dan het pad van Uw liefde. In de duistere nacht van wanhoop richt ik mijn blik vol verwachting en hoop op de morgen van Uw grenzeloze gunst, en bij het aanbreken van de dag wordt mijn kwijnende ziel verkwikt en gesterkt door het gedenken van Uw schoonheid en volmaaktheid. Hij die met de gunst van Uw genade wordt geholpen zal, al ware hij slechts een druppel, tot een grenzeloze oceaan worden, en het kleinste atoom dat door de uitstorting van Uw goedertierenheid wordt bijgestaan, zal schijnen als een stralende ster.
 Beschut deze geboeide, in vuur geraakte dienaar onder Uw bescherming, o Gij Geest van zuiverheid, Gij die de almilddadige Verzorger zijt. Help hem in deze bestaanswereld standvastig en trouw te blijven in Uw liefde en laat deze vleugellamme vogel een schuilplaats en toevlucht vinden in Uw goddelijk nest dat in de hemelse boom rust.
 
@@ -1814,9 +2240,13 @@ Beschut deze geboeide, in vuur geraakte dienaar onder Uw bescherming, o Gij Gees
 
 
 
+
+
+<a id="Naw-Rúz"></a> 
 ## Naw-Rúz
 
-### <a id="bpn9742"></a> Prayer bpn9742 in Nederlands
+<a id="bpn9742"></a> 
+### Prayer bpn9742 in Nederlands
 Geprezen zijt Gij, o mijn God, dat Gij Naw-Rúz hebt ingesteld als een feestdag voor hen die de Vasten hebben gehouden uit liefde voor U en zich hebben onthouden van al wat U weerzinwekkend is. Vergun, o mijn Heer, dat het vuur van Uw liefde en de gloed die de door U opgelegde Vasten teweeg heeft gebracht hen in vlam zet voor Uw Zaak, en laat hen zich bezighouden met het U eren en gedenken.
 Daar Gij hen hebt getooid, o mijn Heer, met het sieraad van de door U voorgeschreven Vasten, tooi hen dan, door Uw genade en milddadige gunst, eveneens met het sieraad van Uw aanvaarding. Want alle doen en laten van de mens is afhankelijk van Uw welbehagen en wordt door Uw bevel bepaald. Indien Gij hem die de Vasten heeft gebroken beschouwt als iemand die hem heeft gehouden dan zal diegene worden gerekend tot hen die in alle eeuwigheid de Vasten hebben gehouden. En indien Gij beveelt dat hij die de Vasten heeft gehouden hem heeft gebroken dan zal die mens worden gerekend tot degenen die de mantel van Uw Openbaring met stof hebben bezoedeld en die ver verwijderd zijn van de kristalheldere wateren van deze levende Bron.
 Gij zijt Degeen door Wie het vaandel “Loffelijk zijt Gij in Uw werken” is geheven, en de banier “Gehoorzaamd wordt Gij naar Uw bevel” is ontrold. Maak Uw staat aan Uw dienaren bekend, o mijn God, zodat zij gaan beseffen dat de voortreffelijkheid van alle dingen afhankelijk is van Uw gebod en Uw woord, en de verdienste van iedere handeling wordt bepaald door Uw goedkeuring en het welbehagen van Uw wil, en zij mogen erkennen dat de teugels van ‘s mensen daden in de greep van Uw aanvaarding en Uw gebod liggen. Maak dit aan hen bekend, opdat niets hen ooit zal uitsluiten van Uw Schoonheid in deze dagen waarin de Christus uitroept: “Alle heerschappij is aan U, o Gij de Verwekker van de Geest (Jezus)”, en Uw Vriend (Mohammed) uitroept: “Glorie zij U, o Gij de Welbeminde, want Gij hebt Uw Schoonheid onthuld, en voor Uw uitverkorenen neergeschreven hetgeen hen de zetel van de openbaring van Uw Allergrootste Naam zal doen bereiken, die alle mensen deed weeklagen behalve hen die zich hebben onthecht van alles buiten U en zich hebben gericht op Hem die de Openbaarder is van Uzelf en de Manifestatie van Uw eigenschappen.”
@@ -1830,9 +2260,13 @@ Gij zijt in waarheid de Alwetende, de Alwijze.
 
 
 
+
+
+<a id="Ochtend"></a> 
 ## Ochtend
 
-### <a id="bpn9647"></a> Prayer bpn9647 in Nederlands
+<a id="bpn9647"></a> 
+### Prayer bpn9647 in Nederlands
 O mijn God en mijn Meester! Ik ben Uw dienaar en de zoon van Uw dienaar. Ik ben van mijn sponde verrezen in deze ochtendstond waarop de Dagster van Uw één-zijn helder schijnt vanuit de Dageraad van Uw wil en haar luister over de gehele wereld uitstort, zoals in de boeken van Uw gebod is bepaald.
 Ere zij U, o mijn God, dat wij tot de pracht van het licht van Uw kennis zijn ontwaakt. Zend dan datgene tot ons neer, o mijn Heer, waardoor wij niets buiten U van node zullen hebben, en wat ons zal bevrijden van alle gehechtheid aan alles buiten U. Schrijf bovendien neer voor mij en voor hen die mij lief zijn en voor mijn verwanten, man zowel als vrouw, het goede van deze wereld en van de wereld die komen zal. Beschut ons dan met Uw nimmer falende bescherming, o Gij de geliefde van de gehele schepping en het verlangen van het universum, tegen hen die Gij verschijningen deed zijn van de boze fluisteraar, die in ‘s mensen hart fluisteren. Machtig zijt Gij te doen naar Uw behagen. Gij zijt waarlijk de Almachtige, de Helper in nood, de Bij-zich-bestaande.
 Zegent Gij, o Heer mijn God, Hem die Gij boven Uw voortreffelijkste benamingen hebt gesteld en door wie Gij de godvruchtigen van de verdorvenen hebt gescheiden, en help ons genadiglijk te doen hetgeen Gij liefhebt en wenst. Zegent Gij bovendien, o mijn God, hen die Uw Woorden en Uw Letters zijn, en hen die hun blik op U gericht hebben en zich tot Uw aangezicht keren en naar Uw roep luisteren.
@@ -1844,7 +2278,10 @@ Gij zijt waarlijk de Heer en Koning aller mensen en zijt machtig over alle dinge
 
 
 
-### <a id="bpn9648"></a> Prayer bpn9648 in Nederlands
+
+
+<a id="bpn9648"></a> 
+### Prayer bpn9648 in Nederlands
 Ik ben onder Uw beschutting ontwaakt, o mijn God, en het past hem die deze beschutting zoekt binnen het heiligdom van Uw bescherming en de vesting van Uw verdediging te verwijlen. Verlicht mijn innerlijk, o mijn Heer, met de luister van de dageraad van Uw Openbaring, gelijk Gij mijn uiterlijk hebt verlicht met het morgenlicht van Uw gunst.
 
 (Source category: Ochtend)
@@ -1853,7 +2290,10 @@ Ik ben onder Uw beschutting ontwaakt, o mijn God, en het past hem die deze besch
 
 
 
-### <a id="BH00009GRA"></a> Prayer BH00009GRA in Nederlands
+
+
+<a id="BH00009GRA"></a> 
+### Prayer BH00009GRA in Nederlands
 Ik ben deze morgen opgestaan door Uw genade, o mijn God, en vol vertrouwen op U heb ik mijn woning verlaten, en mij geheel aan Uw zorg toevertrouwd. Zend dan Uwerzijds een zegening vanuit de hemel van Uw barmhartigheid tot mij neer en laat mij veilig terugkeren, zoals Gij mij ook onder Uw bescherming liet vertrekken, met mijn gedachten standvastig op U gericht.
 Er is geen ander God dan Gij, de Ene, de Onvergelijkelijke, de Alwetende, de Alwijze.
 
@@ -1863,7 +2303,10 @@ Er is geen ander God dan Gij, de Ene, de Onvergelijkelijke, de Alwetende, de Alw
 
 
 
-### <a id="BH00009AWA"></a> Prayer BH00009AWA in Nederlands
+
+
+<a id="BH00009AWA"></a> 
+### Prayer BH00009AWA in Nederlands
 Ik loof U, o mijn God, dat Gij mij uit mijn slaap deed ontwaken en mij uit mijn verzonken-zijn hebt geroepen en mij uit mijn sluimer deed verrijzen. Ik ben deze morgen ontwaakt met mijn gelaat geheven naar de pracht van de Dagster van Uw Openbaring, die de hemelen van Uw macht en Uw majesteit heeft verlicht; ik erken Uw tekenen, geloof in Uw Boek en houd vast aan Uw koord.
 Ik smeek U, bij de macht van Uw wil en de dwingende kracht van Uw doel, om hetgeen Gij mij in mijn slaap onthulde tot het zekerste fundament te maken voor de woningen van Uw liefde die zich in het hart van Uw geliefden bevinden, en tot het beste middel om de tekenen van Uw genade en Uw goedertierenheid te openbaren.
 Bestemt Gij met Uw verhevenste Pen voor mij, o mijn Heer, het goede van deze wereld en van de volgende. Ik betuig dat de teugels aller dingen in Uw greep liggen. Gij verandert ze naar Uw behagen. Geen God is er buiten U, de Sterke, de Getrouwe.
@@ -1877,9 +2320,13 @@ Gij stelt niemand die U zoekt teleur noch houdt Gij iemand die naar U verlangt v
 
 
 
+
+
+<a id="Onderricht"></a> 
 ## Onderricht
 
-### <a id="bpn9651"></a> Prayer bpn9651 in Nederlands
+<a id="bpn9651"></a> 
+### Prayer bpn9651 in Nederlands
 Verheerlijkt zij Uw Naam, o mijn God, dat Gij de Dag die de Koning der Dagen is hebt geopenbaard, de Dag die Gij in Uw voortreffelijke Tafelen hebt aangekondigd aan Uw uitverkorenen en Uw profeten, de Dag waarop Gij de pracht van de glorie van al Uw namen over al het geschapene hebt uitgestort. Groot is de zegening van hem die zich tot U heeft gekeerd en Uw tegenwoordigheid heeft bereikt, en de klank van Uw stem heeft gehoord.
 Ik smeek U, o mijn Heer, bij de naam van Hem rond wie het koninkrijk van Uw namen in aanbidding cirkelt, dat Gij hen die U lief zijn genadiglijk bij zult staan om Uw woord onder Uw dienaren te verheerlijken en Uw lof onder Uw schepselen te verspreiden, opdat de vervoering van Uw openbaring de ziel van alle bewoners van Uw aarde vervulle.
 Nu Gij hen naar de levende wateren van Uw genade geleid hebt, o mijn Heer, geef dan door Uw gunst dat zij niet van U worden weggehouden; en nu Gij hen tot de plaats van Uw troon geroepen hebt, verdrijf hen, in Uw goedertierenheid, niet van Uw tegenwoordigheid.
@@ -1891,7 +2338,10 @@ Zend dan datgene tot hen neer wat hen geheel los zal maken van alles buiten U, e
 
 
 
-### <a id="bpn9652"></a> Prayer bpn9652 in Nederlands
+
+
+<a id="bpn9652"></a> 
+### Prayer bpn9652 in Nederlands
 Ere zij U, o Heer mijn God! Ik smeek U bij Uw Naam welke niemand naar behoren heeft erkend, en welks betekenis geen ziel heeft doorgrond; ik smeek U bij Hem die de Bron is van Uw Openbaring en de Dageraad van Uw tekenen, mijn hart tot een bewaarplaats van Uw liefde en van het U gedenken te maken. Verbind het dan met Uw grootste Oceaan, dat de levende wateren van Uw wijsheid en de kristalheldere stromen van Uw verheerlijking en lof eruit voort mogen vloeien.
 Mijn ledematen getuigen van Uw eenheid, en de haren op mijn hoofd bevestigen de kracht van Uw soevereiniteit en macht. Ik sta aan de deur van Uw genade in volkomen deemoed en volledige zelfverloochening, klem mij aan de zoom van Uw milddadigheid, en richt mijn ogen op de horizon van Uw gaven.
 Bestemt Gij toch voor mij, o mijn God, hetgeen de grootheid van Uw majesteit past, en help mij door Uw sterkende genade Uw Zaak zo te onderrichten dat de doden zich uit hun graven spoeden en zich naar U haasten in volledig vertrouwen op U, met hun blik gericht op het morgenland van Uw Zaak en dageraadsplaats van Uw Openbaring.
@@ -1903,7 +2353,10 @@ Gij zijt waarlijk de Krachtigste, de Hoogste, de Alwetende, de Alwijze.
 
 
 
-### <a id="BH00308DES"></a> Prayer BH00308DES in Nederlands
+
+
+<a id="BH00308DES"></a> 
+### Prayer BH00308DES in Nederlands
 Glorie zij U, o Gij Heer van de wereld en het Verlangen der natiën, o Gij die openbaar geworden zijt in de Grootste Naam, waarbij de parelen van wijsheid en woorden uit de schelpen van de grote zee Uwer kennis te voorschijn zijn gekomen en de hemelen van goddelijke Openbaring werden getooid met het licht van de opkomst van de zon Uws aanschijns.
 Ik smeek U – bij dat Woord waardoor Uw bewijs onder Uw schepselen werd vervolmaakt en Uw getuigenis onder Uw dienaren werd voltooid – om Uw volk te sterken in hetgeen waardoor het aanzicht van de Zaak in Uw rijk zal stralen, en de vaandels van Uw macht onder Uw dienaren zullen worden geplant en de banieren van Uw leiding in al Uw rijken zullen worden geheven.
 O mijn Heer! Gij ziet hen zich vastklemmen aan het koord van Uw genade en zich vasthouden aan de zoom van de mantel van Uw goedgunstigheid. Bestem voor hen wat hen nader tot U zal brengen, en houd hen verre van alles buiten U.
@@ -1915,7 +2368,10 @@ Ik smeek U, o Gij Koning van het bestaan en Beschermer van het geziene en het on
 
 
 
-### <a id="bpn9654"></a> Prayer bpn9654 in Nederlands
+
+
+<a id="bpn9654"></a> 
+### Prayer bpn9654 in Nederlands
 O God, Gij die de Auteur van alle Manifestaties zijt, de Bron aller bronnen, de Wel aller openbaringen en de Oorsprong aller lichten! Ik betuig dat door Uw Naam de hemel van begrip werd getooid, en de oceaan van woorden is aangezwollen, en de beschikkingen van Uw voorzienigheid aan de volgelingen van alle religies zijn verkondigd.
 Ik smeek U mij zo te verrijken dat alles buiten U overbodig wordt en ik onafhankelijk van eenieder buiten Uzelf word. Laat dan uit de wolken van Uw milddadigheid datgene op mij neerregenen wat mij in elk van Uw werelden zal baten. Sta mij dan door Uw sterkende genade bij Uw Zaak zo onder Uw dienaren te dienen dat ik datgene zal betonen waardoor ik herinnerd zal worden zolang Uw eigen koninkrijk voortduurt en Uw heerschappij standhoudt.
 Dit is Uw dienaar, o mijn Heer, die zich met zijn gehele wezen naar de horizon van Uw milddadigheid, en de oceaan van Uw genade en de hemel van Uw gaven keert. Handel dan met mij naar het Uw majesteit en Uw glorie en Uw milddadigheid en Uw genade past.
@@ -1927,7 +2383,10 @@ Gij zijt in waarheid de God van sterkte en kracht, die bereid is hen die U aanro
 
 
 
-### <a id="bpn9655"></a> Prayer bpn9655 in Nederlands
+
+
+<a id="bpn9655"></a> 
+### Prayer bpn9655 in Nederlands
 Zeg: Verheerlijkt zij Uw Naam, o Heer mijn God! Ik smeek U bij Uw Naam waardoor de pracht van het licht van wijsheid luisterrijk heeft geschenen toen de hemelen van goddelijke uiting onder de mensheid in beweging zijn gebracht, om mij genadiglijk te helpen door Uw hemelse bevestiging en mij in staat te stellen Uw Naam onder Uw dienaren te verheerlijken.
 O Heer! Tot U heb ik mijn gelaat gekeerd, onthecht van alles buiten U, en ik houd mij vast aan de zoom van de mantel van Uw veelvuldige zegeningen. Maak daarom mijn tong los om datgene te verkondigen wat het gemoed der mensen bekoort en hun ziel en geest verblijdt. Sterk mij dan zodanig in Uw Zaak dat ik niet gehinderd word door het overwicht van de onderdrukkers onder Uw schepselen, noch weerhouden word door de aanvallen van de ongelovigen onder hen die in Uw rijk verblijven. Maak mij als een lamp die in Uw gehele gebied schijnt, opdat degenen in wiens hart het licht van Uw kennis gloeit en het verlangen naar Uw liefde sluimert door de glans ervan geleid mogen worden.
 Waarlijk, machtig zijt Gij te doen al wat Gij wilt, en Gij houdt het koninkrijk der schepping in Uw greep. Er is geen ander God dan Gij, de Almachtige, de Alwijze.
@@ -1938,7 +2397,10 @@ Waarlijk, machtig zijt Gij te doen al wat Gij wilt, en Gij houdt het koninkrijk 
 
 
 
-### <a id="bpn9656"></a> Prayer bpn9656 in Nederlands
+
+
+<a id="bpn9656"></a> 
+### Prayer bpn9656 in Nederlands
 Verheerlijkt zij Uw Naam, o mijn God! Nu Gij mij deze waarheid hebt doen verstaan, smeek ik U bij Uw Naam welke geen perkament kan vermelden, geen hart zich kan voorstellen en geen tong kan uiten – een Naam die verborgen zal blijven zolang Uw eigen Essentie verborgen is en verheerlijkt zal worden zolang Uw eigen Wezen geprezen wordt – om de vaandels van Uw onbetwiste oppermacht en zegepraal te ontplooien aleer het jaar ten einde neigt, zodat de gehele schepping worde verrijkt door Uw rijkdom en worde verheven door de veredelende invloed van Uw alles te boven gaande soevereiniteit, en allen zullen opstaan om Uw Zaak te bevorderen.
 Gij zijt waarlijk de Almachtige, de Allerhoogste, de Alglorierijke, de Albeheerser, de Albezitter.
 
@@ -1948,7 +2410,10 @@ Gij zijt waarlijk de Almachtige, de Allerhoogste, de Alglorierijke, de Albeheers
 
 
 
-### <a id="bpn9657"></a> Prayer bpn9657 in Nederlands
+
+
+<a id="bpn9657"></a> 
+### Prayer bpn9657 in Nederlands
 Duisternis omringt ieder land, o mijn God, en doet de meesten Uwer dienaren beven. Ik smeek U, bij Uw Allergrootste Naam, in iedere stad nieuwe schepselen te doen opstaan die zich tot U zullen keren en U onder Uw dienaren zullen gedenken, die krachtens hun woorden en wijsheid het vaandel van Uw zege zullen ontplooien en die zich zullen losmaken van al het geschapene.
 Machtig zijt Gij te doen naar Uw behagen. Geen God is er dan Gij, de Almogende, Hij Wiens hulp door alle mensen wordt afgesmeekt.
 
@@ -1958,7 +2423,10 @@ Machtig zijt Gij te doen naar Uw behagen. Geen God is er dan Gij, de Almogende, 
 
 
 
-### <a id="bpn9658"></a> Prayer bpn9658 in Nederlands
+
+
+<a id="bpn9658"></a> 
+### Prayer bpn9658 in Nederlands
 Verheerlijkt zij Uw Naam, o mijn God! Ik betuig dat als Uw dienaren zich tot U zouden keren met de ogen waarmee Gij hen hebt geschapen en met de oren waarmee Gij hen hebt begiftigd, zij allen meegesleept zouden worden door een enkel woord neergezonden vanuit de rechterzijde van de troon van Uw majesteit. Dat woord alleen al zou voldoende zijn om hun gelaat te verhelderen, hun hart gerust te stellen en hun ziel te doen opwieken naar de sferen van Uw grote heerlijkheid en zich te verheffen tot de hemel van Uw oppermacht.
 Ik bid U, o Gij die de Heer aller namen en de Heerser van hemel en aarde zijt, te schenken dat allen die U dierbaar zijn een kelk van Uw barmhartigheid mogen worden in Uw dagen, opdat zij het hart van Uw dienaren tot nieuw leven kunnen wekken. Stel hen ook in staat, o mijn God, te worden als de stortregen uit de wolken van Uw genade en als de wind die de lentegeuren van Uw goedertierenheid verspreidt, dat zij de bodem van het hart van Uw schepselen mogen bedekken met groen gewas en datgene mogen voortbrengen wat de geuren ervan in Uw gehele rijk zal verspreiden, zodat eenieder de zoete geur van de mantel van Uw Openbaring gewaar kan worden. Machtig zijt Gij te doen naar Uw wil.
 De kracht van Uw Macht is mij tot getuige! Al wie gedronken heeft uit de kelk die de hand van Uw barmhartigheid ronddroeg, zal zich ontdoen van alles buiten U en zal door een woord uit zijn mond in staat zijn de ziel van diegenen Uwer dienaren die sluimeren op het bed van verzuim en onachtzaamheid in verrukking te brengen, en hen ertoe te bewegen hun gelaat te keren naar Uw grootste Teken, en bij U niets te zoeken dan Uzelf, en van U slechts datgene te vragen wat Gij met de pen van Uw oordeel voor hen hebt bepaald en in de Tafel van Uw gebod hebt voorgeschreven.
@@ -1970,7 +2438,10 @@ O mijn God, zend dan door Uw Allergrootste Naam tot Uw geliefden neer hetgeen he
 
 
 
-### <a id="bpn9659"></a> Prayer bpn9659 in Nederlands
+
+
+<a id="bpn9659"></a> 
+### Prayer bpn9659 in Nederlands
 Ik smeek U, o mijn God, bij Uw kracht en Uw macht en Uw soevereiniteit, die allen die in Uw hemel en op Uw aarde zijn omvatten, Uw dienaren deze stralende Weg en dit rechte Pad bekend te maken, dat zij Uw eenheid en Uw één-zijn mogen erkennen met een zekerheid die niet door de nutteloze verbeelding der twijfelaars zal worden verzwakt noch door de ijdele hersenschimmen der eigenzinnigen zal worden verduisterd. Verlicht, o mijn Heer, de ogen van Uw dienaren en verblijd hun hart met de luister van het licht van Uw kennis, dat zij de grootheid van deze verhevenste rang mogen begrijpen en deze stralendste Horizon erkennen, opdat het getier der mensen hen niet weerhoude hun blik te wenden naar het schitterende licht van Uw eenheid en hen niet verhindere hun gelaat te heffen naar de horizon van onthechting.
 
 (Source category: Onderricht)
@@ -1979,7 +2450,10 @@ Ik smeek U, o mijn God, bij Uw kracht en Uw macht en Uw soevereiniteit, die alle
 
 
 
-### <a id="bpn9660"></a> Prayer bpn9660 in Nederlands
+
+
+<a id="bpn9660"></a> 
+### Prayer bpn9660 in Nederlands
 Zeg: O God, mijn God! Gij ziet mij rond Uw Wil cirkelen met mijn ogen gericht op de horizon van Uw genade, vurig verlangend naar de openbaring van de schitterende pracht van de zon Uwer gunsten.
 Ik smeek U, o Gij Geliefde van ieder begrijpend hart en het verlangen van hen die U nabij zijn, te geven dat Uw geliefden geheel onthecht raken van hun eigen neigingen en vasthouden aan wat U behaagt. Tooi hen, o Heer, met de mantel van rechtschapenheid en verlicht hen met de pracht van het licht van onthechting. Sta hen bij met de legers van wijsheid en welsprekendheid, dat zij Uw Woord onder Uw schepselen mogen verheerlijken en Uw Zaak onder Uw dienaren zullen verkondigen.
 Waarlijk, machtig zijt Gij te doen hetgeen Gij wilt, en de teugels van alle aangelegenheden rusten in Uw hand. Er is geen God dan Gij, de Machtige, de Immervergevende.
@@ -1990,7 +2464,10 @@ Waarlijk, machtig zijt Gij te doen hetgeen Gij wilt, en de teugels van alle aang
 
 
 
-### <a id="bpn9661"></a> Prayer bpn9661 in Nederlands
+
+
+<a id="bpn9661"></a> 
+### Prayer bpn9661 in Nederlands
 O mijn God, helpt Gij Uw dienaar het Woord te verheffen, wat nutteloos en onwaar is te weerleggen, de waarheid vast te stellen, de heilige verzen wijd en zijd bekend te maken, de pracht ervan te onthullen en het morgenlicht in het hart van de rechtvaardigen te doen opkomen.
 Gij zijt waarlijk de Edelmoedige, de Vergevende.
 
@@ -2000,7 +2477,10 @@ Gij zijt waarlijk de Edelmoedige, de Vergevende.
 
 
 
-### <a id="bpn9662"></a> Prayer bpn9662 in Nederlands
+
+
+<a id="bpn9662"></a> 
+### Prayer bpn9662 in Nederlands
 O God, mijn God! Helpt Gij Uw vertrouwde dienaren een liefdevol en warm hart te hebben. Help hen het licht van leiding dat van de Scharen in den hoge komt in alle landen der aarde te verspreiden. Waarlijk, Gij zijt de Sterke, de Krachtige, de Machtige, de Albeheerser, de Immerschenkende. Waarlijk, Gij zijt de Edelmoedige, de Zachtzinnige, de Liefderijke, de Milddadigste.
 
 (Source category: Onderricht)
@@ -2009,7 +2489,10 @@ O God, mijn God! Helpt Gij Uw vertrouwde dienaren een liefdevol en warm hart te 
 
 
 
-### <a id="AB00156LOW"></a> Prayer AB00156LOW in Nederlands
+
+
+<a id="AB00156LOW"></a> 
+### Prayer AB00156LOW in Nederlands
 Gij ziet mij nederig geknield, o mijn God, deemoedig voor Uw geboden, onderworpen aan Uw soevereiniteit, huiverend voor de macht van Uw heerschappij, vluchtend voor Uw gramschap, smekend om Uw genade, vertrouwend op Uw vergiffenis, bevend van ontzag voor Uw toorn. Ik smeek U met bonzend hart, stromende tranen en smachtende ziel, en in volledige onthechting van alle dingen, om Uw minnaars te maken als lichtstralen door al Uw rijken, en Uw uitverkoren dienaren te helpen Uw Woord te verheerlijken, opdat hun gelaat mag stralen van pracht en schoonheid, hun hart vervuld mag worden van mysteriën, en iedere ziel zijn zondenlast mag afleggen. Bescherm hen dan tegen de belager, tegen hem die een schaamteloze en boosaardige godslasteraar is geworden.
 Waarlijk, Uw minnaars zijn dorstig, o mijn Heer; leid hen naar de wel van milddadigheid en genade. Waarlijk, zij zijn hongerig; zend Uw hemelse dis tot hen neer. Waarlijk, zij zijn naakt; kleed hen met de mantel van geleerdheid en kennis.
 Helden zijn het, o mijn Heer, leid hen naar het strijdperk. Gidsen zijn het, laat hen luid en duidelijk spreken met argumenten en bewijzen. Verzorgende dienaren zijn het, laat hen de kelk die overvloeit van de wijn van zekerheid ronddragen. O mijn God, maak hen tot jubelende zangers in fraaie tuinen, maak hen tot leeuwen die klaarliggen in het struikgewas, walvissen die de immense diepte induiken.
@@ -2021,7 +2504,10 @@ Waarlijk, Gij zijt Degeen van overvloedige genade. Er is geen ander God dan Gij,
 
 
 
-### <a id="bpn9664"></a> Prayer bpn9664 in Nederlands
+
+
+<a id="bpn9664"></a> 
+### Prayer bpn9664 in Nederlands
 Gij weet, o God, en zijt mij tot getuige dat ik geen ander verlangen in mijn hart heb dan Uw welbehagen te verwerven, bevestigd te worden in dienstbaarheid aan U, mij te wijden aan het U dienen, te werken in Uw grote wijngaard en alles te offeren op Uw pad. Gij zijt de Alwetende en de Alziende. Ik heb geen andere wens in mijn liefde voor U dan mijn schreden naar de bergen en de woestijnen te richten om de komst van Uw Koninkrijk luide te verkondigen en Uw roep onder alle mensen aan te heffen. O God! Maakt Gij de weg vrij voor deze hulpeloze, geeft Gij deze zieke Uw remedie en schenk deze getroffene Uw genezing. Ik smeek U met brandend hart en tranen in de ogen aan Uw Drempel.
 O God! Ik ben bereid iedere bezoeking op Uw pad te doorstaan en verlang er met heel mijn hart en ziel naar iedere ontbering tegemoet te treden.
 O God! Behoed mij voor beproevingen. Gij ziet en weet dat ik mij van alle dingen heb afgewend en mij van alle gedachten heb bevrijd. Ik heb geen andere bezigheden dan het U noemen en geen ander streven dan U dienen.
@@ -2033,9 +2519,13 @@ O God! Behoed mij voor beproevingen. Gij ziet en weet dat ik mij van alle dingen
 
 
 
+
+
+<a id="Onderricht, uit de Tafelen van het Goddelijk Plan"></a> 
 ## Onderricht, uit de Tafelen van het Goddelijk Plan
 
-### <a id="AB00218SOU"></a> Prayer AB00218SOU in Nederlands
+<a id="AB00218SOU"></a> 
+### Prayer AB00218SOU in Nederlands
 ##Geopenbaard aan de bahá’ís van de Verenigde Staten en Canada
 
 
@@ -2049,7 +2539,10 @@ Waarlijk, Gij zijt de Krachtige, de Machtige en de Almogende, en Gij zijt de Wij
 
 
 
-### <a id="bpn9666"></a> Prayer bpn9666 in Nederlands
+
+
+<a id="bpn9666"></a> 
+### Prayer bpn9666 in Nederlands
 ##Geopenbaard aan de bahá’ís van de Verenigde Staten en Canada
 
 *Laat eenieder die zich op onderrichtsreis begeeft tijdens zijn reizen in vreemde landen dit gebed dag en nacht reciteren:
@@ -2066,7 +2559,10 @@ Waarlijk, Gij bekrachtigt al wie Gij wilt in hetgeen Gij verlangt, en waarlijk, 
 
 
 
-### <a id="bpn9667"></a> Prayer bpn9667 in Nederlands
+
+
+<a id="bpn9667"></a> 
+### Prayer bpn9667 in Nederlands
 ##Geopenbaard aan de bahá’ís van de Verenigde Staten en Canada
 
 *Laat al wie naar verschillende gebieden reist om te onderrichten, deze smeekbede aandachtig lezen in bergen en woestijnen, te land en ter zee:
@@ -2084,7 +2580,10 @@ Waarlijk, Gij zijt de Welwillende, de Krachtige, de Machtige en de Barmhartigste
 
 
 
-### <a id="bpn9668"></a> Prayer bpn9668 in Nederlands
+
+
+<a id="bpn9668"></a> 
+### Prayer bpn9668 in Nederlands
 ##Geopenbaard aan de bahá’ís van de Verenigde Staten en Canada
 
 
@@ -2107,7 +2606,10 @@ Waarlijk, Gij zijt de Grootmoedigste, de Heer van overvloedige genade en waarlij
 
 
 
-### <a id="bpn9669"></a> Prayer bpn9669 in Nederlands
+
+
+<a id="bpn9669"></a> 
+### Prayer bpn9669 in Nederlands
 ##Geopenbaard aan de bahá’ís van de noordoostelijke staten.
 
 *De volgende smeekbede moeten de leraren en de vrienden dagelijks lezen:
@@ -2124,7 +2626,10 @@ Waarlijk, Gij zijt de Krachtige, de Machtige, de Wijze en de Ziende.
 
 
 
-### <a id="AB00209UND"></a> Prayer AB00209UND in Nederlands
+
+
+<a id="AB00209UND"></a> 
+### Prayer AB00209UND in Nederlands
 ##Geopenbaard aan de bahá’ís van de zuidelijke staten
 
 *Eenieder die door de steden, dorpen en gehuchten van deze staten reist en de geuren Gods aan het verspreiden is, moet deze bede iedere ochtend nauwkeurig lezen:
@@ -2139,7 +2644,10 @@ Gij zijt de Almachtige en Degeen die doet al hetgeen Hij maar wil.
 
 
 
-### <a id="bpn9671"></a> Prayer bpn9671 in Nederlands
+
+
+<a id="bpn9671"></a> 
+### Prayer bpn9671 in Nederlands
 ##Geopenbaard aan de bahá’ís in de centraal gelegen staten
 
 *Laat de verspreiders van de geuren Gods dit gebed iedere ochtend zeggen:
@@ -2155,7 +2663,10 @@ O Heer! Ik ben zwak, sterk mij met Uw kracht en macht. Mijn tong stamelt, sta mi
 
 
 
-### <a id="bpn9672"></a> Prayer bpn9672 in Nederlands
+
+
+<a id="bpn9672"></a> 
+### Prayer bpn9672 in Nederlands
 ##Geopenbaard aan de bahá’ís van de westelijke staten
 
 *De volgende bede moet […] iedere dag gelezen worden:
@@ -2171,7 +2682,10 @@ Waarlijk, Gij zijt de helper van de armen en de verdediger van de kleinen en waa
 
 
 
-### <a id="AB00169FRA"></a> Prayer AB00169FRA in Nederlands
+
+
+<a id="AB00169FRA"></a> 
+### Prayer AB00169FRA in Nederlands
 ##Geopenbaard aan de bahá’ís van Canada	
 
 
@@ -2185,7 +2699,10 @@ Waarlijk, Gij zijt de Almogende, de Verhevenste, de Immervergevende, de Albarmha
 
 
 
-### <a id="bpn9674"></a> Prayer bpn9674 in Nederlands
+
+
+<a id="bpn9674"></a> 
+### Prayer bpn9674 in Nederlands
 ##Geopenbaard aan de bahá’ís van Canada
 
 *De verbreiders van de geuren Gods dienen dit gebed iedere morgen te reciteren:
@@ -2203,9 +2720,13 @@ Waarlijk, Gij zijt de Krachtige, de Machtige, de Alvermogende.
 
 
 
+
+
+<a id="Onthechting"></a> 
 ## Onthechting
 
-### <a id="BH09289"></a> Prayer BH09289 in Nederlands
+<a id="BH09289"></a> 
+### Prayer BH09289 in Nederlands
 Vergun mij, o mijn God, U nader te komen en binnen de grenzen van Uw hof te verblijven, want het veraf zijn van U heeft mij bijkans doen wegkwijnen. Laat mij rusten onder de schaduw van de vleugels van Uw genade, daar de vlam van mijn afzondering van U mijn hart in mij heeft verteerd. Breng mij nader tot de rivier van waarachtig leven, want mijn ziel brandt van dorst in zijn onophoudelijke zoektocht naar U. Mijn zuchten, o mijn God, verkondigen mijn bittere smart, en de tranen die ik schrei getuigen van mijn liefde voor U.
 Ik smeek U, bij de lof waarmee Gij Uzelf looft en de glorie waarmee Gij Uw eigen Essentie verheerlijkt, te schenken dat wij gerekend mogen worden tot hen die U in Uw dagen hebben erkend en Uw soevereiniteit hebben onderkend. Help ons dan, o mijn God, om uit de hand van erbarmen de levende wateren van Uw goedertierenheid te drinken, opdat wij alles buiten U geheel mogen vergeten, en slechts U indachtig zullen zijn. Krachtig zijt Gij te doen hetgeen Gij wilt. Geen God is er buiten U, de Machtige, de Helper in nood, de Bij-zich-bestaande.
 Verheerlijkt zij Uw Naam, o Gij die de Koning aller koningen zijt!
@@ -2216,7 +2737,10 @@ Verheerlijkt zij Uw Naam, o Gij die de Koning aller koningen zijt!
 
 
 
-### <a id="bpn9676"></a> Prayer bpn9676 in Nederlands
+
+
+<a id="bpn9676"></a> 
+### Prayer bpn9676 in Nederlands
 Verheerlijkt zijt Gij, o mijn God! Ik breng U dank dat Gij Degeen die het ochtendgloren is van Uw erbarmen, de dageraadsplaats van Uw genade en de schatkamer van Uw Zaak, aan mij bekend hebt gemaakt. Ik smeek U bij Uw Naam waardoor het gelaat van hen die U nabij zijn is verbleekt, en het hart van hen die U zijn toegewijd zijn vlucht naar U heeft genomen, te geven dat ik altijd en onder alle omstandigheden Uw koord mag grijpen en verlost mag zijn van alle gehechtheid aan iemand buiten U, en mijn ogen gericht mag houden op de horizon van Uw Openbaring en mag volbrengen hetgeen Gij mij in Uw Tafelen hebt voorgeschreven.
 Sier, o mijn Heer, mijn innerlijk en mijn uiterlijk wezen met de tooi van Uw gaven en Uw goedertierenheid. Bescherm mij dan tegen al wat Gij verafschuwt, en help mij en mijn verwanten genadiglijk om U te gehoorzamen en alles te schuwen wat slechte of verdorven wensen in mij kan opwekken.
 Gij zijt waarlijk de Heer der gehele mensheid, en de Bezitter van deze wereld en van de volgende. Geen God is er dan Gij, de Alwetende, de Alwijze.
@@ -2227,7 +2751,10 @@ Gij zijt waarlijk de Heer der gehele mensheid, en de Bezitter van deze wereld en
 
 
 
-### <a id="bpn9677"></a> Prayer bpn9677 in Nederlands
+
+
+<a id="bpn9677"></a> 
+### Prayer bpn9677 in Nederlands
 Geloofd zij Uw Naam, o mijn God! Ik smeek U bij de geuren van het gewaad van Uw genade, die op Uw bevel en in overeenstemming met Uw wens over de gehele schepping werden verspreid, en bij de Dagster van Uw wil die door de kracht van Uw macht en Uw soevereiniteit helder aan de horizon van Uw genade schijnt, om elke ijdele waan en nutteloze verbeelding uit mijn hart te wissen, opdat ik mij met al mijn genegenheid tot U mag keren, o Gij Heer van de gehele mensheid!
 Ik ben Uw dienaar en de zoon van Uw dienaar, o mijn God! Ik heb de handgreep van Uw genade gevat en mij vastgeklemd aan het koord van Uw tedere barmhartigheid. Beschik voor mij het goede dat bij U is en voed mij van de Tafel die Gij hebt neergezonden uit de wolken van Uw milddadigheid en de hemel van Uw gunst.
 Gij zijt, in waarheid, de Heer der werelden, en de God van allen die in de hemel en allen die op aarde zijn.
@@ -2238,7 +2765,10 @@ Gij zijt, in waarheid, de Heer der werelden, en de God van allen die in de hemel
 
 
 
-### <a id="BH09024"></a> Prayer BH09024 in Nederlands
+
+
+<a id="BH09024"></a> 
+### Prayer BH09024 in Nederlands
 Menig verkild hart is in vlam gezet met het vuur van Uw Zaak, o mijn God, en menig slapende is gewekt door de zoetheid van Uw stem. Hoevele vreemdelingen zoeken beschutting in de schaduw van de boom van Uw één-zijn, en hoe talrijk zijn de dorstigen die in Uw dagen naar de bron van Uw levend water smachten!
 Gezegend is hij die zich tot U heeft gewend en zich heeft gehaast het ochtendgloren van het licht van Uw aanschijn te bereiken. Gezegend is hij die zich met al zijn genegenheid naar de dageraadsplaats van Uw Openbaring en de Bron van Uw inspiratie keert. Gezegend is hij die hetgeen Gij hem door Uw milddadigheid en gaven hebt geschonken op Uw pad besteedt. Gezegend is hij die in zijn diepe verlangen naar U alles buiten U van zich afgeworpen heeft. Gezegend is hij die innige verbondenheid met U ervaart en zich van alle gehechtheid aan iemand buiten U ontdaan heeft.
 Ik smeek U, o mijn Heer, bij Hem die Uw Naam is, die door de kracht van Uw soevereiniteit en macht boven de horizon van Zijn gevangenis is verrezen, voor elkeen te bestemmen hetgeen U siert en Uw verheven staat past.
@@ -2250,7 +2780,10 @@ Uw macht is, in waarheid, tegen alles bestand.
 
 
 
-### <a id="BH05894"></a> Prayer BH05894 in Nederlands
+
+
+<a id="BH05894"></a> 
+### Prayer BH05894 in Nederlands
 Ik weet niet, o mijn God, wat het vuur is dat Gij in Uw land deed ontvlammen. Aarde kan de glans ervan nooit verduisteren, noch kan water de vlammen ervan blussen. Geen van de volkeren der wereld is bij machte de kracht ervan te weerstaan. Groot is de gelukzaligheid van hem die het is genaderd en het loeien ervan heeft gehoord.
 Sommigen, o mijn God, stelde Gij door Uw sterkende genade in staat het te naderen, terwijl Gij anderen ervan weerhield vanwege hetgeen hun handen in Uw dagen hebben aangericht. Al wie zich erheen spoedde en het bereikte heeft, in zijn vurig verlangen om Uw schoonheid te aanschouwen, zijn leven gegeven op Uw pad en is, geheel vrij van alles buiten U, tot U opgestegen.
 Ik smeek U, o mijn Heer, bij dit vuur dat laait en woedt in de wereld der schepping, de sluiers vaneen te scheuren die mij hebben belet voor de troon van Uw majesteit te verschijnen en aan de deur van Uw poort te staan. Beschikt Gij voor mij, o mijn Heer, al het goede dat Gij hebt neergezonden in Uw Boek, en laat mij niet ver van de beschutting van Uw genade verwijderd zijn.
@@ -2262,7 +2795,10 @@ Machtig zijt Gij te doen naar Uw behagen. Gij zijt waarlijk de Almogende, de Gro
 
 
 
-### <a id="BH05771"></a> Prayer BH05771 in Nederlands
+
+
+<a id="BH05771"></a> 
+### Prayer BH05771 in Nederlands
 Geprezen zijt Gij, o mijn God! Ik ben een van Uw dienaren die in U en in Uw tekenen gelooft. Gij ziet hoe ik mij naar de deur van Uw barmhartigheid begeef en mijn gelaat in de richting van Uw goedertierenheid heb gekeerd. Ik smeek U bij Uw voortreffelijkste benamingen en Uw verhevenste eigenschappen om de poorten van Uw gaven voor mij te openen. Help mij dan het goede te doen, o Gij die de Bezitter zijt van alle namen en eigenschappen!
 Ik ben arm, o mijn Heer, en Gij zijt de Rijke. Ik heb mijn gelaat naar U gekeerd en mij losgemaakt van alles buiten U. Ik smeek U, laat mij niet verstoken zijn van de bries van Uw tedere genade en onthoud mij niet wat Gij voor de uitverkorenen onder Uw dienaren hebt beschikt.
 Neem de sluier weg van mijn ogen, o mijn Heer, opdat ik kan erkennen wat Gij voor Uw schepselen hebt gewenst, en in alle tekenen van Uw handwerk de openbaringen van Uw almacht kan ontwaren. Breng mijn ziel in verrukking, o mijn Heer, met Uw machtigste tekenen en red mij uit de diepten van mijn ontaarde en slechte verlangens. Schrijf dan het goede van deze wereld en van de wereld die komen gaat voor mij neer. Machtig zijt Gij te doen naar Uw behagen. Geen God is er dan Gij, de Alglorierijke, Wiens hulp wordt ingeroepen door alle mensen.
@@ -2275,7 +2811,10 @@ Er is geen ander God dan Gij, de Almachtige, de Weldadige.
 
 
 
-### <a id="BB00560"></a> Prayer BB00560 in Nederlands
+
+
+<a id="BB00560"></a> 
+### Prayer BB00560 in Nederlands
 In naam van Uw Heer, de Schepper, de Heerser, de Altoereikende, de Verhevenste, Hij Wiens hulp wordt afgesmeekt door alle mensen.
 Zeg: O mijn God! O Gij die de Maker zijt van de hemelen en de aarde, o Heer van het Koninkrijk! Gij kent de geheimen van mijn hart, terwijl Uw Wezen ondoorgrondelijk is voor allen buiten Uzelf. Gij ziet al wat van mij is, terwijl niemand dan Gij dit kan. Schenk mij door Uw genade datgene waardoor ik niets buiten U van node zal hebben, en bestem voor mij hetgeen mij onafhankelijk zal maken van eenieder buiten U. Vergun dat ik de vruchten van mijn leven in deze wereld en in de volgende mag plukken. Open voor mijn ogen de poorten van Uw genade, en verleen mij genadiglijk Uw liefderijke barmhartigheid en gaven.
 O Gij die de Heer van overvloedige genade zijt! Omring hen die U liefhebben met Uw hemelse hulp, en verleen ons de gaven en milddadigheden die Gij bezit. Weest Gij ons toereikend in alle dingen, vergeef onze zonden en wees ons genadig. Gij zijt onze Heer en de Heer van al het geschapene. Wij roepen niemand buiten U aan, en wij zoeken niets dan Uw gunsten. Gij zijt de Heer van milddadigheid en genade, onoverwinnelijk in Uw kracht en meesterlijk in Uw plannen. Geen God is er dan Gij, de Albezitter, de Verhevenste.
@@ -2287,7 +2826,10 @@ Verleen Uw zegeningen, o mijn Heer, aan de Boodschappers, de heiligen en de rech
 
 
 
-### <a id="bpn9682"></a> Prayer bpn9682 in Nederlands
+
+
+<a id="bpn9682"></a> 
+### Prayer bpn9682 in Nederlands
 O Heer! Bij U zoek ik mijn toevlucht en naar al Uw tekenen richt ik mijn hart.
 O Heer! Op reis of thuis, tijdens mijn bezigheden of op mijn werk, vertrouw ik geheel op U.
 Verleen mij dan Uw toereikende hulp zodat ik onafhankelijk van alle dingen word, o Gij die onovertroffen zijt in Uw barmhartigheid!
@@ -2300,7 +2842,10 @@ Aan U is het absolute gezag te bevelen.
 
 
 
-### <a id="BB00015SUF"></a> Prayer BB00015SUF in Nederlands
+
+
+<a id="BB00015SUF"></a> 
+### Prayer BB00015SUF in Nederlands
 Zeg: God voldoet alle dingen boven alle dingen en niets in de hemelen of op aarde behalve God is genoeg. Waarlijk, Hij is in Zichzelf de Wetende, de Schragende, de Alvermogende.
 
 (Source category: Onthechting)
@@ -2309,7 +2854,10 @@ Zeg: God voldoet alle dingen boven alle dingen en niets in de hemelen of op aard
 
 
 
-### <a id="bpn9684"></a> Prayer bpn9684 in Nederlands
+
+
+<a id="bpn9684"></a> 
+### Prayer bpn9684 in Nederlands
 O God, mijn God! Gij zijt mijn hoop en mijn geliefde, mijn hoogste doel en verlangen! Met grote nederigheid en algehele toewijding smeek ik U mij tot een minaret van Uw liefde in Uw gebied te maken, een lamp van Uw kennis onder Uw schepselen en een vaandel van goddelijke milddadigheid in Uw koninkrijk.
 Reken mij tot diegenen onder Uw dienaren die zich hebben onthecht van alles buiten U, zich hebben gelouterd van de vergankelijkheden van deze wereld en zich hebben verlost van de influisteringen van hen die waanideeën verkondigen.
 Laat mijn hart overvloeien van vreugde door de geest van bekrachtiging uit Uw koninkrijk en verlicht mijn ogen met het aanschouwen van de legers van goddelijke bijstand die achtereenvolgens op mij neerdalen uit het koninkrijk van Uw alvermogende glorie.
@@ -2321,7 +2869,10 @@ Gij zijt in waarheid de Almachtige, de Alglorierijke, de Almogende.
 
 
 
-### <a id="bpn9685"></a> Prayer bpn9685 in Nederlands
+
+
+<a id="bpn9685"></a> 
+### Prayer bpn9685 in Nederlands
 O God, mijn God! Schenk voor mij de kelk van onthechting van alle dingen vol, en verblijd mij te midden van Uw pracht en Uw gaven met de wijn van het U liefhebben. Bevrijd mij van de aanvallen van hartstocht en begeerte, ontdoe mij van de boeien van dit ondermaanse, voer mij in verrukking naar Uw hemels rijk en verkwik mij met de ademtochten van Uw heiligheid te midden van de dienaressen.
 O Heer, verhelder mijn gelaat met het licht van Uw gaven, verlicht mijn ogen met het aanschouwen van de tekenen van Uw albeheersende macht, verheug mijn hart met de heerlijkheid van Uw kennis die alle dingen omvat, verblijd mijn ziel met Uw vreugdevolle tijding die de ziel nieuw leven geeft, o Gij Koning van deze wereld en van het Koninkrijk in den hoge, o Gij Heer van heerschappij en macht, opdat ik Uw tekenen en bewijzen alom mag verspreiden, Uw Zaak verkondigen, Uw leringen bevorderen, Uw Wet dienen en Uw Woord verheerlijken.
 Gij zijt waarlijk de Krachtige, de Immergevende, de Kundige, de Almachtige.
@@ -2333,9 +2884,13 @@ Gij zijt waarlijk de Krachtige, de Immergevende, de Kundige, de Almachtige.
 
 
 
+
+
+<a id="Ouders"></a> 
 ## Ouders
 
-### <a id="BB00018FOR"></a> Prayer BB00018FOR in Nederlands
+<a id="BB00018FOR"></a> 
+### Prayer BB00018FOR in Nederlands
 Ik smeek om Uw vergeving, o mijn God, en bid om vergiffenis zoals Gij wenst dat Uw dienaren zich tot U wenden. Ik smeek U onze zonden weg te nemen zoals het U, Heer, past en vergeving te schenken aan mij, mijn ouders, en degenen die naar Uw oordeel de verblijfplaats van Uw liefde hebben betreden op een wijze die Uw alles te boven gaande soevereiniteit waardig is en de heerlijkheid van Uw hemelse macht betaamt.
 O mijn God! Gij hebt mijn ziel geïnspireerd om haar smeekbede tot U te richten, en ware het niet vanwege U dan zou ik U niet aanroepen. Geloofd en verheerlijkt zijt Gij; ik betuig U lof daar Gij Uzelf aan mij hebt geopenbaard, en ik smeek U mij te vergeven, omdat ik tekort ben geschoten in mijn plicht U te kennen en niet het pad van Uw liefde heb bewandeld.
 
@@ -2345,7 +2900,10 @@ O mijn God! Gij hebt mijn ziel geïnspireerd om haar smeekbede tot U te richten,
 
 
 
-### <a id="AB02000DIS"></a> Prayer AB02000DIS in Nederlands
+
+
+<a id="AB02000DIS"></a> 
+### Prayer AB02000DIS in Nederlands
 O Heer! Gij aanvaardt in deze Allergrootste Beschikking de voorspraak van kinderen in naam van hun ouders. Dit is één van de speciale, oneindige gunsten van deze Beschikking. O Gij vriendelijk Heer, aanvaard daarom het verzoek van deze dienaar van U aan de drempel van Uw enig-zijn en dompel zijn vader in de oceaan van Uw genade, want zijn zoon is opgestaan om U te dienen en spant zich te allen tijde in op het pad van Uw liefde. Waarlijk, Gij zijt de Gever, de Vergevende en de Vriendelijke!
 
 (Source category: Ouders)
@@ -2355,9 +2913,13 @@ O Heer! Gij aanvaardt in deze Allergrootste Beschikking de voorspraak van kinder
 
 
 
+
+
+<a id="Overwinning van de Zaak"></a> 
 ## Overwinning van de Zaak
 
-### <a id="BH09809"></a> Prayer BH09809 in Nederlands
+<a id="BH09809"></a> 
+### Prayer BH09809 in Nederlands
 Gij ziet, o mijn God, hoe Uw geliefden omringd zijn door de opstandigen onder Uw schepselen en de verdorvenen onder Uw volk. Er is geen land waar het weeklagen van Uw minnaars en de jammerklachten van Uw uitverkorenen niet weerklinken. Ik smeek U bij Uw Allergrootste Naam de hand van kracht uit de boezem van Uw macht tevoorschijn te halen en daarmee allen die U liefhebben bij te staan.
 Gij aanschouwt hen, o mijn God, met hun ogen naar U geheven, hun blik op de Dageraad van Uw macht en Uw liefdevolle voorzienigheid gericht. O mijn Heer, verander hun vernedering in glorie, hun armoede in rijkdom en hun zwakte in een uit U geboren kracht.
 Machtig zijt Gij te doen al hetgeen Gij wilt. Geen God is er buiten U, de Alwetende, de Welingelichte.
@@ -2368,7 +2930,10 @@ Machtig zijt Gij te doen al hetgeen Gij wilt. Geen God is er buiten U, de Alwete
 
 
 
-### <a id="bpn9698"></a> Prayer bpn9698 in Nederlands
+
+
+<a id="bpn9698"></a> 
+### Prayer bpn9698 in Nederlands
 Glorie zij U, o Heer mijn God! Maak de rivieren van Uw soevereine macht zichtbaar, opdat de wateren van Uw Eenheid de diepste werkelijkheid aller dingen mogen doorstromen, op zulk een wijze dat de banier van Uw onfeilbare leiding geheven wordt in het koninkrijk van Uw gebod, en de sterren van Uw goddelijke luister helder mogen schijnen aan de hemel van Uw majesteit.
 Machtig zijt Gij te doen naar Uw behagen. Gij zijt waarlijk de Helper in nood, de Bij-zich-bestaande.
 
@@ -2378,7 +2943,10 @@ Machtig zijt Gij te doen naar Uw behagen. Gij zijt waarlijk de Helper in nood, d
 
 
 
-### <a id="bpn9699"></a> Prayer bpn9699 in Nederlands
+
+
+<a id="bpn9699"></a> 
+### Prayer bpn9699 in Nederlands
 O God, mijn God, laat mij niet afgehouden worden van de hemel van Uw gunsten en de Dagster van Uw gaven. Ik smeek U bij dat Woord waarmee Gij al het zichtbare en onzichtbare hebt onderworpen om mij bij te staan en Uw uitverkorenen bij te staan om datgene te volbrengen wat Uw Zaak onder Uw dienaren en in al Uw gebieden zal verheffen. Beschik dan voor mij al het goede dat Gij in Uw Boek hebt neergezonden.
 Waarlijk, Gij zijt de Almachtige, de Immervergevende, de Grootmoedigste.
 
@@ -2388,7 +2956,10 @@ Waarlijk, Gij zijt de Almachtige, de Immervergevende, de Grootmoedigste.
 
 
 
-### <a id="bpn9700"></a> Prayer bpn9700 in Nederlands
+
+
+<a id="bpn9700"></a> 
+### Prayer bpn9700 in Nederlands
 Glorie zij U, o Heer, Gij die al het geschapene tot leven hebt gewekt door de kracht van Uw bevel.
 O Heer! Sta diegenen bij die van alles buiten U afstand hebben genomen, en schenk hun een klinkende overwinning. Zend de scharen der engelen van hemel en aarde en al wat daartussen is op hen neer, o Heer, om Uw dienaren te helpen, om hen bij te staan en te sterken, om hen succesvol te laten zijn, om hen te schragen, om hen met glorie te bekleden, om hen te verheffen en eer te verlenen, om hen te verrijken en te laten zegevieren met een wondere zege.
 Gij zijt hun Heer, de Heer van hemelen en aarde, de Heer aller werelden. Sterk dit Geloof, o Heer, door de kracht van deze dienaren, en laat hen zegevieren over alle volkeren der wereld; daar zij in waarheid Uw dienaren zijn die zich hebben losgemaakt van alles buiten U, en Gij waarlijk de beschermer van ware gelovigen zijt.
@@ -2400,7 +2971,10 @@ Vergun, o Heer, dat hun hart door hun trouw aan dit onschendbare Geloof van U st
 
 
 
-### <a id="BB00147GRO"></a> Prayer BB00147GRO in Nederlands
+
+
+<a id="BB00147GRO"></a> 
+### Prayer BB00147GRO in Nederlands
 O Heer! Maak de snelle groei van de boom van Uw goddelijke Eenheid mogelijk; begiet hem daartoe, o Heer, met het stromend water van Uw welbehagen, en laat hem, ten overstaan van de openbaringen van Uw goddelijke bevestiging, de vruchten voortbrengen die Gij wenst voor Uw glorie en verheffing, voor Uw lof en dankzegging, en om Uw Naam te verheerlijken, om het één-zijn van Uw Essentie te vereren en om U te aanbidden, aangezien dit alles in Uw macht ligt en niet in die van iemand anders.
 Groot is de gelukzaligheid van hen wier bloed Gij hebt uitverkoren voor het begieten van de boom van Uw bekrachtiging en het aldus verheffen van Uw heilig en onveranderlijk Woord.
 
@@ -2410,7 +2984,10 @@ Groot is de gelukzaligheid van hen wier bloed Gij hebt uitverkoren voor het begi
 
 
 
-### <a id="BB00543VIC"></a> Prayer BB00543VIC in Nederlands
+
+
+<a id="BB00543VIC"></a> 
+### Prayer BB00543VIC in Nederlands
 O Heer! Laat Uw verdraagzame dienaren overwinnen in Uw dagen door hun een passende zege te schenken, daar zij naar het martelaarschap op Uw pad verlangen. Zend tot hen neer hetgeen hun gemoed zal vertroosten, hun innerlijk zal verblijden, hun hart gerust zal stellen, hun lichaam tot kalmte zal brengen en hun ziel in staat zal stellen op te stijgen tot de tegenwoordigheid van God, de Verhevenste, en het allerhoogste paradijs en die glorieuze toevluchtsoorden te bereiken die Gij hebt bestemd voor de mensen met ware kennis en deugd. Waarlijk, Gij kent alle dingen, terwijl wij slechts Uw dienaren zijn, Uw slaven, Uw horigen en Uw armen. Geen ander Heer dan U roepen wij aan, o God onze Heer, noch smeken wij zegen of genade van iemand anders dan U, o Gij die de God van erbarmen met deze wereld en de volgende zijt. Wij zijn slechts de belichaming van armoede, van nietigheid, van hulpeloosheid en van ondergang, waar Uw gehele Wezen een teken is van rijkdom, onafhankelijkheid, glorie, majesteit en oneindige genade.
 O Heer, verander hetgeen ons toekomt in wat U in deze wereld en de volgende goeddunkt, en met de vele gaven die van boven tot aan de aarde naar beneden reiken.
 Waarlijk, Gij zijt onze Heer en de Heer aller dingen. In Uw handen leggen wij ons lot, smachtend naar al wat bij U is.
@@ -2421,7 +2998,10 @@ Waarlijk, Gij zijt onze Heer en de Heer aller dingen. In Uw handen leggen wij on
 
 
 
-### <a id="bpn9703"></a> Prayer bpn9703 in Nederlands
+
+
+<a id="bpn9703"></a> 
+### Prayer bpn9703 in Nederlands
 O Heer! Geef dat alle volkeren der aarde toegang tot het paradijs van Uw Geloof verkrijgen, opdat geen enkel schepsel buiten de grenzen van Uw welbehagen blijve.
 Sinds onheuglijke tijden waart Gij machtig te doen naar Uw behagen en verheven boven al wat Gij wenst.
 
@@ -2431,7 +3011,10 @@ Sinds onheuglijke tijden waart Gij machtig te doen naar Uw behagen en verheven b
 
 
 
-### <a id="AB00065KIN"></a> Prayer AB00065KIN in Nederlands
+
+
+<a id="AB00065KIN"></a> 
+### Prayer AB00065KIN in Nederlands
 O God, mijn God! Geprezen zijt Gij dat Gij het vuur van goddelijke liefde in de Heilige Boom op de top van de verhevenste berg hebt ontstoken; die Boom die “noch van het Oosten, noch van het Westen”  is, dat vuur dat oplaaide tot de vlam ervan tot de hemelse Scharen omhoog steeg, en deze werkelijkheden daaruit het licht van leiding opvingen, waarna zij uitriepen: “Waarlijk hebben wij een vuur op de helling van de berg Sinaï ontwaard.” 
 O God, mijn God! Doe dit vuur dag aan dag toenemen totdat de kracht ervan de gehele aarde in beweging brengt. O Gij, mijn Heer! Ontsteek het licht van Uw liefde in ieder hart, adem de geest van Uw kennis in ‘s mensen ziel, verblijd hun gemoed met de verzen van Uw één-zijn. Roep hen die zich in hun graf bevinden tot leven, waarschuw de hoogmoedigen, laat er alom blijdschap zijn, zend Uw kristalheldere wateren neer en laat de kelk die is “toebereid aan de kamferbron”  rondgaan in het gezelschap van zichtbare pracht.
 Gij zijt voorwaar de Gevende, de Vergevende, de Immerschenkende. Gij zijt voorwaar de Barmhartige, de Meedogende.
@@ -2442,7 +3025,10 @@ Gij zijt voorwaar de Gevende, de Vergevende, de Immerschenkende. Gij zijt voorwa
 
 
 
-### <a id="AB00527"></a> Prayer AB00527 in Nederlands
+
+
+<a id="AB00527"></a> 
+### Prayer AB00527 in Nederlands
 Hij is God!
 O Heer, mijn God, mijn Inniggeliefde!
 Dit zijn Uw dienaren die Uw stem hebben gehoord, die Uw woord hebben beluisterd en gehoor hebben gegeven aan Uw roep. Zij geloven in U, hebben Uw wondere daden aanschouwd, Uw bewijs erkend en getuigenis van U afgelegd. Zij hebben Uw wegen bewandeld, Uw leiding gevolgd, Uw mysteriën ontdekt en de geheimen van Uw boek, de verzen van Uw geschriften en de boodschappen van Uw brieven en tafelen begrepen. Zij hebben zich aan de zoom van Uw gewaad geklemd en houden zich vast aan de mantel van Uw licht en verhevenheid. Hun voetstappen zijn gesterkt in Uw Verbond en hun hart is hecht in Uw Testament. Heer! Ontsteekt Gij toch in hun hart de vlam van Uw goddelijke aantrekkingskracht en geef dat de vogel van liefde en begrip in hun hart mag zingen. Geef dat zij krachtige tekenen, schitterende vaandels en volmaakt als Uw Woord mogen worden. Verhef door hen Uw Zaak, ontplooi Uw banieren en maak Uw wonderen wijd en zijd bekend. Laat Uw Woord door hen zegevieren en sterk de lendenen van Uw geliefden. Maak hun tong los om Uw Naam te loven en beziel hen om naar Uw heilige wil en welbehagen te handelen. Verlicht hun gelaat in Uw koninkrijk van heiligheid en maak hun vreugde volmaakt door hen te helpen opstaan voor de zege van Uw Zaak.
@@ -2456,9 +3042,13 @@ De heerlijkheid der heerlijkheden ruste op hen die getrouw en standvastig zijn.
 
 
 
+
+
+<a id="Schrikkeldagen"></a> 
 ## Schrikkeldagen
 
-### <a id="bpn9743"></a> Prayer bpn9743 in Nederlands
+<a id="bpn9743"></a> 
+### Prayer bpn9743 in Nederlands
 Mijn God, mijn Vuur en mijn Licht! De dagen die Gij in Uw Boek de Ayyám-i-Há hebt genoemd zijn begonnen, o Gij die de Koning van namen zijt, en de Vasten die Uw verhevenste Pen heeft opgelegd aan allen die in het rijk van Uw schepping zijn nadert. Ik smeek U, o mijn Heer, bij deze dagen en bij al diegenen die zich gedurende deze periode aan het koord van Uw geboden hebben vastgeklemd en de handgreep van Uw voorschriften hebben gevat, te geven dat aan iedere ziel een plek wordt toebedeeld binnen de grenzen van Uw hof, en een zetel bij de openbaring van de luister van het licht van Uw aangezicht.
 Dit zijn Uw dienaren, o mijn Heer, die zich door geen enkele verdorven neiging laten afhouden van hetgeen Gij in Uw Boek hebt neergezonden. Zij buigen voor Uw Zaak en hebben Uw Boek aanvaard met een vastberadenheid die alleen van U kan stammen, en zijn wat Gij hun had voorgeschreven nagekomen, en hebben gekozen datgene te volgen wat door U werd neergezonden.
 Gij ziet, o mijn Heer, hoe zij al hetgeen Gij in Uw Geschriften hebt geopenbaard erkennen en belijden. Geef hun, o mijn Heer, het water van Uw eeuwigheid te drinken uit de hand van Uw genade. Schrijf dan voor hen de beloning neer die is beschikt voor hem die zich in de oceaan van Uw tegenwoordigheid heeft ondergedompeld en de uitgelezen wijn van het U ontmoeten heeft geproefd.
@@ -2472,9 +3062,13 @@ Gij zijt waarlijk de Almachtige, de Alwetende, de Welingelichte.
 
 
 
+
+
+<a id="Standvastigheid"></a> 
 ## Standvastigheid
 
-### <a id="bpn9706"></a> Prayer bpn9706 in Nederlands
+<a id="bpn9706"></a> 
+### Prayer bpn9706 in Nederlands
 Ik verheerlijk Uw Naam, o mijn God, en betuig U dank, o mijn verlangen, daar Gij mij in staat hebt gesteld Uw rechte Pad duidelijk waar te nemen, Uw Grote Aankondiging voor mijn ogen hebt onthuld en mij hebt geholpen mijn gelaat te keren naar de Dageraad van Uw Openbaring en de Bron van Uw Zaak, terwijl Uw dienaren en Uw volk zich van U hebben afgewend. Ik smeek U, o Heer van het Koninkrijk van eeuwigheid, bij het doordringende geluid van de Pen van Heerlijkheid en bij het vlammende vuur dat luide roept vanuit de groene Boom, en bij de Ark die gij in het bijzonder uitverkoren hebt voor het volk van Bahá, te geven dat ik standvastig mag blijven in mijn liefde voor U, tevreden mag zijn met al hetgeen Gij voor mij hebt voorgeschreven in Uw Boek, en stevig mag staan in dienstbaarheid aan U en aan Uw geliefden. Sta Uw dienaren dan genadiglijk bij, o mijn God, om datgene te doen wat Uw Zaak zal verheffen en hen in staat zal stellen al hetgeen Gij in Uw boek hebt geopenbaard na te leven.
 Waarlijk, Gij zijt de Heer van Sterkte, Gij zijt machtig te beschikken wat Gij ook maar wilt en Gij houdt de teugels van al het geschapene in Uw greep. Geen God is er dan Gij, de Almogende, de Alwetende, de Alwijze.
 
@@ -2484,7 +3078,10 @@ Waarlijk, Gij zijt de Heer van Sterkte, Gij zijt machtig te beschikken wat Gij o
 
 
 
-### <a id="bpn9707"></a> Prayer bpn9707 in Nederlands
+
+
+<a id="bpn9707"></a> 
+### Prayer bpn9707 in Nederlands
 O Gij, Wiens nabijheid mijn wens is, Wiens aanwezigheid mijn hoop, Wiens gedenken mijn verlangen is, Wiens hof van heerlijkheid mijn doel, Wiens verblijf mijn oogmerk is, Wiens naam mijn genezing, Wiens liefde mijn hart doet stralen en Wien te dienen mijn hoogste streven is! Ik smeek U bij Uw Naam, waardoor Gij hen die U erkennen in staat hebt gesteld hun vlucht te nemen naar de verhevenste hoogten van het U kennen en hen die U toegewijd aanbidden hebt bekrachtigd zich tot de tuin van het hof van Uw heilige gunsten te verheffen, mij te helpen mijn gelaat naar Uw gelaat te keren, mijn ogen op U te vestigen en van Uw heerlijkheid te gewagen.
 Ik ben degeen, o mijn Heer, die alles buiten U is vergeten en zich naar de Dageraad van Uw genade heeft gekeerd, die van alles buiten U afstand heeft gedaan in de hoop nader tot Uw hof te komen. Aanschouw mij dan met mijn ogen opgeheven naar de Zetel die straalt met de pracht van het licht van Uw gelaat. Zend dan tot mij neer, o mijn Geliefde, wat mij standvastig in Uw Zaak zal doen zijn, zodat de twijfels van de ongelovigen mij niet zullen beletten mij tot U te keren.
 Gij zijt waarlijk de God van Kracht, de Helper in nood, de Allerheerlijkste, de Almachtige.
@@ -2495,7 +3092,10 @@ Gij zijt waarlijk de God van Kracht, de Helper in nood, de Allerheerlijkste, de 
 
 
 
-### <a id="bpn9708"></a> Prayer bpn9708 in Nederlands
+
+
+<a id="bpn9708"></a> 
+### Prayer bpn9708 in Nederlands
 O God, mijn God! Ik keer mij berouwvol tot U, en Gij zijt waarlijk de Vergevende, de Meedogende.
 O God, mijn God! Ik ben tot U weergekeerd, en Gij zijt waarlijk de Immervergevende, de Genadige.
 O God, mijn God! Ik klem mij aan het koord van Uw milddadigheid, en bij U is de onuitputtelijke bron van al hetgeen in de hemel en op aarde is.
@@ -2510,7 +3110,10 @@ Ik vraag U, o Heer van alle bestaan en Koning van het geziene en het ongeziene, 
 
 
 
-### <a id="bpn9709"></a> Prayer bpn9709 in Nederlands
+
+
+<a id="bpn9709"></a> 
+### Prayer bpn9709 in Nederlands
 Geprezen zijt Gij, o mijn Heer, dat Gij mij in staat hebt gesteld de Manifestatie van Uw eigen Wezen te erkennen en mij hebt bijgestaan mijn hart te richten naar het hof van Uw tegenwoordigheid, het voorwerp van aanbidding van mijn ziel. Ik smeek U, bij Uw Naam die de hemelen en de aarde vaneen deed scheuren, voor mij te beschikken wat Gij hebt beschikt voor hen die zich van alles buiten U hebben afgekeerd en zich vastberaden op U verlaten. Geef dat ik in Uw tegenwoordigheid op de zetel van waarheid mag plaatsnemen, binnen de tabernakel van heerlijkheid. Machtig zijt Gij te doen naar Uw wil. Er is geen ander God dan Gij, de Alglorierijke, de Alwijze.
 
 (Source category: Standvastigheid)
@@ -2519,7 +3122,10 @@ Geprezen zijt Gij, o mijn Heer, dat Gij mij in staat hebt gesteld de Manifestati
 
 
 
-### <a id="BB00554"></a> Prayer BB00554 in Nederlands
+
+
+<a id="BB00554"></a> 
+### Prayer BB00554 in Nederlands
 Ere zij U, o Heer, mijn Meestgeliefde! Maak mij standvastig in Uw Zaak en geef dat ik gerekend mag worden tot hen die Uw Verbond niet hebben geschonden, noch de goden van hun eigen ijdele verbeelding hebben gevolgd. Laat mij dan een zetel van waarheid verkrijgen in Uw tegenwoordigheid, verleen mij een teken van Uw erbarmen en laat mij aansluiten bij dezulken Uwer dienaren die geen vrees zullen kennen, noch door smart getroffen zullen worden. Laat mij niet aan mijzelf over, o mijn Heer, weerhoudt mij niet van het erkennen van Hem die de Manifestatie van Uw eigen Zelf is, en schaar mij niet onder hen die zich van Uw heilige tegenwoordigheid hebben afgewend. Reken mij, o mijn God, tot hen die het voorrecht hebben hun blik op Uw Schoonheid te vestigen en die daar zo verrukt van zijn dat zij geen enkel moment ervan zouden willen ruilen voor de heerschappij over het koninkrijk van hemelen en aarde of voor het gehele rijk der schepping. Ontferm U over mij, o Heer, in deze dagen waarin de volkeren van Uw aarde smartelijk dwalen; voorzie mij dan, o mijn God, van hetgeen naar Uw oordeel goed en betamelijk is. Gij zijt waarlijk de Almogende, de Genadige, de Milddadige, de Immervergevende.
 Vergun, o mijn God, dat ik niet gerekend worde tot hen wier oren doof zijn, wier ogen blind zijn, wier tong sprakeloos is en wier hart geen begrip kent. Verlos mij, o mijn Heer, van het vuur van onwetendheid en zelfzucht, vergun mij toegelaten te worden tot de voorhof van Uw alles te boven gaande genade en zend datgene tot mij neer wat Gij voor Uw uitverkorenen bestemd hebt. Machtig zijt Gij te doen hetgeen Gij wilt. Waarlijk, Gij zijt de Helper in nood, de Bij-zich-bestaande.
 
@@ -2529,7 +3135,10 @@ Vergun, o mijn God, dat ik niet gerekend worde tot hen wier oren doof zijn, wier
 
 
 
-### <a id="bpn9711"></a> Prayer bpn9711 in Nederlands
+
+
+<a id="bpn9711"></a> 
+### Prayer bpn9711 in Nederlands
 Geloofd en verheerlijkt zijt Gij, o God! Vergun dat de dag dat Uw heilige tegenwoordigheid bereikt wordt snel naderbij komt. Verblijd ons gemoed met de kracht van Uw liefde en goedertierenheid, en maak ons standvastig opdat wij bereid zijn ons te onderwerpen aan Uw wil en Uw gebod. Waarlijk, Uw kennis omvat alle dingen die Gij geschapen hebt of nog zult scheppen, en Uw hemelse macht overstijgt al hetgeen Gij tot leven hebt geroepen of nog zult roepen. Er is niemand om te aanbidden dan U, er is niemand om naar te verlangen buiten U, er is niemand om te beminnen behalve U en er is niets om lief te hebben dan Uw welbehagen.
 Waarlijk, Gij zijt de opperste Heerser, de Soevereine Waarheid, de Helper in nood, de Bij-zich-bestaande.
 
@@ -2539,7 +3148,10 @@ Waarlijk, Gij zijt de opperste Heerser, de Soevereine Waarheid, de Helper in noo
 
 
 
-### <a id="bpn9712"></a> Prayer bpn9712 in Nederlands
+
+
+<a id="bpn9712"></a> 
+### Prayer bpn9712 in Nederlands
 O mijn God, o mijn Heer, o mijn Meester! Ik smeek U mij te vergeven voor het zoeken naar enig genoegen buiten Uw liefde, enige troost buiten het U nabij zijn, enige vreugde buiten Uw welbehagen of enig ander bestaan dan omgang met U.
 
 (Source category: Standvastigheid)
@@ -2548,7 +3160,10 @@ O mijn God, o mijn Heer, o mijn Meester! Ik smeek U mij te vergeven voor het zoe
 
 
 
-### <a id="AB00001FIR"></a> Prayer AB00001FIR in Nederlands
+
+
+<a id="AB00001FIR"></a> 
+### Prayer AB00001FIR in Nederlands
 O Heer, mijn God! Help Uw geliefden sterk te staan in Uw Geloof, Uw wegen te bewandelen en standvastig te zijn in Uw Zaak. Geef hun Uw genade om de aanvallen van zelfzucht en hartstocht te weerstaan en het licht van goddelijke leiding te volgen. Gij zijt de Krachtige, de Genadige, de Bij-zich-bestaande, de Schenker, de Meedogende, de Almachtige, de Almilddadige.
 
 (Source category: Standvastigheid)
@@ -2557,7 +3172,10 @@ O Heer, mijn God! Help Uw geliefden sterk te staan in Uw Geloof, Uw wegen te bew
 
 
 
-### <a id="AB00687SEE"></a> Prayer AB00687SEE in Nederlands
+
+
+<a id="AB00687SEE"></a> 
+### Prayer AB00687SEE in Nederlands
 O Gij mijn God, die de zoeker naar het rechte pad leidt, die de verloren en verblinde zielen uit de woestenij van verderf bevrijdt, Gij die de oprechten grote gaven en gunsten schenkt, die de bevreesden beschermt in Uw onneembare toevluchtsoord, die vanuit Uw allerhoogste horizon de roep van hen die U aanroepen beantwoordt. Geprezen zijt Gij, o mijn Heer! Gij hebt de verwarden weggeleid van de dood van ongeloof, en hebt hen die U nabij zijn naar het doel van de reis gebracht, en hebt de onverschrokkenen onder Uw dienaren verblijd door hun dierbaarste wensen te vervullen, en hebt vanuit Uw Koninkrijk van schoonheid de poorten van hereniging geopend voor de ogen van hen die hevig naar U verlangen, en hen gered uit het vuur van ontbering en verlies – zodat zij zich naar U hebben gehaast en Uw tegenwoordigheid hebben bereikt, en bij Uw open deur zijn aangekomen en een overvloed aan geschenken hebben ontvangen.
 O mijn Heer, zij waren dorstig, Gij hebt het water van hereniging naar hun uitgedroogde lippen gebracht. O Tedere, Schenkende, Gij hebt hun pijn verlicht met de balsem van Uw milddadigheid en genade, en hun kwalen geheeld met het soevereine medicijn Uwer mededogen. O Heer, plaats hun voeten stevig op Uw rechte pad, maak het oog van de naald wijd voor hen en laat hen, gekleed in koninklijk gewaad, voor altijd en eeuwig in glorie wandelen.
 Waarlijk, Gij zijt de Edelmoedige, de Immergevende, de Onschatbare, de Milddadigste. Er is geen ander God dan Gij, de Machtige, de Krachtige, de Verhevene, de Zegevierende.
@@ -2569,9 +3187,13 @@ Waarlijk, Gij zijt de Edelmoedige, de Immergevende, de Onschatbare, de Milddadig
 
 
 
+
+
+<a id="Standvastigheid in het Verbond"></a> 
 ## Standvastigheid in het Verbond
 
-### <a id="BH07683"></a> Prayer BH07683 in Nederlands
+<a id="BH07683"></a> 
+### Prayer BH07683 in Nederlands
 Glorie zij U, o Koning der eeuwigheid en de Maker van natiën, en de Vormer van ieder vermolmd gebeente! Ik smeek U, bij Uw Naam waardoor Gij de gehele mensheid tot de horizon van Uw majesteit en glorie hebt geroepen, en Uw dienaren tot het hof van Uw genade en gaven hebt geleid, mij te rekenen tot hen die zich van alles buiten U ontdaan hebben, en zich tot U gericht hebben, en zich door de tegenspoed die Gij hebt beschikt niet hebben laten weerhouden zich in de richting van Uw gaven te wenden.
 O mijn Heer, ik heb het handvat van Uw milddadigheid gegrepen en mij vastberaden aan de zoom van de mantel van Uw gunst geklemd. Zend dan vanuit de wolken van Uw edelmoedigheid tot mij neer wat mij zal zuiveren van enig gedenken van iemand buiten U, en stel mij in staat mij naar Hem te keren die het voorwerp van aanbidding van de gehele mensheid is, tegen wie de aanstichters van rebellie staan opgesteld, zij die Uw verbond hebben verbroken en niet in U en Uw tekenen geloven.
 O mijn Heer, ontzeg mij niet de geuren van uw gewaad in Uw dagen, en onthoud mij niet de ademtochten van Uw Openbaring bij het verschijnen van de pracht van het licht van Uw gelaat. Krachtig zijt Gij te doen naar Uw behagen. Niets kan Uw wil weerstaan, noch hetgeen Gij U met Uw kracht voorneemt tegenhouden.
@@ -2583,7 +3205,10 @@ Geen God is er dan Gij, de Almachtige, de Alwijze.
 
 
 
-### <a id="BH07469"></a> Prayer BH07469 in Nederlands
+
+
+<a id="BH07469"></a> 
+### Prayer BH07469 in Nederlands
 Hij is de Machtige, de Verontschuldiger, de Meedogende!
 O God, mijn God! Gij ziet Uw dienaren in de peilloze diepte van verderf en dwaling; waar is het licht van Uw goddelijke leiding, o Gij het Verlangen der wereld? Gij kent hun hulpeloosheid en hun zwakheid; waar is Uw kracht, o Gij in Wiens greep de krachten van hemel en aarde liggen?
 Ik vraag U, o Heer mijn God, bij de pracht van het licht van Uw goedertierenheid en de golven van de oceaan van Uw kennis en wijsheid en bij Uw Woord waarmee Gij de volkeren van Uw heerschappij overtuigt, te geven dat ik mag behoren tot hen die zich aan de geboden in Uw Boek hebben gehouden. En bestemt Gij dan voor mij hetgeen Gij bestemd hebt voor Uw vertrouwelingen, zij die gedronken hebben van de wijn van goddelijke inspiratie uit de kelk van Uw genadegaven en die zich gehaast hebben naar Uw behagen te handelen en zich aan uw Verbond en Testament te houden. Krachtig zijt gij te doen naar Uw wil. Er is geen ander God dan Gij, de Alwetende, de Alwijze.
@@ -2595,7 +3220,10 @@ Bestem voor mij door Uw genade, o Heer, hetgeen mij zal doen gedijen in deze wer
 
 
 
-### <a id="bpn9717"></a> Prayer bpn9717 in Nederlands
+
+
+<a id="bpn9717"></a> 
+### Prayer bpn9717 in Nederlands
 Maak onze schreden op Uw weg krachtig, o Heer, en sterk ons hart in gehoorzaamheid aan U. Keer ons gelaat naar de schoonheid van Uw één-zijn en verblijd ons gemoed met de tekenen van Uw goddelijke eenheid. Tooi ons lichaam met de mantel van Uw milddadigheid, neem de sluier van zonde weg van onze ogen en geef ons de kelk van Uw genade, opdat alle schepselen bij het aanschouwen van Uw grootheid uit het diepst van hun wezen Uw lof zingen. Openbaar dan Uzelf, o Heer, door Uw barmhartig woord en door het mysterie van Uw goddelijk wezen, zodat de heilige bezieling van gebed onze ziel vervult –een gebed dat boven woorden en letters zal uitstijgen en het geprevel van lettergrepen en klanken te boven zal gaan– en alle dingen in het niet verzinken voor de openbaring van Uw pracht.
 Heer! Dit zijn dienaren die krachtig en sterk in Uw Verbond en Uw Testament staan, die vasthouden aan het koord van trouw in Uw Zaak en zich aan de zoom van de mantel van Uw grootheid klemmen. Help hen, o Heer, met Uw genade, bekrachtig hen met Uw macht en sterk hun lendenen in gehoorzaamheid aan U.
 Gij zijt de Verontschuldiger, de Genadige.
@@ -2606,7 +3234,10 @@ Gij zijt de Verontschuldiger, de Genadige.
 
 
 
-### <a id="AB02342AWA"></a> Prayer AB02342AWA in Nederlands
+
+
+<a id="AB02342AWA"></a> 
+### Prayer AB02342AWA in Nederlands
 O meedogende God! Dank zij U, daar Gij mij hebt gewekt en bewust hebt gemaakt. Gij hebt mij een waarnemend oog gegeven en mij begunstigd met een luisterend oor, mij naar Uw koninkrijk gevoerd en mij naar Uw pad geleid. Gij hebt mij het rechte pad getoond en mij de ark van verlossing doen binnengaan. O God! Laat mij standvastig blijven, en maak mij vastberaden en trouw. Bescherm mij tegen hevige beproevingen, bewaar en beschut mij in de zwaar versterkte vesting van Uw Verbond en Testament. Gij zijt de Krachtige. Gij zijt de Ziende. Gij zijt de Horende.
 O Gij meedogende God! Schenk mij een hart dat gelijk een lampenglas verlicht worde met het licht van Uw liefde en beziel mij met gedachten die door de uitstortingen van hemelse genade deze wereld veranderen in een rozengaard.
 Gij zijt de Meedogende, de Genadige. Gij zijt de Grote weldadige God.
@@ -2617,7 +3248,10 @@ Gij zijt de Meedogende, de Genadige. Gij zijt de Grote weldadige God.
 
 
 
-### <a id="bpn9719"></a> Prayer bpn9719 in Nederlands
+
+
+<a id="bpn9719"></a> 
+### Prayer bpn9719 in Nederlands
 O mijn Heer en mijn hoop! Helpt Gij Uw geliefden standvastig te zijn in Uw machtig Verbond, trouw te blijven aan Uw onmiskenbare Zaak en de geboden uit te voeren die Gij in Uw stralende Boek voor hen hebt beschikt, opdat zij banieren van leiding en lampen van de Schare in den hoge mogen worden, bronnen van Uw oneindige wijsheid, en sterren die vanuit het hemelse firmament het juiste pad aangeven.
 Waarlijk, Gij zijt de Onoverwinnelijke, de Almachtige, de Almogende.
 
@@ -2628,9 +3262,13 @@ Waarlijk, Gij zijt de Onoverwinnelijke, de Almachtige, de Almogende.
 
 
 
+
+
+<a id="Tafel van Ahmad"></a> 
 ## Tafel van Ahmad
 
-### <a id="bpn9752"></a> Prayer bpn9752 in Nederlands
+<a id="bpn9752"></a> 
+### Prayer bpn9752 in Nederlands
 *”Deze dagelijkse verplichte gebeden en enkele andere speciale gebeden, zoals het Genezingsgebed en de Tafel van Aḥmad, zijn door Baha’u’llah met bijzondere kracht en betekenis bekleed en moeten daarom als zodanig worden aanvaard en door de gelovigen worden gereciteerd met onvoorwaardelijk geloof en vertrouwen, opdat zij steeds inniger in God zullen opgaan en zich steeds meer vereenzelvigen met Zijn wetten en voorschriften.” - Uit een brief geschreven namens Shoghi Effendi.
 
 
@@ -2659,9 +3297,13 @@ Waarlijk, Hij is de Genadige, de Meedogende. Ere zij God, de Heer aller werelden
 
 
 
+
+
+<a id="Tafel van de Heilige Zeevaarder"></a> 
 ## Tafel van de Heilige Zeevaarder
 
-### <a id="AB00204MAR"></a> Tablet of the Holy Mariner in Nederlands
+<a id="AB00204MAR"></a> 
+### Tablet of the Holy Mariner in Nederlands
 *“Bestudeer de Tafel van de Heilige Zeevaarder, opdat u de waarheid leert kennen, en beseft dat de Gezegende Schoonheid toekomstige gebeurtenissen volledig heeft voorzegd. Laat hen die waarnemen gewaarschuwd zijn”  - Abdu’l-Baha
 
 
@@ -2789,9 +3431,13 @@ Geprezen zij onze Heer, de Allerhoogste!
 
 
 
+
+
+<a id="Tafelen van Ontmoeting"></a> 
 ## Tafelen van Ontmoeting
 
-### <a id="bpn9754"></a> Prayer bpn9754 in Nederlands
+<a id="bpn9754"></a> 
+### Prayer bpn9754 in Nederlands
 *(Deze Tafel wordt gelezen bij de graftomben van Baha’u’llah  en Bab , en wordt ook vaak gebruikt bij Hun gedenkdagen.)
 
 De lof die vanuit Uw verhevenste Wezen is verschenen en de glorie die vanuit Uw luisterrijkste Schoonheid is voortgekomen ruste op U, o Gij die de Manifestatie van Grootheid zijt, en de Koning van Eeuwigheid, en de Heer van allen die in de hemel en op aarde zijn! Ik betuig dat door U de soevereiniteit van God en Zijn heerschappij, en de majesteit van God en Zijn grootheid zijn onthuld, de Dagsterren van aloude pracht hun luister in de hemel van Uw onherroepelijk gebod hebben verspreid, en de Schoonheid van de Ongeziene helder schijnt boven de horizon der schepping. Ik betuig bovendien dat Uw uitdrukkelijk bevel “Weest Gij” met slechts één beweging van Uw Pen is voltrokken, Gods verborgen Geheim is onthuld, al het geschapene tot leven is geroepen en alle Openbaringen zijn neergezonden.
@@ -2808,7 +3454,10 @@ Zegent Gij, o Heer mijn God, de goddelijke Lotusboom en zijn bladeren, zijn takk
 
 
 
-### <a id="bpn9755"></a> Prayer bpn9755 in Nederlands
+
+
+<a id="bpn9755"></a> 
+### Prayer bpn9755 in Nederlands
 *(Dit door Abdu’l-Baha geopenbaarde gebed wordt bij zijn graftombe gelezen. Het wordt ook voor persoonlijk gebed gebruikt.)
 
 *Al wie dit gebed met innige ootmoed reciteert, zal vreugde en blijdschap brengen in het hart van deze dienaar; het zal zijn als hem van aangezicht tot aangezicht ontmoeten.
@@ -2828,9 +3477,13 @@ Gij zijt de Schenker, de Medelijdende, de Almilddadige, de Genadige, de Barmhart
 
 
 
+
+
+<a id="Vasten"></a> 
 ## Vasten
 
-### <a id="BH00154FIR"></a> Prayer BH00154FIR in Nederlands
+<a id="BH00154FIR"></a> 
+### Prayer BH00154FIR in Nederlands
 *In De Kitáb-i-Aqdas staat: “Wij hebben u opgedragen vanaf het begin der volwassenheid (15 jaar) te bidden en te vasten; dit is verordend door God, uw Heer en de Heer uwer voorvaderen… Reizigers, zieken en zij die een kind verwachten of zogen, zijn niet verplicht te vasten… Onthoudt u van zonsopgang tot zonsondergang van spijs en drank en hoedt u dat begeerte u deze genade die in het Boek is vastgelegd niet ontneemt.” - De periode van de Vasten loopt van 1 Bahá tot en met 19 Bahá.
 
 
@@ -2843,7 +3496,10 @@ Help hen, o mijn God, U te doen zegevieren en Uw Woord te verheffen. Laat hen da
 
 
 
-### <a id="bpn9745"></a> Prayer bpn9745 in Nederlands
+
+
+<a id="bpn9745"></a> 
+### Prayer bpn9745 in Nederlands
 In Naam van Hem die is beloofd in de Boeken van God, de Alwetende, de Welingelichte! De vastendagen zijn gekomen, de dagen waarop die dienaren die rondom Uw troon cirkelen en Uw tegenwoordigheid hebben bereikt vasten. Zeg: o God van namen en schepper van hemel en aarde! Ik smeek U bij Uw Naam, de Alglorierijke, het vasten te aanvaarden van hen die vasten uit liefde voor U en omwille van Uw welbehagen, en die volbrengen wat Gij hun in Uw Boeken en Tafelen hebt opgedragen. Ik smeek U bij hen mij bij te staan in het bevorderen van Uw Zaak en mij standvastig in Uw liefde te maken, opdat mijn voeten niet uitglijden vanwege het misbaar van Uw schepselen. Waarlijk, Gij hebt macht over al wat Gij wilt. Geen God is er dan Gij, de Bezieler, de Almogende, de Milddadigste, de Aloude van Dagen.
 
 (Source category: Vasten)
@@ -2852,7 +3508,10 @@ In Naam van Hem die is beloofd in de Boeken van God, de Alwetende, de Welingelic
 
 
 
-### <a id="BH01125"></a> Prayer BH01125 in Nederlands
+
+
+<a id="BH01125"></a> 
+### Prayer BH01125 in Nederlands
 Ik smeek U, o mijn God, bij Uw machtige Teken en bij de openbaring van Uw genade onder de mensen, mij niet weg te houden van de poort van de stad van Uw tegenwoordigheid en mij niet teleur te stellen in mijn hoop op de openbaringen van Uw genade onder Uw schepselen. Gij ziet mij, o mijn God, getrouw aan Uw Naam, de Heiligste, de Stralendste, de Machtigste, de Grootste, de Verhevenste, de Heerlijkste, en mij vasthouden aan de zoom van de mantel waaraan allen in deze wereld en in de wereld die komen gaat zich vasthouden.
 Ik smeek U, o mijn God, bij Uw allerzoetste Stem en bij Uw verhevenste Woord, mij steeds dichter tot de drempel van Uw deur te voeren en mij niet ver verwijderd te laten zijn van de schaduw van Uw genade en het baldakijn van Uw milddadigheid. Gij ziet mij, o mijn God, getrouw aan Uw Naam, de Heiligste, de Stralendste, de Machtigste, de Grootste, de Verhevenste, de Heerlijkste, en mij vasthouden aan de zoom van de mantel waaraan allen in deze wereld en in de wereld die komen gaat zich vasthouden.
 Ik smeek U, o mijn God, bij de pracht van Uw lichtend aanschijn en de helderheid van het licht van Uw aangezicht, dat van de allerhoogste horizon schijnt, mij aan te trekken met de zoete geur van Uw gewaad en mij te laten drinken van de uitgelezen wijn van Uw woorden. Gij ziet mij, o mijn God, getrouw aan Uw Naam, de Heiligste, de Stralendste, de Machtigste, de Grootste, de Verhevenste, de Heerlijkste, en mij vasthouden aan de zoom van de mantel waaraan allen in deze wereld en in de wereld die komen gaat zich vasthouden.
@@ -2874,7 +3533,10 @@ Ik smeek U, o mijn Heer, bij Uzelf, en bij Uw tekenen en Uw duidelijke bewijzen,
 
 
 
-### <a id="BH01888"></a> Prayer BH01888 in Nederlands
+
+
+<a id="BH01888"></a> 
+### Prayer BH01888 in Nederlands
 Dit zijn, o mijn God, de dagen waarop Gij Uw dienaren hebt geboden te vasten. Daarmee hebt Gij de inleiding gesierd van Uw Wetboek dat aan Uw schepselen is geopenbaard, en de schatkamers van Uw geboden getooid voor het oog van allen die in Uw hemel en allen die op Uw aarde zijn. Gij hebt ieder uur van deze dagen begiftigd met een bijzondere kracht die ondoorgrondelijk is voor allen buiten U, Gij Wiens kennis al het geschapene omvat. Gij hebt tevens iedere ziel een deel van deze kracht toegekend in overeenstemming met de Tafel van Uw bevel en de Geschriften van Uw onherroepelijk oordeel. Elk blad van deze Boeken en Geschriften hebt Gij bovendien bestemd voor ieder van de volkeren en geslachten der aarde.
 Voor Uw vurige minnaars hebt Gij, volgens Uw bevel, bij elke dageraad de kelk van het U gedenken bestemd, o Gij die de Heerser der heersers zijt! Dit zijn degenen die zo bedwelmd zijn door de wijn van Uw veelvuldige wijsheid dat zij hun sponde verlaten in hun verlangen Uw lof te verheerlijken en Uw deugden te prijzen, en de slaap ontvluchten in hun geestdrift Uw tegenwoordigheid te naderen en deel te hebben aan Uw milddadigheid. Hun ogen zijn te allen tijde gericht op het ochtendgloren van Uw goedertierenheid en hun gelaat is gekeerd naar de Bron van Uw bezieling. Laat dan vanuit de wolken van Uw barmhartigheid op ons en op hen neerregenen wat de hemel van Uw vrijgevigheid en genade past.
 Geprezen zij Uw Naam, o mijn God! Dit is het uur waarop Gij de deuren van Uw milddadigheid hebt ontsloten voor de ogen van Uw schepselen, en de poorten van Uw tedere genade wijd hebt geopend voor alle bewoners van Uw aarde. Ik smeek U, bij allen wier bloed werd vergoten op Uw pad, en die zich in hun vurig verlangen naar U hebben bevrijd van alle gehechtheid aan welke Uwer schepselen dan ook, en die zo overweldigd werden door de zoete geuren van Uw bezieling dat elk hunner lichaamsdelen Uw lof aanhief en meetrilde met Uw gedachtenis, ons de dingen die Gij in deze Openbaring onherroepelijk hebt verordend niet te onthouden – een Openbaring welks kracht iedere boom heeft doen uitroepen wat de Brandende Braamstruik eertijds verkondigde aan Mozes, die met U sprak, een Openbaring die iedere nietigste kiezelsteen wederom Uw lof heeft doen weerklinken, zoals de stenen in de dagen van Mohammed, Uw Vriend, U hebben verheerlijkt.
@@ -2891,7 +3553,10 @@ Laat Uw Zaak zegevieren, o mijn Heer, en vernedert Gij Uw vijanden. Bestem dan v
 
 
 
-### <a id="BH00778"></a> Prayer BH00778 in Nederlands
+
+
+<a id="BH00778"></a> 
+### Prayer BH00778 in Nederlands
 Glorie zij U, o Heer mijn God! Dit zijn de dagen waarop Gij alle mensen hebt geboden te vasten, dat zij daardoor hun ziel kunnen zuiveren en zich van alle gehechtheid aan iemand buiten U kunnen ontdoen, en datgene uit hun hart omhoog mag komen wat het hof van Uw majesteit waardig is en de zetel van de openbaring van Uw één-zijn past. Geef, o mijn God, dat deze vasten een rivier van levengevend water moge worden en de deugd moge voortbrengen waarmee Gij hem hebt begiftigd. Reinigt Gij het hart van Uw dienaren daarmee, zij die zich niet door het kwaad van de wereld hebben laten weerhouden zich tot Uw alglorierijke Naam te wenden, en die onberoerd blijven onder het roerige tumult van hen die Uw luisterrijke tekenen hebben afgewezen, tekenen die gepaard gingen met de komst van Uw Manifestatie die Gij hebt bekleed met Uw soevereiniteit, Uw kracht, Uw majesteit en Uw glorie. Dit zijn die dienaren die zich, zodra Uw roep hen bereikte, onmiddellijk naar Uw barmhartigheid hebben gehaast en zich niet van U hebben laten weerhouden door de wisselvalligheden van deze wereld of door enige menselijke beperking.
 Ik ben degeen, o mijn God, die Uw eenheid belijdt, Uw één-zijn erkent, zich nederig voor de openbaring van Uw majesteit buigt en met neergeslagen ogen de pracht van het licht van Uw alles te boven gaande glorie onderkent. Ik geloof in U vanaf het moment dat Gij Uzelf aan mij kenbaar hebt gemaakt, Uw Zelf dat Gij door de kracht van Uw soevereiniteit en macht voor ‘s mensen oog hebt onthuld. Tot Hem heb ik mij gewend, geheel onthecht van alle dingen, en ik klem mij vastberaden aan het koord van Uw giften en gaven. Ik aanvaard Zijn waarheid en de waarheid van alle wondere wetten en geboden die tot Hem zijn neergezonden. Ik vast uit liefde voor U en naar Uw voorschrift, en breek mijn vasten naar Uw welbehagen, met Uw lof op mijn lippen. Laat mij niet gerekend worden, o mijn Heer, tot hen die overdag vasten, die zich ’s nachts voor Uw gelaat ter aarde werpen, maar Uw waarheid loochenen, niet in Uw tekenen geloven, Uw getuigenis weerspreken en Uw woorden verdraaien.
 Opent Gij mijn ogen, o mijn Heer, en de ogen van allen die U zoeken, opdat wij U met Uw eigen ogen herkennen. Dit is Uw bevel, ons gegeven in het Boek dat Gij hebt neergezonden tot Hem die Gij hebt verkozen naar Uw wens, die Gij boven al Uw schepselen Uw gaven hebt verleend, die Gij naar Uw behagen hebt bekleed met Uw soevereiniteit, die Gij boven allen hebt begunstigd en Uw Boodschap voor uw volk hebt toevertrouwd. Geprezen zijt Gij daarom, o mijn God, aangezien Gij ons genadiglijk in staat hebt gesteld om Hem te erkennen en al hetgeen tot Hem is neergezonden te aanvaarden, en ons de eer hebt verleend de tegenwoordigheid te bereiken van Hem die Gij in Uw Boek en in Uw Tafelen hebt beloofd.
@@ -2914,7 +3579,10 @@ Geprezen zijt Gij, daar Gij ons hebt geholpen Hem te erkennen en lief te hebben.
 
 
 
-### <a id="BH10581"></a> Prayer BH10581 in Nederlands
+
+
+<a id="BH10581"></a> 
+### Prayer BH10581 in Nederlands
 Lof zij U, o Heer mijn God! Wij hebben ons aan de Vasten gehouden overeenkomstig Uw gebod en beëindigen die nu door Uw liefde en Uw welbehagen. Wilt Gij dan, o mijn God, de daden aanvaarden die wij geheel omwille van Uw schoonheid op Uw pad verrichten met ons gelaat naar Uw Zaak gekeerd, vrij van alles buiten U. Schenk dan Uw vergeving aan ons, aan onze voorvaderen en aan allen die in U en in Uw machtige tekenen geloven in deze grootste, deze glorierijkste Openbaring. Machtig zijt Gij te doen wat Gij verkiest. Gij zijt waarlijk de Verhevenste, de Almachtige, de Onbeperkte.
 
 (Source category: Vasten)
@@ -2923,7 +3591,10 @@ Lof zij U, o Heer mijn God! Wij hebben ons aan de Vasten gehouden overeenkomstig
 
 
 
-### <a id="BH01503ENJ"></a> Prayer BH01503ENJ in Nederlands
+
+
+<a id="BH01503ENJ"></a> 
+### Prayer BH01503ENJ in Nederlands
 Geprezen zijt Gij, o God mijn God! Dit zijn de dagen waarop Gij Uw uitverkorenen, Uw geliefden en Uw dienaren hebt opgedragen de Vasten, die Gij tot een licht voor het volk van Uw koninkrijk hebt gemaakt, in acht te nemen, evenals Gij verplicht gebed tot een ladder naar omhoog hebt gemaakt voor hen die Uw eenheid erkennen. Ik smeek U, o mijn God, bij deze twee machtige pilaren die Gij hebt beschikt tot glorie en eer van de gehele mensheid, Uw religie te behoeden voor het kwaad van de verdorvenen en het samenzweren van alle boosdoeners. O Heer, verberg het licht niet dat Gij hebt geopenbaard door Uw kracht en Uw almacht. Sta hen die waarlijk in U geloven bij met de scharen van zichtbaren en onzichtbaren door Uw gebod en Uw soevereiniteit. Geen God is er dan Gij, de Almachtige, de Krachtigste.
 
 (Source category: Vasten)
@@ -2932,7 +3603,10 @@ Geprezen zijt Gij, o God mijn God! Dit zijn de dagen waarop Gij Uw uitverkorenen
 
 
 
-### <a id="bpn9751"></a> Prayer bpn9751 in Nederlands
+
+
+<a id="bpn9751"></a> 
+### Prayer bpn9751 in Nederlands
 Gij ziet, o God van Barmhartigheid, Gij Wiens kracht al het geschapene doordringt, deze dienaren van U, Uw slaven, die overeenkomstig het welbehagen van Uw wil overdag de door U voorgeschreven vasten nakomen, die bij het krieken van de dag opstaan om van Uw Naam te gewagen en Uw lof te bezingen, in de hoop hun deel te verkrijgen van de voortreffelijkheden die bewaard liggen in de schatkamers van Uw genade en milddadigheid. Ik smeek U, o Gij die de teugels van de gehele schepping in Uw handen houdt en in Wiens greep het ganse koninkrijk van Uw namen en hoedanigheden ligt, om Uw dienaren in Uw Dag niet de stromen te onthouden die neerdalen uit de wolken van Uw barmhartigheid, en hen niet te weerhouden hun deel uit de oceaan van Uw welbehagen te nemen.
 Alle atomen van de aarde getuigen, o mijn Heer, van de grootsheid van Uw kracht en Uw heerschappij, en alle tekenen van het heelal bevestigen de heerlijkheid van Uw majesteit en Uw macht. O Gij die de oppermachtige Heer van allen zijt, de Koning van eeuwige dagen en Heerser over alle natiën, heb dan mededogen met deze dienaren van U, die zich vastklemmen aan het koord van Uw geboden, die het hoofd buigen voor de openbaring van Uw wetten die zijn neergezonden uit de hemel van Uw Wil.
 Zie, o mijn Heer, hoe hun blik omhoog is gericht naar de dageraadsplaats van Uw goedertierenheid, hoe zij verlangen naar de oceaan van Uw gunsten, hoe hun stem zachter wordt bij de klanken van Uw lieflijkste Stem, die roept vanuit de verhevenste Rang, uit Uw Naam, de Alglorierijke. Helpt Gij Uw geliefden, o mijn Heer, die van alles afstand hebben gedaan, dat zij de dingen mogen verkrijgen die Gij bezit, zij die door tegenspoed en beproevingen zijn omgeven omdat zij de wereld hebben verzaakt en hun genegenheid hebben gericht op Uw rijk van heerlijkheid. Ik smeek U, o mijn Heer, bescherm hen tegen de aanvallen van hun verdorven hartstochten en begeerten, en help hen de dingen te verwerven die hun in deze wereld en de volgende baten.
@@ -2946,9 +3620,13 @@ Gij ziet, o Heer, onze handen smekend geheven naar de hemel van Uw gunst en mild
 
 
 
+
+
+<a id="Vergeving"></a> 
 ## Vergeving
 
-### <a id="BH08600FAC"></a> Prayer BH08600FAC in Nederlands
+<a id="BH08600FAC"></a> 
+### Prayer BH08600FAC in Nederlands
 Ik ben degeen, o mijn Heer, die zijn gelaat naar U heeft gekeerd en zijn hoop heeft gevestigd op de wonderen van Uw genade en de openbaringen van Uw milddadigheid. Ik bid U dat Gij mij niet teleurgesteld van de deur van Uw erbarmen laat weggaan, noch mij overlevert aan diegenen onder Uw schepselen die Uw Zaak hebben verworpen.
 Ik ben Uw dienaar, o mijn God, en de zoon van Uw dienaar. Ik erken Uw waarheid in Uw dagen, en richt mijn schreden naar de kust van Uw één-zijn, ik belijd Uw enig-zijn, erken Uw eenheid en hoop op Uw vergeving en gratie. Krachtig zijt Gij te doen hetgeen gij wilt; geen God is er buiten U, de Allerheerlijkste, de Immervergevende.
 
@@ -2958,7 +3636,10 @@ Ik ben Uw dienaar, o mijn God, en de zoon van Uw dienaar. Ik erken Uw waarheid i
 
 
 
-### <a id="BH00005SEE"></a> Prayer BH00005SEE in Nederlands
+
+
+<a id="BH00005SEE"></a> 
+### Prayer BH00005SEE in Nederlands
 Gij ziet mij, o mijn Heer, met mijn gelaat gekeerd naar de hemel van Uw milddadigheid en de oceaan van Uw gunst, teruggetrokken van alles buiten U. Ik vraag U, bij de glans van de zon van Uw openbaring op de Sinaï, en de luister van de hemelbol van Uw genade die schijnt van de horizon van Uw Naam, de Immervergevende, mij Uw gratie te schenken en erbarmen met mij te hebben. Schrijf dan met Uw pen van heerlijkheid voor mij neer hetgeen mij door Uw Naam zal verheffen in de wereld der schepping. Help mij, o mijn Heer, mij op U te richten en te luisteren naar de stem van Uw geliefden die niet door aardse machten verzwakt of door de heerschappij van natiën van U weerhouden konden worden, en die bij het U naderen zeggen: “God is onze Heer, de Heer van allen die in de hemel en allen die op aarde zijn.”
 
 (Source category: Vergeving)
@@ -2967,7 +3648,10 @@ Gij ziet mij, o mijn Heer, met mijn gelaat gekeerd naar de hemel van Uw milddadi
 
 
 
-### <a id="bpn9722"></a> Prayer bpn9722 in Nederlands
+
+
+<a id="bpn9722"></a> 
+### Prayer bpn9722 in Nederlands
 Verheerlijkt zij Uw Naam, o mijn God en de God aller dingen, mijn glorie en de Glorie aller dingen, mijn verlangen en het Verlangen aller dingen, mijn kracht en de Kracht aller dingen, mijn koning en de Koning aller dingen, mijn bezitter en de Bezitter aller dingen, mijn doel en het Doel aller dingen, mijn drijfveer en de Drijfveer aller dingen! Ik smeek U, laat mij niet van de oceaan van Uw tedere barmhartigheid worden weerhouden, of ver van de kusten van Uw nabijheid zijn.
 Niets buiten U, o mijn Heer, baat mij en iemand anders dan U te naderen dient mij tot niets. Ik smeek U bij de overvloed van Uw rijkdom waardoor Gij alles buiten U overbodig hebt gemaakt, mij te rekenen tot hen die hun gelaat naar U hebben gericht en zijn opgestaan om U te dienen.
 Vergeef dan Uw dienaren en Uw dienaressen, o mijn Heer. Gij zijt waarlijk de Immervergevende, de Meedogendste.
@@ -2978,7 +3662,10 @@ Vergeef dan Uw dienaren en Uw dienaressen, o mijn Heer. Gij zijt waarlijk de Imm
 
 
 
-### <a id="BH00593"></a> Prayer BH00593 in Nederlands
+
+
+<a id="BH00593"></a> 
+### Prayer BH00593 in Nederlands
 O God onze Heer! Bescherm ons door Uw genade tegen al hetgeen U weerzinwekkend is, en verleen ons hetgeen U voegt. Geef ons meer van Uw gaven, en zegen ons. Schenk ons vergiffenis voor de dingen die wij hebben gedaan, en neem onze zonden weg, en vergeef ons met Uw genadige vergeving. Waarlijk, Gij zijt de Verhevenste, de Bij-zich-bestaande.
 Uw liefdevolle voorzienigheid omvat al het geschapene in de hemelen en op aarde, en Uw vergiffenis gaat de gehele schepping te boven. Aan U is de heerschappij; in Uw hand liggen de koninkrijken van schepping en openbaring; in Uw rechterhand houdt Gij al het geschapene, en in Uw greep ligt de maatstaf van vergeving. Gij vergeeft diegenen van Uw dienaren die het U behaagt. Waarlijk, Gij zijt de Immervergevende, de Liefderijke. Absoluut niets ontsnapt aan Uw kennis, en niets is verborgen voor U.
 O God onze Heer! Bescherm ons door de kracht van Uw macht, stel ons in staat Uw wondere, aanzwellende oceaan in te gaan, en verleen ons hetgeen U past.
@@ -2990,7 +3677,10 @@ Gij zijt de soevereine Heerser, die machtige daden stelt, de Verhevene, de Liefd
 
 
 
-### <a id="bpn9724"></a> Prayer bpn9724 in Nederlands
+
+
+<a id="bpn9724"></a> 
+### Prayer bpn9724 in Nederlands
 Ere zij U, o Heer. Vergeef ons onze zonden, heb erbarmen met ons en laat ons tot U terugkeren. Laat ons op niets buiten U vertrouwen, en verleen ons, door Uw milddadigheid, hetgeen Gij liefhebt en wenst en U wel voegt. Verhef de staat van hen die werkelijk geloven, en vergeef hen met Uw genadige vergiffenis. Waarlijk, Gij zijt de Helper in nood, de Bij-zich-bestaande.
 
 (Source category: Vergeving)
@@ -2999,7 +3689,10 @@ Ere zij U, o Heer. Vergeef ons onze zonden, heb erbarmen met ons en laat ons tot
 
 
 
-### <a id="BB00617"></a> Prayer BB00617 in Nederlands
+
+
+<a id="BB00617"></a> 
+### Prayer BB00617 in Nederlands
 Ik smeek U, o mijn Heer, mij te vergeven voor ieder noemen buiten het noemen van U, voor alle lof buiten de lof aan U, voor ieder genot buiten het genot U nabij te zijn, voor ieder genoegen buiten het genoegen van omgang met U, voor alle vreugde buiten de vreugde van Uw liefde en welbehagen, en voor alle dingen die mij eigen zijn doch geen verband houden met U, o Gij die de Heer der heren zijt, Degeen die de middelen verschaft en de deuren ontsluit.
 
 (Source category: Vergeving)
@@ -3008,7 +3701,10 @@ Ik smeek U, o mijn Heer, mij te vergeven voor ieder noemen buiten het noemen van
 
 
 
-### <a id="bpn9726"></a> Prayer bpn9726 in Nederlands
+
+
+<a id="bpn9726"></a> 
+### Prayer bpn9726 in Nederlands
 Glorie zij U, o God. Hoe kan ik U noemen terwijl Gij toch geheiligd zijt van de lof der gehele mensheid. Verheerlijkt zij Uw Naam, o God, Gij zijt de Koning, de Eeuwige Waarheid; Gij kent de hemelen en de aarde, en tot U moeten allen wederkeren. Gij hebt Uw goddelijk beschikte Openbaring neergezonden naar een duidelijke maat. Geprezen zijt Gij, o Heer! Naar Uw bevel doet Gij wie Gij wilt zegevieren door de scharen van hemel en aarde en al wat daartussen is. Gij zijt de Soeverein, de Eeuwige Waarheid, de Heer van onoverwinnelijke macht.
 Verheerlijkt zijt Gij, o Heer! Immer vergeeft Gij de zonden van diegenen Uwer dienaren die Uw vergiffenis afsmeken. Neem mijn zonden weg, en de zonden van hen die bij het krieken van de dag Uw vergeving zoeken, die bij dag en bij nacht tot U bidden, die naar niets anders dan God verlangen, die al wat God hen genadiglijk heeft geschonken aan Hem opofferen, die Uw lof bezingen in de ochtend en in de avondstond, en die niet tekortschieten in hun plichten.
 
@@ -3018,7 +3714,10 @@ Verheerlijkt zijt Gij, o Heer! Immer vergeeft Gij de zonden van diegenen Uwer di
 
 
 
-### <a id="BB00485TRE"></a> Prayer BB00485TRE in Nederlands
+
+
+<a id="BB00485TRE"></a> 
+### Prayer BB00485TRE in Nederlands
 Ik ben mij ervan bewust, o Heer, dat mijn overtredingen mijn gezicht met schaamte bedekken in Uw tegenwoordigheid en als een last op mijn schouders drukken in Uw bijzijn, dat zij tussen mij en Uw schone gelaat zijn gekomen, mij rondom insluiten en mij aan alle kanten beletten de openbaringen van Uw hemelse macht te bereiken.
 O Heer! Als Gij mij niet vergeeft, wie is er dan om vergeving te schenken, en als Gij mij niet genadig zijt, wie kan er dan mededogen betonen? Glorie zij U, Gij hebt mij geschapen toen ik niet-bestaand was en Gij hebt mij gevoed toen ik verstoken was van alle begrip. Ere zij U, ieder bewijs van milddadigheid komt van U en ieder teken van genade komt voort uit de schatkamers van Uw bevel.
 
@@ -3028,7 +3727,10 @@ O Heer! Als Gij mij niet vergeeft, wie is er dan om vergeving te schenken, en al
 
 
 
-### <a id="bpn9728"></a> Prayer bpn9728 in Nederlands
+
+
+<a id="bpn9728"></a> 
+### Prayer bpn9728 in Nederlands
 O Gij vergevingsgezinde Heer! Gij zijt een schuilplaats voor al deze dienaren van U. Gij kent de geheimen en zijt op de hoogte van alle dingen. Wij zijn allen hulpeloos, en Gij zijt de Machtige, de Almogende. Wij zijn allen zondaars, en Gij zijt Degeen die zonden vergeeft, de Barmhartige, de Meedogende. O Heer! Zie niet naar onze tekortkomingen. Handel met ons naar Uw genade en milddadigheid. Onze tekortkomingen zijn menigvuldig, doch de oceaan van Uw vergeving is grenzeloos. Onze zwakte is smartelijk, doch de tekenen van Uw hulp en bijstand zijn duidelijk. Bevestig en sterk ons daarom. Stel ons in staat om datgene te doen wat Uw heilige drempel waardig is. Verlicht ons hart, geef ons een onderscheidend oog en een aandachtig oor. Wek de doden op en genees de zieken. Schenk de armen rijkdom en hen die bevreesd zijn rust en veiligheid. Ontvang ons in Uw koninkrijk en verlicht ons met het licht van leiding. Gij zijt de Krachtige en de Almogende. Gij zijt de Edelmoedige. Gij zijt de Milde. Gij zijt de Vriendelijke.
 
 (Source category: Vergeving)
@@ -3038,9 +3740,13 @@ O Gij vergevingsgezinde Heer! Gij zijt een schuilplaats voor al deze dienaren va
 
 
 
+
+
+<a id="Voor overleden vrouwen"></a> 
 ## Voor overleden vrouwen
 
-### <a id="bpn9694"></a> Prayer bpn9694 in Nederlands
+<a id="bpn9694"></a> 
+### Prayer bpn9694 in Nederlands
 #Voor overleden vrouwen
 
 
@@ -3053,7 +3759,10 @@ Gij zijt waarlijk de Machtige, de Meedogende, de Grootmoedige, de Genadige.
 
 
 
-### <a id="bpn9695"></a> Prayer bpn9695 in Nederlands
+
+
+<a id="bpn9695"></a> 
+### Prayer bpn9695 in Nederlands
 O Heer, o Gij Wiens barmhartigheid allen omvat, Wiens vergeving alles overtreft, Wiens milddadigheid onovertroffen is, Wiens vergiffenis en edelmoedigheid alomvattend zijn en het licht van Wiens vergeving over de gehele wereld wordt verspreid! O, Heer van glorie! Ik smeek U vurig en met tranen in de ogen om Uw dienares die tot U is opgestegen te bezien met het oog van Uw barmhartigheid. Kleed haar met de mantel van Uw genade die schittert met de sierselen van het hemelse Paradijs, en verlicht haar gelaat met het licht van Uw barmhartigheid en mededogen terwijl Gij haar beschutting biedt onder de boom van Uw één-zijn.
 Schenk Uw hemelse dienares, o God, de heilige geuren die voortkomen uit de geest van Uw vergeving. Laat haar in een heerlijk verblijf vertoeven, verdrijf haar smart met de balsem van hereniging met U, en verleen haar, in overeenstemming met Uw wil, toegang tot Uw heilig paradijs. Laat de engelen van Uw tedere zorg achtereenvolgend op haar neerdalen en beschut haar onder Uw gezegende boom. Gij zijt waarlijk de Immervergevende, de Edelmoedigste, de Almilddadige.
 
@@ -3063,7 +3772,10 @@ Schenk Uw hemelse dienares, o God, de heilige geuren die voortkomen uit de geest
 
 
 
-### <a id="bpn9696"></a> Prayer bpn9696 in Nederlands
+
+
+<a id="bpn9696"></a> 
+### Prayer bpn9696 in Nederlands
 O Gij vriendelijk Heer! Deze innig gekoesterde dienares werd tot U aangetrokken, en verlangde er door overdenking en inzicht naar om Uw tegenwoordigheid te bereiken en Uw rijken te betreden. Met tranen in de ogen vestigde zij haar blik op het Koninkrijk van mysteriën. Vele nachten bracht zij door in diepe verbondenheid met U, en vele dagen leefde zij met het U innig gedenken. Elke morgenstond was zij U indachtig, en elke avond richtte zij haar gedachten op U. Gelijk een zingende nachtegaal zong zij Uw heilige verzen, en gelijk een spiegel trachtte zij Uw licht te weerkaatsen.
 O Gij die zonden vergeeft! Maak de weg vrij zodat deze ontwaakte ziel Uw koninkrijk kan binnengaan, en laat deze door Uw hand getrainde vogel haar vlucht nemen naar de eeuwige rozengaard. Zij verlangt vurig U nabij te komen; laat haar Uw tegenwoordigheid bereiken. Zij is overstuur en radeloos als zij van U gescheiden is; laat haar toe in Uw hemelse woning.
 O Heer! Wij zijn zondaars, doch Gij zijt de Vergevende. Wij zijn verzonken in de oceaan van tekortkomingen, doch Gij zijt de Verontschuldiger, de Vriendelijke. Vergeef ons onze zonden en zegen ons met Uw overvloedige genade. Verleen ons het voorrecht Uw Gelaat te aanschouwen, en schenk ons de kelk van vreugde en verrukking. Wij zijn gevangenen van onze overtredingen, en Gij zijt de Koning van overvloedige gaven. Wij verdrinken in een zee van zonden en Gij zijt de Heer van oneindige genade. Gij zijt de Gever, de Glorieuze, de Eeuwige, de Overvloedige; en Gij zijt de Algenadige, de Albarmhartige, de Almachtige, Degeen die gaven schenkt en zonden vergeeft. Waarlijk, Gij zijt Degeen tot wie wij ons wenden voor het vergeven van onze tekortkomingen, Degeen die de Heer der heren is.
@@ -3075,9 +3787,13 @@ O Heer! Wij zijn zondaars, doch Gij zijt de Vergevende. Wij zijn verzonken in de
 
 
 
+
+
+<a id="Vrouwen"></a> 
 ## Vrouwen
 
-### <a id="BH09162"></a> Prayer BH09162 in Nederlands
+<a id="BH09162"></a> 
+### Prayer BH09162 in Nederlands
 O Gij, Wiens gelaat het voorwerp van aanbidding is van allen die naar U smachten, Wiens tegenwoordigheid de hoop is van hen die Uw wil geheel zijn toegewijd, Wiens nabijheid het verlangen is van allen die Uw hof zijn genaderd, Wiens aangezicht de metgezel is van hen die Uw waarheid hebben erkend, Wiens Naam de drijfveer is van de zielen die ernaar hunkeren Uw gelaat te aanschouwen, Wiens stem het ware leven is van Uw minnaars, de woorden uit Wiens mond als levend water zijn voor allen in de hemel en op aarde!
 Ik smeek U, bij het onrecht dat Gij hebt geleden en het kwaad dat U is aangedaan door scharen onrechtplegers, om uit de wolken van Uw mededogen tot mij neer te zenden hetgeen mij zal zuiveren van al wat niet van U is, dat ik waardig mag zijn U te prijzen en U lief te hebben.
 O mijn Heer, onthoud mij de dingen niet die Gij beschikt hebt voor diegenen onder Uw dienaressen die rond U cirkelen en die voortdurend worden overgoten met de pracht van de zon van Uw schoonheid en de stralen van de glans van Uw gelaat. Gij zijt Degeen die sedert het begin der tijden al wie U zoekt bijstaat, en hem die daarom vraagt overvloedig begunstigt.
@@ -3089,7 +3805,10 @@ Geen God is er buiten U, de Machtige, de Immerblijvende, de Almilddadige, de Ede
 
 
 
-### <a id="bpn9730"></a> Prayer bpn9730 in Nederlands
+
+
+<a id="bpn9730"></a> 
+### Prayer bpn9730 in Nederlands
 Glorie zij U, o mijn God! Mijn gelaat is naar Uw gelaat gekeerd, en mijn gelaat is waarlijk Uw gelaat, en mijn roep is Uw roep, en mijn openbaring Uw Openbaring, en mijn zelf Uw Zelf, en mijn zaak Uw Zaak, en mijn bevel Uw bevel, en mijn wezen Uw Wezen, en mijn soevereiniteit Uw soevereiniteit, en mijn glorie Uw glorie, en mijn kracht Uw kracht.
 Ik smeek U, o Gij Vormer der natiën en de Koning der eeuwigheid, Uw dienaressen binnen de tabernakel van Uw kuisheid te beschutten, en hun daden die Uw dagen onwaardig zijn ongedaan te maken. Zuiver hen dan, o mijn God, van alle twijfel en ijdele waan en heilig hen van al hetgeen zich niet verdraagt met hun verwantschap met U, o Gij die de Heer der namen zijt en de Bron van uiting. Gij zijt Degeen in Wiens greep de teugels der gehele schepping rusten.
 Geen God is er dan Gij, de Almachtige, de Verhevenste, de Alglorierijke, de Bij-zich-bestaande.
@@ -3100,7 +3819,10 @@ Geen God is er dan Gij, de Almachtige, de Verhevenste, de Alglorierijke, de Bij-
 
 
 
-### <a id="BH07426DRE"></a> Prayer BH07426DRE in Nederlands
+
+
+<a id="BH07426DRE"></a> 
+### Prayer BH07426DRE in Nederlands
 O Gij, voor Wiens ontzaglijke majesteit alle dingen beven, in Wiens greep de aangelegenheden van alle mensen liggen, naar Wiens genade en barmhartigheid het gelaat van al Uw schepselen is gericht! Ik smeek U, bij Uw Naam die Gij hebt verordend tot de geest van alle namen die in het koninkrijk van namen bestaan, ons in deze Openbaring die het koninkrijk van Uw namen heeft doen beven af te schermen van de influisteringen van hen die zich van U hebben afgekeerd en de waarheid van Uw grootste en verhevenste Wezen hebben verworpen.
 Ik ben een van Uw dienaressen, o mijn Heer! Ik heb mijn gelaat gekeerd tot het heiligdom van Uw genadegaven en de aanbeden tabernakel van Uw glorie. Zuiver mij van al wat niet van U is, en sterk mij U lief te hebben en te voldoen aan Uw welbehagen, dat ik vreugde mag vinden in het overdenken van Uw schoonheid, en verlost mag worden van alle gehechtheid aan welk Uwer schepselen ook, en ieder moment mag verkondigen: “Verheerlijkt zij God, de Heer der werelden!”
 O mijn Heer, laat Uw schoonheid mijn voedsel zijn en het licht van Uw tegenwoordigheid mijn drank, Uw behagen mijn hoop, het U loven mijn daad, het U gedenken mijn metgezel, Uw soevereiniteit mijn helper, Uw verblijf mijn woning en mijn huis de zetel die Gij hebt verheven boven de beperkingen van hen die als door een sluier van U zijn gescheiden.
@@ -3112,7 +3834,10 @@ Gij zijt in waarheid de God van kracht, van sterkte en van glorie.
 
 
 
-### <a id="BH08852"></a> Prayer BH08852 in Nederlands
+
+
+<a id="BH08852"></a> 
+### Prayer BH08852 in Nederlands
 Glorie zij U, o mijn God! Een van Uw dienaressen, die in U en in Uw tekenen gelooft, heeft zich onder de schaduw van de boom van Uw één-zijn begeven. Geef haar, o mijn God, bij Uw Naam, de Kenbare en de Verborgene, volop te drinken van Uw uitgelezen verzegelde wijn, dat die haar zal wegvoeren van haar eigen wezen, en maak haar geheel toegewijd aan het U gedenken en geheel onthecht van eenieder buiten U.
 Nu Gij haar de kennis van U hebt geopenbaard, o mijn Heer, ontzeg haar in Uw genade Uw goedertierenheid niet, en nu Gij haar tot U hebt geroepen jaag haar in Uw gunst niet van U weg. Voorzie haar dan van hetgeen wat al wat op Uw aarde te vinden is te boven gaat. Gij zijt waarlijk de Milddadigste, Wiens genade onmetelijk is.
 Zoudt Gij enig schepsel het gelijke van de koninkrijken van hemel en aarde schenken, zou dat de immensiteit van Uw heerschappij niet verkleinen, zelfs niet ter grootte van een atoom. De mensen plegen U de Grote te noemen, doch Gij zijt veel groter, want een dergelijke titel is slechts één van Uw namen, die alle slechts geschapen zijn door louter een duiding van Uw wil.
@@ -3124,7 +3849,10 @@ Er is geen God dan Gij, de God van kracht, de God van glorie, de God van kennis 
 
 
 
-### <a id="bpn9733"></a> Prayer bpn9733 in Nederlands
+
+
+<a id="bpn9733"></a> 
+### Prayer bpn9733 in Nederlands
 Gij ziet, o mijn God, hoe de wandaden van diegenen Uwer schepselen die U de rug hebben toegekeerd tussen Hem in wie Uw Godheid zichtbaar is en Uw dienaren zijn gekomen. Zend tot hen neder, o mijn Heer, datgene waardoor zij zich slechts met elkanders zaken inlaten. Laat hun geweld dan tot henzelf beperkt blijven, zodat het gebied en zij die daar wonen rust mogen vinden.
 Een van Uw dienaressen, o mijn Heer, heeft Uw gelaat gezocht en haar vlucht genomen tot de sferen van Uw welbehagen. O mijn Heer, onthoud haar de dingen niet die Gij hebt beschikt voor de uitverkorenen onder Uw dienaressen. Geef dan dat zij zo wordt aangetrokken door Uw woorden dat zij Uw lof onder hen zal verheerlijken.
 Machtig zijt Gij te doen naar Uw behagen. Geen God is er dan Gij, de Almachtige, Wiens hulp allen afsmeken.
@@ -3136,9 +3864,13 @@ Machtig zijt Gij te doen naar Uw behagen. Geen God is er dan Gij, de Almachtige,
 
 
 
+
+
+<a id="Vuurtafel"></a> 
 ## Vuurtafel
 
-### <a id="BH00687"></a> Fire Tablet  in Nederlands
+<a id="BH00687"></a> 
+### Fire Tablet  in Nederlands
 In Naam van God, de Aloude, de Allergrootste.
 De harten van de oprechten worden voorwaar verteerd in het vuur van scheiding: waar is de glans van het licht van Uw aangezicht, o Geliefde der werelden?
 Degenen die U nabij zijn, zijn achtergelaten in het duister van troosteloosheid: waar is de luister van de dageraad van Uw hereniging, o Verlangen der werelden?
@@ -3198,9 +3930,13 @@ Zouden alle dienaren dit lezen en overdenken, dan zal in hun aderen een vuur ont
 
 
 
+
+
+<a id="Zuigelingen"></a> 
 ## Zuigelingen
 
-### <a id="bpn9622"></a> Prayer bpn9622 in Nederlands
+<a id="bpn9622"></a> 
+### Prayer bpn9622 in Nederlands
 Geprezen zijt Gij, o Heer mijn God! Sta genadiglijk toe dat dit kindje gevoed wordt aan de borst van Uw tedere genade en liefdevolle voorzienigheid, en gevoed wordt met de vruchten van Uw hemelse bomen. Laat hem niet aan de zorg van iemand anders dan Uzelf worden toevertrouwd, aangezien Gij hem Zelf door de kracht van Uw soevereine wil hebt geschapen en tot leven hebt geroepen. Er is geen ander God dan Gij, de Almachtige, de Alwetende.
 Geloofd zijt Gij, o mijn Meestgeliefde, doe de zoete smaak van Uw alovertreffende vrijgevigheid en de geuren van Uw heilige gaven over hem zweven. Stel hem dan in staat beschutting te zoeken in de schaduw van Uw verhevenste Naam, o Gij die het koninkrijk van namen en eigenschappen in Zijn greep houdt. Waarlijk, Gij zijt machtig te doen hetgeen Gij wilt, en Gij zijt waarlijk de Machtige, de Verhevene, de Immervergevende, de Genadige, de Grootmoedige, de Barmhartige.
 
@@ -3210,7 +3946,10 @@ Geloofd zijt Gij, o mijn Meestgeliefde, doe de zoete smaak van Uw alovertreffend
 
 
 
-### <a id="bpn9623"></a> Prayer bpn9623 in Nederlands
+
+
+<a id="bpn9623"></a> 
+### Prayer bpn9623 in Nederlands
 O Gij weergaloos Heer! Laat deze zuigeling drinken aan de borst van Uw goedertierenheid, bescherm hem in de wieg van Uw geborgenheid en bescherming, en geef dat hij wordt grootgebracht in de armen van Uw tedere genegenheid.
 
 (Source category: Zuigelingen)
@@ -3219,7 +3958,10 @@ O Gij weergaloos Heer! Laat deze zuigeling drinken aan de borst van Uw goedertie
 
 
 
-### <a id="bpn9624"></a> Prayer bpn9624 in Nederlands
+
+
+<a id="bpn9624"></a> 
+### Prayer bpn9624 in Nederlands
 O God! Breng dit kindje groot aan de boezem van Uw liefde en laaf het aan de borst van Uw voorzienigheid. Verzorg dit jonge plantje in de rozengaard van Uw liefde en help het te groeien door de regen van Uw milddadigheid. Maak het een kind van het Koninkrijk en leid het tot Uw goddelijke wereld. Gij zijt machtig en vriendelijk, en Gij zijt de Schenker, de Vrijgevige, de Heer van allesovertreffende gaven.
 
 (Source category: Zuigelingen)
@@ -3229,15 +3971,21 @@ O God! Breng dit kindje groot aan de boezem van Uw liefde en laaf het aan de bor
 
 
 
+
+
+<a id="Ḥuqúqu’lláh: het Recht van God"></a> 
 ## Ḥuqúqu’lláh: het Recht van God
 
-### <a id="bpn9740"></a> Prayer bpn9740 in Nederlands
+<a id="bpn9740"></a> 
+### Prayer bpn9740 in Nederlands
 Verheerlijkt zijt Gij, o mijn meedogende Heer! Ik smeek U bij het geraas van de oceaan van Uw heilige woorden, en bij de menigvuldige tekenen van Uw opperste soevereiniteit, de overtuigende bewijzen van Uw goddelijkheid en de verborgen mysteriën die in Uw kennis verscholen liggen, mij Uw genade te verlenen om U en Uw uitverkorenen te dienen, en mij in staat te stellen plichtsgetrouw de Huqúq te schenken die Gij in Uw Boek hebt verordend.
 Ik ben degeen, o mijn Heer, wiens genegenheid naar Uw rijk van heerlijkheid uitgaat en die zich stevig vastklampt aan de zoom van Uw edelmoedigheid. O Gij die de Heer van alle bestaan zijt en de Heerser van het koninkrijk van namen, ik smeek U mij niet te ontzeggen hetgeen Gij bezit, noch mij te onthouden wat Gij voor Uw uitverkorenen hebt beschikt.
 Ik smeek U, o Heer aller namen en Schepper der hemelen, mij door Uw sterkende genade te helpen zo standvastig te staan in Uw Zaak dat ik mij noch door de ijdelheden van de wereld als door een sluier laat uitsluiten, noch mij door de hevige onrust veroorzaakt door de boosdoeners die zijn opgestaan om Uw volk in Uw dagen op een dwaalspoor te brengen laat belemmeren. Bestem dan voor mij, o mijn Hartsverlangen, het goede van deze wereld en van de wereld die komen gaat. Waarlijk, Gij zijt machtig te doen naar Uw wil. Geen God is er dan Gij, de Immervergevende, de Edelmoedigste.
 
 (Source category: Ḥuqúqu’lláh: het Recht van God)
 (Bahaiprayers.net ID: 9740)
+
+
 
 
 

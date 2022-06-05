@@ -87,9 +87,11 @@ tags = ['lang=lb', 'prayerbook']
 
 
 
+<a id="'Abdu'l-Baha"></a> 
 ## 'Abdu'l-Baha
 
-### <a id="bpn13400"></a> Prayer bpn13400 in Lëtzebuergesch
+<a id="bpn13400"></a> 
+### Prayer bpn13400 in Lëtzebuergesch
 Hien ass Gott.
 O du, deen an Ubiedung ronderëm de Punkt kreest, ëm deen d’Awunner vum allerhéchste Paradis kreesen. Hief du deng Hänn an Dankbarkeet un der Schwell vum eenzeg wierkleche Gott a so: O Du, héchst Bestriewe vu jidderengem, deen dech leidenschaftlech gär huet! O Du, de Guide vun all verierter Séil! Du hues dëse schwaachen Dénger mat Dengen onendleche Seege begënschtegt an dësen Onglécklechen an Niddregen zur Schwell vun Denger Eenheet gefouert. Du hues dësen ausgedréchente Lëpsen d‘liewegt Waasser vun Denger Léift a Guttheet gereecht an dës midd a wieleg Séil mam Wand vu gëttlecher Baarmhäerzegkeet erëm belieft. Ech soen Dir Merci, dass Du mir eng voll Portioun vun Denger gnädegster Gonscht geschenkt hues a mir d‘Éier ginn hues, Deng helleg Schwell  ze erreechen. Ech bieden ëm en onendlechen Undeel vun de Räichtemer vun Dengem Kinnekräich do uewen. Bewëlleg Däi Bäistand. Schenk Deng gnädeg Gonscht.
 
@@ -99,7 +101,10 @@ O du, deen an Ubiedung ronderëm de Punkt kreest, ëm deen d’Awunner vum aller
 
 
 
-### <a id="bpn13401"></a> Prayer bpn13401 in Lëtzebuergesch
+
+
+<a id="bpn13401"></a> 
+### Prayer bpn13401 in Lëtzebuergesch
 O Du onsiichtbare Frënd! 
 O Verlaange vun allem an dëser Welt an der Welt, déi kënnt! O Du Baarmhäerzegen, dee mir gär hunn! Dës hëlleflos Séile si vun Denger Léift gefaangen an dës Schwaach sichen Ënnerdaach un Denger Schwell. All Nuecht keimen a jéimere si, well si wäit ewech si vun Dir an all Muere bekloen se sech a kräische wéinst den Ugrëff vun de Béiswëllegen. Si ginn zu all Moment mat neie Quale gepéngegt, a gi bei all Otemzuch duerch d’Tyrannei vu sämtlechen iwwelen Ënnerdrécker schwéier gepréift. Sief gelueft, datt si trotzdeem wéi en Tempel aus Feier brennen an herrlech blénke wéi d’Sonn an de Mound. Si sti stolz, wéi erhuewe Banneren an der Saach vu Gott, a stierme wéi daper Reider an d’Arena. Si hu geblitt wéi séiss Bléien a si voller Freed wéi déi laachend Rous. Duerfir, o Du, deen eis versuergt a gär huet, stéi dësen hellege Séile gnädeg bäi duerch Deng himmlesch Gnod, vun Dengem Räich gewäert an erlab, datt dës helleg Wiesen d’Zeeche vum Allerhéchsten offenbare kënnen. Du bass de Generéisten, de Matleedvollen, de Gnädegsten, de Baarmhäerzegen.
 
@@ -109,7 +114,10 @@ O Verlaange vun allem an dëser Welt an der Welt, déi kënnt! O Du Baarmhäerze
 
 
 
-### <a id="bpn13402"></a> Prayer bpn13402 in Lëtzebuergesch
+
+
+<a id="bpn13402"></a> 
+### Prayer bpn13402 in Lëtzebuergesch
 O Du onvergläichlechen Här, dee gär huet! 
 Och wann et u Fäegkeet a Begabung feelt, an et onendlech schwéier ass, dem Leed ze widderstoen, si Begabung a Fäegkeet awer Geschenker, déi s Du eis gëss. O Här! Gëff eis Fäegkeet a maach eis würdeg, fir datt mir eis als äusserst standhaft erweisen, dëser Welt an all hire Mënschen entsoen, d’Feier vun Denger Léift umaachen an esou wéi Käerzen, hell mat opzierender Flam brennen an eise stralende Glanz verbreeden.
 O	Här vum Kinnekräich! Erléis eis vun dëser Welt vun eidelen Abildungen a féier eis an d’Räich vun der Onendlechkeet. Maach eis ganz fräi vun dësem niddrege Liewen a looss eis geseent si mat de räiche Geschenker vum Kinnekräich. Befrei eis vun dëser Welt vum Näischt, déi just den Uschäin vun der Realitéit huet, a gëff eis éiwegt Liewen. Schenk eis Freed a Pleséier, a gënn eis Frousinn an Zefriddenheet. Tréischt eis Häerzer a gëff eise Séile Fridden a Rou, sou datt, wa mir an Däi Räich eropkommen, mir Deng Presenz erreechen an eis an de Räicher do uewe glécklech fillen. Du bass Deen, dee gëtt, de Schenkenden, den Allmächtegen!
@@ -120,7 +128,10 @@ O	Här vum Kinnekräich! Erléis eis vun dëser Welt vun eidelen Abildungen a f�
 
 
 
-### <a id="bpn13403"></a> Prayer bpn13403 in Lëtzebuergesch
+
+
+<a id="bpn13403"></a> 
+### Prayer bpn13403 in Lëtzebuergesch
 O Du mäin éiweg Beléiften an ugebiete Frënd! 
 Wéi laang soll Deng Presenz mir enthale bleiwen an ech schwéier leiden, well ech wäit ewech si vun Dir? An de sécheren Hafe vun Dengem himmlesche Kinnekräich, féier mech, an op der Plaz vum Erschénge vun Dengem himmlesche Räich, werf de Bléck vun Denger Guttheet op mech.
 O	Du Allmächtegen Här! Ziel mech zu den Awunner vum Kinnekräich. Dës stierflech Welt ass mäi Wunnsëtz; gëff mir eng Wunneng an de Räicher vum Raumlosen. Zu dëser ierdescher Welt gehéieren ech; werf op mech de Glanz vu Dengem herrleche Liicht. An dëser Welt vum Stëbs wunnen ech; maach mech zu engem Awunner vun Dengem himmlesche Räich, sou datt ech mäi Liewen op Dengem Wee néierleeën an de Wonsch vu mengem Häerz erreeche kann, ech mäi Kapp mam Diadem vu gëttlecher Gonscht kréinen an den triumphale Kreesch „O Herrlechkeet Gottes, den Herrlechsten!“ ustëmme kann.
@@ -131,7 +142,10 @@ O	Du Allmächtegen Här! Ziel mech zu den Awunner vum Kinnekräich. Dës stierfl
 
 
 
-### <a id="bpn13404"></a> Prayer bpn13404 in Lëtzebuergesch
+
+
+<a id="bpn13404"></a> 
+### Prayer bpn13404 in Lëtzebuergesch
 O Du gudden Här! 
 Dës Séile sinn Deng Frënn, déi zesummekomm a vun Denger Léift fortgedroe sinn. Si gi vun de Strale vun Denger Schéinheet ugezunn a vun Dengen no Moschuss doftende Krausele verzaubert. Si hunn Dir hir Häerzer iwwerginn a wanderen, damiddeg a verluer, op Dengem Wee. Si hunn esouwuel Frënd wéi Frieme verlooss a sech un Deng Eenheet geklamert, verneigt an Ubiedung virun Dir.
 Si hunn zu dëser niddreger Welt gehéiert; Du hues se an Dengem Räich empfaangen. Si ware wéi verwielte Planzen an der Wildnis vum Entzuch a Verloscht; Du hues se zu Plänzercher am Gaart vum Wëssen a Verständnis gemaach. Hir Stëmme ware verstommt; Du hues se erëm un d‘Schwätze bruecht. Si ware verzweiwelt; Du hues Liicht iwwer se bruecht. Si ware wéi ausgedréchenten an onfruchtbare Buedem; Du hues se an e Rousegaart vun ënnerleche Bedeitunge verwandelt. Si ware wéi Kanner an der Welt vun der Mënschheet; Du hues hinnen erméiglecht, himmlesch Maturitéit ze erreechen.
@@ -145,7 +159,10 @@ O Du gudden Här, dee mir gär hunn! Si si wéi de Kierper, an Du bass de Geesch
 
 
 
-### <a id="bpn13405"></a> Prayer bpn13405 in Lëtzebuergesch
+
+
+<a id="bpn13405"></a> 
+### Prayer bpn13405 in Lëtzebuergesch
 O gëttlech Vorseeung! 
 Komplizéiert Schwieregkeete sinn opkomm a gewalteg Hindernisser opgedaucht. O Här! Huel dës Schwieregkeeten ewech a lee eis d’Beweiser vun Denger Muecht a Kraaft vir. Erliichter dës haart Ëmstänn a maach eise Wee fräi op dësem beschwéierleche Pad. O gëttlech Vorseeung! Dës Hindernisser ginn net no an eis Méi an Nout si mat onendlech vill Misär verbonnen. Keen hëlleft ausser Dir, a kee leescht Bäistand ausser Dir. Mir setzen all eis Hoffnung op Dech a leeën all eis geleeënheeten an Deng Hänn. Du leets eis an hëls all Schwieregkeet ewech an Du bass de Weisen, Deen, dee gesäit an héiert.
 
@@ -155,7 +172,10 @@ Komplizéiert Schwieregkeete sinn opkomm a gewalteg Hindernisser opgedaucht. O H
 
 
 
-### <a id="bpn13406"></a> Prayer bpn13406 in Lëtzebuergesch
+
+
+<a id="bpn13406"></a> 
+### Prayer bpn13406 in Lëtzebuergesch
 O baarmhäerzege Gott!
 
 O Du, den Allmächtegen! Ech sinn nëmmen e schwaachen Dénger, daierlech an hëlleflos, awer ech gouf am Schutz vun Denger Gnod a Gonscht groussgezunn, un der Broscht vun Denger Baarmhäerzegkeet geniert, an am Schouss vun Denger Léift a Guttheet opgezillt. O Här! Esou aarm a bedierfteg ech och sinn, kënnt dach jidder Bedierftegen zu Wuelstand duerch deng Mëtschgiewegkeet, wärend all déi Räich ouni Deng Gonscht, wierklech aarm a verlooss sinn.
@@ -168,7 +188,10 @@ O gëttlech Vorseeung! Schenk mir d’Kraaft dës schwéier Laascht ze droen a b
 
 
 
-### <a id="bpn13407"></a> Prayer bpn13407 in Lëtzebuergesch
+
+
+<a id="bpn13407"></a> 
+### Prayer bpn13407 in Lëtzebuergesch
 O gëttlech Vorseeung! 
 Erwäch mech a maach mech bewosst. Looss mech lassgeléist si vun allem ausser Dir a fessel mech mat der Léift fir Deng Schéinheet. Hauch mir den Otem vum hellege Geescht an a looss mech nom Ruff vum Kinnekräich vun Abhá lauschteren. Schenk mir himmlesch Kraaft a fänk d’Luucht vum Geescht an der bannenzegster Kummer vu mengem Häerz un. Maach mech lass vun all Fessel a befrei mech vun all Bindung, fir datt ech no näischt anerem verlaangeren, wéi Dir ze gefalen, näischt sichen nieft Dengem Ubléck a kengem anere Wee noginn wéi Dengem Wee. Maach, datt ech déi Zerstreet dozou féieren, opmierksam ze ginn an déi Schlofend ze erwächen, datt ech d’Waasser vum Liewen deene reechen, déi erdiischtert sinn a gëttlech Heelung deene bréngen, déi krank sinn a leiden.
 Och wann ech kleng, erniddregt an aarm sinn, sou bass Du awer mäi sécheren Hafen a mäin Ënnerdaach, mäin Ënnerstëtzer an Deen, dee mir hëlleft. Schéck Deng Hëllef esou erof datt jidderee staunt. O Gott! Du bass wierklech, den Allmächtegen, de Stäerksten, Deen dee gëtt, dee versuergt an deen alles gesäit.
@@ -179,7 +202,10 @@ Och wann ech kleng, erniddregt an aarm sinn, sou bass Du awer mäi sécheren Haf
 
 
 
-### <a id="bpn13408"></a> Prayer bpn13408 in Lëtzebuergesch
+
+
+<a id="bpn13408"></a> 
+### Prayer bpn13408 in Lëtzebuergesch
 Hien ass Gott.
 O	Gott, mäi Gott! Ech hunn Dir mäi Gesiicht zougedréit a bieden Dech den Ozean vun Denger Heelung auszegéissen. Hëllef mir gnädeg, o Här Dengem Vollek ze déngen an Deng Dénger ze heelen. Wann s Du mir hëllefs, gëtt d‘Heelmëttel, dat ech ubidden, zu enger heelender Medezin fir all Krankheet, enger Schlupp vu liewensspendendem Waasser fir all brennenden Duuscht an e berouegende Balsam fir all verlaangerend Häerz. Wann s Du mir net hëllefs, wäert et näischt anescht gi wéi Leed an ech wäert kaum enger Séil Heelung bréngen.
 O Gott, mäi Gott! Stéi mir bäi an hëllef mir duerch Deng Muecht, déi Krank ze heelen. Du bass wierklech, den Heeler, Deen, dee sech selwer duergeet, Deen, deen all Péng a Krankheet ewechhëlt, Deen, deen iwwer alles herrscht.
@@ -190,7 +216,10 @@ O Gott, mäi Gott! Stéi mir bäi an hëllef mir duerch Deng Muecht, déi Krank 
 
 
 
-### <a id="bpn13409"></a> Prayer bpn13409 in Lëtzebuergesch
+
+
+<a id="bpn13409"></a> 
+### Prayer bpn13409 in Lëtzebuergesch
 O Här! 
 Gëff mir en Undeel vun Denger Gnod, Léift a Guttheet, Denger Fleeg an dengem Schutz, Dengem Ënnerdaach an Denger Mëtschgiewegkeet, datt d’Enn vu mengen Deeg sech iwwer hiren Ufank erhieft an de Schluss vu mengem Liewen d’Portaler zu Denge villfältege Seegen opmécht. Looss Deng Léift, Guttheet a Baarmhäerzegkeet zu all Moment op mech erofkommen a mir Deng Verzeiung an Däi Matleed mat all Otemzuch zoukommen, bis ech ënner dem schützende Schiet 
 vun Deem, dee vun alle gelueft gëtt, anzéie kann. Du bass Deen, dee gëtt an ëmmer gär huet an Du bass wierklech den Här vun der Gnod a Mëtschgiewegkeet.
@@ -201,7 +230,10 @@ vun Deem, dee vun alle gelueft gëtt, anzéie kann. Du bass Deen, dee gëtt an �
 
 
 
-### <a id="bpn13410"></a> Prayer bpn13410 in Lëtzebuergesch
+
+
+<a id="bpn13410"></a> 
+### Prayer bpn13410 in Lëtzebuergesch
 O Du, dee gëtt, O Du, dee verzeit!  
 Eng nobel Séil ass an d’Kinnekräich vun der Wierklechkeet opgestigen an huet sech vun der stierflecher Welt vum Stëbs an d’Räich vun der éiweger Herrlechkeet geflass. Erhief de Rang vun dësem Gaascht, dee viru kuerzem ukomm ass an do dësem laangjäregen Dénger en neit, wonnerschéint Kleed un.
 O	Du 	onvergläichlechen 
@@ -213,7 +245,10 @@ Verzeiung an zäertlech Suerg, sou datt dës Séil an d‘Räich vun Denge Gehei
 
 
 
-### <a id="bpn13411"></a> Prayer bpn13411 in Lëtzebuergesch
+
+
+<a id="bpn13411"></a> 
+### Prayer bpn13411 in Lëtzebuergesch
 Hien ass Gott.
 O	Du verzeienden Här! Dës Dénger waren nobel Séilen, an dës stralend Häerzer goufen duerch d’Liicht vun Denger Féierung hell a stralend gemaach. Si hunn e Kielech, bis zum Rand gefëllt, mam Wäin vun Denger Léift gedronk, a schenken den éiwege Geheimnisser, déi vun de Melodië vun Dengem Wëssen erkléngen, Gehéier. Si hunn hir Häerzer un Dech gebonnen, sech vun der Schléng vum Ausernanerliewe lassgerappt a sech un Deng Eenheet geklamert. Maach dës wäertvoll Séile Begleeder vun den Awunner vum Himmel an huel se op an de Krees vun Dengen Auserwielten. Maach si zu Vertraute vun Denge Geheimnisser am Räich do uewen an dauch se an d‘Mier vu Liicht. Du bass Deen, dee gëtt, de Liichtenden, an de Gnädegen.
 
@@ -223,7 +258,10 @@ O	Du verzeienden Här! Dës Dénger waren nobel Séilen, an dës stralend Häerz
 
 
 
-### <a id="bpn13412"></a> Prayer bpn13412 in Lëtzebuergesch
+
+
+<a id="bpn13412"></a> 
+### Prayer bpn13412 in Lëtzebuergesch
 O gëttlech Vorseeung! 
 
 Dauch de Papp an d’Mamm vun dësem Dénger un Denger Schwell an den Ozean vun Denger Verzeiung a rengeg an helleg si vun all Sënn a Verstouss. Gewär hinnen Deng Verzeiung a Baarmhäerzegkeet a schenk hinnen Däi gnädege Pardon. Du bass wierklech den Nosiichtegen, Deen, deen ëmmer verzeit, de Spender vu räichlecher Gnod. O Du verzeienden Här! Obwuel mir sënnegen, sinn eis Hoffnungen dach op däi Verspriechen an Deng Zousécherung geriicht. Obwuel mir vun der Däischtert vum Iertum ageschloss sinn, hu mir dach zu allen Zäiten eist Gesiicht dem Muere vun Denger generéiser Gonscht zougewant. Géi esou mat eis ëm, wéi et Denger Schwell entsprécht a schenk eis dat, wat Dengem Haff würdeg ass. Du bass den Ëmmerverzeienden, de Gnädegen, Deen, deen all Mangel iwwersäit.
@@ -234,7 +272,10 @@ Dauch de Papp an d’Mamm vun dësem Dénger un Denger Schwell an den Ozean vun 
 
 
 
-### <a id="bpn13413"></a> Prayer bpn13413 in Lëtzebuergesch
+
+
+<a id="bpn13413"></a> 
+### Prayer bpn13413 in Lëtzebuergesch
 O du gudden Här! 
 Rengeg mäin Häerz vun all Unhänglechkeet, an erfree meng Séil mat frouen Noriichten. Befrei mech vun all Bindung u Frënd wéi u Friemen, fessel mech mat Denger Léift, sou dass ech mech Dir voll a ganz kann higinn an erfëllt si mat feiereger Extas; sou dass ech keen anere begieren ausser Dir, keen anere sichen ausser Dir, keen anere Pad triede wéi Däin an nëmme kommunizéiere mat Dir; sou dass ech, enger Nuechtigailche gläich, verzaubert si vun Denger Léift an Dag an Nuecht keimen a jéimeren, kräischen a jäizen „Yá Bahá’u’l-Abhá!“
 
@@ -244,7 +285,10 @@ Rengeg mäin Häerz vun all Unhänglechkeet, an erfree meng Séil mat frouen Nor
 
 
 
-### <a id="bpn13414"></a> Prayer bpn13414 in Lëtzebuergesch
+
+
+<a id="bpn13414"></a> 
+### Prayer bpn13414 in Lëtzebuergesch
 O Här!
 Wat fir e Stroum vu Mëtschgiewegkeet hues Du gewäert a wat fir eng Flut vu räichlecher Gnod hues Du bewëllegt! Du hues all d’Häerzer wéi zu engem eenzegen Häerz matenee verschmëlze gelooss an all d’Séilen zu enger eenzeger Séil matenee verbonnen. Du hues eweegungslose Kierper Liewen a Gefill ginn an doudege Leiwer d’Bewosstsi vum Geescht geschenkt. Duerch déi liichtend Strale vun der Sonn vum 
  llbaarmhäerzegen, hues Du dës Stëbsatomer mat siichtbarer Existenz bekleet an duerch d’Welle vum Mier vun der Eenheet hues Du dës winzeg Drëpse befäegt, héichzeschloen an ze dauschen
@@ -257,7 +301,10 @@ O du Allmächtegen, deens Du engem Stréihallem d’Muecht vun engem Bierg gëss
 
 
 
-### <a id="bpn13415"></a> Prayer bpn13415 in Lëtzebuergesch
+
+
+<a id="bpn13415"></a> 
+### Prayer bpn13415 in Lëtzebuergesch
 O Du Allmächtegen Här!
 Mir sinn all am mächtege Grëff vum Denger Muecht gehalen. Du bass eisen Ënnerstëtzer an Deen, deen eis hëlleft. Gewär eis Däin zaart Erbaarmen, schenk eis Deng Generositéit, maach d’Paarte vun Denger Gnod op a werf de Bléck vun Denger Gonscht op eis. Looss eng beliewend Lëftchen iwwer eis blosen an erfrësch Du eis Häerzer, déi verlaangeren. Erliicht eis Aen a maach d’Hellegtum vun eisen Häerzer zum Näid vun all bléiendem Gaart. Erfree jiddwer Séil a begléck all Geescht. Offenbar Deng uréiweg Stäerkt a maach Deng grouss Muecht siichtbar. Maach, dass d’Vigel vun de mënschleche Séilen zu neien Héichten eropschwiewen a looss Deng Vertrauter an dëser niddreger Welt d’Geheimnisser vun Dengem Räich ergrënnen. Stäerk eis Schrëtt a schenk eis standhaft Häerzer. Mir sënnegen, an Du bass den Ëmmerverzeienden. Mir sinn Deng Dénger an Du bass den Herrscher, den Här. Mir si Wanderer ouni Heem an Du bass eisen Hafen an eisen Ënnerdaach. Duerch Deng Gnod, hëllef a stéi eis zur Säit, Däi séissen Doft ze verbreeden an Däi Wuert ze verherrlechen. Erhéich de Stand vun deenen, déi alles ewechgeholl kruten a schenk deenen ouni Mëttel Däin onerschëpfleche Schaz. Vermaach de Schwaachen Deng Stäerkt a bewëlleg de Gebriechlechen Deng himmlesch Kraaft. Du bass Deen, dee versuergt, Du bass de Gnädegen, du bass den Här, deen iwwer alles herrscht
 
@@ -267,7 +314,10 @@ Mir sinn all am mächtege Grëff vum Denger Muecht gehalen. Du bass eisen Ënner
 
 
 
-### <a id="bpn13416"></a> Prayer bpn13416 in Lëtzebuergesch
+
+
+<a id="bpn13416"></a> 
+### Prayer bpn13416 in Lëtzebuergesch
 Hien ass den Hellegsten, den Herrlechsten.
 
 Am Numm vu Gott, de Matleedvollen, de Baarmhäerzegen! Gelueft ass Gott, den Här vun alle Welten!
@@ -283,7 +333,10 @@ ginn an zu Denge Kniechte gehéieren, déi fest a sécher stinn.
 
 
 
-### <a id="bpn13417"></a> Prayer bpn13417 in Lëtzebuergesch
+
+
+<a id="bpn13417"></a> 
+### Prayer bpn13417 in Lëtzebuergesch
 O Här, eise Gott! 
 
 Mir sinn hëlleflos; Du bass den Här vu Stäerkt a Muecht. Mir sinn erbäermlech; Du bass den Allmächtegen, den Allherrlechen. Mir sinn aarm; Du bass Deen, deem alles gehéiert, de Generéisten. Stéi eis gnädeg bäi an eiser Ënnerwerfung un Denger helleger Schwell, an hëllef eis duerch Deng stäerkend Gnod, Dech op de Plaze vum Sonnenopgang vun Dengem Luef ze veréieren. Befäeg eis, Däin hellegen Doft ënner Denge Kreaturen ze verbreeden a stäerk eis Lennen, fir Dir ënner Dengen Dénger ze déngen, esou dass mir all d’Natiounen zu Dengem gréissten Numm féieren an all Vëlker un d’Ufere vum herrlechen Ozean vun Denger Eenheet leede kënnen.
@@ -296,7 +349,10 @@ O Här! Erléis eis vun de Bindunge vun der Welt an hire Vëlker, vun den Iwwers
 
 
 
-### <a id="bpn13418"></a> Prayer bpn13418 in Lëtzebuergesch
+
+
+<a id="bpn13418"></a> 
+### Prayer bpn13418 in Lëtzebuergesch
 Hien ass Gott.
 O	Du gudden Här, dee mir gär hunn! Dës Frënn sinn euphoresch mam Wäin vum Bond a si Wanderer an der Wildnis vun Denger Léift. Hir Häerzer sinn opgeziert vun de Flame vun der Trennung vun Dir a si verlaangeren äifreg no der Offenbarung vun Denger Pracht. Aus Dengem verbuergene Kinnekräich, dem Räich vum Onsiichtbaren, offenbar hinnen déi stralend Herrlechkeet vun Denger Gnod a looss de 
 Glanz vun Denger Guttheet op si schéngen. Schéck hinnen zu all Moment en neie Seegen an erweis hinnen e weidere Gefalen.
@@ -309,7 +365,10 @@ O gëttlech Vorseeung! Mir si schwaach an Du bass de Stäerksten. Mir si wéi bu
 
 
 
-### <a id="bpn13419"></a> Prayer bpn13419 in Lëtzebuergesch
+
+
+<a id="bpn13419"></a> 
+### Prayer bpn13419 in Lëtzebuergesch
 Hien ass den Allherrlechen.
 O mäin Här, mäi Kinnek, mäin Herrscher, a mäi Souverän. Ech riichte mech un Dech mat menger Zong, mengem Häerz, a menger Séil a soen: Kleed Däin Dénger mam Mantel vun Denger Suerg, dem Gewand vun Denger onfeelbarer Hëllef, an der Rüstung vun Dengem Schutz. Stéi him bäi, Dech ze ernimmen an Deng Dugenden ënner Dengem 
 
@@ -321,7 +380,10 @@ Vollek ze luewen, a léis seng Zong, fir dass hien Deng Herrlechkeet an Däi Lue
 
 
 
-### <a id="bpn13420"></a> Prayer bpn13420 in Lëtzebuergesch
+
+
+<a id="bpn13420"></a> 
+### Prayer bpn13420 in Lëtzebuergesch
 O mäi léiwen Här, o Du, de Wonsch vu mengem Häerz a menger Séil!
 
 Schenk Denge Frënn Deng Léift a Guttheet, a gewär hinnen Deng onfeelbar Baarmhäerzegkeet. Sief Du en Trouscht fir déi, déi Dech vu ganzem Häerz gär hunn, an e Frënd, en Tréischter, e léiwe Begleeder  fir déi, déi no Dir verlaangeren. Hir Häerzer brenne mam Feier vun Denger Léift an hir Séile gi vun der Flam vun der Zouwendung zu Dir verziert. Si verlaangeren alleguer, fir séier un den Altor vun der Léift ze kommen, an esou fräiwëlleg hiert Liewen ze loossen.
@@ -334,7 +396,10 @@ O gëttlech Vorseeung! Gewär hinnen Deng Gonscht, féier si op de richtege Wee,
 
 
 
-### <a id="bpn13421"></a> Prayer bpn13421 in Lëtzebuergesch
+
+
+<a id="bpn13421"></a> 
+### Prayer bpn13421 in Lëtzebuergesch
 O gëttlech Vorseeung, 
 Du bass den Ëmmerverzeienden! 
 O	Du allmächtege Gott, Du bass de Gnädegen! Looss dësen Dénger, deen s Du immens gär hues, am Schiet vun Denger Herrlechkeet rouen a gewär, dass dësen Onglécklechen an Aarmen an de Grenze vun Denger Baarmhäerzegkeet gedeit an opblitt. Gëff him ze drénken aus dem Kielech vum Nobäisi bei Dir a looss hien am Schiet vum geseente Bam wunnen. Bewëlleg him d’Éier, Deng Presenz ze erreechen a schenk him éiweg Séilegkeet. Hëllef gnädeg der iwwerliewender Famill vun dëser eedeler Séil, dass si an d’Foussspuere vun hirem léiwe Papp trëtt, säi Charakter a säi Verhalen ënner alle Mënschen erëmspigelt, Dengem Pad nogeet, Däi Gefale sicht an Däi Luef ausschwätzt. Du bass de Gott, deen éiweg gär huet, den Här vun der Mëtschgiewegkeet.
@@ -345,7 +410,10 @@ O	Du allmächtege Gott, Du bass de Gnädegen! Looss dësen Dénger, deen s Du im
 
 
 
-### <a id="bpn13422"></a> Prayer bpn13422 in Lëtzebuergesch
+
+
+<a id="bpn13422"></a> 
+### Prayer bpn13422 in Lëtzebuergesch
 O Du onvergläichleche Gott! 
 Mir sinn Deng damiddeg Dénger an Du bass den Allmächtegen. Mir sënnegen an Du bass den Ëmmerverzeienden. Mir si gefaangen, aarm a bescheiden an Du bass eisen Ënnerdaach an eis Hëllef. Mir si wéi butzeg Seejomessen an Du bass den Här vun der Majestéit um Troun am héchsten Himmel. Beschütz eis, als en Zeeche vun Denger Gnod, an enthal eis Deng Virsuerg an Hëllef net vir. O Här! Deng Prüfunge si wierklech haart an Deng Tester kënne Fundamenter aus Stol an de Koup geheien. Erhal a stäerk eis, ermonter an erfree eis Häerzer. Hëllef eis gnädeg, wéi den ‘Abdu’l-Bahá, Denger helleger Schwell ze déngen.
 
@@ -355,7 +423,10 @@ Mir sinn Deng damiddeg Dénger an Du bass den Allmächtegen. Mir sënnegen an Du
 
 
 
-### <a id="bpn13423"></a> Prayer bpn13423 in Lëtzebuergesch
+
+
+<a id="bpn13423"></a> 
+### Prayer bpn13423 in Lëtzebuergesch
 Hien ass Gott.
 O	Gott, mäi Gott! Mat äusserster Bescheidenheet an Äifer, Damiddegkeet an Ubiedung, bieden ech Dech mat menger Zong a mengem Häerz, mat mengem Geescht a menger Séil, mat mengem Verstand a mengem Gewëssen, dee meeschtgeschätzte vun alle Wënsch ze erfëllen, déi verdéngschtvollst vun allen Doten ze bestëmmen, an all Éier a Vollkommenheet, Gonscht a Schéinheet, Wuelstand a Séilegkeet fir dës Famill ze veruerdnen, déi sech, beim Ubrieche vun Dengem stralende Moien, an Däi schützende Schiet geflass huet an en Ënnerdaach an Dengem sécheren Hafen an Denger mächteger Festung gesicht huet. Wierklech, dës Séilen hunn Dengem Ruff nogelauschtert, sinn no bei Deng Schwell komm, goufe vum Feier vun Denger Léift entflaamt a vun den Otemzich vun Denger Hellegkeet fortgedroen. Si ware bestänneg am Déngscht vun Denger Saach, damiddeg virun Dir an eedel ënner Dengem schützende Schiet. Si sinn ënner Dengem Vollek bekannt als déi, déi Däin Numm droen an ernimmen Dech ënner Dengen Dénger.
 
@@ -368,7 +439,10 @@ O Gott, mäi Gott! Erhief si duerch Deng uréiweg Herrlechkeet, éier si an Deng
 
 
 
-### <a id="bpn13424"></a> Prayer bpn13424 in Lëtzebuergesch
+
+
+<a id="bpn13424"></a> 
+### Prayer bpn13424 in Lëtzebuergesch
 O Här, sou räich u Guttheet a mat Gnod sou voll, Dat Wëssen, ech zudéifst an Häerz a Séil geholl!
 Fréi mueres fënnt meng Séil den Trouscht jo just bei Dir; Meng Nout a Leed keen an‘re kennt, keen ausser Dir.
 Huet unerkannt dat Häerz Däin Numm fir ee Moment
@@ -387,7 +461,10 @@ De Vigel, lues am Fluch, hir Flilleke gebrach schenk Du aus zaarter Gnod zwee ne
 
 
 
-### <a id="bpn13667"></a> Prayer bpn13667 in Lëtzebuergesch
+
+
+<a id="bpn13667"></a> 
+### Prayer bpn13667 in Lëtzebuergesch
 Hien ass den Allherrlechen, de Stralendsten.
 
 O gëttlech Vorseeung, o verzeienden Här! Wéi kann ech jeemools zerguttst däi Luef sangen oder Dech genuch veréieren a verherrlechen? Deng Beschreiwung duerch iergend eng Zong ass näischt aneres wéi Iertum an Deng Duerstellung duerch iergend eng Fieder ass e Beweis fir d’Topegkeet vun deenen, déi sech un dëser gewalteger Aufgab versichen. D’Zong ass nëmmen en Instrument, dat aus Elementer zesummegesat ass; Stëmm a Sprooch sinn näischt aneres wéi zoufälleg Attributer. Wéi kann ech also mam Instrument vun enger ierdescher Stëmm, de Luef feiere vun Him, dee weeder sengesgläichen huet, nach een, deen Him gläicht. Alles, wat ech soen oder siche kann, ass beschränkt duerch de Verstand vum mënschleche Geescht an ageschloss bannent de Grenze vun der mënschlecher Welt. Wéi ka mënschlecht Denken jeemools déi héchst Spëtze vu gëttlecher Hellegkeet erklammen a wéi kann d’Spann vun eideler Abildung jeemools hiert zerbriechlecht Netz vun huele Virstellungen iwwer d’Heem vun der Hellegkeet wiewen? Näischt kann ech maachen, ausser meng Schwächt ze bezeien a mäi Versoen anzegestoen. Du bass, a Wierklechkeet, Deen, deen alles besëtzt, den Onerreechbaren, Deen, deen héich iwwerem Versteesdemech vun deene schwieft, déi mat Verstand ausgerëscht sinn.
@@ -399,9 +476,13 @@ O gëttlech Vorseeung, o verzeienden Här! Wéi kann ech jeemools zerguttst däi
 
 
 
+
+
+<a id="Ayyám-i-Há"></a> 
 ## Ayyám-i-Há
 
-### <a id="bpn13653"></a> Prayer bpn13653 in Lëtzebuergesch
+<a id="bpn13653"></a> 
+### Prayer bpn13653 in Lëtzebuergesch
 *Déi extra Deeg, tëschent dem 18. Mount, Mulk, an dem 19. Mount, ‘Ala, normalerweis vum 26. Februar bis zum 1. Mäerz, sinn do, fir sech op d’Faaschtenzäit virzebereeden. Et sinn Deeg vu Gaaschtfrëndlechkeet, wou een eppes fir e gudden Zweck ka ginn a wou ee Geschenker mécht.
 
 Mäi Gott, mäi Feier a mäi Liicht! Déi Deeg, déi s Du an Dengem Buch Ayyám-i-Há  genannt hues, hunn ugefaangen, o Du Kinnek vun allen Nimm, an d’Faaschtenzäit, déi Deng héchste Fieder all deenen zur Flicht gemaach huet, déi am Kinnekräich vun Denger Schëpfung sinn, kënnt ëmmer méi no. Ech bieden Dech, o mäin Här, bei dësen Deeg a bei all deenen, déi sech wärend dëser Zäit un d’Seel vun Denge Geboter klameren, a sech un de Grëff vun Denge Virschrëften halen, gëff, dass jiddwer Séil eng Plaz no bei Dengen Haff bestëmmt ass, e Sëtz bei der Offenbarung vum Glanz vun der Luucht vun Dengem Ubléck.
@@ -419,9 +500,13 @@ Ech bieden Dech, O Du Kinnek vun de Kinneken, dee Matleed mat den Ënnerdréckte
 
 
 
+
+
+<a id="Besuchstablett, Bahá’u’lláh an de Báb"></a> 
 ## Besuchstablett, Bahá’u’lláh an de Báb
 
-### <a id="bpn13662"></a> Prayer bpn13662 in Lëtzebuergesch
+<a id="bpn13662"></a> 
+### Prayer bpn13662 in Lëtzebuergesch
 *Dës Tablett gëtt an de Schräiner vum Bahá’u’lláh a vum Báb gelies. Et gëtt och dacks benotzt fir Hiren Doudesdeeg ze gedenken.
 
 De Luef, deen aus Dengem héchsterhuewene Wiesen ervirgeet, an d’Herrlechkeet, déi aus Denger stralender Schéinheet schéngt, rouen op Dir, o Du, deen s Du d’Offenbarung vun der Gréisst bass, de Kinnek vun der Éiwegkeet, an den Här iwwer all, déi am Himmel an op der Äerd sinn. Ech bezeien, dass duerch Dech d‘Herrschaft vu Gott a Säi Räich an d’Majestéit vu Gott a Seng Gréisst offenbaart sinn, an d’Sonne vun uréiweger Pracht hire Glanz op den Himmel vun Denger onwidderruflecher Veruerdnung stralen an d’Schéinheet vum Onsichtbaren iwwerem Horizont vun der Schëpfung schéngt. Ech bezeien ausserdeem, dass mat enger eenzeger Beweegung vun Denger Fieder Däi Gebot “Sief!” a Kraaft gesat, Gottes verbuergent Geheimnis opgedeckt an alles Erschafent an d’Liewe geruff an all d‘Offenbarungen erofgeschéckt sinn.
@@ -445,9 +530,13 @@ Seen Du, O Här mäi Gott, de gëttleche Bam a seng Blieder a seng Äscht a seng
 
 
 
+
+
+<a id="Besuchstablett, ‘Abdu’l‑Bahá"></a> 
 ## Besuchstablett, ‘Abdu’l‑Bahá
 
-### <a id="bpn13663"></a> Prayer bpn13663 in Lëtzebuergesch
+<a id="bpn13663"></a> 
+### Prayer bpn13663 in Lëtzebuergesch
 *Dës Tablett, dat Abdu’l-Bahá offenbaart huet, gëtt a Sengem Schräin gelies. Et gëtt och als privat Gebiet benotzt. Wien och ëmmer dëst Gebiet mat Bescheidenheet an Äifer virliest, bréngt dem Häerz vun dësem Dénger Freed a Gléck; et ass esou wéi wann hien Him géing perséinlech begéinen.
 
 Hien ass den Allherrlechen!
@@ -469,9 +558,13 @@ Du bass Deen, dee schenkt, de Matleedvollen, de Generéisten, de Gnädegen, de B
 
 
 
+
+
+<a id="Bond"></a> 
 ## Bond
 
-### <a id="bpn13574"></a> Prayer bpn13574 in Lëtzebuergesch
+<a id="bpn13574"></a> 
+### Prayer bpn13574 in Lëtzebuergesch
 Verfesteg eis Schrëtt op Dengem Pad, o Här, a stäerk Du eis Häerzer andeems mir Dir follegen. Dréi eis Gesiichter der Schéinheet vun Denger Eenzegkeet zou, an erfree eist Häerz mat den Zeeche vun Denger gëttlecher Eenheet. Verschéiner eis Leiwer mam Kleed vun Denger Guttheet, huel de Schleier vun der Sëndhaftegkeet vun eisen Aen ewech, a reech eis de Kielech vun Denger Gnod; fir datt d‘Essenz vun all Wiesen Däi Luef sange ka beim Ubléck vun Denger Gréisst. Offenbar Dech dann, o Här, duerch Däi baarmhäerzegt Wuert an d’Geheimnis vun Dengem gëttleche Wiesen, fir dass déi helleg Extas vum Gebiet eis Séile fëlle kann – e Gebiet dat sech wäert iwwer Wierder a Buschtawen erhiewen an iwwer d’Gegrommels vu Silben an Téin erauswiisst, fir dass all Saachen an en Näischt zesummefléisse kënnen - virun der Offenbarung vun Dengem Glanz.
 
 Här, dëst sinn Dénger, déi fest a standhaft an Dengem Bond an Testament bliwwe sinn, déi sech festgehal hunn um Seel vun der Bestännegkeet an Denger Saach, an déi sech un de Som vum Kleed vun Denger Gréisst geklamert hunn. Stéi hinne bäi, O Här, mat Denger Gnod, bestäteg si mat Denger Muecht a stäerk hir Lenne fir dengem Gebot nozegoen.
@@ -485,9 +578,13 @@ Du bass Deen, dee verzeit, de Gnädegen.
 
 
 
+
+
+<a id="Dugenden"></a> 
 ## Dugenden
 
-### <a id="bpn8213"></a> Prayer bpn8213 in Lëtzebuergesch
+<a id="bpn8213"></a> 
+### Prayer bpn8213 in Lëtzebuergesch
 Schaf a mir e rengt Häerz, o mäi Gott, a gëff mir op en Neits e rouegt Gewëssen, o meng Hoffnung! Bestäteg Du mech an Denger Saach duerch de Geescht vun der Muecht, o meng grouss Léift, a looss mech Däi Wee kucken duerch d’Liicht vun Denger Herrlechkeet, o Du d’Zil vu mengem Verlaangeren! Erhief mech mat der Kraaft vun Denger transzendenter Muecht an den Himmel vun Denger Hellegkeet, o Quell vu menger Existenz, an erfree mech duerch den duusse Wand vun Denger Éiwegkeet, o Du, deen s Du mäi Gott bass! Looss Deng éiweg Melodië Rou iwwer mech stréimen, o mäi Begleeder, a looss de Räichtum vun Dengem uréiwegen Ubléck mech fräimaache vun allem ausser Dir, o mäi Meeschter, a looss d’Noriichte vun der Offenbarung vun Dengem onvergängleche Wiese mir Freed bréngen, o Du, den Offensichtlechste vun all deenen déi offensichtlech sinn, an de Verbuergenste vun all deenen déi verbuerge sinn!
 
 (Source category: Dugenden)
@@ -496,7 +593,10 @@ Schaf a mir e rengt Häerz, o mäi Gott, a gëff mir op en Neits e rouegt Gewës
 
 
 
-### <a id="bpn8217"></a> Prayer bpn8217 in Lëtzebuergesch
+
+
+<a id="bpn8217"></a> 
+### Prayer bpn8217 in Lëtzebuergesch
 O Gott, mäi Gott! Du bass meng Hoffnung an Deen, deen ech gär hunn, mäin héchstent Zil a Verlaangen! An déiwer Demutt an a ganzer Devotioun bieden ech Dech, maach mech zum Minarett vun Denger Léift an Dengem Land, eng Luucht vun Dengem Wëssen ënner Denge Kreaturen, an e Fändel vu gëttlecher Guttheet an Dengem Räich.
 
 (Source category: Dugenden)
@@ -506,9 +606,13 @@ O Gott, mäi Gott! Du bass meng Hoffnung an Deen, deen ech gär hunn, mäin héc
 
 
 
+
+
+<a id="Eenheet a Fridden"></a> 
 ## Eenheet a Fridden
 
-### <a id="bpn8211"></a> Prayer bpn8211 in Lëtzebuergesch
+<a id="bpn8211"></a> 
+### Prayer bpn8211 in Lëtzebuergesch
 O mäi Gott, o mäi Gott! Vereeneg d’Häerzer vun Dengen Dénger a weis hinnen Däi grousse Plang; datt si Denge Geboter kënnen nogoen an Däi Gesetz beuechten. Hëllef hinnen, o Gott, an hirem Beméien, a schenk hinne Kraaft, Dir ze déngen. O Gott! Iwwerlooss si net sech selwer, mee leet hir Schrëtt mam Liicht vun Dengem Wëssen, an erfree hir Häerzer mat Denger Léift. Du bass wierklech Deen, Deen hinnen hëlleft  an Du bass hiren Här.
 
 (Source category: Eenheet a Fridden)
@@ -517,7 +621,10 @@ O mäi Gott, o mäi Gott! Vereeneg d’Häerzer vun Dengen Dénger a weis hinnen
 
 
 
-### <a id="bpn13575"></a> Prayer bpn13575 in Lëtzebuergesch
+
+
+<a id="bpn13575"></a> 
+### Prayer bpn13575 in Lëtzebuergesch
 O du gudden Här! Du hues d’ganz Mënschheet aus deem selwechte Stamm erschaf. Du hues bestëmmt, dass si all zum nämmlechte Stot gehéieren. An Denger helleger Präsenz si si all Deng Dénger, an d’ganz Mënschheet fënnt en Ënnerdaach an Dengem Hellegtum. Si sinn all um Dësch vun Denger Mëtschgiewegkeet versammelt; si sinn all erliicht vun der Luucht vun Denger Vorseeung.
 
 O Gott! Du bass gutt zu jiddwerengem, Du suergs fir jiddwereen, Du pass op jiddwereen op, Du gëss jiddwerengem d’Liewen. Du hues jiddwerengem Talenter a Fäegkeete ginn, an alleguer si si an d’Mier vun Dengem Erbaarme gedaucht.
@@ -541,9 +648,13 @@ Du bass de Mächtegen an de Staarken, Du bass Deen, dee verzeit an Deen, deen d�
 
 
 
+
+
+<a id="Elteren"></a> 
 ## Elteren
 
-### <a id="bpn13576"></a> Prayer bpn13576 in Lëtzebuergesch
+<a id="bpn13576"></a> 
+### Prayer bpn13576 in Lëtzebuergesch
 Et gehéiert sech, dass den Dénger no all Gebiet Gott biet, sengen Elteren Erbaarmen a Verzeiung ze bewëllegen. Esou wäert d’Stëmm vu Gott sech erhiewen: «Wat s du fir Deng Eltere gefrot hues, kriss du dausendfach als Belounung!» Geseent ass deen, deen u seng Elteren denkt, wann hie mat Gott kommunizéiert. A Wierklechkeet gëtt et keen anere Gott ausser Him, de Mächtegen, Deen, dee jiddweree gär huet.
 
 (Source category: Elteren)
@@ -552,7 +663,10 @@ Et gehéiert sech, dass den Dénger no all Gebiet Gott biet, sengen Elteren Erba
 
 
 
-### <a id="bpn13577"></a> Prayer bpn13577 in Lëtzebuergesch
+
+
+<a id="bpn13577"></a> 
+### Prayer bpn13577 in Lëtzebuergesch
 O Här! An dëser gréisster Offenbarung akzeptéiers Du d’Gebieder vun de Kanner fir hir Elteren. Dat ass eng vun de besonneschen, onendleche Geschenker vun dëser Offenbarung. Akzeptéier dofir, o Du generéisen Här, d’Ufro vun Dengem Dénger op der Schwell vun Denger Eenzegkeet an dauch säi Papp an den Ozean vun denger Gnod, well dëse Jong huet sech erhuewen, fir Dir ze déngen, a beméit sech zu jiddwer Zäit um Wee vun Denger Léift. Du bass wierklech Deen, dee gëtt, Deen, dee verzeit, an de Gnädegen.
 
 (Source category: Elteren)
@@ -561,7 +675,10 @@ O Här! An dëser gréisster Offenbarung akzeptéiers Du d’Gebieder vun de Kan
 
 
 
-### <a id="bpn13578"></a> Prayer bpn13578 in Lëtzebuergesch
+
+
+<a id="bpn13578"></a> 
+### Prayer bpn13578 in Lëtzebuergesch
 O gëttlech Vorseeung!
 
 Dauch de Papp an d’Mamm vun dësem Dénger un Denger Schwell an den Ozean vun Denger Verzeiung a rengeg an helleg si vun all Sënn a Verstouss. Gewär hinnen Deng Verzeiung a Baarmhäerzegkeet a schenk hinnen Däi gnädege Pardon. Du bass wierklech den Nosiichtegen, Deen, deen ëmmer verzeit, de Spender vu räichlecher Gnod. O Du verzeienden Här! Obwuel mir sënnegen, sinn eis Hoffnungen dach op däi Verspriechen an Deng Zousécherung geriicht. Obwuel mir vun der Däischtert vum Iertum ageschloss sinn, hu mir dach zu allen Zäiten eist Gesiicht dem Muere vun Denger generéiser Gonscht  zougewant. Géi esou mat eis ëm, wéi et Denger Schwell entsprécht a schenk eis dat, wat Dengem Haff würdeg ass. Du bass den Ëmmerverzeienden, de Gnädegen, Deen, deen all Mangel iwwersäit.
@@ -573,9 +690,13 @@ Dauch de Papp an d’Mamm vun dësem Dénger un Denger Schwell an den Ozean vun 
 
 
 
+
+
+<a id="Empfänglech Séile sichen"></a> 
 ## Empfänglech Séile sichen
 
-### <a id="bpn13579"></a> Prayer bpn13579 in Lëtzebuergesch
+<a id="bpn13579"></a> 
+### Prayer bpn13579 in Lëtzebuergesch
 O mäi Gott, hëllef Du Dengem Dénger Däi Wuert ze erhéijen, alles ze verwerfen, wat ëmsoss a falsch ass, d’Wourecht ze verbreeden, d‘helleg Versen uechter d‘Welt bekanntzemaachen, d‘Herrlechkeet opzedecken an d’Moiesliicht an den Häerzer vun de Gerechten opgoen ze loossen. Du bass wierklech de Generéisen, Deen, dee verzeit.
 
 (Source category: Empfänglech Séile sichen)
@@ -584,7 +705,10 @@ O mäi Gott, hëllef Du Dengem Dénger Däi Wuert ze erhéijen, alles ze verwerf
 
 
 
-### <a id="bpn13580"></a> Prayer bpn13580 in Lëtzebuergesch
+
+
+<a id="bpn13580"></a> 
+### Prayer bpn13580 in Lëtzebuergesch
 O Gott, mäi Gott! Hëllef Dengen treien Dénger, Häerzer ze hunn, déi voller Léift an zaart sinn. Hëllef hinnen, d’Liicht vun der Féierung, dat vun der Himmlescher Versammlung ausstréimt, ënner all den Natioune vun der Äerd ze verbreeden. Du bass wierklech de Staarken, de Gewaltegen, de Mächtegen, Deen, deen alles ënnerwerft an ëmmer verzeit. Du bass wierklech de Generéisen, den Duussen, Deen, dee matfillt, de Mëtschgiewegsten.
 
 (Source category: Empfänglech Séile sichen)
@@ -593,7 +717,10 @@ O Gott, mäi Gott! Hëllef Dengen treien Dénger, Häerzer ze hunn, déi voller 
 
 
 
-### <a id="bpn13581"></a> Prayer bpn13581 in Lëtzebuergesch
+
+
+<a id="bpn13581"></a> 
+### Prayer bpn13581 in Lëtzebuergesch
 O Du onvergläichleche Gott! O Du Här vum Kinnekräich! Dës Séilen sinn Deng himmlesch Arméi. Ënnerstëtz Du si, a mat der Mass vun himmleschen Truppen, do si gewannen, esou datt jiddwereng vun hinne wéi e Regiment gëtt an déi Länner hei eruewert duerch d’Léift vu Gott an duerch d’Erliichtung vun deem wat Hien eis léiert.
 
 O Gott! Sief Du Deen, deen hinne bäisteet an hëlleft. An der Wëldnes, an de Bierger, am Dall an an de Bëscher, op de Steppen an um Mier sief Du hire Vertrauten, fir dass si duerch d’Muecht vum Kinnekräich an dem Otem vum Hellege Geescht hire Ruff erklénge loossen.
@@ -606,7 +733,10 @@ Du bass wierklech de Mächtegen, de Staarken an den Allmächtegen, an Du bass de
 
 
 
-### <a id="bpn13582"></a> Prayer bpn13582 in Lëtzebuergesch
+
+
+<a id="bpn13582"></a> 
+### Prayer bpn13582 in Lëtzebuergesch
 O mäi Gott! O mäi Gott! Du gesäis, wéi ech mech, kleng a schwaach, mat der gréisster Aufgab beschäftegen, entschloss Däi Wuert ënner de Massen ze erhiewen, an Deng Léieren ënner de Vëlker ze verbreeden. Wéi kann ech erfollegräich sinn, et sief dann, Du stees mir bäi mam Otem vum Hellege Geescht, Du hëllefs mir zum Triumph duerch d’Truppe vun Dengem herrleche Räich, an Du léiss Deng Bestätegungen op mech erofreenen, déi eleng eng Méck an en Adler verwandele kënnen, eng Drëps Waasser a Stréim a Mierer, an en Atom a Liichter a Sonnen? O mäin Här! Stéi mir bäi mat Denger triumphéierender Muecht, déi alles duerchdréngt, fir dass meng Zong Däi Luef an Deng Eegenschaften ënner all de Leit luewe wäert a meng Séil iwwerleeft mam Wäi vun Denger Léift an Dengem Wëssen.
 Du bass den Allmächtegen an Du méchs, wat och ëmmer s Du wëlls.
 
@@ -616,7 +746,10 @@ Du bass den Allmächtegen an Du méchs, wat och ëmmer s Du wëlls.
 
 
 
-### <a id="bpn13583"></a> Prayer bpn13583 in Lëtzebuergesch
+
+
+<a id="bpn13583"></a> 
+### Prayer bpn13583 in Lëtzebuergesch
 O Gott, o Du, deen s Du Deng Herrlechkeet iwwer déi liichtend Wierklechkeete vun de Mënschen ausstraals, iwwer si den helle Glanz vum Wëssen an der Féierung ausschëtts, a si ënner allen erschafene Saache fir dës héchst Gnod auserwielt hues, a si all Saache begräifen dees, an hiert bannenzegst Wiese verstoen, an hir Geheimnisser erschléisse léiss, a si aus der Däischtert an d’Welt vum Sichtbare bréngs! „Wierklech, Hie weist Seng besonnesch Gnod, wiem och ëmmer Hie wëll. “
 
 O Här, hëllef Du deenen, déi Dech gär hunn, sech Kenntnisser, Wëssenschaften a Konscht unzëeegnen an d’Geheimnisser ze entschleieren, déi an der bannenzegster Wierklechkeet vun allem Erschafenen opgehuewe sinn. Looss si déi verbuerge Wourechten erkennen, déi am Häerz vun allem, wat ass, geschriwwen a verankert sinn. Maach si zu Zeeche vun der Féierung fir all Liewewiesen, zu duerchdréngende Strale vum Geescht, déi hiert Liicht an dëst, „dat éischt Liewen “ ausgéissen. Maach dass si d’Mënschen zu Dir leeden, Hierten op Dengem Pad, Bueten, déi d’Mënschen opruffen, sech Dengem Kinnekräich zouzewenden.
@@ -630,9 +763,13 @@ Du bass wierklech de Gewaltegen, de Beschützer, de Staarken, de Verdeedeger, de
 
 
 
+
+
+<a id="Erausfuerderungen an Tester"></a> 
 ## Erausfuerderungen an Tester
 
-### <a id="bpn13584"></a> Prayer bpn13584 in Lëtzebuergesch
+<a id="bpn13584"></a> 
+### Prayer bpn13584 in Lëtzebuergesch
 Gëtt et een, dee Schwieregkeeten ewechhëlt ausser Gott? So: Gelueft sief Gott! Hien ass Gott! Si sinn all Seng Dénger, an all hale sech u Säi Gebot
 
 (Source category: Erausfuerderungen an Tester)
@@ -641,7 +778,10 @@ Gëtt et een, dee Schwieregkeeten ewechhëlt ausser Gott? So: Gelueft sief Gott!
 
 
 
-### <a id="bpn13585"></a> Prayer bpn13585 in Lëtzebuergesch
+
+
+<a id="bpn13585"></a> 
+### Prayer bpn13585 in Lëtzebuergesch
 So: Gott geet allem duer, an iwwer alles ewech, an näischt an den Himmelen an op der Äerd, kann duergoen ausser Gott. A Wierklechkeet ass Hie selwer Deen, dee weess, deen ënnerstëtzt, den Allmächtegen.
 
 (Source category: Erausfuerderungen an Tester)
@@ -650,7 +790,10 @@ So: Gott geet allem duer, an iwwer alles ewech, an näischt an den Himmelen an o
 
 
 
-### <a id="bpn13586"></a> Prayer bpn13586 in Lëtzebuergesch
+
+
+<a id="bpn13586"></a> 
+### Prayer bpn13586 in Lëtzebuergesch
 O gëttlech Vorseeung!
 
 Komplizéiert Schwieregkeete sinn opkomm a gewalteg Hindernisser opgedaucht. O Här! Huel dës Schwieregkeeten ewech a lee eis d’Beweiser vun Denger Muecht a Kraaft vir. Erliichter dës haart Ëmstänn a maach eise Wee fräi op dësem beschwéierleche Pad. O gëttlech Vorseeung! Dës Hindernisser ginn net no an eis Méi an Nout si mat onendlech vill Misär verbonnen. Keen hëlleft ausser Dir, a kee leescht Bäistand ausser Dir. Mir setzen all eis Hoffnung op Dech a leeën all eis Ugeleeënheeten an Deng Hänn. Du leets eis an hëls all Schwieregkeet ewech an Du bass de Weisen, Deen, dee gesäit an héiert.
@@ -661,7 +804,10 @@ Komplizéiert Schwieregkeete sinn opkomm a gewalteg Hindernisser opgedaucht. O H
 
 
 
-### <a id="bpn13587"></a> Prayer bpn13587 in Lëtzebuergesch
+
+
+<a id="bpn13587"></a> 
+### Prayer bpn13587 in Lëtzebuergesch
 O Du onvergläichleche Gott!
 
 Mir sinn Deng damiddeg Dénger an Du bass den Allmächtegen. Mir sënnegen an Du bass den Ëmmerverzeienden. Mir si gefaangen, aarm a bescheiden an Du bass eisen Ënnerdaach an eis Hëllef. Mir si wéi butzeg Seejomessen an Du bass den Här vun der Majestéit um Troun am héchsten Himmel. Beschütz eis, als en Zeeche vun Denger Gnod, an enthal eis Deng Virsuerg an Hëllef net vir.
@@ -674,9 +820,13 @@ O Här! Deng Prüfunge si wierklech haart an Deng Tester kënne Fundamenter aus 
 
 
 
+
+
+<a id="Faaschten"></a> 
 ## Faaschten
 
-### <a id="bpn13654"></a> Prayer bpn13654 in Lëtzebuergesch
+<a id="bpn13654"></a> 
+### Prayer bpn13654 in Lëtzebuergesch
 * “Am Kitáb-i-Aqdas steet: „Mir hunn iech operluecht, vum Alter vun der Maturitéit (15 Joer) aus un, ze bieden an ze faaschten. Dat ass vu Gott, ärem Här an dem Här vun äre Virfare bestëmmt... . Deen, dee reest oder krank ass, Fraen, déi schwanger sinn oder déi nieren, brauchen net ze faaschten... . Enthaalt iech dem Iessen an dem Drénken, vu Sonnenopgang bis Sonnenënnergang a passt op, dass Loscht iech net vun där Gnod ofhält, déi am Buch bestëmmt ass.”
 
 *D’Faaschtenzäit ass vum 1. oder 2. bis den 19. oder 20. Mäerz.
@@ -722,7 +872,10 @@ Ech bieden Dech, o mäin Här, bei Dir a bei Dengen Zeechen, a bei Dengen däitl
 
 
 
-### <a id="bpn13655"></a> Prayer bpn13655 in Lëtzebuergesch
+
+
+<a id="bpn13655"></a> 
+### Prayer bpn13655 in Lëtzebuergesch
 Glécklech sidd dir, dass dir dem Gebot vu Gott gefollegt an dëst Faaschten an der helleger Zäit agehal hutt; well dëst kierperlecht Faaschten ass en äusserlecht Zeeche vum geeschtege Faaschten; et ass e Symbol vu sech zeréckhalen, dofir, dass een all der Loscht vum Ego entseet, an esou d’Eegenaarte vum Geescht unhëlt, fortgedroe gëtt vum himmleschen Otem, an u Gottes Léift Feier fänkt.
 
 (Source category: Faaschten)
@@ -731,7 +884,10 @@ Glécklech sidd dir, dass dir dem Gebot vu Gott gefollegt an dëst Faaschten an 
 
 
 
-### <a id="bpn13656"></a> Prayer bpn13656 in Lëtzebuergesch
+
+
+<a id="bpn13656"></a> 
+### Prayer bpn13656 in Lëtzebuergesch
 O Gott! Esou wéi ech mech vu kierperleche Wënsch enthalen a mech net mat Iessen an Drénken ofginn, genee esou maach Du mäin Häerz a mäi Liewe reng a gehellegt vun allem ausser Denger Léift, a verdeedeg a beschütz meng Séil vun egoistescher Leidenschaft an déiereschem Begieren, fir dass mäi Geescht sech mam Doft vum Hellege verbënnt, a faascht vum Ernimme vun allem ausser Dir.
 
 (Source category: Faaschten)
@@ -741,9 +897,13 @@ O Gott! Esou wéi ech mech vu kierperleche Wënsch enthalen a mech net mat Iesse
 
 
 
+
+
+<a id="Festegkeet am Bond"></a> 
 ## Festegkeet am Bond
 
-### <a id="bpn8210"></a> Prayer bpn8210 in Lëtzebuergesch
+<a id="bpn8210"></a> 
+### Prayer bpn8210 in Lëtzebuergesch
 O du matleedvolle Gott! Schenk mer en Häerz, dat wéi e Glas, mam Liicht vun Denger Léift, erliicht gëtt, a gëff mer Gedanken, déi dës Welt duerch d’Ausgéissungen himmlescher Gnod an e Rousegaart verwandelen.
 
 (Source category: Festegkeet am Bond)
@@ -753,9 +913,13 @@ O du matleedvolle Gott! Schenk mer en Häerz, dat wéi e Glas, mam Liicht vun De
 
 
 
+
+
+<a id="Fongen"></a> 
 ## Fongen
 
-### <a id="bpn13590"></a> Prayer bpn13590 in Lëtzebuergesch
+<a id="bpn13590"></a> 
+### Prayer bpn13590 in Lëtzebuergesch
 *All d’Frënn vu Gott ... sollte spenden, sou vill se kënnen, wéi bescheiden och ëmmer hire Bäitrag ass. Gott belaascht keng Séil iwwer hir Capacitéit. Spende musse vun iwwerall a vun all Gleewegem kommen. ... O Frënn vu Gott! Sidd dees gewëss, dass fir dës Spenden är Landwirtschaft, är Industrie an ären Handel mat vilfältegem Wuesstem a räiche Geschenker geseent ginn. Deen, deen eng gutt Dot vollbréngt, wäert zéngfache Loun kréien. Ouni Zweiwel wäert de liewege Gott déi, déi hiert Verméigen op Sengem Pad hierginn, räich bestätegen.
 
 O Gott, mäi Gott! Erliicht d’Stir vun deenen, déi Dech wierklech gär hunn, a stéi hinne bäi mat der Arméi vun den Engelen, déi sécher zum Triumph féieren. Setz hir Schrëtt sécher op Dengem riichte Pad, an aus Denger uréiweger Generositéit, maach hinnen d’Diere vun Dengem Seegen op; well op Dengem Pad, ginn si ewech, wat s Du hinne ginn hues, andeems si de Glawe schützen, hiert Vertrauen an däi Gedenke setzen, hir Häerzer aus Léift zu Dir hierginn, an a Veréierung vun Denger Schéinheet, an op der Sich no Dengem Gefalen, net zeréckhalen, wat si besëtzen.
@@ -771,9 +935,13 @@ Wierklech, Du bass Deen, deen erhält an hëlleft, de Generéisen, de Mëtschgie
 
 
 
+
+
+<a id="Féierung"></a> 
 ## Féierung
 
-### <a id="bpn13588"></a> Prayer bpn13588 in Lëtzebuergesch
+<a id="bpn13588"></a> 
+### Prayer bpn13588 in Lëtzebuergesch
 O mäin Här! O mäin Här! Dëst ass eng Luucht, ugefaangen duerch d’Feier vun Denger Léift, déi hellewech brennt mat der Flam, déi um Bam vun Dengem Erbaarmen ugefaange gouf. O mäin Här! Looss si duerch d'Feier, dat am Sinaï vun Denger Offenbarung entfacht ass, nach méi staark, méi gliddeg a mat méi enger grousser Flam brennen! Du bass wierklech Deen, dee bestätegt, dee bäisteet, de Gewaltegen, de Generéisen, Deen, dee gär huet.
 
 (Source category: Féierung)
@@ -782,7 +950,10 @@ O mäin Här! O mäin Här! Dëst ass eng Luucht, ugefaangen duerch d’Feier vu
 
 
 
-### <a id="bpn13589"></a> Prayer bpn13589 in Lëtzebuergesch
+
+
+<a id="bpn13589"></a> 
+### Prayer bpn13589 in Lëtzebuergesch
 O Här, eise Gott!
 
 Mir sinn hëlleflos; Du bass den Här vu Stäerkt a Muecht. Mir sinn erbäermlech; Du bass den Allmächtegen, den Allherrlechen. Mir sinn aarm; Du bass Deen, deem alles gehéiert, de Generéisten. Stéi eis gnädeg bäi an eiser Ënnerwerfung un Denger helleger Schwell, an hëllef eis duerch Deng stäerkend Gnod, Dech op de Plaze vum Sonnenopgang vun Dengem Luef ze veréieren. Befäeg eis, Däin hellegen Doft ënner Denge Kreaturen ze verbreeden a stäerk eis Lennen, fir Dir ënner Dengen Dénger ze déngen, esou dass mir all d’Natiounen zu Dengem gréissten Numm féieren an all Vëlker un d’Ufere vum herrlechen Ozean vun Denger Eenheet leede kënnen.
@@ -795,9 +966,13 @@ O Här! Erléis eis vun de Bindunge vun der Welt an hire Vëlker, vun den Iwwers
 
 
 
+
+
+<a id="Geeschteg Qualitéiten"></a> 
 ## Geeschteg Qualitéiten
 
-### <a id="bpn13591"></a> Prayer bpn13591 in Lëtzebuergesch
+<a id="bpn13591"></a> 
+### Prayer bpn13591 in Lëtzebuergesch
 Ech bieden Dech, o mäi Gott, bei all der transzendenter Éier vun Dengem Numm, déi, déi s Du gär hues, an d’Kleed vun der Gerechtegkeet ze kleeden, an hir Wiese mam Luucht vum Vertrauen ze erliichten. Du bass Deen, deen d’Muecht huet, ze maache wéi Hie wëllt, an deen a sengem Grëff d’Geschécker vun alle Saachen hält, sichtbar an onsichtbar.
 
 (Source category: Geeschteg Qualitéiten)
@@ -806,7 +981,10 @@ Ech bieden Dech, o mäi Gott, bei all der transzendenter Éier vun Dengem Numm, 
 
 
 
-### <a id="bpn13592"></a> Prayer bpn13592 in Lëtzebuergesch
+
+
+<a id="bpn13592"></a> 
+### Prayer bpn13592 in Lëtzebuergesch
 Vun de séiss-doftege Stréimunge vun Denger Éiwegkeet gëff mer ze drénken, o mäi Gott, a vun de Friichte vum Bam vun Dengem Wiesen erlab mer ze schmaachen, o meng Hoffnung! Vun de kristallene Quelle vun Denger Léift looss mech vëlleg drénken, o meng Herrlechkeet, an am Schied vun Denger onvergänglecher Vorseeung looss mech wunnen, o meng Luucht! An de Wisen no bei Dir, an Denger Präsenz, looss mech dorëmmer goen, o Du, deen ech gär hunn, a setz mech zur rietser Hand vum Troun vun Dengem Erbaarmen, o mäi Verlaangeren! Vun der dofteger Lëftche vun Denger Freed looss en Hauch iwwer mech zéien, o mäin Zil, a looss mech eran an d’Héichte vum Paradis vun Denger Wierklechkeet, o mäin Ugebieten! De Melodië vun der Dauf vun Denger Eenheet looss mech nolauschteren, o Du Stralenden, an duerch de Geescht vun Denger Kraaft a Muecht belief mech, o Du, dee mech versuergt! Am Geescht vun Denger Léift looss mech standhaft bleiwen, o meng Hëllef, an um Wee fir Dir ze gefalen, stäerk meng Schrëtt, o mäi Schëpfer! Am Gaart vun Denger Onstierflechkeet, virun Dir, looss mech fir ëmmer bleiwen, o Du, deen s Du baarmhäerzeg zu mir bass, an um Sëtz vun Denger Herrlechkeet, looss mech néier, o Du, deen s Du mäi Meeschter bass! An den Himmel vun Denger Léift a Guttheet erhief mech, o Du, deen s Du mech beliefs, an zum Himmel vun Denger Féierung leed mech, o Du, deen s Du mech unzitts! Virun den Offenbarunge vun Dengem onsichtbare Geescht fuerder mech op präsent ze sinn, o Du mäin Ursprong a mäin héchste Wonsch, an zur Essenz vum Doft vun Denger Schéinheet, déi s Du manifestéiere wäerts, maach, dass ech zeréckkommen, o Du, deen s Du mäi Gott bass!
 
 Du hues d’Muecht ze maachen, wat Dir gefält. Du bass wierklech de Souveräänsten, den Allherrlechen, den Allerhéchsten.
@@ -817,7 +995,10 @@ Du hues d’Muecht ze maachen, wat Dir gefält. Du bass wierklech de Souverään
 
 
 
-### <a id="bpn13593"></a> Prayer bpn13593 in Lëtzebuergesch
+
+
+<a id="bpn13593"></a> 
+### Prayer bpn13593 in Lëtzebuergesch
 O mäin Här! Looss deng Schéinheet meng Narung ginn, Deng Präsenz mäi Gedrénks, Däi Gefale meng Hoffnung, Däi Luef meng Aktioun, d’Gedenken un Dech mäi Begleeder, d’Muecht vun Denger Herrschaft mäi Bäistand, Deng Wunneng mäin Doheem, a mäi Wunnsëtz en Uert, deen s Du gehellegt hues vun de Grenzen, déi deenen operluecht goufen, déi wéi duerch e Schleier vun Dir getrennt sinn.
 
 Du bass, wierklech, den Allmächtegen, den Allherrlechen, de Gewaltegsten.
@@ -828,7 +1009,10 @@ Du bass, wierklech, den Allmächtegen, den Allherrlechen, de Gewaltegsten.
 
 
 
-### <a id="bpn13594"></a> Prayer bpn13594 in Lëtzebuergesch
+
+
+<a id="bpn13594"></a> 
+### Prayer bpn13594 in Lëtzebuergesch
 Verherrlecht sief Däin Numm, o mäi Gott, duerch deen d’Beem am Gaart vun Denger Offenbarung mat Gréngs agekleet goufen, a si d’Friichte vun der Hellegkeet ausgedroen hunn an dëser Fréijoerszäit, wou sech de séisse Geschmaach vun Denger Gefällegkeet an Dengem Seegen iwwer alles leet an et ervirbréngen deet, wat am Kinnekräich vun Dengem onwidderrufflechen Uerder an am Himmel vun Dengem onverännerleche Plang fir si virausbestëmmt gouf. Ech bieden Dech bei eben dësem Numm, looss net zou, dass ech wäit ewech si vum Haff vun Denger Hellegkeet, oder ausgespaart vum héijen Hellegtum vun Denger Eenheet an Denger Eenzegkeet.
 
 Fänk dofir d’Feier vun Denger Léift a menger Broscht un, o mäi Gott, fir dass seng Flam alles verbrennt bis op meng Erënnerung un Dech, dass all Spuer vu verduerwener Begier a mir ganz ausgeläscht gëtt, an dass näischt iwweregbleift ausser der Verherrlechung vun Dengem transzendenten an allherrleche Wiesen. Dëst ass mäin héchst Bestriewen, mäi brennende Wonsch, o Du, deen iwwer alles herrscht an an Deem Senger Hand d’Kinnekräich vun der ganzer Schëpfung läit. Jo wierklech, Du méchs, wat Dir gefält. Et gëtt kee Gott niewent Dir, dem Allmächtegen, dem Allherrlechen, Deem, deen ëmmer nees verzeit.
@@ -839,7 +1023,10 @@ Fänk dofir d’Feier vun Denger Léift a menger Broscht un, o mäi Gott, fir da
 
 
 
-### <a id="bpn13595"></a> Prayer bpn13595 in Lëtzebuergesch
+
+
+<a id="bpn13595"></a> 
+### Prayer bpn13595 in Lëtzebuergesch
 O Här!
 
 Wat fir e Stroum vu Mëtschgiewegkeet hues Du gewäert a wat fir eng Flut vu räichlecher Gnod hues Du bewëllegt! Du hues all d’Häerzer wéi zu engem eenzegen Häerz matenee verschmëlze gelooss an all d’Séilen zu enger eenzeger Séil matenee verbonnen. Du hues beweegungslose Kierper Liewen a Gefill ginn an doudege Leiwer d’Bewosstsi vum Geescht geschenkt. Duerch déi liichtend Strale vun der Sonn vum Allbaarmhäerzegen hues Du dës Stëbsatomer mat siichtbarer Existenz bekleet an duerch d’Welle vum Mier vun der Eenheet hues Du dës winzeg Drëpse befäegt, héichzeschloen an ze dauschen.
@@ -852,7 +1039,10 @@ O du Allmächtegen, deens Du engem Stréihallem d’Muecht vun engem Bierg gëss
 
 
 
-### <a id="bpn13596"></a> Prayer bpn13596 in Lëtzebuergesch
+
+
+<a id="bpn13596"></a> 
+### Prayer bpn13596 in Lëtzebuergesch
 Hien ass Gott.
 
 O Du gudden Här, dee mir gär hunn! Dës Frënn sinn euphoresch mam Wäin vum Bond a si Wanderer an der Wildnis vun Denger Léift. Hir Häerzer sinn opgeziert vun de Flame vun der Trennung vun Dir a si verlaangeren äifreg no der Offenbarung vun Denger Pracht. Aus Dengem verbuergene Kinnekräich, dem Räich vum Onsiichtbaren, offenbar hinnen déi stralend Herrlechkeet vun Denger Gnod a looss de Glanz vun Denger Guttheet op si schéngen. Schéck hinnen zu all Moment en neie Seegen an erweis hinnen e weidere Gefalen.
@@ -866,9 +1056,13 @@ O gëttlech Vorseeung! Mir si schwaach an Du bass de Stäerksten. Mir si wéi bu
 
 
 
+
+
+<a id="Glawen"></a> 
 ## Glawen
 
-### <a id="bpn13597"></a> Prayer bpn13597 in Lëtzebuergesch
+<a id="bpn13597"></a> 
+### Prayer bpn13597 in Lëtzebuergesch
 O Här! Erméiglech alle Vëlker vun der Äerd an d’Paradis vun Dengem Glawen eranzekommen, sou dass keen erschafent Wiesen ausserhalb de Limitte vun Dengem Gefale bleiwe wäert.
 
 Säit éiwegen Zäite bass Du mächteg ze maachen, wat Dir gefält an transzendent iwwer wat och ëmmer s Du wënschs.
@@ -880,9 +1074,13 @@ Säit éiwegen Zäite bass Du mächteg ze maachen, wat Dir gefält an transzende
 
 
 
+
+
+<a id="Heelung a Stäerkt"></a> 
 ## Heelung a Stäerkt
 
-### <a id="bpn13598"></a> Prayer bpn13598 in Lëtzebuergesch
+<a id="bpn13598"></a> 
+### Prayer bpn13598 in Lëtzebuergesch
 Däin Numm ass meng Heelung, o mäi Gott, an Denger ze gedenken ass meng Medezin. No bei Dir ze sinn ass meng Hoffnung, an d’Léift fir Dech ass mäi Begleeder. Deng Baarmhäerzegkeet ass meng Heelung a meng Hëllef a béide Welten, an dëser, an an där, déi kënnt. Du bass wierklech de Mëtschgiewegsten, den Allwëssenden, den Onendlechweisen.
 
 (Source category: Heelung a Stäerkt)
@@ -891,7 +1089,10 @@ Däin Numm ass meng Heelung, o mäi Gott, an Denger ze gedenken ass meng Medezin
 
 
 
-### <a id="bpn13599"></a> Prayer bpn13599 in Lëtzebuergesch
+
+
+<a id="bpn13599"></a> 
+### Prayer bpn13599 in Lëtzebuergesch
 *Laangt Heelungsgebiet
 
 Hien ass Deen, deen heelt, dee sech selwer duergeet, deen hëlleft, deen alles verzeit, den Allbaarmhäerzegen.
@@ -994,7 +1195,10 @@ Du bass wierklech de Mächtegen, Deen, dee jiddwerengem duergeet, den Heelenden,
 
 
 
-### <a id="bpn13600"></a> Prayer bpn13600 in Lëtzebuergesch
+
+
+<a id="bpn13600"></a> 
+### Prayer bpn13600 in Lëtzebuergesch
 Wien de séissen Doft vu Gott verbreet, soll all Mueren dëst Gebiet soen:
 
 O Gott mäi Gott! Du gesäis dëse Schwaache fir himmlesch Stäerkt bieden, dësen Aarmen no Denge gëttleche Schätz, dësen Duuschteregen nom Sprangbuer vum éiwege Liewen, dëse Kranken no der Heelung verlaangeren, déi s Du him versprach hues, duerch deng onendlech Gnod, déi s Du fir Deng auserwielt Dénger bestëmmt hues, an Dengem Kinnekräich do uewen.
@@ -1011,7 +1215,10 @@ Du bass wierklech de Staarken, de Gewaltegen, den Allmächtegen.
 
 
 
-### <a id="bpn13601"></a> Prayer bpn13601 in Lëtzebuergesch
+
+
+<a id="bpn13601"></a> 
+### Prayer bpn13601 in Lëtzebuergesch
 Hien ass Gott.
 
 O Gott, mäi Gott! Ech hunn Dir mäi Gesiicht zougedréit a bieden Dech den Ozean vun Denger Heelung auszegéissen. Hëllef mir gnädeg, o Här Dengem Vollek ze déngen an Deng Dénger ze heelen. Wann s Du mir hëllefs, gëtt d‘Heelmëttel, dat ech ubidden, zu enger heelender Medezin fir all Krankheet, enger Schlupp vu liewensspendendem Waasser fir all brennenden Duuscht an e berouegende Balsam fir all verlaangerend Häerz. Wann s Du mir net hëllefs, wäert et näischt anescht gi wéi Leed an ech wäert kaum enger Séil Heelung bréngen. 
@@ -1025,9 +1232,13 @@ O Gott, mäi Gott! Stéi mir bäi an hëllef mir duerch Deng Muecht, déi Krank 
 
 
 
+
+
+<a id="Hochzäit"></a> 
 ## Hochzäit
 
-### <a id="bpn13608"></a> Prayer bpn13608 in Lëtzebuergesch
+<a id="bpn13608"></a> 
+### Prayer bpn13608 in Lëtzebuergesch
 *D’ Bahá'í Bestietnes ass Vereenegung an häerzlech Léift tëschent de Partner. Si mussen awer ganz gutt Uecht ginn a sech mam Charakter vun hirem Partner vertraut maachen. Dës éiweg Verbindung sollt duerch en zolitte Bond geséchert ginn, mat der Absicht, Harmonie, Verbonnenheet an Eenheet ze fërderen an éiwegt Liewen ze kréien.
 ‘Abdu’l‑Bahá
 
@@ -1048,9 +1259,13 @@ A wéi Hie wollt de Mënsche Gnod a gutt Doten erweisen, an d’Welt an d’Rei 
 
 
 
+
+
+<a id="Huqúq’ulláh - D’Recht vu Gott"></a> 
 ## Huqúq’ulláh - D’Recht vu Gott
 
-### <a id="bpn13657"></a> Prayer bpn13657 in Lëtzebuergesch
+<a id="bpn13657"></a> 
+### Prayer bpn13657 in Lëtzebuergesch
 Verherrlecht bass Du, o Här vun der ganzer Schëpfung, deen Een, deem sech alles zouwenne muss. Am Geescht an a Wierder bezeien ech, dass Du Dech manifestéiert an offenbaart hues, dass Du Deng Zeechen erofgeschéckt, an Deng Beweiser verkënnegt hues. Ech bezeien, dass Du onofhängeg bass vun allem ausser Dir a gehellegt iwwer alles Ierdesches. Ech bieden Dech bei der transzendenter Herrlechkeet vun Denger Saach an der héchster Muecht vun Dengem Wuert: Bestäteg deem, dee gi wëll, wat s Du him an Dengem Buch virgeschriwwen hues, an dee beuechte wëll, wat den Doft vun Denger Zoustëmmung verbreet. Du bass wierklech den Allmächtegen, den Allgnädegen, den Allverzeienden, de Ganzgeneréisen.
 
 (Source category: Huqúq’ulláh - D’Recht vu Gott)
@@ -1060,9 +1275,13 @@ Verherrlecht bass Du, o Här vun der ganzer Schëpfung, deen Een, deem sech alle
 
 
 
+
+
+<a id="Hëllef a Bäistand"></a> 
 ## Hëllef a Bäistand
 
-### <a id="bpn13602"></a> Prayer bpn13602 in Lëtzebuergesch
+<a id="bpn13602"></a> 
+### Prayer bpn13602 in Lëtzebuergesch
 O Gott, Däin Ubléck ass d‘Zil vu menger Ubiedung! Deng Schéinheet ass helleg fir mech, Deng Wunneng, wat ech sichen, Däi Luef meng Hoffnung, Däi Plang meng Begleedung, Deng Léift de Grond firwat ech do sinn, Däin Numm ze nenne mäi Gléck, no bei Dir ze sinn wourop ech waarden, Deng Präsenz mäi stäerkste Wonsch a mäin héchst Verlaangen. Ech bieden Dech vu ganzem Häerz, verwier mir net, wat s Du den Auserwielte vun Dengen Dénger verschriwwen hues, a versuerg mech mat de Saachen, déi an dëser an an der nächster Welt gutt fir mech sinn.
 
 Du bass wierklech alle Mënschen hire Kinnek. Et gëtt kee Gott ausser Dir, Deen, deen ëmmer nees verzeit, dee Generéisten.
@@ -1073,7 +1292,10 @@ Du bass wierklech alle Mënschen hire Kinnek. Et gëtt kee Gott ausser Dir, Deen
 
 
 
-### <a id="bpn13603"></a> Prayer bpn13603 in Lëtzebuergesch
+
+
+<a id="bpn13603"></a> 
+### Prayer bpn13603 in Lëtzebuergesch
 O mäi Gott! Ech froen dech, bei Dengem herrlechsten Numm, mir an deem ze hëllefen, wat d’Ugeleeënheete vun Dengen Dénger zum Erfolleg féiert, an Deng Stied erbléien deet. Du hues wierklech Muecht iwwer alles.
 
 (Source category: Hëllef a Bäistand)
@@ -1082,7 +1304,10 @@ O mäi Gott! Ech froen dech, bei Dengem herrlechsten Numm, mir an deem ze hëlle
 
 
 
-### <a id="bpn13604"></a> Prayer bpn13604 in Lëtzebuergesch
+
+
+<a id="bpn13604"></a> 
+### Prayer bpn13604 in Lëtzebuergesch
 O Du Allmächtegen! Gëff Denge Schwaachen Deng Stäerkt, a belief déi, déi wéi dout sinn, fir dass si Dech fannen, zum Weltmier vun Denger Féierung geleet ginn a standhaft an Denger Saach bleiwen. Wann sech den Doft vun Dengem Luef an enge vun de verschiddene Sprooche vun der Welt -, aus dem Osten oder Westen -, verbreet, da gëtt dës Sprooch wierklech héich geschat a veréiert. Sollten esou Sproochen dësen Doft awer net hunn, da wäre si sécher net derwäert ernimmt ze ginn, sief et a Wierder oder och nëmmen a Gedanken.
 
 O Vorseeung, mir bieden Dech, weis alle Mënschen Däi Wee a féier si. Du bass wierklech, den Allmächtegen, de Stäerksten, den Allwëssenden, Deen, deen alles gesäit.
@@ -1093,7 +1318,10 @@ O Vorseeung, mir bieden Dech, weis alle Mënschen Däi Wee a féier si. Du bass 
 
 
 
-### <a id="bpn8214"></a> Prayer bpn8214 in Lëtzebuergesch
+
+
+<a id="bpn8214"></a> 
+### Prayer bpn8214 in Lëtzebuergesch
 Här! Mir si bematleedenswäert, schenk eis Deng Gonscht; mir sinn aarm, schenk eis en Deel vum Mier vun Dengem Räichtum; mir si bedürfteg, gëff Du eis, wat eis feelt; mir sinn erniddregt, gëff eis Deng Herrlechkeet. D’Vigel an der Loft an d’Déieren um Feld kréien hiert Fudder all Dag vun Dir, an all Wiesen erliewen Däi Schutz an Deng Guttheet.
 
 (Source category: Hëllef a Bäistand)
@@ -1102,7 +1330,10 @@ Här! Mir si bematleedenswäert, schenk eis Deng Gonscht; mir sinn aarm, schenk 
 
 
 
-### <a id="bpn13605"></a> Prayer bpn13605 in Lëtzebuergesch
+
+
+<a id="bpn13605"></a> 
+### Prayer bpn13605 in Lëtzebuergesch
 O Här, raum net de festlechen Dësch of, deen an Dengem Numm gedeckt ass, an erstéck net déi brennend Flam, déi Däi Feier, wat net ze läschen ass, ugestach huet. Hal net de Stroum vun Dengem beliewende Waasser zeréck, dat mat der Melodie vun Denger Herrlechkeet an Dengem Gedenke plätschert, an enthal net Dengen Dénger de Geroch vun Denge séissen Aromaen, déi den Doft vun Denger Léift ausootmen.
 
 Här! Verwandel déi bedréckend Suerge vun Dengen hellegen Dénger a Rou, hir Plo an Trouscht, hir Erniddregung an Herrlechkeet, hiert Leed a gléckséileg Freed, O Du, deen s du d’ganz Mënschheet an der Gitt häls.
@@ -1115,7 +1346,10 @@ Du bass a Wierklechkeet deen Een, den Eenzegen, de Mächtegen, den Allwëssenden
 
 
 
-### <a id="bpn13606"></a> Prayer bpn13606 in Lëtzebuergesch
+
+
+<a id="bpn13606"></a> 
+### Prayer bpn13606 in Lëtzebuergesch
 Hien ass de Baarmhäerzegen, de Ganzgeneréisen! O Gott, mäi Gott! Du gesäis mech, Du kenns mech; Du bass mäin Hafen a mäin Ënnerdaach. Ech hu kee gesicht a wäert kee sichen ausser Dir. Kee Pad hunn ech betratt a kee wäert ech betrieden ausser de Pad vun Denger Léift. An der däischterer Nuecht vun der Verzweiwlung dréit sech mäi Bléck voll Erwaardung a voll Hoffnung dem Muere vun Denger Gonscht, déi ouni Grenzen ass, zou, a moies, wann et hell gëtt, gëtt meng schlapp Séil erfrëscht a gestäerkt am Gedenken un Deng Schéinheet a Vollkommenheet. Wiem d’Gnod vun Dengem Erbaarmen hëlleft, dee gëtt, a wär en och nëmmen eng Drëps, zu engem onendleche Mier, an de klengsten Atom wäert, ënnerstëtzt duerch d’Ausgéisse vun Denger Léift a Guttheet, wéi e stralende Stär liichten.
 
 O Du Geescht vun der Rengheet, Du, deen eis generéis mat allem versuergt, stell däi begeeschterten an entflaamten Dénger ënner däi Schutz. Hëllef him an dëser Welt, standhaft a bestänneg an Denger Léift ze bleiwen, an erlab dësem Vugel, deem seng Flilleke gebrach sinn, Schutz an en Ënnerdaach, an Dengem hellegen Nascht um himmlesche Bam, ze fannen.
@@ -1126,7 +1360,10 @@ O Du Geescht vun der Rengheet, Du, deen eis generéis mat allem versuergt, stell
 
 
 
-### <a id="bpn13607"></a> Prayer bpn13607 in Lëtzebuergesch
+
+
+<a id="bpn13607"></a> 
+### Prayer bpn13607 in Lëtzebuergesch
 O Du onsiichtbare Frënd!
 
 O Verlaange vun allem an dëser Welt an der Welt, déi kënnt! O Du Baarmhäerzegen, dee mir gär hunn! Dës hëlleflos Séile si vun Denger Léift gefaangen an dës Schwaach sichen Ënnerdaach un Denger Schwell. All Nuecht keimen a jéimere si, well si wäit ewech si vun Dir an all Muere bekloen se sech a kräische wéinst den Ugrëff vun de Béiswëllegen. Si ginn zu all Moment mat neie Quale gepéngegt, a gi bei all Otemzuch duerch d’Tyrannei vu sämtlechen iwwelen Ënnerdrécker schwéier gepréift. Sief gelueft, datt si trotzdeem wéi en Tempel aus Feier brennen an herrlech blénke wéi d’Sonn an de Mound. Si sti stolz, wéi erhuewe Banneren an der Saach vu Gott, a stierme wéi daper Reider an d’Arena. Si hu geblitt wéi séiss Bléien a si voller Freed wéi déi laachend Rous. Duerfir, o Du, deen eis versuergt a gär huet, stéi dësen hellege Séile gnädeg bäi duerch Deng himmlesch Gnod, vun Dengem Räich gewäert an erlab, datt dës helleg Wiesen d’Zeeche vum Allerhéchsten offenbare kënnen. Du bass de Generéisten, de Matleedvollen, de Gnädegsten, de Baarmhäerzegen.
@@ -1138,9 +1375,13 @@ O Verlaange vun allem an dëser Welt an der Welt, déi kënnt! O Du Baarmhäerze
 
 
 
+
+
+<a id="Jugendlech"></a> 
 ## Jugendlech
 
-### <a id="bpn13609"></a> Prayer bpn13609 in Lëtzebuergesch
+<a id="bpn13609"></a> 
+### Prayer bpn13609 in Lëtzebuergesch
 O Här! Looss dëse jonke Mënsch stralen, an erweis dësem aarme Wiesen deng Guttheet. Schenk him Wëssen, maach hie mueres fréi nach méi staark a behitt hien ënnerem Daach vun Dengem Schutz, fir dass hie fräi gëtt vun Iertum, sech fir den Déngscht un Denger Saach hiergëtt, déi Verierte leet, déi Onglécklech féiert, déi Gefaange befreit an déi Liichtsënneg erwächt, fir dass si all mat Dengem Gedenken an Dengem Luef geseent ginn. Du bass de Mächtegen an de Staarken.
 
 (Source category: Jugendlech)
@@ -1150,9 +1391,13 @@ O Här! Looss dëse jonke Mënsch stralen, an erweis dësem aarme Wiesen deng Gu
 
 
 
+
+
+<a id="Kanner"></a> 
 ## Kanner
 
-### <a id="bpn13610"></a> Prayer bpn13610 in Lëtzebuergesch
+<a id="bpn13610"></a> 
+### Prayer bpn13610 in Lëtzebuergesch
 Gelueft bass Du, o Här mäi Gott! Erméiglech, duerch Deng Gnod, dass dëst Kand un der Broscht vun Dengem zaarten Erbaarmen an Denger léiwer Virsuerg drénkt a mat der Fruucht vun Dengen himmlesche Beem ernäert gëtt. Looss net zou, dass et vun iergendengem anere versuergt gëtt, ausser vun Dir, well s Du et selwer duerch d’Kraaft vun Dengem erhuewene Wëllen an Denger Muecht erschaf an an d’Liewe geruff hues. Et gëtt keen anere Gott ausser Dir, dem Allmächtegen, dem Allwëssenden.
 
 Gelueft bass Du, o Du, deen ech iwwer alles gär hunn! Looss iwwer dëst Kand de séissen Doft vun Denger himmlescher Guttheet an de Parfum vun Denger helleger Gonscht blosen. Looss et da Schutz sichen am Schiet vun Dengem héchsten Numm, o Du, deen s Du d’Räich vun den Nimm an Eegenschaften am Grëff häls. Du hues wierklech d’Muecht ze maachen, wat s Du wëlls, an du bass tatsächlech de Mächtegen, den Héchsten, den Ëmmerverzeienden, de Gnädegen, de Generéisen, de Baarmhäerzegen.
@@ -1163,7 +1408,10 @@ Gelueft bass Du, o Du, deen ech iwwer alles gär hunn! Looss iwwer dëst Kand de
 
 
 
-### <a id="bpn13611"></a> Prayer bpn13611 in Lëtzebuergesch
+
+
+<a id="bpn13611"></a> 
+### Prayer bpn13611 in Lëtzebuergesch
 Verherrlecht bass Du, O Här mäi Gott! Ech soen Dir Merci, dass Du mech an Dengen Deeg an d’Liewe geruff hues, a mech mat Denger Léift an Dengem Wëssen erfëllt hues. Bei Dengem Numm, deen déi wäertvoll Pärele vun Denger Wäisheet an Denge Wierder aus de Schätz vun den Häerzer vun Dengen Dénger, déi Dir no sinn, ervirbréngt, an duerch deen d’Sonn vun Dengem Numm, de Matleedvollen, hire Glanz op all am Himmel an op der Äerd verbreet, bieden ech Dech: Versuerg mech duerch Deng Gnod a Guttheet mat Denge wonnerbaren, verbuergene Geschenker.
 
 Dat hei sinn déi éischt Deeg vu mengem Liewen, o Mäi Gott, déi s Du mat Dengen Deeg verbonnen hues. Well s Du mir sou eng grouss Éier erwisen hues, verweiger mir net, wat s Du Dengen Auserwielte bestëmmt hues.
@@ -1178,7 +1426,10 @@ Gelueft sief Gott, den Här vun alle Welten.
 
 
 
-### <a id="bpn13612"></a> Prayer bpn13612 in Lëtzebuergesch
+
+
+<a id="bpn13612"></a> 
+### Prayer bpn13612 in Lëtzebuergesch
 O Du onvergläichlechen Här! Nier dëse Puppelchen un der Broscht vun Denger Léift a Guttheet. Behitt hien an der Wéi vun Dengem séchere Schutz a looss hien an den Äerm vun Denger zäertlecher Zouwendung wuessen.
 
 (Source category: Kanner)
@@ -1187,7 +1438,10 @@ O Du onvergläichlechen Här! Nier dëse Puppelchen un der Broscht vun Denger L�
 
 
 
-### <a id="bpn13613"></a> Prayer bpn13613 in Lëtzebuergesch
+
+
+<a id="bpn13613"></a> 
+### Prayer bpn13613 in Lëtzebuergesch
 O Här! Maach aus dëse Kanner wonnerbar Planzen. Looss se wuessen a gedeien am Gaart vun Dengem Bond. Gëff hinne Frëscht a Schéinheet duerch d’Waasser aus de Wolleke vum allherrleche Kinnekräich.
 
 O Du gudden Här! Ech sinn e klengt Kand, erhief mech an deem s Du mech an Däi Räich ophëls. Ech sinn ierdesch, maach Du mech himmlesch. Ech si vun der Welt hei ënnen, looss mech zum Räich do uewe gehéieren. Ech si bedréckt, looss mech stralen. Ech si materiell, maach mech geeschteg, an erlab mir, dass ech Deng onendlech Guttheet weise kann.
@@ -1200,7 +1454,10 @@ Du bass de Gewaltegen, Deen, dee jiddweree gär huet.
 
 
 
-### <a id="bpn13614"></a> Prayer bpn13614 in Lëtzebuergesch
+
+
+<a id="bpn13614"></a> 
+### Prayer bpn13614 in Lëtzebuergesch
 Hien ass Gott! O Gott, mäi Gott! Schenk mir en Häerz, sou reng wéi eng Pärel.
 
 (Source category: Kanner)
@@ -1209,7 +1466,10 @@ Hien ass Gott! O Gott, mäi Gott! Schenk mir en Häerz, sou reng wéi eng Pärel
 
 
 
-### <a id="bpn13615"></a> Prayer bpn13615 in Lëtzebuergesch
+
+
+<a id="bpn13615"></a> 
+### Prayer bpn13615 in Lëtzebuergesch
 O Gott, leed mech, hal Deng Hand iwwer mech, maach aus mir eng stralend Luucht an e blénkege Stär. Du bass de Mächtegen an de Staarken.
 
 (Source category: Kanner)
@@ -1218,7 +1478,10 @@ O Gott, leed mech, hal Deng Hand iwwer mech, maach aus mir eng stralend Luucht a
 
 
 
-### <a id="bpn13616"></a> Prayer bpn13616 in Lëtzebuergesch
+
+
+<a id="bpn13616"></a> 
+### Prayer bpn13616 in Lëtzebuergesch
 O mäin Här! O mäin Här!
 
 Ech sinn e Kand am zaarten Alter. Nier mech un der Broscht vun Denger Gnod, ënnerriicht mech am Schouss vun Denger Léift, erzéi mech an der Schoul vun Denger Féierung a looss mech wuessen am Schiet vun Denger Generositéit. Erléis mech vun der Däischtert, maach aus mir en hellt Liicht; maach mech fräi vu Verdross, maach aus mir eng Blumm aus dem Rousegaart; looss mech en Dénger vun Denger Schwell ginn, a gëff mir d’Gesënnung an d’Wiese vun de Gerechten; maach aus mir d’Ursaach vu Generositéit fir d’Welt vun de Mënschen, a kréin mäi Kapp mam Diadem vum éiwege Liewen.
@@ -1231,7 +1494,10 @@ A Wierklechkeet bass Du de Staarken, de Mächtegen, Deen, dee gesäit, Deen, dee
 
 
 
-### <a id="bpn13617"></a> Prayer bpn13617 in Lëtzebuergesch
+
+
+<a id="bpn13617"></a> 
+### Prayer bpn13617 in Lëtzebuergesch
 O Gott! Erzéi dëst Këndchen am Schouss vun Denger Léift, a gëff him Mëllech vun der Broscht vun Denger Virsuerg. Kuck no dëser frëscher Planz am Rousegaart vun Denger Léift, an hëllef hir, duerch d’Schauere vun Denger Mëtschgiewegkeet ze wuessen. Maach aus him e Kand vum Kinnekräich a féier et an Däin himmlescht Räich. Du bass mächteg a gutt, an Du bass Deen, dee gëtt, de Generéisen, den Här vun oniwwertrefflecher Generositéit.
 
 (Source category: Kanner)
@@ -1240,7 +1506,10 @@ O Gott! Erzéi dëst Këndchen am Schouss vun Denger Léift, a gëff him Mëllec
 
 
 
-### <a id="bpn13618"></a> Prayer bpn13618 in Lëtzebuergesch
+
+
+<a id="bpn13618"></a> 
+### Prayer bpn13618 in Lëtzebuergesch
 O Gott! Erzéi dës Kanner. Dës Kanner sinn d’Planzen aus Dengem Bongert, d’Blumme vun Denger Wiss, d’Rousen aus Dengem Gaart. Looss Däi Reen op si falen; looss d’Sonn vun der Wierklechkeet mat Denger Léift op si schéngen. Looss Deng Lëftche si erfrëschen, fir datt si ausgebilt ginn, wuessen, sech entfalen, a sech a gréisster Schéinheet weisen. Du bass Deen, dee gëtt a voller Matleed ass.
 
 (Source category: Kanner)
@@ -1249,7 +1518,10 @@ O Gott! Erzéi dës Kanner. Dës Kanner sinn d’Planzen aus Dengem Bongert, d�
 
 
 
-### <a id="bpn13619"></a> Prayer bpn13619 in Lëtzebuergesch
+
+
+<a id="bpn13619"></a> 
+### Prayer bpn13619 in Lëtzebuergesch
 O Du onvergläichlechen Här! Sief Du dësem aarme Kand e Schutz, an dëser verierter an onglécklecher Séil e léiwen a verzeiende Meeschter. O Här! Och wa mir nëmme wäertlos Planze sinn, gehéiere mir awer zu Dengem Rousegaart. Och wa mir Schëtz ouni Blieder a Bléie sinn, si mir awer e Stéck vun Dengem Bongert. Ernär dann dës Planz duerch d’Reeschauere vun Dengem zaarten Erbaarmen, stäerk an erfrësch dëse jonke Bam mam beliewenden Otem vun Denger geeschteger Fréijoerszäit. Looss hien opmierksam, verstänneg an nobel ginn, looss hien éiwegt Liewe kréien, a fir ëmmer an Dengem Kinnekräich wunnen.
 
 (Source category: Kanner)
@@ -1258,7 +1530,10 @@ O Du onvergläichlechen Här! Sief Du dësem aarme Kand e Schutz, an dëser veri
 
 
 
-### <a id="bpn13620"></a> Prayer bpn13620 in Lëtzebuergesch
+
+
+<a id="bpn13620"></a> 
+### Prayer bpn13620 in Lëtzebuergesch
 O Du renge Gott! Ech sinn e klengt Kand; maach, dass ech d’Broscht vun Denger Léift a Guttheet gär hunn, an ernär mech mam Hunneg an der Mëllech vun Denger Léift. Erzéi mech un der Broscht vun Denger Erkenntnis a schenk mir Adel a Wäisheet, sou laang ech nach e Kand sinn.
 
 O Du Gott, deen sech selwer duergeet! Maach mech vertraut mam Kinnekräich vum Onsichtbaren. A Wierklechkeet bass Du de Mächtegen, de Staarken.
@@ -1270,9 +1545,13 @@ O Du Gott, deen sech selwer duergeet! Maach mech vertraut mam Kinnekräich vum O
 
 
 
+
+
+<a id="Kanner a Jugendlecher"></a> 
 ## Kanner a Jugendlecher
 
-### <a id="bpn8215"></a> Prayer bpn8215 in Lëtzebuergesch
+<a id="bpn8215"></a> 
+### Prayer bpn8215 in Lëtzebuergesch
 O Du gudden Här! Dës häerzeg Kanner sinn d’Wierk vun Denger mächteger Hand an déi wonnerbar Zeeche vun Denger Gréisst. O Gott! Behitt dës Kanner, an hëllef hinnen duerch Deng Gnod, datt si erzunn a fäeg ginn der Mënschheet ze déngen.
 
 (Source category: Kanner a Jugendlecher)
@@ -1281,7 +1560,10 @@ O Du gudden Här! Dës häerzeg Kanner sinn d’Wierk vun Denger mächteger Hand
 
 
 
-### <a id="bpn8209"></a> Prayer bpn8209 in Lëtzebuergesch
+
+
+<a id="bpn8209"></a> 
+### Prayer bpn8209 in Lëtzebuergesch
 O Här ! Ech si schwaach, stäerk mech mat Denger Kraaft a Muecht. Meng Zong zéckt, hëllef mer Denger ze gedenken an Dech ze luewen. Ech sinn niddereg, éier mech andeems Du mech an Däi Kinnékräich ophëls.
 
 (Source category: Kanner a Jugendlecher)
@@ -1290,7 +1572,10 @@ O Här ! Ech si schwaach, stäerk mech mat Denger Kraaft a Muecht. Meng Zong zé
 
 
 
-### <a id="bpn8216"></a> Prayer bpn8216 in Lëtzebuergesch
+
+
+<a id="bpn8216"></a> 
+### Prayer bpn8216 in Lëtzebuergesch
 O Här! Stäerk dës zaart  Beemercher, fir datt all eenzelne vun hinnen e Bam mat Friichte gëtt, gréng a bléiend. Looss dës Séilen, duerch d’Muecht vun Dengen himmleschen Herrschare gewannen, fir datt si d’Kräfte vum Iertum a vun der Onwëssenheet iwwerwannen, an de Fändel vun der Frëndschaft a Féierung ënner de Vëlker ausbreeden.
 
 (Source category: Kanner a Jugendlecher)
@@ -1299,7 +1584,10 @@ O Här! Stäerk dës zaart  Beemercher, fir datt all eenzelne vun hinnen e Bam m
 
 
 
-### <a id="bpn8208"></a> Prayer bpn8208 in Lëtzebuergesch
+
+
+<a id="bpn8208"></a> 
+### Prayer bpn8208 in Lëtzebuergesch
 O Här ! Looss dëse jonke Mënsch stralen, an erweis dësem aarme Wiesen deng Guttheet. Schenk him Wëssen, maach hie bei all Dagesufank nach méi staark a behitt hien am Ënnerdaach vun Dengem Schutz, ...
 
 (Source category: Kanner a Jugendlecher)
@@ -1309,9 +1597,13 @@ O Här ! Looss dëse jonke Mënsch stralen, an erweis dësem aarme Wiesen deng G
 
 
 
+
+
+<a id="Kuerzt Flichtgebiet"></a> 
 ## Kuerzt Flichtgebiet
 
-### <a id="bpn13664"></a> Prayer bpn13664 in Lëtzebuergesch
+<a id="bpn13664"></a> 
+### Prayer bpn13664 in Lëtzebuergesch
 *Et ginn dräi deeglech Flichtgebieder ... . Et steet dem Gleewege ganz fräi, fir eent vun dësen dräi Gebieder ze wielen, mee et ass seng Flicht, eent dervun ze soen a sech un d’Instruktiounen ze halen, déi kënnen dra virkommen.
 *Shoghi Effendi
 
@@ -1333,9 +1625,13 @@ Et gëtt keen anere Gott ausser Dir, Deen, deen hëlleft a Gefor, Deen, deen due
 
 
 
+
+
+<a id="Laangt Flichtgebiet"></a> 
 ## Laangt Flichtgebiet
 
-### <a id="bpn13666"></a> Prayer bpn13666 in Lëtzebuergesch
+<a id="bpn13666"></a> 
+### Prayer bpn13666 in Lëtzebuergesch
 *Eemol a véieranzwanzeg Stonnen ze soen.
 
 Wien dëst Gebiet soe wëll, soll opstoen a sech zu Gott dréien, a wann en do steet, soll en no riets an no lénks kucken, wéi wann e waarde géif op d’Erbaarme vu sengem Här, dem Baarmhäerzegsten, Deem, dee Matleed huet. Da soll e soen:
@@ -1405,9 +1701,13 @@ Ech bezeien, o mäi Gott, wat Deng Auserwielte bezeit hunn, an erkennen un, wat 
 
 
 
+
+
+<a id="Lassléisung"></a> 
 ## Lassléisung
 
-### <a id="bpn13621"></a> Prayer bpn13621 in Lëtzebuergesch
+<a id="bpn13621"></a> 
+### Prayer bpn13621 in Lëtzebuergesch
 Ech weess net, o mäi Gott, wat d’Feier ass, dat s Du an Dengem Land ugefaangen hues. D’Äerd ka säi Glanz nimools verdonkelen an d’Waasser seng Flam net läschen. Kee Vollek op der Welt ka senger Kraaft widderstoen. Gléckséileg ass deen, deen him nokënnt a säin Dauschen héiert.
 
 E puer vun hinnen, o mäi Gott, hues Du et duerch Deng stäerkend Gnod erméiglecht, Dengem Feier méi no ze kommen, wärend s Du aner zeréckgehal hues, wéinst den Doten, déi hir Hänn an Dengen Deeg begaangen hunn. Wien ëmmer him nokënnt an et erreecht, am brennende Verlaangen, Deng Schéinheet ze kucken, gëtt säi Liewen hir op Dengem Pad a kënnt zu Dir erop, ganz lassgeléist vun allem ausser Dir.
@@ -1422,7 +1722,10 @@ Mächteg bass Du ze maachen, wat Dir gefält. Du bass wierklech den Allmächtege
 
 
 
-### <a id="bpn13622"></a> Prayer bpn13622 in Lëtzebuergesch
+
+
+<a id="bpn13622"></a> 
+### Prayer bpn13622 in Lëtzebuergesch
 O gëttlech Vorseeung!
 
 Erwäch mech a maach mech bewosst. Looss mech lassgeléist si vun allem ausser Dir a fessel mech mat der Léift fir Deng Schéinheet. Hauch mir den Otem vum hellege Geescht an a looss mech nom Ruff vum Kinnekräich vun Abhá lauschteren. Schenk mir himmlesch Kraaft a fänk d’Luucht vum Geescht an der bannenzegster Kummer vu mengem Häerz un. Maach mech lass vun all Fessel a befrei mech vun all Bindung, fir datt ech no näischt anerem verlaangeren, wéi Dir ze gefalen, näischt sichen nieft Dengem Ubléck a kengem anere Wee noginn wéi Dengem Wee. Maach, datt ech déi Zerstreet dozou féieren, opmierksam ze ginn an déi Schlofend ze erwächen, datt ech d’Waasser vum Liewen deene reechen, déi erdiischtert sinn a gëttlech Heelung deene bréngen, déi krank sinn a leiden.
@@ -1435,7 +1738,10 @@ Och wann ech kleng, erniddregt an aarm sinn, sou bass Du awer mäi sécheren Haf
 
 
 
-### <a id="bpn13623"></a> Prayer bpn13623 in Lëtzebuergesch
+
+
+<a id="bpn13623"></a> 
+### Prayer bpn13623 in Lëtzebuergesch
 O du gudden Här!
 
 Rengeg mäin Häerz vun all Unhänglechkeet, an erfree meng Séil mat frouen Noriichten. Befrei mech vun all Bindung u Frënd wéi u Friemen, fessel mech mat Denger Léift, sou dass ech mech Dir voll a ganz kann higinn an erfëllt si mat feiereger Extas; sou dass ech keen anere begieren ausser Dir, keen anere sichen ausser Dir, keen anere Pad triede wéi Däin an nëmme kommunizéiere mat Dir; sou dass ech, enger Nuechtigailche gläich, verzaubert si vun Denger Léift an Dag an Nuecht keimen a jéimeren, kräischen a jäizen „Yá Bahá’u’l-Abhá!“
@@ -1447,9 +1753,13 @@ Rengeg mäin Häerz vun all Unhänglechkeet, an erfree meng Séil mat frouen Nor
 
 
 
+
+
+<a id="Luef an Dank"></a> 
 ## Luef an Dank
 
-### <a id="bpn13624"></a> Prayer bpn13624 in Lëtzebuergesch
+<a id="bpn13624"></a> 
+### Prayer bpn13624 in Lëtzebuergesch
 Mäi Gott, mäin Ugebieten, mäi Kinnek, mäi Begieren! Wéi eng Wierder kënne mäin Dank un dech ausdrécken? Ech war zerstreet, Du awer hues mech erwächt. Ech hat Dir de Réck zougedréit, Du awer hues mir gnädeg gehollef, mech Dir nees zouzewenden. Ech war wéi dout, Du awer hues mech mam Waasser vum Liewen zeréckbruecht. Ech war verdréchent, Du awer hues mech mam himmlesche Stroum vun Denge Wierder, déi aus der Fieder vum Allbaarmhäerzege gefloss sinn, belieft.
 
 O gëttlech Vorseeung! Alles wat besteet, kënnt vun Denger Gnod; verweiger deem net d’Waasser vun Denger Mëtschgiewegkeet an hal se net zeréck virum Mier vun Dengem Erbaarmen. Ech bieden dech: Hëllef mir, a stéi mir zu allen Zäiten an ënner alle Bedingunge bäi, an ech sichen Deng uréiweg Gonscht vum Himmel vun Denger Gnod. Du bass a Wierklechkeet den Här vun Der Gnod, den Herrscher vum Räich vun der Éiwegkeet.
@@ -1460,7 +1770,10 @@ O gëttlech Vorseeung! Alles wat besteet, kënnt vun Denger Gnod; verweiger deem
 
 
 
-### <a id="bpn13625"></a> Prayer bpn13625 in Lëtzebuergesch
+
+
+<a id="bpn13625"></a> 
+### Prayer bpn13625 in Lëtzebuergesch
 Hien ass Gott! O Här, wéi solle mir Dir Merci soen! Ouni Grenzen ass Deng Guttheet, an eis Dankbarkeet ass nëmme begrenzt. Wéi kann dat Begrenzt dem Onbegrenzten Dank erweisen? Onfäeg si mir, Dir Merci ze soe fir Deng Seegen. Vëlleg ouni Muecht, dréie mir eis Dengem Räich zou a bieden Dech, Deng Geschenker a Mëtschgiewegkeet ze vergréisseren. Du bass Deen, dee gëtt, Du bass Deen, dee schenkt, Du bass de Mächtegen.
 
 (Source category: Luef an Dank)
@@ -1469,7 +1782,10 @@ Hien ass Gott! O Här, wéi solle mir Dir Merci soen! Ouni Grenzen ass Deng Gutt
 
 
 
-### <a id="bpn13626"></a> Prayer bpn13626 in Lëtzebuergesch
+
+
+<a id="bpn13626"></a> 
+### Prayer bpn13626 in Lëtzebuergesch
 Hien ass Gott.
 
 O du, deen an Ubiedung ronderëm de Punkt kreest, ëm deen d’Awunner vum allerhéchste Paradis kreesen. Hief du deng Hänn an Dankbarkeet un der Schwell vum eenzeg wierkleche Gott a so: O Du, héchst Bestriewe vu jidderengem, deen dech leidenschaftlech gär huet! O Du, de Guide vun all verierter Séil! Du hues dëse schwaachen Dénger mat Dengen onendleche Seege begënschtegt an dësen Onglécklechen an Niddregen zur Schwell vun Denger Eenheet gefouert. Du hues dësen ausgedréchente Lëpsen d‘liewegt Waasser vun Denger Léift a Guttheet gereecht an dës midd a wieleg Séil mam Wand vu gëttlecher Baarmhäerzegkeet erëm belieft. Ech soen Dir Merci, dass Du mir eng voll Portioun vun Denger gnädegster Gonscht geschenkt hues a mir d‘Éier ginn hues, Deng helleg Schwell  ze erreechen. Ech bieden ëm en onendlechen Undeel vun de Räichtemer vun Dengem Kinnekräich do uewen. Bewëlleg Däi Bäistand. Schenk Deng gnädeg Gonscht.
@@ -1480,7 +1796,10 @@ O du, deen an Ubiedung ronderëm de Punkt kreest, ëm deen d’Awunner vum aller
 
 
 
-### <a id="bpn13627"></a> Prayer bpn13627 in Lëtzebuergesch
+
+
+<a id="bpn13627"></a> 
+### Prayer bpn13627 in Lëtzebuergesch
 Hien ass den Allherrlechen, de Stralendsten.
 
 O gëttlech Vorseeung, o verzeienden Här! Wéi kann ech jeemools zerguttst däi Luef sangen oder Dech genuch veréieren a verherrlechen? Deng Beschreiwung duerch iergend eng Zong ass näischt aneres wéi Iertum an Deng Duerstellung duerch iergend eng Fieder ass e Beweis fir d’Topegkeet vun deenen, déi sech un dëser gewalteger Aufgab versichen. D’Zong ass nëmmen en Instrument, dat aus Elementer zesummegesat ass; Stëmm a Sprooch sinn näischt aneres wéi zoufälleg Attributer. Wéi kann ech also mam Instrument vun enger ierdescher Stëmm, de Luef feiere vun Him, dee weeder sengesgläichen huet, nach een, deen Him gläicht. Alles, wat ech soen oder siche kann, ass beschränkt duerch de Verstand vum mënschleche Geescht an ageschloss bannent de Grenze vun der mënschlecher Welt. Wéi ka mënschlecht Denken jeemools déi héchst Spëtze vu gëttlecher Hellegkeet erklammen a wéi kann d’Spann vun eideler Abildung jeemools hiert zerbriechlecht Netz vun huele Virstellungen iwwer d’Heem vun der Hellegkeet wiewen? Näischt kann ech maachen, ausser meng Schwächt ze bezeien a mäi Versoen anzegestoen. Du bass, a Wierklechkeet, Deen, deen alles besëtzt, den Onerreechbaren, Deen, deen héich iwwerem Versteesdemech vun deene schwieft, déi mat Verstand ausgerëscht sinn.
@@ -1492,9 +1811,13 @@ O gëttlech Vorseeung, o verzeienden Här! Wéi kann ech jeemools zerguttst däi
 
 
 
+
+
+<a id="Mammen, déi erwaarden"></a> 
 ## Mammen, déi erwaarden
 
-### <a id="bpn13628"></a> Prayer bpn13628 in Lëtzebuergesch
+<a id="bpn13628"></a> 
+### Prayer bpn13628 in Lëtzebuergesch
 Mäin Här! Mäin Här! Ech luewen Dech an ech sinn Dir dankbar fir d‘Gonscht déi s Du Denger bescheidener Déngerin, Denger Sklavin, déi Dech damiddeg biet, erwisen hues, well Du hues si wierklech zu Dengem manifeste Kinnekräich geleet, hues si Däin erhuewene Ruff an der Welt vum Zoufall héieren an Deng Zeechen, déi d’Komme vun Denger gewonnener Herrschaft iwwer all Saache beweisen, gesi gelooss.
 
 O mäin Här, ech widmen Dir dat, wat ech ënner dem Häerz droen. Looss et e luewenswäert Kand an Dengem Kinnekräich ginn, an e Glécklecht duerch Deng Gonscht a Generositéit; looss et sech entwéckelen an ënner dem Schutz vun Denger Erzéiung opwuessen. Du bass wierklech de Baarmhäerzegen! Du bass wierklech den allgnädegen Här!
@@ -1506,9 +1829,13 @@ O mäin Här, ech widmen Dir dat, wat ech ënner dem Häerz droen. Looss et e lu
 
 
 
+
+
+<a id="Moies"></a> 
 ## Moies
 
-### <a id="bpn13630"></a> Prayer bpn13630 in Lëtzebuergesch
+<a id="bpn13630"></a> 
+### Prayer bpn13630 in Lëtzebuergesch
 Looss all Moie besser si wéi den Owend virdrun an all neien Dag méi räich wéi de viregten. De Meritt vum Mënsch läit am Déngscht an an der Dugend, net op glänzendem Wuelstand a Räichtum.
 
 (Source category: Moies)
@@ -1517,7 +1844,10 @@ Looss all Moie besser si wéi den Owend virdrun an all neien Dag méi räich wé
 
 
 
-### <a id="bpn13631"></a> Prayer bpn13631 in Lëtzebuergesch
+
+
+<a id="bpn13631"></a> 
+### Prayer bpn13631 in Lëtzebuergesch
 An Dengem Ënnerdaach sinn ech erwächt, o mäi Gott, an et gehéiert sech deem, deen dësen Ënnerdaach sicht, ënner Dengem hellege Schutz an an Denger staarker Festung ze bleiwen. Erliicht mäi bannenzegt Wiesen, o mäi Gott, mam Glanz vun der Moiessonn vun Denger Offenbarung, sou wéi s Du mäi baussenzegt Wiese mat der Mueresluucht vun Denger Gonscht méi hell gemaach hues.
 
 (Source category: Moies)
@@ -1526,7 +1856,10 @@ An Dengem Ënnerdaach sinn ech erwächt, o mäi Gott, an et gehéiert sech deem,
 
 
 
-### <a id="bpn13632"></a> Prayer bpn13632 in Lëtzebuergesch
+
+
+<a id="bpn13632"></a> 
+### Prayer bpn13632 in Lëtzebuergesch
 O mäi Gott a mäi Meeschter! Ech sinn däin Dénger an de Jong vun dengem Dénger. Fréi haut de Moie sinn ech aus mengem Bett opgestanen, wéi d’Sonn vun Denger Eenheet aus der Mueresdämmerung vun Dengem Wëllen erschéngen ass an hire Glanz iwwer d’Welt verbreet huet, sou wéi et an de Bicher vun Dengem Gebot bestëmmt ass.
 	
 	Gelueft bass Du, o mäi Gott, dass mir zur Herrlechkeet vum Liicht vun Dengem Wëssen erwächt sinn. Schéck dann op eis erof, o mäin Här, wat eis fäeg mécht, jiddwereen ausser Dir ze entbieren, a wat eis vun all Unhänglechkeet ausser Dir befreit. Verschreif ausserdeem, fir mech, an all déi, déi ech gär hunn, a fir meng Famill, souwuel Männer wéi Fraen, dat Gutt vun dëser an der nächster Welt. Hal eis dann a Sécherheet, duerch Däin onfeelbare Schutz, o Du, dee jiddwereen an der ganzer Schëpfung gär huet, Du Verlaangere vum ganzen Universum, virun deenen, déi s Du zu Spriechere vum béise Flüsterer gemaach hues, déi an de Mënschen hire Brëscht pësperen. Mächteg bass Du, dat ze maachen, wat Dir gefält. Du bass wierklech den Allmächtegen, Deen, deen a Gefor hëlleft, Deen, deen duerch sech selwer ass.
@@ -1541,7 +1874,10 @@ O mäi Gott a mäi Meeschter! Ech sinn däin Dénger an de Jong vun dengem Déng
 
 
 
-### <a id="bpn13633"></a> Prayer bpn13633 in Lëtzebuergesch
+
+
+<a id="bpn13633"></a> 
+### Prayer bpn13633 in Lëtzebuergesch
 Duerch Deng Gnod, o mäi Gott, sinn ech haut de Moien opgestan, a voll Vertrauen an Dech hunn ech mäin Haus verlooss, a mech Denger Suerg uvertraut. Schéck mir elo, aus dem Himmel vun Dengem Erbaarmen, Däi Seegen op mech erof a looss mech nees sécher heemkommen, sou wéi s Du mech ënner Dengem Schutz erausgoe gelooss hues, mat menge Gedanke fest op Dech geriicht.
 
 Et gëtt kee Gott ausser Dir, deem Engen, dem Onvergläichlechen, dem Allwëssenden, dem Onendlechweisen.
@@ -1552,7 +1888,10 @@ Et gëtt kee Gott ausser Dir, deem Engen, dem Onvergläichlechen, dem Allwëssen
 
 
 
-### <a id="bpn13634"></a> Prayer bpn13634 in Lëtzebuergesch
+
+
+<a id="bpn13634"></a> 
+### Prayer bpn13634 in Lëtzebuergesch
 Ech luewen Dech, O mäi Gott, dass Du mech aus mengem Schlof erwächt hues an dass Du mech, nodeem ech fort war, zeréckkommen a mech aus mengem Schlummer opstoe gelooss hues. Ech sinn haut de Mueren erwächt, mat mengem Bléck der prächteger Sonn vun Denger Offenbarung zougedréit, duerch déi d’Himmele vun Denger Muecht a Majestéit erliicht gi sinn. Ech bekenne mech zu Dengen Zeechen, ech gleewen un Däi Buch an hale mech fest un Dengem Seel.
 
 Ech bieden Dech bei der Muecht vun Dengem Wëllen an der bezwéngender Kraaft vun Denger Absicht: Maach, wat s Du mir am Schlof offenbaart hues, zum séchere Fundament fir d’Wunnenge vun Denger Léift, déi an den Häerzer vun deene sinn, déi Dech gär hunn, an zum beschten Instrument fir d’Offenbarung vun den Zeeche vun Denger Gnod, Léift a Guttheet.
@@ -1570,9 +1909,13 @@ Du enttäuschs keen, deen Dech sicht an häls keen zeréck, dee sech no Dir seen
 
 
 
+
+
+<a id="Mëttellaangt Flichtgebiet"></a> 
 ## Mëttellaangt Flichtgebiet
 
-### <a id="bpn13665"></a> Prayer bpn13665 in Lëtzebuergesch
+<a id="bpn13665"></a> 
+### Prayer bpn13665 in Lëtzebuergesch
 *All Dag moies, mëttes an owes ze soen.
 
 Deen, dee biede wëll, soll sech d’Hänn wäschen, an iwwerdeems e se wäscht, soll e soen:
@@ -1608,9 +1951,13 @@ Ech sinn Zeie vun Denger Eenheet an Denger Eenzegkeet, an dass Du Gott bass, an 
 
 
 
+
+
+<a id="Mëtternuecht"></a> 
 ## Mëtternuecht
 
-### <a id="bpn13629"></a> Prayer bpn13629 in Lëtzebuergesch
+<a id="bpn13629"></a> 
+### Prayer bpn13629 in Lëtzebuergesch
 O du, deen no der Wourecht sicht! Wann s du gär häss, dass Gott deng Aen opmécht, da muss du ëm Mëtternuecht Gott damiddeg froen, zu Him bieden a mat Him schwätzen andeems de sees:
 
 O Här, ech hu mäi Bléck op Däi Räich vun der Eenheet geriicht a sinn am Mier vun Denger Gnod ënnergedaucht. O Här, klär meng Siicht an deem ech Deng Liichter an dëser däischterer Nuecht betruechten, a maach mech frou mam Wäi vun Denger Léift an dëser wonnerbarer Zäit. O Här, looss mech Däi Ruff héieren a maach d’Diere vun Dengem Himmel viru mir op, sou dass ech d’Liicht vun Denger Herrlechkeet ka gesinn an esou vun Denger Schéinheet ugezu ginn.
@@ -1624,9 +1971,13 @@ A Wierklechkeet bass Du Deen, dee gëtt, de Generéisen, de Baarmhäerzegen, Dee
 
 
 
+
+
+<a id="Naw-Rúz"></a> 
 ## Naw-Rúz
 
-### <a id="bpn13658"></a> Prayer bpn13658 in Lëtzebuergesch
+<a id="bpn13658"></a> 
+### Prayer bpn13658 in Lëtzebuergesch
 *Naw-Rúz, den 20. oder 21. Mäerz, den éischten Dag vum Bahá'í Joer.
 
 Gelueft bass Du, o mäi Gott, dass Du Naw-Rúz deenen zum Fest bestëmmt hues, déi d’Faaschten aus Léift zu Dir agehal hunn a sech allem enthal hunn, wat s Du haass. Erlab, o mäi Gott, dass d’Feier vun Denger Léift an d’Hëtzt, déi sech aus deem vun Dir bestëmmte Faaschten entwéckelt, si an Denger Saach entflamen, an dass si sech doduerch Dengem Luef an Dengem Gedenken higinn.
@@ -1646,9 +1997,13 @@ Du bass wierklech den Allwëssenden, den Allweisen.
 
 
 
+
+
+<a id="Owes"></a> 
 ## Owes
 
-### <a id="bpn13635"></a> Prayer bpn13635 in Lëtzebuergesch
+<a id="bpn13635"></a> 
+### Prayer bpn13635 in Lëtzebuergesch
 O mäi Gott, mäi Meeschter, d’Zil vu mengem Verlaangeren. Däin Dénger wëll schlofen am Ënnerdaach vun Dengem Erbaarmen a rouen am Zelt vun Denger Gnod. E biet Dech un, fir dass Du fir hie suergs, an dass näischt un hie kënnt.
 
 Ech bieden Dech o mäin Här, bei Dengem A, dat net schléift, behitt meng Aen, dass si soss näischt kucke wéi Dech. Maach dann hire Bléck schaarf, fir dass si Deng Zeechen erkennen an den Horizont vun Denger Offenbarung kucken. Du bass Deen, virun deem sengen Offenbarunge vun héchster Muecht all Muecht an hirem Wiesenskär ziddert.
@@ -1661,7 +2016,10 @@ Et gëtt kee Gott ausser Dir, dem Allmächtegen, dem Allesënnerwerfenden, dem V
 
 
 
-### <a id="bpn13636"></a> Prayer bpn13636 in Lëtzebuergesch
+
+
+<a id="bpn13636"></a> 
+### Prayer bpn13636 in Lëtzebuergesch
 Wéi kann ech Schlof sichen, o Gott, mäi Gott, wann d’Ae vun deenen, déi no Dir verlaangeren, waakreg sinn, wéinst hirer Trennung vun Dir, a wéi kann ech mech leeë fir ze raschten, wann d’Séile vun deenen, déi Dech gär hunn, uerg leiden, well si wäit ewech si vun Denger Präsenz?
 	
 	Ech hunn, o mäin Här, mäi Geescht a mäi ganzt Wiesen an d’riets Hand vun Denger Muecht an Dengem Schutz ginn, an ech leeë mäi Kapp op mäi Këssen duerch Deng Muecht, an hiewen en nees op, no Dengem Wëllen an Dengem Gefalen. Du bass a Wierklechkeet Deen, deen erhält a versuergt, den Allmächtegen, de Mächtegsten.
@@ -1675,9 +2033,13 @@ Wéi kann ech Schlof sichen, o Gott, mäi Gott, wann d’Ae vun deenen, déi no 
 
 
 
+
+
+<a id="Prüfungen (Tester) a Schwieregkeeten"></a> 
 ## Prüfungen (Tester) a Schwieregkeeten
 
-### <a id="bpn8212"></a> Prayer bpn8212 in Lëtzebuergesch
+<a id="bpn8212"></a> 
+### Prayer bpn8212 in Lëtzebuergesch
 Hien ass de Baarmhäerzegen, dee Ganz Mëtschgiewegen ! O Gott, mäi Gott ! Du gesäis mech, Du kenns mech ; Du bass mäin Hafen a meng Zuflucht. Ech hu kee gesicht a wäert kee sichen ausser Dir. Kee Pad hunn ech betrat a kee wäert ech betrieden ausser de Pad vun Denger Léift. An der däischterer Nuecht vun der Verzweiwelung dréint sech mäi Bléck voll Erwaardung a voll Hoffnung dem Muere vun Denger Gonscht zou, déi ouni Grenzen ass, a mueres, wann et hell gëtt, gëtt meng midd Séil erfrëscht a gestäerkt am Gedenken un Deng Schéinheet a Vollkommenheet.
 
 (Source category: Prüfungen (Tester) a Schwieregkeeten)
@@ -1687,9 +2049,13 @@ Hien ass de Baarmhäerzegen, dee Ganz Mëtschgiewegen ! O Gott, mäi Gott ! Du g
 
 
 
+
+
+<a id="Schutz"></a> 
 ## Schutz
 
-### <a id="bpn13638"></a> Prayer bpn13638 in Lëtzebuergesch
+<a id="bpn13638"></a> 
+### Prayer bpn13638 in Lëtzebuergesch
 … Bewaffnet mat der Muecht vun Dengem Numm, kann näischt mir jeemools wéidoen, a mat Denger Léift a mengem Häerz kann de Misär vun der ganzer Welt mech op keng Manéier beonrouegen. ...
 
 (Source category: Schutz)
@@ -1698,7 +2064,10 @@ Hien ass de Baarmhäerzegen, dee Ganz Mëtschgiewegen ! O Gott, mäi Gott ! Du g
 
 
 
-### <a id="bpn13637"></a> Prayer bpn13637 in Lëtzebuergesch
+
+
+<a id="bpn13637"></a> 
+### Prayer bpn13637 in Lëtzebuergesch
 Éier sief Dir, o Gott! Du bass dee Gott, dee virun allem existéiert huet, deen no allem existéiere wäert an iwwer alles ewech bestoe bleift. Du bass dee Gott, deen alles weess a sech iwwer alles erhieft. Du bass dee Gott, dee mat allem gnädeg ëmgeet, deen tëschent allem entscheet, an deem seng Visioun alles ëmfaasst. Du bass Gott mäin Här, Du kenns meng Lag an Du gesäis mäin ënnerlecht a mäin äusserlecht Wiesen.
 
 Schenk mir an de Gleewegen, déi Dengem Ruff nogaange sinn, Verzeiung. Sief Du meng eenzeg Hëllef géint de Muttwëll vu jiddwerengem dee mir wëll Leed undoen oder mir Schlechtes wënscht. Du bass wierklech den Här vun allem, wat s Du erschafen hues. Du gees jiddwerengem duer, mee ouni Dech ka kee sech selwer duergoen.
@@ -1709,7 +2078,10 @@ Schenk mir an de Gleewegen, déi Dengem Ruff nogaange sinn, Verzeiung. Sief Du m
 
 
 
-### <a id="bpn13639"></a> Prayer bpn13639 in Lëtzebuergesch
+
+
+<a id="bpn13639"></a> 
+### Prayer bpn13639 in Lëtzebuergesch
 O mäin Här! Du weess dass d’Mënschen ëmzéngelt si vu Leed a Misär, an ëmgi si vun Nout an Ierger. Prüfunge ploen de Mënsch, a schrecklech Onglécker iwwerfalen hie wéi den Ugrëff vun enger Schlaang. Et gëtt keen Ënnerdaach, keen Asyl fir hien ausser ënnerem Flillek vun Dengem Schutz, Dengem Schierm, Denger Opsiicht an Dénger Wuecht.
 
 O Du Baarmhäerzegen! O mäin Här! Maach Däi Schutz meng Rüstung, Däi Schierm mäi Schëld, Bescheidenheet virun der Dier vun Denger Eenzegkeet mäi Wiechter, Deng Wuecht a Verdeedegung meng Festung a meng Wunneng. Schierm mech of virum Afloss vum Ego an dem Verlaangen, a beschütz mech vun all Krankheet, Plo, Schwieregkeet a Misär.
@@ -1722,7 +2094,10 @@ A Wierklechkeet bass Du de Beschützer, den Hidder, den Erhaler, Deen, dee sech 
 
 
 
-### <a id="bpn13640"></a> Prayer bpn13640 in Lëtzebuergesch
+
+
+<a id="bpn13640"></a> 
+### Prayer bpn13640 in Lëtzebuergesch
 O Du gudden Här!
 
 Dës Séile sinn Deng Frënn, déi zesummekomm a vun Denger Léift fortgedroe sinn. Si gi vun de Strale vun Denger Schéinheet ugezunn a vun Dengen no Moschuss doftende Krausele verzaubert. Si hunn Dir hir Häerzer iwwerginn a wanderen, damiddeg a verluer, op Dengem Wee. Si hunn esouwuel Frënd wéi Frieme verlooss a sech un Deng Eenheet geklamert, verneigt an Ubiedung virun Dir.
@@ -1739,7 +2114,10 @@ O Du gudden Här, dee mir gär hunn! Si si wéi de Kierper, an Du bass de Geesch
 
 
 
-### <a id="bpn13641"></a> Prayer bpn13641 in Lëtzebuergesch
+
+
+<a id="bpn13641"></a> 
+### Prayer bpn13641 in Lëtzebuergesch
 Hien ass Gott.
 
 O Gott, mäi Gott! Mat äusserster Bescheidenheet an Äifer, Damiddegkeet an Ubiedung, bieden ech Dech mat menger Zong a mengem Häerz, mat mengem Geescht a menger Séil, mat mengem Verstand a mengem Gewëssen, dee meeschtgeschätzte vun alle Wënsch ze erfëllen, déi verdéngschtvollst vun allen Doten ze bestëmmen, an all Éier a Vollkommenheet, Gonscht a Schéinheet, Wuelstand a Séilegkeet fir dës Famill ze veruerdnen, déi sech, beim Ubrieche vun Dengem stralende Moien, an Däi schützende Schiet geflass huet an en Ënnerdaach an Dengem sécheren Hafen an Denger mächteger Festung gesicht huet. Wierklech, dës Séilen hunn Dengem Ruff nogelauschtert, sinn no bei Deng Schwell komm, goufe vum Feier vun Denger Léift entflaamt a vun den Otemzich vun Denger Hellegkeet fortgedroen. Si ware bestänneg am Déngscht vun Denger Saach, damiddeg virun Dir an eedel ënner Dengem schützende Schiet. Si sinn ënner Dengem Vollek bekannt als déi, déi Däin Numm droen an ernimmen Dech ënner Dengen Dénger.
@@ -1755,9 +2133,13 @@ O Här, mäi Gott! Sief Du hire Begleeder an hirer Einsamkeet an ëmstell si mat
 
 
 
+
+
+<a id="Standhaftegkeet"></a> 
 ## Standhaftegkeet
 
-### <a id="bpn13642"></a> Prayer bpn13642 in Lëtzebuergesch
+<a id="bpn13642"></a> 
+### Prayer bpn13642 in Lëtzebuergesch
 O Här, mäi Gott! Stéi deene bäi, déi s Du gär hues, fir dass si fest an Dengem Glawe sinn, op Denge Weeër ginn a standhaft an Denger Saach sinn. Gëff hinnen Deng Gnod, dem Stuerm vun der Selbstsucht an der Leidenschaft ze widderstoen, an dem Liicht vun der gëttlecher Féierung nozegoen. Du bass de Mächtegen, de Gnädegen, Deen, deen duerch sech selwer ass, Deen, dee gëtt, de Matleedvollen, den Allmächtegen, de Ganzgeneréisen.
 
 (Source category: Standhaftegkeet)
@@ -1767,9 +2149,13 @@ O Här, mäi Gott! Stéi deene bäi, déi s Du gär hues, fir dass si fest an De
 
 
 
+
+
+<a id="Tablett un den Ahmad"></a> 
 ## Tablett un den Ahmad
 
-### <a id="bpn13661"></a> Prayer bpn13661 in Lëtzebuergesch
+<a id="bpn13661"></a> 
+### Prayer bpn13661 in Lëtzebuergesch
 *Dës deeglech virgeschriwwe Gebieder, zesumme mat e puer aner spezifesche Gebieder, wéi d’Heelungsgebiet, d’Tablett un den Ahmad, krute vu Bahá’u’lláh eng besonnesch Kraaft a Bedeitung. Sou sollte si ugeholl ginn. Déi Gleeweg sollte si mat festem Glawen a Vertraue liesen, dass si duerch dës Gebieder an eng vill méi enk Verbindung mat Gott kommen a sech nach méi mat Senge Gesetzer a Geboter identifizéiere kënnen.
 *Shoghi Effendi
  
@@ -1816,9 +2202,13 @@ A Wierklechkeet, ass Hien de Baarmhäerzegen, de Matleedvollen. Gelueft sief Got
 
 
 
+
+
+<a id="Versammlung"></a> 
 ## Versammlung
 
-### <a id="bpn13659"></a> Prayer bpn13659 in Lëtzebuergesch
+<a id="bpn13659"></a> 
+### Prayer bpn13659 in Lëtzebuergesch
 Kommt zesummen a gréisster Freed a sot dëst Gebiet am Ufank vun der Versammlung:
 
 O Du Här vum Kinnekräich! Och wann eis Kierperen hei zesumme versammelt sinn, ginn eis faszinéiert Häerzer awer vun Denger Léift fortgedroen, a mir si verzaubert vun de Strale vun Dengem herrlechen Ubléck. Och wa mir schwaach sinn, waarde mir op d’Offenbarunge vun Denger Muecht a Stäerkt. Och wa mir aarm, ouni Gidder a Mëttelen sinn, huele mir awer Räichtemer aus de Schätz vun Dengem Räich. Och wa mir Drëpse sinn, huele mir awer Kraaft aus den Déifte vun Dengem Mier. Och wa mir Stëbskäre sinn, glënnere mir awer an der Pruecht vun Denger herrlecher Sonn.
@@ -1831,7 +2221,10 @@ O Du, deen s Du eis versuergs! Schéck eis Deng Hëllef erof, fir dass jiddweree
 
 
 
-### <a id="bpn13660"></a> Prayer bpn13660 in Lëtzebuergesch
+
+
+<a id="bpn13660"></a> 
+### Prayer bpn13660 in Lëtzebuergesch
 Hien ass den Allherrlechen.
 
 O mäin Här, mäi Kinnek, mäin Herrscher, a mäi Souverän. Ech riichte mech un Dech mat menger Zong, mengem Häerz, a menger Séil a soen: Kleed Däin Dénger mam Mantel vun Denger Suerg, dem Gewand vun Denger onfeelbarer Hëllef, an der Rüstung vun Dengem Schutz. Stéi him bäi, Dech ze ernimmen an Deng Dugenden ënner Dengem Vollek ze luewen, a léis seng Zong, fir dass hien Deng Herrlechkeet an Däi Luef an all Versammlung séngt, déi zur Feier vun Denger Eenheet an Hellegkeet gehal gëtt. Du bass a Wierklechkeet de Mächtegen, de Staarken, den Allherrlechen, Deen, deen duerch sech selwer ass.
@@ -1843,9 +2236,13 @@ O mäin Här, mäi Kinnek, mäin Herrscher, a mäi Souverän. Ech riichte mech u
 
 
 
+
+
+<a id="Verstuerwen"></a> 
 ## Verstuerwen
 
-### <a id="bpn13643"></a> Prayer bpn13643 in Lëtzebuergesch
+<a id="bpn13643"></a> 
+### Prayer bpn13643 in Lëtzebuergesch
 *Dëst Gebiet sollt am Ufank vun der Andeelung fir déi Verstuerwe stoen D‘Gebiet fir déi Verstuerwen ass dat eenzegt obligatorescht Bahá'í Gebiet, wat an der Kongregatioun ze rezitéieren ass; et gëtt vun engem Gleewege rezitéiert, iwwerdeems all déi, déi do sinn, an der Stëll do stinn. Bahá’u’lláh huet erkläert, dass dëst Gebiet nëmmen néideg ass, wann de Verstuerwenen iwwer fofzéng Joer al ass, dass et muss gesot ginn, ier d‘Doudelued an d‘Graf erofgelooss gëtt, an dass et net néideg ass, sech der Qiblih zouzedréien, wann et gesot gëtt. „Alláh-u-Abhá“ gëtt eemol gesot; da gëtt den éischte vun de sechs Verser nonzéngmol gesot. Da gëtt „Alláh-u-Abhá“ nees gesot, suivéiert vum zweete Vers, deen dann nongzéngmol gesot gëtt, a sou weider.
 
 O mäi Gott! Dat hei ass däin Dénger an de Jong vun Dengem Dénger, deen un Dech an un Deng Zeeche gegleeft huet, an deen Dir säi Bléck zougedréint huet, ganz lassgeléist vun allem ausser Dir. Du bass wierklech, vun deenen déi Baarmhäerzegkeet weisen, de Baarmhäerzegsten.
@@ -1869,7 +2266,10 @@ A Wierklechkeet si mir all gedëlleg a Gott.
 
 
 
-### <a id="bpn13644"></a> Prayer bpn13644 in Lëtzebuergesch
+
+
+<a id="bpn13644"></a> 
+### Prayer bpn13644 in Lëtzebuergesch
 O JONG VUN DER EXISTENZ! Lee dir selwer all Dag Rechenschaft of, éier s du zur Rechenschaft gezu gëss; well den Doud kënnt onerwaart, an da muss du dech fir deng Dote veräntweren.
 
 (Source category: Verstuerwen)
@@ -1878,7 +2278,10 @@ O JONG VUN DER EXISTENZ! Lee dir selwer all Dag Rechenschaft of, éier s du zur 
 
 
 
-### <a id="bpn13645"></a> Prayer bpn13645 in Lëtzebuergesch
+
+
+<a id="bpn13645"></a> 
+### Prayer bpn13645 in Lëtzebuergesch
 Erlab, o mäin Här, dass déi, déi zu Dir eropkomm sinn, an Dir, dem beschte Komerod, en Ënnerdaach fannen, an dass si am Schiet vum Tabernakel vun Denger Majestéit an am Hellegtum vun Denger Herrlechkeet wunnen. Verspreet Du iwwer si, o mäin Här, vum Mier vun Denger Verzeiung, wat si wierdeg mécht, an Dengem allerhéchste Kinnekräich an am himmleschen Domän ze wunnen, soulaang wéi Deng Herrschaft dauert. Mächteg bass Du ze maachen, wat Dir gefält.
 
 (Source category: Verstuerwen)
@@ -1887,7 +2290,10 @@ Erlab, o mäin Här, dass déi, déi zu Dir eropkomm sinn, an Dir, dem beschte K
 
 
 
-### <a id="bpn13646"></a> Prayer bpn13646 in Lëtzebuergesch
+
+
+<a id="bpn13646"></a> 
+### Prayer bpn13646 in Lëtzebuergesch
 So: O Gott, mäi Gott! Du hues mengen Hänn e Schaz vun Dir uvertraut, an no Dengem Wëllen, wéi et Dir gefält, hues Du en elo zu Dir zeréckgeruff. Et steet mir, Denger Mod, net zou, ze froen, firwat mech dat getraff huet oder firwat et geschitt ass, well Du gëss verherrlecht an all Denge Wierker, an Dengem Befeel muss gefollegt ginn. Deng Mod, o mäin Här, huet hir Hoffnungen op Deng Gnod a Guttheet gesat. Looss si dat erreechen, wat si no bei Dech bréngt, a wat hir an all Denge Welten zegutt kënnt. Du bass Deen, dee verzeit, de Ganzgeneréisen. Et gëtt kee Gott ausser Dir, Deen, dee bestëmmt, den Uréiwegen.
 
 (Source category: Verstuerwen)
@@ -1896,7 +2302,10 @@ So: O Gott, mäi Gott! Du hues mengen Hänn e Schaz vun Dir uvertraut, an no Den
 
 
 
-### <a id="bpn13647"></a> Prayer bpn13647 in Lëtzebuergesch
+
+
+<a id="bpn13647"></a> 
+### Prayer bpn13647 in Lëtzebuergesch
 O Du, dee gëtt, O Du, dee verzeit!
 
 Eng nobel Séil ass an d’Kinnekräich vun der Wierklechkeet opgestigen an huet sech vun der stierflecher Welt vum Stëbs an d’Räich vun der éiweger Herrlechkeet geflass. Erhief de Rang vun dësem Gaascht, dee viru kuerzem ukomm ass an do dësem laangjäregen Dénger en neit, wonnerschéint Kleed un.
@@ -1909,7 +2318,10 @@ O Du onvergläichlechen Här! Gewär Deng Verzeiung an zäertlech Suerg, sou dat
 
 
 
-### <a id="bpn13648"></a> Prayer bpn13648 in Lëtzebuergesch
+
+
+<a id="bpn13648"></a> 
+### Prayer bpn13648 in Lëtzebuergesch
 Hien ass Gott.
 
 O Du verzeienden Här! Dës Dénger waren nobel Séilen, an dës stralend Häerzer goufen duerch d’Liicht vun Denger Féierung hell a stralend gemaach. Si hunn e Kielech, bis zum Rand gefëllt, mam Wäin vun Denger Léift gedronk, a schenken den éiwege Geheimnisser, déi vun de Melodië vun Dengem Wëssen erkléngen, Gehéier. Si hunn hir Häerzer un Dech gebonnen, sech vun der Schléng vum Ausernanerliewe lassgerappt a sech un Deng Eenheet geklamert. Maach dës wäertvoll Séile Begleeder vun den Awunner vum Himmel an huel se op an de Krees vun Dengen Auserwielten. Maach si zu Vertraute vun Denge Geheimnisser am Räich do uewen an dauch se an d‘Mier vu Liicht. Du bass Deen, dee gëtt, de Liichtenden, an de Gnädegen.
@@ -1920,7 +2332,10 @@ O Du verzeienden Här! Dës Dénger waren nobel Séilen, an dës stralend Häerz
 
 
 
-### <a id="bpn13649"></a> Prayer bpn13649 in Lëtzebuergesch
+
+
+<a id="bpn13649"></a> 
+### Prayer bpn13649 in Lëtzebuergesch
 O gëttlech Vorseeung, Du bass den Ëmmerverzeienden!
 
 O Du allmächtege Gott, Du bass de Gnädegen! Looss dësen Dénger, deen s Du immens gär hues, am Schiet vun Denger Herrlechkeet rouen a gewär, dass dësen Onglécklechen an Aarmen an de Grenze vun Denger Baarmhäerzegkeet gedeit an opblitt. Gëff him ze drénken aus dem Kielech vum Nobäisi bei Dir a looss hien am Schiet vum geseente Bam wunnen. Bewëlleg him d’Éier, Deng Presenz ze erreechen a schenk him éiweg Séilegkeet. Hëllef gnädeg der iwwerliewender Famill vun dëser eedeler Séil, dass si an d’Foussspuere vun hirem léiwe Papp trëtt, säi Charakter a säi Verhalen ënner alle Mënschen erëmspigelt, Dengem Pad nogeet, Däi Gefale sicht an Däi Luef ausschwätzt. Du bass de Gott, deen éiweg gär huet, den Här vun der Mëtschgiewegkeet.
@@ -1932,9 +2347,13 @@ O Du allmächtege Gott, Du bass de Gnädegen! Looss dësen Dénger, deen s Du im
 
 
 
+
+
+<a id="Verzeiung"></a> 
 ## Verzeiung
 
-### <a id="bpn13650"></a> Prayer bpn13650 in Lëtzebuergesch
+<a id="bpn13650"></a> 
+### Prayer bpn13650 in Lëtzebuergesch
 Ech bieden Dech mir ze verzeien, o mäin Här, fir d‘Ernimme vun allem ausser Dir, fir all Luef ausser Dengem, fir all Freed ausser där, no bei Dir ze sinn, fir all Pleséier ausser deem, mat Dir verbonnen ze sinn, fir all Gléck ausser deem, vun Denger Léift a guddem Wëllen, a fir all Saachen déi mech uginn, déi awer näischt mat Dir ze dinn hunn, o Du, deen s Du den Här vun allen Häre bass, Deen, deen d’Mëttele verschaaft an d’Dieren opspäert.
 
 (Source category: Verzeiung)
@@ -1943,7 +2362,10 @@ Ech bieden Dech mir ze verzeien, o mäin Här, fir d‘Ernimme vun allem ausser 
 
 
 
-### <a id="bpn13651"></a> Prayer bpn13651 in Lëtzebuergesch
+
+
+<a id="bpn13651"></a> 
+### Prayer bpn13651 in Lëtzebuergesch
 Éier sief Dir o Gott! Wéi kann ech vun Dir schwätzen, wou s Du gehellegt bass iwwer de Luef vun der ganzer Mënschheet? Verherrlecht sief Däin Numm, o Gott! Du bass de Kinnek, déi éiweg Wourecht. Du weess, wat an den Himmelen an op der Äerd ass, an zu Dir musse si all zeréckkommen. Du hues Deng gëttlech bestëmmten Offenbarung, no enger präziser Mooss, erofgeschéckt. Gelueft bass Du o Här! Duerch Däin Uerder, méchs Du, wien och ëmmer s Du wëlls, zum Gewënner, mat der Hëllef vun den Arméien aus dem Himmel, der Äerd, an deem wat dertëschent läit. Du bass den héchsten Herrscher, déi éiweg Wourecht, den Här, deem seng Muecht net ze iwwerwannen ass. Verherrlecht bass Du o Här! Du verzeis zu jiddwer Zäit d’Sënne vu jiddwerengem vun Dengen Dénger, déi Dech ëm Verzeiung bieden.
 
 Wäsch meng Sënnen of, an och d’Sënne vun deenen, déi bei der Mueresdämmerung Deng Verzeiung sichen, déi zu Dir bieden am Dag wéi an der Nuecht, déi no näischt ausser Gott verlaangeren, déi hierginn, wat och ëmmer Gott hinne gnädeg zougesteet, déi Däi Luef moies an owes feieren, an net noléisseg sinn an hire Flichten.
@@ -1954,13 +2376,18 @@ Wäsch meng Sënnen of, an och d’Sënne vun deenen, déi bei der Mueresdämmer
 
 
 
-### <a id="bpn13652"></a> Prayer bpn13652 in Lëtzebuergesch
+
+
+<a id="bpn13652"></a> 
+### Prayer bpn13652 in Lëtzebuergesch
 O Här!
 
 Gëff mir en Undeel vun Denger Gnod, Léift a Guttheet, Denger Fleeg an dengem Schutz, Dengem Ënnerdaach an Denger Mëtschgiewegkeet, datt d’Enn vu mengen Deeg sech iwwer hiren Ufank erhieft an de Schluss vu mengem Liewen d’Portaler zu Denge villfältege Seegen opmécht. Looss Deng Léift, Guttheet a Baarmhäerzegkeet zu all Moment op mech erofkommen a mir Deng Verzeiung an Däi Matleed mat all Otemzuch zoukommen, bis ech ënner dem schützende Schiet vun Dengem erhuewene Fändel, endlech an d’Kinnekräich vun Deem, dee vun alle gelueft gëtt, anzéie kann. Du bass Deen, dee gëtt an ëmmer gär huet an Du bass wierklech den Här vun der Gnod a Mëtschgiewegkeet.
 
 (Source category: Verzeiung)
 (Bahaiprayers.net ID: 13652)
+
+
 
 
 
