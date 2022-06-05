@@ -1,3 +1,0 @@
-+++
-title = "Nearness to God"
-+++

@@ -1,3 +1,0 @@
-+++
-title = "Long Healing Prayer"
-+++

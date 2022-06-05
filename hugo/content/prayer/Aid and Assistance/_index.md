@@ -1,3 +1,0 @@
-+++
-title = "Aid and Assistance"
-+++

@@ -21,6 +21,7 @@ import (
 	"net/http"
 	"os"
 	"strconv"
+	"strings"
 	"sync"
 	"text/template"
 
@@ -33,7 +34,7 @@ var Local string = APILINK
 
 type Author int
 
-var TMPLOUTPUT = template.Must(template.New("markdown").Parse(`+++
+var TMPLPRAYER = template.Must(template.New("markdown").Parse(`+++
 title = "{{.Title}}"
 author = "{{.Author}}"
 tags = ['lang-{{.LanguageCode}}', 'prayer-{{.PrayerCodeTag}}', "author-{{.Author}}", "category-{{.ENCategory}}", "cat-{{.Category}}"]
@@ -42,6 +43,23 @@ tags = ['lang-{{.LanguageCode}}', 'prayer-{{.PrayerCodeTag}}', "author-{{.Author
 
 (Source category: {{.Category}})
 (Bahaiprayers.net ID: {{.Id}})
+`))
+
+var TMPLPRAYERBOOK = template.Must(template.New("markdown").Parse(`+++
+title = "{{.LanguageName}}"
+tags = ['lang={{.LanguageCode}}', 'prayerbook']
++++
+{{range $cat, $prayer := .ByCategory}}
+## {{$cat}}
+{{range $prayer}}
+### <a id="{{.PrayerCode}}"></a> {{.Title}}
+{{.Text}}
+
+(Source category: {{.Category}})
+(Bahaiprayers.net ID: {{.Id}})
+
+{{end}}
+{{end}}
 `))
 
 func (a Author) String() string {
@@ -67,6 +85,29 @@ type Prayer struct {
 		Id   int
 		Name string
 	}
+}
+
+type PrayerBook struct {
+	LanguageName string
+	LanguageCode string
+	ByCategory   map[string][]Prayer
+}
+
+type PrayerBooks map[string]PrayerBook
+
+func FillPrayerBooks(prayers []Prayer) PrayerBooks {
+	books := make(PrayerBooks)
+	for _, p := range prayers {
+		if _, ok := books[p.LanguageCode]; !ok {
+			books[p.LanguageCode] = PrayerBook{
+				LanguageName: p.LanguageName,
+				LanguageCode: p.LanguageCode,
+				ByCategory:   make(map[string][]Prayer),
+			}
+		}
+		books[p.LanguageCode].ByCategory[p.Category] = append(books[p.LanguageCode].ByCategory[p.Category], p)
+	}
+	return books
 }
 
 func ProgressBar(p, max int, part string) {
@@ -307,11 +348,29 @@ title = "%s"
 	if err != nil {
 		panic(err.Error())
 	}
-	if err = TMPLOUTPUT.Execute(f, prayer); err != nil {
+	if err = TMPLPRAYER.Execute(f, prayer); err != nil {
 		panic(err)
 	}
 	f.Close()
 
+}
+
+// SavePrayerBook saves a prayer book. It's like SavePrayer but it doesn't take path elements.
+func SavePrayerBook(outputDir, lang string, book PrayerBook) {
+	dir := outputDir + "/" + lang + "/"
+	// Remove double slashes
+	dir = strings.Replace(dir, "//", "/", -1)
+	// Create the directory
+	os.MkdirAll(dir, 0755)
+	// Create the file and fill it with the prayer text
+	f, err := os.Create(dir + "_index.md")
+	if err != nil {
+		panic(err.Error())
+	}
+	if err = TMPLPRAYERBOOK.Execute(f, book); err != nil {
+		panic(err)
+	}
+	f.Close()
 }
 
 type Prayerfile struct {
@@ -394,6 +453,7 @@ func main() {
 	var outputToFiles bool
 	var outputToSQLite bool
 	var showBPN bool
+	var prayerBook bool
 	var db *sql.DB
 	flag.StringVar(&outputDir, "d", "prayer", "Output directory")
 	flag.StringVar(&outputFile, "o", "prayer.db", "Output sqlite file")
@@ -401,6 +461,7 @@ func main() {
 	flag.BoolVar(&outputToFiles, "dir", false, "Output to files?")
 	flag.BoolVar(&outputToSQLite, "db", false, "Output to sqlite?")
 	flag.BoolVar(&showBPN, "s", false, "Show bpn prayers?")
+	flag.BoolVar(&prayerBook, "book", false, "Output prayer book?")
 	flag.Parse()
 
 	// if sqlite output is set, create the database
@@ -449,19 +510,38 @@ func main() {
 		}
 		count := 0
 		fmt.Println("Saving prayers to files...")
-		for _, prayerlist := range prayerMap {
-			if showBPN {
-				for _, p := range prayerlist.Prayers {
-					count++
-					SavePrayer(outputDir, p, ShowBPN, CategoryPathElement, PrayerCodePathElement, LanguagePathElement, BPNPathElement)
-				}
-			} else {
-				for _, p := range prayerlist.Prayers {
-					count++
-					SavePrayer(outputDir, p, CategoryPathElement, PrayerCodePathElement, LanguagePathElement)
+		if prayerBook {
+			// Put all prayers in a slice
+			prayers := make([]Prayer, 0)
+			for _, pf := range prayerMap {
+				for _, prayer := range pf.Prayers {
+					prayers = append(prayers, prayer)
 				}
 			}
-			ProgressBar(count, total, strconv.Itoa(count))
+			// Fill the prayer books
+			prayerbooks := FillPrayerBooks(prayers)
+			// Save prayer book per language
+			total := len(prayerbooks)
+			for lang, prayerbook := range prayerbooks {
+				SavePrayerBook(outputDir, lang, prayerbook) // Save the prayer book
+				count++
+				ProgressBar(count, total, lang)
+			}
+		} else {
+			for _, prayerlist := range prayerMap {
+				if showBPN {
+					for _, p := range prayerlist.Prayers {
+						count++
+						SavePrayer(outputDir, p, ShowBPN, CategoryPathElement, PrayerCodePathElement, LanguagePathElement, BPNPathElement)
+					}
+				} else {
+					for _, p := range prayerlist.Prayers {
+						count++
+						SavePrayer(outputDir, p, CategoryPathElement, PrayerCodePathElement, LanguagePathElement)
+					}
+				}
+				ProgressBar(count, total, strconv.Itoa(count))
+			}
 		}
 		fmt.Println()
 	}

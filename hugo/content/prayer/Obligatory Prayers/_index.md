@@ -1,3 +1,0 @@
-+++
-title = "Obligatory Prayers"
-+++
