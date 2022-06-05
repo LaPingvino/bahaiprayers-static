@@ -187,7 +187,7 @@ O mijn Heer! Zuiver hen van overtredingen, verdrijf hun droefheid en verander hu
 
 -- Abdu'l-Bahá
 
-AB11094 «[Español](../es/#AB11094)» «[Frysk](../fy/#AB11094)» «[English](../en/#AB11094)» «[Esperanto](../eo/#AB11094)» «[Nederlands](../nl/#AB11094)» 
+AB11094 «[English](../en/#AB11094)» «[Frysk](../fy/#AB11094)» «[Esperanto](../eo/#AB11094)» «[Nederlands](../nl/#AB11094)» «[Español](../es/#AB11094)» 
 
 ----
 
@@ -697,7 +697,7 @@ Waarlijk, wij allen zijn geduldig in God.
 
 -- Bahá'u'lláh
 
-BH09085 «[Frysk](../fy/#BH09085)» «[English](../en/#BH09085)» «[Nederlands](../nl/#BH09085)» 
+BH09085 «[English](../en/#BH09085)» «[Frysk](../fy/#BH09085)» «[Nederlands](../nl/#BH09085)» 
 
 ----
 
@@ -769,7 +769,7 @@ Schep in mij een zuiver hart, o mijn God, en vernieuw in mij een rustig geweten,
 
 -- Bahá'u'lláh
 
-BH04421HEA «[Frysk](../fy/#BH04421HEA)» «[English](../en/#BH04421HEA)» «[Esperanto](../eo/#BH04421HEA)» «[Nederlands](../nl/#BH04421HEA)» 
+BH04421HEA «[English](../en/#BH04421HEA)» «[Frysk](../fy/#BH04421HEA)» «[Esperanto](../eo/#BH04421HEA)» «[Nederlands](../nl/#BH04421HEA)» 
 
 ----
 
@@ -841,7 +841,7 @@ Ik smeek U, o mijn God, bij de alles te boven gaande glorie van Uw Naam, Uw geli
 
 -- Bahá'u'lláh
 
-BH00531TRA «[Español](../es/#BH00531TRA)» «[English](../en/#BH00531TRA)» «[Nederlands](../nl/#BH00531TRA)» 
+BH00531TRA «[English](../en/#BH00531TRA)» «[Nederlands](../nl/#BH00531TRA)» «[Español](../es/#BH00531TRA)» 
 
 ----
 
@@ -910,7 +910,7 @@ Gij zijt waarlijk barmhartig, en Gij zijt waarlijk de Edelmoedigste, Wiens hulp 
 
 -- Abdu'l-Bahá
 
-AB07709CON «[Español](../es/#AB07709CON)» «[English](../en/#AB07709CON)» «[Nederlands](../nl/#AB07709CON)» 
+AB07709CON «[English](../en/#AB07709CON)» «[Nederlands](../nl/#AB07709CON)» «[Español](../es/#AB07709CON)» 
 
 ----
 
@@ -931,7 +931,7 @@ Waarlijk, Gij zijt de Edelmoedigste, de Heer van overvloedige genade. Er is geen
 
 -- Abdu'l-Bahá
 
-AB09139 «[Français](../fr/#AB09139)» «[Português (BR)](../pt/#AB09139)» «[English](../en/#AB09139)» «[Nederlands](../nl/#AB09139)» 
+AB09139 «[Português (BR)](../pt/#AB09139)» «[English](../en/#AB09139)» «[Français](../fr/#AB09139)» «[Nederlands](../nl/#AB09139)» 
 
 ----
 
@@ -1008,7 +1008,7 @@ Uw Naam is mijn genezing, o mijn God, en het U gedenken is mijn medicijn. U nabi
 
 -- Bahá'u'lláh
 
-BH01313NAM «[Português (BR)](../pt/#BH01313NAM)» «[Español](../es/#BH01313NAM)» «[Frysk](../fy/#BH01313NAM)» «[English](../en/#BH01313NAM)» «[Esperanto](../eo/#BH01313NAM)» «[Nederlands](../nl/#BH01313NAM)» 
+BH01313NAM «[Português (BR)](../pt/#BH01313NAM)» «[English](../en/#BH01313NAM)» «[Frysk](../fy/#BH01313NAM)» «[Esperanto](../eo/#BH01313NAM)» «[Nederlands](../nl/#BH01313NAM)» «[Español](../es/#BH01313NAM)» 
 
 ----
 
@@ -1299,7 +1299,7 @@ Gij zijt waarlijk de Koning van alle mensen. Er is geen God dan Gij, de Immerver
 
 -- Bahá'u'lláh
 
-BH10973 «[Frysk](../fy/#BH10973)» «[English](../en/#BH10973)» «[Esperanto](../eo/#BH10973)» «[Nederlands](../nl/#BH10973)» 
+BH10973 «[English](../en/#BH10973)» «[Frysk](../fy/#BH10973)» «[Esperanto](../eo/#BH10973)» «[Nederlands](../nl/#BH10973)» 
 
 ----
 
@@ -1368,7 +1368,7 @@ Geef ons ons dagelijks brood en voorzie steeds meer in onze levensbehoeften, opd
 
 -- Abdu'l-Bahá
 
-AB00431PIT «[Papiamentu](../pap/#AB00431PIT)» «[English](../en/#AB00431PIT)» «[Esperanto](../eo/#AB00431PIT)» «[Nederlands](../nl/#AB00431PIT)» 
+AB00431PIT «[English](../en/#AB00431PIT)» «[Esperanto](../eo/#AB00431PIT)» «[Nederlands](../nl/#AB00431PIT)» «[Papiamentu](../pap/#AB00431PIT)» 
 
 ----
 
@@ -1391,7 +1391,7 @@ Gij zijt waarlijk de Ene, de Enige, de Machtige, de Alwetende, de Alwijze.
 
 -- Abdu'l-Bahá
 
-AB10275 «[Español](../es/#AB10275)» «[English](../en/#AB10275)» «[Nederlands](../nl/#AB10275)» 
+AB10275 «[English](../en/#AB10275)» «[Nederlands](../nl/#AB10275)» «[Español](../es/#AB10275)» 
 
 ----
 
@@ -1456,7 +1456,7 @@ Glorie zij U, o mijn God! Waarlijk, deze dienaar en dienares van U zijn onder de
 
 -- Abdu'l-Bahá
 
-AB07158 «[Frysk](../fy/#AB07158)» «[English](../en/#AB07158)» «[Nederlands](../nl/#AB07158)» 
+AB07158 «[English](../en/#AB07158)» «[Frysk](../fy/#AB07158)» «[Nederlands](../nl/#AB07158)» 
 
 ----
 
@@ -1506,7 +1506,7 @@ Gij zijt de Schenker, de Liefderijke.
 
 -- Abdu'l-Bahá
 
-AB10492 «[Español](../es/#AB10492)» «[Nederlands](../nl/#AB10492)» 
+AB10492 «[Nederlands](../nl/#AB10492)» «[Español](../es/#AB10492)» 
 
 ----
 
@@ -1565,7 +1565,7 @@ Gij zijt de Genadige, de Liefderijke.
 
 -- Abdu'l-Bahá
 
-AB10714 «[Français](../fr/#AB10714)» «[English](../en/#AB10714)» «[Nederlands](../nl/#AB10714)» 
+AB10714 «[English](../en/#AB10714)» «[Français](../fr/#AB10714)» «[Nederlands](../nl/#AB10714)» 
 
 ----
 
@@ -1577,7 +1577,7 @@ Gij zijt de Krachtige, de Liefderijke.
 
 -- Abdu'l-Bahá
 
-AB10701 «[Español](../es/#AB10701)» «[English](../en/#AB10701)» «[Nederlands](../nl/#AB10701)» 
+AB10701 «[English](../en/#AB10701)» «[Nederlands](../nl/#AB10701)» «[Español](../es/#AB10701)» 
 
 ----
 
@@ -1598,7 +1598,7 @@ Gij zijt de Machtige en de Krachtige.
 
 -- Abdu'l-Bahá
 
-AB04427LMP «[Papiamentu](../pap/#AB04427LMP)» «[Frysk](../fy/#AB04427LMP)» «[English](../en/#AB04427LMP)» «[Esperanto](../eo/#AB04427LMP)» «[Nederlands](../nl/#AB04427LMP)» 
+AB04427LMP «[English](../en/#AB04427LMP)» «[Frysk](../fy/#AB04427LMP)» «[Esperanto](../eo/#AB04427LMP)» «[Nederlands](../nl/#AB04427LMP)» «[Papiamentu](../pap/#AB04427LMP)» 
 
 ----
 
@@ -1823,7 +1823,7 @@ Allen zijn slechts arm en behoeftig, en Gij zijt waarlijk de Albezitter, de Albe
 
 -- Bahá'u'lláh
 
-BH00868WIT «[Italiano](../it/#BH00868WIT)» «[English](../en/#BH00868WIT)» «[Nederlands](../nl/#BH00868WIT)» 
+BH00868WIT «[English](../en/#BH00868WIT)» «[Nederlands](../nl/#BH00868WIT)» «[Italiano](../it/#BH00868WIT)» 
 
 ----
 
@@ -2026,7 +2026,7 @@ Er is geen ander God dan Gij, de Ene, de Onvergelijkelijke, de Alwetende, de Alw
 
 -- Bahá'u'lláh
 
-BH00009GRA «[Papiamentu](../pap/#BH00009GRA)» «[English](../en/#BH00009GRA)» «[Esperanto](../eo/#BH00009GRA)» «[Nederlands](../nl/#BH00009GRA)» 
+BH00009GRA «[English](../en/#BH00009GRA)» «[Esperanto](../eo/#BH00009GRA)» «[Nederlands](../nl/#BH00009GRA)» «[Papiamentu](../pap/#BH00009GRA)» 
 
 ----
 
@@ -2040,7 +2040,7 @@ Gij stelt niemand die U zoekt teleur noch houdt Gij iemand die naar U verlangt v
 
 -- Bahá'u'lláh
 
-BH00009AWA «[Frysk](../fy/#BH00009AWA)» «[English](../en/#BH00009AWA)» «[Nederlands](../nl/#BH00009AWA)» 
+BH00009AWA «[English](../en/#BH00009AWA)» «[Frysk](../fy/#BH00009AWA)» «[Nederlands](../nl/#BH00009AWA)» 
 
 ----
 
@@ -2445,7 +2445,7 @@ Uw macht is, in waarheid, tegen alles bestand.
 
 -- Bahá'u'lláh
 
-BH09024 «[Español](../es/#BH09024)» «[Afrikaans](../af/#BH09024)» «[English](../en/#BH09024)» «[Esperanto](../eo/#BH09024)» «[Nederlands](../nl/#BH09024)» 
+BH09024 «[English](../en/#BH09024)» «[Esperanto](../eo/#BH09024)» «[Nederlands](../nl/#BH09024)» «[Español](../es/#BH09024)» «[Afrikaans](../af/#BH09024)» 
 
 ----
 
@@ -2458,7 +2458,7 @@ Machtig zijt Gij te doen naar Uw behagen. Gij zijt waarlijk de Almogende, de Gro
 
 -- Bahá'u'lláh
 
-BH05894 «[Italiano](../it/#BH05894)» «[English](../en/#BH05894)» «[Nederlands](../nl/#BH05894)» 
+BH05894 «[English](../en/#BH05894)» «[Nederlands](../nl/#BH05894)» «[Italiano](../it/#BH05894)» 
 
 ----
 
@@ -2509,7 +2509,7 @@ Zeg: God voldoet alle dingen boven alle dingen en niets in de hemelen of op aard
 
 -- Báb
 
-BB00015SUF «[Français](../fr/#BB00015SUF)» «[Papiamentu](../pap/#BB00015SUF)» «[Frysk](../fy/#BB00015SUF)» «[English](../en/#BB00015SUF)» «[Esperanto](../eo/#BB00015SUF)» «[Nederlands](../nl/#BB00015SUF)» 
+BB00015SUF «[English](../en/#BB00015SUF)» «[Frysk](../fy/#BB00015SUF)» «[Français](../fr/#BB00015SUF)» «[Esperanto](../eo/#BB00015SUF)» «[Nederlands](../nl/#BB00015SUF)» «[Papiamentu](../pap/#BB00015SUF)» 
 
 ----
 
@@ -2549,7 +2549,7 @@ O mijn God! Gij hebt mijn ziel geïnspireerd om haar smeekbede tot U te richten,
 
 -- Báb
 
-BB00018FOR «[Français](../fr/#BB00018FOR)» «[English](../en/#BB00018FOR)» «[Nederlands](../nl/#BB00018FOR)» 
+BB00018FOR «[English](../en/#BB00018FOR)» «[Français](../fr/#BB00018FOR)» «[Nederlands](../nl/#BB00018FOR)» 
 
 ----
 
@@ -2633,7 +2633,7 @@ Waarlijk, Gij zijt onze Heer en de Heer aller dingen. In Uw handen leggen wij on
 
 -- Báb
 
-BB00543VIC «[Español](../es/#BB00543VIC)» «[English](../en/#BB00543VIC)» «[Nederlands](../nl/#BB00543VIC)» 
+BB00543VIC «[English](../en/#BB00543VIC)» «[Nederlands](../nl/#BB00543VIC)» «[Español](../es/#BB00543VIC)» 
 
 ----
 
@@ -2783,7 +2783,7 @@ O Heer, mijn God! Help Uw geliefden sterk te staan in Uw Geloof, Uw wegen te bew
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[Italiano](../it/#AB00001FIR)» «[Português (BR)](../pt/#AB00001FIR)» «[English](../en/#AB00001FIR)» «[Esperanto](../eo/#AB00001FIR)» «[Nederlands](../nl/#AB00001FIR)» 
+AB00001FIR «[Português (BR)](../pt/#AB00001FIR)» «[English](../en/#AB00001FIR)» «[Esperanto](../eo/#AB00001FIR)» «[Nederlands](../nl/#AB00001FIR)» «[Italiano](../it/#AB00001FIR)» 
 
 ----
 
@@ -2812,7 +2812,7 @@ Geen God is er dan Gij, de Almachtige, de Alwijze.
 
 -- Bahá'u'lláh
 
-BH07683 «[Español](../es/#BH07683)» «[English](../en/#BH07683)» «[Nederlands](../nl/#BH07683)» 
+BH07683 «[English](../en/#BH07683)» «[Nederlands](../nl/#BH07683)» «[Español](../es/#BH07683)» 
 
 ----
 
@@ -3118,7 +3118,7 @@ Ik smeek U, o mijn Heer, bij Uzelf, en bij Uw tekenen en Uw duidelijke bewijzen,
 
 -- Bahá'u'lláh
 
-BH01125 «[Français](../fr/#BH01125)» «[Italiano](../it/#BH01125)» «[Español](../es/#BH01125)» «[English](../en/#BH01125)» «[Nederlands](../nl/#BH01125)» 
+BH01125 «[English](../en/#BH01125)» «[Français](../fr/#BH01125)» «[Nederlands](../nl/#BH01125)» «[Español](../es/#BH01125)» «[Italiano](../it/#BH01125)» 
 
 ----
 
@@ -3160,7 +3160,7 @@ Geprezen zijt Gij, daar Gij ons hebt geholpen Hem te erkennen en lief te hebben.
 
 -- Bahá'u'lláh
 
-BH00778 «[Español](../es/#BH00778)» «[English](../en/#BH00778)» «[Nederlands](../nl/#BH00778)» 
+BH00778 «[English](../en/#BH00778)» «[Nederlands](../nl/#BH00778)» «[Español](../es/#BH00778)» 
 
 ----
 
@@ -3209,7 +3209,7 @@ Ik ben Uw dienaar, o mijn God, en de zoon van Uw dienaar. Ik erken Uw waarheid i
 
 -- Bahá'u'lláh
 
-BH08600FAC «[Español](../es/#BH08600FAC)» «[English](../en/#BH08600FAC)» «[Nederlands](../nl/#BH08600FAC)» 
+BH08600FAC «[English](../en/#BH08600FAC)» «[Nederlands](../nl/#BH08600FAC)» «[Español](../es/#BH08600FAC)» 
 
 ----
 
@@ -3354,7 +3354,7 @@ Geen God is er buiten U, de Machtige, de Immerblijvende, de Almilddadige, de Ede
 
 -- Bahá'u'lláh
 
-BH09162 «[Español](../es/#BH09162)» «[English](../en/#BH09162)» «[Nederlands](../nl/#BH09162)» 
+BH09162 «[English](../en/#BH09162)» «[Nederlands](../nl/#BH09162)» «[Español](../es/#BH09162)» 
 
 ----
 

@@ -169,7 +169,7 @@ U mag is, in der waarheid, tot alle dinge in staat.
 
 -- Bahá'u'lláh
 
-BH09024 «[Español](../es/#BH09024)» «[Afrikaans](../af/#BH09024)» «[English](../en/#BH09024)» «[Esperanto](../eo/#BH09024)» «[Nederlands](../nl/#BH09024)» 
+BH09024 «[English](../en/#BH09024)» «[Esperanto](../eo/#BH09024)» «[Nederlands](../nl/#BH09024)» «[Español](../es/#BH09024)» «[Afrikaans](../af/#BH09024)» 
 
 ----
 
@@ -429,7 +429,7 @@ U is, waarlik, die Here en Koning van alle mense, en is magtig oor alle dinge.
 
 -- Bahá'u'lláh
 
-BH02848 «[Français](../fr/#BH02848)» «[Português (BR)](../pt/#BH02848)» «[Afrikaans](../af/#BH02848)» «[English](../en/#BH02848)» 
+BH02848 «[Português (BR)](../pt/#BH02848)» «[English](../en/#BH02848)» «[Français](../fr/#BH02848)» «[Afrikaans](../af/#BH02848)» 
 
 ----
 
@@ -1637,7 +1637,7 @@ U is, voorwaar, die God van Krag, die Hulp in Gevaar, die Alroemryke, die Almagt
 
 -- Bahá'u'lláh
 
-BH08604 «[Afrikaans](../af/#BH08604)» «[English](../en/#BH08604)» 
+BH08604 «[English](../en/#BH08604)» «[Afrikaans](../af/#BH08604)» 
 
 ----
 
@@ -1763,7 +1763,7 @@ Laat my dan geheel en al na U keer, om my hele vertroue in U te plaas, om U as m
 
 -- Bahá'u'lláh
 
-BH05071 «[Afrikaans](../af/#BH05071)» «[English](../en/#BH05071)» 
+BH05071 «[English](../en/#BH05071)» «[Afrikaans](../af/#BH05071)» 
 
 ----
 

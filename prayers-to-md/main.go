@@ -524,6 +524,16 @@ func main() {
 		count := 0
 		fmt.Println("Saving prayers to files...")
 		if prayerBook {
+			// Put a title in _index.md of the output directory
+			f, err := os.Create(outputDir + "/_index.md")
+			if err != nil {
+				panic(err.Error())
+			}
+			f.WriteString("# Prayer Books\n")
+			f.WriteString("\n")
+			f.WriteString("Pick your language\n")
+			f.WriteString("\n")
+			f.Close()
 			// Put all prayers in a slice and in a cross-reference map per prayer code
 			prayers := make([]Prayer, 0)
 			crosslink := make(map[string][]Prayer)
