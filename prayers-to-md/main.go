@@ -60,15 +60,13 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 ## {{$cat}}
 {{range $prayer}}
 <a id="{{.PrayerCode}}"></a> 
-### {{.Title}}
 {{.Text}}
 
-(Source category: {{.Category}})
-(Bahaiprayers.net ID: {{.Id}})
+-- {{.Author}}
 
-{{range (index $cl .PrayerCode)}}
-«[{{.LanguageName}}](../{{.LanguageCode}}/#{{.PrayerCode}})» 
-{{end}}
+{{.PrayerCode}} {{range (index $cl .PrayerCode)}}«[{{.LanguageName}}](../{{.LanguageCode}}/#{{.PrayerCode}})» {{end}}
+
+----
 
 {{end}}
 {{end}}

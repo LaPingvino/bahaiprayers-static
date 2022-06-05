@@ -13,7 +13,6 @@ tags = ['lang=ik', 'prayerbook']
 ## Iñupiaq - North Slope Dialect
 
 <a id="bpn9104"></a> 
-### Prayer bpn9104 in Alaska Native
 **Short Obligatory Prayer
 
 Iḷisimarauruŋa, God-iiŋ, Iliŋun savaŋatilaamnik Iḷisimatquvlutin suli nanġaquvlutin. Quliaqtuaġigiga akkupak suaŋŋataiññiġa suli ilvich suaŋŋatiqpaiñ, uvanga iḷiappauniġa suli ilvich umialguniġin.
@@ -22,47 +21,41 @@ Allamik God-aitchuq ilvich avatikkun, ikayuiḷḷarutin siġġaġniuġnami suli
 I bear witness, O my God, that Thou hast created me to know Thee and to worship Thee. I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth.
 There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 9104)
+-- Bahá'u'lláh
 
+bpn9104 «[Alaska Native](../ik/#bpn9104)» 
 
-«[Alaska Native](../ik/#bpn9104)» 
-
+----
 
 
 <a id="bpn9099"></a> 
-### Prayer bpn9099 in Alaska Native
 **Short Healing Prayer
 Atqin mamittautigigiga, God-iiŋ, aasii itqaummatiga natqiksautigigiga. Qaninniġa Iliŋnun niġiukkutigigiga, nakuaqqutigalu Iliŋnun piqataupiaqtuq. Naglikkutin uvamnun mamirutauruq ikayuutauvluniḷu paŋmapak nunaptigni qaiñiaqtuamullu. Ilvich iḷumun Sigñataitchutin, Iḷisimałhaaqtutin, Isumatułhaaqtutin.
 
 Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness to Thee is my hope, and love for Thee is my companion. Thy mercy to me is my healing and my succor in both this world and the world to come. Thou, verily, art the All-Bountiful, the All-Knowing, the All-Wise.
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 9099)
+-- Bahá'u'lláh
 
+bpn9099 «[Alaska Native](../ik/#bpn9099)» 
 
-«[Alaska Native](../ik/#bpn9099)» 
-
+----
 
 
 <a id="bpn9095"></a> 
-### Prayer bpn9095 in Alaska Native
 **Morning Prayer
 
 Kaŋiqsigiga qaunakkutin, God-iiŋ, Ikayuqtausuumaruq paqitchiruaq qaunakkunmik Iliŋni tutqiksimaaġnamallu suaŋammallu.
 
 I have wakened in Thy shelter, O my God, and it becometh him that seeketh that shelter to abide within the Sanctuary of Thy protection and the Stronghold of Thy defense.
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 9095)
+-- Bahá'u'lláh
 
+bpn9095 «[Alaska Native](../ik/#bpn9095)» 
 
-«[Alaska Native](../ik/#bpn9095)» 
-
+----
 
 
 <a id="bpn12873"></a> 
-### Prayer bpn12873 in Alaska Native
 ** Obligatory Prayer for the Dead
 * Instructions for recitation:
 * Una Tuquŋaruanun Aŋaiyyun Bahá’í-it piraksriatualuŋat taiguaksraq aŋaiyuliqiruanun; nipaisaḷḷaġmiŋ makitallaisa aŋaiyuliqiruat atausim ukpiktuam taiguaqtuksraugaa. Bahá’u’lláh-am kaŋiksipkaŋaġaa una aŋaiyyun piraksraq tuquŋaruanun ukiuqtutilaaqaŋaruanun sippiqługu akimiatun, taiguaqtuksraugaa tutquŋaiñŋaan, suli piraksraitchuq saattuksrauvlugu qukinaqtuaq tutguġvia Nalautchaqtim. “Alláh-u-Abhá” taiñaqtuq atausiaglugu; aasi sivullia taapqua itchaksrat uqaluich taiglugi iñuiññaġutaiḷatun.  Taitqiġlugu “Alláh-u-Abhá”, aasi tugliat uqalluit taimmilugusuli iñuiññaġutaiḷatun, tainaasi maligilugit piraksriutit naatilluġit uqaluit kisiŋŋuŋaruat.
@@ -93,32 +86,28 @@ We all, verily, are patient in God.
 *Instructions from Bahá'u'lláh:
 *(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden etc.…)
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 12873)
+-- Bahá'u'lláh
 
+bpn12873 «[Alaska Native](../ik/#bpn12873)» 
 
-«[Alaska Native](../ik/#bpn12873)» 
-
+----
 
 
 <a id="bpn12876"></a> 
-### Prayer bpn12876 in Alaska Native
 **Blessed is the Spot 
 Quviatchaktauli ini, iglulu, nalunaitchuaq inilu, suli iniqpak, uummanlu, iġġiļu, annagvigļu, qaanaaġlu, naqsraġlu, nunalu, taġiuġlu, qikiqtaġlu, nunaraaġlu, tavra tammatkunani God taiļaktuniunnii qutchiksuaġilugu nanġapiaġataġaat.
 
 Blessed is the spot, and the house, and the place, and the city, and the heart, and the mountain, and the refuge, and the cave, and the valley, and the land, and the sea, and the island and the meadow where mention of God hath been made and His praise glorified.
 **Bahá’u’lláh
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 12876)
+-- Bahá'u'lláh
 
+bpn12876 «[Alaska Native](../ik/#bpn12876)» 
 
-«[Alaska Native](../ik/#bpn12876)» 
-
+----
 
 
 <a id="bpn9103"></a> 
-### Prayer bpn9103 in Alaska Native
 **Remover of Difficulties
 
 God-im avataagun nagliksaaġutit piiqsiqaqpat? 
@@ -127,29 +116,25 @@ Iluqaġmik kivgagġigaich kamagivlugu sutqupayaaġmatik.
 
 Is there any Remover of difficulties save God? Say: Praised be God! He is God! All are His servants, and all abide by His bidding!
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 9103)
+-- Báb
 
+bpn9103 «[Alaska Native](../ik/#bpn9103)» 
 
-«[Alaska Native](../ik/#bpn9103)» 
-
+----
 
 
 <a id="bpn12870"></a> 
-### Prayer bpn12870 in Alaska Native
 ** Invocation of The Báb
 God, God-igigikpiñ, Piviutaġigikpiñ, Pisramaaġaatin uummatiġma.
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 12870)
+-- Báb
 
+bpn12870 «[Alaska Native](../ik/#bpn12870)» 
 
-«[Alaska Native](../ik/#bpn12870)» 
-
+----
 
 
 <a id="bpn12875"></a> 
-### Prayer bpn12875 in Alaska Native
 **Say: God Sufficeth 
 Uqalagiñ: God aitchuisuuruq naamasivļuta qaaŋiłuaługiļu, qiļaġmilu naagga nunami naamaiichuruk aglaan kisian God-im qaitchaŋa naamasuruq.
 Iļumupiaġataq, Ilaa Iliminiłuni Iļlisimariuruq, Aitchuiri inuuniksraptigni, Kamanaġniqsrauruq.
@@ -158,16 +143,14 @@ Say: God sufficeth all things above all things, and nothing in the heavens or in
 Verily, He is in Himself the Knower, the Sustainer, the Omnipotent.
 **The Báb
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 12875)
+-- Báb
 
+bpn12875 «[Alaska Native](../ik/#bpn12875)» 
 
-«[Alaska Native](../ik/#bpn12875)» 
-
+----
 
 
 <a id="bpn9102"></a> 
-### Prayer bpn9102 in Alaska Native
 **Prayer for the Departed (Short)
 
 God-iiŋ! Ilivich suliqutigiŋaisi piluutinik, aitchuirri supayaanik, piiqsiri nagliksaaġutinik!
@@ -178,46 +161,40 @@ O my God! O Thou forgiver of sins, bestower of gifts, dispeller of afflictions!
 Verily, I beseech Thee to forgive the sins of such as have abandoned the physical garment and have ascended to the spiritual world. 
 O my Lord! Purify them from trespasses, dispel their sorrows, and change their darkness into light. Cause them to enter the garden of happiness, cleanse them with the most pure water, and grant them to behold Thy splendors on the loftiest mount.
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 9102)
+-- Abdu'l-Bahá
 
+bpn9102 «[Alaska Native](../ik/#bpn9102)» 
 
-«[Alaska Native](../ik/#bpn9102)» 
-
+----
 
 
 <a id="bpn9098"></a> 
-### Prayer bpn9098 in Alaska Native
 **Prayer for Children
 God, iḷisauttukki migłiqtut. Migłiqtut ukua nautchiagurut nautchiivigñi. Sialugnik aatchukki; siqiñġanik iḷumun ittuam qaummaġiksitki nakuaqqutikkun. Anuqsraaġiksitki nutaaġuqsaqtut aasii iḷisimalutiglu naulutiglu qiññaġikpagmiḷutik. Pamatchiraurutin. Nagliktaurutin.
 
 O God! Educate these children. These children are the plants of Thine orchard, the flowers of Thy meadow, the roses of Thy garden. Let Thy rain fall upon them; let the Sun of Reality shine upon them with Thy love. Let Thy breeze refresh them in order that they may be trained, grow and develop, and appear in the utmost beauty. Thou art the Giver. Thou art the Compassionate.
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 9098)
+-- Abdu'l-Bahá
 
+bpn9098 «[Alaska Native](../ik/#bpn9098)» 
 
-«[Alaska Native](../ik/#bpn9098)» 
-
+----
 
 
 <a id="bpn9100"></a> 
-### Prayer bpn9100 in Alaska Native
 **Prayer for Steadfastness
 Anayanaikkich avluġnipayaavut, Ataniiq, apqutikkun suaŋasaaġlugiḷḷu uummativut kamakkutigni. 
 
 Make firm our steps, O Lord, in Thy path and strengthen Thou our hearts in Thine obedience.
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 9100)
+-- Abdu'l-Bahá
 
+bpn9100 «[Alaska Native](../ik/#bpn9100)» 
 
-«[Alaska Native](../ik/#bpn9100)» 
-
+----
 
 
 <a id="bpn9097"></a> 
-### Prayer bpn9097 in Alaska Native
 **Children's Prayer
 
 Ataniiŋ! Ataniiŋ! 
@@ -228,28 +205,25 @@ O my Lord! O my Lord!
 I am a child of tender years. Nourish me from the breast of Thy mercy, train me in the bosom of Thy love, educate me in the school of Thy guidance and develop me under the shadow of Thy bounty. Deliver me from darkness, make me a brilliant light; free me from unhappiness, make me a flower of the rose garden; suffer me to become a servant of Thy threshold and confer upon me the disposition and nature of the righteous; make me a cause of bounty to the human world, and crown my head with the diadem of eternal life! 
 Verily, Thou art the Powerful, the Mighty, the Seer, the Hearer.
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 9097)
+-- Abdu'l-Bahá
 
+bpn9097 «[Alaska Native](../ik/#bpn9097)» 
 
-«[Alaska Native](../ik/#bpn9097)» 
-
+----
 
 
 <a id="bpn10177"></a> 
-### Prayer bpn10177 in Alaska Native
 **Short Children's Prayer
 
 God, aullatiŋŋa, qaunagiŋŋa, suaŋasiḷaaġuŋ qaummataa uummatiŋma suli uvluġiatun qivliatitaġluni iñuusiġa. Ilvich Suaŋŋatiqpaurutin.
 
 O God, guide me, protect me, make of me a shining lamp and a brilliant star. Thou art the Mighty and the Powerful.
 
-(Source category: Iñupiaq - North Slope Dialect)
-(Bahaiprayers.net ID: 10177)
+-- Abdu'l-Bahá
 
+bpn10177 «[Alaska Native](../ik/#bpn10177)» 
 
-«[Alaska Native](../ik/#bpn10177)» 
-
+----
 
 
 

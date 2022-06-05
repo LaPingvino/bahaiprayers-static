@@ -113,332 +113,281 @@ tags = ['lang=pl', 'prayerbook']
 ## 26 nowych modlitw 'Abdu'l-Bahy
 
 <a id="bpn12877"></a> 
-### Prayer bpn12877 in Polski
 On jest Bogiem.
 O ty, który krążysz w adoracji w pobliżu tego Miejsca, wokół którego krąży Zgromadzenie na wysokościach! Wznieś ręce w podzięce u Progu jedynego prawdziwego Boga i powiedz: O Ty, najwyższe dążenie każdego żarliwego miłośnika! O Ty, Przewodniku każdej błądzącej duszy! Obdarzyłeś tego słabego sługę niezliczonymi błogosławieństwami i doprowadziłeś tego nieszczęsnego i uniżonego do progu swej jedyności. Podniosłeś do tych spieczonych ust żywe wody swej serdecznej dobroci i ożywiłeś tę zmęczoną i osłabioną duszę powiewami Boskiego miłosierdzia. Dzięki Ci składam za to, żeś udzielił mi pełnej porcji swej najłaskawszej przychylności i obdarzył mnie zaszczytem dotarcia do swego świętego Progu. Błagam o nieskończony udział w dobrodziejstwach Twego Królestwa na wysokościach. Udziel swej pomocy. Obdarz swą łaskawą przychylnością.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12877)
+-- Abdu'l-Bahá
 
+bpn12877 «[Polski](../pl/#bpn12877)» 
 
-«[Polski](../pl/#bpn12877)» 
-
+----
 
 
 <a id="bpn12878"></a> 
-### Prayer bpn12878 in Polski
 O Ty, niewidzialny Przyjacielu! O Pragnienie wszystkich w tym świecie i w świecie, który nastąpi! O Ty, współczujący Umiłowany! Te bezradne dusze urzeczone są Twoją miłością, a te słabe szukają schronienia u Twego Progu. Co noc wzdychają i zawodzą z powodu oddalenia od Ciebie, a każdego ranka lamentują i płaczą z powodu napaści ludzi nikczemnych. W każdej chwili dotyka ich nowa udręka i przy każdym oddechu przechodzą ciężką próbę przez tyranię każdego niegodziwego ciemiężyciela. Chwała Tobie, że mimo to są one rozpalone jak świątynia ognia i świecą jasno jak słońce i księżyc. Stoją wysoko jak uniesione sztandary w Sprawie Boga i spieszą na arenę jak waleczni jeźdźcy. Rozkwitły jak słodkie kwiatostany i są pełne radości jak roześmiana róża. Przeto o Ty, miłujący Żywicielu, wspomagaj łaskawie te święte dusze swoją niebiańską łaską, która jest udzielana z Twego Królestwa, i spraw, aby te uświęcone istoty mogły przejawiać znaki Najwyższego. Ty jesteś Wszechwładny, Litościwy, Wszechmiłosierny, Współczujący!
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12878)
+-- Abdu'l-Bahá
 
+bpn12878 «[Polski](../pl/#bpn12878)» 
 
-«[Polski](../pl/#bpn12878)» 
-
+----
 
 
 <a id="bpn12879"></a> 
-### Prayer bpn12879 in Polski
 O Ty, niezrównany i miłujący Panie! Choć brakuje zdolności i prawości i niezmiernie trudno jest wytrzymać cierpienia, to jednak prawość i zdolność są darami udzielonymi przez Ciebie. O Panie! Daj nam zdolność i uczyń nas prawymi, abyśmy mogli przejawiać największą wytrwałość, wyrzec się tego świata i wszystkich jego ludzi, rozpalić ogień Twojej miłości i jak świece płonąć jasno intensywnym płomieniem i roztaczać wokół nasz blask.
 O Panie Królestwa! Wybaw nas z tego świata próżnych złudzeń i zaprowadź nas do królestwa nieskończoności. Dozwól, abyśmy zostali całkowicie oswobodzeni od tego przyziemnego życia i pobłogosławieni obfitymi darami Królestwa. Uwolnij nas z tego świata nicości, noszącego pozory rzeczywistości, i daj nam życie wieczne. Obdarz nas radością i zachwytem oraz użycz szczęścia i zadowolenia. Pociesz nasze serca i udziel naszym duszom pokoju i spokoju, abyśmy wstępując do Twego Królestwa, mogli osiągnąć Twoją obecność i radować się w krainach na wysokościach. Ty jesteś Dającym, Obdarowującym, Wszechmocnym!
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12879)
+-- Abdu'l-Bahá
 
+bpn12879 «[Polski](../pl/#bpn12879)» 
 
-«[Polski](../pl/#bpn12879)» 
-
+----
 
 
 <a id="bpn12880"></a> 
-### Prayer bpn12880 in Polski
 O mój wieczny Ukochany i mój uwielbiony Przyjacielu! Jak długo jeszcze pozbawiony będę Twej obecności i cierpieć będę z powodu oddalenia od Ciebie? Prowadź mnie do ustroni swego niebiańskiego Królestwa, a w miejscu pojawienia się Twej niebieskiej Krainy skieruj na mnie spojrzenie swej miłościwej życzliwości.
 O Ty, Panie Wszechmogący! Zalicz mnie do mieszkańców Królestwa. Ten śmiertelny świat jest moim mieszkaniem; daj mi siedzibę w krainach Bezmiejscowego. Do tej ziemskiej sfery przynależę; rzuć na mnie blask swego wspaniałego światła. W tym świecie pyłu przebywam; uczyń mnie mieszkańcem swej niebiańskiej krainy, abym mógł złożyć życie na Twej drodze i osiągnąć pragnienie mego serca, abym mógł ukoronować moją głowę diademem Boskiej przychylności i wznieść triumfalny okrzyk: „O Chwało Boga, Najchwalebniejszy!".
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12880)
+-- Abdu'l-Bahá
 
+bpn12880 «[Polski](../pl/#bpn12880)» 
 
-«[Polski](../pl/#bpn12880)» 
-
+----
 
 
 <a id="bpn12881"></a> 
-### Prayer bpn12881 in Polski
 O Ty życzliwy Panie! Dusze te są Twoimi przyjaciółmi, którzy zgromadzili się razem i są uniesieni Twoją miłością. Porwani są promieniami Twego piękna i urzeczeni Twoimi piżmowymi lokami. Oddali Ci swoje serca i pokorni i bezradni błąkają się po Twojej ścieżce. Porzucili przyjaciela i nieznajomego i uchwycili się Twej jedności, skłaniając się przed Tobą w uwielbieniu.
 Należeli do tego świata doczesnego; Ty przyjąłeś ich do swego Królestwa. Byli jak zwiędłe rośliny na pustyni niedostatku i zagubienia; uczyniłeś ich sadzonkami ogrodu wiedzy i zrozumienia. Głosy ich były uciszone; sprawiłeś, że przemówili. Byli przygnębieni; obdarzyłeś ich natchnieniem. Byli jako ziemia spieczona i jałowa; przemieniłeś ich w różany ogród wewnętrznych znaczeń. Byli jako dzieci w świecie ludzkości; umożliwiłeś im osiągnięcie niebiańskiej dojrzałości.
 O Ty, Życzliwy! Daj im azyl i schronienie pod osłoną Twej opieki i chroń ich od prób i nieszczęść. Udziel im swej niewidzialnej pomocy i obdarz swą nieomylną łaską.
 O Ty, dobry i umiłowany Panie! Oni są jako ciało, a Ty jesteś Duchem życia. Świeżość i piękno ciała zależne są od łaski ducha. Potrzebują oni zatem Twoich utwierdzeń i pragną podtrzymującej mocy Ducha Świętego w tym nowym Objawieniu. Tyś jest Potężnym. Tyś jest Dającym, Żywicielem, Obdarowującym i Przebaczającym. Ty jesteś Tym, który jasno lśni z niewidzialnej Krainy.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12881)
+-- Abdu'l-Bahá
 
+bpn12881 «[Polski](../pl/#bpn12881)» 
 
-«[Polski](../pl/#bpn12881)» 
-
+----
 
 
 <a id="bpn12882"></a> 
-### Prayer bpn12882 in Polski
 O Opatrzności Boża! Niezrozumiałe trudności się pojawiły i ogromne powstały przeszkody. O Panie! Usuń te trudności i ukaż dowody swej mocy i potęgi. Złagodź te trudy i ułatw nam przejście po tej ciężkiej drodze. O Boska Opatrzności! Przeszkody nie ustępują, a naszym zmaganiom i cierpieniom towarzyszą niezliczone przeciwności. Nie ma innego pomocnika ani żadnego pocieszyciela oprócz Ciebie. W Tobie pokładamy całą naszą nadzieję i pod Twoją opiekę oddajemy wszystkie nasze sprawy. Ty jesteś Przewodnikiem i Wybawicielem od każdej trudności, Ty jesteś Mądrym, Widzącym i Słyszącym.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12882)
+-- Abdu'l-Bahá
 
+bpn12882 «[Polski](../pl/#bpn12882)» 
 
-«[Polski](../pl/#bpn12882)» 
-
+----
 
 
 <a id="bpn12883"></a> 
-### Prayer bpn12883 in Polski
 O Boże Miłosierdzia! O Ty, Wszechmogący! Jestem tylko marnym sługą, słabym i bezradnym, lecz wyrosłem w schronieniu Twej łaski i przychylności, zostałem wykarmiony z piersi Twego miłosierdzia i wychowany na łonie Twej serdecznej dobroci. O Panie! Chociaż jestem biedny i potrzebujący, to jednak każdego potrzebującego wzbogaca Twoja łaska, a każdy bogaty, jeśli pozbawiony jest Twych dobrodziejstw, jest zaiste biedny i opuszczony.
 O Boska Opatrzności! Udziel mi siły do niesienia tego ciężkiego brzemienia i spraw, abym strzegł tego najwyższego daru, gdyż tak mocna jest siła prób i tak ciężki napór nieszczęść, że każda góra rozsypuje się w proch a najwyższy szczyt staje się niczym. Ty wiesz dobrze, że w moim sercu nie szukam niczego prócz pamięci o Tobie, a w mojej duszy nie pragnę niczego prócz Twej miłości. Pomóż mi powstać, abym służył Twoim umiłowanym i pozwól mi na zawsze trwać w służbie u Twego Progu. Tyś jest Miłującym. Ty jesteś Panem licznych łask.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12883)
+-- Abdu'l-Bahá
 
+bpn12883 «[Polski](../pl/#bpn12883)» 
 
-«[Polski](../pl/#bpn12883)» 
-
+----
 
 
 <a id="bpn12884"></a> 
-### Prayer bpn12884 in Polski
 O Boska Opatrzności! Obudź mnie i uczyń mnie świadomym. Spraw, abym uniezależnił się od wszystkiego poza Tobą i oczaruj mnie miłością do Twego piękna. Tchnij na mnie oddech Ducha Świętego i pozwól mi słuchać wezwania Królestwa Abhá. Obdarz mnie niebiańską mocą i rozpal lampę ducha w najskrytszej komnacie mojego serca. Uwolnij mnie od wszelkich więzów i wyzwól od wszystkich przywiązań, abym nie żywił żadnych pragnień oprócz Twego upodobania, nie szukał niczego poza Twym Obliczem i nie kroczył żadną inną ścieżką niż Twoja. Dozwól, abym pomógł niedbałym stać się uważnymi a uśpionym przebudzić się, abym mógł podać wodę życia spragnionym i przynieść Boskie uzdrowienie tym, którzy są chorzy i cierpiący.
 Chociaż jestem pokorny, poniżony i ubogi, Ty jesteś moją przystanią i schronieniem moim, moją podporą i moim pomocnikiem. Ześlij swoją pomoc tak, aby wszyscy byli zadziwieni. O Boże! Tyś zaprawdę jest Wszechmocnym, Najpotężniejszym, Dającym, Obdarowującym i Wszechwidzącym!
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12884)
+-- Abdu'l-Bahá
 
+bpn12884 «[Polski](../pl/#bpn12884)» 
 
-«[Polski](../pl/#bpn12884)» 
-
+----
 
 
 <a id="bpn12885"></a> 
-### Prayer bpn12885 in Polski
 On jest Bogiem.
 O Boże, mój Boże! Zwróciłem twarz ku Tobie i błagam o potoki oceanu Twego uzdrowienia. Łaskawie dopomóż mi, Panie, służyć Twojemu ludowi i uzdrawiać Twoje sługi. Jeśli mnie wspomożesz, lekarstwo, które ofiarowuję, stanie się remedium na każdą dolegliwość, łykiem życiodajnych wód na każde palące pragnienie i kojącym balsamem dla każdego tęskniącego serca. Jeśli mi nie pomożesz, będzie ono tylko samym utrapieniem i z pewnością nie przyniosę uzdrowienia żadnej duszy.
 O Boże, mój Boże! Pomóż mi i wesprzyj swoją mocą uzdrawiania chorych. Zaprawdę, Ty jesteś Uzdrowicielem, Wystarczającym, Tym, który usuwa wszelki ból i chorobę, Tym, który panuje nad wszystkimi rzeczami.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12885)
+-- Abdu'l-Bahá
 
+bpn12885 «[Polski](../pl/#bpn12885)» 
 
-«[Polski](../pl/#bpn12885)» 
-
+----
 
 
 <a id="bpn12886"></a> 
-### Prayer bpn12886 in Polski
 O Panie! Udziel mi miary swej łaski i miłościwej życzliwości, swej opieki i ochrony, swego schronienia i hojności, aby koniec moich dni wyróżniał się ponad ich początek, a kres mojego życia otworzył bramy do Twych rozlicznych błogosławieństw. Niech w każdej chwili zstępuje na mnie Twoja serdeczna dobroć i hojność, a z każdym oddechem spływa na mnie Twoje przebaczenie i miłosierdzie, aż pod osłaniającym cieniem Twojego wzniesionego Sztandaru w końcu powrócę do Królestwa Wszechwysławianego. Ty jesteś Obdarowującym i Zawsze Miłującym, i zaiste, Ty jesteś Panem łaski i szczodrości.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12886)
+-- Abdu'l-Bahá
 
+bpn12886 «[Polski](../pl/#bpn12886)» 
 
-«[Polski](../pl/#bpn12886)» 
-
+----
 
 
 <a id="bpn12887"></a> 
-### Prayer bpn12887 in Polski
 O Ty, Żywicielu, O Ty, Przebaczający! Szlachetna dusza wstąpiła do Królestwa rzeczywistości i ze świata śmiertelnego pyłu przeniosła się do królestwa wiecznej chwały. Wywyższyj pozycję tego niedawno przybyłego gościa i odziej tego wysłużonego sługę w nową i cudowną szatę.
 O Ty, Niezrównany Panie! Udziel swego przebaczenia i czułej opieki, tak aby ta dusza została przyjęta w zacisze Twoich tajemnic i stała się bliskim towarzyszem w zgromadzeniu wspaniałości. Ty jesteś Dającym, Obdarowującym, Zawsze Miłującym. Tyś jest Przebaczającym, Czułym, Najpotężniejszym.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12887)
+-- Abdu'l-Bahá
 
+bpn12887 «[Polski](../pl/#bpn12887)» 
 
-«[Polski](../pl/#bpn12887)» 
-
+----
 
 
 <a id="bpn12888"></a> 
-### Prayer bpn12888 in Polski
 On jest Bogiem.
 O Ty, przebaczający Panie! Słudzy ci byli szlachetnymi duszami i te promienne serca oświetliło i rozjaśniło światło Twego przewodnictwa. Wypili oni kielich pełen wina Twej miłości i usłuchali wiecznych tajemnic dzięki melodiom Twej wiedzy. Związali z Tobą swe serca, wyrwali się z sideł wyobcowania i uchwycili Twojej jedności. Uczyń te najdroższe dusze towarzyszami mieszkańców Nieba i dopuść je do grona Twoich wybranych. Uczyń je bliskimi powiernikami Twych tajemnic w ustroniach krainy na wysokościach i zanurz je w morzu świateł. Ty jesteś Obdarowującym, Świetlanym i Życzliwym.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12888)
+-- Abdu'l-Bahá
 
+bpn12888 «[Polski](../pl/#bpn12888)» 
 
-«[Polski](../pl/#bpn12888)» 
-
+----
 
 
 <a id="bpn12889"></a> 
-### Prayer bpn12889 in Polski
 O Boska Opatrzności! Zanurz ojca i matkę tego sługi progu Twego w oceanie Twego przebaczenia oraz oczyść i uświęć ich od wszelkiego grzechu i przewinienia. Udziel im swego odpuszczenia i miłosierdzia i obdarz swoim łaskawym przebaczeniem. Ty zaprawdę jesteś Wybaczającym, Zawsze Przebaczającym, Obdarzającym obfitą łaską. O Ty, przebaczający Panie! Chociaż jesteśmy grzesznikami, to pokładamy nadzieję w Twojej obietnicy i zapewnieniu. Choć spowijają nas ciemności błędu, to zawsze zwracamy nasze twarze ku porankowi Twoich szczodrych dobrodziejstw. Postępuj z nami tak, jak przystoi Twojemu Progowi i obdarz nas tym, co jest godne Twego Dworu. Ty jesteś Zawsze Przebaczającym, Wybaczającym, Tym, który pobłaża wszystkim ułomnościom.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12889)
+-- Abdu'l-Bahá
 
+bpn12889 «[Polski](../pl/#bpn12889)» 
 
-«[Polski](../pl/#bpn12889)» 
-
+----
 
 
 <a id="bpn12890"></a> 
-### Prayer bpn12890 in Polski
 O Ty życzliwy Panie! Oczyść me serce z wszelkiego przywiązania a duszę mą uraduj nowiną radości. Uwolnij mnie od przywiązania do przyjaciela i nieznajomego oraz porwij swą miłością, abym całkowicie Ci się oddał i był pełen żarliwego uniesienia, abym pragnął tylko Ciebie, nie szukał nikogo poza Tobą, nie kroczył żadną inną ścieżką poza Twoją i obcował tylko z Tobą, abym tak jak słowik oczarowany był Twoją miłością i dniem i nocą wzdychał, płakał i wołał: „Yá Bahá’u’l-Abhá!”.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12890)
+-- Abdu'l-Bahá
 
+bpn12890 «[Polski](../pl/#bpn12890)» 
 
-«[Polski](../pl/#bpn12890)» 
-
+----
 
 
 <a id="bpn12891"></a> 
-### Prayer bpn12891 in Polski
 O Panie! Jakimże to potokiem szczodrobliwości obdarowałeś i jakąż powódź obfitej łaski zesłałeś! Sprawiłeś, że wszystkie serca stały się jako jedno serce, a wszystkie dusze połączyły się w jedną duszę. Obdarzyłeś bezwładne ciała życiem i uczuciem i tchnąłeś świadomość ducha w te pozbawione życia ramy. Dzięki świetlistym promieniom padającym z Jutrzenki Wszechmiłosiernego obdarzyłeś te atomy pyłu widzialnym istnieniem, a dzięki falom oceanu jedyności te ulotne krople pienią się i grzmią.
 O Wszechmocny, który obdarzasz źdźbło słomy mocą góry i umożliwiasz drobinie kurzu odbijanie chwały olśniewającego słońca! Udziel nam swej czułej łaski i przychylności, abyśmy powstali, by służyć Twej Sprawie i nie doznali wstydu przed ludami ziemi.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12891)
+-- Abdu'l-Bahá
 
+bpn12891 «[Polski](../pl/#bpn12891)» 
 
-«[Polski](../pl/#bpn12891)» 
-
+----
 
 
 <a id="bpn12892"></a> 
-### Prayer bpn12892 in Polski
 O Ty Wszechmogący Panie! Wszyscy znajdujemy się w potężnym uścisku Twojej mocy. Tyś jest naszą Podporą i Pomocą. Udziel nam swego czułego miłosierdzia, obdarz nas swą szczodrością, otwórz wrota łaski i skieruj na nas spojrzenie swych dobrodziejstw. Spraw, by owiało nas ożywcze tchnienie i rozbudź nasze stęsknione serca. Oświeć nasze oczy i spraw, aby sanktuarium naszych serc było przedmiotem zazdrości wszystkich ukwieconych błoni. Uciesz każdą duszę i uraduj każdego ducha. Ujawnij swoją pradawną potęgę i ukaż swoją wielką moc. Spraw, aby ptaki ludzkich dusz wzbiły się na nowe wyżyny a Twoi powiernicy w tym doczesnym świecie zgłębili tajemnice Twojego Królestwa. Utwierdź nasze kroki i obdarz nas niezłomnymi sercami. Jesteśmy grzesznikami, a Ty jesteś Zawsze Przebaczającym. Jesteśmy Twoimi sługami, Ty jesteś Suwerennym Panem. Jesteśmy bezdomnymi wędrowcami, Ty jesteś naszą przystanią i schronieniem. Pomagaj nam łaskawie i wspomagaj w rozsiewaniu Twych słodkich wonności i wywyższaniu Twego Słowa. Wynieś pozycję ubogich i obdarz potrzebujących swym niewyczerpanym skarbem. Udziel swojej siły słabym a bezsilnych obdarz niebiańską mocą. Tyś jest Żywicielem, Tyś jest Łaskawym, Tyś jest Panem, który włada wszystkimi rzeczami.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12892)
+-- Abdu'l-Bahá
 
+bpn12892 «[Polski](../pl/#bpn12892)» 
 
-«[Polski](../pl/#bpn12892)» 
-
+----
 
 
 <a id="bpn12893"></a> 
-### Prayer bpn12893 in Polski
 On jest Najświętszy, Najchwalebniejszy!
 W imię Boga, Współczującego, Miłosiernego! Chwała niechaj będzie Bogu, Panu wszystkich światów!
 O Panie Boże mój, moja Przystani i moje Schronienie! Jakże mogę Cię wspominać, nawet najwspanialszymi słowami uwielbienia czy najbardziej wymownymi odami wychwalania, o Ty Wszechmocny i Przebaczający, świadom tego, że język zawodzi każdego elokwentnego mówcę a każdy wyraz wysławiania pochodzący z ludzkiego pióra czy języka jest zagubiony w swojej próbie uwielbienia choćby jednego ze znaków Twojej wszechmocnej potęgi czy wychwalania li tylko jednego Słowa, które zostało przez Ciebie stworzone. Zaiste, skrzydła ptaków ludzkich umysłów się łamią, usiłując wznieść się na wyżyny Twej Boskiej świętości, a pająki próżnych upodobań nie są w stanie utkać swych wątłych sieci na najwznioślejszych szczytach baldachimu Twej wiedzy. Nie ma więc dla mnie innego wyjścia jak tylko uznanie mojej niemocy i ułomności ani innego mieszkania jak tylko w głębi ubóstwa i niedostatku. Zaprawdę niemożność pojmowania Ciebie jest istotą zrozumienia, uznanie własnych ułomności jest jedyną drogą do osiągnięcia Twojej obecności, a przyznanie się do ubóstwa jest źródłem prawdziwego bogactwa.
 O Panie! Łaskawie wspomagaj mnie i szczere sługi Twoje w naszej służbie Twemu wywyższonemu Progowi, umacniaj nas w błaganiach do Twej Boskiej świętości i uzdolnij nas do pokory i posłuszeństwa u wrót Twej jedyności. Utwierdź moje kroki na Twojej ścieżce, o Panie mój, i oświeć moje serce świetlistymi promieniami bijącymi z nieba Twych tajemnic. Orzeźwij mego ducha poruszającym powiewem, który niesie się z raju Twego przebaczenia i odpuszczenia, i uraduj mą duszę ożywczym tchnieniem unoszącym się z łąk Twej świętości. Rozjaśnij moje oblicze nad horyzontem Twej jedności i dozwól, abym został uznany za jednego z Twoich szczerych sług i zaliczony do grona Twych poddanych, którzy trwają mocno i niezłomnie.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12893)
+-- Abdu'l-Bahá
 
+bpn12893 «[Polski](../pl/#bpn12893)» 
 
-«[Polski](../pl/#bpn12893)» 
-
+----
 
 
 <a id="bpn12894"></a> 
-### Prayer bpn12894 in Polski
 O Panie, Boże nasz! Jesteśmy bezradni; Ty jesteś Panem siły i mocy. Jesteśmy nieszczęśnikami; Ty jesteś Wszechmocnym, Wszechchwalebnym. Jesteśmy ubodzy; Ty jesteś Wszystko Posiadającym, Najhojniejszym. Wspomagaj nas łaskawie w służbie u Twego świętego Progu i dopomóż nam swą umacniającą łaską wielbić Cię w miejscach świtania Twej chwały. Pozwól nam rozsiewać Twoje święte wonności wśród Twych stworzeń i wzmocnij nas, abyśmy mogli Ci służyć pośród sług Twoich, prowadzić wszystkie narody do Twego Największego Imienia i doprowadzić wszystkie ludy do brzegów chwalebnego oceanu Twej jedyności.
 O Panie! Wybaw nas od przywiązań do świata i jego narodów, od występków przeszłości i od utrapień, które dopiero nadejdą, abyśmy mogli powstać, by wywyższać Twoje Słowo z największą radością i promiennością oraz sławić Twoją chwałę dniem i nocą, abyśmy mogli wezwać wszystkich ludzi na drogę przewodnictwa i nakazać im przestrzeganie sprawiedliwości, i abyśmy mogli śpiewać wersety o Twojej jedności pośród całego Twego stworzenia. Mocen jesteś czynić wedle swego upodobania. Ty jesteś, zaprawdę, Wszechmocnym, Najpotężniejszym.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12894)
+-- Abdu'l-Bahá
 
+bpn12894 «[Polski](../pl/#bpn12894)» 
 
-«[Polski](../pl/#bpn12894)» 
-
+----
 
 
 <a id="bpn12895"></a> 
-### Prayer bpn12895 in Polski
 On jest Bogiem.
 O Ty życzliwy i umiłowany Panie! Ci przyjaciele upojeni są winem Przymierza i są wędrowcami po bezdrożach Twojej miłości. Serca ich ogarnął płomień oddalenia od Ciebie i gorąco pragną oni objawienia Twoich wspaniałości. Ze swego niewidzialnego Królestwa, Krainy niewidzianych, objaw im płomienną chwałę swej łaski i wylej na nich blask swej szczodrości. W każdej chwili zsyłaj nowe błogosławieństwo i objawiaj świeżą przychylność.
 O Boska Opatrzności! Jesteśmy słabi, a Ty jesteś Najpotężniejszym. Jesteśmy jak maleńkie mrówki, a Ty jesteś Królem Krainy Chwały. Udziel nam swej łaski i obdarz nas swym dobrodziejstwem, abyśmy rozpalili płomień i roznieśli daleko jego blask, abyśmy okazali siłę i oddali jakąś służbę. Spraw, abyśmy mogli przynieść oświecenie tej mrocznej ziemi i duchowość temu przemijającemu światu pyłu. Nie pozwól nam odpoczywać ani przez chwilę ani kalać się przemijającymi rzeczami tego życia. Spraw, abyśmy przygotowali ucztę przewodnictwa, zapisali krwią naszego życia wersety miłości, zostawili za sobą strach i niebezpieczeństwo, stali się jak owocujące drzewa i sprawili, że ludzkie doskonałości pojawią się w tym ulotnym świecie. Tyś zaprawdę jest Wszechszczodrym, Najbardziej Współczującym, Zawsze Przebaczającym, Odpuszczającym.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12895)
+-- Abdu'l-Bahá
 
+bpn12895 «[Polski](../pl/#bpn12895)» 
 
-«[Polski](../pl/#bpn12895)» 
-
+----
 
 
 <a id="bpn12896"></a> 
-### Prayer bpn12896 in Polski
 On jest Wszechchwalebnym.
 O mój Panie, mój Królu, mój Władco i mój Suwerenie! Wzywam Cię moim językiem, sercem i duszą, mówiąc: Przyoblecz tego sługę swego w szatę swej opieki, okryj odzieniem swej niezawodnej pomocy i nałóż zbroję swej ochrony. Dopomóż mu Cię wspominać i wychwalać Twoje cnoty pośród ludu Twego, i rozwiąż mu język, by Cię sławił i wielbił na każdym zgromadzeniu zwołanym ku czci Twej jedności i świętości. Tyś jest, zaiste, Mocnym, Potężnym, Wszechchwalebnym, Samoistnym.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12896)
+-- Abdu'l-Bahá
 
+bpn12896 «[Polski](../pl/#bpn12896)» 
 
-«[Polski](../pl/#bpn12896)» 
-
+----
 
 
 <a id="bpn12897"></a> 
-### Prayer bpn12897 in Polski
 O mój życzliwy Panie, o Ty, pragnienie duszy i serca mego! Obdarz swych przyjaciół miłościwą dobrocią i udziel im swego niezawodnego miłosierdzia. Bądź pociechą dla swych żarliwych miłośników i przyjacielem, pocieszycielem i miłującym towarzyszem dla tych, którzy za Tobą tęsknią. Ich serca rozpalił ogień Twojej miłości, a ich dusze ogarnął płomień oddania Tobie. Pragną oni wszyscy pospieszyć do ołtarza miłości, aby ochoczo oddać swoje życie.
 O Boska Opatrzności! Obdarz ich swoją przychylnością, prowadź ich właściwą drogą, łaskawie dopomóż im osiągnąć duchowe zwycięstwo i przyznaj im niebiańskie dary. O Panie, wspomagaj ich swoją wspaniałomyślnością i łaską i spraw, aby ich promienne twarze stały się przewodnimi lampami podczas zgromadzeń poświęconych wiedzy o Tobie i znakami niebiańskiej hojności na spotkaniach, na których są objaśniane Twoje wersety. Ty zaprawdę jesteś Miłosiernym, Wszechszczodrym, Tym, którego pomocy wzywają wszyscy ludzie.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12897)
+-- Abdu'l-Bahá
 
+bpn12897 «[Polski](../pl/#bpn12897)» 
 
-«[Polski](../pl/#bpn12897)» 
-
+----
 
 
 <a id="bpn12898"></a> 
-### Prayer bpn12898 in Polski
 On jest Najchwalebniejszym, Najjaśniejszym!
 O Boska Opatrzności, o przebaczający Panie! Jakże mogę godnie opiewać Twoją chwałę czy dostatecznie Cię czcić i wysławiać? Opisanie Ciebie jakimkolwiek językiem jest li tylko błędem, a przedstawienie Ciebie jakimkolwiek piórem jest dowodem szaleństwa w usiłowaniu podjęcia tego wielkiego zadania. Język jest jedynie złożonym z elementów narzędziem. Głos i mowa są tylko przypadkowymi przymiotami. Jakże więc ziemskim głosem mogę świętować chwałę Tego, który nie ma ani sobie równego, ani sobie podobnego? Wszystko, co mogę powiedzieć czy do czego dążyć, jest ograniczone zakresem ludzkiego umysłu i objęte granicami ludzkiego świata. Jakże myśl ludzka mogłaby kiedykolwiek wspiąć się na wzniosłe szczyty Boskiej świętości a pająk próżnych upodobań utkać wątłą sieć pustych wyobrażeń na ustroniach świętości? Nic innego mi nie pozostaje, jak tylko zaświadczyć o mojej bezsilności i wyznać moją porażkę. Tyś jest, zaprawdę, Wszystko Posiadającym, Niedosiężnym, Tym, który jest niezmiernie wywyższony ponad pojmowanie obdarzonych zrozumieniem.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12898)
+-- Abdu'l-Bahá
 
+bpn12898 «[Polski](../pl/#bpn12898)» 
 
-«[Polski](../pl/#bpn12898)» 
-
+----
 
 
 <a id="bpn12899"></a> 
-### Prayer bpn12899 in Polski
 O Boska Opatrzności, Tyś jest Zawsze Przebaczającym! O Ty, Wszechmocny Boże, Tyś jest Łaskawym! Pozwól temu umiłowanemu słudze Twemu przebywać w cieniu Twej chwały i spraw, aby ten nieszczęsny i uniżony rozwijał się i rozkwitał w otoczeniu Twego miłosierdzia. Daj mu pić z kielicha Twej bliskości i pozwól mu przebywać w cieniu Błogosławionego Drzewa. Zaszczyć go dostąpieniem Twojej obecności i obdarz wieczną błogością. Łaskawie pomóż pozostałym przy życiu krewnym tej szlachetnej duszy podążać śladami swego drogiego ojca, ukazywać wśród wszystkich ludzi jego charakter i postępowanie, kroczyć Twoją ścieżką, szukać Twojego zadowolenia i głosić Twoją chwałę. Ty jesteś Zawsze Miłującym Bogiem, Panem hojności.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12899)
+-- Abdu'l-Bahá
 
+bpn12899 «[Polski](../pl/#bpn12899)» 
 
-«[Polski](../pl/#bpn12899)» 
-
+----
 
 
 <a id="bpn12900"></a> 
-### Prayer bpn12900 in Polski
 O Ty, niezrównany Boże! Jesteśmy Twoimi uniżonymi sługami, a Ty jesteś Wszechchwalebnym. Jesteśmy grzesznikami, a Ty jesteś Zawsze Przebaczającym. Jesteśmy w niewoli, biedni i pokorni, a Ty jesteś naszym schronieniem i naszą pomocą. Jesteśmy jak maleńkie mrówki, a Ty jesteś Panem majestatu zasiadającym na tronie w najwyższym niebie. Chroń nas na znak swojej łaski i nie odmawiaj nam swej opieki i pomocy. O Panie! Wyzwania Twoje są doprawdy ciężkie, a próby Twoje są w stanie zburzyć fundamenty wykute ze stali. Zachowaj nas i wzmocnij. Pociesz i uraduj nasze serca. Łaskawie dopomóż nam służyć, tak jak ‘Abdu'l-Bahá, Twojemu świętemu Progowi.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12900)
+-- Abdu'l-Bahá
 
+bpn12900 «[Polski](../pl/#bpn12900)» 
 
-«[Polski](../pl/#bpn12900)» 
-
+----
 
 
 <a id="bpn12901"></a> 
-### Prayer bpn12901 in Polski
 On jest Bogiem.
 O Boże, mój Boże! Z całkowitym uniżeniem i żarliwością, pokorą i pobożnością błagam Cię językiem i sercem, duchem i duszą, umysłem i sumieniem, abyś spełnił najskrytsze ze wszystkich pragnień, przeznaczył najbardziej godne ze wszystkich czynów i zesłał wszelką cześć i doskonałość, przychylność i piękno, pomyślność i zbawienie tej rodzinie, która na początku Twego wspaniałego poranka pospieszyła ku Twemu osłaniającemu cieniowi i szukała schronienia w Twojej bezpiecznej przystani i potężnej twierdzy. Zaprawdę, dusze te usłuchały Twego wezwania, zbliżyły się do Twego Progu, zapłonęły ogniem Twej miłości i uniesione zostały tchnieniami Twej świętości. Były wytrwałe w służbie Twojej Sprawie, pokorne przed Twoim Obliczem i szlachetne pod Twoim osłaniającym cieniem. Wsławione są jako te, które noszą Twoje imię pośród Twego ludu i wspominają o Tobie pośród Twoich sług.
 O Boże, mój Boże! Wywyższyj je swoją pradawną chwałą, zaszczyć w swoim Królestwie wspaniałości i wspomóż zastępami swoich łask w tym wielkim Dniu. O Panie, Boże mój! Rozwiń ich sztandar, daj im jeszcze pełniejszy udział w swojej opiece, roześlij ich znaki i wzmocnij ich blask, aby stały się szkłem dla lampy Twoich licznych dobrodziejstw i rozprzestrzeniały Twoją serdeczną dobroć i łaski.
 O Panie, mój Boże! Bądź im towarzyszem w samotności, a w chwilach udręki otaczaj je swoją pomocą. Przekaż im swoją Księgę i zapewnij pełną miarę swoich darów i błogosławieństw. Tyś zaprawdę jest Mocnym, Potężnym, Łaskawym, Szczodrym i zaiste Tyś jest Miłosiernym, Współczującym.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12901)
+-- Abdu'l-Bahá
 
+bpn12901 «[Polski](../pl/#bpn12901)» 
 
-«[Polski](../pl/#bpn12901)» 
-
+----
 
 
 <a id="bpn12902"></a> 
-### Prayer bpn12902 in Polski
 O Panie tak bogaty szczodrością, tak łaską przepełniony,
 Którego wiedza obejmuje mego serca i duszy najskrytsze strony!
  
@@ -463,12 +412,11 @@ Lecz łask potokami obdarzaj nas w swej szczodrości.
 Tym ptakom o złamanych skrzydłach, które lecą powoli już
 Z miłosierdzia swego czułego skrzydła nowe stwórz.
 
-(Source category: 26 nowych modlitw 'Abdu'l-Bahy)
-(Bahaiprayers.net ID: 12902)
+-- Abdu'l-Bahá
 
+bpn12902 «[Polski](../pl/#bpn12902)» 
 
-«[Polski](../pl/#bpn12902)» 
-
+----
 
 
 
@@ -476,63 +424,54 @@ Z miłosierdzia swego czułego skrzydła nowe stwórz.
 ## Bliskość Boga
 
 <a id="bpn7270"></a> 
-### Prayer bpn7270 in Polski
 Chwała niechaj będzie Tobie, o mój Boże! Ty słyszysz swoich żarliwych miłośników, lamentujących z powodu rozłąki z Tobą, i tych, którzy Cię rozpoznali, płaczących żałośnie, bo daleko im do Twojej obecności. Otwórz szeroko przed ich obliczami, o mój Panie, bramy swojej łaski, aby mogli przez nie wejść za Twoim przyzwoleniem i zgodnie z Twoją wolą, i mogli stanąć przed tronem Twojego majestatu i uchwycić barwy Twojego głosu, i zostać oświetleni wspaniałością światła Twojego oblicza.
   
 Mocen jesteś czynić wedle swojej woli. Nikt nie może oprzeć się mocy Twej niezawisłej potęgi. Od niepamiętnych czasów Tyś był sam jeden, bez nikogo równego sobie, i na zawsze pozostaniesz dalece ponad wszelką myśl o Tobie i wszelkie wyobrażenie Ciebie. Miej miłosierdzie zatem dla sług swoich, przez Twoją łaskę i szczodrość, i nie pozwól, aby trzymani byli z dala od brzegów oceanu Twojej bliskości. Jeśli Ty ich opuścisz, któż okaże im przyjaźń; a jeśli Ty odsuniesz ich od siebie, któż okaże im łaskę? Nie mają innego Pana oprócz Ciebie, nikogo, by wielbić oprócz Ciebie. Obejdź się z nimi wspaniałomyślnie, dzięki swej hojnej łasce.
   
 Tyś prawdziwie jest Zawsze Przebaczającym, Najbardziej Współczującym.
 
-(Source category: Bliskość Boga)
-(Bahaiprayers.net ID: 7270)
+-- Bahá'u'lláh
 
+bpn7270 «[Polski](../pl/#bpn7270)» 
 
-«[Polski](../pl/#bpn7270)» 
-
+----
 
 
 <a id="bpn7271"></a> 
-### Prayer bpn7271 in Polski
 Zaprawdę, jestem Twym sługą, o mój Boże, Twym ubogim, Twym błagającym i Twym nieszczęśnikiem. Przybyłem do Twoich wrót, szukając schronienia. Nie znalazłem żadnego zadowolenia jak tylko w Twojej miłości, żadnego uniesienia prócz w pamiętaniu o Tobie, żadnego pragnienia prócz w posłuszeństwa Tobie, żadnej radości jak tylko w bliskości Twojej ani żadnego spokoju prócz w zjednoczeniu z Tobą, pomimo tego, że świadom jestem, iż wszystkie stworzone rzeczy odcięte są od Twojej wzniosłej Istoty, a całe stworzenie nie ma dostępu do Twego najskrytszego Jestestwa. Ilekroć usiłuję zbliżyć się do Ciebie, nie dostrzegam w sobie niczego oprócz znaków Twojej łaski i nie widzę niczego we mnie samym oprócz objawień Twojej łaskawej życzliwości. Jakże może ten, który jest zaledwie Twoim stworzeniem, poszukiwać zjednoczenia z Tobą i dostąpić Twojej obecności, gdy żadna stworzona rzecz nigdy nie może mieć powiązania z Tobą ani też nawet pojąć Ciebie? Jakże możliwe jest, aby uniżony sługa poznał Cię i wysławiał Twoją chwałę, zważywszy, że przeznaczyłeś dla niego objawienia swego królestwa i wspaniałe świadectwa swego panowania? Tak oto wszelkie stworzenie zaświadcza, że odsunięte jest od sanktuarium Twojej obecności z powodu ograniczeń nałożonych na jego wewnętrzną rzeczywistość. Niepodważalnym jest jednak, że wpływ Twego przyciągania nieustannie tkwi w rzeczywistości Twojego dzieła, choć to, co przystoi świętemu dworowi Twej opatrzności, postawione jest wysoko ponad to, co osiągalne jest dla całego stworzenia. To wskazuje, o mój Boże, na całkowitą bezsilność moją, by Cię wysławiać i ujawnia całkowitą niemoc moją, by składać Ci dziękczynienie, a cóż dopiero, aby osiągnąć zrozumienie Twojej Boskiej jedności czy dotrzeć do jasnych oznak Twej czci, Twej świętości i Twej chwały. Nie, na moc Twoją, nie pragnę niczego oprócz Twego własnego Ja i nie szukam niczego oprócz Ciebie.
 
-(Source category: Bliskość Boga)
-(Bahaiprayers.net ID: 7271)
+-- Báb
 
+bpn7271 «[Polski](../pl/#bpn7271)» 
 
-«[Polski](../pl/#bpn7271)» 
-
+----
 
 
 <a id="bpn7272"></a> 
-### Prayer bpn7272 in Polski
 O mój Boże! Nie ma nikogo prócz Ciebie, by ukoić cierpienie mojej duszy i Tyś jest mym najwyższym dążeniem, o mój Boże. Moje serce poślubione jest jedynie Tobie i temu, co przez Ciebie umiłowane. Z całą powagą oświadczam, że i życie moje, i śmierć moja należą do Ciebie. Zaprawdę, Tyś jest niedościgniony i nie ma równego Tobie.
   
 O mój Panie! Błagam Cię, abyś przebaczył mi, że zamknąłem się przed Tobą. Na Twoją chwałę i majestat, nie zdołałem należnie Cię rozpoznać ani wielbić, podczas gdy Ty dajesz mi poznać siebie i wzywasz mnie, abym pamiętał o Tobie, jak przystoi Twej pozycji. Wielka niedola czekałaby mnie, o mój Panie, gdybyś dosięgnął mnie z powodu mych występków i przewinień. Nie znam innego wspomożyciela prócz Ciebie. Nie mam żadnej ostoi, co byłaby moją ucieczką, poza Tobą. Żadne z Twych stworzeń nie śmie orędować u Ciebie bez Twojego przyzwolenia. Mocno trwam w Twej miłości przed Twoim dworem i zgodnie z Twoim poleceniem żarliwie modlę się do Ciebie, tak jak przystoi Twojej chwale. Błagam Cię, abyś wysłuchał mojego wołania, tak jak mi obiecałeś. Zaprawdę, Tyś jest Bogiem; nie ma innego Boga poza Tobą. Sam i bez niczyjej pomocy jesteś niezależny od wszystkich stworzonych rzeczy. Ani oddanie Twych umiłowanych nie może przynieść Ci korzyści, ani też złe poczynania niewiernych nie są w stanie wyrządzić Ci krzywdy. Zaprawdę, Tyś jest moim Bogiem, co obietnicy swej nigdy nie złamie.
   
 O mój Boże! Błagam Cię na dowody Twojej łaski, abym mógł przybliżyć się do wzniosłych szczytów Twej świętej obecności i abyś chronił mnie od skłaniania się w kierunku subtelnych sugestii czegokolwiek prócz Ciebie. Prowadź moje kroki, o mój Boże, do tego, co zadowalające i miłe Tobie. Mocą swoją chroń mnie od gwałtowności gniewu swego i kary oraz powstrzymaj mnie od wstępowania do niepożądanych przez Ciebie domostw.
 
-(Source category: Bliskość Boga)
-(Bahaiprayers.net ID: 7272)
+-- Báb
 
+bpn7272 «[Polski](../pl/#bpn7272)» 
 
-«[Polski](../pl/#bpn7272)» 
-
+----
 
 
 <a id="bpn7273"></a> 
-### Prayer bpn7273 in Polski
 O Boże, mój Boże, mój Umiłowany, Pragnienie mego serca.
 
-(Source category: Bliskość Boga)
-(Bahaiprayers.net ID: 7273)
+-- Báb
 
+bpn7273 «[Polski](../pl/#bpn7273)» 
 
-«[Polski](../pl/#bpn7273)» 
-
+----
 
 
 <a id="bpn7274"></a> 
-### Prayer bpn7274 in Polski
 O Panie, Boże mój i Przystani moja w niebezpieczeństwie! Moja Tarczo i Schronienie moje w nieszczęściu! Moja Ostojo i Ucieczko w potrzebie i Towarzyszu w mej samotności! Mój Pocieszycielu w chwilach niepokoju i serdeczny Przyjacielu w mym osamotnieniu! Wybawicielu od przypływów mego smutku i Przebaczający moje grzechy!
   
 Do Ciebie bez reszty się zwracam, gorąco błagając Cię całym sercem, umysłem i słowem, abyś uchronił mnie od wszystkiego, co sprzeciwia się Twej woli w tym cyklu Twojej Boskiej jedności, i oczyścił mnie z wszelkiej nieprawości, która powstrzyma mnie od schronienia się w cieniu Drzewa Twojej łaski w czystości i nieskazitelności.
@@ -555,26 +494,23 @@ Rozwiąż mój język, by głosił chwałę Twego imienia pośród Twojego ludu,
    
 Tyś wszakże jest Łaskawym, Wysławianym, Potężnym, Wszechmogącym.
 
-(Source category: Bliskość Boga)
-(Bahaiprayers.net ID: 7274)
+-- Abdu'l-Bahá
 
+bpn7274 «[Polski](../pl/#bpn7274)» 
 
-«[Polski](../pl/#bpn7274)» 
-
+----
 
 
 <a id="bpn7275"></a> 
-### Prayer bpn7275 in Polski
 On jest Współczującym, Wszechłaskawym! O Boże, mój Boże! Ty mnie widzisz; Ty mnie znasz; Tyś moją Przystanią i Schronieniem moim. Nie szukałem nikogo i nikogo szukać nie będę prócz Ciebie; żadną ścieżką nie kroczyłem ni kroczyć nie będę, li tylko ścieżką Twojej miłości. Pośród ciemnej nocy rozpaczy oczy moje zwracają się pełne wyczekiwania i nadziei ku zaraniu Twojej bezgranicznej życzliwości, a w godzinie świtu moja ospała dusza orzeźwia się i umacnia wspominaniem Twojego piękna i doskonałości. Ten, co wsparty łaską Twojego miłosierdzia, choćby kroplą tylko był, stanie się bezkresnym oceanem, a najdrobniejszy atom, któremu z pomocą przyjdzie potok Twej serdecznej dobroci, zabłyśnie niczym promienna gwiazda.
   
 Otocz swoją opieką, o Ty, Duchu czystości, Ty, któryś jest Najhojniejszym Opiekunem, tego oczarowanego i gorliwego sługę swego. Dopomóż mu, aby w tym świecie bytu pozostał wytrwałym i niezłomnym w Twej miłości, i spraw, aby ten ptak o złamanym skrzydle znalazł ucieczkę i schronienie w Twym Boskim gnieździe na niebiańskim drzewie.
 
-(Source category: Bliskość Boga)
-(Bahaiprayers.net ID: 7275)
+-- Abdu'l-Bahá
 
+bpn7275 «[Polski](../pl/#bpn7275)» 
 
-«[Polski](../pl/#bpn7275)» 
-
+----
 
 
 
@@ -582,7 +518,6 @@ Otocz swoją opieką, o Ty, Duchu czystości, Ty, któryś jest Najhojniejszym O
 ## Dni Międzykalendarzowe
 
 <a id="bpn7463"></a> 
-### Prayer bpn7463 in Polski
 *Dni Międzykalendarzowe, zwane także dniami Ayyám-i-Há, bezpośrednio poprzedzają miesiąc postu i trwają, w zależności od roku, cztery lub pięć dni. Są one czasem przygotowania do Postu, dniami gościnności, dobroczynności i wręczania podarunków.
    
    
@@ -597,12 +532,11 @@ Błagam Cię, o Ty, Królu królów, który litujesz się nad uciśnionymi, aby�
     
 Tyś prawdziwie jest Wszechmocnym, Wszechwiedzącym, o Wszystkim Poinformowanym.
 
-(Source category: Dni Międzykalendarzowe)
-(Bahaiprayers.net ID: 7463)
+-- Bahá'u'lláh
 
+bpn7463 «[Polski](../pl/#bpn7463)» 
 
-«[Polski](../pl/#bpn7463)» 
-
+----
 
 
 
@@ -610,153 +544,131 @@ Tyś prawdziwie jest Wszechmocnym, Wszechwiedzącym, o Wszystkim Poinformowanym.
 ## Dzieci
 
 <a id="bpn7276"></a> 
-### Prayer bpn7276 in Polski
 O Panie, Boże mój! Oto dziecię zrodzone z lędźwi jednego z Twoich sług, któremu przyznałeś wybitne miejsce w Tablicach swego nieodwołalnego wyroku, w Księgach swego rozporządzenia.
    
 Błagam Cię na Twoje imię, przez które każdy ma możność dotarcia do celu swojego pragnienia, abyś pozwolił, by to dziecko stało się bardziej dojrzałą duszą pośród sług Twoich; spraw, aby jaśniało ono siłą Twojego imienia, dozwól mu głosić Twoją chwałę, zwrócić swą twarz ku Tobie i zbliżyć się do Ciebie. Zaprawdę Tyś od wieków mocen był czynić to, czego pragnąłeś i to Ty na wieki nadal mocen będziesz czynić wedle swojej woli. Nie ma innego Boga poza Tobą, Wywyższonym, Majestatycznym, Poskramiającym, Potężnym, Wszechzniewalającym.
 
-(Source category: Dzieci)
-(Bahaiprayers.net ID: 7276)
+-- Bahá'u'lláh
 
+bpn7276 «[Polski](../pl/#bpn7276)» 
 
-«[Polski](../pl/#bpn7276)» 
-
+----
 
 
 <a id="bpn7277"></a> 
-### Prayer bpn7277 in Polski
 O Boże! Wychowuj te dzieci. Te dzieci są roślinami Twojego sadu, kwiatami Twojej łąki, różami Twojego ogrodu. Niech zrasza je Twój deszcz i niech Słońce Rzeczywistości świeci nad nimi Twoją miłością. Niechaj Twój powiew je orzeźwia, aby kształciły się, rosły, rozwijały i ukazały w najdoskonalszym pięknie. Ty jesteś Dającym, Ty jesteś Współczującym.
 
-(Source category: Dzieci)
-(Bahaiprayers.net ID: 7277)
+-- Abdu'l-Bahá
 
+bpn7277 «[Polski](../pl/#bpn7277)» 
 
-«[Polski](../pl/#bpn7277)» 
-
+----
 
 
 <a id="bpn7278"></a> 
-### Prayer bpn7278 in Polski
 O Ty, życzliwy Panie! Te urocze dzieci są dziełem palców Twojej mocy oraz cudownym znakiem Twojej wielkości. O Boże! Ochraniaj te dzieci, dopomóż łaskawie w ich wychowaniu i pozwól, by oddały się służbie dla świata ludzkości. O Boże! Te dzieci są perłami, spraw, aby ukształtowały się w muszli Twojej serdecznej dobroci.
    
 Tyś jest Łaskawym, Wszechmiłującym.
 
-(Source category: Dzieci)
-(Bahaiprayers.net ID: 7278)
+-- Abdu'l-Bahá
 
+bpn7278 «[Polski](../pl/#bpn7278)» 
 
-«[Polski](../pl/#bpn7278)» 
-
+----
 
 
 <a id="bpn7279"></a> 
-### Prayer bpn7279 in Polski
 O Panie! Uczyń te dzieci wspaniałymi roślinami. Spraw, aby wzrastały i rozwijały się w Ogrodzie Twojego Przymierza i obdarz je świeżością i pięknem, dzięki potokom z chmur najwspanialszego Królestwa.
    
 O Ty, łaskawy Panie! Jestem małym dzieckiem, wynieś mnie, pozwalając wejść do królestwa. Jestem ziemski, uczyń mnie niebiańskim; jestem ze świata na niskości, pozwól mi należeć do królestwa na wysokościach; jestem stroskany, spraw, abym stał się promienny; jestem przyziemny, uczyń mnie uduchowionym i spraw, abym mógł okazywać Twe nieskończone łaski.
    
 Tyś jest Potężnym, Wszechmiłującym.
 
-(Source category: Dzieci)
-(Bahaiprayers.net ID: 7279)
+-- Abdu'l-Bahá
 
+bpn7279 «[Polski](../pl/#bpn7279)» 
 
-«[Polski](../pl/#bpn7279)» 
-
+----
 
 
 <a id="bpn7280"></a> 
-### Prayer bpn7280 in Polski
 On jest Bogiem! O Boże, mój Boże! Obdarz mnie czystym sercem, czystym jak perła.
 
-(Source category: Dzieci)
-(Bahaiprayers.net ID: 7280)
+-- Abdu'l-Bahá
 
+bpn7280 «[Polski](../pl/#bpn7280)» 
 
-«[Polski](../pl/#bpn7280)» 
-
+----
 
 
 <a id="bpn7281"></a> 
-### Prayer bpn7281 in Polski
 O Boże, prowadź mnie, ochraniaj mnie, uczyń mnie świecącą lampą i promienną gwiazdą. Tyś jest Mocnym i Potężnym.
 
 ʿAbdu’l-Bahá
 
-(Source category: Dzieci)
-(Bahaiprayers.net ID: 7281)
+-- Abdu'l-Bahá
 
+bpn7281 «[Polski](../pl/#bpn7281)» 
 
-«[Polski](../pl/#bpn7281)» 
-
+----
 
 
 <a id="bpn7282"></a> 
-### Prayer bpn7282 in Polski
 O mój Panie! O mój Panie!
    
 Jestem jedynie małym dzieckiem. Karm mnie piersią swojego miłosierdzia i wychowuj na łonie Twojej miłości. Kształć mnie w szkole Twojego przewodnictwa i pozwól mi rozwijać się w cieniu Twojej szczodrości. Uwolnij mnie od ciemności i uczyń jaśniejącym światłem. Uwolnij mnie od smutku i uczyń kwiatem w różanym ogrodzie. Dozwól mi stać się służebnikiem u Twego progu i obdarz usposobieniem i naturą sprawiedliwych. Uczyń mnie źródłem szczodrości dla świata ludzkości i uwieńcz moją skroń diademem wiecznego żywota.
    
 Zaprawdę, Ty jesteś Mocnym, Potężnym, Widzącym, Słyszącym.
 
-(Source category: Dzieci)
-(Bahaiprayers.net ID: 7282)
+-- Abdu'l-Bahá
 
+bpn7282 «[Polski](../pl/#bpn7282)» 
 
-«[Polski](../pl/#bpn7282)» 
-
+----
 
 
 <a id="bpn7283"></a> 
-### Prayer bpn7283 in Polski
 O Niezrównany Panie! Bądź schronieniem dla tego biednego dziecka oraz życzliwym i przebaczającym Mistrzem dla tej błądzącej i nieszczęśliwej duszy. O Panie! Chociaż jesteśmy jedynie marnymi roślinami, to jednak należymy do Twego różanego ogrodu. Chociaż jesteśmy młodymi drzewkami bez liści i kwiecia, to jesteśmy częścią Twego sadu. Napój więc tę roślinkę potokami płynącymi z chmur Twojej czułej łaski, pobudź i orzeźwij to drzewko ożywczym tchnieniem Twojej duchowej wiosny. Spraw, aby stało się ono uważne, wnikliwe i szlachetne, i spraw, aby osiągnęło życie wieczne i na zawsze zamieszkało w Twym Królestwie.
 
-(Source category: Dzieci)
-(Bahaiprayers.net ID: 7283)
+-- Abdu'l-Bahá
 
+bpn7283 «[Polski](../pl/#bpn7283)» 
 
-«[Polski](../pl/#bpn7283)» 
-
+----
 
 
 <a id="bpn7284"></a> 
-### Prayer bpn7284 in Polski
 O mój Boże! O mój Boże! Ty widzisz te dzieci, które są gałązkami drzewa życia, ptakami łąk zbawienia, perłami oceanu Twojej łaski, różami ogrodu Twego przewodnictwa.
    
 O Boże, nasz Panie! Wyśpiewujemy Twoją chwałę, dajemy świadectwo Twojej świętości i błagamy żarliwie niebiosa Twojego miłosierdzia, abyś uczynił nas światłami przewodnictwa, gwiazdami lśniącymi ponad horyzontem wiecznej chwały pośród ludzi, i abyś przekazał nam wiedzę, która pochodzi od Ciebie. Yá-Bahá’u’l-Abhá!
 
-(Source category: Dzieci)
-(Bahaiprayers.net ID: 7284)
+-- Abdu'l-Bahá
 
+bpn7284 «[Polski](../pl/#bpn7284)» 
 
-«[Polski](../pl/#bpn7284)» 
-
+----
 
 
 <a id="bpn7285"></a> 
-### Prayer bpn7285 in Polski
 O Panie! Jestem dzieckiem, pozwól mi rosnąć w cieniu Twojej serdecznej życzliwości. Jestem delikatną rośliną, spraw, aby pielęgnowały mnie deszcze z obłoków Twojej szczodrości. Jestem młodym drzewkiem w ogrodzie miłości, uczyń mnie owocnym drzewem.
    
 Tyś jest Potężnym i Mocnym, i Tyś jest Wszechmiłującym, Wszechwiedzącym, Wszystkowidzącym.
 
-(Source category: Dzieci)
-(Bahaiprayers.net ID: 7285)
+-- Abdu'l-Bahá
 
+bpn7285 «[Polski](../pl/#bpn7285)» 
 
-«[Polski](../pl/#bpn7285)» 
-
+----
 
 
 <a id="bpn7286"></a> 
-### Prayer bpn7286 in Polski
 O Ty, najchwalebniejszy Panie! Uczyń Twoją małą służebnicę błogosławioną i szczęśliwą; spraw, aby była otoczona opieką u progu Twej jedności i pozwól jej pić obficie z kielicha Twej miłości, aby została przepełniona zachwytem i uniesieniem oraz rozsiewała słodko pachnącą woń. Tyś jest Potężnym i Mocnym, i Tyś jest Wszystkowiedzącym, Wszystkowidzącym.
 
-(Source category: Dzieci)
-(Bahaiprayers.net ID: 7286)
+-- Abdu'l-Bahá
 
+bpn7286 «[Polski](../pl/#bpn7286)» 
 
-«[Polski](../pl/#bpn7286)» 
-
+----
 
 
 
@@ -764,7 +676,6 @@ O Ty, najchwalebniejszy Panie! Uczyń Twoją małą służebnicę błogosławion
 ## Długa Modlitwa Obowiązkowa
 
 <a id="bpn7269"></a> 
-### Prayer bpn7269 in Polski
 ##DŁUGĄ MODLITWĘ OBOWIĄZKOWĄ NALEŻY ODMAWIAĆ RAZ NA DOBĘ.
 
 *Ktokolwiek pragnie odmówić tę modlitwę, niech powstanie i zwróciwszy się ku Bogu z miejsca, w którym stoi, spojrzy na prawo i na lewo, jakby oczekiwał miłosierdzia swego Pana, Najmiłosierniejszego i Współczującego, a następnie powie
@@ -822,12 +733,11 @@ Chwała niech Ci będzie, o Boże nasz, żeś zesłał nam to, co przybliża nas
 
 Daję świadectwo, o mój Boże, temu, o czym świadczyli Twoi wybrani i uznaję to, co uznali mieszkańcy najwyższego raju i ci, którzy otaczają Twój potężny Tron. Królestwa ziemi i nieba należą do Ciebie, o Panie światów!
 
-(Source category: Długa Modlitwa Obowiązkowa)
-(Bahaiprayers.net ID: 7269)
+-- Bahá'u'lláh
 
+bpn7269 «[Polski](../pl/#bpn7269)» 
 
-«[Polski](../pl/#bpn7269)» 
-
+----
 
 
 
@@ -835,7 +745,6 @@ Daję świadectwo, o mój Boże, temu, o czym świadczyli Twoi wybrani i uznaję
 ## Długa modlitwa o uzdrowienie
 
 <a id="bpn7428"></a> 
-### Prayer bpn7428 in Polski
 On jest Uzdrowicielem, Wystarczającym, Pomagającym, Wszystko Przebaczającym, Wszechmiłosiernym.
     
 Wzywam Cię, o Wywyższony, o Wierny, o Wspaniały! 
@@ -1008,12 +917,11 @@ Przenajświętszy jesteś, o mój Boże! Błagam Cię na Twoją hojność, przez
      
 Tyś zaprawdę jest Potężnym, Wszechwystarczającym, Uzdrawiającym, Ochraniającym, Dającym, Współczującym, Najhojniejszym, Najmiłosierniejszym.
 
-(Source category: Długa modlitwa o uzdrowienie)
-(Bahaiprayers.net ID: 7428)
+-- Bahá'u'lláh
 
+bpn7428 «[Polski](../pl/#bpn7428)» 
 
-«[Polski](../pl/#bpn7428)» 
-
+----
 
 
 
@@ -1021,31 +929,27 @@ Tyś zaprawdę jest Potężnym, Wszechwystarczającym, Uzdrawiającym, Ochraniaj
 ## Fundusz
 
 <a id="bpn7290"></a> 
-### Prayer bpn7290 in Polski
 „Wszyscy przyjaciele Boga (...) winni składać ofiary w miarę swoich możliwości, niezależnie od tego, jak skromne by one nie były. Bóg nie obarcza duszy ponad jej wytrzymałość. Ofiary takie powinny napływać ze wszystkich ośrodków i od wszystkich wiernych. (...) O Przyjaciele Boga! Bądźcie pewni, że w zamian za te ofiary wasze rolnictwo, przemysł i handel zostaną pobłogosławione wielokrotnym wzrostem, dzięki wielkim darom i błogosławieństwom. Ten, kto spełni jeden dobry uczynek, otrzyma dziesięciokrotną nagrodę. Nie ma żadnej wątpliwości, że Bóg żywy hojnie umocni tych, którzy poświęcą swój majątek na Jego drodze.”
 
-(Source category: Fundusz)
-(Bahaiprayers.net ID: 7290)
+-- Abdu'l-Bahá
 
+bpn7290 «[Polski](../pl/#bpn7290)» 
 
-«[Polski](../pl/#bpn7290)» 
-
+----
 
 
 <a id="bpn7291"></a> 
-### Prayer bpn7291 in Polski
 O Boże, mój Boże! Rozjaśnij czoła prawdziwie miłujących Ciebie i wspomagaj ich anielskimi zastępami pewnego zwycięstwa. Spraw, by stąpali pewnie po Twej prostej ścieżce i za sprawą swojej odwiecznej łaskawości otwórz przed nimi wrota swoich błogosławieństw, gdyż ofiarowują oni na Twojej ścieżce to, czym ich obdarowałeś, chronią Twoją Wiarę, pokładają całą ufność w pamięci o Tobie, poświęcają serca Twojej miłości, nie szczędzą niczego, co posiadają, wielbiąc Twoje Piękno i poszukując dróg, aby przypodobać się Tobie.
    
 O mój Panie! Zarządź dla nich obfitą część, przeznaczone zadośćuczynienie i pewną nagrodę.
    
 Zaiste, Tyś jest Podtrzymującym, Pomagającym, Hojnym, Łaskawym, Zawsze Obdarowującym.
 
-(Source category: Fundusz)
-(Bahaiprayers.net ID: 7291)
+-- Abdu'l-Bahá
 
+bpn7291 «[Polski](../pl/#bpn7291)» 
 
-«[Polski](../pl/#bpn7291)» 
-
+----
 
 
 
@@ -1053,19 +957,16 @@ Zaiste, Tyś jest Podtrzymującym, Pomagającym, Hojnym, Łaskawym, Zawsze Obdar
 ## Jedność
 
 <a id="bpn7292"></a> 
-### Prayer bpn7292 in Polski
 O mój Boże! O mój Boże! Zjednocz serca sług Twoich i objaw im swój wielki cel. Niechaj będą posłuszni Twoim przykazaniom i przestrzegają Twoich praw. Pomóż im, o Boże, w ich staraniach i dodaj sił, aby Tobie służyli. O Boże, nie zdawaj ich na samych siebie, ale kieruj ich krokami światłem swojej wiedzy i uraduj ich serca swoją miłością. Zaprawdę, Ty jesteś ich Wspomożycielem i ich Panem.
 
-(Source category: Jedność)
-(Bahaiprayers.net ID: 7292)
+-- Bahá'u'lláh
 
+bpn7292 «[Polski](../pl/#bpn7292)» 
 
-«[Polski](../pl/#bpn7292)» 
-
+----
 
 
 <a id="bpn7293"></a> 
-### Prayer bpn7293 in Polski
 O mój Boże! O mój Boże! Zaprawdę, wzywam Cię i błagam u Twego progu, prosząc Cię, aby wszystkie Twoje łaski mogły zstąpić na te dusze. Przeznacz je łasce Twej i prawdzie Twej.
    
 O Panie! Zjednocz i zespól serca, złącz w zgodzie wszystkie dusze i uraduj ducha znakami swej świętości i jedności. O Panie! Rozjaśnij te twarze światłem swej jedności. Wzmocnij sługi Twoje w służbie Twemu Królestwu.
@@ -1076,12 +977,11 @@ O Panie Boże! Uczyń nas falami morza, kwiatami ogrodu, zjednoczonymi i zgodnym
    
 Zaiste, Tyś jest Wszechmocnym, Samoistnym, Dającym, Przebaczającym, Odpuszczającym, Wszechwiedzącym, Jedynym Stwórcą.
 
-(Source category: Jedność)
-(Bahaiprayers.net ID: 7293)
+-- Abdu'l-Bahá
 
+bpn7293 «[Polski](../pl/#bpn7293)» 
 
-«[Polski](../pl/#bpn7293)» 
-
+----
 
 
 
@@ -1089,7 +989,6 @@ Zaiste, Tyś jest Wszechmocnym, Samoistnym, Dającym, Przebaczającym, Odpuszcza
 ## Kobiety
 
 <a id="bpn7294"></a> 
-### Prayer bpn7294 in Polski
 O Ty, którego oblicze jest przedmiotem uwielbienia wszystkich tęskniących za Tobą; którego obecność jest nadzieją całkowicie oddanych Twojej woli; którego bliskość jest pragnieniem wszystkich, którzy zbliżyli się do Twego dworu; którego oblicze jest towarzyszem tych, co rozpoznali Twoją prawdę; którego imię jest poruszycielem dusz gorąco pragnących oglądać Twoją twarz; którego głos jest prawdziwym życiem Ciebie miłujących, z ust którego słowa są wodą życia dla wszystkich znajdujących się w niebie i na ziemi!
    
 Błagam Cię na krzywdy, któreś wycierpiał, i zło zadane Ci przez zastępy niesprawiedliwych, abyś zesłał na mnie z obłoków swego miłosierdzia to, co oczyści mnie ze wszystkiego, co nie jest od Ciebie, abym zasługiwała na to, aby Cię chwalić i była zdolna Cię miłować.
@@ -1098,16 +997,14 @@ Nie odmawiaj mi, o mój Panie, rzeczy, któreś przeznaczył dla tych spośród 
    
 Nie ma Boga poza Tobą, Potężnym, Zawsze Trwającym, Najszczodrzejszym, Najhojniejszym.
 
-(Source category: Kobiety)
-(Bahaiprayers.net ID: 7294)
+-- Bahá'u'lláh
 
+bpn7294 «[Polski](../pl/#bpn7294)» 
 
-«[Polski](../pl/#bpn7294)» 
-
+----
 
 
 <a id="bpn7295"></a> 
-### Prayer bpn7295 in Polski
 Pochwalony bądź, o Panie, mój Boże! Jesteś Tym, którego ogień miłości rozpalił serca tych, co Twoją jedność rozpoznali i którego wspaniałość oblicza rozświetliła twarze tych, którzy przybliżyli się do dworu Twego. Jakże obfity, o mój Boże, jest strumień Twojej wiedzy! Jakże słodka, o mój Umiłowany, jest boleść zadana przez strzały niegodziwych, którą znoszę w mojej miłości dla Ciebie i dla zadowolenia Twego! Jak przyjemne są rany, które na Twojej ścieżce i dla głoszenia Twej Wiary ponoszę od mieczy niewiernych.
    
 Błagam Cię, na Twoje imię, przez które zamieniasz niepokój w spokój, lęk w pewność, słabość w siłę, poniżenie w chwałę, abyś przez swą łaskę dopomógł mi i swoim sługom wysławiać Twoje imię, szerzyć Twoje Przesłanie, głosić Twoją Sprawę tak, abyśmy pozostali niewzruszeni zarówno wobec ataków grzeszników, jak i gniewu niewiernych, o Ty, któryś jest moim Najukochańszym.
@@ -1116,32 +1013,28 @@ Jestem, o mój Panie, Twoją służebnicą, która usłyszała Twe wezwanie, pos
    
 Mocen jesteś czynić wedle swego upodobania. Tyś jest zaiste Wszystkowiedzącym, Wszechmądrym.
 
-(Source category: Kobiety)
-(Bahaiprayers.net ID: 7295)
+-- Bahá'u'lláh
 
+bpn7295 «[Polski](../pl/#bpn7295)» 
 
-«[Polski](../pl/#bpn7295)» 
-
+----
 
 
 <a id="bpn7296"></a> 
-### Prayer bpn7296 in Polski
 Wysławione niechaj będzie Twoje imię, o Panie, mój Boże! Spójrz na me oko, które wyczekuje, aby spoglądać na cuda Twego miłosierdzia, i na me ucho, które pragnie słuchać Twych słodkich melodii, i na me serce, które tęskni za żywymi wodami Twojej wiedzy. Ty widzisz swą służebnicę, o mój Boże, stojącą przed domostwem Twego miłosierdzia i wzywającą Cię Twoim imieniem, któreś sam wybrał ponad wszystkie inne imiona i wyniósł ponad wszystko, co znajduje się na niebie i na ziemi. Tchnij na nią oddechy swego miłosierdzia, aby mogła zostać uniesiona całkowicie z dala od samej siebie i została przyciągnięta w kierunku siedziby, która, lśniąc chwałą Twego oblicza, rzuca daleko blask Twojej władzy i ustanowiona jest jako Twój tron. Mocen jesteś czynić wedle swojej woli. Nie ma innego Boga poza Tobą, Wszechchwalebnym, Najbardziej Szczodrym.
    
 Nie odtrącaj, błagam Cię, o mój Panie, tych, którzy Cię poszukują, i nie odsyłaj tych, którzy kierują swoje kroki ku Tobie, i nie pozbawiaj swojej łaski wszystkich, którzy Cię miłują. Tyś jest, o mój Panie, Tym, który nazwał siebie samego Bogiem Miłosierdzia, Najbardziej Współczującym. Miej zatem miłosierdzie dla swojej służebnicy, która szuka Twojego schronienia i kieruje swoją twarz ku Tobie.
    
 Tyś jest zaiste Zawsze Przebaczającym, Najbardziej Miłosiernym.
 
-(Source category: Kobiety)
-(Bahaiprayers.net ID: 7296)
+-- Bahá'u'lláh
 
+bpn7296 «[Polski](../pl/#bpn7296)» 
 
-«[Polski](../pl/#bpn7296)» 
-
+----
 
 
 <a id="bpn7297"></a> 
-### Prayer bpn7297 in Polski
 O Ty, przed którego przejmującym majestatem zadrżało wszelkie stworzenie, w którego uścisku spoczywają sprawy wszystkich ludzi, w kierunku łaski i miłosierdzia którego zwrócone są twarze wszystkich Twoich stworzeń! Błagam Cię na Twoje Imię, któreś ustanowił duchem wszystkich imion znajdujących się w królestwie imion, abyś osłonił nas od podszeptów tych, którzy odwrócili się od Ciebie i wyrzekli się prawdy Twego najbardziej majestatycznego i wywyższonego Ja, w tym Objawieniu, które sprawiło, że królestwo imion Twych zadrżało.
    
 Jestem jedną z Twoich służebnic, o mój Panie! Zwróciłam twarz moją ku sanktuarium Twoich łaskawych względów i wielbionego tabernakulum Twojej chwały. Oczyść mnie ze wszystkiego, co nie pochodzi od Ciebie i umocnij mnie, abym Cię kochała oraz wypełniała to, co jest Tobie miłe, abym mogła zachwycić się rozpamiętywaniem Twojego piękna i była wolna od przywiązania do któregokolwiek z Twoich stworzeń oraz mogła w każdej chwili głosić: „Wywyższony niech będzie Bóg, Pan światów!”.
@@ -1150,16 +1043,14 @@ Niechaj mym pokarmem, o mój Panie, będzie Twoje piękno, a moim napojem świat
    
 Tyś doprawdy jest Bogiem potęgi, siły i chwały.
 
-(Source category: Kobiety)
-(Bahaiprayers.net ID: 7297)
+-- Bahá'u'lláh
 
+bpn7297 «[Polski](../pl/#bpn7297)» 
 
-«[Polski](../pl/#bpn7297)» 
-
+----
 
 
 <a id="bpn7298"></a> 
-### Prayer bpn7298 in Polski
 Chwała Tobie, o mój Boże! Jedna z Twych służebnic, która uwierzyła w Ciebie i w Twoje znaki, schroniła się w cieniu drzewa Twej jedności. Pozwól jej skosztować, o mój Boże, przez wzgląd na Twoje Imię, Jawny, Utajony, Twojego najwyborniejszego zapieczętowanego Wina, tak aby oddaliło ją ono od jej własnego ja i sprawiło, że w pełni odda się ona pamiętaniu o Tobie, całkowicie uniezależniona od kogokolwiek innego prócz Ciebie.
    
 Teraz, gdyś wyjawił jej wiedzę o sobie, o mój Panie, nie odmawiaj jej, przez swoją szczodrość, Twojej łaski i teraz, gdyś przywołał ją do siebie, nie oddalaj jej od siebie, przez swą przychylność. Zapewnij jej zatem to, co przewyższa wszystko, co znaleźć można na Twej ziemi. Tyś zaprawdę jest Najhojniejszym, Tym, którego łaska jest ogromna.
@@ -1168,44 +1059,38 @@ Gdybyś obdarzył jedno ze swych stworzeń tym, co równe jest królestwom ziemi
    
 Nie ma innego Boga poza Tobą, Bogiem mocy, Bogiem chwały, Bogiem wiedzy i mądrości.
 
-(Source category: Kobiety)
-(Bahaiprayers.net ID: 7298)
+-- Bahá'u'lláh
 
+bpn7298 «[Polski](../pl/#bpn7298)» 
 
-«[Polski](../pl/#bpn7298)» 
-
+----
 
 
 <a id="bpn7299"></a> 
-### Prayer bpn7299 in Polski
 Ty widzisz, o mój Boże, jak nieprawości czynione przez te Twoje stworzenia, które odwróciły się od Ciebie, stanęły pomiędzy Tym, w którym Twoje Bóstwo jest objawione, a sługami Twymi. Ześlij na nie, o mój Panie, to, co sprawi, że wzajemnie spraw swych doglądać będą. Zatem niech ich gwałtowność będzie ograniczona do nich samych, aby ta kraina i ci, którzy w niej mieszkają, mogli odnaleźć pokój.
    
 Jedna z Twych służebnic, o mój Panie, poszukuje Twojego Oblicza i wzniosła się na wyżyny Twojego zadowolenia. Nie odmawiaj jej, o mój Panie, rzeczy, które przeznaczyłeś dla wybranych spośród Twych służebnic. Dozwól, by tak przyciągnęły ją Twoje wypowiedzi, że będzie ona święcić Twoją chwałę pośród nich.
    
 Mocen jesteś czynić to, w czym masz upodobanie. Nie ma Boga poza Tobą, Wszechmocnym, o którego pomoc proszą wszyscy ludzie.
 
-(Source category: Kobiety)
-(Bahaiprayers.net ID: 7299)
+-- Bahá'u'lláh
 
+bpn7299 «[Polski](../pl/#bpn7299)» 
 
-«[Polski](../pl/#bpn7299)» 
-
+----
 
 
 <a id="bpn7300"></a> 
-### Prayer bpn7300 in Polski
 O mój Panie, mój Umiłowany, Pragnienie moje! Bądź mi przyjacielem w moim osamotnieniu i towarzyszem mego wygnania. Oddal mój smutek. Spraw, abym była oddana Twojemu pięknu. Odsuń mnie od wszystkiego prócz Ciebie. Skłoń mnie ku sobie aromatem świętości. Spraw, abym przebywała z tymi, którzy uniezależnili się od wszystkiego prócz Ciebie, którzy pragną służyć u Twego świętego progu i stanęli gotowi do pracy dla Twojej Sprawy. Dozwól, abym stała się jedną z Twych służebnic, które zyskały Twoją przychylność. Zaiste, Tyś jest Łaskawym, Hojnym.
 
-(Source category: Kobiety)
-(Bahaiprayers.net ID: 7300)
+-- Abdu'l-Bahá
 
+bpn7300 «[Polski](../pl/#bpn7300)» 
 
-«[Polski](../pl/#bpn7300)» 
-
+----
 
 
 <a id="bpn7301"></a> 
-### Prayer bpn7301 in Polski
 Matki oczekujące dziecka
   
   
@@ -1214,56 +1099,49 @@ Mój Panie! Mój Panie! Wysławiam Cię i dzięki składam za to, czymś zaszczy
    
 O mój Panie, poświęcam Ci to, co jest w moim łonie. Spraw więc, by to dziecko stało się godne pochwały w Twoim Królestwie i by cieszyło się pomyślnością dzięki Twym łaskom i Twej szczodrości; niech rozwinie się i wzrasta zgodnie z Twoimi naukami. Zaprawdę, Tyś jest Łaskawym! Zaprawdę, Tyś jest Panem wielkiej życzliwości!
 
-(Source category: Kobiety)
-(Bahaiprayers.net ID: 7301)
+-- Abdu'l-Bahá
 
+bpn7301 «[Polski](../pl/#bpn7301)» 
 
-«[Polski](../pl/#bpn7301)» 
-
+----
 
 
 <a id="bpn7452"></a> 
-### Prayer bpn7452 in Polski
 O mój Boże, o Przebaczający grzechy i Rozpraszający nieszczęścia! O Ty, któryś jest Wybaczającym, Miłosiernym! Wznoszę moje błagające dłonie ku Tobie, we łzach prosząc dwór Twojej Boskiej Istoty, na Twoją łaskę i łagodność, o przebaczenie dla Twojej służebnicy, która wstąpiła do siedziby prawdy. Spraw, o Panie, aby osłoniły ją obłoki Twojej szczodrości i przychylności, zanurz ją w oceanie swojego przebaczenia i odpuszczenia oraz pozwól jej wejść do tego uświęconego domostwa, Twojego niebiańskiego Raju. 
     
 Tyś zaprawdę jest Potężnym, Współczującym, Hojnym, Miłosiernym.
 
-(Source category: Kobiety)
-(Bahaiprayers.net ID: 7452)
+-- Abdu'l-Bahá
 
+bpn7452 «[Polski](../pl/#bpn7452)» 
 
-«[Polski](../pl/#bpn7452)» 
-
+----
 
 
 <a id="bpn7453"></a> 
-### Prayer bpn7453 in Polski
 O Panie, o Ty, którego miłosierdzie objęło wszystko, którego przebaczenie przewyższa wszystko, którego łaskawość jest niezrównana, którego odpuszczenie i hojność są wszechogarniające i którego światła przebaczenia rozproszone są po całym świecie! O Panie Chwały! Błagam Cię, żarliwie i we łzach, abyś spojrzał okiem swego miłosierdzia na Twoją służebnicę, która wzniosła się do Ciebie. Przyodziej ją płaszczem swojej łaski, połyskującym ozdobami niebiańskiego Raju i, udzielając jej schronienia pod drzewem swojej jedyności, rozświetl jej twarz światłami swojego miłosierdzia i współczucia. 
     
 Obdarz swoją niebiańską służebnicę, o Boże, świętą wonią zrodzoną z ducha Twojego przebaczenia. Spraw, aby zamieszkała w domostwie szczęśliwości, ulecz jej żale balsamem spotkania Ciebie oraz, zgodnie z Twoją wolą, udziel jej wstępu do Twego świętego Raju. Niechaj aniołowie Twojej miłościwej życzliwości zstępują na nią kolejno i udziel jej schronienia pod Twoim błogosławionym Drzewem. Tyś zaiste jest Zawsze Przebaczającym, Najhojniejszym, Wszechszczodrym.
 
-(Source category: Kobiety)
-(Bahaiprayers.net ID: 7453)
+-- Abdu'l-Bahá
 
+bpn7453 «[Polski](../pl/#bpn7453)» 
 
-«[Polski](../pl/#bpn7453)» 
-
+----
 
 
 <a id="bpn7454"></a> 
-### Prayer bpn7454 in Polski
 O Ty, Życzliwy Panie! Ta oto wielce umiłowana służebnica w Tobie znalazła upodobanie i przez rozważanie i poznanie pragnęła dostąpić Twojej obecności i wejść do Twoich światów. Z oczyma pełnymi łez utkwiła wzrok w Królestwie Tajemnic. Wiele nocy spędziła w głębokiej komunii z Tobą i wiele dni żyła bliskim wspominaniem Ciebie. Każdego ranka była pomna Ciebie, a każdego wieczoru skupiała swoje myśli na Tobie. Niczym słowik śpiewała Twoje święte wersety i niczym lustro pragnęła odbijać Twoje światło. 
     
 O Ty, Przebaczający grzechy! Otwórz drogę dla tej przebudzonej duszy, aby weszła do Twego Królestwa, i pozwól temu ptakowi, wychowanemu Twoją dłonią, szybować w wiecznym różanym ogrodzie. Rozpalona jest pragnieniem zbliżenia się do Ciebie, pozwól jej dostąpić Twojej obecności. Jest zrozpaczona i przygnębiona rozłąką z Tobą; spraw, aby została przyjęta do Twego Niebiańskiego Pałacu. 
     
 O Panie! Jesteśmy grzeszni, lecz Tyś jest Przebaczającym. Jesteśmy zanurzeni w oceanie ułomności, lecz Tyś jest Wybaczającym, Życzliwym. Przebacz nam nasze grzechy i błogosław nam swoją obfitą łaską. Udziel nam przywileju ujrzenia Twojego Oblicza, i daj nam kielich radości i szczęśliwości. Jesteśmy jeńcami naszych własnych przewinień, a Tyś jest Królem szczodrych łask. Jesteśmy zatopieni w morzu nieprawości, a Tyś jest Panem nieskończonego miłosierdzia. Tyś jest Dającym, Chwalebnym, Wiecznym, Szczodrobliwym i Tyś jest Wszechłaskawym, Wszechmiłosiernym, Wszechmogącym, Tym, który rozdaje dary i przebacza grzechy. Zaprawdę, Tyś jest Tym, do którego wszyscy zwracamy się o odpuszczenie naszych uchybień, Tym, który jest Panem panów.
 
-(Source category: Kobiety)
-(Bahaiprayers.net ID: 7454)
+-- Abdu'l-Bahá
 
+bpn7454 «[Polski](../pl/#bpn7454)» 
 
-«[Polski](../pl/#bpn7454)» 
-
+----
 
 
 
@@ -1271,19 +1149,17 @@ O Panie! Jesteśmy grzeszni, lecz Tyś jest Przebaczającym. Jesteśmy zanurzeni
 ## Krótka Modlitwa Obowiązkowa
 
 <a id="bpn7267"></a> 
-### Prayer bpn7267 in Polski
 ##KRÓTKĄ MODLITWĘ OBOWIĄZKOWĄ NALEŻY ODMAWIAĆ RAZ NA DOBĘ, W POŁUDNIE.
 
 Daję świadectwo, o mój Boże, że stworzyłeś mnie, abym Cię znał i wielbił. Świadczę w tej chwili o mojej bezsilności a Twojej mocy, o mym ubóstwie a Twoim bogactwie. 
 
 Nie ma innego Boga poza Tobą, Pomocą w Niebezpieczeństwie, Samoistnym.
 
-(Source category: Krótka Modlitwa Obowiązkowa)
-(Bahaiprayers.net ID: 7267)
+-- Bahá'u'lláh
 
+bpn7267 «[Polski](../pl/#bpn7267)» 
 
-«[Polski](../pl/#bpn7267)» 
-
+----
 
 
 
@@ -1291,63 +1167,54 @@ Nie ma innego Boga poza Tobą, Pomocą w Niebezpieczeństwie, Samoistnym.
 ## Ludzkość
 
 <a id="bpn7302"></a> 
-### Prayer bpn7302 in Polski
 Boże mój, którego czczę i wielbię! Daję świadectwo Twojej jedności i jedyności i uznaję Twoje dary, zsyłane zarówno w przeszłości, jak i obecnie. Tyś jest Wszechłaskawym, którego miłosierdzie spłynęło jak obfity deszcz tak na wywyższonych, jak i na poniżonych, i który rozsiał swe wspaniałe łaski zarówno na posłusznych, jak i na zbuntowanych.
    
 O Boże miłosierdzia, u którego podwoi skłoniła się sama istota miłosierdzia, a serdeczna dobroć w swej najpełniejszej istocie krąży wokół sanktuarium Twojej Sprawy, prosimy Cię, przywołując Twą odwieczną łaskawość i błagając o Twą obecną życzliwość, abyś okazał zmiłowanie wszystkim, którzy są przejawem świata stworzenia i nie odmawiał im potoków swej łaski w Dniach Twoich.
    
 Wszyscy są ubodzy i potrzebujący, a Tyś zaiste jest Wszechposiadającym, Wszechujarzmiającym, Wszechpotężnym.
 
-(Source category: Ludzkość)
-(Bahaiprayers.net ID: 7302)
+-- Bahá'u'lláh
 
+bpn7302 «[Polski](../pl/#bpn7302)» 
 
-«[Polski](../pl/#bpn7302)» 
-
+----
 
 
 <a id="bpn7303"></a> 
-### Prayer bpn7303 in Polski
 O Ty, współczujący Panie, Ty, któryś jest hojny i wszechzdolny! Jesteśmy Twoimi sługami, chroniącymi się w cieniu Twojej opatrzności. Spójrz na nas życzliwym okiem. Obdarz światłem nasze oczy, słuchem nasze uszy, a serca zrozumieniem i miłością. Spraw, aby nasze dusze pełne były zachwytu i szczęścia, dzięki Twoim radosnym nowinom. O Panie! Wskaż nam ścieżkę do swojego Królestwa i ożyw nas wszystkich tchnieniem Ducha Świętego. Obdarz nas życiem wiecznym i ześlij na nas nigdy niekończącą się chwałę. Zjednocz rodzaj ludzki i oświeć świat ludzkości. Spraw, abyśmy wszyscy chodzili Twoimi ścieżkami, pragnęli Twojego zadowolenia i szukali tajemnic Twojego Królestwa. O Boże! Zjednocz nas i połącz serca nasze swą nierozerwalną więzią. Zaiste, Tyś jest Dającym, Tyś jest Łaskawym i Tyś jest Wszechmocnym.
 
-(Source category: Ludzkość)
-(Bahaiprayers.net ID: 7303)
+-- Abdu'l-Bahá
 
+bpn7303 «[Polski](../pl/#bpn7303)» 
 
-«[Polski](../pl/#bpn7303)» 
-
+----
 
 
 <a id="bpn7304"></a> 
-### Prayer bpn7304 in Polski
 O Ty, łaskawy Panie! O Ty, któryś jest hojny i miłosierny! Jesteśmy sługami u Twojego progu zgromadzonymi w cieniu Twojej Boskiej jedności. Słońce Twego miłosierdzia świeci na wszystkich, a obłoki Twej życzliwości wszystkich obdarzają deszczem. Twoje dary wszystkich otaczają, Twoja miłościwa opatrzność wszystkich podtrzymuje, Twoja opieka ogarnia wszystkich, a spojrzenia Twojej łaski padają na wszystkich. O Panie! Obdaruj nas swoimi bezgranicznymi dobrodziejstwami i niechaj zajaśnieje światło Twojego przewodnictwa. Rozjaśnij nasze oczy i uraduj serca trwałą radością. Ześlij nowego ducha na wszystkich ludzi i daj im żywot wieczny. Otwórz bramy prawdziwego zrozumienia i pozwól światłu Wiary rozbłysnąć jasno. Zgromadź całą ludzkość w cieniu swojej życzliwości i spraw, aby wszyscy połączyli się w zgodzie, aby stali się jak promienie jednego słońca, jak fale jednego oceanu i jak owoce jednego drzewa. Niechaj wszyscy piją z tej samej krynicy. Niechaj wszystkich odświeżają te same powiewy. Niechaj zostaną oświeceni tym samym źródłem światła. Tyś jest Dającym, Miłosiernym, Wszechmocnym.
 
-(Source category: Ludzkość)
-(Bahaiprayers.net ID: 7304)
+-- Abdu'l-Bahá
 
+bpn7304 «[Polski](../pl/#bpn7304)» 
 
-«[Polski](../pl/#bpn7304)» 
-
+----
 
 
 <a id="bpn7306"></a> 
-### Prayer bpn7306 in Polski
 O Boże, o Ty, któryś zesłał swoją wspaniałość na świetlaną rzeczywistość człowieka, rzucając nań olśniewające światła wiedzy i przewodnictwa, i wybrał go spośród wszystkich stworzonych rzeczy, by obdarzyć go tą niezwykłą łaską, i sprawił, że pojął on wszystkie rzeczy, zrozumiał ich najskrytszą istotę i ujawnił ich tajemnice, wydobywając je z ciemności do widzialnego świata! „On zaprawdę obdarza swoim szczególnym miłosierdziem tego, kogo chce”  .
    
 O Panie, pomóż swoim umiłowanym nabywać wiedzę, naukę i umiejętności artystyczne oraz odkrywać sekrety pieczołowicie schowane w najskrytszej rzeczywistości wszystkiego stworzenia. Daj im usłyszeć ukryte prawdy zapisane i zanurzone w sercu wszystkiego, co jest. Uczyń ich znakami przewodnictwa pośród wszystkich stworzeń i przenikliwymi promieniami umysłu, które rzucają swoje światło w tym „pierwszym życiu” . Niechaj będą przywódcami prowadzącymi do Ciebie, przewodnikami wiodącymi ku Twojej ścieżce i gońcami przywołującymi ludzi do Twojego Królestwa.
    
 Zaiste, Tyś jest Mocnym, Opiekunem, Silnym, Obrońcą, Potężnym, Najhojniejszym.
 
-(Source category: Ludzkość)
-(Bahaiprayers.net ID: 7306)
+-- Abdu'l-Bahá
 
+bpn7306 «[Polski](../pl/#bpn7306)» 
 
-«[Polski](../pl/#bpn7306)» 
-
+----
 
 
 <a id="bpn7305"></a> 
-### Prayer bpn7305 in Polski
 O Panie łaskawy! Tyś ulepił całą ludzkość z tej samej gliny. Tyś nakazał, aby wszyscy należeli do tego samego domostwa. W Twojej świętej obecności wszyscy są Twoimi sługami i cała ludzkość znajduje schronienie w Twoim tabernakulum; wszyscy zebrali się przy Stole Twojej Szczodrości i wszystkich oświetlił blask Twojej Opatrzności.
    
 O Boże! Tyś dla wszystkich jest łaskawy, Tyś o wszystkich zadbał, wszystkich ochraniasz i wszystkim dajesz życie. Tyś każdego obdarzył zdolnościami i talentami i wszyscy zanurzeni są w oceanie Twojego Miłosierdzia.
@@ -1364,12 +1231,11 @@ O Ty, łaskawy Ojcze, Boże! Uciesz nasze serca wonią swej miłości. Rozjaśni
    
 Tyś jest Mocnym i Potężnym, Tyś jest Przebaczającym i Tyś jest Tym, który pobłaża ułomnościom wszystkich ludzi.
 
-(Source category: Ludzkość)
-(Bahaiprayers.net ID: 7305)
+-- Abdu'l-Bahá
 
+bpn7305 «[Polski](../pl/#bpn7305)» 
 
-«[Polski](../pl/#bpn7305)» 
-
+----
 
 
 
@@ -1377,7 +1243,6 @@ Tyś jest Mocnym i Potężnym, Tyś jest Przebaczającym i Tyś jest Tym, który
 ## Małżeństwo
 
 <a id="bpn7308"></a> 
-### Prayer bpn7308 in Polski
 *Przysięga małżeńska, którą powinni wypowiedzieć oddzielnie panna i pan młody w obecności przynajmniej dwóch świadków zaakceptowanych przez Zgromadzenie Duchowe, została podana w „Kitáb-i-Aqdas” („Najświętszej Księdze”): 
 
 *Kobieta: „Wszystkie, zaprawdę, będziemy posłuszne Woli Bożej”.
@@ -1390,16 +1255,14 @@ Pochwalony niech będzie Bóg, Pradawny, Wiecznie Trwający, Niezmienny, Wieczny
    
 A kiedy zapragnął okazać ludziom swoją łaskę i szczodrość i wprowadzić porządek na świecie, objawił zasady i stworzył prawa; między innymi ustanowił prawo małżeńskie i uczynił je twierdzą pomyślności i zbawienia, zalecił nam je zgodnie z tym, co zostało zesłane z nieba świętości w Jego Najświętszej Księdze. Mówi On, a chwała Jego jest wielka: „Wstępujcie w związki małżeńskie, o ludzie, aby ukazał się z was ten, kto wspominać Mnie będzie pośród sług Moich. Jest to jedno z Mych przykazań; bądźcie mu posłuszni, gdyż jest ono dla waszego pożytku”.
 
-(Source category: Małżeństwo)
-(Bahaiprayers.net ID: 7308)
+-- Bahá'u'lláh
 
+bpn7308 «[Polski](../pl/#bpn7308)» 
 
-«[Polski](../pl/#bpn7308)» 
-
+----
 
 
 <a id="bpn7307"></a> 
-### Prayer bpn7307 in Polski
 *„Małżeństwo bahaitów jest związkiem i serdecznym uczuciem między dwiema osobami. Osoby te jednak powinny zachowywać jak największą ostrożność i dobrze wzajemnie poznać swoje charaktery. Ten wieczny związek musi być zabezpieczony mocnym przymierzem, a jego celem winno być pielęgnowanie harmonii, przyjaźni i jedności oraz osiągnięcie życia wiecznego.”
 
 On jest Bogiem!
@@ -1408,38 +1271,33 @@ O niezrównany Panie! W swojej wszechmocnej mądrości przykazałeś ludziom ma�
    
 O Panie łaskawy! Spraw, aby to małżeństwo wydało korale i perły. Tyś zaprawdę jest Wszechmocnym, Największym, Zawsze Przebaczającym.
 
-(Source category: Małżeństwo)
-(Bahaiprayers.net ID: 7307)
+-- Abdu'l-Bahá
 
+bpn7307 «[Polski](../pl/#bpn7307)» 
 
-«[Polski](../pl/#bpn7307)» 
-
+----
 
 
 <a id="bpn7309"></a> 
-### Prayer bpn7309 in Polski
 Chwała niechaj Ci będzie, o mój Boże! Zaprawdę, ten oto Twój sługa i ta oto Twoja służebnica spotkali się w cieniu Twojego miłosierdzia i połączyli dzięki Twojej łaskawości i hojności. O Panie! Wspomagaj ich w Twoim doczesnym świecie i w Twoim królestwie i przeznacz dla nich wszelkie dobro przez swoją życzliwość i łaskę. O Panie! Utwierdź ich w służeniu Tobie i dopomóż im w służbie dla Ciebie. Pozwól, aby stali się znakami Twojego Imienia w Twym świecie i chroń ich swoimi niewyczerpalnymi darami w tym świecie i w świecie, który nastąpi. O Panie! Zanoszą oni prośby do królestwa Twojego miłosierdzia i błagają krainę Twojej pojedynczości. Zaprawdę, zostali oni poślubieni zgodnie z Twoim przykazaniem. Spraw, aby stali się znakami harmonii i jedności po wsze czasy. Zaprawdę, Ty jesteś Wszechmocnym, Wszechobecnym, Wszechmogącym!
 
-(Source category: Małżeństwo)
-(Bahaiprayers.net ID: 7309)
+-- Abdu'l-Bahá
 
+bpn7309 «[Polski](../pl/#bpn7309)» 
 
-«[Polski](../pl/#bpn7309)» 
-
+----
 
 
 <a id="bpn7310"></a> 
-### Prayer bpn7310 in Polski
 O Panie mój, o Panie mój! Te dwa jasne słońca łączą się węzłem małżeńskim w Twojej miłości, złączone w służbie u Twego świętego progu i zjednoczone pracą dla Twojej Sprawy. Spraw, aby to małżeństwo stało się przewodnim światłem płynącym z Twojej obfitej łaski, o mój Panie, Wszechmiłosierny, i było jasnym promieniem Twoich darów, o Ty, Dobroczyńco, Zawsze Dający, tak aby z tego wspaniałego Drzewa wyrosły gałęzie, które zazielenią się i zakwitną, dzięki deszczom darów płynących z obłoków Twojej łaski.
    
 Zaprawdę, Tyś jest Hojnym. Zaprawdę, Tyś jest Wszechmocnym. Zaprawdę, Tyś jest Współczującym, Wszechmiłosiernym.
 
-(Source category: Małżeństwo)
-(Bahaiprayers.net ID: 7310)
+-- Abdu'l-Bahá
 
+bpn7310 «[Polski](../pl/#bpn7310)» 
 
-«[Polski](../pl/#bpn7310)» 
-
+----
 
 
 
@@ -1447,7 +1305,6 @@ Zaprawdę, Tyś jest Hojnym. Zaprawdę, Tyś jest Wszechmocnym. Zaprawdę, Tyś 
 ## Modlitwa za zmarłych
 
 <a id="bpn7447"></a> 
-### Prayer bpn7447 in Polski
 *Modlitwa za zmarłych jest jedyną obowiązkową modlitwą bahaicką, w której uczestniczą wszyscy zebrani. Odmawia ją jeden z wiernych, podczas gdy pozostali stoją w milczeniu. Bahá’u’lláh wyjaśnił, że modlitwa za zmarłych jest wymagana jedynie, gdy zmarły miał więcej niż piętnaście lat, i że jej odmówienie powinno poprzedzać pochówek oraz że zwrócenie się w stronę Qiblih nie jest konieczne. ‚Alláh-u-Abhá’ wypowiada się jednokrotnie, następnie dziewiętnaście razy recytuje się pierwszy z sześciu wersów. Wtedy ponownie wypowiada się ‚Alláh-u-Abhá’, po czym dziewiętnaście razy recytuje się drugi wers, i tak dalej.
 
 
@@ -1471,12 +1328,11 @@ Zaprawdę, wszyscy jesteśmy cierpliwi w Bogu.
      
 *(Jeżeli zmarłą jest kobieta, niech modlący się powie: „Oto Twoja służebnica i córka Twojej służebnicy” itd.)
 
-(Source category: Modlitwa za zmarłych)
-(Bahaiprayers.net ID: 7447)
+-- Bahá'u'lláh
 
+bpn7447 «[Polski](../pl/#bpn7447)» 
 
-«[Polski](../pl/#bpn7447)» 
-
+----
 
 
 
@@ -1484,7 +1340,6 @@ Zaprawdę, wszyscy jesteśmy cierpliwi w Bogu.
 ## Męczennicy i ich rodziny
 
 <a id="bpn7466"></a> 
-### Prayer bpn7466 in Polski
 On jest Bogiem!
     
 O Panie, mój Boże! O Ty, Pomagający słabym, Wspomożycielu ubogich i Wyzwolicielu bezradnych, którzy zwracają się ku Tobie.
@@ -1501,12 +1356,11 @@ O Panie! Wzmocnij ich łaskawie nowym duchem; oświeć ich oczy, aby mogli dostr
     
 Zaprawdę, Tyś jest Hojnym, Potężnym, Wszechmogącym, Nieograniczonym. Nie ma innego Boga poza Tobą, Bogiem miłości i czułego miłosierdzia, Najchwalebniejszym, Zawsze Przebaczającym.
 
-(Source category: Męczennicy i ich rodziny)
-(Bahaiprayers.net ID: 7466)
+-- Abdu'l-Bahá
 
+bpn7466 «[Polski](../pl/#bpn7466)» 
 
-«[Polski](../pl/#bpn7466)» 
-
+----
 
 
 
@@ -1514,7 +1368,6 @@ Zaprawdę, Tyś jest Hojnym, Potężnym, Wszechmogącym, Nieograniczonym. Nie ma
 ## Mężowie
 
 <a id="bpn7380"></a> 
-### Prayer bpn7380 in Polski
 O Boże, mój Boże! Ta oto służebnica wzywa Ciebie, ufając Tobie, zwróciwszy swą twarz ku Tobie, błagając Cię, abyś zesłał na nią swe niebiańskie dary, odsłonił przed nią swoje duchowe tajemnice i oświetlił ją blaskiem swojego Bóstwa.
     
 O mój Panie! Spraw, aby oczy mego męża przejrzały. Rozraduj jego serce światłem wiedzy o Tobie, skieruj jego myśli w stronę Twego jasnego piękna i uraduj jego ducha, objawiając mu swoje jawne wspaniałości. 
@@ -1523,12 +1376,11 @@ O mój Panie! Usuń zasłonę sprzed jego oczu. Obsyp go obfitymi darami swymi, 
     
 Zaprawdę, Tyś jest Bezcennym, Zawsze Obdarowującym, Tym, którego Dłonie są Otwarte.
 
-(Source category: Mężowie)
-(Bahaiprayers.net ID: 7380)
+-- Abdu'l-Bahá
 
+bpn7380 «[Polski](../pl/#bpn7380)» 
 
-«[Polski](../pl/#bpn7380)» 
-
+----
 
 
 
@@ -1536,65 +1388,56 @@ Zaprawdę, Tyś jest Bezcennym, Zawsze Obdarowującym, Tym, którego Dłonie są
 ## Młodzież
 
 <a id="bpn7311"></a> 
-### Prayer bpn7311 in Polski
 O Ty, życzliwy Panie! Z horyzontu uniezależnienia Tyś objawił dusze, które niczym lśniący księżyc rzuciły blask na królestwo serca i duszy, pozbyły się cech świata istnienia i pospieszyły do królestwa nieśmiertelności. Kroplą z oceanu swej serdecznej dobroci często zwilżałeś ogrody ich serc, aż osiągnęły niezrównaną świeżość i piękno. Święta woń Twej Boskiej jedności została uniesiona daleko i szeroko, roznosząc słodkie zapachy po całym świecie, sprawiając, że krainy ziemi nasyciły się wonnym aromatem. 
    
 Spraw zatem, o duchu Czystości, by powstały dusze, które niczym te uświęcone istoty staną się wolne i czyste, ozdobią świat istnienia nową szatą i cudowną suknią, nie będą szukać nikogo innego prócz Ciebie, nie będą kroczyć żadną inną ścieżką prócz ścieżki Twojego zadowolenia, ani nie będą mówiły o niczym innym jak tylko o tajemnicach Twej Sprawy. 
    
 O Ty, życzliwy Panie! Pozwól, aby ta młoda osoba mogła osiągnąć to, co jest najwyższym pragnieniem świętych. Obdarz ją skrzydłami swej wzmacniającej łaski – skrzydłami uniezależnienia i Boskiej pomocy – aby mogła wznieść się na nich aż po sferę Twej czułej łaski, mieć udział w Twych Boskich darach, stać się znakiem Boskiego przewodnictwa i sztandarem Zastępów na wysokościach. Tyś jest Potężnym, Mocnym, Widzącym, Słyszącym.
 
-(Source category: Młodzież)
-(Bahaiprayers.net ID: 7311)
+-- Abdu'l-Bahá
 
+bpn7311 «[Polski](../pl/#bpn7311)» 
 
-«[Polski](../pl/#bpn7311)» 
-
+----
 
 
 <a id="bpn7312"></a> 
-### Prayer bpn7312 in Polski
 O Ty, dobry Panie! Łaskawie obdarz parą niebiańskich skrzydeł każde z tych piskląt i daj im duchową moc, aby mogły poszybować przez bezkresną przestrzeń i wznieść się na wyżyny Królestwa Abhá. 
    
 O Panie! Wzmocnij te delikatne sadzonki, aby każda z nich mogła stać się owocnym drzewem, zielonym i kwitnącym. Potęgą swych niebiańskich zastępów zapewnij tym duszom zwycięstwo, aby mogły zdławić moce błędu i niewiedzy oraz rozwinąć sztandar braterstwa i przewodnictwa pośród ludzi, oraz aby mogły niczym ożywcze powiewy wiosny orzeźwić i rozbudzić drzewa ludzkich dusz i niczym wiosenne deszcze sprawić, aby łąki tej okolicy zazieleniły się i stały się żyzne. 
    
 Tyś jest Potężnym i Mocnym; Tyś jest Obdarowującym i Wszechmiłującym.
 
-(Source category: Młodzież)
-(Bahaiprayers.net ID: 7312)
+-- Abdu'l-Bahá
 
+bpn7312 «[Polski](../pl/#bpn7312)» 
 
-«[Polski](../pl/#bpn7312)» 
-
+----
 
 
 <a id="bpn7313"></a> 
-### Prayer bpn7313 in Polski
 O Ty, życzliwy Panie! Obdarz tę córkę Królestwa niebiańskim umocnieniem i łaskawie pomóż jej pozostać mocną i wytrwałą w Twojej Sprawie oraz niczym słowik w różanym ogrodzie tajemnic wyśpiewywać najcudowniejszym głosem melodie w Królestwie Abhá, wszystkim przynosząc w ten sposób szczęście. Uczyń ją wywyższoną pośród córek Królestwa i pozwól jej osiągnąć życie wieczne. 
    
 Tyś jest Obdarowującym, Wszechmiłującym.
 
-(Source category: Młodzież)
-(Bahaiprayers.net ID: 7313)
+-- Abdu'l-Bahá
 
+bpn7313 «[Polski](../pl/#bpn7313)» 
 
-«[Polski](../pl/#bpn7313)» 
-
+----
 
 
 <a id="bpn7314"></a> 
-### Prayer bpn7314 in Polski
 O Panie! Uczyń tego młodzieńca promiennym i udziel swojej łaski tej biednej istocie. Obdarz go wiedzą, a o brzasku każdego dnia wspomagaj go dodatkową siłą i strzeż go w schronieniu swojej opieki, aby mógł uwolnić się od błędu i poświęcić służeniu Twojej Sprawie, aby mógł prowadzić błądzących, wskazywać drogę nieszczęśliwym, oswabadzać zniewolonych, budzić niebacznych, tak aby wszyscy dostąpili błogosławieństwa pamięci o Tobie i wychwalania Ciebie. Ty jesteś Potężnym i Mocnym.
 
-(Source category: Młodzież)
-(Bahaiprayers.net ID: 7314)
+-- Abdu'l-Bahá
 
+bpn7314 «[Polski](../pl/#bpn7314)» 
 
-«[Polski](../pl/#bpn7314)» 
-
+----
 
 
 <a id="bpn7315"></a> 
-### Prayer bpn7315 in Polski
 Cześć i chwała niechaj będą Tobie, o Panie, mój Boże! Oto przednie drzewko, któreś zasadził na łąkach swej miłości i pielęgnował palcami swej władzy. Tyś je wodą ze źródła wiecznego życia podlewał, co z ogrodów Twojej jedności wypływa, i Tyś sprawił, że obłoki Twojego czułego miłosierdzia zrosiły je deszczem łask Twoich. Wzrastało ono i rozwijało się w cieniu Twych błogosławieństw objawionych ze Źródła Twojej Boskiej istoty. Wybuchło ono zielenią i pąkami, ciężkie jest od owoców, dzięki opatrzności Twych cudownych darów i szczodrości i porusza nim wonny powiew Twej miłującej życzliwości. 
    
 O Panie! Spraw, aby to drzewko stało się zielone, świeże i kwitnące, dzięki potokom Twoich wyjątkowych łask i względów, którymi obdarzyłeś przybytki świętości w Twoim wiecznym Królestwie i przyozdobiłeś istoty jedności na arenie zjednoczenia. 
@@ -1603,12 +1446,11 @@ O Panie! Wspomóż go swoją umacniającą łaską płynącą z Twego niewidzial
    
 Tyś jest Wszechmocnym, Wszechłaskawym, Wszechwiedzącym.
 
-(Source category: Młodzież)
-(Bahaiprayers.net ID: 7315)
+-- Abdu'l-Bahá
 
+bpn7315 «[Polski](../pl/#bpn7315)» 
 
-«[Polski](../pl/#bpn7315)» 
-
+----
 
 
 
@@ -1616,7 +1458,6 @@ Tyś jest Wszechmocnym, Wszechłaskawym, Wszechwiedzącym.
 ## Nauczanie
 
 <a id="bpn7316"></a> 
-### Prayer bpn7316 in Polski
 Ogólne modlitwy o pomoc w nauczaniu 
   
   
@@ -1627,16 +1468,14 @@ Błagam Cię, o mój Panie, w imię Tego, wokół którego krąży w adoracji kr
    
 Skoro poprowadziłeś ich, o mój Panie, ku żywym wodom swej łaski, swą szczodrością spraw, aby nie pozostawali z dala od Ciebie i skoro powołałeś ich w pobliże swego tronu, przez wzgląd na Twą serdeczną dobroć, nie pozbawiaj ich swojej obecności. Ześlij im zatem to, co uniezależni ich od wszystkiego poza Tobą i sprawi, że wzniosą się ku niebiosom Twojej bliskości, a w ten sposób ani przewaga gnębicieli, ani podszepty tych, którzy zwątpili w Twoją najwspanialszą i najpotężniejszą Istotę, nie będą zdolne powstrzymać ich od zbliżenia się do Ciebie.
 
-(Source category: Nauczanie)
-(Bahaiprayers.net ID: 7316)
+-- Bahá'u'lláh
 
+bpn7316 «[Polski](../pl/#bpn7316)» 
 
-«[Polski](../pl/#bpn7316)» 
-
+----
 
 
 <a id="bpn7317"></a> 
-### Prayer bpn7317 in Polski
 Chwała niechaj będzie Tobie, o Panie, Boże mój! Błagam Cię na Twoje Imię, którego nikt godnie nie rozpoznał i którego doniosłości nie zgłębiła żadna dusza; błagam Cię na tego, który jest Źródłem Twojego Objawienia i Świtem Twoich znaków, abyś uczynił serce moje czarą Twojej miłości i pamięci o Tobie. Złącz je zatem ze swym najwspanialszym Oceanem, ażeby wypływały z niego żywe wody Twej mądrości i kryształowe strumienie Twego wysławiania i czci.
    
 Członki mego ciała świadczą o Twojej jedności, a włosy mej głowy dają świadectwo potęgi Twojej wszechwładzy i mocy. Stoję oto u wrót Twojej łaski z najwyższą skromnością, z zupełnym wyrzeczeniem, trzymając się rąbka Twojej hojności, a spojrzenie moje utkwione jest na horyzoncie Twoich darów.
@@ -1645,16 +1484,14 @@ Przeznacz dla mnie, o mój Boże, to, co przystoi wielkości Twojego majestatu, 
    
 Tyś zaiste jest Najpotężniejszym, Najwyższym, Wszechwiedzącym i Wszechmądrym.
 
-(Source category: Nauczanie)
-(Bahaiprayers.net ID: 7317)
+-- Bahá'u'lláh
 
+bpn7317 «[Polski](../pl/#bpn7317)» 
 
-«[Polski](../pl/#bpn7317)» 
-
+----
 
 
 <a id="bpn7318"></a> 
-### Prayer bpn7318 in Polski
 Chwała niechaj będzie Tobie, o Panie świata i Upragnienie narodów, o Ty, któryś objawił się w Największym Imieniu, mocą którego perły mądrości i wypowiedzi wyłoniły się z muszli wspaniałego morza Twojej wiedzy, a niebiosa Boskiego objawienia zostały przystrojone światłem ukazania się słońca Twojego oblicza.
    
 Błagam Cię na to Słowo, co udoskonaliło Twój dowód pośród Twoich stworzeń i dało świadectwo pośród sług Twoich, abyś umocnił swój lud tak, by oblicze Twojej Sprawy zajaśniało w Twoim królestwie, sztandary Twojej potęgi zostały zatknięte pomiędzy sługami Twymi, a chorągwie Twojego przewodnictwa zostały uniesione we wszystkich krainach Twoich.
@@ -1663,16 +1500,14 @@ O mój Panie! Ty widzisz ich, jak uchwycili się więzi Twojej łaski i trzymaj�
    
 Błagam Cię, o Królu istnienia i Obrońco tego, co widzialne i niewidzialne, abyś sprawił, by każdy, kto powstanie służyć Twojej Sprawie, stał się niby morze falujące na Twoje życzenie i został rozpalony płomieniem Twojego Świętego Drzewa, jaśniejącym nad horyzontem nieba Twojej woli. Zaprawdę, Tyś jest Potężnym, którego nie zdołają osłabić ani potęga całego świata, ani siły narodów. Nie ma Boga poza Tobą, Jedynym, Niezrównanym, Obrońcą, Samoistnym.
 
-(Source category: Nauczanie)
-(Bahaiprayers.net ID: 7318)
+-- Bahá'u'lláh
 
+bpn7318 «[Polski](../pl/#bpn7318)» 
 
-«[Polski](../pl/#bpn7318)» 
-
+----
 
 
 <a id="bpn7319"></a> 
-### Prayer bpn7319 in Polski
 O Boże, któryś jest Autorem wszystkich Uosobień, Początkiem wszystkich Początków, Krynicą wszystkich Objawień i Źródłem wszystkich Świateł! Świadczę, że Twoje Imię upiększyło niebo zrozumienia, i sprawiło, że ocean wypowiedzi wezbrał, a zwiastowanie Twojej opatrzności zostało obwieszczone wierzącym wszystkich religii.
    
 Błagam Cię, abyś wzbogacił mnie tak, bym nie potrzebował niczego prócz Ciebie i był niezależny od kogokolwiek z wyjątkiem Ciebie. Zroś mnie zatem takim deszczem z obłoków Twojej łaskawości, co korzyść w każdym z Twoich światów mi przyniesie. Wspomagaj mnie więc Twoją umacniającą łaską, abym tak służył Twojej Sprawie pośród sług Twoich, bym mógł dokonać tego, co sprawi, że pamięć o mnie pozostanie tak długo, jak długo istnieć będzie Twoje własne królestwo i trwać będzie Twoje panowanie.
@@ -1681,46 +1516,40 @@ Oto Twój sługa, o mój Panie, który zwrócił całą swoją istotę ku horyzo
    
 Tyś zaprawdę jest Bogiem siły i mocy, który gotów jest odpowiedzieć tym, którzy się modlą do Ciebie. Nie ma innego Boga poza Tobą, Wszechwiedzącym, Wszechmądrym.
 
-(Source category: Nauczanie)
-(Bahaiprayers.net ID: 7319)
+-- Bahá'u'lláh
 
+bpn7319 «[Polski](../pl/#bpn7319)» 
 
-«[Polski](../pl/#bpn7319)» 
-
+----
 
 
 <a id="bpn7320"></a> 
-### Prayer bpn7320 in Polski
 Powiedz: Wywyższone niechaj będzie Imię Twoje, o Panie, mój Boże! Błagam Cię na Twoje Imię, dzięki któremu zalśniła jasno wspaniałość światła mądrości, gdy niebiosa Boskiej wypowiedzi zostały poruszone wśród ludzkości, abyś łaskawie wspomógł mnie swym niebiańskim umocnieniem i pozwolił mi wysławiać Twoje Imię pośród Twoich sług. 
    
 O Panie! Do Ciebie zwróciłem moją twarz, wolny od wszystkiego prócz Ciebie, i trzymając się mocno rąbka szaty Twoich nieskończonych błogosławieństw. Rozwiąż zatem mój język, abym mógł głosić to, co zauroczy umysły ludzi i rozraduje ich dusze i ducha. Umocnij mnie zatem w Twojej Sprawie tak, aby nie mogła mnie powstrzymać przewaga ciemiężców pośród stworzeń Twoich ani bym nie został wstrzymany przez atak niewierzących pośród tych, którzy zamieszkują Twoje królestwo. Uczyń mnie na podobieństwo lampy świecącej w Twoich krainach, aby ci, w których sercach żarzy się światło Twojej wiedzy i tli się pragnienie Twojej miłości, mogli być prowadzeni przez jej blask. 
    
 Zaiste, mocen jesteś czynić cokolwiek zechcesz i w swoim uścisku trzymasz królestwo stworzenia. Nie ma innego Boga poza Tobą, Wszechmocnym, Wszechmądrym.
 
-(Source category: Nauczanie)
-(Bahaiprayers.net ID: 7320)
+-- Bahá'u'lláh
 
+bpn7320 «[Polski](../pl/#bpn7320)» 
 
-«[Polski](../pl/#bpn7320)» 
-
+----
 
 
 <a id="bpn7321"></a> 
-### Prayer bpn7321 in Polski
 O mój Boże, dopomóż swemu słudze podjąć Słowo, odrzucić wszystko, co jest próżne i fałszywe, ustanowić prawdę, rozpowszechnić święte wersety we wszystkich krainach, objawić ich wspaniałość i sprawić, że światło jutrzenki rozbłyśnie w sercach sprawiedliwych.
    
 Tyś zaprawdę jest Hojnym, Przebaczającym.
 
-(Source category: Nauczanie)
-(Bahaiprayers.net ID: 7321)
+-- Abdu'l-Bahá
 
+bpn7321 «[Polski](../pl/#bpn7321)» 
 
-«[Polski](../pl/#bpn7321)» 
-
+----
 
 
 <a id="bpn7323"></a> 
-### Prayer bpn7323 in Polski
 Ty widzisz mnie, o mój Boże, pokornie pochylonego, ukorzonego przed Twoimi przykazaniami, uległego wobec Twojej wszechwładzy, poruszonego mocą Twojego panowania, uciekającego przed Twoim gniewem, błagającego o Twoją łaskę, liczącego na Twoje przebaczenie i drżącego z lęku przed Twoim wzburzeniem. Błagam Cię z mocno bijącym sercem, płynącymi łzami i stęsknioną duszą, w całkowitym uniezależnieniu od wszystkich rzeczy, byś sprawił, by Twoi umiłowani stali się jak promienie światła w Twoich Królestwach, i byś wspomógł swoich wybranych służebników w wywyższaniu Twojego Słowa, aby ich twarze stały się piękne i jaśniejące blaskiem, ich serca napełniły się tajemnicami, a każda dusza zrzuciła ciężar swoich grzechów. Ustrzeż ich więc od napastnika, tego, który stał się bezwstydnym i bluźnierczym złoczyńcą.
    
 Zaprawdę, Twoi miłośnicy są spragnieni, o mój Panie, zaprowadź ich do źródła hojności i łaski. Zaprawdę, oni łakną – ześlij im swój niebiański posiłek. Zaprawdę, oni są nadzy – przyodziej ich szatami nauki i wiedzy.
@@ -1729,40 +1558,35 @@ Oni są bohaterami, o mój Panie, poprowadź ich na pole walki. Oni są przewodn
    
 Zaprawdę, Tyś jest Tym, który obfituje w łaski. Nie ma innego Boga poza Tobą, Potężnym, Mocnym, Zawsze Obdarzającym.
 
-(Source category: Nauczanie)
-(Bahaiprayers.net ID: 7323)
+-- Abdu'l-Bahá
 
+bpn7323 «[Polski](../pl/#bpn7323)» 
 
-«[Polski](../pl/#bpn7323)» 
-
+----
 
 
 <a id="bpn7324"></a> 
-### Prayer bpn7324 in Polski
 Ty wiesz, o Boże, i jesteś moim świadkiem, że nie mam żadnego pragnienia w moim sercu prócz tego, aby osiągnąć Twoje zadowolenie, być umocnionym w służeniu Tobie, oddać się służbie dla Ciebie, pracować w Twojej wielkiej winnicy i poświęcić wszystko na Twojej ścieżce. Tyś jest Wszystkowiedzącym i Wszystkowidzącym. Z miłości do Ciebie pragnę jedynie skierować me kroki ku górom i pustyniom, aby głośno oznajmiać przybycie Twojego Królestwa i wznosić Twoje wołanie pośród wszystkich ludzi. O Boże! Otwórz drogę temu bezradnemu, udziel swego lekarstwa temu bolejącemu i daj swe uzdrowienie temu cierpiącemu. Z rozpalonym sercem i oczami pełnymi łez błagam Cię u Twojego progu. 
    
 O Boże! Jestem gotowy wytrzymać każdą ciężką próbę na Twojej ścieżce i pragnę z całego serca i duszy napotkać jakiekolwiek trudności. 
    
 O Boże! Chroń mnie od testów. Ty dobrze wiesz, że odwróciłem się od wszystkich rzeczy i uwolniłem się od wszystkich myśli. Nie mam innego zajęcia niż wspominanie Ciebie ani innego dążenia niż służenie Tobie.
 
-(Source category: Nauczanie)
-(Bahaiprayers.net ID: 7324)
+-- Abdu'l-Bahá
 
+bpn7324 «[Polski](../pl/#bpn7324)» 
 
-«[Polski](../pl/#bpn7324)» 
-
+----
 
 
 <a id="bpn7322"></a> 
-### Prayer bpn7322 in Polski
 O Boże, mój Boże! Pomóż Twoim zaufanym sługom mieć miłujące i czułe serca. Wspomagaj ich, aby pośród wszystkich narodów ziemi szerzyli światłość przewodnictwa, które spływa ze Zgromadzenia na wysokościach. Zaprawdę, Tyś jest Silnym, Potężnym, Mocnym, Wszechujarzmiającym, Zawsze Dającym. Zaiste, Tyś jest Hojnym, Łagodnym, Czułym, Najłaskawszym.
 
-(Source category: Nauczanie)
-(Bahaiprayers.net ID: 7322)
+-- Abdu'l-Bahá
 
+bpn7322 «[Polski](../pl/#bpn7322)» 
 
-«[Polski](../pl/#bpn7322)» 
-
+----
 
 
 
@@ -1770,7 +1594,6 @@ O Boże, mój Boże! Pomóż Twoim zaufanym sługom mieć miłujące i czułe se
 ## Naw-Rúz
 
 <a id="bpn7467"></a> 
-### Prayer bpn7467 in Polski
 *Naw-Rúz jest pierwszym dniem roku bahaickiego obchodzonym w dniu marcowej równonocy.
    
    
@@ -1785,12 +1608,11 @@ Ten, który jest Twoim Konarem i wszyscy, którzy Ci towarzyszą, o mój Panie, 
     
 Tyś zaprawdę jest Wszechwiedzącym, Wszechmądrym.
 
-(Source category: Naw-Rúz)
-(Bahaiprayers.net ID: 7467)
+-- Bahá'u'lláh
 
+bpn7467 «[Polski](../pl/#bpn7467)» 
 
-«[Polski](../pl/#bpn7467)» 
-
+----
 
 
 
@@ -1798,55 +1620,47 @@ Tyś zaprawdę jest Wszechwiedzącym, Wszechmądrym.
 ## Niemowlęta
 
 <a id="bpn7287"></a> 
-### Prayer bpn7287 in Polski
 Chwała Ci, o Panie, Boże mój! Dozwól łaskawie, aby to dziecię było karmione z piersi Twojej czułej łaski i miłościwej opatrzności i żywione owocami z Twych niebiańskich drzew. Nie pozwól, by roztaczał nad nim opiekę ktokolwiek oprócz Ciebie, gdyż to Tyś sam je stworzył i powołał do życia potęgą swojej najwyższej woli i mocy. Nie ma innego Boga prócz Ciebie, Wszechmocnego, Wszechwiedzącego.
    
 Pochwalony bądź, o mój Najukochańszy, tchnij w to dziecię słodkie zapachy swej nieprześcignionej szczodrości i aromaty swych świętych darów. Pozwól mu zatem szukać schronienia w cieniu swego najwznioślejszego Imienia, o Ty, który masz w swym władaniu królestwo imion i przymiotów. Zaiste, mocen jesteś czynić wedle swej woli, i Tyś doprawdy jest Potężnym, Wzniosłym, Zawsze Przebaczającym, Łaskawym, Hojnym, Miłosiernym.
 
-(Source category: Niemowlęta)
-(Bahaiprayers.net ID: 7287)
+-- Bahá'u'lláh
 
+bpn7287 «[Polski](../pl/#bpn7287)» 
 
-«[Polski](../pl/#bpn7287)» 
-
+----
 
 
 <a id="bpn7427"></a> 
-### Prayer bpn7427 in Polski
 Jesteś Tym, o mój Boże, przez którego imiona chorzy zostają uzdrowieni i bolejący przywróceni do zdrowia, i spragnieni zostają napojeni, i strapieni zostają ukojeni, i zbłąkani zostają poprowadzeni, i poniżeni zostają wywyższeni, i biedni zostają wzbogaceni, i nieświadomi zostają oświeceni, i przygnębieni zostają rozpromienieni, i smutni zostają pocieszeni, i zziębnięci zostają ogrzani, a uciśnieni zostają uniesieni. Przez Twoje imię, o mój Boże, poruszone zostały wszystkie stworzone rzeczy i rozpostarły się niebiosa, i ziemia została stworzona, a obłoki uniesione, aby zraszać ziemię. To zaprawdę jest oznaką Twojej łaski dla wszystkich Twoich stworzeń. 
     
 Błagam Cię zatem, na Twoje imię, poprzez które Tyś objawił swoją Boskość i wyniósł swoją Sprawę ponad całe stworzenie, i na każdy z Twoich najdoskonalszych tytułów i najczcigodniejszych przymiotów, i na wszystkie cnoty, którymi wychwalana jest Twoja najwznioślejsza i najbardziej wywyższona Istota, abyś zesłał tej nocy z obłoków swego miłosierdzia deszcze swojego uzdrowienia na to dziecię, któreś sam złączył ze swoim wszechchwalebnym Ja w królestwie swego stworzenia. Przyodziej je zatem, o mój Boże, przez swą łaskę, szatą pomyślności oraz zdrowia i strzeż je, o mój Umiłowany, od wszelkiego nieszczęścia i dolegliwości oraz czegokolwiek, co budzi Twoją odrazę. Twoja moc, zaprawdę, może wszystko sprawić. Tyś prawdziwie jest Najpotężniejszym, Samoistnym. Ześlij też na nie, o mój Boże, dobra tego świata i następnego oraz dobra dawnych i późniejszych pokoleń. Twoja moc i Twoja mądrość zaiste mogą to sprawić.
 
-(Source category: Niemowlęta)
-(Bahaiprayers.net ID: 7427)
+-- Bahá'u'lláh
 
+bpn7427 «[Polski](../pl/#bpn7427)» 
 
-«[Polski](../pl/#bpn7427)» 
-
+----
 
 
 <a id="bpn7288"></a> 
-### Prayer bpn7288 in Polski
 O Ty, niezrównany Panie! Spraw, aby to dzieciątko karmione było piersią Twej serdecznej dobroci, chroń je w kołysce Twojego bezpieczeństwa i opieki oraz spraw, aby wychowywało się w ramionach Twojej czułej miłości.
 
-(Source category: Niemowlęta)
-(Bahaiprayers.net ID: 7288)
+-- Abdu'l-Bahá
 
+bpn7288 «[Polski](../pl/#bpn7288)» 
 
-«[Polski](../pl/#bpn7288)» 
-
+----
 
 
 <a id="bpn7289"></a> 
-### Prayer bpn7289 in Polski
 O Boże! Wychowuj to małe dziecię na łonie Twojej miłości i napój je mlekiem z piersi Twojej Opatrzności. Pielęgnuj tę młodą roślinkę w różanym ogrodzie Twojej miłości i wspomagaj jej wzrost deszczem Twojej hojności. Spraw, aby stało się dzieckiem królestwa i powiedź je do Twych niebiańskich sfer. Ty jesteś potężny i życzliwy. Ty jesteś Obdarowującym, Hojnym, Ty jesteś Panem niezrównanej szczodrości.
 
-(Source category: Niemowlęta)
-(Bahaiprayers.net ID: 7289)
+-- Abdu'l-Bahá
 
+bpn7289 «[Polski](../pl/#bpn7289)» 
 
-«[Polski](../pl/#bpn7289)» 
-
+----
 
 
 
@@ -1854,7 +1668,6 @@ O Boże! Wychowuj to małe dziecię na łonie Twojej miłości i napój je mleki
 ## Ochrona
 
 <a id="bpn7335"></a> 
-### Prayer bpn7335 in Polski
 Chwała bądź Tobie, o Panie, Boże mój! Ty widzisz i wiesz, że nawoływałem Twoje sługi, aby nie kierowali się w żadną inną stronę, jedynie ku Twoim darom, i nakazałem im, aby przestrzegali wyłącznie tego, coś przepisał w swojej Zrozumiałej Księdze, w Księdze, która została zesłana zgodnie z Twoim niezgłębionym wyrokiem i nieodwołalnym celem.
    
 Nie mogę wypowiedzieć żadnego słowa, o mój Boże, bez Twojego zezwolenia, i nie mogę udać się w żadnym kierunku, zanim nie otrzymam Twojej zgody. Tyś, o mój Boże, powołał mnie do życia potęgą swojej mocy i obdarzył swoją łaską, abym ujawniał Twoją Sprawę. Z tego powodu byłem narażony na takie nieszczęścia, że język mój został powstrzymany od wysławiania Ciebie i wywyższania Twojej chwały.
@@ -1865,62 +1678,54 @@ Ześlij więc, o mój Panie, na mnie i na moich umiłowanych to, co uchroni nas 
    
 Tyś jest zaprawdę Najchwalebniejszym, Najłaskawszym.
 
-(Source category: Ochrona)
-(Bahaiprayers.net ID: 7335)
+-- Bahá'u'lláh
 
+bpn7335 «[Polski](../pl/#bpn7335)» 
 
-«[Polski](../pl/#bpn7335)» 
-
+----
 
 
 <a id="bpn7336"></a> 
-### Prayer bpn7336 in Polski
 Pochwalony bądź, o Panie, Boże mój! Oto Twój sługa, który wychylił wino Twojego czułego miłosierdzia z rąk Twojej łaski i zakosztował smaku Twojej miłości w ciągu Dni Twoich. Błagam Cię na wcielenia Twoich imion, którym żaden smutek nie zdoła przeszkodzić w radowaniu się Twoją miłością ani też w spoglądaniu na Twoje oblicze i których całe zastępy nierozważnych nie są w stanie sprowadzić ze ścieżki Twojego upodobania, zaopatrz go we wszystko dobro, które posiadasz, i wznieś na takie wyżyny, z których będzie on patrzeć na cały świat jak na cień przemijający szybciej niż mgnienie oka.
    
 Uchroń go także, o mój Boże, potęgą swojego niezmierzonego majestatu od wszystkiego, co budzi w Tobie odrazę. Tyś jest zaprawdę jego Panem i Panem wszystkich światów.
 
-(Source category: Ochrona)
-(Bahaiprayers.net ID: 7336)
+-- Bahá'u'lláh
 
+bpn7336 «[Polski](../pl/#bpn7336)» 
 
-«[Polski](../pl/#bpn7336)» 
-
+----
 
 
 <a id="bpn7337"></a> 
-### Prayer bpn7337 in Polski
 Wysławione bądź Twoje Imię, o Panie, Boże mój! Błagam Cię na Twoje Imię, przez które wybiła oznaczona Godzina i nastąpiło Zmartwychwstanie, a przestrach i trwoga ogarnęły wszystkich, którzy są w niebie i na ziemi, ześlij z nieba swojego miłosierdzia i z obłoków swojego łagodnego współczucia to, co uraduje serca sług Twoich, co zwróceni są ku Tobie i pomagają Twojej Sprawie.
    
 Ochraniaj swoich służebników i służebnice swoje, o mój Panie, od strzał próżnych upodobań i pustych wyobrażeń i daj im z rąk swojej łaski łyk łagodnie płynącej wody swojej wiedzy.
    
 Tyś prawdziwie jest Wszechmocnym, Najbardziej Wywyższonym, Zawsze Przebaczającym, Najhojniejszym.
 
-(Source category: Ochrona)
-(Bahaiprayers.net ID: 7337)
+-- Bahá'u'lláh
 
+bpn7337 «[Polski](../pl/#bpn7337)» 
 
-«[Polski](../pl/#bpn7337)» 
-
+----
 
 
 <a id="bpn7338"></a> 
-### Prayer bpn7338 in Polski
 W Imię Jego, Wywyższonego, Najwyższego, Najbardziej Wzniosłego!
    
 Pochwalony jesteś, o Panie, mój Boże! O Ty, któryś jest moim Bogiem i moim Mistrzem, i moim Panem, i moją Podporą, i moją Nadzieją, i moim Schronieniem, i moim Światłem. Proszę Cię, na Twoje Ukryte i Strzeżone Imię, którego nikt nie zna oprócz Ciebie samego, abyś chronił tego, który posiada tę Tablicę od wszelkiego nieszczęścia i zarazy, i od każdego niegodziwego mężczyzny i kobiety, od zła nikczemników i od knowań niewierzących. Zachowaj go ponadto, o mój Boże, od każdego bólu i utrapienia, o Ty, który trzymasz w swojej dłoni królestwo wszystkich rzeczy. Tyś jest zaprawdę potężny ponad wszystkimi rzeczami. Ty czynisz wedle swojego życzenia i ustanawiasz to, co Ci miłe. 
    
 O Ty, Królu Królów! O Ty, łaskawy Panie! O Ty, Źródło pradawnej szczodrości, łaski, hojności i darów! O Ty, Uzdrowicielu chorób! O Ty, Zaspokajający potrzeby! O Ty, Światło Światła! O Ty, Światło ponad wszystkie Światła! O Ty, Objawicielu każdego Objawienia! O Ty, Współczujący! O Ty, Miłosierny! Miej litość nad posiadającym tę Tablicę, dzięki swemu największemu miłosierdziu i swojej obfitej łasce, o Ty, Łaskawy, Ty, Szczodry. Strzeż go ponadto swoją ochroną od wszystkiego, co jego serce i umysł mogą uznać za odrażające. Ze wszystkich obdarzonych mocą Tyś zaprawdę jest najpotężniejszy. Chwała Boga spoczywa na tobie, o ty, wschodzące słońce. Poświadcz to, co Bóg zaświadczył samym sobą, że nie ma innego Boga poza Nim, Wszechmogącym, Najbardziej Umiłowanym.
 
-(Source category: Ochrona)
-(Bahaiprayers.net ID: 7338)
+-- Bahá'u'lláh
 
+bpn7338 «[Polski](../pl/#bpn7338)» 
 
-«[Polski](../pl/#bpn7338)» 
-
+----
 
 
 <a id="bpn7339"></a> 
-### Prayer bpn7339 in Polski
 Przeznacz dla mnie, o mój Panie, i dla tych, którzy wierzą w Ciebie, to, co wedle swojej oceny uznajesz dla nas za najlepsze, tak jak zostało ustanowione w Księdze Matce, albowiem Ty w swoich rękach trzymasz określone miary wszystkich rzeczy.
    
 Twoje wielkie dary nieprzerwanie spływają na tych, którzy cenią Twoją miłość, a cudowne znaki Twojej niebiańskiej łaskawości licznie ukazują się tym, którzy rozpoznali Twoją Boską Jedność. Pod Twoją opiekę oddajemy wszystko, coś raczył dla nas przeznaczyć, i błagamy, abyś podarował nam całe dobro, które obejmuje Twoja wiedza.
@@ -1929,30 +1734,26 @@ Strzeż mnie, o mój Panie, od wszelkiego zła, które dostrzega Twoja wszechwie
    
 Nie ma siły ni mocy prócz tej, która jest w Bogu, Najwznioślejszym, Najpotężniejszym.
 
-(Source category: Ochrona)
-(Bahaiprayers.net ID: 7339)
+-- Báb
 
+bpn7339 «[Polski](../pl/#bpn7339)» 
 
-«[Polski](../pl/#bpn7339)» 
-
+----
 
 
 <a id="bpn7340"></a> 
-### Prayer bpn7340 in Polski
 Chwała bądź Tobie, o Boże! Tyś jest Bogiem, co istniał przed wszelkim stworzeniem i który istnieć będzie po wszelkim stworzeniu i trwać będzie poza wszelkim stworzeniem. Tyś jest Bogiem, który zna wszelkie stworzenie i który je przewyższa. Tyś jest Bogiem, co miłosierny jest dla wszelkiego stworzenia, który sądzi wszelkie stworzenie i którego wzrok obejmuje wszelkie stworzenie. Tyś jest Bogiem, moim Panem, Ty znasz moje położenie, Tyś jest świadkiem mojej wewnętrznej i zewnętrznej istoty.
    
 Udziel swojego przebaczenia mnie i wiernym, którzy odpowiedzieli na Twoje Wołanie. Bądź moim jedynym pomocnikiem przeciwko intrygom tych, którzy chcieliby mnie zasmucić albo źle mi życzą. Zaprawdę, Tyś jest Panem wszystkich stworzonych rzeczy. Ty jeden wystarczasz każdemu, a bez Ciebie nikt nie może być samowystarczalny.
 
-(Source category: Ochrona)
-(Bahaiprayers.net ID: 7340)
+-- Báb
 
+bpn7340 «[Polski](../pl/#bpn7340)» 
 
-«[Polski](../pl/#bpn7340)» 
-
+----
 
 
 <a id="bpn7341"></a> 
-### Prayer bpn7341 in Polski
 W Imię Boga, Pana przemożnego majestatu, Nieodpartego!
    
 Uświęcony niechaj będzie Pan, z którego rąk bierze początek panowanie. On tworzy cokolwiek zapragnie swoim rozkazującym Słowem: „Bądź” i to się staje. Do Niego należała dotychczas moc rozkazywania i na zawsze tak pozostanie. Potęgą swojego rozkazu daje On zwycięstwo, komu tylko zapragnie. On jest, zaiste, Potężnym, Wszechmocnym. Do Niego należy wszelka chwała i majestat w królestwach objawienia i stworzenia i we wszystkich miejscach pomiędzy nimi. Zaprawdę, On jest Potężnym i Najchwalebniejszym. On od wieków był Źródłem niepokonanej siły i takim pozostanie na zawsze. On, zaiste, jest Panem potęgi i mocy. Wszystkie królestwa nieba i ziemi i wszystkie miejsca pomiędzy nimi należą do Boga, a potęga Jego przewyższa wszelkie stworzenia. Wszystkie skarby nieba i ziemi i wszystko pomiędzy nimi należy do Niego, a Jego opieka otacza całe stworzenie. On jest Stwórcą nieba i ziemi i wszystkich miejsc pomiędzy nimi i zaprawdę, On jest świadkiem wszelkiego stworzenia. On jest Panem Sądu Ostatecznego dla wszystkich mieszkańców nieba i ziemi i wszelkich miejsc pomiędzy nimi; zaprawdę, Bóg jest szybki w osądzaniu. On ustanawia miarę wyznaczoną dla wszystkich, którzy są w niebie i na ziemi i we wszelkich miejscach pomiędzy nimi. Zaprawdę, On jest Najwyższym Obrońcą. On trzyma w swoich rękach klucze nieba i ziemi i wszystkiego pomiędzy nimi. On rozdaje dary wedle swego życzenia mocą swojego rozkazu. Zaiste, Jego łaska obejmuje wszystko, a On jest Wszystkowiedzącym.
@@ -1961,32 +1762,28 @@ Powiedz: Bóg mi wystarcza; On jest Tym, który w swych rękach dzierży króles
    
 Niezmiernie wywyższony jesteś, o Panie! Ochraniaj nas przed wszystkim, co jest przed nami i za nami, ponad nami oraz z naszej prawej i lewej strony, pod naszymi stopami i z każdej innej strony, z której jesteśmy narażeni. Zaprawdę, Twoja ochrona wszelkiego stworzenia jest niezawodna.
 
-(Source category: Ochrona)
-(Bahaiprayers.net ID: 7341)
+-- Báb
 
+bpn7341 «[Polski](../pl/#bpn7341)» 
 
-«[Polski](../pl/#bpn7341)» 
-
+----
 
 
 <a id="bpn7343"></a> 
-### Prayer bpn7343 in Polski
 O mój Panie! Ty wiesz, że ludzi otoczyły cierpienia oraz klęski i okrążyły ich trudności i kłopoty. Wszystkie możliwe utrapienia gnębią człowieka i wszelkie przeciwności napierają na niego niczym atak węża. Nie ma dla niego innego schronienia ani przytułku, jak tylko pod skrzydłami Twojej ochrony, zabezpieczenia, straży i opieki.
    
 O Ty, Miłosierny! O mój Panie! Spraw, aby Twoja ochrona stała się mą zbroją, Twoje zabezpieczenie moją tarczą, pokora przed wrotami Twojej jedności moją strażą, a Twoja opieka i obrona moją twierdzą i domostwem. Zachowaj mnie od podszeptów egoizmu i pożądań i strzeż mnie od wszelkich chorób, utrapień, trudności i ciężkich prób.
    
 Zaprawdę, Tyś jest Obrońcą, Opiekunem, Ochroną, Wystarczającym, i Tyś zaprawdę jest Tym Miłosiernym z Najmiłosierniejszych.
 
-(Source category: Ochrona)
-(Bahaiprayers.net ID: 7343)
+-- Abdu'l-Bahá
 
+bpn7343 «[Polski](../pl/#bpn7343)» 
 
-«[Polski](../pl/#bpn7343)» 
-
+----
 
 
 <a id="bpn7344"></a> 
-### Prayer bpn7344 in Polski
 O Ty, dobra i miłująca Opatrzności! Wschód jest poruszony, a Zachód wzbiera niczym odwieczne fale morza. Łagodne powiewy świętości są rozproszone, a z Niewidzialnego Królestwa olśniewająco błyszczą promienie Słońca Prawdy. Wyśpiewywane są hymny Boskiej jedności i powiewają chorągwie niebiańskiej mocy. Wzniesiony został anielski Głos i niczym ryk lewiatana brzmi wezwanie do bezinteresowności i ulotności. Tryumfalny krzyk ‚Yá-Bahá’u’l-Abhá’ rozbrzmiewa ze wszystkich stron i wezwanie ‚Yá-ʿAlíyyu’l-ʿAlá’  dźwięczy we wszystkich krainach. Nie ma innego poruszenia w świecie oprócz tego, które pochodzi z Chwały Zniewoliciela Serc, i nie ma innego zgiełku niż wezbranie Jego miłości, Niezrównanego, Najukochańszego. 
    
 Umiłowani Pana, z ich piżmowym oddechem, płoną niczym jasne świece we wszystkich krainach, a przyjaciele Najmiłosierniejszego, niczym rozwijające się kwiaty, pojawiają się w każdym regionie. Nawet na moment nie spoczywają; oddychają jedynie z myślą o Tobie i nie pragną niczego prócz służenia Twojej Sprawie. Na łąkach prawdy są niczym słodko śpiewające słowiki, a w kwiatowym ogrodzie przewodnictwa są niczym jaskrawe pąki. Mistycznymi kwiatami przyozdabiają ścieżki Ogrodu Rzeczywistości; niczym kołyszące cyprysy rosną przy brzegach rzeki Boskiej Woli. Nad horyzontem istnienia błyszczą niczym promieniste gwiazdy; a na firmamencie świata lśnią niczym wspaniałe słońca. Są oni objawieniami niebiańskiej łaski i brzaskami światła Boskiego wsparcia. 
@@ -2003,24 +1800,21 @@ Niczym wilki, tyrani czekają w gotowości, a skrzywdzona, niewinna trzoda nie m
    
 O Ty, Boska Opatrzności, zachowaj i ochraniaj nas! O Ty, któryś jest naszą Tarczą, ocal nas i obroń nas! Trzymaj nas w swoim Schronieniu, a swoją Pomocą ocal nas od wszelkich boleści. Tyś w istocie jest Prawdziwym Obrońcą, Niewidzialnym Strażnikiem, Nieziemskim Wybawicielem i Niebiańskim Miłującym Panem.
 
-(Source category: Ochrona)
-(Bahaiprayers.net ID: 7344)
+-- Abdu'l-Bahá
 
+bpn7344 «[Polski](../pl/#bpn7344)» 
 
-«[Polski](../pl/#bpn7344)» 
-
+----
 
 
 <a id="bpn7342"></a> 
-### Prayer bpn7342 in Polski
 O Boże, mój Boże! Osłaniaj swoje zaufane sługi przed złem egoizmu i namiętności, chroń ich czujnym okiem swojej serdecznej dobroci przed wszelką złośliwością, nienawiścią i zazdrością, strzeż ich w niezdobytej twierdzy swojej opieki i z dala od strzał zwątpienia, spraw, aby stali się przejawami Twoich wspaniałych znaków, rozjaśnij ich twarze blaskiem promieni bijących ze Świtu Twej Boskiej Jedności, uraduj ich serca strofami objawionymi z Twego Świętego Królestwa i umocnij ich swą wszechujarzmiającą mocą, co z królestwa chwały pochodzi. Tyś jest Wszechdobroczynnym, Opiekunem, Wszechmocnym, Łaskawym.
 
-(Source category: Ochrona)
-(Bahaiprayers.net ID: 7342)
+-- Abdu'l-Bahá
 
+bpn7342 «[Polski](../pl/#bpn7342)» 
 
-«[Polski](../pl/#bpn7342)» 
-
+----
 
 
 
@@ -2028,67 +1822,59 @@ O Boże, mój Boże! Osłaniaj swoje zaufane sługi przed złem egoizmu i namię
 ## Ogólne modlitwy za zmarłych
 
 <a id="bpn7448"></a> 
-### Prayer bpn7448 in Polski
 Chwała niechaj będzie Tobie, o Panie, mój Boże! Nie poniżaj tego, któregoś mocą swej odwiecznej wszechwładzy wywyższył i nie oddalaj od siebie tego, który za Twoją sprawą wszedł do przybytku Twojej wieczności. Czy odrzucisz tego, o mój Boże, któregoś objął swoim panowaniem i czy odtrącisz tego, o moje Upragnienie, któremuś stał się ucieczką? Czy możesz poniżyć tego, któregoś wyniósł, albo też zapomnieć o tym, któremuś pozwolił pamiętać o Tobie?
     
 Pochwalony, wielce pochwalony jesteś! Tyś jest Tym, który od wieków był Królem całego stworzenia i jego Pierwszym Poruszycielem i na wieki pozostaniesz Panem wszystkich stworzonych rzeczy i ich Rozkazodawcą. Pochwalony bądź, o Boże mój! Jeśli przestaniesz być miłosierny dla sług swoich, któż zatem okaże im miłosierdzie; a jeśli odmówisz wspomożenia swoich umiłowanych, któż przyjdzie im z pomocą?
     
 Pochwalony, niezmiernie pochwalony jesteś! Uwielbiony jesteś w swojej prawdzie i Tobie zaprawdę wszyscy oddajemy cześć; i objawiony jesteś w swej sprawiedliwości, i o Tobie zaprawdę wszyscy dajemy świadectwo. Tyś zaprawdę umiłowany jest w swojej łasce. Nie ma Boga poza Tobą, Pomocą w Niebezpieczeństwie, Samoistnym.
 
-(Source category: Ogólne modlitwy za zmarłych)
-(Bahaiprayers.net ID: 7448)
+-- Bahá'u'lláh
 
+bpn7448 «[Polski](../pl/#bpn7448)» 
 
-«[Polski](../pl/#bpn7448)» 
-
+----
 
 
 <a id="bpn7449"></a> 
-### Prayer bpn7449 in Polski
 O mój Boże! O Ty, który odpuszczasz grzechy, rozdajesz dary i usuwasz nieszczęścia!
     
 Zaprawdę, błagam Cię, abyś przebaczył grzechy tym, którzy opuścili ziemską powłokę i wstąpili do świata duchowego.
     
 O mój Panie! Oczyść ich z przewinień, rozwiej smutki i zamień ich ciemności w światło. Spraw, aby wkroczyli do ogrodu szczęścia, obmyj ich najczystszą wodą i pozwól, aby oglądali Twoje wspaniałości na najwznioślejszej górze.
 
-(Source category: Ogólne modlitwy za zmarłych)
-(Bahaiprayers.net ID: 7449)
+-- Abdu'l-Bahá
 
+bpn7449 «[Polski](../pl/#bpn7449)» 
 
-«[Polski](../pl/#bpn7449)» 
-
+----
 
 
 <a id="bpn7450"></a> 
-### Prayer bpn7450 in Polski
 O mój Boże! O mój Boże! Zaprawdę, ten oto Twój sługa pokorny przed majestatem Twojego Boskiego zwierzchnictwa, uniżony u wrót Twojej jedyności, wierzył w Ciebie i Twoje wersety, dawał świadectwo Twojemu słowu, rozpalony był ogniem Twojej miłości, zanurzony w głębinach oceanu Twojej wiedzy, przyciągnięty Twoimi powiewami, polegał na Tobie, zwrócił swą twarz ku Tobie, zanosił swoje modlitwy do Ciebie i został zapewniony o Twoim przebaczeniu i odpuszczeniu. Zakończył on ten ziemski żywot i wzniósł się do Królestwa nieśmiertelności, pragnąc łaski spotkania Ciebie.
     
 O Panie, uwznioślij jego stan, schroń go pod baldachimem swojego najwyższego miłosierdzia, spraw, aby wstąpił do Twego chwalebnego raju i uwiecznij jego istnienie w Twoim wzniosłym różanym ogrodzie; aby mógł zanurzyć się w morzu światłości w świecie tajemnic.
     
 Zaprawdę, Tyś jest Hojnym, Potężnym, Przebaczającym i Obdarowującym.
 
-(Source category: Ogólne modlitwy za zmarłych)
-(Bahaiprayers.net ID: 7450)
+-- Abdu'l-Bahá
 
+bpn7450 «[Polski](../pl/#bpn7450)» 
 
-«[Polski](../pl/#bpn7450)» 
-
+----
 
 
 <a id="bpn7451"></a> 
-### Prayer bpn7451 in Polski
 O Ty, przebaczający Panie!
     
 Choć niektóre dusze przeżyły dni swojego życia w niewiedzy oraz oddaliły się i stały się butne, wszakże jedna fala z oceanu Twojego przebaczenia wystarczy, aby wszyscy ogarnięci grzechem zostali uwolnieni. Kogo zechcesz, czynisz swoim zaufanym, a kto nie jest przedmiotem Twojego wyboru – ten zaliczony będzie do grzeszników. Jeślibyś potraktował nas wedle swej sprawiedliwości – wszyscy okazalibyśmy się grzesznikami, którzy zasługują na odsunięcie od Ciebie, lecz jeśli utrzymasz w mocy miłosierdzie, każdy winowajca zostanie oczyszczony i każdy obcy stanie się przyjacielem. Ześlij zatem swoje odpuszczenie i przebaczenie i okaż wszystkim swoje miłosierdzie!
     
 Tyś jest Wybaczającym, Dającym Światło i Wszechmocnym.
 
-(Source category: Ogólne modlitwy za zmarłych)
-(Bahaiprayers.net ID: 7451)
+-- Abdu'l-Bahá
 
+bpn7451 «[Polski](../pl/#bpn7451)» 
 
-«[Polski](../pl/#bpn7451)» 
-
+----
 
 
 
@@ -2096,7 +1882,6 @@ Tyś jest Wybaczającym, Dającym Światło i Wszechmocnym.
 ## Ornamenty
 
 <a id="bpn7483"></a> 
-### Prayer bpn7483 in Polski
 ##TARAZÁT 
 
 *(Ornamenty) 
@@ -2201,12 +1986,11 @@ Niechaj Nasza Chwała spoczywa na ludziach Bahá, których ani tyrania ciemięż
 
 Cytaty z Koranu: Koran, PWN Warszawa 1986
 
-(Source category: Ornamenty)
-(Bahaiprayers.net ID: 7483)
+-- Bahá'u'lláh
 
+bpn7483 «[Polski](../pl/#bpn7483)» 
 
-«[Polski](../pl/#bpn7483)» 
-
+----
 
 
 
@@ -2214,29 +1998,25 @@ Cytaty z Koranu: Koran, PWN Warszawa 1986
 ## Podróż
 
 <a id="bpn7345"></a> 
-### Prayer bpn7345 in Polski
 O Boże, mój Boże! Wyruszyłem z mego domu, trzymając się mocno więzi Twojej miłości i poleciwszy się całkowicie Twojej opiece i ochronie. Błagam Cię na Twoją moc, którą chronisz swoich umiłowanych przed samowolnymi, przewrotnymi i przed wszystkimi uporczywymi ciemiężcami i niegodziwcami, którzy odeszli daleko od Ciebie, abyś zachował mnie w bezpieczeństwie dzięki swej dobroci i łasce. Pozwól mi zatem powrócić do mojego domu dzięki Twojej mocy i potędze. Tyś prawdziwie jest Wszechmogącym, Pomocą w Niebezpieczeństwie, Samoistnym.
 
-(Source category: Podróż)
-(Bahaiprayers.net ID: 7345)
+-- Bahá'u'lláh
 
+bpn7345 «[Polski](../pl/#bpn7345)» 
 
-«[Polski](../pl/#bpn7345)» 
-
+----
 
 
 <a id="bpn7346"></a> 
-### Prayer bpn7346 in Polski
 Wstałem tego ranka dzięki Twojej łasce, o Boże mój, i opuściłem mój dom całkowicie ufając Tobie i oddając się Twojej opiece. Ześlij przeto na mnie z niebios swojego miłosierdzia Twoje błogosławieństwo i pozwól mi bezpiecznie powrócić do domu, tak jak pozwoliłeś mi wyruszyć pod Twoją ochroną, z myślami stale skierowanymi ku Tobie.
    
 Nie ma innego Boga poza Tobą, Jedynym, Niezrównanym, Wszechwiedzącym i Wszechmądrym.
 
-(Source category: Podróż)
-(Bahaiprayers.net ID: 7346)
+-- Bahá'u'lláh
 
+bpn7346 «[Polski](../pl/#bpn7346)» 
 
-«[Polski](../pl/#bpn7346)» 
-
+----
 
 
 
@@ -2244,35 +2024,30 @@ Nie ma innego Boga poza Tobą, Jedynym, Niezrównanym, Wszechwiedzącym i Wszech
 ## Pomoc i opieka
 
 <a id="bpn7347"></a> 
-### Prayer bpn7347 in Polski
 O Ty, którego oblicze jest przedmiotem mego uwielbienia, którego piękno jest moją świątynią, którego siedziba jest moim celem, którego wysławianie jest moją nadzieją, którego opatrzność jest moim towarzyszem, którego miłość jest przyczyną mego istnienia, którego wspominanie jest moją pociechą, którego bliskość jest moim pragnieniem, którego obecność jest moim najgorętszym życzeniem i najważniejszym dążeniem! Błagam Cię, byś nie odmawiał mi tego, co przeznaczyłeś dla wybranych spośród sług swoich. Obdarz mnie zatem dobrami tego świata i świata, który nastąpi.
    
 Ty, zaprawdę, jesteś Królem wszystkich ludzi. Nie ma innego Boga poza Tobą, Zawsze Przebaczającym, Najhojniejszym.
 
-(Source category: Pomoc i opieka)
-(Bahaiprayers.net ID: 7347)
+-- Bahá'u'lláh
 
+bpn7347 «[Polski](../pl/#bpn7347)» 
 
-«[Polski](../pl/#bpn7347)» 
-
+----
 
 
 <a id="bpn7348"></a> 
-### Prayer bpn7348 in Polski
 Mój Boże, mój Uwielbiony, mój Królu, Upragnienie moje! Jakiż język zdoła wyrazić Ci moją wdzięczność? Byłem nierozważny, a Ty przebudziłeś mnie. Odwróciłem się od Ciebie, a Ty łaskawie pomogłeś mi zwrócić się ku Tobie. Byłem niby umarły, a Ty orzeźwiłeś mnie wodą żywota. Opadłem z sił, a Ty ożywiłeś mnie niebiańskim zdrojem swoich wypowiedzi płynących spod Pióra Wszechmiłosiernego.
    
 O Boska Opatrzności! Dzięki Twojej szczodrobliwości zaistniało wszelkie stworzenie; nie pozbawiaj go zatem wód swojej hojności ani nie wzbraniaj mu dostępu do oceanu swego miłosierdzia. Błagam Cię, abyś pomagał mi i wspierał mnie zawsze i we wszystkich okolicznościach i upraszam o Twoją odwieczną przychylność z nieba Twojej łaski. Ty, prawdziwie, jesteś Panem hojności i Władcą królestwa wieczności.
 
-(Source category: Pomoc i opieka)
-(Bahaiprayers.net ID: 7348)
+-- Bahá'u'lláh
 
+bpn7348 «[Polski](../pl/#bpn7348)» 
 
-«[Polski](../pl/#bpn7348)» 
-
+----
 
 
 <a id="bpn7349"></a> 
-### Prayer bpn7349 in Polski
 Niech będzie wysławione Imię Twoje, o Panie, Boże nasz! Tyś zaprawdę jest Znającym rzeczy niewidzialne. Przeznacz nam takie dobra, jakie wyznaczyć może Twa wszechogarniająca wiedza. Tyś jest wszechwładnym Panem, Wszechmocnym i Najbardziej Umiłowanym.
    
 Wszelka cześć niech będzie Tobie, o Panie! Łaski Twojej upraszać będziemy w wyznaczonym Dniu i całe nasze zaufanie złożymy w Tobie, który jesteś naszym Panem. Uwielbiony jesteś, o Boże! Racz nas obdarzyć tym, co dobre i odpowiednie, abyśmy potrafili obejść się bez wszystkiego z wyjątkiem Ciebie. Zaprawdę, Tyś jest Panem wszystkich światów.
@@ -2281,70 +2056,61 @@ O Boże! Racz wynagrodzić tych, którzy trwają cierpliwie w dniach Twoich, i w
    
 Powiedz: Bóg zaiste jest Twórcą wszystkich rzeczy. On darzy obfitością swej strawy kogokolwiek zapragnie. On jest Stwórcą, Źródłem wszelkich stworzeń, Kształtującym, Wszechmocnym, Stworzycielem i Wszechmądrym. On posiada najwspanialsze tytuły w całych niebiosach i na ziemi i we wszelkich miejscach pomiędzy nimi. Wszyscy podlegają Jego rozkazowi, wszyscy mieszkańcy nieba i ziemi oddają Mu cześć i wszyscy do Niego powrócą.
 
-(Source category: Pomoc i opieka)
-(Bahaiprayers.net ID: 7349)
+-- Báb
 
+bpn7349 «[Polski](../pl/#bpn7349)» 
 
-«[Polski](../pl/#bpn7349)» 
-
+----
 
 
 <a id="bpn7350"></a> 
-### Prayer bpn7350 in Polski
 O mój Boże, mój Panie i mój Mistrzu! Odłączyłem się od mych bliskich i w Tobie szukałem niezależności od wszystkich, którzy zamieszkują ziemię, zawsze gotowy przyjąć wszystko, co jest godne pochwały w Twoich oczach. Obdarz mnie takim dobrem, które uczyni mnie niezależnym od wszystkiego prócz Ciebie i udziel mi obfitszej miary Twoich nieograniczonych darów. Zaprawdę, Ty jesteś Panem łaski bez końca.
 
-(Source category: Pomoc i opieka)
-(Bahaiprayers.net ID: 7350)
+-- Báb
 
+bpn7350 «[Polski](../pl/#bpn7350)» 
 
-«[Polski](../pl/#bpn7350)» 
-
+----
 
 
 <a id="bpn7351"></a> 
-### Prayer bpn7351 in Polski
 O Panie! Jesteśmy godni pożałowania, udziel nam swoich łask; jesteśmy biedni, obdarz nas cząstką z oceanu swoich bogactw; żyjemy w niedostatku, zaspokój nasze potrzeby; jesteśmy poniżeni, udziel nam swojej chwały. Ptaki w powietrzu i zwierzęta w polu otrzymują codziennie posiłek od Ciebie i wszystkie stworzenia doznają Twojej opieki i życzliwości.
    
 Nie pozbawiaj tej słabej istoty swej cudownej łaski i dzięki mocy swej obdaruj tę bezradną duszę swoją życzliwością.
    
 Daj nam chleba naszego powszedniego i udziel swoich obfitszych darów w potrzebach codziennego życia, abyśmy nie stali się zależni od nikogo innego prócz Ciebie, abyśmy mogli w pełni łączyć się z Tobą, kroczyć Twoimi ścieżkami i głosić Twoje tajemnice. Tyś jest Wszechmocnym i Kochającym oraz Żywicielem całej ludzkości.
 
-(Source category: Pomoc i opieka)
-(Bahaiprayers.net ID: 7351)
+-- Abdu'l-Bahá
 
+bpn7351 «[Polski](../pl/#bpn7351)» 
 
-«[Polski](../pl/#bpn7351)» 
-
+----
 
 
 <a id="bpn7352"></a> 
-### Prayer bpn7352 in Polski
 O Ty, łaskawy Panie! Jesteśmy sługami u Twego Progu, chroniącymi się u Twoich świętych Wrót. Nie szukamy innego schronienia prócz tego mocnego filaru i nie zwracamy się w stronę innej przystani prócz Twej opieki. Ochraniaj nas, błogosław nam, wspieraj nas i spraw, abyśmy kochali tylko to, co Tobie miłe, abyśmy głosili jedynie Twoją chwałę i kroczyli jedynie ścieżką prawdy, abyśmy zostali na tyle ubogaceni, iż będziemy mogli obyć się bez wszystkiego poza Tobą i otrzymać nasze dary z morza Twojej dobroci, abyśmy ciągle dążyli do wywyższania Twojej Sprawy i do rozprzestrzeniania szeroko i daleko Twoich słodkich woni; abyśmy stali się niepomni siebie, a zajmowali jedynie Tobą; abyśmy odrzucali wszystko inne, a byli pochłonięci wyłącznie Tobą.
    
 O Ty, Żywicielu, o Ty, Przebaczający! Udziel nam swej łaski i serdecznej dobroci, swoich darów i łaskawości i dodaj nam sił, abyśmy dotarli do naszego celu. Tyś jest Potężnym, Zdolnym, Wiedzącym, Widzącym; i zaprawdę Tyś jest Hojnym; i zaprawdę Tyś Wszechmiłosiernym; i zaprawdę Tyś Zawsze Przebaczającym; Tym, któremu winno się skruchę; Tym, który przebacza nawet najcięższe grzechy.
 
-(Source category: Pomoc i opieka)
-(Bahaiprayers.net ID: 7352)
+-- Abdu'l-Bahá
 
+bpn7352 «[Polski](../pl/#bpn7352)» 
 
-«[Polski](../pl/#bpn7352)» 
-
+----
 
 
 <a id="bpn7353"></a> 
-### Prayer bpn7353 in Polski
 Nie usuwaj, o Panie, świątecznego stołu, który został nakryty w Imię Twoje, i nie tłum palącego się płomienia, wznieconego przez Twój nieujarzmiony ogień. Nie zatrzymuj strumienia Twej żywej wody, szemrzącej melodie Twojej chwały i pamięci o Tobie i nie pozbawiaj sług swoich woni Twoich słodkich zapachów niosących aromat Twojej miłości.
    
 Panie! Przemień rozpaczliwe niepokoje Twoich świętych w spokój, ich ubóstwo w dobrobyt, ich poniżenie w chwałę, ich smutek w błogą radość, o Ty, który dzierżysz w swoim ręku wodze całej ludzkości!
    
 Tyś zaiste jest Jedynym, w Jednej Osobie, Mocnym, Wszechwiedzącym, Wszechmądrym.
 
-(Source category: Pomoc i opieka)
-(Bahaiprayers.net ID: 7353)
+-- Abdu'l-Bahá
 
+bpn7353 «[Polski](../pl/#bpn7353)» 
 
-«[Polski](../pl/#bpn7353)» 
-
+----
 
 
 
@@ -2352,7 +2118,6 @@ Tyś zaiste jest Jedynym, w Jednej Osobie, Mocnym, Wszechwiedzącym, Wszechmądr
 ## Poranek
 
 <a id="bpn7354"></a> 
-### Prayer bpn7354 in Polski
 O Boże mój i mój Mistrzu! Jestem Twoim sługą i synem Twojego sługi. Podniosłem się o świtaniu z mego posłania, gdy Jutrzenka Twej jedności zajaśniała ze Świtu Twojej Woli i rozlała blask po całym świecie, zgodnie z tym, co zostało nakazane w Księgach Twoich Wyroków.
    
 Chwała niech będzie Tobie, o mój Boże, że przebudziliśmy się na wspaniałość światła Twojej wiedzy. Ześlij więc na nas, o mój Panie, co umożliwi nam obyć się bez kogokolwiek prócz Ciebie i co pozwoli nam uwolnić się od wszelkiego przywiązania do czegokolwiek prócz Ciebie. Przeznacz również dla mnie i dla tych, którzy są mi drodzy, i dla moich krewnych, zarówno mężczyzn, jak i kobiet, dobra świata doczesnego i świata, który nastąpi. Otocz nas więc swą nieustanną opieką, o Ty, Umiłowany wszelkiego stworzenia i Pragnienie całego wszechświata, przed tymi, których uczyniłeś wcieleniami Złego Kusiciela, szepczącego w sercach ludzi. Mocen jesteś czynić wedle swego upodobania. Zaprawdę, Tyś jest Wszechmocnym, Pomocą w Niebezpieczeństwie, Samoistnym.
@@ -2361,28 +2126,24 @@ Pobłogosław Tego, o Panie, Boże mój, któregoś wyniósł ponad swoje najdos
    
 Tyś jest prawdziwie Panem i Królem wszystkich ludzi, posiadającym władzę nad wszystkimi rzeczami.
 
-(Source category: Poranek)
-(Bahaiprayers.net ID: 7354)
+-- Bahá'u'lláh
 
+bpn7354 «[Polski](../pl/#bpn7354)» 
 
-«[Polski](../pl/#bpn7354)» 
-
+----
 
 
 <a id="bpn7355"></a> 
-### Prayer bpn7355 in Polski
 Obudziłem się w Twoim schronieniu, o mój Boże, a temu, który szuka tego schronienia przystoi, aby przebywał w Świątyni Twojej opieki i w Twierdzy Twojej obrony. Oświeć tedy moje wnętrze, o mój Boże, blaskiem wspaniałości Świtu Twego Objawienia, tak jak oświeciłeś moją zewnętrzną istotę porannym światłem swojej łaskawości.
 
-(Source category: Poranek)
-(Bahaiprayers.net ID: 7355)
+-- Bahá'u'lláh
 
+bpn7355 «[Polski](../pl/#bpn7355)» 
 
-«[Polski](../pl/#bpn7355)» 
-
+----
 
 
 <a id="bpn7356"></a> 
-### Prayer bpn7356 in Polski
 Wysławiam Cię, o mój Boże, za to, żeś przebudził mnie ze snu, przywrócił mi świadomość i podniósł mnie z mojego posłania. Obudziłem się tego ranka z twarzą zwróconą w stronę wspaniałości Jutrzenki Twego Objawienia, który oświetlił niebiosa Twojej mocy i Twojego majestatu, uznając Twoje znaki, wierząc w Twoją Księgę i trzymając się mocno Twojej Więzi. 
    
 Błagam Cię na moc Twojej woli i nieodpartą siłę Twojego zamiaru, abyś uczynił to, coś objawił mi we śnie najpewniejszym fundamentem dworów Twojej miłości, które znajdują się w sercach Twoich umiłowanych, oraz najlepszym narzędziem objawiania znaków Twojej łaski i Twojej serdecznej dobroci.
@@ -2393,12 +2154,11 @@ Tyś jest Tym, który swoim rozkazem zmienia poniżenie w chwałę, słabość w
    
 Ty nie zawiedziesz nikogo, kto Cię szuka, ani nie oddalisz tego, kto Ciebie pragnie. Przeznacz dla mnie to, co przystoi niebu Twojej hojności i oceanowi Twoich darów. Tyś zaiste jest Wszechmocnym, Najpotężniejszym.
 
-(Source category: Poranek)
-(Bahaiprayers.net ID: 7356)
+-- Bahá'u'lláh
 
+bpn7356 «[Polski](../pl/#bpn7356)» 
 
-«[Polski](../pl/#bpn7356)» 
-
+----
 
 
 
@@ -2406,7 +2166,6 @@ Ty nie zawiedziesz nikogo, kto Cię szuka, ani nie oddalisz tego, kto Ciebie pra
 ## Post
 
 <a id="bpn7468"></a> 
-### Prayer bpn7468 in Polski
 *W Księdze „Kitáb-i-Aqdas” jest powiedziane: „Przykazaliśmy wam modlić się i pościć od momentu osiągnięcia dojrzałości [   lat]; nakazane jest to przez Boga, waszego Pana i Pana waszych przodków. (...) Postem nie są objęci podróżujący, chorzy, kobiety oczekujące dziecka oraz karmiące (...). (…) Powstrzymajcie się od jedzenia i picia od wschodu do zachodu słońca i miejcie się na baczności, aby pożądanie nie pozbawiło was łaski ustanowionej w Księdze.”
 
 *Post trwa dziewiętnaście dni podczas miesiąca ʿAlá, ostatniego miesiąca roku bahaickiego.
@@ -2417,28 +2176,24 @@ Oto jest, o mój Boże, pierwszy z dni, podczas których Tyś nakazał swoim umi
     
 Pomóż im, o mój Boże, uczynić Cię zwycięskim i wywyższyć Twoje Słowo. Spraw, aby stali się niczym ręce Twojej Sprawy pośród sług Twoich i uczyń ich objawicielami Twojej religii i Twoich znaków pośród ludzkości, w taki sposób, aby cały świat mógł zostać przepełniony pamięcią o Tobie i wychwalaniem Ciebie oraz Twoimi znakami i dowodami. Tyś zaiste jest Najbardziej Szczodrym, Najbardziej Wywyższonym, Mocnym, Potężnym, Miłosiernym.
 
-(Source category: Post)
-(Bahaiprayers.net ID: 7468)
+-- Bahá'u'lláh
 
+bpn7468 «[Polski](../pl/#bpn7468)» 
 
-«[Polski](../pl/#bpn7468)» 
-
+----
 
 
 <a id="bpn7469"></a> 
-### Prayer bpn7469 in Polski
 W Imię Tego, który został obiecany w Księgach Boga, Wszechwiedzącego, Powiadomionego o wszystkim! Nadeszły postne dni, podczas których pościli ci słudzy, którzy krążą wokół Twojego tronu i którzy znaleźli się w Twojej obecności. Powiedz: O Boże imion i twórco nieba i ziemi! Błagam Cię na Twoje Imię, Najchwalebniejszy, abyś przyjął post tych, którzy pościli z miłości do Ciebie i ze względu na Twoje zadowolenie i którzy wypełnili to, coś nakazał im w swoich Księgach i Tablicach. Błagam Cię przez wzgląd na nich, abyś dopomógł mi krzewić Twoją Sprawę i abyś uczynił mnie wytrwałym w Twojej miłości, aby moje kroki nie zachwiały się z powodu wrzawy Twoich stworzeń. Zaprawdę, Tyś jest potężniejszy od czegokolwiek zechcesz. Nie ma Boga poza Tobą, Ożywicielem, Wszechmocnym, Najbardziej Szczodrym, Przedwiecznym.
 
-(Source category: Post)
-(Bahaiprayers.net ID: 7469)
+-- Bahá'u'lláh
 
+bpn7469 «[Polski](../pl/#bpn7469)» 
 
-«[Polski](../pl/#bpn7469)» 
-
+----
 
 
 <a id="bpn7470"></a> 
-### Prayer bpn7470 in Polski
 Błagam Cię, o mój Boże, na Twój potężny Znak i na objawienie się Twojej łaski pośród ludzi, abyś nie odpędzał mnie od wrót miasta Twojej obecności i nie zawiódł nadziei, które złożyłem w oznakach Twej łaski pośród Twoich stworzeń. Ty widzisz, o mój Boże, jak trzymam się Twego Imienia: Najświętszy, Najjaśniejszy, Najpotężniejszy, Największy, Najwznioślejszy, Najchwalebniejszy, i jak przylgnąłem do rąbka szaty, do której przylgnęli wszyscy w tym świecie i w świecie, który nastąpi.
     
 Błagam Cię, o mój Boże, na Twój najsłodszy Głos i na Twoje najwznioślejsze Słowo, abyś przybliżał mnie coraz bardziej do progu swoich drzwi i nie dozwolił, abym został odsunięty daleko od cienia Twego miłosierdzia i od baldachimu Twojej hojności. Ty widzisz, o mój Boże, że trzymam się Twego Imienia: Najświętszy, Najjaśniejszy, Najpotężniejszy, Największy, Najwznioślejszy, Najchwalebniejszy, i że przylgnąłem do rąbka szaty, do której przylgnęli wszyscy w tym świecie i w świecie, który nastąpi.
@@ -2467,16 +2222,14 @@ Błagam Cię, o mój Boże, na Imię Twoje, przez któreś wysłuchał wołania 
      
 Błagam Cię, o mój Panie, przez wzgląd na Ciebie samego i na Twoje znaki i Twoje jawne dowody i jaśniejące światło Jutrzenki Twego Piękna i na Twoje Gałęzie, abyś wymazał wykroczenia tych, którzy trzymali się mocno Twoich praw i przestrzegali tego, coś nakazał im w swojej Księdze. Ty widzisz, o mój Boże, że trzymam się Twego Imienia: Najświętszy, Najjaśniejszy, Najpotężniejszy, Największy, Najwznioślejszy, Najchwalebniejszy, i że przylgnąłem do rąbka szaty, do której przylgnęli wszyscy w tym świecie i w świecie, który nastąpi.
 
-(Source category: Post)
-(Bahaiprayers.net ID: 7470)
+-- Bahá'u'lláh
 
+bpn7470 «[Polski](../pl/#bpn7470)» 
 
-«[Polski](../pl/#bpn7470)» 
-
+----
 
 
 <a id="bpn7471"></a> 
-### Prayer bpn7471 in Polski
 To są, o mój Boże, te dni, w których Tyś nakazał sługom swoim zachowywać Post. Tyś ozdobił nim wstęp do Księgi swoich Praw, objawionej Twoim stworzeniom i przystroił Skarbnice swoich przykazań wobec wszystkich, którzy są w Twoim niebie, i wszystkich, którzy są na Twej ziemi. Tyś obdarzył każdą godzinę tych dni wyjątkową zaletą, nieprzeniknioną dla nikogo poza Tobą, którego wiedza ogarnia wszystkie stworzone rzeczy. Tyś także przydzielił każdej duszy cząstkę tej zalety, zgodnie z Tablicą swego wyroku i Pismami swojego nieodwołalnego orzeczenia. Ponadto, każdą stronicę tych Ksiąg i Pism przeznaczyłeś dla każdego z ludów i rodów ziemi.
     
 Dla swoich żarliwych miłośników, zgodnie ze swoim wyrokiem, Tyś każdego świtu przeznaczył kielich pamięci o Tobie, o Ty, któryś jest Władcą władających! Oto są ci, którzy zostali tak upojeni winem Twojej nieskończonej mądrości, że porzucili swoje posłania z tęsknoty za wysławianiem Ciebie oraz głoszeniem Twoich cnót, a także stronią od snu, pragnąc dostąpić Twojej obecności i mieć udział w Twoich dobrodziejstwach. Oczy ich zawsze były zwrócone w kierunku Świtu Twojej serdecznej dobroci, a oblicza skierowane w stronę Źródła Twojego natchnienia. Ześlij więc na nas i na nich z obłoków swojego miłosierdzia to, co godne jest nieba Twojej szczodrobliwości i łaski.
@@ -2495,16 +2248,14 @@ Oto wybiła godzina, o mój Panie, którą Tyś wywyższył ponad każdą inną 
     
 Uczyń Twoją Sprawę zwycięską, o mój Panie, a poniż Twoich nieprzyjaciół. Zapisz dla nas zatem dobro tego świata i świata który nastąpi. Tyś jest Prawdą, która zna utajone rzeczy. Nie ma Boga poza Tobą, Zawsze Przebaczającym i Wszechdobroczynnym.
 
-(Source category: Post)
-(Bahaiprayers.net ID: 7471)
+-- Bahá'u'lláh
 
+bpn7471 «[Polski](../pl/#bpn7471)» 
 
-«[Polski](../pl/#bpn7471)» 
-
+----
 
 
 <a id="bpn7472"></a> 
-### Prayer bpn7472 in Polski
 Chwała bądź Tobie, o Panie, Boże mój! Oto są dni, w których nakazałeś wszystkim ludziom zachowywać Post, aby dzięki niemu oczyścili swoje dusze i oswobodzili się z przywiązania do kogokolwiek oprócz Ciebie i aby z ich serc wzniosło się to, co godne jest dworu Twojego majestatu i odpowiednie przed tronem objawienia Twojej jedyności. Spraw, o mój Panie, aby ten post stał się rzeką życiodajnych wód i ukazał przymioty, jakimiś go obdarzył. Z jego pomocą oczyść serca swoich służebników, którym zło tego świata nie przeszkodziło w zwróceniu się ku Twemu Najchwalebniejszemu Imieniu, którzy pozostali niewzruszeni pomimo zgiełku i wrzawy tych, którzy odrzucili Twoje najjaśniejsze znaki towarzyszące nadejściu Twojego Objawiciela, którego Tyś obdarzył swoją wszechwładzą, swoją mocą, swoim majestatem i chwałą. Oto są ci słudzy, którzy, gdy tylko usłyszeli Twoje wołanie, pospieszyli ku Twemu miłosierdziu, i których nie oddaliły od Ciebie ani przemiany, ani przypadki tego świata, ani żadne ludzkie ograniczenia.
     
 Jestem tym, o mój Boże, który świadczy o Twojej jedności, który uznaje Twoją jedyność, który pokornie skłania się przed oznakami Twojego majestatu i który z pochylonym obliczem uznaje wspaniałość światła Twojej nieprześcignionej chwały. Uwierzyłem w Ciebie po tym, jak pozwoliłeś mi poznać siebie samego, którego Tyś objawił ludzkim oczom mocą swojej wszechwładzy i potęgi. Do Niego się zwróciłem, całkowicie niezależny od wszystkich rzeczy, trzymając się wytrwale więzi Twoich darów i dobrodziejstw. Przyjąłem Jego prawdę i prawdę wszystkich cudownych praw i przykazań, które Jemu zostały zesłane. Pościłem z miłości do Ciebie i zgodnie z Twoim nakazem, i przerwałem mój post sławiąc Cię moimi ustami i zgodnie z Twoim życzeniem. Nie pozwól, o mój Panie, abym zaliczony został w poczet tych, którzy pościli za dnia i w nocy padali na twarz przed Twoim obliczem, ale którzy wyparli się Twojej prawdy, nie uwierzyli Twoim znakom, zaprzeczyli Twoim dowodom i wypaczyli Twoje wypowiedzi.
@@ -2531,24 +2282,21 @@ Wywyższyj także tych, którzy uwierzyli w Niego i w Jego znaki i zwrócili si�
      
 Pochwalony bądź, o mój Boże, za to, żeś nam pomógł Go rozpoznać i umiłować. Błagam Cię przeto, na Niego samego i na Tych, którzy są Świtami Twojej Boskości, Oznakami Twojego Panowania, Skarbnicami Twojego Objawienia i Składnicami Twojego natchnienia, abyś pomógł nam służyć Mu i być Mu posłusznymi oraz byś umocnił nas, tak abyśmy stali się pomocnikami Jego Sprawy i pogromcami Jego przeciwników. Tyś mocen jest czynić wszystko, co Tobie miłe. Nie ma innego Boga poza Tobą, Wszechmocnym, Wszechchwalebnym, Tyś jest Tym, którego pomocy szukają wszyscy ludzie!
 
-(Source category: Post)
-(Bahaiprayers.net ID: 7472)
+-- Bahá'u'lláh
 
+bpn7472 «[Polski](../pl/#bpn7472)» 
 
-«[Polski](../pl/#bpn7472)» 
-
+----
 
 
 <a id="bpn7473"></a> 
-### Prayer bpn7473 in Polski
 Pochwalony bądź, o Boże, mój Boże! Oto są dni, podczas których Tyś nakazał swoim wybranym, swoim umiłowanym i sługom swoim zachowywać Post, któryś uczynił światłem dla ludzi Twojego królestwa, podobnie jak uczyniłeś obowiązkową modlitwę drabiną, po której wznoszą się ci, którzy uznają Twoją jedność. Błagam Cię, o mój Boże, na te dwa potężne filary, któreś ustanowił chwałą i zaszczytem dla całej ludzkości, abyś zachował swoją religię od krzywd bezbożnych i od spiskowania każdego niegodziwca. O Panie, nie zakrywaj światła, któreś Ty sam objawił swoją mocą i swoją wszechwładzą. Wspomóż przeto tych, którzy prawdziwie wierzą w Ciebie widzialnymi i niewidzialnymi zastępami, poprzez rozkaz swój i swoją władzę. Nie ma innego Boga poza Tobą, Wszechmocnym, Najpotężniejszym.
 
-(Source category: Post)
-(Bahaiprayers.net ID: 7473)
+-- Bahá'u'lláh
 
+bpn7473 «[Polski](../pl/#bpn7473)» 
 
-«[Polski](../pl/#bpn7473)» 
-
+----
 
 
 
@@ -2556,49 +2304,42 @@ Pochwalony bądź, o Boże, mój Boże! Oto są dni, podczas których Tyś nakaz
 ## Przebaczenie
 
 <a id="bpn7366"></a> 
-### Prayer bpn7366 in Polski
 Wysławiony jesteś, o Panie, Boże mój! Błagam Cię na Twoich Wybrańców i na powierników Twego zaufania i na Tego, któremuś nakazał być Pieczęcią Twoich Proroków, i na Twoich Posłańców, byś pozwolił, aby pamięć o Tobie była moim towarzyszem, Twoja miłość moim dążeniem, Twoje oblicze moim celem, Twoje Imię moją latarnią, Twoje życzenie moim pragnieniem, a Twoje zadowolenie moją rozkoszą.
     
 Jestem grzesznikiem, o mój Panie, a Tyś jest Zawsze Przebaczającym. Gdy tylko Cię rozpoznałem, pospieszyłem, by dotrzeć do wzniosłego dworu Twojej serdecznej dobroci. Przebacz mi, o mój Panie, moje grzechy, które przeszkodziły mi chodzić drogami Twojego zadowolenia i dotrzeć do wybrzeża oceanu Twojej jedyności.
     
 Nie ma nikogo, o mój Panie, kto postąpiłby ze mną łaskawie, do kogo mógłbym zwrócić moją twarz, ani nikogo, kto zlitowałby się nade mną, a czyjego miłosierdzia bym pragnął. Błagam Cię, nie odsuwaj mnie od swojej łaski ani nie powstrzymuj przede mną potoków swojej hojności i szczodrości. Przeznacz dla mnie to, o mój Panie, coś przeznaczył dla tych, którzy Ciebie miłują, i zapisz dla mnie to, coś zapisał dla swoich wybranych. Mój wzrok zawsze wpatrzony był w horyzont Twojej łaskawej opatrzności, a oczy me zwrócone ku dworowi Twojego czułego miłosierdzia. Czyń ze mną, jak Tobie przystoi. Nie ma Boga poza Tobą, Bogiem potęgi, Bogiem chwały, o pomoc którego błagają wszyscy ludzie.
 
-(Source category: Przebaczenie)
-(Bahaiprayers.net ID: 7366)
+-- Bahá'u'lláh
 
+bpn7366 «[Polski](../pl/#bpn7366)» 
 
-«[Polski](../pl/#bpn7366)» 
-
+----
 
 
 <a id="bpn7367"></a> 
-### Prayer bpn7367 in Polski
 Jestem tym, o mój Panie, który zwrócił swoją twarz ku Tobie i złożył nadzieję w cudach Twojej łaski i oznakach Twojej szczodrości. Błagam Cię, nie pozwól, abym odszedł zawiedziony od bramy Twojego miłosierdzia i nie porzucaj mnie na pastwę tych z Twoich stworzeń, które wyparły się Twojej Sprawy.
     
 Jestem, o mój Boże, Twoim sługą i synem Twojego sługi. Rozpoznałem Twoją prawdę w dniach Twoich i skierowałem kroki w stronę wybrzeży Twojej jedyności, wyznając Twoją pojedynczość, uznając Twoją jedność, z nadzieją na Twoje przebaczenie i odpuszczenie. Mocen jesteś czynić wszystko, czegokolwiek zapragniesz. Nie ma Boga poza Tobą, Najchwalebniejszym, Zawsze Przebaczającym.
 
-(Source category: Przebaczenie)
-(Bahaiprayers.net ID: 7367)
+-- Bahá'u'lláh
 
+bpn7367 «[Polski](../pl/#bpn7367)» 
 
-«[Polski](../pl/#bpn7367)» 
-
+----
 
 
 <a id="bpn7368"></a> 
-### Prayer bpn7368 in Polski
 Ty widzisz mnie, o mój Panie, z twarzą zwróconą w stronę nieba Twojej szczodrości i oceanu Twojej życzliwości, oderwanego od wszystkiego oprócz Ciebie. Błagam Cię na wspaniałość Słońca Twojego objawienia na Synaju i olśniewający blask Gwiazdy Twojej łaski świecącej ponad horyzontem Twojego Imienia, Zawsze Przebaczającego, abyś przebaczył mi i ulitował się nade mną. Zapisz więc dla mnie swoim piórem chwały to, co wywyższy mnie w świecie stworzenia poprzez Twoje Imię. Pomóż mi, o mój Panie, zwrócić się ku Tobie i słuchać głosu Twoich umiłowanych, których moce ziemi nie zdołały osłabić i których władza narodów nie była w stanie powstrzymać od zbliżenia się do Ciebie, i którzy przybliżając się do Ciebie, wołali: „Bóg jest naszym Panem, Panem wszystkich, którzy są w niebie i wszystkich, którzy są na ziemi!”.
 
-(Source category: Przebaczenie)
-(Bahaiprayers.net ID: 7368)
+-- Bahá'u'lláh
 
+bpn7368 «[Polski](../pl/#bpn7368)» 
 
-«[Polski](../pl/#bpn7368)» 
-
+----
 
 
 <a id="bpn7369"></a> 
-### Prayer bpn7369 in Polski
 Bądź pochwalony, Panie Boże mój! Za każdym razem, gdy ośmielam się wspominać o Tobie, powstrzymują mnie moje potężne grzechy i ciężkie przewinienia przeciwko Tobie i odkrywam, żem doszczętnie pozbawiony Twojej łaski i całkowicie niezdolny, aby święcić Twoją chwałę. Wszelako moja głęboka ufność w Twoją szczodrość ożywia mą nadzieję pokładaną w Tobie, a pewność, że postąpisz ze mną łaskawie, ośmiela mnie, by wysławiać Ciebie i prosić o dobra, które posiadasz.
     
 Błagam Cię, o mój Boże, na Twoje miłosierdzie, które przewyższyło wszystkie stworzone rzeczy, a o którym świadczą wszyscy zanurzeni w oceanach Twoich imion, abyś nie pozostawiał mnie samemu sobie, gdyż serce moje podatne jest na zło. Strzeż mnie zatem w twierdzy swojej ochrony i pod osłoną swojej opieki. Jestem tym, o mój Boże, którego jedynym życzeniem jest to, coś ustanowił potęgą swojej mocy. Wybrałem dla siebie jedynie to, abyś wspomagał mnie swoimi łaskawymi postanowieniami i rządami swojej woli oraz wspierał dowodami swoich wyroków i orzeczeń. 
@@ -2609,32 +2350,28 @@ Tyś jest Tym, którego potęga jest wiecznotrwała. Nic nie umknie Twojej wiedz
     
 Chwała niechaj będzie Bogu, Panu światów!
 
-(Source category: Przebaczenie)
-(Bahaiprayers.net ID: 7369)
+-- Bahá'u'lláh
 
+bpn7369 «[Polski](../pl/#bpn7369)» 
 
-«[Polski](../pl/#bpn7369)» 
-
+----
 
 
 <a id="bpn7370"></a> 
-### Prayer bpn7370 in Polski
 Pochwalone bądź Imię Twoje, o mój Boże i Boże wszelkiego stworzenia, moja Chwało i Chwało wszelkiego stworzenia, moje Pragnienie i Pragnienie wszelkiego stworzenia, moja Siło i Siło wszelkiego stworzenia, mój Królu i Królu wszelkiego stworzenia, mój Władco i Władco wszelkiego stworzenia, mój Celu i Celu wszelkiego stworzenia, mój Poruszycielu i Poruszycielu wszelkiego stworzenia. Błagam Cię, nie pozwól, abym został odsunięty od oceanu Twojego czułego miłosierdzia ani oddalony od wybrzeży Twojej bliskości.
     
 Prócz Ciebie nic korzyści mi nie przyda, a bliskość innego poza Tobą zda mi się na nic. Błagam Cię na obfitość Twych bogactw, przez któreś zbędnym uczynił wszystko poza samym sobą, abyś zaliczył mnie do tych, którzy zwrócili oblicze ku Tobie i powstali, aby Tobie służyć.
     
 Przebacz zatem, o Panie mój, swym sługom i swoim służebnicom. Zaprawdę, Tyś jest Zawsze Przebaczającym i Najlitościwszym.
 
-(Source category: Przebaczenie)
-(Bahaiprayers.net ID: 7370)
+-- Bahá'u'lláh
 
+bpn7370 «[Polski](../pl/#bpn7370)» 
 
-«[Polski](../pl/#bpn7370)» 
-
+----
 
 
 <a id="bpn7371"></a> 
-### Prayer bpn7371 in Polski
 O Boże, Panie nasz! Chroń nas swoją łaską od wszystkiego, co mogłoby wzbudzić Twoją odrazę i racz obdarzyć nas tym, co Tobie miłe. Daj nam więcej swoich łask i pobłogosław nam. Wybacz nam to, co uczyniliśmy i zmaż nasze grzechy, i udziel nam swojego łaskawego przebaczenia. Zaprawdę, Tyś jest Najwznioślejszym, Samoistnym.
     
 Twoja miłościwa opatrzność ogarnęła wszystkie stworzone rzeczy w niebie i na ziemi, a Twoje przebaczenie góruje nad całym stworzeniem; panowanie należy do Ciebie; w Twoim ręku znajdują się Królestwa Stworzenia i Objawienia, w swojej prawicy trzymasz wszystkie stworzone rzeczy, a w Twoim uścisku znajdują się wyznaczone miary przebaczenia. Ty wybaczasz, komu tylko zechcesz spośród sług Twoich. Zaprawdę, Tyś jest Zawsze Przebaczającym, Wszechmiłującym. Nic, zupełnie nic, nie umknie Twojej wiedzy i nic nie ukryje się przed Tobą.
@@ -2643,76 +2380,65 @@ O Boże, Panie nasz! Chroń nas potęgą swej mocy i spraw, abyśmy weszli do Tw
     
 Tyś jest Najwyższym Władcą, Potężnym Czyniącym, Wzniosłym, Wszechmiłującym.
 
-(Source category: Przebaczenie)
-(Bahaiprayers.net ID: 7371)
+-- Báb
 
+bpn7371 «[Polski](../pl/#bpn7371)» 
 
-«[Polski](../pl/#bpn7371)» 
-
+----
 
 
 <a id="bpn7373"></a> 
-### Prayer bpn7373 in Polski
 Błagam Cię, abyś wybaczył mi, o mój Panie, każde wspominanie, które nie jest wspominaniem Ciebie, i każde wysławianie, które nie jest wysławianiem Ciebie, i każdą rozkosz, która nie jest rozkoszą Twojej bliskości, i każdą przyjemność, która nie jest przyjemnością komunii z Tobą, i każdą radość, która nie jest radością z Twojej miłości i Twojego zadowolenia, oraz wszystko, co dotyczy mnie, a co nie ma związku z Tobą, o Ty, któryś jest Panem panów, Tym, który zapewnia środki i otwiera drzwi.
 
-(Source category: Przebaczenie)
-(Bahaiprayers.net ID: 7373)
+-- Báb
 
+bpn7373 «[Polski](../pl/#bpn7373)» 
 
-«[Polski](../pl/#bpn7373)» 
-
+----
 
 
 <a id="bpn7374"></a> 
-### Prayer bpn7374 in Polski
 Chwała bądź Tobie, o Boże! Jakże mogę wspominać Ciebie, skoro Tyś uświęcony jest ponad wysławianie całej ludzkości. Wywyższone niech będzie Twoje Imię, o Boże, Tyś jest Królem, Wieczną Prawdą; Ty wiesz, co znajduje się w niebiosach i na ziemi i do Ciebie wszystko musi wrócić. Tyś zesłał nam swoje Bosko zrządzone Objawienie podług jasnej miary. Pochwalony bądź, o Panie! Swoim rozkazem czynisz zwycięskim, kogo zechcesz, poprzez zastępy nieba i ziemi oraz wszystkiego, co istnieje pomiędzy nimi. Tyś jest Władcą, Wieczną Prawdą, Panem niezwyciężonej mocy.
     
 Wysławiony bądź, o Panie! Ty zawsze przebaczasz grzechy tym ze sług swoich, którzy błagają o Twoje przebaczenie. Zmyj moje grzechy i grzechy tych, którzy o świcie upraszają Cię o przebaczenie, którzy modlą się do Ciebie za dnia i nocną porą, którzy nie tęsknią za niczym innym oprócz Boga, którzy ofiarowują wszystko to, czym Bóg łaskawie ich obdarował, którzy wysławiają Twoją chwałę o poranku i o zmierzchu i którzy nie zaniedbują swoich obowiązków.
 
-(Source category: Przebaczenie)
-(Bahaiprayers.net ID: 7374)
+-- Báb
 
+bpn7374 «[Polski](../pl/#bpn7374)» 
 
-«[Polski](../pl/#bpn7374)» 
-
+----
 
 
 <a id="bpn7375"></a> 
-### Prayer bpn7375 in Polski
 Jestem świadom, o Panie, że przewinienia moje okryły twarz moją wstydem w Twojej obecności i obciążyły moje barki przed Tobą, i stanęły na przeszkodzie pomiędzy mną a Twoim cudownym obliczem, otoczyły mnie zewsząd i ze wszystkich stron odcięły mi dostęp do objawień Twojej niebiańskiej mocy. 
     
 O Panie! Jeśli Ty mi nie przebaczysz, któż tedy udzieli mi przebaczenia, i jeśli Ty nie będziesz mieć dla mnie miłosierdzia, któż zdolny jest okazać współczucie? Chwała niechaj będzie Tobie, Tyś stworzył mnie, kiedy nie istniałem, i dbał o mnie, gdym pozbawiony był jakiegokolwiek zrozumienia. Chwała niechaj będzie Tobie, każda oznaka łaskawości pochodzi od Ciebie i każdy wyraz łaski emanuje ze skarbnic Twojego zrządzenia.
 
-(Source category: Przebaczenie)
-(Bahaiprayers.net ID: 7375)
+-- Báb
 
+bpn7375 «[Polski](../pl/#bpn7375)» 
 
-«[Polski](../pl/#bpn7375)» 
-
+----
 
 
 <a id="bpn7372"></a> 
-### Prayer bpn7372 in Polski
 Chwała bądź Tobie, o Panie. Przebacz nam nasze grzechy, miej litość nad nami i pomóż nam wrócić do Ciebie. Spraw, abyśmy nie polegali na nikim poza Tobą, i poprzez swoją szczodrość racz obdarzyć nas tym, co miłujesz, czego pragniesz i co Tobie miłe. Wywyższyj pozycję tych, którzy prawdziwie uwierzyli i obdarz ich swoim łaskawym przebaczeniem. Zaprawdę, Tyś jest Pomocą w Niebezpieczeństwie, Samoistnym.
 
-(Source category: Przebaczenie)
-(Bahaiprayers.net ID: 7372)
+-- Báb
 
+bpn7372 «[Polski](../pl/#bpn7372)» 
 
-«[Polski](../pl/#bpn7372)» 
-
+----
 
 
 <a id="bpn7376"></a> 
-### Prayer bpn7376 in Polski
 O Ty, przebaczający Panie! Ty jesteś schronieniem dla tych oto Twoich służebników. Ty znasz sekrety i wiesz o wszystkim. Wszyscy jesteśmy bezradni, a Ty jesteś Potężnym i Wszechmocnym. Wszyscy jesteśmy grzesznikami, a Ty jesteś Przebaczającym grzechy, Miłosiernym i Współczującym. O Panie! Nie zważaj na nasze ułomności. Postępuj z nami wedle swojej łaski i szczodrości. Nasze ułomności są liczne, lecz ocean Twego przebaczenia jest bezkresny. Nasza słabość jest wielka, lecz dowody Twojej pomocy i wsparcia są oczywiste. Dlatego też utwierdź i umocnij nas. Pomóż nam czynić to, co godne jest Twego świętego Progu. Oświeć nasze serca, obdarz nas wnikliwym spojrzeniem i uważnym słuchem. Wskrześ umarłych i uzdrów chorych. Obdarz bogactwem biednych, a bojaźliwych spokojem i poczuciem bezpieczeństwa. Przyjmij nas do Twego królestwa i opromień światłem przewodnictwa. Ty jesteś Mocnym i Wszechmogącym. Ty jesteś Hojnym. Ty jesteś Łagodnym. Ty jesteś Życzliwym.
 
-(Source category: Przebaczenie)
-(Bahaiprayers.net ID: 7376)
+-- Abdu'l-Bahá
 
+bpn7376 «[Polski](../pl/#bpn7376)» 
 
-«[Polski](../pl/#bpn7376)» 
-
+----
 
 
 
@@ -2720,19 +2446,16 @@ O Ty, przebaczający Panie! Ty jesteś schronieniem dla tych oto Twoich służeb
 ## Próby i trudności
 
 <a id="bpn7357"></a> 
-### Prayer bpn7357 in Polski
 O Ty, którego próby są uzdrawiającym lekarstwem dla znajdujących się blisko Ciebie, którego miecz jest gorącym życzeniem wszystkich Ciebie miłujących, którego groty strzał są serdecznym pragnieniem serc tęskniących za Tobą, którego wyrok jest jedyną nadzieją tych, którzy poznali Twoją prawdę! Błagam Cię na Twoją Boską słodycz i na wspaniałość chwały Twojego oblicza, abyś zesłał na nas ze swoich ustroni na wysokościach to, co umożliwi nam zbliżyć się do Ciebie. Umocnij zatem nasze stopy w Twojej Sprawie, o mój Boże, oświeć nasze serca blaskiem Twojej wiedzy i rozraduj je jasnością Twoich Imion.
 
-(Source category: Próby i trudności)
-(Bahaiprayers.net ID: 7357)
+-- Bahá'u'lláh
 
+bpn7357 «[Polski](../pl/#bpn7357)» 
 
-«[Polski](../pl/#bpn7357)» 
-
+----
 
 
 <a id="bpn7358"></a> 
-### Prayer bpn7358 in Polski
 Chwała Ci, o mój Boże! Gdyby nie udręki doznawane na Twojej ścieżce, jak można by rozpoznać prawdziwie miłujących Ciebie, a gdyby nie trudy znoszone z miłości do Ciebie, jak mogłaby objawić się ranga tych, którzy tęsknią za Tobą? Twoja potęga jest mi świadkiem! Towarzyszami wszystkich, którzy Cię wielbią, są ronione przez nich łzy, a pocieszycielami tych, którzy Cię szukają, są wydawane przez nich jęki, zaś pokarmem tych, którzy spieszą na spotkanie z Tobą, są okruchy ich złamanych serc.
    
 Jakże słodka jest mi gorycz śmierci poniesionej na Twojej ścieżce i jak drogocenne w mym mniemaniu są nieprzyjaciół Twoich strzały, napotykane po to, by wywyższać Twoje słowo! Pozwól, abym w Twojej Sprawie, o mój Boże, wysączył wszystko, czegoś zapragnął, i ześlij na mnie w miłości swojej wszystko, coś dla mnie przeznaczył. Na Twoją chwałę! Życzę sobie jedynie tego, co jest Twoim życzeniem, i cenię tylko to, co Ty cenisz. W Tobie po wsze czasy złożyłem całą moją ufność i nadzieję.
@@ -2741,110 +2464,95 @@ Błagam Cię, o mój Boże, powołaj jako pomocników tego Objawienia tych, któ
    
 Mocen jesteś czynić wedle swego upodobania. Nie ma Boga poza Tobą, Pomocą w Niebezpieczeństwie, Samoistnym.
 
-(Source category: Próby i trudności)
-(Bahaiprayers.net ID: 7358)
+-- Bahá'u'lláh
 
+bpn7358 «[Polski](../pl/#bpn7358)» 
 
-«[Polski](../pl/#bpn7358)» 
-
+----
 
 
 <a id="bpn7359"></a> 
-### Prayer bpn7359 in Polski
 Pochwalony bądź, o Panie, Boże mój! Każdy wnikliwy człowiek uznaje Twoją wszechwładzę i Twoje panowanie, a każde bystre oko dostrzega wielkość Twojego majestatu i nieodpartą potęgę Twej mocy. Bezsilne są wichry prób, by powstrzymać tych, którzy cieszą się Twoją bliskością, od zwrócenia twarzy w stronę horyzontu Twojej chwały, a nawałnice udręki muszą okazać się niezdolne, by odciągnąć i przeszkodzić tym, którzy całkowicie oddani są Twojej woli w zbliżeniu się do Twego dworu.
    
 Zdaje się, jakoby kaganek miłości Twojej płonął w ich sercach, a w ich piersiach rozpalone było światło Twojej czułości. Nieszczęścia nie są w stanie zniechęcić ich do Twojej Sprawy, a zmienne koleje losu nigdy nie sprawią, że zboczą oni z drogi Twego zadowolenia.
    
 Błagam Cię, o mój Boże, na nich samych i na westchnienia, które ich serca wydają z powodu rozłąki z Tobą, abyś ochronił ich od szkód wyrządzonych przez Twoich przeciwników i umacniał ich dusze tym, coś przeznaczył dla swoich umiłowanych, na których nie przyjdzie żadna bojaźń i których nic nie zasmuci.
 
-(Source category: Próby i trudności)
-(Bahaiprayers.net ID: 7359)
+-- Bahá'u'lláh
 
+bpn7359 «[Polski](../pl/#bpn7359)» 
 
-«[Polski](../pl/#bpn7359)» 
-
+----
 
 
 <a id="bpn7360"></a> 
-### Prayer bpn7360 in Polski
 Rozwiej mój smutek Twoją szczodrością i hojnością, o Boże, mój Boże, i oddal moją boleść Twoją władzą i potęgą. Ty widzisz mnie, o mój Boże, z twarzą zwróconą ku Tobie w chwili, gdy zmartwienia okrążyły mnie ze wszech stron. O Ty, który jesteś Panem całego stworzenia i przewyższasz wszystkie rzeczy widzialne i niewidzialne, błagam Cię na Twoje Imię, którym zdobyłeś serca i dusze ludzi, na fale Oceanu Twojego miłosierdzia i na wspaniałość Świtu Twojej szczodrości, abyś zaliczył mnie do tych, których nic nie powstrzymało od zwrócenia twarzy w Twoją stronę, o Ty, Panie wszelkich imion i Stwórco niebios!
    
 Ty widzisz, o mój Panie, co spotkało mnie w dniach Twoich. Błagam Cię na Tego, który jest Zaraniem Twoich imion i Miejscem Świtania Twoich atrybutów, abyś przeznaczył dla mnie to, co pomoże mi powstać, by Ci służyć i wychwalać Twoje cnoty. Ty zaprawdę jesteś Wszechmocnym, Najpotężniejszym, jesteś Tym, który odpowiada na modlitwy wszystkich ludzi!
    
 Na koniec błagam Cię na światło Twego oblicza, abyś pobłogosławił moim sprawom, odkupił moje długi i zaspokoił me potrzeby. Ty jesteś Tym, o mocy i panowaniu którego świadczył każdy język, którego majestat i wszechwładzę uznało każde pełne zrozumienia serce. Nie ma innego Boga prócz Ciebie, który słyszysz i gotów jesteś odpowiedzieć.
 
-(Source category: Próby i trudności)
-(Bahaiprayers.net ID: 7360)
+-- Bahá'u'lláh
 
+bpn7360 «[Polski](../pl/#bpn7360)» 
 
-«[Polski](../pl/#bpn7360)» 
-
+----
 
 
 <a id="bpn7361"></a> 
-### Prayer bpn7361 in Polski
 Pochwalony i wysławiony jesteś, o mój Boże! Błagam Cię na westchnienia miłujących Ciebie i na łzy wylane przez tych, którzy pragną Cię widzieć, abyś nie odmawiał mi swego czułego miłosierdzia w Twym Dniu ani nie pozbawiał mnie melodii Gołębicy, która wychwala Twoją jedność przed światłością bijącą z Twojego oblicza. Jestem tym, który jest w niedoli, o Boże! Spójrz na mnie, trwającego wiernie przy Twoim Imieniu, Wszechposiadający. Jestem tym, który z pewnością zginie; spójrz na mnie, lgnącego do Twego Imienia, Nieprzemijający! Błagam Cię przeto na Ciebie samego, Wychwalonego, Najwyższego, nie zostawiaj mnie samemu sobie, skłaniającego się ku złym pożądaniom. Trzymaj moją dłoń ręką swojej mocy i oswobodź mnie z głębin moich pragnień i próżnych wyobrażeń oraz oczyść mnie ze wszystkiego, co Tobie niemiłe.
    
 Spraw zatem, abym całkowicie zwrócił się ku Tobie, abym Tobie w pełni zaufał, w Tobie szukał Schronienia i uciekał się do Twego Oblicza. Tyś zaprawdę jest Tym, co mocą swej potęgi czyni, cokolwiek zapragnie i siłą swej woli zarządza, cokolwiek wybierze. Nikt nie wstrzyma wykonywania Twoich wyroków; nikt nie odwróci toku Twoich postanowień. Tyś prawdziwie jest Wszechmocnym, Wszechłaskawym, Najhojniejszym.
 
-(Source category: Próby i trudności)
-(Bahaiprayers.net ID: 7361)
+-- Bahá'u'lláh
 
+bpn7361 «[Polski](../pl/#bpn7361)» 
 
-«[Polski](../pl/#bpn7361)» 
-
+----
 
 
 <a id="bpn7362"></a> 
-### Prayer bpn7362 in Polski
 Czyż jest inny Wybawiciel od trudności niźli Bóg? Powiedz: Chwała niech będzie Bogu! On jest Bogiem! Wszyscy są Jego sługami i wszyscy zachowują Jego przykazania.
 
-(Source category: Próby i trudności)
-(Bahaiprayers.net ID: 7362)
+-- Báb
 
+bpn7362 «[Polski](../pl/#bpn7362)» 
 
-«[Polski](../pl/#bpn7362)» 
-
+----
 
 
 <a id="bpn7363"></a> 
-### Prayer bpn7363 in Polski
 Ty wiesz doskonale, o mój Boże, że ze wszystkich stron spadł na mnie deszcz cierpień i że nikt prócz Ciebie nie może go rozproszyć ani przemienić. Wiem z całą pewnością, przez moją miłość do Ciebie, że nigdy nie zsyłasz cierpień na nikogo, jeśli nie pragniesz wywyższyć go w swoim niebiańskim Raju i wzmocnić jego serce w tym ziemskim życiu bastionem swojej nieodpartej mocy, aby nie skłonił się w stronę próżności tego świata. Zaprawdę, Ty dobrze wiesz, że w każdych warunkach więcej miłowałbym wspominanie Ciebie niż posiadanie wszystkiego, co znajduje się w niebie i na ziemi.
    
 Wzmocnij moje serce, o mój Boże, w posłuszeństwie i miłości do Ciebie, i spraw, abym trzymał się z daleka od wszystkich przeciwników Twoich. Zaprawdę, przysięgam na Twoją chwałę, że nie tęsknię za niczym prócz Ciebie i nie pragnę niczego prócz Twojego miłosierdzia, ani nie obawiam się niczego prócz Twojej sprawiedliwości. Błagam Cię o przebaczenie dla mnie, jak również dla tych, których miłujesz, wedle swojego upodobania. Zaprawdę, Tyś jest Wszechmocnym, Szczodrym.
    
 Tyś jest nieskończenie wzniosłym, o Panie nieba i ziemi, ponad wychwalanie wszystkich ludzi, i pokój niechaj będzie Twoim wiernym sługom, a chwała Bogu, Panu wszystkich światów.
 
-(Source category: Próby i trudności)
-(Bahaiprayers.net ID: 7363)
+-- Báb
 
+bpn7363 «[Polski](../pl/#bpn7363)» 
 
-«[Polski](../pl/#bpn7363)» 
-
+----
 
 
 <a id="bpn7364"></a> 
-### Prayer bpn7364 in Polski
 Zaklinam Cię na Twą moc, o mój Boże! Nie pozwól, by w chwilach próby spotkała mnie krzywda, a w momentach nierozwagi kieruj moje kroki na dobrą drogę swym natchnieniem. Tyś jest Bogiem, mocen jesteś czynić to, czego zapragniesz. Nikt nie jest w stanie oprzeć się Twojej Woli ani udaremnić Twojego Zamierzenia.
 
-(Source category: Próby i trudności)
-(Bahaiprayers.net ID: 7364)
+-- Báb
 
+bpn7364 «[Polski](../pl/#bpn7364)» 
 
-«[Polski](../pl/#bpn7364)» 
-
+----
 
 
 <a id="bpn7365"></a> 
-### Prayer bpn7365 in Polski
 O Panie! Jesteś Tym, który usuwa wszelkie boleści i oddala wszystkie cierpienia. Jesteś Tym, który rozprasza każdy smutek i oswabadza każdego niewolnika. Jesteś Odkupicielem każdej duszy. O Panie! Udziel wybawienia przez Twoje miłosierdzie i zalicz mnie do tych Twoich sług, którzy osiągnęli zbawienie.
 
-(Source category: Próby i trudności)
-(Bahaiprayers.net ID: 7365)
+-- Báb
 
+bpn7365 «[Polski](../pl/#bpn7365)» 
 
-«[Polski](../pl/#bpn7365)» 
-
+----
 
 
 
@@ -2852,19 +2560,17 @@ O Panie! Jesteś Tym, który usuwa wszelkie boleści i oddala wszystkie cierpien
 ## Północ
 
 <a id="bpn7431"></a> 
-### Prayer bpn7431 in Polski
 O ty, który poszukujesz Prawdy! Jeżeli pragniesz, aby Bóg otworzył ci oczy, powinieneś błagać Go, modlić się do Niego i łączyć się z Nim o północy, mówiąc:
     
 O Panie, zwróciłem twarz ku Twojemu królestwu jedyności i zanurzony jestem w morzu Twojego miłosierdzia. O Panie, rozjaśnij mój wzrok oglądaniem Twoich świateł pośród tej ciemnej nocy i rozraduj mnie winem swojej miłości w tym cudownym wieku. O Panie, spraw, abym usłyszał Twoje wołanie i otwórz przed moim obliczem bramy swojego nieba, abym zobaczył światłość Twojej chwały i aby przyciągnęło mnie Twoje piękno. 
     
 Zaprawdę, Tyś jest Dającym, Hojnym, Miłosiernym, Przebaczającym.
 
-(Source category: Północ)
-(Bahaiprayers.net ID: 7431)
+-- Abdu'l-Bahá
 
+bpn7431 «[Polski](../pl/#bpn7431)» 
 
-«[Polski](../pl/#bpn7431)» 
-
+----
 
 
 
@@ -2872,29 +2578,25 @@ Zaprawdę, Tyś jest Dającym, Hojnym, Miłosiernym, Przebaczającym.
 ## Rodzice
 
 <a id="bpn7378"></a> 
-### Prayer bpn7378 in Polski
 Błagam o Twoje przebaczenie, o mój Boże, i upraszam o odpuszczenie win, w taki sposób, w jaki pragniesz, aby słudzy Twoi zwracali się do Ciebie. Błagam Cię, abyś zmazał nasze grzechy, tak jak przystoi to Twojemu Władztwu, i abyś przebaczył mi i moim rodzicom oraz tym, którzy według Ciebie osiągnęli siedzibę Twojej miłości, w sposób, jaki godny jest Twojego nieprześcignionego zwierzchnictwa i jaki odpowiada chwale Twojej niebiańskiej mocy.
     
 O mój Boże! Tyś natchnął mą duszę, aby zanosiła do Ciebie modły i jedynie dzięki Tobie mogę wznosić me wołanie. Bądź wysławiony i pochwalony. Oddaję Ci cześć, gdyż Tyś mi siebie objawił, i błagam Cię o przebaczenie, ponieważ nie dopełniłem mego obowiązku poznania Ciebie i nie zdołałem kroczyć drogą Twojej miłości.
 
-(Source category: Rodzice)
-(Bahaiprayers.net ID: 7378)
+-- Báb
 
+bpn7378 «[Polski](../pl/#bpn7378)» 
 
-«[Polski](../pl/#bpn7378)» 
-
+----
 
 
 <a id="bpn7379"></a> 
-### Prayer bpn7379 in Polski
 O Panie! W tym Największym Objawieniu Ty przyjmujesz wstawiennictwo dzieci za ich rodziców. Jest to jeden z wyjątkowych i bezgranicznych darów tego Objawienia. Dlatego też, o Ty, łaskawy Panie, przyjmij prośbę swego sługi u progu Twej jedyności i zanurz jego ojca w oceanie swej łaski, gdyż syn jego powstał, aby Ci służyć i w każdym momencie nie szczędzi trudów na ścieżce Twojej miłości. Zaprawdę, Tyś jest Dającym, Przebaczającym i Łaskawym!
 
-(Source category: Rodzice)
-(Bahaiprayers.net ID: 7379)
+-- Abdu'l-Bahá
 
+bpn7379 «[Polski](../pl/#bpn7379)» 
 
-«[Polski](../pl/#bpn7379)» 
-
+----
 
 
 
@@ -2902,19 +2604,17 @@ O Panie! W tym Największym Objawieniu Ty przyjmujesz wstawiennictwo dzieci za i
 ## Rodzina
 
 <a id="bpn7377"></a> 
-### Prayer bpn7377 in Polski
 Chwała bądź Tobie, o Panie mój, Boże! Błagam Cię, abyś przebaczył mnie i tym, którzy wspierają Twoją Wiarę. Zaprawdę, Tyś jest najwyższym Panem, Przebaczającym, Najhojniejszym. O mój Boże! Pozwól, aby ci słudzy Twoi, którzy pozbawieni są wiedzy, mogli wstąpić do Twej Sprawy, albowiem gdy tylko dowiedzą się o Tobie, zaświadczą o prawdzie Dnia Sądu i nie poddadzą w wątpliwość objawień Twojej hojności. Ześlij na nich dowody swej łaski i obdarz ich, gdziekolwiek zamieszkują, obfitą cząstką tych darów, któreś przeznaczył dla pobożnych spośród sług swoich. Tyś jest zaiste Najwyższym Władcą, Najhojniejszym i Najżyczliwszym.
     
 O mój Boże! Niechaj potoki Twojej hojności i błogosławieństw spłyną na domostwa, których mieszkańcy przyjęli Twoją Wiarę jako dowód Twej łaski i jako oznakę serdecznej dobroci Twej obecności. Zaprawdę, nieprześcigniony jesteś w udzielaniu przebaczenia. Gdyby ktokolwiek został pozbawiony Twojej łaski, jakże mógłby zaliczać się do wyznawców Wiary w Dniu Twoim?
     
 Pobłogosław mnie, o mój Boże, i tych, którzy uwierzą w Twoje znaki w wyznaczonym Dniu, jak również tych, którzy pielęgnują moją miłość w swoich sercach – miłość, którą Tyś w nich wpoił. Zaiste, Tyś jest Panem prawości, Najwznioślejszym.
 
-(Source category: Rodzina)
-(Bahaiprayers.net ID: 7377)
+-- Báb
 
+bpn7377 «[Polski](../pl/#bpn7377)» 
 
-«[Polski](../pl/#bpn7377)» 
-
+----
 
 
 
@@ -2922,33 +2622,28 @@ Pobłogosław mnie, o mój Boże, i tych, którzy uwierzą w Twoje znaki w wyzna
 ## Rozwój duchowy
 
 <a id="bpn7381"></a> 
-### Prayer bpn7381 in Polski
 Ze słodko pachnących strumieni Twojej wieczności dozwól mi pić, o Boże mój, i z drzewa Twojego bytu daj mi skosztować owoców, o moja Nadziejo! Z kryształowych źródeł Twojej miłości pozwól mi zaczerpnąć, o moja Chwało, i w cieniu Twojej odwiecznej opatrzności pozwól mi przebywać, o moja Światłości! Pośród łąk Twojej bliskości, w Twej obecności, pozwól mi wędrować, o mój Umiłowany, i posadź mnie po prawicy tronu Twojego miłosierdzia, o Upragnienie moje! Niechaj muśnie mnie podmuch z wonnych powiewów Twojej radości, o Ty, któryś jest moim Celem, i na rajskie wyżyny Twojej rzeczywistości pozwól mi wstąpić, o mój Uwielbiony! Melodii gołębicy Twojej jedności pozwól mi słuchać, o Olśniewający, duchem Twojej potęgi i Twojej mocy ożyw mnie, o mój Żywicielu! W duchu Twojej miłości uczyń mnie wytrwałym, o mój Wspomożycielu, i na ścieżce Twojego upodobania umocnij moje kroki, o mój Stwórco! W ogrodzie Twej nieśmiertelności, przed Twoim obliczem, pozwól mi przebywać na wieczność, o Ty, któryś jest dla mnie miłosierny, i osadź mnie na tronie Twojej chwały, o Ty, któryś jest moim Władcą! Do niebios Twojej serdecznej dobroci unieś mnie, o mój Ożywicielu, i do Jutrzenki Twojego przewodnictwa prowadź mnie, o Ty, który mnie przyciągasz! Przed oblicze objawień Twojego niewidzialnego Ducha zawezwij mnie, o Ty, któryś jest moim Początkiem i moim największym Życzeniem, i do wonnej esencji Twego piękna, które ukażesz, spraw, bym powrócił, o Ty, któryś jest moim Bogiem!
     
 Mocen jesteś czynić wedle swego upodobania. Tyś zaiste jest Najwznioślejszym, Najchwalebniejszym, Najwyższym.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7381)
+-- Bahá'u'lláh
 
+bpn7381 «[Polski](../pl/#bpn7381)» 
 
-«[Polski](../pl/#bpn7381)» 
-
+----
 
 
 <a id="bpn7382"></a> 
-### Prayer bpn7382 in Polski
 Obdarz mnie czystym sercem, o mój Boże, i przywróć mi spokojne sumienie, o moja Nadziejo! Duchem mocy utwierdź mnie w Twojej Sprawie, o mój najbardziej Umiłowany, i światłością Twej chwały ukaż mi Twoją ścieżkę, o Ty, który jesteś Celem moich pragnień! Potęgą swojej najwyższej mocy wznieś mnie do niebios Twojej świętości, o Źródło mego bytu, i uraduj mnie powiewami Twojej wieczności, o Ty, który jesteś moim Bogiem! Niechaj Twoje odwieczne melodie natchną mnie spokojem, o Mój Towarzyszu, i niech bogactwo Twego pradawnego oblicza uwolni mnie od wszystkiego, co nie jest Tobą, o mój Mistrzu; a wieść o objawieniu się Twojej niezniszczalnej Istoty niechaj przyniesie mi radość, o Ty, który jesteś najbardziej oczywistym z oczywistych i najbardziej utajonym z utajonych.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7382)
+-- Bahá'u'lláh
 
+bpn7382 «[Polski](../pl/#bpn7382)» 
 
-«[Polski](../pl/#bpn7382)» 
-
+----
 
 
 <a id="bpn7383"></a> 
-### Prayer bpn7383 in Polski
 On jest Łaskawym, Wszechszczodrym!
     
 O Boże, mój Boże! Twoje wołanie przyciągnęło mnie i obudził mnie głos Twego Pióra Chwały. Potok Twoich świętych słów zachwycił mnie i urzekło mnie wino Twojego natchnienia. Ty widzisz mnie, o Panie, niezależnego od wszystkiego prócz Ciebie, lgnącego do więzi Twojej szczodrości i łaknącego cudów Twojej łaski. Błagam Cię na odwieczne fale Twojej serdecznej dobroci i jaśniejące światła Twojej czułej opieki i łaskawości, abyś udzielił mi tego, co przybliży mnie do Ciebie i sprawi, że będę bogaty Twoim bogactwem. Mój język, moje pióro i cała moja istota dowodzą Twojej potęgi, Twojej mocy, Twojej łaski i Twojej szczodrości i że Tyś jest Bogiem, i że nie ma innego Boga poza Tobą, Potężnym, Mocnym.
@@ -2957,60 +2652,52 @@ Daję świadectwo w tej chwili, o mój Boże, o mojej bezradności a Twojej wła
     
 Panie! Nie odprawiaj mnie od oceanu swoich bogactw ani od nieba swojego miłosierdzia i przeznacz dla mnie dobra tego świata i świata, który nastąpi. Zaprawdę, Tyś jest Panem siedziby miłosierdzia, panującym na wysokościach; nie ma innego Boga poza Tobą, Jedynym, Wszechwiedzącym, Wszechmądrym.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7383)
+-- Bahá'u'lláh
 
+bpn7383 «[Polski](../pl/#bpn7383)» 
 
-«[Polski](../pl/#bpn7383)» 
-
+----
 
 
 <a id="bpn7384"></a> 
-### Prayer bpn7384 in Polski
 O Panie mój! Niechaj Twe piękno stanie się moim pokarmem, Twoja obecność moim napojem, Twoje zadowolenie moją nadzieją, a wysławianie Ciebie moją czynnością; niechaj pamięć o Tobie będzie mi towarzyszem, a potęga Twej władzy moim ratunkiem, Twoje domostwo moim domem, a moja siedziba miejscem, które Ty uświęciłeś ponad wszelkie ograniczenia, narzucone tym, którzy odgrodzili się od Ciebie jakby zasłoną.
     
 Zaprawdę, Tyś jest Wszechmocnym, Najchwalebniejszym i Najpotężniejszym.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7384)
+-- Bahá'u'lláh
 
+bpn7384 «[Polski](../pl/#bpn7384)» 
 
-«[Polski](../pl/#bpn7384)» 
-
+----
 
 
 <a id="bpn7385"></a> 
-### Prayer bpn7385 in Polski
 Niechaj będzie pochwalone Imię Twoje, o Panie, Boże mój! Jestem Twoim sługą, który uchwycił się więzi Twoich czułych łask i przywarł do rąbka Twojej szczodrobliwości. Błagam Cię na Twoje imię, za którego sprawą uczyniłeś poddanymi wszystkie stworzone rzeczy, zarówno widzialne, jak i niewidzialne, i dzięki któremu tchnienie, będące życiem samym, uniosło się nad całym stworzeniem, abyś umocnił mnie swoją potęgą, co ogarnęła niebo i ziemię i abyś mnie strzegł od wszelkich chorób i utrapień. Daję świadectwo, że Tyś jest Panem wszystkich imion i Ustanawiającym wszystko, co Tobie miłe. Nie ma innego Boga poza Tobą, Wszechmogącym, Wszechwiedzącym, Wszechmądrym.
     
 Przeznacz dla mnie to, o mój Panie, co przyniesie mi korzyść w każdym z Twoich światów. Racz udzielić mi zatem tego, coś zapisał dla swoich wybranych pośród Twoich stworzeń, których nie powstrzymały przed zwróceniem się ku Tobie ani pomówienia oskarżycieli, ani sprzeciwy niewiernych, ani wyobcowanie tych, którzy odwrócili się od Ciebie.
     
 Tyś prawdziwie jest Pomocą w Niebezpieczeństwie, dzięki potędze swej wszechwładzy. Nie ma Boga poza Tobą, Wszechmogącym, Najpotężniejszym.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7385)
+-- Bahá'u'lláh
 
+bpn7385 «[Polski](../pl/#bpn7385)» 
 
-«[Polski](../pl/#bpn7385)» 
-
+----
 
 
 <a id="bpn7386"></a> 
-### Prayer bpn7386 in Polski
 O Boże mój, Boże szczodrości i miłosierdzia! Tyś jest tym Królem, z którego rozkazu zostało powołane do życia całe stworzenie i Tyś jest tym Wszechdobroczynnym, któremu czyny Jego sług nigdy nie przeszkodziły w okazywaniu Jego łaski ani nie udaremniły oznak Jego szczodrości.
     
 Błagam Cię, dozwól temu słudze osiągnąć to, co stanie się przyczyną jego zbawienia w każdym z Twoich światów. Tyś zaiste jest Wszechmogącym, Najpotężniejszym, Wszechwiedzącym, Wszechmądrym.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7386)
+-- Bahá'u'lláh
 
+bpn7386 «[Polski](../pl/#bpn7386)» 
 
-«[Polski](../pl/#bpn7386)» 
-
+----
 
 
 <a id="bpn7387"></a> 
-### Prayer bpn7387 in Polski
 On jest Bogiem, który słucha modlitw i na modlitwy odpowiada!
     
 Na Twoją chwałę, o Umiłowany, dający światu światłość! Płomienie rozłąki strawiły mnie, a moja samowola stopiła me serce. Proszę Cię, na Twoje Największe Imię, o Ty, Upragnienie świata i wielce Umiłowany ludzkości, spraw, aby powiew Twojego natchnienia pokrzepił moją duszę, aby Twój przecudowny głos dotarł do mego ucha, aby moje oczy ujrzały Twoje znaki i Twoją światłość, jak zostało ukazane w objawieniach Twoich imion i przymiotów, o Ty, w którego dłoni znajduje się wszelkie stworzenie!
@@ -3023,16 +2710,14 @@ Na Twoją wszechwładzę, o Ty, któryś jest wysławiany w sercach ludzi! Zwró
     
 Tyś zaprawdę jest Wszechmogącym, Wybaczającym, Współczującym.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7387)
+-- Bahá'u'lláh
 
+bpn7387 «[Polski](../pl/#bpn7387)» 
 
-«[Polski](../pl/#bpn7387)» 
-
+----
 
 
 <a id="bpn7388"></a> 
-### Prayer bpn7388 in Polski
 Chwała Tobie, o Panie, Boże mój! Dzięki Ci składam za to, żeś powołał mnie do istnienia w dniach Twoich i napełnił mnie swoją miłością i wiedzą. Błagam Cię na Twoje imię, mocą którego skarbnice serc tych spośród Twoich sług, którzy są blisko Ciebie, wydały wspaniałe perły Twej mądrości i Twoich wypowiedzeń, i przez które Jutrzenka Twego imienia – Współczujący – rozlała swój blask na wszystko, co jest w Twoim niebie i na Twej ziemi, obdarz mnie za sprawą swojej łaski i szczodrobliwości swoimi cudownymi i ukrytymi dobrodziejstwami.
     
 Oto są najwcześniejsze dni mego życia, o Boże mój, które złączyłeś z Twoimi dniami. Jako żeś uczynił mi tak wielki zaszczyt, nie odmawiaj mi tego, coś przeznaczył dla swoich wybranych.
@@ -3041,28 +2726,24 @@ Jestem, o mój Boże, jedynie małym ziarenkiem, któreś posiał na roli Twej m
     
 Chwała niech będzie Bogu, Panu wszystkich światów.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7388)
+-- Bahá'u'lláh
 
+bpn7388 «[Polski](../pl/#bpn7388)» 
 
-«[Polski](../pl/#bpn7388)» 
-
+----
 
 
 <a id="bpn7389"></a> 
-### Prayer bpn7389 in Polski
 Błagam Cię, o mój Boże, przez całą najwyższą chwałę Twojego Imienia, abyś odział Twoich umiłowanych w szatę sprawiedliwości i abyś oświetlił ich istotę światłem wiarygodności. Tyś jest Tym, który ma moc czynienia wedle swojego upodobania i który trzyma w swoim uścisku wodze wszystkich rzeczy, widzialnych i niewidzialnych.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7389)
+-- Bahá'u'lláh
 
+bpn7389 «[Polski](../pl/#bpn7389)» 
 
-«[Polski](../pl/#bpn7389)» 
-
+----
 
 
 <a id="bpn7390"></a> 
-### Prayer bpn7390 in Polski
 Zaszczyć mnie, o mój Boże, pełną miarą Twojej miłości i Twojego zadowolenia i zachwyć nasze serca urokiem Twojej wspaniałej światłości, o Ty, któryś jest Najwyższym Świadectwem i Wszechwysławianym. Na znak swojej łaski ześlij na mnie Twoje ożywiające powiewy, za dnia, jak i w porze nocy, o Panie łaskawości.
     
 Nie dokonałem żadnego czynu, o mój Boże, którym zasłużyłbym na oglądanie Twojego oblicza, i wiem z całą pewnością, że gdybym nawet żył tak długo, jak długo trwa ten świat, to nigdy bym nie dokonał takiego czynu, którym zasłużyłbym na taką łaskę, podobnie jak ranga sługi zawsze będzie niewystarczająca, aby dostąpić Twoich świętych okolic, chyba że dosięgnie mnie Twoja łaskawość, przeniknie mnie Twoje czułe miłosierdzie i otoczy Twoja miłościwa życzliwość.
@@ -3071,16 +2752,14 @@ Wszelka chwała bądź Tobie, o Ty, poza którym nie ma innego Boga. Łaskawie s
     
 W istocie, gdybyś zapragnął zesłać błogosławieństwa na sługę, starłbyś z królestwa jego serca wszelkie wspominanie i skłonności poza wspominaniem Ciebie samego; a jeśli zarządziłbyś dla sługi zgubę za niesprawiedliwość, którą wyrządziły jego ręce przed Twoim obliczem, poddałbyś go próbie korzyści tego i przyszłego świata tak, że mógłby się w nich zatracić i zapomnieć o wspominaniu Ciebie.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7390)
+-- Báb
 
+bpn7390 «[Polski](../pl/#bpn7390)» 
 
-«[Polski](../pl/#bpn7390)» 
-
+----
 
 
 <a id="bpn7391"></a> 
-### Prayer bpn7391 in Polski
 O mój Boże! O mój Boże! Chwała bądź Tobie, za to żeś upewnił mnie, bym wyznał Twoją jedność, żeś przyciągnął mnie do słowa Twojej pojedynczości, rozpalił mnie ogniem Twojej miłości, zajął mnie wspominaniem Ciebie i służeniem Twoim przyjaciołom i służebnicom.
     
 O Panie, pomóż mi być łagodnym i uniżonym, umocnij mnie, abym mógł uniezależnić się od wszystkich rzeczy i uchwycić się rąbka szaty Twojej chwały, tak aby serce moje wypełniło się Twoją miłością, i by nie pozostało w nim miejsca na uwielbienie świata i przywiązanie do jego przymiotów.
@@ -3089,42 +2768,36 @@ O Boże! Uwolnij mnie od wszystkiego prócz Ciebie, oczyść mnie ze śniedzi gr
     
 Zaprawdę, Tyś jest Miłosiernym i zaprawdę Tyś jest Najhojniejszym, którego pomocy szukają wszyscy ludzie.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7391)
+-- Abdu'l-Bahá
 
+bpn7391 «[Polski](../pl/#bpn7391)» 
 
-«[Polski](../pl/#bpn7391)» 
-
+----
 
 
 <a id="bpn7392"></a> 
-### Prayer bpn7392 in Polski
 O Panie mój! O Panie mój! Oto kaganek zapalony ogniem Twojej miłości i gorejący płomieniem wznieconym w drzewie Twojego miłosierdzia. O mój Panie! Wzmocnij jego żarliwość, ciepło i płomień ogniem, który płonie na Synaju Twojego Objawienia. Zaprawdę, Ty jesteś Umacniającym, Pomagającym, Wszechmocnym, Hojnym i Miłującym.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7392)
+-- Abdu'l-Bahá
 
+bpn7392 «[Polski](../pl/#bpn7392)» 
 
-«[Polski](../pl/#bpn7392)» 
-
+----
 
 
 <a id="bpn7393"></a> 
-### Prayer bpn7393 in Polski
 O mój Boże! O mój Boże! Ten oto Twój sługa zbliżył się do Ciebie, z zamiłowaniem wędruje po pustyni Twojej miłości, kroczy ścieżką Twojej służby, wyczekuje Twoich łask, żywi nadzieję na Twoje dobrodziejstwa, szuka oparcia w Twoim Królestwie i upojony jest winem Twojego daru. O mój Boże! Wznieć żar jego uczuć do Ciebie, nieustanność jego wysławiania Ciebie i zapał jego miłości do Ciebie.
     
 Zaprawdę, Tyś jest Najhojniejszym, Panem obfitej łaski. Nie ma innego Boga poza Tobą, Przebaczającym, Miłosiernym.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7393)
+-- Abdu'l-Bahá
 
+bpn7393 «[Polski](../pl/#bpn7393)» 
 
-«[Polski](../pl/#bpn7393)» 
-
+----
 
 
 <a id="bpn7394"></a> 
-### Prayer bpn7394 in Polski
 O Boże, mój Boże! Oto Twój promienny sługa, Twój duchowy niewolnik, który pospieszył do Ciebie i zbliżył się do Twojej obecności. Zwrócił swą twarz ku Twojej, uznając Twoją jedność, wyznając Twoją pojedynczość, wzywał w Twoim imieniu pośród narodów i poprowadził lud do strumieni wód Twojego miłosierdzia. O Ty, Najhojniejszy Panie! Tym, którzy poprosili, dał on pić z kielicha przewodnictwa, który przepełniony jest winem Twojej niezmiernej łaski.
     
 O Panie, wspieraj go w każdych warunkach, spraw, aby poznał Twoje dobrze strzeżone tajemnice i obsyp go Twoimi ukrytymi perłami. Uczyń go sztandarem łopoczącym ze szczytów zamku na wietrze Twojej niebiańskiej pomocy i spraw, aby stał się źródłem kryształowych wód.
@@ -3133,32 +2806,28 @@ O mój przebaczający Panie! Rozjaśnij serca promieniami lampy, która daleko r
     
 Zaprawdę, Tyś jest Mocnym, Potężnym, Chroniącym, Silnym, Dobroczynnym! Zaprawdę, Tyś jest Panem wszelkiego miłosierdzia.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7394)
+-- Abdu'l-Bahá
 
+bpn7394 «[Polski](../pl/#bpn7394)» 
 
-«[Polski](../pl/#bpn7394)» 
-
+----
 
 
 <a id="bpn7395"></a> 
-### Prayer bpn7395 in Polski
 O Boże, mój Boże! Oto Twoi biedni słudzy, oto Twoi wierni poddani i Twoje służebnice, którzy skłonili się przed Twoją wzniosłą wypowiedzią, ukorzyli się u Twego Progu światłości i świadczyli o Twojej jedności, dzięki której Słońce zajaśniało we wspaniałości południa. Usłuchali oni wezwań, któreś zanosił ze swojego ukrytego Królestwa, i z sercami drżącymi z miłości i uniesienia odpowiedzieli na Twoje wołanie.
     
 O Panie, obsyp ich deszczem swojego miłosierdzia, skieruj na nich wszelkie wody Twojej łaski. Spraw, aby rozwijali się niczym piękne rośliny w niebiańskim ogrodzie, a dzięki pełnym i nabrzmiałym obłokom Twoich dobrodziejstw i głębokim rozlewiskom Twojej obfitej łaski daj, aby ten ogród zakwitł i aby zawsze był zielony i olśniewający, zawsze świeży, mieniący się i piękny.
     
 Tyś jest zaprawdę, Mocnym, Wywyższonym, Potężnym, Tym, który jako jedyny w niebiosach i na ziemi pozostaje niezmienny. Nie ma innego Boga poza Tobą, Panem objawionych znaków i dowodów.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7395)
+-- Abdu'l-Bahá
 
+bpn7395 «[Polski](../pl/#bpn7395)» 
 
-«[Polski](../pl/#bpn7395)» 
-
+----
 
 
 <a id="bpn7396"></a> 
-### Prayer bpn7396 in Polski
 On jest Bogiem!
     
 O Boże, mój Boże! Oto słudzy przywiedzeni w dniach Twoich zapachem Twojej świętości, rozpaleni płomieniem gorejącym w Twoim świętym drzewie, odpowiadają na Twój głos, głoszą Twoją chwałę, rozbudzeni Twoim powiewem, poruszeni Twoją słodką wonią, widzą Twoje znaki, pojmują Twoje wersety, słuchają Twoich słów, wierzą w Twoje Objawienie i pewni są Twojej miłościwej życzliwości. Ich oczy, o Panie, wpatrzone są w Twoje Królestwo olśniewającej chwały, a ich twarze zwrócone w stronę Twojego panowania na wysokościach. Serca ich biją miłością Twojego promiennego i wspaniałego piękna, ich dusze ogarnął płomień Twojej miłości, o Panie tego świata i świata, który nastąpi. Życie ich tętni od żaru tęsknoty za Tobą i dla Ciebie płyną ich łzy.
@@ -3167,16 +2836,14 @@ Osłaniaj ich w twierdzy Twojej obrony i bezpieczeństwa i zachowaj ich pod swoj
     
 O Panie, Boże mój! Uniżeni są ci słudzy Twoi, wywyższyj ich w swoim królestwie na wysokościach; są słabi, umocnij ich swoją najwyższą mocą; są poniżeni, obdarz ich swoją chwałą w Twoim najwyższym królestwie; biedni spraw, by stali się bogaci Twoim wspaniałym panowaniem. Przeznacz zatem dla nich wszelkie dobro, któreś zamierzył w swoich światach, widzialnych i niewidzialnych, zapewnij im pomyślność w tym ziemskim świecie i rozraduj ich serca Twoim natchnieniem, o Panie wszystkich istot! Rozjaśnij ich serca swoją radosną nowiną niesioną z Twojego najchwalebniejszego Miejsca, upewnij ich kroki w Twoim Największym Przymierzu i umocnij ich w Twoim nienaruszalnym Testamencie przez swoją szczodrość i obiecaną łaskawość, o Łaskawy i Miłosierny! Tyś zaprawdę jest Łaskawym, Najhojniejszym.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7396)
+-- Abdu'l-Bahá
 
+bpn7396 «[Polski](../pl/#bpn7396)» 
 
-«[Polski](../pl/#bpn7396)» 
-
+----
 
 
 <a id="bpn7397"></a> 
-### Prayer bpn7397 in Polski
 O Żywicielu! Tyś tchnął słodką woń Ducha Świętego na przyjaciół na Zachodzie i światłem Boskiego przewodnictwa oświetlił zachodnie niebo. Tyś sprawił, że ci, którzy kiedyś byli oddaleni, zbliżyli się do Ciebie. Tyś przemienił obcych w serdecznych przyjaciół. Tyś śpiących ze snu obudził. Tyś niedbałych uważnymi uczynił. 
     
 O Żywicielu! Wspomagaj tych szlachetnych przyjaciół, aby zjednali sobie Twoje zadowolenie, i spraw, aby dobrze życzyli tak obcym, jak i przyjaciołom. Przywiedź ich do świata, który trwa wiecznie. Daj im udział w niebiańskiej łasce i spraw, aby byli prawdziwymi bahaitami, prawdziwie od Boga. Ustrzeż ich od zewnętrznych pozorów i utwierdź mocno w prawdzie. Spraw, aby stali się znakami i symbolami Królestwa, jaśniejącymi gwiazdami nad horyzontem tego ziemskiego życia. Uczyń ich pocieszeniem i pokrzepieniem ludzkości oraz sługami pokoju na świecie. Uraduj ich winem swoich zaleceń i spraw, aby wszyscy oni kroczyli ścieżką Twoich przykazań.
@@ -3185,12 +2852,11 @@ O Żywicielu! Najgorętszym życzeniem tego oto Sługi u Twego progu jest ujrze�
     
 Tyś jest Mocnym, Potężnym. Tyś Bogiem siły, Wszechmogącym, Wszystkowidzącym.
 
-(Source category: Rozwój duchowy)
-(Bahaiprayers.net ID: 7397)
+-- Abdu'l-Bahá
 
+bpn7397 «[Polski](../pl/#bpn7397)» 
 
-«[Polski](../pl/#bpn7397)» 
-
+----
 
 
 
@@ -3198,21 +2864,18 @@ Tyś jest Mocnym, Potężnym. Tyś Bogiem siły, Wszechmogącym, Wszystkowidząc
 ## Spotkania
 
 <a id="bpn7400"></a> 
-### Prayer bpn7400 in Polski
 Pochwalony bądź, o Panie, Boże mój! Błagam Cię na porywy wiatru Twojej łaski i na Tych, którzy są Brzaskami Twojego zamierzenia i Miejscami Świtania Twojego natchnienia, abyś zesłał na mnie i na wszystkich, którzy poszukują Twego oblicza, co przystoi Twojej hojności i obfitej łasce i co godne jest Twoich darów i względów. Biedny i opuszczony jestem, o mój Panie! Zanurz mnie w oceanie swojego bogactwa; spragniony jestem, pozwól mi napić się żywej wody swej serdecznej dobroci.
     
 Błagam Cię, na Ciebie samego i na Tego, któregoś ustanowił Objawicielem swej własnej Istoty i swoim rozstrzygającym Słowem dla wszystkich, którzy są w niebie i na ziemi, abyś zebrał swoje sługi w cieniu Drzewa swojej łaskawej opatrzności. Dopomóż im także zakosztować jego owoców i nakłoń ich uszy ku szelestom jego liści i ku słodyczy głosu Ptaka śpiewającego w jego gałęziach. Tyś zaiste jest Pomocą w Niebezpieczeństwie, Niedosiężnym, Wszechmogącym, Najhojniejszym.
 
-(Source category: Spotkania)
-(Bahaiprayers.net ID: 7400)
+-- Bahá'u'lláh
 
+bpn7400 «[Polski](../pl/#bpn7400)» 
 
-«[Polski](../pl/#bpn7400)» 
-
+----
 
 
 <a id="bpn7401"></a> 
-### Prayer bpn7401 in Polski
 O Ty, miłosierny Boże! O Ty, któryś jest mocny i potężny! O Ty, najżyczliwszy Ojcze! Ci słudzy zebrali się, zwracając się ku Tobie, zanosząc prośby u Twego progu, pragnąc Twoich bezgranicznych łask, któreś wspaniałomyślnie przyobiecał. Nie mają innego celu niż Twoje zadowolenie. Nie mają innego zamiaru niż służenie światu ludzkości. 
     
 O Boże! Uczyń to zgromadzenie promiennym. Uczyń ich serca miłosiernymi. Ześlij łaski Ducha Świętego. Wspomóż ich mocą z nieba. Obdarz ich niebiańskimi umysłami. Wzmóż ich szczerość, aby z całą pokorą i skruchą zwrócili się w stronę Twojego królestwa i zajmowali się służeniem światu ludzkości. Niech każdy stanie się płomienną świecą. Niech każdy stanie się jaśniejącą gwiazdą. Niech w Królestwie Boga kolor każdego z nich będzie piękny, a zapach wonny. 
@@ -3221,46 +2884,40 @@ O Dobry Ojcze! Ześlij swoje błogosławieństwa. Nie zważaj na nasze ułomnoś
     
 O Boże! Wspomóż nas swoją opatrznością. Tyś jest Potężnym. Tyś jest Dającym. Tyś jest Dobroczynnym.
 
-(Source category: Spotkania)
-(Bahaiprayers.net ID: 7401)
+-- Abdu'l-Bahá
 
+bpn7401 «[Polski](../pl/#bpn7401)» 
 
-«[Polski](../pl/#bpn7401)» 
-
+----
 
 
 <a id="bpn7402"></a> 
-### Prayer bpn7402 in Polski
 O Ty, łaskawy Panie! Oto słudzy Twoi zebrani na tym spotkaniu zwracają się ku Twemu królestwu, upraszając Twoich darów i błogosławieństw. O Ty, Boże! Ujawnij i ukaż znaki swojej jedyności, które zostały złożone we wszystkich przejawach życia. Objaw i odsłoń cnoty, któreś utaił i ukrył w tych ludzkich istnieniach.
     
 O Boże! Jesteśmy niczym rośliny, a Twoja szczodrość jest jak deszcz. Orzeźwij te rośliny i spraw, aby wzrastały dzięki Twoim darom. Jesteśmy Twoimi sługami, uwolnij nas z więzów materialnego istnienia. Jesteśmy nieświadomi, uczyń nas mądrymi. Jesteśmy martwi, ożyw nas. Jesteśmy z materii, obdarz nas duchem. Jesteśmy nieobeznani, uczyń nas bliskimi powiernikami swoich tajemnic. Jesteśmy w potrzebie, wzbogać nas i pobłogosław nam ze swej niewyczerpanej skarbnicy. O Boże! Wskrześ nas, obdarz nas wzrokiem, obdarz nas słuchem. Przybliż nam tajemnice życia, tak aby sekrety Twojego królestwa ukazały się nam w tym świecie istnienia i abyśmy mogli wyznać Twoją jedyność. Każdy dar pochodzi od Ciebie i Twoim jest każde błogosławieństwo.
     
 Tyś jest Potężnym. Tyś jest Mocnym. Tyś jest Dającym i Tyś jest Zawsze Hojnym.
 
-(Source category: Spotkania)
-(Bahaiprayers.net ID: 7402)
+-- Abdu'l-Bahá
 
+bpn7402 «[Polski](../pl/#bpn7402)» 
 
-«[Polski](../pl/#bpn7402)» 
-
+----
 
 
 <a id="bpn7403"></a> 
-### Prayer bpn7403 in Polski
 O Boże mój! O Boże mój! Zaprawdę, ci oto słudzy zwracają się do Ciebie, zanosząc modlitwy do Twego królestwa miłosierdzia. Zaprawdę, przyciągnięci Twoją świętością i rozpaleni ogniem Twojej miłości, szukają umocnienia z Twego cudownego królestwa i mają nadzieję na spełnienie w Twej niebiańskiej krainie. Zaprawdę, łakną oni zesłania Twoich darów, pragnąc oświecenia ze Słońca Rzeczywistości. O Panie! Uczyń ich jasnymi lampami, znakami miłosierdzia, owocującymi drzewami i jaśniejącymi gwiazdami. Niech ruszą naprzód w Twojej służbie i połączą się z Tobą więzami Twojej miłości, tęskniąc za światłami Twojej przychylności. O Panie! Uczyń ich znakami przewodnictwa, sztandarami Twego nieśmiertelnego królestwa, falami morza Twojego miłosierdzia, zwierciadłami światła Twojego majestatu.
     
 Zaprawdę, Tyś jest Hojnym. Zaprawdę, Tyś jest Miłosiernym. Zaprawdę, Tyś jest Drogocennym, Umiłowanym.
 
-(Source category: Spotkania)
-(Bahaiprayers.net ID: 7403)
+-- Abdu'l-Bahá
 
+bpn7403 «[Polski](../pl/#bpn7403)» 
 
-«[Polski](../pl/#bpn7403)» 
-
+----
 
 
 <a id="bpn7404"></a> 
-### Prayer bpn7404 in Polski
 O Ty, przebaczający Boże! Ci oto słudzy zwracają się w stronę Twojego królestwa, pragnąc Twej łaski i szczodrości. O Boże! Uczyń ich serca dobrymi i czystymi, tak aby stali się godni Twojej miłości. Oczyść i uświęć dusze, aby opromieniła je światłość Słońca Rzeczywistości. Oczyść i uświęć ich oczy, aby mogli dostrzec Twój blask. Oczyść i uświęć ich słuch, aby usłyszeli wołanie Twojego królestwa.
     
 O Panie! Zaprawdę jesteśmy słabi, ale Tyś jest mocny. Zaprawdę jesteśmy ubodzy, lecz Tyś jest bogaty. Jesteśmy poszukującymi, a Tyś jest Poszukiwanym. O Panie! Miej litość nad nami i przebacz nam; obdarz nas taką umiejętnością i podatnością, abyśmy stali się godnymi Twoich łask i zostali przywiedzeni do Twojego królestwa, abyśmy mogli nasycić się wodą żywota, aby rozpalił nas ogień Twojej miłości i ożywiło tchnienie Ducha Świętego w tym pełnym światła stuleciu.
@@ -3271,40 +2928,35 @@ O Panie! Obdarz ten sprawiedliwy rząd swoją łaskawą pomocą i umocnieniem. K
     
 Tyś jest Mocnym, Wszechmogącym, Miłosiernym, i Tyś jest Hojnym, Dobroczynnym, Panem niepomiernych łask.
 
-(Source category: Spotkania)
-(Bahaiprayers.net ID: 7404)
+-- Abdu'l-Bahá
 
+bpn7404 «[Polski](../pl/#bpn7404)» 
 
-«[Polski](../pl/#bpn7404)» 
-
+----
 
 
 <a id="bpn7405"></a> 
-### Prayer bpn7405 in Polski
 O Boska Opatrzności! To zgromadzenie tworzą Twoi przyjaciele, których zachwyciło Twoje piękno i rozpalił ogień Twojej miłości. Przemień te dusze w niebiańskie anioły, ożyw je tchnieniem Twojego Ducha Świętego, obdarz je elokwentną mową i niezłomnymi sercami, zapewnij im niebiańską moc oraz zdolność okazywania miłosierdzia; spraw, aby stały się głosicielami jedności rodzaju ludzkiego i przyczyną miłości i zgody w świecie ludzkości, tak aby straszliwa ciemność zacofanych przesądów została rozproszona, dzięki światłu Słońca Prawdy, aby ten ponury świat mógł zostać oświecony, aby ta materialna sfera mogła nasycić się promieniami świata duchowego, aby te różnorodne kolory połączyły się w jedną barwę, a melodie wysławiania mogły unieść się do królestwa Twojej świętości.
     
 Zaprawdę, Tyś jest Wszechmogącym i Wszechpotężnym!
 
-(Source category: Spotkania)
-(Bahaiprayers.net ID: 7405)
+-- Abdu'l-Bahá
 
+bpn7405 «[Polski](../pl/#bpn7405)» 
 
-«[Polski](../pl/#bpn7405)» 
-
+----
 
 
 <a id="bpn7406"></a> 
-### Prayer bpn7406 in Polski
 O Ty, miłujący Żywicielu! Te dusze wsłuchały się w wezwania Królestwa i wpatrzyły w chwałę Słońca Prawdy. Powstały ku orzeźwiającym niebiosom miłości; rozmiłowane są w Twojej naturze i wielbią Twoje piękno. Do Ciebie się zwróciły, rozmawiając o Tobie, poszukując Twojego domostwa i pragnąc strumyków Twojego niebieskiego królestwa. 
     
 Tyś jest Dającym, Obdarowującym, Zawsze Miłującym.
 
-(Source category: Spotkania)
-(Bahaiprayers.net ID: 7406)
+-- Abdu'l-Bahá
 
+bpn7406 «[Polski](../pl/#bpn7406)» 
 
-«[Polski](../pl/#bpn7406)» 
-
+----
 
 
 
@@ -3312,7 +2964,6 @@ Tyś jest Dającym, Obdarowującym, Zawsze Miłującym.
 ## Stałość w Przymierzu
 
 <a id="bpn7408"></a> 
-### Prayer bpn7408 in Polski
 Chwała bądź Tobie, o Królu wieczności i Stworzycielu narodów, Ty, który kształtujesz każdą próchniejącą kość! Błagam Cię na Twoje Imię, którym wezwałeś całą ludzkość do horyzontu swojego majestatu i chwały i poprowadziłeś swoich służebników ku dworowi swojej łaski i względów, abyś zaliczył mnie do tych, którzy uwolnili się od wszystkiego prócz Ciebie i zwrócili się ku Tobie, a których nieszczęścia zrządzone przez Ciebie nie powstrzymały od zwrócenia się ku Twoim darom.
     
 Chwyciłem się, o mój Panie, rękojeści Twojej szczodrości i przylgnąłem wytrwale do rąbka szaty Twojej przychylności. Ześlij przeto na mnie z obłoków swej hojności to, co oczyści mnie ze wspominania kogokolwiek prócz Ciebie i co pozwoli mi zwrócić się do Tego, który jest przedmiotem uwielbienia całej ludzkości, przeciwko któremu stanęli siewcy zamętu, którzy złamali Twoje Przymierze i odstąpili od wiary w Ciebie i w Twoje znaki.
@@ -3321,16 +2972,14 @@ Nie odmawiaj mi, o mój Panie, woni swojej szaty w dniach Twoich i nie pozbawiaj
     
 Nie ma Boga poza Tobą, Wszechmocnym, Wszechmądrym.
 
-(Source category: Stałość w Przymierzu)
-(Bahaiprayers.net ID: 7408)
+-- Bahá'u'lláh
 
+bpn7408 «[Polski](../pl/#bpn7408)» 
 
-«[Polski](../pl/#bpn7408)» 
-
+----
 
 
 <a id="bpn7409"></a> 
-### Prayer bpn7409 in Polski
 On jest Potężnym, Wybaczającym i Współczującym!
     
 O Boże, mój Boże! Ty widzisz swoje sługi w otchłani zguby i błędu. Gdzież jest Twoje światło Boskiego przewodnictwa, o Ty, Upragnienie świata? Ty znasz ich bezradność i słabość. Gdzie jest Twoja siła, o Ty, w którego dłoni znajdują się moce nieba i ziemi?
@@ -3339,58 +2988,51 @@ Błagam Cię, o Panie, Boże mój, na wspaniałość światła Twojej serdecznej
     
 Przeznacz dla mnie, przez Twoją hojność, o Panie, to, co zapewni mi pomyślność w tym i następnym świecie, i co zbliży mnie do Ciebie, o Ty, któryś jest Panem wszystkich ludzi. Nie ma innego Boga poza Tobą, Jedynym, Potężnym i Chwalebnym.
 
-(Source category: Stałość w Przymierzu)
-(Bahaiprayers.net ID: 7409)
+-- Bahá'u'lláh
 
+bpn7409 «[Polski](../pl/#bpn7409)» 
 
-«[Polski](../pl/#bpn7409)» 
-
+----
 
 
 <a id="bpn7410"></a> 
-### Prayer bpn7410 in Polski
 Upewnij nasze kroki na swej ścieżce, o Panie, i umocnij serca nasze w posłuszeństwie Tobie. Zwróć nasze twarze ku pięknu swojej jedyności i rozraduj naszą pierś znakami swej Boskiej jedności. Przystrój ciała nasze szatą swojej hojności, usuń sprzed naszych oczu zasłonę grzeszności i podaj nam kielich swojej łaski; aby istota wszystkich stworzeń mogła opiewać Twoją chwałę przed uosobieniem Twojej wielkości. Objaw się zatem, o Panie, w swoich miłosiernych wypowiedziach i w tajemnicy Twojej Boskiej istoty, aby święta rozkosz modlitwy wypełniła nasze dusze – modlitwy, która wzniesie się ponad słowa i litery i wzbije ponad szmer sylab i dźwięków – aby wszystkie rzeczy stopiły się w nicość wobec objawienia Twojej wspaniałości.
     
 Panie! Oto słudzy, którzy pozostali wierni i wytrwali w Twoim Przymierzu i Testamencie, którzy mocno uchwycili się więzi stałości w Twojej Sprawie i przylgnęli do rąbka szaty Twojej wielkości. Wspomóż ich, o Panie, swoją łaską, utwierdź ich swoją mocą i umocnij ich w posłuszeństwie Tobie.
     
 Tyś jest Przebaczającym, Łaskawym.
 
-(Source category: Stałość w Przymierzu)
-(Bahaiprayers.net ID: 7410)
+-- Abdu'l-Bahá
 
+bpn7410 «[Polski](../pl/#bpn7410)» 
 
-«[Polski](../pl/#bpn7410)» 
-
+----
 
 
 <a id="bpn7411"></a> 
-### Prayer bpn7411 in Polski
 O Boże litościwy! Dzięki ci składam, żeś mnie rozbudził i dał mi świadomość. Tyś mnie widzącym okiem obdarował i słyszącym uchem wyróżnił, Tyś mnie przywiódł do swego królestwa i na swą ścieżkę skierował. Tyś mi drogę właściwą wskazał i sprawił, że wkroczyłem do arki zbawienia. O Boże! Spraw, abym był wierny, wytrwały i niezłomny. Strzeż mnie od gwałtownych prób oraz chroń mnie i zachowaj w umocnionej twierdzy swojego Przymierza i Testamentu. Tyś jest Potężnym. Tyś jest Widzącym. Tyś jest Słyszącym.
     
 O Ty, litościwy Boże! Obdarz mnie sercem, które jak kryształ rozbłyśnie blaskiem Twojej miłości, i natchnij myślami, które dzięki potokom łaski niebiańskiej zmienią ten świat w różany ogród.
     
 Tyś jest Współczującym, Miłosiernym. Tyś jest Wielkim Dobroczynnym Bogiem.
 
-(Source category: Stałość w Przymierzu)
-(Bahaiprayers.net ID: 7411)
+-- Abdu'l-Bahá
 
+bpn7411 «[Polski](../pl/#bpn7411)» 
 
-«[Polski](../pl/#bpn7411)» 
-
+----
 
 
 <a id="bpn7412"></a> 
-### Prayer bpn7412 in Polski
 O mój Panie i moja Nadziejo! Dopomóż swoim umiłowanym, aby byli wytrwali w Twoim potężnym Przymierzu, by pozostali wierni Twojej objawionej Sprawie, oraz aby wypełniali przykazania, któreś ustanowił dla nich w swojej Księdze Wspaniałości; tak aby stali się sztandarami przewodnictwa, luminarzami Zgromadzenia na wysokościach, źródłami Twojej nieograniczonej mądrości i gwiazdami, które prowadzą na właściwą drogę, świecąc z niebiańskiego firmamentu. 
     
 Zaprawdę, Tyś jest Niezwyciężonym, Wszechmocnym, Wszechpotężnym.
 
-(Source category: Stałość w Przymierzu)
-(Bahaiprayers.net ID: 7412)
+-- Abdu'l-Bahá
 
+bpn7412 «[Polski](../pl/#bpn7412)» 
 
-«[Polski](../pl/#bpn7412)» 
-
+----
 
 
 
@@ -3398,21 +3040,18 @@ Zaprawdę, Tyś jest Niezwyciężonym, Wszechmocnym, Wszechpotężnym.
 ## Służba
 
 <a id="bpn7398"></a> 
-### Prayer bpn7398 in Polski
 O Boże i Boże wszystkich Imion, i Stwórco niebios! Błagam Cię na Twoje Imię, przez które Ten, który jest Brzaskiem Twojej potęgi i Miejscem Świtania Twojej mocy, został objawiony, przez które każde ciało stałe zaczęło płynąć i wszyscy martwi zostali rozbudzeni, i każdy poruszający się duch został umocniony – błagam Cię, abyś pozwolił mi wyzbyć się wszelkiego przywiązania do kogokolwiek prócz Ciebie, służyć Twojej Sprawie, pragnąć tego, czegoś Ty sam zapragnął poprzez moc Twojego zwierzchnictwa, i wykonywać to, co miłe Twej woli. 
     
 Błagam Cię ponadto, o mój Boże, abyś ustanowił dla mnie to, co uczyni mnie wystarczająco bogatym, abym mógł obejść się bez kogokolwiek prócz Ciebie. Ty widzisz mnie, o mój Boże, jak zwróciłem moją twarz ku Tobie i jak dłonie moje przylgnęły do więzi Twej łaski. Ześlij na mnie swe miłosierdzie i zapisz dla mnie to, coś zapisał dla swoich wybranych. Mocen jesteś czynić to, co Tobie jest miłe. Nie ma Boga poza Tobą, Zawsze Przebaczającym, Najhojniejszym.
 
-(Source category: Służba)
-(Bahaiprayers.net ID: 7398)
+-- Bahá'u'lláh
 
+bpn7398 «[Polski](../pl/#bpn7398)» 
 
-«[Polski](../pl/#bpn7398)» 
-
+----
 
 
 <a id="bpn7399"></a> 
-### Prayer bpn7399 in Polski
 Oddaję Ci cześć, o mój Boże, za to, że zachwycił mnie zapach Twojej serdecznej życzliwości, a łagodne powiewy Twojego miłosierdzia skłoniły mnie ku Twym szczodrym łaskom. Spraw, abym napił się, o mój Panie, z palców Twej szczodrobliwości, żywej wody, która pozwoliła wszystkim, którzy się nią pokrzepili, wyzbyć się wszelkiego przywiązania do kogokolwiek oprócz Ciebie, oraz wzbić się w sferę uniezależnienia od wszystkich Twoich stworzeń i utkwić wzrok w Twojej miłującej opatrzności i Twoich nieskończonych darach. 
     
 Spraw, abym był gotów, w każdych okolicznościach, o mój Panie, służyć Ci oraz kierować się ku uwielbianemu sanktuarium Twojego Objawienia i Twojego Piękna. Jeśli będzie to miłe Tobie, spraw, abym wzrastał niczym delikatna roślina na łąkach Twej łaski, aby łagodne wiatry Twojej woli mogły mną poruszać i pochylać zgodnie z Twoją wolą w taki sposób, aby mój ruch, a także mój bezruch, całkowicie prowadzone były przez Ciebie. 
@@ -3429,12 +3068,11 @@ Przeznacz dla mnie, o mój Boże, to, co sprawi, że będę stale zwrócony ku T
     
 Tyś zaiste jest Wszechmogącym, Najbardziej Wywyższonym, Wszystkowiedzącym, Wszechmądrym.
 
-(Source category: Służba)
-(Bahaiprayers.net ID: 7399)
+-- Bahá'u'lláh
 
+bpn7399 «[Polski](../pl/#bpn7399)» 
 
-«[Polski](../pl/#bpn7399)» 
-
+----
 
 
 
@@ -3442,7 +3080,6 @@ Tyś zaiste jest Wszechmogącym, Najbardziej Wywyższonym, Wszystkowiedzącym, W
 ## Tablica Aḥmada
 
 <a id="bpn7479"></a> 
-### Prayer bpn7479 in Polski
 *„Te codzienne modlitwy obowiązkowe oraz niektóre wybrane, takie jak Długa modlitwa o uzdrowienie czy Tablica Aḥmada zostały obdarzone przez Bahá’u’lláha wyjątkową mocą i znaczeniem i dlatego powinny być uznane za takowe i odmawiane przez wiernych z niezachwianą wiarą i ufnością, że dzięki nim mogą wejść w znacznie bliższą komunię z Bogiem i pełniej utożsamić się z Jego prawami i przykazaniami.”
 
 *– Z listu napisanego w imieniu Shoghiego Effendiego
@@ -3481,12 +3118,11 @@ Na Boga! Jeśli ten, kto znajdzie się w niedoli lub smutku, przeczyta tę Tabli
      
 Zaprawdę, On jest Miłosiernym, Litościwym. Chwała niech będzie Bogu, Panu wszystkich światów.
 
-(Source category: Tablica Aḥmada)
-(Bahaiprayers.net ID: 7479)
+-- Bahá'u'lláh
 
+bpn7479 «[Polski](../pl/#bpn7479)» 
 
-«[Polski](../pl/#bpn7479)» 
-
+----
 
 
 
@@ -3494,7 +3130,6 @@ Zaprawdę, On jest Miłosiernym, Litościwym. Chwała niech będzie Bogu, Panu w
 ## Tablica Ognia
 
 <a id="bpn7480"></a> 
-### Prayer bpn7480 in Polski
 W Imię Boga, Odwiecznego, Największego.
     
 Zaprawdę, serca prawych trawi ogień rozłąki. Gdzież jest blask światła Twego Oblicza, o Umiłowany światów?
@@ -3597,12 +3232,11 @@ O, ʿAlí-Akbar, podziękuj twemu Panu za tę Tablicę, z której możesz wdycha
      
 Jeżeli wszyscy służebnicy przeczytają i rozważą to, w ich żyłach zapłonie ogień, który rozpłomieni światy.
 
-(Source category: Tablica Ognia)
-(Bahaiprayers.net ID: 7480)
+-- Bahá'u'lláh
 
+bpn7480 «[Polski](../pl/#bpn7480)» 
 
-«[Polski](../pl/#bpn7480)» 
-
+----
 
 
 
@@ -3610,7 +3244,6 @@ Jeżeli wszyscy służebnicy przeczytają i rozważą to, w ich żyłach zapłon
 ## Tablica do Chrześcijan
 
 <a id="bpn7482"></a> 
-### Prayer bpn7482 in Polski
 ##LAWH-I-AQDAS
 *(NAJŚWIĘTSZA TABLICA zwana także TABLICĄ DO CHRZEŚCIJAN)
 
@@ -3646,12 +3279,11 @@ Błogosławiony człowiek, którego poruszyły słodkie wonie ponownego spotkani
 [1] Jezusa
 [2] Jezusa
 
-(Source category: Tablica do Chrześcijan)
-(Bahaiprayers.net ID: 7482)
+-- Bahá'u'lláh
 
+bpn7482 «[Polski](../pl/#bpn7482)» 
 
-«[Polski](../pl/#bpn7482)» 
-
+----
 
 
 
@@ -3659,7 +3291,6 @@ Błogosławiony człowiek, którego poruszyły słodkie wonie ponownego spotkani
 ## Tablica Świętego Żeglarza
 
 <a id="bpn7481"></a> 
-### Prayer bpn7481 in Polski
 *„Wczytajcie się w Tablicę Świętego Żeglarza, abyście poznali prawdę i pamiętali, że Błogosławione Piękno w pełni przepowiedziało przyszłe wypadki. Niech będzie to przestrogą dla tych, którzy są świadomi.”  - ʿAbdu’l-Bahá
 
 
@@ -3895,12 +3526,11 @@ A gdy ujrzały stan, w jakim się znajdowała, i zrozumiały słowo z opowieści
       
 Wysławiony niech będzie nasz Pan, Przenajwyższy!
 
-(Source category: Tablica Świętego Żeglarza)
-(Bahaiprayers.net ID: 7481)
+-- Bahá'u'lláh
 
+bpn7481 «[Polski](../pl/#bpn7481)» 
 
-«[Polski](../pl/#bpn7481)» 
-
+----
 
 
 
@@ -3908,7 +3538,6 @@ Wysławiony niech będzie nasz Pan, Przenajwyższy!
 ## Tablice Nawiedzenia
 
 <a id="bpn7474"></a> 
-### Prayer bpn7474 in Polski
 Tablica ta bywa czytana w Świątyniach, w których Bahá’u’lláh i Báb są pochowani. Często odmawia się ją także podczas obchodów świąt rocznicowych związanych z Ich życiem.
     
 Cześć, która zaświtała z Twojej najczcigodniejszej Istoty, oraz chwała, która zajaśniała z Twojego najjaśniejszego Piękna, spoczywają na Tobie, o Ty, któryś jest Uosobieniem Wielkości, Królem Wieczności i Panem wszystkich znajdujących się w niebie i na ziemi! Świadczę, że dzięki Tobie wszechwładza Boga oraz Jego panowanie, a także majestat Boga oraz Jego wielkość zostały objawione i Jutrzenki pradawnej świetności rozlały swój blask w niebiosach Twoich nieodwołalnych wyroków, i Piękno Niewidzialnego zajaśniało nad horyzontem stworzenia. Świadczę ponadto, że samym tylko pociągnięciem Twojego Pióra Twój nakaz: „Stań się” został ustanowiony i ukryty Sekret Boga wyjawiony, i powołane zostały do życia wszystkie stworzone rzeczy, i zesłane zostały wszystkie Objawienia.
@@ -3925,16 +3554,14 @@ Niechaj duch mój będzie ofiarą za niesprawiedliwości, któreś wycierpiał, 
     
 Błogosław, o Panie, mój Boże, Boskie Drzewo Lote oraz jego liście, i jego konary, i jego gałęzie, i jego łodygi, i jego pędy tak długo, jak długo istnieć będą Twoje najdoskonalsze tytuły i trwać będą Twoje najdostojniejsze przymioty. Chroń je zatem przed niegodziwością najeźdźcy i orszakiem tyranii. Tyś jest zaprawdę Wszechmocnym, Najpotężniejszym. Błogosław także, o Panie, Boże mój, swoich służebników i swoje służebnice, którzy osiągnęli Twoją obecność. Tyś jest, zaiste Wszechszczodrym, którego łaska jest niepomierna. Nie ma Boga poza Tobą, Zawsze Przebaczającym, Najhojniejszym.
 
-(Source category: Tablice Nawiedzenia)
-(Bahaiprayers.net ID: 7474)
+-- Bahá'u'lláh
 
+bpn7474 «[Polski](../pl/#bpn7474)» 
 
-«[Polski](../pl/#bpn7474)» 
-
+----
 
 
 <a id="bpn7475"></a> 
-### Prayer bpn7475 in Polski
 Następującą modlitwę, objawioną przez ʿAbdu’l-Bahę, czyta się w Świątyni, gdzie jest pochowany. Jest ona także odmawiana jako modlitwa osobista.
     
 Ktokolwiek odmówi tę modlitwę z pokorą i żarliwością, ten przyniesie zadowolenie i radość sercu tego Sługi; będzie to nawet tak, jak gdyby spotkał Go twarzą w twarz.
@@ -3951,12 +3578,11 @@ Tą modlitwą Twój sługa wzywa Cię o świtaniu i w porze nocy. Spełnij pragn
     
 Tyś jest Obdarowującym, Litościwym, Najhojniejszym, Łaskawym, Miłosiernym, Współczującym.
 
-(Source category: Tablice Nawiedzenia)
-(Bahaiprayers.net ID: 7475)
+-- Abdu'l-Bahá
 
+bpn7475 «[Polski](../pl/#bpn7475)» 
 
-«[Polski](../pl/#bpn7475)» 
-
+----
 
 
 
@@ -3964,55 +3590,48 @@ Tyś jest Obdarowującym, Litościwym, Najhojniejszym, Łaskawym, Miłosiernym, 
 ## Uniezależnienie się
 
 <a id="bpn7413"></a> 
-### Prayer bpn7413 in Polski
 Pozwól mi, o mój Boże, zbliżyć się do Ciebie i przebywać w otoczeniu Twojego dworu, gdyż oddalenie od Ciebie omalże nie wyniszczyło mnie całkowicie. Spraw, abym spoczywał w cieniu skrzydeł Twojej łaski, gdyż płomień rozłąki z Tobą stopił moje serce. Przybliż mnie do rzeki, która jest prawdziwym życiem, gdyż duszę moją męczy pragnienie w bezustannym poszukiwaniu Ciebie. Moje westchnienia, o mój Boże, głoszą gorycz mojej udręki, a łzy, które wylewam, są świadectwem miłości do Ciebie.
     
 Błagam Cię na wysławianie, którym sławisz samego siebie, i na chwałę, którą wychwalasz swoją własną Istotę, abyśmy zostali zaliczeni do tych, którzy Cię rozpoznali i uznali Twoją wszechwładzę w Twoich Dniach. Dopomóż nam więc, o mój Boże, pić żarliwie z palców miłosierdzia życiodajną wodę Twojej serdecznej dobroci, abyśmy całkowicie zapomnieli o wszystkim z wyjątkiem Ciebie i zajmowali się jedynie Tobą. Mocen jesteś czynić wszystko wedle swojej woli. Nie ma innego Boga poza Tobą, Potężnym, Pomocą w Niebezpieczeństwie, Samoistnym.
     
 Pochwalone bądź Imię Twoje, o Ty, który jesteś Królem wszystkich Królów!
 
-(Source category: Uniezależnienie się)
-(Bahaiprayers.net ID: 7413)
+-- Bahá'u'lláh
 
+bpn7413 «[Polski](../pl/#bpn7413)» 
 
-«[Polski](../pl/#bpn7413)» 
-
+----
 
 
 <a id="bpn7414"></a> 
-### Prayer bpn7414 in Polski
 Pochwalony bądź, o mój Boże! Dzięki Ci składam za to, żeś dał mi poznać Tego, który jest Brzaskiem Twego miłosierdzia, Miejscem Świtania Twojej łaski i Skarbnicą Twojej Sprawy. Błagam Cię na Twoje Imię, przez które pobladły oblicza bliskich Tobie, a serca Tobie oddanych poszybowały ku Tobie, spraw, abym zawsze i we wszystkich okolicznościach trzymał się Twojej więzi i uwolnił od wszelkiego przywiązania do kogokolwiek oprócz Ciebie, i aby oczy moje zawsze skierowane były w stronę horyzontu Twojego Objawienia oraz abym wykonywał to, coś przykazał mi w swoich Tablicach.
     
 Przyodziej, o mój Panie, moją wewnętrzną i zewnętrzną istotę szatą swoich łaskawości i swej serdecznej dobroci. Uchroń mnie zatem od wszystkiego, co budzi Twoją odrazę i łaskawie dopomóż mi i moim bliskim, abyśmy byli Ci posłuszni i abym stronił od wszystkiego, co może rozbudzić we mnie złe i wypaczone pragnienie.
     
 Tyś prawdziwie jest Panem całej ludzkości, który w swoim posiadaniu ma ten świat i przyszły. Nie ma Boga poza Tobą, Wszechwiedzącym, Wszechmądrym.
 
-(Source category: Uniezależnienie się)
-(Bahaiprayers.net ID: 7414)
+-- Bahá'u'lláh
 
+bpn7414 «[Polski](../pl/#bpn7414)» 
 
-«[Polski](../pl/#bpn7414)» 
-
+----
 
 
 <a id="bpn7415"></a> 
-### Prayer bpn7415 in Polski
 Niech będzie pochwalone Imię Twoje, o mój Boże! Błagam Cię na wonności szaty Twojej łaski, które na Twój rozkaz i zgodnie z Twoim życzeniem przeniknęły całe stworzenie i na Jutrzenkę Twojej woli, która zajaśniała potęgą Twojej mocy i wszechwładzy ponad horyzontem Twojego miłosierdzia, abyś wymazał z mojego serca wszelkie próżne upodobania i puste wyobrażenia, tak abym wszystkie moje uczucia skierował ku Tobie, o Ty, Panie całej ludzkości!
     
 Jestem Twoim sługą i synem Twojego sługi, o mój Boże! Uchwyciłem się rękojeści Twojej łaski i mocno przywarłem do więzi Twojego czułego miłosierdzia. Racz obdarzyć mnie swoimi dobrami i nakarm mnie obficie ze Stołu, któryś zesłał z obłoków swojej szczodrości i z nieba swej przychylności.
     
 Tyś, w samej prawdzie, jest Panem światów i Bogiem wszystkich, którzy są w niebie i wszystkich, którzy są na ziemi.
 
-(Source category: Uniezależnienie się)
-(Bahaiprayers.net ID: 7415)
+-- Bahá'u'lláh
 
+bpn7415 «[Polski](../pl/#bpn7415)» 
 
-«[Polski](../pl/#bpn7415)» 
-
+----
 
 
 <a id="bpn7416"></a> 
-### Prayer bpn7416 in Polski
 Wiele oziębłych serc, o mój Boże, rozpalił ogień Twojej Sprawy i wielu uśpionych obudziła słodycz Twojego głosu. Iluż to obcych szukało schronienia w cieniu drzewa Twojej jedności i iluż spragnionych łaknęło w dniach Twoich zdroju Twojej wody życia!
     
 Błogosławiony jest ten, który skierował się ku Tobie i pospieszył, aby dotrzeć do brzasku światłości Twojego oblicza. Błogosławiony jest ten, który z pełnią uczuć zwrócił się w stronę Miejsca Świtu Twego Objawienia i Krynicy Twojego natchnienia. Błogosławiony jest ten, który na Twojej ścieżce poświęcił wszystko, czymś go obdarzył w swojej szczodrości i łaskawości. Błogosławiony jest ten, który w swej przejmującej tęsknocie za Tobą wyzbył się wszystkiego z wyjątkiem Ciebie. Błogosławiony jest ten, który raduje się bliską komunią z Tobą i uwolnił się od wszelkiego przywiązania do kogokolwiek prócz Ciebie.
@@ -4021,16 +3640,14 @@ Błagam Cię, o mój Panie, na Tego, który jest Twoim Imieniem, który siłą T
     
 Twoja moc, zaiste, może wszystko sprawić.
 
-(Source category: Uniezależnienie się)
-(Bahaiprayers.net ID: 7416)
+-- Bahá'u'lláh
 
+bpn7416 «[Polski](../pl/#bpn7416)» 
 
-«[Polski](../pl/#bpn7416)» 
-
+----
 
 
 <a id="bpn7417"></a> 
-### Prayer bpn7417 in Polski
 Nie wiem, o mój Boże, jakiż to Ogień roznieciłeś w swojej krainie. Ziemia nigdy nie zdoła przyćmić jego wspaniałości, a woda nie zagasi jego płomienia. Żaden z ludów ziemi nie jest w stanie oprzeć się jego sile. Wielkie jest błogosławieństwo tego, który przybliżył się do niego i usłyszał jego trzask.
     
 Tyś wybranym umożliwił, o mój Boże, dzięki swej umacniającej łasce zbliżyć się do niego, kiedy to innych trzymasz z dala ze względu na to, co ich ręce wyrządziły w dniach Twoich. Kto tylko pospieszył ku niemu i dotarł do niego z pragnieniem oglądania Twego piękna, ten złożył swoje życie na Twojej ścieżce i wzniósł się do Ciebie, całkowicie niezależny od wszystkiego poza Tobą.
@@ -4039,16 +3656,14 @@ Błagam Cię, o mój Panie, na ten Ogień, który płonie i szaleje w świecie s
     
 Mocen jesteś czynić wedle Twego upodobania. Tyś jest zaprawdę Wszechpotężnym, Najhojniejszym.
 
-(Source category: Uniezależnienie się)
-(Bahaiprayers.net ID: 7417)
+-- Bahá'u'lláh
 
+bpn7417 «[Polski](../pl/#bpn7417)» 
 
-«[Polski](../pl/#bpn7417)» 
-
+----
 
 
 <a id="bpn7418"></a> 
-### Prayer bpn7418 in Polski
 Pochwalony bądź, o mój Boże! Jestem jednym z Twoich służebników, którzy uwierzyli w Ciebie i w Twoje znaki. Ty widzisz, żem skierował się ku bramie Twojego miłosierdzia i zwrócił twarz ku Twojej serdecznej dobroci. Błagam Cię na Twoje najdoskonalsze tytuły i najwznioślejsze przymioty, abyś otworzył przede mną wrota swoich darów. Pomóż mi czynić to, co dobre, o Ty, któryś jest w posiadaniu wszystkich imion i przymiotów!
     
 Jestem ubogi, o mój Panie, a Tyś jest Bogaczem. Zwróciłem twarz ku Tobie i uniezależniłem się od wszystkiego oprócz Ciebie. Nie pozbawiaj mnie, błagam Cię, powiewów Twojego czułego miłosierdzia i nie odmawiaj mi tego, coś przeznaczył dla Twoich wybranych służebników.
@@ -4059,16 +3674,14 @@ Dzięki Ci składam, o mój Panie, żeś mnie ze snu przebudził, poruszył mną
     
 Nie ma innego Boga poza Tobą, Wszechmogącym, Dobroczynnym.
 
-(Source category: Uniezależnienie się)
-(Bahaiprayers.net ID: 7418)
+-- Bahá'u'lláh
 
+bpn7418 «[Polski](../pl/#bpn7418)» 
 
-«[Polski](../pl/#bpn7418)» 
-
+----
 
 
 <a id="bpn7419"></a> 
-### Prayer bpn7419 in Polski
 W Imię Twego Pana, Stwórcy, Władcy, Wszechwystarczającego i Najwznioślejszego, o którego pomoc błagają wszyscy ludzie.
     
 Powiedz: O mój Boże! O Ty, któryś jest Stwórcą nieba i ziemi, o Panie Królestwa! Ty dobrze znasz tajemnice mego serca, a Twoja Istota jest nieprzenikniona dla kogokolwiek za wyjątkiem Ciebie samego. Ty widzisz, kim jestem, a tego nie potrafi nikt. Racz udzielić mi przez swoją łaskę tego, co pozwoli mi obyć się bez wszystkiego poza Tobą, i przeznacz dla mnie to, co uczyni mnie niezależnym od wszystkich prócz Ciebie. Dozwól mi zbierać plony mojego życia w tym i w przyszłym świecie. Otwórz przede mną bramy łaski swojej i łaskawie obdarz mnie swoim czułym miłosierdziem i darami.
@@ -4077,28 +3690,24 @@ O Ty, któryś jest Panem obfitych łask! Niech Twoja niebiańska pomoc otoczy t
     
 Udziel swych błogosławieństw, o mój Panie, Posłańcom, świętym i prawym. Zaiste, Tyś jest Bogiem, Niezrównanym, Zniewalającym.
 
-(Source category: Uniezależnienie się)
-(Bahaiprayers.net ID: 7419)
+-- Báb
 
+bpn7419 «[Polski](../pl/#bpn7419)» 
 
-«[Polski](../pl/#bpn7419)» 
-
+----
 
 
 <a id="bpn7421"></a> 
-### Prayer bpn7421 in Polski
 Powiedz: Bóg wystarcza wszelkiemu stworzeniu ponad wszystko i nic w niebie ani na ziemi nie wystarcza, tylko Bóg. Zaiste, On sam w sobie jest Wiedzącym, Podtrzymującym, Wszechmocnym.
 
-(Source category: Uniezależnienie się)
-(Bahaiprayers.net ID: 7421)
+-- Báb
 
+bpn7421 «[Polski](../pl/#bpn7421)» 
 
-«[Polski](../pl/#bpn7421)» 
-
+----
 
 
 <a id="bpn7420"></a> 
-### Prayer bpn7420 in Polski
 O Panie! U Ciebie szukam schronienia i ku wszystkim Twoim znakom kieruję serce moje.
     
 O Panie! W podróży będąc czy w domu, podczas moich zajęć czy pracy, w Tobie pokładam całą moją ufność.
@@ -4109,16 +3718,14 @@ Przyznaj mi moją część wedle swojej woli, o Panie, i spraw, abym zadowolił 
     
 Twoją jest wszelka władza rozkazywania.
 
-(Source category: Uniezależnienie się)
-(Bahaiprayers.net ID: 7420)
+-- Báb
 
+bpn7420 «[Polski](../pl/#bpn7420)» 
 
-«[Polski](../pl/#bpn7420)» 
-
+----
 
 
 <a id="bpn7422"></a> 
-### Prayer bpn7422 in Polski
 O Boże, mój Boże! Ty jesteś moją Nadzieją i moim Umiłowanym, moim najwyższym Celem i Upragnieniem! Z wielką pokorą i całkowitym oddaniem błagam Cię, abyś uczynił mnie minaretem Twojej miłości w Twojej krainie, kagankiem Twojej wiedzy pośród Twoich stworzeń i sztandarem Boskiej łaski w Twoim królestwie.
     
 Zalicz mnie do tych spośród sług Twoich, którzy uniezależnili się od wszystkiego prócz Ciebie, którzy wznieśli się ponad przelotne sprawy tego świata i oswobodzili się od podszeptów głosicieli próżnych upodobań.
@@ -4127,28 +3734,25 @@ Pozwól, by moje serce przepełniło się radością dzięki duchowi umocnienia 
     
 Ty jesteś, zaprawdę, Wszechmocnym, Wszechsławnym, Wszechpotężnym.
 
-(Source category: Uniezależnienie się)
-(Bahaiprayers.net ID: 7422)
+-- Abdu'l-Bahá
 
+bpn7422 «[Polski](../pl/#bpn7422)» 
 
-«[Polski](../pl/#bpn7422)» 
-
+----
 
 
 <a id="bpn7423"></a> 
-### Prayer bpn7423 in Polski
 O Boże, mój Boże! Napełnij dla mnie czarę niezależności od wszelkich rzeczy i w otoczeniu Twoich wspaniałości i łask uraduj mnie winem miłowania Ciebie. Uwolnij mnie od porywów namiętności i pożądania, zerwij ze mnie okowy tego ziemskiego świata, porwij mnie w zachwycie do Twojego niebiańskiego królestwa i pośród służebnic orzeźwij mnie tchnieniem swojej świętości.
     
 O Panie, rozjaśnij moje oblicze światłem swoich darów, oświeć oczy oglądaniem znaków Twojej wszechujarzmiającej mocy; zachwyć serce moje wspaniałością swojej wiedzy, która obejmuje wszystkie rzeczy i uraduj moją duszę ożywiającą ducha nowiną wielkiej radości, o Ty, Królu tego świata i Królestwa na wysokościach, o Ty, Panie władania i mocy; spraw, abym mogła oznajmiać na wszystkie strony Twoje znaki i dowody, głosić Twoją Sprawę, krzewić Twoje Nauki, służyć Twojemu Prawu i wywyższać Twoje Słowo.
     
 Tyś zaprawdę jest Potężnym, Nieustannie Dającym, Mogącym, Wszechmocnym.
 
-(Source category: Uniezależnienie się)
-(Bahaiprayers.net ID: 7423)
+-- Abdu'l-Bahá
 
+bpn7423 «[Polski](../pl/#bpn7423)» 
 
-«[Polski](../pl/#bpn7423)» 
-
+----
 
 
 
@@ -4156,45 +3760,39 @@ Tyś zaprawdę jest Potężnym, Nieustannie Dającym, Mogącym, Wszechmocnym.
 ## Uzdrowienie
 
 <a id="bpn7424"></a> 
-### Prayer bpn7424 in Polski
 O Boże, mój Boże! Błagam Cię na ocean Twego uzdrowienia, na wspaniałość Jutrzenki Twojej łaski i na Twoje Imię, którym zdobyłeś swoje sługi, na wszechprzenikającą moc Twojego najwznioślejszego Słowa i na potęgę Twojego najdostojniejszego Pióra, i na Twoje miłosierdzie, które poprzedziło stworzenie wszystkich, którzy są w niebie i na ziemi, abyś obmył mnie wodami Twojej szczodrości z każdej dolegliwości i choroby, z wszelkiej słabości i bezsilności.
     
 Ty widzisz, o mój Panie, Twego pokornie proszącego, czekającego u wrót Twojej łaski, tego, który złożył w Tobie całą nadzieję, trzymając się więzi Twojej hojności. Nie odmawiaj mu, błagam Cię, tego, czego pragnie on z oceanu Twojej łaski i Jutrzenki Twojej serdecznej dobroci.
     
 Mocen jesteś czynić wszystko wedle swego upodobania. Nie ma innego Boga poza Tobą, Zawsze Przebaczającym i Najhojniejszym.
 
-(Source category: Uzdrowienie)
-(Bahaiprayers.net ID: 7424)
+-- Bahá'u'lláh
 
+bpn7424 «[Polski](../pl/#bpn7424)» 
 
-«[Polski](../pl/#bpn7424)» 
-
+----
 
 
 <a id="bpn7426"></a> 
-### Prayer bpn7426 in Polski
 Chwała bądź Tobie, o mój Boże! Błagam Cię na Twoje Imię, przez któreś wzniósł sztandar swojego przewodnictwa, rozlał blask swojej serdecznej dobroci i objawił suwerenność swego panowania; przez które lampa Twoich imion pojawiła się w miejscu Twoich przymiotów i zajaśniał Ten, który jest Tabernakulum Twojej jedności i Uosobieniem uniezależnienia; przez które jawne stały się drogi Twojego przewodnictwa i wyznaczone ścieżki Twojego upodobania; przez które zatrzęsły się fundamenty błędu i obalone zostały znaki niegodziwości; przez które wytrysnęły fontanny mądrości i zesłany został niebiański stół; przez któreś ocalił swoich służebników i udzielił im swojego uzdrowienia; przez któreś okazał swoim służebnikom swoje czułe miłosierdzie i objawił swoje przebaczenie pośród stworzeń swoich – błagam Cię, chroń tego, który przylgnął i powrócił do Ciebie, przywarł do Twojego miłosierdzia i uchwycił się rąbka Twojej miłościwej opatrzności. Ześlij więc na niego swoje uzdrowienie, przywróć pełnię sił, obdarz stałością, której Ty udzielasz, i spokojem zsyłanym z Twoich wyżyn.
     
 Tyś zaprawdę jest Uzdrawiającym, Ocalającym, Pomagającym, Wszechmogącym, Potężnym, Wszechchwalebnym, Wszechwiedzącym.
 
-(Source category: Uzdrowienie)
-(Bahaiprayers.net ID: 7426)
+-- Bahá'u'lláh
 
+bpn7426 «[Polski](../pl/#bpn7426)» 
 
-«[Polski](../pl/#bpn7426)» 
-
+----
 
 
 <a id="bpn7425"></a> 
-### Prayer bpn7425 in Polski
 Twoje imię jest moim uzdrowieniem, o mój Boże, a pamięć o Tobie jest moim lekarstwem. Bliskość Twoja jest moją nadzieją, a miłość do Ciebie moim towarzyszem. Miłosierdzie Twoje jest moim uzdrowieniem i pomocą, zarówno w tym, jak i w przyszłym świecie. Zaprawdę, Tyś jest Najhojniejszym, Wszechwiedzącym i Wszechmądrym.
 
-(Source category: Uzdrowienie)
-(Bahaiprayers.net ID: 7425)
+-- Bahá'u'lláh
 
+bpn7425 «[Polski](../pl/#bpn7425)» 
 
-«[Polski](../pl/#bpn7425)» 
-
+----
 
 
 
@@ -4202,35 +3800,31 @@ Twoje imię jest moim uzdrowieniem, o mój Boże, a pamięć o Tobie jest moim l
 ## Wieczór
 
 <a id="bpn7429"></a> 
-### Prayer bpn7429 in Polski
 O mój Boże, mój Mistrzu i Celu mojego pragnienia! Ten oto sługa Twój szuka snu w schronieniu Twojego miłosierdzia i odpoczynku pod baldachimem Twojej łaski, prosząc o Twoją opiekę i ochronę.
     
 Błagam Cię, o Panie mój, abyś swym wiecznie czuwającym okiem strzegł oczu moich przed dostrzeganiem czegokolwiek innego poza Tobą. Wzmocnij przeto mój wzrok, abym umiał rozpoznać Twoje znaki i dostrzec Horyzont Twojego Objawienia. Ty jesteś Tym, przed którego objawioną wszechmocą zadrżała kwintesencja potęgi.
     
 Nie ma innego Boga poza Tobą, Wszechmocnym, Wszechujarzmiającym, Nieuwarunkowanym.
 
-(Source category: Wieczór)
-(Bahaiprayers.net ID: 7429)
+-- Bahá'u'lláh
 
+bpn7429 «[Polski](../pl/#bpn7429)» 
 
-«[Polski](../pl/#bpn7429)» 
-
+----
 
 
 <a id="bpn7430"></a> 
-### Prayer bpn7430 in Polski
 Jakże mogę wybrać sen, o Boże, mój Boże, gdy oczy tych, którzy za Tobą tęsknią, czuwają z powodu rozłąki z Tobą, i jakże mogę udać się na spoczynek, kiedy dusze Ciebie miłujących wielce strapione są z powodu oddalenia od Ciebie?
     
  Powierzyłem, o mój Panie, mojego ducha i całą moją istotę prawicy Twojej potęgi i Twojej opieki, a moją głowę składam na posłanie, dzięki Twojej mocy i podnoszę ją zgodnie z Twoją wolą i Twoim życzeniem. Tyś jest zaprawdę Ochraniającym, Stróżem, Wszechmocnym, Najpotężniejszym.
     
 Na Twoją moc, we śnie czy na jawie, o nic innego nie proszę prócz tego, czego Ty pragniesz. Jestem Twoim sługą i w Twoich rękach się znajduję. Pomóż mi łaskawie czynić to, co rozniesie woń Twojego zadowolenia. To prawdziwie jest moją nadzieją i nadzieją tych, którzy cieszą się Twoją bliskością. Pochwalony bądź, o Panie światów!
 
-(Source category: Wieczór)
-(Bahaiprayers.net ID: 7430)
+-- Bahá'u'lláh
 
+bpn7430 «[Polski](../pl/#bpn7430)» 
 
-«[Polski](../pl/#bpn7430)» 
-
+----
 
 
 
@@ -4238,21 +3832,18 @@ Na Twoją moc, we śnie czy na jawie, o nic innego nie proszę prócz tego, czeg
 ## Wysławianie i wdzięczność
 
 <a id="bpn7432"></a> 
-### Prayer bpn7432 in Polski
 Wszelka cześć bądź Tobie, o mój Boże, któryś jest Źródłem wszelkiej chwały i majestatu, wielkości i honoru, wszechwładzy i panowania, wzniosłości i łaski, podziwu i potęgi. Komukolwiek zechcesz, pozwalasz zbliżyć się do Największego Oceanu, a kogo zechcesz, obdarzasz zaszczytem rozpoznania Twego Pradawnego Imienia. Nikt spośród tych, którzy znajdują się w niebie i na ziemi, nie zdoła oprzeć się działaniu Twojej suwerennej Woli. Od wiek wieków Tyś rządził całym stworzeniem i po wieczność sprawować będziesz władzę nad wszystkimi stworzonymi rzeczami. Nie ma innego Boga poza Tobą, Wszechmocnym, Najwznioślejszym, Wszechpotężnym, Wszechmądrym.
     
 Oświeć twarze swoich służebników, o Panie, aby mogli ujrzeć Ciebie; oraz oczyść ich serca, aby mogli zwrócić się ku dworowi Twoich niebiańskich dobrodziejstw i rozpoznać Tego, który jest uosobieniem Ciebie samego i Świtem Twojej Istoty. Zaprawdę, Tyś jest Panem wszystkich światów. Nie ma Boga poza Tobą, Nieograniczonym, Wszystko Ujarzmiającym.
 
-(Source category: Wysławianie i wdzięczność)
-(Bahaiprayers.net ID: 7432)
+-- Bahá'u'lláh
 
+bpn7432 «[Polski](../pl/#bpn7432)» 
 
-«[Polski](../pl/#bpn7432)» 
-
+----
 
 
 <a id="bpn7433"></a> 
-### Prayer bpn7433 in Polski
 W Imię Boga, Najwyższego! Wysławiony i pochwalony bądź, Panie, Boże Wszechmogący! O Ty, którego mądrości mędrzec nie dorówna ani nie sprosta, przed którego wiedzą uczony wyznaje swoją niewiedzę, przed którego potęgą mocarny słabnie, przed którego bogactwem zamożny świadczy o swoim ubóstwie, przed którego światłością oświecony gubi się w ciemnościach, ku którego świątyni mądrości zwraca się istota wszelkiego zrozumienia, a wokół którego sanktuarium obecności krążą dusze całej ludzkości.
     
 Jakżeż mogę więc opiewać i rozprawiać o Twojej Istocie, której ani mądrość mędrców, ani wiedza uczonych nie zdołały ogarnąć, gdyż żaden człowiek nie może opiewać tego, czego nie pojmuje, ani też opowiadać o tym, czego nie może dostąpić, albowiem Tyś od zarania wieków był Niedosiężny, Nieprzenikniony. Choć nie jestem w stanie wznieść się do niebios Twojej chwały ani szybować w królestwach Twojej wiedzy, jednak mogę opowiadać o Twoich znakach, które mówią o Twoich wspaniałych dziełach.
@@ -4261,60 +3852,52 @@ Na Twoją Chwałę! O Umiłowany wszystkich serc, o Ty, któryś sam jeden zdoln
     
 Wszelka cześć i chwała niech będą Tobie, o którym wszystkie rzeczy dają świadectwo, żeś jest jeden i że nie ma innego Boga poza Tobą, któryś od zawsze był wywyższony ponad wszelkie podobieństwa i porównania i takim na wieczność pozostaniesz. Wszyscy monarchowie są jedynie Twoimi sługami, a wszystkie stworzenia widzialne i niewidzialne są ledwie nicością przy Tobie. Nie ma innego Boga poza Tobą, Łaskawym, Potężnym, Najwyższym.
 
-(Source category: Wysławianie i wdzięczność)
-(Bahaiprayers.net ID: 7433)
+-- Bahá'u'lláh
 
+bpn7433 «[Polski](../pl/#bpn7433)» 
 
-«[Polski](../pl/#bpn7433)» 
-
+----
 
 
 <a id="bpn7434"></a> 
-### Prayer bpn7434 in Polski
 Wysławione niechaj będzie Imię Twoje, o Panie, Boże mój! Ty jesteś Tym, któremu wszystko oddaje cześć, a który sam nie czci nikogo, który jest Panem wszystkiego, a niczyim poddanym, któremu znane jest wszystko, a który nie jest poznany przez nikogo. Pragnąłeś objawić się ludziom, przeto jednym Słowem ust swoich powołałeś do życia wszelkie stworzenie i stworzyłeś wszechświat. Nie ma innego Boga poza Tobą, Kształtującym, Stwórcą, Wszechmocnym i Najpotężniejszym.
     
 Błagam Cię na to Słowo, które zajaśniało ponad horyzontem Twojej woli, abyś dozwolił mi pić obficie wodę życia, którą ożywiłeś serca swoich wybranych i rozbudziłeś dusze tych, którzy Cię miłują, tak abym mógł zawsze i w każdych okolicznościach całkowicie zwrócić twarz ku Tobie.
     
 Tyś jest Bogiem mocy, chwały i szczodrobliwości. Nie ma innego Boga poza Tobą, Najwyższym Władcą, Najchwalebniejszym, Wszechwiedzącym.
 
-(Source category: Wysławianie i wdzięczność)
-(Bahaiprayers.net ID: 7434)
+-- Bahá'u'lláh
 
+bpn7434 «[Polski](../pl/#bpn7434)» 
 
-«[Polski](../pl/#bpn7434)» 
-
+----
 
 
 <a id="bpn7435"></a> 
-### Prayer bpn7435 in Polski
 Pochwalony bądź, o Panie, mój Boże! Dzięki Ci składam za to, żeś pozwolił mi rozpoznać Objawienie Ciebie samego i za to, żeś odłączył mnie od swoich wrogów i ujawnił mi ich złe i niegodziwe czyny popełnione w dniach Twoich, i za to, żeś oswobodził mnie ze wszelkich związków z nimi oraz sprawił, że zwróciłem się całkowicie w stronę Twojej łaski i hojnych darów. Dzięki Ci składam również za to, żeś zesłał na mnie z obłoków swojej woli to, co uwolniło mnie od podszeptów niewiernych i namów wiarołomnych tak, że na Tobie mocno skupiłem moje serce i uciekłem od tych, którzy zaprzeczyli światłości Twojego oblicza. I dziękuję Ci także za to, żeś dał mi moc wytrwania w Twojej miłości i głoszenia Twojej chwały oraz wychwalania Twoich cnót, i za to, żeś dał mi napić się z czary Twojego miłosierdzia, które przewyższyło wszystkie rzeczy widzialne i niewidzialne.
     
 Tyś jest Wszechmocnym, Najwznioślejszym, Najchwalebniejszym, Wszechmiłującym.
 
-(Source category: Wysławianie i wdzięczność)
-(Bahaiprayers.net ID: 7435)
+-- Bahá'u'lláh
 
+bpn7435 «[Polski](../pl/#bpn7435)» 
 
-«[Polski](../pl/#bpn7435)» 
-
+----
 
 
 <a id="bpn7436"></a> 
-### Prayer bpn7436 in Polski
 Pochwalony bądź, o Panie, mój Boże! Ilekroć próbuję Cię wspominać, powstrzymuje mnie wzniosłość Twego stanu i obezwładniająca wspaniałość Twojej mocy. Gdybym Cię sławił w całym Twoim królestwie i tak długo, jak długo trwa Twoje panowanie, zobaczyłbym, że moje wysławianie Ciebie stosowne jest jedynie dla takich jak ja, którzy sami są Twoimi stworzeniami powstałymi mocą Twojego rozkazu i ukształtowanymi potęgą Twojej woli. A kiedy tylko moje pióro przypisuje chwałę któremukolwiek z Twoich imion, to zdaje mi się, że słyszę głos jego lamentu z powodu oddalenia od Ciebie i poznaję jego płacz spowodowany rozłąką z Tobą. Świadczę, że wszystko, co nie jest Tobą, jest jedynie Twoim stworzeniem, które trzymasz w zagłębieniu swojej dłoni. To, że przyjmujesz jakikolwiek czyn lub pochwałę od swoich stworzeń, jest jedynie dowodem cudów Twojej łaski i szczodrych dobrodziejstw oraz przejawem Twojej wspaniałomyślności i opatrzności.
     
 Błagam Cię, o mój Panie, przez Twoje Największe Imię, z pomocą którego rozdzieliłeś światło od ognia i prawdę od zaprzeczenia, racz zesłać na mnie i na moich umiłowanych, którzy są mi bliscy, dobra tego świata i świata, który nastąpi. Obdarz nas więc swoimi cudownymi darami, które ukryte są przed oczyma ludzi. Tyś jest, zaprawdę, Twórcą wszelkiego stworzenia. Nie ma Boga poza Tobą, Wszechmocnym, Najchwalebniejszym, Najwyższym.
 
-(Source category: Wysławianie i wdzięczność)
-(Bahaiprayers.net ID: 7436)
+-- Bahá'u'lláh
 
+bpn7436 «[Polski](../pl/#bpn7436)» 
 
-«[Polski](../pl/#bpn7436)» 
-
+----
 
 
 <a id="bpn7437"></a> 
-### Prayer bpn7437 in Polski
 On jest Bogiem, wywyższony jest On, Pan potęgi i majestatu!
     
 O Boże, mój Boże! Dzięki Ci składam w każdym momencie i sławię Cię w każdych warunkach.
@@ -4341,28 +3924,25 @@ W więzieniu wszelka wierność jest Twoja, o Ty, Zsyłający dary, i w niewoli 
      
 Wszelka łaska jest Twoja, o Ty, który jesteś Panem łaski i Władcą łaski, i Królem łaski! Daję świadectwo, że należy Cię wielbić w Twoich poczynaniach, o Ty, Źródło łaski, i być posłusznym Twoim żądaniom, o Ty, Oceanie łaski, Ty, od którego wszelka łaska pochodzi i do którego wszelka łaska powraca!
 
-(Source category: Wysławianie i wdzięczność)
-(Bahaiprayers.net ID: 7437)
+-- Bahá'u'lláh
 
+bpn7437 «[Polski](../pl/#bpn7437)» 
 
-«[Polski](../pl/#bpn7437)» 
-
+----
 
 
 <a id="bpn7438"></a> 
-### Prayer bpn7438 in Polski
 Wszelki majestat i chwała, o Boże mój, wszelkie panowanie i światłość, i wielkość, i wspaniałość niechaj będą Tobie. Ty obdarzasz władzą kogokolwiek zechcesz i odmawiasz jej komukolwiek zapragniesz. Nie ma innego Boga poza Tobą, Wszystko Posiadającym, Najwznioślejszym. Tyś jest Tym, który z nicości tworzy wszechświat i wszystko, co się w nim kryje. Nic nie jest godne Ciebie poza Tobą samym, wszyscy oprócz Ciebie są wygnańcami w Twojej świętej obecności i niczym w porównaniu z chwałą Twojej własnej Istoty.
     
 Niegodzien jestem, by wysławiać Twoje cnoty, lecz mogę Cię wysławiać jedynie tym, czym Tyś sam siebie wysławiał w swojej doniosłej Księdze, w której mówisz: „Żaden wzrok Go nie ogarnia, lecz On ogarnia wszystko. On jest Wnikliwym, Wszystko Dostrzegającym” . Chwała Ci bądź, o mój Boże, zaiste, żaden umysł ani wzrok, jakkolwiek bystry i spostrzegawczy, nigdy nie uchwyci natury najmniej znaczącego z Twoich znaków. Zaprawdę, Tyś jest Bogiem i nie ma innego Boga poza Tobą. Świadczę o tym, że jedynie Tyś sam jest wyrazem swoich przymiotów i że czyjekolwiek wysławianie poza Twoim nigdy nie dotrze do Twego świętego dworu ani nikt prócz Ciebie nie pojmie żadnego z Twoich przymiotów.
     
 Chwała Tobie, wywyższony jesteś ponad opis kogokolwiek poza swoim, albowiem stosowne wysławianie Twoich cnót oraz zrozumienie ukrytej rzeczywistości Twojej Istoty przekracza ludzkie pojmowanie. Zbyt znakomita Twoja chwała, by opisywały Cię Twoje stworzenia i by kiedykolwiek poznał Cię ktokolwiek poza Tobą samym. Poznałem Cię, o mój Boże, albowiem Tyś dał mi poznać siebie, a nie poznałbym Cię, gdybyś mi się nie objawił. Wielbię Cię, albowiem Tyś mnie do siebie wezwał, a nie wielbiłbym Cię, gdyby nie Twoje wezwania.
 
-(Source category: Wysławianie i wdzięczność)
-(Bahaiprayers.net ID: 7438)
+-- Báb
 
+bpn7438 «[Polski](../pl/#bpn7438)» 
 
-«[Polski](../pl/#bpn7438)» 
-
+----
 
 
 
@@ -4370,53 +3950,46 @@ Chwała Tobie, wywyższony jesteś ponad opis kogokolwiek poza swoim, albowiem s
 ## Wytrwałość
 
 <a id="bpn7439"></a> 
-### Prayer bpn7439 in Polski
 Wysławiam Twoje Imię, o mój Boże, i Tobie składam dziękczynienie, o moje Pragnienie, za to, żeś umożliwił mi jasno dostrzec Twoją prostą Drogę, żeś oczom moim ujawnił swoje Wielkie Oznajmienie i pomógł mi zwrócić twarz moją w stronę Brzasku Twego Objawienia i ku Krynicy Twojej Sprawy, w czasie, gdy słudzy Twoi i lud Twój odwrócili się od Ciebie. Błagam Cię, o Panie Królestwa wieczności, na przenikliwy głos Pióra Chwały, na Płonący Ogień, który głośno nawołuje z bujnego od zieleni Drzewa, oraz na Arkę, którą Tyś szczególnie wybrał dla ludzi Bahá, abyś zezwolił mi pozostać wytrwałym w mej miłości do Ciebie, abym był zadowolony z wszystkiego, coś zapisał dla mnie w swojej Księdze i abym mógł stać niezłomny w służbie Tobie oraz w służbie Twoim umiłowanym. Łaskawie pomóż zatem swoim sługom, o mój Boże, czynić to, co służyć będzie wywyższeniu Twojej Sprawy i pozwoli im przestrzegać wszystkiego, coś objawił w swojej Księdze. 
     
 Zaprawdę, Tyś jest Panem Siły, mocen jesteś ustanowić to, czego tylko zapragniesz, i w swoim uścisku trzymasz wodze wszystkich stworzonych rzeczy. Nie ma Boga poza Tobą, Wszechpotężnym, Wszechwiedzącym, Wszechmądrym.
 
-(Source category: Wytrwałość)
-(Bahaiprayers.net ID: 7439)
+-- Bahá'u'lláh
 
+bpn7439 «[Polski](../pl/#bpn7439)» 
 
-«[Polski](../pl/#bpn7439)» 
-
+----
 
 
 <a id="bpn7440"></a> 
-### Prayer bpn7440 in Polski
 Pochwalone niechaj będzie imię Twoje, o Panie, Boże mój! Błagam Cię na Twoją potęgę, która ogarnia wszystkie stworzone rzeczy i na Twoją wszechwładzę, która przewyższa całe stworzenie, i na Twoje Słowo, które zostało ukryte w Twojej mądrości i którym stworzyłeś swoje niebiosa i swoją ziemię, abyś pozwolił nam wytrwać w miłości do Ciebie, jak i w posłuszeństwie Twojej woli, utkwić nasze spojrzenie w Twoim obliczu i święcić Twoją chwałę. Daj nam zatem moc, o mój Boże, rozgłaszania Twoich znaków na wszystkie strony pośród Twoich stworzeń i stania na straży Twojej Wiary w Twoim Królestwie. Tyś zawsze istniał niezależnie od tego, czy wspominało Cię którekolwiek z Twoich stworzeń, i jakim jesteś pozostaniesz na wieki wieków.
     
 W Tobie złożyłem całe moje zaufanie, ku Tobie zwróciłem moją twarz, przywarłem do więzi Twojej czułej opatrzności i pospieszyłem do cienia Twojego miłosierdzia. Nie odprawiaj mnie zawiedzionego od Twoich podwojów, o mój Boże, i nie wstrzymuj swojej łaski przede mną, gdyż Ciebie jedynego szukam. Nie ma innego Boga poza Tobą, Zawsze Przebaczającym, Najhojniejszym.
     
 Chwała niechaj będzie Tobie, o Ty, któryś jest Umiłowanym tych, którzy Cię poznali!
 
-(Source category: Wytrwałość)
-(Bahaiprayers.net ID: 7440)
+-- Bahá'u'lláh
 
+bpn7440 «[Polski](../pl/#bpn7440)» 
 
-«[Polski](../pl/#bpn7440)» 
-
+----
 
 
 <a id="bpn7441"></a> 
-### Prayer bpn7441 in Polski
 O Ty, którego bliskość jest moim życzeniem, którego obecność jest moją nadzieją, którego wspominanie jest moim pragnieniem, którego dwór chwały jest moim celem, którego progi są moim dążeniem, którego imię jest moim uzdrowieniem, którego miłość jest radością mego serca, a służba któremu jest moim najwyższym zamierzeniem! Błagam Cię na Twoje Imię, dzięki któremu pozwoliłeś tym, którzy Cię rozpoznali wzbić się ku najwspanialszym wyżynom wiedzy o Tobie i nadałeś prawo tym, którzy Cię gorliwie czczą, do wstąpienia w progi dworu Twoich świętych darów, abyś pomógł mi zwrócić moją twarz w stronę Twojego oblicza, utkwić moje spojrzenie w Tobie i głosić Twoją chwałę.
     
 Jestem tym, o mój Panie, który zapomniał o wszystkim poza Tobą, zwrócił się ku Brzaskowi Twojej łaski i porzucił wszystko prócz Ciebie w nadziei przybliżenia się do Twego dworu. Spójrz zatem na mnie, jak oczy me wzniosły się ku Siedzibie jaśniejącej wspaniałością światła Twojego Oblicza. Ześlij więc na mnie, o mój Umiłowany, to, co pozwoli mi być wytrwałym w Twojej Sprawie, aby powątpiewania niewiernych nie przeszkodziły mi w skierowaniu się ku Tobie.
     
 Tyś zaprawdę jest Bogiem Mocy, Pomocą w Niebezpieczeństwie, Najchwalebniejszym, Wszechmocnym.
 
-(Source category: Wytrwałość)
-(Bahaiprayers.net ID: 7441)
+-- Bahá'u'lláh
 
+bpn7441 «[Polski](../pl/#bpn7441)» 
 
-«[Polski](../pl/#bpn7441)» 
-
+----
 
 
 <a id="bpn7442"></a> 
-### Prayer bpn7442 in Polski
 O Boże, mój Boże! Zwróciłem się do Ciebie ze skruchą, a Tyś zaprawdę jest Odpuszczającym, Współczującym.
     
 O Boże, mój Boże! Powróciłem do Ciebie, a Tyś zaprawdę jest zawsze Przebaczającym, Łaskawym.
@@ -4431,68 +4004,59 @@ O Boże, mój Boże! Świadczę, żeś objawił swoją Sprawę, wypełnił swoj�
     
 Proszę Cię, o Panie wszelkiego istnienia i Królu rzeczy widzialnych i niewidzialnych, na Twą moc, Twój majestat i Twoją wszechwładzę, spraw, aby moje imię zostało zapisane Twoim piórem chwały pośród oddanych Tobie, którym zwoje pism grzeszników nie przeszkodziły w zwróceniu się w stronę światłości Twojego oblicza, o Boże, który wysłuchujesz modlitw i na nie odpowiadasz!
 
-(Source category: Wytrwałość)
-(Bahaiprayers.net ID: 7442)
+-- Bahá'u'lláh
 
+bpn7442 «[Polski](../pl/#bpn7442)» 
 
-«[Polski](../pl/#bpn7442)» 
-
+----
 
 
 <a id="bpn7443"></a> 
-### Prayer bpn7443 in Polski
 Chwała bądź Tobie, o Panie, o mój najbardziej Umiłowany! Uczyń mnie wytrwałym w Twojej Sprawie i daj, abym został zaliczony do tych, którzy nie sprzeniewierzyli się Twemu Przymierzu ani nie podążali za bożkami swoich próżnych wyobrażeń. Dozwól mi zatem zająć miejsce prawdy w Twojej obecności, obdarz mnie oznaką Twojego miłosierdzia i pozwól przyłączyć się do tych spośród sług Twoich, którzy nie zaznają strachu ani nie zostaną pogrążeni w żalu. Nie pozostawiaj mnie samemu sobie, o Panie mój, ani nie pozbawiaj mnie możności rozpoznania Tego, który jest Objawieniem samego Ciebie, ani nie uważaj mnie za jednego z tych, którzy odwrócili się od Twojej świętej obecności. Zalicz mnie do tych, o mój Boże, którzy mają przywilej wpatrywania się w Twoje Piękno i czerpią z tego tak wielką radość, że nie zamieniliby nawet jednej takiej chwili na władzę nad królestwem nieba i ziemi ani na cały świat stworzenia. Miej litość nade mną, o Panie, w tych dniach, kiedy ludy Twej ziemi ciężko zbłądziły; obdarz mnie zatem tym, o mój Boże, co jest dobre i odpowiednie w Twej ocenie. Tyś jest zaprawdę, Wszechmocnym, Łaskawym, Szczodrym, Zawsze Przebaczającym.
     
 Racz sprawić, o mój Boże, abym nie został zaliczony do tych, których uszy są głuche, oczy niewidzące, język niemy, a serce niezdolne do zrozumienia. Ocal mnie, o Panie, od ognia niewiedzy i samolubnych pragnień, spraw, abym został dopuszczony do siedziby Twojego nieprześcignionego miłosierdzia, i ześlij na mnie to, coś przeznaczył dla swoich wybranych. Mocen jesteś czynić wedle swego upodobania. Zaiste, Tyś jest Pomocą w Niebezpieczeństwie, Samoistnym.
 
-(Source category: Wytrwałość)
-(Bahaiprayers.net ID: 7443)
+-- Báb
 
+bpn7443 «[Polski](../pl/#bpn7443)» 
 
-«[Polski](../pl/#bpn7443)» 
-
+----
 
 
 <a id="bpn7444"></a> 
-### Prayer bpn7444 in Polski
 Wysławiony i pochwalony bądź, o Boże! Spraw, aby szybko nadszedł dzień dostąpienia Twojej świętej obecności. Uraduj nasze serca mocą swojej miłości i zadowolenia i obdarz nas wytrwałością, abyśmy chętnie poddawali się Twojej woli i Twoim wyrokom. Zaprawdę, wiedza Twoja ogarnia wszystko, coś stworzył lub stworzysz, a Twoja niebiańska moc przewyższa wszystko, coś powołał lub powołasz do życia. Tylko Tobie należy oddawać cześć, tylko Ciebie pragnąć, tylko Ciebie wielbić i jedynie Twoje zadowolenie miłować. 
     
 Zaprawdę, Tyś jest najwyższym Władcą, Panującą Prawdą, Pomocą w Niebezpieczeństwie, Samoistnym.
 
-(Source category: Wytrwałość)
-(Bahaiprayers.net ID: 7444)
+-- Báb
 
+bpn7444 «[Polski](../pl/#bpn7444)» 
 
-«[Polski](../pl/#bpn7444)» 
-
+----
 
 
 <a id="bpn7445"></a> 
-### Prayer bpn7445 in Polski
 O Panie, Boże mój! Pomóż swoim umiłowanym, aby byli mocni w Twojej Wierze, chodzili Twoimi drogami, byli wytrwali w Twojej Sprawie. Udziel im swojej łaski, aby mogli przeciwstawić się atakom samolubstwa i pasji, by podążali za światłem Boskiego przewodnictwa. Tyś jest Potężnym, Łaskawym, Samoistnym, Obdarowującym, Współczującym, Wszechmocnym, Wszechszczodrym.
 
-(Source category: Wytrwałość)
-(Bahaiprayers.net ID: 7445)
+-- Abdu'l-Bahá
 
+bpn7445 «[Polski](../pl/#bpn7445)» 
 
-«[Polski](../pl/#bpn7445)» 
-
+----
 
 
 <a id="bpn7446"></a> 
-### Prayer bpn7446 in Polski
 O Ty, mój Boże, który prowadzisz poszukującego na właściwą drogę, który wybawiasz zagubioną i oślepłą duszę od pustyni zatracenia, Ty, który obdarowujesz prawych wielkimi darami i względami, który strzeżesz bojaźliwych w swoim niezdobytym schronieniu, który odpowiadasz na wołanie wzywających Ciebie ze swojego najwyższego horyzontu. Bądź pochwalony, o mój Panie! Tyś wybawił nieuważnych od śmierci niewiary, Tyś przywiódł tych, którzy lgną do Ciebie do celu podróży i rozradował przekonanych pośród sług swoich, spełniając ich najgorętsze pragnienia, i ze swojego Królestwa piękna Tyś otworzył bramy zjednoczenia przed obliczem tęskniących za Tobą i ocalił ich od ognia niedostatku i utraty, tak że pospieszyli oni do Ciebie i dostąpili Twojej obecności i przybyli do Twoich gościnnych bram i otrzymali obfitą część darów.
     
 O mój Panie, oni byli spragnieni, a Tyś podał wodę pojednania do ich spieczonych ust. O Czuły, Obdarowujący. Tyś uśmierzył ich ból balsamem swej szczodrości i łaski oraz uleczył ich dolegliwości niezastąpionym lekarstwem swojego współczucia. O Panie, umocnij ich stopy na Twojej prostej ścieżce, powiększ dla nich ucho igielne i spraw, aby przyodziani w królewskie szaty przechadzali się w chwale po wieki wieków.
     
 Zaprawdę, Tyś jest Hojnym, Nieustannie Dającym, Drogocennym, Najłaskawszym. Nie ma innego Boga poza Tobą, Mocnym, Potężnym, Wywyższonym, Zwycięskim.
 
-(Source category: Wytrwałość)
-(Bahaiprayers.net ID: 7446)
+-- Abdu'l-Bahá
 
+bpn7446 «[Polski](../pl/#bpn7446)» 
 
-«[Polski](../pl/#bpn7446)» 
-
+----
 
 
 
@@ -4500,23 +4064,20 @@ Zaprawdę, Tyś jest Hojnym, Nieustannie Dającym, Drogocennym, Najłaskawszym. 
 ## Z Tablic Boskiego Planu
 
 <a id="bpn7325"></a> 
-### Prayer bpn7325 in Polski
 O Niezrównany Boże! O Ty, Panie Królestwa! Te oto dusze są Twoją niebiańską armią. Wspomóż je i wraz z zastępami Najwyższego Zgromadzenia uczyń je zwycięskimi, tak aby każda z nich stała się niby legion i podbiła te kraje miłością Bożą oraz oświeceniem płynącym z Boskich nauk.
    
 O Boże! Bądź ich podporą i pomocą w puszczy, w górach, w dolinach, w lasach, w stepach i na morzach, bądź ich powiernikiem, tak aby mogli nawoływać dzięki potędze królestwa i tchnieniu Ducha Świętego.
    
 Zaiste, Tyś jest Potężnym, Mocnym i Wszechmogącym; Tyś jest Mądrym, Słyszącym i Widzącym.
 
-(Source category: Z Tablic Boskiego Planu)
-(Bahaiprayers.net ID: 7325)
+-- Abdu'l-Bahá
 
+bpn7325 «[Polski](../pl/#bpn7325)» 
 
-«[Polski](../pl/#bpn7325)» 
-
+----
 
 
 <a id="bpn7326"></a> 
-### Prayer bpn7326 in Polski
 Ktokolwiek wybiera się w podróż do jakiegoś miejsca, aby nauczać, niechaj w czasie swej podróży do obcych krajów odmawia tę modlitwę w dzień i w nocy:
    
 O Boże, mój Boże! Ty widzisz, że jestem zachwycony i oczarowany Twoim wspaniałym królestwem, rozpłomieniony ogniem Twojej miłości pośród ludzkości, głosicielem Twojego królestwa w tych wielkich i rozległych krajach, uwolniony od wszystkiego poza Tobą, polegający na Tobie, zapominający o spoczynku i wygodzie, oddalony od swego rodzinnego domu niczym wędrowiec w tych krainach, obcy leżący na ziemi, pokorny przed Twoim wyniosłym Progiem, uległy wobec nieba Twojej wszechmocnej chwały i upraszający Cię pośród mroków nocy i o brzasku dnia, błagający i wołający Cię o poranku i wieczorną porą, abyś łaskawie pomógł mi w służeniu Twojej Sprawie, w rozpowszechnianiu Twoich nauk we wszystkich krainach i wywyższaniu Twojego Słowa na Wschodzie i Zachodzie.
@@ -4527,16 +4088,14 @@ O Panie! Pozwól mi obcować z Tobą w mej samotności i pozostań moim towarzys
    
 Zaprawdę, Ty umacniasz kogokolwiek zechcesz w tym, czego pragniesz, i zaprawdę, Tyś jest Wszechpotężnym, Wszechmocnym.
 
-(Source category: Z Tablic Boskiego Planu)
-(Bahaiprayers.net ID: 7326)
+-- Abdu'l-Bahá
 
+bpn7326 «[Polski](../pl/#bpn7326)» 
 
-«[Polski](../pl/#bpn7326)» 
-
+----
 
 
 <a id="bpn7327"></a> 
-### Prayer bpn7327 in Polski
 Ktokolwiek podróżuje w różne strony, żeby nauczać, niechaj odmawia tę modlitwę w górach, na pustyni, na lądzie i na morzu:
    
 O Boże, o Boże! Ty widzisz moją słabość, skromność i pokorę wobec stworzeń Twoich; mimo to jednak zaufałem Ci i powstałem, aby krzewić Twoje nauki pośród wiernych sług Twoich, polegając na Twojej potędze i mocy.
@@ -4549,16 +4108,14 @@ O Panie! Gdyby tchnienie Ducha Świętego umocniło najsłabsze spośród Twoich
    
 Zaprawdę, Tyś jest Łaskawym, Potężnym, Mocnym i Najmiłosierniejszym z miłosiernych.
 
-(Source category: Z Tablic Boskiego Planu)
-(Bahaiprayers.net ID: 7327)
+-- Abdu'l-Bahá
 
+bpn7327 «[Polski](../pl/#bpn7327)» 
 
-«[Polski](../pl/#bpn7327)» 
-
+----
 
 
 <a id="bpn7328"></a> 
-### Prayer bpn7328 in Polski
 O Boże, mój Boże! Ty widzisz, jak głębokie ciemności ogarnęły wszystkie krainy, jak wszystkie kraje gorzeją płomieniami waśni, a ogień wojny i rzezi szaleje na Wschodzie i na Zachodzie. Krew się leje i ciała zabitych zaściełają ziemię, a ścięte głowy padają w pył pola bitwy.
    
 O Panie! Miej litość nad nieświadomymi i spójrz na nich okiem przebaczenia i odpuszczenia. Zagaś ten ogień, aby rozproszyły się te gęste chmury przesłaniające horyzont, by Słońce Rzeczywistości zaświeciło promieniami pojednania, ta głęboka ciemność ustąpiła, a jasne światło pokoju rozlało swój blask na wszystkie kraje.
@@ -4583,16 +4140,14 @@ O Panie! Usuń ciemności tych niegodnych żądz i oświeć serca kagankiem swoj
     
 Zaprawdę, Tyś jest Najhojniejszym, Panem obfitych łask i zaprawdę Tyś jest Współczującym i Miłosiernym.
 
-(Source category: Z Tablic Boskiego Planu)
-(Bahaiprayers.net ID: 7328)
+-- Abdu'l-Bahá
 
+bpn7328 «[Polski](../pl/#bpn7328)» 
 
-«[Polski](../pl/#bpn7328)» 
-
+----
 
 
 <a id="bpn7329"></a> 
-### Prayer bpn7329 in Polski
 Nauczający i przyjaciele powinni codziennie czytać następującą modlitwę:
    
 O Ty, łaskawy Panie! Chwała niech Ci będzie za to, żeś ukazał nam gościniec przewodnictwa, otwarł wrota królestwa i objawił się dzięki Słońcu Rzeczywistości. Tyś niewidomym dał wzrok, przywrócił słuch głuchym, wskrzesił umarłych, wzbogacił ubogich, wskazał drogę zbłąkanym, tych o spieczonych wargach skierował do źródła przewodnictwa; Tyś dozwolił, aby spragnione ryby osiągnęły ocean rzeczywistości, i zaprosił przelotne ptaki do różanego ogrodu łaski.
@@ -4603,32 +4158,28 @@ O Wszechmocny! Spojrzyj na nas miłosiernym okiem. Ześlij nam niebiańskie umoc
    
 Zaprawdę, Tyś jest Mocnym, Potężnym, Mądrym i Widzącym.
 
-(Source category: Z Tablic Boskiego Planu)
-(Bahaiprayers.net ID: 7329)
+-- Abdu'l-Bahá
 
+bpn7329 «[Polski](../pl/#bpn7329)» 
 
-«[Polski](../pl/#bpn7329)» 
-
+----
 
 
 <a id="bpn7330"></a> 
-### Prayer bpn7330 in Polski
 Każdy, kto podróżuje poprzez miasta, wioski i osady (…) rozsiewając Boskie aromaty, powinien każdego ranka uważnie przeczytać tę oto modlitwę:
    
 O mój Boże! O mój Boże! Ty widzisz poniżonego i słabego, podejmującego się największego przedsięwzięcia, zdecydowanego na głoszenie Twego Słowa wśród szerokich rzesz i rozpowszechnianie Twoich nauk pośród ludów Twoich. Jakże dam radę temu podołać, jeżeli nie wzmocnisz mnie tchnieniem Ducha Świętego, nie pomożesz mi zwyciężyć dzięki zastępom swego wspaniałego Królestwa i nie ześlesz mi swego umocnienia, gdyż jedynie ono może zmienić komara w orła, kroplę wody w rzeki i morza, a atom w światło i w słońca? O Panie mój! Wspomóż mnie swoją zwycięską i skuteczną mocą, aby mój język mógł głosić Twoją chwałę i Twoje przymioty pośród wszystkich ludzi, a dusza moja mogła przepełnić się winem Twojej miłości i wiedzy.
    
 Tyś jest Wszechmocnym i Czyniącym wedle swojego upodobania.
 
-(Source category: Z Tablic Boskiego Planu)
-(Bahaiprayers.net ID: 7330)
+-- Abdu'l-Bahá
 
+bpn7330 «[Polski](../pl/#bpn7330)» 
 
-«[Polski](../pl/#bpn7330)» 
-
+----
 
 
 <a id="bpn7331"></a> 
-### Prayer bpn7331 in Polski
 Niechaj ci, którzy rozsiewają Boskie aromaty, recytują każdego ranka tę oto modlitwę:
    
 O Panie, Boże mój! Chwała i dziękczynienie niechaj będą Tobie, gdyż Tyś zaprowadził mnie na gościniec królestwa, pozwolił mi kroczyć po tej prostej i daleko biegnącej drodze, oświecił moje oczy oglądaniem wspaniałości Twego światła, nachylił moje ucho ku melodiom ptaków świętości z królestwa tajemnic i przyciągnął moje serce swoją miłością panującą wśród sprawiedliwych.
@@ -4637,48 +4188,42 @@ O Panie! Umocnij mnie w Duchu Świętym, abym mógł wołać w Twoim Imieniu po�
    
 O Panie! Jestem słaby, umocnij mnie swoją potęgą i mocą. Język mój słabnie, dozwól mi głosić Twoją cześć i chwałę. Jestem uniżony, zaszczyć mnie przyjęciem do Twego królestwa. Przebywam daleko od Ciebie, spraw, abym zbliżył się do progu Twojego miłosierdzia. O Panie! Uczyń mnie jaśniejącą lampą, błyszczącą gwiazdą i błogosławionym drzewem zdobnym w owoce, którego gałęzie ocieniają wszystkie te krainy. Zaprawdę, Tyś jest Mocnym, Potężnym i Nieograniczonym.
 
-(Source category: Z Tablic Boskiego Planu)
-(Bahaiprayers.net ID: 7331)
+-- Abdu'l-Bahá
 
+bpn7331 «[Polski](../pl/#bpn7331)» 
 
-«[Polski](../pl/#bpn7331)» 
-
+----
 
 
 <a id="bpn7332"></a> 
-### Prayer bpn7332 in Polski
 Następującą modlitwę powinno się czytać (…) każdego dnia:
    
 O Boże! O Boże! Oto ptak ze złamanym skrzydłem, a lot jego jest bardzo powolny; dopomóż mu, aby mógł się wznieść na szczyt powodzenia i zbawienia, wzbić się w bezkresną przestrzeń z niezmierną radością i szczęściem, wznieść swój śpiew w Twoim Najwyższym Imieniu we wszystkich krainach, rozradować słuch tym wołaniem i rozjaśnić oczy oglądaniem znaków Twojego przewodnictwa.
    
 O Panie! Jestem sam, opuszczony i uniżony. Nie mam innej podpory oprócz Ciebie, żadnego pomocnika prócz Ciebie ani też innego opiekuna poza Tobą. Utwierdź mnie w Twojej służbie, wspomóż mnie zastępami Twoich aniołów, spraw, abym zwyciężał w krzewieniu Twego Słowa i pozwól mi głosić Twoją mądrość pośród Twych stworzeń. Zaprawdę, Tyś jest opiekunem słabych i obrońcą maluczkich i zaprawdę Tyś jest Potężnym, Mocnym i Nieograniczonym.
 
-(Source category: Z Tablic Boskiego Planu)
-(Bahaiprayers.net ID: 7332)
+-- Abdu'l-Bahá
 
+bpn7332 «[Polski](../pl/#bpn7332)» 
 
-«[Polski](../pl/#bpn7332)» 
-
+----
 
 
 <a id="bpn7333"></a> 
-### Prayer bpn7333 in Polski
 Chwała bądź Tobie, o Boże mój! Oto są Twoi słudzy, zwabieni wonią Twojej łaskawości, rozgorzali ogniem płonącym w Drzewie Twojej jedyności, których oczy rozjaśnił widok wspaniałości światła bijącego od Synaju Twojej jedności.
    
 O Panie! Rozwiąż im języki, aby wspominali Cię pośród Twoich ludzi, spraw, aby głosili Twoją chwałę przez Twoją łaskę i Twoją serdeczną dobroć, wspomagaj ich zastępami swoich aniołów, umocnij ich w służeniu Tobie i uczyń ich znakami Twojego przewodnictwa pośród Twoich stworzeń.
    
 Zaprawdę, Tyś jest Wszechpotężnym, Najbardziej Wywyższonym, Zawsze Przebaczającym, Wszechmiłosiernym.
 
-(Source category: Z Tablic Boskiego Planu)
-(Bahaiprayers.net ID: 7333)
+-- Abdu'l-Bahá
 
+bpn7333 «[Polski](../pl/#bpn7333)» 
 
-«[Polski](../pl/#bpn7333)» 
-
+----
 
 
 <a id="bpn7334"></a> 
-### Prayer bpn7334 in Polski
 Ci, którzy rozprzestrzeniają Boskie wonie, powinni recytować każdego ranka następującą modlitwę:
    
 O Boże, mój Boże! Ty widzisz tego słabego sługę błagającego o niebiańską moc, ubogiego pragnącego Twoich rajskich skarbów, spragnionego łaknącego źródła wiecznego życia, cierpiącego tęskniącego za Twym obiecanym uzdrowieniem za sprawą Twojego bezgranicznego miłosierdzia, któreś przeznaczył dla swoich wybranych służebników w swoim królestwie na wysokościach.
@@ -4689,12 +4234,11 @@ O mój Panie! Spraw, abym stał się niezależny od wszystkiego oprócz Ciebie, 
    
 Zaprawdę, Tyś jest Potężnym, Mocnym, Wszechmogącym.
 
-(Source category: Z Tablic Boskiego Planu)
-(Bahaiprayers.net ID: 7334)
+-- Abdu'l-Bahá
 
+bpn7334 «[Polski](../pl/#bpn7334)» 
 
-«[Polski](../pl/#bpn7334)» 
-
+----
 
 
 
@@ -4702,37 +4246,32 @@ Zaprawdę, Tyś jest Potężnym, Mocnym, Wszechmogącym.
 ## Zgromadzenie Duchowe
 
 <a id="bpn7476"></a> 
-### Prayer bpn7476 in Polski
 Kiedykolwiek wkraczacie do izby narad, odmawiajcie tę modlitwę z sercem tętniącym Bożą miłością i językiem wolnym od wszystkiego z wyjątkiem wspominania Boga, aby Wszechmogący łaskawie wspomagał was w osiągnięciu największego zwycięstwa.
     
 O Boże, mój Boże! My słudzy Twoi zwracamy się z oddaniem ku Twojemu Świętemu Obliczu, oderwawszy się w tym chwalebnym Dniu od wszystkiego z wyjątkiem Ciebie. Zebraliśmy się w tym Zgromadzeniu Duchowym zjednoczeni w naszych poglądach i myślach, w zgodnym celu wywyższania Twojego Słowa pośród ludzi. O Panie, Boże nasz! Uczyń nas znakami Twojego Boskiego Przewodnictwa, sztandarami Twojej wzniosłej Wiary pośród ludzi, sługami Twojego potężnego Przymierza, o Ty, nasz Najwyższy Panie, wyrazami Twojej Boskiej Jedności w Twoim Królestwie Abhá i lśniącymi gwiazdami oświetlającymi wszystkie krainy. Panie! Wspomóż nas, abyśmy się stali morzami, które wzbierają falami Twojej cudownej łaski, strumieniami płynącymi z Twoich chwalebnych wysokości, wspaniałymi owocami na drzewie Twojej niebiańskiej Sprawy, drzewami kołyszącymi się wśród powiewów Twej szczodrości w Twojej niebiańskiej winnicy. O Boże! Spraw, aby dusze nasze polegały na wersetach Twojej Boskiej Jedności, aby nasze serca radowały się potokami Twojej Łaski, abyśmy się zjednoczyli się jak fale jednego morza, połączyli jak promienie Twojego olśniewającego Światła; aby nasze myśli, poglądy i uczucia stały się jedną rzeczywistością, ukazującą na świecie ducha jedności. Tyś jest Łaskawym, Szczodrym, Obdarowującym, Wszechmocnym, Miłosiernym, Współczującym.
 
-(Source category: Zgromadzenie Duchowe)
-(Bahaiprayers.net ID: 7476)
+-- Abdu'l-Bahá
 
+bpn7476 «[Polski](../pl/#bpn7476)» 
 
-«[Polski](../pl/#bpn7476)» 
-
+----
 
 
 <a id="bpn7477"></a> 
-### Prayer bpn7477 in Polski
 Zgromadźcie się w niezmąconej radości i na początku każdego zebrania odmówcie następującą modlitwę:
     
 O Panie Królestwa! Choć nasze ciała są tu zgromadzone, to nasze zauroczone serca porywa Twoja miłość i unoszą nas promienie Twojego olśniewającego oblicza. Choć jesteśmy słabi, oczekujemy ujawnienia się Twojej potęgi i mocy. Choć jesteśmy ubodzy, bez żadnych dóbr ni środków, to korzystamy z bogactw ze skarbców Twojego Królestwa. Choć jesteśmy kroplami, to czerpiemy z głębin Twojego oceanu. Choć jesteśmy pyłem, to migocemy w chwale Twojego wspaniałego Słońca.
     
 O Ty, nasz Dobrodzieju! Ześlij nam swoją pomoc, aby każdy tu obecny stał się zapaloną świecą, każdy ośrodkiem przyciągania, każdy wzywającym do Twoich niebiańskich sfer, aż w końcu uczynimy ten przyziemny świat lustrzanym odbiciem Twego Raju.
 
-(Source category: Zgromadzenie Duchowe)
-(Bahaiprayers.net ID: 7477)
+-- Abdu'l-Bahá
 
+bpn7477 «[Polski](../pl/#bpn7477)» 
 
-«[Polski](../pl/#bpn7477)» 
-
+----
 
 
 <a id="bpn7478"></a> 
-### Prayer bpn7478 in Polski
 Modlitwę tę należy odmawiać na zakończenie zebrania Zgromadzenia Duchowego.
     
 O Boże! O Boże! Spójrz z niewidzialnego królestwa swojej jedyności na nas zebranych na tym duchowym spotkaniu, wierzących w Ciebie, ufających Twoim znakom, stałych w Twoim Przymierzu i Testamencie, zauroczonych Tobą, rozpalonych ogniem Twojej miłości i szczerze oddanych Twojej Sprawie. Jesteśmy sługami w Twojej winnicy, siewcami Twojej religii, oddanymi wielbicielami Twojego oblicza, pokornymi wobec Twoich umiłowanych, posłusznymi u Twoich wrót, proszącymi Cię, abyś umocnił nas w służbie Twoim wybranym, abyś wspomagał nas swoimi niewidzialnymi zastępami, abyś wzmocnił nas w służeniu Tobie i uczynił nas posłusznymi i wielbiącymi poddanymi, łączącymi się z Tobą.
@@ -4743,12 +4282,11 @@ O Panie nasz! Zwróć nasze twarze ku swemu miłosiernemu obliczu, nakarm nas ob
     
 Zaprawdę, Tyś jest Hojnym, Miłosiernym. Ty posiadasz wielkie łaski i zaprawdę, Tyś jest Łagodnym i Życzliwym.
 
-(Source category: Zgromadzenie Duchowe)
-(Bahaiprayers.net ID: 7478)
+-- Abdu'l-Bahá
 
+bpn7478 «[Polski](../pl/#bpn7478)» 
 
-«[Polski](../pl/#bpn7478)» 
-
+----
 
 
 
@@ -4756,37 +4294,32 @@ Zaprawdę, Tyś jest Hojnym, Miłosiernym. Ty posiadasz wielkie łaski i zaprawd
 ## Zwycięstwo Sprawy
 
 <a id="bpn7455"></a> 
-### Prayer bpn7455 in Polski
 Ty widzisz, o mój Boże, jak Twoi umiłowani osaczeni są przez zbuntowanych pośród Twoich stworzeń i nikczemnych pośród Twoich ludzi. Nie ma miejsca, skąd nie zanosiłby się lament Twoich miłośników i płacz Twoich wybranych. Błagam Cię, na Twoje Największe Imię, abyś wyciągnął dłoń mocy z wnętrza swej potęgi i wspomógł nią wszystkich tych, którzy Cię miłują. 
     
 Ty widzisz, o mój Boże, ich oczy zwrócone ku Tobie, ich wzrok utkwiony w Brzasku Twojej potęgi i Twojej miłującej opatrzności. Przemień, o mój Panie, ich poniżenie w chwałę, ich ubóstwo w bogactwo, ich słabość w siłę zrodzoną z Ciebie. 
     
 Mocen jesteś czynić wedle swego upodobania. Nie ma Boga poza Tobą, Wszystkowiedzącym, o Wszystkim Poinformowanym.
 
-(Source category: Zwycięstwo Sprawy)
-(Bahaiprayers.net ID: 7455)
+-- Bahá'u'lláh
 
+bpn7455 «[Polski](../pl/#bpn7455)» 
 
-«[Polski](../pl/#bpn7455)» 
-
+----
 
 
 <a id="bpn7456"></a> 
-### Prayer bpn7456 in Polski
 Nie pozwól, o Boże, mój Boże, abym pozostawał z dala od niebios Twoich darów ni od jutrzenki łask Twoich. Błagam Cię na to Słowo, którym poskromiłeś wszystkie rzeczy widzialne i niewidzialne, abyś pomógł mi i abyś pomógł swoim wybranym dokonać tego, co wyniesie Twoją Sprawę pośród Twoich sług i w Twoich krainach. Zarządź dla mnie zatem każdą dobrą rzecz, którą zesłałeś w swojej Księdze.
     
 Zaprawdę, Tyś jest Wszechmocnym, Zawsze Przebaczającym, Najhojniejszym.
 
-(Source category: Zwycięstwo Sprawy)
-(Bahaiprayers.net ID: 7456)
+-- Bahá'u'lláh
 
+bpn7456 «[Polski](../pl/#bpn7456)» 
 
-«[Polski](../pl/#bpn7456)» 
-
+----
 
 
 <a id="bpn7457"></a> 
-### Prayer bpn7457 in Polski
 Chwała bądź Tobie, o Panie, o Ty, któryś mocą swego rozkazu powołał do życia wszystkie stworzone rzeczy.
     
 O Panie! Wspomagaj tych, którzy wyrzekli się wszystkiego oprócz Ciebie i obdarz ich wielkim zwycięstwem. Ześlij im, o Panie, zastępy aniołów w niebie i na ziemi, i we wszystkim tym, co jest pomiędzy nimi, aby pomagały Twoim sługom, aby przychodziły im z pomocą i pokrzepiały ich, aby pomagały im osiągnąć sukces, aby podtrzymywały ich, aby obdarzyły ich chwałą, aby przydały im honoru i wywyższenia, aby wzbogaciły ich i pomogły odnieść wspaniały triumf.
@@ -4795,76 +4328,66 @@ Tyś jest ich Panem, Panem nieba i ziemi, Panem wszystkich światów. Wzmocnij t
     
 Spraw, o Panie, aby dzięki posłuszeństwu wobec Twojej nienaruszalnej Wiary serca ich stawały się mocniejsze od wszystkiego, co znajduje się w niebie i na ziemi, i we wszystkim tym, co jest pomiędzy nimi. Wzmocnij też ich ręce, o Panie, znakami swej cudownej siły, aby mogli ukazać Twoją moc przed oczyma całej ludzkości.
 
-(Source category: Zwycięstwo Sprawy)
-(Bahaiprayers.net ID: 7457)
+-- Báb
 
+bpn7457 «[Polski](../pl/#bpn7457)» 
 
-«[Polski](../pl/#bpn7457)» 
-
+----
 
 
 <a id="bpn7458"></a> 
-### Prayer bpn7458 in Polski
 O Panie! Zapewnij szybkie wzrastanie Drzewa Twojej Boskiej Jedności; podlewaj je, o Panie, płynącymi wodami swego upodobania i spraw, aby przed objawieniem się Twojego Boskiego zapewnienia wydało takie owoce, jakich życzysz sobie dla wysławiania i wywyższania Ciebie, Twojej chwały i składania Ci dziękczynienia oraz dla sławienia Twojego Imienia, wychwalania jedności Twojej Istoty i dla oddawania czci Tobie, albowiem wszystko to leży w Twojej mocy, a nie w mocy kogokolwiek innego.
     
 Wielkie jest błogosławieństwo tych, których krew Tyś wybrał do podlewania Drzewa Twojego zapewnienia, aby w ten sposób wywyższyć Twoje święte i niezmienne Słowo.
 
-(Source category: Zwycięstwo Sprawy)
-(Bahaiprayers.net ID: 7458)
+-- Báb
 
+bpn7458 «[Polski](../pl/#bpn7458)» 
 
-«[Polski](../pl/#bpn7458)» 
-
+----
 
 
 <a id="bpn7459"></a> 
-### Prayer bpn7459 in Polski
 O Panie! Uczyń zwycięskimi swoich cierpliwych służebników w dniach Twoich, zsyłając im wspaniałe zwycięstwo, albowiem szukali oni męczeństwa na Twojej ścieżce. Ześlij im to, co przyniesie pocieszenie ich umysłom, rozraduje dusze, da pewność sercom i spokój ciałom, a duszom pozwoli się wznieść i stanąć przed Bogiem, Najwznioślejszym, osiągnąć najwyższy Raj i te samotnie chwały, któreś przeznaczył dla ludzi prawdziwej wiedzy i cnoty. Zaprawdę, Ty znasz wszystkie rzeczy, kiedy my jesteśmy zaledwie Twoimi sługami, Twoimi więźniami, Twoimi niewolnikami i ubogimi. Nie wzywamy innego Pana poza Tobą, o Boże, Panie nasz, ani nie błagamy o niczyje błogosławieństwo i łaskę poza Twoją, o Ty, któryś jest Bogiem miłosierdzia dla tego i przyszłego świata. Jesteśmy zaledwie ucieleśnieniem biedy, nicości, bezradności i zguby, podczas gdy cała Twoja Istota świadczy o bogactwie, niezależności, chwale, majestacie i bezgranicznej łasce.
     
 Niech naszym wynagrodzeniem będzie, o Panie, dobro tego i przyszłego świata, które jest godne Ciebie, oraz wielorakie dobrodziejstwa, które spływają z wysokości na ziemskie niziny.
     
 Zaprawdę, Tyś jest naszym Panem i Panem wszechrzeczy. Oddajemy się w ręce Twoje, pragnąc tego, co ma związek z Tobą.
 
-(Source category: Zwycięstwo Sprawy)
-(Bahaiprayers.net ID: 7459)
+-- Báb
 
+bpn7459 «[Polski](../pl/#bpn7459)» 
 
-«[Polski](../pl/#bpn7459)» 
-
+----
 
 
 <a id="bpn7460"></a> 
-### Prayer bpn7460 in Polski
 O Panie! Pozwól wszystkim ludziom na ziemi osiągnąć wstęp do Raju Twojej Wiary, tak aby żadna stworzona istota nie pozostała poza granicami Twojego upodobania.
     
 Od niepamiętnych czasów mocen jesteś czynić wedle swego upodobania i górujesz nad wszystkim, nad czym zapragniesz.
 
-(Source category: Zwycięstwo Sprawy)
-(Bahaiprayers.net ID: 7460)
+-- Báb
 
+bpn7460 «[Polski](../pl/#bpn7460)» 
 
-«[Polski](../pl/#bpn7460)» 
-
+----
 
 
 <a id="bpn7461"></a> 
-### Prayer bpn7461 in Polski
 O Boże, mój Boże! Chwała bądź Tobie za to, żeś rozniecił ogień Boskiej miłości w Świętym Drzewie na szczycie najwznioślejszej góry – w tym Drzewie, które nie jest „ani ze Wschodu, ani z Zachodu” , ogniem, który rozgorzał tak, że płomień jego wystrzelił ku Zastępom na wysokościach, a istoty te uchwyciły od niego światło przewodnictwa i zawołały: „Zaprawdę, spostrzegliśmy ogień na zboczu Góry Synaj” .
     
 O Boże, mój Boże! Podsycaj ten ogień z każdym kolejnym dniem, aż jego podmuch poruszy całą ziemię. O Ty, Panie mój! Roznieć światło swojej miłości w każdym sercu, tchnij ducha swojej wiedzy w ludzkie dusze i uraduj ich piersi wersetami swojej jedności. Przywołaj do życia tych, którzy mieszkają w swoich grobach, ostrzegaj dumnych, ustanów szczęśliwość na świecie, ześlij swoje kryształowe wody, a w zgromadzeniu objawionych wspaniałości podaj wszystkim tę czarę, która jest „zaprawiona u kamforowego źródła” . 
     
 Zaprawdę, Tyś jest Dającym, Przebaczającym, Zawsze Obdarowującym. Zaprawdę, Tyś jest Miłosiernym, Współczującym.
 
-(Source category: Zwycięstwo Sprawy)
-(Bahaiprayers.net ID: 7461)
+-- Abdu'l-Bahá
 
+bpn7461 «[Polski](../pl/#bpn7461)» 
 
-«[Polski](../pl/#bpn7461)» 
-
+----
 
 
 <a id="bpn7462"></a> 
-### Prayer bpn7462 in Polski
 On jest Bogiem!
     
 O Panie, mój Boże, mój Umiłowany! Oto są Twoi słudzy, którzy usłyszeli Twój głos, skłonili ucho ku Twemu Słowu i usłuchali Twojego Wezwania. Uwierzyli w Ciebie, byli świadkami Twoich cudów, uznali Twój dowód i dali świadectwo Twoim znakom. Kroczyli Twoimi ścieżkami, podążali za Twoim przewodnictwem, odkrywali Twoje tajemnice i zrozumieli sekrety Twojej Księgi, wersety Twoich Zwojów i nowiny z Twych Listów i Tablic. Przylgnęli do rąbka Twojego odzienia i mocno uchwycili się szaty Twojego blasku i wspaniałości. Kroki ich zostały umocnione w Twoim Przymierzu, a serca utwierdzone w Twoim Testamencie. Panie! Roznieć w ich sercach płomień Twojego Boskiego rozmiłowania i spraw, aby ptak miłości i zrozumienia zaśpiewał w ich sercach. Pozwól, aby stali się niczym potężne znaki, wspaniałe sztandary i doskonali jak Twoje Słowo. Wywyższyj dzięki nim Twoją Sprawę, rozwiń Twoje chorągwie i na wsze strony rozgłoś Twoje cuda. Spraw, aby przez nich zatriumfowało Twoje Słowo i wzmocnij swoich umiłowanych. Rozwiąż im języki, aby wychwalali Twoje Imię, i natchnij ich, aby wypełniali Twoją świętą wolę i zyskali Twoje upodobanie. Rozjaśnij ich twarze w Twoim Królestwie świętości i uczyń ich radość pełną, pomagając im powstać dla triumfu Twojej Sprawy.
@@ -4873,12 +4396,11 @@ Panie! Jesteśmy słabi – wzmocnij nas, abyśmy mogli rozpraszać wonie Twojej
     
 Chwała chwał spoczywa na tych, którzy są stali i mocni.
 
-(Source category: Zwycięstwo Sprawy)
-(Bahaiprayers.net ID: 7462)
+-- Abdu'l-Bahá
 
+bpn7462 «[Polski](../pl/#bpn7462)» 
 
-«[Polski](../pl/#bpn7462)» 
-
+----
 
 
 
@@ -4886,7 +4408,6 @@ Chwała chwał spoczywa na tych, którzy są stali i mocni.
 ## Średnia Modlitwa Obowiązkowa
 
 <a id="bpn7268"></a> 
-### Prayer bpn7268 in Polski
 ##ŚREDNIĄ MODLITWĘ OBOWIĄZKOWĄ NALEŻY ODMAWIAĆ CODZIENNIE RANO, W POŁUDNIE I WIECZOREM.
 
 Kto pragnie się pomodlić, niech obmyje ręce, a obmywając je, niech mówi
@@ -4913,12 +4434,11 @@ Daję świadectwo Twojej jedności i Twojej jedyności oraz temu, że Tyś jest 
 
 *(Jeśli ktoś woli, zamiast tego długiego wersetu może powiedzieć następujące słowa: „Bóg świadczy o tym, iż nie ma innego Boga poza Nim, Pomocą w Niebezpieczeństwie, Samoistnym”. Wystarczy nawet, jeśli siedząc, modlący się powie: „Daję świadectwo Twojej jedności i Twojej jedyności oraz temu, że Tyś jest Bogiem i że nie ma innego Boga poza Tobą”.)
 
-(Source category: Średnia Modlitwa Obowiązkowa)
-(Bahaiprayers.net ID: 7268)
+-- Bahá'u'lláh
 
+bpn7268 «[Polski](../pl/#bpn7268)» 
 
-«[Polski](../pl/#bpn7268)» 
-
+----
 
 
 
@@ -4926,15 +4446,13 @@ Daję świadectwo Twojej jedności i Twojej jedyności oraz temu, że Tyś jest 
 ## Święto Dziewiętnastego Dnia
 
 <a id="bpn7407"></a> 
-### Prayer bpn7407 in Polski
 O Boże! Rozprosz wszelkie przyczyny niezgody a przygotuj dla nas to, co wiedzie ku jedności i porozumieniu! O Boże! Ześlij na nas Niebiańską Woń i przemień to spotkanie w spotkanie Niebios! Udziel nam wszelkiego dobra i wszelkiej strawy. Przygotuj nam Pokarm Miłości! Daj nam Pokarm Wiedzy! Obdarz nas Pokarmem Niebiańskiego Oświecenia!
 
-(Source category: Święto Dziewiętnastego Dnia)
-(Bahaiprayers.net ID: 7407)
+-- Abdu'l-Bahá
 
+bpn7407 «[Polski](../pl/#bpn7407)» 
 
-«[Polski](../pl/#bpn7407)» 
-
+----
 
 
 
@@ -4942,33 +4460,29 @@ O Boże! Rozprosz wszelkie przyczyny niezgody a przygotuj dla nas to, co wiedzie
 ## Ḥuqúqu’lláh: Prawo Boga
 
 <a id="bpn7464"></a> 
-### Prayer bpn7464 in Polski
 *„Ḥuqúqu’lláh jest w istocie wielkim prawem. Powinnością wszystkich jest czynić tę ofiarę, gdyż stanowi ona źródło łaski, obfitości i wszelkiego dobra. Jest to dar, który pozostanie z każdą duszą w każdym ze światów Boga, Wszechposiadającego, Wszechszczodrego.” 
 
 Tyś wywyższony jest, o Panie całego stworzenia, Ty, ku któremu muszą zwrócić się wszystkie rzeczy. Moim wewnętrznym i zewnętrznym językiem zaświadczam, żeś objawił i ukazał siebie, zesłał swoje znaki i głosił swoje świadectwa. Świadczę o Twojej samowystarczalności od wszystkiego prócz Ciebie i o Twoim uświęceniu ponad wszystkie ziemskie rzeczy. Błagam Cię na najwyższą chwałę Twojej Sprawy oraz przez największą moc Twojego Słowa, byś udzielił umocnienia temu, kto zapragnie ofiarować to, coś zapisał dla niego w swojej Księdze i przestrzegać tego, co roztoczy woń Twojej aprobaty. Zaprawdę, Tyś jest Wszechmocnym, Wszechłaskawym, Wszystko Przebaczającym, Najhojniejszym.
 
-(Source category: Ḥuqúqu’lláh: Prawo Boga)
-(Bahaiprayers.net ID: 7464)
+-- Bahá'u'lláh
 
+bpn7464 «[Polski](../pl/#bpn7464)» 
 
-«[Polski](../pl/#bpn7464)» 
-
+----
 
 
 <a id="bpn7465"></a> 
-### Prayer bpn7465 in Polski
 Pochwalony bądź, o mój współczujący Panie! Błagam Cię na tumult oceanu Twojej świętej wypowiedzi, i na liczne oznaki Twojej najwyższej władzy i nieodparte dowody Twojej Boskości, i ukryte tajemnice, które spoczywają utajone w Twojej wiedzy, abyś udzielił mi swojej łaski służenia Tobie i Twoim wybranym i pozwolił mi sumiennie ofiarować Twoje Ḥuqúq, któreś nakazał w swojej Księdze. 
     
 Jestem tym, o mój Panie, który skierował swoje uczucia do Twojego królestwa chwały i mocno uchwycił się rąbka Twojej hojności. O Ty, któryś jest Panem wszelkiego istnienia i Władcą królestwa imion, błagam Cię, abyś nie odmawiał mi rzeczy, które posiadasz, ani nie wstrzymywał przede mną tego, coś przeznaczył dla swoich wybranych. 
     
 Błagam Cię, o Panie wszystkich imion i Stwórco niebios, abyś dzięki swej wzmacniającej łasce pomógł mi być stałym w Twojej Wierze tak, aby próżności świata nie mogły sprawić, że zostanę odcięty niczym zasłoną, ani by nie powstrzymały mnie gwałtowne knowania nikczemników, którzy powstali, aby Twoich ludzi sprowadzić na złą drogę w dniach Twoich. Przeznacz dla mnie zatem, o Pragnienie mego serca, dobro tego świata i świata, który nastąpi. Zaprawdę, Tyś mocen jest czynić to, czego zapragniesz. Nie ma Boga poza Tobą, Zawsze Przebaczającym, Najhojniejszym.
 
-(Source category: Ḥuqúqu’lláh: Prawo Boga)
-(Bahaiprayers.net ID: 7465)
+-- Bahá'u'lláh
 
+bpn7465 «[Polski](../pl/#bpn7465)» 
 
-«[Polski](../pl/#bpn7465)» 
-
+----
 
 
 

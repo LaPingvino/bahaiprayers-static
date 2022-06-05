@@ -51,47 +51,41 @@ tags = ['lang=sm', 'prayerbook']
 ## AID AND ASSISTANCE
 
 <a id="bpn12366"></a> 
-### Prayer bpn12366 in Samoan
 O Thou Whose face is the object of my adoration,…
 O Oe e Ona fofoga o le sini o la’u tapuaiga, E Ona le matagofie o lo’u sulufaiga, E Ona le afioaga o lo’u sini, E Ona le viiga o lo’u faamoemoega, E Ona le tausiga o lo’u soatau, E Ona le alofa o le mafuaga o lo’u ola, E Ona le ta’uta’uina o lo’u faamafanafanaga, E Ona le faalatalata mai o lo’u manaoga, E Ona le faatasi mai o lo’u moomooga silisili ona pele ma la’u manavaga silisili ona maualuga. Ou te ole atu ia te oe ia le taofia mai ia te a’u mea ua tofia e Lau Afio mo tagata filifilia ia Au auauna. Ia faaoloaina a’u I mea lelei o lenei lalolagi ma le olaga atali.
 E moni o Oe o le Tupu o tagata uma. E leai se tasi Atua na o Lau Afio, o le Faamagalo Faavavau, o le Agalelei Silisili
 
-(Source category: AID AND ASSISTANCE)
-(Bahaiprayers.net ID: 12366)
+-- Bahá'u'lláh
 
+bpn12366 «[Samoan](../sm/#bpn12366)» 
 
-«[Samoan](../sm/#bpn12366)» 
-
+----
 
 
 <a id="bpn12488"></a> 
-### Prayer bpn12488 in Samoan
 I adjure Thee by Thy might, O my God! Let no harm beset me..
 
  
 
 Ou te augani fa’atauanau atu i Lau Afio, e ala i Lou malosi, Lo’u Atua e! Ia fa’asaogalemūina a’u i taimi e o’o mai ai tofotofoga, ma taimi o lo’u tu’ulafoa’ina o a’u, ta’ita’ina mai i o’u la’asaga ia fa’asagatonu atu i le fa’ala’ei’auina a Lau Afioga. O Lau Afio lava o le Atua, o lo’o i Lau Afio lava le mana malosi e faia ai le mea e finagalo malie i ai Lau Afio. E leai lava se tasi e mafai ona te’evā i Lou Finagalo pe fa’aluafesasiina Au Fuafuaga.
 
-(Source category: AID AND ASSISTANCE)
-(Bahaiprayers.net ID: 12488)
+-- Báb
 
+bpn12488 «[Samoan](../sm/#bpn12488)» 
 
-«[Samoan](../sm/#bpn12488)» 
-
+----
 
 
 <a id="bpn12367"></a> 
-### Prayer bpn12367 in Samoan
 Lord! Pitiful are we, grant us Thy favor;…
      Le alii e! Ua augavale i matou, foa’i mai Lou finagalo alofa; e matitiva, liligi ifo i o matou luga se vaega mai le vasa o Lou tamaoaiga; e mana’ona’o, faamalilieina I matou e Lau Afio, e faatauvaa, aumai mo i matou Lou mamalu. O loo maua pea lava e manulele o le vanimonimo ma manu vaefa o le laueleele a latou meaai i aso ta’itasi mai ia te Oe, ma o tagata uma lava o loo mau vaega i Lau tausiga ma le alofa agalelei. ‘Aua ne’i aveesea lenei tagata vaivai mai Lou alofa tunoa matagofie, ma ia auina mai e Lou malosi Lau foa’ialofa i lenei tagata mafatia. 
        Foa’i mai ia te i matou a matou meaai mo le aso, ma liligi mai Lau faaoloaga i mea aoga o le olaga , o le a matou le faamoemoe ai lava i se tasi a o Lau Afio, ma mafutab atoatoa ai ma Oe, savavali i Ou ala ma ta’utino atu Au mealilo. O Lau Afio o le Malosiuma ma le Agalelei ma o le Faitoaga o tagata uma.
 
-(Source category: AID AND ASSISTANCE)
-(Bahaiprayers.net ID: 12367)
+-- Abdu'l-Bahá
 
+bpn12367 «[Samoan](../sm/#bpn12367)» 
 
-«[Samoan](../sm/#bpn12367)» 
-
+----
 
 
 
@@ -99,44 +93,38 @@ Lord! Pitiful are we, grant us Thy favor;…
 ## CHILDREN
 
 <a id="bpn12368"></a> 
-### Prayer bpn12368 in Samoan
 O God! Educate these children.
 Le Atua e! A’oa’oina nei tamaiti. O nei tamaiti ua o ni laau o Lau faatoaga, o fugalaau o Lou fanua laugatasi, o rosa o Lou togalaau. Ia toto ifo i o latou luga Lau uaga, ma ia susulu ifo i o latou luga le La o le Upu Moni faatasi ma Lou alofa. Ia fanaufouina i latou e Au matagi malu e mafai ai ona a’oa’oina, ola, ma atiina’e, ma faaalia i le matagofie silisili i latou. O Lau Afio o le Foa’i, O Lau Afio o le Mutimutialofa.
 
-(Source category: CHILDREN)
-(Bahaiprayers.net ID: 12368)
+-- Abdu'l-Bahá
 
+bpn12368 «[Samoan](../sm/#bpn12368)» 
 
-«[Samoan](../sm/#bpn12368)» 
-
+----
 
 
 <a id="bpn12369"></a> 
-### Prayer bpn12369 in Samoan
 O God, guide me, protect me,…
 
 Le Atua e, ta’ita’i a’u, puipui a’u, faapupulaina le lamepa o lo’u loto ma faia a’u ia avea ma fetu pupula. O Lau Afio o le Malosi ma le Mamana.
 
-(Source category: CHILDREN)
-(Bahaiprayers.net ID: 12369)
+-- Abdu'l-Bahá
 
+bpn12369 «[Samoan](../sm/#bpn12369)» 
 
-«[Samoan](../sm/#bpn12369)» 
-
+----
 
 
 <a id="bpn12370"></a> 
-### Prayer bpn12370 in Samoan
 O Thou Kind Lord! These lovely children are the handiwork….
 
       O Lau Afio o le Alii agalelei! O nei tamaiti o galuega lava ia a tamatama’ia’a silisili o Lau Afio, ma fai ma faailoga ofoofogia o Lou silisiliese. Le Atua e! Puipuia nei tamaiti, taliaina i latou i Lau fesoasoani finagalo malie ina ia mafai ona a’oa’oina ma mafai ai e i latou ona tautua ma auauna atu i le lalolagi o tagata. Le Atua e! O nei tamaiti o ni penina, faia i latou ina ia ola i totonu o le li’o o Lou alofa agalelei. O Lau Afio lava o le alofafoa’ifua, o le Agaalofa uma lava.
 
-(Source category: CHILDREN)
-(Bahaiprayers.net ID: 12370)
+-- Abdu'l-Bahá
 
+bpn12370 «[Samoan](../sm/#bpn12370)» 
 
-«[Samoan](../sm/#bpn12370)» 
-
+----
 
 
 
@@ -144,23 +132,20 @@ O Thou Kind Lord! These lovely children are the handiwork….
 ## DEPARTED
 
 <a id="bpn12371"></a> 
-### Prayer bpn12371 in Samoan
 Glory be to Thee, O Lord my God! Abase not him whom…
 
        Ia ia te oe pea le viiga le Alii e, lo’u Atua! Ia le faalumaina o ia lenei sa faaeaina e Lau afio ona o le mana o Lou mamalu faavavau, ma ia le aveesea mamao mai ia te oe le tagata na faia e Lau Afio ina ia ulufale atu i le tapeneko o Lou faavavau. Lo’u Atua e, pe tuliesea ea e Lau Afio o ia na faamalumaluina e Oe i Lou Malualii, ma pe liliu ese mai ea Lau Afio ia te ia sa avea ai Oe ma sulufaiga lo’u Manaoga e, pe toe faalumaina ea e Lau Afio le tagata sa faaeaina e Oe, po o le faagaloina o ia sa lagaina e Lau Afio ina ia manatuaina e Oe?
        Ia vivii ma saga viia pea Oe! O Oe lava lea sa mai le vavau o fai ma Tupu o le foafoaga atoa ma lona Faagaoioiga Sili, ma o le a tumau pea e faavavau Oe o le Alii o mea uma na faia ma o lo latou Faitofiga. Lo’u Atua e! ia viia Lau Afio! Afai e taofia Lou Alofa Mutimutivale i Au auauna, o ai la o le a alofa mutimutivale ia te i latou; afai fo’i o le a le Finagalo Lau Afio e fesoasoani i Ou tagata peleina, o ai la e mafai ona fesoasoani atu ia te i latou?
         Ia viia ma saga viia pea Oe! O loo faapaleina Oe i Lau lava upu moni, e moni o Lau Afio o loo matou tapua’i uma atu i ai; ma o loo faaalia Oe i Lau faamasinogatonu, ma e moni lava o Lau Afio matou te molimau uma atu i ai. E moni o Lau Afio e pele i Lou alofa tunoa. E leai se tasi Atua iina na o Oe, o le Fesoasoani i Puapuaga, o le Puna-o-le-ola.
 
-(Source category: DEPARTED)
-(Bahaiprayers.net ID: 12371)
+-- Bahá'u'lláh
 
+bpn12371 «[Samoan](../sm/#bpn12371)» 
 
-«[Samoan](../sm/#bpn12371)» 
-
+----
 
 
 <a id="bpn12372"></a> 
-### Prayer bpn12372 in Samoan
 He is God, exalted is He, the Lord of loving-kindness and bounty……
 
 O Ia o le Atua, e silisili ese o Ia, o le Alii o le alofa-agalelei ma le foa’ialofa!
@@ -174,27 +159,24 @@ Lo’u Atua e, ua toe foi atu nei Lou Sui ia te Oe.  Ua tuuina atu ai lava i Lou
 Lo’u Alii e, ou te molimau atu, na faatonuina e Lau Afio i tagata ia faaaloalo i o latou uso a malo, ma o ia lenei ua alu a’e i Lau Afio ua oo lelei atu ia teOe ma taunuu atu i Lou Faatasi mai.  Ia faia iate ia e tusa ma Lou alofa tunoa ma le foaialofa!  Ona o Lou mamalu, ua ou iloa ai ma le mautinoa o le a le taofia e Lau Afio Oe lava mai le mea na faatonuina e Oe i Au auauna, po o le aveesea foi e Lau Afio lenei tagata o loo pipii atu i le manoa o Lau foaialofa ma ua alu a’e i le Punaaso o Lou tamaoaiga.
 E leai lava se i si Atua na o Oe, o le Tasi, o le Tafatasi, o le Mamana, o le Silafaga Ati, o le Foa’ialofa.
 
-(Source category: DEPARTED)
-(Bahaiprayers.net ID: 12372)
+-- Bahá'u'lláh
 
+bpn12372 «[Samoan](../sm/#bpn12372)» 
 
-«[Samoan](../sm/#bpn12372)» 
-
+----
 
 
 <a id="bpn12373"></a> 
-### Prayer bpn12373 in Samoan
 O my God! O Thou forgiver of sins, bestower of gifts..
 
        Lo’u Atua e! O Oe le faamagalo agasala, o le puna o meaalofa, o le faamafanafana i puapuaga! E moni, ou te ole atu i Lau afio ina ia faamagaloina agasala a le ua tuua nei ofu faaletino ae alu a’e i le lalolagi faaleagaga.
       Lo’u Alii e! faamamaina i latou mai solitulafono, faamaise i o latou faanoanoaga, ma ia liliuina lo latou pouliuli i le malamalama. Faia i latou ina ia ulufale atu i le faatoaga o le olioli, faamamaina i latou i le vai mama silisili, ma ia foa’iina ia te i latou ina ia latou vaai i Ou pupula i luga o le mauga silisiliese
 
-(Source category: DEPARTED)
-(Bahaiprayers.net ID: 12373)
+-- Abdu'l-Bahá
 
+bpn12373 «[Samoan](../sm/#bpn12373)» 
 
-«[Samoan](../sm/#bpn12373)» 
-
+----
 
 
 
@@ -202,35 +184,31 @@ O my God! O Thou forgiver of sins, bestower of gifts..
 ## DETACHMENT
 
 <a id="bpn12374"></a> 
-### Prayer bpn12374 in Samoan
 Suffer me, O my God, to draw nigh unto Thee,….
 
      Lo’u Atua e, faapologaina a’u ia avatua faalatalata ia te Oe, ma ia nofo mau ai i totonu o lotoa o Lou maota, aua o le taumamao ma Oe ua latalata mai ai le faaumatia o a’u. Faia ia ou malolo i lalo ifo o le paolo o apaau o Lou alofa tunoa, ona o le mamao o lo’u vavaeesea mai ia te Oe, ua liu suavai ai lo’u loto i totonu ia te a’u. Avatu ia sili ona ou latalata atu i le vaitafe o le olataga lava lea, ona ua mu lo’u agaga i le galala i lana sailiga le gata mai ia te Oe. Lo’u Atua e, o a’u o loo folafolaina atu ai le oona o lo’u mafatia, ma o o’u loimata maligi o loo ta’u atu ai lo’u alofa ia te Oe.
         Ou te ole  atu ia te Oe , i viiga o loo viia ai Lau Afio e Oe lava, ma faaneetaga o loo faaneeneeina ai Oe e Lou lava Uiga, ia  foa’i mai ia faanumeraina faatasi i matou ma i latou ua taliaina Oe ma iloaina Lou mamalu i Ou aso. Lo’u Atua e, fesoasoani mai ia te i matou e feinu mai tamatamailima o le alofa mutimutivale i vai ola o Lou alofa-agalelei, ina ia matou matua faagaloina ai mea uma  vagana Oe, ma mafuta tumau ai pea ma Lau Afio. E leai se tasi Atua iina na o Oe, o le Malosi, le Fesoasoani i Puapuaga, o le Puna-o-le-ola.
      Ia i Lou suafa le faaneetaga, o Lau Afio lava o le Tupu o Tupu uma!
 
-(Source category: DETACHMENT)
-(Bahaiprayers.net ID: 12374)
+-- Bahá'u'lláh
 
+bpn12374 «[Samoan](../sm/#bpn12374)» 
 
-«[Samoan](../sm/#bpn12374)» 
-
+----
 
 
 <a id="bpn12375"></a> 
-### Prayer bpn12375 in Samoan
 Many a chilled heart, Om my God, hath been set ablaze with the fire……
 
        Lo’u Atua e, e tele ni loto maalilili ua faamumuina e le afi o Lau Fuataiga, ma e to’atele tagata moegagase ua fafaguina e le leomalie o Lou Si’ufofoga. E fia tagata ese ua saili lafitaga atu i lalo o le paolo o le laau o Lou tafatasi, ma e matua manomano tagata galala sa tofao atu i le puna o Au vai ola i Ou aso! Amuia le tagata ua faamautuina o ia ia te Oe, ma faataalise atu ia taunuu i le Puna-Aso o Pupula o Ou fofoga. Amuia le tagata ua liliu atu  ma lona alofa atoatoa i le Nofoaga o le Tafaoata o Lau Faaaliga ma le Aovaipuna o Lau faaoloaga faaleagaga. Amuia le tagata ua na faamuamuaina i Lou ala le mea na  foa’iina atu e  Lau Afio ia te ia ona o Lau foa’ialofa ma le finagalo lelei. Amuia le tagata ua ia lafoa’ia mea uma lava vagana Oe ona o lona faanaunau i Lau Afio. Amuia le tagata ua faafiafiaina ona o le mafutaga faauo ma Oe, ma faatoina ai o ia mai mea uma vagana Lau Afio.
       Lo’u Alii e, ou te ole atu ia te Oe ona o Ia lea o Lou suafa, o Le na siitia a’e i luga o le tafa’ilagi o Lona falepuipui e le mana o Lou mamalu ma le malosi, ina ia foa’iina atu mo so o se tasi le mea e tatau ma Oe ma talafeagai ma Lou lava silisili.
 E moni, o Lou malosi e tutusa ma le tuufaatasiga o mea uma lava.
 
-(Source category: DETACHMENT)
-(Bahaiprayers.net ID: 12375)
+-- Bahá'u'lláh
 
+bpn12375 «[Samoan](../sm/#bpn12375)» 
 
-«[Samoan](../sm/#bpn12375)» 
-
+----
 
 
 
@@ -238,7 +216,6 @@ E moni, o Lou malosi e tutusa ma le tuufaatasiga o mea uma lava.
 ## EVENING
 
 <a id="bpn12480"></a> 
-### Prayer bpn12480 in Samoan
 O my God, my Master, the Goal of my desire!
 
 Lo’u Atua e, lo’u Matai, le Sini o lo’u mana’o! O Lau auauna lenei e saili atu ina ia moe i le malu o Lou alofa mutimutivale, ma mapu i lalo ifo o le faapaologa o Lou alofa tunoa, o loo ole atu i Lau tausiga ma Lau puipuiga.
@@ -247,16 +224,14 @@ Lo’u Alii e, ou te ole atu ia te Oe i Ou fofoga e le moe, e leoleoina o’u ma
 
 E leai se tasi Atua iina na o Lau Afio, o le Malosi-Uma, o le Manumalo-Uma, o le Leliliu.
 
-(Source category: EVENING)
-(Bahaiprayers.net ID: 12480)
+-- Bahá'u'lláh
 
+bpn12480 «[Samoan](../sm/#bpn12480)» 
 
-«[Samoan](../sm/#bpn12480)» 
-
+----
 
 
 <a id="bpn12481"></a> 
-### Prayer bpn12481 in Samoan
 How can I choose to sleep, O God, my God
 
 Le Atua e, lo’u Atua, pe faapefea ona ou moe a o loo ala pea mata o i latou o loo naunau ia te Oe ona o le vavaeeseina o i latou mai ia te Oe; pe faapefea ona ou taoto e malolo a o loo mapuitiga loto o Au pele ona o lo latou taumamao mai Lou faatasi mai?
@@ -267,12 +242,11 @@ Ona o Lou Malosi, pe ou te mo pe ala ou te le siligia Oe ae faia le mea e finaga
 
 Ia viia Oe, le Alii o Lalolagi!
 
-(Source category: EVENING)
-(Bahaiprayers.net ID: 12481)
+-- Bahá'u'lláh
 
+bpn12481 «[Samoan](../sm/#bpn12481)» 
 
-«[Samoan](../sm/#bpn12481)» 
-
+----
 
 
 
@@ -280,7 +254,6 @@ Ia viia Oe, le Alii o Lalolagi!
 ## FIRMNESS IN THE COVENANT
 
 <a id="bpn12496"></a> 
-### Prayer bpn12496 in Samoan
 Glory be to Thee, O King of eternity, and the Maker of nations,..
 
  
@@ -293,12 +266,11 @@ Lo’u Ali’i e, o lo’o o’u taofi mau i le ‘au o Lau foa’ialofa, ma pip
 
      E leai se tasi Atua iina na o Oe, o le Malos-uma, o le Poto-Uma.
 
-(Source category: FIRMNESS IN THE COVENANT)
-(Bahaiprayers.net ID: 12496)
+-- Bahá'u'lláh
 
+bpn12496 «[Samoan](../sm/#bpn12496)» 
 
-«[Samoan](../sm/#bpn12496)» 
-
+----
 
 
 
@@ -306,21 +278,18 @@ Lo’u Ali’i e, o lo’o o’u taofi mau i le ‘au o Lau foa’ialofa, ma pip
 ## FORGIVENESS
 
 <a id="bpn12483"></a> 
-### Prayer bpn12483 in Samoan
 Thou seest me, O my Lord, with my face turned towards the heaven…
 
 Lo’u Alii e, ua silafia e Lau Afio a’u ma o’u mata ua liliu atu aga’i i le lagi o Lau foa’ialofa ma le vasa o Lou finagalo lelei, ua liliu ese mai mea uma vagana Oe. Ou te ole atu I lau Afio, ona o pupula o le La o Lau faaaliga I luga o Sinai, ma ave o le Li’o o Lou alofa tunoa o loo susulu mai I le tafailagi o Lou suafa, le Faamagalo-Faavavau, ina ia foa’I mai ia te a’u Lau faamagaloga ma ia I ia le alofa mutimutivale I luga o a’u. Ia tusia mo a’u I Lau peni o le mamalu le mea o le a faaeaina ai a’u ona o Lou suafa I le Lalolagi o le foafoaga. Lo’u Alii e, lagolagoina a’u ina ia faamautuina atoatoa ia te Oe, ma ia faalogo atu I le leo o Au pele, o e ua matua to’ilalo ai malosi o le lalolagi e faavaivaia, ma le pule a malo ua matua leai se malosi e taofia mai ai I lau Afio, ma o I latou ia sa faapea  mai a o aga’I atu ia te Oe: “O le Atua lo matou Alii, le Alii o tagata uma I le ma e o loo I le lalolagi!”
 
-(Source category: FORGIVENESS)
-(Bahaiprayers.net ID: 12483)
+-- Bahá'u'lláh
 
+bpn12483 «[Samoan](../sm/#bpn12483)» 
 
-«[Samoan](../sm/#bpn12483)» 
-
+----
 
 
 <a id="bpn12484"></a> 
-### Prayer bpn12484 in Samoan
 Lauded be Thy name, o my God and the God of all things…
 
  
@@ -331,28 +300,25 @@ Ia vi’ia Lou Suafa lo’u Atua e, ma le Atua o mea uma, i lo’u Pupula ma le 
 
 Lo’u Ali’i e, fa’amagaloina Au auauna tane ma Au auauna fafine.E moni, o Lau Afio o le Fa’amagalo—Fa’avavau, o le Mutimutialofa Silisili.
 
-(Source category: FORGIVENESS)
-(Bahaiprayers.net ID: 12484)
+-- Bahá'u'lláh
 
+bpn12484 «[Samoan](../sm/#bpn12484)» 
 
-«[Samoan](../sm/#bpn12484)» 
-
+----
 
 
 <a id="bpn12485"></a> 
-### Prayer bpn12485 in Samoan
 O Thou forgiving Lord! Thou art the shelter of all these Thy servants…
 
  
 
 O Lau Afio o le Ali’i fa’amagalo! O Lau Afio o le malu o Au auauna uma nei. E silafia e Lau Afio mealilo atoa ma mea uma o lo’o natia. O i matou uma o tagata vaivai, ao Lau Afio e ona le Malosi, o le pule aoao. O i matou o tagata agasala, a o Lau Afio o le Fa’amagalo o agasala, o le alofa Mutimutivale Uma , o le Mutimuti alofa. Le Ali’i e! ‘Aua e te silasila i ō matou tu’inanau. Faia i ā i matou e tusa ai ma Lou alofa tunoa ma le foa’i fua. E tele ō matou tu’inanau, a’o le vasa o Lau fa’amagalo e lē fa’atuā’oia. O matou vaivaiga o se fa’anoanoaga, a’o fa’amaoniga o Lau lagolago mai ma le fesoasoani o lo’o manino. O le mea lea, fa’amautū ma fa’amalosia i matou. Faia i matou ina ia matou faia le mea e tatau ma aogā o Lou Faitotoa paia. Fa’apupulaina o matou loto, tu’uina mai ia i matou ni mata e mafai ona va’ai atoa mani taliga fia fa’alogo. Toe fa’aolaina ē ua oti ma fa’amaloloina ē ua mama’i. Avatu le tamaoaiga i ē matitiva ma auina mai le filemu ma le saogalemu i ē matata’u.Talia mai i matou i Lou malo ma fa’apupulaina i matou mai i le malamalama o le ta’ita’iga.O Lau afio o le Mamana Uma ma o le Pule aoao.O Lau lava Afio o le Agamalū.O Lau Afio o le Agalelei.
 
-(Source category: FORGIVENESS)
-(Bahaiprayers.net ID: 12485)
+-- Abdu'l-Bahá
 
+bpn12485 «[Samoan](../sm/#bpn12485)» 
 
-«[Samoan](../sm/#bpn12485)» 
-
+----
 
 
 
@@ -360,16 +326,14 @@ O Lau Afio o le Ali’i fa’amagalo! O Lau Afio o le malu o Au auauna uma nei. 
 ## Gathering
 
 <a id="bpn12030"></a> 
-### Prayer bpn12030 in Samoan
 *Blessed is the Spot 
 Amu’ia se fanua,  ma se fale,  ma se nofoaga,  ma se a’ai,  ma se loto,  ma se mauga,  ma se lafitaga,  ma se ana,  ma se vanu,  ma se lau’ele’ele,  ma se sami,  ma se motu,  se laufanua laugatasi o loo faia ai le ta’uta’uina o le Atua,  ma vi’ia ai Lona mamalu.
 
-(Source category: Gathering)
-(Bahaiprayers.net ID: 12030)
+-- Bahá'u'lláh
 
+bpn12030 «[Samoan](../sm/#bpn12030)» 
 
-«[Samoan](../sm/#bpn12030)» 
-
+----
 
 
 
@@ -377,21 +341,18 @@ Amu’ia se fanua,  ma se fale,  ma se nofoaga,  ma se a’ai,  ma se loto,  ma 
 ## Healing
 
 <a id="bpn12028"></a> 
-### Prayer bpn12028 in Samoan
 *Thy Name is my healing O my God! 
 
 Lo’u Atua e, o Lou suafa o lo’u faamaloloina lea, ma le manatua o Lau Afio o la’u vaifofo lea.  O le fa’alatalata atu ia te Oe o lo’u fa’amoemoega lea, ma le alofa ia te Oe o lo’u soatau lea. O le alofa mutimutivale o Lau Afio ia te a’u o lo’u fa’amalologa lea ma lo’u fesoasoani i lenei lalolagi ma le olaga atalī. E moni, o Lau Afio o le Foaialofa—Uma, o le Silafia—Uma, o le Poto—Uma.
 
-(Source category: Healing)
-(Bahaiprayers.net ID: 12028)
+-- Bahá'u'lláh
 
+bpn12028 «[Samoan](../sm/#bpn12028)» 
 
-«[Samoan](../sm/#bpn12028)» 
-
+----
 
 
 <a id="bpn12486"></a> 
-### Prayer bpn12486 in Samoan
 O God, my God! I beg of Thee by the ocean of Thy healing,…
 
  
@@ -402,12 +363,11 @@ Le Atua e, lou Atua! Ou te ole atu ia te Oe ona o le vasa o Lau fa’amalologa, 
 
       E matautia Oe e faia ai le mea e finagalo i ai Lau Afio. E leai se tasi Atua na o Oe lava, o le Fa’amagalo—Fa’avavau, o le Agalelei Silisili.
 
-(Source category: Healing)
-(Bahaiprayers.net ID: 12486)
+-- Bahá'u'lláh
 
+bpn12486 «[Samoan](../sm/#bpn12486)» 
 
-«[Samoan](../sm/#bpn12486)» 
-
+----
 
 
 
@@ -415,7 +375,6 @@ Le Atua e, lou Atua! Ou te ole atu ia te Oe ona o le vasa o Lau fa’amalologa, 
 ## LONG OBLIGATORY PRAYER
 
 <a id="bpn12478"></a> 
-### Prayer bpn12478 in Samoan
 *TO BE RECITED ONCE IN TWENTY-FOUR HOURS
  
 
@@ -555,12 +514,11 @@ Le Atua e, lo’u Atua, ua no’u lo’u tua i le avega o a’u agasala, ma o lo
 
  Lo’u Atua e, ou te molimau atu i le mea na molimau mai ai Ou Tagata filifilia, ma fa’ailoa atu le mea sa fa’ailoaina mai e tagata o le Parataiso silisili uma, ma i latou o ē o lo’o fa’ata’amilo fa’ata’ali’o i Lou Nofoali’i mata’utia. Le Ali’i e, o lalolagi uma, e Ōu malō o le lagi ma le lalolagi!
 
-(Source category: LONG OBLIGATORY PRAYER)
-(Bahaiprayers.net ID: 12478)
+-- Bahá'u'lláh
 
+bpn12478 «[Samoan](../sm/#bpn12478)» 
 
-«[Samoan](../sm/#bpn12478)» 
-
+----
 
 
 
@@ -568,7 +526,6 @@ Le Atua e, lo’u Atua, ua no’u lo’u tua i le avega o a’u agasala, ma o lo
 ## MEDIUM OBLIGATORY PRAYER
 
 <a id="bpn12477"></a> 
-### Prayer bpn12477 in Samoan
 *TO BE RECITED DAILY, IN THE MORNING, AT NOON, AND IN THE EVENING
  
 
@@ -624,12 +581,11 @@ Lo’u Atua e, ia le fa’apologaina o ia o lo’o pipi’i atu ma tamatama’il
 
      Ou te molimau atu i Lau aufa’atasiga ma Lou tafatasi, ma o Oe lava o le Atua, ma e leai lava se tasi Atua i tala atu o Oe. E moni sa fa’aalia e Oe Lau Fuata’iga, fa’ataunuuina Lau Feagaiga, ma tatalaina faalautele le faitoto’a o Lou alofa tunoa i tagata uma o nonofo i le Lagi ma luga o le lalolagi. O le faamanuiaga ma le filemu, le faaneetaga ma le mamalu, ia i luga lea o Au pele, o i latou ia e le i mafai ona taofia mai fesuia’iga ma avanoa o le lalolagi mai le liliu atu ia te Oe, ma o ē sa tu’uina atu a latou mea uma i le faamoemoe e maua mai ai le mea o lo’o ia te Oe. E moni, o Oe o le fa’amagalo–Fa’avavau, o le Foa’ialofa–Uma.
 
-(Source category: MEDIUM OBLIGATORY PRAYER)
-(Bahaiprayers.net ID: 12477)
+-- Bahá'u'lláh
 
+bpn12477 «[Samoan](../sm/#bpn12477)» 
 
-«[Samoan](../sm/#bpn12477)» 
-
+----
 
 
 
@@ -637,7 +593,6 @@ Lo’u Atua e, ia le fa’apologaina o ia o lo’o pipi’i atu ma tamatama’il
 ## MEETINGS
 
 <a id="bpn12491"></a> 
-### Prayer bpn12491 in Samoan
 O Thou kind Lord! These are Thy servants who have gathered in this meeting,…
 
  
@@ -648,16 +603,14 @@ O Oe o le Ali’i alofa! O Au auauna nei ua fa’apotopoto fa’atasi mai i lene
 
 O Lau Afio o le malosi.O Lau Afio e mamana.O Oe o le Foa’i, ma o Oe o le Foa’ialofa—Fa’avavau.
 
-(Source category: MEETINGS)
-(Bahaiprayers.net ID: 12491)
+-- Abdu'l-Bahá
 
+bpn12491 «[Samoan](../sm/#bpn12491)» 
 
-«[Samoan](../sm/#bpn12491)» 
-
+----
 
 
 <a id="bpn12492"></a> 
-### Prayer bpn12492 in Samoan
 O Thou forgiving God! These servants are turning to Thy kingdom and seeking Thy grace and bounty.
 
 O Lau Afio o le Atua fa’amagalo! O au auauna nei ua liliu atu i Lou malō ma sā’ili atu i Lou alofa tunoa ma le foa’i. Le Atua e! Faia o latou loto ia lelei ma mamā ina ia tāua ia i latou Lou alofa. Fa’amamā ma fa’apa’iaina agaga ina ia mafai e le malamalama o le La o Mea Moni ona susulu atu ia te i latou. Fa’amamā ma fa’apa’iaina mata ina ia mafai ona latou va’aia Lou mālamalama. Fa’amamā ma fa’apa’ia taliga ina ia mafai ona latou lagonaina le vala’au o Lou malō.
@@ -670,28 +623,25 @@ O Lau Afio o le Atua fa’amagalo! O au auauna nei ua liliu atu i Lou malō ma 
 
      O Lau Afio o le Mamana Uma, o le Malosi, o le Alofa Mutimutivale, ma o Lau Afio lava o le Foa’ifua, o le Agalelei, o le Ali’i o le alofa tunoa agalelei.
 
-(Source category: MEETINGS)
-(Bahaiprayers.net ID: 12492)
+-- Abdu'l-Bahá
 
+bpn12492 «[Samoan](../sm/#bpn12492)» 
 
-«[Samoan](../sm/#bpn12492)» 
-
+----
 
 
 <a id="bpn12493"></a> 
-### Prayer bpn12493 in Samoan
 O Divine Providence! This assemblage is composed of Thy friends who are attracted to Thy beauty…
 
 Le Ta’ita’iga e Fa’ale-Atua! O lenei fa’atasiga o se aofiaga o Au uō o ē ua tosina atu i Lou matagofie ma ua fa’amumūina mai i le afi o Lou alofa. Liua nei agaga e avea ma agelu fa’alelagi ma fa’aolaina i latou mai le manavaga a Lou Agaga Paia, foa’iina ia i latou ni laulaufaiva mataala ma ni loto tinoū finafinau, ‘auina ifo i ō latou luga le malosi fa’a-lelagi ma le mutimutivale uma i mafaufauga ma uiga lelei, faia i latou e avea ma pogai e folafolaina fa’alautele atu ai le ‘aufa’atasi o tagata ola atoa ma pogai o le alofa ma le to’afilemū i le lalolagi o tagata ola, ina ia mafai ai e le mata’utia o le pouliuli o le valea ma ‘upu’esega ona mou malie atu i le malamalama o le Lā o le Mea Moni, ina ia suia lenei lalolagi fa’anoanoa i le malamlama, ma lenei malō fa’aletino ia mafai ona miti’ia e ‘ave o le malō fa’aleagaga, ia mafai ona tu’ufa’atasia lanu ‘ese’ese i se lanu e tasi ma mafai ai e fātuga leomālie o vi’iga ona tutū a’e i le malō o Lou fa’apa’iaina.
 
      E moni, O Lau lava Afio o le Malosi ma o le Malosi Uma lava!
 
-(Source category: MEETINGS)
-(Bahaiprayers.net ID: 12493)
+-- Abdu'l-Bahá
 
+bpn12493 «[Samoan](../sm/#bpn12493)» 
 
-«[Samoan](../sm/#bpn12493)» 
-
+----
 
 
 
@@ -699,7 +649,6 @@ Le Ta’ita’iga e Fa’ale-Atua! O lenei fa’atasiga o se aofiaga o Au uō o
 ## MIDNIGHT
 
 <a id="bpn12482"></a> 
-### Prayer bpn12482 in Samoan
 O Lord, I have turned my face unto Thy kingdom of oneness
 
 Tagata saili e, o le Upu Moni! Afai e te mana’o e faapupulaina e le Atua ou mata, e ao ona e aioi atu i le Atua, tatalo ma mafuta atu ia te Ia i le vaeluaga o le po, i  le faapea atu:
@@ -708,12 +657,11 @@ Lo’u Alii e, ua liliu atu o’u mata i Lou malo o le tafatasi, ma ua lofia au�
 
 E moni o Lau Afio o le Foa’i, le Agalelei, le Alofa Mutimutivale, o le Faamagalo.
 
-(Source category: MIDNIGHT)
-(Bahaiprayers.net ID: 12482)
+-- Abdu'l-Bahá
 
+bpn12482 «[Samoan](../sm/#bpn12482)» 
 
-«[Samoan](../sm/#bpn12482)» 
-
+----
 
 
 
@@ -721,7 +669,6 @@ E moni o Lau Afio o le Foa’i, le Agalelei, le Alofa Mutimutivale, o le Faamaga
 ## NEARNESS TO GOD
 
 <a id="bpn12487"></a> 
-### Prayer bpn12487 in Samoan
 O Lord, my God and my Heaven in my distress
 
  
@@ -748,12 +695,11 @@ Ia ou lafi i lalo o le paolo o Ou apa’au malu, ma sisila mai i o’u luga le s
 
 E moni o Lau Afio o le Alofa Tunoa, o le Fa’aneetaga, o le Malosi, o le Malosi uma lava.
 
-(Source category: NEARNESS TO GOD)
-(Bahaiprayers.net ID: 12487)
+-- Abdu'l-Bahá
 
+bpn12487 «[Samoan](../sm/#bpn12487)» 
 
-«[Samoan](../sm/#bpn12487)» 
-
+----
 
 
 
@@ -761,7 +707,6 @@ E moni o Lau Afio o le Alofa Tunoa, o le Fa’aneetaga, o le Malosi, o le Malosi
 ## PRAISE AND GRATITUDE
 
 <a id="bpn12489"></a> 
-### Prayer bpn12489 in Samoan
 Magnified be Thy name, O Lord my God! Thou art He Whom all things worship…
 
  
@@ -774,16 +719,14 @@ O lau Afio o Ia lea e tapua’i i ai mea uma a o Le e lē tapua’i i se tasi ,
 
 O Lau afio o le Atua o le mana, o le mamalu ma le foa’ialofa. E leai se tasi Atua iina na o Oe, o le Tupu Silisili, le Mamalu-Uma, o le Silafaga Ati.
 
-(Source category: PRAISE AND GRATITUDE)
-(Bahaiprayers.net ID: 12489)
+-- Bahá'u'lláh
 
+bpn12489 «[Samoan](../sm/#bpn12489)» 
 
-«[Samoan](../sm/#bpn12489)» 
-
+----
 
 
 <a id="bpn12490"></a> 
-### Prayer bpn12490 in Samoan
 Glorified art Thou, O Lord my God! I yield Thee thanks for having enabled me to recognize the Manifestation of Thyself
 
  
@@ -792,12 +735,11 @@ Le Ali’i e, lo’u Atua e, ia fa’anene’eina Lau Afio! Ou te tu’uina atu 
 
      O Lau Afio o le Malosiuma, o le Silisili Ese, o le Fa’ane’etaga-Uma, o le Alofa-Uma.
 
-(Source category: PRAISE AND GRATITUDE)
-(Bahaiprayers.net ID: 12490)
+-- Bahá'u'lláh
 
+bpn12490 «[Samoan](../sm/#bpn12490)» 
 
-«[Samoan](../sm/#bpn12490)» 
-
+----
 
 
 
@@ -805,33 +747,29 @@ Le Ali’i e, lo’u Atua e, ia fa’anene’eina Lau Afio! Ou te tu’uina atu 
 ## PROTECTION
 
 <a id="bpn12376"></a> 
-### Prayer bpn12376 in Samoan
 Lauded be Thy name, O Lord my God! I entreat Thee by Thy Name through which the Hour…
      Le Alii e, lo’u Atua, Ia viia Lou suafa! Ou te ole atu ia te Oe i Lou Suafa lea na ta ai le Itula, ma faataunuuina ai le Toe Tu, na maua ai i le fefe ma le matata’u tagata uma i le lagi ma i latou uma i luga o le lalolagi, ina ia toto ifo mai le lagi o Lou alofa mutimutivale ma ao o Lou mutimutialofa agamalu, le mea o le a faafiafiaina ai loto o Au auauna, o e ua liliu atu ia te Oe ma fesoasoani i Lau Fuataiga.
      Lo’u Alii e, malutia Au auauna tane ma auauna fafine mai u o le manatu valea ma faufauga le aoga, ae avatu i ai latou se inumaga o vai e tafe lemu o Lou poto mai aao o Lou alofa tunoa.
     E moni, o Lau Afio o le Malosiuma, o le Faaeaina Silisili, o le Faamagalo-Faavavau, o le Agalelei silisili.
 
-(Source category: PROTECTION)
-(Bahaiprayers.net ID: 12376)
+-- Bahá'u'lláh
 
+bpn12376 «[Samoan](../sm/#bpn12376)» 
 
-«[Samoan](../sm/#bpn12376)» 
-
+----
 
 
 <a id="bpn12377"></a> 
-### Prayer bpn12377 in Samoan
 O God, my God! I have set out from my home,..
 
       Le Atua e, lo’u Atua! Ua ou tuua nei lo’u aiga, o pipii mau atu pea i le manoa o Lou alofa, ma ou matua tuuina atu atoatoa ai a’u i Lau tausiga ma Lau puipuiga. Ou te ole atu ia te Oe ona o Lou mana na puipuia ai e Lau Afio Ou tagata peleina mai tagata ua sese ma le finauvale, ma soo se tagata fouvale faapi’opi’o fo’i, ma soo se tagata amioleaga ua sese mamao mai ia te Oe, ina ia puipui malu mai ia te a’u e Lau foa’ialofa ma Lou alofa tunoa. Faamalosia a’u e Lou mana ma Lou malosi ou te toe fo’i atu ai i lo’u aiga. 
      E moni, o Lau Afio o le Malosiuma, o le fesoasoani i Puapuag, o le Puna-o-le-Ola
 
-(Source category: PROTECTION)
-(Bahaiprayers.net ID: 12377)
+-- Bahá'u'lláh
 
+bpn12377 «[Samoan](../sm/#bpn12377)» 
 
-«[Samoan](../sm/#bpn12377)» 
-
+----
 
 
 
@@ -839,7 +777,6 @@ O God, my God! I have set out from my home,..
 ## SHORT OBLIGATORY PRAYER
 
 <a id="bpn12476"></a> 
-### Prayer bpn12476 in Samoan
 ##SHORT OBLIGATORY PRAYER
 
 *TO BE RECITED ONCE IN TWENTY-FOUR HOURS, AT NOON
@@ -862,12 +799,11 @@ E leai lava se tasi Atua na o Oe, o le Fesoasoani i Puapugā, o le Puna– o–
 
 *- Oto’otoga mai Tusi Tulafono itulau 36
 
-(Source category: SHORT OBLIGATORY PRAYER)
-(Bahaiprayers.net ID: 12476)
+-- Bahá'u'lláh
 
+bpn12476 «[Samoan](../sm/#bpn12476)» 
 
-«[Samoan](../sm/#bpn12476)» 
-
+----
 
 
 
@@ -875,7 +811,6 @@ E leai lava se tasi Atua na o Oe, o le Fesoasoani i Puapugā, o le Puna– o–
 ## STEADFASTNESS
 
 <a id="bpn12494"></a> 
-### Prayer bpn12494 in Samoan
 O Thou Whose nearness is my wish, Whose presence is my hope,…
 
  
@@ -886,28 +821,25 @@ Lo’u Ali’i e, o a’u le tagata ua fa’agaloina mea uma vaganā Oe, ma lil
 
 E moni, o Lau Afio o le Atua o le Mana, le Fesoasoani i Puapuagā, le Mamalu-uma, o le Malosi-uma.
 
-(Source category: STEADFASTNESS)
-(Bahaiprayers.net ID: 12494)
+-- Bahá'u'lláh
 
+bpn12494 «[Samoan](../sm/#bpn12494)» 
 
-«[Samoan](../sm/#bpn12494)» 
-
+----
 
 
 <a id="bpn12495"></a> 
-### Prayer bpn12495 in Samoan
 O Lord my God! Assist Thy loved ones to be firm in Thy Faith,…
 
  
 
 Le Ali’i e, lo’u Atua! Fesoasoani i Au pele ina  ia mausalī i Lau fa’atuatuaga, ia savavali i Ou ala, ma ia lotomau i Lau Fuata’iga. Avatu ia te i latou Lou alofa tunoa e tete’e atu ai i osofa’iga a le manatu fa’apito ma le lotoa, ma mulimuli atu ai i le malamalama o le ta’ita’iga fa’aleagaga. O Lau Afio o le Mamana, o le Alofa tunoa, o le Puna-o-le-Ola, o le Foa’i, o le Mutimutialofa, le Malosiuma o le Foa’ialofa —Uma.
 
-(Source category: STEADFASTNESS)
-(Bahaiprayers.net ID: 12495)
+-- Abdu'l-Bahá
 
+bpn12495 «[Samoan](../sm/#bpn12495)» 
 
-«[Samoan](../sm/#bpn12495)» 
-
+----
 
 
 
@@ -915,60 +847,52 @@ Le Ali’i e, lo’u Atua! Fesoasoani i Au pele ina  ia mausalī i Lau fa’atu
 ## Spiritual Growth
 
 <a id="bpn12031"></a> 
-### Prayer bpn12031 in Samoan
 *O my Lord! Make Thy beauty to be my food 
 Lo’u Alii e! Faia Lou matagofie ma a’u mea’ai, ma Lou fa’atasi mai ma o’u vai inu, ma Lou finagalo malie ma o’u fa’amoemoega, ma le vivii ia te Oe ma a’u gaoioiga, ma le manatua o Oe ma a’u ‘aumea, ma le mana o Lou mamalu ma o’u fesoasoani, ma Lou afio’aga ma o’u aiga, ma lo’u nofoaga ma afio’aga ua E faapaiaina mai tapulaa sa faaeeina atu i luga o i latou ua tapunia e se puao mai Lau Afio. 
  
 E moni o Oe le Malosi-uma , o le Mamalu-uma, o le Mamana-silisili.
 
-(Source category: Spiritual Growth)
-(Bahaiprayers.net ID: 12031)
+-- Bahá'u'lláh
 
+bpn12031 «[Samoan](../sm/#bpn12031)» 
 
-«[Samoan](../sm/#bpn12031)» 
-
+----
 
 
 <a id="bpn12479"></a> 
-### Prayer bpn12479 in Samoan
 I am, O my God, but a tiny seed which Thou hast sown….
 
 Lo’u Atua e, o a’u ua na o se fatu fa’atauva’a lava sa luluina e Lau Afio i le ele’ele o Lou alofa, ma sa faia ai ina ia totogo a’e e le a’ao o Lau foa’ialofa. O le mea lea, o lo’o ole atu lenei fatu i lona tagata i totonu lava i vai o Lou alofa mutimutivale ma vaipuna ola o Lou alofa tunoa. Auina mai i ona luga mai le lagi o Lou alofa-agalelei le mea o le a mafai ai e ia ona fuga a’e i lalo ifo o Lou paolo atoa fo’i ma totonu o tua’oi o Lou lotoa. O Oe lava o le a fa’asūsūina i vai loto o i latou uma ua iloa Oe mai Lou vaitafe tele ma le vaipuna o Au vai ola.
 
 Ia vi’ia le Atua, le Ali’i o lalolagi.
 
-(Source category: Spiritual Growth)
-(Bahaiprayers.net ID: 12479)
+-- Bahá'u'lláh
 
+bpn12479 «[Samoan](../sm/#bpn12479)» 
 
-«[Samoan](../sm/#bpn12479)» 
-
+----
 
 
 <a id="bpn12032"></a> 
-### Prayer bpn12032 in Samoan
 *Say God sufficeth 
 Fai atu: Ua fa’aatoatoaina e le Atua mea uma i luga o mea uma lava, ma e leai se mea i le lagi po o le lalolagi vagana le atoatoa o le Atua. E moni, o Ia ia te Ia lava o le Silafia, o le Lagolago, o le Malosi uma lava.
 
-(Source category: Spiritual Growth)
-(Bahaiprayers.net ID: 12032)
+-- Báb
 
+bpn12032 «[Samoan](../sm/#bpn12032)» 
 
-«[Samoan](../sm/#bpn12032)» 
-
+----
 
 
 <a id="bpn12365"></a> 
-### Prayer bpn12365 in Samoan
 O my Lord! O my Lord! This is the lamp lighted by the fire of Thy love……
 Lo’u Alii e! Lo’u Alii e! O le lamepa lenei na tutuina e le afi o Lou alofa, ma mumu ai i se sasao o loo ola i le laau o Lou alofa mutimutivale. Lo’u Alii e, faateleina lona mumu, vevela ma le sasao, i le afi sa tutuina i le Sinai o Lau Faifaaaliga. E moni, o Lau Afio o le Faamautuuga, le Fesoasoani, le Mamana, le Agalelei o le Alofa.
 
-(Source category: Spiritual Growth)
-(Bahaiprayers.net ID: 12365)
+-- Abdu'l-Bahá
 
+bpn12365 «[Samoan](../sm/#bpn12365)» 
 
-«[Samoan](../sm/#bpn12365)» 
-
+----
 
 
 
@@ -976,16 +900,14 @@ Lo’u Alii e! Lo’u Alii e! O le lamepa lenei na tutuina e le afi o Lou alofa,
 ## Tests and Difficulties
 
 <a id="bpn12029"></a> 
-### Prayer bpn12029 in Samoan
 *Is there any Remover of difficulties 
 Pe i ai ea se isi Puluvaga  o mea faigata vagana le Atua? Fai atu: Ia viia le Atua. O Ia o le Atua! O tagata uma lava o Ana auauna, ma ua fusia uma i Ana afioga!
 
-(Source category: Tests and Difficulties)
-(Bahaiprayers.net ID: 12029)
+-- Báb
 
+bpn12029 «[Samoan](../sm/#bpn12029)» 
 
-«[Samoan](../sm/#bpn12029)» 
-
+----
 
 
 

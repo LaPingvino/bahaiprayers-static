@@ -107,123 +107,105 @@ tags = ['lang=id', 'prayerbook']
 ## Anak-Anak
 
 <a id="bpn5092"></a> 
-### Prayer bpn5092 in Bahasa Indonesia
 Ya Rabi Tuhanku! Inilah anak yang telah lahir dari kandungan hamba-Mu, yang telah Engkau berikan kedudukan yang luhur dalam Loh-loh-Mu yang tak dapat diubah dan dalam Kitab-kitab perintah-Mu.
 
 Aku memohon kepada-Mu demi nama-Mu, yang melaluinya, semua orang diperkenankan untuk mencapai tujuan hasratnya, agar memungkinkan anak ini berpandangan dewasa di antara hamba-hamba-Mu; biarlah dia memancarkan sinarnya melalui kekuatan nama-Mu; mungkinkanlah dia memberikan pujian kepada-Mu, mengarahkan wajahnya kepada-Mu dan mendekati-Mu.
 
 Sesungguhnya, Engkaulah yang sejak dahulu telah berkuasa untuk berbuat apa yang Engkau kehendaki dan untuk selama-lamanya akan tetap berkuasa untuk berbuat sekehendak-Mu. Tiada Tuhan kecuali Engkau, Yang Luhur, Yang Maha Agung, Yang Maha Penakluk, Yang Maha Kuasa, Yang Maha Pemaksa.
 
-(Source category: Anak-Anak)
-(Bahaiprayers.net ID: 5092)
+-- Bahá'u'lláh
 
+bpn5092 «[Bahasa Indonesia](../id/#bpn5092)» 
 
-«[Bahasa Indonesia](../id/#bpn5092)» 
-
+----
 
 
 <a id="bpn5093"></a> 
-### Prayer bpn5093 in Bahasa Indonesia
 Ya Tuhan, bimbinglah hamba, lindungilah hamba, jadikanlah hamba laksana lampu yang terang dan bintang yang cemerlang. Engkaulah Maha Kuasa dan Maha Kuat.
 
-(Source category: Anak-Anak)
-(Bahaiprayers.net ID: 5093)
+-- Abdu'l-Bahá
 
+bpn5093 «[Bahasa Indonesia](../id/#bpn5093)» 
 
-«[Bahasa Indonesia](../id/#bpn5093)» 
-
+----
 
 
 <a id="bpn5094"></a> 
-### Prayer bpn5094 in Bahasa Indonesia
 Ya Tuhan Yang Maha Suci! Aku adalah anak kecil; biarlah susu kasih sayang-Mu menjadi susu yang aku hasratkan. Berilah aku makan dengan madu dan susu cinta-Mu. Peliharalah daku dalam pelukan dada pengetahuan-Mu; dan anugerahilah daku dengan kemuliaan dan kearifan selagi aku masih kecil.
 
 Ya Engkau Tuhan Yang Berdiri Sendiri! Jadikanlah aku teman karib Kerajaan Yang Gaib. Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Kuat.
 
-(Source category: Anak-Anak)
-(Bahaiprayers.net ID: 5094)
+-- Abdu'l-Bahá
 
+bpn5094 «[Bahasa Indonesia](../id/#bpn5094)» 
 
-«[Bahasa Indonesia](../id/#bpn5094)» 
-
+----
 
 
 <a id="bpn5095"></a> 
-### Prayer bpn5095 in Bahasa Indonesia
 Ya Tuhan Yang Penyayang! Anak-anak yang manis ini adalah karya jari-jari-Mu yang berkuasa dan tanda-tanda yang indah dari kebesaran-Mu. Ya Tuhan! Lindungilah anak-anak ini dan bantulah mereka dengan kasih sayang-Mu agar mereka dapat dididik dan dapat mengabdi kepada umat manusia.
 
 Ya Tuhan! Anak-anak ini bagaikan mutiara, peliharalah mereka dalam kerang kasih sayang-Mu. Engkau Pemberi, Yang Maha Pengasih.
 
-(Source category: Anak-Anak)
-(Bahaiprayers.net ID: 5095)
+-- Abdu'l-Bahá
 
+bpn5095 «[Bahasa Indonesia](../id/#bpn5095)» 
 
-«[Bahasa Indonesia](../id/#bpn5095)» 
-
+----
 
 
 <a id="bpn5096"></a> 
-### Prayer bpn5096 in Bahasa Indonesia
 Ya Tuhanku! Ya Tuhanku! Aku seorang anak kecil. Berilah aku susu dari dada rahmat-Mu, peliharalah aku dalam pelukan cinta-Mu, didiklah aku dalam sekolah bimbingan-Mu dan kembangkanlah aku di bawah naungan karunia-Mu. Selamatkanlah aku dari kegelapan, jadikanlah aku lampu yang cemerlang, bebaskanlah aku dari kesedihan, jadikanlah aku bunga mawar di taman-Mu; perkenankanlah aku menjadi hamba di ambang pintu-Mu dan berilah padaku watak dan sikap orang yang berbudi; jadikanlah aku penyebab berkah bagi umat manusia dan hiasilah kepalaku dengan mahkota kehidupan abadi. Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Kuat, Yang Melihat dan Yang Mendengar.
 
-(Source category: Anak-Anak)
-(Bahaiprayers.net ID: 5096)
+-- Abdu'l-Bahá
 
+bpn5096 «[Bahasa Indonesia](../id/#bpn5096)» 
 
-«[Bahasa Indonesia](../id/#bpn5096)» 
-
+----
 
 
 <a id="bpn5097"></a> 
-### Prayer bpn5097 in Bahasa Indonesia
 Ya Tuhan! Jadikanlah anak-anak ini pohon-pohon yang tiada banding taranya. Biarkanlah mereka tumbuh dan berkembang di Taman Perjanjian-Mu dan anuge- rahilah mereka dengan kesegaran dan keindahan melalui curahan-curahan awan dari Kerajaan Abhá.
 
 Ya Tuhan Yang Maha Pengasih! Aku adalah seorang anak kecil, muliakanlah daku dengan mengizinkan aku memasuki Kerajaan-Mu. Aku bersifat duniawi, jadikanlah aku surgawi; aku penghuni bumi, jadikanlahakupenghuniSurga;akusuram, jadikan-lah aku terang; aku duniawi, jadikanlah aku rohani, dan mungkinkanlah aku menjadi penjelmaan pemberian- pemberian-Mu yang tak terbatas. Engkau Yang Maha Kuasa dan Maha Penyayang.
 
-(Source category: Anak-Anak)
-(Bahaiprayers.net ID: 5097)
+-- Abdu'l-Bahá
 
+bpn5097 «[Bahasa Indonesia](../id/#bpn5097)» 
 
-«[Bahasa Indonesia](../id/#bpn5097)» 
-
+----
 
 
 <a id="bpn5098"></a> 
-### Prayer bpn5098 in Bahasa Indonesia
 Ya Tuhan Yang Maha Penyayang! Ya Rabi Sarwa Sekalian Alam! Pujian bagi-Mu karena Engkau lebih menyukai anak-anak kecil ini daripada orang dewasa, telah menganugerahi mereka dengan rahmat- Mu yang istimewa, telah membimbing mereka, telah memberikan cahaya-Mu kepada mereka dan telah menganugerahi mereka dengan kerohanian.
 
 Kokohkanlah kami supaya ketika menginjak dewasa, kami dapat mengabdi kepada Kerajaan-Mu, dapat mendidik jiwa-jiwa, dapat menjadi lilin-lilin yang bernyala dan dapat bersinar bagaikan bintang-bintang. Engkaulah Pemberi, Penganugerah dan Pengasih!
 
-(Source category: Anak-Anak)
-(Bahaiprayers.net ID: 5098)
+-- Abdu'l-Bahá
 
+bpn5098 «[Bahasa Indonesia](../id/#bpn5098)» 
 
-«[Bahasa Indonesia](../id/#bpn5098)» 
-
+----
 
 
 <a id="bpn5099"></a> 
-### Prayer bpn5099 in Bahasa Indonesia
 Ya Tuhan! Aku adalah anak kecil, mungkinkanlah daku tumbuh di bawah naungan cinta kasih sayang-Mu. Aku adalah sebuah tanaman muda, peliharalah daku dengan curahan awan-awan rahmat-Mu; aku adalah pohon muda di taman cinta-Mu, jadikanlah daku pohon yang berbuah. Engkaulah Maha Kuasa dan Maha Kuat; Engkaulah Maha Penyayang dan Maha Melihat.
 
-(Source category: Anak-Anak)
-(Bahaiprayers.net ID: 5099)
+-- Abdu'l-Bahá
 
+bpn5099 «[Bahasa Indonesia](../id/#bpn5099)» 
 
-«[Bahasa Indonesia](../id/#bpn5099)» 
-
+----
 
 
 <a id="bpn5100"></a> 
-### Prayer bpn5100 in Bahasa Indonesia
 Ya Tuhan didiklah anak-anak ini. Mereka itu pohon-pohon dalam kebun-Mu, bunga-bunga dalam taman-Mu, bunga-bunga mawar dalam halaman-Mu. Turunkanlah hujan-Mu pada mereka. Pancarkanlah Matahari Kebenaran pada mereka dengan cinta-Mu. Biarlahhembusan-Mumenyegarkanmereka, sehingga mereka dapat dididik, tumbuh dan berkembang serta nampak seindah-indahnya. Engkaulah Maha Pemberi, Engkaulah Maha Pengasih.
 
-(Source category: Anak-Anak)
-(Bahaiprayers.net ID: 5100)
+-- Abdu'l-Bahá
 
+bpn5100 «[Bahasa Indonesia](../id/#bpn5100)» 
 
-«[Bahasa Indonesia](../id/#bpn5100)» 
-
+----
 
 
 
@@ -231,36 +213,31 @@ Ya Tuhan didiklah anak-anak ini. Mereka itu pohon-pohon dalam kebun-Mu, bunga-bu
 ## Anugerah Terbesar
 
 <a id="bpn5133"></a> 
-### Prayer bpn5133 in Bahasa Indonesia
 Dibesarkanlah nama-Mu, ya Tuhanku, karena
 Engkau telah menjelmakan Hari yang merupakan Raja dari Semua Hari, Hari yang telah Engkau umumkan kepada Orang-orang pilihan-Mu dan para Rasul-Mu dalam Loh-loh-Mu yang unggul, Hari di mana Engkau telah memancarkan cahaya kemuliaan semua nama-Mu pada segala yang diciptakan. Besarlah berkatnya barangsiapa yang telah meng-arahkan dirinya pada-Mu, dan memasuki kehadiran-Mu dan menangkap nada- nada suara-Mu.
 Aku memohon kepada-Mu, ya Tuhanku, demi nama Dia, yang di sekeliling-Nya berputar kerajaan nama- nama-Mu dalam pemujaannya, agar sudilah Engkau membantu mereka yang Engkau cintai, untuk memuliakan firman-Mu di antara hamba-hamba-Mu dan mencurahkan kemana-mana pujian-Mu di tengah- tengah makhluk-makhluk-Mu, sehingga kebahagiaan wahyu-Mu dapat mengisi jiwa semua penghuni bumi- Mu.
 Karena Engkau telah membimbing mereka ya Tuhanku, ke samudera kehidupan rahmat-Mu, janganlah dijauhkan mereka dari-Mu demi rahmat-Mu dan karena Engkau telah memanggil mereka ke tempat kedudukan takhta-Mu, maka janganlah mereka diusir dari kehadiran-Mu melalui kasih sayang-Mu. Turunkanlah kepada mereka apa yang akan membuat mereka terlepas sama sekali dari segala sesuatu kecuali Engkaudanmembuatmerekamembubungke angkasa kedekatan-Mu sedemikian rupa sehingga tiada kekuasaan para penindas maupun bisikan-bisikan mereka yang tak beriman pada Dirimu Yang Maha Mulia dan Maha Perkasa, yang akan mampu membuat mereka berpaling dari-Mu.
 
-(Source category: Anugerah Terbesar)
-(Bahaiprayers.net ID: 5133)
+-- Abdu'l-Bahá
 
+bpn5133 «[Bahasa Indonesia](../id/#bpn5133)» 
 
-«[Bahasa Indonesia](../id/#bpn5133)» 
-
+----
 
 
 <a id="bpn5134"></a> 
-### Prayer bpn5134 in Bahasa Indonesia
 Pujian bagi-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang tak seorang pun mengenal dengan layak, dan yang maksud-Nya tak sejiwa pun mengerti; aku memohon kepada-Mu demi Dia, Sumber Wahyu-Mu dan Fajar tanda-tanda-Mu, agar menjadikan hatiku sebagai wadah cinta-Mu dan mengingat akan Dikau. Hubungkanlah ia kepada Samudera-Mu yang maha besar agar daripadanya mengalir air hayat kearifan-Mu dan sungai-sungai jernih kemuliaan dan pujian-Mu.
 Anggota-anggota badanku naik saksi akan keesaan- Mu dan rambut di kepalaku mengumumkan kekuatan kekuasaan dan kedaulatan-Mu. Aku berdiri pada pintu kurnia-Mu dengan penuh kerendahan hati dan penuh pengorbanan, dan berpegang teguh kepada ujung rahmat-Mu dan mengarahkan pandanganku kepada ufuk pemberian-pemberian-Mu.
 Takdirkanlah bagiku, ya Tuhanku, apa yang layak bagi kebesaran keagungan-Mu dan bantulah daku dengan rahmat-Mu yang menguatkan, untuk mengajar Agama-Mu sehingga mereka yang mati akan segera bangkit dari kuburnya dan bersegera menuju ke arah- Mu dengan meletakkan kepercayaan mereka sepenuhnya kepada-Mu dan menetapkan pandangan- nya ke arah Agama-Mu dan Tempat Terbit Wahyu-Mu. Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Tinggi, Yang Maha Tahu, Yang Maha Arif.
 
-(Source category: Anugerah Terbesar)
-(Bahaiprayers.net ID: 5134)
+-- Abdu'l-Bahá
 
+bpn5134 «[Bahasa Indonesia](../id/#bpn5134)» 
 
-«[Bahasa Indonesia](../id/#bpn5134)» 
-
+----
 
 
 <a id="bpn5135"></a> 
-### Prayer bpn5135 in Bahasa Indonesia
 *"Penyebar-penyebar keharuman Tuhan sebaiknya membaca doa ini setiap pagi."
 
 Ya Tuhanku! Ya Tuhanku! Engkau melihat orang lemah ini memohon kekuatan rohani-Mu, Engkau melihat orang miskin ini menghasratkan kekayaan surgawi-Mu, orang haus ini merindukan mata air hidup abadi-Mu, dan penderita ini menginginkan kesembuhan yang dijanjikan oleh-Mu melalui rahmat-Mu yang tak terbatas, yang telah Engkau takdirkan bagi hamba-hamba pilihan-Mu di kerajaan-Mu yang tinggi.
@@ -268,16 +245,14 @@ Ya Tuhan! Tiada yang membantu hamba melainkan Engkau, tiada yang melindungi hamb
 
 Ya Tuhanku! Jadikanlah hamba seorang yang terlepas dari segala sesuatu kecuali Engkau dan berpegang teguh pada jubah rahmat-Mu, dan seorang yang ikhlas dalam Agama-Mu, serta seorang yang tetap teguh pada cinta-Mu dan jadikanlah hamba seorang yang menjalankan apa yang telah Engkau perintahkan dalam Kitab-Mu. Sesungguhnya, Engkau Tuhan Yang Maha Kuasa, Yang Maha Kuat dan Yang Maha Mulia.
 
-(Source category: Anugerah Terbesar)
-(Bahaiprayers.net ID: 5135)
+-- Abdu'l-Bahá
 
+bpn5135 «[Bahasa Indonesia](../id/#bpn5135)» 
 
-«[Bahasa Indonesia](../id/#bpn5135)» 
-
+----
 
 
 <a id="bpn5136"></a> 
-### Prayer bpn5136 in Bahasa Indonesia
 *"Doa berikut ini sebaiknya dibaca ...tiap hari"
 
 Ya Tuhan! Ya Tuhan! Inilah seekor burung yang patah sayapnya dan terbangnya sangat lambat. Tolonglah dia agar dapat terbang ke arah puncak kesejahteraan dan keselamatan, melayang dengan penuh kegembiraan dan kebahagiaan di seluruh angkasayangtakterbatas,menyanyikanlagunya demi Nama-Mu Yang Tertinggi di seluruh daerah, menggembirakan semua telinga dengan seruan ini dan menerangi semua mata dengan memandang tanda-tanda bimbingan.
@@ -286,27 +261,24 @@ Ya Tuhan! Aku hanyalah seorang diri, sendirian serta rendah. Bagiku tiada penduk
 
 *"Sumber keberanian dan kekuatan adalah memajukan Firman Tuhan, dan keteguhan hati dalam Cinta-Nya." - Bahá’u’lláh
 
-(Source category: Anugerah Terbesar)
-(Bahaiprayers.net ID: 5136)
+-- Abdu'l-Bahá
 
+bpn5136 «[Bahasa Indonesia](../id/#bpn5136)» 
 
-«[Bahasa Indonesia](../id/#bpn5136)» 
-
+----
 
 
 <a id="bpn5137"></a> 
-### Prayer bpn5137 in Bahasa Indonesia
 Ya Engkau, Tuhan Yang Tiada Banding Taranya! Ya Engkau, Raja Kerajaan! Jiwa-jiwa ini adalah bala tentara surgawi-Mu. Tolonglah mereka itu, dan menangkanlah mereka dengan bantuan dari Penghuni Tertinggi, sehingga masing-masing mereka akan menjadi bagaikan satu rombongan dan menaklukkan daerah-daerah ini dengan cinta Tuhan dan cahaya ajaran-ajaran Ilahi.
 Ya Tuhan! Jadilah Engkau Pendukung dan Penolong mereka itu; dan di gurun, di gunung, di lembah, di hutan, di padang rumput serta di laut, jadilah Engkau sahabat karib mereka, supaya mereka dapat berseru dengan kekuatan dari Kerajaan dan hembusan Roh Suci. Sesungguhnya, Engkaulah Yang Maha Kuat, Yang Maha Perkasa, Yang Maha Kuasa dan Engkaulah Yang Maha Arif, Yang Maha Mendengar, Yang Maha Melihat.
 
 *"Jelaslah bahwa pada hari ini bantuan Ilahi yang gaib meliputi mereka yang menyampaikan Amanat Tuhan, dan jika pekerjaan menyampaikan Amanat itu diabaikan, bantuan ini akan di-putuskan sama sekali, karena tidaklah mungkin bagi para sahabat Tuhan menerima bantuan kecuali mereka itu menyampaikan Amanat ini."
 
-(Source category: Anugerah Terbesar)
-(Bahaiprayers.net ID: 5137)
+-- Abdu'l-Bahá
 
+bpn5137 «[Bahasa Indonesia](../id/#bpn5137)» 
 
-«[Bahasa Indonesia](../id/#bpn5137)» 
-
+----
 
 
 
@@ -314,7 +286,6 @@ Ya Tuhan! Jadilah Engkau Pendukung dan Penolong mereka itu; dan di gurun, di gun
 ## Ayyami-Ha (Hari-Hari Sisipan)
 
 <a id="bpn5208"></a> 
-### Prayer bpn5208 in Bahasa Indonesia
 ##Ayyami-Ha (Hari-Hari Sisipan) 
 *[26 Februari - 1 Maret, hari-hari persiapan untuk Puasa]
 
@@ -329,12 +300,11 @@ Sesungguhnya Engkaulah Yang Maha Kuat, Yang Maha Tahu, Yang Maha Arif.
 
 *"Sesungguhnya, Kami perintahkan kepada semua orang agar pada hari-hari ini memberikan pemberian kepada dirinya dan kepada orang-orang yang menghadap pada Tuhan... Kami telah menetapkan hari-hari itu sebelum puasa sebagai rahmat dari pihak Kami ... Berbahagialah orang-orang yang menjalankan apa yang diperintahkan Tuhan dan celakalah bagi mereka yang melalaikannya".
 
-(Source category: Ayyami-Ha (Hari-Hari Sisipan))
-(Bahaiprayers.net ID: 5208)
+-- Bahá'u'lláh
 
+bpn5208 «[Bahasa Indonesia](../id/#bpn5208)» 
 
-«[Bahasa Indonesia](../id/#bpn5208)» 
-
+----
 
 
 
@@ -342,41 +312,35 @@ Sesungguhnya Engkaulah Yang Maha Kuat, Yang Maha Tahu, Yang Maha Arif.
 ## Bayi Yang Menyusu
 
 <a id="bpn5101"></a> 
-### Prayer bpn5101 in Bahasa Indonesia
 Terpujilah Engkau, ya Rabi Tuhanku! Beri makanlah bayi ini dari susu kurnia dan kasih sayang- Mu yang mesra dan berilah kekuatan dari buah-buah pohon-pohon-Mu yang surgawi. Janganlah membiarkan dia diasuh oleh siapa pun kecuali Engkau, karena Engkau Sendirilah yang menciptakan dan memberi wujud kepadanya, melalui kekuatan kehendak-Mu dan kekuasaan-Mu yang berdaulat. Tiada Tuhan kecuali Engkau, Yang Maha Kuasa, Yang Maha Tahu.
 
 Diluhurkanlah Engkau, ya Kekasihku Yang Tercinta, tiupkanlah kepadanya kesedapan manis rahmat-Mu yang luhur dan keharuman pemberian- pemberian-Mu yang suci. Maka, mungkinkanlah dia mencari perlindungan di bawah naungan Nama-Mu yang maha luhur, ya Engkau yang memegang kerajaan nama-nama dan sifat-sifat di dalam genggaman-Nya. Sesungguhnya Engkaulah berkuasa untuk berbuat apa yang Engkau kehendaki, dan Engkau sesungguhnya Yang Maha Kuat, Yang Maha Luhur, Yang Maha Pengampun, Yang Penyayang, Yang Dermawan, Yang Maha Pengasih.
 
-(Source category: Bayi Yang Menyusu)
-(Bahaiprayers.net ID: 5101)
+-- Bahá'u'lláh
 
+bpn5101 «[Bahasa Indonesia](../id/#bpn5101)» 
 
-«[Bahasa Indonesia](../id/#bpn5101)» 
-
+----
 
 
 <a id="bpn5102"></a> 
-### Prayer bpn5102 in Bahasa Indonesia
 Ya Tuhan! Asuhlah bayi yang kecil ini dalam dada cinta-Mu dan berilah ia susu dari dada kasih sayang- Mu. Peliharalah tanaman yang segar ini dalam taman bunga mawar cinta-Mu dan bantulah ia agar dapat tumbuh melalui curahan-curahan rahmat-Mu. Jadikanlah ia anak dari Kerajaan-Mu dan bimbinglah ia ke alam surgawi-Mu. Engkaulah Maha Kuasa dan Maha Penyayang dan Engkaulah Penganugerah, Yang Dermawan, Raja Pemberi yang tiada banding taranya.
 
-(Source category: Bayi Yang Menyusu)
-(Bahaiprayers.net ID: 5102)
+-- Abdu'l-Bahá
 
+bpn5102 «[Bahasa Indonesia](../id/#bpn5102)» 
 
-«[Bahasa Indonesia](../id/#bpn5102)» 
-
+----
 
 
 <a id="bpn5103"></a> 
-### Prayer bpn5103 in Bahasa Indonesia
 Ya Tuhan yang tiada banding taranya! Biarlah bayi yang sedang menyusu ini disusui dari susu cinta kasih sayang-Mu. Jagalah dia di dalam buaian pemeliharaan dan perlindungan-Mu, dan mungkinkanlah dia diasuh dalam pelukan kasih sayang-Mu.
 
-(Source category: Bayi Yang Menyusu)
-(Bahaiprayers.net ID: 5103)
+-- Abdu'l-Bahá
 
+bpn5103 «[Bahasa Indonesia](../id/#bpn5103)» 
 
-«[Bahasa Indonesia](../id/#bpn5103)» 
-
+----
 
 
 
@@ -384,43 +348,37 @@ Ya Tuhan yang tiada banding taranya! Biarlah bayi yang sedang menyusu ini disusu
 ## Bayi Yang Sakit
 
 <a id="bpn5104"></a> 
-### Prayer bpn5104 in Bahasa Indonesia
 Engkau adalah Dia, ya Tuhanku, yang berkat nama-nama-Nya si sakit menjadi sembuh, yang menderita menjadi baik; yang dahaga menjadi puas, yang duka menjadi tenang, yang melawan memperoleh bimbingan, yang hina menjadi mulia, yang miskin menjadi kaya, yang bodoh menjadi pandai, yang suram menjadi terang, yang sedih menjadi gembira, yang dingin menjadi panas dan yang tertindas menjadi bebas. Berkat nama-Mu, ya Tuhanku, semua makhluk digerakkan, langit dibentangkan, dan bumi didirikan, dan awan-awan dinaikkan supaya menghujani bumi. Sesungguhnya, inilah tanda rahmat-Mu bagi semua makhluk-Mu.
 
 Oleh karena itu, aku memohon kepada-Mu, demi nama-Mu yang melaluinya Engkau telah menyatakan Ketuhanan-Mu dan meluhurkan Agama-Mu di atas sekalian makhluk, dan demi setiap gelar-Mu yang maha agung dan sifat-sifat-Mu yang maha tinggi dan demi semua kebajikan-kebajikan yang menyebabkan wujud- Mu yang maha luhur dipuji-puji, agar menurunkan dari awan-awan rahmat-Mu hujan penyembuhan-Mu di atas bayi kecil ini yang telah Engkau hubungkan dengan Diri-Mu yang maha mulia dalam kerajaan ciptaan-Mu. Maka kenakanlah, ya Tuhanku, demi rahmat-Mu, jubah keselamatan dan kesehatan padanya, dan lindungilah dia, ya Kekasihku, dari segala bencana dan penyakit, dan dari apa yang tak Engkau sukai.
 
 Sesungguhnya, segala-galanya dalam genggaman kekuasaan-Mu. Engkau sesungguhnya, Yang Maha Kuasa, Yang Berdiri Sendiri. Selain itu, ya Tuhanku, turunkanlah padanya kebaikan dunia ini dan akhirat, dan kebaikan angkatan-angkatan terdahulu dan yang sesudahnya. Sesungguhnya, Engkaulah yang berkuasa dan arif atas hal ini.
 
-(Source category: Bayi Yang Sakit)
-(Bahaiprayers.net ID: 5104)
+-- Bahá'u'lláh
 
+bpn5104 «[Bahasa Indonesia](../id/#bpn5104)» 
 
-«[Bahasa Indonesia](../id/#bpn5104)» 
-
+----
 
 
 <a id="bpn5105"></a> 
-### Prayer bpn5105 in Bahasa Indonesia
 "Di antara semua pengabdian terbesar yang dapat diberikan oleh manusia kepada Tuhan Yang Maha Kuasa adalah mendidik dan mengajar anak-anak"
 
-(Source category: Bayi Yang Sakit)
-(Bahaiprayers.net ID: 5105)
+-- Bahá'u'lláh
 
+bpn5105 «[Bahasa Indonesia](../id/#bpn5105)» 
 
-«[Bahasa Indonesia](../id/#bpn5105)» 
-
+----
 
 
 <a id="bpn5106"></a> 
-### Prayer bpn5106 in Bahasa Indonesia
 "Diwajibkan bagimu agar memelihara mereka dalam cinta kasih sayang Tuhan dan mendorong mereka kepada hal-hal rohani; supaya mereka dapat menghadapkan wajahnya kepada Tuhan, agar kehidupan mereka akan sesuai dengan peraturan akhlak yang baik dan watak mereka tak dapat ditandingi; supaya mereka memiliki semua sikap dan sifat manusia yang terpuji; agar mendapatkan pengetahuan yang tinggi dari segala ilmu-ilmu; supaya semenjak permulaan kehidupannya mereka akan menjadi orang-orang rohaniah, penghuni Kerajaan Yang Tinggi, terpikat oleh kemanisan hembusan suci dan akan menerima pendidikan agama dan rohani dari Alam Surgawi."
 
-(Source category: Bayi Yang Sakit)
-(Bahaiprayers.net ID: 5106)
+-- Abdu'l-Bahá
 
+bpn5106 «[Bahasa Indonesia](../id/#bpn5106)» 
 
-«[Bahasa Indonesia](../id/#bpn5106)» 
-
+----
 
 
 
@@ -428,17 +386,15 @@ Sesungguhnya, segala-galanya dalam genggaman kekuasaan-Mu. Engkau sesungguhnya, 
 ## Bimbingan Bagi Mereka Yang Sesat
 
 <a id="bpn5126"></a> 
-### Prayer bpn5126 in Bahasa Indonesia
 Kami berdoa kepada Tuhan agar sudilah membantu mereka yang telah disesatkan supaya menjadi insaf dan adil, dan agar menyadarkan mereka atas apa yang telah dilalaikannya. Ia sesungguhnya, Yang Maha Pemberi, Yang Maha Dermawan. Janganlah menghalangi hamba-hamba-Mu, ya Tuhanku, dari pintu kurnia-Mu dan janganlah mereka diusir dari istana kehadiran-Mu. Bantulah mereka untuk menghilangkan kabut angan-angan kosong, dan merobekkan tabir-tabir khayalan-khayalan dan harapan- harapan yang sia-sia. Sesungguhnya, Engkaulah Yang Maha Memiliki, Yang Maha Tinggi. Tiada Tuhan kecuali Engkau, Yang Maha Kuasa, Yang Maha Penyayang.
 
 *"Kewajiban pertama dan paling utama yang ditetapkan bagi manusia, setelah mengenal Dia, Kebenaran Abadi, ialah keteguhan hati pada Agama-Nya. Berpegang eratlah engkau kepada hal itu. Dan masuklah ke dalam bilangan mereka yang pikiran-pikirannya dipusatkan dengan kuat dan didasarkan ke-pada Tuhan. Tak ada perbuatan, betapapun berjasa, yang dapat dibandingkan dengan keteguhan hati. Perbuatan itu adalah raja segala perbuatan, dan pada hal ini Tuhanmu Yang Maha Tinggi, Yang Maha Kuasa naik saksi..."
 
-(Source category: Bimbingan Bagi Mereka Yang Sesat)
-(Bahaiprayers.net ID: 5126)
+-- Bahá'u'lláh
 
+bpn5126 «[Bahasa Indonesia](../id/#bpn5126)» 
 
-«[Bahasa Indonesia](../id/#bpn5126)» 
-
+----
 
 
 
@@ -446,56 +402,48 @@ Kami berdoa kepada Tuhan agar sudilah membantu mereka yang telah disesatkan supa
 ## Cobaan-Cobaan
 
 <a id="bpn5107"></a> 
-### Prayer bpn5107 in Bahasa Indonesia
 Kemuliaan bagi-Mu, ya Tuhan-Ku! Jika tak ada malapetaka-malapetaka yang menimpa di jalan-Mu, bagaimanakah para pencinta-Mu yang sejati dapat dikenali; dan jika tak ada cobaan-cobaan yang diderita demi cinta kasih pada-Mu, bagaimanakah kedudukan mereka yang berhasrat kepada-Mu dapat dinyatakan? Kekuasaan-Mu menjadi saksiku bahwa sahabat- sahabat mereka yang memuja Dikau adalah air mata yang mereka cucurkan, dan penghibur-penghibur mereka yang mencari Dikau adalah ratap tangis yang mereka keluarkan, dan makanan mereka yang bergegas untuk bertemu dengan Dikau ialah kepingan- kepingan hati mereka yang patah.
 Alangkah manis rasanya bagiku kepahitan maut yang diderita di jalan-Mu, dan betapa berharganya bagiku apabila menghadapi anak panah musuh- musuh- Mu demi keluhuran sabda-Mu! Biarkanlah aku minum sepuas-puasnya dalam Agama-Mu, ya Tuhanku, apa yang Engkau kehendaki, dan turunkanlah kepadaku dalam kasih-Mu, semua yang telah Engkau tetapkan. Demi kemuliaan-Mu! Aku hanya menghasratkan apa yang Engkau kehendaki, dan mencintai apa yang Engkau cintai. Kepada Engkaulah, aku selalu menaruh kepercayaan dan keyakinanku.
 Aku memohon kepada-Mu, ya Tuhanku, bangkitkanlah sebagai penolong bagi Wahyu ini, mereka yang layak bagi nama-Mu dan kedaulatan-Mu,supaya mereka mengingat daku di antara makhluk- makhluk-Mu, dan mengibarkan panji-panji kemenangan- Mu di negeri-Mu. Berkuasalah Engkau berbuat sekehendak-Mu. Tiada Tuhan selain Engkau, Penolong Dalam Bahaya, Yang Berdiri Sendiri.
 
-(Source category: Cobaan-Cobaan)
-(Bahaiprayers.net ID: 5107)
+-- Bahá'u'lláh
 
+bpn5107 «[Bahasa Indonesia](../id/#bpn5107)» 
 
-«[Bahasa Indonesia](../id/#bpn5107)» 
-
+----
 
 
 <a id="bpn5108"></a> 
-### Prayer bpn5108 in Bahasa Indonesia
 Ya Engkau, yang cobaan-cobaan-Nya adalah obat penyembuh bagi mereka yang dekat kepada-Mu, yang pedang-Nya adalah hasrat terdalam bagi semua mereka yang mencintai-Mu, yang anak panah-Nya adalah keinginan tertinggi bagi kalbu-kalbu mereka yang merindukan-Mu, yang perintah-Nya adalah harapan satu-satunya bagi mereka yang telah mengenal kebenaran-Mu! Aku memohon kepada-Mu demi kemanisan keilahian-Mu dan demi kecemerlangan kemuliaan wajah-Mu, agar menurunkan kepada kami dari tempat tinggal-Mu yang tinggi, apa yang akan memungkinkan kami untuk mendekati-Mu. Maka ya Tuhanku, teguhkanlah langkah-langkah kami dalam Agama-Mu, dan sinarilah kalbu-kalbu kami dengan kecemerlangan ilmu-Mu, serta terangilah dada kami dengan cahaya nama-nama-Mu.
 
-(Source category: Cobaan-Cobaan)
-(Bahaiprayers.net ID: 5108)
+-- Bahá'u'lláh
 
+bpn5108 «[Bahasa Indonesia](../id/#bpn5108)» 
 
-«[Bahasa Indonesia](../id/#bpn5108)» 
-
+----
 
 
 <a id="bpn5109"></a> 
-### Prayer bpn5109 in Bahasa Indonesia
 Aku memohon kepada-Mu demi kekuatan-Mu, ya
 Tuhanku! Janganlah mengizinkan kerugian menimpa diriku dalam masa-masa cobaan dan dalam saat-saat kesesatan, bimbinglah langkah-langkahku ke arah yang benar melalui ilham-Mu. Engkaulah Tuhan yang berkuasa untuk berbuat apa yang Engkau kehendaki. Tiada orang yang dapat menahan kehendak-Mu atau menghalangi tujuan-Mu.
 
-(Source category: Cobaan-Cobaan)
-(Bahaiprayers.net ID: 5109)
+-- Báb
 
+bpn5109 «[Bahasa Indonesia](../id/#bpn5109)» 
 
-«[Bahasa Indonesia](../id/#bpn5109)» 
-
+----
 
 
 <a id="bpn5110"></a> 
-### Prayer bpn5110 in Bahasa Indonesia
 Dialah Yang Maha Penyayang dan Maha Dermawan! Ya Tuhan, Tuhanku! Engkau melihat daku, Engkau mengenali diriku. Engkau adalah naunganku dan pelindungku. Aku belum pernah dan tak akan pernah mencari yang lain kecuali Dikau; tiada jalan yang pernah kutempuh dan tidak ada jalan yang akan kutempuh kecuali jalan cinta-Mu. Dalam kegelapan malam yang tiada harapan, mataku mengarah ke pagi pemberian-Mu yang berlimpah-limpah dengan penuh harap, dan pada waktu fajar, jiwaku yang layu disegarkan dan dikuatkan ketika mengingat keindahan dan kesempurnaan-Mu. Barangsiapa yang dibantu oleh rahmat-Mu, walaupun ia bagaikan setetes saja akan menjadi samudera yang tak terbatas, dan atom yang sekecil-kecilnya yang dibantu oleh curahan kasih sayang-Mu akan bersinar bagaikan bintang yang cemerlang.
 Lindungilah hamba-Mu yang bernyala dan terpesona ini di bawah naungan-Mu, Ya Engkau Roh kesucian, Engkau Pemberi Yang Maha Dermawan.
 Bantulah dia di dunia wujud ini agar ia tetap teguh dan kukuh dalam cinta-Mu dan perkenankanlah burung yang patah sayap ini untuk mendapatkan perlindungan dan naungan di sarang keilahian-Mu yang berada di pohon surgawi.
 
-(Source category: Cobaan-Cobaan)
-(Bahaiprayers.net ID: 5110)
+-- Abdu'l-Bahá
 
+bpn5110 «[Bahasa Indonesia](../id/#bpn5110)» 
 
-«[Bahasa Indonesia](../id/#bpn5110)» 
-
+----
 
 
 
@@ -503,7 +451,6 @@ Bantulah dia di dunia wujud ini agar ia tetap teguh dan kukuh dalam cinta-Mu dan
 ## Dialah Yang Maha Mulia!
 
 <a id="bpn5207"></a> 
-### Prayer bpn5207 in Bahasa Indonesia
 Ya Rabi Tuhanku! Dengan rendah hati dan mencucurkan air mata, aku mengangkat tangan permohonanku kepada-Mu dan menutup wajahku dengan debu Ambang pintu-Mu, yang tinggi di atas pengetahuan orang-orang pandai, dan pujian semua orang yang memuliakan Dikau. Dengan rahman, pandanglah hamba-Mu yang rendah hati dan hina di depan pintu-Mu dengan pandangan mata rahmat-Mu, dan selamkanlah dia dalam Samudera kurnia-Mu yang abadi.
 Tuhan! Ia seorang hamba-Mu yang miskin dan rendah hati yang sedang memohon dengan sangat kepada-Mu, berada dalam genggaman tangan-Mu, berdoa dengan sungguh-sungguh kepada-Mu, percaya kepada-Mu, mencucurkan air mata dihadapan wajah- Mu, memanggil-Mu dan memohon kepada-Mu sambil mengatakan:
 
@@ -514,12 +461,11 @@ Dengan doa ini hamba-Mu memanggil Dikau pada waktu fajar dan malam hari. Kabulka
 
 *"Bila samudera kehadiran-Ku telah surut, dan Kitab Wahyu-Ku telah berakhir, palingkanlah wajah-wajahmu kepada Dia, Yang Allah kehendaki, Yang telah bercabang dari Akar Purba ini".  Bahá’u’lláh
 
-(Source category: Dialah Yang Maha Mulia!)
-(Bahaiprayers.net ID: 5207)
+-- Abdu'l-Bahá
 
+bpn5207 «[Bahasa Indonesia](../id/#bpn5207)» 
 
-«[Bahasa Indonesia](../id/#bpn5207)» 
-
+----
 
 
 
@@ -527,7 +473,6 @@ Dengan doa ini hamba-Mu memanggil Dikau pada waktu fajar dan malam hari. Kabulka
 ## Doa Untuk Pelopor
 
 <a id="bpn5138"></a> 
-### Prayer bpn5138 in Bahasa Indonesia
 *"Barangsiapa berangkat kemana saja untuk menyebarkan Firman Tuhan, biarlah dia membaca doa ini pada siang dan malam hari selama perjalanannya ke daerah-daerah asing."
 
 Ya Tuhan! Tuhanku! Engkau melihat hamba terpesona dan tertarik kepada kerajaan-Mu yang mulia, berkobar dengan api kasih-Mu di antara umat manusia, bentara kerajaan-Mu di negeri-negeri yang luas dan lapang ini, terlepas dari apa pun kecuali Engkau, tawakal kepada-Mu, meninggalkan istirahat dan kesenangan, jauh dari tempat tinggal hamba, seorang pengembara di daerah-daerah ini, seorang asing jatuh di atas tanah, merendahkan diri dihadapan Ambang pintu-Mu yang luhur, taat pada langit kemuliaan-Mu yang maha kuasa, memohon kepada-Mu pada waktu tengah malam dan pada fajar, meminta dengan sangat dan memanggil Engkau pada pagi dan petang, agar Engkau sudilah menolong hamba untuk mengabdi kepada Agama-Mu, menyebarluaskan Ajaran-ajaran-Mu dan meluhurkan Firman-Mu di Timur dan di Barat.
@@ -536,16 +481,14 @@ Ya Tuhan! Kuatkanlah punggung hamba, mungkinkanlah hamba sungguh-sungguh berusah
 
 Ya Tuhan mungkinkanlah daku berhubungan dengan Engkau dalam kesepianku dan temanilah hamba di daerah-daerah yang asing ini. Sesungguhnya, Engkaulah yang menguatkan siapa pun yang Engkau kehendaki dalam apa yang Engkau sukai, dan sesungguhnya, Engkau Yang Maha Kuat, Yang Maha Kuasa.
 
-(Source category: Doa Untuk Pelopor)
-(Bahaiprayers.net ID: 5138)
+-- Bahá'u'lláh
 
+bpn5138 «[Bahasa Indonesia](../id/#bpn5138)» 
 
-«[Bahasa Indonesia](../id/#bpn5138)» 
-
+----
 
 
 <a id="bpn5139"></a> 
-### Prayer bpn5139 in Bahasa Indonesia
 *"Barangsiapa yang mengadakan perjalanan ke berbagai daerah untuk Anugerah Terbesar biarlah ia membaca permohonan ini di gunung, di padang pasir, di daratan dan di lautan".
 
 Ya Tuhan! Ya Tuhan! Engkau melihat kelima- hanku dan kerendahan hatiku dihadapan makhluk- makhluk-Mu; namun, aku telah percaya kepada-Mu dan telah bangkit untuk menyiarkan ajaran-ajaran-Mu di antara hamba-hamba-Mu yang kuat, menyandarkan pada kekuasaan dan kekuatan-Mu.
@@ -558,28 +501,25 @@ Melalui kurnia-Mu yang maha besar mereka menjadi bintang cemerlang di ufuk bimbi
 *"Demi kebenaran Tuhan, jika seseorang sendirian bangkit atas nama Bahá
 dan mengenakan perisai cinta-Nya, maka Yang Maha Kuasa akan membuatnya menang meskipun kekuatan bumi dan langit berbaris melawannya" . -Bahá’u’lláh
 
-(Source category: Doa Untuk Pelopor)
-(Bahaiprayers.net ID: 5139)
+-- Bahá'u'lláh
 
+bpn5139 «[Bahasa Indonesia](../id/#bpn5139)» 
 
-«[Bahasa Indonesia](../id/#bpn5139)» 
-
+----
 
 
 <a id="bpn5140"></a> 
-### Prayer bpn5140 in Bahasa Indonesia
 *"Setiap jiwa yang mengadakan perjalanan melalui kota-kota, kampung- kampung dan desa-desa... dan sibuk dengan menyebarkan keharuman Tuhan, seharusnya membaca doa ini setiap pagi."
 
 Ya Tuhanku! Ya Tuhanku! Engkau melihat aku dalam kerendahan dan kelemahanku, sibuk dengan usaha yang terbesar, tekun untuk mengumumkan firman-Mu di antara umat-Mu. Bagaimanakah aku dapat berhasil kecuali Engkau membantu daku dengan hembusan Roh Suci, dan menolong daku agar menang melalui bala tentara dari kerajaan-Mu yang mulia serta mencurahkan kepadaku bantuan-Mu yang dapat mengubah seekor ngengat menjadi seekor burung rajawali, setetes air menjadi sungai-sungai dan lautan, dan sebuah atom menjadi cahaya-cahaya dan matahari? Ya Tuhanku! Bantulah daku dengan kekuasaan-Mu yang jaya dan mujarab, agar lidahku dapat mengucapkan pujian-pujian dan sifat-sifat-Mu di antara semua orang, dan jiwaku meluap dengan anggur cinta dan pengetahuan-Mu. Sesungguhnya, Engkaulah Maha Kuasa dan berbuat apa saja yang Engkau kehendaki.
 
 *"...Bangkitlah untuk memajukan Agama-Ku dan menjunjung tinggi Firman-Ku di antara manusia. Kami selalu besertamu pada setiap saat dan akan menguatkan engkau melalui kekuatan kebenaran..." - Bahá’u’lláh
 
-(Source category: Doa Untuk Pelopor)
-(Bahaiprayers.net ID: 5140)
+-- Bahá'u'lláh
 
+bpn5140 «[Bahasa Indonesia](../id/#bpn5140)» 
 
-«[Bahasa Indonesia](../id/#bpn5140)» 
-
+----
 
 
 
@@ -587,19 +527,16 @@ Ya Tuhanku! Ya Tuhanku! Engkau melihat aku dalam kerendahan dan kelemahanku, sib
 ## Kebahagiaan
 
 <a id="bpn5111"></a> 
-### Prayer bpn5111 in Bahasa Indonesia
 Ya Tuhan! Segarkanlah dan riangkanlah jiwa hamba, murnikanlah hati hamba, terangilah pikiran hamba. Hamba menyerahkan segala urusan hamba ke dalam tangan-Mu. Engkau Pembimbing dan Pelindung hamba. Hamba tak akan lagi bersedih dan susah hati. Hamba akan menjadi manusia yang Bahagia dan gembira. Ya Tuhan hamba tak akan lagi diliputi rasa cemas, tak pula hamba akan membiarkan kesusahan membingungkan hamba. Hamba tak akan memikirkan soal-soal kehidupan yang tak menyenangkan. Ya Tuhan, Engkau lebih ramah kepada hamba daripada hamba kepada hamba sendiri. Hamba menyerahkan diri hamba pada-Mu, ya Tuhan.
 
-(Source category: Kebahagiaan)
-(Bahaiprayers.net ID: 5111)
+-- Abdu'l-Bahá
 
+bpn5111 «[Bahasa Indonesia](../id/#bpn5111)» 
 
-«[Bahasa Indonesia](../id/#bpn5111)» 
-
+----
 
 
 <a id="bpn5112"></a> 
-### Prayer bpn5112 in Bahasa Indonesia
 Ya Tuhan, Tuhanku! Engkau adalah Harapanku dan Kekasihku, Tujuanku dan Hasratku yang tertinggi! Dengan sangat rendah hati dan pengabdian sepenuhnya aku berdoa kepada-Mu agar menjadikan daku menara cinta-Mu di negeri-Mu, lampu pengetahuan-Mu di antara makhluk-makhluk-Mu dan panji rahmat keilahian di kerajaan-Mu.
 
 Masukkanlah daku ke dalam bilangan hamba- hamba-Mu yang telah melepaskan diri dari segala sesuatu kecuali Engkau dan telah menyucikan diri dari hal-hal fana di dunia ini, serta membebaskan diri mereka dari bisikan-bisikan suara khayalan kosong.
@@ -614,12 +551,11 @@ Biarlah aku berbesar hati dengan kebahagiaan melalui roh kekuatan dari kerajaan-
 
 *"Berbahagialah orang yang telah mendengar suara Kami, dan menjawab panggilan Kami." -- Bahá’u’lláh
 
-(Source category: Kebahagiaan)
-(Bahaiprayers.net ID: 5112)
+-- Abdu'l-Bahá
 
+bpn5112 «[Bahasa Indonesia](../id/#bpn5112)» 
 
-«[Bahasa Indonesia](../id/#bpn5112)» 
-
+----
 
 
 
@@ -627,35 +563,30 @@ Biarlah aku berbesar hati dengan kebahagiaan melalui roh kekuatan dari kerajaan-
 ## Kekuatan
 
 <a id="bpn5113"></a> 
-### Prayer bpn5113 in Bahasa Indonesia
 Ya Tuhan! Kami ini lemah; berilah kami kekuatan. Kami ini miskin; anugerahilah kami dengan kekayaan- Mu yang tak terbatas. Kami ini sakit; berilah kami kesembuhan keilahian-Mu. Kami ini tak berdaya; berilah kami kekuatan surgawi-Mu. Ya Tuhan! Jadikanlah kami
 
 berguna di dunia ini; bebaskanlah kami dari keadaan keakuan dan hawa nafsu. Ya Tuhan! Jadikanlah kami teguh dalam cinta-Mu dan mungkinkanlah kami menyayangi seluruh umat manusia. Bantulah kami dalam pengabdian kepada dunia insani agar kami dapat menjadi hamba dari hamba-hamba-Mu, agar kami dapat mencintai semua makhluk-Mu dan mengasihi seluruh umat-Mu.
 
 Ya Tuhan! Engkaulah Maha Perkasa! Engkaulah Maha Pengasih! Engkaulah Maha Pengampun! Engkaulah Maha Kuasa.
 
-(Source category: Kekuatan)
-(Bahaiprayers.net ID: 5113)
+-- Abdu'l-Bahá
 
+bpn5113 «[Bahasa Indonesia](../id/#bpn5113)» 
 
-«[Bahasa Indonesia](../id/#bpn5113)» 
-
+----
 
 
 <a id="bpn5114"></a> 
-### Prayer bpn5114 in Bahasa Indonesia
 Ya Tuhan! Kami ini lemah; kuatkanlah kami. Ya Tuhan! Kami ini bodoh; berikanlah kami pengetahuan; ya Tuhan! Kami ini miskin; jadikanlah kami kaya. Ya Tuhan! Kami ini mati; hidupkan lah kami. Ya Tuhan! Kami ini sangat hina; muliakanlah kami di kerajaan-Mu. Jika Engkau membantu kami, kami akan menjadi bagaikan bintang-bintang yang berkilauan. Apabila Engkau tidak membantu kami, kami akan menjadi lebih rendah dari tanah. Ya Tuhan! Kuatkanlah kami. Ya Tuhan! Berilah kami kemenangan. Ya Tuhan! Mungkinkanlah kami menaklukkan keakuan dan mengatasi hawa nafsu. Ya Tuhan! Bebaskanlah kami dari ikatan dunia materi. Ya Tuhan! Hidupkanlah kami melalui hembusan Roh Suci supaya kami dapat bangkit untuk meng-abdi kepada-Mu, sibuk dalam menyembah Dikau, dan berusaha sekuat tenaga dalam kerajaan-Mu dengan ketulusan sepenuhnya. Ya Tuhan! Engkau-lah Maha Kuasa! Ya Tuhan, Engkaulah Maha Pengampun! Ya Tuhan! Engkaulah Maha Pengasih!
 
-(Source category: Kekuatan)
-(Bahaiprayers.net ID: 5114)
+-- Abdu'l-Bahá
 
+bpn5114 «[Bahasa Indonesia](../id/#bpn5114)» 
 
-«[Bahasa Indonesia](../id/#bpn5114)» 
-
+----
 
 
 <a id="bpn5115"></a> 
-### Prayer bpn5115 in Bahasa Indonesia
 Aku hanyalah makhluk yang hina, ya Tuhanku, dan
 Engkau Yang Maha Memiliki, Yang Maha Luhur; aku lemah dan Engkaulah Yang Maha Kuat, dan Pengatur Tertinggi, baik di awal maupun di akhir. Janganlah dijauhkan dariku keharuman-keharuman Wahyu-Mu, dan janganlah dihancurkan harapanku akan curahan-curahan yang telah diturunkan dari langit anugerah-Mu. Takdirkanlah bagiku, ya Tuhanku, kebaikan dunia ini dan akhirat, dan berikanlah kepadaku apa yang akan menguntungkan daku dalam semua alam-Mu, karena aku tak mengetahui apa yang menguntungkan atau yang merugikan daku. Engkau sesungguhnya, Yang Maha Tahu, Yang Maha Arif.
 Kasihanilah hamba-hamba-Mu, ya Tuhanku, yang telah tenggelam di tengah-tengah samudera khayalan-khayalan jahat, dan bebaskanlah mereka dengan kekuasaan kedaulatan-Mu, ya EngkauTuhan
@@ -667,12 +598,11 @@ segala nama dan sifat! Engkau adalah Dia yang dari keabadian telah mentakdirkan 
 
 * "Kita tidak boleh melihat kelemahan kita sendiri; yang memberikan kekuatan untuk mengajar adalah kekuatan dari Roh Suci Cinta. Memikirkan kelemahan kita sendiri hanya akan membawa keputusasaan. Pandangan kita harus lebih tinggi dari segala pikiran duniawi." - ‘Abdu’l-Bahá
 
-(Source category: Kekuatan)
-(Bahaiprayers.net ID: 5115)
+-- Abdu'l-Bahá
 
+bpn5115 «[Bahasa Indonesia](../id/#bpn5115)» 
 
-«[Bahasa Indonesia](../id/#bpn5115)» 
-
+----
 
 
 
@@ -680,21 +610,18 @@ segala nama dan sifat! Engkau adalah Dia yang dari keabadian telah mentakdirkan 
 ## Keluarga
 
 <a id="bpn5116"></a> 
-### Prayer bpn5116 in Bahasa Indonesia
 Maha Mulialah Engkau, ya Tuhanku! Aku bersyukur kepada-Mu karena Engkau telah memung- kinkan daku mengenal Dia, Fajar rahmat-Mu dan Tempat Terbit kurnia-Mu dan Sumber Agama-Mu. Aku memohon kepada-Mu demi Nama-Mu, yang karena-nya wajah-wajah mereka yang dekat pada-Mu telah menjadi putih, dan kalbu-kalbu mereka yang men-cintai-Mu telah terbang kepada-Mu, agar hendaknya mengizinkan daku berpegang teguh pada tali-Mu pada setiap waktu dan dalam segala keadaan, terlepas dari ikatan siapa pun kecuali Engkau, dan agar mataku tetap mengarah pada ufuk Wahyu-Mu dan dapat menjalankan apa yang telah Engkau tentukan bagiku dalam Firman-firman-Mu.
 Ya Tuhanku, hiasilah jiwa dan ragaku dengan jubah rahmat-Mu dan kasih sayang-Mu. Kemudian selamat- kanlah daku dari segala sesuatu yang tak Engkau ridhoi, dan dengan penuh rahmat, tolonglah daku dan keluargaku agar mentaati-Mu dan menjauhi dari apa yang dapat menimbulkan hawa nafsu dan segala keinginan jahat dalam diriku.
 Sesungguhnya, Engkaulah Tuhan seluruh umat manusia, dan Pemilik dunia dan akhirat. Tiada Tuhan selain Engkau, Yang Maha Tahu, Yang Maha Arif.
 
-(Source category: Keluarga)
-(Bahaiprayers.net ID: 5116)
+-- Bahá'u'lláh
 
+bpn5116 «[Bahasa Indonesia](../id/#bpn5116)» 
 
-«[Bahasa Indonesia](../id/#bpn5116)» 
-
+----
 
 
 <a id="bpn5117"></a> 
-### Prayer bpn5117 in Bahasa Indonesia
 Kemuliaan bagi-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu agar mengampuni daku dan mereka yang membantu Agama-Mu. Sesungguhnya, Engkaulah Raja yang berdaulat, Pengampun, Yang Maha Dermawan.
 Ya Tuhanku! Perkenankanlah hamba-hamba-Mu yang terjauhkan dari pengetahuan agar memasuki Agama-Mu; karena setelah mereka mengenal Dikau, mereka naik saksi akan kebenaran Hari Kiamat dan tidak akan membantah penjelmaan-penjelmaan rahmat- Mu. Turunkanlah kepada mereka tanda-tanda kurnia- Mu, dan berikanlah kepada mereka di mana saja mereka berada, bagian yang besar dari apa yang telah Engkau tetapkan bagi hamba-hamba-Mu yang suci. Sesungguhnya, Engkaulah Raja Yang Agung, Yang Maha Pemberi, Maha Dermawan.
 Ya Tuhanku! Biarkanlah curahan-curahan dari pemberian dan rahmat-Mu turun kepada rumah-rumah yang penghuninya telah memeluk Agama-Mu, sebagai tanda kurnia-Mu dan lambang kasih sayang dari kehadiran-Mu. Sesungguhnya, Engkau tak dapat ditandingi dalam memberi pengampunan. Seandainya Engkau menahan pemberian-Mu terhadap seseorang, bagaimanakah ia dapat dihitung di antara penganut- penganut Agama pada Hari-Mu? Berkatilah daku, ya Tuhanku, dan mereka yang akan percaya kepada tanda-tanda-Mu pada Hari yang ditetapkan, dan mereka yang memiliki cintaku di dalam kalbu-kalbunya, yaitu cinta yang Engkau telah berikan kepada mereka. Sesungguhnya, Engkaulah Raja keadilan, Yang Maha Luhur.
@@ -705,12 +632,11 @@ Ya Tuhanku! Biarkanlah curahan-curahan dari pemberian dan rahmat-Mu turun kepada
 
 * "Perhatikanlah olehmu, di mana kesatuan terwujud dalam satu keluarga, betapa mudahnya urusan-urusan keluarga itu dapat dilaksanakan, dan perhatikanlah kemajuannya yang akan dicapai oleh anggota-anggota keluarga itu, dan betapa makmur mereka itu di dunia. Urusan-urusan mereka tertib, mereka me-nikmati kegembiraan dan ketenangan, mereka merasa aman, kedudukan mereka terjamin, mereka menjadi teladan bagi semua orang. Keluarga demikian dari hari ke hari akan ber-tambah ketinggian moralnya dan kehormatannya yang abadi." - ‘Abdu’l-Bahá
 
-(Source category: Keluarga)
-(Bahaiprayers.net ID: 5117)
+-- Báb
 
+bpn5117 «[Bahasa Indonesia](../id/#bpn5117)» 
 
-«[Bahasa Indonesia](../id/#bpn5117)» 
-
+----
 
 
 
@@ -718,7 +644,6 @@ Ya Tuhanku! Biarkanlah curahan-curahan dari pemberian dan rahmat-Mu turun kepada
 ## Kemenangan Agama
 
 <a id="bpn5118"></a> 
-### Prayer bpn5118 in Bahasa Indonesia
 Kemuliaan bagi-Mu, ya Tuhanku, Engkaulah yang telah mewujudkan segala sesuatu yang diciptakan melalui kekuatan perintah-Mu. Ya Tuhan! Bantulah mereka yang telah meninggalkan segala sesuatu kecuali Engkau dan berilah kepada mereka kemenangan yang hebat. Turunkanlah kepada mereka, ya Tuhan, rombongan malaikat-malaikat di surga dan di bumi dan segala yang ada di antara-nya, agar dapat membantu hamba-hamba-Mu, dan menolong serta menguatkan mereka, agar memungkinkan mereka mencapai keberhasilan, mendukung mereka dan menganugerahi mereka dengan kemuliaan, agar memberikan kepada mereka kehormatan dan keluhuran, serta menjadikan mereka kaya dan memenangkan mereka dengan kemenangan yang menakjubkan.
 
 Engkau adalah Raja mereka, Raja langit dan bumi, Raja segala alam. Kuatkanlah Agama ini, ya Tuhan, melalui kekuatan hamba-hamba ini, dan mungkinkan- lah mereka menang atas semua bangsa di dunia; karena sesungguhnya mereka itu adalah hamba- hamba-Mu yang telah melepaskan diri dari segala sesuatu selain Engkau, dan sesungguhnya Engkau adalah Pelindung bagi para mukmin yang sejati.
@@ -731,12 +656,11 @@ Mungkinkanlah ya Tuhan, kalbu-kalbu mereka menjadi lebih kuat dari apa pun yang 
 
 *"Janganlah mengingat pada keterbatasan-keterbatasanmu sendiri; pertolongan Tuhan akan datang kepadamu. Lupakanlah dirimu sendiri. Pertolongan Tuhan pasti akan datang." - ‘Abdu’l-Bahá
 
-(Source category: Kemenangan Agama)
-(Bahaiprayers.net ID: 5118)
+-- Báb
 
+bpn5118 «[Bahasa Indonesia](../id/#bpn5118)» 
 
-«[Bahasa Indonesia](../id/#bpn5118)» 
-
+----
 
 
 
@@ -744,18 +668,16 @@ Mungkinkanlah ya Tuhan, kalbu-kalbu mereka menjadi lebih kuat dari apa pun yang 
 ## Kesucian Dan Kemurnian
 
 <a id="bpn5201"></a> 
-### Prayer bpn5201 in Bahasa Indonesia
 Aku memohon kepada-Mu, ya Engkau Pembentuk bangsa-bangsa dan Raja keabadian, untuk menjaga hamba-hamba wanita-Mu dalam kemah Ifat dan Ismat, dan agar membatalkan perbuatan-perbuatan mereka yang tak layak bagi hari-hari-Mu. Maka hilangkanlah dari mereka, ya Tuhanku, se-gala keraguan dan khayalan-khayalan kosong, dan sucikanlah mereka dari apa pun yang tidak patut bagi hubungan mereka dengan-Mu, ya Engkau Raja segala nama dan Sumber ucapan. Engkau adalah Dia yang dalam genggaman- Nya terletak kendali seluruh ciptaan. Tiada Tuhan kecuali Engkau, Yang Maha Kuasa, Yang Maha Luhur, Yang Maha Mulia, Yang Berdiri Sendiri.
 
 *"Katakanlah kebebasan sejati ialah ketundukan manusia pada perintah- perintah-Ku sekiranya engkau mengetahui..."
 *"Kesucian dan kemurnian telah dan masih menjadi perhiasan yang paling besar untuk hamba wanita Tuhan. Tuhan adalah saksi-Ku! Kecemerlangan cahaya kesucian memancarkan sinar-nya pada alam-alam roh dan keharumannya ditiupkan bahkan kepada Surga yang maha luhur..." - Bahá’u’lláh
 
-(Source category: Kesucian Dan Kemurnian)
-(Bahaiprayers.net ID: 5201)
+-- Bahá'u'lláh
 
+bpn5201 «[Bahasa Indonesia](../id/#bpn5201)» 
 
-«[Bahasa Indonesia](../id/#bpn5201)» 
-
+----
 
 
 
@@ -763,7 +685,6 @@ Aku memohon kepada-Mu, ya Engkau Pembentuk bangsa-bangsa dan Raja keabadian, unt
 ## Kesulitan Dalam Agama
 
 <a id="bpn5119"></a> 
-### Prayer bpn5119 in Bahasa Indonesia
 ##Dialah Tuhan!
 
 Ya Rabi Tuhanku! Ya Engkau Penolong bagi orang lemah, Pemberi bantuan bagi si miskin dan Penyelamat bagi orang yang tak berdaya yang menghadap kepada- Mu.
@@ -775,12 +696,11 @@ Ya Tuhan! Perkuatlah mereka dengan rahmat-Mu oleh suatu semangat baru; terangila
 
 * "Jikalau kesengsaraan tak menimpa dirimu di jalan-Ku, bagai-manakah engkau dapat mengikuti jejak mereka yang puas dengan kerelaan-Ku? Jikalau cobaan-cobaan tak menimpa diri-mu dalam kerinduanmu untuk menjumpai-Ku, bagaimanakah engkau akan mencapai cahaya-Nya dalam kasihmu akan keindahan-Ku?" - Bahá’u’lláh
 
-(Source category: Kesulitan Dalam Agama)
-(Bahaiprayers.net ID: 5119)
+-- Abdu'l-Bahá
 
+bpn5119 «[Bahasa Indonesia](../id/#bpn5119)» 
 
-«[Bahasa Indonesia](../id/#bpn5119)» 
-
+----
 
 
 
@@ -788,87 +708,75 @@ Ya Tuhan! Perkuatlah mereka dengan rahmat-Mu oleh suatu semangat baru; terangila
 ## Keteguhan Hati
 
 <a id="bpn5120"></a> 
-### Prayer bpn5120 in Bahasa Indonesia
 Dimuliakanlah Engkau, ya Rabi Tuhanku! Aku memohon kepada-Mu demi Dia, Nama-Mu Yang Terbesar, yang telah amat disakiti oleh makhluk- makhluk-Mu yang mengingkari kebenaran-Mu, dan yang telah diliputi oleh kesedihan-kesedihan yang tak terlukiskan, agar hendaknya aku diizinkan mengingat kepada-Mu dan memuliakan pujian-Mu, dalam hari-hari ini ketika semua telah berpaling dari keindahan-Mu, telah membantah-Mu dan berpaling dengan hina dari Dia, Pewahyu Agama-Mu. Ya Tuhanku, tak ada seorang pun yang dapat membantu Engkau selain Engkau Sendiri, dan tak ada kekuatan yang menolong Dikau selain kekuatan-Mu Sendiri.
 
 Aku memohon kepada-Mu agar memungkinkan daku untuk tetap teguh melekat pada kasih-Mu dan ingat akan Dikau. Hal ini sesungguhnya di dalam kemampuanku dan Engkaulah Dia Yang Mengetahui segala hal yang ada di dalam diriku. Sesungguhnya, Engkau Yang Maha Tahu, yang memaklumi segala- galanya. Ya Tuhan, janganlah menjauhkan daku dari kecemerlangan cahaya wajah-Mu, yang sinarnya telah menerangi seluruh alam. Tiada Tuhan selain Engkau, Yang Maha Kuasa, Yang Maha Mulia, Yang Maha Pengampun.
 
-(Source category: Keteguhan Hati)
-(Bahaiprayers.net ID: 5120)
+-- Bahá'u'lláh
 
+bpn5120 «[Bahasa Indonesia](../id/#bpn5120)» 
 
-«[Bahasa Indonesia](../id/#bpn5120)» 
-
+----
 
 
 <a id="bpn5121"></a> 
-### Prayer bpn5121 in Bahasa Indonesia
 Berilah aku minum dari sungai-sungai keabadian- Mu yang harum semerbak, ya Tuhanku, dan mungkinkanlah daku mengecap buah pohon wujud-Mu, ya Harapanku! Biarlah aku minum sepuas-puasnya dari sungai-sungai cinta-Mu yang jernih, ya Kemuliaanku, dan izinkanlah daku berdiam di bawah naungan perlindungan-Mu yang abadi, ya Cahayaku! Berilah aku kesanggupan untuk mengembara di padang-padang rumput kedekatan-Mu, ya Kekasihku dan dudukkanlah daku di sebelah kanan takhta rahmat-Mu, ya Hasratku! Dari angin harum semerbak kegirangan-Mu, biarlah hembusan melewati diriku, ya Tujuanku, dan izinkanlah daku memasuki puncak-puncak firdaus kenyataan-Mu, ya Pujaanku! Biarlah aku mendengar lagu-lagu merpati ketunggalan-Mu, ya Yang Cemerlang, dan gerakkanlah daku melalui roh kekuasaan dan kekuatan-Mu, ya Pemeliharaku!
 
 Teguhkanlah daku dalam roh kasih-Mu, ya Penolongku, dan kukuhkanlah langkah-langkahku pada jalan keridhoan-Mu, ya Penciptaku! Biarkanlah aku berdiam untuk selama-lamanya dihadapan wajah-Mu dalam kebun abadi-Mu, ya Engkau yang mengasihaniku dan dudukkanlah daku di atas takhta kemuliaan-Mu, ya Engkau Pemilikku! Angkatlah daku ke langit kasih sayang-Mu, ya Penggerakku dan pada Surya Hidayat-Mu bimbinglah daku, ya Penarikku! Panggillah aku agar hadir dihadapan penjelmaan-penjelmaan roh- Mu yang gaib, ya Engkau Asalku dan Hasratku yang Tertinggi, dan biarkanlah aku kembali kepada hakikat keindahan-Mu yang harum yang akan Engkau jelmakan, ya Engkau Tuhanku!
 
 Berkuasalah Engkau berbuat sekehendak-Mu. Sesungguhnya, Engkaulah Yang Maha Luhur, Yang Maha Mulia, Yang Maha Agung.
 
-(Source category: Keteguhan Hati)
-(Bahaiprayers.net ID: 5121)
+-- Bahá'u'lláh
 
+bpn5121 «[Bahasa Indonesia](../id/#bpn5121)» 
 
-«[Bahasa Indonesia](../id/#bpn5121)» 
-
+----
 
 
 <a id="bpn5122"></a> 
-### Prayer bpn5122 in Bahasa Indonesia
 Dimuliakanlah nama-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu demi kekuasaan-Mu yang telah meliputi segala yang diciptakan dan demi kedaulatan- Mu yang telah melebihi seluruh ciptaan dan demi Firman-Mu yang tersembunyi di dalam kearifan-Mu, dan yang melaluinya telah Engkau ciptakan langit-Mu dan bumi-Mu, agar memungkinkan kami tetap teguh dalam cinta kepada-Mu dan dalam kesetiaan kepada keridhoan-Mu, dan juga memungkinkan kami agar tetap mengarahkan pandangan kami kepada wajah-Mu dan meluhurkan kemuliaan-Mu. Maka, berilah kami kekuatan, ya Tuhanku, untuk menyebarkan tanda- tanda-Mu di antara makhluk-makhluk-Mu dan menjaga Agama-Mu di kerajaan-Mu. Sejak dahulu Engkau tak tergantung pada sebutan makhluk-makhluk-Mu dan akan tetap begitu untuk selama-lamanya.
 Kepada-Mu telah aku letakkan seluruh keyakinanku dan kepada-Mulah aku menghadapkan wajahku; aku telah berpegang erat kepada tali kasih sayang-Mu, dan telah bergegas ke arah naungan rahmat-Mu. Ya Tuhanku, janganlah aku dibuang dari pintu-Mu sehingga aku kecewa, dan janganlah aku dijauhkan dari kurnia- Mu, karena hanya Engkaulah yang aku cari. Tiada Tuhan kecuali Engkau, Yang Maha Pengampun, Yang Maha Dermawan. Pujian bagi-Mu, ya Engkau Kekasih mereka yang telah mengenal-Mu!
 
-(Source category: Keteguhan Hati)
-(Bahaiprayers.net ID: 5122)
+-- Bahá'u'lláh
 
+bpn5122 «[Bahasa Indonesia](../id/#bpn5122)» 
 
-«[Bahasa Indonesia](../id/#bpn5122)» 
-
+----
 
 
 <a id="bpn5123"></a> 
-### Prayer bpn5123 in Bahasa Indonesia
 Ya Engkau yang kedekatan-Nya adalah keinginanku, yang kehadiran-Nya adalah harapanku, yang pengingatan-Nya adalah hasratku, yang istana kemuliaan-Nya adalah tujuanku, yang tempat kediaman- Nya adalah cita-citaku, yang nama-Nya adalah kesembuhanku, yang kasih-Nya adalah cahaya hatiku, yang pengabdian kepada-Nya adalah aspirasiku yang tertinggi! Aku memohon kepada-Mu demi Nama-Mu yang melaluinya Engkau telah memungkinkan mereka yang mengakui Dikau untuk membubung ke ketinggian- ketinggian pengetahuan tentang-Mu yang teragung, dan yang melaluinya Engkau telah memberikan kekuatan pada mereka yang menyembah Dikau dengan ikhlas untuk naik ke lingkungan istana kurnia-Mu yang suci, agar membantu daku untuk menghadapkan wajahku ke arah wajah-Mu, dan memusatkan pandanganku kepada-Mu serta berbicara tentang kemuliaan-Mu.
 Aku adalah dia, ya Tuhanku, yang telah melupakan segala-galanya kecuali Engkau dan telah menghadap ke arah Fajar kurnia-Mu, dan yang telah meninggalkan semuanya kecuali Diri-Mu, dengan harapan agar mendekati istana-Mu. Maka lihatlah daku dengan pandanganku diangkat ke arah Takhta yang bersinar dengan kecemerlangan cahaya Wajah-Mu. Kemudian turunkanlah kepadaku, ya Kekasihku, apa yang akan memungkinkan daku teguh dalam Agama-Mu sehingga keragu-raguan orang yang tak beriman tak dapat menghalangi daku dari menghadap kepada-Mu. Sesungguhnya, Engkaulah Tuhan Kekuasaan, Penolong Dalam Bahaya, Yang Maha Mulia, Yang Maha Perkasa.
 
-(Source category: Keteguhan Hati)
-(Bahaiprayers.net ID: 5123)
+-- Bahá'u'lláh
 
+bpn5123 «[Bahasa Indonesia](../id/#bpn5123)» 
 
-«[Bahasa Indonesia](../id/#bpn5123)» 
-
+----
 
 
 <a id="bpn5124"></a> 
-### Prayer bpn5124 in Bahasa Indonesia
 Ya Tuhan Yang Maha Pengasih! Aku bersyukur kepada-Mu karena Engkau telah membangunkan dan menyadarkan daku. Engkau telah menganugerahi daku dengan mata yang melihat dan telah mengkurniai daku dengan telinga yang mendengar, telah menuntun daku ke kerajaan-Mu dan membimbing daku ke jalan-Mu. Engkau telah menunjukkan kepadaku jalan yang benar dan memungkinkan daku memasuki bahtera keselamatan. Ya Tuhan! Teguhkanlah daku dan jadikanlah aku kukuh dan setia. Lindungilah daku dari cobaan yang dahsyat, dan peliharalah serta jagalah daku dalam benteng Perjanjian-Mu yang kuat. Engkaulah Maha Kuasa. Engkaulah Yang Melihat, Engkaulah Yang Mendengar.
 Ya Engkau, Tuhan Yang Pengasih. Berilah aku hati, yang seperti cermin dapat diterangi dengan cahaya cinta-Mu, dan berilah aku pikiran-pikiran yang dapat mengubah dunia ini menjadi taman bunga mawar, melalui curahan rahmat surgawi. Engkaulah Maha Pengasih dan Maha Penyayang. Engkaulah Tuhan Yang Maha Dermawan!
 
-(Source category: Keteguhan Hati)
-(Bahaiprayers.net ID: 5124)
+-- Abdu'l-Bahá
 
+bpn5124 «[Bahasa Indonesia](../id/#bpn5124)» 
 
-«[Bahasa Indonesia](../id/#bpn5124)» 
-
+----
 
 
 <a id="bpn5125"></a> 
-### Prayer bpn5125 in Bahasa Indonesia
 Ya Rabi Tuhanku! Bantulah kekasih-kekasih-Mu untuk tetap teguh dalam Agama-Mu, untuk berjalan di jalan-jalan-Mu, untuk tetap kukuh dalam Ajaran-Mu. Berikanlah kepada mereka kurnia-Mu agar dapat menahan serangan keakuan dan hawa nafsu dan mengikuti cahaya bimbingan keilahian-Mu. Engkaulah Maha Kuasa, Maha Rahman, Yang Berdiri Sendiri, Penganugerah, Yang Penyayang, Yang Maha Kuasa, Yang Maha Dermawan.
 
 * "Berusahalah dengan keteguhan sebagaimana engkau diperintahkan dan janganlah membiarkan yang tak beriman di antara manusia atau pun ucapan-ucapannya menyedihkan engkau." - Báb
 * "Mudah untuk mendekati Kerajaan Surga tetapi sukar untuk berdiri teguh dan kukuh di dalamnya karena cobaan-cobaannya keras dan berat untuk ditahan." - ‘Abdu’l-Bahá
 
-(Source category: Keteguhan Hati)
-(Bahaiprayers.net ID: 5125)
+-- Abdu'l-Bahá
 
+bpn5125 «[Bahasa Indonesia](../id/#bpn5125)» 
 
-«[Bahasa Indonesia](../id/#bpn5125)» 
-
+----
 
 
 
@@ -876,35 +784,30 @@ Ya Rabi Tuhanku! Bantulah kekasih-kekasih-Mu untuk tetap teguh dalam Agama-Mu, u
 ## Keterlepasan
 
 <a id="bpn5127"></a> 
-### Prayer bpn5127 in Bahasa Indonesia
 Terpujilah Engkau, ya Tuhanku! Aku seorang hamba-Mu, yang telah percaya akan Dikau, dan akan tanda-tanda-Mu. Engkau melihat bagaimana aku telah menghadapkan diriku pada pintu rahmat-Mu dan mengarahkan wajahku pada kasih sayang-Mu. Aku memohon kepada-Mu, demi gelar-gelar-Mu yang tertinggi dan sifat-sifat-Mu yang terluhur, agar membuka pada wajahku gapura-gapura anugerah-Mu. Maka, tolonglah aku agar berbuat apa yang baik, ya Engkau Pemilik segala nama dan sifat!
 Aku ini miskin, ya Tuhanku, dan Engkaulah Yang Kaya. Aku telah menghadapkan wajahku kepada-Mu, dan melepaskan diriku dari segala-galanya kecuali Engkau. Aku memohon kepada-Mu, janganlah menjauhkan diriku dari angin-angin belas-kasih-Mu yang mesra, dan janganlah dijauhkan dariku apa yang Engkau takdirkan bagi orang-orang pilihan di antara hamba-hamba-Mu.
 Bukalah tabir dari mataku ya Tuhanku, agar hendaknya, aku dapat mengenal apa yang telah Engkau hasratkan bagi makhluk-makhluk-Mu, dan dapat menemukan dalam segala perwujudan dari karya-Mu, penjelmaan-penjelmaan kekuasaan-Mu yang maha agung. Gairahkanlah jiwaku, ya Tuhanku, dengan tanda-tanda kekuasaan-Mu yang maha besar, dan tariklah aku dari keinginan-keinginanku yang curang dan jahat. Kemudian tulislah bagiku kebaikan dunia ini dan akhirat. Berkuasalah Engkau berbuat sekehendak- Mu. Tiada Tuhan selain Engkau, Yang Maha Mulia, yang pertolongan-Nya dicari oleh semua manusia.
 
-(Source category: Keterlepasan)
-(Bahaiprayers.net ID: 5127)
+-- Bahá'u'lláh
 
+bpn5127 «[Bahasa Indonesia](../id/#bpn5127)» 
 
-«[Bahasa Indonesia](../id/#bpn5127)» 
-
+----
 
 
 <a id="bpn5128"></a> 
-### Prayer bpn5128 in Bahasa Indonesia
 Ya Tuhanku, biarkanlah aku mendekati-Mu, dan berdiam di lingkungan istana-Mu, karena jauh dari Engkau telah hampir menghancurkan daku. Izinkanlah aku beristirahat di bawah naungan sayap-sayap rahmat- Mu, karena terpisah dari-Mu laksana api yang telah melelehkan hatiku dalam diriku. Dekatkanlah daku pada sungai yang bagaikan kehidupan sejati karena jiwaku terbakar oleh dahaga dalam usaha yang tak habis-habisnya untuk mencari Dikau. Keluh kesahku, ya Tuhanku, menyatakan pahitnya kepedihanku, dan air mataku yang berlinang membuktikan kasihku pada-Mu.
 Aku memohon kepada-Mu, demi pujian yang melaluinya Engkau memuji Diri-Mu Sendiri dan demi kemuliaan yang melaluinya Engkau memuliakan Hakikat-Mu Sendiri, agar mengizinkan kami memasuki bilangan mereka yang mengenal Dikau dan mengakui kedaulatan-Mu di hari-hari-Mu. Ya Tuhan-ku, tolonglah kami untuk meminum air hayat kasih sayang dari jari-jari rahmat-Mu, supaya hendaknya kami sama sekali dapat melupakan segala sesuatu kecuali Engkau, dan hanya asyik dengan Dikau. Berkuasalah Engkau berbuat apa yang Engkau kehendaki.
 Tiada Tuhan selain Engkau, Yang Maha Kuasa, Penolong Dalam Bahaya, Yang Berdiri Sendiri. Dimuliakanlah nama-Mu, ya Engkau Raja dari segala Raja!
 
-(Source category: Keterlepasan)
-(Bahaiprayers.net ID: 5128)
+-- Bahá'u'lláh
 
+bpn5128 «[Bahasa Indonesia](../id/#bpn5128)» 
 
-«[Bahasa Indonesia](../id/#bpn5128)» 
-
+----
 
 
 <a id="bpn5129"></a> 
-### Prayer bpn5129 in Bahasa Indonesia
 Aku tak tahu, ya Tuhanku, Api apakah yang Engkau nyalakan di negeri-Mu. Bumi tak dapat menyuramkan cahayanya, dan tak ada pula air yang dapat memadamkan nyalanya. Semua bangsa di dunia ini tak berdaya melawan kekuatannya. Besarlah kurnia dia yang mendekatinya dan men-dengarkan gemuruhnya.
 Beberapa orang, ya Tuhanku, telah diberi kesanggupan untuk mendekatinya melalui rahmat-Mu yang menguatkan, sedangkan yang lain-lainnya Engkau jauhkan karena apa yang telah mereka perbuat pada hari-hari-Mu. Siapa saja yang bergegas-gegas untuk menghampiri dan mencapainya, karena keinginannya untuk memandang keindahan-Mu, telah menyerahkan hidupnya pada jalan-Mu dan naik kepada-Mu, terlepas sama sekali dari apa pun selain Engkau Sendiri.
 Aku memohon kepada-Mu ya Tuhanku, demi Api ini yang menyala dan mengamuk di dunia ciptaan, agar merobek tabir-tabir yang telah menghalangi daku untuk hadir dihadapan takhta keagungan-Mu dan untuk berdiri di depan gapura-Mu. Takdirkanlah bagiku, ya Tuhanku, segala kebaikan yang telah Engkau turunkan di dalam Kitab-Mu, dan janganlah membiarkan daku jauh dari naungan rahmat-Mu.
@@ -918,12 +821,11 @@ Yang Maha Dermawan.
 *
 "Semoga engkau mengetahui betapa tinggi kedudukannya yang ditakdirkan bagi jiwa-jiwa yang terlepas dari dunia dan tertarik kepada Agama serta menyebarkan Agama-Nya di bawah naungan Hazrat Bahá’u’lláh." - ‘Abdu’l-Bahá
 
-(Source category: Keterlepasan)
-(Bahaiprayers.net ID: 5129)
+-- Bahá'u'lláh
 
+bpn5129 «[Bahasa Indonesia](../id/#bpn5129)» 
 
-«[Bahasa Indonesia](../id/#bpn5129)» 
-
+----
 
 
 
@@ -931,7 +833,6 @@ Yang Maha Dermawan.
 ## Loh Ahmad
 
 <a id="bpn5202"></a> 
-### Prayer bpn5202 in Bahasa Indonesia
 ##LOH AHMAD
 
 *[...Loh ini telah dianugerahi oleh Hazrat Bahá’u’lláh dengan kekuatan dan makna yang istimewa...]
@@ -959,12 +860,11 @@ Sesungguhnya, Ia Yang Maha Pengasih dan Maha Penyayang. Pujian bagi Tuhan, Raja 
 *Sifat orang yang telah lepas dari segala keduniawian.
 *Hazrat Báb
 
-(Source category: Loh Ahmad)
-(Bahaiprayers.net ID: 5202)
+-- Bahá'u'lláh
 
+bpn5202 «[Bahasa Indonesia](../id/#bpn5202)» 
 
-«[Bahasa Indonesia](../id/#bpn5202)» 
-
+----
 
 
 
@@ -972,7 +872,6 @@ Sesungguhnya, Ia Yang Maha Pengasih dan Maha Penyayang. Pujian bagi Tuhan, Raja 
 ## Loh Api
 
 <a id="bpn5203"></a> 
-### Prayer bpn5203 in Bahasa Indonesia
 ##LOH API
 *(QAD-IKHTARAQA'L-MUKHLISUN)
 
@@ -1097,12 +996,11 @@ kepada keridoan-Mu, ya Penakdir semesta alam.
 Wahai Ali-Akbar, berterima kasihlah kepada Tuhan-Mu atas Loh ini, karena engkau dapat menghirup keharuman kelembutan hati-Ku dan mengetahui apa yang menimpa Kami di jalan Tuhan, Pujaan semesta alam.
 Seandainya semua hamba membaca dan merenung- kan ini, maka dalam urat darah mereka akan berkobar api yang akan menyalakan Semesta Alam.
 
-(Source category: Loh Api)
-(Bahaiprayers.net ID: 5203)
+-- Bahá'u'lláh
 
+bpn5203 «[Bahasa Indonesia](../id/#bpn5203)» 
 
-«[Bahasa Indonesia](../id/#bpn5203)» 
-
+----
 
 
 
@@ -1110,7 +1008,6 @@ Seandainya semua hamba membaca dan merenung- kan ini, maka dalam urat darah mere
 ## Loh Karmel
 
 <a id="bpn5216"></a> 
-### Prayer bpn5216 in Bahasa Indonesia
 ##Loh Karmel 
 
 Segala kemuliaan bagi Hari ini, Hari di mana wangi- wangian rahmat telah dihembuskan pada segala
@@ -1123,12 +1020,11 @@ Maha Sucilah Raja sekalian umat manusia, yang apabila menyebut nama-Nya, semua a
 
 *"Inilah hari tatkala Ia yang bercakap-cakap dengan Tuhan telah mencapai cahaya dari Kepurbaan Zaman, dan meneguk air murni perpaduan kembali dari Cawan yang telah menyebabkan lautan-lautan bergelombang. Katakanlah: Demi Allah Yang Maha Benar! Sinai sedang berputar mengelilingi Tempat-terbit Wahyu, sedangkan dari puncak-puncak Kerajaan, Suara Ruh'u'llah sedang terdengar mengumumkan: "Bergeraklah engkau, wahai orang-orang sombong di bumi, dan bersegeralah engkau kepada-Nya.' Pada hari ini, Karmel bergegas-gegas dalam pemujaan dengan kerinduan untuk mencapai istana-Nya, sedangkan dari inti Sahyun telah datang seruan: 'Janjinya telah terpenuhi. Apa yang telah diumumkan dalam Loh-loh Allah, Yang Maha Luhur, Yang Maha Kuasa, Sang Kekasih, telah dijelmakan.' "
 
-(Source category: Loh Karmel)
-(Bahaiprayers.net ID: 5216)
+-- Bahá'u'lláh
 
+bpn5216 «[Bahasa Indonesia](../id/#bpn5216)» 
 
-«[Bahasa Indonesia](../id/#bpn5216)» 
-
+----
 
 
 
@@ -1136,7 +1032,6 @@ Maha Sucilah Raja sekalian umat manusia, yang apabila menyebut nama-Nya, semua a
 ## Loh Penyembuhan Panjang
 
 <a id="bpn5204"></a> 
-### Prayer bpn5204 in Bahasa Indonesia
 ##LOH PENYEMBUHAN PANJANG
 
 IA PENYEMBUH, YANG MENCUKUPI, PENOLONG, YANG MAHA PENGAMPUN, YANG MAHA RAHIM
@@ -1340,12 +1235,11 @@ Dan sekali lagi hamba memohon kepada-Mu, demi nama-nama yang terindah ini, demi 
 terluhur dan maha mulia ini, dan demi Kenangan-Mu Yang Maha Agung, dan demi Keindahan-Mu yang murni dan tak bernoda, dan demi Cahaya-Mu yang tersembunyi dalam ruangan yang paling tersembunyi dan demi Nama-Mu, yang mengenakan jubah penderitaan setiap pagi dan petang agar melindungi pembawa Loh yang diberkati ini, dan siapa yang mengucapkannya, dan siapa yang menemukannya, dan siapa yang mengelilingi rumah yang di dalamnya Loh ini berada. Kemudian sembuhkanlah oleh-Mu dengan Loh ini setiap orang yang sakit, yang berpenyakit dan yang malang, dari setiap penderitaan dan kesengsaraan, dari setiap kesedihan dan penyakit yang menjijikkan, dan bimbinglah oleh-Mu dengan Loh ini barangsiapa yang meng-inginkan memasuki jalan-jalan bimbingan-Mu dan arah-arah pengampunan dan kurnia-Mu.
 Sesungguhnya, Engkaulah Yang Maha Kuasa, Maha Mencukupi, Sang Penyembuh, Pelindung, Penganu- gerah, Yang Maha Pengasih, Yang Maha Dermawan, Yang Maha Penyayang.
 
-(Source category: Loh Penyembuhan Panjang)
-(Bahaiprayers.net ID: 5204)
+-- Bahá'u'lláh
 
+bpn5204 «[Bahasa Indonesia](../id/#bpn5204)» 
 
-«[Bahasa Indonesia](../id/#bpn5204)» 
-
+----
 
 
 
@@ -1353,7 +1247,6 @@ Sesungguhnya, Engkaulah Yang Maha Kuasa, Maha Mencukupi, Sang Penyembuh, Pelindu
 ## Loh Perayaan Kelahiran Sang Bab
 
 <a id="bpn5205"></a> 
-### Prayer bpn5205 in Bahasa Indonesia
 ##Loh Perayaan Kelahiran Sang Bab 
 
 * "Loh yang mulia ini telah diwahyukan pada Peringatan Kelahiran Hazrat Báb, supaya engkau dapat membacanya dengan semangat kerendahan hati dan permohonan dan berterima kasih kepada Tuhan-Mu Yang Maha Tahu, Yang Maha Mengetahui. Berusahalah untuk mengabdi kepada Tuhan agar darimu akan muncul apa yang akan mengabdikan ingatan padamu dalam surga Dia yang mulia dan luhur".
@@ -1362,12 +1255,11 @@ Segala pujian bagi-Mu, ya Tuhanku, karena Engkau telah menghiasi dunia dengan ke
 Ya Tuhanku! Engkau melihat Raja semua manusia ditahan dalam Penjara-Nya Yang Terbesar, memanggil Nama-Mu, memandang wajah-Mu, mengumumkan apa yang telah mempesonakan penghuni kerajaan-kerajaan penjelmaan dan penciptaan-Mu. Ya Tuhanku! Aku melihat Diriku tertawan dalam genggaman hamba- hamba-Mu, namun cahaya kedaulatan-Mu dan penjelmaan-penjelmaan kekuasaan-Mu yang tak dapat dikalahkan, telah bersinar terang benderang dari wajah- Nya, dan memungkinkan semua orang untuk mengetahui dengan yakin bahwa Engkau adalah Tuhan dan tiada Tuhan kecuali Engkau. Baik kekuatan dari orang-orang yang berkuasa maupun kekuasaan dari para penguasa tidak dapat mengalahkan Engkau. Engkau berbuat apa yang Engkau kehendaki melalui kedaulatan-Mu yang mengelilingi semua yang diciptakan, dan menetapkan apa yang Engkau kehendaki melalui kekuatan perintah-Mu yang meliputi seluruh ciptaan.
 Aku memohon kepada-Mu demi kemuliaan Perwujudan-Mu dan demi kekuatan kekuasaan-Mu, kedaulatan-Mu dan keluhuran-Mu agar memenangkan mereka yang telah bangkit untuk mengabdi kepada-Mu, yang telah membantu Agama-Mu dan yang telah merendahkan diri mereka dihadapan kecemerlangan cahaya wajah-Mu. Maka jadikanlah mereka, ya Tuhanku, jaya di atas musuh-musuh-Mu dan menyebabkan mereka menjadi teguh dalam pengabdian-Mu, supaya melalui mereka bukti-bukti kerajaan-Mu dapat didirikan di seluruh kerajaan- kerajaan-Mu dan tanda-tanda kekuatan-Mu yang tak dapat dihalangi, dapat dinyatakan di negara-negara-Mu. Sesungguhnya, Engkaulah yang berkuasa untuk berbuat apa yang Engkau kehendaki. Tiada Tuhan kecuali Engkau, Penolong Dalam Bahaya, Yang Berdiri Sendiri.
 
-(Source category: Loh Perayaan Kelahiran Sang Bab)
-(Bahaiprayers.net ID: 5205)
+-- Bahá'u'lláh
 
+bpn5205 «[Bahasa Indonesia](../id/#bpn5205)» 
 
-«[Bahasa Indonesia](../id/#bpn5205)» 
-
+----
 
 
 
@@ -1375,7 +1267,6 @@ Aku memohon kepada-Mu demi kemuliaan Perwujudan-Mu dan demi kekuatan kekuasaan-M
 ## Loh Ziarah
 
 <a id="bpn5206"></a> 
-### Prayer bpn5206 in Bahasa Indonesia
 ##Loh Ziarah 
 *[Doa ini dibaca di Makam Hazrat Bahá’u’lláh dan Hazrat Báb. Juga digunakan untuk memperingati hari-hari wafat Mereka]
 
@@ -1395,12 +1286,11 @@ Tiada Tuhan melainkan Engkau, Yang Maha Pengampun, Yang Maha Dermawan.
 *Sidrat berarti Pohon Ilahi
 *Ma'bud berarti Yang Disembah
 
-(Source category: Loh Ziarah)
-(Bahaiprayers.net ID: 5206)
+-- Bahá'u'lláh
 
+bpn5206 «[Bahasa Indonesia](../id/#bpn5206)» 
 
-«[Bahasa Indonesia](../id/#bpn5206)» 
-
+----
 
 
 
@@ -1408,20 +1298,17 @@ Tiada Tuhan melainkan Engkau, Yang Maha Pengampun, Yang Maha Dermawan.
 ## Malam
 
 <a id="bpn5130"></a> 
-### Prayer bpn5130 in Bahasa Indonesia
 Ya Tuhanku, Penguasaku, Tujuan cita-citaku. Hamba-Mu ini hendak tidur di bawah perlindungan rahmat-Mu dan beristirahat di bawah kubah kurnia-Mu, memohon pemeliharaan-Mu serta perlindungan-Mu.
 Aku memohon kepada-Mu, ya Tuhanku, demi mata- Mu yang tak tidur, untuk menjaga mataku agar jangan sampai memandang apa pun kecuali Engkau. Kemudian kuatkanlah pandangannya supaya dapat melihat tanda-tanda-Mu, dan memandang Ufuk Wahyu- Mu. Engkau adalah Dia, yang di depan kenyataan kemahakuasaan-Nya, intisari kekuasaan telah gemetar. Tiada Tuhan kecuali Engkau, Yang Maha Kuasa, Yang Maha Menaklukkan, Yang Tak Terbatas.
 
-(Source category: Malam)
-(Bahaiprayers.net ID: 5130)
+-- Bahá'u'lláh
 
+bpn5130 «[Bahasa Indonesia](../id/#bpn5130)» 
 
-«[Bahasa Indonesia](../id/#bpn5130)» 
-
+----
 
 
 <a id="bpn5131"></a> 
-### Prayer bpn5131 in Bahasa Indonesia
 Bagaimana aku dapat tidur, ya Rabi Tuhanku, apabila mata mereka yang merindukan Engkau terjaga, karena terpisah daripada-Mu; dan bagai-manakah aku dapat berbaring istirahat sedangkan jiwa-jiwa para pencinta-Mu susah karena jauh dari kehadiran-Mu?
 
 Ya Tuhanku, aku telah menyerahkan rohku serta seluruh wujudku pada tangan kanan kekuasaan dan perlindungan-Mu, dan aku meletakkan kepalaku di atas bantalku melalui kekuasaan-Mu, dan mengangkat kepalaku sesuai dengan kehendak dan keridhoan-Mu. Sesungguhnya, Engkaulah Sang Pemelihara, Sang Penjaga, Yang Maha Kuasa, Yang Maha Kuat.
@@ -1430,12 +1317,11 @@ Demi kekuasaan-Mu! Aku tak meminta apa pun, baik waktu tidur maupun terjaga, mel
 
 *"Selamkanlah dirimu dalam samudera sabda-sabda-Ku agar engkau dapat membuka rahasia-rahasia-Nya dan menemukan segala mutiara hikmat yang tersembunyi di dasarnya. Berhati-hatilah jangan sampai engkau ragu-ragu dalam tekad untuk memeluk kebenaran Agama ini, yaitu suatu Agama yang melaluinya kekuasaan Tuhan yang terpendam telah dinyatakan dan kedaulatan-Nya telah ditegakkan. Dengan wajah berseri-seri karena gembira, bersegeralah engkau kepada-Nya. Inilah Agama Tuhan yang tak berubah-rubah, abadi pada masa lampau, kekal di masa yang akan datang". - Bahá’u’lláh
 
-(Source category: Malam)
-(Bahaiprayers.net ID: 5131)
+-- Bahá'u'lláh
 
+bpn5131 «[Bahasa Indonesia](../id/#bpn5131)» 
 
-«[Bahasa Indonesia](../id/#bpn5131)» 
-
+----
 
 
 
@@ -1443,7 +1329,6 @@ Demi kekuasaan-Mu! Aku tak meminta apa pun, baik waktu tidur maupun terjaga, mel
 ## Naw-Ruz
 
 <a id="bpn5215"></a> 
-### Prayer bpn5215 in Bahasa Indonesia
 ##Loh Ridwan 
 
 Musim semi Ilahi telah datang, wahai Pena Yang Maha Luhur, karena Perayaan Yang Maha Pengasih
@@ -1476,12 +1361,11 @@ Demikianlah pengaruh mabuk dari firman-firman Tuhan terhadap Dia, Pewahyu bukti-
 *[Hari Raya Ridwan dan Pengumuman Hazrat Báb] 
 *[Hari Lahir Hazrat Bahá’u’lláh dan Hari Lahir Hazrat Báb].
 
-(Source category: Naw-Ruz)
-(Bahaiprayers.net ID: 5215)
+-- Bahá'u'lláh
 
+bpn5215 «[Bahasa Indonesia](../id/#bpn5215)» 
 
-«[Bahasa Indonesia](../id/#bpn5215)» 
-
+----
 
 
 
@@ -1489,44 +1373,38 @@ Demikianlah pengaruh mabuk dari firman-firman Tuhan terhadap Dia, Pewahyu bukti-
 ## Orang Tua
 
 <a id="bpn5141"></a> 
-### Prayer bpn5141 in Bahasa Indonesia
 *"Patutlah bagi hamba Tuhan, setelah setiap Sembahyang harus memohon kepada Tuhan agar Tuhan mengampuni orang tuanya. Setelah itu panggilan Tuhan akan dikumandangkan: 'Beribu-ribu dari apa yang telah engkau mohon bagi orang tuamu akan menjadi ganjaranmu' ". - Báb
 
 Ya Tuhan, Engkau melihat tangan permohonan kami telah diangkat ke arah langit rahmat dan karunia- Mu. Biarlah tangan-tangan itu diisi penuh dengan harta kekayaan dari kemurahan hati dan rahmat-Mu yang berlimpah. Ampunilah kami serta ayah dan ibu kami dan kabulkanlah apa pun yang kami inginkan dari samudera rahmat-Mu dan kedermawanan Keilahian-Mu. Terimalah, ya Kekasih kalbu kami, semua pekerjaan kami di jalan-Mu. Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Luhur, Yang Tiada Banding Taranya, Yang Maha Esa, Yang Maha Pengampun, Yang Maha Pengasih.
 
-(Source category: Orang Tua)
-(Bahaiprayers.net ID: 5141)
+-- Bahá'u'lláh
 
+bpn5141 «[Bahasa Indonesia](../id/#bpn5141)» 
 
-«[Bahasa Indonesia](../id/#bpn5141)» 
-
+----
 
 
 <a id="bpn5142"></a> 
-### Prayer bpn5142 in Bahasa Indonesia
 Aku memohon pemaafan-Mu, Ya Tuhanku, dan meminta dengan sangat pengampunan-Mu, sebagai- mana Engkau menginginkan hamba-hamba-Mu menghadap kepada-Mu. Aku memohon kepada-Mu agar menghapuskan dosa-dosa kami sesuai dengan martabat Keilahian-Mu, dan agar mengampuni daku,orang tuaku dan mereka yang menurut perhitungan-Mu telah memasuki tempat kediaman cinta-Mu, dengan cara yang layak bagi kedaulatan-Mu yang luhur dan patut bagi kekuasaan surgawi-Mu yang mulia.
 
 Ya Tuhanku, Engkau telah mengilhami jiwaku untuk memohon kepada-Mu dan jika tidak karena Dikau, aku tidak akan memanggil-Mu. Dimuliakanlah dan diluhurkanlah Engkau; aku bersyukur kepada-Mu karena Engkau telah menyatakan Diri-Mu kepadaku dan aku memohon kepada-Mu untuk mengampuni daku karena aku telah melalaikan kewajibanku untuk mengenal Dikau dan telah gagal untuk berjalan di jalan cinta-Mu.
 
-(Source category: Orang Tua)
-(Bahaiprayers.net ID: 5142)
+-- Báb
 
+bpn5142 «[Bahasa Indonesia](../id/#bpn5142)» 
 
-«[Bahasa Indonesia](../id/#bpn5142)» 
-
+----
 
 
 <a id="bpn5143"></a> 
-### Prayer bpn5143 in Bahasa Indonesia
 Ya Tuhan! Dalam Kurun Zaman yang Maha Agung
 ini, Engkau telah menerima permohonan anak-anak untuk orang tua mereka. Ini adalah salah satu dari pemberian-pemberian khusus yang tak terbatas, pada Kurun Zaman ini. Oleh karena itu, ya Engkau Tuhan Yang Maha Pengasih, terimalah permohonan hamba- Mu ini pada ambang pintu keesaan-Mu dan selamkanlah ayahnya dalam samudra kurnia-Mu, karena putra ini telah bangkit untuk mengabdi kepada- Mu dan pada setiap waktu berusaha di jalan cinta-Mu. Sesungguhnya Engkau Maha Pemberi, Pengampun dan Pengasih.
 
-(Source category: Orang Tua)
-(Bahaiprayers.net ID: 5143)
+-- Abdu'l-Bahá
 
+bpn5143 «[Bahasa Indonesia](../id/#bpn5143)» 
 
-«[Bahasa Indonesia](../id/#bpn5143)» 
-
+----
 
 
 
@@ -1534,7 +1412,6 @@ ini, Engkau telah menerima permohonan anak-anak untuk orang tua mereka. Ini adal
 ## Orang Yang Meninggal Dunia
 
 <a id="bpn5144"></a> 
-### Prayer bpn5144 in Bahasa Indonesia
 Ya Tuhan, diluhurkanlah Dia, Tuhan kasih sayang dan kedermawanan! Kemuliaan bagimu, ya Engkau Tuhanku, Tuhan Yang Maha Kuasa. Aku naik saksi atas kemahakuasaan-Mu dan kekuatan-Mu, kedaulatan- Mu dan kasih sayang-Mu, kurnia-Mu dan kekuatan-Mu, ketunggalan Wujud-Mu dan keesaan Hakikat-Mu, kesucian dan keluhuran-Mu di atas dunia wujud dan segala yang ada di dalam-nya.
 
 Ya Tuhanku, Engkau melihat daku terlepas dari segala sesuatu kecuali Engkau, berpegang teguh kepada-Mu dan menghadap ke samudera rahmat-Mu, ke langit pemberian-Mu dan Surya kurnia-Mu.
@@ -1552,16 +1429,14 @@ Ya Tuhanku, Amanat-Mu telah dikembalikan kepada- Mu. Layak bagi kurnia-Mu dan ra
 
 Aku naik saksi, ya Tuhanku, bahwa Engkau telah memerintahkan kepada manusia untuk menghormati tamu mereka, dan dia yang telah naik kepada-Mu sesungguhnya telah sampai kepada-Mu dan mencapai Kehadiran-Mu. Maka, perlakukanlah dia sesuai dengan karunia dan rahmatMu! Demi kemuliaan-Mu, aku yakin bahwa Engkau tidak akan menahan dari Diri-Mu apa yang telah Engkau perintahkan kepada hamba-hamba- Mu, tak pula Engkau akan menjauhkan dia yang telah berpegang erat kepada tali rahmat-Mu dan telah naik ke Fajar kekayaan-Mu. Tiada Tuhan kecuali Engkau, Yang Esa, Yang Tunggal, Yang Maha Kuasa, Yang Maha Ada, Yang Maha Dermawan.
 
-(Source category: Orang Yang Meninggal Dunia)
-(Bahaiprayers.net ID: 5144)
+-- Bahá'u'lláh
 
+bpn5144 «[Bahasa Indonesia](../id/#bpn5144)» 
 
-«[Bahasa Indonesia](../id/#bpn5144)» 
-
+----
 
 
 <a id="bpn5146"></a> 
-### Prayer bpn5146 in Bahasa Indonesia
 Kemuliaan bagi-Mu, ya Rabi Tuhanku! Janganlah merendahkan dia yang telah Engkau luhurkan dengan kekuasaan kedaulatan-Mu yang abadi, dan jangan- lah dia yang telah Engkau izinkan untuk memasuki kemah keabadian-Mu, dijauhkan dari Engkau. Apakah Engkau akan menyisihkan dia, ya Tuhanku, yang telah Engkau lindungi dengan Ketuhanan-Mu, dan apakah Engkau akan menjauhkan dari-Mu, ya Hasratku, dia yang baginya Engkau menjadi perlindungan?
 Dapatkah Engkau menghinakan dia yang telah Engkau muliakan atau melupakan dia yang telah Engkau beri kesanggupan untuk mengingat-Mu? Dimuliakanlah Engkau sebesar-besarnya! Engkau adalah Dia yang untuk selama-lamanya menjadi Raja seluruh alam ciptaan dan Penggerak Utamanya, dan Engkau akan tetap selama-lamanya menjadi Tuhan segala makhluk dan menjadi pula Pengatur mereka. Dimuliakanlah Engkau, ya Tuhanku! Jika Engkau tidak lagi mengasihani hamba-hamba-Mu, lalu siapakah yang akan menunjukkan kasih sayang pada mereka? Dan jikalau Engkau menolak untuk menolong para kekasih- Mu, siapakah yang dapat menolong mereka?
 Dimuliakanlah, dimuliakanlah Engkau setinggi- tingginya! Engkau dipuja karena hakikat-Mu dan sesungguhnya, kami semua menyembah Dikau; dan Engkaulah nyata dalam keadilan-Mu, dan sesungguh- nya, kami semua naik saksi pada-Mu. Sesungguhnya, Engkau dicintai karena rahmat-Mu. Tiada Tuhan kecuali Engkau, Penolong Dalam Bahaya, Yang Berdiri Sendiri.
@@ -1573,16 +1448,14 @@ Dimuliakanlah, dimuliakanlah Engkau setinggi- tingginya! Engkau dipuja karena ha
 *"...Janganlah berputus asa, janganlah merana, janganlah mengeluh, dan jangan pula meratap atau menangis karena kegelisahan dan kesedihan mempengaruhi arwahnya di alam Ilahi...".
 ‘Abdu’l-Bahá
 
-(Source category: Orang Yang Meninggal Dunia)
-(Bahaiprayers.net ID: 5146)
+-- Bahá'u'lláh
 
+bpn5146 «[Bahasa Indonesia](../id/#bpn5146)» 
 
-«[Bahasa Indonesia](../id/#bpn5146)» 
-
+----
 
 
 <a id="bpn5147"></a> 
-### Prayer bpn5147 in Bahasa Indonesia
 *"Sembahyang untuk mayat hanyalah satu-satunya Sembahyang wajib Bahá’í yang dilakukan dengan berjamaah, diucapkan oleh seorang mukmin, sedangkan semua yang hadir berdiri diam. Hazrat Bahá’u’lláh telah menerangkan bahwa Salát Jenazah hanya diperlukan bila yang meninggal itu seorang dewasa, dan Sembahyang ini harus dibaca sebelum penguburan jenazah. Tidak wajib menghadap ke Kiblat ketika membaca Sembahyang ini." [Penjelasan dari Kitab-i-Aqdas catatan No 10]
 
 Ya Tuhanku! Inilah hamba-Mu dan putra hamba- Mu yang telah percaya pada-Mu dan pada tanda-tanda- Mu, dan telah menghadapkan wajahnya pada-Mu, terlepas sama sekali dari segala sesuatu kecuali Engkau. Sesungguhnya, Engkaulah yang paling Penyayang dari semua penyayang. Perlakukanlah dia, ya Engkau yang mengampuni dosa-dosa manusia dan menyembunyikan kesalahan-kesalahan manusia, sebagaimana layak bagi langit kedermawanan-Mu dan samudera rahmat-Mu. Izinkanlah dia memasuki lingkungan rahmat-Mu yang luhur yang mendahului berdirinya bumi dan langit. Tiada Tuhan melainkan Engkau, Yang Maha Pengampun, Yang Maha Dermawan.
@@ -1598,25 +1471,22 @@ Sesungguhnya, kami semua bersabar demi Tuhan.
 
 * *Ayat-ayat ini yang merupakan bagian dari Sembahyang Jenazah terdiri dari ucapan Alláh’u’Abhá (Tuhan Yang Maha Mulia) enam kali, setiap kali masing-masing diikuti oleh sembilan belas pengulangan satu dari enam ayat yang khusus diwahyukan. - (Penjelasan dari Kitab-i-Aqdas, catatan No.11)
 
-(Source category: Orang Yang Meninggal Dunia)
-(Bahaiprayers.net ID: 5147)
+-- Bahá'u'lláh
 
+bpn5147 «[Bahasa Indonesia](../id/#bpn5147)» 
 
-«[Bahasa Indonesia](../id/#bpn5147)» 
-
+----
 
 
 <a id="bpn5145"></a> 
-### Prayer bpn5145 in Bahasa Indonesia
 Ya Tuhanku! Ya Engkau Pengampun dosa-dosa, Penganugerah pemberian-pemberian, Penghalau kesukaran-kesukaran! Sesungguhnya hamba memohon kepada-Mu agar mengampuni dosa-dosa mereka yang telah meninggalkan jasad fana dan telah naik ke alam kerohanian.
 Ya Tuhanku! Sucikanlah mereka dari segala kesalahan, hapuskanlah kesedihan mereka, dan ubahlah kegelapan mereka menjadi cahaya. Perkenan- kanlah mereka untuk memasuki taman kebahagiaan, bersihkanlah mereka dengan air yang paling murni dan izinkanlah mereka agar memandang kemuliaan-Mu di atas bukit yang paling tinggi.
 
-(Source category: Orang Yang Meninggal Dunia)
-(Bahaiprayers.net ID: 5145)
+-- Abdu'l-Bahá
 
+bpn5145 «[Bahasa Indonesia](../id/#bpn5145)» 
 
-«[Bahasa Indonesia](../id/#bpn5145)» 
-
+----
 
 
 
@@ -1624,7 +1494,6 @@ Ya Tuhanku! Sucikanlah mereka dari segala kesalahan, hapuskanlah kesedihan merek
 ## Pagi Fajar
 
 <a id="bpn5148"></a> 
-### Prayer bpn5148 in Bahasa Indonesia
 *[Dapat dibaca baik selama masa Puasa maupun pada waktu fajar.]
 
 Ya Tuhanku, Penguasaku! Aku hamba-Mu dan putra hamba-Mu. Aku telah bangun dari tempat tidurku pada waktu fajar ini, ketika Surya Keesaan-Mu telah bersinar dari Fajar kehendak-Mu, dan telah memancarkan sinar-Nya ke seluruh dunia, sesuai dengan apa yang telah ditentukan dalam Kitab-kitab Perintah-Mu.
@@ -1636,28 +1505,24 @@ Berkatilah, ya Rabi Tuhanku, Dia yang telah Engkau kuasakan dengan Gelar-gelar-M
 
 *"Sering pada waktu fajar, Aku berpaling dari Kerajaan-kerajaan Tak Bertempat ke tempat tinggalmu, dan menemukan engkau di tempat tidur kesenangan sibuk dengan yang lain-lain, selain daripada Aku Sendiri. Setelah itu, bahkan sebagai kilat roh, Aku kembali ke kerajaan-kerajaan surgawi yang mulia dan Aku tak membisikkannya kepada para penghuni kesucian di tempat tinggal-Ku di atas".
 
-(Source category: Pagi Fajar)
-(Bahaiprayers.net ID: 5148)
+-- Bahá'u'lláh
 
+bpn5148 «[Bahasa Indonesia](../id/#bpn5148)» 
 
-«[Bahasa Indonesia](../id/#bpn5148)» 
-
+----
 
 
 <a id="bpn5149"></a> 
-### Prayer bpn5149 in Bahasa Indonesia
 Ya Tuhanku! Aku telah bangun di bawah naungan- Mu, dan layak bagi dia yang mencari naungan itu untuk berdiam di bawah Kubah perlindungan-Mu dan Benteng pertahanan-Mu. Terangilah jiwaku, ya Tuhanku, dengan kecemerlangan Fajar Wahyu-Mu, sebagaimana halnya Engkau telah menerangi tubuhku dengan sinar pagi kurnia-Mu.
 
-(Source category: Pagi Fajar)
-(Bahaiprayers.net ID: 5149)
+-- Bahá'u'lláh
 
+bpn5149 «[Bahasa Indonesia](../id/#bpn5149)» 
 
-«[Bahasa Indonesia](../id/#bpn5149)» 
-
+----
 
 
 <a id="bpn5150"></a> 
-### Prayer bpn5150 in Bahasa Indonesia
 Aku memberikan pujian kepada-Mu, ya Tuhan-ku, karena Engkau telah membangunkan daku dari kantukku dan telah memunculkan daku kembali setelah aku hilang, dan membangkitkan daku dari tidurku. Aku telah bangun pagi ini dengan wajahku diarahkan pada kecemerlangan Surya Wahyu-Mu, yang melaluinya langit kekuasaan-Mu dan keagungan-Mu telah diterangi, dengan mengakui tanda-tanda-Mu, beriman pada Kitab- Mu, dan berpegang erat pada Tali-Mu.
 
 Aku memohon kepada-Mu, demi kekuatan kehendak-Mu dan kekuasaan tujuan-Mu yang memaksa, agar menjadikan apa yang telah Engkau nyatakan kepadaku dalam tidurku, pondasi yang paling meyakinkan untuk istana cinta-Mu yang ada di dalam kalbu-kalbu para kekasih-Mu, dan alat yang terbaik untuk mengumumkan tanda-tanda rahmat-Mu dan kasih sayang-Mu.
@@ -1669,12 +1534,11 @@ Engkau tidak mengecewakan siapa pun yang telah mencari Dikau, tak pula Engkau me
 
 *"Sibukkanlah dirimu dalam mengingat keindahan Dia yang tak terbatas, pada waktu pagi sekali dan carilah hubungan dengan Dia pada waktu fajar ... mengingat Daku adalah suatu obat penyembuh jiwa-jiwa dan suatu cahaya bagi kalbu-kalbu manusia"
 
-(Source category: Pagi Fajar)
-(Bahaiprayers.net ID: 5150)
+-- Bahá'u'lláh
 
+bpn5150 «[Bahasa Indonesia](../id/#bpn5150)» 
 
-«[Bahasa Indonesia](../id/#bpn5150)» 
-
+----
 
 
 
@@ -1682,18 +1546,16 @@ Engkau tidak mengecewakan siapa pun yang telah mencari Dikau, tak pula Engkau me
 ## Pemuda-Pemudi
 
 <a id="bpn5151"></a> 
-### Prayer bpn5151 in Bahasa Indonesia
 Ya Tuhan! Jadikanlah pemuda ini cemerlang dan kurniakanlah rahmat-Mu pada insan miskin ini. Anugerahilah ilmu padanya, tambahlah kekuatan padanya setiap fajar dan jagalah ia di bawah naungan perlindungan-Mu agar ia dapat dibebaskan dari kesalahan-kesalahan, dapat mengabdikan diri untuk berbakti kepada Agama-Mu, dapat membimbing orang- orang yang membangkang, memberi petunjuk kepada mereka yang malang, serta membebaskan yang tertawan dan membangunkan orang-orang yang lalai agar semuanya dapat diberkati dengan mengingat dan memuji Engkau. Engkaulah Yang Maha Kuasa dan Maha Kuat.
 
 
 * "Diberkatilah dia yang pada puncak masa mudanya dan pada masa kejayaan kehidupannya, akan bangkit untuk mengabdi kepada Agama Tuhan, Raja yang awal dan yang akhir, dan menghiasi kalbunya dengan cinta-Nya. Penjelmaan rahmat se-demikian, lebih besar dari penciptaan langit dan bumi. Diberkati-lah mereka yang teguh dan beruntunglah bagi mereka yang kukuh". - Bahá’u’lláh
 
-(Source category: Pemuda-Pemudi)
-(Bahaiprayers.net ID: 5151)
+-- Abdu'l-Bahá
 
+bpn5151 «[Bahasa Indonesia](../id/#bpn5151)» 
 
-«[Bahasa Indonesia](../id/#bpn5151)» 
-
+----
 
 
 
@@ -1701,7 +1563,6 @@ Ya Tuhan! Jadikanlah pemuda ini cemerlang dan kurniakanlah rahmat-Mu pada insan 
 ## Pengampunan
 
 <a id="bpn5152"></a> 
-### Prayer bpn5152 in Bahasa Indonesia
 *"Orang yang berdosa bila dalam keadaan di mana ia menemukan dirinya bebas dan terpisahkan dari segala sesuatu kecuali Tuhan, harus memohon pemaafan dan pengampunan. Tidak dibolehkan untuk mengumumkan dosa dan pelanggaran seseorang dihadapan siapa pun karena hal ini tidak pernah dan tidak akan membawa pengampunan dari Tuhan. Demikian pula pengakuan dosa dihadapan orang akan membawa pada kerendahan diri dan penghinaan seseorang, dan Tuhan, dijunjung tinggilah kemuliaan-Nya, tak menghendaki penghinaan hamba-hamba-Nya. Sesungguh- nya, Ia Maha Pemurah dan Maha Dermawan!
 
 *Seorang yang berdosa harus memohon antara dirinya sendiri dan Tuhan, rahmat dari lautan karunia dan memohon pengampunan dari Langit kedermawanan sambil berkata":
@@ -1714,99 +1575,85 @@ Sayang! Sayang! Pelanggaran-pelanggaranku telah menghalangi daku dari mendekati 
 
 Aku memohon kepada-Mu demi Dia, Raja segala Nama yang berdaulat agar menetapkan bagiku dari Pena rahmat-Mu, apa yang akan mendekatkan daku kepada-Mu dan akan membersihkan daku dari dosa-dosaku yang telah menghalangi antara daku dan pemaafan-Mu dan pengampunan-Mu. Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Dermawan! Tiada Tuhan kecuali Engkau, Yang Maha Perkasa, Yang Maha Pengasih!
 
-(Source category: Pengampunan)
-(Bahaiprayers.net ID: 5152)
+-- Bahá'u'lláh
 
+bpn5152 «[Bahasa Indonesia](../id/#bpn5152)» 
 
-«[Bahasa Indonesia](../id/#bpn5152)» 
-
+----
 
 
 <a id="bpn5153"></a> 
-### Prayer bpn5153 in Bahasa Indonesia
 Dimuliakanlah Engkau, ya Rabi Tuhanku! Setiap kali aku berusaha untuk menyebut Dikau, aku tertahan oleh dosa-dosaku yang besar dan pelanggaran- pelanggaran terhadap-Mu yang menyedihkan, dan menemukan diriku sangat terjauhkan dari rahmat-Mu, dan sama sekali tak berdaya untuk meluhurkan pujian- Mu. Akan tetapi keyakinanku yang besar terhadap rahmat-Mu memberanikan daku untuk memuji Engkau dan meminta dari-Mu apa saja yang Engkau miliki.
 Aku memohon kepada-Mu, ya Tuhanku, demi kurnia-Mu yang telah meliputi seluruh ciptaan, dan melaluinya semua yang diselamkan ke dalam samudera nama-nama-Mu naik saksi, agar jangan membiarkan daku pada diriku sendiri karena hatiku cenderung terhadap kejahatan. Maka jagalah daku dalam benteng perlindungan-Mu dan naungan pemeliharaan-Mu. Aku adalah dia, ya Tuhanku, yang hasrat satu-satunya adalah apa yang telah Engkau tentukan oleh kekuatan kekuasaan-Mu. Aku hanya memilih untuk diriku sendiri agar dibantu oleh petunjuk-petunjuk-Mu yang rahman dan ditolong oleh tanda-tanda keputusan dan pertimbangan-Mu.
 Aku memohon kepada-Mu, ya Engkau Kekasih kalbu-kalbu yang rindu akan Dikau, demi Perwujudan- perwujudan Agama-Mu dan Fajar-fajar ilham-Mu, dan Penafsir-penafsir keagungan-Mu, dan Khazanah- khazanah ilmu-Mu, agar jangan membiarkan daku terjauhkan dari Tempat tinggal-Mu yang suci, Tempat ibadah-Mu dan Kemah-Mu. Bantulah daku, ya Tuhanku, agar mencapai istana kesucian-Nya dan agar mengelilingi Diri-Nya, dan berdiri dengan rendah hati pada pintu-Nya.
 Engkau adalah Dia yang kekuasaan-Nya berlangsung dari keabadian sampai keabadian. Tiada sesuatu pun terlepas dari pengetahuan-Mu. Sesungguhnya, Engkaulah Tuhan kekuasaan, Tuhan kemuliaan dan kearifan. Terpujilah Tuhan, Raja sekalian alam!
 
-(Source category: Pengampunan)
-(Bahaiprayers.net ID: 5153)
+-- Bahá'u'lláh
 
+bpn5153 «[Bahasa Indonesia](../id/#bpn5153)» 
 
-«[Bahasa Indonesia](../id/#bpn5153)» 
-
+----
 
 
 <a id="bpn5154"></a> 
-### Prayer bpn5154 in Bahasa Indonesia
 Ya Rabi Tuhanku! Kurnia-Mu telah memberanikan daku namun keadilan-Mu telah memenuhi diriku dengan kecemasan. Berbahagialah hamba-Mu yang dianuge- rahi dengan kurnia-Mu dan celakalah barang siapa yang patut mendapat kutuk-Mu.
 Tuhan, aku telah lari dari keadilan-Mu dan telah mencari kurnia-Mu. Aku telah berpaling dari murka-Mu agar mendapatkan pengampunan-Mu. Aku memohon kepada-Mu, demi kekuasaan-Mu, kedaulatan-Mu, kemuliaan-Mu dan kurnia-Mu agar menerangi umat manusia dengan cahaya pengetahuan-Mu sedemikian rupa sehingga sekalian makhluk akan menandakan perbuatan-Mu, membuka rahasia sifat-sifat-Mu, dan menyatakan kecemerlangan kearifan-Mu.
 Engkau adalah Dia yang telah mewujudkan sekalian makhluk, dan telah memancarkan kepada mereka cahaya pemeliharaan-Mu dan perlindungan-Mu. Engkau Sang Pengampun, Yang Maha Dermawan, Yang Maha Kasih.
 
-(Source category: Pengampunan)
-(Bahaiprayers.net ID: 5154)
+-- Bahá'u'lláh
 
+bpn5154 «[Bahasa Indonesia](../id/#bpn5154)» 
 
-«[Bahasa Indonesia](../id/#bpn5154)» 
-
+----
 
 
 <a id="bpn5155"></a> 
-### Prayer bpn5155 in Bahasa Indonesia
 Terpujilah Nama-Mu, ya Tuhanku dan Tuhan alam semesta, Kejayaanku dan Kejayaan sekalian makhluk, Hasratku dan Hasrat sekalian makhluk, Kekuatanku dan Kekuatan sekalian makhluk, Rajaku dan Raja sekalian makhluk, Pemilikku dan Pemilik sekalian makhluk, Tujuanku dan Tujuan sekalian makhluk, Penggerakku dan Penggerak sekalian makhluk! Aku memohon kepada-Mu, janganlah Engkau membiarkan daku terpisah dari samudera kasih sayang-Mu yang mesra, dan janganlah pula dijauhkan dari pantai kedekatan-Mu.
 Ya Tuhanku, tiada yang lain kecuali Engkau yang menguntungkan daku; dan tak ada faedahnya bagiku mendekati apa pun kecuali Engkau. Aku memohon kepada-Mu, demi berlimpah-limpahnya kekayaan-Mu yang mana Engkau tak memerlukan apa pun selain Engkau Sendiri, agar memasukkan daku ke dalam bilangan mereka yang telah menghadapkan wajahnya kepada-Mu, dan bangkit mengabdi kepada-Mu. Kemudian ampunilah hamba-hamba-Mu dan hamba- hamba wanita-Mu, ya Tuhanku. Sesungguhnya, Engkau Maha Pengampun dan Maha Penyayang.
 
-(Source category: Pengampunan)
-(Bahaiprayers.net ID: 5155)
+-- Bahá'u'lláh
 
+bpn5155 «[Bahasa Indonesia](../id/#bpn5155)» 
 
-«[Bahasa Indonesia](../id/#bpn5155)» 
-
+----
 
 
 <a id="bpn5158"></a> 
-### Prayer bpn5158 in Bahasa Indonesia
 Nama-Mu kesembuhanku, ya Tuhanku, dan mengenang Dikau obatku. Dekat pada-Mu harapanku, dan cinta pada-Mu sahabatku. Rahmat-Mu padaku kesembuhanku dan pertolongan bagiku baik di dunia ini maupun di akhirat. Sesungguhnya, Engkaulah Yang Maha Dermawan, Yang Maha Tahu, Yang Maha Arif.
 
-(Source category: Pengampunan)
-(Bahaiprayers.net ID: 5158)
+-- Bahá'u'lláh
 
+bpn5158 «[Bahasa Indonesia](../id/#bpn5158)» 
 
-«[Bahasa Indonesia](../id/#bpn5158)» 
-
+----
 
 
 <a id="bpn5159"></a> 
-### Prayer bpn5159 in Bahasa Indonesia
 Ya Tuhanku! Ya Tuhanku! Aku memohon kepada- Mu demi samudra penyembuhan-Mu, dan demi kecemerlangan Surya rahmat-Mu, dan demi Nama-Mu yang menaklukkan hamba-hamba-Mu, dan demi kekuasaan yang menembus dari Firman-Mu yang terluhur, dan demi kekuatan Pena-Mu yang Maha Agung, dan demi rahmat-Mu yang telah mendahului penciptaan semua yang ada di langit dan di bumi agar membersihkan daku dengan air kedermawanan-Mu, dari setiap malapetaka dan penyakit, dan dari segala kedhaifan serta kelemahan.
 Engkau melihat, ya Tuhanku, pemohon ini menunggu di ambang pintu kedermawanan-Mu, dan ia yang menaruh harapannya kepada-Mu melekat pada tali kedermawanan-Mu. Aku memohon kepada-Mu, janganlah menjauhkan dia dari apa yang dicarinya dari samudra kurnia-Mu dan dari Surya kasih sayang- Mu.
 Berkuasalah Engkau berbuat sekehendak-Mu. Tiada Tuhan selain Engkau, Yang Maha Pengampun, Yang
 Maha Dermawan.
 
-(Source category: Pengampunan)
-(Bahaiprayers.net ID: 5159)
+-- Bahá'u'lláh
 
+bpn5159 «[Bahasa Indonesia](../id/#bpn5159)» 
 
-«[Bahasa Indonesia](../id/#bpn5159)» 
-
+----
 
 
 <a id="bpn5160"></a> 
-### Prayer bpn5160 in Bahasa Indonesia
 Terpujilah Engkau, ya Rabi, Tuhanku! Aku memohon kepada-Mu, demi Nama-Mu Yang Maha Besar, yang melaluinya Engkau menggerakkan hamba-hamba-Mu dan membangun kota-kota-Mu, dan demi gelar-gelar-Mu Yang Maha Sempurna dan sifat-sifat-Mu yang terluhur, agar membantu hamba- hamba-Mu untuk menghadap ke arah kedermawanan- Mu yang berlimpah-limpah, dan menghadapkan wajah-wajahnya ke Kemah kearifan-Mu. Sembuhkanlah penyakit-penyakit yang telah menyerang jiwa-jiwa dari segala jurusan dan yang menghalangi mereka untuk menghadapkan pandangannya ke arah Firdaus yang terletak di bawah naungan Nama-Mu yang melindungi, yang telah Engkau tetapkan sebagai Raja segala nama untuk semua yang ada di langit dan semua yang ada di bumi. Berkuasalah Engkau untuk berbuat sekehendak- Mu. Dalam genggaman-Mu terletak kerajaan segala nama. Tiada Tuhan lain kecuali Engkau, Yang Maha Kuasa, Yang Maha Arif.
 Aku hanyalah makhluk miskin, ya Tuhanku; aku telah berpegang erat pada ujung kekayaan-Mu. Aku sakit payah; aku telah berpegang erat pada tali kesembuhan-Mu. Bebaskanlah daku dari penyakit- penyakit yang telah meliputi daku, basuhlah daku bersih-bersih dengan air kerahmanan dan kerahiman- Mu, dan hiasilah daku dengan pakaian kesehatan melalui pengampunan dan kedermawanan-Mu. Kemudian, pusatkanlah pandanganku kepada-Mu, dan jauhkanlah daku dari segala ikatan apa pun kecuali Engkau. Tolonglah daku untuk berbuat apa yang Engkau kehendaki, dan melaksanakan apa yang Engkau sukai.
 Sesungguhnya, Engkaulah Tuhan kehidupan ini dan kehidupan yang akan datang. Sesungguhnya, Engkaulah Yang Maha Pengampun, Yang Maha Penyayang.
 
-(Source category: Pengampunan)
-(Bahaiprayers.net ID: 5160)
+-- Bahá'u'lláh
 
+bpn5160 «[Bahasa Indonesia](../id/#bpn5160)» 
 
-«[Bahasa Indonesia](../id/#bpn5160)» 
-
+----
 
 
 <a id="bpn5161"></a> 
-### Prayer bpn5161 in Bahasa Indonesia
 Kemuliaan bagi-Mu ya Rabi Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang melaluinya Engkau telah mengangkat panji-panji bimbingan-Mu dan telah memancarkan cahaya kasih sayang-Mu, dan telah menyatakan kedaulatan Ketuhanan-Mu; yang melaluinya lampu nama-nama-Mu telah muncul dalam relung sifat-sifat-Mu, dan Ia yang menjadi Kemah kesatuan-Mu dan Perwujudan keterlepasan-Mu telah bersinar; yang melaluinya jalan bimbingan-Mu ditunjukkan, dan jalan keridhoan-Mu ditandai; yang melaluinya dasar kesalahan telah digetarkan, dan tanda-tanda kejahatan telah dimusnahkan; yang melaluinya sumber kearifan telah memancar dan meja surgawi telah diturunkan; yang melaluinya Engkau telah memelihara hamba-hamba-Mu dan telah menganugerahi penyembuhan-Mu; yang melaluinya Engkau telah memperlihatkan rahmat-Mu yang mesra kepada hamba-hamba-Mu dan menyatakan pengampunan-Mu di antara makhluk-makhluk-Mu. Aku memohon kepada-Mu agar menyelamatkan dia yang telah berpegang teguh dan telah kembali kepada-Mu, dan memegang jubah kasih sayang-Mu. Maka turunkanlah penyembuhan-Mu kepadanya, sembuhkan- lah dia dan anugerahilah dia keteguhan yang diberikan oleh-Mu, dan ketenangan yang dianugerahkan oleh Yang Mulia.
 Sesungguhnya Engkaulah Penyembuh, Pemelihara, Penolong Yang Maha Kuasa, Yang Maha Kuat, Yang
 Maha Tahu.
@@ -1814,40 +1661,35 @@ Maha Tahu.
 *"Ada dua jalan untuk menyembuhkan penyakit, cara jasmani dan cara rohani. Yang pertama memakai obat-obatan; yang kedua adalah berdoa kepada Tuhan dan menghadap kepada- Nya. Kedua cara ini harus dipakai dan dijalankan."
 *"Sekarang jika engkau ingin mengetahui penyembuhan sejati yang akan menyembuhkan manusia dari segala penyakit dan akan memberikan kepada dia kesehatan dari kerajaan Ilahi, ketahuilah bahwa itu adalah peraturan-peraturan dan ajaran- ajaran Tuhan. Pusatkanlah perhatianmu pada hal tersebut ". - ‘Abdu’l-Bahá
 
-(Source category: Pengampunan)
-(Bahaiprayers.net ID: 5161)
+-- Bahá'u'lláh
 
+bpn5161 «[Bahasa Indonesia](../id/#bpn5161)» 
 
-«[Bahasa Indonesia](../id/#bpn5161)» 
-
+----
 
 
 <a id="bpn5156"></a> 
-### Prayer bpn5156 in Bahasa Indonesia
 Pujian bagi-Mu, ya Tuhan. Ampunilah dosa-dosa kami, kasihanilah kami dan mungkinkanlah kami kembali kepada-Mu. Janganlah membiarkan kami bergantung kepada siapa pun kecuali Engkau, dan berikanlah kepada kami, melalui rahmat-Mu, apa yang Engkau cintai dan ridhoi, dan apa yang layak bagi-Mu. Luhurkanlah kedudukan mereka yang sungguh-sungguh beriman, dan ampunilah mereka dengan pengampunan- Mu yang penuh kasih sayang. Sesungguhnya, Engkaulah Penolong Dalam Bahaya, Yang Berdiri Sendiri.
 
 *"Jika seseorang berbuat kesalahan terhadap engkau, engkau harus langsung mengampuninya".
 *"Berusahalah... jika seseorang jatuh dalam kesalahan untuk seratus ribu kali, ia masih dapat menghadapkan wajahnya kepadamu dengan harapan engkau akan mengampuni dosa-dosanya; karena ia tidak boleh menjadi berputus asa atau pun sedih dan patah semangat". - -’Abdu’l-Bahá
 
-(Source category: Pengampunan)
-(Bahaiprayers.net ID: 5156)
+-- Báb
 
+bpn5156 «[Bahasa Indonesia](../id/#bpn5156)» 
 
-«[Bahasa Indonesia](../id/#bpn5156)» 
-
+----
 
 
 <a id="bpn5157"></a> 
-### Prayer bpn5157 in Bahasa Indonesia
 Ya Tuhan Yang Maha Pengasih! Engkau adalah Pelindung bagi semua hamba-hamba-Mu ini. Engkau mengetahui rahasia-rahasia dan sadar akan segala sesuatu. Kami semua tak berdaya dan Engkaulah Yang Maha Kuat dan Maha Kuasa. Kami semua orang yang berdosa dan Engkaulah Pengampun dosa-dosa, Yang Maha Pengasih dan Maha Penyayang. Ya Tuhan! Janganlah melihat pada kekurangan-kekurangan kami. Perlakukanlah kami sesuai dengan rahmat dan karunia- Mu. Kekurangan-kekurangan kami banyak tetapi samudera pengampunan-Mu tak terbatas. Kelemahan kami menyedihkan tetapi bukti-bukti dari bantuan dan pertolongan-Mu nyata. Maka teguhkanlah dan kuatkan- lah kami. Mungkinkanlah kami berbuat apa yang layak bagi Ambang pintu-Mu yang suci. Terangilah kalbu- kalbu kami, berilah kami mata yang tajam dan telinga yang mendengar. Hidupkanlah yang mati dan sembuh- kanlah yang sakit.
 Anugerahilah kekayaan kepada yang miskin dan berilah ketentraman dan keamanan kepada yang takut. Terimalah kami di kerajaan-Mu dan terangilah kami dengan cahaya bimbingan. Engkaulah Maha Kuasa dan Maha Kuat. Engkaulah yang Dermawan. Engkaulah Maha Pengasih, Engkaulah Yang Baik Hati.
 
-(Source category: Pengampunan)
-(Bahaiprayers.net ID: 5157)
+-- Abdu'l-Bahá
 
+bpn5157 «[Bahasa Indonesia](../id/#bpn5157)» 
 
-«[Bahasa Indonesia](../id/#bpn5157)» 
-
+----
 
 
 
@@ -1855,27 +1697,23 @@ Anugerahilah kekayaan kepada yang miskin dan berilah ketentraman dan keamanan ke
 ## Perjalanan
 
 <a id="bpn5162"></a> 
-### Prayer bpn5162 in Bahasa Indonesia
 Aku telah bangun pagi ini karena rahmat-Mu, ya Tuhanku, dan meninggalkan rumahku dengan penuh kepercayaan kepada-Mu, dan menyerahkan diriku pada pemeliharaan-Mu. Maka turunkanlah padaku, dari langit belas kasih-Mu, berkah dari-Mu, dan mungkinkanlah bagiku untuk pulang ke rumah dengan selamat sebagaimana Engkau telah memungkinkan daku berangkat di bawah perlindungan-Mu dengan pikiran- pikiranku tetap teguh terpusat pada-Mu. Tiada Tuhan lain kecuali Engkau, Yang Maha Esa, Yang Tiada Taranya, Yang Maha Mengetahui, Yang Maha Arif.
 
-(Source category: Perjalanan)
-(Bahaiprayers.net ID: 5162)
+-- Bahá'u'lláh
 
+bpn5162 «[Bahasa Indonesia](../id/#bpn5162)» 
 
-«[Bahasa Indonesia](../id/#bpn5162)» 
-
+----
 
 
 <a id="bpn5163"></a> 
-### Prayer bpn5163 in Bahasa Indonesia
 Ya Tuhan, Tuhanku! Aku telah berangkat dari rumahku dengan memegang teguh pada tali cinta-Mu dan telah menyerahkan diriku sepenuhnya kepada pemeliharaan dan perlindungan-Mu. Aku memohon kepada-Mu demi kekuasaan-Mu, yang melaluinya Engkau telah melindungi kekasih-kekasih-Mu dari orang-orang yang melawan dan yang sesat, dan dari setiap penindas yang kejam, serta setiap orang jahat yang telah tersesat jauh dari Engkau, untuk menjaga keselamatanku melalui rahmat dan kurnia-Mu. Perkenankanlah bagiku untuk kembali ke rumahku melalui kekuatan-Mu dan kekuasaan-Mu. Sesung- guhnya, Engkaulah Yang Maha Kuasa, Penolong Dalam Bahaya Yang Berdiri Sendiri.
 
-(Source category: Perjalanan)
-(Bahaiprayers.net ID: 5163)
+-- Bahá'u'lláh
 
+bpn5163 «[Bahasa Indonesia](../id/#bpn5163)» 
 
-«[Bahasa Indonesia](../id/#bpn5163)» 
-
+----
 
 
 
@@ -1883,7 +1721,6 @@ Ya Tuhan, Tuhanku! Aku telah berangkat dari rumahku dengan memegang teguh pada t
 ## Perkawinan
 
 <a id="bpn5164"></a> 
-### Prayer bpn5164 in Bahasa Indonesia
 *Ayat Perjanjian Perkawinan, yaitu ayat yang harus diucapkan oleh mempelai laki-laki dan perempuan dihadapan dua saksi sebagaimana tertulis dalam Kitab-i-Aqdas:
 
 *"KITA SEMUA SESUNGGUHNYA TUNDUK AKAN KEHENDAK TUHAN"
@@ -1893,29 +1730,25 @@ Ia Pemberi Anugerah, Yang Dermawan!
 Terpujilah Tuhan, Sang Purba, Yang Maha Abadi, Yang Tak Berubah, Yang Kekal! Ia yang telah naik saksi dengan Wujud-Nya Sendiri bahwa sesungguhnya Ia Maha Esa, Maha Tunggal, Maha Kuasa dan Maha Luhur. Kami naik saksi bahwa sesungguhnya tiada Tuhan melainkan Dia, menyatakan keesaan-Nya, dan mengakui ketunggalan-Nya. Ia selalu berada di ketinggian-ketinggian yang tak terdekati dan di puncak-puncak keluhuran-Nya, tersucikan dari penyebutan segala sesuatu kecuali Dia Sendiri serta bebas dari gambaran segala sesuatu melainkan Dia.
 Dan apabila Ia menghendaki menjelmakan rahmat dan derma kepada manusia serta menertibkan dunia, maka Ia mewahyukan peraturan-peraturan dan mencip- takan hukum-hukum; di antaranya Ia mendirikan hukum perkawinan, dan membuatnya sebagai benteng untuk keselamatan dan kesejahteraan manusia dan memerintahkan kepada kita apa yang diturunkan dari langit kesucian dalam Kitab-Nya Yang Maha Suci. Ia berfirman, maha besarlah kemuliaan-Nya: "Kawinlah, wahai orang-orang, agar muncul darimu dia yang akan ingat pada-Ku di antara hamba-hamba-Ku; inilah salah satu dari perintah-perintah-Ku bagimu; patuhilah ini sebagai bantuan untukmu sendiri."
 
-(Source category: Perkawinan)
-(Bahaiprayers.net ID: 5164)
+-- Bahá'u'lláh
 
+bpn5164 «[Bahasa Indonesia](../id/#bpn5164)» 
 
-«[Bahasa Indonesia](../id/#bpn5164)» 
-
+----
 
 
 <a id="bpn5165"></a> 
-### Prayer bpn5165 in Bahasa Indonesia
 Kemuliaan kepunyaan-Mu, ya Tuhanku! Sesungguhnya hamba-Mu ini dan hamba wanita-Mu ini telah berkumpul di bawah naungan rahmat-Mu dan mereka telah bersatu melalui kemurahan dan kedermawanan-Mu. Ya Tuhan! Tolonglah mereka di dunia-Mu ini dan di kerajaan-Mu, dan takdirkanlah bagi mereka segala kebaikan melalui anugerah dan kurnia- Mu. Ya Tuhan! Teguhkanlah mereka dalam pengabdian kepada-Mu dan bantulah mereka dalam berbakti kepada-Mu. Perkenankanlah mereka agar menjadi tanda-tanda Nama-Mu di alam-Mu dan lindungilah mereka melalui pemberian-pemberian-Mu, yang tak akan habis di dunia ini dan di akhirat.
 Ya Tuhan! Mereka sedang memohon ke kerajaan rahmat-Mu dan ke alam keesaan-Mu. Sesungguhnya mereka telah menikah karena tunduk pada perintah-Mu. Mungkinkanlah mereka menjadi tanda-tanda kesela- rasan dan kesatuan untuk selama-lamanya. Sesung- guhnya, Engkau Yang Maha Kuasa dan Yang Maha Ada, Yang Maha Agung.
 
-(Source category: Perkawinan)
-(Bahaiprayers.net ID: 5165)
+-- Abdu'l-Bahá
 
+bpn5165 «[Bahasa Indonesia](../id/#bpn5165)» 
 
-«[Bahasa Indonesia](../id/#bpn5165)» 
-
+----
 
 
 <a id="bpn5166"></a> 
-### Prayer bpn5166 in Bahasa Indonesia
 Ialah Tuhan!
 Ya Tuhan yang tiada banding tara-Nya! Dalam kearifan-Mu yang maha kuasa, Engkau telah memerintahkan perkawinan kepada manusia, supaya keturunan-keturunan manusia saling susul menyusul dalam dunia fana ini, dan supaya senantiasa selama dunia ini ada, mereka dapat menyibukkan diri di Ambang Pintu ketunggalan-Mu dengan pengabdian dan penyembahan, dengan pujaan dan pujian.
 
@@ -1931,12 +1764,11 @@ Ya Tuhan Yang Penyayang! Jadikanlah perkawinan ini melahirkan mutiara dan ratna.
 
 *Perkawinan sejati umat Bahá’í adalah bahwa suami dan istri harus bersatu baik secara lahiriah maupun secara rohaniah, sehingga mereka selalu memperbaiki kehidupan rohani satu sama lain dan dapat menikmati kesatuan abadi di seluruh alam-alam Tuhan, inilah perkawinan Bahá’í". - ‘Abdu’l-Bahá
 
-(Source category: Perkawinan)
-(Bahaiprayers.net ID: 5166)
+-- Abdu'l-Bahá
 
+bpn5166 «[Bahasa Indonesia](../id/#bpn5166)» 
 
-«[Bahasa Indonesia](../id/#bpn5166)» 
-
+----
 
 
 
@@ -1944,41 +1776,35 @@ Ya Tuhan Yang Penyayang! Jadikanlah perkawinan ini melahirkan mutiara dan ratna.
 ## Perlindungan
 
 <a id="bpn5167"></a> 
-### Prayer bpn5167 in Bahasa Indonesia
 Terpujilah Engkau, ya Rabi Tuhanku! Inilah hamba-Mu yang telah minum anggur kurnia-Mu dari tangan rahmat-Mu, dan mengecap kelezatan kasih-Mu dalam hari-hari-Mu. Aku memohon kepada-Mu demi penjelmaan nama-nama-Mu yang tak dapat dihalangi oleh kesedihan apapun untuk bergembira dalam kasih- Mu atau melihat wajah-Mu, dan yang bala tentara kaum yang alpa tak berkuasa menyisihkan dari jalan kesenangan-Mu, agar memberikan kepada dia hal-hal yang baik yang Engkau miliki, dan agar mengangkatnya ke puncak-puncak sedemikian rupa, sehingga ia akan meng-anggap dunia bahkan sebagai bayangan yang lenyap lebih cepat dari kejapan mata.
 Selamatkanlah dia juga ya Tuhanku, dengan kekuasaan keagungan-Mu yang tak terbilang, dari segala yang tak Engkau ridhoi. Sesungguhnya Engkaulah Tuhannya dan Tuhan sekalian alam.
 
-(Source category: Perlindungan)
-(Bahaiprayers.net ID: 5167)
+-- Bahá'u'lláh
 
+bpn5167 «[Bahasa Indonesia](../id/#bpn5167)» 
 
-«[Bahasa Indonesia](../id/#bpn5167)» 
-
+----
 
 
 <a id="bpn5168"></a> 
-### Prayer bpn5168 in Bahasa Indonesia
 Diluhurkanlah nama-Mu, Ya Rabi Tuhanku! Aku memohon kepada-Mu demi Nama-Mu yang melalui- Nya Saatnya telah tiba, dan Hari Kebangkitan telah datang, dan ketakutan dan gemetar meliputi semua yang ada di bumi, agar menghujani dari langit rahmat- Mu dan awan-awan kasih sayang-Mu yang mesra, apa yang akan menggembirakan kalbu-kalbu mereka yang telah menghadap ke-pada-Mu dan membantu Agama- Mu.
 Selamatkanlah hamba-hamba-Mu dan hamba-hamba wanita-Mu, ya Tuhanku, dari panah-panah khayalan kosong dan angan-angan sia-sia, dan berikanlah kepada mereka dari tangan kurnia-Mu, air ilmu-Mu yang mengalir pelan-pelan. Sesungguhnya, Engkau Yang Maha Kuasa, Yang Maha Luhur, Yang Maha Mengampuni dan Maha Dermawan.
 
-(Source category: Perlindungan)
-(Bahaiprayers.net ID: 5168)
+-- Bahá'u'lláh
 
+bpn5168 «[Bahasa Indonesia](../id/#bpn5168)» 
 
-«[Bahasa Indonesia](../id/#bpn5168)» 
-
+----
 
 
 <a id="bpn5169"></a> 
-### Prayer bpn5169 in Bahasa Indonesia
 Ya Tuhan, Tuhanku! Lindungilah hamba-hamba- Mu yang dipercayai dari kejahatan hawa nafsu dan keakuan. Jagalah mereka dengan pandangan kasih sayang-Mu yang penuh perhatian, dari segala perasaan dendam, kebencian dan iri hati; naungilah mereka dalam benteng pemeliharaan-Mu yang tak dapat dikalahkan, dan jadikanlah mereka penjelmaan tanda- tanda-Mu yang mulia yang diselamatkan dari panah keraguan; terangilah wajah mereka dengan sinar-sinar cemerlang yang dipancarkan dari Fajar keesaan-Mu; gembirakanlah kalbu-kalbu mereka dengan ayat-ayat yang diwahyukan dari kerajaan-Mu yang suci; kuatkanlah pinggang mereka dengan kekuatan-Mu yang meliputi yang berasal dari kerajaan kemuliaan-Mu. Engkaulah Yang Maha Dermawan, Pelindung, Yang Maha Kuasa, Yang Maha Pengasih.
 
-(Source category: Perlindungan)
-(Bahaiprayers.net ID: 5169)
+-- Abdu'l-Bahá
 
+bpn5169 «[Bahasa Indonesia](../id/#bpn5169)» 
 
-«[Bahasa Indonesia](../id/#bpn5169)» 
-
+----
 
 
 
@@ -1986,32 +1812,27 @@ Ya Tuhan, Tuhanku! Lindungilah hamba-hamba- Mu yang dipercayai dari kejahatan ha
 ## Persatuan
 
 <a id="bpn5170"></a> 
-### Prayer bpn5170 in Bahasa Indonesia
 Ya Tuhanku! Ya Tuhanku! Persatukanlah hati hamba-hamba-Mu, dan perlihatkanlah kepada mereka maksud-Mu yang Agung. Semoga mereka itu mentaati perintah-perintah-Mu dan tunduk pada hukum-Mu. Tolonglah mereka itu, Ya Tuhan, dalam usaha mereka dan karuniailah mereka itu kekuatan untuk mengabdi pada-Mu. Ya Tuhan! Janganlah Engkau biarkan mereka itu tetapi bimbinglah langkah-langkah mereka dengan cahaya pengetahuan-Mu dan riangkanlah hati mereka dengan kasih-sayang-Mu. Sesungguhnya, Engkau Penolong dan Tuhan mereka itu.
 
-(Source category: Persatuan)
-(Bahaiprayers.net ID: 5170)
+-- Bahá'u'lláh
 
+bpn5170 «[Bahasa Indonesia](../id/#bpn5170)» 
 
-«[Bahasa Indonesia](../id/#bpn5170)» 
-
+----
 
 
 <a id="bpn5171"></a> 
-### Prayer bpn5171 in Bahasa Indonesia
 Kemuliaan bagi-Mu, ya Tuhan, atas penjelmaan cinta-Mu kepada manusia! Ya Engkau, Kehidupan dan Cahaya kami, bimbinglah hamba-hamba-Mu dalam jalan-Mu dan jadikanlah kami kaya dalam-Mu dan bebas dari segala sesuatu kecuali Engkau. Ya Tuhan, ajarlah kami Keesaan-Mu dan berilah kami kesadaran mengenai Kesatuan-Mu, agar kami tak dapat melihat siapa pun kecuali Engkau. Engkaulah Yang Maha Pengasih dan Pemberi anugerah!
 Ya Tuhan, ciptakanlah dalam kalbu-kalbu kekasih-Mu api cinta-Mu, agar ia dapat membakar pikiran terhadap apa pun kecuali Engkau. Nyatakanlah kepada kami, ya Tuhan, keabadian-Mu yang luhur bahwa Engkaulah purba dan kekal dan tiada Tuhan kecuali Engkau. Sesungguhnya, padaMu-lah akan kami temukan ketenangan dan kekuatan.
 
-(Source category: Persatuan)
-(Bahaiprayers.net ID: 5171)
+-- Bahá'u'lláh
 
+bpn5171 «[Bahasa Indonesia](../id/#bpn5171)» 
 
-«[Bahasa Indonesia](../id/#bpn5171)» 
-
+----
 
 
 <a id="bpn5172"></a> 
-### Prayer bpn5172 in Bahasa Indonesia
 Ya Tuhan Yang Maha Pengasih! Engkau telah menjadikan semua manusia dari keturunan yang sama. Engkau telah mentakdirkan bahwa semuanya sekeluarga. Di Hadirat-Mu Yang Suci mereka itu hamba-Mu semuanya, dan sekalian manusia berlindung di bawah Kemah Kemurahan-Mu; semuanya berkumpul di sekeliling Meja Kedermawanan-Mu; semuanya diterangi oleh cahaya Kurnia-Mu.
 Ya Tuhan! Engkau kasih pada semua orang. Engkau telah memelihara semuanya, melindungi semuanya, menghidupkan semuanya. Engkau telah mengkurniai setiap hamba-Mu dengan bakat dan kesanggupan dan semuanya diliputi samudera rahmat-Mu. Ya Engkau, Tuhan Yang Maha Dermawan! Satukanlah mereka itu semuanya! Jadikanlah Agama bersatu semuanya dan jadikanlah semua bangsa satu bangsa, agar mereka itu dapat melihat satu sama lain, sebagai satu keluarga
 dan seluruh dunia sebagai satu tanah air. Semoga mereka itu dapat hidup bersama dalam kerukunan dan kesatuan sepenuhnya.
@@ -2020,12 +1841,11 @@ Ya Tuhan! Kibarkanlah panji-panji kesatuan manusia. Ya Tuhan! Dirikanlah Perdama
 
 *"Jika ada perselisihan timbul di antaramu lihatlah Aku berdiri di hadapanmu, dan lupakanlah kesalahan-kesalahan satu sama lain demi kepentingan Nama-Ku dan sebagai tanda cintamu pada Agama-Ku yang nyata dan cemerlang. Kami suka sekali melihat engkau senantiasa bergaul dalam persahabatan dan kerukunan di dalam surga kerelaan-Ku, dan menghirup dari perbuatan-perbuatanmu keramahtamahan dan persatuan, kasih sayang dan persaudaraan. Demikianlah Yang Maha Mengetahui, Yang Maha Setia menasihatimu. Kami akan selalu besertamu; jikalau Kami menghirup wangi persahabatanmu, kalbu Kami pasti akan bersukaria, karena tiada yang lain yang dapat memuaskan Kami..." - Bahá’u’lláh
 
-(Source category: Persatuan)
-(Bahaiprayers.net ID: 5172)
+-- Abdu'l-Bahá
 
+bpn5172 «[Bahasa Indonesia](../id/#bpn5172)» 
 
-«[Bahasa Indonesia](../id/#bpn5172)» 
-
+----
 
 
 
@@ -2033,7 +1853,6 @@ Ya Tuhan! Kibarkanlah panji-panji kesatuan manusia. Ya Tuhan! Dirikanlah Perdama
 ## Pertemuan
 
 <a id="bpn5173"></a> 
-### Prayer bpn5173 in Bahasa Indonesia
 *"Apabila engkau memasuki ruangan pertemuan, ucapkanlah doa ini dengan hati yang berdebar-debar dengan cinta Tuhan dan lidah yang telah disucikan dari apa pun kecuali mengingat kepada-Nya agar Yang Maha Kuasa akan membantu engkau dengan kasih sayang untuk mencapai kemenangan yang tertinggi."
 
 
@@ -2043,16 +1862,14 @@ telah menghadap dengan ikhlas pada Wajah-Mu Yang Suci, dan telah melepaskan diri
 Ya Rabi Tuhan kami! Jadikanlah kami tanda-tanda Bimbingan Keilahian-Mu, Panji-panji Agama -Mu yang luhur di antara umat manusia, hamba-hamba Perjanjian- Mu yang agung, ya Engkau Tuhan kami Yang Maha Tinggi, penjelmaan-penjelmaan Keesaan Keilahian-Mu di Kerajaan Abhá-Mu, dan bintang-bintang cemerlang yang menyinari semua daerah.
 Tuhan! Bantulah kami agar menjadi lautan-lautan yang bergelora dengan gelombang-gelombang Rahmat- Mu yang menakjubkan, sungai-sungai yang mengalir dari Ketinggian-ketinggian-Mu yang maha mulia, buah-buahan yang baik pada Pohon Agama-Mu yang surgawi, pohon-pohon yang melambai-lambai karena angin sepoi Rahmat-Mu dalam Kebun Anggur-Mu yang surgawi. Ya Tuhan! Jadikanlah jiwa-jiwa kami tergantung pada Ayat-ayat Keesaan Keilahian-Mu, hati kami gembira karena curahan-curahan Karunia-Mu, agar kami dapat bersatu laksana gelombang- gelombang satu lautan dan menjadi lebur berpadu laksana sinar-sinar Cahaya-Mu yang cemerlang; sehingga pikiran-pikiran kami, pandangan-pandangan kami, perasaan-perasaan kami menjadi bagaikan hakikat yang satu yang mewujudkan semangat persatuan di seluruh dunia. Engkaulah Yang Maha Rahman, Yang Maha Dermawan, Sang Pemberi Anugerah, Yang Maha Kuasa, Yang Maha Pengasih, Yang Maha Penyayang.
 
-(Source category: Pertemuan)
-(Bahaiprayers.net ID: 5173)
+-- Bahá'u'lláh
 
+bpn5173 «[Bahasa Indonesia](../id/#bpn5173)» 
 
-«[Bahasa Indonesia](../id/#bpn5173)» 
-
+----
 
 
 <a id="bpn5174"></a> 
-### Prayer bpn5174 in Bahasa Indonesia
 *[Doa ini dapat dibaca pada penutup Pertemuan]
 
 Ya Tuhan! Ya Tuhan! Dari kerajaan keesaan-Mu yang gaib, lihatlah kami berkumpul dalam pertemuan kerohanian ini, dengan percaya kepada-Mu, yakin akan tanda-tanda-Mu, teguh dalam Perjanjian dan Wasiat- Mu, tertarik pada-Mu, bernyala dengan api cinta dan ikhlas dalam Agama-Mu. Kami ini hamba-hamba dalam kebun anggur-Mu, penyebar-penyebar Agama-Mu, penyembah-penyembah wajah-Mu, rendah hati terhadap kekasih-kekasih-Mu, tunduk dihadapan pintu-Mu dan memohon kepada-Mu agar menguatkan kami untuk mengabdi kepada orang-orang pilihan-Mu. Bantulah kami dengan laskar-laskar-Mu yang gaib, kuatkanlah pinggang kami dalam mengabdi pada-Mu dan jadikanlah kami hamba-hamba yang taat dan penuh cinta kasih sewaktu berhubungan dengan-Mu.
@@ -2062,39 +1879,34 @@ Sesungguhnya, Engkaulah Maha Dermawan, Maha Pemurah! Engkaulah Pemilik anugerah 
 
 *"Musyawarahlah satu sama lain dalam segala urusan, karena musyawarah adalah lampu petunjuk yang menunjukkan jalan dan memberi pengertian". - Bahá’u’lláh
 
-(Source category: Pertemuan)
-(Bahaiprayers.net ID: 5174)
+-- Abdu'l-Bahá
 
+bpn5174 «[Bahasa Indonesia](../id/#bpn5174)» 
 
-«[Bahasa Indonesia](../id/#bpn5174)» 
-
+----
 
 
 <a id="bpn5175"></a> 
-### Prayer bpn5175 in Bahasa Indonesia
 Ya Engkau Tuhan Yang Maha Pengasih! Ya Engkau Yang Maha Kuasa dan Maha Kuat! Ya Engkau Tuhan Yang Maha Pemurah! Hamba-hamba ini telah berkumpul bersama, menghadap kepada-Mu, memohon kepada ambang pintu-Mu, meng-hasratkan pemberian- pemberian-Mu yang tak ada habisnya dari jaminan-Mu yang agung. Tiada tujuan bagi mereka melainkan keridhoan-Mu. Tiada maksud yang lain bagi mereka kecuali pengabdian kepada dunia insani.
 Ya Tuhan! Jadikanlah kumpulan ini cemerlang. Jadikanlah kalbu-kalbu penuh dengan kasih sayang. Anugerahkanlah pemberian-pemberian dari Roh Suci. Berilah kepada mereka kekuatan dari surga. Berkatilah mereka dengan pikiran yang surgawi. Tambahlah keikhlasan mereka sehingga mereka dapat menghadap ke kerajaan-Mu dengan penuh rendah hati dan tobat, dan menyibukkan diri dengan pengabdian ke dunia insani. Semoga setiap orang menjadi lilin yang bersinar. Semoga setiap orang menjadi bintang yang cemerlang. Semoga setiap orang menjadi indah dengan beraneka warna dan harum dari wangi kerajaan Tuhan.
 Ya Tuhan yang pemurah! Anugerahkanlah berkat- berkat-Mu. Janganlah melihat pada kekurangan- kekurangan kami. Naungilah kami di bawah perlindungan-Mu. Janganlah mengingat pada dosa- dosa kami. Sembuhkanlah kami dengan rahmat-Mu. Kami ini lemah; Engkaulah Maha Kuasa. Kami ini miskin; Engkaulah kaya; Kami ini sakit; Engkaulah Penyembuh. Kami ini serba kekurangan; Engkaulah Maha Dermawan. Ya Tuhan! Peliharalah kami. Engkaulah Maha Kuat. Engkau Sang Pemberi. Engkaulah Maha Dermawan.
 
-(Source category: Pertemuan)
-(Bahaiprayers.net ID: 5175)
+-- Abdu'l-Bahá
 
+bpn5175 «[Bahasa Indonesia](../id/#bpn5175)» 
 
-«[Bahasa Indonesia](../id/#bpn5175)» 
-
+----
 
 
 <a id="bpn5176"></a> 
-### Prayer bpn5176 in Bahasa Indonesia
 Ya Engkau Tuhan Yang Pengasih! Kami telah berkumpul dalam pertemuan kerohanian ini dengan penuh rendah hati; kami telah menghadapkan wajah kami ke arah kerajaan-Mu dan memohon penguatan dan bantuan-Mu, agar kami dapat bersatu dan selaras, agar kami dapat bergaul satu sama lain dengan kemanisan susu dan madu, dan agar kami dapat menjadi sebab datangnya ke-satuan kerajaan manusia. Kabulkanlah bahwa dengan hati murni dan jiwa gilang gemilang kami dapat berdoa kepada-Mu dan memohon dari Engkau terpenuhinya keinginan-keinginan kami yang keras.
 Yang Maha Kuasa! Janganlah memandang pada dosa-dosa kami, tetapi pandanglah kami dengan anugerah dan kurnia-Mu. Ampunilah kelalaian-kelalaian kami. Anugerahilah kami dengan kurnia-Mu. Nyalakanlah api kasih-Mu dan bakarlah tabir-tabir takhayul, hawa nafsu dan kesukaan. Lindungilah dan jagalah kami terhadap kelemahan diri; naungilah kami di bawah keteduhan pohon kasih sayang-Mu, dan anugerahilah kami dengan kesabaran dan ketenangan batin. Sesungguhnya, Engkaulah Yang Maha Kuasa, Yang Maha Kuat.
 
-(Source category: Pertemuan)
-(Bahaiprayers.net ID: 5176)
+-- Abdu'l-Bahá
 
+bpn5176 «[Bahasa Indonesia](../id/#bpn5176)» 
 
-«[Bahasa Indonesia](../id/#bpn5176)» 
-
+----
 
 
 
@@ -2102,81 +1914,69 @@ Yang Maha Kuasa! Janganlah memandang pada dosa-dosa kami, tetapi pandanglah kami
 ## Pertolongan Dalam Kesukaran
 
 <a id="bpn5177"></a> 
-### Prayer bpn5177 in Bahasa Indonesia
 Ya Tuhan, Tuhanku! Hilangkanlah kesedihanku dengan kedermawanan dan pemberian-Mu, dan lenyapkanlah penderitaanku melalui kedaulatan dan kekuatan-Mu. Ya Tuhanku, Engkau melihat daku sedang menghadap kepada-Mu ketika kesedihan- kesedihan meliputiku dari segala penjuru. Aku memohon kepada-Mu, wahai Raja segala wujud, yang melindungi segala yang nyata dan yang gaib, demi Nama-Mu yang menaklukkan semua hati dan jiwa, dan demi sinar-sinar Wajah-Mu dan demi gelombang-gelombang dari samudera rahmat-Mu serta kecemerlangan Surya pemberian-Mu, agar memasukkan daku ke dalam bilangan orang-orang yang tak terhalangi oleh apa pun untuk menghadap kepada- Mu, Wahai Raja segala nama dan Pencipta langit.
 Ya Tuhanku, Engkau melihat apa yang telah menimpa daku pada hari-hari-Mu. Aku memohon kepada-Mu demi Tempat Terbit nama-nama-Mu dan Tempat Terbit sifat-sifat-Mu, agar menetapkan bagiku apa yang akan memungkinkan daku untuk bangkit mengabdi kepada-Mu dan memuji kebajikan-Mu. Sesungguhnya, Engkau Yang Maha Kuat, Yang Maha Kuasa, Yang mengabulkan doa semua manusia!
 Dan terakhir aku memohon kepada-Mu demi sinar- sinar Wajah-Mu, agar hendaknya Engkau memberkati urusan-urusanku dan menebus hutang-hutangku serta memenuhi kebutuhan-kebutuhanku. Engkaulah Dia yang kekuasaan dan kekuatan-Nya telah disaksikan oleh setiap lidah dan keagungan dan kedaulatan-Nya diakui oleh setiap hati yang mengerti. Tiada Tuhan kecuali Engkau Yang Mendengar dan Yang siap untuk menjawab.
 
-(Source category: Pertolongan Dalam Kesukaran)
-(Bahaiprayers.net ID: 5177)
+-- Bahá'u'lláh
 
+bpn5177 «[Bahasa Indonesia](../id/#bpn5177)» 
 
-«[Bahasa Indonesia](../id/#bpn5177)» 
-
+----
 
 
 <a id="bpn5178"></a> 
-### Prayer bpn5178 in Bahasa Indonesia
 Diluhurkanlah dan dimuliakanlah Engkau, ya Tuhanku! Aku memohon kepada-Mu demi keluh-kesah pencinta-Mu dan demi air mata yang dicucurkan oleh mereka yang rindu untuk melihat-Mu, agar jangan menjauhkan daku dari rahmat-Mu yang mesra di Hari- hari-Mu, dan jangan pula menghalangi daku dari lagu- lagu Merpati yang memuji keesaan-Mu di hadapan cahaya yang bersinar dari wajah-Mu. Aku berada di dalam kesengsaraan ya Tuhan! Lihatlah aku berpegang teguh kepada Nama-Mu, Yang Maha Memiliki. Aku pasti akan musnah; lihatlah aku berpegang kuat kepada Nama-Mu yang tak dapat musnah. Maka aku memohon kepada-Mu, demi Dirimu Sendiri, Yang Maha Luhur, Yang Maha Tinggi agar janganlah membiarkan daku pada diriku sendiri dan pada nafsu-nafsu kecenderungan jahat. Peganglah tanganku dengan tangan kekuasaan-Mu dan selamatkanlah daku dari khayalan-khayalan dan angan-angan kosong serta bersihkan-lah daku dari segala sesuatu yang tidak disukai oleh-Mu.
 Lalu, mungkinkanlah daku menghadap sepenuhnya kepada-Mu, meletakkan kepercayaanku sepenuhnya kepada-Mu, mencari-Mu sebagai Perlindunganku dan lari kepada wajah-Mu. Sesungguhnya, Engkaulah Dia yang berbuat apa yang Ia kehendaki melalui kekuatan kekuasaan-Nya dan memerintahkan apa saja yang Ia tentukan melalui kekuatan kehendak-Nya. Tiada siapa pun yang dapat menahan berjalannya keputusan-Mu; tiada siapa pun yang dapat mengubah apa yang Engkau tetapkan. Sesungguhnya Engkaulah Maha Kuasa, Yang Maha Mulia, Yang Maha Dermawan.
 
-(Source category: Pertolongan Dalam Kesukaran)
-(Bahaiprayers.net ID: 5178)
+-- Bahá'u'lláh
 
+bpn5178 «[Bahasa Indonesia](../id/#bpn5178)» 
 
-«[Bahasa Indonesia](../id/#bpn5178)» 
-
+----
 
 
 <a id="bpn5179"></a> 
-### Prayer bpn5179 in Bahasa Indonesia
 Ya Engkau yang wajah-Nya adalah tujuan pujaanku, yang keindahan-Nya adalah tempat perlindunganku, yang kediaman-Nya adalah cita-citaku, yang pujian-Nya adalah harapanku, yang pemeliharaan- Nya adalah sahabatku, yang cinta-Nya adalah penyebab wujudku, yang sebutan-Nya ada-lah hiburanku, yang kedekatan-Nya adalah hasrat-ku, yang kehadiran-Nya adalah keinginanku yang terdalam dan cita-citaku yang tertinggi; aku me-mohon kepada-Mu agar jangan menahan daku dari hal-hal yang telah Engkau tetapkan bagi orang-orang pilihan-Mu di antara hamba-hamba-Mu. Kemudian anugerahilah daku dengan kebaikan dunia ini dan akhirat. Sesungguhnya Engkau Raja semua manusia. Tiada Tuhan selain Engkau, Yang Maha Mengampuni, Yang Maha Dermawan.
 
-(Source category: Pertolongan Dalam Kesukaran)
-(Bahaiprayers.net ID: 5179)
+-- Bahá'u'lláh
 
+bpn5179 «[Bahasa Indonesia](../id/#bpn5179)» 
 
-«[Bahasa Indonesia](../id/#bpn5179)» 
-
+----
 
 
 <a id="bpn5180"></a> 
-### Prayer bpn5180 in Bahasa Indonesia
 Ya Tuhan! Engkau adalah Penghalau setiap kesedihan yang dalam dan Penghilang setiap penderitaan. Engkaulah Dia yang menghapuskan setiap kedukaan dan membebaskan setiap orang yang ter ikat, Penyelamat setiap jiwa. Ya Tuhan! Berilah kebebasan melalui rahmat-Mu, dan hitunglah daku di antara hamba-hamba-Mu yang telah di selamatkan.
 
-(Source category: Pertolongan Dalam Kesukaran)
-(Bahaiprayers.net ID: 5180)
+-- Báb
 
+bpn5180 «[Bahasa Indonesia](../id/#bpn5180)» 
 
-«[Bahasa Indonesia](../id/#bpn5180)» 
-
+----
 
 
 <a id="bpn5181"></a> 
-### Prayer bpn5181 in Bahasa Indonesia
 Adakah penghalau kesukaran-kesukaran selain
 Tuhan? Katakanlah: Terpujilah Tuhan! Ia Tuhan! Semua hamba-Nya dan semua tunduk pada perintahnya
 
-(Source category: Pertolongan Dalam Kesukaran)
-(Bahaiprayers.net ID: 5181)
+-- Báb
 
+bpn5181 «[Bahasa Indonesia](../id/#bpn5181)» 
 
-«[Bahasa Indonesia](../id/#bpn5181)» 
-
+----
 
 
 <a id="bpn5182"></a> 
-### Prayer bpn5182 in Bahasa Indonesia
 Katakanlah: Tuhan mencukupi segala sesuatu di atas segala-galanya dan tak ada di langit maupun di bumi yang mencukupi kecuali Tuhan. Sesungguhnya, Ia Sendirilah, Yang Maha Tahu, Yang Maha Pemelihara, Yang Maha Kuasa.
 
 *"Letakkanlah segala kepercayaan dan keyakinanmu pada Tuhan yang telah menjadikan engkau dan carilah olehmu pertolongan-Nya dalam segala urusan-Mu. Pertolongan hanyalah datang dari-Nya. Ia membantu siapa saja yang Ia kehendaki dengan laskar-laskar langit dan bumi". -Bahá’u’lláh
 
-(Source category: Pertolongan Dalam Kesukaran)
-(Bahaiprayers.net ID: 5182)
+-- Báb
 
+bpn5182 «[Bahasa Indonesia](../id/#bpn5182)» 
 
-«[Bahasa Indonesia](../id/#bpn5182)» 
-
+----
 
 
 
@@ -2184,72 +1984,61 @@ Katakanlah: Tuhan mencukupi segala sesuatu di atas segala-galanya dan tak ada di
 ## Pertumbuhan Rohani
 
 <a id="bpn5183"></a> 
-### Prayer bpn5183 in Bahasa Indonesia
 Ciptakanlah dalam diriku kalbu yang suci, ya Tuhanku, dan perbaruilah dalam diriku hati nurani yang tenteram, ya Harapanku! Dengan roh kekuasaan, teguhkanlah daku dalam Agama-Mu, ya Kekasihku Yang Tercinta, dan dengan cahaya kemuliaan-Mu, bimbinglah daku ke jalan-Mu, ya Engkau Tujuan hasratku! Dengan kekuatan-Mu yang agung, angkatlah daku ke langit kesucian-Mu, ya Sumber wujudku, dan dengan hembusan keabadian-Mu, gembirakanlah daku, ya Engkau Tuhanku! Biarlah lagu-lagu-Mu yang merdu dan abadi meniupkan ketentraman kepadaku, ya Sahabatku, dan biarlah kekayaan-kekayaan wajah-Mu yang kekal membebaskan daku dari segala hal kecuali Engkau, ya Penguasaku, dan biarlah penjelmaan Hakikat-Mu yang kekal membawa kebahagiaan kepadaku, ya Engkau yang paling nyata di antara yang nyata, dan yang paling tersembunyi di antara yang ter- sembunyi.
 
-(Source category: Pertumbuhan Rohani)
-(Bahaiprayers.net ID: 5183)
+-- Bahá'u'lláh
 
+bpn5183 «[Bahasa Indonesia](../id/#bpn5183)» 
 
-«[Bahasa Indonesia](../id/#bpn5183)» 
-
+----
 
 
 <a id="bpn5184"></a> 
-### Prayer bpn5184 in Bahasa Indonesia
 Ya Tuhanku! Jadikanlah keindahan-Mu makananku, dan kehadiran-Mu minumanku, dan kesenangan-Mu harapanku, dan pujian kepada-Mu perbuatanku, dan ingat akan Dikau sahabatku, dan kekuasaan kedaulatan-Mu penolongku, dan persemayaman-Mu rumahku dan tempat kediamanku, tempat duduk yang telah Engkau sucikan dari pembatasan-pembatasan yang dikenakan kepada mereka yang dipisahkan oleh tabir dari-Mu. Sesungguhnya, Engkaulah Maha Kuasa, Yang Maha Mulia, Yang Maha Perkasa.
 
-(Source category: Pertumbuhan Rohani)
-(Bahaiprayers.net ID: 5184)
+-- Bahá'u'lláh
 
+bpn5184 «[Bahasa Indonesia](../id/#bpn5184)» 
 
-«[Bahasa Indonesia](../id/#bpn5184)» 
-
+----
 
 
 <a id="bpn5185"></a> 
-### Prayer bpn5185 in Bahasa Indonesia
 Maha mulialah Engkau, ya Rabi Tuhanku! Aku bersyukur kepada-Mu, karena Engkau telah menciptakan daku pada hari-hari-Mu, dan meresapkan kasih-Mu serta pengetahuan-Mu ke dalam diriku. Aku memohon kepada-Mu, demi nama-Mu, yang melaluinya mutiara-mutiara indah hikmat-Mu dan ucapan-Mu dikeluarkan dari khazanah kalbu hamba-hamba-Mu yang karib dengan Dikau, dan yang melaluinya sinar Surya nama-Mu, Yang Maha Penyayang, telah dipancarkan ke atas segala yang ada di langit-Mu dan di bumi-Mu, agar menganugerahi daku, demi rahmat dan kedermawanan-Mu, dengan kurnia-Mu yang menakjubkan dan yang gaib.
 Inilah hari-hari permulaan kehidupanku, ya Tuhan-ku, yang telah Engkau hubungkan dengan hari-hari-Mu Sendiri. Karena kini Engkau telah menganugerahi daku kehormatan yang sedemikian besarnya, maka janganlah menjauhkan dariku hal-hal yang Engkau tetapkan bagi orang-orang pilihan-Mu.
 
 Ya Tuhanku, aku hanyalah sebutir biji kecil yang telah Engkau taburkan di atas tanah kasih-Mu, dan yang telah tumbuh berkat tangan kedermawanan-Mu. Oleh karena itu biji ini dalam wujud hakikinya, merindukan air rahmat-Mu dan sumber hidup kurnia-Mu. Turunkanlah padanya dari langit belas kasih-Mu, sesuatu yang akan memungkinkan dia berkembang subur di bawah naungan-Mu dan di dalam lingkungan istana-Mu. Engkau adalah Dia yang menyirami kalbu- kalbu mereka yang telah mengenal Dikau dari sungai- Mu yang berlimpah-limpah dan sumber air hidup-Mu. Segala pujian bagi Tuhan, Raja sekalian alam.
 
-(Source category: Pertumbuhan Rohani)
-(Bahaiprayers.net ID: 5185)
+-- Bahá'u'lláh
 
+bpn5185 «[Bahasa Indonesia](../id/#bpn5185)» 
 
-«[Bahasa Indonesia](../id/#bpn5185)» 
-
+----
 
 
 <a id="bpn5186"></a> 
-### Prayer bpn5186 in Bahasa Indonesia
 Ya Tuhanku, Tuhan kedermawanan dan kerahmanan! Engkau Raja yang melalui kata perintah- Nya, seluruh alam ciptaan telah diwujudkan; dan Engkaulah Yang Maha Dermawan, yang perbuatan-perbuatan hamba-hamba-Nya tak pernah merintangi-Nya dari menunjukkan kurnia-Nya, dan tak pula menghalangi penjelmaan kedermawanan-Nya. Aku memohon kepada-Mu, biarlah hamba ini mencapai apa yang menjadi sebab keselamatannya dalam setiap alam dari alam-alam-Mu. Sesungguhnya, Engkaulah Maha Kuasa, Yang Maha Perkasa, Yang Maha Tahu, Yang Maha Arif.
 
-(Source category: Pertumbuhan Rohani)
-(Bahaiprayers.net ID: 5186)
+-- Bahá'u'lláh
 
+bpn5186 «[Bahasa Indonesia](../id/#bpn5186)» 
 
-«[Bahasa Indonesia](../id/#bpn5186)» 
-
+----
 
 
 <a id="bpn5187"></a> 
-### Prayer bpn5187 in Bahasa Indonesia
 Segala Pujian bagi-Mu, ya Rabi Tuhanku! Aku memohon kepada-Mu demi tanda-tanda-Mu yang meliputi seluruh ciptaan, dan demi cahaya wajah-Mu yang telah menyinari segala yang ada di langit dan di bumi, dan demi rahmat-Mu yang melebihi sekalian makhluk, dan demi kurnia-Mu yang meliputi seluruh alam semesta, agar merobekkan tabir-tabir yang memisahkan daku dari Engkau, supaya hendaknya aku dapat segera sampai ke Sumber ilham-Mu yang agung dan ke Tempat Terbit Wahyu-Mu serta anugerah- Mu yang berlimpah-limpah, dan supaya hendaknya aku dapat menyelam di dalam samudera kedekatan dan keridhoan-Mu. Ya Tuhanku, janganlah membiarkan daku di-jauhkan dari pengetahuan tentang Engkau dalam hari-hari-Mu, dan janganlah menanggalkan jubah
 bimbingan-Mu dariku. Berilah aku minum dari sungai kehidupan yang sejati, yang airnya telah mengalir dari Firdaus di mana takhta Nama-Mu, Yang Maha Pengasih, telah ditegakkan, supaya hendaknya mataku terbuka, dan wajahku disinari, dan kalbuku diyakinkan, dan jiwaku diterangi, dan langkah-langkahku diteguhkan.
 Engkau adalah Dia yang untuk selama-lamanya, maha tinggi di atas segala sesuatu karena kekuatan kekuasaan-Nya, dan mentakdirkan segala sesuatu melalui gerakan kehendak-Nya. Tiada apa pun baik di langit-Mu maupun di bumi-Mu yang dapat menghalangi maksud-Mu. Kasihanilah daku, ya Tuhanku, dengan kehendak rahmat dan kedermawanan-Mu, dan hadapkanlah telingaku pada lagu-lagu merdu dari burung-burung yang menyanyikan puji-pujian akan Dikau di tengah-tengah ranting pohon keesaan-Mu. Engkaulah Maha Pemberi, Maha Pengampun dan Maha Penyayang
 
-(Source category: Pertumbuhan Rohani)
-(Bahaiprayers.net ID: 5187)
+-- Bahá'u'lláh
 
+bpn5187 «[Bahasa Indonesia](../id/#bpn5187)» 
 
-«[Bahasa Indonesia](../id/#bpn5187)» 
-
+----
 
 
 <a id="bpn5188"></a> 
-### Prayer bpn5188 in Bahasa Indonesia
 Katakanlah: Ya Rabi Tuhanku, hiasilah kepala hamba dengan mahkota keadilan dan tubuh hamba dengan hiasan keinsyafan. Sesungguhnya, Engkaulah yang mempunyai segala pemberian dan kederma- wanan.
 
 *"... Kerohanian adalah pemberian Tuhan yang paling besar."
@@ -2258,12 +2047,11 @@ Katakanlah: Ya Rabi Tuhanku, hiasilah kepala hamba dengan mahkota keadilan dan t
 *"Sibukkanlah dirimu dalam hal-hal rohani, sehingga tiada apa- pun di dunia insani yang dapat mengganggu engkau"
 *"... Semua kesedihan dan kedukaan yang ada, berasal dari dunia fana; dunia rohani hanya memberikan kebahagiaan" - ‘Abdu’l-Bahá
 
-(Source category: Pertumbuhan Rohani)
-(Bahaiprayers.net ID: 5188)
+-- Bahá'u'lláh
 
+bpn5188 «[Bahasa Indonesia](../id/#bpn5188)» 
 
-«[Bahasa Indonesia](../id/#bpn5188)» 
-
+----
 
 
 
@@ -2271,7 +2059,6 @@ Katakanlah: Ya Rabi Tuhanku, hiasilah kepala hamba dengan mahkota keadilan dan t
 ## Puasa
 
 <a id="bpn5209"></a> 
-### Prayer bpn5209 in Bahasa Indonesia
 ##Puasa 
 *[Masa Puasa adalah dari tanggal 2 Maret - 20 Maret]
 *"Kami telah memerintahkan kepadamu agar ber- sembahyang dan berpuasa dari awal akil-balig (15 tahun); inilah perintah Allah, Rabimu dan Rabi nenek moyangmu.... Tahanlah dirimu dari makan dan minum, mulai dari terbitnya matahari sampai terbenamnya matahari, dan berhati-hatilah jangan sampai hawa-nafsu menghalangi engkau dari rahmat yang ditetapkan daam Al-Kitab. - Bahá’u’lláh
@@ -2290,16 +2077,14 @@ Ya Tuhanku, Engkau melihat apa yang menimpa kekasih-kekasih-Mu pada hari-hari-Mu
 Inilah saat, ya Tuhanku, yang telah Engkau jadikan saat yang terbaik, dan telah Engkau hubung-kan dengan mereka yang terpilih di antara makhluk- makhluk-Mu. Aku memohon kepada-Mu, ya Tuhanku, demi Engkau Sendiri dan demi mereka, agar menetapkan dalam tahun ini apa yang akan memuliakan kekasih-kekasih-Mu. Selain daripada itu, tetapkanlah dalam tahun ini apa yang akan me-mungkinkan Surya kekuasaan-Mu bersinar terang benderang di atas ufuk kemuliaan-Mu, dan menerangi seluruh dunia dengan kekuasaan-Mu yang berdaulat.
 Berilah kemenangan pada Agama-Mu, ya Tuhanku, dan tundukkanlah musuh-musuh-Mu. Kemudian tulislah bagi kami kebaikan kehidupan di dunia ini dan di akhirat. Sesungguhnya, Engkaulah Kebenaran yang mengetahui semua rahasia. Tiada Tuhan melainkan Engkau, Yang Maha Pengampun, Yang Maha Dermawan.
 
-(Source category: Puasa)
-(Bahaiprayers.net ID: 5209)
+-- Bahá'u'lláh
 
+bpn5209 «[Bahasa Indonesia](../id/#bpn5209)» 
 
-«[Bahasa Indonesia](../id/#bpn5209)» 
-
+----
 
 
 <a id="bpn5210"></a> 
-### Prayer bpn5210 in Bahasa Indonesia
 Aku memohon kepada-Mu, ya Tuhanku, demi
 Tanda-Mu yang perkasa dan demi penjelmaan kurnia- Mu di antara manusia, agar jangan melemparkan daku dari gapura kota kehadiran-Mu, dan jangan mengecewakan harapan-harapan yang telah aku letakkan pada penjelmaan-penjelmaan karunia-Mu di antara makhluk-makhluk-Mu. Engkau melihat daku, ya Tuhanku, berpegang pada Nama-Mu, Yang Maha Suci, Yang Maha Cemerlang, Yang Maha Kuasa, Yang Maha Agung, Yang Maha Luhur, Yang Maha Mulia, dan berpegangteguhpadaujungjubahyangmana semua yang berada di dunia ini dan di akhirat berpegang kepadanya.
 Aku memohon kepada-Mu, ya Tuhanku, demi Suara- Mu yang paling merdu dan demi Firman-Mu yang maha luhur,agar mendekatkandakupadaambangpintu-Mu,dan jangan menjauhkan daku dari bayangan rahmat-Mu dan naungan kemurahan-Mu. Engkau melihat daku, ya Tuhanku, ber-pegang pada Nama-Mu, Yang Maha Suci, Yang Maha Cemerlang, Yang Maha Kuasa, Yang Maha Agung, Yang Maha Luhur, Yang Maha Mulia, dan berpegang teguh pada ujung jubah, yang mana semua yang berada di dunia ini dan di akhirat berpegang kepadanya.
@@ -2317,32 +2102,28 @@ Aku memohon kepada-Mu, ya Tuhanku, demi Nama- Mu yang melaluinya Engkau telah me
 Aku memohon kepada-Mu, ya Tuhanku, demi Diri- Mu Sendiri, dan demi tanda-tanda-Mu, dan bukti-bukti- Mu yang jelas, dan cahaya yang bersinar dari Surya Keindahan-Mu, dan Dahan-dahan-Mu, agar menghapuskan pelanggaran-pelanggaran mereka yang
 berpegang kuatkepadaperintah-perintah-Mudantelah melaksanakan apa yang telah Engkau tetapkan bagi mereka dalam Kitab-Mu. Engkau melihat daku, ya Tuhanku, berpegang pada Nama-Mu, Yang Maha Suci, Yang Maha Cemerlang, Yang Maha Kuasa, Yang Maha Agung, Yang Maha Luhur, Yang Maha Mulia, dan berpegang teguh pada ujung jubah, yang mana semua yang berada di dunia ini dan di akhirat berpegang kepadanya.
 
-(Source category: Puasa)
-(Bahaiprayers.net ID: 5210)
+-- Bahá'u'lláh
 
+bpn5210 «[Bahasa Indonesia](../id/#bpn5210)» 
 
-«[Bahasa Indonesia](../id/#bpn5210)» 
-
+----
 
 
 <a id="bpn5211"></a> 
-### Prayer bpn5211 in Bahasa Indonesia
 Terpujilah Engkau, ya Rabi Tuhanku! Aku memohon kepada-Mu, demi Wahyu ini, yang melaluinya
 kegelapan diubah menjadi cahaya, dan Agama yang diturunkan terus menerus telah didirikan, dan Loh yang Tercatat telah dinyatakan, dan Gulungan Yang Terentang telah dibentangkan, agar menurunkan kepadaku dan kepada mereka yang dekat kepadaku, apa yang akan memungkinkan kami membubung ke langit kemuliaan-Mu yang luhur dan apa yang akan membersihkan kami dari noda keragu-raguan yang menghalangi mereka yang curiga, dari memasuki kemah kesatuan-Mu.
 Ya Tuhanku, aku telah berpegang teguh pada tali kasih sayang-Mu dan berpegang erat pada rahmat dan pemberian-Mu. Sudilah menetapkan bagiku dan kekasih-kekasihku kebaikan dunia ini dan akhirat. Lalu berikanlah kepada mereka Hadiah Yang Tersembunyi yang Engkau telah tetapkan bagi orang-orang yang terpilih di antara makhluk-makhluk-Mu.
 Ya Tuhanku, inilah hari-hari di mana Engkau telah memerintahkan kepada hamba-hamba-Mu untuk berpuasa. Diberkatilah dia yang menjalankan puasa hanya demi Engkau Sendiri dan dengan keterlepasan yang mutlak dari segala sesuatu kecuali Engkau. Bantulah daku dan bantulah mereka, ya Tuhanku, untuk mentaati-Mu dan menjalankan perintah-perintah- Mu. Sesungguhnya, Engkau ber-kuasa atas apa yang Engkau kehendaki.
 Tiada Tuhan kecuali Engkau, Yang Maha Tahu, Yang Maha Arif. Segala pujian bagi Tuhan, Raja Sekalian Alam.
 
-(Source category: Puasa)
-(Bahaiprayers.net ID: 5211)
+-- Bahá'u'lláh
 
+bpn5211 «[Bahasa Indonesia](../id/#bpn5211)» 
 
-«[Bahasa Indonesia](../id/#bpn5211)» 
-
+----
 
 
 <a id="bpn5213"></a> 
-### Prayer bpn5213 in Bahasa Indonesia
 *Naw-Ruz
 
 *[Hari Raya Tahun Baru Bahá’í, 21 Maret]
@@ -2356,16 +2137,14 @@ Ia yang menjadi Cabang-Mu dan semua mereka yang ada di sekeliling-Mu, ya Tuhanku
 
 *"Berbahagialah orang yang memasuki hari pertama bulan Bahá, yaitu hari yang telah Allah sucikan bagi Nama Terbesar ini. Dan diberkatilah dia, yang pada hari ini memperlihatkan pemberian-pemberian Allah yang telah dianugerahkan kepadanya. Sesungguhnya, ia termasuk mereka yang bersyukur kepada Allah melalui perbuatan-perbuatannya yang menandakan kurnia-kurnia Allah telah meliputi seluruh dunia. Katakanlah: Sesungguhnya, hari ini adalah mahkota semua bulan dan sumber daripadanya, hari di mana hembusan kehidupan ditiupkan di atas segala sesuatu yang diciptakan. Besarlah berkat dia yang menyambutnya dengan berseri-seri dan riang gembira". - Bahá’u’lláh
 
-(Source category: Puasa)
-(Bahaiprayers.net ID: 5213)
+-- Bahá'u'lláh
 
+bpn5213 «[Bahasa Indonesia](../id/#bpn5213)» 
 
-«[Bahasa Indonesia](../id/#bpn5213)» 
-
+----
 
 
 <a id="bpn5214"></a> 
-### Prayer bpn5214 in Bahasa Indonesia
 *Naw-Ruz
 
 *[Hari Raya Tahun Baru Bahá’í, 21 Maret]
@@ -2379,24 +2158,21 @@ Ia yang menjadi Cabang-Mu dan semua mereka yang ada di sekeliling-Mu, ya Tuhanku
 
 *"Berbahagialah orang yang memasuki hari pertama bulan Bahá, yaitu hari yang telah Allah sucikan bagi Nama Terbesar ini. Dan diberkatilah dia, yang pada hari ini memperlihatkan pemberian-pemberian Allah yang telah dianugerahkan kepadanya. Sesungguhnya, ia termasuk mereka yang bersyukur kepada Allah melalui perbuatan-perbuatannya yang menandakan kurnia-kurnia Allah telah meliputi seluruh dunia. Katakanlah: Sesungguhnya, hari ini adalah mahkota semua bulan dan sumber daripadanya, hari di mana hembusan kehidupan ditiupkan di atas segala sesuatu yang diciptakan. Besarlah berkat dia yang menyambutnya dengan berseri-seri dan riang gembira". - Bahá’u’lláh
 
-(Source category: Puasa)
-(Bahaiprayers.net ID: 5214)
+-- Bahá'u'lláh
 
+bpn5214 «[Bahasa Indonesia](../id/#bpn5214)» 
 
-«[Bahasa Indonesia](../id/#bpn5214)» 
-
+----
 
 
 <a id="bpn5212"></a> 
-### Prayer bpn5212 in Bahasa Indonesia
 Ya Tuhan Yang Maha Kuasa! Sucikanlah dan murnikanlah kalbu hamba dari cinta kepada siapa pun kecuali Engkau karena hamba sedang menjauhkan diri dari nafsu-nafsu jasmani, dan tidak menyibukkan diri dari makan dan minum. Lindungilah dan jagalah jiwa hamba dari nafsu-nafsu jahat dan sifat-sifat setani, supaya roh hamba dapat berhubungan dengan-Mu melalui hembusan kesucian, dan berpuasa dari menyebut apa pun kecuali Engkau.
 
-(Source category: Puasa)
-(Bahaiprayers.net ID: 5212)
+-- Abdu'l-Bahá
 
+bpn5212 «[Bahasa Indonesia](../id/#bpn5212)» 
 
-«[Bahasa Indonesia](../id/#bpn5212)» 
-
+----
 
 
 
@@ -2404,62 +2180,53 @@ Ya Tuhan Yang Maha Kuasa! Sucikanlah dan murnikanlah kalbu hamba dari cinta kepa
 ## Pujian Dan Syukur
 
 <a id="bpn5189"></a> 
-### Prayer bpn5189 in Bahasa Indonesia
 Tuhanku, Pujaanku, Rajaku, Hasratku! Bahasa apakah yang dapat menyampaikan rasa syukurku kepada-Mu? Aku alpa, Engkau sadarkan daku. Aku telah berpaling dari-Mu, dengan rahmat-Mu Engkau telah membantu daku agar berpaling kepada-Mu. Aku bagaikan orang mati, Engkau telah menghidupkan daku kembali dengan air hayat. Aku layu, Engkau telah menyegarkan daku dengan sungai surgawi ucapan-Mu yang telah mengalir dari Pena Yang Maha Penyayang.
 Ya Tuhan Yang Maha Kuasa! Segala yang ada ini terjadi karena kemurahan-Mu! Janganlah ia dijauhkan dari lautan kedermawanan-Mu, dan jangan pula ia dipisahkan dari samudra rahmat-Mu. Aku memohon kepada-Mu agar selalu menolong dan membantu daku dalam segala keadaan, dan me-minta kurnia-Mu yang purba dari langit rahmat-Mu. Sesungguhnya, Engkau Maha Pemberi dan Raja alam yang kekal.
 
-(Source category: Pujian Dan Syukur)
-(Bahaiprayers.net ID: 5189)
+-- Bahá'u'lláh
 
+bpn5189 «[Bahasa Indonesia](../id/#bpn5189)» 
 
-«[Bahasa Indonesia](../id/#bpn5189)» 
-
+----
 
 
 <a id="bpn5190"></a> 
-### Prayer bpn5190 in Bahasa Indonesia
 Pujian bagi-Mu, ya Rabi, Tuhanku! Aku naik saksi bahwa dari keabadian, Engkau dimuliakan dalam keagungan dan kekuasaan-Mu yang luhur, dan untuk selama-lamanya akan tetap berdiam dalam kekuasaan dan kebesaran-Mu yang melebihi segala-galanya. Tiada apa pun dalam Kerajaan- kerajaan bumi dan langit yang dapat merintangi tujuan- Mu; tiada apa pun di seluruh alam-alam wahyu dan alam ciptaan yang dapat menentang Engkau. Atas perintah-Mu Engkau berbuat apa yang Engkau kehendaki dan dengan kekuasaan kedaulatan-Mu Engkau memerintah sebagaimana Engkau kehendaki.
 Aku memohon kepada-Mu, ya Engkau yang menyebabkan fajar menyingsing, demi Lampu-Mu yang telah dinyalakan oleh-Mu dengan api cinta-Mu dihadapan segala yang ada di langit dan di bumi, dan yang nyala apinya telah Engkau hidupkan dengan minyak kearifan-Mu dalam Alam ciptaan-Mu, agar menjadikan daku termasuk bilangan mereka yang membubung tinggi di lingkungan-Mu, dan menyerahkan kemauannya pada perintah-Mu.
 Aku ini hina dina, ya Tuhanku, dan Engkaulah Maha Kuat dan Maha Kuasa. Kasihanilah daku dengan rahmat dan kedermawanan-Mu, dan dengan kasih-Mu, tolonglah daku agar mengabdi kepada-Mu dan kepada mereka yang Engkau cintai. Berkuasalah Engkau untuk berbuat apa yang Engkau kehendaki. Tiada Tuhan melainkan Engkau, Tuhan kekuatan, kemuliaan dan kearifan.
 
-(Source category: Pujian Dan Syukur)
-(Bahaiprayers.net ID: 5190)
+-- Bahá'u'lláh
 
+bpn5190 «[Bahasa Indonesia](../id/#bpn5190)» 
 
-«[Bahasa Indonesia](../id/#bpn5190)» 
-
+----
 
 
 <a id="bpn5191"></a> 
-### Prayer bpn5191 in Bahasa Indonesia
 Terpujilah Engkau, ya Tuhanku! Aku salah seorang hamba-Mu, yang telah percaya kepada-Mu dan akan tanda-tanda-Mu. Engkau melihat bagaimana aku telah menghadapkan diriku pada pintu kerahmanan-Mu, dan mengarahkan wajahku ke arah kasih sayang-Mu. Aku memohon kepada-Mu, demi gelar-gelar-Mu yang tertinggi dan sifat-sifat-Mu yang terluhur, agar membuka gapura-gapura anugerah-Mu di depan wajahku. Maka, tolonglah daku agar berbuat apa yang baik, ya Engkau Pemilik segala nama dan sifat!
 Aku ini miskin, ya Tuhanku, dan Engkaulah Yang Kaya. Aku telah menghadapkan wajahku kepada-Mu dan melepaskan diri dari segala sesuatu kecuali Engkau. Aku memohon kepada-Mu, janganlah aku dijauhkan dari hembusan belas kasih-Mu yang mesra, dan janganlah menahan dariku apa yang telah Engkau takdirkan bagi orang-orang terpilih di antara hamba- hamba-Mu.
 Hilangkanlah tabir dari mataku, ya Tuhanku, agar aku dapat menyadari apa yang telah Engkau hasratkan bagi makhluk-mahkluk-Mu, dan dapat menemukan penjelmaan-penjelmaan kemahakuasaan-Mu dalam segala perwujudan dari karya-Mu. Gembirakanlah jiwaku, ya Tuhanku, dengan tanda-tanda yang maha agung dan tariklah daku dari hawa nafsu yang buruk dan jahat. Tulislah bagiku kebaikan dunia dan akhirat. Berkuasalah Engkau berbuat sekehendak-Mu. Tiada Tuhan selain Engkau, Yang Maha Mulia, yang pertolongan-Nya dicari oleh semua manusia.
 Aku bersyukur kepada-Mu, ya Tuhanku, karena Engkau telah membangunkan daku dari tidurku, dan menggerakkan daku serta menciptakan keinginan dalam diriku untuk melihat apa yang ke-banyakan hamba-hamba-Mu telah gagal memahami-nya. Oleh karena itu, ya Tuhanku, berilah aku kesanggupan untuk memandang apa saja yang telah Engkau kehendaki, demi kasih kepada-Mu dan demi kesenangan-Mu. Engkau adalah Dia yang segala sesuatu naik saksi pada kekuasaan dan kedaulatan- Nya. Tiada Tuhan lain kecuali Engkau, Yang Maha Kuasa, Yang Maha Dermawan.
 
-(Source category: Pujian Dan Syukur)
-(Bahaiprayers.net ID: 5191)
+-- Bahá'u'lláh
 
+bpn5191 «[Bahasa Indonesia](../id/#bpn5191)» 
 
-«[Bahasa Indonesia](../id/#bpn5191)» 
-
+----
 
 
 <a id="bpn5192"></a> 
-### Prayer bpn5192 in Bahasa Indonesia
 Segala pujian bagi-Mu, ya Tuhanku, Sumber segala kemuliaan dan keagungan, kebesaran dan kehormatan, kedaulatan dan kekuasaan, keluhuran dan kurnia, kekaguman dan kekuatan. Engkau menyebabkan siapa saja yang dikehendaki-Nya untuk mendekati Samudera Yang Maha Agung dan pada siapa saja yang Engkau hasratkan, Engkau akan memberikan kehormatan untuk mengenali Nama-Mu Yang Maha Purba. Di antara semua yang ada di langit dan di bumi, tak seorang pun yang dapat menahan berjalannya Kehendak-Mu yang berdaulat. Dari keabadian Engkau telah memerintah seluruh ciptaan, dan Engkau akan terus untuk selama-lamanya melaksanakan kekuasaan-Mu di atas segala yang diciptakan. Tiada Tuhan lain kecuali Engkau, Yang Maha Kuasa, Yang Maha Luhur, Yang Maha Kuat, Yang Maha Arif.
 Terangilah, ya Tuhan, wajah-wajah hamba-hamba- Mu, agar mereka dapat melihat Engkau; dan bersihkanlah kalbu-kalbu mereka agar mereka dapat menghadap pada istana pemberian-pemberian yang surgawi, dan mengenal Dia, Perwujudan Dirimu Sendiri dan Tempat Terbit Hakikat-Mu. Sesungguhnya, Engkaulah Tuhan segala alam. Tiada Tuhan lain kecuali Engkau, Yang Tak Terbatas, Yang Maha Menaklukkan.
 
-(Source category: Pujian Dan Syukur)
-(Bahaiprayers.net ID: 5192)
+-- Bahá'u'lláh
 
+bpn5192 «[Bahasa Indonesia](../id/#bpn5192)» 
 
-«[Bahasa Indonesia](../id/#bpn5192)» 
-
+----
 
 
 <a id="bpn5193"></a> 
-### Prayer bpn5193 in Bahasa Indonesia
 Terpujilah Engkau, ya Tuhanku! Bagaimanakah aku dapat bersyukur kepada-Mu karena Engkau telah mengkhususkan daku dan memilih daku di atas semua hamba-hamba-Mu untuk menyatakan Diri-Mu ketika semua telah berpaling dari keelokan-Mu! Aku naik saksi, ya Tuhanku, bahwa seandainya aku diberi seribu kehidupan oleh-Mu dan mempersembahkan semuanya itu di Jalan-Mu, aku masih tetap gagal membalas pemberian-pemberian yang paling kecil pun yang telah Engkau anugerahkan kepadaku melalui rahmat-Mu.
 Aku telah tidur pada dipan keakuan sewaktu Engkau membangunkan daku dengan nada-nada keilahian suara-Mu, dan telah membuka kepadaku keelokan-Mu, dan telah memungkinkan daku mendengar ucapan- ucapan-Mu dan mengenali Diri-Mu, dan mengucapkan pujian-Mu dan menjunjung tinggi kebajikan-Mu dan berteguh hati dalam cinta-Mu. Akhirnya aku jatuh tertahan di tangan orang-orang keras kepala di antara hamba-hamba-Mu. 
 Oleh karena itu, Engkau melihat pembuangan yang dideritaku di hari-hari-Mu dan Engkau mengetahui kerinduanku yang dalam untuk melihat wajah-Mu, dan hasratku yang tak tertahan untuk memasuki istana kemuliaan-Mu, dan gerakan hati-ku yang disebabkan oleh angin-angin rahmat-Mu. Aku memohon kepada- Mu, ya Engkau Raja alam-alam ciptaan dan Pewahyu segala nama, agar menulis namaku di antara nama- nama mereka yang dari keabadian telah mengelilingi Kemah keagungan-Mu dan berpegang teguh pada jubah kasih sayang-Mu serta berpegang erat pada tali rahmat-Mu yang mesra.
@@ -2469,12 +2236,11 @@ Sesungguhnya, Engkaulah Penolong Dalam Bahaya, Yang Berdiri Sendiri.
 *"Hakikat kemurahan hati bagi seorang hamba adalah menghitung kembali rahmat-rahmat Tuhannya dan bersyukur kepada-Nya pada setiap waktu dan dalam segala keadaan". - Bahá’u’lláh
 *"Apakah engkau menyadari betapa banyak engkau harus bersyukur atas berkat-Nya? Seandainya engkau berterimakasih kepada-Nya seribu kali dengan setiap napas, itu pun tidak akan cukup..." - ‘Abdu’l-Bahá
 
-(Source category: Pujian Dan Syukur)
-(Bahaiprayers.net ID: 5193)
+-- Bahá'u'lláh
 
+bpn5193 «[Bahasa Indonesia](../id/#bpn5193)» 
 
-«[Bahasa Indonesia](../id/#bpn5193)» 
-
+----
 
 
 
@@ -2482,19 +2248,17 @@ Sesungguhnya, Engkaulah Penolong Dalam Bahaya, Yang Berdiri Sendiri.
 ## Rezeki
 
 <a id="bpn5194"></a> 
-### Prayer bpn5194 in Bahasa Indonesia
 Ya Tuhanku! Ya Tuhanku! Terangilah kening pencinta-pencinta-Mu dan bantulah mereka dengan malaikat-malaikat surgawi yang membawa kemenangan yang pasti. Kokohkanlah langkah-langkah mereka di jalan-Mu yang lurus, dan dari rahmat-Mu yang purba, bukalah pintu-pintu kurnia-Mu dihadapan mereka; karena mereka sedang mempergunakan apa yang telah Engkau anugerah-kan kepada mereka di jalan- Mu, dan sedang membela Agama-Mu serta menaruh kepercayaannya dengan mengingat akan Dikau. Mereka mempersembahkan kalbunya demi kasih akan Dikau dan tidak menahan apa yang dimilikinya demi pujaan kepada keindahan-Mu dan dalam usahanya untuk menyenangkan Dikau.
 
 Ya Tuhanku! Tetapkanlah bagi mereka bagian yang berlimpah-limpah dan imbalan yang ditakdirkan bagi mereka serta ganjaran yang pasti. Sesungguhnya, Engkaulah Pendukung, Penolong, Yang Dermawan, dan Yang Maha Pemberi.
 
 *"Jadikanlah Ia Penolongmu dan perkayalah dirimu dengan kekayaan-kekayaan-Nya, karena beserta-Nyalah segala kekayaan langit dan bumi. Ia menganugerahkannya kepada siapa yang Ia kehendaki dan mengambilnya dari siapa yang Ia kehendaki". - Bahá’u’lláh
 
-(Source category: Rezeki)
-(Bahaiprayers.net ID: 5194)
+-- Abdu'l-Bahá
 
+bpn5194 «[Bahasa Indonesia](../id/#bpn5194)» 
 
-«[Bahasa Indonesia](../id/#bpn5194)» 
-
+----
 
 
 
@@ -2502,7 +2266,6 @@ Ya Tuhanku! Tetapkanlah bagi mereka bagian yang berlimpah-limpah dan imbalan yan
 ## Selamatan Sembilan Belas Harian
 
 <a id="bpn5195"></a> 
-### Prayer bpn5195 in Bahasa Indonesia
 * "Sesungguhnya telah diperintahkan bagimu agar menyelenggarakan selamatan sekali sebulan walaupun yang dihidangkan hanya air saja; karena Allah telah bertujuan untuk menjalin kalbu-kalbu meskipun melalui cara-cara duniawi maupun surgawi ". Bahá’u’lláh
 
 
@@ -2516,12 +2279,11 @@ Ya Tuhan! Hilangkanlah semua hal-hal yang menjadi penyebab perselisihan, dan sed
 
 *"...Bahkan seandainya ada perasaan sekecil-kecilnya di antara beberapa jiwa yaitu perasaan kekurangan kasih sayang, perasaan itu harus dihilangkan sama sekali ..." ‘Abdu’l-Bahá
 
-(Source category: Selamatan Sembilan Belas Harian)
-(Bahaiprayers.net ID: 5195)
+-- Abdu'l-Bahá
 
+bpn5195 «[Bahasa Indonesia](../id/#bpn5195)» 
 
-«[Bahasa Indonesia](../id/#bpn5195)» 
-
+----
 
 
 
@@ -2529,7 +2291,6 @@ Ya Tuhan! Hilangkanlah semua hal-hal yang menjadi penyebab perselisihan, dan sed
 ## Sembahyang Menengah
 
 <a id="bpn5090"></a> 
-### Prayer bpn5090 in Bahasa Indonesia
 ##SEMBAHYANG MENENGAH
 *Dilaksanakan tiga kali sehari: pagi, tengah hari dan petang.
 *Barangsiapa yang hendak melakukan sembahyang, terlebih dahulu harus mencuci kedua tangannya seraya mengucapkan:
@@ -2567,12 +2328,11 @@ Sendiri.
 
 *Hamba naik saksi atas keesaan-Mu dan ketunggalan-Mu, dan bahwasanya Engkaulah Tuhan, dan tiada Tuhan selain Engkau.]
 
-(Source category: Sembahyang Menengah)
-(Bahaiprayers.net ID: 5090)
+-- Bahá'u'lláh
 
+bpn5090 «[Bahasa Indonesia](../id/#bpn5090)» 
 
-«[Bahasa Indonesia](../id/#bpn5090)» 
-
+----
 
 
 
@@ -2580,7 +2340,6 @@ Sendiri.
 ## Sembahyang Panjang
 
 <a id="bpn5089"></a> 
-### Prayer bpn5089 in Bahasa Indonesia
 ##SEMBAHYANG PANJANG
 *Dilaksanakan sekali dalam dua puluh empat jam.
 
@@ -2655,12 +2414,11 @@ Aku naik saksi, ya Tuhanku, pada apa yang disak-sikan oleh Hamba-hamba-Mu yang t
 
 *"Ketahuilah olehmu bahwa di dalam setiap kata dan gerakan dari sembahyang wajib, terpendam makna-makna, rahasia-rahasia dan hikmah yang tak dapat dipahami oleh manusia dan tak dapat terkandung dalam huruf-huruf dan ayat-ayat." -- ‘Abdu’l-Bahá
 
-(Source category: Sembahyang Panjang)
-(Bahaiprayers.net ID: 5089)
+-- Bahá'u'lláh
 
+bpn5089 «[Bahasa Indonesia](../id/#bpn5089)» 
 
-«[Bahasa Indonesia](../id/#bpn5089)» 
-
+----
 
 
 
@@ -2668,7 +2426,6 @@ Aku naik saksi, ya Tuhanku, pada apa yang disak-sikan oleh Hamba-hamba-Mu yang t
 ## Sembahyang Pendek
 
 <a id="bpn5091"></a> 
-### Prayer bpn5091 in Bahasa Indonesia
 ##SEMBAHYANG PENDEK
 *Dilaksanakan sekali dalam dua puluh empat jam pada tengah hari.
 *Sebaiknya orang yang melaksanakannya berdiri. - Kodifikasi Kitab-i-Aqdas.
@@ -2677,12 +2434,11 @@ Aku naik saksi, ya Tuhanku, bahwa Engkau telah menjadikan daku untuk mengenal da
 
 Tiada Tuhan selain Engkau, Penolong Dalam Bencana, Yang Berdiri Sendiri.
 
-(Source category: Sembahyang Pendek)
-(Bahaiprayers.net ID: 5091)
+-- Bahá'u'lláh
 
+bpn5091 «[Bahasa Indonesia](../id/#bpn5091)» 
 
-«[Bahasa Indonesia](../id/#bpn5091)» 
-
+----
 
 
 
@@ -2690,18 +2446,16 @@ Tiada Tuhan selain Engkau, Penolong Dalam Bencana, Yang Berdiri Sendiri.
 ## Suami
 
 <a id="bpn5196"></a> 
-### Prayer bpn5196 in Bahasa Indonesia
 Hamba wanita-Mu ini sedang memanggil-Mu, sedang percaya kepada-Mu, sedang menghadapkan wajahnya kepada-Mu, memohon kepada-Mu, agar mencurahkan kepadanya pemberian-pemberian-Mu yang surgawi dan membuka kepadanya rahasia- rahasia kerohanian-Mu serta memancarkan kepadanya cahaya-cahaya Keilahian-Mu.Ya Tuhanku! Jadikanlah mata suamiku terbuka. Gembirakanlah hati dia dengan
 cahaya pengetahuan-Mu, dekatkanlah pikiran dia kepada keindahan-Mu yang bersinar, riangkanlah jiwanya dengan menunjukkan kepadanya kecemer- langan-Mu yang nyata. Ya Tuhanku! Angkatlah oleh-Mu tabir dari pandangannya. Hujanilah dia dengan pemberian-pemberian-Mu yang berlimpah-limpah. Jadikanlah dia mabuk oleh anggur cinta-Mu dan jadikanlah dia salah satu malaikat yang kakinya berjalan di bumi ini, sedangkan rohnya melayang tinggi di surga- Mu yang luhur. Mungkinkanlah dia menjadi lampu yang terang, yang menyinarkan cahaya kearifan-Mu di tengah-tengah umat-Mu. Sesungguhnya, Engkaulah Yang Maha Mulia, Yang Maha Pemberi, Yang Maha Dermawan.
 
 *"Sang Raja...telah membuat istri dan suami agar hidup ber-sama dalam persahabatan yang erat sekali, dan bahkan harus laksana satu jiwa. Mereka adalah dua teman yang saling tolong menolong, dua sahabat intim yang harus saling memperhatikan keadaan satu sama yang lain."  -’Abdu’l-Bahá
 
-(Source category: Suami)
-(Bahaiprayers.net ID: 5196)
+-- Abdu'l-Bahá
 
+bpn5196 «[Bahasa Indonesia](../id/#bpn5196)» 
 
-«[Bahasa Indonesia](../id/#bpn5196)» 
-
+----
 
 
 
@@ -2709,19 +2463,17 @@ cahaya pengetahuan-Mu, dekatkanlah pikiran dia kepada keindahan-Mu yang bersinar
 ## Tengah Malam
 
 <a id="bpn5132"></a> 
-### Prayer bpn5132 in Bahasa Indonesia
 *"Wahai pencari Kebenaran! Jika engkau menginginkan agar Tuhan membuka mata kerohanianmu, engkau harus minta dengan sungguh-sungguh kepada Tuhan, berdoa dan berhubungan dengan-Nya pada tengah malam, seraya mengatakan":
 
 Ya Tuhan, aku telah menghadapkan wajahku pada kerajaan keesaan-Mu dan tenggelam dalam samudera kasih-Mu! Ya Tuhan, terangilah penglihatanku dengan memandang cahaya-Mu pada malam gelap ini dan bahagiakanlah hamba oleh anggur cinta-Mu dalam zaman yang menakjubkan ini! Ya Tuhan, mungkinkanlah bagi hamba untuk mendengar panggilan-Mu, dan bukalah dihadapan wajah-ku pintu-pintu surga-Mu, agar hamba dapat melihat cahaya kemuliaan-Mu dan menjadi tertarik pada keelokan-Mu. Sesungguhnya, Engkaulah Pemberi, Dermawan, Penyayang, Pengampun!
 
 *"Keadaan berdoa adalah keadaan yang terbaik di antara segala keadaan, karena orang yang berada dalam keadaan demikian sedang berhubungan dengan Tuhan. Sesung- guhnya, doa itu memberi kehidupan, terutama bila doa itu dilakukan sendiri dan pada saat-saat seperti tengah malam ketika pikiran orang itu dalam keadaan bebas dari urusan sehari-hari."
 
-(Source category: Tengah Malam)
-(Bahaiprayers.net ID: 5132)
+-- Abdu'l-Bahá
 
+bpn5132 «[Bahasa Indonesia](../id/#bpn5132)» 
 
-«[Bahasa Indonesia](../id/#bpn5132)» 
-
+----
 
 
 
@@ -2729,7 +2481,6 @@ Ya Tuhan, aku telah menghadapkan wajahku pada kerajaan keesaan-Mu dan tenggelam 
 ## Wanita
 
 <a id="bpn5197"></a> 
-### Prayer bpn5197 in Bahasa Indonesia
 Dimuliakanlah Nama-Mu, Ya Rabi Tuhanku.
 Lihatlah mataku yang dengan penuh harapan ingin melihat keajaiban-keajaiban rahmat-Mu, dan telingaku rindu akan mendengar lagu-lagu merdu-Mu dan kalbuku berhasrat keras pada air hidup ilmu-Mu.
 Engkau melihat hamba wanita-Mu, ya Tuhanku, berdiri di depan takhta rahmat-Mu dan memanggil-Mu dengan Nama-Mu yang telah Engkau pilih di atas segala nama lainnya, dan yang telah Engkau dirikan di atas segala yang ada di langit dan di bumi. Turunkanlah pada hamba ini hembusan rahmat-Mu supaya hendaknya ia menjadi terlepas sama sekali dari dirinya sendiri dan tertarik pada tempat duduk yang menjadi singgasana-Mu yang memancarkan kecemerlangan kedaulatan-Mu dan bersinar dengan kemuliaan wajah- Mu. Berkuasalah Engkau untuk berbuat apa yang Engkau kehendaki. Tiada Tuhan kecuali Engkau, Yang Maha Mulia, Yang Maha Dermawan.
@@ -2737,40 +2488,35 @@ Aku memohon kepada-Mu, ya Tuhanku, janganlah menyingkirkan mereka yang telah men
 
 Ya Tuhanku, Engkau adalah Dia yang telah menamakan Dirinya Tuhan Yang Maha Pengasih, Yang Maha Penyayang. Kasihanilah hamba wanita-Mu yang telah mencari perlindungan pada-Mu dan yang telah menghadapkan wajahnya kepada-Mu. Tiada Tuhan kecuali Engkau, Yang Maha Pengampun, Yang Maha Rahim.
 
-(Source category: Wanita)
-(Bahaiprayers.net ID: 5197)
+-- Bahá'u'lláh
 
+bpn5197 «[Bahasa Indonesia](../id/#bpn5197)» 
 
-«[Bahasa Indonesia](../id/#bpn5197)» 
-
+----
 
 
 <a id="bpn5198"></a> 
-### Prayer bpn5198 in Bahasa Indonesia
 Dimuliakanlah Engkau, ya Engkau yang menggenggam kendali jiwa-jiwa semua yang telah mengakui-Mu, dan yang dalam tangan kanan-Nya terletak nasib-nasib semua yang ada di langit dan semua yang ada di bumi! Dengan kekuatan kekuasaan- Mu Engkau berbuat sekehendak-Mu, dan dengan kemauan-Mu Engkau menentukan apa yang Engkau ridhoi. Kemauan orang-orang yang paling tegas tak berarti sama sekali bila dibandingkan dengan bukti-bukti yang nyata dari kemauan-Mu, dan keputusan orang yang paling kuat di antara makhluk-makhluk-Mu, terhapus dihadapan penjelmaan maksud-Mu yang beraneka-ragam.
 Engkau adalah Dia yang melalui satu kata dari mulut-Mu, kalbu-kalbu para sahabat-Mu menjadi gembira sedemikian rupa sehingga mereka telah melepaskan diri mereka dari segala hal kecuali Engkau Sendiri dalam cinta kasihnya pada-Mu, dan telah menyerahkan hidupnya dan mengorbankan jiwanya di jalan-Mu, dan telah menderita demi Engkau apa yang tak pernah diderita oleh makhluk-makhluk-Mu. Aku ini salah seorang hamba wanita-Mu, ya Tuhanku! Aku telah menghadapkan wajahku pada sumber rahmat-Mu, dan telah mencari keajaiban kurnia-Mu yang berlimpah- limpah, karena seluruh anggota badanku menyatakan Engkau sebagai Yang Maha Dermawan, Dia yang rahmat-Nya sangat besar.
 Ya Engkau, yang wajah-Nya adalah titik pujaanku, yang keindahan-Nya adalah tempat perlindunganku, yang istana-Nya adalah tujuanku, yang ingat akan Dikau adalah keinginanku, yang kasih-Nya adalah hiburanku, yang cinta-Nya menyebabkan terjadinya daku, yang pujian-Nya adalah sahabatku, yang kedekatan-Nya adalah harapanku, yang ke-hadiran-Nya adalah keinginanku yang terbesar dan cita-citaku yang tertinggi! Aku memohon kepada-Mu, janganlah mengecewakan daku dengan menjauhkanku dari hal-hal yang Engkau tetapkan bagi hamba-hamba pilihan-Mu di antara kaum wanita-Mu, dan anugerahilah daku dengan kebaikan dunia dan akhirat. Sesungguhnya, Engkau Tuhan segala makhluk. Tiada Tuhan kecuali Engkau, Maha Pengampun, Yang Maha Dermawan.
 
 *"Kekasih-kekasih Tuhan dan hamba-hamba wanita harus men-didik anak-anak mereka dengan sepenuh hati dan mengajar mereka dalam sekolah kebajikan dan kesempurnaan. Mereka tidak boleh melalaikannya. Mereka harus sungguh-sungguh dalam hal ini". - ‘Abdu’l-Bahá
 
-(Source category: Wanita)
-(Bahaiprayers.net ID: 5198)
+-- Bahá'u'lláh
 
+bpn5198 «[Bahasa Indonesia](../id/#bpn5198)» 
 
-«[Bahasa Indonesia](../id/#bpn5198)» 
-
+----
 
 
 <a id="bpn5199"></a> 
-### Prayer bpn5199 in Bahasa Indonesia
 Ya Tuhanku, Kekasihku dan Hasratku! Jadilah Engkau sahabatku dalam kesepianku dan dalam pengasinganku temanilah daku. Hapuskanlah kesedihanku. Mungkinkanlah daku mengabdi pada keindahan-Mu. Jauhkanlah daku dari segala sesuatu kecuali Engkau. Jadikanlah daku tertarik pada keharuman kesucian-Mu. Perkenankanlah daku ber- hubungan dengan mereka yang terlepas dari segala sesuatu kecuali Engkau, yang ingin mengabdi pada ambang pintu-Mu yang suci dalam Kerajaan-Mu, dan yang tetap berbakti pada Agama-Mu. Mungkinkanlah daku menjadi seorang hamba wanita-Mu yang telah mencapai keridhoan-Mu. Sesungguhnya, Engkaulah Yang Maha Pengasih Yang Maha Dermawan.
 
-(Source category: Wanita)
-(Bahaiprayers.net ID: 5199)
+-- Abdu'l-Bahá
 
+bpn5199 «[Bahasa Indonesia](../id/#bpn5199)» 
 
-«[Bahasa Indonesia](../id/#bpn5199)» 
-
+----
 
 
 
@@ -2778,18 +2524,16 @@ Ya Tuhanku, Kekasihku dan Hasratku! Jadilah Engkau sahabatku dalam kesepianku da
 ## Wanita Hamil
 
 <a id="bpn5200"></a> 
-### Prayer bpn5200 in Bahasa Indonesia
 Ya Tuhan! Ya Tuhan! Aku memuji dan bersyukur kepada-Mu, sebab Engkau telah memberkati hamba wanita-Mu yang rendah ini, yang sedang memohon dan meminta dengan sangat kepada-Mu, karena sesung- guhnya Engkau telah membimbing dia ke Kerajaan-Mu yang nyata dan membiarkannya mendengar-kan panggilan-Mu yang mulia di dunia wujud ini, serta memandang tanda-tanda-Mu yang membuktikan kedaulatan-Mu yang jaya di atas segala sesuatu.
 Ya Tuhanku, aku mempersembahkan kepada-Mu apa yang ada di dalam kandunganku. Oleh karena itu jadikanlah dia seorang anak yang layak dalam Kerajaan-Mu dan seorang yang beruntung atas anugerah dan kemurahan-Mu; serta mungkinkanlah dia tumbuh dan berkembang di bawah didikan-Mu. Sesungguhnya, Engkaulah Yang Maha Pemurah! Sesungguhnya, Engkaulah Tuhan Yang Maha Pemberi!
 
 *"Wahai ibu-ibu yang penyayang, ketahuilah bahwa dalam pandangan Tuhan, jalan yang paling baik untuk beribadah kepada-Nya ialah mendidik anak-anak dan mengajar mereka semua kesempurnaan alam insani. Tiada perbuatan yang lebih mulia yang dapat dibayangkan selain itu". - ‘Abdu’l-Bahá
 
-(Source category: Wanita Hamil)
-(Bahaiprayers.net ID: 5200)
+-- Abdu'l-Bahá
 
+bpn5200 «[Bahasa Indonesia](../id/#bpn5200)» 
 
-«[Bahasa Indonesia](../id/#bpn5200)» 
-
+----
 
 
 

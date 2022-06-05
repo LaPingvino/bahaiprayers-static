@@ -95,7 +95,6 @@ tags = ['lang=sq', 'prayerbook']
 ## Agjërimi
 
 <a id="bpn2851"></a> 
-### Prayer bpn2851 in Shqip
 *"...ky agjërim trupor është një shenjë e jashtme e agjërimit shpirtëror; është simbol i vetëpërmbajtjes, i të përmbajturit të vetvetes nga të gjitha orekset e Unit, duke marrë karakteristikat e shpirtit, duke u rrëmbyer nga frymëmarrjet e qiellit dhe duke marrë zjarr nga dashuria e Perëndisë." - Kitáb-i Akdas
 
  
@@ -111,16 +110,14 @@ Këto janë, O Zoti im, ditët në të cilat Ti i ke urdhëruar shërbëtorët e
 
 Nuk ka Perëndi tjetër veç Teje, të Gjithëdijshmit, Urtiplotit. Lëvduar qoftë Perëndia, Zoti i të gjitha botëve.
 
-(Source category: Agjërimi)
-(Bahaiprayers.net ID: 2851)
+-- Bahá'u'lláh
 
+bpn2851 «[Shqip](../sq/#bpn2851)» 
 
-«[Shqip](../sq/#bpn2851)» 
-
+----
 
 
 <a id="bpn2853"></a> 
-### Prayer bpn2853 in Shqip
 *Agjërimi bie gjatë muajit 'Alá' (Lartësi) nga 2 marsi deri në 20 mars inkluzivisht. Gjatë këtyre ditëve asnjë ushqim ose pije nuk duhet përdorur që nga agimi deri në perëndim të diellit. Kjo është kohë lutjesh dhe përtëritjeje shpirtërore. Ata që janë nën pesëmbëdhjetë vjeç, udhëtarët, të sëmurët dhe të drobiturit, gratë shtatzëna dhe nënat me fëmijë gjiri përjashtohen nga Agjërimi.
 
 
@@ -153,24 +150,21 @@ Të përgjërohem Ty, O Perëndia im, për Emrin Tënd, përmes të cilit Ti ke 
 
 Të përgjërohem Ty, O Zoti im, për Veten Tënde, dhe për shenjat e Tua e provat Tuaja të qarta, dhe për dritën e shkëlqyeshme të Yllit të Ditës të Bukurisë Sate, dhe për Degët e Tua, t'i fshish shkeljet e atyre që janë mbajtur fort pas ligjeve të Tua dhe kanë zbatuar atë që Ti u ke urdhëruar atyre në Librin Tënd. Ti më sheh, O Perëndia im, tek mbahem pas Emrit Tënd, Më të Shenjtit, Më të Ndritshmit, Më të Fuqishmit, Më të Madhit, Më të Lartësuarit, Më të Lavdishmit, dhe tek kapem pas cepit të rrobës, pas së cilës janë kapur të gjithë në këtë botë dhe në botën që do të vijë.
 
-(Source category: Agjërimi)
-(Bahaiprayers.net ID: 2853)
+-- Bahá'u'lláh
 
+bpn2853 «[Shqip](../sq/#bpn2853)» 
 
-«[Shqip](../sq/#bpn2853)» 
-
+----
 
 
 <a id="bpn2852"></a> 
-### Prayer bpn2852 in Shqip
 O Providencë Hyjnore! Edhe pse unë po përmbahem nga dëshirat trupore dhe nuk po ha e nuk po pi, megjithatë pastroma e çliroma zemrën nga dashuria për cilindo qoftë veç Teje, ruama e mbroma shpirtin nga dëshirat e liga e nga tiparet djallëzore, në mënyrë që shpirti im të bashkohet me frymëmarrjen e shenjtërisë dhe të përmbahet nga përmendja e gjithçkaje veç Teje.
 
-(Source category: Agjërimi)
-(Bahaiprayers.net ID: 2852)
+-- Abdu'l-Bahá
 
+bpn2852 «[Shqip](../sq/#bpn2852)» 
 
-«[Shqip](../sq/#bpn2852)» 
-
+----
 
 
 
@@ -178,22 +172,19 @@ O Providencë Hyjnore! Edhe pse unë po përmbahem nga dëshirat trupore dhe nuk
 ## Asambleja shpirtërore
 
 <a id="bpn2759"></a> 
-### Prayer bpn2759 in Shqip
 Sa herë hyni në dhomën e konsultimit, thuajeni këtë lutje me zemrën që ju rreh nga dashuria për Perëndinë dhe me gjuhën të pastruar nga gjithçka veç kujtimit të Tij, që Fuqiploti t'ju ndihmojë me dashamirësi për të arritur fitoren më të lartë.
 
 
 O Perëndi, Perëndia im! Ne jemi shërbëtorët e Tu që janë kthyer me përkushtim ndaj Fytyrës Sate të Shenjtë, që janë shkëputur nga gjithçka veç Teje në këtë Ditë të lavdishme. Ne jemi mbledhur në këtë Asamble Shpirtërore, të bashkuar në pikëpamjet e mendimet tona, me qëllimet tona të harmonizuara për të lartësuar Fjalën Tënde midis gjinisë njerëzore. O Zot, Perëndia Ynë! Bëna ne shenjat e Udhëheqjes Sate Hyjnore, Flamujt e Besimit Tënd të lavdëruar midis njerëzve, shërbëtorë të Besëlidhjes Sate të fuqishme. O Ti Zoti ynë Më i Lartë, bëna ne shfaqje të Unitetit Tënd Hyjnor në Mbretërinë Tënde Abhá, bëna yje vezullues që shkëlqejnë mbi të gjitha vendet. Zot! Ndihmona të bëhemi dete që ngrihen nga valët e Hirit Tënd mahnitës, rrëke që rrjedhin nga Lartësitë e Tua të gjithëlavdishme, fryte të mira në pemën e Kauzës Sate qiellore, pemë që tunden në flladet e Bujarisë Sate në Vreshtin Tënd qiellor. O Perëndi! Bëji shpirtrat tanë të varur prej Vargjeve të Unitetit Tënd Hyjnor, gëzoji zemrat tona me vërshimet e Hirit Tënd, që ne të bashkohemi si dallgët e një deti dhe të shkrihemi së bashku si rrezet e Dritës Sate të shkëlqyeshme; që mendimet tona, pikëpamjet tona, ndjenjat tona të bëhen si një realitet i vetëm, të manifestojnë frymën e bashkimit në mbarë botën. Ti je i Hirshmi, Bujari, Dhuruesi, Fuqiploti, i Mëshirshmi, Zemërdhembshuri.
 
-(Source category: Asambleja shpirtërore)
-(Bahaiprayers.net ID: 2759)
+-- Abdu'l-Bahá
 
+bpn2759 «[Shqip](../sq/#bpn2759)» 
 
-«[Shqip](../sq/#bpn2759)» 
-
+----
 
 
 <a id="bpn2760"></a> 
-### Prayer bpn2760 in Shqip
 Mblidhuni së bashku me gëzim të pastër dhe, në fillim të mbledhjes, thoni këtë lutje:
 
 
@@ -201,16 +192,14 @@ O Ti Zot i Mbretërisë! Edhe pse trupat tanë janë mbledhur këtu së bashku, 
 
 O Ti Dhuruesi Ynë! Dërgona ndihmën Tënde, që çdo njeri i ardhur këtu të bëhet një qiri i ndezur, një qendër tërheqëse, një thirrje e mbretërive të Tua qiellore, gjersa, më në fund, ta bëjmë këtë botë të poshtme pasqyrimin e Parajsës Sate.
 
-(Source category: Asambleja shpirtërore)
-(Bahaiprayers.net ID: 2760)
+-- Abdu'l-Bahá
 
+bpn2760 «[Shqip](../sq/#bpn2760)» 
 
-«[Shqip](../sq/#bpn2760)» 
-
+----
 
 
 <a id="bpn2761"></a> 
-### Prayer bpn2761 in Shqip
 Lutje që duhet thënë në mbyllje të mbledhjes së Asamblesë Shpirtërore:
 
 
@@ -222,12 +211,11 @@ O Zoti ynë! Ktheji fytyrat tona ndaj fytyrës Sate të mëshirshme, na ushqe ng
 
 Me të vërtetë, Ti je Fisniku, i Mëshirshmi. Ti je Zotëruesi i bujarisë së madhe dhe, me të vërtetë, Ti je Zemërbuti e i Hirshmi.
 
-(Source category: Asambleja shpirtërore)
-(Bahaiprayers.net ID: 2761)
+-- Abdu'l-Bahá
 
+bpn2761 «[Shqip](../sq/#bpn2761)» 
 
-«[Shqip](../sq/#bpn2761)» 
-
+----
 
 
 
@@ -235,7 +223,6 @@ Me të vërtetë, Ti je Fisniku, i Mëshirshmi. Ti je Zotëruesi i bujarisë së
 ## Bashkëshortët
 
 <a id="bpn2762"></a> 
-### Prayer bpn2762 in Shqip
 O Perëndi, Perëndia im! Kjo shërbëtore Jotja të thërret Ty, beson në Ty, e kthen fytyrën ndaj Teje, të lutet Ty të lëshosh mbi të bujaritë e Tua qiellore, t'i shfaqësh asaj misteret e Tua shpirtërore dhe të hedhësh mbi të dritat e Hyjnisë Sate.
 
 O Zoti im! Bëj që sytë e bashkëshortit tim të shohin. Gëzoja atij zemrën me dritën e dijes për Ty, tërhiqe mendjen e tij drejt bukurisë Sate të ndritshme, gëzoja atij shpirtin duke i reveluar shkëlqimet e Tua të dukshme.
@@ -244,12 +231,11 @@ O Zoti im! Hiqe perden nga sytë e tij. Derdhi bujaritë e Tua të shumta mbi t�
 
 Me të vërtetë, Ti je i Çmuari, Gjithmonëdhënësi, Dorëhapuri.
 
-(Source category: Bashkëshortët)
-(Bahaiprayers.net ID: 2762)
+-- Abdu'l-Bahá
 
+bpn2762 «[Shqip](../sq/#bpn2762)» 
 
-«[Shqip](../sq/#bpn2762)» 
-
+----
 
 
 
@@ -257,7 +243,6 @@ Me të vërtetë, Ti je i Çmuari, Gjithmonëdhënësi, Dorëhapuri.
 ## Ditët e shtuara
 
 <a id="bpn2850"></a> 
-### Prayer bpn2850 in Shqip
 Ditët e shtuara (nga 26 shkurti deri më 1 mars) duhet të jenë ditë përgatitjeje për Agjërimin, ditë mikpritjeje, bamirësie e dhuratash.
 
 
@@ -271,12 +256,11 @@ Të lutem Ty, O Ti Mbret i mbretërve dhe Mëshirues i të shtypurve, të caktos
 
 Ti, me të vërtetë, je Fuqiploti, i Gjithëdijshmi, i Gjithinformuari.
 
-(Source category: Ditët e shtuara)
-(Bahaiprayers.net ID: 2850)
+-- Bahá'u'lláh
 
+bpn2850 «[Shqip](../sq/#bpn2850)» 
 
-«[Shqip](../sq/#bpn2850)» 
-
+----
 
 
 
@@ -284,18 +268,16 @@ Ti, me të vërtetë, je Fuqiploti, i Gjithëdijshmi, i Gjithinformuari.
 ## Duart e kauzës së perëndisë
 
 <a id="bpn2763"></a> 
-### Prayer bpn2763 in Shqip
 *"...Administratorët Kryesorë të Komunitetit Botëror embrional të Bahá'u'lláh-ut, që janë veshur nga Penda e pagabueshme e Qendrës së Besëlidhjes së Tij me funksionin e dyfishtë për të ruajtur sigurinë dhe për të siguruar përhapjen e Besimit të Atit të Tij". - Shoghi Effendi (Messages to the Bahá'í World [Mesazhe për Botën Bahá'í])
 
 
 Drita dhe lavdia, përshëndetjet dhe lavdërimi qofshin mbi Duart e Kauzës së Tij, nëpërmjet të cilëve drita e qëndresës ka shkëlqyer dhe është vërtetuar se autoriteti për të zgjedhur i mbetet Perëndisë, të Pushtetshmit, të Fuqishmit, të Padetyruarit, përmes të cilëve është shfaqur oqeani i bujarisë dhe janë përhapur aromat e favoreve të hirshme të Perëndisë, të Zotit të njerëzimit. Ne i lutemi Atij - i Lavdëruar është Ai - t'i ruajë ata me fuqinë e ushtrive të Tij, t'i mbrojë me pushtetin e sundimit të Tij dhe t'i ndihmojë me forcën e Tij të pamposhtur, që mbizotëron mbi të gjitha gjërat e krijuara. Sovraniteti është i Perëndisë, i Krijuesit të qiejve dhe Zotit të Mbretërisë së Emrave.
 
-(Source category: Duart e kauzës së perëndisë)
-(Bahaiprayers.net ID: 2763)
+-- Bahá'u'lláh
 
+bpn2763 «[Shqip](../sq/#bpn2763)» 
 
-«[Shqip](../sq/#bpn2763)» 
-
+----
 
 
 
@@ -303,119 +285,101 @@ Drita dhe lavdia, përshëndetjet dhe lavdërimi qofshin mbi Duart e Kauzës së
 ## Fëmijët dhe të rinjtë
 
 <a id="bpn2768"></a> 
-### Prayer bpn2768 in Shqip
 Lëvduar qofsh Ti, O Zot, Perëndia im! Bëj mirësisht që kjo foshnjë të mëkohet nga gjiri i mëshirës Sate të dhembshur dhe nga kujdesi Yt dashamirës, të ushqehet me frytet e pemëve të Tua qiellore. Mos lejo që ajo të lihet nën kujdesin e ndokujt tjetër veç Teje, sepse Ti Vetë, nëpërmjet forcës së vullnetit e të pushtetit Tënd sovran, e krijove dhe e thirre atë në jetë. Nuk ka tjetër Perëndi veç Teje, Fuqiplotit, të Gjithëdijshmit.
 
 I lëvduar je Ti, O Më i Shumëdashuri im, përhap mbi të shijet e ëmbla të bujarisë Sate të përkryer dhe aromën e dhuratave të Tua të shenjta. Bëje, pra, atë të aftë të kërkojë strehë nën hijen e Emrit Tënd më të lartësuar, O Ti që mban në dorën Tënde mbretërinë e emrave e të atributeve. Me të vërtetë, Ti je në gjendje të bësh atë që dëshiron dhe je vërtet i Fuqishmi, i Lartësuari, Gjithmonëfalësi, i Hirshmi, Bujari, i Mëshirshmi.
 
-(Source category: Fëmijët dhe të rinjtë)
-(Bahaiprayers.net ID: 2768)
+-- Bahá'u'lláh
 
+bpn2768 «[Shqip](../sq/#bpn2768)» 
 
-«[Shqip](../sq/#bpn2768)» 
-
+----
 
 
 <a id="bpn2769"></a> 
-### Prayer bpn2769 in Shqip
 O Ti Zot i pashoq! le të mëkohet kjo foshnjë e vogël nga gjiri i dashamirësisë Sate, ruaje atë brenda djepit të sigurisë e të mbrojtjes Sate dhe bëj që ajo të rritet në krahët e dashurisë Sate të dhembshur.
 
-(Source category: Fëmijët dhe të rinjtë)
-(Bahaiprayers.net ID: 2769)
+-- Abdu'l-Bahá
 
+bpn2769 «[Shqip](../sq/#bpn2769)» 
 
-«[Shqip](../sq/#bpn2769)» 
-
+----
 
 
 <a id="bpn2770"></a> 
-### Prayer bpn2770 in Shqip
 O Perëndi! Rrite këtë foshnjë të vogël në prehërin e dashurisë Sate, dhe jepi qumësht nga gjiri i Kujdesit Tënd. Rrite këtë bimë të njomë në kopshtin e trëndafilave të dashurisë Sate dhe ndihmoje të rritet nën shiun e bujarisë Sate. Bëje atë fëmijë të Mbretërisë dhe çoje drejt hapësirave të Tua qiellore. Ti je i pushtetshëm e i dashur dhe Ti je Dhuruesi, Zemërgjeri, Zoti i bujarisë së pafund.
 
-(Source category: Fëmijët dhe të rinjtë)
-(Bahaiprayers.net ID: 2770)
+-- Abdu'l-Bahá
 
+bpn2770 «[Shqip](../sq/#bpn2770)» 
 
-«[Shqip](../sq/#bpn2770)» 
-
+----
 
 
 <a id="bpn2771"></a> 
-### Prayer bpn2771 in Shqip
 O Perëndi, më udhëhiq, më mbro, më bëj një llambë ndriçuese e një yll me shkëlqim. Ti je i Fuqishmi e i Pushtetshmi.
 
-(Source category: Fëmijët dhe të rinjtë)
-(Bahaiprayers.net ID: 2771)
+-- Abdu'l-Bahá
 
+bpn2771 «[Shqip](../sq/#bpn2771)» 
 
-«[Shqip](../sq/#bpn2771)» 
-
+----
 
 
 <a id="bpn2772"></a> 
-### Prayer bpn2772 in Shqip
 O Perëndi! Edukoji këta fëmijë. Këta fëmijë janë bimët e pemishtes Sate, lulet e livadhit Tënd, trëndafilat e kopshtit Tënd. Le të bjerë mbi ta shiu Yt; le të shkëlqejë mbi ta Dielli i Realitetit me dashurinë Tënde. Le t'i freskojë ata Flladi Yt, që të ushtrohen, të rriten e të zhvillohen, dhe të shfaqen me bukurinë më të madhe. Ti je Dhënësi. Ti je Zemërdhembshuri.
 
-(Source category: Fëmijët dhe të rinjtë)
-(Bahaiprayers.net ID: 2772)
+-- Abdu'l-Bahá
 
+bpn2772 «[Shqip](../sq/#bpn2772)» 
 
-«[Shqip](../sq/#bpn2772)» 
-
+----
 
 
 <a id="bpn2773"></a> 
-### Prayer bpn2773 in Shqip
 O Ti Zot i mirë! Këta fëmijë të këndshëm janë vepra e gishtave të fuqisë Sate dhe shenjat mahnitëse të madhështisë Sate. O Perëndi! Mbroji këta fëmijë, ndihmoji me mirësi ata që të edukohen, dhe bëji të aftë që t'i shërbejnë botës së njerëzimit. O Perëndi! Këta fëmijë janë margaritarë, bëj që ata të ushqehen brenda guackës së dashamirësisë Sate.
 
 Ti je Bujari, Dashuriploti.
 
-(Source category: Fëmijët dhe të rinjtë)
-(Bahaiprayers.net ID: 2773)
+-- Abdu'l-Bahá
 
+bpn2773 «[Shqip](../sq/#bpn2773)» 
 
-«[Shqip](../sq/#bpn2773)» 
-
+----
 
 
 <a id="bpn2774"></a> 
-### Prayer bpn2774 in Shqip
 O Zoti im! O Zoti im!
 Unë jam një fëmijë i njomë. Më ushqe nga gjiri i mëshirës Sate, më ushtro me dashurinë Tënde, më eduko në shkollën e drejtimit Tënd dhe më zhvillo nën hijen e bujarisë Sate. Më nxirr nga errësira, më bëj një dritë vezulluese; më çliro nga trishtimi, më bëj një lule të kopshtit të trëndafilave; më ço të shërbej në Pragun Tënd dhe më jep vetitë e natyrën e të drejtit; më bëj shkak bujarie për botën njerëzore dhe kurorëzoje kokën time me diademën e jetës së përjetshme!
 
 Me të vërtetë, Ti je i Pushtetshmi, i Fuqishmi, Shikuesi, Dëgjuesi.
 
-(Source category: Fëmijët dhe të rinjtë)
-(Bahaiprayers.net ID: 2774)
+-- Abdu'l-Bahá
 
+bpn2774 «[Shqip](../sq/#bpn2774)» 
 
-«[Shqip](../sq/#bpn2774)» 
-
+----
 
 
 <a id="bpn2775"></a> 
-### Prayer bpn2775 in Shqip
 O Ti, më i lavdishmi Zot! Bëje të bekuar e të lumtur shërbëtoren Tënde të vogël; bëj që ajo të ushqehet në pragun e njëshmërisë Sate dhe lëre atë të pijë me fund nga kupa e dashurisë Sate, që të mbushet me magjepsje e ekstazë dhe të përhapë aromë të këndshme. Ti je i Fuqishmi e i Pushtetshmi, dhe Ti je i Gjithëdijshmi, Ai që Sheh Gjithçka.
 
-(Source category: Fëmijët dhe të rinjtë)
-(Bahaiprayers.net ID: 2775)
+-- Abdu'l-Bahá
 
+bpn2775 «[Shqip](../sq/#bpn2775)» 
 
-«[Shqip](../sq/#bpn2775)» 
-
+----
 
 
 <a id="bpn2776"></a> 
-### Prayer bpn2776 in Shqip
 Të rinjtë
 O Zot! Bëje këtë të ri që të shkëlqejë dhe dhuroji bujarinë Tënde kësaj krijese të shkretë. Dhuroji atij dije, shtoja fuqinë në agim të çdo dite dhe ruaje atë nën strehën e mbrojtjes Sate, që ai të çlirohet nga gabimet, t'ia përkushtojë veten shërbimit të Kauzës Sate, të drejtojë të pabindurin, të udhëheqë të pafatin, të çlirojë robërit dhe të zgjojë të shkujdesurit, që të gjithë të bekohen me kujtimin dhe lavdërimin Tënd. Ti je i Fuqishmi dhe i Pushtetshmi.
 
-(Source category: Fëmijët dhe të rinjtë)
-(Bahaiprayers.net ID: 2776)
+-- Abdu'l-Bahá
 
+bpn2776 «[Shqip](../sq/#bpn2776)» 
 
-«[Shqip](../sq/#bpn2776)» 
-
+----
 
 
 
@@ -423,31 +387,27 @@ O Zot! Bëje këtë të ri që të shkëlqejë dhe dhuroji bujarinë Tënde kës
 ## Huqúqu'lláh
 
 <a id="bpn2778"></a> 
-### Prayer bpn2778 in Shqip
 I Madhërishëm je Ti, O Zot i të gjithë Krijimit, Ai tek i Cili duhet të kthehet gjithçka. Me gjuhët e mia të brendshme dhe të jashtme, Unë dëshmoj se Ti e shfaqe dhe e zbulove veten Tënde, i dërgove këtu poshtë mrekullitë e Tua, dhe i shpalle dëshmitë e Tua. Unë dëshmoj për vetëmjaftueshmërinë Tënde nga të gjithë të tjerët, me përjashtim të Vetes Sate dhe për shenjtërinë Tënde mbi gjithçka tokësore. Unë të lutem Ty që për lavdinë qiellore të Kauzës Sate dhe për fuqinë supreme të Fjalës Sate t'ia japësh miratimin atij që dëshiron ta ofrojë atë që Ti përshkrove për të në Librin Tënd dhe të zbatosh atë që do ta përhapë aromën e pranimit Tënd. Në të vërtetë, Ti je Fuqiploti, i Miri, Falësi, Zemërgjeri.
 
-(Source category: Huqúqu'lláh)
-(Bahaiprayers.net ID: 2778)
+-- Bahá'u'lláh
 
+bpn2778 «[Shqip](../sq/#bpn2778)» 
 
-«[Shqip](../sq/#bpn2778)» 
-
+----
 
 
 <a id="bpn2779"></a> 
-### Prayer bpn2779 in Shqip
 I lavdëruar je Ti, O Zoti im i dhembshur! Unë të lutem për vrumbullitjen e Oqeanit të të folurit Tënd të shenjtë, dhe për shenjat e shumta të Sovranitetit Tënd suprem, dhe për dëshmitë imponuese të Hyjnisë Sate, dhe për misteret e fshehura që qëndrojnë të mbuluara prej dijeve të Tua, më dhuro favorin që të të shërbej Ty e të zgjedhurve të Tu, dhe më bëj të aftë të të ofroj si duhet Huqúq-un Tënd, siç ke porositur Ti në Librin Tënd.
 
 Unë jam ai, O Zoti im, që e ka vendosur dashurinë e vet në mbretërinë Tënde të lavdisë dhe është kapur fort pas cepit të zemërgjerësisë Sate. O Ti, që je Zoti i të gjitha qenieve dhe Sundimtari i mbretërisë së emrave, Unë të lutem të mos m'i mohosh gjërat që zotëron, as të mos më pengosh në atë që Ti ke urdhëruar për të zgjedhurit e Tu.
 
 Unë të përgjërohem, O Zot i të gjithë emrave e krijues i qiejve, të më ndihmosh të jem i qëndrueshëm në Kauzën Tënde, përmes hirit Tënd forcues, në mënyrë që kotësitë e botës të mos më veçojnë si me një perde, as të mos më pengojnë rrëmujat e dhunshme të keqbërësve, të cilët janë ngritur në ditët e Tua për t'i çuar njerëzit në rrugë të shtrembër. Caktoje, pra, për mua, O Dëshira e zemrës sime, të mirën e kësaj bote dhe të botës që do të vijë. Me të vërtetë, Ti e ke në dorë të bësh atë që dëshiron. Nuk ka Perëndi tjetër veç Teje, Gjithmonëfalësit, Bujariplotit.
 
-(Source category: Huqúqu'lláh)
-(Bahaiprayers.net ID: 2779)
+-- Bahá'u'lláh
 
+bpn2779 «[Shqip](../sq/#bpn2779)» 
 
-«[Shqip](../sq/#bpn2779)» 
-
+----
 
 
 
@@ -455,7 +415,6 @@ Unë të përgjërohem, O Zot i të gjithë emrave e krijues i qiejve, të më n
 ## Kontributet për fondin
 
 <a id="bpn2777"></a> 
-### Prayer bpn2777 in Shqip
 Të gjithë miqtë e Perëndisë... duhet të kontribuojnë sa të kenë mundësi, sado modeste qoftë oferta e tyre. Perëndia nuk e ngarkon njeriun tej asaj që ky ka mundësi. Kontribute të tilla duhet të vijnë nga të gjitha qendrat e nga të gjithë besimtarët...O miq të Perëndisë! Të jeni të sigurt se, pas këtyre kontributeve, bujqësia juaj, industria dhe tregtia juaj do të bekohen me rritje të shumëfishta, me dhunti e dhurata të mëdha. Ai që vjen me një vepër të mirë do të marrë shpërblim të dhjetëfishtë. Nuk ka dyshim që Zoti i gjallë do t'i mbështesë pakursim ata që shpenzojnë pasurinë e tyre në rrugën e Tij.
 
 
@@ -465,12 +424,11 @@ O Zoti im! Urdhëro që ata të marrin me bollëk, të kenë një kompensim të 
 
 Me të vërtetë, Ti je Mbështetësi, Ndihmuesi, Zemërgjeri, Bujari, Gjithmonëdhënësi.
 
-(Source category: Kontributet për fondin)
-(Bahaiprayers.net ID: 2777)
+-- Abdu'l-Bahá
 
+bpn2777 «[Shqip](../sq/#bpn2777)» 
 
-«[Shqip](../sq/#bpn2777)» 
-
+----
 
 
 
@@ -478,33 +436,29 @@ Me të vërtetë, Ti je Mbështetësi, Ndihmuesi, Zemërgjeri, Bujari, Gjithmon�
 ## Lavdërim dhe mirënjohje
 
 <a id="bpn2780"></a> 
-### Prayer bpn2780 in Shqip
 Të gjitha lavdërimet, O Perëndia im, qofshin mbi Ty që je burimi i çdo lavdie e madhështie, madhërie e nderimi, sovraniteti e sundimi, lartësimi e mirësie, frike e pushteti. Cilindo që Ti dëshiron e afron pranë Oqeanit Më të Madh dhe cilitdo që Ti dëshiron i jep nderin që të njohë Emrin Tënd Më të Lashtë. Nga të gjithë ata që janë në qiell e mbi tokë, askush nuk mund t'i qëndrojë veprimit Të Vullnetit Tënd sovran. Nga përjetësia Ti ke qeverisur gjithë krijimin dhe do të vazhdosh përgjithmonë të ushtrosh sundimin Tënd mbi të gjitha gjërat e krijuara. Nuk ka Perëndi tjetër veç Teje, të Gjithëfuqishmit, Më të Lavdëruarit, të Gjithëpushtetshmit, Urtiplotit.
 
 Ndriçoji, O Zot, fytyrat e shërbëtorëve të Tu, që ata të të shohin Ty; që duke pastruar zemrat e Tyre të hyjnë në oborrin e favoreve të Tua qiellore, dhe të njohin Atë që është Manifestimi i Vetes Sate dhe Agimi i Thelbit Tënd. Me të vërtetë, Ti je Zoti i të gjitha botëve. Nuk ka Perëndi tjetër veç Teje, të Padetyruarit, Gjithënënshtruesit.
 
-(Source category: Lavdërim dhe mirënjohje)
-(Bahaiprayers.net ID: 2780)
+-- Bahá'u'lláh
 
+bpn2780 «[Shqip](../sq/#bpn2780)» 
 
-«[Shqip](../sq/#bpn2780)» 
-
+----
 
 
 <a id="bpn2781"></a> 
-### Prayer bpn2781 in Shqip
 O Perëndi zemërdhembshur! Të falënderoj, sepse Ti më ke hapur sytë e më ke bërë të ndërgjegjshëm. Ti më ke dhënë sy që të shikoj e më ke dhuruar veshë që të dëgjoj, më ke çuar në udhën e mbretërisë Sate dhe më ke treguar shtegun Tënd. Ti më ke rrëfyer rrugën e drejtë dhe më ke futur në Arkën e Shpëtimit. O Perëndi! Më mbaj të patundur dhe më bëj të qëndrueshëm e të vendosur. Më mbro nga sprovat e dhunshme dhe më ruaj e më streho në fortesën e pamposhtur të Besëlidhjes e të Testamentit Tënd. Ti je i Pushtetshmi. Ti je Shikuesi. Ti je Dëgjuesi.
 
 O Ti Perëndi Zemërdhembshur! Më dhuro një zemër që, si pasqyrë, të ndriçohet nga drita e dashurisë Sate dhe më jep mendime që mund ta shndërrojnë këtë botë në një kopësht trëndafilash përmes zbritjes së hirit qiellor.
 
 Ti je Zemërdhembshuri, i Mëshirshmi. Ti je Perëndia i Madh Mirëbërës.
 
-(Source category: Lavdërim dhe mirënjohje)
-(Bahaiprayers.net ID: 2781)
+-- Abdu'l-Bahá
 
+bpn2781 «[Shqip](../sq/#bpn2781)» 
 
-«[Shqip](../sq/#bpn2781)» 
-
+----
 
 
 
@@ -512,7 +466,6 @@ Ti je Zemërdhembshuri, i Mëshirshmi. Ti je Perëndia i Madh Mirëbërës.
 ## Lutja e detyrueshme
 
 <a id="bpn2756"></a> 
-### Prayer bpn2756 in Shqip
 *"Lutjet e detyrueshme janë të tilla, sepse çojnë në përunjësi e nënshtrim, e bëjnë njeriun ta kthejë fytyrën drejt Perëndisë e të shprehë përkushtim ndaj Tij. Përmes lutjesh të tilla njeriu mban lidhje me Perëndinë, kërkon t'i avitet pranë Atij, bisedon me të Shumëdashurin e vërtetë të zemrës së vet dhe ngrihet në pozita shpirtërore." - ‘Abdu’l-Bahá
 
 
@@ -524,12 +477,11 @@ Unë dëshmoj, O Perëndia im, se Ti më ke krijuar që të të njoh e të të a
 
 Nuk ka Perëndi tjetër veç Teje, Ndihmës në Rrezik, të Vetëqenëshmit.
 
-(Source category: Lutja e detyrueshme)
-(Bahaiprayers.net ID: 2756)
+-- Bahá'u'lláh
 
+bpn2756 «[Shqip](../sq/#bpn2756)» 
 
-«[Shqip](../sq/#bpn2756)» 
-
+----
 
 
 
@@ -537,7 +489,6 @@ Nuk ka Perëndi tjetër veç Teje, Ndihmës në Rrezik, të Vetëqenëshmit.
 ## Lutja e gjatë e detyrueshme
 
 <a id="bpn2758"></a> 
-### Prayer bpn2758 in Shqip
 Të thuhet një herë në njëzet e katër orë
 
 Cilido që dëshiron ta thotë këtë lutje, të qëndrojë në këmbë e t'i drejtohet Perëndisë dhe, ndërsa qëndron në vendin e vet, të vështrojë nga e djathta e nga e majta, sikur pret mëshirën e Zotit të tij, Mëshirëplotit, Zemërdhembshurit. Pastaj të thotë:
@@ -599,12 +550,11 @@ Lëvduar qofsh Ti, O Perëndia ynë, që na ke dërguar atë që na afron pranë
 
 Unë dëshmoj, O Perëndia im, për atë që kanë dëshmuar të Zgjedhurit e Tu dhe njoh atë që kanë njohur banorët e Parajsës më të lartë dhe ata që janë mbledhur rreth Fronit Tënd të fuqishëm. Mbretëritë e tokës e të qiellit janë të Tuat, O Zot i botëve!
 
-(Source category: Lutja e gjatë e detyrueshme)
-(Bahaiprayers.net ID: 2758)
+-- Bahá'u'lláh
 
+bpn2758 «[Shqip](../sq/#bpn2758)» 
 
-«[Shqip](../sq/#bpn2758)» 
-
+----
 
 
 
@@ -612,7 +562,6 @@ Unë dëshmoj, O Perëndia im, për atë që kanë dëshmuar të Zgjedhurit e Tu
 ## Lutja e gjatë e shërimit
 
 <a id="bpn2860"></a> 
-### Prayer bpn2860 in Shqip
 Ai është Shëruesi, i Mjaftueshmi, Ndihmuesi,
 Ai që Fal Gjithçka, Mëshirëploti.
 Unë të thërras Ty, O Ti i Lavdëruari,
@@ -787,26 +736,23 @@ I shenjtëruar je Ti, O Perëndia im! Unë të lutem, për zemërgjerësinë Të
 
 Ti je me të vërtetë i Fuqishmi, i Gjithëmjaftueshmi, Shëruesi, Mbrojtësi, Dhuruesi, Zemërdhembshuri, Bujariploti, i Gjithëmëshirshmi.
 
-(Source category: Lutja e gjatë e shërimit)
-(Bahaiprayers.net ID: 2860)
+-- Bahá'u'lláh
 
+bpn2860 «[Shqip](../sq/#bpn2860)» 
 
-«[Shqip](../sq/#bpn2860)» 
-
+----
 
 
 <a id="bpn2861"></a> 
-### Prayer bpn2861 in Shqip
 Lutja më e pranueshme është ajo që ofrohet me gjithë shpirt e me gëzimin më të madh; zgjatja e tepruar e saj nuk ka qenë dhe nuk është e pëlqyer nga Perëndia.
 
 Sa më e shkëputur dhe më e kulluar të jetë lutja, aq më e pranueshme bëhet ajo në prani të Perëndisë.
 
-(Source category: Lutja e gjatë e shërimit)
-(Bahaiprayers.net ID: 2861)
+-- Báb
 
+bpn2861 «[Shqip](../sq/#bpn2861)» 
 
-«[Shqip](../sq/#bpn2861)» 
-
+----
 
 
 
@@ -814,7 +760,6 @@ Sa më e shkëputur dhe më e kulluar të jetë lutja, aq më e pranueshme bëhe
 ## Lutja e mesme e detyrueshme
 
 <a id="bpn2757"></a> 
-### Prayer bpn2757 in Shqip
 Të thuhet çdo ditë në mëngjes, në mesditë e në mbrëmje
 
 Cilido që dëshiron të thotë këtë lutje, të lajë duart dhe duke u larë të thotë:
@@ -841,12 +786,11 @@ Unë dëshmoj për unitetin Tënd e për njëshmërinë Tënde, dëshmoj se Ti j
 
 *(Në rast se ndonjëri, në vend të vargut të gjatë, preferon të recitojë këto fjalë: "Perëndia dëshmon se nuk ka Perëndi tjetër veç Tij, Ndihmës në Rrezik, të Vetëqenëshmit", kjo do të ishte e mjaftueshme. Dhe po kështu, do të ishte e mjaftueshme që ai, ndërsa qëndron ndenjur, të recitonte këto fjalë: "Unë dëshmoj për unitetin Tënd e për njëshmërinë Tënde, dëshmoj se Ti je Perëndia dhe se nuk ka Perëndi tjetër veç Teje.")
 
-(Source category: Lutja e mesme e detyrueshme)
-(Bahaiprayers.net ID: 2757)
+-- Bahá'u'lláh
 
+bpn2757 «[Shqip](../sq/#bpn2757)» 
 
-«[Shqip](../sq/#bpn2757)» 
-
+----
 
 
 
@@ -854,19 +798,17 @@ Unë dëshmoj për unitetin Tënd e për njëshmërinë Tënde, dëshmoj se Ti j
 ## Lutje për pionierët
 
 <a id="bpn2782"></a> 
-### Prayer bpn2782 in Shqip
 Ti e di, O Perëndi, dhe je dëshmitari im, se unë nuk kam dëshirë tjetër në zemrën time, veçse të fitoj pëlqimin Tënd, të konfirmohem në shërbimin Tënd, t'ia përkushtoj veten time shërbimit për Ty, të punoj në vreshtin Tënd të madh dhe të sakrifikoj gjithçka në shtegun Tënd. Ti je i Gjithëdijshmi dhe Ai që Sheh Gjithçka. Unë nuk kam dëshirë tjetër, veçse t'i kthej hapat e mi, në dashurinë time për Ty, drejt maleve e shkretëtirave, për të shpallur me zë të lartë ardhjen e Mbretërisë Sate dhe për të përhapur Fjalën Tënde midis gjithë njerëzve. O Perëndi! Hape rrugën për këtë të pafuqishëm, jepi ilaçin këtij të sëmuri dhe dhuroji shërimin Tënd këtij të vuajturi. Me zemrën që më digjet zjarr e me sy të përlotur, të përgjërohem Ty në Pragun Tënd.
 
 O Perëndi! Unë jam i përgatitur t'i qëndroj çdo sprove në shtegun Tënd dhe dëshiroj me gjithë zemër e me shpirt t'i bëj ballë çdo vështirësie.
 
 O Perëndi! Mbromë nga tundimet. Ti e di fare mirë se unë jam ndarë nga të gjitha gjërat dhe e kam çliruar veten nga të gjitha mendimet. Unë nuk kam punë tjetër veç përmendjes Sate dhe asnjë aspiratë tjetër, veçse të të shërbej Ty.
 
-(Source category: Lutje për pionierët)
-(Bahaiprayers.net ID: 2782)
+-- Abdu'l-Bahá
 
+bpn2782 «[Shqip](../sq/#bpn2782)» 
 
-«[Shqip](../sq/#bpn2782)» 
-
+----
 
 
 
@@ -874,7 +816,6 @@ O Perëndi! Mbromë nga tundimet. Ti e di fare mirë se unë jam ndarë nga të 
 ## Martesa
 
 <a id="bpn2783"></a> 
-### Prayer bpn2783 in Shqip
 *Premtimi i martesës, vargu që thuhet individualisht nga nusja dhe dhëndri në praninë e të paktën dy dëshmitarëve të pranueshëm për Asamblenë Shpirtërore është, siç afirmohet në Kitáb-i Akdas: "Ne të gjithë, me të vërtetë, i bindemi Vullnetit të Perëndisë."
 
 
@@ -882,12 +823,11 @@ Lavdia qoftë mbi Ty, O Perëndia im! Me të vërtetë ky shërbëtor Yti dhe kj
 
 Me të vërtetë, Ti je i Gjithëpushtetshmi, i Gjithëpranishmi dhe Fuqiploti!
 
-(Source category: Martesa)
-(Bahaiprayers.net ID: 2783)
+-- Abdu'l-Bahá
 
+bpn2783 «[Shqip](../sq/#bpn2783)» 
 
-«[Shqip](../sq/#bpn2783)» 
-
+----
 
 
 
@@ -895,53 +835,45 @@ Me të vërtetë, Ti je i Gjithëpushtetshmi, i Gjithëpranishmi dhe Fuqiploti!
 ## Mbledhjet
 
 <a id="bpn2784"></a> 
-### Prayer bpn2784 in Shqip
 O Ti zemërdhembshur, Ti i Gjithëfuqishmi! Ky grumbullim njerëzish i ka kthyer fytyrat ndaj Teje duke t'u lutur. Me përuljen e nënshtrimin më të madh, ata shohin drejt Mbretërisë Sate dhe të luten Ty për ndjesë e falje. O Perëndi! Afroji këta pranë Vetes Sate. Shenjtëroji këta njerëz dhe lësho mbi ta rrezet e udhërrëfimit Tënd. Ndriçoji zemrat e Tyre dhe gëzoji shpirtrat e tyre me lajmet e Tua të gëzuara. Merri ata të gjithë në Mbretërinë Tënde të Shenjtë, lësho mbi ta bujarinë Tënde të pashtershme, bëji ata të lumtur në këtë botë dhe në botën që do të vijë.
 
-(Source category: Mbledhjet)
-(Bahaiprayers.net ID: 2784)
+-- Abdu'l-Bahá
 
+bpn2784 «[Shqip](../sq/#bpn2784)» 
 
-«[Shqip](../sq/#bpn2784)» 
-
+----
 
 
 <a id="bpn2785"></a> 
-### Prayer bpn2785 in Shqip
 O Perëndi! Me të vërtetë, ne jemi mbledhur këtu në aromën e dashurisë Sate. Ne e kemi kthyer fytyrën ndaj Mbretërisë Sate. Ne nuk kërkojmë asgjë veç Teje dhe nuk dëshirojmë asgjë veç asaj që të jep kënaqësi Ty. O Perëndi! Le të jetë ky ushqim mana Jote që bie nga qielli, dhe bëj që ky grumbullim të jetë një grupim i qenieve të Tua supreme. Qofshin ata shkak i ngjalljes së dashurisë për njerëzimin dhe burim ndriçimi për gjininë njerëzore. Qofshin ata mjete të udhërrëfimit Tënd mbi tokë. Me të vërtetë, Ti je i Pushtetshmi, Ti je Dhuruesi, Ti je Falësi dhe Ti je Fuqiploti!
 
-(Source category: Mbledhjet)
-(Bahaiprayers.net ID: 2785)
+-- Abdu'l-Bahá
 
+bpn2785 «[Shqip](../sq/#bpn2785)» 
 
-«[Shqip](../sq/#bpn2785)» 
-
+----
 
 
 <a id="bpn2786"></a> 
-### Prayer bpn2786 in Shqip
 O Providencë Hyjnore! Ky kuvend përbëhet prej miqve të Tu, që i ka tërhequr bukuria Jote dhe janë ndezur nga zjarri i dashurisë Sate. Ktheji këta njerëz në engjëj qiellorë, ringjalli ata me anë të frymës së Shpirtit Tënd të Shenjtë, jepu atyre gjuhë elokuente dhe zemra të vendosura, dhuroju atyre pushtet qiellor dhe ndjenja shpirtdhembshurie, bëji ata përhapës të njëshmërisë së gjinisë njerëzore dhe nxitje për dashuri e harmoni në botën e njerëzimit, në mënyrë që errësira e rrezikshme e paragjykimit injorant të zhduket nëpërmjet dritës së Diellit të së Vërtetës, kjo botë e zymtë të ndriçohet, kjo mbretëri materiale të thithë rrezet e botës së shpirtit, këto ngjyra të ndryshme të shkrihen në një ngjyrë dhe melodia e lavdërimit të ngrihet në mbretërinë e shenjtërisë Sate.
 
 Me të vërtetë, Ti je i Gjithëpushtetshmi e Fuqiploti!
 
-(Source category: Mbledhjet)
-(Bahaiprayers.net ID: 2786)
+-- Abdu'l-Bahá
 
+bpn2786 «[Shqip](../sq/#bpn2786)» 
 
-«[Shqip](../sq/#bpn2786)» 
-
+----
 
 
 <a id="bpn2787"></a> 
-### Prayer bpn2787 in Shqip
 Sa herë që një grup njerëzish do të mblidhen në një vend takimi, do të lartësojnë Perëndinë dhe do të flasin me njëri-tjetrin për misteret e Perëndisë, pa pikë dyshimi frymëmarrja e Shpirtit të Shenjtë do të dihasë butësisht mbi ta, duke i dhënë secilit pjesën e vet.
 
-(Source category: Mbledhjet)
-(Bahaiprayers.net ID: 2787)
+-- Abdu'l-Bahá
 
+bpn2787 «[Shqip](../sq/#bpn2787)» 
 
-«[Shqip](../sq/#bpn2787)» 
-
+----
 
 
 
@@ -949,51 +881,44 @@ Sa herë që një grup njerëzish do të mblidhen në një vend takimi, do të l
 ## Mbrojtja
 
 <a id="bpn2788"></a> 
-### Prayer bpn2788 in Shqip
 Lëvduar qoftë Emri Yt, O Zot Perëndia im! Unë të përgjërohem, për Emrin Tënd, përmes të cilit ka rënë Ora dhe ka ndodhur Ringjallja, dhe frika e të dridhurat kanë zënë të gjithë ata që janë në qiell e mbi tokë, të lëshosh nga qielli i mëshirës dhe nga retë e zemërdhembshurisë Sate plot dashuri atë që do të gëzojë zemrat e shërbëtorëve të Tu, që i kanë kthyer fytyrat ndaj Teje dhe kanë ndihmuar Kauzën Tënde.
 
 Ruaji shërbëtorët e Tu dhe shërbëtoret e Tua, O Zoti im, nga shigjetat e fantazisë së kotë e nga imagjinatat boshe, dhe jepu atyre nga duart e hirit Tënd një rrëke të ujrave të qeta të dijes Sate.
 
 Ti, me të vërtetë, je i Gjithëfuqishmi, Më i Lavdëruari, Gjithmonëfalësi, Bujariploti.
 
-(Source category: Mbrojtja)
-(Bahaiprayers.net ID: 2788)
+-- Bahá'u'lláh
 
+bpn2788 «[Shqip](../sq/#bpn2788)» 
 
-«[Shqip](../sq/#bpn2788)» 
-
+----
 
 
 <a id="bpn2793"></a> 
-### Prayer bpn2793 in Shqip
 Në Emër të Tij, të Lavdëruarit, Më të Lartit, Më Fisnikut!
 
 I lavdëruar je Ti, O Zot Perëndia im! O Ti Që je Perëndia im, dhe Mjeshtri im, dhe Zoti im, dhe Mbështetja ime, dhe Shpresa ime, dhe Streha ime, dhe Drita ime. Kërkoj prej Teje që, për Emrin Tënd të Fshehur e të Ruajtur, që askush nuk e di veçse Ti Vetë, të mbrosh prurësin e kësaj Tabele nga çdo fatkeqësi e nga çdo e keqe, dhe nga çdo burrë e grua e djallëzuar; nga e liga e Keqbërësve dhe nga intrigat e jobesimtarëve. Ruaje atë, veç kësaj, O Perëndia im, nga çdo dert e shqetësim, O Ti Që mban në dorën Tënde mbretërinë e të gjitha gjërave. Ti, me të vërtetë, je i pushtetshëm mbi të gjitha gjërat. Ti bën si do Vetë dhe urdhëron ashtu si Të pëlqen.
 
 O Ti Mbret i Mbretërve! O Ti Zot dashamirës! O Ti Burim i bujarisë së lashtë, i hirit, i zemërgjerësisë e i blatimit! O Ti Shërues i sëmundjeve! O Ti Plotësues i nevojave! O Ti Dritë e Dritës! O Ti Revelues i çdo Manifestimi! O Ti Zemërdhembshuri! O Ti i Mëshirshmi! Ki mëshirë për prurësin e kësaj Tabele, me mëshirën Tënde më të madhe dhe me hirin Tënd të pashtershëm, O Ti i Hirshmi, Bujari. Ruaje atë, veç kësaj, me mbrojtjen Tënde, nga çdo gjë që zemra dhe mendja e tij e gjen të neveritshme. Ndër ata që janë të veshur me pushtet, Ti, me të vërtetë, je më i pushtetshmi. Lavdia e Perëndisë qoftë mbi Ty, O ti diell që po lind! Dëshmo për atë që Perëndia ka dëshmuar Vetë, se nuk ka Perëndi tjetër veç Tij, Fuqiplotit, Më të Shumëdashurit.
 
-(Source category: Mbrojtja)
-(Bahaiprayers.net ID: 2793)
+-- Bahá'u'lláh
 
+bpn2793 «[Shqip](../sq/#bpn2793)» 
 
-«[Shqip](../sq/#bpn2793)» 
-
+----
 
 
 <a id="bpn2789"></a> 
-### Prayer bpn2789 in Shqip
 O Ti Providencë hyjnore, ne jemi për të të ardhur keq, na jep mbështetjen Tënde; ne jemi endacakë pa shtëpi, na jep strehën Tënde; jemi të shpërndarë, na bashko; jemi në rrugë të shtrembër, na mblidh në vathën Tënde; jemi të braktisur, na dhuro një pjesë e një copë; jemi të etur, na udhëhiq te burimi i Jetës; jemi të brishtë, na forco që të ngrihemi për të ndihmuar Kauzën Tënde dhe për ta ofruar veten si një sakrificë të gjallë në rrugën që na ke treguar.
 
-(Source category: Mbrojtja)
-(Bahaiprayers.net ID: 2789)
+-- Abdu'l-Bahá
 
+bpn2789 «[Shqip](../sq/#bpn2789)» 
 
-«[Shqip](../sq/#bpn2789)» 
-
+----
 
 
 <a id="bpn2790"></a> 
-### Prayer bpn2790 in Shqip
 Ai është Perëndia
 O Zot, Perëndia im! O Ti Ndihmuesi i të dobtëve, Mbështetësi i të varfërve dhe Shpëtuesi i të pashpresëve që e kanë kthyer fytyrën ndaj Teje.
 
@@ -1009,38 +934,33 @@ O Zot! Forcoji mirësisht ata me një frymë të re; ndriçoji sytë e tyre, duk
 
 Në të vërtetë, Ti je Bujari, i Fuqishmi, Ai që ka në dorë gjithçka, i Padetyruari. Nuk ka Perëndi tjetër veç Teje, Perëndisë së dashurisë e të mëshirës së dhembshur, Lavdiplotit, Gjithmonëfalësit.
 
-(Source category: Mbrojtja)
-(Bahaiprayers.net ID: 2790)
+-- Abdu'l-Bahá
 
+bpn2790 «[Shqip](../sq/#bpn2790)» 
 
-«[Shqip](../sq/#bpn2790)» 
-
+----
 
 
 <a id="bpn2791"></a> 
-### Prayer bpn2791 in Shqip
 O Perëndi, Perëndia im! Ruaji shërbëtorët e Tu të besuar nga e keqja e egos dhe e pasionit, mbroji ata me syrin vëzhgues të dashamirësisë Sate nga çdo mllef, urrejtje e cmirë, strehoji ata në fortesën e papushtueshme të kujdesit Tënd dhe, të siguruar nga shigjetat e dyshimeve, bëji ata shfaqje të shenjave të Tua të lavdishme, ndriçoji fytyrat e tyre me rrezet e shkëlqyeshme që përhapen nga Agimi i unitetit Tënd hyjnor, gëzoji zemrat e tyre me vargjet e reveluara nga mbretëria Jote e shenjtë, forcoji shpatullat e tyre me fuqinë Tënde gjithësunduese që vjen nga mbretëria Jote e lavdisë. Ti je Bujariploti, Mbrojtësi, i Gjithëfuqishmi, i Hirshmi.
 
-(Source category: Mbrojtja)
-(Bahaiprayers.net ID: 2791)
+-- Abdu'l-Bahá
 
+bpn2791 «[Shqip](../sq/#bpn2791)» 
 
-«[Shqip](../sq/#bpn2791)» 
-
+----
 
 
 <a id="bpn2792"></a> 
-### Prayer bpn2792 in Shqip
 Ai është Zemërdhembshuri, Bujariploti! O Perëndi, Perëndia im! Ti më sheh, Ti më njeh mua; Ti je Qielli im dhe Streha ime. Unë nuk kam kërkuar as do të kërkoj askënd veç Teje; nuk kam shkelur as do të shkel asnjë shteg veç shtegut të dashurisë Sate. Në natën e errët të dëshpërimit, syri im drejtohet në pritje e plot shpresë nga agimi i favorit Tënd të pakufishëm dhe në atë çast shpirti im i lëshuar freskohet e forcohet duke kujtuar bukurinë e përsosurinë Tënde. Ai që hiri i mëshirës Sate e ndihmon, edhe në qoftë një pikë e vogël, do të bëhet një oqean i pakufi, dhe atomi më i thjeshtë që vërshimi i dashamirësisë Sate e mbështet do të shkëlqejë si ylli i ndritshëm.
 
 Fute nën mbrojtjen Tënde, O Ti Shpirt i dëlirësisë, Ti që je Dhënësi Bujariplotë, shërbëtorin Tënd të magjepsur e të frymëzuar. Ndihmoje atë në këtë botë të qenies që të qëndrojë fort e i patundur në dashurinë Tënde, dhe bëje këtë zog krahëthyer të gjejë strehë në folenë Tënde hyjnore që ndodhet në pemën qiellore.
 
-(Source category: Mbrojtja)
-(Bahaiprayers.net ID: 2792)
+-- Abdu'l-Bahá
 
+bpn2792 «[Shqip](../sq/#bpn2792)» 
 
-«[Shqip](../sq/#bpn2792)» 
-
+----
 
 
 
@@ -1048,7 +968,6 @@ Fute nën mbrojtjen Tënde, O Ti Shpirt i dëlirësisë, Ti që je Dhënësi Buj
 ## Mesnatë
 
 <a id="bpn2804"></a> 
-### Prayer bpn2804 in Shqip
 O kërkues i së Vërtetës! Po qe se dëshiron që Perëndia të t'i hapë sytë, duhet t'i përgjërohesh Perëndisë, t'i lutesh Atij dhe të komunikosh me Të në mesnatë, duke thënë:
 
 
@@ -1056,12 +975,11 @@ O Zot, e kam kthyer fytyrën ndaj Mbretërisë Sate të njëshmërisë dhe jam z
 
 Me të vërtetë, Ti je Dhënësi, Zemërgjeri, i Mëshirshmi, Falësi.
 
-(Source category: Mesnatë)
-(Bahaiprayers.net ID: 2804)
+-- Abdu'l-Bahá
 
+bpn2804 «[Shqip](../sq/#bpn2804)» 
 
-«[Shqip](../sq/#bpn2804)» 
-
+----
 
 
 
@@ -1069,7 +987,6 @@ Me të vërtetë, Ti je Dhënësi, Zemërgjeri, i Mëshirshmi, Falësi.
 ## Mëngjes
 
 <a id="bpn2794"></a> 
-### Prayer bpn2794 in Shqip
 O Perëndia im dhe Mjeshtri im! Unë jam shërbëtori Yt e bir i shërbëtorit Tënd. Unë u ngrita nga shtrati në këtë vakt mëngjesi, kur Ylli i Ditës i Njëshmërisë Sate ka shkëlqyer nga Agimi i vullnetit Tënd, duke derdhur shkëlqimin e vet mbi botën mbarë, në përputhje me atë që është urdhëruar në Librat e Dekretit Tënd.
 
 Lëvduar qofsh Ti, O Perëndia im, që u zgjuam për shkëlqimet e dritës së dijes Sate. Dërgo, pra, mbi ne, O Zoti im, atë që do të na bëjë të aftë të lëmë mënjanë këdo veç Teje, të shkëputemi nga dashuria për cilindo veç Teje. Veç kësaj, shkruaj për mua dhe për ata që janë të shtrenjtë për mua, për farefisin tim, burra a gra qofshin, mirësitë e kësaj bote dhe të botës që do të vijë. Na ruaj shëndoshë e mirë me anë të mbrojtjes Sate të sigurt, O Ti i Shumëdashuri i gjithë krijimit dhe Dëshira e mbarë universit, nga ata që ti i ke bërë manifestime të Pëshpëritësit të Mbrapshtë, të cilët pëshpërisin në gjokset e njerëzve. I pushtetshëm je Ti për të bërë ashtu si të pëlqen. Ti je, me të vërtetë, Fuqiploti, Ndihma në Rrezik, i Vetëqenëshmi.
@@ -1078,24 +995,21 @@ Bekoje, O Zot Perëndia im, Atë Që Ti e ke vendosur mbi Titujt e Tu më të sh
 
 Ti je, me të vërtetë, Zoti e Mbreti i gjithë njerëzve dhe ke pushtet mbi të gjitha gjërat.
 
-(Source category: Mëngjes)
-(Bahaiprayers.net ID: 2794)
+-- Bahá'u'lláh
 
+bpn2794 «[Shqip](../sq/#bpn2794)» 
 
-«[Shqip](../sq/#bpn2794)» 
-
+----
 
 
 <a id="bpn2795"></a> 
-### Prayer bpn2795 in Shqip
 U zgjova nën strehën Tënde, O Perëndia im, dhe u bëra ai që e kërkon këtë strehë brenda Tempullit të mbështetjes Sate e Fortesës së mbrojtjes Sate. Ndriçoje qenien time të brendshme, O Zoti im, me shkëlqimet e Agimit të Revelacionit Tënd, ashtu siç ke ndriçuar qenien time të jashtme me dritën mëngjesore të favorit Tënd.
 
-(Source category: Mëngjes)
-(Bahaiprayers.net ID: 2795)
+-- Bahá'u'lláh
 
+bpn2795 «[Shqip](../sq/#bpn2795)» 
 
-«[Shqip](../sq/#bpn2795)» 
-
+----
 
 
 
@@ -1103,77 +1017,66 @@ U zgjova nën strehën Tënde, O Perëndia im, dhe u bëra ai që e kërkon kët
 ## Mësimdhënia
 
 <a id="bpn2796"></a> 
-### Prayer bpn2796 in Shqip
 Lëvduar qoftë Emri Yt, O Zot, Perëndia im! Ti e sheh sesi vështrimi im është përqendruar në favoret e Tua plot përkujdesje dhe si i kam ngulur sytë te horizonti i hirit Tënd, sesi duart e mia janë shtrirë drejt qiellit të dhuratave të Tua. Ti më je dëshmitar! Çdo gjymtyrë e trupit tim të thërret Ty dhe thotë: "O Ti që je i Shumëdashuri i botëve dhe Zoti i gjithçkaje në qiell e mbi tokë, e vetmja Dëshirë e zemrave që të janë përkushtuar Ty! Unë të lutem, për Oqeanin Tënd, ku Ti ke thirrur të gjithë banorët e qiellit dhe të gjithë ata që jetojnë mbi tokë, t'i ndihmosh shërbëtorët e Tu të cilëve nuk u është lejuar të shkojnë atje dhe t'u aviten brigjeve të Tij. Bëji, pra, ata, O Perëndia im, të shkëputen nga gjithçka tjetër veç Teje, dhe jepu mundësinë të të thurin lavde Ty e të ngrenë lart virtytet e Tua. Jepu atyre, veç kësaj, O Perëndia im, Verën e zgjedhur të mëshirës Sate, që t'i bëjë ata të harrojnë cilindo qoftë veç Teje, të ngrihen e t'i shërbejnë Kauzës Sate dhe të jenë të patundur në dashurinë e tyre për Ty. Ti je, me të vërtetë, Zoti i jetëve të tyre dhe Objekti i adhurimit të tyre. Në qoftë se ata largohen prej Teje, kush do të kujdeset për ta; dhe në qoftë se ata mërgohen larg Teje, kush do të mund t'i ndihmonte t'i aviteshin Pranisë Sate? Unë betohem për fuqinë Tënde! Asnjë skutë ku të futin kokën nuk ka veç Teje, dhe asnjë strehë nuk gjendet veç strehës Sate, dhe asnjë mbrojtje veç mbrojtjes Sate. Mjer ai që ka marrë si Zot cilindo qoftë veç Teje, dhe lum ata që kanë flakur çdo lidhje me të gjithë banorët e tokës Sate e janë kapur pas cepit të bujarisë Sate. Këta! njerëzit e Bahá-it, para të gjithë atyre që ndodhen në qiell e mbi tokë. Nuk ka Perëndi tjetër veç Teje, të Gjithëdijshmit, Urtiplotit."
 
 Lëvduar qoftë Perëndia, Zoti i të gjitha botëve.
 
-(Source category: Mësimdhënia)
-(Bahaiprayers.net ID: 2796)
+-- Bahá'u'lláh
 
+bpn2796 «[Shqip](../sq/#bpn2796)» 
 
-«[Shqip](../sq/#bpn2796)» 
-
+----
 
 
 <a id="bpn2797"></a> 
-### Prayer bpn2797 in Shqip
 O Perëndi! O Perëndi! Ky është një zog krahëthyer dhe fluturimi i tij është shumë i ngadalshëm - ndihmoje atë që të fluturojë drejt majave të begatisë e të shpëtimit, që ta bëjë rrugën e tij, me gëzimin e lumturinë më të madhe, përmes hapësirës së pakufishme, që ta ngrejë melodinë e tij në Emrin Tënd Më të Lartë në të gjitha krahinat, të kënaqë veshët me këtë thirrje dhe të ndriçojë sytë duke soditur shenjat udhërrëfyese!
 
 O Zot! Unë jam një i vetëm, i vetmuar e i këputur. Nuk ka tjetër mbështetje për mua veç Teje, asnjë që të më ndihmojë përveç Teje dhe asnjë përkrahës veçse Ti. Më mbështet në shërbimin Tënd, më ndihmo me aradhat e engjëjve të Tu, më bëj fitimtar në përhapjen e Fjalës Sate dhe më lejo të shpreh urtinë Tënde midis krijesave të Tua. Me të vërtetë, Ti je përkrahësi i të dobëtit dhe mbrojtësi i të vegjëlve, dhe me të vërtetë, Ti je i Pushtetshmi, i Fuqishmi dhe i Padetyruari!
 
-(Source category: Mësimdhënia)
-(Bahaiprayers.net ID: 2797)
+-- Abdu'l-Bahá
 
+bpn2797 «[Shqip](../sq/#bpn2797)» 
 
-«[Shqip](../sq/#bpn2797)» 
-
+----
 
 
 <a id="bpn2798"></a> 
-### Prayer bpn2798 in Shqip
 O Perëndia im, ndihmoje shërbëtorin Tënd të shpallë Fjalën e të flakë atë që është e kotë dhe e rreme, të vendosë të vërtetën, të përhapë ngado vargjet e shenjta, të revelojë shkëlqimet, dhe ta bëjë dritën e mëngjesit të agojë në zemrat e të drejtëve.
 
 Ti je, me të vërtetë, Zemërgjeri, Falësi.
 
-(Source category: Mësimdhënia)
-(Bahaiprayers.net ID: 2798)
+-- Abdu'l-Bahá
 
+bpn2798 «[Shqip](../sq/#bpn2798)» 
 
-«[Shqip](../sq/#bpn2798)» 
-
+----
 
 
 <a id="bpn2799"></a> 
-### Prayer bpn2799 in Shqip
 O Ti Perëndi i pakrahasueshëm! O Ti Zoti i Mbretërisë! Këta shpirtra janë ushtria Jote qiellore. Ndihmoji ata me aradhat e Grupimit Suprem, bëji ata fitimtarë, në mënyrë që cilido prej tyre të bëhet si një regjiment e t'i pushtojë kombet nëpërmjet dashurisë së Perëndisë dhe ndriçimit të mësimeve hyjnore.
 
 O Perëndi! Bëhu përkrahësi e ndihmësi i tyre dhe në shkretëtirë, në male, në lugina, në pyje, në fusha e në dete bëhu i besuari i tyre - në mënyrë që ata të ngrejnë zërin, përmes pushtetit të Mbretërisë dhe frymës së Shpirtit të Shenjtë!
 
 Me të vërtetë, Ti je i Pushtetshmi, i Fuqishmi dhe Ai që ka në dorë gjithçka, dhe Ti je i Urti, Dëgjuesi dhe Shikuesi.
 
-(Source category: Mësimdhënia)
-(Bahaiprayers.net ID: 2799)
+-- Abdu'l-Bahá
 
+bpn2799 «[Shqip](../sq/#bpn2799)» 
 
-«[Shqip](../sq/#bpn2799)» 
-
+----
 
 
 <a id="bpn2800"></a> 
-### Prayer bpn2800 in Shqip
 O Perëndi, Perëndia im! Ndihmoji shërbëtorët e Tu të besuar që të kenë dashuri e dhembshuri në zemrat e tyre. Ndihmoji ata të përhapin, në mes të gjitha kombeve të tokës, dritën e udhëheqjes që vjen nga Kompania qiellore. Me të vërtetë, Ti je i Forti, i Pushtetshmi, i Fuqishmi, Ai që Nënshtron Gjithçka, Gjithmonëdhënësi. Me të vërtetë, Ti je Zemërgjeri, i Ëmbli, i Buti, Më Bujari.
 
-(Source category: Mësimdhënia)
-(Bahaiprayers.net ID: 2800)
+-- Abdu'l-Bahá
 
+bpn2800 «[Shqip](../sq/#bpn2800)» 
 
-«[Shqip](../sq/#bpn2800)» 
-
+----
 
 
 <a id="bpn2801"></a> 
-### Prayer bpn2801 in Shqip
 ##Reveluar Bahá'í-ve të Shteteve Qendrore
 
 
@@ -1185,12 +1088,11 @@ O Zot! Më mbështet me Shpirtin e Shenjtë, që unë të ngrej zërin në Emrin
 
 O Zot! Unë jam i dobët, më forco me pushtetin e fuqinë Tënde. Gjuha ime belbëzon, bëj që unë të shqiptoj përkujtimin e lavdërimet për Ty. Unë jam i përvuajtur, më ndero duke më pranuar në mbretërinë Tënde. Unë jam i largët, bëj që unë të avitem te pragu i përdëllimit Tënd. O Zot! Më bëj mua një llambë që shkëlqen, një yll të shndritshëm e një pemë të bekuar, të stolisur me fruta, me degët që i japin hije të gjitha këtyre anëve. Me të vërtetë, Ti je i Fuqishmi, i Pushtetshmi e i Padetyruari.
 
-(Source category: Mësimdhënia)
-(Bahaiprayers.net ID: 2801)
+-- Abdu'l-Bahá
 
+bpn2801 «[Shqip](../sq/#bpn2801)» 
 
-«[Shqip](../sq/#bpn2801)» 
-
+----
 
 
 
@@ -1198,35 +1100,31 @@ O Zot! Unë jam i dobët, më forco me pushtetin e fuqinë Tënde. Gjuha ime bel
 ## Natë
 
 <a id="bpn2802"></a> 
-### Prayer bpn2802 in Shqip
 O Perëndia im, Mjeshtri im, Qëllimi i dëshirës sime! Ky, shërbëtori Yt, kërkon të flejë nën strehën e mëshirës Sate dhe të pushojë nën tendën e mirësisë Sate, duke u lutur t'i japësh kujdesin Tënd e mbrojtjen Tënde.
 
 Unë të lutem Ty, O Zoti im, për syrin Tënd që nuk fle, t'i ruash sytë e mi nga soditja e çdo gjëje tjetër veç Teje. Forcoje, pra, pamjen e tyre, që të mund të shquajnë shenjat e Tua dhe të shikojnë Horizontin e Revelacionit Tënd. Ti je Ai, para revelacionit të gjithëfuqisë së të Cilit është dridhur thelbi i pushtetit.
 
 Nuk ka Perëndi veç Teje, Fuqiplotit, Gjithënënshtruesit, të Pakushtëzuarit.
 
-(Source category: Natë)
-(Bahaiprayers.net ID: 2802)
+-- Bahá'u'lláh
 
+bpn2802 «[Shqip](../sq/#bpn2802)» 
 
-«[Shqip](../sq/#bpn2802)» 
-
+----
 
 
 <a id="bpn2803"></a> 
-### Prayer bpn2803 in Shqip
 Si mund të zgjedh gjumin, O Perëndi, Perëndia im, kur sytë e atyre që dëshirohen për Ty janë të hapur për shkak të ndarjes prej Teje; dhe si mundem unë të prehem, ndërsa shpirtrat e të dashurve të Tu janë të shqetësuar sepse ndodhen larg pranisë Sate?
 
 Unë i kam vendosur, O Zoti im, shpirtin dhe qenien time të brendshme në anën e djathtë të fuqisë Sate e të mbrojtjes Sate, dhe e kam mbështetur kokën mbi jastëkun tim përmes pushtetit Tënd dhe e kam ngritur sipas vullnetit Tënd e pëlqimit Tënd. Ti je, me të vërtetë, Ruajtësi, Mbajtësi, Fuqiploti, Më i Pushtetshmi.
 
 Për fuqinë Tënde! Nuk dua tjetër gjë, kur fle ose jam zgjuar, veç asaj që dëshiron Ti. Unë jam shërbëtori Yt e në duart e Tua. Ki mirësinë e më ndihmo të bëj atë që do të përhapë aromën e pëlqimit Tënd. Kjo, me të vërtetë, është shpresa ime dhe shpresa e atyre që gëzojnë afrinë Tënde. Lëvduar qofsh Ti, O Zot i botëve!
 
-(Source category: Natë)
-(Bahaiprayers.net ID: 2803)
+-- Bahá'u'lláh
 
+bpn2803 «[Shqip](../sq/#bpn2803)» 
 
-«[Shqip](../sq/#bpn2803)» 
-
+----
 
 
 
@@ -1234,91 +1132,77 @@ Për fuqinë Tënde! Nuk dua tjetër gjë, kur fle ose jam zgjuar, veç asaj që
 ## Ndihma
 
 <a id="bpn2805"></a> 
-### Prayer bpn2805 in Shqip
 O Perëndia im! Të kërkoj Ty, për Emrin Tënd më të lavdishëm, të më ndihmosh në atë që do t'i bëjë punët e shërbëtorëve të Tu të përparojnë dhe qytetet e Tua të lulëzojnë. Me të vërtetë, Ti ke pushtet mbi të gjitha gjërat!
 
-(Source category: Ndihma)
-(Bahaiprayers.net ID: 2805)
+-- Bahá'u'lláh
 
+bpn2805 «[Shqip](../sq/#bpn2805)» 
 
-«[Shqip](../sq/#bpn2805)» 
-
+----
 
 
 <a id="bpn2806"></a> 
-### Prayer bpn2806 in Shqip
 O Ti, sprovat e të Cilit janë ilaç shërues për ata që ndodhen pranë Teje, shpata e të Cilit është dëshira e zjarrtë e të gjithë atyre që të duan Ty, heshta e të Cilit është dëshira më e shtrenjtë e atyre zemrave që digjen për Ty, urdhri i të Cilit është e vetmja shpresë e atyre që e kanë njohur të vërtetën Tënde! Unë të përgjërohem për ëmbëlsinë Tënde hyjnore dhe për shkëlqimin e lavdisë së Fytyrës Sate, të na dërgosh nga streha Jote atje lart atë që do të na japë mundësi të avitemi pranë Teje. Bëj, pra, O Perëndia im, që këmbët tona të qëndrojnë të patundura në Kauzën Tënde, dhe ndriçoji zemrat tona me shkëlqimin e dijes Sate, dhe ndriti gjokset tanë me ndriçimin e emrave të Tu.
 
-(Source category: Ndihma)
-(Bahaiprayers.net ID: 2806)
+-- Bahá'u'lláh
 
+bpn2806 «[Shqip](../sq/#bpn2806)» 
 
-«[Shqip](../sq/#bpn2806)» 
-
+----
 
 
 <a id="bpn2807"></a> 
-### Prayer bpn2807 in Shqip
 Jini të duruar në të gjitha kushtet dhe mbështeteni tërësisht besimin e shpresën tuaj te Perëndia.
 
-(Source category: Ndihma)
-(Bahaiprayers.net ID: 2807)
+-- Bahá'u'lláh
 
+bpn2807 «[Shqip](../sq/#bpn2807)» 
 
-«[Shqip](../sq/#bpn2807)» 
-
+----
 
 
 <a id="bpn2808"></a> 
-### Prayer bpn2808 in Shqip
 A ka ndonjë Largues të vështirësive veç Perëndisë? Thuaj: Lëvduar qoftë Perëndia! Ai është Perëndia! Të gjithë janë shërbëtorët e Tij dhe të gjithë u përmbahen urdhrave të Tij.
 
-(Source category: Ndihma)
-(Bahaiprayers.net ID: 2808)
+-- Báb
 
+bpn2808 «[Shqip](../sq/#bpn2808)» 
 
-«[Shqip](../sq/#bpn2808)» 
-
+----
 
 
 <a id="bpn2809"></a> 
-### Prayer bpn2809 in Shqip
 Thuaj: Perëndia është i mjaftueshëm në gjithçka e mbi gjithçka, dhe asgjë në qiell ose mbi tokë, por veç Perëndia, është i mjaftueshëm. Me të vërtetë, Ai është në Vetvete Njohësi, Mbështetësi, i Gjithëfuqishmi.
 
-(Source category: Ndihma)
-(Bahaiprayers.net ID: 2809)
+-- Báb
 
+bpn2809 «[Shqip](../sq/#bpn2809)» 
 
-«[Shqip](../sq/#bpn2809)» 
-
+----
 
 
 <a id="bpn2810"></a> 
-### Prayer bpn2810 in Shqip
 O Zot! Për të të ardhur keq jemi ne, dhurona favorin Tënd; të varfër jemi, jepna një pikë nga oqeani i pasurisë Sate; të skamur jemi, plotësona nevojat; të poshtëruar jemi, jepna lavdinë Tënde. Shpendët e ajrit dhe egërsirat e fushës marrin çdo ditë ushqimin prej Teje dhe të gjitha qëniet gëzojnë kujdesin dhe dashamirësinë Tënde.
 
 Mos ia moho këtij të dobëti mirësinë Tënde të mrekullueshme dhe siguroja me fuqinë Tënde këtij të pashpresi bujarinë Tënde.
 
 Jepna bukën tonë të përditshme dhe dhurona shtesën Tënde në nevojat e jetës, që të mos jemi të varur prej askujt veç Teje, që të lidhemi tërësisht me Ty, të ecim në rrugët e Tua dhe të shpallim misteret e Tua. Ti je Fuqiploti, Mirëdashësi dhe Dhënësi i gjithë njerëzimit.
 
-(Source category: Ndihma)
-(Bahaiprayers.net ID: 2810)
+-- Abdu'l-Bahá
 
+bpn2810 «[Shqip](../sq/#bpn2810)» 
 
-«[Shqip](../sq/#bpn2810)» 
-
+----
 
 
 <a id="bpn2811"></a> 
-### Prayer bpn2811 in Shqip
 O Zot, Perëndia im! Ndihmoji të dashurit e Tu të jenë të vendosur në Besimin Tënd, të ecin në rrugët e Tua, të jenë të qëndrueshëm në Kauzën Tënde. Jepu atyre hirin Tënd për t'u qëndruar sulmeve të vetes e të pasionit, për të ndjekur dritën e udhëheqjes hyjnore. Ti je i Pushtetshmi, i Hirshmi, i Vetëqenëshmi, Dhuruesi, i Dhembshuri, i Gjithëfuqishmi, Bujariploti.
 
-(Source category: Ndihma)
-(Bahaiprayers.net ID: 2811)
+-- Abdu'l-Bahá
 
+bpn2811 «[Shqip](../sq/#bpn2811)» 
 
-«[Shqip](../sq/#bpn2811)» 
-
+----
 
 
 
@@ -1326,7 +1210,6 @@ O Zot, Perëndia im! Ndihmoji të dashurit e Tu të jenë të vendosur në Besim
 ## Ndjesa
 
 <a id="bpn2764"></a> 
-### Prayer bpn2764 in Shqip
 *(Lutje nga i nënti Lajm i Gëzuar i Bahá'u'lláh-ut)
 
 ...Rrëfimi i mëkateve e i gabimeve para qenieve njerëzore nuk është i lejueshëm,...Mëkatari duhet që, midis vetes së tij dhe Zotit, të kërkojë mëshirë nga Oqeani i mëshirës, të lypë ndjesë nga Qielli i zemërgjerësisë dhe të thotë:
@@ -1342,50 +1225,43 @@ Të lutem Ty, për Atë që është Zoti sovran i Emrave, të shkruash për mua 
 
 Me të vërtetë, Ti je i Pushtetshmi, Bujari. Nuk ka Perëndi tjetër veç Teje, të Fuqishmit, të Hirshmit.
 
-(Source category: Ndjesa)
-(Bahaiprayers.net ID: 2764)
+-- Bahá'u'lláh
 
+bpn2764 «[Shqip](../sq/#bpn2764)» 
 
-«[Shqip](../sq/#bpn2764)» 
-
+----
 
 
 <a id="bpn2765"></a> 
-### Prayer bpn2765 in Shqip
 Lëvduar qofsh Ti, O Zot. Na i fal mëkatet tona, ki mëshirë për ne dhe bëna të aftë të kthehemi drejt Teje. Bëna të mos mbështetemi në asgjë tjetër veç Teje dhe denjo të na japësh, përmes bujarisë Sate, atë që do dëshiroje Ti dhe që të vjen për mbarë Ty. Lartësoje pozitën e atyre që vërtet kanë besuar dhe fali ata me ndjesën Tënde të hirshme.
 
 Me të vërtetë Ti je Ndihma në Rrezik, i Vetëqenëshmi.
 
-(Source category: Ndjesa)
-(Bahaiprayers.net ID: 2765)
+-- Báb
 
+bpn2765 «[Shqip](../sq/#bpn2765)» 
 
-«[Shqip](../sq/#bpn2765)» 
-
+----
 
 
 <a id="bpn2766"></a> 
-### Prayer bpn2766 in Shqip
 O Perëndia im, O Zoti im, O Mjeshtri im! Unë të lutem të më falësh që kam kërkuar çfarëdolloj kënaqësie tjetër veç dashurisë Sate, ose çfarëdolloj rehatie veç afrisë Sate, ose çfarëdolloj kënaqësie veç pëlqimit Tënd, ose çfarëdolloj ekzistencë tjetër veç lidhjes me Ty.
 
-(Source category: Ndjesa)
-(Bahaiprayers.net ID: 2766)
+-- Báb
 
+bpn2766 «[Shqip](../sq/#bpn2766)» 
 
-«[Shqip](../sq/#bpn2766)» 
-
+----
 
 
 <a id="bpn2767"></a> 
-### Prayer bpn2767 in Shqip
 O Ti Zot që fal! Ti je streha e të gjithë shërbëtorëve të Tu. Ti i di të fshehtat dhe i njeh të gjitha gjërat. Ne të gjithë jemi të pafuqishëm dhe Ti je i Fuqishmi, Ai që ka në dorë gjithçka. Ne të gjithë jemi mëkatarë, dhe Ti je Falësi i mëkateve, i Mëshirshmi, Zemërdhembshuri. O Zot! Mos i vër re të metat tona. Vepro me ne sipas dashamirësisë e bujarisë Sate. Të metat tona janë të shumta, por oqeani i ndjesës Sate është i pakufishëm. Dobësia jonë është e madhe, por faktet e ndihmës e të mbështetjes Sate janë të dukshme. Prandaj na përkrah e na forco. Na jep mundësi të bëjmë atë që është e denjë për Pragun Tënd të shenjtë. Ndriçoji zemrat tona, na dhuro sy që shohin e veshë të vëmendshëm. Ringjall të vdekurit dhe shëro të sëmurët. Jepu pasuri të varfërve dhe paqe e siguri atyre që kanë frikë. Pranona në mbretërinë Tënde dhe ndriçona me dritën e udhërrëfimit. Ti je Zemërgjeri. Ti je Zemërdhembshuri. Ti je i Miri.
 
-(Source category: Ndjesa)
-(Bahaiprayers.net ID: 2767)
+-- Abdu'l-Bahá
 
+bpn2767 «[Shqip](../sq/#bpn2767)» 
 
-«[Shqip](../sq/#bpn2767)» 
-
+----
 
 
 
@@ -1393,19 +1269,16 @@ O Ti Zot që fal! Ti je streha e të gjithë shërbëtorëve të Tu. Ti i di të
 ## Njerëzimi
 
 <a id="bpn2814"></a> 
-### Prayer bpn2814 in Shqip
 O Perëndi! Ne jemi të dobët; jepna fuqi. Ne jemi të varfër; dhurona thesaret e Tua të pafund. Ne jemi të sëmurë; jepna neve shërimin Tënd hyjnor. Ne jemi të pafuqishëm; jepna fuqinë Tënde hyjnore. O Zot! Bëna të dobishëm në këtë botë; çlirona nga sundimi i egoizmit e i dëshirës. O Zot! Bëna të palëkundur në dashurinë Tënde dhe dashamirës ndaj gjithë njerëzimit. Mbështetna në shërbimin ndaj botës së njerëzimit, që ne të bëhemi shërbëtorë të shërbëtorëve të Tu, që ne t'i duam të gjitha krijesat e Tua dhe të bëhemi zemërgjerë ndaj të gjithë njerëzve të Tu. O Zot! Ti je Fuqiploti! Ti je i Mëshirshmi! Ti je Falësi! Ti je Ai që ka në dorë gjithçka!
 
-(Source category: Njerëzimi)
-(Bahaiprayers.net ID: 2814)
+-- Abdu'l-Bahá
 
+bpn2814 «[Shqip](../sq/#bpn2814)» 
 
-«[Shqip](../sq/#bpn2814)» 
-
+----
 
 
 <a id="bpn2813"></a> 
-### Prayer bpn2813 in Shqip
 O Ti Zot i mirë! Ti e ke krijuar gjithë njerëzimin nga i njëjti material. Ti ke vendosur që të gjithë i përkasin së njëjtës familje. Në Praninë Tënde të Shenjtë ata janë të gjithë shërbëtorët e Tu dhe gjithë njerëzit strehohen në Faltoren Tënde; të gjithë mblidhen së bashku në Tryezën Tënde të Bujarisë; të gjithë ndriçohen nëpërmjet dritës së Providencës Sate.
 
 O Perëndi! Ti je i mirë me të gjithë, Ti kujdesesh për të gjithë, i strehon të gjithë, u jep jetë të gjithëve. Ti i ke pajisur të gjithë pa përjashtim me talente e aftësi, dhe të gjithë janë zhytur në Oqeanin e Mëshirës Sate.
@@ -1420,12 +1293,11 @@ O Ti atë i Mirë, Perëndi! Gëzoji zemrat tona me aromën e dashurisë Sate. N
 
 Ti je i Fuqishmi e i Pushtetshmi, Ti je Falësi dhe Ti je Ai që nuk i vë re të metat e gjithë njerëzimit.
 
-(Source category: Njerëzimi)
-(Bahaiprayers.net ID: 2813)
+-- Abdu'l-Bahá
 
+bpn2813 «[Shqip](../sq/#bpn2813)» 
 
-«[Shqip](../sq/#bpn2813)» 
-
+----
 
 
 
@@ -1433,7 +1305,6 @@ Ti je i Fuqishmi e i Pushtetshmi, Ti je Falësi dhe Ti je Ai që nuk i vë re t�
 ## Novruzi
 
 <a id="bpn2854"></a> 
-### Prayer bpn2854 in Shqip
 *Novruzi, 21 mars, është dita e parë e vitit Bahá'í dhe një ditë gëzimi e mikpritjeje.
 
 *Festa e Novruzit duhet të mbahet më 21 mars para perëndimit të diellit dhe nuk ka të bëjë fare me Festën e 19 Ditëve. Festa e 19 Ditëve është administrative për nga funksioni, kurse Novruzi është Viti ynë i Ri, një Festë mikpritjeje dhe gëzimi. - Shoghi Effendi
@@ -1450,12 +1321,11 @@ Ai që është Dega Jote dhe gjithë shoqëria Jote, O Zoti im, e ka prishur kë
 
 Ti je, me të vërtetë, i Gjithëdijshmi, Urtiploti.
 
-(Source category: Novruzi)
-(Bahaiprayers.net ID: 2854)
+-- Bahá'u'lláh
 
+bpn2854 «[Shqip](../sq/#bpn2854)» 
 
-«[Shqip](../sq/#bpn2854)» 
-
+----
 
 
 
@@ -1463,17 +1333,15 @@ Ti je, me të vërtetë, i Gjithëdijshmi, Urtiploti.
 ## Nënat e pritshme
 
 <a id="bpn2812"></a> 
-### Prayer bpn2812 in Shqip
 Zoti im! Zoti im! Të lëvdoj e të falënderoj për ato që i ke dhënë shërbëtores Sate të përunjur, skllaves Sate që të lutet e të përgjërohet Ty, sepse Ti me të vërtetë e ke udhëhequr atë në Mbretërinë Tënde të dukshme dhe ke bërë që ajo të dëgjojë Thirrjen Tënde të frymëzuar në botën e përkohshme dhe të shohë shenjat e Tua, që provojnë ardhjen e sundimit Tënd fitimtar mbi të gjitha gjërat.
 
 O Zoti im, unë ta përkushtoj Ty atë që është në barkun tim. Bëj, pra, që ai të jetë një fëmijë i denjë e me fat në Mbretërinë Tënde, në sajë të favorit Tënd e të zemërmirësisë Sate; që ai të zhvillohet e të rritet nën kujdesin e edukimit Tënd. Me të vërtetë, Ti je Zemërmiri! Me të vërtetë, Ti je Zoti i Favorit të madh!
 
-(Source category: Nënat e pritshme)
-(Bahaiprayers.net ID: 2812)
+-- Abdu'l-Bahá
 
+bpn2812 «[Shqip](../sq/#bpn2812)» 
 
-«[Shqip](../sq/#bpn2812)» 
-
+----
 
 
 
@@ -1481,27 +1349,23 @@ O Zoti im, unë ta përkushtoj Ty atë që është në barkun tim. Bëj, pra, q�
 ## Prindërit
 
 <a id="bpn2818"></a> 
-### Prayer bpn2818 in Shqip
 Ti i shikon, O Zot, duart tona që luten të shtrira drejt qiellit të favorit e të bujarisë Sate. Bëj që ato të mbushen me thesaret e bollëkut e të favoreve të Tua bujare. Ndjena ne dhe etërit tanë e nënat tona, dhe plotësona gjithçka dëshirojmë nga oqeani i hirit e i bujarisë Sate Hyjnore. Pranoji, O i Shumëdashuri i zemrave tona, të gjitha bëmat tona në rrugën Tënde. Ti je, me të vërtetë, Më i Pushtetshmi, Më i Lavdëruari, i Pakrahasueshmi, i Vetmi, Falësi, i Hirshmi.
 
-(Source category: Prindërit)
-(Bahaiprayers.net ID: 2818)
+-- Bahá'u'lláh
 
+bpn2818 «[Shqip](../sq/#bpn2818)» 
 
-«[Shqip](../sq/#bpn2818)» 
-
+----
 
 
 <a id="bpn2819"></a> 
-### Prayer bpn2819 in Shqip
 O Zot! Në këtë Dispensacion Më të Madh, Ti e pranon ndërhyrjen e fëmijëve në favor të prindëve të Tyre. Kjo është një prej dhurëtive të pafundme e të posaçme të këtij Dispensacioni. Prandaj, O Ti Zot i mirë, pranoje kërkesën e këtij shërbëtori Tënd në pragun e vetësisë Sate dhe zhyte atin e tij në oqeanin e hirit Tënd, sepse ky bir u rrit për të të shërbyer Ty dhe bën vazhdimisht përpjekje në shtegun e dashurisë Sate. Me të vërtetë, Ti je Dhënësi, Falësi dhe i Miri!
 
-(Source category: Prindërit)
-(Bahaiprayers.net ID: 2819)
+-- Abdu'l-Bahá
 
+bpn2819 «[Shqip](../sq/#bpn2819)» 
 
-«[Shqip](../sq/#bpn2819)» 
-
+----
 
 
 
@@ -1509,7 +1373,6 @@ O Zot! Në këtë Dispensacion Më të Madh, Ti e pranon ndërhyrjen e fëmijëv
 ## Për të vdekurit
 
 <a id="bpn2815"></a> 
-### Prayer bpn2815 in Shqip
 *Kjo lutje duhet përdorur nga Bahá'í-të mbi moshën pesëmbëdhjetë vjeç. "Është e vetmja lutje e detyrueshme Bahá'í që duhet thënë në grumbullime; duhet të thuhet nga një besimtar, ndërsa gjithë të pranishmit qëndrojnë në këmbë. Nuk kërkohet të kthehet fytyra drejt Kiblës kur thuhet kjo lutje." - Kitáb-i Akdas
 
 O Perëndia im! Ky është shërbëtori Yt e bir i shërbëtorit Tënd, që ka besuar në Ty e në shenjat e Tua dhe e ka kthyer fytyrën ndaj Teje, krejt i shkëputur nga gjithçka veç Teje. Ti je, me të vërtetë, më i mëshirshmi ndër ata që tregojnë mëshirë.
@@ -1531,32 +1394,28 @@ Ne të gjithë, me të vërtetë, jemi të duruar në Perëndinë.
 
 *(Në qoftë se e ndjera është grua, ai të thotë: Kjo është shërbëtorja Jote dhe bijë e shërbëtores Sate, etj...)
 
-(Source category: Për të vdekurit)
-(Bahaiprayers.net ID: 2815)
+-- Bahá'u'lláh
 
+bpn2815 «[Shqip](../sq/#bpn2815)» 
 
-«[Shqip](../sq/#bpn2815)» 
-
+----
 
 
 <a id="bpn2816"></a> 
-### Prayer bpn2816 in Shqip
 Lavdia qoftë mbi Ty, O Zot, Perëndia im! Mos e poshtëro atë që Ti e ke lartësuar përmes fuqisë së sovranitetit Tënd të përjetshëm dhe mos e largo prej Teje atë që Ti e ke bërë të hyjë në faltoren e përjetësisë Sate. A do ta flakësh tutje, O Perëndia im, atë që Ti e ke strehuar nën Pushtetin Tënd dhe a do të largohesh Ti, O Dëshira ime, prej atij për të cilin Ti ke qenë mbrojtje? A mund ta ulësh Ti atë që e ke ngritur lart, apo të harrosh atë që Ti e ke bërë të aftë për të të kujtuar Ty?
 
 I lavdëruar, pafundësisht i lavdëruar je Ti! Ti je Ai që përjetësisht ke qenë Mbreti i gjithë krijimit e Lëvizësi i Parë, dhe Ti do të mbetesh në përjetësi Zoti i të gjitha krijesave dhe Urdhëruesi i tyre. I lavdëruar je Ti, O Perëndia im! Nëse Ti pushon së qeni i mëshirshëm me shërbëtorët e Tu, kush pra do të tregojë mëshirë për ta; dhe nëse Ti refuzon t'i ndihmosh të dashurit e Tu, kush mund t'i ndihmojë ata?
 
 I lavdëruar, pafundësisht i lavdëruar je Ti! Ti je i adhuruar në të vërtetën Tënde, dhe Ty, me të vërtetë, të adhurojmë ne të gjithë; Ti shfaqesh në drejtësinë Tënde dhe për Ty dëshmojmë, me të vërtetë, të gjithë ne. Ti je, vërtet, i shumëdashur në mirësinë Tënde. Nuk ka tjetër Perëndi veç Teje, Ndihmës në Rrezik, të Vetëqenëshmit.
 
-(Source category: Për të vdekurit)
-(Bahaiprayers.net ID: 2816)
+-- Bahá'u'lláh
 
+bpn2816 «[Shqip](../sq/#bpn2816)» 
 
-«[Shqip](../sq/#bpn2816)» 
-
+----
 
 
 <a id="bpn2817"></a> 
-### Prayer bpn2817 in Shqip
 *"Vdekja i ofron çdo besimtari besnik kupën që është jeta e vërtetë...Ajo dhuron dhuntinë e jetës së përjetshme." - Bahá’u’lláh
 
 
@@ -1566,12 +1425,11 @@ Me të vërtetë, unë të lutem t'i falësh mëkatet e atyre që e kanë brakti
 
 O Zoti im! Pastroji ata nga gabimet, largoji hidhërimet e tyre dhe ktheje errësirën e tyre në dritë. Bëj që ata të hyjnë në kopshtin e lumturisë, pastroji ata me ujin më të kulluar dhe bëji të shikojnë shkëlqimet e Tua mbi malin më të lartë.
 
-(Source category: Për të vdekurit)
-(Bahaiprayers.net ID: 2817)
+-- Abdu'l-Bahá
 
+bpn2817 «[Shqip](../sq/#bpn2817)» 
 
-«[Shqip](../sq/#bpn2817)» 
-
+----
 
 
 
@@ -1579,85 +1437,72 @@ O Zoti im! Pastroji ata nga gabimet, largoji hidhërimet e tyre dhe ktheje errë
 ## Rritja shpirtërore
 
 <a id="bpn2820"></a> 
-### Prayer bpn2820 in Shqip
 Krijo tek unë një zemër të kulluar, O Perëndia im, dhe përtëri një ndërgjegje të qetë brenda meje, O Shpresa ime! Përmes shpirtit të pushtetshëm mbështetmë në Kauzën Tënde, O Më i Shumëdashuri im, dhe me dritën e lavdisë Sate zbulo para meje shtegun Tënd, O Ti qëllimi i dëshirës Sime! Nëpërmjet pushtetit të fuqisë Sate të përsosur, më ngrej në qiellin e shenjtërisë Sate, O Burimi i qenies sime, dhe me flladet e përjetësisë Sate më ngazëlle, O Ti që je Perëndia im! Le të më sjellin meloditë e Tua të përjetshme qetësinë, O Bashkudhëtari im, dhe thesaret e pamjes Sate të lashtë le të më çlirojnë nga gjithçka veç Teje, O Mjeshtri im, dhe lajmet e gëzuara të revelimit të Thelbit Tënd të pashkatërrueshëm le të më sjellin gëzim, O Ti që je më i dukshmi i të dukshmëve dhe më i fshehuri i të fshehurve!
 
-(Source category: Rritja shpirtërore)
-(Bahaiprayers.net ID: 2820)
+-- Bahá'u'lláh
 
+bpn2820 «[Shqip](../sq/#bpn2820)» 
 
-«[Shqip](../sq/#bpn2820)» 
-
+----
 
 
 <a id="bpn2821"></a> 
-### Prayer bpn2821 in Shqip
 Perëndia im, i Adhuruari im, Mbreti im, Dëshira ime! Cila gjuhë mund t'i shprehë falënderimet e mia për Ty? Isha i shkujdesur, por Ti më zgjove. Të kisha kthyer shpinën Ty, por Ti më ndihmove me dashamirësi të kthehem drejt Teje. Isha si i vdekur, por Ti më gjallërove me ujin e jetës. Isha i vyshkur, por Ti më ringjalle me rrëkenë qiellore të fjalës Sate, që ka buruar nga Penda e Mëshirëplotit.
 
 O Providencë Hyjnore! Çdo ekzistencë lind nga bujaria Jote; mos ia moho asaj ujërat e zemërgjerësisë Sate, as mos ia ndalo oqeanin e mëshirës Sate. Unë të lutem të më ndihmosh dhe të më përkrahësh vazhdimisht e në të gjitha rrethanat, dhe kërkoj nga qielli i hirit Tënd favorin Tënd të lashtë. Ti je, me të vërtetë, Zoti i bujarisë dhe Sovrani i mbretërisë së përjetësisë.
 
-(Source category: Rritja shpirtërore)
-(Bahaiprayers.net ID: 2821)
+-- Bahá'u'lláh
 
+bpn2821 «[Shqip](../sq/#bpn2821)» 
 
-«[Shqip](../sq/#bpn2821)» 
-
+----
 
 
 <a id="bpn2822"></a> 
-### Prayer bpn2822 in Shqip
 Thuaj: O Perëndi, Perëndia im! Stolise kokën time me kurorën e drejtësisë dhe ballin tim me ornamentin e barazisë. Ti, me të vërtetë, je Zotëruesi i të gjitha dhurëtive e bujarive.
 
-(Source category: Rritja shpirtërore)
-(Bahaiprayers.net ID: 2822)
+-- Bahá'u'lláh
 
+bpn2822 «[Shqip](../sq/#bpn2822)» 
 
-«[Shqip](../sq/#bpn2822)» 
-
+----
 
 
 <a id="bpn2827"></a> 
-### Prayer bpn2827 in Shqip
 O Zoti im! Bëje bukurinë Tënde ushqimin tim, dhe praninë Tënde pijen time, dhe kënaqësinë Tënde shpresën time, dhe lëvdimin Tënd veprimin tim, dhe përkujtimin tënd shoqëruesin tim, dhe fuqinë e sovranitetit Tënd përkrahësen time, dhe banesën Tënde shtëpinë time, dhe vendqëndrimin tim selinë që Ti e ke çliruar nga kufizimet që u vihen atyre që janë të ndarë si me një perde prej Teje.
 
 Ti je, me të vërtetë, i Gjithëfuqishmi, Lavdiploti, Më i Pushtetshmi.
 
-(Source category: Rritja shpirtërore)
-(Bahaiprayers.net ID: 2827)
+-- Bahá'u'lláh
 
+bpn2827 «[Shqip](../sq/#bpn2827)» 
 
-«[Shqip](../sq/#bpn2827)» 
-
+----
 
 
 <a id="bpn2823"></a> 
-### Prayer bpn2823 in Shqip
 O Perëndi, freskoje e gëzoje shpirtin tim. Dëlire zemrën time. Ndriçoji aftësitë e mia. Unë i lë të gjitha punët e mia në dorën Tënde. Ti je Udhërrëfyesi dhe Streha ime. Unë nuk do të jem më i trishtuar e i brengosur; do të jem një qenie e lumtur dhe e gëzuar. O Perëndi! Unë nuk do të jem më tërë ankth, dhe as do t'i lejoj telashet të më shqetësojnë. Unë nuk do të jetoj me gjërat e pakëndshme të jetës.
 
 O Perëndi, Ti je për mua më shumë mik, sesa jam unë për veten time. Unë ta përkushtoj vetveten Ty, O Zot.
 
-(Source category: Rritja shpirtërore)
-(Bahaiprayers.net ID: 2823)
+-- Abdu'l-Bahá
 
+bpn2823 «[Shqip](../sq/#bpn2823)» 
 
-«[Shqip](../sq/#bpn2823)» 
-
+----
 
 
 <a id="bpn2824"></a> 
-### Prayer bpn2824 in Shqip
 O Zot! Ne jemi të dobët; forcona. O Perëndi! Ne jemi injorantë; bëna të ditur. O Zot! Ne jemi të varfër; bëna të pasur. O Perëndi! Ne jemi të vdekur; jepna jetë. O Zot! Ne jemi poshtërimi vetë; lartësona në mbretërinë Tënde. Në qoftë se Ti na ndihmon, O Zot, ne do të bëhemi si yje vezullues. Në qoftë se Ti nuk na ndihmon, ne do të biem më poshtë se pluhuri. O Zot! Forcona. O Perëndi! Jepna fitoren. O Perëndi! Bëna të aftë të pushtojmë vetveten e të mposhtim dëshirën. O Zot! Çlirona nga zgjedha e botës materiale. O Zot! Gjallërona me frymën e Shpirtit të Shenjtë, që të ngrihemi e të të shërbejmë Ty, të të adhurojmë Ty dhe të përpiqemi në mbretërinë Tënde me sinqeritetin më të madh. O Zot! Ti je i Pushtetshëm! O Perëndi, Ti je Falësi! O Zot, Ti je Zemërdhembshuri!
 
-(Source category: Rritja shpirtërore)
-(Bahaiprayers.net ID: 2824)
+-- Abdu'l-Bahá
 
+bpn2824 «[Shqip](../sq/#bpn2824)» 
 
-«[Shqip](../sq/#bpn2824)» 
-
+----
 
 
 <a id="bpn2825"></a> 
-### Prayer bpn2825 in Shqip
 O Perëndi, Perëndia im! Ti je Shpresa ime dhe i Shumëdashuri im, Qëllimi dhe Dëshira ime më e lartë! Me përunjësinë më të madhe e me përkushtim të plotë, të lutem Ty më bëj mua minare të dashurisë Sate në tokën Tënde, dritë të dijes Sate midis krijesave të Tua dhe flamur të bujarisë hyjnore në mbretërinë Tënde.
 
 Më numëro midis atyre shërbëtorëve të Tu që e kanë shkëputur vetveten nga gjithçka veç Teje, që e kanë spastruar vetveten prej gjërave kalimtare të kësaj bote dhe e kanë çliruar veten nga joshjet e predikuesve të fantazive të kota.
@@ -1666,24 +1511,21 @@ Le të zgjerohet zemra ime prej gëzimit nëpërmjet frymës së mbështetjes ng
 
 Ti je, me të vërtetë, Fuqiploti, Lavdiploti, i Gjithëpushtetshmi.
 
-(Source category: Rritja shpirtërore)
-(Bahaiprayers.net ID: 2825)
+-- Abdu'l-Bahá
 
+bpn2825 «[Shqip](../sq/#bpn2825)» 
 
-«[Shqip](../sq/#bpn2825)» 
-
+----
 
 
 <a id="bpn2826"></a> 
-### Prayer bpn2826 in Shqip
 O Zoti im, i Shumëdashuri im, Dëshira ime! Më ji mik në vetminë time dhe shoqëromë në mërgimin tim. Hiqmi brengat e mia. Bëmë që t'i përkushtohem bukurisë Sate. Largomë nga gjithçka veç Teje. Tërhiqmë me aromat e Tua të shenjtërisë. Përfshimë në Mbretërinë Tënde bashkë me ata që janë ndarë nga gjithçka veç Teje, që digjen për t'i shërbyer pragut Tënd të shenjtë dhe që nuk kursehen të punojnë për Kauzën Tënde. Bëmë të aftë të jem një prej shërbëtoreve të Tua që ka arritur të ketë pëlqimin Tënd. Me të vërtetë, Ti je i Hirshmi, Zemërbujari.
 
-(Source category: Rritja shpirtërore)
-(Bahaiprayers.net ID: 2826)
+-- Abdu'l-Bahá
 
+bpn2826 «[Shqip](../sq/#bpn2826)» 
 
-«[Shqip](../sq/#bpn2826)» 
-
+----
 
 
 
@@ -1691,7 +1533,6 @@ O Zoti im, i Shumëdashuri im, Dëshira ime! Më ji mik në vetminë time dhe sh
 ## Shkëputja
 
 <a id="bpn2836"></a> 
-### Prayer bpn2836 in Shqip
 O Zot! Ty të drejtohem për strehë dhe ndaj të gjitha shenjave të Tua e ktheva zemrën.
 
 O Zot! Qoftë kur jam në udhëtim ose në shtëpi, në punë ose në profesionin tim, unë tërë besimin e mbështes tek Ti.
@@ -1702,24 +1543,21 @@ Jepmë mua pjesën time, O Zot, sa të dëshirosh Ti, dhe bëj që unë të kën
 
 Ty të takon autoriteti absolut për të urdhëruar.
 
-(Source category: Shkëputja)
-(Bahaiprayers.net ID: 2836)
+-- Báb
 
+bpn2836 «[Shqip](../sq/#bpn2836)» 
 
-«[Shqip](../sq/#bpn2836)» 
-
+----
 
 
 <a id="bpn2837"></a> 
-### Prayer bpn2837 in Shqip
 O Perëndia im, Zoti im dhe Mjeshtri im! Unë e kam shkëputur veten nga të afërmit e mi dhe kam kërkuar nëpërmjet Teje të bëhem i pavarur nga gjithçka që jeton mbi tokë, gjithmonë i gatshëm të marr atë që është e lavdërueshme në sytë e Tu. Më dhuro një mirësi të tillë që të më bëjë të pavarur nga gjithçka tjetër veç Teje, dhe më jep një pjesë më të madhe nga favoret e Tua të pakufishme. Me të vërtetë Ti je Zoti i hirit të pashtershëm.
 
-(Source category: Shkëputja)
-(Bahaiprayers.net ID: 2837)
+-- Báb
 
+bpn2837 «[Shqip](../sq/#bpn2837)» 
 
-«[Shqip](../sq/#bpn2837)» 
-
+----
 
 
 
@@ -1727,29 +1565,25 @@ O Perëndia im, Zoti im dhe Mjeshtri im! Unë e kam shkëputur veten nga të af�
 ## Shërimi
 
 <a id="bpn2834"></a> 
-### Prayer bpn2834 in Shqip
 Emri Yt është shërimi im, O Perëndia im, dhe kujtimi Yt është ilaçi im. Afërsia ndaj Teje është shpresa ime, dhe dashuria për Ty është bashkudhëtarja ime. Mëshira Jote për mua është shërimi im dhe shpëtimi im në këtë botë e në botën që do të vijë. Ti je, me të vërtetë, Bujariploti, i Gjithëdijshmi, Urtiploti.
 
-(Source category: Shërimi)
-(Bahaiprayers.net ID: 2834)
+-- Bahá'u'lláh
 
+bpn2834 «[Shqip](../sq/#bpn2834)» 
 
-«[Shqip](../sq/#bpn2834)» 
-
+----
 
 
 <a id="bpn2835"></a> 
-### Prayer bpn2835 in Shqip
 Ti je Ai, O Perëndia im, përmes emrave të të Cilit të sëmurët shërohen dhe shëndetligjtë rimëkëmben, të eturve u jepet për të pirë dhe plagëlënduarit qetësohen, të pabindurit udhëhiqen dhe të poshtëruarit lartësohen, të varfërit pasurohen dhe të paditurit ndriçohen, të trishtuarit çelen dhe të brengosurit gëzohen, të ngrirët ngrohen dhe të rrëzuarit ngrihen. Përmes emrit Tënd, O Perëndia im, të gjitha gjërat e krijuara u gjallëruan, qiejt u hapën dhe u krijua toka, retë u ngritën dhe derdhën shiun mbi tokë. Kjo, me të vërtetë, është simbol i Hirit Tënd për të gjitha krijesat e Tua.
 
 Unë të lutem, pra, për emrin Tënd, përmes të cilit Ti shfaqe Hyjninë Tënde dhe lartësove Kauzën Tënde mbi tërë krijimin, dhe për secilin prej titujve të Tu aq të shkëlqyer e prej atributeve më madhështore, dhe për të gjitha virtytet me të cilat Qenia Jote e përsosur e aq e lavdëruar është ngritur, të derdhësh këtë natë nga retë e mëshirës Sate shirat e shërimit Tënd mbi këtë foshnjë gjiri, të cilën Ti e ke lidhur me veten Tënde lavdiplote në mbretërinë e krijimit Tënd. Vishe, pra, atë, O Perëndia im, përmes mëshirës Sate, me rrobën e mirëqenies e të shëndetit, dhe ruaje, O i Shumëdashuri im, nga çdo hidhërim e pështjellim, dhe nga gjithçka e papëlqyeshme për Ty. Me të vërtetë, fuqia Jote është e barabartë me të gjitha gjërat. Ti, me të vërtetë, je Më i Pushtetshmi, i Vetëqenëshmi. Veç kësaj, dërgo poshtë, mbi të, O Perëndia im, të mirat e kësaj bote e të botës tjetër, dhe të mirat e brezave të kaluar e të atyre që do të vijnë. Fuqia Jote dhe urtia Jote, me të vërtetë, janë të barabarta me këtë.
 
-(Source category: Shërimi)
-(Bahaiprayers.net ID: 2835)
+-- Bahá'u'lláh
 
+bpn2835 «[Shqip](../sq/#bpn2835)» 
 
-«[Shqip](../sq/#bpn2835)» 
-
+----
 
 
 
@@ -1757,75 +1591,64 @@ Unë të lutem, pra, për emrin Tënd, përmes të cilit Ti shfaqe Hyjninë Tën
 ## Sprova e vështirësi
 
 <a id="bpn2828"></a> 
-### Prayer bpn2828 in Shqip
 Largoje brengën time me bujarinë e zemërgjerësinë Tënde, O Perëndi, Perëndia im, dhe largoje ankthin tim me sovranitetin Tënd e fuqinë Tënde. Ti më sheh, O Perëndia im, me fytyrën ndaj Teje, në një kohë që hidhërimet më kanë mbuluar nga të gjitha anët. Unë të lutem Ty, O Ti që je Zoti i çdo qenieje dhe që mbulon të gjitha gjërat, të dukshme e të padukshme, për Emrin Tënd, me të cilin Ti ke nënshtruar shpirtrat e zemrat e të gjithë njerëzve, dhe për valët e Oqeanit të mëshirës Sate e për shkëlqimet e Yllit të Agimit të bujarisë Sate, më radhit mua me ata që asgjë, çfarëdo qoftë, nuk i ka penguar t'i kthejnë fytyrat e tyre ndaj Teje, O Ti Zoti i të gjithë emrave e Formues i qiejve.
 
 Ti i shikon, O Zoti im, gjërat që më kanë ndodhur mua në ditët e Tua. Unë të lutem, për Atë që është Ditëburimi i emrave të Tu dhe Vendagimi i atributeve të Tua, të porositësh për mua atë që do të më bëjë të aftë të vihem në shërbimin Tënd dhe të lartësoj virtytet e Tua. Ti je, me të vërtetë, Fuqiploti, Më i Pushtetshmi, Ai që e ka zakon t'u përgjigjet lutjeve të të gjithë njerëzve!
 
 Dhe, së fundi, unë të lutem Ty, për dritën e fytyrës Sate, t'i bekosh punët e mia, t'i shlyesh borxhet e mia dhe t'i plotësosh nevojat e mia. Ti je Ai për pushtetin e për sundimin e të Cilit çdo gjuhë ka dëshmuar dhe që madhështinë e sovranitetin e të Cilit e ka njohur çdo zemër që kupton. Nuk ka asnjë Perëndi veç Teje, Që dëgjon dhe je i gatshëm të përgjigjesh.
 
-(Source category: Sprova e vështirësi)
-(Bahaiprayers.net ID: 2828)
+-- Bahá'u'lláh
 
+bpn2828 «[Shqip](../sq/#bpn2828)» 
 
-«[Shqip](../sq/#bpn2828)» 
-
+----
 
 
 <a id="bpn2833"></a> 
-### Prayer bpn2833 in Shqip
 I armatosur me fuqinë e emrit Tënd, asgjë nuk mund të më dëmtojë kurrë, dhe me dashurinë Tënde në zemër të gjitha vuajtjet e botës kurrsesi nuk mund të më shqetësojnë.
 
-(Source category: Sprova e vështirësi)
-(Bahaiprayers.net ID: 2833)
+-- Bahá'u'lláh
 
+bpn2833 «[Shqip](../sq/#bpn2833)» 
 
-«[Shqip](../sq/#bpn2833)» 
-
+----
 
 
 <a id="bpn2829"></a> 
-### Prayer bpn2829 in Shqip
 Unë të përgjërohem, për fuqinë Tënde, O Perëndia im! Asnjë dëm të mos më ndodhë në kohë sprovash, dhe në momente shkujdesjeje drejtoji hapat e mi me anë të frymëzimit Tënd. Ti je Perëndia, Ti e ke në dorë të bësh atë që dëshiron. Askush nuk mund t'i qëndrojë Vullnetit Tënd ose të prishë synimin Tënd.
 
-(Source category: Sprova e vështirësi)
-(Bahaiprayers.net ID: 2829)
+-- Báb
 
+bpn2829 «[Shqip](../sq/#bpn2829)» 
 
-«[Shqip](../sq/#bpn2829)» 
-
+----
 
 
 <a id="bpn2830"></a> 
-### Prayer bpn2830 in Shqip
 O Zot! Ti je Larguesi i çdo ankthi e Davaritësi i çdo të keqeje. Ti je Ai që mërgon çdo brengë dhe çliron çdo skllav, Shpëtimtari i çdo shpirti. O Zot! Jepmë çlirim nëpërmjet mëshirës Sate dhe më radhit mua midis shërbëtorëve të Tu që kanë fituar shëlbim.
 
-(Source category: Sprova e vështirësi)
-(Bahaiprayers.net ID: 2830)
+-- Báb
 
+bpn2830 «[Shqip](../sq/#bpn2830)» 
 
-«[Shqip](../sq/#bpn2830)» 
-
+----
 
 
 <a id="bpn2831"></a> 
-### Prayer bpn2831 in Shqip
 O Zoti im! Ti e di se njerëzit janë të rrethuar me dhembje e fatkeqësi dhe janë të pushtuar nga vështirësi e telashe. Gjithfarë sprovash e sulmojnë njeriun dhe gjithfarë gjëmash të frikshme e godasin atë si kafshim i një gjarpri. Nuk ka strehë e mbrojtje për të, veçse nën krahun e mbrojtjes, të ruajtjes, të kujdesit e të strehës që jep Ti.
 
 O Ti, i Mëshirshmi! O Zoti im! Bëje përkrahjen Tënde parzmoren time, ruajtjen Tënde mburojën time, përunjësinë para portës së njëshmërisë Sate rojen time dhe sigurimin e mbrojtjen Tënde fortesën e vendbanimin tim. Më ruaj nga tundimet e egos e të dëshirës dhe më mbro nga çdo sëmundje, sprovë, vështirësi e gjëmë.
 
 Me të vërtetë, Ti je Mbrojtësi, Mbikqyrësi, Ruajtësi, i Mjaftueshmi, dhe me të vërtetë Ti je i Mëshirshmi i Më të Mëshirshmëve!
 
-(Source category: Sprova e vështirësi)
-(Bahaiprayers.net ID: 2831)
+-- Abdu'l-Bahá
 
+bpn2831 «[Shqip](../sq/#bpn2831)» 
 
-«[Shqip](../sq/#bpn2831)» 
-
+----
 
 
 <a id="bpn2832"></a> 
-### Prayer bpn2832 in Shqip
 O Zot, Perëndia im dhe Streha ime në hallet e mia! Mburoja ime dhe Tenda ime në mjerimet e mia! Azili e Strehimi im në rast nevoje, dhe Shoku im në izolimin tim! Ngushëllimi im në ankthin tim dhe mik i dashur në vetminë time! Larguesi i dhembjeve të mjerimeve të mia dhe Falësi i mëkateve të mia!
 
 Nga Ti kthehem tërësisht unë, duke t'u përgjëruar me zjarr e me gjithë zemër, mendje e gjuhë Ty, që të më mbrosh nga gjithçka që është kundër vullnetit Tënd, në këtë cikël të unitetit Tënd hyjnor, dhe të më pastrosh prej të gjitha papastërtive që do të më pengojnë të kërkoj, i panjollë, hijen e pemës së hirit Tënd.
@@ -1848,12 +1671,11 @@ Zgjidhe gjuhën time për të lavdëruar Emrin Tënd midis njerëzve të Tu, që
 
 Ti je, me të vërtetë, i Hirshmi, i Lavdëruari, i Fuqishmi, Ai Që ka në dorë gjithçka!
 
-(Source category: Sprova e vështirësi)
-(Bahaiprayers.net ID: 2832)
+-- Abdu'l-Bahá
 
+bpn2832 «[Shqip](../sq/#bpn2832)» 
 
-«[Shqip](../sq/#bpn2832)» 
-
+----
 
 
 
@@ -1861,7 +1683,6 @@ Ti je, me të vërtetë, i Hirshmi, i Lavdëruari, i Fuqishmi, Ai Që ka në dor
 ## Tabela e Ahmadit
 
 <a id="bpn2856"></a> 
-### Prayer bpn2856 in Shqip
 *Kjo Tabelë u vesh prej Bahá'u'lláh-ut me fuqi e rëndësi të posaçme.
 
 
@@ -1897,12 +1718,11 @@ Për Perëndi! po qe se ndokush që është i brengosur ose i hidhëruar do ta l
 
 Me të vërtetë, Ai është i Mëshirshmi, i Dhembshuri. Lëvduar qoftë Perëndia, Zoti i të gjitha botëve.
 
-(Source category: Tabela e Ahmadit)
-(Bahaiprayers.net ID: 2856)
+-- Bahá'u'lláh
 
+bpn2856 «[Shqip](../sq/#bpn2856)» 
 
-«[Shqip](../sq/#bpn2856)» 
-
+----
 
 
 
@@ -1910,7 +1730,6 @@ Me të vërtetë, Ai është i Mëshirshmi, i Dhembshuri. Lëvduar qoftë Perën
 ## Tabela e Ridván-it
 
 <a id="bpn2855"></a> 
-### Prayer bpn2855 in Shqip
 *Festa e Ridván-it [Rizvan], 21 prill - 2 maj, përkujton Deklarimin e Misionit të Bahá'u'lláh-ut pasuesve të Tij. Bahá'u'lláh-u e shpalli atë si "Mbretin e Festave", dhe i referohet asaj në Kitáb-i Akdas si Dita në të cilën "të gjitha gjërat e krijuara u zhytën në detin e pastrimit".
 
 
@@ -1922,12 +1741,11 @@ I Shumëdashuri ka ardhur. Në dorën e djathtë të Tij është Vera e vulosur 
 
 Gëzohuni me ngazëllim të paparë, O njerëz të Bahá-it, ndërsa sillni ndërmend Ditën e lumturisë supreme, Ditën kur Gjuha e të Lashtit të Kohëve ka folur, ndërsa largohej nga Shtëpia e Tij për të shkuar në Vendin prej ku Ai lëshoi mbi gjithë krijimin vezullimet e emrit të Tij, Mëshirëplotit. Perëndia Na është dëshmitar. Sikur Ne të revelonim sekretet e fshehura të asaj Dite, të gjithë ata që jetojnë mbi tokë dhe në qiej do të humbnin ndjenjat e do të vdisnin, me përjashtim të atyre që do t'i ruante Perëndia, i Gjithëfuqishmi, i Gjithëdijshmi, Urtiploti...
 
-(Source category: Tabela e Ridván-it)
-(Bahaiprayers.net ID: 2855)
+-- Bahá'u'lláh
 
+bpn2855 «[Shqip](../sq/#bpn2855)» 
 
-«[Shqip](../sq/#bpn2855)» 
-
+----
 
 
 
@@ -1935,7 +1753,6 @@ Gëzohuni me ngazëllim të paparë, O njerëz të Bahá-it, ndërsa sillni ndë
 ## Tabela e Zjarrit
 
 <a id="bpn2859"></a> 
-### Prayer bpn2859 in Shqip
 *Tabelë e reveluar nga Bahá'u'lláh-u me titull "Qad-Ihtaraqua'l-Mukhlihún"
 
 Në Emër të Perëndisë, Më të Lashtit,
@@ -2109,12 +1926,11 @@ O Ali-Akbar, falëndero Zotin tënd për këtë Tabelë, prej së cilës ti mund
 
 Sikur të gjithë shërbëtorët ta lexojnë e të thellohen në të, në damarët e tyre do të ndizet një zjarr që do t'i përflakë botët.
 
-(Source category: Tabela e Zjarrit)
-(Bahaiprayers.net ID: 2859)
+-- Bahá'u'lláh
 
+bpn2859 «[Shqip](../sq/#bpn2859)» 
 
-«[Shqip](../sq/#bpn2859)» 
-
+----
 
 
 
@@ -2122,7 +1938,6 @@ Sikur të gjithë shërbëtorët ta lexojnë e të thellohen në të, në damar�
 ## Tabela e vizitimit të 'Abdu'l-Bahá-it
 
 <a id="bpn2858"></a> 
-### Prayer bpn2858 in Shqip
 *Kjo lutje thuhet në Mauzoleun e 'Abdu'l-Bahá-it. Ajo përdoret gjithashtu në lutje private. 'Abdu'l-Bahá-i thotë: "Cilido që e thotë këtë lutje me përunjësi e me zell do të sjellë gëzim e kënaqësi në zemrën e këtij Shërbëtori; madje do të jetë sikur ta ketë takuar Atë ballëpërballë."
 
 
@@ -2136,12 +1951,11 @@ Me këtë lutje shërbëtori Yt të thërret Ty, në të gdhirë të ditës e n�
 
 Ti je Dhuruesi, i Mëshirshmi, Më Bujari, i Hirshmi, Mëshiruesi, Zemërdhembshuri!
 
-(Source category: Tabela e vizitimit të 'Abdu'l-Bahá-it)
-(Bahaiprayers.net ID: 2858)
+-- Abdu'l-Bahá
 
+bpn2858 «[Shqip](../sq/#bpn2858)» 
 
-«[Shqip](../sq/#bpn2858)» 
-
+----
 
 
 
@@ -2149,7 +1963,6 @@ Ti je Dhuruesi, i Mëshirshmi, Më Bujari, i Hirshmi, Mëshiruesi, Zemërdhembsh
 ## Tabela e vizitimit të Bahá'u'lláh-ut
 
 <a id="bpn2857"></a> 
-### Prayer bpn2857 in Shqip
 *Kjo Tabelë lexohet në Mauzoletë e Bahá'u'lláh-ut dhe të Báb-it. Ajo, gjithashtu, përdoret shpesh në përkujtimin e përvjetorëve të Tyre.
 
 
@@ -2167,12 +1980,11 @@ Shpirti im u bëftë fli për të këqijat që ke vuajtur Ti, dhe shpirti im qof
 
 Bekoje, O Zot Perëndia im, Pemën Hyjnore të Lotosit dhe gjethet e saj dhe degëzat e saj, dhe degët e saj, dhe trungun e saj, dhe filizat e saj, për aq kohë sa do të jetojnë titujt e Tu më të shkëlqyer dhe do të jenë atributet e Tua më madhështore. Mbroje, pra, atë nga ligësitë e agresorit dhe nga hordhitë e tiranisë. Ti je, me të vërtetë, Fuqiploti, Më i Pushtetshmi. Bekoji, gjithashtu, O Zot Perëndia im, shërbëtorët dhe shërbëtoret e Tua, që kanë arritur tek Ti. Ti je, me të vërtetë, Bujariploti, hiri i të Cilit është i pafund. Nuk ka Perëndi tjetër veç Teje, Gjithmonëfalësit, Më Bujarit.
 
-(Source category: Tabela e vizitimit të Bahá'u'lláh-ut)
-(Bahaiprayers.net ID: 2857)
+-- Bahá'u'lláh
 
+bpn2857 «[Shqip](../sq/#bpn2857)» 
 
-«[Shqip](../sq/#bpn2857)» 
-
+----
 
 
 
@@ -2180,15 +1992,13 @@ Bekoje, O Zot Perëndia im, Pemën Hyjnore të Lotosit dhe gjethet e saj dhe deg
 ## Udhëheqje
 
 <a id="bpn2838"></a> 
-### Prayer bpn2838 in Shqip
 Të lutem Ty, O Perëndia im, për pushtetin Tënd dhe për fuqinë Tënde, dhe për sovranitetin Tënd, që ka përfshirë të gjithë ata që janë në qiellin Tënd e mbi tokën Tënde, t'u bësh të njohur shërbëtorëve të Tu këtë Rrugë të ndritshme e këtë Shteg të drejtë, që ata të njohin unitetin Tënd e njëshmërinë Tënde, me një siguri që imagjinatat e kota të atyre që dyshojnë nuk mund ta dobësojnë dhe as mund ta errësojnë fantazitë boshe të njerëzve kokëfortë. Ndriçoji, O Zoti im, sytë e shërbëtorëve të Tu dhe ndriti zemrat e tyre me shkëlqimet e dritës së dijes Sate, që ata të kuptojnë madhështinë e kësaj pozite kaq sublime dhe të njohin këtë Horizont kaq të shkëlqyer, që ndoshta klithma e njerëzve të mos e largojë shikimin e tyre nga drita llamburitëse e unitetit Tënd dhe as t'i pengojë ata ta kthejnë fytyrën ndaj Horizontit të shkëputjes.
 
-(Source category: Udhëheqje)
-(Bahaiprayers.net ID: 2838)
+-- Bahá'u'lláh
 
+bpn2838 «[Shqip](../sq/#bpn2838)» 
 
-«[Shqip](../sq/#bpn2838)» 
-
+----
 
 
 
@@ -2196,29 +2006,25 @@ Të lutem Ty, O Perëndia im, për pushtetin Tënd dhe për fuqinë Tënde, dhe 
 ## Udhëtimi
 
 <a id="bpn2839"></a> 
-### Prayer bpn2839 in Shqip
 U ngrita këtë mëngjes falë hirit Tënd, O Perëndia im, dhe e lashë shtëpinë time duke besuar tërësisht tek Ti dhe duke e lënë veten nën kujdesin Tënd. Dërgo, pra, këtu poshtë mbi mua, nga qielli i mëshirës Sate, një bekim nga ana Jote, dhe bëj të mundur që të kthehem në shtëpi shëndoshë e mirë, ashtu siç bëre të mundur të vihem nën mbrojtjen Tënde, me mendimet e mia të ngulura vendosmërisht tek Ti.
 
 Nuk ka Perëndi tjetër veç Teje, të Vetmit, të Pakrahasueshmit, të Gjithëdijshmit, Urtiplotit.
 
-(Source category: Udhëtimi)
-(Bahaiprayers.net ID: 2839)
+-- Bahá'u'lláh
 
+bpn2839 «[Shqip](../sq/#bpn2839)» 
 
-«[Shqip](../sq/#bpn2839)» 
-
+----
 
 
 <a id="bpn2840"></a> 
-### Prayer bpn2840 in Shqip
 O Perëndi, Perëndia im! Unë dola nga shtëpia ime duke u mbajtur fort pas fillit të dashurisë Sate dhe e lashë veten tërësisht nën kujdesin Tënd e nën mbrojtjten Tënde. Unë të lutem, për pushtetin Tënd, përmes të cilit Ti i mbron të dashurit e Tu nga i pabinduri e i mbrapshti, nga çdo shtypës kokëfortë e nga çdo keqbërës që ka qëndruar larg Teje, më ruaj shëndoshë e mirë me bujarinë e hirin Tënd. Jepmë, pra, mundësi të kthehem në shtëpi, për pushtetin Tënd e fuqinë Tënde. Ti je, me të vërtetë, Fuqiploti, Ndihma në Rrezik, i Vetëqenëshmi.
 
-(Source category: Udhëtimi)
-(Bahaiprayers.net ID: 2840)
+-- Bahá'u'lláh
 
+bpn2840 «[Shqip](../sq/#bpn2840)» 
 
-«[Shqip](../sq/#bpn2840)» 
-
+----
 
 
 
@@ -2226,31 +2032,26 @@ O Perëndi, Perëndia im! Unë dola nga shtëpia ime duke u mbajtur fort pas fil
 ## Uniteti
 
 <a id="bpn2841"></a> 
-### Prayer bpn2841 in Shqip
 Dhëntë Zoti që drita e unitetit të përfshijë gjithë botën dhe që vula "Mbretëria është e Perëndisë" të stampohet mbi ballin e të gjithë popujve të saj.
 
-(Source category: Uniteti)
-(Bahaiprayers.net ID: 2841)
+-- Bahá'u'lláh
 
+bpn2841 «[Shqip](../sq/#bpn2841)» 
 
-«[Shqip](../sq/#bpn2841)» 
-
+----
 
 
 <a id="bpn2842"></a> 
-### Prayer bpn2842 in Shqip
 O Perëndia im! O Perëndia im! Bashkoji zemrat e shërbëtorëve të Tu dhe zbuloju atyre qëllimin Tënd të madh. Le të zbatojnë ata porositë e Tua dhe t'i binden ligjit Tënd. Ndihmoji ata, O Perëndi, në përpjekjen e tyre dhe jepu fuqi të të shërbejnë Ty. O Perëndi! Mos i lër ata me vetveten, por drejtoji hapat e tyre me dritën e dijes Sate, dhe gëzoji zemrat e tyre me dashurinë Tënde. Me të vërtetë, Ti je Përkrahësi i tyre dhe Zoti i tyre.
 
-(Source category: Uniteti)
-(Bahaiprayers.net ID: 2842)
+-- Bahá'u'lláh
 
+bpn2842 «[Shqip](../sq/#bpn2842)» 
 
-«[Shqip](../sq/#bpn2842)» 
-
+----
 
 
 <a id="bpn2843"></a> 
-### Prayer bpn2843 in Shqip
 Lavdia qoftë mbi Ty, O Perëndi, për shfaqjen e dashurisë Sate për njerëzimin! O Ti që je Jeta dhe Drita jonë, udhëhiqi shërbëtorët e Tu në rrugën Tënde dhe na bëj të pasur në Ty, e na çliro nga gjithçka veç Teje.
 
 O Perëndi, na mëso Njëshmërinë Tënde dhe na bëj të kuptojmë Unitetin Tënd, që ne të mos shohim askënd tjetër veç Teje. Ti je i Mëshirshmi dhe Dhënësi i bujarisë!
@@ -2259,48 +2060,41 @@ O Perëndi, krijo në zemrat e të dashurve të Tu zjarrin e dashurisë Sate, q�
 
 Na revelo, O Perëndi, përjetësinë Tënde të lavdëruar - që Ti ke qenë gjithmonë e gjithmonë do të jesh, që nuk ka Perëndi tjetër veç Teje. Me të vërtetë, tek Ti ne gjejmë ngushëllim e forcë.
 
-(Source category: Uniteti)
-(Bahaiprayers.net ID: 2843)
+-- Bahá'u'lláh
 
+bpn2843 «[Shqip](../sq/#bpn2843)» 
 
-«[Shqip](../sq/#bpn2843)» 
-
+----
 
 
 <a id="bpn2844"></a> 
-### Prayer bpn2844 in Shqip
 O Ti Që je Zoti i Zotave! Unë dëshmoj se Ti je Zoti i gjithë krijimit dhe Edukatori i të gjitha qenieve, të dukshme e të padukshme. Unë dëshmoj se pushteti Yt ka përfshirë gjithë universin dhe se ushtritë e tokës kurrë nuk mund të të frikësojnë Ty, as mundet sundimi i të gjithë popujve e kombeve të të pengojë Ty të zbatosh qëllimin Tënd. Unë e pohoj se Ti nuk ke tjetër dëshirë veç ripërtëritjes së mbarë botës, vendosjes së unitetit të popujve të saj dhe shëlbimit të të gjithë atyre që jetojnë në të.
 
-(Source category: Uniteti)
-(Bahaiprayers.net ID: 2844)
+-- Bahá'u'lláh
 
+bpn2844 «[Shqip](../sq/#bpn2844)» 
 
-«[Shqip](../sq/#bpn2844)» 
-
+----
 
 
 <a id="bpn2845"></a> 
-### Prayer bpn2845 in Shqip
 Dhëntë Zoti që drita e unitetit të mbështjellë gjithë tokën dhe që vula "Mbretëria është e Perëndisë" të stampohet në ballin e të gjithë popujve të Tij.
 
-(Source category: Uniteti)
-(Bahaiprayers.net ID: 2845)
+-- Bahá'u'lláh
 
+bpn2845 «[Shqip](../sq/#bpn2845)» 
 
-«[Shqip](../sq/#bpn2845)» 
-
+----
 
 
 <a id="bpn2846"></a> 
-### Prayer bpn2846 in Shqip
 O Ti Dhënësi! Dëshira më e shtrenjtë e këtij shërbëtori të Pragut Tënd është të sodisë miqtë e Lindjes e të Perëndimit të përqafuar fort; të shohë të gjithë pjesëtarët e shoqërisë njerëzore të mbledhur me dashuri në një kuvend të madh të përbashkët, ashtu si pikat e veçanta të ujit mblidhen në një det të gjerë; t'i sodisë të gjithë ata si zogjtë në një kopsht trëndafilash, si margaritarë të një oqeani, si gjethe të një peme, si rreze të një dielli. Ti je i Fuqishmi, i Pushtetshmi, dhe Ti je Perëndia i Forcës, Fuqiploti, Ai Që Sheh Gjithçka.
 
-(Source category: Uniteti)
-(Bahaiprayers.net ID: 2846)
+-- Abdu'l-Bahá
 
+bpn2846 «[Shqip](../sq/#bpn2846)» 
 
-«[Shqip](../sq/#bpn2846)» 
-
+----
 
 
 
@@ -2308,44 +2102,38 @@ O Ti Dhënësi! Dëshira më e shtrenjtë e këtij shërbëtori të Pragut Tënd
 ## Vendosmëria në besëlidhje
 
 <a id="bpn2849"></a> 
-### Prayer bpn2849 in Shqip
 Udhëheqje për ata që shkojnë në rrugë të gabuar
 Ne i lutemi Zotit t'i ndihmojë me dashamirësi ata që kanë gabuar rrugë të bëhen të drejtë e të ndershëm, dhe t'i bëjë të kuptojnë shkujdesjen e Tyre. Ai është, me të vërtetë, Bujariploti, Më Zemërgjeri. Mos i pengo shërbëtorët e Tu, O Zoti im, në portën e hirit Tënd dhe mos i dëbo ata nga oborri i pranisë Sate. Ndihmoji ata të shpërndajnë mjegullën e fantazive boshe dhe të grisin perdet e imagjinatave e të shpresave të kota. Ti je, me të vërtetë, Gjithëzotëruesi, Më i Larti. Nuk ka Perëndi tjetër veç Teje, Fuqiplotit, të Hirshmit.
 
-(Source category: Vendosmëria në besëlidhje)
-(Bahaiprayers.net ID: 2849)
+-- Bahá'u'lláh
 
+bpn2849 «[Shqip](../sq/#bpn2849)» 
 
-«[Shqip](../sq/#bpn2849)» 
-
+----
 
 
 <a id="bpn2847"></a> 
-### Prayer bpn2847 in Shqip
 Bëji të vendosur hapat tanë, O Zot, në rrugën Tënde dhe forcoji zemrat tona në bindjen ndaj Teje. Ktheji fytyrat tona ndaj bukurisë së Njëshmërisë Sate dhe gëzoji gjokset tona me shenjat e Unitetit Tënd Hyjnor. Stolisi trupat tanë me rrobën e bujarisë Sate, largoje nga sytë tanë vellon e mëkatit dhe na jep kupën e hirit Tënd, që thelbi i të gjitha qenieve të këndojë lavde për Ty para pamjes së Madhështisë Sate. Reveloje, pra, Veten Tënde, O Zot, për të folurit Tënd të mëshirshëm dhe për misterin e Qenies Sate Hyjnore, që ekstaza e shenjtë e lutjes të mbushë shpirtrat tanë - një lutje që do të ngrihet mbi fjalët e germat dhe do ta mbulojë mërmërimën e rrokjeve e të tingujve - që të gjitha gjërat të shkrihen në hiç para revelimit të shkëlqimit Tënd.
 
 O Zot! Këta janë shërbëtorët që kanë qëndruar të vendosur e të patundur në Besëlidhjen Tënde e në Testamentin Tënd, që janë mbajtur fort pas fillit të besnikërisë në Kauzën Tënde dhe janë kapur pas cepit të rrobës së madhështisë Sate. Ndihmoji ata, O Zot, me mirësinë Tënde, mbështeti me pushtetin Tënd dhe forcoji shpatullat e tyre në bindje ndaj Teje.
 
 Ti je Falësi, i Hirshmi.
 
-(Source category: Vendosmëria në besëlidhje)
-(Bahaiprayers.net ID: 2847)
+-- Abdu'l-Bahá
 
+bpn2847 «[Shqip](../sq/#bpn2847)» 
 
-«[Shqip](../sq/#bpn2847)» 
-
+----
 
 
 <a id="bpn2848"></a> 
-### Prayer bpn2848 in Shqip
 O Zoti im dhe Shpresa ime! Ndihmoji të dashurit e Tu që të jenë të patundur në Besëlidhjen Tënde të fuqishme, t'i mbeten besnikë Kauzës Sate të dukshme dhe të zbatojnë porositë që Ti ke shkruar për ta në Librin Tënd të Shkëlqimeve; që ata të bëhen flamuj të udhëheqjes e pishtarë të Kompanisë qiellore, burime të urtisë Sate të pafund dhe yje që tregojnë rrugën e drejtë, duke rrezatuar poshtë shkëlqimin e qiellit hyjnor. Me të vërtetë, Ti je i Pamposhturi, Fuqiploti, i Gjithëpushtetshmi.
 
-(Source category: Vendosmëria në besëlidhje)
-(Bahaiprayers.net ID: 2848)
+-- Abdu'l-Bahá
 
+bpn2848 «[Shqip](../sq/#bpn2848)» 
 
-«[Shqip](../sq/#bpn2848)» 
-
+----
 
 
 
@@ -2353,7 +2141,6 @@ O Zoti im dhe Shpresa ime! Ndihmoji të dashurit e Tu që të jenë të patundur
 ## i përgjithshëm
 
 <a id="bpn2862"></a> 
-### Prayer bpn2862 in Shqip
 I bekuar është trualli, dhe shtëpia,
 dhe vendi, dhe qyteti,
 dhe zemra, dhe mali,
@@ -2364,36 +2151,31 @@ dhe livadhi, ku emri i Perëndisë
 është përmendur,
 dhe lëvdata e Tij është lartësuar.
 
-(Source category: i përgjithshëm)
-(Bahaiprayers.net ID: 2862)
+-- Bahá'u'lláh
 
+bpn2862 «[Shqip](../sq/#bpn2862)» 
 
-«[Shqip](../sq/#bpn2862)» 
-
+----
 
 
 <a id="bpn2863"></a> 
-### Prayer bpn2863 in Shqip
 KËNDOJI, O shërbëtori Im, vargjet e Perëndisë, që ti ke marrë, ashtu siç i këndojnë ata që janë avitur pranë Tij, në mënyrë që ëmbëlsia e melodisë sate të frymëzojë vetë shpirtin tënd dhe të tërheqë zemrat e të gjithë njerëzve. Cilido që reciton, në vetminë e dhomës së vet, vargjet e reveluara nga Perëndia, engjëjt shpërndarës të Fuqiplotit do të përhapin gjerësisht aromën e fjalëve të shqiptuara nga goja e tij, duke e bërë të rrahë fort zemrën e çdo njeriu të drejtë. Edhe pse, në fillim, ai mund të mos e kuptojë efektin e tyre, vetia e favorit që i është dhuruar atij shpejt a vonë do të ushtrojë patjetër ndikimin e vet mbi shpirtin tij. Kështu janë diktuar misteret e Revelacionit të Perëndisë falë Vullnetit të Atij që është Burimi i fuqisë e i urtisë.
 
-(Source category: i përgjithshëm)
-(Bahaiprayers.net ID: 2863)
+-- Bahá'u'lláh
 
+bpn2863 «[Shqip](../sq/#bpn2863)» 
 
-«[Shqip](../sq/#bpn2863)» 
-
+----
 
 
 <a id="bpn2864"></a> 
-### Prayer bpn2864 in Shqip
 O Perëndi, Perëndia im, i Shumëdashuri im, Dëshira e zemrës sime.
 
-(Source category: i përgjithshëm)
-(Bahaiprayers.net ID: 2864)
+-- Báb
 
+bpn2864 «[Shqip](../sq/#bpn2864)» 
 
-«[Shqip](../sq/#bpn2864)» 
-
+----
 
 
 

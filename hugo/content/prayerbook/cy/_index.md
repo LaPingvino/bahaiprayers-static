@@ -59,59 +59,51 @@ tags = ['lang=cy', 'prayerbook']
 ## Assistance
 
 <a id="bpn13326"></a> 
-### Prayer bpn13326 in Cymraeg
 O fy Nuw!   Gofynnaf i Ti, trwy Dy Enw mwyaf gogoneddus i'm cynorthwyo yn yr hyn a bair i orchwylion Dy weision ffynnu, a'th ddinassoedd lewyrchu. Tydi, yn wir, sydd â grym dros bob peth!
 
 O my God! I ask Thee, by Thy most glorious Name, to aid me in that which will cause the affairs of Thy servants to prosper, and Thy cities to flourish. Thou, indeed, hast power over all things!
 
-(Source category: Assistance)
-(Bahaiprayers.net ID: 13326)
+-- Bahá'u'lláh
 
+bpn13326 «[Cymraeg](../cy/#bpn13326)» 
 
-«[Cymraeg](../cy/#bpn13326)» 
-
+----
 
 
 <a id="bpn13324"></a> 
-### Prayer bpn13324 in Cymraeg
 A oes unrhyw Symudwr anawsterau ond Duw? Dywedwch: Clod i Dduw! Ef yw Duw! Mae pawb yn weision Iddo, a phawb yn cadw Ei orchmynion!
 
 Is there any Remover of difficulties save God? Say: Praised be God! He is God! All are His servants and all abide by His bidding!
 
-(Source category: Assistance)
-(Bahaiprayers.net ID: 13324)
+-- Báb
 
+bpn13324 «[Cymraeg](../cy/#bpn13324)» 
 
-«[Cymraeg](../cy/#bpn13324)» 
-
+----
 
 
 <a id="bpn13325"></a> 
-### Prayer bpn13325 in Cymraeg
 Dywedwch: Duw sydd yn bodloni pawb uwchlaw popeth, ac nid oes dim yn y nefoedd na'r ddaear ond Duw yn digoni. Yn wir, y mae ynddo Ef Ei hun yn Sawl a Ŵyr, yn Gynhaliwr, yr Hollwybodol.
 
 Say: God sufficeth all things above all things, and nothing in the heavens or in the earth but God sufficeth. Verily, He is in Himself the Knower, the Sustainer, the Omnipotent.
 
-(Source category: Assistance)
-(Bahaiprayers.net ID: 13325)
+-- Báb
 
+bpn13325 «[Cymraeg](../cy/#bpn13325)» 
 
-«[Cymraeg](../cy/#bpn13325)» 
-
+----
 
 
 <a id="bpn13327"></a> 
-### Prayer bpn13327 in Cymraeg
 O Arglwydd fy Nuw! Cynorthwya Dy anwyliaid i fod yn gadarn yn Dy Ffydd, i rodio yn Dy ffyrdd, i fod yn ddiymod yn Dy achos. Dyro iddynt Dy ras i wrthsefyll ymosodiad hunan a nwyd, i ddilyn golau cyfarwyddwyd dwyfol. Tydi wyt y Nerthol, y Graslawn, yr Hunan-Gynhaliol, y Rhoddwr, y Tosturiol, yr Hollalluog, yr Holl-Ddigonol.
 
 O Lord my God! Assist Thy loved ones to be firm in Thy Faith, to walk in Thy ways, to be steadfast in Thy Cause. Give them Thy grace to withstand the onslaught of self and passion, to follow the light of divine guidance. Thou art the Powerful, the Gracious, the Self-Subsisting, the Bestower, the Compassionate, the Almighty, the All-Bountiful.
 
-(Source category: Assistance)
-(Bahaiprayers.net ID: 13327)
+-- Abdu'l-Bahá
 
+bpn13327 «[Cymraeg](../cy/#bpn13327)» 
 
-«[Cymraeg](../cy/#bpn13327)» 
-
+----
 
 
 
@@ -119,61 +111,52 @@ O Lord my God! Assist Thy loved ones to be firm in Thy Faith, to walk in Thy way
 ## Children
 
 <a id="bpn13330"></a> 
-### Prayer bpn13330 in Cymraeg
 O Dduw, arwain fi, gwarchod fi, gwna fi yn lamp olau a seren ddisglair. Ti yw'r Nerthol a'r Grymus.
 
-(Source category: Children)
-(Bahaiprayers.net ID: 13330)
+-- Abdu'l-Bahá
 
+bpn13330 «[Cymraeg](../cy/#bpn13330)» 
 
-«[Cymraeg](../cy/#bpn13330)» 
-
+----
 
 
 <a id="bpn13328"></a> 
-### Prayer bpn13328 in Cymraeg
 O Dduw!  Maga'r baban hwn ym mynwes Dy gariad a rho laeth iddo o fron Dy Ragluniaeth.  Tyfa'r planhigyn ffres hwn yn ngardd rosynnau Dy gariad a chynorthwya ef i dyfu trwy gawodydd Dy haelioni.  Gwna ef yn blentyn y deyrnas, ac arwain ef i'th fröydd nefol Di.  Yr wyt Ti yn rymus ac yn garedig, a Thi yw'r Rhoddwr, yr Hael, Arglwydd yr haelioni dihafal.
 
 O God! Rear this little babe in the bosom of Thy love, and give it milk from the breast of Thy Providence. Cultivate this fresh plant in the rose garden of Thy love and aid it to grow through the showers of Thy bounty. Make it a child of the kingdom, and lead it to Thy heavenly realm. Thou art powerful and kind, and Thou art the Bestower, the Generous, the Lord of surpassing bounty.
 
-(Source category: Children)
-(Bahaiprayers.net ID: 13328)
+-- Abdu'l-Bahá
 
+bpn13328 «[Cymraeg](../cy/#bpn13328)» 
 
-«[Cymraeg](../cy/#bpn13328)» 
-
+----
 
 
 <a id="bpn13329"></a> 
-### Prayer bpn13329 in Cymraeg
 O Dydi Arglwydd digymar! Bydded i'r plentyn sugno hwn ei fagu o fron Dy drugaredd, amddiffyn ef o fewn crud Dy ddiogelwch a'th nawdd, a bydded iddo gael ei fagu ym mreichiau Dy gariad tyner.
 
 O Thou peerless Lord! Let this suckling babe be nursed from the breast of Thy loving-kindness, guard it within the cradle of Thy safety and protection and grant that it be reared in the arms of Thy tender affection.
 
-(Source category: Children)
-(Bahaiprayers.net ID: 13329)
+-- Abdu'l-Bahá
 
+bpn13329 «[Cymraeg](../cy/#bpn13329)» 
 
-«[Cymraeg](../cy/#bpn13329)» 
-
+----
 
 
 <a id="bpn13331"></a> 
-### Prayer bpn13331 in Cymraeg
 O Dduw! Addysga'r plant yma. Y plant yma yw planhigion Dy berllan, blodau Dy ddôl, rhosynnau Dy ardd. Gad i'th wlaw ddisgyn arnynt; gad i Haul Gwirionedd dywynnu arnynt gyda'th gardiad. Gad i'th awel fwyn eu hadfywio fel iddynt gael hyfforddiant, tyfu a datblygu ac ymddangos yn yr harddwch eithaf. Tydi yw'r Rhoddwr. Tydi yw'r Trugarog.
 
 O God! Educate these children. These children are the plants of Thine orchard, the flowers of Thy meadow, the roses of Thy garden. Let Thy rain fall upon them; let the Sun of Reality shine upon them with Thy love. Let Thy breeze refresh them in order that they may be trained, grow and develop, and appear in the utmost beauty. Thou art the Giver. Thou art the Compassionate.
 
-(Source category: Children)
-(Bahaiprayers.net ID: 13331)
+-- Abdu'l-Bahá
 
+bpn13331 «[Cymraeg](../cy/#bpn13331)» 
 
-«[Cymraeg](../cy/#bpn13331)» 
-
+----
 
 
 <a id="bpn13332"></a> 
-### Prayer bpn13332 in Cymraeg
 O Arglwydd Caredig!  Plentyn bach wyf fi, dyrchafa fi trwy fy nerbyn i'r deyrnas.  Daearol wyf fi, gwna fi'n nefol; o'r byd islaw rwyf fi, gad i mi berthyn i'r deyrnas uwchlaw; yn dywyll drist, caniata i mi fod yn ddisglair; yn faterol, gwna fi yn ysbrydol, a chaniata i mi amlygu Dy roddion diderfyn.  
 Ti yw'r Grymus, yr Holl-Gariadus.
 
@@ -181,28 +164,25 @@ O Thou kind Lord! I am a little child, exalt me by admitting me to the kingdom. 
 
 Thou art the Powerful, the All-Loving.
 
-(Source category: Children)
-(Bahaiprayers.net ID: 13332)
+-- Abdu'l-Bahá
 
+bpn13332 «[Cymraeg](../cy/#bpn13332)» 
 
-«[Cymraeg](../cy/#bpn13332)» 
-
+----
 
 
 <a id="bpn13333"></a> 
-### Prayer bpn13333 in Cymraeg
 O fy Arglwydd! O fy Arglwydd!  Plentyn bychan ydwyf fi.  Rho faeth i mi o fron Dy drugaredd, hyffordda fi ym mynwes Dy gariad, addysga fi yn ysgol Dy arweiniad a datblyga fi yng nghysgod Dy haelioni.  Achub fi o'r tywyllwch, gwna fi'n olau disglair; rhyddha fi o anhapusrwydd, gwna fi'n flodyn o'r ardd rosynnau; caniata i mi fod yn was Dy riniog a rho i mi ymagwedd a natur y cyfiawn; gwna fi yn achos llawnder i'r byd dynol a chorona fi â choron bywyd tragwyddol. 
 Yn wir, Ti yw'r Grymus, y Cryf, y Gweledydd, yr Un-sy'n-clywed.
 
 O my Lord!  O my Lord!  I am a child of tender years. Nourish me from the breast of Thy mercy, train me in the bosom of Thy love, educate me in the school of Thy guidance and develop me under the shadow of Thy bounty! Deliver me from darkness, make me a brilliant light; free me from unhappiness, make me a flower of the rose-garden; suffer me to become the servant of Thy Threshold and confer upon me the disposition and nature of the righteous ones; make me a cause of bounty to the human world and crown my head with the diadem of eternal life!
 Verily, Thou art the Powerful, the Mighty, the Seer, the Hearer!
 
-(Source category: Children)
-(Bahaiprayers.net ID: 13333)
+-- Abdu'l-Bahá
 
+bpn13333 «[Cymraeg](../cy/#bpn13333)» 
 
-«[Cymraeg](../cy/#bpn13333)» 
-
+----
 
 
 
@@ -210,7 +190,6 @@ Verily, Thou art the Powerful, the Mighty, the Seer, the Hearer!
 ## Common
 
 <a id="bpn13318"></a> 
-### Prayer bpn13318 in Cymraeg
 Gwynfydedig yw’r llecyn, a’r tŷ
 a’r fangre, a’r ddinas,
 a’r galon, a’r mynydd,
@@ -225,40 +204,35 @@ and the place, and the city, and the heart, and the mountain,
  and the refuge, and the cave, and the valley, and the land, and the sea, and the island,
 and the meadow where mention of God hath been made, and His praise glorified.
 
-(Source category: Common)
-(Bahaiprayers.net ID: 13318)
+-- Bahá'u'lláh
 
+bpn13318 «[Cymraeg](../cy/#bpn13318)» 
 
-«[Cymraeg](../cy/#bpn13318)» 
-
+----
 
 
 <a id="bpn13319"></a> 
-### Prayer bpn13319 in Cymraeg
 Molwch bob dydd yr adnodau a ddatguddiwyd gan Dduw.  Bendigedig yw’r dyn sy’n eu hadrodd ac un myfyrio arnynt.  Mae ef yn wir yn un o’r rhai y bydd pob dim yn iawn iddynt.
 
 Peruse ye every day the verses revealed by God. Blessed is the man who reciteth them and reflecteth upon them. He truly is of them with whom it shall be well.
 
-(Source category: Common)
-(Bahaiprayers.net ID: 13319)
+-- Bahá'u'lláh
 
+bpn13319 «[Cymraeg](../cy/#bpn13319)» 
 
-«[Cymraeg](../cy/#bpn13319)» 
-
+----
 
 
 <a id="bpn13320"></a> 
-### Prayer bpn13320 in Cymraeg
 Llarfargana, O Fy ngwas, adnodau Duw a dderbyniaist ti, fel llafarganwyd hwy gan y rhai sydd wedi nesáu ato Ef, fel y byddo melysder dy felodi’n cynnau dy enaid di dy hun, ac yn denu calonnau’r holl ddynion.  Y sawl sy’n adrodd, yn nirgelfa ei ystafell, yr adnodau a ddatguddiwyd gan Duw, bydd angylion yr Hollalluog a wasgarwyd yn gwasgaru perarogl y geiriau a lefarwyd gan ei enau, a gwneud i galon pob dyn cyfiawn guro.  Er iddo, ar y dechrau, fod yn anymwybodol o’i effaith, eto mae’n sicr y bydd rhinwedd y gras a roddwyd iddo ef yn hwyr neu’n hwyrach yn dylanwadu ar ei enaid.  Felly y gorchmyn wyd dirgelion Datguddiad Duw trwy rinwedd ewyllys yr Hwn sy’n ffynhonnell gallu doethineb.
 
 Intone, O My servant, the verses of God that have been received by thee, as intoned by them who have drawn nigh unto Him, that the sweetness of thy melody may kindle thine own soul, and attract the hearts of all men. Whoso reciteth, in the privacy of his chamber, the verses revealed by God, the scattering angels of the Almighty shall scatter abroad the fragrance of the words uttered by his mouth, and shall cause the heart of every righteous man to throb. Though he may, at first, remain unaware of its effect, yet the virtue of the grace vouchsafed unto him must needs sooner or later exercise its influence upon his soul. Thus have the mysteries of the Revelation of God been decreed by virtue of the Will of Him Who is the Source of power and wisdom.
 
-(Source category: Common)
-(Bahaiprayers.net ID: 13320)
+-- Bahá'u'lláh
 
+bpn13320 «[Cymraeg](../cy/#bpn13320)» 
 
-«[Cymraeg](../cy/#bpn13320)» 
-
+----
 
 
 
@@ -266,7 +240,6 @@ Intone, O My servant, the verses of God that have been received by thee, as into
 ## Dawn
 
 <a id="bpn13323"></a> 
-### Prayer bpn13323 in Cymraeg
 O fy Nuw a'm Meistr!  Dy was ydwyf a mab Dy was.  Codais o'm gorweddfan y bore hwn pan fo Seren-Ddydd Dy uniondeb wedi dsigleirio ymaith oddi wrth Ffynnon-Ddydd Dy ewyllys, ac wedi tywallt ei lewyrch dros yr holl fyd, yn ôl yr hyn a ordeiniwyd yn Llyfrau Dy Orchymyn.
 
 
@@ -282,12 +255,11 @@ Bless Thou, O Lord my God, Him Whom Thou hast set over Thy most excellent Titles
 
 Thou art, truly, the Lord and King of all men, and art potent over all things.
 
-(Source category: Dawn)
-(Bahaiprayers.net ID: 13323)
+-- Bahá'u'lláh
 
+bpn13323 «[Cymraeg](../cy/#bpn13323)» 
 
-«[Cymraeg](../cy/#bpn13323)» 
-
+----
 
 
 
@@ -295,7 +267,6 @@ Thou art, truly, the Lord and King of all men, and art potent over all things.
 ## Evening
 
 <a id="bpn13334"></a> 
-### Prayer bpn13334 in Cymraeg
 Pa fodd y gallaf gysgu, O Dduw, fy Nuw, pan fo llygaid y rhai a hiraethant amdanat yn effro oherwydd eu hymnieulltuaeth oddi wrthyt; a pha fodd y gallaf orwedd i orffwys pan fo eneidiau Dy anwyliaid yn eu pellter oddi wrthyt?
 
 Ymrwymais, O f'Arglwydd, f'ysbryd a'm holl fodolaeth i ddeheulaw Dy nerth a'th nodded, a rhof fy mhen ar fy ngobennydd trwy Dy allu, a chodaf ef yn ôl Dy ewyllys a'th bleser. Tydi wyt, yn wir, y Cynhaliwr, y Ceidwad, yr Hollalluog, y mwyaf Grymus.
@@ -308,16 +279,14 @@ I have committed, O my Lord, my spirit and my entire being into the right hand o
 
 By Thy might! I ask not, whether sleeping or waking, but that which Thou dost desire. I am Thy servant and in Thy hands. Do Thou graciously aid me to do what will shed forth the fragrance of Thy good pleasure. This, truly, is my hope and the hope of them that enjoy near access to Thee. Praised be Thou, O Lord of the worlds!
 
-(Source category: Evening)
-(Bahaiprayers.net ID: 13334)
+-- Bahá'u'lláh
 
+bpn13334 «[Cymraeg](../cy/#bpn13334)» 
 
-«[Cymraeg](../cy/#bpn13334)» 
-
+----
 
 
 <a id="bpn13335"></a> 
-### Prayer bpn13335 in Cymraeg
 O fy Arglwydd, rwyf wedi ymddiried
 fy ysbryd a'm holl fodolaeth i ddeheulaw Dy nerth a Dy amddiffyn,
 a rhoddaf fy mhen ar fy ngobennydd trwy dy rym,a'i godi yn ôl Dy ewyllys
@@ -326,12 +295,11 @@ Tydi, yn wir,yw'r Amddiffynnwr, y Ceidwad,yr Hollalluog, y Mwyaf Grymus.
 
 I have committed, O my Lord, my spirit and my entire being into the right hand of Thy might and Thy protection, and I lay my head on my pillow through Thy power, and lift it up according to Thy will and Thy good-pleasure. Thou art, in truth, the Preserver, the Keeper, the Almighty, the Most Powerful
 
-(Source category: Evening)
-(Bahaiprayers.net ID: 13335)
+-- Bahá'u'lláh
 
+bpn13335 «[Cymraeg](../cy/#bpn13335)» 
 
-«[Cymraeg](../cy/#bpn13335)» 
-
+----
 
 
 
@@ -339,7 +307,6 @@ I have committed, O my Lord, my spirit and my entire being into the right hand o
 ## Fast
 
 <a id="bpn13368"></a> 
-### Prayer bpn13368 in Cymraeg
 *Ceir ympryd yn ystod mis Àlá (Uchter) sef o 2il Mawrth i 20ed Mawrth.  Yn ystod y dyddiau hyn ni ddylid cymryd bwyd na diod rhwng gwawr a machlud haul.  Mae'n amser o weddïo ac adfywhâd ysbrydol.
 
 *Esgusodir y rhai o dan 15 oed, tethwyr, cleifion, merched gyda babanod rhag ymprydio.
@@ -410,16 +377,14 @@ I beseech Thee, O my God, by the light of Thy countenance which impelled them wh
 
 I beseech Thee, O my Lord, by Thyself, and by Thy signs, and Thy clear tokens, and the shining light of the Day-Star of Thy Beauty, and Thy Branches, to cancel the trespasses of those who have held fast to Thy laws, and have observed what Thou hast prescribed unto them in Thy Book. Thou seest me, O my God, holding to Thy Name, the Most Holy, the Most Luminous, the Most Mighty, the Most Great, the Most Exalted, the Most Glorious, and clinging to the hem of the robe to which have clung all in this world and in the world to come.
 
-(Source category: Fast)
-(Bahaiprayers.net ID: 13368)
+-- Bahá'u'lláh
 
+bpn13368 «[Cymraeg](../cy/#bpn13368)» 
 
-«[Cymraeg](../cy/#bpn13368)» 
-
+----
 
 
 <a id="bpn13369"></a> 
-### Prayer bpn13369 in Cymraeg
 O Arglwydd Rhadlon!  Ti, yr Hwn wyt yn hael ac yn drugarog!  Nyni ydym weision Dy drothwy, ydym dan nodded Dy drugaredd.  Mae Haul Dy ragluniaeth Di yn disgleirio ar bawb ohonom, a chymylau Dy dosturi Di yn glawio arnom oll. Mae Dy roddion yn amgylchynnu pawb, Dy ragluniaeth yn cynnal pawb, Dy nodded yn cysgodi pawb a thremiau Dy ffafr Di yn goleuo pawb.  O Arglwydd!   Dyro i ni Dy roddion diderfyn a gad i oleuni Dy arweiniad Di lewyrchu arnom.  Goleua'r llygaid, gwna'r eneidiau'n llawen a dyro ysbryd newydd ar y calonnau.  Dyro iddynt fywyd tragwyddol; Agor ddrysau Dy wybodaeth; gad i oleuni ffydd lewyrchu.
 Una ddynoliaeth a thyrd â hi i un lloches dan faner Dy nodded Di, fel y daw dynion yn debyg i donnau un môr, i ddail a brigau un goeden, ac ymgynnull yng nghysgod yr un babell.  Boed i'r un ffynhonnell o oleuni a bywyd eu goleuo hwy.  Ti yw'r Rhoddwr, y Duw Trugarog
 
@@ -427,26 +392,23 @@ Una ddynoliaeth a thyrd â hi i un lloches dan faner Dy nodded Di, fel y daw dyn
 
 O Thou kind Lord! O Thou Who art generous and merciful! We are servants of Thy threshold and are gathered beneath the sheltering shadow of Thy divine unity. The sun of Thy mercy is shining upon all, and the clouds of Thy bounty shower upon all. Thy gifts encompass all, Thy loving providence sustains all, Thy protection overshadows all, and the glances of Thy favor are cast upon all. O Lord! Grant Thine infinite bestowals, and let the light of Thy guidance shine. Illumine the eyes, gladden the hearts with abiding joy. Confer a new spirit upon all people and bestow upon them eternal life. Gather all people beneath the shadow of Thy bounty and cause them to unite in harmony, so that they may become as the rays of one sun, as the waves of one ocean, and as the fruit of one tree. May they drink from the same fountain. May they be refreshed by the same breeze. May they receive illumination from the same source of light. Thou art the Giver, the Merciful, the Omnipotent.
 
-(Source category: Fast)
-(Bahaiprayers.net ID: 13369)
+-- Abdu'l-Bahá
 
+bpn13369 «[Cymraeg](../cy/#bpn13369)» 
 
-«[Cymraeg](../cy/#bpn13369)» 
-
+----
 
 
 <a id="bpn13370"></a> 
-### Prayer bpn13370 in Cymraeg
 O Arglwydd! Gwna i’r ifanc hwn lewyrchu a  thywallt gyfoeth Dy haelioni arno, greadur  tlawd. Bendithia ef â gwybodaeth, dyro iddo  nerth ychwanegol ar ddechrau pob dydd a  gwarchod ef yng nghysgod Dy amddiffyn  fel y caiff ei ryddhau o gamgymeriadau, gan  ymdaflu i wasanaeth Dy Achos Di. Bydded  iddo ddod yn ganllaw i’r rhai sy’n crwydro,  i arwain y rhai di-gyfeiriad, i ryddhau’r rhai  sy’n gaeth ac i ddeffro’r rhai di-hidio, fel y  cant i gyd eu bendithio yn Dy gofio a Dy glod.
 
 O Lord!  Make this youth radiant, and confer Thy bounty upon this poor creature.  Bestow upon him knowledge, grant him added strength at the break of every morn and guard him within the shelter of Thy protection so that he may be freed from error, may devote himself to the service of Thy Cause, may guide the wayward, lead the hapless, free the captives and awaken the heedless, that all may be blessed with Thy remembrance and praise.  Thou art the Mighty and the Powerful.
 
-(Source category: Fast)
-(Bahaiprayers.net ID: 13370)
+-- Abdu'l-Bahá
 
+bpn13370 «[Cymraeg](../cy/#bpn13370)» 
 
-«[Cymraeg](../cy/#bpn13370)» 
-
+----
 
 
 
@@ -454,20 +416,17 @@ O Lord!  Make this youth radiant, and confer Thy bounty upon this poor creature.
 ## Forgiveness
 
 <a id="bpn13353"></a> 
-### Prayer bpn13353 in Cymraeg
 O fy Nuw, O f'Arglwydd, O fy Meistr!  Erfyniaf arnat i faddau i mi am geisio unrhyw bleser ond Dy gariad, neu unrhyw gysur ond Dy agosrwydd, neu unrhyw hyfrydwch ond Dy holl-bleser, neu unrhyw fodolaeth ond cymundeb gyda Thi.
 O my God, O my Lord, O my Master! I beg Thee to forgive me for seeking any pleasure save Thy love, or any comfort except Thy nearness, or any delight besides Thy good-pleasure, or any existence other than communion with Thee.
 
-(Source category: Forgiveness)
-(Bahaiprayers.net ID: 13353)
+-- Báb
 
+bpn13353 «[Cymraeg](../cy/#bpn13353)» 
 
-«[Cymraeg](../cy/#bpn13353)» 
-
+----
 
 
 <a id="bpn13354"></a> 
-### Prayer bpn13354 in Cymraeg
 Clod i Ti, O Arglwydd.
 Maddau i ni ein pechodau,
 bydd yn raslon tuag atom
@@ -477,12 +436,11 @@ Yn wir, Ti yw'r Cymorth mewn Perygl, yr Hunan-gynhaliol.
 Praise be unto Thee, O Lord. Forgive us our sins, have mercy upon us and enable us to return unto Thee.
 Verily, Thou art the Help in Peril, the Self-Subsisting.
 
-(Source category: Forgiveness)
-(Bahaiprayers.net ID: 13354)
+-- Báb
 
+bpn13354 «[Cymraeg](../cy/#bpn13354)» 
 
-«[Cymraeg](../cy/#bpn13354)» 
-
+----
 
 
 
@@ -490,7 +448,6 @@ Verily, Thou art the Help in Peril, the Self-Subsisting.
 ## Guidance
 
 <a id="bpn13346"></a> 
-### Prayer bpn13346 in Cymraeg
 O fy Nuw!
 Na fydded i mi unrhyw ddrwg
 mewn cyfnodau o dreialon,
@@ -500,40 +457,35 @@ trwy Dy ysbrydoliaeth.
 
 O my God! Let no harm beset me in times of tests, and in moments of heedlessness guide my steps aright through Thine inspiration.
 
-(Source category: Guidance)
-(Bahaiprayers.net ID: 13346)
+-- Báb
 
+bpn13346 «[Cymraeg](../cy/#bpn13346)» 
 
-«[Cymraeg](../cy/#bpn13346)» 
-
+----
 
 
 <a id="bpn13347"></a> 
-### Prayer bpn13347 in Cymraeg
 Rho i mi fy nghyfran, O Arglwydd, yn ôl dy ddymuniad,a gwna fi'n fodlon ar beth bynnagyr Wyt wedi ei ordeinio ar fy nghyfer.Tydi sydd â'r awdurdod terfynol i orchymyn.
 
 Bestow upon me my portion, O Lord, as Thou pleasest, and cause me to be satisfied with whatsoever thou hast ordained for me. Thine is the absolute authority to command.
 
-(Source category: Guidance)
-(Bahaiprayers.net ID: 13347)
+-- Báb
 
+bpn13347 «[Cymraeg](../cy/#bpn13347)» 
 
-«[Cymraeg](../cy/#bpn13347)» 
-
+----
 
 
 <a id="bpn13348"></a> 
-### Prayer bpn13348 in Cymraeg
 O Dydi Drugarog Arglwydd! Ti yr Hwn sydd Haelionus a Galluog! Dy weision ydym, a gysgodwyd dan Dy ragluniaeth. Bwrw olwg dy ffafr arnom. Rho oleuni i'n llygaid, clyw i'n clustiau, a dealltwriaeth a chariad i'n calonnau. Gwna'n heneidiau yn llawen a dedwydd drwy Dy newyddion da. O Arglwydd! Dango i ni lwybr Dy deyrnas, ac adfywhâ ni drwy anadl yr Ysbryd Glân. Dyro i ni fywyd tragwyddol a chyflwyna arnom anrhydedd di-baid. Una'r ddynolryw a goleua fyd dynoliaeth. Bydded i ni oll ddilyn Dy lwybr, dyheu am Dy foddhad a cheisio dirgelion Dy deyrnas. O Dduw! Una ni a chysyllta ein calonnau â'th rwymyn annatod. Yn wir, Tydi yw'r Rhoddwr, Ti yw'r Un Caredig a thydi yw'r Hollalluog.
 
 O Thou compassionate Lord, Thou Who art generous and able! We are servants of Thine sheltered beneath Thy providence. Cast Thy glance of favor upon us. Give light to our eyes, hearing to our ears, and understanding and love to our hearts. Render our souls joyous and happy through Thy glad tidings. O Lord! Point out to us the pathway of Thy kingdom and resuscitate all of us through the breaths of the Holy Spirit. Bestow upon us life everlasting and confer upon us never-ending honor. Unify mankind and illumine the world of humanity. May we all follow Thy pathway, long for Thy good pleasure and seek the mysteries of Thy kingdom. O God! Unite us and connect our hearts with Thine indissoluble bond. Verily,Thou art the Giver, Thou art the Kind One and Thou art the Almighty.
 
-(Source category: Guidance)
-(Bahaiprayers.net ID: 13348)
+-- Abdu'l-Bahá
 
+bpn13348 «[Cymraeg](../cy/#bpn13348)» 
 
-«[Cymraeg](../cy/#bpn13348)» 
-
+----
 
 
 
@@ -541,17 +493,15 @@ O Thou compassionate Lord, Thou Who art generous and able! We are servants of Th
 ## Healing
 
 <a id="bpn13352"></a> 
-### Prayer bpn13352 in Cymraeg
 Dy Enw yw fy iachâd, O fy Nuw, a choffadwriaeth amdanat yw fy meddyginiaeth.  Agosrwydd atat yw fy ngobaith, a chariad atat yw fy nghydymaith.  Dy drugaredd tuag ataf fi yw iachâd a'm cymorth yn y byd hwn a'r byd i ddod.  Tydi, yn wir, wyt yr Holl Haelionus, yr Holl Wybodol, yr Holl-Ddoeth.
 
 Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness to Thee is my hope, and love for Thee is my companion. Thy mercy to me is my healing and my succor in both this world and the world to come. Thou, verily, art the All-Bountiful, the All-Knowing, the All-Wise.
 
-(Source category: Healing)
-(Bahaiprayers.net ID: 13352)
+-- Bahá'u'lláh
 
+bpn13352 «[Cymraeg](../cy/#bpn13352)» 
 
-«[Cymraeg](../cy/#bpn13352)» 
-
+----
 
 
 
@@ -559,7 +509,6 @@ Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness
 ## Intercalary Days
 
 <a id="bpn13367"></a> 
-### Prayer bpn13367 in Cymraeg
 *Dyddiau o baratoi ar gyfer yr ympryd, dyddiau o gyfeillgarwch, rhyddfrydugrwydd a rhoi anrhegion yw'r Dyddiau Rhyng-Galendraidd (Chwefror 26 hyd Mawrth 1)
 
 Fy Nuw, fy Nhân a'm Goleuni!  Mae'r dyddiau a elwaist yr Ayyám-i-Há yn Dy Lyfr wedi cyrraedd, O Tydi yr Hwn wyt yn Frenin enwau, ac mae'r ympryd a gymhellwyd ar bawb sydd yn nheyrnas Dy greadigaeth i gadw gan Dy 'Sgrifbin mwyaf dyrchafedig yn agosáu.  Erfyniaf arnot, O f'Arglwydd, trwy y dyddiau hyn a thrwy'r holl rai sydd, yn ystod y cyfnod hwnnw, wedi glynnu wrth rwymyn Dy orchmynion a chydio yn nolen Dy wirebau, i ganiatau i le o fewn cyffiniau Dy lys gael ei benodi ar gyfer pob enaid, ac eisteddle iddynt wrth ddatguddiad ysblander golau Dy wedd.
@@ -576,12 +525,11 @@ Thou seest, O my Lord, how they have recognized and confessed whatsoever Thou ha
 I implore Thee, O Thou the King of kings and the Pitier of the downtrodden, to ordain for them the good of this world and of the world to come. Write down for them, moreover, what none of Thy creatures hath discovered, and number them with those who have circled round Thee, and who move about Thy throne in every world of Thy worlds.
 Thou, truly, art the Almighty, the All-Knowing, the All-Informed.
 
-(Source category: Intercalary Days)
-(Bahaiprayers.net ID: 13367)
+-- Bahá'u'lláh
 
+bpn13367 «[Cymraeg](../cy/#bpn13367)» 
 
-«[Cymraeg](../cy/#bpn13367)» 
-
+----
 
 
 
@@ -589,7 +537,6 @@ Thou, truly, art the Almighty, the All-Knowing, the All-Informed.
 ## Long Obligatory Prayer
 
 <a id="bpn13322"></a> 
-### Prayer bpn13322 in Cymraeg
 *(I'w hadrodd unwaith mewn pedair awr ar hugain)
 Y sawl a ddymuna adrodd y weddi hon, bydded iddo sefyll ar ei draed a throi at Dduw, ac fel y saif un ei le, bydded iddo edrychi i'r dde ac i'r chwith, fel petai'n disgwyl am drugaredd ei Arglwydd, yr Holl-Drugarog, y Tosturiol.  Yna dyweded:
 
@@ -733,12 +680,11 @@ Let him then raise his head, and seat himself, and say:
 
 I testify, O my God, to that whereunto Thy chosen Ones have testified, and acknowledge that which the inmates of the all-highest Paradise and those who have circled round Thy mighty Throne have acknowledged. The kingdoms of earth and heaven are Thine, O Lord of the worlds!
 
-(Source category: Long Obligatory Prayer)
-(Bahaiprayers.net ID: 13322)
+-- Bahá'u'lláh
 
+bpn13322 «[Cymraeg](../cy/#bpn13322)» 
 
-«[Cymraeg](../cy/#bpn13322)» 
-
+----
 
 
 
@@ -746,7 +692,6 @@ I testify, O my God, to that whereunto Thy chosen Ones have testified, and ackno
 ## Mankind
 
 <a id="bpn13364"></a> 
-### Prayer bpn13364 in Cymraeg
 O Dydi Garedig Arglwydd!  Ti a greaist yr holl ddynoliaeth o'r un llinach.  Ti a orchmynaist i bawb fod yn eiddo i'r un tylwyth.  Yn Dy Bresenoldeb Sanctaidd, Dy weision ydynt oll, a'r holl ddynolryw a gysgodir o dan Dy Dabernacl; y maent oll wedi ymgynnull ger Fwrdd Dy Haelioni; goleuir hwynt oll â goleuni Dy Ragluniaeth.  
 O Dduw!  Caredig wyt i bawb, Ti â ddarperaist ar gyfer pawb, wyt yn cysgodi pawb, cyflwynaist fywyd i bawb.  Rhoddaist i bob un dalentau a chynheddfau, a suddir y cwbl yn Eigion Dy Faddeuant.
  O Dydi Garedig Arglwydd!  Una bawb.  Bydded i'r crefyddau gytuno, a gwna'r cenhedloedd yn un, fel y gwelont eu gilydd megis yn teulu a'r holl fyd yn un cartref.  Bydded iddynt oll gydfyw mewn cytgord perffaith.
@@ -770,16 +715,14 @@ Cement Thou, O God, the hearts together.
 O Thou kind Father, God! Gladden our hearts through the fragrance of Thy love. Brighten our eyes through the Light of Thy Guidance. Delight our ears with the melody of Thy Word, and shelter us all in the Stronghold of Thy Providence.
 Thou art the Mighty and Powerful, Thou art the Forgiving and Thou art the One Who overlooketh the shortcomings of all mankind.
 
-(Source category: Mankind)
-(Bahaiprayers.net ID: 13364)
+-- Abdu'l-Bahá
 
+bpn13364 «[Cymraeg](../cy/#bpn13364)» 
 
-«[Cymraeg](../cy/#bpn13364)» 
-
+----
 
 
 <a id="bpn13373"></a> 
-### Prayer bpn13373 in Cymraeg
 O Tydi Arglwydd caredig! Una pawb.
 
 Gwna'r crefyddau'n gytûn ac una'r cenhedloedd, fel y gallant weld ei gilydd fel un teulu a'r ddaear gyfan fel un cartref. Bydded iddynt oll fyw gyda'i gilydd mewn harmoni perffaith... Tydi yw'r Nerthol a'r Grymus,Tydi yw'r Un sy'n Maddau a Tydi yw'r Un sy'n gosod ffaeleddau dynoliaeth o'r neilltu.
@@ -788,28 +731,25 @@ O Thou kind Lord! Unite all. Let the religions agree and make the nations one, s
 
 Thou art the Mighty and Powerful, Thou art the Forgiving and Thou art the One Who overlooketh the shortcomings of all mankind.
 
-(Source category: Mankind)
-(Bahaiprayers.net ID: 13373)
+-- Abdu'l-Bahá
 
+bpn13373 «[Cymraeg](../cy/#bpn13373)» 
 
-«[Cymraeg](../cy/#bpn13373)» 
-
+----
 
 
 <a id="bpn13374"></a> 
-### Prayer bpn13374 in Cymraeg
 O Dduw! Arllwys arnom Bersawr Nefol a gweddnewid y dyrfa hon yn dyrfa'r Nef! Dyro i ni pob bendith a phob math o fwyd. Paratoa i ni Fwyd Cariad!
 
 Rho i ni Fwyd Gwybodaeth! Cyflwyna i ni Fwyd y Goleuni Nefol!
 
  O God! Descend upon us Heavenly Fragrance and change this gathering into a gathering of Heaven! Grant to us every benefit and every food. Prepare for us the Food of Love! Give to us the Food of Knowledge! Bestow upon us the Food of Heavenly Illumination!
 
-(Source category: Mankind)
-(Bahaiprayers.net ID: 13374)
+-- Abdu'l-Bahá
 
+bpn13374 «[Cymraeg](../cy/#bpn13374)» 
 
-«[Cymraeg](../cy/#bpn13374)» 
-
+----
 
 
 
@@ -817,7 +757,6 @@ Rho i ni Fwyd Gwybodaeth! Cyflwyna i ni Fwyd y Goleuni Nefol!
 ## Midnight
 
 <a id="bpn13336"></a> 
-### Prayer bpn13336 in Cymraeg
 gweddïo arno a chymuno ag Ef ganol nos, gan ddywedyd:
 
 O Arglwydd, Mi a drois fy wyneb at Dy Deyrnas o undod, a suddo ym môr Dy dosturi. O Arglwydd, trwy weled Dy oleuon y noswaith dywyll hon, gloywa fy ngolwg, a gwna fi'n hapus trwy Dy gariad yn yr oes ryfeddol hon. O Arglwydd, par i mi glywed Dy alwad, ac agor o flaen wyneb ddrysau Dy nefoedd, i gael gweld goleuni Dy ogoniant a fy nenu at Dy brydferthwch.
@@ -828,12 +767,11 @@ O seeker of Truth! If thou desirest that God my open thine eye, thou must suppli
 O Lord, I have turned my face unto Thy kingdom of oneness and am immersed in the sea of Thy mercy. O Lord, enlighten my sight by beholding Thy lights in this dark night, and make me happy by the wine of Thy love in this wonderful age. O Lord, make me hear Thy call, and open before my face the doors of Thy heaven, so that I may see the light of Thy glory and become attracted to Thy beauty. 
 Verily, Thou art the Giver, the Generous, the Merciful, the Forgiving.
 
-(Source category: Midnight)
-(Bahaiprayers.net ID: 13336)
+-- Abdu'l-Bahá
 
+bpn13336 «[Cymraeg](../cy/#bpn13336)» 
 
-«[Cymraeg](../cy/#bpn13336)» 
-
+----
 
 
 
@@ -841,17 +779,15 @@ Verily, Thou art the Giver, the Generous, the Merciful, the Forgiving.
 ## Morning
 
 <a id="bpn13337"></a> 
-### Prayer bpn13337 in Cymraeg
 Deffroais yn Dy loches, O fy Nuw, a gweddus i'r hwn a geisia'r lloches honno yw trigo yn Noddfa Dy Ddiogelwch a Chaer Dy Amddiffyniad.  Gloywa fy mod mewnol, O fy Arglwydd, gydag ysblanderau Ffynnon-Ddydd Dy Ddatguddiad, megis y gloywaist fy mod allanol â golau boreol Dy ffafr.
 
 I have wakened in Thy shelter, O my God, and it becometh him that seeketh that shelter to abide within the Sanctuary of Thy protection and the Stronghold of Thy defense. Illumine my inner being, O my Lord, with the splendors of the Day-Spring of Thy Revelation, even as Thou didst illumine my outer being with the morning light of Thy favour.
 
-(Source category: Morning)
-(Bahaiprayers.net ID: 13337)
+-- Bahá'u'lláh
 
+bpn13337 «[Cymraeg](../cy/#bpn13337)» 
 
-«[Cymraeg](../cy/#bpn13337)» 
-
+----
 
 
 
@@ -859,22 +795,19 @@ I have wakened in Thy shelter, O my God, and it becometh him that seeketh that s
 ## Nearness to God
 
 <a id="bpn13371"></a> 
-### Prayer bpn13371 in Cymraeg
 O Dduw, fy Nuw, f’anwylyd, Dymuniad fy nghalon.
  
 
 O God, my God, my Beloved, my heart's Desire,
 
-(Source category: Nearness to God)
-(Bahaiprayers.net ID: 13371)
+-- Báb
 
+bpn13371 «[Cymraeg](../cy/#bpn13371)» 
 
-«[Cymraeg](../cy/#bpn13371)» 
-
+----
 
 
 <a id="bpn13372"></a> 
-### Prayer bpn13372 in Cymraeg
 O Arglwydd, fy Nuw, a'm Noddfa yn fy mlinder! Fy Nharian a'm Cysgod yn fy nhrallod!  Fy Ngobaith a'm Lloches yn nydd fy angen!  Ti yw fy Niddanydd mewn dyddiau o wae, fy Nghydymaith yn y tywyllwch, a'm Cyfaill annwyl yn fy unigrwydd. Ti sydd yn symud ymaith poenau ein galar ac yn maddau ein pechodau
 
  
@@ -937,12 +870,11 @@ Loose my tongue to laud Thy name amidst Thy people that my voice may be raised i
 
 Thou art, in all truth, the Gracious, the Glorified, the Mighty, the Omnipotent.
 
-(Source category: Nearness to God)
-(Bahaiprayers.net ID: 13372)
+-- Abdu'l-Bahá
 
+bpn13372 «[Cymraeg](../cy/#bpn13372)» 
 
-«[Cymraeg](../cy/#bpn13372)» 
-
+----
 
 
 
@@ -950,7 +882,6 @@ Thou art, in all truth, the Gracious, the Glorified, the Mighty, the Omnipotent.
 ## Praise and Thanksgiving
 
 <a id="bpn13349"></a> 
-### Prayer bpn13349 in Cymraeg
 Clodforer Dy Enwy, O fy Nuw.  Tystiaf na all unrhyw amgyffred ohonot, pa mor ryfeddol y bo, erioed esgyn i nefoedd. Dy wybodaeth, ac na all unrhyw foliant ohonot, pa mor ragorol y bo ehedeg i awyrgylch Dy ddoethineb.  Buost erioed ymhell uwchlaw cyrraedd a dirnadaeth amgyffred Dy weision, ac wedi Dy ddyrchafu yn anfesuradwy goruwch ymdrechion Dy gaethweision i fynegi Dy ddirgelwch.  Pa nerth a all creadur cysgodol hawlio pan yn wyneb yn wyneb â'r Hwn nas crewyd?  Tystiaf nad yw ystyriaethau pennaf y rhai oll a garant Dy Undod a myfyrdodau dwysaf y rhai oll a'th adnabyddant oll ond ffrwyth yr hyn a gynhyrchwyd trwy symudiad ysgrifell Dy orchymyn ac a anwyd trwy Dy ewyllys.  Tyngaf wrth Dy ogoniant, O Tydi yr hwn wyt Anwylyd fy enaid a Ffynnon fy mywyd!  Yn ddiamau o'm gwendid, di-allu ydwyf  i'th ddisgrifio a'th ganmol mewn modd sydd weddus o fawredd Dy ogoniant a rhagoriaeth Dy urddas.  Yn ymwybodol, gan hynny, o'm gwendid erfyniaf arnat, trwy Dy dosturi sy'n drech na'r holl greadigaeth, i dderbyn gan Dy weision yr hyn a allant gynnig yn Dy lwybr.  Nertha hwynt, felly, drwy Dy ras sy'n cadarnhau, i ddyrchafu Dy enw ac i gyhoeddi Dy fawl.  
 
 
@@ -961,12 +892,11 @@ Lauded be Thy name, O my God! I testify that no thought of Thee, howsoever wondr
 
 Powerful art Thou to do what pleaseth Thee. Thou, truly, art the All-Glorious, the All-Wise.
 
-(Source category: Praise and Thanksgiving)
-(Bahaiprayers.net ID: 13349)
+-- Bahá'u'lláh
 
+bpn13349 «[Cymraeg](../cy/#bpn13349)» 
 
-«[Cymraeg](../cy/#bpn13349)» 
-
+----
 
 
 
@@ -974,7 +904,6 @@ Powerful art Thou to do what pleaseth Thee. Thou, truly, art the All-Glorious, t
 ## Prayer for the Departed
 
 <a id="bpn13355"></a> 
-### Prayer bpn13355 in Cymraeg
 *Hon yw'r unig weddi orfodol a adroddir yn gynulleidfaol; rhaid i'w hadrodd gan un o'r credinwyr tra sefyll pawb. Nid oes rhaid troi tua'r Qiblih tra'n adrodd y weddi hon.
 *Kitáb-i-Aqdas
 
@@ -1015,16 +944,14 @@ Bahá'u'lláh.
 
  have compassed Thy dominions on earth and in heaven, to vouchsafe unto Thy newly welcomed one Thy gifts and Thy bestowals, and the fruits of the tree of Thy grace!
 
-(Source category: Prayer for the Departed)
-(Bahaiprayers.net ID: 13355)
+-- Bahá'u'lláh
 
+bpn13355 «[Cymraeg](../cy/#bpn13355)» 
 
-«[Cymraeg](../cy/#bpn13355)» 
-
+----
 
 
 <a id="bpn13357"></a> 
-### Prayer bpn13357 in Cymraeg
 O fy Nuw! O faddeuwr pechodau! Cyflwynwr rhoddion! Gwasgarwr cystuddiau!
 
 Yn wir, yn wir, erfyniaf arnat Ti i faddau pechodau'r rhai sydd wedi diosg eu gwisg gorfforol ac wedi esgyn i'r byd ysbrydol.
@@ -1036,12 +963,11 @@ O my God! O Thou forgiver of sins, bestower of gifts, dispeller of afflictions!
 Verily, I beseech Thee to forgive the sins of such as have abandoned the physical garment and have ascended to the spiritual world.
 O my Lord! Purify them from trespasses, dispel their sorrows, and change their darkness into light. Cause them to enter the garden of happiness, cleanse them with the most pure water, and grant them to behold Thy splendours on the loftiest mount.
 
-(Source category: Prayer for the Departed)
-(Bahaiprayers.net ID: 13357)
+-- Abdu'l-Bahá
 
+bpn13357 «[Cymraeg](../cy/#bpn13357)» 
 
-«[Cymraeg](../cy/#bpn13357)» 
-
+----
 
 
 
@@ -1049,21 +975,18 @@ O my Lord! Purify them from trespasses, dispel their sorrows, and change their d
 ## Protection
 
 <a id="bpn13350"></a> 
-### Prayer bpn13350 in Cymraeg
 Rwyt Ti yn fy ngweld, O Arglwydd,wedi ymbellhau oddi wrth bopeth ond Tydi,yn gafael yn llinyn Dy haelioni ac yn dyheu am ryfeddodau Dy ras. Gofynnaf i Ti, yn enw awelon tragwyddol Dy ofal cariadus a golau disglair Dy ofal tyner a'th ffafr,i ganiatáu'r hyn a'm dena atat Ti a'm gwneud yn gyfoethog yn Dy gyfoeth Di.
 
 Thou seest me, O Lord, detached from all things but Thee, clinging to the cord of Thy bounty and craving the wonders of Thy grace. I ask Thee, by the eternal billows of Thy loving-kindness and the shining lights of Thy tender care and favour, to grant that which shall draw me nigh unto thee and make me rich in Thy wealth
 
-(Source category: Protection)
-(Bahaiprayers.net ID: 13350)
+-- Bahá'u'lláh
 
+bpn13350 «[Cymraeg](../cy/#bpn13350)» 
 
-«[Cymraeg](../cy/#bpn13350)» 
-
+----
 
 
 <a id="bpn13351"></a> 
-### Prayer bpn13351 in Cymraeg
 Efe yw'r Tosturiol, yr Haelionus!
 O Dduw, fy Nuw! Ti a'm gweli, Ti a'm adnabyddi; Ti yw fy Hafau a'm Noddfa.  Ni cheisiais ac ni cheisiaf neb ond Tydi. Ni cherddais ac ni cherddaf lwybr ond llwybr Dy gariad.  Yn nyfnder nos anobaith fy llgad a dry yn eiddgar ac yn llawn gobaith at fore Dy ffafr ddiderfyn, a chyda'r wawr fy enaid llaes a adfywhâ ac a gryfhâ yng nghoffadwriaeth o'th harddwch a'th berffeithrwydd.  Yr hwn a gymhorthir gan ras Dy faddeuant, er nad ydyw ond diferyn, bydd megis eigion diderfyn; a'r mymryn lleiaf a gymhorthir gan ffrwd Dy drugaredd a ddisgleira megis seren ddisglair.
 
@@ -1071,12 +994,11 @@ Cysgoda dan Dy nawdd, O Dydi Ysbryd Purdeb, Ti yr Hwn wyt Ddarparwr Holl Haelion
 
 He is the Compassionate, the All-Bountiful! O God, my God! Thou seest me, Thou knowest me; Thou art my Haven and my Refuge.   None have I sought nor any will I seek save Thee; no path have I trodden nor any will I tread but the path of Thy love. In the darksome night of despair, my eye turneth expectant and full of hope to the morn of Thy boundless favor and at the hour of dawn my drooping soul is refreshed and strengthened in remembrance of Thy beauty and perfection. He whom the grace of Thy mercy aideth, though he be but a drop, shall become the boundless ocean, and the merest atom which the outpouring of Thy loving-kindness assisteth, shall shine even as the radiant star. Shelter under Thy protection, O Thou Spirit of purity, Thou Whom art the All-Bountiful Provider, this enthralled, enkindled servant of Thine. Aid him in this world of being to remain steadfast and firm in Thy love and grant that this broken-winged bird attain a refuge and shelter in Thy divine nest that abideth upon the celestial tree.
 
-(Source category: Protection)
-(Bahaiprayers.net ID: 13351)
+-- Abdu'l-Bahá
 
+bpn13351 «[Cymraeg](../cy/#bpn13351)» 
 
-«[Cymraeg](../cy/#bpn13351)» 
-
+----
 
 
 
@@ -1084,7 +1006,6 @@ He is the Compassionate, the All-Bountiful! O God, my God! Thou seest me, Thou k
 ## Short Obligatory Prayer
 
 <a id="bpn13321"></a> 
-### Prayer bpn13321 in Cymraeg
 *(I'w hadrodd unwaith bob dydd rhwng hanner dydd a machlud haul)
 
 Tystiaf, O fy Nuw, i Ti fy nghreu i i'th adnabod Di ac i'th addoli Di. Tystiaf, ar y funud hon, i'm diymadferthedd ac i'th allu Di, i'm tlodi ac i'th gyfoeth Di. Nid oes Duw arall ond Ti, y Cymorth mewn Perygl, yr Hunangynhaliol.
@@ -1093,12 +1014,11 @@ Tystiaf, O fy Nuw, i Ti fy nghreu i i'th adnabod Di ac i'th addoli Di. Tystiaf, 
 
 I bear witness, O my God, that Thou hast created me to know Thee and to worship Thee. I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth. There is none other God but Thee, the Help in Peril, the Self-Subsisting.
 
-(Source category: Short Obligatory Prayer)
-(Bahaiprayers.net ID: 13321)
+-- Bahá'u'lláh
 
+bpn13321 «[Cymraeg](../cy/#bpn13321)» 
 
-«[Cymraeg](../cy/#bpn13321)» 
-
+----
 
 
 
@@ -1106,33 +1026,29 @@ I bear witness, O my God, that Thou hast created me to know Thee and to worship 
 ## Spiritual Assembly
 
 <a id="bpn13366"></a> 
-### Prayer bpn13366 in Cymraeg
 O Dduw! Arllwys arnom Bersawr Nefol
 a gweddnewid y dyrfa hon yn dyrfa'r Nef! Dyro i ni pob bendith a phob math o fwyd. Paratoa i ni Fwyd Cariad!
 Rho i ni Fwyd Gwybodaeth! Cyflwyna i ni Fwyd y Goleuni Nefol!
 
-(Source category: Spiritual Assembly)
-(Bahaiprayers.net ID: 13366)
+-- Abdu'l-Bahá
 
+bpn13366 «[Cymraeg](../cy/#bpn13366)» 
 
-«[Cymraeg](../cy/#bpn13366)» 
-
+----
 
 
 <a id="bpn13365"></a> 
-### Prayer bpn13365 in Cymraeg
 Pryd bynnag yr ewch i mewn i'r siambr cyngor, adroddwch y weddi hon gyda chalon yn curo â chariad Duw a thafod wedi ei phuro rhag popeth ond Ei goffadwriaeth fel i'r Holl-Rymus yn rasol eich cymorth i gyrraedd buddugoliaeth lawn.
 
 O Dduw fy Nuw! Dy weision ydym a droesom gydag ymroddiad I'th wyneb sanctaidd, a ddiodolasom ein hunain oddi wrth bopeth heblaw Tydi yn y diwrnod gogeneddus hwn.  Ymgynullasom yn y cynulliad ysbrydol hwn yn un ein barn a'n meddyliau, gyda'n bwriadau wedi eu cysoni I ddyrchafu Dy Air umhlith dynion.  O Arglwydd ein Euw!  Gwna ni yn arwyddion o'th gyfarwyddyd dwyfol, baneri Dy Ffydd ddyrchafedig ymhlith dynion, gweision I'th Gyfamod nerthol, O Tydi ein Harglywydd Mwyaf Dyrchafedig, amlygiad o'th Undod Dwyfol yn Dy Deyrnas Abhá, a sêr disglair yn pefrio dros yr holl ardaloedd.  Arglwydd! Cynorthwya ni I fod yn foroedd yn ymchwyddo gyda thonnau Dy ras rhyfeddol, ffrwd yn llifo o'th uchelderau holl-ogoneddus, ffrwythau da ar goeden Dy achos nefol, coed yn ysgwyd drwy awelon Dy haelioni yn Dy winllan nefol.  O Dduw! Gwna ein hysbrydion yn ddibynnol ar adnodau Dy Undod Dwyfol, ein calonnau un llon drwy dywalltion Dy ras, fel y cawn uno hyd yn oed megis tonnau yr un môr a'n cyfuno megis peldrau Dy olau disglair; I'n meddyliau, ein barnau, ein teimladau, fod megis un gwirionedd, yn amlygu ysbryd undod trwy'r holl fyd.  Tydi yw'r Grasol, yr Haelionus, u Cyflwynwr, yr Hollalluog, y Tosturiol, y Trugarog.
 
 O God, my God! We are servants of Thine that have turned with devotion to Thy Holy Face, that have detached ourselves from all beside Thee in this glorious Day. We have gathered in this spiritual assembly, united in our views and thoughts, with our purposes harmonized to exalt Thy Word amidst mankind. O Lord, our God! Make us the signs of Thy Divine Guidance, the Standards of Thy exalted Faith amongst men, servants to Thy mighty Covenant. O Thou our Lord Most High! Manifestations of Thy Divine Unity in Thine Abha Kingdom, and resplendent stars shining upon all regions. Lord! Aid us to become seas surging with the billows of Thy wondrous Grace, streams flowing from Thy all-glorious Heights, goodly fruits upon the Tree of Thy heavenly Cause, trees waving through the breezes of Thy Bounty in Thy celestial Vineyard. O God! Make our souls dependent upon the Verses of Thy Divine Unity, our hearts cheered with the outpourings of Thy Grace, that we may unite even as the waves of one sea and become merged together as the rays of Thine effulgent Light; that our thoughts, our views, our feelings may become as one reality, manifesting the spirit of union throughout the world. Thou art the Gracious, the Bountiful, the Bestower, the Almighty, the Merciful, the Compassionate.
 
-(Source category: Spiritual Assembly)
-(Bahaiprayers.net ID: 13365)
+-- Abdu'l-Bahá
 
+bpn13365 «[Cymraeg](../cy/#bpn13365)» 
 
-«[Cymraeg](../cy/#bpn13365)» 
-
+----
 
 
 
@@ -1140,7 +1056,6 @@ O God, my God! We are servants of Thine that have turned with devotion to Thy Ho
 ## Spiritual Growth
 
 <a id="bpn13340"></a> 
-### Prayer bpn13340 in Cymraeg
 Clod fyddo i ti, O Arglwydd fy Nuw! Tystiaf y buost erioed yn ddyrchafedig yn Dy fawredd aruchel a'th rym, ac y byddi'n aros yn dragywydd yn Dy ogoniant a'th nerth rhagorol. Ni all unrhyw un yn nheyrnas nef na daear rwystro Dy ddiben; ni all neb drwy deyrnasoedd datguddiad a chreadigaeth Dy drechu. Ti a wnei fel y mynni yn ôl Dy orchymyn; a thrwy nerth Dy frenhiniaeth y llywodraethi.
 
 
@@ -1153,16 +1068,14 @@ Praised be Thou, O Lord my God! I bear witness that from eternity Thou wert exal
 I implore Thee, O Thou Who causest the dawn to appear, by Thy Lamp which Thou didst light with the fire of Thy love before all that are in heaven and on earth, and whose flame Thou feedest with the fuel of Thy wisdom in the kingdom of Thy creation, to make me to be of those who have soared in Thine atmosphere, and surrendered their will to Thy decree.
 I am all wretchedness, O my Lord, and Thou art the Most Powerful, the Almighty. Have pity upon me by Thy grace and bountiful favor, and graciously aid me to serve Thee and them that are dear to Thee. Potent art Thou to do as Thou willest. No God is there but Thee, the God of strength, of glory and wisdom.
 
-(Source category: Spiritual Growth)
-(Bahaiprayers.net ID: 13340)
+-- Bahá'u'lláh
 
+bpn13340 «[Cymraeg](../cy/#bpn13340)» 
 
-«[Cymraeg](../cy/#bpn13340)» 
-
+----
 
 
 <a id="bpn13341"></a> 
-### Prayer bpn13341 in Cymraeg
 O ffrydiau pêr Dy dragwyddoldeb dyro i mi yfed, O fy Nuw, ac o ffrwyth pren Dy hanfod gad i mi brofi, O fy Ngobaith! O ffynhonnau crisialaidd Dy gariad caniatâ i mi ddrachtio, O fy Ngogoniant, ac yng nghysgod Dy ragluniaeth ddiddiwedd gad i mi drigo, O fy Ngoleuni! O fewn dolydd dy agosrwydd, ger bron Dy bresenoldeb gad i mi grwydro, O fy Anwylyd, ac ar ddeheulaw gorsedd Dy drugaredd gad i mi eistedd O fy Nymuniad! O awelon pêr Dy lawenydd dyro i anadl ddisgyn arnaf, O fy Nod, a dyro im fynediad i uchelderau paradwys Dy wirionedd, O fy Nghariad! Dyro im glustfeinio alawon colomen Dy undod, O'r Un ysblennydd, a bywhâ fi trwy ysbryd Dy nerth a'th allu, O fy'n Narparwr! Yn ysbryd Dy gariad cadw fi'n gadarn, O fy Nghymorth, a chadarnhâ fy nghamre yn llwybr D'awyddfryd O fy Nghrewr! O flaen Dy wynepryd, yng ngardd D'anfarwoldeb gad i mi aros yn oes oesodd, Tydi yr Hwn wyt drugarog wrthyf, ac ar orseddfainc Dy ogononiant dyro i mi eistedd, O Tydi yr Hwn wyt fy meddiannwr! Cod fi i nefoedd Dy drugaredd, O Tydi sydd yn fy mywhau, a thywys fi tuag at seren ddydd Dy gyfarwyddyd, O Tydi sydd yn fy nenu! Galw fi i fod yn bresennol o flaen datguddiad D'ysbryd anweledig, Ti yr Hwn wyt fy Ngwraidd a'm Dymuniad Pennaf, ac i hanfod bersawr Dy harddwch, a amlygir gennyt, gâd i mi ddychwelyd, O Tydi yr Hwn wyt fy Nuw!
 
 Galluog ydwyt i wneuthur yr hyn a fynni. Tydi, yn wir, yw'r Mwyaf Dyrchafedig, y Mwyaf Gogoneddus, y Goruchaf.
@@ -1170,44 +1083,38 @@ Galluog ydwyt i wneuthur yr hyn a fynni. Tydi, yn wir, yw'r Mwyaf Dyrchafedig, y
 From the sweet-scented streams of Thine eternity give me to drink, O my God, and of the fruits of the tree of Thy being enable me to taste, O my Hope! From the crystal springs of Thy love suffer me to quaff, O my Glory, and beneath the shadow of Thine everlasting providence let me abide, O my Light! Within the meadows of Thy nearness, before Thy presence, make me able to roam, O my Beloved, and at the right hand of the throne of Thy mercy, seat me, O my Desire! From the fragrant breezes of Thy joy let a breath pass over me, O my Goal, and into the heights of the paradise of Thy reality let me gain admission, O my Adored One! To the melodies of the dove of Thy oneness suffer me to hearken, O Resplendent One, and through the spirit of Thy power and Thy might quicken me, O my Provider! In the spirit of Thy love keep me steadfast, O my Succorer, and in the path of Thy good-pleasure set firm my steps, O my Maker! Within the garden of Thine immortality, before Thy countenance, let me abide for ever, O Thou Who art merciful unto me, and upon the seat of Thy glory stablish me, O Thou Who art my Possessor! To the heaven of Thy loving-kindness lift me up, O my Quickener, and unto the Day-Star of Thy guidance lead me, O Thou my Attractor! Before the revelations of Thine invisible spirit summon me to be present, O Thou Who art my Origin and my Highest Wish, and unto the essence of the fragrance of Thy beauty, which Thou wilt manifest, cause me to return, O Thou Who art my God!
 Potent art Thou to do what pleasest Thee. Thou art, verily, the Most Exalted, the All-Glorious, the All-Highest.
 
-(Source category: Spiritual Growth)
-(Bahaiprayers.net ID: 13341)
+-- Bahá'u'lláh
 
+bpn13341 «[Cymraeg](../cy/#bpn13341)» 
 
-«[Cymraeg](../cy/#bpn13341)» 
-
+----
 
 
 <a id="bpn13342"></a> 
-### Prayer bpn13342 in Cymraeg
 Dywedwch: O Dduw, fy Nuw! Gwisg fy mhen â choron cyfiawnder, a'm harlais â thlws tegwch. Ti, yn wir, wyt Berchen pob rhodd a haelioni.
 
 Say: O God, my God! Attire mine head with the crown of justice, and my temple with the ornament of equity. Thou, verily, art the Possessor of all gifts and bounties.
 
-(Source category: Spiritual Growth)
-(Bahaiprayers.net ID: 13342)
+-- Bahá'u'lláh
 
+bpn13342 «[Cymraeg](../cy/#bpn13342)» 
 
-«[Cymraeg](../cy/#bpn13342)» 
-
+----
 
 
 <a id="bpn13344"></a> 
-### Prayer bpn13344 in Cymraeg
 O Arglwydd! Gwan ydym; cryfhâ ni. O Dduw! Anwybodus ydym, dyro i ni wybodaeth. O Arglwydd! Tlawd ydym; gwna ni'n gyfoethog. O Dduw! Rydym feirw; dyro fywyd ynom. O Arglwydd! Yr ydym yn llwyr ddarostyngedig; yn Dy Deyrnas gogonedda ni. Pe cawn Dy gymorth, O Dduw, byddwn fel sêr yn pefrio. Pen a chawn Dy gymorth, byddwn yn is na'r llawr. O Arglwydd! Cryfhâ ni. O Dduw! Dyro fuddugoliaeth i ni. O Dduw! Galluoga ni i goncro hunanoldeb a gorchfygu chwant. O Arglwydd! Gwared ni rhag caethiwed y byd materol. O Arglwydd! Dyro fywyd i ni drwy anadl yr Ysbryd Glân, fel y cyfodwn i'th wasanaethu, ymgymryd a'th addoli Di, ac ymegnïo'n ddidwyll yn Dy Deyrnas. O Arglwydd, Grymus wyt! O Dduw, Maddeugar wyt! O Arglwydd, Trugarog wyt!
 
 O Lord! We are weak; strengthen us. O God! We are ignorant; make us knowing. O Lord! We are poor; make us wealthy. O God! We are dead; quicken us. O Lord! We are humiliation itself; glorify us in Thy Kingdom. If Thou dost assist us, O Lord, we shall become as scintillating stars. If Thou dost not assist us, we shall become lower than the earth. O Lord! Strengthen us. O God! Confer victory upon us. O God! Enable us to conquer self and overcome desire. O Lord! Deliver us from the bondage of the material world. O Lord! Quicken us through the breath of the Holy Spirit in order that we may arise to serve Thee, engage in worshiping Thee and exert ourselves in Thy Kingdom with the utmost sincerity. O Lord, Thou art powerful. O God, Thou art forgiving. O Lord, Thou art compassionate.
 
-(Source category: Spiritual Growth)
-(Bahaiprayers.net ID: 13344)
+-- Abdu'l-Bahá
 
+bpn13344 «[Cymraeg](../cy/#bpn13344)» 
 
-«[Cymraeg](../cy/#bpn13344)» 
-
+----
 
 
 <a id="bpn13345"></a> 
-### Prayer bpn13345 in Cymraeg
 O fy Arglwydd! Bydded Dy brydferthwch yn fwyd i mi, a'th bresenoldeb yn ddiod i mi, a'th bleser yn obaith i mi, a grym Dy sofraniaeth yn gynhaliaeth i mi, a'th gynefin yn gartref i mi, a'm trigfan i yn sedd yr wyt Ti wedi'i sancteiddio rhag y cyfyngiadau a osodwyd arnynt hwy sydd wedi'u cau allan oddi wrthyt Ti fel pe gan len.  
 
 Ti, yn wir, yw'r Hollalluog, yr Holl-Ogoniannus, y Mwyaf Grymus.
@@ -1216,12 +1123,11 @@ O my Lord! Make Thy beauty to be my food, and Thy presence my drink, and Thy ple
 
 Thou art, verily, the Almighty, the All-Glorious, the Most Powerful.
 
-(Source category: Spiritual Growth)
-(Bahaiprayers.net ID: 13345)
+-- Abdu'l-Bahá
 
+bpn13345 «[Cymraeg](../cy/#bpn13345)» 
 
-«[Cymraeg](../cy/#bpn13345)» 
-
+----
 
 
 
@@ -1229,7 +1135,6 @@ Thou art, verily, the Almighty, the All-Glorious, the Most Powerful.
 ## Teaching
 
 <a id="bpn13359"></a> 
-### Prayer bpn13359 in Cymraeg
 O Arglwydd! Trof fy wyneb tuag atat,
 wedi ymbellhau oddi wrth bawb ond Tydi ac yn dal yn dynn wrth odre Dy amryfal fendithion.
 Datod fy nhafod, felly,i ddatgan yr hyn a fydd yn cyfareddu meddyliau dynion ac a fydd yn llawenhau eu heneidiau a'u hysbryd...
@@ -1238,16 +1143,14 @@ yn eu calonnau yn cael eu harwain gan ei lewyrch.
 
 O Lord! Unto Thee have I turned my face, detached from all save Thee and holding fast to the hem of the robe of Thy manifold blessings. Unloose my tongue therefore to proclaim that which will captivate the minds of men and will rejoice their souls and spirits. Strengthen me then in Thy Cause in such wise that I may not be hindered by the ascendancy of the oppressors among Thy creatures nor withheld by the onslaught of the disbelievers amidst those who dwell in Thy realm. Make me as a lamp shining throughout Thy lands that those in whose hearts the light of Thy knowledge gloweth and the yearning for Thy love lingereth may be guided by its radiance.
 
-(Source category: Teaching)
-(Bahaiprayers.net ID: 13359)
+-- Bahá'u'lláh
 
+bpn13359 «[Cymraeg](../cy/#bpn13359)» 
 
-«[Cymraeg](../cy/#bpn13359)» 
-
+----
 
 
 <a id="bpn13358"></a> 
-### Prayer bpn13358 in Cymraeg
 O Dydi, y Duw Digymar! O Arglwydd y Deyrnas! Yr eneidiau hyn yw Dy fyddin nefol.  Cynorthwya hwynt, a chyda minteioedd Llu'r Goruchaf dyro iddynt fuddugoliaeth; fel y byddont oll megis catrawd, a gorchfygant y gwledydd hyn drwy gariad Duw a goleuni'r ddysgeidiaeth ddwyfol.
 O Dduw!  Bydd yn gynhaliwr ac yn gymorth iddynt, ac yn yr anialwch y mynydd, y dyffryn, y goedwig, y gweindir a'r moroedd, bydd yn ymddiriedwr iddynt - fel y bydded iddynt lefain trwy rym y Deyrnas ac anadl yr Ysbryd Glân.
 Yn wir, Tydi yw'r Grymus, y Nerthol a'r Hollalluog a Thydi, yw'r Doeth, y Gwrandawr a'r Canfyddwr.
@@ -1264,12 +1167,11 @@ O Thou incomparable God! O Thou Lord of the Kingdom! These souls are Thy heavenl
 O God! Be Thou their supporter and their helper, and in the wilderness, the mountain, the valley, the forests, the prairies and the seas, be Thou their confidant - so that they may cry out through the power of the Kingdom and the breath of the Holy Spirit.
 Verily, Thou art the Powerful, the Mighty and the Omnipotent, and Thou art the Wise, the Hearing and the Seeing.
 
-(Source category: Teaching)
-(Bahaiprayers.net ID: 13358)
+-- Abdu'l-Bahá
 
+bpn13358 «[Cymraeg](../cy/#bpn13358)» 
 
-«[Cymraeg](../cy/#bpn13358)» 
-
+----
 
 
 
@@ -1277,7 +1179,6 @@ Verily, Thou art the Powerful, the Mighty and the Omnipotent, and Thou art the W
 ## Travelling
 
 <a id="bpn13338"></a> 
-### Prayer bpn13338 in Cymraeg
 Codais y bore hwn, trwy Dy ras, O fy Nuw, a gadewais fy nghartref gan ymddiried yn hollol ynot Ti, a chyflwyno fy hun i'th ofal. Anfon i lawr, felly, arnaf fi, o nefoedd Dy faddeuant, fendith o'th ochr, a gad i mi ddychwelyd adref yn ddiogel megis y gadewaist i mi fyned ymaith o dan Dy ddiogelwch â'm meddyliau wedi eu sefydlu'n ddiamod arnat Ti.
 
 Nid oes Dduw arall ond Tydi, yr Un, y Digymar, yr Holl-Wybodol, yr Holl-Ddoeth.
@@ -1287,16 +1188,14 @@ I have risen this morning by Thy grace, O my God, and left my home trusting whol
 
 There is none other God but Thee, the One, the Incomparable, the All-Knowing, the All-Wise.
 
-(Source category: Travelling)
-(Bahaiprayers.net ID: 13338)
+-- Bahá'u'lláh
 
+bpn13338 «[Cymraeg](../cy/#bpn13338)» 
 
-«[Cymraeg](../cy/#bpn13338)» 
-
+----
 
 
 <a id="bpn13339"></a> 
-### Prayer bpn13339 in Cymraeg
 O Dduw! O Dduw! Rwyf wedi cychwyn o'm cartref, yn gafael yn dynn yn llinyn Dy gariad,ac rwyf wedi cyflwyno fy hun yn llwyr i Dy ofal a'th amddiffyn...
 Galluoga fi, felly, i ddychwelyd adref trwy Dy rym a'th nerth.
 
@@ -1305,12 +1204,11 @@ Galluoga fi, felly, i ddychwelyd adref trwy Dy rym a'th nerth.
 
 O God, my God! I have set out from my home, holding fast unto the cord of Thy love, and I have committed myself wholly to Thy care and Thy protection... Enable me, then, to return to my home by Thy power and Thy might. Thou art, truly, the Almighty, the Help in Peril, the Self-Subsisting.
 
-(Source category: Travelling)
-(Bahaiprayers.net ID: 13339)
+-- Bahá'u'lláh
 
+bpn13339 «[Cymraeg](../cy/#bpn13339)» 
 
-«[Cymraeg](../cy/#bpn13339)» 
-
+----
 
 
 
@@ -1318,45 +1216,39 @@ O God, my God! I have set out from my home, holding fast unto the cord of Thy lo
 ## Unity
 
 <a id="bpn13360"></a> 
-### Prayer bpn13360 in Cymraeg
 O Tydi yr hwn wyt Arglwydd yr Arglwyddi.  Tystiaf mai Ti yw Arglwydd yr holl greadigaeth, ac Addysgwr pob creadur, gweledig ac anweledig.  Tystiaf  i'th nerth amgylchynu'r holl fydysawd, ac na all lluoedd y ddaear fyth Dy ddigaloni na rheolaeth yr holl bobloedd na'r cenhedloedd Dy atal rhag cyflawni Dy ewyllys.  Cyfaddefaf nad oes i Ti ddymuniad ond ailenedigaeth yr holl fyd, a sefydliad undod ei bobloedd, a iachawdwriaeth pawb sy'n trigi ynddo.
 
 O Thou Who art the Lord of Lords! I testify that Thou art the Lord of all creation, and the Educator of all beings, visible and invisible. I bear witness that Thy power hath encompassed the entire universe, and that the hosts of the earth can never dismay Thee, nor can the dominion of all peoples and nations deter Thee from executing Thy purpose. I confess that Thou hast no desire except the regeneration of the whole world, and the establishment of the unity of its peoples, and the salvation of all them that dwell therein.
 
-(Source category: Unity)
-(Bahaiprayers.net ID: 13360)
+-- Bahá'u'lláh
 
+bpn13360 «[Cymraeg](../cy/#bpn13360)» 
 
-«[Cymraeg](../cy/#bpn13360)» 
-
+----
 
 
 <a id="bpn13361"></a> 
-### Prayer bpn13361 in Cymraeg
 Bydded i Dduw ganiatau i olau undod amgylchynu'r holl ddaear, a'r sêl 'Eiddo Duw yw y Deyrnas' ei osod ar dalcen ei holl bobloedd.
 
 God grant that the light of unity may envelop the whole earth, and that the seal, "the Kingdom is God's", may be stamped upon the brow of all its peoples.
 
-(Source category: Unity)
-(Bahaiprayers.net ID: 13361)
+-- Bahá'u'lláh
 
+bpn13361 «[Cymraeg](../cy/#bpn13361)» 
 
-«[Cymraeg](../cy/#bpn13361)» 
-
+----
 
 
 <a id="bpn13362"></a> 
-### Prayer bpn13362 in Cymraeg
 O fy Nuw!  O Fy Nuw!  Una galonnau Dy weision a datguddia Dy fwriad mawr iddynt.  Bydded iddynt ddilyn Dy orchmynion ac aros yn Dy gyfraith.  Cynorthwya hwy, O Dduw, yn eu hymdrech a dyroiddnyt nerth i'th wasanaethu.  O Dduw, paid a'u gadael i'w hunain ond arwain eu camre drwy lewyrch Dy wybodaeth a chysura eu calonnau â'th gariad.  Yn wir, Tydi yw eu Cynorthwywr  a'u Harglwydd.
 
 O my God! O my God! Unite the hearts of Thy servants, and reveal to them Thy great purpose. May they follow Thy commandments and abide in Thy law. Help them, O God, in their endeavor, and grant them strength to serve Thee. O God! Leave them not to themselves, but guide their steps by the light of Thy knowledge, and cheer their hearts by Thy love. Verily, Thou art their Helper and their Lord.
 
-(Source category: Unity)
-(Bahaiprayers.net ID: 13362)
+-- Bahá'u'lláh
 
+bpn13362 «[Cymraeg](../cy/#bpn13362)» 
 
-«[Cymraeg](../cy/#bpn13362)» 
-
+----
 
 
 

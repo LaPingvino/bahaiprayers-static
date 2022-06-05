@@ -15,7 +15,6 @@ tags = ['lang=haw', 'prayerbook']
 ## General Prayers
 
 <a id="bpn6214"></a> 
-### Prayer bpn6214 in Hawaiian
 ##Pili'uhane he ˇAno
 *Spiritual Qualities
 
@@ -25,16 +24,14 @@ Ho'ano hou a ho'ohau'oli i ku'u ˇuhane. Ho'oma'ema'e i ku'u na'au. Ho'omalamala
 
 E ku'u Akua! ˇO ˇOe ku'u hoaloha i oi aku ma mua o ko'u maika'i ia'u iho. Ke ho'omahana nei au iho Nou, E ku'u Haku.
 
-(Source category: General Prayers)
-(Bahaiprayers.net ID: 6214)
+-- Bahá'u'lláh
 
+bpn6214 «[Hawaiian](../haw/#bpn6214)» 
 
-«[Hawaiian](../haw/#bpn6214)» 
-
+----
 
 
 <a id="bpn6210"></a> 
-### Prayer bpn6210 in Hawaiian
 ##Pˆmaika'i i ke Kahua
 
 *Blessed is the Spot
@@ -53,16 +50,14 @@ a me ke kula mau'u.
 na wahi i ˇolelo ˇia ai ka inoa o ke Akua,
 a ho'omaika'i ˇia Kona nani.
 
-(Source category: General Prayers)
-(Bahaiprayers.net ID: 6210)
+-- Bahá'u'lláh
 
+bpn6210 «[Hawaiian](../haw/#bpn6210)» 
 
-«[Hawaiian](../haw/#bpn6210)» 
-
+----
 
 
 <a id="bpn6213"></a> 
-### Prayer bpn6213 in Hawaiian
 ##He Pule o ka Ho'ola ˇana
 *Healing Prayer
 
@@ -70,43 +65,38 @@ Kou inoa ku'u ho'ola, e ku'u Akua, a me ka ho'omana'o ˇana ia ˇOe ku'u la'au. 
 
 ˇO ˇOe ke Akua Ho'olako apau, ke Akua Ho'oia'i'o, ke Akua Ho'ona'auao apau.
 
-(Source category: General Prayers)
-(Bahaiprayers.net ID: 6213)
+-- Bahá'u'lláh
 
+bpn6213 «[Hawaiian](../haw/#bpn6213)» 
 
-«[Hawaiian](../haw/#bpn6213)» 
-
+----
 
 
 <a id="bpn6212"></a> 
-### Prayer bpn6212 in Hawaiian
 ##Ka Ho'oku'u Popilikia
 *Remover of Difficulties
 
 ˇA'ole anei kekahi kokua e pale ana i na popilikia koe ke Akua wale no?
 E ho'oho (a'e) ˇoukou me ka'i ˇana: E hi'ilani ˇia ke Akua! ˇOia wale no ke Akua! He kaua na mea apau, e noho lakou apau ma lalo o Kona mau kauoha.
 
-(Source category: General Prayers)
-(Bahaiprayers.net ID: 6212)
+-- Báb
 
+bpn6212 «[Hawaiian](../haw/#bpn6212)» 
 
-«[Hawaiian](../haw/#bpn6212)» 
-
+----
 
 
 <a id="bpn6215"></a> 
-### Prayer bpn6215 in Hawaiian
 ##Pule no ka Moana PakÔpika
 *Prayer for the Pacific
 
 E ke Akua Hemolele a me ka Mana Loa! E ku'u Akua ˇOlu'olu! E ha'awi mai i ke ikaika nui i hiki ia kakou ke pale aku i na pilikia o ka honua holo'okoa, e ha'awi mai i ka mana nui hekau aku ka ˇale o ko kakou na'au lawelawe e kau aku i ka Moana PakÔpika, e pae aku i na kapa kai o ka Hikina a hiki i ke Komohana.
 
-(Source category: General Prayers)
-(Bahaiprayers.net ID: 6215)
+-- Abdu'l-Bahá
 
+bpn6215 «[Hawaiian](../haw/#bpn6215)» 
 
-«[Hawaiian](../haw/#bpn6215)» 
-
+----
 
 
 
@@ -114,7 +104,6 @@ E ke Akua Hemolele a me ka Mana Loa! E ku'u Akua ˇOlu'olu! E ha'awi mai i ke ik
 ## He Pule Koi Pˆkole
 
 <a id="bpn6211"></a> 
-### Prayer bpn6211 in Hawaiian
 ##He Pule Koi Pˆkole
 *Short Obligatory Prayer
 
@@ -122,12 +111,11 @@ E ke Akua Hemolele a me ka Mana Loa! E ku'u Akua ˇOlu'olu! E ha'awi mai i ke ik
 
 ˇA'ole mea e a'e, ˇO ˇOe wale no e ku'u Akua, he Kokua kokoke i ka wa popilikia, ˇO ˇOe ka mea apau, nau i hana na mea apau.
 
-(Source category: He Pule Koi Pˆkole)
-(Bahaiprayers.net ID: 6211)
+-- Bahá'u'lláh
 
+bpn6211 «[Hawaiian](../haw/#bpn6211)» 
 
-«[Hawaiian](../haw/#bpn6211)» 
-
+----
 
 
 
