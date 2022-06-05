@@ -542,8 +542,9 @@ func main() {
 			if err != nil {
 				panic(err.Error())
 			}
-			f.WriteString("# Prayer Books\n")
-			f.WriteString("\n")
+			f.WriteString("+++\n")
+			f.WriteString("title = 'Prayerbooks'\n")
+			f.WriteString("+++\n")
 			f.WriteString("Pick your language\n")
 			f.WriteString("\n")
 			f.Close()

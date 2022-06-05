@@ -209,7 +209,7 @@ Tua è l’assoluta potestà del comandare.
 
 -- Báb
 
-BB00522 «[Italiano](../it/prayers/#BB00522)» «[Español](../es/prayers/#BB00522)» «[English](../en/prayers/#BB00522)» 
+BB00522 «[English](../en/prayers/#BB00522)» «[Español](../es/prayers/#BB00522)» «[Italiano](../it/prayers/#BB00522)» 
 
 ----
 
@@ -360,7 +360,7 @@ Tu sei potente e benigno. Tu sei l’Elargitore, il Generoso, il Signore di inso
 
 -- Abdu'l-Bahá
 
-AB04004BAB «[Italiano](../it/prayers/#AB04004BAB)» «[Esperanto](../eo/prayers/#AB04004BAB)» 
+AB04004BAB «[Esperanto](../eo/prayers/#AB04004BAB)» «[Italiano](../it/prayers/#AB04004BAB)» 
 
 ----
 
@@ -572,7 +572,7 @@ Gloria, immensa gloria a Te! Tu sei adorato per la Tua verità e noi tutti, inve
 
 -- Bahá'u'lláh
 
-BH08308 «[Italiano](../it/prayers/#BH08308)» «[English](../en/prayers/#BH08308)» 
+BH08308 «[English](../en/prayers/#BH08308)» «[Italiano](../it/prayers/#BH08308)» 
 
 ----
 
@@ -591,7 +591,7 @@ Non v’è altro Dio che Te, l’Unico, il Singolo, il Potente, l’Onnisciente,
 
 -- Bahá'u'lláh
 
-BH03109KIN «[Italiano](../it/prayers/#BH03109KIN)» «[Français](../fr/prayers/#BH03109KIN)» «[English](../en/prayers/#BH03109KIN)» 
+BH03109KIN «[English](../en/prayers/#BH03109KIN)» «[Français](../fr/prayers/#BH03109KIN)» «[Italiano](../it/prayers/#BH03109KIN)» 
 
 ----
 
@@ -645,7 +645,7 @@ T’imploro, o mio Signore, per Te Stesso, e per i Tuoi segni, e per i Tuoi chia
 
 -- Bahá'u'lláh
 
-BH01125 «[Italiano](../it/prayers/#BH01125)» «[Español](../es/prayers/#BH01125)» «[Français](../fr/prayers/#BH01125)» «[English](../en/prayers/#BH01125)» «[Nederlands](../nl/prayers/#BH01125)» 
+BH01125 «[Nederlands](../nl/prayers/#BH01125)» «[English](../en/prayers/#BH01125)» «[Français](../fr/prayers/#BH01125)» «[Español](../es/prayers/#BH01125)» «[Italiano](../it/prayers/#BH01125)» 
 
 ----
 
@@ -764,7 +764,7 @@ Hai il potere di fare quello che Ti aggrada, Tu Che sei, in verità, il Potentis
 
 -- Bahá'u'lláh
 
-BH05894 «[Italiano](../it/prayers/#BH05894)» «[English](../en/prayers/#BH05894)» «[Nederlands](../nl/prayers/#BH05894)» 
+BH05894 «[Nederlands](../nl/prayers/#BH05894)» «[English](../en/prayers/#BH05894)» «[Italiano](../it/prayers/#BH05894)» 
 
 ----
 
@@ -1563,7 +1563,7 @@ Tu sei, in verità, l’Onnipotente, l’Eccelso, Colui Che Sempre Perdona, il G
 
 -- Bahá'u'lláh
 
-BH10578 «[Italiano](../it/prayers/#BH10578)» «[Esperanto](../eo/prayers/#BH10578)» «[Español](../es/prayers/#BH10578)» «[English](../en/prayers/#BH10578)» 
+BH10578 «[English](../en/prayers/#BH10578)» «[Español](../es/prayers/#BH10578)» «[Esperanto](../eo/prayers/#BH10578)» «[Italiano](../it/prayers/#BH10578)» 
 
 ----
 
@@ -1746,7 +1746,7 @@ O mio Signore, mio Benamato, mio Desìo! Siimi Amico nella solitudine e Compagno
 
 -- Abdu'l-Bahá
 
-AB10769 «[Italiano](../it/prayers/#AB10769)» «[Esperanto](../eo/prayers/#AB10769)» «[English](../en/prayers/#AB10769)» 
+AB10769 «[English](../en/prayers/#AB10769)» «[Esperanto](../eo/prayers/#AB10769)» «[Italiano](../it/prayers/#AB10769)» 
 
 ----
 
@@ -1782,7 +1782,7 @@ Tu sei, in verità, il Possente, il Gloriosissimo, l’Onnipotente.
 
 -- Bahá'u'lláh
 
-BH07426FOO «[Italiano](../it/prayers/#BH07426FOO)» «[Esperanto](../eo/prayers/#BH07426FOO)» «[English](../en/prayers/#BH07426FOO)» 
+BH07426FOO «[English](../en/prayers/#BH07426FOO)» «[Esperanto](../eo/prayers/#BH07426FOO)» «[Italiano](../it/prayers/#BH07426FOO)» 
 
 ----
 
@@ -2041,7 +2041,7 @@ O Signore mio Dio! Assisti i Tuoi amati ad essere saldi nella Tua Fede, a cammin
 
 -- Abdu'l-Bahá
 
-AB00001FIR «[Italiano](../it/prayers/#AB00001FIR)» «[Esperanto](../eo/prayers/#AB00001FIR)» «[Português (BR)](../pt/prayers/#AB00001FIR)» «[English](../en/prayers/#AB00001FIR)» «[Nederlands](../nl/prayers/#AB00001FIR)» 
+AB00001FIR «[Nederlands](../nl/prayers/#AB00001FIR)» «[English](../en/prayers/#AB00001FIR)» «[Português (BR)](../pt/prayers/#AB00001FIR)» «[Esperanto](../eo/prayers/#AB00001FIR)» «[Italiano](../it/prayers/#AB00001FIR)» 
 
 ----
 
@@ -2121,7 +2121,7 @@ In verità, Tu sei il Donatore, il Generoso, il Misericordioso, il Perdonatore.
 
 -- Abdu'l-Bahá
 
-AB06528MID «[Italiano](../it/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/#AB06528MID)» «[Español](../es/prayers/#AB06528MID)» «[Deutsch](../de/prayers/#AB06528MID)» «[English](../en/prayers/#AB06528MID)» 
+AB06528MID «[English](../en/prayers/#AB06528MID)» «[Deutsch](../de/prayers/#AB06528MID)» «[Español](../es/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/#AB06528MID)» «[Italiano](../it/prayers/#AB06528MID)» 
 
 ----
 
@@ -2283,7 +2283,7 @@ Tutti sono poveri e bisognosi e Tu sei, in verità, Colui Che Tutto Possiede, Co
 
 -- Bahá'u'lláh
 
-BH00868WIT «[Italiano](../it/prayers/#BH00868WIT)» «[English](../en/prayers/#BH00868WIT)» «[Nederlands](../nl/prayers/#BH00868WIT)» 
+BH00868WIT «[Nederlands](../nl/prayers/#BH00868WIT)» «[English](../en/prayers/#BH00868WIT)» «[Italiano](../it/prayers/#BH00868WIT)» 
 
 ----
 

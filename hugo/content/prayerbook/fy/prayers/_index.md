@@ -50,7 +50,7 @@ Jo binne de Machtige en de Krêftige.
 
 -- Abdu'l-Bahá
 
-AB04427LMP «[Esperanto](../eo/prayers/#AB04427LMP)» «[Frysk](../fy/prayers/#AB04427LMP)» «[Papiamentu](../pap/prayers/#AB04427LMP)» «[English](../en/prayers/#AB04427LMP)» «[Nederlands](../nl/prayers/#AB04427LMP)» 
+AB04427LMP «[Nederlands](../nl/prayers/#AB04427LMP)» «[English](../en/prayers/#AB04427LMP)» «[Frysk](../fy/prayers/#AB04427LMP)» «[Esperanto](../eo/prayers/#AB04427LMP)» «[Papiamentu](../pap/prayers/#AB04427LMP)» 
 
 ----
 
@@ -75,7 +75,7 @@ Is der ien dy't swierrichheden ferdriuwt bûten God? Sis: Eare oan God! Hy is Go
 
 -- Báb
 
-BB00623 «[Esperanto](../eo/prayers/#BB00623)» «[Frysk](../fy/prayers/#BB00623)» «[Português (BR)](../pt/prayers/#BB00623)» «[Français](../fr/prayers/#BB00623)» «[Papiamentu](../pap/prayers/#BB00623)» «[English](../en/prayers/#BB00623)» 
+BB00623 «[English](../en/prayers/#BB00623)» «[Français](../fr/prayers/#BB00623)» «[Português (BR)](../pt/prayers/#BB00623)» «[Frysk](../fy/prayers/#BB00623)» «[Esperanto](../eo/prayers/#BB00623)» «[Papiamentu](../pap/prayers/#BB00623)» 
 
 ----
 
@@ -86,7 +86,7 @@ Wierliken, Hy is yn Himsels de Wittende, de Helper, de Almachtige.
 
 -- Báb
 
-BB00015SUF «[Esperanto](../eo/prayers/#BB00015SUF)» «[Frysk](../fy/prayers/#BB00015SUF)» «[Français](../fr/prayers/#BB00015SUF)» «[Papiamentu](../pap/prayers/#BB00015SUF)» «[English](../en/prayers/#BB00015SUF)» «[Nederlands](../nl/prayers/#BB00015SUF)» 
+BB00015SUF «[Nederlands](../nl/prayers/#BB00015SUF)» «[English](../en/prayers/#BB00015SUF)» «[Français](../fr/prayers/#BB00015SUF)» «[Frysk](../fy/prayers/#BB00015SUF)» «[Esperanto](../eo/prayers/#BB00015SUF)» «[Papiamentu](../pap/prayers/#BB00015SUF)» 
 
 ----
 
@@ -115,7 +115,7 @@ Wierliken, wy allegearre binne geduldich yn God. (19 x)
 
 -- Bahá'u'lláh
 
-BH09085 «[Frysk](../fy/prayers/#BH09085)» «[English](../en/prayers/#BH09085)» «[Nederlands](../nl/prayers/#BH09085)» 
+BH09085 «[Nederlands](../nl/prayers/#BH09085)» «[English](../en/prayers/#BH09085)» «[Frysk](../fy/prayers/#BH09085)» 
 
 ----
 
@@ -127,7 +127,7 @@ O myn Hear! Suverje harren fan oertrêdings, ferdriuw harren fertriet en feroarj
 
 -- Abdu'l-Bahá
 
-AB11094 «[Esperanto](../eo/prayers/#AB11094)» «[Frysk](../fy/prayers/#AB11094)» «[Español](../es/prayers/#AB11094)» «[English](../en/prayers/#AB11094)» «[Nederlands](../nl/prayers/#AB11094)» 
+AB11094 «[Nederlands](../nl/prayers/#AB11094)» «[English](../en/prayers/#AB11094)» «[Frysk](../fy/prayers/#AB11094)» «[Español](../es/prayers/#AB11094)» «[Esperanto](../eo/prayers/#AB11094)» 
 
 ----
 
@@ -141,7 +141,7 @@ Skep yn my in suver hert, o myn God, en fernij yn my in rêstich gewisse, o myn 
 
 -- Bahá'u'lláh
 
-BH04421HEA «[Esperanto](../eo/prayers/#BH04421HEA)» «[Frysk](../fy/prayers/#BH04421HEA)» «[English](../en/prayers/#BH04421HEA)» «[Nederlands](../nl/prayers/#BH04421HEA)» 
+BH04421HEA «[Nederlands](../nl/prayers/#BH04421HEA)» «[English](../en/prayers/#BH04421HEA)» «[Frysk](../fy/prayers/#BH04421HEA)» «[Esperanto](../eo/prayers/#BH04421HEA)» 
 
 ----
 
@@ -179,7 +179,7 @@ O Jo, ús Fersoarger! Stjoer Jo bystân del, dat elk dy't hjir sammele is as in 
 
 -- Abdu'l-Bahá
 
-AB00774SAB «[Frysk](../fy/prayers/#AB00774SAB)» «[English](../en/prayers/#AB00774SAB)» 
+AB00774SAB «[English](../en/prayers/#AB00774SAB)» «[Frysk](../fy/prayers/#AB00774SAB)» 
 
 ----
 
@@ -194,7 +194,7 @@ Jo, wierliken, binne de Alfoldedige, de Alwittende, de Alwize.
 
 -- Bahá'u'lláh
 
-BH01313NAM «[Esperanto](../eo/prayers/#BH01313NAM)» «[Frysk](../fy/prayers/#BH01313NAM)» «[Português (BR)](../pt/prayers/#BH01313NAM)» «[Español](../es/prayers/#BH01313NAM)» «[English](../en/prayers/#BH01313NAM)» «[Nederlands](../nl/prayers/#BH01313NAM)» 
+BH01313NAM «[Nederlands](../nl/prayers/#BH01313NAM)» «[English](../en/prayers/#BH01313NAM)» «[Português (BR)](../pt/prayers/#BH01313NAM)» «[Frysk](../fy/prayers/#BH01313NAM)» «[Español](../es/prayers/#BH01313NAM)» «[Esperanto](../eo/prayers/#BH01313NAM)» 
 
 ----
 
@@ -220,7 +220,7 @@ Jo, wierliken, binne de Kening fan alle minsken. Der is gjin God as Jo, de Jimme
 
 -- Bahá'u'lláh
 
-BH10973 «[Esperanto](../eo/prayers/#BH10973)» «[Frysk](../fy/prayers/#BH10973)» «[English](../en/prayers/#BH10973)» «[Nederlands](../nl/prayers/#BH10973)» 
+BH10973 «[Nederlands](../nl/prayers/#BH10973)» «[English](../en/prayers/#BH10973)» «[Frysk](../fy/prayers/#BH10973)» «[Esperanto](../eo/prayers/#BH10973)» 
 
 ----
 
@@ -236,7 +236,7 @@ Wierliken, Jo binne de Almogende, de Alomtsjintwurdige, de Almachtige.
 
 -- Abdu'l-Bahá
 
-AB07158 «[Frysk](../fy/prayers/#AB07158)» «[English](../en/prayers/#AB07158)» «[Nederlands](../nl/prayers/#AB07158)» 
+AB07158 «[Nederlands](../nl/prayers/#AB07158)» «[English](../en/prayers/#AB07158)» «[Frysk](../fy/prayers/#AB07158)» 
 
 ----
 
@@ -252,7 +252,7 @@ Wierliken, Jo binne harren Helper en harren Hear.
 
 -- Bahá'u'lláh
 
-BH10505 «[Esperanto](../eo/prayers/#BH10505)» «[Frysk](../fy/prayers/#BH10505)» «[Papiamentu](../pap/prayers/#BH10505)» «[English](../en/prayers/#BH10505)» 
+BH10505 «[English](../en/prayers/#BH10505)» «[Frysk](../fy/prayers/#BH10505)» «[Esperanto](../eo/prayers/#BH10505)» «[Papiamentu](../pap/prayers/#BH10505)» 
 
 ----
 
@@ -267,7 +267,7 @@ Jo binne de Machtige en de Krêftige! Jo binne de Ferjouwende en Jo binne Dyjing
 
 -- Abdu'l-Bahá
 
-ABU0137ALL «[Esperanto](../eo/prayers/#ABU0137ALL)» «[Frysk](../fy/prayers/#ABU0137ALL)» «[English](../en/prayers/#ABU0137ALL)» 
+ABU0137ALL «[English](../en/prayers/#ABU0137ALL)» «[Frysk](../fy/prayers/#ABU0137ALL)» «[Esperanto](../eo/prayers/#ABU0137ALL)» 
 
 ----
 
@@ -284,7 +284,7 @@ Der is gjin oare God as Jo, de Helper-yn-need, de Troch-Himsels-Besteande.
 
 -- Bahá'u'lláh
 
-BH11209 «[Esperanto](../eo/prayers/#BH11209)» «[Frysk](../fy/prayers/#BH11209)» «[Papiamentu](../pap/prayers/#BH11209)» «[English](../en/prayers/#BH11209)» 
+BH11209 «[English](../en/prayers/#BH11209)» «[Frysk](../fy/prayers/#BH11209)» «[Esperanto](../eo/prayers/#BH11209)» «[Papiamentu](../pap/prayers/#BH11209)» 
 
 ----
 
@@ -300,7 +300,7 @@ Der is gjin God as Jo, de Almachtige, de Albehearsker, de Unbetinge.
 
 -- Bahá'u'lláh
 
-BH00009SER «[Esperanto](../eo/prayers/#BH00009SER)» «[Frysk](../fy/prayers/#BH00009SER)» «[Português (BR)](../pt/prayers/#BH00009SER)» «[English](../en/prayers/#BH00009SER)» 
+BH00009SER «[English](../en/prayers/#BH00009SER)» «[Português (BR)](../pt/prayers/#BH00009SER)» «[Frysk](../fy/prayers/#BH00009SER)» «[Esperanto](../eo/prayers/#BH00009SER)» 
 
 ----
 
@@ -314,7 +314,7 @@ Ik bin ûnder Jo beskutting wekker wurden,o myn God, en it past him dy't dy besk
 
 -- Bahá'u'lláh
 
-BH00009SHE «[Esperanto](../eo/prayers/#BH00009SHE)» «[Frysk](../fy/prayers/#BH00009SHE)» «[English](../en/prayers/#BH00009SHE)» 
+BH00009SHE «[English](../en/prayers/#BH00009SHE)» «[Frysk](../fy/prayers/#BH00009SHE)» «[Esperanto](../eo/prayers/#BH00009SHE)» 
 
 ----
 
@@ -331,7 +331,7 @@ Jo binne, wierliken, de Almachtige, de Almogende.
 
 -- Bahá'u'lláh
 
-BH00009AWA «[Frysk](../fy/prayers/#BH00009AWA)» «[English](../en/prayers/#BH00009AWA)» «[Nederlands](../nl/prayers/#BH00009AWA)» 
+BH00009AWA «[Nederlands](../nl/prayers/#BH00009AWA)» «[English](../en/prayers/#BH00009AWA)» «[Frysk](../fy/prayers/#BH00009AWA)» 
 
 ----
 
@@ -357,7 +357,7 @@ Jo, yn wierheid, binne de Alwittende, de Alwize.
 
 -- Bahá'u'lláh
 
-BH03908 «[Frysk](../fy/prayers/#BH03908)» «[Português (BR)](../pt/prayers/#BH03908)» «[English](../en/prayers/#BH03908)» 
+BH03908 «[English](../en/prayers/#BH03908)» «[Português (BR)](../pt/prayers/#BH03908)» «[Frysk](../fy/prayers/#BH03908)» 
 
 ----
 
@@ -410,7 +410,7 @@ Wierliken, Hy is de Genedige, de Meilydsume. Eare oan God, de Hear fan alle wrâ
 
 -- Bahá'u'lláh
 
-BH02022 «[Esperanto](../eo/prayers/#BH02022)» «[Frysk](../fy/prayers/#BH02022)» «[English](../en/prayers/#BH02022)» 
+BH02022 «[English](../en/prayers/#BH02022)» «[Frysk](../fy/prayers/#BH02022)» «[Esperanto](../eo/prayers/#BH02022)» 
 
 ----
 

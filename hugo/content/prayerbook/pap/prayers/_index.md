@@ -36,7 +36,7 @@ E paranan den aire i e bestianan den mondi ta resibí tur dia nan alimentashon d
 
 -- Abdu'l-Bahá
 
-AB00431PIT «[Esperanto](../eo/prayers/#AB00431PIT)» «[Papiamentu](../pap/prayers/#AB00431PIT)» «[English](../en/prayers/#AB00431PIT)» «[Nederlands](../nl/prayers/#AB00431PIT)» 
+AB00431PIT «[Nederlands](../nl/prayers/#AB00431PIT)» «[English](../en/prayers/#AB00431PIT)» «[Esperanto](../eo/prayers/#AB00431PIT)» «[Papiamentu](../pap/prayers/#AB00431PIT)» 
 
 ----
 
@@ -52,7 +52,7 @@ O Dios!  Eduka e yunan aki.  E yunan aki ta matanan di Bo hòfi,  ta flornan di 
 
 -- Abdu'l-Bahá
 
-ABU0129EDU «[Esperanto](../eo/prayers/#ABU0129EDU)» «[Papiamentu](../pap/prayers/#ABU0129EDU)» «[English](../en/prayers/#ABU0129EDU)» 
+ABU0129EDU «[English](../en/prayers/#ABU0129EDU)» «[Esperanto](../eo/prayers/#ABU0129EDU)» «[Papiamentu](../pap/prayers/#ABU0129EDU)» 
 
 ----
 
@@ -64,7 +64,7 @@ O Dios, guiami, protehami, iluminá e lampi di mi kurason, i hasimi un strea bri
 
 -- Abdu'l-Bahá
 
-AB04427LMP «[Esperanto](../eo/prayers/#AB04427LMP)» «[Frysk](../fy/prayers/#AB04427LMP)» «[Papiamentu](../pap/prayers/#AB04427LMP)» «[English](../en/prayers/#AB04427LMP)» «[Nederlands](../nl/prayers/#AB04427LMP)» 
+AB04427LMP «[Nederlands](../nl/prayers/#AB04427LMP)» «[English](../en/prayers/#AB04427LMP)» «[Frysk](../fy/prayers/#AB04427LMP)» «[Esperanto](../eo/prayers/#AB04427LMP)» «[Papiamentu](../pap/prayers/#AB04427LMP)» 
 
 ----
 
@@ -80,7 +80,7 @@ Bisá:  Dios ta sufisiente riba tur kos i nada den shelunan o riba tera ta sufis
 
 -- Báb
 
-BB00015SUF «[Esperanto](../eo/prayers/#BB00015SUF)» «[Frysk](../fy/prayers/#BB00015SUF)» «[Français](../fr/prayers/#BB00015SUF)» «[Papiamentu](../pap/prayers/#BB00015SUF)» «[English](../en/prayers/#BB00015SUF)» «[Nederlands](../nl/prayers/#BB00015SUF)» 
+BB00015SUF «[Nederlands](../nl/prayers/#BB00015SUF)» «[English](../en/prayers/#BB00015SUF)» «[Français](../fr/prayers/#BB00015SUF)» «[Frysk](../fy/prayers/#BB00015SUF)» «[Esperanto](../eo/prayers/#BB00015SUF)» «[Papiamentu](../pap/prayers/#BB00015SUF)» 
 
 ----
 
@@ -97,7 +97,7 @@ i e laman, i e isla, i e pradera,  unda ku Dios ta menshoná, i su alabansa ta g
 
 -- Bahá'u'lláh
 
-BH00074BLE «[Esperanto](../eo/prayers/#BH00074BLE)» «[Français](../fr/prayers/#BH00074BLE)» «[Papiamentu](../pap/prayers/#BH00074BLE)» «[English](../en/prayers/#BH00074BLE)» 
+BH00074BLE «[English](../en/prayers/#BH00074BLE)» «[Français](../fr/prayers/#BH00074BLE)» «[Esperanto](../eo/prayers/#BH00074BLE)» «[Papiamentu](../pap/prayers/#BH00074BLE)» 
 
 ----
 
@@ -113,7 +113,7 @@ Mi a lanta awe mainta pa fabor di Bo grasia, O mi Dios,  i a laga mi kas konfian
 
 -- Bahá'u'lláh
 
-BH00009GRA «[Esperanto](../eo/prayers/#BH00009GRA)» «[Papiamentu](../pap/prayers/#BH00009GRA)» «[English](../en/prayers/#BH00009GRA)» «[Nederlands](../nl/prayers/#BH00009GRA)» 
+BH00009GRA «[Nederlands](../nl/prayers/#BH00009GRA)» «[English](../en/prayers/#BH00009GRA)» «[Esperanto](../eo/prayers/#BH00009GRA)» «[Papiamentu](../pap/prayers/#BH00009GRA)» 
 
 ----
 
@@ -129,7 +129,7 @@ Mi ta duna testimonio, o mi Dios, ku Bo a kriami pa mi konosé Bo i adorá Bo.  
 
 -- Bahá'u'lláh
 
-BH11209 «[Esperanto](../eo/prayers/#BH11209)» «[Frysk](../fy/prayers/#BH11209)» «[Papiamentu](../pap/prayers/#BH11209)» «[English](../en/prayers/#BH11209)» 
+BH11209 «[English](../en/prayers/#BH11209)» «[Frysk](../fy/prayers/#BH11209)» «[Esperanto](../eo/prayers/#BH11209)» «[Papiamentu](../pap/prayers/#BH11209)» 
 
 ----
 
@@ -145,7 +145,7 @@ Tin otro kitador di difikultatnan si no ta Dios? Bisá: Alabá sea Dios.  E ta D
 
 -- Báb
 
-BB00623 «[Esperanto](../eo/prayers/#BB00623)» «[Frysk](../fy/prayers/#BB00623)» «[Português (BR)](../pt/prayers/#BB00623)» «[Français](../fr/prayers/#BB00623)» «[Papiamentu](../pap/prayers/#BB00623)» «[English](../en/prayers/#BB00623)» 
+BB00623 «[English](../en/prayers/#BB00623)» «[Français](../fr/prayers/#BB00623)» «[Português (BR)](../pt/prayers/#BB00623)» «[Frysk](../fy/prayers/#BB00623)» «[Esperanto](../eo/prayers/#BB00623)» «[Papiamentu](../pap/prayers/#BB00623)» 
 
 ----
 
@@ -161,7 +161,7 @@ O mi Dios! O mi Dios!  Uni e kurasonnan di Bo sirbidornan i rebela nan Bo obheti
 
 -- Bahá'u'lláh
 
-BH10505 «[Esperanto](../eo/prayers/#BH10505)» «[Frysk](../fy/prayers/#BH10505)» «[Papiamentu](../pap/prayers/#BH10505)» «[English](../en/prayers/#BH10505)» 
+BH10505 «[English](../en/prayers/#BH10505)» «[Frysk](../fy/prayers/#BH10505)» «[Esperanto](../eo/prayers/#BH10505)» «[Papiamentu](../pap/prayers/#BH10505)» 
 
 ----
 

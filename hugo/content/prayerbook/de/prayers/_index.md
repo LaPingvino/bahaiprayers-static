@@ -124,7 +124,7 @@ Wahrlich, Du bist der Geber, der Großmütige, der Barmherzige, der Verzeihende.
 
 -- Abdu'l-Bahá
 
-AB06528MID «[Italiano](../it/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/#AB06528MID)» «[Español](../es/prayers/#AB06528MID)» «[Deutsch](../de/prayers/#AB06528MID)» «[English](../en/prayers/#AB06528MID)» 
+AB06528MID «[English](../en/prayers/#AB06528MID)» «[Deutsch](../de/prayers/#AB06528MID)» «[Español](../es/prayers/#AB06528MID)» «[Esperanto](../eo/prayers/#AB06528MID)» «[Italiano](../it/prayers/#AB06528MID)» 
 
 ----
 
@@ -934,7 +934,7 @@ Herr, hier sind Diener, die fest und standhaft blieben in Deinem Bund und Testam
 
 -- Abdu'l-Bahá
 
-AB06211 «[Português (BR)](../pt/prayers/#AB06211)» «[Español](../es/prayers/#AB06211)» «[Deutsch](../de/prayers/#AB06211)» «[English](../en/prayers/#AB06211)» 
+AB06211 «[English](../en/prayers/#AB06211)» «[Deutsch](../de/prayers/#AB06211)» «[Português (BR)](../pt/prayers/#AB06211)» «[Español](../es/prayers/#AB06211)» 
 
 ----
 
@@ -1318,7 +1318,7 @@ Du bist wahrlich der Heiler, der Erhalter, der Helfer, der Allmächtige, der Kra
 
 -- Bahá'u'lláh
 
-BH07721 «[Deutsch](../de/prayers/#BH07721)» «[English](../en/prayers/#BH07721)» 
+BH07721 «[English](../en/prayers/#BH07721)» «[Deutsch](../de/prayers/#BH07721)» 
 
 ----
 
