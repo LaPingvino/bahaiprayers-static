@@ -21,7 +21,6 @@ import (
 	"net/http"
 	"os"
 	"strconv"
-	"strings"
 	"sync"
 	"text/template"
 
@@ -64,7 +63,7 @@ tags = ['lang={{.LanguageCode}}', 'prayerbook']
 
 -- {{.Author}}
 
-{{.PrayerCode}} {{range (index $cl .PrayerCode)}}«[{{.LanguageName}}](../{{.LanguageCode}}/#{{.PrayerCode}})» {{end}}
+{{.PrayerCode}} {{range (index $cl .PrayerCode)}}«[{{.LanguageName}}](../{{.LanguageCode}}/prayers/#{{.PrayerCode}})» {{end}}
 
 ----
 
@@ -370,13 +369,26 @@ title = "%s"
 
 // SavePrayerBook saves a prayer book. It's like SavePrayer but it doesn't take path elements.
 func SavePrayerBook(outputDir, lang string, book PrayerBook) {
-	dir := outputDir + "/" + lang + "/"
-	// Remove double slashes
-	dir = strings.Replace(dir, "//", "/", -1)
+	// Remove the last / from the outputDir
+	if outputDir[len(outputDir)-1] == '/' {
+		outputDir = outputDir[:len(outputDir)-1]
+	}
+	dir := outputDir + "/" + lang + "/prayers/"
 	// Create the directory
+	os.MkdirAll(outputDir+"/"+lang, 0755)
 	os.MkdirAll(dir, 0755)
+	// Create a dummy file in /lang/
+	f, err := os.Create(outputDir + "/" + lang + "/_index.md")
+	if err != nil {
+		panic(err.Error())
+	}
+	f.WriteString(fmt.Sprintf(`+++
+title = "%s"
++++
+`, lang))
+	f.Close()
 	// Create the file and fill it with the prayer text
-	f, err := os.Create(dir + "_index.md")
+	f, err = os.Create(dir + "_index.md")
 	if err != nil {
 		panic(err.Error())
 	}
@@ -525,6 +537,7 @@ func main() {
 		fmt.Println("Saving prayers to files...")
 		if prayerBook {
 			// Put a title in _index.md of the output directory
+			os.MkdirAll(outputDir, 0755)
 			f, err := os.Create(outputDir + "/_index.md")
 			if err != nil {
 				panic(err.Error())
